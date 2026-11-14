@@ -47,17 +47,22 @@ sources:
     publisher: Diario ABC
     date: 2026-11-13
     language: es
+  - title: Detenida una mujer durante un control en la A-6, en Medina del Campo, que portaba cocaína, hachís, ketamina o MDMA
+    url: https://www.larazon.es/castilla-y-leon/detenida-mujer-control-medina-campo-que-portaba-cocaina-hachis-ketamina-mdma_202611136af6ea399a31a65adcdac9a9.html
+    publisher: La Razón
+    date: 2026-11-13
+    language: es
 ---
 
 On the early hours of Monday 9 November 2026, the Guardia Civil stopped a
 vehicle on the A-6 motorway at the height of Medina del Campo and arrested the
-female passenger, who was carrying a bag fastened to her body. [@1,2] The
+female passenger, who was carrying a bag fastened to her body. [@1,2,3] The
 checkpoint, run under the Comandancia de Valladolid, identified the vehicle's
-occupants: two men and a woman. [@1,2]
+occupants: two men and a woman. [@1,2,3]
 
 Among the seized material were approximately 200 grams of ketamine, 110 units of
 a pink substance that could be amphetamines, 16 grams of cocaine, 0.8 grams of a
 pink substance presumed to be tusi, another bag with possible MDMA, and one
-piece of about 1.8 grams of hashish. [@1,2] The Guardia Civil handed both the
+piece of about 1.8 grams of hashish. [@1,2,3] The Guardia Civil handed both the
 seized substances and the arrested woman to the competent judicial authority,
-which ordered her imprisonment. [@1,2]
+which ordered her imprisonment. [@1,2,3]
