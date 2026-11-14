@@ -60,6 +60,10 @@ sources:
     url: https://www.mp-update.co.za/article/n4-high-speed-chase-ends-with-r930-000-dagga-seizure
     publisher: Mpumalanga Update
     date: 2026-11-13
+  - title: Nelspruit Flying Squad arrested a suspect and confiscated a substantial quantity of dagga following a high-speed chase along the N4 Highway
+    url: https://www.arrivealive.co.za/news.aspx?i=79143&page=nelspruit-flying-squad-arrested-a-suspect-and-confiscated-a-substantial-quantity-of-dagga-following-a-high-speed-chase-along-the-n4-highway&s=0
+    publisher: Arrive Alive
+    date: 2026-11-13
 open_questions:
   - The suspect's name and age were not published in the opened sources.
   - The 154.7 kg weight and R930,000 street value are approximate police figures, not independently confirmed.
@@ -69,23 +73,22 @@ open_questions:
 
 Members of the Nelspruit Flying Squad on patrol near the Kanyamazane off-ramp
 spotted a suspicious silver Suzuki sedan travelling from Matsulu towards
-Kanyamazane at about 18:30 on Thursday, 12 November 2026. [@2] The sedan had no
+Kanyamazane at about 18:30 on Thursday, 12 November 2026. [@2,3] The sedan had no
 registration plates fitted at the front or rear, prompting officers to try to
 stop it. [@1] The driver accelerated instead of pulling over, sparking a
-high-speed pursuit along the N4 highway. [@1] Officers from Kanyamazane SAPS
+high-speed pursuit along the N4 highway. [@1,3] Officers from Kanyamazane SAPS
 joined the chase, which ended when the vehicle was stopped at Tekwane North in
-the Ma RR area. [@1] The male driver was arrested and charged with possession of
-and dealing in dagga. [@1] He is expected to appear in court soon. [@1]
+the Ma RR area. [@1,3] The male driver was arrested and charged with possession of
+and dealing in dagga. [@1,3] He is expected to appear in court soon. [@1,3]
 
 Members of the Nelspruit Flying Squad seized approximately 154.7 kg of dagga
 packed into eight large compressed bags after stopping a silver Suzuki sedan on
 the N4 in Mpumalanga. [@1] Officers found eight large compressed bags of dagga
-wrapped in brown plastic tape inside the vehicle. [@1] Police weighed the dagga
-at approximately 154.7 kg with an estimated street value of R930 000. [@1]
+wrapped in brown plastic tape inside the vehicle. [@1,3] Police weighed the dagga
+at approximately 154.7 kg with an estimated street value of R930 000. [@1,3]
 
 Mpumalanga police commissioner Lieutenant General Apaphia Modise commended the
 officers for their vigilance and swift response that led to the arrest and
 seizure. [@1] Modise said police remain committed to intensifying operations to
 disrupt drug trafficking networks and remove illegal substances from
 communities. [@1]
-
