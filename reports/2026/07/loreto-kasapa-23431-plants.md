@@ -51,24 +51,33 @@ sources:
     url: https://www.philstar.com/nation/2026/07/07/2540493/law-enforcers-uproot-p6-m-worth-marijuana-plants-agusan-del-sur
     publisher: Philstar.com
     date: 2026-07-07
+  - title: P6-M worth of marijuana plants destroyed in Agusan del Sur
+    url: https://newsinfo.inquirer.net/2258158/p6-m-worth-of-marijuana-plants-destroyed-in-agusan-del-sur
+    publisher: INQUIRER.net
+    date: 2026-07-06
 media:
   - kind: photo
     url: https://www.philstar.com/nation/2026/07/07/2540493/law-enforcers-uproot-p6-m-worth-marijuana-plants-agusan-del-sur
     media_url: https://media.philstar.com/photos/2026/07/07/marijuana-mindanao_2026-07-07_18-15-23.jpg
     publisher: Philstar.com (John Unson)
     caption: Uprooted marijuana plants from the Loreto operation, as shown with Philstar's report.
+  - kind: photo
+    url: https://newsinfo.inquirer.net/2258158/p6-m-worth-of-marijuana-plants-destroyed-in-agusan-del-sur
+    media_url: https://newsinfo.inquirer.net/files/2026/07/IMG_1676-1200x1697.jpeg
+    publisher: INQUIRER.net
+    caption: Joint police, anti-drug and Army personnel with uprooted marijuana plants during the Barangay Kasapa 1 eradication operation. Photo courtesy of PRO-13.
 ---
 
 On Saturday 4 July 2026, personnel from the Philippine Drug Enforcement Agency's Caraga office,
 Agusan del Sur police and the Army's 60th Infantry Battalion uprooted 23,431 fully grown marijuana
-plants in Sitio Bunlak, Barangay Kasapa, Loreto, Agusan del Sur. [@1,2] Authorities valued the
-crop at six million pesos. [@1,2]
+plants in Sitio Bunlak, Barangay Kasapa, Loreto, Agusan del Sur. [@1,2,3] The operation brought together the Loreto Municipal Police Station, the Agusan del Sur Provincial Intelligence Unit, the PDEA-Agusan del Sur Provincial Office, the 2nd Agusan del Sur Provincial Mobile Force Company, and Alpha Company of the Army's 60th Infantry Battalion. [@3] Authorities valued the
+crop at six million pesos. [@1,2,3]
 
 The Philippine News Agency said the plantation covered about 16,000 square metres roughly 207
 kilometres from Loreto's municipal police station, and that police had identified a cultivator but
-made no arrest. [@1] Philstar reported that villagers and traditional leaders, including former
+made no arrest. [@1] Follow-up operations were underway to locate and arrest the suspect. [@3] Philstar reported that villagers and traditional leaders, including former
 members of the New People's Army who had returned to farming, had tipped off authorities about the
 two-hectare farm. [@2]
 
 Armed men guarding the site fled as teams approached from two directions. [@2] After samples were
-collected for laboratory examination, the remaining plants were burned on site. [@1,2]
+collected for laboratory examination, the remaining plants were burned on site. [@1,2,3] The plants were burned in the presence of a barangay kagawad and a member of the media to ensure transparency and compliance with standard operating procedures. [@3]
