@@ -41,25 +41,23 @@ sources:
     publisher: Jawhara FM
     date: 2026-11-13
     language: ar
-open_questions:
-  - No weight or count was published for the cannabis, so no cannabis weight is recorded in figures.
-  - The cocaine weight of about 120 grams is not counted in cannabis figures because mixed-event totals cannot be combined.
-  - No separate date for the ambush was given; 14 November 2026 is the Tuniscope publication date and is used as the incident date, while Jawhara FM published on 13 November 2026.
-  - No charge, detention measure or court outcome was reported; the case stood at the investigation stage.
-  - The suspect was identified only as a wanted man classified as dangerous, with no age or name given.
-  - Both accounts reproduce the same police operation account, so there is no independent reporting beyond the official statement.
+  - title: تفكيك وفاق إجرامي لترويج المخدرات..وهذه التفاصيل.. | المصدر تونس
+    url: https://ar.webmanagercenter.com/2026/11/14/430475/%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D9%88%D9%81%D8%A7%D9%82-%D8%A5%D8%AC%D8%B1%D8%A7%D9%85%D9%8A-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D9%87%D8%B0/
+    publisher: المصدر تونس (Almasdar)
+    date: 2026-11-14
+    language: ar
 ---
 
 The Sousse Regional Brigade for Combating Drugs, which is attached to the El
 Gorjani Sub-Directorate for Combating Drugs, caught a prominent member of a
 criminal network that traffics narcotics in a prepared security operation in
-Houmet El Gaz in Tfalla, Sousse. [@1] The man arrested in the ambush was wanted
+Houmet El Gaz in Tfalla, Sousse. [@1,3] The man arrested in the ambush was wanted
 by the authorities and was classified as a dangerous element among the network's
-key members. [@2]
+key members. [@2,3] After the ambush, officers raided the suspect's home after consulting the Public Prosecution. [@3]
 
 Officers seized about 120 grams of cocaine together with a quantity of cannabis
 that was found inside his home and was prepared for sale, especially among young
-people in the area. [@1] A second account of the same operation said the
+people in the area. [@1,3] A second account of the same operation said the
 cannabis was stored at his house and was intended for dealing to young age
 groups in the Sousse region. [@2] The seizure was made at the suspect's home
 rather than a cultivation or border site, and police described the drugs as
@@ -68,4 +66,3 @@ ready for street-level sale to youth. [@1]
 The El Gorjani Judicial Police said the operation continues its security
 campaigns against drug dealing and the networks active in the field in the
 country's various governorates. [@1]
-
