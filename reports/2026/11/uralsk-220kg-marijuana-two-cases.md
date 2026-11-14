@@ -79,19 +79,18 @@ sources:
     publisher: Total.kz
     date: 2026-11-13
     language: ru
-open_questions:
-    - Neither the police statement nor the reports give a date for the searches or the detention; 13 November 2026 is their publication date and is used as the incident date.
-    - Police did not say whether the two seizures are connected or whether the 45-year-old resident was detained, charged or questioned as a suspect.
-    - No charges, court dates or outcomes were reported; both cases were at the pre-trial investigation stage.
-    - The combined weight of 221 kg 16 g is calculated from the two batches, while the police statement described the haul only as more than 220 kg.
-    - Investigators had not established where the marijuana came from or where it was intended to be distributed.
+  - title: Более 220 кг марихуаны изъяли полицейские в ЗКО
+    url: https://ru.qaz365.kz/zakon-i-poryadok/25498-bolee-220-kg-marikhuany-iziali-politseiskie-v-zko/
+    publisher: Qaz365.kz
+    date: 2026-11-14
+    language: ru
 ---
 
-Police in Uralsk detained a 34-year-old local resident. [@3,4,5,6] Officers found two
+Police in Uralsk detained a 34-year-old local resident. [@3,4,5,6,7] Officers found two
 large boxes in the courtyard of the man's house, containing 12 plastic bags of
-plant material. [@3,5,6] Testing identified the contents as dried marijuana weighing
-198 kg 16 g. [@1,4,5] A search of the flat of another Uralsk resident, aged 45,
-uncovered another 23 kg of dried marijuana. [@2,4,5,6] Across the two cases, police
+plant material. [@3,5,6,7] Testing identified the contents as dried marijuana weighing
+198 kg 16 g. [@1,4,5,7] A search of the flat of another Uralsk resident, aged 45,
+uncovered another 23 kg of dried marijuana. [@2,4,5,6,7] Across the two cases, police
 said more than 220 kg of marijuana was taken out of illegal circulation. [@3,4,5]
 
 Officers from the organised-crime unit of the West Kazakhstan regional police
