@@ -96,16 +96,21 @@ sources:
     publisher: Habertürk
     date: 2026-11-14
     language: tr
+  - title: Şanlıurfa'da 176 kilogram esrar ele geçirildi - Şanlıurfa Haberleri
+    url: https://www.milliyet.com.tr/yerel-haberler/sanliurfa/sanliurfada-176-kilogram-esrar-ele-gecirildi-7700595
+    publisher: Milliyet
+    date: 2026-11-14
+    language: tr
 ---
 
 Şanlıurfa Governor Hasan Şıldak announced that gendarmerie and police anti-drug
 operations in Şanlıurfa seized a total of 193 kilograms 500 grams of drugs and
 that five suspects were detained. [@1] The five suspects were detained in
-connection with the seizures. [@2,4,5,8,9] The detained suspects were taken to the Provincial Gendarmerie Command for procedures. [@7,8,9,10]
+connection with the seizures. [@2,4,5,8,9,11] The detained suspects were taken to the Provincial Gendarmerie Command for procedures. [@7,8,9,10,11]
 
 The gendarmerie’s planned operation seized 173 kilograms of powdered toz esrar
 and 3 kilograms 500 grams of chunk kubar esrar, together 176 kilograms 500
-grams. [@1,4] Searches were carried out at addresses identified by the teams. [@6,8,9,10] The same gendarmerie total was described as 173 kilos of powdered
+grams. [@1,4] Searches were carried out at addresses identified by the teams. [@6,8,9,10,11] The same gendarmerie total was described as 173 kilos of powdered
 esrar and 3 kilos 500 grams of kubar esrar, making 176 kilos 500 grams in total.
 [@2] Police work in the same round of operations seized 17 kilograms of skunk.
 [@1,4]
