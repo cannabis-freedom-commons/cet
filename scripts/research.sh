@@ -274,7 +274,7 @@ def isolated_build(owned, out, run_dir, name):
 
 
 if build_only:
-    code = quiet_build(shlex.split(os.environ.get("RESEARCH_VALIDATE_CMD", "npm test")),
+    code = quiet_build(shlex.split(os.environ.get("RESEARCH_VALIDATE_CMD", "npm run test:reports")),
                        log_dir / "build.log")
     sys.exit(code)
 
@@ -337,7 +337,7 @@ def run_command(cmd, log, raw_file=None, muse_json=False):
     return returncode
 
 
-validate_cmd = os.environ.get("RESEARCH_VALIDATE_CMD", "npm test").strip()
+validate_cmd = os.environ.get("RESEARCH_VALIDATE_CMD", "npm run test:reports").strip()
 max_steps = os.environ.get("RESEARCH_MAX_STEPS", "120")
 if not max_steps.isdecimal() or int(max_steps) < 1:
     sys.exit("RESEARCH_MAX_STEPS must be a positive integer")
@@ -602,9 +602,10 @@ verified or its direct URL could not be recovered; do not make a missing photo
 a blocker or turn every unsuccessful image search into an open question.
 
 COMPLETE THE RESEARCH AND ARCHIVING, AND RUN LIGHTWEIGHT CHECKS AS NEEDED.
-Do not run `npm run build` or `npx astro build`: a build is not needed and can race
-with another one. To check the reports, run `npm test` (about half a minute).
-The outer research.sh controller always runs `npm test` once your Muse run
+Do not run `npm run build`, `npx astro build` or the full `npm test`: they are not
+needed and start browsers and servers. To check the reports, run
+`npm run test:reports` (about ten seconds): every report against the site's schema
+and rules. The outer research.sh controller always runs it once your Muse run
 completes, so usually skip it yourself.
 YAML SAFETY: open_questions must be a list of STRINGS. Quote any item containing
 colon + space, such as `- "Disputed count: two publications disagree"`, or YAML

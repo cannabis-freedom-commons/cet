@@ -9,6 +9,7 @@
     "backend-dev": "node scripts/backend-dev.mjs",
     "worker": "node scripts/worker-dev.mjs",
     "test": "node --test scripts/*.test.mjs",
+    "test:reports": "node --test scripts/reports.test.mjs scripts/report-schema.test.mjs scripts/report-limits.test.mjs",
     "prebuild": "npm test",
     "build": "astro build",
     "build:pages": "node scripts/build-pages.mjs",
