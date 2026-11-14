@@ -42,6 +42,11 @@ media:
     media_url: https://posmetropadang.co.id/wp-content/uploads/2026/11/1-14.jpg
     publisher: Posmetro Padang
     caption: PD and IP detained by Satresnarkoba Polres Pasaman with seven large packets of dried ganja.
+  - kind: photo
+    url: https://sumbarkita.id/pengedar-dan-bandar-ganja-diciduk-saat-transaksi-di-pasaman-8-kg-barang-bukti-disita/
+    media_url: https://sumbarkita.id/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-17.50.34-750x536.jpeg
+    publisher: Sumbarkita.id
+    caption: 'Police photo of the detention of PD and IP at Jorong Katimahar, Panti. Photo: Polres Pasaman'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f95b428850ef48c1b0304bed8889982f
@@ -82,25 +87,30 @@ sources:
     publisher: Salingka Media
     date: 2026-11-14
     language: id
+  - title: Pengedar dan Bandar Ganja Diciduk Saat Transaksi di Pasaman, 8 Kg Barang Bukti Disita
+    url: https://sumbarkita.id/pengedar-dan-bandar-ganja-diciduk-saat-transaksi-di-pasaman-8-kg-barang-bukti-disita/
+    publisher: Sumbarkita.id
+    date: 2026-11-14
+    language: id
 ---
 
 Satresnarkoba Polres Pasaman detained two suspected cannabis dealers at about
 20.30 WIB on Thursday 12 November 2026 at Jorong Katimahar, Nagari Panti Timur,
-Kecamatan Panti, in Pasaman regency, West Sumatra. [@1,3,4,5] The two men, PD alias
+Kecamatan Panti, in Pasaman regency, West Sumatra. [@1,3,4,5,8] The two men, PD alias
 Sipon and Ilcan Prayono alias Teil aged 38, were local residents suspected of
 being involved in the cannabis trade. [@1,3,4,5] Both suspects are farmers by profession, and both live in Jorong Katimahar. [@5,7]
 
 Officers seized nine packets believed to contain cannabis, seven large and two
-medium, plus a mobile phone and a motorcycle. [@1,4,5,6] Kasat Resnarkoba Polres
+medium, plus a mobile phone and a motorcycle. [@1,4,5,6,8] This account gives the total seizure as 8 kilograms of cannabis. [@8] Kasat Resnarkoba Polres
 Pasaman AKP Fahrul Roji led the arrest with personnel of Tim Opsnal Elang Timur.
 [@1,3,5]
 
 The operation followed a community report of suspected drug transactions in
 Nagari Panti Timur, after which officers investigated and monitored the area.
 [@1,3,5,6] Officers then carried out an undercover buy, in which a police officer
-posed as a prospective buyer of cannabis. [@1,3,5,6,7] PD alias Sipon agreed to meet the
+posed as a prospective buyer of cannabis. [@1,3,5,6,7,8] PD alias Sipon agreed to meet the
 undercover officer at a coffee shop in Jorong Kuamang, but redirected the
-meeting to another location in Jorong Katimahar. [@1,3,5]
+meeting to another location in Jorong Katimahar. [@1,3,5,8]
 
 At the planned transaction, the second suspect, IP, brought a large cannabis
 packet wrapped in brown tape from the motorcycle trunk and handed it to PD. [@2] The undercover officer, acting alone, had PD put the packet down under a seat to avoid suspicion, then left and called the standby team in for the ambush. [@5] Police then searched the home of IP alias Teil and found six large ganja packets wrapped in brown tape and two medium packets wrapped in black and red plastic. [@4,5]
