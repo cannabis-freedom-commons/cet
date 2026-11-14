@@ -135,6 +135,11 @@ sources:
     publisher: domžalec.si
     date: 2026-11-13
     language: sl
+  - title: V Kamniku zasegli več kot tisoč sadik konoplje in kilogram kokaina
+    url: https://tv3m.si/article/v-kamniku-zasegli-vec-kot-tisoc-sadik-konoplje-in-kilogram-kokaina
+    publisher: TV3
+    date: 2026-11-13
+    language: sl
 ---
 
 Police arrested two Serbian citizens after discovering a cannabis-growing space
@@ -144,11 +149,11 @@ were aged 37 and 35, and police acted on gathered information and a court order.
 [@1,3,4,7,8,10,12,13]
 
 Inside the specially adapted growing space were more than 1,000 cannabis
-seedlings. [@1,3,4,6,7,8,10,12,13] Police seized about 2 kilograms of dried cannabis and numerous
-pieces of growing equipment. [@1,3,4,6,7,8,10,12,13] They also seized more than 1 kilogram of
-cocaine and around €3,000 in cash. [@1,3,4,6,7,8,9,12,13]
+seedlings. [@1,3,4,6,7,8,10,12,13,14] Police seized about 2 kilograms of dried cannabis and numerous
+pieces of growing equipment. [@1,3,4,6,7,8,10,12,13,14] They also seized more than 1 kilogram of
+cocaine and around €3,000 in cash. [@1,3,4,6,7,8,9,12,13,14]
 
 Investigators detained both men and ordered pridržanje, or police custody. [@1,3,4,6,7,8,11]
 On Thursday, 12 November, the men were brought before an investigating judge
-with a criminal complaint. [@2,3,4,6,7,8,11,12,13] The judge ordered pripor, detention on remand,
-for both suspects. [@2,3,4,6,7,8,9,12,13] Both suspects remained in detention on remand as the portals reported the case on 13 November 2026. [@10]
+with a criminal complaint. [@2,3,4,6,7,8,11,12,13,14] The judge ordered pripor, detention on remand,
+for both suspects. [@2,3,4,6,7,8,9,12,13,14] Both suspects remained in detention on remand as the portals reported the case on 13 November 2026. [@10]
