@@ -69,31 +69,29 @@ sources:
     publisher: Komsomolskaya Pravda - Lipetsk
     date: 2026-11-14
     language: ru
-open_questions:
-  - No separate date for the detention or search was reported; 14 November 2026 is the publication date of all three accounts and is used as the incident date.
-  - The village where the man lived was not named, so the location is recorded at district level.
-  - The plant weight is given as more than 1.9 kg in two accounts and almost 2 kg in the third; the recorded 1.9131 kg total combines the reported 1.9 kg of plants with 13.1 g of finished drug.
-  - No court outcome was reported; the case was at the investigation stage with the suspect under a travel restriction.
-  - All three accounts reproduce the same Lipetsk regional police statement and are not independent reporting.
+  - title: В Липецком округе полицейские задержали мужчину за хранение конопли
+    url: https://lipetsktime.ru/amp/incidents/v-lipeckom-okruge-policejskie-zaderzhali-muzhchinu-za-hranenie-konopli/
+    publisher: Липецкое время
+    date: 2026-11-14
+    language: ru
 ---
 
 Officers of the drug-control department of the Lipetsk regional interior
 ministry detained a 42-year-old resident of a village in Lipetsky municipal
-okrug on suspicion of unlawful storage of plant-based narcotics. [@1] Police say
+okrug on suspicion of unlawful storage of plant-based narcotics. [@1,4] Police say
 the unlawful activity was uncovered during the third stage of the
-interdepartmental operation Mak-2026. [@2] The man told police he had kept the
+interdepartmental operation Mak-2026. [@2,4] The man told police he had kept the
 banned substances for personal use, with no intent to sell. [@1]
 
 Searching his property, officers seized six cannabis bushes he had grown in the
-yard and a plastic jar with a ready-to-use drug kept in the garage. [@1]
+yard and a plastic jar with a ready-to-use drug kept in the garage. [@1,4]
 According to the expert findings, the growing plants weighed more than 1.9
-kilograms and the ready-to-use drug weighed 13.1 grams. [@2] On his household
+kilograms and the ready-to-use drug weighed 13.1 grams. [@2,4] On his household
 plot he had grown the cannabis, processed it and stored the finished drug in the
 garage. [@3]
 
 An investigator of the Lipetsky police department opened a criminal case under
 part 2 of article 228, unlawful storage of narcotics on a large scale without
-purpose of sale. [@1] The charge carries a maximum penalty of up to 10 years'
+purpose of sale. [@1,4] The charge carries a maximum penalty of up to 10 years'
 imprisonment. [@2] The suspect was placed under a travel restriction requiring
-him not to leave and to behave properly. [@2]
-
+him not to leave and to behave properly. [@2,4]
