@@ -65,6 +65,11 @@ sources:
     publisher: Algérie Presse Service
     date: 2026-11-13
     language: zh
+  - title: ضربات متواصلة لبارونات المخدرات..
+    url: https://www.elkhabar.com/Ar/nation/%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%85%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D9%84%D8%A8%D8%A7%D8%B1%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-276243
+    publisher: الخبر
+    date: 2026-11-14
+    language: ar
 media:
   - kind: photo
     url: https://www.elkhabar.com/societe/%D8%AD%D8%AC%D8%B2-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AE%D9%84%D8%A7%D9%84-10-%D8%A3%D8%B4%D9%87%D8%B1-276196
@@ -82,14 +87,14 @@ cadres chaired by Ibrahim Murad, the Minister of State for the Interior and
 Local Communities. [@1,4] El Massa reports that the meeting took place at the Higher Police School Ali Tounsi in Algiers, where Ibrahim Murad opened the national guidance meeting of senior National Security cadres. [@5]
 
 Badaoui announced that the police seized more than 5 tonnes and 800 kg of
-cannabis, or 5.8 tonnes, between 1 January and 31 October 2026. [@1,3,5,6] The same
+cannabis, or 5.8 tonnes, between 1 January and 31 October 2026. [@1,3,5,6,7] The same
 ten-month haul included more than 874 kg of cocaine and about 31 million
-psychotropic tablets, which are not counted as cannabis. [@1,5] A second outlet
+psychotropic tablets, which are not counted as cannabis. [@1,5,7] A second outlet
 gives the same ten-month seizure totals: more than 874 kg of cocaine, more than
 5 tonnes and 800 kg of cannabis and about 31 million psychotropic tablets. [@2]
 
 The directorate also handled more than 16,000 economic and financial crimes
 involving more than 20,000 people and registered more than 2,300 organised-crime
-cases harming the national economy with more than 3,200 people involved. [@1,3] Badaoui said the directorate had also recorded 8,094 cybercrimes implicating more than 9,600 people and dismantled three organised networks specialising in them. [@4,5,6]
+cases harming the national economy with more than 3,200 people involved. [@1,3] Badaoui said the directorate had also recorded 8,094 cybercrimes implicating more than 9,600 people and dismantled three organised networks specialising in them. [@4,5,6,7]
 The second outlet likewise reports more than 194,000 cases implicating over
 210,000 people, including more than 44,000 in drug trafficking. [@2]
