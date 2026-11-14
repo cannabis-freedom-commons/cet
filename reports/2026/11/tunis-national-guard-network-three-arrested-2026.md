@@ -92,6 +92,11 @@ sources:
     publisher: Tuniscope
     date: 2026-11-09
     language: ar
+  - title: إيقاف مدرب رياضي وعنصرين آخرين في قضية ترويج مخدرات مرتبطة بمحيط أحد النوادى
+    url: https://ar.webmanagercenter.com/2026/11/09/430200/%D8%A5%D9%8A%D9%82%D8%A7%D9%81-%D9%85%D8%AF%D8%B1%D8%A8-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D9%88%D8%B9%D9%86%D8%B5%D8%B1%D9%8A%D9%86-%D8%A2%D8%AE%D8%B1%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B6%D9%8A%D8%A9/
+    publisher: المصدر تونس
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No date is given for the operation; 9 November 2026 is the publication date and stands in for the incident date.
   - No weight, plant count or value was published for the cannabis; the cocaine weight is not included in the cannabis figure.
@@ -120,14 +125,14 @@ media:
 The National Guard's Research and Inspection Brigade in Tunis, working with the
 second central intelligence brigade after an intelligence and field
 investigation, dismantled a drug network suspected of ties to another group.
-[@1,3,6,7,10] Officers arrested three suspected members of the network, including a
-group-sports coach, and put a fourth person on a wanted list. [@1,2,3,4,6,8,9,10]
+[@1,3,6,7,10,11] Officers arrested three suspected members of the network, including a
+group-sports coach, and put a fourth person on a wanted list. [@1,2,3,4,6,8,9,10,11]
 
 The operation seized about 100 grams of cocaine, an unspecified quantity of
 cannabis, known locally as zatla, about 100,000 dinars in cash and two cars
-suspected of being used to move the network's members. [@1,2,3,4,6,7,8,9,10]
+suspected of being used to move the network's members. [@1,2,3,4,6,7,8,9,10,11]
 
 After being informed, the public prosecutor authorised the legal measures
-required against the suspects. [@1,2,3,6,7,9,10]
+required against the suspects. [@1,2,3,6,7,9,10,11]
 
 An informed source told the Tunis Afrique Presse agency that three people, including a sports coach, were arrested on suspicion of involvement in a drug-trafficking network linked to a group of supporters of a sports club. [@2] The accounts describe the network as promoting both cocaine and cannabis and put the cash seized at 100,000 dinars. [@5] La Presse de Tunisie, citing a source close to the TAP agency, reported that the three were held over a network tied to a supporters' group of a sports club. [@3]
