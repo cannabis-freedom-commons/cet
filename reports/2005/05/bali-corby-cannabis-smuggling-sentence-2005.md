@@ -25,6 +25,7 @@ details:
   sentence_types: [prison]
   setting: [airport]
   route: {from: [au], to: [id]}
+  related: [bali-corby-parole-release-2014]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
@@ -48,7 +49,7 @@ sources:
     url: https://www.sydneycriminallawyers.com.au/blog/the-political-sacrifice-of-schapelle-corby/
 open_questions:
   - The opened sources confirm no fine figure imposed alongside the prison sentence.
-  - Later appeals and clemency decisions are separate events not covered here.
+  - Her later clemency and parole are covered in a separate report on her February 2014 release.
 ---
 
 Three judges of the Denpasar District Court found Australian Schapelle Corby guilty of importing
