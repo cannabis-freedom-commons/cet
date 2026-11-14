@@ -53,30 +53,44 @@ sources:
     publisher: Uttaradhikar 71 News
     date: 2026-11-12
     language: bn
+  - title: ঈশ্বরদীতে ৫৫ পিস ইয়াবা ও গাঁজাসহ নারী গ্রেপ্তার
+    url: https://www.alokitobangladesh.com/country-news/357615/%E0%A6%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%A6%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A7%AB%E0%A7%AB-%E0%A6%AA%E0%A6%BF%E0%A6%B8-%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%93-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0
+    publisher: Alokito Bangladesh
+    date: 2026-11-12
+    language: bn
+  - title: ঈশ্বরদীতে ইয়াবা-গাঁজাসহ নারী গ্রেপ্তার
+    url: https://www.ajkerbangladesh.com.bd/crime/2026/11/12/219239
+    publisher: Ajker Bangladesh
+    date: 2026-11-12
+    language: bn
+  - title: ঈশ্বরদীতে ইয়াবা-গাঁজাসহ নারী গ্রেপ্তার, নগদ ৩৬ হাজার টাকা উদ্ধার
+    url: https://www.protidinerishwardi.com/archives/3638
+    publisher: Protidiner Ishwardi
+    date: 2026-11-12
+    language: bn
 open_questions:
-  - The exact address of the room in the New Ruppur area where the drugs were seized is not published.
-  - No value estimate for the seized ganja was published.
-  - No charges, custody decision or court outcome beyond the filing of the regular case at Ishwardi Police Station was reported.
-  - The 55 pieces of yaba are recorded in the text but no separate detail has been entered for them.
-  - Only one accessible source reporting this specific incident was found; it is not yet corroborated by a second outlet.
-  - The page photo is captioned only with the story headline 'Ishwardite iyaba-ganjasoh nari greptor' and has no credit stating that it depicts this seizure, so it is not confirmed to show the operation and is not listed as media.
+    - The exact address of the room in the New Ruppur area where the drugs were seized is not published.
+    - No value estimate for the seized ganja was published.
+    - No charges, custody decision or court outcome beyond the filing of the regular case at Ishwardi Police Station was reported.
+    - The 55 pieces of yaba are recorded in the text but no separate detail has been entered for them.
+    - The accounts differ on whether the raid took place in the morning or at noon on 12 November 2026.
+    - The page photo is captioned only with the story headline and has no credit stating that it depicts this seizure, so it is not confirmed to show the operation.
 ---
 
 The Drug Control Agency (মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর, Department of Narcotics
 Control) arrested a woman in Ishwardi Upazila, Pabna, in an anti-drug operation.
-[@1] She was identified as Rima Khatun. [@1] On Thursday afternoon, 12 November
+[@1,3] She was identified as Rima Khatun. [@1,2] On Thursday afternoon, 12 November
 2026, a team led by Inspector Md. Abdur Rahim of the Ishwardi 'Kha' circle of
 the Department of Narcotics Control conducted the operation in the New Ruppur
-area of the upazila, acting on a secret tip. [@1]
+area of the upazila, acting on a secret tip. [@1,2]
 
 Officers searched her room and seized 55 pieces of yaba, 200 grams of ganja, and
-36,300 taka in cash described as proceeds from drug sales. [@1]
+36,300 taka in cash described as proceeds from drug sales. [@1,4]
 
 Assistant Inspector Muhammad Sher Alam of the Ishwardi circle of the Drug
 Control Agency filed a regular case against Rima Khatun at Ishwardi Police
-Station over the incident. [@1]
+Station over the incident. [@1,2]
 
 Inspector Md. Abdur Rahim said that, based on the secret tip, the operation was
 carried out and the woman was arrested, and added that operations against drugs
 would continue. [@1]
-
