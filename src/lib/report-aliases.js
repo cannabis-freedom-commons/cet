@@ -137,7 +137,15 @@ export default {
     "saransk-43-garage-marijuana-200g-court": "saransk-lodygina-garage-200g-cannabis-court",
     "castellar-valles-mataro-7-arrests-3000-plants": "mataro-3000-plants-seven-arrested",
     "baja-rosario-120-hectare-plantation-2011": "el-rosario-120-ton-plantation",
-    "niagara-project-woolwich-101049-plants-2020": "project-woolwich-niagara-raids-2020"
+    "niagara-project-woolwich-101049-plants-2020": "project-woolwich-niagara-raids-2020",
+    "fuerteventura-natalia-19-tonnes-hashish-2021": "natalia-hashish-fuerteventura-2021",
+    "edo-uzzeba-uhiere-5492kg-2021": "edo-uzzeba-uhiere-5492kg-seizure-2021",
+    "denpasar-barry-hess-drug-sentence-2007": "kuta-barry-hess-hashish-sentence-2007",
+    "templepatrick-nca-600kg-record-seizure-2020": "templepatrick-vegetable-lorry-600kg-2020",
+    "bangladeshi-student-habibul-acquittal-2021": "habibul-hassan-gallows-escaped-2021",
+    "maldives-velana-15kg-cannabis-two-arrested-2024": "maldives-airport-cannabis-seizure-2024",
+    "abu-dhabi-lees-20g-death-sentence-2012": "abu-dhabi-briton-syrian-death-sentences-overturned-2013",
+    "kuala-lumpur-thai-businessmen-death-sentence-2008": "my-kl-masoh-romuelee-acquittal-2009",
   },
   "codes": {
     "KQR40M": "carrickfergus-cannabis-farm-trio-sentenced-2023",
@@ -276,6 +284,14 @@ export default {
     "2XWGGB": "saransk-lodygina-garage-200g-cannabis-court",
     "FGN43P": "mataro-3000-plants-seven-arrested",
     "97JBW1": "el-rosario-120-ton-plantation",
-    "0XF206": "project-woolwich-niagara-raids-2020"
+    "0XF206": "project-woolwich-niagara-raids-2020",
+    "81XDWA": "natalia-hashish-fuerteventura-2021",
+    "G1V3CP": "edo-uzzeba-uhiere-5492kg-seizure-2021",
+    "BNKE03": "kuta-barry-hess-hashish-sentence-2007",
+    "DMQ1YH": "templepatrick-vegetable-lorry-600kg-2020",
+    "H4CFYY": "habibul-hassan-gallows-escaped-2021",
+    "2Q5ZBA": "maldives-airport-cannabis-seizure-2024",
+    "YE33CE": "abu-dhabi-briton-syrian-death-sentences-overturned-2013",
+    "G5TW4S": "my-kl-masoh-romuelee-acquittal-2009",
   }
 };
