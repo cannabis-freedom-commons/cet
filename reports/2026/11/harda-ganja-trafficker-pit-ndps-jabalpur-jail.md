@@ -31,6 +31,14 @@ open_questions:
   - Whether the earlier Temagaon consignment case is counted among the eight prior cases is not stated.
   - No detention review, court outcome or further proceedings were reported.
   - Only one accessible source for this event was found after searching in Hindi and English.
+media:
+  - kind: photo
+    url: https://anokhateer.com/archives/150092
+    media_url: https://anokhateer.com/wp-content/uploads/2026/11/07-6.webp
+    publisher: अनोखा तीर | खबर
+    caption: >-
+      Sheikh Khalil handcuffed between Rahatgaon police officers outside Thana Rahatgaon, Harda.
+      Photo: अनोखा तीर
 ---
 
 Police on Friday arrested Sheikh Khalil, described as a habitual ganja

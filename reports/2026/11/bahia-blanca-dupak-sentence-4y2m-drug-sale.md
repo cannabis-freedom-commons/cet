@@ -30,6 +30,14 @@ sources:
     publisher: De La Bahía Noticias
     date: 2026-11-13
     language: es
+media:
+  - kind: photo
+    url: https://www.lanueva.com/nota/2026-11-13-9-44-0-la-condenaron-a-4-anos-y-2-meses-de-prision-por-venta-de-droga-detectada-por-camaras
+    media_url: https://pxcdn.lanueva.com/112026/1794575629312.jpg
+    publisher: La Nueva
+    caption: >-
+      The convicted woman standing with a Buenos Aires Province illicit-drugs officer before the
+      Superintendencia banner. Photo: La Nueva
 ---
 
 Bahía Blanca's Criminal Court No. 3 sentenced María José Dupak to 4 years and 2

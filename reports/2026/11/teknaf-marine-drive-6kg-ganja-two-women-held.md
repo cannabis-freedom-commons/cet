@@ -70,6 +70,14 @@ sources:
     language: bn
 open_questions:
   - Dhaka Times places the separate 14 November yaba interception on the Naf River, with one suspect fleeing into a nearby keora garden, and does not name Jinna Khal.
+media:
+  - kind: photo
+    url: https://www.dhakatimes24.com/2026/11/14/417106
+    media_url: https://img.dhakatimes24.com/assets/news_photos/2026/11/14/image-417106.jpg
+    publisher: Dhaka Times 24
+    caption: >-
+      Two detained women with Teknaf Battalion (2 BGB) officers behind blue-wrapped packages on a
+      red BGB banner table. Photo: Dhaka Times 24
 ---
 
 On the night of 13 November 2026, Teknaf Battalion of Border Guard Bangladesh

@@ -56,6 +56,7 @@ open_questions:
   - No detentions were reported and the prosecutor did not say whether anyone was detained, so no arrest figure is recorded.
   - The 192 total bags and the non-cannabis breakdowns are context only; combined totals are not counted as cannabis.
   - The substances were described only as suspected or similar to drugs, with no laboratory confirmation reported.
+  - NTV illustrated the seizure with a Policía Estatal Caminos cruiser photo, not pictures of the Honda Fit or the seized bags.
 ---
 
 The Nayarit State Prosecutor's Office secured a Honda Fit during an operation in

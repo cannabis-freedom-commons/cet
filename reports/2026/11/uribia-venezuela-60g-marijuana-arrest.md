@@ -50,6 +50,14 @@ open_questions:
   - Only the 60 grams of marijuana is counted as cannabis; the 42 grams of cocaine hydrochloride and the combined figure of more than 100 grams are excluded from cannabis figures.
   - No name beyond a 42-year-old man, and no charge, plea or court outcome beyond referral to the Maicao URI prosecutor, was reported.
   - The account rests on a single accessible source reproducing official police information, with no independent corroboration found.
+media:
+  - kind: photo
+    url: https://diariodelnorte.net/judiciales/capturan-a-hombre-con-marihuana-y-cocaina-en-el-barrio-venezuela-de-uribia/
+    media_url: https://diariodelnorte.net/wp-content/uploads/2026/11/Portadas-DN-5-7-1200x630.jpg
+    publisher: Diario del Norte
+    caption: >-
+      Blurred detainee between Policía Nacional officers behind a table labelled sustancia de
+      estupefaciente with a yellow evidence bag. Photo: Diario del Norte
 ---
 
 A 42-year-old man was captured in flagrante by the National Police during a

@@ -54,6 +54,14 @@ sources:
     publisher: Rondoniaovivo.com
     date: 2026-11-13
     language: pt
+media:
+  - kind: photo
+    url: https://jaruonline.com.br/vilhena-prf-apreende-cerca-de-70-quilos-de-skunk-na-br-364-motorista-saiu-de-ji-parana/
+    media_url: https://jaruonline.com.br/wp-content/uploads/2026/11/73f9f80b-8455-4006-93be-cc0744c4381f.jpeg
+    publisher: Jaru Online
+    caption: >-
+      Plastic-wrapped skunk bricks and blue bags seized from the vehicle on BR-364 in Vilhena.
+      Photo: Jaru Online
 ---
 
 Federal Highway Police officers seized about 67.5 kg of skunk on the afternoon

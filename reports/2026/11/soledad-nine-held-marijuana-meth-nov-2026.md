@@ -37,6 +37,14 @@ sources:
     publisher: Plano Informativo
     date: 2026-11-13
     language: es
+media:
+  - kind: photo
+    url: https://planoinformativo.com/1181794/siete-adultos-y-dos-menores-detenidos-por-posesion-de-droga
+    media_url: https://planoinformativo.com/stock12/image/2026/NOVIEMBRE/13/7DETENIDOS.jpg
+    publisher: Plano Informativo
+    caption: >-
+      Guardia Civil Municipal evidence bags of suspected marijuana flower and a white crystalline
+      dose after the Soledad detentions. Photo: Plano Informativo / GCM
 ---
 
 Officers of the Guardia Civil Municipal of Soledad de Graciano Sanchez detained

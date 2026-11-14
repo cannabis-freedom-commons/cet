@@ -57,6 +57,14 @@ sources:
     publisher: La Nueva Senda
     date: 2026-11-13
     language: es
+media:
+  - kind: photo
+    url: https://region360.com.ar/2026/11/13/completito-un-joven-de-21-anos-detenido-por-amenazas-luego-del-secuestro-de-armas-una-ballesta-y-marihuana/
+    media_url: https://region360.com.ar/wp-content/uploads/2026/11/Ballesta.jpg
+    publisher: Región 360
+    caption: >-
+      Seized crossbow, shotgun shells, ammunition, vacuum-packed marijuana and a scale displayed
+      with a Honda motorcycle after the Arequito search. Photo: Región 360
 ---
 
 Santa Fe's Policía de Investigaciones (PDI) carried out an operation in Arequito

@@ -66,6 +66,7 @@ open_questions:
   - The 29 calibre 12 cartridges and the homemade shotgun relate to firearms law, not cannabis; they are recorded in the text but excluded from cannabis figures.
   - No value estimate for the 88.26 grams of cannabis was published.
   - All three accounts reproduce the same PDI statement; the PDI's own page was not accessible for this report.
+  - Puranoticia illustrated the Juan Pablo II search with paper dose-bindle evidence that does not show the stated cannabis flower or homemade shotgun, so no event photo is listed.
 ---
 
 Detectives of PDI Valparaíso's criminal investigation brigade (Bicrim) MT0 unit

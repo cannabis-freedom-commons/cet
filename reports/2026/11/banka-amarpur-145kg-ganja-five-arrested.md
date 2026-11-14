@@ -63,6 +63,13 @@ sources:
     publisher: हिन्दुस्तान (Live Hindustan)
     date: 2026-11-14
     language: hi
+media:
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/bihar/banka/banka-police-raid-145-kg-ganja-cash-seized-five-smugglers-arrested
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/13/1794584176216/sizes/13ban_m_49_13112026_38-d65a15-hero.webp
+    publisher: Prabhat Khabar
+    caption: >-
+      Banka police officers at a briefing after the Amarpur ganja raid. Photo: Prabhat Khabar
 ---
 
 Police in the Amarpur police-station area of Banka district, Bihar, seized 145

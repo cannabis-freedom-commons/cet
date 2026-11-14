@@ -45,6 +45,7 @@ open_questions:
   - The 73,100-dollar loss and the 40 kilos and 600 grams figures concern cocaine in Huancarani, not cannabis, and are excluded from the cannabis figures.
   - No laboratory confirmation for the 174 grams of marijuana was reported.
   - The account rests on a single accessible report of the FELCN departmental director's statement, and an attempted second-source check of the original El Potosí page could not be opened.
+  - eju.tv led with a display of many green-wrapped bricks from the larger Potosí operations, not a photo of the 174 g Tupiza marijuana seizure.
 ---
 
 Officers of the Fuerza Especial de Lucha Contra el Narcotráfico (FELCN) carried

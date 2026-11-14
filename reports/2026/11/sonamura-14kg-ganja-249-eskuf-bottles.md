@@ -45,6 +45,8 @@ sources:
     publisher: Jagarantripura
     date: 2026-11-13
     language: bn
+open_questions:
+  - Tripura Chronicle carried only its masthead logo, not a photo of this Sonamura seizure.
 ---
 
 Sonamura police seized 14 kg of dry ganja, the local name for cannabis, and 249

@@ -56,7 +56,14 @@ open_questions:
   - The exact street and location of the stop on Rivadavia and Avellaneda streets is not given; the town-centre coordinates for Aguilares are used.
   - The report gives no separate time for the operation; Thursday night 12 November 2026 is derived from the Friday 13 November 2026 publication date.
   - No court outcome or charges beyond the order under National Law 23.737 were reported.
-  - The two photos on the page have no caption or credit confirming they show the seizure, so they are not listed as media.
+media:
+  - kind: photo
+    url: https://www.comunicaciontucuman.gob.ar/noticia/seguridad/244286/circulaban-casi-medio-kilo-marihuana-joven-quedo-aprehendido
+    media_url: https://www.comunicaciontucuman.gob.ar/fotos/cache/notas/2026/11/13/818x460_261113130716_11962.jpeg
+    publisher: Comunicación Tucumán
+    caption: >-
+      Aguilares and DIDROP Sur officers with the silver Fiat Palio beside Comisaría de Aguilares and
+      Drogas Peligrosas banners after the seizure. Photo: Comunicación Tucumán
 ---
 
 Police of Aguilares ran a security operation on Thursday night 12 November 2026

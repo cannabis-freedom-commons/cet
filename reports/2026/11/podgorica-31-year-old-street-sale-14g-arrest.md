@@ -49,6 +49,7 @@ open_questions:
   - No court outcome was reported; the case was at the investigation stage with a criminal complaint to the Higher State Prosecutor's Office in Podgorica.
   - Only one accessible source for this event was found; it reproduces the police statement.
   - The search also found Xalol and Buprenorphine tablets and a joint; only the separately stated cannabis weight is counted in figures.
+  - IN4S illustrated the arrest with a September 2022 police file photograph, not a picture of this Podgorica street-sale case.
 ---
 
 Podgorica police arrested 31-year-old N.B. on suspicion of street sale of
