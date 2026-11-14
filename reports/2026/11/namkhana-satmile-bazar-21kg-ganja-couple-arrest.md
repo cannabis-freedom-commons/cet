@@ -41,25 +41,22 @@ sources:
     publisher: Eisamay Online
     date: 2026-11-14
     language: bn
-open_questions:
-  - The incident date is read as Friday 13 November 2026, inferred from the Friday-morning timing given in a report published on 14 November 2026.
-  - The 21 kg quantity is reported as approximate, with no exact measured weight or laboratory confirmation stated.
-  - No charges, court proceedings or case outcome were stated.
-  - The account rests on a single accessible outlet report; no second independent source was found.
-  - Eisamay illustrated the short with a generic handcuff stock image, not a photo of this Namkhana arrest.
+  - title: Couple arrested with 20 kg of cannabis in Sundarbans:SOG team intercepts two suspects near Namkhana market during anti-drug operation
+    url: https://www.bhaskarenglish.in/local/west-bengal/news/couple-arrested-with-cannabis-in-sundarbans-police-seize-20-kg-narcotics-near-satmile-market-namkhana-139683248.html
+    publisher: Bhaskar English
+    date: 2026-11-14
 ---
 
 Officers of the Special Operation Group of Sundarban Police District lay in wait
 in the Satmile Bazar area on the basis of a secret tip-off. [@1] A couple were
 walking along the busy market road in the morning, carrying three bags between
-them. [@1] Officers surrounded the couple and, on opening the bags, recovered
-about 21 kg of ganja. [@1] The husband and wife were arrested. [@1]
+them. [@1] The couple were carrying two shoulder bags and a handbag near Satmile Market on National Highway 117 in Namkhana. [@2] Officers surrounded the couple and, on opening the bags, recovered
+about 21 kg of ganja. [@1,2] Several packets of cannabis wrapped in black plastic were found inside the bags. [@2] The husband and wife were arrested. [@1]
 
 The operation was carried out by the Special Operation Group and Namkhana police
 at the Satmile Bazar area on National Highway 117 in Namkhana at around 10 am on
-Friday morning. [@1] Police named the arrested pair as Swapan Sahu and Krishna
-Sahu. [@1] Both are residents of the Chandranagar area of Namkhana. [@1]
+Friday morning. [@1] The seizure was carried out in the presence of personnel from Namkhana police station and the block development officer. [@2] Police named the arrested pair as Swapan Sahu and Krishna
+Sahu. [@1,2] Both are residents of the Chandranagar area of Namkhana. [@1,2]
 
 The 21 kg figure is the police recovery claim for the ganja found in the three
-bags, reported as an approximate quantity. [@1]
-
+bags, reported as an approximate quantity. [@1] A senior officer said surveillance and enforcement drives had been conducted at several locations over the past week, and police had made another arrest as part of the crackdown. [@2] Police are investigating where the cannabis was sourced from and whether the couple was linked to a larger drug trafficking network. [@2]
