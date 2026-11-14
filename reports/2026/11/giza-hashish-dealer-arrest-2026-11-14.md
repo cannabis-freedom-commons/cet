@@ -1,49 +1,72 @@
 ---
 code: VBD60D
-added_at: "2026-11-14T16:31:45.451597Z"
-date: 2026-11-14
+added_at: '2026-11-14T16:31:45.451597Z'
+date: '2026-11-14'
 country: eg
 place: Giza, Giza Governorate
-coordinates: [30.0131, 31.2089]
+coordinates:
+  - 30.0131
+  - 31.2089
 precision: locality
 type: arrest
-also: [seizure, prosecution]
+also:
+  - seizure
+  - prosecution
 title: Hashish dealer arrested in Giza before sale to customers
 summary: >-
-  Giza detectives arrested a suspected hashish dealer before he could sell his supply to customers across the governorate, seizing hashish, cash and a phone. The suspect admitted possessing the drugs for sale and was referred to the Public Prosecution for investigation.
+  Giza detectives arrested a suspected hashish dealer before he could sell his supply to customers
+  across the governorate, seizing hashish, cash and a phone. The suspect admitted possessing the
+  drugs for sale and was referred to the Public Prosecution for investigation.
 figures:
   arrested: 1
 details:
-  agencies: [Giza Security Directorate]
-  agency_types: [police]
+  agencies:
+    - Giza Security Directorate
+  agency_types:
+    - police
   products:
-    - {product: hashish}
-  activity: [sale, trafficking]
+    - product: hashish
+  activity:
+    - sale
+    - trafficking
   case_stage: investigation
   date_precision: publication
   region: Giza Governorate
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  figures.arrested: [1]
+  details.activity:
+    - 1
+  details.agencies:
+    - 1
+  details.agency_types:
+    - 1
+  details.case_stage:
+    - 1
+  details.products:
+    - 1
+  figures.arrested:
+    - 1
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ce5c0872ef5fe5fae7fe9e1694387aed
-tags: [giza, hashish, arrest]
+tags:
+  - giza
+  - hashish
+  - arrest
 sources:
   - title: تفاصيل سقوط تاجر حشيش قبل ترويج بضاعته في الجيزة - اليوم السابع
     url: https://www.youm7.com/story/2026/11/14/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%B3%D9%82%D9%88%D8%B7-%D8%AA%D8%A7%D8%AC%D8%B1-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%82%D8%A8%D9%84-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A8%D8%B6%D8%A7%D8%B9%D8%AA%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9/7616729
     publisher: اليوم السابع
-    date: 2026-11-14
+    date: '2026-11-14'
     language: ar
   - title: مباحث الجيزة تضبط تاجر مخدرات قبل ترويج الحشيش على عملائه
     url: https://newsroom.info/484611
     publisher: نيوز رووم
-    date: 2026-11-14
+    date: '2026-11-14'
     language: ar
+open_questions:
+  - >-
+    Youm7's article image is dated October 2025 and shows no hashish from this Giza arrest, so no
+    event photo is listed.
 ---
 
 Giza Security Directorate officers arrested a drug dealer found with a quantity

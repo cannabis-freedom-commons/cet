@@ -1,75 +1,115 @@
 ---
 code: JV9PPF
-added_at: "2026-11-13T20:38:19.757088Z"
-date: 2026-11-13
+added_at: '2026-11-13T20:38:19.757088Z'
+date: '2026-11-13'
 country: rs
 place: Becej
-coordinates: [45.618, 20.043]
+coordinates:
+  - 45.618
+  - 20.043
 precision: locality
 type: arrest
-also: [seizure]
+also:
+  - seizure
 title: Two arrested in Becej; 74 g of suspected marijuana seized
 summary: >-
-  Becej police, working with the Zrenjanin prosecutor's office, arrested two men on suspicion of unauthorised drug production and trafficking. A search of their premises found about 74 grams of suspected marijuana, 99 grams of suspected amphetamine and a digital scale.
+  Becej police, working with the Zrenjanin prosecutor's office, arrested two men on suspicion of
+  unauthorised drug production and trafficking. A search of their premises found about 74 grams of
+  suspected marijuana, 99 grams of suspected amphetamine and a digital scale.
 figures:
   arrested: 2
   kg_seized: 0.074
 details:
-  agencies: [Ministry of Internal Affairs in Becej, Higher Public Prosecutor's Office in Zrenjanin]
-  agency_types: [police, prosecutor]
+  agencies:
+    - Ministry of Internal Affairs in Becej
+    - Higher Public Prosecutor's Office in Zrenjanin
+  agency_types:
+    - police
+    - prosecutor
   products:
-    - {product: flower, kg: 0.074}
-  setting: [home]
-  charges: [unauthorised production and placing in circulation of narcotic drugs]
+    - product: flower
+      kg: 0.074
+  setting:
+    - home
+  charges:
+    - unauthorised production and placing in circulation of narcotic drugs
   case_stage: investigation
   date_precision: publication
   region: Vojvodina
 data_sources:
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.charges: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1, 2]
-  figures.kg_seized: [1, 2]
+  details.agencies:
+    - 1
+  details.agency_types:
+    - 1
+  details.case_stage:
+    - 1
+  details.charges:
+    - 1
+  details.products:
+    - 1
+  details.setting:
+    - 1
+  figures.arrested:
+    - 1
+    - 2
+  figures.kg_seized:
+    - 1
+    - 2
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 31f412b7244cbe77ab32ca388ab6531b
-tags: [becej, marihuana, mup, arrest]
+tags:
+  - becej
+  - marihuana
+  - mup
+  - arrest
 sources:
-  - title: ВЕЛИКА АКЦИЈА ПОЛИЦИЈЕ У БЕЧЕЈУ! Ухапшена двојица због дроге, пронађени марихуана, амфетамин и дигитална вага!
+  - title: >-
+      ВЕЛИКА АКЦИЈА ПОЛИЦИЈЕ У БЕЧЕЈУ! Ухапшена двојица због дроге, пронађени марихуана, амфетамин и
+      дигитална вага!
     url: https://novosadska.tv/2026/11/13/velika-akcija-policije-u-beceju-uhapsena-dvojica-zbog-droge-pronadjeni-marihuana-amfetamin-i-digitalna-vaga/
     publisher: Новосадска ТВ
-    date: 2026-11-13
+    date: '2026-11-13'
     language: sr
   - title: 'Uhapšena dva muškarca u Bečeju: Policija u šteku našla marihuanu i amfetamin'
     url: https://www.telegraf.rs/vesti/hronika/4432449-uhapsena-dva-muskarca-u-beceju-policija-u-steku-nasla-marihuanu-i-amfetamin
     publisher: Telegraf.rs
-    date: 2026-11-13
+    date: '2026-11-13'
     language: sr
   - title: Uhapšene dve osobe u Bečeju, zaplenjeni marihuana i amfetamin
     url: https://www.politika.rs/sr/clanak/802455/uhapsene-dve-osobe-u-beceju-zaplenjeni-marihuana-i-amfetamin
     publisher: Politika
-    date: 2026-11-13
+    date: '2026-11-13'
     language: sr
-  - title: 'U STANU I DRUGIM PROSTORIJAMA MARIHUANA I AMFETAMIN: Policija u Bečeju uhapsila dvojicu osumnjičenih za trgovinu drogom'
+  - title: >-
+      U STANU I DRUGIM PROSTORIJAMA MARIHUANA I AMFETAMIN: Policija u Bečeju uhapsila dvojicu
+      osumnjičenih za trgovinu drogom
     url: https://www.novosti.rs/hronika/hapsenja-i-istraga/1670810/stanu-drugim-prostorijama-marihuana-amfetamin-policija-beceju-uhapsila-dvojicu-osumnjicenih-trgovinu-drogom
     publisher: Novosti
-    date: 2026-11-13
+    date: '2026-11-13'
     language: sr
-  - title: 'Dvojica uhapšena u Bečeju: Policija pronašla materije za koje sumnja da su marihuana i amfetamin'
+  - title: >-
+      Dvojica uhapšena u Bečeju: Policija pronašla materije za koje sumnja da su marihuana i
+      amfetamin
     url: https://www.mojnovisad.com/dvojica-uhapsena-u-beceju-policija-pronasla-materije-za-koje-sumnja-da-su-marihuana-i-amfetamin/
     publisher: Moj Novi Sad
-    date: 2026-11-13
+    date: '2026-11-13'
     language: sr
-  - title: 'Dvojica uhapšena u Bečeju: Policija pronašla materije za koje sumnja da su marihuana i amfetamin'
+  - title: >-
+      Dvojica uhapšena u Bečeju: Policija pronašla materije za koje sumnja da su marihuana i
+      amfetamin
     url: https://naslovi.net/2026-11-13/moj-novi-sad/dvojica-uhapsena-u-beceju-policija-pronasla-materije-za-koje-sumnja-da-su-marihuana-i-amfetamin/42603533
     publisher: Naslovi.net
-    date: 2026-11-13
+    date: '2026-11-13'
     language: sr
 open_questions:
-  - Telegraf and related outlets illustrate the Becej arrests with a Shutterstock handcuffs stock photo, and Novosadska TV reused a 2023 police file picture, so no photo of this seizure is listed.
+  - >-
+    Telegraf and related outlets illustrate the Becej arrests with a Shutterstock handcuffs stock
+    photo, and Novosadska TV reused a 2023 police file picture, so no photo of this seizure is
+    listed.
+  - >-
+    Novosadska TV and Telegraf use older or stock police/Shutterstock images without the Bečej
+    marijuana or amphetamine finds, so no event photo is listed.
 ---
 
 Police officers of the Interior Ministry in Becej, working with the Higher

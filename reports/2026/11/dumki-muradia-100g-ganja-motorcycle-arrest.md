@@ -1,16 +1,22 @@
 ---
 code: R3Q1DC
-added_at: "2026-11-14T15:25:15.151668Z"
-date: 2026-11-13
+added_at: '2026-11-14T15:25:15.151668Z'
+date: '2026-11-13'
 country: bd
 place: North Chargarbadi, Muradia Union, Dumki, Patuakhali
-coordinates: [22.4578, 90.3444]
+coordinates:
+  - 22.4578
+  - 90.3444
 precision: locality
 type: arrest
-also: [seizure, prosecution]
+also:
+  - seizure
+  - prosecution
 title: Man held with 100 g ganja, cash and motorcycle in Dumki
 summary: >-
-  Police in Dumki, Patuakhali arrested Md Al Amin Chakladar with 100 grams of ganja, Tk 1,700 in alleged drug-sale proceeds and a motorcycle on 13 November 2026. A case was filed at Dumki Police Station under the Narcotics Control Act, 2018 and he was to be sent to court.
+  Police in Dumki, Patuakhali arrested Md Al Amin Chakladar with 100 grams of ganja, Tk 1,700 in
+  alleged drug-sale proceeds and a motorcycle on 13 November 2026. A case was filed at Dumki Police
+  Station under the Narcotics Control Act, 2018 and he was to be sent to court.
 figures:
   arrested: 1
   charged: 1
@@ -20,41 +26,66 @@ figures:
     amount: 1700
     currency: BDT
 details:
-  agencies: [Dumki Police Station]
-  agency_types: [police]
+  agencies:
+    - Dumki Police Station
+  agency_types:
+    - police
   products:
-    - {product: flower, kg: 0.1}
-  charges: ['Sections 36(1) table 19(ka) and 38 of the Narcotics Control Act, 2018']
+    - product: flower
+      kg: 0.1
+  charges:
+    - Sections 36(1) table 19(ka) and 38 of the Narcotics Control Act, 2018
   date_precision: exact
   region: Patuakhali
 data_sources:
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.charges: [1]
-  details.products: [1]
-  figures.arrested: [1]
-  figures.cash: [1]
-  figures.charged: [1]
-  figures.kg_seized: [1]
-  figures.vehicles: [1]
+  details.agencies:
+    - 1
+  details.agency_types:
+    - 1
+  details.charges:
+    - 1
+  details.products:
+    - 1
+  figures.arrested:
+    - 1
+  figures.cash:
+    - 1
+  figures.charged:
+    - 1
+  figures.kg_seized:
+    - 1
+  figures.vehicles:
+    - 1
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 793b2d93fa56e83d86afd9a6c6d19420
-tags: [patuakhali, dumki, ganja, bangladesh]
+tags:
+  - patuakhali
+  - dumki
+  - ganja
+  - bangladesh
 sources:
   - title: দুমকিতে মোটরসাইকেলসহ গাঁজা ও নগদ টাকা উদ্ধার, গ্রেপ্তার ১
     url: https://www.rupalibangladesh.com/all-bd-news/patuakhali/180105
     publisher: Rupali Bangladesh
-    date: 2026-11-14
+    date: '2026-11-14'
     language: bn
   - title: দুমকিতে গাঁজা ও মোটরসাইকেলসহ গ্রেপ্তার ১ | দৈনিক এদিন
     url: https://dailyadin.com/country/30455
     publisher: The Daily Adin
-    date: 2026-11-14
+    date: '2026-11-14'
     language: bn
 open_questions:
-    - No laboratory confirmation for the 100 grams described as ganja was reported.
-    - No plea, bail or further court outcome after the planned court production was reported.
+  - No laboratory confirmation for the 100 grams described as ganja was reported.
+  - No plea, bail or further court outcome after the planned court production was reported.
+media:
+  - kind: photo
+    url: https://www.rupalibangladesh.com/all-bd-news/patuakhali/180105
+    media_url: https://www.rupalibangladesh.com/media/imgAll/2025July/05-20261114102533.jpg
+    publisher: Rupali Bangladesh
+    caption: >-
+      Arrested man between two officers at Dumki thana with a bag of ganja and cash on the table.
+      Photo: Rupali Bangladesh
 ---
 
 Police in Dumki, Patuakhali arrested 30-year-old Md Al Amin Chakladar with 100

@@ -1,57 +1,87 @@
 ---
 code: Z0S9XX
-added_at: "2026-11-14T20:39:28.433926Z"
-date: 2026-11-14
+added_at: '2026-11-14T20:39:28.433926Z'
+date: '2026-11-14'
 country: it
 place: San Paolo di Civitate, Province of Foggia
-coordinates: [41.7379, 15.2615]
+coordinates:
+  - 41.7379
+  - 15.2615
 precision: locality
 type: arrest
-also: [seizure]
+also:
+  - seizure
 title: 63-year-old arrested with 320 g marijuana in San Paolo di Civitate
 summary: >-
-  Carabinieri in San Paolo di Civitate arrested a 63-year-old man and seized over 320 grams of marijuana plus about 66 grams of cocaine from his home and an adjacent plot. After validation of the arrest, a judge ordered house arrest while preliminary investigations continue.
+  Carabinieri in San Paolo di Civitate arrested a 63-year-old man and seized over 320 grams of
+  marijuana plus about 66 grams of cocaine from his home and an adjacent plot. After validation of
+  the arrest, a judge ordered house arrest while preliminary investigations continue.
 figures:
   arrested: 1
   kg_seized: 0.32
 details:
-  agencies: [Carabinieri]
-  agency_types: [gendarmerie]
+  agencies:
+    - Carabinieri
+  agency_types:
+    - gendarmerie
   products:
-    - {product: flower, kg: 0.32}
-  setting: [home, field]
-  charges: [detention of drugs for dealing (detenzione ai fini di spaccio)]
+    - product: flower
+      kg: 0.32
+  setting:
+    - home
+    - field
+  charges:
+    - detention of drugs for dealing (detenzione ai fini di spaccio)
   case_stage: investigation
   region: Puglia
 data_sources:
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [2]
-  details.charges: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
+  details.agencies:
+    - 1
+  details.agency_types:
+    - 1
+  details.case_stage:
+    - 2
+  details.charges:
+    - 1
+  details.products:
+    - 1
+  details.setting:
+    - 1
+  figures.arrested:
+    - 1
+  figures.kg_seized:
+    - 1
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0c9dd037c348864eb6b2ed09be54f82b
-tags: [san-paolo-di-civitate, foggia, puglia, carabinieri, marijuana]
+tags:
+  - san-paolo-di-civitate
+  - foggia
+  - puglia
+  - carabinieri
+  - marijuana
 sources:
   - title: San Paolo di Civitate, 63enne arrestato con marijuana e cocaina
     url: https://www.antennasud.com/san-paolo-di-civitate-63enne-arrestato-con-marijuana-e-cocaina/
     publisher: Antenna Sud
-    date: 2026-11-14
+    date: '2026-11-14'
     language: it
   - title: San Paolo di Civitate, 63enne arrestato per spaccio. Focus
     url: https://www.statoquotidiano.it/14/11/2026/san-paolo-di-civitate-63enne-arrestato-per-spaccio/1364633
     publisher: Stato Quotidiano
-    date: 2026-11-14
+    date: '2026-11-14'
     language: it
-  - title: Nascondeva cocaina e marijuana, arrestato 63enne nel Foggiano. Sequestrate oltre 2.300 dosi potenziali
+  - title: >-
+      Nascondeva cocaina e marijuana, arrestato 63enne nel Foggiano. Sequestrate oltre 2.300 dosi
+      potenziali
     url: https://www.immediato.net/2026/11/14/nascondeva-cocaina-e-marijuana-arrestato-63enne-nel-foggiano-sequestrate-oltre-2-300-dosi-potenziali/
     publisher: l'Immediato
-    date: 2026-11-14
+    date: '2026-11-14'
     language: it
+open_questions:
+  - >-
+    Antenna Sud shows Carabinieri searching a cluttered shed with no marijuana or cocaine visible in
+    the frame, so no event photo is listed.
 ---
 
 Carabinieri arrested a 63-year-old man, already known to law enforcement, in

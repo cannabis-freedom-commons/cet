@@ -1,54 +1,82 @@
 ---
 code: 3SZ1TZ
-added_at: "2026-11-14T14:13:18.150228Z"
-date: 2026-11-14
+added_at: '2026-11-14T14:13:18.150228Z'
+date: '2026-11-14'
 country: in
 place: Noida, Gautam Buddh Nagar district, Uttar Pradesh
-coordinates: [28.5355, 77.391]
+coordinates:
+  - 28.5355
+  - 77.391
 precision: locality
 type: arrest
-also: [seizure]
+also:
+  - seizure
 title: 54 arrested in Noida special drive; 7.13 kg ganja seized
 summary: >-
-  Noida police arrested 54 people in a special drive across the district's police-station areas, recovering ganja, illicit liquor, knives and betting material. Four itemised ganja seizures totalled 7.13 kg, including 4.7 kg allegedly brought from Delhi for sale in the National Capital Region.
+  Noida police arrested 54 people in a special drive across the district's police-station areas,
+  recovering ganja, illicit liquor, knives and betting material. Four itemised ganja seizures
+  totalled 7.13 kg, including 4.7 kg allegedly brought from Delhi for sale in the National Capital
+  Region.
 figures:
   arrested: 54
   kg_seized: 7.13
 details:
-  agencies: [Noida Police]
-  agency_types: [police]
+  agencies:
+    - Noida Police
+  agency_types:
+    - police
   products:
-    - {product: flower, kg: 7.13}
+    - product: flower
+      kg: 7.13
   case_stage: investigation
   date_precision: exact
   region: Uttar Pradesh
 data_sources:
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
+  details.agencies:
+    - 1
+  details.agency_types:
+    - 1
+  details.case_stage:
+    - 1
+  details.products:
+    - 1
+  figures.arrested:
+    - 1
+  figures.kg_seized:
+    - 1
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e8e63a942a1e1ddfafc61f29fcb8b848
-tags: [noida, gautam-buddh-nagar, ganja, uttar-pradesh]
+tags:
+  - noida
+  - gautam-buddh-nagar
+  - ganja
+  - uttar-pradesh
 sources:
   - title: नोएडा में अपराधियों के खिलाफ विशेष अभियान, 54 गिरफ्तार; हथियार, शराब और गांजा बरामद
     url: https://hindi.theprint.in/india/special-drive-against-criminals-in-noida-54-arrested-weapons-liquor-and-marijuana-recovered/1058580/
     publisher: ThePrint Hindi
-    date: 2026-11-14
+    date: '2026-11-14'
     language: hi
-  - title: 'Noida: नोएडा पुलिस का अपराधियों के खिलाफ बड़ा क्रैकडाउन, 54 शातिर दबोचे गए, गांजा, शराब और और हथियार बरामद | Times Now Navbharat'
+  - title: >-
+      Noida: नोएडा पुलिस का अपराधियों के खिलाफ बड़ा क्रैकडाउन, 54 शातिर दबोचे गए, गांजा, शराब और और
+      हथियार बरामद | Times Now Navbharat
     url: https://www.timesnowhindi.com/cities/noida-police-special-campaign-against-criminals-54-arrested-liquor-ganja-seized-article-156508176
     publisher: Times Now Navbharat
-    date: 2026-11-14
+    date: '2026-11-14'
     language: hi
 open_questions:
-    - The 7.13 kg total is the sum of the four itemised ganja amounts of 830 g, 1 kg, 600 g and 4.7 kg; the source gives no combined cannabis total.
-    - The 54 arrests cover ganja, liquor, knife and betting cases together; only the four cannabis seizures are individually itemised.
-    - No NDPS case sections, remand orders or court outcomes were reported.
-    - No value estimate for the seized ganja was published.
+  - >-
+    The 7.13 kg total is the sum of the four itemised ganja amounts of 830 g, 1 kg, 600 g and 4.7
+    kg; the source gives no combined cannabis total.
+  - >-
+    The 54 arrests cover ganja, liquor, knife and betting cases together; only the four cannabis
+    seizures are individually itemised.
+  - No NDPS case sections, remand orders or court outcomes were reported.
+  - No value estimate for the seized ganja was published.
+  - >-
+    Times Now Hindi illustrates the story with a stock close-up of handcuffed wrists and no ganja or
+    seizure display, so no event photo is listed.
 ---
 
 Noida police arrested 54 people in a special drive against criminals across the

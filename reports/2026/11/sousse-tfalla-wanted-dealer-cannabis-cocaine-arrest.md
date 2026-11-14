@@ -46,6 +46,26 @@ sources:
     publisher: المصدر تونس (Almasdar)
     date: 2026-11-14
     language: ar
+open_questions:
+  - No weight or count was published for the cannabis, so no cannabis weight is recorded in figures.
+  - >-
+    The cocaine weight of about 120 grams is not counted in cannabis figures because mixed-event
+    totals cannot be combined.
+  - >-
+    No separate date for the ambush was given; 14 November 2026 is the Tuniscope publication date
+    and is used as the incident date, while Jawhara FM published on 13 November 2026.
+  - >-
+    No charge, detention measure or court outcome was reported; the case stood at the investigation
+    stage.
+  - >-
+    The suspect was identified only as a wanted man classified as dangerous, with no age or name
+    given.
+  - >-
+    The three accounts reproduce the same police operation account, so there is no independent
+    reporting beyond the official statement.
+  - >-
+    Tuniscope uses a generic stock layout of powder, syringes and pills labelled مخدرات, and Jawhara
+    FM shows only a police officer's back beside a van, so no event photo is listed.
 ---
 
 The Sousse Regional Brigade for Combating Drugs, which is attached to the El
