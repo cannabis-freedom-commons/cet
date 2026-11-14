@@ -89,18 +89,25 @@ sources:
     publisher: Dhaka Today
     date: 2026-11-13
     language: bn
+  - title: মাধবপুরে ৭২ কেজি গাঁজাসহ ৩ মাদক ব্যবসায়ী গ্রেপ্তার, কভার ভ্যান জব্দ
+    url: https://ajkerarban.com/article/13286
+    publisher: Ajker Arban
+    date: 2026-11-14
+    language: bn
+open_questions:
+  - The accounts differ on whether the Thursday-night checkpoint arrest fell on 12 or 13 November, with this account timing it at 2:10 am.
 ---
 
 SRB-9 detained three men with 72 kg of ganja after searching a covered van in
-Madhabpur, Habiganj. [@1,3,4,5] They were detained on Thursday night in the Stadium
-Para area of Madhabpur municipality on the Dhaka-Sylhet highway. [@1] An SRB-9
+Madhabpur, Habiganj. [@1,3,4,5,9] They were detained on Thursday night in the Stadium
+Para area of Madhabpur municipality on the Dhaka-Sylhet highway. [@1,9] An SRB-9
 team signalled the covered van to stop at a checkpoint on the west side of
 Stadium Para, and the three men tried to flee. [@1,3,6,7] The van was reportedly carrying the ganja from the Jagdishpur area of Madhabpur toward Savar in Dhaka. [@4,6,7] The three detained men were Md. Hask Mia, 29, from Nasirnagar in Brahmanbaria, Rakib Sardar, 23, from Kashiani in Gopalganj, and Hasanur Zaman, 30, from Madhabpur in Habiganj. [@3,4]
 
 Officers searched the covered van and recovered 72 kg of ganja packed in three
-paper cartons. [@1,3,4,7] Inside the cartons the ganja was packed in 36 blue polythene packets wrapped in khaki tape. [@3,7] Officers also seized the covered van used to carry the
+paper cartons. [@1,3,4,7,9] Inside the cartons the ganja was packed in 36 blue polythene packets wrapped in khaki tape. [@3,7] Officers also seized the covered van used to carry the
 cannabis. [@1,3,8] In initial questioning the men said they had collected the ganja
 from a border area and kept it to sell. [@1,3,4,6]
 
 A case was filed under the Narcotics Control Act and the men were handed over to
-Madhabpur police station. [@1,3,4,6] Madhabpur police station officer-in-charge Sohel Rana confirmed that SRB-9 had handed over the three men along with the cannabis and said legal action would be taken against them. [@2]
+Madhabpur police station. [@1,3,4,6,9] Madhabpur police station officer-in-charge Sohel Rana confirmed that SRB-9 had handed over the three men along with the cannabis and said legal action would be taken against them. [@2]
