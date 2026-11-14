@@ -39,25 +39,29 @@ sources:
     publisher: ThePrint Hindi
     date: 2026-11-14
     language: hi
+  - title: 'Noida: नोएडा पुलिस का अपराधियों के खिलाफ बड़ा क्रैकडाउन, 54 शातिर दबोचे गए, गांजा, शराब और और हथियार बरामद | Times Now Navbharat'
+    url: https://www.timesnowhindi.com/cities/noida-police-special-campaign-against-criminals-54-arrested-liquor-ganja-seized-article-156508176
+    publisher: Times Now Navbharat
+    date: 2026-11-14
+    language: hi
 open_questions:
-  - The 7.13 kg total is the sum of the four itemised ganja amounts of 830 g, 1 kg, 600 g and 4.7 kg; the source gives no combined cannabis total.
-  - The 54 arrests cover ganja, liquor, knife and betting cases together; only the four cannabis seizures are individually itemised.
-  - No NDPS case sections, remand orders or court outcomes were reported.
-  - No value estimate for the seized ganja was published.
-  - The account rests on a single Bhasha auto-feed report republished by ThePrint Hindi; no second account was found after searching in Hindi and English.
+    - The 7.13 kg total is the sum of the four itemised ganja amounts of 830 g, 1 kg, 600 g and 4.7 kg; the source gives no combined cannabis total.
+    - The 54 arrests cover ganja, liquor, knife and betting cases together; only the four cannabis seizures are individually itemised.
+    - No NDPS case sections, remand orders or court outcomes were reported.
+    - No value estimate for the seized ganja was published.
 ---
 
 Noida police arrested 54 people in a special drive against criminals across the
 district's various police-station areas, recovering illicit ganja, country and
-Haryana-brand liquor, and knives. [@1] Sector 24 police arrested Sunil Ram for
+Haryana-brand liquor, and knives. [@1,2] Sector 24 police arrested Sunil Ram for
 allegedly running a betting operation, while Phase-1 police recovered betting
 slips from Neeraj Thakur. [@1]
 
 In ganja-trafficking cases, police recovered 830 grams of ganja from Arif, one
-kilogram from Karan Jatav and 600 grams from Arya Bhatt. [@1] Jarcha police
-arrested Afak near Kalauda village with 4.7 kg of ganja. [@1] Questioning found
+kilogram from Karan Jatav and 600 grams from Arya Bhatt. [@1,2] Jarcha police
+arrested Afak near Kalauda village with 4.7 kg of ganja. [@1,2] Questioning found
 that he brought ganja from Delhi and sold it in the National Capital Region.
-[@1]
+[@1,2]
 
 Police also recovered 25 to 112 pouches or packets of country liquor from the
 accused, and Haryana-brand liquor from some of them. [@1] The drive spanned
@@ -65,4 +69,3 @@ station areas including Badalpur, Bisrakh, Ecotech-3, Phase-2, Phase-3, Surajpur
 and Sector 142, where knives and liquor pouches and packets were recovered. [@1]
 Illicit liquor, knives and ganja were also recovered in the Sector 20, Sector
 24, Sector 126, Sector 49, Phase-1, Beta-2 and Jewar station areas. [@1]
-
