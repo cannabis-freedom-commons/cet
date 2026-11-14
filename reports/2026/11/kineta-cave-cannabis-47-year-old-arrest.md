@@ -89,6 +89,11 @@ sources:
     publisher: Makeleio.gr
     date: 2026-11-13
     language: el
+  - title: Είχε κάνει σπηλιά «καβάντζα» για ναρκωτικά!Βρέθηκαν πάνω από 12 κιλά κάνναβης. Συνελήφθη 47χρονος με βαρύ ποινικό παρελθόν - ΕΔΩΛΙΟ5
+    url: https://toedolio5.gr/2026/11/14/eiche-kanei-spilia-kavantza-gia-narkotikavrethikan-pano-apo-12-kila-kannavis-synelifthi-47chronos-me-vary-poiniko-parelthon/
+    publisher: ΕΔΩΛΙΟ5
+    date: 2026-11-14
+    language: el
 media:
   - kind: photo
     url: https://www.neakriti.gr/koinonia/2211153_kineta-ekrybe-126-kila-kannabis-se-spilaio-synelifthi-47hronos
@@ -123,12 +128,12 @@ media:
 ---
 
 Narcotics officers arrested a 47-year-old foreign man for cannabis possession
-and trafficking. [@1,6,8,10,11,12] Officers found the man inside a cave in Kineta, where he
-had hidden drug quantities for further distribution. [@1,3,4,5,7,8,11,12,13] Police said the stash was kept in a disused sheepfold inside the cave above Kineta. [@8] Police said he stored
+and trafficking. [@1,6,8,10,11,12,14] Officers found the man inside a cave in Kineta, where he
+had hidden drug quantities for further distribution. [@1,3,4,5,7,8,11,12,13,14] Police said the stash was kept in a disused sheepfold inside the cave above Kineta. [@8] Police said he stored
 and distributed raw cannabis to various people, mainly around Agioi Theodoroi in
-Corinthia and in Attica. [@1,3,5,6,7,9,12] The arrest took place on the afternoon of
+Corinthia and in Attica. [@1,3,5,6,7,9,12,14] The arrest took place on the afternoon of
 Wednesday 11 November 2026 during an organized operation by the Narcotics
-Prosecution Subdirectorate in the Attica area. [@1,3] Police said the arrest followed a tip-off about drug-trafficking in the area. [@8]
+Prosecution Subdirectorate in the Attica area. [@1,3,14] Police said the arrest followed a tip-off about drug-trafficking in the area. [@8]
 
 At the site officers found a total of 12.6 kilograms of raw cannabis and
 cannabis clones, along with signal-jamming and surveillance devices. [@1,9,10,12,13] The
@@ -138,5 +143,5 @@ extractors, packaging for extracting cannabis oil, a metal tray and an electric
 blender. [@2,11]
 
 According to police, the man had previously been accused of similar offences.
-[@2,6,12] A case file for possession and trafficking of narcotics was opened against
-him and he was referred to the competent prosecutor. [@2,5] Police inquiries were continuing to investigate the case and to locate possible accomplices or others who may have been involved in trafficking the drugs. [@13]
+[@2,6,12] In that earlier case 3,445 cannabis seedlings and more than 4.5 kilograms of raw cannabis had been seized. [@14] In July 2020 he had been accused by the Thessaloniki Narcotics unit as a leading member of a criminal organisation allegedly active in cultivating and trafficking cannabis in various parts of the country. [@14] A case file for possession and trafficking of narcotics was opened against
+him and he was referred to the competent prosecutor. [@2,5,14] Police inquiries were continuing to investigate the case and to locate possible accomplices or others who may have been involved in trafficking the drugs. [@13]
