@@ -29,6 +29,17 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://uralpress.ru/news/v-chelyabinskoy-oblasti-izyali-kannabis-i-marikhuanu-u-dvukh-mestnykh-zhiteley-2026-11-13
+    media_url: https://uralpress.ru/sites/default/files/inline-images/x20713c03-b995-4364-9fe9-4ba1f69a70ef.jpg.pagespeed.ic.HNfvUUJYxI.webp
+    publisher: Урал-пресс-информ
+    caption: 'Police photo of a cardboard box of dried cannabis plants seized in the Troitsky district searches. Photo: Chelyabinsk Oblast police press service, via Ural Press'
+  - kind: photo
+    url: https://uralpress.ru/news/v-chelyabinskoy-oblasti-izyali-kannabis-i-marikhuanu-u-dvukh-mestnykh-zhiteley-2026-11-13
+    media_url: https://uralpress.ru/sites/default/files/inline-images/x48c8766d-6010-40a6-8bfe-1ff3bddb2f0b.jpg.pagespeed.ic.Ufyk4Naz44.webp
+    publisher: Урал-пресс-информ
+    caption: 'Police photo of crushed dried cannabis with seeds in a black plastic bag, seized in the Troitsky district searches. Photo: Chelyabinsk Oblast police press service, via Ural Press'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f8e74dde5a3f39b7626d76b32aec54d3

@@ -51,6 +51,32 @@ data_sources:
     - 1
   figures.kg_seized:
     - 1
+media:
+  - kind: photo
+    url: https://www.statoquotidiano.it/14/11/2026/san-paolo-di-civitate-63enne-arrestato-per-spaccio/1364633
+    media_url: https://www.statoquotidiano.it/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-14-at-08.58.32-2-1536x1086.webp
+    publisher: Stato Quotidiano
+    caption: 'A Carabinieri officer searches a bedside table during the search of the home. Photo: Carabinieri Foggia, via Stato Quotidiano'
+  - kind: photo
+    url: https://www.statoquotidiano.it/14/11/2026/san-paolo-di-civitate-63enne-arrestato-per-spaccio/1364633
+    media_url: https://www.statoquotidiano.it/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-14-at-08.58.30.webp
+    publisher: Stato Quotidiano
+    caption: 'Two Carabinieri officers search a storage shed. Photo: Carabinieri Foggia, via Stato Quotidiano'
+  - kind: photo
+    url: https://www.antennasud.com/san-paolo-di-civitate-63enne-arrestato-con-marijuana-e-cocaina/
+    media_url: https://www.antennasud.com/media/2026/11/IMG_8276-1024x579.jpeg
+    publisher: Antenna Sud
+    caption: 'Carabinieri search crates in a storage shed, with the seized items blurred, in a still from the Carabinieri video. Photo: Carabinieri Foggia, via Antenna Sud'
+  - kind: video
+    url: https://www.statoquotidiano.it/14/11/2026/san-paolo-di-civitate-63enne-arrestato-per-spaccio/1364633
+    media_url: https://www.statoquotidiano.it/wp-content/uploads/2026/11/WhatsApp-Video-2026-11-14-at-08.58.34.mp4
+    publisher: Stato Quotidiano
+    caption: 'Carabinieri video of the operation: patrol cars, then officers searching the home and a storage shed. Video: Carabinieri Foggia, via Stato Quotidiano'
+  - kind: video
+    url: https://www.antennasud.com/san-paolo-di-civitate-63enne-arrestato-con-marijuana-e-cocaina/
+    media_url: https://www.youtube.com/watch?v=URf86122YB4
+    publisher: Antenna Sud (via YouTube)
+    caption: 'Antenna Sud TV report of 14 November 2026 on the arrest, with the Carabinieri footage of the searches. Video: Antenna Sud'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0c9dd037c348864eb6b2ed09be54f82b
@@ -78,10 +104,6 @@ sources:
     publisher: l'Immediato
     date: '2026-11-14'
     language: it
-open_questions:
-  - >-
-    Antenna Sud shows Carabinieri searching a cluttered shed with no marijuana or cocaine visible in
-    the frame, so no event photo is listed.
 ---
 
 Carabinieri arrested a 63-year-old man, already known to law enforcement, in
