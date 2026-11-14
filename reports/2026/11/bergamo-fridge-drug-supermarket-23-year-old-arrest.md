@@ -73,21 +73,31 @@ sources:
     publisher: Bergamo Tomorrow
     date: 2026-11-14
     language: it
+  - title: 'Bergamo: arrestato con 15 kg di hashish e marijuana'
+    url: https://www.agenziagiornalisticaopinione.it/opinionmix/ladige-it-attualita-nel-frigorifero-un-supermarket-della-droga-arrestato-a-bergamo/
+    publisher: Agenzia giornalistica Opinione
+    date: 2026-11-14
+    language: it
+  - title: 'Bergamo: supermercato dello spaccio in casa, un arresto'
+    url: https://www.poliziadistato.it/articolo/19966af82fbe725e7110714501
+    publisher: Polizia di Stato
+    date: 2026-11-14
+    language: it
 ---
 
 Bergamo State Police investigators from the Squadra Mobile arrested a
 23-year-old on 10 November in Bergamo. [@1,4,5] A second account describes the
 23-year-old as an Italian of Albanian origin. [@2,4,6] He was arrested for
-possession of narcotics with intent to deal. [@1] The arrest was later validated
+possession of narcotics with intent to deal. [@1,8] The arrest was later validated
 by the judicial authority, which ordered a restrictive precautionary measure
 against him. [@1,6]
 
 Officers found about 15 kilograms of hashish and marijuana in a home used as a
-drug storage place. [@1,4,6] A fridge and thermal bags had been turned into
+drug storage place. [@1,4,6,7] A fridge and thermal bags had been turned into
 containers for keeping the drugs, evidently to limit the smell and make
 detection harder. [@1] Different hashish varieties were divided by type into
 individually sealed, labelled jars arranged in order inside the fridge like a
-supermarket display. [@1,4,5] Officers also found numerous vaporizers used for
+supermarket display. [@1,4,5,8] Officers also found numerous vaporizers used for
 taking drug extracts through e-cigarettes. [@1,4,6]
 
 They seized more than 10,000 euros in cash believed to be proceeds of dealing,
