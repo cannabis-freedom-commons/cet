@@ -68,18 +68,28 @@ sources:
     publisher: Ouest-France
     date: 2026-11-13
     language: fr
+  - title: 'Dark web : 23 arrestations en France dans le coup de filet TorNado'
+    url: https://www.pandore-gendarmerie.org/national-europol-operation-tornado-dark-web-20261112/amp/
+    publisher: Le Pandore et la Gendarmerie
+    date: 2026-11-14
+    language: fr
+  - title: 354 arrestations dont 23 en France dans une opération mondiale contre les trafics du dark web
+    url: https://www.clubic.com/actualite-639301-arrestations-dont-23-en-france-dans-une-operation-mondiale-contre-les-trafics-du-dark-web.html
+    publisher: Clubic
+    date: 2026-11-14
+    language: fr
 ---
 
 Europol coordinated Operation TorNado with law enforcement agencies from 14
 countries from May 2025 to October 2026, resulting in 354 arrests and hundreds
-of house searches worldwide. [@1,5,6] The operation mobilised hundreds of investigators specialised in cybercrime and drug trafficking. [@6] The operation targeted vendors and buyers on
+of house searches worldwide. [@1,5,6,8] The operation mobilised hundreds of investigators specialised in cybercrime and drug trafficking. [@6] The operation targeted vendors and buyers on
 the dark web marketplaces Archetyp, Bohemia, Nemesis, Kingdom and Tor2Door, and
 also people active on forums, single-vendor shops and encrypted messaging
-services. [@1]
+services. [@1,8]
 
-French authorities arrested 23 people as part of the operation. [@4,6] French
+French authorities arrested 23 people as part of the operation. [@4,6,8] The Gendarmerie nationale is the French service named among the operation's participants. [@8] French
 authorities seized 50 kilograms of cannabis, the largest cannabis quantity
-reported for any single country in the operation. [@1,6] European countries seized
+reported for any single country in the operation. [@1,6,9] The French figures are a national total with no breakdown by service or investigation, and the statement gives no units involved, no places of intervention and no judicial follow-up for the French arrests. [@8] European countries seized
 950 kilograms of illicit drugs in total, including amphetamines, ketamine, MDMA
 and cocaine, with cannabis making up 50 of those kilograms. [@1]
 
