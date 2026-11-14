@@ -170,12 +170,20 @@ copied** to this site.
   banner ("Adana Haberleri", "Jhansi"), a cartoon or AI drawing, a picture of drugs from another
   story. Signs of one: the caption only repeats the headline or the outlet's name; the outlet calls it
   a file, archive, symbolic or illustrative picture; the image address names a city, a section or a
-  video thumbnail (`local-news/adana-960x540`, `maxresdefault`), or its upload folder is years older
-  than the event. Keep such a picture only when its caption or the article ties it to this event
-  (police handout of the seizure, the accused, the place). If the caption would have to say the
-  picture is not known to show the event, leave it out instead of describing the doubt: the
-  submission service drops new photos with such captions automatically. Photos already in reports
-  are not removed by this rule.
+  video thumbnail (`local-news/adana-960x540`, `maxresdefault`), or its upload folder or file name
+  carries a readable date years older than the event (`2019/03/`, `photo_2025-09-07_…`). Keep such
+  a picture only when its caption or the article ties it to this event (police handout of the
+  seizure, the accused, the place). If the caption would have to say the picture is not known to
+  show the event, leave it out instead of describing the doubt: the submission service drops new
+  photos with such captions automatically. Photos already in reports are not removed by this rule.
+- **Not signs of a stand-in:** a long number or hash in an image address (`…@450x600_0xLK3F…_1731814372986188903.jpg`,
+  `x20713c03-b995-….jpg`) is an image server's id or resize code, not a date. A credit to the
+  police, prosecutor or agency whose announcement the article reports ("Источник: 74.мвд.рф",
+  "Photo: press service of the Interior Ministry") marks that agency's handout of this case: its
+  photos of the seized drugs, plants or items, placed in the article that describes them (a box of
+  dried plants for "a box of plant matter"), are the event's photos and belong in `media`, even
+  with a short caption. Judge each picture on its own: one file photo on a page, or a note that an
+  earlier source's picture was a file photo, says nothing about the others.
 - **Archive the pages.** Pages disappear, and they are the evidence. After writing a report, run
   `node scripts/archive-sources.mjs <slug>` to add the Wayback Machine's copy of each source and
   media page as `archived:` (`--save` asks it to save pages it lacks).

@@ -20,6 +20,17 @@ type Metadata struct {
 	Twitter     map[string]string `json:"twitter"`
 	JSONLD      []json.RawMessage `json:"json_ld"`
 	Images      []SourceImage     `json:"images,omitempty"`
+	Videos      []SourceVideo     `json:"videos,omitempty"`
+}
+
+// SourceVideo is a video in the article: a video file the page plays, or the own page of an
+// embedded player's video (a YouTube watch address for a YouTube embed), with its caption. Like a
+// SourceImage, only its address is kept.
+type SourceVideo struct {
+	Src     string `json:"src"`
+	Embed   string `json:"embed,omitempty"`
+	Poster  string `json:"poster,omitempty"`
+	Caption string `json:"caption,omitempty"`
 }
 
 // SourceImage is a photo in the article, as the browser saw it: where it is published, and its

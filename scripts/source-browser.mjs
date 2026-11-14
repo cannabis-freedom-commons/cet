@@ -194,14 +194,29 @@ async function captureImages(page) {
     const clean = (v, max = 400) => String(v || "").replace(/\s+/g, " ").trim().slice(0, max);
     // the story: the article or main around the headline (a page may have small <article> boxes
     // elsewhere); when that holds no photo, the whole page
-    const story = document.querySelector("h1")?.closest("article, main") || document.querySelector("main") || document.body;
+    // (a <main> elsewhere on the page, without the headline, is not the story)
+    const h1 = document.querySelector("h1"), main = document.querySelector("main");
+    const story = h1?.closest("article, main") || (main && (!h1 || main.contains(h1)) ? main : document.body);
     const big = (img) => { const r = img.getBoundingClientRect(); return r.width >= 280 && r.height >= 160; };
     const scope = [...story.querySelectorAll("img")].some(big) ? story : document.body;
     const seen = new Set(), out = [];
     for (const img of scope.querySelectorAll("img")) {
       const r = img.getBoundingClientRect(), src = img.currentSrc || img.src || "";
       if (r.width < 280 || r.height < 160 || !/^https?:/.test(src) || seen.has(src)) continue;
-      if (img.closest("header, nav, aside, footer, [role=banner], [role=navigation], [role=complementary], [class*=related], [class*=recommend], [class*=promo], [class*=advert]")) continue;
+      if (img.closest("nav, aside, footer, [role=banner], [role=navigation], [role=complementary], [class*=related], [class*=recommend], [class*=promo], [class*=advert]")) continue;
+      // the site's header, but not the article's own (its headline and lead photo: entry-header)
+      const header = img.closest("header");
+      if (header && !header.querySelector("h1")) continue;
+      // a picture that links to another page is that story's card, not this article's photo
+      const link = img.closest("a[href]");
+      if (link) {
+        try {
+          const target = new URL(link.getAttribute("href"), document.baseURI);
+          const here = new URL(location.href);
+          const file = /\.(?:jpe?g|png|webp|avif|gif)$/i.test(target.pathname);
+          if (!file && /^https?:$/.test(target.protocol) && target.pathname.replace(/\/$/, "") !== here.pathname.replace(/\/$/, "")) continue;
+        } catch { /* an unreadable link: keep the picture */ }
+      }
       seen.add(src);
       const figure = img.closest("figure");
       const caption = clean(figure?.querySelector("figcaption")?.innerText || img.alt || img.title);
@@ -212,6 +227,56 @@ async function captureImages(page) {
     return out;
   });
   return found.map(({ src, caption, credit, width, height }) => ({ src, caption, credit, width, height }));
+}
+
+// The videos in the article: video files the page plays and embedded players (YouTube, Vimeo,
+// Facebook, Dailymotion), with the address of the video's own page where there is one, at most five.
+// Like the photos, only addresses and captions: the research agent may link them as media.
+export function findVideos() {
+  const clean = (v, max = 400) => String(v || "").replace(/\s+/g, " ").trim().slice(0, max);
+  const unrelated = "nav, aside, footer, [role=banner], [role=navigation], [role=complementary], [class*=related], [class*=recommend], [class*=promo], [class*=advert]";
+  const absolute = (value) => {
+    // a protocol-relative address ("//player.vimeo.com/…") is an https one
+    try { const u = new URL(value.startsWith("//") ? "https:" + value : value, document.baseURI); return /^https?:$/.test(u.protocol) ? u.href : ""; } catch { return ""; }
+  };
+  const page = (src) => {
+    let u; try { u = new URL(src); } catch { return ""; }
+    const host = u.hostname.replace(/^www\./, "");
+    let m;
+    if (/(^|\.)youtube(-nocookie)?\.com$/.test(host) && (m = u.pathname.match(/^\/(?:embed|shorts|live)\/([\w-]{6,})/))) return `https://www.youtube.com/watch?v=${m[1]}`;
+    if (host === "youtube.com" && u.searchParams.get("v")) return `https://www.youtube.com/watch?v=${u.searchParams.get("v")}`;
+    if (host === "youtu.be" && (m = u.pathname.match(/^\/([\w-]{6,})/))) return `https://www.youtube.com/watch?v=${m[1]}`;
+    if (host === "player.vimeo.com" && (m = u.pathname.match(/^\/video\/(\d+)/))) return `https://vimeo.com/${m[1]}`;
+    if (/(^|\.)facebook\.com$/.test(host) && u.pathname.startsWith("/plugins/video")) return absolute(u.searchParams.get("href") || "");
+    if (/(^|\.)dailymotion\.com$/.test(host) && (m = u.pathname.match(/\/embed\/video\/(\w+)/))) return `https://www.dailymotion.com/video/${m[1]}`;
+    return "";
+  };
+  const caption = (element) => {
+    const figure = element.closest("figure");
+    return clean(figure?.querySelector("figcaption")?.innerText || element.getAttribute("title") || element.getAttribute("aria-label"));
+  };
+  const out = [], seen = new Set();
+  const add = (video) => { if (video.src && !seen.has(video.src) && out.length < 5) { seen.add(video.src); out.push(video); } };
+  for (const element of document.querySelectorAll("video")) {
+    if (element.closest(unrelated)) continue;
+    const src = absolute(element.currentSrc || element.getAttribute("src") || element.querySelector("source[src]")?.getAttribute("src") || "");
+    const poster = element.getAttribute("poster");
+    if (src) add({ src: src.slice(0, 2000), caption: caption(element), poster: poster ? absolute(poster).slice(0, 2000) : "" });
+  }
+  for (const element of document.querySelectorAll("iframe")) {
+    if (element.closest(unrelated)) continue;
+    // lazy players keep their address in a data attribute until scrolled to
+    const raw = ["src", "data-src", "data-lazy-src", "data-litespeed-src"].map((name) => element.getAttribute(name) || "").find((value) => value && value !== "#" && !value.startsWith("about:"));
+    const src = absolute(raw || ""), link = src && page(src);
+    if (link) add({ src: link, embed: src.slice(0, 2000), caption: caption(element) });
+  }
+  // a YouTube player script often leaves only its watch link in the article
+  for (const a of document.querySelectorAll("a[href*='youtu']")) {
+    if (a.closest(unrelated)) continue;
+    const link = page(absolute(a.getAttribute("href") || ""));
+    if (link) add({ src: link, caption: clean(a.innerText) });
+  }
+  return out;
 }
 
 export async function captureSource({ url, dir, proxy, token, browser, track }) {
@@ -304,6 +369,13 @@ async function capturePage({ url, dir, proxy, token, imageBuffers, browser: shar
       scrollTo(0, 0);
     }, MAX_HEIGHT).catch(() => {});
     await page.waitForLoadState("networkidle", { timeout: 3000 }).catch(() => {});
+    // photos further down the article load only once scrolled to (lazy images): look again
+    extracted.metadata.videos = await page.evaluate(findVideos).catch(() => []);
+    const seen = new Set(extracted.metadata.images.map((image) => image.src));
+    for (const image of await captureImages(page).catch(() => [])) {
+      if (extracted.metadata.images.length >= 8) break;
+      if (!seen.has(image.src)) { seen.add(image.src); extracted.metadata.images.push(image); }
+    }
     const { fullHeight, fullWidth } = await page.evaluate(() => ({
       fullHeight: document.documentElement.scrollHeight,
       fullWidth: document.documentElement.scrollWidth,

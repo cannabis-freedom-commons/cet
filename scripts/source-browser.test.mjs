@@ -5,7 +5,7 @@ import os from "node:os";
 import path from "node:path";
 import http from "node:http";
 import { chromium } from "playwright";
-import { captureSource, extractSourcePage } from "./source-browser.mjs";
+import { captureSource, extractSourcePage, findVideos } from "./source-browser.mjs";
 
 let browserAvailable = true;
 try { await fs.access(chromium.executablePath()); } catch { browserAvailable = false; }
@@ -123,4 +123,20 @@ test("Playwright captures JavaScript text, SEO metadata, redirects and screensho
     }
     assert.deepEqual(JSON.parse(await fs.readFile(path.join(dir, "metadata.json"), "utf8")), result.evidence.metadata);
   } finally { await new Promise(resolve => bridge.close(resolve)); await fs.rm(dir, { recursive: true, force: true }); }
+});
+
+test("videos: files the page plays and embedded players by their own pages, not other stories'", { skip: !browserAvailable }, async () => {
+  const browser = await chromium.launch({ channel: "chromium", headless: true });
+  try {
+    const page = await browser.newPage();
+    await page.setContent(`<html><body><h1>Arrest</h1><article>
+      <figure><video src="https://news.example/clip.mp4"></video><figcaption>Carabinieri footage of the search</figcaption></figure>
+      <iframe src="https://www.youtube.com/embed/URf86122YB4?autoplay=0"></iframe>
+      <iframe src="#" data-src="//player.vimeo.com/video/123456"></iframe>
+      </article><aside class="related"><iframe src="https://www.youtube.com/embed/OTHERVIDEO1"></iframe></aside></body></html>`);
+    const videos = await page.evaluate(findVideos);
+    assert.deepEqual(videos.map((v) => v.src), ["https://news.example/clip.mp4", "https://www.youtube.com/watch?v=URf86122YB4", "https://vimeo.com/123456"]);
+    assert.equal(videos[0].caption, "Carabinieri footage of the search");
+    assert.equal(videos[0].poster, "", "no poster is not the page's address");
+  } finally { await browser.close(); }
 });

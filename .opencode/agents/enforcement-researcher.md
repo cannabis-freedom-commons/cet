@@ -180,7 +180,11 @@ Write it as docs/WRITING.md and the add-report skill say, like the examples:
   cannot write in Latin letters.
 - media: the photos and videos of this event on the pages you cite, as links (docs/WRITING.md §7:
   a newspaper's or an agency's picture is never copied, only linked). request.json lists the
-  submitted page's photos (source_images) with direct image addresses (src), captions and credits.
+  submitted page's photos (source_images) with direct image addresses (src), captions and credits,
+  and its videos (source_videos): a video file's address, or the video's own page for an embedded
+  player (a YouTube watch address), which is the media_url of a "video" entry. A video in an
+  article about the case, especially police or Carabinieri footage of the search or the seized
+  drugs, belongs in media like the photos.
   Outlets often republish the same agency or police handout: list each picture once, preferably
   from the agency's own page or the first outlet, never the same picture again from another outlet
   (the service also leaves out near-identical photos automatically).
@@ -202,7 +206,14 @@ Write it as docs/WRITING.md and the add-report skill say, like the examples:
   Leave out generic stand-in pictures (gavel, handcuffs, bars, police sign or car, city or section
   banner, cartoon, drugs from another story): signs are a caption that only repeats the headline or
   outlet name, a "file"/"archive"/"illustrative" label, an address naming a city, section or video
-  thumbnail, or an upload folder years before the event (docs/WRITING.md §7). If your caption would
+  thumbnail, or a readable date in the upload folder or file name years before the event
+  (docs/WRITING.md §7). Not signs: a long number or hash in an image server's address is an id,
+  never a date; a credit to the police or agency whose announcement the article reports
+  ("Источник: 74.мвд.рф", "Photo: press service of …") marks its handout of this case, and its
+  photos of the seized drugs or items in an article describing them belong in media. Judge each
+  picture on its own: one file photo, or an existing report's note about another source's
+  picture, says nothing about the others. When you add a source to an existing report
+  (additional_source, existing_case), list that page's photos of the event too. If your caption would
   have to say a picture is not known to show the event, omit it: the service drops such captions.
 - sources: the title and publisher as published, the source's publication date, and its language
   (two letters) if not English.

@@ -1245,6 +1245,14 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 		}
 		request["source_images"] = images
 	}
+	// its videos: a file the page plays, or an embedded player's own video page
+	if e.Metadata != nil && len(e.Metadata.Videos) > 0 {
+		var videos []map[string]string
+		for _, v := range e.Metadata.Videos {
+			videos = append(videos, map[string]string{"src": v.Src, "caption": v.Caption})
+		}
+		request["source_videos"] = videos
+	}
 	if e.Content != "" {
 		request["source_text"] = "source.txt"
 		request["source_html"] = "source.html"
