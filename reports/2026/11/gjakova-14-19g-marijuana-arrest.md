@@ -48,6 +48,11 @@ sources:
     publisher: Kallxo.com
     date: 2026-11-14
     language: sq
+  - title: Die Polizei in Gjakova beschlagnahmte Kokain, MDMA und Marihuana. Durchsuchungen an sechs Orten in Süd-Mitrovica – KoSSev
+    url: https://kossev.info/de/policija-zaplene-droga-dakovica-juzna-mitrovica/
+    publisher: KoSSev
+    date: 2026-11-14
+    language: de
 open_questions:
   - All substances were described only as suspected, with no laboratory confirmation reported.
   - The 13.91 grams combine suspected cocaine, MDMA and ecstasy without a breakdown, so no non-cannabis weight is counted as cannabis.
@@ -63,15 +68,14 @@ the Gjakova case occurred on Friday 13 November 2026 on Haxhi Zeka street. [@2]
 The search covered the suspect's house and its accompanying facilities, where
 substances suspected to be narcotics were found and seized. [@2] One man was
 arrested during the Gjakova home search after suspected cocaine, MDMA and
-marijuana were found in his possession. [@1]
+marijuana were found in his possession. [@1,3]
 
 Officers found three plastic bags containing a total of 13.91 grams of
-substances suspected to be cocaine, MDMA and ecstasy. [@2] Officers separately
+substances suspected to be cocaine, MDMA and ecstasy. [@2,3] Officers separately
 found 14.19 grams of material suspected to be marijuana, alongside the other
-suspected drugs. [@1] Police also seized two digital scales and 450 euros
-suspected to have been obtained from the sale of narcotics. [@2]
+suspected drugs. [@1,3] Police also seized two digital scales and 450 euros
+suspected to have been obtained from the sale of narcotics. [@2,3]
 
 The suspect was placed in detention by decision of the prosecutor following the
-seizure. [@1] The suspect remained in detention under the prosecutor's order.
+seizure. [@1,3] The suspect remained in detention under the prosecutor's order.
 [@2]
-
