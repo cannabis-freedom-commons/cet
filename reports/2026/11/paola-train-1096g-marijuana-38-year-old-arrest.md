@@ -49,43 +49,43 @@ sources:
     publisher: ilReggino.it
     date: 2026-11-13
     language: it
-open_questions:
-  - The 1,096.15 grams is reported as a gross weight; no net weight or laboratory confirmation beyond the narcotest was reported.
-  - No value estimate for the marijuana was published.
-  - No outcome was reported for the underlying robbery proceeding behind the Palmi house-arrest order.
+  - title: Arrestato a Paola sul treno con un chilo di marijuana mentre era ai domiciliari
+    url: https://www.pillamaro.it/cronaca/arrestato-a-paola-sul-treno-con-un-chilo-di-marijuana-mentre-era-ai-domiciliari
+    publisher: PillaMaro.it
+    date: 2026-11-14
+    language: it
 ---
 
 Antonino Michelizzi, a 38-year-old from the Reggio area, was supposed to be
 under house arrest at his home in Rosarno but spent the night of 11 November
 2026 travelling on a night train with a ticket to Asti and over a kilogram of
-drugs in his luggage. [@1] Checks showed he had been under house arrest since 11
-February on an order of the Palmi court in robbery proceedings. [@1] Railway
+drugs in his luggage. [@1,3] Checks showed he had been under house arrest since 11
+February on an order of the Palmi court in robbery proceedings. [@1,3] Railway
 Police officers from the Rome Termini unit noticed the 38-year-old sitting alone
 in the second carriage because his guarded and wary behaviour aroused suspicion.
-[@1]
+[@1] The check took place at about 00:20 on 11 November on Intercity train 794 from Lamezia Terme Centrale to Roma Ostiense. [@3]
 
 When approached for a routine check, he said he had no documents and gave a
-false name and date of birth that had no match in police databases. [@1] A
+false name and date of birth that had no match in police databases. [@1,3] A
 cardholder visible in his tracksuit betrayed him, and when asked to empty his
 pockets he had to hand over his identity card. [@1] His suitcase concealed five
-cellophane bags full of inflorescences. [@1] When the train stopped at Paola
-station, officers took him off the train to the local police station. [@1] A
+cellophane bags full of inflorescences. [@1,3] When the train stopped at Paola
+station, officers took him off the train to the local police station. [@1,3] A
 narcotest confirmed the substance was marijuana with a total gross weight of
 1,096.15 grams, and he was arrested in the act at about 01:50. [@1]
 
 The arrest of 38-year-old Antonino Michelizzi, stopped after the railway-police
 check on the train, was validated by the judge, who found he had given false
 personal details and travelled with five bags of marijuana in his suitcase and a
-ticket to Asti. [@2] At the validation hearing, assisted by lawyer Matteo
-Cristiani, the 38-year-old chose to remain silent. [@1] The investigating judge
+ticket to Asti. [@2] The validation order was deposited on 13 November by Paola investigating judge Maria Grazia Bellomusto. [@3] At the validation hearing, assisted by lawyer Matteo
+Cristiani, the 38-year-old chose to remain silent. [@1,3] The investigating judge
 still found serious indications of guilt on all charges, holding that the large
 quantity, the division into five packages and the travel circumstances ruled out
 exclusively personal use. [@1]
 
 In the order, the judge imposed pretrial custody in prison for alleged drug
-possession for dealing, evasion and false statements on personal identity. [@1]
+possession for dealing, evasion and false statements on personal identity. [@1,3]
 Citing his record and the brazenness of leaving his place of detention, the
 judge held no less restrictive measure could contain the concrete danger of
 reoffending and ordered transmission of the file to the Palmi court for matters
 within its competence. [@1]
-
