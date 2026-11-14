@@ -41,6 +41,10 @@ sources:
     url: https://newsable.asianetnews.com/kerala-news/massive-marijuana-plantation-busted-in-palakkad-attappadi-region-articleshow-keshvcu
     publisher: Asianet Newsable
     date: 2026-09-25
+  - title: 7,300 cannabis plants destroyed in Keralam's Palakkad forest
+    url: https://theprint.in/india/7300-cannabis-plants-destroyed-in-keralams-palakkad-forest/3053046/
+    publisher: ThePrint
+    date: 2026-09-25
 media:
   - kind: photo
     url: https://newsable.asianetnews.com/kerala-news/massive-marijuana-plantation-busted-in-palakkad-attappadi-region-articleshow-keshvcu
@@ -55,7 +59,7 @@ open_questions:
   - Deccan Chronicle labels its own page image a representational picture of cannabis, so it is not listed.
 ---
 
-Police burned about 7,300 cannabis plants on Thursday 24 September 2026 in forest between Ponnakkal Mala and Ankanyan Chola, in Pudur panchayat, Attappady, Palakkad. [@1] The District Anti-Narcotics Special Action Force and a team led by Agali sub-inspector Harshad set out at about 4.30 a.m. after a tip-off and walked for hours through steep ground. [@1] Asianet Newsable described the walk as more than seven hours. [@2]
+Police burned about 7,300 cannabis plants on Thursday 24 September 2026 in forest between Ponnakkal Mala and Ankanyan Chola, in Pudur panchayat, Attappady, Palakkad. [@1,3] The District Anti-Narcotics Special Action Force and a team led by Agali sub-inspector Harshad set out at about 4.30 a.m. after a tip-off and walked for hours through steep ground. [@1,3] Asianet Newsable described the walk as more than seven hours. [@2]
 
 About 1,600 plants, around a month and a half old, stood in 160 prepared beds between the two ridges. [@1,2] About 5,700 fully grown plants stood in 475 beds on the eastern side of Ponnakkal Mala. [@1,2] Police said the growers had stored stream water and used drip irrigation, and that the plants were burned where they stood. [@1,2]
 
