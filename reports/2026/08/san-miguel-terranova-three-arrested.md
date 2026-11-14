@@ -19,6 +19,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/GFPLA4KH3REZTP2GKXNVZ34JOU.jpg?auth=9f845bd7825e2067ec4dd4d4d4215946faf4a3ecd6bb56351e0ae0d39d996e08&smart=true&width=992&height=565&quality=85
     publisher: Infobae
     caption: 'PNC photo of the arrest for possession and tenure of drugs in the Terranova house in San Miguel. Photo: Policía Nacional Civil via Infobae'
+  - kind: photo
+    url: https://www.laprensagrafica.com/elsalvador/pnc-captura-a-dos-hombres-y-una-mujer-con-marihuana-en-san-miguel-20260822-0037.html
+    media_url: https://assets.laprensagrafica.com/__export/1787431290378/sites/prensagrafica/img/2026/08/22/whatsapp_image_2026-08-22_at_2_40_16_pm.jpeg_554688467.jpeg
+    publisher: La Prensa Gráfica
+    caption: 'Police procedure in Residencial Terranova, San Miguel. Photo: PNC'
 details:
   activity: [sale]
   agency_types: [police]
@@ -48,12 +53,11 @@ sources:
     publisher: Diario El Salvador
     date: 2026-08-22
     language: es
-open_questions:
-  - No marijuana weight was published, only several portions, so no kilograms can be recorded.
-  - The sources report the operation as occurring on Saturday and were published 22 August 2026, which is used as the incident date; no separate raid time was given.
-  - No individual roles, charges beyond possession and tenure, or court outcome were reported; the case was still under investigation.
-  - Both accounts repeat the PNC version; no statement from the detainees or families was published.
-  - Other images on the Infobae page show unrelated stories and are omitted; only the PNC arrest photo for this event is listed.
+  - title: PNC captura a dos hombres y una mujer con marihuana en San Miguel - La Prensa Gráfica
+    url: https://www.laprensagrafica.com/elsalvador/pnc-captura-a-dos-hombres-y-una-mujer-con-marihuana-en-san-miguel-20260822-0037.html
+    publisher: La Prensa Gráfica
+    date: 2026-08-22
+    language: es
 ---
 
 El Salvador's National Civil Police (PNC) captured three people on Saturday in
@@ -67,16 +71,15 @@ Thursday 20 August in Caserío El Castaño in San Pedro, Chirilagua, southeast o
 San Miguel. [@1]
 
 Officers carried out the procedure inside a house where they found marijuana and
-objects linked to its distribution. [@1] During the operation the authorities
+objects linked to its distribution. [@1,3] During the operation the authorities
 seized several portions of marijuana, an electronic scale, a motorcycle and
 cash. [@1] In the house search the teams also seized six mobile telephones, a
 drug grinder and a pipe alongside the marijuana, scale, motorcycle and cash.
-[@2]
+[@2,3]
 
 Police said the three captured people will be referred for the crime of
-possession and tenure of drugs. [@1] The PNC said the detainees will be
+possession and tenure of drugs. [@1,3] The PNC said the detainees will be
 presented to the justice system and placed at the disposal of the Attorney
 General's Office. [@1] In its official channels the PNC warned young people
 against joining drug dealing, writing that anyone who becomes involved in
 unlawful acts will go to jail. [@1]
-
