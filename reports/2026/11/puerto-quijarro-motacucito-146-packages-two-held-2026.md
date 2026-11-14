@@ -48,6 +48,14 @@ open_questions:
   - No separate date was published for the operation; 13 November 2026 is the article's publication date and is used as the incident date.
   - The two detained people were not named and no charges or court outcome were reported; the case was at the investigation stage.
   - Only one accessible account of this operation was found; the account relies on a single published report.
+media:
+  - kind: photo
+    url: https://eldia.com.bo/2026-11-13/santa-cruz/umopar-secuestra-marihuana-y-aprehende-a-dos-personas-en-operativo-fronterizo.html
+    media_url: https://eldia.com.bo/files/posts/2026-11-13/193f4ea3d9f6fa4066c2af629cd9c2ff.jpeg
+    publisher: El Día
+    caption: >-
+      FELCN Leopardos officer with field-test vial beside plastic-wrapped packages marked at
+      inmueble 2 during the Puerto Quijarro operation. Photo: El Día
 ---
 
 UMOPAR officers from Puerto Quijarro seized marijuana and detained two people in

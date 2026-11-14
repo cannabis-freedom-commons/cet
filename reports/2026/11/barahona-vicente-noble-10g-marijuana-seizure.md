@@ -45,6 +45,7 @@ open_questions:
   - The institution did not say whether anyone was detained, so no arrest figure is recorded.
   - The account rests on a single accessible source reproducing a police report, with no independent corroboration found.
   - No value estimate, exact weight, or number of homes searched was published.
+  - Noticias SIN ran a blurred booking portrait against a DICJ seal, but the account reported no detentions for these raids, so it is not treated as an event photo here.
 ---
 
 The National Police, in coordination with the Public Prosecutor's Office,

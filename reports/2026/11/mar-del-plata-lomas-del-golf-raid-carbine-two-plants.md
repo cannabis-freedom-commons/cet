@@ -51,6 +51,21 @@ open_questions:
   - The 21-year-old was not named and no laboratory confirmation of the plants was reported.
   - He was released under article 161 of the Criminal Procedure Code with the investigation continuing; no charge wording for drugs or court outcome was reported.
   - The account rests on a single accessible outlet report; no second account of this search was found.
+media:
+  - kind: photo
+    url: https://radio10mardelplata.com.ar/denuncias-por-disparos-en-lomas-del-golf-allanaron-una-vivienda-y-secuestraron-una-carabina-municiones-y-plantas-de-marihuana/
+    media_url: https://radio10mardelplata.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-18.34.00.webp
+    publisher: Radio 10 Mar del Plata FM 105.5
+    caption: >-
+      Seized Bersa carbine, ammunition and .22 box displayed before the Comisaría Mar del Plata
+      5ta. placard. Photo: Radio 10 Mar del Plata
+  - kind: photo
+    url: https://radio10mardelplata.com.ar/denuncias-por-disparos-en-lomas-del-golf-allanaron-una-vivienda-y-secuestraron-una-carabina-municiones-y-plantas-de-marihuana/
+    media_url: https://radio10mardelplata.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-18.33.59-1-1200x900.webp
+    publisher: Radio 10 Mar del Plata FM 105.5
+    caption: >-
+      Tactical officers stacked outside a residential driveway during the Lomas del Golf search.
+      Photo: Radio 10 Mar del Plata
 ---
 
 A 39-year-old woman's complaint said a 21-year-old man from the Lomas del Golf

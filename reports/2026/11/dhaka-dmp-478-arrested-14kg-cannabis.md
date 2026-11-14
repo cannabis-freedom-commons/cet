@@ -54,6 +54,7 @@ sources:
     date: 2026-11-14
 open_questions:
   - Sources give different figures for the cannabis seized in this sweep, including 14.45 kg and 14.045 kg.
+  - Opened UNB, Views Bangladesh and BD Bulletin pages used only handcuff graphics or DMP logo composites, not photos of this drive.
 ---
 
 Dhaka Metropolitan Police arrested 478 people and filed 62 cases during 24 hours

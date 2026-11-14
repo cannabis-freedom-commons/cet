@@ -44,6 +44,7 @@ open_questions:
   - No individual case numbers, charges or court outcomes reported for the five suspects.
   - No separate outlet or police statement account found beyond the UrduPoint/APP reprint of the same wire.
   - The article gives no names or ages of the arrested suspects.
+  - UrduPoint illustrated the arrest with an ANF logo composite over blurred bricks, not a photo of this Rawalpindi seizure.
 ---
 
 Rawalpindi police arrested five suspected drug suppliers in separate operations

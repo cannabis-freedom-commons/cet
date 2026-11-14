@@ -31,6 +31,8 @@ sources:
     publisher: Словости
     date: 2026-11-13
     language: ru
+open_questions:
+  - Komsomolskaya Pravda illustrated the story with a generic handcuffing stock image, not a photo of this Bobrovsky seizure.
 ---
 
 The suspect is a 39-year-old resident of the khutor of Khrenishche in Bobrovsky

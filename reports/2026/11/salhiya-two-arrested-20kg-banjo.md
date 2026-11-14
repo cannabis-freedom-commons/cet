@@ -53,9 +53,10 @@ sources:
     date: 2026-11-14
     language: ar
 open_questions:
-    - No separate date for the arrests is given; 13 November 2026 is the publication date and is used as the incident date.
-    - The 20 kilograms is reported as an approximate weight, with no laboratory confirmation reported.
-    - No charges, pleas or court outcome beyond referral to the prosecution were reported.
+  - No separate date for the arrests is given; 13 November 2026 is the publication date and is used as the incident date.
+  - The 20 kilograms is reported as an approximate weight, with no laboratory confirmation reported.
+  - No charges, pleas or court outcome beyond referral to the prosecution were reported.
+  - Youm7 illustrated the arrest with an August 2020 file image, not a photo of this Salhiya seizure.
 ---
 
 Detectives of New Salhia in the Sharqia Security Directorate, in coordination

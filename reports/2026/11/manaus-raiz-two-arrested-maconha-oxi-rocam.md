@@ -30,6 +30,22 @@ open_questions:
   - No charge, custody decision or court outcome beyond the planned custody hearing was reported.
   - The amount of cash found was not published, so no value figure can be recorded.
   - Only one accessible outlet account of this event was found after searching in Portuguese; no agency statement or second outlet account could be opened.
+  - The presentation photos show a handgun among the seized items, which the written account did not mention.
+media:
+  - kind: photo
+    url: https://imediato.ncnews.com.br/2026/11/13/azar-em-dobro-dois-homens-sao-presos-com-maconha-e-oxi-durante-operacao-em-boca-de-fumo/
+    media_url: https://imediato.ncnews.com.br/app/uploads/2026/11/MATERIAS-IMEDIATO-2026-11-13T205921.167.webp
+    publisher: Imediato Online
+    caption: >-
+      ROCAM evidence table with cannabis portions, oxi stones, cash, phones, scales and a handgun
+      in front of the unit banner after the Raiz arrests. Photo: Imediato Online
+  - kind: photo
+    url: https://imediato.ncnews.com.br/2026/11/13/azar-em-dobro-dois-homens-sao-presos-com-maconha-e-oxi-durante-operacao-em-boca-de-fumo/
+    media_url: https://imediato.ncnews.com.br/app/uploads/2026/11/MATERIAS-IMEDIATO-2026-11-13T205939.448.webp
+    publisher: Imediato Online
+    caption: >-
+      The two detained men standing handcuffed beside a ROCAM banner after the Raiz operation.
+      Photo: Imediato Online
 ---
 
 Two men, aged 22 and 34, were caught with portions of cannabis and oxi, along

@@ -35,6 +35,7 @@ open_questions:
   - Left out products, as no supporting quotation was given.
   - Left out setting, as no supporting quotation was given.
   - Left out arrested, as no supporting quotation was given.
+  - Realitatea.md led with a May 2026 white-powder evidence file image unrelated to this Comrat marijuana case.
 ---
 
 Law-enforcement officers dismantled a network specialising in cultivating,

@@ -46,6 +46,7 @@ open_questions:
   - The 21 kg quantity is reported as approximate, with no exact measured weight or laboratory confirmation stated.
   - No charges, court proceedings or case outcome were stated.
   - The account rests on a single accessible outlet report; no second independent source was found.
+  - Eisamay illustrated the short with a generic handcuff stock image, not a photo of this Namkhana arrest.
 ---
 
 Officers of the Special Operation Group of Sundarban Police District lay in wait

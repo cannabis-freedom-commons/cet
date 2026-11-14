@@ -49,6 +49,14 @@ open_questions:
   - No laboratory confirmation or value estimate for the seized ganja was published.
   - No plea, custody status or court outcome beyond registration of the NDPS case was reported.
   - Only one accessible account of this arrest was found after searching in Hindi.
+media:
+  - kind: photo
+    url: https://www.dotookmedia.com/2026/11/47-25.html
+    media_url: https://blogger.googleusercontent.com/img/a/AVvXsEheq9DZ9uFUvkA7jesoWvSlXHUCK_6iJ8pp6R-sIOad924LFLuSAxh_XL0mrqJbCAblB-rLE98Ml0umglZEysmyPzR68yjlzFibMOoWQxDwjXh7_QXrd4gLCjrvAEzZ0Sbn1pppNO20pdw7YLzLL5gZi5HI1V3eMywqQrcT4EQmtGc4hre8ZP9ZBfgybKDt=s1600
+    publisher: Do Took Media
+    caption: >-
+      Suspect Afaq standing between two Jarcha police officers and holding a cloth-wrapped
+      bundle of the seized ganja at the station. Photo: Do Took Media
 ---
 
 Jarcha police arrested 25-year-old Afaq near Kalaunda crossing on 13 November

@@ -31,6 +31,14 @@ open_questions:
   - No separate date for the detention was given; 13 November 2026 is the publication date and is used as the incident date.
   - No charge, detention measure or court outcome was reported; the man remained under investigation and retained the presumption of innocence.
   - The account rests on one accessible local report; no second independent account of the same detention was found.
+media:
+  - kind: photo
+    url: https://ahora.com.pe/policiales/detienen-a-presunto-extorsionador-con-cuchillo-y-posible-droga-en-pillco-marca
+    media_url: https://ahora.com.pe/api/uploads/images/2026/11/f8eed79d2116.jpg
+    publisher: Diario Ahora
+    caption: >-
+      Blurred detainee before a Policía Nacional del Perú backdrop with labelled exhibits: knife,
+      bag labelled cannabis sativa, cash and lighter. Photo: Diario Ahora
 ---
 
 National Police officers detained a 33-year-old man in the district of Pillco

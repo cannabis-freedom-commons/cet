@@ -48,6 +48,7 @@ open_questions:
   - No charges, court outcome or whether the men were produced in court were reported.
   - No value estimate or further details about the source of the cannabis were published.
   - The page's sidebar link to a separate Cuddalore arrest of two youths with cannabis is a different event and is not covered here.
+  - The Dinamalar page carried no usable event photograph of this Palani cannabis arrest.
 ---
 
 Town police in Palani stopped two men who were standing near the Palani
