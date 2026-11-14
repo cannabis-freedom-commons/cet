@@ -104,6 +104,11 @@ sources:
     publisher: Times Kerala
     date: 2026-11-14
     language: ml
+  - title: സീലിങ് ലൈറ്റുകളുടെ മറവിൽ ലഹരിമരുന്ന് കടത്താൻ ശ്രമം; കുവൈത്തിൽ 5.65 കിലോ കഞ്ചാവ് പിടികൂടി | Attempt To Smuggle Drugs Concealed Inside Ceiling Lights Cannabis Seized In Kuwait | Asianet News Malayalam
+    url: https://www.asianetnews.com/pravasam/attempt-to-smuggle-drugs-concealed-inside-ceiling-lights-cannabis-seized-in-kuwait-articleshow-kwr8ods
+    publisher: Asianet News Malayalam
+    date: 2026-11-14
+    language: ml
 media:
   - kind: photo
     url: https://www.alanba.com.kw/1384402
@@ -118,19 +123,19 @@ media:
 ---
 
 Kuwait's Air Cargo Customs Department said its inspection and deposit control
-inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7,8,9,10,12,13] The parcels
+inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7,8,9,10,12,13,14] The parcels
 carried a substance suspected to be marijuana, described as herbal hashish,
-weighing 5.650 kilograms in total. [@1,2,3,4,5,6,8,10,11,12,13]
+weighing 5.650 kilograms in total. [@1,2,3,4,5,6,8,10,11,12,13,14]
 
 The parcels had been declared as ceiling lamps, and the inspectors found the
-suspected substance inside them after searching. [@1,2,3,4,5,8,10,11,12,13] After the seizure, the
+suspected substance inside them after searching. [@1,2,3,4,5,8,10,11,12,13,14] After the seizure, the
 customs search and investigation department coordinated with the Interior
 Ministry's General Department for Drug Control to complete the legal procedures
-for the seized parcels. [@1,2,3,4,5,8,10,11,12,13]
+for the seized parcels. [@1,2,3,4,5,8,10,11,12,13,14]
 
 The General Directorate of Customs said it would keep blocking drug-smuggling
-attempts through customs posts and working with security agencies. [@1]
+attempts through customs posts and working with security agencies. [@1,14]
 
-Inspectors carried out the seizure on the directions of First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousuf. [@3,9,10]
+Inspectors carried out the seizure on the directions of First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousuf. [@3,9,10,14]
 
 Kuwait's General Directorate of Customs said the seizure was made on the directions of First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousuf. [@6]
