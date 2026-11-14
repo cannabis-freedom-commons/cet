@@ -52,6 +52,10 @@ sources:
     publisher: Desh Sewak
     date: 2026-11-13
     language: pa
+  - title: Drugs valued at over Rs 2 lakh seized in Goa; one arrested
+    url: https://www.thehawk.in/news/crime/drugs-valued-at-over-rs-2-lakh-seized-in-goa-one-arrested
+    publisher: The Hawk
+    date: 2026-11-13
 open_questions:
   - Tarun Bharat reused a Goa Police file photo dated 1 November 2026, so no photo of this seizure is listed.
 ---
@@ -60,15 +64,15 @@ Anti-Narcotic Police raided Ashwem-Mandrem in the early hours of 13 November
 2026 and arrested 28-year-old Rohan Panchal. [@1,2] Panchal was living in the
 Junaswada area of Mandrem and is originally from Lower Parel in Mumbai. [@1]
 Police registered Crime No. 22/2026 at the Anti-Narcotic police station over the
-seizure. [@1] Police filed the case under Sections 22(C) and 20(b)(ii)(A) of the
-NDPS Act, 1985 and arrested him after completing legal procedure. [@1]
+seizure. [@1,3] Police filed the case under Sections 22(C) and 20(b)(ii)(A) of the
+NDPS Act, 1985 and arrested him after completing legal procedure. [@1,3]
 
 The raid also recovered 24 LSD blotters of different colours weighing 0.78
-grams, which police valued at about Rs 240,000. [@1,2] The raid also recovered
+grams, which police valued at about Rs 240,000. [@1,2,3] The raid also recovered
 114.16 grams of dried ganja described as containing flowering and fruit-bearing
-parts of the cannabis plant, which police valued at about Rs 11,400. [@1,2] Police
+parts of the cannabis plant, which police valued at about Rs 11,400. [@1,2,3] Police
 said the drugs were hidden in a dark-coloured sling bag and in the storage
-compartment of an Activa scooter. [@1,2] Police put the combined value of the
+compartment of an Activa scooter. [@1,2,3] Police put the combined value of the
 suspected drugs at about Rs 251,400. [@1,2]
 
 The operation was conducted under the guidance of Anti-Narcotic Cell
