@@ -64,26 +64,29 @@ sources:
     publisher: Утро Русе
     date: 2026-11-13
     language: bg
-open_questions:
-  - bTV used a generic stock photo of handcuffs and white powder, not a picture of this Sofia school operation.
+  - title: Изведоха 15-годишен от класната стая, заподозрян за разпространение на дрога в София - ШУМ.БГ
+    url: https://www.shum.bg/article/275106/
+    publisher: ШУМ.БГ
+    date: 2026-11-13
+    language: bg
 ---
 
 Sofia police detained two men aged 23 and 24 and a 15-year-old pupil in an
 operation against drug distribution around schools, as announced at a briefing
-by SDVR director Nikolay Peltekov. [@1,6] The operation was carried out by
+by SDVR director Nikolay Peltekov. [@1,6,7] The operation was carried out by
 officers of the Sixth District Police Department on operational information
-about dealers selling drugs near schools. [@2]
+about dealers selling drugs near schools. [@2,7]
 
 The pupil was taken from his classroom during a lesson in the presence of Child
 Pedagogical Room inspectors from the Sixth District department and the school's
-deputy director. [@1,6] Officers found marijuana and an electronic scale on the
+deputy director. [@1,6,7] Officers found marijuana and an electronic scale on the
 boy. [@3] Police did not name the school in order to protect the minor's
 identity. [@4]
 
 In parallel, police checked a flat in Sofia's Mladost-2 district occupied by the
-two detained men aged 23 and 24 and found herbal cannabis there. [@5,6] The exact
+two detained men aged 23 and 24 and found herbal cannabis there. [@5,6,7] The exact
 quantity of the seized drug has not yet been established and an expert
 assessment is still to determine it. [@4] Police said both adult detainees have
 prior criminal records for drug distribution and were in breach of suspended
-sentences. [@1,6] Peltekhov said the detentions had taken place only a few hours
+sentences. [@1,6,7] Peltekhov said the detentions had taken place only a few hours
 before the briefing and investigative actions were continuing. [@4]
