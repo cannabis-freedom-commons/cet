@@ -42,23 +42,32 @@ sources:
     publisher: France-Antilles Martinique
     date: 2022-01-20
     language: fr
+  - title: 250 kilos de cannabis saisis à Schoelcher par les gendarmes
+    url: https://rci.fm/martinique/infos/Justice/250-kilos-de-cannabis-saisis-Schoelcher-par-les-gendarmes
+    publisher: RCI Martinique
+    date: 2022-01-20
+    language: fr
+  - title: 250 kg de cannabis saisis dans la commune de Schoelcher en Martinique
+    url: https://la1ere.franceinfo.fr/martinique/250-kg-de-cannabis-saisis-dans-la-commune-de-schoelcher-en-martinique-1208830.html
+    publisher: Martinique La 1ère
+    date: 2022-01-20
+    language: fr
 open_questions:
-  - No arrest, detention or identity details for the Schoelcher resident were published beyond describing her as a woman resident.
-  - The seizure is reported both as 250 kilos and as nearly 250 kilos of cannabis herb, so 250 kg is recorded without an exact laboratory weight.
-  - The 11 January 2022 incident date comes from the article text; 20 January 2022 is only the article publication date.
-  - No court outcome beyond the opening of a judicial investigation and continuing JIRS inquiries was reported.
-  - Only one accessible account of this event was opened; searches found no second accessible report to corroborate it.
+    - The identity of the person placed in provisional detention was not published; the Schoelcher resident is still described only as a woman resident.
+    - The seizure is reported both as 250 kilos and as nearly 250 kilos of cannabis herb, so 250 kg is recorded without an exact laboratory weight.
+    - The 11 January 2022 incident date comes from the article text; 20 January 2022 is only the article publication date.
+    - No court outcome beyond the opening of a judicial investigation and continuing JIRS inquiries was reported.
 ---
 
 On 11 January 2022, gendarmes of the Fort-de-France research section searched
 the home of a woman living in Schoelcher, Martinique, during a perquisition at
-her domicile. [@1] A judicial investigation was opened after the seizure at the
-Schoelcher home. [@1]
+her domicile. [@1,2] A judicial investigation was opened after the seizure at the
+Schoelcher home. [@1] In connection with the case, one person was placed in provisional detention, according to RCI's information. [@2]
 
 Officers seized nearly 250 kilograms of cannabis herb in what was described as a
-record seizure. [@1] The case was investigated under the authority of the
+record seizure. [@1,3] The case was investigated under the authority of the
 Fort-de-France prosecution service after extensive inquiries that included
-deploying the Fort-de-France branch of the GIGN. [@1]
+deploying the Fort-de-France branch of the GIGN. [@1,2]
 
 In a statement, the Fort-de-France prosecution service said that in the Antilles
 cannabis is used as a product exchanged for cocaine and has a similar value.
@@ -66,5 +75,4 @@ cannabis is used as a product exchanged for cocaine and has a similar value.
 affect criminal networks involved in distributing cocaine. [@1] Investigations
 are now continuing under a rogatory commission from an investigating judge of
 the specialised interregional court in order to identify members of a network
-that could be international. [@1]
-
+that could be international. [@1,2]
