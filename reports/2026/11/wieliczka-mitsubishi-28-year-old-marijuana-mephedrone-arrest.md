@@ -52,24 +52,20 @@ sources:
     publisher: Policja Małopolska
     date: 2026-11-13
     language: pl
-open_questions:
-  - The marijuana weight is stated as more than half a kilogram, not an exact measured figure, and 0.5 kg is recorded as the stated amount.
-  - The village within Wieliczka municipality where the car was stopped is not named.
-  - The mefedron amounts (nearly half a kilogram in the car and about 20 grams in the room) are excluded from the cannabis figures because mefedron is a synthetic psychoactive substance.
-  - The combined total of more than a kilogram of illicit substances cannot be separated into cannabis and other substances.
-  - The room searched is described only as the accommodation of a man from Limanowa County, so no more precise location is recorded.
-  - No preventive measure such as remand, and no court date or outcome, was reported.
-  - Both accounts reproduce the same Wieliczka police statement, so the case rests on a single police source.
-  - The Małopolska police photo published with the case shows only vacuum-sealed bags of crystalline mefedron, not the marijuana from the room search, so it is not listed as cannabis media.
+  - title: Mefedron w aucie, w domu marihuana. Zatrzymano 28-latka
+    url: https://limanowa.in/aktualnosci/mefedron-w-aucie-w-domu-marihuana-zatrzymano-28-latka/84914
+    publisher: limanowa.in
+    date: 2026-11-14
+    language: pl
 ---
 
 Officers from the criminal department of the Wieliczka county police stopped a
 Mitsubishi at a check in a village in Wieliczka municipality at about 20:30 on 5
-November 2026. [@1] The driver, a 28-year-old resident of Limanowa County, had
+November 2026. [@1,3] The driver, a 28-year-old resident of Limanowa County, had
 nearly half a kilogram of mefedron in the car and was detained. [@2]
 
 Officers from Limanowa then searched the room the man occupied and found more
-than half a kilogram of marijuana and about 20 grams more mefedron. [@2] Police
+than half a kilogram of marijuana and about 20 grams more mefedron. [@2,3] Police
 said that in total more than a kilogram of illicit substances was secured across
 the car and the room. [@2]
 
@@ -78,4 +74,3 @@ of intoxicants and psychotropic substances under article 62 paragraph 2 of the
 Polish act on counteracting drug addiction. [@2] That offence carries a prison
 term of one to ten years. [@1] The Wieliczka officers were joined by Limanowa
 police for the search of the man's home. [@2]
-
