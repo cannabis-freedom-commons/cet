@@ -59,31 +59,29 @@ sources:
     publisher: Fakti.bg
     date: 2026-11-13
     language: bg
-open_questions:
-  - No weight was published for the marijuana found on the pupil or the herbal cannabis found in the Mladost-2 flat; an expert assessment was still pending.
-  - No charges, detention measure or court outcome were reported; the case was still under investigation.
-  - The school, the pupil and the two adult detainees were not named; the school was deliberately withheld to protect the minor.
-  - All accounts reproduce the Sofia Interior Directorate briefing by director Nikolay Peltekov and are not independent of that police statement.
-  - The same reports describe a separate previous-day Sixth District seizure of about 3.4 kg of marijuana with two other detentions, a different event left out of this report.
+  - title: Двама мъже и 15-годишен ученик са арестувани при акция срещу разпространението на наркотици покрай учебни заведения
+    url: https://utroruse.com/amp/1338428/
+    publisher: Утро Русе
+    date: 2026-11-13
+    language: bg
 ---
 
 Sofia police detained two men aged 23 and 24 and a 15-year-old pupil in an
 operation against drug distribution around schools, as announced at a briefing
-by SDVR director Nikolay Peltekov. [@1] The operation was carried out by
+by SDVR director Nikolay Peltekov. [@1,6] The operation was carried out by
 officers of the Sixth District Police Department on operational information
 about dealers selling drugs near schools. [@2]
 
 The pupil was taken from his classroom during a lesson in the presence of Child
 Pedagogical Room inspectors from the Sixth District department and the school's
-deputy director. [@1] Officers found marijuana and an electronic scale on the
+deputy director. [@1,6] Officers found marijuana and an electronic scale on the
 boy. [@3] Police did not name the school in order to protect the minor's
 identity. [@4]
 
 In parallel, police checked a flat in Sofia's Mladost-2 district occupied by the
-two detained men aged 23 and 24 and found herbal cannabis there. [@5] The exact
+two detained men aged 23 and 24 and found herbal cannabis there. [@5,6] The exact
 quantity of the seized drug has not yet been established and an expert
 assessment is still to determine it. [@4] Police said both adult detainees have
 prior criminal records for drug distribution and were in breach of suspended
-sentences. [@1] Peltekhov said the detentions had taken place only a few hours
+sentences. [@1,6] Peltekhov said the detentions had taken place only a few hours
 before the briefing and investigative actions were continuing. [@4]
-
