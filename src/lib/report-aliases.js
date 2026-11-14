@@ -136,7 +136,8 @@ export default {
     "cairo-airport-hash-oil-parcel-foreigner-detained": "cairo-airport-cannabis-oil-parcel",
     "saransk-43-garage-marijuana-200g-court": "saransk-lodygina-garage-200g-cannabis-court",
     "castellar-valles-mataro-7-arrests-3000-plants": "mataro-3000-plants-seven-arrested",
-    "baja-rosario-120-hectare-plantation-2011": "el-rosario-120-ton-plantation"
+    "baja-rosario-120-hectare-plantation-2011": "el-rosario-120-ton-plantation",
+    "niagara-project-woolwich-101049-plants-2020": "project-woolwich-niagara-raids-2020"
   },
   "codes": {
     "KQR40M": "carrickfergus-cannabis-farm-trio-sentenced-2023",
@@ -274,6 +275,7 @@ export default {
     "VHVVSM": "cairo-airport-cannabis-oil-parcel",
     "2XWGGB": "saransk-lodygina-garage-200g-cannabis-court",
     "FGN43P": "mataro-3000-plants-seven-arrested",
-    "97JBW1": "el-rosario-120-ton-plantation"
+    "97JBW1": "el-rosario-120-ton-plantation",
+    "0XF206": "project-woolwich-niagara-raids-2020"
   }
 };
