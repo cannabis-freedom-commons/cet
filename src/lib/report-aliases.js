@@ -145,7 +145,7 @@ export default {
     "bangladeshi-student-habibul-acquittal-2021": "habibul-hassan-gallows-escaped-2021",
     "maldives-velana-15kg-cannabis-two-arrested-2024": "maldives-airport-cannabis-seizure-2024",
     "abu-dhabi-lees-20g-death-sentence-2012": "abu-dhabi-briton-syrian-death-sentences-overturned-2013",
-    "kuala-lumpur-thai-businessmen-death-sentence-2008": "my-kl-masoh-romuelee-acquittal-2009",
+    "kuala-lumpur-thai-businessmen-death-sentence-2008": "my-kl-masoh-romuelee-acquittal-2009"
   },
   "codes": {
     "KQR40M": "carrickfergus-cannabis-farm-trio-sentenced-2023",
@@ -292,6 +292,6 @@ export default {
     "H4CFYY": "habibul-hassan-gallows-escaped-2021",
     "2Q5ZBA": "maldives-airport-cannabis-seizure-2024",
     "YE33CE": "abu-dhabi-briton-syrian-death-sentences-overturned-2013",
-    "G5TW4S": "my-kl-masoh-romuelee-acquittal-2009",
+    "G5TW4S": "my-kl-masoh-romuelee-acquittal-2009"
   }
 };
