@@ -47,31 +47,34 @@ sources:
     publisher: Youm7
     date: 2026-11-13
     language: ar
+  - title: ضبط عنصرين إجراميين بحوزتهما 20 كيلو بانجو وبندقية آلية في الصالحية الجديدة بالشرقية
+    url: https://www.awanmasr.com/%D8%B6%D8%A8%D8%B7-%D8%B9%D9%86%D8%B5%D8%B1%D9%8A%D9%86-%D8%A5%D8%AC%D8%B1%D8%A7%D9%85%D9%8A%D9%8A%D9%86-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85%D8%A7-20-%D9%83%D9%8A%D9%84%D9%88-%D8%A8%D8%A7%D9%86/
+    publisher: اوان مصر
+    date: 2026-11-14
+    language: ar
 open_questions:
-  - No separate date for the arrests is given; 13 November 2026 is the publication date and is used as the incident date.
-  - The 20 kilograms is reported as an approximate weight, with no laboratory confirmation reported.
-  - No charges, pleas or court outcome beyond referral to the prosecution were reported.
-  - The whole account rests on a single Youm7 report of the police operation.
+    - No separate date for the arrests is given; 13 November 2026 is the publication date and is used as the incident date.
+    - The 20 kilograms is reported as an approximate weight, with no laboratory confirmation reported.
+    - No charges, pleas or court outcome beyond referral to the prosecution were reported.
 ---
 
 Detectives of New Salhia in the Sharqia Security Directorate, in coordination
 with Public Security, arrested two men described as dangerous criminal elements
-with a large quantity of banjo cannabis, a firearm and ammunition. [@1] The two
+with a large quantity of banjo cannabis, a firearm and ammunition. [@1,2] The two
 suspects were 32 and 26 years old and lived in Manshiyat al-Dawaghra in the New
-Salhia district. [@1] They were arrested while they were near their place of
+Salhia district. [@1,2] They were arrested while they were near their place of
 residence. [@1] The arrests followed investigations indicating that the two were
 trafficking drugs, after legal procedures were completed. [@1]
 
 Officers found 10 large wraps of the banjo cannabis plant weighing about 20
-kilograms in their possession. [@1] Officers also seized an automatic rifle
+kilograms in their possession. [@1,2] Officers also seized an automatic rifle
 chambered for 7.62 x 39 ammunition with 20 rounds of the same calibre, 21,000
-Egyptian pounds in cash, two mobile phones and a 2009 Nissan private car. [@1]
+Egyptian pounds in cash, two mobile phones and a 2009 Nissan private car. [@1,2]
 When confronted, the two admitted possessing the drugs for the purpose of
 trafficking, and the seized items and car were impounded and a police report was
-filed. [@1]
+filed. [@1,2]
 
 The force was led by the head of New Salhia investigations under the supervision
 of the Sharqia criminal investigation leadership. [@1] The two men were referred
 to the New Salhia Public Prosecution to conduct investigations and take the
-necessary legal measures. [@1]
-
+necessary legal measures. [@1,2]
