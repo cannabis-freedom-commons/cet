@@ -2,11 +2,16 @@
 // reach public hosts only (port 443, and 80 for plain HTTP); Chromium makes its own connections
 // through it, so a site sees a browser's TLS, HTTP/2 and headers. No account, saved cookies or
 // provider keys load.
+//
+// Two ways to run it: `node source-browser.mjs <url> <dir>` captures one page with a browser of its
+// own; `node source-browser.mjs --serve` keeps one browser for many captures (the worker's), each in
+// a fresh context of its own (no cookies, storage or cache shared) behind that capture's proxy.
 import { chromium } from "playwright";
 import { PlaywrightBlocker, fromPlaywrightDetails } from "@ghostery/adblocker-playwright";
 import fs from "node:fs/promises";
 import { createRequire } from "node:module";
 import path from "node:path";
+import { createInterface } from "node:readline";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { saveCaptureImage } from "./archive-screenshots.mjs";
 
@@ -209,9 +214,9 @@ async function captureImages(page) {
   return found.map(({ src, caption, credit, width, height }) => ({ src, caption, credit, width, height }));
 }
 
-export async function captureSource({ url, dir, proxy, token }) {
+export async function captureSource({ url, dir, proxy, token, browser, track }) {
   const imageBuffers = new Map();
-  const result = await capturePage({ url, dir, proxy, token, imageBuffers });
+  const result = await capturePage({ url, dir, proxy, token, imageBuffers, browser, track });
   // Encode after closing Chromium and before handing the capture to consumers.
   const { evidence } = result;
   const signal = AbortSignal.timeout(8000);
@@ -226,21 +231,29 @@ export async function captureSource({ url, dir, proxy, token }) {
   return result;
 }
 
-async function capturePage({ url, dir, proxy, token, imageBuffers }) {
+const launchOptions = () => ({ channel: "chromium", headless: true, timeout: 12000, chromiumSandbox: true,
+  args: ["--proxy-bypass-list=<-loopback>", "--disable-background-networking", "--disable-quic", "--force-webrtc-ip-handling-policy=disable_non_proxied_udp"],
+  env: { PATH: process.env.PATH || "", HOME: process.env.HOME || "", TMPDIR: process.env.TMPDIR || "" },
+});
+// A shared browser's own way out leads nowhere (the discard port): only a capture's context, with
+// its proxy, reaches the network.
+const NO_PROXY = { server: "http://127.0.0.1:9" };
+
+// browser: a shared browser (serve mode), or none to launch one for this capture; track receives
+// the capture's context so the server can close it when the capture is cancelled.
+async function capturePage({ url, dir, proxy, token, imageBuffers, browser: shared, track }) {
   if (!proxy || !token || !/^http:\/\/127\.0\.0\.1:\d+$/.test(proxy)) throw new Error("Source proxy is unavailable.");
   const blocker = await loadBlocker();
-  let blocked = 0, page;
-  const browser = await chromium.launch({ channel: "chromium", headless: true, timeout: 12000, chromiumSandbox: true,
-    // everything, loopback included (<-loopback>), goes through the checking proxy, with this
-    // capture's password
-    proxy: { server: proxy, username: "capture", password: token },
-    args: ["--proxy-bypass-list=<-loopback>", "--disable-background-networking", "--disable-quic", "--force-webrtc-ip-handling-policy=disable_non_proxied_udp"],
-    env: { PATH: process.env.PATH || "", HOME: process.env.HOME || "", TMPDIR: process.env.TMPDIR || "" },
-  });
+  let blocked = 0, page, context;
+  // everything, loopback included (<-loopback>), goes through the checking proxy, with this
+  // capture's password
+  const captureProxy = { server: proxy, username: "capture", password: token };
+  const browser = shared || await chromium.launch({ ...launchOptions(), proxy: captureProxy });
   try {
     // a browser's own user agent, without the "HeadlessChrome" that headless mode announces
     const userAgent = `Mozilla/5.0 (${process.platform === "darwin" ? "Macintosh; Intel Mac OS X 10_15_7" : "X11; Linux x86_64"}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/${browser.version().split(".")[0]}.0.0.0 Safari/537.36`;
-    const context = await browser.newContext({ viewport: { width: 1440, height: 900 }, userAgent, serviceWorkers: "block", acceptDownloads: false, ignoreHTTPSErrors: false });
+    context = await browser.newContext({ viewport: { width: 1440, height: 900 }, userAgent, serviceWorkers: "block", acceptDownloads: false, ignoreHTTPSErrors: false, ...(shared ? { proxy: captureProxy } : {}) });
+    track?.(context);
     await context.routeWebSocket("**/*", socket => socket.close());
     await context.route("**/*", async route => {
       const request = route.request();
@@ -316,15 +329,78 @@ async function capturePage({ url, dir, proxy, token, imageBuffers }) {
     if (height < fullHeight) evidence.browser_warning = [screenshotError, "Screenshot height limited to 40,000 pixels."].filter(Boolean).join(" ");
     const error = status >= 400 ? `The browser page answered HTTP ${status}.` : navigationError && !extracted.text ? "Browser navigation failed." : "";
     return { evidence, error, status };
-  } finally { await browser.close(); }
+  } finally {
+    if (shared) await context?.close().catch(() => {});
+    else await browser.close();
+  }
+}
+
+function errorResult(error) {
+  const missing = /Executable doesn't exist|browserType.launch|playwright install/.test(String(error));
+  return { error: missing ? "Playwright Chromium is unavailable. Run npm run browser-install." : String(error?.message || error).split("\n")[0].slice(0, 300), unavailable: missing };
+}
+
+// Serve mode: one JSON request per line on stdin, {"id", "url", "dir", "proxy", "token"}, or
+// {"cancel": id}; one JSON answer per line on stdout, {"id", ...the one-shot result}. Captures run
+// side by side. The browser starts with the first capture, is replaced after RECYCLE captures (a
+// long-lived browser grows) and closes after IDLE without work; it ends with stdin.
+const RECYCLE = 100, IDLE = 5 * 60 * 1000, DEADLINE = 70 * 1000;
+async function serve() {
+  let browser = null, launching = null, uses = 0, active = 0, idle = null;
+  const contexts = new Map(), cancelled = new Set();
+  const answer = (message) => process.stdout.write(JSON.stringify(message) + "\n");
+  const getBrowser = async () => {
+    if (browser?.isConnected()) return browser;
+    launching ??= chromium.launch({ ...launchOptions(), proxy: NO_PROXY }).then((b) => {
+      browser = b; uses = 0;
+      b.on("disconnected", () => { if (browser === b) browser = null; });
+      return b;
+    }).finally(() => { launching = null; });
+    return launching;
+  };
+  const retire = async () => { const b = browser; browser = null; await b?.close().catch(() => {}); };
+  const capture = async ({ id, url, dir, proxy, token }) => {
+    active++;
+    clearTimeout(idle);
+    const deadline = setTimeout(() => { cancelled.add(id); contexts.get(id)?.close().catch(() => {}); }, DEADLINE);
+    try {
+      const b = await getBrowser();
+      uses++;
+      const result = await captureSource({ url, dir, proxy, token, browser: b, track: (context) => {
+        contexts.set(id, context);
+        if (cancelled.has(id)) context.close().catch(() => {});
+      } });
+      answer({ id, ...result });
+    } catch (error) {
+      answer({ id, ...(cancelled.has(id) ? { error: "The capture was stopped." } : errorResult(error)) });
+    } finally {
+      clearTimeout(deadline);
+      contexts.delete(id); cancelled.delete(id);
+      if (--active === 0) {
+        if (uses >= RECYCLE) await retire();
+        idle = setTimeout(retire, IDLE);
+      }
+    }
+  };
+  process.on("unhandledRejection", (error) => console.error("source browser:", error?.message || error));
+  const lines = createInterface({ input: process.stdin, crlfDelay: Infinity });
+  for await (const line of lines) {
+    let message;
+    try { message = JSON.parse(line); } catch { continue; }
+    if (message?.cancel) {
+      cancelled.add(message.cancel);
+      contexts.get(message.cancel)?.close().catch(() => {});
+    } else if (message?.id) capture(message);
+  }
+  clearTimeout(idle);
+  await retire();
+  process.exit(0);
 }
 
 async function main() {
+  if (process.argv[2] === "--serve") return serve();
   const [url, dir] = process.argv.slice(2);
   try { const result = await captureSource({ url, dir, proxy: process.env.SOURCE_PROXY, token: process.env.SOURCE_PROXY_TOKEN }); process.stdout.write(JSON.stringify(result)); }
-  catch (error) {
-    const missing = /Executable doesn't exist|browserType.launch|playwright install/.test(String(error));
-    process.stdout.write(JSON.stringify({ error: missing ? "Playwright Chromium is unavailable. Run npm run browser-install." : String(error.message).split("\n")[0].slice(0, 300), unavailable: missing })); process.exitCode = 1;
-  }
+  catch (error) { process.stdout.write(JSON.stringify(errorResult(error))); process.exitCode = 1; }
 }
 if (process.argv[1] && pathToFileURL(process.argv[1]).href === import.meta.url) main();

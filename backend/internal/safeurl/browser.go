@@ -58,11 +58,6 @@ func FetchRendered(parent context.Context, raw, dir, script string) (Evidence, e
 		return Evidence{}, err
 	}
 	defer closeProxy()
-	home, err := os.MkdirTemp(dir, ".browser-session-")
-	if err != nil {
-		return Evidence{}, err
-	}
-	defer os.RemoveAll(home)
 	cache := os.Getenv("PLAYWRIGHT_BROWSERS_PATH")
 	if cache == "" {
 		userHome, _ := os.UserHomeDir()
@@ -75,24 +70,15 @@ func FetchRendered(parent context.Context, raw, dir, script string) (Evidence, e
 			}
 		}
 	}
-	command := proc.Own(exec.CommandContext(ctx, "node", script, normalized, dir))
-	command.Env = []string{"PATH=" + os.Getenv("PATH"), "HOME=" + home, "TMPDIR=" + home, "PLAYWRIGHT_BROWSERS_PATH=" + cache, "SOURCE_PROXY=" + proxy, "SOURCE_PROXY_TOKEN=" + token}
-	// the ad and cookie-notice blocker's switch and engine cache (scripts/source-browser.mjs)
-	for _, key := range []string{"SOURCE_ADBLOCK", "SOURCE_BLOCKER_CACHE", "SOURCE_BLOCKER_DEBUG"} {
-		if value := os.Getenv(key); value != "" {
-			command.Env = append(command.Env, key+"="+value)
-		}
-	}
-	out := &captureBuffer{max: 10 * 1024 * 1024}
-	stderr := &captureBuffer{max: 64 * 1024}
-	command.Stdout = out
-	command.Stderr = stderr
-	runErr := command.Run()
-	if stderr.Len() > 0 {
-		_ = os.WriteFile(filepath.Join(dir, "browser-stderr.log"), stderr.Bytes(), 0600)
+	var output []byte
+	var runErr error
+	if sharedBrowserEnabled() {
+		output, runErr = captureShared(ctx, script, cache, normalized, dir, proxy, token)
+	} else {
+		output, runErr = captureOnce(ctx, script, cache, normalized, dir, proxy, token)
 	}
 	var result browserResult
-	if err = json.Unmarshal(out.Bytes(), &result); err != nil {
+	if err = json.Unmarshal(output, &result); err != nil {
 		if ctx.Err() != nil {
 			return Evidence{}, errors.New("browser source capture timed out")
 		}
@@ -119,4 +105,48 @@ func FetchRendered(parent context.Context, raw, dir, script string) (Evidence, e
 		return Evidence{}, errors.New("rendered source exceeds 2 MB")
 	}
 	return result.Evidence, nil
+}
+
+// captureShared captures in the worker's one browser (browserService).
+func captureShared(ctx context.Context, script, cache, url, dir, proxy, token string) ([]byte, error) {
+	id, reply, err := sharedBrowser.capture(script, cache, map[string]string{"url": url, "dir": dir, "proxy": proxy, "token": token})
+	if err != nil {
+		return nil, err
+	}
+	select {
+	case line, ok := <-reply:
+		if !ok {
+			return nil, errors.New("the source browser stopped during the capture")
+		}
+		var failed struct {
+			Error string `json:"error"`
+		}
+		if json.Unmarshal(line, &failed) == nil && failed.Error != "" {
+			return line, errors.New(failed.Error)
+		}
+		return line, nil
+	case <-ctx.Done():
+		sharedBrowser.cancel(id)
+		return nil, ctx.Err()
+	}
+}
+
+// captureOnce starts a browser for this capture alone (SOURCE_BROWSER_SHARED=false).
+func captureOnce(ctx context.Context, script, cache, url, dir, proxy, token string) ([]byte, error) {
+	home, err := os.MkdirTemp(dir, ".browser-session-")
+	if err != nil {
+		return nil, err
+	}
+	defer os.RemoveAll(home)
+	command := proc.Own(exec.CommandContext(ctx, "node", script, url, dir))
+	command.Env = append([]string{"PATH=" + os.Getenv("PATH"), "HOME=" + home, "TMPDIR=" + home, "PLAYWRIGHT_BROWSERS_PATH=" + cache, "SOURCE_PROXY=" + proxy, "SOURCE_PROXY_TOKEN=" + token}, blockerEnv()...)
+	out := &captureBuffer{max: 10 * 1024 * 1024}
+	stderr := &captureBuffer{max: 64 * 1024}
+	command.Stdout = out
+	command.Stderr = stderr
+	runErr := command.Run()
+	if stderr.Len() > 0 {
+		_ = os.WriteFile(filepath.Join(dir, "browser-stderr.log"), stderr.Bytes(), 0600)
+	}
+	return out.Bytes(), runErr
 }
