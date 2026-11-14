@@ -53,6 +53,11 @@ sources:
     publisher: Durniti Talash News Tv
     date: 2026-11-14
     language: bn
+  - title: ২ বিজিবির অভিযানে ২,১০,০০০ ইয়াবা ও গাঁজা জব্দ, আটক তিন
+    url: https://www.jaijaidin.news/news/366793
+    publisher: Daily Jaijaidin
+    date: 2026-11-14
+    language: bn
 ---
 
 On the night of 13 November 2026, Teknaf Battalion of Border Guard Bangladesh
@@ -60,14 +65,14 @@ set up a temporary checkpoint on Marine Drive road at Maheshkhali Para in Teknaf
 on a secret tip and signalled an auto-rickshaw to stop. [@1,3] Officers became
 suspicious of two women travelling in the auto-rickshaw and searched them and
 the goods they were carrying. [@1] Inside a plastic basket they were carrying,
-officers found 6 kg of ganja wrapped in polythene and seized it. [@1,3]
+officers found 6 kg of ganja wrapped in polythene and seized it. [@1,3,4]
 
-BGB detained the two women at the checkpoint. [@1,3] The detained women are
+BGB detained the two women at the checkpoint. [@1,3,4] The detained women are
 Chenowara Begum, 50, and Dilara Begum, 40, residents of Habilpara in Teknaf.
-[@2] BGB also seized a button mobile phone from them at the checkpoint. [@2]
+[@2,4] BGB also seized a button mobile phone from them at the checkpoint. [@2]
 
 BGB said the two women, the recovered drug and the other seized items were being
-handed over to Teknaf Model Police Station for further legal action. [@2] The
+handed over to Teknaf Model Police Station for further legal action. [@2,4] The
 same BGB battalion reported a separate operation at about 2 am on 14 November in
 the Jinna Khal area of the Naf River, in which a sack was searched and 210,000
 yaba tablets were recovered and one man was arrested, a non-cannabis component
