@@ -51,6 +51,8 @@ sources:
     url: https://timesofindia.indiatimes.com/city/ranchi/amid-chhath-rush-bokaro-grp-lens-on-smuggling-thefts-on-trains/articleshow/135800546.cms
     publisher: The Times of India
     date: 2026-11-13
+open_questions:
+  - Prabhat Khabar used a Bokaro Steel City station exterior file photo, not a picture of the GRP ganja seizures.
 ---
 
 For the Chhath festival rush, Bokaro Government Railway Police, India's state

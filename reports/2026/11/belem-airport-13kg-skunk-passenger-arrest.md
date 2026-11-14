@@ -49,6 +49,14 @@ open_questions:
   - No formal charge, detention measure or court outcome was reported; the case was at the investigation stage.
   - No separate laboratory confirmation that the substance was cannabis was reported; it was described as having the characteristics of skunk.
   - Only one accessible source for this event was found after searching in Portuguese and English.
+media:
+  - kind: photo
+    url: https://portalgurupi.com.br/passageira-presa-skunk-belem/
+    media_url: https://portalgurupi.com.br/wp-content/uploads/2026/11/o-material-apreendido-foi-recolhido-para-os-procedimentos-periciais-a-investigao-dever-apurar-a-origem-da-droga-e-o-possvel-destino-da-carga-7lju1lffq-thumbnail-3x2-1200x800-1.webp
+    publisher: Portal Gurupi
+    caption: >-
+      Gloved hands cutting open a plastic-wrapped skunk brick among luggage packages after the Belém
+      airport seizure. Photo: Portal Gurupi
 ---
 
 Federal Police arrested a female passenger in flagrante at Belém airport for

@@ -47,6 +47,7 @@ open_questions:
   - No charges, NDPS Act sections or court outcomes are given for any of the eight cases.
   - The date and case number of the bust of the Kashmir-Kolkata network are not stated.
   - The account rests on one outlet's access to NCB Srinagar's official data; no second published account of the roundup was found.
+  - Rising Kashmir led with a Samba police-station firearms collage unrelated to this NCB Srinagar charas roundup.
 ---
 
 The Narcotics Control Bureau in Srinagar arrested 22 people in eight cases

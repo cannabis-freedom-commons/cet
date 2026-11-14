@@ -72,6 +72,7 @@ open_questions:
   - The value of about three and a quarter lakh rupees, recorded as Rs 325,000, is the police's reported estimate, not an independently verified valuation.
   - A mobile phone was also seized from Kailash Kushwah alongside the ganja, and is not counted in the cannabis figures.
   - No court production or outcome beyond the two registered NDPS cases was reported; the case was still under investigation.
+  - Nai Dunia illustrated the Bhopal arrests with a composite of vacuum-packed ganja bags and a generic handcuff close-up that is not confirmed as this seizure.
 ---
 
 Gautam Nagar police in Bhopal arrested 35-year-old Kailash Kushwah near the

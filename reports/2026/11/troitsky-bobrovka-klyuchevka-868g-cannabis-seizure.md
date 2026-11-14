@@ -56,10 +56,11 @@ sources:
     date: 2026-11-13
     language: ru
 open_questions:
-    - The accounts give no separate date for the two searches; 13 November 2026 is the publication and police-announcement date used as the incident date.
-    - No street value for the seized cannabis was published.
-    - The reports name no detention measure for the two suspects.
-    - Two outlets now report the event, but both trace to the Chelyabinsk regional police service, so the account does not rest on independent reporting.
+  - The accounts give no separate date for the two searches; 13 November 2026 is the publication and police-announcement date used as the incident date.
+  - No street value for the seized cannabis was published.
+  - The reports name no detention measure for the two suspects.
+  - Two outlets now report the event, but both trace to the Chelyabinsk regional police service, so the account does not rest on independent reporting.
+  - Ural Press illustrated the Chelyabinsk seizures with a September 2025 duty-office interior file photo, not pictures of the cannabis finds.
 ---
 
 Troitsk drug-control officers found two cases of unlawful storage of banned

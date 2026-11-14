@@ -64,6 +64,14 @@ open_questions:
   - No appeal or later step in the case is reported.
   - The account rests on a single outlet's report of the verdict, with no court statement or second outlet found.
   - The defendants are identified only by initials and ages, and their nationalities are not named.
+media:
+  - kind: photo
+    url: https://www.almasryalyoum.com/news/details/5840123
+    media_url: https://mediaaws-live.almasryalyoum.com/almasryalyoum/uploads/images/2026/11/12/2107666.webp
+    publisher: Al-Masry Al-Youm
+    caption: >-
+      Judges of the Cairo Criminal Court seated for the foreign couple's sentencing hearing.
+      Photo: Al-Masry Al-Youm
 ---
 
 The Cairo Criminal Court sentenced a foreign woman to three years in prison and

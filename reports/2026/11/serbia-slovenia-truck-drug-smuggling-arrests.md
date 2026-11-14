@@ -42,6 +42,14 @@ open_questions:
   - 'Left out, as its quotation was not found in 021.rs: The suspects are suspected of the criminal offences of association for the purpose of committing criminal offences and unauthorized production and placing on the market of narcotic drugs.'
   - Left out arrested, as its quotation was not found in 021.rs.
   - Left out kg seized, as its quotation was not found in 021.rs.
+media:
+  - kind: photo
+    url: https://www.euronews.rs/srbija/aktuelno/252006/hapsenje-u-srbiji-i-sloveniji-zaplenjeno-546-kg-droge/vest
+    media_url: https://www.euronews.rs/data/images/2026-11-13/460295_1_kf.jpg
+    publisher: Euronews Srbija
+    caption: >-
+      Twelve plastic-wrapped drug bricks with Bugatti and Ford stamps labelled by evidence markers
+      in the Serbia–Slovenia truck-smuggling case presentation. Photo: Euronews Srbija
 ---
 
 Serbian Interior Ministry officers, working with the Public Prosecutor's Office

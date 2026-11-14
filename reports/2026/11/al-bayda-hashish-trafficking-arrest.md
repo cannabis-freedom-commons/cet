@@ -45,6 +45,14 @@ open_questions:
   - The report does not state where the separate hashish operation took place beyond the Jabal al Akhdar CID's area centred on Al Bayda.
   - No names, ages, charges beyond trafficking, or court outcome were reported; the case was at the referral-to-prosecution stage.
   - The whole account rests on a single accessible source after searching in Arabic and English.
+media:
+  - kind: photo
+    url: https://www.alsaaa24.com/2026/11/13/%D8%B6%D8%A8%D8%B7-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%B3%D8%B1%D9%82%D8%A9-%D8%A8%D8%A7%D9%84%D8%A8%D9%8A/
+    media_url: https://www.alsaaa24.com/wp-content/uploads/2026/11/IMG-20261113-WA0036.jpg
+    publisher: صحيفة الساعة 24
+    caption: >-
+      Three detained men facing a wall beside nine black-wrapped bricks and other exhibits laid out
+      after the Al-Bayda case. Photo: الساعة 24
 ---
 
 Officers of the Criminal Investigation Department of the Jabal al Akhdar

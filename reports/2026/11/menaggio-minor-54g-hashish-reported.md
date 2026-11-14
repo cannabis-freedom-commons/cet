@@ -56,6 +56,14 @@ open_questions:
   - The minor was not named and no age beyond minority or residence was published.
   - No arrest or detention was reported, only a report to the judicial authority, and no court outcome was reported.
   - CiaoComo used a file named generico-novembre-2026 for a Guardia di Finanza Como display, so that picture is not listed as of this Menaggio stop.
+media:
+  - kind: photo
+    url: https://www.ciaocomo.it/2026/11/13/hashish-nascosto-nei-pantaloni-minorenne-fermato-dalla-guardia-di-finanza-in-centro-lago-sequestrati-54-grammi/347906/
+    media_url: https://cdn.ciaocomo.it/photogallery_new/images/2026/11/generico-novembre-2026-260431.jpg
+    publisher: CiaoComo
+    caption: >-
+      Hashish pieces, a digital scale and packaging material on a Guardia di Finanza Como cloth after
+      the Menaggio stop. Photo: CiaoComo
 ---
 
 Guardia di Finanza officers from the Menaggio company checked a minor together

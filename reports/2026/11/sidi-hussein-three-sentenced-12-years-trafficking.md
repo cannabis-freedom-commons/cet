@@ -33,6 +33,8 @@ sources:
     url: https://www.babnet.net/rttdetail-339631.asp
     publisher: Babnet
     date: 2026-11-13
+open_questions:
+  - Babnet illustrated the sentences with a generic prison-corridor photograph, not a picture of this Sidi Hussein case.
 ---
 
 The criminal division of Tunis's first-instance court sentenced the three-member

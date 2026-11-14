@@ -54,6 +54,8 @@ sources:
     publisher: trikalaenimerosi.gr
     date: 2026-11-13
     language: el
+open_questions:
+  - Trikala News illustrated the arrest with a March 2025 DIAS motorcycle-police file photo, not a picture of this cannabis seizure.
 ---
 
 Officers of the Trikala DIAS motorcycle-police unit arrested a 46-year-old Greek

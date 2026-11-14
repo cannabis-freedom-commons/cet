@@ -53,6 +53,8 @@ sources:
     publisher: Alparslan Diyarı
     date: 2026-11-13
     language: tr
+open_questions:
+  - TRT Haber and Aksiyon illustrated the Van roundup with a nighttime K9-unit file scene, not photos of the skunk seizure or the 92 detentions.
 ---
 
 Gendarmerie narcotics teams coordinated with the Van and Ercis chief public

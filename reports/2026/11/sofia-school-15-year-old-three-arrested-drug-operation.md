@@ -64,6 +64,8 @@ sources:
     publisher: Утро Русе
     date: 2026-11-13
     language: bg
+open_questions:
+  - bTV used a generic stock photo of handcuffs and white powder, not a picture of this Sofia school operation.
 ---
 
 Sofia police detained two men aged 23 and 24 and a 15-year-old pupil in an
