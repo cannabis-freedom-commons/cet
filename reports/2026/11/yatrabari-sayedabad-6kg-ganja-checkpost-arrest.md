@@ -43,21 +43,31 @@ sources:
     publisher: VOD Bangla
     date: 2026-11-12
     language: bn
+  - title: যাত্রাবাড়ীতে ছয় কেজি গাঁজাসহ এক মাদক কারবারি গ্রেফতার | ডিএমপি নিউজ
+    url: https://dmpnews.org/%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%9B%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%97/
+    publisher: ডিএমপি নিউজ
+    date: 2026-11-12
+    language: bn
 open_questions:
-  - No age, address or court outcome was given for Mohammad Subu Mia, and the report names no value estimate for the ganja.
-  - The 6 kg figure is the account of the Yatrabari police station repeated in a DMP media-centre press notice; no separate outlet or independent count was found.
-  - The VOD Bangla page image is captioned only with the headline and is marked a collected photo, with no credit confirming it shows this seizure, so it is not listed as media.
+    - The arrested man's address and any court outcome were not given, and no value estimate for the ganja was reported.
+    - Both accounts reproduce the Jatrabari police and DMP statement, with no independent count reported.
+    - The VOD Bangla page image is captioned only with the headline and is marked a collected photo, with no credit confirming it shows this seizure, so it is not listed as media.
+media:
+  - kind: photo
+    url: https://dmpnews.org/%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%9B%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%97/
+    media_url: https://dmpnews.org/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-8.38.31-PM.jpeg
+    publisher: ডিএমপি নিউজ
+    caption: Photo published with the DMP report on the arrest of a drug dealer with six kilograms of ganja in Jatrabari.
 ---
 
 Yatrabari Police Station officers of the Dhaka Metropolitan Police, the
 capital's police force, arrested a drug dealer named Mohammad Subu Mia at a
-check post in the Yatrabari area of Dhaka. [@1] Officers said they were running
+check post in the Yatrabari area of Dhaka. [@1,2] The arrested man was reported to be 21 years old. [@2] Officers said they were running
 a check post at the entrance of the Sayedabad Janapod Mor flyover when they
-stopped him on suspicion after he tried to get off a bus and leave quickly. [@1]
+stopped him on suspicion after he tried to get off a bus and leave quickly. [@1,2] The stop happened at about 12:55 pm on Thursday, 12 November. [@2]
 The search of his shoulder bag found 6 kg of ganja, the local term for dried
-cannabis, which officers recovered. [@1]
+cannabis, which officers recovered. [@1,2]
 
-Police said a regular case against the arrested man was under way. [@1] The
+Police said a regular case against the arrested man was under way. [@1,2] The
 Dhaka Metropolitan Police media centre told the media of the arrest in a press
 notice issued on 12 November 2026. [@1]
-
