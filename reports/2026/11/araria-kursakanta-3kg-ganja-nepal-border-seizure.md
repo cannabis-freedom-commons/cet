@@ -59,28 +59,27 @@ sources:
     publisher: Vocal TV
     date: 2026-11-14
     language: hi
-open_questions:
-    - 'Three accounts give slightly different weights: Prabhat Khabar reports 3 kg 60 g, Dainik Bhaskar reports 3 kg 50 g and Vocal TV reports three kilograms; this report uses 3.06 kg from the first account.'
-    - 'The accounts date the action differently: Prabhat Khabar says Thursday morning, which before its 13 November publication is 12 November, Dainik Bhaskar dates it 13 November 2026 and Vocal TV says Saturday, the day of its 14 November publication; 12 November is used as the incident date.'
-    - No one was arrested or named; the carrier escaped into Nepal and the FIR is against an unidentified man, with identification and further action pending.
-    - No street value, case number, statutory sections or court outcome was reported.
-    - All three accounts rest on police and SSB briefings, with no statement from the fleeing man.
+  - title: एसएसबी और कुआड़ी पुलिस की टीम ने तीन किलो गांजा किया बरामद
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/14/Ganza-seized-by-ssb-and-kuadi-police-joint-operati.php
+    publisher: Hindusthan Samachar
+    date: 2026-11-14
+    language: hi
 ---
 
 Kuari police and SSB troops of the 52nd Battalion's Megha border outpost were
 conducting a joint operation on Thursday morning in Kursakanta block of Araria
-near the India-Nepal border. [@1] The joint team of the Megha outer border post and Kuadi police was patrolling the Bakra river area under the direction of 52nd Battalion Commandant Mitul Kumar. [@3] Near border pillar number 165/6 in the Asraha
+near the India-Nepal border. [@1] The joint team of the Megha outer border post and Kuadi police was patrolling the Bakra river area under the direction of 52nd Battalion Commandant Mitul Kumar. [@3,4] Near border pillar number 165/6 in the Asraha
 area, the troops saw a young man coming from the Nepal side carrying a bag. [@1]
 When the personnel signalled him to stop, he dropped the bag and ran toward
-Nepal, and he was not caught. [@1,3]
+Nepal, and he was not caught. [@1,3,4]
 
 A search of the abandoned bag found three plastic packets holding a total of 3
 kg 60 g of ganja, which the police seized. [@1] Kuari station house officer
 Vikas Kumar said a first information report was registered against the
-unidentified man on the basis of his own written statement. [@1] Kuadi station house officer Vikas Kumar said the seized ganja was brought to the station for legal action and efforts were under way to identify the absconding smuggler and his network. [@3]
+unidentified man on the basis of his own written statement. [@1] Kuadi station house officer Vikas Kumar said the seized ganja was brought to the station for legal action and efforts were under way to identify the absconding smuggler and his network. [@3,4]
 
 A second account says a joint SSB and Kuari police patrol seized 3 kg 50 g of
 ganja on patrol along the India-Nepal border. [@2] That account says the suspect
 dropped the sack on Indian territory on seeing the team and fled to Nepal. [@2,3]
-A search of the sack found three packets. [@2,3] A drug detection kit test confirmed the seized material was ganja. [@3] The seized ganja was handed to
+A search of the sack found three packets. [@2,3,4] A drug detection kit test confirmed the seized material was ganja. [@3,4] The seized ganja was handed to
 Kuari police. [@2]
