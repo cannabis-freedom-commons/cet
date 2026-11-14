@@ -4,7 +4,7 @@ import (
 	"crypto/sha256"
 	"encoding/hex"
 	"fmt"
-	"os"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/reportfs"
 	"path/filepath"
 	"strings"
 
@@ -16,26 +16,21 @@ import (
 // labels in it, and a digest of the file.
 func LoadReports(repo string) ([]ReportIndex, error) {
 	out := []ReportIndex{}
-	err := filepath.WalkDir(filepath.Join(repo, "reports"), func(path string, d os.DirEntry, err error) error {
+	err := reportfs.Walk(repo, func(path string, read func() ([]byte, error)) error {
+		b, err := read()
 		if err != nil {
 			return err
 		}
-		if d.IsDir() || !strings.HasSuffix(path, ".md") {
-			return nil
-		}
-		b, err := os.ReadFile(path)
-		if err != nil {
-			return err
-		}
+		full := filepath.Join(repo, filepath.FromSlash(path)) // the file named in errors
 		parts := frontmatter.Split(string(b))
 		if len(parts) != 3 {
-			return fmt.Errorf("%s: invalid report front matter", path)
+			return fmt.Errorf("%s: invalid report front matter", full)
 		}
 		var r ReportIndex
 		if err = yaml.Unmarshal([]byte(parts[1]), &r); err != nil {
-			return fmt.Errorf("%s: invalid report front matter: %w", path, err)
+			return fmt.Errorf("%s: invalid report front matter: %w", full, err)
 		}
-		r.Slug = strings.TrimSuffix(d.Name(), ".md")
+		r.Slug = strings.TrimSuffix(filepath.Base(path), ".md")
 		r.Body = parts[2]
 		r.Names = IndexNames(r.Title + " " + r.Summary + " " + r.Body)
 		r.CaseIDs = IndexCaseIDs(r.Title + " " + r.Summary + " " + r.Body)

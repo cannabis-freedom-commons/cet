@@ -3,8 +3,9 @@ package research
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/reportfs"
 	"math"
-	"os"
+	"path"
 	"path/filepath"
 	"sort"
 	"strings"
@@ -81,10 +82,8 @@ func (l *reportLookup) load() error {
 	l.once.Do(func() {
 		l.reports, l.err = LoadReports(l.dir)
 		l.paths = map[string]string{}
-		_ = filepath.WalkDir(filepath.Join(l.dir, "reports"), func(path string, d os.DirEntry, err error) error {
-			if err == nil && !d.IsDir() && strings.HasSuffix(path, ".md") {
-				l.paths[strings.TrimSuffix(d.Name(), ".md")] = path
-			}
+		_ = reportfs.Walk(l.dir, func(rel string, _ func() ([]byte, error)) error {
+			l.paths[strings.TrimSuffix(path.Base(rel), ".md")] = rel
 			return nil
 		})
 	})
@@ -102,11 +101,11 @@ func (l *reportLookup) get(raw json.RawMessage) string {
 		return "The reports could not be read: " + err.Error()
 	}
 	slug := strings.TrimSuffix(strings.TrimPrefix(filepath.Base(strings.TrimSpace(args.Slug)), "existing-reports/"), ".md")
-	path, ok := l.paths[slug]
+	rel, ok := l.paths[slug]
 	if !ok {
 		return fmt.Sprintf("No report has the slug %q. Find it with find_reports.", slug)
 	}
-	b, err := os.ReadFile(path)
+	b, err := reportfs.Read(l.dir, rel)
 	if err != nil {
 		return "The report could not be read."
 	}

@@ -5,8 +5,7 @@ import (
 	"fmt"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/reportcode"
-	"os"
-	"path/filepath"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/reportfs"
 	"regexp"
 	"sort"
 	"strconv"
@@ -114,21 +113,9 @@ func (r Result) Primary() ReportUpdate {
 	return ReportUpdate{Report: r.ExistingReport, Facts: r.Facts, Uncertainties: r.Uncertainties, OpenQuestions: r.OpenQuestions}
 }
 
+// findReport is the relative path (reports/…) of the report named name in dir, or "".
 func findReport(dir, name string) (string, error) {
-	var found string
-	err := filepath.WalkDir(filepath.Join(dir, "reports"), func(path string, entry os.DirEntry, err error) error {
-		if err != nil {
-			return err
-		}
-		if !entry.IsDir() && entry.Name() == name+".md" {
-			if found != "" {
-				return errors.New("ambiguous existing slug")
-			}
-			found = path
-		}
-		return nil
-	})
-	return found, err
+	return reportfs.Find(dir, name)
 }
 
 // mapping is the value under key in a YAML mapping node, or nil.
@@ -218,12 +205,8 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 	if path == "" {
 		return Draft{}, fmt.Errorf("report to update not found: %s", u.Report)
 	}
-	rel, err := filepath.Rel(dir, path)
-	if err != nil {
-		return Draft{}, err
-	}
-	d := Draft{Path: filepath.ToSlash(rel), PreviousPath: filepath.ToSlash(rel), Slug: u.Report}
-	b, err := os.ReadFile(path)
+	d := Draft{Path: path, PreviousPath: path, Slug: u.Report}
+	b, err := reportfs.Read(dir, path)
 	if err != nil {
 		return d, err
 	}
@@ -432,7 +415,7 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 		return d, ErrUnchanged
 	}
 	if mapping(header, "added_at") == nil {
-		if at := firstReportAddition(dir, filepath.ToSlash(rel)); at != "" {
+		if at := firstReportAddition(dir, path); at != "" {
 			sets = append(sets, [2]string{"added_at", at}, [2]string{"added_at_source", "git"})
 		}
 	}

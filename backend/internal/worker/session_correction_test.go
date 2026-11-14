@@ -205,7 +205,13 @@ func TestInterruptedRunResumesSessionAndUsesCheckTool(t *testing.T) {
 		t.Fatal("the interrupted run did not fail")
 	}
 	root, _ := filepath.Abs(w.Config.Workspaces)
-	entries, _ := os.ReadDir(root)
+	all, _ := os.ReadDir(root)
+	var entries []os.DirEntry // the job folders, not the shared report packs beside them
+	for _, e := range all {
+		if workspaceName.MatchString(e.Name()) {
+			entries = append(entries, e)
+		}
+	}
 	if len(entries) != 1 || !research.HasSession(filepath.Join(root, entries[0].Name())) {
 		t.Fatal("interrupted session was not kept", len(entries))
 	}

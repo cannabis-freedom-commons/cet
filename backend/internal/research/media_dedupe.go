@@ -6,6 +6,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/reportfs"
 	"image"
 	_ "image/gif"
 	_ "image/jpeg"
@@ -13,7 +14,6 @@ import (
 	"io"
 	"math/bits"
 	"net/http"
-	"os"
 	"time"
 
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/safeurl"
@@ -155,7 +155,7 @@ func ReportMedia(dir, slug string) []string {
 	if err != nil || path == "" {
 		return nil
 	}
-	b, err := os.ReadFile(path)
+	b, err := reportfs.Read(dir, path)
 	if err != nil {
 		return nil
 	}

@@ -3,6 +3,7 @@ package research
 
 import (
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/reportfs"
 	"unicode"
 
 	"bufio"
@@ -1710,19 +1711,7 @@ func prepareReport(dir string, r Result) (Draft, error) {
 	}
 	rel := filepath.ToSlash(filepath.Join("reports", r.Date[:4], r.Date[5:7], r.Slug+".md"))
 	d := Draft{Path: rel, Content: r.Markdown()}
-	var existing string
-	err := filepath.WalkDir(filepath.Join(dir, "reports"), func(path string, entry os.DirEntry, err error) error {
-		if err != nil {
-			return err
-		}
-		if !entry.IsDir() && entry.Name() == r.Slug+".md" {
-			if existing != "" {
-				return errors.New("ambiguous existing slug")
-			}
-			existing = path
-		}
-		return nil
-	})
+	existing, err := reportfs.Find(dir, r.Slug)
 	if err != nil {
 		return d, err
 	}
@@ -1813,7 +1802,7 @@ func ValidateBuild(ctx context.Context, dir string, r Result) (Draft, error) {
 		return d, err
 	}
 	if d.PreviousPath != "" && d.PreviousPath != d.Path {
-		if err = os.Remove(filepath.Join(dir, d.PreviousPath)); err != nil {
+		if err = reportfs.Remove(dir, d.PreviousPath); err != nil {
 			return d, err
 		}
 	}

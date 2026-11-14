@@ -4,7 +4,9 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"os"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/reportfs"
+	"io/fs"
+	"path"
 	"path/filepath"
 	"strings"
 
@@ -20,30 +22,21 @@ func validateMergeFact(f Fact, i int) error {
 
 func existingReportFiles(dir string) (map[string][]byte, error) {
 	files := map[string][]byte{}
-	err := filepath.WalkDir(filepath.Join(dir, "reports"), func(path string, entry os.DirEntry, err error) error {
-		if os.IsNotExist(err) {
-			return nil
-		}
+	err := reportfs.Walk(dir, func(rel string, read func() ([]byte, error)) error {
+		b, err := read()
 		if err != nil {
 			return err
 		}
-		if entry.IsDir() || !strings.HasSuffix(entry.Name(), ".md") {
-			return nil
-		}
-		if entry.Type()&os.ModeSymlink != 0 {
-			return errors.New("report snapshot must contain regular files")
-		}
-		b, err := os.ReadFile(path)
-		if err != nil {
-			return err
-		}
-		name := "existing-reports/" + entry.Name()
+		name := "existing-reports/" + path.Base(rel)
 		if _, exists := files[name]; exists {
 			return errors.New("ambiguous report slug in research snapshot")
 		}
 		files[name] = b
 		return nil
 	})
+	if errors.Is(err, fs.ErrNotExist) {
+		return files, nil
+	}
 	return files, err
 }
 

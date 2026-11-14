@@ -6,11 +6,10 @@ import (
 	"encoding/binary"
 	"errors"
 	"fmt"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/reportfs"
 	"io/fs"
-	"os"
 	"path/filepath"
 	"regexp"
-	"strings"
 
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
 	"gopkg.in/yaml.v3"
@@ -73,22 +72,11 @@ func Index(dir string, exclude ...string) (map[string]string, error) {
 		skipped[filepath.ToSlash(path)] = true
 	}
 	used := map[string]string{}
-	err := filepath.WalkDir(filepath.Join(dir, "reports"), func(path string, entry fs.DirEntry, err error) error {
-		if os.IsNotExist(err) && path == filepath.Join(dir, "reports") {
+	err := reportfs.Walk(dir, func(rel string, read func() ([]byte, error)) error {
+		if skipped[rel] {
 			return nil
 		}
-		if err != nil {
-			return err
-		}
-		rel, err := filepath.Rel(dir, path)
-		if err != nil {
-			return err
-		}
-		rel = filepath.ToSlash(rel)
-		if entry.IsDir() || !strings.HasSuffix(path, ".md") || skipped[rel] {
-			return nil
-		}
-		b, err := os.ReadFile(path)
+		b, err := read()
 		if err != nil {
 			return err
 		}
@@ -104,6 +92,9 @@ func Index(dir string, exclude ...string) (map[string]string, error) {
 		}
 		return nil
 	})
+	if errors.Is(err, fs.ErrNotExist) {
+		return used, nil
+	}
 	return used, err
 }
 

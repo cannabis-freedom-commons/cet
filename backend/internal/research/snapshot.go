@@ -5,6 +5,7 @@ import (
 	"context"
 	"errors"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/reportfs"
 	"os"
 	"os/exec"
 	"path/filepath"
@@ -12,9 +13,12 @@ import (
 )
 
 // Development edits to the renderer, schema, editorial rules and reports must be
-// validated too. Overlay only site inputs, never service state or credentials.
+// validated too. Overlay only site inputs, never service state or credentials. The reports go
+// into one pack file (reportfs) shared by the workspaces of the same report versions, kept in
+// .report-packs beside the workspace: a job reads some ten thousand reports, and as files they
+// cost every parallel job that many inodes. Media (public/, src/assets/) no job reads stays out.
 func snapshotSite(ctx context.Context, repo, dir string) error {
-	allowed := []string{"src", "public", "scripts", "docs", "reports", ".claude/skills", ".opencode/agents", "package.json", "package-lock.json", "astro.config.mjs", "tsconfig.json"}
+	allowed := []string{"src", "scripts", "docs", "reports", ".claude/skills", ".opencode/agents", "package.json", "package-lock.json", "astro.config.mjs", "tsconfig.json"}
 	cmd := proc.Own(exec.CommandContext(ctx, "git", append([]string{"ls-files", "-z", "--cached", "--others", "--exclude-standard", "--"}, allowed...)...))
 	cmd.Dir = repo
 	files, err := cmd.Output()
@@ -27,6 +31,7 @@ func snapshotSite(ctx context.Context, repo, dir string) error {
 		}
 	}
 	seen := map[string]bool{}
+	var packed []string
 	for _, name := range bytes.Split(files, []byte{0}) {
 		path := string(name)
 		if path == "" || seen[path] {
@@ -35,6 +40,9 @@ func snapshotSite(ctx context.Context, repo, dir string) error {
 		seen[path] = true
 		if filepath.IsAbs(path) || strings.HasPrefix(filepath.Clean(path), "..") {
 			return errors.New("invalid site snapshot path")
+		}
+		if strings.HasPrefix(path, "src/assets/") {
+			continue
 		}
 		source := filepath.Join(repo, path)
 		info, e := os.Lstat(source)
@@ -57,6 +65,12 @@ func snapshotSite(ctx context.Context, repo, dir string) error {
 				return errors.New("site snapshot directory is a symlink")
 			}
 		}
+		if strings.HasPrefix(path, "reports/") {
+			if strings.HasSuffix(path, ".md") {
+				packed = append(packed, filepath.ToSlash(path))
+			}
+			continue
+		}
 		target := filepath.Join(dir, path)
 		if e = os.MkdirAll(filepath.Dir(target), 0755); e != nil {
 			return e
@@ -65,7 +79,7 @@ func snapshotSite(ctx context.Context, repo, dir string) error {
 			return e
 		}
 	}
-	return nil
+	return reportfs.Link(repo, packed, filepath.Join(filepath.Dir(dir), ".report-packs"), dir)
 }
 
 // copyFile copies one regular file: a copy-on-write clone where the file system has them (APFS),
