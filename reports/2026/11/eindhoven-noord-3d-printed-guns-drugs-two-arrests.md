@@ -66,22 +66,27 @@ sources:
     publisher: Drimble
     date: 2026-11-13
     language: nl
+  - title: 'Politie ontdekt werkplaats voor 3D-geprinte wapens in Eindhoven: twee zestigers aangehouden | Regio | ED.nl'
+    url: https://www.ed.nl/eindhoven/politie-ontdekt-werkplaats-voor-3d-geprinte-wapens-in-eindhoven-twee-zestigers-aangehouden~ada73947/
+    publisher: Eindhovens Dagblad
+    date: 2026-11-12
+    language: nl
 ---
 
 Police raided a home in Eindhoven-Noord on Monday 9 November after an extensive
-investigation by the criminal investigation department. [@1,3] The home was on Van Thienenlaan in Eindhoven. [@4] Two suspects were
-arrested. [@1,3,5] The announcement came three days after the raid, on Thursday 12
+investigation by the criminal investigation department. [@1,3] The home was on Van Thienenlaan in Eindhoven. [@4,6] Two suspects were
+arrested. [@1,3,5,6] The announcement came three days after the raid, on Thursday 12
 November. [@1] The force did not release the suspects' identities or the precise
 location of the home. [@1]
 
 During the search officers found several 3D-printed firearms and objects that
-resemble firearms, along with two 3D printers. [@1,5] Officers found five firearms, six boksbeugels and two 3D printers in the home. [@3] Drugs were also found, but
-police did not say which kind or how much. [@1,3,5] The weapons, objects and
+resemble firearms, along with two 3D printers. [@1,5] Officers found five firearms, six boksbeugels and two 3D printers in the home. [@3,6] Drugs were also found, but
+police did not say which kind or how much. [@1,3,5] The drugs found were hemp, amphetamine and small quantities of cocaine and XTC. [@6] The weapons, objects and
 printers were seized for further investigation. [@1]
 
 3D printers can make parts that strongly resemble real firearms, and police said
 working firearms could in some cases even be manufactured with them. [@1] Police
 said some of the weapons found only looked like real firearms, while others
 could actually fire. [@2] Police are still investigating exactly what was found
-and whether the weapons can fire. [@2] Police gave no further information about
-the two suspects. [@2]
+and whether the weapons can fire. [@2] The five firearms found could not fire in the state in which they were found, and it was unclear whether modifications could make them work. [@6] Police gave no further information about
+the two suspects. [@2] The two arrested men, aged 64 and 66, were no longer in custody, and police had not said whether they were still considered suspects. [@6]
