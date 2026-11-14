@@ -73,23 +73,23 @@ sources:
     publisher: صباح أكادير
     date: 2026-11-12
     language: ar
-open_questions:
-    - No figure for the hashish the drone carried was published.
-    - The identity of the prison was not disclosed.
-    - How many people were arrested and whether they faced charges was not stated.
-    - No separate date for the drone operation itself was given; 12 November is the date of Tamek's parliamentary disclosure. The FY 2027 budget frame comes from a later account and does not contradict the report.
+  - title: مخدرات تحلق في السماء.. إحباط محاولة تهريب الحشيش إلى السجن باستعمال «درون» - أريفينو.نت
+    url: https://www.ariffino.net/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D9%88-%D9%85%D8%AC%D8%AA%D9%85%D8%B9/%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AD%D9%84%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%A1-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%87%D8%B1
+    publisher: أريفينو.نت
+    date: 2026-11-14
+    language: ar
 ---
 
 Mohamed Saleh Tamek, the general delegate for prison administration and
 reintegration, disclosed a foiled attempt to bring drugs into one of Morocco's
 prisons. [@1,6,7] He spoke during a debate on his department's budget before the
-House of Representatives' justice committee on Wednesday. [@1] The prisoner the
+House of Representatives' justice committee on Wednesday. [@1,8] The prisoner the
 delivery was meant for, the drone and all the people behind the attempt were
-caught, Tamek said. [@2,7] He credited the vigilance of prison staff. [@2,6]
+caught, Tamek said. [@2,7] He credited the vigilance of prison staff. [@2,6,8]
 
 The drone was small and shaped like a small bird, he said. [@3] It reached the
 bars of a cell window carrying hashish. [@4] The competent services then
-intercepted the attempt and seized the drone. [@1,6] The operation also resulted in the seizure of the drugs, Tamek said. [@6] The intervention prevented
+intercepted the attempt and seized the drone. [@1,6,8] The operation also resulted in the seizure of the drugs, Tamek said. [@6] The intervention prevented
 the attempt from succeeding, Tamek said. [@1] The security intervention also
 caught the targeted prisoner and the people who planned and carried out the
 operation. [@3]
