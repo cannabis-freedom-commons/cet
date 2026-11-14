@@ -61,6 +61,11 @@ sources:
     publisher: Nation Mirror
     date: 2026-11-14
     language: hi
+  - title: भोपाल में गांजा तस्करी का बड़ा खुलासा, 8.26 किलो गांजे के साथ तीन गिरफ्तार
+    url: https://ghamasan.com/india/major-cannabis-smuggling-racket-busted-in-bhopal-three-arrested-with-8-26-kg-of-cannabis-690415
+    publisher: Ghamasan News
+    date: 2026-11-14
+    language: hi
 open_questions:
   - The article says the first arrest happened on a Thursday without a calendar date; 12 November 2026, the Thursday before the 14 November publication, is used as the incident date.
   - The two detailed recoveries of 4.104 kg and 4.165 kg add to 8.269 kg, while all outlets report the total as 8.26 kg; the reported total is recorded.
@@ -70,22 +75,21 @@ open_questions:
 ---
 
 Gautam Nagar police in Bhopal arrested 35-year-old Kailash Kushwah near the
-railway cabin at Atal Ayub Nagar while he was standing with a backpack. [@1] A
+railway cabin at Atal Ayub Nagar while he was standing with a backpack. [@1,4] A
 search of his bag found 4.104 kg of ganja, and police also recovered a mobile
-phone from his pocket. [@1] He told police during questioning that he had
+phone from his pocket. [@1,4] He told police during questioning that he had
 brought the ganja from Odisha and was caught soon after getting off a train.
-[@1]
+[@1,4]
 
 Based on his questioning, police arrested Pooja Rathore (28) and Sapna Vanshkar
-(26) near Nariyalkheda. [@1] The two women were found carrying 4.165 kg of
-ganja. [@1] Police seized a total of 8.26 kg of ganja from the three, valued at
-about three and a quarter lakh rupees. [@1] Police registered two separate cases
-under the NDPS Act in the matter. [@2] Pooja lives in a rented house in
+(26) near Nariyalkheda. [@1,4] The two women were found carrying 4.165 kg of
+ganja. [@1,4] Police seized a total of 8.26 kg of ganja from the three, valued at
+about three and a quarter lakh rupees. [@1,4] Police registered two separate cases
+under the NDPS Act in the matter. [@2,4] Pooja lives in a rented house in
 Mandideep in Raisen district, while Sapna is a resident of the Kotwali
-police-station area in Raisen. [@1] Police said both women had taken the ganja
-from Kailash. [@1]
+police-station area in Raisen. [@1,4] Police said both women had taken the ganja
+from Kailash. [@1,4]
 
 In the same case, police registered two separate proceedings under the NDPS Act.
 [@3] Police are investigating who in the city the consignment was meant for and
-who else is part of the network. [@1]
-
+who else is part of the network. [@1,4]
