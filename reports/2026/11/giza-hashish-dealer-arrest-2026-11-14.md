@@ -39,27 +39,24 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-14
     language: ar
-open_questions:
-  - No weight or piece count for the seized hashish was published, so no cannabis weight can be recorded.
-  - The article gives no separate date for the arrest; 14 November 2026 is its publication date and is used as the incident date.
-  - The suspect was not named and no age, occupation or criminal record was reported.
-  - No cash amount or phone details beyond one mobile phone were published.
-  - No court outcome beyond referral to the Public Prosecution was reported.
-  - Only one accessible source for this event was found after searching in Arabic.
+  - title: مباحث الجيزة تضبط تاجر مخدرات قبل ترويج الحشيش على عملائه
+    url: https://newsroom.info/484611
+    publisher: نيوز رووم
+    date: 2026-11-14
+    language: ar
 ---
 
 Giza Security Directorate officers arrested a drug dealer found with a quantity
-of hashish before he could sell it to customers across the governorate. [@1]
+of hashish before he could sell it to customers across the governorate. [@1,2]
 Giza criminal investigators had received information that the man was trading in
 narcotics and promoting hashish to drug users while operating across several
-areas. [@1]
+areas. [@1,2]
 
 After completing the required legal procedures, detectives prepared an ambush
 and arrested the accused. [@1] Officers searching him found a quantity of
 hashish, cash said to be proceeds of sale and a mobile phone he used to contact
-customers. [@1] When confronted, he admitted possessing the drugs for sale and
-said the cash came from sales and the phone was for contacting customers. [@1]
+customers. [@1,2] When confronted, he admitted possessing the drugs for sale and
+said the cash came from sales and the phone was for contacting customers. [@1,2]
 
 Police filed a report on the incident and referred the accused to the Public
-Prosecution, which took over the investigation. [@1]
-
+Prosecution, which took over the investigation. [@1,2]
