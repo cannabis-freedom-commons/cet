@@ -2,16 +2,15 @@
 added_at_source: git
 added_at: "2026-10-30T16:07:25.000Z"
 code: ZAFK8A
-date: 2026-10-30
+date: 2026-11-14
 country: in
 place: Kullu, Himachal Pradesh
 coordinates: [31.9578974, 77.1089232]
 precision: district
 type: arrest
 also: [seizure]
-title: Fugitive held in Kullu over 420 g cannabis seized at Athani
-summary: >-
-  Nedumbassery police arrested Ragesh, 32, in Kullu, Himachal Pradesh, after he spent two years on the run as a tourist guide. He is accused of financing a June 2024 car seizure at Athani that included 420 grams of cannabis, along with MDMA.
+title: Lijo Joy held as mastermind in Athani 420 g cannabis case
+summary: Nedumbassery police arrested 39-year-old Lijo Joy, the alleged mastermind of the June 2024 Athani drug case, after nearly two years on the run. Police say he coordinated distribution and routed money through co-accused Ragesh alias Jumanji, and a court remanded him to judicial custody.
 figures:
   arrested: 1
   kg_seized: 0.42
@@ -85,29 +84,26 @@ sources:
     publisher: News@Net
     date: 2026-10-31
     language: ml
+  - title: ‘ഡ്രോപ്പിങ്ങും’ സാമ്പത്തിക ഇടപാടുകളും ജുമാഞ്ചി വഴി; വൻ ലഹരിക്കേസിലെ ബുദ്ധി കേന്ദ്രം ഡാൻസർ ലിജോ പിടിയിൽ
+    url: https://www.manoramaonline.com/news/latest-news/2026/11/14/kochi-drug-bust-mastermind-dancer-lijo-joy-arrested-in-nedumbassery-narcotics-case.amp.html
+    publisher: Manorama Online
+    date: 2026-11-14
+    language: ml
+  - title: Kerala Police Nab Alleged Drug Kingpin Lijo Joy
+    url: https://www.rediff.com/news/report/drug-racket-mastermind-arrested-in-kerala-after-two-years/20261114.htm
+    publisher: Rediff
+    date: 2026-11-14
 open_questions:
-  - Neither account gives the calendar date of the Kullu arrest; 30 October 2026 is the publication date of both.
-  - Asianet News alone reported two LSD stamps, the date 27 June 2024, the unnamed resort, the tourist disguise, the junior officers and seizure of the car. The Hindu described the MDMA and ganja as suspected and did not mention LSD.
-  - The arrest figure counts only Ragesh. Azad and Harikrishnan were arrested earlier in the same case and are not included.
-  - No court name, charge or sentence was reported; he was remanded.
-  - The cited pages show a portrait and a representational image, not the arrest or the seizure, so no photo is included.
-  - The resort 20 kilometres above the base camp is not named, so the coordinates are for Kullu town, the district centre.
-  - 'The note that Asianet News alone carried the LSD stamps, the 27 June 2024 date, the resort, the tourist disguise, the junior officers and the car seizure is now out of date: this Marunadan Malayalee account carries them too.'
-  - The article gives no calendar date for the Kullu arrest; 30 October 2026 is its publication date.
-  - The resort is not named, only described as about 20 kilometres above the base camp in Kullu.
-  - The article does not say what happened to Azad and Harikrishnan after their 2024 arrest.
-  - 'Left out, as its quotation was not found in Marunadan Malayalee: With Sudarshan were deputy superintendent Baiju Paulose, circle inspector B.K. Arun, sub-inspectors Arun Raj and Rony Augustine, assistant sub-inspector M.V. Binu and civil police officer Sajaz.'
-  - The page gives no separate date for the arrest; 30 October 2026 is its publication date and the date used for the report.
-  - The Malayalam text is almost identical to the police account carried by Asianet News and Marunadan Malayalee, so it does not independently confirm the details.
-  - The page does not name the resort in Kullu where the accused was staying.
-  - 'Left out, as its quotation was not found in Metro Vaartha: With Sudarshan were deputy superintendent Baiju Paulose, circle inspector B.K. Arun, sub-inspectors Arun Raj and Rony Augustine, assistant sub-inspector M.V. Binu and civil police officer Sajaz.'
-  - This account describes Ragesh as hiding for years and gives no count of LSD stamps, while the report records two years on the run and two LSD stamps; the report keeps its earlier, more specific details.
-  - Mathrubhumi's account closely matches the Asianet News report, so the two may share a common source rather than being independent.
-  - This account, published on 31 October 2026, still gives no calendar date for the Kullu arrest.
-  - Unlike The Hindu and several Malayalam accounts already cited, this article does not say Ragesh was produced in court or remanded.
-  - 'Left out, as its quotation was not found in Samakalika Malayalam: He had allegedly provided financial assistance to buy the narcotics, fled to Kullu on learning of the earlier arrests, and had been working as a tourist guide there.'
-  - 'Left out, as its quotation was not found in Samakalika Malayalam: On 27 June 2024, police seized 316 grams of MDMA, two LSD stamps and 420 grams of cannabis from a car at Athani that was carrying the drugs from Bengaluru.'
-  - This account states as fact that Ragesh provided the money for the drugs; the report keeps 'allegedly' because the claim comes from the police account.
+    - No calendar date was published for the Kullu arrest; 30 October 2026 is the publication date used as the incident date.
+    - The Kullu resort where Ragesh stayed was described only as about 20 kilometres above the base camp and was not named.
+    - Accounts differ on whether the MDMA and cannabis were suspected or confirmed, and not all mention the two LSD stamps.
+    - The arrest tally counts only Ragesh; Azad and Harikrishnan were arrested earlier in the same case and are not included.
+    - No court name, charge or sentence was reported for Ragesh beyond remand in judicial custody.
+    - What happened to Azad and Harikrishnan after their 2024 arrests was not reported.
+    - No separate calendar date or place was published for Lijo Joy's arrest; 14 November 2026 is the publication date used.
+    - No separate cannabis weight was reported for Lijo Joy beyond the shared June 2024 Athani seizure.
+    - No court name, charge or plea was reported for Lijo Joy beyond remand in judicial custody.
+    - Whether Ragesh financed the drugs and whether Lijo Joy masterminded distribution rest on police accounts, with no trial outcome reported.
 ---
 
 Nedumbassery police arrested Ragesh, also known as Jumanchi, the main accused in a drug case, a
@@ -117,7 +113,7 @@ the drugs, fled to Kullu on learning of the earlier arrests, and was working the
 [@2,4,7,8,10], staying at a resort 20 kilometres above the base camp. [@1,3,4,5,7,8,10,11]
 
 On 27 June 2024 police seized 316 grams of MDMA, two LSD stamps and 420 grams of cannabis from a car at
-Athani that was carrying the drugs from Bengaluru [@1,3,4,5,6,7,8,10,11]; The Hindu described the MDMA
+Athani that was carrying the drugs from Bengaluru [@1,3,4,5,6,7,8,10,11,12]; The Hindu described the MDMA
 and ganja as suspected. [@2] Azad, 38, of Chalakkal, Aluva, and Harikrishnan, 28, of Tirurangadi,
 Malappuram, were arrested then [@1,3,4,5,6,7,8,9,10,11], and the car was taken into custody.
 [@1,3,5,6,8,11]
@@ -126,4 +122,4 @@ A team led by Ernakulam Rural district police chief K.S. Sudarshan tracked Rages
 stayed for several days disguised as tourists before taking him into custody. [@1,3,4,5,7,8,9,10,11] With
 Sudarshan were deputy superintendent Baiju Paulose, circle inspector B.K. Arun, sub-inspectors Arun Raj
 and Rony Augustine, assistant sub-inspector M.V. Binu and civil police officer Sajaz. [@1,10] Ragesh was
-produced before a court and remanded in judicial custody. [@2,3,4,5,7,10]
+produced before a court and remanded in judicial custody. [@2,3,4,5,7,10] Lijo was produced before a court and remanded to judicial custody. [@13] People making drug drops would share the locations with Jumanji, who would then forward the details to Lijo, police said. [@13] To avoid suspicion, he allegedly routed financial transactions through Ragesh, known as Jumanji. [@13] According to police, Lijo was the alleged mastermind who coordinated the distribution of drugs to various locations. [@13] Nedumbassery police arrested 39-year-old Lijo Joy, described as a dancer and resident of Zion Nagar, Kodikuthumala, Aluva, after nearly two years on the run. [@13]
