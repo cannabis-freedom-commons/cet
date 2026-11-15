@@ -48,22 +48,21 @@ sources:
     publisher: صدى البلد
     date: 2026-11-14
     language: ar
-open_questions:
-  - No separate date for the arrest was given; 14 November 2026 is the publication date of both reports and is used as the incident date.
-  - The 10 kg of strox seized in the same car is excluded from the cannabis figures because strox is a synthetic cannabinoid outside tracker scope.
-  - The suspect was not named and no detention measure, charge wording or court outcome was reported.
-  - Both pages label their published photo as archival, so no event photo is listed as media.
+  - title: ضبط تاجر مخدرات بحوزته 16 كيلو استروكس وحشيش في حلوان - بوابة مولانا
+    url: https://mwlana.com/details/290203/
+    publisher: بوابة مولانا
+    date: 2026-11-14
+    language: ar
 ---
 
 Cairo security forces arrested a drug dealer in Helwan and found drugs and an
 automatic rifle with him. [@1] Helwan detectives stopped the man in the
-Al-Sharea Al-Gharbi area of Helwan while he was riding in a car. [@2] Officers
+Al-Sharea Al-Gharbi area of Helwan while he was riding in a car. [@2,3] Officers
 found 6 kilograms of hashish and an automatic rifle inside the car, alongside 10
-kilograms of strox. [@2]
+kilograms of strox. [@2,3]
 
 Investigations said the suspect lives in Al-Saff city in Giza and was carrying
-the drugs in the car to sell to customers. [@2] When questioned, he admitted
+the drugs in the car to sell to customers. [@2,3] When questioned, he admitted
 possessing the seized drugs to trade in them and keeping the firearm to defend
 his activity. [@1] Officers filed the necessary report and the prosecution took
-over the investigation. [@1]
-
+over the investigation. [@1,3]
