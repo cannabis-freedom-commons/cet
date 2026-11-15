@@ -57,6 +57,11 @@ media:
     media_url: https://vodstreaming01.video.globo.com/45/3e/3a/15180871_3a84b0f0db7996c46d968bfaa92a69af1ca05241/15180871-360p_487k_h264-0e155b00-c0b5-013f-0039-000000000000.mp4
     publisher: g1 Bauru e Marília
     caption: 'g1 video report on the seizure of more than four tonnes of marijuana hidden in a load of pumpkins on the SP-270 at Palmital. Video: g1 Bauru e Marília'
+  - kind: photo
+    url: https://www.assiscity.com/incineracao-maconha-palmital-policia-civil/
+    media_url: https://media.assiscity.com/2026/11/maconha-palmital-apreendidas-caminhao-1.webp
+    publisher: AssisCity
+    caption: 'Incineration of the marijuana seized in Palmital, accompanied by the Public Prosecution Service and Health Surveillance. Photo: Civil Police'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b2ac4bd54dcd135680588cf472018c50
@@ -102,6 +107,11 @@ sources:
     publisher: TV Paraguaçu
     date: 2026-11-12
     language: pt
+  - title: Polícia Civil incinera mais de 4 toneladas de maconha apreendidas em caminhão com abóboras em Palmital
+    url: https://www.assiscity.com/incineracao-maconha-palmital-policia-civil/
+    publisher: AssisCity
+    date: 2026-11-14
+    language: pt
 ---
 
 Military highway police arrested the driver of a truck at Palmital, in the São
@@ -109,8 +119,8 @@ Paulo interior, in the early hours of Wednesday 11 November 2026. [@1] Officers
 of the Tático Ostensivo Rodoviário (TOR), the patrol unit of the 2nd Highway
 Police Battalion, stopped a VW/19.320 truck at about 1 a.m. on the Raposo
 Tavares highway (SP-270) during Operação Impacto. [@2,8] Hidden among a load of
-pumpkins they found 172 bales of marijuana. [@1,7,8] After weighing, the drug
-totalled 4,086.680 kilograms, more than four tonnes. [@1,7,8] The driver, a
+pumpkins they found 172 bales of marijuana. [@1,7,8,9] After weighing, the drug
+totalled 4,086.680 kilograms, more than four tonnes. [@1,7,8,9] The driver, a
 31-year-old man, was arrested in flagrante. [@2]
 
 The driver was taken with the truck and the drug to the Central de Polícia
@@ -124,4 +134,4 @@ R$ 8,173,360. [@1,8]
 The stop was part of Operação Impacto, the highway police's checks on São Paulo
 state roads against drug trafficking and other crimes. [@3] The driver was
 arrested in flagrante on suspicion of drug trafficking. [@5] The Civil Police
-will investigate the case. [@6]
+will investigate the case. [@6] The incineration took place in a suitable industrial facility and was accompanied by representatives of the Public Prosecution Service, the Health Surveillance agency and Civil Police officers. [@9] On 13 November 2026 the Civil Police incinerated the more than four tonnes of seized marijuana under judicial authorization. [@9]
