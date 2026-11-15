@@ -101,6 +101,11 @@ sources:
     publisher: La Jornada
     date: 2026-11-14
     language: es
+  - title: 'CJNG: Inhabilitan laboratorios de droga e invernaderos de marihuana en Degollado, Jalisco | El Informador'
+    url: https://www.informador.mx/jalisco/cjng-inhabilitan-laboratorios-de-droga-e-invernaderos-de-marihuana-en-degollado-jalisco-20261114-0056.html
+    publisher: El Informador
+    date: 2026-11-14
+    language: es
 ---
 
 Under Mexico's National Public Security Strategy, the National Guard and the
@@ -109,16 +114,16 @@ Criminal Investigation Agency of the FGR, executed a technical investigation
 order at a property in the La Tinajera locality of the municipality of
 Degollado, Jalisco. [@1,4] On 13 November 2026 the Mexican Army, the National Guard and the FGR disabled two laboratories for producing synthetic drugs and two marijuana greenhouses in Degollado, Jalisco. [@7,9] The property was operated by a criminal group led by
 Heraclio 'N', alias Tío Laco, identified as the regional boss of the Jalisco New
-Generation Cartel in the area. [@1,4,8,9] The installations were operated by a group led by Heraclio Guerrero Martínez, alias Tío Lako, described as a regional CJNG chief with operations in Jalisco and Michoacán. [@6]
+Generation Cartel in the area. [@1,4,8,9,10] The installations were operated by a group led by Heraclio Guerrero Martínez, alias Tío Lako, described as a regional CJNG chief with operations in Jalisco and Michoacán. [@6]
 
 At the site the authorities seized firearms, cartridges, two synthetic-drug
-production centers and two marijuana greenhouses. [@1,4,5,8,9] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6] Machinery, tools and
+production centers and two marijuana greenhouses. [@1,4,5,8,9] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6,10] Machinery, tools and
 various items recovered on the property were used to make methamphetamine and to
 process and extract high-purity cannabidiol (CBD) and tetrahydrocannabinol (THC)
-from marijuana. [@2,4,6,9]
+from marijuana. [@2,4,6,9,10]
 
 Everything seized was handed over to the Federal Attorney General's Office,
 which is continuing its investigations and forensic work to determine the legal
-situation arising from the operation. [@1,4] Everything seized was placed at the disposal of the FGR at its headquarters in Mexico City to continue investigations and expert work. [@6] No arrests or charges were reported
+situation arising from the operation. [@1,4] Everything seized was placed at the disposal of the FGR at its headquarters in Mexico City to continue investigations and expert work. [@6,10] No arrests or charges were reported
 in this operation; the authorities said the legal situation of the people
 involved is still to be determined. [@3]
