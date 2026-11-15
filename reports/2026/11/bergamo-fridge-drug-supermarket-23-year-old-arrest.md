@@ -88,25 +88,36 @@ sources:
     publisher: Italpress
     date: 2026-11-14
     language: it
+  - title: 'In casa aveva un vero e proprio “supermercato” della droga: 23enne arrestato dalla polizia di Bergamo'
+    url: https://primabergamo.it/cronaca/in-casa-aveva-un-vero-e-proprio-supermercato-della-droga-23enne-arrestato-dalla-polizia-di-bergamo/
+    publisher: Prima Bergamo
+    date: 2026-11-14
+    language: it
+media:
+  - kind: video
+    url: https://primabergamo.it/cronaca/in-casa-aveva-un-vero-e-proprio-supermercato-della-droga-23enne-arrestato-dalla-polizia-di-bergamo/
+    media_url: https://cdn.target-video.com/live/partners/14067/ld/2909082.mp4
+    publisher: Prima Bergamo
+    caption: Prima Bergamo's 40-second news video published with the report on the Bergamo fridge "drug supermarket" and the 10 November arrest, titled "Droga in casa, supermercato dello spaccio".
 ---
 
 Bergamo State Police investigators from the Squadra Mobile arrested a
-23-year-old on 10 November in Bergamo. [@1,4,5,9] A second account describes the
-23-year-old as an Italian of Albanian origin. [@2,4,6,9] He was arrested for
+23-year-old on 10 November in Bergamo. [@1,4,5,9,10] A second account describes the
+23-year-old as an Italian of Albanian origin. [@2,4,6,9,10] He was arrested for
 possession of narcotics with intent to deal. [@1,8] The arrest was later validated
 by the judicial authority, which ordered a restrictive precautionary measure
-against him. [@1,6]
+against him. [@1,6,10]
 
 Officers found about 15 kilograms of hashish and marijuana in a home used as a
-drug storage place. [@1,4,6,7,9] A fridge and thermal bags had been turned into
+drug storage place. [@1,4,6,7,9,10] A fridge and thermal bags had been turned into
 containers for keeping the drugs, evidently to limit the smell and make
-detection harder. [@1,9] Different hashish varieties were divided by type into
+detection harder. [@1,9,10] Different hashish varieties were divided by type into
 individually sealed, labelled jars arranged in order inside the fridge like a
-supermarket display. [@1,4,5,8,9] Officers also found numerous vaporizers used for
+supermarket display. [@1,4,5,8,9,10] Officers also found numerous vaporizers used for
 taking drug extracts through e-cigarettes. [@1,4,6]
 
 They seized more than 10,000 euros in cash believed to be proceeds of dealing,
-and all the material found was placed under seizure. [@1,4,6] Police said the
+and all the material found was placed under seizure. [@1,4,6,10] Police said the
 operation removed a large quantity of drugs from the market and stopped an
 organised possession and distribution activity run in a particularly structured
 way. [@1] The LaPresse account carried by Il Sole 24 Ore gives the same core
