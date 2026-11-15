@@ -80,6 +80,11 @@ sources:
     publisher: Janbhawna Times
     date: 2026-11-14
     language: hi
+  - title: 'Muzaffarnagar News: ट्रक में छिपाकर लाया जा रहा एक करोड़ का गांजा बरामद'
+    url: https://www.livehindustan.com/uttar-pradesh/muzaffar-nagar/story-muzaffarnagar-police-seize-174-kg-of-cannabis-worth-1-crore-arrest-truck-driver-201794682394568.html
+    publisher: हिन्दुस्तान
+    date: 2026-11-15
+    language: hi
 open_questions:
   - Amar Ujala reports the truck owner and one more accused as absconding, while the other two accounts name only the owner Asif as absconding.
   - The value of about one crore rupees is a police estimate, not a measured sale figure.
@@ -90,15 +95,15 @@ open_questions:
 Acting on a tip-off on 14 November, New Mandi police stopped a truck coming from
 the Meerut side at a highway check near Pachenda bridge and seized 174 kilograms
 of ganja hidden in the truck, arresting the driver. [@1,5] Police put the
-estimated value of the seized ganja at about one crore rupees. [@1,4] Police also
+estimated value of the seized ganja at about one crore rupees. [@1,4,6] Police also
 seized the truck used in the smuggling, registered number HR73A9532. [@1]
 
 The arrested driver told police he is Rahees, son of Nazeer Ahmad, a truck
 driver from Bhaiserhedi village under Chhapar police station. [@1] He said the
 ganja was bought cheaply in Visakhapatnam, Andhra Pradesh, and hidden in the
-truck on the return trip. [@1,4,5] After bringing the ganja to Muzaffarnagar, it was
+truck on the return trip. [@1,4,5,6] After bringing the ganja to Muzaffarnagar, it was
 supplied at higher prices in Muzaffarnagar, Shamli, Roorkee, Dehradun and nearby
-districts. [@1,4]
+districts. [@1,4,6]
 
 The truck owner Asif, accused of involvement in the smuggling, is absconding,
 and police teams are searching for him. [@1,5] According to the driver's account to police, the truck owner had travelled with him but got out on the way, saying he would meet him further ahead. [@5] Police registered case number
