@@ -37,11 +37,14 @@ sources:
     publisher: RTRS
     date: 2026-11-14
     language: sr
+  - title: Six arrested in Serbia and Slovenia on suspicion of drug smuggling
+    url: https://snm.rs/six-arrested-in-serbia-and-slovenia-on-suspicion-of-drug-smuggling/
+    publisher: Serbian News Media
+    date: 2026-11-14
+    language: en
 open_questions:
-  - No date is given for the arrests beyond the 13 November 2026 publication date of the MUP statement.
-  - 'Left out, as its quotation was not found in 021.rs: The suspects are suspected of the criminal offences of association for the purpose of committing criminal offences and unauthorized production and placing on the market of narcotic drugs.'
-  - Left out arrested, as its quotation was not found in 021.rs.
-  - Left out kg seized, as its quotation was not found in 021.rs.
+    - No date is given for the arrests beyond the 13 November 2026 publication date of the MUP statement.
+    - No measure of restraint or court stage was reported for the six arrested, and the two people still being sought had not been found.
 media:
   - kind: photo
     url: https://www.euronews.rs/srbija/aktuelno/252006/hapsenje-u-srbiji-i-sloveniji-zaplenjeno-546-kg-droge/vest
@@ -54,28 +57,28 @@ media:
 
 Serbian Interior Ministry officers, working with the Public Prosecutor's Office
 for Organized Crime, arrested three members of an organized criminal group in
-Serbia. [@1,3] Simultaneously, Slovenian Interior Ministry officers arrested three
+Serbia. [@1,3,4] The suspects are suspected of the criminal offences of association for the purpose of committing criminal offences and unauthorized production and placing on the market of narcotic drugs. [@4] Simultaneously, Slovenian Interior Ministry officers arrested three
 other members of the group: a Serbian national, a Slovenian national, and a
-Bosnian national. [@1,3] Those arrested in Slovenia were identified as Serbian national A. J. (34), Slovenian national S. Z. (39) and Bosnian-Herzegovinian national M. J. (44). [@3] Those arrested in Serbia were identified by initials and ages as S. Dj. (54), S. K. (53) and A. K. (23). [@3]
+Bosnian national. [@1,3,4] The arrests in Slovenia were carried out in a parallel investigation by the Serbian police and prosecutor's office with partner units of the Slovenian Ministry of the Interior and the Special State Prosecutor's Office of Slovenia. [@4] Those arrested in Slovenia were identified as Serbian national A. J. (34), Slovenian national S. Z. (39) and Bosnian-Herzegovinian national M. J. (44). [@3] Those arrested in Serbia were identified by initials and ages as S. Dj. (54), S. K. (53) and A. K. (23). [@3]
 
 The group members are suspected of opening international road-transport
 companies in Croatia, Hungary, Slovakia and Serbia, onto which they registered
-trucks used for drug smuggling. [@1,3] In each truck, bunkers were built inside
+trucks used for drug smuggling. [@1,3,4] In each truck, bunkers were built inside
 the cabins to conceal drugs, while the cargo compartment carried legitimate
-loads. [@1,3]
+loads. [@1,3,4]
 
 In the second half of 2025 in France, in cooperation with the French customs,
 two drivers, Serbian nationals, were arrested who were smuggling drugs by truck
 from the territory of the Kingdom of Spain for the group, and in two separate
 operations 471 kilograms of hashish and 15 kilograms of marijuana were seized.
-[@1,3] In May 2026 in Slovenia, the partner unit of the Slovenian Interior
+[@1,3,4] The two drivers arrested in France were identified as Serbian nationals V. P. (1986) and Lj. J. (1968). [@4] In May 2026 in Slovenia, the partner unit of the Slovenian Interior
 Ministry arrested a Serbian national and a Slovenian national at the handover of
-60 kilograms of cocaine and 46,000 euros. [@1]
+60 kilograms of cocaine and 46,000 euros. [@1,4] The two people arrested at the May 2026 handover in Slovenia were identified as Serbian national D. S. (1973) and Slovenian national R. A. (1989). [@4]
 
 Cooperation was established with police in Hungary, France, Croatia and Austria,
 with information exchanged via liaison officers and through Europol and Eurojust
-channels. [@1] The suspects arrested on Serbian territory were brought, with a
-criminal report, to the Public Prosecutor's Office for Organized Crime. [@1]
+channels. [@1,4] The suspects arrested on Serbian territory were brought, with a
+criminal report, to the Public Prosecutor's Office for Organized Crime. [@1,4]
 Officers from the Interior Ministry's Criminal Police Directorate, the Service
 for the Fight against Organized Crime and the Section for Suppression of
 Organized Drug Smuggling participated in the arrests. [@1]
