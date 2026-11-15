@@ -86,23 +86,32 @@ sources:
     publisher: WP Info
     date: 2026-11-14
     language: pl
+  - title: Amfetamina i marihuana w szafce na budowie. Policjanci zatrzymali 44-latka - Miejski Reporter - wydarzenia Warszawa
+    url: https://miejskireporter.pl/amfetamina-i-marihuana-w-szafce-na-budowie-policjanci-zatrzymali-44-latka/
+    publisher: Miejski Reporter
+    date: 2026-11-14
+    language: pl
+open_questions:
+    - No separate date for the search or arrest was reported; 13 November 2026 is the date of the police statement and publication.
+    - The nearly 200-gram seizure combines amphetamine and marijuana without separate weights, and the estimated value does not separate the marijuana share.
+    - No court outcome beyond the charges was reported.
 ---
 
 Officers of the life-and-health crime unit of the Płock municipal police handled
-the case. [@1,7] Working with security staff, officers established that a worker
-present at a construction site might possess drugs. [@1,7] Officers found drugs in
+the case. [@1,7,11] Working with security staff, officers established that a worker
+present at a construction site might possess drugs. [@1,7,11] Officers found drugs in
 the employee's work locker, according to police spokeswoman Monika Jakubowska.
-[@1,6,7,10] Officers detained the 44-year-old man. [@3,5,8,9]
+[@1,6,7,10,11] Officers detained the 44-year-old man. [@3,5,8,9,11]
 
-Police then searched the man's flat and found more drugs there. [@1,5,6,8,9,10] Officers
+Police then searched the man's flat and found more drugs there. [@1,5,6,8,9,10,11] Officers
 seized a combined total of nearly 200 grams of amphetamine and marijuana, with
-no separate weight given for the marijuana. [@1,5,6,8,9,10] Police put the combined
+no separate weight given for the marijuana. [@1,5,6,8,9,10,11] Police put the combined
 black-market value at about 7,500 zloty, without separating the marijuana share.
-[@2,5,6,8,10]
+[@2,5,6,8,10,11]
 
 The evidence allowed officers to charge the man with possession and supply of
-intoxicants, the Polish legal term for drugs. [@1,5,7,9,10] Corroborating outlets confirm
+intoxicants, the Polish legal term for drugs. [@1,5,7,9,10,11] Corroborating outlets confirm
 the same work-locker and flat seizure of amphetamine and marijuana involving the
 same 44-year-old. [@4] The detained man had previous convictions for drug
-offences, so police said he would answer under recidivism rules. [@1,5,6,7,10] Płock
-police said the charges carry up to 15 years in prison. [@1,5,6,8,10]
+offences, so police said he would answer under recidivism rules. [@1,5,6,7,10,11] Płock
+police said the charges carry up to 15 years in prison. [@1,5,6,8,10,11]
