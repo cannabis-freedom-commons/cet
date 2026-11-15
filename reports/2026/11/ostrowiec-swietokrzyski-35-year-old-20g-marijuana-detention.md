@@ -43,6 +43,11 @@ media:
     media_url: https://swietokrzyska.policja.gov.pl/dokumenty/zalaczniki/84/84-253293.jpg
     publisher: Policja Świętokrzyska
     caption: 'Police photograph of drugs seized from the man, published with the statement by the Komenda Powiatowa Policji in Ostrowiec Świętokrzyski. Photo: Police'
+  - kind: photo
+    url: https://kielce.tvp.pl/96475739/ostrowiec-swietokrzyski-35-latek-aresztowany-za-narkotyki
+    media_url: https://s2.tvp.pl/images2/b/b/2/uid_bb271ae7562f4011a9c58ffd4241c27f_width_900_play_0_pos_0_gs_0_height_506.jpg
+    publisher: TVP Kielce
+    caption: 'Police photo of the drugs found in the 35-year-old''s flat, published with the report on his three-month detention. Photo: police'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4df8bc674f5bfe450b50dd3b96755503
@@ -63,20 +68,23 @@ sources:
     publisher: Świętokrzyskie24.pl
     date: 2026-11-13
     language: pl
-open_questions:
-  - The marijuana and amphetamine quantities came from the initial identification of the seized material; no laboratory confirmation was reported.
+  - title: Narkotyki w mieszkaniu 35-latka. Sąd zdecydował o trzymiesięcznym areszcie
+    url: https://kielce.tvp.pl/96475739/ostrowiec-swietokrzyski-35-latek-aresztowany-za-narkotyki
+    publisher: TVP Kielce
+    date: 2026-11-14
+    language: pl
 ---
 
 On 10 November 2026, officers from the criminal division of the Ostrowiec
-Świętokrzyski district police command detained a 35-year-old in the city. [@1]
+Świętokrzyski district police command detained a 35-year-old in the city. [@1,4]
 Searches found 20 grams of marijuana and more than 91 grams of amphetamine,
 which police seized during searches of the man and his residential premises.
-[@1] Police took him into custody and placed him in a police cell. [@1]
+[@1,4] Police took him into custody and placed him in a police cell. [@1]
 
 After investigators gathered evidence, the 35-year-old faced the prosecutor, and
-the court then remanded him in temporary custody for three months. [@1] The
+the court then remanded him in temporary custody for three months. [@1,4] The
 charge is possession of a significant quantity of narcotics, which carries a
-penalty of up to ten years' imprisonment. [@1]
+penalty of up to ten years' imprisonment. [@1,4]
 
 The 35-year-old was charged with possession of a significant quantity of
 narcotics, and the local outlet reported that the charge carries up to ten
@@ -84,4 +92,3 @@ years' imprisonment. [@2]
 
 The court remanded the man in temporary custody for three months after he faced
 the prosecutor. [@3]
-
