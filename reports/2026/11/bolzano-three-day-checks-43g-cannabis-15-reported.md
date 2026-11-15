@@ -61,19 +61,24 @@ sources:
     publisher: UnserTirol24
     date: 2026-11-14
     language: de
+  - title: 'Schwerpunktkontrollen in Bozen: 15 Anzeigen und über 500 kontrollierte Personen'
+    url: https://italien.news/lokal/news-suedtirol/anzeige-bozen-staatspolizei-kontrollen-500-personen/
+    publisher: Italien.news
+    date: 2026-11-14
+    language: de
 ---
 
 In intensified checks in Bolzano, the State Police identified more than 500
-people and checked 80 vehicles within three days. [@1,4] The State Police were
+people and checked 80 vehicles within three days. [@1,4,5] The State Police were
 joined in the operation by the Carabinieri, the finance police with
 drug-sniffing dogs and the municipal police. [@1] A total of 15 people were
-reported to the judicial authorities for various offences. [@1,4]
+reported to the judicial authorities for various offences. [@1,4,5]
 
 Along the Eisackuferstrasse on the left side of the river, officers seized 40.49
 grams of hashish, 2.47 grams of marijuana and 1.60 grams of ecstasy. [@1] The
 drugs could initially not be attributed to any person. [@1] According to the
 police headquarters, the drugs on the left bank of the Eisack were found with
-the help of the finance police dog unit and seized from persons unknown. [@2,4] A
+the help of the finance police dog unit and seized from persons unknown. [@2,4,5] A
 drug-sniffing dog found the hashish, marijuana and ecstasy on the left bank of
 the Eisackuferstrasse. [@3]
 
