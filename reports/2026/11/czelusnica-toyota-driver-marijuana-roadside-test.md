@@ -68,22 +68,29 @@ sources:
     publisher: Jaslo.info
     date: 2026-11-13
     language: pl
+  - title: Był zbyt nerwowy jak na kontrolę z powodu niesprawnego światła. 19-latek miał w organizmie marihuanę
+    url: https://www.kryminalki.pl/artykul/36913,byl-zbyt-nerwowy-jak-na-kontrole-z-powodu-niesprawnego-swiatla-19-latek-mial-w-organizmie-marihuane
+    publisher: kryminalki.pl
+    date: 2026-11-14
+    language: pl
+open_questions:
+    - This account does not say whether the driver was arrested; it reports only that his driving licence was seized, blood was taken and the Toyota was towed to a police lot.
 ---
 
 Jasło traffic police stopped a Toyota for a roadside check in Czeluśnica after
-11 p.m. because one of its dipped headlights was faulty. [@1,4,6,7] The nervous
+11 p.m. because one of its dipped headlights was faulty. [@1,4,6,7,8] The nervous
 behaviour of the 19-year-old behind the wheel prompted officers to check whether
-he was under the influence of drugs. [@2] A drug tester showed the 19-year-old
+he was under the influence of drugs. [@2,8] A drug tester showed the 19-year-old
 resident of Tarnowiec commune was under the influence of marijuana, so blood was
 taken for analysis, his driving licence was seized and the Toyota was taken to a
-police parking lot. [@1,4,5,6,7]
+police parking lot. [@1,4,5,6,7,8]
 
 The stop took place on Saturday 7 November 2026, while the Jasło traffic unit
 was running its “Your lights – our safety” campaign on correct vehicle lighting.
-[@2,5] Officers also found a broken rear lamp, seized the car's registration
-document and fined the young driver 500 zł for the lighting faults. [@1,4,5,6,7]
+[@2,5,8] Officers also found a broken rear lamp, seized the car's registration
+document and fined the young driver 500 zł for the lighting faults. [@1,4,5,6,7,8]
 
 Driving under the influence of an intoxicant is a crime punishable by up to
-three years in prison, with a driving ban imposed as well. [@3] The District
+three years in prison, with a driving ban imposed as well. [@3,8] The District
 Court in Jasło is to decide on the 19-year-old's responsibility and punishment.
-[@3,5,7]
+[@3,5,7,8]
