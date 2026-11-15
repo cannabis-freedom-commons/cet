@@ -82,6 +82,11 @@ sources:
     publisher: Rashtra Samvad
     date: 2026-11-14
     language: hi
+  - title: 'Jamshedpur two arrested with 23.94 kg marijuana : मानगो में 23.94 किलो गांजा के साथ दो गिरफ्तार, बिहार ले जाई जा रही थी गांजे की खेप, पुलिस इसके पीछे के नेटवर्क की कर रही पड़ताल'
+    url: https://sharpbharat.com/jamshedpur-two-arrested-with-23-94-kg-marijuana/
+    publisher: Sharp Bharat News
+    date: 2026-11-14
+    language: hi
 open_questions:
   - The Hindi reports give 23.940 kg while the PTI account rounds the seizure to 24 kg; the report uses the precise 23.940 kg figure.
   - The two per-person weights of 15.450 kg and 8.497 kg add to 23.947 kg, 7 grams more than the reported total of 23.940 kg.
@@ -92,16 +97,16 @@ open_questions:
 ---
 
 Jamshedpur police arrested two men on ganja-smuggling charges in East Singhbhum,
-recovering 23.94 kg of ganja near Dada Garage on NH-33. [@2,5] The accused were
+recovering 23.94 kg of ganja near Dada Garage on NH-33. [@2,5,6] The accused were
 identified as 20-year-old Santosh Kumar alias Santosh Lodhi of Bagbera and
-37-year-old Putlu Bhumij of Makdumpur Road No. 2, Parsudih. [@3,5] Senior
+37-year-old Putlu Bhumij of Makdumpur Road No. 2, Parsudih. [@3,5,6] Senior
 Superintendent of Police Dr Ehtesham Waqarib received information that smugglers
 were about to send a large ganja consignment to Bihar, after which a special
 raiding team was formed under the Patamda DSP with guidance from City SP Lalit
-Meena. [@2]
+Meena. [@2,6]
 
 The team caught two suspects with three bags near Dada Garage, and found 17
-packets of ganja when the bags were searched. [@2,5] Police said the bags held 17
+packets of ganja when the bags were searched. [@2,5,6] Police said the bags held 17
 packets of ganja with a total weight of 23.940 kg and that the consignment was
 to be sent to Bihar. [@1,5] Santosh Kumar held 12 packets with 15.450 kg of ganja
 plus an Oppo Android phone and Rs 1,200 in cash, while Putlu Bhumij held five
@@ -113,4 +118,4 @@ The team conducted the raid near Pardih on NH-33 within Azadnagar police station
 limits on Friday and recovered 24 kg of ganja packed in 17 packets. [@4] Police
 valued the 24 kg of ganja at around Rs 12 lakh. [@4] The accused were forwarded
 to judicial custody on Saturday after a case was registered under the NDPS Act.
-[@4]
+[@4] Police said they had registered primary cases against both accused and begun further legal action, with the investigation focused on tracing the source of the consignment and the trafficking network behind it. [@6]
