@@ -92,15 +92,11 @@ sources:
     publisher: Sing Tao Canada 星島加拿大
     date: 2026-11-11
     language: zh
-open_questions:
-    - Police said the two suitcases held about 46 kilograms, valued at about 250,000 euros; CTV News later reported 23.15 kilograms in one bag and 23 kilograms in another, worth almost C$400,000.
-    - The July police notice said two women were prosecuted while at large, while CTV News later said the other Canadian passenger was released without charges.
-    - No court outcome was reported; a trial was expected in early 2027, and the maximum of 15 years is the penalty he faces, not a sentence.
-    - Police described the cannabis as suspected cannabis sativa in gelatin form, without saying whether it was dried flower or another preparation.
-    - The RCMP wrote that Gjoni was the victim of a bag-tag switch; Albanian police treated the luggage as part of an attempted trafficking case.
-    - Albanian police publicly suggested the couple lied about the pregnancy before a second hospital confirmed it; it is not known whether police accepted that finding.
-    - It is not known whether his wife was formally arrested or charged, or for how long she was held in custody.
-    - The text gives a weight ("46 kilograms") but the figures have no kg_seized; check whether it belongs there.
+  - title: Kanadčana v Albaniji aretirali s 23,15 kg konoplje
+    url: https://tv3m.si/article/kanadcana-v-albaniji-aretirali-s-2315-kg-konoplje
+    publisher: TV3
+    date: 2026-11-14
+    language: sl
 ---
 
 On 3 July 2026, customs and state police at Rinas airport seized about 46
@@ -117,12 +113,12 @@ flight was scanned, then searched in the presence of the luggage owners. [@3]
 
 Gjoni, a Toronto businessman on an Air Transat flight with his wife, told CTV
 News that the bag officers ordered him to collect was not his and held 23.15
-kilograms of cannabis. [@1,7,9] CTV's W5 reported that hospital records in Canada and Albania confirmed she was pregnant and had miscarried. [@6,7] His pregnant wife was also taken into police custody. [@6,7] He said Albanian police held him for four days in
+kilograms of cannabis. [@1,7,9,10] CTV's W5 reported that hospital records in Canada and Albania confirmed she was pregnant and had miscarried. [@6,7] After the incident, his wife Adriana, who was also travelling to Tirana, suffered a spontaneous miscarriage. [@10] His pregnant wife was also taken into police custody. [@6,7] He said Albanian police held him for four days in
 solitary confinement, then released him on bail. [@1,7] His Albanian anti-corruption lawyer, Ndue Pjetra, submitted W5's earlier reports on baggage-tag switches to a court and argued that criminals had used an airport loophole to plant the bag. [@7] He had to report to police in Tirana, first monthly and later every four months. [@6,7] CTV News reported that
 another Canadian passenger on the same flight was detained because her tag was
 on a second suitcase with 23 kilograms of cannabis, and that she was released
 without charges. [@1,6,7] Albanian police told CTV News the cannabis was worth
 almost C$400,000. [@1,6,7] His trial is expected to begin in early 2027, and he
-faces up to 15 years in prison. [@1,6,7] An Air Transat spokesperson said the airline took the allegations of interference with its baggage system seriously, had cooperated with the investigation and given authorities the operational information it had. [@7] Air Transat acknowledged the family's distress in a statement provided to W5. [@8] In an October email, the RCMP wrote that it
+faces up to 15 years in prison. [@1,6,7,10] An Air Transat spokesperson said the airline took the allegations of interference with its baggage system seriously, had cooperated with the investigation and given authorities the operational information it had. [@7] Air Transat acknowledged the family's distress in a statement provided to W5. [@8] In an October email, the RCMP wrote that it
 believed he was the victim of a bag-tag switch and that the couple had checked
-in only the four bags they later collected. [@1,7,9]
+in only the four bags they later collected. [@1,7,9,10]
