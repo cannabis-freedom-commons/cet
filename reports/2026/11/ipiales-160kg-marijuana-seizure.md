@@ -51,6 +51,11 @@ sources:
     publisher: Comando General de las Fuerzas Militares de Colombia
     date: 2026-11-12
     language: es
+  - title: En Ipiales el Ejército Nacional incautó cargamento de droga
+    url: https://www.diariodelsur.com.co/noticias/en-ipiales-el-ejercito-nacional-incauto-cargamento-de-droga
+    publisher: Diario del Sur
+    date: 2026-11-13
+    language: es
 open_questions:
   - No separate date for the seizure is given; 13 November 2026, the Diario del Cauca publication date, is used as the incident date, while the Armed Forces' own page is dated 12 October 2026 in its listing.
   - No arrests, detainees, charges or court outcome were reported; the drug was handed to the competent authorities for judicial procedures.
@@ -60,14 +65,13 @@ open_questions:
 
 Troops of the Army's Grupo de Caballería Mediano No. 3, a unit of the Vigésima
 Tercera Brigada in Nariño, seized 160 kilograms of marijuana in the rural zone
-of Ipiales. [@1] Military intelligence reported suspicious packages in a wooded
+of Ipiales. [@1,3] Military intelligence reported suspicious packages in a wooded
 area, and troops found 160 packages that a preliminary homologated
-identification test (PIPH) confirmed as marijuana. [@1]
+identification test (PIPH) confirmed as marijuana. [@1,3]
 
 According to the Armed Forces' account, the drug would belong to the residual
 armed group GAO-r Estructura Comandos de Frontera, which operates in this part
-of Nariño. [@2] The Army said the seizure hit that group's criminal finances for
+of Nariño. [@2,3] The Army said the seizure hit that group's criminal finances for
 more than 128 million pesos and prevented around 8,000 doses from reaching the
-streets. [@1] The drug was handed over to the competent authorities to carry out
-the corresponding judicial procedures. [@1]
-
+streets. [@1,3] The drug was handed over to the competent authorities to carry out
+the corresponding judicial procedures. [@1,3]
