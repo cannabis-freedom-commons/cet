@@ -84,8 +84,13 @@ sources:
     publisher: El Litoral
     date: 2026-11-13
     language: es
+  - title: Cayó un correntino en Entre Ríos con más tres kilos de marihuana
+    url: https://www.radiosudamericana.com/amp/policiales/352725-Cayo-un-correntino-en-Entre-Rios-con-mas-tres-kilos-de-marihuana.htm
+    publisher: Radio Sudamericana
+    date: 2026-11-14
+    language: es
 open_questions:
-    - The official report gave no age and no circumstances of the detention; the account that the man was 28 and travelled from Mocoretá by hire car is attributed to local press, not the police report.
+    - The official report gave no age and no circumstances of the detention; local accounts disagree, describing the man as 28 in some outlets and as 42, from Mocoretá, in this account.
     - No charge, hearing or court outcome was reported beyond the detention and referral to the courts.
     - No laboratory confirmation beyond the police seizure report was published.
     - 'Accounts disagree on the day of the week of the overnight operation: 12 November 2026 is a Thursday and 13 November a Friday, but one account dates them as Wednesday and Thursday; the overnight 12-13 November period is consistent across accounts.'
@@ -108,4 +113,4 @@ backpack, while no money was seized. [@1,4] The official report gave no age for
 the detained man and no details of the circumstances of the detention. [@1]
 Local accounts described the detained man as 28 years old and said he had
 travelled from Mocoretá to Chajarí in a hire car from Corrientes. [@3,6] Mocoretá investigators detected the suspect with a backpack through municipal monitoring cameras before he boarded the remis. [@8] The case
-was placed in the hands of the courts. [@2,7] Police reported no apprehensions in the Mocoretá procedures. [@7] Police valued the material seized in Mocoretá at about 5,390,728 pesos. [@8] Officers also seized mobile phones, a computer and a tablet to reconstruct the contact network. [@8] In the Mocoretá homes officers seized four cannabis plants and four cannabis seedlings, 42 loose seeds plus 8.1 grams of cannabis sativa seeds, and 4.09 grams of plant material that tested positive for marijuana. [@8] The Mocoretá raids were carried out in barrio General Roca and on calle Sargento Cabral. [@7] In parallel with the road procedure, police carried out simultaneous raids on homes in Mocoretá under orders from the Monte Caseros Guarantees Court and the intervening prosecutor's office. [@8] The detained man was placed at the disposal of the Federal Justice system, which intervened through the Federal Court of Concordia, with the proceedings carried out under the corresponding judicial directives. [@4]
+was placed in the hands of the courts. [@2,7] Police reported no apprehensions in the Mocoretá procedures. [@7] Police valued the material seized in Mocoretá at about 5,390,728 pesos. [@8,9] Officers also seized mobile phones, a computer and a tablet to reconstruct the contact network. [@8] In the Mocoretá homes officers seized four cannabis plants and four cannabis seedlings, 42 loose seeds plus 8.1 grams of cannabis sativa seeds, and 4.09 grams of plant material that tested positive for marijuana. [@8,9] The Mocoretá raids were carried out in barrio General Roca and on calle Sargento Cabral. [@7] In parallel with the road procedure, police carried out simultaneous raids on homes in Mocoretá under orders from the Monte Caseros Guarantees Court and the intervening prosecutor's office. [@8] The detained man was placed at the disposal of the Federal Justice system, which intervened through the Federal Court of Concordia, with the proceedings carried out under the corresponding judicial directives. [@4]
