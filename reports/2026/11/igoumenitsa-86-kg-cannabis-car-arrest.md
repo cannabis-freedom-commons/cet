@@ -108,6 +108,11 @@ sources:
     publisher: Patras Events
     date: 2026-11-14
     language: el
+  - title: 'Ηγουμενίτσα: Μεγάλη κατάσχεση 86 κιλών κάνναβης στη Νέα Σελεύκεια – Συνελήφθη οδηγός Ι.Χ. | eReportaz'
+    url: https://www.ereportaz.gr/igoumenitsa-megali-kataschesi-86-kilon-kannavis-sti-nea-selefkeia-synelifthi-odigos-i-ch/
+    publisher: eReportaz
+    date: 2026-11-14
+    language: el
 details:
     agencies: [Hellenic Police]
     agency_types: [police, anti-narcotics]
@@ -119,18 +124,22 @@ details:
     force: [none-reported]
     date_precision: exact
     region: Thesprotia, Epirus
+open_questions:
+    - The 259,314-euro figure is the estimated profit from trafficking stated by one outlet; no other account of the seizure gives a value.
+    - eReportaz names the driver only by the initials I.X. and uses masculine grammar, while other outlets describe a 31-year-old foreign woman; the report keeps the other outlets' description.
+    - No laboratory confirmation of the cannabis was reported; the samples were sent to the Chemical Service of Corfu.
 ---
 
 Police of the Drug Pursuit Division of the Igoumenitsa Sub-directorate of
 Pursuit and Investigation of Crimes found a large quantity of drugs early in the
-morning in Igoumenitsa, blocking its further transport. [@1,3,11] A foreign national
+morning in Igoumenitsa, blocking its further transport. [@1,3,11] The operation took place on the morning of Friday 13 November 2026 in the Nea Selkeia area of Igoumenitsa. [@14] A foreign national
 was arrested in connection with the case, against whom a felony indictment was
-opened. [@1,3,6,7,8,11,12] As part of targeted checks, the officers stopped a small car that
+opened. [@1,3,6,7,8,11,12,14] As part of targeted checks, the officers stopped a small car that
 the foreign woman was driving and that she owned, inside which they found 80
-bundles of raw cannabis, totalling 86 kg 438 g. [@1,3,4,5,7,8,9,10,11,12,13] The drugs and the car were
+bundles of raw cannabis, totalling 86 kg 438 g. [@1,3,4,5,7,8,9,10,11,12,13,14] The estimated profit the traffickers would have made from selling the quantity is put at up to 259,314 euros. [@14] The drugs had been carefully placed in the luggage space and the rear seats of the vehicle, with the aim of trafficking them further inside the country. [@14] The drugs and the car were
 confiscated, and the detainee is expected to be brought to the Thesprotia First
-Instance Magistrate's Office. [@1,3,4,5,6,7,8,10,11,12,13] The police's own statement gave no information on the origin or the final destination of the cannabis load. [@6,8]
+Instance Magistrate's Office. [@1,3,4,5,6,7,8,10,11,12,13] The seized drugs and samples of them are to be sent to the Chemical Service of Corfu for laboratory examination. [@14] By order of the competent service, a home search was also carried out in the area of responsibility of the Igoumenitsa Pursuit and Investigation of Crimes Department. [@14] The police's own statement gave no information on the origin or the final destination of the cannabis load. [@6,8]
 
-The arrested driver of the car was a 31-year-old foreign national. [@2,10,13] The
+The arrested driver of the car was a 31-year-old foreign national. [@2,10,13] The driver, identified only by the initials I.X., was driving a Toyota Avensis. [@14] The
 cannabis was packaged into 80 bundles that were found inside the woman's car
 during a targeted check. [@2,8,10,13]
