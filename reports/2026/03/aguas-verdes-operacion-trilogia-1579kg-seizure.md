@@ -44,6 +44,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/7TBUA3P62JH6FCMER3ML7BPN5Q.png?auth=0b18048796c8e22b9e99baf1a09a3cd2d0873960bf2ab11ee99abf5b82dab170&smart=true&width=992&height=558&quality=85
     publisher: Infobae Perú
     caption: Second image published with Infobae's report of the 25 March Peru-Ecuador marijuana seizure in Aguas Verdes.
+  - kind: photo
+    url: https://www.eloriente.com/articulo/incautan-mas-de-15-toneladas-de-marihuana-en-operativo-conjunto-entre-ecuador-y-peru/56012
+    media_url: https://img.eloriente.com/pics/nocrop/892x535/0a3f8023ee39cf0b6822dab22eca056dd8954748.webp
+    publisher: El Oriente Ecuador
+    caption: 'Photo of the Fénix-0138 intervention in Aguas Verdes. Photo: Policía Nacional'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7e3e99cf0869082786315652906bdd2e
@@ -64,31 +69,29 @@ sources:
     publisher: Ministerio Público Fiscalía de la Nación
     date: 2026-03-25
     language: es
-open_questions:
-  - Andina reported the operation on 24 March 2026 and Infobae on 25 March 2026; 24 March is used as the incident date and no separate hour for the warehouse search was given.
-  - No arrests, charges or court outcomes were reported; the prosecutor said investigations continue to identify those responsible.
-  - Infobae and Andina give the weight as 1 tonne and 579 kg while the FETID press note gives the precise figure of 1579.500 kg used here.
-  - The reported value of 3,198,750 United States dollars is the authorities' estimate for the Peruvian illicit market.
-  - The same Infobae article also describes an Ecuadorian military operation that destroyed mining camps in Podocarpus National Park, a different event left out here.
+  - title: Incautan más de 1,5 toneladas de marihuana en operativo conjunto entre Ecuador y Perú
+    url: https://www.eloriente.com/articulo/incautan-mas-de-15-toneladas-de-marihuana-en-operativo-conjunto-entre-ecuador-y-peru/56012
+    publisher: El Oriente Ecuador
+    date: 2026-03-24
+    language: es
 ---
 
 Peru and Ecuador police carried out a joint operation that seized more than 1.5
-tonnes of marijuana in Aguas Verdes, Zarumilla, Tumbes. [@1] The intervention,
+tonnes of marijuana in Aguas Verdes, Zarumilla, Tumbes. [@1,4] The intervention,
 called Operación Trilogía, combined Peru's Dirandro with Ecuador's specialised
-anti-narcotics units including Piura's Special Investigations Division. [@2]
+anti-narcotics units including Piura's Special Investigations Division. [@2] Ecuador's police called the intervention Fénix-0138 and dated its execution in Aguas Verdes to 22 March 2026. [@4]
 Intelligence work located the cochera Zavaleta, a property used as a collection
 centre by a Colombia-based trafficking network moving drugs into Peru. [@1] No
 suspects were named, and the prosecutor said investigations continue to identify
 those responsible and establish criminal liability. [@3]
 
 Officers found the marijuana concealed inside 32 metal beams using a
-sophisticated hiding system. [@1] After dismantling the beams, officers
-recovered 1,957 packages of cannabis sativa type creepy. [@1] The load weighed
-1,579.5 kg in total. [@3] Authorities estimated its value on the Peruvian
-illicit market at 3,198,750 United States dollars. [@1]
+sophisticated hiding system. [@1,4] After dismantling the beams, officers
+recovered 1,957 packages of cannabis sativa type creepy. [@1,4] The load weighed
+1,579.5 kg in total. [@3,4] Authorities estimated its value on the Peruvian
+illicit market at 3,198,750 United States dollars. [@1,4] Officials put the impact at more than 1.2 million dollars in the Ecuadorian market. [@4]
 
 The beams were opened at the Aduanas Tumbes site in Corrales with authorities
 present, where field tests were presumptively positive for cannabis sativa
 marijuana. [@3] The drug was then grouped, weighed, sealed and placed in custody
 for transfer to the Central Criminalistics Laboratory in Lima. [@3]
-
