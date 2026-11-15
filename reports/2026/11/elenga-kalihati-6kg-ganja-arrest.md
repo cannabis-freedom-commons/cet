@@ -62,6 +62,11 @@ sources:
     publisher: Daily Amader Matribhumi
     date: 2026-11-12
     language: bn
+  - title: টাঙ্গাইলে ৬ কেজি গাঁজাসহ এক মাদক কারবারি গ্রেপ্তার
+    url: https://www.agrajatrapratidin.com/country/news/29493
+    publisher: Agrajatra Pratidin
+    date: 2026-11-12
+    language: bn
 open_questions:
   - Police accounts time the stop at about 2:30 a.m. on the night of Wednesday 11 November; the account that calls it the night following that Wednesday puts the hour on 12 November, the date used here.
   - No case number or later court result was reported after he was sent to jail that morning.
@@ -69,10 +74,10 @@ open_questions:
 ---
 
 Kalihati police station officers arrested 38-year-old Amanullah Mia with 6 kg of
-ganja in Kalihati, Tangail. [@1] They stopped him as a suspect at about 2:30 at
+ganja in Kalihati, Tangail. [@1,3] They stopped him as a suspect at about 2:30 at
 night on Wednesday, on the paved road of the Dhaka-bound service lane in front
 of the Akbar Color Print shop in Elenga municipality, on the Dhaka-Tangail
-highway. [@1] A second account of the same stop places that hour on the night
+highway. [@1,3] A second account of the same stop places that hour on the night
 following Wednesday 11 November, so the arrest fell in the early hours of 12
 November. [@2] Police named him as the son of the late Abdur Rahman and the late
 Johura Begum, of Shimulkandi, also called Imamer Char, under Bhairab police
@@ -82,11 +87,10 @@ A team led by Assistant Sub-Inspector Tapan Kumar of Kalihati police station
 made the arrest while on a patrol duty coded Golf-71 in the station area. [@1]
 The operation was ordered by Tangail Superintendent of Police Muhammad Shamsul
 Alam Sarkar, supervised by Kalihati Circle Assistant Superintendent Md. Manjurul
-Islam, and directed by station officer-in-charge Md. Kayum Khan Siddiqui. [@1]
+Islam, and directed by station officer-in-charge Md. Kayum Khan Siddiqui. [@1,3]
 Officers recovered 6 kg of ganja from his possession, and police estimated its
-market value at 180,000 taka. [@1]
+market value at 180,000 taka. [@1,3]
 
 Officer-in-charge Md. Kayum Khan Siddiqui said a regular case under the
-Narcotics Control Act was filed at the station against the arrested man. [@1]
+Narcotics Control Act was filed at the station against the arrested man. [@1,3]
 That morning he was sent to jail through the court. [@1]
-
