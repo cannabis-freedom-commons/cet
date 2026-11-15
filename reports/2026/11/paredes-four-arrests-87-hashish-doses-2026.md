@@ -31,6 +31,11 @@ sources:
     publisher: CNN Portugal
     date: 2026-11-14
     language: pt
+  - title: Quatro detidos em Paredes com 375 doses de cocaína e 4 mil euros - Portugal - Correio da Manhã
+    url: https://www.cmjornal.pt/portugal/amp/quatro-detidos-em-paredes-com-375-doses-de-cocaina-e-4-mil-euros
+    publisher: Correio da Manhã
+    date: 2026-11-14
+    language: pt
 open_questions:
   - Thursday's detentions are dated 12 November 2026 from the article's Saturday 14 November 2026 publication date; no separate calendar date for the raid was given.
   - No weight in grams was published for the 87 hashish doses, so no cannabis weight is recorded.
@@ -41,21 +46,20 @@ open_questions:
 
 Three men and a woman were detained on Thursday in Paredes, in the Porto
 district, on suspicion of drug trafficking, in an operation announced on
-Saturday by the Porto Territorial Command of the GNR. [@1] The suspects were
-aged between 37 and 54. [@1] The detentions followed a drug-trafficking
+Saturday by the Porto Territorial Command of the GNR. [@1,2] The suspects were
+aged between 37 and 54. [@1,2] The detentions followed a drug-trafficking
 investigation in which officers carried out four searches, two at homes and two
-in vehicles, leading to the suspects being identified and located. [@1]
+in vehicles, leading to the suspects being identified and located. [@1,2]
 
 Officers seized 375 doses of cocaine, 87 doses of hashish and 46 doses of
-heroin. [@1] They also seized an alarm pistol, a knuckleduster, a handmade
+heroin. [@1,2] They also seized an alarm pistol, a knuckleduster, a handmade
 baton, two vehicles, eight mobile phones, 4,090 euros in cash and other material
 linked to drug trafficking. [@1]
 
 One of those detained was made an arguido, while the others were brought for a
 first judicial interrogation on Friday at the Penafiel Criminal Instruction
-Court, where one of them was placed in preventive detention. [@1] Another
+Court, where one of them was placed in preventive detention. [@1,2] Another
 detainee was barred from contacting people linked to drug trafficking, and the
 woman must report twice a week at the police station in her home area. [@1] The
 operation was supported by the Intervention Unit and dog teams from the Porto
 Intervention Detachment. [@1]
-
