@@ -76,6 +76,11 @@ media:
     media_url: https://img.mvsnoticias.com/SgQKNyw7ah0Hugz5N3tpRaRUpC_KJT8WEW6Vnix-C0I/rs:fit:1024:0:0/q:50/f:avif/aHR0cHM6Ly9hc3NldHMubXZzbm90aWNpYXMuY29tL2ltZy8xNzk0Njk3MzIxODMxLWxoZ29xYi5qcGVn
     publisher: MVS Noticias
     caption: 'Two marijuana greenhouses secured in Degollado with areas of about 3,250 and 8,400 square metres. Photo: @Defensamx1 / Defensa via MVS Noticias'
+  - kind: photo
+    url: https://www.razon.com.mx/estados/2026/11/14/inhabilitan-en-jalisco-laboratorios-e-invernaderos-de-marihuana-ligados-al-tio-lako/
+    media_url: https://www.razon.com.mx/resizer/v2/OI6P6FYJURAEROKD7FJGPZ7BME.jpg?auth=7f586da54e7ba9c28ff1d239893b702c8c86c87c48f3b814525192242391db63&focal=681%2C241&width=1100&height=550&quality=85
+    publisher: La Razón de México
+    caption: 'Two marijuana greenhouses secured in the Degollado operation, in the photo published with the La Razón report. Photo: Especial'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 86d89748de7436187ee03091dce1a95a
@@ -170,21 +175,27 @@ sources:
     publisher: Agencia EFE
     date: 2026-11-14
     language: es
+  - title: Inhabilitan en Jalisco laboratorios e invernaderos de marihuana ligados al 'Tío Lako'
+    url: https://www.razon.com.mx/estados/2026/11/14/inhabilitan-en-jalisco-laboratorios-e-invernaderos-de-marihuana-ligados-al-tio-lako/
+    publisher: La Razón de México
+    date: 2026-11-15
+    language: es
 open_questions:
     - The same page also reports the detention of Giancarlo 'N', alias El Raptor, in a separate Jalisco operation, a different event left out here.
     - The number of plants and the volume of cannabis substances found were not reported.
+    - A separate 13 November 2026 operation destroyed 38 poppy and marijuana plantations in Chihuahua, Oaxaca, Durango and Sinaloa and is not part of this event.
 ---
 
 Under Mexico's National Public Security Strategy, the National Guard and the
 Mexican Army, together with FEMDO of the Attorney General's Office and the
 Criminal Investigation Agency of the FGR, executed a technical investigation
 order at a property in the La Tinajera locality of the municipality of
-Degollado, Jalisco. [@1,4] On 13 November 2026 the Mexican Army, the National Guard and the FGR disabled two laboratories for producing synthetic drugs and two marijuana greenhouses in Degollado, Jalisco. [@7,9,12,13,14,17,18] The property was operated by a criminal group led by
+Degollado, Jalisco. [@1,4,19] On 13 November 2026 the Mexican Army, the National Guard and the FGR disabled two laboratories for producing synthetic drugs and two marijuana greenhouses in Degollado, Jalisco. [@7,9,12,13,14,17,18,19] The property was operated by a criminal group led by
 Heraclio 'N', alias Tío Laco, identified as the regional boss of the Jalisco New
-Generation Cartel in the area. [@1,4,8,9,10,12,17,18] The installations were operated by a group led by Heraclio Guerrero Martínez, alias Tío Lako, described as a regional CJNG chief with operations in Jalisco and Michoacán. [@6,11]
+Generation Cartel in the area. [@1,4,8,9,10,12,17,18,19] The installations were operated by a group led by Heraclio Guerrero Martínez, alias Tío Lako, described as a regional CJNG chief with operations in Jalisco and Michoacán. [@6,11]
 
 At the site the authorities seized firearms, cartridges, two synthetic-drug
-production centers and two marijuana greenhouses. [@1,4,5,8,9,11,12] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6,10,13,14,15,16,17,18] Machinery, tools and
+production centers and two marijuana greenhouses. [@1,4,5,8,9,11,12,19] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6,10,13,14,15,16,17,18,19] Mexico's Defence Secretariat estimated that, had production continued, the installations would have meant an economic loss of about 17 million pesos a month to criminal organisations, plus five million pesos of installed infrastructure. [@19] Machinery, tools and
 various items recovered on the property were used to make methamphetamine and to
 process and extract high-purity cannabidiol (CBD) and tetrahydrocannabinol (THC)
 from marijuana. [@2,4,6,9,10,17,18]
