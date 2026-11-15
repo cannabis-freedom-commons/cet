@@ -46,6 +46,11 @@ media:
     media_url: https://www.habername.com/d/news/306409.jpg
     publisher: Haber Name
     caption: Drugs seized in the Sanliurfa operation laid out for display.
+  - kind: photo
+    url: https://www.urfadasin.com/sanliurfada-jandarmadan-narkotik-operasyon5-gozalti
+    media_url: https://urfadasincom.teimg.com/crop/1280x720/urfadasin-com/uploads/2026/11/elek-esrar.png
+    publisher: Urfadasin
+    caption: Seized hashish packages and weighing scales displayed for the Şanlıurfa operation, in front of a sign naming the Şanlıurfa Provincial Gendarmerie Command.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 480d7a9f3ef8a21bf9affcb17b3c7be2
@@ -161,16 +166,23 @@ sources:
     publisher: Haber 1
     date: 2026-11-14
     language: tr
+  - title: Şanlıurfa'da Jandarmadan Narkotik Operasyon:5 Gözaltı
+    url: https://www.urfadasin.com/sanliurfada-jandarmadan-narkotik-operasyon5-gozalti
+    publisher: Urfadasin
+    date: 2026-11-14
+    language: tr
+open_questions:
+    - Accounts reproducing the Anadolu Ajansı report give the hashish as 176 kilograms and describe the 17-kilogram seizure as synthetic narcotic attributed to the gendarmerie, while Governor Hasan Şıldak's statement gives 176.5 kilograms of esrar from the gendarmerie and says police seized 17 kilograms of skunk.
 ---
 
 Şanlıurfa Governor Hasan Şıldak announced that gendarmerie and police anti-drug
 operations in Şanlıurfa seized a total of 193 kilograms 500 grams of drugs and
 that five suspects were detained. [@1,13] The five suspects were detained in
-connection with the seizures. [@2,4,5,8,9,11,12,14,15,17,18,19] The detained suspects were taken to the Provincial Gendarmerie Command for procedures. [@7,8,9,10,11,12,14,16,17,18,19,20,22]
+connection with the seizures. [@2,4,5,6,8,9,11,12,14,15,17,18,19,23] The detained suspects were taken to the Provincial Gendarmerie Command for procedures. [@7,8,9,10,11,12,14,16,17,18,19,20,22,23]
 
 The gendarmerie’s planned operation seized 173 kilograms of powdered toz esrar
 and 3 kilograms 500 grams of chunk kubar esrar, together 176 kilograms 500
-grams. [@1,4,13,21] Searches were carried out at addresses identified by the teams. [@5,6,8,9,10,11,12,14,17,18,19,20] The same gendarmerie total was described as 173 kilos of powdered
+grams. [@1,4,13,21] Searches were carried out at addresses identified by the teams. [@5,6,8,9,10,11,12,14,17,18,19,20,23] The same gendarmerie total was described as 173 kilos of powdered
 esrar and 3 kilos 500 grams of kubar esrar, making 176 kilos 500 grams in total.
 [@2] Police work in the same round of operations seized 17 kilograms of skunk.
 [@1,4,13]
