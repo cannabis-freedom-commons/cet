@@ -56,6 +56,11 @@ sources:
     publisher: El Marplatense
     date: 2026-11-14
     language: es
+  - title: 'Denuncian venta de drogas en un boliche del centro: aprehenden a tres hombres y secuestran tusi y marihuana'
+    url: https://mi8.com.ar/denunciaron-venta-de-drogas-en-un-boliche-del-centro-y-aprehendieron-a-tres-hombres-les-secuestraron-tusi-y-marihuana/
+    publisher: Mi 8
+    date: 2026-11-14
+    language: es
 open_questions:
   - No laboratory confirmation of the seized substances was reported; the tusi and pills were described only as a substance known as tusi and pills resembling ecstasy.
   - No value estimate, weight for the pills, or separate cannabis weight beyond 3.23 grams was published; synthetic-drug quantities are not counted as cannabis.
@@ -64,16 +69,16 @@ open_questions:
 ---
 
 Three men aged 46, 32 and 29 were apprehended inside The Clap nightclub in
-central Mar del Plata for an alleged breach of the drugs law. [@1] The operation
+central Mar del Plata for an alleged breach of the drugs law. [@1,3] The operation
 took place in the early hours of Saturday near Avenida Luro and Jujuy after
 police received an alert call warning of possible drug dealing inside the venue.
 [@1] Officers from the Grupo Técnico Operativo of Comisaría Primera and the
-Patrullas Command identified the three men and apprehended them. [@1] El
+Patrullas Command identified the three men and apprehended them. [@1,3] El
 Marplatense corroborates that the three were apprehended during the early hours
 over alleged dealing inside a macrocentre nightclub. [@2]
 
 During the operation officers seized approximately 15 grams of tusi, ten pills
-of different colours resembling ecstasy, and 3.23 grams of marijuana. [@1] On
+of different colours resembling ecstasy, and 3.23 grams of marijuana. [@1,3] On
 the prosecution's order officers also seized three mobile phones for the
 judicial proceedings. [@1] According to the first police inquiries, the men had
 allegedly been selling drugs inside the dance venue. [@1] El Marplatense gives
@@ -85,6 +90,5 @@ opened proceedings for breach of article 14, first paragraph, of Law 23,737.
 [@1] It ordered the three men to be notified that proceedings had been opened
 against them under article 60 of the Criminal Procedure Code. [@1] Despite the
 apprehensions, the prosecution ordered the three men released under article 161
-of the Criminal Procedure Code. [@1] The investigation continues under the
+of the Criminal Procedure Code. [@1,3] The investigation continues under the
 proceedings opened for the alleged drugs-law breach. [@1]
-
