@@ -55,6 +55,11 @@ sources:
     publisher: Europa Press
     date: 2026-11-13
     language: es
+  - title: 'Vier Einsätze mit fünf Festnahmen binnen weniger Stunden: Polizei auf Mallorca geht gegen Drogenhandel vor'
+    url: https://www.mallorcamagazin.com/nachrichten/lokales/2026/11/13/159757/vier-einsatze-mit-funf-festnahmen-binnen-weniger-stunden-polizei-auf-mallorca-geht-gegen-drogenhandel-vor.html
+    publisher: Mallorca Magazin
+    date: 2026-11-13
+    language: de
 open_questions:
   - No weight is given for the marijuana joint found on the fourth arrestee; it was not measured.
   - The article gives the interventions only as Friday night to Saturday and the following early morning; 13 November 2026 is the publication date and is used as the incident date.
@@ -63,10 +68,10 @@ open_questions:
 
 The Spanish National Police arrested five men on drug-trafficking charges in
 Palma in less than 24 hours, across four separate interventions in which
-officers seized tusi, cocaine, marijuana, ecstasy and hashish. [@1,2] In a search
+officers seized tusi, cocaine, marijuana, ecstasy and hashish. [@1,2,3] In a search
 at Son Gotleu, officers found about 50 grams of hashish and 250 euros in cash on
 a man of Algerian nationality, who was arrested on suspicion of a crime against
-public health. [@1] In the fourth intervention, officers found popper
+public health. [@1,3] In the fourth intervention, officers found popper
 containers, doses of tusi and cocaine, a marijuana joint, drug-consumption tools
 and cash on a driver of Colombian origin, who was brought to police premises as
-a suspected public-health offender. [@1]
+a suspected public-health offender. [@1,3]
