@@ -31,6 +31,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 23582b37eca74324b853efd2b3f72ab1
 tags: [rio-bueno, los-rios, microtrafficking, marijuana]
+media:
+  - kind: photo
+    url: https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/11/01/3-detenidos-en-plena-venta-de-droga-y-un-arma-incautada-deja-patrullaje-de-carabineros-en-rio-bueno.shtml
+    media_url: https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7003739-3-detenidos-en-plena-venta-de-droga-y-un-arma-incautada-deja-patrullaje-de-carabineros-en-rio-bueno-1.jpg
+    publisher: BioBioChile
+    caption: >-
+      A Carabinero handcuffs one of the people detained during the central Río Bueno street sale
+      stop. Photo: BioBioChile
 sources:
   - title: 3 detenidos en plena venta de droga y un arma incautada deja patrullaje de Carabineros en Río Bueno
     url: https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/11/01/3-detenidos-en-plena-venta-de-droga-y-un-arma-incautada-deja-patrullaje-de-carabineros-en-rio-bueno.shtml

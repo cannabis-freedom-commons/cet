@@ -35,6 +35,21 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 79420d80d19a904a22ee098efab89b62
 tags: [punta-arenas, magallanes, microtrafficking]
+media:
+  - kind: photo
+    url: https://laprensaaustral.cl/2026/11/04/dos-detenidos-por-transportar-marihuana-dosificada-al-interior-de-un-taxi-en-punta-arenas/
+    media_url: https://cdn.lpa.cl/2026/11/WhatsApp-Image-2026-11-04-at-2.04.00-PM-700x323.jpeg
+    publisher: La Prensa Austral
+    caption: >-
+      Carabineros Sección Centauro Magallanes evidence table with dosed marijuana bags, cash and
+      phones from the Punta Arenas taxi stop. Photo: La Prensa Austral
+  - kind: photo
+    url: https://www.itvpatagonia.com/noticias/policial-tribunales/04-11-2026/hallazgo-de-marihuana-en-taxi-derivo-en-formalizacion-de-dos-hombres-en-punta-arenas/
+    media_url: https://rhk91h.infiniteuploads.cloud/2026/11/WhatsApp-Image-2026-11-04-at-10.26.39-AM.jpeg
+    publisher: ITV Patagonia
+    caption: >-
+      The two men charged after the taxi seizure seated for formalization, with a security officer
+      behind them. Photo: ITV Patagonia
 sources:
   - title: Hallazgo de marihuana en taxi derivó en formalización de dos hombres en Punta Arenas
     url: https://www.itvpatagonia.com/noticias/policial-tribunales/04-11-2026/hallazgo-de-marihuana-en-taxi-derivo-en-formalizacion-de-dos-hombres-en-punta-arenas/

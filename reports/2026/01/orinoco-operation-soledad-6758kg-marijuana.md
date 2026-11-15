@@ -64,6 +64,7 @@ open_questions:
   - No arrests, value, or court outcome for the main Orinoco load were reported in the opened sources.
   - Two additional Zulia operations announced in the same briefing, with six detentions and 39.45 kg plus 50 kg of marijuana, are left out here as separate events.
   - The post is a short broadcast clip and gives no operation-level figures beyond the combined 7,148 kg total for all drugs, so its marijuana component cannot be separated.
+  - Globovisión’s lead image is a press-conference still of officials at a podium with a screen graphic, not a photograph of the Orinoco boat seizure, so no event photo is listed.
 ---
 
 Diosdado Cabello, Venezuela's interior, justice and peace minister, announced

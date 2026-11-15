@@ -34,6 +34,14 @@ data_sources:
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [gnb, caribe, francia]
+media:
+  - kind: photo
+    url: https://correodelcaroni.com/region/sucesos/venezuela-y-francia-incautan-29-toneladas-de-droga-en-el-caribe/
+    media_url: https://correodelcaroni.com/wp-content/uploads/2026/10/DROGA_Francia_Vzla.jpg
+    publisher: Correo del Caroní
+    caption: >-
+      Bundles from the Caribbean interdiction laid out on a pier with detainees and naval personnel
+      after the Venezuela–France operation. Photo: Correo del Caroní
 sources:
   - title: Incautan más de 2.900 kilos de droga en el Mar Caribe
     url: https://rnv.gob.ve/venezuela-incautan-2900-kilos-droga-mar-caribe/
@@ -73,7 +81,8 @@ sources:
     language: es
 open_questions:
   - The four people arrested are not named, and no exact position at sea is given.
-  - El Nacional’s picture is labelled an archive image, so no photo of this seizure is listed here.
+  - El Nacional’s picture is labelled an archive image; the Correo del Caroní pier photo of the mixed load is used instead.
+  - Radio Nacional de Venezuela led with a ministry comunicado graphic, not a photograph of the seizure.
   - The same seizure included 1,173.50 kg of cocaine, which is outside this report’s cannabis weight.
   - El Universal's Facebook video gives only the rounded 2.9 tonnes of cocaine and marijuana together and does not separate the marijuana weight, which comes from the interior ministry statement as reported by Prensa Latina.
   - The video does not say where in the Caribbean the boat was stopped or name the four detained people.

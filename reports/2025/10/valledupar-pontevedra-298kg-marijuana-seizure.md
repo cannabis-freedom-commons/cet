@@ -43,6 +43,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7994bf56b90fc7157d7b1ea1cf932960
 tags: [valledupar, cesar, la-guajira, esmeralda-plus]
+media:
+  - kind: photo
+    url: https://www.policia.gov.co/noticia/golpe-al-narcotrafico-en-valledupar
+    media_url: https://www.policia.gov.co/sites/default/files/noticias/GOLPE%20AL%20NARCOTR%C3%81FICO%20EN%20VALLEDUPAR%20SE%20INCAUTAN%20298%20KILOS%20DE%20MARIHUANA%20Y%20SE%20CAPTURAN%20DOS%20PERSONAS.jpg
+    publisher: Policía Nacional de Colombia
+    caption: >-
+      The two men detained with pressed marijuana packages arranged before a Policía Nacional
+      backdrop after the Pontevedra Norte stop. Photo: Policía Nacional de Colombia
 sources:
   - title: Golpe al narcotráfico en Valledupar
     url: https://www.policia.gov.co/noticia/golpe-al-narcotrafico-en-valledupar
@@ -58,7 +66,6 @@ open_questions:
   - One outlet spells the second surname Yiovany Atencia Patiño while the cited outlet spells it Yiovani Atencia Patiño; the latter spelling is used here.
   - The 81 million peso figure and the 596,000-dose estimate are the police estimate reported by the secondary outlet; the dose figure is not recorded as a cannabis figure.
   - No charges filed, custody decision or court outcome beyond placement at the disposal of the Attorney General's Office and transfer to the URI was reported.
-  - 'No event photo is listed: the police page images show unrelated community events, and the secondary-page images carry no caption or credit confirming they show this seizure.'
 ---
 
 The Metropolitan Police of Valledupar, through its Special Operations Group

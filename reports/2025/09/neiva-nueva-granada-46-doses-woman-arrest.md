@@ -35,6 +35,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 36ee2014de64fbffb3e0c8b1411f38b0
 tags: [neiva, huila, microtrafficking]
+media:
+  - kind: photo
+    url: https://www.policia.gov.co/noticia/capturada-en-flagrancia-por-trafico-estupefacientes
+    media_url: https://www.policia.gov.co/sites/default/files/noticias/Capturada%20en%20flagrancia%20por%20tr%C3%A1fico%20de%20estupefacientes%20%285%29.jpg
+    publisher: Policía Nacional de Colombia
+    caption: >-
+      The woman detained in the Nueva Granada raid stands between two officers behind a table of
+      marijuana doses marked by Policía Metropolitana de Neiva. Photo: Policía Nacional de Colombia
 sources:
   - title: Caught in the act of drug trafficking
     url: https://www.policia.gov.co/noticia/capturada-en-flagrancia-por-trafico-estupefacientes
@@ -45,7 +53,6 @@ open_questions:
   - No weight was published for the 46 doses, so no cannabis quantity in kilograms is recorded.
   - The woman's name, age and later court outcome beyond being placed at the disposal of the competent authority were not reported.
   - Only one accessible account was opened; social-media reposts of the police release could not be opened and are not used as evidence.
-  - The page images are unrelated latest-news thumbnails, so no event photo is listed.
 ---
 
 National Police officers in Neiva carried out a search and seizure operation in

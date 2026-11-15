@@ -47,6 +47,7 @@ open_questions:
   - No charge has been reported against the driver beyond traffic and drug-use findings; no court hearing or outcome has been published.
   - The driver is not named or described in any of the accounts.
   - The 3 November Osorno case, in which a fleeing car struck a Carabinero's motorcycle in Rahue Alto, is a separate event and is not covered here.
+  - Noticias Los Ríos led with a generic Carabineros vest design graphic, not a photo of this collision or the narcotest, so no event photo is listed.
 ---
 
 A first corporal of Carabineros was struck by a taxi colectivo while directing
