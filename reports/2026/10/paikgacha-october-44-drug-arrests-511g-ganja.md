@@ -51,6 +51,7 @@ open_questions:
   - Ajker Darpon describes four pieces of drug-laced syrup while Subornovumi says four bottles; this does not affect the cannabis figures.
   - The articles also summarise separate October kidnapping, theft, extortion and gambling cases in Paikgacha, which are left out of this report.
   - Only the publication date is known for the monthly tally; 31 October 2026 stands in for the end of the October operation period.
+  - Ajker Darpon and Subornovumi illustrate the monthly tally with a thana facade or unrelated social image rather than seizure photos, so no event media is listed.
 ---
 
 Police in Paikgacha upazila, Khulna district, say they arrested 44 suspected

@@ -51,6 +51,7 @@ open_questions:
   - No weight for the five packets of suspected marijuana was published.
   - The articles give 31 October 2026 as the publication and municipal dateline with no separate time for the stop, so the incident date uses that date.
   - No court outcome is reported; the detained man was placed at the disposal of the Public Prosecutor and responsibility is pending.
+  - Opened outlet photos show the accused with a motorcycle but not the five marijuana packets, so they are not listed as event media.
 ---
 
 Municipal intelligence police detained 20-year-old Óscar Ramón R. R. in the

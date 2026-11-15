@@ -32,6 +32,14 @@ status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 443dfde3e1cd4ffe7e346bf228fcce6a
 tags: [conchal, sao-paulo, cannabis, personal-use]
+media:
+  - kind: photo
+    url: https://rca1.com.br/abordagem-policial-termina-com-apreensao-de-cocaina-e-maconha-em-conchal/
+    media_url: https://rca1.com.br/wp-content/uploads/2026/11/conchal.jpg
+    publisher: RCA1
+    caption: >-
+      A marijuana portion, two cocaine vials and R$49 beside a 36º BPM/I Conchal
+      placard. Photo: RCA1 / PMESP
 sources:
   - title: Abordagem policial termina com apreensão de cocaína e maconha em Conchal
     url: https://rca1.com.br/abordagem-policial-termina-com-apreensao-de-cocaina-e-maconha-em-conchal/?amp=1

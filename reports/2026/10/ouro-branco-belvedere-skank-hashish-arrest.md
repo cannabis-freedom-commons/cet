@@ -34,6 +34,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c93a40eadc6993330e81f8ab29b571a6
 tags: [ouro-branco, minas-gerais, skank, hashish]
+media:
+  - kind: photo
+    url: https://www.acessa.com/regiao/2026/11/343495-homem-e-preso-por-trafico-de-drogas-com-skank-maconha-haxixe-e-lsd-em-ouro-branco.html
+    media_url: https://www.acessa.com/_midias/jpg/2026/11/03/1200x675/1_photo_2026_11_02_10_38_58-1047913.jpg
+    publisher: Acessa.com
+    caption: >-
+      Sealed PMMG evidence bags of skank, marijuana and hashish before a PMMG
+      banner after the Belvedere arrest. Photo: Acessa.com / PMMG
 sources:
   - title: A casa caiu! Homem é preso com skank, haxixe, maconha e LSD em Ouro Branco
     url: https://correiodeminas.com.br/2026/11/02/a-casa-caiu-homem-e-preso-com-skank-haxixe-maconha-e-lsd-em-ouro-branco/
@@ -60,7 +68,7 @@ open_questions:
   - The three LSD-like pills are a non-cannabis substance in the same seizure and are not counted as cannabis.
   - The reports say three men were approached but only J.I.P.S. was arrested; what happened to the other two men was not reported.
   - 31 October 2026 is used as the incident date because both reports place the night-time arrest on Saturday 31/10 and were published on 2 November 2026.
-  - The Acessa.com page carries a photo credited only as PMMG reproduction without describing its content, so it is not added as event media.
+  - Correio de Minas and Correio Online use the same PMMG evidence-table photo as Acessa.com; only one media entry is kept.
 ---
 
 Military Police of Minas Gerais officers arrested a 23-year-old man for drug

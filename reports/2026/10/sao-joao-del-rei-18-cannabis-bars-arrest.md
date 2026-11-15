@@ -30,6 +30,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fe49aa21fa8e3658f499a56704d9f29a
 tags: [sao-joao-del-rei, minas-gerais, drug-lab]
+media:
+  - kind: photo
+    url: https://tribunademinas.com.br/noticias/regiao/31-10-2026/homem-e-preso-por-produzir-drogas-em-sitio-no-municipio-de-sao-joao-del-rei.html
+    media_url: https://cdn.tribunademinas.com.br/wp-content/uploads/2026/10/fotos-5-4.png
+    publisher: Tribuna de Minas
+    caption: >-
+      Cannabis bars, a shotgun, ammunition and a scale in PMMG evidence bags after
+      the rural São João del-Rei lab raid. Photo: Tribuna de Minas / PMMG
 sources:
   - title: 'São João del-Rei: polícia apreende mais de 18 barras de maconha e outras drogas'
     url: https://www.jornalcorreiodacidade.com.br/noticias/51572-sao-joao-delrei-policia-apreende-mais-de-18-barras-de-maconha-e-outras-drogas

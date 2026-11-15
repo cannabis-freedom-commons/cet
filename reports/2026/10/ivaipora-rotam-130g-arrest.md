@@ -67,6 +67,7 @@ open_questions:
   - The man is not named and his age was not given.
   - No charge or court step was reported; the outlets say an arrest in flagrante was to be recorded but give no outcome.
   - The same page describes the incident as both in the afternoon and at about 18:30, so the time-of-day wording remains imprecise alongside the existing 18:26 account.
+  - Opened pages show only a cropped escort beside a ROTAM vehicle or a patrol SUV at night, with no cannabis evidence, so no event media is listed.
 ---
 
 Rotam, the Military Police's tactical mobile patrol unit, stopped a man on Rua

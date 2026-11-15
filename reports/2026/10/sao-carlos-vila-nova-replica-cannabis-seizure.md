@@ -50,6 +50,7 @@ open_questions:
   - Only one outlet's account could be opened, the Região em Destake tag listing and its full article, with no independent agency statement or second outlet found.
   - 31 October 2026 is inferred from the reported 22h50 Saturday timing and the article's 1 November 2026 publication date.
   - The two men were described as encaminhados and then liberados, so they are counted as two detained without evidence of a formal trafficking arrest.
+  - The Região em Destake roundup hero shows a taped brick and phone that match a different São Carlos trafficking stop on the same page, not the Vila Nova replica-and-portion seizure, so it is not listed as media.
 ---
 
 Military Police stopped two men at about 10:50 p.m. on 31 October 2026 on

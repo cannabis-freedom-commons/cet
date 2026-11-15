@@ -47,6 +47,7 @@ open_questions:
   - The article names the platform but gives no street address; the coordinates are for the airport railway station locality.
   - The 4 kg weight and the 100,000 taka value are police figures and were not independently confirmed.
   - The report gives no account of where the ganja came from or where the boy was taking it.
+  - Zoom Bangla's hero is a generic business-card style graphic, not a photo of this seizure, so no event media is listed.
 ---
 
 Railway police detained a 15-year-old boy with 4 kg of ganja on a platform of

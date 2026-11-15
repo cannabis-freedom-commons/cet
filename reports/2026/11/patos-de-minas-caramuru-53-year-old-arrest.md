@@ -34,6 +34,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8b1f91dbd1a71dc3aba148d671417500
 tags: [patos-de-minas, brazil, cannabis]
+media:
+  - kind: photo
+    url: https://www.patosja.com.br/Policiais/homem-tenta-esconder-crack-em-sofa-e-e-preso-por-trafico-de-drogas-em-patos-de-minas
+    media_url: https://img.patosja.com.br/1793712445830.webp
+    publisher: PatosJá
+    caption: >-
+      Loose cannabis, packaged portions, a phone and cash seized in the Caramuru
+      house searches. Photo: PatosJá
 sources:
   - title: Homem de 53 anos é preso por tráfico de drogas
     url: https://patosnoticias.com.br/homem-de-53-anos-e-preso-por-trafico-de-drogas/

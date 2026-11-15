@@ -30,6 +30,14 @@ data_sources:
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2a28c39609ead6e7e27e93c8c90f9e36
+media:
+  - kind: photo
+    url: https://www.cleidefreires.com.br/abordagem-em-festa-termina-com-apreensao-de-cocaina-e-maconha-em-macapa/
+    media_url: https://www.cleidefreires.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-07.01.58.jpg
+    publisher: Cleide Freires
+    caption: >-
+      Cocaine bindles and a marijuana wrap before a PMAP Força Tática placard after
+      the Jesus de Nazaré party stop. Photo: Cleide Freires / PMAP
 tags: [macapa, amapa, maconha, forca-tatica]
 sources:
   - title: Abordagem em festa termina com apreensão de cocaína e maconha em Macapá

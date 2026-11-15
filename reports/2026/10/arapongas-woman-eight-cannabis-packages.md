@@ -49,6 +49,7 @@ open_questions:
   - No weight for the eight packages of cannabis was published.
   - No arrest or charge has been reported, and the woman's name and age were not given.
   - The accounts rely on Military Police information given to local outlets; no police statement was opened.
+  - Opened pages use a stock hospital or generic police illustration rather than photos of the eight cannabis packages, so no event media is listed.
 ---
 
 The case was registered in Arapongas on the morning of Friday 30 October 2026.

@@ -34,6 +34,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 916bc364cc0550115dfb99d36e73f314
 tags: [barretos, sao-paulo, forca-tatica]
+media:
+  - kind: photo
+    url: https://regiaonews.net.br/2022/2026/10/forca-tatica-apreende-mais-de-14-kg-de-maconha-e-porcoes-de-cocaina-em-barretos/
+    media_url: https://regiaonews.net.br/2022/wp-content/uploads/2026/10/IMG-20261031-WA0020.jpg
+    publisher: Região News
+    caption: >-
+      Two marijuana bricks, cocaine sachets, a scale and a delivery bag before a
+      33º BPM/I Força Tática banner. Photo: Região News / PMESP
 sources:
   - title: Força Tática apreende mais de 1,4 kg de maconha e porções de cocaína em Barretos
     url: https://regiaonews.net.br/2022/2026/10/forca-tatica-apreende-mais-de-14-kg-de-maconha-e-porcoes-de-cocaina-em-barretos/

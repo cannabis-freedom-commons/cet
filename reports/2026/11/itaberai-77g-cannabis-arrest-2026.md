@@ -36,6 +36,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e684cf472a08fac25029767d90d38b27
 tags: [itaberai, goias, maconha, skank]
+media:
+  - kind: photo
+    url: https://www.jornalpopulacional.com.br/noticia/25373-suspeito-de-trafico-de-drogas-e-preso-com-maconha-skank-e-cocaina-em-itaberai.html
+    media_url: https://www.jornalpopulacional.com.br/storage/capaOriginal/noticia/1793569715.png
+    publisher: Jornal Populacional
+    caption: >-
+      Bags of marijuana and cocaine portions from the Itaberaí bedroom seizure.
+      Photo: Jornal Populacional
 sources:
   - title: Suspeito de tráfico de drogas é preso com maconha, skank e cocaína em Itaberaí
     url: https://www.jornalpopulacional.com.br/noticia/25373-suspeito-de-trafico-de-drogas-e-preso-com-maconha-skank-e-cocaina-em-itaberai.html
@@ -49,7 +57,7 @@ open_questions:
   - No weight was published for the 10 cocaine-like portions, so they are excluded from the cannabis weight.
   - No court outcome after presentation at the Central de Flagrantes was reported.
   - Only one source for this event was opened; searches for a second account found nothing.
-  - The page image has an empty caption and alt text, so whether it shows this seizure could not be verified and it is not listed as media.
+  - The Jornal Populacional hero shows cannabis and cocaine bags matching this bedroom seizure; no second outlet photo was found.
 ---
 
 A Military Police CPU patrol team located and stopped a suspected drug dealer

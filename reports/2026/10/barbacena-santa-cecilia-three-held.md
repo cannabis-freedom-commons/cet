@@ -32,6 +32,14 @@ data_sources:
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 9d21aedf3d21ecb45e8494a5a336f2c4
+media:
+  - kind: photo
+    url: https://vertentesdasgerais.com.br/trio-e-detido-com-maconha-apos-denuncia-de-trafico-de-drogas-no-santa-cecilia-em-barbacena/
+    media_url: https://vertentesdasgerais.com.br/wp-content/uploads/barbacena-trafico-de-drogas-barbacena.webp
+    publisher: Vertentes das Gerais
+    caption: >-
+      Two PMMG evidence bags of marijuana and a bagged banknote after the Santa
+      Cecília detentions. Photo: Vertentes das Gerais / PMMG
 tags: [barbacena, minas-gerais, maconha, military-police]
 sources:
   - title: Trio é detido com maconha após denúncia de tráfico de drogas no Santa Cecília, em Barbacena
