@@ -39,6 +39,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cc5f87c9fd0f768eff8b48d196ba0d0c
 tags: [san-luis-potosi, cerritos, marijuana]
+media:
+  - kind: photo
+    url: https://pulsoslp.com.mx/seguridad/dan-a-pistoleros-siete-anos-de-prision-por-portar-arma/2103687
+    media_url: https://blobcore.pulsoslp.com.mx/images/2026/11/04/dan-a-pistoleros-siete-anos-de-prision-por-portar-arma-8ab38040-focus-0-0-600-315.webp
+    publisher: Pulso Diario San Luis
+    caption: >-
+      FGR mugshots of José “N” and Pedro “N”, sentenced over the Cerritos firearm and marijuana case.
+      Photo: Pulso SLP / FGR
 sources:
   - title: Dan a pistoleros siete años de prisión por portar arma
     url: https://pulsoslp.com.mx/seguridad/dan-a-pistoleros-siete-anos-de-prision-por-portar-arma/2103687

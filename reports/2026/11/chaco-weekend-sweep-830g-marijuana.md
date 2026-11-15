@@ -41,6 +41,7 @@ sources:
     date: 2026-11-02
     language: es
 open_questions:
+  - Primera Línea illustrates the weekend sweep with a Policía del Chaco infographic of operations, detentions and seizures and no marijuana visible, so no event photo is listed.
   - The operations are dated only as Friday to Sunday before publication on 2 November 2026, so 1 November 2026 is used as the closing day of the sweep.
   - The sources say the 85 people were detained for various causes and do not link any specific detention or charge to the marijuana.
   - No names, drug charges or court outcomes were reported.

@@ -35,6 +35,14 @@ status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: d652368a44f2b38579e3c3a489fc6bad
 tags: [limeira, sao-paulo, maconha, forca-tatica, odecio-degan]
+media:
+  - kind: photo
+    url: https://policialpadrao.com.br/apreensao-de-mais-de-1-kg-de-maconha-em-limeira-no-bairro-odecio-degan-pol/
+    media_url: https://policialpadrao.com.br/wp-content/uploads/2026/11/imagem-52.jpg
+    publisher: Policial Padrão
+    caption: >-
+      Marijuana tubs and bags displayed on a PM hood with the Força Tática 38º BPM/I crest after the
+      Odécio Degan seizure. Photo: Policial Padrão / PMESP
 sources:
   - title: Polícia apreende mais de 1 kg de maconha em Limeira
     url: https://policialpadrao.com.br/apreensao-de-mais-de-1-kg-de-maconha-em-limeira-no-bairro-odecio-degan-pol/
@@ -47,6 +55,7 @@ sources:
     date: 2026-11-10
     language: pt
 open_questions:
+  - Rápido no Ar illustrates the Limeira arrest with a Força Tática 36º BPM/I evidence display that does not match Limeira's 38º BPM/I unit, so that photo is not listed.
   - 'The exact marijuana weight was not published: Policial Padrão reported only ''more than 1 kg'', while Rápido no Ar gave no quantities for any of the drugs.'
   - 'The accounts differ on the circumstances: Policial Padrão says officers saw three suspects near a children''s school, while Rápido no Ar describes one man fleeing from a patrol car on Rua Lauro Camargo da Silveira.'
   - The action is dated to the night of Tuesday 10 November in one account and to the afternoon of Wednesday 11 November in another passage; the Tuesday night date is used.

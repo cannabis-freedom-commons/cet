@@ -28,6 +28,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c5870f997cb5427994ce8bddd4a59408
 tags: [santiago-del-estero, narcomenudeo]
+media:
+  - kind: photo
+    url: https://www.diariopanorama.com/noticia/571798/golpe-al-narcomenudeo-barrio-tradicion-dos-detenidos-mas-80-envoltorios-droga-secuestrados
+    media_url: https://www.diariopanorama.com/fotos/notas/2026/11/03/narcomenudeo-571798-211904.jpg
+    publisher: Diario Panorama
+    caption: >-
+      The two handcuffed detainees with PFA officers after the barrio Tradición stop. Photo: Diario
+      Panorama
 sources:
   - title: 'Golpe al narcomenudeo en el barrio Tradición: dos detenidos y más de 80 envoltorios de droga secuestrados'
     url: https://www.diariopanorama.com/noticia/571798/golpe-al-narcomenudeo-barrio-tradicion-dos-detenidos-mas-80-envoltorios-droga-secuestrados

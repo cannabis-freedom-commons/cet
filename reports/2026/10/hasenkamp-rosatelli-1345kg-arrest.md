@@ -31,6 +31,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d87fee57395066e14bec7941ec8831e7
 tags: [entre-rios, hasenkamp, la-paz]
+media:
+  - kind: photo
+    url: https://www.analisisdigital.com.ar/judiciales/2026/11/03/capturaron-en-un-campo-de-hasenkamp-al-profugo-vinculado-al-cargamento-de-1345-kilos-de-marihuana-de-la-paz
+    media_url: https://www.analisisdigital.com.ar/sites/default/files/styles/grande_900x507/public/imagenes/noticiasDigitales/captura-bustos.jpg.webp?h=c74750f6&itok=uhS2tkOn
+    publisher: Análisis Digital
+    caption: >-
+      Officers escort the fugitive after the Hasenkamp field capture, with chase footage inset. Photo:
+      Análisis Digital
 sources:
   - title: 'Causa Rosatelli: el prófugo detenido en Hasenkamp habría participado del traslado de la marihuana'
     url: https://www.elonce.com/policiales/causa-rosatelli-revelaron-nuevos-detalles-de-la-investigacion-por-los-1-345-kilos-de-marihuana.htm

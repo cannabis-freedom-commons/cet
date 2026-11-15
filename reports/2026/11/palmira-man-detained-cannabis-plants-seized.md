@@ -43,6 +43,7 @@ sources:
     date: 2026-11-08
     language: es
 open_questions:
+  - Radio Regional illustrates the Palmira detention with a photo of Comisaría 21ª Santa Rosa and no plants or accused, so no event photo is listed.
   - No number of cannabis plants and no weight for the box of marijuana were published.
   - The six nylon wraps held a white substance described only as suspected cocaine; it is mentioned as context and no cocaine quantity is counted as cannabis.
   - 7 November 2026 is inferred as the Saturday night before the 8 November 2026 publication; no separate calendar date for the intervention is given.

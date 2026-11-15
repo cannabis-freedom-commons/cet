@@ -26,6 +26,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: adec5f2e74bb916df0ab6d5678023c50
 tags: [mexico-city, cuauhtemoc, guerrero]
+media:
+  - kind: photo
+    url: https://sociedad-noticias.com/2026/11/03/detienen-a-hombre-con-30-bolsas-de-presunta-marihuana/
+    media_url: https://sociedad-noticias.com/wp-content/uploads/2026/11/1-12.jpg
+    publisher: Sociedad Noticias
+    caption: >-
+      SSC mugshot of the 46-year-old detained with 30 bags of suspected marijuana in colonia
+      Guerrero. Photo: Sociedad Noticias / SSC
 sources:
   - title: Detienen a hombre con 30 bolsas de presunta marihuana
     url: https://sociedad-noticias.com/2026/11/03/detienen-a-hombre-con-30-bolsas-de-presunta-marihuana/

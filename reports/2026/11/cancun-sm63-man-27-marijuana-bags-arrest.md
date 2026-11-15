@@ -37,6 +37,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6a9bc5e6e9930c26b808dd2b72c6bc77
 tags: [cancun, quintana-roo, narcomenudeo, supermanzana-63]
+media:
+  - kind: photo
+    url: https://quintanaroohoy.com/seguridad/quintana-roo-registra-288-detenidos-en-una-semana/
+    media_url: https://quintanaroohoy.com/wp-content/uploads/2026/11/B4-2.jpg
+    publisher: Quintana Roo Hoy
+    caption: >-
+      The SM 63 detainee with SSC and Marina officers and marijuana bags on the table. Photo:
+      Quintana Roo Hoy / SSC
 sources:
   - title: Detienen a hombre con marihuana y cristal en Cancún
     url: https://quintanaroohoy.com/seguridad/quintana-roo-registra-288-detenidos-en-una-semana/

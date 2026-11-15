@@ -26,6 +26,7 @@ sources:
     date: 2026-11-05
     language: es
 open_questions:
+  - Milenio illustrates the GAM arrests with a December 2021 file photo of an unrelated cordoned scene, so no event photo is listed.
   - The article gives no separate date for the detention; 5 November 2026 is its publication date and is used as the incident date.
   - The suspected marijuana is counted only as 96 bags or doses with no weight, so no kilogram figure can be recorded.
   - No amount is given for the seized cash, so no cash or value figure is recorded.
