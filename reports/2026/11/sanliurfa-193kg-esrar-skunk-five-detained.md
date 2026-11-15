@@ -146,6 +146,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-14
     language: tr
+  - title: Şanlıurfa’da 176 kilogram esrar ele geçirildi
+    url: https://www.ensondakika.com.tr/sanliurfa-da-176-kilogram-esrar-ele-gecirildi/740602/
+    publisher: En Son Dakika
+    date: 2026-11-14
+    language: tr
 open_questions:
   - The Gazete Detay account describes 17 kilograms as synthetic drugs, whereas other accounts call it skunk; the cannabis classification and the 193.5-kilogram cannabis total are therefore uncertain.
   - Gazete Detay gives 176 kilograms of esrar, while other accounts give 176.5 kilograms.
@@ -154,11 +159,11 @@ open_questions:
 Şanlıurfa Governor Hasan Şıldak announced that gendarmerie and police anti-drug
 operations in Şanlıurfa seized a total of 193 kilograms 500 grams of drugs and
 that five suspects were detained. [@1,13] The five suspects were detained in
-connection with the seizures. [@2,4,5,8,9,11,12,14,15,17,18,19] The detained suspects were taken to the Provincial Gendarmerie Command for procedures. [@7,8,9,10,11,12,14,16,17,18,19]
+connection with the seizures. [@2,4,5,8,9,11,12,14,15,17,18,19] The detained suspects were taken to the Provincial Gendarmerie Command for procedures. [@7,8,9,10,11,12,14,16,17,18,19,20]
 
 The gendarmerie’s planned operation seized 173 kilograms of powdered toz esrar
 and 3 kilograms 500 grams of chunk kubar esrar, together 176 kilograms 500
-grams. [@1,4,13] Searches were carried out at addresses identified by the teams. [@5,6,8,9,10,11,12,14,17,18,19] The same gendarmerie total was described as 173 kilos of powdered
+grams. [@1,4,13] Searches were carried out at addresses identified by the teams. [@5,6,8,9,10,11,12,14,17,18,19,20] The same gendarmerie total was described as 173 kilos of powdered
 esrar and 3 kilos 500 grams of kubar esrar, making 176 kilos 500 grams in total.
 [@2] Police work in the same round of operations seized 17 kilograms of skunk.
 [@1,4,13]
