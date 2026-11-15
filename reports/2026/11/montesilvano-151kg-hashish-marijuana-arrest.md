@@ -53,6 +53,11 @@ sources:
     publisher: Rete8
     date: 2026-11-14
     language: it
+  - title: Montesilvano, sequestrati 750 grammi di cocaina e 1,5 chili di hashish – Notizie d'Abruzzo
+    url: https://www.notiziedabruzzo.it/cronaca-abruzzo/montesilvano-sequestrati-750-grammi-di-cocaina-e-15-chili-di-hashish.html
+    publisher: Notizie d'Abruzzo
+    date: 2026-11-14
+    language: it
 open_questions:
   - No separate date for the search or arrest was published; 14 November 2026 is the publication date of both accounts and is used as the incident date.
   - The 1.51 kg cannabis total combines the separately stated 1.5 kg of hashish and 10 g of marijuana; the 750 g of cocaine is excluded from cannabis figures.
@@ -66,17 +71,16 @@ quantity of drugs meant for dealing. [@1] After targeted surveillance, anti-drug
 officers entered the home he used in the Montesilvano urban area, which they
 said was used as a base for an established trafficking and dealing operation.
 [@1] After the operation, in agreement with the Pescara judicial authority, the
-arrested man was taken to the local prison at the authority's disposal. [@1]
+arrested man was taken to the local prison at the authority's disposal. [@1,3]
 
 In the home officers found 750 grams of cocaine, 1.5 kg of hashish and 10 grams
-of marijuana, together with material for packaging doses. [@1] The search also
+of marijuana, together with material for packaging doses. [@1,3] The search also
 found 12,330 euros in cash, considered proceeds of dealing and preventively
 seized, with police saying the man had no regularly recorded income for several
-years. [@1]
+years. [@1,3]
 
 A second account confirms the Squadra Mobile arrested the same unemployed
 Montesilvano resident with prior convictions for holding drugs meant for
 dealing. [@2] It independently confirms the seizure of 750 grams of cocaine, one
 and a half kilos of hashish and 10 grams of marijuana with dose-packaging
 material. [@2]
-
