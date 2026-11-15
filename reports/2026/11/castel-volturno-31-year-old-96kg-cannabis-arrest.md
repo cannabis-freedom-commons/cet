@@ -90,6 +90,16 @@ sources:
     publisher: Il Mattino
     date: 2026-11-14
     language: de
+  - title: 'In casa ha 11 chili di droga tra cocaina, marijuana e hashish: 31enne arrestato a Castel Volturno'
+    url: https://www.fanpage.it/napoli/in-casa-ha-11-chili-di-droga-tra-cocaina-marijuana-e-hashish-31enne-arrestato-a-castel-volturno/
+    publisher: Napoli Fanpage
+    date: 2026-11-14
+    language: it
+  - title: 'Castel Volturno - oltre 11 chili di droga nascosti in casa: arrestato un 31enne'
+    url: https://questure.poliziadistato.it/it/Caserta/articolo/32236af83e31a18e1584252994
+    publisher: Questura di Caserta - Polizia di Stato
+    date: 2026-11-14
+    language: it
 ---
 
 Officers of the investigative squad of the Castel Volturno police station
@@ -97,20 +107,20 @@ arrested a man in the act and took more than eleven kilograms of drugs off the
 local market. [@1] Police in Caserta dismantled what they described as a genuine
 drug store inside a private home on the afternoon of 13 November 2026. [@1] The
 man arrested is a 31-year-old local already known to investigators, accused of
-possessing drugs with intent to deal. [@1,7] The operation capped targeted
+possessing drugs with intent to deal. [@1,7,11] The operation capped targeted
 investigative work against dealing in the Domizio area, backed on the ground by
 dog units brought in from Naples and Ladispoli. [@1,8]
 
 Once the suspected storage point was identified, officers entered the
 31-year-old's property and carried out a home search. [@1] Inside the flat they
 found a large mixed load of about 6.2 kilos of hashish, 3.4 kilos of marijuana
-and 1.6 kilos of cocaine. [@1,5,6,7,8,9] A precision scale and everything needed to cut
+and 1.6 kilos of cocaine. [@1,5,6,7,8,9,10] A precision scale and everything needed to cut
 and package individual doses was kept alongside the drugs. [@1] CasertaFocus
 reports the same breakdown of about 6.2 kilograms of hashish, 3.4 kilograms of
 marijuana and 1.6 kilograms of cocaine, over 11 kilograms in total. [@2]
 
 After formalities at the station, the suspect was taken to the local prison on
-the order of the prosecutor's office at the Santa Maria Capua Vetere court. [@1,7]
+the order of the prosecutor's office at the Santa Maria Capua Vetere court. [@1,7,11]
 Il Mattino likewise says the 31-year-old was taken to the Santa Maria Capua
 Vetere prison. [@3,5,6,8,9] AstraNews gives the same seizure figures of about 6.2
 kilograms of hashish, 3.4 kilograms of marijuana and 1.6 kilograms of cocaine, a
