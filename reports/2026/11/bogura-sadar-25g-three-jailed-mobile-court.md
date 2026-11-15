@@ -59,29 +59,31 @@ sources:
     publisher: North Capital News
     date: 2026-11-14
     language: bn
+  - title: 3 arrested with 25 grams of ganja in Bogura, sentenced by mobile court
+    url: https://www.thesouthasiantimesbd.com/nationwide/news/27531
+    publisher: The South Asian Times
+    date: 2026-11-14
 open_questions:
-  - The account rests on one accessible local report citing the Department of Narcotics Control.
-  - The 50-taka fine is the amount imposed on each of the three, not a combined total.
-  - The prison term is recorded as a 7-day to 3-month range because the three sentences differed.
-  - No laboratory confirmation or later court outcome beyond the mobile-court sentences was reported.
+    - The 50-taka fine is the amount imposed on each of the three, not a combined total.
+    - The prison term is recorded as a 7-day to 3-month range because the three sentences differed.
+    - No laboratory confirmation or later court outcome beyond the mobile-court sentences was reported.
 ---
 
 The Department of Narcotics Control arrested three people with 25 grams of ganja
-during an anti-drug drive in Bogura. [@1] The drive ran from 3:00 pm to 3:40 pm
+during an anti-drug drive in Bogura. [@1,2] The drive ran from 3:00 pm to 3:40 pm
 on Saturday 14 November in front of the Baytur Rahman Central Mosque and in the
 Chaksutrapur Chamragudam area of Bogura Sadar Upazila. [@1] An operational team
 of DNC Bogura's Ka circle conducted the drive, led by Assistant Commissioner and
 Executive Magistrate Md Obaidur Rahman of the Bogura district administration.
-[@1]
+[@1,2]
 
 Those arrested were Kiron Harijan (30) of Kalitala Cotton Mill Harijan Colony in
 Bogura Sadar, Md Rimon Islam (21) of Durgahata in Gabtali Upazila, and Md Shamim
-Sheikh (30) of Badurtala in Bogura Sadar. [@1] A mobile court then gave Kiron
+Sheikh (30) of Badurtala in Bogura Sadar. [@1,2] A mobile court then gave Kiron
 Harijan seven days of simple imprisonment and a 50-taka fine, Rimon Islam 15
-days and a 50-taka fine, and Shamim Sheikh three months and a 50-taka fine. [@1]
+days and a 50-taka fine, and Shamim Sheikh three months and a 50-taka fine. [@1,2]
 
 The recovered 25 grams of ganja was destroyed on the spot on the executive
 magistrate's order, according to DNC sources. [@1] The Department of Narcotics
 Control said its anti-drug drives would continue with the aim of building a
 drug-free Bangladesh. [@1]
-
