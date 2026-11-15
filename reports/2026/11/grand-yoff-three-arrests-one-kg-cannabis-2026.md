@@ -55,20 +55,19 @@ sources:
     publisher: Seneweb
     date: 2026-11-14
     language: fr
-open_questions:
-  - No names or ages were given for the three suspects
-  - No court outcome has been reported; the investigation was still ongoing at the time of publication
-  - The 89,500 FCFA figure is the total amount found; no breakdown between suspects was given
+  - title: 'Grand-Yoff: Three individuals arrested for trafficking Indian hemp, one kilogram of drugs seized'
+    url: https://www.seneweb.com/en/news/Societe/grand-yoff-trois-individus-arretes-pour-trafic-de-chanvre-indien-un-kilogramme-de-drogue-saisi_n_999003578.html
+    publisher: Seneweb
+    date: 2026-11-14
 ---
 
 On 13 November 2026, officers of the Grand-Yoff district police station arrested
 three individuals in three sectors of the commune: Senzela, Cité Sonatel and the
-Arafat neighbourhood. [@1] The three men are suspected of possession, packaging
-and trafficking of cannabis (chanvre indien). [@1] Officers seized one kilogram
+Arafat neighbourhood. [@1,2] The three men are suspected of possession, packaging
+and trafficking of cannabis (chanvre indien). [@1,2] Officers seized one kilogram
 of cannabis, several cones of the drug, a quantity of cannabis in bulk,
-packaging equipment, a knife and a total of 89,500 FCFA. [@1]
+packaging equipment, a knife and a total of 89,500 FCFA. [@1,2]
 
 The three suspects were placed in police custody and the seized items were
 sealed; the investigation continues to identify any suppliers or accomplices.
-[@1]
-
+[@1,2]
