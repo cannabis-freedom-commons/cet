@@ -57,10 +57,15 @@ sources:
     publisher: Radio Senise Centrale
     date: 2026-11-14
     language: it
+  - title: "\U0001F6A8 ARRESTATO 48enne a Matera: scoperti cocaina, hashish e soldi nel garage di casa"
+    url: https://filippomele.blogspot.com/2026/11/arrestato-48enne-matera-scoperti.html
+    publisher: Filippo Mele Blog
+    date: 2026-11-14
+    language: it
 ---
 
 State police in Matera arrested a 48-year-old Matera man in the act, holding him
-responsible for dealing and possessing drugs for dealing. [@1] Officers had seen
+responsible for dealing and possessing drugs for dealing. [@1,4] Officers had seen
 two men enter the garage of the 48-year-old's home during the operation. [@1]
 One of the two left shortly afterwards by car but was followed and intercepted
 by a Squadra Mobile officer. [@1] That man was found with a 0.6-gram dose of
@@ -73,13 +78,13 @@ cabinets officers found another 19.2 grams of cocaine in various containers,
 some already wrapped in small packets called cipollotti, plus a jar with 0.8
 grams of cocaine and two pieces of hashish totalling 9.6 grams. [@1,3] Officers
 also seized two precision scales, cutting and packaging material and 3,265 euros
-in cash treated as likely dealing proceeds. [@1,3] Police described the overall
+in cash treated as likely dealing proceeds. [@1,3,4] Police described the overall
 result as almost 100 grams of cocaine, 9.6 grams of hashish, over 3,000 euros in
 cash and dose-packaging material from a Squadra Mobile operation against dealing
 in the north of the city. [@1]
 
 The 48-year-old was taken to Matera district prison at the disposal of the
 judicial authority. [@1] After a validation hearing he was placed under house
-arrest with an electronic bracelet. [@2,3] The man found with the 0.6-gram dose
+arrest with an electronic bracelet. [@2,3,4] The man found with the 0.6-gram dose
 was instead reported to the prefect in administrative proceedings for personal
 possession. [@1]
