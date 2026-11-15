@@ -626,7 +626,9 @@ position is kept, so the same queries run once the queue has room; held-back can
 recorded as seen and come back in later scans while their lookback still returns them. The default
 `-1` sets the target automatically to four times the total research workers (at least 8); `0` turns
 backpressure off; values up to 10000 are accepted. The submissions page shows the waiting count
-against it (`994/10,000`). User and Nostr submissions are never held back.
+against it (`994/10,000`). User and Nostr submissions are never held back by the target; every
+submission is refused ("queue full") only once the jobs queued or running reach the target plus
+1,000 (at least 1,000), which leaves people room while discovery keeps the queue at its target.
 
 ```dotenv
 HARVEST_QUEUE_TARGET=-1

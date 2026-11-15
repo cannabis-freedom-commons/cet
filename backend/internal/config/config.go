@@ -398,6 +398,13 @@ func (c Config) QueueTarget() int {
 	}
 	return max(8, 4*c.MaxWorkers())
 }
+
+// MaxQueue is how many research jobs may be queued or running before submissions are refused:
+// the discovery target plus 1,000 jobs' room for people's own submissions and running jobs,
+// and never under 1,000.
+func (c Config) MaxQueue() int {
+	return max(1000, c.QueueTarget()+1000)
+}
 func (c Config) MaxWorkers() int {
 	if len(c.ResearchAgents) == 0 {
 		return max(1, c.WorkerConcurrency)

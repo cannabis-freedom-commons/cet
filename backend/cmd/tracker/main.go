@@ -122,6 +122,7 @@ func run() error {
 		return err
 	}
 	defer s.Close()
+	s.MaxQueue = c.MaxQueue()
 	ctx, cancel := signal.NotifyContext(context.Background(), os.Interrupt, syscall.SIGTERM)
 	defer cancel()
 	if *resolve != "" {

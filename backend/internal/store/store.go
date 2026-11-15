@@ -29,8 +29,23 @@ var ErrBudget = errors.New("daily research budget reached")
 type Store struct {
 	DB   *sql.DB
 	Read *sql.DB
+	// MaxQueue is how many research jobs may be queued or running before new submissions are
+	// refused ("queue full"); 0 means DefaultMaxQueue. The backend sets it from the discovery
+	// queue target with room to spare (config.Config.MaxQueue), so people's own submissions still
+	// get in while discovery keeps the queue at its target.
+	MaxQueue int
 	// the site's latest Pages build on GitHub, as the publication loop last saw it (worker/batch.go)
 	deployRun atomic.Pointer[DeployRun]
+}
+
+// DefaultMaxQueue is the queue limit of a store whose MaxQueue is not set.
+const DefaultMaxQueue = 1000
+
+func (s *Store) maxQueue() int {
+	if s.MaxQueue > 0 {
+		return s.MaxQueue
+	}
+	return DefaultMaxQueue
 }
 
 // DeployRun is a run of the site's Pages workflow on GitHub.
@@ -239,7 +254,7 @@ func (s *Store) Accept(ctx context.Context, in Intake) (string, error) {
 	if err = tx.QueryRowContext(ctx, "SELECT count(*) FROM jobs WHERE status IN ('queued','running')").Scan(&depth); err != nil {
 		return "", err
 	}
-	if depth >= 1000 {
+	if depth >= s.maxQueue() {
 		return "", errors.New("queue full")
 	}
 	id := ID()
