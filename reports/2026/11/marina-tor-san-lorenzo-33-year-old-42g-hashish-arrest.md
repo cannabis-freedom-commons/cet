@@ -65,6 +65,11 @@ sources:
     publisher: Quotidiano La Voce
     date: 2026-11-13
     language: it
+  - title: 'ARDEA | Cocaina, hashish, un revolver e oltre 10mila euro in casa: arrestato un 33enne – Mondoreale'
+    url: https://www.mondoreale.it/2026/11/ardea-cocaina-hashish-un-revolver-e-oltre-10mila-euro-in-casa-arrestato-un-33enne/
+    publisher: Mondoreale
+    date: 2026-11-14
+    language: it
 open_questions:
   - No explicit calendar date for the afternoon raid was published; 12 November 2026 is inferred from the Carabinieri statement of 13 November saying the operation began the previous afternoon.
   - The 42 grams of hashish and 1.7 kg of cocaine are reported as seized amounts with no laboratory confirmation reported.
@@ -75,26 +80,25 @@ open_questions:
 
 Carabinieri of Marina di Tor San Lorenzo arrested a 33-year-old man at Marina di
 Tor San Lorenzo after drugs, a pistol with an erased serial number and cash were
-found in his home. [@1] Officers reached the man after observation, territorial
+found in his home. [@1,4] Officers reached the man after observation, territorial
 checks, prolonged stakeouts and investigative findings. [@1] The operation began
 the previous afternoon when officers, after prolonged stakeouts and operational
-checks, burst into the man's home. [@2] A second account describes the haul as a
+checks, burst into the man's home. [@2,4] A second account describes the haul as a
 maxi seizure of drugs and a clandestine weapon at Marina di Tor San Lorenzo in
 Ardea. [@3]
 
 The main haul was 1.7 kilograms of cocaine, partly still in a compact block and
 partly already divided into smaller wraps ready to be put on the dealing market
-according to investigators. [@1] Officers also seized 42 grams of hashish during
-the house search. [@1] Investigators treated the home as a storage and supply
+according to investigators. [@1,4] Officers also seized 42 grams of hashish during
+the house search. [@1,4] Investigators treated the home as a storage and supply
 centre for the drug. [@2] The search also uncovered a .45-calibre revolver with
 an erased serial number and, with the weapon, 14 rounds of the same calibre;
-officers also seized 10,050 euros in cash. [@1] The clandestine pistol will
+officers also seized 10,050 euros in cash. [@1,4] Investigators considered the 10,050 euros in cash found in the home compatible with the proceeds of illicit activity. [@4] The clandestine pistol will
 undergo ballistic and fingerprint checks to verify whether it was used in recent
 crimes or bloodshed in the area. [@1]
 
 The 33-year-old was arrested in flagrante on suspicion of possession of drugs
-for dealing and illegal possession of a clandestine weapon and ammunition. [@1]
-He was taken to Velletri prison at the disposal of the judicial authority. [@2]
+for dealing and illegal possession of a clandestine weapon and ammunition. [@1,4]
+He was taken to Velletri prison at the disposal of the judicial authority. [@2,4]
 The proceedings remain at the preliminary-investigation stage and the suspect is
 presumed innocent until a final conviction. [@2]
-
