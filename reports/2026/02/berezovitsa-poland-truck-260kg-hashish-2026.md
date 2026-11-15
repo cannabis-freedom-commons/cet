@@ -60,14 +60,11 @@ sources:
     publisher: Белорусское телеграфное агентство (БЕЛТА)
     date: 2026-02-17
     language: ru
-open_questions:
-  - The article gives no separate date for the border stop, the truck inspection or the detention; 17 February 2026 is its publication date and is used as the incident date.
-  - The State Customs Committee's English rendering names the crossing after the town of Berestovitsa; this report uses the article's own spelling, Berezovitsa.
-  - No home town, name or custody details were published for the detained Russian citizen, and the article does not say what he is charged with.
-  - No value or street price for the 260 kg was published, so none is recorded.
-  - The article says members of the group face up to 20 years, which is the penalty the charge could carry rather than a sentence, so it is not recorded as a figure.
-  - The single large photo is credited to the State Customs Committee of Belarus without a caption confirming it depicts this seizure, and it is not established which of the three page images show the drugs.
-  - Only one opened source covers this event; the customs committee's own statement on this seizure was not located, so the account rests on this outlet's relay of it.
+  - title: Сотрудники белорусской таможни изъяли 260 кг гашиша
+    url: https://belta.by/socium/view/sotrudniki-belorusskoj-tamozhni-izjjali-260-kg-gashisha-765077-2026/
+    publisher: Белорусское телеграфное агентство (БЕЛТА)
+    date: 2026-02-18
+    language: ru
 ---
 
 Belarusian customs officers found 100 briquettes of a brown substance in a truck
@@ -79,12 +76,12 @@ the Eurasian Economic Union. [@1]
 The truck belonged to a Polish carrier and its papers declared a consolidated
 cargo from Poland for a Belarusian recipient who was not suspected of knowing
 about the hashish hidden among the declared goods. [@1] Officers sent the truck
-from the border to the Bruzgi-TLC customs clearance post for inspection. [@1]
+from the border to the Bruzgi-TLC customs clearance post for inspection. [@1,3]
 The State Committee of Forensic Examinations confirmed the substance was hashish
-weighing 260 kg. [@1]
+weighing 260 kg. [@1,3]
 
 Investigative steps and joint operational-search work with Russian customs
 officers identified and detained the consignee, a 41-year-old Russian citizen.
-[@1] Grodno Regional Customs and the Federal Customs Service's Central
+[@1,3] Grodno Regional Customs and the Federal Customs Service's Central
 Operational Customs in Russia opened criminal cases over the seizure. [@1]
 Members of the group face up to 20 years in prison. [@1]
