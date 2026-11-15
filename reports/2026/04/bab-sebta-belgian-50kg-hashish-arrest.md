@@ -60,6 +60,11 @@ sources:
     publisher: El Faro de Ceuta
     date: 2026-04-18
     language: es
+  - title: Un Belge arrêté à la frontière marocaine avec 50 kilos de haschich cachés dans sa voiture | 7sur7.be
+    url: https://www.7sur7.be/faits-divers/un-belge-arrete-a-la-frontiere-marocaine-avec-50-kilos-de-haschich-caches-dans-sa-voiture~adaed605/
+    publisher: 7sur7.be
+    date: 2026-04-20
+    language: fr
 open_questions:
   - The suspect's name was not published.
   - The 50 kg figure is reported as approximate, not an exact laboratory weight.
@@ -68,7 +73,7 @@ open_questions:
 ---
 
 Moroccan customs and police foiled a smuggling attempt at the Bab Sebta border
-post on Saturday morning. [@1] A Belgian national was arrested with a large
+post on Saturday morning. [@1,3] A Belgian national was arrested with a large
 quantity of drugs concealed in his vehicle. [@1] The driver was a 58-year-old
 Belgian citizen who had arranged a secret hiding place under the rear seat. [@1]
 On the competent prosecutor's instructions, the man was placed in custody and
@@ -77,16 +82,15 @@ says the suspect was placed at the disposal of Tetouan's provincial judicial
 police. [@2]
 
 During the search, officers found about 50 kilograms of hashish in a light
-Peugeot heading toward Ceuta. [@1] Spanish reporting confirms 50 kilos were
+Peugeot heading toward Ceuta. [@1,3] Spanish reporting confirms 50 kilos were
 intercepted in a Peugeot driven by a 58-year-old Belgian. [@2] The car's chassis
 had been specially modified to hide the drug plates professionally and evade
 controls. [@1] Officers found a hidden compartment under the rear seat where the
-hashish plates were concealed. [@2] The drugs and the vehicle were seized. [@2]
+hashish plates were concealed. [@2,3] The drugs and the vehicle were seized. [@2]
 
 An in-depth investigation is under way to identify possible ramifications of the
-criminal network. [@1] The arrest came amid heightened border surveillance whose
+criminal network. [@1,3] The arrest came amid heightened border surveillance whose
 effectiveness was being debated after another heavily loaded vehicle evaded
 controls earlier that week. [@1] Checks on vehicles crossing from Morocco to
 Ceuta are described as exhaustive, yet large hashish loads still get through.
 [@2]
-
