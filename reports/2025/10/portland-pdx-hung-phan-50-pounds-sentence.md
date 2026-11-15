@@ -42,21 +42,26 @@ sources:
     url: https://www.kptv.com/video/2026/11/10/man-arrested-pdx-with-50-lbs-marijuana-says-he-planned-sell-it-another-state/
     publisher: KPTV (FOX 12 Oregon)
     date: 2026-11-10
+  - title: 波特蘭機場查獲50磅大麻 男子自爆多次成功帶毒品登機
+    url: https://portlandchinesetimes.com/%e6%b3%a2%e7%89%b9%e8%98%ad%e6%a9%9f%e5%a0%b4%e6%9f%a5%e7%8d%b250%e7%a3%85%e5%a4%a7%e9%ba%bb%e3%80%80%e7%94%b7%e5%ad%90%e8%87%aa%e7%88%86%e5%a4%9a%e6%ac%a1%e6%88%90%e5%8a%9f%e5%b8%b6%e6%af%92%e5%93%81/
+    publisher: 波特蘭新聞
+    date: 2026-11-14
+    language: zh
 ---
 
 Hung Phan was arrested at Portland International Airport in October 2025 with
-more than 50 pounds of marijuana in his checked bags. [@1,2] He was charged with
+more than 50 pounds of marijuana in his checked bags. [@1,2,3] He was charged with
 unlawful possession, illegal export and unlawful delivery of marijuana. [@1]
 Phan said he was trying to sell the marijuana to a dealer in another state. [@1,2]
 He told FOX 12 he flew with suitcases full of cannabis because he had gotten
-away with it before and was in dire need of cash. [@1] Asked whether he had
+away with it before and was in dire need of cash. [@1,3] Asked whether he had
 shipped marijuana through the airport before, Phan answered that he had done so
 many times in the past. [@1]
 
 Phan said he sealed the marijuana in bags, placing about 20 bags in each piece
 of luggage. [@1] He packed dryer sheets to mask the smell and glued the zippers
-shut. [@1] After his arrest, Phan took a plea deal and was sentenced to 36
-months of probation and fined $12,750. [@1] As of November 2026, Phan was about
+shut. [@1,3] After his arrest, Phan took a plea deal and was sentenced to 36
+months of probation and fined $12,750. [@1,3] As of November 2026, Phan was about
 halfway through his probation. [@1]
 
 A Multnomah County prosecutor said TSA notifies Port of Portland police when it
