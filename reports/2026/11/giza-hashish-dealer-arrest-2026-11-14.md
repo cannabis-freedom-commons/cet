@@ -63,23 +63,29 @@ sources:
     publisher: نيوز رووم
     date: '2026-11-14'
     language: ar
-open_questions:
-  - >-
-    Youm7's article image is dated October 2025 and shows no hashish from this Giza arrest, so no
-    event photo is listed.
+  - title: ضبط تاجر مخدرات بحوزته كمية من الحشيش ومبلغ مالي في الجيزة
+    url: https://akhbarelyom.com/news/newdetails/4906807/1/%D8%B6%D8%A8%D8%B7-%D8%AA%D8%A7%D8%AC%D8%B1-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-%D9%83%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D9%85
+    publisher: بوابة أخبار اليوم
+    date: 2026-11-14
+    language: ar
+  - title: حبس تاجر حشيش ضبط بحوزته كمية من المخدرات فى الجيزة 4 أيام
+    url: https://youm7.com/story/2026/11/14/%D8%AD%D8%A8%D8%B3-%D8%AA%D8%A7%D8%AC%D8%B1-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%B6%D8%A8%D8%B7-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-%D9%83%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%89-%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9/7618526
+    publisher: اليوم السابع
+    date: 2026-11-14
+    language: ar
 ---
 
 Giza Security Directorate officers arrested a drug dealer found with a quantity
-of hashish before he could sell it to customers across the governorate. [@1,2]
+of hashish before he could sell it to customers across the governorate. [@1,2,3]
 Giza criminal investigators had received information that the man was trading in
 narcotics and promoting hashish to drug users while operating across several
-areas. [@1,2]
+areas. [@1,2,3]
 
 After completing the required legal procedures, detectives prepared an ambush
-and arrested the accused. [@1] Officers searching him found a quantity of
+and arrested the accused. [@1,3] Officers searching him found a quantity of
 hashish, cash said to be proceeds of sale and a mobile phone he used to contact
-customers. [@1,2] When confronted, he admitted possessing the drugs for sale and
-said the cash came from sales and the phone was for contacting customers. [@1,2]
+customers. [@1,2,3] When confronted, he admitted possessing the drugs for sale and
+said the cash came from sales and the phone was for contacting customers. [@1,2,3]
 
 Police filed a report on the incident and referred the accused to the Public
-Prosecution, which took over the investigation. [@1,2]
+Prosecution, which took over the investigation. [@1,2,3] The Giza Public Prosecution ordered the dealer held for four days pending investigation. [@4]
