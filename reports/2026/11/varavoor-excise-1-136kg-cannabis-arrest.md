@@ -61,13 +61,16 @@ sources:
     publisher: News@Net
     date: '2026-11-14'
     language: ml
+  - title: കഞ്ചാവുമായി യുവാവ് പിടിയിൽ
+    url: https://www.keralakaumudi.com/case-diary/kerala/kerala-1826558
+    publisher: Kerala Kaumudi
+    date: 2026-11-15
+    language: ml
 open_questions:
-  - >-
-    The article gives no separate date for the search and arrest; 14 November 2026 is its
-    publication date and is used as the incident date.
-  - The 1.136 kg figure is reported as cannabis without laboratory confirmation stated.
-  - No charges, custody details or court outcome were reported.
-  - The account rests on a single short report; no second source for this event was found.
+    - The search took place on a Friday night; 14 November 2026, the date of the first publication, is used as the incident date, while the second account was published on 15 November 2026.
+    - The cannabis figures are reported without laboratory confirmation stated.
+    - No charges, custody details or court outcome were reported.
+    - Sources give the amount as 1.136 kg and 1.13 kg; the report uses the more precise 1.136 kg figure.
 media:
   - kind: photo
     url: https://www.newsatnet.com/news/kerala/388096/
@@ -78,11 +81,11 @@ media:
       News At Net
 ---
 
-Excise officers arrested a youth in Varavoor with 1.136 kg of cannabis. [@1] The
+Excise officers arrested a youth in Varavoor with 1.136 kg of cannabis. [@1,2] Assistant excise inspectors, a preventive officer and civil excise officers named in the account were also in the search team. [@2] The search team was led by Vadakkanchery Excise Range Inspector A. B. Thomas. [@2] The
 person held was identified as Sanjay of Ganapathy Parambil, a Varavoor native.
-[@1]
+[@1,2] Sanjay was 27 years old and his house is at Avasherimukku, Varavoor. [@2]
 
 Excise had kept him under observation for the previous few days after a tip that
 he was selling intoxicants on a large scale. [@1] Officers found the cannabis
-during a search of his house. [@1] The accused said the cannabis had been kept
+during a search of his house. [@1,2] The accused said the cannabis had been kept
 for sale centred on festivals in the area. [@1]
