@@ -47,6 +47,11 @@ sources:
     publisher: نيوز رووم
     date: 2026-11-14
     language: ar
+  - title: حقيقة فيديو ترويج المخدرات بالغربية.. ضبط 3 عاطلين بحوزتهم 7 كيلو حشيش وآيس وبندقية آلية - تليجراف مصر
+    url: https://www.egypttelegraph.com/article/295941/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%B6%D8%A8%D8%B7-3
+    publisher: تليجراف مصر
+    date: 2026-11-14
+    language: ar
 media:
   - kind: photo
     url: https://www.youlyou.com/94304
@@ -58,21 +63,26 @@ media:
     media_url: https://media.elbalad.news/2026/11/large/728752937161202611140526252625.jpg
     publisher: صدى البلد
     caption: Photo labelled 'the accused' published with the El Balad report on the Gharbia arrests.
+  - kind: photo
+    url: https://www.egypttelegraph.com/article/295941/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%B6%D8%A8%D8%B7-3
+    media_url: https://media.egypttelegraph.com/2026/11/large/29261782584339202611140525492549.jpg
+    publisher: تليجراف مصر
+    caption: Photo labelled 'the accused' published with the Egypt Telegraph report on the Gharbia arrests.
 ---
 
 Security services uncovered the circumstances of a post supported by a video
-clip that had been circulated on social media. [@1,3,4] The poster complained that
+clip that had been circulated on social media. [@1,3,4,6] The poster complained that
 the occupants of a private car were promoting narcotic substances in a village
 in Gharbia Governorate. [@1,2,3,4,5] Investigators identified the car appearing in the
 video and arrested those responsible for the incident. [@1,4] The three are
 unemployed men, two of whom have criminal records, and they live in Gharbia and
-Kafr El Sheikh governorates. [@1,2,3,4,5]
+Kafr El Sheikh governorates. [@1,2,3,4,5,6]
 
 After legal procedures were completed, officers arrested the suspects while they
 held more than 7 kilograms of hashish. [@1,2,3,4,5] They also held a quantity of ice
-drug and an automatic rifle alongside the hashish. [@1,2,3,4,5] When confronted, the men
+drug and an automatic rifle alongside the hashish. [@1,2,3,4,5,6] When confronted, the men
 admitted committing the act as described and possessing the narcotics for the
-purpose of trafficking. [@1,2,3,4,5]
+purpose of trafficking. [@1,2,3,4,5,6]
 
 Authorities took the necessary legal measures against the suspects, and the
 Public Prosecution took over the investigation. [@1,2,3,4,5]
