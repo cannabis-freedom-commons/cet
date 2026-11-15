@@ -37,28 +37,28 @@ sources:
     publisher: Infobae
     date: 2026-11-12
     language: es
-open_questions:
-  - No separate date for the Supreme Court ruling was published; 12 November 2026 is the publication date and stands in for the event date.
-  - The account rests on a single accessible report crediting Noticias Argentinas, with no court document published.
-  - No court document was published for this ruling.
-  - Outlets illustrate the ruling with generic Gendarmería Nacional road-patrol file photos, not pictures of Llopiz or this case, so they are not listed as media.
+  - title: 'Un gendarme de Roldán pasaba información clave a grupos narco de Paraguay: fue condenado a 6 años de prisión'
+    url: https://infofunes.com.ar/policiales/un-gendarme-de-roldan-pasaba-informacion-clave-a-grupos-narco-de-paraguay--fue-condenado-a-6-anos-de-prision_a6af723977139d0df6fffe6fc
+    publisher: InfoFunes
+    date: 2026-11-14
+    language: es
 ---
 
 The Supreme Court of Justice confirmed a six-year prison sentence for gendarme
 Lucas Alejandro Llopiz, who was found guilty of colluding with a marijuana
-trafficking network and alerting its members about route controls. [@1,2,3] The
+trafficking network and alerting its members about route controls. [@1,2,3,4] The
 ruling was signed by Justices Horacio Rosatti, Carlos Rosenkrantz and Ricardo
 Lorenzetti, who dismissed the gendarme's formal-irregularities appeal. [@1,2,3] The complaint was dismissed because the defence, led by lawyer Gastón Chapo, failed to attach a copy of the reply to the extraordinary appeal as required by article 7, subsection c, of acordada 4/2007. [@3]
 While serving in the Gendarmería Nacional Anti-Drugs Section in Ituzaingó,
 Llopiz contacted José Alberto Laurencio, identified as one of the organization's
-leaders, and passed information about vehicles under investigation. [@1]
+leaders, and passed information about vehicles under investigation. [@1,4]
 
 The investigation began in March 2017 after an informant tip about a Gendarmería
 control on Route 14 by Squad 57 Santo Tomé. [@1,3] The tip came from a person whose identity was kept confidential. [@3] Squad 57 Santo Tomé stopped a
 Scania truck on Route 14 carrying 4,631 packages of marijuana weighing 3,985.355
-kilograms. [@1,2,3] Investigators said the marijuana entered Argentina from Paraguay
+kilograms. [@1,2,3,4] Investigators said the marijuana entered Argentina from Paraguay
 through riverside areas of the Paraná River at Cerro Corá and was moved to
-warehouses in Posadas. [@1,3]
+warehouses in Posadas. [@1,3,4]
 
 The drug was later loaded into different vehicles and transported by land to
 Roldán in Santa Fe, Gualeguaychú in Entre Ríos, and the City of Buenos Aires,
