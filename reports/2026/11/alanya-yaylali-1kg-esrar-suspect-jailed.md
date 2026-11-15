@@ -101,6 +101,11 @@ sources:
     publisher: Haberler
     date: 2026-11-14
     language: tr
+  - title: Alanya'da evinde 1 kilogram esrar bulunan 39 yaşındaki şüpheli tutuklandı - Haberler
+    url: https://www.haberler.com/amp/alanya-da-evinde-1-kilogram-esrar-bulunan-39-20427025-haberi/
+    publisher: Haberler
+    date: 2026-11-14
+    language: tr
 media:
   - kind: photo
     url: https://www.alanyaturk.com/alanyada-jandarmadan-safak-baskini-ormanda-yetistirip-evinde-kurutmus
@@ -120,13 +125,13 @@ trafficking. [@1] Officers detained 39-year-old suspect Metin K. during the raid
 on the address in Yaylalı Mahallesi. [@1,4,5]
 
 After his procedures at the gendarmerie, officers transferred the suspect to the
-Alanya courthouse under security measures. [@2,4] The on-duty court remanded Metin
+Alanya courthouse under security measures. [@2,4,6] The on-duty court remanded Metin
 K. on a charge of committing drug trafficking and sent him to Alanya L-Type
 Closed Prison. [@1,4,5] Officers searched the house and its outbuildings and seized
 1 kilogram of dried esrar obtained from the cannabis plant, and the seized drug
-was confiscated. [@2,4,5]
+was confiscated. [@2,4,5,6]
 
 Gendarmerie investigators determined that he had grown the cannabis in a wooded
-area, harvested it and brought it home to dry. [@3] The gendarmerie described
+area, harvested it and brought it home to dry. [@3,6] The gendarmerie described
 the work as part of its continued efforts to prevent drug trafficking under the
 coordination of the prosecutor's office. [@2]
