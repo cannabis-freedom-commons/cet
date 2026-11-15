@@ -83,6 +83,11 @@ sources:
     publisher: NewsNow24
     date: 2026-11-14
     language: bn
+  - title: টেকনাফে ৬ কেজি গাঁজাসহ দুই নারী আটক
+    url: https://durnititalashnewstv.com/archives/4325
+    publisher: Durniti Talash News Tv
+    date: 2026-11-14
+    language: bn
 media:
   - kind: photo
     url: https://www.dhakatimes24.com/2026/11/14/417106
@@ -98,14 +103,14 @@ set up a temporary checkpoint on Marine Drive road at Maheshkhali Para in Teknaf
 on a secret tip and signalled an auto-rickshaw to stop. [@1,3,6,7,8,9] The temporary checkpoint was on the main road about 200 yards south of Shamima Filling Station, in the area covered by C Beach BOP, and the auto-rickshaw was stopped at about 7:10 pm. [@6] Officers became
 suspicious of two women travelling in the auto-rickshaw and searched them and
 the goods they were carrying. [@1,7,8] Inside a plastic basket they were carrying,
-officers found 6 kg of ganja wrapped in polythene and seized it. [@1,3,4,5,6,7,8,9]
+officers found 6 kg of ganja wrapped in polythene and seized it. [@1,3,4,5,6,7,8,9,10]
 
-BGB detained the two women at the checkpoint. [@1,3,4] The detained women are
+BGB detained the two women at the checkpoint. [@1,3,4,10] The detained women are
 Chenowara Begum, 50, and Dilara Begum, 40, residents of Habilpara in Teknaf.
 [@2,4,5,6,7,8,9] BGB also seized a button mobile phone from them at the checkpoint. [@2,6]
 
 BGB said the two women, the recovered drug and the other seized items were being
-handed over to Teknaf Model Police Station for further legal action. [@2,4,5,6,7,8,9] The
+handed over to Teknaf Model Police Station for further legal action. [@2,4,5,6,7,8,9,10] The
 same BGB battalion reported a separate operation at about 2 am on 14 November in
 the Jinna Khal area of the Naf River, in which a sack was searched and 210,000
 yaba tablets were recovered and one man was arrested, a non-cannabis component
