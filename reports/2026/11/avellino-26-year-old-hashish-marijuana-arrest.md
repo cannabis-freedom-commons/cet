@@ -59,6 +59,11 @@ sources:
     publisher: Telenostra
     date: 2026-11-14
     language: it
+  - title: 26-Jähriger bei Drogenrazzia in Avellino festgenommen
+    url: https://www.ilmattino.it/de/26_jahriger_bei_drogenrazzia_in_avellino_festgenommen-9889894.html?next_page=2
+    publisher: Il Mattino
+    date: 2026-11-14
+    language: de
 open_questions:
     - The incident date of 13 November 2026 is inferred from the report published on 14 November 2026 saying the arrest happened on the evening of the previous day; no separate calendar date is given.
     - The 9.70 grams of cocaine seized in the same search is excluded from the cannabis figures; only the 22.00 grams of hashish and 15.50 grams of marijuana are counted.
@@ -75,9 +80,9 @@ dealing. [@1] The arrest took place in Avellino on the evening of 13 November
 
 A personal search of the young man found seven doses of cocaine weighing a total
 of 9.70 grams, four doses of hashish weighing a total of 22.00 grams, and 15.50
-grams of marijuana. [@1,2,3] A later search of the 26-year-old's home allowed
+grams of marijuana. [@1,2,3,4] A later search of the 26-year-old's home allowed
 officers to find and seize two precision scales, a knife soaked with hashish,
-packaging material and 110.00 euros in small-denomination banknotes. [@1,2]
+packaging material and 110.00 euros in small-denomination banknotes. [@1,2,4]
 
 On the order of the duty prosecutor, the arrested man was placed under house
 arrest at his home pending the validation hearing. [@1] The accusations were
