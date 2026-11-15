@@ -48,22 +48,26 @@ sources:
     publisher: BergamoNews
     date: 2026-11-14
     language: it
+  - title: 'Quasi due chili tra cocaina e hashish in casa a Cologno al Serio: 25enne arrestato per spaccio'
+    url: https://primabergamo.it/cronaca/quasi-due-chili-tra-cocaina-e-hashish-in-casa-a-cologno-al-serio-25enne-arrestato-per-spaccio/
+    publisher: Prima Bergamo
+    date: 2026-11-14
+    language: it
 open_questions:
   - The hashish quantity is approximate.
   - No plea or final court outcome was reported.
 ---
 
 Carabinieri arrested a 25-year-old man in Cologno al Serio on 13 November on
-suspicion of possessing drugs for sale. [@1] The man, a Moroccan citizen, was
+suspicion of possessing drugs for sale. [@1,3] The home is on via Milano in Cologno al Serio, and the arrest was made in the morning of 13 November. [@3] The man, a Moroccan citizen, was
 later placed under house arrest after a hearing at the Bergamo court. [@1]
 
 Officers found about half a kilogram of hashish in his home, alongside 1.320
-kilograms of cocaine and cash. [@1] They also found packaging material and an
-electronic precision scale. [@1] The Urgnano carabinieri were assisted by a dog
-unit from Orio al Serio. [@1]
+kilograms of cocaine and cash. [@1,3] They also found packaging material and an
+electronic precision scale. [@1,3] The Urgnano carabinieri were assisted by a dog
+unit from Orio al Serio. [@1,3]
 
 The intervention followed reports of unusual traffic at the home, including at
-night, BergamoNews reported. [@2] The man was held in a Treviglio police cell
+night, BergamoNews reported. [@2,3] The man was held in a Treviglio police cell
 pending a fast-track hearing, where a judge validated his arrest and ordered
-house arrest. [@2]
-
+house arrest. [@2,3]
