@@ -29,6 +29,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cd739818ddb6ebbbbbba429fbea9bbd2
 tags: [san-luis-potosi, la-pila, narcomenudeo, soledad]
+media:
+  - kind: photo
+    url: https://sanluispotosi.quadratin.com.mx/seguridad/giran-nuevas-ordenes-contra-dos-internos-de-la-pila-por-narcomenudeo/
+    media_url: https://sanluispotosi.quadratin.com.mx/www/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-1.15.35-PM.jpeg
+    publisher: Quadratín San Luis Potosí
+    caption: >-
+      Joel “N” and Henry “N” in an FGESLP booking composite after the La Pila
+      re-arrest warrants. Photo: Quadratín / FGESLP
 sources:
   - title: Ya en prisión, aprehenden a dos por narcomenudeo
     url: https://pulsoslp.com.mx/seguridad/ya-en-prision-aprehenden-a-dos-por-narcomenudeo/2103240

@@ -47,6 +47,7 @@ sources:
     date: 2026-11-03
     language: bn
 open_questions:
+  - Outlet pages illustrate the Dhaka capital raids with a generic handcuff “arrest” graphic, so no event photo is listed.
   - The 549 arrests and 57 cases cover the whole 24-hour sweep across all alleged offences; how many were linked specifically to cannabis was not stated.
   - Yaba, phensedyl, cocktail, petrol, phone and cash figures are mentioned only to explain the mixed sweep and are excluded from cannabis figures; no combined weight is counted as cannabis.
   - No names, charges or court outcomes for those arrested were reported.

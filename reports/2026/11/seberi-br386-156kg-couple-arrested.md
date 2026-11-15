@@ -35,6 +35,14 @@ status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 08bf9eb682f97b0c1cabd47851cd428e
 tags: [seberi, santa-maria, br-386]
+media:
+  - kind: photo
+    url: https://passofundonoticias.com.br/prf-prende-casal-com-156-quilos-de-maconha-na-br-386-em-seberi/
+    media_url: https://passofundonoticias.com.br/wp-content/uploads/2026/11/4843fa04-db78-4741-b429-29e32b13a009.jpeg
+    publisher: Passo Fundo Notícias
+    caption: >-
+      A PRF officer searches a grey sedan beside stacked purple-wrapped marijuana
+      bricks after the BR-386 stop in Seberi. Photo: Passo Fundo Notícias / PRF
 sources:
   - title: Casal é preso transportando mais de 150 quilos de maconha em Seberi
     url: https://rduirapuru.com.br/casal-e-preso-transportando-mais-de-150-quilos-de-maconha-em-seberi/

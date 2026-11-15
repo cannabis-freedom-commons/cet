@@ -49,6 +49,7 @@ sources:
     date: 2026-11-14
     language: es
 open_questions:
+  - FM Gente illustrates the Maldonado sentences with a stock photograph of an Investigaciones vest, so no event photo is listed.
   - No weight was published for the jar and two bags of marijuana, so no cannabis quantity is recorded.
   - The seized material was described only as marijuana, with no laboratory confirmation reported.
   - The investigation is said to have run for several weeks, but its exact start date was not given.

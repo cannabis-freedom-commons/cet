@@ -42,7 +42,7 @@ sources:
     date: 2026-11-08
     language: es
 open_questions:
-  - Infobae's main photo shows the cryptocurrency mining racks and electrical boards but no marijuana, so no cannabis event photo is listed.
+  - Infobae illustrates the Tlaola raid with cryptocurrency-mining rack photographs and no marijuana visible, so no event photo is listed.
   - No weight was published for the bag of presumed marijuana, so no kilograms can be recorded.
   - No charges, custody decision or court outcome were reported; the case was at the investigation stage.
   - Only one opened source could be established for this event; no separate agency statement or second account was found.

@@ -34,6 +34,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5440a117556f5f853ee436b429497af8
 tags: [passo-fundo, vera-cruz, brigada-militar]
+media:
+  - kind: photo
+    url: https://rduirapuru.com.br/brigada-militar-apreende-tijolos-de-maconha-que-haviam-sido-descartados-por-homem-preso-por-trafico-na-vera-cruz/
+    media_url: https://rduirapuru.com.br/wp-content/uploads/2026/11/e282dadd-a932-4b9d-be99-369e90480143.jpeg
+    publisher: Radio Uirapuru
+    caption: >-
+      Two plastic-wrapped marijuana bricks before a Brigada Militar Rio Grande do
+      Sul banner after the Vera Cruz seizure. Photo: Radio Uirapuru / BM
 sources:
   - title: Brigada Militar apreende tijolos de maconha que haviam sido descartados por homem preso por tráfico na Vera Cruz - Radio Uirapuru
     url: https://rduirapuru.com.br/brigada-militar-apreende-tijolos-de-maconha-que-haviam-sido-descartados-por-homem-preso-por-trafico-na-vera-cruz/

@@ -36,6 +36,14 @@ status: verified
 created_by_model: xai/grok-4.7#low
 submission: cec4070251c855cade0194b8943daedb
 tags: [borrazopolis, parana, maconha, policia-militar]
+media:
+  - kind: photo
+    url: https://novaeranews.com.br/homem-e-flagrado-com-maconha-em-borrazopolis/
+    media_url: https://novaeranews.com.br/wp-content/uploads/2026/11/apreensao-de-maconha-jpg.webp
+    publisher: Nova Era News
+    caption: >-
+      A small bag of cannabis on a digital kitchen scale after the Borrazópolis
+      street stop. Photo: Nova Era News
 sources:
   - title: PM apreende maconha dispensada por suspeito em Borrazópolis
     url: https://ivaipora.online/pm-apreende-maconha-dispensada-por-suspeito-em-borrazopolis/
@@ -53,6 +61,7 @@ sources:
     date: 2026-11-05
     language: pt
 open_questions:
+  - Ivaiporã Online also ran a cropped street shot of legs beside a patrol car with no cannabis visible, so that image is not listed as media.
   - The man's name, age and any formal charge were not published.
   - No later hearing or court outcome was reported.
   - Ivaiporã Online calls the substance analogous to cannabis, while Blog do Berimbau and Nova Era News call it cannabis; all three give the weight as 1.1 grams.

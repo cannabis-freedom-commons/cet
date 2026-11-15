@@ -38,6 +38,14 @@ tags:
   - guardia-civil
   - narcomenudeo
   - marijuana
+media:
+  - kind: photo
+    url: https://pulsoslp.com.mx/seguridad/capturan-a-tres-por-venta-de-marihuana-/2103243
+    media_url: https://blobcore.pulsoslp.com.mx/images/2026/11/03/capturan-a-tres-por-venta-de-marihuana-7fe4eb41-focus-0-0-1280-720.webp
+    publisher: Pulso Diario San Luis
+    caption: >-
+      Three detainees and bagged marijuana doses released by Guardia Civil Estatal
+      after the Matehuala Altiplano arrests. Photo: Pulso / GCE San Luis Potosí
 sources:
   - title: Tres detenidos por distribución de droga en el estado
     url: https://planoinformativo.com/1179342/tres-detenidos-por-distribucion-de-droga-en-el-estado-

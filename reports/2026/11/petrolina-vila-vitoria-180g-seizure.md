@@ -31,6 +31,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 553a2819db9a419bb88a4fc1c2f92186
 tags: [petrolina, pernambuco, vila-vitoria]
+media:
+  - kind: photo
+    url: https://infonewss.com/com-1-kg-de-cocaina-e-180-g-de-maconha-pm-apreende-drogas-na-vila-vitoria-em-petrolina/
+    media_url: https://infonewss.com/wp-content/uploads/2026/11/Com-1-kg-de-cocaina-e-180-g-de-maconha-PM-apreende-drogas-na-Vila-Vitoria-em-Petrolina.jpg
+    publisher: Info Newss
+    caption: >-
+      A bag of marijuana, a cocaine brick and a digital scale from the Vila Vitória
+      shack searches. Photo: Info Newss / Polícia Militar de Pernambuco
 sources:
   - title: Ação contra o tráfico resulta na apreensão de cocaína e maconha na Vila Vitória, em Petrolina
     url: https://portalsilvalima.com.br/acao-contra-o-trafico-resulta-na-apreensao-de-cocaina-e-maconha-na-vila-vitoria-em-petrolina/
