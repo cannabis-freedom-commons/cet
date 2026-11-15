@@ -63,17 +63,19 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-15
     language: hi
+  - title: नेपाल बॉर्डर के पास स्कॉर्पियो में छिपाकर ले जाया जा रहा था 164 किलो गांजा, पुलिस-SSB ने दबोचा
+    url: https://deshajtimes.com/news/bihar/madhubani/madhubani-laukaha-police-ssb-seize-ganja-scorpio-arrest-smugglers-smiapp/324711/
+    publisher: Deshaj Times
+    date: 2026-11-14
+    language: hi
 open_questions:
-  - The articles give Saturday morning at about 8:10 for the interception and 14 November 2026 is the publication date of the first account, which is used as the incident date.
-  - No value estimate for the 164.400 kg of ganja was published.
-  - No court outcome, remand details or pleas were reported; the case was at the investigation stage with questioning under way.
-  - Both accounts are Dainik Bhaskar reports of the same police and SSB action, so they are not independent corroboration.
-  - The accused Dhiraj Kumar shares a given name with Laukaha station house officer Dheeraj Kumar; the reports distinguish them by role.
-  - The seizure of two mobile phones and the Scorpio-N is stated only in the second account.
+    - No value estimate for the 164.400 kg of ganja was published.
+    - No court outcome, remand details or pleas were reported; the case was at the investigation stage with questioning under way.
+    - The accused Dhiraj Kumar shares a given name with Laukaha station house officer Dheeraj Kumar; the reports distinguish them by role.
 ---
 
 Laukaha police and SSB seized 164.400 kg of ganja from a Scorpio-N near Beldari
-village on Saturday morning and arrested the two occupants. [@2] The two men got
+village on Saturday morning and arrested the two occupants. [@2,3] The two men got
 out and tried to flee when the Scorpio-N heading toward the Balan river was
 signalled to stop near the bridge in front of Beldari village at about 8:10 in
 the morning, but the joint team chased and caught them. [@2] The arrested men
@@ -81,11 +83,11 @@ were identified as 29-year-old Dhiraj Kumar of Bhagwatpur in Sarairanjan,
 Samastipur district and 20-year-old Bobby Kumar of Niksapur in Tajpur. [@2]
 
 Officers searching the vehicle in the presence of independent witnesses found
-the ganja hidden in plastic sacks. [@2] Police prepared a seizure list and
+the ganja hidden in plastic sacks. [@2,3] Police prepared a seizure list and
 seized the ganja together with the vehicle and two mobile phones. [@2] Laukaha
 station house officer Dheeraj Kumar said a total of 164.400 kg of ganja was
 caught from the four-wheeler and both smugglers were taken into custody. [@1] A
-case was registered at Laukaha police station under the NDPS Act. [@2]
+case was registered at Laukaha police station under the NDPS Act. [@2,3]
 
 Acting on a late-Friday-night tip that a consignment would be brought from Nepal
 via the Balan river embankment through Beldari village, senior officers directed
@@ -93,4 +95,3 @@ a team under station house officer Dhiraj Kumar with Sub-Inspector Vikesh Kumar
 alongside SSB Assistant Commandant Gurdeep Singh and personnel. [@2] Police are
 questioning the arrested men to trace where the consignment came from, where it
 was to be delivered and who else belongs to the smuggling network. [@1]
-
