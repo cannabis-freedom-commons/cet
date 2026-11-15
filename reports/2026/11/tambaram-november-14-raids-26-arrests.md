@@ -37,6 +37,10 @@ sources:
     url: https://www.thehindu.com/news/cities/chennai/tambaram-city-police-arrest-26-in-special-drive-against-ganja-and-banned-tobacco-products/article71702639.ece
     publisher: The Hindu
     date: 2026-11-15
+  - title: Tambaram City police arrest 26 in special drive against ganja and banned tobacco products - The Hindu
+    url: https://www.thehindu.com/news/cities/chennai/tambaram-city-police-arrest-26-in-special-drive-against-ganja-and-banned-tobacco-products/article71702639.ece/amp/
+    publisher: The Hindu
+    date: 2026-11-15
 open_questions:
     - The Hindu reported 3.84 kg of ganja, matching the digits of Dinamalar's 384 kg figure, while Dinamani gave 2.25 kg; the cannabis weight stays disputed and out of the figures.
     - The 26 arrests cover the mixed operation, and the number linked specifically to cannabis is not stated.
@@ -44,14 +48,14 @@ open_questions:
 ---
 
 Police arrested 26 people in 15 cases during searches across the Tambaram
-commissionerate area that yielded cannabis and other goods. [@1,3] The Hindu said police registered 15 cases under the Narcotic Drugs and Psychotropic Substances (NDPS) Act and the Cigarettes and Other Tobacco Products Act (COTPA) against those allegedly involved in the illegal possession and sale of ganja and prohibited tobacco products. [@3] Dinamalar
+commissionerate area that yielded cannabis and other goods. [@1,3,4] The Hindu said police registered 15 cases under the Narcotic Drugs and Psychotropic Substances (NDPS) Act and the Cigarettes and Other Tobacco Products Act (COTPA) against those allegedly involved in the illegal possession and sale of ganja and prohibited tobacco products. [@3,4] Dinamalar
 reported that 20 of those arrested were jailed. [@1,3]
 
 Dinamani reported that police searched private lodgings, commercial complexes
 and public gathering places after receiving information about drug use in
-lodgings in suburban Chennai. [@2,3] The paper reported that 89 special teams and
-450 police personnel took part in the searches. [@2,3] The operation was conducted on the instructions of Tambaram City Police Commissioner Najmul Hoda, who described the special drive as the beginning of the end of drug-related offences in the Tambaram police Commissionerate. [@3] Both accounts reported the
-seizure of cannabis and 160 tablets, but gave different cannabis weights. [@2,3] The Hindu reported that police seized 3.84 kg of ganja in the drive. [@3]
+lodgings in suburban Chennai. [@2,3] The Hindu said teams were deployed in Tambaram and Pallikaranai police districts to conduct intensive searches at men’s hostels, private premises and other locations frequented by students and vulnerable sections of the public. [@4] The paper reported that 89 special teams and
+450 police personnel took part in the searches. [@2,3,4] The operation was conducted on the instructions of Tambaram City Police Commissioner Najmul Hoda, who described the special drive as the beginning of the end of drug-related offences in the Tambaram police Commissionerate. [@3] Both accounts reported the
+seizure of cannabis and 160 tablets, but gave different cannabis weights. [@2,3] The Hindu reported that police seized 3.84 kg of ganja in the drive. [@3,4]
 Dinamalar also reported the seizure of tobacco products and a three-wheeled
 vehicle. [@1,3] Tambaram police said surveillance had been intensified around
-places where students and members of the public gather. [@1,3]
+places where students and members of the public gather. [@1,3,4]
