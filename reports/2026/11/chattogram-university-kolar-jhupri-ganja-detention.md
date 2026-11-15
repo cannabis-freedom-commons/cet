@@ -42,6 +42,11 @@ media:
     media_url: https://dailybanglapost.com/media/imgAll/BG/2026November/bangla-post-news-1-20261114084011.jpg
     publisher: Daily Bangla Post
     caption: 'The detained man photographed at the university, captioned by the outlet as local ganja trader Ledu Mia. Photo: সংগৃহীত (collected)'
+  - kind: photo
+    url: https://www.agrajatrapratidin.com/education/news/29577
+    media_url: https://www.agrajatrapratidin.com/media/imgAll/2026November/yffydf-88-2611131702.jpg
+    publisher: agrajatrapratidin.com
+    caption: The man detained with ganja during the proctorial body's raid at the University of Chattogram.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 010d94cac9e1616eb7018785972a4e76
@@ -62,6 +67,11 @@ sources:
     publisher: Daily Bangla Post
     date: 2026-11-14
     language: bn
+  - title: চবিতে প্রক্টরিয়াল বডির অভিযানে গাঁজাসহ আটক এক ব্যক্তি
+    url: https://www.agrajatrapratidin.com/education/news/29577
+    publisher: agrajatrapratidin.com
+    date: 2026-11-13
+    language: bn
 open_questions:
   - No weight or value for the seized ganja was published; the university described only a significant quantity.
   - No police statement, case number, charge or court outcome was reported; the man had just been handed over for legal action.
@@ -70,9 +80,9 @@ open_questions:
 
 The University of Chattogram administration detained a man named Ledu Mia with
 ganja in the Kolar Jhupri area of its campus on the evening of 13 November 2026.
-[@1,3] The university's proctorial body and its security department carried out
+[@1,3,4] The university's proctorial body and its security department carried out
 the raid together, and a significant quantity of ganja was recovered from the
-man. [@1,3]
+man. [@1,3,4]
 
 The administration said it acted on information that narcotics were being bought
 and sold in the campus area, with two assistant proctors and the head of the
@@ -83,4 +93,4 @@ local drug dealer caught red-handed with the drug. [@2,3]
 Ledu Mia is a resident of the area around the university, and the administration
 said the raid was meant to check the spread of narcotics on campus and the free
 movement of outsiders. [@1] He was handed over to the police with the ganja
-recovered from him for further legal action. [@1,3]
+recovered from him for further legal action. [@1,3,4]
