@@ -93,6 +93,11 @@ sources:
     publisher: KontraNews
     date: 2026-11-13
     language: el
+  - title: 'Ηγουμενίτσα: μετέφερε πάνω από 85 κιλά κάνναβη - Paramythianews'
+    url: https://paramythianews.gr/hgoumenitsa-metefere-pano-apo-86-kila-kannabi/
+    publisher: Paramythianews
+    date: 2026-11-13
+    language: el
 details:
     agencies: [Hellenic Police]
     agency_types: [police, anti-narcotics]
@@ -108,13 +113,13 @@ details:
 
 Police of the Drug Pursuit Division of the Igoumenitsa Sub-directorate of
 Pursuit and Investigation of Crimes found a large quantity of drugs early in the
-morning in Igoumenitsa, blocking its further transport. [@1,3] A foreign national
+morning in Igoumenitsa, blocking its further transport. [@1,3,11] A foreign national
 was arrested in connection with the case, against whom a felony indictment was
-opened. [@1,3,6,7,8] As part of targeted checks, the officers stopped a small car that
+opened. [@1,3,6,7,8,11] As part of targeted checks, the officers stopped a small car that
 the foreign woman was driving and that she owned, inside which they found 80
-bundles of raw cannabis, totalling 86 kg 438 g. [@1,3,4,5,7,8,9,10] The drugs and the car were
+bundles of raw cannabis, totalling 86 kg 438 g. [@1,3,4,5,7,8,9,10,11] The drugs and the car were
 confiscated, and the detainee is expected to be brought to the Thesprotia First
-Instance Magistrate's Office. [@1,3,4,5,6,7,8,10] The police's own statement gave no information on the origin or the final destination of the cannabis load. [@6,8]
+Instance Magistrate's Office. [@1,3,4,5,6,7,8,10,11] The police's own statement gave no information on the origin or the final destination of the cannabis load. [@6,8]
 
 The arrested driver of the car was a 31-year-old foreign national. [@2,10] The
 cannabis was packaged into 80 bundles that were found inside the woman's car
