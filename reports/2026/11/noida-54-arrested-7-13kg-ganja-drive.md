@@ -65,6 +65,11 @@ sources:
     publisher: Times Now Navbharat
     date: '2026-11-14'
     language: hi
+  - title: 'नोएडा पुलिस का विशेष अभियान: 54 शातिर आरोपी गिरफ्तार, भारी मात्रा में शराब, गांजा और अवैध हथियार बरामद'
+    url: https://royalbulletin.in/delhi-ncr/noida/noida-police-arrest-54-accused-in-special-drive-seize-liquor-ganja-and-illegal-weapons/article-255472
+    publisher: Royal Bulletin
+    date: 2026-11-14
+    language: hi
 open_questions:
   - >-
     The 7.13 kg total is the sum of the four itemised ganja amounts of 830 g, 1 kg, 600 g and 4.7
@@ -81,15 +86,15 @@ open_questions:
 
 Noida police arrested 54 people in a special drive against criminals across the
 district's various police-station areas, recovering illicit ganja, country and
-Haryana-brand liquor, and knives. [@1,2] Sector 24 police arrested Sunil Ram for
+Haryana-brand liquor, and knives. [@1,2,3] Sector 24 police arrested Sunil Ram for
 allegedly running a betting operation, while Phase-1 police recovered betting
 slips from Neeraj Thakur. [@1]
 
 In ganja-trafficking cases, police recovered 830 grams of ganja from Arif, one
 kilogram from Karan Jatav and 600 grams from Arya Bhatt. [@1,2] Jarcha police
-arrested Afak near Kalauda village with 4.7 kg of ganja. [@1,2] Questioning found
+arrested Afak near Kalauda village with 4.7 kg of ganja. [@1,2,3] Sector-49 police also held Yatin Singh with about one kilogram of ganja. [@3] Questioning found
 that he brought ganja from Delhi and sold it in the National Capital Region.
-[@1,2]
+[@1,2,3]
 
 Police also recovered 25 to 112 pouches or packets of country liquor from the
 accused, and Haryana-brand liquor from some of them. [@1] The drive spanned
