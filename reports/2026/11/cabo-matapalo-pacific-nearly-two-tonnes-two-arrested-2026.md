@@ -50,6 +50,16 @@ media:
     media_url: https://www.infobae.com/resizer/v2/4YFHY53MHVFTZFJCJ4KFPPQN6I.png?auth=5dc2a7d29df654a01fad20d8c8f3b057c5c3ba0e4db1d7478981376f4a082f3f&smart=true&width=350&height=234&quality=85
     publisher: Infobae
     caption: 'The Drug Control Police during the inspection in Golfito, where the seizure of almost two tonnes of marijuana was confirmed. Photo: MSP'
+  - kind: photo
+    url: https://labandadiario.com/costa-rica-y-la-dea-interceptan-lancha-con-casi-dos-toneladas-de-marihuana-en-el-pacifico-sur-dos-extranjeros-fueron-detenidos/
+    media_url: https://labandadiario.com/wp-content/uploads/2026/11/7-10.jpg
+    publisher: La Banda Diario
+    caption: 'Authorities of Costa Rica and the United States intercepted a boat with 1,923 kilograms of marijuana in South Pacific waters during a joint operation against drug trafficking. Photo: MSP'
+  - kind: photo
+    url: https://labandadiario.com/costa-rica-y-la-dea-interceptan-lancha-con-casi-dos-toneladas-de-marihuana-en-el-pacifico-sur-dos-extranjeros-fueron-detenidos/
+    media_url: https://www.infobae.com/resizer/v2/7KFLKBD7OFESNFZOTO6V3MKEKQ.png?auth=6482b1ebbc0307b22008ee09a101b886daa1ee402cafb5f25519febd0e280094&smart=true&width=992&height=661&quality=85
+    publisher: La Banda Diario
+    caption: 'An Ecuadorian citizen surnamed Castillo Zambrano and a Nicaraguan identified as Pictan Siu were detained while transporting the drug cargo. Photo: MSP'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9ec073f083a288b792afedddb2b44020
@@ -80,26 +90,36 @@ sources:
     publisher: AM Prensa
     date: 2026-11-13
     language: es
+  - title: 'Costa Rica y la DEA interceptan lancha con casi dos toneladas de marihuana en el Pacífico Sur: dos extranjeros fueron detenidos - La Banda Diario'
+    url: https://labandadiario.com/costa-rica-y-la-dea-interceptan-lancha-con-casi-dos-toneladas-de-marihuana-en-el-pacifico-sur-dos-extranjeros-fueron-detenidos/
+    publisher: La Banda Diario
+    date: 2026-11-13
+    language: es
+open_questions:
+  - The sources give no separate date for the interception; 13 November 2026 is the publication date and stands in for the incident date.
+  - No charges, precautionary measures or court outcome for the two detained crew members have been reported.
+  - The authorities have not reported any link between this seizure and the second boat intercepted that week.
+  - No weight or substance type was published for the cargo of the second boat, Pez Gallo; the Drug Control Police investigation into it continued.
 ---
 
 Costa Rican authorities intercepted a fast boat carrying nearly two tonnes of
 marijuana 118 nautical miles south of Cabo Matapalo, in the southern Pacific.
-[@1,2,3,4,5] The operation was run by the Public Security Ministry together with the US
+[@1,2,3,4,5,6] The operation was run by the Public Security Ministry together with the US
 Drug Enforcement Administration, with support from United States and Colombian
 authorities. [@1] In Costa Rica the operation involved the Drug Control Police, the criminal intelligence directorate and the special support unit. [@2]
 
 The boat's drug packages carried unusual stickers with images of Caro Quintero
 and the character Gasparín (Casper). [@1] Two tonnes of marijuana were seized.
-[@1] After the boat was moved to Golfito, police established that it carried 1,923 kilograms of marijuana, about 1.9 tonnes. [@2,3,4,5]
+[@1] After the boat was moved to Golfito, police established that it carried 1,923 kilograms of marijuana, about 1.9 tonnes. [@2,3,4,5,6]
 
 The vessel was located in a coordinated effort with the US Joint Interagency
 Task Force South and the Colombian Navy, with a US aircraft in support. [@1,2,3,5] The
 security ministry said this was the second drug boat intercepted in Pacific
-waters that week. [@1] The boat was a registration-free, flagless fast vessel
-fitted with eight fuel drums. [@1,3] The vessel was powered by two 200-horsepower outboard motors. [@2,4]
+waters that week. [@1] In that second intervention, two Colombians and an Ecuadorian were travelling on a boat named Pez Gallo, whose captain had a 2016 arrest record in Ecuador linked to another vessel that carried drugs. [@6] The boat was a registration-free, flagless fast vessel
+fitted with eight fuel drums. [@1,3,6] The vessel was powered by two 200-horsepower outboard motors. [@2,4]
 
 Aboard were two men: an Ecuadorian with the surname Castillo Zambrano, who was
-the captain, and a Nicaraguan with the surname Pictan Siu. [@1,2,3,4,5] Both were
+the captain, and a Nicaraguan with the surname Pictan Siu. [@1,2,3,4,5,6] Both were
 detained by officers of the Coast Guard's Special Operations Group (GOPES). [@1,3,5]
 The suspects, the vessel and the seized cargo were taken to the port of Golfito.
 [@1,2,3,5]
