@@ -313,7 +313,15 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 			changed = changed || extra != next
 			extra = next
 		} else if f.ExistingText != "" || !f.NewDetail {
-			return d, ErrMergeTarget
+			// a sentence the model copied with a small slip (a word, a mark) is that sentence
+			if near, ok := nearSentence(body, target); ok {
+				if next, ok := cite(body, near, n); ok {
+					changed = changed || next != body
+					body = next
+					continue
+				}
+			}
+			return d, mergeTargetError(u.Report, f, target, body)
 		} else if !strings.Contains(body, strings.TrimSpace(f.Text)) {
 			sentence := strings.TrimSpace(f.Text) + " [@" + strconv.Itoa(n) + "]"
 			// a new detail joins the paragraph of the sentence it follows, not a new one at the end
@@ -547,4 +555,129 @@ func setValue(front []string, key, value string) ([]string, error) {
 		return append(front, lines...), nil
 	}
 	return append(front[:start], append(lines, front[end:]...)...), nil
+}
+
+// MergeUpdates folds a split change back together: two updates of one report become one, and an
+// additional_source answer's update of the report it adds a source to joins its own facts. The
+// model otherwise spends a whole check round on it. Two different corrections of one report's
+// title or summary are left as they are, for the check to report.
+func (r *Result) MergeUpdates() {
+	if len(r.Updates) == 0 {
+		return
+	}
+	var out []ReportUpdate
+	at := map[string]int{}
+	for _, u := range r.Updates {
+		if r.Outcome == "additional_source" && u.Report != "" && u.Report == r.ExistingReport && u.Title == "" && u.Summary == "" {
+			r.Facts = append(r.Facts, u.Facts...)
+			r.Uncertainties = appendNew(r.Uncertainties, u.Uncertainties...)
+			r.OpenQuestions = mergeQuestions(r.OpenQuestions, u.OpenQuestions)
+			continue
+		}
+		i, seen := at[u.Report]
+		if !seen {
+			at[u.Report] = len(out)
+			out = append(out, u)
+			continue
+		}
+		m := &out[i]
+		if differ(m.Title, u.Title) || differ(m.Summary, u.Summary) {
+			out = append(out, u)
+			continue
+		}
+		m.Facts = append(append([]Fact(nil), m.Facts...), u.Facts...)
+		m.Uncertainties = appendNew(m.Uncertainties, u.Uncertainties...)
+		m.OpenQuestions = mergeQuestions(m.OpenQuestions, u.OpenQuestions)
+		if m.Title == "" {
+			m.Title = u.Title
+		}
+		if m.Summary == "" {
+			m.Summary = u.Summary
+		}
+	}
+	r.Updates = out
+}
+
+func differ(a, b string) bool { return a != "" && b != "" && a != b }
+
+// appendNew appends the items list does not hold yet.
+func appendNew(list []string, items ...string) []string {
+	have := map[string]bool{}
+	for _, s := range list {
+		have[s] = true
+	}
+	for _, s := range items {
+		if !have[s] {
+			have[s] = true
+			list = append(list, s)
+		}
+	}
+	return list
+}
+
+// mergeQuestions joins two complete revised lists of open questions.
+func mergeQuestions(a, b *[]string) *[]string {
+	switch {
+	case b == nil:
+		return a
+	case a == nil:
+		return b
+	}
+	merged := appendNew(append([]string(nil), *a...), *b...)
+	return &merged
+}
+
+var (
+	inlineCitation = regexp.MustCompile(`\s*\[@[0-9, ]+\]`)
+	sentenceBreak  = regexp.MustCompile(`([.!?]["'”’»]?)\s+`)
+)
+
+// bodySentences is a report body's text one sentence per line, without citations.
+func bodySentences(body string) string {
+	text := inlineCitation.ReplaceAllString(body, "")
+	var lines []string
+	for _, paragraph := range strings.Split(text, "\n\n") {
+		paragraph = strings.Join(strings.Fields(paragraph), " ")
+		if paragraph == "" || strings.HasPrefix(paragraph, "#") || strings.HasPrefix(paragraph, "|") {
+			continue
+		}
+		lines = append(lines, strings.Split(sentenceBreak.ReplaceAllString(paragraph, "$1\n"), "\n")...)
+	}
+	return strings.Join(lines, "\n")
+}
+
+// nearSentence is the body's sentence the target almost exactly is: nine in ten of its words, and
+// about as long, so a longer sentence that merely contains it is never taken for it.
+func nearSentence(body, target string) (string, bool) {
+	ps := safeurl.Passages(bodySentences(body), target, 1)
+	if len(ps) == 0 || ps[0].Score < 0.9 {
+		return "", false
+	}
+	a, b := len(strings.Fields(ps[0].Text)), len(strings.Fields(target))
+	if b == 0 || float64(a) > 1.15*float64(b) || float64(a) < 0.85*float64(b) {
+		return "", false
+	}
+	// never a sentence with another figure or date: "25 g" is not "35 g"
+	if strings.Join(digits.FindAllString(ps[0].Text, -1), " ") != strings.Join(digits.FindAllString(target, -1), " ") {
+		return "", false
+	}
+	return ps[0].Text, true
+}
+
+var digits = regexp.MustCompile(`[0-9]+`)
+
+// mergeTargetError names the fact whose sentence the report does not have, with the report's
+// closest sentences to copy instead of a paraphrase.
+func mergeTargetError(report string, f Fact, target, body string) error {
+	var near []string
+	for _, p := range safeurl.Passages(bodySentences(body), target, 3) {
+		if p.Score >= 0.3 {
+			near = append(near, strconv.Quote(p.Text))
+		}
+	}
+	hint := " The report has no similar sentence: if this is new information, set new_detail:true (and after_text), otherwise leave the fact out."
+	if len(near) > 0 {
+		hint = " Its closest sentences in the report, to copy exactly into existing_text (or set new_detail:true if the fact is new): " + strings.Join(near, "; ")
+	}
+	return fmt.Errorf("%w. The fact %q gives existing_text %q, which is not a sentence of %s.%s", ErrMergeTarget, excerpt(f.Text), excerpt(target), report, hint)
 }

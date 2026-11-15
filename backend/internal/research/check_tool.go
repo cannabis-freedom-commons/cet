@@ -212,12 +212,30 @@ func runCheck(ctx context.Context, raw json.RawMessage, check CheckFunc) (string
 	if err != nil {
 		return "The result would be rejected by the result parser: " + err.Error() + ". Fix it and check again.", nil, false
 	}
-	problems := check(ctx, result)
-	if len(problems) == 0 {
+	var problems, notes []string
+	for _, p := range check(ctx, result) {
+		if note, ok := strings.CutPrefix(p, CheckNote); ok {
+			notes = append(notes, note)
+		} else {
+			problems = append(problems, p)
+		}
+	}
+	if len(problems) == 0 && len(notes) == 0 {
 		return "No problems found. Return this same JSON result as your final answer.", data, true
 	}
-	return "The service would reject this result. Fix every problem below, then check again:\n- " + strings.Join(problems, "\n- "), data, false
+	if len(problems) == 0 {
+		// values without a supporting quotation only drop out: no reason for another round
+		return "The service accepts this result. Return this same JSON result as your final answer; it will leave out these values unless you can quote a cited source for them exactly:\n- " + strings.Join(notes, "\n- "), data, true
+	}
+	text := "The service would reject this result. Fix every problem below, then check again:\n- " + strings.Join(problems, "\n- ")
+	if len(notes) > 0 {
+		text += "\n\nThese values will also be left out unless a cited source states them (quote it exactly, or drop them):\n- " + strings.Join(notes, "\n- ")
+	}
+	return text, data, false
 }
+
+// CheckNote marks a problem line that does not block the result: a value the service leaves out.
+const CheckNote = "note: "
 
 // stepNote: how many of the invocation's steps are left, once half are used, so the agent stops
 // researching in time; a run the limit cuts off before its answer is lost.

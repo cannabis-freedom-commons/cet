@@ -11,6 +11,8 @@ import (
 	"unicode"
 
 	"golang.org/x/text/unicode/norm"
+
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/safeurl"
 )
 
 // ReportIndex keeps search metadata separate from the authoritative Markdown.
@@ -275,7 +277,11 @@ func CheckEventComparisons(r Result, reports []ReportIndex, requireConfirmed boo
 		}
 		quote := normalizedIdentityText(c.ExistingText)
 		if len(quote) < 20 || len(quote) > 2000 || !strings.Contains(normalizedIdentityText(existing.Body), quote) {
-			return fmt.Errorf("event comparison for %s must quote an actual passage from its report body", c.Report)
+			hint := ""
+			if p := safeurl.Passages(bodySentences(existing.Body), c.ExistingText, 1); len(p) > 0 && p[0].Score >= 0.3 {
+				hint = fmt.Sprintf(" (its closest sentence: %q; copy the words exactly)", p[0].Text)
+			}
+			return fmt.Errorf("event comparison for %s must quote an actual passage from its report body%s", c.Report, hint)
 		}
 		factFound := false
 		for _, fact := range r.Facts {

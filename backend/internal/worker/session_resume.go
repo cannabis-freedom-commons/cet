@@ -81,29 +81,35 @@ func (w *Worker) resultCheck(dir string, initial safeurl.Evidence, base []safeur
 		if vocab, err := research.LoadVocabularies(w.Config.RepoPath); err == nil {
 			vocabs = append(vocabs, vocab)
 		}
-		if err := r.Validate(ids, vocabs...); err != nil {
-			return []string{"schema validation: " + err.Error()}
+		// every schema problem at once, and the quotation and identity checks beside them, so
+		// one revision can fix all of them: one problem per round cost long runs several rounds
+		var problems []string
+		for _, err := range r.Problems(ids, vocabs...) {
+			problems = append(problems, "schema validation: "+err.Error())
 		}
+		valid := len(problems) == 0
 		if !r.Drafts() {
-			return nil
+			return problems
+		}
+		if !valid && !sourcesInRange(r) {
+			return problems // the quotation checks need every cited source to exist
 		}
 		if r.Outcome == "new_event" {
 			r.AddedAt, r.Code = addedAt, code
 		}
-		var problems []string
 		notCaptured := func(context.Context, string) (safeurl.Evidence, error) {
 			return safeurl.Evidence{}, errors.New("not captured yet")
 		}
 		evidence := append(append([]safeurl.Evidence(nil), base...), research.ReadToolEvidence(dir)...)
 		_, _, check, err := r.Confirm(ctx, initial, notCaptured, evidence...)
 		for _, field := range r.MissingQuotes() {
-			problems = append(problems, field+" has no data_quotes entry: add a verbatim quotation from a cited source that shows this value, or leave the value out")
+			problems = append(problems, research.CheckNote+field+" has no data_quotes entry, so it will be left out (add a verbatim quotation from a cited source that shows this value to keep it)")
 		}
 		// a quotation the sources do not contain comes back with their closest passage, to copy
 		// instead of searching source.txt for it
 		sources := append([]safeurl.Evidence{initial}, evidence...)
 		for _, field := range check.DataLeftOut {
-			problems = append(problems, field+" would be left out: its quotation is not in the captured text of its source, or that source is not cited by any fact"+closestHint(sources, dataQuote(r, field)))
+			problems = append(problems, research.CheckNote+field+" will be left out: its quotation is not in the captured text of its source, or that source is not cited by any fact"+closestHint(sources, dataQuote(r, field)))
 		}
 		for _, text := range check.LeftOut {
 			problems = append(problems, "this fact's quotation is not in the captured text of its source, so it would be left out (quote the source exactly): "+text+closestHint(sources, factQuote(r, text)))
@@ -121,6 +127,9 @@ func (w *Worker) resultCheck(dir string, initial safeurl.Evidence, base []safeur
 			if err = research.CheckRetiredIdentity(dir, r.Slug, r.Code); err != nil {
 				problems = append(problems, "event identity: "+err.Error())
 			}
+		}
+		if !valid {
+			return problems // the draft itself needs a valid result
 		}
 		draft, err := research.PrepareDraft(dir, r)
 		if errors.Is(err, research.ErrUnchanged) {
@@ -158,11 +167,14 @@ func closestHint(sources []safeurl.Evidence, quote string) string {
 			best, score = p, s
 		}
 	}
-	if score < 0.5 || best == "" {
+	if score < 0.25 || best == "" {
 		return ""
 	}
 	if r := []rune(best); len(r) > 400 {
 		best = string(r[:400]) + "…"
+	}
+	if score < 0.5 {
+		return ". The captured sources' nearest passage shares only some of its words, so the source may not say it: \u201c" + best + "\u201d (quote it exactly if it is what you meant, otherwise leave the value out)"
 	}
 	return ". The closest passage in the captured sources is: \u201c" + best + "\u201d (copy the words you need from it exactly)"
 }
@@ -190,4 +202,28 @@ func dataQuote(r research.Result, field string) string {
 		}
 	}
 	return ""
+}
+
+// sourcesInRange: every fact and data quote cites one of the answer's sources, which the
+// quotation checks index by number.
+func sourcesInRange(r research.Result) bool {
+	ok := func(n int) bool { return n >= 1 && n <= len(r.Sources) }
+	for _, f := range r.Facts {
+		if !ok(f.Source) {
+			return false
+		}
+	}
+	for _, u := range r.Updates {
+		for _, f := range u.Facts {
+			if !ok(f.Source) {
+				return false
+			}
+		}
+	}
+	for _, q := range r.DataQuotes {
+		if !ok(q.Source) {
+			return false
+		}
+	}
+	return true
 }

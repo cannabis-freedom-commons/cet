@@ -214,26 +214,42 @@ func (r *Result) CleanPresentation() {
 			r.Explanation = "The AI proposed updating an existing case for source and report validation."
 		}
 	}
+	r.MergeUpdates()
 }
 
 // Validate checks the result. With vocabularies it also checks the details' terms.
 func (r Result) Validate(countries map[string]bool, vocab ...Vocabularies) error {
+	if problems := r.Problems(countries, vocab...); len(problems) > 0 {
+		return problems[0]
+	}
+	return nil
+}
+
+// Problems lists every problem Validate would find, in the order it checks them, so the result
+// check can name them all at once instead of one per round; Validate is its first.
+func (r Result) Problems(countries map[string]bool, vocab ...Vocabularies) []error {
+	var problems []error
+	add := func(err error) {
+		if err != nil {
+			problems = append(problems, err)
+		}
+	}
 	switch r.Outcome {
 	case "new_event", "existing_case", "additional_source", "duplicate", "not_relevant", "insufficient_evidence", "routed_to_cfi", "needs_review":
 	default:
-		return errors.New("invalid outcome")
+		return []error{errors.New("invalid outcome")}
 	}
 	if utf8.RuneCountInString(r.DecisionTitle) > 120 || plain.MatchString(r.DecisionTitle) {
-		return errors.New("invalid decision title")
+		add(errors.New("invalid decision title"))
 	}
 	if n := utf8.RuneCountInString(r.Explanation); n < 10 || n > 1500 || plain.MatchString(r.Explanation) {
-		return errors.New("invalid explanation")
+		add(errors.New("invalid explanation"))
 	}
 	if len(r.Sources) > 8 || len(r.Facts) > 30 || len(r.Uncertainties) > MaxOpenQuestions {
-		return fmt.Errorf("result exceeds bounds: at most 8 sources, 30 facts and %d open questions", MaxOpenQuestions)
+		add(fmt.Errorf("result exceeds bounds: at most 8 sources, 30 facts and %d open questions", MaxOpenQuestions))
 	}
 	if r.OpenQuestions != nil && len(*r.OpenQuestions) > MaxOpenQuestions {
-		return fmt.Errorf("open_questions lists %d; at most %d", len(*r.OpenQuestions), MaxOpenQuestions)
+		add(fmt.Errorf("open_questions lists %d; at most %d", len(*r.OpenQuestions), MaxOpenQuestions))
 	}
 	questions := append([]string{}, r.Uncertainties...)
 	if r.OpenQuestions != nil {
@@ -241,57 +257,57 @@ func (r Result) Validate(countries map[string]bool, vocab ...Vocabularies) error
 	}
 	for _, question := range questions {
 		if strings.TrimSpace(question) == "" || len(question) > 4000 || strings.ContainsAny(question, "\x00") {
-			return errors.New("invalid open question")
+			add(errors.New("invalid open question"))
 		}
 		if p := questionProblem(question); p != "" {
-			return errors.New(p)
+			add(errors.New(p))
 		}
 	}
 	for _, s := range r.Sources {
 		if _, err := safeurl.Normalize(s.URL); err != nil {
-			return err
+			add(err)
 		}
 		if s.Title == "" || s.Publisher == "" || len(s.Title) > 500 || len(s.Publisher) > 200 {
-			return errors.New("invalid source metadata")
+			add(errors.New("invalid source metadata"))
 		}
 		if s.Date != "" {
 			if _, err := time.Parse("2006-01-02", s.Date); err != nil {
-				return errors.New("invalid source date")
+				add(errors.New("invalid source date"))
 			}
 		}
 		if s.Language != "" && !language.MatchString(s.Language) {
-			return errors.New("invalid source language")
+			add(errors.New("invalid source language"))
 		}
 	}
 	if (r.Outcome == "not_relevant" || r.Outcome == "routed_to_cfi") && len(r.Sources) == 0 {
-		return errors.New("classification requires an opened source")
+		add(errors.New("classification requires an opened source"))
 	}
 	if !r.Drafts() {
 		if len(r.Updates) > 0 {
-			return errors.New("report updates need a drafted outcome")
+			add(errors.New("report updates need a drafted outcome"))
 		}
 		if r.Outcome == "duplicate" && (!slug.MatchString(r.ExistingReport) || len(r.Sources) == 0) {
-			return errors.New("duplicate requires an existing report and an opened source")
+			add(errors.New("duplicate requires an existing report and an opened source"))
 		}
-		return nil
+		return problems
 	}
 	if len(r.Updates) > 5 {
-		return errors.New("too many report updates")
+		add(errors.New("too many report updates"))
 	}
 	updated := map[string]bool{r.Slug: r.Outcome != "additional_source", r.ExistingReport: r.Outcome == "additional_source"}
 	cited := map[int]bool{}
 	for i, f := range r.Facts {
 		if err := validateMergeFact(f, i); err != nil {
-			return err
+			add(err)
 		}
 		cited[f.Source] = true
 	}
 	for _, u := range r.Updates {
 		if err := u.validate(len(r.Sources), cited); err != nil {
-			return err
+			add(err)
 		}
 		if updated[u.Report] {
-			return fmt.Errorf("the report %s is updated twice: put all its facts in one update (and never update the report this answer itself writes or adds a source to)", u.Report)
+			add(fmt.Errorf("the report %s is updated twice: put all its facts in one update (and never update the report this answer itself writes or adds a source to)", u.Report))
 		}
 		updated[u.Report] = true
 	}
@@ -299,78 +315,79 @@ func (r Result) Validate(countries map[string]bool, vocab ...Vocabularies) error
 		// another account of an event a report already records: its facts are the report's
 		// sentences the new sources support
 		if !slug.MatchString(r.ExistingReport) || len(r.Sources) == 0 {
-			return errors.New("an additional source needs its existing report")
+			add(errors.New("an additional source needs its existing report"))
 		}
 		if err := r.validateMedia(); err != nil {
-			return err
+			add(err)
 		}
-		return r.Primary().validate(len(r.Sources), nil)
+		add(r.Primary().validate(len(r.Sources), nil))
+		return problems
 	}
 	if strings.TrimSpace(r.CreatedByModel) == "" {
-		return errors.New("creator model is required")
+		add(errors.New("creator model is required"))
 	}
 	if r.Outcome == "existing_case" && (r.ExistingReport == "" || r.Slug != r.ExistingReport) {
-		return errors.New("existing-case update must preserve its slug")
+		add(errors.New("existing-case update must preserve its slug"))
 	}
 	date, err := time.Parse("2006-01-02", r.Date)
 	if err != nil || date.Year() < 2000 || date.After(time.Now().Add(24*time.Hour)) {
-		return errors.New("invalid incident date")
+		add(errors.New("invalid incident date"))
 	}
 	if !countries[r.Country] || !slug.MatchString(r.Slug) || len(r.Slug) > 100 {
-		return errors.New("invalid country or slug")
+		add(errors.New("invalid country or slug"))
 	}
 	if !strings.Contains(types, "|"+r.Type+"|") {
-		return errors.New("type must be routed or reviewed")
+		add(errors.New("type must be routed or reviewed"))
 	}
 	for _, t := range r.Also {
 		if t == r.Type || !strings.Contains(types, "|"+t+"|") {
 			if t == r.Type {
-				return fmt.Errorf("also lists %q, which is already the type: also holds only the other kinds", t)
+				add(fmt.Errorf("also lists %q, which is already the type: also holds only the other kinds", t))
 			}
-			return fmt.Errorf("also lists %q, which is not a report type (types: %s)", t, strings.Join(strings.Split(strings.Trim(types, "|"), "|"), ", "))
+			add(fmt.Errorf("also lists %q, which is not a report type (types: %s)", t, strings.Join(strings.Split(strings.Trim(types, "|"), "|"), ", ")))
 		}
 	}
 	if len(r.Coordinates) != 2 || r.Coordinates[0] < -90 || r.Coordinates[0] > 90 || r.Coordinates[1] < -180 || r.Coordinates[1] > 180 || !strings.Contains(precisions, "|"+r.Precision+"|") || r.Precision == "" {
-		return errors.New("coordinates and precision are required")
+		add(errors.New("coordinates and precision are required"))
 	}
 	if len(r.Place) > 200 || plain.MatchString(r.Place) {
-		return errors.New("invalid place")
+		add(errors.New("invalid place"))
 	}
 	if len(r.Tags) > 8 {
-		return errors.New("too many tags")
+		add(errors.New("too many tags"))
 	}
 	for _, t := range r.Tags {
 		if !tag.MatchString(t) || len(t) > 40 {
-			return fmt.Errorf("invalid tag %q", t)
+			add(fmt.Errorf("invalid tag %q", t))
 		}
 	}
 	if err := r.Figures.validate(); err != nil {
-		return err
+		add(err)
 	}
 	if err := validateDataQuotes(r); err != nil {
-		return err
+		add(err)
 	}
 	if len(vocab) > 0 {
 		if err := r.Details.Validate(vocab[0], countries); err != nil {
-			return err
+			add(err)
 		}
 	}
 	if err := r.validateMedia(); err != nil {
-		return err
+		add(err)
 	}
 	if p := textProblem("the title", r.Title, 120); p != "" {
-		return errors.New(p)
+		add(errors.New(p))
 	}
 	if p := textProblem("the summary", r.Summary, 400); p != "" {
-		return errors.New(p)
+		add(errors.New(p))
 	}
 	if len(r.Sources) == 0 || len(r.Facts) == 0 {
-		return errors.New("missing evidence")
+		add(errors.New("missing evidence"))
 	}
 	used := map[int]bool{}
 	for i, f := range r.Facts {
 		if p := factProblem(f, len(r.Sources)); p != "" {
-			return fmt.Errorf("fact %d (%q): %s", i+1, excerpt(f.Text), p)
+			add(fmt.Errorf("fact %d (%q): %s", i+1, excerpt(f.Text), p))
 		}
 		used[f.Source] = true
 	}
@@ -381,9 +398,9 @@ func (r Result) Validate(countries map[string]bool, vocab ...Vocabularies) error
 		}
 	}
 	if len(uncited) > 0 {
-		return fmt.Errorf("%s supports no fact: every listed source must be the source of at least one fact; cite it from the fact it supports or remove it from sources (and renumber the facts' sources)", strings.Join(uncited, ", "))
+		add(fmt.Errorf("%s supports no fact: every listed source must be the source of at least one fact; cite it from the fact it supports or remove it from sources (and renumber the facts' sources)", strings.Join(uncited, ", ")))
 	}
-	return nil
+	return problems
 }
 
 // Drafts says whether the answer changes the repository: a new report, an update of the existing
