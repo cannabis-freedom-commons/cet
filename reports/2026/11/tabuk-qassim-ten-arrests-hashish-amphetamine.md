@@ -43,6 +43,10 @@ sources:
     publisher: صحيفة صدى الإلكترونية
     date: 2026-11-14
     language: ar
+  - title: Six Pakistanis Caught Selling Cannabis in Tabuk
+    url: https://www.urdupoint.com/en/world/six-pakistanis-arrested-tabuk-drug-sales-2289776.html
+    publisher: UrduPoint
+    date: 2026-11-14
 open_questions:
   - No weight, packet count or value was published for the hashish, so no cannabis quantity is recorded.
   - The amphetamine and tablets subject to medical regulation are not cannabis and are excluded from cannabis figures.
@@ -56,7 +60,7 @@ allegedly promoting narcotic substances and tablets subject to medical
 regulation in two separate security operations. [@1] In the Tabuk operation,
 officers arrested a Saudi citizen and six residents of Pakistani nationality who
 were accused of promoting amphetamine, hashish and tablets subject to medical
-regulation. [@1] A second Saudi outlet also reported the same Tabuk arrests,
+regulation. [@1,3] A second Saudi outlet also reported the same Tabuk arrests,
 describing a citizen and six Pakistani residents held for promoting amphetamine,
 hashish and regulated tablets. [@2]
 
@@ -71,4 +75,3 @@ smugglers and dealers by calling 995, by calling 911 in Mecca, Medina, Riyadh
 and the Eastern Province and 999 in the rest of the Kingdom, or by email to
 995@gdnc.gov.sa, saying all reports are handled in strict confidence without any
 liability for the informant. [@1]
-
