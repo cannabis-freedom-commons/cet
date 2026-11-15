@@ -61,18 +61,23 @@ sources:
     publisher: News.de
     date: 2026-11-13
     language: de
+  - title: Polizei hebt Cannabisplantage aus - VG Kusel-Altenglan - DIE RHEINPFALZ
+    url: https://www.rheinpfalz.de/lokal/kreis-kusel_artikel,-polizei-hebt-cannabisplantage-aus-_arid,5948209.html
+    publisher: Die Rheinpfalz
+    date: 2026-11-13
+    language: de
 ---
 
 On the evening of 12 November 2026, special police units searched a hall in
 Verbandsgemeinde Kusel-Altenglan after a tip-off about a suspected illegal grow.
 [@1,3] A tip had led investigators to the suspected illegal cultivation site,
-according to police. [@1,4,5] Inside the hall, officers found an extensive cannabis
-plantation with more than 1,000 cannabis plants. [@1,3,4,5]
+according to police. [@1,4,5,6] Inside the hall, officers found an extensive cannabis
+plantation with more than 1,000 cannabis plants. [@1,3,4,5,6]
 
-During the search, a 40-year-old man tried to flee the hall. [@1,3,4,5] Officers
+During the search, a 40-year-old man tried to flee the hall. [@1,3,4,5,6] Officers
 stopped the escape and arrested the 40-year-old suspect. [@2,4,5] On Friday 13
 November, the suspect was brought before an investigating judge. [@1,3,5] The court
-ordered pre-trial detention for the suspect. [@2,3,4,5] He made no statement on the
+ordered pre-trial detention for the suspect. [@2,3,4,5,6] He made no statement on the
 allegations and exercised his right to remain silent, according to police. [@1,4,5]
 
 Police note that cultivation on this scale remains prohibited in Germany despite
