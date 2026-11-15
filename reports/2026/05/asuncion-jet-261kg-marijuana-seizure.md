@@ -38,6 +38,16 @@ media:
     media_url: https://cdn.rcc.com.py/2026/05/droga-port-1140x725.jpg
     publisher: RCC
     caption: 'Photo published with the RCC report on the 261-kg premium marijuana seizure from the Panama-via aircraft. Photo: RCC'
+  - kind: photo
+    url: https://www.abc.com.py/policiales/2026/05/30/aeropuerto-silvio-pettirossi-incautan-presunto-hachis-que-llego-en-avion-privado/
+    media_url: https://www.abc.com.py/resizer/v2/7O5FKTIVCFG5NI3WYUHL3YF2RA.jpg?auth=6a4124cd9f90925c2c277ec7b1f7c167333bcd28f4e1dc5ad6f79270347bcd5d&width=770&smart=true
+    publisher: ABC Color
+    caption: SENAD agent pointing at the private plane at Silvio Pettirossi airport with a LATITUDE building in the background.
+  - kind: photo
+    url: https://www.abc.com.py/policiales/2026/05/30/aeropuerto-silvio-pettirossi-incautan-presunto-hachis-que-llego-en-avion-privado/
+    media_url: https://www.abc.com.py/resizer/v2/F4GV46ZB7RENHBXKX2W7B2V2TI.jpg?auth=bd39e78b6565d09d90aa13383e9c83fc045099ef68989b82251c83d71e409549&width=770&smart=true
+    publisher: ABC Color
+    caption: Gloved hand holding a package surrounded by several black packages on the ground from the airport seizure.
 details:
   activity: [trafficking, possession]
   agencies: [py-senad]
@@ -117,25 +127,17 @@ sources:
     publisher: RCC
     date: 2026-05-30
     language: es
-open_questions:
-    - The total number of people detained is ambiguous because Brown's brief detention and the three United States citizens remaining in custody overlap in time, so the arrested figure records only the three reported as remaining in custody.
-    - Judge Rosarito Montanía ordered pretrial detention for the three detained passengers, but no plea, trial or final court outcome was reported.
-    - No arrest of Keith Siilats was reported; only an arrest warrant was reported, while Infobae said he was not charged and had left Paraguay on a commercial flight before the operation.
-    - Panama's investigation into the aircraft's stopover was still under way with no outcome reported.
-    - The US$3.6 million figure and ABC Color's estimate of US$10,000 to US$14,000 per kilogram, totalling over US$3 million, are the authorities' estimates for the Brazilian market rather than independently verified values.
-    - Reported weights vary slightly between 261 kg, 261.6 kg and 262.6 kg, and ABC Color refers to the drug as hashish in its headline and refined or premium marijuana in the text; the report keeps 261.6 kg.
-    - Infobae (citing EFE) and ABC Color say the aircraft landed on Friday night and the seizure occurred on Saturday morning, and Clarín dates the arrests to Saturday 30 May, while the report dates the discovery to 29 May.
-    - Infobae and ABC Color give Brown's age as 21 and attribute his release to prosecutor Ingrid Cubilla, whereas earlier reporting gave his age as 20 and cited SENAD finding no evidence against him, and defence counsel disputed his release.
-    - Clarín says the flight came from Miami and names no Panama stopover; other accounts record a stop in Panama.
-    - RCC says Siilats would also be the owner of the aircraft; other accounts identify him as the registered owner or pilot without a published ownership document.
-    - ABC Color gives David Thomas Wise's age as 57 and puts the aircraft charter cost at more than US$91,875, whereas Infobae and El Horizonte report his age as 58 and Infobae puts the charter cost at USD 91,485.
-    - Whether the court decided to transfer administration of the confiscated Bombardier Challenger jet to Senabico was not yet reported.
+  - title: 'Aeropuerto Silvio Pettirossi: incautan presunto hachís que llegó en avión privado'
+    url: https://www.abc.com.py/policiales/2026/05/30/aeropuerto-silvio-pettirossi-incautan-presunto-hachis-que-llego-en-avion-privado/
+    publisher: ABC Color
+    date: 2026-05-30
+    language: es
 ---
 
 20-year-old influencer and co-pilot Jabari Stephen Brown, known as Captain
 Treezy, was among those detained after the seizure after rising to fame by
 winning a viral MrBeast challenge in late 2025. [@1,4,7] Three United States
-citizens who travelled aboard the jet remain in Paraguayan custody. [@1,3]
+citizens who travelled aboard the jet remain in Paraguayan custody. [@1,3,12]
 Authorities identified the second pilot and registered owner of the jet as
 Estonian citizen Keith Siilats and issued an arrest warrant against him for
 international drug trafficking and unauthorized possession of narcotics. [@1,4,7]
@@ -149,7 +151,7 @@ Paraguayan authorities discovered 261.6 kilograms of high-THC cannabis valued at
 US$3.6 million being unloaded from the aircraft at Silvio Pettirossi
 International Airport in Asuncion on 29 May. [@1,6,11] The aircraft had departed
 Miami, stopped in Panama and then arrived in Paraguay, and investigators believe
-the marijuana was destined for Brazil. [@1,3,5,9,10] Paraguayan anti-drug prosecutor
+the marijuana was destined for Brazil. [@1,3,5,9,10,12] Paraguayan anti-drug prosecutor
 Ingrid Cubilla said the estimated value reflected demand in Brazil, where each
 kilogram can reach nearly US$14,000 on the illicit market. [@1,4,6]
 
@@ -159,7 +161,7 @@ executive aircraft was unusual among seizures recorded in the country. [@1] Anti
 English edition confirms that Brown was released on May 31, according to a
 representative of Paraguay's drug enforcement agency. [@2]
 
-A Paraguayan judge, Rosarito Montanía, ordered the pretrial detention of Marisol Rivas, Troy Anthony Vásquez and David Thomas Wise because they had no ties to Paraguay. [@3,9] Defence lawyer Rafael Fernández, representing two of the US citizens, questioned Brown's release after prosecutor Ingrid Gisselle Cubilla Villamayor said he cooperated throughout the investigation. [@9] The men were held at the Centro Nacional de Prevenidos in Asunción, and Rivas was sent to the prison at Emboscada, in the Cordillera department. [@3,9] Fernández said his clients claimed the pilot had hired all three passengers to travel to Paraguay on holiday. [@9] The passengers were named as Marisol Rivas, 39, from New York; Troy Anthony Vásquez, 42, from Florida; and David Thomas Wise, 58, from California. [@3,7,11] Wise chartered the aircraft through a California company for USD 91,485, according to prosecutor Ingrid Cubilla. [@3] Paraguayan authorities arrested three of the US travellers in Asunción hotels and the co-pilot at the airport. [@3,6] The three detained passengers face international trafficking and unauthorised possession charges under articles 21 and 27 of Paraguay's Drug Law 1,340, according to ABC. [@3,4] SENAD agents intercepted the Challenger 604 in an airport hangar after a crew member tried to remove luggage containing eight packages of the marijuana. [@3,4,6] SENAD said the airport raid took place under Programa Colibrí, an inter-agency initiative uniting SENAD, the Paraguayan Air Force, civil aviation authority DINAC, customs and tax agency DNIT, and the National Police. [@10,11]
+A Paraguayan judge, Rosarito Montanía, ordered the pretrial detention of Marisol Rivas, Troy Anthony Vásquez and David Thomas Wise because they had no ties to Paraguay. [@3,9] Defence lawyer Rafael Fernández, representing two of the US citizens, questioned Brown's release after prosecutor Ingrid Gisselle Cubilla Villamayor said he cooperated throughout the investigation. [@9] The men were held at the Centro Nacional de Prevenidos in Asunción, and Rivas was sent to the prison at Emboscada, in the Cordillera department. [@3,9] Fernández said his clients claimed the pilot had hired all three passengers to travel to Paraguay on holiday. [@9] The passengers were named as Marisol Rivas, 39, from New York; Troy Anthony Vásquez, 42, from Florida; and David Thomas Wise, 58, from California. [@3,7,11,12] Wise chartered the aircraft through a California company for USD 91,485, according to prosecutor Ingrid Cubilla. [@3] Paraguayan authorities arrested three of the US travellers in Asunción hotels and the co-pilot at the airport. [@3,6] The three detained passengers face international trafficking and unauthorised possession charges under articles 21 and 27 of Paraguay's Drug Law 1,340, according to ABC. [@3,4] SENAD agents intercepted the Challenger 604 in an airport hangar after a crew member tried to remove luggage containing eight packages of the marijuana. [@3,4,6,12] SENAD said the airport raid took place under Programa Colibrí, an inter-agency initiative uniting SENAD, the Paraguayan Air Force, civil aviation authority DINAC, customs and tax agency DNIT, and the National Police. [@10,11]
 
 Senad identified Siilats as a co-founder of the micromobility company Bolt Mobility in the United States. [@4] The four detainees were taken from SENAD's operations base to the Public Prosecutor's Office, where prosecutors took their statements. [@4,5]
 
@@ -167,4 +169,4 @@ Three of the passengers, Marisol Rivas, Anthony Vásquez and David Thomas Wise, 
 
 Senad said it was still searching for other people implicated in the shipment. [@6,10]
 
-The marijuana was found being unloaded from the aircraft in several suitcases that were to be moved on by land, and Senad said the load was valued at about US$3.6 million on the illicit market. [@7,11] Senad said the aircraft was piloted by Estonian technology businessman Keith Siilats, who was not located during the operations that led to the detentions and who, according to intelligence, left Paraguay on Saturday morning hours before the hangar intervention. [@7] El Horizonte reports that the flight left Miami, stopped in Panama and then landed in Paraguay, without explaining how that fits its statement that the aircraft came from the United States. [@7] RCC reported that Siilats would also be the owner of the aircraft used to carry the load, and that authorities were trying to establish who was to receive the marijuana. [@8]
+The marijuana was found being unloaded from the aircraft in several suitcases that were to be moved on by land, and Senad said the load was valued at about US$3.6 million on the illicit market. [@7,11] The 261 kilograms of hashish, described as processed marijuana, were hidden in thermal bags. [@12] Senad said the aircraft was piloted by Estonian technology businessman Keith Siilats, who was not located during the operations that led to the detentions and who, according to intelligence, left Paraguay on Saturday morning hours before the hangar intervention. [@7] El Horizonte reports that the flight left Miami, stopped in Panama and then landed in Paraguay, without explaining how that fits its statement that the aircraft came from the United States. [@7] RCC reported that Siilats would also be the owner of the aircraft used to carry the load, and that authorities were trying to establish who was to receive the marijuana. [@8]
