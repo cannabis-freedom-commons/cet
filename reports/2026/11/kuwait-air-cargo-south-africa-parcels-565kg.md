@@ -109,6 +109,11 @@ sources:
     publisher: Asianet News Malayalam
     date: 2026-11-14
     language: ml
+  - title: സീലിങ് ലൈറ്റുകളുടെ മറവിൽ കുവൈത്തിലേക്ക് കടത്താൻ ശ്രമിച്ച 5.65 കിലോഗ്രാം കഞ്ചാവ് പിടികൂടി | news
+    url: https://marunadanmalayalee.com/kuwait/news-kuwait/news-870146
+    publisher: Marunadan Malayalee
+    date: 2026-11-14
+    language: ml
 media:
   - kind: photo
     url: https://www.alanba.com.kw/1384402
@@ -120,18 +125,23 @@ media:
     media_url: https://www.arabtimesonline.com/arabtimes/uploads/images/2026/11/09/149898.mp4
     publisher: Arab Times
     caption: Video published with Arab Times' account of the Kuwait air cargo customs seizure of 5.65 kg of suspected marijuana in two parcels from South Africa; it carries no caption or credit on the page.
+  - kind: photo
+    url: https://marunadanmalayalee.com/kuwait/news-kuwait/news-870146
+    media_url: https://marunadanmalayalee.com/h-upload/2026/11/14/1096430-12.webp
+    publisher: Marunadan Malayalee
+    caption: 'Seized cannabis concealed as ceiling lights from the Kuwait air cargo seizure. Photo: Marunadan Malayalee'
 ---
 
 Kuwait's Air Cargo Customs Department said its inspection and deposit control
-inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7,8,9,10,12,13,14] The parcels
+inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7,8,9,10,12,13,14,15] The parcels
 carried a substance suspected to be marijuana, described as herbal hashish,
-weighing 5.650 kilograms in total. [@1,2,3,4,5,6,8,10,11,12,13,14]
+weighing 5.650 kilograms in total. [@1,2,3,4,5,6,8,10,11,12,13,14,15]
 
 The parcels had been declared as ceiling lamps, and the inspectors found the
-suspected substance inside them after searching. [@1,2,3,4,5,8,10,11,12,13,14] After the seizure, the
+suspected substance inside them after searching. [@1,2,3,4,5,8,10,11,12,13,14,15] After the seizure, the
 customs search and investigation department coordinated with the Interior
 Ministry's General Department for Drug Control to complete the legal procedures
-for the seized parcels. [@1,2,3,4,5,8,10,11,12,13,14]
+for the seized parcels. [@1,2,3,4,5,8,10,11,12,13,14,15]
 
 The General Directorate of Customs said it would keep blocking drug-smuggling
 attempts through customs posts and working with security agencies. [@1,14]
