@@ -32,6 +32,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a6b80ca5cb1cee36242a762f8121d68b
 tags: [cucuta, norte-de-santander]
+media:
+  - kind: photo
+    url: https://qhubobucaramanga.com/colombia/286654-dos-jovenes-cayeron-con-medio-kilo-de-marihuana
+    media_url: https://qhubobucaramanga.com/wp-content/uploads/2026/11/marihuana2.jpg
+    publisher: Q'Hubo Bucaramanga
+    caption: >-
+      The two handcuffed youths with police after the Cúcuta El Resumen half-kilo stop. Photo: Q'Hubo
+      Bucaramanga
 sources:
   - title: Dos jóvenes cayeron con medio kilo de marihuana
     url: https://qhubobucaramanga.com/colombia/286654-dos-jovenes-cayeron-con-medio-kilo-de-marihuana

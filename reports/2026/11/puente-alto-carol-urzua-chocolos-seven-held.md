@@ -35,6 +35,7 @@ sources:
     date: 2026-11-08
     language: es
 open_questions:
+  - Cooperativa illustrates the Los Chocolos raids with a close-up of a PDI jacket back and no cannabis or accused, so no event photo is listed.
   - Only one opened source supports this event; no second outlet account or PDI statement confirming it was found.
   - No separate weight for the cannabis portion was published; the full account lists cocaine, ketamine, cannabis and controlled medicines together.
   - The article gives no separate date for the raids; 8 November 2026 is its publication date and the day it names for the operation.

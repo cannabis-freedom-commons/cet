@@ -19,6 +19,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c19ed57e7fc9b9d54d5b87d31aac7707
 tags: [huechuraba, la-pincoya, pdi]
+media:
+  - kind: photo
+    url: https://www.chilevision.cl/noticias/casos-policiales/6-detenidos-y-mas-de-19-millones-en-droga-cae-importante-clan-familiar-que-operaba-en-la-pincoya/
+    media_url: https://media.chilevision.cl/2026/11/clan-en-la-pincoya-1200x675.png
+    publisher: Chilevisión
+    caption: >-
+      Seized vehicles and a PDI evidence table with drugs and cash from the La Pincoya clan raids.
+      Photo: Chilevisión / PDI
 sources:
   - title: '6 detenidos y más de $19 millones en droga: cae importante clan familiar que operaba en La Pincoya'
     url: https://www.chilevision.cl/noticias/casos-policiales/6-detenidos-y-mas-de-19-millones-en-droga-cae-importante-clan-familiar-que-operaba-en-la-pincoya/

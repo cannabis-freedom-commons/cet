@@ -44,6 +44,7 @@ sources:
     date: 2026-11-04
     language: es
 open_questions:
+  - HSB Noticias illustrates the La Victoria seizure with an unrelated Gobernación portrait, so no event photo is listed.
   - The article gives no separate date for the seizure, so its publication date of 4 November 2026 is used as the incident date.
   - No arrests, names, charges or court outcome were reported; the Fiscalía investigation was still pending.
   - The 180-kilogram weight and 36-million-peso value are approximate official estimates, not a laboratory weight.

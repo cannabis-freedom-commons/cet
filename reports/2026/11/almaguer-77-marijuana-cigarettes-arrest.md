@@ -45,6 +45,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 81fad8ff2a2eb1935cbb3c4c0c7e495f
 tags: [cauca, almaguer, microtrafico, marijuana, policia-nacional]
+media:
+  - kind: photo
+    url: https://hsbnoticias.com/noticias/la-policia-encontro-190-gramos-de-marihuana-distribuidos-en-77-cigarrillos
+    media_url: https://gec.lbrluber.com/uploads/articles/5d471224-8f6d-4cb4-9191-3b28fd23948a.webp
+    publisher: HSB Noticias
+    caption: >-
+      Adrián García Ocampo handcuffed between police officers after the Almaguer Fatima stop. Photo:
+      HSB Noticias / Policía Nacional
 sources:
   - title: La Policía encontró 190 gramos de marihuana, distribuidos en 77 cigarrillos.
     url: https://hsbnoticias.com/noticias/la-policia-encontro-190-gramos-de-marihuana-distribuidos-en-77-cigarrillos

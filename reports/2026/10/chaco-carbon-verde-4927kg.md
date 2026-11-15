@@ -35,6 +35,14 @@ data_sources:
   figures.arrested: [1, 2]
 status: verified
 tags: [chaco, resistencia, carbon-verde]
+media:
+  - kind: photo
+    url: https://chaco.gov.ar/noticia-historico-operativo-carbon-verde-la-policia-del-chaco-secuestro-casi-5-toneladas-de-marihuana-2026-10-15-10-56
+    media_url: http://chaco.gov.ar/uploads/files/1000316688-6ad0db8db88d1524824584.jpg
+    publisher: Gobierno del Chaco
+    caption: >-
+      Officials and tactical officers with rows of pressed marijuana packages from Operativo Carbón
+      Verde. Photo: Gobierno del Chaco
 open_questions:
   - The provincial announcement of 15 October did not name the two detainees or say where the load had come from or was going.
   - Later Formosa reporting that the truck was loaded in Clorinda and bound for Rosario is a follow-on investigation left out of the seizure figures here.

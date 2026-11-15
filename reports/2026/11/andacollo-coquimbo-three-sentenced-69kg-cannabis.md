@@ -46,6 +46,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7c95f4827fc65a845cedb38204a411df
 tags: [coquimbo, andacollo, pdi, indoor-grow, tierras-blancas]
+media:
+  - kind: photo
+    url: https://www.miradiols.cl/2026/11/10/mas-de-28-anos-de-carcel-para-integrante-de-red-de-narcotrafico-en-andacollo-y-coquimbo-tenia-drogas-armas-y-cultivos-de-cannabis/
+    media_url: https://www.miradiols.cl/wp-content/uploads/2026/11/IMG_0257-scaled.jpg
+    publisher: Mi Radio LS
+    caption: >-
+      PDI officers cutting cannabis plants under shade netting at the Andacollo–Coquimbo cultivation
+      site. Photo: Mi Radio LS / PDI
 sources:
   - title: 'Más de 28 años de cárcel para integrante de red de narcotráfico en Andacollo y Coquimbo: tenía drogas, armas y cultivos de cannabis - Mi Radio'
     url: https://www.miradiols.cl/2026/11/10/mas-de-28-anos-de-carcel-para-integrante-de-red-de-narcotrafico-en-andacollo-y-coquimbo-tenia-drogas-armas-y-cultivos-de-cannabis/

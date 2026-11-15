@@ -43,6 +43,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fa3f509d9d51712a58419d3d98c5c3b7
 tags: [huaytara, huancavelica, dirandro, marijuana, preventive-prison]
+media:
+  - kind: photo
+    url: https://diariocorreo.pe/edicion/ica/prision-preventiva-por-trasladar-casi-media-tonelada-de-marihuana-y-cocaina-en-la-via-los-libertadores-noticia/
+    media_url: https://diariocorreo.pe/resizer/v2/FXQ57W6AO5EWFONBDTF3PI54HQ.jpg?auth=67f32e18e27b09d4fccfebf00e42e43ee5d4f538c2c06fe49eca4a120eadd2fb&width=980&height=528&quality=75&smart=true
+    publisher: Diario Correo
+    caption: >-
+      Weighed marijuana bundles and the detainee with PNP officers after the Huaytará Liberadores
+      stop. Photo: Diario Correo / Ministerio Público
 sources:
   - title: Prisión preventiva por trasladar casi media tonelada de marihuana y cocaína en la vía Los Libertadores
     url: https://diariocorreo.pe/edicion/ica/prision-preventiva-por-trasladar-casi-media-tonelada-de-marihuana-y-cocaina-en-la-via-los-libertadores-noticia/

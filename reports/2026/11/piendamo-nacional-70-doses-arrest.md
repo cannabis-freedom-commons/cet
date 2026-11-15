@@ -61,6 +61,7 @@ sources:
     date: 2026-11-09
     language: es
 open_questions:
+  - Diario del Sur illustrates the Piendamó arrest with a custody photo showing white powder bags and cash, not the reported marijuana doses, so no event photo is listed.
   - The accounts give no separate date for the arrest; 9 November 2026, the publication dates of both articles, is used as the incident date.
   - No weight in grams was published for the 70 doses, so no kilogram figure is recorded.
   - Diario del Sur gives the man's name as a purported identification while Radio Diez gives only his age; no charges filed or court ruling were reported.

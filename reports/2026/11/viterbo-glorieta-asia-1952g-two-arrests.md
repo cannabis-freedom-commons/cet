@@ -31,6 +31,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9de3a88dbb2f2277351398ca5982c8e9
 tags: [viterbo, caldas, marijuana]
+media:
+  - kind: photo
+    url: https://www.bcnoticias.com.co/capturan-a-dos-personas-con-casi-dos-kilos-de-marihuana-en-viterbo/
+    media_url: https://imagenesbc.com/wp-content/uploads/2026/11/FACEBOOK-2025-15.webp
+    publisher: BC Noticias
+    caption: >-
+      One of the detainees with Policía Nacional officers after the Viterbo Glorieta Asia stop.
+      Photo: BC Noticias / Policía Nacional
 sources:
   - title: Capturan a dos personas con casi dos kilos de marihuana en Viterbo
     url: https://www.bcnoticias.com.co/capturan-a-dos-personas-con-casi-dos-kilos-de-marihuana-en-viterbo/

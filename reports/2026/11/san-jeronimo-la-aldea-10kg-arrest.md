@@ -39,6 +39,14 @@ status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 01780d3333c517407e6ea2519a981fca
 tags: [antioquia, san-jeronimo, la-aldea, santa-fe-de-antioquia, policia-nacional]
+media:
+  - kind: photo
+    url: https://www.minuto30.com/capturan-a-un-hombre-con-10-000-gramos-de-marihuana-en-san-jeronimo/1729498/
+    media_url: https://staticprd.minuto30.com/wp-content/uploads/2026/11/1-destacada-san-jeronimo-marihuana.webp
+    publisher: Minuto30
+    caption: >-
+      The detainee with Antioquia police and packaged marijuana after the San Jerónimo La Aldea
+      stop. Photo: Minuto30 / Policía Nacional
 sources:
   - title: Capturan a un hombre con 10.000 gramos de marihuana en San Jerónimo
     url: https://www.minuto30.com/capturan-a-un-hombre-con-10-000-gramos-de-marihuana-en-san-jeronimo/1729498/

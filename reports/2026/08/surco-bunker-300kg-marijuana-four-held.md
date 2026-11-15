@@ -32,6 +32,13 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 785d91c71f45f781f037fd3e373eb46c
 tags: [surco, lima, cripy, alto-huallaga, callao]
+media:
+  - kind: photo
+    url: https://www.atv.pe/noticia/bunker-droga-surco-marihuana-dinamita/
+    media_url: https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2026/09/bunker-droga-surco-marihuana.jpg
+    publisher: ATV
+    caption: >-
+      Bagged marijuana piled on a bed inside the Surco bunker after the four arrests. Photo: ATV
 sources:
   - title: "\U0001F534\U0001F535 Detienen a 4 sujetos con más de 300 kilos de sustancias ilícitas en Surco"
     url: https://www.apnoticias.pe/video/detienen-a-4-sujetos-con-mas-de-300-kilos-de-sustancias-ilicitas-en-surco-612640

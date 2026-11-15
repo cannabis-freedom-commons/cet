@@ -39,6 +39,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 563c8b760e72258e93e887015bf4a6d8
 tags: [cusco, quispicanchi, bus]
+media:
+  - kind: photo
+    url: https://diariocorreo.pe/edicion/cusco/mujer-y-menor-de-edad-caen-con-35-kilos-de-marihuana-en-cusco-video-noticia/
+    media_url: https://diariocorreo.pe/resizer/v2/BQLXLNS6LRAW7LBJRC7QJPPDVA.jpeg?auth=2c7eeb52542e0c2bd1fc50348e34af72e25f4e670c4ba9ccf88ea9c85ef1b420&width=980&height=528&quality=75&smart=true
+    publisher: Diario Correo
+    caption: >-
+      Labeled marijuana bundles and the hooded detainee after the Munapata–Urcos bus seizure. Photo:
+      Diario Correo / PNP
 sources:
   - title: Mujer y menor de edad caen con 35 kilos de marihuana en Cusco (VIDEO)
     url: https://diariocorreo.pe/edicion/cusco/mujer-y-menor-de-edad-caen-con-35-kilos-de-marihuana-en-cusco-video-noticia/

@@ -30,6 +30,8 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c0b37b32bd4c1f38acb14e3f1bcf872b
 tags: [cauca, piendamo, ejercito, brigada-29, marihuana, dagoberto-ramos]
+open_questions:
+  - Diario del Cauca and Diario del Sur illustrate the Tunía seizure with unrelated cultural-goods, mining and fashion graphics, so no event photo is listed.
 sources:
   - title: Ejército incautó 440 kilos de marihuana en el sector de Tunía, Cauca
     url: https://www.diariodelcauca.com.co/noticias/ejercito-incauto-440-kilos-de-marihuana-en-el-sector-de-tunia-cauca

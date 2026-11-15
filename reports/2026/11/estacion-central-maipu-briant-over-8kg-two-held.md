@@ -45,6 +45,14 @@ status: verified
 created_by_model: xai/grok-4.7#low
 submission: 3c8dd145d16a03380662fb8e6b47082a
 tags: [estacion-central, maipu, santiago, pdi, briant]
+media:
+  - kind: photo
+    url: https://pajaritosfm.cl/incautan-9-kilos-de-droga-en-estacion-central/
+    media_url: https://pajaritosfm.cl/wp-content/uploads/2026/11/evidencias-carabinros.webp
+    publisher: Pajaritos FM
+    caption: >-
+      PDI evidence table with cannabis bags, white packets and cash from the Estación Central–Maipú
+      raids. Photo: Pajaritos FM / PDI
 sources:
   - title: Incautan 9 Kilos de droga en Estación Central
     url: https://pajaritosfm.cl/incautan-9-kilos-de-droga-en-estacion-central/
