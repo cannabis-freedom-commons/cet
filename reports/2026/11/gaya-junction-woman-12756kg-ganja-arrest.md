@@ -75,28 +75,30 @@ sources:
     publisher: India TV Hindi
     date: 2026-11-14
     language: hi
-open_questions:
-    - 'The accounts differ on the make-up of the raiding team: India TV lists the RPF, CID, narcotics staff and the GRP, while other reports describe a joint RPF and GRP team.'
-    - No plea, bail decision or court outcome was reported; the case was at the investigation stage with GRP Gaya.
+  - title: गया जंक्शन पर ट्रेन में पकड़ाया 12 किलो गांजा, संबलपुर से सासाराम ला रही थी युवती | Deshaj Times
+    url: https://deshajtimes.com/news/bihar/gaya-ji/gaya-junction-woman-arrested-with-ganja-smuggling-1yyb0yt/323198/
+    publisher: Deshaj Times
+    date: 2026-11-14
+    language: hi
 ---
 
 A joint RPF and GRP team arrested 22-year-old Chhoti Kumari with 12.756 kg of
-ganja on platform 1 at Gaya Junction on the morning of 14 November 2026. [@1,3,4] The RPF's Gaya in-charge, Banarasi Yadav, gave the account of the arrest to reporters on the Saturday. [@4] India TV described the raiding team as a joint RPF, CID, narcotics and GRP operation. [@4]
+ganja on platform 1 at Gaya Junction on the morning of 14 November 2026. [@1,3,4,5] The RPF's Gaya in-charge, Banarasi Yadav, gave the account of the arrest to reporters on the Saturday. [@4] India TV described the raiding team as a joint RPF, CID, narcotics and GRP operation. [@4]
 She was travelling in the general coach of the Dhanbad-Shakurbasti Express when
-the team searched her bag after a tip-off about train number 03639. [@1,3,4] She was
+the team searched her bag after a tip-off about train number 03639. [@1,3,4,5] She was
 identified as the daughter of Gopal Kahar of Sonadih village, Kargahar police
-station area, Rohtas district. [@1,3]
+station area, Rohtas district. [@1,3,5]
 
 She told police she had received the ganja at Sambalpur in Odisha and was
-carrying it to Sasaram in Bihar for money. [@1,3,4] The search of her bag found 12
-bundles of ganja weighing a total of 12.756 kg. [@1,3,4] Officers put the estimated
-market value of the seized ganja at Rs637,800. [@1,3,4] The seizure was made in the
+carrying it to Sasaram in Bihar for money. [@1,3,4,5] The search of her bag found 12
+bundles of ganja weighing a total of 12.756 kg. [@1,3,4,5] Officers put the estimated
+market value of the seized ganja at Rs637,800. [@1,3,4,5] The seizure was made in the
 presence of Assistant Security Commissioner, RPF Gaya, Sanjay Kumar Singh, with
 Sub-Inspector Dhirendra Kumar completing the seizure formalities. [@1,3] Woman police constable Chanda Devi assisted in arresting her. [@3]
 
 The joint RPF-GRP team acted under Operation Narcos. [@2,3] After the arrest and
 seizure, the RPF team handed the seized ganja and the arrested woman to GRP
-police station Gaya. [@1,3] GRP Gaya registered case number 285/26 dated 14
+police station Gaya. [@1,3,5] GRP Gaya registered case number 285/26 dated 14
 November 2026 on the written complaint of RPF Sub-Inspector Dhirendra Kumar.
-[@1,3,4] The case was registered under sections 8/20(b)(ii)B of the NDPS Act, with
+[@1,3,4,5] The case was registered under sections 8/20(b)(ii)B of the NDPS Act, with
 further legal action and investigation to be done by the GRP. [@1,3]
