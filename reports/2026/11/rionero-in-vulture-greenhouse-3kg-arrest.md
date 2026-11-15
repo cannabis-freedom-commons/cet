@@ -79,22 +79,28 @@ sources:
     publisher: SassiLive
     date: 2026-11-13
     language: it
+  - title: 'RIONERO IN VULTURE (PZ), SCOPERTA SERRA CLANDESTINA DI MARIJUANA IN UN CASOLARE: ARRESTATO UN 56ENNE. IL PLAUSO DELLA SEGRETERIA AI CARABINIERI DELLA LOCALE STAZIONE'
+    url: https://www.simcarabinieri.it/rionero-in-vulture-pz-scoperta-serra-clandestina-di-marijuana-in-un-casolare-arrestato-un-56enne-il-plauso-della-segreteria-ai-carabinieri-della-locale-stazione/
+    publisher: SIM CARABINIERI
+    date: 2026-11-14
+    language: it
 open_questions:
   - The 3-kilogram figure is given as approximate (circa 3 chilogrammi), not an exact measured weight.
   - The small amount of marijuana found in the man's home is not quantified in the SassiLive account.
+  - The account describes the operation as taking place on a Tuesday 13 November, but that weekday and calendar date do not align, so the exact day of the arrest remains open.
 ---
 
 Carabinieri arrested a 56-year-old local man in flagrante delicto in Rionero in
-Vulture on suspicion of unlawful production and possession of drugs. [@1,4,5,6,7] The
+Vulture on suspicion of unlawful production and possession of drugs. [@1,4,5,6,7,9] The
 Rionero in Vulture Carabinieri station made the arrest in the early afternoon on
 the previous Tuesday as part of provincial anti-drug operations. [@2,4,8] The
 investigating judge in Potenza validated the arrest and ordered house arrest
-with an electronic bracelet. [@2,4,5,6,8]
+with an electronic bracelet. [@2,4,5,6,8,9]
 
 In a countryside farmhouse on farmland owned by the arrested man, officers found
-a clandestine greenhouse used to grow and dry marijuana. [@1,4,5,6,7] Inside they found
+a clandestine greenhouse used to grow and dry marijuana. [@1,4,5,6,7,9] Inside they found
 and seized several hemp plants between 80 and 120 centimetres tall, weighing
-about 3 kilograms in total, along with indoor-growing equipment. [@1,4,5,6,7] Officers
+about 3 kilograms in total, along with indoor-growing equipment. [@1,4,5,6,7,9] Officers
 also searched the man's home and found a small amount of marijuana there. [@2,4,5]
 The greenhouse building, the growing equipment and all the drugs were seized and
 placed at the disposal of the Potenza public prosecutor. [@2,4,6]
