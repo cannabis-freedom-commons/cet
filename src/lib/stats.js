@@ -1,6 +1,8 @@
 // The figures and series the Statistics page draws, worked out at build time from the reports.
 import { TYPES } from "./types.js";
 import { weightParts } from "./figures.js";
+import { modelName } from "./models.js";
+export { modelName };
 
 const compactFormat = new Intl.NumberFormat("en-GB", { notation: "compact", maximumFractionDigits: 1 });
 export const fmt = (n) => Math.round(n).toLocaleString("en-GB");
@@ -35,15 +37,6 @@ export function periodColumns(list, keyOf, periods) {
 
 // the tooltip of a column: its total and, in words, the types it is made of
 export const typeRows = (types) => Object.keys(TYPES).filter((t) => types[t]).map((t) => [TYPES[t].color, TYPES[t].plural, types[t]]);
-
-// the model that wrote a report, without its provider and reasoning setting:
-// "spacexai/grok-4.7#medium" → "grok-4.7"; null when it was not recorded
-export function modelName(id) {
-  const v = String(id ?? "").trim();
-  if (!v || v.startsWith("unknown")) return null;
-  const slash = v.match(/^[\w.-]+\/(.+)$/);
-  return (slash ? slash[1] : v).split("#")[0].trim();
-}
 
 // reports per model, most first, each with the exact identifiers (provider, setting) behind it
 export function reportsByModel(list) {

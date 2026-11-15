@@ -1,4 +1,6 @@
-import { runCost, planCost, modelPlan, MODEL_PRICES, baseModel } from './model-cost.js';
+import { runCost, planCost, modelPlan, isPriced } from './model-cost.js';
+import { modelParts } from './models.js';
+export { modelParts };
 
 export function summarizeAIUsage(buckets, plan) {
   const models = new Map();
@@ -11,7 +13,7 @@ export function summarizeAIUsage(buckets, plan) {
     row.cached += b.cache_read_tokens;
     row.reasoning += b.reasoning_tokens;
     row.cost += runCost(b);
-    if (!(b.cost_usd > 0) && !MODEL_PRICES[baseModel(b.model)]) row.unpriced += b.runs;
+    if (!(b.cost_usd > 0) && !isPriced(b.model)) row.unpriced += b.runs;
     row.planCost = planCost(row.cost, plan, b.model);
     models.set(b.model, row);
   }
@@ -32,13 +34,6 @@ export const OUTCOMES = [
 ];
 export const OTHER_OUTCOMES = [['other', 'Other outcomes'], ['unfinished', 'Failed or unfinished']];
 
-// "provider/model#effort" → its parts, for a short label
-export function modelParts(id) {
-  const [path, effort = ''] = String(id || '').split('#');
-  const slash = path.indexOf('/');
-  return { provider: slash > 0 ? path.slice(0, slash) : '', name: slash > 0 ? path.slice(slash + 1) : path || 'Not recorded', effort };
-}
-
 // per model: for each outcome, the runs, cost (as summarizeAIUsage works it out), the average cost
 // and time per run, and the median and p90 times; `perNew` is the cost of everything the model ran
 // (failures and rejections included) for each new report it wrote. Costs are API prices; the
@@ -49,7 +44,7 @@ export function summarizeEfficiency(buckets, durations = [], plan = null) {
   for (const b of buckets) {
     const m = models.get(b.model) || { model: b.model || '', runs: 0, cost: 0, outcomes: {} };
     const o = m.outcomes[b.category || 'unfinished'] ||= blank();
-    const cost = runCost(b), priced = b.cost_usd > 0 || Boolean(MODEL_PRICES[baseModel(b.model)]);
+    const cost = runCost(b), priced = b.cost_usd > 0 || isPriced(b.model);
     o.runs += b.runs; o.timed += b.timed || 0; o.seconds += b.duration_seconds || 0;
     if (priced) { o.cost += cost; o.priced += b.runs; }
     m.runs += b.runs; if (priced) m.cost += cost;

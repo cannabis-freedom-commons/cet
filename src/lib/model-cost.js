@@ -1,48 +1,32 @@
-// USD per million tokens. Operator-supplied Swancloud rates have no peak adjustment.
-// DeepSeek OpenCode Go rates: https://opencode.ai/v2/docs/console/go (half price
-// outside 01:00–04:00 and 06:00–10:00 UTC weekdays). Reasoning is billed as output.
-export const MODEL_PRICES = {
-  // Swancloud rates and 15× subscription supplied by the operator (USD / million tokens).
-  // Cached input uses the standard input price where no separate rate was supplied.
-  "swancloud/muse-spark-1.3-contributor": { input: 0.100, output: 0.200, cached: 0.002, planMultiplier: 15 },
-  "swancloud/claude-haiku-5.5": { input: 0.100, output: 0.500, planMultiplier: 15 },
-  "swancloud/deepseek-v4.1-flash": { input: 0.150, output: 0.6, planMultiplier: 15 },
-  // Operator-supplied API rates and 6× plan; no time-of-day adjustment.
-  "opencode-go/muse-spark-1.3-contributor": { input: 0.10, output: 0.20, cached: 0.002, planMultiplier: 6 },
-  "opencode-go/deepseek-v4.1-flash": { input: 0.15, output: 0.6, cached: 0.003, peakInput: 0.3, peakOutput: 1.2, peakCached: 0.006 },
-};
+// What a research run costs: its tokens at the model's prices, and its share of a subscription.
+// The models, providers, prices and plans are defined in src/lib/models.js.
+import { baseModel, isPeak, modelInfo } from "./models.js";
 
-// a model id can carry a reasoning variant ("opencode-go/deepseek-v4.1-flash#max"), which does not
-// change the model or its price
-export const baseModel = (model) => String(model || "").split("#")[0];
-
-export function isPeak(seconds) {
-  const date = new Date((Number(seconds) || 0) * 1000);
-  if (Number.isNaN(date.getTime())) return false;
-  const day = date.getUTCDay(), hour = date.getUTCHours();
-  return day >= 1 && day <= 5 && ((hour >= 1 && hour < 4) || (hour >= 6 && hour < 10));
-}
+export { baseModel, isPeak };
+// true when the model has a price at its provider
+export const isPriced = (model) => Boolean(modelInfo(model));
 
 // the run's cost in USD: what OpenCode reported if it did, otherwise its tokens at the price for
 // the hour it started; 0 when neither is known
 export function runCost(run) {
   const reported = Number(run?.cost_usd || 0);
   if (reported > 0) return reported;
-  const price = MODEL_PRICES[baseModel(run?.model)];
+  const price = modelInfo(run?.model);
   if (!price) return 0;
-  const peak = isPeak(run.started_at || run.created_at);
+  const peak = isPeak(run.started_at || run.created_at, run.model);
   const input = peak ? (price.peakInput ?? price.input) : price.input;
   const output = peak ? (price.peakOutput ?? price.output) : price.output;
   const cached = (peak ? price.peakCached : undefined) ?? price.cached ?? input;
   const n = (k) => Number(run?.[k] || 0);
   // a cache write is billed as input where the model lists no price of its own for it
-  return ((n("input_tokens") + n("cache_write_tokens")) * input + (n("output_tokens") + n("reasoning_tokens")) * output + n("cache_read_tokens") * cached) / 1e6;
+  const cacheWrite = price.cacheWrite ?? input;
+  return (n("input_tokens") * input + n("cache_write_tokens") * cacheWrite + (n("output_tokens") + n("reasoning_tokens")) * output + n("cache_read_tokens") * cached) / 1e6;
 }
 
 // Estimated subscription allocation: the model’s fixed plan multiplier takes priority
 // over the configured price/allowance ratio. A missing plan returns zero.
 export function modelPlan(model, plan) {
-  const multiplier = MODEL_PRICES[baseModel(model)]?.planMultiplier;
+  const multiplier = modelInfo(model)?.planMultiplier;
   if (multiplier > 0) return { multiplier };
   return plan?.multiplier > 0 || (plan?.price_usd > 0 && plan?.allowance_usd > 0) ? plan : null;
 }
@@ -63,7 +47,7 @@ export function planCost(apiCost, plan, model) {
 
 // true when the cost shown is worked out from tokens rather than reported by OpenCode
 export function costEstimated(run) {
-  return !(Number(run?.cost_usd || 0) > 0) && Boolean(MODEL_PRICES[baseModel(run?.model)]);
+  return !(Number(run?.cost_usd || 0) > 0) && isPriced(run?.model);
 }
 
 // A run costs a fraction of a cent, so keep four decimals ($0.0001) rather than rounding to cents;

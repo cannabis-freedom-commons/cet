@@ -1,12 +1,7 @@
 import { runCost, planCost, costEstimated, formatUSD, modelPlan, planDescription, displayedRunCost } from "./model-cost.js";
 
-export const MODEL_LABELS = { "swancloud/claude-haiku-5.5": "Claude Haiku 5.5 · Swancloud", "opencode-go/muse-spark-1.3-contributor": "Muse Spark 1.3 Contributor · OpenCode Go", "opencode-go/deepseek-v4.1-flash": "DeepSeek V4.1 Flash · OpenCode Go", "swancloud/muse-spark-1.3-contributor": "Muse Spark 1.3 Contributor · Swancloud", "swancloud/deepseek-v4.1-flash": "DeepSeek V4.1 Flash · Swancloud" };
-// "opencode-go/deepseek-v4.1-flash#max" is the model at a reasoning variant; show both, without the #
-export function modelLabel(model) {
-  const [base, variant] = String(model || "").split("#");
-  const label = MODEL_LABELS[base] || base;
-  return label ? `${label}${variant ? ` · ${variant}` : ""}` : "Not configured";
-}
+import { modelLabel } from "./models.js";
+export { modelLabel };
 const node = (tag, text, className) => { const el = document.createElement(tag); if (text !== undefined) el.textContent = text; if (className) el.className = className; return el; };
 
 function processingModelLabel(processing) {
