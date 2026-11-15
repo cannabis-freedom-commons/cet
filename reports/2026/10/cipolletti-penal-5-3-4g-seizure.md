@@ -27,6 +27,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f5a97cfb6751efcf1d2cfde78569bebc
 tags: [cipolletti, rio-negro, prison, paloma]
+media:
+  - kind: photo
+    url: https://rionegro.gov.ar/articulo/62537/carcel-de-cipolletti-arrojaron-marihuana-desde-afuera-y-los-penitenciarios-la-encontraron
+    media_url: https://rionegro.gov.ar/files/1793384892_7cb32c71e82346501925.jpeg
+    publisher: Gobierno de Río Negro
+    caption: >-
+      The thrown cannabis package with a field-test spray and scale after the Penal 5 perimeter find.
+      Photo: Gobierno de Río Negro
 sources:
   - title: Intentaron pasar droga al penal de Cipolletti arrojando un paquetito desde afuera
     url: https://www.cipo360.com.ar/noticias/2026/10/31/81711-intentaron-pasar-droga-al-penal-de-cipolletti-arrojando-un-paquetito-desde-afuera
@@ -39,6 +47,7 @@ sources:
     date: 2026-10-30
     language: es
 open_questions:
+  - Cipo360 illustrates the Penal 5 find with an exterior photo of the prison gate and no cannabis visible, so that image is not listed as media.
   - The sources give no separate calendar date for the night patrol beyond a round starting at 21:00 described as 'anoche' in the 30 October official account; 30 October 2026 is used as the incident date.
   - No suspect was named and no arrest or detention was reported.
   - No charge or court outcome was reported.

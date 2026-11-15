@@ -36,6 +36,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e66bfdaebf13008ade454ea412f60b35
 tags: [chilecito, la-rioja, indoor-grow, gendarmeria, rosario]
+media:
+  - kind: photo
+    url: https://diariochilecito.com/en-una-casa-de-los-altos-de-chilecito-gendarmes-incautaron-mas-de-35-kilos-de-marihuana-cocaina-y-drogas-de-diseno-hay-dos-detenidos/
+    media_url: https://diariochilecito.com/wp-content/uploads/2026/11/en-una-casa-de-los-altos-de-chilecito-gendarmes-incautaron-m-s-de-3-5-kilos-de-marihuana-cocaina-y-drogas-de-dise-o-hay-dos-detenidos-1793532646-img.webp
+    publisher: Diario Chilecito
+    caption: >-
+      Escuadrón 24 Chilecito evidence table with cannabis plants, bagged flower and phones from the
+      Los Altos raids. Photo: Diario Chilecito / Gendarmería Nacional
 sources:
   - title: 'En una casa de Los Altos de Chilecito, gendarmes incautaron más de 3,5 kilos de marihuana, cocaina y drogas de diseño: hay dos detenidos. - Diario Chilecito'
     url: https://diariochilecito.com/en-una-casa-de-los-altos-de-chilecito-gendarmes-incautaron-mas-de-35-kilos-de-marihuana-cocaina-y-drogas-de-diseno-hay-dos-detenidos/

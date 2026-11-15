@@ -31,6 +31,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 285fe70825ea3371e916d46ca696e682
 tags: [san-juan, capital, ley-23737]
+media:
+  - kind: photo
+    url: https://lanotasj.com.ar/dos-detenidos-con-ketamina-extasis-y-marihuana-en-pleno-centro/
+    media_url: https://lanotasj.com.ar/wp-content/uploads/2026/10/IMG-20261022-WA0122.jpg
+    publisher: La Nota San Juan
+    caption: >-
+      RAPTOR bicycle officers with the Ford Fiesta and marijuana bag from the centre San Juan stop.
+      Photo: La Nota San Juan / Policía de San Juan
 sources:
   - title: Dos detenidos con ketamina, éxtasis y marihuana en pleno centro
     url: https://lanotasj.com.ar/dos-detenidos-con-ketamina-extasis-y-marihuana-en-pleno-centro/

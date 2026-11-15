@@ -47,6 +47,7 @@ sources:
     date: 2026-11-03
     language: es
 open_questions:
+  - Los Noticieristas illustrates the El Rosario prosecution with a stock photo of hands on jail bars, so no event photo is listed.
   - The article gives no separate date for the detention or prosecution ruling, so 3 November 2026, the publication date, is used as the incident date.
   - Only the initials José “N” were published, with no age or further identity given.
   - Only one accessible source for this El Rosario prosecution was opened; a second corroborating account or the FGR statement would strengthen the record.

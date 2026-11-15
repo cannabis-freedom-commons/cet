@@ -49,6 +49,7 @@ sources:
     date: 2026-11-11
     language: pt
 open_questions:
+    - O Tempo illustrates the Lajinha stove find with a September 2026 Patos de Minas PM graphic unrelated to this Vale das Pedras seizure, so no event photo is listed.
     - No weight was published for the 62 tablets, so no kilogram figure is recorded.
     - The two people were not named, and no custody hearing or court outcome was reported.
     - The 17-year-old was taken into juvenile custody rather than formally arrested as an adult; both are counted as people detained.

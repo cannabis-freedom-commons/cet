@@ -39,6 +39,7 @@ sources:
     date: 2026-10-30
     language: es
 open_questions:
+  - La Radio de Totoral illustrates the Jesús María arrests with a May 2026 stock photo of a joint and loose cannabis, so no event photo is listed.
   - Only one report of the event could be opened; no second outlet or agency statement for this stop was found.
   - The source counts 42 branches with dried leaves but gives no weight and no number of whole plants, so no kilogram or plant figure is recorded.
   - The two were placed at the disposal of the courts; no charge, hearing date or outcome is reported.

@@ -36,6 +36,14 @@ data_sources:
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [pedro-juan-caballero, amambay, senad, hilux]
+media:
+  - kind: photo
+    url: https://www.abc.com.py/policiales/2026/03/28/incautan-mas-de-14-toneladas-de-marihuana-en-pedro-juan-caballero/
+    media_url: https://www.abc.com.py/resizer/v2/5Z57XHDHQFABJFBYFIPDZVWLBA.jpeg?auth=cdd2c75f8a1e6774c010c366390c27289e8de5ae9510be7e3ee2131e77777213&width=770&smart=true
+    publisher: ABC Color
+    caption: >-
+      SENAD Regional 1 stacks of pressed marijuana beside the abandoned Hilux in Pedro Juan
+      Caballero. Photo: ABC Color / SENAD
 sources:
   - title: SENAD INCAUTA MÁS DE 1,4 TONELADAS DE MARIHUANA EN PEDRO JUAN CABALLERO
     url: https://senad.gov.py/senad-incauta-mas-de-14-toneladas-de-marihuana-en-pedro-juan-caballero/

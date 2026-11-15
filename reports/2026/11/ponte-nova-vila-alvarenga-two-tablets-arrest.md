@@ -41,6 +41,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7d1616ddc55e197d394baabac731b6b6
 tags: [ponte-nova, minas-gerais, maconha, tatico-movel, pmmg]
+media:
+  - kind: photo
+    url: https://asnoticiasonline.com.br/2026/11/10/casal-e-preso-suspeito-de-trafico-de-drogas-e-pm-apreende-crack-maconha-e-cocaina-em-ponte-nova/
+    media_url: https://asnoticiasonline.com.br/wp-content/uploads/2026/11/d1d08f2a-39a9-4875-bb67-3be216dcd8df.jpg
+    publisher: As Notícias Online
+    caption: >-
+      PMMG evidence table with cash, phones, notebook and seized drugs after the Vila Alvarenga
+      raid. Photo: As Notícias Online / PMMG
 sources:
   - title: Casal é preso suspeito de tráfico de drogas e PM apreende crack, maconha e cocaína em Ponte Nova
     url: https://asnoticiasonline.com.br/2026/11/10/casal-e-preso-suspeito-de-trafico-de-drogas-e-pm-apreende-crack-maconha-e-cocaina-em-ponte-nova/

@@ -33,6 +33,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 53247bcd7bda7cf58f53fb63126feb0f
 tags: [alto-parana, mbaracayu, lake-itaipu, brazil-market]
+media:
+  - kind: photo
+    url: https://www.hoy.com.py/nacionales/2026/07/19/mbaracayu-incautan-casi-7-toneladas-de-marihuana-listas-para-el-derrame-al-brasil
+    media_url: https://www.lanacion.com.py/resizer/v2/YU5O2JW2CND5VAIBDBNDQBS45E.jfif?auth=def433162d327856c09cd4186163c02679410c6e787c770ebda8f6160cd1163d&width=1200&height=630&smart=true
+    publisher: Hoy
+    caption: >-
+      Pressed marijuana packages laid out at the Navy base after the Mbaracayú Lake Itaipu seizure.
+      Photo: Hoy / La Nación
 sources:
   - title: Incautan en Paraguay casi 7 toneladas de marihuana que tenían Brasil como destino
     url: https://www.infobae.com/america/agencias/2026/07/18/incautan-en-paraguay-casi-7-toneladas-de-marihuana-que-tenian-brasil-como-destino/

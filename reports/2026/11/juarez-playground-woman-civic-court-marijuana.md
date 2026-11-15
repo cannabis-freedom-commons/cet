@@ -32,6 +32,14 @@ status: verified
 created_by_model: xai/grok-4.7#low
 submission: 7055df12f57d69c22e07eea71e67abff
 tags: [mexico-city, cuauhtemoc, colonia-juarez, ssc, marihuana]
+media:
+  - kind: photo
+    url: https://www.zocalo.com.mx/video-remiten-al-juzgado-civico-a-mujer-por-agresiones-discriminatorias-en-la-colonia-juarez/
+    media_url: https://www.zocalo.com.mx/wp-content/uploads/2026/11/14-3.png
+    publisher: Zócalo
+    caption: >-
+      The woman at the colonia Juárez playground before being taken to the civic court. Photo:
+      Zócalo
 sources:
   - title: '"¡Los mexicanos son una basura!": mujer insulta a vecino que le pidió dejar de fumar marihuana en CDMX'
     url: https://www.posta.com.mx/cdmx/los-mexicanos-son-una-basura-mujer-insulta-a-vecino-que-le-pidio-dejar-de-fumar-marihuana-en-cdmx/vl2277850

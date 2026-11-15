@@ -42,6 +42,7 @@ sources:
     date: 2026-11-10
     language: es
 open_questions:
+  - Expreso illustrates the Hermosillo arrests with a December 2025 file photo of another detention, so no event photo is listed.
   - No weight was published for the marijuana wrappers, so no kilogram figure is recorded.
   - The substances are described only as presumed, possible or resembling marijuana and crystal, with no laboratory confirmation reported.
   - No charges, handover to a prosecutor or court outcome were reported beyond the detentions.

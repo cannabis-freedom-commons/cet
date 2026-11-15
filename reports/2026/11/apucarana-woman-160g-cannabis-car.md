@@ -56,6 +56,7 @@ sources:
     date: 2026-11-11
     language: pt
 open_questions:
+  - Nova Era News and Canal 38 illustrate the Apucarana seizure with a PM car-door graphic and a January 2024 delegacia file photo, so no event photo is listed.
   - The woman was not named and no age was published.
   - No formal charge or custody outcome beyond her transfer to the 17th SDP was reported.
   - The amount of cash seized was not specified.

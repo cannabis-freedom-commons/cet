@@ -49,6 +49,7 @@ sources:
     date: 2026-11-11
     language: pt
 open_questions:
+  - Misturebas illustrates the Timbó arrests with a staged stock photo of two people posed against a wall, so no event photo is listed.
   - The names and ages of the two arrested people were not published.
   - The substance was described only as similar to hashish, with no laboratory confirmation reported.
   - No charges, custody decision or court outcome were reported beyond transfer to the Civil Police station.
