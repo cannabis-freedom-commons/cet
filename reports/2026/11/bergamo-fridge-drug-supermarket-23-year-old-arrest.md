@@ -98,6 +98,11 @@ sources:
     publisher: Gazeta Online Reporteri.net
     date: 2026-11-14
     language: fr
+  - title: Ein 23-jähriger Albaner wurde in Bergamo festgenommen; in seinem Kühlschrank wurden Drogen in Gläsern gefunden.
+    url: https://reporteri.net/de/Botschaft/Ein-23-j%C3%A4hriger-Albaner-wurde-in-Bergamo-festgenommen--nachdem-in-seinem-K%C3%BChlschrank-zu-Hause-Drogen-in-Gl%C3%A4sern-gefunden-worden-waren./
+    publisher: Gazeta Online Reporteri.net
+    date: 2026-11-14
+    language: de
 media:
   - kind: video
     url: https://primabergamo.it/cronaca/in-casa-aveva-un-vero-e-proprio-supermercato-della-droga-23enne-arrestato-dalla-polizia-di-bergamo/
@@ -114,12 +119,12 @@ by the judicial authority, which ordered a restrictive precautionary measure
 against him. [@1,6,10]
 
 Officers found about 15 kilograms of hashish and marijuana in a home used as a
-drug storage place. [@1,4,6,7,9,10,11] A fridge and thermal bags had been turned into
+drug storage place. [@1,4,6,7,9,10,11,12] A fridge and thermal bags had been turned into
 containers for keeping the drugs, evidently to limit the smell and make
 detection harder. [@1,9,10] Different hashish varieties were divided by type into
 individually sealed, labelled jars arranged in order inside the fridge like a
-supermarket display. [@1,4,5,8,9,10,11] Officers also found numerous vaporizers used for
-taking drug extracts through e-cigarettes. [@1,4,6,11]
+supermarket display. [@1,4,5,8,9,10,11,12] Officers also found numerous vaporizers used for
+taking drug extracts through e-cigarettes. [@1,4,6,11,12]
 
 They seized more than 10,000 euros in cash believed to be proceeds of dealing,
 and all the material found was placed under seizure. [@1,4,6,10] Police said the
