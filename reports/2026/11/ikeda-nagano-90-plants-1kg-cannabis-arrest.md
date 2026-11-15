@@ -77,22 +77,29 @@ sources:
     publisher: Portal Mie
     date: 2026-11-11
     language: pt
+  - title: 大麻所持容疑で現行犯逮捕された75歳男、自宅で大麻草栽培の疑い...「外から見えないようにしていた」
+    url: https://www.msn.com/ja-jp/news/other/%E5%A4%A7%E9%BA%BB%E6%89%80%E6%8C%81%E5%AE%B9%E7%96%91%E3%81%A7%E7%8F%BE%E8%A1%8C%E7%8A%AF%E9%80%AE%E6%8D%95%E3%81%95%E3%82%8C%E3%81%9F%EF%BC%97%EF%BC%95%E6%AD%B3%E7%94%B7-%E8%87%AA%E5%AE%85%E3%81%A7%E5%A4%A7%E9%BA%BB%E8%8D%89%E6%A0%BD%E5%9F%B9%E3%81%AE%E7%96%91%E3%81%84-%E5%A4%96%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F/ar-AA2hrHBz
+    publisher: 読売新聞
+    date: 2026-11-11
+    language: ja
+open_questions:
+  - Accounts differ on whether the dried cannabis seized weighed about 1 kilogram or more than 1 kilogram.
 ---
 
 Police arrested a 75-year-old unemployed man from Ikeda, Nagano Prefecture, by
 10 November 2026 on suspicion of growing cannabis at his home and possessing
-narcotics. [@2,4,5] He was arrested on suspicion of violations of the Narcotics and
-Psychotropics Control Act and other laws, the report said. [@2,4] Investigators
+narcotics. [@2,4,5,7] He was arrested on suspicion of violations of the Narcotics and
+Psychotropics Control Act and other laws, the report said. [@2,4] The 10 November arrest included suspicion of violating the cannabis-plant cultivation-control law for cultivation. [@7] Investigators
 said he grew about 90 cannabis plants in his garden and inside the house. [@2,5,6]
 Officers found 1 kilogram of dried cannabis at the house, and police believe he
 grew it. [@2,5,6] The arrest was the third in the cultivation case, made by Omachi
 police station with prefectural police, the Shinano Mainichi Shimbun reported.
 [@3] The newspaper published a police handout photo of the cannabis plants
-seized from the grounds of the man's home. [@3]
+seized from the grounds of the man's home. [@3] A woman living near the home said there had long been rumours about cultivation and that the man had little neighbourhood contact and had covered his veranda with paper-like material so it could not be seen from outside. [@7]
 
 The man had first been arrested red-handed on 29 September 2026 for possessing 1
 gram of narcotics at home and was later re-arrested on suspicion of using
-narcotics. [@1,2,6] Police suspect he possessed more than 1 kilogram of narcotics,
-which they valued at 5 million yen at street prices. [@1,2] The man admitted the
-allegations in questioning, the report said. [@1,2,5,6] Police said they were
+narcotics. [@1,2,6,7] Police suspect he possessed more than 1 kilogram of narcotics,
+which they valued at 5 million yen at street prices. [@1,2,7] The man admitted the
+allegations in questioning, the report said. [@1,2,5,6,7] Police said they were
 investigating on the view that he had grown the drugs he held. [@2]
