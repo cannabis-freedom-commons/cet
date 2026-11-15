@@ -59,18 +59,28 @@ sources:
     publisher: Sabah
     date: 2026-11-14
     language: tr
+  - title: Van'da otomobilde 10 kilo 500 gram skunk ele geçirildi
+    url: https://www.canligaste.com/van-da-otomobilde-10-kilo-500-gram-skunk-ele-gecirildi/949668/
+    publisher: Canlı Gaste
+    date: 2026-11-14
+    language: tr
+  - title: Van'da araçta 10 kilo 500 gram skunk ele geçirildi
+    url: https://iha.com.tr/van-haberleri/vanda-aracta-10-kilo-500-gram-skunk-ele-gecirildi-516107205
+    publisher: İhlas Haber Ajansı
+    date: 2026-11-14
+    language: tr
 ---
 
 Van Provincial Gendarmerie narcotics teams and Gevaş District Gendarmerie teams,
 coordinated by the Gevaş Chief Public Prosecutor's Office, targeted suspects
-manufacturing and trading drugs. [@1,3] Teams stopped the vehicle with plate 34
-BPT driven by 39-year-old T.Ş. in Gevaş district. [@1]
+manufacturing and trading drugs. [@1,3,4] Teams stopped the vehicle with plate 34
+BPT driven by 39-year-old T.Ş. in Gevaş district. [@1,5]
 
 A search with a narcotics dog found 10.5 kilograms of skunk, in 82 pieces hidden
-inside the vehicle. [@1] The seized material was reported as 10 kilograms 500
-grams of skunk in 82 pieces. [@2,3]
+inside the vehicle. [@1,5] The seized material was reported as 10 kilograms 500
+grams of skunk in 82 pieces. [@2,3,5]
 
-The driver T.Ş. was taken into custody. [@1,3] Judicial proceedings were started
-against the detained driver T.Ş. [@2,3] The gendarmerie said its work to prevent
+The driver T.Ş. was taken into custody. [@1,3,4] Judicial proceedings were started
+against the detained driver T.Ş. [@2,3,5] The gendarmerie said its work to prevent
 the manufacture, trade and use of narcotic and stimulant substances would
 continue decisively. [@1,3]
