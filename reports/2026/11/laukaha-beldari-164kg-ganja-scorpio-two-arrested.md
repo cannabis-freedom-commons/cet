@@ -73,14 +73,18 @@ sources:
     publisher: हिन्दुस्तान
     date: 2026-11-14
     language: hi
+  - title: 'Samastipur News: नेपाल से गांजा ला रहे समस्तीपुर के दो तस्कर गिरफ्तार, 164 किलो माल बरामद'
+    url: https://deshajtimes.com/news/bihar/samastipur/samastipur-news-two-smugglers-arrested-with-164-kg-cannabis-in-laukaha-r9yfzf/324775/
+    publisher: Deshaj Times
+    date: 2026-11-14
+    language: hi
 open_questions:
     - No court outcome, remand details or pleas were reported; the case was at the investigation stage with questioning under way.
     - The accused Dhiraj Kumar shares a given name with Laukaha station house officer Dheeraj Kumar; the reports distinguish them by role.
-    - The source of the reported market-value estimate was not identified.
 ---
 
 Laukaha police and SSB seized 164.400 kg of ganja from a Scorpio-N near Beldari
-village on Saturday morning and arrested the two occupants. [@2,3,4] The two men got
+village on Saturday morning and arrested the two occupants. [@2,3,4,5] The two men got
 out and tried to flee when the Scorpio-N heading toward the Balan river was
 signalled to stop near the bridge in front of Beldari village at about 8:10 in
 the morning, but the joint team chased and caught them. [@2] The arrested men
@@ -91,7 +95,7 @@ Officers searching the vehicle in the presence of independent witnesses found
 the ganja hidden in plastic sacks. [@2,3] Police prepared a seizure list and
 seized the ganja together with the vehicle and two mobile phones. [@2] Laukaha
 station house officer Dheeraj Kumar said a total of 164.400 kg of ganja was
-caught from the four-wheeler and both smugglers were taken into custody. [@1] Hindustan reported that the seized ganja was estimated to have a market value of about 250,000 rupees. [@4] A
+caught from the four-wheeler and both smugglers were taken into custody. [@1] Hindustan reported that the seized ganja was estimated to have a market value of about 250,000 rupees. [@4,5] Deshaj Times attributed the market-value estimate to police. [@5] A
 case was registered at Laukaha police station under the NDPS Act. [@2,3]
 
 Acting on a late-Friday-night tip that a consignment would be brought from Nepal
