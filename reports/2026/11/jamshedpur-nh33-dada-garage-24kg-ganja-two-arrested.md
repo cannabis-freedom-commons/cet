@@ -77,6 +77,11 @@ sources:
     url: https://rediff.com/news/report/two-arrested-with-ganja-worth-rs-12-lakh-in-jamshedpur/20261114.htm
     publisher: Rediff
     date: 2026-11-14
+  - title: NH-33 पर पुलिस की बड़ी कार्रवाई, 23.940 किलो गांजा के साथ दो तस्कर गिरफ्तार
+    url: https://rashtrasamvad.com/police-arrest-two-drug-smugglers-with-ganja-on-nh-33/
+    publisher: Rashtra Samvad
+    date: 2026-11-14
+    language: hi
 open_questions:
   - The Hindi reports give 23.940 kg while the PTI account rounds the seizure to 24 kg; the report uses the precise 23.940 kg figure.
   - The two per-person weights of 15.450 kg and 8.497 kg add to 23.947 kg, 7 grams more than the reported total of 23.940 kg.
@@ -87,20 +92,20 @@ open_questions:
 ---
 
 Jamshedpur police arrested two men on ganja-smuggling charges in East Singhbhum,
-recovering 23.94 kg of ganja near Dada Garage on NH-33. [@2] The accused were
+recovering 23.94 kg of ganja near Dada Garage on NH-33. [@2,5] The accused were
 identified as 20-year-old Santosh Kumar alias Santosh Lodhi of Bagbera and
-37-year-old Putlu Bhumij of Makdumpur Road No. 2, Parsudih. [@3] Senior
+37-year-old Putlu Bhumij of Makdumpur Road No. 2, Parsudih. [@3,5] Senior
 Superintendent of Police Dr Ehtesham Waqarib received information that smugglers
 were about to send a large ganja consignment to Bihar, after which a special
 raiding team was formed under the Patamda DSP with guidance from City SP Lalit
 Meena. [@2]
 
 The team caught two suspects with three bags near Dada Garage, and found 17
-packets of ganja when the bags were searched. [@2] Police said the bags held 17
+packets of ganja when the bags were searched. [@2,5] Police said the bags held 17
 packets of ganja with a total weight of 23.940 kg and that the consignment was
-to be sent to Bihar. [@1] Santosh Kumar held 12 packets with 15.450 kg of ganja
+to be sent to Bihar. [@1,5] Santosh Kumar held 12 packets with 15.450 kg of ganja
 plus an Oppo Android phone and Rs 1,200 in cash, while Putlu Bhumij held five
-packets with 8.497 kg of ganja and Rs 1,000 in cash. [@1] Police seized a total
+packets with 8.497 kg of ganja and Rs 1,000 in cash. [@1,5] Police seized a total
 of 17 packets with 23.940 kg of ganja, one mobile phone and Rs 2,200 in cash
 from the two accused. [@1]
 
@@ -109,4 +114,3 @@ limits on Friday and recovered 24 kg of ganja packed in 17 packets. [@4] Police
 valued the 24 kg of ganja at around Rs 12 lakh. [@4] The accused were forwarded
 to judicial custody on Saturday after a case was registered under the NDPS Act.
 [@4]
-
