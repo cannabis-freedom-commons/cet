@@ -37,6 +37,11 @@ sources:
     publisher: 澎湃新闻 (The Paper)
     date: 2026-10-24
     language: zh
+  - title: 男子藏含大麻成分軟糖赴內地被截
+    url: https://www2.tdm.com.mo/zh-hant/news-detail/1253088?category=all&isvideo=false&lang=zh-hant&shortvideo=0
+    publisher: TDM 澳廣視新聞
+    date: 2026-10-22
+    language: zh
 open_questions:
   - The sources give no separate date for the seizure; 23 October is the publication date.
   - The sources do not state how many gummies were in the packet or the amount or concentration of THC.
@@ -44,8 +49,8 @@ open_questions:
   - No later prosecutorial or court outcome was reported.
 ---
 
-Customs officers at Gongbei Port stopped a mainland man entering through the passenger hall's green channel after he appeared unusually nervous during questioning. They found a medicine pouch in his suitcase containing one packet of fruit-flavoured gummies marked “THC.” [@1,2]
+Customs officers at Gongbei Port stopped a mainland man entering through the passenger hall's green channel after he appeared unusually nervous during questioning. They found a medicine pouch in his suitcase containing one packet of fruit-flavoured gummies marked “THC.” [@1,2,3]
 
-An expert examination detected THC in the gummies. The packet weighed 10.11 g net and 12 g gross. [@1,2] Customs referred the case to prosecutors for review of a possible prosecution. [@1,2]
+An expert examination detected THC in the gummies. The packet weighed 10.11 g net and 12 g gross. [@1,2] Customs referred the case to prosecutors for review of a possible prosecution. [@1,2,3]
 
 The customs account identifies the traveler only by the surname Sun and gives no later charge or court decision. [@1,2]
