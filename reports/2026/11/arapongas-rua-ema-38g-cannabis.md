@@ -46,7 +46,7 @@ sources:
     date: 2026-11-10
     language: pt
 open_questions:
-  - Nova Era News illustrates the Arapongas stop with a social-card graphic, so no event photo is listed.
+  - Nova Era News illustrates the Arapongas stop with a social-card graphic, and Blog do Berimbau embeds only a related-post cannabis stock thumb, so no event photo is listed.
   - The suspect was not named and his age was not published.
   - The sources do not report whether the man was formally charged, cited under an administrative infraction, or released after being taken to the 22nd Police Subdivision.
   - A second occurrence reported in the same police bulletin, involving the theft of a backpack in the Aeroporto neighbourhood, is a separate property crime omitted here.

@@ -34,6 +34,21 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9d88c36ef0e97cb63dc0e5e4138c9617
 tags: [parauapebas, para, cannabis]
+media:
+  - kind: photo
+    url: https://www.oliberal.com/policia/trio-e-preso-com-drogas-em-parauapebas-1.1189213
+    media_url: https://www.oliberal.com/image/policy:1.1189214:1793471214/Trio%20%C3%A9%20preso%20com%20drogas%20em%20Parauapebas.jpeg
+    publisher: O Liberal
+    caption: >-
+      Cannabis brick, cocaine and crack bags, two scales and four phones from the
+      Vila Nova residence. Photo: O Liberal
+  - kind: photo
+    url: https://correiodecarajas.com.br/pm-apreende-drogas-e-balancas-de-precisao-apos-denuncia-de-trafico/
+    media_url: https://correiodecarajas.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-09.01.03.jpg
+    publisher: Correio de Carajás
+    caption: >-
+      The three detained men after the Vila Nova stop, faces obscured. Photo:
+      Correio de Carajás
 sources:
   - title: Trio é preso com drogas em Parauapebas
     url: https://www.oliberal.com/policia/trio-e-preso-com-drogas-em-parauapebas-1.1189213
@@ -50,7 +65,7 @@ open_questions:
   - The cannabis total of 0.052 kg is the sum of two approximate police figures of about 2 grams and about 50 grams.
   - Cocaine-like and crack-like quantities reported in the same operation are omitted from cannabis figures and the report text gives no weights for them.
   - No charges, custody decision or court outcome are reported.
-  - No photo or video is listed because the available images lack captions or alt text establishing that they show this seizure.
+  - Correio de Carajás also carries the same evidence triptych as O Liberal; only one evidence entry is kept alongside the accused composite.
 ---
 
 Three men were taken to the Civil Police after a Military Police approach in the
