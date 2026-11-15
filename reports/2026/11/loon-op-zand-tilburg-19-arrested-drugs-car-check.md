@@ -35,6 +35,16 @@ sources:
     publisher: Waalwijk.nieuws.nl
     date: 2026-11-13
     language: nl
+  - title: Politie betrapt vermoedelijke drugsdealer op vrijdag de 13e
+    url: https://loon-op-zand.nieuws.nl/112/politie-betrapt-vermoedelijke-drugsdealer-op-vrijdag-de-13e
+    publisher: Loon-op-zand.nieuws.nl
+    date: 2026-11-13
+    language: nl
+  - title: 'Allerlei soorten drugs in auto: Tilburger (19) aangehouden in Loon op Zand'
+    url: https://www.omroepbrabant.nl/nieuws/6034813/jongen-19-aangehouden-met-allerlei-soorten-drugs-op-zak-in-loon-op-zand
+    publisher: Omroep Brabant
+    date: 2026-11-14
+    language: nl
 media:
   - kind: photo
     url: https://waalwijk.nieuws.nl/112/tilburger-19-aangehouden-na-vondst-van-verschillende-soorten-drugs
@@ -43,21 +53,17 @@ media:
     caption: >-
       Bagged powders and dark plant matter laid out beside a keyboard after the
       Loon op Zand vehicle check, as published with the 19-year-old's arrest.
-open_questions:
-  - No figure for the amount of cash seized or the types or quantities of drugs found was published.
-  - No charge was filed, no plea and no court outcome was reported; the case was at the investigation stage.
 ---
 
 In the night of Thursday 12 November to Friday 13 November 2026, a 19-year-old
 man from Tilburg was arrested in Loon op Zand after police found multiple types
-of drugs on him during a vehicle check, and a sum of money was also seized. [@1]
+of drugs on him during a vehicle check, and a sum of money was also seized. [@1,2,3]
 The police check of the driver took place shortly after midnight in the village;
-officers then arrested the man on suspicion of drug dealing. [@1]
+officers then arrested the man on suspicion of drug dealing. [@1,2,3]
 
 The types of drugs found and the amount of cash seized were not disclosed by the
-police. [@1] After his arrest, the 19-year-old was taken to the cell complex
-where he was detained. [@1]
+police. [@1,2] After his arrest, the 19-year-old was taken to the cell complex
+where he was detained. [@1,2]
 
 Detectives opened an investigation into the origin of the drugs and the man's
-possible involvement in drug dealing. [@1]
-
+possible involvement in drug dealing. [@1,2,3]
