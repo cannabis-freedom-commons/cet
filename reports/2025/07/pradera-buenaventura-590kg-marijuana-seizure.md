@@ -82,6 +82,11 @@ sources:
     publisher: SWI swissinfo.ch (EFE)
     date: 2025-07-12
     language: es
+  - title: Incautan más de media tonelada de marihuana en ruta hacia Panamá
+    url: https://www.critica.com.pa/sucesos/incautan-mas-de-media-tonelada-de-marihuana-en-ruta-hacia-panama-494526
+    publisher: Critica
+    date: 2025-07-12
+    language: es
 open_questions:
   - The article gives no separate date for the operation, saying only that it happened 'en las últimas horas' (in recent hours); 12 July 2025 is the publication date of all three accounts and is used as the incident date.
   - No weight verification, package count or breakdown by package was published.
@@ -96,23 +101,23 @@ open_questions:
 ---
 
 Army troops and police units seized 590 kilograms of marijuana in Valle del
-Cauca department. [@1] The operation was carried out by the Comando Contra el
+Cauca department. [@1,3] The operation was carried out by the Comando Contra el
 Narcotráfico y Amenazas (Conat), the army's command against drug trafficking and
 transnational threats, on the road linking the town of Pradera with the Pacific
-port of Buenaventura. [@1]
+port of Buenaventura. [@1,3]
 
 The load was carried in a vehicle adapted to conceal the drug, and officers
 arrested the driver during the operation. [@1] The driver told officers he had
 taken part because of a debt he owed to the Iván Mordisco dissidents operating
 in the area. [@1] The driver was handed to the judicial authorities on suspicion
-of the crime of trafficking, manufacturing or carrying narcotics. [@1]
+of the crime of trafficking, manufacturing or carrying narcotics. [@1,3]
 Preliminary investigations indicated the marijuana belonged to the Dagoberto
 Ramos Ortiz structure and, according to military sources, had been sent from
-Toribío in northern Cauca with Panama as its destination. [@1]
+Toribío in northern Cauca with Panama as its destination. [@1,3]
 
 The army later said the shipment left Toribío for Buenaventura, where it was
 stored in warehouses until enough had been gathered to move it to Panama on
-semi-submersibles. [@2]
+semi-submersibles. [@2,3]
 
 The army said the operation kept about 24,500 doses of marijuana off
 international markets. [@1] The army said investigators believe the final leg of
@@ -120,4 +125,3 @@ the journey would use semi-submersible vessels, a method it said had recurred on
 routes across the Pacific toward Central America and the Caribbean. [@1] The
 army reported the seizure in a statement issued on Saturday, without saying
 whether the driver had been charged before a court. [@2]
-
