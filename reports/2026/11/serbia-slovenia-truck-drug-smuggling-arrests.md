@@ -42,6 +42,11 @@ sources:
     publisher: Serbian News Media
     date: 2026-11-14
     language: en
+  - title: Заједничком акцијом полиција Србије и Словеније ухапшени чланови ОКГ за кријумчарење дроге
+    url: https://www.srbija.gov.rs/vest/1011204/zajednickom-akcijom-policija-srbije-i-slovenije-uhapseni-clanovi-okg-za-krijumcarenje-droge.php
+    publisher: Government of Serbia
+    date: 2026-11-13
+    language: sr
 open_questions:
     - No date is given for the arrests beyond the 13 November 2026 publication date of the MUP statement.
     - No measure of restraint or court stage was reported for the six arrested, and the two people still being sought had not been found.
@@ -57,15 +62,15 @@ media:
 
 Serbian Interior Ministry officers, working with the Public Prosecutor's Office
 for Organized Crime, arrested three members of an organized criminal group in
-Serbia. [@1,3,4] The suspects are suspected of the criminal offences of association for the purpose of committing criminal offences and unauthorized production and placing on the market of narcotic drugs. [@4] Simultaneously, Slovenian Interior Ministry officers arrested three
+Serbia. [@1,3,4,5] The suspects are suspected of the criminal offences of association for the purpose of committing criminal offences and unauthorized production and placing on the market of narcotic drugs. [@4] Simultaneously, Slovenian Interior Ministry officers arrested three
 other members of the group: a Serbian national, a Slovenian national, and a
-Bosnian national. [@1,3,4] The arrests in Slovenia were carried out in a parallel investigation by the Serbian police and prosecutor's office with partner units of the Slovenian Ministry of the Interior and the Special State Prosecutor's Office of Slovenia. [@4] Those arrested in Slovenia were identified as Serbian national A. J. (34), Slovenian national S. Z. (39) and Bosnian-Herzegovinian national M. J. (44). [@3] Those arrested in Serbia were identified by initials and ages as S. Dj. (54), S. K. (53) and A. K. (23). [@3]
+Bosnian national. [@1,3,4,5] The arrests in Slovenia were carried out in a parallel investigation by the Serbian police and prosecutor's office with partner units of the Slovenian Ministry of the Interior and the Special State Prosecutor's Office of Slovenia. [@4] Those arrested in Slovenia were identified as Serbian national A. J. (34), Slovenian national S. Z. (39) and Bosnian-Herzegovinian national M. J. (44). [@3] Those arrested in Serbia were identified by initials and ages as S. Dj. (54), S. K. (53) and A. K. (23). [@3]
 
 The group members are suspected of opening international road-transport
 companies in Croatia, Hungary, Slovakia and Serbia, onto which they registered
 trucks used for drug smuggling. [@1,3,4] In each truck, bunkers were built inside
 the cabins to conceal drugs, while the cargo compartment carried legitimate
-loads. [@1,3,4]
+loads. [@1,3,4,5]
 
 In the second half of 2025 in France, in cooperation with the French customs,
 two drivers, Serbian nationals, were arrested who were smuggling drugs by truck
@@ -84,4 +89,4 @@ for the Fight against Organized Crime and the Section for Suppression of
 Organized Drug Smuggling participated in the arrests. [@1]
 
 In two separate actions in France, 471 kilograms of hashish and 15 kilograms of
-marijuana were seized in the second half of 2025. [@2]
+marijuana were seized in the second half of 2025. [@2,5]
