@@ -93,6 +93,11 @@ sources:
     publisher: Prima Bergamo
     date: 2026-11-14
     language: it
+  - title: Un Albanais de 23 ans a été arrêté à Bergame ; de la drogue a été trouvée dans des bocaux à l’intérieur de son réfrigérateur.
+    url: https://reporteri.net/fr/nouvelles/Un-Albanais-de-23-ans-a-%C3%A9t%C3%A9-arr%C3%AAt%C3%A9-%C3%A0-Bergame-apr%C3%A8s-la-d%C3%A9couverte-de-drogue-dans-des-bocaux-%C3%A0-l%27int%C3%A9rieur-de-son-r%C3%A9frig%C3%A9rateur./
+    publisher: Gazeta Online Reporteri.net
+    date: 2026-11-14
+    language: fr
 media:
   - kind: video
     url: https://primabergamo.it/cronaca/in-casa-aveva-un-vero-e-proprio-supermercato-della-droga-23enne-arrestato-dalla-polizia-di-bergamo/
@@ -109,12 +114,12 @@ by the judicial authority, which ordered a restrictive precautionary measure
 against him. [@1,6,10]
 
 Officers found about 15 kilograms of hashish and marijuana in a home used as a
-drug storage place. [@1,4,6,7,9,10] A fridge and thermal bags had been turned into
+drug storage place. [@1,4,6,7,9,10,11] A fridge and thermal bags had been turned into
 containers for keeping the drugs, evidently to limit the smell and make
 detection harder. [@1,9,10] Different hashish varieties were divided by type into
 individually sealed, labelled jars arranged in order inside the fridge like a
-supermarket display. [@1,4,5,8,9,10] Officers also found numerous vaporizers used for
-taking drug extracts through e-cigarettes. [@1,4,6]
+supermarket display. [@1,4,5,8,9,10,11] Officers also found numerous vaporizers used for
+taking drug extracts through e-cigarettes. [@1,4,6,11]
 
 They seized more than 10,000 euros in cash believed to be proceeds of dealing,
 and all the material found was placed under seizure. [@1,4,6,10] Police said the
