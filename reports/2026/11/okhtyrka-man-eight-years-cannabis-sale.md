@@ -26,6 +26,14 @@ sources:
     publisher: Сумська обласна прокуратура
     date: 2026-11-12
     language: uk
+media:
+  - kind: photo
+    url: https://sumy.gp.gov.ua/ua/news.html?_m=publications&_t=rec&id=435009
+    media_url: https://sumy.gp.gov.ua/userfiles/image/sumy/sumy_1794474776_6.png
+    publisher: Сумська обласна прокуратура
+    caption: >-
+      The Okhtyrka defendant handcuffed from behind during detention, released with the prosecutor's
+      eight-year cannabis-sale verdict notice. Photo: Sumy Oblast Prosecutor's Office
 open_questions:
   - No separate date for the verdict was published; 12 November 2026 is the publication date of both the outlet report and the prosecutor's statement and is used as the incident date.
   - The seized cannabis is reported only as more than two kilograms, so 2 kg is recorded as a lower bound.

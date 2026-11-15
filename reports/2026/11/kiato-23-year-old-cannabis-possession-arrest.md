@@ -44,6 +44,7 @@ open_questions:
   - No charge, detention measure or court outcome was reported; the case was at the preliminary-investigation stage.
   - The man was identified only as a 23-year-old Greek national, with no name published.
   - The PeloponnisosTV page republishes the KorinthosTV account and credits KorinthosTV, so the reporting rests on a single local account.
+  - Korinthos TV and Peloponnisos TV illustrated the Kiato arrest with a Hellenic Police station-and-patrol-car file graphic, so no event photo is listed.
 ---
 
 Officers of the DIAS motorcycle patrol unit of the Sikyona Police Department

@@ -30,6 +30,7 @@ open_questions:
   - No charges, custody decision or court outcome were reported; the case was at the investigation stage.
   - No name was published for the arrested person, who is identified only as a 19-year-old Greek man.
   - Only one accessible outlet reported this event after searching in Greek.
+  - Larissa Press illustrated the Tyrnavos arrest with a July 2024 file photograph, so no event photo is listed.
 ---
 
 Officers of the Tyrnavos Prevention and Mediation Team (OPDI) arrested a

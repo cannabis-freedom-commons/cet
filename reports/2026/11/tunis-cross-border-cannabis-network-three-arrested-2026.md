@@ -77,12 +77,21 @@ sources:
     publisher: Kapitalis
     date: 2026-11-12
     language: fr
+media:
+  - kind: photo
+    url: https://www.tunisnow.tn/%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%B2%D8%B7%D9%84%D8%A9/
+    media_url: https://www.tunisnow.tn/wp-content/uploads/2026/11/Capture-decran-2026-11-12-103612.png
+    publisher: TunisNow
+    caption: >-
+      Tunisian dinar notes, knives, a digital scale and plastic-wrapped cannabis pellets with leaf
+      stickers from the Tunis cross-border network seizure, with a close-up of one pellet. Photo:
+      National Guard / TunisNow
 open_questions:
-    - No date is given for the operation; 12 November 2026 is the publication date and stands in for the incident date.
-    - No weight was published for the cannabis and no amount for the cash; the accounts describe the quantity only as significant.
-    - The accounts do not name the foreign country the courier arrived from or the crossing he used.
-    - The cannabis is described only as cannabis, without saying whether it was resin or herb.
-    - No charges or court outcome beyond the prosecutor's detention order were reported.
+  - No date is given for the operation; 12 November 2026 is the publication date and stands in for the incident date.
+  - No weight was published for the cannabis and no amount for the cash; the accounts describe the quantity only as significant.
+  - The accounts do not name the foreign country the courier arrived from or the crossing he used.
+  - The cannabis is described only as cannabis, without saying whether it was resin or herb.
+  - No charges or court outcome beyond the prosecutor's detention order were reported.
 ---
 
 Tunis's Research and Inspection Brigade, working with the National Guard's

@@ -77,6 +77,7 @@ sources:
     date: 2026-11-12
     language: ar
 open_questions:
+  - Directinfo illustrated the Sousse–Kairouan youth network case with a September 2015 arrestation file photograph, so no event photo is listed.
     - The cocaine and cannabis seized are described only as a significant quantity; no weight, count or value was published.
     - The 21 October 2026 statement on a separate Pregabalin (Lyrica) seizure of 26,831 tablets and about 32,000 dinars in the region is a different event and is left out of this report.
     - The 9 July 2026 customs half-year tally (over 214 kg of cocaine, cannabis and marijuana and about 180,000 tablets) is a national statistic, not part of this event.

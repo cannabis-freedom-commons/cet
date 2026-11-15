@@ -50,6 +50,7 @@ open_questions:
   - No case number, charge section or court outcome was reported for the two men held with the ganja.
   - The ganja was described only as recovered by police, with no weighing or laboratory confirmation reported.
   - The whole account rests on one outlet's report of the district police operations; no separate police release was found.
+  - Durniti Talash News Tv illustrated the Narsingdi sweep with a Palash Thana lineup of about ten men, while the account says Palash held only four people on warrants and Police Act counts and the ganja seizures were in Madhabdi and Raipura, so no event photo is listed.
 ---
 
 Narsingdi District Detective Branch officers and thana police carried out

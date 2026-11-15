@@ -51,6 +51,7 @@ open_questions:
   - The checks are described as the previous evening and the early morning of the 12 November 2026 publication day, giving an 11-12 November span.
   - No names, ages or nationalities of the three men and no court outcome were reported.
   - The account rests on a single accessible outlet report.
+  - Pelop.gr illustrated the Patras arrests with an October 2026 generic Hellenic Police file photograph, so no event photo is listed.
 ---
 
 Police in Patras arrested three men within a few hours after street checks

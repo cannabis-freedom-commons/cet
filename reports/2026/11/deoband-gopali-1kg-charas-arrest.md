@@ -55,6 +55,14 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-13
     language: hi
+media:
+  - kind: photo
+    url: https://www.bhaskar.com/local/uttar-pradesh/saharanpur/deoband/news/deoband-police-arrest-man-with-charas-ndps-act-case-saharanpur-139676821.html
+    media_url: https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/13/851b9f4e-0a5c-498b-b7f8-8b393080dc03_1794580151124.jpg
+    publisher: Dainik Bhaskar
+    caption: >-
+      Kafeel holding a taped plastic pack of seized charas between two Deoband police officers after
+      the Gopali outpost check. Photo: Deoband police / Dainik Bhaskar
 open_questions:
   - One account dates the check to 11 November and does not restate the year; 2026 is the year both reports were published. The other account gives no separate day.
   - No estimated value of the seized charas was published.

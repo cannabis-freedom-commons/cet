@@ -59,6 +59,7 @@ open_questions:
   - No total amount of cannabis sold or price per gram is reported; the 28.37 grams are what remained after laboratory analyses.
   - The article identifies the offence as trafficking in risk drugs and the drug as cannabis, but does not state the exact form of the 28.37 grams.
   - The judgment is cited as criminal decision no. 374/2026, but the report does not explicitly name the court that delivered it or give the date of the hearing.
+  - Agora Press illustrated the Iași suspended sentence with a June 2025 drug-raid file photograph, so no event photo is listed.
 ---
 
 A court in Iași sentenced a man from the city to two years and ten months in

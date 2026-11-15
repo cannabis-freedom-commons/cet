@@ -61,13 +61,28 @@ sources:
     publisher: Daily Karatoa
     date: 2026-11-11
     language: bn
+media:
+  - kind: photo
+    url: https://youthtvnewsbd.com/archives/45185
+    media_url: https://youthtvnewsbd.com/wp-content/uploads/socialmark-images/179439389445185.jpg
+    publisher: Youth Tv News
+    caption: >-
+      Abdus Salam Sarkar beside a Dhunat officer with a white sack of seized ganja after the Purba
+      Guadohuri house raid. Photo: Youth Tv News
+  - kind: photo
+    url: https://sokalersomoy.online/news/170126
+    media_url: https://sokalersomoy.online/storage/2026/November/og-k67Ihce5fDrgPuNBToK4Q97c3CzX0Mp9BTnT4fsa.jpg
+    publisher: Daily Sokaler Somoy
+    caption: >-
+      Abdus Salam Sarkar standing with a Dhunat police officer after the 1.5 kg ganja arrest. Photo:
+      Daily Sokaler Somoy
 open_questions:
-    - One account attributes the arrest to the police while the narcotics department account says its officers conducted the raid and its inspector filed the case at Dhunat police station.
-    - No estimated value for the seized ganja was published.
-    - The seized ganja was not described as laboratory-confirmed.
-    - No court sentence was reported after the accused was sent to jail through the Bogura court.
-    - A same-day police account also reports a separate assault case against another man, which is not part of this seizure.
-    - Daily Karatoa reports the accused was sent to jail through the Bogura court in the afternoon, while Gono Manusher Awaj gives Wednesday morning.
+  - One account attributes the arrest to the police while the narcotics department account says its officers conducted the raid and its inspector filed the case at Dhunat police station.
+  - No estimated value for the seized ganja was published.
+  - The seized ganja was not described as laboratory-confirmed.
+  - No court sentence was reported after the accused was sent to jail through the Bogura court.
+  - A same-day police account also reports a separate assault case against another man, which is not part of this seizure.
+  - Daily Karatoa reports the accused was sent to jail through the Bogura court in the afternoon, while Gono Manusher Awaj gives Wednesday morning.
 ---
 
 Police arrested 58-year-old Abdus Salam Sarkar with 1.5 kg of ganja in Dhunat

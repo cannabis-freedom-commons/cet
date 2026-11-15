@@ -45,6 +45,15 @@ sources:
     publisher: Sorejomin Barta
     date: 2026-11-12
     language: bn
+media:
+  - kind: photo
+    url: https://sorejominbarta.com/country/article/66660
+    media_url: https://sorejominbarta.com/public/uploads/2026-11/IMG-20261112-WA0006_original_1794457565.webp
+    publisher: Sorejomin Barta
+    caption: >-
+      The arrested woman seated before a Department of Narcotics Control Brahmanbaria banner beside an
+      open backpack holding two tape-wrapped ganja bundles from the Akhaura bypass raid. Photo:
+      Department of Narcotics Control / Sorejomin Barta
 open_questions:
   - The article gives no calendar date for the raid, only Wednesday; 11 November 2026, the Wednesday before its 12 November publication, is used as the incident date.
   - The 4 kg is stated without detail on weighing or laboratory confirmation.

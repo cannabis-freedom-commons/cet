@@ -51,6 +51,7 @@ open_questions:
   - Whether the 65-year-old field owner was taken into custody, and any plea, bail or court outcome, was not reported.
   - The exact location or size of the field within Athmana Kotda village was not given.
   - Only one accessible outlet account of this event was found after searching in Hindi and English.
+  - Pratahkal illustrated the Athmana Kotda ganja-field case with an exterior photograph of Rishabhdeo police station and no plants or seizure visible, so no event photo is listed.
 ---
 
 Rishabhdeo police in Udaipur district took action against alleged illegal
