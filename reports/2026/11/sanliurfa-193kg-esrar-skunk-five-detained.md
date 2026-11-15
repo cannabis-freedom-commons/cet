@@ -121,16 +121,26 @@ sources:
     publisher: Haber Name
     date: 2026-11-14
     language: tr
+  - title: Jandarma 176 kilo esrar ele geçirdi!
+    url: https://www.yenijournal.com/jandarma-176-kilo-esrar-ele-gecirdi
+    publisher: Yeni Journal
+    date: 2026-11-14
+    language: tr
+  - title: Şanlıurfa'da operasyonda 176 kilogram esrar bulundu, 5 şüpheli gözaltına alındı
+    url: https://www.haberler.com/amp/sanliurfa-da-operasyonda-176-kilogram-esrar-20426259-haberi
+    publisher: Haberler
+    date: 2026-11-14
+    language: tr
 ---
 
 Şanlıurfa Governor Hasan Şıldak announced that gendarmerie and police anti-drug
 operations in Şanlıurfa seized a total of 193 kilograms 500 grams of drugs and
 that five suspects were detained. [@1,13] The five suspects were detained in
-connection with the seizures. [@2,4,5,8,9,11,12,14] The detained suspects were taken to the Provincial Gendarmerie Command for procedures. [@7,8,9,10,11,12,14]
+connection with the seizures. [@2,4,5,8,9,11,12,14,15] The detained suspects were taken to the Provincial Gendarmerie Command for procedures. [@7,8,9,10,11,12,14,16]
 
 The gendarmerie’s planned operation seized 173 kilograms of powdered toz esrar
 and 3 kilograms 500 grams of chunk kubar esrar, together 176 kilograms 500
-grams. [@1,4,13] Searches were carried out at addresses identified by the teams. [@6,8,9,10,11,12,14] The same gendarmerie total was described as 173 kilos of powdered
+grams. [@1,4,13] Searches were carried out at addresses identified by the teams. [@5,6,8,9,10,11,12,14] The same gendarmerie total was described as 173 kilos of powdered
 esrar and 3 kilos 500 grams of kubar esrar, making 176 kilos 500 grams in total.
 [@2] Police work in the same round of operations seized 17 kilograms of skunk.
 [@1,4,13]
