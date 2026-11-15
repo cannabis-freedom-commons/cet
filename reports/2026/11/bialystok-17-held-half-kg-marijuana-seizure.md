@@ -57,6 +57,21 @@ open_questions:
   - The investigation ran from early 2025 through the March 2025 garage search to the recent detentions, but exact dates for each detention were not published.
   - No court outcome beyond temporary arrest for 11 suspects was reported.
   - Both accounts reproduce the same police material and are not independent reporting of the operation.
+media:
+  - kind: photo
+    url: https://www.kryminalki.pl/artykul/36902,przez-kilka-lat-rozpracowywali-grupe-dilerow-final-to-17-zatrzymanych-i-ponad-50-kg-narkotykow
+    media_url: https://static2.kryminalki.pl/data/articles/xl-przez-kilka-lat-rozpracowywali-grupe-dilerow-final-to-17-zatrzymanych-i-ponad-50-kg-narkotykow-1794638775.jpg
+    publisher: Kryminalki.pl
+    caption: >-
+      Bags of white powder and marijuana, a revolver, phones, cash, a vacuum sealer and packaging
+      laid out after the Białystok dealer-network raids. Photo: Kryminalki.pl
+  - kind: photo
+    url: https://www.kryminalki.pl/artykul/36902,przez-kilka-lat-rozpracowywali-grupe-dilerow-final-to-17-zatrzymanych-i-ponad-50-kg-narkotykow
+    media_url: https://static2.kryminalki.pl/data/media/2026/11/14/sm-4x3-przez-kilka-lat-rozpracowywali-grupe-dilerow-final-to-17-zatrzymanych-i-ponad-50-kg-narkotykow-1794638786-1.jpg
+    publisher: Kryminalki.pl
+    caption: >-
+      Marijuana on a digital scale beside a handgun during the Białystok seizure documentation.
+      Photo: Kryminalki.pl
 ---
 
 Officers of the Bialystok provincial police spent several years gathering

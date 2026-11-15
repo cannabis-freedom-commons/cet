@@ -61,6 +61,8 @@ sources:
     url: https://theprint.in/india/drugs-precursor-chemicals-worth-rs-2-4-crore-seized-in-chennai-four-arrested/3098204/
     publisher: ThePrint
     date: 2026-11-13
+open_questions:
+  - Rediff illustrated the Chennai case with a September 2026 brown-powder evidence graphic, not a photo of the hydroponic ganja seizure.
 ---
 
 Chennai Customs' Air Intelligence Unit intercepted a male passenger who arrived

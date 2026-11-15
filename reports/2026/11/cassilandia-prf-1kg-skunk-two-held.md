@@ -47,6 +47,14 @@ open_questions:
   - The two men were not named, and no charges or court outcome were reported.
   - The precise highway where the vehicle was stopped was not named beyond access roads to the Bolsão region.
   - The whole account rests on a single local outlet relaying the radio programme and the civil police chief's statement.
+media:
+  - kind: photo
+    url: https://www.cassilandianoticias.com.br/cassilandia/prf-e-policia-civil-interceptam-1-kg-de-crack-e-1-kg-de-skunk-que-seriam-entregues-em-cassilandia
+    media_url: https://cdn.cassilandianoticias.com.br/uploads/noticias/2026/11/12/1rwxmai9c6v7q.jpg
+    publisher: Cassilândia Notícias
+    caption: >-
+      Two plastic-wrapped packages on Balmak scales reading about 1.1 kg and 1.03 kg after the
+      Cassilândia interception. Photo: Cassilândia Notícias
 ---
 
 Two men were arrested in flagrante at the scene and taken for judicial police

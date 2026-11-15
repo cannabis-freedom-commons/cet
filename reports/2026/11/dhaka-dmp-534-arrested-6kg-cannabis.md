@@ -31,6 +31,7 @@ open_questions:
   - The page image carries no credit or caption confirming what it depicts, so it is not listed as media.
   - Left out arrested, as no supporting quotation was given.
   - Left out kg seized, as no supporting quotation was given.
+  - The Report Live used a Dhaka Metropolitan Police logo graphic, not a photo of this 24-hour drive.
 ---
 
 Dhaka Metropolitan Police arrested 534 people and filed 53 cases during 24 hours

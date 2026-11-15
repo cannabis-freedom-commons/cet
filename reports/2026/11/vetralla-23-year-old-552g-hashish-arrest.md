@@ -54,6 +54,14 @@ open_questions:
   - The page summary mentions the seizure of the car as well as the scale, but the article body confirms only the seizure of the drugs and the equipment.
   - No plea, charge details beyond possession for dealing, or court outcome was reported; the case was at the preliminary-investigation stage.
   - Both accounts reproduce the same Carabinieri statement and are not independent reporting.
+media:
+  - kind: photo
+    url: https://www.viterbonews24.it/news/vetralla,-23enne-arrestato-con-oltre-mezzo-chilo-di-hashish-e-cocaina_159430.htm
+    media_url: https://www.viterbonews24.it/gesFiles/Filez/W1464946015K112655.jpg
+    publisher: Viterbo News 24
+    caption: >-
+      Two officers escorting the arrested man toward a police car after the Vetralla stop.
+      Photo: Viterbo News 24
 ---
 
 Carabinieri from the Vetralla station arrested a 23-year-old local man caught in

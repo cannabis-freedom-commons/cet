@@ -59,6 +59,7 @@ open_questions:
   - No suspect name, age or charge wording was published, and no court outcome beyond detention was reported.
   - No separate cannabis value was published; the 450 euros were described as suspected proceeds of drug sales in general and are not counted as cannabis value.
   - The same daily roundup also reports a 34.5-gram bag found in Gjakova, 3.1 grams found in Vushtrri and drug items found during South Mitrovica gambling raids; those are separate events left out of this report.
+  - Kallxo used an October 2021 marijuana file photo, and KoSSev a 2024 social-media still, neither documenting this Gjakova arrest.
 ---
 
 Kosovo police conducted operations seizing various quantities of suspected

@@ -53,6 +53,14 @@ open_questions:
   - The heroin and cocaine weights are reported only to explain the same operation and are not counted in the cannabis seizure figure.
   - No charges, pleas or court outcome were reported; the case stood at referral to the judicial authorities.
   - The two page images carry no caption or credit tying them to this house search, so no photo is listed.
+media:
+  - kind: photo
+    url: https://www.tharrosnews.gr/2026/11/zevgari-roma-diakinousan-iroini-kokaini-kai-kannavi/
+    media_url: https://www.tharrosnews.gr/wp-content/uploads/2026/11/nardiox.jpg
+    publisher: Tharros News
+    caption: >-
+      Kalamata narcotics-unit evidence: digital scale, cash, foil wraps and a bag of brown resinous
+      cannabis among other seized substances. Photo: Tharros News
 ---
 
 Kalamata narcotics police, assisted by the Messinia crime-prevention unit,

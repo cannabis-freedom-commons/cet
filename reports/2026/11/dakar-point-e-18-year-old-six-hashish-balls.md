@@ -47,6 +47,7 @@ open_questions:
   - No charges, plea or court outcome were reported; the case was at the investigation stage.
   - The English version on Seneweb reproduces the same account as the French version, so it is not an independent second source.
   - 'Left out, as its quotation was not found in Seneweb: The English version of the same Seneweb account confirms the night of 12 November 2026 stop of O. Wade in Point-E, the seizure of six hashish balls, a string of the same substance and Rizla papers, and his custody for possession of a hard drug.'
+  - Seneweb illustrated the Point E arrest with a generic handcuffing stock image, not a photo of the six hashish balls.
 ---
 
 Police from the Point-E district police station's research unit stopped an

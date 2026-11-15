@@ -53,6 +53,14 @@ open_questions:
   - No weight or area figure is given for the seized marijuana; only the count of 25 portions and five cocaine-paste portions was published.
   - The cocaine paste is a non-cannabis substance, so its quantity is not counted toward cannabis figures and no combined drug weight was published.
   - No charges, plea or court outcome had been reported in these accounts; the couple were held in flagrante at the Verdão police station, so the case was at the investigation stage.
+media:
+  - kind: photo
+    url: https://lapadalapada.com.br/casal-tenta-fugir-da-pm-em-motocicleta-e-acaba-preso-com-drogas-durante-operacao-moinho-seguro/
+    media_url: https://lapadalapada.com.br/content/images/size/w2000/2026/11/1000598752.jpg
+    publisher: Lapada Lapada
+    caption: >-
+      The handcuffed couple standing with their backs to the camera after the Moinho Seguro arrest
+      in Cuiabá. Photo: Lapada Lapada
 ---
 
 During the Moinho Seguro operation on Avenida Jurumirim in Cuiabá, a man and a

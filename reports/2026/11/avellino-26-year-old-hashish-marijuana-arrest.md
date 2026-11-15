@@ -56,6 +56,7 @@ open_questions:
   - The cannabis amounts are stated as seized doses without reported laboratory confirmation.
   - No outcome of the validation hearing, charges beyond the arrest allegation, or later court result was reported.
   - The account rests on a single opened outlet report of a police operation; no independent second account was found.
+  - AvellinoToday illustrated the arrest with a generic Squadra Volante night file photo, not a picture of this hashish and marijuana seizure.
 ---
 
 Within investigative activities coordinated by the Public Prosecutor's Office at
