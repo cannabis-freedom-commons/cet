@@ -39,26 +39,36 @@ sources:
     publisher: Janobani
     date: 2026-11-14
     language: bn
+  - title: ফুলবাড়ী সীমান্তে বিজিবির অভিযানে ইয়াবা-গাঁজাসহ আটক ১
+    url: https://www.somoyerkonthosor.com/post/2026/11/14/6af871fb3569d
+    publisher: Somoyer Konthosor
+    date: 2026-11-14
+    language: bn
+  - title: ফুলবাড়ী সীমান্তে বিজিবির দুই অভিযান, ইয়াবা ও সাড়ে ১২ কেজি গাঁজা জব্দ
+    url: https://biplobibarta.com/post/8531/
+    publisher: Biplobi Barta
+    date: 2026-11-14
+    language: bn
 open_questions:
-  - Janobani illustrates the Fulbari BGB case with a yaba-tablet display and no ganja visible, so no event photo is listed.
-  - The combined seizure value of Tk 108,130 covers all three raids and cannot be assigned to the cannabis alone, so no cannabis value is recorded.
-  - No arrest, charge, suspect identity or court outcome was reported for the Kadamtali cannabis raid; the single detention belonged to the separate yaba raid.
-  - The report rests on a single opened outlet account of the 15 BGB press release; no separate BGB statement was opened.
-  - The coordinates are the Fulbari upazila centre, not the exact Kadamtali spot.
+    - Janobani illustrates the Fulbari BGB case with a yaba-tablet display and no ganja visible, so no event photo is listed.
+    - The combined seizure value of Tk 108,130 covers all raids announced together and cannot be assigned to the cannabis alone, so no cannabis value is recorded.
+    - No arrest, charge, suspect identity or court outcome was reported for the Kadamtali cannabis raid; the single detention belonged to the separate yaba raid.
+    - Only outlet accounts of the same 15 BGB press release are available; no separate BGB statement was opened.
+    - The coordinates are the Fulbari upazila centre, not the exact Kadamtali spot.
+    - Accounts differ on whether the announcement covered only the yaba and Kadamtali cannabis raids or also a third Mogalhat goods seizure, although all give the same combined Tk 108,130 value.
 ---
 
 The Lalmonirhat Battalion (15 BGB) announced the operations in a press release
-on Saturday, 14 November. [@1] BGB said the operations were conducted in the
+on Saturday, 14 November. [@1,2] BGB said the operations were conducted in the
 areas of the Gangarhat, Mogalhat and Anantapur border observation posts under
 its ongoing Operation Narcotics Strike. [@1] At 9:20 pm on Friday, 13 November,
 a patrol from the Anantapur border outpost raided the Kadamtali area of Fulbari
-upazila in Kurigram. [@1] The raid recovered 12 kg 500 g of Indian ganja. [@1]
+upazila in Kurigram. [@1,2] The raid recovered 12 kg 500 g of Indian ganja. [@1,2,3]
 
 In a separate raid that morning at about 8 am, the Gangarhat outpost patrol
 detained one person and seized 114 Indian yaba pills in the Kuti Chandra Khan
-area of Fulbari. [@1] In the third raid, Mogalhat outpost members seized 15
+area of Fulbari. [@1,2] In the third raid, Mogalhat outpost members seized 15
 types of Indian goods, including perfume, powder, oil and toothpaste, at
 Chouratari in Lalmonirhat Sadar on Friday morning. [@1] BGB said it was
 gathering information to identify the detained person and the smugglers involved
 and that legal action was under way. [@1]
-
