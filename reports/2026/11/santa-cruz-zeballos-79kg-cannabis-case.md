@@ -1,87 +1,85 @@
 ---
 code: TB21PD
 added_at: '2026-11-05T21:04:36.523964Z'
-date: '2026-11-11'
+date: 2026-11-13
 country: bo
 place: Santa Cruz, Bolivia
 coordinates:
   - -17.7833
   - -63.1821
 precision: locality
-type: prosecution
-also:
-  - arrest
-  - raid
-  - seizure
-title: Former Santa Cruz court chief arrested in Bolivia’s cannabis suitcase case
-summary: >-
-  Police arrested former Santa Cruz court president Aldo Quezada on 11 November 2026 in the
-  investigation into more than 30 suitcases flown into Bolivia in 2025. Investigators separately
-  reported seizing 79 kg of cannabis from a warehouse linked to former judge Hebert Zeballos, who
-  was returned to custody in October.
+type: sentence
+also: [arrest, raid, seizure, prosecution]
+title: 'First sentence in suitcase case: ex-court chief gets 3 years'
+summary: Former Santa Cruz court president Aldo Quezada pleaded guilty and received a three-year sentence through an abbreviated trial, the first sentence in Bolivia's suitcase case. He had been arrested on 11 November 2026 over more than 30 suitcases allegedly carrying high-purity marijuana that arrived at Viru Viru airport in 2025.
 figures:
-  arrested: 2
-  charged: 1
-  kg_seized: 79
+    arrested: 2
+    charged: 1
+    kg_seized: 79
+    prison: 3 years
+    sentenced: 1
 details:
-  activity:
-    - trafficking
-  agencies:
-    - bo-felcn
-  agency_types:
-    - anti-narcotics
-    - prosecutor
-    - court
-  case_stage: investigation
-  date_precision: exact
-  products:
-    - product: flower
-      kg: 79
-  setting:
-    - airport
-    - home
-    - building
-  charges:
-    - tráfico de sustancias controladas
-    - asociación delictuosa
-    - confabulación
+    activity:
+        - trafficking
+    agencies:
+        - bo-felcn
+    agency_types:
+        - anti-narcotics
+        - prosecutor
+        - court
+    case_stage: sentenced
+    date_precision: exact
+    products:
+        - product: flower
+          kg: 79
+    setting:
+        - airport
+        - home
+        - building
+    charges:
+        - tráfico de sustancias controladas
+        - asociación delictuosa
+        - confabulación
+    sentence_types: [prison]
 data_sources:
-  details.activity:
-    - 2
-    - 1
-    - 3
-  details.agencies:
-    - 2
-  details.agency_types:
-    - 2
-    - 6
-    - 12
-  details.case_stage:
-    - 7
-  details.date_precision:
-    - 6
-  details.products:
-    - 5
-    - 3
-    - 2
-    - 1
-  details.setting:
-    - 2
-    - 1
-    - 3
-    - 6
-    - 4
-    - 5
-  figures.arrested:
-    - 6
-    - 7
-  figures.kg_seized:
-    - 2
-  details.charges:
-    - 2
-    - 7
-  figures.charged:
-    - 2
+    details.activity:
+        - 2
+        - 1
+        - 3
+    details.agencies:
+        - 2
+    details.agency_types:
+        - 2
+        - 6
+        - 12
+    details.case_stage: [30]
+    details.date_precision:
+        - 6
+    details.products:
+        - 5
+        - 3
+        - 2
+        - 1
+    details.setting:
+        - 2
+        - 1
+        - 3
+        - 6
+        - 4
+        - 5
+    figures.arrested:
+        - 6
+        - 7
+    figures.kg_seized:
+        - 2
+    details.charges:
+        - 2
+        - 7
+    figures.charged:
+        - 2
+    details.sentence_types: [30]
+    figures.prison: [30]
+    figures.sentenced: [30]
 status: reported
 created_by_model: openai/gpt-6-luna#max
 submission: 09be475e6b44b2578ba45d4eaa7a432b
@@ -268,20 +266,18 @@ sources:
     publisher: Red Uno de Bolivia
     date: '2026-11-06'
     language: es
+  - title: 'Primer sentenciado en el caso Maletas: El exvocal Aldo Quezada admite su culpa y recibe tres años de condena | Visión 360'
+    url: https://www.vision360.bo/amp/noticias/2026/11/13/77123-primer-sentenciado-en-el-caso-maletas-el-exvocal-aldo-quezada-admite-su-culpa-y-recibe-tres-anos-de-condena
+    publisher: Visión 360
+    date: 2026-11-13
+    language: es
 open_questions:
-  - >-
-    FELCN reported 79 kg from the warehouse. The interior minister gave 70 kg, Visión 360 reported
-    79.65 kg and EL PAÍS reported 80 kg.
-  - >-
-    Accounts give 31 or 32 suitcases. The weight, laboratory composition and eventual destination of
-    their alleged contents remain unconfirmed.
-  - >-
-    Witness statements differ on where the aircraft left from and which San Ramón airport it was
-    ordered to use.
-  - Quezada’s and Zeballos’s allegations about the suitcases have yet to be tested in court.
-  - >-
-    No final ruling on the allegations or on Zeballos’s claim about electronic monitoring failures
-    was reported.
+    - FELCN reported 79 kg from the warehouse. The interior minister gave 70 kg, Visión 360 reported 79.65 kg and EL PAÍS reported 80 kg.
+    - Accounts give 31 or 32 suitcases. The weight, laboratory composition and eventual destination of their alleged contents remain unconfirmed.
+    - Witness statements differ on where the aircraft left from and which San Ramón airport it was ordered to use.
+    - Quezada pleaded guilty and was sentenced, but the allegations by the other accused about the suitcases have yet to be tested in court.
+    - No final ruling on the allegations against the remaining accused or on Zeballos's claim about electronic monitoring failures was reported.
+    - Whether Quezada will serve the three-year term in detention was not confirmed; the new account says national rules do not necessarily require imprisonment.
 media:
   - kind: photo
     url: https://correodelsur.com/seguridad/20261106/afirman-que-maletas-eran-de-saucedo-y-tenian-marihuana.html
@@ -293,7 +289,7 @@ media:
       del Sur
 ---
 
-Bolivian police arrested former Santa Cruz departmental court president Aldo Quezada on 11 November 2026 after searching his home. [@7,12,13] Prosecutors were investigating alleged drug trafficking, criminal association and conspiracy in the case of more than 30 suitcases that arrived at Viru Viru airport from the United States on 29 November 2025. [@7,8,9,12,21] Former deputy Laura Rojas collected 31 pieces of luggage the following day. [@9,21,22] Accounts differ on the airport the pilot was allegedly asked to divert to and whether the flight originated in Miami or California. [@9,14,15,18,21,22]
+Bolivian police arrested former Santa Cruz departmental court president Aldo Quezada on 11 November 2026 after searching his home. [@7,12,13] Under national rules, the three-year sentence does not necessarily require his imprisonment. [@30] Former Santa Cruz departmental court president Aldo Quezada pleaded guilty and, through an abbreviated trial, received a three-year prison sentence, becoming the first person sentenced in the Maletas case. [@30] Prosecutors were investigating alleged drug trafficking, criminal association and conspiracy in the case of more than 30 suitcases that arrived at Viru Viru airport from the United States on 29 November 2025. [@7,8,9,12,21] Former deputy Laura Rojas collected 31 pieces of luggage the following day. [@9,21,22] Accounts differ on the airport the pilot was allegedly asked to divert to and whether the flight originated in Miami or California. [@9,14,15,18,21,22]
 
 ## Warehouse seizure and detention
 
