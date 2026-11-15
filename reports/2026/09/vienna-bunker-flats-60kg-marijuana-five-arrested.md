@@ -68,18 +68,15 @@ sources:
     publisher: krone.at
     date: 2026-10-22
     language: de
-open_questions:
-  - 'The marijuana figure is approximate: the sources say about (rund/ongeveer) 60 kilograms, not an exact weighed total.'
-  - The 3.6 kilograms of cocaine and the combined street value of about one million euros cover both drugs and are not counted as cannabis figures.
-  - One account says the five were arrested in a taxi while another lists pick-ups in Rudolfsheim-Fünfhaus, Hernals and Döbling; the reports agree on the five arrests but differ on this detail.
-  - The Austrian reports were published on 22 October 2026; 22 September 2026 is the stated day of the arrests and searches.
-  - No court outcome beyond the requested pre-trial detention was reported; the case stood at the charged stage.
-  - The submitted headline describes the cannabis as vacuum-packed, but the opened body gives no packaging detail.
-  - The Kurier page's close-up photo of a flowering cannabis plant is a generic image and is not listed as a picture of this event.
+  - title: 'Politie vindt grote voorraad vacuüm verpakt wiet en cocaïne bij invallen: vijf mannen achter tralies | Crime'
+    url: https://drimble.nl/dossiers/crime/108599528/politie-vindt-grote-voorraad-vacuum-verpakt-wiet-en-cocaine-bij-invallen-vijf-mannen-achter-tralies.html
+    publisher: Drimble
+    date: 2026-11-14
+    language: nl
 ---
 
 Austrian police arrested five men in Vienna on 22 September 2026 on suspicion of
-drug trafficking. [@1] The suspects are 25 to 39 years old and are Serbian,
+drug trafficking. [@1,5] The suspects are 25 to 39 years old and are Serbian,
 Bulgarian and Austrian nationals. [@2] They were picked up in
 Rudolfsheim-Fünfhaus, Hernals and Döbling. [@1] Officers identified, stopped and
 provisionally arrested the five suspected dealers during the street-crime
@@ -89,10 +86,9 @@ the Vienna prosecution service's order, with pre-trial detention sought for all
 five. [@4]
 
 Investigators then searched two homes in Hernals and Döbling believed to have
-been used as storage premises. [@1] Police say the flats served a gang linked to
+been used as storage premises. [@1,5] Police say the flats served a gang linked to
 organised drug crime as drug hideouts. [@3] Investigators seized about 60
 kilograms of marijuana and 3.6 kilograms of cocaine along with two forged
-identity documents. [@3] Officers also seized about 1,500 euros in cash and two
+identity documents. [@3,5] Officers also seized about 1,500 euros in cash and two
 forged identity documents. [@1] Police put the street sale value of the drugs at
 about one million euros. [@4]
-
