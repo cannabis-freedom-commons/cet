@@ -1,0 +1,72 @@
+---
+code: 11VNRZ
+added_at: "2026-11-15T03:57:18.940103Z"
+date: 2026-10-31
+country: ye
+place: Hadhramaut coast, Aden, Hadhramaut valley, Lahj, Taiz, Marib and Al-Dhalea
+coordinates: [15.5527, 48.5164]
+precision: country
+type: seizure
+also: [arrest]
+title: 'October tally: 21.1 kg hashish seized; 111 held across governorates'
+summary: >-
+  Yemen's anti-drug department said October operations across several governorates produced 69 drug cases and 111 arrests. Seizures in the monthly total included 21.105 kilograms of hashish, alongside non-cannabis drugs excluded from the cannabis figure.
+figures:
+  arrested: 111
+  kg_seized: 21.105
+details:
+  agencies: [General Department for Combating Drugs, Ministry of Interior]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish, kg: 21.105}
+  case_stage: investigation
+  period: {start: 2026-10-01, end: 2026-10-31}
+  date_precision: approximate
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [2]
+  details.case_stage: [1]
+  details.period: [2]
+  details.products: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 0326a7a9a16ab17c6c305009e811f70b
+tags: [hadhramaut, aden, hashish, monthly-tally]
+sources:
+  - title: ضبط 69 قضية مخدرات والقبض على 111 متهماً في المحافظات خلال أكتوبر
+    url: https://www.adngad.net/news/898242
+    publisher: عدن الغد
+    date: 2026-11-14
+    language: ar
+  - title: مكافحة المخدرات بالمحافظات تضبط 69 قضية وتلقي القبض على 111 متهماً خلال أكتوبر
+    url: https://www.sabanew.net/story/ar/155788
+    publisher: Saba News Agency
+    date: 2026-11-14
+    language: ar
+open_questions:
+  - The 69 cases and 111 arrests cover all drugs in the monthly total and cannot be separated into cannabis-only cases or arrests.
+  - No governorate-by-governorate breakdown for the 21.105 kg of hashish was published.
+  - 31 October 2026 stands for the month of October 2026; no day-by-day dates for the operations were given.
+  - No names, charges beyond promotion, use and other categories, or court outcomes were reported.
+  - Both accounts reproduce the Interior Ministry anti-drug department's monthly statement and are not independent reporting.
+---
+
+The Interior Ministry's General Department for Combating Drugs said it recorded
+69 drug cases and arrested 111 suspects in several governorates during October.
+[@1] Of those held, 39 were accused of promotion, 49 of use and 23 in other
+categories. [@1] The 69 cases comprised 29 use cases, 26 promotion cases and 14
+in other categories. [@1] The second account says all 111 detainees were male
+citizens. [@2]
+
+The operations seized 21 kilograms and 105 grams of hashish. [@1] In the same
+total officers also seized 910 grams of shabu and 4,163 narcotic pills, which
+are not counted in the cannabis figures. [@1]
+
+Hadhramaut coast led with 26 cases and 40 arrests, followed by Aden with 24
+cases and 36 arrests. [@1] Hadhramaut valley recorded 13 cases and 27 arrests,
+and Lahj recorded 3 cases and 5 arrests. [@1] Taiz, Marib and Al-Dhalea each
+recorded one case and one arrest. [@1] Anti-drug director Brig. Abdullah Lahmadi
+said confronting drugs requires combined security and community efforts. [@1]
+
