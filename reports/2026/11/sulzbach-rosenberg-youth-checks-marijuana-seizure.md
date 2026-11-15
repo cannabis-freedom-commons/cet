@@ -38,29 +38,32 @@ sources:
     publisher: Onetz
     date: 2026-11-13
     language: de
+  - title: Kurzmeldungen der Polizei Oberpfalz am 13.11.2026
+    url: https://www.oberpfalz-aktuell.com/artikel/kurzmeldungen-der-polizei-oberpfalz-am-13-11-2026
+    publisher: Oberpfalz-Aktuell
+    date: 2026-11-13
+    language: de
 open_questions:
-  - 12 November 2026 is the Thursday before the 13 November 2026 publication; no separate calendar date for the checks was stated.
-  - No weight, quantity or number of people was stated for the marijuana find or the consumption cases.
-  - No arrests, identities, charges beyond the Consumer Cannabis Act reports, or court outcome were stated.
-  - The account rests on a single regional report of a police statement; no second account was found.
-  - Onetz labels its lead image a Symbolbild of a police stop paddle, so no photo of these Sulzbach-Rosenberg checks is listed.
+    - 12 November 2026 is the Thursday before the 13 November 2026 publication; no separate calendar date for the checks was stated.
+    - No weight, quantity or number of people was stated for the marijuana find or the consumption cases.
+    - No arrests, identities, charges beyond the Consumer Cannabis Act reports, or court outcome were stated.
+    - Onetz labels its lead image a Symbolbild of a police stop paddle, so no photo of these Sulzbach-Rosenberg checks is listed.
 ---
 
 Police held youth-protection checks on Thursday in the city area of
-Sulzbach-Rosenberg. [@1] During the operation officers checked several juveniles
+Sulzbach-Rosenberg. [@1,2] During the operation officers checked several juveniles
 and young adults in what police described as a repeat check. [@1] Officers found
-prohibited e-cigarettes known as vapes as well as marijuana. [@1] Police seized
+prohibited e-cigarettes known as vapes as well as marijuana. [@1,2] Police seized
 and destroyed the items found. [@1]
 
 The checks brought to light banned vapes, marijuana and e-scooters travelling
 too fast. [@1] In the same operation officers stopped two e-scooters that had
 been travelling well over the speed limit and in some cases without insurance
 cover. [@1] The measured speeds were 35 and 50 km/h, and one rider was reported
-because he could not show the required driving licence. [@1]
+because he could not show the required driving licence. [@1,2]
 
 Officers also detected cannabis consumption near the children's playground in
-the Stadtpark and in the immediate vicinity of juveniles. [@1] Officers filed
-reports for violations of the Consumer Cannabis Act over that consumption. [@1]
+the Stadtpark and in the immediate vicinity of juveniles. [@1,2] Officers filed
+reports for violations of the Consumer Cannabis Act over that consumption. [@1,2]
 Public cannabis consumption is prohibited on playgrounds and within sight of
 them as well as in the immediate vicinity of minors. [@1]
-
