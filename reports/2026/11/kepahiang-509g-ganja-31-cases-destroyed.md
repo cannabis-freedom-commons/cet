@@ -33,6 +33,11 @@ media:
     media_url: https://radarkepahiang.disway.id/upload/90b016775ea7420af0bd28cda7d97ca3.jpg
     publisher: radarkepahiang.id (Disway)
     caption: Photo published with the report on the destruction of confiscated evidence in the yard of the Kepahiang District Attorney's Office; the page gives no credit for the image.
+  - kind: photo
+    url: https://rri.co.id/bengkulu/regional/2894955/kejari-kepahiang-musnahkan-barang-bukti-dari-31-perkara-narkotika-mendominasi
+    media_url: https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/bengkulu/thumbs/full_1794577609106760_c2d21f66db_berita_bengkulu.webp
+    publisher: RRI.co.id
+    caption: 'Photo of the destruction of sabu-sabu narcotics published with the report on the Kepahiang evidence destruction. Photo: alex'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 00d65eec843fa0aac262f9eafe45f2a4
@@ -48,26 +53,30 @@ sources:
     publisher: harianbengkuluekspress.id
     date: 2026-11-12
     language: id
+  - title: Kejari Kepahiang Musnahkan Barang Bukti dari 31 Perkara, Narkotika Mendominasi
+    url: https://rri.co.id/bengkulu/regional/2894955/kejari-kepahiang-musnahkan-barang-bukti-dari-31-perkara-narkotika-mendominasi
+    publisher: RRI.co.id
+    date: 2026-11-13
+    language: id
 open_questions:
     - No figure was published for the number of suspects, defendants or convictions behind the 15 narcotics cases.
     - The 509.3 grams is the combined weight of ganja from all 15 narcotics cases, so no weight is given for any single case.
     - No value estimate was published for the destroyed ganja or the other evidence.
-    - The report does not describe the method used to destroy the ganja and the other narcotics.
 ---
 
 The Kepahiang District Attorney's Office destroyed evidence from 31 general
 criminal cases decided by the Kepahiang District Court whose verdicts had become
-final, known in Indonesia as inkrah, on Thursday 12 November 2026. [@1] The
+final, known in Indonesia as inkrah, on Thursday 12 November 2026. [@1,3] The
 exercise was held in the yard of the prosecutor's office and was the second
-destruction of evidence carried out there in 2026. [@1,2]
+destruction of evidence carried out there in 2026. [@1,2,3]
 
 Ari Pratama, who heads the office's asset recovery and evidence management
 section, said the evidence came from cases handled between July and November
-2026. [@1] Narcotics cases made up the largest group, 15 cases, and the cannabis
+2026. [@1,3] Narcotics cases made up the largest group, 15 cases, and the cannabis
 among them weighed 509.3 grams, alongside 24.6 grams of crystal methamphetamine.
-[@1,2]
+[@1,2,3] Ganja and medicines without BPOM permits were destroyed by burning, while sabu was destroyed by blending it with water. [@3]
 
 According to the prosecutor's office, the evidence came from four different
 classes of offence, dominated by narcotics cases. [@1] Bladed weapons and
 clothing that the court had ordered confiscated for destruction were destroyed
-along with the drugs. [@1,2]
+along with the drugs. [@1,2] Sharp weapons and burglary tools were destroyed by cutting them with an iron-cutting machine. [@3]
