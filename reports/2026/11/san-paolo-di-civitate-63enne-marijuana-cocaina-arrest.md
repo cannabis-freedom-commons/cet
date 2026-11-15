@@ -109,23 +109,28 @@ sources:
     publisher: Italien.news
     date: 2026-11-14
     language: de
+  - title: Spaccio a San Paolo di Civitate, 63enne arrestato con marijuana e cocaina - Gazzetta H24
+    url: https://www.gazzettah24.it/spaccio-a-san-paolo-di-civitate-63enne-arrestato-con-marijuana-e-cocaina/
+    publisher: Gazzetta H24
+    date: 2026-11-14
+    language: it
 ---
 
 Carabinieri arrested a 63-year-old man, already known to law enforcement, in
 flagrante in San Paolo di Civitate on suspicion of possessing drugs for dealing.
-[@1,3,4] The operation was carried out by officers of the local Carabinieri station
+[@1,3,4,5] The operation was carried out by officers of the local Carabinieri station
 as part of drug prevention and enforcement checks. [@2] After the arrest was
 validated, the preliminary investigations judge ordered house arrest for the
-man. [@1,3,4]
+man. [@1,3,4,5]
 
 Officers seized over 320 grams of marijuana and about 66 grams of cocaine, along
-with material for packaging doses. [@1,3,4] Officers found a first dose of marijuana
-on the kitchen table during a search of the man's home in the town centre. [@1,4]
+with material for packaging doses. [@1,3,4,5] Officers found a first dose of marijuana
+on the kitchen table during a search of the man's home in the town centre. [@1,4,5]
 They recovered six more sealed packages of the same substance hidden in an
-adjacent plot available to the 63-year-old. [@1,3,4]
+adjacent plot available to the 63-year-old. [@1,3,4,5]
 
 Investigators estimated the seized drugs could have yielded about 1,900
-marijuana doses and 400 cocaine doses. [@1,3,4] A vacuum-packing machine and a roll
+marijuana doses and 400 cocaine doses. [@1,3,4,5] A vacuum-packing machine and a roll
 of film, believed to be used for preparing and packaging the drugs, were also
-found in the home. [@1,4] The case was in the preliminary investigations phase,
-with the suspect presumed innocent until a final conviction. [@2,4]
+found in the home. [@1,4,5] The case was in the preliminary investigations phase,
+with the suspect presumed innocent until a final conviction. [@2,4,5]
