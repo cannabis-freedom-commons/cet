@@ -62,19 +62,17 @@ sources:
     publisher: JPPOS
     date: 2026-11-13
     language: id
-open_questions:
-    - The 428.39 grams of sabu, 226 ecstasy pills and 29 pieces of etomidate are non-cannabis evidence and are not counted in the cannabis figure.
-    - No breakdown is given of how many of the 15 cases involved cannabis, so the 12.88 grams of ganja cannot be assigned to particular cases.
-    - No defendants are named and no original seizure dates or places for the cannabis evidence are given.
-    - No court outcomes for the 25 underlying suspects are reported.
-    - The destruction photo shows powder sachets being destroyed and does not separately identify the 12.88 grams of ganja.
-    - The submitted source names Tanah Putih & Pangkalan Kerinci as the two 10-case districts, while the report's existing sentence reads Palika; the district name for the second 10-case district is not reconciled here.
+  - title: POLRES ROHIL MUSNAHKAN RATUSAN GRAM SABU DAN PIL EKSTASI
+    url: https://www.riautelevisi.com/berita-polres-rohil-musnahkan-ratusan-gram-sabu-dan-pil-ekstasi.html
+    publisher: RiauTelevisi
+    date: 2026-11-14
+    language: id
 ---
 
 Rokan Hilir regency police destroyed 428.39 grams of sabu, 226 ecstasy pills, 29
 pieces of etomidate and 12.88 grams of ganja, the Indonesian term for cannabis,
-in a press conference at their aula on 13 November 2026. [@1,2,3] The evidence had
-been seized from 15 cases involving 25 suspects. [@1,2,4] The destruction took place
+in a press conference at their aula on 13 November 2026. [@1,2,3,5] The evidence had
+been seized from 15 cases involving 25 suspects. [@1,2,4,5] The destruction took place
 in the Aula Tunggal Panaluan of the regency police headquarters around 10.20
 WIB. [@1,2,4]
 
