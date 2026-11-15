@@ -63,6 +63,11 @@ sources:
     publisher: हिन्दुस्तान (Live Hindustan)
     date: 2026-11-14
     language: hi
+  - title: 500 ग्राम गांजे से तस्करी का खुलासा निशानदेही पर 1.45 क्विंटल बरामद
+    url: https://www.bhaskar.com/amp/local/bihar/banka/amarpur/news/smuggling-was-exposed-with-500-grams-of-ganja-145-quintals-recovered-on-the-basis-of-information-dbp-139678140.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-14
+    language: hi
 media:
   - kind: photo
     url: https://www.prabhatkhabar.com/state/bihar/banka/banka-police-raid-145-kg-ganja-cash-seized-five-smugglers-arrested
@@ -70,24 +75,27 @@ media:
     publisher: Prabhat Khabar
     caption: >-
       Banka police officers at a briefing after the Amarpur ganja raid. Photo: Prabhat Khabar
+open_questions:
+  - It is unclear whether the Khesar biker arrested with 400 to 500 grams of ganja is counted among the five arrested people or is a sixth person held in the case.
+  - The account gives two triggers for the Amarpur raids, a secret tip about ganja selling around the bus stand and the Khesar biker's questioning, without reconciling them.
 ---
 
 Police in the Amarpur police-station area of Banka district, Bihar, seized 145
 kg 700 g of ganja, the Hindi name for cannabis, in a raid against drug
-smuggling. [@1,3] Sub-divisional police officer Amar Vishwas told a press conference at Amarpur police station on Friday evening that station house officer Rakesh Kumar had been tipped off that ganja was being sold illegally around the bus stand, and that a police team led by him then carried out the raid. [@4,5] The raid took place on Thursday night in Khemichak Dharaan
+smuggling. [@1,3,6] Sub-divisional police officer Amar Vishwas told a press conference at Amarpur police station on Friday evening that station house officer Rakesh Kumar had been tipped off that ganja was being sold illegally around the bus stand, and that a police team led by him then carried out the raid. [@4,5] Police seized the ganja and the bike and arrested the rider, identified as Subodh Singh of Laudhia village in Kaitha panchayat. [@6] Police stopped and searched a biker near Gadi Rata and found about 400 to 500 grams of ganja on him. [@6] A police team was checking vehicles on the Khesar-Phullidumar main road on the direction of station house officer Supriya Kumari. [@6] This account says the case began on Thursday with a vehicle-check drive in the Khesar police-station area. [@6] The raid took place on Thursday night in Khemichak Dharaan
 village under Salempur panchayat near Amarpur town, across several premises
-holding an illicit drug network. [@2,4,5]
+holding an illicit drug network. [@2,4,5,6] His questioning gave police the lead that took them to Khemichak Dharaan in Amarpur. [@6]
 
 At the home of Khemichak Dharaan resident Mahesh Bhagat, police recovered 1 kg
 100 g of ganja, a mobile phone and 1,20,000 rupees in cash and arrested Mahesh
-Bhagat and Monu Bhagat on the spot. [@2,3,4,5] Acting on their information, police
+Bhagat and Monu Bhagat on the spot. [@2,3,4,5,6] Acting on their information, police
 raided the home of Ajit Bhagat, where 88 kg 500 g of ganja, a mobile phone and
-an electronic weighing scale were recovered. [@2,5] A further search at Ajit
+an electronic weighing scale were recovered. [@2,5,6] A further search at Ajit
 Bhagat's second premises yielded more than 50 kg of ganja and 2,40,000 rupees in
 cash. [@2,5] A further search at Ajit Bhagat's second premises yielded 56 kg 100 g of ganja and 2,40,000 rupees in cash. [@3]
 
 In the case police arrested Mahesh Bhagat, Monu Bhagat and Ajit Bhagat along
-with two women, Buchchi Devi and Archana Devi, five people in total. [@2,4,5] Amar Vishwas said Ajit Bhagat had been arrested in 2014 on charges of selling ganja and spent a long time in jail, and that Mahesh Bhagat had also served time on ganja-selling charges and had been released about a month before the raid. [@4,5] Police
+with two women, Buchchi Devi and Archana Devi, five people in total. [@2,4,5,6] Amar Vishwas said Ajit Bhagat had been arrested in 2014 on charges of selling ganja and spent a long time in jail, and that Mahesh Bhagat had also served time on ganja-selling charges and had been released about a month before the raid. [@4,5] Police
 recovered a total of more than 1 quintal 45 kg of ganja and 3,60,000 rupees in
 cash from the various premises and registered a first information report under
-the NDPS Act. [@2] Police said they were gathering information on other people linked to the trade and on the network of ganja buyers and sellers. [@4]
+the NDPS Act. [@2,6] Police said they were gathering information on other people linked to the trade and on the network of ganja buyers and sellers. [@4]
