@@ -54,25 +54,25 @@ sources:
     publisher: Elonce.com
     date: 2026-11-13
     language: es
-open_questions:
-  - The four identified people were not named, and no charges or court outcome were reported.
-  - Cocaine (1.1 g) is not counted in the cannabis figures; no separate cannabis value was published.
-  - No figure was published on whether the three cannabis plants were destroyed or merely seized.
+  - title: 'Colonia Avellaneda: allanamiento por microtráfico terminó con tres detenidos y el secuestro de marihuana y cocaína'
+    url: https://03442.com.ar/2026/11/colonia-avellaneda-allanamiento-por-microtrafico-termino-con-tres-detenidos-y-el-secuestro-de-marihuana-y-cocaina/
+    publisher: "03442"
+    date: 2026-11-13
+    language: es
 ---
 
 Three people were detained during a search for suspected retail drug dealing at
 a home on Presidente Arturo Illia street in Colonia Avellaneda, Paraná, Entre
-Ríos, on 13 November 2026. [@1] The raid identified four people, two men and two
-women, of whom three were detained: two men and one woman. [@1]
+Ríos, on 13 November 2026. [@1,2] The procedure ran between 17:10 and 22:05 under Provincial Law No. 10.566 on micro-trafficking. [@2] The raid identified four people, two men and two
+women, of whom three were detained: two men and one woman. [@1,2]
 
 Officers seized 119.1 grams of marijuana, divided between a compact block and
-one hand-rolled cigarette. [@1] Officers also seized six nylon bags of cocaine
+one hand-rolled cigarette. [@1,2] Officers also seized six nylon bags of cocaine
 hydrochloride (1.1 g) and three dehojadas (stripped of leaves) cannabis plants
-weighing a total of 261 grams. [@1] Officers also found $100,200 in cash, six
+weighing a total of 261 grams. [@1,2] Officers also found $100,200 in cash, six
 mobile phones, notes and seals at the home, all left with the investigation.
-[@1]
+[@1,2]
 
 The search was run by the Anti-Drugs Division of the General Directorate of
 Dangerous Drugs, with the Special Guard of the Paraná department, under
-provincial Law No. 10.566 on narcomenudeo. [@1]
-
+provincial Law No. 10.566 on narcomenudeo. [@1,2] The proceedings were directed by the Specialized Fiscal Unit under Dr. Sofía Patat, with intervention by Guarantees Court No. 1 under Dr. Marina E. Barbagelata. [@2]
