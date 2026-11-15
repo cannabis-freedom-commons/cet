@@ -43,6 +43,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: cbcda5e55f7643a728a5c315ba25da29
 tags: [patuakhali, dumki, ganja, bangladesh]
+media:
+  - kind: photo
+    url: https://www.dailysokalersomoy.com/news/170141
+    media_url: https://sokalersomoy.online/storage/2026/November/og-9QTjgxzA27PSwbJE3eHj0tcuLgivc2s9yaZwafi3.jpg
+    publisher: Daily Sokaler Somoy
+    caption: >-
+      One of the youths arrested in the Dumki ganja raids stands handcuffed between officers under
+      a Dumki Thana, Patuakhali sign. Photo: Daily Sokaler Somoy
 sources:
   - title: দুমকিতে পুলিশের অভিযানে গাঁজাসহ গ্রেপ্তার ৫
     url: https://www.bd-bulletin.com/country/12538
@@ -55,7 +63,7 @@ sources:
     date: 2026-11-11
     language: bn
 open_questions:
-  - BD Bulletin illustrates the Dumki raids with an exterior photo of Dumki Thana and no ganja or accused, so no event photo is listed.
+  - BD Bulletin illustrates the Dumki raids with an exterior of Dumki Thana; the Sokaler Somoy custody photo of one accused is used instead.
   - Whether the 12:30 night operation on the Satani-Atharogachia road occurred just after midnight on 11 November or on the night of 11 November was not stated precisely; 11 November is used as the incident date for the series.
   - No laboratory confirmation or street-value estimate for the 105 grams was reported.
   - No plea, bail or further court outcome was reported after the five accused were sent to court.

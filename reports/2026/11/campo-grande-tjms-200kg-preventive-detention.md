@@ -56,6 +56,7 @@ open_questions:
   - The third individual who loaded the cannabis into the vehicle in Campo Grande was not identified.
   - While the state prosecutor stated the defendants resided in another state, the news report referred to their residence in the court district.
   - JD1 Notícias labels its lead image illustrative handcuffs (Foto Ilustrativa | Algemas), so no photo of the 200 kg cannabis load is listed.
+  - The MPMS notice uses a night facade of the ministry building with an edited sky, not the 200 kg seizure or the defendants, so it is not listed as media.
 ---
 
 The 3rd Criminal Chamber of the Court of Justice of Mato Grosso do Sul

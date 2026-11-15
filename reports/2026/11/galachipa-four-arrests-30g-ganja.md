@@ -39,6 +39,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 42b401400520d2205e06cc972d1eb2ab
 tags: [galachipa, patuakhali, ganja, yaba]
+media:
+  - kind: photo
+    url: https://www.dainiksokal.com/country-news/143917/
+    media_url: https://www.dainiksokal.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-09T185216.973.jpg
+    publisher: দৈনিক সকাল
+    caption: >-
+      Composite of the four people arrested in the Galachipa raids, including a handcuffed couple
+      and two men presented with officers at Galachipa Thana. Photo: দৈনিক সকাল
 sources:
   - title: পৃথক অভিযানে ইয়াবা ও গাঁজাসহ স্বামী-স্ত্রীসহ গ্রেপ্তার-৪
     url: https://www.dainiksokal.com/country-news/143917/

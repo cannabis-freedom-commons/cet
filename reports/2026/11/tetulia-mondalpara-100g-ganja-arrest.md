@@ -39,6 +39,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 26994bb7a0421a86122a7a44c2a49ca6
 tags: [panchagarh, ganja, bangladesh, tetulia, yaba]
+media:
+  - kind: photo
+    url: https://dhakamail.com/country/341836
+    media_url: https://cdx.dhakamail.com/media/images/2026November/pancha_20261109_111151671.jpg
+    publisher: dhakamail.com
+    caption: >-
+      The man arrested in the Mondalpara abandoned-house raid stands between officers at Tetulia
+      Model Thana. Photo: dhakamail.com
 sources:
   - title: পঞ্চগড়ে পরিত্যক্ত বাড়ি থেকে ইয়াবা ও গাঁজাসহ যুবক গ্রেফতার
     url: https://dhakamail.com/country/341836

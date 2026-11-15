@@ -15,6 +15,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0bdafd9254a8769377071925f64f8c90
 tags: [la-cruz, quillota, carabineros, os-9, omision-de-denuncia]
+media:
+  - kind: photo
+    url: https://letrac.cl/2026/08/buscaban-agua-y-encontraron-un-cultivo-de-cannabis-que-nadie-habria-denunciado/
+    media_url: https://letrac.cl/wp-content/uploads/2026/08/WhatsApp-Image-2026-07-30-at-3.26.12-PM.jpeg
+    publisher: Letra C
+    caption: >-
+      Overhead view of the cannabis plants and scrap in the La Cruz clearing that municipal staff
+      found and that later underpinned the omission inquiry. Photo: Letra C
 sources:
   - title: 'La Cruz: alcaldesa no denunció cultivo de marihuana para no ser acusada “de sapa”'
     url: https://www.elmostrador.cl/unidad-de-investigacion/2026/11/11/la-cruz-alcaldesa-no-denuncio-cultivo-de-marihuana-para-no-ser-acusada-de-sapa/

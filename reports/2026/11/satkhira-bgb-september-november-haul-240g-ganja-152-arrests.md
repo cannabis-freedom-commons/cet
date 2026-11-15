@@ -58,6 +58,7 @@ open_questions:
     - No breakdown of the 152 arrests by offence, date or location is given, so how many relate to cannabis is unknown.
     - The briefing gives no individual incident dates or seizure sites, and does not say whether any of those arrested were charged or prosecuted.
     - The source does not say whether the 240 grams of ganja was seized in one case or accumulated over the reporting period.
+    - The Dhaka Diary lead image is a BGB press-briefing still of officers at a podium with no ganja visible, so no event photo is listed.
 ---
 
 Bangladesh's Border Guard Bangladesh (BGB) said it seized drugs and smuggled
