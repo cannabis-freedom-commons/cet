@@ -54,23 +54,23 @@ sources:
     publisher: Son Dakika
     date: 2026-11-14
     language: tr
-open_questions:
-  - No separate date is given for the stop; 14 November 2026 is the publication date of both accounts and is used as the incident date.
-  - The 10.5 kilograms is reported as a total for 82 hidden pieces, with no laboratory confirmation reported.
-  - No remand, charge detail or court outcome beyond detention and started judicial proceedings was reported.
+  - title: Van'da araçta 10 kilo 500 gram skunk ele geçirildi! 1 gözaltı - Van Haberleri
+    url: https://www.sabah.com.tr/van/2026/11/14/vanda-aracta-10-kilo-500-gram-skunk-ele-gecirildi-1-gozalti
+    publisher: Sabah
+    date: 2026-11-14
+    language: tr
 ---
 
 Van Provincial Gendarmerie narcotics teams and Gevaş District Gendarmerie teams,
 coordinated by the Gevaş Chief Public Prosecutor's Office, targeted suspects
-manufacturing and trading drugs. [@1] Teams stopped the vehicle with plate 34
+manufacturing and trading drugs. [@1,3] Teams stopped the vehicle with plate 34
 BPT driven by 39-year-old T.Ş. in Gevaş district. [@1]
 
 A search with a narcotics dog found 10.5 kilograms of skunk, in 82 pieces hidden
 inside the vehicle. [@1] The seized material was reported as 10 kilograms 500
-grams of skunk in 82 pieces. [@2]
+grams of skunk in 82 pieces. [@2,3]
 
-The driver T.Ş. was taken into custody. [@1] Judicial proceedings were started
-against the detained driver T.Ş. [@2] The gendarmerie said its work to prevent
+The driver T.Ş. was taken into custody. [@1,3] Judicial proceedings were started
+against the detained driver T.Ş. [@2,3] The gendarmerie said its work to prevent
 the manufacture, trade and use of narcotic and stimulant substances would
-continue decisively. [@1]
-
+continue decisively. [@1,3]
