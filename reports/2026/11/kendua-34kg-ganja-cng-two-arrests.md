@@ -50,6 +50,11 @@ media:
     media_url: https://cdn.samajkal.com/articles/uw2IekRpG0xwSz614BD2Px6nZHRXcwqE9Ng1c2JS.jpg
     publisher: Samajkal
     caption: 'The 34 kg of cannabis recovered from the auto-rickshaw in Kendua. Photo: Samajkal'
+  - kind: photo
+    url: https://www.bd24live.com/bangla/812852
+    media_url: https://www.bd24live.com/bangla/public/images/image_305203_1794485420_original_1794486746.jpg
+    publisher: BD24Live
+    caption: 'Photograph published with the BD24Live report on the Kendua cannabis seizure, taken by the outlet''s Netrokona correspondent. Photo: Correspondent, BD24Live'
 status: verified
 created_by_model: xai/grok-4.7#medium
 submission: f69ace2ae6e4d3cb9e9c0e6ba7123177
@@ -90,36 +95,38 @@ sources:
     publisher: Ajker Patrika
     date: 2026-11-12
     language: bn
-open_questions:
-  - Accounts differ on whether a regular case had already been filed at Kendua police station or was still being prepared under the Narcotics Control Act.
-  - No case number, charge section or court date was published, and it is not known whether the two men were produced in court.
+  - title: কেন্দুয়ায় ৩৪ কেজি গাঁজাসহ দুই মাদক কারবারি আটক
+    url: https://www.bd24live.com/bangla/812852
+    publisher: BD24Live
+    date: 2026-11-12
+    language: bn
 ---
 
 The Department of Narcotics Control, Bangladesh's drug agency, arrested two men
 on the morning of Thursday 12 November 2026 at a temporary checkpoint on the
-Kendua-Atharbari road. [@1,6,7] The stop was in Haringar Fenargati, in Sandikona
-union of Kendua upazila, Netrokona district. [@1,4,5,6] The men were Monir Uddin, 35,
+Kendua-Atharbari road. [@1,6,7,8] The stop was in Haringar Fenargati, in Sandikona
+union of Kendua upazila, Netrokona district. [@1,4,5,6,8] The checkpoint was on the road running from Atharbari towards Kendua, in front of a shop called Mesars Abdus Sattar Enterprise. [@8] The men were Monir Uddin, 35,
 son of the late Suruj Ali, from Bhalukber in Ishwarganj upazila, Mymensingh, and
 Shah Alam, 32, son of Md. Akher Uddin, from Mirarchar in Bhairab upazila,
-Kishoreganj. [@1,5] Assistant Director Md. Nazmul Haque of the Netrokona district
+Kishoreganj. [@1,5,8] Assistant Director Md. Nazmul Haque of the Netrokona district
 office said the team had set up the checkpoint on a tip-off and searched passing
-vehicles. [@1,4,5]
+vehicles. [@1,4,5,8]
 
 Officers said they found 34 kg of cannabis, ganja, in a CNG-powered
 auto-rickshaw, a three-wheeled taxi that runs on compressed natural gas, and
-seized the vehicle and two mobile phones. [@1,5,6,7] The district office said the
-cannabis was packed in 17 bundles. [@2,4,5,6] A department press release said the
+seized the vehicle and two mobile phones. [@1,5,6,7,8] The district office said the
+cannabis was packed in 17 bundles. [@2,4,5,6,8] A department press release said the
 bundles were wrapped in sky-blue polythene and khaki tape and were taken from a
-green auto-rickshaw. [@3] The press release said the search ran from 7:15 am to
+green auto-rickshaw. [@3,8] The department said the green auto-rickshaw it seized carried no registration number. [@8] The press release said the search ran from 7:15 am to
 8:30 am. [@3] Nazmul Haque put the estimated market value of the cannabis at
-1,020,000 taka. [@1,4,5] The department valued the auto-rickshaw at 500,000 taka and
+1,020,000 taka. [@1,4,5,8] The department valued the auto-rickshaw at 500,000 taka and
 the two phones at 24,000 taka, and put the total for everything seized at
-1,544,000 taka. [@3,6]
+1,544,000 taka. [@3,6,8] The two mobile phones seized were iTel and Symphony brand handsets. [@8]
 
 Nazmul Haque said a regular case had been filed against both men at Kendua
 police station. [@1] Dhaka Mail reported that Inspector Khandaker Nazim Uddin
-filed a regular case at Kendua police station as the complainant. [@2,4,5,7] Nazmul
+filed a regular case at Kendua police station as the complainant. [@2,4,5,7,8] Nazmul
 Haque said the two would be sent to court after the case. [@2,4,5,7] An afternoon
 statement from the department said a case under the Narcotics Control Act was
 still being prepared. [@3] The department said it had preliminary information
-that the two were involved in trafficking drugs between districts. [@3,5]
+that the two were involved in trafficking drugs between districts. [@3,5] The Netrokona district office said its operations against drugs were continuing and asked residents to pass on information about drug traders. [@8]
