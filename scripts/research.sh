@@ -425,6 +425,77 @@ def parse_run_manifest(manifest, out):
     return owned, external
 
 
+def likely_duplicates(paths, out, run_dir):
+    """Strict duplicate pairs between these new reports and every other report (likelyDuplicate in
+    scripts/lib/duplicate-reports.mjs). The scan is advisory: on any failure it returns none."""
+    log_path = run_dir / "duplicate-check.json"
+    try:
+        result = subprocess.run(["node", "scripts/check-duplicate-reports.mjs", "--json", "--strict",
+                                 *[f"--focus={p}" for p in paths]],
+                                cwd=repo, capture_output=True, text=True, timeout=300)
+        log_path.write_text(result.stdout or result.stderr, encoding="utf-8")
+        if result.returncode:
+            say(f"ℹ Duplicate check could not run (exit {result.returncode}); see {log_path}", out)
+            return []
+        return json.loads(result.stdout).get("candidates", [])
+    except (OSError, ValueError, subprocess.TimeoutExpired) as exc:
+        say(f"ℹ Duplicate check could not run: {exc}", out)
+        return []
+
+
+def resolve_duplicates(owned, tracked_before, manifest, out, run_dir):
+    """New reports that strictly match an existing one get one Muse pass that merges them into the
+    existing report and deletes them, or leaves both when the events differ. History runs with
+    overlapping year ranges recorded the same event twice (seven of eight duplicates found in
+    November 2026), and the validation tests only check each file on its own. Returns the owned
+    paths after the pass."""
+    new = [p for p in owned if p.endswith(".md") and p not in tracked_before and (repo / p).exists()]
+    if not new:
+        return owned
+    pairs = likely_duplicates(new, out, run_dir)
+    if not pairs:
+        say(f"✓ No likely duplicate among {len(new)} new report(s)", out)
+        return owned
+    lines = []
+    for pair in pairs:
+        fresh, other = (pair["a"], pair["b"]) if pair["a"] in new else (pair["b"], pair["a"])
+        lines.append(f"- NEW {fresh} and EXISTING {other} ({pair['reason']}; "
+                     f"titles: {pair['titles'][0]!r} / {pair['titles'][1]!r})")
+    say("→ Likely duplicates of existing reports; Muse checks them:\n" + "\n".join(lines), out)
+    review = f"""Check these possible duplicates. DO NOT research new events.
+{chr(10).join(lines)}
+
+For each pair read BOTH report files in full and the sources they cite. They are the same
+event only when the people, place, date and quantities agree (accounts may round a figure).
+- Same event: keep the EXISTING report. Add to it only what the NEW report has that it lacks
+  and its sources support: their sources (renumber the citations) and facts. Keep the
+  existing report's slug, code, added_at and created_by_model. Never add two accounts'
+  quantities together; record a differing figure as an open question. Then DELETE the NEW
+  report file and any image only it used.
+- Different events (other people, place, day or quantity): change nothing.
+Edit no other file and do not commit. Finally rewrite the manifest file
+  {manifest.relative_to(repo)}
+as {{"files": [...]}} listing every report file and image this research run still created
+or modified, including an EXISTING report you merged into. In your final answer give, per
+pair, "merged into <slug>" or "kept: <how the events differ>".
+"""
+    code = run_command(["muse", "exec", "--json", "--disable-approval",
+                        "--model", muse_model, "--reasoning-effort", muse_effort,
+                        "--max-model-steps", str(min(int(max_steps), 40)), review],
+                       out, run_dir / "duplicate-review.jsonl", muse_json=True)
+    if code:
+        say(f"ℹ Duplicate review exited {code}; committing the new reports as they are", out)
+        return owned
+    try:
+        owned, _ = parse_run_manifest(manifest, out)
+    except RuntimeError as exc:
+        say(f"ℹ {exc}; keeping this run's reports as they were declared", out)
+        return owned
+    for path in new:
+        say(f"  {path}: " + ("kept" if (repo / path).exists() else "merged into the existing report"), out)
+    return owned
+
+
 def fix_unquoted_question_colons(paths, out):
     """Safely correct the classic '- description: details' YAML-mapping error.
 
@@ -685,6 +756,11 @@ This file is ignored by Git. Do not commit it yourself.
             say("Muse-owned files to validate and commit:\n" + "\n".join("  " + p for p in owned), out)
             # Fix new-report provenance, then repair the common unquoted-colon issue.
             set_new_report_provenance(owned, tracked_before, out)
+            fix_unquoted_question_colons(owned, out)
+            owned = resolve_duplicates(owned, tracked_before, manifest, out, run_dir)
+            if not owned:
+                say("All of this run's reports were merged into existing ones; nothing to commit.", out)
+                continue
             fix_unquoted_question_colons(owned, out)
             if validate_cmd:
                 foreign = sorted(set(changed_report_paths()) - set(owned))

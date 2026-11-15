@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { sourceKey, findDuplicateReportCandidates } from './lib/duplicate-reports.mjs';
+import { sourceKey, findDuplicateReportCandidates, likelyDuplicate } from './lib/duplicate-reports.mjs';
 const report = (file, values = {}) => ({ file, country: 'gb', date: '2026-11-01', title: 'Cannabis seizure', sources: [], ...values });
 test('source variants nominate the same article without dropping meaningful query parameters', () => {
   assert.equal(sourceKey('http://www.example.org/news/case/amp/?utm_source=rss#top'), sourceKey('https://example.org/news/case/'));
@@ -32,4 +32,21 @@ test('empty or generic titles and common small arrest counts are not sufficient 
   const a = report('a', { title: 'Cannabis seized', figures: { arrested: 1 } });
   const b = report('b', { title: 'Cannabis seized', figures: { arrested: 1 } });
   assert.deepEqual(findDuplicateReportCandidates([a, b]), []);
+});
+
+test('a strict duplicate stops a new report only on strong evidence', () => {
+  const pair = (extra = {}) => ({ days: 0, titleSimilarity: 0.3, sharedSources: [], ...extra });
+  const report = (country, figures) => ({ country, figures });
+  // the same large seizure, rounded differently by two accounts
+  assert.match(likelyDuplicate(pair(), report('fr', { kg_seized: 5790, arrested: 3 }), report('fr', { kg_seized: 5750, arrested: 3 })), /kg_seized/);
+  // a shared roundup source but different quantities: two seizures
+  assert.equal(likelyDuplicate(pair({ sharedSources: ['x'] }), report('kg', { kg_seized: 3400 }), report('kg', { kg_seized: 2500 })), '');
+  // a nearly identical headline with another quantity is another arrest
+  assert.equal(likelyDuplicate(pair({ titleSimilarity: 0.8 }), report('in', { kg_seized: 0.9 }), report('in', { kg_seized: 0.6 })), '');
+  // small round figures recur across unrelated cases
+  assert.equal(likelyDuplicate(pair({ sharedNames: ['Manikganj Sadar'] }), report('bd', { kg_seized: 0.01 }), report('bd', { kg_seized: 0.01 })), '');
+  // two defendants named in both and the same quantity: one court case
+  assert.match(likelyDuplicate(pair({ sharedNames: ['Afendi Adam', 'Ridwan Ibrahim'] }), report('my', { kg_seized: 0.971 }), report('my', { kg_seized: 0.971 })), /names/);
+  // other countries or a week apart never match
+  assert.equal(likelyDuplicate(pair({ days: 7, titleSimilarity: 1 }), report('it', {}), report('it', {})), '');
 });

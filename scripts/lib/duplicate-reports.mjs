@@ -58,3 +58,37 @@ export function findDuplicateReportCandidates(reports) {
   }
   return candidates.sort((a, b) => b.score - a.score || a.a.localeCompare(b.a) || a.b.localeCompare(b.b));
 }
+
+// A candidate pair strict enough to stop a new report until it is checked: the same country, at
+// most three days apart, no conflicting quantity (both give kilograms, plants, hectares or a value
+// and they differ by more than a fifth: two seizures), and a nearly identical title, a shared
+// source with the same figure or a similar title, the same large quantity (50 kg, 1,000 plants;
+// accounts round, so within 2%), two equal figures, or shared rare names with an equal figure
+// (two names: any equal figure).
+// Only meaningful figures count (1 kg, 100 plants, five people): 10 g, one vehicle or one convict
+// recur across unrelated cases (review of November 2026). Returns the reason, or "".
+const LARGE = { kg_seized: 50, kg_destroyed: 50, plants_destroyed: 1000, plants_seized: 1000, hectares: 5 };
+const MEANINGFUL = { kg_seized: 1, kg_destroyed: 1, plants_destroyed: 100, plants_seized: 100, hectares: 1, arrested: 5, convicted: 5, sentenced: 5, deaths: 1 };
+const QUANTITIES = ['kg_seized', 'kg_destroyed', 'plants_destroyed', 'plants_seized', 'hectares'];
+const near = (x, y) => x === y || (Math.max(x, y) >= 50 && Math.abs(x - y) / Math.max(x, y) <= 0.02);
+const amount = (f, k) => (k === 'value' ? f.value?.amount : f[k]);
+export function likelyDuplicate(pair, a, b) {
+  if (!compatibleCountry(a.country ?? '', b.country ?? '') || pair.days > 3) return '';
+  const fa = a.figures ?? {}, fb = b.figures ?? {};
+  for (const k of [...QUANTITIES, 'value']) {
+    const x = amount(fa, k), y = amount(fb, k);
+    if (typeof x === 'number' && typeof y === 'number' && x > 0 && y > 0 && Math.abs(x - y) / Math.max(x, y) > 0.2) return '';
+  }
+  const same = Object.keys(MEANINGFUL).filter(k => typeof fa[k] === 'number' && typeof fb[k] === 'number' && fa[k] >= MEANINGFUL[k] && near(fa[k], fb[k]));
+  const large = same.filter(k => fa[k] >= (LARGE[k] ?? Infinity));
+  if (pair.titleSimilarity >= 0.75) return 'nearly the same title';
+  if (pair.sharedSources?.length && (same.length || pair.titleSimilarity >= 0.6)) return 'a shared source and the same figures or title';
+  if (large.length) return `the same ${large.join(', ')}`;
+  if (same.length >= 2) return `the same ${same.join(', ')}`;
+  if (pair.sharedNames?.length && same.length) return `the same names (${pair.sharedNames.slice(0, 3).join(', ')}) and ${same.join(', ')}`;
+  // two people or places named in both and any equal figure, however small: one court case
+  const anyEqual = Object.keys(fa).filter(k => typeof fa[k] === 'number' && fa[k] > 0 && fa[k] === fb[k]);
+  if ((pair.sharedNames?.length ?? 0) >= 2 && anyEqual.length) return `the same names (${pair.sharedNames.slice(0, 3).join(', ')}) and ${anyEqual.join(', ')}`;
+  if (same.includes('arrested') && pair.titleSimilarity >= 0.4 && pair.days <= 1) return 'the same arrest count and a similar title';
+  return '';
+}

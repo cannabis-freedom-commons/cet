@@ -2,19 +2,27 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { load, JSON_SCHEMA } from 'js-yaml';
-import { findDuplicateReportCandidates } from './lib/duplicate-reports.mjs';
+import { findDuplicateReportCandidates, likelyDuplicate } from './lib/duplicate-reports.mjs';
 const args = process.argv.slice(2);
 const json = args.includes('--json');
 const country = args.find(a => a.startsWith('--country='))?.slice(10);
 const files = args.filter(a => !a.startsWith('--'));
-for (const arg of args) if (arg.startsWith('--') && arg !== '--json' && !arg.startsWith('--country=')) throw new Error(`Unknown option: ${arg}`);
+// --focus=<report path>: only pairs with these reports (screened against all the others);
+// --strict: only pairs likely enough to stop a new report (likelyDuplicate)
+const focus = new Set(args.filter(a => a.startsWith('--focus=')).map(a => path.normalize(a.slice(8))));
+const strict = args.includes('--strict');
+for (const arg of args) if (arg.startsWith('--') && arg !== '--json' && arg !== '--strict' && !arg.startsWith('--country=') && !arg.startsWith('--focus=')) throw new Error(`Unknown option: ${arg}`);
 const paths = files.length ? files : fs.readdirSync('reports', { recursive: true }).filter(f => f.endsWith('.md')).map(f => path.join('reports', f));
 const reports = paths.map(file => {
   const front = fs.readFileSync(file, 'utf8').match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
   if (!front) throw new Error(`${file}: missing front matter`);
   return { ...load(front[1], { schema: JSON_SCHEMA }), file, body: front[2] };
 }).filter(r => !country || r.country === country || r.country.startsWith(country + '/'));
-const candidates = findDuplicateReportCandidates(reports);
+const byFile = new Map(reports.map(r => [path.normalize(r.file), r]));
+const candidates = findDuplicateReportCandidates(reports)
+  .filter(p => !focus.size || focus.has(path.normalize(p.a)) || focus.has(path.normalize(p.b)))
+  .map(p => strict ? { ...p, reason: likelyDuplicate(p, byFile.get(path.normalize(p.a)), byFile.get(path.normalize(p.b))) } : p)
+  .filter(p => !strict || p.reason);
 const result = { reportsScanned: reports.length, candidatePairs: candidates.length, notes: ['Review aid only; a shared source, person, number or score does not establish the same event.', 'Includes all years and report types by default; court stages may be years apart.', 'Distinct raids in roundups and campaign totals can legitimately share sources or quantities.', 'An empty candidate list is not proof that every event is unique.'], candidates };
 if (json) console.log(JSON.stringify(result, null, 2));
 else {
