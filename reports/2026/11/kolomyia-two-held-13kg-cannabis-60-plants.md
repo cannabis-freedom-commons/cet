@@ -222,6 +222,11 @@ sources:
     publisher: rai.ua
     date: 2026-11-13
     language: uk
+  - title: На Коломийщині виявили плантацію конопель серед чагарників на 8 млн гривень
+    url: https://gk-press.if.ua/na-kolomijshini-viyavili-plantaciyu-konopel-sered-chagarnikiv-na-8-mln-griven
+    publisher: Галицький Кореспондент
+    date: 2026-11-13
+    language: uk
 ---
 
 Police in Ivano-Frankivsk region exposed a 48-year-old Kolomyia resident and his
@@ -238,17 +243,17 @@ Kolomyia and to Sheparivtsi, where they dried it and stored it for sale. [@1,4,9
 Kolomyia police seized 7 buckets of plant material, and in Sheparivtsi, at the
 younger man's home, plastic wraps, packets and a container of crushed plant
 mass. [@1,9,11,13,14,21,22] Those searches recovered more than 13.5 kg of dried cannabis and 60
-cannabis plants. [@3,5,8,16,17,20,23,25] Police also seized the car used to transport the cannabis. [@9,11] Officers seized two cars, including a Mercedes-Benz allegedly used to transport the drugs. [@18] The searches also recovered seeds, cash and mobile phones. [@10] The searches also recovered two cars in addition to the seeds, cash and mobile phones already recorded. [@15,17] Officers carried out 13 authorised searches at the suspects' and their relatives' homes in Kolomyia and Kolomyia district. [@5,10,15,17,20,23] The searches also covered a garage, a dacha building and the suspects' car, where police found equipment for growing cannabis. [@9] Police put the black-market value at no less than 8
+cannabis plants. [@3,5,8,16,17,20,23,25,26] Police also seized the car used to transport the cannabis. [@9,11] Officers seized two cars, including a Mercedes-Benz allegedly used to transport the drugs. [@18] The searches also recovered seeds, cash and mobile phones. [@10] The searches also recovered two cars in addition to the seeds, cash and mobile phones already recorded. [@15,17] Officers carried out 13 authorised searches at the suspects' and their relatives' homes in Kolomyia and Kolomyia district. [@5,10,15,17,20,23] The searches also covered a garage, a dacha building and the suspects' car, where police found equipment for growing cannabis. [@9] Police put the black-market value at no less than 8
 million hryvnias and said the amount is an especially large amount. [@1,4,8,9,12,13,16,17,19,21]
 
 Police said the men planned to sell the bulk wholesale to other regions of
 Ukraine. [@1,9,11,13,14,19,24] They also sold hand-to-hand in Kolomyia district. [@1,13] Both men
-were detained on 9 November 2026. [@3,5,18,20,23,25] The operation involved the KORD and RPO special units of the regional police. [@18]
+were detained on 9 November 2026. [@3,5,18,20,23,25,26] The operation involved the KORD and RPO special units of the regional police. [@18]
 
 On 10 November prosecutors notified both men of suspicion of group manufacture,
-storage and transportation for sale under Part 3 of Article 307. [@3,5,20,23] The
+storage and transportation for sale under Part 3 of Article 307. [@3,5,20,23,26] The
 48-year-old organizer was additionally notified of illegal sowing and
 cultivation under Part 2 of Article 310. [@1,12] The Omega account specifies the 48-year-old was additionally charged with illegal sowing and cultivation of more than 50 cannabis plants under Part 2 of Article 310. [@15] A court ordered both held in
-custody without bail. [@2,4,5,6,8,9,11,13,14,18,19,20,21,22,23,25] The men face up to twelve years in prison with confiscation of property. [@5,10] The pre-trial investigation continues, with procedural guidance provided by the Ivano-Frankivsk Regional Prosecutor's Office. [@11,13]
+custody without bail. [@2,4,5,6,8,9,11,13,14,18,19,20,21,22,23,25,26] The men face up to twelve years in prison with confiscation of property. [@5,10] The pre-trial investigation continues, with procedural guidance provided by the Ivano-Frankivsk Regional Prosecutor's Office. [@11,13]
 
 The plot was near a remote village of the Horodenka community and was ringed by bushes that preserved the crop's concealment. [@15,17] Over May-September 2026 the suspect regularly visited the plot by motorcycle and car, travelling 30 km one way, to tend the plants to flowering and ripening. [@15]
