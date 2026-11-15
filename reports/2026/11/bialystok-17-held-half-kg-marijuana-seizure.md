@@ -50,6 +50,11 @@ sources:
     publisher: echobialystok.pl
     date: 2026-11-14
     language: pl
+  - title: Produkowali narkotyki w przyczepie. 17 osób zatrzymanych
+    url: https://podlaskie24.pl/2026/11/14/produkowali-narkotyki-w-przyczepie-17-osob-zatrzymanych/
+    publisher: Podlaskie24
+    date: 2026-11-14
+    language: pl
 open_questions:
   - No amount was published for the marijuana found in the Piasta garage, so 0.5 kilograms is the only quantified cannabis weight.
   - The reported total of more than 50 kilograms covers amphetamine, CMC/3-CMC, cocaine and marijuana together and is not a cannabis figure.
@@ -77,24 +82,23 @@ media:
 Officers of the Bialystok provincial police spent several years gathering
 evidence against suspected drug offenders in an investigation supervised by the
 Bialystok District Prosecutor's Office, with the first detentions at the
-beginning of 2025. [@1] Police detained 17 people in the case, all of whom were
-charged, and a court placed 11 of them in temporary arrest. [@1]
+beginning of 2025. [@1,3] Police detained 17 people in the case, all of whom were
+charged, and a court placed 11 of them in temporary arrest. [@1,3]
 
 In mid-March 2025 officers entered a garage in the Piasta estate in Bialystok
 and found more than 25 kilograms of amphetamine, almost 5 kilograms of 3-CMC, as
 well as cocaine and marijuana, with no amount given for the marijuana there.
-[@1] They also seized an illegally held revolver and dozens of rounds of
-ammunition from the garage. [@1] After the stash was found, police detained a
+[@1,3] They also seized an illegally held revolver and dozens of rounds of
+ammunition from the garage. [@1,3] After the stash was found, police detained a
 then 28-year-old resident of the estate on charges of participating in
 trafficking significant quantities of drugs and illegally possessing weapons and
-ammunition, and he was placed in temporary arrest. [@1]
+ammunition, and he was placed in temporary arrest. [@1,3]
 
 In the latest actions in Warmian-Masurian Voivodeship, detectives detained three
 men aged 21 to 30 and seized more than 12 kilograms of amphetamine, more than 7
-kilograms of CMC and half a kilogram of marijuana. [@1] Those men were charged
+kilograms of CMC and half a kilogram of marijuana. [@1,3] Those men were charged
 with producing significant quantities of psychotropic substances, participating
 in trafficking them and aiding those crimes, and investigators say one of them
-made available a caravan on his property for the criminal activity. [@1] Police
+made available a caravan on his property for the criminal activity. [@1,3] Police
 say they seized a total of more than 50 kilograms of psychotropic substances and
-narcotics, a combined weight for all drugs rather than a cannabis weight. [@2]
-
+narcotics, a combined weight for all drugs rather than a cannabis weight. [@2,3]
