@@ -35,6 +35,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: efaa622ed3bebc23174ab1c8d371cff1
 tags: [joypurhat, ganja, srb-5, bangladesh, raid]
+media:
+  - kind: photo
+    url: https://www.eimattro.com/news/details/1794124881314/
+    media_url: https://api.eimattro.com/uploads/3fa764e0-0132-48f5-b825-f9391fb2fe14.jpg
+    publisher: এইমাত্র (Eimattro)
+    caption: >-
+      Ganja bags, yaba packets and Phensedyl bottles from the Sardarpara raid laid out under an
+      SRB-5 Joypurhat seized-evidence banner. Photo: Eimattro / SRB-5
 sources:
   - title: জয়পুরহাটে বিপুল পরিমাণ মাদকসহ চিহ্নিত মাদক কারবারি গ্রেপ্তার
     url: https://www.eimattro.com/news/details/1794124881314/

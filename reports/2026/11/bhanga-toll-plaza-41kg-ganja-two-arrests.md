@@ -15,6 +15,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c7af4e1d23c4c144d4e4ba3fb309dec7
 tags: [faridpur, bhanga, ganja, srb, highway-checkpoint]
+media:
+  - kind: photo
+    url: https://dhakamail.com/country/341599
+    media_url: https://cdx.dhakamail.com/media/images/2026November/00_20261107_224038327.jpg
+    publisher: Dhaka Mail
+    caption: >-
+      Taped ganja bundles from the Bhanga toll-plaza stop displayed before an SRB-10 Faridpur seized
+      evidence banner. Photo: Dhaka Mail / SRB-10
 sources:
   - title: ফরিদপুরে অভিযানে ১৪ লাখ টাকার মাদকসহ গ্রেপ্তার ২
     url: https://thedailycampus.com/crime-and-discipline/280925
@@ -37,7 +45,7 @@ open_questions:
   - The press release says two men were arrested, but the arrest count could not be retained in the structured figures because the quotation check would not confirm the passage, so the number of arrests is described in the text only.
   - No charge sheet, case number or court outcome was reported; the pair were handed to the local police station for a case.
   - The 71 bottles of Winsex syrup are not cannabis, so their count and 213,000 taka value are left out of the figures.
-  - The page's lead photo is captioned only with the headline and is not established to show this seizure.
+  - An earlier Daily Campus lead was caption-only; the Dhaka Mail SRB-10 Faridpur ganja display is used instead.
   - Both articles reproduce the same SRB-10 press release, so the account rests on one official source.
   - 'Left out, as its quotation was not found in The Daily Campus: The searches took place at midday on 6 November, on the Dhaka-Barishal and Khulna-Dhaka highways on the two sides of the toll plaza.'
   - 'Left out, as its quotation was not found in The Daily Campus: At 12:25 pm a team of Special Response Battalion-10, a Bangladesh police unit known by its Bengali initials SRB, set up a temporary checkpost beside the toll plaza, searched a covered van and found 41 kg of ganja, the dried cannabis widely sold in Bangladesh.'

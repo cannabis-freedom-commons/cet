@@ -45,6 +45,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ac0dade46615650113e0bd72c7441bf3
 tags: [bogura, mobile-court, dnc, ganja]
+media:
+  - kind: photo
+    url: https://northcapitalnews.com/%E0%A6%AC%E0%A6%97%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A7%A8%E0%A7%AB-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8
+    media_url: https://northcapitalnews.com/wp-content/uploads/2026/11/IMG-20261114-WA0063.jpg
+    publisher: North Capital News
+    caption: >-
+      The three people jailed by the Bogura mobile court stand beside a Department of Narcotics
+      Control pickup. Photo: North Capital News / DNC
 sources:
   - title: বগুড়ায় ২৫ গ্রাম গাঁজাসহ ৩ জন গ্রেপ্তার, ভ্রাম্যমাণ আদালতে কারাদণ্ড
     url: https://northcapitalnews.com/%E0%A6%AC%E0%A6%97%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A7%A8%E0%A7%AB-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8

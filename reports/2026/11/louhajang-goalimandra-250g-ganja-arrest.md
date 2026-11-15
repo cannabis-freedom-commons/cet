@@ -35,6 +35,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4562dd828cfc547aa812d7f365b14338
 tags: [louhajang, munshiganj, ganja, yaba, db-police]
+media:
+  - kind: photo
+    url: https://amarbikrampur.com/%E0%A6%B2%E0%A7%8C%E0%A6%B9%E0%A6%9C%E0%A6%82%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D/
+    media_url: https://amarbikrampur.com/wp-content/uploads/2026/11/Picsart_26-11-14_19-11-06-991.jpg
+    publisher: আমার বিক্রমপুর
+    caption: >-
+      Md Roni stands handcuffed between detective officers behind a bag of ganja and a placard
+      marked 100 for the yaba count. Photo: আমার বিক্রমপুর
 sources:
   - title: লৌহজংয়ের গোয়ালীমান্দ্রায় ইয়াবা-গাঁজাসহ মাদক কারবারি গ্রেপ্তার
     url: https://amarbikrampur.com/%E0%A6%B2%E0%A7%8C%E0%A6%B9%E0%A6%9C%E0%A6%82%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D/

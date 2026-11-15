@@ -40,6 +40,7 @@ sources:
     date: 2026-11-14
     language: bn
 open_questions:
+  - Janobani illustrates the Fulbari BGB case with a yaba-tablet display and no ganja visible, so no event photo is listed.
   - The combined seizure value of Tk 108,130 covers all three raids and cannot be assigned to the cannabis alone, so no cannabis value is recorded.
   - No arrest, charge, suspect identity or court outcome was reported for the Kadamtali cannabis raid; the single detention belonged to the separate yaba raid.
   - The report rests on a single opened outlet account of the 15 BGB press release; no separate BGB statement was opened.

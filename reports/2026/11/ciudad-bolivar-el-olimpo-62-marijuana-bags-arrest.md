@@ -35,6 +35,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6dca86c489d82fe85b4e664d6af8f77f
 tags: [ciudad-bolivar, antioquia, microtrafico, policia-nacional]
+media:
+  - kind: photo
+    url: https://analisisurbano.org/noticia/policia-captura-a-hombre-con-marihuana-cocaina-y-bazuco-en-ciudad-bolivar-antioquia
+    media_url: https://analisisurbano.org/api/public/s3/wp-content/uploads/2026/11/au-ac0ad5d1-72dd-4244-9cb0-fbf16393d8ed.jpg
+    publisher: Análisis Urbano
+    caption: >-
+      The man detained in El Olimpo stands between officers behind labeled bags of marijuana,
+      cocaine and bazuco at an Antioquia police backdrop. Photo: Análisis Urbano / Policía Nacional
 sources:
   - title: Policía captura a hombre con marihuana, cocaína y bazuco en Ciudad Bolívar, Antioquia — Análisis Urbano
     url: https://analisisurbano.org/noticia/policia-captura-a-hombre-con-marihuana-cocaina-y-bazuco-en-ciudad-bolivar-antioquia
@@ -48,7 +56,6 @@ open_questions:
   - No court outcome was reported; the case was at the investigation stage with his legal situation pending.
   - The page also mentions other seizures in Santa Barbara, Callejon de la Amargura and Hispania, which are different events left out of this report.
   - Only one accessible source for this event was found after searching in Spanish.
-  - The page photo caption only repeats the headline and is labelled only as a Colombia Police image, so it is not confirmed to show this seizure and is not listed as media.
 ---
 
 National Police officers arrested a man in flagrante during a patrol in barrio

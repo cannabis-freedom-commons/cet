@@ -39,6 +39,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: acbf2a704715bd12517d4bd53a92074a
 tags: [khaliajuri, netrokona, ganja]
+media:
+  - kind: photo
+    url: https://sokalersomoy.online/news/169657
+    media_url: https://sokalersomoy.online/storage/2026/November/IOjtw42Ln6jqMPDNSiuuyCZUT6VQh3MbSJV2QgA4.jpg
+    publisher: Daily Sokaler Somoy
+    caption: >-
+      The three men arrested with ganja in Puranhati stand between Khaliajuri police officers under
+      the station sign. Photo: Daily Sokaler Somoy
 sources:
   - title: 'খালিয়াজুরীতে মাদকবিরোধী অভিযান: গাঁজাসহ আটক ৩'
     url: https://sokalersomoy.online/news/169657
