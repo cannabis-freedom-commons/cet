@@ -54,14 +54,15 @@ sources:
     publisher: Перший Криворізький
     date: 2026-11-14
     language: uk
-open_questions:
-  - No weight was published for the 70+ packets, so no cannabis weight is recorded.
-  - The Rudana account says she traded in the house of an acquaintance, while the other accounts say at her own residence; the report follows the majority account that it was her home.
-  - The exact street or district in Kryvyi Rih was not published, so the town centre is used for coordinates.
+  - title: 'Організувала вдома точку продажу канабісу: у Кривому Розі судитимуть мешканку'
+    url: https://www.hirchytsya.com.ua/orhanizuvala-vdoma-tochku-prodazhu-kanabisu-u-kryvomu-rozi-sudytymut-meshkanku/
+    publisher: Гірчиця
+    date: 2026-11-14
+    language: uk
 ---
 
 Police in Kryvyi Rih exposed a 49-year-old local woman who had set up drug sales
-directly from her own home. [@1] The woman had been selling cannabis over the
+directly from her own home. [@1,4] The woman had been selling cannabis over the
 previous two months. [@1] Officers caught her in the act during another sale of
 the substance. [@1]
 
@@ -69,14 +70,13 @@ That same day investigators carried out a court-authorised search of the
 49-year-old woman's home and detained her under Article 208 of the Criminal
 Procedure Code. [@2] The operation was conducted by officers of police station
 No. 5 of the Kryvyi Rih District Police Department. [@2] Officers documented her
-activity during another sale of the narcotic substance on 2 November. [@2]
+activity during another sale of the narcotic substance on 2 November. [@2,4]
 
 During the search officers seized more than 70 packed zip packets containing a
-green substance, as well as a mobile phone. [@2] Expert examination established
+green substance, as well as a mobile phone. [@2,4] Expert examination established
 that the seized substance was cannabis. [@3]
 
 After receiving the expert results, investigators notified the woman of
 suspicion under Part 1 of Article 307 of the Criminal Code for illegal sale of
-narcotics. [@2] She is currently in custody. [@3] She faces four to eight years
+narcotics. [@2,4] She is currently in custody. [@3,4] She faces four to eight years
 of imprisonment. [@1]
-
