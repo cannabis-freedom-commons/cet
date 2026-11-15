@@ -182,24 +182,29 @@ sources:
     publisher: Office of the Prosecutor General of Ukraine
     date: 2026-11-13
     language: uk
+  - title: Затримали двох прикарпатців, які заготовили канабісу на 8 мільйонів гривень (Фото)
+    url: https://vikna.if.ua/news/178863/view
+    publisher: ВІКНА
+    date: 2026-11-13
+    language: uk
 ---
 
 Police in Ivano-Frankivsk region exposed a 48-year-old Kolomyia resident and his
 29-year-old accomplice from Kolomyia district over a full cycle of cannabis
-production. [@1,4,7,8,11,13,18,19] The older man sowed cannabis on open ground in the Horodenka
-community at the end of spring 2026 and tended the crop to maturity. [@1,9,10,13,14] He
-illegally grew more than 60 cannabis plants. [@1,6,13,14,19] Both men work in the railway
+production. [@1,4,7,8,11,13,18,19,21] The older man sowed cannabis on open ground in the Horodenka
+community at the end of spring 2026 and tended the crop to maturity. [@1,9,10,13,14,21] He
+illegally grew more than 60 cannabis plants. [@1,6,13,14,19,21] Both men work in the railway
 industry, and the organizer later brought in the younger man to harvest, process
 and move the crop. [@1,4,11,13]
 
 In September 2026 they jointly collected the cannabis harvest into prepared
-bags. [@1,6,11,13] On 9 September 2026 the two men cut the side branches with flower heads and transported part of the crop by car to the older man's former mother-in-law and part to the younger man, where they dried it on attics of utility buildings into a ready-to-consume state. [@15] They drove the raw material in the older man's Mercedes-Benz to
-Kolomyia and to Sheparivtsi, where they dried it and stored it for sale. [@1,4,9,11,13,14,19] Part of the cannabis was stored at the former mother-in-law's residence of the older suspect and part at the younger suspect's home. [@18] In
+bags. [@1,6,11,13,21] On 9 September 2026 the two men cut the side branches with flower heads and transported part of the crop by car to the older man's former mother-in-law and part to the younger man, where they dried it on attics of utility buildings into a ready-to-consume state. [@15] They drove the raw material in the older man's Mercedes-Benz to
+Kolomyia and to Sheparivtsi, where they dried it and stored it for sale. [@1,4,9,11,13,14,19,21] Part of the cannabis was stored at the former mother-in-law's residence of the older suspect and part at the younger suspect's home. [@18] In
 Kolomyia police seized 7 buckets of plant material, and in Sheparivtsi, at the
 younger man's home, plastic wraps, packets and a container of crushed plant
-mass. [@1,9,11,13,14] Those searches recovered more than 13.5 kg of dried cannabis and 60
+mass. [@1,9,11,13,14,21] Those searches recovered more than 13.5 kg of dried cannabis and 60
 cannabis plants. [@3,5,8,16,17,20] Police also seized the car used to transport the cannabis. [@9,11] Officers seized two cars, including a Mercedes-Benz allegedly used to transport the drugs. [@18] The searches also recovered seeds, cash and mobile phones. [@10] The searches also recovered two cars in addition to the seeds, cash and mobile phones already recorded. [@15,17] Officers carried out 13 authorised searches at the suspects' and their relatives' homes in Kolomyia and Kolomyia district. [@5,10,15,17,20] The searches also covered a garage, a dacha building and the suspects' car, where police found equipment for growing cannabis. [@9] Police put the black-market value at no less than 8
-million hryvnias and said the amount is an especially large amount. [@1,4,8,9,12,13,16,17,19]
+million hryvnias and said the amount is an especially large amount. [@1,4,8,9,12,13,16,17,19,21]
 
 Police said the men planned to sell the bulk wholesale to other regions of
 Ukraine. [@1,9,11,13,14,19] They also sold hand-to-hand in Kolomyia district. [@1,13] Both men
@@ -209,6 +214,6 @@ On 10 November prosecutors notified both men of suspicion of group manufacture,
 storage and transportation for sale under Part 3 of Article 307. [@3,5,20] The
 48-year-old organizer was additionally notified of illegal sowing and
 cultivation under Part 2 of Article 310. [@1,12] The Omega account specifies the 48-year-old was additionally charged with illegal sowing and cultivation of more than 50 cannabis plants under Part 2 of Article 310. [@15] A court ordered both held in
-custody without bail. [@2,4,5,6,8,9,11,13,14,18,19,20] The men face up to twelve years in prison with confiscation of property. [@5,10] The pre-trial investigation continues, with procedural guidance provided by the Ivano-Frankivsk Regional Prosecutor's Office. [@11,13]
+custody without bail. [@2,4,5,6,8,9,11,13,14,18,19,20,21] The men face up to twelve years in prison with confiscation of property. [@5,10] The pre-trial investigation continues, with procedural guidance provided by the Ivano-Frankivsk Regional Prosecutor's Office. [@11,13]
 
 The plot was near a remote village of the Horodenka community and was ringed by bushes that preserved the crop's concealment. [@15,17] Over May-September 2026 the suspect regularly visited the plot by motorcycle and car, travelling 30 km one way, to tend the plants to flowering and ripening. [@15]
