@@ -53,6 +53,14 @@ sources:
     publisher: Fato Paulista
     date: 2026-11-11
     language: pt
+media:
+  - kind: photo
+    url: https://fatopaulista.com.br/policia-apreende-quase-130-kg-de-maconha-em-deposito-em-ribeirao-preto/
+    media_url: https://fatopaulista.com.br/wp-content/uploads/2026/11/imovel-usado-como-deposito-de-drogas-em-ribeirao-preto-e-1794421991433.webp
+    publisher: Fato Paulista
+    caption: >-
+      Stacks of taped marijuana bricks on a table in front of a Polícia Civil São Paulo backdrop
+      after the Tanquinho depot seizure. Photo: Fato Paulista / Polícia Civil
 open_questions:
   - No one had been arrested when the reports were published; the suspect remained at large.
   - No street value or price estimate for the 129.9 kilograms was published.

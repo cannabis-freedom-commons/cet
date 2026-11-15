@@ -24,6 +24,14 @@ sources:
     publisher: Realitatea.md
     date: 2026-11-13
     language: ro
+media:
+  - kind: photo
+    url: https://www.unimedia.info/ro/news/5f5d342f96596a73/video-inarmati-cu-mitraliere-mascatii-fulger-au-dat-buzna-peste-ei-doi-barbati-retinuti-la-comrat-cu-droguri-bani-si-o-arma.html
+    media_url: https://media.unimedia.info/unimedia/20261113161116/1763ca7171e3801915c179696574029b5a68b01267e04a9d80968ef885a169fe.jpg
+    publisher: UNIMEDIA
+    caption: >-
+      BPDS Fulger officers in tactical gear approaching a residential house during the Comrat raid.
+      Photo: UNIMEDIA video still
 open_questions:
   - No separate date for the detention or searches was given; 13 November 2026 is the publication date and is used as the incident date.
   - No weights for the seized marijuana and hashish, no count of the hemp plants and no amounts for the seized lei and euro were published.

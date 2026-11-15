@@ -46,6 +46,14 @@ sources:
     publisher: DespiertaSonora
     date: 2026-11-11
     language: es
+media:
+  - kind: photo
+    url: https://www.radarsonora.com/tres-detenidos-con-armas-de-alto-poder-y-droga/
+    media_url: https://www.radarsonora.com/wp-content/uploads/2026/11/2-8.jpeg
+    publisher: Radar Sonora
+    caption: >-
+      The three detainees handcuffed in front of a Fiscalía General de Justicia del Estado de Sonora
+      seal after the Matías Méndez house search. Photo: Radar Sonora
 open_questions:
   - No weight was published for the 37 wraps of possible marijuana, so no kilograms are recorded.
   - The prosecutor’s account calls the cannabis “possible marijuana” and says the substances still had to undergo forensic analysis.

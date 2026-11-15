@@ -39,6 +39,14 @@ sources:
     publisher: Semanario ZETA
     date: 2026-11-13
     language: es
+media:
+  - kind: photo
+    url: https://zetatijuana.com/2026/11/hombres-con-rifles-chalecos-y-droga-detenidos-en-bahia-de-los-angeles/
+    media_url: https://zetatijuana.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-9.39.47-AM.jpeg
+    publisher: Semanario ZETA
+    caption: >-
+      Rifles, pistols, ballistic vests, plates, magazines and dose bags from the Bahía de los Ángeles
+      stop laid out with evidence labels. Photo: Semanario ZETA
 open_questions:
   - No weight was published for the nine marijuana doses, so no cannabis weight is recorded.
   - The drugs were described only as doses identified by SEMAR, with no laboratory confirmation reported.

@@ -45,10 +45,18 @@ sources:
     publisher: Shyamal Sylhet
     date: 2026-11-12
     language: bn
+media:
+  - kind: photo
+    url: https://www.shyamalsylhet.net/news/146929
+    media_url: https://www.shyamalsylhet.net/images/news/147/146929.jpg
+    publisher: Shyamal Sylhet
+    caption: >-
+      Two arrested men with Badalaka thana officers under a special-drive banner, with an inset of
+      the seized ganja packages. Photo: Shyamal Sylhet
 open_questions:
   - The 1 kg 300 g of ganja was not reported as laboratory-confirmed.
   - No custody, bail or court outcome was reported.
-  - No second independent source was found; the account rests on Shyamal Sylhet's report. The page photo at images/news/147/146929.jpg has no caption confirming it shows this event, so it is not listed as media.
+  - No second independent source was found; the account rests on Shyamal Sylhet's report.
 ---
 
 Badalaka thana police in Moulvibazar district arrested two listed drug dealers

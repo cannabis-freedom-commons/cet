@@ -67,10 +67,18 @@ sources:
     publisher: Paiquerê FM News
     date: 2026-11-11
     language: pt
+media:
+  - kind: photo
+    url: https://www.portal24.com.br/noticia/21596/cascavel/prf-encontra-ate-400-quilos-de-maconha-escondidos-em-barcos-de-fibra-e-descobre-rastreador-na-carga.html
+    media_url: https://www.portal24.com.br/arquivos/noticias/21596/thumb/prf-encontra-ate-400-quilos-de-maconha-escondidos-em-barcos-de-fibra-e-descobre-rastreador-na-carga.jpg
+    publisher: Portal 24
+    caption: >-
+      A rescue technician cutting into a fiberglass boat hull packed with blue-wrapped marijuana
+      bricks during the BR-277 Cascavel stop. Photo: Portal 24 / PRF
 open_questions:
-    - Radar BO reported 142.8 kilograms after a small perforation, while earlier reports said the marijuana would be weighed only after specialised tools opened the boats.
-    - The organizers of the shipment from Missal and the intended recipients in Rio de Janeiro were not identified.
-    - Radar BO said the driver was taken to Cascavel Civil Police to give explanations and was not arrested in flagrante, while earlier reports said he was released after showing he did not know about the drugs.
+  - Radar BO reported 142.8 kilograms after a small perforation, while earlier reports said the marijuana would be weighed only after specialised tools opened the boats.
+  - The organizers of the shipment from Missal and the intended recipients in Rio de Janeiro were not identified.
+  - Radar BO said the driver was taken to Cascavel Civil Police to give explanations and was not arrested in flagrante, while earlier reports said he was released after showing he did not know about the drugs.
 ---
 
 Brazil's Federal Highway Police (Polícia Rodoviária Federal, PRF) seized a cargo

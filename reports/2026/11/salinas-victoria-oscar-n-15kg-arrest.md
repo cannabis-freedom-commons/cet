@@ -51,6 +51,14 @@ sources:
     publisher: GAMAVISION
     date: 2026-11-10
     language: es
+media:
+  - kind: photo
+    url: https://info7.mx/nuevoleon/detienen-a-hombre-con-15-kilos-de-marihuana-en-salinas-victoria/8906958236
+    media_url: https://d6isf1yxni2j5.cloudfront.net/large_fgh_fc26f808ce.jpg
+    publisher: INFO7
+    caption: >-
+      Oscar “N” held between Fuerza Civil and Ejército personnel after the Salinas Victoria stop.
+      Photo: INFO7
 open_questions:
   - The sources phrase the weight differently (“more than”, “around” and “approximately” 15 kilos); the report records 15 kg.
   - The reports give no separate date for the operation; 10 November 2026 is the publication date and is used as the incident date.

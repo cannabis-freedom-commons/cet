@@ -40,6 +40,14 @@ sources:
     publisher: Blog do Chaguinhas
     date: 2026-11-11
     language: pt
+media:
+  - kind: photo
+    url: http://www.blogdochaguinhas.com.br/2026/11/policia-militar-encontra-3-quilos-de.html
+    media_url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOSFn8Ghlzx9sxhHQrVPH8TTXPu3vZje-hFmMBSM-KTxIdMFKnBcZbEERjrbkKAOK0t1RkoWkc9teS20fn_p-1p6LWWyiMr-AEqt4__zP7Yn9ECPCQdOIe7WGl4psA0yI_b9mlEEJhgC4dd74gAN1pGFfIyLVUY5CQTRYc8rD0BLAJdf5UEMYs_bNKefy3/w1200-h630-p-k-no-nu/image.png
+    publisher: Blog do Chaguinhas
+    caption: >-
+      Purple-wrapped marijuana tablets in sealed police evidence bags on a scale after the Jardim
+      Bandeirantes vacant-lot find. Photo: Blog do Chaguinhas / Polícia Militar
 open_questions:
   - The weight is given only as approximately 3 kilograms, with no laboratory confirmation or street value.
   - No suspect was identified, and no charge or court outcome was reported.
