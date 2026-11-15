@@ -93,12 +93,17 @@ sources:
     publisher: Tribun Kaltim
     date: 2026-11-14
     language: id
+  - title: 4 Fakta Terkini Pengungkapan Narkoba Rp1,8 Miliar di Samarinda, Disiapkan untuk Stok Tahun Baru 2027
+    url: https://kaltim.tribunnews.com/tribun-etam/1174140/4-fakta-terkini-pengungkapan-narkoba-rp18-miliar-di-samarinda-disiapkan-untuk-stok-tahun-baru-2027
+    publisher: Tribun Kaltim
+    date: 2026-11-14
+    language: id
 open_questions:
-  - It is unclear whether JF was detained with RP and MA on Jalan Pangeran Suryanata or separately on Jalan Anggrek Panda around 22.00 WITA.
-  - No charges, pleas or court outcome for RP, MA and JF were reported.
-  - The 19.19247 kg figure is stated as a gross weight, with no net weight published.
-  - It remains unclear whether three or five suspects were detained and whether the first raid occurred on 5 or 6 November 2026.
-  - Published figures give the cannabis total as both about 19.4 kg and about 20 kg, with no published breakdown of net versus gross weight.
+    - It is unclear whether JF was detained with RP and MA on Jalan Pangeran Suryanata or separately on Jalan Anggrek Panda around 22.00 WITA.
+    - No charges, pleas or court outcome for RP, MA and JF were reported.
+    - The 19.19247 kg figure is stated as a gross weight, with no net weight published.
+    - It remains unclear whether three or five suspects were detained and whether the first raid occurred on 5 or 6 November 2026.
+    - Published figures give the cannabis total as 19.468 kg and about 20 kg, with no published breakdown of net versus gross weight.
 ---
 
 Samarinda police narcotics unit arrested five suspects in a series of raids on 5
@@ -111,7 +116,7 @@ The operations began on Thursday 5 November 2026 at around 20:00 WITA with the
 seizure of ecstasy, followed by the cannabis seizure the next day. [@1] The third raid detained FB alias E on Jalan MT Haryono in Samarinda the same evening at about 23.00 WITA. [@3] The second raid detained RP, MA and JF on Jalan Pangeran Suryanata in Samarinda on 6 November 2026 at about 21.00 WITA. [@3,6] From MH officers seized a car, cat-food packaging, 1,999 ecstasy pills, 20 etomidate cartridges and 253.75 grams net of cannabis. [@3,5,7] The first raid detained MH on Jalan Sungai Kapih in Samarinda on 6 November 2026 at about 20.00 WITA. [@3] A search of his house on Jalan KH Wahid Hasyim found four packs of ecstasy totalling 1,999 pills with a net weight of 934.50 grams. [@4] Hanif was using an online taxi when detained. [@4] The first suspect was identified as 25-year-old MHF alias Hanif, detained on Jalan Sungai Kapih. [@4]
 
 All five suspects were brought to the Samapolresta audit hall for ongoing
-interrogation and further network development. [@1] Investigators were still tracing assets and money flows and hunting fugitive controller AR alias RR. [@3,5,8] The cannabis was suspected to have been prepared as stock for circulation ahead of New Year 2027. [@6,7,8] The three suspects were in a four-member WhatsApp group including fugitive AR alias RR, and police found the parcel delivery receipt on a suspect's phone. [@6] Police put the total sale value at Rp1,858,430,000 and said the seizure could save about 6,000 people in Samarinda from drug abuse. [@3,5] Police traced the narcotics to northern Sumatra, sent under an anonymous sender name to a fictitious address pointing to a Samarinda pet shop. [@3,4,5,6,7] Samarinda police
+interrogation and further network development. [@1] Investigators were still tracing assets and money flows and hunting fugitive controller AR alias RR. [@3,5,8] The cannabis was suspected to have been prepared as stock for circulation ahead of New Year 2027. [@6,7,8,9] The three suspects were in a four-member WhatsApp group including fugitive AR alias RR, and police found the parcel delivery receipt on a suspect's phone. [@6] Police put the total sale value at Rp1,858,430,000 and said the seizure could save about 6,000 people in Samarinda from drug abuse. [@3,5] Police traced the narcotics to northern Sumatra, sent under an anonymous sender name to a fictitious address pointing to a Samarinda pet shop. [@3,4,5,6,7,9] Samarinda police
 spokesperson Ipda Arie Soeharyadi confirmed that the case would be formally
 presented at a press conference led by the chief of police on 13 November 2026.
 [@1] Kasat Resnarkoba Kompol Bangkit Dananjaya also attended the press conference. [@4] Kapolresta Samarinda Kombes Pol Eko Novan Prasetyo Puspito addressed the 13 November press conference in the Aula Rupatama of Polresta Samarinda. [@4] Police said the network was controlled by fugitive AR alias RR and had three operational legs in Samarinda. [@3,5,6] RP and MA were tasked with monitoring the parcel's arrival, ensuring security and finding a Maxim driver to carry it to JF, while JF acted as temporary storage before distribution on the controller's orders. [@6]
