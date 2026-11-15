@@ -58,12 +58,11 @@ sources:
     publisher: ViterboToday
     date: 2026-11-14
     language: it
-open_questions:
-    - No separate date is given for the stop, search or arrest; 14 November 2026 is the publication date and is used as the incident date, while the Carabinieri press release was dated 10 November 2026, suggesting the operation occurred earlier.
-    - The hashish weight is reported as 552 grams and the cocaine as about 106 grams, not confirmed laboratory measurements.
-    - The page summary mentions the seizure of the car as well as the scale, but the article body confirms only the seizure of the drugs and the equipment.
-    - No plea, charge details beyond possession for dealing, or court outcome was reported; the case was at the preliminary-investigation stage.
-    - All four cited accounts reproduce the same Carabinieri statement and are not independent reporting.
+  - title: Vetralla – Giovane del posto arrestato con oltre mezzo chilo tra hashish e cocaina
+    url: https://etrurianews.it/2026/11/14/vetralla-giovane-del-posto-arrestato-con-oltre-mezzo-chilo-tra-hashish-e-cocaina/
+    publisher: Etruria News
+    date: 2026-11-14
+    language: it
 media:
   - kind: photo
     url: https://www.viterbonews24.it/news/vetralla,-23enne-arrestato-con-oltre-mezzo-chilo-di-hashish-e-cocaina_159430.htm
@@ -75,17 +74,17 @@ media:
 ---
 
 Carabinieri from the Vetralla station arrested a 23-year-old local man caught in
-the act on suspicion of possessing drugs for the purpose of dealing. [@1,3,4] On the
+the act on suspicion of possessing drugs for the purpose of dealing. [@1,3,4,5] On the
 orders of the Public Prosecutor's Office of Viterbo, he was taken to the
-Nicandro Izzo prison in Viterbo. [@1,3,4]
+Nicandro Izzo prison in Viterbo. [@1,3,4,5]
 
 Officers intercepted the young man's car on state road 1 Aurelia Bis in the
 Vetralla area as part of a targeted anti-dealing territorial control involving
 the Vetralla and Viterbo stations, the operational section of the Viterbo
-company and the Monte Romano station. [@1,3,4] Searching the vehicle, officers found
-about 106 grams of cocaine. [@1,3,4] A subsequent home search recovered another 552
+company and the Monte Romano station. [@1,3,4,5] Searching the vehicle, officers found
+about 106 grams of cocaine. [@1,3,4,5] A subsequent home search recovered another 552
 grams of hashish and a precision scale believed to have been used to prepare
-doses. [@1,3,4] All of the drugs and the equipment were seized. [@1,3,4]
+doses. [@1,3,4,5] All of the drugs and the equipment were seized. [@1,3,4,5]
 
 At his home, officers found 552 grams of hashish and a precision scale used to
 package doses of drugs. [@2] The Carabinieri announced the operation through a
