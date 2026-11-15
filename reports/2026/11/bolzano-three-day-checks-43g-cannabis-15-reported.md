@@ -56,24 +56,24 @@ sources:
     publisher: Südtirol News
     date: 2026-11-14
     language: de
-open_questions:
-  - The reports place the seizure within a three-day operation ending with the 14 November 2026 publications; the exact day of the drug find was not given, so 14 November is used as the incident date.
-  - The 1.60 grams of ecstasy seized with the cannabis and the packet of suspected cocaine are not cannabis and are excluded from the cannabis weight.
-  - No cannabis-specific charge or court outcome was reported; the 15 reports cover residence-ban, weapons, theft and drug-possession offences together.
-  - The cannabis weights are given as exact police figures of 40.49 grams of hashish and 2.47 grams of marijuana, totalling about 43 grams.
+  - title: Drei Marokkaner bei Diebstählen in Bozen erwischt
+    url: https://www.unsertirol24.com/2026/11/14/drei-marokkaner-bei-diebstaehlen-in-bozen-erwischt/
+    publisher: UnserTirol24
+    date: 2026-11-14
+    language: de
 ---
 
 In intensified checks in Bolzano, the State Police identified more than 500
-people and checked 80 vehicles within three days. [@1] The State Police were
+people and checked 80 vehicles within three days. [@1,4] The State Police were
 joined in the operation by the Carabinieri, the finance police with
 drug-sniffing dogs and the municipal police. [@1] A total of 15 people were
-reported to the judicial authorities for various offences. [@1]
+reported to the judicial authorities for various offences. [@1,4]
 
 Along the Eisackuferstrasse on the left side of the river, officers seized 40.49
 grams of hashish, 2.47 grams of marijuana and 1.60 grams of ecstasy. [@1] The
 drugs could initially not be attributed to any person. [@1] According to the
 police headquarters, the drugs on the left bank of the Eisack were found with
-the help of the finance police dog unit and seized from persons unknown. [@2] A
+the help of the finance police dog unit and seized from persons unknown. [@2,4] A
 drug-sniffing dog found the hashish, marijuana and ecstasy on the left bank of
 the Eisackuferstrasse. [@3]
 
@@ -85,4 +85,3 @@ the check he tried to throw away a packet of suspected cocaine. [@1] Two
 Moroccan nationals aged 36 and 19 had been caught stealing goods in a
 supermarket in the city centre. [@1] A 26-year-old was reported for the
 attempted theft of clothing in a shopping centre in the industrial zone. [@1]
-
