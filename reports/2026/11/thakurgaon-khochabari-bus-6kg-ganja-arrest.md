@@ -43,6 +43,14 @@ status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f63fa32bb17284341cffc248e7334912
 tags: [thakurgaon, ganja, srb-13, bus-checkpoint, rangpur]
+media:
+  - kind: photo
+    url: https://pataka24.com/%E0%A6%A0%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%8F%E0%A6%95/
+    media_url: https://pataka24.com/wp-content/uploads/2026/11/1000126590.jpg
+    publisher: Pataka 24
+    caption: >-
+      Jilani Mia stands before an SRB-13 press-briefing banner after the Khochabari
+      bus checkpoint arrest. Photo: Pataka 24 / SRB-13
 sources:
   - title: ঠাকুরগাঁওয়ে পৃথক অভিযানে গ্রেফতার ৪
     url: https://www.dailykaratoa.com/article/190661
@@ -69,6 +77,8 @@ open_questions:
   - A separate raid the same night in Garea union, Thakurgaon Sadar, seized yaba and tapentadol tablets from a house and is a non-cannabis event left out of this report.
   - The Pataka 24 and Daily Joypur Barta accounts reproduce the same SRB-13 press release; no independent witness account was found.
   - Coordinates are for Choto Khochabari Hat in Nargun union, the bazaar near the checkpoint, not the Sonalli filling station itself.
+  - Daily Karatoa illustrates the case with a Thakurgaon Sadar Thana facade photograph, so that image is not listed as media.
+  - The published SRB-13 briefing photo shows the accused but not the 6 kg of ganja.
 ---
 
 Officers of the police's Special Response Battalion-13 (SRB-13) set up a

@@ -81,7 +81,7 @@ open_questions:
   - Yaba is a methamphetamine tablet and is not counted in the cannabis figures; 740 grams is the whole ganja weight given.
   - The statement says legal process against the arrested was completed without saying whether charge sheets were filed or whether they appeared in court.
   - Police said the 19 detained teenagers were handed to their families on bond after checks of their age and offences; no case is reported against them.
-  - The page picture is captioned only with the headline and carries no credit, so it is not included as media.
+  - The page picture is a Chandpur Kantho roundup infographic of 24-hour arrest totals, not a photo of the ganja seizures or the accused, so it is not included as media.
   - Jugantor gives the Awami League arrests by station (six in Faridganj, 31 in Chandpur Sadar Model, six in Shahrasti, seven in Hajiganj, 12 in Matlab Uttar) but not the station split of the 12 drug arrests.
   - No charge sheet or court appearance is reported for the 12 arrested; the article says only that legal proceedings were taken against them.
   - The article does not say who the 51 yaba pieces at Hajiganj belonged to, since the suspect there fled.

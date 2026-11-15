@@ -38,6 +38,7 @@ sources:
     date: 2026-11-06
     language: bn
 open_questions:
+  - BanglaVision illustrates the seizures with a Feni district map graphic, so no event photo is listed.
   - No separate weight, bottle count or other quantity was published for the ganja or the Indian liquor, so no cannabis quantity is recorded.
   - The Tk 197,800 seizure value covers the liquor and ganja together and cannot be separated, so it is not recorded as a cannabis-only value.
   - The reports give no detailed information on whether anyone was detained, so no arrest figure is recorded.

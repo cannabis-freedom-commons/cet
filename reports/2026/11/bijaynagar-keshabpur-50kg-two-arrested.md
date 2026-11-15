@@ -30,6 +30,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4ed4439bba73f12c4e4deeb02895d849
 tags: [brahmanbaria, bijaynagar, ganja, bangladesh]
+media:
+  - kind: photo
+    url: https://desherpotro.com/%E0%A6%AC%E0%A6%9C%E0%A7%9F%E0%A6%A8%E0%A6%97%E0%A6%B0-%E0%A7%AB%E0%A7%A6-%E0%A6%95%E0%A6%9C-%E0%A6%97%E0%A6%9C%E0%A6%B8%E0%A6%B9-%E0%A6%A6%E0%A6%9C%E0%A6%A8-%E0%A6%97%E0%A6%B0%E0%A6%AB%E0%A6%A4%E0%A6%B0
+    media_url: https://desherpotro.com/storage/news/screenshot-15-24.jpg
+    publisher: দৈনিক দেশেরপত্র
+    caption: >-
+      The two accused stand with wrapped ganja sacks and a Bijaynagar Thana
+      evidence placard after the East Keshabpur road stop. Photo: দৈনিক দেশেরপত্র
 sources:
   - title: বিজয়নগরে ৫০ কেজি গাঁজাসহ দুজন গ্রেফতার
     url: https://desherpotro.com/%E0%A6%AC%E0%A6%9C%E0%A7%9F%E0%A6%A8%E0%A6%97%E0%A6%B0-%E0%A7%AB%E0%A7%A6-%E0%A6%95%E0%A6%9C-%E0%A6%97%E0%A6%9C%E0%A6%B8%E0%A6%B9-%E0%A6%A6%E0%A6%9C%E0%A6%A8-%E0%A6%97%E0%A6%B0%E0%A6%AB%E0%A6%A4%E0%A6%B0
@@ -47,7 +55,6 @@ open_questions:
   - The Narcotics Control Act 2018 sections are given by number only; the reports do not state the penalty the charges carry or whether a charge count was recorded beyond the case filing.
   - No detention order, bail decision or court outcome was reported.
   - The two accounts carry the same text and the same image, so there is only one underlying report and no independent confirmation of the details.
-  - The single image published on both pages is captioned only with the headline and does not show what it depicts, so it is not listed as media.
   - East Keshabpur village was not precisely geolocated; the map uses the Bijaynagar upazila centre.
 ---
 

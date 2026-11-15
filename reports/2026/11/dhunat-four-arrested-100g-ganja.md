@@ -39,6 +39,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 673ff404912dd7c7c847db38e3c8fe58
 tags: [bogura, dhunat, ganja, bangladesh, police-raid]
+media:
+  - kind: photo
+    url: https://amarbangla24.com.bd/%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%A7/bgurar-dhunte-swecchasebk-leeg-netash-greptar-4-gannja-uddhar
+    media_url: https://amarbangla24.com.bd/assets/images/post/1793869817T5gesOUH.jpg
+    publisher: Amar Bangla 24
+    caption: >-
+      The four accused stand with a Dhunat Thana evidence placard after the Bogura arrests.
+      Photo: Amar Bangla 24 / Dhunat police
 sources:
   - title: ধুনটে স্বেচ্ছাসেবক লীগ নেতাসহ গ্রেপ্তার ৪, গাঁজা উদ্ধার
     url: https://www.amarsangbad.com/country/news/363860
@@ -61,6 +69,7 @@ open_questions:
   - No specific narcotics charge, section of the law or value for the 100 grams was reported, and the ganja was not described as laboratory-confirmed.
   - The reports do not say what happened after the four were sent to jail, whether charge sheets were filed or what any of them said about the ganja.
   - Daily Sokaler Somoy, like the two accounts already cited, reproduces the Dhunat police statement and gives no separate date for the arrests, so it does not resolve any of the report's open questions.
+  - The published custody photo shows the four accused with a station placard but does not display the 100 grams of ganja.
 ---
 
 Police in Dhunat upazila in Bogura district arrested four people, one of them a

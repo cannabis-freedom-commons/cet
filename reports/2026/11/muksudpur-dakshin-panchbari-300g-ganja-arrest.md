@@ -37,6 +37,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 933682ccdf58a35d3f9441e5101b6e8d
 tags: [gopalganj, muksudpur, ganja, srb-6]
+media:
+  - kind: photo
+    url: https://www.dainikmohona.com/gopalganj-news/srb/
+    media_url: https://www.dainikmohona.com/wp-content/uploads/2026/11/immage-1000-05-2.jpg
+    publisher: Dainik Mohona
+    caption: >-
+      Ashraf Matubbar in custody beside a pickup truck after the SRB-6 Dakshin Panchbari raid.
+      Photo: Dainik Mohona
 sources:
   - title: মুকসুদপুরে মাদক ব্যবসায়ী গ্রেপ্তার | Dainik Mohona
     url: https://www.dainikmohona.com/gopalganj-news/srb/
@@ -47,6 +55,7 @@ open_questions:
   - The 785 yaba tablets are a methamphetamine-type drug, not cannabis, and are excluded from the cannabis figures; only the 300 grams of ganja is recorded as 0.3 kg seized.
   - No second source for this event was found after searching in Bengali and English, so only one accessible source is cited.
   - The romanisation Ashraf Matubbar follows the Bengali name as published.
+  - The published photo shows the accused beside a truck but does not show the seized ganja or yaba.
 ---
 
 Special Response Battalion-6 detained 58-year-old Ashraf Matubbar in Muksudpur,

@@ -65,6 +65,7 @@ sources:
     language: pt
 open_questions:
   - The Polícia Federal notice illustrates Operação Pinotus with a close-up of an officer's POLÍCIA FEDERAL vest patch rather than seizure evidence from this case, so no event photo is listed.
+  - Capital do Pantanal illustrates the same operation with a Polícia Federal Trailblazer convoy file photograph, which is also not listed as media.
   - No number of arrest warrants, arrests or people charged was published; the Diário Corumbaense reports warrants served but gives no count.
   - No seizure of marijuana or other drugs during the 6 November 2026 operation was reported, and no weight or value is recorded for it.
   - The Federal Police statement gives only 'September 2025' for the Corumbá seizure that started the case, without a day; no separate tracker report of that seizure was found.

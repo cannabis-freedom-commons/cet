@@ -69,6 +69,7 @@ open_questions:
   - Chandpur Sadar Model police also detained eight people as drug users and suspects with no drug seizure reported; neither they nor the 16 political, six warrant and convicted, and one extortion arrests or 19 teenage gang detainees are counted in the five anti-drug arrests.
   - All six accounts reproduce the same 10 November morning media cell press statement from Chandpur district police rather than independent reporting; Chandpur Kantho describes the five arrestees as drug traders while the other accounts describe them as involved in drug-related offences.
   - 'Left out, as its quotation was not found in Khaborer Kagoj: Faridganj police arrested two people with 10 pieces of yaba, and Hajiganj police arrested one person with five pieces.'
+  - Gramer Kagoj illustrates the drive with a Chandpur SP office facade photograph, so no event photo is listed.
 ---
 
 Chandpur district police arrested five people in anti-drug operations and

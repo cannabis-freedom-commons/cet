@@ -76,6 +76,9 @@ open_questions:
     The 13 November seizure accounts for the full two-day ganja total of 100 grams; no ganja seizure
     was reported for 12 November.
   - >-
+    Dhaka Mail and related roundup pages illustrate the drive with a Chandpur SP office facade
+    photograph, so no event photo is listed.
+  - >-
     The whole account rests on the district police media-cell release as reproduced by one
     accessible outlet, with no independent corroboration opened.
   - >-
