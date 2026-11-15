@@ -94,6 +94,11 @@ sources:
     publisher: Hindi Samana
     date: 2026-11-14
     language: hi
+  - title: गया जंक्शन पर महिला तस्कर का पर्दाफाश, 12.756 किलो गांजा के साथ 22 वर्षीय युवती गिरफ्तार; ओडिशा से बिहार तक फैला नेटवर्क आया सामने | Mirror Media
+    url: https://mirrormedia.co.in/%E0%A4%97%E0%A4%AF%E0%A4%BE-%E0%A4%9C%E0%A4%82%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A4%A8-%E0%A4%AA%E0%A4%B0-%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE-%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%B0/
+    publisher: Mirror Media
+    date: 2026-11-14
+    language: hi
 ---
 
 A joint RPF and GRP team arrested 22-year-old Chhoti Kumari with 12.756 kg of
@@ -104,15 +109,15 @@ identified as the daughter of Gopal Kahar of Sonadih village, Kargahar police
 station area, Rohtas district. [@1,3,5,8]
 
 She told police she had received the ganja at Sambalpur in Odisha and was
-carrying it to Sasaram in Bihar for money. [@1,3,4,5,6,7,8] The search of her bag found 12
-bundles of ganja weighing a total of 12.756 kg. [@1,3,4,5,6,7,8] Officers put the estimated
-market value of the seized ganja at Rs637,800. [@1,3,4,5,6,8] The seizure was made in the
+carrying it to Sasaram in Bihar for money. [@1,3,4,5,6,7,8,9] The search of her bag found 12
+bundles of ganja weighing a total of 12.756 kg. [@1,3,4,5,6,7,8,9] Officers put the estimated
+market value of the seized ganja at Rs637,800. [@1,3,4,5,6,8,9] The seizure was made in the
 presence of Assistant Security Commissioner, RPF Gaya, Sanjay Kumar Singh, with
 Sub-Inspector Dhirendra Kumar completing the seizure formalities. [@1,3] Woman police constable Chanda Devi assisted in arresting her. [@3]
 
 The joint RPF-GRP team acted under Operation Narcos. [@2,3] After the arrest and
 seizure, the RPF team handed the seized ganja and the arrested woman to GRP
-police station Gaya. [@1,3,5,6,7,8] GRP Gaya registered case number 285/26 dated 14
+police station Gaya. [@1,3,5,6,7,8,9] GRP Gaya registered case number 285/26 dated 14
 November 2026 on the written complaint of RPF Sub-Inspector Dhirendra Kumar.
 [@1,3,4,5,8] The case was registered under sections 8/20(b)(ii)B of the NDPS Act, with
 further legal action and investigation to be done by the GRP. [@1,3,7]
