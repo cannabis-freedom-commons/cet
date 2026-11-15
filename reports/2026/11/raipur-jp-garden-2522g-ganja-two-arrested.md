@@ -56,29 +56,39 @@ sources:
     publisher: Janta Se Rishta
     date: 2026-11-14
     language: hi
+  - title: रायपुर में गांजा बेचने निकले ओडिशा के आरोपित सहित दो गिरफ्तार, 2.522 किलो गांजा और माेटरसाइकिल जब्त
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/14/ODISHA-MAN-AMONG-TWO-HELD-IN-RAIPUR-CANNABIS-BUST.php
+    publisher: Hindusthan Samachar
+    date: 2026-11-14
+    language: hi
 open_questions:
   - The reports date the tip-off to 13 November 2026 and were published on 14 November 2026; 13 November is used as the incident date with no separate time given for the arrests.
   - The 2.522 kg weight and the Rs 1,26,100 and Rs 1,66,100 valuations are the police's stated figures, with no laboratory confirmation or valuation method reported.
   - No court outcome was reported; questioning on the supply and buyer network was still under way.
+media:
+  - kind: photo
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/14/ODISHA-MAN-AMONG-TWO-HELD-IN-RAIPUR-CANNABIS-BUST.php
+    media_url: https://www.hindusthansamachar.in/Encyc/2026/11/14/9d2ea6ea3722b026fa39ac6366099314_1840646015_H@@IGHT_0_W@@IDTH_600.jpg
+    publisher: Hindusthan Samachar
+    caption: The arrested accused, in the page photo captioned 'आरोपित गिरफ्तार'.
 ---
 
 A joint team of the Anti-Crime and Cyber Unit, the Anti-Narcotics Task Force and
 Amanaka police arrested two men near JP Garden on the road to Saraona railway
 station in the Amanaka area after a 13 November tip that two men on a motorcycle
-were loitering to sell ganja. [@1] The team identified the pair from the
+were loitering to sell ganja. [@1,3] The team identified the pair from the
 informer's description of the two-wheeler and the suspects and caught them after
 they tried to flee on seeing police. [@2] The two were identified as 56-year-old
 Radhakant Rana of Balangir, Odisha, and 40-year-old Parmanand Sahu of village
-Pohanda, Durg district. [@1]
+Pohanda, Durg district. [@1,3]
 
-A search of the bag they carried found 2.522 kg of ganja. [@1] Police valued the
+A search of the bag they carried found 2.522 kg of ganja. [@1,3] Police valued the
 ganja at about Rs 1,26,100 and the total seizure with the motorcycle used in the
-offence at about Rs 1,66,100, and seized the motorcycle. [@1]
+offence at about Rs 1,66,100, and seized the motorcycle. [@1,3]
 
 Both men were booked at Amanaka police station as crime no. 381/26 under section
-20(b) of the NDPS Act. [@1] Police said detailed questioning on the ganja's
+20(b) of the NDPS Act. [@1,3] Police said detailed questioning on the ganja's
 availability, transport, sale and supply network was under way to trace its
 sources and intended buyers. [@2] Police said the commissionerate's units had so
 far arrested 222 accused in 102 NDPS cases and seized drugs and other material
 worth over Rs 7.39 crore. [@1]
-
