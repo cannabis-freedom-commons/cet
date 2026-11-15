@@ -43,6 +43,15 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5d6dd17e2d32f8938679ede05cc30489
 tags: [rio-grande-do-sul, cacequi, sao-francisco-de-assis, policia-civil, drug-depot]
+media:
+  - kind: photo
+    url: https://npexpresso.com.br/policia/tres-presos-e-50-quilos-de-maconha-apreendidos
+    media_url: https://npexpresso.com.br/wp-content/uploads/2026/11/Copia-de-Copia-de-chamadas-3-2026-11-09T085929.489.webp
+    publisher: NP Expresso
+    caption: >-
+      Yellow-wrapped cannabis bricks on a Civil Police of Rio Grande do Sul scale, with a revolver
+      and PC RS badge, from the São Francisco de Assis and Cacequi operation. Photo: NP Expresso /
+      Polícia Civil RS
 sources:
   - title: Três presos e 50 quilos de maconha apreendidos
     url: https://npexpresso.com.br/policia/tres-presos-e-50-quilos-de-maconha-apreendidos

@@ -56,6 +56,7 @@ open_questions:
   - The 13-kilo weight is given as an approximation, with no exact measurement or laboratory confirmation published.
   - No charges, custody decision or court outcome beyond the detention at the Civil Police station were reported; the case was at the investigation stage.
   - Only the 15-year-old was detained; the 22-year-old driver, who said she did not know the backpack's contents, was not reported as arrested.
+  - Diário da Amazônia and Portal SGC illustrate the piece with cannabis bricks on a São Paulo Military Police car hood, which does not match this Rondônia border stop, so that image was not used.
 ---
 
 Military Police in Guajará-Mirim detained a 15-year-old boy carrying about 13

@@ -29,6 +29,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4f00fed38538584130b802a28446285f
 tags: [bhairab, kishoreganj, ganja]
+media:
+  - kind: photo
+    url: https://economicnews24.com/news/152553
+    media_url: https://economicnews24.com/wp-content/uploads/2026/11/IMG_1769195151-e1794311522104.jpg
+    publisher: Economic News24
+    caption: >-
+      The two accused men with officers and seized ganja bundles at Bhairab Thana. Photo: Economic
+      News24
 sources:
   - title: ১০ কেজি গাঁজাসহ দুই চিহ্নিত মাদক কারবারি গ্রেপ্তার
     url: https://www.somoyerkonthosor.com/post/2026/11/10/6af2f1923f2d5

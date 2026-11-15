@@ -41,6 +41,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e2dff90b30f0c3a3a1dc03c7e6b89f7
 tags: [arapiraca, alagoas, maconha, trafico-de-drogas, k9-beretta]
+media:
+  - kind: photo
+    url: https://www.gazetaweb.com/noticias/arapiraca/mulher-e-presa-vendendo-drogas-em-festa-de-chacara-em-arapiraca-948054
+    media_url: https://cdn.gazetaweb.com/img/inline/940000/mulher-e-presa-vendendo-drogas-em-festa-de-chacara-00948054-c9392d3a00735b53b5027a49fbe6bd13.jpg
+    publisher: GazetaWeb
+    caption: >-
+      Sniffer dog with PELOPES and CANIL signs behind seized cannabis portions, other drugs, cash,
+      phones and a notebook from the Batingas arrest. Photo: GazetaWeb / Polícia Militar AL
 sources:
   - title: 'Arapiraca: Apreensão de maconha e crack em duas ações'
     url: https://www.bnewsalagoas.com.br/noticias/policia/arapiraca-apreensao-de-maconha-e-crack-em-duas-acoes.html

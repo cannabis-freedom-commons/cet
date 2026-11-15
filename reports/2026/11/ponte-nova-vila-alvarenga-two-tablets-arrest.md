@@ -57,6 +57,7 @@ open_questions:
   - The crack and cocaine quantities, mobile phones and cash were reported by the Military Police and are not counted as cannabis figures.
   - No names were published for the arrested couple or the buyer, and subsequent custody hearing or court outcomes were not reported.
   - The coordinates represent the Vila Alvarenga neighbourhood on Rua Minas Gerais rather than an exact street address.
+  - As Notícias Online's PMMG display photo shows roughly a hundred cannabis packets rather than the two tablets stated for this raid, so that image was not used as event evidence.
 ---
 
 Military Police arrested a 36-year-old man and a 30-year-old woman on suspicion

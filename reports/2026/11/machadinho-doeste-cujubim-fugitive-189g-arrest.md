@@ -36,6 +36,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 99ca05f2226c8adb8f9f74f1811f61e2
 tags: [machadinho-doeste, rondonia, maconha, haxixe, cujubim]
+media:
+  - kind: photo
+    url: https://folhadevilhena.com.br/07/11/2026/pc-realiza-acao-na-zona-rural-que-resulta-em-prisao-e-apreensao-de-drogas/
+    media_url: https://folhadevilhena.com.br/wp-content/uploads/2026/11/FB_IMG_1794055477851.webp
+    publisher: Folha de Vilhena
+    caption: >-
+      The arrested fugitive in a Civil Police vehicle during the rural Machadinho d'Oeste action,
+      in an official Polícia Civil de Rondônia graphic. Photo: Folha de Vilhena / PCRO
 sources:
   - title: PC realiza ação na zona rural que resulta em prisão e apreensão de drogas
     url: https://folhadevilhena.com.br/07/11/2026/pc-realiza-acao-na-zona-rural-que-resulta-em-prisao-e-apreensao-de-drogas/

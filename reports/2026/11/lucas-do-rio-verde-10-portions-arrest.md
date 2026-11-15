@@ -35,6 +35,15 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a8dcd82380f6087c162cf67baf5bfd49
 tags: [lucas-do-rio-verde, mato-grosso, maconha]
+media:
+  - kind: photo
+    url: https://leiagora.com.br/homem-e-preso-com-porcoes-de-maconha-que-seriam-revendidas/
+    media_url: https://leiagora.com.br/wp-content/uploads/2026/11/Sem-titulo.jpg
+    publisher: LEIAGORA
+    caption: >-
+      Ten cannabis portions, a precision scale, a light-coloured phone and an identity document
+      displayed with Mato Grosso Military Police 13th BPM and Cavalaria signs. Photo: LEIAGORA /
+      Polícia Militar MT
 sources:
   - title: Homem é preso com porções de maconha que seriam revendidas - LEIAGORA
     url: https://leiagora.com.br/homem-e-preso-com-porcoes-de-maconha-que-seriam-revendidas/

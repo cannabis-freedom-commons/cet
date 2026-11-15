@@ -41,6 +41,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4f1c87ce150a6a14d6ab2494c1a65549
 tags: [bauru, sao-paulo, maconha]
+media:
+  - kind: photo
+    url: https://sampi.net.br/bauru/noticias/3017110/policia/2026/11/homem-e-preso-com-32-quilos-de-maconha-e-cocaina-em-bauru
+    media_url: https://sampi.net.br/dir-arquivo-imagem/2026/11/4d4860371e1bb94c0abfccb50c524f74.jpeg
+    publisher: Sampi
+    caption: >-
+      Pressed cannabis bricks, cocaine portions, Brazilian Real notes and a scale from the Bauru
+      vehicle stop. Photo: Força Tática / Divulgação via Sampi
 sources:
   - title: Homem é preso com 32 quilos de maconha e cocaína em Bauru
     url: https://sampi.net.br/bauru/noticias/3017110/policia/2026/11/homem-e-preso-com-32-quilos-de-maconha-e-cocaina-em-bauru
