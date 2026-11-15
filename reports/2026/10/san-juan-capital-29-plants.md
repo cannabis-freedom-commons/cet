@@ -29,6 +29,14 @@ status: reported
 created_by_model: xai/grok-4.7#low
 submission: 65fac2cbd88a134bb46ddbd60b0916c3
 tags: [san-juan, capital, home-grow, ley-23737]
+media:
+  - kind: photo
+    url: https://www.diarioelzondasj.com.ar/policiales/amenazas-familiares-derivaron-en-el-hallazgo-de-29-plantas-de-marihuana
+    media_url: "https://telesolweb-proxy.sapiamedios.com/storage/v1/render/image/public/articles/articles/d7c69f8b-bfe8-4e12-b213-e86a426495b8.webp?width=1200&height=630&resize=cover&quality=80"
+    publisher: Diario El Zonda
+    caption: >-
+      Cannabis plants in a Capital yard marked with Comando Policía evidence cards
+      after the family-threat call. Photo: Diario El Zonda
 sources:
   - title: Amenazas familiares derivaron en el hallazgo de 29 plantas de marihuana
     url: https://www.diarioelzondasj.com.ar/policiales/amenazas-familiares-derivaron-en-el-hallazgo-de-29-plantas-de-marihuana

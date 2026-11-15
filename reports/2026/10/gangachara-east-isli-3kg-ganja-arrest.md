@@ -31,6 +31,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f658a777ecd04964efcb4c4a00c602db
 tags: [rangpur, gangachara, ganja]
+media:
+  - kind: photo
+    url: https://www.agamirsomoy.com/country/bufxeg3ecq8g
+    media_url: https://files.agamirsomoy.com/bn-media/uploads/2026/10/82958c4d-c6f4-499f-ba5b-5ba955ec0343.webp
+    publisher: Agamir Somoy
+    caption: >-
+      Morjina Begum stands before an SRB-13 press-briefing banner after the East Isli
+      ganja arrest. Photo: Agamir Somoy / SRB-13
 sources:
   - title: রংপুরে ৩ কেজি গাঁজাসহ নারী গ্রেপ্তার
     url: https://www.agamirsomoy.com/country/bufxeg3ecq8g
@@ -46,6 +54,7 @@ open_questions:
   - No court outcome beyond the Narcotics Control Act case filing and handover was reported; further legal steps were described as under way.
   - No valuation of the seized 3 kg of ganja was published, so no value is recorded.
   - Both opened accounts repeat the SRB-13/police version of the raid; no separate non-police account was opened.
+  - The published briefing photo shows the accused but not the 3 kg of ganja.
 ---
 
 Special Response Battalion-13 arrested 40-year-old Morjina Begum with 3 kg of

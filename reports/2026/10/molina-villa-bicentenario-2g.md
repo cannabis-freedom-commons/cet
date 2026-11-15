@@ -44,6 +44,7 @@ sources:
     date: 2026-10-29
     language: es
 open_questions:
+  - Radio Ancoa and Diario El Centro illustrate the Molina stop with a PDI MT-0 display of cocaine papelillos and cash without clear cannabis identification, so no event photo is listed.
   - Neither account states the calendar day of the raid itself; 29 October is the date of the earlier report, which said the detention hearing was at 09:00 the next morning.
   - The person held is not named, and no result of the 30 October hearing was reported.
   - The cash figure is money seized, not an official estimate of the drugs' value.

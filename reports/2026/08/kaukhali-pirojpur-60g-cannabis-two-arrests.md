@@ -41,6 +41,14 @@ status: verified
 created_by_model: xai/grok-4.7#low
 submission: 4de978ddbfed8ef66ba53b608aeb502f
 tags: [kaukhali, pirojpur, ganja, yaba]
+media:
+  - kind: photo
+    url: https://samachar.com.bd/1871/saradesh-1871
+    media_url: https://samachar.com.bd/assets/images/post/1786799878eSmbtI5r.jpg
+    publisher: দৈনিক সমাচার
+    caption: >-
+      The two accused stand with Kaukhali Thana officers beside ganja laid out on a
+      table after the Pirojpur arrests. Photo: দৈনিক সমাচার
 sources:
   - title: 'কাউখালীতে পুলিশের বিশেষ অভিযান: গাঁজা-ইয়াবাসহ দুই মাদক ব্যবসায়ী গ্রেপ্তার'
     url: https://banglaralonews.com/8029/%E0%A6%95%E0%A6%BE%E0%A6%89%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8:-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE-%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0

@@ -46,6 +46,14 @@ data_sources:
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [bogura, mobile-court, dnc]
+media:
+  - kind: photo
+    url: https://www.thesouthasiantimesbd.com/nationwide/news/27463
+    media_url: https://www.thesouthasiantimesbd.com/media/imgAll/2022November/en/WhatsApp-Image-2026-10-24-at-84205-PM-2610242221.jpeg
+    publisher: The South Asian Times
+    caption: >-
+      Md. Shafiqul Islam and Md. Murad Hossain stand beside a Department of Narcotics
+      Control vehicle after the Bogura Sadar mobile-court arrests. Photo: The South Asian Times
 sources:
   - title: 2 Sentenced to Jail by Mobile Court in Bogura for Possession of Cannabis
     url: https://www.thesouthasiantimesbd.com/nationwide/news/27463
@@ -53,6 +61,7 @@ sources:
     date: 2026-11-02
 open_questions:
   - Only one source could be found for this case.
+  - The published custody photo shows the two accused with a DNC vehicle but not the 20 grams of cannabis.
   - The account gives no separate date for the mobile court sitting; 24 October 2026 is the date of the drive.
 ---
 

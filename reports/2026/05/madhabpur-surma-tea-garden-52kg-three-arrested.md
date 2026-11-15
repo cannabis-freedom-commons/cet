@@ -38,6 +38,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cfa5c0652a56dc6f85842b022ac7f414
 tags: [madhabpur, habiganj, ganja, rab-9, tea-garden]
+media:
+  - kind: photo
+    url: https://www.dhakatoday.com/news/78333/3
+    media_url: "https://www.dhakatoday.com/imagestorages/2026-05/dhakatoday1779015306%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A6%AC%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87%20%E0%A6%B0%E2%80%8D%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%B0%20%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8.jfif"
+    publisher: Dhaka Today
+    caption: >-
+      The three accused stand before a RAB-9 Sylhet press-briefing banner with an inset
+      of the wrapped ganja bundles from the Surma tea-garden gate seizure. Photo: Dhaka Today / RAB-9
 sources:
   - title: র‌্যাব-৯ এর অভিযানে হবিগঞ্জের মাধবপুর থেকে ৫২ কেজি গাঁজাসহ ০৩ জন মাদক ব্যবসায়ী গ্রেফতার
     url: https://banglaralonews.com/3620/%E0%A6%B0%E2%80%8C%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC-%E0%A7%AF-%E0%A6%8F%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A6%AC%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%AB%E0%A7%A8-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A7%A6%E0%A7%A9-%E0%A6%9C%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0

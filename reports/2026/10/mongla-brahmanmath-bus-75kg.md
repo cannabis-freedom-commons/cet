@@ -34,10 +34,19 @@ data_sources:
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [mongla, bagerhat, bus, srb]
+media:
+  - kind: photo
+    url: https://www.dailyamardesh.com/bangladesh/khulna/amddvoqfiy3fi
+    media_url: https://images.dailyamardesh.com/og-images/%E0%A6%AE%E0%A7%8B%E0%A6%82%E0%A6%B2%E0%A6%BE-345f9a.og-image-0502df.jpg
+    publisher: Daily Amar Desh
+    caption: >-
+      The four accused stand with wrapped ganja bales before an SRB-6 Khulna
+      press-briefing banner after the Brahmanmath bus search. Photo: Daily Amar Desh / SRB-6
 open_questions:
     - The 45 kg discrepancy between the 120 kg figure reported by initial outlets citing the deputy director and the 75 kg figure in the unit's press release remains unresolved.
     - Initial reports identified three detainees from Rangpur, whereas the press release reported four arrests including a local resident from Morelganj.
     - The court outcome of the cases initiated under the Narcotics Control Act has not been reported.
+    - BVNEWS24's earlier scene photo shows three of the accused with bales before the fourth was included in the unit press release.
 sources:
   - title: গাঁজা উদ্ধারের পরিমাণ নিয়ে বিভ্রান্তি, কর্মকর্তা ১২০ কেজি বললেও বিজ্ঞপ্তিতে ৭৫
     url: https://www.dailyamardesh.com/bangladesh/khulna/amddvoqfiy3fi

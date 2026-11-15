@@ -45,6 +45,7 @@ sources:
     date: 2026-10-31
     language: es
 open_questions:
+  - BioBioChile illustrates the El Loa October balance with a K9 suitcase-sniffing file photograph, so no event photo is listed.
   - The 2,200 kg is a combined total for marijuana, coca paste, cocaine hydrochloride and ketamine; no separate cannabis weight was published, so no cannabis kilogram figure is recorded.
   - The 4,500 million peso valuation covers the whole mixed load, not cannabis alone, so it is described in the text but not recorded as a cannabis value.
   - The sources report results for the whole of October and give no dates or places for individual seizures; 31 October is the announcement date used here.

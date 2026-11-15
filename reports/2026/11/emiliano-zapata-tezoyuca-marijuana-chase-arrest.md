@@ -64,6 +64,7 @@ sources:
     date: '2026-11-13'
     language: es
 open_questions:
+  - Diario de Morelos illustrates the Tezoyuca chase with an unrelated Singles Day feature photograph, so no event photo is listed.
   - >-
     Diario de Morelos illustrates the Tezoyuca chase with a Singles Day stock graphic and no
     marijuana or accused, so no event photo is listed.

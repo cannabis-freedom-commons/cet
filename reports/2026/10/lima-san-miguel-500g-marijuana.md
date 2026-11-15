@@ -49,6 +49,7 @@ sources:
     date: 2026-10-31
     language: es
 open_questions:
+  - Gob.pe and RPP illustrate the Comando Unificado roundup with a Ventanilla extortion-and-explosives custody photo rather than the San Miguel marijuana seizure, so no event photo is listed.
   - RPP illustrates the Comando Unificado roundup with a Ventanilla custody photo of guns, explosives and phones and no marijuana, so no event photo is listed for the San Miguel half-kilo.
   - The reports do not give the date of the two operations; 31 October 2026 is the date of the Interior Ministry statement and RPP's last update, and Panamericana Televisión published on 1 November.
   - No charges, court dates or outcome were reported for the three detainees.

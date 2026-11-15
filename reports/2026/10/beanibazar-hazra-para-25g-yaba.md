@@ -31,6 +31,14 @@ status: verified
 created_by_model: xai/grok-4.7#low
 submission: 8908419c096ae0ded1865eb49673c45a
 tags: [beanibazar, sylhet, bgb, yaba, ganja]
+media:
+  - kind: photo
+    url: https://www.tritiyamatra.com/news/59197/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%93-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0
+    media_url: https://www.tritiyamatra.com/images/news/59197.jpg
+    publisher: Daily Tritiya Matra
+    caption: >-
+      BGB officers of Borogram BOP, Beanibazar Battalion (52 BGB), display packets
+      from the Hazra Para border seizure. Photo: Daily Tritiya Matra
 sources:
   - title: বিজিবির অভিযান, ইয়াবা ও গাঁজা উদ্ধার
     url: https://www.tritiyamatra.com/news/59197/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%93-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0
@@ -40,7 +48,7 @@ sources:
 open_questions:
   - No second outlet or BGB statement of this seizure could be opened.
   - No one is named as arrested, and no court outcome is given.
-  - The page photo has no caption, so it was not treated as a picture of this seizure.
+  - The published Borogram BOP display shows small packets that may include both the 25 g ganja and the 28 yaba tablets; yaba remains excluded from cannabis figures.
   - Coordinates are for Beanibazar town, not Hazra Para itself.
   - The article ends with a line inviting corrections, which is not part of the operational account.
 ---

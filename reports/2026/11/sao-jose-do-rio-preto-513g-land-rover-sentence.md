@@ -54,6 +54,7 @@ sources:
     date: 2026-11-10
     language: pt
 open_questions:
+  - Região Noroeste illustrates the Land Rover sentence with a courthouse facade file photograph, so no event photo is listed.
   - No separate date for the sentence was published; 10 November 2026 is the article's publication date and is used as the incident date.
   - Only one outlet's account of the verdict could be opened, and no court record or second report was available.
   - Whether the defendant has appealed the sentence was not reported.

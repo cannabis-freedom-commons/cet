@@ -44,6 +44,7 @@ sources:
     date: 2026-11-10
     language: pt
 open_questions:
+  - Cada Minuto illustrates the Arapiraca arrest with an Alagoas Polícia vehicle side file photograph, so no event photo is listed.
   - No weight was published for the 35 marijuana portions, so no kilogram figure is recorded.
   - The 90 crack rocks and 47 cocaine pins were seized in the same bag and are not counted as cannabis.
   - The suspect was not identified by name, and no court outcome beyond his detention at the Central de Flagrantes was reported.
