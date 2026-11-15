@@ -42,15 +42,19 @@ sources:
     url: https://www.dvidshub.net/news/114719/joint-task-force-bravo-supports-marijuana-eradication-operation-belize
     publisher: DVIDS
     date: 2013-10-03
+  - title: Joint operation impacts the Belize drug trade
+    url: https://amandala.com.bz/news/joint-operation-impacts-belize-drug-trade/
+    publisher: Amandala Newspaper
+    date: 2013-10-11
 open_questions:
-  - No arrests, charges or court outcomes were reported for the operation.
-  - The reports do not name the districts where the 22 fields were located.
-  - The source gives the value as $13 million without naming the currency; it is recorded as USD as a US military estimate.
+    - No arrests, charges or court outcomes were reported for the operation.
+    - The reports do not name the districts where the 22 fields were located, saying only that they were spread across the country.
+    - The $13 million is an initial estimated value given for the destroyed plants, with the currency stated as U.S. dollars, not a confirmed market price.
 ---
 
 The U.S. Embassy Military Liaison Office in Belmopan and Joint Task Force-Bravo
 partnered with Belizean military forces in a marijuana eradication operation in
-Belize from 25 to 28 September 2013. [@1] Personnel from the Belize Defence
+Belize from 25 to 28 September 2013. [@1,2] Personnel from the Belize Defence
 Force Special Assignment Group, the Belize Coast Guard SEALs and the Belize
 National Police Anti-Drug Unit served as the ground force for the operation.
 [@1] Joint Task Force-Bravo provided aviation support, on-call casualty
@@ -58,13 +62,12 @@ evacuation and insertion and extraction training for the 38 Belizean military
 and law enforcement personnel who took part. [@1]
 
 Belizean forces destroyed 22 marijuana fields holding approximately 37,970
-mature marijuana plants. [@1] The destroyed plants had an initial estimated
-value of $13 million. [@1] The team also found and destroyed four pounds of
-marijuana seeds. [@1]
+mature marijuana plants. [@1,2] The destroyed plants had an initial estimated
+value of $13 million. [@1,2] The team also found and destroyed four pounds of
+marijuana seeds. [@1,2]
 
 The training involved using a caving ladder lowered from a helicopter to insert
 ground forces into otherwise inaccessible areas. [@1] The U.S. military provided
 the transportation and reconnaissance the ground teams needed, and the teams
 worked through very thick jungle to reach objectives that were difficult to
 access. [@1]
-
