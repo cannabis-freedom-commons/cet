@@ -43,16 +43,20 @@ sources:
     publisher: liepajniekiem.lv
     date: 2026-11-13
     language: lv
+  - title: Pie 17 gadus veca jaunieša Liepājā atrod narkotiskās vielas
+    url: https://irliepaja.lv/kriminals/pie-17-gadus-veca-jauniesa-liepaja-atrod-narkotisk/
+    publisher: irLiepāja
+    date: 2026-11-14
+    language: lv
 open_questions:
-  - The reports give no separate date for the street check; 30 October 2026 is the only date stated for it and the article was published on 13 November 2026.
-  - 'No figure for the number of people held, charged or questioned was published: the article names no measure of restraint for the teenager or the other two young people.'
-  - The source does not say where the teenager obtained the marijuana or how much of it he had used.
-  - No court date, verdict or penalty outcome was reported; the investigation was described as continuing.
-  - The whole account rests on a single source, which presents the State Police account; no second opened account was found.
+    - The reports give no separate date for the street check; 30 October 2026 is the only date stated for it and the article was published on 13 November 2026.
+    - 'No figure for the number of people held, charged or questioned was published: the article names no measure of restraint for the teenager or the other two young people.'
+    - The source does not say where the teenager obtained the marijuana or how much of it he had used.
+    - No court date, verdict or penalty outcome was reported; the investigation was described as continuing.
 ---
 
 On 30 October, a Liepāja municipal police patrol on Lauku iela noticed three
-young people, two of them holding open bottles of alcohol. [@1] Because one of
+young people, two of them holding open bottles of alcohol. [@1,2] Because one of
 the boys had previously come to the attention of the law enforcers as a minor,
 the municipal officers carried out a check and called the State Police. [@1]
 Checking the 17-year-old, the officers found on him and removed ten foil packets
@@ -62,12 +66,11 @@ Suspected of being under the influence of intoxicating substances, the teenager
 was taken to a medical institution for an examination. [@1] A chemical
 examination confirmed the minor had unlawfully stored dried marijuana: ten
 packets with a total weight of 7.3213 grams, containing tetrahydrocannabinol.
-[@1]
+[@1,2]
 
 Officers of the State Police South Kurzeme regional branch opened an
 administrative violation process against the teenager for the unauthorised use
 of narcotic substances, and a criminal process for their unauthorised storage
-without intent to sell. [@1] Under the Criminal Law such an offence carries
+without intent to sell. [@1,2] Under the Criminal Law such an offence carries
 deprivation of liberty for up to three years, short-term imprisonment, probation
 supervision, community service or a fine. [@1] The investigation continues. [@1]
-
