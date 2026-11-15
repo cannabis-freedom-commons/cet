@@ -104,6 +104,11 @@ sources:
     publisher: toManifesto.gr
     date: 2026-11-14
     language: el
+  - title: Συνελήφθη 47χρονος που έκρυβε 12,6 κιλά κάνναβης σε σπηλιά στην Κινέτα
+    url: https://www.ioannina24.gr/%CE%B5%CE%B9%CE%B4%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B1-%CE%BA%CE%BF%CF%83%CE%BC%CE%BF%CF%82/%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7-%CE%BA%CF%8C%CF%83%CE%BC%CE%BF%CF%82/1652712-%CF%83%CF%85%CE%BD%CE%B5%CE%BB%CE%AE%CF%86%CE%B8%CE%B7-47%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%82-%CF%80%CE%BF%CF%85-%CE%AD%CE%BA%CF%81%CF%85%CE%B2%CE%B5-12,6-%CE%BA%CE%B9%CE%BB%CE%AC-%CE%BA%CE%AC%CE%BD%CE%BD%CE%B1%CE%B2%CE%B7%CF%82-%CF%83%CE%B5-%CF%83%CF%80%CE%B7%CE%BB%CE%B9%CE%AC-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CE%B9%CE%BD%CE%AD%CF%84%CE%B1
+    publisher: ioannina24.gr
+    date: 2026-11-13
+    language: el
 media:
   - kind: photo
     url: https://www.neakriti.gr/koinonia/2211153_kineta-ekrybe-126-kila-kannabis-se-spilaio-synelifthi-47hronos
@@ -143,7 +148,7 @@ had hidden drug quantities for further distribution. [@1,3,4,5,7,8,11,12,13,14,1
 and distributed raw cannabis to various people, mainly around Agioi Theodoroi in
 Corinthia and in Attica. [@1,3,5,6,7,9,12,14,15,16] The arrest took place on the afternoon of
 Wednesday 11 November 2026 during an organized operation by the Narcotics
-Prosecution Subdirectorate in the Attica area. [@1,3,14] Police said the arrest followed a tip-off about drug-trafficking in the area. [@8]
+Prosecution Subdirectorate in the Attica area. [@1,3,14,17] Police said the arrest followed a tip-off about drug-trafficking in the area. [@8]
 
 At the site officers found a total of 12.6 kilograms of raw cannabis and
 cannabis clones, along with signal-jamming and surveillance devices. [@1,9,10,12,13] The
