@@ -58,30 +58,30 @@ sources:
     publisher: Thestival
     date: 2026-11-13
     language: el
-open_questions:
-  - No exact street or neighbourhood in eastern Thessaloniki was named, so the report uses the city centre coordinates.
-  - The 203.6 grams of cocaine seized in the same stash is excluded from the cannabis weight; only the 4.246 kg of raw cannabis and 203 grams of processed cannabis are counted.
-  - No plea, detention measure or court outcome beyond referral to the prosecutor was reported.
+  - title: Συνελήφθη για διακίνηση κοκαΐνης και κάνναβης – Λόγος της Πέλλας
+    url: https://logospellas.gr/%CE%95%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/%CF%83%CF%85%CE%BD%CE%B5%CE%BB%CE%AE%CF%86%CE%B8%CE%B7-%CE%B3%CE%B9%CE%B1-%CE%B4%CE%B9%CE%B1%CE%BA%CE%AF%CE%BD%CE%B7%CF%83%CE%B7-%CE%BA%CE%BF%CE%BA%CE%B1%CE%90%CE%BD%CE%B7%CF%82-%CE%BA%CE%B1%CE%B9-3/
+    publisher: Λόγος της Πέλλας
+    date: 2026-11-13
+    language: el
 ---
 
 Officers of the Polygyros Crime Investigation and Prosecution Division arrested
 a 23-year-old Greek man at midday on 12 November 2026 for drug trafficking and
 possession. [@1] The arrest followed coordinated action by the division's Drug
-Prosecution Team. [@1] Officers located a house he used as a drug-storage stash,
+Prosecution Team. [@1,4] Officers located a house he used as a drug-storage stash,
 known locally as a kavantza, in an area of eastern Thessaloniki. [@1] A second
 account confirms the same Thursday midday arrest in eastern Thessaloniki by the
 same Polygyros unit. [@3]
 
 From the stash house police seized five packs of raw cannabis weighing 4
-kilograms and 246 grams. [@1] They also seized two packs of processed cannabis
-weighing 203 grams. [@1] Two packs of cocaine weighing 203.6 grams were seized
+kilograms and 246 grams. [@1,4] They also seized two packs of processed cannabis
+weighing 203 grams. [@1,4] Two packs of cocaine weighing 203.6 grams were seized
 alongside the cannabis and are not counted in the cannabis total. [@1] Police
-seized one air-extraction device from the premises. [@1] They seized two
-precision electronic scales. [@1] Two mobile phones were seized from the
-arrested man himself. [@1]
+seized one air-extraction device from the premises. [@1,4] They seized two
+precision electronic scales. [@1,4] Two mobile phones were seized from the
+arrested man himself. [@1,4]
 
 A case file was opened against him and he was to be brought before the
 Thessaloniki First Instance Prosecutor. [@1] The second outlet describes the
 same Polygyros operation as an arrest for trafficking and possession of cocaine
 and cannabis quantities. [@2]
-
