@@ -49,6 +49,14 @@ sources:
     publisher: Rondonoticias.com.br
     date: 2026-11-13
     language: pt
+media:
+  - kind: photo
+    url: https://rondonoticias.com.br/noticia/policia/162546/motorista-e-preso-com-108-quilos-de-maconha-e-cocaina-na-br-364
+    media_url: https://rnstatic.sfo3.digitaloceanspaces.com/Upload/Noticias/Capa/2026/11/13/17945677636af6ee537a240-11132026-094726.jpg
+    publisher: Rondonoticias.com.br
+    caption: >-
+      Stacks of wrapped drug bricks beside a PRF SUV and a white Fiat Strada pickup after the BR-364
+      km 759 stop near Porto Velho. Photo: PRF / Rondonoticias
 ---
 
 A Federal Highway Police routine check on the BR-364 near Porto Velho, Rondônia,

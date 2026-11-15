@@ -48,6 +48,7 @@ sources:
 open_questions:
   - No charge outcome, arrest measure or court date was reported; the case was at the investigation stage with a criminal file opened.
   - The suspect is described only as a 22-year-old foreign national; no name was given in the account.
+  - Larissanet illustrated the Larissa pursuit with a December 2025 file photograph, so no event photo is listed.
 ---
 
 On the afternoon of 11 November 2026 in Larissa, police of the two-wheeled

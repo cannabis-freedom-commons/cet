@@ -53,6 +53,14 @@ sources:
     publisher: Sorejomin Barta
     date: 2026-11-12
     language: bn
+media:
+  - kind: photo
+    url: https://sorejominbarta.com/country/article/66663
+    media_url: https://sorejominbarta.com/public/uploads/2026-11/IMG-20261112-WA0010_original_1794464101.webp
+    publisher: Sorejomin Barta
+    caption: >-
+      Md. Al-Amin handcuffed after the West Dashra mobile-court case over 10 g of ganja. Photo:
+      Sorejomin Barta
 open_questions:
   - Only one accessible source for this event was found after searching in Bengali.
   - The 10 grams is described by the outlet as ganja, with no separate laboratory confirmation reported.

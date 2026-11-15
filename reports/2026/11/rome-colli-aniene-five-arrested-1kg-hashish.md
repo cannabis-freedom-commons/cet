@@ -61,6 +61,14 @@ sources:
     publisher: RomaToday
     date: 2026-11-11
     language: it
+media:
+  - kind: photo
+    url: https://tiburno.tv/2026/11/11/roma-est-in-5-trasportano-un-chilo-di-hashish-nellauto-arrestati/
+    media_url: https://tiburno.tv/wp-content/uploads/2026/11/ghghghgh.jpeg
+    publisher: Tiburno.tv
+    caption: >-
+      Bags of hashish blocks and other packets with euro notes and a digital scale from the Colli
+      Aniene car stop, displayed by a Polizia officer. Photo: Polizia di Stato / Tiburno.tv
 open_questions:
   - The reports give no separate date for the car stop; 11 November 2026 is the date of the police statement and of publication and stands in for the incident date.
   - The hashish is given as about one kilogram in ten blocks, with no exact measured weight or laboratory confirmation reported.
@@ -69,6 +77,10 @@ open_questions:
   - The police statement says the arrests were validated by the judicial authority but gives no later court decision, precautionary measure or plea.
   - The same statement reports other, separate drug operations in Rome and its province, with 11 arrests in total and a combined seizure of more than a kilogram of different drugs; that combined figure is not treated as cannabis here and those operations are left out.
   - The account rests on the Rome police headquarters statement; the outlets reproduce it rather than adding independent reporting.
+  - >-
+    RomaToday illustrated the same Colli Aniene stop with a close-up of gloved hands holding a brown
+    package on a jacket lettered POLICIA, which does not match Italian Polizia markings, so it is not
+    listed as media.
 ---
 
 Officers of the Volanti squad stopped a car carrying five men in via di Grotta

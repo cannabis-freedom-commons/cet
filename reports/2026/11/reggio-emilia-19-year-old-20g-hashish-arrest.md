@@ -39,6 +39,7 @@ sources:
     language: it
 open_questions:
   - What happened after the validation hearing, including any charge, pre-trial measure or trial outcome, was not reported.
+  - Reggionline illustrated the Stazione Storica arrest with a Polizia car at a station entrance photographed in February 2025, with no hashish visible, so no event photo is listed.
 ---
 
 On the morning of Wednesday 11 November 2026, at about 9:30 a.m., State Police

@@ -54,6 +54,8 @@ sources:
     publisher: PillaMaro.it
     date: 2026-11-14
     language: it
+open_questions:
+  - Zoom24 used a 2019 Polfer file photograph and Il Reggino a Trenitalia Intercity stock image, so no photo of this Paola train marijuana arrest is listed.
 ---
 
 Antonino Michelizzi, a 38-year-old from the Reggio area, was supposed to be

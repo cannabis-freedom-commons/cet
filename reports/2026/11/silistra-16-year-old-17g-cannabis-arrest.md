@@ -34,6 +34,7 @@ sources:
     language: bg
 open_questions:
   - No charges beyond the pre-trial procedure for unlawful possession were reported, and no court outcome or further action is stated.
+  - Kvorum illustrated the Silistra arrest with a news graphic over a generic night roadside police stop, so no event photo is listed.
 ---
 
 A 16-year-old was found with 1.7 grams of cannabis during a police check in

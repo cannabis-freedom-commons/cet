@@ -43,6 +43,15 @@ sources:
     publisher: Correo
     date: 2026-11-13
     language: es
+media:
+  - kind: photo
+    url: https://diariocorreo.pe/edicion/ica/nasca-detienen-a-venezolano-con-marihuana-y-cocaina-en-el-distrito-de-vista-alegre-noticia/
+    media_url: https://diariocorreo.pe/resizer/v2/AUT6IP7OO5DCXA3G6CSD4WHIOY.jpg?auth=0864a0e93fadc6bfb01d48a05aabd9ea1d70d1e7fcd8e1e99bf820f853df6429&width=980&height=528&quality=75&smart=true
+    publisher: Correo
+    caption: >-
+      Vista Alegre PNP officers with the detained man beside labelled marijuana cigarettes, cocaine
+      wraps, a phone and barber tools, and the seized scooter against the station banner. Photo: PNP /
+      Correo
 open_questions:
   - No weight was published for the four bags of apparent marijuana or the eight bags of suspected cocaine, so no cannabis kilogram figure is recorded.
   - The marijuana and cocaine identifications are presumptive, described only by apparent characteristics, with no forensic confirmation reported.

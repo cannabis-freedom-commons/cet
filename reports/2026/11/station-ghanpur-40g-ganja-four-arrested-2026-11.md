@@ -51,6 +51,7 @@ open_questions:
   - It does not say where the sale took place, how police learned of it, or whether the ganja was recovered from one person or several.
   - No NDPS Act section, case number or court is named, and no hearing or outcome after the remand is reported.
   - The account rests on one outlet's report of a Station Ghanpur police statement; no second outlet or police release was found.
+  - Andhra Prabha illustrated the Station Ghanpur (Jangaon) arrests with a Warangal police press-conference lineup, so no photo confirmed for this Station Ghanpur case is listed.
 ---
 
 Police in Station Ghanpur, Jangaon district, Telangana, arrested four men

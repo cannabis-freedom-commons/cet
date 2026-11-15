@@ -45,6 +45,14 @@ sources:
     publisher: AV News
     date: 2026-11-14
     language: hi
+media:
+  - kind: photo
+    url: https://avnews.in/cannabis-being-transported-on-a-yamaha-motorcycle-two-smugglers-arrested-cannabis-seized/
+    media_url: https://avnews.in/wp-content/uploads/2026/11/chor.jpg
+    publisher: AV News
+    caption: >-
+      The two men arrested over the Tarana Yamaha motorcycle ganja load, photographed in the back of
+      a vehicle after the Natakhedi crossing stop. Photo: AV News
 open_questions:
   - The report gives no separate date for the interception; 14 November 2026 is its publication date and is used as the incident date.
   - No value estimate for the seized ganja was published.

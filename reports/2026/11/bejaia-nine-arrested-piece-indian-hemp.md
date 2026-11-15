@@ -43,6 +43,14 @@ sources:
     publisher: الغد الجزائري
     date: 2026-11-11
     language: ar
+media:
+  - kind: photo
+    url: https://elghadeldjazairi.dz/%D8%A8%D8%AC%D8%A7%D9%8A%D8%A9-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A5%D8%AC%D8%B1%D8%A7%D9%85%D9%8A%D8%A9-%D9%85%D9%86-9-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%85%D8%AE%D8%AA/
+    media_url: https://cdn.elghadeldjazairi.dz/wp-content/uploads/2026/11/%D8%A8%D8%AC%D8%A7%D9%8A%D8%A9.jpg
+    publisher: El Ghad El Djazairi
+    caption: >-
+      Handcuffed suspects lined up before a BRI evidence table of bags and phones after the Béjaïa
+      drug-trafficking arrests. Photo: Béjaïa security / El Ghad El Djazairi
 open_questions:
   - No separate date is given for the arrests or searches; 11 November 2026 is the article's publication date.
   - No weight or count was published for the piece of Indian hemp, so no cannabis weight is recorded.

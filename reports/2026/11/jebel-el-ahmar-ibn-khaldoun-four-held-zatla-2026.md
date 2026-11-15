@@ -41,6 +41,7 @@ open_questions:
   - The operation is dated only as 'yesterday' relative to the 12 November 2026 publication, so 11 November is used as the incident date.
   - No weight, count or value was published for the zatla, the narcotics tablets or the seized cash, so no cannabis quantity or cash figure is recorded.
   - The four suspects are not named and no charge, hearing or court outcome was reported; the case is at the investigation stage.
+  - Babnet illustrated the Jebel el Ahmar arrests with an AI-generated National Guard lineup watermarked Image AI Creation, so no event photo is listed.
 ---
 
 Officer units of the El Omrane Judicial Police brigade in Tunis carried out a
