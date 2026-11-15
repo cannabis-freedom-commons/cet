@@ -51,28 +51,34 @@ sources:
     publisher: Noticias Data
     date: 2026-11-13
     language: es
+  - title: Secuestraron casi dos kilos de marihuana y detuvieron a un joven tras un allanamiento
+    url: https://www.examedia.com.ar/portada/post/88232075
+    publisher: Examedia
+    date: 2026-11-13
+    language: es
 open_questions:
   - The article gives no separate calendar date for the search beyond 'el jueves' (Thursday); the article was published on 13 November 2026, so 12 November 2026 is used as the incident date.
   - No laboratory confirmation of the marijuana was reported; the figure is the weight recorded by the microtraffic unit.
   - No charge or court outcome was reported for T.B.C. or his father; both were at the investigation stage.
   - No second independent account of this event was found.
+  - The street number of the searched home on calle León Zorrilla is reported only approximately, with published versions giving about 1400 and about 1495.
+  - No second independent account of this event has been published; the available versions reproduce the same police statement.
 ---
 
 Officers of the División Microtráfico Metropolitana searched a home on calle
 León Zorrilla, about number 1400, in the Plan 10 Viviendas barrio of Resistencia
 between 18:00 and 20:30 on Thursday, within an investigation into an alleged
-infringement of the narcotics law. [@1]
+infringement of the narcotics law. [@1,2]
 
 During the search, officers seized two packages of marijuana buds weighing a
-total of 1.972 kilograms. [@1] Officers also seized a digital scale, scissors,
+total of 1.972 kilograms. [@1,2] Officers also seized a digital scale, scissors,
 cuttings, a mobile phone and two security cameras, and the police estimated the
-material could represent about 4,000 retail doses. [@1]
+material could represent about 4,000 retail doses. [@1,2] Investigators valued the seized drug at about 700,000 pesos and estimated its retail sale could reach 1,500,000 pesos. [@2]
 
 At the same address officers also found a .22 calibre revolver and ammunition of
-different calibres: six .22 rounds and three 9 mm rounds. [@1] The main person
+different calibres: six .22 rounds and three 9 mm rounds. [@1,2] The main person
 under investigation, identified by the initials T.B.C., aged 21, was apprehended
-and placed at the disposal of Anti-Drug Prosecutor's Office No. 1. [@1]
+and placed at the disposal of Anti-Drug Prosecutor's Office No. 1. [@1,2] The Fiscalía Antidrogas No. 1 is led by Natalia Andrea Lovey Pessano. [@2]
 Separately, Criminal Prosecutor's Office No. 15 ordered that the young man's
 father be notified, at liberty, of the proceedings over possession of the
-firearm, because he did not have the corresponding documentation. [@1]
-
+firearm, because he did not have the corresponding documentation. [@1,2] The father was identified as Aldo Antonio Cantero and the Fiscalía Penal No. 15 is led by Candela Valdez. [@2]
