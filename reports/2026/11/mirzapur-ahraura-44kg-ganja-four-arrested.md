@@ -57,6 +57,11 @@ sources:
     publisher: Dynamite News Hindi
     date: 2026-11-14
     language: hi
+  - title: Mirzapur Crime News | Ganja Smuggling Gang Arrested With Honda City Car
+    url: https://www.bhaskar.com/local/uttar-pradesh/mirzapur/news/mirzapur-police-arrest-drug-smugglers-ganja-seized-car-139685954.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-14
+    language: hi
 open_questions:
   - The article gives no separate date for the interception; 14 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in Hindi and English, and it reproduces the police account.
@@ -85,5 +90,4 @@ The action followed the Mirzapur superintendent of police's orders for effective
 action against criminals and against the smuggling and sale of illegal
 narcotics, carried out under the leadership of the superintendent of police
 (operations) and the circle officer (operations) by the Ahraura police team.
-[@1] Police said the ganja was being carried hidden in the car's boot. [@1]
-
+[@1] Police said the ganja was being carried hidden in the car's boot. [@1,2]
