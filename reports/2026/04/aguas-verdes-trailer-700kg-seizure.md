@@ -56,6 +56,11 @@ sources:
     publisher: ECUAVISA
     date: 2026-04-02
     language: es
+  - title: Ecuatoriano detenido en Perú con más de 500 kg de marihuana
+    url: https://www.eldiario.ec/seguridad/detienen-a-ecuatoriano-en-peru-con-mas-de-media-tonelada-de-marihuana-oculta-en-trailer-03042026/
+    publisher: El Diario
+    date: 2026-04-03
+    language: es
 media:
   - kind: photo
     url: https://andina.pe/agencia/noticia-detienen-a-extranjero-590-paquetes-marihuana-durante-operativo-policial-tumbes-1069405.aspx
@@ -67,14 +72,6 @@ media:
     media_url: https://assets.ecuavisa.com/__export/1775177221564/sites/ecuavisa/img/2026/04/02/blurred-frame_-11-.jpg_1103262774.jpg
     publisher: ECUAVISA
     caption: Screenshot from a video showing the marijuana seized from an Ecuadorian in Peru.
-open_questions:
-  - Infobae and regional police statements describe more than 700 kg while Andina counts 590
-    one-kilogram bricks; the total weight opened in both sources is not given as a single precise
-    figure.
-  - Infobae relays General Luis Enrique Pacheco Cornejo via Latina Noticias; Andina gives the
-    driver's full name and vehicle plates without repeating every compartment detail from the TV
-    report.
-  - No separate government press release beyond Andina and the news relay was opened.
 ---
 
 In the early hours of 1 April 2026, anti-drug officers from the Tumbes AREANDRO
@@ -85,13 +82,13 @@ Verdes, Zarumilla, Tumbes. [@1,2]
 He was at the wheel of cargo truck D2I-924 towing semitrailer TLB-975. [@1]
 Officers found 590 brick-shaped packages, each weighing about one kilogram, of
 material consistent with *Cannabis sativa*; a Detect 4 Drugs field test was
-positive for marijuana. [@1,2] Infobae, citing regional police chief Luis
+positive for marijuana. [@1,2,4] Infobae, citing regional police chief Luis
 Enrique Pacheco Cornejo through Latina Noticias, describes the load as more than
 700 kg hidden in adapted compartments of the cab and sleeper, valued above one
-million soles and destined for Chile after transit from Colombia. [@2]
+million soles and destined for Chile after transit from Colombia. [@2,4]
 
-Andina puts the illegal-market value at about US$1,180,000. [@1,3] The driver
+Andina puts the illegal-market value at about US$1,180,000. [@1,3,4] The driver
 remained silent and the cargo was handed to prosecutors specialising in drug
-trafficking. [@1,2]
+trafficking. [@1,2,4]
 
-The 33-year-old suspect, identified as Ángel P., was driving a trailer with semitrailer that had entered Peruvian territory from Huaquillas, El Oro. [@3] Each package bore a logo with a marijuana-leaf figure and three lateral stripes in red, blue and yellow. [@3]
+The 33-year-old suspect, identified as Ángel P., was driving a trailer with semitrailer that had entered Peruvian territory from Huaquillas, El Oro. [@3,4] Each package bore a logo with a marijuana-leaf figure and three lateral stripes in red, blue and yellow. [@3]
