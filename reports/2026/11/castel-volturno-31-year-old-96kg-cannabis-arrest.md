@@ -71,12 +71,11 @@ sources:
     url: https://www.msn.com/it-it/notizie/other/maxi-sequestro-di-droga-a-castel-volturno-la-polizia-ritira-oltre-11-chili-tra-hashish-marijuana-e-cocaina/ar-AA2hqOhf
     publisher: MSN
     language: it
-open_questions:
-  - No calendar date is stated for the raid; 13 November 2026 is derived from 'yesterday afternoon' in accounts published on 14 November 2026.
-  - The cannabis weights are reported as approximate figures of about 6.2 and 3.4 kilograms.
-  - The 1.6 kilograms of cocaine seized in the same search is excluded from the cannabis total; the combined total above 11 kilograms is not attributed to cannabis.
-  - No court outcome beyond the transfer to Santa Maria Capua Vetere prison was reported; the case stood at the investigation stage.
-  - The suspect is identified only as a 31-year-old local man, with no name given.
+  - title: Saisie Record de Stupéfiants sur la Côte Casertaine
+    url: https://www.ilmattino.it/fr/saisie_record_de_stupefiants_sur_la_cote_casertaine-9889706.html?next_page=1
+    publisher: Il Mattino
+    date: 2026-11-14
+    language: fr
 ---
 
 Officers of the investigative squad of the Castel Volturno police station
@@ -91,7 +90,7 @@ dog units brought in from Naples and Ladispoli. [@1]
 Once the suspected storage point was identified, officers entered the
 31-year-old's property and carried out a home search. [@1] Inside the flat they
 found a large mixed load of about 6.2 kilos of hashish, 3.4 kilos of marijuana
-and 1.6 kilos of cocaine. [@1,5] A precision scale and everything needed to cut
+and 1.6 kilos of cocaine. [@1,5,6] A precision scale and everything needed to cut
 and package individual doses was kept alongside the drugs. [@1] CasertaFocus
 reports the same breakdown of about 6.2 kilograms of hashish, 3.4 kilograms of
 marijuana and 1.6 kilograms of cocaine, over 11 kilograms in total. [@2]
@@ -99,6 +98,6 @@ marijuana and 1.6 kilograms of cocaine, over 11 kilograms in total. [@2]
 After formalities at the station, the suspect was taken to the local prison on
 the order of the prosecutor's office at the Santa Maria Capua Vetere court. [@1]
 Il Mattino likewise says the 31-year-old was taken to the Santa Maria Capua
-Vetere prison. [@3,5] AstraNews gives the same seizure figures of about 6.2
+Vetere prison. [@3,5,6] AstraNews gives the same seizure figures of about 6.2
 kilograms of hashish, 3.4 kilograms of marijuana and 1.6 kilograms of cocaine, a
 total above 11 kilos. [@4]
