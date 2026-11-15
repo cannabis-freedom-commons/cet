@@ -36,6 +36,7 @@ sources:
     date: 2026-11-04
     language: pt
 open_questions:
+  - Correio do Lago illustrates the Toledo stop with a Polícia Militar do Paraná patrol-car file photograph, so no event photo is listed.
   - The article gives no separate date for the patrol; 4 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in Portuguese.
   - The names and ages of the two men were not published.

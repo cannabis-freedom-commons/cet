@@ -37,6 +37,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 990073cc540e32d9a6b1bcb2070a3396
 tags: [san-luis-potosi, ciudad-valles, matehuala, guardia-civil, narcomenudeo]
+media:
+  - kind: photo
+    url: https://planoinformativo.com/1180401/guardia-civil-atrapa-a-cinco-presuntos-delincuentes
+    media_url: https://planoinformativo.com/stock12/image/2026/NOVIEMBRE/07/CINCODETENIDOS.jpg
+    publisher: Plano Informativo
+    caption: >-
+      Four of the detainees with marijuana doses, other drugs and tire spikes from the Ciudad Valles
+      and Matehuala stops. Photo: Plano Informativo / Guardia Civil Estatal
 sources:
   - title: Capturan a cinco "narcos" en Valles y Matehuala
     url: https://pulsoslp.com.mx/seguridad/capturan-a-cinco-narcos-en-valles-y-matehuala-/2105270

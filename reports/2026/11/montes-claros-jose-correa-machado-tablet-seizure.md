@@ -29,6 +29,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4d56df988bfbbbad4cbad14f91c6b19d
 tags: [montes-claros, minas-gerais, maconha]
+media:
+  - kind: photo
+    url: https://geraisnews.com.br/2026/11/05/policia-militar-apreende-tablete-de-maconha-com-jovem-de-26-anos-no-bairro-jose-correa-machado-em-montes-claros/
+    media_url: https://geraisnews.com.br/wp-content/uploads/sites/3/2026/11/Maconha-e1793889559515.jpeg
+    publisher: Gerais News
+    caption: >-
+      The small pressed cannabis tablet seized in José Corrêa Machado, displayed with a PMMG crest.
+      Photo: Gerais News / Polícia Militar MG
 sources:
   - title: Polícia Militar apreende tablete de maconha com jovem de 26 anos no bairro José Corrêa Machado em Montes Claros - Gerais News
     url: https://geraisnews.com.br/2026/11/05/policia-militar-apreende-tablete-de-maconha-com-jovem-de-26-anos-no-bairro-jose-correa-machado-em-montes-claros/

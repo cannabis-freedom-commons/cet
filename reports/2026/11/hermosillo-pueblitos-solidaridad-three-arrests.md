@@ -26,6 +26,7 @@ sources:
     date: 2026-11-09
     language: es
 open_questions:
+  - Expreso illustrates the Hermosillo arrests with a December 2023 file photo of another drug stop, so no event photo is listed.
   - No weight or street value was published for the 20 marijuana wrappers, so only the wrappers are counted.
   - The substances are described only as possibly or apparently crystal and marijuana, with no laboratory confirmation reported.
   - No charges or court outcome were reported beyond the detentions.

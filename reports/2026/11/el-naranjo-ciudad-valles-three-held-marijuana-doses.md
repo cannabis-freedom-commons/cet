@@ -31,6 +31,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: adac241b34ba49ec9687267ec9d3eeca
 tags: [san-luis-potosi, el-naranjo, ciudad-valles, guardia-civil]
+media:
+  - kind: photo
+    url: https://elheraldoslp.com.mx/new/2026/11/09/detienen-a-tres-personas-en-el-naranjo-y-ciudad-valles-aseguran-droga-y-ponchallantas/
+    media_url: https://elheraldoslp.com.mx/new/wp-content/uploads/2026/11/DETIENEN-A-TRES-PERSONAS-EN-EL-NARANJO-Y-CIUDAD-VALLES-ASEGURAN-DROGA-Y-PONCHALLANTAS.jpeg
+    publisher: El Heraldo de San Luis Potosí
+    caption: >-
+      The three detainees with marijuana doses, tire spikes and a damaged vehicle from the El
+      Naranjo and Ciudad Valles stops. Photo: El Heraldo SLP / Guardia Civil Estatal
 sources:
   - title: DETIENEN A TRES PERSONAS EN EL NARANJO Y CIUDAD VALLES; ASEGURAN DROGA Y PONCHALLANTAS
     url: https://elheraldoslp.com.mx/new/2026/11/09/detienen-a-tres-personas-en-el-naranjo-y-ciudad-valles-aseguran-droga-y-ponchallantas/
@@ -48,7 +56,6 @@ open_questions:
   - The 55 cristal doses and the combined 72-drug-dose total are excluded from cannabis figures because they cannot be separated into cannabis weight.
   - No charges, custody ruling or court outcome were reported; the detainees were placed at the disposal of the corresponding authorities and the investigation was still under way.
   - No amount was given for the marijuana seized from José “N” in Ciudad Valles.
-  - The Heraldo page lists one photo with no caption or credit tying it to this detention, so no event media is listed.
   - Both outlets largely repeat the same Guardia Civil Estatal account, so they are not independent reporting, and no separate official communiqué was opened.
 ---
 

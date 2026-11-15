@@ -60,6 +60,7 @@ sources:
     date: 2026-11-14
     language: it
 open_questions:
+  - L'Eco di Caserta illustrates the Trentola Ducenta arrest with a Carabinieri wardrobe search that shows no hashish or the couple, so no event evidence photo is listed.
   - The 11.15 grams of cocaine found in the car are excluded from the cannabis weight; only the 258.98 grams of hashish are counted as kg_seized.
   - No outcome of the fast-track hearing set for the morning of 14 November was reported in the opened sources.
   - Both opened accounts reproduce the same Carabinieri account, so they are not fully independent reporting.

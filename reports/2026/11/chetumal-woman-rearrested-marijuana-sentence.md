@@ -38,6 +38,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: eb93ade186dea2458eed590b7992a541
 tags: [quintana-roo, chetumal, fgr, reaprehension, marijuana]
+media:
+  - kind: photo
+    url: https://noticaribe.com.mx/2026/11/09/fgr-reaprehende-a-mujer-sentenciada-por-comercio-de-marihuana-en-quintana-roo/
+    media_url: https://noticaribe.com.mx/wp/wp-content/uploads/2026/11/ACCIWhatsApp-Image-2026-11-09-at-1.28.48-PM.jpg
+    publisher: Noticaribe
+    caption: >-
+      FGR mugshot graphic for Joce “N”, rearrested to serve her marijuana-dealing sentence. Photo:
+      Noticaribe / FGR
 sources:
   - title: FGR reaprehende a mujer sentenciada por comercio de marihuana en Quintana Roo
     url: https://noticaribe.com.mx/2026/11/09/fgr-reaprehende-a-mujer-sentenciada-por-comercio-de-marihuana-en-quintana-roo/

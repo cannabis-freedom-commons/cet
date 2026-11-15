@@ -44,6 +44,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a488fdee2cf09772ee77a08a9c4d4c6d
 tags: [bahia, porto-seguro, arraial-dajuda, marijuana, hashish]
+media:
+  - kind: photo
+    url: https://furo31.com/policia-prende-suspeito-de-trafico-e-apreende-drogas-em-arraial-dajuda/
+    media_url: https://furo31.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-08.21.02.webp
+    publisher: FURO31
+    caption: >-
+      The 19-year-old detainee in a police transport cage after the Arraial d'Ajuda delivery arrest.
+      Photo: FURO31
 sources:
   - title: 'Entregas sob suspeita: Investigado por homicídio é preso por tráfico de drogas em Arraial d''Ajuda'
     url: https://www.rastro101.com.br/noticia/67695/entregas-sob-suspeita--investigado-por-homicidio-e-preso-por-trafico-de-drogas-em-arraial-dajuda

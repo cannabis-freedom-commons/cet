@@ -31,6 +31,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f850a27287b24a34e38bd124062a1ee5
 tags: [campos-dos-goytacazes, rio-de-janeiro, maconha]
+media:
+  - kind: photo
+    url: https://www.nfnoticias.com.br/noticia-57191/homem-e-preso-por-divida-de-pensao-apos-ser-flagrado-fumando-maconha-perto-de-escola-em-campos
+    media_url: https://www.nfnoticias.com.br/images/noticias/57191_041126082502_preso_1.jpg
+    publisher: NF Notícias
+    caption: >-
+      Officers guide the handcuffed man into a van after the Praça Barão do Rio Branco stop. Photo:
+      NF Notícias
 sources:
   - title: Homem é preso por dívida de pensão após ser flagrado fumando maconha perto de escola em Campos
     url: https://www.nfnoticias.com.br/noticia-57191/homem-e-preso-por-divida-de-pensao-apos-ser-flagrado-fumando-maconha-perto-de-escola-em-campos

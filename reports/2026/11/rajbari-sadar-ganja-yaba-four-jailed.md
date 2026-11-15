@@ -41,6 +41,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f699fff6712f073d0c1d059510aacaf7
 tags: [rajbari, summary-trial, ganja, yaba, baliakandi]
+media:
+  - kind: photo
+    url: https://www.alokitobangladesh.com/country-news/357481/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A7%AA-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A6%BE%E0%A6%A6%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A6%A3%E0%A7%8D%E0%A6%A1
+    media_url: https://www.alokitobangladesh.com/image-contents/600x315x1x1/news-photos/2026/11/11/image-357481-1794394808.jpg
+    publisher: Alokito Bangladesh
+    caption: >-
+      The four men jailed in the Rajbari ganja and yaba operation, photographed at a police station.
+      Photo: Alokito Bangladesh
 sources:
   - title: রাজবাড়ীতে ইয়াবা-গাঁজাসহ আটক ৪, বিভিন্ন মেয়াদে কারাদণ্ড
     url: https://www.alokitobangladesh.com/country-news/357481/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A7%AA-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A6%BE%E0%A6%A6%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A6%A3%E0%A7%8D%E0%A6%A1
