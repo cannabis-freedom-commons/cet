@@ -50,6 +50,11 @@ media:
     caption: >-
       Hashish bricks, marijuana jars, cocaine bags, cash, a vacuum sealer and a
       scale from the Montesilvano flat seizure. Photo: Abruzzo Web / Polizia di Stato
+  - kind: photo
+    url: https://www.abruzzonews.eu/maxi-sequestro-di-droga-nel-pescarese-arrestato-un-uomo-con-750-grammi-di-cocaina-e-15-chili-di-hashish-697734.html
+    media_url: https://www.abruzzonews.eu/wp-content/uploads/2026/11/sequestro-droga-14-novembre-2026.jpg
+    publisher: Abruzzo News
+    caption: Photo published with the report on the 14 November 2026 drug seizure in Montesilvano.
 sources:
   - title: 'PESCARA: ARRESTATO PREGIUDICATO IN POSSESSO DI 1,5 KG HASHISH E 750 GRAMMI COCAINA'
     url: https://www.abruzzoweb.it/pescara-arrestato-pregiudicato-in-possesso-di-15-kg-hashish-e-750-grammi-cocaina/
@@ -71,12 +76,6 @@ sources:
     publisher: Abruzzo News
     date: 2026-11-14
     language: it
-media:
-  - kind: photo
-    url: https://www.abruzzonews.eu/maxi-sequestro-di-droga-nel-pescarese-arrestato-un-uomo-con-750-grammi-di-cocaina-e-15-chili-di-hashish-697734.html
-    media_url: https://www.abruzzonews.eu/wp-content/uploads/2026/11/sequestro-droga-14-novembre-2026.jpg
-    publisher: Abruzzo News
-    caption: Photo published with the report on the 14 November 2026 drug seizure in Montesilvano.
 ---
 
 Pescara Mobile Squad police arrested an unemployed Pescara man with prior
