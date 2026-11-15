@@ -73,39 +73,31 @@ sources:
     publisher: CNN en Español
     date: 2025-08-26
     language: es
-open_questions:
-  - The $473 million valuation covers cocaine and marijuana together and cannot be separated into a marijuana-only value, so it is kept in the text and omitted from figures.
-  - The cocaine quantity and its 23 million lethal doses are mentioned only as context and are excluded from cannabis figures.
-  - Telemundo states the haul's value as nearly $500 million early in the text; the report uses the Coast Guard's final estimate of about $473 million.
-  - Telemundo says 34 suspected traffickers were detained but that authorities did not specify the total number detained across all 19 interdictions.
-  - The 19 interdictions ran between June and August 2025 and their individual locations are not all named; 25 August 2025 is the offload date, not the date of the seizures.
-  - No charges, prosecutions or court outcomes beyond the detentions were reported.
-  - The Telemundo page's lead image is an uncaptioned Getty Images stock photo not shown to be this offload, so no photo entry is listed for it.
-  - 'Left out, as its quotation was not found in gCaptain: The 76,140-pound offload, taken from 19 interdictions between June and August 2025, was the largest quantity of drugs offloaded in Coast Guard history.'
-  - El Nuevo Herald places one of the Acapulco-area marihuana and cocaine figures in waters off Venezuela rather than itemising it, so its cannabis portion cannot be separated from the 17,153-pound combined figure and is left out of the report's figures.
-  - El Nuevo Herald's two named marijuana seizures, 9,088 and 2,615 pounds (5,300 kg combined), do not account for the whole of the offloaded marijuana, and the article does not say where the rest was taken.
-  - The CNN page gives rounded approximate tonnages (about 27 tons of cocaine and 6 tons of marijuana) rather than the pound figures in the report, so the report's precise figures are retained.
-  - The short video page names no cutter, interdiction count, detentions or court outcomes and adds no new detail beyond corroborating the place, quantities, record description and combined valuation.
+  - title: '«Может убить все местное население»: в США изъяли рекордный груз наркотиков — RTVI'
+    url: https://rtvi.com/news/mozhet-ubit-vse-mestnoe-naselenie-v-ssha-izyali-rekordnyj-gruz-narkotikov/
+    publisher: RTVI
+    date: 2025-08-27
+    language: ru
 ---
 
 The crew of the U.S. Coast Guard Cutter Hamilton offloaded seized narcotics at
 Port Everglades, Florida, on Monday 25 August 2025. [@2,4,5] CBS Miami reported the
 drugs were brought to port by the Coast Guard Cutter Hamilton after 19
-interdictions in the Eastern Pacific Ocean and the Caribbean Sea. [@3] The
+interdictions in the Eastern Pacific Ocean and the Caribbean Sea. [@3,7] The
 interdicted vessels were stopped off Ecuador's Galapagos Islands and off the
 coasts of Venezuela, Mexico, the Dominican Republic, Jamaica and Aruba. [@1,4,5]
 
 Capt. John B. McWhite said his crew interdicted 11 go-fast vessels and detained
-34 suspected drug traffickers. [@2] Telemundo reported that 34 suspected
+34 suspected drug traffickers. [@2,7] Telemundo reported that 34 suspected
 traffickers were held but that the authorities did not state how many suspects
 were detained in all the interdictions together. [@1,5] Hamilton's crew offloaded
 about 14,400 pounds of bulk marijuana, roughly 6,532 kg, alongside 61,740 pounds
-of cocaine. [@3,4,5,6] The Coast Guard valued the cocaine and marijuana together at
-$473 million, a combined figure that is not a marijuana-only estimate. [@2,4,5,6]
+of cocaine. [@3,4,5,6,7] The Coast Guard valued the cocaine and marijuana together at
+$473 million, a combined figure that is not a marijuana-only estimate. [@2,4,5,6,7]
 
 Rear Adm. Adam Chamie said the cocaine alone amounted to 23 million potentially
 lethal doses, enough to give the entire population of Florida a fatal overdose.
-[@3] The operations drew on Coast Guard assets and international partners,
+[@3,7] The operations drew on Coast Guard assets and international partners,
 including the Royal Netherlands Navy ship HNLMS Friesland and the U.S. Navy
 vessels USS Cole and USS Minneapolis Saint-Paul. [@2] The Coast Guard described
 the interdictions as part of Operation Pacific Viper, an initiative to speed up
