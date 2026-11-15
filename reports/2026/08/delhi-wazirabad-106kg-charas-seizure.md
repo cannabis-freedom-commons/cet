@@ -56,13 +56,10 @@ sources:
     url: https://assamtribune.com/national/indo-nepal-drug-syndicate-busted-in-delhi-10625-kg-charas-seized-1615653
     publisher: The Assam Tribune
     date: 2026-08-14
-open_questions:
-  - The incident date uses the August 12 Wazirabad raid, the latest enforcement step; the operation began with the June 29 Kotla Mubarakpur arrests.
-  - No charges beyond the reported NDPS FIR, custody status or court outcome were reported.
-  - The exact roles, whereabouts and financial links of alleged suppliers Binmaya and Hari were still under investigation.
-  - The financial trail and other possible financiers, suppliers, transporters and distributors had not been identified in the opened reports.
-  - A second thumbnail on The Hindu page is a spacer graphic for a pictorial representation, not an event photograph, so only the seizure photograph is listed.
-  - The Assam Tribune page carries an IANS photograph captioned with the seizure headline; it is not listed separately because it cannot be established as a distinct event photograph from the seizure display already recorded.
+  - title: Delhi police bust Indo-Nepal charas syndicate, seize 106 kg contraband worth Rs 109 crore
+    url: https://www.newindianexpress.com/cities/delhi/2026/Aug/15/delhi-police-bust-indo-nepal-charas-syndicate-seize-106-kg-contraband-worth-rs-109-crore
+    publisher: The New Indian Express
+    date: 2026-08-15
 ---
 
 Delhi Police's South District police dismantled part of an international charas
@@ -79,9 +76,9 @@ both Nepalese nationals, emerged as alleged suppliers, and police said their
 exact roles, whereabouts and financial links were still being established. [@1]
 
 In total, police recovered 106.250 kg of high-quality charas valued by police at
-around Rs 109 crore. [@2,3] The August 12 raid on the Wazirabad premises recovered
-97.652 kg of high-quality charas packed in 13 plastic bags. [@1,3] Officers also
-recovered a mixing machine and packing material at the premises. [@1,3]
+around Rs 109 crore. [@2,3,4] The August 12 raid on the Wazirabad premises recovered
+97.652 kg of high-quality charas packed in 13 plastic bags. [@1,3,4] Officers also
+recovered a mixing machine and packing material at the premises. [@1,3,4]
 
 Investigators said the network sourced charas through suppliers in Nepal,
 including the Kakri area of Rukum, and moved it toward Delhi through the Sonauli
