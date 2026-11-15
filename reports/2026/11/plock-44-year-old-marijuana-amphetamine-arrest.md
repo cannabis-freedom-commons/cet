@@ -76,22 +76,27 @@ sources:
     publisher: Komenda Miejska Policji w Płocku
     date: 2026-11-13
     language: pl
+  - title: Amfetamina i marihuana w szafce na budowie! 44-latek usłyszał bardzo poważne zarzuty!
+    url: https://zwolenski.mojelipsko.info/amfetamina-i-marihuana-w-szafce-na-budowie-44-latek-uslyszal-bardzo-powazne-zarzuty/
+    publisher: Kurier Zwoleński
+    date: 2026-11-14
+    language: pl
 ---
 
 Officers of the life-and-health crime unit of the Płock municipal police handled
 the case. [@1,7] Working with security staff, officers established that a worker
 present at a construction site might possess drugs. [@1,7] Officers found drugs in
 the employee's work locker, according to police spokeswoman Monika Jakubowska.
-[@1,6,7] Officers detained the 44-year-old man. [@3,5,8]
+[@1,6,7] Officers detained the 44-year-old man. [@3,5,8,9]
 
-Police then searched the man's flat and found more drugs there. [@1,5,6,8] Officers
+Police then searched the man's flat and found more drugs there. [@1,5,6,8,9] Officers
 seized a combined total of nearly 200 grams of amphetamine and marijuana, with
-no separate weight given for the marijuana. [@1,5,6,8] Police put the combined
+no separate weight given for the marijuana. [@1,5,6,8,9] Police put the combined
 black-market value at about 7,500 zloty, without separating the marijuana share.
 [@2,5,6,8]
 
 The evidence allowed officers to charge the man with possession and supply of
-intoxicants, the Polish legal term for drugs. [@1,5,7] Corroborating outlets confirm
+intoxicants, the Polish legal term for drugs. [@1,5,7,9] Corroborating outlets confirm
 the same work-locker and flat seizure of amphetamine and marijuana involving the
 same 44-year-old. [@4] The detained man had previous convictions for drug
 offences, so police said he would answer under recidivism rules. [@1,5,6,7] Płock
