@@ -69,28 +69,33 @@ sources:
     publisher: Il Mattino
     date: 2026-11-14
     language: fr
-open_questions:
-    - The incident date of 13 November 2026 is inferred from the report published on 14 November 2026 saying the arrest happened on the evening of the previous day; no separate calendar date is given.
-    - The 9.70 grams of cocaine seized in the same search is excluded from the cannabis figures; only the 22.00 grams of hashish and 15.50 grams of marijuana are counted.
-    - The cannabis amounts are stated as seized doses without reported laboratory confirmation.
-    - No outcome of the validation hearing, charges beyond the arrest allegation, or later court result was reported.
+  - title: Arrestation d’un récidiviste pour détention de stupéfiants
+    url: https://www.ilmattino.it/fr/arrestation_d_un_recidiviste_pour_detention_de_stupefiants-9889894.html
+    publisher: Il Mattino
+    date: 2026-11-14
+    language: fr
+  - title: Avellino, arrestato pregiudicato per detenzione illecita di sostanze stupefacenti al fine di spaccio
+    url: https://www.irpinianews.it/avellino-arrestato-pregiudicato-per-detenzione-illecita-di-sostanze-stupefacenti-al-fine-di-spaccio/
+    publisher: IrpiniaNews
+    date: 2026-11-14
+    language: it
 ---
 
 Within investigative activities coordinated by the Public Prosecutor's Office at
 the Court of Avellino to combat drug dealing, officers of the Mobile Squad of
 the Avellino police headquarters arrested a 26-year-old man with a criminal
 record from Avellino in flagrante delicto for unlawful possession of drugs for
-dealing. [@1] The arrest took place in Avellino on the evening of 13 November
+dealing. [@1,6,7] The arrest took place in Avellino on the evening of 13 November
 2026, the evening before the 14 November 2026 publication. [@1]
 
 A personal search of the young man found seven doses of cocaine weighing a total
 of 9.70 grams, four doses of hashish weighing a total of 22.00 grams, and 15.50
-grams of marijuana. [@1,2,3,4,5] A later search of the 26-year-old's home allowed
+grams of marijuana. [@1,2,3,4,5,6,7] A later search of the 26-year-old's home allowed
 officers to find and seize two precision scales, a knife soaked with hashish,
-packaging material and 110.00 euros in small-denomination banknotes. [@1,2,4,5]
+packaging material and 110.00 euros in small-denomination banknotes. [@1,2,4,5,6]
 
 On the order of the duty prosecutor, the arrested man was placed under house
-arrest at his home pending the validation hearing. [@1] The accusations were
+arrest at his home pending the validation hearing. [@1,7] The accusations were
 described as provisional at the preliminary-investigation stage, subject to
 appeal, and the man under investigation is presumed innocent until a final
 judgment. [@1]
