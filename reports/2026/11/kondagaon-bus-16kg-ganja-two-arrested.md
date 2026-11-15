@@ -44,16 +44,26 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-14
     language: hi
+  - title: 'केशकाल पुलिस की बड़ी कार्रवाई : 16 किलो गांजा और मोबाइल समेत लाखों का माल जब्त, यूपी के दो तस्कर गिरफ्तार'
+    url: https://www.haribhoomi.com/state-local/chhattishgarh/news/keshkal-police-arrested-two-interstate-ganja-smugglers-seized-16-kg-ganja-worth-8-lakh-121841
+    publisher: Haribhoomi
+    date: 2026-11-14
+    language: hi
 open_questions:
-    - No separate date for the arrests is given beyond a 13 November informant tip; 14 November 2026 is the publication date and stands in for the incident date.
-    - The accounts name no specific police station or unit behind the arrest.
+    - No separate date for the arrests is given beyond a 13 November 2026 informant tip; 14 November 2026 is the publication date and stands in for the incident date.
     - It is not stated whose estimate values the ganja at 8 lakh rupees.
     - The exact numbers of mobile phones, SIM cards, earphones and the amount of cash seized were not reported.
-    - Both accounts are from Dainik Bhaskar, so the event still rests on a single outlet's reporting.
+    - All accounts reproduce the same police version of events, with no independent account reported.
+media:
+  - kind: photo
+    url: https://www.haribhoomi.com/state-local/chhattishgarh/news/keshkal-police-arrested-two-interstate-ganja-smugglers-seized-16-kg-ganja-worth-8-lakh-121841
+    media_url: https://img.haribhoomi.com/uploadimage/library/16_9/16_9_5/___________________________________________________________________________1794653378.webp
+    publisher: Haribhoomi
+    caption: Two alleged ganja smugglers in police custody after the Keshkal seizure.
 ---
 
 Two alleged ganja smugglers who were waiting for a bus in Kondagaon were
-arrested. [@1,2] The accused were identified as Siddharth Singh (25) of Bhimnagar, Mainpuri district, and Ashok (46) of Abdul Navipur, Mathura district in Uttar Pradesh. [@2] Police said an informant tip on 13 November reported two suspects with blue and black backpacks waiting for a bus near Batarali Chowk on NH-30. [@2] Sixteen kilograms of ganja, along with SIM cards and ATM cards,
-were recovered from the accused. [@1,2] Siddharth was carrying seven Fino Payments Bank and two NSDL Payments Bank ATM cards. [@2] Alongside the ganja, police also found mobile phones, SIM cards of different companies, several ATM cards, earphones and cash. [@2] Two packets were found in Siddharth's blue bag and sack and one packet in Ashok's black bag, together weighing 16 kilograms. [@2]
+arrested. [@1,2] The arrests were made by Keshkal police, working under the supervision of Additional Superintendent of Police Kapil Chandra and Keshkal Sub-Divisional Officer Arun Kumar Netam on the directions of Superintendent of Police Pankaj Chandra. [@3] The accused were identified as Siddharth Singh (25) of Bhimnagar, Mainpuri district, and Ashok (46) of Abdul Navipur, Mathura district in Uttar Pradesh. [@2,3] Police said an informant tip on 13 November reported two suspects with blue and black backpacks waiting for a bus near Batarali Chowk on NH-30. [@2,3] Sixteen kilograms of ganja, along with SIM cards and ATM cards,
+were recovered from the accused. [@1,2] Siddharth was carrying seven Fino Payments Bank and two NSDL Payments Bank ATM cards. [@2] Alongside the ganja, police also found mobile phones, SIM cards of different companies, several ATM cards, earphones and cash. [@2] Police also seized mobile phones, SIM cards, ATM cards, earbuds and cash from the accused. [@3] Two packets were found in Siddharth's blue bag and sack and one packet in Ashok's black bag, together weighing 16 kilograms. [@2,3]
 
-The seized ganja was valued at 8 lakh rupees (Rs 800,000). [@1,2] They were produced in court and sent to judicial custody. [@2] Both were booked under Section 20(b) of the NDPS Act. [@2]
+The seized ganja was valued at 8 lakh rupees (Rs 800,000). [@1,2,3] They were produced in court and sent to judicial custody. [@2,3] Both were booked under Section 20(b) of the NDPS Act. [@2,3]
