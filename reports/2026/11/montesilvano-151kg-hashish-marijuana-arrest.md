@@ -58,23 +58,29 @@ sources:
     publisher: Notizie d'Abruzzo
     date: 2026-11-14
     language: it
-open_questions:
-  - No separate date for the search or arrest was published; 14 November 2026 is the publication date of both accounts and is used as the incident date.
-  - The 1.51 kg cannabis total combines the separately stated 1.5 kg of hashish and 10 g of marijuana; the 750 g of cocaine is excluded from cannabis figures.
-  - The reports describe the cannabis as hashish and marijuana with no laboratory confirmation reported.
-  - No court outcome beyond detention in the Pescara prison was reported; the case was at the investigation stage.
+  - title: 'Maxi sequestro di droga nel Pescarese: arrestato un uomo con 750 grammi di cocaina e 1,5 chili di hashish'
+    url: https://www.abruzzonews.eu/maxi-sequestro-di-droga-nel-pescarese-arrestato-un-uomo-con-750-grammi-di-cocaina-e-15-chili-di-hashish-697734.html
+    publisher: Abruzzo News
+    date: 2026-11-14
+    language: it
+media:
+  - kind: photo
+    url: https://www.abruzzonews.eu/maxi-sequestro-di-droga-nel-pescarese-arrestato-un-uomo-con-750-grammi-di-cocaina-e-15-chili-di-hashish-697734.html
+    media_url: https://www.abruzzonews.eu/wp-content/uploads/2026/11/sequestro-droga-14-novembre-2026.jpg
+    publisher: Abruzzo News
+    caption: Photo published with the report on the 14 November 2026 drug seizure in Montesilvano.
 ---
 
 Pescara Mobile Squad police arrested an unemployed Pescara man with prior
 convictions who lives in Montesilvano, caught in flagrante holding a notable
-quantity of drugs meant for dealing. [@1] After targeted surveillance, anti-drug
+quantity of drugs meant for dealing. [@1,4] After targeted surveillance, anti-drug
 officers entered the home he used in the Montesilvano urban area, which they
 said was used as a base for an established trafficking and dealing operation.
-[@1] After the operation, in agreement with the Pescara judicial authority, the
-arrested man was taken to the local prison at the authority's disposal. [@1,3]
+[@1,4] After the operation, in agreement with the Pescara judicial authority, the
+arrested man was taken to the local prison at the authority's disposal. [@1,3,4]
 
 In the home officers found 750 grams of cocaine, 1.5 kg of hashish and 10 grams
-of marijuana, together with material for packaging doses. [@1,3] The search also
+of marijuana, together with material for packaging doses. [@1,3,4] The search also
 found 12,330 euros in cash, considered proceeds of dealing and preventively
 seized, with police saying the man had no regularly recorded income for several
 years. [@1,3]
