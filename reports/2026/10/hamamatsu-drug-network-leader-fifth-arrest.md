@@ -108,6 +108,11 @@ sources:
     date: 2026-11-14
     language: ja
     archived: https://web.archive.org/web/20261114004404id_/https://news.yahoo.co.jp/articles/0802726c8dba72050169fe7e9fa7875f144dcf5a
+  - title: '"有名キャラクターの袋"に違法薬物を入れて販売か 密売Gリーダーとみられる25歳女を逮捕=静岡・浜松市'
+    url: https://article.auone.jp/c02c5781-0dc9-433d-b7c8-056d3981e904
+    publisher: au Webポータル
+    date: 2026-11-14
+    language: ja
 ---
 
 Shizuoka Prefectural Police Drug and Firearms Countermeasures Section and
@@ -115,7 +120,7 @@ Hamamatsu East Police Station announced the arrest of a 25-year-old woman born
 in Hamamatsu on 13 November 2026 for possession of amphetamine, marijuana, and
 LSD for profit in June 2026. [@2,7] The arrest is dated 27 October 2026, her fifth
 arrest this year since February 2026, and police believe she trafficked drugs in
-western Shizuoka from around 2024. [@2] Police then found the woman at a love hotel in Hamamatsu on 10 February 2026 and arrested her. [@5] The investigation began after stimulants and cannabis were found in November 2024 inside a rental car left at a convenience store in Hamamatsu, which led police to implicate the woman. [@5]
+western Shizuoka from around 2024. [@2,12] Police then found the woman at a love hotel in Hamamatsu on 10 February 2026 and arrested her. [@5] The investigation began after stimulants and cannabis were found in November 2024 inside a rental car left at a convenience store in Hamamatsu, which led police to implicate the woman. [@5]
 
 Police say she was in possession of about 0.4 grams of amphetamine, about 0.6
 grams of marijuana, and LSD inside a parked car in Hamamatsu City in June 2026
@@ -127,7 +132,7 @@ The woman is considered the leader of the trafficking ring, having recruited
 more than five men — including middle-school juniors and customers — to sell
 drugs on her behalf. [@1] She is believed to have frequently changed hideouts and cars to evade arrest. [@11] The group's customers were mainly young people in western Shizuoka, with some also in Aichi and elsewhere. [@11] She used social media to find buyers and handled
 communications through a privacy-focused messaging app, with all her accounts
-using Sanrio character names. [@1] She is believed to have consistently sold the drugs in bags printed with a particular character and in colourful small sachets. [@6] Police believe the character-themed packaging may have been used to lower wariness about illegal drugs and to make them look novel to expand sales, and are investigating additional offences. [@10] The items displayed to the press on 13 November included zip-lock bags designed with a famous character. [@6]
+using Sanrio character names. [@1] She is believed to have consistently sold the drugs in bags printed with a particular character and in colourful small sachets. [@6,12] Police believe the character-themed packaging may have been used to lower wariness about illegal drugs and to make them look novel to expand sales, and are investigating additional offences. [@10] The items displayed to the press on 13 November included zip-lock bags designed with a famous character. [@6]
 
 Police believe the woman sold drugs via other dealers, and that the seizure of
 over 12 million yen in retail value came from residential searches at related
