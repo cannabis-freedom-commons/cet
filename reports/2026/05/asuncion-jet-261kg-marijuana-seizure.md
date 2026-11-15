@@ -33,6 +33,11 @@ media:
     media_url: https://www.abc.com.py/resizer/v2/7PQFF43WIBHIXJSRT74RLYTHHQ.jpg?auth=5be50b5eed15ffc66bd39dea078c2c0bd772dbc372e7011d5956a5ce9d179c25&width=770&smart=true
     publisher: ABC Color
     caption: 'Detained US citizens Troy Anthony Vásquez (centre) and David Thomas Wise (right) attend a court hearing at the Palace of Justice in Asunción on 1 June 2026. Photo: Juan Pablo Pino'
+  - kind: photo
+    url: https://rcc.com.py/nacionales/incautan-261-kilos-de-marihuana-premium-estaban-en-una-aeronave-proveniente-de-panama/
+    media_url: https://cdn.rcc.com.py/2026/05/droga-port-1140x725.jpg
+    publisher: RCC
+    caption: 'Photo published with the RCC report on the 261-kg premium marijuana seizure from the Panama-via aircraft. Photo: RCC'
 details:
   activity: [trafficking, possession]
   agencies: [py-senad]
@@ -107,6 +112,11 @@ sources:
     url: https://senad.gov.py/senad-intercepta-jet-procedente-de-estados-unidos-con-261-kilos-de-marihuana-premium/
     publisher: SENAD
     language: es
+  - title: Incautan 261 kilos de marihuana premium, estaban en una aeronave proveniente de Panamá – RCC
+    url: https://rcc.com.py/nacionales/incautan-261-kilos-de-marihuana-premium-estaban-en-una-aeronave-proveniente-de-panama/
+    publisher: RCC
+    date: 2026-05-30
+    language: es
 open_questions:
     - The total number of people detained is ambiguous because Brown's brief detention and the three United States citizens remaining in custody overlap in time, so the arrested figure records only the three reported as remaining in custody.
     - Judge Rosarito Montanía ordered pretrial detention for the three detained passengers, but no plea, trial or final court outcome was reported.
@@ -137,7 +147,7 @@ according to a SENAD representative. [@1,3,4,5]
 
 Paraguayan authorities discovered 261.6 kilograms of high-THC cannabis valued at
 US$3.6 million being unloaded from the aircraft at Silvio Pettirossi
-International Airport in Asuncion on 29 May. [@1,6] The aircraft had departed
+International Airport in Asuncion on 29 May. [@1,6,11] The aircraft had departed
 Miami, stopped in Panama and then arrived in Paraguay, and investigators believe
 the marijuana was destined for Brazil. [@1,3,5,9,10] Paraguayan anti-drug prosecutor
 Ingrid Cubilla said the estimated value reflected demand in Brazil, where each
@@ -149,7 +159,7 @@ executive aircraft was unusual among seizures recorded in the country. [@1] Anti
 English edition confirms that Brown was released on May 31, according to a
 representative of Paraguay's drug enforcement agency. [@2]
 
-A Paraguayan judge, Rosarito Montanía, ordered the pretrial detention of Marisol Rivas, Troy Anthony Vásquez and David Thomas Wise because they had no ties to Paraguay. [@3,9] Defence lawyer Rafael Fernández, representing two of the US citizens, questioned Brown's release after prosecutor Ingrid Gisselle Cubilla Villamayor said he cooperated throughout the investigation. [@9] The men were held at the Centro Nacional de Prevenidos in Asunción, and Rivas was sent to the prison at Emboscada, in the Cordillera department. [@3,9] Fernández said his clients claimed the pilot had hired all three passengers to travel to Paraguay on holiday. [@9] The passengers were named as Marisol Rivas, 39, from New York; Troy Anthony Vásquez, 42, from Florida; and David Thomas Wise, 58, from California. [@3,7] Wise chartered the aircraft through a California company for USD 91,485, according to prosecutor Ingrid Cubilla. [@3] Paraguayan authorities arrested three of the US travellers in Asunción hotels and the co-pilot at the airport. [@3,6] The three detained passengers face international trafficking and unauthorised possession charges under articles 21 and 27 of Paraguay's Drug Law 1,340, according to ABC. [@3,4] SENAD agents intercepted the Challenger 604 in an airport hangar after a crew member tried to remove luggage containing eight packages of the marijuana. [@3,4,6] SENAD said the airport raid took place under Programa Colibrí, an inter-agency initiative uniting SENAD, the Paraguayan Air Force, civil aviation authority DINAC, customs and tax agency DNIT, and the National Police. [@10]
+A Paraguayan judge, Rosarito Montanía, ordered the pretrial detention of Marisol Rivas, Troy Anthony Vásquez and David Thomas Wise because they had no ties to Paraguay. [@3,9] Defence lawyer Rafael Fernández, representing two of the US citizens, questioned Brown's release after prosecutor Ingrid Gisselle Cubilla Villamayor said he cooperated throughout the investigation. [@9] The men were held at the Centro Nacional de Prevenidos in Asunción, and Rivas was sent to the prison at Emboscada, in the Cordillera department. [@3,9] Fernández said his clients claimed the pilot had hired all three passengers to travel to Paraguay on holiday. [@9] The passengers were named as Marisol Rivas, 39, from New York; Troy Anthony Vásquez, 42, from Florida; and David Thomas Wise, 58, from California. [@3,7,11] Wise chartered the aircraft through a California company for USD 91,485, according to prosecutor Ingrid Cubilla. [@3] Paraguayan authorities arrested three of the US travellers in Asunción hotels and the co-pilot at the airport. [@3,6] The three detained passengers face international trafficking and unauthorised possession charges under articles 21 and 27 of Paraguay's Drug Law 1,340, according to ABC. [@3,4] SENAD agents intercepted the Challenger 604 in an airport hangar after a crew member tried to remove luggage containing eight packages of the marijuana. [@3,4,6] SENAD said the airport raid took place under Programa Colibrí, an inter-agency initiative uniting SENAD, the Paraguayan Air Force, civil aviation authority DINAC, customs and tax agency DNIT, and the National Police. [@10,11]
 
 Senad identified Siilats as a co-founder of the micromobility company Bolt Mobility in the United States. [@4] The four detainees were taken from SENAD's operations base to the Public Prosecutor's Office, where prosecutors took their statements. [@4,5]
 
@@ -157,4 +167,4 @@ Three of the passengers, Marisol Rivas, Anthony Vásquez and David Thomas Wise, 
 
 Senad said it was still searching for other people implicated in the shipment. [@6,10]
 
-The marijuana was found being unloaded from the aircraft in several suitcases that were to be moved on by land, and Senad said the load was valued at about US$3.6 million on the illicit market. [@7] Senad said the aircraft was piloted by Estonian technology businessman Keith Siilats, who was not located during the operations that led to the detentions and who, according to intelligence, left Paraguay on Saturday morning hours before the hangar intervention. [@7] El Horizonte reports that the flight left Miami, stopped in Panama and then landed in Paraguay, without explaining how that fits its statement that the aircraft came from the United States. [@7] RCC reported that Siilats would also be the owner of the aircraft used to carry the load, and that authorities were trying to establish who was to receive the marijuana. [@8]
+The marijuana was found being unloaded from the aircraft in several suitcases that were to be moved on by land, and Senad said the load was valued at about US$3.6 million on the illicit market. [@7,11] Senad said the aircraft was piloted by Estonian technology businessman Keith Siilats, who was not located during the operations that led to the detentions and who, according to intelligence, left Paraguay on Saturday morning hours before the hangar intervention. [@7] El Horizonte reports that the flight left Miami, stopped in Panama and then landed in Paraguay, without explaining how that fits its statement that the aircraft came from the United States. [@7] RCC reported that Siilats would also be the owner of the aircraft used to carry the load, and that authorities were trying to establish who was to receive the marijuana. [@8]
