@@ -47,6 +47,7 @@ sources:
     date: 2026-11-03
     language: es
 open_questions:
+  - Los Noticieristas illustrates the Villa Unión sentence with a stock photo of hands on jail bars, so no event photo is listed.
   - The article gives no separate date for the bus inspection and arrest; 3 November 2026, the date of the FGR announcement and the article's publication, is used as the sentence date.
   - The fine of 83 UMA was published without a peso amount, so no fine figure is recorded.
   - Only the initials Jesús “N” were published, with no age or further identity given.

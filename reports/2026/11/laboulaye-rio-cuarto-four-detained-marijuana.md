@@ -35,6 +35,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2a409168fa942d8921adcae486a87543
 tags: [cordoba, laboulaye, fpa, marijuana, narcomenudeo]
+media:
+  - kind: photo
+    url: https://www.infobae.com/sociedad/policiales/2026/11/05/desarticularon-una-banda-narco-familiar-en-cordoba-y-secuestraron-casi-250-dosis-de-drogas/
+    media_url: https://www.infobae.com/resizer/v2/6J3IS5FFI5ADLD6NKJX6UJZFB4.jpg?auth=fa75407aa8184a35580baea8fe07c766c32a217981d33501b7bd4783307c2d56&smart=true&width=1200&height=630&quality=85
+    publisher: Infobae
+    caption: >-
+      An FPA officer escorts a covered detainee after the Laboulaye–Río Cuarto raids. Photo: Infobae
+      / FPA
 sources:
   - title: Laboulaye. Cuantiosas dosis de droga, armas y detenidos tras allanamientos de la FPA
     url: https://www.nexosdelsur.com/nota/231491

@@ -55,6 +55,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3e1d7938201c1318121d180e0483f114
 tags: [yucatan, izamal, fgr, transporte, sentencia]
+media:
+  - kind: photo
+    url: https://yucatan.quadratin.com.mx/sucesos/sentencian-a-10-anos-de-prision-a-hombre-por-transportar-droga-en-yucatan/
+    media_url: https://yucatan.quadratin.com.mx/www/wp-content/uploads/2026/11/BeFunky-collage.jpg
+    publisher: Quadratín Yucatán
+    caption: >-
+      FGR collage of the seized cannabis packages and Samuel “N” from the Izamal transport case.
+      Photo: Quadratín Yucatán / FGR
 sources:
   - title: Sentencian a 10 años de prisión a hombre por transportar droga en Yucatán
     url: https://yucatan.quadratin.com.mx/sucesos/sentencian-a-10-anos-de-prision-a-hombre-por-transportar-droga-en-yucatan/

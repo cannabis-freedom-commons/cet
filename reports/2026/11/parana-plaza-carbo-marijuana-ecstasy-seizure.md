@@ -37,6 +37,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0dfc8a47045a2c951adadd6b73eb606c
 tags: [entre-rios, parana, narcomenudeo, plazas-seguras, marihuana]
+media:
+  - kind: photo
+    url: https://03442.com.ar/2026/11/parana-secuestraron-extasis-y-marihuana-en-la-plaza-carbo-durante-un-operativo-contra-el-narcomenudeo/
+    media_url: https://03442.com.ar/wp-content/uploads/2026/11/ext.jpg
+    publisher: 03442 | NOTICIAS
+    caption: >-
+      Entre Ríos anti-drug officers field-testing seized substances at Plaza Carbó. Photo: 03442 |
+      NOTICIAS / Policía de Entre Ríos
 sources:
   - title: 'Paraná: secuestraron éxtasis y marihuana en la Plaza Carbó durante un operativo contra el narcomenudeo'
     url: https://03442.com.ar/2026/11/parana-secuestraron-extasis-y-marihuana-en-la-plaza-carbo-durante-un-operativo-contra-el-narcomenudeo/

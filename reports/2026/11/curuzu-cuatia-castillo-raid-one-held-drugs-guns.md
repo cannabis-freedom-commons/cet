@@ -32,6 +32,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8ca7342302a357ac7a9d7754f8b63b84
 tags: [corrientes, curuzu-cuatia, marijuana, cocaine]
+media:
+  - kind: photo
+    url: https://www.ellitoral.com.ar/policiales/2026-11-8-20-17-0-secuestraron-cocaina-marihuana-y-armas-tras-un-allanamiento-en-corrientes
+    media_url: https://pxcdn.ellitoral.com.ar/litoral/112026/1794180152142.jpg
+    publisher: El Litoral
+    caption: >-
+      DIC Curuzú Cuatiá officers with the detained 21-year-old after the Calle Castillo raid. Photo:
+      El Litoral
 sources:
   - title: Secuestraron cocaína, marihuana y armas tras un allanamiento en Corrientes | El Litoral
     url: https://www.ellitoral.com.ar/policiales/2026-11-8-20-17-0-secuestraron-cocaina-marihuana-y-armas-tras-un-allanamiento-en-corrientes

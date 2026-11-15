@@ -40,6 +40,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 73df0fa68b3646350e142aced35f3000
 tags: [amambay, capitan-bado, senad]
+media:
+  - kind: photo
+    url: https://www.latribuna.com.py/sucesos/policiales/2026/11/04/condenan-a-5-anos-de-prision-a-dos-hombres-por-narcotrafico/
+    media_url: https://www.latribuna.com.py/resizer/v2/35PDHBKIU5HJDFTDJEAPBGTFS4.jpg?smart=true&auth=27863425792476327491805d75e741e993191225c692009de7c03e59837e3a8d&width=1200&height=630
+    publisher: La Tribuna
+    caption: >-
+      SENAD agents with the two hooded detainees from the Capitán Bado marijuana case. Photo: La
+      Tribuna / SENAD
 sources:
   - title: Condenan a 5 años de prisión a dos hombres por narcotráfico
     url: https://www.latribuna.com.py/sucesos/policiales/2026/11/04/condenan-a-5-anos-de-prision-a-dos-hombres-por-narcotrafico/

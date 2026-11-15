@@ -37,6 +37,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b77aaaca8a5423e280181f4c1805275c
 tags: [resistencia, chaco, marijuana, street-check, article-189-bis]
+media:
+  - kind: photo
+    url: https://noticiasdigitalchaco.com/el-com-detuvo-a-tres-sujetos-que-circulaban-en-auto-con-un-arma-y-droga-en-resistencia/
+    media_url: https://noticiasdigitalchaco.com/wp-content/uploads/2026/11/detenidos134.jpg
+    publisher: Noticias Digital Chaco
+    caption: >-
+      The three detainees with the seized Clio, revolver and marijuana jar after the Lonardi–Borrini
+      stop. Photo: Noticias Digital Chaco
 sources:
   - title: 'CHACO: Tres Hombres Demorados: Secuestraron Un Revólver Y Marihuana'
     url: https://www.noticiasdelparana.com.ar/NuevaEdicion/2026/11/08/chaco-tres-hombres-demorados-secuestraron-un-revolver-y-marihuana/

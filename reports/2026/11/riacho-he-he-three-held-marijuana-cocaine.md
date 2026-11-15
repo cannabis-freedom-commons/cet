@@ -54,6 +54,7 @@ sources:
     date: 2026-11-08
     language: es
 open_questions:
+  - Exprés Diario illustrates the Riacho He Hé arrests with a photo of the Comisaría Riacho Hehé facade and no marijuana or detainees visible, so no event photo is listed.
   - No date is given for the arrests or the search; 8 November 2026 is the publication date of both reports and is used as the incident date.
   - No weight is given for the marijuana or the cocaine seized, so no cannabis quantity is recorded.
   - The marijuana and cocaine are described as found by police and positive on orientation tests only, with no laboratory confirmation or breakdown between items seized at the scene and in the search of the lodging.

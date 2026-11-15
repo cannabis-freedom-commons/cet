@@ -37,6 +37,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5f6ee015b970431a00b0dbf12ee10daa
 tags: [tucuman, concepcion, parcel-trafficking, ley-23737]
+media:
+  - kind: photo
+    url: https://www.comunicaciontucuman.gob.ar/noticia/seguridad/244231/secuestran-cocaina-marihuana-camion-encomiendas-frontera-salta
+    media_url: https://www.comunicaciontucuman.gob.ar/fotos/cache/notas/2026/11/11/818x460_261111075412_75188.png
+    publisher: Comunicación Tucumán
+    caption: >-
+      Marijuana packages displayed by Policía de Tucumán after the Cabo Vallejo parcel interception.
+      Photo: Comunicación Tucumán
 sources:
   - title: 'Transportaban cocaína y marihuana en un camión de encomiendas: dos hombres fueron detenidos en Concepción - Los Primeros TV'
     url: https://www.losprimeros.tv/policiales/transportaban-cocaina-y-marihuana-en-un-camion-de-encomiendas--dos-hombres-fueron-detenidos-en-concepcion_a6af45763696ebfa450e7d285

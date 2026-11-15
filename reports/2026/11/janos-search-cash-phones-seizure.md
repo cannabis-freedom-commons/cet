@@ -28,6 +28,14 @@ status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c753aa9b437e60ea7fab0478f6fc32b6
 tags: [janos, chihuahua, search]
+media:
+  - kind: photo
+    url: https://canal44.com/aseguran-droga-dinero-celulares-cateo-ministerial-janos/
+    media_url: https://canal44.com/wp-content/uploads/2026/11/Captura-de-pantalla-2026-11-02-a-las-5.00.47-p.m.png
+    publisher: Canal 44
+    caption: >-
+      AEI Zona Noroeste evidence table with marijuana bags, phones and cash from the Pancho Villa
+      cateo. Photo: Canal 44 / AEI
 sources:
   - title: Aseguran droga, dinero y teléfonos celulares tras cateo ministerial en Janos
     url: https://canal44.com/aseguran-droga-dinero-celulares-cateo-ministerial-janos/

@@ -45,6 +45,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a98dfef9ede94d8628d2a106954592dc
 tags: [granadero-baigorria, santa-fe, microtrafico, remanso-valerio]
+media:
+  - kind: photo
+    url: https://desarrollozonal.com/secuestraron-drogas-celulares-dinero-varios/
+    media_url: https://desarrollozonal.com/wp-content/uploads/2026/11/PDIAllanamientosGB-e1794276974889.jpeg
+    publisher: Desarrollo Zonal
+    caption: >-
+      PDI Microtráfico Rosario evidence table with marijuana bags, cash and phones from the Remanso
+      Valerio raids. Photo: Desarrollo Zonal / PDI
 sources:
   - title: Allanaron una vivienda en Baigorria y encontraron cocaína, marihuana y dinero
     url: https://www.cadena3.com/amp/noticia/noticias-rosario/allanaron-una-vivienda-en-baigorria-y-encontraron-cocaina-marihuana-y-dinero_611819
