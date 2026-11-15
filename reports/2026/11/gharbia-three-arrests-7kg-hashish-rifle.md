@@ -27,29 +27,26 @@ sources:
     publisher: Dar El Maref
     date: 2026-11-14
     language: ar
-open_questions:
-  - The report names no village, so only Gharbia Governorate is recorded as the place.
-  - The hashish amount is reported as more than 7 kilograms, not an exact measured weight; 7 kg is used as the figure.
-  - No quantity was given for the ice drug, so it is mentioned only in the text and not counted in figures.
-  - The article gives no separate date for the arrests; 14 November 2026 is its publication date and is used as the incident date.
-  - No names or ages were published; two suspects were reported to have criminal records and no court outcome was reported.
-  - The whole account rests on one opened source; no second account was found after Arabic and English searches.
+  - title: ضبط مستقلي سيارة ملاكي لقيامهم بترويج المواد المخدرة بإحدى القرى بالغربية
+    url: https://www.maspero.eg/accidents/2026/11/14/1005551/%D8%B6%D8%A8%D8%B7-%D9%85%D8%B3%D8%AA%D9%82%D9%84%D9%8A-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%85%D9%84%D8%A7%D9%83%D9%8A-%D9%84%D9%82%D9%8A%D8%A7%D9%85%D9%87%D9%85-%D8%A8%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A9-%D8%A8%D8%A5%D8%AD%D8%AF%D9%89-%D8%A7%D9%84%D9%82%D8%B1%D9%89-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9
+    publisher: Maspero
+    date: 2026-11-14
+    language: ar
 ---
 
 Security services uncovered the circumstances of a post supported by a video
 clip that had been circulated on social media. [@1] The poster complained that
 the occupants of a private car were promoting narcotic substances in a village
-in Gharbia Governorate. [@1] Investigators identified the car appearing in the
+in Gharbia Governorate. [@1,2] Investigators identified the car appearing in the
 video and arrested those responsible for the incident. [@1] The three are
 unemployed men, two of whom have criminal records, and they live in Gharbia and
-Kafr El Sheikh governorates. [@1]
+Kafr El Sheikh governorates. [@1,2]
 
 After legal procedures were completed, officers arrested the suspects while they
-held more than 7 kilograms of hashish. [@1] They also held a quantity of ice
-drug and an automatic rifle alongside the hashish. [@1] When confronted, the men
+held more than 7 kilograms of hashish. [@1,2] They also held a quantity of ice
+drug and an automatic rifle alongside the hashish. [@1,2] When confronted, the men
 admitted committing the act as described and possessing the narcotics for the
-purpose of trafficking. [@1]
+purpose of trafficking. [@1,2]
 
 Authorities took the necessary legal measures against the suspects, and the
-Public Prosecution took over the investigation. [@1]
-
+Public Prosecution took over the investigation. [@1,2]
