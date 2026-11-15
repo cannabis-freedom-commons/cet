@@ -62,11 +62,15 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-14
     language: hi
+  - title: 'Mirzapur News: कार की डिग्गी में छुपाकर ले जा रहे 44 किग्रा गांजा संग चार गिरफ्तार, Mirzapur Hindi News - Hindustan'
+    url: https://www.livehindustan.com/uttar-pradesh/mirzapur/story-mirzapur-police-arrest-four-ganja-smugglers-seize-44-kg-cannabis-201794679971715.html
+    publisher: Live Hindustan
+    date: 2026-11-14
+    language: hi
 open_questions:
-  - The article gives no separate date for the interception; 14 November 2026 is its publication date and is used as the incident date.
-  - Only one accessible source for this event was found after searching in Hindi and English, and it reproduces the police account.
-  - No court outcome beyond the four men being sent to jail was reported.
-  - The report does not say where the consignment was loaded or where it was headed.
+    - The article gives no separate date for the interception; 14 November 2026 is its publication date and is used as the incident date.
+    - No court outcome beyond the four men being sent to jail was reported.
+    - All cited accounts reproduce the police account of the interception and seizure.
 ---
 
 Ahraura police stopped a Honda City carrying four men near Vanasthali Vidyalaya
@@ -77,12 +81,12 @@ Tiwari of Durgavaliya Ghera Tola, Kasya, Kushinagar; and Govind Patel of
 Misrauli Bhuwal Patti, Bisunpura, Kushinagar. [@1] Police registered case number
 221/2026 against them under sections 8/20/29 of the NDPS Act at Ahraura police
 station and sent all four to jail after completing the required legal
-formalities. [@1]
+formalities. [@1] Police said they were searching for other members of the gang, including the main smuggler. [@3]
 
-The search of the car's boot found two sacks concealed under black plastic. [@1]
+The search of the car's boot found two sacks concealed under black plastic. [@1,3]
 Checking both sacks, police recovered a total of 44 kilograms of illegal ganja
-packed in 27 packets. [@1] Police put the recovered ganja's estimated
-international value at 22 lakh rupees. [@1] Police seized the Honda City used
+packed in 27 packets. [@1,3] Police recovered three mobile phones from the four men. [@3] Police put the recovered ganja's estimated
+international value at 22 lakh rupees. [@1,3] Police seized the Honda City used
 for the smuggling, registration number JH05AQ0983, under section 207 of the
 Motor Vehicles Act. [@1]
 
@@ -90,4 +94,4 @@ The action followed the Mirzapur superintendent of police's orders for effective
 action against criminals and against the smuggling and sale of illegal
 narcotics, carried out under the leadership of the superintendent of police
 (operations) and the circle officer (operations) by the Ahraura police team.
-[@1] Police said the ganja was being carried hidden in the car's boot. [@1,2]
+[@1] Police said the ganja was being carried hidden in the car's boot. [@1,2] Police said the four were carrying ganja from Odisha to supply in Varanasi and Gorakhpur. [@3]
