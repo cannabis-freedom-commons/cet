@@ -3,7 +3,7 @@ package worker
 // Publication in batches (PUBLISH_BRANCH): each validated report is committed to the publish branch
 // and pushed there, so workers see it at once. Every PUBLISH_INTERVAL, at PUBLISH_OFFSET on the
 // clock (30m and 0: :00 and :30), the branch, rebased onto main, is pushed to main in one
-// fast-forward (the push starts the site's build, .github/workflows/deploy.yml), so
+// fast-forward (the push starts the site's build, .github/workflows/ghdeploy2.yml), so
 // main gets the reports' own commits and no merge commit; with nothing new, nothing is pushed. The
 // reports are then deploying, and published once the live site's /version.json names a commit
 // that contains them (the site is rebuilt on its own schedule).
@@ -465,8 +465,8 @@ func (w *Worker) publicationLoop(ctx context.Context) {
 	}
 }
 
-// deployWorkflow is the site's Pages workflow (.github/workflows/deploy.yml).
-const deployWorkflow = "deploy.yml"
+// deployWorkflow is the site's Pages workflow (.github/workflows/ghdeploy2.yml).
+const deployWorkflow = "ghdeploy2.yml"
 
 // githubAPI is GitHub's REST API; tests point it elsewhere.
 var githubAPI = "https://api.github.com"

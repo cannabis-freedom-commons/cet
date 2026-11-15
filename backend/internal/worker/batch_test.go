@@ -141,7 +141,7 @@ func TestReportsGoToMainInBatchesAndArePublishedWhenLive(t *testing.T) {
 	// the Pages build on GitHub: the page links it, and says whether it builds this batch
 	runSHA := mainBefore
 	github := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
-		if !strings.HasSuffix(r.URL.Path, "/actions/workflows/deploy.yml/runs") || r.URL.Query().Get("branch") != "main" {
+		if !strings.HasSuffix(r.URL.Path, "/actions/workflows/ghdeploy2.yml/runs") || r.URL.Query().Get("branch") != "main" {
 			http.NotFound(w, r)
 			return
 		}

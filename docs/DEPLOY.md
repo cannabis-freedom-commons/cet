@@ -325,7 +325,7 @@ A validated report goes through three statuses on its request page:
 2. **Deploying**: the branch went to `main`. Every 30 minutes, at :00 and :30, the backend puts
    the branch back on top of `main` and pushes it as a fast-forward: `main` gets the reports' own
    commits and no merge commit. With no new reports, nothing is pushed.
-3. **Published**: each push to `main` builds the site (`.github/workflows/deploy.yml`). Every minute
+3. **Published**: each push to `main` builds the site (`.github/workflows/ghdeploy2.yml`). Every minute
    the backend reads the live `/version.json`; once the deployed commit contains a report, it is
    published, and Nostr submitters get their reply with the report's link.
 
