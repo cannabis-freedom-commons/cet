@@ -129,8 +129,8 @@ export default defineConfig({
   site: process.env.SITE || "https://tracker.cannabisfreedom.fyi",
   base,
   integrations: [reportsDev(), sitemap()],
-  // some 25,000 pages are rendered four at a time instead of one by one (BUILD_CONCURRENCY overrides)
-  build: { concurrency: Number(process.env.BUILD_CONCURRENCY) || 4 },
+  // pages are rendered one at a time: four at a time (build.concurrency) took 3 min 57 s for the
+  // 25,000 pages on GitHub's runner against 2 min 11 s, as rendering shares one thread
   vite: {
     server: {
       // the Go backend's code and job storage, and reports with their photo manifest: refreshed only

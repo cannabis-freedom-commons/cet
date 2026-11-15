@@ -70,8 +70,6 @@ jobs:
           BASE_PATH: ${{ steps.pages.outputs.base_path }}
           # the submissions backend (docs/DEPLOY.md); unset leaves the submission form off
           PUBLIC_SUBMISSIONS_API_URL: ${{ vars.PUBLIC_SUBMISSIONS_API_URL }}
-          # four pages at a time need more than Node's default heap
-          NODE_OPTIONS: --max-old-space-size=8192
       - uses: actions/upload-pages-artifact@v5
         with:
           path: dist
