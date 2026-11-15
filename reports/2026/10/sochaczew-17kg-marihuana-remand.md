@@ -73,15 +73,20 @@ sources:
     publisher: WP Info
     date: 2026-11-14
     language: pl
+  - title: 'Prokuratura: udaremniono odurzenie 17 tysięcy osób. 23-latek trafił do aresztu'
+    url: https://miejskireporter.pl/prokuratura-udaremniono-odurzenie-17-tysiecy-osob-23-latek-trafil-do-aresztu/
+    publisher: Miejski Reporter
+    date: 2026-11-14
+    language: pl
 ---
 
 Officers of the Sochaczew county police stopped a car on national road 92 in the village of Dachowa
 on Monday, 19 October 2026, and found a bag in the boot holding a dozen or so vacuum-sealed foil bags
 of green herb the police weighed at nearly 17 kilograms; the material was tested in the field
-and sent for further examination, they said. A 23-year-old resident of Sochaczew was detained. [@1,2,3] In a statement published on 9 November, the District Prosecutor's Office in Płock said seizing the drugs may have prevented at least 17,000 people from being intoxicated. [@3]
+and sent for further examination, they said. A 23-year-old resident of Sochaczew was detained. [@1,2,3,4] In a statement published on 9 November, the District Prosecutor's Office in Płock said seizing the drugs may have prevented at least 17,000 people from being intoxicated. [@3,4]
 
 On 21 October the man was brought before the district prosecutor's office (Prokuratura Rejonowa) in
 Sochaczew, which charged him with taking part in the trade of a significant quantity of a narcotic in
 the form of the herb of non-fibre cannabis; the prosecutor then asked the court for custody. On
 22 October 2026 the Sochaczew District Court granted the motion and remanded the suspect for three
-months. [@1,2,3] The police statement says the charge carries up to 12 years in prison. [@1] The act was qualified under Article 56(1) and (3) of the drug-prevention law. [@3]
+months. [@1,2,3,4] The police statement says the charge carries up to 12 years in prison. [@1] The act was qualified under Article 56(1) and (3) of the drug-prevention law. [@3,4]
