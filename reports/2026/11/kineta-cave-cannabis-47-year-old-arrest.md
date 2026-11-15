@@ -114,6 +114,11 @@ sources:
     publisher: Politic.gr
     date: 2026-11-13
     language: el
+  - title: 'Κινέτα: Συνελήφθη 47χρονος που έκρυβε σε σπηλιά 12,6 κιλά κάνναβης'
+    url: https://www.dedomeno.gr/ellada/865290/kineta-synelifthi-47chronos-poy-ekryve-se-spilia-126-kila-kannavis/
+    publisher: ΔΕΔΟΜΕΝΟ
+    date: 2026-11-13
+    language: el
 media:
   - kind: photo
     url: https://www.neakriti.gr/koinonia/2211153_kineta-ekrybe-126-kila-kannabis-se-spilaio-synelifthi-47hronos
@@ -149,16 +154,16 @@ media:
 
 Narcotics officers arrested a 47-year-old foreign man for cannabis possession
 and trafficking. [@1,6,8,10,11,12,14,15,18] Officers found the man inside a cave in Kineta, where he
-had hidden drug quantities for further distribution. [@1,3,4,5,7,8,11,12,13,14,15,16,18] Police said the stash was kept in a disused sheepfold inside the cave above Kineta. [@8] Police said he stored
+had hidden drug quantities for further distribution. [@1,3,4,5,7,8,11,12,13,14,15,16,18,19] Police said the stash was kept in a disused sheepfold inside the cave above Kineta. [@8] Police said he stored
 and distributed raw cannabis to various people, mainly around Agioi Theodoroi in
-Corinthia and in Attica. [@1,3,5,6,7,9,12,14,15,16,18] The arrest took place on the afternoon of
+Corinthia and in Attica. [@1,3,5,6,7,9,12,14,15,16,18,19] The arrest took place on the afternoon of
 Wednesday 11 November 2026 during an organized operation by the Narcotics
-Prosecution Subdirectorate in the Attica area. [@1,3,14,17,18] Police said the arrest followed a tip-off about drug-trafficking in the area. [@8]
+Prosecution Subdirectorate in the Attica area. [@1,3,14,17,18,19] Police said the arrest followed a tip-off about drug-trafficking in the area. [@8]
 
 At the site officers found a total of 12.6 kilograms of raw cannabis and
 cannabis clones, along with signal-jamming and surveillance devices. [@1,9,10,12,13,18] The
 total comprised 6.6 kilograms of raw cannabis and six kilograms of cannabis
-clones. [@2,4,5,6,7,11,15,16] Police seized a car. [@1,4,5] Police also seized a mobile phone. [@3] They also found two electric air
+clones. [@2,4,5,6,7,11,15,16,19] Police seized a car. [@1,4,5] Police also seized a mobile phone. [@3] They also found two electric air
 extractors, packaging for extracting cannabis oil, a metal tray and an electric
 blender. [@2,11]
 
