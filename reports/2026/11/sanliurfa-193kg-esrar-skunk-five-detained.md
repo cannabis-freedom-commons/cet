@@ -171,21 +171,24 @@ sources:
     publisher: Urfadasin
     date: 2026-11-14
     language: tr
-open_questions:
-    - Accounts reproducing the Anadolu Ajansı report give the hashish as 176 kilograms and describe the 17-kilogram seizure as synthetic narcotic attributed to the gendarmerie, while Governor Hasan Şıldak's statement gives 176.5 kilograms of esrar from the gendarmerie and says police seized 17 kilograms of skunk.
+  - title: Dev uyuşturucu operasyonu! 193 kilodan fazla uyuşturucu ele geçirildi
+    url: https://www.sabah.com.tr/sanliurfa/2026/11/14/dev-uyusturucu-operasyonu-193-kilodan-fazla-uyusturucu-ele-gecirildi
+    publisher: Sabah
+    date: 2026-11-14
+    language: tr
 ---
 
 Şanlıurfa Governor Hasan Şıldak announced that gendarmerie and police anti-drug
 operations in Şanlıurfa seized a total of 193 kilograms 500 grams of drugs and
 that five suspects were detained. [@1,13] The five suspects were detained in
-connection with the seizures. [@2,4,5,6,8,9,11,12,14,15,17,18,19,23] The detained suspects were taken to the Provincial Gendarmerie Command for procedures. [@7,8,9,10,11,12,14,16,17,18,19,20,22,23]
+connection with the seizures. [@2,4,5,6,8,9,11,12,14,15,17,18,19,23,24] The detained suspects were taken to the Provincial Gendarmerie Command for procedures. [@7,8,9,10,11,12,14,16,17,18,19,20,22,23]
 
 The gendarmerie’s planned operation seized 173 kilograms of powdered toz esrar
 and 3 kilograms 500 grams of chunk kubar esrar, together 176 kilograms 500
-grams. [@1,4,13,21] Searches were carried out at addresses identified by the teams. [@5,6,8,9,10,11,12,14,17,18,19,20,23] The same gendarmerie total was described as 173 kilos of powdered
+grams. [@1,4,13,21,24] Searches were carried out at addresses identified by the teams. [@5,6,8,9,10,11,12,14,17,18,19,20,23] The same gendarmerie total was described as 173 kilos of powdered
 esrar and 3 kilos 500 grams of kubar esrar, making 176 kilos 500 grams in total.
 [@2] Police work in the same round of operations seized 17 kilograms of skunk.
-[@1,4,13]
+[@1,4,13,24]
 
 Governor Şıldak said the fight against drugs threatening young people’s futures
 and public health would continue with determination through the security forces’
