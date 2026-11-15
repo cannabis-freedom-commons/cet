@@ -55,6 +55,16 @@ sources:
     publisher: Brabants Dagblad
     date: 2026-11-14
     language: nl
+  - title: 'Allerlei soorten drugs in auto: Tilburger (19) aangehouden in Loon op Zand'
+    url: https://www.stadindex.nl/loon/3629830-19-jarige-tilburger-aangehouden-na-vondst-van-drugs-in-loon-op-zand
+    publisher: Stadindex.nl
+    date: 2026-11-14
+    language: nl
+  - title: 'Allerlei soorten drugs in auto: Tilburger (19) aangehouden in Loon op Zand'
+    url: https://nos.nl/regio/brabant/artikel/819450-jongen-19-aangehouden-met-allerlei-soorten-drugs-op-zak-in-loon-op-zand
+    publisher: NOS
+    date: 2026-11-14
+    language: nl
 media:
   - kind: photo
     url: https://waalwijk.nieuws.nl/112/tilburger-19-aangehouden-na-vondst-van-verschillende-soorten-drugs
@@ -63,6 +73,11 @@ media:
     caption: >-
       Bagged powders and dark plant matter laid out beside a keyboard after the
       Loon op Zand vehicle check, as published with the 19-year-old's arrest.
+  - kind: photo
+    url: https://www.stadindex.nl/loon/3629830-19-jarige-tilburger-aangehouden-na-vondst-van-drugs-in-loon-op-zand
+    media_url: https://images.bd.nl/OTE1YjVjOTRiZGIyZDVjMzEyNmIvZGlvLzI4MDMzNzMxMC9maXQtd2lkdGgvNDAw/de-vondst-van-de-politie
+    publisher: Brabants Dagblad via Stadindex.nl
+    caption: 'Police photograph of the drugs found in the car after the Loon op Zand arrest. Photo: Brabants Dagblad'
 open_questions:
   - Accounts date the night of the arrest differently, with this page saying the night of Friday to Saturday and other accounts saying the night of 12 to 13 November 2026.
   - No drug types, quantities, or cash amount were published, so no cannabis weight or plant figure can be recorded.
@@ -72,9 +87,9 @@ open_questions:
 
 In the night of Thursday 12 November to Friday 13 November 2026, a 19-year-old
 man from Tilburg was arrested in Loon op Zand after police found multiple types
-of drugs on him during a vehicle check, and a sum of money was also seized. [@1,2,3,4]
+of drugs on him during a vehicle check, and a sum of money was also seized. [@1,2,3,4,6]
 The police check of the driver took place shortly after midnight in the village;
-officers then arrested the man on suspicion of drug dealing. [@1,2,3,4] Police found the drugs in a case in the car door during the vehicle check. [@4,5]
+officers then arrested the man on suspicion of drug dealing. [@1,2,3,4,7] Police found the drugs in a case in the car door during the vehicle check. [@4,5]
 
 The types of drugs found and the amount of cash seized were not disclosed by the
 police. [@1,2] After his arrest, the 19-year-old was taken to the cell complex
