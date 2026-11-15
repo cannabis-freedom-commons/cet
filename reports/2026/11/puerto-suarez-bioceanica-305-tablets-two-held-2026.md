@@ -59,6 +59,11 @@ sources:
     publisher: Conexion Bolivia
     date: 2026-11-14
     language: es
+  - title: Dois homens são presos com 305 tabletes de maconha na estrada Bioceânica
+    url: https://www.campograndenews.com.br/cidades/interior/dois-homens-sao-presos-com-305-tabletes-de-maconha-na-estrada-bioceanica
+    publisher: Campo Grande News
+    date: 2026-11-14
+    language: pt
 open_questions:
   - No total weight was published for the 305 tablets, so no cannabis weight is recorded.
   - The second seized vehicle is described as um vagao in one account and una vagoneta in the other; two vehicles in total are counted.
@@ -69,19 +74,18 @@ open_questions:
 Officers of Bolivia's Unidad Movil Policial para Areas Rurais (UMOPAR) manning a
 checkpoint on the Bioceanic highway stopped a truck occupied by two men on
 Friday 13 November 2026, on the Bolivian stretch between Puerto Suarez and the
-Brazilian border. [@1] The two occupants were arrested for drug trafficking and
+Brazilian border. [@1,3] The two occupants were arrested for drug trafficking and
 referred to the procedures of the Bolivian authorities. [@1]
 
 A search of the truck found 305 tablets of a substance that tested positive for
-marijuana in a preliminary test. [@1] A second account describes the find as 305
+marijuana in a preliminary test. [@1,3] A second account describes the find as 305
 packages of a greenish substance giving a positive field result for marijuana
 during the search of the tractor-trailer. [@2] Officers seized the truck, a
 second vehicle and three mobile phones, while the total weight of the drug was
-not disclosed. [@1]
+not disclosed. [@1,3]
 
 Authorities suspect the load was bound for Brazilian territory, possibly the
 Corumba region, the town across from Puerto Quijarro with a road link to Puerto
-Suarez. [@1] The stop was a UMOPAR drug-trafficking interdiction operation on
+Suarez. [@1,3] The stop was a UMOPAR drug-trafficking interdiction operation on
 the Bioceanic highway in the municipality of Puerto Suarez, Santa Cruz, under
 the Frontera Segura 2.0 - Vias Seguras operations plan. [@2]
-
