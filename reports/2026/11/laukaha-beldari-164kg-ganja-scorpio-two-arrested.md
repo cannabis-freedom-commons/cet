@@ -78,25 +78,31 @@ sources:
     publisher: Deshaj Times
     date: 2026-11-14
     language: hi
+  - title: 'Madhubani News: लौकही:स्कॉर्पियो सहित 164 किलो गांजा बरामद, दो गिरफ्तार'
+    url: https://www.livehindustan.com/bihar/madhubani/story-bihar-police-and-ssb-seize-164-4-kg-of-cannabis-arrest-two-suspected-smugglers-201794685275119.html
+    publisher: Live Hindustan
+    date: 2026-11-15
+    language: hi
 open_questions:
-    - No court outcome, remand details or pleas were reported; the case was at the investigation stage with questioning under way.
+    - No court outcome or plea was reported beyond the accused being sent to judicial custody under the NDPS Act; the case remains at the investigation stage with questioning under way.
     - The accused Dhiraj Kumar shares a given name with Laukaha station house officer Dheeraj Kumar; the reports distinguish them by role.
+    - Hindustan calls the Fulparas briefing officer DSP Amit Kumar while Dainik Bhaskar calls him SDPO Amit Kumar; both accounts place him at the same press conference.
 ---
 
 Laukaha police and SSB seized 164.400 kg of ganja from a Scorpio-N near Beldari
-village on Saturday morning and arrested the two occupants. [@2,3,4,5] The two men got
+village on Saturday morning and arrested the two occupants. [@2,3,4,5,6] The two men got
 out and tried to flee when the Scorpio-N heading toward the Balan river was
 signalled to stop near the bridge in front of Beldari village at about 8:10 in
 the morning, but the joint team chased and caught them. [@2] The arrested men
 were identified as 29-year-old Dhiraj Kumar of Bhagwatpur in Sarairanjan,
-Samastipur district and 20-year-old Bobby Kumar of Niksapur in Tajpur. [@2,4]
+Samastipur district and 20-year-old Bobby Kumar of Niksapur in Tajpur. [@2,4,6]
 
 Officers searching the vehicle in the presence of independent witnesses found
 the ganja hidden in plastic sacks. [@2,3] Police prepared a seizure list and
-seized the ganja together with the vehicle and two mobile phones. [@2] Laukaha
+seized the ganja together with the vehicle and two mobile phones. [@2,6] Laukaha
 station house officer Dheeraj Kumar said a total of 164.400 kg of ganja was
-caught from the four-wheeler and both smugglers were taken into custody. [@1] Hindustan reported that the seized ganja was estimated to have a market value of about 250,000 rupees. [@4,5] Deshaj Times attributed the market-value estimate to police. [@5] A
-case was registered at Laukaha police station under the NDPS Act. [@2,3]
+caught from the four-wheeler and both smugglers were taken into custody. [@1] Hindustan reported that the seized ganja was estimated to have a market value of about 250,000 rupees. [@4,5,6] The information was given by Fulparas DSP Amit Kumar at a press conference held in Fulparas. [@6] Deshaj Times attributed the market-value estimate to police. [@5] A
+case was registered at Laukaha police station under the NDPS Act. [@2,3] Both accused were sent to judicial custody after the FIR was registered at Laukaha police station under the NDPS Act. [@6]
 
 Acting on a late-Friday-night tip that a consignment would be brought from Nepal
 via the Balan river embankment through Beldari village, senior officers directed
