@@ -63,6 +63,10 @@ sources:
     publisher: Punjab News Express
     date: 2026-11-13
     language: en
+  - title: 9 South Asians from Winnipeg and Ontario arrested in interprovincial drug trafficking
+    url: https://voiceonline.com/9-south-asians-from-winnipeg-and-ontario-arrested-in-interprovincial-drug-trafficking/
+    publisher: Indo-Canadian Voice
+    date: 2026-11-13
 open_questions:
   - No weight was published for the cannabis edibles, so no cannabis quantity in kilograms is recorded.
   - The $19,000 and $970,000 figures are combined values for multiple drugs and are not recorded as a cannabis value.
@@ -75,13 +79,13 @@ open_questions:
 Winnipeg police say a months-long investigation dubbed Project Pink Panther
 netted nine arrests in Manitoba and Ontario. [@1,3] The investigation, dubbed
 Project Pink Panther, began in December 2025. [@1] Officers executed several
-search warrants in Winnipeg and the Greater Toronto Area on Aug. 26. [@1] Six
+search warrants in Winnipeg and the Greater Toronto Area on Aug. 26. [@1,4] Six
 people, including a father and son, were arrested in Winnipeg and charged with
 drug-trafficking and firearms offences. [@1] Three people arrested in Ontario
 were charged with drug trafficking. [@1]
 
 Officers seized around 207 cannabis edible packages along with MDMA, LSD tablets
-and heroin. [@2] Police put the street value of those MDMA, LSD, heroin and
+and heroin. [@2,4] Police put the street value of those MDMA, LSD, heroin and
 cannabis-edible goods combined at an estimated $19,000. [@2] Police also
 recovered 12 kilograms of cocaine plus prescription opioids and other pills as
 part of the same bust. [@1] Police also seized $126,000 in Canadian cash, rifles
@@ -92,6 +96,6 @@ were sourced in Ontario, British Columbia and Alberta and moved to Winnipeg by
 vehicles, courier services, commercial airlines and mail. [@1] Three properties,
 one each in Toronto, Brampton and Alliston, were searched in Ontario. [@1] The
 Winnipeg police, Ontario Provincial Police, Peel Regional Police, the RCMP and
-the Canada Border Services Agency were all involved in the investigation. [@1]
+the Canada Border Services Agency were all involved in the investigation. [@1,4]
 
 Winnipeg Police Service named the nine accused — Tarundev Singh (32), Devinder Singh (57), Amandeep Singh (47), Mandeep Singh Dutta (37), Karanvir Singh (24) and Maganpreet Boparai (25) in Winnipeg, and Tarnvir Sandhu (37), Karan Joshi (34) and Manjinder Singh Sagoo (43) in Ontario — and reported three detained in each city while six were released on release orders. [@3]
