@@ -75,6 +75,11 @@ sources:
     publisher: ElSiyasa
     date: 2026-11-10
     language: ar
+  - title: بالجرم المشهود.. توقيف عدة شبكات لترويج المخدّرات!
+    url: https://www.sawtbeirut.com/lebanon-news/%D8%A8%D8%A7%D9%84%D8%AC%D8%B1%D9%85-%D8%A7%D9%84%D9%85%D8%B4%D9%87%D9%88%D8%AF-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%B9%D8%AF%D8%A9-%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC/
+    publisher: صوت بيروت إنترناشونال
+    date: 2026-11-10
+    language: ar
 open_questions:
     - No date is given for the ambushes and raids, which the force says took place on different dates; 10 November 2026 is the date of its statement and is used as the incident date.
     - No weights are published for the hashish, marijuana or other drugs, so no kilogram figure is recorded.
@@ -89,16 +94,16 @@ open_questions:
 Lebanon's Information Branch, the intelligence unit of the Internal Security
 Forces, carried out ambushes and raids on different dates in Bourj al-Barajneh,
 Nabaa, Zouk, Ouzai, Tyre, Tripoli, Dekwaneh and Sabtiyeh, the General
-Directorate said on 10 November 2026. [@2,4,5,6] The patrols arrested eight people
+Directorate said on 10 November 2026. [@2,4,5,6,7] The patrols arrested eight people
 from several drug-dealing networks caught in the act, and seized five
-motorcycles used in dealing. [@3,4,5,6]
+motorcycles used in dealing. [@3,4,5,6,7]
 
 The eight include Lebanese, Syrian and Palestinian nationals born between 1980
 and 2008, several of them wanted on theft warrants or with drug or theft
 records. [@2,5] The force said a large quantity of drugs was seized from them,
 listing among the items hashish, known in Lebanon as hashishat al-kif, marijuana
 and salvia alongside cocaine, baz, Captagon, pills of various colours and a
-white powder. [@1,4,5,6] No weights were given for any of the drugs, and the
+white powder. [@1,4,5,6,7] No weights were given for any of the drugs, and the
 substances include non-cannabis items that cannot be separated from the
 cannabis. [@1,4,5]
 
@@ -106,10 +111,10 @@ At the home of one detained man, where the force said drugs were stored and
 packed, officers found more drugs, 13 motorcycles, a Kalashnikov rifle with five
 magazines, two service pistols with magazines, ammunition, a hunting rifle, five
 sensitive scales, 15 mobile phones, phone batteries and keys for various
-motorcycles. [@1,4,5,6] Officers also seized cigarette-rolling papers, empty bags,
+motorcycles. [@1,4,5,6,7] Officers also seized cigarette-rolling papers, empty bags,
 papers, boxes and tools used to pack and consume drugs, as well as phones, sums
 of money and forged documents. [@1,4,5,6]
 
 The ministry said the eight confessed during investigation and were referred for
 legal action with the seized items on the instructions of the competent
-judiciary. [@1,4,5,6]
+judiciary. [@1,4,5,6,7]
