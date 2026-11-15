@@ -32,21 +32,32 @@ sources:
     publisher: Maspero
     date: 2026-11-14
     language: ar
+  - title: الداخلية تضبط شخص يروج لبيع المواد المخدرة في الغربية - يوليو
+    url: https://www.youlyou.com/94304
+    publisher: يوليو
+    date: 2026-11-14
+    language: ar
+media:
+  - kind: photo
+    url: https://www.youlyou.com/94304
+    media_url: https://media.youlyou.com/2026/11/Landscape-1/3020918382373202611140534493449.jpg
+    publisher: يوليو
+    caption: Photo of the accused, published as from the Interior Ministry page.
 ---
 
 Security services uncovered the circumstances of a post supported by a video
-clip that had been circulated on social media. [@1] The poster complained that
+clip that had been circulated on social media. [@1,3] The poster complained that
 the occupants of a private car were promoting narcotic substances in a village
-in Gharbia Governorate. [@1,2] Investigators identified the car appearing in the
+in Gharbia Governorate. [@1,2,3] Investigators identified the car appearing in the
 video and arrested those responsible for the incident. [@1] The three are
 unemployed men, two of whom have criminal records, and they live in Gharbia and
-Kafr El Sheikh governorates. [@1,2]
+Kafr El Sheikh governorates. [@1,2,3]
 
 After legal procedures were completed, officers arrested the suspects while they
-held more than 7 kilograms of hashish. [@1,2] They also held a quantity of ice
-drug and an automatic rifle alongside the hashish. [@1,2] When confronted, the men
+held more than 7 kilograms of hashish. [@1,2,3] They also held a quantity of ice
+drug and an automatic rifle alongside the hashish. [@1,2,3] When confronted, the men
 admitted committing the act as described and possessing the narcotics for the
-purpose of trafficking. [@1,2]
+purpose of trafficking. [@1,2,3]
 
 Authorities took the necessary legal measures against the suspects, and the
-Public Prosecution took over the investigation. [@1,2]
+Public Prosecution took over the investigation. [@1,2,3]
