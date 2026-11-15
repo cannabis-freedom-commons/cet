@@ -102,6 +102,12 @@ sources:
     publisher: TBS NEWS DIG
     date: 2026-11-14
     language: ja
+  - title: 違法薬物密売グループの首謀者か、無職の25歳女を静岡県警が逮捕 大麻やコカイン、覚醒剤など押収(静岡新聞DIGITAL) - Yahoo!ニュース
+    url: https://news.yahoo.co.jp/articles/0802726c8dba72050169fe7e9fa7875f144dcf5a
+    publisher: 静岡新聞DIGITAL
+    date: 2026-11-14
+    language: ja
+    archived: https://web.archive.org/web/20261114004404id_/https://news.yahoo.co.jp/articles/0802726c8dba72050169fe7e9fa7875f144dcf5a
 ---
 
 Shizuoka Prefectural Police Drug and Firearms Countermeasures Section and
@@ -113,13 +119,13 @@ western Shizuoka from around 2024. [@2] Police then found the woman at a love ho
 
 Police say she was in possession of about 0.4 grams of amphetamine, about 0.6
 grams of marijuana, and LSD inside a parked car in Hamamatsu City in June 2026
-for profit, though she has not been asked to confirm or deny the charges. [@2,6,9] The alleged June possession included about 1.5 millilitres of LSD. [@6] Police have not disclosed whether the woman admits the allegations, citing interference with the investigation. [@5] A subsequent urine test was positive for stimulants, after which police repeatedly arrested the woman. [@5] At that arrest, cocaine, MDMA and magic mushrooms were also found in her belongings and in the car she used, in addition to stimulants and cannabis. [@5,7]
+for profit, though she has not been asked to confirm or deny the charges. [@2,6,9,11] The alleged June possession included about 1.5 millilitres of LSD. [@6] Police have not disclosed whether the woman admits the allegations, citing interference with the investigation. [@5] A subsequent urine test was positive for stimulants, after which police repeatedly arrested the woman. [@5] At that arrest, cocaine, MDMA and magic mushrooms were also found in her belongings and in the car she used, in addition to stimulants and cannabis. [@5,7] Earlier arrests in the same series also involved cannabis-derived THC held for profit, alongside stimulants, cannabis, LSD, cocaine, MDMA and magic mushrooms. [@11]
 The seized drugs are valued at over 12 million yen at retail prices, with the
 same figure confirmed across multiple reporting outlets. [@1,5] In total about 60 grams of stimulants plus cannabis, cocaine, MDMA and other drugs worth over 12 million yen at street value had been seized. [@6]
 
 The woman is considered the leader of the trafficking ring, having recruited
 more than five men — including middle-school juniors and customers — to sell
-drugs on her behalf. [@1] She used social media to find buyers and handled
+drugs on her behalf. [@1] She is believed to have frequently changed hideouts and cars to evade arrest. [@11] The group's customers were mainly young people in western Shizuoka, with some also in Aichi and elsewhere. [@11] She used social media to find buyers and handled
 communications through a privacy-focused messaging app, with all her accounts
 using Sanrio character names. [@1] She is believed to have consistently sold the drugs in bags printed with a particular character and in colourful small sachets. [@6] Police believe the character-themed packaging may have been used to lower wariness about illegal drugs and to make them look novel to expand sales, and are investigating additional offences. [@10] The items displayed to the press on 13 November included zip-lock bags designed with a famous character. [@6]
 
