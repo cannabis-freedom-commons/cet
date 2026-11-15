@@ -62,6 +62,10 @@ sources:
     url: https://www.echolive.ie/corknews/arid-41806808.html
     publisher: EchoLive
     date: 2026-03-09
+  - title: Cork dog breeder caught with €67k of cannabis at his home jailed
+    url: https://www.echolive.ie/corknews/arid-41937504.html
+    publisher: EchoLive
+    date: 2026-11-14
 open_questions:
   - The article does not give the date of the sentencing hearing; 12 November 2026, its publication date, is used here.
   - The initial charging report put the seizure at €70,000; the sentencing hearing evidence said more than €67,400, the figure used here.
@@ -75,25 +79,25 @@ open_questions:
 ---
 
 Richard O’Callaghan, 33, of 33 Liffey Park, Mayfield, Cork, was charged with
-counts under the Misuse of Drugs Act. [@1] The most serious count referred to
+counts under the Misuse of Drugs Act. [@1,4] The most serious count referred to
 cannabis worth more than €13,000, the threshold for a minimum 10-year sentence
 unless exceptional circumstances apply. [@1] Gardaí arrested him after the
 seizure in Mayfield and brought him before Cork District Court. [@2] The search
-took place at his home under warrant on 15 September 2024. [@1] He was charged
+took place at his home under warrant on 15 September 2024. [@1,4] He was charged
 with possessing cannabis for his own use and with possessing it for sale or
 supply. [@2] He pleaded guilty to the charges. [@1]
 
 Detective Garda Michael Abernethy told the sentencing hearing that a Tesco
 shopping bag of cannabis was found in the shed, another bag under the stairs in
-the hall, and another in the kitchen. [@1] The total value of the drugs was more
-than €67,400, the court heard. [@1] O’Callaghan said in interview that he had
+the hall, and another in the kitchen. [@1,4] The total value of the drugs was more
+than €67,400, the court heard. [@1,4] O’Callaghan said in interview that he had
 the 3kg to share with friends and smoke himself between September and December
 that year, but gardaí concluded from his phone messages that he was dealing.
 [@1]
 
 When the case was before the court in March 2026, Judge Helen Boyle adjourned
 sentencing until June 26 at Cork Circuit Criminal Court. [@3] She imposed four
-years and eight months, with the last one year and eight months suspended. [@1]
+years and eight months, with the last one year and eight months suspended. [@1,4]
 She said a previous conviction for drug-dealing at Cork District Court was an
 aggravating factor. [@1] The judge said he had a longstanding addiction to
 cannabis. [@1] He had engaged with a supplier to provide for his own use and to
@@ -102,4 +106,3 @@ responsibility, had potential to work in honest employment and had a supportive
 family. [@1] Senior counsel Tom Creed said O’Callaghan was mainly storing the
 drugs for another unnamed person and otherwise spent much of his time breeding
 Jack Russell terriers and selling them around the world. [@1]
-
