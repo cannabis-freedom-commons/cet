@@ -39,26 +39,34 @@ sources:
     publisher: SALZBURG24
     date: 2026-11-14
     language: de
+  - title: Sicherstellung von Suchtmittel im Flachgau
+    url: https://www.polizei.gv.at/sbg/presse/aussendungen/presse72ff.html?prid=7432784f47505977364a553d&pro=0
+    publisher: Landespolizeidirektion Salzburg
+    date: 2026-11-14
+    language: de
+  - title: Nachbar bedroht 50-Jährigen im Flachgau, Cannabis sichergestellt
+    url: https://nachrichten.jetzt/2026/11/nachbar-bedroht-50-jaehrigen-im-flachgau-cannabis-sichergestellt/
+    publisher: Nachrichten.jetzt
+    date: 2026-11-14
+    language: de
 open_questions:
-  - No number of plants and no weight for the dried cannabis were published.
-  - No separate date for the dispute or the house search was given; 14 November 2026 is the article's publication date and is used as the incident date.
-  - No arrest or detention was reported, and no court outcome was reported.
-  - No exact municipality was given; the incident is located only in the Flachgauer Seenland.
-  - The whole account rests on a single SALZBURG24 report based on a police account.
+    - No number of plants and no weight for the dried cannabis were published.
+    - No separate date for the dispute or the house search was given; 14 November 2026 is the article's publication date and is used as the incident date.
+    - No arrest or detention was reported, and no court outcome was reported.
+    - No exact municipality was given; the incident is located only in the Flachgauer Seenland.
 ---
 
 A 50-year-old man noticed a cannabis smell from a neighbouring flat and, after
 spotting a hemp plant on his 60-year-old neighbour's balcony, asked him to
-dispose of it. [@1] A harsh argument followed in which the 60-year-old plant
-owner threatened his neighbour, according to police. [@1] The threatened
+dispose of it. [@1,2] A harsh argument followed in which the 60-year-old plant
+owner threatened his neighbour, according to police. [@1,3] The threatened
 neighbour then alerted the police. [@1]
 
 Officers came to defuse the situation and also carried out a search of the
-60-year-old's home. [@1] Besides the plant on the balcony, they found several
+60-year-old's home. [@1,3] Besides the plant on the balcony, they found several
 more cannabis plants as well as harvested and dried cannabis herb in his flat.
-[@1]
+[@1,2]
 
 The 60-year-old must now answer for possession of narcotics as well as for
 making a dangerous threat. [@1] Police gave no exact municipality but located
 the incident in the Flachgauer Seenland. [@1]
-
