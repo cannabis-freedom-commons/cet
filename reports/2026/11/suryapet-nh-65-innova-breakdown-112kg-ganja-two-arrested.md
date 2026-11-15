@@ -71,6 +71,11 @@ sources:
     publisher: TV9 Telugu
     date: 2026-11-14
     language: te
+  - title: కారు ఆగడంతో.. దొరికారు | general
+    url: https://www.eenadu.net/telugu-news/districts/nalgonda-news/534/126207004
+    publisher: EENADU
+    date: 2026-11-14
+    language: te
 media:
   - kind: photo
     url: https://www.dishadaily.com/telugunews/an-iron-fisted-crackdown-on-the-illegal-trafficking-of-ganja-600669
@@ -80,18 +85,18 @@ media:
 ---
 
 Two suspects were arrested after they came to Suryapet on 12 November to take
-back the vehicle. [@1,3,4,5,6] Police identified the two arrested as Aakash Vijay
+back the vehicle. [@1,3,4,5,6,7] Police identified the two arrested as Aakash Vijay
 Dabekar, 23, and Aakash Dilip More, 32, of Maharashtra. [@2,3,4] The two men come from Beed district and Buldhana district in Maharashtra. [@3,4]
 
 The Innova broke down near Padmavati Function Hall on NH-65 on the outskirts of
 Suryapet town, and its occupants abandoned it and fled. [@2,3,4,5] Superintendent of police K. Narsimha said the vehicle broke down and was abandoned on 7 November. [@3,4] Second town police
 checked the suspiciously parked car and found 112 kg of ganja, which they
-seized. [@1,3,4,5,6] The gang had bought the 112 kg for Rs 2.24 lakh at Rs 2,000 per kg
-from unidentified people near Jagannathpuri in Odisha. [@1,3,4,6] Each of the five men from Maharashtra put in Rs 50,000 to buy the ganja. [@4] They had packed it
+seized. [@1,3,4,5,6,7] The gang had bought the 112 kg for Rs 2.24 lakh at Rs 2,000 per kg
+from unidentified people near Jagannathpuri in Odisha. [@1,3,4,6,7] Each of the five men from Maharashtra put in Rs 50,000 to buy the ganja. [@4] They had packed it
 into 41 packets and were moving it in an Innova car toward Maharashtra. [@1,4,6] Another Ertiga ran ahead as an escort, watching police movements and passing information to the Innova behind. [@4]
 
 Police said the seized ganja was worth about Rs 25 lakh. [@1,3,4,5] Police seized
 three mobile phones from the arrested men and produced them in court for remand.
 [@2,4,5] The district SP said three more members were absconding and special teams
-were searching for them. [@1,3,4,5,6] Police seized the ganja along with the vehicle and
+were searching for them. [@1,3,4,5,6,7] Police seized the ganja along with the vehicle and
 registered a case. [@2,4]
