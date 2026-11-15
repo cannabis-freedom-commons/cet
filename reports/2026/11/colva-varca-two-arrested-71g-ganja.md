@@ -45,6 +45,10 @@ sources:
     url: https://goemkarponn.com/two-arrested-in-separate-ganja-seizure-cases-at-varca-and-colva/
     publisher: Goemkarponn
     date: 2026-11-14
+  - title: Two Arrested In Separate Ganja Seizure Cases At Varca And Colva
+    url: https://m.dailyhunt.in/news/india/english/goemkarponn+news-epaper-gmkpnnws/two+arrested+in+separate+ganja+seizure+cases+at+varca+and+colva-newsid-n733760066
+    publisher: Goemkarponn News via Dailyhunt
+    date: 2026-11-14
 open_questions:
   - The individual seizures stated in the article add up to 77 grams (5 grams plus 6 grams plus 66 grams), while the article gives the combined total as 71 grams; the report uses the stated 71-gram total.
   - All the substances are described only as suspected ganja or suspected hydroponic ganja, with no laboratory confirmation reported.
@@ -53,12 +57,12 @@ open_questions:
 ---
 
 Colva Police arrested two persons in separate narcotics cases during two
-operations conducted on November 13, 2026. [@1] In the first case, police
+operations conducted on November 13, 2026. [@1,2] In the first case, police
 registered an offence after suspected hydroponic ganja was allegedly found in
 the possession of Anselm Joao Jose Furtado, a resident of Navelim, on a state
 complaint by PSI Anil Krishna. [@1] That seizure was made between 3.15 am and
 6.50 am at Varca Beach Parking, Varca, during the personal search of the
-accused. [@1]
+accused. [@1,2]
 
 Police allegedly recovered 5 grams of suspected hydroponic ganja, comprising
 flowering and fruiting tops, valued at approximately Rs 12,500. [@1] In the
@@ -73,7 +77,6 @@ Rs 15,000 and 66 grams of suspected ganja valued at approximately Rs 66,000.
 
 The two operations resulted in the seizure of a total of 71 grams of suspected
 narcotic substances valued at approximately Rs 93,500, with both accused placed
-under arrest. [@1] Both accused were arrested in connection with their cases,
+under arrest. [@1,2] Both accused were arrested in connection with their cases,
 and further investigation was being conducted by officers of Colva Police
 Station. [@1]
-
