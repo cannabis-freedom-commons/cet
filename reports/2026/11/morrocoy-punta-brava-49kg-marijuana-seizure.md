@@ -41,12 +41,23 @@ sources:
     publisher: El Público TV
     date: 2026-11-13
     language: es
+media:
+  - kind: photo
+    url: https://lacalle.com.ve/incautan-casi-cinco-kilos-de-marihuana-flotando-en-la-orilla-de-una-playa-en-morrocoy/
+    media_url: https://lacalle.com.ve/wp-content/uploads/2026/11/IMG_20261113_173834.webp
+    publisher: Diario La Calle
+    caption: >-
+      GNB Detachment 133 (Tucacas) officers with three plastic-wrapped marijuana panels on a red
+      tablecloth after the Punta Brava shoreline seizure. Photo: GNB / Diario La Calle
 open_questions:
   - The reports say the find occurred at 6:30 p.m. on the previous Thursday; 12 November 2026 is inferred from the 13 November publication dates and is used as the incident date.
   - The marijuana is reported as three panels weighing four kilos and 900 grams, with no laboratory confirmation reported.
   - No detentions, suspects, charges or court outcome were reported; the case was at the investigation stage under the 21st Prosecutor's Office.
   - How the packages reached the Punta Brava shore was not established in the reports.
   - Both accounts reproduce the same military report to the prosecutor's office and are not independent witness accounts.
+  - >-
+    El Público TV illustrated the same Morrocoy find with a September 2025 beach landscape file
+    photo, so it is not listed as media.
 ---
 
 Officers of the First Company of Detachment 133 of the Bolivarian National Guard

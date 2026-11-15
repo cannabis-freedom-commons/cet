@@ -42,6 +42,7 @@ open_questions:
   - The report gives no separate date for the arrests; 13 November 2026 is the publication date and is used as the incident date, covering roughly the preceding year.
   - The whole account rests on one local outlet's account of the SHO's statement; no second source or agency release was found.
   - The announced monthly cordon-and-search checks in four or five villages are stated plans, with no outcome yet reported.
+  - Suryaa illustrated the Aswaraopet ganja roundup with a desk portrait of an officer at PS Aswaraopeta and no seizure visible, so no event photo is listed.
 ---
 
 Ashwaraopet station house officer Sai Kishore Reddy told mandal residents in a

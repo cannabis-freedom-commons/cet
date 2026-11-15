@@ -63,6 +63,8 @@ sources:
     publisher: The World Inform
     date: 2026-11-12
     language: ru
+open_questions:
+  - Port Amur illustrated the Belogorye sentence with a generic barbed-wire fence photograph, so no event photo is listed.
 ---
 
 A Blagoveshchensk city court found a local man guilty of illegally acquiring and

@@ -45,6 +45,14 @@ sources:
     publisher: Daily Karatoa
     date: 2026-11-13
     language: bn
+media:
+  - kind: photo
+    url: https://www.dailykaratoa.com/article/190853
+    media_url: https://www.dailykaratoa.com/watermarked?source=images/2026-11/03_1794577956.jpg
+    publisher: Daily Karatoa
+    caption: >-
+      Portrait of the visually impaired peddler Shahjahan Ali published with the Dhunat ganja arrest
+      account. Photo: Daily Karatoa
 open_questions:
   - The seized ganja was not described as laboratory-confirmed.
   - No value estimate for the 100 grams of ganja was published.

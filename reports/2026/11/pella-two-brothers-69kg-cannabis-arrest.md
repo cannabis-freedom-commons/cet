@@ -59,6 +59,21 @@ sources:
     publisher: sfika.gr
     date: 2026-11-13
     language: el
+media:
+  - kind: photo
+    url: https://www.thestival.gr/eidiseis/astynomika/pella-synelifthisan-dyo-aderfia-gia-ka/
+    media_url: https://www.thestival.gr/wp-content/uploads/2026/11/pella.jpg
+    publisher: Thestival
+    caption: >-
+      White sacks of cannabis on a table beneath an Almopia Police Station Security Office sign after
+      the Pella brothers' arrest. Photo: Hellenic Police / Thestival
+  - kind: photo
+    url: https://voria.gr/article/pella-adelfia-ekryban-epta-kila-kannabis-sto-spiti-toys-brethikan-dendryllia-kai-stin-ayli
+    media_url: https://assets.voria.gr/cdn/ff/i-X6wWCq3xKQHrqw3y7kptiCfXHqH8jq3u_SeXV8xq8/1794565782/public/2026-11/21.jpg
+    publisher: Voria.gr
+    caption: >-
+      The same Almopia seizure display of open cannabis sacks with the Pella Police Directorate
+      Security Office placard. Photo: Hellenic Police / Voria.gr
 open_questions:
   - The exact locality within Pella where the home is located was not named.
   - The reports give the combined clone weight as 6 kg and 450 grams without saying whether it is dried or fresh material.

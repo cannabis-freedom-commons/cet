@@ -52,6 +52,8 @@ sources:
     publisher: SavonaNews
     date: 2026-11-13
     language: it
+open_questions:
+  - Savonanews illustrated the Toirano hashish arrest with a Carabinieri Savona courtyard file photograph showing no drugs, so no event photo is listed.
 ---
 
 On the evening of 12 November 2026, Carabinieri from the Borghetto Santo Spirito

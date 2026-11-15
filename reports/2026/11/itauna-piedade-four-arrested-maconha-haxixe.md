@@ -50,6 +50,7 @@ open_questions:
   - The 9th Military Police Company first said the operation had occurred in Várzea da Olaria, while the detailed account places the target home in the Piedade neighbourhood; the report uses Piedade.
   - No names were published for the four people taken in, and no charge, custody or court outcome beyond the on-call station referral was reported.
   - Only one accessible outlet account of this event was found after searching in Portuguese.
+  - Folha do Povo Itaúna illustrated the Piedade raid with a Tático Móvel banner photo of a pistol and large cash stacks that does not match the 9ª Cia release amounts, so no event photo is listed.
 ---
 
 Military police carried out an anti-trafficking operation in Itaúna on Thursday

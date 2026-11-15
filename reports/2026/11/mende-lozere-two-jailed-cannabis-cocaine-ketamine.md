@@ -52,6 +52,7 @@ open_questions:
   - No precise address in Mende and no court name were given for the arrests and the CRPC hearing.
   - The alleged trafficker on whose behalf the 45-year-old stored the drugs was not identified and no further charges were reported.
   - The account rests on a single outlet report of the police investigation.
+  - ICI illustrated the Mende sentences with a generic Police Nationale vehicle file photograph, so no event photo is listed.
 ---
 
 Police in Mende arrested two men on 13 November 2026 after an investigation by

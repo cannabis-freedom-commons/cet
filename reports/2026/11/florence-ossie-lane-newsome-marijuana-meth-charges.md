@@ -30,11 +30,22 @@ sources:
     url: https://aol.com/articles/undercover-drug-operation-leads-swat-184846000.html
     publisher: WBTW (News13) Myrtle Beach
     date: 2026-11-13
+media:
+  - kind: photo
+    url: https://scnow.com/news/local/crime-courts/article_30412deb-50ab-4844-83c3-815c8955162c.html
+    media_url: https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/c/be/cbeeb678-fb6a-44a6-b4a5-f28a71d9f21f/6af7618a5545e.image.jpg
+    publisher: SCNow / The News (Pee Dee)
+    caption: >-
+      Booking photograph of Jack Randall Newsome in an orange detention uniform after the Ossie Lane
+      SWAT search. Photo: Florence County Sheriff's Office / SCNow
 open_questions:
   - No quantity of the marijuana or of the other seized drugs was published, so no cannabis kilogram, plant count or value is recorded.
   - The exact day is not named in the opened SCNow body; the WBTW account says Newsome was arrested Thursday and was still awaiting a bond hearing as of 13 November 2026, so 12 November 2026 is used as the incident date.
   - It is not established which of the charges carried the marijuana (cannabis) component as opposed to the controlled-substance charge, so the cannabis figure is not split out.
   - No court outcome or plea had been reported; the case was at the charged stage, awaiting a bond hearing.
+  - >-
+    The WBTW/AOL reprint illustrated the Florence arrest with a stock handcuffs-and-jail-bars graphic,
+    so it is not listed as media.
 ---
 
 A Florence, South Carolina man is facing methamphetamine and marijuana charges,

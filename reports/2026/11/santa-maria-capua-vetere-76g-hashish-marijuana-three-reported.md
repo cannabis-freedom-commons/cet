@@ -56,6 +56,7 @@ open_questions:
   - No court outcome or next hearing beyond the referral to the judicial authority was reported.
   - The suspects are identified only by birth year, age, origin and residence, with no names given.
   - No street or official value for the seized drugs was published.
+  - Il Crivello illustrated the Santa Maria Capua Vetere home blitz with a night roadside dog-unit car search that does not show this seizure, so no event photo is listed.
 ---
 
 Carabinieri of the Santa Maria Capua Vetere station, supported by the force's
