@@ -59,33 +59,38 @@ sources:
     publisher: Teleclub
     date: 2026-11-14
     language: it
+  - title: 'Trentola Ducenta: due arresti per droga, cocaina e hashish sequestrati'
+    url: https://www.cronachedellacampania.it/2026/11/trentola-ducenta-due-arresti-droga-cocaina-hashish-sequestrati/
+    publisher: Cronache della Campania
+    date: 2026-11-14
+    language: it
 open_questions:
-  - L'Eco di Caserta illustrates the Trentola Ducenta arrest with a Carabinieri wardrobe search that shows no hashish or the couple, so no event evidence photo is listed.
-  - The 11.15 grams of cocaine found in the car are excluded from the cannabis weight; only the 258.98 grams of hashish are counted as kg_seized.
-  - No outcome of the fast-track hearing set for the morning of 14 November was reported in the opened sources.
-  - Both opened accounts reproduce the same Carabinieri account, so they are not fully independent reporting.
+    - L'Eco di Caserta illustrates the Trentola Ducenta arrest with a Carabinieri wardrobe search that shows no hashish or the couple, so no event evidence photo is listed.
+    - The 11.15 grams of cocaine found in the car are excluded from the cannabis weight; only the 258.98 grams of hashish are counted as kg_seized.
+    - No outcome of the fast-track hearing set for the morning of 14 November was reported in the opened sources.
+    - All opened accounts, including Cronache della Campania, reproduce the same Carabinieri statement, so they are not fully independent reporting.
 ---
 
 Carabinieri from the Trentola Ducenta station arrested two Teverola residents, a
 46-year-old man already known to police and a 40-year-old woman, on suspicion of
-drug possession for dealing. [@1,3] Il Meridiano News likewise reports that the
+drug possession for dealing. [@1,3,4] Il Meridiano News likewise reports that the
 Trentola Ducenta station Carabinieri arrested the 46-year-old man and
 40-year-old woman late on 13 November for alleged possession for dealing. [@2]
 The operation began with a check of the Fiat Panda in which the two were
-travelling. [@1,3] The Carabinieri stopped the couple during a routine road check carried out as part of a territory-control service. [@3]
+travelling. [@1,3,4] The Carabinieri stopped the couple during a routine road check carried out as part of a territory-control service. [@3]
 
 A search of the car found 44 doses of cocaine weighing 11.15 grams in total,
-plus 192.05 euros in small-denomination notes thought to come from dealing. [@1,3]
+plus 192.05 euros in small-denomination notes thought to come from dealing. [@1,3,4]
 A later search of the couple’s home found four blocks of hashish weighing 258.98
-grams in total. [@1,3] The second account likewise says officers found another
+grams in total. [@1,3,4] The second account likewise says officers found another
 four blocks of hashish weighing about 259 grams at the couple’s home. [@2]
 Officers seized all the drugs found and the cash pending further legal steps and
-placing them at the disposal of the judicial authority. [@1]
+placing them at the disposal of the judicial authority. [@1,4]
 
 After the formalities the two were taken to their home and placed under house
-arrest as ordered by the judicial authority informed by the officers. [@1,3] A
-fast-track trial for both was set for the morning of 14 November. [@1,3] The
+arrest as ordered by the judicial authority informed by the officers. [@1,3,4] A
+fast-track trial for both was set for the morning of 14 November. [@1,3,4] The
 proceedings were in the preliminary-investigation phase, so the suspects are
-considered innocent until any final conviction. [@1] The second account likewise
+considered innocent until any final conviction. [@1,4] The second account likewise
 says the drugs and money were seized and the two were then placed under house
 arrest at home. [@2]
