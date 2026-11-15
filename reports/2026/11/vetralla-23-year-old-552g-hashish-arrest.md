@@ -53,12 +53,17 @@ sources:
     publisher: Civonline
     date: 2026-11-14
     language: it
+  - title: 'Cocaina in auto e hashish in casa: arrestato 23enne di Vetralla'
+    url: https://www.viterbotoday.it/cronaca/giovane-vetralla-arresto-droga-14-11-2026.html
+    publisher: ViterboToday
+    date: 2026-11-14
+    language: it
 open_questions:
-  - No separate date is given for the stop, search or arrest; 14 November 2026 is the publication date and is used as the incident date, while the Carabinieri press release was dated 10 November 2026, suggesting the operation occurred earlier.
-  - The hashish weight is reported as 552 grams and the cocaine as about 106 grams, not confirmed laboratory measurements.
-  - The page summary mentions the seizure of the car as well as the scale, but the article body confirms only the seizure of the drugs and the equipment.
-  - No plea, charge details beyond possession for dealing, or court outcome was reported; the case was at the preliminary-investigation stage.
-  - Both accounts reproduce the same Carabinieri statement and are not independent reporting.
+    - No separate date is given for the stop, search or arrest; 14 November 2026 is the publication date and is used as the incident date, while the Carabinieri press release was dated 10 November 2026, suggesting the operation occurred earlier.
+    - The hashish weight is reported as 552 grams and the cocaine as about 106 grams, not confirmed laboratory measurements.
+    - The page summary mentions the seizure of the car as well as the scale, but the article body confirms only the seizure of the drugs and the equipment.
+    - No plea, charge details beyond possession for dealing, or court outcome was reported; the case was at the preliminary-investigation stage.
+    - All four cited accounts reproduce the same Carabinieri statement and are not independent reporting.
 media:
   - kind: photo
     url: https://www.viterbonews24.it/news/vetralla,-23enne-arrestato-con-oltre-mezzo-chilo-di-hashish-e-cocaina_159430.htm
@@ -70,17 +75,17 @@ media:
 ---
 
 Carabinieri from the Vetralla station arrested a 23-year-old local man caught in
-the act on suspicion of possessing drugs for the purpose of dealing. [@1,3] On the
+the act on suspicion of possessing drugs for the purpose of dealing. [@1,3,4] On the
 orders of the Public Prosecutor's Office of Viterbo, he was taken to the
-Nicandro Izzo prison in Viterbo. [@1,3]
+Nicandro Izzo prison in Viterbo. [@1,3,4]
 
 Officers intercepted the young man's car on state road 1 Aurelia Bis in the
 Vetralla area as part of a targeted anti-dealing territorial control involving
 the Vetralla and Viterbo stations, the operational section of the Viterbo
-company and the Monte Romano station. [@1,3] Searching the vehicle, officers found
-about 106 grams of cocaine. [@1,3] A subsequent home search recovered another 552
+company and the Monte Romano station. [@1,3,4] Searching the vehicle, officers found
+about 106 grams of cocaine. [@1,3,4] A subsequent home search recovered another 552
 grams of hashish and a precision scale believed to have been used to prepare
-doses. [@1,3] All of the drugs and the equipment were seized. [@1,3]
+doses. [@1,3,4] All of the drugs and the equipment were seized. [@1,3,4]
 
 At his home, officers found 552 grams of hashish and a precision scale used to
 package doses of drugs. [@2] The Carabinieri announced the operation through a
