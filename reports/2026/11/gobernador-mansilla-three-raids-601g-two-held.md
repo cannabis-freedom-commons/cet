@@ -60,23 +60,23 @@ sources:
     publisher: AHORA Entre Ríos
     date: 2026-11-14
     language: es
-open_questions:
-  - No ages, names or individual roles were reported for the two detained men or the identified woman.
-  - The 601 grams is the reported total of flowers, plants and remnants; no laboratory confirmation was reported.
-  - Cash was reported seized but no amount was published, so no cash figure is recorded.
-  - The metal scissors with cocaine traces is excluded from the cannabis figures because no separable cocaine weight was given.
+  - title: Tres allanamientos por narcomenudeo en Gobernador Mansilla
+    url: https://lagacetaonline.com.ar/policiales/tres-allanamientos-por-narcomenudeo-en-gobernador-mansilla/
+    publisher: LaGACETA online
+    date: 2026-11-14
+    language: es
 ---
 
 Police carried out three simultaneous raids in Gobernador Mansilla, department
-Tala, on Friday 13 November 2026. [@1] Officers searched two homes and a
+Tala, on Friday 13 November 2026. [@1,4] Officers searched two homes and a
 commercial premises in the town as part of an investigation into alleged drug
 fractioning and sale. [@1] Two men were apprehended and taken to the Tala
 departmental headquarters, where they remained at the disposal of the courts.
 [@1] The two men were held incommunicado and a woman was identified in
-connection with the case. [@2]
+connection with the case. [@2,4]
 
 Officers seized 434.3 grams of cannabis flowers, 165 grams of cannabis sativa
-plants and 1.7 grams of marijuana remnants. [@2] The reported cannabis plant
+plants and 1.7 grams of marijuana remnants. [@2,4] The reported cannabis plant
 material totalled 601 grams. [@2] Police also seized two mobile phones, a
 digital scale, nylon cuttings, a glass jar with marijuana traces and a camera
 memory card. [@2] Investigators also seized cash and a Volkswagen Bora car,
@@ -84,8 +84,7 @@ which was added to the case file. [@1] Officers also seized a metal scissors
 containing cocaine traces, which is excluded from the cannabis total. [@2]
 
 The raids ran between 18:50 and 22:18 and were led by the Rosario del Tala
-Dangerous Drugs division. [@2] The measures were ordered by the Rosario del Tala
+Dangerous Drugs division. [@2] Specialised divisions and special guards of the Nogoyá, Gualeguay and Tala departmental headquarters supported the raids. [@4] The measures were ordered by the Rosario del Tala
 Guarantees Court under Judge Silvina G. Cabrera, with prosecutor Laila Taleb
-intervening. [@2] The case was pursued as alleged infringement of Provincial Law
+intervening. [@2,4] The case was pursued as alleged infringement of Provincial Law
 10.566 on narcomenudeo, the provincial term for small-scale drug dealing. [@3]
-
