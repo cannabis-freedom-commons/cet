@@ -34,6 +34,14 @@ data_sources:
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2242cacee09bd9eb7276a40f72b42ec2
+media:
+  - kind: photo
+    url: https://www.ajkerbangladesh.com.bd/crime/2026/11/04/218410
+    media_url: https://www.ajkerbangladesh.com.bd/wp-content/uploads/2026/11/Madok-karbari.jpg
+    publisher: Ajker Bangladesh
+    caption: >-
+      Eight of the men held in the Rajshahi city drug sweep, shown in a custody
+      composite. Photo: Ajker Bangladesh
 tags: [rajshahi, ganja, tapentadol, drug-sweep]
 sources:
   - title: রাজশাহীতে মাদক বিরোধী অভিযানে মাদক কারবারি-সহ গ্রেপ্তার ৩১

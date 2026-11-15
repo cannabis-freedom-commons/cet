@@ -32,6 +32,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3f5627fbb93681cbfaf0b715934a1b9b
 tags: [minas-gerais, santa-tereza, cannabis]
+media:
+  - kind: photo
+    url: https://www.tvbambui.com.br/noticia/25248/pm-prende-suspeito-apos-apreensao-de-maconha-e-crack-em-formigamg
+    media_url: https://www.tvbambui.com.br/storage/news/25248/6aeb71079db3e.jpeg
+    publisher: TV Bambuí
+    caption: >-
+      Sealed evidence bags with cannabis portions, crack stones and cash before a
+      289ª Cia TM / 63º BPM banner. Photo: TV Bambuí / PMMG
 sources:
   - title: PM prende suspeito após apreensão de maconha e crack no bairro Santa Tereza
     url: https://ultimasnoticias.inf.br/noticia/santa-tereza-bairro-pm/
@@ -44,6 +52,7 @@ sources:
     date: 2026-11-04
     language: pt
 open_questions:
+  - Últimas Notícias illustrates the Santa Tereza arrest with a Cristo Redentor file photograph, so that image is not listed as media.
   - No weight was published for the six cannabis portions, so no kilograms can be recorded.
   - The R$ 207 is seized cash, not an official drug valuation, so no value is recorded.
   - The three crack stones are excluded from cannabis figures under the substance scope.

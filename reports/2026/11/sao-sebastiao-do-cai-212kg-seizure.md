@@ -33,6 +33,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c76afa13cde2913143ffb08ae7dd547b
 tags: [sao-sebastiao-do-cai, rio-grande-do-sul, operacao-narke]
+media:
+  - kind: photo
+    url: https://www.pc.rs.gov.br/policia-civil-apreende-mais-de-200-kg-de-maconha-em-sao-sebastiao-do-cai
+    media_url: https://www.pc.rs.gov.br/upload/recortes/202611/03201758_612406_GD.jpeg
+    publisher: Polícia Civil RS
+    caption: >-
+      Stacked blue-wrapped marijuana bricks at DENARC after Operation Narke in São
+      Sebastião do Caí. Photo: Polícia Civil RS
 sources:
   - title: Polícia Civil apreende mais de 200 kg de maconha em São Sebastião do Caí
     url: https://www.pc.rs.gov.br/policia-civil-apreende-mais-de-200-kg-de-maconha-em-sao-sebastiao-do-cai

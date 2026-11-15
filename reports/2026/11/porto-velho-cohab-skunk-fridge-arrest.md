@@ -35,6 +35,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 24b5e2bd5773216f8a16662dec7d9ef6
 tags: [porto-velho, rondonia, skunk]
+media:
+  - kind: photo
+    url: https://sgc.com.br/noticia/5/453927/video-jovem-e-preso-com-mais-de-100-porcoes-de-skunk-e-cocaina-escondidas-em-geladeira-na-zona-sul
+    media_url: https://sgc.com.br/images/2026/11/03/17937393996aea4a87218c3.jpg
+    publisher: Portal SGC
+    caption: >-
+      Skunk portions, cocaine packets, cash, a knife and a bag before a DENARC
+      Rondônia banner after the Cohab fridge seizure. Photo: Portal SGC / DENARC
 sources:
   - title: 'VÍDEO: Jovem é preso com mais de 100 porções de skunk e cocaína escondidas em geladeira na zona Sul'
     url: https://diariodaamazonia.com.br/noticia/5/453927/video-jovem-e-preso-com-mais-de-100-porcoes-de-skunk-e-cocaina-escondidas-em-geladeira-na-zona-sul

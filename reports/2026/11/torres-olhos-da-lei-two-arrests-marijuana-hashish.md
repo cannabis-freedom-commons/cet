@@ -50,6 +50,7 @@ sources:
     date: 2026-11-14
     language: pt
 open_questions:
+  - Jornal Rota do Mar illustrates Operação Olhos da Lei with a crack-portion evidence table and a Brigada Militar courtyard formation, with no marijuana or hashish visible, so no event photo is listed.
   - No weight was published for the one marijuana portion or the one hashish portion, so no cannabis kilograms can be recorded.
   - The two people were not named, and no custody decision, charge document or court outcome beyond arrest for drug trafficking was reported.
   - No value estimate, laboratory confirmation or exact times of the two actions were published.

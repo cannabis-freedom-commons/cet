@@ -38,6 +38,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 70752b6c8f35c2e25da5629c48f5d8d2
 tags: [narail, mobile-court, dnc, ganja, yaba]
+media:
+  - kind: photo
+    url: https://somoyerkonthosor.com/post/2026/11/04/6aeb6a4abdb17
+    media_url: https://somoyerkonthosor.com/admin/post_image/IMG_20261104_222552-6aeb68d36c5f4.webp
+    publisher: Somoyer Konthosor
+    caption: >-
+      Kamrul Hasan Shimul, Mohidul Islam and Jasim Molla stand before a Narail DNC
+      press-briefing sign after the Bhadulidanga arrests. Photo: Somoyer Konthosor / DNC
 sources:
   - title: নড়াইলে ইয়াবা ও গাঁজাসহ আটক ৩, দুজনের কারাদণ্ড ও জরিমানা
     url: https://www.bd24live.com/bangla/811933
@@ -53,7 +61,7 @@ open_questions:
   - No single prison term or fine is recorded in figures because Shimul and Mohidul Islam received different jail terms and different fines.
   - The yaba counts of 69 tablets in total, and 4 and 65 tablets individually, are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - Only one accessible source for this 4 November event was found after searching in Bengali and English.
-  - BD24Live's three-person Narail DNC briefing photo names Kamrul Hasan Shimul, Azizul Islam and Jasim Molla, while the opened account names Mohidul Islam rather than Azizul, so the image is not listed as media for this report.
+  - BD24Live's three-person Narail DNC briefing photo labels the middle man Azizul Islam, while the opened accounts and Somoyer Konthosor's briefing photo name Mohidul Islam, so the BD24Live image is not listed as media.
   - Coordinates are for Narail town as the centre of Narail Sadar Upazila, not the exact rented house.
   - The separate 2 November Narail Sadar operation that also seized 20 grams of ganja involved different men and places and is treated as a different event left out here.
 ---

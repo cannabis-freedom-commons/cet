@@ -41,6 +41,7 @@ sources:
     date: 2026-11-04
     language: pt
 open_questions:
+  - Hora Hiper illustrates the Campestre arrest with a cocaine-pin evidence layout and no cannabis visible, so no event photo is listed.
   - The year 2026 for the 3 November incident date is inferred because the account published on 4 November 2026 describes the occurrences as happening on Tuesday day 3.
   - Only one outlet account of this event could be opened, and no second independent source confirming the Campestre seizure was found.
   - What happened to the second adolescent in Campestre who fled toward the woods was not reported.

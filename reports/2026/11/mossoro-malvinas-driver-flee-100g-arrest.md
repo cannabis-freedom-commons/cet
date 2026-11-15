@@ -52,6 +52,7 @@ sources:
     date: 2026-11-05
     language: pt
 open_questions:
+  - Mossoró Notícias illustrates the Malvinas chase with a Civil Police press-conference screenshot, so no event photo is listed.
   - The article gives no separate date for the approach; 5 November 2026 is its publication date and is used as the incident date.
   - The marijuana amount is reported only as more than 100 grams, so the recorded weight is a lower bound.
   - The drugs found hidden under the suspect's sandal are not identified by substance or weight.
