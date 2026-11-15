@@ -150,6 +150,11 @@ sources:
     publisher: Notigram
     date: 2026-11-14
     language: es
+  - title: Aseguran megalaboratorios de marihuana vinculados al Tío Lako en Degollado, Jalisco
+    url: https://partidero.com/aseguran-megalaboratorios-de-marihuana-vinculados-al-tio-lako-en-degollado-jalisco/
+    publisher: Partidero
+    date: 2026-11-14
+    language: es
 open_questions:
     - The same page also reports the detention of Giancarlo 'N', alias El Raptor, in a separate Jalisco operation, a different event left out here.
     - The number of plants and the volume of cannabis substances found were not reported.
@@ -164,13 +169,13 @@ Heraclio 'N', alias Tío Laco, identified as the regional boss of the Jalisco Ne
 Generation Cartel in the area. [@1,4,8,9,10,12] The installations were operated by a group led by Heraclio Guerrero Martínez, alias Tío Lako, described as a regional CJNG chief with operations in Jalisco and Michoacán. [@6,11]
 
 At the site the authorities seized firearms, cartridges, two synthetic-drug
-production centers and two marijuana greenhouses. [@1,4,5,8,9,11,12] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6,10,13,14,15] Machinery, tools and
+production centers and two marijuana greenhouses. [@1,4,5,8,9,11,12] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6,10,13,14,15,16] Machinery, tools and
 various items recovered on the property were used to make methamphetamine and to
 process and extract high-purity cannabidiol (CBD) and tetrahydrocannabinol (THC)
 from marijuana. [@2,4,6,9,10]
 
 Everything seized was handed over to the Federal Attorney General's Office,
 which is continuing its investigations and forensic work to determine the legal
-situation arising from the operation. [@1,4] Everything seized was placed at the disposal of the FGR at its headquarters in Mexico City to continue investigations and expert work. [@6,10,13,14,15] No arrests or charges were reported
+situation arising from the operation. [@1,4] Everything seized was placed at the disposal of the FGR at its headquarters in Mexico City to continue investigations and expert work. [@6,10,13,14,15,16] No arrests or charges were reported
 in this operation; the authorities said the legal situation of the people
 involved is still to be determined. [@3]
