@@ -51,6 +51,7 @@ open_questions:
   - No names were published for the four people taken in, and no charge, custody or court outcome beyond the on-call station referral was reported.
   - Only one accessible outlet account of this event was found after searching in Portuguese.
   - Folha do Povo Itaúna illustrated the Piedade raid with a Tático Móvel banner photo of a pistol and large cash stacks that does not match the 9ª Cia release amounts, so no event photo is listed.
+  - Viu Itaúna illustrates the Piedade operation with a distant street photo of parked patrol vehicles and no cannabis evidence, so no event media is listed.
   - Viu Itaúna illustrates the same raid with a PMMG roundup infographic and a distant patrol-vehicle street shot, so those images are not listed as media.
 ---
 

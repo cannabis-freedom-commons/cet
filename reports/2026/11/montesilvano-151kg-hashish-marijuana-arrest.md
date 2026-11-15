@@ -42,6 +42,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 590e22bf0cd82ee1cdb31ff76ade3f7d
 tags: [montesilvano, pescara, abruzzo, hashish]
+media:
+  - kind: photo
+    url: https://www.abruzzoweb.it/pescara-arrestato-pregiudicato-in-possesso-di-15-kg-hashish-e-750-grammi-cocaina/
+    media_url: https://www.abruzzoweb.it/wp-content/uploads/2026/11/foto-comunicato-del-14.jpg
+    publisher: Abruzzo Web
+    caption: >-
+      Hashish bricks, marijuana jars, cocaine bags, cash, a vacuum sealer and a
+      scale from the Montesilvano flat seizure. Photo: Abruzzo Web / Polizia di Stato
 sources:
   - title: 'PESCARA: ARRESTATO PREGIUDICATO IN POSSESSO DI 1,5 KG HASHISH E 750 GRAMMI COCAINA'
     url: https://www.abruzzoweb.it/pescara-arrestato-pregiudicato-in-possesso-di-15-kg-hashish-e-750-grammi-cocaina/
