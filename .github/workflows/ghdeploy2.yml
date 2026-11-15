@@ -22,6 +22,22 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  # the tests (sources, citations, folders, country ids) run beside the build; a failure stops
+  # deployment, as the deploy job needs both
+  test:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0 # the changelog tests read the commit history
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm test
+
   build:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-24.04
@@ -36,21 +52,32 @@ jobs:
       - id: pages
         uses: actions/configure-pages@v6
       - run: npm ci
-      # npm run build runs the tests first (sources, citations, folders, country ids); a failure
-      # stops deployment. The site URL and sub-path come from the repository's Pages settings, so
-      # the same build works for user.github.io/repo and for tracker.cannabisfreedom.fyi.
-      - run: npm run build
+      # Astro's content store and optimised images from the last build: only changed reports are
+      # read again (a full sync takes some 45 s, a warm one about 10 s). Saved under the run, so
+      # each build starts from the newest.
+      - uses: actions/cache@v4
+        with:
+          path: node_modules/.astro
+          key: astro-${{ hashFiles('package-lock.json') }}-${{ github.run_id }}
+          restore-keys: |
+            astro-${{ hashFiles('package-lock.json') }}-
+      # astro build directly: npm run build would run the tests again (prebuild), which the test
+      # job does. The site URL and sub-path come from the repository's Pages settings, so the
+      # same build works for user.github.io/repo and for tracker.cannabisfreedom.fyi.
+      - run: npx astro build
         env:
           SITE: ${{ steps.pages.outputs.origin }}
           BASE_PATH: ${{ steps.pages.outputs.base_path }}
           # the submissions backend (docs/DEPLOY.md); unset leaves the submission form off
           PUBLIC_SUBMISSIONS_API_URL: ${{ vars.PUBLIC_SUBMISSIONS_API_URL }}
+          # four pages at a time need more than Node's default heap
+          NODE_OPTIONS: --max-old-space-size=8192
       - uses: actions/upload-pages-artifact@v5
         with:
           path: dist
 
   deploy:
-    needs: build
+    needs: [test, build]
     runs-on: ubuntu-24.04
     environment:
       name: github-pages-new

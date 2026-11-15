@@ -129,6 +129,8 @@ export default defineConfig({
   site: process.env.SITE || "https://tracker.cannabisfreedom.fyi",
   base,
   integrations: [reportsDev(), sitemap()],
+  // some 25,000 pages are rendered four at a time instead of one by one (BUILD_CONCURRENCY overrides)
+  build: { concurrency: Number(process.env.BUILD_CONCURRENCY) || 4 },
   vite: {
     server: {
       // the Go backend's code and job storage, and reports with their photo manifest: refreshed only
