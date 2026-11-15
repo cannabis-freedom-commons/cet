@@ -40,6 +40,7 @@ sources:
     date: 2026-11-04
     language: bn
 open_questions:
+  - Narayanganj Post illustrates the bus arrest with a district map graphic, so no event photo is listed.
   - The articles date the search to "Tuesday, 3 November"; both were published on 4 November 2026, and no separate police statement date is given.
   - Neither account says where on the bus or on the passengers the 14 kg was hidden, how it was packed, or what value officers estimated.
   - No court outcome beyond the transfer to court on 4 November was reported.

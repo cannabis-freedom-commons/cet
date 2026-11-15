@@ -45,6 +45,14 @@ tags:
   - brahmanbaria
   - ganja
   - kasba
+media:
+  - kind: photo
+    url: https://www.sorejominbarta.com/country/article/66132
+    media_url: https://sorejominbarta.com/public/uploads/2026-11/IMG-20261104-WA0052_original_1793793959.webp
+    publisher: Sorejomin Barta
+    caption: >-
+      Md. Jamal Mia stands with Kasba police officers and two wrapped ganja sacks
+      after the Chhoto Bayek house raid. Photo: Sorejomin Barta
 sources:
   - title: কসবায় পুলিশের অভিযান, গাঁজাসহ গ্রেপ্তার ১
     url: https://www.ajkalerkhobor.net/news/208519
@@ -80,7 +88,7 @@ open_questions:
     geolocated.
   - No estimated value for the 29 kg of ganja was published.
   - The Financial Post does not state the case number or any court outcome beyond confirmation that a Narcotics Control Act case was filed.
-  - The page photo is captioned only as a collected image with no credit and is not confirmed to show this seizure, so it is not listed as media.
+  - Daily Ajkalerkhobor's collected image is not confirmed to show this seizure; the Sorejomin Barta custody photo is listed instead.
 ---
 
 Kasba police arrested Jamal Mia after recovering 29 kilograms of ganja from his house in Chhoto Bayek Madhyapara. [@1,2,3,4]

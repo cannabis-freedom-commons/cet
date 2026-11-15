@@ -37,6 +37,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e5389ae22c7efbfa247036ab3dbf3537
 tags: [kurigram, bhurungamari, ganja, bgb, border-seizure]
+media:
+  - kind: photo
+    url: https://dailysangram.com/bangladesh/country-news/hDQdsGLBltb9/
+    media_url: https://static.dailysangram.com/images/17b9bdf6-ce06-4734-9bf7-522cbe5d7652.original.jpg
+    publisher: দৈনিক সংগ্রাম
+    caption: >-
+      Maruf Hossain stands with BGB officers of the Diyadanga border outpost beside a
+      ganja bundle and an easy-bike after the Kurigram Battalion seizure. Photo: দৈনিক সংগ্রাম
 sources:
   - title: ভূরুঙ্গামারীতে বিজিবির অভিযানে গাঁজা ও গরুসহ গ্রেপ্তার-১
     url: https://dailysangram.com/bangladesh/country-news/hDQdsGLBltb9/
@@ -54,6 +62,7 @@ open_questions:
   - Non-cannabis items including medicines, cosmetics, phones, a cow and the auto-rickshaw are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - No court outcome beyond the filing of the case and handover to Bhurungamari police was reported.
   - Coordinates are for the Bhurungamari upazila centre, not a surveyed point for the multiple border posts.
+  - Non-cannabis items visible in the photo, including phones and the easy-bike, are shown with the accused but excluded from cannabis figures.
 ---
 
 Border Guard Bangladesh detained 21-year-old Maruf Hossain, also called Suruj,

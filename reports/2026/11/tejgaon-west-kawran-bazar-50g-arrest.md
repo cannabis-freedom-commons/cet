@@ -34,6 +34,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 56aabd0435f2c5d710051595b241ed3d
 tags: [tejgaon, dhaka, ganja]
+media:
+  - kind: photo
+    url: https://dmpnews.org/%E0%A6%A4%E0%A7%87%E0%A6%9C%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A7%87/
+    media_url: https://dmpnews.org/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-5.01.14-PM.jpeg.jpg
+    publisher: DMP News
+    caption: >-
+      Md Manik Hossain Molla stands with DMP intelligence officers after the West
+      Kawran Bazar stop. Photo: DMP News
 sources:
   - title: তেজগাঁওয়ে ছিনতাইয়ের চেষ্টাকালে একজন গ্রেফতার
     url: https://dmpnews.org/%E0%A6%A4%E0%A7%87%E0%A6%9C%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A7%87/
@@ -44,6 +52,7 @@ open_questions:
   - Only one source for this event could be opened, and no second report confirming the arrest was found.
   - Whether the recovered ganja resulted in a separate narcotics charge or is being handled only alongside the attempted-mugging allegation is not stated.
   - No court outcome, value estimate, or additional cannabis figure was published.
+  - The published custody photo shows the accused with officers but does not display the 50 grams of ganja.
 ---
 
 Dhaka Metropolitan Police's Intelligence Analysis Division, SRU, arrested a man

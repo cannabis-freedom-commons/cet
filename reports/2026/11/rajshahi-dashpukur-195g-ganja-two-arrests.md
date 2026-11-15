@@ -45,6 +45,7 @@ open_questions:
   - The reported drug-sale cash, including 4,240 taka, and three mobile phones are combined or non-cannabis seizure details, so no cannabis value is recorded.
   - The same article's wider same-day roundup of 25 people, including seven on warrants, four in drug cases and 14 in other cases, is a separate enforcement result left out of this report.
   - Only one accessible source for this seizure was found after searching in Bengali and English.
+  - Rajshahir Somoy illustrates the citywide roundup with a four-person lineup that is not identified as the two Dashpukur ganja arrests, so it is not listed as media.
   - 'Left out, as its quotation was not found in Rajshahir Somoy: In a separate tablet action around 11:45 am, detectives arrested 37-year-old Zakir Hossain with 90 tapentadol tablets and 4,240 taka in alleged sale proceeds at Court Bulonpur.'
 ---
 

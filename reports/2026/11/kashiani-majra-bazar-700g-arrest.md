@@ -36,6 +36,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c628735709f9f07a5a2da9d8944c4f42
 tags: [gopalganj, kashiani, ganja, srb-6]
+media:
+  - kind: photo
+    url: https://thedailycampus.com/crime-and-discipline/280347
+    media_url: https://files.thedailycampus.com/assets/img/202611/og_1793691795_1125b3a918b2edf0fa25.jpg
+    publisher: The Daily Campus
+    caption: >-
+      B.M. Naimur Rahman stands before an SRB-6 Bhatiapara Camp backdrop after the
+      Majra Bazar arrest. Photo: The Daily Campus
 sources:
   - title: কাশিয়ানীতে ইয়াবা-গাঁজাসহ মাদক ব্যবসায়ী আটক | STAR NEWS
     url: https://starnews.com.bd/country/28135/drug-dealer-arrested-with-yaba-and-cannabis-in-kashiani.html
@@ -81,6 +89,7 @@ open_questions:
   - The 1,380 yaba pills are methamphetamine-type tablets, not cannabis, and are excluded from the cannabis figures above.
   - The operation is described as Monday 2 November at 12:30 at night, which spans midnight into 3 November, and 2 November is used as the incident date as stated.
   - The Star News account says the Narcotics Control Act case names both the detained man and the fugitive, while the Daily Campus account says it names only the detained man, so the charged figure is omitted.
+  - The published SRB-6 briefing photo shows the accused but not the 700 grams of ganja or the yaba.
 ---
 
 Special Response Battalion-6 arrested 28-year-old B. M. Naimur Rahman in

@@ -31,6 +31,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 808e8d10f556d079049844553b76caf3
 tags: [sunamganj, chhatak, ganja]
+media:
+  - kind: photo
+    url: https://www.ekusheysangbad.com/country/news/528102
+    media_url: https://www.ekusheysangbad.com/media/imgAll/2025May/Untitled-1-20261104104230.jpg
+    publisher: Ekushey Sangbad
+    caption: >-
+      Bijoy Robi Das stands with Detective Branch officers after the Chhatak ganja
+      arrest. Photo: Ekushey Sangbad
 sources:
   - title: পৃথক অভিযানে গাঁজা-ইয়াবা ব্যবসায়ী আটক ২
     url: https://www.ekusheysangbad.com/country/news/528102
@@ -48,6 +56,7 @@ open_questions:
   - No charges, custody decision or court outcome for the cannabis arrest were reported.
   - The 1,104 taka is described as cash proceeds, not as the value of the cannabis, so no drug value is recorded.
   - 'The two accounts give different times for the Chhatak arrest: this report places it at about 3:40 am on Wednesday, while the earlier Ekushey Sangbad account said about 3:30 pm.'
+  - The published custody photo shows the accused with detectives but does not display the 1 kg of ganja.
   - It remains unclear whether a regular case under the Narcotics Control Act was filed over the cannabis arrest specifically, because the filing statement covers both the cannabis and yaba raids together.
 ---
 

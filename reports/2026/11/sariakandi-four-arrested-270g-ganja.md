@@ -47,6 +47,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Daily Karatoa: The 12 tapentadol tablets, a prescription opioid, were found on Tarafder and Pramanik; the report calls them intoxicated or narcotic tablets.'
   - 'Left out, as its quotation was not found in Daily Karatoa: Mia, the 50-year-old, was found carrying 230 grams of ganja and the 35-year-old was carrying 40 grams.'
   - 'Left out, as its quotation was not found in Daily Karatoa: Sariakandi police station officer in charge AFM Asaduzzaman said separate drug cases were filed against the four.'
+  - Daily Karatoa illustrates the page with a six-detainee lineup that does not match the four named Sariakandi arrests, so it is not listed as media.
 ---
 
 Police in Sariakandi, Bogura arrested four alleged drug traders. [@1] Officers

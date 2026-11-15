@@ -50,6 +50,7 @@ sources:
     date: 2026-11-13
     language: pt
 open_questions:
+  - JR Jundiaí illustrates the Residencial Jundiaí arrest with a generic plantão policial graphic, so no event photo is listed.
   - Jornal da Região illustrates the Residencial Jundiaí arrest with a Plantão Policial station exterior and police car, so no event photo is listed.
   - The marijuana was described as apparently marijuana and portions of greenish substance, with laboratory confirmation still pending when reported.
   - The 22 grams of K2 is a synthetic cannabinoid and is excluded from cannabis figures; the 44 grams of cocaine and 16 grams of crack are non-cannabis components of the same seizure.

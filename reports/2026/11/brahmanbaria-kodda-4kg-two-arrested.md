@@ -38,6 +38,15 @@ status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c0bb20527fe5a88016c977767548551a
 tags: [brahmanbaria, ganja, dnc]
+media:
+  - kind: photo
+    url: https://bbaria24.com/brahmanbaria/brahmanbaria-akhaura-3-women-arrested-ganja
+    media_url: https://bbaria24.com/storage/articles/2026/11/ed80c653-3138-4964-b5b8-43e2b7cf0d7e.webp
+    publisher: BBaria24
+    caption: >-
+      Left panel: the two women arrested near Kodda bridge stand with wrapped ganja
+      bundles before a Brahmanbaria DNC district-office banner; the right panel shows
+      a separate same-day arrest left out of this report. Photo: BBaria24 / DNC
 sources:
   - title: ব্রাহ্মণবাড়িয়ায় গাঁজাসহ দুই নারী গ্রেপ্তার
     url: https://www.dhakatoday.com/news/92770/ব্রাহ্মণবাড়িয়ায়-গাঁজাসহ-দুই-নারী-গ্রেপ্তার
@@ -61,7 +70,7 @@ sources:
     language: bn
 open_questions:
   - The BBaria24 report also describes a separate 2 kg ganja arrest of a third woman near the Akhaura Bypass the same day, a different event left out here.
-  - No page carries a photo caption establishing that its image shows this Kodda bridge seizure, so no photo is listed.
+  - The BBaria24 and Sorejomin images are a diptych of two same-day DNC arrests; only the left panel of two women with bundles is treated as this Kodda bridge seizure.
   - No street value for the seized ganja was published.
   - No court outcome beyond the filing of the regular case was reported.
   - The submitted article also describes a separate 2 kg ganja arrest of Piyasi Jannat Mim near a tea shop by the Akhaura Bypass the same day, a different event left out here.
