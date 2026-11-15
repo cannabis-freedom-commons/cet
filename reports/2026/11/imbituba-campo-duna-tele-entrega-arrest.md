@@ -43,6 +43,7 @@ sources:
     date: 2026-11-04
     language: pt
 open_questions:
+  - RSC Portal illustrates the Campo d’Una tele-delivery arrest with an AI-generated image, so no event photo is listed.
   - Only one accessible source for this event was found after searching in Portuguese; the account repeats the Military Police version with no separate official statement opened.
   - The room figure of approximately 1.9 kilos is approximate, so the 1.9777 kg total combines exact small weights with an approximate bulk weight.
   - Cocaine weights of 0.6 gram and 19.3 grams are excluded from cannabis figures, and no combined drug total is counted as cannabis.

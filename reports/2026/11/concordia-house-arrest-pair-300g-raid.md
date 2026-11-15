@@ -37,6 +37,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7a91982802b8ec30847f8ee4c77d61f3
 tags: [concordia, entre-rios, allanamiento, marihuana, prision-domiciliaria]
+media:
+  - kind: photo
+    url: https://concordia24.com.ar/detuvieron-a-la-chicha-lopez-y-al-bocha-carrera-con-cocaina-y-marihuana-mientras-cumplian-arresto-domiciliario/
+    media_url: https://concordia24.com.ar/wp-content/uploads/2026/11/IMG-20261114-WA0039.jpg
+    publisher: Concordia 24
+    caption: >-
+      Marijuana plant material, cocaine wrappers, cash, phones and a scale laid out
+      after the Concordia house raids. Photo: Concordia 24
 sources:
   - title: 'Concordia: estaban bajo prisión domiciliaria y volvieron a quedar detenidos: les secuestraron drogas, armas y municiones'
     url: https://7paginas.com.ar/concordia-estaban-bajo-prision-domiciliaria-y-volvieron-a-quedar-detenidos-les-secuestraron-drogas-armas-y-municiones/
@@ -49,8 +57,8 @@ sources:
     date: 2026-11-14
     language: es
 open_questions:
-  - 7 Páginas illustrates the Concordia raid with a weapons-and-phones evidence photo and no marijuana visible, so no event photo is listed.
-  - Concordia 24 led with officers loading a seized Honda motorcycle onto a pickup, with no marijuana visible, so that image is not listed as media.
+  - 7 Páginas also ran a weapons-and-phones evidence photo with no marijuana visible, so that image is not listed as media.
+  - Concordia 24 also showed officers loading a seized Honda motorcycle onto a pickup, with no marijuana visible, so that image is not listed as media.
   - The article published on 14 November 2026 dates the operation only to 'this Friday', so 13 November 2026 is used as the incident date.
   - The 11 cocaine wrappers were reported without a weight, so only the separately stated 300 grams of marijuana is counted as cannabis.
   - No laboratory confirmation for the marijuana was reported.

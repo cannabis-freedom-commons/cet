@@ -30,6 +30,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 47c9fa92cbbdd887bea484e4fa61c483
 tags: [campos-dos-goytacazes, rio-de-janeiro, maconha]
+media:
+  - kind: photo
+    url: https://www.portalozk.com/vaf/noticias/policia/dupla-e-conduzida-a-delegacia-apos-apreensao-de-maconha-e-cocaina-em-campos/50470/
+    media_url: https://www.portalozk.com/vaf/img/noticias/s/b974f92c384a92deaad1b6628a43f7e7031120261556556aea2e77127b7.jpeg
+    publisher: Portal OZK
+    caption: >-
+      Cannabis wraps, cocaine pins, cash and a Polícia Militar marker after the Campos
+      bus-stop stop. Photo: Portal OZK
 sources:
   - title: Dupla é conduzida à delegacia após apreensão de maconha e cocaína em Campos
     url: https://www.portalozk.com/vaf/noticias/policia/dupla-e-conduzida-a-delegacia-apos-apreensao-de-maconha-e-cocaina-em-campos/50470/

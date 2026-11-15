@@ -35,6 +35,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 895a56999667d4ed251dc18521e91a10
 tags: [ibipora, parana, maconha]
+media:
+  - kind: photo
+    url: https://taroba.com.br/noticias/cidade/homem-e-preso-com-maconha-e-cocaina-em-casa-em-ibipora/amp
+    media_url: https://www.netdeal.com.br/api/images/producao.spayce.com.br/1793734549277_drogas_ibipora.jpg
+    publisher: Portal Tarobá
+    caption: >-
+      Packaged marijuana portions, plastic bags and two digital scales on the floor
+      after the Miguel Petri house seizure. Photo: Portal Tarobá
 sources:
   - title: Homem é preso com maconha e cocaína em casa em Ibiporã
     url: https://tudoibipora.com.br/homem-e-preso-com-maconha-e-cocaina-em-casa-em-ibipora/

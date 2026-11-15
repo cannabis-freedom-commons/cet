@@ -37,6 +37,21 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2134599273585e0b1ae003dda8768afa
 tags: [godoy-cruz, mendoza, uap, marijuana, narcomenudeo]
+media:
+  - kind: photo
+    url: https://prensa.mendoza.gob.ar/la-policia-de-mendoza-realizo-multiples-aprehensiones-y-secuestro-drogas-dinero-y-una-motocicleta-en-godoy-cruz-y-guaymallen/
+    media_url: https://media.mendoza.gob.ar/prensa/uploads/2026/11/WhatsApp-Image-2026-11-10-at-11.29.39-1-1200x900.jpeg
+    publisher: Prensa Gobierno de Mendoza
+    caption: >-
+      Marijuana and cocaine wrappers, cash, a scale and rolling papers on a Mendoza
+      police vehicle after the Godoy Cruz and Guaymallén seizures. Photo: Prensa Mendoza
+  - kind: photo
+    url: https://prensa.mendoza.gob.ar/la-policia-de-mendoza-realizo-multiples-aprehensiones-y-secuestro-drogas-dinero-y-una-motocicleta-en-godoy-cruz-y-guaymallen/
+    media_url: https://media.mendoza.gob.ar/prensa/uploads/2026/11/WhatsApp-Image-2026-11-10-at-11.29.38-900x1200.jpeg
+    publisher: Prensa Gobierno de Mendoza
+    caption: >-
+      A handcuffed man stands facing a wall after the Godoy Cruz foot chase. Photo:
+      Prensa Mendoza
 sources:
   - title: Secuestraron cocaína, marihuana, dinero y una moto durante operativos en Godoy Cruz y Guaymallén
     url: https://www.mdzol.com/policiales/2026/11/10/secuestraron-cocaina-marihuana-dinero-y-una-moto-durante-operativos-en-godoy-cruz-y-guaymallen-1994534.html
@@ -52,6 +67,7 @@ open_questions:
   - No weight or packet count for the seized marijuana or cocaine was published.
   - The detained man was not named, and no formal charge or court outcome was reported.
   - The incident is dated from publication on 10 November 2026 and described only as occurring in the preceding hours, so the exact time is not known.
+  - Prensa Mendoza also published a plastic handgun on a police hood from the same multi-arrest release, so that image is not listed as media for this foot-chase case.
   - 'Left out, as its quotation was not found in Diario Mendoza: The episode began when Unidad de Accion Preventiva personnel on preventive rounds noticed the man trying to move away upon seeing the police.'
   - 'Left out, as its quotation was not found in Diario Mendoza: After the foot pursuit, officers caught him at Pringles and General Paz, searched him and found the substances and the money.'
 ---

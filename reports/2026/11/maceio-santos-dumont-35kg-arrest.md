@@ -37,6 +37,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: da91958c0b53db35c8511fce0ae7fb32
 tags: [maceio, alagoas, maconha]
+media:
+  - kind: photo
+    url: https://www.7segundos.com.br/maceio/noticias/2026/11/04/310385-homem-e-preso-com-35-kg-de-maconha-no-bairro-santos-dumont-em-maceio
+    media_url: https://s3.7segundos.com.br/uploads/imagens/whatsapp-image-2026-11-04-at-072856.jpeg
+    publisher: 7Segundos
+    caption: >-
+      Marijuana bags and two digital scales from the Santos Dumont house search.
+      Photo: 7Segundos / Polícia Militar
 sources:
   - title: Suspeito é preso com mais de 3 kg de maconha dentro de casa
     url: https://www.alagoas24horas.com.br/1772487/suspeito-e-preso-com-mais-de-3-kg-de-maconha-dentro-de-casa/
@@ -56,6 +64,7 @@ sources:
 open_questions:
   - The suspect was not named in the reports.
   - No court outcome beyond the flagrante booking for drug trafficking was reported.
+  - Alagoas 24 Horas and Francês News illustrate the arrest with a Military Police patrol car and a Central de Flagrantes file photo, so those images are not listed as media.
 ---
 
 Military Police arrested a man in the Santos Dumont neighbourhood in upper
