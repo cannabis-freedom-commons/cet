@@ -66,6 +66,11 @@ sources:
     publisher: Ghamasan News
     date: 2026-11-14
     language: hi
+  - title: 'भोपाल: ओडिशा से ट्रेन में गांजा लेकर पहुंचा तस्कर, दो महिलाओं के जरिए होनी थी सप्लाई; पुलिस ने किया जब्त'
+    url: https://www.amarujala.com/madhya-pradesh/bhopal/bhopal-smuggler-arrives-by-train-from-odisha-with-cannabis-supply-was-to-be-carried-out-through-two-women-2026-11-14
+    publisher: Amar Ujala
+    date: 2026-11-14
+    language: hi
 open_questions:
   - The article says the first arrest happened on a Thursday without a calendar date; 12 November 2026, the Thursday before the 14 November publication, is used as the incident date.
   - The two detailed recoveries of 4.104 kg and 4.165 kg add to 8.269 kg, while all outlets report the total as 8.26 kg; the reported total is recorded.
@@ -73,20 +78,26 @@ open_questions:
   - A mobile phone was also seized from Kailash Kushwah alongside the ganja, and is not counted in the cannabis figures.
   - No court production or outcome beyond the two registered NDPS cases was reported; the case was still under investigation.
   - Nai Dunia illustrated the Bhopal arrests with a composite of vacuum-packed ganja bags and a generic handcuff close-up that is not confirmed as this seizure.
+media:
+  - kind: photo
+    url: https://www.amarujala.com/madhya-pradesh/bhopal/bhopal-smuggler-arrives-by-train-from-odisha-with-cannabis-supply-was-to-be-carried-out-through-two-women-2026-11-14
+    media_url: https://staticimg.amarujala.com/assets/images/2026/11/14/palsa-ka-garafata-ma-aarapa_88978d5d30f27c95a5f8fa13d4b0189e.jpeg?w=674&dpr=2.0&q=80
+    publisher: Amar Ujala
+    caption: 'Accused in police custody. Photo: Amar Ujala'
 ---
 
 Gautam Nagar police in Bhopal arrested 35-year-old Kailash Kushwah near the
-railway cabin at Atal Ayub Nagar while he was standing with a backpack. [@1,4] A
+railway cabin at Atal Ayub Nagar while he was standing with a backpack. [@1,4,5] A
 search of his bag found 4.104 kg of ganja, and police also recovered a mobile
-phone from his pocket. [@1,4] He told police during questioning that he had
+phone from his pocket. [@1,4,5] He told police during questioning that he had
 brought the ganja from Odisha and was caught soon after getting off a train.
-[@1,4]
+[@1,4,5]
 
 Based on his questioning, police arrested Pooja Rathore (28) and Sapna Vanshkar
-(26) near Nariyalkheda. [@1,4] The two women were found carrying 4.165 kg of
-ganja. [@1,4] Police seized a total of 8.26 kg of ganja from the three, valued at
+(26) near Nariyalkheda. [@1,4,5] The two women were found carrying 4.165 kg of
+ganja. [@1,4,5] Police seized a total of 8.26 kg of ganja from the three, valued at
 about three and a quarter lakh rupees. [@1,4] Police registered two separate cases
-under the NDPS Act in the matter. [@2,4] Pooja lives in a rented house in
+under the NDPS Act in the matter. [@2,4,5] Pooja lives in a rented house in
 Mandideep in Raisen district, while Sapna is a resident of the Kotwali
 police-station area in Raisen. [@1,4] Police said both women had taken the ganja
 from Kailash. [@1,4]
