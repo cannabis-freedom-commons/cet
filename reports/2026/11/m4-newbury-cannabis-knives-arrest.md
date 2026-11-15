@@ -59,6 +59,10 @@ sources:
     url: https://readingchronicle.co.uk/news/26716111.m4-driver-stopped-90mph-police-find-drugs-knives
     publisher: Reading Chronicle
     date: 2026-11-12
+  - title: M4 middle lane hogging police stop turns into 'Netflix crime drama' | The Wiltshire Gazette and Herald
+    url: https://www.gazetteandherald.co.uk/news/26725460.m4-middle-lane-hogging-police-stop-turns-netflix-crime-drama/
+    publisher: The Wiltshire Gazette and Herald
+    date: 2026-11-14
 open_questions:
   - No weight or plant count for the herbal cannabis or cannabis resin was published, so no kilograms can be recorded.
   - The exact amount of cash recovered was not published, only that it was several thousand pounds.
@@ -71,19 +75,19 @@ open_questions:
 
 Thames Valley Police officers stopped a Mercedes C250 on the M4 between Newbury
 and Reading in the early hours of Monday 9 November 2026 after the car was
-driven in the outside lane at around 90mph. [@1] The stop began as a suspected
+driven in the outside lane at around 90mph. [@1,4] The stop began as a suspected
 middle lane hogging offence that officers initially expected to end in a
 careless driving ticket. [@3]
 
 Both occupants of the car were arrested on suspicion of being concerned in the
-supply of a Class B drug. [@1] The driver gave a positive roadside drug wipe for
-cannabis and officers found herbal cannabis and cannabis resin. [@1] The driver
+supply of a Class B drug. [@1,4] The driver gave a positive roadside drug wipe for
+cannabis and officers found herbal cannabis and cannabis resin. [@1,4] The driver
 claimed to hold a Spanish driving licence but could not produce it, and the only
 UK licence officers identified was provisional. [@2] A search in custody found a
 knife concealed by the driver, and the passenger was carrying a two-foot zombie
-knife tucked into his waistband. [@1] Several thousand pounds in cash was
-recovered from the two occupants. [@1] The Mercedes was seized and has since
-been reclaimed by the finance company. [@1]
+knife tucked into his waistband. [@1,4] Several thousand pounds in cash was
+recovered from the two occupants. [@1,4] The Mercedes was seized and has since
+been reclaimed by the finance company. [@1,4]
 
 The passenger, an 18-year-old, pleaded guilty at Slough Magistrates' Court on
 Tuesday and was bailed pending sentencing on 4 January. [@1] The BBC reported
@@ -93,4 +97,3 @@ that the passenger's guilty plea related to possession of an offensive weapon.
 
 The Reading Chronicle dated the stop to the early hours of Monday 9 November
 2026. [@3]
-
