@@ -99,19 +99,24 @@ sources:
     publisher: Caravan.kz
     date: 2026-11-13
     language: ru
+  - title: 'Мешки во дворе и тайник в квартире: в Уральске обнаружили партию наркотиков в 220 кг'
+    url: https://astanatv.kz/ru/amp/news/183240/
+    publisher: Телеканал «Астана»
+    date: 2026-11-14
+    language: ru
 ---
 
-Police in Uralsk detained a 34-year-old local resident. [@3,4,5,6,7,8,9,10] Officers found two
+Police in Uralsk detained a 34-year-old local resident. [@3,4,5,6,7,8,9,10,11] Officers found two
 large boxes in the courtyard of the man's house, containing 12 plastic bags of
-plant material. [@3,5,6,7,8,9,10] Testing identified the contents as dried marijuana weighing
-198 kg 16 g. [@1,4,5,7,8,9,10] A search of the flat of another Uralsk resident, aged 45,
-uncovered another 23 kg of dried marijuana. [@2,4,5,6,7,8,9,10] Across the two cases, police
+plant material. [@3,5,6,7,8,9,10,11] Testing identified the contents as dried marijuana weighing
+198 kg 16 g. [@1,4,5,7,8,9,10,11] A search of the flat of another Uralsk resident, aged 45,
+uncovered another 23 kg of dried marijuana. [@2,4,5,6,7,8,9,10,11] Across the two cases, police
 said more than 220 kg of marijuana was taken out of illegal circulation. [@3,4,5,9,10]
 
 Officers from the organised-crime unit of the West Kazakhstan regional police
 department discovered the batches during operational-search work under Qarasora,
 an operational and preventive campaign. [@2,5,9] Pre-trial investigations were
-opened into both cases. [@1,4,5,8,9,10] Investigators were working to establish every
+opened into both cases. [@1,4,5,8,9,10,11] Investigators were working to establish every
 circumstance of the cases and any channels through which the marijuana could
-have been supplied and distributed. [@1,5] Police said their work to detect and
+have been supplied and distributed. [@1,5,11] Police said their work to detect and
 suppress the illegal circulation of narcotics in the region was continuing. [@1,5]
