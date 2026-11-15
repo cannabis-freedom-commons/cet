@@ -45,6 +45,25 @@ sources:
     url: https://www.bhaskarenglish.in/local/west-bengal/news/couple-arrested-with-cannabis-in-sundarbans-police-seize-20-kg-narcotics-near-satmile-market-namkhana-139683248.html
     publisher: Bhaskar English
     date: 2026-11-14
+  - title: >-
+      দেখে বোঝার উপায় নেই: সাদামাটা স্বামী-স্ত্রীর আড়ালেই লুকিয়ে ছিল ভয়ংকর রহস্য!
+      পুলিসের অভিযানে ফাঁস আসল রূপ
+    url: https://www.zee24ghanta.com/west-bengal/article-sundarban-police-arrests-couple-with-drugs-in-namkhana-753429
+    publisher: Zee 24 Ghanta
+    date: 2026-11-14
+    language: bn
+media:
+  - kind: photo
+    url: https://www.zee24ghanta.com/west-bengal/article-sundarban-police-arrests-couple-with-drugs-in-namkhana-753429
+    media_url: https://cdn.zee24ghanta.com/sites/default/files/2026/11/14/13369-sundarban-drug-seized.jpg
+    publisher: Zee 24 Ghanta
+    caption: >-
+      Police with a man carrying a backpack and checkered bag and a woman in a blue sari with a dark
+      bag outside a Satmile Bazar shopfront during the Namkhana couple arrest. Photo: Zee 24 Ghanta
+open_questions:
+  - >-
+    Eisamay Online labelled its illustration a symbolic iStock image, so it is not listed as media;
+    Bhaskar English and Zee 24 Ghanta carry the same street arrest photograph used here.
 ---
 
 Officers of the Special Operation Group of Sundarban Police District lay in wait
@@ -56,7 +75,7 @@ about 21 kg of ganja. [@1,2] Several packets of cannabis wrapped in black plasti
 The operation was carried out by the Special Operation Group and Namkhana police
 at the Satmile Bazar area on National Highway 117 in Namkhana at around 10 am on
 Friday morning. [@1] The seizure was carried out in the presence of personnel from Namkhana police station and the block development officer. [@2] Police named the arrested pair as Swapan Sahu and Krishna
-Sahu. [@1,2] Both are residents of the Chandranagar area of Namkhana. [@1,2]
+Sahu. [@1,2,3] Both are residents of the Chandranagar area of Namkhana. [@1,2,3]
 
 The 21 kg figure is the police recovery claim for the ganja found in the three
 bags, reported as an approximate quantity. [@1] A senior officer said surveillance and enforcement drives had been conducted at several locations over the past week, and police had made another arrest as part of the crackdown. [@2] Police are investigating where the cannabis was sourced from and whether the couple was linked to a larger drug trafficking network. [@2]

@@ -47,6 +47,7 @@ sources:
     date: 2026-11-13
     language: tr
 open_questions:
+  - Saray Medya illustrated the Karaman jandarma roundup with a table of coins, objects and metal detectors only, with no cannabis visible, so no event photo is listed.
   - No date for the individual seizures beyond the 6–12 November 2026 operation period; 13 November 2026 is the publication date.
   - The 379 grams of hemp and skunk plant material cannot be split between cannabis and synthetic cannabinoids; only the 5 grams of esrar is clearly cannabis. Combined cannabis weight (5 g esrar + 379 g kenevir/skunk) recorded as kg_seized 0.384, with 297 synthetic tablets left out of the cannabis figures as they are a different substance class.
   - The 101 coins, 72 historical objects, 20 litres of alcohol, 18,526 people and 8,425 vehicles checked are outside cannabis scope and are not recorded as cannabis figures.

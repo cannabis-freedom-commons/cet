@@ -43,6 +43,7 @@ sources:
     date: 2026-11-14
     language: sv
 open_questions:
+  - Norra Halland illustrated the sentence with a Varberg District Court exterior photograph and silhouette, with no drugs or arrest scene visible, so no event photo is listed.
   - No exact weight was published for the cannabis and hash cakes, described only as several kilos, so no cannabis weight is recorded in figures.
   - The SEK 1.9 million and SEK 2.7 million values are combined estimates for all seized drugs, not cannabis alone, so no value is recorded in figures.
   - The arrest was in February last year, apparently February 2025, but no exact day was given; 14 November 2026 is the publication date and stands in for the sentencing date.

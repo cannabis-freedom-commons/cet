@@ -41,6 +41,7 @@ sources:
     publisher: Rising Kashmir
     date: 2026-11-14
 open_questions:
+  - Rising Kashmir illustrated the NCB Srinagar roundup with a Samba police-station collage of firearms and sealed envelopes, not this charas series, so no event photo is listed.
   - No date is given for the release of the bureau's figures; the article carries a 13 November 2026 Srinagar dateline and was published on 14 November, and 13 November is used as the incident date for the roundup.
   - The article does not say how the 22 arrests are distributed across the eight cases, beyond the five in the Kashmir-Kolkata network.
   - The bureau's 57.470 kg total includes 39.230 kg of poppy straw and 0.55 gram of heroin, so that figure is not recorded as a cannabis weight.

@@ -40,6 +40,7 @@ sources:
     date: 2026-11-13
     language: es
 open_questions:
+  - eju.tv's page image shows a large display of green-wrapped bricks consistent with the separate Huancarani cocaine seizure in the same article, not the 174 g Tupiza marijuana find, so no photo of this Tupiza seizure is listed.
   - The article gives no separate date for the Tupiza intervention; 13 November 2026 is its publication date and is used as the incident date.
   - No identity, age, charge or court outcome was reported for the apprehended person.
   - The 73,100-dollar loss and the 40 kilos and 600 grams figures concern cocaine in Huancarani, not cannabis, and are excluded from the cannabis figures.

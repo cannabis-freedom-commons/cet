@@ -21,6 +21,14 @@ sources:
     publisher: Diario La Mañana
     date: 2026-11-13
     language: es
+media:
+  - kind: photo
+    url: https://www.xn--lamaanaonline-lkb.com.ar/noticia/108686/allanaron-dos-viviendas-e-incautaron-armas-blancas-una-tumbera-y-marihuana/
+    media_url: https://www.xn--lamaanaonline-lkb.com.ar/media/fotos/menu_20261114005028.jpg
+    publisher: Diario La Mañana
+    caption: >-
+      Machetes, knives, slingshots, a homemade tumbera and a white bag of plant material laid out on
+      a wooden table after the El Porvenir searches in Formosa. Photo: Diario La Mañana
 open_questions:
   - The article gives no weight for the seized marijuana; it is only described as "una bolsa" (a bag) of plant substance confirmed as Cannabis sativa, so no kg figure is recorded.
   - No value estimate or court outcome for the marijuana seizure was reported.

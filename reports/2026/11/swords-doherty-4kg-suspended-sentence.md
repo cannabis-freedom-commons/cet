@@ -60,6 +60,8 @@ sources:
     url: https://www.crimeworld.com/courts/dublin-woman-46-described-as-ideal-candidate-for-storing-drugs-gets-suspended-sentence/a/164478670.html
     publisher: Crime World
     date: 2026-11-12
+open_questions:
+  - The Irish Mirror illustrated the Swords sentence with a Criminal Courts of Justice exterior file photograph, not the cannabis or the accused, so no event photo is listed.
 ---
 
 Caroline Doherty, 46, of Cian Lea, Swords, pleaded guilty to possession of

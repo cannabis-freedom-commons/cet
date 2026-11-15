@@ -37,6 +37,7 @@ sources:
     date: 2026-11-13
     language: ru
 open_questions:
+  - Cominf illustrated the Tskhinvali arrest with a generic close-up of handcuffed wrists and no marijuana visible, so no event photo is listed.
   - No quantity, weight or value for the seized marijuana was published.
   - The article gives no separate date for the detention, search or court ruling; 13 November 2026 is its publication date and is used as the incident date.
   - No name, age or further court outcome for the pending storage case was reported.

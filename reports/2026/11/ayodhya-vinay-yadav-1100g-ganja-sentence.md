@@ -54,6 +54,7 @@ sources:
     date: 2026-11-14
     language: hi
 open_questions:
+  - Amar Ujala illustrated the sentence with a 2021 Ayodhya city-section graphic (riverfront banner labelled Today's fresh news), not a photo of this ganja case, so no event photo is listed.
   - The report gives the original incident only as 17 August, without a year; 14 November 2026 is the article's publication date and is used as the sentence date.
   - No laboratory confirmation or valuation of the seized ganja was reported.
   - No detail was given on how the 200 rupees recovered alongside the ganja was treated by the court.

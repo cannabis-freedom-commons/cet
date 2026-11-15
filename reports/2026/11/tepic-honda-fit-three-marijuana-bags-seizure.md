@@ -57,6 +57,21 @@ open_questions:
   - The 192 total bags and the non-cannabis breakdowns are context only; combined totals are not counted as cannabis.
   - The substances were described only as suspected or similar to drugs, with no laboratory confirmation reported.
   - NTV illustrated the seizure with a Policía Estatal Caminos cruiser photo, not pictures of the Honda Fit or the seized bags.
+media:
+  - kind: photo
+    url: https://notiespaciopv.com/2026/11/13/aseguran-mas-de-190-envoltorios-de-presuntas-sustancias-dentro-de-un-vehiculo-en-tepic/
+    media_url: https://notiespaciopv.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-11.56.56-AM.jpeg
+    publisher: Notiespacio PV
+    caption: >-
+      The grey Honda Fit seized in colonia Prieto Crispín, Tepic, parked with its hood open beside a
+      graffiti-marked wall. Photo: GST Medios / Notiespacio PV
+  - kind: photo
+    url: https://nayaritnoticias.com/2026/11/13/asegura-fiscalia-vehiculo-con-mas-de-190-envoltorios-de-presuntas-drogas-en-tepic/
+    media_url: https://nayaritnoticias.com/wp-content/uploads/2026/11/fiscalia.jpg
+    publisher: Nayarit Noticias
+    caption: >-
+      Collage of the same Honda Fit (plate RGT-17-08) and rows of seized wraps labelled Indicio from
+      the Tepic Fiscalía seizure. Photo: Nayarit Noticias
 ---
 
 The Nayarit State Prosecutor's Office secured a Honda Fit during an operation in

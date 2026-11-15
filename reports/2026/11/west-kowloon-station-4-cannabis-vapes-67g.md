@@ -40,6 +40,14 @@ sources:
     publisher: 搜狐网
     date: 2026-11-14
     language: zh
+media:
+  - kind: photo
+    url: https://www.sohu.com/a/1101472649_121107000
+    media_url: https://q5.itc.cn/q_70/images03/20261114/51b2852c6b1842cd843e9c2943bb6a9d.jpeg
+    publisher: 搜狐网
+    caption: >-
+      Four seized cannabis e-cigarettes in a tray beside a Customs Inspection plaque after the West
+      Kowloon Station interception. Photo: West Kowloon Station Customs / 搜狐网
 open_questions:
   - The article says only近日 and gives no separate seizure date, so 14 November 2026, the publication date, is used as the incident date.
   - The 67-gram figure is expressly a gross weight, and no net cannabis or THC content was published.

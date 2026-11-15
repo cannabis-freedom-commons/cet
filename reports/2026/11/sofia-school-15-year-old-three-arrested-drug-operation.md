@@ -74,6 +74,8 @@ sources:
     publisher: NewsPoint.bg
     date: 2026-11-13
     language: bg
+open_questions:
+  - DarikNews credited iStock for its school-drugs illustration, and bTV used a 2021 handcuff stock photo (EXIF dated February 2021), so no photo of this Sofia school operation is listed.
 ---
 
 Sofia police detained two men aged 23 and 24 and a 15-year-old pupil in an

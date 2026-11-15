@@ -90,6 +90,7 @@ sources:
     date: 2026-11-13
     language: ar
 open_questions:
+  - Sada Tabuk and Alqalah News show rows of powdered bags on a tarp without cannabis or balloons visible, and the accounts do not confirm the pictures show this Friday balloon interception, so no event photo is listed.
   - This account, like the army statement already cited, names only narcotics and does not say whether any of the cargo was cannabis.
 ---
 

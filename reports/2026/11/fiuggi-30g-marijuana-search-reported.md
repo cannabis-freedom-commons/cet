@@ -50,12 +50,26 @@ sources:
     publisher: Ciociaria Oggi
     date: 2026-11-13
     language: it
+media:
+  - kind: photo
+    url: https://www.ciociariaoggi.it/gallery/cronaca/319859/droga-in-casa-sequestrati-30-grammi-di-marijuana-e-materiale-per-il-confezionamento.html
+    media_url: https://ciociariaoggi.cdn.m33cloud.com/resizer/-1/-1/true/2026_11_13/fiuggi-1794581373924_1794581389.jpg--.jpg
+    publisher: Ciociaria Oggi
+    caption: >-
+      Marijuana buds and stems, two digital scales, a tub of white powder, a bicarbonate box,
+      packaging film and a Carabinieri paddle laid out after the Fiuggi home search. Photo: Ciociaria
+      Oggi
+  - kind: photo
+    url: https://www.ciociariaoggi.it/gallery/cronaca/319859/droga-in-casa-sequestrati-30-grammi-di-marijuana-e-materiale-per-il-confezionamento.html
+    media_url: https://ciociariaoggi.cdn.m33cloud.com/resizer/-1/-1/true/2026_11_13/fiuggi1-1794581376280.jpg--.jpg
+    publisher: Ciociaria Oggi
+    caption: >-
+      Two Carabinieri officers with the same Fiuggi seizure display of marijuana, scales, bicarbonate
+      and packaging materials. Photo: Carabinieri Frosinone / Ciociaria Oggi
 open_questions:
   - The article gives no separate calendar date for the operation; 12 November 2026 is inferred from its statement that it took place in the afternoon of the day before its 13 November 2026 publication.
   - The marijuana amount is reported as approximately thirty grams, not an exact measured weight.
-  - The nature and quantity of the additional materials described as linked to dealing were not specified.
   - No arrest, custody, charge details or court outcome beyond the report at liberty were published.
-  - Only one accessible source for this event was found after searching in Italian.
 ---
 
 Carabinieri of the Fiuggi station reported a local man at liberty after a road

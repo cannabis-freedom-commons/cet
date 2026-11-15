@@ -41,6 +41,9 @@ sources:
     date: 2026-11-13
     language: ko
 open_questions:
+  - >-
+    Mediafine illustrated the suspended sentence with a lawyer portrait over a luxury-mall stock
+    background, not a photo of this cultivation case, so no event photo is listed.
   - The article gives no date for the ruling; 13 November 2026 is its publication date and stands in for the incident date.
   - The court that ruled and its location are not named.
   - No count of plants, weight of cannabis or growing site is reported.

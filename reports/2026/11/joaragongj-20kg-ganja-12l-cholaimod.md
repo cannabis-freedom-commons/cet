@@ -43,6 +43,14 @@ sources:
     publisher: Suprobhat Chattogram
     date: 2026-11-12
     language: bn
+media:
+  - kind: photo
+    url: https://joynewsbd.com/251445/d39443f7/
+    media_url: https://joynewsbd.com/wp-content/uploads/2026/11/mirsarai-4.jpg
+    publisher: JoyNewsBD
+    caption: >-
+      Detainees lined up with Joaragongj Thana officers in front of a Special Operation banner after
+      the Mirsarai drug drives. Photo: JoyNewsBD
 open_questions:
   - No separate figure for the value of the 20 kg of ganja or the 12 litres of cholaimod was published.
   - The exact day of the midnight-to-early-morning mobile court sentences is not clearly stated; it is tied to 12 November operations but the article does not say the court sat that exact night.
