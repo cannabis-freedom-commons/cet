@@ -68,25 +68,30 @@ sources:
     publisher: Deshaj Times
     date: 2026-11-14
     language: hi
+  - title: 'Samastipur News: स्कॉर्पियो सहित 164 किलो गांजा बरामद, समस्तीपुर के दो धराये'
+    url: https://www.livehindustan.com/bihar/samastipur/story-laukaha-police-and-ssb-seize-164-4-kg-of-cannabis-arrest-two-in-bihar-201794679614186.html
+    publisher: हिन्दुस्तान
+    date: 2026-11-14
+    language: hi
 open_questions:
-    - No value estimate for the 164.400 kg of ganja was published.
     - No court outcome, remand details or pleas were reported; the case was at the investigation stage with questioning under way.
     - The accused Dhiraj Kumar shares a given name with Laukaha station house officer Dheeraj Kumar; the reports distinguish them by role.
+    - The source of the reported market-value estimate was not identified.
 ---
 
 Laukaha police and SSB seized 164.400 kg of ganja from a Scorpio-N near Beldari
-village on Saturday morning and arrested the two occupants. [@2,3] The two men got
+village on Saturday morning and arrested the two occupants. [@2,3,4] The two men got
 out and tried to flee when the Scorpio-N heading toward the Balan river was
 signalled to stop near the bridge in front of Beldari village at about 8:10 in
 the morning, but the joint team chased and caught them. [@2] The arrested men
 were identified as 29-year-old Dhiraj Kumar of Bhagwatpur in Sarairanjan,
-Samastipur district and 20-year-old Bobby Kumar of Niksapur in Tajpur. [@2]
+Samastipur district and 20-year-old Bobby Kumar of Niksapur in Tajpur. [@2,4]
 
 Officers searching the vehicle in the presence of independent witnesses found
 the ganja hidden in plastic sacks. [@2,3] Police prepared a seizure list and
 seized the ganja together with the vehicle and two mobile phones. [@2] Laukaha
 station house officer Dheeraj Kumar said a total of 164.400 kg of ganja was
-caught from the four-wheeler and both smugglers were taken into custody. [@1] A
+caught from the four-wheeler and both smugglers were taken into custody. [@1] Hindustan reported that the seized ganja was estimated to have a market value of about 250,000 rupees. [@4] A
 case was registered at Laukaha police station under the NDPS Act. [@2,3]
 
 Acting on a late-Friday-night tip that a consignment would be brought from Nepal
