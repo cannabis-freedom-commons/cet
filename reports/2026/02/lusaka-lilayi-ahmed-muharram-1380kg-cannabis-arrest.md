@@ -66,6 +66,10 @@ sources:
     url: https://tribuneonlineng.com/notorious-tanzanian-drug-kingpin-ahmed-muharram-arrested-in-zambia/
     publisher: Tribune Online
     date: 2026-02-04
+  - title: '''Notorious Tanzanian drug trafficker'' arrested during raid in Zambia'
+    url: https://www.ghanaweb.com/GhanaHomePage/africa/Notorious-Tanzanian-drug-trafficker-arrested-during-raid-in-Zambia-2020213
+    publisher: GhanaWeb
+    date: 2026-02-04
 open_questions:
     - No separate weight was published for the cannabis seized from the two Zambians in Lusaka or the two Burundian nationals in Chirundu, so the 1,380.8 kg covers only the seizure linked to Muharram.
     - The 55 boxes of Benylin with codeine are a non-cannabis seizure in the same sweep and are excluded from cannabis figures.
@@ -75,20 +79,20 @@ open_questions:
 
 Zambia's Drug Enforcement Commission arrested 40-year-old Tanzanian national
 Ahmed Muharram in a raid in Lusaka, describing him as a notorious transnational
-drug trafficker long on its watch-list. [@1,4,5] Officers also arrested 49-year-old
+drug trafficker long on its watch-list. [@1,4,5,6] Officers also arrested 49-year-old
 Zambian national Lishomwa Muyunda as Muharram's suspected accomplice in the
 organised trafficking scheme. [@2] In the same coordinated operations, officers
 arrested two other Zambians for trafficking cannabis concealed in a vehicle in
 Lusaka. [@1,5] Officers arrested two Burundian nationals in Chirundu district for
 trafficking cannabis in separate vehicles, with some hidden in a spare lorry
 tyre and gas compressors and more mixed with sugar, salt and paint in tins and
-buckets. [@1,5] All seven suspects were detained in lawful custody to appear in
-court soon. [@1,5]
+buckets. [@1,5,6] All seven suspects were detained in lawful custody to appear in
+court soon. [@1,5,6]
 
 Officers first intercepted a lorry in Lusaka's Lilayi area and seized 221.2 kg
-of cannabis hidden in the vehicle. [@1,5] A follow-up search of Muharram's Lilayi
+of cannabis hidden in the vehicle. [@1,5,6] A follow-up search of Muharram's Lilayi
 residence found another 1,159.6 kg of high-grade cannabis, bringing the total
-seizure linked to him to 1,380.8 kg. [@1,4,5] Officers also seized a Toyota Prado
+seizure linked to him to 1,380.8 kg. [@1,4,5,6] Officers also seized a Toyota Prado
 suspected to have been used in the offences. [@2] In the same sweep, officers
 arrested a Lusaka man for allegedly trafficking 55 boxes of Benylin with
 codeine, a non-cannabis seizure mentioned here only to explain the operation.
