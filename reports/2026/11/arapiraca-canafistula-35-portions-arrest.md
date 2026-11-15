@@ -47,6 +47,7 @@ open_questions:
   - No weight was published for the 35 marijuana portions, so no kilogram figure is recorded.
   - The 90 crack rocks and 47 cocaine pins were seized in the same bag and are not counted as cannabis.
   - The suspect was not identified by name, and no court outcome beyond his detention at the Central de Flagrantes was reported.
+  - CadaMinuto illustrated the Canafístula arrest with an Alagoas PM patrol-car file photo, a civil ID record from another municipality and a Marechal Deodoro courthouse exterior, so no event photo is listed.
 ---
 
 Military Police arrested a 31-year-old man on suspicion of drug trafficking on

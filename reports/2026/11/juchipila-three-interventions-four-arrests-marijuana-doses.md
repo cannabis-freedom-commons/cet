@@ -37,6 +37,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 04fedff16a40654ab97a727959d6e801
 tags: [zacatecas, juchipila, marijuana, narcomenudeo]
+media:
+  - kind: photo
+    url: https://ecodiario.mx/noticia/detienen-a-cuatro-personas-y-aseguran-droga-durante-operativos-en-juchipila
+    media_url: https://static.ecodiario.mx/storage/77289/conversions/01M6PRY88XK2ZKWQ8N1SHAMGS1-large.jpg
+    publisher: ECOdiario
+    caption: >-
+      One of the women detained in the Juchipila interventions with marijuana bags and other doses
+      before FGJE Zacatecas and federal forces. Photo: ECOdiario
 sources:
   - title: DETIENEN A CUATRO PERSONAS Y ASEGURAN DROGA DURANTE OPERATIVOS EN JUCHIPILA
     url: https://ecodiario.mx/noticia/detienen-a-cuatro-personas-y-aseguran-droga-durante-operativos-en-juchipila

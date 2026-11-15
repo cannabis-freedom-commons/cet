@@ -35,6 +35,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ebe7f1c41b9c72d508ea9b059f62dfed
 tags: [zacatecas, moyahua, marijuana, narcomenudeo, ponchallantas]
+media:
+  - kind: photo
+    url: https://ecodiario.mx/noticia/capturan-a-cuatro-personas-y-aseguran-droga-y-motocicleta-robada-en-moyahua
+    media_url: https://static.ecodiario.mx/storage/77297/conversions/01M6PT02T2R355220RTH93Q3RD-large.jpg
+    publisher: ECOdiario
+    caption: >-
+      The four detainees with marijuana wrappers, other doses and tire spikes before FGJE Zacatecas
+      and federal forces. Photo: ECOdiario
 sources:
   - title: CAPTURAN A CUATRO PERSONAS Y ASEGURAN DROGA Y MOTOCICLETA ROBADA EN MOYAHUA
     url: https://ecodiario.mx/noticia/capturan-a-cuatro-personas-y-aseguran-droga-y-motocicleta-robada-en-moyahua

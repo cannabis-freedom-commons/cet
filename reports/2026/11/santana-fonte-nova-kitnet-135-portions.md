@@ -36,6 +36,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2e89d6465d1d7de325eba1a05a50664a
 tags: [amapa, santana, maconha, policia-civil, operacao-protetor]
+media:
+  - kind: photo
+    url: https://www.diariodoamapa.com.br/cadernos/policia/homem-e-preso-com-maconha-cocaina-e-mais-de-r-2-mil-em-santana/
+    media_url: https://www.diariodoamapa.com.br/wp-content/uploads/2026/11/maconha-e1793903224960.jpeg
+    publisher: Diário do Amapá
+    caption: >-
+      Packaged cannabis portions, cash, scales and other items seized at the Fonte Nova kitnet,
+      displayed at the 1st Police Station of Santana. Photo: Diário do Amapá / Polícia Civil AP
 sources:
   - title: Homem é preso com maconha, cocaína e mais de R$ 2 mil em Santana
     url: https://www.diariodoamapa.com.br/cadernos/policia/homem-e-preso-com-maconha-cocaina-e-mais-de-r-2-mil-em-santana/

@@ -71,7 +71,7 @@ open_questions:
   - The sources do not say what charge was formally recorded against him beyond suspicion of drug trafficking, or whether a court custody decision was made.
   - The stop is timed at 21:36 by Ivaiporã Online and about 21:30 by Blog do Berimbau; the two figures are near-identical accounts of the same stop.
   - 'The accounts differ on whether the search of the house in Manoel Ribas needed authorisation: Tribuna Digital says the searches were authorised, the others do not describe how it was conducted.'
-  - 'No usable photo of this event was found: Ivaiporã Online labels its page image as illustrative and the Jornal Paraná Centro cover carries only the generic caption Descrição da imagem.'
+  - 'No usable photo of this event was found: Ivaiporã Online uses a generic handcuffed-person stock image labelled illustrative, and the Jornal Paraná Centro cover carries only the generic caption Descrição da imagem.'
   - There is no information on any prior record of the man or on his relationship to the Santa Mariana address where the second portion was found.
 ---
 

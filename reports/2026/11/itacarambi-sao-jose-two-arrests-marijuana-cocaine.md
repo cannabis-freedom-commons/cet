@@ -41,6 +41,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c8982b545f131c48cab61ee33b0e89b9
 tags: [itacarambi, minas-gerais, maconha, norte-de-minas, ponto-de-trafico]
+media:
+  - kind: photo
+    url: https://jornalnortedeminas.com.br/policia-militar-desarticula-ponto-de-trafico-e-prende-dois-jovens-em-itacarambi/
+    media_url: https://jornalnortedeminas.com.br/wp-content/uploads/2026/11/890459507_2006948666652847_3264801723628451671_n.jpg
+    publisher: Jornal Norte de Minas
+    caption: >-
+      Marijuana bags and bar, cocaine and crack portions, phones, cash and a PMMG scale from the São
+      José drug-point raid. Photo: Jornal Norte de Minas / Polícia Militar MG
 sources:
   - title: Denúncias de tráfico levam à prisão de dois jovens e à apreensão de drogas em Itacarambi
     url: https://webterra.com.br/2026/11/06/denuncias-de-trafico-levam-a-prisao-de-dois-jovens-e-a-apreensao-de-drogas-em-itacarambi/

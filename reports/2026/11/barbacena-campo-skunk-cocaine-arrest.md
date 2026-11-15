@@ -35,6 +35,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 77cd12e7c99167ffd007cf17a881408a
 tags: [barbacena, minas-gerais, skunk]
+media:
+  - kind: photo
+    url: https://correiodeminas.com.br/2026/11/04/fuga-frustrada-policia-encontra-barras-de-cocaina-e-skunk-em-carro-e-apreende-cheque-r-5-mil/
+    media_url: https://correiodeminas.com.br/wp-content/uploads/2026/11/1.jpeg
+    publisher: Correio de Minas
+    caption: >-
+      Skunk and other drugs in PMMG evidence bags with phones, a scale and cash after the Campo car
+      stop. Photo: Correio de Minas / Polícia Militar MG
 sources:
   - title: Homem é preso com cocaína e skunk dentro de carro em Barbacena
     url: https://www.jornalcorreiodacidade.com.br/noticias/51586-homem-e-preso-com-cocaina-e-skunk-dentro-de-carro-em-barbacena

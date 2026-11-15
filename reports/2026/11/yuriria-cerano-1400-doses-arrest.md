@@ -28,6 +28,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 82b77a807d3047963ff4a86d3e5fc767
 tags: [guanajuato, yuriria, fspe]
+media:
+  - kind: photo
+    url: https://bajio.quadratin.com.mx/aseguran-marihuana-y-armas-en-yuriria/
+    media_url: https://bajio.quadratin.com.mx/www/wp-content/uploads/2026/11/Yuriria.jpe
+    publisher: Quadratín Bajío
+    caption: >-
+      The detainee with packed marijuana doses, a firearm and a motorcycle displayed with Guardia
+      Nacional, FSPE and Army officers in Cerano. Photo: Quadratín Bajío
 sources:
   - title: Aseguran marihuana y armas en Yuriria
     url: https://bajio.quadratin.com.mx/aseguran-marihuana-y-armas-en-yuriria/

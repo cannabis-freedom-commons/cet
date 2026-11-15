@@ -32,6 +32,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9adad4ce3dee5bb9a37961cbc1635483
 tags: [san-luis-potosi, marijuana, municipal-police, virreyes]
+media:
+  - kind: photo
+    url: https://warroomslp.mx/seguridad/policia-de-la-capital-incauta-marihuana-en-el-parque-juan-ruiz-de-alarcon-de-la-colonia-virreyes/
+    media_url: https://warroomslp.mx/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-2.18.26-PM-1.jpeg
+    publisher: War Room San Luis Potosí
+    caption: >-
+      Plastic bags of marijuana and the abandoned waist bag displayed on an SSPC San Luis Potosí
+      evidence cloth. Photo: War Room SLP / Guardia Municipal
 sources:
   - title: Hampón abandona marihuana en jardín de la Col. Virreyes
     url: https://pulsoslp.com.mx/seguridad/hampon-abandona-marihuana-en-jardin-de-la-col-virreyes/2106312
