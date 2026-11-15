@@ -23,6 +23,11 @@ media:
     media_url: https://www.suryaa.com/cms/postImages/2026-11-05/1793896822_1006691819.jpg
     publisher: Suryaa News
     caption: 'Page photo published with the report on the Kallakal seizure of 956 grams of dry ganja. Photo: Suryaa News'
+  - kind: photo
+    url: https://www.eenadu.net/telugu-news/districts/medak-news/533/126207425
+    media_url: https://assets.eenadu.net/article_img/mdk14112026-1a.webp
+    publisher: Eenadu
+    caption: Page photo captioned 'మనోహరాబాద్ మండలం కాళ్లకల్లో పట్టుబడిన గంజాయి' (ganja seized in Kallakal, Manoharabad mandal).
 details:
   agencies: [in-excise]
   agency_types: [regulator]
@@ -57,17 +62,16 @@ sources:
     publisher: Disha Daily
     date: 2026-11-05
     language: te
-open_questions:
-  - Neither account gives a separate date for the checks; 5 November 2026 is the publication date of both reports and is used as the incident date.
-  - No case number, court appearance, charge detail or remand outcome was reported.
-  - The HMTV Live page carries the same article text as the Suryaa report, so it does not provide independent confirmation of the details.
-  - The seized quantity is small (956 grams) and the value of about Rs 60,000 is the excise officer's open-market estimate.
-  - The page photo is captioned only with the seizure headline and is not clearly established to show the seized ganja or the arrested man, so it is listed as a link, not a cover.
+  - title: జేబులో గంజాయి.. ఆగమైతవు అబ్బాయి
+    url: https://www.eenadu.net/telugu-news/districts/medak-news/533/126207425
+    publisher: Eenadu
+    date: 2026-11-15
+    language: te
 ---
 
 Excise Department officers in Telangana's Medak district arrested a 22-year-old
 man from Bihar and seized 956 grams of dry ganja from him during surprise checks
-at KLR Green Venture in Kallakal village, Manoharabad mandal. [@1,3] The man was
+at KLR Green Venture in Kallakal village, Manoharabad mandal. [@1,3,4] The man was
 identified as Jyothish Kumar, 22, a native of Bihar. [@2,3] Officers stopped and
 searched Kumar as he appeared suspicious at the venture, the site of the Excise
 Department's District Task Force checks. [@1]
