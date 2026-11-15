@@ -84,19 +84,23 @@ sources:
     publisher: Veredictum
     date: '2026-11-13'
     language: es
+  - title: OS7 incauta más de 380 dosis de marihuana y cocaína en Coyhaique y detiene a tres personas
+    url: https://radio45sur.cl/2026/11/14/os7-incauta-mas-de-380-dosis-de-marihuana-y-cocaina-en-coyhaique-y-detiene-a-tres-personas/
+    publisher: Radio45Sur.cl
+    date: 2026-11-14
+    language: es
+  - title: Desarticulan clan familiar dedicado a la venta de drogas en Coyhaique
+    url: https://www.diarioregionalaysen.cl/noticia/actualidad/2026/11/desarticulan-clan-familiar-dedicado-a-la-venta-de-drogas-en-coyhaique
+    publisher: Diario Regional Aysén
+    date: 2026-11-13
+    language: es
 open_questions:
-  - >-
-    No source gives a separate date for the search or the detentions; 13 November 2026 is the
-    publication date of the reports and is used as the incident date.
-  - >-
-    The 180 grams is stated as about or approximately 180 grams, not an exact measured weight, and
-    no value or dose count was published.
-  - >-
-    The three suspects are not named; their prior records are known only for the third accused, who
-    had irreprochable prior conduct.
-  - >-
-    No investigation deadline, trial date or other court outcome was reported beyond the
-    detention-control hearing.
+    - No source gives a separate date for the search or the detentions; 13 November 2026 is the publication date of the reports and is used as the incident date.
+    - The 180 grams is stated as about or approximately 180 grams, not an exact measured weight.
+    - Carabineros' count of more than 380 doses of marijuana and cocaine, valued at more than 2,800,000 pesos, combines both drugs, so the marijuana content cannot be separated from it.
+    - The three suspects are not named.
+    - No investigation deadline, trial date or other court outcome was reported beyond the detention-control hearing.
+    - The amount of cash seized was not reported.
 media:
   - kind: photo
     url: http://www.eldivisadero.cl/_noticia/Investigaci%C3%B3n-por-microtr%C3%A1fico-en-Coyhaique-termina-con-tres-detenidos-y-decomiso-de-marihuana/ODQ5ODE=
@@ -111,18 +115,18 @@ Police of the OS7 section of Carabineros, in a search authorised by a judge and
 entered into a home in a residential sector of Coyhaique, the capital of the
 Aysén region, where they detained three people and seized the drug, after a
 neighbourhood microtrafficking investigation led by the Criminal Analysis System
-(SAC) of the Aysén regional prosecutor's office. [@1] The investigation led to
+(SAC) of the Aysén regional prosecutor's office. [@1,3] The search was supported by the GOPE special-operations unit and the Fifth Public Order Control and First Coyhaique police stations. [@3] The three detainees were adults, two men and one woman. [@4] The investigation led to
 the seizure of about 180 grams of marijuana, the prosecutor's statement said,
-after police had entered the dwelling with judicial authorisation. [@2]
+after police had entered the dwelling with judicial authorisation. [@2] Carabineros valued the seized drugs at more than 2,800,000 pesos. [@3] Carabineros also counted more than 380 doses of marijuana and cocaine, together with cash and elements used for dosing drugs. [@4]
 
 According to the prosecutor, the suspects had tried to destroy part of the
 evidence before being detained. [@1] The three were then put at the disposal of
 the Juzgado de Garantía of Coyhaique, where the prosecutor formalised the
 investigation and requested preventive detention for all the people involved.
-[@1] The court granted the request in part: it placed two of the accused in
+[@1,4] The court granted the request in part: it placed two of the accused in
 preventive detention, while the third, who had an impeccable prior conduct
-record, was given total house arrest. [@1]
+record, was given total house arrest. [@1,3] Two of the three detainees had previous convictions for robbery with intimidation, receiving stolen motor vehicles and offences against the drugs law. [@4]
 
 As prosecutor Fernando Pino described it, the SAC works to counter neighbourhood
 microtrafficking alongside Carabineros' OS7 unit through various investigative
-steps. [@2]
+steps. [@2] The investigation was coordinated with the prosecutor's office over the alleged purchase and sale of drugs by members of a family group living in the home. [@3]
