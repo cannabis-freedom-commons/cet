@@ -56,6 +56,16 @@ sources:
     publisher: Infórmate Laguna
     date: 2026-11-13
     language: es
+  - title: Sorprenden a dos sujetos intercambiando marihuana en Torreón; detienen a uno con once dosis y un arma blanca
+    url: https://www.telediario.mx/policia/torreon-sorprenden-a-dos-hombres-con-marihuana-y-detienen-a-uno
+    publisher: Telediario Laguna
+    date: 2026-11-13
+    language: es
+  - title: DETIENE POLICÍA DE TORREÓN A HOMBRE CON 11 BOLSAS DE MARIHUANA EN EL FRACCIONAMIENTO LAGOS
+    url: https://codigoverdeinformativo.com/2026/11/13/detiene-policia-de-torreon-a-hombre-con-11-bolsas-de-marihuana-en-el-fraccionamiento-lagos/
+    publisher: CodigoVerdeInformativo
+    date: 2026-11-13
+    language: es
 open_questions:
   - No weight for the seized herb was published; the accounts count eleven wrappers plus the abandoned bag.
   - The man who threw down the bag and ran was not identified and no arrest of him was reported.
@@ -66,23 +76,22 @@ open_questions:
 Municipal police on a prevention and surveillance patrol in the Lagos de Torreón
 housing development caught two men red-handed exchanging merchandise with a
 suspicious attitude, an intervention that ended with one of them detained and
-suspected drugs and a bladed weapon seized. [@1] When the approaching patrol
+suspected drugs and a bladed weapon seized. [@1,4] When the approaching patrol
 units were seen, the man who had just received a bag threw it to the ground and
 ran off to flee the area. [@1] Officers approached the second man, who remained
-at the scene and was identified as Roberto N, aged 34. [@1] During the
+at the scene and was identified as Roberto N, aged 34. [@1,4] During the
 intervention the man allegedly used the bladed weapon to threaten the officers,
-who managed to subdue him and complete the arrest. [@2]
+who managed to subdue him and complete the arrest. [@2,5]
 
 Officers checked the bag left on the pavement and found green, dry herb with
 physical characteristics similar to marijuana. [@1] A preventive search of
 Roberto N turned up eleven wrappers with the same contents as the bag just
-discarded, plus three empty plastic bags, a gram scale and a bladed weapon. [@1]
+discarded, plus three empty plastic bags, a gram scale and a bladed weapon. [@1,4]
 
 The police report places the events on Thursday 12 November at around 15:45, at
 the intersection of Lago Hurón street and Lagos boulevard. [@3] The arrest was
 made by officers of Torreón's Municipal Public Security Directorate on suspicion
 of the offence of possession of narcotics. [@3] Officers secured the items
 found, notified Roberto N that he was detained for carrying a bladed weapon, and
-transferred him at the disposal of the Public Prosecutor. [@1] The prosecutor's
+transferred him at the disposal of the Public Prosecutor. [@1,4] The prosecutor's
 office will determine his legal situation and continue the investigation. [@3]
-
