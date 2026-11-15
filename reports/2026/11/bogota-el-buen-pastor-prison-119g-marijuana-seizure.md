@@ -49,6 +49,11 @@ sources:
     publisher: Minuto30
     date: 2026-11-14
     language: es
+  - title: Presidente De la Espriella informó incautación de 58 celulares en cárcel de mujeres de Bogotá
+    url: https://caracol.com.co/2026/11/14/presidente-de-la-espriella-informo-incautacion-de-58-calculares-en-carcel-de-mujeres-de-bogota/
+    publisher: Caracol Radio
+    date: 2026-11-14
+    language: es
 open_questions:
   - The 1.5 grams of cocaine and 1.7 grams of tusi seized in the same search are excluded from the cannabis figure.
   - No arrests, named suspects, charges or court outcome were reported; the case rests at the seizure stage.
@@ -60,10 +65,10 @@ A joint Inpec and National Police search ordered by the president took place on
 Friday 13 November at El Buen Pastor, the main women's prison in Bogotá. [@1]
 President Abelardo De la Espriella announced the results, reporting 58 mobile
 phones, 47 chargers, 14 Bluetooth earphones, 12 bladed weapons and two speakers
-seized. [@1]
+seized. [@1,4]
 
 Officers also seized 119.4 grams of marijuana, alongside 1.5 grams of cocaine
-and 1.7 grams of tusi. [@1] The reported drug total was 122.6 grams, of which
+and 1.7 grams of tusi. [@1,4] The reported drug total was 122.6 grams, of which
 only the 119.4 grams of marijuana is counted as cannabis. [@2]
 
 About 200 Inpec staff backed by police took part, aiming to strengthen controls
@@ -72,4 +77,3 @@ prison. [@2] The official balance did not say in which wings the items were
 found or identify any inmates as responsible. [@3] The presidency said 4,080
 prison search-and-control operations had been recorded in the government's first
 50 days. [@1]
-
