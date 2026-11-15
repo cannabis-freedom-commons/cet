@@ -41,6 +41,7 @@ open_questions:
   - No street-value figure for the full 5,249,881 plants was published; the 4.2 billion dollar estimate covers only the Green Acres 2 share.
   - The release links two Operation Green Acres videos whose content could not be verified, so they are not listed as media.
   - No photograph of the 2008 operations with a recoverable direct image address was found in the opened sources.
+  - The Sacramento Bee account counts more than 221 arrests and 244 weapons for the season, while the DEA release gives 143 arrests and 142 weapons; this report uses the DEA figures.
 sources:
   - title: Record Breaking Seizures of Marijuana Throughout California for 2008
     publisher: Drug Enforcement Administration
@@ -50,9 +51,16 @@ sources:
     publisher: The California Aggie
     url: https://theaggie.org/2008/11/25/record-number-of-illegal-marijuana-plants-seized-in-california
     date: 2008-11-25
+  - title: "CA: Record 5.2 Million Pot Plants Seized in State"
+    publisher: Sacramento Bee (via 420 Magazine)
+    url: https://www.420magazine.com/community/threads/ca-record-52-million-pot-plants-seized-in-state.83974/
+    date: 2008-11-23
+  - title: 2008 CAMP Season Summary
+    publisher: California Department of Justice (via Humboldt State University Library)
+    url: https://www.humboldt.edu/special-collections/sites/default/files/camp2008.pdf
 ---
 
-On 19 November 2008 federal and state officials announced record seizures of 5,249,881 cannabis plants from public and private land across California during the CAMP season and Operation Green Acres 2. [@1,2] Of that total, 3,641,328 plants, almost 70 percent, came from state and federal public land. [@1] CAMP alone eradicated 2.9 million plants in its second straight record year, two million of them on public land. [@1] The eradication season ran from July through October. [@1]
+On 19 November 2008 federal and state officials announced record seizures of 5,249,881 cannabis plants from public and private land across California during the CAMP season and Operation Green Acres 2. [@1,2] Of that total, 3,641,328 plants, almost 70 percent, came from state and federal public land. [@1] CAMP alone eradicated 2.9 million plants in its second straight record year, two million of them on public land. [@1] The eradication season ran from July through October. [@1] Raids in 40 of the state's 58 counties contributed to the total, and officials put the plants' wholesale value at 15.8 billion dollars. [@3] The CAMP season summary itself counted 2,905,232 plants, valued at 11.6 billion dollars wholesale, in 542 raids. [@4]
 
 ## Raids, arrests and counties
 

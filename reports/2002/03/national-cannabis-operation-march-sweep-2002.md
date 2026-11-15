@@ -42,11 +42,12 @@ sources:
   - title: Fresh hauls keep cannabis control on target
     publisher: New Zealand Herald (via 420 Magazine)
     url: https://www.420magazine.com/community/threads/fresh-hauls-keep-cannabis-control-on-target.5593/
+    archived: https://web.archive.org/web/20261114223234/https://www.420magazine.com/community/threads/fresh-hauls-keep-cannabis-control-on-target.5593/
     date: 2002-03-28
     authors: ["Rosaleen MacBrayne"]
 ---
 
-Police destroyed 35,000 cannabis plants in the Bay of Plenty and 19,500 in Northland during March 2002, the Northland total 6,100 more than the year before, as the National Cannabis and Crime Operation continued. [@1] Officers found another 13,000 plants around Rotorua, Taupo and Tokoroa, 2,000 more than last season. [@1] The national programme co-ordinator, Detective Senior Sergeant Don Lee, said the growing season was consistent with previous years, though a wet summer meant plants matured later than normal, and growers were planting smaller plots in greater numbers, often in bush clearings. [@1]
+Police destroyed 35,000 cannabis plants in the Bay of Plenty and 19,500 in Northland during March 2002, the Northland total 6,100 more than the year before, as the National Cannabis and Crime Operation continued. [@1] Officers found another 13,000 plants around Rotorua, Taupo and Tokoroa, 2,000 more than last season. [@1] The national programme co-ordinator, Detective Senior Sergeant Don Lee, said the growing season was consistent with previous years, though a wet summer meant plants matured later than normal, and growers were planting smaller plots in greater numbers, often in bush clearings. [@1] Northland, the eastern Bay of Plenty and the Coromandel were the biggest problem areas, though Waikato, Gisborne and other parts of the Bay of Plenty had also yielded big crops of high-quality cannabis. [@1]
 
 About 500 cannabis plants growing among maize and on isolated parts of Matakana Island in Tauranga Harbour were seized the previous day. [@1] At Te Puke, officers seized a shotgun from a grower camped by his crop, and a search of a Papamoa house found 50 cannabis plants growing under lights alongside stolen computers and a mountain bike. [@1] Police believed the 2001/02 eradication programme would wipe out about 40 per cent of the national crop, as in previous years. [@1]
 

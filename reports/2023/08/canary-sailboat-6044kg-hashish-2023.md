@@ -65,7 +65,9 @@ Brazil. [@2]
 
 The boarding, from the Customs patrol boat Condor, capped an investigation
 running since 2020 into a Dutch-origin network that ran its Spanish logistics
-from a town in Alicante. [@1] Police then carried out six raids in Alicante,
+from a town in Alicante. [@1] The case began when a sailing boat moored on
+Lanzarote raised suspicions and Dutch police linked it to the organisation, and
+Portuguese, Swedish, Dutch and French police cooperated in it. [@1] Police then carried out six raids in Alicante,
 Murcia, Madrid and Gran Canaria, arresting five people in total and seizing
 more than 35,000 euros in cash, boats and a vehicle. [@1] Among those held was
 the network's leader, wanted by Germany, where prosecutors are seeking a

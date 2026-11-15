@@ -55,6 +55,11 @@ sources:
     publisher: Batam News Asia
     date: 2025-03-20
     locator: 38,000 plants across 49 fields on 1.5 hectares; four Argosari villagers arrested; mastermind at large
+  - title: Ministry of Forestry Denies Drone Restrictions in Bromo National Park Are Linked to Cannabis Field Discovery
+    url: https://environews.asia/ministry-of-forestry-denies-drone-restrictions-in-bromo-national-park-are-linked-to-cannabis-field-discovery/
+    archived: https://web.archive.org/web/20260417122922/https://environews.asia/ministry-of-forestry-denies-drone-restrictions-in-bromo-national-park-are-linked-to-cannabis-field-discovery/
+    publisher: EnviroNews Asia
+    date: 2025-03-19
 media:
   - kind: photo
     url: https://jakartaglobe.id/news/government-refutes-claims-of-marijuana-plantation-coverup-in-east-java-national-park
@@ -71,7 +76,7 @@ Police and forest rangers using FPV drones found a cannabis plantation hidden
 in thick vegetation on the steep slopes of Mount Semeru, inside Bromo Tengger
 Semeru National Park, in September 2024. [@1] The site near Argosari village
 in Lumajang Regency held more than 38,000 plants across 49 fields covering
-about 1.5 hectares, some plants up to two metres tall. [@2]
+about 1.5 hectares, some plants up to two metres tall. [@2] A joint team of the park authority, Lumajang Police, soldiers and Argosari village officials uncovered the site in the Pusung Duwur Block, in the Senduro and Gucialit districts, from 18 to 21 September 2024. [@3]
 
 Between September and October 2024 the police destroyed more than 47,000
 marijuana plants on the mountain's slopes, and seized 10 kg of dried
@@ -82,4 +87,7 @@ At least four suspects, all villagers from Argosari, were arrested; the
 arrested farmers said a man known as Edy had hired them to tend the crop, and
 he remained at large. [@1,2] Under Indonesian law cannabis is a type-1 drug in
 the same class as heroin and methamphetamine, and cultivation carries long
-prison terms. [@2]
+prison terms. [@2] When the operation was described publicly in March 2025, the suspects were
+on trial at the Lumajang District Court. [@3] The government denied that park
+staff had grown the plantation or that drone and access restrictions were
+imposed to cover it up. [@1,3]

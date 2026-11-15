@@ -71,10 +71,15 @@ sources:
     url: https://handsoffcain.info/news/malaysia-two-men-get-death-sentence-for-trafficking-in-cannabis-10318533
     publisher: Hands Off Cain
     date: '2008-10-08'
+  - title: "Death Penalty: Malaysia to Hang Three for Marijuana Trafficking, Executions Continue in Middle East"
+    url: https://stopthedrugwar.org/chronicle/2008/oct/10/death_penalty_malaysia_hang_thre
+    archived: https://web.archive.org/web/20240626114549/https://stopthedrugwar.org/chronicle/2008/oct/10/death_penalty_malaysia_hang_thre
+    publisher: Drug War Chronicle
+    date: '2008-10-10'
 ---
 
 The Ipoh High Court sentenced Khairil Anuar Abdul Rahman and Afendi Adam to death for trafficking 971 grams of cannabis. [@1,2]
 
-Judicial Commissioner Ridwan Ibrahim of the Ipoh High Court sentenced Khairil Anuar Abdul Rahman, 34, and Afendi Adam, 28, to death by hanging on 8 October 2008.[@1,2] The court found both men guilty of trafficking nearly a kilogram of cannabis six years earlier, and the judge said the court had no choice but to impose the death sentence once the prosecution proved its case beyond reasonable doubt.[@1,2] He gave no grounds for the judgment.[@1]
+Judicial Commissioner Ridwan Ibrahim of the Ipoh High Court sentenced Khairil Anuar Abdul Rahman, 34, and Afendi Adam, 28, to death by hanging on 8 October 2008.[@1,2] The court found both men guilty of trafficking nearly a kilogram of cannabis six years earlier, and the judge said the court had no choice but to impose the death sentence once the prosecution proved its case beyond reasonable doubt.[@1,2] Death is the mandatory punishment for trafficking in Malaysia.[@3] He gave no grounds for the judgment.[@1]
 
 Khairil Anuar, a restaurant worker, and Afendi, a painter, had been charged on 12 March 2002 with trafficking 971 grams of cannabis at Jalan Rokam, Taman Razaki, on 28 February 2002, together with another person who was still at large.[@1,2] Deputy public prosecutor Julia Ibrahim prosecuted, while Manjeet Kaur and Ranjit Singh Sandhu defended the two men.[@1] Their lawyers were expected to appeal against the conviction and sentence.[@1]

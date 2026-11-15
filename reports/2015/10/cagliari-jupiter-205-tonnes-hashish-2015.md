@@ -39,6 +39,7 @@ tags: [hashish, maritime-smuggling, europol]
 open_questions:
   - "Crew count: maritime press reports nine or ten crew held while the Europol account reports ten Syrian citizens arrested and six Indian citizens taken into custody; the report uses the Europol arrest figure."
   - "Timing: the operation is dated 15 October with the seizure announced on 16 October; the report uses 15 October."
+  - No court outcome for the ten arrested crew members was reported in the opened sources.
 sources:
   - title: Italian Police Find Hashish Stowed in Cargo Ship Hull
     url: https://www.marinelink.com/amp/news/italian-hashish-police399503
@@ -53,6 +54,6 @@ sources:
 
 Italian finance police boarded the Cook Islands-flagged cargo ship Jupiter at sea on a tip and diverted it to the port of Cagliari in Sardinia, where an 18-day search finally found the drugs. [@1] Officers used cranes to move blocks of granite carried as legal cargo before finding 821 packages of hashish weighing 20.5 tonnes in a ballast tank in the bow. [@1]
 
-The operation that located the vessel on 26 September 2015 was led by Italy's Guardia di Finanza and DCSA with France's OCRTIS-DCPJ and CeCLAD-M, Spain's Guardia Civil and Europol, and the ship was escorted to Cagliari. [@2] Ten Syrian citizens were arrested and six Indian citizens, all crew members, were taken into custody for further investigation. [@2] The authorities estimated the street value at 200 million euros. [@1]
+The operation that located the vessel on 26 September 2015 was led by Italy's Guardia di Finanza and DCSA with France's OCRTIS-DCPJ and CeCLAD-M, Spain's Guardia Civil and Europol, and the ship was escorted to Cagliari. [@2] Air and naval units located it with help from a Spanish Guardia Civil aircraft and boarded it under Article 17 of the 1988 UN drug-trafficking convention, and French officers assisted during the search. [@2] Ten Syrian citizens were arrested and six Indian citizens, all crew members, were taken into custody for further investigation. [@2] The authorities estimated the street value at 200 million euros. [@1]
 
 The ship's last reported port of call was Vigo in Spain. [@1] The captain and the crew members held were all Syrian nationals. [@1]

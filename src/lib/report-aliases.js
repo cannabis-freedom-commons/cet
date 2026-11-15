@@ -1,6 +1,14 @@
 // Retired duplicate URLs and codes keep pointing to their canonical report.
 export default {
   "slugs": {
+    "mersin-street-dealers-seven-jailed-esrar-synthetic-2026": "mersin-seven-jailed-28g-esrar",
+    "canaries-6044kg-dutch-network-2023": "canary-sailboat-6044kg-hashish-2023",
+    "california-camp-record-5-2-million-plants-2008": "california-5249881-plants-record-2008",
+    "semeru-pusung-duwur-47000-plants-eradication-2024": "semeru-argosari-47000-plants-eradication",
+    "malaysia-kairil-afendi-971g-death-sentences-2008": "my-ipoh-cannabis-death-sentence-2008",
+    "nz-67500-plants-march-eradication-2002": "national-cannabis-operation-march-sweep-2002",
+    "marseille-villa-56-tonnes-hashish-2015": "marseille-villa-5750kg-seizure-2015",
+    "jupiter-cagliari-205-tonnes-hashish-2015": "cagliari-jupiter-205-tonnes-hashish-2015",
     "carrickfergus-cannabis-farm-three-sentenced-2023": "carrickfergus-cannabis-farm-trio-sentenced-2023",
     "obioha-singapore-cannabis-death-sentence-2008": "chijioke-obioha-hanged",
     "tobruk-400kg-hashish": "libya-tobruk-hashish-2026",
@@ -148,6 +156,14 @@ export default {
     "kuala-lumpur-thai-businessmen-death-sentence-2008": "my-kl-masoh-romuelee-acquittal-2009"
   },
   "codes": {
+    "6EVC3C": "mersin-seven-jailed-28g-esrar",
+    "TWXFE6": "canary-sailboat-6044kg-hashish-2023",
+    "JC26BE": "california-5249881-plants-record-2008",
+    "1Y6V2F": "semeru-argosari-47000-plants-eradication",
+    "3F93SV": "my-ipoh-cannabis-death-sentence-2008",
+    "3CZ1NN": "national-cannabis-operation-march-sweep-2002",
+    "HAGFHZ": "marseille-villa-5750kg-seizure-2015",
+    "KJVRFV": "cagliari-jupiter-205-tonnes-hashish-2015",
     "KQR40M": "carrickfergus-cannabis-farm-trio-sentenced-2023",
     "02WRPN": "chijioke-obioha-hanged",
     "8JVT39": "libya-tobruk-hashish-2026",

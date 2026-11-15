@@ -63,6 +63,11 @@ sources:
     publisher: Mersin Halk Haber
     date: 2026-11-09
     language: tr
+  - title: Sokak satıcılarına operasyon! 7 şüpheli tutuklandı
+    url: https://www.sabah.com.tr/mersin/2026/11/09/sokak-saticilarina-operasyon-7-supheli-tutuklandi
+    publisher: Sabah
+    date: 2026-11-09
+    language: tr
 open_questions:
   - No district, neighbourhood or street is named for any of the searches; the accounts say only that they took place in different districts of Mersin province.
   - The submitted account and Mersin Portal report 28.2 grams of esrar, while Mersin Halk Haber reports 29.5 grams; the report uses 28.2 grams, the figure in the fuller breakdown of what the searches found.
@@ -78,7 +83,8 @@ suspected drug traders. [@2] Seven suspects were detained. [@1]
 
 All seven were jailed in pre-trial detention on drug-trafficking charges under
 article 188 of the Turkish Penal Code, which covers the manufacture and trade of
-narcotics. [@1]
+narcotics. [@1] After processing at the police station they were taken to the courthouse,
+where the on-duty magistrate's court ordered their detention. [@4]
 
 Searches of the suspects' persons and homes found 28.2 grams of esrar, the
 Turkish word for cannabis, the only cannabis reported in the case. [@1] The
