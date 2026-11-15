@@ -51,6 +51,21 @@ media:
     media_url: https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/nuevo-golpe-al-cjng-aseguran-dos-narcolaboratorios-con-capacidad-para-producir-17-mdp-mensuales-en-droga/nuevo-golpe-al-cjng-aseguran-dos-narcolaboratorios-con-capacidad-para-producir-17-mdp-mensuales-en-droga_9436834e-87a7-47ba-b4fc-ddbc9b5d70f8_medialjnimgndimage=fullsize
     publisher: La Jornada
     caption: 'Two drug laboratories and two greenhouses located and disabled in Degollado, Jalisco. Photo: Gabinete de Seguridad'
+  - kind: photo
+    url: https://www.eluniversal.com.mx/nacion/desmantelan-en-jalisco-dos-narcolaboratorios-ligados-al-tio-lako-jefe-regional-del-cjng-estiman-afectacion-de-17-mdp-mensuales/
+    media_url: https://www.eluniversal.com.mx/resizer/v2/Q3TR752OG5H3DDIVJL7GHYQE6Y.jpg?auth=f9c46c984fe124d25ff2e20ce06ce1f0c5f0859d8f4d42144909c8d5d1320047&smart=true&height=666
+    publisher: El Universal
+    caption: 'Defensa handout photo published with the El Universal account of the dismantled Jalisco laboratories linked to Tío Lako. Photo: Defensa'
+  - kind: photo
+    url: https://www.eluniversal.com.mx/nacion/desmantelan-en-jalisco-dos-narcolaboratorios-ligados-al-tio-lako-jefe-regional-del-cjng-estiman-afectacion-de-17-mdp-mensuales/
+    media_url: https://www.eluniversal.com.mx/resizer/v2/UHJZVCEGG5BTHFAPSYGEQ3V7PI.jpg?auth=1a5728e623e77b792c2605e4a0746220ed8d32d533d87fbda1aba4674b1ec57b&smart=true&height=620
+    publisher: El Universal
+    caption: 'Defensa handout photo published with the El Universal account of the dismantled Jalisco laboratories linked to Tío Lako. Photo: Defensa'
+  - kind: photo
+    url: https://www.eluniversal.com.mx/nacion/desmantelan-en-jalisco-dos-narcolaboratorios-ligados-al-tio-lako-jefe-regional-del-cjng-estiman-afectacion-de-17-mdp-mensuales/
+    media_url: https://www.eluniversal.com.mx/resizer/v2/TS34DBAI4JE3ZGRD4GPSWA2EVA.jpg?auth=457d94fe5697584e47f8ed2f07838909853fe4d5f5a883eafdec0a0a9e8a47cb&smart=true&height=620
+    publisher: El Universal
+    caption: 'Defensa handout photo published with the El Universal account of the dismantled Jalisco laboratories linked to Tío Lako. Photo: Defensa'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 86d89748de7436187ee03091dce1a95a
@@ -106,6 +121,11 @@ sources:
     publisher: El Informador
     date: 2026-11-14
     language: es
+  - title: Desmantelan en Jalisco dos narcolaboratorios ligados al "Tío Lako", jefe regional del CJNG; estiman afectación de 17 mdp mensuales
+    url: https://www.eluniversal.com.mx/nacion/desmantelan-en-jalisco-dos-narcolaboratorios-ligados-al-tio-lako-jefe-regional-del-cjng-estiman-afectacion-de-17-mdp-mensuales/
+    publisher: El Universal
+    date: 2026-11-14
+    language: es
 ---
 
 Under Mexico's National Public Security Strategy, the National Guard and the
@@ -114,10 +134,10 @@ Criminal Investigation Agency of the FGR, executed a technical investigation
 order at a property in the La Tinajera locality of the municipality of
 Degollado, Jalisco. [@1,4] On 13 November 2026 the Mexican Army, the National Guard and the FGR disabled two laboratories for producing synthetic drugs and two marijuana greenhouses in Degollado, Jalisco. [@7,9] The property was operated by a criminal group led by
 Heraclio 'N', alias Tío Laco, identified as the regional boss of the Jalisco New
-Generation Cartel in the area. [@1,4,8,9,10] The installations were operated by a group led by Heraclio Guerrero Martínez, alias Tío Lako, described as a regional CJNG chief with operations in Jalisco and Michoacán. [@6]
+Generation Cartel in the area. [@1,4,8,9,10] The installations were operated by a group led by Heraclio Guerrero Martínez, alias Tío Lako, described as a regional CJNG chief with operations in Jalisco and Michoacán. [@6,11]
 
 At the site the authorities seized firearms, cartridges, two synthetic-drug
-production centers and two marijuana greenhouses. [@1,4,5,8,9] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6,10] Machinery, tools and
+production centers and two marijuana greenhouses. [@1,4,5,8,9,11] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6,10] Machinery, tools and
 various items recovered on the property were used to make methamphetamine and to
 process and extract high-purity cannabidiol (CBD) and tetrahydrocannabinol (THC)
 from marijuana. [@2,4,6,9,10]
