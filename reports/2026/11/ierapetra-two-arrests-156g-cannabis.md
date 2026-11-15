@@ -70,26 +70,26 @@ sources:
     publisher: Φωνή Μαλεβιζίου
     date: 2026-11-14
     language: el
-open_questions:
-  - The exact spot within Ierapetra municipality where the men were checked and the cannabis was hidden was not named.
-  - The reports do not name the two men and give no nationalities beyond describing them as foreign nationals.
-  - No court outcome, detention measure or plea was reported; the case was at the preliminary-investigation stage.
-  - The reports do not say whether the 20 euros were alleged proceeds of the drug supply.
+  - title: 'Κρήτη: Τους έπιασαν την ώρα της αγοραπωλησίας ναρκωτικών – Έκρυβαν την κάνναβη σε αγροτική περιοχή'
+    url: https://iraklionews.gr/438979-kriti-tous-epiasan-tin-ora-tis-agorapolisias-narkotikon-ekryvan-tin-kannavi-se-agrotiki-periochi/
+    publisher: Iraklionews
+    date: 2026-11-14
+    language: el
 ---
 
 Two men aged 31 and 44 were arrested on Friday 13 November 2026 in an area of
 Ierapetra municipality in Lasithi on charges of possessing and trafficking
-narcotics. [@1,3,4] Officers of the Lasithi Police Operations Department said they
+narcotics. [@1,3,4,5] Officers of the Lasithi Police Operations Department said they
 saw the 44-year-old supplying the 31-year-old with drugs in exchange for money
-during targeted anti-trafficking checks. [@1,3,4] A second account identifies the
+during targeted anti-trafficking checks. [@1,3,4,5] A second account identifies the
 two men as foreign nationals and gives the same ages, place and date of arrest.
 [@2]
 
 Officers then checked the two men and searched the rural area where they were
 found. [@1,3,4] The account says the immediate intervention included physical control of the two men. [@4] In that search officers found 156.2 grams of raw cannabis carefully
-hidden and seized it. [@1,3,4] They also seized 20 euros, one precision scale and
+hidden and seized it. [@1,3,4,5] They also seized 20 euros, one precision scale and
 one mobile phone. [@1,4] The second account confirms the same seizure of 156.2
 grams of raw cannabis, 20 euros, a precision scale and a mobile phone. [@2]
 
 The preliminary investigation was taken over by the Ierapetra Crime Prosecution
-and Investigation Department. [@1,3,4]
+and Investigation Department. [@1,3,4,5]
