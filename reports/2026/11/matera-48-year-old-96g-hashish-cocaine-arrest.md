@@ -52,13 +52,11 @@ sources:
     publisher: Questura di Matera
     date: 2026-11-14
     language: it
-open_questions:
-  - The accounts give no separate date for the operation; 14 November 2026 is the publication date of both sources and is used as the incident date.
-  - Only the separately stated 9.6 grams of hashish is counted as cannabis; the almost 100 grams of cocaine is excluded as a non-cannabis substance.
-  - The 0.6-gram dose found on the buyer is cocaine for personal use and is not counted in the cannabis seizure.
-  - The hashish is described as found material with no laboratory confirmation reported.
-  - The arrested man is identified only by age and residence, with no name published, and the buyer is not named.
-  - Both accounts reproduce the same Matera police headquarters statement, so they are not independent reporting.
+  - title: 'Matera, maxi sequestro di cocaina e hashish: arrestato un 48enne'
+    url: https://www.radiosenisecentrale.it/news/2026/11/14/matera-maxi-sequestro-di-cocaina-e-hashish-arrestato-un-48enne/
+    publisher: Radio Senise Centrale
+    date: 2026-11-14
+    language: it
 ---
 
 State police in Matera arrested a 48-year-old Matera man in the act, holding him
@@ -69,20 +67,19 @@ by a Squadra Mobile officer. [@1] That man was found with a 0.6-gram dose of
 cocaine said to have been bought just before. [@1]
 
 Investigators then went into the garage and caught the 48-year-old with a packet
-containing 77 grams of cocaine. [@2] A later search of the tavern room and the
+containing 77 grams of cocaine. [@2,3] A later search of the tavern room and the
 flat found further drugs hidden in different rooms. [@1] In the flat's bathroom
 cabinets officers found another 19.2 grams of cocaine in various containers,
 some already wrapped in small packets called cipollotti, plus a jar with 0.8
-grams of cocaine and two pieces of hashish totalling 9.6 grams. [@1] Officers
+grams of cocaine and two pieces of hashish totalling 9.6 grams. [@1,3] Officers
 also seized two precision scales, cutting and packaging material and 3,265 euros
-in cash treated as likely dealing proceeds. [@1] Police described the overall
+in cash treated as likely dealing proceeds. [@1,3] Police described the overall
 result as almost 100 grams of cocaine, 9.6 grams of hashish, over 3,000 euros in
 cash and dose-packaging material from a Squadra Mobile operation against dealing
 in the north of the city. [@1]
 
 The 48-year-old was taken to Matera district prison at the disposal of the
 judicial authority. [@1] After a validation hearing he was placed under house
-arrest with an electronic bracelet. [@2] The man found with the 0.6-gram dose
+arrest with an electronic bracelet. [@2,3] The man found with the 0.6-gram dose
 was instead reported to the prefect in administrative proceedings for personal
 possession. [@1]
-
