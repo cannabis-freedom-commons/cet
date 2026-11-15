@@ -74,25 +74,21 @@ sources:
     url: https://www.ksat.com/news/local/2026/06/13/bcso-woman-arrested-after-deputies-find-drugs-weapons-and-cash-inside-west-bexar-county-home/
     publisher: KSAT
     date: 2026-06-12
-open_questions:
-  - The marijuana weight is given as approximately 5,768 grams (about 12.7 pounds).
-  - The 43 grams of THC wax and 197 grams of THC vape products are recorded as products without combined weights, so they are excluded from figures.kg_seized.
-  - Whether the controlled-substance manufacturing charge concerns the THC products or another drug is not stated.
-  - No court dates or trial outcome have been reported; the case was at the charging stage.
-  - The Hyatt Resort Drive address is known only as a block; coordinates mark the approximate far-west San Antonio area of Bexar County.
-  - The sheriff's office statement labels the drug charge as possession of a controlled substance PG 2 or 2-A between 4 grams and 400 grams, while the submitted article renders it differently; the charges here follow KSAT's reading of jail records.
-  - The other photos in the National Desk gallery could not be judged individually, so three images are listed.
+  - title: Woman arrested, THC Vapes, nearly $500,000 in cash, and firearms seized in narcotics bust
+    url: https://news4sanantonio.com/news/local/woman-arrested-thc-vapes-nearly-500000-in-cash-and-firearms-seized-in-narcotics-bust
+    publisher: WOAI
+    date: 2026-06-12
 ---
 
 Bexar County sheriff's deputies searching a home in the 9000 block of Hyatt
 Resort Drive, in west Bexar County, Texas, on 11 June 2026 seized about 5,768
 grams of marijuana, 43 grams of THC wax, 197 grams of THC vape products, two
-firearms and $492,425 in cash. [@1] Deputies executed the narcotics warrant at
+firearms and $492,425 in cash. [@1,3] Deputies executed the narcotics warrant at
 about 4:20 p.m. on 11 June 2026 after a tip alleging drug use at the residence,
-the Bexar County Sheriff's Office said. [@1]
+the Bexar County Sheriff's Office said. [@1,3]
 
 Deputies detained a woman at the front door, identified as Danielle Gill, 25,
-and booked her into the Bexar County Adult Detention Center. [@2] Jail records
+and booked her into the Bexar County Adult Detention Center. [@2,3] Jail records
 showed she faced charges of manufacturing or delivery of a controlled substance
 in an amount of 4 grams or more but less than 400 grams and possession of
 marijuana between 5 and 50 pounds. [@2] Her total bond was set at $55,000, and
@@ -101,4 +97,3 @@ she was released on bond on the Friday after the search. [@2]
 Sheriff Javier Salazar said many of the county's violent crimes, including
 homicides, could be traced to confrontations over THC vape cartridges and called
 the trade a big money business. [@1]
-
