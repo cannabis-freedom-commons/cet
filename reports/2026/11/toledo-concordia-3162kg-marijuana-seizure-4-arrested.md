@@ -97,30 +97,33 @@ sources:
     publisher: Oeste Agora Notícias
     date: 2026-11-13
     language: pt
-open_questions:
-  - Accounts give the seized weight as 3,162 kg or 3,162.9 kg; the report's figure of 3,162.9 kg is retained.
+  - title: PRF e PMPR apreendem mais de 3 toneladas de maconha e recuperam caminhonete furtada em Toledo (PR)
+    url: https://www.colunadomeio.com.br/noticia/prf-e-pmpr-apreendem-mais-de-3-toneladas-de-maconha-e-recuperam-caminhonete-furtada-em-toledo-pr
+    publisher: Coluna do Meio
+    date: 2026-11-13
+    language: pt
 ---
 
 A joint operation by the Paraná Military Police 19th Battalion and the Federal
 Highway Police seized more than three tonnes of drugs and arrested four people
-on Friday 13 November 2026 in Toledo in western Paraná. [@1,4,5,8,9] SOT placed the
+on Friday 13 November 2026 in Toledo in western Paraná. [@1,4,5,8,9,10] SOT placed the
 operation in the early hours of Friday in the Concórdia district of Toledo,
 where four men were arrested with a stolen pickup. [@2,6,7] The action began at
 about 3 a.m. during inspections of accesses to the BR-163 highway and rural
 roads, when officers spotted a pickup travelling without plates and followed it
-with military police support. [@2,7,8] The driver disobeyed the stop order, fled to
+with military police support. [@2,7,8,10] The driver disobeyed the stop order, fled to
 a rural property and abandoned the Hilux inside a shed, where officers detained
 the driver and three other men at the site. [@1] Officers following the pickup
 reached the rural property, where two men were caught unloading bales of
-marijuana near the shed. [@2,5,7,9] Following the vehicle with military police support, the officers reached a rural property, where two men were caught unloading bales of marijuana near a shed. [@4,8]
+marijuana near the shed. [@2,5,7,9,10] Following the vehicle with military police support, the officers reached a rural property, where two men were caught unloading bales of marijuana near a shed. [@4,8]
 
 Searches of the pickup and the shed found bales totalling 3,162.9 kg of
 marijuana and 9.9 kg of murruga, or 3,172.8 kg of drugs removed from
 circulation. [@1,5] Checks showed the plate on the Toyota Hilux did not match the
 vehicle's identification data and that the pickup had a theft record. [@1]
 Police found the pickup used to carry the drug had been reported stolen since 28
-August 2026 in Medianeira, also in western Paraná. [@2,4,5,7,8,9] The four detained men,
+August 2026 in Medianeira, also in western Paraná. [@2,4,5,7,8,9,10] The four detained men,
 the recovered pickup and all the seized drugs were taken to Toledo's 20th Police
-Subdivision, where the case was handed to the Civil Police. [@1,4,5,7,8,9] Police said an
+Subdivision, where the case was handed to the Civil Police. [@1,4,5,7,8,9,10] Police said an
 inquiry would be opened to investigate the load's origin, its destination and
 possible links to other criminal groups. [@3]
