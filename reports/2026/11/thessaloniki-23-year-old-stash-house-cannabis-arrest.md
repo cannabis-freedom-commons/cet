@@ -63,25 +63,30 @@ sources:
     publisher: Λόγος της Πέλλας
     date: 2026-11-13
     language: el
+  - title: Συνελήφθη ένα άτομο για διακίνηση και κατοχή ναρκωτικών ουσιών-Κατασχέθηκαν ποσότητες κοκαΐνης και κάνναβης | Έμβολος
+    url: https://emvolos.gr/synelifthi-ena-atomo-gia-diakinisi-kai-katochi-narkotikon-oysion-kataschethikan-posotites-koka-nis-kai-kannavis/
+    publisher: Έμβολος
+    date: 2026-11-13
+    language: el
 ---
 
 Officers of the Polygyros Crime Investigation and Prosecution Division arrested
 a 23-year-old Greek man at midday on 12 November 2026 for drug trafficking and
-possession. [@1] The arrest followed coordinated action by the division's Drug
+possession. [@1,5] The arrest followed coordinated action by the division's Drug
 Prosecution Team. [@1,4] Officers located a house he used as a drug-storage stash,
 known locally as a kavantza, in an area of eastern Thessaloniki. [@1] A second
 account confirms the same Thursday midday arrest in eastern Thessaloniki by the
 same Polygyros unit. [@3]
 
 From the stash house police seized five packs of raw cannabis weighing 4
-kilograms and 246 grams. [@1,4] They also seized two packs of processed cannabis
-weighing 203 grams. [@1,4] Two packs of cocaine weighing 203.6 grams were seized
+kilograms and 246 grams. [@1,4,5] They also seized two packs of processed cannabis
+weighing 203 grams. [@1,4,5] Two packs of cocaine weighing 203.6 grams were seized
 alongside the cannabis and are not counted in the cannabis total. [@1] Police
 seized one air-extraction device from the premises. [@1,4] They seized two
 precision electronic scales. [@1,4] Two mobile phones were seized from the
-arrested man himself. [@1,4]
+arrested man himself. [@1,4,5]
 
 A case file was opened against him and he was to be brought before the
-Thessaloniki First Instance Prosecutor. [@1] The second outlet describes the
+Thessaloniki First Instance Prosecutor. [@1,5] The second outlet describes the
 same Polygyros operation as an arrest for trafficking and possession of cocaine
 and cannabis quantities. [@2]
