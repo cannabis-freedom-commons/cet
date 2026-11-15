@@ -43,6 +43,11 @@ sources:
     publisher: Suprobhat Chattogram
     date: 2026-11-12
     language: bn
+  - title: মিরসরাইয়ে ২০ কেজি গাঁজা উদ্ধার, গ্রেপ্তার ৫
+    url: https://sokalerkhobor24.com/chattagram-division/post/14996
+    publisher: sokalerkhobor24.com
+    date: 2026-11-13
+    language: bn
 media:
   - kind: photo
     url: https://joynewsbd.com/251445/d39443f7/
@@ -51,30 +56,25 @@ media:
     caption: >-
       Detainees lined up with Joaragongj Thana officers in front of a Special Operation banner after
       the Mirsarai drug drives. Photo: JoyNewsBD
-open_questions:
-  - No separate figure for the value of the 20 kg of ganja or the 12 litres of cholaimod was published.
-  - The exact day of the midnight-to-early-morning mobile court sentences is not clearly stated; it is tied to 12 November operations but the article does not say the court sat that exact night.
-  - The two-day operations combined 20 kg ganja and 12 litres of locally made liquor, but the cannabis-only figure recorded here is 20 kg; no split figure for the liquor is given in kilograms.
 ---
 
 Joaragongj Thana police in Mirsarai, Chattogram, seized 20 kg of ganja and 12
-litres of locally made cholaimod in separate two-day operations. [@1] On 11
+litres of locally made cholaimod in separate two-day operations. [@1,3] On 11
 November a team led by the thana officer and headed by an assistant
 superintendent searched the Islampur Bhabani area in Korhaat Union Ward 9 and
 found the ganja at a rented room. [@1] Police opened a drug-control-act case
-against one man and he fled at the time of the raid. [@1]
+against one man and he fled at the time of the raid. [@1,3]
 
 On 12 November police seized the 12 litres of cholaimod and arrested two people,
-and opened a drug-control-act case against them. [@1] The police also arrested
+and opened a drug-control-act case against them. [@1,3] The police also arrested
 one man against a 2024 case, one man on a general arrest warrant and one more
-under section 151 of the criminal procedure code in the same operations. [@1] A
+under section 151 of the criminal procedure code in the same operations. [@1,3] A
 mobile court, held under the direction of the Chattogram Range DIG from midnight
 to early morning, gave four people prison sentences of seven, six, two and one
-days without hard labour. [@1]
+days without hard labour. [@1,3]
 
 A second outlet, Suprobhat Chattogram, confirmed the same 20 kg ganja and 12
 litre cholaimod seizure in the two-day Joaragongj operations. [@2]
 
 The Suprobhat account lists the same four sentenced people and the same seven,
 six, two and one day sentences. [@2]
-
