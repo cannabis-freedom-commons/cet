@@ -61,6 +61,11 @@ sources:
     publisher: G1
     date: 2026-11-13
     language: pt
+  - title: Justiça condena réus por tráfico e associação após apreensão de mais de meia tonelada de maconha em Manaus
+    url: https://18horas.com.br/amazonas/justica-condena-reus-por-trafico-e-associacao-apos-apreensao-de-mais-de-meia-tonelada-de-maconha-em-manaus/
+    publisher: 18 Horas
+    date: 2026-11-13
+    language: pt
 open_questions:
   - No street value for the seized skunk was published.
   - The operation account names Jose Ricardo alongside Kristhian at the bank withdrawal, while the sentence names Ricardo Rincon Barbosa, so whether these refer to the same person on different name forms is unclear.
@@ -71,31 +76,30 @@ open_questions:
 The 1st Criminal Court of Manaus convicted three men of association for drug
 trafficking, and two of them also of trafficking, in the case of 889 tablets of
 skunk cannabis seized from a property in Manaus' Distrito Industrial II in
-February this year, in the city's east zone. [@1] The judge of the case handed
-the sentence on 12 November 2026. [@1] The total load weighed about 959 kg
+February this year, in the city's east zone. [@1,2] The judge of the case handed
+the sentence on 12 November 2026. [@1,2] The sentencing judge was Rosália Guimarães Sarmento. [@2] The total load weighed about 959 kg
 gross, but the judge used the more favourable net weight of 512.9 kg when fixing
-the sentences. [@1]
+the sentences. [@1,2]
 
 Roberto Ronero Reis Martins, named as the person who kept the drugs at the
 property, received 14 years and 6 months of imprisonment in a closed regime for
 trafficking, association for trafficking and possession of restricted
-ammunition. [@1] Ricardo Rincon Barbosa was sentenced to 10 years, 3 months and
-15 days in a closed regime for trafficking and association. [@1] The third
+ammunition. [@1,2] Ricardo Rincon Barbosa was sentenced to 10 years, 3 months and
+15 days in a closed regime for trafficking and association. [@1,2] The third
 accused, Kristhian Leandro Hernandez Arvelo, was acquitted of trafficking and
 possession of ammunition but convicted of association for trafficking, receiving
 3 years in an open regime replaced by restrictive rights, with his preventive
-detention revoked. [@1]
+detention revoked. [@1,2]
 
 The sentence also ordered the forfeiture to the federal Union, for the Funad
 national anti-drug fund, of R$340,171 in cash seized from the group, plus the
 pick-up used in the operations and mobile phones, and ordered the drugs
-destroyed. [@1]
+destroyed. [@1,2]
 
 The police operation began on 7 February 2026, when Denarc monitored a site in
-the Distrito Industrial II by aerial images. [@1] On 9 February teams carried
+the Distrito Industrial II by aerial images. [@1,2] On 9 February teams carried
 out a search warrant at the property where 889 skunk tablets, restricted
-ammunition, a briefcase and phones were seized. [@1] In the city centre suspects
+ammunition, a briefcase and phones were seized. [@1,2] In the city centre suspects
 withdrew R$340,100 in cash at a bank on Avenida Guilherme Moreira while the
 driver waited and tried to flee on the approach, ending with the flagrante
-arrests of the defendants. [@1]
-
+arrests of the defendants. [@1,2]
