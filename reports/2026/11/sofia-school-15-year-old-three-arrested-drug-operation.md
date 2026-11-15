@@ -89,22 +89,27 @@ sources:
     publisher: Vesti.bg
     date: 2026-11-13
     language: bg
+  - title: 'В София: Ученик на 15 години беше арестуван с дрога в час - Днес+'
+    url: https://dnesplus.bg/krimi/v-sofia-uchenik-na-15-godini-beshe-arestuvan-s-droga-v-chas_1239977
+    publisher: Днес+
+    date: 2026-11-14
+    language: bg
 ---
 
 Sofia police detained two men aged 23 and 24 and a 15-year-old pupil in an
 operation against drug distribution around schools, as announced at a briefing
-by SDVR director Nikolay Peltekov. [@1,6,7,8,9,11] The operation was carried out by
+by SDVR director Nikolay Peltekov. [@1,6,7,8,9,11,12] The operation was carried out by
 officers of the Sixth District Police Department on operational information
-about dealers selling drugs near schools. [@2,7,8,10]
+about dealers selling drugs near schools. [@2,7,8,10,12]
 
 The pupil was taken from his classroom during a lesson in the presence of Child
 Pedagogical Room inspectors from the Sixth District department and the school's
-deputy director. [@1,6,7,8,9,11] Officers found marijuana and an electronic scale on the
+deputy director. [@1,6,7,8,9,11,12] Officers found marijuana and an electronic scale on the
 boy. [@3] Police did not name the school in order to protect the minor's
 identity. [@4,8]
 
 In parallel, police checked a flat in Sofia's Mladost-2 district occupied by the
-two detained men aged 23 and 24 and found herbal cannabis there. [@5,6,7,8,9,11] The exact
+two detained men aged 23 and 24 and found herbal cannabis there. [@5,6,7,8,9,11,12] The exact
 quantity of the seized drug has not yet been established and an expert
 assessment is still to determine it. [@4,8] Police were checking unconfirmed information that products resembling chewing candy were among the distributed drugs, which laboratory tests still had to confirm or reject. [@8] Police said both adult detainees have
 prior criminal records for drug distribution and were in breach of suspended
