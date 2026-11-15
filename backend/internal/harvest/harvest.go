@@ -8,6 +8,7 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"errors"
+	"fmt"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/safeurl"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 	"io"
@@ -112,6 +113,25 @@ func (c Collector) RSS(ctx context.Context, feed string) error {
 	}
 	return c.checkpoint(ctx, "rss:"+hash(feed), time.Now().UTC().Format(time.RFC3339))
 }
+
+// DefaultGDELTQueries reach the news in languages Google News has no edition for, so its native
+// queries return nothing (tested): GDELT machine-translates the world's news and matches these
+// English terms in the translations. One query per region, so a refused one stops only its own.
+var DefaultGDELTQueries = []string{
+	gdeltQuery("persian", "pashto", "urdu"),
+	gdeltQuery("swahili", "amharic", "somali"),
+	gdeltQuery("burmese", "khmer", "lao", "sinhalese", "mongolian", "nepali"),
+	gdeltQuery("albanian", "macedonian", "georgian", "armenian", "azerbaijani", "kazakh", "uzbek", "kyrgyz", "tajik"),
+}
+
+func gdeltQuery(languages ...string) string {
+	parts := make([]string, len(languages))
+	for i, l := range languages {
+		parts[i] = "sourcelang:" + l
+	}
+	return `(cannabis OR marijuana OR hashish OR ganja OR hemp) (seized OR seizure OR arrested OR smuggling OR raid OR destroyed OR sentenced) (` + strings.Join(parts, " OR ") + ")"
+}
+
 func (c Collector) GDELT(ctx context.Context, query string) error {
 	key := "gdelt:" + hash(query)
 	cursor := time.Now().UTC().Add(-24 * time.Hour).Truncate(time.Hour)
@@ -127,10 +147,59 @@ func (c Collector) GDELT(ctx context.Context, query string) error {
 	if end.After(time.Now().UTC().Add(-time.Hour)) {
 		return nil
 	}
-	params := url.Values{"query": {query}, "mode": {"artlist"}, "format": {"json"}, "maxrecords": {"250"}, "sort": {"datedesc"}, "startdatetime": {cursor.Format("20060102150405")}, "enddatetime": {end.Format("20060102150405")}}
-	b, err := fetch(ctx, "https://api.gdeltproject.org/api/v2/doc/doc?"+params.Encode())
+	urls, full, err := gdeltWindow(ctx, query, cursor, end)
 	if err != nil {
 		return err
+	}
+	if full {
+		// 250 is the most GDELT lists at once: take the hour in quarters instead
+		urls = nil
+		for from := cursor; from.Before(end); from = from.Add(15 * time.Minute) {
+			if err = gdeltPause(ctx); err != nil {
+				return err
+			}
+			part, full, err := gdeltWindow(ctx, query, from, from.Add(15*time.Minute))
+			if err != nil {
+				return err
+			}
+			if full {
+				slog.Warn("GDELT quarter-hour still has 250 articles; the rest of it is skipped", "source_id", hash(query), "from", from.Format(time.RFC3339))
+			}
+			urls = append(urls, part...)
+		}
+	}
+	for _, u := range urls {
+		if err = c.ingest(ctx, "gdelt", query, u); err != nil {
+			return err
+		}
+	}
+	return c.checkpoint(ctx, key, end.Format(time.RFC3339))
+}
+
+// gdeltPace keeps GDELT's limit of one request per five seconds.
+var gdeltPace = 6 * time.Second
+
+func gdeltPause(ctx context.Context) error {
+	select {
+	case <-ctx.Done():
+		return ctx.Err()
+	case <-time.After(gdeltPace):
+		return nil
+	}
+}
+
+// gdeltEndpoint is GDELT's DOC API; gdeltFetch reads it (a test stands in for it).
+var (
+	gdeltEndpoint = "https://api.gdeltproject.org/api/v2/doc/doc"
+	gdeltFetch    = fetch
+)
+
+// gdeltWindow lists the articles GDELT has for the query in [from, to); full: as many as it lists.
+func gdeltWindow(ctx context.Context, query string, from, to time.Time) ([]string, bool, error) {
+	params := url.Values{"query": {query}, "mode": {"artlist"}, "format": {"json"}, "maxrecords": {"250"}, "sort": {"datedesc"}, "startdatetime": {from.Format("20060102150405")}, "enddatetime": {to.Format("20060102150405")}}
+	b, err := gdeltFetch(ctx, gdeltEndpoint+"?"+params.Encode())
+	if err != nil {
+		return nil, false, err
 	}
 	var response struct {
 		Articles []struct {
@@ -138,17 +207,14 @@ func (c Collector) GDELT(ctx context.Context, query string) error {
 		} `json:"articles"`
 	}
 	if err = json.Unmarshal(b, &response); err != nil {
-		return err
+		// GDELT answers a query it refuses with a line of text, not JSON
+		return nil, false, fmt.Errorf("GDELT refused the query: %.120s", strings.TrimSpace(string(b)))
 	}
-	if len(response.Articles) >= 250 {
-		return errors.New("GDELT partition saturated: narrow the configured query before advancing")
-	}
+	urls := make([]string, 0, len(response.Articles))
 	for _, a := range response.Articles {
-		if err = c.ingest(ctx, "gdelt", query, a.URL); err != nil {
-			return err
-		}
+		urls = append(urls, a.URL)
 	}
-	return c.checkpoint(ctx, key, end.Format(time.RFC3339))
+	return urls, len(urls) >= 250, nil
 }
 func (c Collector) Run(ctx context.Context) {
 	timer := time.NewTimer(time.Second)
@@ -177,7 +243,7 @@ func (c Collector) Run(ctx context.Context) {
 				err := c.GDELT(run, strings.TrimSpace(query))
 				cancel()
 				if err != nil {
-					slog.Warn("GDELT harvest pending", "source_id", hash(query))
+					slog.Warn("GDELT harvest pending", "source_id", hash(query), "error", err)
 				}
 				select {
 				case <-ctx.Done():

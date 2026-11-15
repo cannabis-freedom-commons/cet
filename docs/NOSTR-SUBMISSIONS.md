@@ -706,7 +706,15 @@ For an opt-in live check of every built-in feed, without queuing URLs, AI or pub
 
 Optional RSS/Atom feeds and GDELT queries feed the same durable queue without posting every
 candidate to Nostr. Provider/article keys deduplicate discovery. GDELT advances bounded one-hour
-windows, pauses saturated 250-record partitions instead of silently skipping, and keeps cursors.
+windows and keeps cursors; an hour with 250 articles (the most GDELT lists at once) is fetched again
+in quarters.
+
+GDELT is on by default (`HARVEST_GDELT_ENABLED=true`) for the languages Google News has no edition
+for, where its native-language queries return nothing: Persian, Pashto, Urdu, Swahili, Amharic,
+Somali, Burmese, Khmer, Lao, Sinhala, Mongolian, Nepali and the Balkan, Caucasian and Central Asian
+languages. GDELT machine-translates that news, and four built-in English queries
+(`harvest.DefaultGDELTQueries`, one per region) match the translations. `HARVEST_GDELT_QUERIES`
+(separated by `|`, at most 10) replaces them; each query is asked about once an hour, a minute apart.
 Public activity excludes machine discovery; the all-submissions register includes every origin.
 
 ## Additional sources and updates to other reports

@@ -225,8 +225,16 @@ func Load() (Config, error) {
 	if raw := os.Getenv("HARVEST_RSS_URLS"); raw != "" {
 		c.RSSFeeds = strings.Split(raw, ",")
 	}
-	if raw := os.Getenv("HARVEST_GDELT_QUERIES"); raw != "" {
+	// GDELT reaches the languages Google News has no edition for; on by default with the
+	// built-in queries (harvest.DefaultGDELTQueries), HARVEST_GDELT_QUERIES replaces them
+	gdelt, gdeltErr := strconv.ParseBool(env("HARVEST_GDELT_ENABLED", "true"))
+	if gdeltErr != nil {
+		return c, errors.New("invalid HARVEST_GDELT_ENABLED")
+	}
+	if raw := os.Getenv("HARVEST_GDELT_QUERIES"); raw != "" && gdelt {
 		c.GDELTQueries = strings.Split(raw, "|")
+	} else if gdelt {
+		c.GDELTQueries = append([]string(nil), harvest.DefaultGDELTQueries...)
 	}
 	if len(c.RSSFeeds) > 10 || len(c.GDELTQueries) > 10 {
 		return c, errors.New("at most 10 configured feeds and queries")

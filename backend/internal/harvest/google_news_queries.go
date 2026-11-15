@@ -148,7 +148,7 @@ type googleNewsCountryGroup struct {
 var googleNewsCountryGroups = []googleNewsCountryGroup{
 	{"KE:en", `cannabis OR marijuana OR bhang OR bangi OR "Indian hemp"`,
 		`seized OR recovered OR arrested OR raid OR uprooted OR destroyed OR convicted OR sentenced OR jailed`,
-		[]string{"Ghana", "Uganda", "Tanzania", "Rwanda", "Burundi", "Ethiopia", "Somalia", "Somaliland", `"South Sudan"`, "Sudan", "Liberia", `"Sierra Leone"`, "Gambia", "Seychelles", "Mauritius"}},
+		[]string{"Ghana", "Uganda", "Tanzania", "Rwanda", "Burundi", "Ethiopia", "Somalia", "Somaliland", `"South Sudan"`, "Sudan", "Liberia", `"Sierra Leone"`, "Gambia", "Seychelles", "Mauritius", "Eritrea"}},
 	{"ZA:en", `cannabis OR marijuana OR dagga OR chamba OR mbanje OR matekoane OR suruma`,
 		`seized OR recovered OR arrested OR raid OR uprooted OR destroyed OR eradicated OR eradication OR convicted OR sentenced OR jailed`,
 		[]string{"Malawi", "Zambia", "Zimbabwe", "Botswana", "Namibia", "Lesotho", `Eswatini OR Swaziland`}},
@@ -185,7 +185,7 @@ var googleNewsCountryGroups = []googleNewsCountryGroup{
 		[]string{"Guatemala", "Honduras", `"El Salvador"`, "Nicaragua", `"Costa Rica"`, "Panamá", "Cuba", `"República Dominicana"`, `"Puerto Rico"`, "Colombia", "Venezuela", "Ecuador", "Perú", "Bolivia", "Paraguay", "Uruguay", "Argentina", "Chile", `"Guinea Ecuatorial"`}},
 	{"US:en", `cannabis OR marijuana OR marihuana OR ganja OR hashish OR hemp`,
 		`seized OR recovered OR arrested OR raid OR uprooted OR destroyed OR eradicated OR eradication OR charged OR convicted OR sentenced OR jailed`,
-		[]string{"Jamaica", "Belize", `"Trinidad and Tobago"`, "Barbados", "Bahamas", "Bermuda", "Grenada", "Dominica", `"Saint Lucia" OR "St Lucia"`, `"Saint Vincent" OR "St Vincent"`, `"Saint Kitts" OR "St Kitts"`, "Antigua", "Guyana", "Suriname", `"Cayman Islands"`, `"British Virgin Islands"`, `"US Virgin Islands" OR "U.S. Virgin Islands"`, `"Turks and Caicos"`, "Aruba", `Curaçao OR Curacao`}},
+		[]string{"Jamaica", "Belize", `"Trinidad and Tobago"`, "Barbados", "Bahamas", "Bermuda", "Grenada", "Dominica", `"Saint Lucia" OR "St Lucia"`, `"Saint Vincent" OR "St Vincent"`, `"Saint Kitts" OR "St Kitts"`, "Antigua", "Guyana", "Suriname", `"Cayman Islands"`, `"British Virgin Islands"`, `"US Virgin Islands" OR "U.S. Virgin Islands"`, `"Turks and Caicos"`, "Aruba", `Curaçao OR Curacao`, `"Sint Maarten" OR "St Maarten" OR "St. Maarten"`}},
 	{"AU:en", `cannabis OR marijuana OR marihuana OR ganja OR "Indian hemp"`,
 		`seized OR arrested OR raid OR uprooted OR destroyed OR eradicated OR eradication OR charged OR convicted OR sentenced OR jailed`,
 		[]string{"Fiji", "Samoa", "Tonga", "Kiribati", "Vanuatu", `"Papua New Guinea" OR PNG`, `"Solomon Islands"`, "Palau", "Nauru", "Tuvalu", "Micronesia", `"Marshall Islands"`, `"Cook Islands"`, "Niue", `"Northern Mariana Islands"`, "Guam"}},

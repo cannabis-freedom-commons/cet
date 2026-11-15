@@ -205,3 +205,21 @@ func TestHarvestQueueTarget(t *testing.T) {
 		}
 	}
 }
+
+// GDELT is on by default with the built-in queries; it can be switched off or given others.
+func TestGDELTDefaults(t *testing.T) {
+	for _, tc := range []struct {
+		enabled, queries string
+		want             int
+	}{{"", "", 4}, {"false", "", 0}, {"true", "cannabis seized", 1}} {
+		t.Setenv("HARVEST_GDELT_ENABLED", tc.enabled)
+		t.Setenv("HARVEST_GDELT_QUERIES", tc.queries)
+		c, err := Load()
+		if err != nil {
+			t.Skip("this environment cannot load a configuration:", err)
+		}
+		if len(c.GDELTQueries) != tc.want {
+			t.Fatalf("HARVEST_GDELT_ENABLED=%q HARVEST_GDELT_QUERIES=%q: %d queries, want %d", tc.enabled, tc.queries, len(c.GDELTQueries), tc.want)
+		}
+	}
+}
