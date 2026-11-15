@@ -47,14 +47,13 @@ sources:
     publisher: وكالة الأنباء الليبية
     date: 2026-10-25
     language: ar
-open_questions:
-  - Only the Libyan News Agency account of the Interior Ministry statement was found.
-  - The weight is more than 85 kg of material suspected to be hashish. No exact weight was given.
-  - The people arrested were not named or counted. The statement says the gang's members and the truck were seized.
-  - The stop is tied to the Murqub branch. The road or town was not named. The map uses Khoms, the district centre.
-  - A photograph on the agency page could not be opened, so it is not listed.
+  - title: ليبيا... جهود متواصلة لتطويق تفشّي المخدرات
+    url: https://www.aajeg.com/society/%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%AC%D9%87%D9%88%D8%AF-%D9%85%D8%AA%D9%88%D8%A7%D8%B5%D9%84%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D9%82-%D8%AA%D9%81%D8%B4%D9%91%D9%8A-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA
+    publisher: العربي الجديد
+    date: 2026-11-15
+    language: ar
 ---
 
-The Anti-Narcotics and Psychotropic Substances Agency of Libya's Interior Ministry seized more than 85 kilograms of a substance suspected to be hashish on Sunday 25 October 2026. [@1] The Libyan News Agency said the load was being moved from eastern Libya toward the central and western regions. [@1]
+The Anti-Narcotics and Psychotropic Substances Agency of Libya's Interior Ministry seized more than 85 kilograms of a substance suspected to be hashish on Sunday 25 October 2026. [@1,2] The Libyan News Agency said the load was being moved from eastern Libya toward the central and western regions. [@1,2]
 
 The Interior Ministry said the stop followed a penetration of a gang through a security source, under a public prosecutor, and with the Murqub branch and the Intervention and Control Force. [@1] Officers seized the gang's members and the truck that carried the hashish. [@1] The statement names no one and gives no count of the people held. [@1]
