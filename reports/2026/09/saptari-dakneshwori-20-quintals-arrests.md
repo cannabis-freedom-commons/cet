@@ -36,18 +36,23 @@ sources:
     archived: https://web.archive.org/web/20261006132423/https://english.onlinekhabar.com/two-held-with-20-quintals-of-marijuana.html
     publisher: OnlineKhabar
     date: 2026-09-20
+  - title: Saptari Police Seize 1400kg of Marijuana, One Arrested
+    url: https://english.ratopati.com/story/80001/1400-kg-of-marijuana-seized-from-saptari
+    publisher: Ratopati
+    date: 2026-09-20
 open_questions:
-  - Only one outlet's account of this raid could be opened, so no independent second source was found.
-  - The report does not name the two people arrested or say whether they are the two homeowners, and no charges or court outcome are given.
-  - The article's only photo is a generic arrest image from January 2025, so no event photo is recorded.
+    - The report does not name the two people arrested or say whether they are the two homeowners, and no charges or court outcome are given.
+    - The article's only photo is a generic arrest image from January 2025, so no event photo is recorded.
+    - 'Accounts of the Dakneshwori-6 search differ: one gives about 1400 kg in 56 sacks from Sada''s house and one person held, another 20 quintals in total from two houses and two arrests.'
+    - Accounts also differ on the timing and trigger of the search, describing either a 1:45 AM joint-team search after a special tip or a morning regular patrol.
 ---
 
 A police team mobilised from the District Police Office in Saptari reached
 the homes of Bhola Sada and Mangal Mukhiya in Phattepur of Dakneshwori
-Municipality-6 on Sunday morning during a regular patrol. [@1] Officers
+Municipality-6 on Sunday morning during a regular patrol. [@1,2] Officers
 recovered 56 sacks of marijuana from Sada's home and 64 sacks from Mukhiya's
-home, a total of 20 quintals. [@1]
+home, a total of 20 quintals. [@1,2]
 
 Two people were arrested along with the drugs, according to the central
 police newsroom account carried by the outlet. [@1] The report gives no
-charges, no court outcome, and no destination for the consignment. [@1]
+charges, no court outcome, and no destination for the consignment. [@1] Police suspected the marijuana was being smuggled to India because the village is near the border. [@2]
