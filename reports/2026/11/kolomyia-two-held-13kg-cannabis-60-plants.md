@@ -87,6 +87,11 @@ media:
     media_url: https://cdn.informator.ua/@prod/_1920/media/kl/2026/11/13/6af7073408abb9.66063799.jpg
     publisher: Інформатор Коломия
     caption: 'Seized cannabis material from the Kolomyia case in the prosecutor handout photos published with the story. Photo: Ivano-Frankivsk regional prosecutor via Informator Kolomyia'
+  - kind: photo
+    url: https://varta1.com.ua/news/na-prykarpatti-vykryly-dvokh-zaliznychnykiv-iaki-zahotovyly-kanabisu-na-8-milyoniv-hryven_415147.html
+    media_url: https://varta1.com.ua/uploads/media/images/image/2f/42/2f429539d215441abe4899941e542295efpmsrrpc16rzam_image.jpg
+    publisher: Varta1
+    caption: 'Police handout photo of the seized cannabis published with the Varta1 report. Photo: Police of Ivano-Frankivsk region'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 70c1d5073e2853232c1317a5779f0885
@@ -207,6 +212,16 @@ sources:
     publisher: Інформатор Коломия
     date: 2026-11-13
     language: uk
+  - title: На Прикарпатті викрили двох залізничників, які заготовили канабісу на 8 мільйонів гривень
+    url: https://varta1.com.ua/news/na-prykarpatti-vykryly-dvokh-zaliznychnykiv-iaki-zahotovyly-kanabisu-na-8-milyoniv-hryven_415147.html
+    publisher: Varta1
+    date: 2026-11-14
+    language: uk
+  - title: 'Плантація конопель на 8 млн грн: на Коломийщині затримано двох підозрюваних'
+    url: https://rai.ua/novyny/plantatsiia-konopel-na-8-mln-hrn-na-kolomyishchyni-zatrymano-dvokh-pidozriuvanykh
+    publisher: rai.ua
+    date: 2026-11-13
+    language: uk
 ---
 
 Police in Ivano-Frankivsk region exposed a 48-year-old Kolomyia resident and his
@@ -215,7 +230,7 @@ production. [@1,4,7,8,11,13,18,19,21,23] The older man sowed cannabis on open gr
 community at the end of spring 2026 and tended the crop to maturity. [@1,9,10,13,14,21,23] He
 illegally grew more than 60 cannabis plants. [@1,6,13,14,19,21,22] Both men work in the railway
 industry, and the organizer later brought in the younger man to harvest, process
-and move the crop. [@1,4,11,13]
+and move the crop. [@1,4,11,13,24]
 
 In September 2026 they jointly collected the cannabis harvest into prepared
 bags. [@1,6,11,13,21] On 9 September 2026 the two men cut the side branches with flower heads and transported part of the crop by car to the older man's former mother-in-law and part to the younger man, where they dried it on attics of utility buildings into a ready-to-consume state. [@15] They drove the raw material in the older man's Mercedes-Benz to
@@ -223,17 +238,17 @@ Kolomyia and to Sheparivtsi, where they dried it and stored it for sale. [@1,4,9
 Kolomyia police seized 7 buckets of plant material, and in Sheparivtsi, at the
 younger man's home, plastic wraps, packets and a container of crushed plant
 mass. [@1,9,11,13,14,21,22] Those searches recovered more than 13.5 kg of dried cannabis and 60
-cannabis plants. [@3,5,8,16,17,20,23] Police also seized the car used to transport the cannabis. [@9,11] Officers seized two cars, including a Mercedes-Benz allegedly used to transport the drugs. [@18] The searches also recovered seeds, cash and mobile phones. [@10] The searches also recovered two cars in addition to the seeds, cash and mobile phones already recorded. [@15,17] Officers carried out 13 authorised searches at the suspects' and their relatives' homes in Kolomyia and Kolomyia district. [@5,10,15,17,20,23] The searches also covered a garage, a dacha building and the suspects' car, where police found equipment for growing cannabis. [@9] Police put the black-market value at no less than 8
+cannabis plants. [@3,5,8,16,17,20,23,25] Police also seized the car used to transport the cannabis. [@9,11] Officers seized two cars, including a Mercedes-Benz allegedly used to transport the drugs. [@18] The searches also recovered seeds, cash and mobile phones. [@10] The searches also recovered two cars in addition to the seeds, cash and mobile phones already recorded. [@15,17] Officers carried out 13 authorised searches at the suspects' and their relatives' homes in Kolomyia and Kolomyia district. [@5,10,15,17,20,23] The searches also covered a garage, a dacha building and the suspects' car, where police found equipment for growing cannabis. [@9] Police put the black-market value at no less than 8
 million hryvnias and said the amount is an especially large amount. [@1,4,8,9,12,13,16,17,19,21]
 
 Police said the men planned to sell the bulk wholesale to other regions of
-Ukraine. [@1,9,11,13,14,19] They also sold hand-to-hand in Kolomyia district. [@1,13] Both men
-were detained on 9 November 2026. [@3,5,18,20,23] The operation involved the KORD and RPO special units of the regional police. [@18]
+Ukraine. [@1,9,11,13,14,19,24] They also sold hand-to-hand in Kolomyia district. [@1,13] Both men
+were detained on 9 November 2026. [@3,5,18,20,23,25] The operation involved the KORD and RPO special units of the regional police. [@18]
 
 On 10 November prosecutors notified both men of suspicion of group manufacture,
 storage and transportation for sale under Part 3 of Article 307. [@3,5,20,23] The
 48-year-old organizer was additionally notified of illegal sowing and
 cultivation under Part 2 of Article 310. [@1,12] The Omega account specifies the 48-year-old was additionally charged with illegal sowing and cultivation of more than 50 cannabis plants under Part 2 of Article 310. [@15] A court ordered both held in
-custody without bail. [@2,4,5,6,8,9,11,13,14,18,19,20,21,22,23] The men face up to twelve years in prison with confiscation of property. [@5,10] The pre-trial investigation continues, with procedural guidance provided by the Ivano-Frankivsk Regional Prosecutor's Office. [@11,13]
+custody without bail. [@2,4,5,6,8,9,11,13,14,18,19,20,21,22,23,25] The men face up to twelve years in prison with confiscation of property. [@5,10] The pre-trial investigation continues, with procedural guidance provided by the Ivano-Frankivsk Regional Prosecutor's Office. [@11,13]
 
 The plot was near a remote village of the Horodenka community and was ringed by bushes that preserved the crop's concealment. [@15,17] Over May-September 2026 the suspect regularly visited the plot by motorcycle and car, travelling 30 km one way, to tend the plants to flowering and ripening. [@15]
