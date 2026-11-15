@@ -56,25 +56,24 @@ sources:
     publisher: Ahora CDE
     date: 2026-11-09
     language: es
-open_questions:
-  - ABC Color gives no calendar date for the search, only that it happened the day before the 9 November 2026 publication; Ahora CDE says it was on the Sunday, which is used as the incident date.
-  - The material is described as marijuana confirmed by a field narcotest, not by a full laboratory analysis.
-  - No charge, measure of restraint beyond the detention, or court outcome was reported, and the prosecutor's office published no statement on the case that could be opened.
-  - It is not clear whether the inmate she came to visit faces any investigation in the case; neither opened account says so.
-  - Ahora CDE's byline is a generic site administrator and the page carries no visible publication date, so its date is taken as the same day as the ABC Color report.
+  - title: 'Anatomische Meisterleistung: Wie man mit einem „Paket Drogen“ im Knast Schiffbruch erleidet - Wochenblatt'
+    url: https://wochenblatt.cc/anatomische-meisterleistung-wie-man-mit-einem-paket-drogen-im-knast-schiffbruch-erleidet/
+    publisher: Wochenblatt
+    date: 2026-11-14
+    language: de
 ---
 
 A prison officer searching visitors at the Centro de Prevenidos de Ciudad del
 Este found a polythene-wrapped package of marijuana hidden among a woman's
-underwear. [@1] The woman came to the prison to visit Jorge Marcelo Cano, an
-inmate held there, the police report said. [@1]
+underwear. [@1,3] The woman came to the prison to visit Jorge Marcelo Cano, an
+inmate held there, the police report said. [@1,3]
 
 The anti-drug unit's narcotest on the package was positive for marijuana, and it
 weighed 101.2 grams. [@1]
 
 The anti-drug prosecutor Manuel Rojas Rodríguez ordered the woman held and she
 was taken to the Comisaría 25a de Mujeres, at the disposal of the public
-prosecutor's office. [@1]
+prosecutor's office. [@1,3]
 
 Ahora CDE reported that the search took place on the Sunday at about 13:00,
 during security checks at the prison. [@2]
@@ -83,4 +82,3 @@ That account named the officer who made the find as Angela Carmina Godoy, doing
 the body search. [@2] A woman was detained after trying to bring marijuana into
 the Centro de Prevenidos de Ciudad del Este, where she was caught in a routine
 check. [@1]
-
