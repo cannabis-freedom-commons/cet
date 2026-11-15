@@ -62,6 +62,7 @@ sources:
     date: 2026-11-11
     language: pt
 open_questions:
+  - Giro Marília and Marília Notícia illustrate the Palmital arrest with night-time PM patrol-car file photographs, so no event photo is listed.
     - The accounts put the stop in the early hours of Wednesday 11 November 2026; only one gives a clock time, about 1:15 a.m.
     - One of the two men escaped and was not identified.
     - No name of the arrested man, formal charge beyond the flagrante accusations, or court outcome was reported.

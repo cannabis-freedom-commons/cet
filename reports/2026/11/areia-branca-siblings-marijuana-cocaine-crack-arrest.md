@@ -46,6 +46,7 @@ sources:
     date: 2026-11-11
     language: pt
 open_questions:
+  - Difusora Mossoró illustrates the Areia Branca arrests with a generic police light-bar file photograph, so no event photo is listed.
   - Difusora Mossoró illustrates the Areia Branca arrests with a stock photo of police light bars and no marijuana or accused, so no event photo is listed.
   - No weight or number of portions of marijuana, cocaine or crack was published, so no cannabis quantity is recorded.
   - The siblings were not named and no ages were given.

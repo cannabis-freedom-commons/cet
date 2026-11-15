@@ -36,6 +36,7 @@ sources:
     date: 2026-11-06
     language: es
 open_questions:
+  - Foro Coatza and related SSP graphics show a multi-operation roundup of many detainees and firearms without a clear cannabis-only identification for this Tihuatlán cell, so no event photo is listed.
   - Foro Coatza and related SSP graphics illustrate a statewide Veracruz sweep with multiple unrelated detainee groups, so no photo limited to the Tihuatlán three is listed.
   - The page dates the operations only as Wednesday and Thursday; 5 November 2026 is used as the incident date and 4 November as the first day.
   - No weight was given for the two bags of marijuana, so the cannabis quantity is not recorded; the 40 doses of cristal are not cannabis and are excluded.

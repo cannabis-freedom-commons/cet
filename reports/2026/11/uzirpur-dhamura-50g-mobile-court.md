@@ -42,6 +42,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 74e11e60040f7cc865a7a081bb1a064b
 tags: [barishal, uzirpur, mobile-court]
+media:
+  - kind: photo
+    url: https://thebangladeshtoday.com/bangla/country/2026/11/03/171847
+    media_url: https://thebangladeshtoday.com/bangla/wp-content/uploads/2026/11/1000259201.jpg
+    publisher: The Bangladesh Today
+    caption: >-
+      Mamun Hawlader stands handcuffed beside an officer after the Dhamura mobile-court
+      arrest. Photo: The Bangladesh Today
 sources:
   - title: উজিরপুরে ৫০ গ্রাম গাঁজাসহ যুবক আটক, ভ্রাম্যমাণ আদালতে কারাদণ্ড
     url: https://thebangladeshtoday.com/bangla/country/2026/11/03/171847
@@ -50,6 +58,7 @@ sources:
     language: bn
 open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
+  - The published custody photo shows the accused with an officer but does not display the 50 grams of cannabis.
 ---
 
 Officers on an anti-drug drive in Uzirpur detained 34-year-old Mamun Hawlader

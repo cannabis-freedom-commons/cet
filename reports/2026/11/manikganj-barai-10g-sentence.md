@@ -43,6 +43,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 88ce97abda250ec1538d06d8f973ad0e
 tags: [manikganj, mobile-court, ganja]
+media:
+  - kind: photo
+    url: https://sorejominbarta.com/country/article/66091
+    media_url: https://sorejominbarta.com/public/uploads/2026-11/IMG-20261103-WA0074_original_1793721621.webp
+    publisher: Sorejomin Barta
+    caption: >-
+      Sukumar Saha stands handcuffed beside a Department of Narcotics Control vehicle
+      after the Barai mobile-court arrest. Photo: Sorejomin Barta
 sources:
   - title: মানিকগঞ্জে ১০ গ্রাম গাঁজাসহ ৬০ বছরের বৃদ্ধ আটক, মোবাইল কোর্টে ১৫ দিনের কারাদণ্ড
     url: https://sorejominbarta.com/country/article/66091
@@ -51,6 +59,7 @@ sources:
     language: bn
 open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
+  - The published photo shows the accused beside a DNC vehicle but not the 10 grams of ganja.
 ---
 
 Officers on an anti-drug mobile-court drive detained 60-year-old Sukumar Saha

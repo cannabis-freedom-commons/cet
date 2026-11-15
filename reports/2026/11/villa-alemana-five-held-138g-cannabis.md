@@ -35,6 +35,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 43ee2671788cd280bbb4fe095f786ce3
 tags: [villa-alemana, marga-marga, pdi]
+media:
+  - kind: photo
+    url: https://www.observador.cl/villa-alemana-detenidos-trafico/
+    media_url: https://www.observador.cl/wp-content/uploads/2026/11/PDI-Marga-Marga.jpeg
+    publisher: El Observador
+    caption: >-
+      Cannabis, cocaine bindles, cameras and other seized items laid out on a PDI
+      evidence table after the Villa Alemana raids. Photo: El Observador / PDI
 sources:
   - title: 'Villa Alemana: cinco detenidos por tráfico de drogas'
     url: https://www.observador.cl/villa-alemana-detenidos-trafico/
@@ -47,6 +55,7 @@ open_questions:
   - The reported valuation of about $17 million covers the whole combined seizure, so it is not recorded as a cannabis value.
   - The amount of cash seized was not disclosed.
   - The 551 grams of cocaine hydrochloride and 245 grams of caffeine are not cannabis and are excluded from the cannabis figures.
+  - The PDI evidence photo also shows cocaine bindles, cameras and other non-cannabis items from the same raids.
   - No outcome of the detention-control hearing or any precautionary measures was reported.
 ---
 

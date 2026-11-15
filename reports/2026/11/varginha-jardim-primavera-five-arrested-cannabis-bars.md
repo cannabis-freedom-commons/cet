@@ -44,6 +44,7 @@ sources:
     date: 2026-11-13
     language: pt
 open_questions:
+  - Varginha Online illustrates the Jardim Primavera arrests with a night-time PM patrol-car file photograph, so no event photo is listed.
   - No weight was published for the four bars, the additional portions or the 36 buchas, so no cannabis kilogram figure can be recorded
   - No charge or court outcome beyond the formalisation of the flagrante at the Civil Police station was reported
   - The whole account rests on a single opened outlet report of the Military Police version; no second account or agency statement was found

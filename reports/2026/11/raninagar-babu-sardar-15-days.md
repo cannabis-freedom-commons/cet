@@ -38,6 +38,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6373d1fe07f1656e790ab9eae4d7e3f6
 tags: [raninagar, naogaon, mobile-court, ganja]
+media:
+  - kind: photo
+    url: https://www.ekusheysangbad.com/country/news/527880
+    media_url: https://www.ekusheysangbad.com/media/imgAll/2025May/28-20261102100226.jpg
+    publisher: Ekushey Sangbad
+    caption: >-
+      Babu Sardar stands handcuffed with officers after the Madhyarajapur mobile-court
+      raid. Photo: Ekushey Sangbad
 sources:
   - title: রাণীনগরে গাঁজা সেবনের অভিযোগে একজনের কারাদণ্ড
     url: https://www.ekusheysangbad.com/country/news/527880

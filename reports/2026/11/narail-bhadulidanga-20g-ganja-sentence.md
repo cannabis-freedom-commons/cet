@@ -53,6 +53,7 @@ open_questions:
   - No single prison term or fine is recorded in figures because Shimul and Mohidul Islam received different jail terms and different fines.
   - The yaba counts of 69 tablets in total, and 4 and 65 tablets individually, are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - Only one accessible source for this 4 November event was found after searching in Bengali and English.
+  - BD24Live's three-person Narail DNC briefing photo names Kamrul Hasan Shimul, Azizul Islam and Jasim Molla, while the opened account names Mohidul Islam rather than Azizul, so the image is not listed as media for this report.
   - Coordinates are for Narail town as the centre of Narail Sadar Upazila, not the exact rented house.
   - The separate 2 November Narail Sadar operation that also seized 20 grams of ganja involved different men and places and is treated as a different event left out here.
 ---

@@ -39,6 +39,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e12e21a03ed0bf0ad8e50da294ff90c2
 tags: [narail, mobile-court, dnc, ganja, yaba]
+media:
+  - kind: photo
+    url: https://sokalerkhobor24.com/khulna-division/narail/post/13891
+    media_url: https://sokalerkhobor24.com/wp-content/uploads/2026/11/IMG_20261102_213055-1.jpg
+    publisher: Sokalerkhobor24
+    caption: >-
+      The four accused stand with placards before a Narail DNC press-briefing banner;
+      one placard names ganja and the others name yaba. Photo: Sokalerkhobor24 / DNC
 sources:
   - title: নড়াইলে গাঁজা-ইয়াবাসহ আটক ৪ জনের সাজা
     url: https://sokalerkhobor24.com/khulna-division/narail/post/13891

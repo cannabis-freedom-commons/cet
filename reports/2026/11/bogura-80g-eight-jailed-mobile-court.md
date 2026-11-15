@@ -40,6 +40,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6ee726dd20038117f0dc8b163c3571a1
 tags: [bogura, mobile-court, dnc]
+media:
+  - kind: photo
+    url: https://durnititalashnewstv.com/archives/3375
+    media_url: https://durnititalashnewstv.com/wp-content/uploads/2026/11/IMG-20261101-WA0175.jpg
+    publisher: Durniti Talash News Tv
+    caption: >-
+      The eight accused stand with a DNC officer beside a narcotics-control vehicle
+      after the Bogura mobile-court sentences. Photo: Durniti Talash News Tv
 sources:
   - title: বগুড়ায় ৮০ গ্রাম গাঁজাসহ ৮ জন গ্রেপ্তার, ভ্রাম্যমাণ আদালতে কারাদণ্ড
     url: https://durnititalashnewstv.com/archives/3375
@@ -53,6 +61,8 @@ sources:
     language: bn
 open_questions:
   - Only one accessible opened source was found for this event after searching in Bengali and English.
+  - The published custody photo shows the eight accused but not the 80 grams of cannabis.
+  - Ajker Patrika illustrates a related Bogura item with a file graphic rather than this mobile-court lineup, so that image is not listed.
   - The fines varied by person, 50 taka for seven people and 100 taka for one, so no single fine figure is recorded.
   - The prison term is recorded as a 14 to 25 day range because the eight sentences differed.
   - The article also reports action against city Jubo Dal member Jitu Sheikh for social-media comments about party committees and leaders, a separate non-cannabis matter not counted here.

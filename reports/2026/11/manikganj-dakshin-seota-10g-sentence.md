@@ -43,6 +43,13 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 746f030e99bd34d15640e3c7aa24046f
 tags: [manikganj, mobile-court, ganja]
+media:
+  - kind: photo
+    url: https://sorejominbarta.com/country/article/66160
+    media_url: https://sorejominbarta.com/public/uploads/2026-11/IMG-20261104-WA0091_original_1793808639.webp
+    publisher: Sorejomin Barta
+    caption: >-
+      Sadib Ahmed Sadman after the Dakshin Seota mobile-court arrest. Photo: Sorejomin Barta
 sources:
   - title: মানিকগঞ্জে মাদকবিরোধী মোবাইল কোর্ট অভিযান, গাঁজাসহ যুবক গ্রেপ্তার; ৩ মাসের কারাদণ্ড
     url: https://sorejominbarta.com/country/article/66160
@@ -53,6 +60,7 @@ open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
   - The presiding magistrate, case number and prison transfer details were not published.
   - Whether the 100-taka fine was paid or what applies in default of payment was not reported.
+  - The published photo shows the accused but not the 10 grams of ganja.
 ---
 
 Officers on an anti-drug mobile-court drive detained a youth with ganja in

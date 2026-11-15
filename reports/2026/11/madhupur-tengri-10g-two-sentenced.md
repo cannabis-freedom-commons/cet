@@ -40,6 +40,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 667581348a5fab8095f2b8bc781ff0bb
 tags: [tangail, madhupur, ganja, mobile-court]
+media:
+  - kind: photo
+    url: https://www.muktodhoni.com/tangoaile-diensir-ovizane-yaba-heroinsh-greptar-4-duijner-karadnd
+    media_url: https://www.muktodhoni.com/storage/images/large/1793676129_iUVqRf.jpg
+    publisher: Muktodhoni
+    caption: >-
+      Imon Arefin Swakkhar and Mahim Arefin Sourav stand handcuffed with officers after
+      the Tengri Madhyapara ganja arrest. Photo: Muktodhoni
 sources:
   - title: টাঙ্গাইলের ধনবাড়ী-মধুপুরে মাদকবিরোধী অভিযান,গ্রেপ্তার ৪
     url: https://sorejominbarta.com/country/article/66055
@@ -60,6 +68,8 @@ open_questions:
   - The wider operation detained four people in total; figures here count only the two held with ganja, and yaba, heroin, phones and cash from the other two are excluded from cannabis figures.
   - Each of the two sentenced men was also fined 100 taka; the per-person fines are stated in the text and no combined fine total is carried in figures.
   - No independent weighing of the 10 grams of ganja beyond the agency's count was reported.
+  - Sorejomin Barta's stacked image also shows a separate Dhanbari yaba–heroin pair from the same day; only the Muktodhoni photo of the two ganja accused is listed.
+  - The published custody photo shows the accused but not the 10 grams of ganja.
 ---
 
 Department of Narcotics Control officers detained four people in separate

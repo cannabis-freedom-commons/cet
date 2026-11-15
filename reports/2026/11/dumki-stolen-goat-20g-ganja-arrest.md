@@ -31,6 +31,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bae2709f62fe88c5800afa82e7bf1238
 tags: [patuakhali, dumki, ganja]
+media:
+  - kind: photo
+    url: https://www.rupalibangladesh.com/all-bd-news/patuakhali/177835/amp
+    media_url: https://www.rupalibangladesh.com/media/imgAll/2025July/hjjjj-20261104174951.jpg
+    publisher: Rupali Bangladesh
+    caption: >-
+      Rabbi Munshi and Oli stand with the stolen goat after locals detained them
+      in Dumki. Photo: Rupali Bangladesh
 sources:
   - title: পটুয়াখালীতে চোরাই ছাগলসহ দুই যুবক আটক
     url: https://www.rupalibangladesh.com/all-bd-news/patuakhali/177835/amp
@@ -40,6 +48,7 @@ sources:
 open_questions:
   - Whether police filed a separate case under drug law or only for goat theft is not stated, and no charge or court outcome was reported.
   - Only one accessible source for this 4 November 2026 incident was found after searching in Bengali and English.
+  - The published photos show the accused with the goat but not the 20 grams of ganja.
 ---
 
 Local people detained two youths in Dumki carrying a stolen goat and handed them
