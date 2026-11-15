@@ -57,6 +57,11 @@ sources:
     publisher: Oeste Mais
     date: 2026-11-14
     language: pt
+  - title: Polícia Civil apreende mais de 41 kg de drogas e prende duas pessoas em Chapecó
+    url: https://www.lenoticias.com.br/noticia/39965/policia-civil-apreende-mais-de-41-kg-de-drogas-e-prende-duas-pessoas-em-chapeco
+    publisher: Lê Notícias
+    date: 2026-11-14
+    language: pt
 open_questions:
   - The 41.2 kg marijuana figure is reported as approximate, not an exact measured weight.
   - The two arrested people are identified only by age and sex; no names or court outcome beyond indictment were reported.
@@ -67,21 +72,20 @@ open_questions:
 
 Santa Catarina Civil Police arrested a 20-year-old man and a 36-year-old woman
 on suspicion of drug trafficking and criminal association on the night of Friday
-13 November 2026 in Chapecó. [@1] The operation was carried out by the anti-drug
+13 November 2026 in Chapecó. [@1,3] The operation was carried out by the anti-drug
 and organised-crime unit DECOD together with the Homicide division. [@1] The
 stop happened at about 8pm on Rua Herval do Oeste in the Eldorado neighbourhood.
 [@1] Officers had originally gone out to find another suspect when they caught
-the transfer of two marijuana bales between vehicles. [@1] One suspect threw a
+the transfer of two marijuana bales between vehicles. [@1,3] One suspect threw a
 bale to the ground as police approached, while the driver of one of the cars
 fled and remains unidentified. [@1]
 
 Police seized about 41.2 kilograms of marijuana, plus 106 grams of cocaine, 85
-grams of hashish, 17 grams of crack, 463 ecstasy tablets and 62 LSD doses. [@1]
+grams of hashish, 17 grams of crack, 463 ecstasy tablets and 62 LSD doses. [@1,3]
 Officers also collected one vehicle and three mobile phones. [@2]
 
 The two suspects were arrested in flagrante and indicted for drug trafficking
 and criminal association under articles 33 and 35 of Law 11.343/2006. [@1] The
 police asked the courts to convert the flagrante arrests into preventive
 detention and to lift the secrecy of the seized phones, requests still pending
-before the judiciary. [@1]
-
+before the judiciary. [@1,3]
