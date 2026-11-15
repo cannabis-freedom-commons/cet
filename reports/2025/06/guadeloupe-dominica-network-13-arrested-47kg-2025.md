@@ -2,7 +2,7 @@
 code: KWBPA5
 added_at: "2026-11-04T22:03:26.291753Z"
 date: 2025-06-02
-country: fr
+country: gp
 place: Guadeloupe
 coordinates: [16.25, -61.58]
 precision: region

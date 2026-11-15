@@ -2,7 +2,7 @@
 code: Q8NFG8
 added_at: "2026-11-04T22:47:49.89403Z"
 date: 2021-12-27
-country: fr
+country: nc
 place: Mont-Dore, New Caledonia
 coordinates: [-22.2833, 166.55]
 precision: locality

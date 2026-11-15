@@ -2,7 +2,7 @@
 code: GSWK6P
 added_at: "2026-11-05T06:56:42.514437Z"
 date: 2022-05-31
-country: fr
+country: gp
 place: Cour Zamia, Pointe-à-Pitre, Guadeloupe
 coordinates: [16.241, -61.534]
 precision: locality

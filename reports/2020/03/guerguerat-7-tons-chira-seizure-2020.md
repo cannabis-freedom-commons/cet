@@ -2,7 +2,7 @@
 added_at: "2026-11-03T22:42:10.948Z"
 code: "KME471"
 date: 2020-03-06
-country: ma
+country: eh
 place: Guerguerat border crossing, south of Dakhla
 coordinates: [21.43, -17.06]
 precision: locality

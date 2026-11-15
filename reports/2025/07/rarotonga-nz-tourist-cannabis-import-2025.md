@@ -2,7 +2,7 @@
 code: MZE8M4
 added_at: "2026-11-09T05:10:26.610111Z"
 date: 2025-07-22
-country: nz
+country: ck
 place: Rarotonga Airport, Rarotonga, Cook Islands
 coordinates: [-21.2027, -159.8056]
 precision: locality

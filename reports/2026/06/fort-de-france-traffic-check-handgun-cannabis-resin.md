@@ -2,7 +2,7 @@
 code: YB6S40
 added_at: "2026-11-04T23:54:37.553491Z"
 date: 2026-06-04
-country: fr
+country: mq
 place: Avenue Maurice Bishop, Fort-de-France, Martinique
 coordinates: [14.6161, -61.0587]
 precision: locality

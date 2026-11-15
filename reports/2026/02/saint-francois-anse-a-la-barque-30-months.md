@@ -2,7 +2,7 @@
 code: 8Y0A42
 added_at: "2026-11-04T23:47:52.010881Z"
 date: 2026-02-23
-country: fr
+country: gp
 place: Anse à la Barque, Saint-François, Guadeloupe (sentenced at the Pointe-à-Pitre criminal court)
 coordinates: [16.243, -61.3238]
 precision: locality

@@ -2,7 +2,7 @@
 code: 245AR0
 added_at: "2026-11-06T21:54:30.75367Z"
 date: 2026-01-25
-country: fr
+country: mq
 place: Côtes de la Martinique (boat from Sainte-Lucie)
 coordinates: [14.6415, -61.0242]
 precision: region

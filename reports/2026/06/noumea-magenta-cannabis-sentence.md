@@ -2,7 +2,7 @@
 code: X854R2
 added_at: "2026-11-04T18:50:11.722362Z"
 date: 2026-06-11
-country: fr
+country: nc
 place: tours de Magenta, Nouméa
 coordinates: [-22.2758, 166.458]
 precision: locality

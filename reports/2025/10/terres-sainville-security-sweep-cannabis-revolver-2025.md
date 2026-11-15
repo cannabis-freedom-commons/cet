@@ -2,7 +2,7 @@
 code: 75JDZ6
 added_at: "2026-11-05T22:29:53.688011Z"
 date: 2025-10-02
-country: fr
+country: mq
 place: Terres-Sainville, Fort-de-France, Martinique
 coordinates: [14.6106, -61.0708]
 precision: locality

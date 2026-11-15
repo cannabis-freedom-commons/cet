@@ -2,7 +2,7 @@
 code: RV1MQM
 added_at: "2026-11-09T17:49:53.769092Z"
 date: 2025-02-15
-country: nz
+country: ck
 place: Atiu, Cook Islands
 coordinates: [-19.9833, -158.1167]
 precision: region

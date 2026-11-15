@@ -2,7 +2,7 @@
 code: 1FD03P
 added_at: "2026-11-09T06:28:45.515268Z"
 date: 2026-04-14
-country: nz
+country: ck
 place: Aitutaki International Wharf, Aitutaki, Cook Islands
 coordinates: [-18.8556, -159.7883]
 precision: locality

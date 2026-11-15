@@ -2,7 +2,7 @@
 code: 3VV3ZR
 added_at: "2026-11-04T23:36:22.573131Z"
 date: 2026-05-29
-country: fr
+country: gp
 place: Goyave, Guadeloupe (bus lines 105 and 106 between Basse-Terre and Pointe-à-Pitre)
 coordinates: [16.1361, -61.5778]
 precision: locality

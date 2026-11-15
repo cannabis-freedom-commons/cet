@@ -2,7 +2,7 @@
 code: G0TETX
 added_at: "2026-11-09T09:38:39.869026Z"
 date: 2024-08-17
-country: bs
+country: tc
 place: Bird Rock and Jones Cay, Providenciales, Turks and Caicos Islands
 coordinates: [21.7807, -72.2537]
 precision: locality

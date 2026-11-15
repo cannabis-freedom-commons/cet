@@ -2,7 +2,7 @@
 code: 1YTH84
 added_at: "2026-11-09T17:44:30.740758Z"
 date: 2026-02-26
-country: nz
+country: ck
 place: High Court, Avarua, Rarotonga, Cook Islands
 coordinates: [-21.2043, -159.7751]
 precision: locality

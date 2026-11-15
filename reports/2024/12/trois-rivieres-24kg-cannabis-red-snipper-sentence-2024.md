@@ -2,7 +2,7 @@
 code: 4WP2VT
 added_at: "2026-11-13T15:57:06.437158Z"
 date: 2024-12-03
-country: fr
+country: gp
 place: Anse Duquéry, Trois-Rivières, Guadeloupe
 coordinates: [16.0167, -61.5833]
 precision: locality

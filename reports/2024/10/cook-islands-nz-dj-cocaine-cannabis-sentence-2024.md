@@ -2,7 +2,7 @@
 code: QKFMJM
 added_at: "2026-11-09T04:56:45.995808Z"
 date: 2024-10-11
-country: nz
+country: ck
 place: Cook Islands
 coordinates: [-21.2367, -159.7777]
 precision: country

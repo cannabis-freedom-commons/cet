@@ -2,7 +2,7 @@
 code: K5KM6P
 added_at: "2026-11-05T18:44:38.879604Z"
 date: 2025-11-25
-country: fr
+country: gp
 place: Port-Louis and Morne-à-l'Eau, Grande-Terre, Guadeloupe
 coordinates: [16.4167, -61.5333]
 precision: locality

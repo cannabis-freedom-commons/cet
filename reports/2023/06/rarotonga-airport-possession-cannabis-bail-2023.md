@@ -2,7 +2,7 @@
 code: A76RAT
 added_at: "2026-11-09T17:50:11.503604Z"
 date: 2023-06-22
-country: nz
+country: ck
 place: Criminal Court, Avarua, Rarotonga, Cook Islands
 coordinates: [-21.2027, -159.771]
 precision: locality

@@ -2,7 +2,7 @@
 code: Y1KZAV
 added_at: "2026-11-05T03:08:53.925411Z"
 date: 2022-02-11
-country: fr
+country: gp
 place: High seas south-west of Guadeloupe
 coordinates: [16.25, -61.58]
 precision: region

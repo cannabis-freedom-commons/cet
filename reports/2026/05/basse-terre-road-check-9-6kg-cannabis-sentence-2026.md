@@ -2,7 +2,7 @@
 code: 2N6BW8
 added_at: "2026-11-08T01:19:00.326368Z"
 date: 2026-05-06
-country: fr
+country: gp
 place: Avenue de Saint-Claude, Basse-Terre, Guadeloupe
 coordinates: [15.9958, -61.7261]
 precision: locality

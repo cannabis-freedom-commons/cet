@@ -2,7 +2,7 @@
 code: 3W3FXK
 added_at: "2026-11-04T18:51:40.391347Z"
 date: 2022-12-12
-country: fr
+country: nc
 place: Houaïlou, Bourail and Nouméa, New Caledonia
 coordinates: [-22.2758, 166.458]
 precision: region

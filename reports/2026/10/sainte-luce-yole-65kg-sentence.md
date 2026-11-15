@@ -2,7 +2,7 @@
 code: HRBFHG
 added_at: "2026-11-04T18:55:04.2113Z"
 date: 2026-10-02
-country: fr
+country: mq
 place: off Sainte-Luce, Martinique
 coordinates: [14.471, -60.927]
 precision: locality

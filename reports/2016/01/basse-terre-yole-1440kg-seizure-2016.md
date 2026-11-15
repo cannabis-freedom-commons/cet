@@ -2,7 +2,7 @@
 code: SHZTFD
 added_at: "2026-11-05T08:04:00.029849Z"
 date: 2016-01-10
-country: fr
+country: gp
 place: About 25 km north-west of Basse-Terre, Guadeloupe
 coordinates: [16.2415, -61.7269]
 precision: region

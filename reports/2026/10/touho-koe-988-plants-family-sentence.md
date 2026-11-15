@@ -2,7 +2,7 @@
 code: TJ37B4
 added_at: "2026-11-04T19:29:28.520195Z"
 date: 2026-10-02
-country: fr
+country: nc
 place: Tribu de Koé, Touho, New Caledonia
 coordinates: [-20.78, 165.23]
 precision: locality

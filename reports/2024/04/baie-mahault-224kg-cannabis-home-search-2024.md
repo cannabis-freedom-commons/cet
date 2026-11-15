@@ -2,7 +2,7 @@
 code: YZDP8R
 added_at: "2026-11-13T05:16:14.396076Z"
 date: 2024-04-09
-country: fr
+country: gp
 place: Baie-Mahault, Guadeloupe
 coordinates: [16.2708, -61.5854]
 precision: locality

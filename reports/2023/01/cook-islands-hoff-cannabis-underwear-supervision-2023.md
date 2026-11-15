@@ -2,7 +2,7 @@
 code: YMADZ6
 added_at: "2026-11-09T17:49:43.645467Z"
 date: 2023-01-24
-country: nz
+country: ck
 place: High Court, Avarua, Rarotonga, Cook Islands
 coordinates: [-21.2043, -159.7751]
 precision: locality

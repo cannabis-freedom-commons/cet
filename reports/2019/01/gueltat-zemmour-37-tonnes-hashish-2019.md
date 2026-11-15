@@ -2,7 +2,7 @@
 code: XTANP1
 added_at: "2026-11-05T13:27:20.376102Z"
 date: 2019-01-08
-country: ma
+country: eh
 place: Gueltat Zemmour, near the Mauritanian border (Western Sahara)
 coordinates: [25.15, -12.37]
 precision: locality

@@ -2,7 +2,7 @@
 code: RRK0XN
 added_at: "2026-11-04T18:26:34.366601Z"
 date: 2026-10-14
-country: fr
+country: mq
 place: Aéroport Martinique Aimé Césaire, Le Lamentin, Martinique
 coordinates: [14.5911, -60.9964]
 precision: exact

@@ -2,7 +2,7 @@
 code: JZAH0P
 added_at: "2026-11-14T20:16:13.193163Z"
 date: 2015-02-13
-country: fr
+country: gp
 place: International waters off Guadeloupe
 coordinates: [16.25, -61.58]
 precision: region

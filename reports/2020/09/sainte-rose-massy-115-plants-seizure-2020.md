@@ -2,7 +2,7 @@
 code: 7R3H3X
 added_at: "2026-11-14T14:04:23.720691Z"
 date: 2020-09-16
-country: fr
+country: gp
 place: Massy, Sainte-Rose, Guadeloupe
 coordinates: [16.3173, -61.7052]
 precision: locality

@@ -2,7 +2,7 @@
 code: JQ7Z5W
 added_at: "2026-11-04T21:56:50.029037Z"
 date: 2026-05-27
-country: fr
+country: mq
 place: Rivière-Salée, Martinique
 coordinates: [14.5239, -60.9817]
 precision: locality

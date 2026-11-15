@@ -2,7 +2,7 @@
 code: DQ62T3
 added_at: "2026-11-11T18:03:16.003365Z"
 date: 2025-11-03
-country: fr
+country: gp
 place: Trois-Rivières and Capesterre-Belle-Eau, Guadeloupe
 coordinates: [15.9767433, -61.6441603]
 precision: district

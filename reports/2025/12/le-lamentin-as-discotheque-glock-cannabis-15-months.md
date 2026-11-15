@@ -2,7 +2,7 @@
 code: NVX5KT
 added_at: "2026-11-12T06:48:55.074267Z"
 date: 2025-12-01
-country: fr
+country: mq
 place: Le Lamentin, Martinique
 coordinates: [14.6, -61]
 precision: locality

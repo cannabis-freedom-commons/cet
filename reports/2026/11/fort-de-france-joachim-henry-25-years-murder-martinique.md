@@ -2,7 +2,7 @@
 code: CZ5QP0
 added_at: "2026-11-07T03:09:46.782729Z"
 date: 2026-11-06
-country: fr
+country: mq
 place: Cour d'assises de Fort-de-France, Fort-de-France, Martinique
 coordinates: [14.6161, -61.0588]
 precision: locality

@@ -2,7 +2,7 @@
 code: KRT5K8
 added_at: "2026-11-13T13:40:46.092801Z"
 date: 2013-08-01
-country: nz
+country: ck
 place: Arorangi Prison, Rarotonga, Cook Islands
 coordinates: [-21.2099, -159.7993]
 precision: locality

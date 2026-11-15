@@ -2,7 +2,7 @@
 code: 3XC3M6
 added_at: "2026-11-14T22:23:17.358695Z"
 date: 2017-08-08
-country: fr
+country: mq
 place: Quartier l'Epinay, Sainte-Luce, Martinique
 coordinates: [14.4667, -60.9333]
 precision: locality

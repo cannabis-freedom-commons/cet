@@ -2,7 +2,7 @@
 code: B7KR1W
 added_at: "2026-11-05T07:01:45.151138Z"
 date: 2025-09-21
-country: fr
+country: gp
 place: Sainte-Anne, Morne-à-l'Eau and Saint-François, Grande-Terre, Guadeloupe
 coordinates: [16.26, -61.35]
 precision: district

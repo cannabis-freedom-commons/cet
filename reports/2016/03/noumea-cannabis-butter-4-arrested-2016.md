@@ -2,7 +2,7 @@
 code: 50NDFK
 added_at: "2026-11-05T08:15:33.018171Z"
 date: 2016-03-08
-country: fr
+country: nc
 place: Nouméa, New Caledonia
 coordinates: [-22.2758, 166.458]
 precision: locality

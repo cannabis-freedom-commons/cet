@@ -2,7 +2,7 @@
 code: 2C6JCH
 added_at: "2026-11-05T22:20:48.867802Z"
 date: 2016-05-30
-country: fr
+country: gp
 place: Centre pénitentiaire de Baie-Mahault, Baie-Mahault, Guadeloupe
 coordinates: [16.2708, -61.5854]
 precision: locality

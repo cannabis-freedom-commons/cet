@@ -2,7 +2,7 @@
 added_at: "2026-11-11T01:55:37.547Z"
 code: "TDR743"
 date: 2019-10-14
-country: ma
+country: eh
 place: Guerguerat crossing, south of Dakhla
 coordinates: [21.43, -17.06]
 precision: locality

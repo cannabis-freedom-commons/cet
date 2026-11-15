@@ -2,7 +2,7 @@
 added_at: "2026-11-04T04:34:40.279Z"
 code: "M9X2AS"
 date: 2017-03-11
-country: ma
+country: eh
 place: Guerguerat crossing point, south of Dakhla
 coordinates: [21.43, -17.06]
 precision: locality

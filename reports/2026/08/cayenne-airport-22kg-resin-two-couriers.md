@@ -2,7 +2,7 @@
 code: JQDHA4
 added_at: "2026-11-05T22:27:33.265954Z"
 date: 2026-08-17
-country: fr
+country: gf
 place: Félix-Éboué international airport, Matoury, near Cayenne, French Guiana
 coordinates: [4.8198, -52.3603]
 precision: exact

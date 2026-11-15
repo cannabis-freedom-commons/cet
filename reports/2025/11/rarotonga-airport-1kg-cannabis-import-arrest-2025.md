@@ -2,7 +2,7 @@
 code: JQY9GR
 added_at: "2026-11-09T05:07:01.817731Z"
 date: 2025-11-21
-country: nz
+country: ck
 place: Rarotonga International Airport, Avarua, Rarotonga, Cook Islands
 coordinates: [-21.2027, -159.8056]
 precision: locality

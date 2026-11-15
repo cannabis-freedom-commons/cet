@@ -2,7 +2,7 @@
 code: QEC5RF
 added_at: "2026-11-14T16:07:07.773173Z"
 date: 2024-11-07
-country: nz
+country: ck
 place: High Court, Cook Islands
 coordinates: [-21.2367, -159.7777]
 precision: country

@@ -2,7 +2,7 @@
 code: 457VWG
 added_at: "2026-11-05T03:03:03.552169Z"
 date: 2025-05-26
-country: fr
+country: gp
 place: Le Moule, Grande-Terre, Guadeloupe
 coordinates: [16.3319, -61.3444]
 precision: locality

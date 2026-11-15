@@ -2,7 +2,7 @@
 code: X9MYS6
 added_at: "2026-11-05T16:50:28.293661Z"
 date: 2015-08-03
-country: fr
+country: mq
 place: Port de Fort-de-France, Fort-de-France, Martinique
 coordinates: [14.6024, -61.0671]
 precision: locality

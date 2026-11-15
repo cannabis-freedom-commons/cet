@@ -2,7 +2,7 @@
 added_at: "2026-11-04T03:30:36.698Z"
 code: "DBNN6K"
 date: 2025-05-02
-country: ma
+country: eh
 place: Guerguerat border post, south of Dakhla
 coordinates: [21.43, -17.06]
 precision: locality

@@ -2,7 +2,7 @@
 added_at: "2026-11-04T02:51:43.408Z"
 code: "2QQHAA"
 date: 2024-08-19
-country: ma
+country: eh
 place: El Guerguerat border crossing, south of Dakhla
 coordinates: [21.43, -17.06]
 precision: locality

@@ -2,7 +2,7 @@
 code: 1SF1MG
 added_at: "2026-11-09T17:43:46.617852Z"
 date: 2023-08-01
-country: nz
+country: ck
 place: Criminal High Court, Avarua, Rarotonga, Cook Islands
 coordinates: [-21.2027, -159.771]
 precision: locality

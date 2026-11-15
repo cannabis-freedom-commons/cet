@@ -2,7 +2,7 @@
 code: RMC2E5
 added_at: "2026-11-05T03:30:15.660505Z"
 date: 2026-06-05
-country: fr
+country: mq
 place: Ducos and Le Saint-Esprit, Martinique
 coordinates: [14.5744, -60.9764]
 precision: district

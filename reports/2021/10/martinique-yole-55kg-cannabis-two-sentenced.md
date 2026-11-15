@@ -2,7 +2,7 @@
 code: FB2Z29
 added_at: "2026-11-08T02:12:27.052579Z"
 date: 2021-10-29
-country: fr
+country: mq
 place: Waters south of Martinique
 coordinates: [14.4, -61]
 precision: region

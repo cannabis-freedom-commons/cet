@@ -2,7 +2,7 @@
 code: HM7T6H
 added_at: "2026-11-05T01:11:16.419811Z"
 date: 2025-09-17
-country: fr
+country: gp
 place: Rue de la Liberté, Saint-François, Guadeloupe, and rue Lethière, Sainte-Anne, Guadeloupe
 coordinates: [16.2489, -61.2731]
 precision: locality

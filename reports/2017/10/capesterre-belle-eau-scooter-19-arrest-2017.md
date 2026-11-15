@@ -2,7 +2,7 @@
 code: 1HF781
 added_at: "2026-11-05T11:43:28.472399Z"
 date: 2017-10-03
-country: fr
+country: gp
 place: Capesterre-Belle-Eau, Basse-Terre, Guadeloupe
 coordinates: [16.0478, -61.5647]
 precision: locality

@@ -2,7 +2,7 @@
 code: KM26VN
 added_at: "2026-11-09T06:28:41.552058Z"
 date: 2024-07-19
-country: nz
+country: ck
 place: Rarotonga, Cook Islands
 coordinates: [-21.2367, -159.7777]
 precision: region

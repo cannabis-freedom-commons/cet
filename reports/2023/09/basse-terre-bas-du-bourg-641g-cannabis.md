@@ -2,7 +2,7 @@
 code: BYKPAK
 added_at: "2026-11-05T18:30:26.294929Z"
 date: 2023-09-21
-country: fr
+country: gp
 place: Quartier Bas-du-Bourg, Basse-Terre, Guadeloupe
 coordinates: [15.995, -61.726]
 precision: locality

@@ -2,7 +2,7 @@
 code: H0G78X
 added_at: "2026-11-05T01:21:44.568128Z"
 date: 2025-06-06
-country: fr
+country: mq
 place: International waters off the Atlantic coast of Guyana, vessel escorted to Fort-de-France, Martinique
 coordinates: [14.6415, -61.0242]
 precision: region

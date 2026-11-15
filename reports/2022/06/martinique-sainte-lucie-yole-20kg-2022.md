@@ -2,7 +2,7 @@
 code: CY2AXJ
 added_at: "2026-11-05T01:33:36.047102Z"
 date: 2022-06-03
-country: fr
+country: mq
 place: French territorial waters in the Saint Lucia Channel, between Sainte-Lucie and the Martinique
 coordinates: [14.2588, -60.9]
 precision: region

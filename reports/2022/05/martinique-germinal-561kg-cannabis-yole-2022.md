@@ -2,7 +2,7 @@
 code: GKGNR6
 added_at: "2026-11-08T17:31:00.042063Z"
 date: 2022-05-24
-country: fr
+country: mq
 place: High seas west of Martinique
 coordinates: [14.6415, -61.0242]
 precision: region

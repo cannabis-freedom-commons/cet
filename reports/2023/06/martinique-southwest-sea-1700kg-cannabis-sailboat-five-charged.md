@@ -2,7 +2,7 @@
 code: 6KXHXP
 added_at: "2026-11-08T02:05:59.515915Z"
 date: 2023-06-29
-country: fr
+country: mq
 place: At sea, about 200 km southwest of Martinique
 coordinates: [13.37, -62.31]
 precision: region

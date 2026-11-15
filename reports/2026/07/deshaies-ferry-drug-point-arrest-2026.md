@@ -2,7 +2,7 @@
 code: PZYBX2
 added_at: "2026-11-04T21:45:38.317715Z"
 date: 2026-07-08
-country: fr
+country: gp
 place: Quartier Ferry, Deshaies, Guadeloupe
 coordinates: [16.305, -61.794]
 precision: locality

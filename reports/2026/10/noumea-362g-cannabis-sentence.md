@@ -2,7 +2,7 @@
 code: TMNDB8
 added_at: "2026-11-04T19:21:33.731025Z"
 date: 2026-10-06
-country: fr
+country: nc
 place: rue Capiez, 4e-Km, Nouméa, New Caledonia
 coordinates: [-22.2758, 166.458]
 precision: locality

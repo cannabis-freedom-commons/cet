@@ -2,7 +2,7 @@
 code: 2DVFCT
 added_at: "2026-11-13T12:19:08.906032Z"
 date: 2026-11-12
-country: ma
+country: eh
 place: Laayoune
 coordinates: [27.1257, -13.1625]
 precision: locality

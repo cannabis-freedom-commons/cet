@@ -2,7 +2,7 @@
 code: T1Q9MB
 added_at: "2026-11-05T07:57:19.906935Z"
 date: 2018-03-07
-country: fr
+country: gp
 place: Le Moule, Grande-Terre, Guadeloupe
 coordinates: [16.3319, -61.3444]
 precision: locality

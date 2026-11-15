@@ -2,7 +2,7 @@
 code: RMN2FX
 added_at: "2026-11-08T10:08:44.143634Z"
 date: 2026-09-29
-country: fr
+country: gp
 place: Résidences Péricarpin et Cipolin, Pointe-à-Pitre, Guadeloupe
 coordinates: [16.2413, -61.5335]
 precision: locality

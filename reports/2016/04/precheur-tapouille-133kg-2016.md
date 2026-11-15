@@ -2,7 +2,7 @@
 code: RP73WC
 added_at: "2026-11-06T01:11:11.483506Z"
 date: 2016-04-06
-country: fr
+country: mq
 place: About 25 km north-west of Le Prêcheur, Martinique
 coordinates: [14.8015, -61.2297]
 precision: region

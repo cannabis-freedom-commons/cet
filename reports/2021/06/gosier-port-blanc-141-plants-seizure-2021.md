@@ -2,7 +2,7 @@
 code: 1BC6SF
 added_at: "2026-11-05T22:34:24.869366Z"
 date: 2021-06-15
-country: fr
+country: gp
 place: Port Blanc, Le Gosier, Guadeloupe
 coordinates: [16.2072, -61.4933]
 precision: locality

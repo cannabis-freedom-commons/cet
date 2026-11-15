@@ -2,7 +2,7 @@
 code: 6CTQCB
 added_at: "2026-11-05T03:18:49.790312Z"
 date: 2026-05-22
-country: fr
+country: gp
 place: Centre pénitentiaire de Baie-Mahault, Baie-Mahault, Guadeloupe
 coordinates: [16.2708, -61.5854]
 precision: locality

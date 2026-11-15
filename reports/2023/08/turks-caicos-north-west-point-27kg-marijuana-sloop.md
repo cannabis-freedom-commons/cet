@@ -2,7 +2,7 @@
 code: 4QMBSW
 added_at: "2026-11-14T05:28:46.552166Z"
 date: 2023-08-29
-country: bs
+country: tc
 place: North West Point, Providenciales, Turks and Caicos Islands
 coordinates: [21.8229, -72.2135]
 precision: locality

@@ -2,7 +2,7 @@
 code: 7HY02V
 added_at: "2026-11-05T18:47:33.448359Z"
 date: 2025-11-29
-country: fr
+country: mq
 place: Fonds Gens Libres, Le Marin, Martinique
 coordinates: [14.4672, -60.8663]
 precision: locality

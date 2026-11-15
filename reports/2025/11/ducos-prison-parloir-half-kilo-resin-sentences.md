@@ -2,7 +2,7 @@
 code: QBBEB6
 added_at: "2026-11-05T08:01:09.83951Z"
 date: 2025-11-23
-country: fr
+country: mq
 place: Ducos prison (centre pénitentiaire de Ducos), Ducos, Martinique
 coordinates: [14.574, -60.982]
 precision: locality

@@ -2,7 +2,7 @@
 code: C6RZYR
 added_at: "2026-11-09T09:20:45.03919Z"
 date: 2024-10-02
-country: nz
+country: ck
 place: Arorangi, Rarotonga, Cook Islands
 coordinates: [-21.2139, -159.8223]
 precision: locality

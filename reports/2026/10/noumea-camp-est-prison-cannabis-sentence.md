@@ -2,7 +2,7 @@
 code: G50JZH
 added_at: "2026-11-04T20:10:16.927867Z"
 date: 2026-10-02
-country: fr
+country: nc
 place: Camp-Est prison, Nouméa
 coordinates: [-22.2758, 166.458]
 precision: locality

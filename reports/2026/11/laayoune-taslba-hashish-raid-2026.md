@@ -3,7 +3,7 @@ added_at_source: git
 added_at: "2026-11-03T04:43:07.000Z"
 code: GHNFMA
 date: 2026-11-02
-country: ma
+country: eh
 place: Taslba, Boukraa commune, Laayoune
 coordinates: [27.0598, -13.4093]
 precision: district

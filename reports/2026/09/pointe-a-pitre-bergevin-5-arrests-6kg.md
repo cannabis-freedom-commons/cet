@@ -2,7 +2,7 @@
 code: W5RR64
 added_at: "2026-11-04T18:20:30.482879Z"
 date: 2026-09-21
-country: fr
+country: gp
 place: Bergevin, Pointe-à-Pitre, Guadeloupe
 coordinates: [16.241, -61.534]
 precision: locality

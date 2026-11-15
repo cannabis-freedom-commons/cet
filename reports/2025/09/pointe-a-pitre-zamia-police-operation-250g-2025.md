@@ -2,7 +2,7 @@
 code: KK4XCM
 added_at: "2026-11-09T07:27:55.480227Z"
 date: 2025-09-01
-country: fr
+country: gp
 place: Cour Zamia, Pointe-à-Pitre, Guadeloupe
 coordinates: [16.2413, -61.5335]
 precision: locality

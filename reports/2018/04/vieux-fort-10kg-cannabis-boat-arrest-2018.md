@@ -2,7 +2,7 @@
 code: WGQ2M4
 added_at: "2026-11-05T04:05:50.689617Z"
 date: 2018-04-24
-country: fr
+country: gp
 place: Les Trois Pointes, Rivières-Sens, Vieux-Fort, Guadeloupe
 coordinates: [15.95, -61.696]
 precision: locality

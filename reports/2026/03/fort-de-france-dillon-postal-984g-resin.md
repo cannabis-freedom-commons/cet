@@ -2,7 +2,7 @@
 code: 2ZV2D9
 added_at: "2026-11-05T08:24:37.751932Z"
 date: 2026-03-02
-country: fr
+country: mq
 place: Centre de tri postal de Dillon, Fort-de-France, Martinique
 coordinates: [14.6256, -61.0703]
 precision: locality

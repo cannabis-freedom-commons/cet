@@ -2,7 +2,7 @@
 code: 688RT9
 added_at: "2026-11-05T18:45:28.850732Z"
 date: 2018-04-18
-country: fr
+country: mq
 place: Cap Macré beach, Le Marin, Martinique
 coordinates: [14.4747, -60.8138]
 precision: exact

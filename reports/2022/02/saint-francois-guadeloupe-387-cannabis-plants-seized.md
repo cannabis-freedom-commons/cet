@@ -2,7 +2,7 @@
 code: 4PDHMM
 added_at: "2026-11-07T10:45:59.06468Z"
 date: 2022-02-14
-country: fr
+country: gp
 place: Saint-François, Guadeloupe
 coordinates: [16.2489, -61.2733]
 precision: locality

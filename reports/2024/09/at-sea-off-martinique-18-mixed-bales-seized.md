@@ -2,7 +2,7 @@
 code: ZWQPHN
 added_at: "2026-11-08T04:30:41.569573Z"
 date: 2024-09-25
-country: fr
+country: mq
 place: At sea, about 850 km off Martinique
 coordinates: [14.6415, -61.0242]
 precision: region

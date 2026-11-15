@@ -2,7 +2,7 @@
 code: SNG2CY
 added_at: "2026-11-09T07:58:27.807859Z"
 date: 2024-08-07
-country: nz
+country: ck
 place: Arutanga Harbour, Aitutaki, Cook Islands
 coordinates: [-18.8606, -159.7917]
 precision: locality

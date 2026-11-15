@@ -2,7 +2,7 @@
 code: 82FPCN
 added_at: "2026-11-05T14:27:46.492952Z"
 date: 2022-01-11
-country: fr
+country: mq
 place: Schoelcher, Martinique
 coordinates: [14.608, -61.103]
 precision: locality

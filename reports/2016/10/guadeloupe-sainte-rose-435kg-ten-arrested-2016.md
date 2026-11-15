@@ -2,7 +2,7 @@
 code: W9AWXQ
 added_at: "2026-11-05T03:05:51.437783Z"
 date: 2016-10-11
-country: fr
+country: gp
 place: Between Sainte-Rose and the approaches to Deshaies, Guadeloupe
 coordinates: [16.3328, -61.6978]
 precision: district

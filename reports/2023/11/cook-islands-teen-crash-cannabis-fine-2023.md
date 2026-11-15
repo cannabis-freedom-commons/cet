@@ -2,7 +2,7 @@
 code: VBBXMK
 added_at: "2026-11-10T16:18:40.664015Z"
 date: 2023-11-24
-country: nz
+country: ck
 place: High Court at Avarua, Rarotonga, Cook Islands
 coordinates: [-21.2043, -159.7751]
 precision: locality

@@ -2,7 +2,7 @@
 code: XENM0A
 added_at: "2026-11-05T04:53:04.50329Z"
 date: 2024-12-01
-country: fr
+country: mq
 place: Port de Fort-de-France, Fort-de-France, Martinique
 coordinates: [14.6056, -61.0669]
 precision: locality

@@ -2,7 +2,7 @@
 code: T01VJH
 added_at: "2026-11-05T08:01:18.894077Z"
 date: 2015-04-24
-country: fr
+country: gp
 place: Lohéac, Sainte-Rose, Guadeloupe
 coordinates: [16.3327, -61.7068]
 precision: locality

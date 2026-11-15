@@ -2,7 +2,7 @@
 code: J13054
 added_at: "2026-11-04T20:41:25.792319Z"
 date: 2026-07-03
-country: fr
+country: gp
 place: Embarcadère de Petit-Bourg, Petit-Bourg, Guadeloupe
 coordinates: [16.193, -61.592]
 precision: locality

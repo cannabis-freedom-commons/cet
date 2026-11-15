@@ -2,7 +2,7 @@
 code: KAC0CH
 added_at: "2026-11-09T06:28:36.906703Z"
 date: 2024-02-02
-country: nz
+country: ck
 place: High Court at Avarua, Rarotonga
 coordinates: [-21.2027, -159.771]
 precision: locality

@@ -2,7 +2,7 @@
 code: JRANAC
 added_at: "2026-11-05T14:58:42.933305Z"
 date: 2018-01-30
-country: fr
+country: gp
 place: Port de Pointe-à-Pitre, Pointe-à-Pitre, Guadeloupe
 coordinates: [16.2377, -61.535]
 precision: locality

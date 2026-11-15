@@ -2,7 +2,7 @@
 code: PZWKTD
 added_at: "2026-11-05T18:42:29.7054Z"
 date: 2025-09-04
-country: fr
+country: mq
 place: South coast of Martinique, landing area of the Le Marin gendarmerie company, Martinique
 coordinates: [14.4685, -60.8656]
 precision: region

@@ -2,7 +2,7 @@
 code: RX7C7C
 added_at: "2026-11-15T02:52:21.528438Z"
 date: 2026-11-10
-country: ma
+country: eh
 place: Hay El Wahda, El Marsa, Laayoune
 coordinates: [27.0686, -13.4066]
 precision: district

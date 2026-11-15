@@ -2,7 +2,7 @@
 code: S40XV0
 added_at: "2026-11-05T04:57:25.546671Z"
 date: 2024-05-31
-country: fr
+country: mq
 place: Aéroport Martinique Aimé Césaire, Le Lamentin, Martinique
 coordinates: [14.5911, -60.9964]
 precision: exact

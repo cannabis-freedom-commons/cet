@@ -2,7 +2,7 @@
 code: R5CRGB
 added_at: "2026-11-05T06:59:43.12018Z"
 date: 2018-07-15
-country: fr
+country: mq
 place: Waters off Martinique and Antigua, Caribbean Sea
 coordinates: [14.6415, -61.0242]
 precision: region

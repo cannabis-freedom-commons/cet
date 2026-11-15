@@ -2,7 +2,7 @@
 code: 7PQ4GN
 added_at: "2026-11-05T01:17:06.214015Z"
 date: 2025-10-22
-country: fr
+country: gp
 place: Marie-Galante, Guadeloupe
 coordinates: [15.8833, -61.2167]
 precision: region

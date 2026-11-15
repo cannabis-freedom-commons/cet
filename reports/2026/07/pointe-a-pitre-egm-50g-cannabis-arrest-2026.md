@@ -2,7 +2,7 @@
 code: 7XSPV0
 added_at: "2026-11-05T02:49:13.204885Z"
 date: 2026-07-10
-country: fr
+country: gp
 place: Pointe-à-Pitre, Guadeloupe
 coordinates: [16.2413, -61.5335]
 precision: locality

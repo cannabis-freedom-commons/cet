@@ -2,7 +2,7 @@
 code: WHQH8Q
 added_at: "2026-11-04T20:42:51.630678Z"
 date: 2026-09-15
-country: fr
+country: gp
 place: Guadeloupe
 coordinates: [16.25, -61.58]
 precision: region

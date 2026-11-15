@@ -2,7 +2,7 @@
 code: AQD0VP
 added_at: "2026-11-05T04:06:36.612031Z"
 date: 2024-01-14
-country: fr
+country: gp
 place: Plage de l'anse à Jacques, Le Gosier, Guadeloupe
 coordinates: [16.2072, -61.4931]
 precision: locality
