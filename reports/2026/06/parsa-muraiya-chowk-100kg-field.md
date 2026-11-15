@@ -42,20 +42,26 @@ sources:
     publisher: नेपाल न्युज (Nepal News)
     date: 2026-06-14
     language: ne
-open_questions:
-  - No arrest or suspect is reported; the owner of the consignment had not been identified when the reports were published.
-  - The reports date the seizure to the day of publication, 14 June 2026, but give no separate time of day for the recovery.
+  - title: 100kg Ganja Recovered in Parsa
+    url: https://english.ratopati.com/story/66706/one-hundred-kilos-of-marijuana-seized-in-parsa
+    publisher: Ratopati English
+    date: 2026-06-14
+media:
+  - kind: photo
+    url: https://english.ratopati.com/story/66706/one-hundred-kilos-of-marijuana-seized-in-parsa
+    media_url: https://npcdn.ratopati.com/media/news/parsa_2glcmyd7j0_2aMfxmuNuL.jpg
+    publisher: Ratopati English
+    caption: Photo published with the report on the 100 kg ganja recovery in Parsa.
 ---
 
 A joint team from the District Police Office Parsa and the Armed Police Force
 Nepal No. 13 Battalion Headquarters seized 100 kilograms of marijuana in Parsa.
-[@1] The marijuana was hidden in five rice sacks in a field at Muraiya Chowk in
-Jagarnathpur rural municipality-3, Parsa. [@2]
+[@1,3] The marijuana was hidden in five rice sacks in a field at Muraiya Chowk in
+Jagarnathpur rural municipality-3, Parsa. [@2,3]
 
 Hari Bahadur Basnet, spokesperson for the Parsa police, said further
 investigation was under way into whose the marijuana was and why it had been
-hidden. [@2] Police said further investigation is under way to establish who
+hidden. [@2,3] Police said further investigation is under way to establish who
 owned the marijuana and why it had been concealed. [@1]
 
 The reports name no arrests and no suspect. [@1]
-
