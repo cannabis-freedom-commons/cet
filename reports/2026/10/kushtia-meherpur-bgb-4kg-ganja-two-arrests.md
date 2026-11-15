@@ -52,6 +52,7 @@ open_questions:
   - Both detainees were held with syrups, liquor and tablets rather than the ganja, which was reported as ownerless; no cannabis charge for either man is stated.
   - Two recoveries are timed just after midnight (12:45 a.m. and 12:55 a.m.); 31 October is used as the incident date because the operation is described as Saturday night's drive.
   - No court outcome beyond pending legal proceedings was reported.
+  - NAGORIK TV illustrates Pragpur BOP with pink bag displays that appear to be tablet consignments rather than the ownerless 4 kg ganja, so that image is not listed as media.
 ---
 
 Border Guard Bangladesh's Kushtia Battalion (47 BGB) carried out separate

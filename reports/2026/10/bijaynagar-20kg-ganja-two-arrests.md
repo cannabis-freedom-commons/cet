@@ -37,6 +37,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 53f9210dca67aa63ba10963eb742cc01
 tags: [brahmanbaria, bijaynagar, ganja]
+media:
+  - kind: photo
+    url: https://www.banglaedition.com/country/2026/11/01/273593
+    media_url: https://www.banglaedition.com/assets/news_images/2026/11/01/3.jpg
+    publisher: Bangla Edition
+    caption: >-
+      The accused in the Bishnupur CNG ganja seizure stands before an SRB-9 CPC-1
+      Brahmanbaria press-briefing banner. Photo: Bangla Edition / SRB-9
 sources:
   - title: ব্রাহ্মণবাড়িয়ায় এসআরবি-৯ ও বিজিবির পৃথক অভিযানে গাঁজা-এসকাফ সিরাপসহ গ্রেপ্তার ২
     url: https://bartabazar.com/news/373985/
@@ -51,6 +59,8 @@ sources:
 open_questions:
   - Only one accessible source was found for this event, an article reporting an SRB-9 press release, and no second account or agency statement could be opened.
   - The 197 bottles of Escaf syrup are a separate non-cannabis seizure and are excluded from cannabis figures.
+  - Barta Bazar illustrates the twin raids with an Escaf syrup bottle display rather than the 20 kg ganja, so that image is not listed.
+  - The published SRB-9 briefing photo shows the ganja-case accused but not the seized cannabis.
   - No street value for the seized ganja was published.
   - No court outcome was reported beyond preparation of cases and handover to Bijaynagar police.
 ---

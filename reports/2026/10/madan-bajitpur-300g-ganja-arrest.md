@@ -39,6 +39,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 24d130eb399d6bb478dc53d574e6369f
 tags: [madan, netrokona, ganja]
+media:
+  - kind: photo
+    url: https://www.jaijaidin.news/news/364263
+    media_url: https://www.jaijaidin.news/2026/10/30/jjd_127.1793436240.jpg
+    publisher: Daily Jaijaidin
+    caption: >-
+      Md Jewel Mia stands with Madan Thana officers after the Bajitpur Uttarpara
+      ganja arrest. Photo: Daily Jaijaidin
 sources:
   - title: মদনে গাজাসহ যুবক আটক, পলাতক দুজন
     url: https://www.jaijaidin.news/news/364263
@@ -49,6 +57,7 @@ open_questions:
   - Only one accessible outlet report of this Madan arrest could be opened, so no second source confirms the account.
   - No court outcome after the arrested man was sent to court was reported.
   - Whether the two fugitives were later caught was not reported.
+  - The published custody photo shows the accused with officers but not the 300 grams of ganja.
 ---
 
 Madan police arrested 23-year-old Md Jewel Mia with 300 grams of ganja in

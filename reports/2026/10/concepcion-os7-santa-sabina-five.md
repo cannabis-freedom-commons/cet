@@ -57,6 +57,7 @@ sources:
     date: 2026-10-30
     language: es
 open_questions:
+  - Radar BioBio illustrates the OS7 case with a GOPE tactical night-raid photograph that does not show seized cannabis or identify the Santa Sabina suspects, so it is not listed as media.
   - No weight in kilograms or plant count was published; cannabis was counted only as more than 2,500 bulk doses.
   - Detention hearings were on 29 and 30 October, so part of the operation may have taken place on 29 October rather than only on the 30 October publication date.
   - Two of the five were still awaiting formalización, and no names or sentences were given.

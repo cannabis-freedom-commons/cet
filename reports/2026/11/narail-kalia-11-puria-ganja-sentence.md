@@ -37,6 +37,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1546108a22a1891f86e65d063d6c8983
 tags: [narail, ganja, mobile-court]
+media:
+  - kind: photo
+    url: https://dhakamail.com/country/340188
+    media_url: https://imgrz.dhakamail.com/api/image-service/with-banner?cmp=DM&img=media/images/2026November/DM-01_20261101_170458401.jpg
+    publisher: Dhaka Mail
+    caption: >-
+      Sumon Molla stands with officers after the Kalia ganja arrest that led to the
+      mobile-court sentence. Photo: Dhaka Mail
 sources:
   - title: নড়াইলে গাঁজাসহ আটক যুবকের কারাদণ্ড
     url: https://dhakamail.com/country/340188
@@ -48,6 +56,7 @@ open_questions:
   - The article writes the arrest day as Sunday (1 November) with a typographical error in the month, while its publication date is 1 November 2026, which is used as the incident date.
   - The youth's alias is spelled both সাহিদুল and শহিদুল in the article; the report uses the first form.
   - Only one accessible source for this event was found after searching in Bengali and English.
+  - The published custody photo shows the accused with officers but not the 11 ganja packets.
 ---
 
 Police in Kalia Upazila of Narail detained a youth identified as Sumon Molla,

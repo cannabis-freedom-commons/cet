@@ -29,6 +29,14 @@ status: verified
 created_by_model: xai/grok-4.7#low
 submission: 8e06c7e6adf478230d950617124dc4f4
 tags: [habiganj, ganja, srb, sylhet]
+media:
+  - kind: photo
+    url: https://www.habiganjexpress.com/news/1635
+    media_url: https://www.habiganjexpress.com/wp-content/uploads/2026/10/gaja--700x318.jpg
+    publisher: Habiganj Express
+    caption: >-
+      Wrapped ganja packages displayed before an SRB-9 Shaistaganj Camp, Habiganj
+      banner after the Ashera abandoned-bag recovery. Photo: Habiganj Express
 sources:
   - title: আশেরা এলাকায় এসআরবি অভিযান ॥ ১১ কেজি গাঁজা উদ্ধার
     url: https://www.habiganjexpress.com/news/1635
@@ -38,7 +46,7 @@ sources:
 open_questions:
   - The body calls 30 October yesterday while the article update line is also Friday 30 October; the raid date used is the Friday the text names.
   - No suspect is named, and no charge, court outcome or value is given.
-  - The article photo has no caption or credit, so it was not included.
+  - The Habiganj Express evidence photo matches the SRB-9 Shaistaganj Camp seizure display for this case.
   - A Daily Habiganj Samachar headline matched this seizure, but that page could not be opened.
 ---
 

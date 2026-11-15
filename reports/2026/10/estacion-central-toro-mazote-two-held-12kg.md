@@ -43,6 +43,14 @@ status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 573244762b7476ae26fcede7b16c6e7e
 tags: [estacion-central, santiago, bicrim]
+media:
+  - kind: photo
+    url: https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/01/pdi-detiene-a-dos-personas-y-decomisa-12-kilos-de-marihuana-en-pequena-caracas-de-estacion-central.shtml
+    media_url: https://media.biobiochile.cl/wp-content/uploads/2026/11/social-7003775-drug-1200x633.png
+    publisher: BioBioChile
+    caption: >-
+      Bags of cannabis and a digital scale laid out on a PDI evidence cloth after the
+      Pequeña Caracas raids. Photo: BioBioChile / PDI
 sources:
   - title: PDI detiene a dos personas por tráfico de drogas en la Pequeña Caracas Incautaron 1,2 kilos de cannabis
     url: https://www.radioagricultura.cl/noticias/nacional/pdi-detiene-a-dos-personas-por-trafico-de-drogas-en-la-pequena-caracas-incautaron-12-kilos-de-cannabis_20261101/

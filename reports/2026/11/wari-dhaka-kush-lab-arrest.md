@@ -43,6 +43,14 @@ data_sources:
 status: verified
 created_by_model: unknown
 tags: [wari, dhaka, kush, cultivation-lab, us-citizen]
+media:
+  - kind: photo
+    url: https://www.tbsnews.net/bangladesh/crime/us-citizen-arrested-over-wari-kush-cultivation-lab-1589741
+    media_url: https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/11/01/wari_kush.jpg
+    publisher: The Business Standard
+    caption: >-
+      Tausif Hasan stands before a Divisional Detective Office, Dhaka backdrop after
+      the Wari Kush-lab arrest. Photo: The Business Standard
 sources:
   - title: US citizen arrested over Wari Kush cultivation lab
     url: https://www.tbsnews.net/bangladesh/crime/us-citizen-arrested-over-wari-kush-cultivation-lab-1589741
@@ -68,6 +76,7 @@ open_questions:
   - The earlier lab raid at the same residence is undated in these accounts.
   - No outcome was reported for the woman and the caretaker arrested in the earlier courier case, or for the remand the DNC said it would seek.
   - The 10 yaba tablets are methamphetamine, not cannabis, and are excluded from the cannabis figures above.
+  - The published custody photo shows the accused but not the seized cannabis, plants or lab equipment.
 ---
 
 A US citizen accused of operating a remote-controlled Kush cultivation laboratory

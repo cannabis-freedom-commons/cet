@@ -37,6 +37,7 @@ sources:
     date: 2026-10-30
     language: bn
 open_questions:
+  - Ajker Darpon illustrates the Uttara seizure with a table of cash, a phone and a speaker rather than cannabis, so no event photo is listed.
   - No weight or plant count for the cannabis was published.
   - No arrest was reported; the seller fled and police said they were still acting after watching video.
   - Only one account could be opened. It attributes the police comment to BSS, but that wire copy was not found.

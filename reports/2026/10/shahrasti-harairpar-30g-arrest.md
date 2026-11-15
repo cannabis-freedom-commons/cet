@@ -47,6 +47,7 @@ open_questions:
   - 'Figures count only the cannabis component: one person arrested and 0.03 kg seized; two other detentions in the same article concern alleged motorcycle theft and a theft investigation and are excluded.'
   - No court outcome after production before the court was reported.
   - Transliteration of Bengali personal and place names is approximate and exact spellings were not confirmed.
+  - Bangladesh Bulletine's photo shows a detainee with a Yamaha motorcycle from the separate theft roundup in the same article, so it is not listed as media for the ganja arrest.
 ---
 
 Shahrasti Model Thana police arrested 27-year-old Tarek in Shahrasti, Chandpur,

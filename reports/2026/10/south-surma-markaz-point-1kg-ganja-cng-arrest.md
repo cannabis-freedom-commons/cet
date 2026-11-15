@@ -23,6 +23,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7d57019d83226f3889c7d80cab5ca3a1
 tags: [sylhet, south-surma, ganja, smp, cng]
+media:
+  - kind: photo
+    url: https://dailysylhet.com/details/779307/
+    media_url: https://dailysylhet.com/files/uploads/2026/11/Screenshot-2026-11-01-184733.jpg
+    publisher: ডেইলি সিলেট ডট কম
+    caption: >-
+      The accused stands with officers beside an open bag of ganja after the Markaz
+      Point CNG arrest. Photo: ডেইলি সিলেট ডট কম
 sources:
   - title: দক্ষিণ সুরমায় গাঁজাসহ আটক এক, অটোরিকশা জব্দ
     url: https://sylhetvoice24.com/news/100002787
