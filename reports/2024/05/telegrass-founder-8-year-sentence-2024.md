@@ -79,14 +79,18 @@ sources:
     archived: https://web.archive.org/web/20251016160148/https://cannabislaw.report/israel-telegrass-cannabis-marketplace-founder-sentenced-to-8-years-for-running-criminal-organization/
     publisher: Cannabis Law Report
     language: en
+  - title: Telegrass Israeli Weed Marketplace Founder Sentenced to 8 Years for Running Criminal Organization - Israel News
+    url: https://www.haaretz.com/israel-news/2024-05-07/ty-article/.premium/telegrass-weed-marketplace-founder-sentenced-to-8-years-for-running-criminal-organization/0000018f-532f-dc9e-a7df-573febbf0000
+    publisher: Haaretz
+    date: 2024-05-07
 ---
 
 Amos Dov Silver, the founder of Telegrass, an app-based drug marketplace, was
 sentenced on Tuesday 7 May 2024 to eight years in prison as part of a plea
-deal. [@1,2]
+deal. [@1,2,3]
 
 He was convicted of running a criminal organization and drug trafficking
-through the service after a five-year legal battle. [@2]
+through the service after a five-year legal battle. [@2,3]
 
 Telegrass connected an estimated 3,000 drug dealers with more than 200,000
 clients and became a channel for dealing in marijuana and other illegal
