@@ -75,6 +75,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-14
     language: hi
+  - title: ट्रक में छिपाकर ला रहे थे एक करोड़ का गांजा, 174 किलो गांजे के साथ चालक गिरफ्तार, ट्रक मालिक फरार
+    url: https://www.thejbt.com/india/uttar-pradesh/1-crore-worth-marijuana-spilled-truck-driver-arrested-174-kg-of-marijuana-truck-owner-absconding-news-321858
+    publisher: Janbhawna Times
+    date: 2026-11-14
+    language: hi
 open_questions:
   - Amar Ujala reports the truck owner and one more accused as absconding, while the other two accounts name only the owner Asif as absconding.
   - The value of about one crore rupees is a police estimate, not a measured sale figure.
@@ -84,19 +89,19 @@ open_questions:
 
 Acting on a tip-off on 14 November, New Mandi police stopped a truck coming from
 the Meerut side at a highway check near Pachenda bridge and seized 174 kilograms
-of ganja hidden in the truck, arresting the driver. [@1] Police put the
+of ganja hidden in the truck, arresting the driver. [@1,5] Police put the
 estimated value of the seized ganja at about one crore rupees. [@1,4] Police also
 seized the truck used in the smuggling, registered number HR73A9532. [@1]
 
 The arrested driver told police he is Rahees, son of Nazeer Ahmad, a truck
 driver from Bhaiserhedi village under Chhapar police station. [@1] He said the
 ganja was bought cheaply in Visakhapatnam, Andhra Pradesh, and hidden in the
-truck on the return trip. [@1,4] After bringing the ganja to Muzaffarnagar, it was
+truck on the return trip. [@1,4,5] After bringing the ganja to Muzaffarnagar, it was
 supplied at higher prices in Muzaffarnagar, Shamli, Roorkee, Dehradun and nearby
 districts. [@1,4]
 
 The truck owner Asif, accused of involvement in the smuggling, is absconding,
-and police teams are searching for him. [@1] Police registered case number
+and police teams are searching for him. [@1,5] According to the driver's account to police, the truck owner had travelled with him but got out on the way, saying he would meet him further ahead. [@5] Police registered case number
 533/2026 at New Mandi police station under sections 8/20/29/60 of the NDPS Act.
 [@1] City superintendent of police Amrit Jain said the action was carried out
 under Operation Savera against narcotics trafficking in the district. [@1]
