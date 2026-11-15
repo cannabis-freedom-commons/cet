@@ -44,6 +44,11 @@ media:
     media_url: https://img.europapress.es/fotoweb/fotonoticia_20261114170452_690.jpg
     publisher: Europa Press
     caption: 'Drugs, money and weapons seized in the Palma anti-drug operation. Photo: National Police'
+  - kind: video
+    url: https://www.diariodemallorca.es/videos/sucesos/2026/11/14/video-desmantelan-banda-traficantes-palma-136433334.html
+    media_url: https://cdn.jwplayer.com/manifests/gddl2NeT.m3u8
+    publisher: Diario de Mallorca
+    caption: 'National Police video of the dismantled trafficking group in Palma with 60 kilos of hashish. Video: Policia Nacional via Diario de Mallorca'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d7812b159babf1b223409e790053f458
@@ -73,10 +78,15 @@ sources:
     publisher: El Confidencial
     date: 2026-11-14
     language: es
+  - title: VIDEO | Desmantelan una banda de traficantes en Palma con 60 kilos de hachís - Diario de Mallorca
+    url: https://www.diariodemallorca.es/videos/sucesos/2026/11/14/video-desmantelan-banda-traficantes-palma-136433334.html
+    publisher: Diario de Mallorca
+    date: 2026-11-14
+    language: es
 ---
 
 Spain's National Police arrested four men and one woman in Palma on suspicion of
-drug trafficking and membership of a criminal organisation. [@1,3,4] The
+drug trafficking and membership of a criminal organisation. [@1,3,4,6] The
 investigation was opened several months ago by Group I of the Narcotics Division
 of the UDYCO unit after officers learned of a hashish parcel addressed to a man
 living in Palma. [@1,3] Officers verified that the parcel contained 24 kilos of
