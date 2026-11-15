@@ -36,23 +36,32 @@ sources:
     publisher: Correio da Manhã
     date: 2026-11-14
     language: pt
+  - title: 'Paredes: Um dos quatro detidos por tráfico de droga fica em prisão preventiva'
+    url: https://averdade.com/76439735/paredes-um-dos-quatro-detidos-por-trafico-de-droga-fica-em-prisao-preventiva/
+    publisher: A Verdade
+    date: 2026-11-14
+    language: pt
+  - title: Quatro detidos por tráfico de droga em Paredes e um fica em prisão preventiva
+    url: https://jornal360.pt/quatro-detidos-por-trafico-de-droga-em-paredes-e-um-fica-em-prisao-preventiva/
+    publisher: Jornal 360
+    date: 2026-11-14
+    language: pt
 open_questions:
-  - Thursday's detentions are dated 12 November 2026 from the article's Saturday 14 November 2026 publication date; no separate calendar date for the raid was given.
-  - No weight in grams was published for the 87 hashish doses, so no cannabis weight is recorded.
-  - The 375 cocaine doses and 46 heroin doses are part of the same seizure but are not cannabis and are excluded from cannabis counts.
-  - The 4,090 euros, two vehicles, telephones, pistol and other items were seized across the wider anti-trafficking operation rather than tied solely to hashish.
-  - The detainees were not named and no trial date was reported.
+    - No weight in grams was published for the 87 hashish doses, so no cannabis weight is recorded.
+    - The 375 cocaine doses and 46 heroin doses are part of the same seizure but are not cannabis and are excluded from cannabis counts.
+    - The 4,090 euros, two vehicles, telephones, pistol and other items were seized across the wider anti-trafficking operation rather than tied solely to hashish.
+    - The detainees were not named and no trial date was reported.
 ---
 
 Three men and a woman were detained on Thursday in Paredes, in the Porto
 district, on suspicion of drug trafficking, in an operation announced on
 Saturday by the Porto Territorial Command of the GNR. [@1,2] The suspects were
-aged between 37 and 54. [@1,2] The detentions followed a drug-trafficking
+aged between 37 and 54. [@1,2,3] The detentions took place on 12 November 2026. [@3] The detentions followed a drug-trafficking
 investigation in which officers carried out four searches, two at homes and two
 in vehicles, leading to the suspects being identified and located. [@1,2]
 
 Officers seized 375 doses of cocaine, 87 doses of hashish and 46 doses of
-heroin. [@1,2] They also seized an alarm pistol, a knuckleduster, a handmade
+heroin. [@1,2,4] They also seized an alarm pistol, a knuckleduster, a handmade
 baton, two vehicles, eight mobile phones, 4,090 euros in cash and other material
 linked to drug trafficking. [@1]
 
