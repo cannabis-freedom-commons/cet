@@ -42,6 +42,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c5d305d6fcc02a4f1f021989e10c23a8
 tags: [san-joaquin, la-legua, pdi]
+media:
+  - kind: photo
+    url: https://www.cooperativa.cl/noticias/pais/policial/operativo-en-la-legua-dejo-cuatro-detenidos-y-droga-incautada-avaluada/2026-11-08/173532.html
+    media_url: https://www.cooperativa.cl/noticias/site/artic/20261108/imag/foto_0000000720261108173532.png
+    publisher: Cooperativa
+    caption: >-
+      PDI evidence table with cannabis bags, other drugs, cash and a handgun from the La Legua
+      raids. Photo: Cooperativa / PDI
 sources:
   - title: 'PDI detiene a cuatro sujetos por tráfico de drogas en San Joaquín: incautan $6 millones en sustancias ilícitas y armas'
     url: https://www.latercera.com/nacional/noticia/pdi-detiene-a-cuatro-sujetos-por-trafico-de-drogas-en-san-joaquin-incautan-6-millones-en-sustancias-ilicitas-y-armas/

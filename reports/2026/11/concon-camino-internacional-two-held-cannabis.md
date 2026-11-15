@@ -28,6 +28,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6039ed5d09a011b730e402ca99008bef
 tags: [valparaiso, concon, carabineros]
+media:
+  - kind: photo
+    url: https://puranoticia.pnt.cl/region-valparaiso/dos-procedimientos-policiales-dejan-cuatro-detenidos-en-concon-carabineros
+    media_url: https://puranoticia.pnt.cl/cms/site/artic/20261103/imag/foto_0000000420261103214546/PHOTO-2026-11-03-15-20-18.jpg
+    publisher: Puranoticia
+    caption: >-
+      Carabineros evidence table with cash, POS terminals and cannabis cigarettes from the Concón
+      stops. Photo: Puranoticia / Carabineros
 sources:
   - title: 'Dos procedimientos policiales dejan cuatro detenidos en Concón: Carabineros incauta droga y recupera diversas especies | Puranoticia.cl'
     url: https://puranoticia.pnt.cl/region-valparaiso/dos-procedimientos-policiales-dejan-cuatro-detenidos-en-concon-carabineros

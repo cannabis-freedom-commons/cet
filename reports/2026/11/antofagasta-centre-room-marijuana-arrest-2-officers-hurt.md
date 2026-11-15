@@ -45,6 +45,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1d73624d85dd4065b288568b942a1916
 tags: [antofagasta, carabineros, os7, marihuana, chile]
+media:
+  - kind: photo
+    url: https://elamerica.cl/2026/11/08/un-detenido-dos-carabineros-lesionados-y-droga-incautada-en-el-centro-de-antofagasta/
+    media_url: https://elamerica.cl/wp-content/uploads/2026/11/droga-delivery-ntof.jpg
+    publisher: El América
+    caption: >-
+      OS7 evidence of bagged marijuana with a Rappi delivery pack after the Antofagasta centre
+      room stop. Photo: El América / Carabineros
 sources:
   - title: Un detenido, dos Carabineros lesionados y droga incautada en el centro de Antofagasta
     url: https://elamerica.cl/2026/11/08/un-detenido-dos-carabineros-lesionados-y-droga-incautada-en-el-centro-de-antofagasta/

@@ -51,6 +51,7 @@ sources:
     date: 2026-10-13
     language: es
 open_questions:
+  - The Interior Ministry illustrates the Maldonado anti-drug campaign with a press-conference photo of officials and no marijuana, so no event photo is listed.
   - FM Gente reported more than 100 raids and about 60 kilos of cocaine and pasta base, while the Interior Ministry's detailed statement reports 90 raids and more than 77 kilos of cocaine; this report uses the ministry's figures and a rounded 30 kilos of marijuana stated by both.
   - The statements cover operations since the start of the current administration and the tribute on 13 October 2026, but do not give start and end dates for each raid, so 13 October 2026 is used as the report date for the published campaign total.
 ---

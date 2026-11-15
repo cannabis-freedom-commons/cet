@@ -49,6 +49,7 @@ sources:
     date: 2026-11-14
     language: es
 open_questions:
+  - 7 Páginas illustrates the Concordia raid with a weapons-and-phones evidence photo and no marijuana visible, so no event photo is listed.
   - The article published on 14 November 2026 dates the operation only to 'this Friday', so 13 November 2026 is used as the incident date.
   - The 11 cocaine wrappers were reported without a weight, so only the separately stated 300 grams of marijuana is counted as cannabis.
   - No laboratory confirmation for the marijuana was reported.

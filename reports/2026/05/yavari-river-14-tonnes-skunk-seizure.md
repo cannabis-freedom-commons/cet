@@ -35,6 +35,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 901d7fa972d25ef59dfa20a5808dbfab
 tags: [loreto, mariscal-ramon-castilla, triple-border, peru-brazil, skunk]
+media:
+  - kind: photo
+    url: https://canaln.pe/peru/incautan-14-toneladas-marihuana-frontera-brasil-n491923
+    media_url: https://cde.canaln.pe/peru-incautan-14-toneladas-marihuana-frontera-brasil-n491923-696x418-1070524.jpg
+    publisher: Canal N
+    caption: >-
+      Stacked marijuana packages displayed in Loreto after the Yavarí triple-border seizure. Photo:
+      Canal N
 sources:
   - title: Fuerzas del orden de Perú y Brasil incautan cerca de 9 toneladas de droga y armamento en la triple frontera
     url: https://www.gob.pe/institucion/mindef/noticias/1388552-fuerzas-del-orden-de-peru-y-brasil-incautan-cerca-de-9-toneladas-de-droga-y-armamento-en-la-triple-frontera

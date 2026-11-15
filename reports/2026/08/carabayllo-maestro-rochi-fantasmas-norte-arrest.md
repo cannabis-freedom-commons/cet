@@ -37,6 +37,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 01e33986151aaa69a6c48714d7946124
 tags: [carabayllo, lima, escuadron-verde, marijuana]
+media:
+  - kind: photo
+    url: https://www.infobae.com/peru/2026/08/26/capturan-a-maestro-rochi-presunto-principal-abastecedor-de-droga-de-los-fantasmas-del-norte-tenia-antecedentes-por-narcotrafico/
+    media_url: https://www.infobae.com/resizer/v2/5QJIK3O5WZEWTI7PNGM4LUJTAQ.png?auth=3ee97fa096e9f3c21e50488ac656767213f2f4fe4d49703362cafb14487adffd&smart=true&width=1200&height=630&quality=85
+    publisher: Infobae
+    caption: >-
+      “Maestro Rochi” with co-detainees and packaged drugs after the Carabayllo Fantasmas del Norte
+      raid. Photo: Infobae
 sources:
   - title: 'Capturan a ‘Maestro Rochi’, presunto principal abastecedor de droga de ‘Los Fantasmas del Norte’: tenía antecedentes por narcotráfico'
     url: https://www.infobae.com/peru/2026/08/26/capturan-a-maestro-rochi-presunto-principal-abastecedor-de-droga-de-los-fantasmas-del-norte-tenia-antecedentes-por-narcotrafico/

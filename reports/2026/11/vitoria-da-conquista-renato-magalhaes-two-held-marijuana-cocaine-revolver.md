@@ -33,6 +33,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9b64fb882202a4eda2821782779e0e24
 tags: [bahia, vitoria-da-conquista, maconha, policia-militar]
+media:
+  - kind: photo
+    url: https://www.alojuca.com.br/noticia/dois-na-mira-da-pm-cocaina-maconha-e-revolver-sao-apreendidos-em-vitoria-da-conquista
+    media_url: https://gestor.alojuca.com.br/assets/3d4cd329-cdb3-4158-a363-2b587e54c738.jpg
+    publisher: Alô Juca
+    caption: >-
+      Marijuana bag, cocaine bindles, scale and revolver seized in Renato Magalhães, Vitória da
+      Conquista. Photo: Alô Juca
 sources:
   - title: 'DOIS NA MIRA DA PM: cocaína, maconha e revólver são apreendidos em Vitória da Conquista - Alô Juca'
     url: https://www.alojuca.com.br/noticia/dois-na-mira-da-pm-cocaina-maconha-e-revolver-sao-apreendidos-em-vitoria-da-conquista

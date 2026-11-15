@@ -36,6 +36,7 @@ data_sources:
 status: verified
 tags: [quito, los-lobos, apolo-41]
 open_questions:
+  - El Comercio and Panorama illustrate Operativo Apolo 41 with a custody line showing stage lights and a street police-motorcycle photo, neither showing the seized marijuana, so no event photo is listed.
   - The reports give the operation's dates as the night of 16 September and the early hours of 17 September, without a precise time for each raid.
   - El Comercio reported two motorcycles seized and Panorama three; this report does not give a total.
   - Other coverage described Apolo 41 as a wider operation across five Quito sectors; this report covers the two raids in El Inca and La Morita named by El Comercio and Panorama.

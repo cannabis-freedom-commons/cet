@@ -39,6 +39,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 39e6f7727a361dc77d8bf897eb243c13
 tags: [buenaventura, pacifico, maritime-seizure]
+media:
+  - kind: photo
+    url: https://www.cgfm.mil.co/es/multimedia/noticias/armada-de-colombia-incauta-cerca-de-tonelada-y-media-de-marihuana-y-afecta-las
+    media_url: https://www.cgfm.mil.co/sites/default/files/2026-07/cogfm-armada-de-colombia-incauta-cerca-de-tonelada-y-media-de-marihuana-21.jpg
+    publisher: Comando General de las Fuerzas Militares
+    caption: >-
+      Armada officers with four detainees and packaged marijuana after the Buenaventura boat
+      seizure. Photo: CGFM / Armada de Colombia
 sources:
   - title: Armada de Colombia incauta cerca de tonelada y media de marihuana y afecta las finanzas del narcotráfico en más de 15 millones de dólares
     url: https://www.cgfm.mil.co/es/multimedia/noticias/armada-de-colombia-incauta-cerca-de-tonelada-y-media-de-marihuana-y-afecta-las

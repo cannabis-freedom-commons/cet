@@ -45,6 +45,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a25db37ffb133f194e3b448f78f9ab3a
 tags: [manizales, caldas, microtrafico, marijuana, allanamiento]
+media:
+  - kind: photo
+    url: https://www.bcnoticias.com.co/tres-capturados-dejan-cinco-allanamientos-contra-el-microtrafico-en-manizales/
+    media_url: https://imagenesbc.com/wp-content/uploads/2026/09/FACEBOOK-2025-7-6.webp
+    publisher: BC Noticias
+    caption: >-
+      Labeled marijuana and other drugs with three cuffed detainees after the Manizales Bajo Prado
+      and Persia raids. Photo: BC Noticias / Policía Nacional
 sources:
   - title: Tres capturados dejan cinco allanamientos contra el microtráfico en Manizales
     url: https://www.bcnoticias.com.co/tres-capturados-dejan-cinco-allanamientos-contra-el-microtrafico-en-manizales/

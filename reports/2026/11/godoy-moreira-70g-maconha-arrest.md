@@ -35,6 +35,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4604741841ae8822679ec1885ea2cfd2
 tags: [godoy-moreira, parana, maconha]
+media:
+  - kind: photo
+    url: https://blogdoberimbau.com/godoy-moreira-morador-suspeito-de-trafico-e-detido-com-70-gramas-de-maconha/
+    media_url: https://blogdoberimbau.com/wp-content/uploads/social_cards/social_card_46663.jpg
+    publisher: Blog do Berimbau
+    caption: >-
+      The pressed cannabis brick on a scale from the Godoy Moreira 70-gram arrest. Photo: Blog do
+      Berimbau
 sources:
   - title: GODOY MOREIRA – Morador suspeito de tráfico é detido com 70 gramas de maconha
     url: https://blogdoberimbau.com/godoy-moreira-morador-suspeito-de-trafico-e-detido-com-70-gramas-de-maconha/

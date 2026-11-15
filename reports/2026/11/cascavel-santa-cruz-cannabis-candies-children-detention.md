@@ -60,6 +60,7 @@ sources:
     date: 2026-11-14
     language: pt
 open_questions:
+  - Gazeta do Paraná illustrates the Cascavel candy case with an SSP-PR evidence bag holding tissue, not cannabis candies, so no event photo is listed.
   - No weight or count was published for the seized candies, so no cannabis quantity is recorded.
   - The final expert result for the packet found with the woman had not been reported when these accounts were published.
   - The suspect was not identified by name or age, and no charge or court outcome beyond the flagrante referral was reported.

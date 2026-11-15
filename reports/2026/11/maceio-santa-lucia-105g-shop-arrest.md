@@ -55,6 +55,7 @@ sources:
     date: 2026-11-14
     language: pt
 open_questions:
+  - Tribuna Hoje illustrates the Santa Lúcia shop arrest with a Cidade Universitária condominium drug photo, so no event photo is listed.
   - No name or age for the suspect was published.
   - The Rohypnol is reported only as one pack, with no tablet count, and it is not counted in the cannabis weight.
   - No court outcome beyond the flagrante drug-trafficking charge was reported.
