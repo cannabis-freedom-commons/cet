@@ -40,6 +40,10 @@ sources:
     url: https://wchstv.com/news/local/three-people-arrested-following-drug-investigation-in-boone-county
     publisher: WCHS
     date: 2026-11-14
+  - title: Three arrested in Boone County drug investigation
+    url: https://wchsnetwork.com/2026/11/14/three-arrested-in-boone-county-drug-investigation/
+    publisher: WCHS Network
+    date: 2026-11-14
 open_questions:
   - The marijuana quantity and any separate cannabis-specific charges were not stated.
   - The arrests were described as taking place Friday, inferred as 13 November from the publication date.
@@ -48,15 +52,14 @@ open_questions:
 ---
 
 West Virginia State Police arrested three people after a drug investigation at a
-residence in the Greenview area of Boone County on 13 November 2026. [@1]
+residence in the Greenview area of Boone County on 13 November 2026. [@1] The troopers were from the Madison detachment. [@2]
 Troopers identified them as Walter Dennis Wilson, 73, of Danville; Emily Marie
 Wilson, 37, of Julian; and Kasey Spears Thompson, 47, of Clothier. [@1] All
 three were charged with possession with intent to deliver and conspiracy,
-according to troopers. [@1]
+according to troopers. [@1,2]
 
 Troopers said they seized marijuana, fentanyl and multiple prescription
-medications during the investigation. [@1] The investigation took place at a
-residence on Powell Hollow Road, according to the state police release. [@1] The
+medications during the investigation. [@1,2] The investigation took place at a
+residence on Powell Hollow Road, according to the state police release. [@1,2] The
 three were held at Southwestern Regional Jail and awaiting arraignment when the
 police release was issued. [@1]
-
