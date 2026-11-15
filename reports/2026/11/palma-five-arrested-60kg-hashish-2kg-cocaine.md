@@ -68,6 +68,11 @@ sources:
     publisher: Ultima Hora
     date: 2026-11-14
     language: es
+  - title: Detienen a cinco personas en una operación antidroga en Palma y les intervienen 60 kilos de hachís
+    url: https://www.elconfidencial.com/espana/2026-11-14/palma-detenidos-trafico-drogas-hachis-1tna-1tps_4465200/
+    publisher: El Confidencial
+    date: 2026-11-14
+    language: es
 ---
 
 Spain's National Police arrested four men and one woman in Palma on suspicion of
@@ -75,14 +80,14 @@ drug trafficking and membership of a criminal organisation. [@1,3,4] The
 investigation was opened several months ago by Group I of the Narcotics Division
 of the UDYCO unit after officers learned of a hashish parcel addressed to a man
 living in Palma. [@1,3] Officers verified that the parcel contained 24 kilos of
-hashish, located the recipient and arrested him. [@1,4] They also discovered that
+hashish, located the recipient and arrested him. [@1,4,5] They also discovered that
 other individuals were collaborating with him and that there were two addresses
 where further drugs might be found. [@1] During the search of the first
 property, that of the main suspect, police arrested another man and a woman on
 suspicion of drug trafficking and membership of a criminal organisation. [@1]
 
 In that first search police found 36 kilograms of hashish, an air rifle fitted
-with a silencer and around 10,000 euros in cash. [@1,3,4] Investigators also
+with a silencer and around 10,000 euros in cash. [@1,3,4,5] Investigators also
 arrested another suspect who was allegedly responsible for storing and
 transporting the drugs. [@1] During a search of his home officers found 2
 kilograms of cocaine, further doses of the drug, cutting agents, a pistol with
@@ -93,4 +98,4 @@ smaller scale. [@1]
 
 Officers from the Prevention and Reaction Unit, Narcotics Group II and canine
 guides also took part in the searches. [@2,4] The investigation remains open and
-further arrests cannot be ruled out. [@1,3,4]
+further arrests cannot be ruled out. [@1,3,4,5]
