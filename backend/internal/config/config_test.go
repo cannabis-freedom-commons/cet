@@ -198,7 +198,7 @@ func TestHarvestQueueTarget(t *testing.T) {
 	if c, err = Load(); err != nil || c.QueueTarget() != 30 {
 		t.Fatal(c.QueueTarget(), err)
 	}
-	for _, bad := range []string{"-2", "1001", "many"} {
+	for _, bad := range []string{"-2", "10001", "many"} {
 		t.Setenv("HARVEST_QUEUE_TARGET", bad)
 		if _, err := Load(); err == nil {
 			t.Fatal("invalid queue target accepted", bad)
@@ -220,6 +220,26 @@ func TestGDELTDefaults(t *testing.T) {
 		}
 		if len(c.GDELTQueries) != tc.want {
 			t.Fatalf("HARVEST_GDELT_ENABLED=%q HARVEST_GDELT_QUERIES=%q: %d queries, want %d", tc.enabled, tc.queries, len(c.GDELTQueries), tc.want)
+		}
+	}
+}
+
+// The research queue may hold up to 10,000 waiting jobs before discovery holds back.
+func TestQueueTargetRange(t *testing.T) {
+	for raw, ok := range map[string]bool{"10000": true, "10001": false, "-1": true} {
+		t.Setenv("HARVEST_QUEUE_TARGET", raw)
+		c, err := Load()
+		if ok && err != nil {
+			if strings.Contains(err.Error(), "HARVEST_QUEUE_TARGET") {
+				t.Fatalf("%s must be accepted: %v", raw, err)
+			}
+			t.Skip("this environment cannot load a configuration:", err)
+		}
+		if !ok && (err == nil || !strings.Contains(err.Error(), "HARVEST_QUEUE_TARGET")) {
+			t.Fatalf("%s must be refused: %v", raw, err)
+		}
+		if ok && raw == "10000" && c.QueueTarget() != 10000 {
+			t.Fatal(c.QueueTarget())
 		}
 	}
 }

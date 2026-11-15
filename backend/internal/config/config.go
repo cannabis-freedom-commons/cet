@@ -151,8 +151,8 @@ func Load() (Config, error) {
 		return c, fmt.Errorf("at most %d Bing News queries", harvest.MaxBingNewsQueries)
 	}
 	c.HarvestQueueTarget, discoveryErr = strconv.Atoi(env("HARVEST_QUEUE_TARGET", "-1"))
-	if discoveryErr != nil || c.HarvestQueueTarget < -1 || c.HarvestQueueTarget > 1000 {
-		return c, errors.New("HARVEST_QUEUE_TARGET must be -1 (automatic), 0 (off) or up to 1000")
+	if discoveryErr != nil || c.HarvestQueueTarget < -1 || c.HarvestQueueTarget > 10000 {
+		return c, errors.New("HARVEST_QUEUE_TARGET must be -1 (automatic), 0 (off) or up to 10000")
 	}
 	c.SourceBrowser = env("SOURCE_BROWSER", "true") == "true"
 	c.DevControls = env("DEV_CONTROLS", "false") == "true"

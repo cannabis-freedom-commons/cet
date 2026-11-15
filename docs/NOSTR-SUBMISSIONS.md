@@ -625,7 +625,8 @@ When the queue is already at the target the scan is skipped without searching an
 position is kept, so the same queries run once the queue has room; held-back candidates were never
 recorded as seen and come back in later scans while their lookback still returns them. The default
 `-1` sets the target automatically to four times the total research workers (at least 8); `0` turns
-backpressure off; values up to 1000 are accepted. User and Nostr submissions are never held back.
+backpressure off; values up to 10000 are accepted. The submissions page shows the waiting count
+against it (`994/10,000`). User and Nostr submissions are never held back.
 
 ```dotenv
 HARVEST_QUEUE_TARGET=-1

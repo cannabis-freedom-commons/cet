@@ -27,7 +27,8 @@ type ProcessingInfo struct {
 	AutomaticPublication  bool                     `json:"automatic_publication"`
 	PublicationConfigured bool                     `json:"publication_configured"`
 	Plan                  *Plan                    `json:"plan,omitempty"`
-	MaxRunning            int                      `json:"max_running"` // total configured research worker capacity
+	MaxRunning            int                      `json:"max_running"`  // total configured research worker capacity
+	QueueTarget           int                      `json:"queue_target"` // research jobs that may wait before news discovery holds back; 0 = no limit
 }
 
 // Plan is a subscription the runs are paid from: its monthly price and the usage it includes at
@@ -40,7 +41,7 @@ type Plan struct {
 func (s *Server) processingInfo(r *http.Request) ProcessingInfo {
 	ctx := r.Context()
 	c := s.Config
-	p := ProcessingInfo{Budget: s.budgetInfo(ctx, time.Now()), RestartAvailable: s.restartAllowed(r), PublicationMode: "local_commit", RawLogsAvailable: c.RawAILogs, Mode: "automatic", Model: c.ResearchModel, Runner: "OpenCode (" + c.ResearchRunner + ")", Enabled: c.ResearchEnabled(), AutomaticPublication: true, PublicationConfigured: c.RepoPath != "", MaxRunning: c.MaxWorkers()}
+	p := ProcessingInfo{Budget: s.budgetInfo(ctx, time.Now()), RestartAvailable: s.restartAllowed(r), PublicationMode: "local_commit", RawLogsAvailable: c.RawAILogs, Mode: "automatic", Model: c.ResearchModel, Runner: "OpenCode (" + c.ResearchRunner + ")", Enabled: c.ResearchEnabled(), AutomaticPublication: true, PublicationConfigured: c.RepoPath != "", MaxRunning: c.MaxWorkers(), QueueTarget: c.QueueTarget()}
 	p.Agents = c.Agents()
 	models := make([]string, 0, len(p.Agents))
 	for _, a := range p.Agents {

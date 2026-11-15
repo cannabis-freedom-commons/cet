@@ -151,6 +151,12 @@ function initialize(root) {
       $("commit-rate").textContent = Number.isFinite(committed) ? (committed / 60).toLocaleString("en-GB", { maximumFractionDigits: 2 }) : "—";
       $("commit-rate").title = Number.isFinite(committed) ? `${committed.toLocaleString()} articles committed in the last 60 minutes` : "Commit rate unavailable";
       $("queue-estimate").textContent = `Est. to clear: ${queueEstimate(data.summary, data.processing)}`;
+      // waiting against the queue limit news discovery fills up to: "994/10,000"
+      const target = data.processing?.queue_target;
+      if (Number.isFinite(data.summary?.queued) && target > 0) {
+        $("queued").textContent = `${data.summary.queued.toLocaleString()}/${target.toLocaleString()}`;
+        $("queued").title = `News discovery adds new articles while fewer than ${target.toLocaleString()} wait`;
+      }
       if (Number.isFinite(data.summary?.running) && limit) $("running").textContent = `${data.summary.running}${limit}`;
       const running = rows.filter((v) => isRunning(v.status)).length;
       $("count").textContent = `${Number(data.total).toLocaleString()} matching${running ? ` · ${running} in progress` : ""}`;
