@@ -64,15 +64,37 @@ sources:
     publisher: Análisis Digital
     date: 2026-11-13
     language: es
+  - title: Detuvieron a un hombre con más de 3,6 kilos de marihuana en Chajarí
+    url: https://analisisdigital.com.ar/policiales/2026/11/13/detuvieron-un-hombre-con-mas-de-36-kilos-de-marihuana-en-chajari
+    publisher: Análisis Digital
+    date: 2026-11-13
+    language: es
+  - title: Un hombre de Mocoretá fue detenido en Chajarí con 4 kilos de droga
+    url: https://villadelrosarionet.com.ar/un-hombre-de-mocoreta-fue-detenido-en-chajari-con-4-kilos-de-droga/
+    publisher: Villa del Rosario Net
+    date: 2026-11-13
+    language: es
+  - title: 'Importante operativo en Mocoretá: allanamientos simultáneos y secuestro de drogas'
+    url: http://www.talcualchajari.com.ar/227265/importante-operativo-en-mocoreta-allanamientos-simultaneos-y-secuestro-de-drogas/
+    publisher: Tal Cual Chajarí
+    date: 2026-11-13
+    language: es
+  - title: Varios allanamientos en Mocoretá tras un detenido en Entre Ríos con 3,6 kilos de droga
+    url: https://www.ellitoral.com.ar/policiales/2026-11-13-19-10-0-varios-allanamientos-en-mocoreta-tras-un-detenido-en-entre-rios-con-3-6-kilos-de-droga
+    publisher: El Litoral
+    date: 2026-11-13
+    language: es
 open_questions:
-  - The official report gave no age and no circumstances of the detention; the account that the man was 28 and travelled from Mocoretá by hire car is attributed to local press, not the police report.
-  - No charge, hearing or court outcome was reported beyond the detention and referral to the courts.
-  - No laboratory confirmation beyond the police seizure report was published.
-  - 'Accounts disagree on the day of the week of the overnight operation: 12 November 2026 is a Thursday and 13 November a Friday, but one account dates them as Wednesday and Thursday; the overnight 12-13 November period is consistent across accounts.'
+    - The official report gave no age and no circumstances of the detention; the account that the man was 28 and travelled from Mocoretá by hire car is attributed to local press, not the police report.
+    - No charge, hearing or court outcome was reported beyond the detention and referral to the courts.
+    - No laboratory confirmation beyond the police seizure report was published.
+    - 'Accounts disagree on the day of the week of the overnight operation: 12 November 2026 is a Thursday and 13 November a Friday, but one account dates them as Wednesday and Thursday; the overnight 12-13 November period is consistent across accounts.'
+    - The Mocoretá seizure totals are given for the raids together and are not assigned to particular addresses.
+    - The 5,390,728-peso valuation is a police estimate for the Mocoretá seizures and its basis was not published.
 ---
 
 Officers detained a man at the intersection of Avenida Belgrano and Avenida 28
-de Mayo in Chajarí during an overnight anti-drug operation. [@1,4] The operation
+de Mayo in Chajarí during an overnight anti-drug operation. [@1,4,5] The operation
 ran from 20:30 on Thursday 12 November until 00:28 on Friday 13 November 2026.
 [@2] Officers from the Chajarí Dangerous Drugs delegation of the Federación
 departmental headquarters acted together with staff of Subcomisaría Tague, under
@@ -81,9 +103,9 @@ bis of the National Code of Criminal Procedure and National Law 23.737 on drug
 trafficking. [@1]
 
 Officers seized six compact bricks of marijuana and one hand-rolled cigarette,
-with a reported total weight of 3.656 kilograms. [@1,4] Officers also seized a
+with a reported total weight of 3.656 kilograms. [@1,4,5] Officers also seized a
 backpack, while no money was seized. [@1,4] The official report gave no age for
 the detained man and no details of the circumstances of the detention. [@1]
 Local accounts described the detained man as 28 years old and said he had
-travelled from Mocoretá to Chajarí in a hire car from Corrientes. [@3] The case
-was placed in the hands of the courts. [@2] The detained man was placed at the disposal of the Federal Justice system, which intervened through the Federal Court of Concordia, with the proceedings carried out under the corresponding judicial directives. [@4]
+travelled from Mocoretá to Chajarí in a hire car from Corrientes. [@3,6] Mocoretá investigators detected the suspect with a backpack through municipal monitoring cameras before he boarded the remis. [@8] The case
+was placed in the hands of the courts. [@2,7] Police reported no apprehensions in the Mocoretá procedures. [@7] Police valued the material seized in Mocoretá at about 5,390,728 pesos. [@8] Officers also seized mobile phones, a computer and a tablet to reconstruct the contact network. [@8] In the Mocoretá homes officers seized four cannabis plants and four cannabis seedlings, 42 loose seeds plus 8.1 grams of cannabis sativa seeds, and 4.09 grams of plant material that tested positive for marijuana. [@8] The Mocoretá raids were carried out in barrio General Roca and on calle Sargento Cabral. [@7] In parallel with the road procedure, police carried out simultaneous raids on homes in Mocoretá under orders from the Monte Caseros Guarantees Court and the intervening prosecutor's office. [@8] The detained man was placed at the disposal of the Federal Justice system, which intervened through the Federal Court of Concordia, with the proceedings carried out under the corresponding judicial directives. [@4]
