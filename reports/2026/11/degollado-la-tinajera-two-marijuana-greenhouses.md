@@ -46,6 +46,11 @@ media:
     media_url: https://images.milenio.com/wnV0F3jvJbC36v0OkVqFLJXn78s=/375x0/uploads/media/2026/11/13/instalaciones-degollado-jalisco-usadas-procesar.jpg
     publisher: Grupo Milenio
     caption: 'Processing facility in Degollado, Jalisco used to process marijuana. Photo: Defensa'
+  - kind: photo
+    url: https://www.jornada.com.mx/noticia/2026/11/14/politica/nuevo-golpe-al-cjng-aseguran-dos-narcolaboratorios-con-capacidad-para-producir-17-mdp-mensuales-en-droga
+    media_url: https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/nuevo-golpe-al-cjng-aseguran-dos-narcolaboratorios-con-capacidad-para-producir-17-mdp-mensuales-en-droga/nuevo-golpe-al-cjng-aseguran-dos-narcolaboratorios-con-capacidad-para-producir-17-mdp-mensuales-en-droga_9436834e-87a7-47ba-b4fc-ddbc9b5d70f8_medialjnimgndimage=fullsize
+    publisher: La Jornada
+    caption: 'Two drug laboratories and two greenhouses located and disabled in Degollado, Jalisco. Photo: Gabinete de Seguridad'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 86d89748de7436187ee03091dce1a95a
@@ -91,25 +96,26 @@ sources:
     publisher: Grupo Milenio
     date: 2026-11-13
     language: es
-open_questions:
-    - No cannabis weight or plant count was published, so no cannabis quantity can be recorded.
-    - The reported 17 million pesos monthly and 5 million pesos infrastructure estimates concern synthetic-drug production and installed infrastructure, not a cannabis value.
-    - The surname appears as Guerrero Martínez in Reporte Índigo and as Heraclio “N” elsewhere, and the alias as Lako and Laco; the identity match rests on place, date and seizure.
+  - title: Nuevo golpe al CJNG; aseguran dos narcolaboratorios con capacidad para producir 17 mdp mensuales en droga
+    url: https://www.jornada.com.mx/noticia/2026/11/14/politica/nuevo-golpe-al-cjng-aseguran-dos-narcolaboratorios-con-capacidad-para-producir-17-mdp-mensuales-en-droga
+    publisher: La Jornada
+    date: 2026-11-14
+    language: es
 ---
 
 Under Mexico's National Public Security Strategy, the National Guard and the
 Mexican Army, together with FEMDO of the Attorney General's Office and the
 Criminal Investigation Agency of the FGR, executed a technical investigation
 order at a property in the La Tinajera locality of the municipality of
-Degollado, Jalisco. [@1,4] On 13 November 2026 the Mexican Army, the National Guard and the FGR disabled two laboratories for producing synthetic drugs and two marijuana greenhouses in Degollado, Jalisco. [@7] The property was operated by a criminal group led by
+Degollado, Jalisco. [@1,4] On 13 November 2026 the Mexican Army, the National Guard and the FGR disabled two laboratories for producing synthetic drugs and two marijuana greenhouses in Degollado, Jalisco. [@7,9] The property was operated by a criminal group led by
 Heraclio 'N', alias Tío Laco, identified as the regional boss of the Jalisco New
-Generation Cartel in the area. [@1,4,8] The installations were operated by a group led by Heraclio Guerrero Martínez, alias Tío Lako, described as a regional CJNG chief with operations in Jalisco and Michoacán. [@6]
+Generation Cartel in the area. [@1,4,8,9] The installations were operated by a group led by Heraclio Guerrero Martínez, alias Tío Lako, described as a regional CJNG chief with operations in Jalisco and Michoacán. [@6]
 
 At the site the authorities seized firearms, cartridges, two synthetic-drug
-production centers and two marijuana greenhouses. [@1,4,5,8] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6] Machinery, tools and
+production centers and two marijuana greenhouses. [@1,4,5,8,9] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6] Machinery, tools and
 various items recovered on the property were used to make methamphetamine and to
 process and extract high-purity cannabidiol (CBD) and tetrahydrocannabinol (THC)
-from marijuana. [@2,4,6]
+from marijuana. [@2,4,6,9]
 
 Everything seized was handed over to the Federal Attorney General's Office,
 which is continuing its investigations and forensic work to determine the legal
