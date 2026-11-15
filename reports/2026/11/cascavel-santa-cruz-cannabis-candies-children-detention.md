@@ -33,6 +33,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ff99d8e18c7be9ddffe79148c7070bb0
 tags: [cascavel, parana, edibles, santa-cruz, guarda-municipal]
+media:
+  - kind: photo
+    url: https://cascaveldiario.com.br/noticia/cameras-registram-entrega-de-balas-com-maconha-a-criancas-em-cascavel-92034c67
+    media_url: https://vblojpwlzejatephxhra.supabase.co/storage/v1/object/public/pautai-uploads/92034c67-dfa4-457c-bc72-b148a22fbe53/rehost-1794673659267.jpg
+    publisher: Cascavel Diário
+    caption: >-
+      CCTV still of the Santa Cruz sidewalk encounter Cascavel Diário published as recording the
+      cannabis-candy handoff. Photo: Cascavel Diário
 sources:
   - title: Cascavel - Mulher suspeita de oferecer balas com maconha a crianças é agredida por populares
     url: https://portalguaira.com/cascavel-mulher-suspeita-de-oferecer-balas-com-maconha-a-criancas-e-agredida-por-populares
@@ -60,7 +68,7 @@ sources:
     date: 2026-11-14
     language: pt
 open_questions:
-  - Gazeta do Paraná illustrates the Cascavel candy case with an SSP-PR evidence bag holding tissue, not cannabis candies, so no event photo is listed.
+  - Gazeta do Paraná illustrates the Cascavel candy case with an SSP-PR evidence bag holding tissue, not cannabis candies; the Cascavel Diário CCTV still of the sidewalk handoff is used instead.
   - No weight or count was published for the seized candies, so no cannabis quantity is recorded.
   - The final expert result for the packet found with the woman had not been reported when these accounts were published.
   - The suspect was not identified by name or age, and no charge or court outcome beyond the flagrante referral was reported.

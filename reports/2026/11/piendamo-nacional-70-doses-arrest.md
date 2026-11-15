@@ -39,6 +39,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fc82152bbd35b0214dab0c26fea3c168
 tags: [cauca, piendamo, microtrafico, marijuana, policia-nacional]
+media:
+  - kind: photo
+    url: https://radiodiezmas.com/judicial/7678-policia-nacional-capturo-a-un-hombre-por-el-presunto-delito-de-trafico-de-estupefacientes-en-piendamo-cauca
+    media_url: https://radiodiezmas.com/images/Imágenes_2026_/04_de_noviembre_de_2026/PIENDAMO_CAPTURADO.jpeg
+    publisher: Radio Diez
+    caption: >-
+      The man detained in barrio Nacional stands between officers behind a table of marijuana doses
+      and cash marked captura en flagrancia. Photo: Radio Diez / Policía Nacional
 sources:
   - title: Capturan a un hombre con 70 dosis de marihuana en el municipio
     url: https://www.diariodelsur.com.co/noticias/capturan-a-un-hombre-con-70-dosis-de-marihuana-en-el-municipio
@@ -61,7 +69,7 @@ sources:
     date: 2026-11-09
     language: es
 open_questions:
-  - Diario del Sur illustrates the Piendamó arrest with a custody photo showing white powder bags and cash, not the reported marijuana doses, so no event photo is listed.
+  - Diario del Sur illustrates the Piendamó arrest with white powder bags rather than the reported marijuana doses; the Radio Diez custody photo with the dose table is used instead.
   - The accounts give no separate date for the arrest; 9 November 2026, the publication dates of both articles, is used as the incident date.
   - No weight in grams was published for the 70 doses, so no kilogram figure is recorded.
   - Diario del Sur gives the man's name as a purported identification while Radio Diez gives only his age; no charges filed or court ruling were reported.

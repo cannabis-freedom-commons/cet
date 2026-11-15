@@ -38,6 +38,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7cd762bbe96c2056b3fe78da7b0e5645
 tags: [habiganj, madhabpur, ganja, srb-9]
+media:
+  - kind: photo
+    url: https://www.sylhetview24.news/news/417769
+    media_url: https://www.sylhetview24.news/images/news/418/417769.jpeg?m=99
+    publisher: Sylhetview24.com
+    caption: >-
+      The man detained with 36 kg of ganja stands with hands behind his back for the Madhabpur case
+      presentation. Photo: Sylhetview24.com
 sources:
   - title: মাধবপুরে ৩৬ কেজি গাঁজাসহ যুবক গ্রেপ্তার
     url: https://www.dhakatoday.com/news/93434/%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A6%AC%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A7%A9%E0%A7%AC-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0

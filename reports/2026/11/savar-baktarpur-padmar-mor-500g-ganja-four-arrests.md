@@ -39,6 +39,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0bd6d49ab6f82419b65965884c32c1eb
 tags: [dhaka, db-police, ganja, savar, yaba]
+media:
+  - kind: photo
+    url: https://www.jatvbd.com/news/3442
+    media_url: https://www.jatvbd.com/assets/images/uploads/news_1794294398_168540.jpg
+    publisher: JATV
+    caption: >-
+      The four people arrested in the Savar DB raids stand behind a bag of ganja and yaba tablets,
+      flanked by detective officers. Photo: JATV
 sources:
   - title: 'সাভারে ডিবি পুলিশের পৃথক অভিযান: ইয়াবা ও গাঁজাসহ গ্রেফতার ৪'
     url: https://desherpotro.com/%E0%A6%B8%E0%A6%AD%E0%A6%B0-%E0%A6%A1%E0%A6%AC-%E0%A6%AA%E0%A6%B2%E0%A6%B6%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A6%95-%E0%A6%85%E0%A6%AD%E0%A6%AF%E0%A6%A8-%E0%A6%87%E0%A7%9F%E0%A6%AC-%E0%A6%93-%E0%A6%97%E0%A6%9C%E0%A6%B8%E0%A6%B9-%E0%A6%97%E0%A6%B0%E0%A6%AB%E0%A6%A4%E0%A6%B0-%E0%A7%AA

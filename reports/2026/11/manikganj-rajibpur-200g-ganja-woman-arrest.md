@@ -37,6 +37,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 10b2e6a1b1a0e467c8c29793a28d02dc
 tags: [manikganj, ganja, dnc, rented-house]
+media:
+  - kind: photo
+    url: https://www.sorejominbarta.com/country/article/66526
+    media_url: https://sorejominbarta.com/public/uploads/2026-11/IMG-20261109-WA0065_original_1794232731.webp
+    publisher: Sorejomin Barta
+    caption: >-
+      Tahmina Akhtar holds a labelled package of ganja before a Department of Narcotics Control
+      Manikganj press-briefing banner. Photo: Sorejomin Barta / DNC
 sources:
   - title: মানিকগঞ্জে ভাড়াটিয়ার ঘরে ২০০ গ্রাম গাঁজা, নারী মাদক ব্যবসায়ী গ্রেপ্তার
     url: https://www.sorejominbarta.com/country/article/66526

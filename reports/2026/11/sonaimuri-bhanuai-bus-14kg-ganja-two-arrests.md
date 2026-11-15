@@ -41,6 +41,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f0e4a6fc9709e94eedc57b969842f877
 tags: [noakhali, sonaimuri, ganja, bus-checkpoint, dnc]
+media:
+  - kind: photo
+    url: https://durnititalashnewstv.com/archives/3951
+    media_url: https://durnititalashnewstv.com/wp-content/uploads/2026/11/IMG-20261109-WA0159.jpg
+    publisher: Durniti Talash News TV
+    caption: >-
+      The two men arrested on the Sonaimuri bus stand handcuffed behind taped ganja bricks and a
+      phone at a Department of Narcotics Control display. Photo: Durniti Talash News TV
 sources:
   - title: যাত্রীবাহী বাসে মিলল ১৪ কেজি গাঁজা, গ্রেপ্তার ২
     url: https://www.bd-pratidin.com/country/2026/11/09/1323648
