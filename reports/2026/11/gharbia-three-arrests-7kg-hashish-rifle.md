@@ -52,6 +52,11 @@ sources:
     publisher: تليجراف مصر
     date: 2026-11-14
     language: ar
+  - title: ضبط 3 متهمين بترويج المخدرات في الغربية بحوزتهم 7 كيلو حشيش وبندقية آلية
+    url: https://www.sada-elarab.com/826971
+    publisher: صدى العرب
+    date: 2026-11-14
+    language: ar
 media:
   - kind: photo
     url: https://www.youlyou.com/94304
@@ -68,21 +73,26 @@ media:
     media_url: https://media.egypttelegraph.com/2026/11/large/29261782584339202611140525492549.jpg
     publisher: تليجراف مصر
     caption: Photo labelled 'the accused' published with the Egypt Telegraph report on the Gharbia arrests.
+  - kind: photo
+    url: https://www.sada-elarab.com/826971
+    media_url: https://www.sada-elarab.com/upload/photo/news/82/6/600x338o/971.jpg?q=2
+    publisher: صدى العرب
+    caption: Photo captioned as the accused in the Gharbia arrests.
 ---
 
 Security services uncovered the circumstances of a post supported by a video
 clip that had been circulated on social media. [@1,3,4,6] The poster complained that
 the occupants of a private car were promoting narcotic substances in a village
 in Gharbia Governorate. [@1,2,3,4,5] Investigators identified the car appearing in the
-video and arrested those responsible for the incident. [@1,4] The three are
+video and arrested those responsible for the incident. [@1,4,7] The three are
 unemployed men, two of whom have criminal records, and they live in Gharbia and
 Kafr El Sheikh governorates. [@1,2,3,4,5,6]
 
 After legal procedures were completed, officers arrested the suspects while they
-held more than 7 kilograms of hashish. [@1,2,3,4,5] They also held a quantity of ice
+held more than 7 kilograms of hashish. [@1,2,3,4,5,7] They also held a quantity of ice
 drug and an automatic rifle alongside the hashish. [@1,2,3,4,5,6] When confronted, the men
 admitted committing the act as described and possessing the narcotics for the
 purpose of trafficking. [@1,2,3,4,5,6]
 
 Authorities took the necessary legal measures against the suspects, and the
-Public Prosecution took over the investigation. [@1,2,3,4,5]
+Public Prosecution took over the investigation. [@1,2,3,4,5,7]
