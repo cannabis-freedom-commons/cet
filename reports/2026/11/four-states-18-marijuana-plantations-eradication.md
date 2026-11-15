@@ -53,6 +53,11 @@ sources:
     publisher: Diario de México
     date: 2026-11-14
     language: es
+  - title: Destruye Ejército plantíos de droga en Oaxaca y otros 3 estados
+    url: https://oaxaca.quadratin.com.mx/destruye-ejercito-plantios-de-droga-en-oaxaca-y-otros-3-estados/
+    publisher: Quadratín Oaxaca
+    date: 2026-11-14
+    language: es
 open_questions:
   - No number of cannabis plants destroyed was reported, only the count of 18 marijuana plantations.
   - The reported 4.9 hectares and 6.02 million pesos cover poppy and marijuana together and cannot be separated into a cannabis-only figure, so they are kept out of the structured figures.
@@ -65,18 +70,17 @@ open_questions:
 The operations were carried out on 13 November 2026 through ground and air
 reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3] Soldiers
 of the Mexican Army and Air Force located and destroyed 38 drug plantations in
-four states as part of operations against narcotics production. [@3] Of the 38
+four states as part of operations against narcotics production. [@3,4] Of the 38
 plantations, 20 were poppy crops and 18 were marijuana crops, together covering
 4.9 hectares. [@3]
 
 A Milenio Facebook post announced the destruction of 38 poppy and marijuana
 plantations in four states with the participation of the Army and the Air Force.
 [@1] Defence figures put the estimated economic damage to organised crime from
-destroying the crops at 6,020,000 pesos. [@3] The Defence Ministry confirmed the
+destroying the crops at 6,020,000 pesos. [@3,4] The Defence Ministry confirmed the
 operation on 14 November through its official channels. [@2]
 
 No arrests linked to the plantations and no criminal groups allegedly
 responsible for them were reported. [@2] The authorities did not say how many of
 the plantations were destroyed in each state or how the area was divided between
 them. [@2]
-
