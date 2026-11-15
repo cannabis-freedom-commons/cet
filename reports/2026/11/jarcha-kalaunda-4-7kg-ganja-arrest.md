@@ -45,10 +45,11 @@ sources:
     publisher: Do Took Media
     date: 2026-11-14
     language: hi
-open_questions:
-  - No laboratory confirmation or value estimate for the seized ganja was published.
-  - No plea, custody status or court outcome beyond registration of the NDPS case was reported.
-  - Only one accessible account of this arrest was found after searching in Hindi.
+  - title: गांजा तस्कर पर पुलिस का शिकंजा, 4.7 किलो नशा बरामद, अवैध कारोबार करने वालों में खलबली | Police tighten net on cannabis smuggler 4 7 kg contraband seized
+    url: https://www.thejbt.com/india/uttar-pradesh/police-tighten-net-on-cannabis-smuggler-4-7-kg-contraband-seized-news-321871
+    publisher: Janbhawna Times
+    date: 2026-11-14
+    language: hi
 media:
   - kind: photo
     url: https://www.dotookmedia.com/2026/11/47-25.html
@@ -62,16 +63,15 @@ media:
 Jarcha police arrested 25-year-old Afaq near Kalaunda crossing on 13 November
 2026 after a tip about ganja smuggling. [@1] The arrested man was identified as
 Afaq, son of Munnu, a resident of Kalaunda village under Jarcha police station
-in Gautam Buddh Nagar. [@1] Police cordoned off the area near Kalaunda crossing
+in Gautam Buddh Nagar. [@1,2] Police cordoned off the area near Kalaunda crossing
 and took him into custody. [@1]
 
-Officers seized 4 kg 700 g of ganja from his possession during the search. [@1]
+Officers seized 4 kg 700 g of ganja from his possession during the search. [@1,2]
 Police registered case number 200/2026 against him at Jarcha police station
-under sections 8/20 of the NDPS Act. [@1]
+under sections 8/20 of the NDPS Act. [@1,2]
 
 Police said he already faced a 2024 case at Jarcha station under sections
 323/504/506 for alleged assault, abuse and death threats. [@1] He also faced a
 2025 case under sections 3/25 of the Arms Act. [@1] The operation was part of an
 anti-drug-trafficking campaign under way in the Gautam Buddh Nagar
 commissionerate. [@1]
-
