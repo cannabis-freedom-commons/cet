@@ -62,6 +62,10 @@ sources:
     publisher: Dhaka Mail
     date: '2026-11-14'
     language: bn
+  - title: 58 arrested, 38 teen gang members detained in Chandpur police drives
+    url: https://en.banglanews24.com/national/news/bd/197826.details
+    publisher: Banglanews24
+    date: 2026-11-14
 open_questions:
   - >-
     No names, ages, exact arrest sites or ganja-specific suspect roles were published; it is not
@@ -88,21 +92,21 @@ open_questions:
 
 Chandpur district police and detective police ran separate 24-hour-based drives
 across the district's police stations on 12 and 13 November on the instructions
-of Police Superintendent Md Mizanur Rahman. [@1] In the two-day special drive to
+of Police Superintendent Md Mizanur Rahman. [@1,2] In the two-day special drive to
 control law and order and curb crime, police arrested 58 accused and detained 38
-teenage-gang members. [@1]
+teenage-gang members. [@1,2] The figures were disclosed in separate press releases issued by the district police media cell on the morning of Saturday 14 November. [@2]
 
 In the 12 November drive, police arrested 28 accused and detained 20
-teenage-gang members. [@1] Officers recovered 16 yaba pieces in the 12 November
+teenage-gang members. [@1,2] Officers recovered 16 yaba pieces in the 12 November
 drive. [@1] In the 13 November drive, police arrested 30 accused and detained 18
 teenage-gang members, seizing 100 grams of ganja, 190 yaba pieces and 14 grams
-of broken yaba. [@1] For the two days combined, police reported seizing 100
-grams of ganja, 206 yaba pieces and 14 grams of broken yaba tablets. [@1]
+of broken yaba. [@1,2] For the two days combined, police reported seizing 100
+grams of ganja, 206 yaba pieces and 14 grams of broken yaba tablets. [@1,2]
 
 Among those arrested were 17 leaders and activists of the banned Awami League
-and affiliates and seven drug-related accused. [@1] The 12 November arrests
+and affiliates and seven drug-related accused. [@1,2] The 12 November arrests
 included seven banned-organisation activists and three drug-related accused.
 [@1] The 13 November arrests included 10 banned-organisation activists and four
 drug-related accused. [@1] Additional Superintendent Nadia Noor said the
 detained teenagers were handed to their families after verification and legal
-action was taken against the arrested accused. [@1]
+action was taken against the arrested accused. [@1,2]
