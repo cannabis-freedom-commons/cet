@@ -44,6 +44,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6be193aa229518198084e4830630d92f
 tags: [pernambuco, belo-jardim, agreste, pmpe, maconha]
+media:
+  - kind: photo
+    url: https://www.portalagresteviolento.com.br/2026/11/homem-com-tornozeleira-eletronica-e-preso-com-maconha-e-material-para-trafico-em-belo-jardim/
+    media_url: https://www.portalagresteviolento.com.br/wp-content/uploads/2026/11/trafico-belo-jardim.jpg
+    publisher: Portal Agreste Violento
+    caption: >-
+      Cannabis, a precision scale, cash and packaging with a Pernambuco Military Police Tático
+      badge after the Belo Jardim arrest. Photo: Portal Agreste Violento / Polícia Militar PE
 sources:
   - title: HOMEM COM TORNOZELEIRA ELETRÔNICA É PRESO COM MACONHA E MATERIAL PARA TRÁFICO EM BELO JARDIM
     url: https://www.portalagresteviolento.com.br/2026/11/homem-com-tornozeleira-eletronica-e-preso-com-maconha-e-material-para-trafico-em-belo-jardim/

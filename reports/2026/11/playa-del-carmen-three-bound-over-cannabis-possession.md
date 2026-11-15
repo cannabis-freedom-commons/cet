@@ -41,6 +41,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 23eed5721a9e2ac0cee63554603bbbb3
 tags: [playa-del-carmen, quintana-roo, posesion-simple, fiscalia-quintana-roo, prision-preventiva]
+media:
+  - kind: photo
+    url: https://solquintanaroo.mx/envian-a-prision-a-tres-hombres-por-posesion-de-cannabis-en-playa-del-carmen/
+    media_url: https://solquintanaroo.mx/wp-content/uploads/2026/11/888416556_1728926485899639_4871638004875134200_n.jpg
+    publisher: Periódico Sol Quintana Roo
+    caption: >-
+      FGE Quintana Roo vinculación graphic for José Manuel “N”, one of the three men bound over for
+      cannabis possession in Playa del Carmen. Photo: Sol Quintana Roo / FGE QRoo
 sources:
   - title: Envían a prisión a tres hombres por posesión de cannabis en Playa del Carmen
     url: https://solquintanaroo.mx/envian-a-prision-a-tres-hombres-por-posesion-de-cannabis-en-playa-del-carmen/

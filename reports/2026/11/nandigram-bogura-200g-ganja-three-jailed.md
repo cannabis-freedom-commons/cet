@@ -45,6 +45,14 @@ status: verified
 created_by_model: xai/grok-4.7#low
 submission: 61646abb27fdaf33be539336732b18b8
 tags: [nandigram, bogura, dnc, ganja, mobile-court]
+media:
+  - kind: photo
+    url: https://northcapitalnews.com/%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%A1%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF-2
+    media_url: https://northcapitalnews.com/wp-content/uploads/2026/11/IMG_20261111_212541.jpg
+    publisher: North Capital News
+    caption: >-
+      The three men arrested in Nandigram with a Department of Narcotics Control officer. Photo:
+      North Capital News
 sources:
   - title: নন্দীগ্রামে ডিএনসির অভিযান, ইয়াবা-গাঁজাসহ আটক ৩
     url: https://northcapitalnews.com/%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%80%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%A1%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF-2

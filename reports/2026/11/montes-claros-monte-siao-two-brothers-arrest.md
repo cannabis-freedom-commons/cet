@@ -40,6 +40,14 @@ status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 59bf025543067fae253363ab294cc334
 tags: [montes-claros, minas-gerais, maconha]
+media:
+  - kind: photo
+    url: https://geraisnews.com.br/2026/11/05/irmaos-sao-presos-com-drogas-e-plantas-de-maconha-em-operacao-com-cao-farejador-em-montes-claros/
+    media_url: https://geraisnews.com.br/wp-content/uploads/sites/3/2026/11/Trafico-de-drogas-e1793890389909.jpeg
+    publisher: Gerais News
+    caption: >-
+      Marijuana wraps and other drugs from the Monte Sião house raid displayed with a PMMG marker.
+      Photo: Gerais News / Polícia Militar MG
 sources:
   - title: Irmãos são presos com drogas dentro de casa em Montes Claros; um deles agride militar, tenta fugir, mas acaba contido pelos militares | WebTerra
     url: https://webterra.com.br/2026/11/05/irmaos-sao-presos-com-drogas-dentro-de-casa-em-montes-claros-um-deles-agride-militar-e-tenta-fugir-mas-acaba-contido/

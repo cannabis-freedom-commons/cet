@@ -40,6 +40,7 @@ sources:
     date: 2026-11-03
     language: es
 open_questions:
+  - Pulso's graphic for the Huasteca roundup shows three mugshots and mixed evidence including the Matehuala crystal-only stop, so no photo limited to the Ciudad Valles cannabis detention is listed.
   - No weight was published for the marijuana, only about seven doses, so no kilograms can be recorded.
   - No charges, custody ruling or court outcome were reported; the detainees were placed at the disposal of the competent authorities and the investigation was still under way.
   - Cristal quantities and the 10.6 grams of crystal-like substance are excluded from cannabis figures; the Matehuala-Buenavista detention of José Ildefonso “N”, involving only a crystal-like substance, is left out as a separate non-cannabis incident published in the same roundup.

@@ -35,6 +35,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 45161411576e917b59b44d8353e2ca6d
 tags: [bela-vista-de-minas, minas-gerais, maconha, military-police, public-alley]
+media:
+  - kind: photo
+    url: https://asnoticiasonline.com.br/2026/11/09/policia-apreende-dois-pes-de-maconha-cultivados-em-via-publica-em-bela-vista-de-minas/
+    media_url: https://asnoticiasonline.com.br/wp-content/uploads/2026/11/5089bb5d-ce2b-455f-a0dd-0c4b7001a442.jpg
+    publisher: As Notícias Online
+    caption: >-
+      One of the uprooted cannabis plants from the Bandeirantes alley with a PMMG marker. Photo: As
+      Notícias Online / Polícia Militar MG
 sources:
   - title: Polícia apreende dois pés de maconha cultivados em via pública em Bela Vista de Minas
     url: https://asnoticiasonline.com.br/2026/11/09/policia-apreende-dois-pes-de-maconha-cultivados-em-via-publica-em-bela-vista-de-minas/

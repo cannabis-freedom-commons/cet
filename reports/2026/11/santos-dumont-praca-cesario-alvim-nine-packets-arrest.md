@@ -53,6 +53,7 @@ sources:
     date: 2026-11-10
     language: pt
 open_questions:
+  - Portal 14B illustrates the Santos Dumont arrest with a WhatsApp image dated October 2024 rather than this event, so no event photo is listed.
   - No weight was published for the nine buchas of marijuana, so no kilogram figure can be recorded.
   - The reports describe the seized portions as marijuana but give no laboratory confirmation.
   - The suspect was identified only as an 18-year-old man; the reports give no name.

@@ -55,6 +55,7 @@ sources:
     date: 2026-11-11
     language: bn
 open_questions:
+  - BD Bulletin illustrates the Dumki raids with an exterior photo of Dumki Thana and no ganja or accused, so no event photo is listed.
   - Whether the 12:30 night operation on the Satani-Atharogachia road occurred just after midnight on 11 November or on the night of 11 November was not stated precisely; 11 November is used as the incident date for the series.
   - No laboratory confirmation or street-value estimate for the 105 grams was reported.
   - No plea, bail or further court outcome was reported after the five accused were sent to court.

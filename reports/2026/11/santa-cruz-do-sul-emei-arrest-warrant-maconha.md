@@ -32,6 +32,14 @@ status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dbf0ad1028ac5bb556fbd43861ab17a1
 tags: [santa-cruz-do-sul, rio-grande-do-sul, guarda-municipal, maconha, arrest-warrant]
+media:
+  - kind: photo
+    url: https://www.gaz.com.br/homem-e-preso-apos-ser-identificado-por-sistema-de-monitoramento-de-emei/
+    media_url: https://www.gaz.com.br/uploads/2026/11/WhatsApp-Image-2026-11-05-at-09.05.53.jpeg
+    publisher: GAZ
+    caption: >-
+      A ROMU officer escorts the handcuffed fugitive outside the Santa Cruz do Sul Emei after the
+      monitoring alert. Photo: GAZ / Guarda Municipal
 sources:
   - title: Foragido envolvido com tráfico e porte de arma é preso pela Guarda Municipal
     url: https://portalarauto.com.br/05-11-2026/foragido-por-trafico-e-preso-pela-guarda-municipal-tentando-invadir-emei/
