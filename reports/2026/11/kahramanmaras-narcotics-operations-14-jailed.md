@@ -44,22 +44,27 @@ sources:
     publisher: Habertürk
     date: 2026-11-13
     language: tr
+  - title: Metamfetamin, Bonzai, Skunk! Kahramanmaraş’ta 14 Kişi Tutuklandı
+    url: https://www.haber46.com.tr/metamfetamin-bonzai-skunk-kahramanmarasta-14-kisi-tutuklandi
+    publisher: Haber46
+    date: 2026-11-13
+    language: tr
 open_questions:
-  - No separate date is given for the searches or detentions; 13 November 2026 is the publication date of both accounts and is used as the incident date.
-  - The accounts do not say how the 14 jailed relate to the cannabis seizure versus the methamphetamine, bonzai, AMG and pill seizures, so the skunk is recorded as the only cannabis figure without assigning people to individual substances.
-  - Bonzai and its raw material AMG are synthetic cannabinoids and are excluded from the cannabis figures under the tracker scope; captagon, synthetic medicine pills and methamphetamine are not cannabis.
-  - No district, address or suspect names were published, so the report uses Kahramanmaraş province with regional precision.
-  - No charges or court outcome beyond the remands were reported.
+    - The searches ran from 2 to 10 November 2026, but no separate date is given for the detentions or court remands; 13 November 2026 is the publication date and is used as the incident date.
+    - The accounts do not say how the 14 jailed relate to the cannabis seizure versus the methamphetamine, bonzai, AMG and pill seizures, so the skunk is recorded as the only cannabis figure without assigning people to individual substances.
+    - Bonzai and its raw material AMG are synthetic cannabinoids and are excluded from the cannabis figures under the tracker scope; captagon, synthetic medicine pills and methamphetamine are not cannabis.
+    - No district, address or suspect names were published, so the report uses Kahramanmaraş province with regional precision.
+    - No charges or court outcome beyond the remands were reported.
 ---
 
 Kahramanmaraş police detained 17 suspects in narcotics operations and a court
-jailed 14 of them. [@1]
+jailed 14 of them. [@1,3] The operations took place between 2 and 10 November 2026, with searches of the suspects, their persons, vehicles and homes. [@3]
 
 The anti-narcotics team searched the suspects, their vehicles and homes and
 found 77.69 grams of skunk cannabis, 594.57 grams of methamphetamine, 116.96
 grams of bonzai, 20.36 grams of the synthetic cannabinoid raw material AMG, 200
-captagon pills and 50 synthetic medicine pills. [@1] Officers also seized two
-precision scales and 17,010 Turkish lira assessed as proceeds of crime. [@1]
+captagon pills and 50 synthetic medicine pills. [@1,3] Officers also seized two
+precision scales and 17,010 Turkish lira assessed as proceeds of crime. [@1,3]
 
 After police procedures, the 17 suspects were sent to the courthouse; a court
 jailed 14 and released 3 under judicial-control conditions. [@1] The
@@ -68,4 +73,3 @@ the operation to prevent drug trafficking. [@1] A second report of the
 operation, published under the IHA wire, repeats the 17-to-14
 detention-to-remand outcome and the seizure list including 77.69 grams of skunk,
 two precision scales and 17,010 lira. [@2]
-
