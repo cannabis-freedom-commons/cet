@@ -42,6 +42,11 @@ media:
     media_url: https://www.rhein-zeitung.de/cms_media/module_img/8699/4349650_1_figurenolazyxl_20261110_104342.webp
     publisher: Rhein-Zeitung
     caption: 'The building in Jeckenbach where the cannabis plantation was run. Photo: Andrea Brand / Rhein-Zeitung'
+  - kind: photo
+    url: https://www.ici-c-nancy.fr/faits-divers/18516-narcotrafic-un-vaste-coup-de-filet-entre-lallemagne-et-la-meurthe-et-moselle.html
+    media_url: https://www.ici-c-nancy.fr/images/stories/villedenancy/2026/cannabis.jpg
+    publisher: Ici C Nancy
+    caption: 'Police photo of hundreds of seized cannabis plants from the dismantled Franco-German network logistics branch. Photo: Police Nationale 54'
 details:
     activity: [cultivation]
     agencies: [de-bka]
@@ -180,18 +185,24 @@ sources:
     publisher: Rhein-Zeitung
     date: 2026-11-11
     language: de
+  - title: 'Narcotrafic : un vaste coup de filet entre l''Allemagne et la Meurthe-et-Moselle'
+    url: https://www.ici-c-nancy.fr/faits-divers/18516-narcotrafic-un-vaste-coup-de-filet-entre-lallemagne-et-la-meurthe-et-moselle.html
+    publisher: Ici C Nancy
+    date: 2026-11-14
+    language: fr
 open_questions:
     - The 3 November 2026 raid date comes from the authorities' statement; 5 November 2026 is the publication date of the first accounts.
-    - The plant count is reported as more than 2,300, so 2,300 is the stated minimum.
+    - The German plant total is reported as more than 2,300 and as nearly 2,350, so 2,300 is the stated minimum used in the figures.
     - Hashish is one kilogram in some accounts and just under one kilogram in others; the 12.5 kg cannabis total uses one kilogram.
     - Amphetamine, MDMA and ecstasy are excluded from the cannabis figures.
     - Cash of about 22,000 euros and the firearms are not recorded as cannabis figures; the May Pirmasens seizure of about 20 kg is the earlier trigger and is not counted here.
-    - The 13 French arrests and seizures, including 31.4 kilos of cannabis not broken down by product, are parallel measures left out of the German figures.
-    - No charges or trial outcome have been reported.
+    - The French cannabis weight is reported as more than 35 kg of herb and resin and as 31.4 kilos; the report uses the 31.4-kilo figure.
+    - The French charges cover drug detention, transport, offer, acquisition and import, unauthorised weapon detention and refusal to hand over an encryption key, with no trial outcome reported.
     - The Rhein-Zeitung gives 200 to 300 plants at Jeckenbach, while prosecutors said about 300.
     - The customs investigation office did not say what injuries the Jeckenbach suspect suffered, the day of the operation, or whether he remained in custody after transfer to Saarbrücken.
     - It is not stated whether the man arrested at the Jeckenbach house is one of the eight already counted.
     - Some accounts name only Saarland for the eleven addresses, while the joint statement places them in Saarland and the Nordpfälzer Bergland.
+    - 'French accounts differ on the court step: thirteen referred with six detained, five under judicial control and two released, against eleven brought before the magistrates.'
 ---
 
 Customs officers arrested eight people aged 22 to 54 on suspicion of cultivating and dealing
@@ -225,7 +236,7 @@ The authorities said the investigations are continuing. [@2,3,4,5,9,14]
 ## France
 
 French authorities carried out parallel searches in the Grand Est at the same time and arrested 13
-people. [@1,3,4,7,9,10,11,12,13,14,18,21] Prosecutors and an investigating judge in Nancy, working with
+people. [@1,3,4,7,9,10,11,12,13,14,18,21,24] In France, the 3 November arrests were supported by the Unité d'Investigation Nationale, RAID 54, the Metz BRI and the DCT BSI. [@24] Prosecutors and an investigating judge in Nancy, working with
 the German authorities, were investigating an Albanian criminal group based in Germany. [@18] The
 raids were in Nancy, Custines, Maxéville, Essey-lès-Nancy, Frouard and Vandœuvre-lès-Nancy, where
 more than 30 kg of drugs were seized. [@18] Officers in France seized 31.4 kilos of cannabis along with
