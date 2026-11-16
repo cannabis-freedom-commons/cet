@@ -103,6 +103,11 @@ sources:
     publisher: Harian Metro
     date: 2026-11-09
     language: ms
+  - title: Tukang masak Malaysia ditahan seludup 17.88kg ganja bernilai RM2.3 juta di Mauritius
+    url: https://malaysiatribune.news/tukang-masak-malaysia-ditahan-seludup-17-88kg-ganja-bernilai-rm2-3-juta-di-mauritius/
+    publisher: Malaysia Tribune
+    date: 2026-10-29
+    language: ms
 media:
   - kind: photo
     url: https://defimedia.info/plaisance-saisie-de-rs-255-m-de-cannabis-sur-un-cuisinier-malaisien
@@ -110,55 +115,29 @@ media:
     publisher: Le Défi Media Group
     caption: "The suspect beside vacuum-packed cannabis bags labelled Flower. Photo: Le Défi Media"
 open_questions:
-  - >-
-    Le Défi Media Group valued the haul at Rs 25.5 million; The Rakyat Post gives RM2.3 million, about Rs
-    26.88 million. The report keeps the Le Défi figure and the difference is left open.
-  - >-
-    The Rakyat Post describes the provisional charge as importing dangerous drugs for distribution; the report
-    uses the fuller charge wording recorded by Le Défi Media Group.
-  - >-
-    The Rakyat Post's picture is credited to Defi Media and appears to be the same photograph already listed
-    in the report, so it was not added a second time.
-  - >-
-    The 15 September case of a 70-year-old Malaysian held with 6.18 kg at the same airport is a different
-    event left out here.
-  - >-
-    The opened image page contains only the caption and no article body, so suspect name, flight EK709, agency
-    units and controlled delivery are not corroborated by this page.
-  - >-
-    The two accounts value the seizure differently: RM2.3 million here against about RM2.18 million in the
-    newswire brief.
-  - The chef was not named in either account.
-  - >-
-    A separate 15 September case, a 70-year-old Malaysian held with 6.18 kg after arriving from Kuala Lumpur,
-    is a different event left out here.
-  - The newswire brief corroborates the arrest but adds no independent reporting.
-  - No trial date or later outcome was reported.
-  - >-
-    The original report was imported without a recorded creator model; its original unknown attribution is
-    preserved.
-  - The new source does not name the suspect, flight EK709, or ADSU/CANS; those details rest on the existing sources.
-  - The article also describes a separate 15 September arrest of a Malaysian with 6.18 kg at the same airport, a different event recorded separately and left out here.
-  - The Berita Harian page is an AI-generated news summary and names no suspect, flight or agency unit.
-  - Harian Metro gives 17.8 kg for the cook's luggage, a slightly different figure from the 17.88 kg recorded in this report; the difference is left open.
+    - Accounts value the haul at Rs 25.5 million, about RM2.3 million or Rs 26.88 million, and about RM2.18 million; the report uses Rs 25.5 million.
+    - The provisional charge is described as importing dangerous drugs for distribution in one account and as drug dealing by importing dangerous drugs with an averment of trafficking in another.
+    - A separate 15 September 2026 arrest of a 70-year-old Malaysian with 6.18 kg of cannabis at the same airport is a different event and is not covered here.
+    - Harian Metro gives 17.8 kg for the cook's luggage, slightly different from the 17.88 kg recorded in the report.
+    - No trial date or later outcome was reported.
 ---
 
-Mauritian officers arrested a Malaysian cook arriving from Dubai with 17.88 kilograms of cannabis in his luggage. [@1,2,3,4,5,6,7,8,10]
+Mauritian officers arrested a Malaysian cook arriving from Dubai with 17.88 kilograms of cannabis in his luggage. [@1,2,3,4,5,6,7,8,10,12]
 
 Officers of the Anti Drug and Smuggling Unit and the Customs Anti Narcotics
 Section were watching passengers off flight EK709 from Dubai, which landed
 around 3 p.m. on Friday 23 October, when customs checks on suspicious luggage
 flagged the suitcase of Sia Guan Kueh, a Malaysian national working as a cook.
 [@1,7] A scanner check and full search found cannabis packed in 17 compressed
-bags weighing 17.88 kg net, worth an estimated Rs 25.5 million. [@1,4]
+bags weighing 17.88 kg net, worth an estimated Rs 25.5 million. [@1,4,12]
 
 Kueh was arrested and questioned by ADSU investigators, who ran a controlled
 delivery with dummy parcels to identify the consignment's recipient; the
-recipient never came to collect it and was not caught. [@1,2,3,7,9] His mobile phone
+recipient never came to collect it and was not caught. [@1,2,3,7,9,12] His mobile phone
 was seized for examination, along with Rs 8,150 and Malaysian and Thai currency
-found on him. [@1,2,3,7] He was placed in police detention under a provisional charge
+found on him. [@1,2,3,7,12] He was placed in police detention under a provisional charge
 of drug dealing by importing dangerous drugs with an averment of trafficking.
-[@1,2,3]
+[@1,2,3,12]
 
 A 55-year-old Malaysian chef was arrested in Mauritius on 23 October 2026 after [@5] authorities allegedly found 17.88 kg of suspected cannabis, worth RM2.3 million [@5] (26.88 million Mauritian rupees), hidden in his luggage. [@5]
 
