@@ -59,26 +59,25 @@ sources:
     publisher: Radio Cadena YSKL
     date: 2026-11-15
     language: es
-open_questions:
-  - No weight, volume or estimated value for the marijuana or the methamphetamine was published, so no cannabis weight is recorded.
-  - The methamphetamine seized in the same search is a non-cannabis substance and is excluded from the cannabis figures.
-  - No charge filing, custody ruling or court outcome beyond the announced referral for illicit trafficking was reported.
-  - The operation is dated to a Sunday patrol and reported on 15 November 2026; no separate hour for the search was stated.
-  - The same Infobae page also reports a separate seizure of cocaine portions, cash and phones from two people in a vehicle in San Miguel Centro, a different event left out here.
+  - title: Capturan a hombre con marihuana y metanfetamina en Mejicanos - La Prensa Gráfica
+    url: https://www.laprensagrafica.com/elsalvador/capturan-a-hombre-con-marihuana-y-metanfetamina-en-mejicanos-20261115-0002.html
+    publisher: La Prensa Gráfica
+    date: 2026-11-15
+    language: es
 ---
 
 National Civil Police officers detained 42-year-old Jose Manuel Maravilla Flores
-during a preventive patrol in Mejicanos, San Salvador Centro. [@1] A blue bag he
+during a preventive patrol in Mejicanos, San Salvador Centro. [@1,4] A blue bag he
 was carrying drew the officers' attention and led to a preventive search. [@1]
 
 Inside the bag he carried a large plastic container with marijuana and a second
-container with methamphetamine. [@1] Officers also seized two digital scales and
-a mobile telephone during the procedure. [@1] Police said the scales and
+container with methamphetamine. [@1,4] Officers also seized two digital scales and
+a mobile telephone during the procedure. [@1,4] Police said the scales and
 telephone will be added to investigative steps to establish the origin, the
 quantity seized and the possible destination of the drugs. [@1]
 
 Police said Maravilla Flores will be referred for the offence of illicit
-trafficking. [@1] Authorities published no weight or value for the seized
+trafficking. [@1,4] Authorities published no weight or value for the seized
 substances, which the account links to possible distribution or resale activity.
 [@1] The attributed offence falls under article 33 of the Law Regulating
 Activities Related to Drugs, which punishes unauthorized transport, storage,
@@ -89,4 +88,3 @@ digital scales and a mobile telephone. [@2] Radio YSKL confirmed the Sunday
 patrol detention in Mejicanos and that the blue bag held a large container with
 marijuana, another with methamphetamine, two digital scales and a mobile
 telephone. [@3]
-
