@@ -56,22 +56,27 @@ sources:
     publisher: A Crítica de Campo Grande
     date: 2026-11-16
     language: pt
+  - title: Passageiro de aplicativo é preso com skunk que seriam levados para Curitiba
+    url: https://www.maracajuspeed.com.br/noticia/passageiro-de-aplicativo-e-preso-com-skunk-que-seriam-levados-para-curitiba
+    publisher: Maracaju Speed
+    date: 2026-11-16
+    language: pt
 ---
 
 A rideshare passenger was arrested on BR-463 in Ponta Porã on the afternoon of
 Saturday 14 November 2026 with 22.05 kilograms of skunk that he said would be
-taken to Curitiba. [@1,2] The seizure was carried out by a Rádio Patrulha (radio
-patrol) team of the 4th Military Police Battalion at about 12h50. [@1,2] The
+taken to Curitiba. [@1,2,3] The seizure was carried out by a Rádio Patrulha (radio
+patrol) team of the 4th Military Police Battalion at about 12h50. [@1,2,3] The
 officers were patrolling Avenida Vinícius Soares do Nascimento when they noticed
 a black Toyota Corolla Cross in a suspicious attitude, and after following it
-they stopped the car on the highway. [@1] The car carried the driver, working a
+they stopped the car on the highway. [@1,3] The car carried the driver, working a
 ride booked through an app, and a passenger whose initial destination was
-Dourados. [@1]
+Dourados. [@1,3]
 
 During the trunk search the officers found two suitcases belonging to the
-passenger, with 22.05 kilograms of skunk inside. [@1,2] Questioned, the passenger
-said he would receive R$ 2,500 for taking the drug to Curitiba. [@1,2] The driver
-said he did not know the contents of the luggage. [@1,2]
+passenger, with 22.05 kilograms of skunk inside. [@1,2,3] Questioned, the passenger
+said he would receive R$ 2,500 for taking the drug to Curitiba. [@1,2,3] The driver
+said he did not know the contents of the luggage. [@1,2,3]
 
 The passenger was formally arrested for drug trafficking and was taken, together
-with the drug, to the Primeira Delegacia de Polícia Civil de Ponta Porã. [@1,2]
+with the drug, to the Primeira Delegacia de Polícia Civil de Ponta Porã. [@1,2,3]
