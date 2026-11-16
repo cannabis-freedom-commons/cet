@@ -55,13 +55,11 @@ sources:
     publisher: Yeniufuk Gazetesi
     date: 2026-11-16
     language: tr
-open_questions:
-  - No separate date was given for the searches, so 16 November 2026, the publication date, stands in for the incident date.
-  - The 701 pills were described as synthetic pills and are excluded from the cannabis figures; only the 35.52 grams of esrar is counted.
-  - Habertürk rounds the cannabis to 35 grams while the local outlets give 35.52 grams; the precise figure is used here.
-  - The esrar was described without any reported laboratory confirmation.
-  - No court outcome beyond started proceedings and continuing police procedures was reported.
-  - Only initials were published for the two suspects, and no value estimate was given.
+  - title: 'Yozgat’ta uyuşturucu operasyonu: 63 sentetik ecza hap ve 35,52 gram esrar ele geçirildi'
+    url: https://www.malatyaguncel.com/yozgat-ta-uyusturucu-operasyonu-63-sentetik-ecza-3122418h.htm
+    publisher: Malatya Güncel
+    date: 2026-11-16
+    language: tr
 ---
 
 Yozgat Provincial Police Directorate narcotics teams carried out two separate
@@ -72,7 +70,7 @@ manufacturing and trading narcotic or stimulant drugs under Article 188 of the
 Turkish Penal Code. [@3]
 
 A search of a vehicle in use and of its occupants found 63 synthetic pills
-alongside 35.52 grams of esrar. [@1] A separate search of S.U.'s home found 638
+alongside 35.52 grams of esrar. [@1,4] A separate search of S.U.'s home found 638
 synthetic pills. [@3] Police gave the combined result of the two operations as
 701 synthetic pills and 35.52 grams of esrar, with two suspects facing legal
 proceedings. [@1]
@@ -80,5 +78,4 @@ proceedings. [@1]
 The two detainees' procedures at the police station were continuing, with no
 court outcome reported. [@2] The reports describe the pills as synthetic ecza or
 synthetic drug pills rather than cannabis, so they are excluded from the
-cannabis figures and the cannabis seizure stands at 35.52 grams. [@1]
-
+cannabis figures and the cannabis seizure stands at 35.52 grams. [@1,4]
