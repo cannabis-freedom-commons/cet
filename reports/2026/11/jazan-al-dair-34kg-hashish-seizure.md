@@ -53,6 +53,11 @@ sources:
     publisher: صحيفة صراحة الالكترونية
     date: 2026-11-14
     language: ar
+  - title: الدوريات البرية تحبط محاولة لتهريب 34 كيلوجراماً من الحشيش في جازان – الاستاد الاخباري
+    url: https://www.alestad.com/155981/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AD%D8%A8%D8%B7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D9%84%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-34-%D9%83%D9%8A/
+    publisher: الاستاد الاخباري
+    date: 2026-11-14
+    language: ar
 open_questions:
     - The article gives no separate date for the interception; 14 November 2026 is its publication date and is used as the incident date.
     - No suspect was named and no arrest figure, nationality, charge or court outcome was reported.
@@ -61,9 +66,9 @@ open_questions:
 ---
 
 Saudi Border Guard land patrols in the Al-Dair sector of Jazan region foiled an
-attempt to smuggle 34 kilograms of hashish. [@1,2,3,4] The Border Guard said in a
+attempt to smuggle 34 kilograms of hashish. [@1,2,3,4,5] The Border Guard said in a
 statement on the X platform that the initial legal procedures had been completed
-and the seized drugs handed over to the competent authority. [@1,4]
+and the seized drugs handed over to the competent authority. [@1,4,5]
 
 The security agencies urged citizens and residents to report information about
 drug smuggling or promotion through 911 in the Mecca, Medina, Riyadh and Eastern
