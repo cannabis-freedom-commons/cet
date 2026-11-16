@@ -53,6 +53,9 @@ sources:
     url: https://www.news9.com/crime/bethany-oklahoma-diaz-aguilar-sentenced-guns-marijuana
     publisher: News9.com
     date: 2026-11-14
+  - title: Bethany man sentenced to 30 months for guns, marijuana distribution charges
+    url: https://www.msn.com/en-us/news/other/bethany-man-sentenced-to-30-months-for-guns-marijuana-distribution-charges/ar-AA2hrYlb
+    publisher: Oklahoma's Own News 9
 open_questions:
   - No arrest, custody or surrender date was reported; the article describes a traffic stop and a home search during an investigation that began in January 2025.
   - The approximately 500 THC vape cartridges carry no stated weight, so the total cannabis quantity cannot be given beyond the 5 pounds of marijuana.
@@ -62,7 +65,7 @@ open_questions:
 
 Rolando Felipe Diaz Aguilar, a 20-year-old Bethany man, was sentenced on 12
 November 2026 to 30 months in federal prison followed by three years of
-supervised release. [@1] U.S. District Judge Jodi W. Dishman imposed the
+supervised release. [@1,2] U.S. District Judge Jodi W. Dishman imposed the
 sentence on 12 November 2026. [@1]
 
 Bethany police received information in January 2025 alleging that Diaz Aguilar
@@ -71,11 +74,10 @@ observed Diaz Aguilar meet another person at a park for what authorities
 described as a drug transaction, and later stopped him for a traffic violation
 and found two firearms. [@1] During a search of his home, officers found about 5
 pounds (about 2.27 kilograms) of marijuana, approximately 500 THC vape
-cartridges and materials associated with drug distribution. [@1] Officers also
+cartridges and materials associated with drug distribution. [@1,2] Officers also
 recovered three additional firearms, including a multicaliber pistol. [@1]
 
 Federal prosecutors charged Diaz Aguilar on 3 December 2025 with two counts of
 being an unlawful drug user in possession of firearms and one count of
-possession of marijuana with intent to distribute. [@1] He pleaded guilty to all
+possession of marijuana with intent to distribute. [@1,2] He pleaded guilty to all
 three counts on 5 February 2026. [@1]
-
