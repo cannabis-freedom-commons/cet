@@ -85,11 +85,18 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-09
     language: ar
+  - title: 16 ديسمبر.. الحكم في قضية البلوجر «أوتاكا» بتهمة حيازة المخدرات بقصد الاتجار | المصير
+    url: https://elmaser.com/article/201262
+    publisher: المصير
+    date: 2026-11-09
+    language: ar
+open_questions:
+  - The in-court denial and the reported admission during confrontation stand in tension; no court finding on the admission was reported.
 ---
 
 A Cairo criminal court sitting in the Fifth Settlement heard the
 drug-trafficking trial of Mohamed Alaa, known as Ottaka, on 9 November and set
-16 December for its verdict. [@2,7,8] Ottaka is a TikToker and the ex-husband of
+16 December for its verdict. [@2,7,8,9] Ottaka is a TikToker and the ex-husband of
 blogger Hadeer Abdelrazek, and he is the only defendant in the case. [@1] Sada
 Elbalad carried the same decision, saying the court reserved the case for a
 verdict on 16 December. [@4,6] The court had adjourned the case to the third
@@ -98,11 +105,11 @@ session of the October term, which fell on 9 November, after an earlier hearing.
 carries a heavier penalty if he is convicted. [@2,8]
 
 According to the case file, the drugs were about 400 grams of hashish and
-roughly 12 grams of cocaine; he denies the charges. [@2,7] Al-Masry Al-Youm
+roughly 12 grams of cocaine; he denies the charges. [@2,7,9] Al-Masry Al-Youm
 reported the same amounts from the referral papers the day before the hearing.
 [@3] The Interior Ministry said officers arrested him at his home in the Shorouk
 police-station district of Cairo after complaints about videos it called
-indecent, and found hashish and cocaine with him. [@3,6]
+indecent, and found hashish and cocaine with him. [@3,6,9] The Interior Ministry statement quoted in the account said he admitted, when confronted, possessing the drugs for sale and posting the reported videos to boost views and earnings. [@9]
 
 The court ordered the officers who carried out the arrest and search to give
 evidence, and added the day's registers of the Shorouk police station and the
