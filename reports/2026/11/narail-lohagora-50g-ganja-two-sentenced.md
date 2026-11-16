@@ -57,20 +57,31 @@ sources:
     publisher: Daily Bangla Post
     date: 2026-11-16
     language: bn
+  - title: নড়াইলে ইয়াবা ও গাঁজাসহ আটক দুই মাদক কারবারি কারাগারে
+    url: https://dhakamail.com/country/343244
+    publisher: Dhaka Mail
+    date: 2026-11-15
+    language: bn
+media:
+  - kind: photo
+    url: https://dhakamail.com/country/343244
+    media_url: https://cdx.dhakamail.com/media/images/2026November/00_20261115_223852353.jpg
+    publisher: Dhaka Mail
+    caption: 'The two sentenced men from the Noapara operation. Photo: Dhaka Mail'
 ---
 
 The Narail district narcotics office detained Md. Kalam Sheikh and Md. Milon
 Sardar in Lohagora upazila with yaba tablets and ganja. [@1,2] Officers detained
 the two men in Noapara on Sunday between 4 p.m. and 4.30 p.m. on 15 November
 2026. [@1,2,3] The detainees were Md. Kalam Sheikh, 55, and Md. Milon Sardar, 35,
-both from Noapara village. [@1,2,3]
+both from Noapara village. [@1,2,3,4]
 
 Officers recovered 25 yaba tablets from Kalam Sheikh and 50 grams of ganja from
-Milon Sardar. [@1,2,3] After the operation, Narail district narcotics inspector
+Milon Sardar. [@1,2,3,4] After the operation, Narail district narcotics inspector
 Abdul Mannan filed the mobile-court prosecution as the complainant. [@1,2,3]
 Executive Magistrate Likhan Kumar Roy, conducting the mobile court, gave Kalam
 Sheikh 180 days of labour imprisonment and a 10,000-taka fine and Milon Sardar
-90 days of labour imprisonment and a 500-taka fine. [@1,2,3]
+90 days of labour imprisonment and a 500-taka fine. [@1,2,3,4] The two men were then sent to the district jail. [@4]
 
 The Narail district narcotics office said such operations would continue
 regularly to prevent drug abuse. [@1,2]
