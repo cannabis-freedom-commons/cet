@@ -40,12 +40,22 @@ sources:
     publisher: CataniaToday
     date: 2026-11-15
     language: it
+  - title: 'Catania, marijuana nascosta sul tetto di un garage: 22enne arrestato con 170 dosi'
+    url: https://qds.it/catania-arresto-pusher-trappeto-170-dosi-marijuana/
+    publisher: QdS
+    date: 2026-11-15
+    language: it
 open_questions:
-  - No weight for the 170 doses was published, so no cannabis weight is recorded.
-  - The seized material was described as marijuana before the announced laboratory analysis, with no confirmed result reported.
-  - The article gives no separate date for the arrest; 15 November 2026 is its publication date and is used as the incident date.
-  - Only one accessible source for this event was found.
-  - No name, plea or further court outcome beyond the obligation to remain at home was reported.
+    - No weight for the 170 doses was published, so no cannabis weight is recorded.
+    - The seized material was described as marijuana before the announced laboratory analysis, with no confirmed result reported.
+    - The article gives no separate date for the arrest; 15 November 2026 is its publication date and is used as the incident date.
+    - No name, plea or further court outcome beyond the obligation to remain at home was reported.
+media:
+  - kind: photo
+    url: https://qds.it/catania-arresto-pusher-trappeto-170-dosi-marijuana/
+    media_url: https://qds.it/wp-content/uploads/2026/11/foto-catania.jpg
+    publisher: QdS
+    caption: 'Carabinieri operation in Trappeto that led to the 170-dose seizure, from the press-release handout. Photo: da comunicato'
 ---
 
 A 22-year-old man from Catania was arrested by Carabinieri of the Fontanarossa
@@ -61,13 +71,12 @@ previous judicial reports, approach a garage and take a bag from its roof and
 hide it under his jacket. [@1] When the Carabinieri intervened, he tried to flee
 but was stopped by the second team a few metres away. [@1]
 
-Officers seized a total of 170 doses of marijuana. [@1] The search found 71
+Officers seized a total of 170 doses of marijuana. [@1,2] The search found 71
 doses of marijuana hidden under his jacket and another 100 doses at the spot on
-the garage roof from which the bag had been taken. [@1] All the drugs were
+the garage roof from which the bag had been taken. [@1,2] All the drugs were
 seized and will be analysed by the Catania provincial Carabinieri command's
 drug-analysis laboratory for technical tests ordered by the judicial authority.
 [@1]
 
 The 22-year-old was declared under arrest and, on the judicial authority's
-order, placed under an obligation to remain at his dwelling. [@1]
-
+order, placed under an obligation to remain at his dwelling. [@1,2]
