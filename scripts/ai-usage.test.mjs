@@ -53,12 +53,31 @@ test('efficiency per model splits cost and time by outcome', async () => {
 
 test('efficiency gives plan shares where a plan covers the model, else API prices', async () => {
   const { summarizeEfficiency } = await import('../src/lib/ai-usage.js');
-  const b = { model: 'xai/grok-4.7#low', category: 'new', runs: 2, running: 0, input_tokens: 0, output_tokens: 0, reasoning_tokens: 0, cache_read_tokens: 0, cache_write_tokens: 0, cost_usd: 0.4, timed: 2, duration_seconds: 100, started_at: 1 };
+  const b = { model: 'opencode-go/deepseek-v4.1-flash#max', category: 'new', runs: 2, running: 0, input_tokens: 0, output_tokens: 0, reasoning_tokens: 0, cache_read_tokens: 0, cache_write_tokens: 0, cost_usd: 0.4, timed: 2, duration_seconds: 100, started_at: 1 };
   const [planned] = summarizeEfficiency([b], [], { multiplier: 4 });
+  // a model whose cost only OpenCode reports (an API key) is not on the configured plan
+  const [grok] = summarizeEfficiency([{ ...b, model: 'xai/grok-4.7#low' }], [], { multiplier: 4 });
+  assert.equal(grok.onPlan, false);
+  assert.equal(grok.outcomes.new.planAvgCost, 0.2);
   assert.equal(planned.onPlan, true);
   assert.equal(planned.outcomes.new.planAvgCost, 0.05);
   assert.equal(planned.planPerNew, 0.05);
   const [paid] = summarizeEfficiency([b], [], null);
   assert.equal(paid.onPlan, false);
   assert.equal(paid.outcomes.new.planAvgCost, 0.2);
+});
+
+test('usage splits each model\'s cost into fresh input, cache and output, and says where a cache price is missing', () => {
+  const run = (model, extra = {}) => ({ model, started_at: 1793275200, runs: 1, running: 0, input_tokens: 1e6, cache_read_tokens: 4e6, cache_write_tokens: 0, output_tokens: 1e6, reasoning_tokens: 1e6, cost_usd: 0, ...extra });
+  const { rows, totals } = summarizeAIUsage([run('swancloud/muse-spark-1.3-contributor#xhigh'), run('swancloud/claude-haiku-5.5'), run('xai/grok-4.7#low', { cost_usd: 2 }), run('openai/gpt-6-luna#max')], { price_usd: 10, allowance_usd: 180 });
+  const muse = rows.find((r) => r.name === 'muse-spark-1.3-contributor');
+  assert.equal(muse.fresh, 1e6); assert.equal(muse.cached, 4e6); assert.equal(muse.output, 2e6);
+  assert.ok(Math.abs(muse.costCacheRead - 0.008) < 1e-12 && Math.abs(muse.costInput - 0.1) < 1e-12 && Math.abs(muse.costOutput - 0.4) < 1e-12);
+  assert.equal(muse.cachedAtInput, false);
+  assert.equal(muse.label, 'Muse Spark 1.3 Contributor');
+  assert.equal(rows.find((r) => r.name === 'claude-haiku-5.5').cachedAtInput, true);
+  const grok = rows.find((r) => r.name === 'grok-4.7');
+  assert.equal(grok.reported, 2); assert.equal(grok.plan, null); assert.equal(grok.planCost, 0);
+  assert.equal(totals.unpriced, 1); assert.equal(totals.unpricedTokens, 7e6);
+  assert.ok(Math.abs(totals.cost - (totals.reported + totals.costInput + totals.costCacheRead + totals.costCacheWrite + totals.costOutput)) < 1e-12);
 });

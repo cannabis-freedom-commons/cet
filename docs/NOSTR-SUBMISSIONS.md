@@ -819,32 +819,22 @@ and startup probes. SQL aggregates research runs directly, without joining recei
 The endpoint returns only aggregate telemetry, grouped by model, peak/off-peak tier
 and reported-cost availability. It never exports prompts, sessions or source evidence.
 
-Input totals include cache reads/writes; output totals include reasoning. The frontend
-uses the same cost helper as submission details: reported OpenCode costs take precedence,
-otherwise known model pricing is estimated using the start-time tier. Unknown prices
-are explicitly excluded from cost totals. Plan share uses the current subscription
-configuration and is an allocation estimate, not additional billing. Interrupted/running
-usage may be incomplete. Backend restart is required to expose the new endpoint.
+The statistics page splits tokens and cost by kind: fresh input, cache reads (with their share of
+all input), cache writes and output (reasoning included), each with what it cost and the price per
+million tokens it came to. Reported OpenCode costs take precedence and are shown as one sum, since
+OpenCode does not split them; otherwise known model pricing is estimated using the start-time tier.
+Models with no price are listed with their tokens and left out of every cost, and the page names
+them. Interrupted/running usage may be incomplete.
 
-Swancloud token estimates use the operator-supplied USD prices per million tokens:
-`muse-spark-1.3-contributor` input $0.100/output $0.200, and `deepseek-v4.1-flash`
-input $0.150/output $0.090. These rates have no time-of-day adjustment. Reasoning uses output
-pricing; cache reads/writes use standard input pricing because no separate cache rate was supplied.
-Reported API costs still take precedence. The operator's 15× Swancloud plan is estimated as API
-value divided by 15, separately for each run. This applies only to these Swancloud model IDs,
-including reasoning variants; OpenCode DeepSeek runs retain the configured price/allowance ratio.
-
-`swancloud/claude-haiku-5.5` uses the operator-supplied screenshot rates of $0.015 input
-and $0.075 output per million tokens, with cache reads/writes at the standard input rate.
-Reasoning uses output pricing; no peak adjustment applies. Its 15× plan allocation is API
-value divided by 15, including reasoning variants and reported API costs. The same pricing
-is used by run details, statistics and submission cost sorting.
-
-`opencode-go/muse-spark-1.3-contributor` uses operator-supplied API prices per million tokens:
-input $0.10, output $0.20 and cache reads $0.002, with no time-of-day adjustment. Cache writes
-use the standard input rate because no separate rate was supplied; reasoning uses output pricing.
-Its 6× plan allocation is API value divided by 6, including reasoning variants and reported API costs.
-The register, request detail, report research summary and AI statistics use the same calculations.
+Every price, plan multiplier and peak window is in `src/lib/models.js` (operator-supplied rates
+for Swancloud and OpenCode Go Muse; published rates for OpenAI and OpenCode Go DeepSeek). Where no
+cache price was supplied (Swancloud Claude Haiku 5.5 and DeepSeek V4.1 Flash), cache reads are
+counted at the fresh-input price, and the page marks them "at input price". Plan share is API value
+divided by the model's own multiplier (Swancloud 15×, OpenCode Go Muse 6×); the configured
+RESEARCH_PLAN_USD / RESEARCH_PLAN_ALLOWANCE_USD ratio is the OpenCode Go subscription and covers
+only that provider (`CONFIGURED_PLAN_PROVIDERS`). API keys (OpenAI, xAI) are paid as used and have
+no plan share. Plan share is an allocation estimate, not additional billing. The register, request
+detail, report research summary and AI statistics use the same calculations.
 Cost sorting uses API value, including the Swancloud and OpenCode Go Muse estimates.
 
 ## Photo thumbnails

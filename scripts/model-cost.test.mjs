@@ -97,3 +97,11 @@ test("OpenCode Go Muse uses supplied cache pricing and a 6× plan at every hour"
     }
   }
 });
+
+test('the configured plan (OpenCode Go) covers only its own provider; API keys are paid as used', () => {
+  const plan = { price_usd: 10, allowance_usd: 180 };
+  assert.equal(modelPlan('opencode-go/deepseek-v4.1-flash#max', plan), plan);
+  assert.equal(modelPlan('openai/gpt-6.1-terra#medium', plan), null);
+  assert.equal(modelPlan('xai/grok-4.7#low', plan), null);
+  assert.equal(planCost(18, plan, 'openai/gpt-6.1-terra'), 0);
+});

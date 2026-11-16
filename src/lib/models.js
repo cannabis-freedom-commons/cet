@@ -14,6 +14,11 @@ const OPENCODE_GO_PEAK = { days: [1, 2, 3, 4, 5], hours: [[1, 4], [6, 10]] };
 // how the providers' ids in a run's model ("swancloud/…") are shown
 export const PROVIDER_NAMES = { openai: "OpenAI", swancloud: "Swancloud", "opencode-go": "OpenCode Go" };
 
+// the providers whose subscription is the one configured on the server (RESEARCH_PLAN_USD and
+// RESEARCH_PLAN_ALLOWANCE_USD: OpenCode Go, $10 a month); a model there without a `planMultiplier`
+// of its own takes that plan's ratio. Every other provider without a multiplier is paid as used.
+export const CONFIGURED_PLAN_PROVIDERS = ["opencode-go"];
+
 // Each model once, with its price at every provider that offers it. Prices: `input`, `output`;
 // `cached` (cache reads) and `cacheWrite` fall back to `input` where no rate of their own was
 // supplied; `peak` with `peakInput`/`peakOutput`/`peakCached` for hours that cost more;

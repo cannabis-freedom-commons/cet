@@ -310,11 +310,17 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
     <p id="ai-stats-status" role="status">{api ? "Loading AI usage…" : "Connect the submissions service to see AI usage."}</p>
     <div id="ai-stats-content" hidden data-no-glossary>
       <div class="tiles" id="ai-stats-tiles"></div>
-      <div class="table-wrap"><table class="table">
-        <thead><tr><th scope="col">Model</th><th scope="col" class="num">Runs</th><th scope="col" class="num">Input tokens</th><th scope="col" class="num">Output tokens</th><th scope="col" class="num">API cost</th><th scope="col" class="num" data-plan-cost hidden>Plan share</th></tr></thead>
+      <h3 class="usage-h">Where the tokens and the money go</h3>
+      <p class="muted usage-intro">Every model with a price, together. A research run rereads its earlier steps, so most of what it reads comes from the provider's cache, which costs a fraction of fresh input.</p>
+      <div class="usage-split" id="ai-stats-split"></div>
+      <h3 class="usage-h">By model</h3>
+      <p class="muted usage-intro">Each token column gives the tokens and, under them, what they cost and the price per million tokens they come to. Reasoning counts as output.</p>
+      <div class="table-wrap usage-wide"><table class="table usage-table">
+        <thead><tr><th scope="col">Model</th><th scope="col" class="num">Runs</th><th scope="col" class="num" title="Input the provider had not seen before">Fresh input</th><th scope="col" class="num" title="Input read back from the provider's cache, and its share of all input">Cache reads</th><th scope="col" class="num" title="Answers and reasoning">Output</th><th scope="col" class="num">API cost</th><th scope="col" class="num" data-plan-cost hidden title="What the runs take of a subscription, where one covers the model">Plan share</th><th scope="col" class="num">Per run</th></tr></thead>
         <tbody id="ai-stats-models"></tbody>
+        <tfoot id="ai-stats-total"></tfoot>
       </table></div>
-      <p class="muted" id="ai-stats-note"></p>
+      <ul class="muted usage-notes" id="ai-stats-note"></ul>
       <div id="ai-efficiency" class="ai-efficiency" data-chart hidden>
         <div class="eff-head">
           <h3>What each kind of work costs</h3>
@@ -504,6 +510,28 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
   .source-domain-link span { overflow-wrap: anywhere; }
 </style>
 <style is:global>
+  /* the AI usage split and table, drawn by scripts/ai-stats.js */
+  .usage-h { margin: 28px 0 4px; font: 600 14px/1.4 Inter, system-ui, sans-serif; }
+  .usage-intro { margin: 0 0 12px; font-size: 13px; }
+  .usage-split { display: grid; gap: 14px; padding: 14px 16px; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; }
+  .usage-bar-title { display: flex; justify-content: space-between; gap: 8px; font: 12px var(--mono); color: var(--muted); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 5px; }
+  .usage-bar { display: flex; height: 14px; border-radius: 3px; overflow: hidden; background: var(--border); }
+  .usage-bar i { display: block; height: 100%; min-width: 1px; background: var(--c); }
+  .usage-bar i + i { box-shadow: inset 1px 0 0 var(--surface); }
+  .usage-key { display: flex; flex-wrap: wrap; gap: 4px 18px; list-style: none; margin: 8px 0 0; padding: 0; font-size: 13px; }
+  .usage-key li { display: flex; align-items: baseline; gap: 6px; }
+  .usage-key i { flex: none; width: 9px; height: 9px; border-radius: 2px; background: var(--c); }
+  .usage-key b { font: 500 12.5px var(--mono); font-variant-numeric: tabular-nums; }
+  .usage-key span { color: var(--muted); }
+  /* the table reaches past the 860px text column, up to 1200px, centred on it */
+  .usage-wide { width: min(1200px, calc(100vw - 32px)); margin-left: calc(50% - min(600px, 50vw - 16px)); }
+  .usage-table td small { display: block; color: var(--muted); font: 11px var(--mono); white-space: nowrap; }
+  .usage-table td small.warn { color: #d9a441; }
+  .usage-table td.model-cell small { white-space: normal; }
+  .usage-table tr.unpriced td { color: var(--muted); }
+  .usage-table tfoot td { font-weight: 600; border-top: 1px solid var(--text-2); }
+  .usage-notes { margin: 10px 0 0; padding-left: 18px; font-size: 13px; }
+  .usage-notes li { margin: 3px 0; }
   /* the AI efficiency charts, drawn by scripts/ai-stats.js (so not scoped to this page's markup) */
   .ai-efficiency h3 { margin: 30px 0 4px; font: 600 14px/1.4 Inter, system-ui, sans-serif; }
   .ai-efficiency > p.muted { margin: 0 0 12px; font-size: 13px; }

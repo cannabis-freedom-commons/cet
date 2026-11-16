@@ -1,5 +1,5 @@
 import { summarizeAIUsage, summarizeEfficiency, OUTCOMES, formatDuration } from '../lib/ai-usage.js';
-import { formatUSD, modelPlan } from '../lib/model-cost.js';
+import { formatUSD, planDescription } from '../lib/model-cost.js';
 import { watchSubmissionUpdates } from '../lib/ai-activity.js';
 
 const root = document.querySelector('[data-ai-stats]');
@@ -10,7 +10,61 @@ function initialize(root) {
   const period = $('ai-stats-period');
   const fmt = n => n.toLocaleString('en-GB');
   const money = n => n ? formatUSD(n) : '$0.0000';
+  // amounts in the usage section: cents from a dollar up, finer below
+  const usd = n => n >= 1 ? `$${n.toLocaleString('en-GB', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}` : money(n);
   const node = (tag, text, cls) => { const el = document.createElement(tag); el.textContent = text; if (cls) el.className = cls; return el; };
+  const compact = n => n >= 1e9 ? `${(n / 1e9).toFixed(2)} B` : n >= 1e6 ? `${(n / 1e6).toFixed(1)} M` : n >= 1e4 ? `${Math.round(n / 1e3)} k` : fmt(Math.round(n));
+  const pct = (part, whole) => whole ? `${Math.round((part / whole) * 100)}%` : '0%';
+  // the price per million tokens a cost comes to
+  const rate = (cost, tokens) => { const r = (cost / tokens) * 1e6; return `$${r.toFixed(r < 0.1 ? 3 : 2)}/M`; };
+  const PARTS = { input: '#6cb0f5', cacheRead: '#8fd18a', cacheWrite: '#b9a0e8', output: '#c9a35a', reported: '#8a8f98' };
+  // a stacked bar of the parts, with a key giving each part's value and share
+  function bar(title, total, parts, show) {
+    const all = parts.reduce((t, [, v]) => t + v, 0), box = node('div', '');
+    const head = node('div', '', 'usage-bar-title'); head.append(node('span', title), node('span', total));
+    const track = node('div', '', 'usage-bar'), key = node('ul', '', 'usage-key');
+    for (const [label, value, color] of parts) {
+      if (!value) continue;
+      const seg = node('i', ''); seg.style.setProperty('--c', color); seg.style.width = `${(value / all) * 100}%`; seg.title = `${label}: ${show(value)}`;
+      const li = node('li', ''), dot = node('i', ''); dot.style.setProperty('--c', color);
+      li.append(dot, label, node('b', show(value)), node('span', pct(value, all)));
+      track.append(seg); key.append(li);
+    }
+    box.append(head, track, key);
+    return box;
+  }
+  // tokens, and under them what the priced runs' tokens of that kind cost and the price per
+  // million they come to (none for runs whose cost OpenCode reported as one sum)
+  function tokenCell(tokens, cost, estTokens, notes = []) {
+    const td = node('td', compact(tokens), 'num'); td.title = `${fmt(tokens)} tokens`;
+    if (estTokens) td.append(node('small', `${usd(cost)} · ${rate(cost, estTokens)}`));
+    for (const [text, cls] of notes) if (tokens && text) td.append(node('small', text, cls));
+    return td;
+  }
+  function modelRow(row, hasPlan) {
+    const tr = document.createElement('tr'), none = row.unpriced === row.runs;
+    if (none) tr.className = 'unpriced';
+    const name = node('td', row.label, 'model-cell');
+    if (!row.total) { name.title = row.model; name.append(node('small', [row.providerName, row.effort].filter(Boolean).join(' · '))); }
+    tr.append(name, node('td', fmt(row.runs), 'num'),
+      tokenCell(row.fresh, row.costInput, row.estFresh),
+      tokenCell(row.cached, row.costCacheRead, row.estCached, [[`${pct(row.cached, row.fresh + row.cached + row.cacheWrite)} of input`], [row.cachedAtInput ? 'at input price' : '', 'warn']]),
+      tokenCell(row.output, row.costOutput, row.estOutput));
+    const cost = node('td', none ? 'no price' : usd(row.cost), 'num');
+    if (row.reported) cost.append(node('small', row.reportedRuns === row.runs - row.unpriced ? 'reported by OpenCode' : `${usd(row.reported)} reported`));
+    if (row.costCacheWrite >= 0.01) cost.append(node('small', `${usd(row.costCacheWrite)} cache writes`));
+    if (!none && row.unpriced) cost.append(node('small', `${fmt(row.unpriced)} ${row.unpriced === 1 ? 'run' : 'runs'} without cost`));
+    tr.append(cost);
+    if (hasPlan) {
+      const plan = node('td', row.planCost ? usd(row.planCost) : '—', 'num');
+      if (row.plan) plan.append(node('small', row.plan.multiplier ? `API ÷ ${row.plan.multiplier}` : `$${row.plan.price_usd} buys $${row.plan.allowance_usd}`));
+      else if (!row.total && !none) plan.append(node('small', 'paid as used'));
+      tr.append(plan);
+    }
+    const priced = row.runs - row.unpriced;
+    tr.append(node('td', priced && row.cost ? money(row.cost / priced) : '—', 'num'));
+    return tr;
+  }
   let busy = false, pending = false;
   async function refresh() {
     if (document.hidden) return;
@@ -23,26 +77,47 @@ function initialize(root) {
       const data = await response.json();
       if (selected !== period.value) { pending = true; return; }
       const {rows, totals} = summarizeAIUsage(data.usage, data.plan);
-      const hasPlan = Boolean(modelPlan("", data.plan)) || rows.some(row => modelPlan(row.model, data.plan));
+      const hasPlan = rows.some(row => row.plan);
+      const read = totals.fresh + totals.cached + totals.cacheWrite;
       const tiles = [
         [fmt(totals.runs), 'Research runs'], [fmt(totals.running), 'Running now'],
-        [fmt(totals.input), 'Input tokens, including cache'], [fmt(totals.output), 'Output tokens, including reasoning'],
-        [money(totals.cost), 'API cost / estimated value'],
-        ...(hasPlan ? [[money(totals.planCost), 'Estimated plan share']] : []),
+        [compact(read), `Tokens read, ${pct(totals.cached, read)} from cache`],
+        [compact(totals.output), `Tokens written, ${pct(totals.reasoning, totals.output)} reasoning`],
+        [usd(totals.cost), totals.unpriced ? `API cost of the ${fmt(totals.runs - totals.unpriced)} priced runs` : 'API cost'],
+        ...(hasPlan ? [[usd(totals.planCost), 'Plan share: what the runs used of subscriptions']] : []),
       ];
       $('ai-stats-tiles').replaceChildren(...tiles.map(([value,label]) => {
         const tile = node('div', '', 'tile'); tile.append(node('div',value,'big'),node('div',label,'label')); return tile;
       }));
-      $('ai-stats-models').replaceChildren(...rows.map(row => {
-        const tr = document.createElement('tr');
-        tr.append(node('td',row.model));
-        for (const value of [fmt(row.runs),fmt(row.input),fmt(row.output),row.unpriced === row.runs ? '—' : money(row.cost)]) tr.append(node('td',value,'num'));
-        if (hasPlan) tr.append(node('td', row.unpriced === row.runs ? '—' : money(row.planCost), 'num'));
-        return tr;
-      }));
+      $('ai-stats-split').replaceChildren(
+        bar('Tokens, all models', compact(read + totals.output), [
+          ['Fresh input', totals.fresh, PARTS.input], ['Cache reads', totals.cached, PARTS.cacheRead],
+          ['Cache writes', totals.cacheWrite, PARTS.cacheWrite], ['Output', totals.output, PARTS.output]], compact),
+        bar('API cost, priced models', usd(totals.cost), [
+          ['Fresh input', totals.costInput, PARTS.input], ['Cache reads', totals.costCacheRead, PARTS.cacheRead],
+          ['Cache writes', totals.costCacheWrite, PARTS.cacheWrite], ['Output', totals.costOutput, PARTS.output],
+          ['Reported by OpenCode, not split', totals.reported, PARTS.reported]], usd));
+      $('ai-stats-models').replaceChildren(...rows.map(row => modelRow(row, hasPlan)));
+      $('ai-stats-total').replaceChildren(modelRow({ ...totals, label: 'All models', total: true }, hasPlan));
       root.querySelector('[data-plan-cost]').hidden = !hasPlan;
       $('ai-stats-status').textContent = `${rows.length ? 'Updated' : 'No research runs recorded for this period. Updated'} ${new Date(data.updated_at * 1000).toLocaleTimeString()}.`;
-      $('ai-stats-note').textContent = `${fmt(totals.cached)} cached input tokens · ${fmt(totals.reasoning)} reasoning output tokens. Costs use OpenCode telemetry where available, otherwise the configured model pricing, including peak/off-peak start time where applicable. These are usage estimates, separate from budget reservations.${hasPlan ? ' Plan share uses the model’s plan multiplier, or the configured subscription price and allowance; it is not an additional bill.' : ''}${totals.unpriced ? ` Cost unavailable for ${fmt(totals.unpriced)} ${totals.unpriced === 1 ? "run" : "runs"}; those runs are excluded from cost totals.` : ''} Startup connectivity probes are excluded. Running and interrupted runs may have incomplete telemetry.`;
+      const atInput = [...new Set(rows.filter(r => r.cachedAtInput && r.cached).map(r => `${r.label} on ${r.providerName}`))];
+      // one line per provider and plan: "Swancloud, 15× plan (API value ÷ 15): Muse…, Claude Haiku 5.5"
+      const byPlan = new Map();
+      for (const r of rows.filter(r => r.plan)) {
+        const key = `${r.providerName}, ${planDescription(r.plan)}`;
+        byPlan.set(key, new Set([...(byPlan.get(key) ?? []), r.label]));
+      }
+      const plans = [...byPlan].map(([key, labels]) => `${key}: ${[...labels].join(', ')}`);
+      const unpriced = rows.filter(r => r.unpriced).map(r => r.unpriced === r.runs ? r.model : `${r.model} (${fmt(r.unpriced)} of ${fmt(r.runs)} runs, no cost reported)`);
+      const notes = [
+        'API cost is what the tokens come to at each provider’s price per million tokens (src/lib/models.js), at the peak price for runs started in peak hours. Where OpenCode reports a run’s cost (pay-as-you-go keys such as xAI’s), that figure is used, and it is not split by kind of token.',
+        ...(atInput.length ? [`No cache price was supplied for ${atInput.join(', ')}, so their cache reads are counted at the fresh-input price (marked “at input price”); the real cost is probably lower.`] : []),
+        ...(hasPlan ? [`Plan share divides the API cost by what a subscription includes: the part of a monthly plan the runs used, not a separate bill. ${plans.join('; ')}. Models with no plan are paid as used.`] : []),
+        ...(totals.unpriced ? [`${fmt(totals.unpriced)} ${totals.unpriced === 1 ? 'run' : 'runs'} (${compact(totals.unpricedTokens)} tokens) used models with no known price and are left out of every cost: ${unpriced.join(', ')}.`] : []),
+        'Startup connectivity probes are excluded. Running and interrupted runs may have incomplete telemetry. Budget reservations are counted separately.',
+      ];
+      $('ai-stats-note').replaceChildren(...notes.map(t => node('li', t)));
       lastEfficiency = summarizeEfficiency(data.usage, data.durations ?? [], data.plan);
       drawEfficiency(lastEfficiency);
       $('ai-stats-content').hidden = false;
