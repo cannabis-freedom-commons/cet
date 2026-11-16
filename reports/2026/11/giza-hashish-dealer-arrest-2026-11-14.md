@@ -1,7 +1,7 @@
 ---
 code: VBD60D
 added_at: '2026-11-14T16:31:45.451597Z'
-date: '2026-11-14'
+date: 2026-11-15
 country: eg
 place: Giza, Giza Governorate
 coordinates:
@@ -9,9 +9,7 @@ coordinates:
   - 31.2089
 precision: locality
 type: arrest
-also:
-  - seizure
-  - prosecution
+also: [seizure, prosecution]
 title: Hashish dealer arrested in Giza before sale to customers
 summary: >-
   Giza detectives arrested a suspected hashish dealer before he could sell his supply to customers
@@ -73,6 +71,11 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-14
     language: ar
+  - title: تجديد حبس تاجر حشيش ضبط بحوزته كمية من المخدرات فى الجيزة 15 يوما - اليوم السابع
+    url: https://www.youm7.com/story/2026/11/15/%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AD%D8%A8%D8%B3-%D8%AA%D8%A7%D8%AC%D8%B1-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%B6%D8%A8%D8%B7-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-%D9%83%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%89/7618934
+    publisher: اليوم السابع
+    date: 2026-11-15
+    language: ar
 ---
 
 Giza Security Directorate officers arrested a drug dealer found with a quantity
@@ -88,4 +91,4 @@ customers. [@1,2,3] When confronted, he admitted possessing the drugs for sale a
 said the cash came from sales and the phone was for contacting customers. [@1,2,3]
 
 Police filed a report on the incident and referred the accused to the Public
-Prosecution, which took over the investigation. [@1,2,3] The Giza Public Prosecution ordered the dealer held for four days pending investigation. [@4]
+Prosecution, which took over the investigation. [@1,2,3] The Giza Public Prosecution ordered the dealer held for four days pending investigation. [@4] The misdemeanour court's detention judge renewed the drug trader's detention for 15 days pending investigation. [@5]
