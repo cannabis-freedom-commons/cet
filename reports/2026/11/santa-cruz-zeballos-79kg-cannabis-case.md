@@ -1,7 +1,7 @@
 ---
 code: TB21PD
 added_at: '2026-11-05T21:04:36.523964Z'
-date: 2026-11-13
+date: 2026-11-14
 country: bo
 place: Santa Cruz, Bolivia
 coordinates:
@@ -18,6 +18,7 @@ figures:
     kg_seized: 79
     prison: 3 years
     sentenced: 1
+    released: 1
 details:
     activity:
         - trafficking
@@ -80,6 +81,7 @@ data_sources:
     details.sentence_types: [30]
     figures.prison: [30]
     figures.sentenced: [30]
+    figures.released: [31]
 status: reported
 created_by_model: openai/gpt-6-luna#max
 submission: 09be475e6b44b2578ba45d4eaa7a432b
@@ -271,6 +273,11 @@ sources:
     publisher: Visión 360
     date: 2026-11-13
     language: es
+  - title: Liberan al guardia de Ebose detenido en el caso Maletas - La Patria Bolivia
+    url: https://lapatria.bo/enfoque-nacional/gestion/libertad-guardia-seguridad-hallazgo-marihuana/
+    publisher: La Patria Bolivia
+    date: 2026-11-14
+    language: es
 open_questions:
     - FELCN reported 79 kg from the warehouse. The interior minister gave 70 kg, Visión 360 reported 79.65 kg and EL PAÍS reported 80 kg.
     - Accounts give 31 or 32 suitcases. The weight, laboratory composition and eventual destination of their alleged contents remain unconfirmed.
@@ -278,6 +285,9 @@ open_questions:
     - Quezada pleaded guilty and was sentenced, but the allegations by the other accused about the suitcases have yet to be tested in court.
     - No final ruling on the allegations against the remaining accused or on Zeballos's claim about electronic monitoring failures was reported.
     - Whether Quezada will serve the three-year term in detention was not confirmed; the new account says national rules do not necessarily require imprisonment.
+    - 'The exact day of the guard''s release is unclear: the article says the release order was being processed for him to leave the prison on Friday, while 14 November 2026 is the article''s publication date and is used as the incident date.'
+    - The article says the guard was apprehended on 20 January and ordered held for 180 days, but also describes his detention as almost a month in Palmasola; that timeline could not be reconciled from this source alone.
+    - The terms of the guard's release were not reported, beyond that the process will continue; no court outcome on the trafficking, conspiracy and criminal-association investigation against him was reported.
 media:
   - kind: photo
     url: https://correodelsur.com/seguridad/20261106/afirman-que-maletas-eran-de-saucedo-y-tenian-marihuana.html
@@ -293,7 +303,7 @@ Bolivian police arrested former Santa Cruz departmental court president Aldo Que
 
 ## Warehouse seizure and detention
 
-Police searched a warehouse linked to former judge Hebert Zeballos on 20 January 2026 and reported seizing 79 kg of cannabis. [@2] Interior Minister Marco Antonio Oviedo put the seizure at 70 kg, Visión 360 reported 79.65 kg in 38 packages and EL PAÍS reported 80 kg. [@1,7,21] Accounts describe processing equipment at the warehouse, but authorities did not report recovering the suitcases there. [@1,7,21,23,24] A court ordered Zeballos held for 120 days in January, and he was moved to house arrest in August after roughly eight months in preventive detention. [@2,3,5,8] On 31 October a court revoked his house arrest after he was detained at a clinic, and he returned to Palmasola prison. [@4,5,6] Zeballos blamed missed check-ins on faults in the electronic monitoring system and denied deliberately breaching the order. [@4]
+Police searched a warehouse linked to former judge Hebert Zeballos on 20 January 2026 and reported seizing 79 kg of cannabis. [@2] His lawyer said the case would continue and the defence would seek to prove he did not take part and to obtain compensation for him and his family. [@31] The Ebose security guard Roy Rony P. R. obtained his freedom after almost a month in Palmasola prison in connection with the warehouse cannabis find. [@31] Interior Minister Marco Antonio Oviedo put the seizure at 70 kg, Visión 360 reported 79.65 kg in 38 packages and EL PAÍS reported 80 kg. [@1,7,21] Accounts describe processing equipment at the warehouse, but authorities did not report recovering the suitcases there. [@1,7,21,23,24] A court ordered Zeballos held for 120 days in January, and he was moved to house arrest in August after roughly eight months in preventive detention. [@2,3,5,8] On 31 October a court revoked his house arrest after he was detained at a clinic, and he returned to Palmasola prison. [@4,5,6] Zeballos blamed missed check-ins on faults in the electronic monitoring system and denied deliberately breaching the order. [@4]
 
 ## Statements about the suitcases
 
