@@ -58,6 +58,15 @@ sources:
     publisher: Више јавно тужилаштво у Београду
     date: 2026-11-15
     language: sr
+  - title: Ухапшен гранични полицајац, у торби пронађено 30 кг марихуане
+    url: https://atvbl.rs/vijesti/srbija/uhapsen-granicni-policajac-u-torbi-pronadjeno-30-kg-marihuane/2372898
+    publisher: Atvbl.rs
+    date: 2026-11-15
+    language: sr
+open_questions:
+  - This early account reports only the initial bag of about 30 kilograms and does not mention the additional about two kilograms reported later by the prosecution.
+  - This early account describes the second person arrested only as a woman, while the later prosecution account identifies the second suspect as 55-year-old D. K.
+  - No separate date for the arrest is given; 15 November 2026 is the publication date used as the incident date.
 ---
 
 Two people were arrested on the order of the Higher Public Prosecutor's Office
@@ -66,14 +75,14 @@ of the Border Police Administration. [@2,3] Those arrested were 22-year-old I. C
 from Prijepolje, employed in the Border Police Administration, and 55-year-old
 D. K., on suspicion of unauthorised production and circulation of narcotic
 drugs. [@2] Early reporting identified the 22-year-old as I. C., employed in the
-Border Police at the Gostun crossing on the border with Montenegro. [@1,3]
+Border Police at the Gostun crossing on the border with Montenegro. [@1,3,5]
 
 Officers of the Interior Ministry's Department for Control of Legality arrested
 the suspects during an attempted handover of about 30 kilograms of cannabis in
 the municipality of Zemun. [@2,4] A search of the suspected handover location
-found about two kilograms more cannabis. [@2,4] The first account described the
+found about two kilograms more cannabis. [@2,4] A search of a flat in Belgrade at the suspects' arrest location was still under way. [@5] The first account described the
 seizure as a bag with about 30 kilograms of marijuana taken from the 22-year-old
-man from Prijepolje. [@1,3]
+man from Prijepolje. [@1,3,5]
 
 The suspects were ordered held for up to 48 hours before being brought for
 questioning at the Higher Public Prosecutor's Office in Belgrade. [@2,4]
