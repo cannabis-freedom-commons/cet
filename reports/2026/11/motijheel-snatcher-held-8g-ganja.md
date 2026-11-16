@@ -43,27 +43,29 @@ sources:
     publisher: VOD Bangla
     date: 2026-11-16
     language: bn
+  - title: 'মতিঝিলে ছিনতাই রোধে অভিযান: গাঁজাসহ পেশাদার ছিনতাইকারী গ্রেফতার | ডিএমপি নিউজ'
+    url: https://dmpnews.org/%E0%A6%AE%E0%A6%A4%E0%A6%BF%E0%A6%9D%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%87-%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%87-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF/
+    publisher: DMP News
+    date: 2026-11-16
+    language: bn
 open_questions:
-  - 15 November 2026 is inferred as the incident date from the reported Sunday 7:30 pm operation before the 16 November publication; no calendar date for the raid was stated.
-  - The 8 grams was described only as recovered ganja, with no laboratory confirmation reported.
-  - No value estimate for the seized ganja was published.
-  - Whether the ganja leads to a separate narcotics charge or is handled alongside the attempted-snatching allegation is not stated.
-  - No court outcome, detention measure or plea was reported; the case was at the investigation stage.
-  - Only the VOD Bangla account of this event could be opened, and no second report confirming it was found.
+    - The 8 grams was described only as recovered ganja, with no laboratory confirmation reported.
+    - No value estimate for the seized ganja was published.
+    - Whether the ganja leads to a separate narcotics charge or is handled alongside the attempted-snatching allegation is not stated.
+    - No court outcome, detention measure or plea was reported; the case was at the investigation stage.
 ---
 
 A Special Response Unit team of the Admin and Logistics Division arrested Alamin
-red-handed while he was allegedly attempting a snatching. [@1] The operation
+red-handed while he was allegedly attempting a snatching. [@1,2] The operation
 took place on the paved road in front of Dilkusha Islami Bank Tower in Motijheel
-at about 7:30 pm on Sunday. [@1] Police identified the arrested man as Md Alamin
+at about 7:30 pm on Sunday. [@1,2] Police identified the arrested man as Md Alamin
 in a press release sent from the Dhaka Metropolitan Police media centre on
-Monday 16 November. [@1]
+Monday 16 November. [@1] The arrested man is 33 years old. [@2]
 
-Officers recovered 8 grams of ganja from his custody. [@1] Alamin told
+Officers recovered 8 grams of ganja from his custody. [@1,2] Alamin told
 interrogators that he had kept the recovered ganja in his custody to consume it
-himself. [@1] The Dhaka Metropolitan Police media centre sent the account to the
+himself. [@1,2] The Dhaka Metropolitan Police media centre sent the account to the
 media in a press release on Monday 16 November. [@1]
 
 Legal action against the arrested man was reported to be under process, with no
-court outcome stated. [@1]
-
+court outcome stated. [@1,2]
