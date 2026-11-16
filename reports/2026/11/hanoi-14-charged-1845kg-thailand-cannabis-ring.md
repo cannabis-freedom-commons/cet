@@ -156,11 +156,15 @@ sources:
     url: https://e.vnexpress.net/news/news/crime/1-8-tonnes-of-cannabis-smuggled-from-thailand-to-vietnam-in-baskets-of-dried-longan-5145279.html
     publisher: VnExpress International
     date: 2026-11-16
+  - title: 1.8 tonnes of cannabis smuggled from Thailand to Vietnam in baskets of dried longan
+    url: https://www.msn.com/en-xl/news/other/1-8-tonnes-of-cannabis-smuggled-from-thailand-to-vietnam-in-baskets-of-dried-longan/ar-AA2hw2tY
+    publisher: MSN
+    date: 2026-11-16
 ---
 
 The Ministry of Public Security investigation agency (C04) issued a new
 investigation conclusion proposing prosecution of 14 people for illegal
-transport or illegal trading of narcotics. [@2,6,7,8,10,12,15] Of the 14 defendants, eight were proposed for prosecution for illegal transport of narcotics and six for illegal trading of narcotics, while nine other people had earlier been split off into a separate case. [@8,13] The agency sent the case, which
+transport or illegal trading of narcotics. [@2,6,7,8,10,12,15,16] Of the 14 defendants, eight were proposed for prosecution for illegal transport of narcotics and six for illegal trading of narcotics, while nine other people had earlier been split off into a separate case. [@8,13] The agency sent the case, which
 occurred in Hanoi, to the Supreme People’s Procuracy with a proposal to
 prosecute 14 defendants. [@3] The case totals 23 indicted defendants, after nine
 were split off earlier and tried on 26 June with prison terms of 7 to 22 years.
@@ -169,7 +173,7 @@ were split off earlier and tried on 26 June with prison terms of 7 to 22 years.
 The group moved cannabis from Thailand to Vietnam through the Cha Lo
 International Border Gate by hiding it in dried-longan baskets and hiring Thai
 transport company JPM to move containers mixed with fresh-longan baskets to
-evade controls. [@1,5,6,9,11,15] Each plastic basket held one to four vacuum-sealed bags of about 500 grams fixed under the basket with iron wire and covered with dried longans, with different-coloured lids marking different customers' goods. [@10,15] The container truck drivers did not know the longan baskets contained cannabis and were paid as for ordinary goods, so there was no basis to prosecute them. [@7,13,14] Thai national Óm instructed Phạm Việt Anh to pack cannabis into plastic fruit baskets, cover them with dried longans for concealment in containers sent to Vietnam by JPM transport company, and to have the containers sealed through Thai police contacts to avoid inspection en route. [@7,13,14] Transporters in Vietnam were paid 100 million dong per trip or 50 million dong per person per time. [@5] After three successful illegal transfers, in early 2025
+evade controls. [@1,5,6,9,11,15,16] Each plastic basket held one to four vacuum-sealed bags of about 500 grams fixed under the basket with iron wire and covered with dried longans, with different-coloured lids marking different customers' goods. [@10,15] The container truck drivers did not know the longan baskets contained cannabis and were paid as for ordinary goods, so there was no basis to prosecute them. [@7,13,14] Thai national Óm instructed Phạm Việt Anh to pack cannabis into plastic fruit baskets, cover them with dried longans for concealment in containers sent to Vietnam by JPM transport company, and to have the containers sealed through Thai police contacts to avoid inspection en route. [@7,13,14] Transporters in Vietnam were paid 100 million dong per trip or 50 million dong per person per time. [@5] After three successful illegal transfers, in early 2025
 Pham Viet Anh directed Tong Thanh Tung and Phung Minh Thuan to use prior
 transport proceeds to buy back a cannabis farm in Bangkok from Cham and Xom as a
 packing site, with Tung paying 500 million dong for it. [@4] The group also invested in a dried-longan drying workshop in Chiang Mai and moved the longans to the farm to disguise the cannabis before shipment to Vietnam. [@8,9,10] By this method the
