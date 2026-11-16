@@ -45,6 +45,11 @@ sources:
     publisher: Pozirk
     date: 2026-11-16
     language: ru
+  - title: В Лидском районе у нетрезвого мужчины нашли марихуану
+    url: https://grodnoplustv.by/index.php/novosti/item/32597-v-lidskom-rajone-u-netrezvogo-muzhchiny-nashli-marikhuanu
+    publisher: Гродно Плюс
+    date: 2026-11-16
+    language: ru
 open_questions:
   - No weight was published for the marijuana in the metal container.
   - No detention or restraint measure was reported beyond the opening of the criminal case, and nothing was reported about the second man.
@@ -59,16 +64,15 @@ Grodno Regional Executive Committee. [@1] According to the territorial internal
 affairs directorate, the encounter that led to the discovery took place on 12
 November. [@1] Officers had arrived after receiving a report that two drunk men
 had fallen asleep in the entrance hallway of a multi-apartment residential
-building. [@1]
+building. [@1,2]
 
 During a personal search at the scene, officers discovered a small metal
-container concealed in the pocket of the 55-year-old man. [@1] Inside the
-container was a green substance of plant origin. [@1] A subsequent forensic
+container concealed in the pocket of the 55-year-old man. [@1,2] Inside the
+container was a green substance of plant origin. [@1,2] A subsequent forensic
 expert examination confirmed that the seized green substance was marijuana,
 described as a dangerous narcotic drug. [@1]
 
 Following the confirmation, police opened a criminal case against the man for
-illegal storage of narcotic drugs without the purpose of sale. [@1] The sanction
+illegal storage of narcotic drugs without the purpose of sale. [@1,2] The sanction
 for that offence provides for punishment of up to five years of imprisonment.
 [@1]
-
