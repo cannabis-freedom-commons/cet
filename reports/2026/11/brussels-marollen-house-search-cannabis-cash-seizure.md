@@ -72,6 +72,11 @@ sources:
     url: https://www.brusselstimes.com/brussels/2408741/e50000-seized-following-alleged-drug-deal-in-brussels
     publisher: The Brussels Times
     date: 2026-11-16
+  - title: Politie vindt 50.000 euro cash bij huiszoeking na vermoedelijke drugsdeal | Nieuwsblad
+    url: https://www.nieuwsblad.be/regio/brussel/politie-vindt-50.000-euro-cash-bij-huiszoeking-na-vermoedelijke-drugsdeal/164609068.html
+    publisher: Nieuwsblad
+    date: 2026-11-16
+    language: nl
 media:
   - kind: photo
     url: https://www.rtbf.be/article/pres-de-50-000-euros-saisis-apres-une-transaction-de-drogue-presumee-dans-les-marolles-11816213
@@ -83,20 +88,25 @@ media:
     media_url: https://wmimages.bruzz.be/styles/1f8c29ed4efcaed916a7e270e4064aaa5d961eac/2026-11/3fc7ca7b-whatsappimage2026-11-16at115718.jpeg?style=W3sianBlZyI6eyJxdWFsaXR5Ijo3MH19LHsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjk2LCJoZWlnaHQiOjg2NCwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfX1d&sign=6858f6f1eae468bb6faebd5dba793b69f52a14b183c149a4f9eb3c1573a2a416
     publisher: BRUZZ
     caption: 'Cash seized in the Marollen house search, in the police handout photo. Photo: Politiezone Brussel-Hoofdstad/Elsene'
+  - kind: photo
+    url: https://www.nieuwsblad.be/regio/brussel/politie-vindt-50.000-euro-cash-bij-huiszoeking-na-vermoedelijke-drugsdeal/164609068.html
+    media_url: https://prod-img.nieuwsblad.be/public/nieuws/p2xmp4-whatsapp-image-2026-11-16-at-11.03.01.jpeg/alternates/THREE_TWO_1620/WhatsApp%20Image%202026-11-16%20at%2011.03.01.jpeg
+    publisher: Nieuwsblad
+    caption: 'Cash and drugs found during the house search, in the police handout photo. Photo: Politie Brussel Hoofdstad Elsene'
 ---
 
 Detectives from the Brussels Capital Ixelles police zone saw two people exchange
 something in what looked like a drug deal in the Marollen on Friday 6 November
-and stopped both for checks. [@1,2,3,4,5,6] The buyer had just bought one gram of cocaine
-for 20 euros and received an immediate 300-euro settlement for it. [@1,2,4,5] The
+and stopped both for checks. [@1,2,3,4,5,6,7] The buyer had just bought one gram of cocaine
+for 20 euros and received an immediate 300-euro settlement for it. [@1,2,4,5,7] The
 suspected seller was carrying cash and a small amount of cocaine and was taken
 away for questioning. [@1,2,4]
 
 Police said the man was already known for similar offences, after which
 detectives carried out a house search in the centre of Brussels. [@1,4] Officers
 found 49,475 euros in cash in various denominations and just over half a
-kilogram of cannabis resin. [@1,2,3,4,5,6] Officers also seized 57 grams of cannabis and
-0.77 grams of cocaine. [@1,2,3,4,5,6]
+kilogram of cannabis resin. [@1,2,3,4,5,6,7] Officers also seized 57 grams of cannabis and
+0.77 grams of cocaine. [@1,2,3,4,5,6,7]
 
 After questioning, the suspect was placed at the disposal of the prosecutor.
-[@1,2,3,4,5,6]
+[@1,2,3,4,5,6,7]
