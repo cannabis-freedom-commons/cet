@@ -33,17 +33,21 @@ sources:
     publisher: दिव्य मराठी
     date: 2026-11-14
     language: mr
+  - title: 'Nanded News : किनवट तालुक्यात गांजाच्या शेतीवर पोलिसांचा छापा; लाखोंचा मुद्देमाल जप्त'
+    url: https://pudhari.news/maharashtra/marathwada/nanded/police-raid-on-cannabis-farm-in-kinwat-taluka-assets-worth-lakhs-seized-np88
+    publisher: Pudhari News
+    date: 2026-11-15
+    language: mr
 open_questions:
-  - The date of the raid is not stated in the accessible text; 14 November 2026 is the publication date.
-  - The number of plants, the weight and the composition of the seized property are not established by the accessible text.
-  - Any arrests, charges and court outcome are unknown.
+    - Whether the detained farmer was formally charged or produced before a court, and any court outcome, has not been reported.
+    - No laboratory confirmation of the seized plants and no findings of the forensic team were reported.
+    - Both accessible accounts reproduce the police account of the raid; no independent account was opened.
 ---
 
 Kinwat police raided a farm in Singarwadi after receiving confidential
-information that cannabis plants were being grown there. [@1] The farm is in
+information that cannabis plants were being grown there. [@1,2] The raid was conducted in the presence of the deputy tehsildar, official witnesses and a forensic team. [@2] One farmer was taken into custody in the operation. [@2] The account identifies the farm owner as Datta Khand Jadhav, aged 35 and resident of Singarwadi. [@2] The farm is in
 Kinwat taluka, an administrative subdivision of Nanded district in Maharashtra.
 [@1]
 
 The headline reported that property worth 924,000 rupees was seized in the
-operation. [@1]
-
+operation. [@1,2] A case under the NDPS Act was registered at Kinwat police station, and police said further investigation was continuing. [@2] The plants had been grown illegally, sheltered by cotton and chilli crops. [@2] The new account reports 26 small and large green ganja plants found, weighing 18 kg 480 g on an electronic scale. [@2]
