@@ -45,32 +45,35 @@ sources:
     url: https://www.freepressjournal.in/bhopal/bhopal-police-bust-drug-racket-in-eidgah-hills-seize-charas-marijuana-and-606-injections-woman-among-two-arrested
     publisher: Free Press Journal
     date: 2026-11-15
+  - title: भोपाल में 9 थानों की 13 टीमों ने 50 घरों पर दी दबिश, 2.85 लाख का नशा बरामद, चरस-गांजा और 606 इंजेक्शन जब्त
+    url: https://www.naidunia.com/madhya-pradesh/bhopal-13-teams-from-9-police-stations-conducted-raids-on-50-houses-recovering-narcotics-worth-2-point-85-lakh-8476944
+    publisher: Nai Dunia
+    date: 2026-11-16
+    language: hi
 open_questions:
-  - The article gives no separate calendar date for the raids; late on Saturday night before the Sunday 15 November 2026 publication is used as 14 November 2026.
-  - The charas and marijuana were described only as recovered/seized material with police valuations, with no laboratory confirmation reported.
-  - Shamim Khan was arrested as an absconder in a separate attempted murder case, so it is unclear whether he was also booked in the narcotics case.
-  - No charge sheet, plea or court outcome was reported; the case was at the investigation stage.
-  - Only one accessible outlet account of this event was found after searching in English and Hindi.
-  - The 1.128 kg cannabis total is the sum of the separately stated 741 grams of charas and 387 grams of marijuana; the 606 injections are non-cannabis and excluded.
-  - The report does not say who owned the seized phone, cash and weighing scale or where exactly each item was found.
+    - The operation took place on the intervening night of 14-15 November 2026 in about two and a half hours across 50 houses; 14 November 2026 is used as the incident date.
+    - The charas and ganja were described only as seized material with police valuations, with no laboratory confirmation reported.
+    - Shamim Khan was arrested as an absconder in a separate attempt-to-murder and Arms Act case of 11 September 2026 at Shahjahanabad, so it is unclear whether he was also booked in the narcotics case.
+    - No charge sheet, plea or court outcome was reported; the case was at the investigation stage.
+    - The 1.128 kg cannabis total is the sum of the separately stated 741 grams of charas and 387 grams of ganja; the 606 injections are non-cannabis and excluded, while the Rs 2.85 lakh estimate covers drugs and injections together.
+    - The ownership of the seized phone, cash and weighing scale was not stated, beyond that they were found with the drugs at her premises.
 ---
 
 Bhopal police arrested 35-year-old Rajshree Meshkar, a resident of Vajpayee
-Nagar slums, during raids in the Eidgah Hills area. [@1] Thirteen teams from
+Nagar slums, during raids in the Eidgah Hills area. [@1] The drugs were found at the house of 35-year-old Rajshree Meshkar in hut number 719 in Vajpayee Nagar Multi in the Shahjahanabad police station area. [@2] Thirteen teams from
 nine police stations under Zone-3 conducted raids late on Saturday night on the
-instructions of Police Commissioner Sanjay Kumar. [@1] Police also arrested
+instructions of Police Commissioner Sanjay Kumar. [@1,2] Thirteen teams from nine Zone-3 police stations searched about 50 houses in about two and a half hours under three ACPs and nine station house officers. [@2] Police also arrested
 22-year-old Shamim Khan alias Fakir during the operation, who had been
-absconding in an attempted murder case registered on 11 September. [@1] Rajshree
+absconding in an attempted murder case registered on 11 September. [@1,2] Shamim's pending case was registered at Shahjahanabad police station on 11 September 2026 under attempt-to-murder and Arms Act provisions, and he had been absconding since then. [@2] Rajshree
 had three previous criminal cases registered against her, while Shamim had 18
-previous criminal cases. [@1]
+previous criminal cases. [@1,2] Rajshree's three earlier cases involved illegal liquor sale, disputes, assault and threats, while Shamim's 18 earlier cases included illegal weapons, liquor transport, assault and threats. [@2]
 
 Officers recovered 741 grams of charas valued by police at Rs 1.90 lakh and 387
-grams of marijuana valued at Rs 25,000. [@1] Officers also recovered 304
+grams of marijuana valued at Rs 25,000. [@1,2] Officers also recovered 304
 buprenorphine injections and 302 pheniramine maleate injections valued by police
-at Rs 70,000, which are not counted in the cannabis total. [@1] Police also
+at Rs 70,000, which are not counted in the cannabis total. [@1,2] Police estimated the seized drugs and injections together at about Rs 2.85 lakh, a combined figure that includes the non-cannabis injections. [@2] Police also
 seized a weighing scale, Rs 9,390 in cash and a mobile phone valued at Rs 1.5
-lakh. [@1]
+lakh. [@1] Police also found a brass weighing scale, transparent and yellow polythene, Rs 9,390 in cash and a mobile phone worth about Rs 1.5 lakh. [@2]
 
 Police registered a case under the NDPS Act and the MP Drugs Prevention Act and
-were questioning her about the supply network. [@1]
-
+were questioning her about the supply network. [@1,2]
