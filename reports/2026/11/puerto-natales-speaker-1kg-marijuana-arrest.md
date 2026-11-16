@@ -1,13 +1,13 @@
 ---
 code: 8N085E
 added_at: "2026-11-14T02:56:16.537746Z"
-date: 2026-11-13
+date: 2026-11-14
 country: cl
 place: Puerto Natales, Última Esperanza, Magallanes
 coordinates: [-51.7333, -72.5167]
 precision: locality
-type: arrest
-also: [seizure]
+type: prosecution
+also: [seizure, arrest]
 title: Two held in Puerto Natales with 1 kg of marijuana in speaker
 summary: >-
   Carabineros in Puerto Natales detained two 20-year-old Chileans after the drug dog Hulk found just over 1 kg of marijuana hidden inside a speaker sent by parcel. A controlled delivery led to the first detention and house searches to the second, with phones, cash and a digital scale also seized.
@@ -60,22 +60,27 @@ sources:
     publisher: Radio Magallanes
     date: 2026-11-13
     language: es
+  - title: En prisión quedaron dos imputados por narcotráfico en Natales
+    url: https://laprensaaustral.cl/2026/11/14/en-prision-quedaron-dos-imputados-por-narcotrafico-en-natales/
+    publisher: La Prensa Austral
+    date: 2026-11-14
+    language: es
 open_questions:
-  - The article gives no separate date for the controlled delivery or the two detentions, so 13 November 2026, the publication date, is used as the incident date.
-  - The two detainees were not named, and no detention-control hearing, formalisation or court outcome was reported.
-  - No field-test, laboratory confirmation or valuation of the seized marijuana was reported.
-  - The whole account rests on a single report relaying the Carabineros version, with no independent witness or court record published.
-  - The Wayback Machine refused a save of the ITV Patagonia page (HTTP 520), so the source has no archived copy yet.
+    - The articles give no separate dates for the controlled delivery, the detentions or the formalisation hearing; 13 November 2026 and 14 November 2026 are the publication dates used as stand-ins.
+    - The two defendants were not named, and no plea, trial date or further court outcome beyond pretrial detention was reported.
+    - No field-test, laboratory confirmation or valuation of the seized marijuana was reported.
+    - The accounts relay the Carabineros version, with no independent witness or published court record.
+    - The Wayback Machine refused a save of the ITV Patagonia page (HTTP 520), so that source has no archived copy yet, and no archived copy of the La Prensa Austral page was confirmed.
 ---
 
 Carabineros detained two 20-year-old Chilean men in Puerto Natales for alleged
 illicit drug trafficking after finding marijuana hidden inside a speaker sent by
 parcel. [@1,2] Both detainees are Chilean citizens aged 20 with no criminal
-record, according to police information. [@1,2] Officers made the first detention
+record, according to police information. [@1,2,3] Officers made the first detention
 through a controlled delivery after holding a person the parcel recipient had
 sent to collect the package. [@1,2] Officers then searched two properties linked
 to the first detainee and the parcel recipient's home, an operation that
-produced a second detention and new material for the investigation. [@1,2]
+produced a second detention and new material for the investigation. [@1,2] The court ordered pretrial detention for both defendants. [@3]
 
 Carabineros seized one kilogram and four grams of marijuana in the procedure.
 [@1,2] Officers also seized two mobile phones, 50,000 pesos in cash and a digital
