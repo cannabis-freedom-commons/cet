@@ -40,31 +40,35 @@ sources:
     publisher: Balai
     date: 2026-11-16
     language: pt
+  - title: 'Praia: Mãe e filho detidos por suspeitas de tráfico de droga – A Nação – Jornal Independente'
+    url: https://www.anacao.cv/noticia/2026/11/16/praia-mae-e-filho-detidos-por-suspeitas-de-trafico-de-droga/
+    publisher: A Nação
+    date: 2026-11-16
+    language: pt
 open_questions:
-  - No weight was published for the seized cannabis or hashish.
-  - No amount was published for the seized money and no detail was given on the silver artefacts or other objects.
-  - No names or ages were published for the two detainees.
-  - No charges beyond suspected drug trafficking and no court outcome were reported; the case was pending a first judicial interrogation.
-  - The exact time of the detention on 14 November was not stated; 14 November 2026 is inferred from Saturday the 14th with publication on 16 November 2026.
-  - The account rests on a single accessible report of a Judicial Police statement.
+    - No weight was published for the seized cannabis or hashish.
+    - No amount was published for the seized money and no detail was given on the silver artefacts or other objects.
+    - No names or ages were published for the two detainees.
+    - No charges beyond suspected drug trafficking and no court outcome were reported; the case was pending a first judicial interrogation.
+    - The exact time of the detention on 14 November was not stated; 14 November 2026 is inferred from Saturday the 14th with publication on 16 November 2026.
+    - Both accessible accounts reproduce the same Judicial Police statement and are not independent reporting.
 ---
 
 Judicial Police officers in Praia detained two people, a mother and her son, in
 the Coqueiro neighbourhood in Castelao on Saturday the 14th on suspicion of drug
-trafficking. [@1] The Policia Judiciaria announced the detention in a statement
+trafficking. [@1,2] The Policia Judiciaria announced the detention in a statement
 that identified the two detainees as suspected drug traffickers. [@1]
 
 The operation was carried out by the Judicial Police's Internal Trafficking
-Brigade, the unit named as responsible for the action. [@1] During the
-operation, officers seized cannabis. [@1] Officers also seized hashish during
-the same operation. [@1] Officers also seized utensils used for handling
+Brigade, the unit named as responsible for the action. [@1,2] During the
+operation, officers seized cannabis. [@1,2] Officers also seized hashish during
+the same operation. [@1,2] Officers also seized utensils used for handling
 narcotics and for preparing individual doses of drugs. [@1] The seizure
 additionally included precision scales, money, silver artefacts and other
-objects described as connected to the suspected trafficking activity. [@1]
+objects described as connected to the suspected trafficking activity. [@1,2]
 
 After the detention, the two detainees remained held at Judicial Police
 facilities while awaiting presentation to a judge within the legal deadline.
 [@1] The forthcoming judicial presentation was for a first judicial
 interrogation and for the court to decide on the possible application of
-coercive measures. [@1]
-
+coercive measures. [@1,2]
