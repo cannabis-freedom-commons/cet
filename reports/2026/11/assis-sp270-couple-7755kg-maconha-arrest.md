@@ -61,6 +61,11 @@ sources:
     publisher: Marília Notícia
     date: 2026-11-16
     language: pt
+  - title: Polícia Rodoviária prende casal com mais de 77 kg de maconha e haxixe na Raposo Tavares, em Assis
+    url: https://www.passandoaregua.com.br/noticia/policia-rodoviaria-prende-casal-com-mais-de-77-kg-de-maconha-e-haxixe-na-raposo-tavares-em-assis-32262
+    publisher: Passando a Régua
+    date: 2026-11-16
+    language: pt
 media:
   - kind: photo
     url: https://marilianoticia.com.br/policia/rodoviaria-apreende-mais-de-77-kg-de-maconha-e-haxixe-em-posto-de-assis/
@@ -70,15 +75,15 @@ media:
 ---
 
 A Polícia Militar Rodoviária prendeu um homem e uma mulher em flagrante em
-Assis, no interior paulista. [@1,3,4] Segundo a Polícia Rodoviária, os dois presos não possuíam antecedentes criminais. [@3,4] A abordagem ocorreu na madrugada de
+Assis, no interior paulista. [@1,3,4,5] Segundo a Polícia Rodoviária, os dois presos não possuíam antecedentes criminais. [@3,4] A abordagem ocorreu na madrugada de
 segunda-feira (16) no pátio de um posto de serviços às margens da Rodovia Raposo
-Tavares (SP-270). [@1,3,4] A abordagem ocorreu por volta das 2h15 no km 451 da rodovia. [@3]
+Tavares (SP-270). [@1,3,4] A abordagem ocorreu por volta das 2h15 no km 451 da rodovia. [@3,5]
 
 Os policiais desconfiaram do carro estacionado na área do restaurante do posto e
-decidiram vistoriá-lo. [@2,3] O veículo era um Chevrolet Onix ocupado por um condutor e uma passageira, estacionado na baia de um restaurante. [@4] No porta-malas, a equipe encontrou 75 tabletes de
-maconha, que somaram 77,55 quilos, além de 201 gramas de haxixe. [@2,3] As drogas
+decidiram vistoriá-lo. [@2,3] O veículo era um Chevrolet Onix ocupado por um condutor e uma passageira, estacionado na baia de um restaurante. [@4,5] No porta-malas, a equipe encontrou 75 tabletes de
+maconha, que somaram 77,55 quilos, além de 201 gramas de haxixe. [@2,3,5] As drogas
 e o veículo foram apreendidos. [@1]
 
 O casal recebeu voz de prisão em flagrante por tráfico de drogas e foi levado à
 Central de Polícia Judiciária de Assis, onde permaneceu recluso à disposição da
-Justiça. [@2,3,4] A ocorrência foi realizada durante a Operação Fluminis Custus/Impacto e causou um prejuízo estimado de R$ 150 mil ao tráfico, segundo a polícia. [@3]
+Justiça. [@2,3,4,5] A ocorrência foi realizada durante a Operação Fluminis Custus/Impacto e causou um prejuízo estimado de R$ 150 mil ao tráfico, segundo a polícia. [@3,5]
