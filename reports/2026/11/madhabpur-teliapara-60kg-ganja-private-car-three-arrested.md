@@ -70,6 +70,11 @@ sources:
     publisher: Sylhetview24
     date: 2026-11-16
     language: bn
+  - title: মাধবপুরে প্রাইভেটকারে ৬০ কেজি গাঁজা উদ্ধার, আটক ৩
+    url: https://shironam.com/news/60-kg-cannabis-seized-from-private-car-in-madhabpur-3-arrested
+    publisher: Shironam
+    date: 2026-11-16
+    language: bn
 open_questions:
     - 'The accounts give different operation times: about 2:30 at night, about 3:30 at night, or before dawn.'
     - 'The accounts differ on the detainees'' home villages: two place all three in Lohaid village while another places Mohiuddin in Itakhola village of Noapara Union.'
@@ -84,7 +89,7 @@ media:
 ---
 
 Police detained three men and recovered 60 kg of ganja from a silver private car
-in a late-night operation in Madhabpur, Habiganj. [@1,3,4,5] The operation took place
+in a late-night operation in Madhabpur, Habiganj. [@1,3,4,5,7] The operation took place
 at about 2:30 at night on 16 November at Telia Para Noahati Mor in the upazila.
 [@1,3,6]
 
