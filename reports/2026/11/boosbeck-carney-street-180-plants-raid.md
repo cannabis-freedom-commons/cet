@@ -51,6 +51,10 @@ sources:
     url: https://www.thenorthernecho.co.uk/news/26729631.three-floor-cannabis-farm-discovered-police-boosbeck/
     publisher: The Northern Echo
     date: 2026-11-14
+  - title: Huge cannabis farm with 180 plants spreading across three floors raided by police - Yahoo News UK
+    url: https://uk.news.yahoo.com/huge-cannabis-farm-180-plants-144803621.html
+    publisher: Yahoo News UK
+    date: 2026-11-14
 open_questions:
   - No arrests, charges, cannabis weight or street value were reported; the investigation was still underway to identify those responsible.
   - The headline says more than 180 plants while the text gives a total of 180 plants removed; this report uses the 180-plant removal figure.
@@ -60,17 +64,16 @@ open_questions:
 
 Cleveland Police officers went to an address in the Carney Street area of
 Boosbeck on Friday, November 13, after reports that cannabis was being grown
-inside. [@1] Information from the community led to the discovery of a
-well-developed cannabis crop set across three floors. [@1]
+inside. [@1,2] Information from the community led to the discovery of a
+well-developed cannabis crop set across three floors. [@1,2]
 
 A three-floor cannabis farm with more than 180 plants was raided in East
 Cleveland. [@1] The grow was spread across three floors of the property. [@1]
 Officers removed a total of 180 plants from the address, along with growing
-equipment and other paraphernalia. [@1] Published photographs of the cannabis
+equipment and other paraphernalia. [@1,2] Published photographs of the cannabis
 farm were credited to Cleveland Police. [@1]
 
 Cleveland Police said an investigation is now underway to identify those
-responsible. [@1] Police said information from the public is vital to helping
+responsible. [@1,2] Police said information from the public is vital to helping
 them understand issues in the community. [@1] People can report information
 online, via the COPA app or anonymously through Crimestoppers. [@1]
-
