@@ -159,6 +159,11 @@ sources:
     publisher: المركزية
     date: 2026-11-08
     language: ar
+  - title: «امتعاض إيراني» يرفع درجة الخطر القادم إلى سوريا عبر الحدود
+    url: https://www.akhbaralyawm.com/news/590334/%C2%AB%D8%A7%D9%85%D8%AA%D8%B9%D8%A7%D8%B6-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%C2%BB-%D9%8A%D8%B1%D9%81%D8%B9-%D8%AF%D8%B1%D8%AC%D8%A9-%D8%A7%D9%84%D8%AE%D8%B7%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-
+    publisher: Akhbar Al Yawm
+    date: 2026-11-08
+    language: ar
 open_questions:
     - No one was reported arrested, charged or identified after the smugglers fled into Lebanon, and the smugglers' number and nationality were not given.
     - The exact time of the interception and the precise spot along the Sarghaya border were not reported.
@@ -169,12 +174,12 @@ open_questions:
 
 Syria's Defence Ministry media office said border guard units of the Syrian Arab Army foiled an
 attempt to smuggle drugs from Lebanese territory into Syria in the Sarghaya area of the Damascus
-countryside. [@1,2,4,6,7,8,9,10,11,14,16,17,21] The smugglers opened fire on the Syrian force and the
+countryside. [@1,2,4,6,7,8,9,10,11,14,16,17,21,22] The smugglers opened fire on the Syrian force and the
 force returned fire, the ministry said [@1,3,4,6,7,8,9,11,12,13,14,15,16,18,19], before the gunmen fled
 towards Lebanese territory. [@2,4,6,7,8,9,11,12,13,15,16,17]
 
 The operation ended with 280 kilograms of hashish and 28,000 Captagon pills confiscated, according to
-the ministry. [@1,3,4,5,6,7,8,9,10,11,12,13,14,16,17,18,19,20,21] The seized items were referred to the
+the ministry. [@1,3,4,5,6,7,8,9,10,11,12,13,14,16,17,18,19,20,21,22] The seized items were referred to the
 competent authorities to complete legal procedures. [@1,3,4,7,11,12,13,14,15,18]
 
 The ministry announced the operation on Friday 6 November 2026, and the state news agency SANA
