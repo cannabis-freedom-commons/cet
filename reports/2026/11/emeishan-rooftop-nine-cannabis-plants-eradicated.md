@@ -34,16 +34,20 @@ sources:
     publisher: 川渝本地消息
     date: 2026-11-15
     language: zh
+  - title: 楼顶九株“怪草”，网格员凭借顺口溜认出大麻_大风号_凤凰网
+    url: https://feng.ifeng.com/c/8y53nPOwb7H
+    publisher: 凤凰网
+    date: 2026-11-15
+    language: zh
 open_questions:
-  - The article gives no separate date for the discovery or the eradication; 15 November 2026 is its publication date and is used as the incident date.
-  - The plants were identified visually as cannabis; no laboratory confirmation was reported.
-  - The account says Wang was caught but gives no detention measure, charge or court outcome.
-  - No weight, value or additional seizure from the rooftop was reported.
-  - Only one accessible source for this event was found after searching in Chinese.
+    - The article gives no separate date for the discovery or the eradication; 15 November 2026 is its publication date and is used as the incident date.
+    - The plants were identified visually as cannabis; no laboratory confirmation was reported.
+    - The account says Wang was caught but gives no detention measure, charge or court outcome.
+    - No weight, value or additional seizure from the rooftop was reported.
 ---
 
 Grid worker Xiaozhang was carrying out door-to-door inspection visits in a
-housing estate in Shengli Subdistrict in Emeishan, Leshan, Sichuan. [@1] When
+housing estate in Shengli Subdistrict in Emeishan, Leshan, Sichuan. [@1,2] When
 she reached the roof of a residential building, she noticed several strikingly
 tall herbaceous plants. [@1] The plants had straight upright stems and leaves
 spreading from the stem joints like an open palm divided into sections, unlike
@@ -53,9 +57,8 @@ with palm-like foliage. [@1]
 Using a mnemonic learned in anti-drug training, she compared the features and
 recognised the plants as cannabis, a drug-source plant, then immediately called
 police on 110. [@1] Officers rushed to the rooftop and eradicated all nine
-artificially planted cannabis plants. [@1]
+artificially planted cannabis plants. [@1,2] Officers also cleared the planting containers and soil together with the plants. [@2] Officers surveyed the scene and photographed it to preserve evidence. [@2]
 
 Police followed the lead and caught Wang, identified as the person who had
-illegally grown the plants. [@1] The case centres on a small intentional rooftop
+illegally grown the plants. [@1,2] The case was still under further handling at the time of publication. [@2] The cannabis had been privately grown by Wang, a resident of that building. [@2] The case centres on a small intentional rooftop
 planting inside an ordinary residential block. [@1]
-
