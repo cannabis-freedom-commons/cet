@@ -54,18 +54,23 @@ sources:
     publisher: Sorejomin Barta
     date: 2026-11-15
     language: bn
+  - title: বোরখার আড়ালে ১০ কেজি গাঁজা, গ্রেপ্তার মিথিলা-মায়া - Durniti Talash News Tv
+    url: https://durnititalashnewstv.com/archives/4372
+    publisher: Durniti Talash News Tv
+    date: 2026-11-15
+    language: bn
 ---
 
 Police in Brahmanpara, Cumilla arrested two women in the Deus area of Shashidal
-Union on Friday afternoon, 13 November 2026, acting on a secret tip-off. [@1,2]
+Union on Friday afternoon, 13 November 2026, acting on a secret tip-off. [@1,2,3]
 Officers detained the two women after finding them suspicious and then searched
-them. [@1] Police said the women were carrying the ganja under their burqas with
-scotch tape wrapped around their stomachs. [@1,2]
+them. [@1,3] Police said the women were carrying the ganja under their burqas with
+scotch tape wrapped around their stomachs. [@1,2,3]
 
-The search recovered 10 kg of ganja from the women. [@1,2] The arrested women were
+The search recovered 10 kg of ganja from the women. [@1,2,3] The arrested women were
 identified as Fatema Akter alias Mithila Moni, 28, of Binouti in Kasba,
 Brahmanbaria, and Jannatul Ferdous alias Maya, 24, of Kalagachhia in Bandar,
-Narayanganj. [@1,2]
+Narayanganj. [@1,2,3]
 
 Police said Fatema Akter already faces two pending cases under the Narcotics
 Control Act at Brahmanpara and Kasba police stations. [@1] Police said Jannatul
