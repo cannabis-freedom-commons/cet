@@ -42,6 +42,11 @@ sources:
     publisher: JAPOSCO
     date: 2026-11-16
     language: id
+  - title: Periode Januari - Oktober 2026, Polres Simalungun ungkap 218 kasus narkoba
+    url: https://sumut.antaranews.com/berita/677495/periode-januari-oktober-2026-polres-simalungun-ungkap-218-kasus-narkoba
+    publisher: ANTARA
+    date: 2026-11-16
+    language: id
 open_questions:
   - Only the months January to October 2026 were given for the main enforcement period, so 31 October 2026 stands in for the period end.
   - The 269 arrested total covers all narcotics cases, not cannabis cases alone.
@@ -50,19 +55,25 @@ open_questions:
   - No names, charges for individuals, pleas or court outcomes were reported; the case was at the investigation stage.
   - No value estimate for the cannabis was published.
   - The account rests on a single outlet report of the Polres Simalungun statement; no independent second outlet was found.
+media:
+  - kind: photo
+    url: https://sumut.antaranews.com/berita/677495/periode-januari-oktober-2026-polres-simalungun-ungkap-218-kasus-narkoba
+    media_url: https://cdn.antaranews.com/cache/1200x800/2026/11/16/1000853699.jpg
+    publisher: ANTARA
+    caption: 'Simalungun police chief and senior officers display narcotics evidence at the press conference. Photo: Humas Polres Simalungun via ANTARA'
 ---
 
 Polres Simalungun said it uncovered 218 narcotics cases from January to October
-2026 in its Simalungun jurisdiction. [@1] Police said they arrested 269 suspects
+2026 in its Simalungun jurisdiction. [@1,2] Police said they arrested 269 suspects
 and seized sabu, ganja and ecstasy in those cases. [@1] The results were
 announced at a press conference on 16 November 2026 at Aula Tatya Dharaka at the
-Simalungun police headquarters in Pamatang Raya. [@1]
+Simalungun police headquarters in Pamatang Raya. [@1,2]
 
-Police listed 767.79 grams of ganja among the seized evidence. [@1] Police
-listed 12 cannabis plants among the seized evidence. [@1] The same totals
+Police listed 767.79 grams of ganja among the seized evidence. [@1,2] Police
+listed 12 cannabis plants among the seized evidence. [@1,2] The same totals
 included 1,251.61 grams of sabu. [@1] The same totals included 110 ecstasy
 pills. [@1] Police said 173 of the 218 cases had been resolved, or 79.35
-percent. [@1]
+percent. [@1,2] The highest monthly case totals were in June and October 2026 with 33 cases each, while October had the highest suspect total with 43 people. [@2] Compared with the same period in 2025, disclosed cases rose 17.20 percent, resolved cases rose 17.68 percent and suspects rose 15.45 percent, while seized sabu fell 24.12 percent and ganja fell 64.88 percent. [@2]
 
 The narcotics unit contributed the most with 131 cases, followed by Tanah Jawa
 with 19 cases, Gunung Malela with 17 cases and Bandar Huluan with 15 cases. [@1]
@@ -72,4 +83,3 @@ reported 31 cases and detained 61 people. [@1] That operation included 262.38
 grams of ganja among its seizures. [@1] Police said suspects were processed
 under Indonesia's Narcotics Law, including provisions on distribution, non-plant
 possession and plant-form narcotics. [@1]
-
