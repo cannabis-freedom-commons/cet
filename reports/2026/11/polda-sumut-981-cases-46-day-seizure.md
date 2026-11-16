@@ -52,6 +52,11 @@ sources:
     publisher: Antara News
     date: 2026-11-16
     language: id
+  - title: Pemberantasan Peredaran Narkotika, Polda Sumut Ungkap 981 Kasus dan Sita 30,34 Ton Narkotika
+    url: https://lidik.id/pemberantasan-peredaran-narkotika-polda-sumut-ungkap-981-kasus-dan-sita-3034-ton-narkotika
+    publisher: LIDIK.ID
+    date: 2026-11-16
+    language: id
 open_questions:
   - The 30.34-ton total, the Rp3.36 trillion value and the 93,469,666 lives-saved estimate cover all drug types together, so only the separately stated 157 kg of cannabis is counted as cannabis seized.
   - The 172 kg of methamphetamine, 30,510 ecstasy pills and 23,868 milliliters of narcotics-containing liquid are excluded from cannabis figures.
@@ -64,14 +69,14 @@ open_questions:
 
 North Sumatra police said they uncovered 981 drug cases involving 1,311 suspects
 and seized 30.34 tons of various drugs and 23,868 milliliters of
-narcotics-containing liquid over 46 days. [@1] Police said the enforcement
-operations ran from 1 October to 15 November 2026. [@1] North Sumatra police
+narcotics-containing liquid over 46 days. [@1,2] Police said the enforcement
+operations ran from 1 October to 15 November 2026. [@1,2] North Sumatra police
 chief Inspector General Sonny Irawan announced the results on 16 November 2026
 at the North Sumatra police headquarters in Medan. [@1]
 
 From those operations, police seized 172 kilograms of methamphetamine, 157
 kilograms of cannabis, 150,012 cannabis plants, 30,510 ecstasy pills and 23,868
-milliliters of narcotics-containing liquid. [@1] Police also seized Rp1.2
+milliliters of narcotics-containing liquid. [@1,2] Police also seized Rp1.2
 billion in cash and detained seven suspects alleged to be dealers. [@1] Police
 said the seized evidence was estimated to have saved 93,469,666 lives and was
 valued at Rp3.36 trillion. [@1]
@@ -82,4 +87,3 @@ security and order. [@1] He said drugs are not only a law-enforcement issue but
 also a threat to youth, security, public health and the future of the nation.
 [@1] Polda Sumut asked for support from all elements of society to help
 eradicate narcotics in the region. [@1]
-
