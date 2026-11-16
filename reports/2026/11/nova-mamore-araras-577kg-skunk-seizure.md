@@ -75,6 +75,11 @@ sources:
     publisher: Imediato Online
     date: 2026-11-14
     language: pt
+  - title: Quase 580 kg de skunk são apreendidos após perseguição; dois homens são presos em Rondônia - RO
+    url: https://jornalinforondonia.com/quase-580-kg-de-skunk-sao-apreendidos-apos-perseguicao-dois-homens-sao-presos-em-rondonia/
+    publisher: Jornal Inforondonia
+    date: 2026-11-14
+    language: pt
 media:
   - kind: photo
     url: https://rondonoticias.com.br/noticia/policia/162590/policia-apreende-577-quilos-de-skunk-e-captura-quatro-suspeitos-em-nova-mamore
@@ -85,16 +90,16 @@ media:
 
 In the afternoon of Friday 13 November 2026, Rondonia Civil Police seized 577.2
 kilograms of skunk marijuana, described as a potent form of the drug, in the
-district of Araras in the municipality of Nova Mamore. [@1,3,4,5] Officers of Nova
+district of Araras in the municipality of Nova Mamore. [@1,3,4,5,8] Officers of Nova
 Mamore's 1st Police Precinct identified two vehicles suspected of carrying the
 drugs and supporting their movement, travelling from the Nova Mamore area toward
 Porto Velho. [@1,3,4,7] During the interception the occupants tried to flee into an
-area of vegetation but were pursued, located and captured by the officers. [@1,3,5,6,7] The pursuit that ended in the arrests took place on the BR-425. [@4]
+area of vegetation but were pursued, located and captured by the officers. [@1,3,5,6,7,8] The pursuit that ended in the arrests took place on the BR-425. [@4]
 
 A search of the vehicles found the skunk load, which totalled 577.2 kilograms.
-[@1,3,5,6,7] The operation ended with two adults arrested in the act and two adolescents
+[@1,3,5,6,7,8] The operation ended with two adults arrested in the act and two adolescents
 detained, and those involved, the vehicles and all the drugs were taken to the
-Nova Mamore Civil Police station for legal procedures. [@1,3,4,5,6,7] A second account
+Nova Mamore Civil Police station for legal procedures. [@1,3,4,5,6,7,8] A second account
 confirms that the Civil Police seized 577.2 kg of skunk on the Friday afternoon
 in Araras, Nova Mamore, arresting two adults and detaining two adolescents after
 intercepting the vehicles carrying the drugs toward Porto Velho. [@2]
@@ -102,4 +107,4 @@ intercepting the vehicles carrying the drugs toward Porto Velho. [@2]
 The seizure came under Operation Madeira-Mamore II, an integrated effort of the
 Rondonia Civil Police, the Narcotics Department, the Federal Police, the Federal
 Highway Police, the Rondonia Military Police and the Border and Boundary Police
-Battalion against interstate drug trafficking. [@1,3,4,5,7]
+Battalion against interstate drug trafficking. [@1,3,4,5,7,8]
