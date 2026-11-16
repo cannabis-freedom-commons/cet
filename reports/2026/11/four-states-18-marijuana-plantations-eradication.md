@@ -38,6 +38,11 @@ media:
     media_url: https://images.milenio.com/VYtNx8LRY-KTkgG1PKq5i0CxjEc=/942x532/uploads/media/2026/11/14/destruccion-plantios-amapola-mariguana-chihuahua.jpg
     publisher: Grupo Milenio
     caption: Army personnel during the destruction of the 38 poppy and marijuana plantations in the four states.
+  - kind: photo
+    url: https://www.sopitas.com/noticias/ejercito-destruye-38-plantios-en-cuatro-estados/
+    media_url: https://www.sopitas.com/wp-content/uploads/2026/11/ejercito-destruye-38-plantios-golpe-narco.webp
+    publisher: Sopitas.com
+    caption: 'Defence handout photo published with the report on the destruction of the 38 plantations. Photo: Defensa'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b185f8ddf05ab00236ec11965cf8dc8e
@@ -88,19 +93,24 @@ sources:
     publisher: La Prensa
     date: 2026-11-14
     language: es
+  - title: Ejército destruye 38 plantíos de amapola y mariguana en cuatro estados
+    url: https://www.sopitas.com/noticias/ejercito-destruye-38-plantios-en-cuatro-estados/
+    publisher: Sopitas.com
+    date: 2026-11-14
+    language: es
 ---
 
 The operations were carried out on 13 November 2026 through ground and air
-reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6,7,9] Soldiers
+reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6,7,9,10] Soldiers
 of the Mexican Army and Air Force located and destroyed 38 drug plantations in
-four states as part of operations against narcotics production. [@3,4,5,6,8,9] Of the 38
+four states as part of operations against narcotics production. [@3,4,5,6,8,9,10] Of the 38
 plantations, 20 were poppy crops and 18 were marijuana crops, together covering
-4.9 hectares. [@3,5,6,7,9]
+4.9 hectares. [@3,5,6,7,9,10]
 
 A Milenio Facebook post announced the destruction of 38 poppy and marijuana
 plantations in four states with the participation of the Army and the Air Force.
 [@1] Defence figures put the estimated economic damage to organised crime from
-destroying the crops at 6,020,000 pesos. [@3,4,5,6,7,8,9] The Defence Ministry confirmed the
+destroying the crops at 6,020,000 pesos. [@3,4,5,6,7,8,9,10] The Defence Ministry confirmed the
 operation on 14 November through its official channels. [@2]
 
 No arrests linked to the plantations and no criminal groups allegedly
