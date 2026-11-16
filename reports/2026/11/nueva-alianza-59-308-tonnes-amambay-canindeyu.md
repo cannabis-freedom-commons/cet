@@ -58,6 +58,11 @@ sources:
     publisher: Ñanduti
     date: 2026-11-13
     language: es
+  - title: Operação entre Brasil e Paraguai destrói 308 toneladas de maconha e 68 acampamentos
+    url: https://www.tribunadosertao.com.br/geral/2026/11/15/1022547-operacao-entre-brasil-e-paraguai-destroi-308-toneladas-de-maconha-e-68-acampamentos
+    publisher: Tribuna do Sertão
+    date: 2026-11-15
+    language: pt
 media:
   - kind: photo
     url: https://www.adndigital.com.py/en-operativo-conjunto-destruyen-mas-de-300-toneladas-de-marihuana-en-casi-85-ha-de-cultivo/
@@ -67,17 +72,16 @@ media:
       Brazilian Federal Police officer beside a smoking pile of seized cannabis
       under a tarp during the joint Nueva Alianza 59 destruction, as published
       with the operation balance.
-open_questions:
-    - No arrests or court outcome are reported for phase 59; only the agencies' eradication and destruction balance is published.
-    - The 'about 308 tonnes' figure is the SENAD's official balance combining the 54,825 kg of processed cannabis destroyed with the estimated potential yield of the eradicated crops, not a measured weight.
-    - Hectares are reported as 'almost 85 hectares' by ADN Digital (84.5 hectares in the second account); 85 is used here and both figures are noted.
-    - The 965 kg of cannabis seeds and the 68 camps destroyed are reported as destruction counts but are not carried as structured figures.
-    - Both opened accounts rest on the agencies' official SENAD balance for phase 59; no independent weighing or field confirmation is reported.
+  - kind: photo
+    url: https://www.tribunadosertao.com.br/geral/2026/11/15/1022547-operacao-entre-brasil-e-paraguai-destroi-308-toneladas-de-maconha-e-68-acampamentos
+    media_url: https://img.dhost.cloud/KqWScVGSmb3knfGaEm_hrGB5oKE=/1280x720/smart/https://tdan.nyc3.digitaloceanspaces.com/images/5c382/0d6c5fc0d5f03fe371d869b6d8fa71fb218.jpg
+    publisher: Tribuna do Sertão
+    caption: 'Joint Brazil-Paraguay operation destroying marijuana and dismantling camps, as published with the phase 59 balance. Photo: Sputnik Brasil Telegram channel'
 ---
 
 Paraguay's Senad, with Brazil's Federal Police, finished phase 59 of Operation
 Nueva Alianza (Operación Nueva Alianza 59) on 12 November 2026, after ten days
-of joint action in the Amambay and Canindeyú departments. [@1,3] The ten-day
+of joint action in the Amambay and Canindeyú departments. [@1,3,4] The ten-day
 operation ran from 3 to 12 November, with Paraguay's National Anti-Drug
 Secretariat (Senad), the Internal Defence Operations Command (CODI), the
 Paraguayan Air Force and the Public Ministry, supported by Brazil's Federal
@@ -88,10 +92,10 @@ damage to the criminal organisations, and that, beyond the eradicated
 plantations, 68 camps, 965 kg of cannabis seeds and 54,825 kg of cannabis ready
 for sale were destroyed. [@1,3] The interventions eradicated 84.5 hectares of
 marijuana plantations and dismantled 68 clandestine camps used by the criminal
-structures. [@2] According to SENAD's official balance, counting the processed
+structures. [@2,4] According to SENAD's official balance, counting the processed
 drug found during the operations and the production potential of the eradicated
 plantations, an estimated 308.3 tonnes of marijuana were removed from the
-regional market. [@2]
+regional market. [@2,4]
 
 The final day of the operation was carried out in the settlement of Pacola, in
 the Karapái district, where the close of the interventions was confirmed. [@1,3]
