@@ -45,6 +45,11 @@ sources:
     publisher: Komenda Stołeczna Policji
     date: 2026-11-16
     language: pl
+  - title: Kierowca taksówki zatrzymany na Pradze-Północ. Policjanci znaleźli przy nim marihuanę
+    url: https://informacje.wp.pl/wiadomosci/kierowca-taksowki-zatrzymany-na-pradze-polnoc-policjanci-znalezli-przy-nim-marihuane-7351618256832544a
+    publisher: WP Info
+    date: 2026-11-16
+    language: pl
 open_questions:
   - No weight for the four wraps of marijuana was published, so no cannabis weight is recorded.
   - No separate date for the stop was given; 16 November 2026 is the publication date of the police report and is used as the incident date.
@@ -59,16 +64,15 @@ noticed a taxi driver making nervous movements behind the wheel. [@1] Using
 light and sound signals, officers stopped the vehicle for a check on Czynszowa
 Street and identified the driver and the passenger. [@1] The driver was a
 32-year-old Turkish citizen and the passenger was a 31-year-old citizen of the
-same country. [@1] Having reasonable suspicion that the men could possess
+same country. [@1,2] Having reasonable suspicion that the men could possess
 prohibited substances, officers searched them and the vehicle. [@1]
 
 Officers found one aluminium-foil wrap of plant material on the car's floor mat
 and three more foil wraps with plant material in the driver's jacket pocket.
-[@1] Testing of the secured plant material confirmed that it was marijuana. [@1]
-The 32-year-old driver was detained and placed in a police cell. [@1]
+[@1,2] Testing of the secured plant material confirmed that it was marijuana. [@1,2]
+The 32-year-old driver was detained and placed in a police cell. [@1,2]
 
 Investigators charged the 32-year-old Turkish citizen with possession of
-narcotics. [@1] Possession of narcotics carries up to three years in prison.
-[@1] The proceedings are supervised by the Warsaw-Praga Północ District
-Prosecutor's Office. [@1]
-
+narcotics. [@1,2] Possession of narcotics carries up to three years in prison.
+[@1,2] The proceedings are supervised by the Warsaw-Praga Północ District
+Prosecutor's Office. [@1,2]
