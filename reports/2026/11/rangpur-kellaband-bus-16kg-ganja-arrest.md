@@ -77,6 +77,10 @@ sources:
     publisher: Banglar Alo News
     date: '2026-11-14'
     language: bn
+  - title: 'দিনাজপুর ও রংপুরে ১৬ কেজি গাঁজা ও ইয়াবাসহ গ্রেফতার ২ Source: Dhaka Mail | Shironam থেকে'
+    url: https://shironam.com/news/2-arrested-with-16-kg-ganja-and-yaba-in-dinajpur-and-rangpur
+    publisher: Shironam
+    language: bn
 open_questions:
   - >-
     The same articles also report a separate SRB-13 raid the same morning at a house in Baishpur
@@ -97,8 +101,8 @@ media:
 On the morning of 14 November 2026, an SRB-13 team from Rangpur carried out an
 operation at Kellaband CO Bazar under Kotwali police station in Rangpur city.
 [@1] Officers searched a Rangpur-to-Saidpur bus named Rakib Express and seized
-16 kg of ganja. [@1] They arrested a passenger, 35-year-old Md Suman Mia of
-Bhatera in Cumilla Sadar Dakshin. [@1]
+16 kg of ganja. [@1,3] They arrested a passenger, 35-year-old Md Suman Mia of
+Bhatera in Cumilla Sadar Dakshin. [@1,3]
 
 SRB-13 announced the operation in a press release signed by Senior Assistant
 Director (Media) Biplab Kumar Goswami on the evening of Saturday 14 November.
