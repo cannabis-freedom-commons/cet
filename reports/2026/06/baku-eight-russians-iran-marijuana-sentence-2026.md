@@ -57,6 +57,11 @@ sources:
     publisher: Эксперт
     date: 2026-06-19
     language: ru
+  - title: Россия против Азербайджана. Война задержаний
+    url: https://zona.media/chronicle/russia-azerbaijan
+    publisher: Медиазона
+    date: 2025-07-03
+    language: ru
 open_questions:
   - The reports do not give the quantity or type of the drugs, so the share of cannabis and any weight are unrecorded and no kilograms are counted.
   - The charges mix drug transit and cyber fraud; the sentences do not state how much of each term relates to the drug count.
@@ -65,6 +70,8 @@ open_questions:
   - Igor Zabolotsky and Ilnur Valitov, named separately for cyber fraud alone, are not counted among the eight; only the drug-convicted group is counted here.
   - The exact date of detention of the eight in summer 2025 is not given by these sources; the date used is the sentencing date, 19 June 2026.
   - 'Left out, as its quotation was not found in Meduza: There were eight convicted Russians in the case, all of whom were found guilty of "illicit trafficking of narcotic substances on an especially large scale".'
+  - The type and weight of the drugs allegedly smuggled from Iran were not specified.
+  - It is unresolved whether one detainee's surname is Fedorov or Fedotov.
 ---
 
 A court in Baku sentenced eight Russian citizens to prison on charges of
@@ -81,10 +88,10 @@ Zabolotsky and Ilnur Valitov, convicted separately of cyber fraud, were each
 given three years, and Alexander Vaiser was given four years for laundering
 money from illegal websites. [@2] Police in Baku detained 11 Russians in the
 summer of 2025; eight were charged with drug smuggling and three others with
-cyber fraud. [@2]
+cyber fraud. [@2,5] At the time seven of the eight were publicly named and the eighth name was still unknown. [@5] The court set pre-trial detention for the eight at four months. [@5]
 
 The suspects included recently relocated IT specialists, entrepreneurs and
-tourists who were picked up at random. [@3] The investigation considered that the eight Russians laundered 98,000 manats (about 4.2 mln rubles). [@4] The June sentences finished the
+tourists who were picked up at random. [@3,5] At least three of the eight arrested had moved to Azerbaijan after mobilisation in autumn 2022. [@5] The investigation considered that the eight Russians laundered 98,000 manats (about 4.2 mln rubles). [@4] The June sentences finished the
 court's handling of the cases of those held in Baku in 2025. [@2] The detentions
 followed a sharp conflict between Moscow and Baku over the removal of
 Azerbaijanis from Russia in 2025. [@2]
