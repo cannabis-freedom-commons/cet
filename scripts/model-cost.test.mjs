@@ -79,8 +79,8 @@ for (const [model,input,output,cached,write=input] of [
   assert.equal(planCost(3,null,model),0.2);
  });
 }
-test('Swancloud plan does not override historical OpenCode or unknown models',()=>{
- assert.equal(planCost(18,{price_usd:10,allowance_usd:180},model),1);
+test('OpenCode Go DeepSeek: $10 buys $100 of API usage, whatever plan the server names',()=>{
+ assert.equal(planCost(18,{price_usd:10,allowance_usd:180},model),1.8);
  assert.equal(modelPlan('other/model',null),null);
 });
 
@@ -101,7 +101,8 @@ test("OpenCode Go Muse uses supplied cache pricing and a 6× plan at every hour"
 
 test('the configured plan (OpenCode Go) covers only its own provider; API keys are paid as used', () => {
   const plan = { price_usd: 10, allowance_usd: 180 };
-  assert.equal(modelPlan('opencode-go/deepseek-v4.1-flash#max', plan), plan);
+  assert.equal(modelPlan('opencode-go/a-new-model#max', plan), plan); // no plan of its own: the server's
+  assert.deepEqual(modelPlan('opencode-go/deepseek-v4.1-flash#max', plan), { multiplier: 10, price_usd: 10, allowance_usd: 100 });
   assert.equal(modelPlan('openai/gpt-6.1-terra#medium', plan), null);
   assert.equal(modelPlan('xai/grok-4.7#low', plan), null);
   assert.equal(planCost(18, plan, 'openai/gpt-6.1-terra'), 0);

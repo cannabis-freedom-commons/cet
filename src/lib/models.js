@@ -19,6 +19,13 @@ export const PROVIDER_NAMES = { openai: "OpenAI", swancloud: "Swancloud", "openc
 // of its own takes that plan's ratio. Every other provider without a multiplier is paid as used.
 export const CONFIGURED_PLAN_PROVIDERS = ["opencode-go"];
 
+// what a provider's subscription costs a month, in USD, where it is known: a model's
+// `planMultiplier` then reads as "$10 buys $60" of API usage
+export const PLAN_PRICES = { "opencode-go": 10 };
+
+// OpenCode Go's peak hours, for describing them: "weekdays 01:00–04:00 and 06:00–10:00 UTC"
+export const describePeak = (peak) => `weekdays ${peak.hours.map(([a, b]) => `${String(a).padStart(2, "0")}:00–${String(b).padStart(2, "0")}:00`).join(" and ")} UTC`;
+
 // Each model once, with its price at every provider that offers it. Prices: `input`, `output`;
 // `cached` (cache reads) and `cacheWrite` fall back to `input` where no rate of their own was
 // supplied; `peak` with `peakInput`/`peakOutput`/`peakCached` for hours that cost more;
@@ -35,7 +42,7 @@ export const MODELS = {
   "muse-spark-1.3-contributor": {
     name: "Muse Spark 1.3 Contributor", by: "Meta",
     providers: {
-      // operator-supplied rates; a 15× subscription on Swancloud, 6× on OpenCode Go
+      // operator-supplied rates; a 15× subscription on Swancloud, 6× on OpenCode Go ($10 buys $60)
       swancloud: { input: 0.100, output: 0.200, cached: 0.002, planMultiplier: 15 },
       "opencode-go": { input: 0.10, output: 0.20, cached: 0.002, planMultiplier: 6 },
     },
@@ -55,7 +62,8 @@ export const MODELS = {
       // DeepSeek's own off-peak rates (https://api-docs.deepseek.com/quick_start/pricing), cache
       // hits included; Swancloud has no peak hours
       swancloud: { input: 0.150, output: 0.6, cached: 0.003, planMultiplier: 15 },
-      "opencode-go": { input: 0.15, output: 0.6, cached: 0.003, peak: OPENCODE_GO_PEAK, peakInput: 0.3, peakOutput: 1.2, peakCached: 0.006 },
+      // $10 of OpenCode Go buys $100 of DeepSeek at these prices
+      "opencode-go": { input: 0.15, output: 0.6, cached: 0.003, peak: OPENCODE_GO_PEAK, peakInput: 0.3, peakOutput: 1.2, peakCached: 0.006, planMultiplier: 10 },
     },
   },
 };

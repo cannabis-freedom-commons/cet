@@ -1,5 +1,5 @@
 import { runCost, costParts, planCost, modelPlan, isPriced } from './model-cost.js';
-import { modelParts, modelInfo, MODELS, PROVIDER_NAMES } from './models.js';
+import { modelParts, modelInfo, isPeak, MODELS, PROVIDER_NAMES } from './models.js';
 export { modelParts };
 
 const SUMS = ['runs', 'running', 'input', 'output', 'cached', 'reasoning', 'fresh', 'cacheWrite', 'cost', 'planCost', 'unpriced',
@@ -20,8 +20,11 @@ export function summarizeAIUsage(buckets, plan) {
     const row = models.get(b.model) || {
       model: b.model || 'Not recorded', ...parts, label: MODELS[parts.name]?.name ?? parts.name, providerName: PROVIDER_NAMES[parts.provider] ?? parts.provider,
       priced: Boolean(info), cachedAtInput: Boolean(info && info.cached == null), plan: modelPlan(b.model, plan),
+      // the model's prices off-peak and, where it has peak hours, in them; `peakRuns` started in them
+      price: info, peakRuns: 0,
       ...Object.fromEntries(SUMS.map((k) => [k, 0])),
     };
+    if (info?.peak && !(b.cost_usd > 0) && isPeak(b.started_at, b.model)) row.peakRuns += b.runs;
     const fresh = b.input_tokens || 0, cached = b.cache_read_tokens || 0, write = b.cache_write_tokens || 0;
     const output = (b.output_tokens || 0) + (b.reasoning_tokens || 0);
     row.runs += b.runs;

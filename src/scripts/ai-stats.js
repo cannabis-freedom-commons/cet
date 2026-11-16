@@ -1,5 +1,6 @@
 import { summarizeAIUsage, summarizeEfficiency, OUTCOMES, formatDuration } from '../lib/ai-usage.js';
-import { formatUSD, planDescription } from '../lib/model-cost.js';
+import { formatUSD, planDescription, planShort } from '../lib/model-cost.js';
+import { describePeak } from '../lib/models.js';
 import { watchSubmissionUpdates } from '../lib/ai-activity.js';
 
 const root = document.querySelector('[data-ai-stats]');
@@ -46,10 +47,21 @@ function initialize(root) {
     if (none) tr.className = 'unpriced';
     const name = node('td', row.label, 'model-cell');
     if (!row.total) { name.title = row.model; name.append(node('small', [row.providerName, row.effort].filter(Boolean).join(' · '))); }
+    // a model that costs more in peak hours: its share of runs started then, and under each price
+    // the off-peak and peak rates (the line above them is the average the runs came to)
+    const p = row.price?.peak ? row.price : null;
+    const est = row.runs - row.unpriced - row.reportedRuns;
+    if (p) {
+      const peakNote = node('small', `${pct(row.peakRuns, est)} of runs in peak hours`, 'peak');
+      peakNote.title = `Peak hours: ${describePeak(p.peak)}. ${fmt(row.peakRuns)} of ${fmt(est)} runs started in them.`;
+      name.append(peakNote);
+    }
+    const price = (v) => `$${v.toFixed(v < 0.1 ? 3 : 2)}`;
+    const both = (off, peak) => p && peak != null ? [[`off-peak ${price(off)} · peak ${price(peak)}`, 'peak']] : [];
     tr.append(name, node('td', fmt(row.runs), 'num'),
-      tokenCell(row.fresh, row.costInput, row.estFresh),
-      tokenCell(row.cached, row.costCacheRead, row.estCached, [[`${pct(row.cached, row.fresh + row.cached + row.cacheWrite)} of input`], [row.cachedAtInput ? 'at input price' : '', 'warn']]),
-      tokenCell(row.output, row.costOutput, row.estOutput));
+      tokenCell(row.fresh, row.costInput, row.estFresh, both(p?.input, p?.peakInput)),
+      tokenCell(row.cached, row.costCacheRead, row.estCached, [...both(p?.cached, p?.peakCached), [`${pct(row.cached, row.fresh + row.cached + row.cacheWrite)} of input`], [row.cachedAtInput ? 'at input price' : '', 'warn']]),
+      tokenCell(row.output, row.costOutput, row.estOutput, both(p?.output, p?.peakOutput)));
     const cost = node('td', none ? 'no price' : usd(row.cost), 'num');
     if (row.reported) cost.append(node('small', row.reportedRuns === row.runs - row.unpriced ? 'reported by OpenCode' : `${usd(row.reported)} reported`));
     if (row.costCacheWrite >= 0.01) cost.append(node('small', `${usd(row.costCacheWrite)} cache writes`));
@@ -57,7 +69,7 @@ function initialize(root) {
     tr.append(cost);
     if (hasPlan) {
       const plan = node('td', row.planCost ? usd(row.planCost) : '—', 'num');
-      if (row.plan) plan.append(node('small', row.plan.multiplier ? `API ÷ ${row.plan.multiplier}` : `$${row.plan.price_usd} buys $${row.plan.allowance_usd}`));
+      if (row.plan) { const s = node('small', planShort(row.plan)); s.title = planDescription(row.plan); plan.append(s); }
       else if (!row.total && !none) plan.append(node('small', 'paid as used'));
       tr.append(plan);
     }
@@ -112,6 +124,7 @@ function initialize(root) {
       const unpriced = rows.filter(r => r.unpriced).map(r => r.unpriced === r.runs ? r.model : `${r.model} (${fmt(r.unpriced)} of ${fmt(r.runs)} runs, no cost reported)`);
       const notes = [
         'API cost is what the tokens come to at each provider’s price per million tokens (src/lib/models.js), at the peak price for runs started in peak hours. Where OpenCode reports a run’s cost (pay-as-you-go keys such as xAI’s), that figure is used, and it is not split by kind of token.',
+        ...[...new Map(rows.filter(r => r.price?.peak).map(r => [r.providerName, r])).values()].map(r => `${r.providerName} charges more for ${rows.filter(x => x.price?.peak && x.providerName === r.providerName).map(x => x.label).filter((l, i, a) => a.indexOf(l) === i).join(', ')} in peak hours (${describePeak(r.price.peak)}): each run is priced by the hour it started, and its row gives the off-peak and peak rates under the average they came to.`),
         ...(atInput.length ? [`No cache price was supplied for ${atInput.join(', ')}, so their cache reads are counted at the fresh-input price (marked “at input price”); the real cost is probably lower.`] : []),
         ...(hasPlan ? [`Plan share divides the API cost by what a subscription includes: the part of a monthly plan the runs used, not a separate bill. ${plans.join('; ')}. Models with no plan are paid as used.`] : []),
         ...(totals.unpriced ? [`${fmt(totals.unpriced)} ${totals.unpriced === 1 ? 'run' : 'runs'} (${compact(totals.unpricedTokens)} tokens) used models with no known price and are left out of every cost: ${unpriced.join(', ')}.`] : []),

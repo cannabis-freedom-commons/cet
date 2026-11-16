@@ -1,6 +1,6 @@
 // What a research run costs: its tokens at the model's prices, and its share of a subscription.
 // The models, providers, prices and plans are defined in src/lib/models.js.
-import { baseModel, CONFIGURED_PLAN_PROVIDERS, isPeak, modelInfo, modelParts } from "./models.js";
+import { baseModel, CONFIGURED_PLAN_PROVIDERS, isPeak, modelInfo, modelParts, PLAN_PRICES } from "./models.js";
 
 export { baseModel, isPeak };
 // true when the model has a price at its provider
@@ -43,14 +43,23 @@ export function runCost(run) {
 // CONFIGURED_PLAN_PROVIDERS; API keys (OpenAI, xAI…) are paid as used. null when no plan covers it.
 export function modelPlan(model, plan) {
   const info = modelInfo(model);
-  if (info?.planMultiplier > 0) return { multiplier: info.planMultiplier };
-  if (!CONFIGURED_PLAN_PROVIDERS.includes(modelParts(baseModel(model)).provider)) return null;
+  const provider = modelParts(baseModel(model)).provider;
+  if (info?.planMultiplier > 0) {
+    // with the subscription's price known, also what it buys: $10 × 6 = $60
+    const price = PLAN_PRICES[provider];
+    return price ? { multiplier: info.planMultiplier, price_usd: price, allowance_usd: price * info.planMultiplier } : { multiplier: info.planMultiplier };
+  }
+  if (!CONFIGURED_PLAN_PROVIDERS.includes(provider)) return null;
   return plan?.multiplier > 0 || (plan?.price_usd > 0 && plan?.allowance_usd > 0) ? plan : null;
 }
+// "$10 a month buys $60 of API usage (API value ÷ 6)", "15× plan (API value ÷ 15)"
 export function planDescription(plan) {
-  return plan?.multiplier > 0 ? `${plan.multiplier}× plan (API value ÷ ${plan.multiplier})`
-    : `$${plan?.price_usd} a month plan with $${plan?.allowance_usd} of usage`;
+  const ratio = plan?.multiplier > 0 ? plan.multiplier : plan?.allowance_usd / plan?.price_usd;
+  const each = `API value ÷ ${Number(ratio.toFixed(2))}`;
+  return plan?.price_usd > 0 ? `$${plan.price_usd} a month buys $${plan.allowance_usd} of API usage (${each})` : `${plan.multiplier}× plan (${each})`;
 }
+// the same, short, for a table cell: "$10 buys $60", "API ÷ 15"
+export const planShort = (plan) => plan?.price_usd > 0 ? `$${plan.price_usd} buys $${plan.allowance_usd}` : `API ÷ ${plan.multiplier}`;
 export function displayedRunCost(run, plan) {
   const api = runCost(run);
   return planCost(api, plan, run?.model) || api;

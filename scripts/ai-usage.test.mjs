@@ -32,7 +32,7 @@ test('mixed providers keep separate plan ratios when aggregating multiple bucket
  const {rows,totals}=summarizeAIUsage([old,muse,muse,flash],{price_usd:10,allowance_usd:180});
  assert.equal(totals.unpriced,0);
  assert(Math.abs(rows.find(r=>r.model===muse.model).planCost-0.04)<1e-12);
- assert(Math.abs(totals.planCost-(runCost(old)/18+0.6/15+0.24/15))<1e-12);
+ assert(Math.abs(totals.planCost-(runCost(old)/10+0.6/15+0.24/15))<1e-12);
  assert.equal(summarizeAIUsage([muse],null).totals.planCost,0.02);
 });
 
@@ -60,9 +60,9 @@ test('efficiency gives plan shares where a plan covers the model, else API price
   assert.equal(grok.onPlan, false);
   assert.equal(grok.outcomes.new.planAvgCost, 0.2);
   assert.equal(planned.onPlan, true);
-  assert.equal(planned.outcomes.new.planAvgCost, 0.05);
-  assert.equal(planned.planPerNew, 0.05);
-  const [paid] = summarizeEfficiency([b], [], null);
+  assert.equal(planned.outcomes.new.planAvgCost, 0.02);
+  assert.equal(planned.planPerNew, 0.02);
+  const [paid] = summarizeEfficiency([{ ...b, model: 'openai/gpt-6.1-terra#medium' }], [], null);
   assert.equal(paid.onPlan, false);
   assert.equal(paid.outcomes.new.planAvgCost, 0.2);
 });

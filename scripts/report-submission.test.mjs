@@ -18,5 +18,5 @@ test('report research cost sums each provider’s plan share across retries',()=
   {model:'opencode-go/deepseek-v4.1-flash',started_at:100,finished_at:101,cost_usd:18},
   {model:'swancloud/muse-spark-1.3-contributor',started_at:200,finished_at:201,cost_usd:15},
  ]}};
- assert(submissionFacts({},ai).includes('AI cost $2.0000'));
+ assert(submissionFacts({},ai).includes('AI cost $2.8000'));
 });
