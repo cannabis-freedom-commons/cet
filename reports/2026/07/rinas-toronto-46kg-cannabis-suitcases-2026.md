@@ -97,6 +97,10 @@ sources:
     publisher: TV3
     date: 2026-11-14
     language: sl
+  - title: Tourist faces 15 years in Albanian prison after drug smugglers allegedly packed his case with cannabis without him realizing
+    url: https://www.dailymail.com/news/article-16284279/Canadian-drug-luggage-arrest-Albania-Kristian-Gjoni-tags.html
+    publisher: Daily Mail
+    date: 2026-11-11
 ---
 
 On 3 July 2026, customs and state police at Rinas airport seized about 46
@@ -109,15 +113,15 @@ Officers arrested 34-year-old Kristian Gjoni in flagrante. [@5] Police
 criminally prosecuted two women while they remained at large, identified only as
 A. Gj., 31, and L. Sh., 40. [@2] The procedural file was sent to the prosecutor.
 [@2] Customs said the suitcases were found when baggage on the Toronto to Rinas
-flight was scanned, then searched in the presence of the luggage owners. [@3]
+flight was scanned, then searched in the presence of the luggage owners. [@3] Officers held the couple in an interrogation room for over two hours before taking Gjoni to the baggage carousel and ordering him to collect the last bag on the belt. [@11]
 
 Gjoni, a Toronto businessman on an Air Transat flight with his wife, told CTV
 News that the bag officers ordered him to collect was not his and held 23.15
-kilograms of cannabis. [@1,7,9,10] CTV's W5 reported that hospital records in Canada and Albania confirmed she was pregnant and had miscarried. [@6,7] After the incident, his wife Adriana, who was also travelling to Tirana, suffered a spontaneous miscarriage. [@10] His pregnant wife was also taken into police custody. [@6,7] He said Albanian police held him for four days in
-solitary confinement, then released him on bail. [@1,7] His Albanian anti-corruption lawyer, Ndue Pjetra, submitted W5's earlier reports on baggage-tag switches to a court and argued that criminals had used an airport loophole to plant the bag. [@7] He had to report to police in Tirana, first monthly and later every four months. [@6,7] CTV News reported that
+kilograms of cannabis. [@1,7,9,10] Officers photographed Gjoni standing next to the opened suitcase as evidence. [@11] CTV's W5 reported that hospital records in Canada and Albania confirmed she was pregnant and had miscarried. [@6,7] After the incident, his wife Adriana, who was also travelling to Tirana, suffered a spontaneous miscarriage. [@10] His pregnant wife was also taken into police custody. [@6,7] He said Albanian police held him for four days in
+solitary confinement, then released him on bail. [@1,7,11] His Albanian anti-corruption lawyer, Ndue Pjetra, submitted W5's earlier reports on baggage-tag switches to a court and argued that criminals had used an airport loophole to plant the bag. [@7] He had to report to police in Tirana, first monthly and later every four months. [@6,7,11] CTV News reported that
 another Canadian passenger on the same flight was detained because her tag was
 on a second suitcase with 23 kilograms of cannabis, and that she was released
-without charges. [@1,6,7] Albanian police told CTV News the cannabis was worth
+without charges. [@1,6,7,11] Albanian police told CTV News the cannabis was worth
 almost C$400,000. [@1,6,7] His trial is expected to begin in early 2027, and he
 faces up to 15 years in prison. [@1,6,7,10] An Air Transat spokesperson said the airline took the allegations of interference with its baggage system seriously, had cooperated with the investigation and given authorities the operational information it had. [@7] Air Transat acknowledged the family's distress in a statement provided to W5. [@8] In an October email, the RCMP wrote that it
 believed he was the victim of a bag-tag switch and that the couple had checked
