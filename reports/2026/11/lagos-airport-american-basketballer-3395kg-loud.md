@@ -58,6 +58,10 @@ sources:
     url: https://punchng.com/ndlea-arrests-us-basketball-player-with-33-95kg-cannabis-in-lagos/?amp=
     publisher: Punch Newspapers
     date: 2026-11-15
+  - title: NDLEA arrests American basketball player with 34kg cannabis at Lagos airport
+    url: https://www.msn.com/en-xl/news/other/ndlea-arrests-american-basketball-player-with-34kg-cannabis-at-lagos-airport/ar-AA2hu87e
+    publisher: Channels TV
+    date: 2026-11-15
 open_questions:
   - No laboratory confirmation for the 33.95kg described as Loud was reported.
   - No charge, plea or court outcome was reported; the case was at the investigation stage.
@@ -69,21 +73,21 @@ open_questions:
 NDLEA operatives at Murtala Muhammed International Airport in Lagos intercepted
 28-year-old American citizen Greene Da’monte Khiree on Wednesday 11 November
 2026 after he arrived aboard an Emirates Airline flight from Thailand via Dubai.
-[@1,3,4,5] The suspect had been placed under discreet surveillance on credible
+[@1,3,4,5,6] The suspect had been placed under discreet surveillance on credible
 intelligence and was observed abandoning his two checked-in bags to leave the
-airport with only his carry-on luggage. [@1,4] He was promptly apprehended at the
-airport car park. [@1,3,4,5] A second account confirms NDLEA arrested the American
+airport with only his carry-on luggage. [@1,4,6] He was promptly apprehended at the
+airport car park. [@1,3,4,5,6] A second account confirms NDLEA arrested the American
 professional basketball player after discovering 32 parcels of Loud in his
 luggage at the same Lagos airport. [@2]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
-33.95 kilograms. [@1,3] A tracking device was also recovered from the bags. [@1,3,4]
+33.95 kilograms. [@1,3,6] A tracking device was also recovered from the bags. [@1,3,4,6]
 The agency describes Loud as a potent strain of cannabis. [@1,3,5]
 
 The suspect, a native of Savannah, Georgia, said he had lived in Thailand since
 October 2025 playing professional basketball and came to Nigeria on holiday to
-build networks for his basketball career. [@1,4] FIBA lists a player by the name DaMonte Greene, a point guard, one of whose recent appearances was at the Phuket Elite Cup in September. [@5] A forensic examination of his
+build networks for his basketball career. [@1,4,6] FIBA lists a player by the name DaMonte Greene, a point guard, one of whose recent appearances was at the Phuket Elite Cup in September. [@5] A forensic examination of his
 mobile phone revealed information pointing to his knowledge of and involvement
 in the drug trafficking activity. [@1,3,4,5] The account was disclosed in a Sunday
 statement by NDLEA Director of Media and Advocacy Femi Babafemi. [@1,3]
