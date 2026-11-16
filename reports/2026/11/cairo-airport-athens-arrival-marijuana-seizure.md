@@ -47,6 +47,11 @@ sources:
     publisher: بوابة الشروق
     date: 2026-11-15
     language: ar
+  - title: جمارك مطار القاهرة تحبط 5 محاولات لتهريب مخدرات وأدوية وهواتف محمولة | بوابة أخبار اليوم الإلكترونية
+    url: https://akhbarelyom.com/news/newdetails/4907722/1/%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%AA%D8%AD%D8%A8%D8%B7-5-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%84%D8%AA%D9%87%D8%B1%D9%8A%D8%A8
+    publisher: بوابة اخبار اليوم
+    date: 2026-11-16
+    language: ar
 open_questions:
     - No weight was published for the marijuana, so no cannabis quantity is stored.
     - The report gives no separate date for the operation; 15 November 2026 is the publication date and stands in for the incident date.
@@ -57,24 +62,29 @@ media:
     media_url: https://cdn.vetogate.com/UploadCache/libfiles/601/4/800x450o/677.webp
     publisher: فيتو
     caption: 'Part of the seized items from the five Cairo airport smuggling attempts. Photo: فيتو'
+  - kind: photo
+    url: https://akhbarelyom.com/news/newdetails/4907722/1/%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-%D8%AA%D8%AD%D8%A8%D8%B7-5-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%84%D8%AA%D9%87%D8%B1%D9%8A%D8%A8
+    media_url: https://images.akhbarelyom.com/images/images/large/20261116014935502.jpg
+    publisher: بوابة اخبار اليوم
+    caption: Seized marijuana from the Cairo airport smuggling attempts.
 ---
 
 Security forces at Cairo International Airport seized five smuggling attempts
 involving marijuana, human medicines, dental medical supplies and mobile phones
-in violation of the law. [@1,2] The marijuana attempt took place in the fourth
+in violation of the law. [@1,2,5] The marijuana attempt took place in the fourth
 department of Passenger Terminal 3 during inspection of passengers arriving from
 Athens on a Greek airline flight. [@1,2] Officers suspected an Egyptian passenger
 as he left the customs committee gate, X-rayed his bags and found two cream
-containers holding four bags containing marijuana. [@1,3]
+containers holding four bags containing marijuana. [@1,3,5]
 
 In a second attempt, officers stopped a foreign passenger arriving from Baghdad
 on an Iraqi airline flight and found 40 ampoules for treating cancerous tumours
-hidden among clothes in his bags. [@1] In a third attempt, detectives stopped an
+hidden among clothes in his bags. [@1,5] In a third attempt, detectives stopped an
 Egyptian passenger arriving from Guangzhou on an EgyptAir flight and found
-dental medicine and surgery supplies in his bags. [@1] In a fourth attempt in
+dental medicine and surgery supplies in his bags. [@1,5] In a fourth attempt in
 Terminal 2, customs officers stopped a foreign passenger arriving from China and
-found 38 mobile phones hidden among clothes. [@1]
+found 38 mobile phones hidden among clothes. [@1,5]
 
 In a fifth attempt, officers stopped another foreign passenger arriving from
-China and found 34 mobile phones hidden among clothes. [@1] Authorities took
-legal measures and drew up five customs seizure reports. [@1,4]
+China and found 34 mobile phones hidden among clothes. [@1,5] Authorities took
+legal measures and drew up five customs seizure reports. [@1,4,5]
