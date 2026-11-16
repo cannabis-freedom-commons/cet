@@ -55,6 +55,11 @@ sources:
     publisher: Palencia en la Red
     date: 2026-11-16
     language: es
+  - title: La Policía Nacional desarticula un punto de venta de droga en Palencia con seis detenidos
+    url: https://www.cope.es/emisoras/castilla-y-leon/palencia-provincia/palencia/noticias/policia-nacional-desarticula-punto-venta-droga-palencia-seis-detenidos-20261116_3475702.html
+    publisher: COPE
+    date: 2026-11-16
+    language: es
 open_questions:
   - The eight wrappings with compact brown substance found in the second home were pending laboratory analysis, so they are not counted in the cannabis weight.
   - The 2.16 grams of cocaine seized in the same operation is excluded from the cannabis figures.
@@ -63,7 +68,7 @@ open_questions:
 ---
 
 National Police detained six people, four men and two women, in Operation Parche
-II, a drug-trafficking investigation in Palencia capital. [@1] Officers carried
+II, a drug-trafficking investigation in Palencia capital. [@1,2] The operation followed an earlier investigation in June at the same addresses after officers detected signs that the criminal activity had resumed. [@2] Officers carried
 out two home searches, one in the Plaza Cervantes area and another in Grupo
 Casas del Hogar, finding drugs, mobile phones and weapons. [@1] The searches
 were carried out on 12 November, the first starting at 10:00 in a home in the
@@ -74,7 +79,7 @@ in drug-trafficking investigations. [@1] In the Plaza Cervantes home officers
 found two packages of hashish, four wrappings with remains of the same substance
 and another with a white powder that tested positive for cocaine in a reactive
 test. [@1] Weighing gave a total of 146.99 grams of hashish and 2.16 grams of
-cocaine. [@1] In that home officers also seized three mobile phones and a
+cocaine. [@1,2] In that home officers also seized three mobile phones and a
 compressed-gas pistol. [@1]
 
 In the Grupo Casas del Hogar home officers found eight wrappings with a compact
@@ -86,7 +91,6 @@ second home. [@1]
 The six people were detained as alleged perpetrators of drug-trafficking
 offences and membership of a criminal group. [@1] After police procedures, three
 of those arrested were released with the obligation to appear before the
-judicial authority when required. [@1] The other three were placed at the
+judicial authority when required. [@1,2] The other three were placed at the
 disposal of Palencia's Tribunal de Instancia, Instruction Section No. 3, on the
-morning of 13 November. [@1] The investigation remains open. [@1]
-
+morning of 13 November. [@1,2] The investigation remains open. [@1,2]
