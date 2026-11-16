@@ -271,32 +271,46 @@ sources:
     url: https://www.eurohoops.net/en/others/2035918/damonte-greene-arrest-cannabis-nigeria/
     publisher: Eurohoops
     date: 2026-11-16
+  - title: 'US basketball player Da''monte Khiree Greene arrested at Lagos airport after being found with 75 pounds of cannabis in his luggage: authorities'
+    url: https://nypost.com/2026/11/16/sports/us-basketball-player-damonte-khiree-greene-arrested-at-lagos-airport-after-being-found-with-75-pounds-of-cannabis-in-his-luggage-authorities/
+    publisher: New York Post
+    date: 2026-11-16
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cj93rggenq4xo
     media_url: https://ichef.bbci.co.uk/news/800/cpsprodpb/bb80/live/543bf260-e189-11f1-938f-7d0e2ede1ea5.png.webp
     publisher: BBC News
     caption: Seized packages described as a potent strain of cannabis from the Lagos airport arrest.
+  - kind: photo
+    url: https://nypost.com/2026/11/16/sports/us-basketball-player-damonte-khiree-greene-arrested-at-lagos-airport-after-being-found-with-75-pounds-of-cannabis-in-his-luggage-authorities/
+    media_url: https://nypost.com/wp-content/uploads/sites/2/2026/11/us-basketball-star-greene-damonte-148942724_e0f3f9.jpg?quality=75&strip=all&w=800
+    publisher: New York Post
+    caption: 'Seized parcels of cannabis from the two abandoned bags in the Lagos airport arrest. Photo: NDLEA'
+  - kind: photo
+    url: https://nypost.com/2026/11/16/sports/us-basketball-player-damonte-khiree-greene-arrested-at-lagos-airport-after-being-found-with-75-pounds-of-cannabis-in-his-luggage-authorities/
+    media_url: https://nypost.com/wp-content/uploads/sites/2/2026/11/us-basketball-star-greene-damonte-148942723.jpg?quality=75&strip=all&w=800
+    publisher: New York Post
+    caption: 'Evidence recovered from the bags in the Lagos airport drug trafficking case. Photo: NDLEA'
 ---
 
 NDLEA operatives at Murtala Muhammed International Airport in Lagos intercepted
 28-year-old American citizen Greene Da’monte Khiree on Wednesday 11 November
 2026 after he arrived aboard an Emirates Airline flight from Thailand via Dubai.
-[@1,3,4,5,6,7,9,10,11,12,13,14,16,20,21,22,23,24,28,29,31,32,33,34,35,39,40,41,47,49,50,51,52,53,54,55] The suspect had been placed under discreet surveillance on credible
+[@1,3,4,5,6,7,9,10,11,12,13,14,16,20,21,22,23,24,28,29,31,32,33,34,35,39,40,41,47,49,50,51,52,53,54,55,57] The suspect had been placed under discreet surveillance on credible
 intelligence and was observed abandoning his two checked-in bags to leave the
-airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56] He was promptly apprehended at the
-airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49] A second account confirms NDLEA arrested the American
+airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56,57] He was promptly apprehended at the
+airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49,57] A second account confirms NDLEA arrested the American
 professional basketball player after discovering 32 parcels of Loud in his
 luggage at the same Lagos airport. [@2,9,25,29,48,50,53]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
-33.95 kilograms. [@1,3,6,7,10,12,13,14,16,17,18,20,21,22,23,26,28,30,31,33,35,36,38,39,40,41,42,43,46,47,49,50,51,52,54,55,56] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23,26,30,31,32,33,35,37,38,40,41,43,45,46,47,50,51,52,53,54,55]
+33.95 kilograms. [@1,3,6,7,10,12,13,14,16,17,18,20,21,22,23,26,28,30,31,33,35,36,38,39,40,41,42,43,46,47,49,50,51,52,54,55,56,57] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23,26,30,31,32,33,35,37,38,40,41,43,45,46,47,50,51,52,53,54,55,57]
 The agency describes Loud as a potent strain of cannabis. [@1,3,5,23,25,27,28,29,34,35,37,43,45,46,50,53]
 
 The suspect, a native of Savannah, Georgia, said he had lived in Thailand since
 October 2025 playing professional basketball and came to Nigeria on holiday to
 build networks for his basketball career. [@1,4,6,7,11,12,13,17,18,19,20,22,23,27,28,29,30,33,38,39,41,42,48,49,50] According to his BoldPro account, Khiree, a shooting guard, graduated from South Georgia Technical College, played semi-professional basketball with the Georgia Bombers, moved to El Salvador in 2025 for a pro contract with Escalon BC, and headed to Thailand shortly afterwards. [@10] FIBA lists a player by the name DaMonte Greene, a point guard, one of whose recent appearances was at the Phuket Elite Cup in September. [@5,8,21,24,29,36,44,50,55] His most recent recorded appearance was on 26 September at the Phuket Elite Cup tournament in Thailand. [@53,54] A forensic examination of his
 mobile phone revealed information pointing to his knowledge of and involvement
-in the drug trafficking activity. [@1,3,4,5,7,8,11,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,36,37,38,39,40,41,43,44,45,46,47,49,50,51,52,53,54,55,56] The account was disclosed in a Sunday
+in the drug trafficking activity. [@1,3,4,5,7,8,11,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,36,37,38,39,40,41,43,44,45,46,47,49,50,51,52,53,54,55,56,57] The account was disclosed in a Sunday
 statement by NDLEA Director of Media and Advocacy Femi Babafemi. [@1,3,7,12,22,50]
