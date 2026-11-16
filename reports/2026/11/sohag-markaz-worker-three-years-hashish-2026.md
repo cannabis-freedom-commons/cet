@@ -64,20 +64,21 @@ sources:
     publisher: أصالة وطن
     date: 2026-11-14
     language: ar
-open_questions:
-  - The weight and value of the hashish were not reported.
-  - The date of the arrest and whether the defendant appealed are not reported.
-  - The two accounts use substantially the same wording and do not provide independent detail.
+  - title: المشدد 3 سنوات وغرامة 50 ألف جنيه لعامل بتهمة الاتجار في الحشيش بسوهاج - إقرأ نيوز
+    url: https://www.iqraa.news/225699/%D8%A7%D9%84%D9%85%D8%B4%D8%AF%D8%AF-3-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-50-%D8%A3%D9%84%D9%81-%D8%AC%D9%86%D9%8A%D9%87-%D9%84%D8%B9%D8%A7%D9%85%D9%84-%D8%A8%D8%AA-2/
+    publisher: إقرأ نيوز
+    date: 2026-11-14
+    language: ar
 ---
 
 A 26-year-old worker was sentenced to three years of aggravated imprisonment and
 fined 50,000 Egyptian pounds by the Sohag Criminal Court for hashish
-trafficking. [@1,3] The verdict was issued under president Mohamed El-Amir Abu Kreisha with members Ahmed Talaba and Ahmed Salah and clerk Mohamed El-Arabi. [@3] The defendant was identified by the initials B.A.Z. as a 26-year-old worker. [@3] The case concerned alleged dealing in Sohag markaz, an
+trafficking. [@1,3,5] The verdict was issued under president Mohamed El-Amir Abu Kreisha with members Ahmed Talaba and Ahmed Salah and clerk Mohamed El-Arabi. [@3,5] The defendant was identified by the initials B.A.Z. as a 26-year-old worker. [@3] The case concerned alleged dealing in Sohag markaz, an
 administrative district in the governorate. [@2,3]
 
 Detectives investigated the man in 2026 after a confidential source provided
-information about alleged hashish sales. [@1,3] After legal procedures, security
+information about alleged hashish sales. [@1,3,5] After legal procedures, security
 officers arrested him and found a quantity of hashish said to have been intended
-for sale. [@2,4] According to the account of his questioning, he admitted
+for sale. [@2,4,5] According to the account of his questioning, he admitted
 possessing the drugs for trafficking before being referred to the criminal
-court. [@1,3]
+court. [@1,3,5]
