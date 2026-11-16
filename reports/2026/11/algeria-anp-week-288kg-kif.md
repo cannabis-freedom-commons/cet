@@ -60,14 +60,22 @@ sources:
     publisher: Algérie Presse Service
     date: 2026-11-11
     language: zh
+  - title: الجزائر تهدد بالتدخل العسكري داخل المغرب لضرب مصادر المخدرات التي تستهدف أراضيها – موقع المنشر الاخبارى
+    url: https://elmanshar.com/2026/11/15/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A8%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D9%85/
+    publisher: Elmanshar
+    date: 2026-11-15
+    language: ar
+open_questions:
+  - The new source gives the cannabis amount as about 288 kilograms, while the report uses the army's exact figure of 2 quintals and 88 kilograms (288 kg).
+  - The new source attributes the weekly bilan to the Defence Ministry, while the report attributes it to the National People's Army.
 ---
 
 Algeria's National People's Army (ANP) reported that its combined detachments,
 working with the different security services, intercepted 38 narcotrafiquants,
-or drug traffickers, during operations across the military regions. [@1,3,4] The
-operations ran from 4 to 10 November 2026. [@1,4] The army said the detachments
+or drug traffickers, during operations across the military regions. [@1,3,4,5] The
+operations ran from 4 to 10 November 2026. [@1,4,5] The army said the detachments
 foiled attempts to introduce 2 quintals and 88 kilograms (288 kg) of kif traité,
-treated cannabis, coming from the borders with Morocco. [@2,3,4]
+treated cannabis, coming from the borders with Morocco. [@2,3,4,5]
 
 The same operations also yielded 5 kilograms of cocaine and 391,821 psychotropic
 tablets, which are not counted as cannabis here. [@1,3,4] Separate operations
