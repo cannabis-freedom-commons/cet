@@ -43,6 +43,11 @@ sources:
     publisher: Haberport
     date: 2026-11-15
     language: tr
+  - title: 'دراجة نارية تقود إلى «زولا»: ضبط مخدرات وسلاحين في إسطنبول'
+    url: https://newturkpost.com/news/135777-%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D9%82%D9%88%D8%AF-%D8%A5%D9%84%D9%89-%D8%B2%D9%88%D9%84%D8%A7-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%B3%D9%84%D8%A7%D8%AD%D8%A7%D9%86-%D9%81%D9%8A-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84
+    publisher: وكالة نيو ترك بوست الاخبارية
+    date: 2026-11-15
+    language: ar
 open_questions:
   - The seized cannabis was described only as marihuana and esrar, with no laboratory confirmation reported.
   - The exact street address of the Şişli stash was not published.
@@ -52,20 +57,19 @@ open_questions:
 
 Istanbul police assigned to the Kağıthane district identified a Şişli address
 that 28-year-old Ö.F.A. used as a zula, a stash, while he was suspected of
-selling drugs by motorcycle. [@1] After surveillance, officers detained him on
+selling drugs by motorcycle. [@1,2] After surveillance, officers detained him on
 12 November 2026 as he arrived by motorcycle in front of that stash address.
-[@1] The investigation behind the operation was run by Kağıthane district police
-within the Istanbul police. [@1]
+[@1,2] The investigation behind the operation was run by Kağıthane district police
+within the Istanbul police. [@1,2]
 
-The search of the stash address found 1 kilo 800 grams of marihuana. [@1]
+The search of the stash address found 1 kilo 800 grams of marihuana. [@1,2]
 Officers also seized two unlicensed pistols, a large number of cartridges,
-materials used to package narcotics and one packaging device. [@1] Officers
+materials used to package narcotics and one packaging device. [@1,2] The account presents the packing device and materials as indicating the site was used to prepare the drugs for sale. [@2] Officers
 recorded all the seized drugs, weapons and packaging items in official minutes.
 [@1]
 
 After processing at the police station, the suspect was referred to the judicial
 authorities on 13 November 2026 on charges of manufacturing and trading narcotic
-or stimulant substances and of violating Law No. 6136 on firearms. [@1] A court
+or stimulant substances and of violating Law No. 6136 on firearms. [@1,2] A court
 ordered Ö.F.A. remanded in custody and he was sent to a penal institution to
-serve the remand. [@1]
-
+serve the remand. [@1,2]
