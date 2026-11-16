@@ -1188,7 +1188,8 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 	text := e.ReadableText()
 	// With the tracker tool server (local runner), existing reports are looked up through its
 	// find_reports and get_report tools; otherwise the index and every report go in as files.
-	lookupTools := r.Config.ResearchRunner == "local" && r.ResultCheck != nil
+	// Muse holds tool servers back outside a trusted workspace, so a Muse run gets the files.
+	lookupTools := r.Config.ResearchRunner == "local" && r.ResultCheck != nil && !isMuse(r.Config.ResearchModel)
 	request := map[string]any{"case_id": cid, "url": e.URL, "final_url": e.FinalURL, "initial_source_unavailable": e.Content == "", "example_reports": "examples/"}
 	if lookupTools {
 		request["existing_reports"] = "Use the tracker_find_reports and tracker_get_report tools; the reports are not files here."
@@ -1369,7 +1370,7 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 // interruption, and removed otherwise. The Docker runner's session ends with its container.
 func (r Runner) invoke(ctx context.Context, cid, dir, run string, adapt func(*exec.Cmd) *exec.Cmd, resumed bool) (Result, *Session, error) {
 	local := r.Config.ResearchRunner == "local"
-	if local && r.ResultCheck != nil {
+	if local && r.ResultCheck != nil && !isMuse(r.Config.ResearchModel) {
 		tool, err := startCheckServer(r.ResultCheck, newReportLookup(dir))
 		if err != nil {
 			r.abandon(cid, run)
