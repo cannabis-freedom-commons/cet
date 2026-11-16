@@ -60,17 +60,24 @@ sources:
     publisher: Sharjah 24
     date: 2026-11-15
     language: ar
+  - title: المنطقة العسكرية الشرقية تحبط محاولة تهريب مواد مخدرة
+    url: https://johinanews.com/article/296347
+    publisher: جهينة نيوز
+    date: 2026-11-15
+    language: ar
+open_questions:
+  - The account names only narcotics and gives no substance, weight, number of balloons, arrests or border of origin.
 ---
 
 Jordan's Eastern Military Zone foiled an attempt at dawn on Sunday 15 November
 2026 to smuggle a large quantity of narcotics by guided balloons after spotting
-them heading toward Jordanian territory. [@1,2,3,4,5,6,7,8,9] Hawar describes the attempt as coming from Syria. [@4] Border Guard units acting within
+them heading toward Jordanian territory. [@1,2,3,4,5,6,7,8,9,10] Hawar describes the attempt as coming from Syria. [@4] Border Guard units acting within
 their area of responsibility engaged the balloons, brought them down inside
-Jordanian territory and seized the drugs they were carrying. [@1,2,3,4,5,6,7,8,9]
+Jordanian territory and seized the drugs they were carrying. [@1,2,3,4,5,6,7,8,9,10]
 
 The operation was carried out in coordination with the security and military
-agencies and the Anti-Narcotics Department. [@1,2,3,4,5,6,7,8,9] The seized material was handed
-over to the competent authorities for legal action. [@1,2,3,4,5,6,7,8,9]
+agencies and the Anti-Narcotics Department. [@1,2,3,4,5,6,7,8,9,10] The seized material was handed
+over to the competent authorities for legal action. [@1,2,3,4,5,6,7,8,9,10]
 
 The Jordan Armed Forces-Arab Army said it would continue performing its national
 duty with efficiency and firmly confront infiltration and smuggling attempts by
