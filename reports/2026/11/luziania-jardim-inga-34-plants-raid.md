@@ -41,6 +41,11 @@ media:
     media_url: https://globoplay.globo.com/v/15188077/
     publisher: Globoplay
     caption: Jornal Anhanguera video report, 'Polícia encontra estufa com pés de maconha em Luziânia', on the Military Police finding a greenhouse with 28 cannabis plants in Luziânia, Goiás.
+  - kind: photo
+    url: https://entorno.jornalopcao.com.br/investigacao/rotam-encontra-estufa-com-28-pes-de-maconha-e-prende-dois-suspeitos-em-luziania-36107/
+    media_url: https://entorno.jornalopcao.com.br/wp-content/uploads/2026/11/whatsapp-image-2026-11-15-at-14-40-38.webp
+    publisher: Jornal Opção | Brasília e Entorno
+    caption: 'Cannabis plants in the improvised greenhouse found in Luziânia. Photo: Reprodução/Copes'
 status: verified
 created_by_model: openrouter/inclusionai/ling-3.2-flash:free
 submission: 8f68a8cfb3f6a7b27f1095b67f4f56ae
@@ -59,19 +64,24 @@ sources:
     url: https://g1.globo.com/go/goias/videos-ja-1-edicao/video/policia-encontra-estufa-com-pes-de-maconha-em-luziania-15188077.ghtml
     publisher: G1
     language: pt
+  - title: ROTAM encontra estufa com 28 pés de maconha e prende dois suspeitos em Luziânia
+    url: https://entorno.jornalopcao.com.br/investigacao/rotam-encontra-estufa-com-28-pes-de-maconha-e-prende-dois-suspeitos-em-luziania-36107/
+    publisher: Jornal Opção | Brasília e Entorno
+    date: 2026-11-15
+    language: pt
 ---
 
 A tip led the Polícia Militar de Goiás (PMGO) to discover a clandestine cannabis
 plantation inside a house in Setor Dalva IX, in the Jardim Ingá district of
 Luziânia, in the Entorno do Distrito Federal. [@1] During the operation two men
 were arrested and 34 cannabis plants were seized, 28 of them found in an
-improvised greenhouse inside the house. [@1] The action began after the
+improvised greenhouse inside the house. [@1,4] The action began after the
 intelligence service of the Rondas Ostensivas Táticas Metropolitanas (Rotam)
 received word that a house was being used for illegal cannabis growing,
 supposedly for sale. [@1]
 
 A personal search found six cannabis plants with the pair, who confessed,
-according to the PM, that they grew the drug intending to sell it. [@1] Inside
+according to the PM, that they grew the drug intending to sell it. [@1,4] Inside
 the house officers found an improvised structure working as a greenhouse with
 another 28 cannabis plants, raising the total seized to 34. [@1] Globo's Jornal
 Anhanguera reported that the Military Police found a greenhouse with 28 cannabis
@@ -79,6 +89,6 @@ plants in Luziânia, Goiás, and had no information on arrests related to the
 incident. [@2,3]
 
 The two men were told they were under arrest and taken to the Central de
-Flagrantes with the seized plants for legal procedures. [@1] The PM gave no
+Flagrantes with the seized plants for legal procedures. [@1,4] The PM gave no
 identity or age for the suspects, and no details of how long the plantation had
 run or how much drug would be sold. [@1]
