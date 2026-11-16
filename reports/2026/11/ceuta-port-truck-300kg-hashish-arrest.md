@@ -78,6 +78,11 @@ sources:
     publisher: الموعد اليومي
     date: 2026-11-15
     language: ar
+  - title: 'إسبانيا: حجز 300 كلغ من الحشيش القادم من المغرب وأزيد من 9 آلاف لتر من الوقود لشبكات التهريب'
+    url: https://entv.dz/ar/news/%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%AD%D8%AC%D8%B2-300-%D9%83%D9%84%D8%BA-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%88%D8%A3%D8%B2%D9%8A%D8%AF-%D9%85%D9%86-9-%D8%A2%D9%84%D8%A7%D9%81-%D9%84%D8%AA%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%87%D8%B1%D9%8A%D8%A8
+    publisher: التلفزيون الجزائري
+    date: 2026-11-15
+    language: ar
 ---
 
 Spain's UDYCO drug unit arrested a truck driver at the port of Ceuta carrying a
@@ -89,12 +94,12 @@ he was driving. [@2]
 
 The truck appeared empty and was heading toward boarding for Spain when a
 specialist drugs dog alerted, prompting an exhaustive hours-long search inside
-and outside the vehicle. [@2] After the hours-long detailed inspection, officers
-found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6]
+and outside the vehicle. [@2,7] After the hours-long detailed inspection, officers
+found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6,7]
 Officers recovered numerous bags of hashish from the trailer's false bottom,
 with first estimates putting the haul above 300 kilograms although police gave
 no official weight. [@3] The submitted account describes the seizure as about
-300 kilograms of hashish arriving from Morocco. [@1,5,6]
+300 kilograms of hashish arriving from Morocco. [@1,5,6,7]
 
 The handcuffed driver was taken to police headquarters and placed under
 investigation for an offence against public health. [@2] Police link the
