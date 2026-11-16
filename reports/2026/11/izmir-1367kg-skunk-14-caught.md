@@ -1,15 +1,15 @@
 ---
 code: CKWCPB
 added_at: "2026-11-13T03:29:12.968941Z"
-date: 2026-11-13
+date: 2026-11-14
 country: tr
 place: İzmir
 coordinates: [38.42444, 27.13222]
 precision: region
-type: seizure
-also: [raid, arrest]
-title: 17 detained as İzmir police seize 1,367.5 kg of skunk
-summary: İzmir's narcotics operation seized 1,367.5 kg of skunk alongside ecstasy and pregabalin, with detentions rising from 11 in the first stage to 17. The alleged organisation leader, wanted for seven years, was caught hiding in Menderes.
+type: prosecution
+also: [raid, arrest, seizure]
+title: 16 remanded as Izmir police seize 1,367.5 kg of skunk
+summary: Izmir police seized 1,367.5 kg of skunk in operations on 10-12 November across Izmir districts and Mugla. Of 17 detainees, 16 including the alleged organisation leader were remanded and one was released under judicial control.
 figures:
     arrested: 17
     sites: 15
@@ -144,6 +144,16 @@ sources:
     publisher: Son Kale İzmir
     date: 2026-11-12
     language: tr
+  - title: İzmir merkezli uyuşturucu operasyonunda 16 tutuklama
+    url: https://www.sonkaleizmir.com/haber/Izmir-merkezli-uyusturucu-operasyonunda-16-tutuklama/199941
+    publisher: Son Kale İzmir
+    date: 2026-11-15
+    language: tr
+  - title: İzmir merkezli uyuşturucu operasyonunda 16 tutuklama
+    url: https://www.hurriyet.com.tr/yerel-haberler/izmir/izmir-merkezli-uyusturucu-operasyonunda-16-tutu-43378641
+    publisher: Hürriyet
+    date: 2026-11-14
+    language: tr
 open_questions:
     - Wayback redirected several secondary outlets (Haber Ege, Demokrat Gündem, Ege Alternatif) to unrelated pages, so those sources have no usable archived copy.
     - The reports give no separate date for the follow-up detentions; 13 November 2026 is the publication date and is used as the incident date.
@@ -151,6 +161,9 @@ open_questions:
     - No remand, charge or release outcome for the 17 detainees beyond the three earlier remands was reported.
     - Son Kale İzmir gives the skunk total as 1 ton 367 kg and describes the material as sentetik uyuşturucu (synthetic narcotic), while the other accounts give 1 ton 367 kg 500 g and describe skunk esrar.
     - Son Kale İzmir's account follows the police statement wording, so it is not independent reporting of the operation.
+    - The new accounts give 2,120 grams of pregabalin, above the 1,728 grams reported in the earlier DHA account; the cannabis total is unchanged.
+    - No separate date for the court decision was stated; 14 November 2026 from the DHA timestamp is used as the incident date, with Son Kale Izmir publishing on 15 November.
+    - The text gives a weight ("1,367.5 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 
 Police in İzmir seized more than a tonne of skunk esrar, a herbal cannabis
@@ -158,11 +171,11 @@ preparation, in operations against drug trafficking. [@1,3,6,9,10] The İzmir ch
 prosecutor's office, the Cumhuriyet Başsavcılığı, coordinated the work. [@1,3,4,5,6,9,14,16] The
 narcotics crimes branch of the provincial police directorate, the Narkotik
 Suçlarla Mücadele Şube Müdürlüğü, carried out the surveillance and the seizures.
-[@1,4,5,9,14]
+[@1,4,5,9,14] The operation was carried out on 10-12 November across Karşıyaka, Çiğli, Konak, Buca and Menderes districts and Muğla after technical and physical surveillance. [@19]
 
 After technical and physical surveillance, officers made four separate interim
 seizures. [@1,4,5,6,8,14] Those seizures yielded 1 tonne 367 kilograms 500 grams of skunk,
-about 1,367.5 kilograms, and 57,000 ecstasy pills. [@1,3,4,5,6,7,8,10,14,15,16] The total is 21 kilograms above the 1,346.5 kilograms reported from a vehicle stopped in Torbalı on 11 March, which was reported with the same 57,000-pill count; the reports do not say whether that stop is one of the four operations. [@12] Demirören Haber Ajansı
+about 1,367.5 kilograms, and 57,000 ecstasy pills. [@1,3,4,5,6,7,8,10,14,15,16,18] The total is 21 kilograms above the 1,346.5 kilograms reported from a vehicle stopped in Torbalı on 11 March, which was reported with the same 57,000-pill count; the reports do not say whether that stop is one of the four operations. [@12] Demirören Haber Ajansı
 reported that the operations also yielded 1,728 grams of pregabalin. [@2,3,7,8] İhlas
 Haber Ajansı called the powder seized in the same work pharmaceutical powder.
 [@1,6] Three suspects linked to the operation were remanded in custody. [@1,3,4,5,6,8,9,11,14,17] Four suspects were detained after the first-stage searches, with proceedings against one of them still continuing. [@17]
@@ -172,7 +185,7 @@ Officers then raided 15 addresses at the same time, 13 homes and two workplaces,
 to catch people linked to the drug trade. [@1,3,4,5,6,8,14,15] Eleven suspects were taken into
 gözaltı, police custody for questioning. [@1,3,4,5,6,8,9,14,17] A search continued for one suspect
 still at large. [@1,3,4,5,6,8,14] İhlas Haber Ajansı said 14 suspects were caught in all.
-[@1,6,10] The suspected leader of the criminal organisation, said to have been wanted for 7 years on 13 separate offences with 272 crime records in total, was caught at the residence in Menderes where he was hiding. [@16] After 11 suspects were caught in the first stage, continued field work raised the number in custody to 17, while three suspects had been remanded in earlier proceedings. [@16] Searches at the addresses also found one pistol, one magazine, 17
+[@1,6,10] The suspected leader of the criminal organisation, said to have been wanted for 7 years on 13 separate offences with 272 crime records in total, was caught at the residence in Menderes where he was hiding. [@16] After 11 suspects were caught in the first stage, continued field work raised the number in custody to 17, while three suspects had been remanded in earlier proceedings. [@16] After police processing the detainees were brought before the court, which remanded 16 of them including the alleged organisation leader and released one under judicial control. [@18] Searches at the addresses also found one pistol, one magazine, 17
 cartridges and 24 drug pills. [@1,5,6,13]
 
 Demirören Haber Ajansı said the operations targeted the manufacture and trade of
