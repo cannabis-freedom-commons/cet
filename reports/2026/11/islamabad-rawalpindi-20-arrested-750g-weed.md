@@ -66,6 +66,10 @@ sources:
     url: http://www.pakistantoday.com.pk/2026/11/13/anf-arrests-20-nigerian-nationals-in-major-drug-crackdown-across-twin-cities
     publisher: Pakistan Today
     date: 2026-11-13
+  - title: Pakistan Customs seizes 115 kilograms of opium in raid on dumping site
+    url: https://www.arabnews.pk/pakistan/pakistan-customs-seizes-115-kilograms-of-opium-in-raid-on-dumping-site-3007172
+    publisher: Arab News Pakistan
+    date: 2026-11-16
 open_questions:
     - The accounts give no separate date for the raids; the ANF statement was reported on 11 November and an ANF handout photo was captioned 12 November, so 11 November 2026 is used as the incident date.
     - The combined 4.432 kg total includes 1.682 kg of cocaine and 2 kg of methamphetamine, which are excluded from the cannabis figure; only the 750 grams of weed is counted.
@@ -82,17 +86,17 @@ media:
 
 Pakistan's Anti-Narcotics Force arrested 20 Nigerian nationals in coordinated
 intelligence-based operations at various locations across Islamabad and
-Rawalpindi. [@1,3,6] The suspects were allegedly part of an organized international
+Rawalpindi. [@1,3,6,8] The suspects were allegedly part of an organized international
 drug-trafficking network operating in the twin cities. [@1,3,7] Intelligence reports
 accused the network of smuggling, distributing and selling cocaine,
 methamphetamine and weed among young people, particularly students of
-educational institutions in Islamabad and Rawalpindi. [@1,3] Preliminary
+educational institutions in Islamabad and Rawalpindi. [@1,3,8] Preliminary
 investigations found that two of those arrested were already on bail in a
 previous narcotics case. [@1,4,6]
 
 Officers recovered a total of 4.432 kg of narcotics in the operations. [@1,4,7] The
 haul comprised 1.682 kg of cocaine, 2 kg of methamphetamine (Ice) and 750 grams
-of weed. [@1,4,6]
+of weed. [@1,4,6,8]
 
 The Anti-Narcotics Force said it had tracked the network through sustained
 intelligence gathering and surveillance and acted on actionable intelligence
