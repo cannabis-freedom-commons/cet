@@ -47,17 +47,18 @@ sources:
     publisher: Diário do Sertão
     date: 2026-11-14
     language: pt
-open_questions:
-  - The reported half kilo is approximate and described only as a substance similar to marijuana, with no laboratory confirmation reported.
-  - The suspect was identified only by age and hometown, with no name published.
-  - The outcome of the custody hearing and any charge or court decision were not reported.
+  - title: Homem é preso após deixar sacola com maconha em terminal rodoviário
+    url: https://poderparaiba.com.br/jovem-deixa-maconha-rodoviaria-patos-acaba-preso-onibus-itaporanga-policia-civil/
+    publisher: Poder Paraíba
+    date: 2026-11-16
+    language: pt
 ---
 
 A 21-year-old from Sao Jose de Piranhas was arrested in flagrante in Itaporanga
 on the afternoon of Friday 13 November 2026 on suspicion of drug trafficking.
-[@1] The arrest followed his identification as the person who abandoned a bag
+[@1,2] The arrest followed his identification as the person who abandoned a bag
 with about half a kilo of a substance similar to marijuana at the Ana Leite bus
-terminal, known as Rodoshopping, in Patos. [@1] The capture was a joint action
+terminal, known as Rodoshopping, in Patos. [@1,2] The capture was a joint action
 by the Patos homicide and narcotics office, the Itaporanga Special Tactical
 Group and the 3rd Military Police Battalion. [@1]
 
@@ -74,10 +75,9 @@ left the bag. [@1]
 Police found the suspect had already left Patos and was travelling on a bus
 bound for Cajazeiras. [@1] Using data passed by the Patos office, the Itaporanga
 tactical team tracked the bus and stopped it when it reached the Itaporanga bus
-station, where the suspect was detained. [@1] According to GTE delegate Fabio
+station, where the suspect was detained. [@1,2] According to GTE delegate Fabio
 Oliveira, the young man admitted he was responsible for the material found at
 the Patos terminal. [@1] He told police he was returning to Sao Jose de Piranhas
-after taking the drug to the neighbouring city. [@1] After procedures were
+after taking the drug to the neighbouring city. [@1,2] After procedures were
 formalised at the police station, he was to undergo a custody hearing and remain
-at the disposal of the courts. [@1]
-
+at the disposal of the courts. [@1,2]
