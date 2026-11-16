@@ -101,6 +101,11 @@ sources:
     publisher: Polizei.news
     date: 2026-11-15
     language: de
+  - title: 'Dübendorf: 9 kg Kokain und Waffen in Wohnung entdeckt'
+    url: https://www.tagesanzeiger.ch/duebendorf-9-kg-kokain-und-waffen-in-wohnung-entdeckt-979289577799
+    publisher: Tages-Anzeiger
+    date: 2026-11-15
+    language: de
 open_questions:
   - The weekday of the evening vehicle check in Zurich-Leimbach differs between accounts.
 ---
@@ -108,7 +113,7 @@ open_questions:
 Zurich cantonal police arrested a man in Zurich and a woman in Dübendorf on the
 evening of Thursday 12 November 2026. [@2,5,11] Investigators stopped a car in
 Zurich-Leimbach shortly before 19:00 and arrested the 34-year-old German driver
-after finding a larger quantity of cocaine. [@1,3,4,6,7,8,9,10,11] Officers then searched the
+after finding a larger quantity of cocaine. [@1,3,4,6,7,8,9,10,11,12] Officers then searched the
 man's flat in Dübendorf and arrested his 44-year-old German flatmate there. [@1,3,4,7,8,9,10]
 
 In the premises police seized just under nine kilograms of cocaine, just over
