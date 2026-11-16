@@ -87,6 +87,11 @@ sources:
     publisher: Oeste SC Notícias
     date: 2026-11-16
     language: pt
+  - title: 70 quilos de maconha são encontrados em esconderijo de carro
+    url: https://rco.com.br/noticias/seguranca/70-quilos-de-maconha-sao-encontrados-em-esconderijo-de-carro
+    publisher: RCO 100.9 FM
+    date: 2026-11-16
+    language: pt
 open_questions:
   - No names, ages or other identifiers for the two men were published.
   - No charges, detention measure or court outcome beyond transport to the police station were reported.
@@ -95,12 +100,12 @@ open_questions:
 ---
 
 Federal Highway Police officers stopped a car on BR-158 in Cunha Pora, in
-western Santa Catarina, and seized 70 kilograms of maconha. [@1,2,3,4,5,6] The stop
-occurred on the night of Saturday 14 November 2026. [@1,2,3,4,5,6] The car stopped was a Nissan March 16S and the stop was recorded at about 23h. [@2]
+western Santa Catarina, and seized 70 kilograms of maconha. [@1,2,3,4,5,6,7] The stop
+occurred on the night of Saturday 14 November 2026. [@1,2,3,4,5,6,7] The car stopped was a Nissan March 16S and the stop was recorded at about 23h. [@2]
 
-Officers inspected a car bearing plates from Araucaria, Parana. [@1,2,3,4,5] Inside the
+Officers inspected a car bearing plates from Araucaria, Parana. [@1,2,3,4,5,7] Inside the
 vehicle officers found dozens of tablets of the drug hidden between the floor
-and the mats of the front and rear seats. [@1,2,3,4,5,6]
+and the mats of the front and rear seats. [@1,2,3,4,5,6,7]
 
 Two men were in the car and were arrested in flagrante and taken to the police
-station. [@1] Those arrested were taken to the Civil Police station in Maravilha. [@2,3,4,5,6] The seized drug and the vehicle were taken to the police station with the couple. [@4,5] Those involved said the drug was bound for Rio Grande do Sul. [@1,2,3,4,5,6]
+station. [@1] Those arrested were taken to the Civil Police station in Maravilha. [@2,3,4,5,6,7] The seized drug and the vehicle were taken to the police station with the couple. [@4,5] Those involved said the drug was bound for Rio Grande do Sul. [@1,2,3,4,5,6,7]
