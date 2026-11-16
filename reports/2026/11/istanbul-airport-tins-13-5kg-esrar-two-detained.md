@@ -189,17 +189,22 @@ sources:
     publisher: Saray Medya
     date: 2026-11-15
     language: tr
+  - title: İstanbul Havalimanı'nda Narkotik Darbesi! Konservelerden Kilolarca Esrar Çıktı - | Bugün Kocaeli Gazetesi
+    url: https://www.bugunkocaeli.com.tr/istanbul-havalimaninda-narkotik-darbesi-konservelerden-kilolarca-esrar-cikti
+    publisher: Bugün Kocaeli Gazetesi
+    date: 2026-11-15
+    language: tr
 ---
 
 Istanbul narcotics teams detained two Tunisian nationals, Najla Ben Abdallah and
 Montassar Mosbehı, in an operation at Istanbul Airport. [@1,4,5,6,8,10,12,13,14,17,18,19,20,22] The two suspects
 were stopped after arriving on a flight from Casablanca, Morocco, on 14
-November, and were described in one account as two women passengers. [@3,15,16] The
+November, and were described in one account as two women passengers. [@3,15,16,23] The
 operation was run by the Istanbul police narcotics division as part of work
 against drug manufacturing and trafficking, monitoring incoming passengers. [@3,6,15,16]
 
 Officers found a total of 13 kilograms 512 grams of esrar, reported as cannabis,
-hidden in the suspects' luggage. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22] Of that total, 12 kilograms 226 grams were
+hidden in the suspects' luggage. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23] Of that total, 12 kilograms 226 grams were
 concealed in 73 cans and 1 kilogram 286 grams in the soles of four shoes. [@3,15,16]
 
 The search was carried out under a search order obtained from the Gaziosmanpaşa
