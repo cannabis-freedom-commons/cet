@@ -51,12 +51,18 @@ sources:
     publisher: Cumilla Gazette
     date: 2026-11-15
     language: bn
+  - title: ব্রাহ্মণপাড়ায় পৃথক অ'ভি'যা'নে গাঁ'জা'স'হ নারী পুরুষ গ্রে'প্তা'র
+    url: https://banglaralonews.com/5553582/%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A7%8D%E0%A6%AE%E0%A6%A3%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%83%E0%A6%A5%E0%A6%95-%E0%A6%85'%E0%A6%AD%E0%A6%BF'%E0%A6%AF%E0%A6%BE'%E0%A6%A8%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A6%81'%E0%A6%9C%E0%A6%BE'%E0%A6%B8'%E0%A6%B9-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%B7-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87'%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE'%E0%A6%B0
+    publisher: BanglarAloNews
+    date: 2026-11-15
+    language: bn
 open_questions:
-  - The ganja was described only as recovered illicit ganja, with no laboratory confirmation or packaging detail reported.
-  - No street value for the 11 kg was published.
-  - No court production, plea or detention order beyond ongoing Narcotics Control Act proceedings was reported.
-  - Home addresses for the three arrested people were given only in the Cumilla Gazette account.
-  - The three accounts reproduce the same Brahmanpara police account and press release, so they are not independent reporting.
+    - The ganja was described only as recovered illicit ganja, with no laboratory confirmation or packaging detail reported.
+    - No street value for the 11 kg was published.
+    - No court production, plea or detention order beyond ongoing Narcotics Control Act proceedings was reported.
+    - Reported home addresses for Nazma Begum differ between Rupganj, Narayanganj and Paharpur Union, Muradnagar.
+    - The accounts reproduce the same Brahmanpara police account and press release, so they are not independent reporting.
+    - The weekday of 14 November 2026 differs between accounts, with one giving Friday and another Saturday.
 ---
 
 Brahmanpara police arrested three people in two separate special drives in
@@ -64,21 +70,20 @@ Brahmanpara upazila, Cumilla, on Saturday 14 November 2026. [@1] Around 1:30pm,
 officers detained Nazma Begum (36) and Md. Wasim (45) on the paved road in front
 of the late Abdur Razzak Mia's shop east of Kazi Market at the Hathirgatha
 three-road crossing in Dhanyadaul, Brahmanpara Sadar Union, and recovered 3 kg
-of ganja from them. [@1] Around 10:30pm the same day, officers detained Md. Abu
+of ganja from them. [@1,4] Around 10:30pm the same day, officers detained Md. Abu
 Taher alias Faruk (42) on the dirt footpath west of contractor Rabi's house in
-North Shashidal, Shashidal Union, and recovered 8 kg of ganja from him. [@1]
+North Shashidal, Shashidal Union, and recovered 8 kg of ganja from him. [@1,4]
 
 Police said the two operations together recovered 11 kg of ganja and led to the
-three arrests. [@2] Nazma Begum is from Paharpur Union in Muradnagar, Wasim is
+three arrests. [@2,4] Nazma Begum is from Paharpur Union in Muradnagar, Wasim is
 from South Nagaish in Brahmanpara, and Abu Taher is from North Tetabhumi in
 Brahmanpara. [@3]
 
 The midday drive was conducted by Sub-Inspector Rupam Kumar Sarkar with
-Assistant Sub-Inspector Md. Kamruzzaman. [@1] The night drive was conducted by
-Sub-Inspector Md. Shamim Hossain with Assistant Sub-Inspector Nur-Al Ahsan. [@1]
+Assistant Sub-Inspector Md. Kamruzzaman. [@1,4] The night drive was conducted by
+Sub-Inspector Md. Shamim Hossain with Assistant Sub-Inspector Nur-Al Ahsan. [@1,4]
 Brahmanpara police station officer-in-charge Md. Faruk Hossain said the
 anti-drug drives would continue, the police stance on drugs was zero tolerance,
 and such combing operations would be strengthened further. [@1] Police said
 proceedings under the Narcotics Control Act against the arrested people were
-under way. [@1]
-
+under way. [@1,4]
