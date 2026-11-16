@@ -45,6 +45,11 @@ sources:
     publisher: Rising Cumilla
     date: 2026-11-15
     language: bn
+  - title: সীমান্তে গাঁজাসহ পৌনে ৬ লাখ টাকার পণ্য জব্দ - NewsNow24
+    url: https://newsnow24.com/chattogram/VEAzkyjF9O
+    publisher: NewsNow24
+    date: 2026-11-16
+    language: bn
 open_questions:
     - No separate weight, quantity or value was given for the ganja, so no cannabis figure is recorded and the 576,770 taka estimate covers the whole mixed haul, not the cannabis alone.
     - No arrest or detention was reported; the goods were described as seized in an ownerless condition.
@@ -63,11 +68,11 @@ and seized Indian illegal goods and drugs valued at 576,770 taka. [@1,2]
 Patrol teams of the Chandidar and Madla border outposts in Kasba upazila of
 Brahmanbaria and the Saldanadi and Shankuchail border outposts in Brahmanpara
 and Burichang upazilas of Cumilla took part from their respective border areas.
-[@1,2,3] The teams seized the goods in an ownerless condition, reporting no person
+[@1,2,3,4] The teams seized the goods in an ownerless condition, reporting no person
 detained at the scene. [@1] The seized goods comprised Indian cattle, chocolate,
-Munch wafer biscuits and ganja. [@1,2,3]
+Munch wafer biscuits and ganja. [@1,2,3,4]
 
 The battalion put the estimated market value of the whole seized consignment at
-576,770 taka. [@1,2,3] The battalion said its operations and intelligence activity
+576,770 taka. [@1,2,3,4] The battalion said its operations and intelligence activity
 to ensure border security and prevent push-in, trafficking of women and
 children, drugs and smuggling would continue. [@1]
