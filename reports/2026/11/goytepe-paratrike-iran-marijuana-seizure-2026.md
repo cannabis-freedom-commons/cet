@@ -53,28 +53,27 @@ sources:
     url: https://www.azernews.az/nation/267485.html
     publisher: Azernews
     date: 2026-11-16
-open_questions:
-  - No separate date for the interception was given; 16 November 2026, the publication date of both reports, stands in for the incident date.
-  - The 1.94 kg of opium and 4,000 methadone M-40 tablets from the same search are excluded from the cannabis figures.
-  - No charges, plea or court outcome for the detained pilot were reported; the reports say only that he was detained and that measures continue.
-  - Both reports reproduce the State Border Service account, so there is no independent reporting beyond the agency statement.
+  - title: 'Наркотики с неба: на границе с Ираном задержали паралет | Axar.Az'
+    url: https://ru.axar.az/news/kriminal/1149302.html
+    publisher: Axar.Az
+    date: 2026-11-16
+    language: ru
 ---
 
 Azerbaijani border guards stopped a paratrike that flew from Iran into
 Azerbaijan across the state border in the Goytepe Border Detachment area,
-neutralised the aircraft and detained the Iranian national piloting it. [@1] The
+neutralised the aircraft and detained the Iranian national piloting it. [@1,3] The
 State Border Service said the paratrike was detected during border control after
 illegally crossing the border and was neutralised in operational-military
 measures. [@1]
 
 Officers seized 21 kg 210 g of narcotics in the inspection, including 19 kg 270
 g of marijuana and 1 kg 940 g of opium, plus 4,000 methadone M-40 tablets with
-psychotropic content. [@1] Azernews independently reported the same seizure as
+psychotropic content. [@1,3] Azernews independently reported the same seizure as
 21.21 kg of narcotics, including 19.27 kg of marijuana and 1.94 kg of opium with
 4,000 methadone tablets. [@2]
 
 The detained pilot, an Iranian national, was held on suspicion of violating
-Azerbaijan's state border. [@2] The border service said aircraft had repeatedly
+Azerbaijan's state border. [@2,3] The border service said aircraft had repeatedly
 been used before to smuggle narcotics into Azerbaijan despite warnings, and
 pledged continued measures against such flights. [@2]
-
