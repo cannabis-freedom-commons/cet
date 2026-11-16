@@ -335,6 +335,11 @@ sources:
     publisher: וואלה ספורט
     date: 2026-11-16
     language: he
+  - title: 'Λάγος: Αμερικανός παίκτης μπάσκετ συνελήφθη στο αεροδρόμιο με 34 κιλά κάνναβης | ΣΚΑΪ'
+    url: https://www.skai.gr/news/world/lagos-amerikanos-paiktis-mpasket-synelifthi-sto-aerodromio-me-34-kila-kannavis
+    publisher: Skai.gr
+    date: 2026-11-16
+    language: el
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cj93rggenq4xo
@@ -366,7 +371,7 @@ intelligence and was observed abandoning his two checked-in bags to leave the
 airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56,57,58,61,62,63,64,66,67,70] He was promptly apprehended at the
 airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49,57,63,64] A second account confirms NDLEA arrested the American
 professional basketball player after discovering 32 parcels of Loud in his
-luggage at the same Lagos airport. [@2,9,25,29,48,50,53]
+luggage at the same Lagos airport. [@2,9,25,29,48,50,53,71]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
