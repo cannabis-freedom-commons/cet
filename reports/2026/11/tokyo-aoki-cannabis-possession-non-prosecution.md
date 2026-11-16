@@ -56,15 +56,20 @@ sources:
     publisher: 時事通信ニュース
     date: 2026-11-16
     language: ja
+  - title: 大麻所持疑いで書類送検のスケートボード選手 不起訴に
+    url: https://news.web.nhk/newsweb/na/nd-20261116de76813
+    publisher: NHK
+    date: 2026-11-16
+    language: ja
 ---
 
 Yukito Aoki, aged 23, represented Japan in men's street skateboarding at the
 Tokyo Olympics and is the skateboarder who was referred to prosecutors in this
 cannabis possession case. [@2,3] The Tokyo Metropolitan Police sent his case to
 prosecutors on suspicion that he had possessed cannabis in violation of the
-Narcotics Control Law. [@1,4] The Tokyo District Public Prosecutors Office closed
+Narcotics Control Law. [@1,4,5] The Tokyo District Public Prosecutors Office closed
 the matter by deciding not to prosecute him, with the decision dated 16 November
-2026. [@1,3,4] The prosecutors said the reason for the decision was consideration of various circumstances. [@3]
+2026. [@1,3,4,5] The prosecutors said the reason for the decision was consideration of various circumstances. [@3]
 
 The underlying allegation was that Aoki possessed a small amount of dried
 cannabis on 6 August inside the JR Shin-Kiba Station premises in Koto Ward,
