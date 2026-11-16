@@ -43,6 +43,11 @@ sources:
     publisher: এইমাত্র
     date: 2026-11-16
     language: bn
+  - title: মোংলায় এসআরবি এর অভিযানে ৮ কেজি গাঁজাসহ গ্রেপ্তার ২
+    url: https://bn.thefinancialpostbd.com/news/19239
+    publisher: The Daily Financial Post
+    date: 2026-11-16
+    language: bn
 open_questions:
   - The exact calendar night of the raid is not stated; 16 November 2026 is the publication date and is used as the incident date.
   - The 8 kg 500 g is described once as ganja and once as drugs; it is counted as cannabis on the basis of the ganja description, with no laboratory confirmation reported.
@@ -52,15 +57,14 @@ open_questions:
 
 A special team of Special Response Battalion-6 (SRB-6) arrested two identified
 drug dealers, Jewel and Kalam, with a large quantity of ganja in Mongla of
-Bagerhat. [@1] Acting on secret information, the SRB-6 team conducted the
+Bagerhat. [@1,2] Acting on secret information, the SRB-6 team conducted the
 overnight operation across the municipality and the upazila, catching the two
 red-handed. [@1]
 
 The operation recovered 8 kg 500 g of drugs, and the two detainees were handed
-to Mongla police after midnight. [@1] A case against them under the Narcotics
+to Mongla police after midnight. [@1,2] A case against them under the Narcotics
 Control Act has been completed, after which they were lodged with Mongla police
-station. [@1]
+station. [@1,2]
 
 The SRB media wing said such strict operations to curb crime and the spread of
-drugs in the area will continue in future. [@1]
-
+drugs in the area will continue in future. [@1,2]
