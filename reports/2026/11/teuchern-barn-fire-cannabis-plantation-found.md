@@ -1,0 +1,71 @@
+---
+code: D84ANG
+added_at: "2026-11-16T15:55:08.070334Z"
+date: 2026-11-15
+country: de
+place: Teuchern, Burgenlandkreis, Saxony-Anhalt
+coordinates: [51.1186, 12.0268]
+precision: locality
+type: seizure
+title: Teuchern barn fire exposes grow with hundreds of plants, 2-3 kg buds
+summary: >-
+  Firefighters called to a barn fire in Teuchern on Sunday evening found a cannabis grow with plants in the low hundreds and two to three kilograms of packaged buds. Police put the fire damage at 30,000 euros and said investigations into the grow and the cause of the fire were ongoing.
+figures:
+  kg_seized: 2
+details:
+  agency_types: [police]
+  products:
+    - {product: flower, kg: 2}
+  activity: [cultivation, possession]
+  setting: [farm]
+  environment: [indoor]
+  case_stage: investigation
+  date_precision: approximate
+  region: Saxony-Anhalt
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://www.mdr.de/nachrichten/sachsen-anhalt/halle/burgenland/teuchern-cannabis-plantage,brand-scheune-100.html
+    media_url: https://images.mdr.de/image/f19d804c-4a8d-43e5-999b-c30c6454591a/AAABoeQb-VY/AAABnSSvrFg/16x9-big/brand-teuchern-scheune-100.webp?width=1088
+    publisher: MDR
+    caption: Firefighters tackling the barn fire in Teuchern in which the cannabis grow was found.
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 01d193cf826735f883deeb53ccee4c29
+tags: [teuchern, burgenlandkreis, saxony-anhalt]
+sources:
+  - title: 'Brand in Teuchern: Feuerwehr stößt auf Cannabis-Plantage mit Hunderten Pflanzen | mdr.de'
+    url: https://www.mdr.de/nachrichten/sachsen-anhalt/halle/burgenland/teuchern-cannabis-plantage,brand-scheune-100.html
+    publisher: MDR
+    date: 2026-11-16
+    language: de
+open_questions:
+  - The exact number of plants was reported only as the low three-digit range, so no plant figure is recorded.
+  - The buds were reported as a range of two to three kilograms; the figures use the lower bound of 2 kg.
+  - 15 November 2026 is inferred as the Sunday evening before the 16 November 2026 publication; no calendar date for the fire was stated.
+  - No arrests, suspects, charges or court outcome were reported.
+  - The cause of the fire was still unexplained and the damage figure is the police estimate.
+---
+
+On Sunday evening, firefighters called to a barn fire in Teuchern in
+Burgenlandkreis discovered a cannabis grow operation in another part of the
+building while extinguishing the blaze. [@1] The building's upper floor had
+caught fire for a cause that was still unexplained. [@1] Two residents of
+neighbouring houses had to leave their homes. [@1] Twelve fire vehicles and 39
+firefighters deployed to put out the fire. [@1]
+
+Emergency crews then found the cultivation facility with differently sized
+plants in the low three-digit range. [@1] They also found two to three kilograms
+of packaged cannabis buds. [@1] Police put the fire damage at 30,000 euros. [@1]
+
+According to police, products for landscaping and horticulture were stored in
+the barn. [@1] Investigations, including into the cause of the fire, were
+ongoing. [@1]
+
