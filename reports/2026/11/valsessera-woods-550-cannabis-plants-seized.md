@@ -49,6 +49,16 @@ media:
     media_url: https://www.rainews.it/cropgd/806x453/dl/img/2026/11/16/1794832330763_vastapiantagionecannabisscopertadaicarabinieri.jpg
     publisher: RaiNews
     caption: Cannabis plants seized by Carabinieri in the Valsessera operation, in the photo published with the report.
+  - kind: photo
+    url: https://primabiella.it/cronaca/oltre-550-piante-di-cannabis-nei-boschi-della-valsessera-scatta-il-sequestro/
+    media_url: https://primabiella.it/media/2026/11/20261116_vasta_piantagione_cannabis_scoperta_dai_carabinieri1-1280x720.jpeg
+    publisher: Prima Biella
+    caption: The seized cannabis plantation and drying shed in the Valsessera woods, in a gallery photo published with the report.
+  - kind: video
+    url: https://primabiella.it/cronaca/oltre-550-piante-di-cannabis-nei-boschi-della-valsessera-scatta-il-sequestro/
+    media_url: https://cdn.target-video.com/live/partners/14067/ld/2910655.mp4
+    publisher: Prima Biella
+    caption: Video footage of the cannabis plantation in the Valsessera woods, published with the report.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 48b242e63b77e2364fa350dc38a32fef
@@ -79,6 +89,11 @@ sources:
     publisher: Giornale La Voce
     date: 2026-11-16
     language: it
+  - title: 'Oltre 550 piante di cannabis nei boschi della Valsessera: scatta il sequestro'
+    url: https://primabiella.it/cronaca/oltre-550-piante-di-cannabis-nei-boschi-della-valsessera-scatta-il-sequestro/
+    publisher: Prima Biella
+    date: 2026-11-16
+    language: it
 open_questions:
   - The reports say the discovery came in recent days but give no calendar date for the operation; 16 November 2026 is the publication date and stands in for the incident date.
   - The total is reported as over 550 plants, about 500 still in the ground plus about 50 already harvested, and is stored as 550.
@@ -89,15 +104,15 @@ open_questions:
 
 Carabinieri from the Masserano and Bioglio stations, with forestry Carabinieri
 units from Biella and Sordevolo, found an illegal cannabis cultivation in a
-steep woodland area reachable only on foot in a Valsessera municipality. [@3,4,5]
+steep woodland area reachable only on foot in a Valsessera municipality. [@3,4,5,6]
 The plantation was found and dismantled, and investigators are now hunting for
 the growers who planted it in the Valsessera woods. [@1] The seizure was made
 against unknown persons and placed at the disposal of the judiciary, with no
-suspects identified or arrested. [@3,5]
+suspects identified or arrested. [@3,5,6]
 
 About 500 plants of some size stood in regular rows served by a rudimentary
-irrigation system, with some 50 harvested plants drying in a nearby hut. [@1]
+irrigation system, with some 50 harvested plants drying in a nearby hut. [@1,6]
 Officers also found a rustic drying shed holding the uprooted plants and an
 improvised water system of collection tanks linked to irrigation channels
-serving the plantation. [@3,4] In total, more than 550 cannabis plants and the
-equipment on site were uprooted, recovered and seized. [@2,4,5]
+serving the plantation. [@3,4,6] In total, more than 550 cannabis plants and the
+equipment on site were uprooted, recovered and seized. [@2,4,5,6]
