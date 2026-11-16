@@ -47,6 +47,11 @@ sources:
     publisher: VG
     date: 2026-11-16
     language: nb
+  - title: Narkodømt mann på rømmen pågrepet
+    url: https://cedarnews.net/norsk/1155699/narkodomt-mann-rommen-pagrepet/
+    publisher: Cedar News
+    date: 2026-11-16
+    language: nb
 open_questions:
   - 23 October is given without a year; 2026 is inferred from the Friday weekday and the November 2026 publication.
   - The figure of over 500 kilograms of hashish concerns the 2024 conviction, not a new seizure at Gardermoen; no drugs were reported seized in this arrest.
@@ -57,10 +62,10 @@ open_questions:
 ---
 
 A man resident in eastern Norway was sentenced in 2024. [@1] He was sentenced to
-nine years in prison for importing over 500 kilograms of hashish. [@1] He left
+nine years in prison for importing over 500 kilograms of hashish. [@1,4] He left
 the country just before he was due to start the sentence in 2025 and had been
-wanted since. [@1] He was arrested on arrival at Gardermoen on Friday 23 October
-during a controlled return to Norway. [@3]
+wanted since. [@1,4] He was arrested on arrival at Gardermoen on Friday 23 October
+during a controlled return to Norway. [@3,4]
 
 Troms Police District said it had worked over a long period to bring him back so
 the final judgment could be enforced. [@3] As part of that effort police took
@@ -75,4 +80,3 @@ hiked on foot from Sweden to Norway with GPS, walking poles and backpacks to
 smuggle the hashish. [@2] Six men were convicted over smuggling hashish worth
 more than 60 million kroner. [@2] A second defendant in the same proceedings was
 sentenced to 12 years in prison. [@2]
-
