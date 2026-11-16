@@ -68,6 +68,10 @@ sources:
     publisher: Policía Nacional de Honduras
     date: 2026-11-14
     language: es
+  - title: 'Les encontraron 40 paquetes: Capturan a pareja en Tegucigalpa con supuesta marihuana oculta en cajas – Noticias 24/7'
+    url: https://noticias247.hn/les-encontraron-40-paquetes-capturan-a-pareja-en-tegucigalpa-con-supuesta-marihuana-oculta-en-cajas.html
+    publisher: Noticias 24/7
+    language: es
 media:
   - kind: photo
     url: https://proceso.hn/arrestan-a-pareja-cuando-transportaban-39-paquetes-de-supuesta-marihuana-en-la-capital/
@@ -113,7 +117,7 @@ media:
 
 A couple was detained by agents of the Direccion Policial de Investigaciones
 (DPI) while transporting 40 packages of suspected marijuana in a pickup truck.
-[@1,2,4,6,7] The two detainees were a 35-year-old man known by the alias “El Humilde” and a 32-year-old woman. [@2,5] The operation took place in the village of Villa Vieja in the capital's Distrito Central. [@3,5] The load was carried inside sealed boxes, a method that would have allowed
+[@1,2,4,6,7,8] The two detainees were a 35-year-old man known by the alias “El Humilde” and a 32-year-old woman. [@2,5] The operation took place in the village of Villa Vieja in the capital's Distrito Central. [@3,5] The load was carried inside sealed boxes, a method that would have allowed
 the drugs to be hidden while being moved. [@1,4,6,7] Police seized the gray Honda CR-V and a gray Samsung mobile phone as evidence. [@3] Police valued the suspected marijuana at about 200,000 lempiras on the illicit market. [@2,5] Officers found 39 wraps of dry plant material, suspected to be marijuana, in two cardboard boxes in the vehicle's trunk. [@2,5] Technicians from the Crime Scene Processing Unit (Unidad de Procesamiento de Escena del Delito, UPED-LPCC) supported the vehicle inspection. [@5]
 
 During the procedure investigators located the packages containing the suspected
@@ -122,5 +126,5 @@ the police authorities. [@1,4,6] The couple was placed at the disposal of the
 corresponding authorities to continue the legal process. [@1,3,4,5,6] Investigators alleged that the pair were part of an independent criminal band selling and distributing drugs in eastern Honduras. [@3,5]
 
 No details were provided on the identity of the detainees or the exact place
-where the capture was carried out. [@1] The report was published on 14 November
+where the capture was carried out. [@1,8] The report was published on 14 November
 2026. [@1]
