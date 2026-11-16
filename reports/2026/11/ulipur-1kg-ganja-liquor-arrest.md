@@ -43,25 +43,30 @@ sources:
     publisher: Somoyer Konthosor
     date: 2026-11-16
     language: bn
+  - title: উলিপুরে ১ কেজি গাঁজা ও ২৫ বোতল বিদেশি মদসহ গ্রেপ্তার ১
+    url: https://www.protidinersangbad.com/whole-country/595645
+    publisher: Protidiner Sangbad
+    date: 2026-11-16
+    language: bn
 open_questions:
-  - The 25 bottles of foreign liquor are not cannabis and are excluded from the cannabis figures.
-  - The ganja was reported as seized without any laboratory confirmation stated.
-  - The account rests on a single outlet report; no second outlet or agency statement was opened.
-  - No court outcome beyond the filing of the narcotics case was reported.
+    - The 25 bottles of foreign liquor are not cannabis and are excluded from the cannabis figures.
+    - The ganja was reported as seized without any laboratory confirmation stated.
+    - Two outlets now report the arrest, but both accounts rest on the same DB police statement; no agency statement page was opened.
+    - No court outcome beyond the filing of the narcotics case was reported.
+    - The arrested man's father is named as Hiralal Rabidas in one account and Hirala Rabidas in another, and the correct spelling is unconfirmed.
 ---
 
 Kurigram Detective Branch police arrested 38-year-old Bahadur Rabidas, also
 known as Bachchu, in Ulipur with 1 kg of ganja and 25 bottles of foreign liquor.
-[@1] The raid took place on the afternoon of Sunday 15 November at his own house
-in the Uttar Baladoba area of Begumganj Union. [@1] The arrested man is the son
-of the late Hirala Rabidas of the same area. [@1]
+[@1,2] The raid took place on the afternoon of Sunday 15 November at his own house
+in the Uttar Baladoba area of Begumganj Union. [@1,2] Acting on secret information, a Kurigram DB vigilant team raided Uttar Baladoba, Ward No. 7 of Begumganj Union. [@2] The arrested man is the son
+of the late Hirala Rabidas of the same area. [@1,2]
 
 Officers searched the kitchen of his dwelling and recovered 1 kg of ganja and 25
 bottles of Officer's Choice-brand foreign liquor, then arrested him at the
-scene. [@1]
+scene. [@1,2]
 
 Kurigram Detective Branch officer-in-charge Md Rezaul Karim confirmed the
-incident and said the district anti-drug drive is continuing. [@1] Police filed
+incident and said the district anti-drug drive is continuing. [@1,2] Police filed
 a case against the arrested man at Ulipur police station under the Narcotics
-Control Act. [@1]
-
+Control Act. [@1,2]
