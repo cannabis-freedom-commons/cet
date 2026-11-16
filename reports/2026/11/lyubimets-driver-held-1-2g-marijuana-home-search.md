@@ -41,23 +41,26 @@ sources:
     publisher: Vestnik Stariyat most
     date: 2026-11-16
     language: bg
+  - title: Откриха наркотици в дома на мъж, заловен след преследване от полицаи
+    url: https://www.haskovo.net/news/640887/otkrixa-narkotici-v-doma-na-miez-zaloven-sled-presledvane-ot-policai
+    publisher: Haskovo.Net
+    date: 2026-11-16
+    language: bg
 open_questions:
-  - No laboratory confirmation of the 1.2 grams was reported; the account rests on the man's statement that it was marijuana for personal use.
-  - No court outcome beyond the detention for up to 24 hours under fast-track proceedings was reported.
-  - The whole account rests on a single report citing ODMVR-Haskovo; no second source was opened.
+    - No laboratory confirmation of the 1.2 grams was reported; the account rests on the man's statement that it was marijuana for personal use.
+    - No court outcome beyond the detention for up to 24 hours under fast-track proceedings was reported.
 ---
 
 A man was detained in Lyubimets for failing to comply with a police order,
 according to ODMVR-Haskovo. [@1] On 14 November at about 14:00, a local patrol
 used sound and light signals to order a Mercedes car to stop for a check. [@1]
 The car, driven by a 33-year-old resident of the town, kept moving and was
-followed by the patrol car. [@1] The driver stopped between apartment blocks on
-Ivaylovgradska Street and tried to flee on foot, but officers caught him. [@1]
+followed by the patrol car. [@1,2] The driver stopped between apartment blocks on
+Ivaylovgradska Street and tried to flee on foot, but officers caught him. [@1,2]
 
 His alcohol test was negative, but he refused a test for use of narcotic
-substances. [@1] During a search of his home on P. Evtimiy Street, officers
+substances. [@1,2] During a search of his home on P. Evtimiy Street, officers
 found 1.2 grams of dried green leafy flowering material, which the man said was
-marijuana for personal use. [@1]
+marijuana for personal use. [@1,2]
 
-He was detained for up to 24 hours under fast-track proceedings. [@1]
-
+He was detained for up to 24 hours under fast-track proceedings. [@1,2]
