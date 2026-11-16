@@ -70,21 +70,26 @@ sources:
     publisher: Semana
     date: 2026-11-16
     language: es
+  - title: Más de una tonelada de marihuana fue incautada por el Ejército Nacional en el Cauca
+    url: https://www.ejercito.mil.co/mas-de-una-tonelada-de-marihuana-fue-incautada-por-el-ejercito-nacional-en-el-cauca
+    publisher: Ejército Nacional de Colombia
+    date: 2026-11-16
+    language: es
 ---
 
 Troops of Anti-Narcotics Battalion No. 2 carried out a ground interdiction
 against a motor vehicle in a rural area of Popayán, Cauca. [@1] Officers found
 1,041 kilograms of marijuana hidden inside an NPR-type truck during the check.
-[@1,3,4] Officers arrested the driver of the vehicle at the scene. [@1,3,4] The seized
+[@1,3,4,5] Officers arrested the driver of the vehicle at the scene. [@1,3,4,5] The seized
 load, the immobilized vehicle and the detained man were placed at the disposal
 of the judicial authorities for prosecution for alleged drug trafficking,
 manufacture or possession. [@2,3]
 
 Military intelligence linked the load to the Dagoberto Ramos structure of the
-FARC dissidents. [@2,3,4] Intelligence indicated the drug was first bound for Puerto
-Asís, Putumayo. [@1,3,4] From Puerto Asís the load was to be moved by river launches
-toward Brazil. [@1,3,4]
+FARC dissidents. [@2,3,4,5] Intelligence indicated the drug was first bound for Puerto
+Asís, Putumayo. [@1,3,4,5] From Puerto Asís the load was to be moved by river launches
+toward Brazil. [@1,3,4,5]
 
 Authorities estimated the seizure equalled about 52,050 doses for illegal
-markets. [@1,4] The Army put the economic impact on that structure at about 1,050
+markets. [@1,4,5] The Army put the economic impact on that structure at about 1,050
 million pesos. [@2]
