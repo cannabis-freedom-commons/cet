@@ -58,6 +58,11 @@ sources:
     publisher: VTV Canal 8
     date: 2026-01-13
     language: es
+  - title: Venezuela. Incautan más de 7,1 toneladas de droga en lo que va de 2026 (+video)
+    url: https://www.resumenlatinoamericano.org/2026/01/14/venezuela-incautan-mas-de-71-toneladas-de-droga-en-lo-que-va-de-2026-video/
+    publisher: Resumen Latinoamericano
+    date: 2026-01-14
+    language: es
 open_questions:
   - The precise river interception point was not published, so Ciudad Bolivar centre coordinates are used for the Orinoco near Ciudad Bolivar.
   - The reported 6,850.41 kg and 7,148 kg totals cover marijuana plus cocaine and are excluded from cannabis figures; only 6,758.66 kg of marijuana is recorded.
@@ -68,16 +73,16 @@ open_questions:
 ---
 
 Diosdado Cabello, Venezuela's interior, justice and peace minister, announced
-the seizure of a large drug load. [@1] The main operation, called Operation
+the seizure of a large drug load. [@1,6] The main operation, called Operation
 Soledad, was carried out on 5 January and seized two boats. [@2] The operation
 took place in the Orinoco river basin in Bolivar state. [@3] The seizure was
 located in Ciudad Bolivar. [@2]
 
 Officers found 238 bales containing a total of 14,280 wraps in the main load.
-[@1] Of those wraps, 14,199 held marijuana weighing 6,758.66 kg and 81 held
+[@1,6] Of those wraps, 14,199 held marijuana weighing 6,758.66 kg and 81 held
 cocaine weighing 91.75 kg, together 6,850.41 kg of mixed drugs. [@1,4] Cabello put
 the national total for the first 13 days of January at 7,148 kg of all drugs, a
-combined figure not recorded as cannabis here. [@1,4,5]
+combined figure not recorded as cannabis here. [@1,4,5,6]
 
 Cabello said blocking maritime and air routes forces traffickers onto land
 routes where they are more vulnerable to surveillance. [@1] He described the
