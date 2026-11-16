@@ -44,14 +44,11 @@ sources:
     publisher: Canlı Gaste
     date: 2026-11-16
     language: tr
-open_questions:
-    - No separate date for the operations was given; 16 November 2026 is the publication date and is used as the incident date.
-    - The five suspects were not named, and no detention, charge, remand or court outcome was reported beyond the opening of legal proceedings.
-    - No breakdown of the seizures by district or incident was published; the weight and plant count are totals only.
-    - The esrar is described only as esrar maddesi without specifying resin or dried flower, so it is recorded as hashish.
-    - The condition of the 538 cannabis roots was not specified, so they are recorded as plants destroyed or seized without a seized/destroyed split.
-    - The two published accounts (İhlas Haber Ajansı via Haberler and Anadolu Ajansı via Canlı Gaste) both reproduce the same Valilik/gendarmerie statement, with no independent reporting beyond the official account.
-    - No value estimate for the seized cannabis was published.
+  - title: Diyarbakır'da 38 kilo esrar ele geçirildi - Asayiş - Adana Haber
+    url: https://www.adanamasasi.com/diyarbakir-da-38-kilo-esrar-ele-gecirildi/836137/
+    publisher: Adana Masası
+    date: 2026-11-16
+    language: tr
 media:
   - kind: photo
     url: https://www.canligaste.com/diyarbakir-da-38-kilo-261-gram-esrar-ve-538-kok-kenevir-ele-gecirildi/950697/
@@ -62,16 +59,16 @@ media:
 
 Diyarbakır İl Jandarma Komutanlığı, the Diyarbakir provincial gendarmerie
 command, coordinated a series of anti-drug operations through its Narkotik
-Suçlarla Mücadele Şube Müdürlüğü, the narcotics-crimes branch. [@1,2] The
+Suçlarla Mücadele Şube Müdürlüğü, the narcotics-crimes branch. [@1,2,3] The
 operations covered the provincial centre and districts within the gendarmerie's
 area of responsibility. [@1,2] They were directed at people accused of trading,
 transporting and using narcotic substances. [@1,2] Fifteen separate incidents were
-recorded during the operations. [@1] Legal proceedings were opened against five
-suspects in connection with those incidents. [@1,2]
+recorded during the operations. [@1,3] Legal proceedings were opened against five
+suspects in connection with those incidents. [@1,2,3]
 
 Teams seized 38 kilograms 261 grams of esrar, the Turkish word for cannabis.
-[@1,2] Teams also seized 538 kök kenevir, literally cannabis roots, the term
-Turkish enforcement reporting uses for cannabis plants. [@1,2] The gendarmerie
+[@1,2,3] Teams also seized 538 kök kenevir, literally cannabis roots, the term
+Turkish enforcement reporting uses for cannabis plants. [@1,2,3] The gendarmerie
 reported both the esrar weight and the cannabis-root count as the outcome of the
 coordinated operations. [@1]
 
