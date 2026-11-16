@@ -53,6 +53,11 @@ sources:
     publisher: Diario El Pais
     date: 2026-11-14
     language: es
+  - title: Cae “El Humilde” y dama con marihuana valorada en L200 mil
+    url: https://www.latribuna.hn/2026/11/15/cae-el-humilde-y-dama-con-marihuana-valorada-en-l200-mil/
+    publisher: Diario La Tribuna
+    date: 2026-11-15
+    language: es
 open_questions:
     - 'The package count is disputed: HCH reported 40 packages, while Proceso Digital and El Mundo report 39 wraps.'
     - No weight for the suspected marijuana was published.
@@ -73,17 +78,32 @@ media:
     media_url: https://d26m4ikkajfmz.cloudfront.net/wp-content/uploads/2026/11/Transportaban-40-paquetes-de-marihuana-en-cajas.jpg
     publisher: Diario El Pais
     caption: Sealed boxes holding the 40 packages of suspected marijuana transported in the pickup.
+  - kind: photo
+    url: https://www.latribuna.hn/2026/11/15/cae-el-humilde-y-dama-con-marihuana-valorada-en-l200-mil/
+    media_url: https://cdn.latribuna.hn/wp-content/uploads/2026/11/MARI-3.jpg
+    publisher: Diario La Tribuna
+    caption: DPI agents following and stopping the vehicle with its two occupants in Villa Vieja.
+  - kind: photo
+    url: https://www.latribuna.hn/2026/11/15/cae-el-humilde-y-dama-con-marihuana-valorada-en-l200-mil/
+    media_url: https://cdn.latribuna.hn/wp-content/uploads/2026/11/MARI-4.jpg
+    publisher: Diario La Tribuna
+    caption: Seized cardboard boxes with the suspected marijuana packages, valued by investigators at about 200,000 lempiras on the illicit market.
+  - kind: photo
+    url: https://www.latribuna.hn/2026/11/15/cae-el-humilde-y-dama-con-marihuana-valorada-en-l200-mil/
+    media_url: https://cdn.latribuna.hn/wp-content/uploads/2026/11/MARI-6.jpg
+    publisher: Diario La Tribuna
+    caption: The gray CR-V used to transport the marijuana, seized in the procedure.
 ---
 
 A couple was detained by agents of the Direccion Policial de Investigaciones
 (DPI) while transporting 40 packages of suspected marijuana in a pickup truck.
-[@1,2,4] The two detainees were a 35-year-old man known by the alias “El Humilde” and a 32-year-old woman. [@2] The operation took place in the village of Villa Vieja in the capital's Distrito Central. [@3] The load was carried inside sealed boxes, a method that would have allowed
-the drugs to be hidden while being moved. [@1,4] Police seized the gray Honda CR-V and a gray Samsung mobile phone as evidence. [@3] Police valued the suspected marijuana at about 200,000 lempiras on the illicit market. [@2] Officers found 39 wraps of dry plant material, suspected to be marijuana, in two cardboard boxes in the vehicle's trunk. [@2]
+[@1,2,4] The two detainees were a 35-year-old man known by the alias “El Humilde” and a 32-year-old woman. [@2,5] The operation took place in the village of Villa Vieja in the capital's Distrito Central. [@3,5] The load was carried inside sealed boxes, a method that would have allowed
+the drugs to be hidden while being moved. [@1,4] Police seized the gray Honda CR-V and a gray Samsung mobile phone as evidence. [@3] Police valued the suspected marijuana at about 200,000 lempiras on the illicit market. [@2,5] Officers found 39 wraps of dry plant material, suspected to be marijuana, in two cardboard boxes in the vehicle's trunk. [@2,5] Technicians from the Crime Scene Processing Unit (Unidad de Procesamiento de Escena del Delito, UPED-LPCC) supported the vehicle inspection. [@5]
 
 During the procedure investigators located the packages containing the suspected
 illicit substance, so both occupants of the vehicle were taken into custody by
 the police authorities. [@1,4] The couple was placed at the disposal of the
-corresponding authorities to continue the legal process. [@1,3,4] Investigators alleged that the pair were part of an independent criminal band selling and distributing drugs in eastern Honduras. [@3]
+corresponding authorities to continue the legal process. [@1,3,4,5] Investigators alleged that the pair were part of an independent criminal band selling and distributing drugs in eastern Honduras. [@3,5]
 
 No details were provided on the identity of the detainees or the exact place
 where the capture was carried out. [@1] The report was published on 14 November
