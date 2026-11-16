@@ -45,6 +45,11 @@ media:
     media_url: https://images.caxton.co.za/wp-content/uploads/sites/144/2026/11/WhatsApp-Image-2026-11-15-at-10.24.11-780x470.jpeg
     publisher: The Witness
     caption: 'Police handout photo of the cannabis seized in the Westville bust. Photo: Supplied.'
+  - kind: photo
+    url: https://www.sabcnews.com/sabcnews/r1-5m-dagga-seized-one-arrested-in-westville/
+    media_url: https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/11/SABC-NEWS_DAGGA-ARREST.jpeg
+    publisher: SABC News
+    caption: 'Police photograph of packaged dagga seized in the Westville operation, arranged beside a police vehicle. Credit: SAPoliceServices on X.'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 9fd46112c857b2b0a7209e98dd484286
@@ -58,6 +63,10 @@ sources:
     url: https://crimeconnectagc.com/2026/11/15/police-chase-in-westville-ends-with-320kg-dagga-seizure-worth-r1-5-million/
     publisher: Crime Connect
     date: 2026-11-15
+  - title: R1.5m dagga seized, one arrested in Westville
+    url: https://www.sabcnews.com/sabcnews/r1-5m-dagga-seized-one-arrested-in-westville/
+    publisher: SABC News
+    date: 2026-11-15
 open_questions:
   - The 320kg and R1.5 million are police estimates reported as approximate, with no measured weight or valuation method given.
   - Police had not disclosed where the cannabis was being transported from or where it was allegedly destined.
@@ -69,18 +78,17 @@ A 32-year-old man was arrested after police seized approximately 320kg of dagga
 with an estimated street value of R1.5 million following a chase in Westville.
 [@1] The cannabis was confiscated in a multidisciplinary operation involving the
 Durban Flying Squad, Durban Metro Police and a private security company. [@1]
-The 32-year-old man was subsequently charged with dealing in dagga. [@1] The
+The 32-year-old man was subsequently charged with dealing in dagga. [@1,3] The
 suspect is expected to appear in the Durban Magistrates' Court on Monday,
-November 16. [@1]
+November 16. [@1,3]
 
 KwaZulu-Natal police said officers had received intelligence about a large
-consignment of dagga being transported along the N2 from north of Durban. [@1]
-Police tracked the vehicle along the N2 before it turned onto the M19. [@1] The
+consignment of dagga being transported along the N2 from north of Durban. [@1,3]
+Police tracked the vehicle along the N2 before it turned onto the M19. [@1,3] The
 driver brought the vehicle to a stop, abandoned it and fled on foot into nearby
-bushes. [@1] An extensive search operation led to the suspect's arrest. [@1]
+bushes. [@1] An extensive search operation led to the suspect's arrest. [@1,3]
 
 Police had not disclosed where the cannabis was allegedly destined for or where
 it was being transported from. [@1] A second report confirms the same Westville
 arrest and seizure of approximately 320kg of dagga valued at an estimated R1.5
 million. [@2]
-
