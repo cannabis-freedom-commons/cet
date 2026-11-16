@@ -84,6 +84,11 @@ sources:
     publisher: Hürgün Gazetesi
     date: 2026-11-15
     language: tr
+  - title: 'Alanya’da zehir tacirlerine ağır darbe: 3 kilo ele geçirildi! - Alanya Türk'
+    url: https://www.alanyaturk.com/alanyada-zehir-tacirlerine-agir-darbe-3-kilo-ele-gecirildi
+    publisher: ALANYATÜRK GAZETESİ
+    date: 2026-11-15
+    language: tr
 ---
 
 Antalya İl Jandarma Komutanlığı, the Antalya Provincial Gendarmerie Command,
@@ -91,13 +96,13 @@ acting on the instructions of Alanya Cumhuriyet Başsavcılığı, the Alanya Ch
 Public Prosecutor's Office, launched dedicated work in Alanya district to
 prevent drug trafficking and drug use. [@1,3,8,9,10] As part of that prosecutor-directed
 work, gendarmerie officers searched a suspect's residence, described as a house
-in Alanya district of Antalya province. [@2,4,5,10] During the search of the suspect's
+in Alanya district of Antalya province. [@2,4,5,10,11] During the search of the suspect's
 residence, officers found and seized 3 kilograms 340 grams of esrar, the Turkish
-term for cannabis. [@1,3,4,5,6,7,8,9,10]
+term for cannabis. [@1,3,4,5,6,7,8,9,10,11]
 
 The Antalya Provincial Gendarmerie Command described the house operation as an
 anti-drug operation carried out under the instructions of the Alanya Chief
 Public Prosecutor's Office. [@2,6,7] The total seizure reported from the single
 residential search in Alanya was 3 kilograms 340 grams of esrar. [@2] Following
 the seizure in Alanya, the gendarmerie started judicial proceedings over the
-incident. [@1,3,4,5,6,7,8,9,10]
+incident. [@1,3,4,5,6,7,8,9,10,11]
