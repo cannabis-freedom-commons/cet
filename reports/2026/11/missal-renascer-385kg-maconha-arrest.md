@@ -49,19 +49,19 @@ sources:
     publisher: Portal24
     date: 2026-11-15
     language: pt
-open_questions:
-  - The suspect was not named and no age, plea, charge detail or court outcome was reported.
-  - The maconha was reported by police weight and description; no laboratory confirmation was reported.
-  - No ownership or legal status of the seized Paraguayan-plated motorcycle was reported.
-  - The account rests on a single report of the police action.
+  - title: HOMEM É PRESO COM QUASE 4 KG DE MACONHA NO BAIRRO RENASCER, EM MISSAL - Oeste Agora Notícias
+    url: https://www.oesteagora.com.br/2026/11/16/homem-e-preso-com-quase-4-kg-de-maconha-no-bairro-renascer-em-missal/
+    publisher: Oeste Agora
+    date: 2026-11-16
+    language: pt
 ---
 
 Police arrested a man for drug trafficking on the afternoon of Sunday 15
-November 2026 in Bairro Renascer, Missal, in western Parana. [@1] The team acted
+November 2026 in Bairro Renascer, Missal, in western Parana. [@1,2] The team acted
 after receiving a report that an individual was storing drugs at a residence in
-the area. [@1] During the approach the suspect allegedly disobeyed police orders
-and resisted arrest. [@1] One military police officer suffered a hand injury
-during the action. [@1]
+the area. [@1,2] During the approach the suspect allegedly disobeyed police orders
+and resisted arrest. [@1,2] One military police officer suffered a hand injury
+during the action. [@1,2]
 
 Military police officers of the 14th Battalion seized approximately 3.85
 kilograms of maconha, described as five and a half pressed blocks. [@1] Officers
@@ -70,6 +70,5 @@ found the five and a half blocks there. [@1] Officers also seized a motorcycle
 with Paraguayan plates. [@1]
 
 The man was arrested and taken to the Civil Police station with the drugs and
-the motorcycle for legal procedures. [@1] The occurrence was recorded by the
+the motorcycle for legal procedures. [@1,2] The occurrence was recorded by the
 14th Battalion of the Parana Military Police. [@1]
-
