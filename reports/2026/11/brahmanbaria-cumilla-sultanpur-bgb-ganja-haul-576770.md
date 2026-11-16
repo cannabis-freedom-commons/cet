@@ -40,12 +40,16 @@ sources:
     publisher: Kalbela
     date: 2026-11-15
     language: bn
+  - title: কুমিল্লা ও ব্রাহ্মণবাড়িয়া সীমান্তে ভারতীয় গরু-গাঁজাসহ ৫.৭৬ লাখ টাকার পণ্য জব্দ
+    url: https://risingcumilla.com/%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE-%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A7%8D%E0%A6%AE%E0%A6%A3%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC-4/
+    publisher: Rising Cumilla
+    date: 2026-11-15
+    language: bn
 open_questions:
-  - No separate weight, quantity or value was given for the ganja, so no cannabis figure is recorded and the 576,770 taka estimate covers the whole mixed haul, not the cannabis alone.
-  - No arrest or detention was reported; the goods were described as seized in an ownerless condition.
-  - No breakdown was given of what was seized at each border outpost.
-  - No case filing, handover to customs or court outcome was reported.
-  - The account rests on a single accessible outlet citing BGB and battalion sources, with no second independent report found.
+    - No separate weight, quantity or value was given for the ganja, so no cannabis figure is recorded and the 576,770 taka estimate covers the whole mixed haul, not the cannabis alone.
+    - No arrest or detention was reported; the goods were described as seized in an ownerless condition.
+    - No breakdown was given of what was seized at each border outpost.
+    - No case filing, handover to customs or court outcome was reported.
 ---
 
 Border Guard Bangladesh increased intelligence surveillance on the border under
@@ -59,11 +63,11 @@ and seized Indian illegal goods and drugs valued at 576,770 taka. [@1,2]
 Patrol teams of the Chandidar and Madla border outposts in Kasba upazila of
 Brahmanbaria and the Saldanadi and Shankuchail border outposts in Brahmanpara
 and Burichang upazilas of Cumilla took part from their respective border areas.
-[@1,2] The teams seized the goods in an ownerless condition, reporting no person
+[@1,2,3] The teams seized the goods in an ownerless condition, reporting no person
 detained at the scene. [@1] The seized goods comprised Indian cattle, chocolate,
-Munch wafer biscuits and ganja. [@1,2]
+Munch wafer biscuits and ganja. [@1,2,3]
 
 The battalion put the estimated market value of the whole seized consignment at
-576,770 taka. [@1,2] The battalion said its operations and intelligence activity
+576,770 taka. [@1,2,3] The battalion said its operations and intelligence activity
 to ensure border security and prevent push-in, trafficking of women and
 children, drugs and smuggling would continue. [@1]
