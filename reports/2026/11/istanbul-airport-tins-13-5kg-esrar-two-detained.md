@@ -44,6 +44,16 @@ media:
     media_url: https://ilkha.com/img/NewsGallery/2026/11/15/575938/FeaturedImage/73380e1b-6a9d-4b78-8ae2-12d1658fca65.jpg
     publisher: İlkha Haber Ajansı
     caption: Photo published with the İLKHA report on the 13 kg 512 g esrar seizure in cans at Istanbul Airport.
+  - kind: photo
+    url: https://www.takvim.com.tr/guncel/2026/11/15/istanbul-havalimaninda-uyusturucu-operasyonu
+    media_url: https://iatkv.tmgrup.com.tr/e3c503/0/0/0/0/0/0?u=https%3a%2f%2fitkv.tmgrup.com.tr%2f2026%2f11%2f15%2fistanbul-havalimaninda-uyusturucu-operasyonu-1794723696430.jpeg&mw=1200
+    publisher: Takvim
+    caption: 'Photo published with the Takvim report on the 13 kg 512 g esrar seizure in cans at Istanbul Airport. Photo: İHA'
+  - kind: photo
+    url: https://www.takvim.com.tr/guncel/2026/11/15/istanbul-havalimaninda-uyusturucu-operasyonu
+    media_url: https://iatkv.tmgrup.com.tr/19597e/0/0/0/0/0/0?u=https%3a%2f%2fitkv.tmgrup.com.tr%2f2026%2f11%2f15%2fistanbul-havalimaninda-uyusturucu-operasyonu-1794723708233.jpeg&mw=1200
+    publisher: Takvim
+    caption: 'Photo published with the Takvim report on the detention of the two Tunisian suspects in the Istanbul Airport tin-smuggling case. Photo: İHA'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: eeb1e09f2ec05f8ea2eb4ecd00b96303
@@ -99,8 +109,14 @@ sources:
     publisher: Yeni Şafak
     date: 2026-11-15
     language: tr
+  - title: 'İstanbul Havalimanı’nda uyuşturucu operasyonu: 13,5 kilo esrar ele geçirildi'
+    url: https://www.takvim.com.tr/guncel/2026/11/15/istanbul-havalimaninda-uyusturucu-operasyonu
+    publisher: Takvim
+    date: 2026-11-15
+    language: tr
 open_questions:
   - The Yeni Safak account rounds the seizure to 13 kilos, while the report records the precise 13 kilograms 512 grams from more detailed accounts.
+  - Takvim attributes the full 13 kg 512 g to cans and does not mention the 1 kg 286 g in shoe soles detailed in another account of the same seizure.
 ---
 
 Istanbul narcotics teams detained two Tunisian nationals, Najla Ben Abdallah and
@@ -111,12 +127,12 @@ operation was run by the Istanbul police narcotics division as part of work
 against drug manufacturing and trafficking, monitoring incoming passengers. [@3,6]
 
 Officers found a total of 13 kilograms 512 grams of esrar, reported as cannabis,
-hidden in the suspects' luggage. [@1,5,6,8,9,10] Of that total, 12 kilograms 226 grams were
+hidden in the suspects' luggage. [@1,5,6,8,9,10,11] Of that total, 12 kilograms 226 grams were
 concealed in 73 cans and 1 kilogram 286 grams in the soles of four shoes. [@3]
 
 The search was carried out under a search order obtained from the Gaziosmanpaşa
-Chief Public Prosecutor's Office after a tip-off. [@2,5,7,8] The search order was obtained from the Gaziosmanpaşa Chief Public Prosecutor's Office under GSBH (Gecikmesinde Sakınca Bulunan Hal) provisions. [@9] Police said the suspects
+Chief Public Prosecutor's Office after a tip-off. [@2,5,7,8,11] The search order was obtained from the Gaziosmanpaşa Chief Public Prosecutor's Office under GSBH (Gecikmesinde Sakınca Bulunan Hal) provisions. [@9] Police said the suspects
 tried to bring the cannabis into Türkiye and took them into custody. [@2,7,9]
 Officers also seized money and mobile phones found on the suspects for
-examination. [@1,4,5,6,7,8] The suspects were expected to be brought before the
-Gaziosmanpaşa prosecution on 15 November as the investigation continued. [@2,5,7,8,10]
+examination. [@1,4,5,6,7,8,11] The suspects were expected to be brought before the
+Gaziosmanpaşa prosecution on 15 November as the investigation continued. [@2,5,7,8,10,11]
