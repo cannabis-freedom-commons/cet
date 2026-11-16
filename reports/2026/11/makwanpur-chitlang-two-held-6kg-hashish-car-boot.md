@@ -61,6 +61,10 @@ sources:
     url: https://myrepublica.nagariknetwork.com/news/two-arrested-with-604-kg-of-hashish-in-chitlang-66-85.html
     publisher: MyRepublica
     date: 2026-11-16
+  - title: Two arrested with 6.04 kg of hashish in Chitlang | Hamro Patro
+    url: https://www.hamropatro.com/en/news/detail/1794807335275855029-two-arrested-with-6-04-kg-of-hashish-in-chitlang
+    publisher: Hamro Patro
+    date: 2026-11-16
 open_questions:
   - The weight is given as 6 kg in short accounts and as 6.04 kg, or 6 kg 40 grams, in fuller accounts; 6.04 kg is used.
   - The material was described as charas and as a substance suspected to be hashish, with no laboratory confirmation reported.
@@ -78,7 +82,7 @@ of Dhulikhel in Kavre, and 21-year-old Divyashree Kafle of Bharatpur in Chitwan.
 Officers found five packets of charas wrapped in white plastic and hidden among
 clothes inside a black luggage bag in the car's rear boot. [@2,5] The seized
 packets weighed 6.04 kilograms, reported in short accounts as 6 kg of charas, a
-cannabis resin commonly called hashish. [@3,5] The bundles weighed 6.14 kilograms with the plastic packaging before the 6.04-kilogram net weight. [@5] The white SUV, registration Ba Pra
+cannabis resin commonly called hashish. [@3,5,6] The bundles weighed 6.14 kilograms with the plastic packaging before the 6.04-kilogram net weight. [@5] The white SUV, registration Ba Pra
 01-035 Cha 4561, was travelling from Hetauda towards Kathmandu when it was
 stopped and checked. [@2,5] The vehicle was a white Omoda Jaecoo 6T SUV travelling towards Kathmandu via Gorkha, Sauraha in Chitwan and Hetauda. [@5]
 
