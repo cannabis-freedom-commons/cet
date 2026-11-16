@@ -37,6 +37,11 @@ media:
     media_url: https://kuwaitnews.com/wp-content/uploads/2026/11/moi-arrest4-1.jpg
     publisher: كويت نيوز
     caption: 'Photo of detainees published with the Interior Ministry statement on the 15 suspects and seized drugs. Photo: Kuwait News'
+  - kind: photo
+    url: https://www.manoramaonline.com/global-malayali/gulf/2026/11/16/kuwait-drug-bust-15-arrested-indian-mangaf-crystal-meth-heroin.amp.html
+    media_url: https://img-mm.manoramaonline.com/content/dam/mm/mo/archive/global-malayali/gulf/images/2026/11/16/kuwait-drug-bust-15-arrested-indian-mangaf-crystal-meth-heroin.jpg?w=575&h=299
+    publisher: Manorama Online
+    caption: 'Arrested suspects in the drug bust, in the picture released by the authorities. Photo: authorities via Manorama Online'
 status: verified
 created_by_model: muse/muse-ember-1.0#max
 submission: f8510f01c13f6f5356cfcd22c6be75fa
@@ -57,24 +62,29 @@ sources:
     publisher: جريدة الأنباء الكويتية
     date: 2026-11-15
     language: ar
+  - title: 'ഹെയർ ഓയിൽ കുപ്പികളിലെ ‘നിഗൂഢ രാസവസ്തു’: പ്രവാസി അറസ്റ്റിൽ, കർശന നടപടിക്ക് സാധ്യത - Crystal Meth Seizure | Mangaf Drug Case | Gulf News | Global Manorama | Manorama Online'
+    url: https://www.manoramaonline.com/global-malayali/gulf/2026/11/16/kuwait-drug-bust-15-arrested-indian-mangaf-crystal-meth-heroin.amp.html
+    publisher: Manorama Online
+    date: 2026-11-16
+    language: ml
 ---
 
 Kuwait's Interior Ministry, through its Criminal Security Sector, seized 15
 people in 12 separate cases involving possession of narcotics and psychotropic
-substances for trafficking and use. [@1,2,3] The ministry said the people and
+substances for trafficking and use. [@1,2,3,4] The ministry said the people and
 seizures were referred to the competent authority for action. [@1,2,3]
 
 The cannabis in the haul totalled 1.235 kilograms, comprising 1 kilogram of
-marijuana and 235 grams of hashish. [@1,2,3] Officers also seized 16 ampoules
+marijuana and 235 grams of hashish. [@1,2,3,4] Officers also seized 16 ampoules
 containing cannabis material, with no weight stated. [@1,2] The other seizures in
 the haul included 1.011 kilograms of shabu, crystal methamphetamine, 123 sheets
 soaked in chemical material and 10 hair-oil bottles containing chemical
-material. [@1] The haul further included four Lyrica capsules, one gram of
+material. [@1,4] The haul further included four Lyrica capsules, one gram of
 heroin, one gram of cocaine and nine precision scales. [@1]
 
 In one case, coordinated with the General Administration of Customs, officers
 seized an Asian national after he received a shipment of hair-oil bottles
 containing chemical material, which he admitted bringing for trafficking in
-coordination with a person abroad. [@1] The suspect seized after receiving the hair-oil shipment was of Bangladeshi nationality. [@3] The Ahmadi governorate security
+coordination with a person abroad. [@1,4] The suspect seized after receiving the hair-oil shipment was of Bangladeshi nationality. [@3] The Ahmadi governorate security
 directorate also referred an Asian national seized in Mangaf with heroin, shabu
-and a sum of money. [@1] The suspect referred by the Ahmadi directorate after seizure in Mangaf was of Indian nationality. [@3]
+and a sum of money. [@1,4] The suspect referred by the Ahmadi directorate after seizure in Mangaf was of Indian nationality. [@3,4]
