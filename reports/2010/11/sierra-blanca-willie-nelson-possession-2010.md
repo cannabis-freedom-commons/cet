@@ -41,8 +41,8 @@ data_sources:
 status: verified
 tags: [checkpoint, celebrity]
 open_questions:
-  - July 2011 reporting said the judge would not accept the June plea deal, so the final disposition is unclear in these sources.
-  - No other arrests in the stop are detailed in these sources.
+    - The plea agreement was reportedly rejected and the case reopened before the judge's 2012 retirement, with no final disposition reported as of 2022.
+    - No other arrests in the stop are detailed in these sources.
 media:
   - kind: photo
     url: https://www.thesmokinggun.com/buster/marijuana/willie-nelson-mug-shot?page=1
@@ -65,10 +65,15 @@ sources:
     url: https://theboot.com/willie-nelson-marijuana-arrest-plea-deal/
     archived: https://web.archive.org/web/20210309181457/https://theboot.com/willie-nelson-marijuana-arrest-plea-deal/
     date: 2011-06-08
+  - title: How Many Times Has Willie Nelson Been Arrested?
+    url: https://www.grunge.com/730450/how-many-times-has-willie-nelson-been-arrested/
+    publisher: Grunge
+    date: 2022-01-11
+    language: en
 ---
 
-Willie Nelson was arrested on the morning of 26 November 2010 after Border Patrol agents smelled marijuana wafting from his tour bus at the Sierra Blanca checkpoint in West Texas. [@2,3] Nelson, 77, claimed ownership of the six ounces found aboard the bus, which was en route to his home in Austin. [@1] He was booked into the Hudspeth County jail and freed after posting $2,500 bond, facing up to six months in jail on the possession charge. [@1]
+Willie Nelson was arrested on the morning of 26 November 2010 after Border Patrol agents smelled marijuana wafting from his tour bus at the Sierra Blanca checkpoint in West Texas. [@2,3] Nelson, 77, claimed ownership of the six ounces found aboard the bus, which was en route to his home in Austin. [@1,4] He was booked into the Hudspeth County jail and freed after posting $2,500 bond, facing up to six months in jail on the possession charge. [@1,4]
 
 ## A song in court, then a fine
 
-County Attorney Kit Bramblett, frustrated that the judge would not let Nelson plead by mail and appear in person instead, joked that Nelson could settle the case by singing Blue Eyes Crying in the Rain in court and paying a $100 fine. [@2] Judge Becky Dean-Walker later clarified the offer was a joke that got out of hand, while confirming Nelson could plead by mail. [@2] In June 2011 Nelson pleaded to a reduced charge of possession of drug paraphernalia with a $500 fine, which would drop from his record if he stayed out of trouble for 30 days. [@3] His lawyer said Nelson, who noted several people had access to the bus, was very happy the case settled without a court appearance. [@3]
+County Attorney Kit Bramblett, frustrated that the judge would not let Nelson plead by mail and appear in person instead, joked that Nelson could settle the case by singing Blue Eyes Crying in the Rain in court and paying a $100 fine. [@2] Judge Becky Dean-Walker later clarified the offer was a joke that got out of hand, while confirming Nelson could plead by mail. [@2] In June 2011 Nelson pleaded to a reduced charge of possession of drug paraphernalia with a $500 fine, which would drop from his record if he stayed out of trouble for 30 days. [@3,4] Judge Becky Dean-Walker later rejected Nelson's agreement with the prosecution and reopened the case before her retirement in 2012. [@4] The case was still described as open ten years later. [@4] His lawyer said Nelson, who noted several people had access to the bus, was very happy the case settled without a court appearance. [@3]
