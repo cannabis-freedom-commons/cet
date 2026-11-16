@@ -141,6 +141,10 @@ sources:
     publisher: Delfi
     date: 2026-11-15
     language: lt
+  - title: NDLEA Seizes 25kg of Meth Hidden in Cereal Packs, Arrests American Basketball Player Over Cannabis Shipment
+    url: https://www.nigeriainfo.fm/lagos/news/national/ndlea-seizes-25kg-of-meth-hidden-in-cereal-packs-arrests-american-basketball-player-over-cannabis-shipment/
+    publisher: Nigeria Info FM
+    date: 2026-11-15
 ---
 
 NDLEA operatives at Murtala Muhammed International Airport in Lagos intercepted
@@ -155,12 +159,12 @@ luggage at the same Lagos airport. [@2,9,25]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
-33.95 kilograms. [@1,3,6,7,10,12,13,14,16,17,18,20,21,22,23] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23]
+33.95 kilograms. [@1,3,6,7,10,12,13,14,16,17,18,20,21,22,23,26] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23,26]
 The agency describes Loud as a potent strain of cannabis. [@1,3,5,23,25]
 
 The suspect, a native of Savannah, Georgia, said he had lived in Thailand since
 October 2025 playing professional basketball and came to Nigeria on holiday to
 build networks for his basketball career. [@1,4,6,7,11,12,13,17,18,19,20,22,23] According to his BoldPro account, Khiree, a shooting guard, graduated from South Georgia Technical College, played semi-professional basketball with the Georgia Bombers, moved to El Salvador in 2025 for a pro contract with Escalon BC, and headed to Thailand shortly afterwards. [@10] FIBA lists a player by the name DaMonte Greene, a point guard, one of whose recent appearances was at the Phuket Elite Cup in September. [@5,8,21,24] A forensic examination of his
 mobile phone revealed information pointing to his knowledge of and involvement
-in the drug trafficking activity. [@1,3,4,5,7,8,11,12,13,15,16,17,18,19,20,21,22,23,24,25] The account was disclosed in a Sunday
+in the drug trafficking activity. [@1,3,4,5,7,8,11,12,13,15,16,17,18,19,20,21,22,23,24,25,26] The account was disclosed in a Sunday
 statement by NDLEA Director of Media and Advocacy Femi Babafemi. [@1,3,7,12,22]
