@@ -94,10 +94,15 @@ sources:
     publisher: Jornal A Gazeta
     date: 2026-11-16
     language: pt
+  - title: Motorista é preso na BR-280 com 180 kg de maconha que iriam para Joinville | Vídeo
+    url: https://ndmais.com.br/video/motorista-e-preso-na-br-280-com-180-kg-de-maconha-que-iriam-para-joinville/
+    publisher: ND Mais
+    date: 2026-11-16
+    language: pt
 open_questions:
-  - No exact time for the stop was reported beyond the morning of 16 November 2026.
-  - The origin of the marijuana load was not reported.
-  - No court outcome beyond the driver being taken to the police station to answer for drug trafficking was reported.
+    - No exact time for the stop was reported beyond the morning of 16 November 2026.
+    - No court outcome beyond the driver being taken to the police station to answer for drug trafficking was reported.
+    - Accounts give the seizure as 180 and 181 kilograms; the report uses 181 kilograms.
 ---
 
 Federal Highway Police officers were carrying out a routine inspection in front
@@ -105,12 +110,12 @@ of their Canoinhas operational unit when they signalled a car to stop. [@1,5] Th
 driver ignored the stop signal and fled along the highway, and the officers
 pursued and intercepted the car after seven kilometres. [@2,5] A 31-year-old man
 was arrested in flagrante on the morning of Monday 16 November 2026 while
-transporting 181 kilograms of marijuana on BR-280 in Canoinhas. [@1,4,5]
+transporting 181 kilograms of marijuana on BR-280 in Canoinhas. [@1,4,5,6]
 
 Officers searching the car found numerous marijuana tablets totalling 181
 kilograms, and seized two mobile phones, one of which had been completely
 smashed moments before. [@2,4] The driver told police he would receive R$3,000 for
-carrying the load, which was bound for Joinville. [@2,4,5]
+carrying the load, which was bound for Joinville. [@2,4,5,6] The illicit load had come from Paraguay. [@6]
 
 The man was taken to the Canoinhas Civil Police station together with the
 vehicle and the seized material. [@1,4] He will answer for the crime of drug
