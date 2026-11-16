@@ -48,18 +48,22 @@ sources:
     url: https://www.sentinelassam.com/breakingnews/tripura-police-destroy-45000-cannabis-plants-across-eight-acres
     publisher: The Sentinel
     date: 2026-11-16
+  - title: 45,000 cannabis plants destroyed in Mohanpur
+    url: https://tripurachronicle.in/local-news/45000-cannabis-plants-destroyed-in-mohanpur/
+    publisher: Tripura Chronicle
+    date: 2026-11-16
 ---
 
 The joint force destroyed approximately 45,000 illegally cultivated cannabis
 plants spread across nearly eight acres of land in West Tripura district on
-November 16. [@1,2,3,6] The joint operation was carried out in the Taranagar-Noagaon
-area under Shidhai Police Station between 4 am and 7 am on November 16. [@1,2,4,5,6] The
+November 16. [@1,2,3,6,7] The joint operation was carried out in the Taranagar-Noagaon
+area under Shidhai Police Station between 4 am and 7 am on November 16. [@1,2,4,5,6,7] The
 drive was led by Mohanpur Sub-Divisional Police Officer Ashish Dasgupta, with
 personnel from Shidhai Police Station, TSR and the BSF's 140th Battalion taking
-part. [@1,3,6]
+part. [@1,3,6,7]
 
 Security personnel identified and uprooted illegally cultivated cannabis plants
-at 17 different locations across the area. [@1,2,4,6] The destroyed plants were
+at 17 different locations across the area. [@1,2,4,6,7] The destroyed plants were
 estimated to number around 45,000. [@1,6] The operation was part of efforts by the
 state police and security forces to curb illegal cannabis cultivation in
 Tripura. [@1,6]
