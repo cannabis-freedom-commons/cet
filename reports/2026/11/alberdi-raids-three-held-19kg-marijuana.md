@@ -50,20 +50,29 @@ sources:
     publisher: Monterizos
     date: 2026-11-16
     language: es
+  - title: Desarticulan cuatro puntos de venta de drogas en Alberdi y aprehenden a tres personas - Comunicación Tucumán
+    url: https://www.comunicaciontucuman.gob.ar/noticia/seguridad/244312/desarticulan-cuatro-puntos-venta-drogas-alberdi-aprehenden-tres-personas
+    publisher: Comunicación Tucumán
+    date: 2026-11-16
+    language: es
 open_questions:
   - No separate date for the raids was published; 16 November 2026, the publication date of both accounts, stands in for the incident date.
   - The marijuana was reported as such without any laboratory confirmation stated.
   - No quantity was given for the seeds or leftover substance, and no amount was given for the cash seized.
   - The three apprehended people were not named, and no charges, pleas or court outcome were reported.
   - Both accounts reproduce the same police information, so they are not independent of the police account.
+  - Accounts differ on the marijuana weight, giving around 1,800 grams and about 1.9 kilograms.
+  - Accounts differ on the number of motorcycles seized, giving two and one.
+  - The raids were described as carried out on a Sunday, while 16 November 2026 is the publication date standing in for the incident date.
+  - It is not known whether the fourth person sought was later captured.
 ---
 
 Tucuman police, through the Dangerous Drugs directorate, raided homes across
-Juan Bautista Alberdi in a suspected drug-dealing investigation. [@1] Three
-young people were apprehended as a result of the procedures. [@1] The three
+Juan Bautista Alberdi in a suspected drug-dealing investigation. [@1,3] The Alberdi unit acted jointly with the Sur, Oeste, Bella Vista and Capital Dangerous Drugs directorates at homes in barrio 90 Viviendas, calle Maranon al 400 and near Lidoro Quinteros and Lucas Cordoba streets. [@3] Three
+young people were apprehended as a result of the procedures. [@1,3] Officers were still seeking a fourth person involved in the case. [@3] The three
 remained at the disposal of the justice system while the case proceeds. [@2]
 
-Officers seized about 1.9 kilograms of marijuana in packets and wrappers. [@1]
+Officers seized about 1.9 kilograms of marijuana in packets and wrappers. [@1,3]
 They also seized seeds, leftover substance, precision scales, plastic cuttings
 and other items used for portioning. [@1] Officers also seized cash, several
 cell phones, a 110 cc Honda Wave motorcycle, surveillance and filming cameras,
@@ -71,4 +80,3 @@ and a firearm. [@1]
 
 One of the raids took place at a hamburger shop on Lidoro Quinteros street in
 Alberdi. [@1]
-
