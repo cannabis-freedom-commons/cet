@@ -60,6 +60,11 @@ sources:
     publisher: Agenda Salta
     date: 2026-11-14
     language: es
+  - title: Secuestraron alrededor de 700 dosis de marihuana durante un operativo en el Valle de Lerma
+    url: https://fm899.com.ar/secuestraron-alrededor-de-700-dosis-de-marihuana-durante-un-operativo-en-el-valle-de-lerma/
+    publisher: Radio Profesional 89.9
+    date: 2026-11-14
+    language: es
 open_questions:
     - HolaSalta Noticias and Agenda Salta date the patrol to 12 November 2026, while Cadena 365 says it took place on Friday, 13 November; the report uses 12 November.
     - The combined dose count of pasta base and marijuana is given as around 700, with no separate figure for the marijuana, so no cannabis weight or count can be recorded.
@@ -71,11 +76,11 @@ open_questions:
 Officers of the División Investigación Narcocriminal Valle de Lerma conducted a
 preventive patrol on Provincial Route 21 near Cielos del Sur in Rosario de
 Lerma, Salta, and found five men beside a vehicle who appeared to be handling
-small packages. [@1,2] When the men noticed the police, four fled and a
-24-year-old man remained in the place. [@1]
+small packages. [@1,2,5] When the men noticed the police, four fled and a
+24-year-old man remained in the place. [@1,5]
 
 Police seized around 700 doses of pasta base and marijuana plus other items of
-evidentiary interest from the man. [@1,3]
+evidentiary interest from the man. [@1,3,5]
 
 By order of the acting prosecutor, the man was cited under the Narcotics Act
-23.737 and the substances were seized. [@1,2] The Unidad Fiscal de Flagrancia was led by prosecutor Magalí Bava. [@4]
+23.737 and the substances were seized. [@1,2,5] The Unidad Fiscal de Flagrancia was led by prosecutor Magalí Bava. [@4]
