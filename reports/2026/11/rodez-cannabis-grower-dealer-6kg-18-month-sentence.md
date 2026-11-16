@@ -74,6 +74,11 @@ sources:
     publisher: Centre Presse Aveyron
     date: 2026-11-16
     language: fr
+  - title: 'Grosse saisie de drogue : la gendarmerie peut dire merci à la "population" en Aveyron'
+    url: https://actu.fr/occitanie/espalion_12096/grosse-saisie-de-drogue-la-gendarmerie-peut-dire-merci-a-la-population-en-aveyron_65058470.html
+    publisher: actu.fr
+    date: 2026-11-16
+    language: fr
 open_questions:
   - No separate date for the arrest, seizure or hearing was given; 16 November 2026 is the article's publication date and stands in for the incident date.
   - The suspect was not named and no age or other identifying detail was published.
@@ -82,6 +87,9 @@ open_questions:
   - No plea, appeal or enforcement detail beyond the stated sentence was reported.
   - The whole account rests on one local outlet's report of a gendarmerie operation; no second independent account was found.
   - The new account describes the seizure as more than 6 kg of cannabis herb, while the report records 6 kg.
+  - This account calls the court the tribunal correctionnel de Rodez while the report calls it the tribunal judiciaire de Rodez.
+  - This account says six kilos while its own headline says more than 6 kilos; the report records 6 kg.
+  - No separate date for the seizure or hearing was given; 16 November 2026 is the publication date.
 ---
 
 In the rural outskirts of Rodez in Aveyron, gendarmes ended a cannabis
@@ -89,10 +97,10 @@ trafficking operation after investigations based on field intelligence,
 neighbour accounts and an enquiry. [@1,3] The operation was carried out at La Loubière by gendarmes of the Espalion company. [@2,4] A cannabis producer-seller was arrested
 and then sentenced to a prison term for the operation. [@1,3]
 
-The investigation uncovered a cannabis cultivation near the suspect's home. [@1,2,3,4]
-Officers seized a total of 6 kg of cannabis herb in the case. [@1,2,3,4]
+The investigation uncovered a cannabis cultivation near the suspect's home. [@1,2,3,4,5]
+Officers seized a total of 6 kg of cannabis herb in the case. [@1,2,3,4,5]
 
 The Rodez judicial court sentenced the defendant to 18 months' imprisonment,
-including 6 months to be served under an electronic bracelet. [@1,2,3,4] The sentence
+including 6 months to be served under an electronic bracelet. [@1,2,3,4,5] The sentence
 included work and treatment obligations. [@1,2,3,4] The court also ordered the
-confiscation of 13,325 euros. [@1,2,3,4]
+confiscation of 13,325 euros. [@1,2,3,4,5]
