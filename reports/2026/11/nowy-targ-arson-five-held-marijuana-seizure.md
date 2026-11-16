@@ -60,31 +60,30 @@ sources:
     publisher: Policja Małopolska
     date: 2026-11-16
     language: pl
-open_questions:
-  - The marijuana weight is stated only as more than 1,600 grams, so 1.6 kg is a minimum rather than an exact weight.
-  - The report does not say where the marijuana, plants and ammunition were found or in which of the three operations.
-  - No laboratory confirmation of the suspected marijuana is reported.
-  - No value estimate, plant size, or breakdown of the drugs and charges by suspect was published.
-  - No court outcome beyond the three-month temporary arrests was reported.
+  - title: W wakacje podpalili lokal w Nowym Targu. Wpadli. Okazało się, że posiadali także amunicję i narkotyki
+    url: https://gazetakrakowska.pl/w-wakacje-podpalili-lokal-w-nowym-targu-wpadli-okazalo-sie-ze-posiadali-takze-amunicje-i-narkotyki/ar/c1p2-29529103
+    publisher: Gazeta Krakowska
+    date: 2026-11-16
+    language: pl
 ---
 
 Criminal officers from the Nowy Targ district police, working with detectives
 from Kraśnik, detained five men during the investigation into the arson of
-premises holding illegal gambling machines. [@1,2] Four of those detained are
+premises holding illegal gambling machines. [@1,2,4] Four of those detained are
 suspected of a direct connection with that arson. [@1] The arson happened on 16
 July this year in Nowy Targ. [@1,3] All five detainees are residents of Kraśnik
 district and were detained in three operations. [@1]
 
 The first detention took place on 2 September and the next operations were
-carried out on 24 September and 4 November this year. [@1] During the operations
-officers secured more than 1,600 grams of marijuana. [@1,2] Officers also
+carried out on 24 September and 4 November this year. [@1,4] During the operations
+officers secured more than 1,600 grams of marijuana. [@1,2,4] Officers also
 eliminated the cultivation of eight non-fibre hemp bushes and revealed a place
-where drugs were produced. [@1,3] Officers additionally secured 11 pieces of
-firearm ammunition. [@1]
+where drugs were produced. [@1,3,4] Officers additionally secured 11 pieces of
+firearm ammunition. [@1,4]
 
 Investigators found the suspects were also linked to the arson of another
 premises with illegal gambling machines in Lublin voivodeship. [@1] The
 detainees were charged according to their established roles, including causing a
 fire, drug offences, breaching a court-ordered ban, illegal possession of
 ammunition and forgery of documents. [@1] Three of the suspects were placed in
-temporary arrest for three months. [@1,2]
+temporary arrest for three months. [@1,2,4]
