@@ -53,6 +53,10 @@ sources:
     url: https://fijisun.com.fj/news/nation/five-arrested-in-narain-jetty-drug-raid
     publisher: Fiji Sun
     date: 2026-11-16
+  - title: Five arrested in vessel drug bust
+    url: https://www.fbcnews.com.fj/news/nand-proposes-tax-on-foreign-workers-overseas-transfers/
+    publisher: FBC News
+    date: 2026-11-16
 open_questions:
   - No weight, parcel count or value was published for the seized dried leaves.
   - The material was described only as believed to be marijuana, with laboratory results pending.
@@ -61,17 +65,16 @@ open_questions:
 ---
 
 Police arrested five people at Narain Jetty in Suva early on the morning of 16
-November 2026 during a raid on an inter-island vessel. [@1] The operation was
+November 2026 during a raid on an inter-island vessel. [@1,4] The operation was
 carried out by the Totogo Operations team together with the Dog Unit and the
-Fiji Detector Dog Unit, which searched the vessel. [@1] All five suspects were
+Fiji Detector Dog Unit, which searched the vessel. [@1,4] All five suspects were
 escorted to Totogo Police Station, and investigations continued. [@1]
 
 Police say clear plastic bags containing dried leaves believed to be marijuana
-were discovered hidden inside a vehicle. [@2] A further search by K9 officers
+were discovered hidden inside a vehicle. [@2,4] A further search by K9 officers
 led to the five suspects allegedly being found in possession of substances
-believed to be marijuana. [@3] Officers searched the vessel itself before
+believed to be marijuana. [@3,4] Officers searched the vessel itself before
 finding the bags concealed in the vehicle. [@3]
 
-The seized substances were sent for analysis. [@1] Police asked members of the
+The seized substances were sent for analysis. [@1,4] Police asked members of the
 public to report crime or share information by calling 1681. [@1]
-
