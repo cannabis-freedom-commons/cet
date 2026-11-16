@@ -71,29 +71,28 @@ sources:
     publisher: Rai News
     date: 2026-11-16
     language: it
-open_questions:
-  - 'Cannabis weights are approximate as reported: over 23 kg of hashish and derivatives and about 4.8 kg of marijuana; the combined 27.8 kg is the sum of those stated figures.'
-  - The nearly one kilogram of cocaine found in the same car is excluded from the cannabis figures.
-  - The 200-euro cash figure comes only from Rai News; other outlets report an unspecified sum of cash.
-  - No name was published for the 29-year-old; he was described only as Italian and previously known to police.
+  - title: 'Fermato in auto con 29 chili di droga tra hashish, marijuana e cocaina: arrestato un 29enne a Mezzano - Ravenna Notizie'
+    url: https://www.ravennanotizie.it/2026/11/16/fermato-in-auto-con-29-chili-di-droga-tra-hashish-marijuana-e-cocaina-arrestato-un-29enne-a-mezzano/629287/
+    publisher: Ravenna Notizie
+    date: 2026-11-16
+    language: it
 ---
 
 Carabinieri of the Mezzano station arrested a 29-year-old Italian man on the
 evening of Friday 13 November along strada Reale on suspicion of possessing
-drugs for dealing. [@1] Officers had stopped his large car on strada Reale after
+drugs for dealing. [@1,5] Officers had stopped his large car on strada Reale after
 he was found driving without a licence or vehicle documents and appeared nervous
-about a bulky box on the back seats. [@2] Opening the door, officers smelled a
-strong odour of hashish and searched the car. [@1]
+about a bulky box on the back seats. [@2,5] Opening the door, officers smelled a
+strong odour of hashish and searched the car. [@1,5]
 
 Inside, officers found over 23 kilograms of hashish and derivatives in 328
 marked bars plus eight loose pieces and five electronic cigarettes containing
-marijuana active ingredients. [@2] They also found about 4.8 kilograms of
-marijuana buds vacuum-packed in thermal bags. [@2] Under the passenger seat they
+marijuana active ingredients. [@2,5] They also found about 4.8 kilograms of
+marijuana buds vacuum-packed in thermal bags. [@2,5] Under the passenger seat they
 found almost one kilogram of cocaine in four vacuum-sealed bags, which is
-excluded from the cannabis figures. [@3]
+excluded from the cannabis figures. [@3,5]
 
 Officers also seized the car used to transport the drugs, two mobile phones and
-cash. [@1] Rai News specified the seized cash as 200 euros. [@4] The 29-year-old
+cash. [@1,5] Rai News specified the seized cash as 200 euros. [@4] The 29-year-old
 was taken to Ravenna prison, where the judge confirmed the arrest and ordered
-pretrial custody in prison. [@1]
-
+pretrial custody in prison. [@1,5]
