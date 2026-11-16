@@ -50,6 +50,11 @@ sources:
     publisher: Dhaka Today
     date: 2026-11-16
     language: bn
+  - title: মাধবপুরে গাঁজার বড় চালান জব্দ, আটক ৩ | দৈনিক এদিন
+    url: https://dailyadin.com/country/30740
+    publisher: The Daily Adin
+    date: 2026-11-16
+    language: bn
 open_questions:
   - The two accounts give different operation times, about 2:30 at night in one and about 3:30 at night in the other.
   - 'The accounts differ on the detainees'' home villages: one places all three in Lohaid village while the other places Mohiuddin in Itakhola village of Noapara Union.'
@@ -57,14 +62,14 @@ open_questions:
 ---
 
 Police detained three men and recovered 60 kg of ganja from a silver private car
-in a late-night operation in Madhabpur, Habiganj. [@1] The operation took place
+in a late-night operation in Madhabpur, Habiganj. [@1,3] The operation took place
 at about 2:30 at night on 16 November at Telia Para Noahati Mor in the upazila.
-[@1]
+[@1,3]
 
 Acting on a secret tip-off, a Haraspur (Teliapara) police outpost team searched
 the suspect silver private car, recovered 60 kg of ganja from it and detained
-its three occupants. [@1] The detained men were identified as Mohiuddin (31),
-Ashikul Islam Apon (21) and Tamim Mia (19). [@1] The operation was led by SI
+its three occupants. [@1,3] The detained men were identified as Mohiuddin (31),
+Ashikul Islam Apon (21) and Tamim Mia (19). [@1,3] The operation was led by SI
 Jamal Mia, with ASI Nazim Uddin among the police team. [@1]
 
 The driver tried to flee when signalled to stop on the Shahpur road, and police
@@ -73,4 +78,3 @@ seized private car bore the registration number Dhaka Metro-Ga-13-2590. [@2]
 Madhabpur police station chief Md. Sohel Rana said a case was filed against them
 under the Narcotics Control Act and they were sent to jail through the court.
 [@2]
-
