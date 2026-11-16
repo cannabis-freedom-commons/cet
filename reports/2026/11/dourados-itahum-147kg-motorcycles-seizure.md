@@ -42,6 +42,11 @@ media:
     media_url: https://www.hojemais.com.br/imagem/noticia/1000/1000/1794835673_63448.jpeg
     publisher: Hojemais de Três Lagoas
     caption: 'DOF handout photo of the weekend seizures in Maracaju and Dourados. Photo: Divulgação'
+  - kind: photo
+    url: https://acritica.net/policia/motos-147kg-maconha-itahum/
+    media_url: https://uploads.acritica.net/2026/11/whatsapp-image-2026-11-16-at-091719.jpeg
+    publisher: A Crítica de Campo Grande
+    caption: 'DOF officers seized 147 kilograms of marijuana transported on two motorcycles in the rural zone of Itahum, in Dourados; the riders fled into a wooded area. Photo: Divulgação/DOF'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a0b28db391c46b49ca2603bb37f87e19
@@ -52,31 +57,35 @@ sources:
     publisher: Hojemais de Três Lagoas
     date: 2026-11-16
     language: pt
+  - title: DOF apreende 147 kg de maconha em motos em Dourados
+    url: https://acritica.net/policia/motos-147kg-maconha-itahum/
+    publisher: A Crítica de Campo Grande
+    date: 2026-11-16
+    language: pt
 open_questions:
-  - No suspects were identified or arrested; the riders fled and were not found.
-  - The substance was reported as maconha with no laboratory confirmation stated.
-  - The 147 kg figure is the reported seizure weight; no separate weighing detail was given.
-  - The R$530,000 combined loss cited for both weekend operations is excluded; only the R$330,000 attributed to the Dourados drug seizure is recorded.
-  - The Maracaju tyre and truck seizure is non-cannabis and excluded from the cannabis figures.
-  - Only a single outlet account of the DOF statement was opened; no separate agency statement was found.
+    - No suspects were identified or arrested; the riders fled and were not found.
+    - The substance was reported as maconha with no laboratory confirmation stated.
+    - The 147 kg figure is the reported seizure weight; no separate weighing detail was given.
+    - The R$530,000 combined loss cited for both weekend operations is excluded; only the R$330,000 attributed to the Dourados drug seizure is recorded.
+    - The Maracaju tyre and truck seizure is non-cannabis and excluded from the cannabis figures.
+    - Two outlet accounts (Hojemais and A Crítica) reproduce the same DOF statement; no separate agency statement was opened.
 ---
 
 A Department of Border Operations team seized 147 kilograms of maconha from two
 motorcycles in the rural zone of Itahum district in Dourados on Saturday 14
-November 2026. [@1] Officers patrolling a dirt road near the MS-270 spotted two
-motorcycles coming in the opposite direction. [@1] The riders abandoned the
-motorcycles and fled on foot into a wooded area when they saw the police. [@1]
-Despite searches in the area, the suspects were not found. [@1] The motorcycles,
+November 2026. [@1,2] Officers patrolling a dirt road near the MS-270 spotted two
+motorcycles coming in the opposite direction. [@1,2] The riders abandoned the
+motorcycles and fled on foot into a wooded area when they saw the police. [@1,2]
+Despite searches in the area, the suspects were not found. [@1,2] The motorcycles,
 a Honda NX-4 Falcon and a Honda CG 160 Fan, carried 78 tablets and five bales of
-maconha tied to the rear seats. [@1]
+maconha tied to the rear seats. [@1,2]
 
 Officers took the drugs and the two motorcycles to the Defron border-crimes
-station in Dourados. [@1] The DOF put the estimated loss to trafficking from
-this seizure at about R$330,000. [@1]
+station in Dourados. [@1,2] The DOF put the estimated loss to trafficking from
+this seizure at about R$330,000. [@1,2]
 
 The operation was part of Operation Protetor das Fronteiras e Divisas, a
 partnership between Mato Grosso do Sul's Sejusp and the federal Justice and
-Public Security Ministry. [@1] In a separate weekend operation in Maracaju,
+Public Security Ministry. [@1,2] In a separate weekend operation in Maracaju,
 officers found 66 foreign-origin tyres, 46 new and 18 used truck tyres plus two
 new pickup tyres. [@1]
-
