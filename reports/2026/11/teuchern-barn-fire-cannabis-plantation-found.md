@@ -56,6 +56,11 @@ sources:
     publisher: Polizei Sachsen-Anhalt
     date: 2026-11-16
     language: de
+  - title: Cannabisplantage bei Scheunenbrand entdeckt - WELT
+    url: https://www.welt.de/regionales/sachsen-anhalt/article6afb1356028f6e41ab3f12ff/cannabisplantage-bei-scheunenbrand-entdeckt.html
+    publisher: DIE WELT
+    date: 2026-11-16
+    language: de
 open_questions:
   - The exact number of plants was reported only as the low three-digit range, so no plant figure is recorded.
   - The buds were reported as a range of two to three kilograms; the figures use the lower bound of 2 kg.
@@ -66,15 +71,15 @@ open_questions:
 
 On Sunday evening, firefighters called to a barn fire in Teuchern in
 Burgenlandkreis discovered a cannabis grow operation in another part of the
-building while extinguishing the blaze. [@1,2] The barn was in Bonau, a district of Teuchern, and the fire started shortly after 21:30. [@2] The building's upper floor had
+building while extinguishing the blaze. [@1,2,3] The barn was in Bonau, a district of Teuchern, and the fire started shortly after 21:30. [@2] The building's upper floor had
 caught fire for a cause that was still unexplained. [@1] Two residents of
 neighbouring houses had to leave their homes. [@1] Twelve fire vehicles and 39
 firefighters deployed to put out the fire. [@1]
 
 Emergency crews then found the cultivation facility with differently sized
-plants in the low three-digit range. [@1] They also found two to three kilograms
-of packaged cannabis buds. [@1,2] Police put the fire damage at 30,000 euros. [@1]
+plants in the low three-digit range. [@1,3] They also found two to three kilograms
+of packaged cannabis buds. [@1,2,3] Police put the fire damage at 30,000 euros. [@1]
 
 According to police, products for landscaping and horticulture were stored in
 the barn. [@1] Investigations, including into the cause of the fire, were
-ongoing. [@1] Investigations into the cause of the fire and commercial cannabis cultivation were being conducted against unknown persons. [@2] The fire scene could not yet be fully examined because of the firefighting operation and a still-pending structural assessment by an expert. [@2]
+ongoing. [@1] Investigations into the cause of the fire and commercial cannabis cultivation were being conducted against unknown persons. [@2] The owner of the barn is known and the barn was partly rented out, according to a police spokesperson. [@3] The fire scene could not yet be fully examined because of the firefighting operation and a still-pending structural assessment by an expert. [@2,3]
