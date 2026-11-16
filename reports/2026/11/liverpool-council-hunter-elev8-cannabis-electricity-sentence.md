@@ -65,35 +65,35 @@ sources:
     url: https://britbrief.co.uk/crime/fraud/liverpool-council-worker-jailed-over-fake-permits.html
     publisher: Brit Brief
     date: 2026-11-11
-open_questions:
-  - No cannabis weight or plant count for this sentencing step was published; the 100 farms and £21 million describe the wider operation.
-  - The 10 November 2026 date comes from the 11 November reports stating the four men were jailed yesterday, Tuesday November 10.
-  - The eight men reported jailed last year in the same operation are background context and are not detailed in these reports.
+  - title: Haydock man jailed for supplying fake permits to cannabis farm gang | St Helens Star
+    url: https://www.sthelensstar.co.uk/news/26734706.haydock-man-jailed-supplying-fake-permits-cannabis-farm-gang/
+    publisher: St Helens Star
+    date: 2026-11-16
 ---
 
 Alan Hunter, 57, was a trusted street works manager at Liverpool city council
 where his job involved giving approval for roads and pavements to be dug up by
-utilities staff. [@1] Yesterday, Tuesday, November 10, the four men were jailed.
-[@2] He was on Tuesday jailed for three years after pleading guilty for
+utilities staff. [@1] The case formed part of Operation Spark, a police investigation into a nationwide cannabis-farming network that used the company Elev8 as a front. [@4] Yesterday, Tuesday, November 10, the four men were jailed.
+[@2,4] He was on Tuesday jailed for three years after pleading guilty for
 conspiracy to make items used in fraud, misconduct in a public office and use of
-criminal property. [@1] Luke Whenary, 35, of Inglby Grove, Stockton on Tees, was
+criminal property. [@1,4] He was arrested at his home on 29 April 2024. [@4] Luke Whenary, 35, of Inglby Grove, Stockton on Tees, was
 jailed for three years and four months after pleading guilty to conspiracy to
 abstract electricity and encouraging or assisting the commission of an offence
-believing it would be committed. [@2] Grant, of Norris Green, Liverpool, was
+believing it would be committed. [@2,4] Grant, of Norris Green, Liverpool, was
 jailed for three years and four months after pleading guilty to conspiracy to
 abstract electricity, encouraging or assisting the commission of an offence
-believing it would be committed, and conspiracy to steal. [@1] Shelbourne, of
+believing it would be committed, and conspiracy to steal. [@1,4] Shelbourne, of
 Anfield, Liverpool, was jailed for two years and three months after pleading
-guilty to conspiracy to abstract electricity. [@1]
+guilty to conspiracy to abstract electricity. [@1,4]
 
 Hunter was sending fake licences – known as Section 50 permits – to a member of
 the gang via WhatsApp in exchange for payment, helping high-viz-clad workmen
-operate without arousing suspicion. [@1] It meant passers-by were totally
+operate without arousing suspicion. [@1,4] Colin White, who had helped obtain equipment for the illegal activity, was sentenced to two years and five months in March 2025. [@4] Police identified Hunter after examining the phone of Colin White, another man jailed in March 2025 as part of Operation Spark. [@4] It meant passers-by were totally
 unaware that legitimate-looking roadworks were in fact being used to divert
 electricity from underground cables to nearby cannabis farms. [@1] Examination
 of his phone and financial records showed that between September 2021 and July
 2023 he received more than £20,000 in payments linked to the fraudulent permits,
-police said. [@1] As part of their investigation, officers established that Luke
+police said. [@1,4] In one conversation he wrote: “Hopefully I’ve covered my tracks good enough on that otherwise I’ll get sacked.” [@4] He talked in messages about using the money to buy a new kitchen and book another holiday. [@4] As part of their investigation, officers established that Luke
 Whenary, 35, was acting as a 'facilitator' between the drug gangs and the bogus
 contractors. [@1] Grant used his groundwork company to provide a legitimate
 front for excavation work required to illegally connect properties to
@@ -106,5 +106,4 @@ force areas and 100 cannabis farms. [@1] As well as being criminal, their
 actions – which investigators say helped produce at least £21million worth of
 drugs – were also highly dangerous. [@1] Detective Chief Inspector Kelly Wild,
 from NWROCU, said: 'These individuals played a significant role in supporting
-organised criminality. [@1]
-
+organised criminality. [@1] Andrew Lewis, chief executive of Liverpool City Council, called the case “a shameful breach of public trust”. [@4]
