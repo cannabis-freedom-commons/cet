@@ -69,6 +69,11 @@ media:
     media_url: https://www.andaluciainformacion.es/asset/thumbnail,1920,1080,center,center/media/andaluciainformacion/images/2026/11/12/2026111209032398858.jpg
     publisher: Andalucía Información
     caption: 'Marijuana seized from the grow operations in Barrio Archilla, Vícar, during Operation Corbite. Photo: Guardia Civil, published by Andalucía Información.'
+  - kind: photo
+    url: https://www.lavozdealmeria.com/galerias/703648/voz-acompana-guardia-civil-operacion-narcotrafico-barrio-archilla-vicar.html
+    media_url: https://imagenes.lavozdealmeria.com/files/image_composite_desktop_xl/uploads/2026/11/13/6af6e56f21f80.jpeg
+    publisher: La Voz de Almería
+    caption: 'Guardia Civil operation in Barrio Archilla, Vicar, in La Voz de Almeria''s gallery of the 4 November raid. Photo: La Voz de Almeria'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d9a6ad539c4096c15d08cd9c3ba584f1
@@ -99,12 +104,11 @@ sources:
     publisher: Andalucía Información
     date: 2026-11-12
     language: es
-open_questions:
-    - 'Sources differ on the number of detainees: the Guardia Civil''s official count is eleven, while earlier reports said at least twelve, including five arrested in El Ejido.'
-    - 'Sources differ on the number of homes searched: the official count is 14, while earlier reports said up to ten or more than ten.'
-    - No names or ages of the detainees were published.
-    - The competent court and the released detainees' legal situation, including any precautionary measures, were not reported.
-    - Whether the seized plants and buds were destroyed or retained as evidence was not reported.
+  - title: LA VOZ acompaña a la Guardia Civil en la operación contra el narcotráfico en el Barrio Archilla de Vícar
+    url: https://www.lavozdealmeria.com/galerias/703648/voz-acompana-guardia-civil-operacion-narcotrafico-barrio-archilla-vicar.html
+    publisher: La Voz de Almería
+    date: 2026-11-14
+    language: es
 ---
 
 The Guardia Civil arrested at least twelve people on suspicion of growing and
@@ -112,13 +116,13 @@ distributing marijuana in Vícar and El Ejido. [@1] The Guardia Civil named the 
 arrested in El Ejido and the rest were linked to the searches in Vícar. [@1] The
 operation began before dawn on Wednesday 4 November 2026 and ran through the
 morning, with dozens of officers deployed at points across El Ejido and Vícar.
-[@1] The investigation began months earlier after shootings in Archilla, including detonations in the street, bullet impacts on homes and clashes between rival groups allegedly linked to drug trafficking. [@3] Officers carried out up to ten entries and house searches in El Ejido and
-Vícar, several of them in Barrio Archilla in Vícar. [@1] The Guardia Civil put the final number of house searches at 14, all carried out on 4 November, with about 150 officers deployed. [@3]
+[@1] The investigation began months earlier after shootings in Archilla, including detonations in the street, bullet impacts on homes and clashes between rival groups allegedly linked to drug trafficking. [@3,6] Officers carried out up to ten entries and house searches in El Ejido and
+Vícar, several of them in Barrio Archilla in Vícar. [@1] The Guardia Civil put the final number of house searches at 14, all carried out on 4 November, with about 150 officers deployed. [@3,6]
 
 The searches targeted homes used for growing and trafficking drugs, and officers
 seized marijuana and various amounts of cash. [@1] Officers seized 4,229 marijuana plants and plant units and 2,965 kilograms of buds, along with machinery for intensive indoor cultivation. [@3] La Voz de Almería reported
 that the plants taken formed part of an indoor growing network in duplex homes
-in Barrio Archilla. [@2] Officers found the plantations were supplied through fraudulent connections to the electricity grid. [@3] Officers also seized firearms with ammunition ready for
+in Barrio Archilla. [@2,6] Officers found a handwritten note with day-by-day instructions for growing the marijuana. [@6] One of the searched duplexes was used exclusively for drying marijuana buds. [@6] Officers found the plantations were supplied through fraudulent connections to the electricity grid. [@3] Endesa employees worked during the operation against illegal connections to the electricity supply. [@6] Officers also seized firearms with ammunition ready for
 use and several thousand euros in cash, and the detainees were all Spanish
 nationals, according to La Voz de Almería. [@2] The Guardia Civil also seized 10,510 euros in cash, jewellery, watches, 139 lottery tickets and a van. [@3] The searches also turned up four short firearms, a knuckleduster and 136 cartridges, 74 of them blanks. [@3]
 
