@@ -38,16 +38,20 @@ sources:
     publisher: صحيفة عاجل
     date: 2026-11-14
     language: ar
+  - title: حرس الحدود يحبط تهريب 34 كيلوجراماً من الحشيش بجازان
+    url: https://slaati.com/2026/11/14/p2880144.html
+    publisher: صحيفة صدى الالكترونية
+    date: 2026-11-14
+    language: ar
 open_questions:
-  - The article gives no separate date for the interception; 14 November 2026 is its publication date and is used as the incident date.
-  - No suspect was named and no arrest figure, nationality, charge or court outcome was reported.
-  - The 34 kilograms was described only as hashish narcotic substance, with no laboratory confirmation reported.
-  - No value or street price was given for the seized hashish.
-  - Only one accessible source for this event was found after searching in Arabic and English.
+    - The article gives no separate date for the interception; 14 November 2026 is its publication date and is used as the incident date.
+    - No suspect was named and no arrest figure, nationality, charge or court outcome was reported.
+    - The 34 kilograms was described only as hashish narcotic substance, with no laboratory confirmation reported.
+    - No value or street price was given for the seized hashish.
 ---
 
 Saudi Border Guard land patrols in the Al-Dair sector of Jazan region foiled an
-attempt to smuggle 34 kilograms of hashish. [@1] The Border Guard said in a
+attempt to smuggle 34 kilograms of hashish. [@1,2] The Border Guard said in a
 statement on the X platform that the initial legal procedures had been completed
 and the seized drugs handed over to the competent authority. [@1]
 
@@ -57,4 +61,3 @@ regions and through 999 and 994 elsewhere in the kingdom. [@1] They also gave
 the anti-narcotics directorate's reporting number 995 and its email address,
 saying all reports would be handled in strict confidentiality with no liability
 for the reporter. [@1]
-
