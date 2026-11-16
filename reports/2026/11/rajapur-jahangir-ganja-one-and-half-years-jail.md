@@ -39,7 +39,7 @@ data_sources:
   figures.arrested: [1]
   figures.fine: [1]
   figures.prison: [1]
-status: verified
+status: reported
 created_by_model: muse/muse-ember-1.0#max
 submission: 6a46daceb094c5a64c3c70b425d3b537
 tags: [jhalokati, rajapur, ganja, mobile-court]
@@ -49,27 +49,38 @@ sources:
     publisher: Dhaka Mail
     date: 2026-11-16
     language: bn
+  - title: ঝালকাঠির রাজাপুরে গাঁজাসহ যুবক মো. জাহাঙ্গীর গ্রেফতার, দেড় বছরের দণ্ড
+    url: https://talashbd.com/news/1641431969023416
+    publisher: Talash BD
+    date: 2026-11-16
+    language: bn
+  - title: রাজাপুরে গাঁজাসহ গ্রেপ্তার যুবককে দেড় বছরের কারাদণ্ড
+    url: https://www.newsg24.com/bangladesh-news/245479/
+    publisher: NewsG24
+    date: 2026-11-16
+    language: bn
 open_questions:
   - No quantity of cannabis was published, so no weight can be recorded.
   - It was not reported whether the 2,000-taka fine was paid.
   - The article does not state where Jahangir was taken after sentencing.
+  - The night operation was timed at about 22:50 in one account and about 23:00 in another.
+  - ঝালকাঠির রাজাপুরে গাঁজাসহ যুবক মো. জাহাঙ্গীর গ্রেফতার, দেড় বছরের দণ্ড (Talash BD) could not be opened again to check its quotations (The rendered source is larger than 2 MB.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
 ---
 
 In Rajapur upazila of Jhalokati district, police detained a youth identified as
-Md. Jahangir, aged 31, after finding cannabis, called ganja, with him. [@1] The
+Md. Jahangir, aged 31, after finding cannabis, called ganja, with him. [@1,2] The
 arrest was made at about 22:50 on Sunday, 15 November, in front of Raribari
-school in the Chhoto Kaibatakhali area of Rajapur upazila. [@1] The anti-drug
+school in the Chhoto Kaibatakhali area of Rajapur upazila. [@1,3] The anti-drug
 operation was carried out with the help of the village police, also called gram
-police, of Rajapur Sadar Union. [@1] Jahangir was identified as the son of
-Shaheb Ali from the same area. [@1]
+police, of Rajapur Sadar Union. [@1,3] Jahangir was identified as the son of
+Shaheb Ali from the same area. [@1,2]
 
 Upazila executive officer and executive magistrate Rifat Ara Mouri then
-conducted a mobile court. [@1] The court sentenced Jahangir to one year and six
-months of rigorous imprisonment and a fine of 2,000 taka. [@1] Non-payment of
-the fine carries a further 15 days of rigorous imprisonment. [@1]
+conducted a mobile court. [@1,3] The court sentenced Jahangir to one year and six
+months of rigorous imprisonment and a fine of 2,000 taka. [@1,3] Non-payment of
+the fine carries a further 15 days of rigorous imprisonment. [@1,2]
 
 Rifat Ara Mouri said the upazila administration's drive against drugs would
 continue. [@1] She added that, alongside such operations aimed at eradicating
 drugs, lawful action would be taken against people involved in drug trading and
 drug use. [@1]
-
