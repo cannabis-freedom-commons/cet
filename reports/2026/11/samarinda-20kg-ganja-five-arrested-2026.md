@@ -48,6 +48,11 @@ media:
     media_url: https://asset.tribunnews.com/C74pvS4me3FsQ2kPze-qIq72bN0=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/kaltim/foto/bank/originals/20261113_Polisi-Bongkar-Jaringan-Narkoba-di-Samarinda-Sita-Barang-Bukti-Senilai-Rp18-Miliar.jpg
     publisher: Tribun Kaltim
     caption: 'Police display of the seized narcotics from the 5-6 November 2026 Samarinda operation. Photo: Gregorius Agung Salmon/Tribun Kaltim'
+  - kind: photo
+    url: https://mediaindonesia.com/nusantara/956216/polresta-samarinda-bongkar-jaringan-narkoba-rp18-miliar-modus-pakan-kucing
+    media_url: https://mediaindonesia.gumlet.io/news/2026/11/14/1794657368_3b4de72fc67f4310802c.jpeg?w=700&dpr=1
+    publisher: Media Indonesia
+    caption: 'Samarinda police chief Kombes Pol Eko Novan Prasetyo Puspito with officers showing the seized ganja and ecstasy evidence. Photo: Humas Polresta Samarinda'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e4e0c7a05ea4c1ced9c0e8862a0c6bbc
@@ -108,19 +113,27 @@ sources:
     publisher: Kompas.tv
     date: 2026-11-15
     language: id
+  - title: Polresta Samarinda Bongkar Jaringan Narkoba Rp1,8 Miliar Modus Pakan Kucing
+    url: https://mediaindonesia.com/nusantara/956216/polresta-samarinda-bongkar-jaringan-narkoba-rp18-miliar-modus-pakan-kucing
+    publisher: Media Indonesia
+    date: 2026-11-14
+    language: id
+open_questions:
+  - The evidence sentence combines the words for sabu and dried ganja around a single 19,468-gram figure, so the precise cannabis weight in this account is unclear.
+  - One arrest street is spelled Jalan Sungai Kasih in one account and Jalan Sungai Kapih in another, so the correct street name is unclear.
 ---
 
 Samarinda police narcotics unit arrested five suspects in a series of raids on 5
-and 6 November 2026 at multiple locations in Samarinda, East Kalimantan. [@1,2,3,4,5,8,10,11]
+and 6 November 2026 at multiple locations in Samarinda, East Kalimantan. [@1,2,3,4,5,8,10,11,12]
 Police seized 20 kilograms of cannabis (ganja), 19.99 grams of ecstasy, 15
 packets of synthetic tobacco and 20 pills of etomidate from the five suspects.
-[@1,2,3,5,11] The chili powder was added to fool officers and sniffer dogs. [@3,4,7,11] The network used a goods-delivery service, hiding narcotics in cat-food packaging dusted with chili powder. [@3,5,7] From FB officers seized 22.1 grams of cannabis and 15.37 grams of synthetic tobacco. [@3,5,7] At the second location officers seized 40 packs of cannabis totalling 19.192 kilograms disguised in cat-food packaging. [@3,5,6,11]
+[@1,2,3,5,11] The chili powder was added to fool officers and sniffer dogs. [@3,4,7,11] The network used a goods-delivery service, hiding narcotics in cat-food packaging dusted with chili powder. [@3,5,7,12] From FB officers seized 22.1 grams of cannabis and 15.37 grams of synthetic tobacco. [@3,5,7] At the second location officers seized 40 packs of cannabis totalling 19.192 kilograms disguised in cat-food packaging. [@3,5,6,11]
 
 The operations began on Thursday 5 November 2026 at around 20:00 WITA with the
 seizure of ecstasy, followed by the cannabis seizure the next day. [@1] The third raid detained FB alias E on Jalan MT Haryono in Samarinda the same evening at about 23.00 WITA. [@3] The second raid detained RP, MA and JF on Jalan Pangeran Suryanata in Samarinda on 6 November 2026 at about 21.00 WITA. [@3,6] From MH officers seized a car, cat-food packaging, 1,999 ecstasy pills, 20 etomidate cartridges and 253.75 grams net of cannabis. [@3,5,7] The first raid detained MH on Jalan Sungai Kapih in Samarinda on 6 November 2026 at about 20.00 WITA. [@3] A search of his house on Jalan KH Wahid Hasyim found four packs of ecstasy totalling 1,999 pills with a net weight of 934.50 grams. [@4] Hanif was using an online taxi when detained. [@4] The first suspect was identified as 25-year-old MHF alias Hanif, detained on Jalan Sungai Kapih. [@4]
 
 All five suspects were brought to the Samapolresta audit hall for ongoing
-interrogation and further network development. [@1,11] Investigators were still tracing assets and money flows and hunting fugitive controller AR alias RR. [@3,5,8] The cannabis was suspected to have been prepared as stock for circulation ahead of New Year 2027. [@6,7,8,9,10] The three suspects were in a four-member WhatsApp group including fugitive AR alias RR, and police found the parcel delivery receipt on a suspect's phone. [@6] Police put the total sale value at Rp1,858,430,000 and said the seizure could save about 6,000 people in Samarinda from drug abuse. [@3,5] Police traced the narcotics to northern Sumatra, sent under an anonymous sender name to a fictitious address pointing to a Samarinda pet shop. [@3,4,5,6,7,9,10] Samarinda police
+interrogation and further network development. [@1,11] Investigators were still tracing assets and money flows and hunting fugitive controller AR alias RR. [@3,5,8,12] The cannabis was suspected to have been prepared as stock for circulation ahead of New Year 2027. [@6,7,8,9,10,12] The three suspects were in a four-member WhatsApp group including fugitive AR alias RR, and police found the parcel delivery receipt on a suspect's phone. [@6] Police put the total sale value at Rp1,858,430,000 and said the seizure could save about 6,000 people in Samarinda from drug abuse. [@3,5,12] Police traced the narcotics to northern Sumatra, sent under an anonymous sender name to a fictitious address pointing to a Samarinda pet shop. [@3,4,5,6,7,9,10] Samarinda police
 spokesperson Ipda Arie Soeharyadi confirmed that the case would be formally
 presented at a press conference led by the chief of police on 13 November 2026.
 [@1] Kasat Resnarkoba Kompol Bangkit Dananjaya also attended the press conference. [@4] Kapolresta Samarinda Kombes Pol Eko Novan Prasetyo Puspito addressed the 13 November press conference in the Aula Rupatama of Polresta Samarinda. [@4] Police said the network was controlled by fugitive AR alias RR and had three operational legs in Samarinda. [@3,5,6] RP and MA were tasked with monitoring the parcel's arrival, ensuring security and finding a Maxim driver to carry it to JF, while JF acted as temporary storage before distribution on the controller's orders. [@6]
