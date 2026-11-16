@@ -67,6 +67,10 @@ sources:
     url: https://www.sabcnews.com/sabcnews/r1-5m-dagga-seized-one-arrested-in-westville/
     publisher: SABC News
     date: 2026-11-15
+  - title: Man arrested after R1.5m dagga seizure in Westville
+    url: https://www.msn.com/en-za/news/other/man-arrested-after-r15m-dagga-seizure-in-westville/ar-AA2hvM8i
+    publisher: Daily News via MSN
+    date: 2026-11-16
 open_questions:
   - The 320kg and R1.5 million are police estimates reported as approximate, with no measured weight or valuation method given.
   - Police had not disclosed where the cannabis was being transported from or where it was allegedly destined.
@@ -76,17 +80,17 @@ open_questions:
 
 A 32-year-old man was arrested after police seized approximately 320kg of dagga
 with an estimated street value of R1.5 million following a chase in Westville.
-[@1] The cannabis was confiscated in a multidisciplinary operation involving the
-Durban Flying Squad, Durban Metro Police and a private security company. [@1]
-The 32-year-old man was subsequently charged with dealing in dagga. [@1,3] The
+[@1,4] The cannabis was confiscated in a multidisciplinary operation involving the
+Durban Flying Squad, Durban Metro Police and a private security company. [@1,4]
+The 32-year-old man was subsequently charged with dealing in dagga. [@1,3,4] The
 suspect is expected to appear in the Durban Magistrates' Court on Monday,
-November 16. [@1,3]
+November 16. [@1,3,4]
 
 KwaZulu-Natal police said officers had received intelligence about a large
 consignment of dagga being transported along the N2 from north of Durban. [@1,3]
-Police tracked the vehicle along the N2 before it turned onto the M19. [@1,3] The
+Police tracked the vehicle along the N2 before it turned onto the M19. [@1,3,4] The
 driver brought the vehicle to a stop, abandoned it and fled on foot into nearby
-bushes. [@1] An extensive search operation led to the suspect's arrest. [@1,3]
+bushes. [@1,4] An extensive search operation led to the suspect's arrest. [@1,3]
 
 Police had not disclosed where the cannabis was allegedly destined for or where
 it was being transported from. [@1] A second report confirms the same Westville
