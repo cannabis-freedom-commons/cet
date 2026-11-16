@@ -77,11 +77,16 @@ sources:
     publisher: Folha Vitória
     date: 2026-11-16
     language: pt
+  - title: Polícia encontra plantação de maconha em Aracruz
+    url: https://g1.globo.com/es/espirito-santo/videos-es1-regional/video/policia-encontra-plantacao-de-maconha-em-aracruz-15191994.ghtml
+    publisher: G1
+    date: 2026-11-16
+    language: pt
 ---
 
 Military police officers uncovered a clandestine structure for growing cannabis
 inside a home in Praia Formosa, on the coast of Aracruz in northern Espírito
-Santo. [@1,3] The find came during a motorized tactical patrol by approach teams
+Santo. [@1,3,4] The find came during a motorized tactical patrol by approach teams
 of the 3rd Company of the 5th Military Police Battalion. [@1] Officers said they
 had received information about possible drug sales at a property on Rua Jerônimo
 Pancieri. [@1] After checks, the team approached an individual matching the
