@@ -72,15 +72,20 @@ sources:
     publisher: Aljarida
     date: 2026-11-15
     language: ar
+  - title: '«الأمن الجنائي»: ضبط 15 متهماً في 12 قضية مخدرات ومؤثرات عقلية ...الكويت'
+    url: https://arabic.pressbee.net/show11121265.html?title=%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A-%D8%B6%D8%A8%D8%B7-15-%D9%85%D8%AA%D9%87%D9%85%D8%A7-%D9%81%D9%8A-12-%D9%82%D8%B6%D9%8A%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D9%85%D8%A4%D8%AB%D8%B1%D8%A7%D8%AA-%D8%B9%D9%82%D9%84%D9%8A%D8%A9
+    publisher: Pressbee
+    date: 2026-11-15
+    language: ar
 ---
 
 Kuwait's Interior Ministry, through its Criminal Security Sector, seized 15
 people in 12 separate cases involving possession of narcotics and psychotropic
-substances for trafficking and use. [@1,2,3,4,5] The ministry said the people and
-seizures were referred to the competent authority for action. [@1,2,3,5]
+substances for trafficking and use. [@1,2,3,4,5,6] The ministry said the people and
+seizures were referred to the competent authority for action. [@1,2,3,5,6]
 
 The cannabis in the haul totalled 1.235 kilograms, comprising 1 kilogram of
-marijuana and 235 grams of hashish. [@1,2,3,4,5] Officers also seized 16 ampoules
+marijuana and 235 grams of hashish. [@1,2,3,4,5,6] Officers also seized 16 ampoules
 containing cannabis material, with no weight stated. [@1,2,5] The other seizures in
 the haul included 1.011 kilograms of shabu, crystal methamphetamine, 123 sheets
 soaked in chemical material and 10 hair-oil bottles containing chemical
