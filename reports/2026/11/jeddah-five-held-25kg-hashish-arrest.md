@@ -63,6 +63,11 @@ sources:
     publisher: خليج نيوز
     date: 2026-11-16
     language: ar
+  - title: القبض على (5) أشخاص بجدة لترويجهم مادتي الحشيش والإمفيتامين المخدرتين
+    url: https://www.al-madina.com/ampArticle/1013486
+    publisher: جريدة المدينة
+    date: 2026-11-16
+    language: ar
 open_questions:
   - No separate date for the arrests was published, so 16 November 2026, the publication date, stands in for the incident date.
   - Only the resident is explicitly identified as Ethiopian; the nationalities of the four border-security violators were not stated.
@@ -74,11 +79,11 @@ open_questions:
 
 Saudi Arabia's General Directorate of Narcotics Control arrested four violators
 of the border security law and a resident of Ethiopian nationality in Jeddah
-governorate. [@1,3,4,5] The directorate accused the five of promoting amphetamine and
-25 kilograms of hashish. [@1,3,4,5]
+governorate. [@1,3,4,5,6] The directorate accused the five of promoting amphetamine and
+25 kilograms of hashish. [@1,3,4,5,6]
 
 The suspects were stopped, the regulatory procedures were completed against
-them, and they were referred to the Public Prosecution. [@1,3] A second account
+them, and they were referred to the Public Prosecution. [@1,3,6] A second account
 gives the same Jeddah figures of four border-security violators and an Ethiopian
 resident held over amphetamine and 25 kilograms of hashish. [@2]
 
