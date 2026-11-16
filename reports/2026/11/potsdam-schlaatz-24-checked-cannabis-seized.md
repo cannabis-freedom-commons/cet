@@ -38,27 +38,27 @@ sources:
     publisher: Tagesspiegel
     date: 2026-11-16
     language: de
-open_questions:
-  - No weight was given for the small amount of cannabis, so no cannabis quantity is recorded.
-  - No arrest, charge or court outcome was reported for the 14-year-old.
-  - The exact day of the checks within the weekend was not stated; 15 November 2026 is used as an approximate incident date.
+  - title: Polizei kontrolliert verstärkt Jugendliche in Potsdam
+    url: https://www.nordkurier.de/regional/brandenburg/polizei-kontrolliert-verstaerkt-jugendliche-in-potsdam-5015434
+    publisher: Nordkurier
+    date: 2026-11-16
+    language: de
 ---
 
 Police in Potsdam carried out a reinforced weekend operation against youth
-violence in which officers checked two dozen people. [@1] The preventive checks
+violence in which officers checked two dozen people. [@1,3] The preventive checks
 took place in the Schlaatz district and were aimed at combating youth and group
-crime. [@1] Officers carried out the 24 checks in the area between the
+crime. [@1,3] Officers carried out the 24 checks in the area between the
 Marktplatz, the Bürgerhaus and the Rewe supermarket, including juveniles already
 known to the police. [@2] The operation involved officers from the riot police,
 the service-dog unit, the district police and the patrol service of the Potsdam
-police inspectorate. [@1]
+police inspectorate. [@1,3]
 
-Officers found a cutter knife on a 15-year-old during the checks. [@1] A
+Officers found a cutter knife on a 15-year-old during the checks. [@1,3] A
 14-year-old was found carrying an e-cigarette and a small amount of cannabis.
-[@1] Police seized the knife, the e-cigarette and the cannabis. [@1]
+[@1,3] Police seized the knife, the e-cigarette and the cannabis. [@1,3]
 
 Police linked the increased presence to a rise in youth violence, noting that
 youth groups described as migrant-influenced had increasingly come to police
-attention since 2024. [@1] A spokeswoman for the West police directorate
-announced the results of the checks. [@1]
-
+attention since 2024. [@1,3] A spokeswoman for the West police directorate
+announced the results of the checks. [@1,3]
