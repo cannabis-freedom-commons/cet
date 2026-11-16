@@ -54,6 +54,11 @@ media:
     media_url: https://i0.wp.com/townpost.net/wp-content/uploads/2026/11/police-press-meet-ganja-smugglers-arrest-jamshedpur.webp?resize=1599%2C899&quality=82&ssl=1
     publisher: Town Post
     caption: Jamshedpur police brief the media on the arrest of two men with nearly 24 kg of ganja, with the hooded accused standing behind
+  - kind: photo
+    url: https://www.inextlive.com/jharkhand/jamshedpur/consignment-of-cannabis-being-sent-to-bihar-seized-two-smugglers-arrested-1794831963
+    media_url: https://img.inextlive.com/inext/16112026/bihar%20train.JPG
+    publisher: inextlive
+    caption: Police search near Dada Garage on NH-33 where 17 packets of ganja were recovered from three bags.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a0449881543a493d34792503643b8a3b
@@ -91,17 +96,15 @@ sources:
     url: https://theprint.in/india/two-arrested-with-24-kg-ganja-worth-rs-12-lakh-in-jamshedpur/3099005/
     publisher: ThePrint
     date: 2026-11-14
-open_questions:
-  - The Hindi reports give 23.940 kg while the PTI account rounds the seizure to 24 kg; the report uses the precise 23.940 kg figure.
-  - The two per-person weights of 15.450 kg and 8.497 kg add to 23.947 kg, 7 grams more than the reported total of 23.940 kg.
-  - The Hindi and Town Post accounts give Santosh Kumar's age as 20, while the PTI account gives his age as 30.
-  - The PTI account dates the raid to Friday and the remand to Saturday, so 13 November 2026 is used as the incident date; the Hindi reports give no separate raid date and were published on 14 November 2026.
-  - The precise spot is described as Dada Garage, and the PTI account adds Pardih within Azadnagar police station limits; the report combines these descriptions.
-  - No laboratory confirmation for the suspected ganja was reported.
+  - title: Consignment Of Cannabis Being Sent To Bihar Seized; Two Smugglers Arrested. - Jamshedpur News
+    url: https://www.inextlive.com/jharkhand/jamshedpur/consignment-of-cannabis-being-sent-to-bihar-seized-two-smugglers-arrested-1794831963
+    publisher: inextlive
+    date: 2026-11-16
+    language: hi
 ---
 
 Jamshedpur police arrested two men on ganja-smuggling charges in East Singhbhum,
-recovering 23.94 kg of ganja near Dada Garage on NH-33. [@2,5,6] The accused were
+recovering 23.94 kg of ganja near Dada Garage on NH-33. [@2,5,6,8] The accused were
 identified as 20-year-old Santosh Kumar alias Santosh Lodhi of Bagbera and
 37-year-old Putlu Bhumij of Makdumpur Road No. 2, Parsudih. [@3,5,6] Senior
 Superintendent of Police Dr Ehtesham Waqarib received information that smugglers
@@ -110,11 +113,11 @@ raiding team was formed under the Patamda DSP with guidance from City SP Lalit
 Meena. [@2,6]
 
 The team caught two suspects with three bags near Dada Garage, and found 17
-packets of ganja when the bags were searched. [@2,5,6] Police said the bags held 17
+packets of ganja when the bags were searched. [@2,5,6,8] Police said the bags held 17
 packets of ganja with a total weight of 23.940 kg and that the consignment was
-to be sent to Bihar. [@1,5] Santosh Kumar held 12 packets with 15.450 kg of ganja
+to be sent to Bihar. [@1,5,8] Santosh Kumar held 12 packets with 15.450 kg of ganja
 plus an Oppo Android phone and Rs 1,200 in cash, while Putlu Bhumij held five
-packets with 8.497 kg of ganja and Rs 1,000 in cash. [@1,5] Police seized a total
+packets with 8.497 kg of ganja and Rs 1,000 in cash. [@1,5,8] Police seized a total
 of 17 packets with 23.940 kg of ganja, one mobile phone and Rs 2,200 in cash
 from the two accused. [@1]
 
@@ -122,4 +125,4 @@ The team conducted the raid near Pardih on NH-33 within Azadnagar police station
 limits on Friday and recovered 24 kg of ganja packed in 17 packets. [@4,7] Police
 valued the 24 kg of ganja at around Rs 12 lakh. [@4,7] The accused were forwarded
 to judicial custody on Saturday after a case was registered under the NDPS Act.
-[@4] Police said they had registered primary cases against both accused and begun further legal action, with the investigation focused on tracing the source of the consignment and the trafficking network behind it. [@6]
+[@4] The case was registered as Azadnagar police station case number 89/2026. [@8] Police said they had registered primary cases against both accused and begun further legal action, with the investigation focused on tracing the source of the consignment and the trafficking network behind it. [@6,8]
