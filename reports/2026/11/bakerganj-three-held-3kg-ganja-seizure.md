@@ -49,30 +49,32 @@ sources:
     publisher: Daily Sokaler Somoy
     date: 2026-11-16
     language: bn
+  - title: বাকেরগঞ্জে এক কেজি করে গাঁজাসহ গ্রেপ্তার ৩, সাজাপ্রাপ্ত ২ আসামিও আটক
+    url: https://www.dhakatoday.com/news/94305/%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%B0%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%A9,-%E0%A6%B8%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%A4-%E0%A7%A8-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%93-%E0%A6%86%E0%A6%9F%E0%A6%95
+    publisher: Dhaka Today
+    date: 2026-11-16
+    language: bn
 open_questions:
-  - The report for the 15 November pair says one kilogram of ganja without making clear whether that is one kilogram each or one kilogram shared; the lead and headline describing one kilogram each and three kilograms in total are used.
-  - No laboratory confirmation, charge sections, seizure value or court outcome beyond one suspect being sent to court were reported.
-  - The whole account rests on a single opened outlet report attributing details to police; no second accessible outlet account was found.
+    - No laboratory confirmation, charge sections, seizure value or court outcome beyond one suspect being sent to court were reported.
 ---
 
 Bakerganj police arrested three people with one kilogram of ganja each in
 separate drives in Barishal's Bakerganj, seizing a reported total of three
-kilograms. [@1] On 14 November officers arrested 40-year-old Kamal Howlader in
+kilograms. [@1,2] On 14 November officers arrested 40-year-old Kamal Howlader in
 the Collegekathi area of Kalaskathi union with one kilogram of ganja, and he was
-later sent to court. [@1] On 15 November officers arrested Dipta Chanda, 25, and
-Sajid Abdullah Rafi, 24, in the Kalaskathi area with one kilogram of ganja. [@1]
+later sent to court. [@1,2] On 15 November officers arrested Dipta Chanda, 25, and
+Sajid Abdullah Rafi, 24, in the Kalaskathi area with one kilogram of ganja. [@1,2]
 Police identified Kamal as the son of late Ali Akbar Howlader of East Bagdia
 village, and the two younger men as sons of late Santu Chandra and late Ansar
 Ali Howlader. [@1]
 
 In the same roundup police arrested 38-year-old Salahuddin alias Saddam, a
 10-year sentenced accused in a Darus Salam police station case and sessions
-case, from Dhaka's Hatirjheel area. [@1] Officers also arrested 40-year-old
-Mozammel, a three-month sentenced accused in a family decree case. [@1] Police
+case, from Dhaka's Hatirjheel area. [@1,2] Officers also arrested 40-year-old
+Mozammel, a three-month sentenced accused in a family decree case. [@1,2] Police
 identified Salahuddin as the son of Rustam Ali of Ramnagar village in Niamati
 union, and Mozammel as the son of Abdus Salam of Baria village. [@1]
 
 Bakerganj police officer-in-charge Adil Hossain said five people were arrested
 in the separate drives and that necessary legal action was taken against them.
 [@1]
-
