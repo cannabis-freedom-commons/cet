@@ -50,6 +50,11 @@ sources:
     publisher: CataniaToday
     date: 2026-11-15
     language: it
+  - title: Catania, vede i poliziotti e lancia la droga dal balcone, arrestato 21enne – Etna News 24
+    url: https://etnanews24.it/catania-vede-i-poliziotti-e-lancia-la-droga-dal-balcone-arrestato-21enne/
+    publisher: Etna News 24
+    date: 2026-11-15
+    language: it
 open_questions:
   - No separate date for the arrest is given; 15 November 2026 is the article's publication date and is used as the incident date.
   - The drugs are reported as marijuana and hashish by police with no laboratory confirmation reported.
@@ -59,20 +64,19 @@ open_questions:
 ---
 
 A 21-year-old man from Catania was arrested by officers of the Catania police
-flying squad for possessing drugs with intent to deal. [@1] The episode took
+flying squad for possessing drugs with intent to deal. [@1,2] The episode took
 place in the Picanello neighbourhood during a targeted anti-drug-dealing
-operation. [@1] Seeing officers below his home, the young man tried to get rid
-of the drugs by throwing them from the balcony. [@1]
+operation. [@1,2] Seeing officers below his home, the young man tried to get rid
+of the drugs by throwing them from the balcony. [@1,2]
 
 He threw into the street a pouch containing 200 grams of marijuana and 25 grams
-of hashish, which officers recovered and seized. [@1] Officers then went up to
+of hashish, which officers recovered and seized. [@1,2] Officers then went up to
 the flat and searched every room, finding material for weighing and packaging
 doses. [@1] In a pot on the kitchen worktop they found two more packs of
-marijuana weighing 32 grams in total. [@1] In a storage closet they found a jar
+marijuana weighing 32 grams in total. [@1,2] In a storage closet they found a jar
 with 10 grams of marijuana and a baking-paper wrap with 1.2 grams of hashish.
 [@1] In the bedroom nightstand there were 350 euros in cash, considered proceeds
-of the dealing activity. [@1]
+of the dealing activity. [@1,2]
 
 On the orders of the duty prosecutor at the Catania court, the 21-year-old was
-placed under house arrest at his home to await a fast-track trial. [@1]
-
+placed under house arrest at his home to await a fast-track trial. [@1,2]
