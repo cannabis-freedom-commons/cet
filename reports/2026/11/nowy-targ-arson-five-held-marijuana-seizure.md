@@ -50,6 +50,16 @@ sources:
     publisher: Policja.pl
     date: 2026-11-16
     language: pl
+  - title: Pięciu zatrzymanych za podpalenie lokalu w Nowym Targu. Znaleźli marihunę i amunicję
+    url: https://tylkomalopolska.pl/pieciu-zatrzymanych-za-podpalenie-lokalu-w-nowym-targu-znalezli-marihune-i-amunicje
+    publisher: tylkoMałopolska
+    date: 2026-11-16
+    language: pl
+  - title: Pięciu zatrzymanych w sprawie podpalenia lokalu w Nowym Targu. Policjanci zabezpieczyli również narkotyki i amunicję
+    url: https://malopolska.policja.gov.pl/krk/aktualnosci/aktualnosci/77618,Pieciu-zatrzymanych-w-sprawie-podpalenia-lokalu-w-Nowym-Targu-Policjanci-zabezpi.html
+    publisher: Policja Małopolska
+    date: 2026-11-16
+    language: pl
 open_questions:
   - The marijuana weight is stated only as more than 1,600 grams, so 1.6 kg is a minimum rather than an exact weight.
   - The report does not say where the marijuana, plants and ammunition were found or in which of the three operations.
@@ -60,16 +70,16 @@ open_questions:
 
 Criminal officers from the Nowy Targ district police, working with detectives
 from Kraśnik, detained five men during the investigation into the arson of
-premises holding illegal gambling machines. [@1] Four of those detained are
+premises holding illegal gambling machines. [@1,2] Four of those detained are
 suspected of a direct connection with that arson. [@1] The arson happened on 16
-July this year in Nowy Targ. [@1] All five detainees are residents of Kraśnik
+July this year in Nowy Targ. [@1,3] All five detainees are residents of Kraśnik
 district and were detained in three operations. [@1]
 
 The first detention took place on 2 September and the next operations were
 carried out on 24 September and 4 November this year. [@1] During the operations
-officers secured more than 1,600 grams of marijuana. [@1] Officers also
+officers secured more than 1,600 grams of marijuana. [@1,2] Officers also
 eliminated the cultivation of eight non-fibre hemp bushes and revealed a place
-where drugs were produced. [@1] Officers additionally secured 11 pieces of
+where drugs were produced. [@1,3] Officers additionally secured 11 pieces of
 firearm ammunition. [@1]
 
 Investigators found the suspects were also linked to the arson of another
@@ -77,5 +87,4 @@ premises with illegal gambling machines in Lublin voivodeship. [@1] The
 detainees were charged according to their established roles, including causing a
 fire, drug offences, breaching a court-ordered ban, illegal possession of
 ammunition and forgery of documents. [@1] Three of the suspects were placed in
-temporary arrest for three months. [@1]
-
+temporary arrest for three months. [@1,2]
