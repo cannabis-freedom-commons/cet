@@ -52,6 +52,16 @@ sources:
     publisher: Kronen Zeitung
     date: 2026-11-16
     language: de
+  - title: Brite nach Cannabisfund am Flughafen Schwechat vorläufig festgenommen
+    url: https://nachrichten.jetzt/2026/11/brite-nach-cannabisfund-am-flughafen-schwechat-vorlaeufig-festgenommen/
+    publisher: Nachrichten.jetzt
+    date: 2026-11-16
+    language: de
+  - title: Verdacht des Suchtgifthandels – Festnahme am Flughafen Wien-Schwechat
+    url: https://www.polizei.gv.at/noe/presse/aussendungen/presseab45.html?prid=4c74745948734a347645343d&pro=0
+    publisher: Polizei Niederösterreich
+    date: 2026-11-16
+    language: de
 open_questions:
     - The cannabis was described without any reported laboratory confirmation.
     - No court outcome beyond detention in Korneuburg prison was reported.
@@ -60,11 +70,11 @@ open_questions:
 
 Police detained a 23-year-old British man at Vienna Airport in Schwechat after
 cannabis was found in his suitcase during weekend checks of transit baggage.
-[@1,2,3] He was taken to Korneuburg prison after denying an allegation of drug
-trafficking. [@1,2,3]
+[@1,2,3,4] Criminal investigators from the Schwechat city police command checked transit baggage from a Bangkok flight at Vienna Airport on 14 November 2026. [@4] He was taken to Korneuburg prison after denying an allegation of drug
+trafficking. [@1,2,3,5]
 
-The seizure totalled 16 kilograms of cannabis. [@1,2] The cannabis was packed in
-16 airtight packages. [@1,2,3]
+The seizure totalled 16 kilograms of cannabis. [@1,2,5] The cannabis was packed in
+16 airtight packages. [@1,2,3,5]
 
-The man had been travelling from Bangkok in Thailand to London. [@1,2,3] Police
+The man had been travelling from Bangkok in Thailand to London. [@1,2,3,5] Police
 announced the case on Monday in a dispatch. [@1,2,3]
