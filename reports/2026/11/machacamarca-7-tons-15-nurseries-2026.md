@@ -86,6 +86,11 @@ sources:
     publisher: La Razón
     date: 2026-11-15
     language: es
+  - title: La fuerza antidrogas de Bolivia incinera siete toneladas de marihuana en estado natural
+    url: https://www.abc.com.py/internacionales/2026/11/15/la-fuerza-antidrogas-de-bolivia-incinera-siete-toneladas-de-marihuana-en-estado-natural/
+    publisher: ABC Color
+    date: 2026-11-15
+    language: es
 open_questions:
   - No separate date for the operation was given; 15 November 2026 is the publication and police-report date and is used as the incident date.
   - No plant count was published, only the seven-ton weight and the 15 nursery sites.
@@ -97,10 +102,10 @@ open_questions:
 
 FELCN officers destroyed and incinerated seven tons of natural-state marijuana
 after intervening in 15 nursery sites in Machacamarca, in the municipality of
-Chayanta, Rafael Bustillo province, Potosí. [@1,5] The operation was carried out
+Chayanta, Rafael Bustillo province, Potosí. [@1,5,6] The operation was carried out
 under the order called Escudo Verde. [@1,5] The intervention targeted facilities
 used to grow marijuana. [@1] The anti-drug operation took place in the community
-of Machacamarca under the jurisdiction of the municipality of Chayanta. [@3,5] The
+of Machacamarca under the jurisdiction of the municipality of Chayanta. [@3,5,6] The
 order contemplated control actions in spaces used for planting marijuana,
 according to the FELCN report. [@2] Officers eliminated the seized crops by
 incineration, and the plants reached two metres in height. [@2]
