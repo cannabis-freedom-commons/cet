@@ -75,6 +75,11 @@ sources:
     publisher: Diario Oficial El Peruano
     date: 2026-06-30
     language: es
+  - title: 'Loreto: Fuerzas Armadas de Perú y Colombia incautan más de nueve toneladas de presunto cannabis sativa'
+    url: https://rpp.pe/peru/loreto/loreto-fuerzas-armadas-de-peru-y-colombia-incauta-mas-de-nueve-toneladas-de-presunto-cannabis-sativa-noticia-1695369
+    publisher: RPP Noticias
+    date: 2026-06-30
+    language: es
 media:
   - kind: photo
     url: https://larepublica.pe/politica/2026/06/30/loreto-incautan-casi-10-toneladas-de-marihuana-en-operativo-conjunto-de-peru-y-colombia-narcotrafico
@@ -85,7 +90,7 @@ media:
 
 Peru's defence ministry said on 30 June 2026 that the armed forces of Peru and
 Colombia had seized 9,229.1 kilograms of suspected cannabis sativa at
-Bellavista de Callarú, in the district of Ramón Castilla, Loreto. [@1,3,4,5]
+Bellavista de Callarú, in the district of Ramón Castilla, Loreto. [@1,3,4,5,6]
 
 The Amazon Operational Command ran the operation through the joint PUMA
 command. [@1,3,4] It brought in the Colombian navy, the Peruvian army, navy and
