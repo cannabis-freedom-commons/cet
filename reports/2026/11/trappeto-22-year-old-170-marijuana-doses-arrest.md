@@ -65,6 +65,11 @@ sources:
     publisher: NewSicilia
     date: 2026-11-15
     language: it
+  - title: 'Catania. Blitz antidroga a Trappeto: 22enne arrestato con 171 dosi di marijuana'
+    url: https://www.libertasicilia.it/catania-blitz-antidroga-a-trappeto-22enne-arrestato-con-171-dosi-di-marijuana/
+    publisher: Libertà Sicilia
+    date: 2026-11-15
+    language: it
 open_questions:
     - No weight for the 170 doses was published, so no cannabis weight is recorded.
     - The seized material was described as marijuana before the announced laboratory analysis, with no confirmed result reported.
@@ -72,6 +77,7 @@ open_questions:
     - No name, plea or further court outcome beyond the obligation to remain at home was reported.
     - 'The accounts differ on the total: Amica News reports 171 doses, while the existing account gives 170 despite specifying 71 under the jacket and 100 on the roof.'
     - The precautionary measure is described as an obligation of residence in Amica News, rather than an obligation to remain at the dwelling.
+    - Accounts differ on whether the total is 170 or 171 doses, although all agree on 71 doses under the jacket and 100 doses on the garage roof.
 media:
   - kind: photo
     url: https://qds.it/catania-arresto-pusher-trappeto-170-dosi-marijuana/
@@ -82,23 +88,23 @@ media:
 
 A 22-year-old man from Catania was arrested by Carabinieri of the Fontanarossa
 company operations unit in the Trappeto district on suspicion of possessing
-drugs for dealing. [@1,3,4,5,6] The operation followed information-led investigative
-activity that had already put the young man under investigators' scrutiny. [@1]
+drugs for dealing. [@1,3,4,5,6,7] The operation followed information-led investigative
+activity that had already put the young man under investigators' scrutiny. [@1,7]
 During an anti-dealing service in Via Capo Passero, two Carabinieri teams kept
 watch on the area behind a building with makeshift structures used as garages
-and cellars. [@1,4,5,6]
+and cellars. [@1,4,5,6,7]
 
 After a few minutes on stakeout, officers saw the 22-year-old, already known for
 previous judicial reports, approach a garage and take a bag from its roof and
 hide it under his jacket. [@1] When the Carabinieri intervened, he tried to flee
-but was stopped by the second team a few metres away. [@1,3,4]
+but was stopped by the second team a few metres away. [@1,3,4,7]
 
 Officers seized a total of 170 doses of marijuana. [@1,2] The search found 71
 doses of marijuana hidden under his jacket and another 100 doses at the spot on
-the garage roof from which the bag had been taken. [@1,2,3,4,5,6] All the drugs were
+the garage roof from which the bag had been taken. [@1,2,3,4,5,6,7] All the drugs were
 seized and will be analysed by the Catania provincial Carabinieri command's
 drug-analysis laboratory for technical tests ordered by the judicial authority.
-[@1,4,6]
+[@1,4,6,7]
 
 The 22-year-old was declared under arrest and, on the judicial authority's
-order, placed under an obligation to remain at his dwelling. [@1,2,4,5,6]
+order, placed under an obligation to remain at his dwelling. [@1,2,4,5,6,7]
