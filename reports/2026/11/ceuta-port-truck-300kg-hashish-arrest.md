@@ -1,16 +1,15 @@
 ---
 code: BHMPV6
 added_at: "2026-11-16T06:10:39.351308Z"
-date: 2026-11-13
+date: 2026-11-15
 country: es
 place: Port of Ceuta, Muelle de Poniente, Ceuta
 coordinates: [35.8917, -5.4516]
 precision: exact
 type: arrest
 also: [seizure]
-title: Driver arrested in Ceuta port as 300 kg hashish found in truck
-summary: >-
-  Spain's UDYCO drug unit arrested a truck driver at the port of Ceuta after finding a hidden compartment packed with bags of hashish. Outlets estimate the haul at about 300 kilograms, pending an official weighing.
+title: Ceuta truck driver jailed pending trial after 300 kg hashish seizure
+summary: Spain's UDYCO drug unit arrested a truck driver at the port of Ceuta after finding a hidden compartment packed with bags of hashish. A judge ordered the driver held in pre-trial detention on 15 November 2026 while the investigation continues.
 figures:
   arrested: 1
   kg_seized: 300
@@ -83,6 +82,14 @@ sources:
     publisher: التلفزيون الجزائري
     date: 2026-11-15
     language: ar
+  - title: A prisión el camionero detenido por la UDYCO con hachís
+    url: https://elfarodeceuta.es/actualidad/sucesos/prision-camionero-detenido-udyco-hachis/
+    publisher: El Faro de Ceuta
+    date: 2026-11-15
+    language: es
+open_questions:
+  - No official weight for the seized hashish has been published; estimates put the haul at about 300 kilograms but vary and no weighing has been confirmed.
+  - No value estimate, driver identity or trial date has been published; the investigation remains open.
 ---
 
 Spain's UDYCO drug unit arrested a truck driver at the port of Ceuta carrying a
@@ -102,6 +109,6 @@ no official weight. [@3] The submitted account describes the seizure as about
 300 kilograms of hashish arriving from Morocco. [@1,5,6,7]
 
 The handcuffed driver was taken to police headquarters and placed under
-investigation for an offence against public health. [@2] Police link the
+investigation for an offence against public health. [@2] A judge ordered the driver held in pre-trial detention on Sunday after he was presented to the court. [@8] Police link the
 operation to open UDYCO investigations into groups moving hashish from Ceuta to
-mainland Spain in heavy vehicles with hidden compartments. [@3]
+mainland Spain in heavy vehicles with hidden compartments. [@3] Investigators suspect larger loads and heavy vehicles hidden in stash houses used to store hashish, known locally as zulos. [@8]
