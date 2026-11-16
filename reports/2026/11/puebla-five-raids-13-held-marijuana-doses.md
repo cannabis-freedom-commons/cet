@@ -70,11 +70,16 @@ sources:
     publisher: Puntual
     date: 2026-11-15
     language: es
+  - title: Cateos en Puebla dejan 13 detenidos y 278 dosis de droga aseguradas
+    url: https://gamavision.com/noticias/cateos-en-puebla-dejan-13-detenidos-y-278-dosis-de-droga-aseguradas
+    publisher: Gamavision
+    date: 2026-11-16
+    language: es
 ---
 
 Puebla state prosecutors (Fiscalía General del Estado, FGE) carried out five
 searches in colonias, or neighbourhoods, in the capital Puebla and detained 13
-people. [@1,2,3,4,5,6] The searches ran from 9 to 12 November 2026 in coordination with
+people. [@1,2,3,4,5,6,7] The searches ran from 9 to 12 November 2026 in coordination with
 the Secretariat of National Defence, the National Guard and the Puebla state
 police, as part of anti-narcomenudeo actions, or small-scale street-level
 dealing. [@1,2,3,5]
@@ -83,10 +88,10 @@ On 9 November in Santa Anita officers detained four people, Raquel Paulett N.,
 Fabián N., José Antonio N. and Luz Aurora N. [@1,3,5] In Santa Anita officers seized
 11 bags of herb with characteristics similar to marijuana, alongside 85 bags of
 crystal-like substance and 10 wrappers of possible piedra, or crack cocaine.
-[@1,5] On 11 November in Noche Buena officers detained four people, Ricardo N.,
+[@1,5,7] On 11 November in Noche Buena officers detained four people, Ricardo N.,
 Evelyn N., Kevin Kristof N. and Rosa Isela N. [@1,5] In Noche Buena officers
 seized three wraps of presumed marijuana, alongside 33 bags of possible crystal,
-a scale and a firearm-like object. [@1] In Jardines de San Ramón officers
+a scale and a firearm-like object. [@1,7] In Jardines de San Ramón officers
 detained two women, Sarai N. and Martha N. [@1,6] In Jardines de San Ramón
 officers seized 20 bags of herb similar to marijuana, alongside 41 wrappers of
 possible crystal and a firearm-like object. [@1,6] In Ampliación Cuarta de San
@@ -99,4 +104,4 @@ The FGE reported 34 wrappers with possible marijuana across the five searches.
 counted as cannabis. [@1,2] The FGE also reported 17 wrappers of possible piedra,
 which are not counted as cannabis. [@1,2] Officers also seized five scales, two firearm-like objects, 11 ballistic items and 910 pesos in cash. [@2] Five properties were secured for
 investigation. [@1,2] All 13 detained people were placed at the disposal of the
-Public Ministry, which will determine their legal situation. [@1,2,3,4,6]
+Public Ministry, which will determine their legal situation. [@1,2,3,4,6,7]
