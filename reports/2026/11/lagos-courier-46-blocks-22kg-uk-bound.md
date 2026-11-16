@@ -67,6 +67,10 @@ sources:
     url: https://businessday.ng/news/article/ndlea-nabs-ugandan-woman-uk-australia-bound-passengers-with-drugs-in-private-parts/
     publisher: Businessday NG
     date: 2026-11-08
+  - title: NDLEA Arrests Ugandan Woman With 1.15kg Cocaine Hidden In Underwear
+    url: https://leadership.ng/ndlea-arrests-ugandan-woman-with-1-15kg-cocaine-hidden-in-underwear/
+    publisher: LEADERSHIP Newspapers
+    date: 2026-11-08
 open_questions:
   - The reports name no suspect, arrest, charge or court outcome in connection with the 46 blocks.
   - The agency gives the location only as courier companies in Lagos; no individual company or district is named.
@@ -78,7 +82,7 @@ open_questions:
 
 Operatives of the National Drug Law Enforcement Agency (NDLEA), Nigeria's
 anti-narcotics agency, intercepted 46 blocks of cannabis weighing 22.2 kilograms
-at courier companies in Lagos on Tuesday 3 November 2026. [@2,4,5,6,7] The drug was
+at courier companies in Lagos on Tuesday 3 November 2026. [@2,4,5,6,7,8] The drug was
 packed in two cartons and was bound for the United Kingdom. [@1] Channels
 Television, reporting the agency's account, placed the interception at courier
 companies in Lagos and said the consignment was destined for the United Kingdom.
