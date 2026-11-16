@@ -47,14 +47,18 @@ sources:
     url: https://www.heraldscotland.com/news/26733801.man-charged-cannabis-worth-around-130-000-seized-port/
     publisher: The Herald
     date: 2026-11-16
+  - title: Man charged after £130,000 of cannabis found inside vehicle at Cairnryan Port | STV News
+    url: https://news.stv.tv/west-central/man-charged-after-130000-of-cannabis-found-inside-vehicle-at-cairnryan-port
+    publisher: STV News
+    date: 2026-11-16
 ---
 
 A 32-year-old man has been arrested and charged after cannabis with an estimated
-street value of £130,000 was found at a ferry port in south-west Scotland. [@1,2,3]
-The man is due to appear at Stranraer Sheriff Court. [@1,2] He is due to appear at Stranraer Sheriff Court on Monday November 16. [@3]
+street value of £130,000 was found at a ferry port in south-west Scotland. [@1,2,3,4]
+The man is due to appear at Stranraer Sheriff Court. [@1,2,4] He is due to appear at Stranraer Sheriff Court on Monday November 16. [@3]
 
 Police said a vehicle had been stopped and searched at Cairnryan Port at about
-22:00 on Saturday and a large quantity of the drug discovered. [@1,2,3] The vehicle
+22:00 on Saturday and a large quantity of the drug discovered. [@1,2,3,4] The vehicle
 search took place at Cairnryan on Saturday night. [@1] Police put the estimated
 street value of the cannabis found at the ferry port at £130,000. [@1,3]
 
