@@ -54,24 +54,23 @@ sources:
     publisher: İhlas Haber Ajansı
     date: 2026-11-16
     language: tr
-open_questions:
-  - The suspect was not named and no age or other identifying detail was published.
-  - No separate location within Yenimahalle, such as a street, address or type of premises searched, was published.
-  - No laboratory confirmation of the seized esrar was reported.
-  - No court outcome beyond continuing judicial proceedings and detention was reported.
+  - title: Ankara'da düzenlenen operasyonda 12 kilo 800 gram esrar bulundu - Ensonhaber
+    url: https://www.ensonhaber.com/ankarada-duzenlenen-operasyonda-12-kilo-800-gram-esrar-bulundu-h1583073
+    publisher: Ensonhaber
+    date: 2026-11-16
+    language: tr
 ---
 
 Ankara anti-narcotics police carried out an operation in the Yenimahalle
 district on 15 November 2026 under the coordination of the Ankara Chief Public
-Prosecutor's Office. [@3] Officers seized 12 kilograms 800 grams of cannabis
-(esrar) in the operation. [@2]
+Prosecutor's Office. [@3,4] Officers seized 12 kilograms 800 grams of cannabis
+(esrar) in the operation. [@2,4]
 
 Officers also seized three precision scales, drug-packaging materials and 9,050
-Turkish lira in cash. [@2] One suspect was caught during the Yenimahalle
-operation. [@1]
+Turkish lira in cash. [@2,4] One suspect was caught during the Yenimahalle
+operation. [@1,4]
 
 The suspect was detained on suspicion of manufacturing and trading narcotic or
-stimulant drugs. [@2] Judicial proceedings against the suspect were continuing.
-[@3] Ankara police said their work against people trading drugs would continue
+stimulant drugs. [@2,4] Judicial proceedings against the suspect were continuing.
+[@3,4] Ankara police said their work against people trading drugs would continue
 with determination. [@3]
-
