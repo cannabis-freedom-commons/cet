@@ -34,6 +34,10 @@ sources:
     url: https://newsmeter.in/crime/fake-number-plates-pilot-suv-and-110-kg-ganja-interstate-drug-syndicate-busted-near-hyderabad-770682
     publisher: NewsMeter
     date: 2026-06-28
+  - title: Interstate drug trafficker detained under PIT-NDPS Act after seizure of 264 kg ganja in three cases - The Hindu
+    url: https://www.thehindu.com/news/national/telangana/interstate-drug-trafficker-detained-under-pit-ndps-act-after-seizure-of-264-kg-ganja-in-three-cases/article71708656.ece
+    publisher: The Hindu
+    date: 2026-11-16
 open_questions:
   - The duration or review period of the preventive detention order was not reported.
   - The reports direct that Pasalkar be detained at Central Prison, Cherlapally, but do not state whether he was already in custody or at large when the November 11 order was issued.
@@ -45,31 +49,31 @@ open_questions:
 
 Telangana Police issued a preventive detention order against an alleged
 interstate ganja trafficker from Maharashtra linked to three cases involving
-264.236 kg of ganja between 2022 and 2026. [@1] The accused was identified as
+264.236 kg of ganja between 2022 and 2026. [@1,4] The accused was identified as
 Prashant Ganesh Pasalkar alias Nana, a resident of Saswad village in Pune
-district. [@1] Police said he transported ganja from Odisha to Maharashtra
+district. [@1,4] Police said he transported ganja from Odisha to Maharashtra
 through Telangana as part of an organised interstate network of suppliers,
 transporters and receivers. [@1] The order was issued on November 11, 2026,
 under Section 3(1) of the Prevention of Illicit Traffic in Narcotic Drugs and
-Psychotropic Substances (PIT-NDPS) Act, 1988. [@1] It was issued by Charu Sinha,
+Psychotropic Substances (PIT-NDPS) Act, 1988. [@1,4] It was issued by Charu Sinha,
 IPS, Director General of Police, Criminal Investigation Department (CID),
 Telangana, and directed that Pasalkar be detained at Central Prison,
-Cherlapally. [@1]
+Cherlapally. [@1,4]
 
 The first case was registered at Kodad Town police station in Suryapet district,
 where police apprehended Pasalkar at Durgapuram Junction, Kodad, on July 16,
-2022, and seized 44.735 kg of ganja and an i20 car. [@1] In the second case,
+2022, and seized 44.735 kg of ganja and an i20 car. [@1] Forensic examination confirmed the seized substance as marijuana and a charge sheet was subsequently filed in the first case. [@4] In the second case,
 registered at Rajendranagar police station under the Cyberabad Commissionerate,
 police intercepted the accused and his associates at Exit No. 17 of the Outer
 Ring Road (ORR) on July 10, 2025. [@1] Police seized 108.797 kg of ganja packed
 in 53 packets from two vehicles, a Maruti Swift and an Ignis, in that
-interception. [@1] On June 27, 2026, police intercepted two vehicles near the
+interception. [@1] Call records showed 2,174 calls with receiver Lata Ganesh Jadhav and 1,518 calls with transporter Rohan Pandurang Pawar. [@4] Investigators alleged that Pasalkar coordinated procurement through a supplier in Odisha and transportation and distribution through associates in Maharashtra. [@4] Police also seized mobile phones and other material in that Rajendranagar interception. [@4] On June 27, 2026, police intercepted two vehicles near the
 Bongulur-ORR service road and seized 110.704 kg of ganja packed in 55 packets
 from a Maruti Ertiga. [@1] Pasalkar was travelling in a Tata Harrier, which
 allegedly functioned as a pilot vehicle to alert the ganja-laden car about
 police checks. [@1]
 
-Pasalkar subsequently secured conditional bail on December 4, 2025. [@1] Police
+Pasalkar subsequently secured conditional bail on December 4, 2025. [@1] His bail petition in this case was dismissed on July 21, 2026. [@4] Police
 said he resumed similar trafficking activities even after securing conditional
 bail in a 2025 case. [@1] Contemporaneous reporting of the June interception
 said the bust near Hyderabad led to the arrest of four alleged smugglers. [@3]
@@ -78,5 +82,4 @@ phones worth approximately Rs 56 lakh. [@3] It said the smugglers replaced the
 Ertiga original Odisha registration plate with a fake Maharashtra number plate
 at toll gates. [@3] The EAGLE Force said the repeated involvement, return to the
 trade after bail and links to an organised network indicated likely continued
-drug activities. [@2]
-
+drug activities. [@2] Telangana Police said the preventive detention was intended to prevent Pasalkar from continuing his alleged trafficking activities. [@4]
