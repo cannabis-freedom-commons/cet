@@ -63,6 +63,11 @@ sources:
     publisher: El Tribuno de Jujuy
     date: 2026-11-16
     language: es
+  - title: 'Operativos contra el narcomenudeo en Jujuy: 17 procedimientos y 20 detenidos en distintos puntos - Somos Jujuy'
+    url: https://www.somosjujuy.com.ar/policiales/operativos-narcomenudeo-jujuy-17-procedimientos-20-detenidos-distintos-puntos-n127249
+    publisher: Somos Jujuy
+    date: 2026-11-16
+    language: es
 open_questions:
   - The 1,031 grams of cocaine and/or pasta base and 115 kilos of coca leaves are excluded from the cannabis figures.
   - No breakdown of detentions or seizures by locality was published.
@@ -73,8 +78,8 @@ open_questions:
 
 The Dirección General de Narcotráfico and the Agencia Provincial de Delitos
 Complejos carried out a series of anti-drug operations across Jujuy province
-between 6 and 12 November 2026. [@1] The sweep totalled 17 procedures and left
-20 people detained. [@1] Police said the 20 people were detained for alleged
+between 6 and 12 November 2026. [@1,3] The sweep totalled 17 procedures and left
+20 people detained. [@1,3] Police said the 20 people were detained for alleged
 infringement of the Narcotics Law. [@2]
 
 Officers seized 401 grams of marijuana, alongside 1,031 grams of cocaine and/or
@@ -88,4 +93,3 @@ The actions included preventive checks in streets and public spaces, raids on
 drug sale points and procedures inside the prison service. [@1] A second account
 confirms the same 6-12 November sweep with 1,031 grams of cocaine and/or pasta
 base, 401 grams of marijuana and 115 kilos of coca leaves. [@2]
-
