@@ -46,21 +46,25 @@ sources:
     publisher: Nikkan Sports
     date: 2026-09-17
     language: ja
+  - title: 乾燥大麻所持の疑いで書類送検の日本代表選手を不起訴処分 東京地検
+    url: https://news.tv-asahi.co.jp/news_society/articles/000548211.html
+    publisher: テレ朝NEWS
+    date: 2026-11-16
+    language: ja
 open_questions:
-  - No weight was published for the dried cannabis beyond describing it as a small amount.
-  - No reason for the non-prosecution decision was published.
-  - It is unclear whether Aoki was ever detained, since the reports describe only a papers-only referral.
-  - 16 November 2026 is the date of the non-prosecution decision and is used as the incident date; the alleged possession occurred on 6 August 2026.
-  - The non-prosecution rests on a single TBS account, while the referral details come from Nikkan Sports accounts of the same police announcement.
+    - No weight was published for the dried cannabis beyond describing it as a small amount.
+    - It is unclear whether Aoki was ever detained, since the reports describe only a papers-only referral.
+    - 16 November 2026 is the date of the non-prosecution decision and is used as the incident date; the alleged possession occurred on 6 August 2026.
+    - The non-prosecution decision is corroborated by TBS and TV Asahi accounts, while the referral details come from Nikkan Sports accounts of the same police announcement.
 ---
 
 Yukito Aoki, aged 23, represented Japan in men's street skateboarding at the
 Tokyo Olympics and is the skateboarder who was referred to prosecutors in this
-cannabis possession case. [@2] The Tokyo Metropolitan Police sent his case to
+cannabis possession case. [@2,3] The Tokyo Metropolitan Police sent his case to
 prosecutors on suspicion that he had possessed cannabis in violation of the
 Narcotics Control Law. [@1] The Tokyo District Public Prosecutors Office closed
 the matter by deciding not to prosecute him, with the decision dated 16 November
-2026. [@1]
+2026. [@1,3] The prosecutors said the reason for the decision was consideration of various circumstances. [@3]
 
 The underlying allegation was that Aoki possessed a small amount of dried
 cannabis on 6 August inside the JR Shin-Kiba Station premises in Koto Ward,
@@ -72,4 +76,3 @@ The procedure used was a papers-only referral, by which police send the case
 documents to prosecutors for a charging decision. [@1] The station premises
 where the cannabis was allegedly found are located in Koto Ward in eastern
 Tokyo. [@2]
-
