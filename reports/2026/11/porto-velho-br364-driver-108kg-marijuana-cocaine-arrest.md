@@ -49,6 +49,11 @@ sources:
     publisher: Rondonoticias.com.br
     date: 2026-11-13
     language: pt
+  - title: Fiscalização da PRF prende motorista com 108 quilos de maconha e cocaína na BR-364
+    url: https://rondonoticias.com.br/noticia/policia/162546/fiscalizacao-da-prf-prende-motorista-com-108-quilos-de-maconha-e-cocaina-na-br-364
+    publisher: Rondonoticias.com.br
+    date: 2026-11-14
+    language: pt
 media:
   - kind: photo
     url: https://rondonoticias.com.br/noticia/policia/162546/motorista-e-preso-com-108-quilos-de-maconha-e-cocaina-na-br-364
@@ -61,17 +66,16 @@ media:
 
 A Federal Highway Police routine check on the BR-364 near Porto Velho, Rondônia,
 on the afternoon of Wednesday, November 11, ended with a 52-year-old driver
-arrested at kilometre 759 of the highway. [@1] The driver was in a Fiat Strada
+arrested at kilometre 759 of the highway. [@1,2] The driver was in a Fiat Strada
 pickup that had left Guajará-Mirim bound for the capital when officers searched
-the vehicle's cargo area and found fibre bags full of drug tablets. [@1]
+the vehicle's cargo area and found fibre bags full of drug tablets. [@1,2]
 
 Officers counted 96.55 kilograms of marijuana in 93 tablets, which the police
-seized. [@1] The driver told police he would be paid R$ 10,000 to move the load
+seized. [@1,2] The driver told police he would be paid R$ 10,000 to move the load
 to Porto Velho, and that confession will be used to identify others in the
 criminal network. [@1]
 
 He was arrested on the spot for drug trafficking and taken to the Porto Velho
-Civil Police flagrantes station with the seized drugs. [@1] The Civil Police
+Civil Police flagrantes station with the seized drugs. [@1,2] The Civil Police
 said it will continue the investigation into the drug's origin, destination and
 any other participants in the transport. [@1]
-
