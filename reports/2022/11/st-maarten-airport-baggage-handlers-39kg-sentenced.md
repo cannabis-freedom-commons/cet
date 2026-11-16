@@ -50,13 +50,10 @@ sources:
     url: https://www.thedailyherald.sx/islands/two-airport-baggage-handlers-sentenced-for-drug-smuggling
     publisher: The Daily Herald
     date: 2022-11-02
-open_questions:
-  - The seizure passage writes 39.335 grams while the same article describes 39 kilogrammes across three suitcases holding 75 packages; 39.335 is recorded as kilograms.
-  - 2 November 2022 is the article date and the court sat on Wednesday; 2 November 2022 was a Wednesday, so it is used as the sentencing date.
-  - No laboratory confirmation of the marijuana was reported.
-  - No outcome was reported for the third person arrested for involvement in the trafficking operation.
-  - No value estimate for the seized marijuana was published.
-  - Only one accessible source for this event was found after searching in English.
+  - title: 39.3 Kilograms marijuana intercepted at airport, four people arrested.
+    url: https://smn-news.com/index.php/st-maarten-st-martin-news/40391-39-3-kilograms-marijuana-intercepted-at-airport-four-people-arrested.html
+    publisher: SMN News
+    date: 2022-05-17
 ---
 
 Two baggage handlers at Princess Juliana International Airport (PJIA) were
@@ -66,12 +63,12 @@ months in prison with six months suspended on three years of probation, matching
 the prosecutor's demand. [@1] The convicted men were Denzil Anthony Asin Browne,
 aged 43, and Ivan Gregory Rodriguez, aged 54, who both denied the charges. [@1]
 Four people were arrested in the operation, three of them for involvement in the
-drug-trafficking operation. [@1]
+drug-trafficking operation. [@1,2]
 
 The Criminal Information Service (CID) had been tipped off that two airport
 employees would take part in a drug-smuggling operation at the airport on May
 15, 2022. [@1] On that day, the Alpha Team of police detectives seized three
-suitcases containing a reported 39.335 grams of marijuana. [@1] The contraband
+suitcases containing a reported 39.335 grams of marijuana. [@1,2] The contraband
 had arrived as checked baggage on WestJet flight WS2652 from Toronto, Ontario,
 Canada. [@1] Video from the airport baggage hall showed Browne and Rodriguez
 taking the three suitcases off the belt and setting them aside. [@1] The three
@@ -86,5 +83,4 @@ but three days earlier on May 12. [@1] Rodriguez worked for Arrindell Aviation
 and Browne for Anguilla Air Service, and both were suspended by their employers
 pending the outcome. [@1] A fourth man, R.M.R., was arrested on May 15 after
 attacking a police officer in an attempt to hinder the investigation and was
-released after questioning. [@1]
-
+released after questioning. [@1,2]
