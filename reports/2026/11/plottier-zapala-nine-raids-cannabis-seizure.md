@@ -56,6 +56,11 @@ sources:
     publisher: NoticiasNQN
     date: 2026-11-15
     language: es
+  - title: 'Nueve allanamientos por venta de drogas en Plottier y Zapala: secuestraron cocaína, marihuana y casi $2,7 millones'
+    url: https://diarioneuquino.com.ar/nueve-allanamientos-por-venta-de-drogas-en-plottier-y-zapala-secuestraron-cocaina-marihuana-y-casi-27-millones/
+    publisher: Diario Neuquino
+    date: 2026-11-15
+    language: es
 open_questions:
   - No separate date for the raids was published, so 15 November 2026, the publication date, stands in for the incident date.
   - The 484.07 grams of cocaine are excluded from the cannabis figures; only the 1.2 kilos of cannabis are counted.
@@ -67,21 +72,22 @@ open_questions:
   - The five other people were not named, and it is not known whether they will face charges.
   - No details of the man's prior federal case were reported.
   - The whole account rests on a single local outlet, with no agency statement or second account located.
+  - One account lists four notebooks among the seized items while another lists four laptops, so the type of four seized computers is disputed.
 ---
 
 Zapala chief prosecutor Matías Álvarez charged a man identified as L.M.C. with
-possession of drugs for sale as author under Law 23.737. [@1] Five other people
+possession of drugs for sale as author under Law 23.737. [@1,2] Five other people
 were notified of the proceedings and remain free subject to the progress of the
-case. [@1] One of those five was already serving house arrest for a federal
-conviction. [@1] Guarantees judge Juan Pablo Balderrama admitted the charges and
-validated the detention. [@1] The judge then released the suspect under
+case. [@1,2] One of those five was already serving house arrest for a federal
+conviction. [@1,2] Guarantees judge Juan Pablo Balderrama admitted the charges and
+validated the detention. [@1,2] The judge then released the suspect under
 conditions for the four-month investigation period. [@1] The released man must
 report every 15 days to the nearest police station and may not leave the
 province without authorization. [@1]
 
 Nine simultaneous raids in Plottier and Zapala seized cocaine, marijuana,
 cannabis plants, money in different currencies and items allegedly linked to
-drug dealing. [@1] In one searched Zapala home investigators found 782.10 grams
+drug dealing. [@1,2] In one searched Zapala home investigators found 782.10 grams
 of marijuana and 484.10 grams of cocaine. [@1] They also seized 21 seedlings and
 36 cannabis seeds there. [@1] Part of the substances was in the home and another
 quantity was found in a vehicle linked to the main suspect. [@1] During that
@@ -90,18 +96,17 @@ nylon cuts, dosing items, a portable label printer, cell phones, a computer and
 firearm cartridges. [@1]
 
 The overall total across the nine raids includes drugs found in a parcel. [@1]
-It listed 484.07 grams of cocaine. [@1] It listed 1.2 kilos of cannabis. [@1] It
+It listed 484.07 grams of cocaine. [@1,2] It listed 1.2 kilos of cannabis. [@1,2] It
 listed 21 marijuana plants and seeds. [@1] It listed 2,695,200 pesos, 220
-dollars and 56,000 Chilean pesos. [@1] It listed 18 cell phones. [@1] It listed
-six scales and four notebooks. [@1] It listed a Ford Ranger pickup. [@1]
+dollars and 56,000 Chilean pesos. [@1] It listed 18 cell phones. [@1,2] It listed
+six scales and four notebooks. [@1] It listed a Ford Ranger pickup. [@1,2]
 
 The raids belong to a case investigating a suspected drug-selling network. [@1]
 The Zapala prosecutor's office gathered material through surveillance and
 analysis of bank movements. [@1] The investigation ran between 24 September and
-13 November with follow-ups and analysis of striking financial movements. [@1]
+13 November with follow-ups and analysis of striking financial movements. [@1,2]
 The accusation says movements consistent with possible substance exchanges were
 detected at the suspect's home. [@1] It also says numerous money transfers were
 observed although he had no formal job or declared business there. [@1] The
 prosecutor said the man already faces a federal case for the same drug offense.
-[@1]
-
+[@1,2]
