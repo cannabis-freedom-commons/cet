@@ -52,6 +52,10 @@ sources:
     url: https://businessday.ng/news/article/ndlea-nabs-ugandan-woman-uk-australia-bound-passengers-with-drugs-in-private-parts/
     publisher: Businessday NG
     date: 2026-11-08
+  - title: “Ugandan Woman Caught With 87 Wraps Of Cocaine After Church Visit” — NDLEA Intercepts ₦900m Opioids, Busts International Drug Syndicates - TheNigeriaLawyer
+    url: https://thenigerialawyer.com/ugandan-woman-caught-with-87-wraps-of-cocaine-after-church-visit-ndlea-intercepts-%E2%82%A6900m-opioids-busts-international-drug-syndicates/
+    publisher: TheNigeriaLawyer
+    date: 2026-11-09
 open_questions:
   - The roundup gives no date for the Auchi-Ibillo Road car seizure or the Benin City drug-joint raid; 8 November 2026, the publication date, stands in for the incident date.
   - The roundup does not say whether anyone was arrested, charged or tried over the 201 kg seized in the car.
@@ -65,7 +69,7 @@ seizures across several states in a roundup published on 8 November 2026. [@1]
 
 In Edo State, operatives stopped a Volkswagen Golf saloon car loaded with 19
 bags of cannabis weighing 201 kg on the Auchi-Ibillo Road in Akoko Edo Local
-Government Area. [@1] The roundup did not say whether anyone was arrested over
+Government Area. [@1,4] The roundup did not say whether anyone was arrested over
 the car or charged. [@1] Three other suspects were arrested in a raid on a drug
 joint along Ihama Road in the GRA area of Benin City, the Edo State capital.
 [@1] The three people arrested at the Ihama Road joint were Emmanuel Sunday, 25, Samuel Bala, 31, and Loveth Momodu, 20, found with quantities of Colorado, Loud and cannabis. [@3] In Taraba State, three suspects were arrested with 283 blocks of compressed
@@ -78,4 +82,4 @@ United Kingdom. [@1] Separately, officers raided a cannabis farm in Board
 Forest, destroying a one-hectare plantation and recovering 242 kg of cannabis.
 [@1]
 
-NDLEA operatives intercepted a Volkswagen Golf saloon car loaded with 19 bags of cannabis weighing 201 kilograms along the Auchi-Ibillo Road in Akoko-Edo Local Government Area on Friday, November 6, 2026. [@2] The operation led to the arrest of the driver, 39-year-old Abdulmumid Isah, and a passenger, 25-year-old Danako Godwin. [@2,3]
+NDLEA operatives intercepted a Volkswagen Golf saloon car loaded with 19 bags of cannabis weighing 201 kilograms along the Auchi-Ibillo Road in Akoko-Edo Local Government Area on Friday, November 6, 2026. [@2] The operation led to the arrest of the driver, 39-year-old Abdulmumid Isah, and a passenger, 25-year-old Danako Godwin. [@2,3,4]

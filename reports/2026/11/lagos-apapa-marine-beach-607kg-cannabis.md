@@ -51,6 +51,10 @@ sources:
     url: https://businessday.ng/news/article/ndlea-nabs-ugandan-woman-uk-australia-bound-passengers-with-drugs-in-private-parts/
     publisher: Businessday NG
     date: 2026-11-08
+  - title: “Ugandan Woman Caught With 87 Wraps Of Cocaine After Church Visit” — NDLEA Intercepts ₦900m Opioids, Busts International Drug Syndicates - TheNigeriaLawyer
+    url: https://thenigerialawyer.com/ugandan-woman-caught-with-87-wraps-of-cocaine-after-church-visit-ndlea-intercepts-%E2%82%A6900m-opioids-busts-international-drug-syndicates/
+    publisher: TheNigeriaLawyer
+    date: 2026-11-09
 open_questions:
   - The statement gives no charges, court date or outcome for the man arrested at Marine Beach.
   - No street value was published for the 6.07 kg of cannabis, and the statement does not say how it was packaged or weighed.
@@ -65,8 +69,8 @@ open_questions:
 
 Operatives of Nigeria's National Drug Law Enforcement Agency (NDLEA) arrested a
 32-year-old man, Abubakar Ali, at Marine Beach in Apapa, Lagos, on Friday 6
-November 2026. [@1,4] Officers recovered a stash of drugs from a small store the
-man had built inside the sitting room of his apartment. [@2] The items recovered included 6.07 kg of cannabis, with tramadol, pregabalin, diazepam and codeine also found in the same store. [@4]
+November 2026. [@1,4,5] Officers recovered a stash of drugs from a small store the
+man had built inside the sitting room of his apartment. [@2] The items recovered included 6.07 kg of cannabis, with tramadol, pregabalin, diazepam and codeine also found in the same store. [@4,5]
 
 The arrest was one of several operations announced in an NDLEA statement issued
 on Sunday 8 November 2026 by the agency's Director of Media and Advocacy, Femi

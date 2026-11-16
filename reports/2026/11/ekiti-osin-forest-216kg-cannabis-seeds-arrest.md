@@ -63,6 +63,10 @@ sources:
     url: https://thenationonlineng.net/ugandan-woman-in-nigeria-for-crusade-arrested-with-concealed-87-cocaine-wraps/amp/
     publisher: The Nation Newspaper
     date: 2026-11-09
+  - title: “Ugandan Woman Caught With 87 Wraps Of Cocaine After Church Visit” — NDLEA Intercepts ₦900m Opioids, Busts International Drug Syndicates - TheNigeriaLawyer
+    url: https://thenigerialawyer.com/ugandan-woman-caught-with-87-wraps-of-cocaine-after-church-visit-ndlea-intercepts-%E2%82%A6900m-opioids-busts-international-drug-syndicates/
+    publisher: TheNigeriaLawyer
+    date: 2026-11-09
 open_questions:
     - No count is given for the cannabis seeds seized with the 216 kilograms, and the seeds are not included in the weight.
     - Neither account says where in Osin Forest the arrest was made, whether a farm was found, or what charges followed.
@@ -74,8 +78,8 @@ open_questions:
 ---
 
 Operatives of the National Drug Law Enforcement Agency arrested a 53-year-old
-man at Osin Forest in Osin Ekiti, Ekiti State, on Thursday 5 November 2026. [@2,4] The man arrested at Osin Forest was named as Agbo Paul Peter. [@6]
-Officers found 216 kilograms of cannabis and cannabis seeds with him. [@1,4,5]
+man at Osin Forest in Osin Ekiti, Ekiti State, on Thursday 5 November 2026. [@2,4] The man arrested at Osin Forest was named as Agbo Paul Peter. [@6,7]
+Officers found 216 kilograms of cannabis and cannabis seeds with him. [@1,4,5,7]
 
 The arrest came as the agency's commands pressed a week of raids and seizures
 across Lagos, Ondo, Ekiti, Edo, Delta, Taraba and Enugu states. [@2] NDLEA

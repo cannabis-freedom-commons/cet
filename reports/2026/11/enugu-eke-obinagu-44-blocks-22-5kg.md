@@ -32,21 +32,25 @@ sources:
     url: https://guardian.ng/news/nigeria/metro/ndlea-arrests-ugandan-woman-with-87-cocaine-wraps-in-private-part/
     publisher: The Guardian Nigeria News
     date: 2026-11-09
+  - title: “Ugandan Woman Caught With 87 Wraps Of Cocaine After Church Visit” — NDLEA Intercepts ₦900m Opioids, Busts International Drug Syndicates - TheNigeriaLawyer
+    url: https://thenigerialawyer.com/ugandan-woman-caught-with-87-wraps-of-cocaine-after-church-visit-ndlea-intercepts-%E2%82%A6900m-opioids-busts-international-drug-syndicates/
+    publisher: TheNigeriaLawyer
+    date: 2026-11-09
 open_questions:
-  - Only one opened account of the Eke Obinagu arrest was available; the agency's own statement and Enugu local reporting could not be opened for this event.
-  - The article does not say what happened to the suspect after arrest, whether he was charged or what court will hear the case.
-  - The 22.5 kg is described as cannabis in blocks, with no laboratory confirmation or product detail.
-  - The article gives no separate description of where in Enugu State the Eke Obinagu checkpoint stands, so the coordinates mark Enugu State's centre and the precision is region.
+    - Two opened accounts now support the Eke Obinagu seizure, but both reproduce the same NDLEA statement and are not independent reporting.
+    - No charges, court date, plea or outcome for the suspect was reported.
+    - The 22.5 kg was described only as cannabis in blocks, with no laboratory confirmation or product detail.
+    - No precise location for the Eke Obinagu checkpoint was given, so the coordinates mark Enugu State's centre and precision is region.
+    - The same roundup also reports other cannabis seizures and non-cannabis drugs that belong to other reports and are left out here.
 ---
 
 Operatives of Nigeria's National Drug Law Enforcement Agency arrested a
 57-year-old man, Celestine Uzochukwu Ejiakor, at a checkpoint in Eke Obinagu,
-Enugu State, on 3 November 2026. [@1] Officers found 44 blocks of cannabis
-weighing 22.5 kg with him. [@1]
+Enugu State, on 3 November 2026. [@1,2] Officers found 44 blocks of cannabis
+weighing 22.5 kg with him. [@1,2]
 
 The arrest was one of the cannabis results the agency announced together with
 the airport cocaine case in a roundup published on 9 November 2026. [@1] In the
 same Enugu roundup, operatives at another checkpoint in Ugwuoba arrested a
 40-year-old man with 24,000 capsules of tramadol weighing 13.4 kg and 697 g of
-ketamine, which are not cannabis. [@1]
-
+ketamine, which are not cannabis. [@1,2]

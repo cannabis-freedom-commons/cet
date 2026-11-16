@@ -66,6 +66,10 @@ sources:
     url: https://businessday.ng/news/article/ndlea-nabs-ugandan-woman-uk-australia-bound-passengers-with-drugs-in-private-parts/
     publisher: Businessday NG
     date: 2026-11-08
+  - title: “Ugandan Woman Caught With 87 Wraps Of Cocaine After Church Visit” — NDLEA Intercepts ₦900m Opioids, Busts International Drug Syndicates - TheNigeriaLawyer
+    url: https://thenigerialawyer.com/ugandan-woman-caught-with-87-wraps-of-cocaine-after-church-visit-ndlea-intercepts-%E2%82%A6900m-opioids-busts-international-drug-syndicates/
+    publisher: TheNigeriaLawyer
+    date: 2026-11-09
 open_questions:
   - The roundup does not give a separate date for the Ondo raid or the Board Forest operation; 8 November 2026, the date of the NDLEA statement and of publication, stands in for the incident date.
   - The sources do not state whether the 1,818 kg seized from the bags, the 242 kg recovered during the Board Forest operation and the cannabis destroyed on the one-hectare farm are included in one another, so this report records their sum, 2,060 kg, as the cannabis seized or destroyed figure.
@@ -82,10 +86,10 @@ open_questions:
 ---
 
 NDLEA operatives raided Odofin Road in Uso, Ondo State, and recovered 1,818 kg
-of cannabis packed in 148 bags. [@1,2,3,4,5,6] In the same operations the agency destroyed
+of cannabis packed in 148 bags. [@1,2,3,4,5,6,7] In the same operations the agency destroyed
 a one-hectare cannabis farm in Board Forest and recovered another 242 kg of the
-drug. [@1,2,3,5,6] Officers arrested 36-year-old Itoro Linus Akpan in connection with
-the Ondo raids. [@1,3,4,5]
+drug. [@1,2,3,5,6,7] Officers arrested 36-year-old Itoro Linus Akpan in connection with
+the Ondo raids. [@1,3,4,5,7]
 
 The same roundup reported a further 16.15 kg of Loud cannabis concealed inside
 two wooden sofas sent from Houston to Lagos, which is a separate seizure left
