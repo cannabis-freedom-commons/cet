@@ -50,29 +50,34 @@ sources:
     publisher: Novo Cantu Notícias
     date: 2026-11-16
     language: pt
+  - title: Polícia encontra cultivo de maconha após averiguar denúncia
+    url: https://midiasudoeste.com.br/n/noticia/policia-encontra-cultivo-de-maconha-apos-averiguar-denuncia
+    publisher: Mídia Sudoeste
+    date: 2026-11-16
+    language: pt
 open_questions:
-  - The 23.49 grams is reported as the total for the seized drug, with no stated split between the six plants and the ready-to-use portion.
-  - The suspect was not named and no age was published.
-  - No charge, hearing or court outcome beyond the Termo Circunstanciado and referral to the competent authority was reported.
-  - The account rests on a single accessible outlet report reproducing the Military Police account.
-  - The man was taken to the battalion headquarters for the TCIP booking and released, so no arrest figure is recorded.
+    - The 23.49 grams is reported as the total for the seized drug, with no stated split between the six plants and the ready-to-use portion.
+    - The suspect was identified only as a 19-year-old man; no name was published.
+    - No charge, hearing or court outcome beyond the Termo Circunstanciado and referral to the competent authority was reported.
+    - All accessible outlet reports reproduce the Military Police account and are not independent reporting.
+    - The man was taken to the battalion headquarters for the TCIP booking and released, so no arrest figure is recorded.
 ---
 
 A ROTAM team of the 7th Military Police Battalion seized six cannabis plants and
 a portion of the drug ready for consumption at a residence in central Cruzeiro
-do Oeste. [@1,2]
+do Oeste. [@1,2,3]
 
 Officers on patrol to check reports of illegal cannabis cultivation approached a
-man who was leaving the house. [@1] A personal search of the suspect found
+man who was leaving the house. [@1,3] He was 19 years old. [@3] A personal search of the suspect found
 nothing illicit. [@1] When questioned, he admitted that he grew cannabis in the
 residence's yard and authorised the team to enter and check. [@1,2] The man was
 taken to the 7th Military Police Battalion headquarters, where a Termo
-Circunstanciado de Infração Penal was drawn up. [@1,2] He was released after the
+Circunstanciado de Infração Penal was drawn up. [@1,2,3] He was released after the
 procedures. [@1,2]
 
 Searches of the property found six cannabis plants, plus a portion of the
-substance sitting on the living-room counter. [@1,2] The seized drug totalled
-23.49 grams. [@1,2] The cannabis plants and the portion were seized to be sent to
+substance sitting on the living-room counter. [@1,2,3] The seized drug totalled
+23.49 grams. [@1,2,3] The cannabis plants and the portion were seized to be sent to
 the competent authority for the applicable legal steps. [@1]
 
 The occurrence was recorded in the early evening of Saturday the 14th, at about
