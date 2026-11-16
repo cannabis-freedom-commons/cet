@@ -51,20 +51,25 @@ sources:
     publisher: Воронежские новости
     date: 2026-11-16
     language: ru
+  - title: Более 3,5 кг конопли и марихуаны изъяли у мужчины в воронежском Борисоглебске | Обозреватель.Врн
+    url: https://obozvrn.ru/archives/358939
+    publisher: Обозреватель.Врн
+    date: 2026-11-16
+    language: ru
 ---
 
 Police in Borisoglebsk detained a 53-year-old local man. [@1,2] The detention was
 on suspicion of illegally storing drugs on a large scale. [@1] The man had not
-previously been convicted. [@1]
+previously been convicted. [@1,3]
 
 Officers of the drug-trafficking control division searched his household in
-Yubileyny Lane. [@1] In a utility room and farm outbuildings, the officers found
-drying bushes. [@1,2] The officers also found a bucket and bags containing plant
-material in the same premises. [@1,2] The seized material was sent for forensic
-examination. [@1] The examination confirmed that the police had found more than
-3 kilograms of cannabis plants and over 570 grams of marijuana. [@1,2] Together,
+Yubileyny Lane. [@1,3] In a utility room and farm outbuildings, the officers found
+drying bushes. [@1,2,3] The officers also found a bucket and bags containing plant
+material in the same premises. [@1,2,3] The seized material was sent for forensic
+examination. [@1,3] The examination confirmed that the police had found more than
+3 kilograms of cannabis plants and over 570 grams of marijuana. [@1,2,3] Together,
 the seizure amounted to more than 3.5 kilograms of cannabis and marijuana. [@1]
 
 According to the Interior Ministry, the suspect gave a confession. [@1] A
-criminal case for large-scale illegal drug storage was opened against him. [@1]
+criminal case for large-scale illegal drug storage was opened against him. [@1,3]
 He was placed in procedural detention. [@1,2]
