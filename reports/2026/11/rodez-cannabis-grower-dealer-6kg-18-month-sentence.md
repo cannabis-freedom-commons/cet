@@ -69,6 +69,11 @@ sources:
     publisher: Tarbes7.fr
     date: 2026-11-16
     language: fr
+  - title: Six kilos de cannabis saisis, 13 325 euros confisqués, un homme condamné… La gendarmerie met fin à un trafic de stupéfiants, en Aveyron - centrepresseaveyron.fr
+    url: https://www.centrepresseaveyron.fr/2026/11/16/six-kilos-de-cannabis-saisis-13-325-euros-confisques-un-homme-condamne-la-gendarmerie-met-fin-a-un-trafic-de-stupefiants-en-aveyron-13654842.php
+    publisher: Centre Presse Aveyron
+    date: 2026-11-16
+    language: fr
 open_questions:
   - No separate date for the arrest, seizure or hearing was given; 16 November 2026 is the article's publication date and stands in for the incident date.
   - The suspect was not named and no age or other identifying detail was published.
@@ -81,13 +86,13 @@ open_questions:
 
 In the rural outskirts of Rodez in Aveyron, gendarmes ended a cannabis
 trafficking operation after investigations based on field intelligence,
-neighbour accounts and an enquiry. [@1,3] The operation was carried out at La Loubière by gendarmes of the Espalion company. [@2] A cannabis producer-seller was arrested
+neighbour accounts and an enquiry. [@1,3] The operation was carried out at La Loubière by gendarmes of the Espalion company. [@2,4] A cannabis producer-seller was arrested
 and then sentenced to a prison term for the operation. [@1,3]
 
-The investigation uncovered a cannabis cultivation near the suspect's home. [@1,2,3]
-Officers seized a total of 6 kg of cannabis herb in the case. [@1,2,3]
+The investigation uncovered a cannabis cultivation near the suspect's home. [@1,2,3,4]
+Officers seized a total of 6 kg of cannabis herb in the case. [@1,2,3,4]
 
 The Rodez judicial court sentenced the defendant to 18 months' imprisonment,
-including 6 months to be served under an electronic bracelet. [@1,2,3] The sentence
-included work and treatment obligations. [@1,2,3] The court also ordered the
-confiscation of 13,325 euros. [@1,2,3]
+including 6 months to be served under an electronic bracelet. [@1,2,3,4] The sentence
+included work and treatment obligations. [@1,2,3,4] The court also ordered the
+confiscation of 13,325 euros. [@1,2,3,4]
