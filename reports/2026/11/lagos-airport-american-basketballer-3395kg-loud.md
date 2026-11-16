@@ -70,6 +70,11 @@ sources:
     url: https://bizwatchnigeria.ng/ndlea-arrests-us-basketball-player-with-33-95kg-cannabis-at-lagos-airport/
     publisher: BizWatchNigeria.Ng
     date: 2026-11-15
+  - title: Sulaikytas amerikietis krepšininkas, gabenęs kanapes - Delfi
+    url: https://www.delfi.lt/naujienos/uzsienyje/sulaikytas-amerikietis-krepsininkas-gabenes-dideli-kieki-kanapiu-120334334
+    publisher: Delfi
+    date: 2026-11-15
+    language: lt
 open_questions:
   - No laboratory confirmation for the 33.95kg described as Loud was reported.
   - No charge, plea or court outcome was reported; the case was at the investigation stage.
@@ -82,12 +87,12 @@ open_questions:
 NDLEA operatives at Murtala Muhammed International Airport in Lagos intercepted
 28-year-old American citizen Greene Da’monte Khiree on Wednesday 11 November
 2026 after he arrived aboard an Emirates Airline flight from Thailand via Dubai.
-[@1,3,4,5,6,7] The suspect had been placed under discreet surveillance on credible
+[@1,3,4,5,6,7,9] The suspect had been placed under discreet surveillance on credible
 intelligence and was observed abandoning his two checked-in bags to leave the
 airport with only his carry-on luggage. [@1,4,6,7] He was promptly apprehended at the
 airport car park. [@1,3,4,5,6,7,8] A second account confirms NDLEA arrested the American
 professional basketball player after discovering 32 parcels of Loud in his
-luggage at the same Lagos airport. [@2]
+luggage at the same Lagos airport. [@2,9]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
