@@ -61,31 +61,37 @@ sources:
     publisher: News4Nation
     date: 2026-11-16
     language: hi
+  - title: 'Bagaha News: कार से 42.584 किलो गांजा के साथ तस्कर गिरफ्तार, Bagaha Hindi News - Hindustan'
+    url: https://www.livehindustan.com/bihar/bagaha/story-lauriya-police-seize-42-584-kg-of-cannabis-arrest-car-owner-201794842547121.html
+    publisher: Live Hindustan
+    date: 2026-11-16
+    language: hi
 open_questions:
-  - Two accounts place the vehicle check on Sunday evening while one dates it to Monday; 15 November 2026, the Sunday before the 16 November publications, is used as the incident date.
-  - No seizure value, weighing record beyond the reported total, or laboratory confirmation was published.
-  - No court outcome, detention measure or plea was reported; the case was at the investigation stage with an NDPS FIR being registered.
-  - One account calls the accused the car owner-cum-driver while the others call him the driver; the report uses driver.
-  - The same News4Nation page also reports a half-burnt woman's body found at Vishunpurwa marsh; that is a separate event left out of this report.
+    - Two accounts place the vehicle check on Sunday evening while one dates it to Monday; 15 November 2026, the Sunday before the 16 November publications, is used as the incident date.
+    - No seizure value, weighing record beyond the reported total, or laboratory confirmation was published.
+    - No court outcome, detention measure or plea was reported; the case was at the investigation stage with an NDPS FIR being registered.
+    - One account calls the accused the car owner-cum-driver while the others call him the driver; the report uses driver.
+    - The same News4Nation page also reports a half-burnt woman's body found at Vishunpurwa marsh; that is a separate event left out of this report.
+    - The new Live Hindustan account gives the accused's age as 30 while another account gives 32.
+    - The new account attributes the details to in-charge station head Priya Ranjana while another names station house officer Indrajeet Paswan, and it calls the checkpoint Sikarhana bridge while the other accounts call it Matiyariya bridge or crossing.
 ---
 
 Police seized 42.584 kg of ganja from a Renault car near Matiyariya bridge in
 Lauriya police station area on Sunday evening and arrested the car's driver.
-[@1] The arrested driver was identified as 32-year-old Ajit Kumar, son of
-Harendra Mahato of Kukra Chanpatia in Shikarpur police station area. [@2]
+[@1,4] The arrested driver was identified as 32-year-old Ajit Kumar, son of
+Harendra Mahato of Kukra Chanpatia in Shikarpur police station area. [@2,4]
 
 Lauriya police were conducting a vehicle check near Matiyariya crossing when
 officers signalled a suspicious car approaching from the Narkatiaganj side to
 stop. [@3] The driver sped away instead of stopping, the speeding car went out
 of control and hit a roadside tree, and police caught driver-cum-owner Ajit
-Kumar at the spot after a chase. [@3] A search of the crashed car found several
-packets of ganja hidden inside. [@2] The seized material was searched and
+Kumar at the spot after a chase. [@3,4] A search of the crashed car found several
+packets of ganja hidden inside. [@2] Police also recovered a mobile phone from the accused. [@4] A search of the car's dickey found 4 bundles of ganja hidden inside. [@4] The seized material was searched and
 weighed in the presence of CO-cum-magistrate Ashu Ranjan, giving a total of 42
-kg 584 grams of ganja. [@3]
+kg 584 grams of ganja. [@3,4]
 
 Police took the ganja and the vehicle into custody and handed them to Lauriya
 police station, with further legal proceedings under way. [@3] Lauriya station
 house officer Indrajeet Paswan said an FIR was being registered against the
 accused under the NDPS Act and police were questioning him to trace where the
 consignment came from and where it was to be sold. [@2]
-
