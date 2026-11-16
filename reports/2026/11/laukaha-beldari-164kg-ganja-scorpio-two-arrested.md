@@ -48,6 +48,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/14/4d5cc94c-440f-46f2-bdb0-c54d7198d6e0_1794668883214.jpg
     publisher: Dainik Bhaskar
     caption: Police and SSB with the Scorpio-N from which 164.400 kg of ganja was seized near Beldari village.
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/bihar/madhubani/indo-nepal-border-ganja-seized-smugglers-arrested
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/15/1794720195431/sizes/15mad_m_1_15112026_61-81509b-hero.webp
+    publisher: Prabhat Khabar
+    caption: 'Arrested smugglers with the seized ganja. Photo: Prabhat Khabar Network'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 50e2dd0d43bcb475b6727ac23d2a0460
@@ -83,30 +88,37 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-15
     language: hi
+  - title: 'मधुबनी: 82 लाख का गांजा जब्त, 2 तस्कर गिरफ्तार'
+    url: https://www.prabhatkhabar.com/state/bihar/madhubani/indo-nepal-border-ganja-seized-smugglers-arrested
+    publisher: Prabhat Khabar
+    date: 2026-11-15
+    language: hi
 open_questions:
     - No court outcome or plea was reported beyond the accused being sent to judicial custody under the NDPS Act; the case remains at the investigation stage with questioning under way.
     - The accused Dhiraj Kumar shares a given name with Laukaha station house officer Dheeraj Kumar; the reports distinguish them by role.
     - Hindustan calls the Fulparas briefing officer DSP Amit Kumar while Dainik Bhaskar calls him SDPO Amit Kumar; both accounts place him at the same press conference.
+    - Prabhat Khabar values the 164.4 kg seizure at 8,220,000 rupees while Hindustan valued it at about 250,000 rupees.
+    - Prabhat Khabar attributes the account to SSP Yogendra Kumar while earlier accounts named Fulparas DSP/SDPO Amit Kumar as the briefing officer.
 ---
 
 Laukaha police and SSB seized 164.400 kg of ganja from a Scorpio-N near Beldari
-village on Saturday morning and arrested the two occupants. [@2,3,4,5,6] The two men got
+village on Saturday morning and arrested the two occupants. [@2,3,4,5,6,7] The two men got
 out and tried to flee when the Scorpio-N heading toward the Balan river was
 signalled to stop near the bridge in front of Beldari village at about 8:10 in
-the morning, but the joint team chased and caught them. [@2] The arrested men
+the morning, but the joint team chased and caught them. [@2,7] The arrested men
 were identified as 29-year-old Dhiraj Kumar of Bhagwatpur in Sarairanjan,
-Samastipur district and 20-year-old Bobby Kumar of Niksapur in Tajpur. [@2,4,6]
+Samastipur district and 20-year-old Bobby Kumar of Niksapur in Tajpur. [@2,4,6,7]
 
 Officers searching the vehicle in the presence of independent witnesses found
-the ganja hidden in plastic sacks. [@2,3] Police prepared a seizure list and
+the ganja hidden in plastic sacks. [@2,3] The 164.4 kg of ganja-like substance was found in nine sacks and bundles hidden under the middle seat and in the rear part of the Scorpio. [@7] Police prepared a seizure list and
 seized the ganja together with the vehicle and two mobile phones. [@2,6] Laukaha
 station house officer Dheeraj Kumar said a total of 164.400 kg of ganja was
 caught from the four-wheeler and both smugglers were taken into custody. [@1] Hindustan reported that the seized ganja was estimated to have a market value of about 250,000 rupees. [@4,5,6] The information was given by Fulparas DSP Amit Kumar at a press conference held in Fulparas. [@6] Deshaj Times attributed the market-value estimate to police. [@5] A
-case was registered at Laukaha police station under the NDPS Act. [@2,3] Both accused were sent to judicial custody after the FIR was registered at Laukaha police station under the NDPS Act. [@6]
+case was registered at Laukaha police station under the NDPS Act. [@2,3] Laukha police station registered case number 270/26 in the matter. [@7] Both accused were sent to judicial custody after the FIR was registered at Laukaha police station under the NDPS Act. [@6,7]
 
 Acting on a late-Friday-night tip that a consignment would be brought from Nepal
 via the Balan river embankment through Beldari village, senior officers directed
 a team under station house officer Dhiraj Kumar with Sub-Inspector Vikesh Kumar
-alongside SSB Assistant Commandant Gurdeep Singh and personnel. [@2] Police are
+alongside SSB Assistant Commandant Gurdeep Singh and personnel. [@2] The Laukha station house officer received the tip at about 1 am on the night of 14 November that a large consignment would be brought from Nepal through Beldari village via the Balan river basin. [@7] Police are
 questioning the arrested men to trace where the consignment came from, where it
-was to be delivered and who else belongs to the smuggling network. [@1]
+was to be delivered and who else belongs to the smuggling network. [@1] The arrested men told police they had loaded the consignment in Nepal and were taking it via Phulparas and Jhanjharpur to Zero Mile in Begusarai. [@7]
