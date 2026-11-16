@@ -56,18 +56,16 @@ sources:
     url: https://www.newswire.lk/2026/11/16/kush-landing-three-arrested-at-katunayake-airport/
     publisher: Newswire
     date: 2026-11-16
-open_questions:
-    - The Kush was described as concealed in luggage and as suspected narcotics; no laboratory confirmation was reported.
-    - The two further suspects were due to be produced before the Negombo Magistrate's Court with detention orders sought, but no charge, detention outcome or court result was reported.
-    - The full operation involved three seizures totalling 13.048 kilograms valued at about Rs. 130.5 million, while this report's figures cover only the 4.384 kg Customs component.
-    - The third suspect's residence is spelled Nedunkerny in one account and Nedunkeni in others.
+  - title: Three Arrested with Over 12Kg of Kush at BIA
+    url: https://www.newsfirst.lk/2026/11/16/three-arrested-with-over-12kg-of-kush-at-bia
+    publisher: News First
 ---
 
 Customs officers arrested a Sri Lankan passenger at the Bandaranaike
 International Airport earlier in the morning of 16 November 2026 while he was
 attempting to smuggle a consignment of the narcotic substance Kush through the
-airport. [@1] The suspect is a 30-year-old technician residing in the Matale
-area. [@1,2] He had reportedly bought the Kush in Thailand, travelled to Kuala
+airport. [@1,4] The suspect is a 30-year-old technician residing in the Matale
+area. [@1,2,4] He had reportedly bought the Kush in Thailand, travelled to Kuala
 Lumpur in Malaysia, and arrived at Katunayake Airport at around midnight on
 Malaysia Airlines flight MH179. [@1]
 
@@ -80,4 +78,4 @@ rupees. [@1]
 The passenger had tried to leave the airport through the Green Channel, the lane
 for passengers with nothing to declare. [@1] The suspect and the seized Kush
 were handed over to officers of the Airport Police Narcotics Bureau for further
-investigation. [@1,3] The two further suspects had arrived on Malaysia Airlines flight MH179 at around midnight, like the Matale passenger. [@2] Police identified the two other suspects as a 35-year-old welder from Nedunkeni and a 46-year-old businessman from Kandy. [@2] The three seizures together amount to a combined total of 13.048 kilograms of Kush. [@3] In the same early-morning operation, Police Narcotics Bureau Airport Unit officers arrested two further suspects at the arrivals terminal with 4.336 kilograms and 4.328 kilograms of Kush respectively. [@3]
+investigation. [@1,3] The two further suspects had arrived on Malaysia Airlines flight MH179 at around midnight, like the Matale passenger. [@2] Police identified the two other suspects as a 35-year-old welder from Nedunkeni and a 46-year-old businessman from Kandy. [@2] The three seizures together amount to a combined total of 13.048 kilograms of Kush. [@3] In the same early-morning operation, Police Narcotics Bureau Airport Unit officers arrested two further suspects at the arrivals terminal with 4.336 kilograms and 4.328 kilograms of Kush respectively. [@3,4]
