@@ -122,6 +122,11 @@ sources:
     publisher: Phapluatchinhsach.vn
     date: 2026-11-16
     language: vi
+  - title: Bắt đối tượng vận chuyển 6.000 viên ma túy vào Việt Nam bằng đường sông
+    url: https://tiengchuong.chinhphu.vn/bat-doi-tuong-van-chuyen-6000-vien-ma-tuy-vao-viet-nam-bang-duong-song-113261116090136481.htm
+    publisher: tiengchuong.chinhphu.vn
+    date: 2026-11-16
+    language: vi
 open_questions:
   - The page says eight people were proposed for prosecution for illegal transport but then names nine people in that group.
 ---
@@ -137,14 +142,14 @@ were split off earlier and tried on 26 June with prison terms of 7 to 22 years.
 The group moved cannabis from Thailand to Vietnam through the Cha Lo
 International Border Gate by hiding it in dried-longan baskets and hiring Thai
 transport company JPM to move containers mixed with fresh-longan baskets to
-evade controls. [@1,5,6,9] Each plastic basket held one to four vacuum-sealed bags of about 500 grams fixed under the basket with iron wire and covered with dried longans, with different-coloured lids marking different customers' goods. [@10] The container truck drivers did not know the longan baskets contained cannabis and were paid as for ordinary goods, so there was no basis to prosecute them. [@7] Thai national Óm instructed Phạm Việt Anh to pack cannabis into plastic fruit baskets, cover them with dried longans for concealment in containers sent to Vietnam by JPM transport company, and to have the containers sealed through Thai police contacts to avoid inspection en route. [@7] Transporters in Vietnam were paid 100 million dong per trip or 50 million dong per person per time. [@5] After three successful illegal transfers, in early 2025
+evade controls. [@1,5,6,9,11] Each plastic basket held one to four vacuum-sealed bags of about 500 grams fixed under the basket with iron wire and covered with dried longans, with different-coloured lids marking different customers' goods. [@10] The container truck drivers did not know the longan baskets contained cannabis and were paid as for ordinary goods, so there was no basis to prosecute them. [@7] Thai national Óm instructed Phạm Việt Anh to pack cannabis into plastic fruit baskets, cover them with dried longans for concealment in containers sent to Vietnam by JPM transport company, and to have the containers sealed through Thai police contacts to avoid inspection en route. [@7] Transporters in Vietnam were paid 100 million dong per trip or 50 million dong per person per time. [@5] After three successful illegal transfers, in early 2025
 Pham Viet Anh directed Tong Thanh Tung and Phung Minh Thuan to use prior
 transport proceeds to buy back a cannabis farm in Bangkok from Cham and Xom as a
 packing site, with Tung paying 500 million dong for it. [@4] The group also invested in a dried-longan drying workshop in Chiang Mai and moved the longans to the farm to disguise the cannabis before shipment to Vietnam. [@8,9,10] By this method the
 group succeeded 14 times, with Viet Anh held liable for 1.2 tons of cannabis and
 Nguyen Van Viet liable for the most, more than 1.8 tons. [@1,5,7,9,10] Tong Thanh Tung was held liable for 1.2 tons of cannabis with an illicit profit of 479 million dong. [@8] Investigators did not prosecute the defendants over that shipment because, based on the defendants’ statements, it occurred outside Vietnamese territory. [@7] When the truck reached the Laos–Vietnam border crossing, JPM found silver bags hidden in the dried-longan baskets and demanded the goods be returned. [@7] In about January 2025 Tống Thanh Tùng received 28.5 kg of cannabis from Tư, 81 kg from Vũ Quốc Dũng and 44 kg from Thuận, a total of 153.5 kg of cannabis. [@7] Investigators
 fixed Nguyen Van Viet’s total at 1,845.5 kg for 644 million dong profit and Pham
-Viet Anh’s at 1,263 kg for 160 million dong. [@3] At about 14:00 on 4 October
+Viet Anh’s at 1,263 kg for 160 million dong. [@3,11] At about 14:00 on 4 October
 2025 on Bo Song Set road in Hanoi, officers caught Le Hoang Anh and Nguyen Duc
 Huy red-handed with 136 bags of cannabis weighing nearly 68.8 kg in a car trunk.
 [@3] When investigators then searched a house rented by Nguyen Thuy Van, the
@@ -155,6 +160,6 @@ cannabis, with warehouse keepers receiving order information via Telegram and
 payments made mainly in USDT. [@3] The ringleaders recruited people with unstable jobs who regularly used drugs to serve as domestic cannabis warehouse keepers. [@9] In Vietnam the containers were unloaded in Hung Yen, the dried-longan baskets containing cannabis were transferred onto trucks for delivery to domestic warehouses, and the fresh longans without drugs were sold locally for making dried longan. [@5] Buyers and sellers communicated only via
 Telegram without meeting or knowing each other, with cannabis payments in USDT
 electronic money and deliveries through apps such as Be, Xanh SM, Viettelpost
-and Ahamove. [@1,5,9,10] At the time of the conclusion, four defendants including Tran
+and Ahamove. [@1,5,9,10,11] At the time of the conclusion, four defendants including Tran
 The Thang, Phung Minh Thuan, Nguyen Van Tan and Do Van Thai were wanted but had
 not been arrested. [@3]
