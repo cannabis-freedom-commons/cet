@@ -51,6 +51,11 @@ media:
     media_url: https://en.philenews.com/wp-content/uploads/2026/11/narkotika-1.jpg
     publisher: Philenews
     caption: Packages of cannabis found in the traveller's luggage at Larnaca airport, in a photo published with the report on the 18.5 kg seizure.
+  - kind: photo
+    url: https://www.politis.com.cy/astynomiko/1069463/me-valitsa-ghemati-kannavi-eftase-stin-kypro-24khronos-kataskhethikan-185-kila-sto-aerodromio-larnakas-fwtos
+    media_url: https://cdn.politis.com.cy/uploads/560970/nark_1_1.jpg
+    publisher: Politis
+    caption: Packages of cannabis found in the traveller's luggage at Larnaca airport, in photos published with the report on the 18.5 kg seizure.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 82dff54e6dda6c2faebaaee6f44ca29d
@@ -73,6 +78,11 @@ sources:
     publisher: Cyprus Police News
     date: 2026-11-16
     language: el
+  - title: Με βαλίτσα γεμάτη κάνναβη έφτασε στην Κύπρο 24χρονος – Κατασχέθηκαν 18,5 κιλά στο Αεροδρόμιο Λάρνακας (φώτος)
+    url: https://www.politis.com.cy/astynomiko/1069463/me-valitsa-ghemati-kannavi-eftase-stin-kypro-24khronos-kataskhethikan-185-kila-sto-aerodromio-larnakas-fwtos
+    publisher: ΠΟΛΙΤΗΣ - Τα λέει όλα
+    date: 2026-11-16
+    language: el
 open_questions:
   - Only the Cyprus Mail gives the passenger's nationality and the Bangkok-via-Doha routing; the other accounts describe arrival from a non-EU or third country.
   - No remand hearing, charge or court outcome has been reported; the case stands at the investigation stage.
@@ -81,16 +91,16 @@ open_questions:
 
 A 24-year-old man was arrested at Larnaca airport on Monday morning after about
 18.5 kilograms of cannabis were found in his luggage on his arrival from a
-non-EU country. [@1] The Cyprus Mail described the 24-year-old as a British
+non-EU country. [@1,5] The Cyprus Mail described the 24-year-old as a British
 national. [@2] It reported that he had arrived at Larnaca from Bangkok by way of
 Doha. [@2] He was arrested on the spot for illegal import, illegal possession
-and possession of drugs with intent to supply. [@1,4]
+and possession of drugs with intent to supply. [@1,4,5]
 
 Acting on information evaluated by the Directorate for Combating Organised Crime
 (DAOE) and the Anti-Drugs Unit (YKAN), a customs officer stopped the man for a
-check at the request of a YKAN officer. [@1,4] A search of his travel bag found 34
+check at the request of a YKAN officer. [@1,4,5] A search of his travel bag found 34
 plastic packages containing cannabis with a total weight of about 18.5
-kilograms. [@1,4] Members of DAOE-YKAN, in cooperation with the customs
+kilograms. [@1,4,5] Members of DAOE-YKAN, in cooperation with the customs
 authorities, found and seized approximately 18.5 kilos of cannabis at Larnaca
 airport on 16 November 2026. [@3,4] The same account said the offences were
 treated as committed in flagrante delicto. [@3] DAOE and YKAN are continuing
