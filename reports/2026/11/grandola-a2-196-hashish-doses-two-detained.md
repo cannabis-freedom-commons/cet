@@ -48,22 +48,27 @@ sources:
     publisher: CNN Portugal
     date: 2026-11-15
     language: pt
+  - title: 'Fiscalização na A2 revela carga invulgar: 270 jerricãs, haxixe e dois detidos'
+    url: https://sapo.pt/artigo/fiscalizacao-na-a2-revela-carga-invulgar-270-jerricas-haxixe-e-dois-detidos-6af9fe2c56a09239b4131457
+    publisher: SAPO
+    date: 2026-11-15
+    language: pt
 ---
 
 Officers of the GNR National Traffic Unit and the Setúbal Traffic Detachment
 intercepted a Spanish-registered vehicle at kilometre 120 of the A2 motorway in
-Grândola at about 23:30 on Saturday 14 November. [@1,2] The car's two occupants, a
+Grândola at about 23:30 on Saturday 14 November. [@1,2,3] The car's two occupants, a
 23-year-old man and a 31-year-old woman, were detained and made arguidos, formal
-suspects under Portuguese procedure. [@1,2] Both remained detained until a first
+suspects under Portuguese procedure. [@1,2,3] Both remained detained until a first
 judicial interrogation set for 10h00 on Monday 16 November to set coercion
-measures. [@1]
+measures. [@1,3]
 
 During the police follow-up officers found 196 doses of hashish, 600 cigarettes
 in 30 packs, 20 torch-type lighters, six boxes of lighter refills and six
-mobile-phone chargers. [@1,2] The GNR seized 270 petrol jerricans of 25 litres
-each during the Saturday 14 November road-traffic operation. [@1,2] The report
+mobile-phone chargers. [@1,2,3] The GNR seized 270 petrol jerricans of 25 litres
+each during the Saturday 14 November road-traffic operation. [@1,2,3] The report
 puts the total fuel load at 6,750 litres in the same vehicle on the A2 at
-Grândola. [@1] The light vehicle used by the suspects was also seized. [@1]
+Grândola. [@1,3] The light vehicle used by the suspects was also seized. [@1,3]
 
 The GNR said petrol is highly flammable and moving large quantities must
 strictly follow dangerous-goods rules. [@1] It warned that an accident, spill or
