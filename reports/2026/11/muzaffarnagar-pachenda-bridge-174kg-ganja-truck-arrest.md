@@ -85,6 +85,11 @@ sources:
     publisher: हिन्दुस्तान
     date: 2026-11-15
     language: hi
+  - title: Muzaffarnagar News:एक करोड़ का गांजा बरामद, ट्रक चालक गिरफ्तार - Cannabis Worth One Crore Seized; Truck Driver Arrested - Muzaffarnagar News
+    url: https://www.amarujala.com/uttar-pradesh/muzaffarnagar/cannabis-worth-one-crore-seized-truck-driver-arrested-muzaffarnagar-news-c-29-1-mng1005-185219-2026-11-15
+    publisher: Amar Ujala
+    date: 2026-11-15
+    language: hi
 open_questions:
   - Amar Ujala reports the truck owner and one more accused as absconding, while the other two accounts name only the owner Asif as absconding.
   - The value of about one crore rupees is a police estimate, not a measured sale figure.
@@ -95,18 +100,18 @@ open_questions:
 Acting on a tip-off on 14 November, New Mandi police stopped a truck coming from
 the Meerut side at a highway check near Pachenda bridge and seized 174 kilograms
 of ganja hidden in the truck, arresting the driver. [@1,5] Police put the
-estimated value of the seized ganja at about one crore rupees. [@1,4,6] Police also
+estimated value of the seized ganja at about one crore rupees. [@1,4,6,7] Police also
 seized the truck used in the smuggling, registered number HR73A9532. [@1]
 
 The arrested driver told police he is Rahees, son of Nazeer Ahmad, a truck
 driver from Bhaiserhedi village under Chhapar police station. [@1] He said the
 ganja was bought cheaply in Visakhapatnam, Andhra Pradesh, and hidden in the
-truck on the return trip. [@1,4,5,6] After bringing the ganja to Muzaffarnagar, it was
+truck on the return trip. [@1,4,5,6,7] After bringing the ganja to Muzaffarnagar, it was
 supplied at higher prices in Muzaffarnagar, Shamli, Roorkee, Dehradun and nearby
-districts. [@1,4,6]
+districts. [@1,4,6,7]
 
 The truck owner Asif, accused of involvement in the smuggling, is absconding,
-and police teams are searching for him. [@1,5] According to the driver's account to police, the truck owner had travelled with him but got out on the way, saying he would meet him further ahead. [@5] Police registered case number
+and police teams are searching for him. [@1,5] According to the driver's account to police, the truck owner had travelled with him but got out on the way, saying he would meet him further ahead. [@5,7] Police registered case number
 533/2026 at New Mandi police station under sections 8/20/29/60 of the NDPS Act.
 [@1] City superintendent of police Amrit Jain said the action was carried out
 under Operation Savera against narcotics trafficking in the district. [@1]
@@ -118,7 +123,7 @@ ETV Bharat confirmed that police seized the truck and that the truck owner Asif
 is absconding. [@2]
 
 Amar Ujala likewise reported that New Mandi Kotwali police recovered 174 kilos
-of ganja in the action. [@3]
+of ganja in the action. [@3,7]
 
 Amar Ujala reported the truck driver was arrested while the truck owner and one
-more accused involved in the smuggling are being sought. [@3]
+more accused involved in the smuggling are being sought. [@3,7]
