@@ -34,24 +34,23 @@ sources:
   - title: Nottingham man banned for drug-driving on M6 for 12 months
     url: https://www.newsandstar.co.uk/news/26720686.nottingham-man-banned-drug-driving-m6-12-months/
     publisher: News and Star
-open_questions:
-  - No arrest date, stop circumstances or roadside test details were reported beyond the June 6 offence and November 10 hearing.
-  - No cannabis was seized by weight in this case; the evidence was the blood THC reading of 8.6 micrograms per litre.
-  - Only the News and Star account and its round-up reprint were opened; no police statement or further independent account was found.
+  - title: Drivers face court over drug, drink and dangerous driving | The Mail
+    url: https://www.nwemail.co.uk/news/26730132.drivers-face-court-drug-drink-dangerous-driving/
+    publisher: The Mail
+    date: 2026-11-15
 ---
 
 Mohammed Moeen, 28, of Colville Street in Nottingham, appeared at Carlisle
 Magistrates' Court on Tuesday, November 10 over drug-driving on the M6. [@2] He
 admitted driving a VW Golf northbound on the M6 between junctions 41 and 42 on
 June 6, 2026, while the level of delta-9-tetrahydrocannabinol, known as THC, in
-his blood was above the legal limit. [@2] His case was included in a November
+his blood was above the legal limit. [@2,3] His case was included in a November
 round-up of motorists who appeared before courts in Carlisle and Workington this
 month for drug-driving, drink-driving, dangerous driving and uninsured driving.
 [@1]
 
 His blood contained 8.6 micrograms of THC per litre, more than four times the
-specified limit of 2 micrograms per litre. [@2] Moeen entered a guilty plea,
+specified limit of 2 micrograms per litre. [@2,3] Moeen entered a guilty plea,
 which the court took into account when passing sentence. [@2] The 28-year-old
-was disqualified from driving for 12 months and fined £370. [@2] He must also
+was disqualified from driving for 12 months and fined £370. [@2,3] He must also
 pay £85 to the Crown Prosecution Service in costs and a £148 surcharge. [@2]
-
