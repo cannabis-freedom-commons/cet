@@ -15,6 +15,13 @@ try { loadEnvFile(new URL("../.env", import.meta.url)); }
 catch (error) { if (error.code !== "ENOENT") throw error; }
 const checkout = fileURLToPath(new URL("..", import.meta.url));
 const env = { ...process.env };
+// `npm run worker AGENTS="swancloud/muse-spark-1.3-contributor#xhigh:4,nvidia/…#max:1"` (or
+// --agents=…) sets RESEARCH_AGENTS for this run: comma-separated "model:workers"
+const args = process.argv.slice(2).filter((arg) => {
+  const agents = arg.match(/^(?:AGENTS|--agents)=(.+)$/s);
+  if (agents) env.RESEARCH_AGENTS = agents[1];
+  return !agents;
+});
 env.TRACKER_URL ||= "https://tracker-api.cannabisfreedom.fyi";
 env.RESEARCH_RUNNER ||= "local";
 env.REPO_FOLLOW ??= "submissions";
@@ -31,7 +38,7 @@ if (!existsSync(`${env.REPO_PATH}/.git`)) {
   mkdirSync(dirname(env.REPO_PATH), { recursive: true });
   execFileSync("git", ["clone", "--quiet", "--reference", checkout, "--dissociate", origin, env.REPO_PATH], { stdio: "inherit" });
 }
-const child = spawn("go", ["run", "./cmd/tracker-worker", ...process.argv.slice(2)], { cwd: fileURLToPath(new URL("../backend/", import.meta.url)), env, stdio: "inherit" });
+const child = spawn("go", ["run", "./cmd/tracker-worker", ...args], { cwd: fileURLToPath(new URL("../backend/", import.meta.url)), env, stdio: "inherit" });
 child.on("error", () => { console.error("Could not start the worker. Check that Go is installed."); process.exitCode = 1; });
 child.on("exit", (code, signal) => { process.exitCode = signal ? 0 : code ?? 1; });
 for (const signal of ["SIGINT", "SIGTERM"]) process.on(signal, () => child.kill(signal));

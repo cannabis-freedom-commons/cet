@@ -194,6 +194,16 @@ and its saved credentials. It researches against a clone of its own, `backend/da
 the `submissions` branch, so it sees the reports still waiting to go to `main` and does not
 research them again. Your checkout is never touched. `npm run worker -- -check-ai` tests the
 models and exits.
+
+To choose the models for one run, without editing `.env`, give them in the short form,
+comma-separated `model:workers` (one worker without a number):
+
+```bash
+npm run worker AGENTS="swancloud/muse-spark-1.3-contributor#xhigh:4,nvidia/stepfun-ai/step-5-preview#max:1"
+```
+
+A model may name its runtime in front, `opencode@provider/model`; OpenCode is the default and,
+so far, the only one. `RESEARCH_AGENTS` in `.env` takes the same short form as well as JSON.
 The status on the request pages says "Research workers: home" once it is connected.
 
 ## 8. Point the site at it

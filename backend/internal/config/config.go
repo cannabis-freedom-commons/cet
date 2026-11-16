@@ -175,19 +175,32 @@ func Load() (Config, error) {
 		return c, errors.New("invalid AUTO_PUBLISH")
 	}
 	if raw := strings.TrimSpace(os.Getenv("RESEARCH_AGENTS")); raw != "" {
-		decoder := json.NewDecoder(strings.NewReader(raw))
-		decoder.DisallowUnknownFields()
-		if err := decoder.Decode(&c.ResearchAgents); err != nil {
-			return c, fmt.Errorf("invalid RESEARCH_AGENTS: %w", err)
-		}
-		if err := decoder.Decode(new(any)); err != io.EOF {
-			return c, errors.New("RESEARCH_AGENTS must contain one JSON array")
+		if strings.HasPrefix(raw, "[") || strings.HasPrefix(raw, "{") || raw == "null" {
+			decoder := json.NewDecoder(strings.NewReader(raw))
+			decoder.DisallowUnknownFields()
+			if err := decoder.Decode(&c.ResearchAgents); err != nil {
+				return c, fmt.Errorf("invalid RESEARCH_AGENTS: %w", err)
+			}
+			if err := decoder.Decode(new(any)); err != io.EOF {
+				return c, errors.New("RESEARCH_AGENTS must contain one JSON array")
+			}
+		} else {
+			var err error
+			if c.ResearchAgents, err = parseShortAgents(raw); err != nil {
+				return c, err
+			}
 		}
 		if len(c.ResearchAgents) == 0 || len(c.ResearchAgents) > 16 {
 			return c, errors.New("RESEARCH_AGENTS must contain 1 to 16 agents")
 		}
 		seen := map[string]bool{}
-		for _, agent := range c.ResearchAgents {
+		for i, agent := range c.ResearchAgents {
+			model, err := agentRuntime(agent.Model)
+			if err != nil {
+				return c, err
+			}
+			agent.Model = model
+			c.ResearchAgents[i].Model = model
 			if !regexp.MustCompile(`^[A-Za-z0-9_.-]+/[A-Za-z0-9_./:-]+(?:#[A-Za-z0-9_.-]+)?$`).MatchString(agent.Model) || seen[agent.Model] {
 				return c, errors.New("RESEARCH_AGENTS requires unique provider/model identifiers (optionally #effort)")
 			}
@@ -377,6 +390,39 @@ func (c Config) Remote() bool { return c.ResearchMode == "remote" }
 
 func (c Config) ResearchEnabled() bool {
 	return len(c.Agents()) > 0 && (c.ResearchRunner == "local" || (c.ResearchImage != "" && c.ResearchKey != ""))
+}
+
+// parseShortAgents reads the short form of RESEARCH_AGENTS: comma-separated "model:workers",
+// "swancloud/muse-spark-1.3-contributor#xhigh:4,nvidia/stepfun-ai/step-5-preview#max:1"; without
+// ":workers" an agent gets one.
+func parseShortAgents(raw string) ([]ResearchAgent, error) {
+	var agents []ResearchAgent
+	for _, item := range strings.Split(raw, ",") {
+		item = strings.TrimSpace(item)
+		if item == "" {
+			continue
+		}
+		agent := ResearchAgent{Model: item, MaxWorkers: 1}
+		if i := strings.LastIndex(item, ":"); i > 0 && regexp.MustCompile(`^\d+$`).MatchString(item[i+1:]) {
+			agent.Model = item[:i]
+			agent.MaxWorkers, _ = strconv.Atoi(item[i+1:])
+		}
+		agents = append(agents, agent)
+	}
+	return agents, nil
+}
+
+// agentRuntime takes the runtime off an agent's model: "opencode@provider/model" (or just
+// "provider/model") runs on OpenCode, the only runtime there is so far.
+func agentRuntime(model string) (string, error) {
+	runtime, rest, found := strings.Cut(model, "@")
+	if !found {
+		return model, nil
+	}
+	if runtime != "opencode" {
+		return "", fmt.Errorf("RESEARCH_AGENTS: unknown runtime %q in %q; only opencode@ is supported so far", runtime, model)
+	}
+	return rest, nil
 }
 
 // Agents normalizes legacy single-model settings. RESEARCH_AGENTS takes precedence.
