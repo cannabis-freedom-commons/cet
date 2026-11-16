@@ -36,6 +36,10 @@ sources:
     url: https://www.msn.com/en-gb/news/other/drugs-raid-at-derbyshire-property-saw-police-uncover-incredibly-dangerous-cannabis-grow/ar-AA2hx69X
     publisher: Derbyshire Times (via MSN)
     date: 2026-11-16
+  - title: Drugs raid at Derbyshire property saw police uncover “incredibly dangerous” cannabis grow
+    url: https://www.derbyshiretimes.co.uk/news/langley-mill-drugs-raid-9352672
+    publisher: Derbyshire Times
+    date: 2026-11-16
 open_questions:
   - No separate date was given for the raid; 16 November 2026 is the publication date and stands in for the incident date.
   - No arrest, charge, suspect description or court outcome was reported.
@@ -44,16 +48,15 @@ open_questions:
 ---
 
 Officers from the Heanor and Langley Mill Safer Neighbourhood Team uncovered a
-cannabis grow at a property in Langley Mill, Derbyshire. [@1] Police seized 70
-cannabis plants at the address in Derbyshire. [@1] The raid followed concerns
-raised by local residents about activity at the address. [@1]
+cannabis grow at a property in Langley Mill, Derbyshire. [@1,2] Police seized 70
+cannabis plants at the address in Derbyshire. [@1,2] The raid followed concerns
+raised by local residents about activity at the address. [@1,2]
 
 The growers had bypassed the electricity supply, sending a high amount of
-electricity through the property unsafely. [@1] Police said the setup created a
+electricity through the property unsafely. [@1,2] Police said the setup created a
 huge fire risk that put adjoining residents, including children and families, at
-risk. [@1] Officers said they had seen cannabis grows go up in flames and spread
+risk. [@1,2] Officers said they had seen cannabis grows go up in flames and spread
 incredibly fast many times before. [@1]
 
 Police urged people not to grow cannabis and to report anything suspicious or
 concerning. [@1]
-
