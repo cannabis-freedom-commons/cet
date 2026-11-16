@@ -88,6 +88,11 @@ sources:
     publisher: Portal ABC do ABC
     date: 2026-11-15
     language: pt
+  - title: Quase uma tonelada de maconha é apreendida na Raposo Tavares, em Itapetininga
+    url: https://www.cruzeirofm.com.br/2026/11/15/destaque/quase-uma-tonelada-de-maconha-e-apreendida-na-raposo-tavares-em-itapetininga/
+    publisher: Cruzeiro FM
+    date: 2026-11-15
+    language: pt
 open_questions:
     - 'No exact weight was published: one account says almost one tonne and the new account says about 995 kg in about 587 bricks and 22 bales, so 1,000 kg is stored as the supported approximate figure.'
     - The value is stated only as almost R$2 million, not an exact appraisal.
@@ -96,15 +101,15 @@ open_questions:
     - Both accounts reproduce the highway police account, so they are not fully independent reporting.
 ---
 
-Highway police arrested the truck driver in flagrante. [@1,2,3,4,6] The driver was 25 years old. [@3,6] Officers took the
+Highway police arrested the truck driver in flagrante. [@1,2,3,4,6,7] The driver was 25 years old. [@3,6,7] Officers took the
 driver to the Civil Police station in Itapetininga, where he was booked for drug
 trafficking. [@1,2,3,4,6] The driver said he received the loaded vehicle in Maringá and was offered payment to carry a load described as refrigerator and air-conditioning parts to a company in the Brás district of São Paulo. [@3]
 
 Officers seized almost one tonne of marijuana from the truck on Saturday 14
-November on the Raposo Tavares highway (SP-270) in Itapetininga. [@1,2,3,4,5] Officers also seized the truck, a cell phone and R$395. [@3,6] Officers found about 587 bricks and 22 bales of marijuana in the cargo compartment. [@3,6] The
+November on the Raposo Tavares highway (SP-270) in Itapetininga. [@1,2,3,4,5,7] Officers also seized the truck, a cell phone and R$395. [@3,6] Officers found about 587 bricks and 22 bales of marijuana in the cargo compartment. [@3,6,7] The
 highway police valued the load at almost R$2 million. [@1,2,4]
 
 Officers of the Tático Ostensivo Rodoviário of the 5th Highway Police Battalion
 seized the load at kilometre 167 of the highway. [@1,2,3,4,5] During an inspection the
 driver gave contradictory information, which prompted officers to search the
-cargo. [@1,3,4] The truck's identification plate was folded. [@3] The stopped truck bore Campo Grande (MS) plates. [@6] The tablets were hidden in the truck's cargo compartment. [@2,4,5]
+cargo. [@1,3,4,7] The truck's identification plate was folded. [@3] The stopped truck bore Campo Grande (MS) plates. [@6] The tablets were hidden in the truck's cargo compartment. [@2,4,5]
