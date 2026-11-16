@@ -55,20 +55,30 @@ sources:
     publisher: AlCaPreNews
     date: 2026-11-13
     language: pt
+  - title: 2º BAEP apreende quase 10 quilos de maconha em imóvel utilizado para armazenar drogas em Santos
+    url: https://portaldenoticias.policiamilitar.sp.gov.br/2o-baep-apreende-quase-10-quilos-de-maconha-em-imovel-utilizado-para-armazenar-drogas-em-santos/
+    publisher: Portal de Notícias da PMESP
+    date: 2026-11-15
+    language: pt
+  - title: Polícia Militar apreende quase 10 quilos de maconha e prende homem em Santos
+    url: https://fatopaulista.com.br/maconha-baep-apreende-drogas-em-santos/
+    publisher: Fato Paulista
+    date: 2026-11-15
+    language: pt
 open_questions:
   - The suspect's name was not published in the consulted sources.
 ---
 
 Military police arrested a man in flagrante after seizing almost 10 kg of
-marijuana in a residence in Caneleira, Santos. [@1] The incident was recorded on
+marijuana in a residence in Caneleira, Santos. [@1,3] The incident was recorded on
 Monday the 9th during a 2º Baep operation. [@1] Officers were patrolling when
-they received an anonymous tip that the property was used to store drugs. [@1]
+they received an anonymous tip that the property was used to store drugs. [@1,3]
 
 The man admitted receiving a monthly amount to guard the drugs and said the load
 belonged to suppliers in the region. [@2] A total of 9.919 kg of pressed
-marijuana in bricks was hidden in the Caneleira house. [@2] Searches of the
+marijuana in bricks was hidden in the Caneleira house. [@2,4] Searches of the
 residence found 9.919 kg of marijuana, plus cash, a vacuum-sealing machine, a
-box of packaging and a precision scale. [@1] Inside the home, police also found
+box of packaging and a precision scale. [@1,3] Inside the home, police also found
 bundles of cash, hundreds of plastic bags and a digital precision scale
 alongside the bricks and sealing machine. [@2]
 
@@ -78,4 +88,3 @@ marijuana was sent for forensic examination at the Criminalistics Institute.
 [@2] He was sent to the regional jail and remains at the disposal of the courts.
 [@2] The Civil Police continue investigating to reach the final owner of the
 drugs. [@2]
-
