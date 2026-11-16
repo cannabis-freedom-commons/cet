@@ -44,6 +44,11 @@ sources:
     publisher: Infobae
     date: 2026-11-15
     language: es
+  - title: Destruyen más de dos toneladas de droga y millones de cigarros ilegales
+    url: https://www.meganoticias.mx/cdmx/noticia/destruyen-m%C3%A1s-de-dos-toneladas-de-droga-y-millones-de-cigarros-ilegales/788937
+    publisher: Meganoticias
+    date: 2026-11-15
+    language: es
 open_questions:
   - No separate weight for the marijuana within the 2-tonne 558-kilo mixed total was published, so no cannabis figure is recorded.
   - No separate date for the incineration was given; 15 November 2026 is the publication date of both accounts and stands in for the event date.
@@ -55,14 +60,14 @@ open_questions:
 
 Mexico's FGR incinerated a total of two tonnes 558 kilos 624 grams 32 milligrams
 of narcotics at the Second Infantry Battalion facilities in Cuauhtémoc,
-Chihuahua. [@1] The procedure was carried out by the FGR in coordination with
-the Secretaría de la Defensa Nacional. [@1] The burned substances included
+Chihuahua. [@1,3] The procedure was carried out by the FGR in coordination with
+the Secretaría de la Defensa Nacional. [@1,3] The burned substances included
 cocaine hydrochloride, methamphetamine hydrochloride, marijuana, heroin and
-psychotropic pills, plus 10 additional units of narcotic. [@1]
+psychotropic pills, plus 10 additional units of narcotic. [@1,3]
 
 The FGR said the destroyed material came from seizures by security forces of the
 three levels of government in the state. [@1] The evidence was linked to 141
 health-crimes investigations in Ciudad Juarez, Cuauhtemoc, Ojinaga, Parral and
-the state capital. [@1,2] Verification of the weight and characteristics was
+the state capital. [@1,2,3] Verification of the weight and characteristics was
 handled by the FECOR federal prosecutor in Chihuahua together with FGR
-internal-control representatives. [@1]
+internal-control representatives. [@1,3]
