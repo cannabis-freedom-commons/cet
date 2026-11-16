@@ -29,6 +29,11 @@ sources:
     publisher: 25H
     date: 2026-11-14
     language: ar
+  - title: «زاتكا» تحبط (1128) محاولة تهريب عبر المنافذ الجمركية | صحيفة صراحة الالكترونية
+    url: https://www.sra7h.com/%D8%B2%D8%A7%D8%AA%D9%83%D8%A7-%D8%AA%D8%AD%D8%A8%D8%B7-1128-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81/
+    publisher: صحيفة صراحة الالكترونية
+    date: 2026-11-14
+    language: ar
 open_questions:
   - No weight, plant count or street value is given for the hashish or any other narcotic; the report records no cannabis quantity.
   - The 1,128 total covers all prohibited goods, including tobacco and currency, and is not a cannabis figure.
@@ -38,11 +43,11 @@ open_questions:
 
 Saudi Arabia's land, sea and air customs ports recorded 1,128 seizures of
 prohibited goods in one week, the Zakat, Tax and Customs Authority (ZATCA) said.
-[@1,3] The seized narcotics comprised 30 types, including hashish, cocaine,
-heroin, shabu and Captagon pills. [@1,3]
+[@1,3,4] The seized narcotics comprised 30 types, including hashish, cocaine,
+heroin, shabu and Captagon pills. [@1,3,4]
 
 The same weekly tally also counted 270 prohibited items, 845 tobacco products
-and derivatives, and 11 sums of undeclared money. [@2] ZATCA said the
+and derivatives, and 11 sums of undeclared money. [@2,4] ZATCA said the
 interceptions came from intensified inspection and continuous monitoring across
 the Kingdom's customs posts using X-ray scanners, sniffer dogs and trained
 staff. [@1]
@@ -50,9 +55,9 @@ staff. [@1]
 The authority said it was tightening customs control over imports and exports in
 coordination with the General Directorate of Narcotics Control and other
 security agencies. [@1] ZATCA called on citizens and residents to report
-smuggling crimes and violations of the unified customs law. [@1] The authority
+smuggling crimes and violations of the unified customs law. [@1] Reports can be made via 1910, email 1910@zatca.gov.sa or international number 009661910. [@4] The authority
 said it receives all reports with complete confidentiality and offers a
-financial reward to informants when the information proves accurate. [@1] ZATCA
+financial reward to informants when the information proves accurate. [@1,4] ZATCA
 said tighter border control helps dry up cross-border smuggling networks and
 prevents the Kingdom being used as a transit route for contraband to
 neighbouring countries. [@1]
