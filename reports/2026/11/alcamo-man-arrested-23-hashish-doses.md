@@ -38,31 +38,28 @@ sources:
     publisher: Trapanisi.it
     date: 2026-11-16
     language: it
-open_questions:
-  - No weight for the 23 hashish doses was published, so no cannabis weight is recorded.
-  - The man was not identified by name or age in the article.
-  - No separate date for the patrol, arrest or home search was given; 16 November 2026 is the publication date and is used as the incident date.
-  - The type of precautionary measure ordered by the preliminary investigations judge was not specified.
-  - No plea, trial outcome or laboratory confirmation was reported.
-  - The account rests on a single outlet reporting a provincial Guardia di Finanza statement.
+  - title: 'Arrestato un uomo ad Alcamo: sequestrate 23 dosi di hashish'
+    url: https://www.grnet.it/arrestato-un-uomo-ad-alcamo-sequestrate-23-dosi-di-hashish/
+    publisher: GrNet News Sicurezza e Difesa
+    date: 2026-11-16
+    language: it
 ---
 
 Guardia di Finanza officers in Alcamo arrested a man found with 23 individually
-wrapped doses of hashish believed intended for sale. [@1] The operation was
+wrapped doses of hashish believed intended for sale. [@1,2] The operation was
 carried out by the Alcamo Company of the Guardia di Finanza as part of
 territorial checks against drug dealing and street crime in sensitive city
 areas. [@1] After the arrest in flagrante, the preliminary investigations judge
 placed him under a precautionary measure whose type was not specified. [@1]
 
 Officers stopped the man during a patrol around Piazza della Repubblica after he
-appeared nervous on seeing them and tried to walk away. [@1] The street check
+appeared nervous on seeing them and tried to walk away. [@1,2] The street check
 recovered five individually packaged doses of hashish said to be ready for the
-dealing market. [@1] A subsequent search of his home found another 18 doses of
-the same substance, also in single packages. [@1]
+dealing market. [@1,2] A subsequent search of his home found another 18 doses of
+the same substance, also in single packages. [@1,2]
 
 Officers also found small plastic bags thought usable for packaging drugs and a
 knife the Guardia di Finanza said was used to cut the drug and prepare the
 doses. [@1] In total the operation seized 23 doses of hashish together with the
 packaging material found during the checks. [@1] On that basis the officers
 charged the man with possession of narcotics for the purpose of dealing. [@1]
-
