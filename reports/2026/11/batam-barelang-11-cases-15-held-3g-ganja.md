@@ -43,6 +43,11 @@ sources:
     publisher: Mediahub Polri
     date: 2026-11-16
     language: id
+  - title: Polisi di Batam Sita 2,5 Kg Sabu-Vape Etomidate
+    url: https://www.detik.com/sumut/hukum-dan-kriminal/d-8755371/polisi-di-batam-sita-2-5-kg-sabu-vape-etomidate
+    publisher: detikSumut
+    date: 2026-11-16
+    language: id
 open_questions:
   - The reports do not break down which of the 15 suspects held the two ganja packets; the arrested total is for the whole 11-case roundup.
   - No separate cannabis-only value is recorded; the Rp151,000 ganja figure sits inside a combined Rp2,083,469,000 estimate for all drugs.
@@ -51,11 +56,17 @@ open_questions:
   - The ganja was described only by packet count and net weight, with no laboratory confirmation reported.
   - The account rests on a single official Mediahub Polri publication of the Polresta Barelang statement; no independent second outlet was found.
   - No plea, trial date or court outcome was reported; the case was at the investigation stage.
+media:
+  - kind: photo
+    url: https://www.detik.com/sumut/hukum-dan-kriminal/d-8755371/polisi-di-batam-sita-2-5-kg-sabu-vape-etomidate
+    media_url: https://awsimages.detik.net.id/community/media/visual/2026/11/16/barang-bukti-sabu-vape-etomidate-1794819805961_169.jpeg?w=700&q=90
+    publisher: detikSumut
+    caption: 'Police display the seized 2.5 kg of sabu, ganja, ecstasy and etomidate vapes from the Barelang roundup. Photo: Polresta Barelang'
 ---
 
 Satresnarkoba Polresta Barelang said it uncovered 11 narcotics cases during
-November 2026. [@1] Police detained 15 suspects in those cases, comprising 13
-men and two women. [@1] The 15 suspects were listed by the initials RH, DP, AH,
+November 2026. [@1,2] Police detained 15 suspects in those cases, comprising 13
+men and two women. [@1,2] The 15 suspects were listed by the initials RH, DP, AH,
 MZ, KW, MA, DC, IR, UC, DM, JR, PS, SH, FZ and AP. [@1] The findings were
 presented at a press conference in the lobby of the Barelang police headquarters
 on 16 November 2026 led by narcotics unit chief AKP Haris Baltasar Nasution.
@@ -64,10 +75,10 @@ reports. [@1]
 
 Officers seized 67 packets of sabu with a net weight of 2,544.46 grams, two
 packets of ganja weighing 3.03 grams, and 65.5 ecstasy pills with a net weight
-of 29.18 grams. [@1] Officers also seized six Wang Lai-branded liquids or vapes
+of 29.18 grams. [@1,2] Officers also seized six Wang Lai-branded liquids or vapes
 containing etomidate with a net weight of 15.36 grams/ml. [@1] Police put the
 combined illicit-market value of all the evidence at Rp2,083,469,000, including
-Rp151,000 for the ganja. [@1]
+Rp151,000 for the ganja. [@1,2]
 
 The roundup was the work of the Barelang narcotics unit in synergy with the
 Batam Type-B Customs office. [@1] Police estimated the seizures could save about
@@ -75,4 +86,3 @@ Batam Type-B Customs office. [@1] Police estimated the seizures could save about
 charges under Article 609(1)(a)-(b) of the Criminal Code and/or Articles 114 and
 119 of the Narcotics Law. [@1] The suspects face a maximum penalty of 20 years
 in prison to life imprisonment plus fines under the applied articles. [@1]
-
