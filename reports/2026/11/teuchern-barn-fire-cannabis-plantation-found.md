@@ -36,6 +36,11 @@ media:
     media_url: https://images.mdr.de/image/f19d804c-4a8d-43e5-999b-c30c6454591a/AAABoeQb-VY/AAABnSSvrFg/16x9-big/brand-teuchern-scheune-100.webp?width=1088
     publisher: MDR
     caption: Firefighters tackling the barn fire in Teuchern in which the cannabis grow was found.
+  - kind: photo
+    url: https://polizei.sachsen-anhalt.de/das-sind-wir/presse/pi-halle-saale/burgenlandkreis?cHash=5501ce72b2b56b0c78aa66a8056b6080&tx_tsarssinclude_pi1%5Baction%5D=single&tx_tsarssinclude_pi1%5Bcontroller%5D=Base&tx_tsarssinclude_pi1%5Buid%5D=697282
+    media_url: https://polizei.sachsen-anhalt.de/fileadmin/_processed_/4/9/csm_48f9640fd0801285434da9fde8a9c4a2_2d93ae47c9.jpg
+    publisher: Polizei Sachsen-Anhalt
+    caption: The barn fire in Bonau in which the indoor cannabis plantation was found.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 01d193cf826735f883deeb53ccee4c29
@@ -44,6 +49,11 @@ sources:
   - title: 'Brand in Teuchern: Feuerwehr stößt auf Cannabis-Plantage mit Hunderten Pflanzen | mdr.de'
     url: https://www.mdr.de/nachrichten/sachsen-anhalt/halle/burgenland/teuchern-cannabis-plantage,brand-scheune-100.html
     publisher: MDR
+    date: 2026-11-16
+    language: de
+  - title: Kriminalitäts- und Verkehrslage 16.11.2026 – 235/2026
+    url: https://polizei.sachsen-anhalt.de/das-sind-wir/presse/pi-halle-saale/burgenlandkreis?cHash=5501ce72b2b56b0c78aa66a8056b6080&tx_tsarssinclude_pi1%5Baction%5D=single&tx_tsarssinclude_pi1%5Bcontroller%5D=Base&tx_tsarssinclude_pi1%5Buid%5D=697282
+    publisher: Polizei Sachsen-Anhalt
     date: 2026-11-16
     language: de
 open_questions:
@@ -56,16 +66,15 @@ open_questions:
 
 On Sunday evening, firefighters called to a barn fire in Teuchern in
 Burgenlandkreis discovered a cannabis grow operation in another part of the
-building while extinguishing the blaze. [@1] The building's upper floor had
+building while extinguishing the blaze. [@1,2] The barn was in Bonau, a district of Teuchern, and the fire started shortly after 21:30. [@2] The building's upper floor had
 caught fire for a cause that was still unexplained. [@1] Two residents of
 neighbouring houses had to leave their homes. [@1] Twelve fire vehicles and 39
 firefighters deployed to put out the fire. [@1]
 
 Emergency crews then found the cultivation facility with differently sized
 plants in the low three-digit range. [@1] They also found two to three kilograms
-of packaged cannabis buds. [@1] Police put the fire damage at 30,000 euros. [@1]
+of packaged cannabis buds. [@1,2] Police put the fire damage at 30,000 euros. [@1]
 
 According to police, products for landscaping and horticulture were stored in
 the barn. [@1] Investigations, including into the cause of the fire, were
-ongoing. [@1]
-
+ongoing. [@1] Investigations into the cause of the fire and commercial cannabis cultivation were being conducted against unknown persons. [@2] The fire scene could not yet be fully examined because of the firefighting operation and a still-pending structural assessment by an expert. [@2]
