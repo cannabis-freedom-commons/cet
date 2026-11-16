@@ -39,32 +39,42 @@ sources:
     publisher: Haberler
     date: 2026-11-16
     language: tr
+  - title: Diyarbakır’da 38 kilo 261 gram esrar ve 538 kök kenevir ele geçirildi - Canlı Gaste
+    url: https://www.canligaste.com/diyarbakir-da-38-kilo-261-gram-esrar-ve-538-kok-kenevir-ele-gecirildi/950697/
+    publisher: Canlı Gaste
+    date: 2026-11-16
+    language: tr
 open_questions:
-  - No separate date for the operations was given; 16 November 2026 is the publication date and is used as the incident date.
-  - The five suspects were not named, and no detention, charge, remand or court outcome was reported beyond the opening of legal proceedings.
-  - No breakdown of the seizures by district or incident was published; the weight and plant count are totals only.
-  - The esrar is described only as esrar maddesi without specifying resin or dried flower, so it is recorded as hashish.
-  - The condition of the 538 cannabis roots was not specified, so they are recorded as plants destroyed or seized without a seized/destroyed split.
-  - The account rests on a single İhlas Haber Ajansı dispatch carried by Haberler, with no independent corroboration found.
-  - No value estimate for the seized cannabis was published.
+    - No separate date for the operations was given; 16 November 2026 is the publication date and is used as the incident date.
+    - The five suspects were not named, and no detention, charge, remand or court outcome was reported beyond the opening of legal proceedings.
+    - No breakdown of the seizures by district or incident was published; the weight and plant count are totals only.
+    - The esrar is described only as esrar maddesi without specifying resin or dried flower, so it is recorded as hashish.
+    - The condition of the 538 cannabis roots was not specified, so they are recorded as plants destroyed or seized without a seized/destroyed split.
+    - The two published accounts (İhlas Haber Ajansı via Haberler and Anadolu Ajansı via Canlı Gaste) both reproduce the same Valilik/gendarmerie statement, with no independent reporting beyond the official account.
+    - No value estimate for the seized cannabis was published.
+media:
+  - kind: photo
+    url: https://www.canligaste.com/diyarbakir-da-38-kilo-261-gram-esrar-ve-538-kok-kenevir-ele-gecirildi/950697/
+    media_url: https://www.canligaste.com/aa-media/2026/11/diyarbakir-da-38-kilo-261-gram-esrar-ve-538-kok-kenevir-ele-gecirildi-950697.webp
+    publisher: Canlı Gaste
+    caption: 'Seized cannabis from the Diyarbakır operation, in the Anadolu Ajansı handout photo published with the Canlı Gaste account. Photo: Anadolu Ajansı'
 ---
 
 Diyarbakır İl Jandarma Komutanlığı, the Diyarbakir provincial gendarmerie
 command, coordinated a series of anti-drug operations through its Narkotik
-Suçlarla Mücadele Şube Müdürlüğü, the narcotics-crimes branch. [@1] The
+Suçlarla Mücadele Şube Müdürlüğü, the narcotics-crimes branch. [@1,2] The
 operations covered the provincial centre and districts within the gendarmerie's
-area of responsibility. [@1] They were directed at people accused of trading,
-transporting and using narcotic substances. [@1] Fifteen separate incidents were
+area of responsibility. [@1,2] They were directed at people accused of trading,
+transporting and using narcotic substances. [@1,2] Fifteen separate incidents were
 recorded during the operations. [@1] Legal proceedings were opened against five
-suspects in connection with those incidents. [@1]
+suspects in connection with those incidents. [@1,2]
 
 Teams seized 38 kilograms 261 grams of esrar, the Turkish word for cannabis.
-[@1] Teams also seized 538 kök kenevir, literally cannabis roots, the term
-Turkish enforcement reporting uses for cannabis plants. [@1] The gendarmerie
+[@1,2] Teams also seized 538 kök kenevir, literally cannabis roots, the term
+Turkish enforcement reporting uses for cannabis plants. [@1,2] The gendarmerie
 reported both the esrar weight and the cannabis-root count as the outcome of the
 coordinated operations. [@1]
 
 The operations took place in the gendarmerie's responsibility area rather than
 in police districts. [@1] No suspects were named in the account. [@1] İhlas
 Haber Ajansı supplied the published account of the operations. [@1]
-
