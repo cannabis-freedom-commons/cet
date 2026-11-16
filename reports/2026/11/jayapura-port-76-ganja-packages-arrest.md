@@ -51,6 +51,11 @@ sources:
     url: https://westpapuavoice.ac/west-papua-politics-security/kodaeral-x-foils-cannabis-smuggling-in-jayapura/
     publisher: West Papua Voice
     date: 2026-11-16
+  - title: Personel Kodaeral X Berhasil Mengamankan Seorang Calon Penumpang KM Gunung Dempo Yang Kedapatan Membawa Narkotika Jenis Ganja Seberat Kurang Lebih 1,184 Kilogram
+    url: https://www.kabarjagad.id/hukrim/personel-kodaeral-x-berhasil-mengamankan-seorang-calon-penumpang-km-gunung-dempo-yang-kedapatan-membawa-narkotika-jenis-ganja-seberat-kurang-lebih-1184-kilogram/
+    publisher: kabarjagad
+    date: 2026-11-16
+    language: id
 open_questions:
   - No laboratory confirmation of the seized material as cannabis was reported.
   - The 1.1-kilogram weight was stated without saying whether it is net or gross or how it was weighed.
@@ -58,13 +63,14 @@ open_questions:
   - The suspect was identified only by the initials IY with an age of 33, and no full name or address was published.
   - The report does not specify the route by which the cannabis allegedly entered Indonesia from Papua New Guinea or name any other people involved.
   - Both published accounts derive from the same Kodaeral X commander's statement, so they are not independent reporting.
+  - Published accounts give different weights for the seized ganja, about 1.184 kilograms in one account and 1.1 kilograms in another.
 ---
 
 Navy personnel from Regional Naval Command X (Kodaeral X) arrested 33-year-old
 IY in the Jayapura Port area on 15 November 2026, moments before he was to board
-the motor vessel KM Gunung Dempo bound for Nabire in Central Papua. [@1] The
+the motor vessel KM Gunung Dempo bound for Nabire in Central Papua. [@1,3] The
 arrest followed information that a prospective KM Gunung Dempo passenger berthed
-at Jayapura Port was smuggling ganja. [@1] IY was described as a suspected
+at Jayapura Port was smuggling ganja. [@1] Joint Kodaeral X personnel with KSOP Jayapura, KP3 Jayapura sea port police and PT Pelni secured the suspect with the narcotics evidence before he boarded the ship during pre-departure supervision and inspection of KM Gunung Dempo passengers. [@3] IY was described as a suspected
 intercity ganja dealer who dealt ganja in Nabire. [@1]
 
 Officers seized 76 ready-to-distribute ganja packages weighing 1.1 kilograms.
@@ -75,7 +81,6 @@ package was to be sold in Nabire for Rp1 million. [@1]
 Kodaeral X handed IY and the 76 packages over to the Jayapura City police for
 further processing. [@1] The drugs, weighing approximately 1.1 kilograms, were
 discovered before the suspect could board the passenger vessel KM Gunung Dempo,
-which was scheduled to travel to Nabire in Central Papua. [@2] After the
+which was scheduled to travel to Nabire in Central Papua. [@2] KM Gunung Dempo had docked at the Pelindo Jayapura public-port pier with 1,210 disembarking passengers and 852 embarking passengers from Jayapura, then departed for Nabire on its regular Nabire–Wasior–Manokwari–Sorong–Makassar–Surabaya–Tanjung Priok return route. [@3] After the
 interception, Kodaeral X handed IY and the 76 packages of cannabis to the
 Jayapura City Police for further processing. [@2]
-
