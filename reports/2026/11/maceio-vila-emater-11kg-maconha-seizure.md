@@ -35,6 +35,11 @@ sources:
     publisher: GazetaWeb
     date: 2026-11-15
     language: pt
+  - title: Polícia apreende 11,2 kg de maconha em Maceió
+    url: https://www.tribunadoagreste.com.br/alagoas/2026/11/15/1022405-policia-apreende-112-kg-de-maconha-em-maceio
+    publisher: Tribuna do Agreste
+    date: 2026-11-15
+    language: pt
 open_questions:
   - The two accounts give the weight as 11.2 kilograms and as 11.255 kilograms; the report uses the more precise 11.255 kilograms.
   - No suspects were located or identified, and no arrests, charges or court outcome were reported.
@@ -42,18 +47,17 @@ open_questions:
 ---
 
 On the night of Saturday 14 November 2026, Military Police officers were on
-patrol in Vila Emater, in the Jacarecica neighbourhood of Maceio. [@1] A
+patrol in Vila Emater, in the Jacarecica neighbourhood of Maceio. [@1,3] A
 Tactical Force team from the 13th Battalion tried to approach a white car, and
-the driver sped away when the police vehicle approached. [@1] During the flight,
-one of the car's occupants threw a plastic bag out of the vehicle's window. [@2]
+the driver sped away when the police vehicle approached. [@1,3] During the flight,
+one of the car's occupants threw a plastic bag out of the vehicle's window. [@2,3]
 
 Officers paused the pursuit to recover the discarded bag and found 23 tablets of
 maconha inside, which police said totalled 11.255 kilograms. [@2] The first
-report rounded the same seizure to 11.2 kilograms in 23 tablets. [@1] The second
+report rounded the same seizure to 11.2 kilograms in 23 tablets. [@1,3] The second
 account identified the fleeing car as a white Hyundai HB20 seen in a suspicious
 attitude during the patrol. [@2]
 
 Police resumed the search for the car afterwards, but the suspects were not
-located. [@2] All the seized material was taken to the Central de Flagrantes,
-where the case was registered. [@1]
-
+located. [@2,3] All the seized material was taken to the Central de Flagrantes,
+where the case was registered. [@1,3]
