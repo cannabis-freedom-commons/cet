@@ -56,6 +56,11 @@ media:
     media_url: https://larazon.bo/wp-content/uploads/2026/11/Mariahuana.webp
     publisher: La Razón
     caption: 'Marijuana plantings in Potosi from the FELCN handout. Photo: FELCN'
+  - kind: photo
+    url: https://correodelsur.com/seguridad/20261115/intervienen-15-viveros-de-plantaciones-y-destruyen-siete-toneladas-de-marihuana-en-potosi.html
+    media_url: https://cdn.correodelsur.com/img/contents/images_980/2026/11/15/e33965d9-f782-47c9-b20e-8c17cbbf2708.jpg
+    publisher: Correo del Sur
+    caption: 'Marijuana being incinerated in Potosí during the FELCN operation. Photo: FELCN'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: df3271eb0acf205991820447676b3cda
@@ -91,6 +96,11 @@ sources:
     publisher: ABC Color
     date: 2026-11-15
     language: es
+  - title: Intervienen 15 viveros de plantaciones y destruyen siete toneladas de marihuana en Potosí
+    url: https://correodelsur.com/seguridad/20261115/intervienen-15-viveros-de-plantaciones-y-destruyen-siete-toneladas-de-marihuana-en-potosi.html
+    publisher: Correo del Sur
+    date: 2026-11-15
+    language: es
 open_questions:
   - No separate date for the operation was given; 15 November 2026 is the publication and police-report date and is used as the incident date.
   - No plant count was published, only the seven-ton weight and the 15 nursery sites.
@@ -102,8 +112,8 @@ open_questions:
 
 FELCN officers destroyed and incinerated seven tons of natural-state marijuana
 after intervening in 15 nursery sites in Machacamarca, in the municipality of
-Chayanta, Rafael Bustillo province, Potosí. [@1,5,6] The operation was carried out
-under the order called Escudo Verde. [@1,5] The intervention targeted facilities
+Chayanta, Rafael Bustillo province, Potosí. [@1,5,6,7] The operation was carried out
+under the order called Escudo Verde. [@1,5,7] The intervention targeted facilities
 used to grow marijuana. [@1] The anti-drug operation took place in the community
 of Machacamarca under the jurisdiction of the municipality of Chayanta. [@3,5,6] The
 order contemplated control actions in spaces used for planting marijuana,
@@ -113,8 +123,8 @@ incineration, and the plants reached two metres in height. [@2]
 Anti-drug agents identified the 15 spaces as sites for the illegal cultivation
 of a controlled substance, as reported by the Bolivian Information Agency. [@4]
 Police estimated that the operation caused economic damage of 1,053,000,000 US
-dollars to drug-trafficking activities. [@1,5] FELCN described the operation as a
+dollars to drug-trafficking activities. [@1,5,7] FELCN described the operation as a
 blow to marijuana production in Potosí. [@1] FELCN said it will keep carrying
 out interdiction operations against the production and trafficking of controlled
-substances. [@1] FELCN communicated that it will continue this kind of
+substances. [@1,7] FELCN communicated that it will continue this kind of
 operation, according to the report disseminated on 15 November. [@4]
