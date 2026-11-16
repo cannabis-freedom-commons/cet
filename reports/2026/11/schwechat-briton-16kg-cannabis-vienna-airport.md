@@ -47,6 +47,11 @@ sources:
     publisher: 5min.at
     date: 2026-11-16
     language: de
+  - title: Kontrolle am Flughafen - Brite mit 16 kg Cannabis in Schwechat erwischt! | krone.at
+    url: https://www.krone.at/4377875
+    publisher: Kronen Zeitung
+    date: 2026-11-16
+    language: de
 open_questions:
     - The cannabis was described without any reported laboratory confirmation.
     - No court outcome beyond detention in Korneuburg prison was reported.
@@ -55,11 +60,11 @@ open_questions:
 
 Police detained a 23-year-old British man at Vienna Airport in Schwechat after
 cannabis was found in his suitcase during weekend checks of transit baggage.
-[@1,2] He was taken to Korneuburg prison after denying an allegation of drug
-trafficking. [@1,2]
+[@1,2,3] He was taken to Korneuburg prison after denying an allegation of drug
+trafficking. [@1,2,3]
 
 The seizure totalled 16 kilograms of cannabis. [@1,2] The cannabis was packed in
-16 airtight packages. [@1,2]
+16 airtight packages. [@1,2,3]
 
-The man had been travelling from Bangkok in Thailand to London. [@1,2] Police
-announced the case on Monday in a dispatch. [@1,2]
+The man had been travelling from Bangkok in Thailand to London. [@1,2,3] Police
+announced the case on Monday in a dispatch. [@1,2,3]
