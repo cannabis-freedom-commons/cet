@@ -49,27 +49,37 @@ sources:
     publisher: Free Press Online
     date: 2026-11-16
     language: it
+  - title: Arrestato il finto agricoltore che nascondeva mezzo kg di marijuana e hashish
+    url: https://www.biancavillaoggi.it/2026/11/16/arrestato-il-finto-agricoltore-che-nascondeva-mezzo-kg-di-marijuana-e-hashish/
+    publisher: Biancavilla Oggi
+    date: 2026-11-16
+    language: it
 open_questions:
   - No separate date for the searches or arrest was reported; 16 November 2026 is the publication date of both accounts and is used as the incident date.
   - The marijuana is reported only as almost 500 grams, so 0.6 kg is an approximate combined total with the 100-gram hashish block.
   - No name beyond the age and town was published for the suspect, and no court outcome or detention measure was reported.
   - Both accounts reproduce the same Carabinieri operation and are not independent reporting.
+media:
+  - kind: photo
+    url: https://www.biancavillaoggi.it/2026/11/16/arrestato-il-finto-agricoltore-che-nascondeva-mezzo-kg-di-marijuana-e-hashish/
+    media_url: https://www.biancavillaoggi.it/wp-content/uploads/2026/11/mezzo-kg-droga-sequestrata-dai-carabinieri-a-biancavilla-arrestato-giovane-26enne.jpg
+    publisher: Biancavilla Oggi
+    caption: Drugs seized in the Biancavilla farmhouse pipe hide, shown in the article photo.
 ---
 
 Carabinieri of the Paterno company arrested a 26-year-old from Biancavilla over
 drugs found in a rural farmhouse. [@1] He was accused of holding drugs for the
 purpose of dealing, and remains presumed innocent until a final conviction. [@1]
 The operation was run by the Nucleo Operativo with support from the Adrano
-station and the Cacciatori Sicilia helicopter squadron. [@1]
+station and the Cacciatori Sicilia helicopter squadron. [@1,3]
 
 Searches focused on the outlying contrada Scrifi/Erbe Bianche area, inside a
 farm where officers found a farmhouse with a concrete rainwater pipe. [@2]
 Inside the pipe, hidden under stones, officers found several packets of drugs
-with a working electronic scale. [@1] Officers seized two bags with almost 500
-grams of marijuana and a 100-gram block of hashish. [@1]
+with a working electronic scale. [@1,3] Officers seized two bags with almost 500
+grams of marijuana and a 100-gram block of hashish. [@1,3]
 
 The landowner told Carabinieri he had informally given the plot to the
-26-year-old to pick olives and prickly pears. [@1] Investigators concluded the
+26-year-old to pick olives and prickly pears. [@1,3] Investigators concluded the
 young man was solely responsible for the hidden drugs and had posed as a farmer
-to cover the activity. [@1]
-
+to cover the activity. [@1,3]
