@@ -62,6 +62,10 @@ sources:
     url: https://www.africaninsider.com/news/r3m-drug-run-derailed-as-toyota-hilux-overturns/
     publisher: African Insider
     date: 2026-11-16
+  - title: Cannabis worth R3 million discovered after bakkie overturns in police pursuit
+    url: https://nuusflits.com/cannabis-worth-r3-million-bakkie-overturns-police-pursuit/
+    publisher: Nuusflits
+    date: 2026-11-16
 open_questions:
   - One account gives the suspects ages as 34 and 44 while the other gives them as aged between 34 and 44.
   - The seizure is described both as at a farm near Wakkerstroom and as from the overturned vehicle on the R543 road, so the exact recovery point is unclear.
@@ -88,12 +92,12 @@ estimated street value of about R3 million. [@1,3,4] The arrests took place at a
 conducting stop-and-search operations along the R543 road. [@1,4]
 
 During the pursuit a white Toyota Hilux overturned while the other two vehicles
-fled the scene. [@1,3,4] Officers searched the overturned vehicle and found 22 bags
-of dagga weighing about 411 kilograms. [@2,3,4] Police put the estimated street
-value of the dagga at R3 million. [@2,3] Police confiscated a white Toyota Hilux
-and a white Ford Ranger in connection with the incident. [@1,3,4]
+fled the scene. [@1,3,4,5] Officers searched the overturned vehicle and found 22 bags
+of dagga weighing about 411 kilograms. [@2,3,4,5] Police put the estimated street
+value of the dagga at R3 million. [@2,3,5] Police confiscated a white Toyota Hilux
+and a white Ford Ranger in connection with the incident. [@1,3,4,5]
 
 The three suspects were charged with dealing in dagga and are expected to appear
-in court soon. [@2,3,4] Mpumalanga provincial commissioner Lieutenant-General
+in court soon. [@2,3,4,5] Mpumalanga provincial commissioner Lieutenant-General
 Apaphia Modise commended the officers for vigilance and swift response leading
-to the arrests and seizure. [@2]
+to the arrests and seizure. [@2,5]
