@@ -71,23 +71,28 @@ sources:
     url: https://www.dailystar.co.uk/news/latest-news/pensioner-74-gives-3-word-37880385
     publisher: Daily Star
     date: 2026-11-16
+  - title: Idoso britânico preso por 3 anos após ser pego com 33 kg de maconha escondida em malas no aeroporto - BRA 1
+    url: https://www.bra1.com.br/policia/id-726781/idoso_britanico_preso_por_3_anos_apos_ser_pego_com_33_kg_de_maconha_escondida_em_malas_no_aeroporto
+    publisher: BRA 1
+    date: 2026-11-16
+    language: pt
 ---
 
 Jack Debson, 74, of Brownbill Bank, Liverpool, was jailed for three years at
 Manchester Crown Court after admitting being concerned in the fraudulent evasion
-of a prohibition on the importation of a class B drug, namely cannabis. [@1,2]
+of a prohibition on the importation of a class B drug, namely cannabis. [@1,2,3]
 Border Force officers stopped Debson in Terminal 2 at Manchester Airport on 11
-June 2026 after he arrived on a flight from Thailand via Dubai. [@1,2] When the
+June 2026 after he arrived on a flight from Thailand via Dubai. [@1,2,3] When the
 first suitcase was opened, black vacuum-sealed packages containing the class B
 drug were found under a towel. [@1] More vacuum-sealed packages containing drugs
 were found under another towel in the second suitcase. [@1] In total, the
-cannabis found weighed 33.25 kilos with a street value of £100,000. [@1,2]
+cannabis found weighed 33.25 kilos with a street value of £100,000. [@1,2,3]
 
 Debson at first denied the drugs found in his suitcases had anything to do with
 him. [@1] He told officers he had packed both suitcases himself and that they
 contained no contraband, only clothes. [@1] When he was arrested he denied the
 offence, but four days before his trial he changed his plea, saying he had acted
-under direction for a £3,000 fee. [@1] Debson had seven sets of previous
+under direction for a £3,000 fee. [@1,3] Debson had seven sets of previous
 convictions for eleven offences, including a five-year prison sentence in
 October 2011 for cultivating cannabis. [@1] He received a further 13-month
 prison sentence the following year for production of cannabis. [@1] In
