@@ -68,6 +68,11 @@ sources:
     publisher: El Esquiú
     date: 2026-11-15
     language: es
+  - title: 'Intentaron cambiar un auto por cocaína y terminaron detenidos: secuestraron más de 200 dosis'
+    url: https://www.elliberal.com.ar/nota/98131/2026/11/intentaron-cambiar-un-auto-por-cocaina-y-terminaron-detenidos--secuestraron-mas-de-200-dosis
+    publisher: El Liberal
+    date: 2026-11-15
+    language: es
 media:
   - kind: photo
     url: https://tn.com.ar/policiales/2026/11/15/quisieron-cambiar-un-auto-por-cocaina-en-cordoba-y-terminaron-detenidos-secuestraron-mas-de-200-dosis/
@@ -82,16 +87,16 @@ media:
 ---
 
 Three adults were detained in Corralito, Tercero Arriba department, for
-allegedly trying to exchange a car for cocaine. [@1,4,6] The operation began on the
+allegedly trying to exchange a car for cocaine. [@1,4,6,7] The operation began on the
 street, where investigators intercepted the suspects and made the arrests. [@1,5]
 At the scene investigators seized 207 doses of cocaine and 34 of marijuana,
 money and a car. [@2,4,5,6] Investigators said the detainees had tried to exchange the
 vehicle for drugs. [@2]
 
 After the arrests, the FPA carried out three raids on homes in barrio Parque
-Monte Grande in Río Tercero. [@3,4,5,6] The three Parque Monte Grande houses were located on Félix de la Peña at 2500, José Echenique at 500 and Eleazar Garzón at 2700. [@4,6] During those house searches officers seized
+Monte Grande in Río Tercero. [@3,4,5,6,7] The three Parque Monte Grande houses were located on Félix de la Peña at 2500, José Echenique at 500 and Eleazar Garzón at 2700. [@4,6] During those house searches officers seized
 additional marijuana doses and cannabis sativa plants for the investigation.
-[@2,4,5,6]
+[@2,4,5,6,7]
 
 All the seized items were placed at the disposal of the intervening prosecutor's
 office. [@3] The three suspects remain detained for alleged violation of
