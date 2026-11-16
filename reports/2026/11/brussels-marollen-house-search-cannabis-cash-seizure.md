@@ -68,6 +68,10 @@ sources:
     publisher: BRUZZ
     date: 2026-11-16
     language: nl
+  - title: €50,000 seized following alleged drug deal in Brussels
+    url: https://www.brusselstimes.com/brussels/2408741/e50000-seized-following-alleged-drug-deal-in-brussels
+    publisher: The Brussels Times
+    date: 2026-11-16
 media:
   - kind: photo
     url: https://www.rtbf.be/article/pres-de-50-000-euros-saisis-apres-une-transaction-de-drogue-presumee-dans-les-marolles-11816213
@@ -83,7 +87,7 @@ media:
 
 Detectives from the Brussels Capital Ixelles police zone saw two people exchange
 something in what looked like a drug deal in the Marollen on Friday 6 November
-and stopped both for checks. [@1,2,3,4,5] The buyer had just bought one gram of cocaine
+and stopped both for checks. [@1,2,3,4,5,6] The buyer had just bought one gram of cocaine
 for 20 euros and received an immediate 300-euro settlement for it. [@1,2,4,5] The
 suspected seller was carrying cash and a small amount of cocaine and was taken
 away for questioning. [@1,2,4]
@@ -91,8 +95,8 @@ away for questioning. [@1,2,4]
 Police said the man was already known for similar offences, after which
 detectives carried out a house search in the centre of Brussels. [@1,4] Officers
 found 49,475 euros in cash in various denominations and just over half a
-kilogram of cannabis resin. [@1,2,3,4,5] Officers also seized 57 grams of cannabis and
-0.77 grams of cocaine. [@1,2,3,4,5]
+kilogram of cannabis resin. [@1,2,3,4,5,6] Officers also seized 57 grams of cannabis and
+0.77 grams of cocaine. [@1,2,3,4,5,6]
 
 After questioning, the suspect was placed at the disposal of the prosecutor.
-[@1,2,3,4,5]
+[@1,2,3,4,5,6]
