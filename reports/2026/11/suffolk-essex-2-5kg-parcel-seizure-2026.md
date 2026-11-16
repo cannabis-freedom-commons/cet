@@ -33,6 +33,11 @@ media:
     media_url: https://www.eadt.co.uk/resources/images/21719051.jpg?type=mds-article-962
     publisher: East Anglian Daily Times
     caption: 'Cannabis from the intercepted parcel linked to Suffolk and Essex. Photo: Bury St Edmunds Police'
+  - kind: photo
+    url: https://www.suffolknews.co.uk/bury-st-edmunds/news/police-officers-seize-2-5kg-of-cannabis-in-intercepted-parce-9491409/
+    media_url: https://www.suffolknews.co.uk/_media/img/750x0/76P58E75S1TOJL2GVT4Y.jpg
+    publisher: Suffolk News
+    caption: 'Seized cannabis from the intercepted parcel linked to Suffolk and Essex. Photo: Suffolk Police'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 444b00b55bce8f6d9a2ae9e2bb02105b
@@ -46,18 +51,22 @@ sources:
     url: https://www.stowmarketmercury.co.uk/news/26729866.cannabis-parcel-linked-suffolk-essex-seized/
     publisher: Stowmarket Mercury
     date: 2026-11-15
+  - title: Bury St Edmunds police officers seize 2.5kg of cannabis in intercepted parcel
+    url: https://www.suffolknews.co.uk/bury-st-edmunds/news/police-officers-seize-2-5kg-of-cannabis-in-intercepted-parce-9491409/
+    publisher: Suffolk News
+    date: 2026-11-15
 ---
 
 A cannabis parcel linked to Suffolk and Essex was seized. [@1] Officers from
 Town Centre Team West seized the drugs after the parcel entering the country was
 intercepted. [@1,2] A police spokesman described the seizure as another example of
 proactive policing targeting those involved in the importation and distribution
-of controlled drugs. [@1] The spokesman also said police remained committed to
+of controlled drugs. [@1,3] The spokesman also said police remained committed to
 identifying offenders and protecting communities from the harm caused by illegal
 drugs. [@1]
 
 About 2.5kg of cannabis was seized after a parcel linked to Suffolk and Essex
-was intercepted as it entered the country. [@1,2] The parcel, which was entering
+was intercepted as it entered the country. [@1,2,3] The parcel, which was entering
 the country, was then intercepted. [@1] The quantity was also given as around
 2.5kg in the intercepted parcel entering the country and linked to Suffolk and
 Essex. [@1]
