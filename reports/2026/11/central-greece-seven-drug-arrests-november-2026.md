@@ -40,6 +40,16 @@ sources:
     publisher: Lamia Report
     date: 2026-11-16
     language: el
+  - title: Επτά συλλήψεις για ναρκωτικά στη Στερεά Ελλάδα – Μία σύλληψη στη Βοιωτία
+    url: https://permissos.gr/2026/11/16/centralgreece/permissosgmail-com/%CE%B5%CF%80%CF%84%CE%AC-%CF%83%CF%85%CE%BB%CE%BB%CE%AE%CF%88%CE%B5%CE%B9%CF%82-%CE%B3%CE%B9%CE%B1-%CE%BD%CE%B1%CF%81%CE%BA%CF%89%CF%84%CE%B9%CE%BA%CE%AC-%CF%83%CF%84%CE%B7-%CF%83%CF%84%CE%B5%CF%81/
+    publisher: permissos.gr
+    date: 2026-11-16
+    language: el
+  - title: Σύλληψη στη Χαλκίδα για ναρκωτικά - Επτά συλλήψεις σε ένα τριήμερο στη Στερεά Ελλάδα
+    url: https://www.egnomi.gr/article/188181/syllipsi_sti_xalkida_gia_narkwtika_epta_syllipseis_se_ena_triimero_sti.html
+    publisher: egnomi.gr
+    date: 2026-11-16
+    language: el
 open_questions:
     - No weight or amount was published for the raw cannabis, so no cannabis quantity is recorded.
     - The Lamia Report attributes small quantities of cannabis to the three Fthiotida arrests, but the drugs in the other four cases are not broken down by case.
@@ -53,18 +63,18 @@ open_questions:
 ---
 
 Police arrested seven people over the previous three days across the Central
-Greece region during systematic anti-drug checks. [@1,2] Three of the arrests were
+Greece region during systematic anti-drug checks. [@1,2,3] Those arrested are Greek nationals and the prescribed case files were opened against them. [@4] Three of the arrests were
 in Fthiotida, made by officers of the Lokroi police station's OPKE
 crime-prevention unit, the Lamia drugs squad and the OPKE unit of the same Lamia
-service. [@1,2] The three people arrested in Fthiotida were men found possessing small quantities of cannabis. [@2] Two arrests were in Evrytania, made by officers of the B OPKE unit
-of the Karpenisi crime investigation and detection department. [@1,2] One arrest
+service. [@1,2,3] The three people arrested in Fthiotida were men found possessing small quantities of cannabis. [@2] Two arrests were in Evrytania, made by officers of the B OPKE unit
+of the Karpenisi crime investigation and detection department. [@1,2,3] One arrest
 was in Boeotia, made by officers of the OEPTA unit of the Livadeia traffic
-police. [@1,2]
+police. [@1,2,3]
 
 One arrest was in Evia, made by officers of the B OPKE unit of the Chalkida
-crime investigation and detection department. [@1,2] Across seven separate cases,
+crime investigation and detection department. [@1,2,4] Across seven separate cases,
 officers seized quantities of heroin, cocaine, raw cannabis and narcotic
-tablets, with no breakdown published of which case involved cannabis. [@1,2]
+tablets, with no breakdown published of which case involved cannabis. [@1,2,3]
 
 The General Regional Police Directorate of Central Greece said combating drugs
 is a high priority and that the checks continue with the protection of the
