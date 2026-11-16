@@ -89,6 +89,11 @@ sources:
     publisher: Haberler
     date: 2026-11-15
     language: tr
+  - title: İstanbul Havalimanı'nda konserve kutularından 13 kilo esrar çıktı
+    url: https://www.habercitv.com.tr/istanbul-havalimaninda-konserve-kutularindan-13-kilo-esrar-cikti
+    publisher: Haberci TV
+    date: 2026-11-15
+    language: tr
 media:
   - kind: photo
     url: https://www.konyapostasi.com.tr/guncel/12-kg-820-g-uyusturucu-ele-gecirildi/786237
@@ -120,12 +125,12 @@ media:
 Customs officers seized 12 kilograms 820 grams of suspected cannabis from the
 baggage of İsmail Mansız at Istanbul Airport after he arrived from Bangkok via
 Doha. [@1,2,3,4,5,6,7,8,9] The suspect was taken into custody on the instruction of the
-Gaziosmanpaşa Chief Public Prosecutor's Office. [@1,2,3,5,6,7,9] After police procedures, the detained İ.M. was referred to the Gaziosmanpaşa courthouse. [@8]
+Gaziosmanpaşa Chief Public Prosecutor's Office. [@1,2,3,5,6,7,9] After police procedures, the detained İ.M. was referred to the Gaziosmanpaşa courthouse. [@8,10]
 
 The risk analysis that flagged him was carried out by the Narcotics Chemistry
 Section of the Istanbul Airport Customs Enforcement Anti-Smuggling and
-Intelligence Directorate. [@1] The search of his baggage found green plant
+Intelligence Directorate. [@1,10] The search of his baggage found green plant
 fragments, assessed to be cannabis, totalling 12 kilograms 820 grams hidden in
-vacuum-sealed bags inside 12 different food packages. [@1,2,3,4,5,6,7,8,9] Judicial proceedings
+vacuum-sealed bags inside 12 different food packages. [@1,2,3,4,5,6,7,8,9,10] Judicial proceedings
 against the detained suspect were continuing. [@1,2,5,6] The market value of the
-seized drugs was put at about 11 million 538,000 lira. [@1,2,3,4,5,6,7,8,9]
+seized drugs was put at about 11 million 538,000 lira. [@1,2,3,4,5,6,7,8,9,10]
