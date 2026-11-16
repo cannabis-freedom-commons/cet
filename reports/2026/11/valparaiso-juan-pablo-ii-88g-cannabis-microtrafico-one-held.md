@@ -61,28 +61,27 @@ sources:
     publisher: Login.cl
     date: 2026-11-13
     language: es
-open_questions:
-  - The outcome of the detention-control hearing and any charges formalised were not reported.
-  - The 29 calibre 12 cartridges and the homemade shotgun relate to firearms law, not cannabis; they are recorded in the text but excluded from cannabis figures.
-  - No value estimate for the 88.26 grams of cannabis was published.
-  - All three accounts reproduce the same PDI statement; the PDI's own page was not accessible for this report.
-  - Puranoticia illustrated the Juan Pablo II search with paper dose-bindle evidence that does not show the stated cannabis flower or homemade shotgun, so no event photo is listed.
+  - title: PDI detuvo a un hombre e incautó una escopeta hechiza en Valparaíso
+    url: https://www.observador.cl/microtrafico-escopeta-valparaiso/
+    publisher: Observador.cl
+    date: 2026-11-15
+    language: es
 ---
 
 Detectives of PDI Valparaíso's criminal investigation brigade (Bicrim) MT0 unit
 detained an adult man on Friday 13 November 2026, morning, for drug
 micro-trafficking in a property in Juan Pablo II population, in the Rodelillo
-hill area, in coordination with the Public Ministry. [@1] The operation was
+hill area, in coordination with the Public Ministry. [@1,4] The operation was
 carried out in fulfilment of an entry and search warrant obtained after various
 investigative actions that gathered evidence on the commercialisation of illicit
 substances in the area. [@1]
 
 The detectives seized 88.26 grams of Cannabis sativa, along with elements for
 dosing drugs, a homemade shotgun suitable for firing, 29 calibre 12 cartridges,
-a cell phone, and $1,140,000 in cash. [@1] The detainee had no police records or
+a cell phone, and $1,140,000 in cash. [@1,4] The detainee had no police records or
 pending judicial orders, and was placed at the court's disposal for the
 corresponding detention-control hearing, while the drug was sent to the
-Valparaíso-San Antonio Health Service. [@1]
+Valparaíso-San Antonio Health Service. [@1,4]
 
 The operation was corroborated by Marga Marga TV and Login.cl, which reported
 the same 88.26 grams of cannabis, the homemade shotgun, 29 calibre 12 cartridges
@@ -90,4 +89,3 @@ and $1,140,000 in cash seized during the same search. [@2] Login.cl reported the
 same seizure figures and noted the operation was carried out by PDI Bicrim
 Valparaíso MT0 detectives, with the subcomisario Enzo Herraz credited as the
 statement source. [@3]
-
