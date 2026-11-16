@@ -1,34 +1,35 @@
 ---
 code: VAWN2S
 added_at: "2026-11-09T22:10:42.588042Z"
-date: 2026-11-09
+date: 2026-11-14
 country: eg
 place: Badrashin, Giza
 coordinates: [29.8514, 31.2742]
 precision: locality
-type: arrest
-also: [seizure, prosecution]
-title: Hashish dealer arrested in Badrashin, Giza
-summary: >-
-  Detectives at Badrashin police station in Giza arrested an unemployed man accused of selling hashish to customers in the district, seizing a large quantity of hashish, cash said to be sale proceeds and a mobile phone. The prosecution opened an investigation.
+type: prosecution
+also: [seizure, arrest]
+title: Badrashin hashish dealer referred to criminal trial
+summary: Giza prosecutors referred a Badrashin hashish dealer to criminal trial for trafficking hashish to customers in the district. Detectives had arrested the man with hashish prepared for sale, cash said to be sale proceeds and a mobile phone.
 figures:
-  arrested: 1
+    arrested: 1
+    charged: 1
 details:
-  agencies: ['Badrashin police station, Giza Security Directorate']
-  agency_types: [police, prosecutor]
-  products:
-    - {product: hashish}
-  activity: [sale, trafficking]
-  case_stage: investigation
-  date_precision: publication
-  region: Giza Governorate
+    agencies: ['Badrashin police station, Giza Security Directorate']
+    agency_types: [police, prosecutor]
+    products:
+        - {product: hashish}
+    activity: [sale, trafficking]
+    case_stage: charged
+    date_precision: publication
+    region: Giza Governorate
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  figures.arrested: [1]
+    details.activity: [1]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [14]
+    details.products: [1]
+    figures.arrested: [14]
+    figures.charged: [14]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 695913b9721cdf303c87cedd8db31dc3
@@ -99,6 +100,14 @@ sources:
     publisher: بوابة مولانا
     date: 2026-11-10
     language: ar
+  - title: إحالة تاجر حشيش في البدرشين للمحاكمة بتهمة الترويج - بوابة مولانا
+    url: https://mwlana.com/details/287533/
+    publisher: بوابة مولانا
+    date: 2026-11-14
+    language: ar
+open_questions:
+  - No weight or piece count for the hashish was published in this account, so no cannabis quantity is recorded from it.
+  - No separate date for the referral decision was given; 14 November 2026 is the article publication date and stands in for the event date.
 ---
 
 Detectives of the Giza Security Directorate arrested a suspected hashish dealer
@@ -111,4 +120,4 @@ legal procedures. [@1,4,5,8]
 He was found with a large quantity of hashish prepared for sale, cash described
 as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3,4,5,7,8,9,11,12,13] The operation seized 59 pieces (farsh) of hashish, which became exhibits at the disposal of the investigation authorities. [@6] During questioning by detectives, the suspect confessed that he purchased bulk quantities of hashish from a supplier, cut them into small pieces and prepared them for distribution in Badrashin and surrounding areas. [@10] Police
 filed a report on the arrest and referred the case to the competent prosecution,
-which began its investigation. [@1,2,4,6,8,11] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3,4,7,8,9,11,12,13] The Giza Public Prosecution ordered the suspect detained for four days pending investigation and requested a technical report to determine the nature and weight of the seized hashish. [@8,9]
+which began its investigation. [@1,2,4,6,8,11] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3,4,7,8,9,11,12,13] The Giza Public Prosecution ordered the suspect detained for four days pending investigation and requested a technical report to determine the nature and weight of the seized hashish. [@8,9] The Giza Public Prosecution referred the detained Badrashin hashish dealer to criminal trial on charges of trafficking hashish and promoting it among customers in the Badrashin police district. [@14]
