@@ -57,6 +57,11 @@ sources:
     publisher: Tribuna
     date: 2026-11-16
     language: ro
+  - title: Accidentul mortal de la Giroc. Șoferul de 17 ani, testat pozitiv la droguri, e în arest la domiciliu
+    url: https://stiridetimisoara.ro/accident-mortal-giroc-sofer-17-ani-arest-domiciliu_85206.html
+    publisher: Stiri de Timisoara
+    date: 2026-11-16
+    language: ro
 open_questions:
     - No quantity, form or seizure of cannabis was reported; the cannabis link rests on a roadside Draeger positive for THC-5, with no laboratory confirmation reported.
     - No names were published; the driver is identified only as a 17-year-old minor and the passenger only as an 18-year-old young woman.
@@ -72,13 +77,13 @@ media:
 
 An 18-year-old young woman passenger died on Saturday evening, 14 November 2026,
 after a car driven by a 17-year-old minor overturned in the locality of Giroc,
-Timiș, when a police crew appeared in the area. [@1,2] The passenger died at
+Timiș, when a police crew appeared in the area. [@1,2,5] The passenger died at
 hospital as a result of the crash while the 17-year-old driver was detained by
-police for investigation. [@1,2] Timis police held the teenager for 24 hours. [@2] Prosecutors appealed the house-arrest decision and continued to seek detention for the 17-year-old. [@3] Magistrates placed the 17-year-old under house arrest after rejecting the prosecutors' request for 30 days of preventive arrest. [@3,4]
+police for investigation. [@1,2] Timis police held the teenager for 24 hours. [@2] Prosecutors appealed the house-arrest decision and continued to seek detention for the 17-year-old. [@3] Magistrates placed the 17-year-old under house arrest after rejecting the prosecutors' request for 30 days of preventive arrest. [@3,4,5]
 
 Investigators said the 17-year-old driver, identified as a minor, had consumed
-cannabis before driving the car. [@1,2,3,4] The teenager tested positive for cannabis and officers collected blood samples to establish the presence of psychoactive substances. [@2] A Draeger test returned positive for THC-5 (cannabis), so the investigation is being extended to driving under the influence of psychoactive substances under art. 336 para. 2 of the Criminal Code, the Timisoara court prosecution said. [@3] The driver and passenger were in a car
-that the youth had taken without the knowledge of its owner. [@1,2,3,4] When the
+cannabis before driving the car. [@1,2,3,4] The teenager tested positive for cannabis and officers collected blood samples to establish the presence of psychoactive substances. [@2] A Draeger test returned positive for THC-5 (cannabis), so the investigation is being extended to driving under the influence of psychoactive substances under art. 336 para. 2 of the Criminal Code, the Timisoara court prosecution said. [@3,5] The driver and passenger were in a car
+that the youth had taken without the knowledge of its owner. [@1,2,3,4,5] When the
 police crew appeared in the area, the 17-year-old driver sped away and
 overturned the car after travelling less than one kilometre. [@1,3] Investigators
 said the crash was caused by the 17-year-old's driving. [@1] Prosecutors said the crash happened at about 19:10 on 14 November 2026 on public roads in Giroc, Timis, when the unlicensed 17-year-old lost control at an intersection, left the roadway and hit a bridge head, killing the woman passenger. [@3,4]
