@@ -43,29 +43,27 @@ sources:
     publisher: KURSKCiTY.RU
     date: 2026-11-16
     language: ru
-open_questions:
-  - No separate date for the sentence was given; 16 November 2026 is the publication date and is used as the incident date.
-  - No date was given for the discovery and seizure of the stored marijuana, only the 12 July 2026 gathering date.
-  - The marijuana was described without any reported laboratory confirmation.
-  - No value estimate for the seized marijuana was published.
-  - The account rests on a single outlet with no named court or agency statement quoted.
+  - title: Курянина поймали с мешком конопли
+    url: https://dddkursk.ru/lenta/2026/11/16/131884/
+    publisher: Друг для друга
+    date: 2026-11-16
+    language: ru
 ---
 
 A court in Kursk Oblast sentenced 34-year-old Viktor Gladkikh, a resident of the
 settlement of Konyshevka, to six months of restriction of freedom for unlawful
-acquisition and storage of drugs without intent to sell. [@1] In court Gladkikh
+acquisition and storage of drugs without intent to sell. [@1,2] In court Gladkikh
 fully admitted his guilt under part 1 of article 228 of the Russian Criminal
 Code. [@1] The court heard the case under a special procedure following the
-admission of guilt. [@1]
+admission of guilt. [@1,2]
 
 Under the sentence he is prohibited from travelling outside Konyshevsky district
-without approval from the supervisory authority. [@1] He is also prohibited from
+without approval from the supervisory authority. [@1,2] He is also prohibited from
 changing his place of residence without approval from the supervisory authority.
 [@1] In addition to those restrictions, he must report to the penal enforcement
 inspectorate every month. [@1]
 
 The court found that on 12 July 2026 Gladkikh discovered wild-growing cannabis,
-picked parts of the plant and carried them to his home. [@1] He kept the
-collected plant material at his home until it was discovered and seized. [@1]
-The seized marijuana had a total weight of 59.1 grams. [@1]
-
+picked parts of the plant and carried them to his home. [@1,2] He kept the
+collected plant material at his home until it was discovered and seized. [@1,2] The marijuana was stored in a rubbish bag. [@2]
+The seized marijuana had a total weight of 59.1 grams. [@1,2]
