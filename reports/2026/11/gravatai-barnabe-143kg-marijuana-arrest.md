@@ -58,12 +58,11 @@ sources:
     publisher: O Repórter
     date: 2026-11-14
     language: pt
-open_questions:
-  - The outlets disagree on the weekday for 13 November, with one calling it Thursday night and another Friday night, while the wider operation is described as running into Friday morning; 13 November 2026 is used as the incident date.
-  - The 14.3 kg was described as a substance resembling marijuana, with no laboratory confirmation reported.
-  - Only the man caught with the marijuana is counted as arrested; two other people were arrested elsewhere in the same wider operation and their alleged offences were not reported.
-  - No court outcome beyond the flagrante and the suspect remaining at the disposal of the courts was reported.
-  - The page photo is credited only as Divulgação, with no caption confirming what it depicts.
+  - title: Operação da Brigada Militar resulta na apreensão de mais de 14 kg de maconha em Gravataí
+    url: https://www.terra.com.br/noticias/brasil/cidades/operacao-da-brigada-militar-resulta-na-apreensao-de-mais-de-14-kg-de-maconha-em-gravatai,cd6a8e64d7defd50bf12ec42784bccb2oqtkrru6.html
+    publisher: Terra
+    date: 2026-11-14
+    language: pt
 ---
 
 Officers of the 17th Military Police Battalion approached a 32-year-old man on
@@ -71,17 +70,16 @@ Rua Otávio Schemes in the Barnabé neighbourhood of Gravataí on the night of 1
 November 2026. [@2] The man told officers he was carrying about 10 kg of
 marijuana in his Renault Clio. [@2] Officers found 20 compact bricks and 14
 smaller portions of a substance resembling marijuana, weighing 14.3 kg in total.
-[@1]
+[@1,3]
 
 Police said the way the drug was divided into bricks and smaller portions
-indicated preparation for large-scale sale. [@1] Officers also seized the
+indicated preparation for large-scale sale. [@1,3] Officers also seized the
 Renault Clio, suspected of being used to transport the drugs, and a mobile phone
-that was to undergo technical examination. [@1] The man was arrested in
+that was to undergo technical examination. [@1,3] The man was arrested in
 flagrante and taken under escort to the Gravataí emergency police station, where
 the flagrante procedures were formalised and he remained at the disposal of the
-courts. [@1]
+courts. [@1,3]
 
 The arrest was part of the 8th Operação Convergência by the Brigada Militar in
 Gravataí and the surrounding area, in which three people were arrested in total,
 including the man caught with the 14.3 kg in Barnabé. [@2]
-
