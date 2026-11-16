@@ -57,27 +57,28 @@ sources:
     publisher: Diario ABC
     date: 2026-11-16
     language: es
-open_questions:
-  - The report rests on a single opened account attributed to Ep; no second independent source was found.
-  - No detention, laboratory-confirmation or appeal details beyond the stated weights, purity and plea were reported.
+  - title: Dos años de cárcel para una joven por intentar introducir cocaína y hachís en una prisión de Galicia
+    url: https://www.eldebate.com/espana/galicia/20261116/dos-anos-carcel-joven-intentar-introducir-cocaina-hachis-prision-galicia_481391.html
+    publisher: El Debate
+    date: 2026-11-16
+    language: es
 ---
 
 A young woman accused of trying to take cocaine and hashish into Bonxe prison in
 Lugo accepted a two-year prison sentence and a 2,195-euro fine under a plea
-agreement with the prosecution at the Lugo Provincial Court. [@1] The prison
+agreement with the prosecution at the Lugo Provincial Court. [@1,2] The prison
 term was suspended because she had no criminal record, so she will not enter
-prison provided she does not reoffend within two years. [@1]
+prison provided she does not reoffend within two years. [@1,2]
 
 The attempt dates to 7 August 2025, when at about 15:15 she visited the prison
 to see her then-partner, who was an inmate there. [@1] Prosecutors said she hid
 several quantities of drugs in body cavities to bring them into the facility.
-[@1] She carried four fragments of cannabis resin weighing 68.124 grams in
-total, with an estimated illicit-market value of 456.43 euros. [@1] She also
+[@1,2] She carried four fragments of cannabis resin weighing 68.124 grams in
+total, with an estimated illicit-market value of 456.43 euros. [@1,2] She also
 carried 7.432 grams of cocaine at 94.4% purity, valued at 2,196.78 euros,
 bringing the combined seized drugs to more than 2,650 euros. [@1]
 
 The prosecution treated the acts as a public-health drug-trafficking offence
-involving substances causing serious harm to health. [@1] It had initially
+involving substances causing serious harm to health. [@1,2] It had initially
 sought five years in prison and a 5,000-euro fine before the parties reached the
-lower agreed penalty at the preliminary hearing held on 16 November 2026. [@1]
-
+lower agreed penalty at the preliminary hearing held on 16 November 2026. [@1,2]
