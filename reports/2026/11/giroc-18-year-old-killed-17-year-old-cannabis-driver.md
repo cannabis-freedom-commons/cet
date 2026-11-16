@@ -42,23 +42,27 @@ sources:
     publisher: Glasul Aradului
     date: 2026-11-15
     language: ro
+  - title: Pozitiv la canabis după accidentul mortal din Giroc! Adolescentul de 17 ani a fost reținut
+    url: https://www.tion.ro/eveniment/pozitiv-la-canabis-dupa-accidentul-mortal-din-giroc-adolescentul-de-17-ani-a-fost-retinut-2390184/
+    publisher: Tion
+    date: 2026-11-15
+    language: ro
 open_questions:
-  - No quantity of cannabis, laboratory finding or toxicology result was published; consumption was reported only as investigators' statement that the driver had consumed cannabis.
-  - The exact date is inferred from Saturday evening before the Sunday 15 November publication; 14 November 2026 is used as the incident date.
-  - No names, exact location within Giroc, or vehicle details were published.
-  - No court outcome or further detention measure was reported; the driver was detained and police opened a criminal investigation.
-  - The whole account rests on one opened source, Glasul Aradului, which credits Pro TV, and no second opened report was found.
+    - No quantity, form or seizure of cannabis was reported; the cannabis link rests on a preliminary positive test with blood-test confirmation still pending.
+    - The exact date is inferred from Saturday evening before the Sunday 15 November 2026 publication; 14 November 2026 is used as the incident date.
+    - No names, exact location within Giroc, or vehicle details were published.
+    - No court outcome beyond the 24-hour detention was reported; prosecutors were expected to seek further detention while the investigation continued.
 ---
 
 An 18-year-old young woman passenger died on Saturday evening, 14 November 2026,
 after a car driven by a 17-year-old minor overturned in the locality of Giroc,
-Timiș, when a police crew appeared in the area. [@1] The passenger died at
+Timiș, when a police crew appeared in the area. [@1,2] The passenger died at
 hospital as a result of the crash while the 17-year-old driver was detained by
-police for investigation. [@1]
+police for investigation. [@1,2] Timis police held the teenager for 24 hours. [@2]
 
 Investigators said the 17-year-old driver, identified as a minor, had consumed
-cannabis before driving the car. [@1] The driver and passenger were in a car
-that the youth had taken without the knowledge of its owner. [@1] When the
+cannabis before driving the car. [@1,2] The teenager tested positive for cannabis and officers collected blood samples to establish the presence of psychoactive substances. [@2] The driver and passenger were in a car
+that the youth had taken without the knowledge of its owner. [@1,2] When the
 police crew appeared in the area, the 17-year-old driver sped away and
 overturned the car after travelling less than one kilometre. [@1] Investigators
 said the crash was caused by the 17-year-old's driving. [@1]
@@ -66,4 +70,3 @@ said the crash was caused by the 17-year-old's driving. [@1]
 Police opened a criminal case for negligent manslaughter, for driving without a
 licence and for theft, and detained the driver while the cannabis use and the
 fatal consequences of the crash remain under investigation. [@1]
-
