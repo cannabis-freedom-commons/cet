@@ -38,6 +38,11 @@ sources:
     publisher: صحيفة صراحة الالكترونية
     date: 2026-11-15
     language: ar
+  - title: ضبط إثيوبي لترويجه الحشيش وأقراص طبية بجازان
+    url: https://slaati.com/2026/11/15/p2880269.html
+    publisher: Slaati
+    date: 2026-11-15
+    language: ar
 open_questions:
   - No quantity or weight was reported for the hashish, amphetamine or regulated tablets, so no cannabis weight can be recorded.
   - The article gives no separate date for the arrest; 15 November 2026 is its publication date and is used as the incident date.
@@ -47,17 +52,16 @@ open_questions:
 ---
 
 Mujahideen patrols in Saudi Arabia's Jazan region arrested an Ethiopian national
-who was in breach of the border-security system. [@1] The man was accused of
+who was in breach of the border-security system. [@1,2] The man was accused of
 promoting hashish and amphetamine, described as narcotic substances, alongside
-tablets subject to medical-circulation controls. [@1]
+tablets subject to medical-circulation controls. [@1,2]
 
 The patrols detained the arrested man and completed the statutory procedures
-against him. [@1] He was then referred to the competent authority for further
-measures. [@1]
+against him. [@1,2] He was then referred to the competent authority for further
+measures. [@1,2]
 
 The directorate urged the public to report drug smugglers and promoters on 911
 in Makkah, Madinah, Riyadh and the Eastern Province and on 999 elsewhere, as
 well as to the anti-narcotics directorate on 995 and by email to
 995@gdnc.gov.sa. [@1] It said all reports are handled in complete
 confidentiality with no liability on the informant. [@1]
-
