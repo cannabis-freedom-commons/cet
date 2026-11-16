@@ -1,0 +1,74 @@
+---
+code: W08H1W
+added_at: "2026-11-16T04:43:44.341733Z"
+date: 2026-11-14
+country: in
+place: Near Lalpur village by Magarmachh bridge, Veerpur, Supaul
+coordinates: [26.5156, 87.0086]
+precision: locality
+type: seizure
+title: 253 kg ganja seized in Supaul border drone search; smugglers flee
+summary: >-
+  SSB's 45th Battalion seized 253 kg of ganja in eight plastic bags near Lalpur village on the India-Nepal border in Supaul. The smugglers escaped in the dark and a drone search found no one before the drugs were handed to Bhimnagar police.
+figures:
+  kg_seized: 253
+details:
+  agencies: [Sashastra Seema Bal (SSB) 45th Battalion Veerpur, Bhimnagar Police Station]
+  agency_types: [border-guard, police]
+  products:
+    - {product: flower, kg: 253}
+  activity: [smuggling]
+  setting: [border]
+  case_stage: investigation
+  date_precision: exact
+  region: Bihar
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.kg_seized: [1]
+status: verified
+created_by_model: muse/muse-spark-1.3#xhigh
+submission: 359b3f318d1144666018474200fb4302
+tags: [bihar, supaul, nepal-border, ssb, ganja]
+sources:
+  - title: 'Watch Video: भारत-नेपाल सीमा पर आठ प्लास्टिक बोरियों से 253 किलो गांजा जब्त, तस्कर फरार'
+    url: https://www.prabhatkhabar.com/state/bihar/supaul/watch-video-ssb-seizes-253kg-ganja-border-drone-raid
+    publisher: Prabhat Khabar
+    date: 2026-11-15
+    language: hi
+open_questions:
+  - The patrol time is given only as about 12:20 at night on 14 November 2026, so it is unclear whether this was just after midnight or late that night.
+  - The 253 kilograms was confirmed after a drug-detection-kit check and legal formalities, with no laboratory confirmation reported.
+  - No arrests were reported, and no suspects, charges or court outcome were named.
+  - No value estimate or number of smugglers was reported.
+  - Only one accessible outlet account of this seizure was found, with no separate SSB or police statement opened.
+---
+
+The 45th Battalion of the Sashastra Seema Bal in Veerpur seized 253 kilograms of
+ganja on the India-Nepal border. [@1] The ganja had been packed into eight
+plastic bags and hidden. [@1] Smugglers fled the spot under cover of darkness
+after seeing the SSB naka party. [@1] A drone-assisted search of the surrounding
+area found no suspects. [@1]
+
+A joint naka party of the battalion headquarters and Border Outpost Shaileshpur
+was on regular patrol from Magarmachh bridge past border pillar 205 toward
+Veerpur at about 12:20 at night on 14 November 2026. [@1] Near Lalpur village on
+the far side of Magarmachh bridge, troops spotted suspicious plastic bags. [@1]
+Approaching the bags, the party smelled a strong ganja-like narcotic odour and
+cordoned off and searched the area. [@1]
+
+Deputy Commandant Harjeet Rao and Assistant Commandant Rahul Kumar were informed
+immediately. [@1] Assistant Commandant Rahul Kumar reached the spot with seizure
+materials, a drug-detection kit, other equipment and a drone. [@1] After
+examination and legal formalities, all eight bags were confirmed to hold a total
+of 253 kilograms of ganja. [@1] The seized drug was formally seized and handed
+to Bhimnagar police for further legal action. [@1]
+
+Assistant Sub-Inspector Kancha Sonar and other SSB personnel took part in the
+operation. [@1] Commandant Gaurav Singh said the battalion maintains constant
+vigilance against drug smuggling and other illegal activity on the border. [@1]
+
