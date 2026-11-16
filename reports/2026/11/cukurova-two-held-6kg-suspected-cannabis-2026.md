@@ -58,10 +58,15 @@ sources:
     publisher: MHA HABER - Mağusa Haber Ajansı
     date: 2026-11-15
     language: tr
+  - title: Çukurova’da 6 kilo 20 gram uyuşturucu madde ele geçirildi
+    url: https://starkibris.net/index.asp?haberID=352022
+    publisher: Star Kıbrıs
+    date: 2026-11-15
+    language: tr
 ---
 
 Narcotics and Anti-Smuggling Directorate teams carried out a joint operation in
-Cukurova village at about 23:15 on 14 November 2026. [@1] The operation was carried out jointly by the Narcotics and Anti-Smuggling Directorate and teams of the Crime Prevention Branch of the Lefkoşa Police Directorate. [@4] Police detained Celal
+Cukurova village at about 23:15 on 14 November 2026. [@1,5] The operation was carried out jointly by the Narcotics and Anti-Smuggling Directorate and teams of the Crime Prevention Branch of the Lefkoşa Police Directorate. [@4] Police detained Celal
 Dogan and Ahmet Zaglul over unlawful taking, possession and supply of cannabis,
 described as Hintkeneviri, and laundering of crime proceeds, and brought them
 before the court. [@3,4] Judge Sevket Gazi ordered both suspects to remain in
@@ -69,7 +74,7 @@ police custody for three days for investigation purposes. [@2]
 
 Officers found about 6 kilograms 20 grams of material believed to be
 Indian-hemp-type cannabis in the possession of the two suspects and took it as
-evidence. [@2,4] On Dogan's indication, officers found about 20 grams more of
+evidence. [@2,4,5] On Dogan's indication, officers found about 20 grams more of
 suspected Indian-hemp-type cannabis in a friend's vehicle. [@2] Police said the
 seized exhibits would be sent for analysis and that one other person believed to
 be connected with the matter was being sought. [@1]
