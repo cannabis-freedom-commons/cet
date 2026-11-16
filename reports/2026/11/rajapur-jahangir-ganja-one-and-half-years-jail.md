@@ -69,6 +69,11 @@ sources:
     publisher: Ajker Patrika
     date: 2026-11-16
     language: bn
+  - title: রাজাপুরে গাঁজাসহ গ্রেপ্তার যুবককে দেড় বছরের কারাদণ্ড
+    url: https://barta24.com/details/national/348093
+    publisher: Barta 24
+    date: 2026-11-16
+    language: bn
 open_questions:
     - It was not reported whether the 2,000-taka fine was paid.
     - The article does not state where Jahangir was taken after sentencing.
@@ -77,20 +82,21 @@ open_questions:
     - One page labels the Sunday-night arrest (16 November) although the same page dates Monday to 16 November 2026, leaving the exact calendar date uncertain.
     - Accounts differ on whether the custodial terms are rigorous imprisonment or imprisonment without labour.
     - The arrest site is described as both the front of the Rari house and the front of Raribari school at Chhoto Kaibatakhali, and it is not stated whether these are the same spot.
+    - The new Barta24 account gives the custodial term as one year and six months in its summary but as one year in its account of the court order, leaving which custodial term its reporting intends uncertain.
 ---
 
 In Rajapur upazila of Jhalokati district, police detained a youth identified as
-Md. Jahangir, aged 31, after finding cannabis, called ganja, with him. [@1,2,4,5] Officers found 150 grams of ganja with him. [@5] The
+Md. Jahangir, aged 31, after finding cannabis, called ganja, with him. [@1,2,4,5,6] Officers found 150 grams of ganja with him. [@5] The
 arrest was made at about 22:50 on Sunday, 15 November, in front of Raribari
-school in the Chhoto Kaibatakhali area of Rajapur upazila. [@1,3] The anti-drug
+school in the Chhoto Kaibatakhali area of Rajapur upazila. [@1,3,6] The anti-drug
 operation was carried out with the help of the village police, also called gram
-police, of Rajapur Sadar Union. [@1,3,4] Jahangir was identified as the son of
-Shaheb Ali from the same area. [@1,2,4] Jahangir is a resident of Ward No. 5 of Sadar Union. [@4]
+police, of Rajapur Sadar Union. [@1,3,4,6] Jahangir was identified as the son of
+Shaheb Ali from the same area. [@1,2,4,6] Jahangir is a resident of Ward No. 5 of Sadar Union. [@4]
 
 Upazila executive officer and executive magistrate Rifat Ara Mouri then
-conducted a mobile court. [@1,3,4,5] The court sentenced Jahangir to one year and six
-months of rigorous imprisonment and a fine of 2,000 taka. [@1,3,4,5] Non-payment of
-the fine carries a further 15 days of rigorous imprisonment. [@1,2,4]
+conducted a mobile court. [@1,3,4,5,6] The court sentenced Jahangir to one year and six
+months of rigorous imprisonment and a fine of 2,000 taka. [@1,3,4,5,6] Non-payment of
+the fine carries a further 15 days of rigorous imprisonment. [@1,2,4,6]
 
 Rifat Ara Mouri said the upazila administration's drive against drugs would
 continue. [@1,4] She added that, alongside such operations aimed at eradicating
