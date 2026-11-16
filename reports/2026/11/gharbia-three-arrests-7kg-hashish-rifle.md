@@ -82,6 +82,11 @@ sources:
     publisher: المصري اليوم
     date: 2026-11-15
     language: ar
+  - title: منشور على مواقع التواصل يقود الأمن إلى 3 تجار مخدرات في الغربية | مصراوي
+    url: https://www.masrawy.com/news/news_cases/details/2026/11/14/3078689/%D8%B6%D8%A8%D8%B7-3-%D8%B9%D8%A7%D8%B7%D9%84%D9%8A%D9%86-%D8%A8%D9%807-%D9%83%D9%8A%D9%84%D9%88-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D8%A2%D9%8A%D8%B3-%D9%88%D8%A8%D9%86%D8%AF%D9%82%D9%8A%D8%A9-%D8%A2%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9
+    publisher: مصراوي
+    date: 2026-11-14
+    language: ar
 media:
   - kind: photo
     url: https://www.youlyou.com/94304
@@ -108,21 +113,26 @@ media:
     media_url: https://www.mobtada.com/resize?src=uploads/images/2026/11/20261114_172137500_0_RgqTcw.jpg&w=750&h=450&zc=0&q=70
     publisher: مبتدا
     caption: Photo labelled 'the accused' published with the Mobtada report on the Gharbia arrests.
+  - kind: photo
+    url: https://www.masrawy.com/news/news_cases/details/2026/11/14/3078689/%D8%B6%D8%A8%D8%B7-3-%D8%B9%D8%A7%D8%B7%D9%84%D9%8A%D9%86-%D8%A8%D9%807-%D9%83%D9%8A%D9%84%D9%88-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D8%A2%D9%8A%D8%B3-%D9%88%D8%A8%D9%86%D8%AF%D9%82%D9%8A%D8%A9-%D8%A2%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9
+    media_url: https://media.gemini.media/img/large/2026/11/14/2026_11_14_17_22_47_49.webp
+    publisher: مصراوي
+    caption: Photo labelled 'the accused' published with the Masrawy report on the Gharbia arrests.
 ---
 
 Security services uncovered the circumstances of a post supported by a video
-clip that had been circulated on social media. [@1,3,4,6,8,9,12] The poster complained that
+clip that had been circulated on social media. [@1,3,4,6,8,9,12,13] The poster complained that
 the occupants of a private car were promoting narcotic substances in a village
-in Gharbia Governorate. [@1,2,3,4,5,8,9,10,11,12] Investigators identified the car appearing in the
+in Gharbia Governorate. [@1,2,3,4,5,8,9,10,11,12,13] Investigators identified the car appearing in the
 video and arrested those responsible for the incident. [@1,4,7,9,12] The three are
 unemployed men, two of whom have criminal records, and they live in Gharbia and
-Kafr El Sheikh governorates. [@1,2,3,4,5,6,8,9,10,11,12]
+Kafr El Sheikh governorates. [@1,2,3,4,5,6,8,9,10,11,12,13]
 
 After legal procedures were completed, officers arrested the suspects while they
-held more than 7 kilograms of hashish. [@1,2,3,4,5,7,9,11] They also held a quantity of ice
-drug and an automatic rifle alongside the hashish. [@1,2,3,4,5,6,8,9,10,11,12] When confronted, the men
+held more than 7 kilograms of hashish. [@1,2,3,4,5,7,9,11,13] They also held a quantity of ice
+drug and an automatic rifle alongside the hashish. [@1,2,3,4,5,6,8,9,10,11,12,13] When confronted, the men
 admitted committing the act as described and possessing the narcotics for the
-purpose of trafficking. [@1,2,3,4,5,6,8,9,10,11,12] The suspects said they kept the firearms to protect their criminal activity. [@11]
+purpose of trafficking. [@1,2,3,4,5,6,8,9,10,11,12,13] The suspects said they kept the firearms to protect their criminal activity. [@11]
 
 Authorities took the necessary legal measures against the suspects, and the
-Public Prosecution took over the investigation. [@1,2,3,4,5,7,8,9,11,12]
+Public Prosecution took over the investigation. [@1,2,3,4,5,7,8,9,11,12,13]
