@@ -51,29 +51,26 @@ sources:
     publisher: Amida Haber
     date: 2026-11-15
     language: tr
-open_questions:
-    - Son Dakika places the raid the day before publication, implying 14 November 2026, while the report retains 15 November 2026 as the incident date.
-    - No identities, charges, pleas or court outcome for the two suspects were reported.
-    - The cannabis was described only as esrar, with no laboratory confirmation reported.
-    - The 381 ecstasy pills and 294 synthetic pharmaceutical pills are excluded from the cannabis figures.
-    - The cannabis total of 96.84 grams is the sum of the separately stated 77 grams and 19.84 grams.
-    - Both accounts reproduce police statements, so they are not independent reporting.
-    - No street value for the seized drugs was published.
+  - title: Diyarbakır'da uyuşturucu operasyonunda 2 gözaltı
+    url: https://www.dha.com.tr/yerel-haberler/diyarbakir/diyarbakirda-uyusturucu-operasyonunda-2-gozalt-2982587
+    publisher: DHA
+    date: 2026-11-16
+    language: tr
 ---
 
 Police in Diyarbakır's Bağlar district detained two suspects in connection with
-a drug operation. [@1,2,3] The suspects had been identified as trading drugs before
+a drug operation. [@1,2,3,4] The suspects had been identified as trading drugs before
 they were caught, in an operation supported by Anti-Terror Branch teams. [@1]
 The Bağlar District Police Crime Prevention and Investigation Bureau had
 received information that drugs and an unlicensed weapon were at an address in
-Kaynartepe Mahallesi. [@1,2,3] The Provincial Police Directorate said it announced the operation on its social media accounts. [@2] After technical and physical surveillance, the teams
+Kaynartepe Mahallesi. [@1,2,3,4] The Provincial Police Directorate said it announced the operation on its social media accounts. [@2] After technical and physical surveillance, the teams
 moved in and raided the identified address with the participation of the
 Anti-Terror Branch. [@1,3]
 
-The search found 381 ecstasy pills and 294 synthetic pharmaceutical pills. [@1,3]
+The search found 381 ecstasy pills and 294 synthetic pharmaceutical pills. [@1,3,4]
 The same search found 77 grams of cannabis and a further 19.84 grams of cannabis
-divided into 65 pieces ready for sale. [@1,3] Officers also seized one unlicensed
-pistol found at the address. [@1,2,3] The two detained suspects were held for police
+divided into 65 pieces ready for sale. [@1,3,4] Officers also seized one unlicensed
+pistol found at the address. [@1,2,3,4] The two detained suspects were held for police
 procedures before being sent to the judicial authorities. [@1]
 
 The operation was presented as part of police anti-drug work that produced a
