@@ -66,6 +66,11 @@ media:
     media_url: https://ichef.bbci.co.uk/ace/standard/624/mcs/media/images/75680000/jpg/_75680872_afp.jpg
     publisher: BBC News
     caption: Bags of seized cannabis burned by police in Lazarat on 19 June 2014
+  - kind: photo
+    url: https://www.newsweek.com/police-burn-23-tons-marijuana-albanian-village-255696
+    media_url: https://assets.newsweek.com/wp-content/uploads/2025/08/255694-rtr3uatw.jpg?w=750&quality=80&webp=1
+    publisher: Newsweek
+    caption: 'Smoke rising as police burn cannabis plants during the Lazarat raid. Photo: Arben Celi/Reuters'
 sources:
   - title: Albania hails police raid on cannabis-growing village
     publisher: BBC News
@@ -77,12 +82,16 @@ sources:
     url: https://www.celebstoner.com/news/marijuana-news/2013/11/04/marijuana-fumes-sicken-albanian-field-workers/?ref=2766&ref_type=related
     archived: https://web.archive.org/web/20260118085727/https://www.celebstoner.com/news/marijuana-news/2013/11/04/marijuana-fumes-sicken-albanian-field-workers/?ref=2766&ref_type=related
     date: 2014-06-21
+  - title: Police Burn 23 Tons of Marijuana in Albanian Village - Newsweek
+    url: https://www.newsweek.com/police-burn-23-tons-marijuana-albanian-village-255696
+    publisher: Newsweek
+    date: 2014-06-20
 ---
 
-About 800 Albanian officers took Lazarat, a southern village believed to be Europe's biggest illegal marijuana producer, under their control in a five-day operation that met gunfire from heavily armed locals. [@1] Police moved into the village on 16 June after a confrontation in which growers defended their fields with mortars, grenades and machine guns. [@1,2]
+About 800 Albanian officers took Lazarat, a southern village believed to be Europe's biggest illegal marijuana producer, under their control in a five-day operation that met gunfire from heavily armed locals. [@1,3] Police moved into the village on 16 June after a confrontation in which growers defended their fields with mortars, grenades and machine guns. [@1,2] An elite police unit flown over nearby Mt. Sopot by French-made Puma army helicopter made a two-hour trek to disperse gunmen operating an anti-aircraft gun that had slowed the advance. [@3]
 
 ## What was seized and destroyed
 
-The authorities said they destroyed more than 25 tonnes of marijuana, more than 90,000 cannabis plants and four drug-processing laboratories. [@1] Dozens of automatic weapons and a large quantity of ammunition were seized, and police said at least six people were arrested. [@1] Many gang leaders escaped during the night, Reuters reported. [@1]
+The authorities said they destroyed more than 25 tonnes of marijuana, more than 90,000 cannabis plants and four drug-processing laboratories. [@1] Dozens of automatic weapons and a large quantity of ammunition were seized, and police said at least six people were arrested. [@1] Police seized 11 heavy weapons, over 7,000 bullets, explosives and 10 grenades and searched 130 houses during the five-day operation. [@3] Many gang leaders escaped during the night, Reuters reported. [@1,3]
 
 Prime Minister Edi Rama praised the operation, saying the police had destroyed the twenty-year taboo of a crime zone that had declared itself a separate republic. [@1] The village, about 230 kilometres south of Tirana, was estimated to produce 900 tonnes of cannabis a year worth 4.5 billion euros, almost half of Albania's gross domestic product. [@1] Interior Minister Saimir Tahiri congratulated the officers in the village. [@1]
