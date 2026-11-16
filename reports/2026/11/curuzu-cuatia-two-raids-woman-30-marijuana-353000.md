@@ -75,27 +75,29 @@ sources:
     publisher: Corrientes 1M
     date: 2026-11-14
     language: es
-open_questions:
-  - 'Left out, as its quotation was not found in Click Corrientes: Nothing linked to the investigation was found at the 40 Viviendas house, according to Click Corrientes.'
+  - title: Dos allanamientos y una mujer detenida por venta de drogas
+    url: https://www.diarioellibertador.com.ar/curuzu-cuatia-dos-allanamientos-y-una-mujer-detenida-por-venta-de-drogas/
+    publisher: Diario El Libertador de Corrientes
+    date: 2026-11-14
+    language: es
 ---
 
 A 30-year-old woman with a record of drug-law offences was detained in Curuzú
-Cuatiá after two raids for narcomenudeo. [@1] The operation took place on 13
+Cuatiá after two raids for narcomenudeo. [@1,5] The operation took place on 13
 November 2026, according to Click Corrientes. [@2] Officers of the Curuzú Cuatiá
 Criminal Investigation Division (DIC) and the Tactical Operations Group (GTO)
-carried out the raids. [@3] The raids were ordered by the Public Prosecution
+carried out the raids. [@3,5] The raids were ordered by the Public Prosecution
 Ministry in an investigation into alleged breaches of Argentina's national drug
-law 23.737 and its provincial counterpart 6.725. [@1] Corrientes 1M likewise
+law 23.737 and its provincial counterpart 6.725. [@1,5] Corrientes 1M likewise
 reports that police searched two houses in the Santa Rita and 40 Viviendas
-neighbourhoods in a narcomenudeo investigation. [@4]
+neighbourhoods in a narcomenudeo investigation. [@4,5]
 
 Officers seized envelopes of plant material that field-tested positive for
-marijuana, a cellphone and $353,000 in cash. [@1] Click Corrientes counts three
+marijuana, a cellphone and $353,000 in cash. [@1,5] Click Corrientes counts three
 envelopes of plant material that tested positive for marijuana. [@2] Police put
-the total value of the seized items at $889,000. [@1]
+the total value of the seized items at $889,000. [@1,5]
 
-In one of the houses officers identified two adults, a woman and a man. [@1] El
+In one of the houses officers identified two adults, a woman and a man. [@1,5] El
 Monterizo says a couple was identified at the Santa Rita house and the woman was
 arrested at the second house. [@3] The detained woman was held at the First
-Police Station and left at the disposal of the courts. [@1]
-
+Police Station and left at the disposal of the courts. [@1,5]
