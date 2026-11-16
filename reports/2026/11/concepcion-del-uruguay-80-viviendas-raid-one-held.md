@@ -53,24 +53,24 @@ sources:
     publisher: Génesis24
     date: 2026-11-14
     language: es
-open_questions:
-  - No weight, plant count or cash amount for the marijuana and money seized was published, so no cannabis quantity or value is recorded.
-  - The marijuana was described only as packets allegedly intended for sale, with no laboratory confirmation reported.
-  - 14 November 2026 is the Saturday of the raid and the date of the Elonce and Génesis24 reports; LaGACETA published the same account on 15 November.
-  - No charge, detention measure beyond the apprehension, or court outcome was reported.
+  - title: Secuestran cocaína, marihuana y dinero en un allanamiento en Concepción - AHORA Entre Ríos
+    url: https://ahora.com.ar/policiales/secuestran-cocaina-marihuana-y-dinero-en-un-allanamiento-en-concepcion
+    publisher: AHORA Entre Ríos
+    date: 2026-11-15
+    language: es
 ---
 
 A 37-year-old man was apprehended during a raid on a house in Barrio 80
 Viviendas in Concepción del Uruguay amid an investigation into alleged drug
 dealing. [@1] Officers seized marijuana together with an electronic scale, cash
-and mobile phones. [@2]
+and mobile phones. [@2,4] The seized substances included both marijuana and cocaine. [@4]
 
 The search of the house found packets of divided-up marijuana and compacted
 marijuana allegedly intended for sale. [@2] The raid was carried out on the
 Saturday by the Dangerous Drugs division of the Uruguay Departmental
 Headquarters with support from the Special Operations Group. [@1] The search was
 ordered by Guarantee Court No. 2 under Gustavo Ariel Díaz with the intervention
-of Prosecutor's Office No. 4 under M. Albertina Chichi. [@1]
+of Prosecutor's Office No. 4 under M. Albertina Chichi. [@1,4] The procedure began at about 16:20 and extended into the night. [@4]
 
 On the prosecutor's order the 37-year-old was taken to and held in the lockup at
 Comisaría Primera, while two women aged 43 and 20 were taken to police
@@ -79,4 +79,3 @@ alleged breach of Entre Ríos Provincial Law 10.566 on narcomenudeo, local retai
 drug dealing, with judicial proceedings continuing. [@1] The judicial measure
 was reported as yielding a positive result, with several items of interest to
 the investigation seized. [@3]
-
