@@ -55,26 +55,36 @@ sources:
     publisher: T24
     date: 2026-11-16
     language: tr
+  - title: Şanlıurfa ve Hakkâri’de “Uyuşturucu Madde İmalatçısı Zehir Tacirlerine” yönelik Jandarmamız tarafından düzenlenen operasyonlarda 566 kg uyuşturucu madde ele geçirildi
+    url: https://x.com/TC_icisleri/status/2122275273718554990
+    publisher: T.C. İçişleri Bakanlığı
+    date: 2026-11-16
+    language: tr
+  - title: Şanlıurfa ve Hakkari'de 566 kg uyuşturucu ele geçirildi
+    url: https://www.alparslandiyari.com/haber/sanliurfa-ve-hakkari-de-566-kg-uyusturucu-ele-gecirildi_81930/
+    publisher: Alparslan Diyarı
+    date: 2026-11-16
+    language: tr
 ---
 
 Gendarmerie forces carried out narcotics operations in Şanlıurfa and Hakkari
 provinces, and a statement from the Interior Ministry said a total of 566
-kilograms of drugs was seized in those operations. [@1,2,3,4,5] The operations were
+kilograms of drugs was seized in those operations. [@1,2,3,4,5,6] The operations were
 coordinated by the Gendarmerie General Command's department for combating
 narcotics crime, working in cooperation with the Siverek and Yüksekova chief
-public prosecutor's offices. [@1,2,4,5] The provincial gendarmerie teams carried out the operations after intelligence work. [@5] Teams from the Şanlıurfa and Hakkari
+public prosecutor's offices. [@1,2,4,5,7] The provincial gendarmerie teams carried out the operations after intelligence work. [@5] Teams from the Şanlıurfa and Hakkari
 provincial gendarmerie commands conducted the operations against people
 manufacturing narcotics, achieving what the report describes as a significant
 success. [@1,2]
 
 Officers seized a total of 370 kilograms of skunk, 177 kilograms of esrar and 19
 kilograms of methamphetamine, together with an unspecified quantity of materials
-used to make other drugs. [@1,2,3,4,5] The skunk and esrar form the cannabis portion of
+used to make other drugs. [@1,2,3,4,5,7] The skunk and esrar form the cannabis portion of
 the seizure, while the methamphetamine is a separate non-cannabis drug that is
 not counted in the cannabis total. [@1]
 
 Detailed follow-up procedures were carried out concerning the suspects who were
-caught with the 566 kilograms of drugs. [@1] No number was given for suspects detained or caught in the operations. [@2] Officials said the operations would
+caught with the 566 kilograms of drugs. [@1] No number was given for suspects detained or caught in the operations. [@2,7] Officials said the operations would
 continue and that drug traffickers would remain under pursuit. [@1] The report
 presents more operations of this kind as underscoring the importance of the
 fight against drugs. [@1]
