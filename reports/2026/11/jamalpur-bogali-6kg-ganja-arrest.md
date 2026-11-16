@@ -41,26 +41,30 @@ sources:
     publisher: NewsG24
     date: 2026-11-16
     language: bn
+  - title: জামালপুরে এসআরবির অভিযানে গাঁজাসহ মাদক কারবারি গ্রেপ্তার
+    url: https://www.agrajatrapratidin.com/crime/news/29759
+    publisher: Agrajatra Pratidin
+    date: 2026-11-16
+    language: bn
 open_questions:
-  - The whole account rests on a single outlet report of an SRB-14 press release, with no second outlet or agency statement opened.
-  - No amount was given for the seized cash, so it is not counted in figures.
-  - No charge, plea or court outcome was reported; the case was at the handover stage.
-  - The ganja was described as recovered without any reported laboratory confirmation.
+    - The account rests on two outlet reports of the SRB-14 action, with no agency statement opened.
+    - No amount was given for the seized cash, so it is not counted in figures.
+    - No charge, plea or court outcome was reported; the case was at the handover stage.
+    - The ganja was described as recovered without any reported laboratory confirmation.
 ---
 
 An SRB-14 CPC-1 Jamalpur team raided the front of Messrs Shatabdi Filling
 Station beside the Jamalpur-Mymensingh road in the Bogali area of Jamalpur Sadar
-at about 5:05 pm on Sunday 15 November 2026 on secret information. [@1] A man
+at about 5:05 pm on Sunday 15 November 2026 on secret information. [@1,2] A man
 who tried to flee on seeing the SRB members was detained and identified as
-Mahfuz Mia, whose home is in Habiganj district. [@1]
+Mahfuz Mia, whose home is in Habiganj district. [@1,2] Mahfuz Mia was reported to be 54 years old. [@2]
 
 In the presence of local witnesses, a search of Mahfuz found 6 kg of ganja
-inside a plastic market bag in his hand. [@1] Officers also seized one mobile
-phone allegedly used in the drug trade and cash. [@1] SRB-14 CPC-1 Jamalpur
+inside a plastic market bag in his hand. [@1,2] Officers also seized one mobile
+phone allegedly used in the drug trade and cash. [@1,2] SRB-14 CPC-1 Jamalpur
 company commander Major Labid Ahmed said preliminary information was that Mahfuz
 had long collected ganja from various border areas and traded it in Jamalpur and
 other regions. [@1]
 
 Mahfuz was handed over with the seized ganja and other items to Jamalpur Sadar
-police station for further legal action. [@1]
-
+police station for further legal action. [@1,2]
