@@ -47,22 +47,21 @@ sources:
   - title: Fentanyl and other drugs seized in West Virginia, 3 arrested
     url: https://www.msn.com/en-us/news/other/fentanyl-and-other-drugs-seized-in-west-virginia-3-arrested/ar-AA2hrmVn
     publisher: MSN
-open_questions:
-  - The marijuana quantity and any separate cannabis-specific charges were not stated.
-  - The arrests were described as taking place Friday, inferred as 13 November from the publication date.
-  - No plea or court outcome was reported.
-  - The account relies on a state police release.
+  - title: Three people arrested after southern West Virginia drug bust
+    url: https://www.lootpress.com/three-people-arrested-after-southern-west-virginia-drug-bust/
+    publisher: Lootpress
+    date: 2026-11-14
 ---
 
 West Virginia State Police arrested three people after a drug investigation at a
-residence in the Greenview area of Boone County on 13 November 2026. [@1] The troopers were from the Madison detachment. [@2,3]
+residence in the Greenview area of Boone County on 13 November 2026. [@1,4] The troopers were from the Madison detachment. [@2,3,4]
 Troopers identified them as Walter Dennis Wilson, 73, of Danville; Emily Marie
-Wilson, 37, of Julian; and Kasey Spears Thompson, 47, of Clothier. [@1] All
+Wilson, 37, of Julian; and Kasey Spears Thompson, 47, of Clothier. [@1,4] All
 three were charged with possession with intent to deliver and conspiracy,
-according to troopers. [@1,2,3]
+according to troopers. [@1,2,3,4]
 
 Troopers said they seized marijuana, fentanyl and multiple prescription
-medications during the investigation. [@1,2,3] The investigation took place at a
-residence on Powell Hollow Road, according to the state police release. [@1,2,3] The
+medications during the investigation. [@1,2,3,4] The investigation took place at a
+residence on Powell Hollow Road, according to the state police release. [@1,2,3,4] The
 three were held at Southwestern Regional Jail and awaiting arraignment when the
-police release was issued. [@1,3]
+police release was issued. [@1,3,4] West Virginia State Police said the investigation remains ongoing. [@4]
