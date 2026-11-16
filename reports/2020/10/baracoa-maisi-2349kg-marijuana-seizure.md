@@ -40,6 +40,11 @@ media:
     media_url: http://media.cubadebate.cu/wp-content/uploads/2020/11/marihuana-cuba-captura-580x272.jpg
     publisher: Cubadebate
     caption: 'The speedboat captured on 16 October with its three crew and the marijuana cargo. Photo: DTGF'
+  - kind: photo
+    url: https://www.escambray.cu/2020/frustran-operaciones-de-narcotrafico-en-el-extremo-oriental-de-cuba/
+    media_url: https://www.escambray.cu/wp-content/uploads/2020/11/droga-inautada-en-el-oriente-de-cuba-foto-dtgf.jpg
+    publisher: Escambray
+    caption: 'The speedboat captured on 16 October with its three crew and the marijuana cargo, in the DTGF handout republished by Escambray. Photo: DTGF'
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fe34dba03c779df573378b7a41431094
@@ -70,6 +75,11 @@ sources:
     publisher: Granma
     date: 2020-11-02
     language: es
+  - title: Frustran operaciones de narcotráfico en el extremo oriental de Cuba
+    url: https://www.escambray.cu/2020/frustran-operaciones-de-narcotrafico-en-el-extremo-oriental-de-cuba/
+    publisher: Escambray
+    date: 2020-11-03
+    language: es
 open_questions:
   - Only one accessible account of this event could be opened, a Diario de Cuba report relaying the state newspaper Granma; no second independent account was found.
   - The exact interception point of the 16 October boat was not given beyond Cuba's eastern coast.
@@ -86,12 +96,12 @@ open_questions:
 ---
 
 On the morning of 16 October 2020, Cuban border guards detained two Bahamians
-and one Jamaican aboard a speedboat with two outboard motors. [@1,2,3,4] On the night
+and one Jamaican aboard a speedboat with two outboard motors. [@1,2,3,4,6] The border guards intercepted the 16 October boat without causing damage to its crew or the vessel. [@6] On the night
 of 9 October 2020, guards detected a speedboat with two outboard motors carrying
-three or four people aboard off southeastern Cuba. [@1,2] The guards pursued that
+three or four people aboard off southeastern Cuba. [@1,2,6] The guards pursued that
 boat for an hour but could not catch those aboard. [@1] After the pursuit, the
 Cuban military notified the Miami Coast Guard and the Royal Bahamas Defence
-Force. [@1,2,3]
+Force. [@1,2,3,6]
 
 Cuba's Tropas Guardafronteras, the Border Guard Troops, seized more than two
 tonnes of marijuana in two October operations against international drug
@@ -100,8 +110,8 @@ Granma. [@1,2,3] In the days after the 9 October chase, authorities recovered 70
 containers and eight isolated packages containing 1,618.75 kilograms of
 marijuana near Baracoa and Maisí. [@1,2,3,4] In the 16 October interception, the
 guards seized 730.41 kilograms of Jamaican marijuana. [@1,2,3,5] Granma reported a
-total of 2,349 kilograms seized in the two operations. [@1,2,5] Granma said the
-entire volume would be incinerated. [@1,3]
+total of 2,349 kilograms seized in the two operations. [@1,2,5,6] Granma said the
+entire volume would be incinerated. [@1,3,6]
 
 Interior Ministry sources described the first operation as one of the most
 complex recent confrontations with drug landings because of its characteristics
