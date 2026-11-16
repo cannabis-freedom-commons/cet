@@ -62,21 +62,26 @@ sources:
     publisher: Il Mattino
     date: 2026-11-15
     language: de
+  - title: 'Non si ferma a un posto di blocco e prende a pugni i poliziotti: 19enne arrestato a Napoli'
+    url: https://www.fanpage.it/napoli/non-si-ferma-a-un-posto-di-blocco-e-prende-a-pugni-i-poliziotti-19enne-arrestato-a-napoli/
+    publisher: Napoli Fanpage
+    date: 2026-11-15
+    language: it
 ---
 
 State police arrested a 19-year-old in Pollena Trocchia for resistance to and
-injury of a public official. [@1,3,4] The events happened on the evening of Saturday
+injury of a public official. [@1,3,4,5] The events happened on the evening of Saturday
 14 November 2026. [@1] Officers of the San Giorgio a Cremano commissariat, on
 targeted patrols, were passing through via Garibaldi when they noticed two
 people on a scooter behaving suspiciously. [@1]
 
 The driver first stopped at the officers' signal but then suddenly accelerated
-and escaped. [@1,3] The 19-year-old passenger assaulted one of the officers, tried
-to flee on foot and was caught in viale Italia after a chase. [@1,3] The youth was
-carrying about 6 grams of hashish when stopped. [@1,3,4]
+and escaped. [@1,3] Police are also examining surveillance-camera images from the area to help trace the fugitive scooter driver. [@5] The 19-year-old passenger assaulted one of the officers, tried
+to flee on foot and was caught in viale Italia after a chase. [@1,3,5] The youth was
+carrying about 6 grams of hashish when stopped. [@1,3,4,5]
 
 A later check of his home found a knuckleduster and about 4 more grams of the
-same substance. [@1,3,4] He was also given an administrative sanction for possession
+same substance. [@1,3,4,5] He was also given an administrative sanction for possession
 of drugs for personal use. [@1,3,4] A second account confirms the same arrest for
 resistance and injury to a public official and the same administrative sanction
 for unlawful possession of drugs for personal use. [@2]
