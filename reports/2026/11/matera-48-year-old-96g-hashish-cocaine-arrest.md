@@ -67,10 +67,15 @@ sources:
     publisher: Ufficio Stampa Basilicata
     date: 2026-11-14
     language: it
+  - title: 'Matera: la Polizia di Stato arresta 48enne per cessione e detenzione di droga. Sequestrati quasi 100 gr di cocaina, hashish e oltre 3.000 euro in contanti.'
+    url: https://www.policorotv.it/index.php/20853-matera-la-polizia-di-stato-arresta-48enne-per-cessione-e-detenzione-di-droga-sequestrati-quasi-100-gr-di-cocaina-hashish-e-oltre-3-000-euro-in-contanti
+    publisher: Policorotv.it
+    date: 2026-11-14
+    language: it
 ---
 
 State police in Matera arrested a 48-year-old Matera man in the act, holding him
-responsible for dealing and possessing drugs for dealing. [@1,4,5] Officers had seen
+responsible for dealing and possessing drugs for dealing. [@1,4,5,6] Officers had seen
 two men enter the garage of the 48-year-old's home during the operation. [@1,5]
 One of the two left shortly afterwards by car but was followed and intercepted
 by a Squadra Mobile officer. [@1] That man was found with a 0.6-gram dose of
@@ -81,7 +86,7 @@ containing 77 grams of cocaine. [@2,3,5] A later search of the tavern room and t
 flat found further drugs hidden in different rooms. [@1] In the flat's bathroom
 cabinets officers found another 19.2 grams of cocaine in various containers,
 some already wrapped in small packets called cipollotti, plus a jar with 0.8
-grams of cocaine and two pieces of hashish totalling 9.6 grams. [@1,3,5] Officers
+grams of cocaine and two pieces of hashish totalling 9.6 grams. [@1,3,5,6] Officers
 also seized two precision scales, cutting and packaging material and 3,265 euros
 in cash treated as likely dealing proceeds. [@1,3,4,5] Police described the overall
 result as almost 100 grams of cocaine, 9.6 grams of hashish, over 3,000 euros in
@@ -90,6 +95,6 @@ in the north of the city. [@1]
 
 The 48-year-old was taken to Matera district prison at the disposal of the
 judicial authority. [@1] After a validation hearing he was placed under house
-arrest with an electronic bracelet. [@2,3,4,5] The man found with the 0.6-gram dose
+arrest with an electronic bracelet. [@2,3,4,5,6] The man found with the 0.6-gram dose
 was instead reported to the prefect in administrative proceedings for personal
 possession. [@1]
