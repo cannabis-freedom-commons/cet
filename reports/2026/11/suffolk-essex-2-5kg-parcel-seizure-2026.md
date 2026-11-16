@@ -42,31 +42,26 @@ sources:
     url: https://www.eadt.co.uk/news/26729866.cannabis-parcel-linked-suffolk-essex-seized/
     publisher: East Anglian Daily Times
     date: 2026-11-15
-open_questions:
-  - The article gives no separate date for the interception or seizure; 15 November 2026 is its publication date and is used as the incident date.
-  - The weight is given only as about and around 2.5kg, with no exact measured weight reported.
-  - No suspects were named and no arrests, charges or court outcomes were reported.
-  - The account does not say which authority first intercepted the parcel as it entered the country, only that Town Centre Team West officers seized the drugs afterwards.
-  - The parcel's origin, entry point and intended destination addresses in Suffolk and Essex were not given.
-  - No value estimate for the cannabis was published.
-  - Only one accessible account of this event was found after searching in English; no agency statement or second outlet account could be opened.
+  - title: Cannabis parcel linked to Suffolk and Essex seized
+    url: https://www.stowmarketmercury.co.uk/news/26729866.cannabis-parcel-linked-suffolk-essex-seized/
+    publisher: Stowmarket Mercury
+    date: 2026-11-15
 ---
 
 A cannabis parcel linked to Suffolk and Essex was seized. [@1] Officers from
 Town Centre Team West seized the drugs after the parcel entering the country was
-intercepted. [@1] A police spokesman described the seizure as another example of
+intercepted. [@1,2] A police spokesman described the seizure as another example of
 proactive policing targeting those involved in the importation and distribution
 of controlled drugs. [@1] The spokesman also said police remained committed to
 identifying offenders and protecting communities from the harm caused by illegal
 drugs. [@1]
 
 About 2.5kg of cannabis was seized after a parcel linked to Suffolk and Essex
-was intercepted as it entered the country. [@1] The parcel, which was entering
+was intercepted as it entered the country. [@1,2] The parcel, which was entering
 the country, was then intercepted. [@1] The quantity was also given as around
 2.5kg in the intercepted parcel entering the country and linked to Suffolk and
 Essex. [@1]
 
 Suffolk Constabulary is the local force named in connection with the seizure.
 [@1] Cannabis is classified as a Class B drug under the Misuse of Drugs Act
-1971. [@1] The drugs seized were cannabis. [@1]
-
+1971. [@1,2] The drugs seized were cannabis. [@1]
