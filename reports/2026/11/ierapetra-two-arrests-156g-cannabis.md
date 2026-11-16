@@ -80,21 +80,26 @@ sources:
     publisher: Kriti360.gr
     date: 2026-11-14
     language: el
+  - title: 'Λασίθι: Δύο συλλήψεις για διακίνηση κάνναβης – Βρέθηκαν κρυμμένα 156,2 γραμμάρια σε αγροτική περιοχή - Μαλεβιζιώτης'
+    url: https://maleviziotis.gr/2026/11/14/lasithi-dyo-syllipseis-gia-diakinisi-kannavis-vrethikan-krymmena-1562-grammaria-se-agrotiki-periochi/
+    publisher: Μαλεβιζιώτης
+    date: 2026-11-14
+    language: el
 ---
 
 Two men aged 31 and 44 were arrested on Friday 13 November 2026 in an area of
 Ierapetra municipality in Lasithi on charges of possessing and trafficking
-narcotics. [@1,3,4,5,6] Officers of the Lasithi Police Operations Department said they
+narcotics. [@1,3,4,5,6,7] Officers of the Lasithi Police Operations Department said they
 saw the 44-year-old supplying the 31-year-old with drugs in exchange for money
-during targeted anti-trafficking checks. [@1,3,4,5,6] A second account identifies the
+during targeted anti-trafficking checks. [@1,3,4,5,6,7] A second account identifies the
 two men as foreign nationals and gives the same ages, place and date of arrest.
 [@2]
 
 Officers then checked the two men and searched the rural area where they were
-found. [@1,3,4] The account says the immediate intervention included physical control of the two men. [@4] In that search officers found 156.2 grams of raw cannabis carefully
-hidden and seized it. [@1,3,4,5,6] They also seized 20 euros, one precision scale and
-one mobile phone. [@1,4,6] The second account confirms the same seizure of 156.2
+found. [@1,3,4,7] The account says the immediate intervention included physical control of the two men. [@4] In that search officers found 156.2 grams of raw cannabis carefully
+hidden and seized it. [@1,3,4,5,6,7] They also seized 20 euros, one precision scale and
+one mobile phone. [@1,4,6,7] The second account confirms the same seizure of 156.2
 grams of raw cannabis, 20 euros, a precision scale and a mobile phone. [@2]
 
 The preliminary investigation was taken over by the Ierapetra Crime Prosecution
-and Investigation Department. [@1,3,4,5,6]
+and Investigation Department. [@1,3,4,5,6,7]
