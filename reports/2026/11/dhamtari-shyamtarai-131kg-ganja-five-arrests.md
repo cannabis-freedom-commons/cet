@@ -80,6 +80,11 @@ sources:
     publisher: Lalluram
     date: 2026-11-15
     language: hi
+  - title: धमतरी में पुलिस ने 72 लाख का 131 किलो गांजा किया जब्त, 5 अंतर्राज्यीय तस्कर गिरफ्तार
+    url: https://www.naidunia.com/chhattisgarh/dhamtari-dhamtari-police-seized-131-kg-of-cannabis-worth-72-lakh-arrested-5-inter-state-smugglers-8476956
+    publisher: Nai Dunia
+    date: 2026-11-16
+    language: hi
 open_questions:
   - Published accounts report the seized ganja as about 130 kg or as 131.668 kg.
   - Published accounts report the value of the seized goods as Rs 60 lakh or as higher detailed valuations.
@@ -103,13 +108,13 @@ media:
 
 Dhamtari police arrested five interstate smugglers from Maharashtra with 131.668
 kg of ganja. [@1,3,4,5,6] After receiving the information, the police team cordoned off
-Shyamtarai naka and stopped the suspect car. [@1,4,7] The arrested men are Kundan
+Shyamtarai naka and stopped the suspect car. [@1,4,7,8] The arrested men are Kundan
 alias Sachin Kailash Egede, 27, Rameshwar Salik Ram Dandge, 31, Robinson
 Lawrence Fernandes, 32, Lakhan Gulab Beldar, 34, and Ganesh Vijay Patil, 29.
-[@2] Rameshwar Dandge, 31, is a resident of Jalgaon district in Maharashtra. [@7] Kundan alias Sachin Egede, 27, is a resident of Malkapur Waghud village in Buldhana district, Maharashtra. [@7] Action is being taken under the NDPS Act while police trace the ganja
-source, routes, buyers and others in the network. [@1,6,7]
+[@2,8] Rameshwar Dandge, 31, is a resident of Jalgaon district in Maharashtra. [@7] Kundan alias Sachin Egede, 27, is a resident of Malkapur Waghud village in Buldhana district, Maharashtra. [@7] Action is being taken under the NDPS Act while police trace the ganja
+source, routes, buyers and others in the network. [@1,6,7] Police registered a case against all five smugglers and sent them to jail. [@8]
 
-Officers recovered 131.668 kg of ganja during the vehicle search. [@1,6] Along
+Officers recovered 131.668 kg of ganja during the vehicle search. [@1,6,8] Along
 with the ganja, officers seized two cars and five mobile phones, with total
 seized property worth Rs 72,45,400. [@1,3,6] Police valued the Nano car at Rs 50,000, the Swift car at Rs five lakh and the five mobile phones at Rs 1,12,000 apart from the ganja. [@3] Police valued the recovered ganja at Rs
 65,83,400. [@1,3,6]
@@ -117,7 +122,7 @@ seized property worth Rs 72,45,400. [@1,3,6] Police valued the Nano car at Rs 50
 The action was carried out under Operation Nishchay. [@1,6] The drive is run to
 curb narcotics trafficking under SP Bhavna Pandey's direction. [@1] The joint team of the Cyber police station and Arjuni police station carried out the operation under Superintendent of Police Bhavna Pandey's direction. [@3,4,5,7] On 15
 November, an informer said two cars were carrying a large ganja consignment from
-the Jaipur area of Odisha via Charama toward Maharashtra. [@1] Police stopped a
+the Jaipur area of Odisha via Charama toward Maharashtra. [@1,8] Police stopped a
 Tata Nano and a Swift Dezire at Shyamatrai Naka. [@2,3] The Tata Nano bore registration CG 07 MA 4067 and the Swift Dezire bore registration MH 04 GD 7906. [@6] The second account puts
 the total seized property at Rs 72,45,400, including both cars and five mobile
 phones. [@2]
