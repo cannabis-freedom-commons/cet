@@ -42,6 +42,9 @@ sources:
     url: https://okcfox.com/news/local/obn-agents-seize-5490-marijuana-plants-as-investigation-into-deadly-explosion-continues
     publisher: KOKH Fox 25
     date: 2026-11-16
+  - title: OBN agents seize 5,490 marijuana plants as investigation into deadly explosion continues
+    url: https://www.msn.com/en-us/news/other/obn-agents-seize-5490-marijuana-plants-as-investigation-into-deadly-explosion-continues/ar-AA2hy00O
+    publisher: KOKH Oklahoma City via MSN
 open_questions:
   - Friday is inferred as 13 November 2026 from the Monday 16 November 2026 publication; no calendar date for the warrants was stated.
   - No breakdown of plants or processed weight by property, Black label Labs/Organically Grown versus Grassfire, was published.
@@ -53,11 +56,11 @@ open_questions:
 ---
 
 On Friday, OBN's Marijuana Enforcement Teams served search warrants in Skiatook.
-[@1] Officials say the search warrants were served simultaneously at Black label
-Labs/Organically Grown and Grassfire. [@1] Arrests are pending. [@1]
+[@1,2] Officials say the search warrants were served simultaneously at Black label
+Labs/Organically Grown and Grassfire. [@1,2] Arrests are pending. [@1,2]
 
 As a result, agents seized 5,490 marijuana plants and 265 pounds of processed
-marijuana. [@1] OBN said its investigation is focusing on evidence of fraud and
+marijuana. [@1,2] OBN said its investigation is focusing on evidence of fraud and
 straw ownership involving the two Skiatook properties. [@1] OBN said it is also
 looking into business connections between the two Skiatook grow operations and
 the processing facility in Sand Springs where two employees lost their lives.
@@ -85,4 +88,3 @@ aggravated trafficking of marijuana, aggravated manufacturing of marijuana, and
 the use of a firearm while in the commission of a felony. [@1] Although the
 incident occurred months ago, OBN agents say they are still investigating and
 serving search warrants on properties in connection to the explosion. [@1]
-
