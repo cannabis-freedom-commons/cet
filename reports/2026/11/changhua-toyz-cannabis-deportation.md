@@ -572,11 +572,16 @@ sources:
     publisher: CTWANT
     date: 2026-11-16
     language: zh
+  - title: 不當美食公道伯了！Toyz向店家道歉「監獄的飯才是狗都不吃」 卻點名狠嗆超哥「可惜」 - 鏡週刊 Mirror Media
+    url: https://www.mirrormedia.mg/external/amp/mirrordaily_98127
+    publisher: 鏡週刊 Mirror Media
+    date: 2026-11-16
+    language: zh
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,65,66,68,70,81,83,84,85,88,89,90,92,93,95,96,97,98,99,100,101] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,65,66,68,70,81,83,84,85,88,89,90,92,93,95,96,97,98,99,100,101,102] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
 [@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38,46,47,48,49,52,54,62,81] Prosecutors ordered deportation in place of protective supervision after
@@ -613,7 +618,7 @@ Officers from the immigration agency's Changhua County task force collected Liu 
 
 Officers from the immigration agency took Liu Weijian to Taichung Airport on 3 November for the forced expulsion, and he is barred from entering Taiwan for six years. [@64]
 
-Liu Weijian, known as Toyz, appeared on camera during a Hong Kong livestream by his wife, entertainer 篠崎泫, on 6 November 2026. [@67,68,69,70,72,73,74,75,76,77,79,83,87,90,92,94] Toyz said he would restart his own channel once his livestreaming equipment in Hong Kong was fully set up. [@67,69,77,79] On 15 November 2026 Toyz announced on Instagram that he would hold his first post-release YouTube livestream at 8 p.m. that evening, with a preview titled 「點名」 on his channel. [@93,94,95,97] Toyz held a YouTube livestream on the evening of 15 November at 8 p.m., drawing more than 140,000 viewers. [@96,98,100,101] Observers using PLAYBOARD put fan donations at about NT$380,000 near the end of the livestream, estimated to reach NT$400,000 before YouTube fees and taxes. [@101] About 10 hours after that livestream ended, the video had passed 1.63 million views and later passed 1.66 million, with peak concurrent viewers above 150,000. [@101] That livestream lasted more than two hours. [@101] A week after returning to Hong Kong, Toyz made his first post-release social-media update, sharing recent photos taken in Stanley with Blake Pier in the background. [@85]
+Liu Weijian, known as Toyz, appeared on camera during a Hong Kong livestream by his wife, entertainer 篠崎泫, on 6 November 2026. [@67,68,69,70,72,73,74,75,76,77,79,83,87,90,92,94] Toyz said he would restart his own channel once his livestreaming equipment in Hong Kong was fully set up. [@67,69,77,79] On 15 November 2026 Toyz announced on Instagram that he would hold his first post-release YouTube livestream at 8 p.m. that evening, with a preview titled 「點名」 on his channel. [@93,94,95,97] Toyz held a YouTube livestream on the evening of 15 November at 8 p.m., drawing more than 140,000 viewers. [@96,98,100,101,102] Observers using PLAYBOARD put fan donations at about NT$380,000 near the end of the livestream, estimated to reach NT$400,000 before YouTube fees and taxes. [@101] About 10 hours after that livestream ended, the video had passed 1.63 million views and later passed 1.66 million, with peak concurrent viewers above 150,000. [@101] That livestream lasted more than two hours. [@101] A week after returning to Hong Kong, Toyz made his first post-release social-media update, sharing recent photos taken in Stanley with Blake Pier in the background. [@85]
 
 Liu Weijian appeared by voice beside his girlfriend 篠崎泫 during a Hong Kong livestream on 6 November, drawing about 5,000 viewers instead of the few hundred the broadcast normally has. [@68] Immigration authorities said a marriage to a Taiwan resident would not by itself confer residence rights, and any application by a Hong Kong or Macao resident would still be reviewed under the relevant permit rules. [@68]
 
