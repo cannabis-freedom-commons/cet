@@ -36,6 +36,10 @@ sources:
     url: https://thenigerialawyer.com/ugandan-woman-caught-with-87-wraps-of-cocaine-after-church-visit-ndlea-intercepts-%E2%82%A6900m-opioids-busts-international-drug-syndicates/
     publisher: TheNigeriaLawyer
     date: 2026-11-09
+  - title: NDLEA arrests Ugandan woman with 87 cocaine wraps concealed in private part, intercepts drugs worth billions
+    url: https://www.wionews.com/world/ugandan-woman-arrested-cocaine-lagos-airport-ndlea-1794209697270
+    publisher: Wion
+    date: 2026-11-09
 open_questions:
     - Two opened accounts now support the Eke Obinagu seizure, but both reproduce the same NDLEA statement and are not independent reporting.
     - No charges, court date, plea or outcome for the suspect was reported.
@@ -46,8 +50,8 @@ open_questions:
 
 Operatives of Nigeria's National Drug Law Enforcement Agency arrested a
 57-year-old man, Celestine Uzochukwu Ejiakor, at a checkpoint in Eke Obinagu,
-Enugu State, on 3 November 2026. [@1,2] Officers found 44 blocks of cannabis
-weighing 22.5 kg with him. [@1,2]
+Enugu State, on 3 November 2026. [@1,2,3] Officers found 44 blocks of cannabis
+weighing 22.5 kg with him. [@1,2,3]
 
 The arrest was one of the cannabis results the agency announced together with
 the airport cocaine case in a roundup published on 9 November 2026. [@1] In the
