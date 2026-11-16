@@ -43,6 +43,11 @@ media:
     media_url: https://s2-g1.glbimg.com/5Sm82PYxbXFNUPNCTDKiGx0m_TM=/0x0:1270x700/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/v/9ryxwsSPCzZWnwlicQgg/edicao-g1-agenda-2026-11-15t151618.868.png
     publisher: g1 Itapetininga e região
     caption: 'Seized cargo of almost one tonne of marijuana on the SP-270 in Itapetininga, valued at almost R$2 million. Photo: PMRv-SP/Divulgação'
+  - kind: photo
+    url: https://policialpadrao.com.br/tor-apreende-quase-uma-tonelada-de-maconha-em-itapetininga-rodovia-raposoo/
+    media_url: https://policialpadrao.com.br/wp-content/uploads/2026/11/Copia-de-Design-sem-nome-2026-11-15T090218.741-1024x640-1.png
+    publisher: Policial Padrão
+    caption: 'Marijuana tablets found in the truck''s cargo compartment. Photo: Portal de Notícias da PMESP'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8284a7a4f4e01410c00cf303f65f6ead
@@ -53,24 +58,22 @@ sources:
     publisher: g1 Itapetininga e região
     date: 2026-11-15
     language: pt
-open_questions:
-  - No exact weight was published, only almost one tonne, so 1,000 kg is stored as the supported approximate figure.
-  - The value is stated only as almost R$2 million, not an exact appraisal.
-  - No name, age or other identity was published for the driver.
-  - No court outcome beyond the flagrante booking for drug trafficking was reported.
-  - The account rests on a single opened report of the highway police statement; no second independent account was found.
+  - title: TOR apreende quase uma tonelada de maconha em Itapetininga
+    url: https://policialpadrao.com.br/tor-apreende-quase-uma-tonelada-de-maconha-em-itapetininga-rodovia-raposoo/
+    publisher: Policial Padrão
+    date: 2026-11-15
+    language: pt
 ---
 
-Highway police arrested the truck driver in flagrante. [@1] Officers took the
+Highway police arrested the truck driver in flagrante. [@1,2] Officers took the
 driver to the Civil Police station in Itapetininga, where he was booked for drug
-trafficking. [@1]
+trafficking. [@1,2]
 
 Officers seized almost one tonne of marijuana from the truck on Saturday 14
-November on the Raposo Tavares highway (SP-270) in Itapetininga. [@1] The
-highway police valued the load at almost R$2 million. [@1]
+November on the Raposo Tavares highway (SP-270) in Itapetininga. [@1,2] The
+highway police valued the load at almost R$2 million. [@1,2]
 
 Officers of the Tático Ostensivo Rodoviário of the 5th Highway Police Battalion
-seized the load at kilometre 167 of the highway. [@1] During an inspection the
+seized the load at kilometre 167 of the highway. [@1,2] During an inspection the
 driver gave contradictory information, which prompted officers to search the
-cargo. [@1]
-
+cargo. [@1] The tablets were hidden in the truck's cargo compartment. [@2]
