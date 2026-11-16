@@ -53,6 +53,11 @@ media:
     media_url: https://i2-prod.manchestereveningnews.co.uk/incoming/article34910469.ece/ALTERNATES/s1200f/1_JSR_MEN_131126cannabis_01.jpg
     publisher: Manchester Evening News
     caption: 'Jack Debson, the defendant jailed over the Manchester Airport cannabis suitcases, in the photo published with the report. Photo: GMP'
+  - kind: photo
+    url: https://www.dailystar.co.uk/news/latest-news/pensioner-74-gives-3-word-37880385
+    media_url: https://i2-prod.dailystar.co.uk/article37880681.ece/ALTERNATES/s1200e/0_Custody-for-media-3.jpg
+    publisher: Daily Star
+    caption: 'Jack Debson in the custody photo published with the report on the Manchester Airport cannabis suitcases. Photo: Manchester Police'
 status: verified
 created_by_model: muse/muse-ember-1.0#max
 submission: 38724d1af4c4521617f5b3e20e360ebf
@@ -62,22 +67,21 @@ sources:
     url: https://www.manchestereveningnews.co.uk/news/greater-manchester-news/pensioner-74-caught-two-suitcases-34910189.amp
     publisher: Manchester Evening News
     date: 2026-11-15
-open_questions:
-  - The article gives no separate date for the sentencing hearing; 15 November 2026, its publication date, is used as the incident date.
-  - The opening paragraph rounds the weight to 33 kilos while the detailed account gives 33.25 kilos; 33.25 kg is used.
-  - The account rests on a single opened source; no independent second report was found.
-  - Who directed Debson is not named, and no other defendant was reported.
+  - title: Pensioner, 74, gives 3-word response to being jailed over £100k cannabis in luggage - Daily Star
+    url: https://www.dailystar.co.uk/news/latest-news/pensioner-74-gives-3-word-37880385
+    publisher: Daily Star
+    date: 2026-11-16
 ---
 
 Jack Debson, 74, of Brownbill Bank, Liverpool, was jailed for three years at
 Manchester Crown Court after admitting being concerned in the fraudulent evasion
-of a prohibition on the importation of a class B drug, namely cannabis. [@1]
+of a prohibition on the importation of a class B drug, namely cannabis. [@1,2]
 Border Force officers stopped Debson in Terminal 2 at Manchester Airport on 11
-June 2026 after he arrived on a flight from Thailand via Dubai. [@1] When the
+June 2026 after he arrived on a flight from Thailand via Dubai. [@1,2] When the
 first suitcase was opened, black vacuum-sealed packages containing the class B
 drug were found under a towel. [@1] More vacuum-sealed packages containing drugs
 were found under another towel in the second suitcase. [@1] In total, the
-cannabis found weighed 33.25 kilos with a street value of £100,000. [@1]
+cannabis found weighed 33.25 kilos with a street value of £100,000. [@1,2]
 
 Debson at first denied the drugs found in his suitcases had anything to do with
 him. [@1] He told officers he had packed both suitcases himself and that they
@@ -98,5 +102,4 @@ found no realistic prospect of rehabilitation, noting a pre-sentence report had
 concluded Debson had shown no remorse and did not appreciate the risk of harm
 caused by cannabis. [@1] He concluded that only immediate custody would be
 adequate punishment. [@1] Debson appeared by videolink and thanked the judge
-after the sentence was announced. [@1]
-
+after the sentence was announced. [@1,2]
