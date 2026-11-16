@@ -78,6 +78,10 @@ sources:
     publisher: Báo Mới
     date: 2026-11-15
     language: vi
+  - title: Mánh giấu 1,8 tấn cần sa dưới đáy sọt nhãn, tuồn về Việt Nam
+    url: https://www.msn.com/vi-vn/news/national/m%C3%A1nh-gi%E1%BA%A5u-18-t%E1%BA%A5n-c%E1%BA%A7n-sa-d%C6%B0%E1%BB%9Bi-%C4%91%C3%A1y-s%E1%BB%8Dt-nh%C3%A3n-tu%E1%BB%93n-v%E1%BB%81-vi%E1%BB%87t-nam/ar-AA2htXqq
+    publisher: MSN
+    language: vi
 open_questions:
   - No separate date for the investigation conclusion was given; 15 November 2026 is the publication date of all four reports and is used as the incident date.
   - The 1,845.5 kg is the quantity one defendant is held liable for transporting, not the weight seized in a single seizure; only the October 2025 seizures of nearly 68.8 kg and more than 66.3 kg are detailed as seized.
@@ -89,7 +93,7 @@ open_questions:
 
 The Ministry of Public Security investigation agency (C04) issued a new
 investigation conclusion proposing prosecution of 14 people for illegal
-transport or illegal trading of narcotics. [@2] The agency sent the case, which
+transport or illegal trading of narcotics. [@2,6] The agency sent the case, which
 occurred in Hanoi, to the Supreme People’s Procuracy with a proposal to
 prosecute 14 defendants. [@3] The case totals 23 indicted defendants, after nine
 were split off earlier and tried on 26 June with prison terms of 7 to 22 years.
@@ -98,7 +102,7 @@ were split off earlier and tried on 26 June with prison terms of 7 to 22 years.
 The group moved cannabis from Thailand to Vietnam through the Cha Lo
 International Border Gate by hiding it in dried-longan baskets and hiring Thai
 transport company JPM to move containers mixed with fresh-longan baskets to
-evade controls. [@1,5] Transporters in Vietnam were paid 100 million dong per trip or 50 million dong per person per time. [@5] After three successful illegal transfers, in early 2025
+evade controls. [@1,5,6] Transporters in Vietnam were paid 100 million dong per trip or 50 million dong per person per time. [@5] After three successful illegal transfers, in early 2025
 Pham Viet Anh directed Tong Thanh Tung and Phung Minh Thuan to use prior
 transport proceeds to buy back a cannabis farm in Bangkok from Cham and Xom as a
 packing site, with Tung paying 500 million dong for it. [@4] By this method the
