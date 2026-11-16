@@ -12,7 +12,7 @@ import { codeOf } from "../src/lib/code.js";
 // Exercise manual refresh against Astro's real content store, route cache and HMR socket.
 // npm test runs every test file at once: Astro's first, cold compile of a page can then take far
 // longer than the few seconds it takes alone, so each wait has a minute and the test five.
-test("dev reports and commits stay quiet until manual refresh; code still hot reloads", { timeout: 300000 }, async () => {
+test("dev ignores generated files and commits, refreshes reports manually, and hot reloads code", { timeout: 300000 }, async () => {
   const root = mkdtempSync(join(tmpdir(), "tracker-changelog-dev-"));
   const git = (...args) => execFileSync("git", args, { cwd: root, stdio: "pipe" });
   let child, socket, logs = "";
@@ -104,8 +104,14 @@ export function getStaticPaths() {
     // a thumbnail commit rewrites the photo manifest, which reports.js imports: quiet too
     writeFileSync(join(root, "src/data/media.json"), readFileSync(join(root, "src/data/media.json"), "utf8").replace(/\n$/, "") + "\n\n");
     git("add", "src/data/media.json"); git("commit", "-m", "Add photo thumbnails: fixture");
+    const beforeBenchmark = logs.length;
+    const work = join(root, "benchmark/.work/run/repeat1/jobs/job");
+    mkdirSync(work, { recursive: true });
+    copyFileSync(join(root, "astro.config.mjs"), join(work, "astro.config.mjs"));
+    writeFileSync(join(work, "source.html"), "<p>Captured benchmark source</p>");
     await delay(1500);
-    assert.equal(notifications.filter(m => m.type === "full-reload" || m.type === "update").length, 0, `Report writes and commits must not trigger HMR: ${JSON.stringify(notifications)}\n${logs}`);
+    assert.doesNotMatch(logs.slice(beforeBenchmark), /benchmark\/\.work|Configuration file added|server restarted/);
+    assert.equal(notifications.filter(m => m.type === "full-reload" || m.type === "update").length, 0, `Generated files and commits must not trigger HMR: ${JSON.stringify(notifications)}\n${logs}`);
     assert.ok(!(await read("/api/index.json")).text.includes("Newly committed report"));
     assert.ok((await read("/report/initial/")).text.includes("Initial report"));
     assert.equal((await read("/report/new-report/")).status, 404);

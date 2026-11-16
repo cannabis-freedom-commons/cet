@@ -7,7 +7,15 @@
 const SYNCS = Symbol.for("tracker.reportSyncs");
 
 export function devWatchIgnored(reportsDirectory) {
-  return ["**/backend/**", "**/.cache/**", "**/src/assets/reports/**", "**/src/data/media.json", "**/.git/**", `${reportsDirectory}/**`];
+  return [
+    "**/backend/**",
+    "**/benchmark/.work/**", // Disposable benchmark checkouts and research snapshots.
+    "**/.cache/**",
+    "**/src/assets/reports/**",
+    "**/src/data/media.json",
+    "**/.git/**",
+    `${reportsDirectory}/**`,
+  ];
 }
 
 export function reportsDev() {
