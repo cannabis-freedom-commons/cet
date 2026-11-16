@@ -73,19 +73,24 @@ sources:
     publisher: Tiempo
     date: 2026-11-14
     language: es
+  - title: Ejército destruye 38 plantíos de marihuana y amapola en Chihuahua y otros tres estados
+    url: https://enblancoynegro.com.mx/2026/11/14/ejercito-destruye-38-plantios-de-m4rhu4n4-y-4m4p0l4-en-chihuahua-y-otros-tres-estados/
+    publisher: En Blanco y Negro
+    date: 2026-11-14
+    language: es
 ---
 
 The operations were carried out on 13 November 2026 through ground and air
-reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6] Soldiers
+reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6,7] Soldiers
 of the Mexican Army and Air Force located and destroyed 38 drug plantations in
 four states as part of operations against narcotics production. [@3,4,5,6] Of the 38
 plantations, 20 were poppy crops and 18 were marijuana crops, together covering
-4.9 hectares. [@3,5,6]
+4.9 hectares. [@3,5,6,7]
 
 A Milenio Facebook post announced the destruction of 38 poppy and marijuana
 plantations in four states with the participation of the Army and the Air Force.
 [@1] Defence figures put the estimated economic damage to organised crime from
-destroying the crops at 6,020,000 pesos. [@3,4,5,6] The Defence Ministry confirmed the
+destroying the crops at 6,020,000 pesos. [@3,4,5,6,7] The Defence Ministry confirmed the
 operation on 14 November through its official channels. [@2]
 
 No arrests linked to the plantations and no criminal groups allegedly
