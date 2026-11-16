@@ -44,6 +44,11 @@ sources:
     publisher: Nouvelle-Calédonie La 1ère
     date: 2026-10-08
     language: fr
+  - title: 'Cannabis : les réseaux sociaux, nouvelles vitrines des trafiquants en Nouvelle-Calédonie - Outre-mer La 1ère'
+    url: https://la1ere.franceinfo.fr/nouvellecaledonie/cannabis-les-reseaux-sociaux-nouvelles-vitrines-des-trafiquants-en-nouvelle-caledonie-1757634.html
+    publisher: Nouvelle-Calédonie La 1ère
+    date: 2026-11-16
+    language: fr
 open_questions:
   - Only one accessible source for this event was found after searching in French; no second account could be opened.
   - The incident date used is the 6 October 2026 sentencing date; the roadside arrest occurred on 4 October 2026.
@@ -55,25 +60,24 @@ open_questions:
 A 28-year-old man from Nouméa was tried under the guilty-plea procedure and
 sentenced to one year of firm prison for cannabis dealing. [@1] He had been
 caught possessing herbal cannabis, proved to be a reseller and was living under
-an electronic bracelet. [@1] A BAC patrol was drawn by a cannabis smell to a car
+an electronic bracelet. [@1,2] A BAC patrol was drawn by a cannabis smell to a car
 parked at the 4e-Km in Nouméa on the afternoon of Saturday 4 October. [@1]
 
 National police anti-crime officers checked the vehicle parked on rue Capiez
 along with its driver and passenger, as recounted by the public prosecutor in a
-statement sent on Wednesday. [@1] Officers found fifteen grams of herbal
+statement sent on Wednesday. [@1,2] Officers found fifteen grams of herbal
 cannabis inside the car, the driver admitted it was his, and he was arrested.
 [@1] In custody, he said he had been trafficking narcotics since July 2026,
-according to prosecutor Yves Dupas. [@1] He had been placed under an electronic
+according to prosecutor Yves Dupas. [@1,2] He had been placed under an electronic
 bracelet since his release from the Koné detention centre on 16 April 2026. [@1]
 
 Described as a habitual consumer for several years, he estimated he carried out
 about ten deals per day, obtaining supplies from different people in Greater
-Nouméa including through social-media exchanges. [@1] A search of his home
+Nouméa including through social-media exchanges. [@1,2] A search of his home
 seized 347 grams of cannabis, and he reported a profit of 160,000 CFP over the
-previous two months. [@1] He had already been convicted four times for drug-law
+previous two months. [@1,2] He had already been convicted four times for drug-law
 offences. [@1]
 
 Brought before the prosecution on Monday 6 October, he received twelve months of
 firm imprisonment with immediate incarceration under the comparution sur
-reconnaissance de culpabilité procedure. [@1]
-
+reconnaissance de culpabilité procedure. [@1,2]
