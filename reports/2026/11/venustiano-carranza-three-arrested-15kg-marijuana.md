@@ -81,18 +81,23 @@ sources:
     publisher: La Silla Rota
     date: 2026-11-14
     language: es
+  - title: Caen tres sujetos con 15 kilos de marihuana y 655 dosis de cocaína en Venustiano Carranza; uno de ellos tiene dos ingresos a cárceles de CDMX
+    url: https://www.eluniversal.com.mx/metropoli/caen-tres-sujetos-con-15-kilos-de-marihuana-y-655-dosis-de-cocaina-en-venustiano-carranza-uno-de-ellos-tiene-dos-ingresos-a-carceles-de-cdmx/
+    publisher: El Universal
+    date: 2026-11-14
+    language: es
 ---
 
 Mexico City police detained three men in colonia Zona Centro in Venustiano
 Carranza. [@2,5,6] The detained men were identified as Ramón 'N', Marco 'N' alias El
-Vite and Luis 'N' alias Balú. [@4,6] La Crónica gives Ramón's full name as Ramón Bautista Hernández. [@5] The detained men are aged 23, 25 and 28. [@3,6] La Crónica maps the reported ages to the names: Ramón is 28, Marco Antonio alias Vite is 25, and Luis Ulises alias Balú is 23. [@5]
+Vite and Luis 'N' alias Balú. [@4,6] La Crónica gives Ramón's full name as Ramón Bautista Hernández. [@5] The detained men are aged 23, 25 and 28. [@3,6] La Crónica maps the reported ages to the names: Ramón is 28, Marco Antonio alias Vite is 25, and Luis Ulises alias Balú is 23. [@5,7]
 Officers on patrol at the junction of José Joaquín Herrera and Bravo spotted the
 three men carrying a large plastic box and two black bags. [@3,5,6] The men tried to
 flee when they saw the police but were intercepted metres ahead. [@3]
 
-Officers seized 15 kilograms of apparent marijuana from the men. [@1,5,6] Officers
+Officers seized 15 kilograms of apparent marijuana from the men. [@1,5,6,7] Officers
 also seized 655 wrappers holding a powder with the characteristics of cocaine.
-[@3,5,6] The three men and the seized drugs were placed at the disposal of the
+[@3,5,6,7] The three men and the seized drugs were placed at the disposal of the
 Public Prosecutor's agent, which will open the investigation file and decide
 their legal situation. [@4,6]
 
