@@ -63,23 +63,34 @@ sources:
     publisher: Diário do Distrito
     date: 2026-11-15
     language: pt
-open_questions:
-  - The hashish is given only as 196 doses with no weight in grams, so no cannabis weight is recorded.
-  - This account does not repeat the kilometre 120 marker, the 30-pack count for the cigarettes or the 10h00 time for the interrogation reported from other outlets.
-  - No court outcome beyond the scheduled first judicial interrogation was reported.
+  - title: 'Fiscalização Na A2 Revela Carga Invulgar: 270 Jerricãs, Haxixe E Dois Detidos — DD — Instagram (foto Total) - Diário do Distrito'
+    url: https://diariodistrito.sapo.pt/gnr-interceta-combustivel-e-haxixe-na-a2/fiscalizacao-na-a2-revela-carga-invulgar-270-jerricas-haxixe-e-dois-detidos-dd-instagram-foto-total/
+    publisher: Diário do Distrito
+    date: 2026-11-15
+    language: pt
+  - title: Detido casal que transportava 270 jerricãs com 6750 litros de gasolina na A2
+    url: https://www.jn.pt/justica/artigo/detido-casal-que-transportava-270-jerricas-com-6750-litros-de-gasolina-na-a2/18148445
+    publisher: Jornal de Notícias
+    date: 2026-11-15
+    language: pt
+  - title: Dois detidos na A2 em Grândola. Tinham 6.750 litros de gasolina e droga
+    url: https://noticiasaominuto.com/pais/3084407/gnr-detem-duas-pessoas-na-a2-em-grandola-e-apreende-6750-litros-de-gasonlina-e-droga
+    publisher: Notícias ao Minuto
+    date: 2026-11-15
+    language: pt
 ---
 
 Officers of the GNR National Traffic Unit and the Setúbal Traffic Detachment
 intercepted a Spanish-registered vehicle at kilometre 120 of the A2 motorway in
-Grândola at about 23:30 on Saturday 14 November. [@1,2,3,4,5] The car's two occupants, a
+Grândola at about 23:30 on Saturday 14 November. [@1,2,3,4,5,8] The car's two occupants, a
 23-year-old man and a 31-year-old woman, were detained and made arguidos, formal
-suspects under Portuguese procedure. [@1,2,3,4,5] Both remained detained until a first
+suspects under Portuguese procedure. [@1,2,3,4,5,6] Both remained detained until a first
 judicial interrogation set for 10h00 on Monday 16 November to set coercion
 measures. [@1,3,4,5]
 
 During the police follow-up officers found 196 doses of hashish, 600 cigarettes
 in 30 packs, 20 torch-type lighters, six boxes of lighter refills and six
-mobile-phone chargers. [@1,2,3,4,5] The GNR seized 270 petrol jerricans of 25 litres
+mobile-phone chargers. [@1,2,3,4,5,7] The GNR seized 270 petrol jerricans of 25 litres
 each during the Saturday 14 November road-traffic operation. [@1,2,3,4] The report
 puts the total fuel load at 6,750 litres in the same vehicle on the A2 at
 Grândola. [@1,3] The light vehicle used by the suspects was also seized. [@1,3]
