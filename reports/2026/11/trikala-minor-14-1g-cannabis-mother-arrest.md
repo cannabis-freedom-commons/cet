@@ -46,6 +46,11 @@ sources:
     publisher: Trikala Online
     date: 2026-11-15
     language: el
+  - title: Τρίκαλα – Ανήλικος με κάνναβη, σύλληψη και της μητέρας
+    url: https://www.trikalanews.gr/trikala-anilikos-kannavi-syllipsi-miteras/
+    publisher: TrikalaNews
+    date: 2026-11-15
+    language: el
 open_questions:
   - No age, identity, detention measure or court outcome was reported for the minor.
   - No detention measure, plea or court outcome was reported for the mother.
@@ -54,12 +59,12 @@ open_questions:
 ---
 
 On the evening of Saturday 14 November 2026, officers of the Trikala DIAS
-motorcycle-policing unit arrested a minor Greek national in Trikala. [@1,2] During
+motorcycle-policing unit arrested a minor Greek national in Trikala. [@1,2,3] During
 the check, officers found one nylon package with raw dried cannabis weighing
-14.1 grams in his possession and seized it. [@1,2] The minor's mother was arrested
-alongside him on suspicion of neglecting supervision of a minor. [@1,2]
+14.1 grams in his possession and seized it. [@1,2,3] The minor's mother was arrested
+alongside him on suspicion of neglecting supervision of a minor. [@1,2,3]
 
 The seized cannabis was described as raw dried cannabis in a single nylon
-package with a total weight of 14.1 grams. [@1] The arrest was carried out by
+package with a total weight of 14.1 grams. [@1,3] The arrest was carried out by
 the DIAS motorcycle-policing team, the unit named as acting in Trikala that
 evening. [@1]
