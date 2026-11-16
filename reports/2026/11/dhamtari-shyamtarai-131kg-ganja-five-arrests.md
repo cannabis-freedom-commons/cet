@@ -65,10 +65,18 @@ sources:
     publisher: Aaj Ki Jandhara
     date: 2026-11-15
     language: hi
+  - title: 'Chhattisgarh news: छत्तीसगढ़ पुलिस की बड़ी कार्रवाई; ओडिशा से महाराष्ट्र जा रहा था 130 किलो गांजा जब्त, 5 तस्कर गिरफ्तार'
+    url: https://rghnews.com/chhattisgarh-news-343/
+    publisher: RGH News
+    date: 2026-11-15
+    language: hi
+open_questions:
+  - Published accounts report the seized ganja as about 130 kg or as 131.668 kg.
+  - Published accounts report the value of the seized goods as Rs 60 lakh or as higher detailed valuations.
 ---
 
 Dhamtari police arrested five interstate smugglers from Maharashtra with 131.668
-kg of ganja. [@1,3,4] After receiving the information, the police team cordoned off
+kg of ganja. [@1,3,4,5] After receiving the information, the police team cordoned off
 Shyamtarai naka and stopped the suspect car. [@1,4] The arrested men are Kundan
 alias Sachin Kailash Egede, 27, Rameshwar Salik Ram Dandge, 31, Robinson
 Lawrence Fernandes, 32, Lakhan Gulab Beldar, 34, and Ganesh Vijay Patil, 29.
@@ -81,7 +89,7 @@ seized property worth Rs 72,45,400. [@1,3] Police valued the Nano car at Rs 50,0
 65,83,400. [@1,3]
 
 The action was carried out under Operation Nishchay. [@1] The drive is run to
-curb narcotics trafficking under SP Bhavna Pandey's direction. [@1] The joint team of the Cyber police station and Arjuni police station carried out the operation under Superintendent of Police Bhavna Pandey's direction. [@3,4] On 15
+curb narcotics trafficking under SP Bhavna Pandey's direction. [@1] The joint team of the Cyber police station and Arjuni police station carried out the operation under Superintendent of Police Bhavna Pandey's direction. [@3,4,5] On 15
 November, an informer said two cars were carrying a large ganja consignment from
 the Jaipur area of Odisha via Charama toward Maharashtra. [@1] Police stopped a
 Tata Nano and a Swift Dezire at Shyamatrai Naka. [@2,3] The second account puts
