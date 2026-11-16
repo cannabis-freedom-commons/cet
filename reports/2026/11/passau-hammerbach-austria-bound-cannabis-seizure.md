@@ -42,6 +42,11 @@ sources:
     publisher: Passauer Neue Presse
     date: 2026-11-15
     language: de
+  - title: Cannabis bei Kontrolle auf der A3 sichergestellt | WAIDLER.COM
+    url: https://www.waidler.com/berichte/36458.cannabis-bei-kontrolle-auf-der-a3-sichergestellt.html?back=%2Findex.php-page%3Dberichte%26i%3D
+    publisher: WAIDLER.COM
+    date: 2026-11-14
+    language: de
 open_questions:
   - No weight was published for the cannabis, described only as a geringe Menge, so no cannabis figure is recorded.
   - The WAIDLER.COM article published on 14 November 2026 says the check happened on a Saturday evening the day before, while the PNP account published on 15 November 2026 places the Saturday-evening check on 14 November; 14 November 2026 is used as the incident date.
@@ -52,14 +57,13 @@ open_questions:
 
 Border-investigation officers from the Passau border police inspectorate stopped
 a 36-year-old driver of a German-registered car at the Hammerbach parking area
-on the A3 toward the border on a Saturday evening. [@1] A search of the vehicle
-found a small amount of cannabis in a bag. [@1] Officers said the driver had
-intended to take the cannabis from Germany to Austria. [@1]
+on the A3 toward the border on a Saturday evening. [@1,3] A search of the vehicle
+found a small amount of cannabis in a bag. [@1,3] Officers said the driver had
+intended to take the cannabis from Germany to Austria. [@1,3]
 
 Officers seized the cannabis and opened criminal proceedings against its owner
-under Germany's Consumer Cannabis Act. [@1] After the police measures were
-completed, the driver was allowed to continue his journey. [@1] A second account
+under Germany's Consumer Cannabis Act. [@1,3] After the police measures were
+completed, the driver was allowed to continue his journey. [@1,3] A second account
 confirms the same Saturday-evening check of a 36-year-old's car at Hammerbach,
 the small amount of cannabis meant for Austria, and the seizure with proceedings
 against its owner. [@2]
-
