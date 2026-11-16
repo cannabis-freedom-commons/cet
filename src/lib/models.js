@@ -29,6 +29,7 @@ export const describePeak = (peak) => `weekdays ${peak.hours.map(([a, b]) => `${
 // Each model once, with its price at every provider that offers it. Prices: `input`, `output`;
 // `cached` (cache reads) and `cacheWrite` fall back to `input` where no rate of their own was
 // supplied; `peak` with `peakInput`/`peakOutput`/`peakCached` for hours that cost more;
+// `longContext` for requests above a model's input-token threshold;
 // `planMultiplier` divides the API price into what a run takes of a subscription.
 export const MODELS = {
   "gpt-6.1-terra": {
@@ -45,6 +46,13 @@ export const MODELS = {
       // operator-supplied rates; a 15× subscription on Swancloud, 6× on OpenCode Go ($10 buys $60)
       swancloud: { input: 0.100, output: 0.200, cached: 0.002, planMultiplier: 15 },
       "opencode-go": { input: 0.10, output: 0.20, cached: 0.002, planMultiplier: 6 },
+    },
+  },
+  "muse-ember-1.0": {
+    name: "Muse Ember", by: "Meta",
+    providers: {
+      // API value of Muse Code usage: https://dev.meta.ai/docs/pricing-rate-limits#muse-ember
+      muse: { input: 0.10, output: 0.50, cached: 0.004, longContext: { threshold: 200_000, input: 0.30, output: 1.50, cached: 0.012 } },
     },
   },
   // run on Meta's own Muse agent (RESEARCH_AGENTS "muse@muse-spark-1.3"), always in contributor

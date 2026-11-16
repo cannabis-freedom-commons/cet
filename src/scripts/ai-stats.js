@@ -49,19 +49,22 @@ function initialize(root) {
     if (!row.total) { name.title = row.model; name.append(node('small', [row.providerName, row.effort].filter(Boolean).join(' · '))); }
     // a model that costs more in peak hours: its share of runs started then, and under each price
     // the off-peak and peak rates (the line above them is the average the runs came to)
-    const p = row.price?.peak ? row.price : null;
+    const p = row.price, long = p?.longContext;
     const est = row.runs - row.unpriced - row.reportedRuns;
-    if (p) {
+    if (p?.peak) {
       const peakNote = node('small', `${pct(row.peakRuns, est)} of runs in peak hours`, 'peak');
       peakNote.title = `Peak hours: ${describePeak(p.peak)}. ${fmt(row.peakRuns)} of ${fmt(est)} runs started in them.`;
       name.append(peakNote);
     }
+    if (long) name.append(node('small', `Higher rates above ${fmt(long.threshold)} input tokens per request`));
     const price = (v) => `$${v.toFixed(v < 0.1 ? 3 : 2)}`;
-    const both = (off, peak) => p && peak != null ? [[`off-peak ${price(off)} · peak ${price(peak)}`, 'peak']] : [];
+    const both = (key, peakKey) => long
+      ? [[`${price(p[key])}/M · ${price(long[key])}/M long context`]]
+      : p?.[peakKey] != null ? [[`off-peak ${price(p[key])} · peak ${price(p[peakKey])}`, 'peak']] : [];
     tr.append(name, node('td', fmt(row.runs), 'num'),
-      tokenCell(row.fresh, row.costInput, row.estFresh, both(p?.input, p?.peakInput)),
-      tokenCell(row.cached, row.costCacheRead, row.estCached, [...both(p?.cached, p?.peakCached), [`${pct(row.cached, row.fresh + row.cached + row.cacheWrite)} of input`], [row.cachedAtInput ? 'at input price' : '', 'warn']]),
-      tokenCell(row.output, row.costOutput, row.estOutput, both(p?.output, p?.peakOutput)));
+      tokenCell(row.fresh, row.costInput, row.estFresh, both('input', 'peakInput')),
+      tokenCell(row.cached, row.costCacheRead, row.estCached, [...both('cached', 'peakCached'), [`${pct(row.cached, row.fresh + row.cached + row.cacheWrite)} of input`], [row.cachedAtInput ? 'at input price' : '', 'warn']]),
+      tokenCell(row.output, row.costOutput, row.estOutput, both('output', 'peakOutput')));
     const cost = node('td', none ? 'no price' : usd(row.cost), 'num');
     if (row.reported) cost.append(node('small', row.reportedRuns === row.runs - row.unpriced ? 'reported by OpenCode' : `${usd(row.reported)} reported`));
     if (row.costCacheWrite >= 0.01) cost.append(node('small', `${usd(row.costCacheWrite)} cache writes`));
@@ -70,7 +73,7 @@ function initialize(root) {
     if (hasPlan) {
       const plan = node('td', row.planCost ? usd(row.planCost) : '—', 'num');
       if (row.plan) { const s = node('small', planShort(row.plan)); s.title = planDescription(row.plan); plan.append(s); }
-      else if (!row.total && !none) plan.append(node('small', 'paid as used'));
+      else if (!row.total && !none) plan.append(node('small', row.provider === 'muse' && long ? 'API estimate' : 'paid as used'));
       tr.append(plan);
     }
     const priced = row.runs - row.unpriced;

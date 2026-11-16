@@ -817,26 +817,31 @@ WebSocket with a 30-second fallback. All time, rolling 30 days and Today (UTC) u
 research start times, count retries once per run, and exclude unstarted reservations
 and startup probes. SQL aggregates research runs directly, without joining receipts.
 The endpoint returns only aggregate telemetry, grouped by model, peak/off-peak tier
-and reported-cost availability. It never exports prompts, sessions or source evidence.
+and reported-cost availability, with separate token counts for requests billed at long-context rates.
+It never exports prompts, sessions or source evidence.
 
 The statistics page splits tokens and cost by kind: fresh input, cache reads (with their share of
 all input), cache writes and output (reasoning included), each with what it cost and the price per
 million tokens it came to. Reported OpenCode costs take precedence and are shown as one sum, since
-OpenCode does not split them; otherwise known model pricing is estimated using the start-time tier.
+OpenCode does not split them; otherwise known model pricing is estimated using the recorded tiers.
 Models with no price are listed with their tokens and left out of every cost, and the page names
 them. Interrupted/running usage may be incomplete.
 
 Every price, plan multiplier and peak window is in `src/lib/models.js` (operator-supplied rates
 for Muse Spark; the publishers' own rates for OpenAI, DeepSeek and Anthropic, with DeepSeek's
 off-peak rates on Swancloud, which has no peak hours, and Claude Haiku 5.5 at its rate for prompts up
-to 100,000 tokens). Where a model has no cache price, cache reads are counted at the fresh-input
+to 100,000 tokens). For Muse Ember through Muse Code (`muse/muse-ember-1.0`), the tracker
+uses the published API rates to estimate usage value. The higher rate applies to the entire
+request when its input exceeds 200,000 tokens, including cached input. The tracker records those
+tokens per request before summing them. Older runs without the tier breakdown or a reported cost
+use the base rate as a lower bound. Where a model has no cache price, cache reads are counted at the fresh-input
 price, and the page marks them "at input price". Plan share is API value
 divided by the model's own multiplier (Swancloud 15×, OpenCode Go Muse 6×); the configured
 RESEARCH_PLAN_USD / RESEARCH_PLAN_ALLOWANCE_USD ratio is the OpenCode Go subscription and covers
 only that provider (`CONFIGURED_PLAN_PROVIDERS`). API keys (OpenAI, xAI) are paid as used and have
 no plan share. Plan share is an allocation estimate, not additional billing. The register, request
 detail, report research summary and AI statistics use the same calculations.
-Cost sorting uses API value, including the Swancloud and OpenCode Go Muse estimates.
+Cost sorting uses API value, including the Swancloud, OpenCode Go Muse and Muse Code Ember estimates.
 
 ## Photo thumbnails
 

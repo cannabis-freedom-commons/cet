@@ -34,7 +34,25 @@ type AIRun struct {
 	CacheReadTokens  int64   `json:"cache_read_tokens"`
 	CacheWriteTokens int64   `json:"cache_write_tokens"`
 	CostUSD          float64 `json:"cost_usd"`
+	LongContextUsage
 }
+
+// LongContextUsage is the subset of run tokens from requests above the model's
+// long-context threshold. Long output includes reasoning.
+type LongContextUsage struct {
+	LongInputTokens      int64 `json:"long_input_tokens,omitempty"`
+	LongCacheReadTokens  int64 `json:"long_cache_read_tokens,omitempty"`
+	LongCacheWriteTokens int64 `json:"long_cache_write_tokens,omitempty"`
+	LongOutputTokens     int64 `json:"long_output_tokens,omitempty"`
+}
+
+const museEmberModel = `(model='muse/muse-ember-1.0' OR instr(model,'muse/muse-ember-1.0#')=1)`
+const museEmberLongThreshold = 200_000
+
+func (u *LongContextUsage) scanTargets() []any {
+	return []any{&u.LongInputTokens, &u.LongCacheReadTokens, &u.LongCacheWriteTokens, &u.LongOutputTokens}
+}
+
 type AIActivity struct {
 	Runs       []AIRun   `json:"runs"`
 	Events     []AIEvent `json:"events"`
@@ -81,13 +99,13 @@ func (s *Store) aiActivity(ctx context.Context, submissionID string, after int64
 	if full {
 		runLimit, eventLimit = -1, -1
 	}
-	rows, err := s.reader().QueryContext(ctx, "SELECT id,model,runner,session_id,status,outcome,created_at,coalesce(started_at,0),coalesce(finished_at,0),input_tokens,output_tokens,reasoning_tokens,cache_read_tokens,cache_write_tokens,cost_usd FROM research_runs WHERE case_id=? ORDER BY rowid DESC LIMIT ?", cid, runLimit)
+	rows, err := s.reader().QueryContext(ctx, "SELECT id,model,runner,session_id,status,outcome,created_at,coalesce(started_at,0),coalesce(finished_at,0),input_tokens,output_tokens,reasoning_tokens,cache_read_tokens,cache_write_tokens,cost_usd,long_input_tokens,long_cache_read_tokens,long_cache_write_tokens,long_output_tokens FROM research_runs WHERE case_id=? ORDER BY rowid DESC LIMIT ?", cid, runLimit)
 	if err != nil {
 		return out, err
 	}
 	for rows.Next() {
 		var r AIRun
-		if err = rows.Scan(&r.ID, &r.Model, &r.Runner, &r.SessionID, &r.Status, &r.Outcome, &r.CreatedAt, &r.StartedAt, &r.FinishedAt, &r.InputTokens, &r.OutputTokens, &r.ReasoningTokens, &r.CacheReadTokens, &r.CacheWriteTokens, &r.CostUSD); err != nil {
+		if err = rows.Scan(append([]any{&r.ID, &r.Model, &r.Runner, &r.SessionID, &r.Status, &r.Outcome, &r.CreatedAt, &r.StartedAt, &r.FinishedAt, &r.InputTokens, &r.OutputTokens, &r.ReasoningTokens, &r.CacheReadTokens, &r.CacheWriteTokens, &r.CostUSD}, r.scanTargets()...)...); err != nil {
 			rows.Close()
 			return out, err
 		}
@@ -170,7 +188,20 @@ func (s *Store) UpdateRun(ctx context.Context, id string, u RunUpdate) error {
 		}
 	}
 	if t := u.Usage; t != nil {
-		if _, err := s.DB.ExecContext(ctx, "UPDATE research_runs SET input_tokens=input_tokens+?,output_tokens=output_tokens+?,reasoning_tokens=reasoning_tokens+?,cache_read_tokens=cache_read_tokens+?,cache_write_tokens=cache_write_tokens+?,cost_usd=cost_usd+?,tokens_backfilled=1 WHERE id=?", t.Input, t.Output, max(0, t.Reasoning), max(0, t.CacheRead), max(0, t.CacheWrite), t.Cost, id); err != nil {
+		reasoning, read, write := max(0, t.Reasoning), max(0, t.CacheRead), max(0, t.CacheWrite)
+		var long LongContextUsage
+		if t.Input+read+write > museEmberLongThreshold {
+			long = LongContextUsage{t.Input, read, write, t.Output + reasoning}
+		}
+		if _, err := s.DB.ExecContext(ctx, `UPDATE research_runs SET
+ input_tokens=input_tokens+?,output_tokens=output_tokens+?,reasoning_tokens=reasoning_tokens+?,
+ cache_read_tokens=cache_read_tokens+?,cache_write_tokens=cache_write_tokens+?,cost_usd=cost_usd+?,tokens_backfilled=1,
+ long_input_tokens=long_input_tokens+CASE WHEN `+museEmberModel+` THEN ? ELSE 0 END,
+ long_cache_read_tokens=long_cache_read_tokens+CASE WHEN `+museEmberModel+` THEN ? ELSE 0 END,
+ long_cache_write_tokens=long_cache_write_tokens+CASE WHEN `+museEmberModel+` THEN ? ELSE 0 END,
+ long_output_tokens=long_output_tokens+CASE WHEN `+museEmberModel+` THEN ? ELSE 0 END WHERE id=?`,
+			t.Input, t.Output, reasoning, read, write, t.Cost,
+			long.LongInputTokens, long.LongCacheReadTokens, long.LongCacheWriteTokens, long.LongOutputTokens, id); err != nil {
 			return err
 		}
 	}

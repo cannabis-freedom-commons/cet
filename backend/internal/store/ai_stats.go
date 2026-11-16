@@ -22,6 +22,7 @@ type AIUsageBucket struct {
 	// finished runs with both times, and the seconds they took in all
 	Timed           int64 `json:"timed"`
 	DurationSeconds int64 `json:"duration_seconds"`
+	LongContextUsage
 }
 
 // What a research run ended with, for comparing what each kind of work costs: a new report, an
@@ -42,7 +43,8 @@ func (s *Store) AIUsage(ctx context.Context, since int64) ([]AIUsageBucket, erro
  sum(input_tokens),sum(output_tokens),sum(reasoning_tokens),
  sum(cache_read_tokens),sum(cache_write_tokens),sum(cost_usd),
  sum(CASE WHEN finished_at>=started_at THEN 1 ELSE 0 END),
- coalesce(sum(CASE WHEN finished_at>=started_at THEN finished_at-started_at END),0)
+ coalesce(sum(CASE WHEN finished_at>=started_at THEN finished_at-started_at END),0),
+ sum(long_input_tokens),sum(long_cache_read_tokens),sum(long_cache_write_tokens),sum(long_output_tokens)
  FROM research_runs WHERE started_at>0 AND started_at>=?
  GROUP BY model,2,cost_usd>0,
  (CAST(strftime('%w',started_at,'unixepoch') AS INTEGER) BETWEEN 1 AND 5
@@ -56,7 +58,7 @@ func (s *Store) AIUsage(ctx context.Context, since int64) ([]AIUsageBucket, erro
 	out := []AIUsageBucket{}
 	for rows.Next() {
 		var v AIUsageBucket
-		if err := rows.Scan(&v.Model, &v.Category, &v.StartedAt, &v.Runs, &v.Running, &v.InputTokens, &v.OutputTokens, &v.ReasoningTokens, &v.CacheReadTokens, &v.CacheWriteTokens, &v.CostUSD, &v.Timed, &v.DurationSeconds); err != nil {
+		if err := rows.Scan(append([]any{&v.Model, &v.Category, &v.StartedAt, &v.Runs, &v.Running, &v.InputTokens, &v.OutputTokens, &v.ReasoningTokens, &v.CacheReadTokens, &v.CacheWriteTokens, &v.CostUSD, &v.Timed, &v.DurationSeconds}, v.scanTargets()...)...); err != nil {
 			return nil, err
 		}
 		out = append(out, v)

@@ -7,7 +7,7 @@ export { baseModel, isPeak };
 export const isPriced = (model) => Boolean(modelInfo(model));
 
 // What a run's tokens cost, part by part, in USD: fresh input, cache reads, cache writes and output
-// (reasoning included), at the model's prices for the hour the run started. `cachedAtInput` /
+// (reasoning included), at the model's applicable prices. `cachedAtInput` /
 // `writeAtInput` say that no cache price was supplied, so those tokens are counted as fresh input.
 // null when the model has no price.
 export function costParts(run) {
@@ -19,11 +19,15 @@ export function costParts(run) {
   const cached = (peak ? price.peakCached : undefined) ?? price.cached ?? input;
   const cacheWrite = price.cacheWrite ?? input;
   const n = (k) => Number(run?.[k] || 0);
+  const long = price.longContext;
+  // Long-context counts are a subset of the totals, determined before API requests are summed.
+  const charge = (tokens, key, base, longRate) =>
+    (tokens * base + (longRate == null ? 0 : n(key) * (longRate - base))) / 1e6;
   const parts = {
-    input: (n("input_tokens") * input) / 1e6,
-    cacheRead: (n("cache_read_tokens") * cached) / 1e6,
-    cacheWrite: (n("cache_write_tokens") * cacheWrite) / 1e6,
-    output: ((n("output_tokens") + n("reasoning_tokens")) * output) / 1e6,
+    input: charge(n("input_tokens"), "long_input_tokens", input, long?.input),
+    cacheRead: charge(n("cache_read_tokens"), "long_cache_read_tokens", cached, long?.cached),
+    cacheWrite: charge(n("cache_write_tokens"), "long_cache_write_tokens", cacheWrite, long?.input),
+    output: charge(n("output_tokens") + n("reasoning_tokens"), "long_output_tokens", output, long?.output),
     cachedAtInput: price.cached == null, writeAtInput: price.cacheWrite == null,
   };
   parts.total = parts.input + parts.cacheRead + parts.cacheWrite + parts.output;
@@ -31,7 +35,7 @@ export function costParts(run) {
 }
 
 // the run's cost in USD: what OpenCode reported if it did, otherwise its tokens at the price for
-// the hour it started; 0 when neither is known
+// the recorded pricing tiers; 0 when neither is known
 export function runCost(run) {
   const reported = Number(run?.cost_usd || 0);
   if (reported > 0) return reported;

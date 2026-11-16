@@ -2,9 +2,58 @@ package store
 
 import (
 	"context"
+	"encoding/json"
 	"testing"
 	"time"
 )
+
+func TestMuseEmberLongContextUsageAndCostSort(t *testing.T) {
+	s := openTest(t)
+	ctx := context.Background()
+	url := "https://news.example/ember"
+	id, err := s.Accept(ctx, Intake{Origin: "web", URL: url, CanonicalURL: url})
+	if err != nil {
+		t.Fatal(err)
+	}
+	entry, err := s.Get(ctx, id)
+	if err != nil {
+		t.Fatal(err)
+	}
+	run, err := s.Reserve(ctx, entry.CaseID, "workspace", 100, 0)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if err := s.StartRun(ctx, run, "muse/muse-ember-1.0#max", "muse"); err != nil {
+		t.Fatal(err)
+	}
+	// At exactly 200,000 input tokens use the base rate. One additional cached
+	// token makes the whole second request long context, including its output.
+	for _, step := range []RunUsage{
+		{Input: 100_000, CacheRead: 99_999, CacheWrite: 1, Output: 20, Reasoning: 3},
+		{Input: 100_000, CacheRead: 100_000, CacheWrite: 1, Output: 40, Reasoning: 5},
+	} {
+		if err := s.UpdateRun(ctx, run, RunUpdate{Usage: &step}); err != nil {
+			t.Fatal(err)
+		}
+	}
+	want := LongContextUsage{100_000, 100_000, 1, 45}
+	activity, err := s.AIActivity(ctx, id, 0)
+	if err != nil || len(activity.Runs) != 1 || activity.Runs[0].LongContextUsage != want {
+		t.Fatalf("activity tier usage: %+v (%v)", activity, err)
+	}
+	buckets, err := s.AIUsage(ctx, 0)
+	if err != nil || len(buckets) != 1 || buckets[0].LongContextUsage != want {
+		t.Fatalf("statistics tier usage: %+v (%v)", buckets, err)
+	}
+	page, err := s.ListSubmissions(ctx, "", "", "", "cost", "asc")
+	if err != nil || len(page.Submissions) != 1 || page.Submissions[0].sortKey != "41679396" {
+		t.Fatalf("cost sort: %+v (%v)", page.Submissions, err)
+	}
+	var runs []AIRun
+	if err := json.Unmarshal(page.Submissions[0].Runs, &runs); err != nil || len(runs) != 1 || runs[0].LongContextUsage != want {
+		t.Fatalf("submission register tier usage: %+v (%v)", runs, err)
+	}
+}
 
 func TestAIUsageCountsRunsOnceAndSeparatesPricing(t *testing.T) {
 	s := openTest(t)

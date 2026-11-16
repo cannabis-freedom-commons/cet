@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { runCost, isPeak, costEstimated, formatUSD, baseModel, planCost, modelPlan, displayedRunCost } from "../src/lib/model-cost.js";
+import { runCost, costParts, isPeak, costEstimated, formatUSD, baseModel, planCost, modelPlan, displayedRunCost } from "../src/lib/model-cost.js";
 
 const model = "opencode-go/deepseek-v4.1-flash";
 // 26 October 2026 is a Monday; 12:00 UTC is off-peak
@@ -43,6 +43,25 @@ test("a reasoning variant has the same price as its model", () => {
   assert.equal(baseModel(variant), model);
   assert.equal(runCost({ model: variant, input_tokens: 1_000_000, output_tokens: 1_000_000, started_at: offPeak }), 0.75);
   assert.equal(costEstimated({ model: variant }), true);
+});
+
+test("Muse Ember prices standard and long requests separately within a run or usage bucket", () => {
+  const tokens = {
+    input_tokens: 200_000, cache_read_tokens: 199_999, cache_write_tokens: 2, output_tokens: 60, reasoning_tokens: 8,
+    long_input_tokens: 100_000, long_cache_read_tokens: 100_000, long_cache_write_tokens: 1, long_output_tokens: 45,
+  };
+  for (const model of ["muse/muse-ember-1.0#max", "muse/muse-ember-1.0"]) {
+    const run = { model, ...tokens };
+    const parts = costParts(run);
+    for (const [key, nanos] of Object.entries({ input: 40_000_000, cacheRead: 1_599_996, cacheWrite: 400, output: 79_000, total: 41_679_396 })) {
+      assert.equal(Math.round(parts[key] * 1e9), nanos, key);
+    }
+    assert.equal(runCost({ ...run, cost_usd: 0.05 }), 0.05);
+    assert.equal(modelPlan(model, { price_usd: 10, allowance_usd: 60 }), null);
+  }
+  // Existing run totals alone cannot reveal how many requests crossed the cutoff.
+  assert.equal(runCost({ model: "muse/muse-ember-1.0#max", input_tokens: 300_000 }), 0.03);
+  assert.equal(costEstimated({ model: "meta/muse-ember-1.0" }), false);
 });
 
 test("the example run is a fraction of a cent off-peak", () => {
