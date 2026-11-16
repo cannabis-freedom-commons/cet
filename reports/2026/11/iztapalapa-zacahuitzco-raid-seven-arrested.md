@@ -41,23 +41,34 @@ sources:
     publisher: El Universal
     date: 2026-11-16
     language: es
+  - title: Detienen a siete personas tras cateo por presunta venta de drogas en Iztapalapa; aseguran marihuana y cocaína
+    url: https://www.eluniversal.com.mx/metropoli/detienen-a-siete-personas-tras-cateo-por-presunta-venta-de-drogas-en-iztapalapa-aseguran-marihuana-y-cocaina/
+    publisher: El Universal
+    date: 2026-11-15
+    language: es
 open_questions:
   - No weight was published for the seized marijuana, so no cannabis kilogram figure is recorded.
   - The 33 wraps of suspected cocaine from the same search are excluded from the cannabis figures.
   - 16 November 2026 is the publication date of the account; no separate date for the search was given.
   - The account rests on a single report of the SSC statement, with no plea, charge or court outcome yet reported.
+media:
+  - kind: photo
+    url: https://www.eluniversal.com.mx/metropoli/detienen-a-siete-personas-tras-cateo-por-presunta-venta-de-drogas-en-iztapalapa-aseguran-marihuana-y-cocaina/
+    media_url: https://www.eluniversal.com.mx/resizer/v2/AMJJR7I2LNC7TNUCM3FLFE5SJ4.jpeg?auth=7a17501b35b406e87beef2d0bd8c9186430f5df73aef27ee808cdb9af2424991&smart=true&height=666
+    publisher: El Universal
+    caption: 'SSC handout photo published with the report of the seven people detained after the Zacahuitzco search. Photo: SSC de la CDMX'
 ---
 
 Officers of the Secretariat of Citizen Security (SSC), working with Navy (Semar)
 and National Guard personnel, searched a property in colonia Zacahuitzco,
 Iztapalapa, detaining seven people and seizing apparent marijuana and cocaine.
-[@1] Those detained were three women aged 29, 29 and 32 and four men aged 30,
+[@1,2] Those detained were three women aged 29, 29 and 32 and four men aged 30,
 34, 36 and 49. [@1] The seven detainees and the seized items were placed at the
 disposal of the Public Prosecutor's Office, which will determine their legal
 situation. [@1]
 
 Officers seized a replica firearm along with 214 plastic bags, 202 cylinders, 69
-cigarettes and one container, all holding apparent marijuana. [@1] They also
+cigarettes and one container, all holding apparent marijuana. [@1,2] They also
 seized 33 wraps of a white powder resembling cocaine, which is not counted in
 the cannabis figures. [@1] The property was sealed and left under police guard
 while the investigations continue. [@1]
@@ -66,4 +77,3 @@ The SSC said investigative work had identified a dwelling allegedly used for
 drug distribution at Primer Callejón de Independencia in Zacahuitzco. [@1]
 Officers gathered evidence that a Public Prosecutor agent presented to a Control
 judge, who granted the order to search the property. [@1]
-
