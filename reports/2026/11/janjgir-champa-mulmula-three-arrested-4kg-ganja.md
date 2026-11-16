@@ -51,23 +51,22 @@ sources:
     publisher: Vocal TV
     date: 2026-11-15
     language: hi
-open_questions:
-  - No separate date for the interception was published; 15 November 2026 is the publication and remand date used as the incident date.
-  - The Rs 200,000 figure is the police's estimated value, not an independent valuation.
-  - No plea or court outcome beyond judicial remand was reported.
-  - The report does not state how the seized motorcycles and phones were linked to the alleged trafficking.
-  - The account rests on a single opened report republishing Hindusthan Samachar; no second independent account was found.
+  - title: Janjgir Champa Ganja Smuggling Case | 3 Arrested with 4kg Cannabis
+    url: https://www.bhaskar.com/local/chhattisgarh/janjgir/news/janjgir-champa-ganja-smuggling-arrest-police-seize-bike-mobile-139705429.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-16
+    language: hi
 ---
 
 Mulmula police arrested three men for alleged ganja smuggling in Janjgir-Champa
-district. [@1] The arrested men were identified as 45-year-old Ganesh Agrawal of
+district. [@1,2] The arrested men were identified as 45-year-old Ganesh Agrawal of
 Borsi under Mulmula police station, and 53-year-old Ramsagar Kaushik and
 32-year-old S. Kumar Diwakar, both of Vyasnagar under Pamgarh police station.
 [@1]
 
 Police recovered 4.258 kilograms of ganja from the accused, which police valued
-at about Rs 200,000. [@1] Police also seized two motorcycles and three mobile
-phones along with the ganja. [@1]
+at about Rs 200,000. [@1,2] Police also seized two motorcycles and three mobile
+phones along with the ganja. [@1,2]
 
 After an informant reported illegal ganja trafficking and sale in the area,
 Mulmula police formed a team for action. [@1] The team cordoned off the area
@@ -75,4 +74,3 @@ near the bridge on the road from Borsi to Kosa. [@1] Police then caught the
 three suspects red-handed with the ganja. [@1] Police proceeded against the
 three under Section 20(B) of the NDPS Act and sent them to judicial remand the
 same day. [@1]
-
