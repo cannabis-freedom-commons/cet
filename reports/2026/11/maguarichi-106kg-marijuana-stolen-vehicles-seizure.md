@@ -63,23 +63,35 @@ sources:
     publisher: En Blanco y Negro
     date: 2026-11-16
     language: es
+  - title: Aseguran Marihuana, Cartuchos y Vehículos Robados en Maguarichi, Chihuahua | N+
+    url: https://www.nmas.com.mx/chihuahua/seguridad/aseguran-marihuana-cartuchos-y-vehiculos-robados-en-maguarichi-chihuahua/
+    publisher: N+
+    date: 2026-11-16
+    language: es
 open_questions:
     - No separate date for the operation was stated; 16 November 2026 is the publication date and stands in for the incident date.
     - The material was described as herb similar to marijuana or suspected marijuana, with no laboratory confirmation reported.
     - The 106.4 kilograms is an approximate weight, not an exact measured figure.
     - No arrests, suspects, charges or court outcome were reported.
     - The five accounts reproduce the same SSPE statement and are not independent reporting.
+    - The N+ account gives the weight as more than 106 kilograms rather than the approximately 106.4 kilograms used in the report.
+media:
+  - kind: photo
+    url: https://www.nmas.com.mx/chihuahua/seguridad/aseguran-marihuana-cartuchos-y-vehiculos-robados-en-maguarichi-chihuahua/
+    media_url: https://www.nmas.com.mx/_next/image/?url=https%3A%2F%2Fstatic.nmas.com.mx%2FNmas%2Fcms%2Fportadas%20(6)-19-1376x774.jpg&w=1440&q=75
+    publisher: N+
+    caption: 'Seized marijuana, cartridges and vehicles from the Maguarichi operation. Photo: SSSPE'
 ---
 
 Chihuahua state police (SSPE) seized about 106.4 kilograms of marijuana,
 ammunition, magazines and two stolen vehicles on the road to Maguarichi, at the
-San Vicente junction. [@1,4,6] Agents found 10 transparent packages of dry green
-herb similar to marijuana at the spot. [@1,5,6] The packages weighed approximately
+San Vicente junction. [@1,4,6,7] Agents found 10 transparent packages of dry green
+herb similar to marijuana at the spot. [@1,5,6,7] The packages weighed approximately
 106.4 kilograms. [@1]
 
 Officers also seized three magazines, two metal and one plastic, and 364 live
 cartridges. [@1] Of the cartridges, 340 were 7.62x51 calibre in two ammunition
-belts and 24 were 7.62x39 calibre. [@1] In the same operation they found two
+belts and 24 were 7.62x39 calibre. [@1,7] In the same operation they found two
 stolen vehicles: a 2022 Mitsubishi L200 pickup reported stolen in Sonora since
 April 2022, and a 2021 Hyundai Kona reported stolen in the United States since
 June 2023. [@1,6]
