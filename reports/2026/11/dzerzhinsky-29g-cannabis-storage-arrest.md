@@ -39,6 +39,11 @@ media:
     media_url: https://region.center/source/KALUGA2/2026/11/img_20261116_090559probel1.jpg
     publisher: Калужские новости
     caption: 'Seized hemp attributed to the Dzerzhinsky district case, in the police handout photo. Photo: press service of the UMVD for Kaluga Oblast, via Kaluzhskie novosti'
+  - kind: photo
+    url: https://kaluganews.com/incidents/teplica-s-konopley-privela-kaluzhanina-k-ugolovnomu-delu-40154/
+    media_url: https://kaluganews.com/images/news/2026-11/img_6afaa13f13eaf.webp
+    publisher: Новости Калуги
+    caption: 'Police handout photo published with the report on the greenhouse cannabis seizure. Photo: UMVD for Kaluga Oblast'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 43d82a1dcd6aa9f89a909b6fe2cc1544
@@ -49,25 +54,24 @@ sources:
     publisher: Калужские новости
     date: 2026-11-16
     language: ru
-open_questions:
-  - No separate date is given for the detention or the house search; 16 November 2026, the publication date, is used as the incident date.
-  - The source gives only the total mass of 29.29 grams and no count of bushes, so no plants_destroyed figure is recorded.
-  - No court outcome was reported; the case was at the investigation stage with the suspect placed under an undertaking not to leave.
-  - The account rests on a single outlet reproducing the regional UMVD statement.
+  - title: Теплица с коноплёй привела калужанина к уголовному делу — Новости Калуги
+    url: https://kaluganews.com/incidents/teplica-s-konopley-privela-kaluzhanina-k-ugolovnomu-delu-40154/
+    publisher: Новости Калуги
+    date: 2026-11-16
+    language: ru
 ---
 
 Police in Dzerzhinsky municipal district detained a 46-year-old local resident
-on suspicion of unlawfully storing narcotics. [@1] The regional UMVD for Kaluga
+on suspicion of unlawfully storing narcotics. [@1,2] The regional UMVD for Kaluga
 Oblast reported the detention. [@1] The suspect said he had stored the drug for
-personal use. [@1] He said he had not intended to sell it or pass it to other
+personal use. [@1,2] He said he had not intended to sell it or pass it to other
 people. [@1]
 
 During a search of the man's house, police officers found and seized bushes of a
-narcotic-containing plant at different stages of maturity. [@1] An expert
+narcotic-containing plant at different stages of maturity. [@1,2] An expert
 examination identified the seized material as hemp with a total mass of 29.29
-grams. [@1]
+grams. [@1,2]
 
 A criminal case was opened against the man under part 1 of article 228 of the
-Russian Criminal Code. [@1] He was placed under a preventive measure requiring
-him not to leave his place of residence and to behave properly. [@1]
-
+Russian Criminal Code. [@1,2] He was placed under a preventive measure requiring
+him not to leave his place of residence and to behave properly. [@1,2]
