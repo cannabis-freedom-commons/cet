@@ -55,13 +55,10 @@ sources:
     url: https://globoplay.globo.com/v/15188077/
     publisher: Globoplay
     language: pt
-open_questions:
-  - The article gives no separate date for the operation; 14 November 2026 is the publication date and is used as the incident date.
-  - Globo's video brief confirms the 28-plant greenhouse but says it has no information on arrests, while G5News reports two men arrested; the G5News account is used here.
-  - The suspects were not named or aged, and no formal charge, custody decision or court outcome was reported.
-  - No weight, size or street value was published for the 34 plants, so only the plant count is recorded.
-  - How long the plantation had operated and the amount of drug that would be sold were not disclosed.
-  - Only one accessible text account of the event was found; the local Jardim Inga News page and the Rotam social media posts could not be opened.
+  - title: 'Vídeo: Polícia encontra estufa com pés de maconha em Luziânia | Vídeos - JA 1ª Edição | G1'
+    url: https://g1.globo.com/go/goias/videos-ja-1-edicao/video/policia-encontra-estufa-com-pes-de-maconha-em-luziania-15188077.ghtml
+    publisher: G1
+    language: pt
 ---
 
 A tip led the Polícia Militar de Goiás (PMGO) to discover a clandestine cannabis
@@ -79,10 +76,9 @@ the house officers found an improvised structure working as a greenhouse with
 another 28 cannabis plants, raising the total seized to 34. [@1] Globo's Jornal
 Anhanguera reported that the Military Police found a greenhouse with 28 cannabis
 plants in Luziânia, Goiás, and had no information on arrests related to the
-incident. [@2]
+incident. [@2,3]
 
 The two men were told they were under arrest and taken to the Central de
 Flagrantes with the seized plants for legal procedures. [@1] The PM gave no
 identity or age for the suspects, and no details of how long the plantation had
 run or how much drug would be sold. [@1]
-
