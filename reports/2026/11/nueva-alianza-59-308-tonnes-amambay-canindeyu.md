@@ -63,6 +63,11 @@ sources:
     publisher: Tribuna do Sertão
     date: 2026-11-15
     language: pt
+  - title: Diario HOY | Operación binacional genera USD 46,2 millones de pérdidas al narcotráfico
+    url: https://www.hoy.com.py/nacionales/2026/11/13/operacion-binacional-genera-usd-462-millones-de-perdidas-al-narcotrafico
+    publisher: Diario HOY
+    date: 2026-11-13
+    language: es
 media:
   - kind: photo
     url: https://www.adndigital.com.py/en-operativo-conjunto-destruyen-mas-de-300-toneladas-de-marihuana-en-casi-85-ha-de-cultivo/
@@ -81,21 +86,21 @@ media:
 
 Paraguay's Senad, with Brazil's Federal Police, finished phase 59 of Operation
 Nueva Alianza (Operación Nueva Alianza 59) on 12 November 2026, after ten days
-of joint action in the Amambay and Canindeyú departments. [@1,3,4] The ten-day
+of joint action in the Amambay and Canindeyú departments. [@1,3,4,5] The ten-day
 operation ran from 3 to 12 November, with Paraguay's National Anti-Drug
 Secretariat (Senad), the Internal Defence Operations Command (CODI), the
 Paraguayan Air Force and the Public Ministry, supported by Brazil's Federal
-Police. [@1,3]
+Police. [@1,3,5]
 
 Senad's report said the action caused an estimated USD 46.2 million in economic
 damage to the criminal organisations, and that, beyond the eradicated
 plantations, 68 camps, 965 kg of cannabis seeds and 54,825 kg of cannabis ready
-for sale were destroyed. [@1,3] The interventions eradicated 84.5 hectares of
+for sale were destroyed. [@1,3,5] The interventions eradicated 84.5 hectares of
 marijuana plantations and dismantled 68 clandestine camps used by the criminal
-structures. [@2,4] According to SENAD's official balance, counting the processed
+structures. [@2,4,5] According to SENAD's official balance, counting the processed
 drug found during the operations and the production potential of the eradicated
 plantations, an estimated 308.3 tonnes of marijuana were removed from the
-regional market. [@2,4]
+regional market. [@2,4,5]
 
 The final day of the operation was carried out in the settlement of Pacola, in
 the Karapái district, where the close of the interventions was confirmed. [@1,3]
