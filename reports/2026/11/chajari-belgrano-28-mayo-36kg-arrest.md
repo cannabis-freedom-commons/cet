@@ -89,6 +89,11 @@ sources:
     publisher: Radio Sudamericana
     date: 2026-11-14
     language: es
+  - title: 'Mocoretá: secuestraron plantas de cannabis, marihuana y dispositivos electrónicos · Examedia'
+    url: https://www.examedia.com.ar/portada/post/88239503
+    publisher: Examedia
+    date: 2026-11-14
+    language: es
 open_questions:
     - The official report gave no age and no circumstances of the detention; local accounts disagree, describing the man as 28 in some outlets and as 42, from Mocoretá, in this account.
     - No charge, hearing or court outcome was reported beyond the detention and referral to the courts.
@@ -96,6 +101,7 @@ open_questions:
     - 'Accounts disagree on the day of the week of the overnight operation: 12 November 2026 is a Thursday and 13 November a Friday, but one account dates them as Wednesday and Thursday; the overnight 12-13 November period is consistent across accounts.'
     - The Mocoretá seizure totals are given for the raids together and are not assigned to particular addresses.
     - The 5,390,728-peso valuation is a police estimate for the Mocoretá seizures and its basis was not published.
+    - This account describes the Chajari interception only as approximately 3.6 kilos of a presumptive drug substance, without the six-brick count or marijuana identification given in the recorded account.
 ---
 
 Officers detained a man at the intersection of Avenida Belgrano and Avenida 28
@@ -105,12 +111,12 @@ ran from 20:30 on Thursday 12 November until 00:28 on Friday 13 November 2026.
 departmental headquarters acted together with staff of Subcomisaría Tague, under
 Chajarí's First Station. [@1,4] The operation was carried out under article 230
 bis of the National Code of Criminal Procedure and National Law 23.737 on drug
-trafficking. [@1]
+trafficking. [@1,10]
 
 Officers seized six compact bricks of marijuana and one hand-rolled cigarette,
-with a reported total weight of 3.656 kilograms. [@1,4,5] Officers also seized a
+with a reported total weight of 3.656 kilograms. [@1,4,5,10] Officers also seized a
 backpack, while no money was seized. [@1,4] The official report gave no age for
 the detained man and no details of the circumstances of the detention. [@1]
 Local accounts described the detained man as 28 years old and said he had
 travelled from Mocoretá to Chajarí in a hire car from Corrientes. [@3,6] Mocoretá investigators detected the suspect with a backpack through municipal monitoring cameras before he boarded the remis. [@8] The case
-was placed in the hands of the courts. [@2,7] Police reported no apprehensions in the Mocoretá procedures. [@7] Police valued the material seized in Mocoretá at about 5,390,728 pesos. [@8,9] Officers also seized mobile phones, a computer and a tablet to reconstruct the contact network. [@8] In the Mocoretá homes officers seized four cannabis plants and four cannabis seedlings, 42 loose seeds plus 8.1 grams of cannabis sativa seeds, and 4.09 grams of plant material that tested positive for marijuana. [@8,9] The Mocoretá raids were carried out in barrio General Roca and on calle Sargento Cabral. [@7] In parallel with the road procedure, police carried out simultaneous raids on homes in Mocoretá under orders from the Monte Caseros Guarantees Court and the intervening prosecutor's office. [@8] The detained man was placed at the disposal of the Federal Justice system, which intervened through the Federal Court of Concordia, with the proceedings carried out under the corresponding judicial directives. [@4]
+was placed in the hands of the courts. [@2,7,10] Police reported no apprehensions in the Mocoretá procedures. [@7] Police valued the material seized in Mocoretá at about 5,390,728 pesos. [@8,9] Officers also seized mobile phones, a computer and a tablet to reconstruct the contact network. [@8] In the Mocoretá homes officers seized four cannabis plants and four cannabis seedlings, 42 loose seeds plus 8.1 grams of cannabis sativa seeds, and 4.09 grams of plant material that tested positive for marijuana. [@8,9,10] The Mocoretá raids were carried out in barrio General Roca and on calle Sargento Cabral. [@7] In parallel with the road procedure, police carried out simultaneous raids on homes in Mocoretá under orders from the Monte Caseros Guarantees Court and the intervening prosecutor's office. [@8,10] The simultaneous Mocoreta home raids were carried out with collaboration from Curuzu Cuatia investigators and the Tactical Operational Group. [@10] The detained man was placed at the disposal of the Federal Justice system, which intervened through the Federal Court of Concordia, with the proceedings carried out under the corresponding judicial directives. [@4]
