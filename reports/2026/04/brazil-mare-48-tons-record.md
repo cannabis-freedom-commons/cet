@@ -64,6 +64,11 @@ sources:
     publisher: La Patria Bolivia
     date: 2026-04-08
     language: es
+  - title: Cão Hulk, que farejou 48 toneladas de maconha, é homenageado com estátua na sede do BAC
+    url: https://agendadopoder.com.br/cao-hulk-que-farejou-48-toneladas-de-maconha-e-homenageado-com-estatua-na-sede-do-bac/
+    publisher: Agenda do Poder
+    date: 2026-11-16
+    language: pt
 media:
   - kind: photo
     url: https://www.cnnbrasil.com.br/nacional/sudeste/rj/48-toneladas-de-maconha-pm-do-rio-faz-maior-apreensao-de-drogas-do-brasil/
@@ -80,13 +85,13 @@ media:
 At least 48 tons of marijuana worth around R$50 million wholesale were seized
 in a Military Police operation in the Parque União and Nova Holanda
 communities of Complexo da Maré, Rio de Janeiro, on Tuesday, April 7, 2026 —
-the largest drug seizure in the country's history. [@1,3,5]
+the largest drug seizure in the country's history. [@1,3,5,6]
 
 More than 250 officers with armored vehicles and aircraft took part in the
 raid targeting criminal groups and vehicle and cargo robberies. [@1] Sniffer
 dogs from the BAC battalion located the stockpile in a bunker on a
 construction site: more than 24,000 tablets of about two kilograms each,
-hauled out in cargo trucks. [@1] Lieutenant Colonel Luciano Pedro Barbosa da Silva, commander of the Canine Operations Battalion, said a dog's sense of smell is 100,000 times more powerful than a human's and that Hulk's behaviour made officers suspect something was wrong. [@4] Hulk alerted officers to a sealed cistern covered with concrete that hid the entrance to the bunker. [@4] The dog that found the stockpile was Hulk, a four-year-old Belgian shepherd of the Canine Operations Battalion. [@4]
+hauled out in cargo trucks. [@1,6] Lieutenant Colonel Luciano Pedro Barbosa da Silva, commander of the Canine Operations Battalion, said a dog's sense of smell is 100,000 times more powerful than a human's and that Hulk's behaviour made officers suspect something was wrong. [@4] Hulk alerted officers to a sealed cistern covered with concrete that hid the entrance to the bunker. [@4] The dog that found the stockpile was Hulk, a four-year-old Belgian shepherd of the Canine Operations Battalion. [@4,6]
 
 Officers also seized five rifles, four pistols, lança-perfume flasks and
 about 200 liters of production material, and recovered 26 stolen vehicles —
