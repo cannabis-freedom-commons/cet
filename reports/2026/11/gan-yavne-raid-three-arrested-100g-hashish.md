@@ -43,6 +43,11 @@ media:
     media_url: https://image-resizer-walla.walla.cloud/image/2026/11/3/images/1794730942850_walla-media-picture_1600x1200.webp?aspectRatio=16%3A9&width=1920&quality=75
     publisher: Walla
     caption: 'The house in Gan Yavne where weapons and ammunition were found, in the police handout photo. Photo: Israel Police spokesperson'
+  - kind: photo
+    url: https://www.digest.co.il/news/gan-yavne-weapons-drugs-15
+    media_url: https://img.digest.co.il/vault/1910ea8ec137.webp
+    publisher: Digest.co.il
+    caption: 'Seized weapons and drugs from the Gan Yavne raid, in the police handout photo. Photo: Israel Police spokesperson'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8373685543157b97d92a6be84a6c0f16
@@ -67,6 +72,16 @@ sources:
     url: https://israel.fm/crime/weapons-cache-discovered-home-gan-yavne
     publisher: Israel.fm
     date: 2026-11-15
+  - title: В Ган-Явне обнаружен арсенал оружия и оборудование для подделки монет, задержаны трое подозреваемых
+    url: https://www.newsru.co.il/israel/15nov2026/gan_yavne_128.html
+    publisher: NEWSru.co.il
+    date: 2026-11-15
+    language: ru
+  - title: 'В Ган-Явне раскрыт тайник с оружием и наркотиками: арестованы трое'
+    url: https://www.digest.co.il/news/gan-yavne-weapons-drugs-15
+    publisher: Digest.co.il
+    date: 2026-11-15
+    language: ru
 open_questions:
   - The search was described as taking place last Thursday and as taking place over the last weekend; 12 November 2026 is used as the incident date.
   - The hashish figure is an approximate police estimate of suspected material, with no laboratory confirmation reported.
@@ -78,7 +93,7 @@ open_questions:
 
 Officers from Ashdod station raided a house in Gan Yavne and uncovered a large
 cache of weapons, ammunition and assault implements hidden around the house.
-[@2] Three suspects were arrested in the operation. [@2] The three detainees
+[@2,5] The operation was carried out by Ashdod police together with Yoav-unit fighters as part of the fight against criminal groups involved in criminal conflicts in the city. [@5] Three suspects were arrested in the operation. [@2,5] The three detainees
 included the homeowners and a guest, and they deny any connection to the seized
 items. [@4] Police suspect the weapons were intended for use in a criminal feud
 between crime gangs. [@2]
@@ -88,10 +103,9 @@ found weapons and ammunition concealed in a bedroom suitcase, clothing closets
 and drawers. [@4] The search seized a standard M16 rifle, a Glock pistol with a
 loaded magazine, a starter pistol, converted gas and Airsoft pistols, M16 and
 pistol magazines, pistol and long-weapon ammunition, 31 shotgun rounds and other
-weapon parts. [@1] In the house's storage area officers found about 70 grams of
+weapon parts. [@1,5] In the house's storage area officers found about 70 grams of
 suspected crystal meth and 100 grams of hashish, alongside machinery and
-materials suspected for counterfeiting 10-shekel coins. [@4] The Hebrew police
+materials suspected for counterfeiting 10-shekel coins. [@4,5] The Hebrew police
 account described the cannabis as a hashish plate weighing about 100 grams. [@1]
 
-The court extended the three suspects' detention until the coming Tuesday. [@3]
-
+The court extended the three suspects' detention until the coming Tuesday. [@3] The Magistrate's Court in Ashkelon extended the three suspects' detention. [@6]
