@@ -48,6 +48,11 @@ sources:
     publisher: Habertürk
     date: 2026-11-16
     language: tr
+  - title: Eskişehir’de uyuşturucu operasyonlarında 9 şüpheli tutuklandı - Canlı Gaste
+    url: https://www.canligaste.com/eskisehir-de-uyusturucu-operasyonlarinda-9-supheli-tutuklandi/950382/
+    publisher: Canlı Gaste
+    date: 2026-11-16
+    language: tr
 open_questions:
   - 15 November 2026 is the end of the stated 9-15 November operation period; 16 November 2026 is the publication date.
   - The 48 incidents and 59 suspects cover all drugs, with no breakdown of how many relate to cannabis.
@@ -60,19 +65,18 @@ open_questions:
 
 Provincial police and gendarmerie teams carried out anti-drug work across
 Eskişehir between 9 and 15 November 2026, according to the governorate
-statement. [@1] Teams intervened in 48 incidents and processed 59 suspects. [@1]
+statement. [@1,2] Teams intervened in 48 incidents and processed 59 suspects. [@1,2]
 Nine of the suspects were remanded in pre-trial detention and 50 were released.
-[@1]
+[@1,2]
 
-Searches seized 1,207 grams of esrar, the Turkish term for cannabis. [@1]
-Officers also seized six cannabis plants, reported as 6 kök kenevir. [@1] The
+Searches seized 1,207 grams of esrar, the Turkish term for cannabis. [@1,2]
+Officers also seized six cannabis plants, reported as 6 kök kenevir. [@1,2] The
 same searches also seized 90 grams of synthetic drugs, an unspecified amount of
 cocaine and 74 synthetic pharmaceutical pills, none of which are counted as
-cannabis here. [@1] Officers also found precision scales and drug-use apparatus
-during the operations. [@1]
+cannabis here. [@1,2] Officers also found precision scales and drug-use apparatus
+during the operations. [@1,2]
 
 The operations were conducted by Eskişehir provincial police and provincial
-gendarmerie teams and announced by the governorate. [@1] The weekly totals cover
+gendarmerie teams and announced by the governorate. [@1,2] The weekly totals cover
 all drugs, with no separate breakdown of which incidents or suspects involved
 cannabis. [@1]
-
