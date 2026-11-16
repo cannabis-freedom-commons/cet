@@ -48,6 +48,11 @@ media:
     media_url: https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/11/15/anh-man-hinh-2026-11-15-luc-111818-17947163457831975274748.png
     publisher: Thanh Niên
     caption: 'Cannabis disguised with dried longans before transfer to Vietnam. Photo: C04'
+  - kind: photo
+    url: https://www.anninhthudo.vn/bi-an-ong-trum-ten-om-trong-duong-day-tuon-18-tan-can-sa-vao-viet-nam-post675828.antd
+    media_url: https://cdn.anninhthudo.vn/images/_UiwgJeS5V_88DDWGskCGTBYClDxXFfwozBtJvPdxCjS7kjwUm0zQ1YWNfpv1_i4/can-sa-om.jpg.avif
+    publisher: An ninh Thủ đô
+    caption: Seized cannabis from the trafficking ring laid out after seizure by police.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a20281c766bdf19dba141cd18e6a9fd9
@@ -82,18 +87,16 @@ sources:
     url: https://www.msn.com/vi-vn/news/national/m%C3%A1nh-gi%E1%BA%A5u-18-t%E1%BA%A5n-c%E1%BA%A7n-sa-d%C6%B0%E1%BB%9Bi-%C4%91%C3%A1y-s%E1%BB%8Dt-nh%C3%A3n-tu%E1%BB%93n-v%E1%BB%81-vi%E1%BB%87t-nam/ar-AA2htXqq
     publisher: MSN
     language: vi
-open_questions:
-  - No separate date for the investigation conclusion was given; 15 November 2026 is the publication date of all four reports and is used as the incident date.
-  - The 1,845.5 kg is the quantity one defendant is held liable for transporting, not the weight seized in a single seizure; only the October 2025 seizures of nearly 68.8 kg and more than 66.3 kg are detailed as seized.
-  - 'Reports differ on the transport/sale split within the 14: Dan Tri lists 7 and 7, Thanh Nien lists 8 and 6, while An ninh Thu do lists 8 and 5 with inconsistent name counts; the report uses only the agreed total of 14.'
-  - Name spellings differ between outlets, including Tong versus Tong Thanh Tung and Tran The Thang’s group assignment.
-  - Four defendants were wanted at conclusion time and Thai nationals including Cham, Xom and Om remained abroad and unarrested, with identities unverified.
-  - No court verdict for the 14 has been reported; the nine split-off defendants were reported sentenced to 7 to 22 years on 26 June without individual breakdowns.
+  - title: Bí ẩn “ông trùm” tên Óm trong đường dây “tuồn” 1,8 tấn cần sa vào Việt Nam
+    url: https://www.anninhthudo.vn/bi-an-ong-trum-ten-om-trong-duong-day-tuon-18-tan-can-sa-vao-viet-nam-post675828.antd
+    publisher: An ninh Thủ đô
+    date: 2026-11-16
+    language: vi
 ---
 
 The Ministry of Public Security investigation agency (C04) issued a new
 investigation conclusion proposing prosecution of 14 people for illegal
-transport or illegal trading of narcotics. [@2,6] The agency sent the case, which
+transport or illegal trading of narcotics. [@2,6,7] The agency sent the case, which
 occurred in Hanoi, to the Supreme People’s Procuracy with a proposal to
 prosecute 14 defendants. [@3] The case totals 23 indicted defendants, after nine
 were split off earlier and tried on 26 June with prison terms of 7 to 22 years.
@@ -102,12 +105,12 @@ were split off earlier and tried on 26 June with prison terms of 7 to 22 years.
 The group moved cannabis from Thailand to Vietnam through the Cha Lo
 International Border Gate by hiding it in dried-longan baskets and hiring Thai
 transport company JPM to move containers mixed with fresh-longan baskets to
-evade controls. [@1,5,6] Transporters in Vietnam were paid 100 million dong per trip or 50 million dong per person per time. [@5] After three successful illegal transfers, in early 2025
+evade controls. [@1,5,6] The container truck drivers did not know the longan baskets contained cannabis and were paid as for ordinary goods, so there was no basis to prosecute them. [@7] Thai national Óm instructed Phạm Việt Anh to pack cannabis into plastic fruit baskets, cover them with dried longans for concealment in containers sent to Vietnam by JPM transport company, and to have the containers sealed through Thai police contacts to avoid inspection en route. [@7] Transporters in Vietnam were paid 100 million dong per trip or 50 million dong per person per time. [@5] After three successful illegal transfers, in early 2025
 Pham Viet Anh directed Tong Thanh Tung and Phung Minh Thuan to use prior
 transport proceeds to buy back a cannabis farm in Bangkok from Cham and Xom as a
 packing site, with Tung paying 500 million dong for it. [@4] By this method the
 group succeeded 14 times, with Viet Anh held liable for 1.2 tons of cannabis and
-Nguyen Van Viet liable for the most, more than 1.8 tons. [@1,5] Investigators
+Nguyen Van Viet liable for the most, more than 1.8 tons. [@1,5,7] Investigators did not prosecute the defendants over that shipment because, based on the defendants’ statements, it occurred outside Vietnamese territory. [@7] When the truck reached the Laos–Vietnam border crossing, JPM found silver bags hidden in the dried-longan baskets and demanded the goods be returned. [@7] In about January 2025 Tống Thanh Tùng received 28.5 kg of cannabis from Tư, 81 kg from Vũ Quốc Dũng and 44 kg from Thuận, a total of 153.5 kg of cannabis. [@7] Investigators
 fixed Nguyen Van Viet’s total at 1,845.5 kg for 644 million dong profit and Pham
 Viet Anh’s at 1,263 kg for 160 million dong. [@3] At about 14:00 on 4 October
 2025 on Bo Song Set road in Hanoi, officers caught Le Hoang Anh and Nguyen Duc
