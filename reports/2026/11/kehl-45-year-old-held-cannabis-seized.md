@@ -38,6 +38,11 @@ sources:
     publisher: news.de
     date: 2026-11-16
     language: de
+  - title: 42-Tage Haft wegen Diebstahl - Festgenommener führt Betäubungsmittel mit sich
+    url: https://aktuell.meinestadt.de/baden-wuerttemberg/polizeimeldungen/842613673
+    publisher: meinestadt.de
+    date: 2026-11-16
+    language: de
 open_questions:
   - No weight or product form was given for the seized cannabis beyond small amounts.
   - The 42-day custodial term relates to an unpaid fine linked to the prior warrant, not a new cannabis sentence.
@@ -46,16 +51,15 @@ open_questions:
 ---
 
 On the morning of 15 November 2026, Federal Police officers checked a
-45-year-old man on the railway bridge in Kehl. [@1] The Algerian national could
-not initially identify himself and accompanied the officers to the station. [@1]
+45-year-old man on the railway bridge in Kehl. [@1,2] The Algerian national could
+not initially identify himself and accompanied the officers to the station. [@1,2]
 A fingerprint check showed an outstanding arrest warrant including for theft and
-for return, deportation or expulsion. [@1]
+for return, deportation or expulsion. [@1,2]
 
 During the personal search, officers found and seized small amounts of cannabis.
-[@1] Because he could not pay the required fine, he began serving a 42-day
-custodial term. [@1]
+[@1,2] Because he could not pay the required fine, he began serving a 42-day
+custodial term. [@1,2]
 
 He also faces a complaint for violating residence law and the cannabis
-consumption law. [@1] After the detention, he is to be returned to France
-because he lacks the requirements for entry. [@1]
-
+consumption law. [@1,2] After the detention, he is to be returned to France
+because he lacks the requirements for entry. [@1,2]
