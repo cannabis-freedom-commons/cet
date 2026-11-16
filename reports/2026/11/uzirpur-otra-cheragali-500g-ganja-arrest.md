@@ -45,26 +45,29 @@ sources:
     publisher: Daily Sokaler Somoy
     date: 2026-11-16
     language: bn
+  - title: উজিরপুরে গাঁজাসহ মাদক কারবারি গ্রেপ্তার | আমার দেশ
+    url: https://www.dailyamardesh.com/bangladesh/barisal/amdsv0umcggfp
+    publisher: দৈনিক আমার দেশ
+    date: 2026-11-16
+    language: bn
 open_questions:
-  - Only one accessible source was found for this event after searches in Bengali and English.
-  - The article calls 16 November a Sunday, but 16 November 2026 was a Monday; 16 November is used as the incident date.
-  - The report says the raid occurred at around 2 o'clock without specifying morning or afternoon.
-  - The seized material was described as ganja with no laboratory confirmation reported.
-  - The half-kilogram figure is stated as an approximate seizure amount, not an exact laboratory weight.
-  - No court outcome beyond filing a case and planned transfer to jail custody was reported.
+    - Two accessible Bengali accounts now corroborate this event, and both reproduce police statements rather than independent reporting.
+    - The articles call 16 November a Sunday, but 16 November 2026 was a Monday; 16 November is used as the incident date.
+    - The seized material was described as ganja with no laboratory confirmation reported.
+    - The half-kilogram figure is stated as an approximate seizure amount, not an exact laboratory weight.
+    - No court outcome beyond production in court on Monday morning was reported.
 ---
 
 Police in Uzirpur in Barishal arrested alleged drug dealer Md Shipon after
-finding ganja in his possession. [@1] Officers detained 50-year-old Md Shipon
-with half a kilogram of ganja during the operation. [@1]
+finding ganja in his possession. [@1,2] Officers detained 50-year-old Md Shipon
+with half a kilogram of ganja during the operation. [@1,2]
 
 Sub-Inspector Jahangir Hossain of Uzirpur Model Thana led a police force to the
 Otra Cheragali Market area after receiving secret information as part of an
-ongoing anti-drug drive. [@1] The raid took place at around 2 o'clock on 16
-November. [@1] The accused is the son of Md Abdul Hai Hawlader of Jugir Kanda
-village. [@1]
+ongoing anti-drug drive. [@1,2] The raid took place at around 2 o'clock on 16
+November. [@1,2] The accused is the son of Md Abdul Hai Hawlader of Jugir Kanda
+village. [@1,2]
 
 Uzirpur Model Thana officer-in-charge Md Rakibul Islam said a case was filed
 against the accused under the Narcotics Control Act. [@1] He said the accused
-would be sent to jail custody through due process. [@1]
-
+would be sent to jail custody through due process. [@1] He was produced in court on Monday morning. [@2]
