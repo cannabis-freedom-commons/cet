@@ -56,28 +56,25 @@ sources:
     url: https://news9.lk/news/2564/
     publisher: News9
     date: 2026-11-16
-open_questions:
-  - No laboratory confirmation that the seized Kush is cannabis was reported.
-  - No charge was reported; detention orders were still to be obtained and the case stood at investigation.
-  - No plea, remand outcome or later court result was reported.
-  - The value of Rs 86.64 million is the authorities' estimate, with no breakdown of how it was calculated.
-  - Ada Derana and LankaHanda reproduce the same reporter account of the route, concealment and value, so they are not fully independent; only the Police Media Division roundup adds an independent split of the haul.
-  - A Police Media Division roundup combines this 8.664 kg seizure with a separate same-morning Customs seizure of 4.384 kg, reported together as 13.048 kg; that separate seizure is left out here.
+  - title: Two Sri Lankans arrested at BIA with over 8kg of ‘Kush’ worth Rs. 86 mn | The Morning
+    url: https://www.themorning.lk/articles/onj0s6OPLQueDGCFuf3T
+    publisher: The Morning
+    date: 2026-11-16
 ---
 
 Officers of the Police Narcotics Bureau arrested two Sri Lankan passengers at
 Bandaranaike International Airport in Katunayake in the early hours of 16
-November 2026 as they attempted to leave the airport with narcotics. [@1] The
+November 2026 as they attempted to leave the airport with narcotics. [@1,4] The
 two are a 35-year-old iron welder living in Nedunkerny and a 46-year-old
 businessman living in Kandy. [@1] The two are due to be produced before the
 Negombo Magistrate's Court on 16 November so detention orders can be obtained
-for further investigation. [@2]
+for further investigation. [@2,4]
 
 Officers found a total of 8 kilograms and 664 grams of Kush concealed inside
-four whisky-bottle boxes packed in two pieces of luggage. [@1] The whisky
+four whisky-bottle boxes packed in two pieces of luggage. [@1,4] The whisky
 bottles had been removed from the boxes and replaced with four packets
 containing the narcotics. [@1] Police put the value of the consignment at Rs
-86.64 million. [@2] The pair had bought the drugs in Thailand, travelled to
+86.64 million. [@2,4] The pair had bought the drugs in Thailand, travelled to
 Kuala Lumpur in Malaysia, and arrived at Katunayake at around midnight on
 Malaysia Airlines flight MH179. [@2]
 
@@ -85,4 +82,3 @@ A police account splits the haul as 4.336 kilograms and 4.328 kilograms held by
 the two suspects respectively, arrested by the PNB Airport Unit at the arrivals
 terminal on information received. [@3] The PNB Airport Unit is conducting
 further investigations. [@3]
-
