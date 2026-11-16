@@ -30,6 +30,11 @@ sources:
     publisher: RKC高知放送
     date: 2026-11-16
     language: ja
+  - title: パトカーを見て慌てて物陰に…職務質問で「大麻のにおい」タバコの箱に乾燥大麻を隠し持っていた29歳男を逮捕【高知】 | TBS NEWS DIG
+    url: https://newsdig.tbs.co.jp/articles/-/3088295
+    publisher: TBS NEWS DIG (テレビ高知)
+    date: 2026-11-16
+    language: ja
 open_questions:
   - No weight was reported for the single hand-rolled cannabis cigarette, described only as a trace amount, so no cannabis weight is recorded.
   - The man was arrested on suspicion of violating the Narcotics Control Act; no charge, detention measure or court outcome was reported.
@@ -38,8 +43,8 @@ open_questions:
 
 A 29-year-old self-described company employee was arrested for possessing dried
 cannabis on a street in Kochi city after officers saw him hide from their patrol
-car and stopped him for questioning. [@1] The arrested man is described as a
-resident of the Kanda district of Kochi city. [@1] The Kochi Police Station says
+car and stopped him for questioning. [@1,3] The arrested man is described as a
+resident of the Kanda district of Kochi city. [@1,3] The Kochi Police Station says
 the alleged possession occurred on a street in the city at about 5:15 p.m. on
 the 15th. [@1]
 
@@ -54,4 +59,3 @@ a suspected violation of the Narcotics Control Act. [@2]
 The man admitted the allegation during questioning, telling investigators that
 it was correct. [@2] Police say they are continuing a detailed investigation
 into how he obtained the cannabis and other circumstances of the case. [@2]
-
