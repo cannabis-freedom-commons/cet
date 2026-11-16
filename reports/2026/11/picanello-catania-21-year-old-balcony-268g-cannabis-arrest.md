@@ -55,28 +55,33 @@ sources:
     publisher: Etna News 24
     date: 2026-11-15
     language: it
-open_questions:
-  - No separate date for the arrest is given; 15 November 2026 is the article's publication date and is used as the incident date.
-  - The drugs are reported as marijuana and hashish by police with no laboratory confirmation reported.
-  - No street value for the seized drugs was published.
-  - The arrested man was not named and no trial outcome after the fast-track referral was reported.
-  - Only one accessible source for this event was found.
+  - title: 'Catania, vede la Polizia e lancia la droga dal balcone: arrestato 21enne a Picanello'
+    url: https://newsicilia.it/catania/cronaca/catania-vede-la-polizia-e-lancia-la-droga-dal-balcone-arrestato-21enne-a-picanello/1124701/
+    publisher: NewSicilia
+    date: 2026-11-15
+    language: it
+media:
+  - kind: video
+    url: https://newsicilia.it/catania/cronaca/catania-vede-la-polizia-e-lancia-la-droga-dal-balcone-arrestato-21enne-a-picanello/1124701/
+    media_url: https://www.youtube.com/watch?v=8xsoH-UE5CU
+    publisher: NewSicilia
+    caption: 'Video of the Picanello episode in which the young man throws drugs from the balcony. Video: NewSicilia'
 ---
 
 A 21-year-old man from Catania was arrested by officers of the Catania police
-flying squad for possessing drugs with intent to deal. [@1,2] The episode took
+flying squad for possessing drugs with intent to deal. [@1,2,3] The episode took
 place in the Picanello neighbourhood during a targeted anti-drug-dealing
 operation. [@1,2] Seeing officers below his home, the young man tried to get rid
 of the drugs by throwing them from the balcony. [@1,2]
 
 He threw into the street a pouch containing 200 grams of marijuana and 25 grams
-of hashish, which officers recovered and seized. [@1,2] Officers then went up to
+of hashish, which officers recovered and seized. [@1,2,3] Officers then went up to
 the flat and searched every room, finding material for weighing and packaging
 doses. [@1] In a pot on the kitchen worktop they found two more packs of
-marijuana weighing 32 grams in total. [@1,2] In a storage closet they found a jar
+marijuana weighing 32 grams in total. [@1,2,3] In a storage closet they found a jar
 with 10 grams of marijuana and a baking-paper wrap with 1.2 grams of hashish.
-[@1] In the bedroom nightstand there were 350 euros in cash, considered proceeds
-of the dealing activity. [@1,2]
+[@1,3] In the bedroom nightstand there were 350 euros in cash, considered proceeds
+of the dealing activity. [@1,2,3]
 
 On the orders of the duty prosecutor at the Catania court, the 21-year-old was
-placed under house arrest at his home to await a fast-track trial. [@1,2]
+placed under house arrest at his home to await a fast-track trial. [@1,2,3]
