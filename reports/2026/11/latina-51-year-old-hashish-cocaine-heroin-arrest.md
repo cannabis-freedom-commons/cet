@@ -83,10 +83,15 @@ sources:
     publisher: IlMetropolitano.it
     date: 2026-11-15
     language: it
+  - title: Cocaina, hashish ed eroina in casa, scatta l'arrestato
+    url: https://www.h24notizie.com/2026/11/15/cocaina-hashish-ed-eroina-in-casa-scatta-larrestato/
+    publisher: h24 notizie
+    date: 2026-11-15
+    language: it
 ---
 
 Latina state police arrested a man born in 1975 on suspicion of possessing drugs
-for the purpose of dealing. [@1,7,8,9] The man is described as 51 years old and was
+for the purpose of dealing. [@1,7,8,9,10] The man is described as 51 years old and was
 taken to Latina prison at the disposal of the judicial authority. [@1]
 
 Mobile squad officers had been watching the home he used after noticing a
@@ -94,13 +99,13 @@ continuous coming and going of people making only very brief visits. [@2,5,7,9]
 Officers then carried out a home search with help from Nettuno state police dog
 units. [@2,6,7,8,9] Most of the cocaine and the heroin were in a waist bag beside the
 bed, another dose of cocaine was in the man's wallet, and the hashish was in a
-bedroom drawer. [@3,7,9]
+bedroom drawer. [@3,7,9,10]
 
 Officers seized about 144 grams of cocaine, almost 6 grams of hashish and just
-over 1 gram of heroin. [@2,4,6,7,8,9] They also seized a precision scale, material for
+over 1 gram of heroin. [@2,4,6,7,8,9,10] They also seized a precision scale, material for
 packaging doses and notes with names, sums of money and quantities that
-investigators considered linked to dealing. [@2,5,7,9] The man was arrested in the act
+investigators considered linked to dealing. [@2,5,7,9,10] The man was arrested in the act
 and, on the order of the on-duty prosecutor of the Latina public prosecutor's
-office, was taken to the Latina district prison. [@2,6,9] The proceedings are at the
+office, was taken to the Latina district prison. [@2,6,9,10] The proceedings are at the
 preliminary-investigation stage and the suspect is presumed innocent until any
 final conviction. [@1]
