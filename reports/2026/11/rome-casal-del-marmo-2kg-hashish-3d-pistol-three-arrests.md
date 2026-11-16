@@ -57,6 +57,11 @@ sources:
     publisher: Abitare a Roma
     date: 2026-11-16
     language: it
+  - title: 'Controllo a Roma, pistola 3D e hashish: tre giovani arrestati'
+    url: https://www.lacronacadiroma.it/2026/11/controllo-a-roma-pistola-3d-e-hashish-tre-giovani-arrestati
+    publisher: La Cronaca di Roma
+    date: 2026-11-16
+    language: it
 open_questions:
   - No separate date is given for the road check; 16 November 2026 is the publication date of the accounts and is used as the incident date.
   - The hashish weight is stated only as about two kilograms for the 23 blocks, not an exact measured weight.
@@ -65,17 +70,17 @@ open_questions:
 ---
 
 State police flying-squad crews began the operation in Via Casal del Marmo after
-becoming suspicious of the three young men travelling in a car. [@2] When
+becoming suspicious of the three young men travelling in a car. [@2,4] When
 officers ordered the car to stop, the driver instead accelerated with sharp
-manoeuvres before halting near some parked cars. [@2] The rear passenger fled on
+manoeuvres before halting near some parked cars. [@2,4] The rear passenger fled on
 foot with a transparent plastic bag, threw it over a gate along his escape route
 and hid behind a vehicle. [@2] The three Romans, aged between 20 and 21, were
 arrested for drug possession, with unlawful weapons possession also alleged
-against two of them. [@2] The judicial authority validated the police action and
+against two of them. [@2,4] The judicial authority validated the police action and
 the arrests. [@2]
 
 Police recovered the bag holding 23 blocks of hashish weighing about two
-kilograms after a passenger threw it over a gate. [@2] A search of the car found
+kilograms after a passenger threw it over a gate. [@2,4] A search of the car found
 a 3D-printed pistol in the rear door pocket together with 565 euros in cash
 considered likely proceeds of drug dealing. [@2] At one suspect's home officers
 found a knife stained with traces of drugs plus keys and electronic remotes that
@@ -95,4 +100,3 @@ between 20 and 21 arrested by police for unlawful weapons possession and drug
 possession. [@1] A second outlet likewise reports 565 euros in cash and a
 plastic 3D-printed pistol with a hand-made metal firing system were seized in
 the car. [@3]
-
