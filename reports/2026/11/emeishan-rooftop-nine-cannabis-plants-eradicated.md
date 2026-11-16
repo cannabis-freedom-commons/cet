@@ -39,6 +39,11 @@ sources:
     publisher: 凤凰网
     date: 2026-11-15
     language: zh
+  - title: 小区楼顶，网格员撞见9株大麻！1.5米高无人察觉，发现要立刻上报_种植_植物_居民楼
+    url: https://www.sohu.com/a/1102206029_122653494
+    publisher: 搜狐网
+    date: 2026-11-16
+    language: zh
 open_questions:
     - The article gives no separate date for the discovery or the eradication; 15 November 2026 is its publication date and is used as the incident date.
     - The plants were identified visually as cannabis; no laboratory confirmation was reported.
@@ -47,12 +52,12 @@ open_questions:
 ---
 
 Grid worker Xiaozhang was carrying out door-to-door inspection visits in a
-housing estate in Shengli Subdistrict in Emeishan, Leshan, Sichuan. [@1,2] When
+housing estate in Shengli Subdistrict in Emeishan, Leshan, Sichuan. [@1,2,3] When
 she reached the roof of a residential building, she noticed several strikingly
 tall herbaceous plants. [@1] The plants had straight upright stems and leaves
 spreading from the stem joints like an open palm divided into sections, unlike
 the estate's ordinary greenery. [@1] The tallest stood about 1.5 metres high,
-with palm-like foliage. [@1]
+with palm-like foliage. [@1,3]
 
 Using a mnemonic learned in anti-drug training, she compared the features and
 recognised the plants as cannabis, a drug-source plant, then immediately called
