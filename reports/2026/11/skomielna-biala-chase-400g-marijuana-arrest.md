@@ -45,37 +45,34 @@ sources:
     publisher: Miasto-info
     date: 2026-11-16
     language: pl
-open_questions:
-  - The published marijuana total is a minimum (over 400 grams), not an exact weight.
-  - The over 600 grams of mephedrone is excluded from the cannabis figures; only the marijuana counts toward the seizure total.
-  - 'How the drugs were split among the car and the two homes is only partly reported: about 150 grams of marijuana and nearly 80 grams of mephedrone at the owner''s home and tens of grams at the driver''s home, with the rest undescribed.'
-  - No laboratory confirmation of the substances was reported.
-  - Whether the 37-year-old owner was ever detained is not reported; only police supervision is stated.
-  - No court outcome beyond the three-month pretrial detention was reported.
+  - title: Uciekał przed policją, porzucił rozbity samochód. W aucie znaleźli ponad kilogram narkotyków
+    url: https://tylkomalopolska.pl/uciekal-przed-policja-porzucil-rozbity-samochod-w-aucie-znalezli-ponad-kilogram-narkotykow
+    publisher: tylkoMałopolska
+    date: 2026-11-16
+    language: pl
 ---
 
 On 29 October 2026 in Skomielna Biala, officers of the Myslenice SPEED group
-tried to stop a speeding car in a built-up area. [@1] The driver ignored the
+tried to stop a speeding car in a built-up area. [@1,4] The speed check that began the chase was carried out at about 15:00. [@4] The driver ignored the
 officers' signals, changed direction sharply and fled, and the chase ended when
-the car left the road and stopped in a roadside ditch. [@1] Nobody was in the
+the car left the road and stopped in a roadside ditch. [@1,4] Nobody was in the
 wrecked car, but officers searching it found significant quantities of drugs.
-[@1] Detectives then identified the vehicle's owner as a 37-year-old resident of
-Nowy Targ county. [@1] At his home officers seized about 150 grams of marijuana
-and nearly 80 grams of mephedrone. [@1] Investigators found that the car on that
+[@1,4] Detectives then identified the vehicle's owner as a 37-year-old resident of
+Nowy Targ county. [@1,4] At his home officers seized about 150 grams of marijuana
+and nearly 80 grams of mephedrone. [@1,4] Investigators found that the car on that
 day had been driven by a 26-year-old resident of Nowy Targ county, who had
-failed to stop and then abandoned the wrecked car. [@1] Officers did not find
-him at his home, but a search there found more drugs. [@1] He hid from the
-police until he was detained on 12 November. [@1]
+failed to stop and then abandoned the wrecked car. [@1,4] Officers did not find
+him at his home, but a search there found more drugs. [@1,4] He hid from the
+police until he was detained on 12 November. [@1,4]
 
 Across the investigation police secured over 400 grams of marijuana and over 600
-grams of mephedrone. [@1] Malopolska police said two residents of Nowy Targ
+grams of mephedrone. [@1,4] Malopolska police said two residents of Nowy Targ
 county were implicated in the case. [@2] The 26-year-old was charged with
 possessing and supplying significant quantities of intoxicants, including that
-marijuana and mephedrone. [@1] He will also answer for failing to stop for the
-road check. [@1] Myslenice police spokesman Dawid Wietrzyk confirmed the charges
+marijuana and mephedrone. [@1,4] He will also answer for failing to stop for the
+road check. [@1,4] Myslenice police spokesman Dawid Wietrzyk confirmed the charges
 against the 26-year-old. [@3] The District Court in Myslenice ordered him held
-in temporary detention for three months. [@1] The 37-year-old vehicle owner was
-also charged with drug possession and placed under police supervision. [@1]
+in temporary detention for three months. [@1,4] The 37-year-old vehicle owner was
+also charged with drug possession and placed under police supervision. [@1,4]
 Police noted that possessing and supplying significant quantities carries up to
 12 years in prison. [@2]
-
