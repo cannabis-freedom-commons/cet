@@ -57,16 +57,19 @@ sources:
     publisher: KSB瀬戸内海放送
     date: 2026-11-16
     language: ja
+  - title: 「自分で使用するために…」自宅の庭で大麻草を栽培した疑い 岡山市東区の無職の男（67）を再逮捕
+    url: https://www.msn.com/ja-jp/news/other/%E8%87%AA%E5%88%86%E3%81%A7%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB-%E8%87%AA%E5%AE%85%E3%81%AE%E5%BA%AD%E3%81%A7%E5%A4%A7%E9%BA%BB%E8%8D%89%E3%82%92%E6%A0%BD%E5%9F%B9%E3%81%97%E3%81%9F%E7%96%91%E3%81%84-%E5%B2%A1%E5%B1%B1%E5%B8%82%E6%9D%B1%E5%8C%BA%E3%81%AE%E7%84%A1%E8%81%B7%E3%81%AE%E7%94%B7-67-%E3%82%92%E5%86%8D%E9%80%AE%E6%8D%95/ar-AA2hw03x
+    publisher: MSN
+    date: 2026-11-16
+    language: ja
 open_questions:
     - No weight was published for the single cannabis cigarette, so no kilograms are recorded.
     - No count was published for the cannabis plants grown in the garden, so no plant figure is recorded.
-    - Testing of the seized suspected plants was reported only as testing, with no detailed result published beyond the re-arrest for cultivation.
     - The year 2026 for the 4 November arrest and the 5 October tip is taken from publication timestamps, as the earlier text gave only month and day.
     - The 16 November re-arrest date is taken from the publication date, as the new text gives only the day.
     - The suspect's name was not published.
     - No court outcome or next step after the re-arrest was reported.
     - It is not reported whether the man remained in custody between the 4 November arrest and the 16 November re-arrest.
-    - Only the KSB original was opened for the re-arrest; no independent second outlet was found.
 ---
 
 Okayama Higashi police arrested a 67-year-old unemployed man living in
@@ -82,6 +85,6 @@ man’s home on 4 November and found one cannabis cigarette, which led them to
 arrest him. [@2]
 
 During questioning the man admitted the allegation, telling police that it was
-correct. [@1,3,4] The man admitted the cultivation allegation, telling police he grew it for his own use. [@5] Officers also found a plant resembling cannabis in the garden of
-the residence. [@1,3,5] Police allege he grew cannabis in his home garden between 15 October and 4 November 2026. [@5] Police are investigating the garden find on suspicion that
-the man had been cultivating cannabis. [@1,3] On 16 November police re-arrested the 67-year-old unemployed man on suspicion of cultivating cannabis in violation of the cannabis cultivation regulation. [@5]
+correct. [@1,3,4] The man admitted the cultivation allegation, telling police he grew it for his own use. [@5,6] Officers also found a plant resembling cannabis in the garden of
+the residence. [@1,3,5] Police allege he grew cannabis in his home garden between 15 October and 4 November 2026. [@5,6] Police are investigating the garden find on suspicion that
+the man had been cultivating cannabis. [@1,3] On 16 November police re-arrested the 67-year-old unemployed man on suspicion of cultivating cannabis in violation of the cannabis cultivation regulation. [@5,6]
