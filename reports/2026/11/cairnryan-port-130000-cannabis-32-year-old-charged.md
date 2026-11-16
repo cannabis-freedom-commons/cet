@@ -39,23 +39,20 @@ sources:
     url: https://www.bbc.co.uk/news/articles/c6n90gyj3vdeo
     publisher: BBC News
     date: 2026-11-16
-open_questions:
-  - No weight was published for the cannabis; only a large quantity and a £130,000 estimated street value were reported.
-  - No calendar date was given for the search; Saturday night is read as 14 November 2026 from the 16 November 2026 publication date.
-  - The man was described only as 32 years old; no name or plea was reported.
-  - No court outcome was reported beyond the forthcoming appearance at Stranraer Sheriff Court.
-  - The account rests on a single BBC report and no separate agency statement was opened.
+  - title: Man arrested after £130,000 cannabis haul found at ferry port - Yahoo News Canada
+    url: https://ca.news.yahoo.com/man-arrested-130-000-cannabis-145932711.html
+    publisher: Yahoo News Canada
+    date: 2026-11-16
 ---
 
 A 32-year-old man has been arrested and charged after cannabis with an estimated
-street value of £130,000 was found at a ferry port in south-west Scotland. [@1]
-The man is due to appear at Stranraer Sheriff Court. [@1]
+street value of £130,000 was found at a ferry port in south-west Scotland. [@1,2]
+The man is due to appear at Stranraer Sheriff Court. [@1,2]
 
 Police said a vehicle had been stopped and searched at Cairnryan Port at about
-22:00 on Saturday and a large quantity of the drug discovered. [@1] The vehicle
+22:00 on Saturday and a large quantity of the drug discovered. [@1,2] The vehicle
 search took place at Cairnryan on Saturday night. [@1] Police put the estimated
 street value of the cannabis found at the ferry port at £130,000. [@1]
 
 Det Insp David Williamson said it was a substantial recovery which showed the
 police commitment to disrupting drug supplies. [@1]
-
