@@ -1,7 +1,7 @@
 ---
 code: 4GTSFS
 added_at: "2026-11-13T08:30:01.645231Z"
-date: 2026-11-12
+date: 2026-11-16
 country: eg
 place: Second Nasr City police district, Nasr City, Cairo
 coordinates: [30.05, 31.34]
@@ -69,12 +69,11 @@ sources:
     publisher: بوابة مولانا
     date: 2026-11-14
     language: ar
-open_questions:
-    - No weight or quantity was published for the hashish or the ice, so no cannabis quantity is recorded.
-    - The referral order carries no separate date; 12 November 2026 is the publication date of the reports and is used as the incident date.
-    - The ice (methamphetamine) component is excluded from cannabis figures, and no combined drug total is recorded.
-    - A 15 November first trial session date was reported, but no plea or verdict was reported.
-    - The accused is identified only by the initials Maha A., with no full name or age reported.
+  - title: تأجيل محاكمة ربة منزل بتهمة الاتجار في الحشيش والآيس
+    url: https://www.dostor.org/5778874
+    publisher: جريدة الدستور
+    date: 2026-11-16
+    language: ar
 media:
   - kind: photo
     url: https://www.dostor.org/5774461
@@ -85,7 +84,7 @@ media:
 
 The Nasr City prosecution ordered a housewife referred to criminal trial for
 trafficking in the narcotics hashish and ice within the Second Nasr City police
-district. [@1,3,4,5,6] The Cairo Criminal Court set 15 November to hear the first trial session in her case. [@5,6] The referral order said the accused, identified as Maha A.,
+district. [@1,3,4,5,6,7] The Cairo Criminal Court set 15 November to hear the first trial session in her case. [@5,6] On 16 November 2026 the Cairo Criminal Court postponed the housewife's trial to the 10 December session. [@7] The referral order said the accused, identified as Maha A.,
 possessed hashish and ice, both listed in the schedules attached to the
 drug-control law, with intent to traffic outside legally authorized
 circumstances. [@1,3,4,5,6]
