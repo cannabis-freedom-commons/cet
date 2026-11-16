@@ -64,6 +64,11 @@ sources:
     publisher: Gujarat Mirror
     date: 2026-11-16
     language: gu
+  - title: 'Surendranagar Ganja Seizure: 118 Kg Cannabis Worth Rs 59 Lakh Recovered, Questions Raised Over Local Police'
+    url: https://tv9gujarati.com/videos/gujarat-videos/surendranagar-ganja-seizure-118-kg-cannabis-worth-rs-59-lakh-recovered-questions-raised-over-local-police-1548837.html
+    publisher: TV9 Gujarati
+    date: 2026-11-16
+    language: gu
 open_questions:
     - No separate date was given for the raid; 15 and 16 November 2026 are publication dates and stand in for the incident date.
     - The 118 kilograms is reported as the weight of the 130 green plants with roots, not as dried cannabis, and no laboratory confirmation was reported.
@@ -75,18 +80,28 @@ media:
     media_url: https://imgs.etvbharat.com/etvbharat/prod-images/16-11-2026/1200-675-28121172-thumbnail-16x9-g1-aspera.jpg
     publisher: ETV Bharat
     caption: 'Field at Rampara village outskirts where 130 ganja plants were found. Photo: ETV Bharat Gujarat'
+  - kind: photo
+    url: https://tv9gujarati.com/videos/gujarat-videos/surendranagar-ganja-seizure-118-kg-cannabis-worth-rs-59-lakh-recovered-questions-raised-over-local-police-1548837.html
+    media_url: https://images.tv9gujarati.com/wp-content/uploads/2026/11/Surendranagar-118-KG-Ganja-Seizure.jpg?w=1280&enlarge=true
+    publisher: TV9 Gujarati
+    caption: Seized ganja crop from the Surendranagar farm raid reported as 118 kg worth Rs 59 lakh.
+  - kind: video
+    url: https://tv9gujarati.com/videos/gujarat-videos/surendranagar-ganja-seizure-118-kg-cannabis-worth-rs-59-lakh-recovered-questions-raised-over-local-police-1548837.html
+    media_url: https://www.youtube.com/watch?v=qF6bO4Jx0M8
+    publisher: TV9 Gujarati
+    caption: Video report on the seizure of about 118 kg of ganja worth Rs 59 lakh at Chobari Rampara, Surendranagar, and questions raised over local police.
 ---
 
 A Rajkot A.N.T.F. CID Crime team raided a farm on the outskirts of Rampara
 Chobari village in Chotila, Surendranagar, where illegal ganja cultivation had
-been detected. [@1,2,4] The operation uncovered illegal ganja cultivation in the
+been detected. [@1,2,4,5] The operation uncovered illegal ganja cultivation in the
 Chotila area of Surendranagar district, where a large quantity of green plants
 was found in a single farm. [@1] Officers seized 130 green ganja plants, the
-local name for cannabis, from the farm during the search. [@1,3,4] Police recorded
-the total weight of the 130 seized plants as 118 kilograms. [@1,3,4]
+local name for cannabis, from the farm during the search. [@1,3,4,5] Police recorded
+the total weight of the 130 seized plants as 118 kilograms. [@1,3,4,5]
 
 Police estimated the value of the 118 kilograms of seized ganja at Rs 5.9
-million, reported as Rs 59 lakh. [@1,2,4] The seized consignment was found in the
+million, reported as Rs 59 lakh. [@1,2,4,5] The seized consignment was found in the
 farm belonging to Bharatbhai Bavaliya. [@1,4] The case was presented as action
 against the owner of the farm where the plants were found. [@1] The accused, Bharat Mavjibhai Bawaliya, was reported to be absconding, with police checking his mobile location and other contacts to arrest him. [@2] Police
 registered a case under the Narcotic Drugs and Psychotropic Substances Act at
