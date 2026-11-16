@@ -48,24 +48,21 @@ sources:
     publisher: Presseportal / Landespolizeiinspektion Gotha
     date: 2026-11-16
     language: de
-open_questions:
-  - No quantity of cannabis was reported, because the case rests on a roadside drug test and a pending blood sample rather than a seizure.
-  - The result of the blood test and any fine, driving ban or court outcome were not reported.
-  - 15 November 2026 is inferred from yesterday around midnight in the 16 November 2026 police statement; no calendar date for the stop was stated.
-  - The same test was also positive for amphetamine/methamphetamine, which is not counted in the cannabis figures.
-  - The driver was identified only as a 23-year-old man and was not named.
-  - Both accounts reproduce the same Landespolizeiinspektion Gotha statement and are not independent reporting.
+  - title: 'Eisenach: Drogenvortest bei Verkehrskontrolle schlägt an - Newsflash24'
+    url: https://newsflash24.de/blaulicht/thueringen/eisenach-drogenvortest-bei-verkehrskontrolle-schlaegt-an/
+    publisher: Newsflash24
+    date: 2026-11-16
+    language: de
 ---
 
 Police in Eisenach stopped a 23-year-old man who drove a Dacia on
-Karolinenstraße around midnight on 15 November 2026. [@1] A drug test carried
+Karolinenstraße around midnight on 15 November 2026. [@1,3] A drug test carried
 out during the traffic control was positive for amphetamine/methamphetamine and
-cannabis. [@1]
+cannabis. [@1,3]
 
-The man did not hold a valid driving licence. [@1] Officers stopped his onward
+The man did not hold a valid driving licence. [@1,3] Officers stopped his onward
 journey, ordered a blood sample to secure evidence and opened proceedings
-against him. [@2]
+against him. [@2,3]
 
 The account is the Landespolizeiinspektion Gotha statement issued on the morning
 of 16 November 2026. [@1]
-
