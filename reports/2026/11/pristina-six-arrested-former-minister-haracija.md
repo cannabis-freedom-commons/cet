@@ -44,6 +44,10 @@ sources:
     publisher: Blic
     date: 2026-11-15
     language: sr
+  - title: Former Minister of Kosovo Arrested in Major Anti-Drug Operation
+    url: https://albaniandailynews.com/news/former-minister-of-kosovo-arrested-in-major-anti-drug-operation
+    publisher: Albanian Daily News
+    date: 2026-11-15
 open_questions:
   - No date for the operation itself was published; 15 November 2026 is the publication date and is used as the incident date.
   - No weight for the seized marijuana was published, so no cannabis weight is recorded.
@@ -54,23 +58,22 @@ open_questions:
 
 Kosovo Police in Pristina arrested six members of an organised group suspected
 of drug trafficking, including former culture minister of the provisional
-institutions Astrit Haraćija. [@1] Police said the operation was the result of a
+institutions Astrit Haraćija. [@1,2] Police said the operation was the result of a
 long investigation and that the group had an organised structure and a defined
-hierarchy, from the people at the top down to street drug dealers. [@1] Searches
+hierarchy, from the people at the top down to street drug dealers. [@1,2] Searches
 were carried out at several locations, where six suspects were arrested, and
 proceedings would be opened against one person in regular procedure. [@1]
 
 Police seized about 1.6 kilograms of cocaine, marijuana, ecstasy tablets and
 other unidentified substances, together with about 16,000 euros in cash in
-various currencies. [@1] Officers also seized six luxury cars, luxury watches,
+various currencies. [@1,2] Officers also seized six luxury cars, luxury watches,
 jewellery, phones, electronic devices and surveillance equipment. [@1] During
 the searches officers also found firearms, ammunition, knives, digital scales
 and equipment for packaging narcotic substances. [@1]
 
 Police put the street value of the seized cocaine at about 111,000 euros, and
-the total value of the drugs and seized property at about 301,000 euros. [@1]
+the total value of the drugs and seized property at about 301,000 euros. [@1,2]
 The detained suspects were given detention of up to 48 hours. [@1] Haraćija was
 culture minister from 2004 to 2007 in the government of the provisional
 institutions led by Ramuš Haradinaj, and in 2012 he was deputy finance minister
 under Hašim Tači; his lawyer confirmed the arrest to Koha. [@1]
-
