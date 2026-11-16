@@ -46,15 +46,25 @@ sources:
     url: https://mediaselangor.com/en/2026/10/402786
     publisher: Media Selangor
     date: 2026-10-23
+  - title: Heroin found at unregistered house of worship in Klang
+    url: https://thesun.my/news/heroin-unregistered-house-of-worship-in-klang/
+    publisher: The Sun Malaysia
+    date: 2026-10-23
+media:
+  - kind: photo
+    url: https://thesun.my/news/heroin-unregistered-house-of-worship-in-klang/
+    media_url: https://cms.thesun.my/wp-content/uploads/2026/10/Heroin-found-at-unregistered-house-of-worship-in-Klang.webp
+    publisher: The Sun Malaysia
+    caption: 'Heroin found at unregistered house of worship in Klang during Selangor raids. Photo: BERNAMA'
 ---
 
 Selangor police uncovered a drug operation using an unregistered house of worship in Klang as a
 storage site, in five raids on four premises targeting four syndicates between 13 and 19 October
-2026. [@1,2] A local man working part-time at the premises was detained; a raid found 20.6
-kilograms of heroin in the worship house storeroom, a site on land gazetted for sewerage. [@1,2]
+2026. [@1,2,3] A local man working part-time at the premises was detained; a raid found 20.6
+kilograms of heroin in the worship house storeroom, a site on land gazetted for sewerage. [@1,2,3]
 
 Separate raids in Rawang and at Kuala Lumpur International Airport brought the week's arrests to
 eight people aged 19 to 48, including four foreigners who had entered on social visit passes and
-were allegedly transiting with drugs in their luggage. [@1,2] In all, police seized 81.3 kg of
+were allegedly transiting with drugs in their luggage. [@1,2,3] In all, police seized 81.3 kg of
 cannabis flowers, 37 kg of ganja, ketamine, ecstasy and heroin worth RM16.2 million, plus vehicles
-and cash, all under investigation for trafficking. [@1,2]
+and cash, all under investigation for trafficking. [@1,2,3]
