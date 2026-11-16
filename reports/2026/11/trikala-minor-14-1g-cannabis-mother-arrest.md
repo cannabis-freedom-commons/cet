@@ -41,6 +41,11 @@ sources:
     publisher: trikalaenimerosi.gr
     date: 2026-11-15
     language: el
+  - title: Συνελήφθη ανήλικος με κάνναβη – Χειροπέδες και στη μητέρα του
+    url: https://www.trikalaonline.gr/trikala/%CF%83%CF%85%CE%BD%CE%B5%CE%BB%CE%AE%CF%86%CE%B8%CE%B7-%CE%B1%CE%BD%CE%AE%CE%BB%CE%B9%CE%BA%CE%BF%CF%82-%CE%BC%CE%B5-%CE%BA%CE%AC%CE%BD%CE%BD%CE%B1%CE%B2%CE%B7-%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%80/
+    publisher: Trikala Online
+    date: 2026-11-15
+    language: el
 open_questions:
   - No age, identity, detention measure or court outcome was reported for the minor.
   - No detention measure, plea or court outcome was reported for the mother.
@@ -49,13 +54,12 @@ open_questions:
 ---
 
 On the evening of Saturday 14 November 2026, officers of the Trikala DIAS
-motorcycle-policing unit arrested a minor Greek national in Trikala. [@1] During
+motorcycle-policing unit arrested a minor Greek national in Trikala. [@1,2] During
 the check, officers found one nylon package with raw dried cannabis weighing
-14.1 grams in his possession and seized it. [@1] The minor's mother was arrested
-alongside him on suspicion of neglecting supervision of a minor. [@1]
+14.1 grams in his possession and seized it. [@1,2] The minor's mother was arrested
+alongside him on suspicion of neglecting supervision of a minor. [@1,2]
 
 The seized cannabis was described as raw dried cannabis in a single nylon
 package with a total weight of 14.1 grams. [@1] The arrest was carried out by
 the DIAS motorcycle-policing team, the unit named as acting in Trikala that
 evening. [@1]
-
