@@ -60,28 +60,34 @@ sources:
     publisher: Semana
     date: 2026-11-16
     language: es
+  - title: Más de una tonelada de marihuana, incautada por el Ejército en Cauca
+    url: http://diariodelcauca.com.co/noticias/mas-de-una-tonelada-de-marihuana-incautada-por-el-ejercito-en-cauca
+    publisher: Diario del Cauca
+    date: 2026-11-16
+    language: es
 open_questions:
   - No separate date for the interdiction was given; 16 November 2026 is the publication date of both accounts and stands in for the incident date.
   - The driver was not named and no charge, plea or court outcome beyond referral for judicialization was reported.
   - The marijuana was described only as seized marijuana without reported laboratory confirmation.
   - The 1,050 million figure is the Army's estimated illicit-market impact on the Dagoberto Ramos structure, stated in pesos.
   - The Semana account mentions a separate weekend offensive with about 1,048 kg seized and three arrests at four other Cauca points; that is a different event left out here.
+  - The new account gives both 1,041 kilograms and 1,700 kilograms for the same van seizure, while the report continues to use 1,041 kilograms.
+  - The new account puts the estimated economic impact on the Dagoberto Ramos structure at more than 425 million pesos, while the report uses about 1,050 million pesos from the earlier accounts.
 ---
 
 Troops of Anti-Narcotics Battalion No. 2 carried out a ground interdiction
 against a motor vehicle in a rural area of Popayán, Cauca. [@1] Officers found
 1,041 kilograms of marijuana hidden inside an NPR-type truck during the check.
-[@1] Officers arrested the driver of the vehicle at the scene. [@1] The seized
+[@1,3] Officers arrested the driver of the vehicle at the scene. [@1,3] The seized
 load, the immobilized vehicle and the detained man were placed at the disposal
 of the judicial authorities for prosecution for alleged drug trafficking,
-manufacture or possession. [@2]
+manufacture or possession. [@2,3]
 
 Military intelligence linked the load to the Dagoberto Ramos structure of the
-FARC dissidents. [@2] Intelligence indicated the drug was first bound for Puerto
-Asís, Putumayo. [@1] From Puerto Asís the load was to be moved by river launches
-toward Brazil. [@1]
+FARC dissidents. [@2,3] Intelligence indicated the drug was first bound for Puerto
+Asís, Putumayo. [@1,3] From Puerto Asís the load was to be moved by river launches
+toward Brazil. [@1,3]
 
 Authorities estimated the seizure equalled about 52,050 doses for illegal
 markets. [@1] The Army put the economic impact on that structure at about 1,050
 million pesos. [@2]
-
