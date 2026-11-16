@@ -111,21 +111,26 @@ sources:
     publisher: La Red 106.1 FM
     date: 2026-11-15
     language: es
+  - title: حشيش داخل عناقيد الموز.. جواتيمالا تضبط نصف طن مخدرات بشحنة فاكهة - اليوم السابع
+    url: https://www.youm7.com/story/2026/11/16/%D8%AD%D8%B4%D9%8A%D8%B4-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B9%D9%86%D8%A7%D9%82%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D9%88%D8%B2-%D8%AC%D9%88%D8%A7%D8%AA%D9%8A%D9%85%D8%A7%D9%84%D8%A7-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%86%D8%B5%D9%81-%D8%B7%D9%86-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%B4%D8%AD%D9%86%D8%A9/7620888
+    publisher: اليوم السابع
+    date: 2026-11-16
+    language: ar
 ---
 
 On the night of 14 November 2026, prosecutors and agents of the anti-narcotics
 information unit SGAIA inspected a truck carrying plantains at the
-inter-institutional checkpoint in Nuevo San Carlos, Retalhuleu. [@4,5,6,7] Suspecting
+inter-institutional checkpoint in Nuevo San Carlos, Retalhuleu. [@4,5,6,7,9] Suspecting
 concealed illicit goods, they moved the truck to a nearby police station for a
-fuller search. [@1,5,6,7]
+fuller search. [@1,5,6,7,9]
 
 At Comisaría 34, officers found about 120 large packages of marijuana hidden
-among the fruit. [@3,5,6,7,8] Officers also confiscated the vehicle used to carry the load along with the seized drugs. [@8] A field test confirmed the material was marijuana. [@1,5,6]
+among the fruit. [@3,5,6,7,8,9] Officers also confiscated the vehicle used to carry the load along with the seized drugs. [@8] A field test confirmed the material was marijuana. [@1,5,6,9]
 Each package held about 10 pounds, for an approximate seized total of 545
-kilograms. [@2,5,6]
+kilograms. [@2,5,6,9]
 
 Officers arrested the driver, identified as Wilder L., aged 31, while he drove
-the truck on route CA-2 at kilometre 185.3 in Nuevo San Carlos. [@3,5,7,8] He was
-placed at the disposal of the competent court. [@4,5,6] He was placed at the disposal of the competent court to answer for illicit commerce, trafficking and storage, in addition to the pending case. [@8] A check showed he had an
+the truck on route CA-2 at kilometre 185.3 in Nuevo San Carlos. [@3,5,7,8,9] He was
+placed at the disposal of the competent court. [@4,5,6,9] He was placed at the disposal of the competent court to answer for illicit commerce, trafficking and storage, in addition to the pending case. [@8] A check showed he had an
 outstanding arrest order for encubrimiento propio issued on 2 December 2025 by a
-court in Coatepeque, Quetzaltenango. [@3,5,6,7,8]
+court in Coatepeque, Quetzaltenango. [@3,5,6,7,8,9]
