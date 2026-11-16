@@ -56,13 +56,18 @@ sources:
     url: https://en.banglanews24.com/national/news/bd/197828.details
     publisher: Banglanews24
     date: 2026-11-14
+  - title: খিলক্ষেতে ৫০ কেজি গাঁজাসহ গ্রেপ্তার ২
+    url: https://www.dainikamadershomoy.com/details/01a1dd410f455
+    publisher: Dainik Amader Shomoy
+    date: 2026-11-15
+    language: bn
 open_questions:
   - Sources give different figures for the cannabis seized in this sweep, including 14.45 kg and 14.045 kg.
   - Opened UNB, Views Bangladesh and BD Bulletin pages used only handcuff graphics or DMP logo composites, not photos of this drive.
 ---
 
 Dhaka Metropolitan Police arrested 478 people and filed 62 cases during 24 hours
-of regular drives across the capital on Friday 13 November 2026. [@1,3,4,5] The
+of regular drives across the capital on Friday 13 November 2026. [@1,3,4,5,6] The
 figures were announced on 14 November by DMP Deputy Commissioner for Media and
 Public Relations Md Akter Hossain. [@1] Mirpur division accounted for the most
 arrests with 127, followed by Wari with 74, Tejgaon with 71, Lalbagh with 58,

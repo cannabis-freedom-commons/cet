@@ -77,6 +77,11 @@ sources:
     publisher: Dhakatimes24
     date: '2026-11-14'
     language: bn
+  - title: খিলক্ষেতে ৫০ কেজি গাঁজাসহ গ্রেপ্তার ২
+    url: https://www.dainikamadershomoy.com/details/01a1dd410f455
+    publisher: Dainik Amader Shomoy
+    date: 2026-11-15
+    language: bn
 open_questions:
   - >-
     The 24 bottles of Indian-made WINCEREX cough syrup seized in the same operation are non-cannabis
@@ -90,6 +95,7 @@ open_questions:
   - >-
     Only one accessible outlet account of this event was found after searching in Bengali and
     English.
+  - 'Left out, as its quotation was not found in Dainik Amader Shomoy: Dhaka Metropolitan Detective Police''s Ramna division arrested two alleged drug dealers in Dhaka''s Khilkhet with 50 kg of ganja and 24 bottles of Indian-made intoxicating cough syrup.'
 media:
   - kind: photo
     url: https://www.dhakatimes24.com/2026/11/14/417092
@@ -106,7 +112,7 @@ intoxicating cough syrup. [@1] The arrested accused were identified as
 24-year-old Mahbub Alam Shipon of Araihazar in Narayanganj and 49-year-old Md.
 Hazrat Ali. [@1] A DB team arrested them in a drive in the Kuril Mor area under
 Khilkhet Police Station on Saturday and recovered a motorcycle used to transport
-the drugs at the time of arrest. [@1]
+the drugs at the time of arrest. [@1,2]
 
 Acting on a secret tip, a Ramna zonal team conducted a special anti-drug drive
 and stopped the two men in front of the Haji Sahab Uddin Baitul Falah Jame
