@@ -79,16 +79,21 @@ sources:
     publisher: Enredacción
     date: 2026-11-14
     language: es
+  - title: 'FPA desbarata una familia narco: 13 detenidos y más de $200 millones secuestrados en Córdoba'
+    url: https://www.cadenasudeste.com/novedad/fpa-desbarata-familia-narco-13-detenidos-mas-200-millones-secuestrados-cordoba
+    publisher: Cadena Sudeste
+    date: 2026-11-15
+    language: es
 ---
 
 The FPA's preliminary report stated that at least 11 people had been detained so
-far. [@1] Thirteen adults were detained: eight men and five women. [@2,4,5] The organisation is described as a family-structured group selling cocaine and marijuana. [@5] The procedures inside the Bouwer prison complex were carried out by the Penitentiary Service in coordination with the FPA. [@4] Investigators say part of the illicit manoeuvres was coordinated from those prison cells. [@5] The houses searched were in the Oro Verde, El Pueblito, Ariel and El Talita neighbourhoods of Salsipuedes, and two cells of the Dr. Francisco Luchesse prison were searched. [@4,5]
+far. [@1] Thirteen adults were detained: eight men and five women. [@2,4,5,6] The organisation is described as a family-structured group selling cocaine and marijuana. [@5] The procedures inside the Bouwer prison complex were carried out by the Penitentiary Service in coordination with the FPA. [@4,6] Investigators say part of the illicit manoeuvres was coordinated from those prison cells. [@5] The houses searched were in the Oro Verde, El Pueblito, Ariel and El Talita neighbourhoods of Salsipuedes, and two cells of the Dr. Francisco Luchesse prison were searched. [@4,5,6]
 
-The raids seized 460 doses of marijuana and seven cannabis plants. [@2,4,5] Six cars
-and five motorcycles were also seized. [@2,4,5] The seizure included $12,671,350 in
-cash and 212 US dollars. [@2,4,5] The authorities valued the total seized items at
-$211,514,690. [@2,4,5]
+The raids seized 460 doses of marijuana and seven cannabis plants. [@2,4,5,6] Six cars
+and five motorcycles were also seized. [@2,4,5,6] The seizure included $12,671,350 in
+cash and 212 US dollars. [@2,4,5,6] The authorities valued the total seized items at
+$211,514,690. [@2,4,5,6]
 
 The investigation is led by prosecutor Milagros Rivas of the First Turn Drug
 Trafficking Prosecutor's Office. [@2] The investigation identified four referents linked to the illicit activity. [@4] The detentions and evidence were handed
-over to the judicial authorities. [@2,4] Prosecutor Milagros Rivas is scheduled to give more details of the case at a press conference at the FPA base in Parque Sarmiento in Córdoba capital. [@3]
+over to the judicial authorities. [@2,4,6] Prosecutor Milagros Rivas is scheduled to give more details of the case at a press conference at the FPA base in Parque Sarmiento in Córdoba capital. [@3]
