@@ -33,23 +33,33 @@ sources:
     publisher: Il Meridiano News
     date: 2026-11-15
     language: it
+  - title: 'Napoli Est, blatte nel ristorante e 530 chili di alimenti sequestrati: nel quartiere trovate anche 186 dosi di marijuana'
+    url: https://www.ilgiornalelocale.it/2026/11/napoli-est-blatte-nel-ristorante-e-530-chili-di-alimenti-sequestrati-trovate-anche-186-dosi-di-marijuana/
+    publisher: Il Giornale Locale
+    date: 2026-11-15
+    language: it
 open_questions:
-  - No weight, packaging breakdown or estimated value for the 186 doses was published.
-  - No arrest, suspect identity, charge or court outcome for the marijuana seizure was reported.
-  - 15 November 2026 is the publication date of the account and is used as the incident date because no separate date for the checks was given.
-  - The six people reported for drug use were described only as stupefacenti cases with no substance specified, so they are not counted here.
-  - No second outlet or agency statement for this seizure was found, so the account rests on a single report.
+    - No weight, packaging breakdown or estimated value for the 186 doses was published.
+    - No arrest, suspect identity, charge or court outcome for the marijuana seizure was reported.
+    - 15 November 2026 is the publication date of the account and is used as the incident date because no separate date for the checks was given.
+    - The six people reported for drug use were described only as stupefacenti cases with no substance specified, so they are not counted here.
+media:
+  - kind: photo
+    url: https://www.ilgiornalelocale.it/2026/11/napoli-est-blatte-nel-ristorante-e-530-chili-di-alimenti-sequestrati-trovate-anche-186-dosi-di-marijuana/
+    media_url: https://www.ilgiornalelocale.it/wp-content/uploads/2026/11/carabinieripoggiorealedrogarioneconnolo-300x225.jpg
+    publisher: Il Giornale Locale
+    caption: Drugs seized in Rione Connolo during the Poggioreale checks, described as the marijuana doses from the operation.
 ---
 
 Carabinieri of the Poggioreale company carried out controls in the eastern area
-of Naples. [@1] The military officers of the Arma directed attention to every
+of Naples. [@1,2] The military officers of the Arma directed attention to every
 possible illicit activity during those controls. [@1] In the Connolo district,
 the military officers seized 186 doses of marijuana as the drug result of the
-operation. [@1] The 186 marijuana doses were described as ready to be sold. [@1]
+operation. [@1,2] The 186 marijuana doses were described as ready to be sold. [@1,2]
 The 186 doses were presented as part of the overall bilancio of those
 Carabinieri controls. [@1]
 
-Four people were reported for electricity theft during the same checks. [@1] An
+Four people were reported for electricity theft during the same checks. [@1,2] An
 unauthorised parking attendant already sanctioned for the same conduct and a
 34-year-old accused of driving without a licence were also to be reported. [@1]
 
@@ -57,4 +67,3 @@ After being stopped, a 15-year-old who fled a check on a motorcycle that was
 later seized admitted he had no licence and will answer for dangerous flight.
 [@1] Officers issued 17 fines to motorists and motorcyclists, seized six
 vehicles and reported six people for drug use. [@1]
-
