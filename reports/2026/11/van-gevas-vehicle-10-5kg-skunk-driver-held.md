@@ -99,18 +99,23 @@ sources:
     publisher: Gazetevan
     date: 2026-11-14
     language: tr
+  - title: Van'da durdurulan araçtan 10,5 kilo skunk bulundu
+    url: https://yerel-haberler.haberturk.com/van-haberleri/vanda-durdurulan-aractan-10-5-kilo-skunk-bulundu-119522351
+    publisher: Habertürk
+    date: 2026-11-14
+    language: tr
 ---
 
 Van Provincial Gendarmerie narcotics teams and Gevaş District Gendarmerie teams,
 coordinated by the Gevaş Chief Public Prosecutor's Office, targeted suspects
-manufacturing and trading drugs. [@1,3,4,6,7,8,9,10,11] Teams stopped the vehicle with plate 34
-BPT driven by 39-year-old T.Ş. in Gevaş district. [@1,5,6,9,11]
+manufacturing and trading drugs. [@1,3,4,6,7,8,9,10,11,12] Teams stopped the vehicle with plate 34
+BPT driven by 39-year-old T.Ş. in Gevaş district. [@1,5,6,9,11,12]
 
 A search with a narcotics dog found 10.5 kilograms of skunk, in 82 pieces hidden
-inside the vehicle. [@1,5] The seized material was reported as 10 kilograms 500
+inside the vehicle. [@1,5,12] The seized material was reported as 10 kilograms 500
 grams of skunk in 82 pieces. [@2,3,5,6,7,8,9,10,11]
 
-The driver T.Ş. was taken into custody. [@1,3,4,6,7,8,9,10,11] Judicial proceedings were started
+The driver T.Ş. was taken into custody. [@1,3,4,6,7,8,9,10,11,12] Judicial proceedings were started
 against the detained driver T.Ş. [@2,3,5,6,10] The gendarmerie said its work to prevent
 the manufacture, trade and use of narcotic and stimulant substances would
 continue decisively. [@1,3]
