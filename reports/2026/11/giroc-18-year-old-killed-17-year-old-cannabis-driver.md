@@ -52,25 +52,36 @@ sources:
     publisher: Sursa de Vest
     date: 2026-11-16
     language: ro
+  - title: Minorul care a produs accidentul mortal din Giroc, arestat la domiciliu. A ieșit pozitiv la canabis
+    url: https://tribunasnm.ro/2026/11/16/minorul-care-a-produs-accidentul-mortal-din-giroc-arestat-la-domiciliu-a-iesit-pozitiv-la-canabis/
+    publisher: Tribuna
+    date: 2026-11-16
+    language: ro
 open_questions:
     - No quantity, form or seizure of cannabis was reported; the cannabis link rests on a roadside Draeger positive for THC-5, with no laboratory confirmation reported.
     - No names were published; the driver is identified only as a 17-year-old minor and the passenger only as an 18-year-old young woman.
     - No vehicle make, model or registration details were published beyond that it was his girlfriend's car taken without the owner's consent.
     - No final court outcome, plea or sentence was reported; the driver was placed under house arrest after magistrates rejected a 30-day preventive-arrest request, and prosecutors appealed that decision.
+media:
+  - kind: photo
+    url: https://tribunasnm.ro/2026/11/16/minorul-care-a-produs-accidentul-mortal-din-giroc-arestat-la-domiciliu-a-iesit-pozitiv-la-canabis/
+    media_url: https://tribunasnm.ro/wp-content/uploads/2026/11/Retinut-dupa-tragedia-din-Giroc-Adolescentul-de-17-ani-care-a-provocat-accidentul-mortal-dus-in-fata-magistratilor.jpg
+    publisher: Tribuna
+    caption: 'The 17-year-old after the fatal Giroc crash, shown being taken before magistrates. Photo: Tribuna'
 ---
 
 An 18-year-old young woman passenger died on Saturday evening, 14 November 2026,
 after a car driven by a 17-year-old minor overturned in the locality of Giroc,
 Timiș, when a police crew appeared in the area. [@1,2] The passenger died at
 hospital as a result of the crash while the 17-year-old driver was detained by
-police for investigation. [@1,2] Timis police held the teenager for 24 hours. [@2] Prosecutors appealed the house-arrest decision and continued to seek detention for the 17-year-old. [@3] Magistrates placed the 17-year-old under house arrest after rejecting the prosecutors' request for 30 days of preventive arrest. [@3]
+police for investigation. [@1,2] Timis police held the teenager for 24 hours. [@2] Prosecutors appealed the house-arrest decision and continued to seek detention for the 17-year-old. [@3] Magistrates placed the 17-year-old under house arrest after rejecting the prosecutors' request for 30 days of preventive arrest. [@3,4]
 
 Investigators said the 17-year-old driver, identified as a minor, had consumed
-cannabis before driving the car. [@1,2,3] The teenager tested positive for cannabis and officers collected blood samples to establish the presence of psychoactive substances. [@2] A Draeger test returned positive for THC-5 (cannabis), so the investigation is being extended to driving under the influence of psychoactive substances under art. 336 para. 2 of the Criminal Code, the Timisoara court prosecution said. [@3] The driver and passenger were in a car
-that the youth had taken without the knowledge of its owner. [@1,2,3] When the
+cannabis before driving the car. [@1,2,3,4] The teenager tested positive for cannabis and officers collected blood samples to establish the presence of psychoactive substances. [@2] A Draeger test returned positive for THC-5 (cannabis), so the investigation is being extended to driving under the influence of psychoactive substances under art. 336 para. 2 of the Criminal Code, the Timisoara court prosecution said. [@3] The driver and passenger were in a car
+that the youth had taken without the knowledge of its owner. [@1,2,3,4] When the
 police crew appeared in the area, the 17-year-old driver sped away and
 overturned the car after travelling less than one kilometre. [@1,3] Investigators
-said the crash was caused by the 17-year-old's driving. [@1] Prosecutors said the crash happened at about 19:10 on 14 November 2026 on public roads in Giroc, Timis, when the unlicensed 17-year-old lost control at an intersection, left the roadway and hit a bridge head, killing the woman passenger. [@3]
+said the crash was caused by the 17-year-old's driving. [@1] Prosecutors said the crash happened at about 19:10 on 14 November 2026 on public roads in Giroc, Timis, when the unlicensed 17-year-old lost control at an intersection, left the roadway and hit a bridge head, killing the woman passenger. [@3,4]
 
 Police opened a criminal case for negligent manslaughter, for driving without a
 licence and for theft, and detained the driver while the cannabis use and the
