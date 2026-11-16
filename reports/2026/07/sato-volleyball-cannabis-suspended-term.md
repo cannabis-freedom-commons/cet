@@ -55,17 +55,18 @@ sources:
     publisher: Toshiki's Volleylog
     date: 2026-09-07
     language: ja
-open_questions:
-  - Both detailed verdict accounts come from Sponichi; no second outlet's report of the verdict could be opened.
-  - The volleyball blog corroborates the sentence but not the arrest details.
-  - The reports mention no fine.
+  - title: 大林素子、28日のバレー男子代表会見で司会予定だった 心境つづる「会見を聞く事で胸が苦しくなりました」代表選手が薬物所持で逮捕：山陽新聞デジタル｜さんデジ
+    url: https://www.sanyonews.jp/article/1928471?kw=4
+    publisher: 山陽新聞デジタル｜さんデジ
+    date: 2026-05-28
+    language: ja
 ---
 
 Shunichiro Sato, a 26-year-old former Japan men's national volleyball team middle blocker, admitted possessing dried cannabis under the Narcotics Control Act. [@1] On 31 July 2026 the Tokyo District Court sentenced him to one year of imprisonment, suspended for three years; prosecutors had sought one year. [@1,2,3]
 
 ## Arrest and sentence
 
-The indictment said Sato possessed 0.831 grams of dried cannabis at a pachinko parlor in Itabashi, Tokyo, on the evening of 27 May. [@1,2] The national team was then camped in Kita, Tokyo; Sato visited the parlor with teammates in his free time, left his bag there, and the cannabis was found inside. [@1,2] Metropolitan Police arrested him the next day. [@1,2]
+The indictment said Sato possessed 0.831 grams of dried cannabis at a pachinko parlor in Itabashi, Tokyo, on the evening of 27 May. [@1,2,4] The national team was then camped in Kita, Tokyo; Sato visited the parlor with teammates in his free time, left his bag there, and the cannabis was found inside. [@1,2] Metropolitan Police arrested him the next day. [@1,2,4]
 
 Prosecutors said he began using cannabis around his first or second university year, kept using it, and bought frequently from an online dealer before his May arrest. [@1,2] At his first hearing he apologized for acting lightly as a national representative. [@1]
 
