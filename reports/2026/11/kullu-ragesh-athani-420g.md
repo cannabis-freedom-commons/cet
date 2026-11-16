@@ -107,6 +107,11 @@ sources:
     url: https://www.thehindu.com/news/national/kerala/dancer-wanted-in-drug-case-arrested-in-kochi/article71704402.ece/amp/
     publisher: The Hindu
     date: 2026-11-15
+  - title: മയക്കുമരുന്ന് കേസിലെ മുഖ്യപ്രതി രണ്ട് വർഷത്തിന് ശേഷം പിടിയിൽ
+    url: https://www.madhyamam.com/amp/crime/mastermind-arrested-in-athani-drug-bust-1572524
+    publisher: Madhyamam
+    date: 2026-11-15
+    language: ml
 ---
 
 Nedumbassery police arrested Ragesh, also known as Jumanchi, the main accused in a drug case, a
@@ -116,7 +121,7 @@ the drugs, fled to Kullu on learning of the earlier arrests, and was working the
 [@2,4,7,8,10], staying at a resort 20 kilometres above the base camp. [@1,3,4,5,7,8,10,11]
 
 On 27 June 2024 police seized 316 grams of MDMA, two LSD stamps and 420 grams of cannabis from a car at
-Athani that was carrying the drugs from Bengaluru [@1,3,4,5,6,7,8,10,11,12,14,16]; The Hindu described the MDMA
+Athani that was carrying the drugs from Bengaluru [@1,3,4,5,6,7,8,10,11,12,14,16,17]; The Hindu described the MDMA
 and ganja as suspected. [@2] Azad, 38, of Chalakkal, Aluva, and Harikrishnan, 28, of Tirurangadi,
 Malappuram, were arrested then [@1,3,4,5,6,7,8,9,10,11], and the car was taken into custody.
 [@1,3,5,6,8,11]
@@ -125,4 +130,4 @@ A team led by Ernakulam Rural district police chief K.S. Sudarshan tracked Rages
 stayed for several days disguised as tourists before taking him into custody. [@1,3,4,5,7,8,9,10,11] With
 Sudarshan were deputy superintendent Baiju Paulose, circle inspector B.K. Arun, sub-inspectors Arun Raj
 and Rony Augustine, assistant sub-inspector M.V. Binu and civil police officer Sajaz. [@1,10] Ragesh was
-produced before a court and remanded in judicial custody. [@2,3,4,5,7,10] Lijo was produced before a court and remanded to judicial custody. [@13,16] People making drug drops would share the locations with Jumanji, who would then forward the details to Lijo, police said. [@13] To avoid suspicion, he allegedly routed financial transactions through Ragesh, known as Jumanji. [@13,15] According to police, Lijo was the alleged mastermind who coordinated the distribution of drugs to various locations. [@13,14] Nedumbassery police arrested 39-year-old Lijo Joy, described as a dancer and resident of Zion Nagar, Kodikuthumala, Aluva, after nearly two years on the run. [@13,14]
+produced before a court and remanded in judicial custody. [@2,3,4,5,7,10] Lijo was produced before a court and remanded to judicial custody. [@13,16,17] People making drug drops would share the locations with Jumanji, who would then forward the details to Lijo, police said. [@13,17] To avoid suspicion, he allegedly routed financial transactions through Ragesh, known as Jumanji. [@13,15,17] According to police, Lijo was the alleged mastermind who coordinated the distribution of drugs to various locations. [@13,14,17] Nedumbassery police arrested 39-year-old Lijo Joy, described as a dancer and resident of Zion Nagar, Kodikuthumala, Aluva, after nearly two years on the run. [@13,14,17]
