@@ -83,6 +83,11 @@ sources:
     publisher: Crónica
     date: 2026-11-15
     language: es
+  - title: Tres hombres intentaron cambiar un auto por cocaína y fueron detenidos en Córdoba
+    url: https://www.noticiasdelacalle.com.ar/noticias/2026/11/15/207564-tres-hombres-intentaron-cambiar-un-auto-por-cocaina-y-fueron-detenidos-en-cordoba
+    publisher: Noticias de la Calle
+    date: 2026-11-15
+    language: es
 media:
   - kind: photo
     url: https://tn.com.ar/policiales/2026/11/15/quisieron-cambiar-un-auto-por-cocaina-en-cordoba-y-terminaron-detenidos-secuestraron-mas-de-200-dosis/
@@ -100,17 +105,17 @@ open_questions:
 ---
 
 Three adults were detained in Corralito, Tercero Arriba department, for
-allegedly trying to exchange a car for cocaine. [@1,4,6,7,8,9] The operation began on the
+allegedly trying to exchange a car for cocaine. [@1,4,6,7,8,9,10] The operation began on the
 street, where investigators intercepted the suspects and made the arrests. [@1,5]
 At the scene investigators seized 207 doses of cocaine and 34 of marijuana,
-money and a car. [@2,4,5,6,8,9] Investigators said the detainees had tried to exchange the
+money and a car. [@2,4,5,6,8,9,10] Investigators said the detainees had tried to exchange the
 vehicle for drugs. [@2]
 
 After the arrests, the FPA carried out three raids on homes in barrio Parque
-Monte Grande in Río Tercero. [@3,4,5,6,7,8,9] The three Parque Monte Grande houses were located on Félix de la Peña at 2500, José Echenique at 500 and Eleazar Garzón at 2700. [@4,6,8,9] During those house searches officers seized
+Monte Grande in Río Tercero. [@3,4,5,6,7,8,9,10] The three Parque Monte Grande houses were located on Félix de la Peña at 2500, José Echenique at 500 and Eleazar Garzón at 2700. [@4,6,8,9,10] During those house searches officers seized
 additional marijuana doses and cannabis sativa plants for the investigation.
-[@2,4,5,6,7,8] In the Río Tercero raids, the marijuana had already been broken up for sale. [@9]
+[@2,4,5,6,7,8,10] In the Río Tercero raids, the marijuana had already been broken up for sale. [@9]
 
 All the seized items were placed at the disposal of the intervening prosecutor's
 office. [@3,9] The three suspects remain detained for alleged violation of
-National Drug Law 23.737 while the investigation continues. [@1,4]
+National Drug Law 23.737 while the investigation continues. [@1,4,10]
