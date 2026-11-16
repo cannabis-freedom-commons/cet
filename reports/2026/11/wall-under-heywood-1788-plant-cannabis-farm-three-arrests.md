@@ -78,6 +78,10 @@ sources:
     url: https://www.shropshirelive.com/news/2026/11/16/arrests-made-after-cannabis-farm-worth-over-1million-discovered/
     publisher: Shropshire Live
     date: 2026-11-16
+  - title: Three arrested after cannabis farm worth £1m found
+    url: https://www.msn.com/en-us/news/other/three-arrested-after-cannabis-farm-worth-1m-found/ar-AA2hyOkG
+    publisher: MSN
+    date: 2026-11-16
 open_questions:
     - The £1 million figure is a police estimated street value, not a confirmed sale value.
     - No weight was published for the trays of buds described as ready for sale, so no cannabis weight is recorded.
@@ -87,14 +91,14 @@ open_questions:
 West Mercia Police raided a property in Wall Under Heywood, near Church Stretton
 in rural Shropshire, on Sunday, November 15. [@1,2,3,4,5] Officers from the South Shropshire Safer Neighbourhood Teams executed a warrant to enter the property. [@4,6] Officers found two men, both
 aged 35, inside the property and arrested them on suspicion of cultivating
-cannabis. [@1,2,3,4,5,6] A third man, aged 51, was also arrested on suspicion of the same
-offence. [@1,2,3,4,5,6] All three men remained in police custody on Monday, November 16,
+cannabis. [@1,2,3,4,5,6,7] A third man, aged 51, was also arrested on suspicion of the same
+offence. [@1,2,3,4,5,6,7] All three men remained in police custody on Monday, November 16,
 as enquiries continued. [@1,3,5,6]
 
 Police seized 1,788 plants at various stages of growth, along with trays of buds
-ready for sale. [@1,3,4,6] The plants were growing in seven rooms at the address. [@1,2,3,4,6]
+ready for sale. [@1,3,4,6] The plants were growing in seven rooms at the address. [@1,2,3,4,6,7]
 Police put the grow's estimated street value at more than £1 million. [@1,2,3,4,5,6]
-Police said the electrics within the property had been tampered with. [@1,2,3,5,6]
+Police said the electrics within the property had been tampered with. [@1,2,3,5,6,7]
 
 Police linked the operation to Operation Conyay, its drive to disrupt organised
 criminality in local communities. [@1,4,6] Safer Neighbourhood Inspector Damien
