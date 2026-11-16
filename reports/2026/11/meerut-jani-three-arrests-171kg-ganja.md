@@ -43,17 +43,19 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-15
     language: hi
+  - title: जानी पुलिस ने तीन गांजा तस्कर गिरफ्तार किए:मेरठ में 17 किलो 100 ग्राम गांजा मिला, एनडीपीएस एक्ट में केस दर्ज
+    url: https://www.bhaskar.com/amp/local/uttar-pradesh/meerut/maqbara-diggi-kesarganj/news/meerut-police-arrest-drug-peddlers-ganja-seized-ndps-case-139692391.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-15
+    language: hi
 open_questions:
-  - The names, ages and roles of the three arrested people were not published in the accessible text.
-  - The exact seizure spot within the Jani police area was not specified.
-  - The 17 kg 100 g was described only as ganja, with no laboratory confirmation or packaging detail reported.
-  - No detention measure, charge sheet or court outcome was reported beyond registration of an NDPS Act case.
-  - Only one accessible source was found; the remainder of the report sits behind the outlet's app wall, so further details could not be checked.
+    - The 17 kg 100 g was described only as ganja, with no laboratory confirmation or packaging detail reported.
+    - No detention measure, charge sheet or court outcome was reported beyond registration of an NDPS Act case.
+    - Both captures are the same Dainik Bhaskar article in standard and AMP versions, so the account still rests on a single outlet's report, with the rest behind its app wall.
 ---
 
-Jani police in Meerut arrested three people on 14 November 2026. [@1] The three
-were described as ganja smugglers. [@1]
+Jani police in Meerut arrested three people on 14 November 2026. [@1,2] The three
+were described as ganja smugglers. [@1,2] Sona Lal Shah and Geeta are originally from Nazarapur in the Riga police station area of Sitamarhi district in Bihar and were living at Bhola Road, Pathanpura, Khadauli in the Kankerkhera area, while Uday lived near Ira Palace in Indra Colony on Baghpat Road in the Tipinagar area. [@2] The arrested people were identified as Sona Lal Shah, Uday and Geeta. [@2]
 
-Police said 17 kg 100 g of ganja was found in their possession. [@1] The seizure
-took place in Meerut. [@1] Police registered a case under the NDPS Act. [@1]
-
+Police said 17 kg 100 g of ganja was found in their possession. [@1,2] The seizure
+took place in Meerut. [@1,2] The arrest took place on Baghpat Road near the railway bridge in Panchli Khurd village. [@2] Police registered a case under the NDPS Act. [@1,2]
