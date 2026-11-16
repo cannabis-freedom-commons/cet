@@ -74,8 +74,11 @@ sources:
     publisher: Jornal O Grito
     date: 2026-11-14
     language: pt
-open_questions:
-  - The submitted account reports only the 28 plants found in the greenhouse and does not mention the six plants the earlier account says were found with the pair, so the 34-plant total rests on the earlier source.
+  - title: Polícia apreende 28 pés de maconha em estufa clandestina
+    url: https://g1.globo.com/go/goias/videos-bom-dia-go/video/policia-apreende-28-pes-de-maconha-em-estufa-clandestina-15191367.ghtml
+    publisher: G1
+    date: 2026-11-16
+    language: pt
 ---
 
 A tip led the Polícia Militar de Goiás (PMGO) to discover a clandestine cannabis
@@ -90,10 +93,10 @@ supposedly for sale. [@1]
 A personal search found six cannabis plants with the pair, who confessed,
 according to the PM, that they grew the drug intending to sell it. [@1,4] Inside
 the house officers found an improvised structure working as a greenhouse with
-another 28 cannabis plants, raising the total seized to 34. [@1,5] Globo's Jornal
+another 28 cannabis plants, raising the total seized to 34. [@1,5,6] Globo's Jornal
 Anhanguera reported that the Military Police found a greenhouse with 28 cannabis
 plants in Luziânia, Goiás, and had no information on arrests related to the
-incident. [@2,3]
+incident. [@2,3,6]
 
 The two men were told they were under arrest and taken to the Central de
 Flagrantes with the seized plants for legal procedures. [@1,4] Both men were taken to the police station, but after the case review and statements one remained in custody while the other was released after the inquiry indicated he had no involvement with the cultivation found at the property. [@5] The PM gave no
