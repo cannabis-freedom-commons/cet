@@ -66,25 +66,24 @@ sources:
     publisher: MDR
     date: 2026-11-16
     language: de
-open_questions:
-  - The exact number of plants was reported only as the low three-digit range, so no plant figure is recorded.
-  - The buds were reported as a range of two to three kilograms; the figures use the lower bound of 2 kg.
-  - 15 November 2026 is inferred as the Sunday evening before the 16 November 2026 publication; no calendar date for the fire was stated.
-  - No arrests, suspects, charges or court outcome were reported.
-  - The cause of the fire was still unexplained and the damage figure is the police estimate.
+  - title: Polizei ermittelt - Cannabisplantage bei Scheunenbrand entdeckt - Panorama - SZ.de
+    url: https://www.sueddeutsche.de/panorama/polizei-ermittelt-cannabisplantage-bei-scheunenbrand-entdeckt-dpa.urn-newsml-dpa-com-20090101-261116-930-3598
+    publisher: Süddeutsche Zeitung
+    date: 2026-11-16
+    language: de
 ---
 
 On Sunday evening, firefighters called to a barn fire in Teuchern in
 Burgenlandkreis discovered a cannabis grow operation in another part of the
-building while extinguishing the blaze. [@1,2,3,4] The barn was in Bonau, a district of Teuchern, and the fire started shortly after 21:30. [@2] The building's upper floor had
+building while extinguishing the blaze. [@1,2,3,4,5] The barn was in Bonau, a district of Teuchern, and the fire started shortly after 21:30. [@2] The building's upper floor had
 caught fire for a cause that was still unexplained. [@1] Two residents of
 neighbouring houses had to leave their homes. [@1] Twelve fire vehicles and 39
 firefighters deployed to put out the fire. [@1]
 
 Emergency crews then found the cultivation facility with differently sized
 plants in the low three-digit range. [@1,3] They also found two to three kilograms
-of packaged cannabis buds. [@1,2,3] Police put the fire damage at 30,000 euros. [@1]
+of packaged cannabis buds. [@1,2,3,5] Police put the fire damage at 30,000 euros. [@1]
 
 According to police, products for landscaping and horticulture were stored in
 the barn. [@1] Investigations, including into the cause of the fire, were
-ongoing. [@1] Investigations into the cause of the fire and commercial cannabis cultivation were being conducted against unknown persons. [@2] The owner of the barn is known and the barn was partly rented out, according to a police spokesperson. [@3] The fire scene could not yet be fully examined because of the firefighting operation and a still-pending structural assessment by an expert. [@2,3]
+ongoing. [@1] Investigations into the cause of the fire and commercial cannabis cultivation were being conducted against unknown persons. [@2,5] The owner of the barn is known and the barn was partly rented out, according to a police spokesperson. [@3,5] The fire scene could not yet be fully examined because of the firefighting operation and a still-pending structural assessment by an expert. [@2,3]
