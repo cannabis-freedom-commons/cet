@@ -42,12 +42,16 @@ sources:
     publisher: Diario Eco
     date: 2026-11-13
     language: es
+  - title: Arrestan a nueve personas e incautan más de 3,600 gramos de distintas drogas en SDO, Pedro Brand y Los Alcarrizos
+    url: https://ntelemicro.com/arrestan-a-nueve-personas-e-incautan-mas-de-3600-gramos-de-distintas-drogas-en-sdo-pedro-brand-y-los-alcarrizos/
+    publisher: Noticias Telemicro
+    date: 2026-11-15
+    language: es
 open_questions:
-  - No separate calendar day for the searches was published; 13 November 2026 is the publication date of the report.
-  - The 3,681.8-gram total covers cocaine, crack and marijuana together and is excluded from cannabis figures.
-  - No verbatim source passage could be matched for the separately stated 6.3 grams of apparent marijuana reported in a second account, so no cannabis figure is recorded.
-  - No charges, coercive measures or court outcome beyond referral to the Public Ministry were reported.
-  - No forensic confirmation of the suspected substances was reported.
+    - No separate calendar day for the searches was published; 13 November 2026 is the publication date of the report.
+    - The 3,681.8-gram total covers cocaine, crack and marijuana together and is excluded from cannabis figures.
+    - No charges, coercive measures or court outcome beyond referral to the Public Ministry were reported.
+    - No forensic confirmation of the suspected substances was reported.
 ---
 
 Agents of the National Directorate for Drug Control and the Public Ministry
@@ -55,13 +59,13 @@ seized 3,681.8 grams of suspected narcotic substances and arrested nine people
 during 13 searches and other interventions in Pedro Brand, Los Alcarrizos and
 Santo Domingo Oeste. [@1] In a first round of five searches in Los Barrancones,
 Los Lebrones, La Fe, La Unión and Palmarejo, officers detained José Roberto
-Rivera Contreras, Ismael González Rondón y Romero Familia. [@1] In those
+Rivera Contreras, Ismael González Rondón y Romero Familia. [@1,2] In those
 operations officers seized 1,780.7 grams of suspected drugs, distributed across
 white powder treated as cocaine, rock-like material appearing to be crack, and a
-plant substance treated as marijuana, plus two scissors and RD$200 in cash. [@1]
+plant substance treated as marijuana, plus two scissors and RD$200 in cash. [@1] In the Pedro Brand and Los Alcarrizos searches officers also seized several wrappers of plant material appearing to be marijuana weighing 6.3 grams. [@2]
 Eight further searches were carried out in El Café de Herrera, Ensanche La
 Altagracia, El Libertador de Herrera and Batey Palavé in Santo Domingo Oeste.
-[@1] In those eight searches, officers arrested Emilio Espino Marte, Edy Sánchez
+[@1,2] In those eight searches, officers arrested Emilio Espino Marte, Edy Sánchez
 Concepción, Jimmy Saint Vil, José Gerardo Veras de Jesús, Isidro Marte Vásquez y
 Jairo Cordero Alcántara. [@1] According to the drug agency, officers seized
 1,901.1 grams of suspected cocaine, five mobile phones and RD$700 in cash in
@@ -70,4 +74,3 @@ Santo Domingo Oeste. [@1]
 The nine detained people and the seized evidence were placed at the disposal of
 the Public Ministry for judicial proceedings for alleged violation of Law 50-88
 on Drugs and Controlled Substances. [@1]
-
