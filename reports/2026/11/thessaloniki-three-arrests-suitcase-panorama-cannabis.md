@@ -71,19 +71,24 @@ sources:
     publisher: Npress.gr
     date: 2026-11-15
     language: el
+  - title: 'Θεσσαλονίκη: Τρεις συλλήψεις με πάνω από 2,6 κιλά κάνναβης | Ελευθερία'
+    url: https://www.eleftheria.gr/ellada/thessaloniki-treis-syllipseis-me-pano-apo-2-6-kila-kannavis/
+    publisher: Ελευθερία
+    date: 2026-11-15
+    language: el
 ---
 
 Officers of police Team Z arrested two 21-year-olds carrying cannabis in a
 suitcase on Agiou Dimitriou street in Thessaloniki on the evening of 14 November
-2026. [@1,3,4,5,6,7] The two 21-year-olds were found jointly holding two cannabis packages
-weighing 0.85 grams in total. [@2,4,5,6,7] In a separate case on the morning of 14
+2026. [@1,3,4,5,6,7,8] The two 21-year-olds were found jointly holding two cannabis packages
+weighing 0.85 grams in total. [@2,4,5,6,7,8] In a separate case on the morning of 14
 November 2026, officers of the Crime Prevention and Suppression Division
-arrested a 40-year-old in the Panorama area. [@1,3,4,6,7] Case files were prepared
+arrested a 40-year-old in the Panorama area. [@1,3,4,6,7,8] Case files were prepared
 against the three detainees, who were to be taken before the competent judicial
-authorities. [@1,3,4,5,6,7]
+authorities. [@1,3,4,5,6,7,8]
 
 The suitcase held cannabis packages weighing 2,108 grams in total. [@2,3,4,6] The
 40-year-old was found with a 1.4-gram cannabis package and handed over seven
-more cannabis packages weighing 638 grams that he kept in his home. [@1,3,4,5,6] A later
+more cannabis packages weighing 638 grams that he kept in his home. [@1,3,4,5,6,8] A later
 search of his home seized hydroponic-cultivation equipment and a Flobert-type
-hunting rifle that he held without a licence. [@1,3,4,5,6,7]
+hunting rifle that he held without a licence. [@1,3,4,5,6,7,8]
