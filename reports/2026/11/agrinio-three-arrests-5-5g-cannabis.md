@@ -51,6 +51,11 @@ sources:
     publisher: agriniolike
     date: 2026-11-14
     language: el
+  - title: 'Αγρίνιο: Σύλληψη για κλοπή σε βάρος ηλικιωμένης και τρεις συλλήψεις για κατοχή κάνναβης | agrinio24.gr'
+    url: https://agrinio24.gr/agrinio-syllipsi-gia-klopi-se-varos-ilikiomenis-kai-treis-syllipseis-gia-katochi-kannavis/
+    publisher: agrinio24.gr
+    date: 2026-11-15
+    language: el
 open_questions:
   - The incident date of 13 November 2026 is inferred from reports published on 14 November 2026 saying the arrests happened yesterday.
   - The men are identified only as three Greek nationals, with no names or ages published.
@@ -59,13 +64,12 @@ open_questions:
 ---
 
 Police in Agrinio arrested three Greek men in separate checks for breaches of
-drug legislation. [@1] The arrests were made by officers of the OPKE unit of the
+drug legislation. [@1,4] The arrests were made by officers of the OPKE unit of the
 Agrinio crime investigation directorate and the DIAS team of the Agrinio
-immediate action department. [@1]
+immediate action department. [@1,4]
 
 The checks found a total of 5.5 grams of cannabis in their possession, along
-with a metal grinder with residue, and both were seized. [@1] Agriniolike
+with a metal grinder with residue, and both were seized. [@1,4] Agriniolike
 carries the same police account of men arrested in separate checks in Agrinio
 yesterday. [@3] AgrinioDaily carries the same account of the arrests in Agrinio
 yesterday. [@2]
-
