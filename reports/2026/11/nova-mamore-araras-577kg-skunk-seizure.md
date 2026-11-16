@@ -65,6 +65,11 @@ sources:
     publisher: Rondonoticias
     date: 2026-11-14
     language: pt
+  - title: Quatro são detidos com mais de meia tonelada de drogas após cerco policial
+    url: https://diariodaamazonia.com.br/noticia/5/455013/quatro-sao-detidos-com-mais-de-meia-tonelada-de-drogas-apos-cerco-policial
+    publisher: Diário da Amazônia
+    date: 2026-11-15
+    language: pt
 media:
   - kind: photo
     url: https://rondonoticias.com.br/noticia/policia/162590/policia-apreende-577-quilos-de-skunk-e-captura-quatro-suspeitos-em-nova-mamore
@@ -79,12 +84,12 @@ district of Araras in the municipality of Nova Mamore. [@1,3,4,5] Officers of No
 Mamore's 1st Police Precinct identified two vehicles suspected of carrying the
 drugs and supporting their movement, travelling from the Nova Mamore area toward
 Porto Velho. [@1,3,4] During the interception the occupants tried to flee into an
-area of vegetation but were pursued, located and captured by the officers. [@1,3,5] The pursuit that ended in the arrests took place on the BR-425. [@4]
+area of vegetation but were pursued, located and captured by the officers. [@1,3,5,6] The pursuit that ended in the arrests took place on the BR-425. [@4]
 
 A search of the vehicles found the skunk load, which totalled 577.2 kilograms.
-[@1,3,5] The operation ended with two adults arrested in the act and two adolescents
+[@1,3,5,6] The operation ended with two adults arrested in the act and two adolescents
 detained, and those involved, the vehicles and all the drugs were taken to the
-Nova Mamore Civil Police station for legal procedures. [@1,3,4,5] A second account
+Nova Mamore Civil Police station for legal procedures. [@1,3,4,5,6] A second account
 confirms that the Civil Police seized 577.2 kg of skunk on the Friday afternoon
 in Araras, Nova Mamore, arresting two adults and detaining two adolescents after
 intercepting the vehicles carrying the drugs toward Porto Velho. [@2]
