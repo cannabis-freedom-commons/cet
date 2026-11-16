@@ -52,25 +52,23 @@ sources:
     publisher: Il Moderatore
     date: 2026-11-15
     language: it
-open_questions:
-    - The hashish is reported only as more than 280 grams, with no exact weight or split between the bedroom and refrigerator hiding places.
-    - The substance is described as hashish with no laboratory confirmation reported.
-    - No separate date for the search or arrest is given; 15 November 2026 is the publication date and is used as the incident date.
-    - The suspect is identified only as a 34-year-old man, with no name or later court outcome reported.
-    - No value estimate for the seized hashish was published.
-    - The same article also reports a Casteldaccia theft inquiry and a Ficarazzi false-identity case, which are different events left out here.
+  - title: 'Bagheria, nascondeva oltre 280 grammi di hashish in camera da letto e nel frigorifero: arrestato 34enne - Giornale di Sicilia'
+    url: https://palermo.gds.it/articoli/cronaca/2026/11/15/bagheria-nascondeva-oltre-280-grammi-di-hashish-in-camera-da-letto-e-nel-frigorifero-arrestato-34enne-0662d5db-59e6-4045-bcb4-44bcae4e6213/
+    publisher: Giornale di Sicilia
+    date: 2026-11-15
+    language: it
 ---
 
 In the town of Bagheria, in the province of Palermo, Carabinieri arrested a
 34-year-old man accused of possessing narcotic substances with intent to sell.
-[@1,2] The arrest was part of a coordinated territorial-control service aimed at drug dealing and property crimes. [@3] The preliminary-investigations judge of the Termini Imerese court, on the
+[@1,2,4] The arrest was part of a coordinated territorial-control service aimed at drug dealing and property crimes. [@3,4] The preliminary-investigations judge of the Termini Imerese court, on the
 request of the public prosecutor, validated the arrest and placed the man under
-house arrest. [@1,3]
+house arrest. [@1,3,4]
 
 Carabinieri officers carried out a home search of the dwelling used by the
-34-year-old with the support of dog handlers and the sniffer dog Axa. [@1,3] The search was carried out by the Bagheria station and the Radiomobile section together with the Palermo Villagrazia canine unit. [@3]
+34-year-old with the support of dog handlers and the sniffer dog Axa. [@1,3] The search was carried out by the Bagheria station and the Radiomobile section together with the Palermo Villagrazia canine unit. [@3,4]
 Guided by its sense of smell, Axa located more than 280 grams of hashish hidden
-in the bedroom and inside the refrigerator. [@1,2,3] Officers also recovered
+in the bedroom and inside the refrigerator. [@1,2,3,4] Officers also recovered
 assorted materials for packaging the drug found with the hidden hashish. [@1,2,3]
 
 The operation is presented as a canine-assisted home search of the dwelling in
