@@ -78,6 +78,11 @@ sources:
     publisher: Plox
     date: 2026-11-15
     language: pt
+  - title: Rodovia Raposo Tavares tem carga de 600 kg de maconha apreendida em Itapetininga
+    url: https://fatopaulista.com.br/policiamento-rodoviario-apreende-cerca-de-600-kg-de-maconha-em/
+    publisher: Fato Paulista
+    date: 2026-11-14
+    language: pt
 open_questions:
     - 'No exact weight was published: one account says almost one tonne and the new account says about 995 kg in about 587 bricks and 22 bales, so 1,000 kg is stored as the supported approximate figure.'
     - The value is stated only as almost R$2 million, not an exact appraisal.
@@ -91,10 +96,10 @@ driver to the Civil Police station in Itapetininga, where he was booked for drug
 trafficking. [@1,2,3,4] The driver said he received the loaded vehicle in Maringá and was offered payment to carry a load described as refrigerator and air-conditioning parts to a company in the Brás district of São Paulo. [@3]
 
 Officers seized almost one tonne of marijuana from the truck on Saturday 14
-November on the Raposo Tavares highway (SP-270) in Itapetininga. [@1,2,3,4] Officers also seized the truck, a cell phone and R$395. [@3] Officers found about 587 bricks and 22 bales of marijuana in the cargo compartment. [@3] The
+November on the Raposo Tavares highway (SP-270) in Itapetininga. [@1,2,3,4,5] Officers also seized the truck, a cell phone and R$395. [@3] Officers found about 587 bricks and 22 bales of marijuana in the cargo compartment. [@3] The
 highway police valued the load at almost R$2 million. [@1,2,4]
 
 Officers of the Tático Ostensivo Rodoviário of the 5th Highway Police Battalion
-seized the load at kilometre 167 of the highway. [@1,2,3,4] During an inspection the
+seized the load at kilometre 167 of the highway. [@1,2,3,4,5] During an inspection the
 driver gave contradictory information, which prompted officers to search the
-cargo. [@1,3,4] The truck's identification plate was folded. [@3] The tablets were hidden in the truck's cargo compartment. [@2,4]
+cargo. [@1,3,4] The truck's identification plate was folded. [@3] The tablets were hidden in the truck's cargo compartment. [@2,4,5]
