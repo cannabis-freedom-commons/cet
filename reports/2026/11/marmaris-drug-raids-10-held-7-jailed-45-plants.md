@@ -78,6 +78,11 @@ sources:
     publisher: Muğla Gazetesi
     date: 2026-11-15
     language: tr
+  - title: 'Marmaris''te uyuşturucu operasyonu: 7 tutuklama'
+    url: https://www.egealternatif.com/haber/marmaris-te-uyusturucu-operasyonu-7-tutuklama_102103/
+    publisher: Ege Alternatif Gazetesi
+    date: 2026-11-15
+    language: tr
 open_questions:
   - No separate dates were published for the individual raids; 15 November 2026 is used as the incident date as the end of the stated 1-15 November operation period and the publication date.
   - No names, ages, charges, pleas or outcomes were published for the three detained suspects who were not remanded.
@@ -90,18 +95,17 @@ open_questions:
 Marmaris District Police Directorate teams and Narcotics Bureau teams carried
 out joint work against drug trade in Marmaris between 1 and 15 November. [@1]
 Officers detained a total of 10 suspects during the operations and searches.
-[@1] After police procedures the suspects were referred to the courthouse, and
-the court remanded 7 of them to prison. [@1]
+[@1,2] After police procedures the suspects were referred to the courthouse, and
+the court remanded 7 of them to prison. [@1,2]
 
-Officers found cannabis being grown in a tent set up inside a home. [@1] The
-searches seized 68.96 grams of cannabis. [@1] The searches seized 4.39 grams of
-resin cannabis. [@1] The searches seized 45 cannabis plants. [@1] The same
+Officers found cannabis being grown in a tent set up inside a home. [@1,2] The
+searches seized 68.96 grams of cannabis. [@1,2] The searches seized 4.39 grams of
+resin cannabis. [@1,2] The searches seized 45 cannabis plants. [@1,2] The same
 searches seized 258 synthetic pills, which are excluded from the cannabis
 figures. [@1] The same searches seized 10 grams of cocaine, which is excluded
 from the cannabis figures. [@1] The same searches seized 6.66 grams of
 methamphetamine, which is excluded from the cannabis figures. [@1]
 
-Officers also seized one unlicensed weapon. [@1] Officers also seized 17,900
-Turkish lira assessed as proceeds of crime. [@1] Police said their work to
+Officers also seized one unlicensed weapon. [@1,2] Officers also seized 17,900
+Turkish lira assessed as proceeds of crime. [@1,2] Police said their work to
 prevent drug trade would continue with determination. [@1]
-
