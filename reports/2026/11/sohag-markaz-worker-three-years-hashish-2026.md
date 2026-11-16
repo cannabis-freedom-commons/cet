@@ -54,6 +54,16 @@ sources:
     publisher: القاهرة 24
     date: 2026-11-14
     language: ar
+  - title: المشدد 3 سنوات وغرامة 50 ألف جنيه لمتهم بالاتجار فى الحشيش بسوهاج
+    url: https://www.youm7.com/story/2026/11/14/%D8%A7%D9%84%D9%85%D8%B4%D8%AF%D8%AF-3-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-50-%D8%A3%D9%84%D9%81-%D8%AC%D9%86%D9%8A%D9%87-%D9%84%D9%85%D8%AA%D9%87%D9%85-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1-%D9%81%D9%89/7618272
+    publisher: اليوم السابع
+    date: 2026-11-14
+    language: ar
+  - title: السجن المشدد 3 سنوات وغرامة 50 ألف جنيه لعامل بتهمة الاتجار في الحشيش بسوهاج
+    url: https://asaletwatan.com/archives/399007
+    publisher: أصالة وطن
+    date: 2026-11-14
+    language: ar
 open_questions:
   - The weight and value of the hashish were not reported.
   - The date of the arrest and whether the defendant appealed are not reported.
@@ -62,13 +72,12 @@ open_questions:
 
 A 26-year-old worker was sentenced to three years of aggravated imprisonment and
 fined 50,000 Egyptian pounds by the Sohag Criminal Court for hashish
-trafficking. [@1] The case concerned alleged dealing in Sohag markaz, an
-administrative district in the governorate. [@2]
+trafficking. [@1,3] The verdict was issued under president Mohamed El-Amir Abu Kreisha with members Ahmed Talaba and Ahmed Salah and clerk Mohamed El-Arabi. [@3] The defendant was identified by the initials B.A.Z. as a 26-year-old worker. [@3] The case concerned alleged dealing in Sohag markaz, an
+administrative district in the governorate. [@2,3]
 
 Detectives investigated the man in 2026 after a confidential source provided
-information about alleged hashish sales. [@1] After legal procedures, security
+information about alleged hashish sales. [@1,3] After legal procedures, security
 officers arrested him and found a quantity of hashish said to have been intended
-for sale. [@2] According to the account of his questioning, he admitted
+for sale. [@2,4] According to the account of his questioning, he admitted
 possessing the drugs for trafficking before being referred to the criminal
-court. [@1]
-
+court. [@1,3]
