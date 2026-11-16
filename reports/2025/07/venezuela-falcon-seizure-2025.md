@@ -41,6 +41,11 @@ sources:
     publisher: Prensa Latina
     url: >-
       https://www.prensa-latina.cu/2025/07/30/incautan-en-norte-de-venezuela-tres-mil-77-kilogramos-de-marihuana-2/
+  - title: Cuerpos de Seguridad de Venezuela incautaron más de tres toneladas de droga en el Estado Falcón
+    url: https://www.telesurtv.net/venezuela-incauto-toneladas-droga-falcon/
+    publisher: teleSUR
+    date: 2025-07-30
+    language: es
 ---
 
-Diosdado Cabello, the vice-president for security, announced the seizure of 3,077 kg of marijuana at Pico de Zamuro in Falcón state. [@1] Eight Venezuelans travelling in a boat with five high-powered engines were arrested by the investigative police’s anti-drug division. [@1]
+Diosdado Cabello, the vice-president for security, announced the seizure of 3,077 kg of marijuana at Pico de Zamuro in Falcón state. [@1,2] Eight Venezuelans travelling in a boat with five high-powered engines were arrested by the investigative police’s anti-drug division. [@1,2] The action was executed by the CICPC Anti-Drug Division and the Strategic Operations Group (GOES), in coordination with the Territorial Defensive System after intelligence and investigation work. [@2] The boat was carrying 114 bales of the drug. [@2]
