@@ -64,6 +64,11 @@ sources:
     publisher: TOTEM
     date: 2026-11-16
     language: fr
+  - title: Prison pour ce producteur de cannabis “en territoire rural”
+    url: https://tarbes7.fr/prison-pour-ce-producteur-de-cannabis-en-territoire-rural/
+    publisher: Tarbes7.fr
+    date: 2026-11-16
+    language: fr
 open_questions:
   - No separate date for the arrest, seizure or hearing was given; 16 November 2026 is the article's publication date and stands in for the incident date.
   - The suspect was not named and no age or other identifying detail was published.
@@ -76,13 +81,13 @@ open_questions:
 
 In the rural outskirts of Rodez in Aveyron, gendarmes ended a cannabis
 trafficking operation after investigations based on field intelligence,
-neighbour accounts and an enquiry. [@1] The operation was carried out at La Loubière by gendarmes of the Espalion company. [@2] A cannabis producer-seller was arrested
-and then sentenced to a prison term for the operation. [@1]
+neighbour accounts and an enquiry. [@1,3] The operation was carried out at La Loubière by gendarmes of the Espalion company. [@2] A cannabis producer-seller was arrested
+and then sentenced to a prison term for the operation. [@1,3]
 
-The investigation uncovered a cannabis cultivation near the suspect's home. [@1,2]
-Officers seized a total of 6 kg of cannabis herb in the case. [@1,2]
+The investigation uncovered a cannabis cultivation near the suspect's home. [@1,2,3]
+Officers seized a total of 6 kg of cannabis herb in the case. [@1,2,3]
 
 The Rodez judicial court sentenced the defendant to 18 months' imprisonment,
-including 6 months to be served under an electronic bracelet. [@1,2] The sentence
-included work and treatment obligations. [@1,2] The court also ordered the
-confiscation of 13,325 euros. [@1,2]
+including 6 months to be served under an electronic bracelet. [@1,2,3] The sentence
+included work and treatment obligations. [@1,2,3] The court also ordered the
+confiscation of 13,325 euros. [@1,2,3]
