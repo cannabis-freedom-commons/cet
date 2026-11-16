@@ -299,6 +299,10 @@ sources:
     publisher: Krepsinis.net
     date: 2026-11-16
     language: lt
+  - title: Da’monte Khiree Greene arrested with 75-pound cannabis stash - TalkBasket.net
+    url: https://www.talkbasket.net/228450-damonte-khiree-greene-arrested-with-75-pound-cannabis-stash
+    publisher: TalkBasket.net
+    date: 2026-11-16
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cj93rggenq4xo
@@ -320,26 +324,21 @@ media:
     media_url: https://www.israelhayom.co.il/wp-content/uploads/2026/11/16/WhatsApp_Image_2026-11-16_at_113302-960x640.jpeg
     publisher: Israel Hayom
     caption: 'Greene Da''monte Khiree in NDLEA handout photo published with the Israel Hayom account. Photo: NDLEA'
-open_questions:
-  - It remains independently unconfirmed whether the FIBA listing for Damonte Greene is the same person as the man arrested in Lagos.
-  - 'Accounts differ on the day of the interception: the date used is 11 November 2026, while another account describes the detention as happening on a Sunday without giving a calendar date.'
-  - A separate August detention of an influencer over a cocaine lot reported alongside this case is a different event left out here.
-  - The Portuguese account cites the BBC citing NDLEA sources, so it is not independent reporting of the arrest.
 ---
 
 NDLEA operatives at Murtala Muhammed International Airport in Lagos intercepted
 28-year-old American citizen Greene Da’monte Khiree on Wednesday 11 November
 2026 after he arrived aboard an Emirates Airline flight from Thailand via Dubai.
-[@1,3,4,5,6,7,9,10,11,12,13,14,16,20,21,22,23,24,28,29,31,32,33,34,35,39,40,41,47,49,50,51,52,53,54,55,57,58,59,61,62] The suspect had been placed under discreet surveillance on credible
+[@1,3,4,5,6,7,9,10,11,12,13,14,16,20,21,22,23,24,28,29,31,32,33,34,35,39,40,41,47,49,50,51,52,53,54,55,57,58,59,61,62,63] The suspect had been placed under discreet surveillance on credible
 intelligence and was observed abandoning his two checked-in bags to leave the
-airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56,57,58,61,62] He was promptly apprehended at the
-airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49,57] A second account confirms NDLEA arrested the American
+airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56,57,58,61,62,63] He was promptly apprehended at the
+airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49,57,63] A second account confirms NDLEA arrested the American
 professional basketball player after discovering 32 parcels of Loud in his
 luggage at the same Lagos airport. [@2,9,25,29,48,50,53]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
-33.95 kilograms. [@1,3,6,7,10,12,13,14,16,17,18,20,21,22,23,26,28,30,31,33,35,36,38,39,40,41,42,43,46,47,49,50,51,52,54,55,56,57,58,59,61,62] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23,26,30,31,32,33,35,37,38,40,41,43,45,46,47,50,51,52,53,54,55,57,58,60,61,62]
+33.95 kilograms. [@1,3,6,7,10,12,13,14,16,17,18,20,21,22,23,26,28,30,31,33,35,36,38,39,40,41,42,43,46,47,49,50,51,52,54,55,56,57,58,59,61,62,63] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23,26,30,31,32,33,35,37,38,40,41,43,45,46,47,50,51,52,53,54,55,57,58,60,61,62,63]
 The agency describes Loud as a potent strain of cannabis. [@1,3,5,23,25,27,28,29,34,35,37,43,45,46,50,53,58,59,60,61]
 
 The suspect, a native of Savannah, Georgia, said he had lived in Thailand since
