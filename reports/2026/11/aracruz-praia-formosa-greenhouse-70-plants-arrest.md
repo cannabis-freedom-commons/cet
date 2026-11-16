@@ -47,6 +47,11 @@ media:
     media_url: https://nortenoticia.com.br/wp-content/uploads/2026/11/Copia-de-Site-Modelo-Patro-9.jpg
     publisher: Norte Notícia
     caption: Clandestine cannabis greenhouse and plants seized in Praia Formosa, Aracruz, in the photo published with the report.
+  - kind: video
+    url: https://g1.globo.com/es/espirito-santo/videos-bom-dia-es/video/pm-apreende-70-pes-de-maconha-alem-de-haxixe-e-equipamentos-para-cultivo-em-aracruz-15190759.ghtml
+    media_url: https://vodstreaming01.video.globo.com/45/89/f3/15190759_f39417a78152414c6847f1d5b2423230aea19f91/15190759-360p_487k_h264-a7f860e0-c3dd-013f-bc14-12b290df8054.mp4
+    publisher: G1
+    caption: Video report on the Military Police seizure of 70 marijuana plants, hashish and cultivation equipment in Aracruz.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 69ea162566f7a1a44e159748827aa7db
@@ -57,13 +62,18 @@ sources:
     publisher: Norte Notícia
     date: 2026-11-15
     language: pt
+  - title: PM apreende 70 pés de maconha, além de haxixe e equipamentos para cultivo em Aracruz
+    url: https://g1.globo.com/es/espirito-santo/videos-bom-dia-es/video/pm-apreende-70-pes-de-maconha-alem-de-haxixe-e-equipamentos-para-cultivo-em-aracruz-15190759.ghtml
+    publisher: G1
+    date: 2026-11-16
+    language: pt
 open_questions:
-  - No separate date for the patrol or arrest was given; 15 November 2026 is the article's publication date and stands in for the incident date.
-  - The headline says more than 70 cannabis plants while the seizure list says 70; this report uses the listed figure of 70.
-  - The 11 boards described as PAC were reported without identifying the substance or giving a weight, so they are excluded from the cannabis weight.
-  - No identity, age, charge or court outcome was reported for the detained person.
-  - The three seed containers were reported without a seed count, so no seed figure is recorded.
-  - The whole account rests on a single outlet report attributing the facts to the Military Police; no second or official account was found.
+    - No separate date for the patrol or arrest was given; 15 November 2026 is the article's publication date and stands in for the incident date.
+    - The headline says more than 70 cannabis plants while the seizure list says 70; this report uses the listed figure of 70.
+    - The 11 boards described as PAC were reported without identifying the substance or giving a weight, so they are excluded from the cannabis weight.
+    - No identity, age, charge or court outcome was reported for the detained person.
+    - The three seed containers were reported without a seed count, so no seed figure is recorded.
+    - The detailed weights, address and detention account rest on the Norte Noticia report of the Military Police action; the G1 video corroborates the 70 plants, hashish, cultivation equipment and Aracruz location but gives no weights, address or suspect details.
 ---
 
 Military police officers uncovered a clandestine structure for growing cannabis
@@ -76,7 +86,7 @@ description given and found drugs on him. [@1] During searches inside the
 property, police identified a structure used for growing cannabis plants and
 producing derivatives of the drug. [@1]
 
-More than 70 cannabis plants were seized at the property. [@1] Police also
+More than 70 cannabis plants were seized at the property. [@1,2] Police also
 seized 955 grams of hashish. [@1] Officers seized about 130 grams of maconha.
 [@1] Officers also found 11 boards described as PAC. [@1] Officers seized three
 containers holding seeds. [@1] Officers seized four cell phones. [@1] Officers
@@ -88,4 +98,3 @@ One individual was detained during the operation and taken with all the seized
 material to the 13th Regional Police Station. [@1] The Civil Police was expected
 to take the applicable steps to investigate the case and the circumstances of
 the activity found at the property. [@1]
-
