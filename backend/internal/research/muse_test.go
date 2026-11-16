@@ -140,11 +140,8 @@ func TestOpenCodeArgsBecomeMuseTurn(t *testing.T) {
 	if turn.steps != 24 || turn.session != "" || !strings.HasPrefix(turn.prompt, "You research enforcement.") || !strings.HasSuffix(turn.prompt, "Read request.json.") {
 		t.Fatal(turn)
 	}
-	if b, _ := json.Marshal(turn.mcp); !strings.Contains(string(b), `"type":"http"`) || !strings.Contains(string(b), `{"name":"Authorization","value":"Bearer t"}`) {
-		t.Fatal(string(b))
-	}
 	settings, _ := os.ReadFile(filepath.Join(home, "config", "muse", "settings.json"))
-	if !strings.Contains(string(settings), `"model_reasoning_efforts":{"muse-spark-1.3":"xhigh"}`) {
+	if !strings.Contains(string(settings), `"model_reasoning_efforts":{"muse-spark-1.3":"xhigh"}`) || !strings.Contains(string(settings), `"tracker":{"headers":{"Authorization":"Bearer t"},"type":"streamable-http"`) {
 		t.Fatal(string(settings))
 	}
 	// a correction continues the session the first turn opened, with the feedback alone

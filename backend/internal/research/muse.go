@@ -18,7 +18,6 @@ package research
 import (
 	"bufio"
 	"context"
-	"crypto/rand"
 	"encoding/json"
 	"errors"
 	"fmt"
@@ -221,14 +220,13 @@ func parseOpenCodeArgs(args []string) (openCodeCall, error) {
 }
 
 // museTurn is one turn of a Muse session: `muse acp` started with args, the session to continue
-// ("" for a new one), the prompt, the step limit and the tool servers.
+// ("" for a new one), the prompt and the step limit.
 type museTurn struct {
 	args            []string
 	session, idFile string
 	prompt, cwd     string
 	home            string
 	steps           int
-	mcp             []map[string]any
 }
 
 // museTurn: the turn for the call. A new session opens with the agent's instructions; a
@@ -241,26 +239,25 @@ func (c openCodeCall) museTurn() (museTurn, error) {
 		return museTurn{}, err
 	}
 	wd, _ := os.Getwd()
-	t := museTurn{prompt: c.prompt, cwd: wd, home: home, steps: steps, idFile: filepath.Join(home, "muse-session-"+c.agent), mcp: museServers()}
+	t := museTurn{prompt: c.prompt, cwd: wd, home: home, steps: steps, idFile: filepath.Join(home, "muse-session-"+c.agent)}
 	if id, err := os.ReadFile(t.idFile); c.continued && err == nil {
 		t.session = strings.TrimSpace(string(id))
 	}
 	if t.session == "" {
 		t.prompt = instructions + "\n\n---\n\n" + c.prompt
 	}
-	// the reasoning effort is a setting of Muse's, per model
+	// the reasoning effort is a setting of Muse's, per model; the tool servers go in as the user's
+	// own (a workspace's would need it trusted, and a trusted workspace reads rule files from the
+	// folders above it, which the sandbox keeps closed)
 	settings := map[string]any{"schema_version": 1, "model": model}
 	if effort != "" {
 		settings["model_reasoning_efforts"] = map[string]string{model: effort}
 	}
+	if servers := museServers(); len(servers) > 0 {
+		settings["mcpServers"] = servers
+	}
 	b, _ := json.Marshal(settings)
 	if err = os.WriteFile(filepath.Join(home, "config", "muse", "settings.json"), b, 0600); err != nil {
-		return museTurn{}, err
-	}
-	// Muse starts tool servers only in a trusted workspace: the job's input folder, which holds
-	// nothing but what the worker wrote there
-	b, _ = json.Marshal(map[string]any{"schema_version": 1, "projects": map[string]any{wd: map[string]string{"decision": "trusted"}}})
-	if err = os.WriteFile(filepath.Join(home, "config", "muse", "trust.json"), b, 0600); err != nil {
 		return museTurn{}, err
 	}
 	// read-only research in contributor mode: no writing, no shell, nothing to ask
@@ -300,8 +297,9 @@ func agentInstructions(agent string) (string, int, error) {
 	return strings.TrimSpace(parts[2]), header.Steps, nil
 }
 
-// museServers: the tool servers named in opencode.json (the tracker's check tool), as ACP takes them
-func museServers() []map[string]any {
+// museServers: the tool servers named in opencode.json (the tracker's check tool), as Muse's
+// settings name them
+func museServers() map[string]any {
 	var cfg struct {
 		MCP map[string]struct {
 			Type    string            `json:"type"`
@@ -312,25 +310,13 @@ func museServers() []map[string]any {
 	if b, err := os.ReadFile("opencode.json"); err == nil {
 		_ = json.Unmarshal(b, &cfg)
 	}
-	servers := []map[string]any{}
+	servers := map[string]any{}
 	for name, s := range cfg.MCP {
-		if s.Type != "remote" || s.URL == "" {
-			continue
+		if s.Type == "remote" && s.URL != "" {
+			servers[name] = map[string]any{"type": "streamable-http", "url": s.URL, "headers": s.Headers}
 		}
-		headers := []map[string]string{}
-		for k, v := range s.Headers {
-			headers = append(headers, map[string]string{"name": k, "value": v})
-		}
-		servers = append(servers, map[string]any{"type": "http", "name": name, "url": s.URL, "headers": headers})
 	}
 	return servers
-}
-
-func newUUID() string {
-	var b [16]byte
-	_, _ = rand.Read(b[:])
-	b[6], b[8] = b[6]&0x0f|0x40, b[8]&0x3f|0x80
-	return fmt.Sprintf("%x-%x-%x-%x-%x", b[0:4], b[4:6], b[6:8], b[8:10], b[10:])
 }
 
 // acpClient speaks JSON-RPC with `muse acp` over its stdin and stdout.
@@ -466,13 +452,13 @@ func runMuse(muse string, t museTurn) int {
 	if session != "" {
 		// a loaded session replays its conversation: none of that is this turn's
 		tr.mute(true)
-		if _, err := client.call("session/load", map[string]any{"sessionId": session, "cwd": t.cwd, "mcpServers": t.mcp}); err != nil {
+		if _, err := client.call("session/load", map[string]any{"sessionId": session, "cwd": t.cwd, "mcpServers": []any{}}); err != nil {
 			session = ""
 		}
 		tr.mute(false)
 	}
 	if session == "" {
-		result, err := client.call("session/new", map[string]any{"cwd": t.cwd, "mcpServers": t.mcp})
+		result, err := client.call("session/new", map[string]any{"cwd": t.cwd, "mcpServers": []any{}})
 		var r struct {
 			SessionID string `json:"sessionId"`
 		}
