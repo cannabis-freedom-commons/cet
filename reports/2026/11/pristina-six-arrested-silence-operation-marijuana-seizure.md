@@ -63,13 +63,17 @@ sources:
     publisher: Новини 24/7
     date: 2026-11-16
     language: bg
+  - title: 'Sveçla on the action where Astrit Haraqija was also arrested: The fight against criminal groups will be unstoppable'
+    url: https://reporteri.net/en/NEWS/Svecla-for-the-action-where-Astrit-Haraqija-was-also-arrested--the-fight-against-criminal-groups-will-be-unstoppable/
+    publisher: Gazeta Online Reporteri.net
+    date: 2026-11-15
 ---
 
 Kosovo Police arrested former culture minister Astrit Haraqija in Operation
 Silence in the Pristina region, an operation against a group suspected of
-trafficking and distributing narcotics. [@2,4,5] Six suspects were arrested in the
+trafficking and distributing narcotics. [@2,4,5,6] Six suspects were arrested in the
 raids on several locations and one person was released under regular procedure.
-[@1,3,4,5] Operation Silence was carried out on Saturday 14 November 2026. [@1,3,4]
+[@1,3,4,5,6] Operation Silence was carried out on Saturday 14 November 2026. [@1,3,4]
 Haraqija was interrogated over a drug offence and ordered held for 48 hours.
 [@1]
 
@@ -79,7 +83,7 @@ they had appealed to the pre-trial judge to challenge the detention order. [@1] 
 The operation was carried out by the Directorate for the Investigation of
 Narcotics Trafficking with the Kosovo Intelligence Agency. [@2,3] Police seized
 about 1.6 kilograms of cocaine, plus other quantities of suspected narcotics
-including marijuana and suspected ecstasy tablets. [@1,5] Police put the total value of the drugs and seized assets at about 301,000 euros. [@3] Police also seized about
+including marijuana and suspected ecstasy tablets. [@1,5,6] Police put the total value of the drugs and seized assets at about 301,000 euros. [@3] Police also seized about
 16,000 euros in cash, six cars and mobile telephones and electronic and
 communications equipment. [@1] The seized cash was in euros, Swiss francs, British pounds, Canadian dollars and Albanian lek. [@3] The six seized cars included a Mercedes-Maybach, a Mercedes GLE, a Porsche, an Audi and a VW Tiguan. [@3]
 
