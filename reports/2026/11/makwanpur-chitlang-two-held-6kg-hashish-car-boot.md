@@ -68,6 +68,10 @@ sources:
   - title: Two arrested with 6.04 kg of hashish in Chitlang | Hamro Patro
     url: https://www.hamropatro.com/en/news/detail/1794826185767444453-two-arrested-with-6-04-kg-of-hashish-in-chitlang
     publisher: Hamro Patro
+  - title: 2 arrested with 6 kg of suspected hashish hidden in car boot | Hamro Patro
+    url: https://www.hamropatro.com/en/news/detail/1794813091736943054-2-arrested-with-6-kg-of-suspected-hashish-hidden-in
+    publisher: Hamro Patro
+    date: 2026-11-16
 ---
 
 A police team from the Area Police Office in Palung stopped vehicles at the
@@ -77,9 +81,9 @@ of Dhulikhel in Kavre, and 21-year-old Divyashree Kafle of Bharatpur in Chitwan.
 [@2,5] Shrestha's permanent address was Dhulikhel Municipality-3 with a current address at Teen Dobato, Banepa-8, while Kafle's permanent address was Koltandi, Bharatpur-11 with a current address at Kshetrapur, Bharatpur-2. [@5]
 
 Officers found five packets of charas wrapped in white plastic and hidden among
-clothes inside a black luggage bag in the car's rear boot. [@2,5] The seized
+clothes inside a black luggage bag in the car's rear boot. [@2,5,8] The seized
 packets weighed 6.04 kilograms, reported in short accounts as 6 kg of charas, a
-cannabis resin commonly called hashish. [@3,5,6,7] The bundles weighed 6.14 kilograms with the plastic packaging before the 6.04-kilogram net weight. [@5] The white SUV, registration Ba Pra
+cannabis resin commonly called hashish. [@3,5,6,7,8] The bundles weighed 6.14 kilograms with the plastic packaging before the 6.04-kilogram net weight. [@5] The white SUV, registration Ba Pra
 01-035 Cha 4561, was travelling from Hetauda towards Kathmandu when it was
 stopped and checked. [@2,5] The vehicle was a white Omoda Jaecoo 6T SUV travelling towards Kathmandu via Gorkha, Sauraha in Chitwan and Hetauda. [@5]
 
