@@ -76,30 +76,28 @@ sources:
     publisher: La Crónica de Hoy
     date: 2026-11-14
     language: es
-open_questions:
-  - 14 November 2026 is the publication and announcement date used as the incident date; no separate time for the detention was given.
-  - The marijuana was described as apparent and the cocaine as possible or probable, with no laboratory confirmation reported.
-  - One account says more than 655 wrappers while other accounts say 655; this report uses 655.
-  - No weight was given for the 655 suspected cocaine wrappers, so only the marijuana weight is counted and no combined drug total is used.
-  - No charges or court outcome were reported beyond referral to the Public Prosecutor's agent.
-  - The sources list the ages 23, 25 and 28 as a group without mapping each age to a named detainee in the opened captures.
+  - title: Detienen a El Vite, El Balú y Ramón N por delitos contra la salud | La Silla Rota
+    url: https://lasillarota.com/metropoli/2026/11/14/detienen-a-el-vite-el-balu-y-ramon-n-por-delitos-contra-la-salud-537441.html
+    publisher: La Silla Rota
+    date: 2026-11-14
+    language: es
 ---
 
 Mexico City police detained three men in colonia Zona Centro in Venustiano
-Carranza. [@2,5] The detained men were identified as Ramón 'N', Marco 'N' alias El
-Vite and Luis 'N' alias Balú. [@4] La Crónica gives Ramón's full name as Ramón Bautista Hernández. [@5] The detained men are aged 23, 25 and 28. [@3] La Crónica maps the reported ages to the names: Ramón is 28, Marco Antonio alias Vite is 25, and Luis Ulises alias Balú is 23. [@5]
+Carranza. [@2,5,6] The detained men were identified as Ramón 'N', Marco 'N' alias El
+Vite and Luis 'N' alias Balú. [@4,6] La Crónica gives Ramón's full name as Ramón Bautista Hernández. [@5] The detained men are aged 23, 25 and 28. [@3,6] La Crónica maps the reported ages to the names: Ramón is 28, Marco Antonio alias Vite is 25, and Luis Ulises alias Balú is 23. [@5]
 Officers on patrol at the junction of José Joaquín Herrera and Bravo spotted the
-three men carrying a large plastic box and two black bags. [@3,5] The men tried to
+three men carrying a large plastic box and two black bags. [@3,5,6] The men tried to
 flee when they saw the police but were intercepted metres ahead. [@3]
 
-Officers seized 15 kilograms of apparent marijuana from the men. [@1,5] Officers
+Officers seized 15 kilograms of apparent marijuana from the men. [@1,5,6] Officers
 also seized 655 wrappers holding a powder with the characteristics of cocaine.
-[@3,5] The three men and the seized drugs were placed at the disposal of the
+[@3,5,6] The three men and the seized drugs were placed at the disposal of the
 Public Prosecutor's agent, which will open the investigation file and decide
-their legal situation. [@4]
+their legal situation. [@4,6]
 
 A records check showed the 23-year-old has two 2025 admissions to Mexico City's
-prison system, one for extortion and one for health crimes. [@4] SSC chief Pablo
+prison system, one for extortion and one for health crimes. [@4,6] SSC chief Pablo
 Vázquez said the arrests came from reinforced security against high-impact
 crime, with continued targeted operations, patrols and attention to citizen
 complaints. [@3]
