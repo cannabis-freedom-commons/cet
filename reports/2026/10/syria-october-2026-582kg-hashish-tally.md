@@ -114,23 +114,26 @@ sources:
     publisher: المجلة
     date: 2026-11-12
     language: ar
+  - title: '«الداخلية»: ضبط 4.3 ملايين حبة كبتاغون و582 كيلوغراماً من الحشيش أكتوبر الماضي'
+    url: https://www.alanba.com.kw/1385268
+    publisher: جريدة الأنباء الكويتية
+    date: 2026-11-17
+    language: ar
 open_questions:
-    - The tally covers the whole of October 2026 and was announced on 1 November 2026; 31 October is used as the incident date for the monthly period.
+    - The tally covers the whole of October 2026 and was announced on 1 November 2026, so 31 October stands for the monthly period and no individual date is given for any of the 157 operations.
     - No number of people arrested or detained, and no names, were published for the October tally as a whole.
     - No locality-by-locality breakdown of the 582 kilograms of hashish was published, so the place recorded is Syria at country precision.
-    - The 582-kilogram total is not broken down by seizure, so a 260-kilogram Aleppo hashish seizure reported in the same coverage cannot be reconciled with it.
-    - The 260-kilogram Aleppo hashish seizure and a separate 9.571-kilogram Aleppo seizure recorded in another report are undated, so it is not established whether they are parts of the October tally or different operations.
-    - No individual date is given for any of the 157 operations.
+    - The 582-kilogram total is not broken down by seizure, so it is not established whether undated Aleppo seizures of 260 kilograms and 9.571 kilograms reported elsewhere are parts of the tally or different operations.
     - The number of cross-border international networks dismantled is given only as a running total, with eight said to have been broken up in September and October 2026.
-    - Accounts differ slightly on the October narcotic-pill count, given as 28,000 and as more than 28,000.
-    - The tally's non-cannabis amounts are excluded from the cannabis figures and cannot be separated beyond the published list.
+    - Accounts differ slightly on the October narcotic-pill count, given as 28,000 and as more than 28,000, and the tally's other non-cannabis amounts are excluded from the cannabis figures.
     - Whether the October operations produced charges, prosecutions or court cases, and their outcome, was not reported.
-    - The same coverage also describes separate Aleppo operations, a Jordanian border seizure of two million pills and September and August tallies, which are different events.
+    - The same coverage also describes separate Aleppo operations, a Jordanian border seizure of two million pills and September and August tallies, which are different events left out here.
+    - The new source also describes a separate November border seizure of 261,000 captagon pills with one arrest, which is synthetic-only and excluded from the cannabis figures.
 also:
   - raid
 ---
 
-Syria's anti-narcotics authorities reported seizing 582 kilograms of hashish during October 2026 operations. [@1,2,3,4,5,6,7,8,9,10,15]
+Syria's anti-narcotics authorities reported seizing 582 kilograms of hashish during October 2026 operations. [@1,2,3,4,5,6,7,8,9,10,15,16]
 
 Syria's Interior Ministry anti-narcotics directorate announced that it carried
 out security operations and dismantled smuggling networks during October 2026 as
@@ -143,7 +146,7 @@ resin tracked here. [@9,10,12,14,15] It summarized that cannabis result as more 
 tonne of hashish. [@9] The same monthly tally also listed 4.3 million captagon
 pills, more than 28,000 narcotic medical pills and 7 kilograms of crystal meth,
 which are recorded only to explain the mixed seizure and are excluded from the
-cannabis quantity. [@9,15]
+cannabis quantity. [@9,15,16]
 
 The directorate framed the October effort as targeting trafficking and promotion
 and bringing down cross-border smuggling networks. [@9] The directorate linked
