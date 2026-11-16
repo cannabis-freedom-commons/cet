@@ -38,6 +38,11 @@ media:
     media_url: https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1511/2272903/1000w_q95.jpg
     publisher: Joint Task Force-Bravo
     caption: 'Belizean security forces members ride aboard a US Army CH-47 Chinook helicopter during the marijuana eradication mission on 27 October 2015. Photo: Senior Airman Westin Warburton / US Air Force'
+  - kind: photo
+    url: https://www.jtfb.southcom.mil/Media/Article/842529/belizean-security-forces-us-army-conduct-counter-drug-operation/
+    media_url: https://media.defense.gov/2015/Nov/06/2001491432/2000/2000/0/151025-F-WT432-004.jpg
+    publisher: Joint Task Force-Bravo
+    caption: 'A U.S. Army CH-47 Chinook helicopter flies over the coast of Belize en route to the drug eradication mission. Photo: Senior Airman Westin Warburton / U.S. Air Force'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3bd20c2f075a62ebe8ea3dff5d570a7d
@@ -55,6 +60,10 @@ sources:
     url: https://www.breakingbelizenews.com/2015/11/03/61-million-worth-marijuana-crops-destroyed-joint-operation/
     publisher: Breaking Belize News
     date: 2015-11-03
+  - title: Belizean Security Forces, U.S. Army conduct counter-drug operation
+    url: https://www.jtfb.southcom.mil/Media/Article/842529/belizean-security-forces-us-army-conduct-counter-drug-operation/
+    publisher: Joint Task Force-Bravo
+    date: 2015-11-06
 open_questions:
   - No arrests, charges or court outcomes were reported for the operation.
   - No figure was published for the number of fields, the area cleared or the value of the destroyed plants beyond the count of more than 50,000 plants.
@@ -65,23 +74,23 @@ also: [seizure]
 
 Belizean security forces and US Joint Task Force-Bravo partnered during
 Operation CARACOL, a marijuana eradication mission led by Belizean intelligence
-forces in various sectors of Belize on 26-30 October 2015. [@1,3] The Belize
+forces in various sectors of Belize on 26-30 October 2015. [@1,3,4] The Belize
 Defence Force Mobile Interdiction Team, Anti-Narcotics Unit, Belize Coast Guard
 and Belize Police Department joined US Army 1-228 Aviation Regiment personnel in
 the mission, commanded through the Belize Joint Intelligence and Operation
 Center at Price Barracks. [@1] After US Army CH-47 Chinook and UH-60 Black Hawk
 helicopters rendezvoused with the Belizean eradication teams, the Belizean
 participants received ladder training on entering and exiting the Chinooks
-before moving into the eradication phase. [@1]
+before moving into the eradication phase. [@1,4]
 
 During the mission the forces destroyed more than 50,000 marijuana plants, with
 Chinook helicopters inserting Belizean teams into previously scouted marijuana
 fields and extracting them after the crops were destroyed. [@1] A UH-60
 helicopter remained on hand for medical evacuation cover while two CH-47
-helicopters transported Belize Defence Force members to the fields. [@1] The
+helicopters transported Belize Defence Force members to the fields. [@1,4] The
 Joint Task Force-Bravo account likewise says the security forces destroyed over
 50,000 marijuana plants with support from U.S. Army CH-47 Chinook helicopters.
-[@2]
+[@2,4]
 
 The stated purpose was to build the US-Belize counter-drug partnership by
 putting Belizean forces in the lead in identifying possible marijuana farms,
