@@ -54,6 +54,11 @@ sources:
     publisher: Rondoniaovivo.com
     date: 2026-11-13
     language: pt
+  - title: PRF apreende 67,5 quilos de skunk durante fiscalização na BR-364, em Vilhena
+    url: https://rondoniaempauta.com.br/prf-apreende-675-quilos-de-skunk-durante-fiscalizacao-na-br-364-em-vilhena/
+    publisher: Rondônia em pauta
+    date: 2026-11-14
+    language: pt
 media:
   - kind: photo
     url: https://jaruonline.com.br/vilhena-prf-apreende-cerca-de-70-quilos-de-skunk-na-br-364-motorista-saiu-de-ji-parana/
@@ -65,16 +70,16 @@ media:
 ---
 
 Federal Highway Police officers seized about 67.5 kg of skunk on the afternoon
-of Friday 13 November 2026 at km 16 of the BR-364 in Vilhena, Rondônia. [@2,4]
-During a traffic inspection, the team ordered a passenger car to stop. [@2,4] The
+of Friday 13 November 2026 at km 16 of the BR-364 in Vilhena, Rondônia. [@2,4,5]
+During a traffic inspection, the team ordered a passenger car to stop. [@2,4,5] The
 driver initially refused to obey the order before officers carried out the stop.
-[@2]
+[@2,5]
 
 Officers searched the car and found the drug packed in its luggage compartment.
-[@2,4] Skunk was described as a more potent variety of marijuana. [@3] The car was
+[@2,4,5] Skunk was described as a more potent variety of marijuana. [@3] The car was
 driven by a 46-year-old man. [@3]
 
 He had reportedly left Ji-Paraná in Rondônia and was travelling toward the state
 of Minas Gerais. [@1] The 46-year-old driver was arrested in the act for drug
-trafficking. [@2,4] The case was referred to the Federal Police station in
-Vilhena. [@2,4]
+trafficking. [@2,4,5] The case was referred to the Federal Police station in
+Vilhena. [@2,4,5]
