@@ -60,6 +60,11 @@ sources:
     publisher: Yozgat Gazetesi
     date: 2026-11-16
     language: tr
+  - title: Şanlıurfa'da 8 kilo skunk ele geçirildi
+    url: https://www.tigrishaber.com/service/amp/sanliurfada-8-kilo-skunk-ele-gecirildi-174275h.htm
+    publisher: Tigris Haber
+    date: 2026-11-16
+    language: tr
 ---
 
 Teams of the Sanliurfa Provincial Directorate of Security's Narcotics Crimes
@@ -67,13 +72,13 @@ Combat Branch, the city's anti-narcotics police unit, searched a vehicle in
 Sanliurfa in an operation carried out on 15 November 2026. [@1,2] One suspect
 detained in the operation for manufacturing and trading narcotics and
 transporting them was referred to the judicial authorities and was remanded in
-custody. [@1,3,4]
+custody. [@1,3,4,5]
 
 Officers searching that vehicle found 14 pieces containing a total of 8
-kilograms 700 grams of material described by police as skunk. [@1,2,4] The stopped vehicle was searched with a narcotics dog. [@3] The 8
+kilograms 700 grams of material described by police as skunk. [@1,2,4,5] The stopped vehicle was searched with a narcotics dog. [@3,5] The 8
 kilograms 700 grams is the total across all 14 pieces found in the single
 vehicle search, not across multiple locations. [@1]
 
 The provincial directorate said the seizure had prevented about 35,000 people
-from being poisoned. [@1] It added that its determined fight against narcotics
+from being poisoned. [@1,5] It added that its determined fight against narcotics
 crime would continue. [@1]
