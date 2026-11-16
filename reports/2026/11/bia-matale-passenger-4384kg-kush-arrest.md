@@ -63,12 +63,16 @@ sources:
     url: https://srilankamirror.com/2026/11/16/news/3-arrested-at-bia-with-kush-worth-over-rs-130-mn
     publisher: Sri Lanka Mirror
     date: 2026-11-16
+  - title: Kush worth Rs. 43.84 million seized at BIA, passenger arrested - DM Videos | Daily Mirror
+    url: https://www.dailymirror.lk/dm-videos/Kush-worth-Rs--43-84-million-seized-at-BIA-passenger-arrested/111-354978
+    publisher: Daily Mirror
+    date: 2026-11-16
 ---
 
 Customs officers arrested a Sri Lankan passenger at the Bandaranaike
 International Airport earlier in the morning of 16 November 2026 while he was
 attempting to smuggle a consignment of the narcotic substance Kush through the
-airport. [@1,4,5] The suspect is a 30-year-old technician residing in the Matale
+airport. [@1,4,5,6] The suspect is a 30-year-old technician residing in the Matale
 area. [@1,2,4,5] He had reportedly bought the Kush in Thailand, travelled to Kuala
 Lumpur in Malaysia, and arrived at Katunayake Airport at around midnight on
 Malaysia Airlines flight MH179. [@1]
@@ -77,7 +81,7 @@ Customs officers and Customs Narcotics Control Unit officials found 4.384
 kilograms of Kush packed in five packets and concealed inside two boxes meant
 for foreign liquor bottles, which were inside two pieces of luggage carried by
 the suspect. [@1,2,5] Customs valued the consignment at approximately 43.84 million
-rupees. [@1,5]
+rupees. [@1,5,6]
 
 The passenger had tried to leave the airport through the Green Channel, the lane
 for passengers with nothing to declare. [@1] The suspect and the seized Kush
