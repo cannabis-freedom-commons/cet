@@ -59,6 +59,11 @@ sources:
     publisher: sfika.gr
     date: 2026-11-13
     language: el
+  - title: Δύο συλλήψεις στην Πέλλα για ναρκωτικά - βρήκαν πάνω από 6 κιλά κλώνους κάνναβης
+    url: https://www.alexandreia-gidas.gr/2017/406023/
+    publisher: Η Δικτυακή Πύλη της Αλεξάνδρειας
+    date: 2026-11-14
+    language: el
 media:
   - kind: photo
     url: https://www.thestival.gr/eidiseis/astynomika/pella-synelifthisan-dyo-aderfia-gia-ka/
@@ -88,14 +93,13 @@ officers at midday on Thursday. [@2] The arrests followed a police search of a
 residence the two men were using in an area of Pella. [@3]
 
 Officers searched the men's home in the Pella area and seized the cannabis found
-there. [@1] The search found 454 grams of raw cannabis, which was seized. [@1]
+there. [@1,4] The search found 454 grams of raw cannabis, which was seized. [@1,4]
 The same search found quantities of raw cannabis clones weighing 6 kg and 450
-grams, which were seized. [@1] Officers also found two cannabis plants in the
-yard of the home, which were uprooted and seized. [@1] The two yard plants were
+grams, which were seized. [@1,4] Officers also found two cannabis plants in the
+yard of the home, which were uprooted and seized. [@1,4] The two yard plants were
 1.40 and 1.50 metres tall. [@3]
 
 A case file was formed against the two arrested men, who were to be led to the
-Edessa Court of First Instance prosecutor. [@1] The referral to the Edessa
+Edessa Court of First Instance prosecutor. [@1,4] The referral to the Edessa
 prosecutor was reported as the next step, with no court outcome yet reported.
 [@3]
-
