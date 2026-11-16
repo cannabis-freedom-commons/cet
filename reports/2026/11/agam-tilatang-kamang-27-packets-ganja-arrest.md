@@ -113,6 +113,11 @@ sources:
     publisher: Rakyatterkini.com
     date: 2026-11-14
     language: id
+  - title: Bawa 27 Kg Ganja dari Sumut, Kurir Asal Padang Ditangkap di Agam
+    url: https://www.pelitakarawang.com/2026/11/bawa-27-kg-ganja-dari-sumut-kurir-asal.html
+    publisher: Pelita Karawang
+    date: 2026-11-14
+    language: id
 media:
   - kind: photo
     url: https://padang.viva.co.id/ragam-perkara/10425-satresnarkoba-polresta-bukittinggi-gagalkan-peredaran-27-paket-ganja-lintas-provinsi
@@ -143,21 +148,21 @@ media:
 
 Bukittinggi narcotics police arrested 24-year-old RJP alias Rio, a man described
 as being from Padang, in Agam regency on the morning of Friday 13 November 2026
-for allegedly carrying 27 packages of cannabis. [@1,4,7,8,11,12,14] Officers detained him at
+for allegedly carrying 27 packages of cannabis. [@1,4,7,8,11,12,14,16] Officers detained him at
 about 06.00 on the roadside at Jalan Baringin, Jorong PGRM, Nagari Gaduik in
-Tilatang Kamang district. [@1,2,4,5,6,7,8,10,11,13,14] The arrest followed police information about a
+Tilatang Kamang district. [@1,2,4,5,6,7,8,10,11,13,14,16] The arrest followed police information about a
 man carrying cannabis from the Palupuah direction toward Bukittinggi city. [@1,4,5,7,8]
 Operational narcotics officers investigated and then tailed the suspect with
 help from Bukittinggi criminal-investigation officers. [@1,5,6,7,10,12] The head of the Bukittinggi police narcotics unit, AKP Muhammad Arvi, said the case was uncovered by following up community information and the alertness of personnel in the field. [@7]
 
 Police seized 27 cannabis packages wrapped in adhesive tape and placed inside a
-green sack. [@1,2,4,6,7,8,9,10,11,12,14,15] The search that found the 27 packets was witnessed by local residents, and the packets were wrapped in yellow adhesive tape. [@5,7,8] The packages were found in the rear trunk of the white Daihatsu
-Xenia with plate BA 1065 QG that the suspect was driving. [@1,4,7,8,11,12,13] Police also
+green sack. [@1,2,4,6,7,8,9,10,11,12,14,15] Police described the 27 large packages as weighing 27 kilograms in total. [@16] The search that found the 27 packets was witnessed by local residents, and the packets were wrapped in yellow adhesive tape. [@5,7,8] The packages were found in the rear trunk of the white Daihatsu
+Xenia with plate BA 1065 QG that the suspect was driving. [@1,4,7,8,11,12,13,16] Police also
 seized a blue Realme mobile phone, the green sack, and the Xenia car with its
 key and vehicle registration document. [@1,2,4,7,8] Police also seized the suspect's mobile phone, the white Daihatsu Xenia (plate BA 1065 QG) with its ignition key and vehicle registration document (STNK). [@3,10]
 
 On initial questioning, the suspect admitted carrying the cannabis from the
 Penyabungan area of North Sumatra on someone else's orders. [@1,4,5,7,8,10,12,13,15] He said the
-load was to be dropped off at Taluak in Banuhampu district, Agam regency. [@1,2,4,5,7,8,10,13,14,15]
+load was to be dropped off at Taluak in Banuhampu district, Agam regency. [@1,2,4,5,7,8,10,13,14,15] The suspect, described as unemployed, said he had been promised Rp1.8 million per kilogram if the cannabis was successfully distributed. [@16]
 The suspect and all the evidence were taken to Bukittinggi police headquarters
 for further legal process. [@1,7,8,10,11,12,15] Police said the seized evidence would be sent for testing at a forensic laboratory. [@6,7] Investigators were continuing to work to identify the person who allegedly ordered the suspect and to trace a possible wider distribution network. [@5,7,12] The suspect faces Article 114 paragraph (2) of Law Number 35 of 2009 on Narcotics. [@5] Investigators said they would complete the case file before handing it to the public prosecutor. [@6,7] Investigators applied Article 114 paragraph (2) of Law Number 35 of 2009 on Narcotics in conjunction with Article 609 of Law Number 1 of 2023 on the Criminal Code. [@6,7,8,9,10,11,12] The case was recorded as Police Report Number LP/A/77/XI/2026/Res-Narkoba/Polresta Bukittinggi. [@5]
