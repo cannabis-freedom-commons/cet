@@ -96,26 +96,31 @@ sources:
     publisher: Libertad Oaxaca
     date: 2026-11-14
     language: es
+  - title: Caen tres sujetos con 15 kilos de marihuana y 655 dosis de cocaína en Venustiano Carranza; uno de ellos tiene dos ingresos a cárceles de CDMX
+    url: https://www.msn.com/es-mx/noticias/otras/caen-tres-sujetos-con-15-kilos-de-marihuana-y-655-dosis-de-coca%C3%ADna-en-venustiano-carranza-uno-de-ellos-tiene-dos-ingresos-a-c%C3%A1rceles-de-cdmx/ar-AA2hrVWm
+    publisher: MSN / El Universal
+    date: 2026-11-14
+    language: es
 open_questions:
   - The same article also describes a separate 12 November detention of three men for alleged kidnapping in colonia Merced Balbuena, a different event left out here.
   - This page says 'more than 655' wrappers while the report uses the 655 figure given by the other accounts.
 ---
 
 Mexico City police detained three men in colonia Zona Centro in Venustiano
-Carranza. [@2,5,6,8,9] The detained men were identified as Ramón 'N', Marco 'N' alias El
-Vite and Luis 'N' alias Balú. [@4,6,8,9] La Crónica gives Ramón's full name as Ramón Bautista Hernández. [@5] The detained men are aged 23, 25 and 28. [@3,6] La Crónica maps the reported ages to the names: Ramón is 28, Marco Antonio alias Vite is 25, and Luis Ulises alias Balú is 23. [@5,7]
+Carranza. [@2,5,6,8,9,10] The detained men were identified as Ramón 'N', Marco 'N' alias El
+Vite and Luis 'N' alias Balú. [@4,6,8,9] La Crónica gives Ramón's full name as Ramón Bautista Hernández. [@5] The detained men are aged 23, 25 and 28. [@3,6] La Crónica maps the reported ages to the names: Ramón is 28, Marco Antonio alias Vite is 25, and Luis Ulises alias Balú is 23. [@5,7,10]
 Officers on patrol at the junction of José Joaquín Herrera and Bravo spotted the
 three men carrying a large plastic box and two black bags. [@3,5,6,8] The men tried to
 flee when they saw the police but were intercepted metres ahead. [@3,8]
 
-Officers seized 15 kilograms of apparent marijuana from the men. [@1,5,6,7,8,9] Officers
+Officers seized 15 kilograms of apparent marijuana from the men. [@1,5,6,7,8,9,10] Officers
 also seized 655 wrappers holding a powder with the characteristics of cocaine.
-[@3,5,6,7,8,9] The three men and the seized drugs were placed at the disposal of the
+[@3,5,6,7,8,9,10] The three men and the seized drugs were placed at the disposal of the
 Public Prosecutor's agent, which will open the investigation file and decide
-their legal situation. [@4,6]
+their legal situation. [@4,6,10]
 
 A records check showed the 23-year-old has two 2025 admissions to Mexico City's
-prison system, one for extortion and one for health crimes. [@4,6,8] SSC chief Pablo
+prison system, one for extortion and one for health crimes. [@4,6,8,10] SSC chief Pablo
 Vázquez said the arrests came from reinforced security against high-impact
 crime, with continued targeted operations, patrols and attention to citizen
 complaints. [@3]
