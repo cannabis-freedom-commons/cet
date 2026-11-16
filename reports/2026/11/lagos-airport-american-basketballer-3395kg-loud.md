@@ -340,6 +340,11 @@ sources:
     publisher: Skai.gr
     date: 2026-11-16
     language: el
+  - title: Nigerijská polícia zadržala amerického basketbalistu. V batožine mu našli takmer 34 kilogramov drog - SITA.sk
+    url: https://sita.sk/nigerijska-policia-zadrzala-americkeho-basketbalistu-v-batozine-mu-nasli-takmer-34-kilogramov-drog/
+    publisher: SITA.sk
+    date: 2026-11-16
+    language: sk
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cj93rggenq4xo
@@ -366,12 +371,12 @@ media:
 NDLEA operatives at Murtala Muhammed International Airport in Lagos intercepted
 28-year-old American citizen Greene Da’monte Khiree on Wednesday 11 November
 2026 after he arrived aboard an Emirates Airline flight from Thailand via Dubai.
-[@1,3,4,5,6,7,9,10,11,12,13,14,16,20,21,22,23,24,28,29,31,32,33,34,35,39,40,41,47,49,50,51,52,53,54,55,57,58,59,61,62,63,64,65,66,67,68,69,70] The suspect had been placed under discreet surveillance on credible
+[@1,3,4,5,6,7,9,10,11,12,13,14,16,20,21,22,23,24,28,29,31,32,33,34,35,39,40,41,47,49,50,51,52,53,54,55,57,58,59,61,62,63,64,65,66,67,68,69,70,72] The suspect had been placed under discreet surveillance on credible
 intelligence and was observed abandoning his two checked-in bags to leave the
-airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56,57,58,61,62,63,64,66,67,70] He was promptly apprehended at the
-airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49,57,63,64] A second account confirms NDLEA arrested the American
+airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56,57,58,61,62,63,64,66,67,70,72] He was promptly apprehended at the
+airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49,57,63,64,72] A second account confirms NDLEA arrested the American
 professional basketball player after discovering 32 parcels of Loud in his
-luggage at the same Lagos airport. [@2,9,25,29,48,50,53,71]
+luggage at the same Lagos airport. [@2,9,25,29,48,50,53,71,72]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
