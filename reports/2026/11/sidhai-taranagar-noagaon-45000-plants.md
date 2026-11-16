@@ -31,22 +31,35 @@ sources:
     url: https://www.msn.com/en-in/news/other/tripura-police-destroy-45000-cannabis-plants-across-8-acres-in-joint-operation/ar-AA2hvjZm
     publisher: MSN
     date: 2026-11-16
+  - title: Tripura Police, TSR and BSF Destroy 45,000 Cannabis Plants in West Tripura
+    url: https://newsnetworktv.com/tripura-police-tsr-and-bsf-destroy-45000-cannabis-plants-in-west-tripura/
+    publisher: News Network TV
+    date: 2026-11-16
+  - title: Security Forces Destroy 45,000 Cannabis Plants in Tripura Raid
+    url: https://newire.in/articles/security-forces-destroy-45-000-cannabis-plants-in-tripura-raid
+    publisher: NEWire.in
+    date: 2026-11-16
+  - title: মোহনপুরে যৌথ নেশাবিরোধী অভিযান, ধ্বংস করা হলো প্রায় ৪৫ হাজার গাঁজা গাছ
+    url: https://jagarantripura.com/2026/11/16/joint-anti-drug-operation-in-mohanpur-approximately-45000-cannabis-plants-destroyed/
+    publisher: Jagaran Tripura
+    date: 2026-11-16
+    language: bn
 open_questions:
-  - No arrests, suspects, seizures by weight or court outcomes were reported.
-  - The plant count and area were reported as approximations, not exact measured figures.
-  - The whole account rests on a single outlet report of the joint operation.
+    - No arrests, suspects, seizures by weight or court outcomes were reported.
+    - The plant count and area were reported as approximations, not exact measured figures.
+    - 'Accounts differ on the BSF battalion number: the Bengali report says the 104th Battalion took part while the English reports say the 140th Battalion.'
 ---
 
 The joint force destroyed approximately 45,000 illegally cultivated cannabis
 plants spread across nearly eight acres of land in West Tripura district on
-November 16. [@1,2] The joint operation was carried out in the Taranagar-Noagaon
-area under Shidhai Police Station between 4 am and 7 am on November 16. [@1,2] The
+November 16. [@1,2,3] The joint operation was carried out in the Taranagar-Noagaon
+area under Shidhai Police Station between 4 am and 7 am on November 16. [@1,2,4,5] The
 drive was led by Mohanpur Sub-Divisional Police Officer Ashish Dasgupta, with
 personnel from Shidhai Police Station, TSR and the BSF's 140th Battalion taking
-part. [@1]
+part. [@1,3]
 
 Security personnel identified and uprooted illegally cultivated cannabis plants
-at 17 different locations across the area. [@1,2] The destroyed plants were
+at 17 different locations across the area. [@1,2,4] The destroyed plants were
 estimated to number around 45,000. [@1] The operation was part of efforts by the
 state police and security forces to curb illegal cannabis cultivation in
 Tripura. [@1]
