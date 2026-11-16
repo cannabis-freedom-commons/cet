@@ -56,21 +56,34 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-16
     language: hi
+  - title: 'जांजगीर: 4.258 किलो गांजा, 3 मोबाइल और 2 बाइक के साथ तीन तस्कर गिरफ्तार'
+    url: https://www.naidunia.com/chhattisgarh/janjgir-champa-janjgir-three-smugglers-arrested-with-4258-kg-of-ganja-cannabis-3-mobile-phones-and-2-motorcycles-8477127
+    publisher: Nai Dunia
+    date: 2026-11-16
+    language: hi
+media:
+  - kind: photo
+    url: https://www.naidunia.com/chhattisgarh/janjgir-champa-janjgir-three-smugglers-arrested-with-4258-kg-of-ganja-cannabis-3-mobile-phones-and-2-motorcycles-8477127
+    media_url: https://img.naidunia.com/naidunia/ndnimg/16112026/16_11_2026-jangataskar.webp
+    publisher: Nai Dunia
+    caption: The three arrested accused in the Mulmula ganja seizure, as published with the Nai Dunia report.
+open_questions:
+  - The Nai Dunia page was published on 16 November 2026 and gives no separate calendar date for the arrests.
 ---
 
 Mulmula police arrested three men for alleged ganja smuggling in Janjgir-Champa
-district. [@1,2] The arrested men were identified as 45-year-old Ganesh Agrawal of
+district. [@1,2,3] The arrested men were identified as 45-year-old Ganesh Agrawal of
 Borsi under Mulmula police station, and 53-year-old Ramsagar Kaushik and
 32-year-old S. Kumar Diwakar, both of Vyasnagar under Pamgarh police station.
-[@1]
+[@1,3]
 
 Police recovered 4.258 kilograms of ganja from the accused, which police valued
-at about Rs 200,000. [@1,2] Police also seized two motorcycles and three mobile
-phones along with the ganja. [@1,2]
+at about Rs 200,000. [@1,2,3] Police also seized two motorcycles and three mobile
+phones along with the ganja. [@1,2,3]
 
 After an informant reported illegal ganja trafficking and sale in the area,
 Mulmula police formed a team for action. [@1] The team cordoned off the area
-near the bridge on the road from Borsi to Kosa. [@1] Police then caught the
+near the bridge on the road from Borsi to Kosa. [@1,3] Police then caught the
 three suspects red-handed with the ganja. [@1] Police proceeded against the
 three under Section 20(B) of the NDPS Act and sent them to judicial remand the
 same day. [@1]
