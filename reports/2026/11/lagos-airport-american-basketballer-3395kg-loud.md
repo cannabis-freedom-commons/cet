@@ -91,12 +91,20 @@ sources:
     url: https://von.gov.ng/ndlea-busts-drug-trafficking-illegal-gun-factory/
     publisher: Voice of Nigeria
     date: 2026-11-15
+  - title: “Abandoned Bags Contained 32 Parcels Of Loud” — NDLEA Arrests American Basketball Player At Lagos Airport After Surveillance
+    url: https://thisday.com.ng/abandoned-bags-contained-32-parcels-of-loud-ndlea-arrests-american-basketball-player-at-lagos-airport-after-surveillance/
+    publisher: ThisDay
+    date: 2026-11-15
+  - title: NDLEA Nabs US Basketballer, 56-Year-Old, Seizes Drugs In Six States - TheFact Daily
+    url: https://thefact.ng/ndlea-nabs-us-basketballer-56-year-old-seizes-drugs-in-six-states/
+    publisher: TheFact Daily
+    date: 2026-11-15
 ---
 
 NDLEA operatives at Murtala Muhammed International Airport in Lagos intercepted
 28-year-old American citizen Greene Da’monte Khiree on Wednesday 11 November
 2026 after he arrived aboard an Emirates Airline flight from Thailand via Dubai.
-[@1,3,4,5,6,7,9,10,11,12,13] The suspect had been placed under discreet surveillance on credible
+[@1,3,4,5,6,7,9,10,11,12,13,14] The suspect had been placed under discreet surveillance on credible
 intelligence and was observed abandoning his two checked-in bags to leave the
 airport with only his carry-on luggage. [@1,4,6,7,10,11,12] He was promptly apprehended at the
 airport car park. [@1,3,4,5,6,7,8,10,11,13] A second account confirms NDLEA arrested the American
@@ -105,12 +113,12 @@ luggage at the same Lagos airport. [@2,9]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
-33.95 kilograms. [@1,3,6,7,10,12,13] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13]
+33.95 kilograms. [@1,3,6,7,10,12,13,14] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15]
 The agency describes Loud as a potent strain of cannabis. [@1,3,5]
 
 The suspect, a native of Savannah, Georgia, said he had lived in Thailand since
 October 2025 playing professional basketball and came to Nigeria on holiday to
 build networks for his basketball career. [@1,4,6,7,11,12,13] According to his BoldPro account, Khiree, a shooting guard, graduated from South Georgia Technical College, played semi-professional basketball with the Georgia Bombers, moved to El Salvador in 2025 for a pro contract with Escalon BC, and headed to Thailand shortly afterwards. [@10] FIBA lists a player by the name DaMonte Greene, a point guard, one of whose recent appearances was at the Phuket Elite Cup in September. [@5,8] A forensic examination of his
 mobile phone revealed information pointing to his knowledge of and involvement
-in the drug trafficking activity. [@1,3,4,5,7,8,11,12,13] The account was disclosed in a Sunday
+in the drug trafficking activity. [@1,3,4,5,7,8,11,12,13,15] The account was disclosed in a Sunday
 statement by NDLEA Director of Media and Advocacy Femi Babafemi. [@1,3,7,12]
