@@ -59,13 +59,17 @@ sources:
     publisher: N Gazete
     date: 2026-11-15
     language: tr
+  - title: İstanbul'da Katar'dan gelen şahsın valizinde 12 bin 820 gram uyuşturucu ele geçirildi - Son Dakika
+    url: https://www.sondakika.com/3-sayfa/haber-istanbul-da-katar-dan-gelen-sahsin-valizinde-12-bi-20428435/
+    publisher: Son Dakika
+    date: 2026-11-15
+    language: tr
 open_questions:
-  - No separate date for the seizure is given; 15 November 2026 is the article's publication date and is used as the incident date.
-  - The green plant material was described only as suspected cannabis, with no laboratory confirmation reported.
-  - No charge, court date or judicial outcome was reported; proceedings were described as continuing.
-  - The 11 million 538,000 lira figure is an official market-value estimate, not a measured quantity.
-  - The article's related-news list mentions a separate seizure of 13 kg 512 g of esrar in tins at Istanbul Airport, a different event not covered here.
-  - No second independent source for this event was found; the account rests on DHA's own report.
+    - No separate date for the seizure is given; 15 November 2026 is the article's publication date and is used as the incident date.
+    - The green plant material was described only as suspected cannabis, with no laboratory confirmation reported.
+    - No charge, court date or judicial outcome was reported; proceedings were described as continuing.
+    - The 11 million 538,000 lira figure is an official market-value estimate, not a measured quantity.
+    - The article's related-news list mentions a separate seizure of 13 kg 512 g of esrar in tins at Istanbul Airport, a different event not covered here.
 media:
   - kind: photo
     url: https://www.konyapostasi.com.tr/guncel/12-kg-820-g-uyusturucu-ele-gecirildi/786237
@@ -76,13 +80,13 @@ media:
 
 Customs officers seized 12 kilograms 820 grams of suspected cannabis from the
 baggage of İsmail Mansız at Istanbul Airport after he arrived from Bangkok via
-Doha. [@1,2,3] The suspect was taken into custody on the instruction of the
+Doha. [@1,2,3,4] The suspect was taken into custody on the instruction of the
 Gaziosmanpaşa Chief Public Prosecutor's Office. [@1,2,3]
 
 The risk analysis that flagged him was carried out by the Narcotics Chemistry
 Section of the Istanbul Airport Customs Enforcement Anti-Smuggling and
 Intelligence Directorate. [@1] The search of his baggage found green plant
 fragments, assessed to be cannabis, totalling 12 kilograms 820 grams hidden in
-vacuum-sealed bags inside 12 different food packages. [@1,2,3] Judicial proceedings
+vacuum-sealed bags inside 12 different food packages. [@1,2,3,4] Judicial proceedings
 against the detained suspect were continuing. [@1,2] The market value of the
-seized drugs was put at about 11 million 538,000 lira. [@1,2,3]
+seized drugs was put at about 11 million 538,000 lira. [@1,2,3,4]
