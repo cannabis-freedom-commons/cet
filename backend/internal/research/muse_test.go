@@ -140,6 +140,9 @@ func TestOpenCodeArgsBecomeMuseTurn(t *testing.T) {
 	if turn.steps != 24 || turn.session != "" || !strings.HasPrefix(turn.prompt, "You research enforcement.") || !strings.HasSuffix(turn.prompt, "Read request.json.") {
 		t.Fatal(turn)
 	}
+	if trust, _ := os.ReadFile(filepath.Join(home, "config", "muse", "trust.json")); !strings.Contains(string(trust), `"decision":"trusted"`) {
+		t.Fatal(string(trust))
+	}
 	settings, _ := os.ReadFile(filepath.Join(home, "config", "muse", "settings.json"))
 	if !strings.Contains(string(settings), `"model_reasoning_efforts":{"muse-spark-1.3":"xhigh"}`) || !strings.Contains(string(settings), `"tracker":{"headers":{"Authorization":"Bearer t"},"type":"streamable-http"`) {
 		t.Fatal(string(settings))

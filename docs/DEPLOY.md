@@ -211,9 +211,10 @@ Muse runs only with the local runner on macOS, and needs `muse login` on the mac
 (`MUSE_BIN` if `muse` is not on the PATH). It always runs in contributor mode. Each run gets a
 private home of its own, in the same sandbox OpenCode runs in: the account's saved login (its
 secret stays in the macOS keychain) and the reasoning effort. Writing files and the shell are
-turned off. Muse holds tool servers back outside a trusted workspace, and trusting the job's
-folder would make it read rule files from the folders above, so a Muse run gets the existing
-reports as files (as with the Docker runner), not the tracker's lookup and check tools. The
+turned off. Muse starts tool servers only in a trusted workspace and reads rule files (AGENTS.md)
+up to the workspace's repository root, so the job's input folder is made a repository of its own
+and trusted: Muse gets the tracker's lookup and check tools, and nothing above the folder becomes
+its rules. The
 worker starts itself as a bridge that talks to `muse acp` (the Agent Client Protocol) and passes
 Muse's messages, reasoning and tool calls on in OpenCode's form, with each step's tokens from
 Muse's session log. So the chat, the step limit, corrections in the same session, resumed runs and

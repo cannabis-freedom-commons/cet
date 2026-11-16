@@ -107,6 +107,14 @@ func (r Runner) museCommand(ctx context.Context, input string, args []string) (*
 			return nil, nil, err
 		}
 	}
+	// Muse starts tool servers only in a trusted workspace, and a trusted workspace reads rule files
+	// (AGENTS.md) up to its repository's root. As a repository of its own, the input folder is that
+	// root: nothing above it (the tracker's own AGENTS.md) becomes the research agent's rules.
+	if _, statErr := os.Stat(filepath.Join(input, ".git")); os.IsNotExist(statErr) {
+		if err = proc.Own(exec.CommandContext(ctx, "git", "init", "-q", input)).Run(); err != nil {
+			return nil, nil, errors.New("the Muse workspace could not be made a repository of its own")
+		}
+	}
 	// Muse looks for project MCP settings in every folder above the workspace and turns its tool
 	// servers off when one cannot be opened: those folders may be listed, their files stay closed.
 	ancestors := ""
@@ -246,9 +254,9 @@ func (c openCodeCall) museTurn() (museTurn, error) {
 	if t.session == "" {
 		t.prompt = instructions + "\n\n---\n\n" + c.prompt
 	}
-	// the reasoning effort is a setting of Muse's, per model; the tool servers go in as the user's
-	// own (a workspace's would need it trusted, and a trusted workspace reads rule files from the
-	// folders above it, which the sandbox keeps closed)
+	// the reasoning effort is a setting of Muse's, per model; the tracker's tool server goes in as
+	// the user's own, and the job's input folder (a repository of its own, see museCommand) is the
+	// one trusted workspace, as Muse starts tool servers only there
 	settings := map[string]any{"schema_version": 1, "model": model}
 	if effort != "" {
 		settings["model_reasoning_efforts"] = map[string]string{model: effort}
@@ -258,6 +266,10 @@ func (c openCodeCall) museTurn() (museTurn, error) {
 	}
 	b, _ := json.Marshal(settings)
 	if err = os.WriteFile(filepath.Join(home, "config", "muse", "settings.json"), b, 0600); err != nil {
+		return museTurn{}, err
+	}
+	b, _ = json.Marshal(map[string]any{"schema_version": 1, "projects": map[string]any{wd: map[string]string{"decision": "trusted"}}})
+	if err = os.WriteFile(filepath.Join(home, "config", "muse", "trust.json"), b, 0600); err != nil {
 		return museTurn{}, err
 	}
 	// read-only research in contributor mode: no writing, no shell, nothing to ask
