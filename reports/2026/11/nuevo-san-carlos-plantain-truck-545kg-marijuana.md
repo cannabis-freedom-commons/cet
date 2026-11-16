@@ -101,21 +101,26 @@ sources:
     publisher: Infobae
     date: 2026-11-16
     language: es
+  - title: 'Golpe al narco: hallaron 545 kilos de marihuana ocultos bajo un cargamento de plátanos'
+    url: https://holasalta.com/post/golpe-al-narco-hallaron-545-kilos-de-marihuana-ocultos-bajo-un-cargamento-de-platanos/
+    publisher: HolaSalta Noticias
+    date: 2026-11-16
+    language: es
 ---
 
 On the night of 14 November 2026, prosecutors and agents of the anti-narcotics
 information unit SGAIA inspected a truck carrying plantains at the
-inter-institutional checkpoint in Nuevo San Carlos, Retalhuleu. [@4,5,6] Suspecting
+inter-institutional checkpoint in Nuevo San Carlos, Retalhuleu. [@4,5,6,7] Suspecting
 concealed illicit goods, they moved the truck to a nearby police station for a
-fuller search. [@1,5,6]
+fuller search. [@1,5,6,7]
 
 At Comisaría 34, officers found about 120 large packages of marijuana hidden
-among the fruit. [@3,5,6] A field test confirmed the material was marijuana. [@1,5,6]
+among the fruit. [@3,5,6,7] A field test confirmed the material was marijuana. [@1,5,6]
 Each package held about 10 pounds, for an approximate seized total of 545
 kilograms. [@2,5,6]
 
 Officers arrested the driver, identified as Wilder L., aged 31, while he drove
-the truck on route CA-2 at kilometre 185.3 in Nuevo San Carlos. [@3,5] He was
+the truck on route CA-2 at kilometre 185.3 in Nuevo San Carlos. [@3,5,7] He was
 placed at the disposal of the competent court. [@4,5,6] A check showed he had an
 outstanding arrest order for encubrimiento propio issued on 2 December 2025 by a
-court in Coatepeque, Quetzaltenango. [@3,5,6]
+court in Coatepeque, Quetzaltenango. [@3,5,6,7]
