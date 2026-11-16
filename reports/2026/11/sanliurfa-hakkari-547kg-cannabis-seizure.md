@@ -45,6 +45,11 @@ sources:
     publisher: Adana Masası
     date: 2026-11-16
     language: tr
+  - title: Şanlıurfa ve Hakkari'de jandarma operasyonlarında 566 kilo uyuşturucu ele geçirildi - Haberler
+    url: https://www.haberler.com/guncel/sanliurfa-ve-hakkari-de-jandarma-operasyonlarinda-20432283-haberi/
+    publisher: Haberler
+    date: 2026-11-16
+    language: tr
 open_questions:
     - No separate date for the operations was given; 16 November 2026 is the publication date and stands in for the incident date.
     - No number of suspects arrested or detained was reported, although follow-up work on caught suspects was mentioned.
@@ -56,17 +61,17 @@ open_questions:
 
 Gendarmerie forces carried out narcotics operations in Şanlıurfa and Hakkari
 provinces, and a statement from the Interior Ministry said a total of 566
-kilograms of drugs was seized in those operations. [@1,2,3] The operations were
+kilograms of drugs was seized in those operations. [@1,2,3,4] The operations were
 coordinated by the Gendarmerie General Command's department for combating
 narcotics crime, working in cooperation with the Siverek and Yüksekova chief
-public prosecutor's offices. [@1,2] Teams from the Şanlıurfa and Hakkari
+public prosecutor's offices. [@1,2,4] Teams from the Şanlıurfa and Hakkari
 provincial gendarmerie commands conducted the operations against people
 manufacturing narcotics, achieving what the report describes as a significant
 success. [@1,2]
 
 Officers seized a total of 370 kilograms of skunk, 177 kilograms of esrar and 19
 kilograms of methamphetamine, together with an unspecified quantity of materials
-used to make other drugs. [@1,2,3] The skunk and esrar form the cannabis portion of
+used to make other drugs. [@1,2,3,4] The skunk and esrar form the cannabis portion of
 the seizure, while the methamphetamine is a separate non-cannabis drug that is
 not counted in the cannabis total. [@1]
 
