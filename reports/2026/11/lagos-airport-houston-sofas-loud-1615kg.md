@@ -109,6 +109,10 @@ sources:
     url: https://dailytrust.com/ndlea-arrests-ugandan-woman-with-87-wraps-of-cocaine/
     publisher: Daily Trust
     date: 2026-11-09
+  - title: NDLEA arrests Ugandan woman with cocaine hidden in underwear
+    url: https://punchng.com/ndlea-arrests-ugandan-woman-with-cocaine-hidden-in-underwear/
+    publisher: Punch Newspapers
+    date: 2026-11-09
 ---
 
 On Wednesday 4 November 2026, NDLEA operatives at the import shed of the airport
@@ -117,7 +121,7 @@ kilograms. [@1,4,5,6,8,10,11,12,14,15,16,17] The parcels were concealed inside t
 consolidated cargo that arrived from Houston, Texas, United States aboard a
 Turkish Airlines flight. [@2,5,10,11,12,13,14,15,16] Punch, citing the agency, also reported the
 interception of 32 parcels of Loud weighing 16.15 kilogrammes concealed in two
-wooden sofas in a cargo shipment from Houston, United States. [@3,7]
+wooden sofas in a cargo shipment from Houston, United States. [@3,7,18]
 
 Freight agent Ibrahim Abdulwaheed Adewale, who came forward to clear the
 consignment, was taken into custody. [@1,2,4,5,6,7,10,12,13,14,15,16,17] In a follow-up operation on Friday 6
