@@ -49,6 +49,11 @@ sources:
     publisher: النهار
     date: 2026-11-15
     language: ar
+  - title: السجن المشدد 10 سنوات لفكهاني بتهمة الاتجار في المخدرات بالقليوبية – الأسبوع
+    url: https://www.elaosboa.com/3022933/
+    publisher: الأسبوع
+    date: 2026-11-15
+    language: ar
 open_questions:
   - No weight was published for the 60 hashish pieces, so no cannabis weight is recorded.
   - The 300 tramadol pills are not cannabis and are excluded from cannabis figures.
@@ -61,22 +66,21 @@ open_questions:
 
 Banha Criminal Court's Second Circuit sentenced a fruit seller to 10 years of
 rigorous imprisonment and fined him 100,000 pounds after convicting him of
-dealing in hashish and tramadol in Banha, Qalyubia. [@1] The defendant is
+dealing in hashish and tramadol in Banha, Qalyubia. [@1,2] The defendant is
 54-year-old Mohamed N. M., a fruit seller living in Ezbet Zaki in Banha,
 prosecuted in case 4914 of 2026 on charges of possessing hashish and tramadol
-for trafficking without legal authorisation. [@1] The charge relates to 4 March
+for trafficking without legal authorisation. [@1,2] The charge relates to 4 March
 2026 in the Banha district. [@1]
 
 After the prosecution authorised his arrest and search, a security force went to
 his residence and arrested him near his home carrying a plastic bag and a cloth
-bag. [@1] The plastic bag held a sack containing 50 brown pieces of hashish,
+bag. [@1,2] The plastic bag held a sack containing 50 brown pieces of hashish,
 while the cloth bag held another sack with 10 pieces of the same drug plus three
 medicine packs holding 30 strips with a total of 300 tramadol pills. [@1]
 Officers also found a mobile phone and cash on him. [@1]
 
 When confronted, he admitted possessing the drugs for trafficking, said the
 money came from that activity and that he used the phone to contact clients.
-[@1] The chemical laboratory confirmed the brown pieces contained the active
+[@1,2] The chemical laboratory confirmed the brown pieces contained the active
 ingredient of hashish listed in Table 1 of the drugs law, and that the 300 pills
 contained tramadol listed in Table 1. [@1]
-
