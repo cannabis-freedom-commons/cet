@@ -101,21 +101,26 @@ sources:
     publisher: cretaone.gr
     date: 2026-11-15
     language: el
+  - title: 'Τρεις συλλήψεις για ναρκωτικά: 21χρονοι μετέφεραν κάνναβη σε βαλίτσα, εξοπλισμός υδροπονικής καλλιέργειας βρέθηκε σε σπίτι'
+    url: https://www.patrasevents.gr/amp/761010-treis-sillipseis-gia-narkotika-21xronoi-meteferan-kannavi-se-valitsa-eksoplismos-idroponikis-kalliergeias-vrethike-se-spiti
+    publisher: Patras Events
+    date: 2026-11-15
+    language: el
 open_questions:
   - This source rounds the suitcase haul to two kilos, while the report uses the precise 2,108 grams given by other accounts; the report figure is unchanged.
 ---
 
 Officers of police Team Z arrested two 21-year-olds carrying cannabis in a
 suitcase on Agiou Dimitriou street in Thessaloniki on the evening of 14 November
-2026. [@1,3,4,5,6,7,8,9,10,12,13] The two 21-year-olds were found jointly holding two cannabis packages
-weighing 0.85 grams in total. [@2,4,5,6,7,8,9,10,11,13] In a separate case on the morning of 14
+2026. [@1,3,4,5,6,7,8,9,10,12,13,14] The two 21-year-olds were found jointly holding two cannabis packages
+weighing 0.85 grams in total. [@2,4,5,6,7,8,9,10,11,13,14] In a separate case on the morning of 14
 November 2026, officers of the Crime Prevention and Suppression Division
-arrested a 40-year-old in the Panorama area. [@1,3,4,6,7,8,9,10,11,12,13] Case files were prepared
+arrested a 40-year-old in the Panorama area. [@1,3,4,6,7,8,9,10,11,12,13,14] Case files were prepared
 against the three detainees, who were to be taken before the competent judicial
-authorities. [@1,3,4,5,6,7,8,9,10,12,13]
+authorities. [@1,3,4,5,6,7,8,9,10,12,13,14]
 
 The suitcase held cannabis packages weighing 2,108 grams in total. [@2,3,4,6,10] The
 40-year-old was found with a 1.4-gram cannabis package and handed over seven
-more cannabis packages weighing 638 grams that he kept in his home. [@1,3,4,5,6,8,9,10,11,12,13] A later
+more cannabis packages weighing 638 grams that he kept in his home. [@1,3,4,5,6,8,9,10,11,12,13,14] A later
 search of his home seized hydroponic-cultivation equipment and a Flobert-type
-hunting rifle that he held without a licence. [@1,3,4,5,6,7,8,9,10,11,12,13]
+hunting rifle that he held without a licence. [@1,3,4,5,6,7,8,9,10,11,12,13,14]
