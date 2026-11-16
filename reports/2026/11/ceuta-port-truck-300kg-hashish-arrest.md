@@ -68,15 +68,15 @@ sources:
     publisher: النهار أونلاين
     date: 2026-11-15
     language: ar
-open_questions:
-  - The 300-kilogram figure is an estimate from the volume of bags removed; police gave no official weighed total and the bags were taken for later weighing.
-  - The Horizons account says the hashish came from Morocco, but the Ceuta outlets do not state its origin.
-  - Horizons also describes separate Customs operations in the Strait of Gibraltar with 6 people held and over 9,000 litres of fuel seized for fast drug boats; those fuel figures and arrests are a separate logistics operation and are left out of the cannabis figures.
-  - No identity beyond truck driver, and no charge wording beyond investigation for an offence against public health, was reported; no court outcome was reported.
+  - title: إسبانيا تحجز 300 كلغ من الحشيش القادم من المغرب وأزيد من 9 آلاف لتر من الوقود لشبكات التهريب
+    url: https://www.internews.dz/%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%AD%D8%AC%D8%B2-300-%D9%83%D9%84%D8%BA-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85-%D9%85%D9%86-%D8%A7/
+    publisher: Internews
+    date: 2026-11-15
+    language: ar
 ---
 
 Spain's UDYCO drug unit arrested a truck driver at the port of Ceuta carrying a
-stash of hashish hidden in a sophisticated false bottom. [@3,4] Officers
+stash of hashish hidden in a sophisticated false bottom. [@3,4,5] Officers
 intercepted the truck on the port road at the Muelle de Poniente and searched it
 with support from the UPR prevention unit and the canine group. [@3] They found
 the hashish and detained the driver, showing him the drugs found in the vehicle
@@ -85,11 +85,11 @@ he was driving. [@2]
 The truck appeared empty and was heading toward boarding for Spain when a
 specialist drugs dog alerted, prompting an exhaustive hours-long search inside
 and outside the vehicle. [@2] After the hours-long detailed inspection, officers
-found a large number of bags full of hashish inside the truck's structure. [@1,4]
+found a large number of bags full of hashish inside the truck's structure. [@1,4,5]
 Officers recovered numerous bags of hashish from the trailer's false bottom,
 with first estimates putting the haul above 300 kilograms although police gave
 no official weight. [@3] The submitted account describes the seizure as about
-300 kilograms of hashish arriving from Morocco. [@1]
+300 kilograms of hashish arriving from Morocco. [@1,5]
 
 The handcuffed driver was taken to police headquarters and placed under
 investigation for an offence against public health. [@2] Police link the
