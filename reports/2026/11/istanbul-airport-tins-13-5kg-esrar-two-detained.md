@@ -89,6 +89,11 @@ sources:
     publisher: Haber365
     date: 2026-11-15
     language: tr
+  - title: 'Uyuşturucuyu konserve kutusuna saklamışlar: İstanbul Havalimanı''nda 2 yolcuya gözaltı'
+    url: https://www.hurriyet.com.tr/gundem/uyusturucuyu-konserve-kutusuna-saklamislar-istanbul-havalimaninda-2-yolcuya-gozalti-43378761
+    publisher: Hürriyet
+    date: 2026-11-15
+    language: tr
 ---
 
 Istanbul narcotics teams detained two Tunisian nationals, Najla Ben Abdallah and
@@ -99,12 +104,12 @@ operation was run by the Istanbul police narcotics division as part of work
 against drug manufacturing and trafficking, monitoring incoming passengers. [@3,6]
 
 Officers found a total of 13 kilograms 512 grams of esrar, reported as cannabis,
-hidden in the suspects' luggage. [@1,5,6,8] Of that total, 12 kilograms 226 grams were
+hidden in the suspects' luggage. [@1,5,6,8,9] Of that total, 12 kilograms 226 grams were
 concealed in 73 cans and 1 kilogram 286 grams in the soles of four shoes. [@3]
 
 The search was carried out under a search order obtained from the Gaziosmanpaşa
-Chief Public Prosecutor's Office after a tip-off. [@2,5,7,8] Police said the suspects
-tried to bring the cannabis into Türkiye and took them into custody. [@2,7]
+Chief Public Prosecutor's Office after a tip-off. [@2,5,7,8] The search order was obtained from the Gaziosmanpaşa Chief Public Prosecutor's Office under GSBH (Gecikmesinde Sakınca Bulunan Hal) provisions. [@9] Police said the suspects
+tried to bring the cannabis into Türkiye and took them into custody. [@2,7,9]
 Officers also seized money and mobile phones found on the suspects for
 examination. [@1,4,5,6,7,8] The suspects were expected to be brought before the
 Gaziosmanpaşa prosecution on 15 November as the investigation continued. [@2,5,7,8]
