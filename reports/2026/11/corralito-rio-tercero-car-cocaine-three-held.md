@@ -53,27 +53,25 @@ sources:
     publisher: El Doce
     date: 2026-11-14
     language: es
-open_questions:
-  - No weight was published for the 34 marijuana doses or the additional marijuana doses, so no cannabis weight can be recorded.
-  - No count was published for the cannabis sativa plants seized in the Río Tercero house searches.
-  - The 207 cocaine doses are excluded from the cannabis figures as a non-cannabis substance in a mixed event.
-  - No separate date for the street arrests or house raids was given; 14 November 2026 is the publication date of all three sources and is used as the incident date.
-  - The three detainees were not named and no court outcome beyond detention under investigation was reported.
+  - title: 'Corralito - Río Tercero: tres detenidos por intentar intercambiar un vehículo por cocaína'
+    url: https://cadenaurbana.com.ar/nota/19828/corralito-rio-tercero-tres-detenidos-por-intentar-intercambiar-un-vehiculo-por-cocaina
+    publisher: Cadena Urbana
+    date: 2026-11-14
+    language: es
 ---
 
 Three adults were detained in Corralito, Tercero Arriba department, for
-allegedly trying to exchange a car for cocaine. [@1] The operation began on the
+allegedly trying to exchange a car for cocaine. [@1,4] The operation began on the
 street, where investigators intercepted the suspects and made the arrests. [@1]
 At the scene investigators seized 207 doses of cocaine and 34 of marijuana,
-money and a car. [@2] Investigators said the detainees had tried to exchange the
+money and a car. [@2,4] Investigators said the detainees had tried to exchange the
 vehicle for drugs. [@2]
 
 After the arrests, the FPA carried out three raids on homes in barrio Parque
-Monte Grande in Río Tercero. [@3] During those house searches officers seized
+Monte Grande in Río Tercero. [@3,4] The three Parque Monte Grande houses were located on Félix de la Peña at 2500, José Echenique at 500 and Eleazar Garzón at 2700. [@4] During those house searches officers seized
 additional marijuana doses and cannabis sativa plants for the investigation.
-[@2]
+[@2,4]
 
 All the seized items were placed at the disposal of the intervening prosecutor's
 office. [@3] The three suspects remain detained for alleged violation of
-National Drug Law 23.737 while the investigation continues. [@1]
-
+National Drug Law 23.737 while the investigation continues. [@1,4]
