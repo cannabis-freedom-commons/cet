@@ -64,6 +64,10 @@ sources:
     url: https://ozarab.media/two-killed-in-leeds-crash-after-police-pursuit/
     publisher: Oz Arab Media
     date: 2026-11-15
+  - title: Harrogate man arrested after two people die in Leeds crash - Your Harrogate
+    url: https://www.yourharrogate.co.uk/local-news/harrogate/harrogate-man-arrested-after-two-people-die-in-leeds-crash/
+    publisher: Your Harrogate
+    date: 2026-11-16
 open_questions:
     - The cannabis allegation is reported only as suspicion of driving under the influence of cannabis, with no test result or laboratory confirmation reported.
     - No cannabis was reported seized and no cannabis weight, value or other drug quantity was published.
@@ -88,21 +92,21 @@ media:
 ---
 
 West Yorkshire Police officers tried to stop a BMW 123D on Gelderd Road in Leeds
-at about 00:45, but the driver did not comply. [@1,2,6] Officers pursued the BMW,
+at about 00:45, but the driver did not comply. [@1,2,6,7] Officers pursued the BMW,
 which then collided with a white Volkswagen Scirocco turning onto the road from
-Lowfields Road. [@1,3,5] A 22-year-old man and a 23-year-old woman, both from York,
-died in the collision. [@1,4,5,6] Neither victim had been formally named. [@4]
+Lowfields Road. [@1,3,5,7] A 22-year-old man and a 23-year-old woman, both from York,
+died in the collision. [@1,4,5,6,7] Neither victim had been formally named. [@4]
 
 Police detained a 39-year-old man from Harrogate on suspicion of causing death
-by dangerous driving and driving under the influence of cannabis. [@1,4,5,6] The
+by dangerous driving and driving under the influence of cannabis. [@1,4,5,6,7] The
 detained driver remained in police custody. [@1] Police also detained the BMW's
 three other occupants, boys aged 16 and 17 and a 16-year-old girl, on suspicion
-connected with causing death by dangerous driving. [@1,2,5,6]
+connected with causing death by dangerous driving. [@1,2,5,6,7]
 
 The three young passengers had been treated in hospital for injuries that were
 not life-threatening. [@1,4,5,6] Police closed the crash site and asked motorists to
 avoid the affected stretch of road. [@1] West Yorkshire Police referred the
 incident to the Independent Office for Police Conduct, which opened an
-investigation. [@1,2,6] The authorities asked witnesses to come forward,
+investigation. [@1,2,6,7] The authorities asked witnesses to come forward,
 particularly anyone with dashcam, mobile-phone or CCTV footage that could help
 clarify what happened. [@1] Police asked anyone with information to contact officers via 101 or online quoting reference 13260649342. [@4]
