@@ -45,6 +45,11 @@ sources:
     publisher: Ekhon TV
     date: 2026-11-15
     language: bn
+  - title: ফেনীতে বিপুলপরিমাণ মাদকদ্রব্য জব্দ - Daily Nabochatona
+    url: https://dailynabochatona.com/30666
+    publisher: Daily Nabochatona
+    date: 2026-11-16
+    language: bn
 open_questions:
   - The Tk 76,235 seizure value covers the Indian liquor, Bangla liquor and ganja together and cannot be separated, so it is not recorded as a cannabis-only value.
   - No detentions were reported and the drugs were found ownerless, so no arrest figure is recorded.
@@ -54,18 +59,17 @@ open_questions:
 
 Border Guard Bangladesh carried out a special anti-drug operation in the
 Chhagalnaiya border area of Feni on the afternoon of Sunday 15 November 2026.
-[@1] A special patrol team of the Chhagalnaiya border outpost seized the drugs
+[@1,2] A special patrol team of the Chhagalnaiya border outpost seized the drugs
 in the Chhagalnaiya border area of Feni on the afternoon of Sunday 15 November
 2026. [@1] The force said it acted on secret information and launched the drive
 in the border area at around 4 pm. [@1] The drugs were found in an ownerless
-condition, and no detentions were reported. [@1]
+condition, and no detentions were reported. [@1,2]
 
 The patrol recovered 48 bottles of Indian liquor from the spot. [@1] The patrol
-also recovered 14 litres of Bangla liquor and 10 grams of Indian ganja. [@1] BGB
+also recovered 14 litres of Bangla liquor and 10 grams of Indian ganja. [@1,2] BGB
 set the combined seizure value of the recovered drugs at Tk 76,235, covering the
-liquor and the ganja together. [@1] The Feni Battalion (4 BGB) commander said
-work to deposit the seized drugs at the police station was under way. [@1]
+liquor and the ganja together. [@1,2] The Feni Battalion (4 BGB) commander said
+work to deposit the seized drugs at the police station was under way. [@1,2]
 
 The commander said BGB operations and surveillance continue in the border area
 to prevent drug smuggling. [@1]
-
