@@ -44,23 +44,26 @@ sources:
     url: https://www.edp24.co.uk/news/26729377.man-arrested-suspicion-drug-driving-lowestoft/
     publisher: Eastern Daily Press
     date: 2026-11-14
+  - title: Man arrested on suspicion of drug-driving in Lowestoft
+    url: https://www.lowestoftjournal.co.uk/news/26729377.man-arrested-suspicion-drug-driving-lowestoft/
+    publisher: Lowestoft Journal
+    date: 2026-11-14
 open_questions:
-  - No weight was published for the suspected cannabis, so no cannabis quantity is recorded.
-  - The article gives the stop as the early hours of Friday morning; 13 November 2026 is inferred as the incident date from the 14 November publication date.
-  - No name, age or court outcome was reported; the man was conditionally bailed pending blood-test results.
-  - The account rests on a single outlet report attributed to Suffolk Police, with no independent second source found.
+    - No weight was published for the suspected cannabis, so no cannabis quantity is recorded.
+    - The accounts give the stop as the early hours of Friday morning; 13 November 2026 is inferred as the incident date from the 14 November publication date.
+    - No name, age or court outcome was reported; the man was conditionally bailed pending blood-test results.
+    - The account rests on a single police-attributed account reproduced by two Newsquest titles, with no independent second source found.
 ---
 
 In the early hours of Friday morning, police officers stopped a driver in
-Lowestoft after noticing suspicious circumstances. [@1] Officers arrested the
+Lowestoft after noticing suspicious circumstances. [@1,2] Officers arrested the
 man on suspicion of possession with intent to supply Class B drugs, possession
-of offensive weapons and driving whilst unfit through drugs. [@1]
+of offensive weapons and driving whilst unfit through drugs. [@1,2]
 
 Officers recovered a quantity of suspected cannabis, drug-related paraphernalia
-and a number of offensive weapons, including knives and knuckle dusters. [@1]
+and a number of offensive weapons, including knives and knuckle dusters. [@1,2]
 The man was conditionally bailed pending blood-test results for the drug-driving
-allegation, and his vehicle was seized. [@1]
+allegation, and his vehicle was seized. [@1,2]
 
 A Suffolk Police spokesman said the stop was an excellent example of officers
-identifying suspicious circumstances and taking positive action. [@1]
-
+identifying suspicious circumstances and taking positive action. [@1,2]
