@@ -55,12 +55,17 @@ sources:
     publisher: KazTAG
     date: 2023-03-10
     language: ru
+  - title: Иностранцы провозили наркотики в Казахстан через Каспийское море
+    url: https://ulysmedia.kz/news/13583-inostrantsy-provozili-narkotiki-v-kazakhstan-cherez-kaspiiskoe-more/
+    publisher: Ulysmedia.kz
+    date: 2023-03-10
+    language: ru
 open_questions:
-  - The 8 kg cannabis figure covers only the hashish; the 10 kg of opium in the same shipment is excluded from cannabis figures.
-  - No day in February 2023 was given for the verdict, so the last day of the month stands in for the incident date.
-  - The lengths of the prison terms were described only as long terms, so no prison figure is recorded.
-  - The nationalities and identities of the three foreigners and the Kazakh citizen were not reported.
-  - The account rests on a single report of a KNB statement; no independent second source was found.
+    - The 8 kg cannabis figure covers only the hashish; the 10 kg of opium in the same shipment is excluded from cannabis figures.
+    - No day in February 2023 was given for the verdict, so the last day of the month stands in for the incident date.
+    - The lengths of the prison terms were described only as long terms, so no prison figure is recorded.
+    - The nationalities and identities of the three foreigners and the Kazakh citizen were not reported.
+    - Both accessible accounts relay the same KNB statement and are not independent of each other.
 ---
 
 Kazakhstan's National Security Committee (KNB) completed a criminal
@@ -70,12 +75,11 @@ Region found the drug-group members guilty under part 4 of article 286 of the
 Kazakh Criminal Code and sentenced them to long prison terms. [@1]
 
 The four had been detained in August 2022 while attempting to bring 10 kg of
-opium and 8 kg of hashish into Kazakhstan across the Caspian Sea. [@1] The
-foreign nationals illegally crossed the state border in a small motorboat. [@1]
+opium and 8 kg of hashish into Kazakhstan across the Caspian Sea. [@1,2] The
+foreign nationals illegally crossed the state border in a small motorboat. [@1,2]
 The KNB said the boat was small and fast, making radar detection difficult, and
 that the delivery was made at night in poor visibility using satellite
 communications and GPS for navigation. [@1]
 
 At trial the defendants' guilt was fully proven by the case materials, the KNB
-said, adding that work against the drug trade continues. [@1]
-
+said, adding that work against the drug trade continues. [@1,2]
