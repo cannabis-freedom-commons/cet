@@ -58,20 +58,24 @@ sources:
     url: https://www.mid-day.com/mumbai/mumbai-crime-news/article/mumbai-crime-woman-living-on-borivali-footpath-held-with-cannabis-worth-rs-40650-23660177
     publisher: Mid-Day
     date: 2026-11-16
+  - title: Woman living on footpath in Borivali held with cannabis worth Rs 40,650
+    url: https://www.msn.com/en-in/news/other/woman-living-on-footpath-in-borivali-held-with-cannabis-worth-rs-40-650/ar-AA2hz9an
+    publisher: MSN
+    date: 2026-11-16
 open_questions:
   - No laboratory confirmation of the seized substance was reported.
   - Whether the cannabis was for sale rests on the police allegation; no plea or court finding was reported.
   - No detention measure, charge sheet or court outcome beyond registration of the NDPS case was reported.
   - The account rests on a single Mid-Day report of the Borivali police action; no independent second outlet was found.
+  - It is unclear whether the November 15 date marks the initial detention or the formal arrest, since she was first served a notice and released and then arrested on November 16.
 ---
 
 Borivali police arrested 48-year-old Lata Shahaji Kale near Satyanagar Road,
-Korakendra Ground No 4, on November 15. [@1] Kale was living on a footpath in
-Borivali and was allegedly possessing the cannabis for sale. [@1]
+Korakendra Ground No 4, on November 15. [@1] Because the operation continued beyond sunset, police first served her a notice under Section 43(5) of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 and released her, then arrested her on November 16. [@2] She was found near Satyanagar Road, Korakendra Ground No 4, on November 15 following a tip-off to the Borivali police. [@2] Kale was living on a footpath in
+Borivali and was allegedly possessing the cannabis for sale. [@1,2]
 
 Police seized 813 grams of cannabis valued at approximately Rs 40,650 during the
-operation. [@1] Police also seized Rs 3,100 in cash during the operation. [@1]
+operation. [@1,2] Police also seized Rs 3,100 in cash during the operation. [@1,2]
 
 A case was registered at Borivali Police Station under Section 8(c) and Section
-20(b) of the NDPS Act, 1985. [@1]
-
+20(b) of the NDPS Act, 1985. [@1,2]
