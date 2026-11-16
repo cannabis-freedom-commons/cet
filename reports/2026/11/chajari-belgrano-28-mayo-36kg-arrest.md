@@ -99,6 +99,11 @@ sources:
     publisher: 03442 | NOTICIAS
     date: 2026-11-14
     language: es
+  - title: 'Chajarí: detuvieron a un hombre con más de tres kilos de marihuana en un operativo - EntreMedios'
+    url: https://entremediosweb.com/chajari-detuvieron-a-un-hombre-con-mas-de-tres-kilos-de-marihuana-en-un-operativo/
+    publisher: EntreMedios
+    date: 2026-11-15
+    language: es
 open_questions:
     - The official report gave no age and no circumstances of the detention; local accounts disagree, describing the man as 28 in some outlets and as 42, from Mocoretá, in this account.
     - No charge, hearing or court outcome was reported beyond the detention and referral to the courts.
@@ -110,17 +115,17 @@ open_questions:
 ---
 
 Officers detained a man at the intersection of Avenida Belgrano and Avenida 28
-de Mayo in Chajarí during an overnight anti-drug operation. [@1,4,5] The operation
+de Mayo in Chajarí during an overnight anti-drug operation. [@1,4,5,12] The operation
 ran from 20:30 on Thursday 12 November until 00:28 on Friday 13 November 2026.
-[@2,11] Officers from the Chajarí Dangerous Drugs delegation of the Federación
+[@2,11,12] Officers from the Chajarí Dangerous Drugs delegation of the Federación
 departmental headquarters acted together with staff of Subcomisaría Tague, under
 Chajarí's First Station. [@1,4,11] The operation was carried out under article 230
 bis of the National Code of Criminal Procedure and National Law 23.737 on drug
 trafficking. [@1,10]
 
 Officers seized six compact bricks of marijuana and one hand-rolled cigarette,
-with a reported total weight of 3.656 kilograms. [@1,4,5,10,11] Officers also seized a
-backpack, while no money was seized. [@1,4] The official report gave no age for
+with a reported total weight of 3.656 kilograms. [@1,4,5,10,11,12] Officers also seized a
+backpack, while no money was seized. [@1,4,12] The official report gave no age for
 the detained man and no details of the circumstances of the detention. [@1]
 Local accounts described the detained man as 28 years old and said he had
 travelled from Mocoretá to Chajarí in a hire car from Corrientes. [@3,6] Mocoretá investigators detected the suspect with a backpack through municipal monitoring cameras before he boarded the remis. [@8] The case
