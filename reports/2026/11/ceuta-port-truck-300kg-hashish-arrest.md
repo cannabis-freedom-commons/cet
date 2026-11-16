@@ -73,10 +73,15 @@ sources:
     publisher: Internews
     date: 2026-11-15
     language: ar
+  - title: حجز 300 كلغ من الحشيش المغربي و9 آلاف لتر وقود بإسبانيا
+    url: https://elmaouid.dz/%D8%A7%D8%AA%D8%B3%D8%A7%D8%B9-%D9%86%D8%B4%D8%A7%D8%B7-%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AD%D8%AC%D8%B2/
+    publisher: الموعد اليومي
+    date: 2026-11-15
+    language: ar
 ---
 
 Spain's UDYCO drug unit arrested a truck driver at the port of Ceuta carrying a
-stash of hashish hidden in a sophisticated false bottom. [@3,4,5] Officers
+stash of hashish hidden in a sophisticated false bottom. [@3,4,5,6] Officers
 intercepted the truck on the port road at the Muelle de Poniente and searched it
 with support from the UPR prevention unit and the canine group. [@3] They found
 the hashish and detained the driver, showing him the drugs found in the vehicle
@@ -85,11 +90,11 @@ he was driving. [@2]
 The truck appeared empty and was heading toward boarding for Spain when a
 specialist drugs dog alerted, prompting an exhaustive hours-long search inside
 and outside the vehicle. [@2] After the hours-long detailed inspection, officers
-found a large number of bags full of hashish inside the truck's structure. [@1,4,5]
+found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6]
 Officers recovered numerous bags of hashish from the trailer's false bottom,
 with first estimates putting the haul above 300 kilograms although police gave
 no official weight. [@3] The submitted account describes the seizure as about
-300 kilograms of hashish arriving from Morocco. [@1,5]
+300 kilograms of hashish arriving from Morocco. [@1,5,6]
 
 The handcuffed driver was taken to police headquarters and placed under
 investigation for an offence against public health. [@2] Police link the
