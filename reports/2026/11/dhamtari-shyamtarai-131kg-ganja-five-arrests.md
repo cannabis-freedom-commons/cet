@@ -60,19 +60,16 @@ sources:
     publisher: Vocal TV
     date: 2026-11-15
     language: hi
-open_questions:
-  - The Odisha origin is written as the Jaipur area; whether this means Jeypore in Koraput district is not clarified.
-  - 15 November 2026 is the stated day of the tip-off and the publication day; the interception is treated as the same day with no separate time given.
-  - The Nano and Swift Dezire car models are named only in the second account, not in the submitted police account.
-  - The Rs 65,83,400 ganja value and Rs 72,45,400 total property value are police estimates, not verified sale figures.
-  - No laboratory confirmation for the seized ganja was reported.
-  - No remand, charge-sheet or court outcome beyond NDPS action was reported.
-  - The Hindi account gives one accused from Buldhana and the others from Jalgaon, while the English account compresses the homes; the full address details rest on the Hindi account.
+  - title: धमतरी में 130 किलो गांजा जब्त, 5 गिरफ्तार
+    url: https://aajkijandhara.com/dhamtari-police-seizes-130kg-ganja-five-arrested-from-maharashtra/
+    publisher: Aaj Ki Jandhara
+    date: 2026-11-15
+    language: hi
 ---
 
 Dhamtari police arrested five interstate smugglers from Maharashtra with 131.668
-kg of ganja. [@1,3] After receiving the information, the police team cordoned off
-Shyamtarai naka and stopped the suspect car. [@1] The arrested men are Kundan
+kg of ganja. [@1,3,4] After receiving the information, the police team cordoned off
+Shyamtarai naka and stopped the suspect car. [@1,4] The arrested men are Kundan
 alias Sachin Kailash Egede, 27, Rameshwar Salik Ram Dandge, 31, Robinson
 Lawrence Fernandes, 32, Lakhan Gulab Beldar, 34, and Ganesh Vijay Patil, 29.
 [@2] Action is being taken under the NDPS Act while police trace the ganja
@@ -84,7 +81,7 @@ seized property worth Rs 72,45,400. [@1,3] Police valued the Nano car at Rs 50,0
 65,83,400. [@1,3]
 
 The action was carried out under Operation Nishchay. [@1] The drive is run to
-curb narcotics trafficking under SP Bhavna Pandey's direction. [@1] The joint team of the Cyber police station and Arjuni police station carried out the operation under Superintendent of Police Bhavna Pandey's direction. [@3] On 15
+curb narcotics trafficking under SP Bhavna Pandey's direction. [@1] The joint team of the Cyber police station and Arjuni police station carried out the operation under Superintendent of Police Bhavna Pandey's direction. [@3,4] On 15
 November, an informer said two cars were carrying a large ganja consignment from
 the Jaipur area of Odisha via Charama toward Maharashtra. [@1] Police stopped a
 Tata Nano and a Swift Dezire at Shyamatrai Naka. [@2,3] The second account puts
