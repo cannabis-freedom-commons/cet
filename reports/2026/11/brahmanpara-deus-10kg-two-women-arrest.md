@@ -49,22 +49,23 @@ sources:
     publisher: Kalbela
     date: 2026-11-14
     language: bn
-open_questions:
-  - The account rests on a single accessible Kalbela report, which reproduces the police account; no second outlet or police statement was found.
-  - No street value, exact seizure packaging, charge section for this arrest, or court outcome beyond production in court was reported.
-  - The 10 kg figure is the police-reported seizure weight with no laboratory confirmation reported.
+  - title: বোরকার আড়ালে মাদক পাচারের অভিনব কৌশল, পেটে বাঁধা ১০ কেজি গাঁজাসহ কসবার দুই নারী গ্রেপ্তার
+    url: https://sorejominbarta.com/country/article/66830
+    publisher: Sorejomin Barta
+    date: 2026-11-15
+    language: bn
 ---
 
 Police in Brahmanpara, Cumilla arrested two women in the Deus area of Shashidal
-Union on Friday afternoon, 13 November 2026, acting on a secret tip-off. [@1]
+Union on Friday afternoon, 13 November 2026, acting on a secret tip-off. [@1,2]
 Officers detained the two women after finding them suspicious and then searched
 them. [@1] Police said the women were carrying the ganja under their burqas with
-scotch tape wrapped around their stomachs. [@1]
+scotch tape wrapped around their stomachs. [@1,2]
 
-The search recovered 10 kg of ganja from the women. [@1] The arrested women were
+The search recovered 10 kg of ganja from the women. [@1,2] The arrested women were
 identified as Fatema Akter alias Mithila Moni, 28, of Binouti in Kasba,
 Brahmanbaria, and Jannatul Ferdous alias Maya, 24, of Kalagachhia in Bandar,
-Narayanganj. [@1]
+Narayanganj. [@1,2]
 
 Police said Fatema Akter already faces two pending cases under the Narcotics
 Control Act at Brahmanpara and Kasba police stations. [@1] Police said Jannatul
@@ -72,4 +73,3 @@ Ferdous faces two more pending Narcotics Control Act cases at Chawkbazar in
 Dhaka and Gazaria in Munshiganj. [@1] Brahmanpara police station
 officer-in-charge Md. Faruk Hossain said legal action was taken against the two
 women and they were sent to court on Saturday, 14 November. [@1]
-
