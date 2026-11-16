@@ -1,0 +1,70 @@
+---
+code: 7DP862
+added_at: "2026-11-16T18:15:01.647593Z"
+date: 2026-11-16
+country: tr
+place: Diyarbakır province
+coordinates: [37.9144, 40.2306]
+precision: region
+type: seizure
+title: Diyarbakır gendarmerie seizes 38.3 kg esrar, 538 cannabis plants
+summary: >-
+  Diyarbakir gendarmerie operations across the provincial centre and districts recorded 15 incidents, with legal proceedings opened against five suspects. Teams seized 38 kilograms 261 grams of esrar and 538 cannabis plants.
+figures:
+  plants_destroyed: 538
+  kg_seized: 38.261
+details:
+  agencies: [tr-jandarma]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish, kg: 38.261}
+    - {product: plants, plants: 538}
+  case_stage: investigation
+  date_precision: publication
+  region: Diyarbakır province
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [1]
+status: verified
+created_by_model: muse/muse-spark-1.3#xhigh
+submission: de9f3dfa82744e16af5fc9a6256c9e70
+tags: [diyarbakir, jandarma, esrar, kenevir]
+sources:
+  - title: Diyarbakır'da jandarma operasyonunda 38 kilo 261 gram esrar ele geçirildi - Haberler
+    url: https://www.haberler.com/3-sayfa/diyarbakir-da-jandarma-operasyonunda-38-kilo-261-20432729-haberi/
+    publisher: Haberler
+    date: 2026-11-16
+    language: tr
+open_questions:
+  - No separate date for the operations was given; 16 November 2026 is the publication date and is used as the incident date.
+  - The five suspects were not named, and no detention, charge, remand or court outcome was reported beyond the opening of legal proceedings.
+  - No breakdown of the seizures by district or incident was published; the weight and plant count are totals only.
+  - The esrar is described only as esrar maddesi without specifying resin or dried flower, so it is recorded as hashish.
+  - The condition of the 538 cannabis roots was not specified, so they are recorded as plants destroyed or seized without a seized/destroyed split.
+  - The account rests on a single İhlas Haber Ajansı dispatch carried by Haberler, with no independent corroboration found.
+  - No value estimate for the seized cannabis was published.
+---
+
+Diyarbakır İl Jandarma Komutanlığı, the Diyarbakir provincial gendarmerie
+command, coordinated a series of anti-drug operations through its Narkotik
+Suçlarla Mücadele Şube Müdürlüğü, the narcotics-crimes branch. [@1] The
+operations covered the provincial centre and districts within the gendarmerie's
+area of responsibility. [@1] They were directed at people accused of trading,
+transporting and using narcotic substances. [@1] Fifteen separate incidents were
+recorded during the operations. [@1] Legal proceedings were opened against five
+suspects in connection with those incidents. [@1]
+
+Teams seized 38 kilograms 261 grams of esrar, the Turkish word for cannabis.
+[@1] Teams also seized 538 kök kenevir, literally cannabis roots, the term
+Turkish enforcement reporting uses for cannabis plants. [@1] The gendarmerie
+reported both the esrar weight and the cannabis-root count as the outcome of the
+coordinated operations. [@1]
+
+The operations took place in the gendarmerie's responsibility area rather than
+in police districts. [@1] No suspects were named in the account. [@1] İhlas
+Haber Ajansı supplied the published account of the operations. [@1]
+
