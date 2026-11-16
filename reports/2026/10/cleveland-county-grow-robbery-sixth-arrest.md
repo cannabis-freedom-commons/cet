@@ -39,6 +39,16 @@ media:
     media_url: https://okcfox.com/resources/media/5ca5d75f-ce22-4789-b95c-60810d9d2349-marijuanagrow3.jpg
     publisher: KOKH
     caption: 'Sheriff''s office photos of the marijuana grow published with the report on the sixth arrest. Photo: Cleveland County Sheriff''s Office'
+  - kind: photo
+    url: https://okcfox.com/news/local/gallery/sheriff-masked-gunmen-rob-cleveland-county-marijuana-grow?photo=3
+    media_url: https://okcfox.com/resources/media/1dfbe90f-cbe9-4abe-ac71-775df63c79f8-surveillance1.jpeg
+    publisher: KOKH
+    caption: 'Surveillance image released from the armed robbery at the Cleveland County marijuana grow. Photo: Cleveland County Sheriff''s Office'
+  - kind: photo
+    url: https://okcfox.com/news/local/gallery/sheriff-masked-gunmen-rob-cleveland-county-marijuana-grow?photo=3
+    media_url: https://okcfox.com/resources/media/c9cb23aa-89fb-4a2b-81bc-961dda96c0f8-surveillance.jpeg
+    publisher: KOKH
+    caption: 'Evidence released from the armed robbery at the Cleveland County marijuana grow. Photo: Cleveland County Sheriff''s Office'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2faa69d8e9c58d86a5fe7f92816429cb
@@ -56,23 +66,30 @@ sources:
     url: https://www.news9.com/crime/cleveland-county-marijuana-grow-robbery-sixth-arrest
     publisher: News9
     date: 2026-10-15
-open_questions:
-  - The submitted gallery page carries almost no article text; the facts use the full KOKH article at its canonical URL and a News9 corroboration of the same event.
-  - The 10-pound figure is the amount reported stolen; the sixth-arrest reports say only trafficking amounts of marijuana and four firearms were recovered, without a recovered weight.
-  - The two juvenile suspects were reported without names, and no pleas or court outcomes beyond the listed charges and bonds were reported.
-  - An additional juvenile arrest was described as possible, so the total number arrested could change as the investigation continues.
+  - title: 'Sheriff: Masked gunmen robbed Cleveland County marijuana grow'
+    url: https://okcfox.com/news/local/sheriff-masked-gunmen-rob-cleveland-county-marijuana-grow
+    publisher: KOKH
+    date: 2026-10-09
+  - title: 'Sheriff: Masked gunmen robbed Cleveland County marijuana grow'
+    url: https://okcfox.com/news/local/gallery/sheriff-masked-gunmen-rob-cleveland-county-marijuana-grow?photo=3
+    publisher: KOKH
+    date: 2026-10-09
+  - title: 5 arrested in armed robbery at Cleveland County marijuana grow operation
+    url: https://www.news9.com/crime/5-people-charged-connection-armed-robbery-cleveland-co-marijuana
+    publisher: News9
+    date: 2026-10-09
 ---
 
 A sixth person was arrested in connection to a violent armed robbery of a
 marijuana grow in Cleveland County. [@1] On Oct. 2, dispatchers received a call
 about an armed robbery at a legal marijuana grow at 180th and Box Road in
-southern Cleveland County. [@2] Two workers were injured when one was struck
+southern Cleveland County. [@2,4] Two workers were injured when one was struck
 with the end of an AK-47 rifle and the other was pistol-whipped by masked,
-heavily armed suspects. [@2]
+heavily armed suspects. [@2,4] The sheriff's office released surveillance footage from the robbery. [@4]
 
-The thieves stole 10 pounds of marijuana from the grow. [@2] Five people,
+The thieves stole 10 pounds of marijuana from the grow. [@2,4] Five people,
 including two juveniles, had already been arrested on complaints of robbery by
-fear and conspiracy to commit a felony. [@2] Deputies then arrested Reaginald D.
+fear and conspiracy to commit a felony. [@2,4] Deputies then arrested Reaginald D.
 Wilson on complaints of first-degree burglary, conjoint robbery, trafficking a
 controlled dangerous substance and possession of a firearm during the commission
 of a felony. [@2] Wilson was arrested on Thursday after investigators served a
@@ -80,10 +97,9 @@ search warrant in Midwest City. [@3]
 
 Wilson is being held at the Cleveland County Detention Center on a $60,000 bond.
 [@2] Wilson joins other adult suspects Ronald Hopper, Andre Tyrell Whittenberg
-and Tommy Faretra. [@2] Whittenberg has been charged with robbery by force or
+and Tommy Faretra. [@2,4,5] Whittenberg has been charged with robbery by force or
 fear, first-degree burglary and conspiracy to commit a felony and is held on a
-$750,000 bond. [@2] Investigators recovered trafficking amounts of marijuana and
+$750,000 bond. [@2,4] Hopper is held on a $750,000 bond on charges of possession of a firearm by a convicted felon, drug trafficking and using a firearm while committing a felony. [@6] Faretra faces charges of robbery by force or fear, first-degree burglary, larceny of a motor vehicle, conspiracy to commit a felony and second-degree burglary and is held on a $750,000 bond. [@6] Investigators recovered trafficking amounts of marijuana and
 four firearms. [@3] The sheriff's office worked with the Oklahoma City Police
 Department and the Oklahoma State Bureau of Investigation, and said the
 investigation is ongoing with a possible additional juvenile arrest. [@3]
-
