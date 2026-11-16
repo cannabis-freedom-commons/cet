@@ -51,34 +51,37 @@ sources:
     publisher: Araucanía Noticias Temuco
     date: 2026-11-13
     language: es
+  - title: Perro antidrogas detecta a pasajero en Temuco y permite incautar casi seis kilos de marihuana en Puerto Montt
+    url: https://www.radiouniversal.cl/perro-antidrogas-detecta-a-pasajero-en-temuco-y-permite-incautar-casi-seis-kilos-de-marihuana-en-puerto-montt
+    publisher: Radio Universal
+    date: 2026-11-15
+    language: es
 open_questions:
-  - No date is given for the control at the Temuco bus terminal or the arrest; 13 November 2026 is the publication date and stands in for the incident date.
-  - The seized cannabis is given as 5 kilos 835 grams, also described as nearly six kilos, and the reports say the substance was still awaiting analysis by the Servicio de Salud Araucanía Sur.
-  - No street value or dose estimate for the seized cannabis was published.
-  - The detained man is described only as a Chilean adult with police records under the drug law; his name and age were not published.
-  - No outcome of the control de detención hearing before the Temuco guarantee court, and no formalised charge, was reported.
-  - It is not stated where or when the passenger was actually taken into custody, only that an arrest order was obtained after the suitcase was opened.
-  - The account rests on one regional outlet reproducing the PDI version of the procedure; no second source was found.
+    - No date is given for the control at the Temuco bus terminal or the arrest; 13 November 2026 is the publication date and stands in for the incident date.
+    - The seized cannabis is given as 5 kilos 835 grams, also described as nearly six kilos, and the reports say the substance was still awaiting analysis by the Servicio de Salud Araucanía Sur.
+    - No street value or dose estimate for the seized cannabis was published.
+    - The detained man is described only as a Chilean adult with police records under the drug law; his name and age were not published.
+    - No outcome of the control de detención hearing before the Temuco guarantee court, and no formalised charge, was reported.
+    - It is not stated where or when the passenger was actually taken into custody, only that an arrest order was obtained after the suitcase was opened.
 ---
 
 During a control by the PDI's Brigada Antinarcóticos in Temuco, one of the
 brigade's drug-detection dogs alerted to a passenger at the Terminal Rodoviario,
-the city's interurban bus terminal. [@1] Checking his belongings, detectives
+the city's interurban bus terminal. [@1,2] Checking his belongings, detectives
 found a luggage ticket, and the man said he had got off the bus in Temuco
 without managing to collect his suitcase, which had continued on to Puerto
-Montt. [@1] The procedure ended with the passenger's arrest for drug trafficking
+Montt. [@1,2] The procedure ended with the passenger's arrest for drug trafficking
 and the seizure of the suitcase in Puerto Montt. [@1]
 
 Detectives contacted the bus company and confirmed the luggage was at the
 terminal in Puerto Montt, and with the support of the PDI there, and after a
 judicial authorisation, they opened the suitcase and found 5 kilos 835 grams of
-cannabis. [@1] The police described the load as nearly six kilos of marijuana
+cannabis. [@1,2] The police described the load as nearly six kilos of marijuana
 that had been travelling in an interurban bus. [@1]
 
 The find allowed the authorities to obtain an arrest order against the
 passenger, a Chilean man of full age who, according to the PDI, had police
-records for breaking the drug law. [@1] He was placed at the disposal of
+records for breaking the drug law. [@1,2] He was placed at the disposal of
 Temuco's Juzgado de Garantía for his control de detención, the hearing at which
 a judge reviews an arrest, while the cannabis went to the Servicio de Salud
 Araucanía Sur for analysis. [@1]
-
