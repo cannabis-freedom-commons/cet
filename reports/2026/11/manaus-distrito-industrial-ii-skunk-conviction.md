@@ -66,18 +66,24 @@ sources:
     publisher: 18 Horas
     date: 2026-11-13
     language: pt
+  - title: Réus são condenados por tráfico e associação após apreensão de mais de meia tonelada de maconha, em Manaus
+    url: https://18horas.com.br/amazonas/reus-sao-condenados-por-trafico-e-associacao-apos-apreensao-de-mais-de-meia-tonelada-de-maconha-em-manaus/
+    publisher: 18 Horas
+    date: 2026-11-16
+    language: pt
 open_questions:
   - No street value for the seized skunk was published.
   - The operation account names Jose Ricardo alongside Kristhian at the bank withdrawal, while the sentence names Ricardo Rincon Barbosa, so whether these refer to the same person on different name forms is unclear.
   - No appeal outcome is yet known, although the decision is appealable.
   - G1 illustrates the conviction with a Bill Oxford/Unsplash stock photo of handcuffs, so no photo of this Distrito Industrial II skunk seizure is listed.
+  - The amount withdrawn at the bank is given as R$340,171 in one account and as R$340,100 in another account of the operation, while the forfeited cash is stated as R$340,171.
 ---
 
 The 1st Criminal Court of Manaus convicted three men of association for drug
 trafficking, and two of them also of trafficking, in the case of 889 tablets of
 skunk cannabis seized from a property in Manaus' Distrito Industrial II in
-February this year, in the city's east zone. [@1,2] The judge of the case handed
-the sentence on 12 November 2026. [@1,2] The sentencing judge was Rosália Guimarães Sarmento. [@2] The total load weighed about 959 kg
+February this year, in the city's east zone. [@1,2,3] The judge of the case handed
+the sentence on 12 November 2026. [@1,2] The case was decided by the 1st Specialised Court for Combating Drug Use and Trafficking (1ª Vecute) in Manaus under case number 0032983-66.2026.8.04.1000. [@3] The sentencing judge was Rosália Guimarães Sarmento. [@2,3] The total load weighed about 959 kg
 gross, but the judge used the more favourable net weight of 512.9 kg when fixing
 the sentences. [@1,2]
 
@@ -85,16 +91,16 @@ Roberto Ronero Reis Martins, named as the person who kept the drugs at the
 property, received 14 years and 6 months of imprisonment in a closed regime for
 trafficking, association for trafficking and possession of restricted
 ammunition. [@1,2] Ricardo Rincon Barbosa was sentenced to 10 years, 3 months and
-15 days in a closed regime for trafficking and association. [@1,2] The third
+15 days in a closed regime for trafficking and association. [@1,2] The court recognised the attenuating circumstance in article 56 of Law 6,001/1973 for the second defendant, who self-declared as indigenous, in observance of the Federal Constitution, ILO Convention 169 and CNJ Resolution 287/2019, applying it at the minimum fraction given his degree of integration. [@3] The third
 accused, Kristhian Leandro Hernandez Arvelo, was acquitted of trafficking and
 possession of ammunition but convicted of association for trafficking, receiving
 3 years in an open regime replaced by restrictive rights, with his preventive
-detention revoked. [@1,2]
+detention revoked. [@1,2] The convictions rested on independent evidence including one defendant's judicial confession, forensic examination of the seized phones and court-authorised banking analysis showing million-real movements incompatible with declared incomes. [@3] In her reasoning, the judge excluded digitally obtained information without prior judicial authorisation under the Marco Civil da Internet and limited police reports to corroborating other evidence. [@3]
 
 The sentence also ordered the forfeiture to the federal Union, for the Funad
 national anti-drug fund, of R$340,171 in cash seized from the group, plus the
 pick-up used in the operations and mobile phones, and ordered the drugs
-destroyed. [@1,2]
+destroyed. [@1,2,3]
 
 The police operation began on 7 February 2026, when Denarc monitored a site in
 the Distrito Industrial II by aerial images. [@1,2] On 9 February teams carried
