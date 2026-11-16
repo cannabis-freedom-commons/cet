@@ -57,34 +57,37 @@ sources:
     publisher: يوليو
     date: 2026-11-15
     language: ar
+  - title: المؤبد وغرامة 100 ألف جنيه لمعاون تمريض بتهمة الاتجار في الحشيش الأيس بالقليوبية
+    url: https://www.masrtimes.com/777870
+    publisher: مصر تايمز
+    date: 2026-11-15
+    language: ar
 open_questions:
-  - 15 November 2026 is the publication date of the verdict report and is used as the incident date, since no separate date for the sentence was given.
-  - The 37.4 grams of methamphetamine from the same seizure is excluded from the cannabis weight.
-  - No amount was reported for the seized cash, so no cash figure is given.
-  - Whether the life sentence is final or under appeal was not reported.
-  - The account rests on a single outlet report with no second corroborating source found.
+    - 15 November 2026 is the publication date of the verdict report and is used as the incident date, since no separate date for the sentence was given.
+    - The 37.4 grams of methamphetamine from the same seizure is excluded from the cannabis weight.
+    - No amount was reported for the seized cash, so no cash figure is given.
+    - Whether the life sentence is final or under appeal was not reported.
 ---
 
 Benha Criminal Court's Second Circuit sentenced a 23-year-old nursing assistant
 to life imprisonment and a 100,000 Egyptian pound fine for drug trafficking.
-[@1] The defendant, identified as Shady M. Y., aged 23, lives in the Al-Manshiya
-area of Benha city and was tried in case 22230 of 2025. [@1] The prosecution
+[@1,2] The defendant, identified as Shady M. Y., aged 23, lives in the Al-Manshiya
+area of Benha city and was tried in case 22230 of 2025. [@1] The case was also registered as 4907 of 2025 in North Benha. [@2] The prosecution
 charged him with possessing methamphetamine and hashish for trafficking without
 a legal permit. [@1] The prosecution also charged him with violently resisting
-anti-narcotics officers to prevent his red-handed arrest. [@1]
+anti-narcotics officers to prevent his red-handed arrest. [@1,2]
 
 The chemical laboratory reported that 120 dark pieces weighing 10 kilograms and
-800 grams in total were hashish listed in Schedule One. [@1] The same laboratory
+800 grams in total were hashish listed in Schedule One. [@1,2] The same laboratory
 report found 60 transparent bags holding 37.4 grams in total to be
-methamphetamine, which is excluded from the cannabis total. [@1] Officers also
+methamphetamine, which is excluded from the cannabis total. [@1,2] Officers also
 seized cash and a mobile phone, and the defendant admitted the drugs were for
 trafficking, the money was proceeds and the phone was used to contact users.
 [@1]
 
 Investigators said a confidential tip reported his trafficking, officers found
 him holding a bag and one officer made a test purchase of a brown piece later
-confirmed as hashish. [@1] He resisted the arresting officers with force and
-violence before they overpowered and detained him and seized the bag. [@1] The
+confirmed as hashish. [@1,2] He resisted the arresting officers with force and
+violence before they overpowered and detained him and seized the bag. [@1,2] The
 seizure and arrest took place in Benha in Qalyubia, where the sentencing court
 sits. [@1]
-
