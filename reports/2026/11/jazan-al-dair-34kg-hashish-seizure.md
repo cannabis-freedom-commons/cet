@@ -43,6 +43,11 @@ sources:
     publisher: صحيفة صدى الالكترونية
     date: 2026-11-14
     language: ar
+  - title: حرس الحدود يحبط تهريب 34 كيلوجراماً من الحشيش بجازان ..اخبار محلية
+    url: https://arabic.pressbee.net/show11118862.html?title=%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D9%8A%D8%AD%D8%A8%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-34-%D9%83%D9%8A%D9%84%D9%88%D8%AC%D8%B1%D8%A7%D9%85%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A8%D8%AC%D8%A7%D8%B2%D8%A7%D9%86
+    publisher: برس بي
+    date: 2026-11-14
+    language: ar
 open_questions:
     - The article gives no separate date for the interception; 14 November 2026 is its publication date and is used as the incident date.
     - No suspect was named and no arrest figure, nationality, charge or court outcome was reported.
@@ -51,7 +56,7 @@ open_questions:
 ---
 
 Saudi Border Guard land patrols in the Al-Dair sector of Jazan region foiled an
-attempt to smuggle 34 kilograms of hashish. [@1,2] The Border Guard said in a
+attempt to smuggle 34 kilograms of hashish. [@1,2,3] The Border Guard said in a
 statement on the X platform that the initial legal procedures had been completed
 and the seized drugs handed over to the competent authority. [@1]
 
