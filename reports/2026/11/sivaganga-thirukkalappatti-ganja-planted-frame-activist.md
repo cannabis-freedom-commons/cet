@@ -96,6 +96,10 @@ sources:
     url: https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/15/cpm-seeks-action-against-cop-bar-owner-for-framing-man-in-sivaganga-district
     publisher: The New Indian Express
     date: 2026-11-15
+  - title: 'Planting ganja to frame anti-liquor activist: CPM seeks DGP intervention'
+    url: https://www.dtnext.in/amp/story/news/tamilnadu/planting-ganja-to-frame-anti-liquor-activist-cpm-seeks-dgp-intervention-2
+    publisher: DT Next
+    date: 2026-11-14
 open_questions:
     - No weight, quantity or value of the planted ganja was published, so no cannabis weight is recorded.
     - Accounts differ on whether the officers arrived about two minutes or about five minutes after the packet was placed.
@@ -123,7 +127,7 @@ to frame him. [@1,8,10,13,14]
 
 Rajkumar of Thirukkalappatti, who runs a grocery and e-service shop, led protests against a Tasmac
 liquor outlet and its attached private bar, which villagers said harmed students, women and farmers.
-[@2,13] Villagers had petitioned repeatedly against them [@1], and on 4 November 2026 they blockaded the
+[@2,13,15] Villagers had petitioned repeatedly against them [@1], and on 4 November 2026 they blockaded the
 road demanding the shop's closure; it was temporarily closed and officials promised to move it
 within ten days. [@1,2]
 
@@ -135,7 +139,7 @@ about selling banned goods. [@1,3,5] According to CCTV footage Rajkumar reviewed
 customers and dropped the packet, and two plainclothes prohibition officers arrived in a private
 vehicle about five minutes later. [@1,4,13] Around two minutes later, prohibition wing constable Vignesh and another unidentified person in plain clothes allegedly arrived, threatened to arrest Rajkumar for selling narcotics, and took away the packet after he pointed to the shop CCTV cameras and asked them to verify the footage. [@13] When he showed the officers the footage, they took copies and
 left. [@3] Rajkumar, with CPI(M) district secretary Mohan, party members and villagers, besieged the
-district police headquarters and complained to Superintendent of Police Abhishek Gupta. [@1] Rajkumar had submitted a complaint with relevant details but no case was registered on it, while Vignesh allegedly lodged a complaint claiming Rajkumar was involved, leading to registration of the case in which five persons were arrested. [@13]
+district police headquarters and complained to Superintendent of Police Abhishek Gupta. [@1] Rajkumar had submitted a complaint with relevant details but no case was registered on it, while Vignesh allegedly lodged a complaint claiming Rajkumar was involved, leading to registration of the case in which five persons were arrested. [@13,15]
 
 ## The arrests
 
@@ -150,7 +154,7 @@ Justice Board and sent to an observation home. [@8,9,10]
 
 Additional Superintendent of Police (Prohibition) Francis opened an inquiry into the conduct of the
 local police on Gupta's instructions, while police representatives said the patrolling officers had
-merely responded promptly to information. [@1] In a letter to the DGP on 14 November, CPM state secretary P Shanmugam urged registration of a case against the prohibition enforcement personnel involved and appropriate action. [@13] A senior official told The Times of India that five
+merely responded promptly to information. [@1] In a letter to the DGP on 14 November, CPM state secretary P Shanmugam urged registration of a case against the prohibition enforcement personnel involved and appropriate action. [@13,15] A senior official told The Times of India that five
 people had been arrested and the investigation continued, and denied that police were involved. [@2]
 
 ## Reactions
