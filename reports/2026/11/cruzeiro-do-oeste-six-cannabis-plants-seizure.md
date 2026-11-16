@@ -45,6 +45,11 @@ sources:
     publisher: GoioNews
     date: 2026-11-15
     language: pt
+  - title: 'Operação em Cruzeiro do Oeste: ROTAM localiza plantio de cannabis em residência no centro'
+    url: https://novocantu.com.br/noticia/214976/operacao-em-cruzeiro-do-oeste-rotam-localiza-plantio-de-cannabis-em-residencia-no-centro
+    publisher: Novo Cantu Notícias
+    date: 2026-11-16
+    language: pt
 open_questions:
   - The 23.49 grams is reported as the total for the seized drug, with no stated split between the six plants and the ready-to-use portion.
   - The suspect was not named and no age was published.
@@ -55,21 +60,20 @@ open_questions:
 
 A ROTAM team of the 7th Military Police Battalion seized six cannabis plants and
 a portion of the drug ready for consumption at a residence in central Cruzeiro
-do Oeste. [@1]
+do Oeste. [@1,2]
 
 Officers on patrol to check reports of illegal cannabis cultivation approached a
 man who was leaving the house. [@1] A personal search of the suspect found
 nothing illicit. [@1] When questioned, he admitted that he grew cannabis in the
-residence's yard and authorised the team to enter and check. [@1] The man was
+residence's yard and authorised the team to enter and check. [@1,2] The man was
 taken to the 7th Military Police Battalion headquarters, where a Termo
-Circunstanciado de Infração Penal was drawn up. [@1] He was released after the
-procedures. [@1]
+Circunstanciado de Infração Penal was drawn up. [@1,2] He was released after the
+procedures. [@1,2]
 
 Searches of the property found six cannabis plants, plus a portion of the
-substance sitting on the living-room counter. [@1] The seized drug totalled
-23.49 grams. [@1] The cannabis plants and the portion were seized to be sent to
+substance sitting on the living-room counter. [@1,2] The seized drug totalled
+23.49 grams. [@1,2] The cannabis plants and the portion were seized to be sent to
 the competent authority for the applicable legal steps. [@1]
 
 The occurrence was recorded in the early evening of Saturday the 14th, at about
-17:51. [@1]
-
+17:51. [@1,2]
