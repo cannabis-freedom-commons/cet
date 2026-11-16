@@ -50,6 +50,11 @@ sources:
     publisher: egnomi.gr
     date: 2026-11-16
     language: el
+  - title: 7 συλλήψεις για κοκαΐνη, ηρωίνη, χασίς και δισκία - Fonografos.net
+    url: https://fonografos.net/7-syllipseis-gia-koka%CE%90ni-iroini-chasis-kai-diskia/
+    publisher: Fonografos.net
+    date: 2026-11-15
+    language: el
 open_questions:
     - No weight or amount was published for the raw cannabis, so no cannabis quantity is recorded.
     - The Lamia Report attributes small quantities of cannabis to the three Fthiotida arrests, but the drugs in the other four cases are not broken down by case.
@@ -63,19 +68,19 @@ open_questions:
 ---
 
 Police arrested seven people over the previous three days across the Central
-Greece region during systematic anti-drug checks. [@1,2,3] Those arrested are Greek nationals and the prescribed case files were opened against them. [@4] Three of the arrests were
+Greece region during systematic anti-drug checks. [@1,2,3,5] Those arrested are Greek nationals and the prescribed case files were opened against them. [@4] Three of the arrests were
 in Fthiotida, made by officers of the Lokroi police station's OPKE
 crime-prevention unit, the Lamia drugs squad and the OPKE unit of the same Lamia
-service. [@1,2,3] The three people arrested in Fthiotida were men found possessing small quantities of cannabis. [@2] Two arrests were in Evrytania, made by officers of the B OPKE unit
-of the Karpenisi crime investigation and detection department. [@1,2,3] One arrest
+service. [@1,2,3,5] The three people arrested in Fthiotida were men found possessing small quantities of cannabis. [@2] Two arrests were in Evrytania, made by officers of the B OPKE unit
+of the Karpenisi crime investigation and detection department. [@1,2,3,5] One arrest
 was in Boeotia, made by officers of the OEPTA unit of the Livadeia traffic
-police. [@1,2,3]
+police. [@1,2,3,5]
 
 One arrest was in Evia, made by officers of the B OPKE unit of the Chalkida
-crime investigation and detection department. [@1,2,4] Across seven separate cases,
+crime investigation and detection department. [@1,2,4,5] Across seven separate cases,
 officers seized quantities of heroin, cocaine, raw cannabis and narcotic
-tablets, with no breakdown published of which case involved cannabis. [@1,2,3]
+tablets, with no breakdown published of which case involved cannabis. [@1,2,3,5]
 
 The General Regional Police Directorate of Central Greece said combating drugs
 is a high priority and that the checks continue with the protection of the
-public and young people in mind. [@1,2]
+public and young people in mind. [@1,2,5]
