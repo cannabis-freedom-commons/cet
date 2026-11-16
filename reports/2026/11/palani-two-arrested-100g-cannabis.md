@@ -48,17 +48,15 @@ sources:
     publisher: Dinamani
     date: 2026-11-14
     language: ta
-open_questions:
-  - No date is given for the stop and arrest; 14 November 2026 is the publication date and is used as the incident date.
-  - No charges, court outcome or whether the men were produced in court were reported.
-  - No value estimate or further details about the source of the cannabis were published.
-  - The page's sidebar link to a separate Cuddalore arrest of two youths with cannabis is a different event and is not covered here.
-  - The Dinamalar page carried no usable event photograph of this Palani cannabis arrest.
-  - The stop is described only as happening on a Friday during a vehicle check; no calendar date was stated, and 14 November 2026 is the publication date used as the incident date.
+  - title: கஞ்சா பறிமுதல் இருவர் கைது
+    url: https://www.dinamalar.com/news/tamil-nadu-district-news-dindigul/two-arrested-for-confiscating-cannabis/4376542
+    publisher: தினமலர்
+    date: 2026-11-15
+    language: ta
 ---
 
 Town police in Palani stopped two men who were standing near the Palani
-municipal school while on a patrol and questioned them. [@1,2] The check was a Friday vehicle inspection on the Palani-Dindigul road led by Palani town station inspector Thanga Muniyasamy. [@2] Police identified
-the men as two local youths and found they were in possession of cannabis. [@1] The two were identified as 21-year-old Balpandi, son of Manikandan, and 19-year-old Rishi, son of Ashok, both from Palani, and police said they held the cannabis for sale. [@2]
+municipal school while on a patrol and questioned them. [@1,2,3] The check was a Friday vehicle inspection on the Palani-Dindigul road led by Palani town station inspector Thanga Muniyasamy. [@2] Police identified
+the men as two local youths and found they were in possession of cannabis. [@1,3] The two were identified as 21-year-old Balpandi, son of Manikandan, and 19-year-old Rishi, son of Ashok, both from Palani, and police said they held the cannabis for sale. [@2]
 
-Officers arrested the two and seized 100 grams of cannabis from them. [@1,2]
+Officers arrested the two and seized 100 grams of cannabis from them. [@1,2,3]
