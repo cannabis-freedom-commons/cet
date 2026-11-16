@@ -48,6 +48,11 @@ sources:
     publisher: Кворум Силистра
     date: 2026-11-16
     language: bg
+  - title: 22-годишен е задържан с канабис и растения в дуловското село Яребица – Новини Силистра
+    url: https://silistranews.net/2026/11/16/22-godishen-e-zadarzhan-s-kanabis-i-rasteniya-v-dulovskoto-selo-yarebitsa
+    publisher: Silistra News
+    date: 2026-11-16
+    language: bg
 open_questions:
   - The cannabis identification rests on a field test only; no laboratory confirmation was reported.
   - No court outcome, charge status beyond the opened pre-trial proceedings, or identity beyond age was reported.
@@ -56,13 +61,12 @@ open_questions:
 Police detained a 22-year-old man during a check in the village of Yarebitsa,
 Dulovo municipality, after a narcotic substance and plants were found in a home
 he occupied, according to the Silistra regional police directorate. [@1] The
-check was carried out on 14 November. [@1]
+check was carried out on 14 November. [@1,2]
 
 Officers found 5.22 grams of dry leaf matter that reacted to cannabis in a field
-test. [@1] Officers also found four plants of the same type in the dwelling, at
-an early stage of growth. [@1] The substances and plants were seized and the
-22-year-old was held in police custody for up to 24 hours. [@1]
+test. [@1,2] Officers also found four plants of the same type in the dwelling, at
+an early stage of growth. [@1,2] The substances and plants were seized and the
+22-year-old was held in police custody for up to 24 hours. [@1,2]
 
 The Dulovo district police office opened pre-trial proceedings for unlawful
-possession of a high-risk narcotic substance. [@1]
-
+possession of a high-risk narcotic substance. [@1,2]
