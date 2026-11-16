@@ -81,19 +81,24 @@ sources:
     publisher: IraklioNews
     date: 2026-11-15
     language: el
+  - title: 'Θεσσαλονίκη: 21χρονοι έκρυβαν πάνω από 2 κιλά κάνναβης σε βαλίτσα – Συνελήφθη 40χρονος στο Πανόραμα'
+    url: https://www.makeleio.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%B1%CE%B9%CF%81%CE%BF%CF%84%CE%B7%CF%84%CE%B1/thessaloniki-21chronoi-ekryvan-pano-apo-2-kila-kannavis-se-valitsa-synelifthi-40chronos-sto-panorama/
+    publisher: Makeleio.gr
+    date: 2026-11-15
+    language: el
 ---
 
 Officers of police Team Z arrested two 21-year-olds carrying cannabis in a
 suitcase on Agiou Dimitriou street in Thessaloniki on the evening of 14 November
-2026. [@1,3,4,5,6,7,8,9] The two 21-year-olds were found jointly holding two cannabis packages
-weighing 0.85 grams in total. [@2,4,5,6,7,8,9] In a separate case on the morning of 14
+2026. [@1,3,4,5,6,7,8,9,10] The two 21-year-olds were found jointly holding two cannabis packages
+weighing 0.85 grams in total. [@2,4,5,6,7,8,9,10] In a separate case on the morning of 14
 November 2026, officers of the Crime Prevention and Suppression Division
-arrested a 40-year-old in the Panorama area. [@1,3,4,6,7,8,9] Case files were prepared
+arrested a 40-year-old in the Panorama area. [@1,3,4,6,7,8,9,10] Case files were prepared
 against the three detainees, who were to be taken before the competent judicial
-authorities. [@1,3,4,5,6,7,8,9]
+authorities. [@1,3,4,5,6,7,8,9,10]
 
-The suitcase held cannabis packages weighing 2,108 grams in total. [@2,3,4,6] The
+The suitcase held cannabis packages weighing 2,108 grams in total. [@2,3,4,6,10] The
 40-year-old was found with a 1.4-gram cannabis package and handed over seven
-more cannabis packages weighing 638 grams that he kept in his home. [@1,3,4,5,6,8,9] A later
+more cannabis packages weighing 638 grams that he kept in his home. [@1,3,4,5,6,8,9,10] A later
 search of his home seized hydroponic-cultivation equipment and a Flobert-type
-hunting rifle that he held without a licence. [@1,3,4,5,6,7,8,9]
+hunting rifle that he held without a licence. [@1,3,4,5,6,7,8,9,10]
