@@ -65,25 +65,37 @@ sources:
     publisher: Gazeta Krakowska
     date: 2026-11-16
     language: pl
+  - title: Podpalenie lokalu w Nowym Targu. Zatrzymano pięciu mieszkańców powiatu kraśnickiego - ESKA.pl
+    url: https://www.eska.pl/news/podpalenie-lokalu-w-nowym-targu-zatrzymano-pieciu-mieszkancow-powiatu-krasnickiego-aa-a35v-g1Lk-RsNV.html
+    publisher: ESKA.pl
+    date: 2026-11-16
+    language: pl
+open_questions:
+    - The marijuana weight is stated only as more than 1.6 kg, so 1.6 kg is a minimum rather than an exact weight.
+    - The sources do not say where the marijuana, hemp bushes and ammunition were found or in which of the three operations they were secured.
+    - No laboratory confirmation of the suspected marijuana is reported.
+    - No value estimate, plant size, or breakdown of the drugs and charges by suspect was published.
+    - No court outcome beyond the three-month temporary arrests was reported.
+    - All published accounts of the case reproduce the same Małopolska Police statement, so no independent reporting of the seizures exists.
 ---
 
 Criminal officers from the Nowy Targ district police, working with detectives
 from Kraśnik, detained five men during the investigation into the arson of
-premises holding illegal gambling machines. [@1,2,4] Four of those detained are
-suspected of a direct connection with that arson. [@1] The arson happened on 16
-July this year in Nowy Targ. [@1,3] All five detainees are residents of Kraśnik
-district and were detained in three operations. [@1]
+premises holding illegal gambling machines. [@1,2,4,5] Four of those detained are
+suspected of a direct connection with that arson. [@1,5] The arson happened on 16
+July this year in Nowy Targ. [@1,3,5] All five detainees are residents of Kraśnik
+district and were detained in three operations. [@1,5]
 
 The first detention took place on 2 September and the next operations were
-carried out on 24 September and 4 November this year. [@1,4] During the operations
-officers secured more than 1,600 grams of marijuana. [@1,2,4] Officers also
+carried out on 24 September and 4 November this year. [@1,4,5] During the operations
+officers secured more than 1,600 grams of marijuana. [@1,2,4,5] Officers also
 eliminated the cultivation of eight non-fibre hemp bushes and revealed a place
-where drugs were produced. [@1,3,4] Officers additionally secured 11 pieces of
-firearm ammunition. [@1,4]
+where drugs were produced. [@1,3,4,5] Officers additionally secured 11 pieces of
+firearm ammunition. [@1,4,5]
 
 Investigators found the suspects were also linked to the arson of another
-premises with illegal gambling machines in Lublin voivodeship. [@1] The
+premises with illegal gambling machines in Lublin voivodeship. [@1,5] The
 detainees were charged according to their established roles, including causing a
 fire, drug offences, breaching a court-ordered ban, illegal possession of
-ammunition and forgery of documents. [@1] Three of the suspects were placed in
-temporary arrest for three months. [@1,2,4]
+ammunition and forgery of documents. [@1,5] Three of the suspects were placed in
+temporary arrest for three months. [@1,2,4,5]
