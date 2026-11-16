@@ -48,29 +48,33 @@ sources:
     publisher: Andalucía Información
     date: 2026-11-16
     language: es
+  - title: 'Granada: Detenido con 30 bolsas pequeñas de droga listas para la venta: MDMA, cocaína, hachís y marihuana'
+    url: https://www.motrildigital.news/granada-detenido-con-30-bolsas-de-droga-listas-para-la-venta-mdma-cocaina-hachis-y-marihuana
+    publisher: Motril Digital
+    date: 2026-11-16
+    language: es
 open_questions:
-  - The article gives the time of the stop as about two in the morning but no calendar date for it; 16 November 2026 is the publication date and is used as the incident date.
-  - The cannabis weights are given as more than 22 grams of hashish and about 38 grams of marijuana buds, so 0.06 kg is an approximate total.
-  - The MDMA (over 7 grams), rock cocaine (3.4 grams) and 155 euros seized in the same search are excluded from the cannabis figures.
-  - The account names no specific police force beyond a police patrol, and no court outcome beyond referral to the judge was reported.
-  - The whole account rests on this single article, which appears to reproduce a police statement without independent corroboration.
+    - The article gives the time of the stop as about two in the morning but no calendar date for it; 16 November 2026 is the publication date and is used as the incident date.
+    - The cannabis weights are given as more than 22 grams of hashish and about 38 grams of marijuana buds, so 0.06 kg is an approximate total.
+    - The MDMA (over 7 grams), rock cocaine (3.4 grams) and 155 euros seized in the same search are excluded from the cannabis figures.
+    - No court outcome beyond referral to the judge was reported.
+    - Both accounts appear to reproduce a police statement without independent corroboration.
 ---
 
 Police in Granada detained a 29-year-old man and placed him at the disposal of
 the judicial authority after catching him in a leisure zone in the city centre
 with 30 small bags holding MDMA, hashish, rock cocaine and dried marijuana buds.
-[@1] The stop happened at about two in the morning, when a police patrol running
+[@1] The arresting officers were agents of the National Police. [@2] The stop happened at about two in the morning, when a police patrol running
 a crime-prevention and public-safety operation spotted a suspicious individual
 standing at the entrance of a venue in the Centro district leisure zone. [@1] As
 officers approached, they noticed a strong smell of marijuana coming from the
 fanny pack the man was carrying and carried out a detailed inspection. [@1]
 
 Inside the fanny pack officers found 30 small transparent hermetically sealed
-bags. [@1] Seven of the bags held MDMA weighing more than 7 grams. [@1] Another
+bags. [@1,2] Seven of the bags held MDMA weighing more than 7 grams. [@1] Another
 seven held hashish totalling more than 22 grams. [@1] Three more held 3.4 grams
-of rock cocaine, and 13 held dried marijuana buds weighing about 38 grams. [@1]
+of rock cocaine, and 13 held dried marijuana buds weighing about 38 grams. [@1,2]
 
 Officers also seized 155 euros in banknotes of different denominations from him.
 [@1] He was detained as the alleged perpetrator of an offence against public
 health and placed at the disposal of the corresponding judge. [@1]
-
