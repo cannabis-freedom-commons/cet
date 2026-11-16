@@ -68,6 +68,11 @@ media:
     media_url: https://cdn.muglagazetesi.com.tr/gallery/2026/11/193/WhatsApp%20Image%202026-11-15%20at%2021.09.54%20_1_.jpeg
     publisher: Muğla Gazetesi
     caption: 'Table of items listed by police: synthetic pills, cocaine, methamphetamine, cannabis, resin cannabis, 45 plants, a weapon and cash.'
+  - kind: photo
+    url: https://bodrumolay.com/evde-cadir-kurup-kenevir-yetistirdiler-7-kisi-tutuklandi/
+    media_url: https://bodrumolay.com/wp-content/uploads/2026/11/Ekran-Resmi-2026-11-16-18.03.09-750x375.png
+    publisher: Bodrum Olay Gazetesi
+    caption: Narcotics police detaining suspects during a home search in the Marmaris operations.
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 5fa0aa779e315c0571e26b25444e6144
@@ -88,6 +93,11 @@ sources:
     publisher: Fethiye TV
     date: 2026-11-16
     language: tr
+  - title: Evde çadır kurup kenevir yetiştirdiler! 7 kişi tutuklandı
+    url: https://bodrumolay.com/evde-cadir-kurup-kenevir-yetistirdiler-7-kisi-tutuklandi/
+    publisher: Bodrum Olay Gazetesi
+    date: 2026-11-16
+    language: tr
 open_questions:
   - No separate dates were published for the individual raids; 15 November 2026 is used as the incident date as the end of the stated 1-15 November operation period and the publication date.
   - No names, ages, charges, pleas or outcomes were published for the three detained suspects who were not remanded.
@@ -100,17 +110,17 @@ open_questions:
 Marmaris District Police Directorate teams and Narcotics Bureau teams carried
 out joint work against drug trade in Marmaris between 1 and 15 November. [@1,3]
 Officers detained a total of 10 suspects during the operations and searches.
-[@1,2,3] After police procedures the suspects were referred to the courthouse, and
-the court remanded 7 of them to prison. [@1,2,3]
+[@1,2,3,4] After police procedures the suspects were referred to the courthouse, and
+the court remanded 7 of them to prison. [@1,2,3,4]
 
-Officers found cannabis being grown in a tent set up inside a home. [@1,2,3] The
-searches seized 68.96 grams of cannabis. [@1,2,3] The searches seized 4.39 grams of
-resin cannabis. [@1,2,3] The searches seized 45 cannabis plants. [@1,2,3] The same
+Officers found cannabis being grown in a tent set up inside a home. [@1,2,3,4] The
+searches seized 68.96 grams of cannabis. [@1,2,3,4] The searches seized 4.39 grams of
+resin cannabis. [@1,2,3,4] The searches seized 45 cannabis plants. [@1,2,3,4] The same
 searches seized 258 synthetic pills, which are excluded from the cannabis
 figures. [@1] The same searches seized 10 grams of cocaine, which is excluded
 from the cannabis figures. [@1] The same searches seized 6.66 grams of
 methamphetamine, which is excluded from the cannabis figures. [@1]
 
-Officers also seized one unlicensed weapon. [@1,2,3] Officers also seized 17,900
-Turkish lira assessed as proceeds of crime. [@1,2,3] Police said their work to
+Officers also seized one unlicensed weapon. [@1,2,3,4] Officers also seized 17,900
+Turkish lira assessed as proceeds of crime. [@1,2,3,4] Police said their work to
 prevent drug trade would continue with determination. [@1]
