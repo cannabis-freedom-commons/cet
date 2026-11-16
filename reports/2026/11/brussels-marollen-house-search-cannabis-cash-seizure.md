@@ -48,6 +48,11 @@ sources:
     publisher: HLN
     date: 2026-11-16
     language: nl
+  - title: 'Un dealer interpellé dans les Marolles : la police met la main sur 50.000 euros et un stock de drogue'
+    url: https://www.dhnet.be/regions/bruxelles/2026/11/16/un-dealer-interpelle-dans-les-marolles-la-police-met-la-main-sur-50000-euros-et-un-stock-de-drogue-RS6MH5X3ZZFQXIPZSHFTMCU6AA/
+    publisher: La DH/Les Sports+
+    date: 2026-11-16
+    language: fr
 open_questions:
   - The cannabis resin was described only as just over half a kilogram, so the 0.557 kg total is approximate.
   - No separate date was given for the house search; 6 November 2026, the date of the observed deal that triggered it, is used as the incident date.
@@ -58,17 +63,16 @@ open_questions:
 
 Detectives from the Brussels Capital Ixelles police zone saw two people exchange
 something in what looked like a drug deal in the Marollen on Friday 6 November
-and stopped both for checks. [@1] The buyer had just bought one gram of cocaine
-for 20 euros and received an immediate 300-euro settlement for it. [@1] The
+and stopped both for checks. [@1,2] The buyer had just bought one gram of cocaine
+for 20 euros and received an immediate 300-euro settlement for it. [@1,2] The
 suspected seller was carrying cash and a small amount of cocaine and was taken
-away for questioning. [@1]
+away for questioning. [@1,2]
 
 Police said the man was already known for similar offences, after which
 detectives carried out a house search in the centre of Brussels. [@1] Officers
 found 49,475 euros in cash in various denominations and just over half a
-kilogram of cannabis resin. [@1] Officers also seized 57 grams of cannabis and
-0.77 grams of cocaine. [@1]
+kilogram of cannabis resin. [@1,2] Officers also seized 57 grams of cannabis and
+0.77 grams of cocaine. [@1,2]
 
 After questioning, the suspect was placed at the disposal of the prosecutor.
-[@1]
-
+[@1,2]
