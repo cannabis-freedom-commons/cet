@@ -50,6 +50,11 @@ sources:
     publisher: Folha de Dourados
     date: 2026-11-15
     language: pt
+  - title: Onix é apreendido com carregamento de maconha na região central de Dourados | Fátima News
+    url: https://www.fatimanews.com.br/policial/onix-e-apreendido-com-carregamento-de-maconha-na-regiao-central-de-dourados/1003098/
+    publisher: Fátima News
+    date: 2026-11-14
+    language: pt
 open_questions:
   - 'The two accounts differ on where the pursuit began and where the drugs came from: JD1 says Rua W17 in Jardim Agua Boa and drugs fetched in Ponta Pora, while the fuller police-record account says Rua Frei Antonio near Canaa III and a loaded car collected at a BR-463 fuel station in Dourados.'
   - The driver is described only as a young man, with no name or age published, and no charge, custody decision or court outcome was reported.
@@ -57,9 +62,9 @@ open_questions:
 ---
 
 Military police arrested a young driver in Dourados on 14 November 2026 after a
-pursuit that ended in Parque das Nacoes II. [@1] Officers of the Radio Patrulha
+pursuit that ended in Parque das Nacoes II. [@1,3] Officers of the Radio Patrulha
 of the 3rd Battalion arrested the driver after chasing the white Chevrolet Onix
-through city streets. [@1] The chase ended in Parque das Nacoes II when the
+through city streets. [@1,3] The chase ended in Parque das Nacoes II when the
 driver stopped on Rua Flavio Seabra Calixto at the crossing with Rua S4. [@2]
 After stopping, the driver got out, lay on the ground with his hands on his head
 and shouted that he had lost. [@2]
@@ -73,9 +78,8 @@ The driver was arrested in the act and taken to the Depac community emergency
 station, where the drug was weighed. [@2] The man, the vehicle and all the drugs
 were handed over to the Civil Police to investigate the case. [@2] In the JD1
 account, the driver told police he had collected the drugs in Ponta Pora and the
-load was to be delivered in Dourados. [@1] In the fuller account, the man said
+load was to be delivered in Dourados. [@1,3] In the fuller account, the man said
 he owed R$5,000 to people involved in crime and had been ordered to collect the
 already loaded car. [@2] That account says he was told to collect the already
 loaded car at a fuel station on the BR-463 in Dourados and keep it at his home
 awaiting instructions. [@2]
-
