@@ -1,6 +1,8 @@
 // Retired duplicate URLs and codes keep pointing to their canonical report.
 export default {
   "slugs": {
+    "palma-five-arrested-60kg-hashish-2kg-cocaine": "marratxi-three-arrests-50kg-hashish",
+    "vidisha-byochi-104kg-ganja-arrest": "vidisha-byauchi-quintal-ganja-raid",
     "eastern-province-aderisawi-hashish-execution-2014": "saudi-iranian-hashish-execution-2014",
     "mersin-street-dealers-seven-jailed-esrar-synthetic-2026": "mersin-seven-jailed-28g-esrar",
     "canaries-6044kg-dutch-network-2023": "canary-sailboat-6044kg-hashish-2023",
@@ -157,6 +159,8 @@ export default {
     "kuala-lumpur-thai-businessmen-death-sentence-2008": "my-kl-masoh-romuelee-acquittal-2009"
   },
   "codes": {
+    "ZT0PHC": "marratxi-three-arrests-50kg-hashish",
+    "AYW16K": "vidisha-byauchi-quintal-ganja-raid",
     "D8TKPG": "saudi-iranian-hashish-execution-2014",
     "6EVC3C": "mersin-seven-jailed-28g-esrar",
     "TWXFE6": "canary-sailboat-6044kg-hashish-2023",
