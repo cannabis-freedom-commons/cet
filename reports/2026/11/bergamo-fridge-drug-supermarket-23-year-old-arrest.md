@@ -118,6 +118,11 @@ sources:
     publisher: Gazeta Online Reporteri.net
     date: 2026-11-14
     language: en
+  - title: 'Bergamo, 15 kg di droga e oltre 10.000 euro in casa: arrestato albanese'
+    url: https://www.imolaoggi.it/2026/11/14/bergamo-15-kg-di-droga-in-casa-arrestato/
+    publisher: Imola Oggi
+    date: 2026-11-14
+    language: it
 media:
   - kind: video
     url: https://primabergamo.it/cronaca/in-casa-aveva-un-vero-e-proprio-supermercato-della-droga-23enne-arrestato-dalla-polizia-di-bergamo/
@@ -135,7 +140,7 @@ open_questions:
 ---
 
 Bergamo State Police investigators from the Squadra Mobile arrested a
-23-year-old on 10 November in Bergamo. [@1,4,5,9,10,15] A second account describes the
+23-year-old on 10 November in Bergamo. [@1,4,5,9,10,15,16] A second account describes the
 23-year-old as an Italian of Albanian origin. [@2,4,6,9,10,13] He was arrested for
 possession of narcotics with intent to deal. [@1,8] The arrest was later validated
 by the judicial authority, which ordered a restrictive precautionary measure
@@ -146,11 +151,11 @@ drug storage place. [@1,4,6,7,9,10,11,12,14,15] A fridge and thermal bags had be
 containers for keeping the drugs, evidently to limit the smell and make
 detection harder. [@1,9,10] Different hashish varieties were divided by type into
 individually sealed, labelled jars arranged in order inside the fridge like a
-supermarket display. [@1,4,5,8,9,10,11,12,14,15] Officers also found numerous vaporizers used for
+supermarket display. [@1,4,5,8,9,10,11,12,14,15,16] Officers also found numerous vaporizers used for
 taking drug extracts through e-cigarettes. [@1,4,6,11,12,14,15]
 
 They seized more than 10,000 euros in cash believed to be proceeds of dealing,
-and all the material found was placed under seizure. [@1,4,6,10,13,15] Police said the
+and all the material found was placed under seizure. [@1,4,6,10,13,15,16] Police said the
 operation removed a large quantity of drugs from the market and stopped an
 organised possession and distribution activity run in a particularly structured
 way. [@1] The LaPresse account carried by Il Sole 24 Ore gives the same core
