@@ -55,6 +55,11 @@ sources:
     publisher: Bhaskar Hindi
     date: 2026-11-15
     language: hi
+  - title: चरस तस्कर को 10 साल की सजा, एक लाख रुपये का जुर्माना, तस्करी में इस्तेमाल टाटा 407 वाहन भी जब्त | Hashish trafficker sentenced 10 years 1 lakh fine Tata 407 vehicle seized
+    url: https://www.thejbt.com/india/delhi/hashish-trafficker-sentenced-10-years-1-lakh-fine-tata-407-vehicle-seized-news-321934
+    publisher: Janbhawna Times
+    date: 2026-11-15
+    language: hi
 open_questions:
   - The report gives the sentencing date as 12 November and was published on 15 November 2026; the date of the original roadside seizure and arrest was not stated.
   - The convict's name is rendered as Qayum Khan, with the alias Quem Khan in brackets; the correct transliteration is uncertain.
@@ -64,20 +69,19 @@ open_questions:
 
 A special NDPS court in Ludhiana, Punjab, on 12 November sentenced Himachal
 Pradesh truck driver Qayum Khan to 10 years of rigorous imprisonment for
-interstate drug trafficking. [@1] Special Judge Ranjeev Kumar Vishisht accepted
-the NCB Chandigarh zonal unit's case when passing the sentence on Khan. [@1] The
+interstate drug trafficking. [@1,2] Special Judge Ranjeev Kumar Vishisht accepted
+the NCB Chandigarh zonal unit's case when passing the sentence on Khan. [@1,2] The
 court convicted him under section 20(b)(ii)(C) of the NDPS Act, 1985, and also
 imposed a fine of 100,000 rupees, with one additional year of rigorous
-imprisonment if the fine is not paid. [@1] The court also ordered the vehicle to
-be confiscated under section 60 of the NDPS Act, 1985. [@1]
+imprisonment if the fine is not paid. [@1,2] The court also ordered the vehicle to
+be confiscated under section 60 of the NDPS Act, 1985. [@1,2]
 
 Acting on specific intelligence, an NCB team stopped a Tata 407 tempo at Ladowal
 toll plaza in Ludhiana and recovered 16.470 kilograms of charas concealed in the
-rear of the vehicle. [@1] Khan, a resident of Chamba district in Himachal
+rear of the vehicle. [@1,2] Khan, a resident of Chamba district in Himachal
 Pradesh also identified as Quem Khan, was arrested at the time of the recovery.
-[@1] The Central Revenue Control Laboratory in New Delhi later confirmed that
-the seized substance was charas. [@1]
+[@1,2] The Central Revenue Control Laboratory in New Delhi later confirmed that
+the seized substance was charas. [@1,2]
 
 The non-payment condition means Khan faces one more year of rigorous
 imprisonment if he defaults on the fine. [@1]
-
