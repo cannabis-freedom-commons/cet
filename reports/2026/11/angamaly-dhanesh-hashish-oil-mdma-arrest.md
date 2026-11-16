@@ -113,15 +113,21 @@ sources:
     publisher: Mathrubhumi
     date: 2026-11-11
     language: ml
+  - title: Award-winning young farmer arrested for smuggling drugs hidden in bananas - Newswav
+    url: https://newswav.com/article/award-winning-young-farmer-arrested-for-smuggling-drugs-hidden-in-bananas-A2611_VXNR6e
+    publisher: Newswav
+    date: 2026-11-11
+open_questions:
+  - Accounts differ on whether the Best Young Farmer award was given in 2022 or 2023.
 ---
 
 Police arrested Dhanesh S Nair, 31, known as Danny or Danny Bhai, the alleged main accused of a network
-that smuggled MDMA from Bengaluru into Kerala, at Angamaly in Ernakulam district. [@1,6,7,8,9,12,13] Police
+that smuggled MDMA from Bengaluru into Kerala, at Angamaly in Ernakulam district. [@1,6,7,8,9,12,13] He was currently living near Mysuru in neighbouring Karnataka state. [@15] Police
 gave his home as Parayil house in Vayyapuram village, near Harippad. [@5,7] A special investigation
 team led by Aluva Deputy Superintendent of Police Baiju Paulos, with the inspectors of the Angamaly
 and Nedumbassery stations, caught him after seeing him loitering near the Angamaly railway gate.
 [@1,4,6,8,11] Officers seized 803 grams of hashish oil from him, the only cannabis product counted here,
-and eight grams of MDMA. [@1,4,5,6,8,9,12,13] Police said Dhanesh had close links with Nigerian drug syndicates. [@13]
+and eight grams of MDMA. [@1,4,5,6,8,9,12,13,15] Police said Dhanesh had close links with Nigerian drug syndicates. [@13,15]
 
 ## The banana trade
 
@@ -133,7 +139,7 @@ and sell the drugs [@1], coordinating sales through Instagram and using couriers
 on his phones showed how the drugs were hidden in the bunches. [@1,5,12]
 
 The lead came from the phone of Harikrishnan, arrested a day earlier at a lodge in Aluva with 185 grams
-of MDMA. [@2,4,5,6,8,10] He and Shinu Sebastian, arrested with seven grams of MDMA at Thoppumpady in Kochi,
+of MDMA. [@2,4,5,6,8,10,15] The two associates had brought the drugs from Tamil Nadu to Kerala on a tourist bus hidden inside a banana bunch for sale in Ernakulam and Aluva. [@15] He and Shinu Sebastian, arrested with seven grams of MDMA at Thoppumpady in Kochi,
 sold the drugs on Dhanesh's instructions through an Instagram account named Danny Bhai and passed the
 proceeds to his accounts, police said. [@1] The investigation then widened into Tamil Nadu and Karnataka
 under District Police Chief K S Sudarshan, and the team said it had broken the main supply line from the
