@@ -49,6 +49,11 @@ media:
     media_url: https://www.hindusthansamachar.in/Encyc/2026/11/15/474329d3dccc806262c40e6a8d6687c3_871554110_H@@IGHT_0_W@@IDTH_600.jpg
     publisher: Hindusthan Samachar
     caption: 'Cannabis seized by police in the Dhar field operation. Photo: Hindusthan Samachar'
+  - kind: photo
+    url: https://www.krishakjagat.org/news/illegal-cannabis-cultivation-unearthed-in-dhar-230-plants-worth-rs-1-74-crore-seized/
+    media_url: https://www.krishakjagat.org/wp-content/uploads/2026/11/MP-5.jpg.webp
+    publisher: Krishak Jagat
+    caption: Cannabis plants seized in the Dhar field operation.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: edf9634ce37d27d1e9d43f81abc11023
@@ -69,21 +74,26 @@ sources:
     publisher: Khabar Digital
     date: 2026-11-16
     language: hi
+  - title: धार में गांजे की अवैध खेती का पर्दाफाश, 1.74 करोड़ रुपये के 230 पौधे जब्त
+    url: https://www.krishakjagat.org/news/illegal-cannabis-cultivation-unearthed-in-dhar-230-plants-worth-rs-1-74-crore-seized/
+    publisher: Krishak Jagat
+    date: 2026-11-16
+    language: hi
 ---
 
 Dhar police raided a field in Bariya Naipura village in the Manawar
 police-station area after an informant told Umarban outpost police that cannabis
-was being illegally cultivated there. [@1,2,3] Umarban outpost police received the informant tip on 13 November. [@3] Officers searched the field and found
+was being illegally cultivated there. [@1,2,3,4] Umarban outpost police received the informant tip on 13 November. [@3] Officers searched the field and found
 230 live cannabis plants growing mixed between cotton and tuar (pigeon pea)
-crops, which they formally seized. [@1,2,3] Police arrested the field owner,
+crops, which they formally seized. [@1,2,3,4] Police arrested the field owner,
 36-year-old Dinesh Muvel of Badiya village, at the scene. [@1,2]
 
-The seized plants weighed 698 kg in total, reported as 6 quintals 98 kg. [@1,2,3]
+The seized plants weighed 698 kg in total, reported as 6 quintals 98 kg. [@1,2,3,4]
 Police estimated their value at 17,450,000 rupees, reported as 1 crore 74 lakh
-50 thousand rupees. [@1,2,3]
+50 thousand rupees. [@1,2,3,4]
 
 The action was carried out under Operation Prahar by Manawar and Umarban police
 under the direction of Dhar superintendent of police Sachin Sharma, as briefed
 by police headquarters on Sunday. [@1] Police registered a case against the
 accused under the NDPS Act and said further legal proceedings were under way.
-[@1,2,3]
+[@1,2,3,4]
