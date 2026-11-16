@@ -48,30 +48,28 @@ sources:
     publisher: CNBC Indonesia
     date: 2026-11-15
     language: id
-open_questions:
-  - No weight was published for the two packets of ganja, so no cannabis kilogram figure can be recorded.
-  - The ganja was described only as suspected narcotics in a bag and packets ready for distribution, with no laboratory confirmation reported.
-  - No identities, ages or genders were published for the four suspects, and no charges or court outcome were reported.
-  - About 2,800 pills and synthetic tobacco or sinte from the same search are excluded from the cannabis figures, and combined totals are not counted as cannabis.
-  - One account gives the location as Desa Cileungsi while a more detailed account gives Kampung Cibeureum, Desa Cileungsi Kidul; the report uses the more detailed location.
+  - title: Dikira Penjual Bakso Keliling, Ternyata Kapolsek Cileungsi Sedang Memburu Pengedar Narkoba
+    url: https://bantenraya.co/berita/dikira-penjual-bakso-keliling-ternyata-kapolsek-cileungsi-sedang-memburu-pengedar-narkoba/
+    publisher: Bantenraya.co
+    date: 2026-11-14
+    language: id
 ---
 
 Kapolsek Cileungsi Kompol Edison led an undercover operation in which officers
 posed as travelling bakso sellers to expose drug dealing that troubled
-residents. [@2] The operation took place in Kampung Cibeureum, Desa Cileungsi
+residents. [@2,3] The operation took place in Kampung Cibeureum, Desa Cileungsi
 Kidul, Kecamatan Cileungsi, Kabupaten Bogor. [@2] Officers arrested four people
 suspected of involvement in the distribution of illicit drugs and narcotics.
-[@1] The arrests occurred on Saturday, 14 November 2026, when four suspected
+[@1,3] The arrests occurred on Saturday, 14 November 2026, when four suspected
 dealers were detained with evidence. [@1]
 
 After the arrests officers searched the area and found illicit drugs in plastic
 bags and ganja stored in a bag belonging to the suspects. [@1] The cannabis
-evidence comprised two packets of ganja prepared for distribution. [@1] Officers
+evidence comprised two packets of ganja prepared for distribution. [@1,3] Officers
 also seized about 2,800 pills of illicit drugs and synthetic tobacco known as
-sinte, which are not counted as cannabis. [@1]
+sinte, which are not counted as cannabis. [@1,3]
 
 After the arrests the four suspects and all the evidence were taken to Mapolsek
 Cileungsi for initial examination. [@2] The four suspects and all the evidence
 were then handed to the Satuan Reserse Narkoba of Polres Bogor for further
-investigation and legal process. [@1]
-
+investigation and legal process. [@1,3]
