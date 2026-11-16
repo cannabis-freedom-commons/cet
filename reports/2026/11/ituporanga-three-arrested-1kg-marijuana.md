@@ -51,27 +51,31 @@ sources:
     publisher: Rádio Mirador
     date: 2026-11-16
     language: pt
+  - title: Três homens são presos com 1 quilo de maconha e 103 gramas de cocaína em Ituporanga
+    url: https://ajnoticias.com.br/noticia/59666/tres-homens-sao-presos-com-1-quilo-de-maconha-e-103-gramas-de-cocaina-em-ituporanga
+    publisher: AJ Notícias
+    date: 2026-11-16
+    language: pt
 open_questions:
-  - No names, ages or other identifying details of the three arrested men were published.
-  - The 103 grams of cocaine seized in the same stop is excluded from the cannabis figures.
-  - No custody decision, charge filing or court outcome was reported beyond the men being taken to the police station.
-  - The whole account rests on a single outlet report reproducing the Ituporanga Military Police statement.
+    - No names, ages or other identifying details of the three arrested men were published.
+    - The 103 grams of cocaine seized in the same stop is excluded from the cannabis figures.
+    - No custody decision, charge filing or court outcome was reported beyond the men being taken to the Civil Police station.
+    - Both the Mirador and AJ Noticias accounts reproduce the Ituporanga Military Police statement rather than independent reporting.
 ---
 
 Military Police arrested three men for drug trafficking at about 21:45 on Sunday
-15 November 2026 during routine patrol in Ituporanga. [@1] The patrol spotted a
+15 November 2026 during routine patrol in Ituporanga. [@1,2] The patrol spotted a
 vehicle whose driver had already been the subject of earlier complaints linked
-to drug dealing. [@1]
+to drug dealing. [@1] The vehicle spotted by the patrol was a Fiat Palio whose driver had previously been reported for selling drugs. [@2]
 
 When the occupants saw the police car approaching, they threw a plastic bag out
-of the car window. [@1] Officers stopped the vehicle and checked the bag,
-finding drugs described as marijuana and cocaine. [@1] The three men inside the
+of the car window. [@1,2] Officers stopped the vehicle and checked the bag,
+finding drugs described as marijuana and cocaine. [@1,2] The three men inside the
 vehicle were approached and identified, then arrested and taken to the police
 station. [@1] Those involved were arrested in flagrante and taken to the police
 station. [@1]
 
 Officers seized 1 kg of marijuana, 103 grams of cocaine and four mobile phones.
-[@1] The car used by the suspects was also seized and removed to the contracted
-impound yard. [@1] The account attributes the information to the Ituporanga
+[@1,2] The car used by the suspects was also seized and removed to the contracted
+impound yard. [@1,2] The account attributes the information to the Ituporanga
 Military Police. [@1]
-
