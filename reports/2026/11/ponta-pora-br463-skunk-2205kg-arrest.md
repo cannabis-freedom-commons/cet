@@ -51,17 +51,17 @@ sources:
     publisher: Dourados Informa
     date: 2026-11-15
     language: pt
-open_questions:
-  - The source describes the seized drug only as skunk, the Brazilian term for a high-potency variety of cannabis, and no laboratory confirmation was reported.
-  - The R$ 2,500 was the payment the passenger said he would receive for the transport, and no official estimate of the drug's street value was published.
-  - The article does not say whether the driver was released after his statement or how the case proceeded after the passenger was booked at the police station.
-  - The account rests on a single outlet report relaying the Military Police account, with no second independent account available.
+  - title: Passageiro de app é preso com 22 kg de skunk em Ponta Porã
+    url: https://acritica.net/policia/passageiro-skunk-br463-ponta-pora/
+    publisher: A Crítica de Campo Grande
+    date: 2026-11-16
+    language: pt
 ---
 
 A rideshare passenger was arrested on BR-463 in Ponta Porã on the afternoon of
 Saturday 14 November 2026 with 22.05 kilograms of skunk that he said would be
-taken to Curitiba. [@1] The seizure was carried out by a Rádio Patrulha (radio
-patrol) team of the 4th Military Police Battalion at about 12h50. [@1] The
+taken to Curitiba. [@1,2] The seizure was carried out by a Rádio Patrulha (radio
+patrol) team of the 4th Military Police Battalion at about 12h50. [@1,2] The
 officers were patrolling Avenida Vinícius Soares do Nascimento when they noticed
 a black Toyota Corolla Cross in a suspicious attitude, and after following it
 they stopped the car on the highway. [@1] The car carried the driver, working a
@@ -69,10 +69,9 @@ ride booked through an app, and a passenger whose initial destination was
 Dourados. [@1]
 
 During the trunk search the officers found two suitcases belonging to the
-passenger, with 22.05 kilograms of skunk inside. [@1] Questioned, the passenger
-said he would receive R$ 2,500 for taking the drug to Curitiba. [@1] The driver
-said he did not know the contents of the luggage. [@1]
+passenger, with 22.05 kilograms of skunk inside. [@1,2] Questioned, the passenger
+said he would receive R$ 2,500 for taking the drug to Curitiba. [@1,2] The driver
+said he did not know the contents of the luggage. [@1,2]
 
 The passenger was formally arrested for drug trafficking and was taken, together
-with the drug, to the Primeira Delegacia de Polícia Civil de Ponta Porã. [@1]
-
+with the drug, to the Primeira Delegacia de Polícia Civil de Ponta Porã. [@1,2]
