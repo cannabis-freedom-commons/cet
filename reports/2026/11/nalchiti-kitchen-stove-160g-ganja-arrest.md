@@ -63,12 +63,19 @@ sources:
     publisher: NewsG24
     date: 2026-11-14
     language: bn
+  - title: নলছিটিতে ১৬০ গ্রাম গাঁজাসহ নারী মাদক কারবারি গ্রেপ্তার
+    url: https://aparadhbichitra.com/2026/11/14/%E0%A6%A8%E0%A6%B2%E0%A6%9B%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A7%A7%E0%A7%AC%E0%A7%A6-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE/
+    publisher: Aparadh Bichitra
+    date: 2026-11-14
+    language: bn
+open_questions:
+    - The arrested woman's name is spelled Iti Akter Ronju in one account and Iti Akter Roni in the others.
 ---
 
 Police in Nalchiti, Jhalakati District, arrested a 33-year-old woman named Iti
-Akter Roni after a raid on her home. [@1,2] Officers found 160 grams of ganja
+Akter Roni after a raid on her home. [@1,2,4] Officers found 160 grams of ganja
 wrapped in a white polythene bag inside the earthen stove of the kitchen of the
-house. [@1,2,3] Officers also seized 1,500 taka that police said was money from drug
+house. [@1,2,3,4] Officers also seized 1,500 taka that police said was money from drug
 sales. [@1,2,3] The raid was carried out on Friday evening in the Nanguli area of
 Ward 2 of Nalchiti Municipality on the basis of secret information. [@1,2]
 
@@ -80,4 +87,4 @@ as the daughter of Nur-e Alam Hawlader of the area and the wife of Miraj Majhi.
 The acting officer-in-charge of Nalchiti police station, Touhizzaman Sohag, said
 the drive against drugs was continuing and that no one involved in the drug
 trade would be spared. [@1,3] He said the process of taking legal action in the
-case was under way. [@1]
+case was under way. [@1,4]
