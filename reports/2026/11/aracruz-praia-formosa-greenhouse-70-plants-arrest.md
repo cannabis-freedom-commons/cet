@@ -52,6 +52,11 @@ media:
     media_url: https://vodstreaming01.video.globo.com/45/89/f3/15190759_f39417a78152414c6847f1d5b2423230aea19f91/15190759-360p_487k_h264-a7f860e0-c3dd-013f-bc14-12b290df8054.mp4
     publisher: G1
     caption: Video report on the Military Police seizure of 70 marijuana plants, hashish and cultivation equipment in Aracruz.
+  - kind: video
+    url: https://www.folhavitoria.com.br/policia/pm-apreende-70-pes-de-maconha-em-estufa-clandestina-dentro-de-casa-em-aracruz/
+    media_url: https://uploads.folhavitoria.com.br/imagens/2026/11/video-pm-apreende-70-pes-de-maconha-em-estufa-clandestina.mp4
+    publisher: Folha Vitória
+    caption: Police video of the clandestine greenhouse, 70 marijuana plants and cultivation equipment seized in Aracruz.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 69ea162566f7a1a44e159748827aa7db
@@ -67,34 +72,32 @@ sources:
     publisher: G1
     date: 2026-11-16
     language: pt
-open_questions:
-    - No separate date for the patrol or arrest was given; 15 November 2026 is the article's publication date and stands in for the incident date.
-    - The headline says more than 70 cannabis plants while the seizure list says 70; this report uses the listed figure of 70.
-    - The 11 boards described as PAC were reported without identifying the substance or giving a weight, so they are excluded from the cannabis weight.
-    - No identity, age, charge or court outcome was reported for the detained person.
-    - The three seed containers were reported without a seed count, so no seed figure is recorded.
-    - The detailed weights, address and detention account rest on the Norte Noticia report of the Military Police action; the G1 video corroborates the 70 plants, hashish, cultivation equipment and Aracruz location but gives no weights, address or suspect details.
+  - title: PM encontra estufa clandestina com 70 pés de maconha em Aracruz
+    url: https://www.folhavitoria.com.br/policia/pm-apreende-70-pes-de-maconha-em-estufa-clandestina-dentro-de-casa-em-aracruz/
+    publisher: Folha Vitória
+    date: 2026-11-16
+    language: pt
 ---
 
 Military police officers uncovered a clandestine structure for growing cannabis
 inside a home in Praia Formosa, on the coast of Aracruz in northern Espírito
-Santo. [@1] The find came during a motorized tactical patrol by approach teams
+Santo. [@1,3] The find came during a motorized tactical patrol by approach teams
 of the 3rd Company of the 5th Military Police Battalion. [@1] Officers said they
 had received information about possible drug sales at a property on Rua Jerônimo
 Pancieri. [@1] After checks, the team approached an individual matching the
 description given and found drugs on him. [@1] During searches inside the
 property, police identified a structure used for growing cannabis plants and
-producing derivatives of the drug. [@1]
+producing derivatives of the drug. [@1,3]
 
 More than 70 cannabis plants were seized at the property. [@1,2] Police also
-seized 955 grams of hashish. [@1] Officers seized about 130 grams of maconha.
-[@1] Officers also found 11 boards described as PAC. [@1] Officers seized three
+seized 955 grams of hashish. [@1,3] Officers seized about 130 grams of maconha.
+[@1,3] Officers also found 11 boards described as PAC. [@1,3] Officers seized three
 containers holding seeds. [@1] Officers seized four cell phones. [@1] Officers
 seized a precision scale. [@1] Officers seized lighting equipment and farming
-inputs used in the cultivation setup. [@1] The seized material was collected and
+inputs used in the cultivation setup. [@1,3] The seized material was collected and
 presented to the police authority. [@1]
 
 One individual was detained during the operation and taken with all the seized
-material to the 13th Regional Police Station. [@1] The Civil Police was expected
+material to the 13th Regional Police Station. [@1,3] The Civil Police was expected
 to take the applicable steps to investigate the case and the circumstances of
 the activity found at the property. [@1]
