@@ -119,17 +119,22 @@ sources:
     publisher: Aksiyon
     date: 2026-11-15
     language: tr
+  - title: İstanbul Havalimanı'nda 13 kilo 512 gram esrar ele geçirildi | Yerel Haberler
+    url: https://www.gzt.com/gundem/istanbul-havalimaninda-13-kilo-512-gram-esrar-ele-gecirildi-4278822
+    publisher: GZT
+    date: 2026-11-15
+    language: tr
 ---
 
 Istanbul narcotics teams detained two Tunisian nationals, Najla Ben Abdallah and
-Montassar Mosbehı, in an operation at Istanbul Airport. [@1,4,5,6,8,10,12] The two suspects
+Montassar Mosbehı, in an operation at Istanbul Airport. [@1,4,5,6,8,10,12,13] The two suspects
 were stopped after arriving on a flight from Casablanca, Morocco, on 14
 November, and were described in one account as two women passengers. [@3] The
 operation was run by the Istanbul police narcotics division as part of work
 against drug manufacturing and trafficking, monitoring incoming passengers. [@3,6]
 
 Officers found a total of 13 kilograms 512 grams of esrar, reported as cannabis,
-hidden in the suspects' luggage. [@1,5,6,8,9,10,11,12] Of that total, 12 kilograms 226 grams were
+hidden in the suspects' luggage. [@1,5,6,8,9,10,11,12,13] Of that total, 12 kilograms 226 grams were
 concealed in 73 cans and 1 kilogram 286 grams in the soles of four shoes. [@3]
 
 The search was carried out under a search order obtained from the Gaziosmanpaşa
