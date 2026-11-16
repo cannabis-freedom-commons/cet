@@ -179,22 +179,26 @@ sources:
     url: https://blueprint.ng/ndlea-intercepts-25kg-meth-from-south-africa-american-basketball-player-nabbed-with-34kg-loud/
     publisher: Blueprint
     date: 2026-11-16
+  - title: NDLEA Arrests US Basketball Player With 33.95kg Loud At Lagos Airport
+    url: https://leadership.ng/ndlea-arrests-us-basketball-player-with-33-95kg-loud-at-lagos-airport/
+    publisher: LEADERSHIP Newspapers
+    date: 2026-11-16
 ---
 
 NDLEA operatives at Murtala Muhammed International Airport in Lagos intercepted
 28-year-old American citizen Greene Da’monte Khiree on Wednesday 11 November
 2026 after he arrived aboard an Emirates Airline flight from Thailand via Dubai.
-[@1,3,4,5,6,7,9,10,11,12,13,14,16,20,21,22,23,24,28,29,31,32,33,34] The suspect had been placed under discreet surveillance on credible
+[@1,3,4,5,6,7,9,10,11,12,13,14,16,20,21,22,23,24,28,29,31,32,33,34,35] The suspect had been placed under discreet surveillance on credible
 intelligence and was observed abandoning his two checked-in bags to leave the
 airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34] He was promptly apprehended at the
-airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33] A second account confirms NDLEA arrested the American
+airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35] A second account confirms NDLEA arrested the American
 professional basketball player after discovering 32 parcels of Loud in his
 luggage at the same Lagos airport. [@2,9,25,29]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
-33.95 kilograms. [@1,3,6,7,10,12,13,14,16,17,18,20,21,22,23,26,28,30,31,33] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23,26,30,31,32,33]
-The agency describes Loud as a potent strain of cannabis. [@1,3,5,23,25,27,28,29,34]
+33.95 kilograms. [@1,3,6,7,10,12,13,14,16,17,18,20,21,22,23,26,28,30,31,33,35] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23,26,30,31,32,33,35]
+The agency describes Loud as a potent strain of cannabis. [@1,3,5,23,25,27,28,29,34,35]
 
 The suspect, a native of Savannah, Georgia, said he had lived in Thailand since
 October 2025 playing professional basketball and came to Nigeria on holiday to
