@@ -64,8 +64,12 @@ sources:
     publisher: Khaborer Kagoj
     date: 2026-11-16
     language: bn
+  - title: ১৫০ গ্রাম গাঁজাসহ গ্রাম পুলিশের হাতে আটক যুবক, ভ্রাম্যমাণ আদালতে দেড় বছরের কারাদণ্ড
+    url: https://www.ajkerpatrika.com/bangladesh/jhalakati/ajp9qoe0li80i
+    publisher: Ajker Patrika
+    date: 2026-11-16
+    language: bn
 open_questions:
-    - No quantity of cannabis was published, so no weight can be recorded.
     - It was not reported whether the 2,000-taka fine was paid.
     - The article does not state where Jahangir was taken after sentencing.
     - The night operation was timed at about 22:50 in one account and about 23:00 in another.
@@ -76,7 +80,7 @@ open_questions:
 ---
 
 In Rajapur upazila of Jhalokati district, police detained a youth identified as
-Md. Jahangir, aged 31, after finding cannabis, called ganja, with him. [@1,2,4] The
+Md. Jahangir, aged 31, after finding cannabis, called ganja, with him. [@1,2,4,5] Officers found 150 grams of ganja with him. [@5] The
 arrest was made at about 22:50 on Sunday, 15 November, in front of Raribari
 school in the Chhoto Kaibatakhali area of Rajapur upazila. [@1,3] The anti-drug
 operation was carried out with the help of the village police, also called gram
@@ -84,8 +88,8 @@ police, of Rajapur Sadar Union. [@1,3,4] Jahangir was identified as the son of
 Shaheb Ali from the same area. [@1,2,4] Jahangir is a resident of Ward No. 5 of Sadar Union. [@4]
 
 Upazila executive officer and executive magistrate Rifat Ara Mouri then
-conducted a mobile court. [@1,3,4] The court sentenced Jahangir to one year and six
-months of rigorous imprisonment and a fine of 2,000 taka. [@1,3,4] Non-payment of
+conducted a mobile court. [@1,3,4,5] The court sentenced Jahangir to one year and six
+months of rigorous imprisonment and a fine of 2,000 taka. [@1,3,4,5] Non-payment of
 the fine carries a further 15 days of rigorous imprisonment. [@1,2,4]
 
 Rifat Ara Mouri said the upazila administration's drive against drugs would
