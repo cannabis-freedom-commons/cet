@@ -94,24 +94,32 @@ sources:
     publisher: Днес+
     date: 2026-11-14
     language: bg
+  - title: Трима задържани при акция срещу наркотици в София
+    url: https://telenews.bg/bg/bylgarija/tn-b751cc2fa4c68c21087858cf28d375355c7af6b1bd55c5f91786e596633f5116
+    publisher: Telenews
+    date: 2026-11-13
+    language: bg
+open_questions:
+    - The same article reports a separate action by the Sixth District Directorate the previous day, in which drugs including over 3 kg of marijuana were found and a dealer and another person were detained; that separate event is not covered here.
+    - Telenews describes only a small amount of an unnamed narcotic substance on the pupil, while other outlets say marijuana; the report keeps the marijuana description.
 ---
 
 Sofia police detained two men aged 23 and 24 and a 15-year-old pupil in an
 operation against drug distribution around schools, as announced at a briefing
-by SDVR director Nikolay Peltekov. [@1,6,7,8,9,11,12] The operation was carried out by
+by SDVR director Nikolay Peltekov. [@1,6,7,8,9,11,12,13] The operation was carried out by
 officers of the Sixth District Police Department on operational information
 about dealers selling drugs near schools. [@2,7,8,10,12]
 
 The pupil was taken from his classroom during a lesson in the presence of Child
 Pedagogical Room inspectors from the Sixth District department and the school's
-deputy director. [@1,6,7,8,9,11,12] Officers found marijuana and an electronic scale on the
-boy. [@3] Police did not name the school in order to protect the minor's
+deputy director. [@1,6,7,8,9,11,12,13] Officers found marijuana and an electronic scale on the
+boy. [@3,13] Police did not name the school in order to protect the minor's
 identity. [@4,8]
 
 In parallel, police checked a flat in Sofia's Mladost-2 district occupied by the
-two detained men aged 23 and 24 and found herbal cannabis there. [@5,6,7,8,9,11,12] The exact
+two detained men aged 23 and 24 and found herbal cannabis there. [@5,6,7,8,9,11,12,13] The exact
 quantity of the seized drug has not yet been established and an expert
 assessment is still to determine it. [@4,8] Police were checking unconfirmed information that products resembling chewing candy were among the distributed drugs, which laboratory tests still had to confirm or reject. [@8] Police said both adult detainees have
 prior criminal records for drug distribution and were in breach of suspended
-sentences. [@1,6,7,8,9] Police said the boy had no previous criminal record. [@8] Peltekhov said the detentions had taken place only a few hours
+sentences. [@1,6,7,8,9,13] Police said the boy had no previous criminal record. [@8] Peltekhov said the detentions had taken place only a few hours
 before the briefing and investigative actions were continuing. [@4,8] Peltekov said capital police had found other cases of children being used to distribute drugs, but the available data did not yet indicate a lasting trend. [@8]
