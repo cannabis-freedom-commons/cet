@@ -46,6 +46,10 @@ sources:
     url: https://thesun.ng/ndlea-american-basketballer-arrested-with-32-parcels-of-loud-in-lagos/
     publisher: The Sun Nigeria
     date: 2026-11-15
+  - title: NDLEA Arrests U.S. Basketball Player With 33.95kg Cannabis At Lagos Airport
+    url: https://www.thenigerianvoice.com/news/376591/ndlea-arrests-us-basketball-player-with-3395kg-cannabis-a.html
+    publisher: Nigerian Voice
+    date: 2026-11-15
 open_questions:
   - No laboratory confirmation for the 33.95kg described as Loud was reported.
   - No charge, plea or court outcome was reported; the case was at the investigation stage.
@@ -57,22 +61,21 @@ open_questions:
 NDLEA operatives at Murtala Muhammed International Airport in Lagos intercepted
 28-year-old American citizen Greene Da’monte Khiree on Wednesday 11 November
 2026 after he arrived aboard an Emirates Airline flight from Thailand via Dubai.
-[@1] The suspect had been placed under discreet surveillance on credible
+[@1,3] The suspect had been placed under discreet surveillance on credible
 intelligence and was observed abandoning his two checked-in bags to leave the
 airport with only his carry-on luggage. [@1] He was promptly apprehended at the
-airport car park. [@1] A second account confirms NDLEA arrested the American
+airport car park. [@1,3] A second account confirms NDLEA arrested the American
 professional basketball player after discovering 32 parcels of Loud in his
 luggage at the same Lagos airport. [@2]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
-33.95 kilograms. [@1] A tracking device was also recovered from the bags. [@1]
-The agency describes Loud as a potent strain of cannabis. [@1]
+33.95 kilograms. [@1,3] A tracking device was also recovered from the bags. [@1,3]
+The agency describes Loud as a potent strain of cannabis. [@1,3]
 
 The suspect, a native of Savannah, Georgia, said he had lived in Thailand since
 October 2025 playing professional basketball and came to Nigeria on holiday to
 build networks for his basketball career. [@1] A forensic examination of his
 mobile phone revealed information pointing to his knowledge of and involvement
-in the drug trafficking activity. [@1] The account was disclosed in a Sunday
-statement by NDLEA Director of Media and Advocacy Femi Babafemi. [@1]
-
+in the drug trafficking activity. [@1,3] The account was disclosed in a Sunday
+statement by NDLEA Director of Media and Advocacy Femi Babafemi. [@1,3]
