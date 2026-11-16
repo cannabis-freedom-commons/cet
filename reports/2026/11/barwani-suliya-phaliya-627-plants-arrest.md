@@ -74,26 +74,31 @@ sources:
     publisher: Vocal TV
     date: 2026-11-12
     language: hi
+  - title: 'मध्यप्रदेश: धार-बड़वानी में 1,284 गांजे के पौधे जब्त, कीमत 2.33 करोड़ से ज्यादा, कपास-तुअर की फसल के बीच उगा रखे थे - Haribhoomi'
+    url: https://www.haribhoomi.com/state-local/madhya-pradesh/news/mp-dhar-barwani-illegal-cannabis-cultivation-2-33-crore-seizure-122047
+    publisher: Haribhoomi
+    date: 2026-11-16
+    language: hi
 ---
 
 Sendhwa rural police in Barwani district, Madhya Pradesh, raided a field beside
 the forest at Suliya Phaliya in Palaspani on the morning of 11 November 2026.
-[@1,3]
+[@1,3,4]
 
 The field covered about half a bigha, a local land measure, and had been planted
-with cannabis for commercial cultivation. [@1] Police counted and seized 627
-plants, each about six feet tall, which together weighed 586 kg. [@1,3] Police
+with cannabis for commercial cultivation. [@1,4] Police counted and seized 627
+plants, each about six feet tall, which together weighed 586 kg. [@1,3,4] Police
 estimated the seized cannabis at 58 lakh 60 thousand rupees, which Zee News
-quoted the station house officer as its price on the international market. [@2]
+quoted the station house officer as its price on the international market. [@2,4]
 
 A case was registered against the accused at Sendhwa rural police station under
 Sections 8/20 of the Narcotic Drugs and Psychotropic Substances Act, India's
-drug law. [@1,3] Police said they would present him in court for further legal
+drug law. [@1,3,4] Police said they would present him in court for further legal
 action. [@1]
 
 The raid fell within a 15-day special campaign run from 27 October to 11
 November 2026 under Operation Green Strike, the district drive against illegal
 narcotics cultivation. [@1] Across those actions police seized 2,593 green
 cannabis plants weighing 1,186.15 kg, valued at a total of 1 crore 18 lakh 63
-thousand 500 rupees. [@1] Superintendent of police Vinod Kumar Singh said the
+thousand 500 rupees. [@1,4] Superintendent of police Vinod Kumar Singh said the
 campaign would continue. [@1]
