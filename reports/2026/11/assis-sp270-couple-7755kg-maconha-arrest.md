@@ -51,6 +51,11 @@ sources:
     publisher: Região Noroeste
     date: 2026-11-16
     language: pt
+  - title: Casal é preso com mais de 77 kg de drogas em Assis | Abordagem Notícias
+    url: https://abordagemnoticias.com/noticia/17502/casal-e-preso-com-mais-de-77-kg-de-drogas-em-assis
+    publisher: Abordagem Notícias
+    date: 2026-11-16
+    language: pt
 open_questions:
   - The names and ages of the man and the woman were not published.
   - The reports describe the seizures as maconha and haxixe on police identification; no laboratory confirmation was reported.
@@ -58,16 +63,15 @@ open_questions:
 ---
 
 A Polícia Militar Rodoviária prendeu um homem e uma mulher em flagrante em
-Assis, no interior paulista. [@1] A abordagem ocorreu na madrugada de
+Assis, no interior paulista. [@1,3] Segundo a Polícia Rodoviária, os dois presos não possuíam antecedentes criminais. [@3] A abordagem ocorreu na madrugada de
 segunda-feira (16) no pátio de um posto de serviços às margens da Rodovia Raposo
-Tavares (SP-270). [@1]
+Tavares (SP-270). [@1,3] A abordagem ocorreu por volta das 2h15 no km 451 da rodovia. [@3]
 
 Os policiais desconfiaram do carro estacionado na área do restaurante do posto e
-decidiram vistoriá-lo. [@2] No porta-malas, a equipe encontrou 75 tabletes de
-maconha, que somaram 77,55 quilos, além de 201 gramas de haxixe. [@2] As drogas
+decidiram vistoriá-lo. [@2,3] No porta-malas, a equipe encontrou 75 tabletes de
+maconha, que somaram 77,55 quilos, além de 201 gramas de haxixe. [@2,3] As drogas
 e o veículo foram apreendidos. [@1]
 
 O casal recebeu voz de prisão em flagrante por tráfico de drogas e foi levado à
 Central de Polícia Judiciária de Assis, onde permaneceu recluso à disposição da
-Justiça. [@2]
-
+Justiça. [@2,3] A ocorrência foi realizada durante a Operação Fluminis Custus/Impacto e causou um prejuízo estimado de R$ 150 mil ao tráfico, segundo a polícia. [@3]
