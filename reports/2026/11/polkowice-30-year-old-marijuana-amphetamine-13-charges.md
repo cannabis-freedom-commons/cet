@@ -53,6 +53,11 @@ sources:
     url: https://polkowice.policja.gov.pl/dpl/aktualnosci/bieza/188582,Policjant-z-Polkowic-zatrzymal-przed-sluzba-30-latka-z-narkotykami-Mezczyzna-usl.html
     publisher: Komenda Powiatowa Policji w Polkowicach
     language: pl
+  - title: 30-latek zatrzymany z narkotykami - Bolesławiec
+    url: https://www.bolec.info/boleslawiec/informacje/kategoria/45837/30-latek-zatrzymany-z-narkotykami
+    publisher: Bolec.Info
+    date: 2026-11-14
+    language: pl
 open_questions:
   - No weights or quantities of marijuana or amphetamine seized were published in either source, so no cannabis quantity is recorded.
   - The nine thefts and property-damage charges are separate offences from the 10 November street stop; the police statement does not explain how they connect to the marijuana possession charges.
@@ -61,11 +66,10 @@ open_questions:
 
 On 10 November 2026, on one of Polkowice streets, a Polkowice police detective,
 off duty and walking to buy lunch, recognized a man he knew from earlier police
-work and smelled marijuana on him. [@1] The officer detained the man, notified
+work and smelled marijuana on him. [@1,3] The officer detained the man, notified
 the duty officer, who sent a patrol unit; marijuana and amphetamine were found
-on the 30-year-old and he was taken to a police holding cell. [@2]
+on the 30-year-old and he was taken to a police holding cell. [@2,3]
 
 Investigators presented him with 13 charges in total: three counts of possessing
-narcotics, nine counts of theft and one count of property damage. [@2] The
-30-year-old admitted all the offences and a court will now decide his fate. [@2]
-
+narcotics, nine counts of theft and one count of property damage. [@2,3] The
+30-year-old admitted all the offences and a court will now decide his fate. [@2,3]
