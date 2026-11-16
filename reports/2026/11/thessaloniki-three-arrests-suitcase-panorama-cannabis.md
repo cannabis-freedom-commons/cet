@@ -46,6 +46,11 @@ sources:
     publisher: Typosthes
     date: 2026-11-15
     language: el
+  - title: 'Θεσσαλονίκη: Τρεις συλλήψεις για ναρκωτικά - Δύο νεαροί είχαν στη βαλίτσα τους 2 κιλά κάνναβης'
+    url: https://www.voria.gr/article/thessaloniki-treis-syllipseis-gia-narkotika-dyo-nearoi-eihan-sti-balitsa-toys-2-kila
+    publisher: Voria.gr
+    date: 2026-11-15
+    language: el
 open_questions:
   - The cannabis is described only as cannabis packages found in the searches, with no laboratory confirmation reported.
   - The hydroponic equipment was seized but no plants or plantation size was reported, so no cultivation count is recorded.
@@ -55,16 +60,15 @@ open_questions:
 
 Officers of police Team Z arrested two 21-year-olds carrying cannabis in a
 suitcase on Agiou Dimitriou street in Thessaloniki on the evening of 14 November
-2026. [@1] The two 21-year-olds were found jointly holding two cannabis packages
+2026. [@1,3] The two 21-year-olds were found jointly holding two cannabis packages
 weighing 0.85 grams in total. [@2] In a separate case on the morning of 14
 November 2026, officers of the Crime Prevention and Suppression Division
-arrested a 40-year-old in the Panorama area. [@1] Case files were prepared
+arrested a 40-year-old in the Panorama area. [@1,3] Case files were prepared
 against the three detainees, who were to be taken before the competent judicial
-authorities. [@1]
+authorities. [@1,3]
 
-The suitcase held cannabis packages weighing 2,108 grams in total. [@2] The
+The suitcase held cannabis packages weighing 2,108 grams in total. [@2,3] The
 40-year-old was found with a 1.4-gram cannabis package and handed over seven
-more cannabis packages weighing 638 grams that he kept in his home. [@1] A later
+more cannabis packages weighing 638 grams that he kept in his home. [@1,3] A later
 search of his home seized hydroponic-cultivation equipment and a Flobert-type
-hunting rifle that he held without a licence. [@1]
-
+hunting rifle that he held without a licence. [@1,3]
