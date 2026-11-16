@@ -52,6 +52,11 @@ sources:
     publisher: Grupo Cantón Radio
     date: 2026-11-15
     language: es
+  - title: Detienen a seis sujetos en cateos por narcomenudeo en Quintana Roo
+    url: https://digitalnewsqr.com/policiacas/cateos-narcomenudeo-quintana-roo/
+    publisher: Digital News QR
+    date: 2026-11-15
+    language: es
 open_questions:
   - No total weight or dose count was published for the seized substances, and the cannabis share cannot be separated from the suspected cocaine and crystal, so no kilogram figure is given.
   - All substances were described only as resembling marijuana, cocaine or crystal, with no laboratory confirmation reported.
@@ -63,21 +68,21 @@ open_questions:
 Quintana Roo prosecutors carried out four court-ordered searches in three
 municipalities — two homes in Benito Juárez (Cancún), one in Playa del Carmen
 and one in Kantunilkín, Lázaro Cárdenas — with soldiers, marines, National Guard
-members and municipal police in support. [@1] Officers detained six people, who
+members and municipal police in support. [@1,4] Officers detained six people, who
 were placed at the disposal of the competent authorities to determine their
-legal situation. [@1] Prosecutors said the six were linked to suspected crimes
+legal situation. [@1,4] Prosecutors said the six were linked to suspected crimes
 against health in the form of retail drug dealing, with responsibility still to
-be established through investigation and legal proceedings. [@1]
+be established through investigation and legal proceedings. [@1,4]
 
 In Cancún, searches covered a home at Bonampak and Sayil avenues in the Centro
 neighbourhood and another on 50 Poniente street in Supermanzana 101. [@1] At the
 first Cancún site officers reported white powder resembling cocaine, solid
 fragments of various colours and green herb that could be marijuana, detaining
 two people, and at the second they reported green herb resembling marijuana and
-detained two more. [@1] In Playa del Carmen, a search on 85 Norte avenue in the
+detained two more. [@1,4] In Playa del Carmen, a search on 85 Norte avenue in the
 Ejidal neighbourhood found a crystal-like substance, a pipe and green vegetation
 linked to marijuana, while two people were detained nearby with herb and a
-crystalline substance. [@1] The Kantunilkín search found green herb resembling
+crystalline substance. [@1,4] The Kantunilkín search found green herb resembling
 marijuana, with no detentions reported there. [@1]
 
 Officers sealed the four properties, which remain in ministerial custody, and
@@ -86,4 +91,3 @@ total weight or dose count for the seized substances. [@3] The six detainees
 remain under investigation while the Public Prosecutor determines their legal
 situation, and they retain the presumption of innocence absent a conviction.
 [@3]
-
