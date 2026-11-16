@@ -66,16 +66,11 @@ sources:
     publisher: Le Journal du Dimanche
     date: 2026-08-11
     language: fr
-open_questions:
-  - The total is reported as "at least eleven" in Thailand; the individual arrests, airports and dates for those eleven were not published in the opened accounts.
-  - The 16.8 kilograms is the cannabis weight found in one Hong Kong suitcase, reported by a relative to AFP; no total weight for the eleven Thailand cases was published.
-  - 'The accounts differ on the Thai customs fine: franceinfo and BFMTV cite 30,000 baht (about 790 euros) per kilogram applied from 18 June 2026, while RTL describes the rule the same way; the report uses that figure.'
-  - RTL attributes the arrests to the national judicial police and mentions Bangkok airport; other accounts say airports in Thailand without naming them.
-  - No trial dates or outcomes were reported for the thirteen detainees.
-  - A relative told AFP the two Hong Kong detainees were due to leave on 14 July for Hong Kong, London and Paris; the account does not make clear at which airport they were stopped.
-  - The headline figure counts thirteen people held across two jurisdictions; the two Hong Kong detainees are not included in the eleven-in-Thailand count.
-  - 'Left out, as its quotation was not found in RTL: The maximum penalty faced is two to ten years'' imprisonment, according to the French foreign ministry.'
-  - Left out prison, as its quotation was not found in RTL.
+  - title: 'Il avait été arrêté avec du cannabis dans sa valise à Hong-Kong : ce jeune de Maine-et-Loire libéré sous caution'
+    url: https://www.ouest-france.fr/societe/faits-divers/il-avait-ete-arrete-avec-du-cannabis-dans-sa-valise-a-hong-kong-ce-jeune-de-maine-et-loire-libere-sous-caution-fa04f592-e1a8-11f1-b029-43a761592972
+    publisher: Ouest-France
+    date: 2026-11-16
+    language: fr
 ---
 
 At least eleven young French nationals have been held in Thailand on cannabis
@@ -84,10 +79,10 @@ officers found cannabis in their luggage at airports and handed them to the Thai
 police, who placed them in pre-trial detention to await a judge. [@3,5] Their
 luggage held several kilograms of cannabis, according to a police source cited
 by BFMTV. [@4] Two more French nationals were held in Hong Kong after arriving
-from Thailand and being stopped in transit with cannabis in suitcases. [@1]
+from Thailand and being stopped in transit with cannabis in suitcases. [@1,6] Ibrahim has been released on bail. [@6]
 
 One Hong Kong suitcase held 16.8 kilograms of cannabis, according to a relative
-of one of the two detainees quoted by AFP. [@2] A customs fine of 30,000 baht
+of one of the two detainees quoted by AFP. [@2,6] A customs fine of 30,000 baht
 (about 790 euros) per kilogram of drug seized has applied systematically in
 Thailand since 18 June 2026. [@1] Non-payment of the fine leads to police
 custody and detention awaiting trial, according to the French foreign ministry's
@@ -100,7 +95,7 @@ organised crime, said it had investigations under way into the "plans Thaïlande
 recruitment. [@1] Recruiters publish advertisements on apps such as Snapchat
 offering fully paid holidays in Thailand in exchange for bringing a suitcase
 back to Europe that supposedly holds phones but in reality holds 10 to 20 kg of
-cannabis, the Pnaco said. [@1,5] The Pnaco said its aim was to identify those
+cannabis, the Pnaco said. [@1,5,6] The Pnaco said its aim was to identify those
 behind the operation and the networks, and to understand how the young people
 were recruited. [@1]
 
