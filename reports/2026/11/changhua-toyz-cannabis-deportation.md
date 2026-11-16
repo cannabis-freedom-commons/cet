@@ -57,6 +57,11 @@ media:
     media_url: https://assets.juksy.com/files/articles/154275/clipboard_1794031212_6aeebe6c7f680.jpg
     publisher: JUKSY 街星
     caption: An Instagram image credited to 篠崎泫＠IG, published with the account of her Hong Kong livestream with Toyz; it is not established as showing the enforcement operation.
+  - kind: photo
+    url: https://www.ctwant.com/amp/article/506880/
+    media_url: https://static.ctwant.com/images/cover/80/506880/md-7cc8450a6ba3bce44954e8cea9e7fadc.jpg
+    publisher: CTWANT
+    caption: Toyz's YouTube livestream announcement for 8 p.m. on 15 November. Image reproduced from Toyz's YouTube channel.
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4faad24e27560989460f84543c9399be
@@ -552,11 +557,16 @@ sources:
     publisher: 鏡週刊 Mirror Media
     date: 2026-11-16
     language: zh
+  - title: Toyz假釋返港後首開YT直播！預告今晚8點準時開台
+    url: https://www.ctwant.com/amp/article/506880/
+    publisher: CTWANT
+    date: 2026-11-15
+    language: zh
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,65,66,68,70,81,83,84,85,88,89,90,92,93,95,96,97,98] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,65,66,68,70,81,83,84,85,88,89,90,92,93,95,96,97,98,99] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
 [@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38,46,47,48,49,52,54,62,81] Prosecutors ordered deportation in place of protective supervision after
