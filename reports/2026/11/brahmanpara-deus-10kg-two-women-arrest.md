@@ -39,6 +39,11 @@ media:
     media_url: https://www.kalbela.com/assets/news_photos/2026/11/14/image_349805_1794650475.jpg
     publisher: Kalbela
     caption: 'Photo of the two arrested women published with the report. Photo: Kalbela'
+  - kind: photo
+    url: https://www.vodbangla.com/news/58072/XLimSXDRdp/
+    media_url: https://www.vodbangla.com/media/article_images/1112.jpg
+    publisher: VOD Bangla
+    caption: 'Photo of the two arrested women published with the VOD Bangla report. Photo: VOD Bangla'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: cf8d2f97f7ede38504064724db50b064
@@ -59,22 +64,27 @@ sources:
     publisher: Durniti Talash News Tv
     date: 2026-11-15
     language: bn
+  - title: বোরকার ভেতরে ১০ কেজি গাঁজা, দুই নারী গ্রেপ্তার | VOD Bangla
+    url: https://www.vodbangla.com/news/58072/XLimSXDRdp/
+    publisher: VOD Bangla
+    date: 2026-11-15
+    language: bn
 ---
 
 Police in Brahmanpara, Cumilla arrested two women in the Deus area of Shashidal
 Union on Friday afternoon, 13 November 2026, acting on a secret tip-off. [@1,2,3]
 Officers detained the two women after finding them suspicious and then searched
-them. [@1,3] Police said the women were carrying the ganja under their burqas with
-scotch tape wrapped around their stomachs. [@1,2,3]
+them. [@1,3,4] Police said the women were carrying the ganja under their burqas with
+scotch tape wrapped around their stomachs. [@1,2,3,4]
 
-The search recovered 10 kg of ganja from the women. [@1,2,3] The arrested women were
+The search recovered 10 kg of ganja from the women. [@1,2,3,4] The arrested women were
 identified as Fatema Akter alias Mithila Moni, 28, of Binouti in Kasba,
 Brahmanbaria, and Jannatul Ferdous alias Maya, 24, of Kalagachhia in Bandar,
-Narayanganj. [@1,2,3]
+Narayanganj. [@1,2,3,4]
 
 Police said Fatema Akter already faces two pending cases under the Narcotics
 Control Act at Brahmanpara and Kasba police stations. [@1] Police said Jannatul
 Ferdous faces two more pending Narcotics Control Act cases at Chawkbazar in
 Dhaka and Gazaria in Munshiganj. [@1] Brahmanpara police station
 officer-in-charge Md. Faruk Hossain said legal action was taken against the two
-women and they were sent to court on Saturday, 14 November. [@1]
+women and they were sent to court on Saturday, 14 November. [@1,4]
