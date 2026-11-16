@@ -49,31 +49,35 @@ sources:
     publisher: Waspada.id
     date: 2026-11-15
     language: id
+  - title: Bongkar Peredaran Ganja di Kutambaru, Polisi Amankan Petani dengan 2,016 Kilogram Barang Bukti
+    url: https://posaceh.com/bongkar-peredaran-ganja-di-kutambaru-polisi-amankan-petani-dengan-2016-kilogram-barang-bukti/
+    publisher: Pos Aceh
+    date: 2026-11-16
+    language: id
 open_questions:
-  - The whole account rests on one Waspada.id account reproducing the Aceh Tenggara police statement; no independent second source was opened.
-  - No charges or court outcome were reported; the case stood at preliminary examination.
-  - No laboratory confirmation or street value was published for the 2,016.1 grams.
+    - Both the Waspada.id and Pos Aceh accounts reproduce the Aceh Tenggara police statement; no independent second source was opened.
+    - No charges or court outcome were reported; the case stood at preliminary examination.
+    - No laboratory confirmation or street value was published for the 2,016.1 grams.
 ---
 
 Police in Aceh Tenggara detained a 39-year-old farmer, identified as H.I., in
-Desa Kutambaru, Lawe Bulan, on Saturday 14 November 2026 at about 12:30. [@1]
+Desa Kutambaru, Lawe Bulan, on Saturday 14 November 2026 at about 12:30. [@1,2]
 The arrest followed a community report about cannabis circulation in the area,
-the police said. [@1] Officers of the narcotics operational unit investigated
+the police said. [@1,2] Officers of the narcotics operational unit investigated
 the report before detaining H.I. [@1]
 
-Police seized 2,016.1 grams of cannabis, more than 2 kilograms, from him. [@1] A
+Police seized 2,016.1 grams of cannabis, more than 2 kilograms, from him. [@1,2] A
 search near the arrest site found a white-paper package of 16.1 grams of
-cannabis beside the road. [@1] Police said the package was suspected to have
-been thrown away by him when he was about to be detained. [@1] After
+cannabis beside the road. [@1,2] Police said the package was suspected to have
+been thrown away by him when he was about to be detained. [@1,2] After
 questioning, H.I. admitted he kept more cannabis in his rice-field hut about 50
-metres from the arrest site. [@1] In a search of the hut officers found a gunny
-sack of 1,850 grams and a gunny-wrapped package of 150 grams. [@1] Officers also
+metres from the arrest site. [@1,2] In a search of the hut officers found a gunny
+sack of 1,850 grams and a gunny-wrapped package of 150 grams. [@1,2] Officers also
 seized a white Vivo mobile phone. [@1] In preliminary examination H.I. admitted
-all the cannabis was his. [@1]
+all the cannabis was his. [@1,2]
 
 Southeast Aceh police chief AKBP Rujiyanto Dwi Poernomo, through public
 relations officer Iptu Zulfikir, said the case showed the community's active
 role in helping police against narcotics. [@1] Police urged residents to report
 drug abuse or circulation in their neighbourhoods to the nearest police office
 or through the 110 call centre. [@1]
-
