@@ -59,28 +59,26 @@ sources:
     publisher: Hindusthan Samachar
     date: 2026-11-15
     language: hi
-open_questions:
-  - No separate date for the raid was published; 15 November 2026 is the publication date and the date of the police-headquarters briefing, and is used as the incident date.
-  - No court outcome beyond registration of the NDPS Act case was reported.
-  - The plants were described as cannabis (ganja) with no laboratory confirmation reported.
-  - No field area was published, so no hectares figure is recorded.
-  - Only one account of this seizure was found, based on the police statement.
+  - title: 'मप्र: धार जिले में 1.74 करोड़ से अधिक कीमत के गांजे के 230 हरे पौधे जब्त, आरोपी गिरफ्तार'
+    url: https://www.yugwarta.com/Encyc/2026/11/15/MP-230-LIVE-CANNABIS-PLANTS-VALUED-RS-174-CRORE-SE.amp.html
+    publisher: Yugwarta
+    date: 2026-11-15
+    language: hi
 ---
 
 Dhar police raided a field in Bariya Naipura village in the Manawar
 police-station area after an informant told Umarban outpost police that cannabis
-was being illegally cultivated there. [@1] Officers searched the field and found
+was being illegally cultivated there. [@1,2] Officers searched the field and found
 230 live cannabis plants growing mixed between cotton and tuar (pigeon pea)
-crops, which they formally seized. [@1] Police arrested the field owner,
-36-year-old Dinesh Muvel of Badiya village, at the scene. [@1]
+crops, which they formally seized. [@1,2] Police arrested the field owner,
+36-year-old Dinesh Muvel of Badiya village, at the scene. [@1,2]
 
-The seized plants weighed 698 kg in total, reported as 6 quintals 98 kg. [@1]
+The seized plants weighed 698 kg in total, reported as 6 quintals 98 kg. [@1,2]
 Police estimated their value at 17,450,000 rupees, reported as 1 crore 74 lakh
-50 thousand rupees. [@1]
+50 thousand rupees. [@1,2]
 
 The action was carried out under Operation Prahar by Manawar and Umarban police
 under the direction of Dhar superintendent of police Sachin Sharma, as briefed
 by police headquarters on Sunday. [@1] Police registered a case against the
 accused under the NDPS Act and said further legal proceedings were under way.
-[@1]
-
+[@1,2]
