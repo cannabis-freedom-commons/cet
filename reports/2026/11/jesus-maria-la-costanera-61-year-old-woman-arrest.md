@@ -42,19 +42,30 @@ sources:
     publisher: El Diario de Carlos Paz
     date: 2026-11-15
     language: es
-open_questions:
-  - No separate date for the raid was given; 15 November 2026 is the publication date and stands in for the incident date.
-  - No cannabis weight or plant count was published for this arrest; the October doses were reported only as several mixed doses of cocaine and marijuana and cannot be separated.
-  - The money and other items seized in the current procedure were not quantified or described as cannabis.
-  - No plea or later court outcome beyond the charge was reported.
+  - title: Detuvieron a la novia de un narco en Córdoba que enterraba la droga y organizaba pelea de gallos - Infobae
+    url: https://www.infobae.com/sociedad/policiales/2026/11/16/detuvieron-a-la-novia-de-un-narco-en-cordoba-que-enterraba-la-droga-y-organizaba-pelea-de-gallos/
+    publisher: Infobae
+    date: 2026-11-16
+    language: es
+media:
+  - kind: photo
+    url: https://www.infobae.com/sociedad/policiales/2026/11/16/detuvieron-a-la-novia-de-un-narco-en-cordoba-que-enterraba-la-droga-y-organizaba-pelea-de-gallos/
+    media_url: https://www.infobae.com/resizer/v2/ADLDCXCODJG25OFK7O4BLFIGT4.jpg?auth=1449ea9d8e48f8da4d1248fe531601a12d88902b7b049d538ca76f2c7a75bfe1&smart=true&width=992&height=555&quality=85
+    publisher: Infobae
+    caption: An officer guides a hooded detained person by a metal gate in a dwelling during the Jesus Maria procedure.
+  - kind: photo
+    url: https://www.infobae.com/sociedad/policiales/2026/11/16/detuvieron-a-la-novia-de-un-narco-en-cordoba-que-enterraba-la-droga-y-organizaba-pelea-de-gallos/
+    media_url: https://www.infobae.com/resizer/v2/V5NKBLFYKNCR7DDSILPAAZAXTA.jpg?auth=b4bf73545ccb3bd184892fc621155e0f33bae169c347e5f62c8f6d29ccc42d09&smart=true&width=992&height=558&quality=85
+    publisher: Infobae
+    caption: FPA officers seized money and items of judicial interest in the house at Carabelas 600 in La Costanera.
 ---
 
 A 61-year-old woman was detained in Jesús María during a Fuerza Policial
 Antinarcotráfico operation within a drug-sale investigation that had already
-dismantled two sale points in October. [@1] Officers carried out the procedure
+dismantled two sale points in October. [@1,2] Officers carried out the procedure
 in a house on Carabelas street at 600 in barrio La Costanera, where they
 detained her under a judicial order and seized money and other items linked to
-the case. [@1]
+the case. [@1,2]
 
 The investigation followed two October raids in the same neighbourhood in which
 the FPA detained a man, dismantled two cocaine and marijuana sale points and
@@ -64,5 +75,4 @@ authorities reporting that she was reportedly the partner of the man arrested in
 the earlier operation. [@1]
 
 The Jesús María anti-narcotics prosecution office charged her with
-comercialización de estupefacientes under National Law 23.737. [@1]
-
+comercialización de estupefacientes under National Law 23.737. [@1,2]
