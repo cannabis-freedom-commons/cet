@@ -46,6 +46,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-15
     language: tr
+  - title: 'Diyarbakır’daki adrese operasyon: 700’e yakın hap bulundu'
+    url: https://amidahaber.com/diyarbakir/diyarbakirdaki-adrese-operasyon-700e-yakin-hap-bulundu-240422h
+    publisher: Amida Haber
+    date: 2026-11-15
+    language: tr
 open_questions:
     - Son Dakika places the raid the day before publication, implying 14 November 2026, while the report retains 15 November 2026 as the incident date.
     - No identities, charges, pleas or court outcome for the two suspects were reported.
@@ -57,18 +62,18 @@ open_questions:
 ---
 
 Police in Diyarbakır's Bağlar district detained two suspects in connection with
-a drug operation. [@1,2] The suspects had been identified as trading drugs before
+a drug operation. [@1,2,3] The suspects had been identified as trading drugs before
 they were caught, in an operation supported by Anti-Terror Branch teams. [@1]
 The Bağlar District Police Crime Prevention and Investigation Bureau had
 received information that drugs and an unlicensed weapon were at an address in
-Kaynartepe Mahallesi. [@1,2] The Provincial Police Directorate said it announced the operation on its social media accounts. [@2] After technical and physical surveillance, the teams
+Kaynartepe Mahallesi. [@1,2,3] The Provincial Police Directorate said it announced the operation on its social media accounts. [@2] After technical and physical surveillance, the teams
 moved in and raided the identified address with the participation of the
-Anti-Terror Branch. [@1]
+Anti-Terror Branch. [@1,3]
 
-The search found 381 ecstasy pills and 294 synthetic pharmaceutical pills. [@1]
+The search found 381 ecstasy pills and 294 synthetic pharmaceutical pills. [@1,3]
 The same search found 77 grams of cannabis and a further 19.84 grams of cannabis
-divided into 65 pieces ready for sale. [@1] Officers also seized one unlicensed
-pistol found at the address. [@1,2] The two detained suspects were held for police
+divided into 65 pieces ready for sale. [@1,3] Officers also seized one unlicensed
+pistol found at the address. [@1,2,3] The two detained suspects were held for police
 procedures before being sent to the judicial authorities. [@1]
 
 The operation was presented as part of police anti-drug work that produced a
