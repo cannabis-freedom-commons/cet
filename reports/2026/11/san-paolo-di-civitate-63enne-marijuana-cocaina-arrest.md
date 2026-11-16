@@ -114,18 +114,23 @@ sources:
     publisher: Gazzetta H24
     date: 2026-11-14
     language: it
+  - title: 'San Paolo di Civitate, 63enne arrestato per spaccio: sequestrati marijuana e cocaina'
+    url: https://www.lagazzettadisansevero.it/san-paolo-di-civitate-63enne-arrestato-per-spaccio-sequestrati-marijuana-e-cocaina/
+    publisher: La Gazzetta di San Severo
+    date: 2026-11-14
+    language: it
 ---
 
 Carabinieri arrested a 63-year-old man, already known to law enforcement, in
 flagrante in San Paolo di Civitate on suspicion of possessing drugs for dealing.
-[@1,3,4,5] The operation was carried out by officers of the local Carabinieri station
-as part of drug prevention and enforcement checks. [@2] After the arrest was
+[@1,3,4,5,6] The operation was carried out by officers of the local Carabinieri station
+as part of drug prevention and enforcement checks. [@2,6] After the arrest was
 validated, the preliminary investigations judge ordered house arrest for the
-man. [@1,3,4,5]
+man. [@1,3,4,5,6]
 
 Officers seized over 320 grams of marijuana and about 66 grams of cocaine, along
-with material for packaging doses. [@1,3,4,5] Officers found a first dose of marijuana
-on the kitchen table during a search of the man's home in the town centre. [@1,4,5]
+with material for packaging doses. [@1,3,4,5,6] Officers found a first dose of marijuana
+on the kitchen table during a search of the man's home in the town centre. [@1,4,5,6]
 They recovered six more sealed packages of the same substance hidden in an
 adjacent plot available to the 63-year-old. [@1,3,4,5]
 
