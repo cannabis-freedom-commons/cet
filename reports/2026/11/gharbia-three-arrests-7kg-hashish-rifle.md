@@ -62,6 +62,11 @@ sources:
     publisher: دار الهلال
     date: 2026-11-14
     language: ar
+  - title: ضبط 3 عاطلين بحوزتهم أكثر من 7 كيلو حشيش وكمية من مخدر الآيس وبندقية آلية بالغربية
+    url: https://www.cairo24.com/2529192
+    publisher: القاهرة 24
+    date: 2026-11-14
+    language: ar
 media:
   - kind: photo
     url: https://www.youlyou.com/94304
@@ -86,18 +91,18 @@ media:
 ---
 
 Security services uncovered the circumstances of a post supported by a video
-clip that had been circulated on social media. [@1,3,4,6,8] The poster complained that
+clip that had been circulated on social media. [@1,3,4,6,8,9] The poster complained that
 the occupants of a private car were promoting narcotic substances in a village
-in Gharbia Governorate. [@1,2,3,4,5,8] Investigators identified the car appearing in the
-video and arrested those responsible for the incident. [@1,4,7] The three are
+in Gharbia Governorate. [@1,2,3,4,5,8,9] Investigators identified the car appearing in the
+video and arrested those responsible for the incident. [@1,4,7,9] The three are
 unemployed men, two of whom have criminal records, and they live in Gharbia and
-Kafr El Sheikh governorates. [@1,2,3,4,5,6,8]
+Kafr El Sheikh governorates. [@1,2,3,4,5,6,8,9]
 
 After legal procedures were completed, officers arrested the suspects while they
-held more than 7 kilograms of hashish. [@1,2,3,4,5,7] They also held a quantity of ice
-drug and an automatic rifle alongside the hashish. [@1,2,3,4,5,6,8] When confronted, the men
+held more than 7 kilograms of hashish. [@1,2,3,4,5,7,9] They also held a quantity of ice
+drug and an automatic rifle alongside the hashish. [@1,2,3,4,5,6,8,9] When confronted, the men
 admitted committing the act as described and possessing the narcotics for the
-purpose of trafficking. [@1,2,3,4,5,6,8]
+purpose of trafficking. [@1,2,3,4,5,6,8,9]
 
 Authorities took the necessary legal measures against the suspects, and the
-Public Prosecution took over the investigation. [@1,2,3,4,5,7,8]
+Public Prosecution took over the investigation. [@1,2,3,4,5,7,8,9]
