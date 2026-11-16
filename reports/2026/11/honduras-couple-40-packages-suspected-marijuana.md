@@ -63,6 +63,11 @@ sources:
     publisher: Diario Tiempo de Honduras
     date: 2026-11-14
     language: es
+  - title: '#ÚLTIMAHORA | Transportaban 40 paquetes de marihuana en cajas; se le dio captura a dos sujetos en Tegucigalpa'
+    url: https://www.facebook.com/PoliciaNacionaldeHonduras/posts/%C3%BAltimahora-transportaban-40-paquetes-de-marihuana-en-cajas-se-le-dio-captura-a-d/1474883681501270/
+    publisher: Policía Nacional de Honduras
+    date: 2026-11-14
+    language: es
 media:
   - kind: photo
     url: https://proceso.hn/arrestan-a-pareja-cuando-transportaban-39-paquetes-de-supuesta-marihuana-en-la-capital/
@@ -108,8 +113,8 @@ media:
 
 A couple was detained by agents of the Direccion Policial de Investigaciones
 (DPI) while transporting 40 packages of suspected marijuana in a pickup truck.
-[@1,2,4,6] The two detainees were a 35-year-old man known by the alias “El Humilde” and a 32-year-old woman. [@2,5] The operation took place in the village of Villa Vieja in the capital's Distrito Central. [@3,5] The load was carried inside sealed boxes, a method that would have allowed
-the drugs to be hidden while being moved. [@1,4,6] Police seized the gray Honda CR-V and a gray Samsung mobile phone as evidence. [@3] Police valued the suspected marijuana at about 200,000 lempiras on the illicit market. [@2,5] Officers found 39 wraps of dry plant material, suspected to be marijuana, in two cardboard boxes in the vehicle's trunk. [@2,5] Technicians from the Crime Scene Processing Unit (Unidad de Procesamiento de Escena del Delito, UPED-LPCC) supported the vehicle inspection. [@5]
+[@1,2,4,6,7] The two detainees were a 35-year-old man known by the alias “El Humilde” and a 32-year-old woman. [@2,5] The operation took place in the village of Villa Vieja in the capital's Distrito Central. [@3,5] The load was carried inside sealed boxes, a method that would have allowed
+the drugs to be hidden while being moved. [@1,4,6,7] Police seized the gray Honda CR-V and a gray Samsung mobile phone as evidence. [@3] Police valued the suspected marijuana at about 200,000 lempiras on the illicit market. [@2,5] Officers found 39 wraps of dry plant material, suspected to be marijuana, in two cardboard boxes in the vehicle's trunk. [@2,5] Technicians from the Crime Scene Processing Unit (Unidad de Procesamiento de Escena del Delito, UPED-LPCC) supported the vehicle inspection. [@5]
 
 During the procedure investigators located the packages containing the suspected
 illicit substance, so both occupants of the vehicle were taken into custody by
