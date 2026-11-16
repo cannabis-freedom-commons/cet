@@ -32,6 +32,11 @@ sources:
     publisher: PZC
     date: 2026-11-16
     language: nl
+  - title: 'Vader (38) teelt cannabis naast kamer van zoontje en experimenteert er op los met drugs: “Dat is een hobby van mij”'
+    url: https://www.hln.be/gent/vader-38-teelt-cannabis-naast-kamer-van-zoontje-en-experimenteert-er-op-los-met-drugs-dat-is-een-hobby-van-mij~ab67f533/
+    publisher: HLN
+    date: 2026-11-16
+    language: nl
 open_questions:
   - No number of plants, weight, or value for the plantation was published.
   - No separate trial date was given; 16 November 2026, the publication date, stands in for the latest trial hearing.
@@ -43,20 +48,19 @@ open_questions:
 ---
 
 A 38-year-old father stood trial in Ghent over a cannabis plantation grown next
-to the room where his barely 3-year-old son slept. [@1] He came to court
-handcuffed this week facing a possible heavy prison sentence. [@1] The
+to the room where his barely 3-year-old son slept. [@1,2] He came to court
+handcuffed this week facing a possible heavy prison sentence. [@1,2] The
 prosecutor said investigation showed he constantly experimented with drugs, had
-several psychoses and used drugs in the child's presence. [@1] The verdict in
-the case is due on 10 December. [@1]
+several psychoses and used drugs in the child's presence. [@1,2] The verdict in
+the case is due on 10 December. [@1,2]
 
-The plantation was discovered during a house search in July 2025. [@1] It had
-been installed in a space next to his 3-year-old son's room. [@1] For these acts
-the prosecution requested a one-year prison sentence. [@1] At trial he expressed
+The plantation was discovered during a house search in July 2025. [@1,2] It had
+been installed in a space next to his 3-year-old son's room. [@1,2] For these acts
+the prosecution requested a one-year prison sentence. [@1,2] At trial he expressed
 regret, saying he should not have installed the plantation next to his son's
 room and describing experimenting with drugs as a hobby of his that happened
-only in his mancave. [@1]
+only in his mancave. [@1,2]
 
-He had previously been convicted in 2021 for selling drugs. [@1] Barely three
+He had previously been convicted in 2021 for selling drugs. [@1,2] Barely three
 weeks after that conviction he was caught with 2.7 kilograms of cannabis in his
-car. [@1] The defendant is currently in prison for a new, separate case. [@1]
-
+car. [@1,2] The defendant is currently in prison for a new, separate case. [@1,2]
