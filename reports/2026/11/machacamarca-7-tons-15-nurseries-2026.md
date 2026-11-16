@@ -106,13 +106,18 @@ sources:
     publisher: El Mundo
     date: 2026-11-15
     language: es
+  - title: Felcn destruye siete toneladas de marihuana y halla 15 viveros en Potosí
+    url: https://eldeber.com.bo/pais/felcn-destruye-siete-toneladas-marihuana-halla-15-viveros-potosi_1794799768
+    publisher: EL DEBER
+    date: 2026-11-16
+    language: es
 ---
 
 FELCN officers destroyed and incinerated seven tons of natural-state marijuana
 after intervening in 15 nursery sites in Machacamarca, in the municipality of
 Chayanta, Rafael Bustillo province, Potosí. [@1,5,6,7,8] The operation was carried out
-under the order called Escudo Verde. [@1,5,7,8] The intervention targeted facilities
-used to grow marijuana. [@1] The anti-drug operation took place in the community
+under the order called Escudo Verde. [@1,5,7,8,9] The intervention targeted facilities
+used to grow marijuana. [@1,9] The anti-drug operation took place in the community
 of Machacamarca under the jurisdiction of the municipality of Chayanta. [@3,5,6,8] The
 order contemplated control actions in spaces used for planting marijuana,
 according to the FELCN report. [@2] Officers eliminated the seized crops by
