@@ -50,30 +50,27 @@ sources:
     publisher: Nai Dunia
     date: 2026-11-16
     language: hi
-open_questions:
-    - The operation took place on the intervening night of 14-15 November 2026 in about two and a half hours across 50 houses; 14 November 2026 is used as the incident date.
-    - The charas and ganja were described only as seized material with police valuations, with no laboratory confirmation reported.
-    - Shamim Khan was arrested as an absconder in a separate attempt-to-murder and Arms Act case of 11 September 2026 at Shahjahanabad, so it is unclear whether he was also booked in the narcotics case.
-    - No charge sheet, plea or court outcome was reported; the case was at the investigation stage.
-    - The 1.128 kg cannabis total is the sum of the separately stated 741 grams of charas and 387 grams of ganja; the 606 injections are non-cannabis and excluded, while the Rs 2.85 lakh estimate covers drugs and injections together.
-    - The ownership of the seized phone, cash and weighing scale was not stated, beyond that they were found with the drugs at her premises.
+  - title: 'Major drug bust: Woman held with hashish, cannabis, 606 intoxicant injections - The Hitavada'
+    url: https://www.thehitavada.com/Encyc/2026/11/16/major-drug-bust-woman-held-with-hashish-cannabis-606-intoxicant-injections-.html
+    publisher: The Hitavada
+    date: 2026-11-16
 ---
 
 Bhopal police arrested 35-year-old Rajshree Meshkar, a resident of Vajpayee
-Nagar slums, during raids in the Eidgah Hills area. [@1] The drugs were found at the house of 35-year-old Rajshree Meshkar in hut number 719 in Vajpayee Nagar Multi in the Shahjahanabad police station area. [@2] Thirteen teams from
+Nagar slums, during raids in the Eidgah Hills area. [@1,3] The drugs were found at the house of 35-year-old Rajshree Meshkar in hut number 719 in Vajpayee Nagar Multi in the Shahjahanabad police station area. [@2] Thirteen teams from
 nine police stations under Zone-3 conducted raids late on Saturday night on the
-instructions of Police Commissioner Sanjay Kumar. [@1,2] Thirteen teams from nine Zone-3 police stations searched about 50 houses in about two and a half hours under three ACPs and nine station house officers. [@2] Police also arrested
+instructions of Police Commissioner Sanjay Kumar. [@1,2,3] Thirteen teams from nine Zone-3 police stations searched about 50 houses in about two and a half hours under three ACPs and nine station house officers. [@2] Police also arrested
 22-year-old Shamim Khan alias Fakir during the operation, who had been
-absconding in an attempted murder case registered on 11 September. [@1,2] Shamim's pending case was registered at Shahjahanabad police station on 11 September 2026 under attempt-to-murder and Arms Act provisions, and he had been absconding since then. [@2] Rajshree
+absconding in an attempted murder case registered on 11 September. [@1,2,3] Shamim's pending case was registered at Shahjahanabad police station on 11 September 2026 under attempt-to-murder and Arms Act provisions, and he had been absconding since then. [@2] Rajshree
 had three previous criminal cases registered against her, while Shamim had 18
-previous criminal cases. [@1,2] Rajshree's three earlier cases involved illegal liquor sale, disputes, assault and threats, while Shamim's 18 earlier cases included illegal weapons, liquor transport, assault and threats. [@2]
+previous criminal cases. [@1,2,3] Rajshree's three earlier cases involved illegal liquor sale, disputes, assault and threats, while Shamim's 18 earlier cases included illegal weapons, liquor transport, assault and threats. [@2]
 
 Officers recovered 741 grams of charas valued by police at Rs 1.90 lakh and 387
-grams of marijuana valued at Rs 25,000. [@1,2] Officers also recovered 304
+grams of marijuana valued at Rs 25,000. [@1,2,3] Officers also recovered 304
 buprenorphine injections and 302 pheniramine maleate injections valued by police
-at Rs 70,000, which are not counted in the cannabis total. [@1,2] Police estimated the seized drugs and injections together at about Rs 2.85 lakh, a combined figure that includes the non-cannabis injections. [@2] Police also
+at Rs 70,000, which are not counted in the cannabis total. [@1,2,3] Police estimated the seized drugs and injections together at about Rs 2.85 lakh, a combined figure that includes the non-cannabis injections. [@2] Police also
 seized a weighing scale, Rs 9,390 in cash and a mobile phone valued at Rs 1.5
-lakh. [@1] Police also found a brass weighing scale, transparent and yellow polythene, Rs 9,390 in cash and a mobile phone worth about Rs 1.5 lakh. [@2]
+lakh. [@1,3] Police also found a brass weighing scale, transparent and yellow polythene, Rs 9,390 in cash and a mobile phone worth about Rs 1.5 lakh. [@2]
 
 Police registered a case under the NDPS Act and the MP Drugs Prevention Act and
-were questioning her about the supply network. [@1,2]
+were questioning her about the supply network. [@1,2,3]
