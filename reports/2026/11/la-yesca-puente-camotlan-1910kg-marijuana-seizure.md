@@ -32,6 +32,11 @@ media:
     media_url: https://nnc.mx/_next/image?url=https%3A%2F%2Fnnc.mx%2Fuploads%2Faseguran-1-910-kilos-de-presunta-mariguana-en-la-yesca.webp&w=1080&q=88
     publisher: NNC.MX
     caption: 'Ejército Mexicano handout photo published with the report of the La Yesca seizure. Photo: Ejército Mexicano'
+  - kind: photo
+    url: https://www.excelsior.com.mx/nacional/ejercito-asegura-mariguana-nayarit
+    media_url: https://imagenes.excelsior.com.mx/files/main_image_1200_800/uploads/2026/11/16/6afb463538733.png
+    publisher: Excélsior
+    caption: 'Federal forces with the 1,910 kilos of marijuana seized near Puente de Camotlán, La Yesca. Photo: Excélsior'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 997fab583b18cc2a19923e10ce109b67
@@ -52,19 +57,27 @@ sources:
     publisher: N+
     date: 2026-11-16
     language: es
+  - title: Ejército asegura casi dos toneladas de mariguana en Nayarit
+    url: https://www.excelsior.com.mx/nacional/ejercito-asegura-mariguana-nayarit
+    publisher: Excélsior
+    date: 2026-11-16
+    language: es
+open_questions:
+  - Excelsior relays the Defensa statement by the V Military Region and 13th Military Zone commands, so it is not independent reporting of the seizure.
+  - Accounts give different administration-wide marijuana seizure totals (140,378 versus 138,462 kilograms); those totals are context, not part of this event's figures.
 ---
 
 The Guardia Nacional and the Mexican Army seized about 1,910 kilograms of
 suspected marijuana in Puente de Camotlán, in the municipality of La Yesca,
-Nayarit. [@1,3] The commands of the V Military Region and the 13th Military Zone
+Nayarit. [@1,3,4] The commands of the V Military Region and the 13th Military Zone
 said personnel made the seizure during surveillance patrols and ground
-reconnaissance. [@1,2] The seized material was described as about 1,910 kilograms
+reconnaissance. [@1,2,4] The seized material was described as about 1,910 kilograms
 of a green herb with characteristics similar to marijuana and as belonging to
-the Cartel Jalisco Nueva Generación. [@1,2,3]
+the Cartel Jalisco Nueva Generación. [@1,2,3,4]
 
 The operation was coordinated with the Navy and Nayarit's state security
 ministry and had the accompaniment of the Navy and the Nayarit state police.
-[@1] The seizure took place on 15 November 2026 in the locality of Puente de
+[@1,4] The seizure took place on 15 November 2026 in the locality of Puente de
 Camotlán, municipality of La Yesca. [@1,3] What was seized was placed at the
 disposal of the federal prosecutor's office in Tepic for investigation and
-expert analysis. [@1,2,3]
+expert analysis. [@1,2,3,4]
