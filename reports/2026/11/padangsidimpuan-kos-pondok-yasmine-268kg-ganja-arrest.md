@@ -67,6 +67,11 @@ sources:
     publisher: StartNews
     date: 2026-11-15
     language: id
+  - title: Kamar Kos Jadi Tempat Simpan Ganja, Polres Padangsidimpuan Ungkap Dugaan Jaringan Lintas Provinsi
+    url: https://www.sumut24.co/news/288517/kamar-kos-jadi-tempat-simpan-ganja-polres-padangsidimpuan-ungkap-dugaan-jaringan-lintas-provinsi/
+    publisher: Sumut24
+    date: 2026-11-14
+    language: id
 open_questions:
   - The 2,680.06 grams was described only as material suspected to be ganja, with no laboratory confirmation reported.
   - No charges, custody ruling or court outcome were reported; both men were still under examination.
@@ -76,14 +81,14 @@ open_questions:
 ---
 
 Padangsidimpuan narcotics officers detained YA (23) and AFH (21) in room D 11 of
-Kos Pondok Yasmine at about 22.00 WIB on Friday 13 November 2026. [@1,3] The
+Kos Pondok Yasmine at about 22.00 WIB on Friday 13 November 2026. [@1,3,4] The
 boarding house stands on Jalan Sutan Moh. Arif in Wek I, Padangsidimpuan Utara,
-in Padangsidimpuan, North Sumatra. [@1,3] YA was reported as a 23-year-old student
+in Padangsidimpuan, North Sumatra. [@1,3,4] YA was reported as a 23-year-old student
 from Padangmatinggi, Padangsidimpuan Selatan, and AFH as a 21-year-old from
 Sipiongot village, Dolok, Padang Lawas Utara. [@2]
 
 Officers seized six packets and other items suspected to contain ganja with a
-combined gross weight of 2,680.06 grams, about 2.68 kilograms. [@1,3] From the
+combined gross weight of 2,680.06 grams, about 2.68 kilograms. [@1,3,4] From the
 wardrobe officers took a black plastic pack of ganja weighing 930 grams gross
 and a blue plastic pack weighing 700 grams. [@1] From under the bed they found
 one bale of ganja weighing 1,040 grams gross. [@1] Police also seized a black
@@ -91,12 +96,12 @@ Oppo mobile phone, a digital scale, two cutter knives and a pair of blue jeans.
 [@1]
 
 Police said the raid followed a public tip received at about 21.00 WIB, with
-officers moving on room D 11 about an hour later. [@1] Early accounts indicated
+officers moving on room D 11 about an hour later. [@1,4] Early accounts indicated
 the ganja came from Mandailing Natal and was to be repacked and sent to Malang,
-East Java, by expedition service. [@1,3] YA told police he obtained the ganja from
-a man called Mr. X in Mandailing Natal for Rp1,000,000. [@2,3] YA also admitted
+East Java, by expedition service. [@1,3,4] YA told police he obtained the ganja from
+a man called Mr. X in Mandailing Natal for Rp1,000,000. [@2,3,4] YA also admitted
 having sent ganja to Malang several times before, an account police said still
-needed proving. [@2] AFH said he helped collect the ganja from Mandailing Natal
+needed proving. [@2,4] AFH said he helped collect the ganja from Mandailing Natal
 with YA for a promised payment of Rp500,000. [@1]
 
 Both men were still being examined at the Padangsidimpuan narcotics unit. [@1]
