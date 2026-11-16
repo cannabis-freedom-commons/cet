@@ -41,6 +41,10 @@ sources:
     publisher: شبكة يافا الإخبارية
     date: 2026-11-16
     language: ar
+  - title: Police arrest 13 suspects and seize suspected drugs in Jericho, Bethlehem, and Qalqilya - Yaffa News Network
+    url: https://yaffaps.com/en/page-142920.html
+    publisher: Yaffa News Network
+    date: 2026-11-16
 open_questions:
   - No weight or quantity was published for any seizure, so no cannabis weight figure is recorded.
   - The detailed breakdown describes one suspect in Jericho, six in Bethlehem and one in Qalqilya, which accounts for eight of the 13 reported arrests.
@@ -52,23 +56,22 @@ open_questions:
 ---
 
 Palestinian police arrested 13 people on Monday in separate drug cases in the
-Jericho, Bethlehem and Qalqilya governorates. [@1] In Jericho, the
+Jericho, Bethlehem and Qalqilya governorates. [@1,2] In Jericho, the
 anti-narcotics branch arrested a repeat-offender suspect on suspicion of trading
 and promoting drugs after monitoring him and obtaining a search warrant from the
-Public Prosecution. [@1] In Bethlehem, the anti-narcotics branch arrested six
+Public Prosecution. [@1,2] In Bethlehem, the anti-narcotics branch arrested six
 people in four separate cases during operations carried out in different parts
-of the governorate. [@1] In Qalqilya, the anti-narcotics branch, supported by
+of the governorate. [@1,2] In Qalqilya, the anti-narcotics branch, supported by
 the National Security Forces, searched a house in the city and arrested the
-suspect found there. [@1]
+suspect found there. [@1,2]
 
 In the Jericho house search, officers seized suspected hashish and hybrid
 cannabis, seeds suspected to be narcotic, and money, tools and phones suspected
-of use in drug trading. [@1] In Bethlehem, officers seized material suspected to
+of use in drug trading. [@1,2] In Bethlehem, officers seized material suspected to
 be cannabis and hashish, along with pills, medicines and dangerous drugs held
-without prescriptions. [@1] In Qalqilya, officers seized hybrid cannabis and
+without prescriptions. [@1,2] In Qalqilya, officers seized hybrid cannabis and
 suspected narcotic pills, along with money suspected to be proceeds of drug
 trafficking. [@1]
 
 Police held the suspects and the seized items while the required legal
 procedures were completed. [@1]
-
