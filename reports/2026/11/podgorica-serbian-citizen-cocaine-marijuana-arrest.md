@@ -61,28 +61,27 @@ sources:
     url: https://en.vijesti.me/news-b/black-chronicle/836473/Serbian-citizen-arrested--cocaine-and-marijuana-found-on-him
     publisher: Vijesti
     date: 2026-11-16
-open_questions:
-  - No weight or quantity was published for the seized marijuana, so no cannabis figure is counted.
-  - Both seized substances were described only as resembling cocaine and marijuana, with no laboratory confirmation reported.
-  - The about 56 grams of suspected cocaine is not counted in the cannabis figures.
-  - 15 November 2026 is inferred from the check at about 21:00 on the evening before the 16 November 2026 publications; no calendar date for the arrest was stated.
-  - No court outcome, plea or detention measure beyond the order and the forthcoming handover to the prosecutor was reported.
+  - title: Држављанин Србије ухапшен у Подгорици, осумњичен за уличну продају дроге
+    url: https://www.in4s.net/drzavljanin-srbije-uhapsen-u-podgorici-osumnjicen-za-ulicnu-prodaju-droge/
+    publisher: IN4S
+    date: 2026-11-16
+    language: sr
 ---
 
 Podgorica police identified and, on the state prosecutor's order, arrested
 42-year-old Serbian citizen M.P. after finding cocaine and marijuana on him.
-[@3,4] Officers of the Podgorica Security Department had checked M.P. at about
+[@3,4,5] Officers of the Podgorica Security Department had checked M.P. at about
 21:00 the previous evening as part of an operation against street sale of drugs
 in the capital. [@2]
 
 During the check officers found on him a PVC bag with white powder resembling
-cocaine weighing about 56 grams. [@1,4] After he was brought to the Podgorica
+cocaine weighing about 56 grams. [@1,4,5] After he was brought to the Podgorica
 Security Department's premises, officers seized a second PVC bag holding green
-plant material resembling marijuana. [@2,4]
+plant material resembling marijuana. [@2,4,5]
 
 Following criminal processing and on the order of the state prosecutor at the
 Higher State Prosecutor's Office in Podgorica, M.P. was deprived of liberty on
 suspicion of unauthorised production, possession and distribution of narcotic
-drugs. [@2] He was to be brought to the competent state prosecutor at the Higher
+drugs. [@2,5] He was to be brought to the competent state prosecutor at the Higher
 State Prosecutor's Office in Podgorica with a criminal complaint within the
 legal deadline. [@1,4]
