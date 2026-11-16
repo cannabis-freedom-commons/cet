@@ -47,29 +47,40 @@ sources:
     publisher: Desherpotro
     date: 2026-11-16
     language: bn
+  - title: গাইবান্ধায় মোটরসাইকেলের সিটের নিচে ৩ কেজি গাঁজা, যুবক গ্রেফতার
+    url: https://dhakamail.com/country/343430
+    publisher: Dhaka Mail
+    date: 2026-11-16
+    language: bn
 open_questions:
   - The whole account rests on a single Desherpotro report citing district detective-branch sources, with no independent account found.
   - The report says the raid occurred at 2:20 on the night of Monday 16 November 2026, so it may have begun late on 15 November; 16 November is used as the incident date.
   - No value estimate, weighing details beyond the stated 2 kg plus 1 kg split, or laboratory confirmation of the dried ganja was reported.
   - No detention measure, court appearance or outcome beyond the filing of case number 29 at Gaibandha Sadar station was reported.
+  - The spelling of the detained man's name differs between accounts.
+media:
+  - kind: photo
+    url: https://dhakamail.com/country/343430
+    media_url: https://cdx.dhakamail.com/media/images/2026November/druge_20261116_182904394.jpg
+    publisher: Dhaka Mail
+    caption: Portrait identified as 26-year-old Sujan Miya, published with the report of the Gaibandha motorcycle-seat ganja seizure.
 ---
 
 District Detective Branch police detained 26-year-old Md. Sujan Nomiya with 3 kg
-of dried ganja at Sukh-Shantir Mor in Gaibandha town. [@1] The detained youth is
+of dried ganja at Sukh-Shantir Mor in Gaibandha town. [@1,2] The detained youth is
 a resident of Purba Phulmati Balar Hat in Phulbari, Kurigram, and is the son of
-Md. Belal Hossain. [@1]
+Md. Belal Hossain. [@1,2]
 
 The raid took place at about 2:20 a.m. on Monday 16 November 2026 on the highway
 in front of the LGED building in the Sukh-Shantir Mor area of Gaibandha
-Municipality. [@1] A DB operation team led by the officer-in-charge of the
+Municipality. [@1,2] A DB operation team led by the officer-in-charge of the
 district detective branch carried out the raid on secret information under the
 overall direction of the Gaibandha superintendent of police. [@1] Searching a
 black Pulsar 150cc motorcycle, officers found 2 kg wrapped in white polythene
 and a further 1 kg wrapped in black polythene hidden in a special manner under
-the seat, 3 kg of dried ganja in total. [@1] Officers seized the drugs and the
-motorcycle in front of witnesses present at the scene. [@1]
+the seat, 3 kg of dried ganja in total. [@1,2] Officers seized the drugs and the
+motorcycle in front of witnesses present at the scene. [@1,2]
 
 A regular case numbered 29 was filed against the detained man at Gaibandha Sadar
 police station on 16 November under sections 36(1) table 19(a) and 38 of the
-Narcotics Control Act 2018. [@1]
-
+Narcotics Control Act 2018. [@1,2]
