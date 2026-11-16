@@ -48,32 +48,30 @@ sources:
     publisher: Merkur.de
     date: 2026-11-16
     language: de
-open_questions:
-  - No weight or quantity was published for the marijuana or for any of the other seized drugs, so no cannabis weight is recorded.
-  - The sources allege MDMA was given on the hikes but do not say whether marijuana was among the substances passed to participants or was only found at the residence.
-  - The exact locations of the residence and practice were not disclosed, so the district stands in for the place.
-  - The search was dated only as the middle of last week; 13 November 2026, the day of the pretrial detention order, is used as the incident date.
-  - No formal charges, plea or court outcome beyond the pretrial detention order was reported.
-  - The material was described as seized narcotics including marijuana, with no laboratory confirmation reported.
+  - title: 'Verdacht auf Drogenabgabe bei „spirituellen Wanderungen“: 61-jähriger Therapeut in Untersuchungshaft'
+    url: https://bsaktuell.de/deutschland-und-welt/verdacht-auf-drogenabgabe-bei-spirituellen-wanderungen-61-jaehriger-therapeut-in-untersuchungshaft/371102/
+    publisher: BSAktuell
+    date: 2026-11-16
+    language: de
 ---
 
 Specialist Unit 4 of the Weilheim criminal police is investigating a 61-year-old
 therapist from the Bad Tölz-Wolfratshausen district, under the direction of the
 Munich II prosecution, on suspicion of passing narcotics to participants in
 so-called spiritual hikes. [@1,3] The therapist allegedly offered so-called
-spiritual hikes and gave narcotics, especially MDMA, to selected people. [@1,3]
+spiritual hikes and gave narcotics, especially MDMA, to selected people. [@1,3,4]
 
 In the middle of last week officers executed a judicial search order for the
-therapist's residence and practice. [@1,3] At the 61-year-old's residence officers
+therapist's residence and practice. [@1,3,4] At the 61-year-old's residence officers
 found substantial quantities of various narcotics, mainly MDMA but also cocaine,
 ketamine, LSD, ecstasy, marijuana, psilocybin mushrooms and other psychoactive
-substances, which were confiscated and secured. [@1,3] Investigators also seized
+substances, which were confiscated and secured. [@1,3,4] Investigators also seized
 storage media such as mobile phones and laptops as well as patient files. [@1]
 
 The Munich II prosecution applied for detention against the 61-year-old German
 national, and when he was brought before a judge on Friday 13 November 2026 the
 investigating judge issued a pretrial detention order and he was taken directly
-to a prison, while the investigation continues. [@1,3] Police did not say exactly
+to a prison, while the investigation continues. [@1,3,4] Police did not say exactly
 where the practice and residence are, citing the suspect's privacy rights. [@2]
 How many people may have been affected still has to be established by the
 investigation, according to a police spokesman. [@2]
