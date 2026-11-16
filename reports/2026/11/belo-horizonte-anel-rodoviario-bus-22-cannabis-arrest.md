@@ -50,6 +50,11 @@ sources:
     publisher: G1
     date: 2026-11-16
     language: pt
+  - title: Passageiro é preso em BH com cocaína e maconha com rosto de ator que fez Pablo Escobar
+    url: https://pordentrodetudo.com.br/passageiro-e-preso-em-bh-com-cocaina-e-maconha-com-rosto-de-ator-que-fez-pablo-escobar/
+    publisher: Por Dentro de Tudo
+    date: 2026-11-16
+    language: pt
 open_questions:
   - No weight was published for the 20 bars of marijuana, two portions of skunk or 15 bars of cocaine, so no kilogram figure is recorded.
   - The 15 bars of cocaine were also seized but are excluded from the cannabis figures.
@@ -72,14 +77,14 @@ media:
 
 A man was arrested in flagrante on Sunday 15 November 2026 on suspicion of
 transporting drugs on an interstate bus on the Anel Rodoviário de Belo
-Horizonte, near Shopping Del Rey in the north-west of the capital. [@1,2,3] The passenger was 27 years old. [@2]
+Horizonte, near Shopping Del Rey in the north-west of the capital. [@1,2,3] The passenger was 27 years old. [@2,4]
 
 Military Police of Minas Gerais found 20 bars of marijuana, 15 of cocaine and
-two portions of skunk in the passenger's luggage. [@1,3] The drugs were marked with a poster for the series Escobar: o patrão do mal, in which Pablo Escobar was played by actor Andrés Parra. [@2] Police found 13 bars of cocaine in the backpack the passenger carried by his feet. [@2] Police found 20 bars of marijuana, two packets of skunk and two bars of cocaine in the suitcase in the luggage compartment. [@2,3] The suspect's mobile
+two portions of skunk in the passenger's luggage. [@1,3,4] The drugs were marked with a poster for the series Escobar: o patrão do mal, in which Pablo Escobar was played by actor Andrés Parra. [@2,4] Police found 13 bars of cocaine in the backpack the passenger carried by his feet. [@2] Police found 20 bars of marijuana, two packets of skunk and two bars of cocaine in the suitcase in the luggage compartment. [@2,3] The suspect's mobile
 phone was also seized. [@1]
 
 The man told police he would take the drugs to the municipality of Tucano, in
-Bahia, and would receive R$10,000 for the transport. [@1,2,3] He said he had collected the luggage in São Paulo and refused to say who would receive the drugs. [@2] The seizure came
+Bahia, and would receive R$10,000 for the transport. [@1,2,3,4] He said he had collected the luggage in São Paulo and refused to say who would receive the drugs. [@2,4] The seizure came
 during Operation Última Parada, when officers stopped a bus travelling between
 Santos, in São Paulo state, and Itabaiana, in Bahia. [@1,2,3] During the inspection
 officers found the suitcase containing the cocaine, and the suspect carried a
