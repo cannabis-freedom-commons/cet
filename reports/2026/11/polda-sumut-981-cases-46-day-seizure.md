@@ -42,6 +42,11 @@ media:
     media_url: https://cdn.antaranews.com/cache/1200x800/2026/11/16/IMG-20261116-WA0031-1.jpg.webp
     publisher: Antara News
     caption: 'North Sumatra police display seized drug evidence at Polda Sumut headquarters in Medan. Photo: M. Sahbainy Nasution/ANTARA'
+  - kind: photo
+    url: https://sinarindonesia.id/polda-sumut-gencarkan-pemberantasan-narkoba-sita-172-kg-sabu-dan-157-kg-ganja/
+    media_url: https://sinarindonesia.id/wp-content/uploads/2026/11/IMG_20261116_200634-e1794834511722.jpg
+    publisher: Sinar Indonesia
+    caption: North Sumatra police display seized drug evidence from the 46-day crackdown in North Sumatra.
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 4d77dcb435f0c13e404f7e7e54e115ac
@@ -81,6 +86,11 @@ sources:
     publisher: Teritorial24
     date: 2026-11-16
     language: id
+  - title: Polda Sumut Gencarkan Pemberantasan Narkoba, Sita 172 Kg Sabu dan 157 Kg Ganja - Sinar Indonesia
+    url: https://sinarindonesia.id/polda-sumut-gencarkan-pemberantasan-narkoba-sita-172-kg-sabu-dan-157-kg-ganja/
+    publisher: Sinar Indonesia
+    date: 2026-11-16
+    language: id
 open_questions:
   - VIVA gives the liquid evidence as 23.8 litres while the report cites 23,868 millilitres from other accounts, a minor rounding difference.
   - The new account gives 157.1 kilograms of cannabis and 172.3 kilograms of methamphetamine, slightly more precise than the rounded 157 kilograms and 172 kilograms used in the report.
@@ -88,17 +98,17 @@ open_questions:
 
 North Sumatra police said they uncovered 981 drug cases involving 1,311 suspects
 and seized 30.34 tons of various drugs and 23,868 milliliters of
-narcotics-containing liquid over 46 days. [@1,2,4,5] Police said the enforcement
-operations ran from 1 October to 15 November 2026. [@1,2,3,5,6,7] In 1,019 operations officers uncovered 301 cases and detained 397 suspects. [@3,7] Polda Sumut also intensified Operation Sarang Narkoba during the same period. [@3] North Sumatra police
+narcotics-containing liquid over 46 days. [@1,2,4,5,8] Police said the enforcement
+operations ran from 1 October to 15 November 2026. [@1,2,3,5,6,7,8] In 1,019 operations officers uncovered 301 cases and detained 397 suspects. [@3,7] Polda Sumut also intensified Operation Sarang Narkoba during the same period. [@3] North Sumatra police
 chief Inspector General Sonny Irawan announced the results on 16 November 2026
-at the North Sumatra police headquarters in Medan. [@1,4,5,6,7]
+at the North Sumatra police headquarters in Medan. [@1,4,5,6,7,8]
 
 From those operations, police seized 172 kilograms of methamphetamine, 157
 kilograms of cannabis, 150,012 cannabis plants, 30,510 ecstasy pills and 23,868
-milliliters of narcotics-containing liquid. [@1,2,3,4,5,6] Those operations seized 84,685.11 grams of methamphetamine, 57,284.08 grams of cannabis, 14 cannabis plants, 321 ecstasy pills, 3,673 etomidate vapes and Rp645 million in cash. [@3] Police also seized Rp1.2
-billion in cash and detained seven suspects alleged to be dealers. [@1,3,4,5,6] The Rp1.2 billion seized is part of three money-laundering cases that police said remain under investigation. [@4] Officers also dismantled and burned 119 barracks or huts used for drug abuse and distribution. [@3,7] Officers also took a rehabilitative approach to 535 people who tested positive for drugs on urine tests but were found carrying no drug evidence. [@3,7] Police
+milliliters of narcotics-containing liquid. [@1,2,3,4,5,6,8] Those operations seized 84,685.11 grams of methamphetamine, 57,284.08 grams of cannabis, 14 cannabis plants, 321 ecstasy pills, 3,673 etomidate vapes and Rp645 million in cash. [@3] Police also seized Rp1.2
+billion in cash and detained seven suspects alleged to be dealers. [@1,3,4,5,6,8] The Rp1.2 billion seized is part of three money-laundering cases that police said remain under investigation. [@4] Officers also dismantled and burned 119 barracks or huts used for drug abuse and distribution. [@3,7] Officers also took a rehabilitative approach to 535 people who tested positive for drugs on urine tests but were found carrying no drug evidence. [@3,7] Police
 said the seized evidence was estimated to have saved 93,469,666 lives and was
-valued at Rp3.36 trillion. [@1,4]
+valued at Rp3.36 trillion. [@1,4,8]
 
 Sonny said the enforcement reflects the National Police commitment to
 eradicating drug abuse and illicit distribution while maintaining public
