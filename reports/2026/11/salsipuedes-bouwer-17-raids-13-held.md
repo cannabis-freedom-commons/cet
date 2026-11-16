@@ -74,15 +74,20 @@ sources:
     publisher: Mira el Norte
     date: 2026-11-14
     language: es
+  - title: 'Manejaban la organización desde Bouwer: Hay 13 detenidos de una banda narco familiar'
+    url: https://enredaccion.com.ar/manejaban-la-organizacion-desde-bouwer-hay-13-detenidos-de-una-banda-narco-familiar/
+    publisher: Enredacción
+    date: 2026-11-14
+    language: es
 ---
 
 The FPA's preliminary report stated that at least 11 people had been detained so
-far. [@1] Thirteen adults were detained: eight men and five women. [@2,4] The procedures inside the Bouwer prison complex were carried out by the Penitentiary Service in coordination with the FPA. [@4] The houses searched were in the Oro Verde, El Pueblito, Ariel and El Talita neighbourhoods of Salsipuedes, and two cells of the Dr. Francisco Luchesse prison were searched. [@4]
+far. [@1] Thirteen adults were detained: eight men and five women. [@2,4,5] The organisation is described as a family-structured group selling cocaine and marijuana. [@5] The procedures inside the Bouwer prison complex were carried out by the Penitentiary Service in coordination with the FPA. [@4] Investigators say part of the illicit manoeuvres was coordinated from those prison cells. [@5] The houses searched were in the Oro Verde, El Pueblito, Ariel and El Talita neighbourhoods of Salsipuedes, and two cells of the Dr. Francisco Luchesse prison were searched. [@4,5]
 
-The raids seized 460 doses of marijuana and seven cannabis plants. [@2,4] Six cars
-and five motorcycles were also seized. [@2,4] The seizure included $12,671,350 in
-cash and 212 US dollars. [@2,4] The authorities valued the total seized items at
-$211,514,690. [@2,4]
+The raids seized 460 doses of marijuana and seven cannabis plants. [@2,4,5] Six cars
+and five motorcycles were also seized. [@2,4,5] The seizure included $12,671,350 in
+cash and 212 US dollars. [@2,4,5] The authorities valued the total seized items at
+$211,514,690. [@2,4,5]
 
 The investigation is led by prosecutor Milagros Rivas of the First Turn Drug
 Trafficking Prosecutor's Office. [@2] The investigation identified four referents linked to the illicit activity. [@4] The detentions and evidence were handed
