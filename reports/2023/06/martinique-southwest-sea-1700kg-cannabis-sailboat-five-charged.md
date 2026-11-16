@@ -46,6 +46,11 @@ media:
     media_url: https://la1ere.franceinfo.fr/image/0aIBsTrXM-g-NSoLh-PYmtQGHAs/0x0:3523x1980/720x405/filters:quality(80)/outremer%2F2023%2F07%2F05%2F64a59b328efd7_dbqt-saisie.jpg
     publisher: Martinique La 1ère
     caption: 'Unloading of the seized drugs by OFAST officers. Photo: FAA'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/17-tonne-de-cannabis-et-2-kg-de-cocaine-saisis-au-large-de-la-martinique-943262.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/64a5e9758a983f259d163da9/width_1000-webp/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'Bales seized aboard La Combattante. Photo: FAA'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8fcbd6734c21e1a2f755be90f08e7b81
@@ -61,6 +66,11 @@ sources:
     publisher: Martinique La 1ère
     date: 2023-07-05
     language: fr
+  - title: 1,7 tonne de cannabis et 2 kg de cocaïne saisis au large de la Martinique
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/17-tonne-de-cannabis-et-2-kg-de-cocaine-saisis-au-large-de-la-martinique-943262.php
+    publisher: France-Antilles Martinique
+    date: 2023-07-06
+    language: fr
 open_questions:
   - The 2 kg of cocaine seized alongside the cannabis is a non-cannabis substance and is excluded from the cannabis figures.
   - Mer et Marine calls this the fifth cannabis seizure of the year while RCI, La 1ère and the Armed Forces account calls it the fourth; the report uses the fourth-seizure account.
@@ -69,7 +79,7 @@ open_questions:
 ---
 
 In the night of 29 June 2023, French forces boarded a suspect sailboat about 200
-km southwest of Martinique. [@2] The patrol vessel La Combattante and a customs
+km southwest of Martinique. [@2,3] The patrol vessel La Combattante and a customs
 coast-guard maritime patrol aircraft were deployed to board the sailboat
 suspected of drug trafficking. [@2] Five crew members were aboard the sailboat
 when it was boarded. [@2] On 1 July 2023 the drugs, the sailboat and the five
@@ -79,11 +89,10 @@ before an investigating judge, charged with organised-gang drug and weapons
 offences and criminal association, and remanded in pre-trial detention. [@1]
 
 Officers found many suspect bales aboard that tested positive for cannabis,
-totalling 1,700 kg of cannabis alongside 2 kg of cocaine. [@2] The interception
+totalling 1,700 kg of cannabis alongside 2 kg of cocaine. [@2,3] The interception
 followed a tip from the United States Joint InterAgency Task Force-South and
 support from a customs coast-guard maritime patrol aircraft. [@1]
 
 The Armed Forces in the Antilles described it as their fourth seizure of 2023,
 bringing their total to nearly 4.7 tonnes of narcotics removed from distribution
 networks. [@1]
-
