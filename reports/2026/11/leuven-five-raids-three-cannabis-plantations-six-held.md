@@ -1,7 +1,7 @@
 ---
 code: 4B8D3H
 added_at: "2026-11-13T10:42:49.91481Z"
-date: 2026-11-09
+date: 2026-11-13
 country: be
 place: Leuven, Etterbeek, Evere, Overijse and Tervuren, Belgium
 coordinates: [50.8798, 4.7005]
@@ -114,6 +114,15 @@ sources:
     publisher: CNNBS.nl
     date: 2026-11-16
     language: nl
+  - title: Zes Albanezen blijven langer in de cel na vondst van drie cannabisplantages
+    url: https://www.hln.be/leuven/zes-albanezen-blijven-langer-in-de-cel-na-vondst-van-drie-cannabisplantages~a6eee9aa/
+    publisher: HLN
+    date: 2026-11-16
+    language: nl
+open_questions:
+  - The exact end date of the extended pre-trial detention was not given, only that it lasts at least a month longer.
+  - The text gives a number of plants ("2,000 plants") but the figures have no plants_destroyed; check whether it belongs there.
+  - The text gives a weight ("55 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 
 Six Albanian men aged between 29 and 57 were arrested during the searches. [@1,8,9,10]
@@ -135,7 +144,7 @@ The six suspects were brought before the investigating judge on Tuesday 10
 November and detained. [@2,8] They were charged with drug-law offences,
 specifically cannabis cultivation and membership of a criminal organisation.
 [@2,8] They were taken to prison and were due before the raadkamer, the chamber
-that rules on pre-trial detention, on Friday 13 November. [@2,8]
+that rules on pre-trial detention, on Friday 13 November. [@2,8] On Friday the raadkamer decided that the six would remain in pre-trial detention for at least another month. [@11]
 
 The investigation began in 2026 and targeted a professionally organised criminal
 organisation active in cannabis cultivation. [@2,7,8] The Leuven local detective
