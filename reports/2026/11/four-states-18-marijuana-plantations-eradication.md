@@ -98,22 +98,27 @@ sources:
     publisher: Sopitas.com
     date: 2026-11-14
     language: es
+  - title: Defensa destruye 38 plantíos de amapola y marihuana en cuatro estados
+    url: https://unomasuno.com.mx/nacional/defensa-destruye-38-plantios-de-amapola-y-marihuana-en-cuatro-estados/
+    publisher: UnoMásUno
+    date: 2026-11-15
+    language: es
 ---
 
 The operations were carried out on 13 November 2026 through ground and air
-reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6,7,9,10] Soldiers
+reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6,7,9,10,11] Soldiers
 of the Mexican Army and Air Force located and destroyed 38 drug plantations in
-four states as part of operations against narcotics production. [@3,4,5,6,8,9,10] Of the 38
+four states as part of operations against narcotics production. [@3,4,5,6,8,9,10,11] Of the 38
 plantations, 20 were poppy crops and 18 were marijuana crops, together covering
-4.9 hectares. [@3,5,6,7,9,10]
+4.9 hectares. [@3,5,6,7,9,10,11]
 
 A Milenio Facebook post announced the destruction of 38 poppy and marijuana
 plantations in four states with the participation of the Army and the Air Force.
 [@1] Defence figures put the estimated economic damage to organised crime from
-destroying the crops at 6,020,000 pesos. [@3,4,5,6,7,8,9,10] The Defence Ministry confirmed the
+destroying the crops at 6,020,000 pesos. [@3,4,5,6,7,8,9,10,11] The Defence Ministry confirmed the
 operation on 14 November through its official channels. [@2]
 
 No arrests linked to the plantations and no criminal groups allegedly
 responsible for them were reported. [@2] The authorities did not say how many of
 the plantations were destroyed in each state or how the area was divided between
-them. [@2]
+them. [@2,11]
