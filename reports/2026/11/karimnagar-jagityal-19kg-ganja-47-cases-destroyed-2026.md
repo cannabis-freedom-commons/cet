@@ -39,6 +39,11 @@ sources:
     publisher: Disha Daily
     date: 2026-11-13
     language: te
+  - title: బిడ్డలకు నషా.. కన్నవారికి గోస | general
+    url: https://www.eenadu.net/telugu-news/districts/karimnagar-news/530/126207661
+    publisher: Eenadu
+    date: 2026-11-15
+    language: te
 media:
   - kind: photo
     url: https://www.dishadaily.com/telangana/karimnagar/cannabis-worth-rs-950-lakh-destroyed-by-burning-600778
@@ -50,7 +55,7 @@ open_questions:
 ---
 
 Karimnagar district police in Jagityal town destroyed about 19 kg of ganja
-seized in 47 cases registered in various police station limits. [@1]
+seized in 47 cases registered in various police station limits. [@1,2]
 
 District SP Ashok Kumar said the ganja was worth about Rs 9.50 lakh and that the
 burning followed NDPS Act provisions and environmental pollution control
@@ -59,4 +64,3 @@ guidelines. [@1]
 The SP said the district had special arrangements for monitoring ganja transport
 and sale and warned that strict action would be taken against those turning
 young people into slaves of drugs. [@1]
-
