@@ -43,6 +43,11 @@ sources:
     publisher: Himachal Dastak
     date: 2026-11-16
     language: hi
+  - title: कांगड़ा में नशा तस्करी का भंडाफोड़, चिट्टा और चरस के साथ पकड़ा व्यक्ति
+    url: https://ujjwalhimachal.com/police-arrested-a-man-with-chitta-and-charas-in-kangra/
+    publisher: Ujjwal Himachal
+    date: 2026-11-16
+    language: hi
 open_questions:
   - No separate date for the raid was given; 16 November 2026 is the publication date and is used as the incident date.
   - The 133.89 grams was described as charas with no laboratory confirmation reported.
@@ -53,17 +58,16 @@ open_questions:
 
 Police in Purana Kangra arrested 45-year-old Vicky for allegedly holding chitta
 and charas. [@1] A Police Station Kangra team on patrol acted at the entrance to
-the playground near Children Park. [@1] Police identified the accused as Vicky,
-aged 45, son of Raj Kumar and resident of Ward No. 3 in Purana Kangra. [@1]
+the playground near Children Park. [@1,2] Police identified the accused as Vicky,
+aged 45, son of Raj Kumar and resident of Ward No. 3 in Purana Kangra. [@1,2]
 Officers grew suspicious when the man suddenly threw away a carry bag on seeing
-them, and they searched the discarded bag in the presence of witnesses. [@1]
+them, and they searched the discarded bag in the presence of witnesses. [@1,2]
 
 Police said they recovered a total of 5.68 grams of chitta and 133.89 grams of
-charas from the accused. [@1] Police said the bag held two types of drugs, 5.68
+charas from the accused. [@1,2] Police said the bag held two types of drugs, 5.68
 grams of chitta, identified as heroin, and 133.89 grams of charas, a cannabis
 resin counted here as hashish. [@1]
 
 Police registered a case under the relevant legal provisions and started further
-investigation. [@1] Police said further inquiry will try to establish where the
+investigation. [@1,2] Police said further inquiry will try to establish where the
 drugs came from and whether others were involved, with action continuing. [@1]
-
