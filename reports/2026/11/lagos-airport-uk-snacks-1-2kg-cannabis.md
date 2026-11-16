@@ -66,6 +66,10 @@ sources:
     url: https://dailytrust.com/ndlea-arrests-ugandan-woman-with-87-wraps-of-cocaine/
     publisher: Daily Trust
     date: 2026-11-09
+  - title: NDLEA Arrests Ugandan Woman With 87 Cocaine Wraps Hidden In Lagos Airport
+    url: https://www.africanexaminer.com/ndlea-arrests-ugandan-woman-with-87-cocaine-wraps-hidden-in-private-parts-at-lagos-airport/
+    publisher: African Examiner
+    date: 2026-11-09
 open_questions:
     - The statement does not say whether the 1.20 kg of cannabis was weighed separately from the seven parcels of synthetic-cannabis chemicals, and those chemical weights, including 28.65 kg in total, are left out of cannabis figures.
     - The statement does not say who the consignment's recipient was, whether that person was identified, or the sender's name.
@@ -75,13 +79,13 @@ open_questions:
 
 Officers of Nigeria's National Drug Law Enforcement Agency (NDLEA) intercepted a
 cargo after nine parcels of illicit substances were found hidden in two cartons
-of snacks labelled Michael Tea Guy. [@1,6] The consignment arrived at Lagos
+of snacks labelled Michael Tea Guy. [@1,6,7] The consignment arrived at Lagos
 airport aboard an Air Peace flight from the United Kingdom on 23 October 2026.
 [@1]
 
 Two of the parcels held 1.20 kilogrammes of cannabis, while forensic analysis
 confirmed that the remaining seven contained chemicals used to make synthetic
-cannabis. [@2,4,6] A 51-year-old freight agent who attempted to clear the
+cannabis. [@2,4,6,7] A 51-year-old freight agent who attempted to clear the
 consignment was arrested over the cannabis parcels. [@1] The freight agent arrested over the consignment was named as 51-year-old Afolabi Abiodun Wale. [@5]
 
 Two more cartons addressed to the same recipient later arrived from the UK

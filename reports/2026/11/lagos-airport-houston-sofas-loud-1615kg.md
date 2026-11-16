@@ -117,21 +117,25 @@ sources:
     url: https://www.wionews.com/world/ugandan-woman-arrested-cocaine-lagos-airport-ndlea-1794209697270
     publisher: Wion
     date: 2026-11-09
+  - title: NDLEA Arrests Ugandan Woman With 87 Cocaine Wraps Hidden In Lagos Airport
+    url: https://www.africanexaminer.com/ndlea-arrests-ugandan-woman-with-87-cocaine-wraps-hidden-in-private-parts-at-lagos-airport/
+    publisher: African Examiner
+    date: 2026-11-09
 ---
 
 On Wednesday 4 November 2026, NDLEA operatives at the import shed of the airport
 in Lagos intercepted 32 parcels of Loud, a strain of cannabis, weighing 16.15
-kilograms. [@1,4,5,6,8,10,11,12,14,15,16,17,19] The parcels were concealed inside two wooden sofas in a
+kilograms. [@1,4,5,6,8,10,11,12,14,15,16,17,19,20] The parcels were concealed inside two wooden sofas in a
 consolidated cargo that arrived from Houston, Texas, United States aboard a
 Turkish Airlines flight. [@2,5,10,11,12,13,14,15,16,19] Punch, citing the agency, also reported the
 interception of 32 parcels of Loud weighing 16.15 kilogrammes concealed in two
 wooden sofas in a cargo shipment from Houston, United States. [@3,7,18]
 
 Freight agent Ibrahim Abdulwaheed Adewale, who came forward to clear the
-consignment, was taken into custody. [@1,2,4,5,6,7,10,12,13,14,15,16,17,19] In a follow-up operation on Friday 6
+consignment, was taken into custody. [@1,2,4,5,6,7,10,12,13,14,15,16,17,19,20] In a follow-up operation on Friday 6
 November 2026, 34-year-old caterer Adeoye Sarafa Ojo from Ibadan, Oyo state, was
-arrested when he walked in to collect the package. [@1,4,5,8,9,10,11,12,14,16,17,19] Adeoye claimed he was
-sent by a friend, Taiwo Anuoluwapo Olusegun. [@1,4,5,7,13,14,19] The NDLEA statement also
+arrested when he walked in to collect the package. [@1,4,5,8,9,10,11,12,14,16,17,19,20] Adeoye claimed he was
+sent by a friend, Taiwo Anuoluwapo Olusegun. [@1,4,5,7,13,14,19,20] The NDLEA statement also
 records the 6 November follow-up arrest of the 34-year-old caterer from Ibadan
 who came to collect the package. [@2]
 
