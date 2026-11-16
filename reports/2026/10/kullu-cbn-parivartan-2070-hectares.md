@@ -43,6 +43,10 @@ sources:
     url: https://www.freepressjournal.in/india/operation-parivartan-central-bureau-of-narcotics-destroys-5165-acres-of-illicit-cannabis-cultivation-in-himachal-pradeshs-kullu-district
     publisher: Free Press Journal
     date: 2026-10-14
+  - title: Central Bureau of Narcotics marks 77th Foundation Day, highlights drug seizures, illicit crop destruction and Mission Yuva Raksha
+    url: https://ddnews.gov.in/en/central-bureau-of-narcotics-marks-77th-foundation-day-highlights-drug-seizures-illicit-crop-destruction-and-mission-yuva-raksha/
+    publisher: DD News
+    date: 2026-11-06
 open_questions:
   - The release gives only acre and hectare totals, with no plant count or weight of destroyed cannabis.
   - Neither source lists individual villages cleared beyond the Malana dialogue held after the month-long drive.
@@ -54,7 +58,7 @@ open_questions:
 India’s Press Information Bureau said that over one month in Kullu district,
 Himachal Pradesh, Central Bureau of Narcotics (CBN) officers destroyed 5,165
 acres (about 2,070 hectares) of illicit cannabis under Operation Parivartan.
-[@1,2]
+[@1,2,3]
 
 The bureau reported that ground surveys and drone imagery located the plots and
 that forest and police departments supported the clearing. [@1,2] Teams worked
@@ -63,7 +67,7 @@ remote patches. [@1,2]
 
 At the end of the drive CBN staff held a Jan Samvad public meeting with Malana
 villagers on alternative crops, which the agency cited as part of its mandate
-under India’s 2012 narcotic drugs policy. [@1,2]
+under India’s 2012 narcotic drugs policy. [@1,2,3]
 
 The Free Press Journal relayed the same figures on 14 October 2026. [@2]
 
