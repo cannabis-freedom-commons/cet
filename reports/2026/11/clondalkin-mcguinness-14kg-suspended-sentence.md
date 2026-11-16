@@ -62,6 +62,10 @@ sources:
     url: https://www.irishmirror.ie/news/irish-news/man-112-previous-convictions-receives-37876178
     publisher: Irish Mirror
     date: 2026-11-14
+  - title: Dubliner with 112 previous convictions spared jail over MDMA and cannabis possession
+    url: https://www.crimeworld.com/courts/dubliner-with-112-previous-convictions-spared-jail-over-mdma-and-cannabis-possession/a/164578323.html
+    publisher: Crime World
+    date: 2026-11-15
 open_questions:
   - The article gives the offence date of 11 August 2021 and a publication date of 14 November 2026 but no separate sentence date; 14 November 2026 is used as the incident date.
   - The 1.4kg is described as cannabis with no laboratory confirmation reported, and the other package as suspected cannabis.
@@ -74,14 +78,14 @@ open_questions:
 James McGuinness, 41, of Harelawn Drive, Clondalkin, Dublin 22, pleaded guilty
 at Dublin Circuit Criminal Court to two counts of possession of a controlled
 drug on 11 August 2021 at that address. [@1] McGuinness has 112 previous
-convictions, many for road traffic matters. [@1] His counsel said he has had
+convictions, many for road traffic matters. [@1,3] His counsel said he has had
 none in the past four years and has made a successful effort to change his
 actions. [@1] Judge Martin Nolan imposed a four-year sentence which he suspended
 on strict conditions, saying he had decided to give McGuinness a chance after
 noting his efforts to reform. [@2]
 
 Gardai on mobile patrol saw McGuinness leave his house and hand a package to
-another person waiting outside. [@1] The other man was later stopped and
+another person waiting outside. [@1,3] The other man was later stopped and
 searched and was found in possession of suspected cannabis. [@1] Gardai obtained
 a search warrant for McGuinness's home and searched it at 8.20pm on the same
 day. [@1] Cannabis weighing 1.4kg and 693 MDMA tablets were found at the house.
@@ -94,4 +98,3 @@ guilty, and the court heard the drugs seized had a total value of €12,000. [@1
 His counsel said McGuinness was plagued by early drug addiction and had been on
 methadone from the age of 14. [@2] Counsel handed documents into court which
 spoke very highly of him and asked the court to be as lenient as possible. [@2]
-
