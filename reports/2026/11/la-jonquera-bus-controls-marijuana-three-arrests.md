@@ -43,6 +43,11 @@ media:
     media_url: https://www.lavanguardia.com/files/article_main_microformat/uploads/2026/11/16/6afac9a05b1db.jpeg
     publisher: La Vanguardia
     caption: 'National Police bus checkpoint in La Jonquera, in the handout photo published with the report. Photo: ACN / Policía Nacional'
+  - kind: photo
+    url: https://www.lindependant.fr/2026/11/16/ils-roulaient-en-direction-de-la-france-un-homme-recherche-pour-agression-sexuelle-arrete-14-kg-de-marijuana-et-8-000-paquets-de-cigarettes-de-13655367.php
+    media_url: https://images.lindependant.fr/api/v1/images/view/6afb158563748e048e07a63e/large/image.jpg?v=10
+    publisher: L'Indépendant
+    caption: 'National Police bus checkpoint in La Jonquera during the 6-8 November checks, in the handout photo published with the report. Photo: Cuerpo Nacional de Policía'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 60b6daf848351024ce6485e8c763847e
@@ -63,28 +68,27 @@ sources:
     publisher: El Caso / El Nacional
     date: 2026-11-16
     language: es
-open_questions:
-  - No names, ages or nationalities of the three detainees were published.
-  - The marijuana was described as seized cannabis with no laboratory confirmation reported.
-  - The 7,706 packs of tobacco and their 40,000-euro estimate are excluded from the cannabis figures.
-  - The 30,000 to 90,000 euro drug valuation is a police estimate of wholesale versus retail sale and is not recorded as a precise value.
-  - The accounts reproduce the same National Police statement and no independent non-police account was found.
+  - title: 'Ils roulaient en direction de la France : un homme recherché pour agression sexuelle arrêté, 14 kg de marijuana et 8 000 paquets de cigarettes de contrebande saisis dans des bus à la frontière - lindependant.fr'
+    url: https://www.lindependant.fr/2026/11/16/ils-roulaient-en-direction-de-la-france-un-homme-recherche-pour-agression-sexuelle-arrete-14-kg-de-marijuana-et-8-000-paquets-de-cigarettes-de-13655367.php
+    publisher: L'Indépendant
+    date: 2026-11-16
+    language: fr
 ---
 
 A National Police operation checking passenger buses in La Jonquera, Girona,
 ended with three arrests and seizures of more than 13 kg of marijuana and about
 7,700 packs of tobacco. [@1] Officers carried out checks on 19 buses and
-identified 793 people over the weekend of 6 to 8 November. [@1] One person was
+identified 793 people over the weekend of 6 to 8 November. [@1,4] One person was
 held for a drug offence, one for smuggling and one on an outstanding judicial
 order for alleged sexual assault. [@2]
 
 In two drug seizures officers took 2.11 kg of marijuana in the first and 11.493
 kg in the second, detaining one suspect for an offence against public health.
-[@1] Officers also seized 7,706 packs of tobacco of various brands, which police
-valued at about 40,000 euros. [@1] Police filed three reports for breach of the
+[@1,4] Officers also seized 7,706 packs of tobacco of various brands, which police
+valued at about 40,000 euros. [@1,4] Police filed three reports for breach of the
 smuggling law and detained one person over the tobacco. [@1] Police said the
 seized marijuana could be worth between 30,000 and 90,000 euros on the black
-market. [@1]
+market. [@1,4]
 
 Police said the checks were set up after officers from different units reported
 more bus journeys directly linked to illegal immigration, smuggling and drug
@@ -92,5 +96,4 @@ trafficking. [@1] Police had detected more bus journeys leaving Barcelona,
 specifically from the Nord station, that could be linked to drug trafficking,
 tobacco smuggling or illegal immigration. [@3] During document and records
 checks officers detained a man with a pending judicial order for alleged sexual
-assault. [@1]
-
+assault. [@1,4]
