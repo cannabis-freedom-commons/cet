@@ -71,6 +71,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-14
     language: hi
+  - title: 'भोपाल: गौतम नगर पुलिस ने दो महिलाओं समेत तीन गांजा तस्करों को किया गिरफ्तार'
+    url: https://rajexpress.com/madhya-pradesh-news/bhopal-gautam-nagar-police-arrests-three-smugglers-seizes-ganja-ndps-act
+    publisher: Raj Express
+    date: 2026-11-15
+    language: hi
 open_questions:
   - The article says the first arrest happened on a Thursday without a calendar date; 12 November 2026, the Thursday before the 14 November publication, is used as the incident date.
   - The two detailed recoveries of 4.104 kg and 4.165 kg add to 8.269 kg, while all outlets report the total as 8.26 kg; the reported total is recorded.
@@ -89,19 +94,19 @@ media:
 Gautam Nagar police in Bhopal arrested 35-year-old Kailash Kushwah near the
 railway cabin at Atal Ayub Nagar while he was standing with a backpack. [@1,4,5] A
 search of his bag found 4.104 kg of ganja, and police also recovered a mobile
-phone from his pocket. [@1,4,5] He told police during questioning that he had
+phone from his pocket. [@1,4,5,6] He told police during questioning that he had
 brought the ganja from Odisha and was caught soon after getting off a train.
-[@1,4,5]
+[@1,4,5] Police took Kailash on police remand and started questioning him. [@6] Kailash Kushwah, also called Rajesh alias Bade, is described by police as a history-sheeter with 22 earlier criminal cases against him. [@6]
 
 Based on his questioning, police arrested Pooja Rathore (28) and Sapna Vanshkar
-(26) near Nariyalkheda. [@1,4,5] The two women were found carrying 4.165 kg of
-ganja. [@1,4,5] Police seized a total of 8.26 kg of ganja from the three, valued at
-about three and a quarter lakh rupees. [@1,4] Police registered two separate cases
-under the NDPS Act in the matter. [@2,4,5] Pooja lives in a rented house in
+(26) near Nariyalkheda. [@1,4,5,6] The two women were found carrying 4.165 kg of
+ganja. [@1,4,5,6] Police seized a total of 8.26 kg of ganja from the three, valued at
+about three and a quarter lakh rupees. [@1,4,6] Police registered two separate cases
+under the NDPS Act in the matter. [@2,4,5] The second seizure was registered at Gautam Nagar police station as crime number 704/26 under Sections 8/20 of the NDPS Act. [@6] The first seizure was registered at Gautam Nagar police station as crime number 703/26 under Sections 8/20 of the NDPS Act. [@6] Pooja lives in a rented house in
 Mandideep in Raisen district, while Sapna is a resident of the Kotwali
-police-station area in Raisen. [@1,4] Police said both women had taken the ganja
+police-station area in Raisen. [@1,4,6] Police said both women had taken the ganja
 from Kailash. [@1,4]
 
 In the same case, police registered two separate proceedings under the NDPS Act.
 [@3] Police are investigating who in the city the consignment was meant for and
-who else is part of the network. [@1,4]
+who else is part of the network. [@1,4] On an informant's tip, Gautam Nagar police formed a team and carried out the action. [@6]
