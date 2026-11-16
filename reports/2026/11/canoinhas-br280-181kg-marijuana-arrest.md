@@ -44,6 +44,21 @@ media:
     media_url: https://oestemais.dev.br/static/images/conteudo/policia-motorista-foge-de-fiscalizacao-e-e-preso-com-181-quilos-de-maconha-em-canoinhas-2-917.jpeg
     publisher: Oeste Mais
     caption: 'PRF handout photo of the marijuana seized on BR-280 in Canoinhas. Photo: PRF via Oeste Mais'
+  - kind: photo
+    url: https://www.nsctotal.com.br/seguranca/motorista-foge-de-abordagem-e-e-preso-com-181-quilos-de-maconha-apos-perseguicao-da-prf-em-sc
+    media_url: https://img.nsctotal.com.br/wp-content/uploads/2026/11/PRF-apreende-mais-de-180-quilos-de-maconha-na-BR-280-Foto_-PRF-4-696x392.jpg
+    publisher: NSC Total
+    caption: 'Tablets of the drug found in the car on BR-280 in Canoinhas. Photo: PRF/divulgação'
+  - kind: photo
+    url: https://www.nsctotal.com.br/seguranca/motorista-foge-de-abordagem-e-e-preso-com-181-quilos-de-maconha-apos-perseguicao-da-prf-em-sc
+    media_url: https://img.nsctotal.com.br/wp-content/uploads/2026/11/PRF-apreende-mais-de-180-quilos-de-maconha-na-BR-280-Foto_-PRF-2-696x392.jpg
+    publisher: NSC Total
+    caption: 'PRF officers during the routine inspection on BR-280 in Canoinhas that led to the pursuit and arrest. Photo: PRF/divulgação'
+  - kind: photo
+    url: https://www.nsctotal.com.br/seguranca/motorista-foge-de-abordagem-e-e-preso-com-181-quilos-de-maconha-apos-perseguicao-da-prf-em-sc
+    media_url: https://img.nsctotal.com.br/wp-content/uploads/2026/11/PRF-apreende-mais-de-180-quilos-de-maconha-na-BR-280-Foto_-PRF-5-696x392.jpg
+    publisher: NSC Total
+    caption: 'The driver after being detained following the pursuit on BR-280 in Canoinhas. Photo: PRF/divulgação'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1f1add3741632e15b117236701b13817
@@ -64,6 +79,11 @@ sources:
     publisher: CBN Total
     date: 2026-11-16
     language: pt
+  - title: Motorista foge de abordagem e é preso com 181 quilos de maconha após perseguição da PRF em SC
+    url: https://www.nsctotal.com.br/seguranca/motorista-foge-de-abordagem-e-e-preso-com-181-quilos-de-maconha-apos-perseguicao-da-prf-em-sc
+    publisher: NSC Total
+    date: 2026-11-16
+    language: pt
 open_questions:
   - No exact time for the stop was reported beyond the morning of 16 November 2026.
   - The origin of the marijuana load was not reported.
@@ -75,14 +95,13 @@ of their Canoinhas operational unit when they signalled a car to stop. [@1] The
 driver ignored the stop signal and fled along the highway, and the officers
 pursued and intercepted the car after seven kilometres. [@2] A 31-year-old man
 was arrested in flagrante on the morning of Monday 16 November 2026 while
-transporting 181 kilograms of marijuana on BR-280 in Canoinhas. [@1]
+transporting 181 kilograms of marijuana on BR-280 in Canoinhas. [@1,4]
 
 Officers searching the car found numerous marijuana tablets totalling 181
 kilograms, and seized two mobile phones, one of which had been completely
-smashed moments before. [@2] The driver told police he would receive R$3,000 for
-carrying the load, which was bound for Joinville. [@2]
+smashed moments before. [@2,4] The driver told police he would receive R$3,000 for
+carrying the load, which was bound for Joinville. [@2,4]
 
 The man was taken to the Canoinhas Civil Police station together with the
-vehicle and the seized material. [@1] He will answer for the crime of drug
+vehicle and the seized material. [@1,4] He will answer for the crime of drug
 trafficking. [@3]
-
