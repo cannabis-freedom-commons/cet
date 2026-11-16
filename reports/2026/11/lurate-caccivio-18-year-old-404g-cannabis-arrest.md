@@ -56,31 +56,34 @@ sources:
     publisher: La Provincia di Como
     date: 2026-11-16
     language: it
+  - title: 'Spaccio a Lurate Caccivio: 18enne arrestato con 400 grammi di droga e mille euro'
+    url: https://www.quicomo.it/cronaca/arresto-18enne-spaccio-lurate-caccivio.html
+    publisher: QuiComo
+    date: 2026-11-16
+    language: it
 open_questions:
-  - No separate date is given for the arrest, which is described only as in recent days; 16 November 2026 is the publication date and the day of the scheduled fast-track hearing, and is used as the incident date.
-  - No laboratory confirmation for the marijuana and hashish was reported.
-  - The cash is described only as more than 1,100 euros, so 1,100 euros is recorded as the minimum reported amount.
-  - No outcome of the fast-track hearing or later court step was reported.
-  - The headline's almost 400 grams corresponds to the 341 plus 51 grams seized in Lurate Caccivio; the reported 0.404 kg total adds the 12 grams seized in Villa Guardia.
-  - The account rests on a single opened local report of the Carabinieri operation; no second independent report was found.
+    - No separate date is given for the arrest, which is described only as in recent days; 16 November 2026 is the publication date and the day of the scheduled fast-track hearing, and is used as the incident date.
+    - No laboratory confirmation for the marijuana and hashish was reported.
+    - The cash is described only as more than 1,100 euros, so 1,100 euros is recorded as the minimum reported amount.
+    - No outcome of the fast-track hearing or later court step was reported.
+    - The headline's almost 400 grams corresponds to the 341 plus 51 grams seized in Lurate Caccivio; the reported 0.404 kg total adds the 12 grams seized in Villa Guardia.
 ---
 
 Carabinieri from the Lurate Caccivio station arrested an 18-year-old local
 resident in recent days after finding a large quantity of drugs in his
-possession. [@1] The 18-year-old was arrested in flagrante for drug possession
+possession. [@1,2] The 18-year-old was arrested in flagrante for drug possession
 for dealing purposes and was held in the provincial command's security cells
-pending a fast-track trial scheduled for the same day at the Como court. [@1]
+pending a fast-track trial scheduled for the same day at the Como court. [@1,2]
 
 A personal and home search found about 341 grams of marijuana, partly kept in
-vacuum-sealed bags, and 51 grams of hashish inside the home. [@1] Officers also
+vacuum-sealed bags, and 51 grams of hashish inside the home. [@1,2] Officers also
 seized precision weighing tools, packaging material and more than 1,100 euros in
-cash believed to be dealing proceeds. [@1] Officers also seized two mobile
-phones and items of clothing considered of investigative interest. [@1]
+cash believed to be dealing proceeds. [@1,2] Officers also seized two mobile
+phones and items of clothing considered of investigative interest. [@1,2]
 
 The same officers, supported by the Fino Mornasco station, then extended the
-checks to Villa Guardia and carried out a further search there. [@1] In Villa
+checks to Villa Guardia and carried out a further search there. [@1,2] In Villa
 Guardia a 25-year-old was found with about 12 grams of marijuana kept in a glass
-container, which was seized. [@1] The 25-year-old was reported to the
+container, which was seized. [@1,2] The 25-year-old was reported to the
 administrative authority as a user for possession of drugs intended exclusively
-for personal use. [@1]
-
+for personal use. [@1,2]
