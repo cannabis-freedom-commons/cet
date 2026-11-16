@@ -52,6 +52,11 @@ media:
     media_url: https://adminvalora.com/assets/mitra/1/2026/11/foto-berita-polisi-tangkap-dua-pria-di-pasaman-sita-8-paket-ganja-default-141126020302.webp
     publisher: ValoraNews.com
     caption: Satresnarkoba Polres Pasaman photo published with the report on the Panti arrests of the two suspected dealers at Jorong Katimahar.
+  - kind: photo
+    url: https://padang.inews.id/read/730431/polisi-sita-9-paket-ganja-dari-dua-terduga-pengedar-di-pasaman
+    media_url: https://img.inews.id/media/600/files/networks/2026/11/15/98910_ganja.jpeg
+    publisher: Padang iNews
+    caption: Two suspected ganja dealers detained by Satresnarkoba Polres Pasaman with the nine seized ganja packets in Panti.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f95b428850ef48c1b0304bed8889982f
@@ -102,16 +107,21 @@ sources:
     publisher: ValoraNews.com
     date: 2026-11-14
     language: id
+  - title: Polisi Sita 9 Paket Ganja dari Dua Terduga Pengedar di Pasaman
+    url: https://padang.inews.id/read/730431/polisi-sita-9-paket-ganja-dari-dua-terduga-pengedar-di-pasaman
+    publisher: Padang iNews
+    date: 2026-11-15
+    language: id
 ---
 
 Satresnarkoba Polres Pasaman detained two suspected cannabis dealers at about
 20.30 WIB on Thursday 12 November 2026 at Jorong Katimahar, Nagari Panti Timur,
-Kecamatan Panti, in Pasaman regency, West Sumatra. [@1,3,4,5,8,9] The two men, PD alias
+Kecamatan Panti, in Pasaman regency, West Sumatra. [@1,3,4,5,8,9,10] The two men, PD alias
 Sipon and Ilcan Prayono alias Teil aged 38, were local residents suspected of
 being involved in the cannabis trade. [@1,3,4,5,9] Both suspects are farmers by profession, and both live in Jorong Katimahar. [@5,7]
 
 Officers seized nine packets believed to contain cannabis, seven large and two
-medium, plus a mobile phone and a motorcycle. [@1,4,5,6,8] This account gives the total seizure as 8 kilograms of cannabis. [@8] Kasat Resnarkoba Polres
+medium, plus a mobile phone and a motorcycle. [@1,4,5,6,8,10] This account gives the total seizure as 8 kilograms of cannabis. [@8] Kasat Resnarkoba Polres
 Pasaman AKP Fahrul Roji led the arrest with personnel of Tim Opsnal Elang Timur.
 [@1,3,5]
 
