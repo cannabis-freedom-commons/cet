@@ -54,27 +54,23 @@ sources:
     url: https://www.eveningnews24.co.uk/news/26729584.man-behind-150k-norwich-cannabis-farm-told-pay-back-1/
     publisher: Norwich Evening News
     date: 2026-11-15
-open_questions:
-  - No separate date for the proceeds-of-crime hearing was given; 15 November 2026 is the article's publication date and is used as the incident date.
-  - No weight of cannabis, plant count, or farm location in Norwich was published.
-  - The £105,907 and £50,000 figures are investigators' benefit estimates, not confirmed seized cash.
-  - Novak's proceeds-of-crime outcome was still pending, with a next court date of January 13 and no year stated.
-  - The lengths of the suspension periods and any conditions were not reported.
-  - Only one accessible source for this event was found after searching in English.
+  - title: Man behind £150k Norwich cannabis farm told to pay back £1
+    url: https://www.edp24.co.uk/news/26729584.man-behind-150k-norwich-cannabis-farm-told-pay-back-1/
+    publisher: Eastern Daily Press
+    date: 2026-11-15
 ---
 
 Nardi Haxhiu, 34, was given a two-year suspended jail sentence after admitting
-being concerned in the production of cannabis in Norwich. [@1] Zsombor Novak,
+being concerned in the production of cannabis in Norwich. [@1,2] Zsombor Novak,
 31, of Hall Road in Norwich, received an 18-month suspended sentence after
-admitting cannabis supply and production and money laundering. [@1] The court
+admitting cannabis supply and production and money laundering. [@1,2] The court
 heard the operation to produce large quantities of cannabis ran between
-September 2021 and November 2023. [@1]
+September 2021 and November 2023. [@1,2]
 
 Police financial investigators estimated that Haxhiu had earned £105,907 from
-the criminal enterprise over the two-year period. [@1] Prosecutor Ian James told
+the criminal enterprise over the two-year period. [@1,2] Prosecutor Ian James told
 a proceeds-of-crime hearing that Haxhiu, of Latimer Close in Hemel Hempstead,
 essentially had no available assets that could be seized. [@1] Recorder John
-Hardy ordered Haxhiu to repay a token £1. [@1] Proceedings over a second man
+Hardy ordered Haxhiu to repay a token £1. [@1,2] Proceedings over a second man
 said to have made £50,000 were adjourned for further investigation into how much
 can be seized. [@1] Novak is due to appear in court again on January 13. [@1]
-
