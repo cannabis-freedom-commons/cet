@@ -63,31 +63,34 @@ sources:
     publisher: Presseportal / Polizei Mettmann
     date: 2026-11-11
     language: de
+  - title: Polak w Transicie z bujanym fotelem - po marihuanie i bez prawka
+    url: https://www.dostawczakiem.pl/polak-w-transicie-z-bujanym-fotelem-po-marihuanie-i-bez-prawka/
+    publisher: Dostawczakiem.pl
+    date: 2026-11-14
+    language: pl
 open_questions:
-  - No quantity of cannabis was reported, because the case concerns admitted consumption and a blood test, not a seizure.
-  - The laboratory blood-test result was not yet reported.
-  - No court outcome of the several proceedings opened against the driver was reported.
-  - What document the forgery proceeding concerns was not specified.
-  - The driver was identified only as a 43-year-old Polish man from Bottrop and was not named.
-  - 'Left out, as its quotation was not found in RP Online: Its frame was rusted through, the seatbelts did not work and one seat was not secured.'
+    - No quantity of cannabis was reported, because the case concerns admitted consumption and a blood test, not a seizure.
+    - The laboratory blood-test result was not yet reported.
+    - No court outcome of the several proceedings opened against the driver was reported.
+    - What document the forgery proceeding concerns was not specified.
+    - The driver was identified only as a 43-year-old Polish man from Bottrop and was not named.
 ---
 
 On Tuesday 10 November 2026, traffic officers of the Mettmann police stopped a
 conspicuous Ford Transit in Ratingen and opened several investigations against
 its driver. [@3] Just after the check began at about 8:20 on Homberger Strasse,
 the 43-year-old Polish man from Bottrop admitted that he held no valid driving
-licence. [@3] He also told officers that he had consumed cannabis the previous
-evening. [@3]
+licence. [@3,4] He also told officers that he had consumed cannabis the previous
+evening. [@3,4]
 
 A closer examination of the van by a vehicle inspection organisation found 20
-defects, and the Transit was classified as unroadworthy. [@3] Police impounded
+defects, and the Transit was classified as unroadworthy. [@3,4] The van had rusted structural elements and faulty seatbelts, and the front passenger seat was not secured to the floor at all. [@4] Police impounded
 the vehicle immediately and prohibited the driver from driving motor vehicles.
-[@3] Officers ordered a blood sample, which was taken at the police station in
-Ratingen. [@3]
+[@3,4] Officers ordered a blood sample, which was taken at the police station in
+Ratingen. [@3,4]
 
 The driver now faces proceedings for driving without a licence, driving under
 the influence of drugs, document forgery and driving an unroadworthy vehicle.
 [@2] The WAZ account likewise described a scrap-ready rust bucket whose Bottrop
 driver had no licence and was under the influence of drugs when police stopped
 the van in Ratingen. [@1]
-
