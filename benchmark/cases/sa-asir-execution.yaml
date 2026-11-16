@@ -1,0 +1,38 @@
+id: sa-asir-execution
+title: Three Ethiopians executed in Asir for smuggling hashish
+family: new-event
+tests: [scope, coverage, classification, corroboration]
+submit: https://english.ajel.sa/saudi-arabia/dcs20ydm4
+setup:
+  hide: [saudi-asir-three-ethiopians-hashish-executed]
+why: >-
+  An execution belongs in the tracker (type "execution"). The tracker already holds several other
+  Asir executions of Ethiopians for hashish from the following weeks, so this one must be told
+  apart from them and recorded as its own event, with its own count of three.
+expect:
+  outcome: {new_event: 1}
+  country: {sa: 1}
+  date: {value: 2026-10-07, tolerance_days: 1}
+  type: {execution: 1}
+  place: {coordinates: [19.1667, 43.1667], within_km: 300}
+  figures:
+    deaths: {value: 3}
+  figures_optional: [sentenced, convicted, arrested, charged]
+  figures_forbidden:
+    - {key: deaths, value: 5, why: confused with the November executions of five}
+    - {key: deaths, value: 2, why: confused with the November executions of two}
+  details:
+    sentence_types: [death]
+    case_stage: [executed]
+    products: [hashish]
+  mentions:
+    - {say: three people were executed, any: ['three', '\b3\b']}
+    - {say: they were Ethiopian nationals, any: ['Ethiopian']}
+    - {say: who announced it, any: ['interior ministry', 'ministry of interior', 'ministry']}
+  sources:
+    expect_independent: 2
+    known: [english.ajel.sa, ajel.sa, makkahpost.com, spa.gov.sa, okaz.com.sa, alriyadh.com, sabq.org, al-madina.com, aawsat.com, alwatan.com.sa, akhbaar24.argaam.com, alyaum.com, moi.gov.sa, reprieve.org, esohr.org]
+    # Asir executions of Ethiopians for hashish recur every few weeks: only the names tell them apart
+    strict: true
+    markers: ['Qorzqor', 'Anbayeh', 'Akalu', 'Tekay', 'قورزقور', 'أنبايه', 'انبايه', 'أكالو', 'اكالو', 'تيكاي']
+    markers_min: 1

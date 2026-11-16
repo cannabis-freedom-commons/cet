@@ -1,0 +1,42 @@
+id: eg-badr-second-six-year-sentence
+title: A second six-year hashish sentence from the same court on the same day
+family: new-event
+tests: [coverage, look-alike, classification, languages]
+submit: https://www.dostor.org/5760161
+setup:
+  hide: [badr-woman-worker-hashish-six-years]
+why: >-
+  On 1 November the New Cairo Criminal Court gave two six-year sentences for hashish in the Badr
+  police district. The tracker has one: three men stopped in a car in March. This page is the
+  other: a woman stopped at a checkpoint in April with 125 pieces of hashish. Same court, same
+  day, same district, same sentence, different people. It needs its own report.
+expect:
+  outcome: {new_event: 1}
+  country: {eg: 1}
+  date: {value: 2026-11-01}
+  type: {sentence: 1, prosecution: 0.5}
+  place: {coordinates: [30.136, 31.715], within_km: 60}
+  figures:
+    prison: {match: ['6 years', 'six years', '6-year', 'six-year']}
+  figures_optional: [arrested, charged, sentenced, convicted, kg_seized]
+  figures_forbidden:
+    - {key: arrested, value: 3, why: the three men of the other case}
+    - {key: charged, value: 3, why: the three men of the other case}
+    - {key: sentenced, value: 3, why: the three men of the other case}
+    - {key: kg_seized, value: 9.504, why: the weight in the other case}
+  details:
+    sentence_types: [prison]
+    case_stage: [sentenced]
+    products: [hashish]
+  mentions:
+    - {say: the defendant is a woman, any: ['woman', 'female', '\bshe\b', '\bher\b']}
+    - {say: the 125 pieces of hashish, any: ['125']}
+    - {say: when she was stopped (22 April), any: ['22 April', 'April 22']}
+  must_not_say:
+    - {say: three defendants, any: ['three (men|defendants|people)']}
+  sources:
+    expect_independent: 2
+    strict: true
+    known: [dostor.org, almasryalyoum.com, youm7.com, elbalad.news, cairo24.com, shorouknews.com, elwatannews.com, masrawy.com, akhbarelyom.com]
+    markers: ['عاملة', '22 أبريل', '125 قطعة', '125']
+    markers_min: 2

@@ -1,0 +1,13 @@
+id: it-castel-volturno-spanish-copy
+title: A Spanish-language copy of an Italian report
+family: known-event
+tests: [coverage, languages]
+submit: https://www.ilmattino.it/AMP/es/incautacion_record_de_estupefacientes_en_la_costa_de_caserta-9889706.html
+why: >-
+  Il Mattino's machine-translated Spanish page for its own Italian report of the Castel Volturno
+  arrest, mostly behind a paywall. The tracker's report was written from Italian sources and
+  speaks of 9.6 kg of cannabis; this teaser says "more than 11 kilos" of hashish, marijuana and
+  cocaine. It is the same event.
+expect:
+  outcome: {duplicate: 1, additional_source: 1, existing_case: 0.5, insufficient_evidence: 0.5}
+  existing_report: castel-volturno-31-year-old-96kg-cannabis-arrest

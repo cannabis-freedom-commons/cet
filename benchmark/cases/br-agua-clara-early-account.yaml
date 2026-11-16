@@ -1,0 +1,42 @@
+id: br-agua-clara-early-account
+formerly: [br-agua-clara-single-source]
+title: 54 kg of cannabis found in Água Clara
+family: new-event
+tests: [corroboration, mixed-substances, figures, photos, languages]
+submit: https://www.aguaclarams.com.br/artigo/denuncia-anonima-tentativa-de-fuga-e-operacao-policial-terminam-com-apreensao-de-cocaina-e-maconha-em-agua-clara
+setup:
+  hide: [agua-clara-ms324-54kg-seizure]
+why: >-
+  The submitted page is an early, partial account from a small-town portal: three people detained
+  and 59 bricks of about 54 kg. The police statement that regional outlets carried a day later
+  gives the full picture: five men arrested (four in the act, one on a warrant) and smaller
+  amounts found elsewhere. A good researcher finds the fuller accounts. The 120 g of cocaine stay
+  out of the cannabis weight.
+expect:
+  outcome: {new_event: 1}
+  country: {br: 1}
+  date: {value: 2026-11-04, also: {2026-11-05: 1}}
+  type: {seizure: 1, arrest: 1, raid: 1}
+  place: {coordinates: [-20.4478, -52.8778], within_km: 60}
+  figures:
+    kg_seized: {value: 54.52, tolerance: 0.012}
+    arrested: {value: 5, partial: [3]}
+  figures_optional: [cash, vehicles, sites, charged]
+  figures_forbidden:
+    - {key: kg_seized, value: 59, why: number of bricks taken for the weight}
+    - {key: arrested, value: 1, why: only the driver counted}
+  details:
+    products: [flower, hashish]
+    agencies: [br-pm, 'Polícia Militar', 'Military Police', 'Polícia Civil', 'Civil Police']
+  mentions:
+    - {say: the 59 bricks, any: ['59']}
+    - {say: the cocaine, kept apart, any: ['cocaine']}
+    - {say: it started with an anonymous tip, any: ['anonymous', 'tip']}
+  sources:
+    expect_independent: 2
+    known: [aguaclarams.com.br, radiocacula.com.br, estadoms.com.br, pc.ms.gov.br, jpnews.com.br, perfilnews.com.br, hojemais.com.br, campograndenews.com.br, midiamax.uol.com.br]
+    markers: ['Água Clara', '59 tabletes', '54,', 'VW/Gol', 'VW Gol']
+    markers_min: 3
+  media:
+    min: 1
+    expect: ['07e870f81b10431c99aa475fa85d9990', 'WhatsApp-Image-2026-11-05-at-14.23.31']

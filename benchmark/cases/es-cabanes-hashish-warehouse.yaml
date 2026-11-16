@@ -1,0 +1,39 @@
+id: es-cabanes-hashish-warehouse
+title: 8,025 kg of hashish in a Cabanes warehouse
+family: new-event
+tests: [date, figures, classification, corroboration, photos]
+submit: https://www.diariodetransporte.com/general/policia-guardia-civil/7-detenidos-e-incautadas-mas-de-8-toneladas-de-hachis-escondidas-entre-la-mercancia-de-un-camion
+setup:
+  hide: [cabanes-8025kg-hashish-warehouse]
+why: >-
+  The raid was on 1 October but was announced on 9 October. The same article mentions an earlier
+  van stop with about 2,400 kg in Viladecans, which is background and must not be added to this
+  seizure. Covered in Spanish, Catalan and French.
+expect:
+  outcome: {new_event: 1}
+  country: {es: 1}
+  date: {value: 2026-10-01}
+  type: {seizure: 1, raid: 1, arrest: 1}
+  place: {coordinates: [42.307, 2.821], within_km: 40}
+  figures:
+    kg_seized: {value: 8025}
+    arrested: {value: 7}
+  figures_optional: [value, charged, vehicles, sites]
+  figures_forbidden:
+    - {key: kg_seized, value: 10425, why: the earlier Viladecans van added to this seizure}
+    - {key: kg_seized, value: 2400, why: the earlier Viladecans van taken for this seizure}
+    - {key: kg_seized, value: 8.025, why: thousands separator read as a decimal point}
+  details:
+    products: [hashish]
+    agencies: [es-mossos]
+  mentions:
+    - {say: who acted (Mossos d'Esquadra), any: ['Mossos']}
+    - {say: seven men were arrested, any: ['seven', '\b7\b']}
+    - {say: how it was hidden, any: ['rubber', 'granul', 'sacks', 'pallet', 'lorry', 'truck', 'trailer']}
+  sources:
+    expect_independent: 2
+    known: [diariodetransporte.com, france3-regions.franceinfo.fr, x.com, mossos.gencat.cat, elpuntavui.cat, diaridegirona.cat, lavanguardia.com, elperiodico.com, lindependant.fr, emporda.info, 3cat.cat, ccma.cat, elnacional.cat, europapress.es, 20minutos.es, elpais.com, naciodigital.cat, ara.cat, elcaso.elnacional.cat, interior.gencat.cat]
+    markers: ['8.025', '8 025', '8,025', 'Cabanes', 'Mossos']
+  media:
+    min: 1
+    expect: ['6ac8c6828f1fc075477529', '1791537792188']

@@ -1,0 +1,17 @@
+id: in-vidisha-early-brief
+formerly: [in-vidisha-quintal]
+title: An early brief on the Byauchi village raid
+family: known-event
+tests: [coverage, languages, units]
+submit: https://www.bhaskar.com/local/mp/vidisha/news/police-from-three-police-stations-raided-byauchi-village-one-quintal-of-marijuana-recovered-dbp-139640902.html
+setup:
+  hide: [vidisha-byauchi-quintal-ganja-raid]
+why: >-
+  A two-sentence Hindi brief: three police stations raided a village at night and recovered "one
+  quintal" of ganja. The tracker already has this raid from the fuller accounts that followed,
+  under another spelling of the village (Byochi) and the exact weight (104.14 kg, one man
+  arrested). In production this brief was written up as a second report; it belongs with the
+  existing one.
+expect:
+  outcome: {additional_source: 1, duplicate: 1, existing_case: 0.5}
+  existing_report: vidisha-byochi-104kg-ganja-arrest

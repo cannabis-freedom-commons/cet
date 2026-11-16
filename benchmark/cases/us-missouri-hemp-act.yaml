@@ -1,0 +1,11 @@
+id: us-missouri-hemp-act
+title: Missouri's Intoxicating Cannabinoid Control Act takes effect
+family: out-of-scope
+tests: [scope, routing]
+submit: https://spectrumlocalnews.com/mo/st-louis/news/2026/11/12/st-louis-missouri-intoxicating-cannabinoid-control-act-catherine-hanaway
+why: >-
+  A state law coming into force: hemp products above 0.4 mg of THC now count as marijuana. The
+  article mentions lawsuits against four shops in passing, but reports no raid, seizure or arrest.
+  It is a law change for the Cannabis Freedom Index.
+expect:
+  outcome: {routed_to_cfi: 1, not_relevant: 0.5}

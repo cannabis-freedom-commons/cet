@@ -1,0 +1,31 @@
+id: eg-sohag-death-sentences
+title: Three sentenced to death in a Sohag hashish case
+family: new-event
+tests: [scope, classification, languages, corroboration]
+submit: https://www.elbalad.news/7168342
+setup:
+  hide: [sohag-maragha-three-hashish-death-sentences]
+why: >-
+  An Arabic court report. Death sentences for cannabis stay in the tracker (type "sentence") and
+  are not sent to the Cannabis Freedom Index. The case dates from November 2025, the sentence
+  from November 2026.
+expect:
+  outcome: {new_event: 1}
+  country: {eg: 1}
+  date: {value: 2026-11-04, tolerance_days: 1}
+  type: {sentence: 1, prosecution: 0.5}
+  place: {coordinates: [26.697, 31.591], within_km: 70}
+  figures_optional: [prison, charged, sentenced, convicted, arrested, kg_seized]
+  details:
+    sentence_types: [death]
+    case_stage: [sentenced]
+    products: [hashish]
+  mentions:
+    - {say: the death sentence, any: ['death']}
+    - {say: three defendants, any: ['three', '\b3\b']}
+    - {say: it was hashish, any: ['hashish']}
+  sources:
+    expect_independent: 2
+    known: [elbalad.news, youm7.com, cairo24.com, mwlana.com, iqraa.news, alraeesnews.com, dostor.org, aldawlanews.com, ahlmasrnews.com, ekhbary24.com, almasryalyoum.com, elwatannews.com, shorouknews.com, akhbarelyom.com, masrawy.com, gate.ahram.org.eg, vetogate.com, elfagr.org]
+    markers: ['المراغة', 'الإعدام', 'سوهاج', 'الحشيش', 'مشرط']
+    markers_min: 3

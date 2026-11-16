@@ -1,0 +1,11 @@
+id: tr-murder-hemp-field-motive
+title: A murder solved after 16 years, with a hemp field as the motive
+family: out-of-scope
+tests: [scope, languages]
+submit: https://haberton.com/16-yil-sonra-aydinlatilan-cinayetin-nedeni-kenevir-tarlasina-girdin-tartismasi/
+why: >-
+  A Turkish cold case: 17 people detained and one remanded for a 2010 killing, which grew out of
+  a quarrel over someone entering a hemp field. The arrests are for murder. Cannabis is the
+  background of the quarrel, not what anyone was arrested for.
+expect:
+  outcome: {not_relevant: 1, insufficient_evidence: 0.5}

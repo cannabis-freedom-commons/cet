@@ -1,0 +1,13 @@
+id: no-kristiansand-appeal
+title: A Norwegian appeal ruling in a case the tracker has
+family: known-event
+tests: [coverage, languages]
+submit: https://www.krs.no/fikk-pistol-mot-hodet-og-fingeren-brukket-na-far-han-halvert-straffen/s/80-157-59933
+why: >-
+  "Got a pistol to his head and a finger broken: now his sentence is halved." Nothing in the
+  headline says cannabis. The article is the appeal in the case of a man stopped at the
+  Kristiansand ferry terminal with 18.5 kg of hashish, which the tracker records, with the
+  appeal, under a report dated a year earlier.
+expect:
+  outcome: {additional_source: 1, duplicate: 1, existing_case: 1}
+  existing_report: kristiansand-18-5kg-hash-sentence-halved

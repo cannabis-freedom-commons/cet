@@ -1,0 +1,39 @@
+id: fr-saint-lary-sentence
+title: Driver jailed after 32.8 kg found at Saint-Lary-Soulan
+family: new-event
+tests: [classification, date, figures, corroboration]
+submit: https://www.lasemainedespyrenees.fr/328-kilos-de-cannabis-saisis-a-saint-lary-soulan-un-chauffeur-ukrainien-condamne-a-tarbes/
+setup:
+  hide: [france-saint-lary-328kg-sentence]
+why: >-
+  A case that already reached its sentence: arrested on 28 September, sentenced in Tarbes on
+  1 October. The report belongs at the sentence. The French decimal comma (32,8 kg) and the page
+  address ("328-kilos") invite a tenfold error.
+expect:
+  outcome: {new_event: 1}
+  country: {fr: 1}
+  date: {value: 2026-10-01, also: {2026-09-28: 0.5}}
+  type: {sentence: 1, prosecution: 0.5, seizure: 0.5, arrest: 0.5}
+  place: {coordinates: [42.8169, 0.322], within_km: 70}
+  figures:
+    kg_seized: {value: 32.8}
+    prison: {match: ['2 years', 'two years', '24 months', '24-month']}
+  figures_optional: [arrested, fine, value, sentenced, convicted, vehicles]
+  figures_forbidden:
+    - {key: kg_seized, value: 328, why: decimal comma read as 328 kg}
+  details:
+    case_stage: [sentenced]
+    sentence_types: [prison]
+    products: [flower]
+    agency_types: [customs]
+  mentions:
+    - {say: the prison term, any: ['24 months', 'two years', '2 years']}
+    - {say: customs officers found it, any: ['customs']}
+    - {say: the ten-year ban from France, any: ['ban', 'banned', 'barred', 'interdiction', 'exclusion']}
+  sources:
+    expect_independent: 2
+    known: [lasemainedespyrenees.fr, ladepeche.fr, actu.fr, douane.gouv.fr, francebleu.fr, ici.fr, nrpyrenees.fr, france3-regions.franceinfo.fr]
+    markers: ['32,8', 'Saint-Lary', 'ukrainien', 'Tarbes']
+  media:
+    min: 1
+    expect: ['douane-31-cache-sous-siege']

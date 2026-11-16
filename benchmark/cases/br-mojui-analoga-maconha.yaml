@@ -1,0 +1,29 @@
+id: br-mojui-analoga-maconha
+title: "Arrest in Mojuí dos Campos with a substance \"analogous to marijuana\""
+family: new-event
+tests: [scope, languages, terminology]
+submit: https://oimpacto.com.br/2026/11/suspeito-e-preso-em-mojui-dos-campos-apos-ser-flagrado-com-maconha-e-cocaina/
+why: >-
+  Brazilian police reports say "substância análoga à maconha" for suspected marijuana that has not
+  yet been lab-tested. It is not a synthetic cannabinoid. A model in production rejected this page
+  as synthetic; the right answer is a small new report: one man arrested, twelve wraps of cannabis
+  and 31 of cocaine.
+expect:
+  outcome: {new_event: 1, not_relevant: 0, insufficient_evidence: 0}
+  country: {br: 1}
+  date: {value: 2026-11-12}
+  type: {arrest: 1, seizure: 1}
+  place: {coordinates: [-2.6847, -54.6425], within_km: 60}
+  figures:
+    arrested: {value: 1}
+  figures_optional: [cash, sites]
+  figures_forbidden:
+    - {key: kg_seized, value: 12, why: twelve wraps recorded as kilograms}
+    - {key: kg_seized, value: 43, why: cocaine and cannabis wraps added and recorded as kilograms}
+  details:
+    products: [flower]
+  mentions:
+    - {say: the twelve wraps of cannabis, any: ['12', 'twelve']}
+    - {say: the cocaine, kept apart, any: ['cocaine']}
+  open_questions:
+    - {about: no weight was given, any: ['weight', 'quantity', 'how much', 'grams', 'kilogram']}

@@ -1,0 +1,18 @@
+id: es-palma-later-announcement
+formerly: [es-palma-mixed-drugs]
+title: The police announcement of an operation the tracker has from a leak
+family: known-event
+tests: [coverage, later-step, mixed-substances, languages]
+submit: https://europapress.es/illes-balears/noticia-detienen-cinco-personas-operacion-antidroga-palma-les-intervienen-60-kilos-hachis-20261114170452.html
+setup:
+  hide: [palma-five-arrested-60kg-hashish-2kg-cocaine]
+why: >-
+  On 7 November a Mallorca paper reported, from its own sources, at least three arrests and almost
+  50 kg of hashish sent by courier, found in a home in Marratxí with an air rifle. The tracker
+  has that. A week later the National Police announced the finished operation: five arrested,
+  60 kg of hashish, the air rifle, two kilos of cocaine. Different numbers, a different town in
+  the headline, and no mention of Marratxí, but the same operation; the paper's follow-up says so.
+  In production this announcement was written up as a second report.
+expect:
+  outcome: {existing_case: 1, additional_source: 1, duplicate: 0.5}
+  existing_report: marratxi-three-arrests-50kg-hashish

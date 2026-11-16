@@ -1,0 +1,1457 @@
+{
+ "schema": 1,
+ "id": "20261116-1142-opencode-openai-gpt-6-1-terra-max",
+ "label": "",
+ "subject": {
+  "id": "opencode@openai/gpt-6.1-terra#max",
+  "harness": "opencode",
+  "provider": "openai",
+  "model": "gpt-6.1-terra",
+  "effort": "max",
+  "agent": "openai/gpt-6.1-terra#max",
+  "recorded": "openai/gpt-6.1-terra#max",
+  "harness_version": "opencode v2.2.7"
+ },
+ "started_at": "2026-11-16T11:42:54.577Z",
+ "extended": [
+  {
+   "at": "2026-11-16T22:54:27.612Z",
+   "cases": [
+    "br-agua-clara-early-account",
+    "br-mojui-analoga-maconha",
+    "cz-hemp-sprayed-synthetic",
+    "de-vapes-suspected-synthetic",
+    "eg-badr-second-six-year-sentence",
+    "eg-sohag-death-sentences",
+    "es-cabanes-hashish-warehouse",
+    "es-ceuta-remand",
+    "es-palma-later-announcement",
+    "fr-saint-lary-sentence",
+    "gy-yaruni-acres",
+    "hk-airport-second-nine-kilos",
+    "in-agartala-same-platform",
+    "in-manesar-roundup",
+    "in-pudukkottai-lakh",
+    "in-vidisha-early-brief",
+    "it-castel-volturno-spanish-copy",
+    "jp-cocaine-arrest-cannabis-past",
+    "kw-chemical-synthetic",
+    "lk-airport-hashish-route",
+    "ly-ajdabiya-hashish-tramadol",
+    "mx-degollado-labs-headline",
+    "mx-four-states-army-statement",
+    "ng-rivers-mixed-totals",
+    "no-kristiansand-appeal",
+    "pk-islamabad-foreign-outlet",
+    "pl-jelenia-gora-second-outlet",
+    "sa-asir-execution",
+    "sn-kush-synthetic-name",
+    "th-bangkok-five-tonnes",
+    "tj-annual-statistics",
+    "tr-istanbul-airport-second-outlet",
+    "tr-murder-hemp-field-motive",
+    "ua-mykolaiv-sentence-same-day",
+    "us-clifton-park-pounds",
+    "us-eagle-point-reprint",
+    "us-missouri-hemp-act",
+    "us-passaic-heroin-headline",
+    "us-taft-660-plants",
+    "za-private-use-law"
+   ],
+   "tracker_commit": "bc775e19c646e01eb70039da07f0fb1ceec54a74",
+   "harness_version": "opencode v2.2.7"
+  },
+  {
+   "at": "2026-11-16T22:54:45.624Z",
+   "cases": [
+    "br-agua-clara-early-account",
+    "br-mojui-analoga-maconha",
+    "cz-hemp-sprayed-synthetic",
+    "de-vapes-suspected-synthetic",
+    "eg-badr-second-six-year-sentence",
+    "eg-sohag-death-sentences",
+    "es-cabanes-hashish-warehouse",
+    "es-ceuta-remand",
+    "es-palma-later-announcement",
+    "fr-saint-lary-sentence",
+    "gy-yaruni-acres",
+    "hk-airport-second-nine-kilos",
+    "in-agartala-same-platform",
+    "in-manesar-roundup",
+    "in-pudukkottai-lakh",
+    "in-vidisha-early-brief",
+    "it-castel-volturno-spanish-copy",
+    "jp-cocaine-arrest-cannabis-past",
+    "kw-chemical-synthetic",
+    "lk-airport-hashish-route",
+    "ly-ajdabiya-hashish-tramadol",
+    "mx-degollado-labs-headline",
+    "mx-four-states-army-statement",
+    "ng-rivers-mixed-totals",
+    "no-kristiansand-appeal",
+    "pk-islamabad-foreign-outlet",
+    "pl-jelenia-gora-second-outlet",
+    "sa-asir-execution",
+    "sn-kush-synthetic-name",
+    "th-bangkok-five-tonnes",
+    "tj-annual-statistics",
+    "tr-istanbul-airport-second-outlet",
+    "tr-murder-hemp-field-motive",
+    "ua-mykolaiv-sentence-same-day",
+    "us-clifton-park-pounds",
+    "us-eagle-point-reprint",
+    "us-missouri-hemp-act",
+    "us-passaic-heroin-headline",
+    "us-taft-660-plants",
+    "za-private-use-law"
+   ],
+   "tracker_commit": "bc775e19c646e01eb70039da07f0fb1ceec54a74",
+   "harness_version": "opencode v2.2.7"
+  },
+  {
+   "at": "2026-11-16T23:18:55.958Z",
+   "cases": [
+    "cz-hemp-sprayed-synthetic",
+    "de-vapes-suspected-synthetic",
+    "eg-badr-second-six-year-sentence",
+    "eg-sohag-death-sentences",
+    "es-cabanes-hashish-warehouse",
+    "es-ceuta-remand",
+    "es-palma-later-announcement",
+    "fr-saint-lary-sentence",
+    "gy-yaruni-acres",
+    "hk-airport-second-nine-kilos",
+    "in-agartala-same-platform",
+    "in-manesar-roundup",
+    "in-pudukkottai-lakh",
+    "in-vidisha-early-brief",
+    "it-castel-volturno-spanish-copy",
+    "jp-cocaine-arrest-cannabis-past",
+    "lk-airport-hashish-route",
+    "ly-ajdabiya-hashish-tramadol",
+    "mx-degollado-labs-headline",
+    "mx-four-states-army-statement",
+    "ng-rivers-mixed-totals",
+    "no-kristiansand-appeal",
+    "pk-islamabad-foreign-outlet",
+    "pl-jelenia-gora-second-outlet",
+    "sa-asir-execution",
+    "sn-kush-synthetic-name",
+    "tj-annual-statistics",
+    "tr-istanbul-airport-second-outlet",
+    "tr-murder-hemp-field-motive",
+    "ua-mykolaiv-sentence-same-day",
+    "us-clifton-park-pounds",
+    "us-missouri-hemp-act",
+    "us-passaic-heroin-headline",
+    "us-taft-660-plants",
+    "za-private-use-law"
+   ],
+   "tracker_commit": "bc775e19c646e01eb70039da07f0fb1ceec54a74",
+   "harness_version": "opencode v2.2.7"
+  }
+ ],
+ "finished_at": null,
+ "complete": false,
+ "repeat": 1,
+ "concurrency": 2,
+ "protocol": {
+  "version": 1,
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "max_steps": 32,
+  "timeout_seconds": 1800,
+  "websearch": "random",
+  "context": "inline",
+  "screen": true,
+  "source_browser": true,
+  "concurrency": 2,
+  "case_deadline_minutes": 45,
+  "retry_errors": 1
+ },
+ "protocol_hash": "9be3371802af",
+ "cases_hash": "3590fabd1e59",
+ "full_set": false,
+ "tracker": {
+  "commit": "bc775e19c646e01eb70039da07f0fb1ceec54a74",
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "uncommitted_changes": true
+ },
+ "scorer_version": 1,
+ "weights": {
+  "facts": 20,
+  "figures": 20,
+  "classification": 10,
+  "corroboration": 15,
+  "photos": 10,
+  "text": 15,
+  "grounding": 10
+ },
+ "dimensions": {
+  "facts": "Facts",
+  "figures": "Figures and units",
+  "classification": "Classification",
+  "corroboration": "Corroboration",
+  "photos": "Photos",
+  "text": "Report text",
+  "grounding": "Grounding"
+ },
+ "families": {
+  "new-event": "New events",
+  "known-event": "Already covered",
+  "out-of-scope": "Out of scope"
+ },
+ "summary": {
+  "score": 83.3,
+  "attempt_scores": [
+   83.3
+  ],
+  "cases": 6,
+  "attempts": 6,
+  "verdicts": {
+   "pass": 5,
+   "partial": 0,
+   "fail": 1,
+   "error": 0,
+   "skipped": 0,
+   "spoiled": 0
+  },
+  "families": {
+   "new-event": {
+    "score": 66.7,
+    "cases": 3
+   },
+   "known-event": {
+    "score": 100,
+    "cases": 1
+   },
+   "out-of-scope": {
+    "score": 100,
+    "cases": 2
+   }
+  },
+  "capabilities": {
+   "recognised": {
+    "score": 66.7,
+    "cases": 3
+   },
+   "facts": {
+    "score": 66.7,
+    "cases": 3
+   },
+   "figures": {
+    "score": 66.7,
+    "cases": 3
+   },
+   "classification": {
+    "score": 66.7,
+    "cases": 3
+   },
+   "corroboration": {
+    "score": 50,
+    "cases": 2
+   },
+   "photos": {
+    "score": 50,
+    "cases": 2
+   },
+   "text": {
+    "score": 66.7,
+    "cases": 3
+   },
+   "grounding": {
+    "score": 66.7,
+    "cases": 3
+   }
+  },
+  "usage": {
+   "minutes_per_case": 2.9,
+   "steps_per_case": 7.5,
+   "input_tokens": 513652,
+   "output_tokens": 35075,
+   "reasoning_tokens": 18952,
+   "cache_read_tokens": 3289216,
+   "cost_usd": 0
+  }
+ },
+ "cases": [
+  {
+   "id": "br-agua-clara-early-account",
+   "title": "54 kg of cannabis found in Água Clara",
+   "family": "new-event",
+   "tests": [
+    "corroboration",
+    "mixed-substances",
+    "figures",
+    "photos",
+    "languages"
+   ],
+   "why": "The submitted page is an early, partial account from a small-town portal: three people detained and 59 bricks of about 54 kg. The police statement that regional outlets carried a day later gives the full picture: five men arrested (four in the act, one on a warrant) and smaller amounts found elsewhere. A good researcher finds the fuller accounts. The 120 g of cocaine stay out of the cannabis weight.",
+   "submit": "https://www.aguaclarams.com.br/artigo/denuncia-anonima-tentativa-de-fuga-e-operacao-policial-terminam-com-apreensao-de-cocaina-e-maconha-em-agua-clara",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "br": 1
+    },
+    "date": {
+     "value": "2026-11-04",
+     "also": {
+      "2026-11-05": 1
+     }
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1,
+     "raid": 1
+    },
+    "place": {
+     "coordinates": [
+      -20.4478,
+      -52.8778
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 54.52,
+      "tolerance": 0.012
+     },
+     "arrested": {
+      "value": 5,
+      "partial": [
+       3
+      ]
+     }
+    },
+    "figures_optional": [
+     "cash",
+     "vehicles",
+     "sites",
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 59,
+      "why": "number of bricks taken for the weight"
+     },
+     {
+      "key": "arrested",
+      "value": 1,
+      "why": "only the driver counted"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower",
+      "hashish"
+     ],
+     "agencies": [
+      "br-pm",
+      "Polícia Militar",
+      "Military Police",
+      "Polícia Civil",
+      "Civil Police"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the 59 bricks",
+      "any": [
+       "59"
+      ]
+     },
+     {
+      "say": "the cocaine",
+      "kept apart": null,
+      "any": [
+       "cocaine"
+      ]
+     },
+     {
+      "say": "it started with an anonymous tip",
+      "any": [
+       "anonymous",
+       "tip"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "aguaclarams.com.br",
+      "radiocacula.com.br",
+      "estadoms.com.br",
+      "pc.ms.gov.br",
+      "jpnews.com.br",
+      "perfilnews.com.br",
+      "hojemais.com.br",
+      "campograndenews.com.br",
+      "midiamax.uol.com.br"
+     ],
+     "markers": [
+      "Água Clara",
+      "59 tabletes",
+      "54,",
+      "VW/Gol",
+      "VW Gol"
+     ],
+     "markers_min": 3
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "07e870f81b10431c99aa475fa85d9990",
+      "WhatsApp-Image-2026-11-05-at-14.23.31"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "agua-clara-five-arrests-54kg-cannabis",
+     "existing_report": "",
+     "decision_title": "Five held in Água Clara operation",
+     "explanation": "The report was committed to the local repository (69a1defca820). 1 of 1 new photos and videos got a thumbnail or poster. It is available in local development; pushing is separate.",
+     "model_explanation": "The submitted account and a later local account describe the same operation, including the white Gol, the initial search and the 59 cannabis tablets. The later account reports five arrests and a further cannabis seizure; its police-credited photograph is linked, while the submitted image has no identifying caption or credit.",
+     "flags": [],
+     "usage": {
+      "seconds": 699,
+      "research_seconds": 631,
+      "steps": 11,
+      "searches": 4,
+      "pages_opened": 4,
+      "runs": 1,
+      "input_tokens": 106795,
+      "output_tokens": 13093,
+      "reasoning_tokens": 6519,
+      "cache_read_tokens": 937984,
+      "cost_usd": 0
+     },
+     "searches": [
+      "\"Água Clara\" \"59 tabletes\" maconha 54",
+      "\"Água Clara\" \"54 quilos\" \"maconha\" polícia",
+      "\"Água Clara\" maconha \"Palmeiras\" 59",
+      "Água Clara Mato Grosso do Sul município coordenadas latitude longitude"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "Five arrested as police find about 54.5 kg of cannabis in Água Clara",
+      "summary": "Police arrested five men during a drug investigation in Água Clara, Mato Grosso do Sul, that began on 4 November. The separately reported cannabis seizures total about 54.5 kg, with smaller portions also found at the first suspect's home.",
+      "date": "2026-11-04",
+      "country": "br",
+      "type": "arrest",
+      "also": [
+       "seizure",
+       "raid"
+      ],
+      "place": "Jardim das Palmeiras, Água Clara, Mato Grosso do Sul",
+      "coordinates": [
+       -20.44778,
+       -52.87778
+      ],
+      "figures": {
+       "arrested": 5,
+       "kg_seized": 54.5,
+       "vehicles": 2,
+       "cash": {
+        "amount": 250,
+        "currency": "BRL"
+       }
+      },
+      "details": {
+       "agencies": [
+        "br-pm",
+        "Água Clara Civil Police"
+       ],
+       "agency_types": [
+        "gendarmerie",
+        "police"
+       ],
+       "products": [
+        {
+         "product": "flower",
+         "kg": 54.5
+        }
+       ],
+       "activity": [
+        "sale",
+        "possession"
+       ],
+       "setting": [
+        "home"
+       ],
+       "charges": [
+        "drug trafficking",
+        "association for trafficking"
+       ],
+       "case_stage": "investigation",
+       "date_precision": "exact",
+       "region": "Mato Grosso do Sul"
+      },
+      "tags": [
+       "agua-clara",
+       "mato-grosso-do-sul",
+       "maconha",
+       "policia-militar"
+      ],
+      "sources": [
+       {
+        "url": "https://www.aguaclarams.com.br/artigo/denuncia-anonima-tentativa-de-fuga-e-operacao-policial-terminam-com-apreensao-de-cocaina-e-maconha-em-agua-clara",
+        "title": "Denúncia anônima, tentativa de fuga e operação policial terminam com apreensão de cocaína e maconha em Água Clara",
+        "publisher": "Portal Água Clara MS",
+        "date": "2026-11-05",
+        "language": "pt"
+       },
+       {
+        "url": "https://www.rcn67.com.br/tres-lagoas/jpnews/policia-prende-cinco-suspeitos-e-apreende-mais-de-54-quilos-de-drogas-em-agua-clara/",
+        "title": "Polícia prende cinco suspeitos e apreende mais de 54 quilos de drogas em Água Clara",
+        "publisher": "RCN67",
+        "date": "2026-11-06",
+        "language": "pt"
+       }
+      ],
+      "media": [
+       {
+        "kind": "photo",
+        "url": "https://www.rcn67.com.br/tres-lagoas/jpnews/policia-prende-cinco-suspeitos-e-apreende-mais-de-54-quilos-de-drogas-em-agua-clara/",
+        "media_url": "https://uploads.rcn67.com.br/2026/11/WhatsApp-Image-2026-11-05-at-14.23.31-e1793964361586-1000x829.jpeg",
+        "caption": "Civil Police handout photo of the drugs seized in the Água Clara operation. Photo: Divulgação/PC"
+       }
+      ],
+      "open_questions": [
+       "The 54.5 kg figure adds the separately reported approximate 54 kg and 500 g seizures; the cannabis portions from the driver's home were not separately weighed.",
+       "The overall 54.64 kg drug total includes cocaine and is not used as a cannabis figure.",
+       "Portal Água Clara places the cache in woodland near MS-324, while RCN67 places it at a property; the relationship between these locations is unclear.",
+       "The operation began on 4 November, but the dates of the later arrests are not specified in the accounts.",
+       "No laboratory confirmation or court outcome was reported.",
+       "The coordinates mark the centre of Água Clara rather than the places searched."
+      ],
+      "body": "Police arrested five men during a drug investigation in Água Clara, Mato Grosso\ndo Sul, that began on the night of 4 November 2026. Four were booked on\nsuspicion of drug trafficking and association for trafficking; the fifth was\narrested under a judicial warrant. The operation began after Military\nPolice received a tip that a man was selling drugs from a white VW Gol in the\nJardim das Palmeiras neighbourhood. Officers pursued the driver for several\nblocks before stopping him. They found suspected cocaine in the car and\ncannabis portions, a scale, packaging material and cash at his home. The\ndriver was 30 years old. The Civil Police's General Investigations Section\nwas already investigating him.\n\nRCN67 reported that officers found 59 cannabis tablets weighing about 54 kg at a\nsecond property and arrested two men, aged 18 and 20, there. In the local\naccount, police located the two involved people at a snack bar. That\naccount placed the drug cache in woodland near the MS-324 highway.\nInvestigators later found another suspect, aged 22, with approximately 500 grams\nof cannabis and a scale.\n\nPolice also found a bag of cocaine that investigators believed the driver had\ndiscarded during the initial stop. The operation also yielded a car, a\nmotorcycle, three scales, three phones, packaging and approximately 250 reais in\ncash. The people initially found were taken to the Civil Police station in\nÁgua Clara for legal procedures.",
+      "words": 236
+     },
+     "dimensions": {
+      "facts": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "br",
+         "got": "br"
+        },
+        {
+         "label": "Date of the event",
+         "score": 1,
+         "expected": "2026-11-04",
+         "got": "2026-11-04"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "seizure or arrest or raid",
+         "got": "arrest + seizure + raid"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 60 km of -20.4478, -52.8778",
+         "got": "Jardim das Palmeiras, Água Clara, Mato Grosso do Sul (0 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "kg_seized",
+         "score": 1,
+         "expected": "54.52",
+         "got": "54.5"
+        },
+        {
+         "label": "arrested",
+         "score": 1,
+         "expected": "5",
+         "got": "5"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "products",
+         "score": 1,
+         "expected": "flower or hashish",
+         "got": "flower"
+        },
+        {
+         "label": "agencies",
+         "score": 1,
+         "expected": "br-pm or Polícia Militar or Military Police or Polícia Civil or Civil Police",
+         "got": "br-pm, Água Clara Civil Police"
+        }
+       ],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Independent outlets on this event",
+         "score": 1,
+         "expected": "2 or more",
+         "got": "2"
+        },
+        {
+         "label": "Portal Água Clara MS",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "aguaclarams.com.br: about this event"
+        },
+        {
+         "label": "RCN67",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "rcn67.com.br: about this event"
+        }
+       ],
+       "weight": 15
+      },
+      "photos": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Known photo of the event",
+         "score": 1,
+         "expected": "linked",
+         "got": "https://uploads.rcn67.com.br/2026/11/WhatsApp-Image-2026-11-05-at-14.23.31-e1793964361586-1000x829.jpeg"
+        }
+       ],
+       "weight": 10
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says the 59 bricks",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says the cocaine",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says it started with an anonymous tip",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "68"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "14 of 14",
+         "got": "14 of 14"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "br-mojui-analoga-maconha",
+   "title": "Arrest in Mojuí dos Campos with a substance \"analogous to marijuana\"",
+   "family": "new-event",
+   "tests": [
+    "scope",
+    "languages",
+    "terminology"
+   ],
+   "why": "Brazilian police reports say \"substância análoga à maconha\" for suspected marijuana that has not yet been lab-tested. It is not a synthetic cannabinoid. A model in production rejected this page as synthetic; the right answer is a small new report: one man arrested, twelve wraps of cannabis and 31 of cocaine.",
+   "submit": "https://oimpacto.com.br/2026/11/suspeito-e-preso-em-mojui-dos-campos-apos-ser-flagrado-com-maconha-e-cocaina/",
+   "expect": {
+    "outcome": {
+     "new_event": 1,
+     "not_relevant": 0,
+     "insufficient_evidence": 0
+    },
+    "country": {
+     "br": 1
+    },
+    "date": {
+     "value": "2026-11-12"
+    },
+    "type": {
+     "arrest": 1,
+     "seizure": 1
+    },
+    "place": {
+     "coordinates": [
+      -2.6847,
+      -54.6425
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "arrested": {
+      "value": 1
+     }
+    },
+    "figures_optional": [
+     "cash",
+     "sites"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 12,
+      "why": "twelve wraps recorded as kilograms"
+     },
+     {
+      "key": "kg_seized",
+      "value": 43,
+      "why": "cocaine and cannabis wraps added and recorded as kilograms"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the twelve wraps of cannabis",
+      "any": [
+       "12",
+       "twelve"
+      ]
+     },
+     {
+      "say": "the cocaine",
+      "kept apart": null,
+      "any": [
+       "cocaine"
+      ]
+     }
+    ],
+    "open_questions": [
+     {
+      "about": "no weight was given",
+      "any": [
+       "weight",
+       "quantity",
+       "how much",
+       "grams",
+       "kilogram"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "mojui-dos-campos-cidade-alta-cannabis-arrest",
+     "existing_report": "",
+     "decision_title": "Mojuí dos Campos arrest",
+     "explanation": "The report was committed to the local repository (a3ad3a61d5df). 1 of 1 new photos and videos got a thumbnail or poster. It is available in local development; pushing is separate.",
+     "model_explanation": "The two opened accounts describe the same arrest and home search in Cidade Alta 2. The police-reported cannabis seizure falls within the tracker’s scope; the quantities and circumstances distinguish it from the nominated reports. The submitted page’s composite is linked; g1’s captioned image had no recoverable direct image address.",
+     "flags": [],
+     "usage": {
+      "seconds": 801,
+      "research_seconds": 618,
+      "steps": 13,
+      "searches": 6,
+      "pages_opened": 5,
+      "runs": 1,
+      "input_tokens": 134459,
+      "output_tokens": 14066,
+      "reasoning_tokens": 5280,
+      "cache_read_tokens": 1366144,
+      "cost_usd": 0
+     },
+     "searches": [
+      "\"Mojuí dos Campos\" \"maconha\" \"12\" novembro 2026 prisão",
+      "\"Mojuí\" \"João Victor Castro\" maconha",
+      "\"Mojuí dos Campos\" \"31\" \"12\" drogas mulher",
+      "\"João Victor Castro\" Mojuí tráfico 2026",
+      "Mojuí dos Campos Pará coordinates latitude longitude",
+      "\"Mojuí dos Campos\" \"encontro das águas\" \"tráfico\" companheira"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "Man arrested after 12 suspected cannabis packets found in Mojuí dos Campos",
+      "summary": "Military Police arrested João Victor Castro in Mojuí dos Campos, Pará, on 12 November 2026. Officers said they found 12 packets of suspected cannabis and 31 of suspected cocaine at his home after stopping him with his wife.",
+      "date": "2026-11-12",
+      "country": "br",
+      "type": "arrest",
+      "also": [
+       "seizure",
+       "raid"
+      ],
+      "place": "Cidade Alta 2, Mojuí dos Campos, Pará",
+      "coordinates": [
+       -2.68472,
+       -54.64306
+      ],
+      "figures": {
+       "arrested": 1,
+       "sites": 1
+      },
+      "details": {
+       "agencies": [
+        "br-pm"
+       ],
+       "agency_types": [
+        "gendarmerie"
+       ],
+       "products": [
+        {
+         "product": "flower"
+        }
+       ],
+       "activity": [
+        "possession",
+        "sale"
+       ],
+       "setting": [
+        "street",
+        "home"
+       ],
+       "case_stage": "investigation",
+       "date_precision": "exact",
+       "region": "Pará"
+      },
+      "tags": [
+       "mojui-dos-campos",
+       "para",
+       "maconha",
+       "military-police"
+      ],
+      "sources": [
+       {
+        "url": "https://oimpacto.com.br/2026/11/suspeito-e-preso-em-mojui-dos-campos-apos-ser-flagrado-com-maconha-e-cocaina/",
+        "title": "SUSPEITO É PRESO EM MOJUÍ DOS CAMPOS APÓS SER FLAGRADO COM MACONHA E COCAÍNA",
+        "publisher": "Jornal O Impacto",
+        "date": "2026-11-13",
+        "language": "pt"
+       },
+       {
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/13/mulher-denuncia-companheiro-a-policia-e-homem-e-preso-com-drogas-em-santarem.ghtml",
+        "title": "Mulher denuncia companheiro à polícia e homem é preso com drogas em Santarém",
+        "publisher": "g1 Santarém e Região",
+        "date": "2026-11-13",
+        "language": "pt"
+       }
+      ],
+      "media": [
+       {
+        "kind": "photo",
+        "url": "https://oimpacto.com.br/2026/11/suspeito-e-preso-em-mojui-dos-campos-apos-ser-flagrado-com-maconha-e-cocaina/",
+        "media_url": "https://oimpacto.com.br/wp-content/uploads/2026/11/PRESO-MOJUI-DOS-CAMPOS.jpg",
+        "caption": "Composite showing the seized items laid out by the 35th Military Police Battalion and the man arrested in Mojuí dos Campos."
+       }
+      ],
+      "open_questions": [
+       "No weight or laboratory confirmation was reported for the suspected cannabis.",
+       "O Impacto reported R$301 in cash while g1 reported R$300; no cash figure is recorded.",
+       "The precise recovery location of the separately listed greenish portion is not clear.",
+       "No charge sheet, plea, custody decision or court outcome was reported.",
+       "The coordinates mark the centre of Mojuí dos Campos, not the street or the house."
+      ],
+      "body": "João Victor Castro was arrested in Mojuí dos Campos on 12 November 2026 after he\nwas found with substances resembling marijuana and cocaine. Officers\napproached him at about 5:45 p.m. at the junction of Travessa São Sebastião and\nRua Joana D’Arc. According to the Military Police, he appeared nervous when\nhe saw their patrol vehicle, and officers found some drugs on him. His wife\nwas with him and, when questioned, told officers there was more illicit material\nat their home, the 35th Military Police Battalion said. G1 reported that\nshe accused him of local drug trafficking and that he told officers he kept more\ncocaine and marijuana at home.\n\nPolice went to the couple's home on Rua Almirante Barroso in the Cidade Alta 2\nneighbourhood. There, they found 12 packets of a substance resembling\nmarijuana and 31 packets of suspected cocaine, according to the Military Police. The list of seized items also included one greenish portion resembling\nmarijuana. Cash was also found in the home. Officers also found\ndrug-packaging material and a mobile phone.\n\nThe man and the seized material were taken to the 16th Civil Police precinct in\nSantarém for further procedures. He remained at the disposal of the\njudiciary.",
+      "words": 201
+     },
+     "dimensions": {
+      "facts": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "br",
+         "got": "br"
+        },
+        {
+         "label": "Date of the event",
+         "score": 1,
+         "expected": "2026-11-12",
+         "got": "2026-11-12"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "arrest or seizure",
+         "got": "arrest + seizure + raid"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 60 km of -2.6847, -54.6425",
+         "got": "Cidade Alta 2, Mojuí dos Campos, Pará (0 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "arrested",
+         "score": 1,
+         "expected": "1",
+         "got": "1"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "products",
+         "score": 1,
+         "expected": "flower",
+         "got": "flower"
+        }
+       ],
+       "weight": 10
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says the twelve wraps of cannabis",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says the cocaine",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Open question: no weight was given",
+         "score": 1,
+         "expected": "listed as open",
+         "got": "yes"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "74"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "12 of 12",
+         "got": "12 of 12"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "kw-chemical-synthetic",
+   "title": "Three held in Kuwait over the drug known as \"chemical\"",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "terminology"
+   ],
+   "why": "\"Chemical\" is the Gulf street name for synthetic cannabinoids, sold as an oil and on soaked paper. The article says it is a synthetic drug and names no cannabis.",
+   "submit": "https://www.arabtimesonline.com/news/bangladeshi-and-two-nepalese-expats-arrested-in-kuwait-drug-crackdown/",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The arrests and seizures involve only a synthetic drug known as chemical, with no cannabis component mentioned.",
+     "model_explanation": "The arrests and seizures involve only a synthetic drug known as chemical, with no cannabis component mentioned.",
+     "flags": [],
+     "usage": {
+      "seconds": 41,
+      "research_seconds": 21,
+      "steps": 0,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 1401,
+      "output_tokens": 34,
+      "reasoning_tokens": 430,
+      "cache_read_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "th-bangkok-five-tonnes",
+   "title": "Five tonnes of cannabis in a Bang Khen house",
+   "family": "new-event",
+   "tests": [
+    "units",
+    "corroboration",
+    "photos",
+    "languages"
+   ],
+   "why": "A large raid reported in English and Thai. The submitted page is a rewrite published a day later; the raid itself was on 19 October. Tonnes become kilograms, and the five people held are one Vietnamese and four from Myanmar.",
+   "submit": "https://www.chiangraitimes.com/bangkok/bangkok-marijuana-seized/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "th": 1
+    },
+    "date": {
+     "value": "2026-10-19",
+     "also": {
+      "2026-10-20": 0.5
+     }
+    },
+    "type": {
+     "raid": 1,
+     "seizure": 1,
+     "arrest": 0.5
+    },
+    "place": {
+     "coordinates": [
+      13.874,
+      100.596
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 5000,
+      "tolerance": 0.1
+     },
+     "arrested": {
+      "value": 5
+     }
+    },
+    "figures_optional": [
+     "charged",
+     "sites"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 5,
+      "why": "tonnes recorded as kilograms"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ],
+     "setting": [
+      "home"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "five people were held",
+      "any": [
+       "five",
+       "\\b5\\b"
+      ]
+     },
+     {
+      "say": "it was in Bang Khen",
+      "any": [
+       "Bang ?Khen"
+      ]
+     },
+     {
+      "say": "who they were",
+      "any": [
+       "Vietnam",
+       "Myanmar",
+       "Burm"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "chiangraitimes.com",
+      "aseannow.com",
+      "bangkokpost.com",
+      "khaosod.co.th",
+      "khaosodenglish.com",
+      "thethaiger.com",
+      "nationthailand.com",
+      "pattayamail.com",
+      "thairath.co.th",
+      "matichon.co.th",
+      "dailynews.co.th",
+      "mgronline.com",
+      "thaipbs.or.th"
+     ],
+     "markers": [
+      "Bang Khen",
+      "บางเขน",
+      "Khu Bon",
+      "คู้บอน",
+      "five ton",
+      "5 ton",
+      "5 ตัน",
+      "ห้าตัน"
+     ]
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "2026/10/1-22",
+      "bangkok-cannabis-2",
+      "bangkok-cannabis-3",
+      "c1_3340299"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "insufficient_evidence",
+     "outcome": "insufficient_evidence",
+     "model_outcome": "insufficient_evidence",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "Possible existing Bang Khen raid",
+     "explanation": "The submitted account describes five foreign nationals arrested and more than five tonnes of cannabis seized from a Bangkok house. Khaosod identifies the site as Khu Bon in Bang Khen, and The Thaiger dates the raid to 19 October 2026. A retired identity points to the potentially overlapping report bangkok-khu-bon-5-tonnes, but its current body could not be retrieved for comparison. That report should be checked before adding these accounts or creating another report.",
+     "model_explanation": "The submitted account describes five foreign nationals arrested and more than five tonnes of cannabis seized from a Bangkok house. Khaosod identifies the site as Khu Bon in Bang Khen, and The Thaiger dates the raid to 19 October 2026. A retired identity points to the potentially overlapping report bangkok-khu-bon-5-tonnes, but its current body could not be retrieved for comparison. That report should be checked before adding these accounts or creating another report.",
+     "flags": [],
+     "usage": {
+      "seconds": 158,
+      "research_seconds": 145,
+      "steps": 9,
+      "searches": 12,
+      "pages_opened": 16,
+      "runs": 1,
+      "input_tokens": 154991,
+      "output_tokens": 3332,
+      "reasoning_tokens": 2610,
+      "cache_read_tokens": 642176,
+      "cost_usd": 0
+     },
+     "searches": [
+      "\"Bang Khen\" \"cannabis\" \"Vietnamese\" \"five\" house",
+      "\"Bang Khen\" \"cannabis\" \"Nong Bua Lamphu\" Vietnamese 5 tonnes",
+      "บางเขน บ้านหรู กัญชา 5 ตัน เวียดนาม เมียนมา หนองบัวลำภู",
+      "กัญชา 5 ตัน คู้บอน เวียดนาม เมียนมา 2569",
+      "Bangkok khu bon cannabis five tonnes October 2026",
+      "bangkok bang khen cannabis 5 tons immigration raid",
+      "Bangkok raid cannabis 5 tonnes 19 October",
+      "\"Bang Khen\" \"cannabis\" \"tonnes\"",
+      "กัญชา 5 ตัน คู้บอน",
+      "\"Onanong Srisuwan\" cannabis Bangkok",
+      "Thailand cannabis Bangkok raid",
+      "Bangkok marijuana seized Khu Bon"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "insufficient evidence"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "th",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [
+       {
+        "url": "https://www.chiangraitimes.com/bangkok/bangkok-marijuana-seized/",
+        "title": "Bangkok Police Raid Luxury Home, Seizing 5 Tons of Marijuana",
+        "publisher": "Chiang Rai Times",
+        "date": "2026-10-20",
+        "language": ""
+       },
+       {
+        "url": "https://www.khaosod.co.th/around-thailand/news_10442951",
+        "title": "บุกจับ5ต่างด้าว คาบ้านหรูคู้บอน ยึดกัญชา5ตัน ลักลอบบรรจุช่อดอกส่งลูกค้า กรุงเทพฯ",
+        "publisher": "Khaosod",
+        "date": "2026-10-19",
+        "language": "th"
+       },
+       {
+        "url": "https://thethaiger.com/news/bangkok/bangkok-cannabis-raid-seizes-over-5-tonnes-arrests-five",
+        "title": "Bangkok cannabis raid seizes over 5 tonnes, arrests five",
+        "publisher": "The Thaiger",
+        "date": "2026-10-20",
+        "language": ""
+       }
+      ],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "us-dui-checkpoint-cannabis-grant",
+   "title": "DUI checkpoint paid for by a cannabis tax grant",
+   "family": "out-of-scope",
+   "tests": [
+    "scope"
+   ],
+   "why": "Two drink-or-drug-driving arrests at a checkpoint. Cannabis appears only in the name of the grant that paid for it and in a general warning about impaired driving. No cannabis was seized and nobody was arrested for it.",
+   "submit": "https://contracosta.news/2026/11/14/concord-police-2-arrested-at-dui-checkpoint/",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "No cannabis link to DUI arrests",
+     "explanation": "Concord police reported two arrests for suspected impaired driving at a checkpoint on the night of 13–14 November 2026. The checkpoint was paid for by a cannabis tax grant, and police gave a general warning about driving under the influence of marijuana, but neither opened account identifies cannabis as a factor in either arrest. Funding and a general warning do not establish a cannabis enforcement event; an account identifying cannabis in an arrest would allow reassessment.",
+     "model_explanation": "Concord police reported two arrests for suspected impaired driving at a checkpoint on the night of 13–14 November 2026. The checkpoint was paid for by a cannabis tax grant, and police gave a general warning about driving under the influence of marijuana, but neither opened account identifies cannabis as a factor in either arrest. Funding and a general warning do not establish a cannabis enforcement event; an account identifying cannabis in an arrest would allow reassessment.",
+     "flags": [],
+     "usage": {
+      "seconds": 101,
+      "research_seconds": 64,
+      "steps": 4,
+      "searches": 5,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 63916,
+      "output_tokens": 1223,
+      "reasoning_tokens": 1730,
+      "cache_read_tokens": 134912,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Concord police checkpoint November 13 2026 DUI marijuana",
+      "Concord DUI checkpoint \"616\" \"Ayers\" November",
+      "Concord DUI checkpoint Clayton Ayers November 13 cannabis",
+      "\"Concord\" \"616\" \"checkpoint\" cannabis arrests November",
+      "\"Clayton\" \"Ayers\" \"616\" \"DUI\" marijuana 2026"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "us-eagle-point-reprint",
+   "title": "A sister station's reprint of the Eagle Point van stop",
+   "family": "known-event",
+   "tests": [
+    "coverage"
+   ],
+   "why": "A word-for-word reprint, on a sister TV station's site, of an article the existing report already uses. The headline says \"nearly 1,000 pounds\" where the report says 910 pounds, and the page was published a week after the stop, so it does not look like the same story at first.",
+   "submit": "https://kcby.com/news/nation-world/van-full-of-pot-troopers-arrest-oregon-man-after-finding-nearly-1000-pounds-of-weed?teaserSource=trending",
+   "expect": {
+    "outcome": {
+     "duplicate": 1,
+     "additional_source": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "eagle-point-brownsboro-910lb-mims"
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "additional_source",
+     "model_outcome": "additional_source",
+     "report_slug": "eagle-point-brownsboro-910lb-mims",
+     "existing_report": "eagle-point-brownsboro-910lb-mims",
+     "decision_title": "Additional source for Eagle Point case",
+     "explanation": "The source was added to the existing report “Eagle Point man arrested after 910 pounds found in a van” and committed to the local repository (43c49ae494ad). It is available in local development; pushing is separate.",
+     "model_explanation": "KCBY recounts the same Brownsboro Highway van stop, 910-pound marijuana find and charges against Saibya Walter Mims already recorded in the Eagle Point report. Its account is a syndicated copy of the KATU story already cited, not independent confirmation; it can be attached to the existing sentences. The page's only image is a file photo of an Oregon State Police truck, so it is not included as event media.",
+     "flags": [],
+     "usage": {
+      "seconds": 186,
+      "research_seconds": 139,
+      "steps": 6,
+      "searches": 10,
+      "pages_opened": 3,
+      "runs": 1,
+      "input_tokens": 52090,
+      "output_tokens": 3327,
+      "reasoning_tokens": 2383,
+      "cache_read_tokens": 208000,
+      "cost_usd": 0
+     },
+     "searches": [
+      "\"Saibya\" \"Mims\" marijuana Oregon 910 pounds",
+      "\"Brownsboro\" \"Mims\" 910 marijuana van",
+      "\"Saibya Walter Mims\" arrest marijuana",
+      "\"Brownsboro Highway\" \"910\" marijuana November 2026",
+      "\"Ganesh Management Group\" \"Mims\" marijuana 2026",
+      "\"Sunny Mims\" \"Brownsboro\" marijuana",
+      "\"Eagle Point\" \"910 pounds\" cannabis van",
+      "\"Saibya\" \"Mims\" cannabis",
+      "Oregon Mims 910 pounds cannabis truck November",
+      "\"Saibya\" \"Mims\" marijuana Oregon"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "duplicate or additional_source → eagle-point-brownsboro-910lb-mims",
+      "got": "additional source → eagle-point-brownsboro-910lb-mims"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  }
+ ]
+}

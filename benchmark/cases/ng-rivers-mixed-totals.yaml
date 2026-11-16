@@ -1,0 +1,12 @@
+id: ng-rivers-mixed-totals
+title: Four months of NDLEA totals with no cannabis figure
+family: out-of-scope
+tests: [scope, mixed-substances, routing]
+submit: https://newscentraltv.com/drug-dealers-recruit-children-for-trafficking-ndlea/
+why: >-
+  A state command's briefing: 281 suspects and 316 kg of "illicit substances" in four months,
+  split only into narcotics and psychotropics. Cannabis is named once, as a worry. Nothing here
+  is one enforcement event, and no weight can be recorded as cannabis. Any rejection is right;
+  a report that books 316 kg (or 288 kg) as cannabis is the failure.
+expect:
+  outcome: {not_relevant: 1, routed_to_cfi: 1, insufficient_evidence: 1}

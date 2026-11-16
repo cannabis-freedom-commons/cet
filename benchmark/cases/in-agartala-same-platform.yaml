@@ -1,0 +1,36 @@
+id: in-agartala-same-platform
+title: A second seizure on the same Agartala platform the same day
+family: new-event
+tests: [coverage, look-alike, figures, honesty]
+submit: https://www.tripurastarnews.com/tripura-railway-police-seizes-05-525-kg-of-cannabis-worth-%E2%82%B95-lakh-with-1-drug-peddler-in-agartala-railway-station/
+setup:
+  hide: [agartala-railway-5525kg-cannabis]
+why: >-
+  Railway police arrested a 19-year-old with 5.525 kg of ganja on platform 1 of Agartala station.
+  The tracker already has another seizure from the same bench on the same platform on the same
+  day by the same officers: two other men with 24.625 kg. Two events, written in near-identical
+  words by the same outlet. The headline also says the ganja is worth 5 lakh rupees; the text
+  says 2.5 lakh.
+expect:
+  outcome: {new_event: 1}
+  country: {in: 1}
+  date: {value: 2026-11-13}
+  type: {seizure: 1, arrest: 1}
+  place: {coordinates: [23.7917, 91.2791], within_km: 30}
+  figures:
+    kg_seized: {value: 5.525}
+    arrested: {value: 1}
+    value: {amount: 250000, currency: INR}
+  figures_optional: [charged]
+  figures_forbidden:
+    - {key: kg_seized, value: 24.625, why: the weight of the other seizure that day}
+    - {key: arrested, value: 2, why: the two men of the other seizure}
+    - {key: value.amount, value: 500000, why: the headline's figure, not the text's}
+  details:
+    products: [flower]
+  mentions:
+    - {say: the weight as stated, any: ['5\.525']}
+    - {say: it was on platform 1 of the station, any: ['platform']}
+    - {say: whose valuation it is, any: ['estimated', 'police (put|valued|said)', 'black-market', 'according to']}
+  must_not_say:
+    - {say: two men were held, any: ['two men', 'two people', 'both men']}

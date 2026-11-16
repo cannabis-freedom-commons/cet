@@ -1,0 +1,12 @@
+id: mx-four-states-army-statement
+title: Another account of the army's 38 destroyed plots
+family: known-event
+tests: [coverage, mixed-substances]
+submit: https://www.poresto.com/mexico/sucesos/2026/11/14/ejercito-destruye-plantios-droga-afectacion-supera-mdp.html
+why: >-
+  The Mexican army's statement on 38 plots destroyed in four states (20 poppy, 18 marijuana) is
+  already recorded, under a title that speaks of 18 marijuana plots. This outlet leads with "38
+  drug plots". Same statement, same day, same event.
+expect:
+  outcome: {duplicate: 1, additional_source: 1, existing_case: 0.5}
+  existing_report: four-states-18-marijuana-plantations-eradication

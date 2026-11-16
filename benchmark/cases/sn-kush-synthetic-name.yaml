@@ -1,0 +1,12 @@
+id: sn-kush-synthetic-name
+title: 44 pieces of "Kush" seized in Thiaroye
+family: out-of-scope
+tests: [scope, terminology, languages]
+submit: https://www.seneweb.com/fr/news/Societe/thiaroye-kao-une-operation-policiere-demantele-un-reseau-presume-de-trafic-de-kush_n_999003608.html
+why: >-
+  In West Africa "Kush" is the street name of a synthetic drug (synthetic cannabinoids, often with
+  nitazene opioids), not a cannabis variety. The article names nothing else. The substance has to
+  be identified from evidence, not from a trade name, and the tracker already holds real cannabis
+  cases from the same suburb.
+expect:
+  outcome: {not_relevant: 1, insufficient_evidence: 0.5}

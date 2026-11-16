@@ -1,0 +1,11 @@
+id: de-vapes-suspected-synthetic
+title: 100 vapes with suspected synthetic cannabinoids on the A8
+family: out-of-scope
+tests: [scope, languages]
+submit: https://www.onetz.de/deutschland-welt/grenzpolizei-findet-100-verdaechtige-vapes-a8-id5562351.html
+why: >-
+  German border police found 100 vapes they suspect contain synthetic cannabinoids; a lab report
+  is still to come. There is no confirmed cannabis in the case, so nothing can be recorded as a
+  cannabis seizure.
+expect:
+  outcome: {not_relevant: 1, insufficient_evidence: 1}

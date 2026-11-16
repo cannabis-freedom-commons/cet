@@ -1,0 +1,11 @@
+id: us-dui-checkpoint-cannabis-grant
+title: DUI checkpoint paid for by a cannabis tax grant
+family: out-of-scope
+tests: [scope]
+submit: https://contracosta.news/2026/11/14/concord-police-2-arrested-at-dui-checkpoint/
+why: >-
+  Two drink-or-drug-driving arrests at a checkpoint. Cannabis appears only in the name of the
+  grant that paid for it and in a general warning about impaired driving. No cannabis was seized
+  and nobody was arrested for it.
+expect:
+  outcome: {not_relevant: 1, insufficient_evidence: 0.5}

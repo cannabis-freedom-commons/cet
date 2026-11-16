@@ -1,0 +1,17 @@
+id: es-ceuta-remand
+title: "The driver is remanded: a later step in a case the tracker has"
+family: known-event
+tests: [coverage, later-step, languages]
+submit: https://elfarodeceuta.es/actualidad/sucesos/prision-camionero-detenido-udyco-hachis/
+setup:
+  # the report as it was after the arrest, before this remand was added to it
+  restore:
+    - {path: reports/2026/11/ceuta-port-truck-300kg-hashish-arrest.md, commit: 8bf28ddca1e216cbff6c5ad019bf15dac2a63b91}
+why: >-
+  The tracker has the arrest of a lorry driver at the port of Ceuta with about 300 kg of hashish
+  in a hidden compartment. Two days later a judge ordered him held in prison until trial. This
+  page reports that step. It is the same case moving on: the existing report is updated, no
+  second report is written. The page's pictures are marked as archive images.
+expect:
+  outcome: {existing_case: 1, additional_source: 1, duplicate: 0.5}
+  existing_report: ceuta-port-truck-300kg-hashish-arrest

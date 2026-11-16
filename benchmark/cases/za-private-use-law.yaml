@@ -1,0 +1,10 @@
+id: za-private-use-law
+title: South Africa legalises private cannabis use
+family: out-of-scope
+tests: [scope, routing]
+submit: https://www.aljazeera.com/news/2024/6/10/south-africa-legalises-cannabis-use-will-the-rest-of-africa-follow
+why: >-
+  A change in the law (the Cannabis for Private Purposes Act, signed in May 2024). Law changes go
+  to the Cannabis Freedom Index history, not into the tracker.
+expect:
+  outcome: {routed_to_cfi: 1, not_relevant: 0.5}

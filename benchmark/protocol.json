@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "max_steps": 32,
+  "timeout_seconds": 1800,
+  "websearch": "random",
+  "context": "inline",
+  "screen": true,
+  "source_browser": true,
+  "concurrency": 2,
+  "case_deadline_minutes": 45,
+  "retry_errors": 1
+}

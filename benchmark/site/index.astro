@@ -1,0 +1,183 @@
+---
+// /benchmark/: how well each harness + provider + model does the tracker's own research job,
+// measured on real pages with known answers (benchmark/README.md).
+import Base from "../../src/layouts/Base.astro";
+import "./benchmark.css";
+import { runs, cases, sets, FAMILIES, FAMILY_NOTE, CAPABILITIES, day, score, band } from "./data.js";
+const base = import.meta.env.BASE_URL;
+const { full, partial } = sets();
+const current = full[0];
+const older = full.slice(1);
+const families = Object.keys(FAMILIES);
+const caps = Object.keys(CAPABILITIES);
+const weights = runs[0]?.weights ?? { facts: 20, figures: 20, classification: 10, corroboration: 15, photos: 10, text: 15, grounding: 10 };
+const byFamily = families.map((family) => [family, cases.filter((item) => item.family === family)]);
+const repeats = (run) => Math.max(1, Math.round(run.summary.attempts / Math.max(1, run.summary.cases)));
+const caseScore = (run, id) => run.cases.find((item) => item.id === id)?.score;
+const subjectLine = (run) => `${run.subject.harness}${run.subject.harness_version ? ` ${run.subject.harness_version.replace(/^\D+/, "")}` : ""} · ${run.subject.provider}`;
+// short column titles for the wide table; the full names are the tooltips and the legend under it
+const SHORT = { "new-event": "New", "known-event": "Known", "out-of-scope": "Scope", recognised: "Found", facts: "Facts", figures: "Figures", classification: "Class.", corroboration: "Sources", photos: "Photos", text: "Text", grounding: "Quotes" };
+const modelName = (run) => run.subject.model + (run.subject.effort ? `#${run.subject.effort}` : "");
+---
+<Base title="Research benchmark" description="How well each AI model, with its harness and provider, does the tracker's research: recognising events, corroborating them, finding photos, getting figures and classification right." wide noindex>
+  <div class="bench">
+    <h1>Research benchmark</h1>
+    <p class="lead">Which model can be trusted with the tracker's research? Each one gets the same {cases.length} real pages
+      and does the whole job the way it runs in production: read the page, search for other coverage, check what the
+      tracker already has, decide, and write the report. The result is compared with a checked answer.</p>
+
+    <dl class="b-facts">
+      <div><dt>Cases</dt><dd>{cases.length}</dd></div>
+      {byFamily.map(([family, list]) => <div><dt>{FAMILIES[family]}</dt><dd>{list.length}</dd></div>)}
+      <div><dt>Runs recorded</dt><dd>{runs.length}</dd></div>
+    </dl>
+
+    {!runs.length && (
+      <p class="note">No run has been recorded yet. Start one with <code>npm run benchmark -- opencode@provider/model#effort</code>.</p>
+    )}
+
+    {current && (
+      <>
+        <h2 id="results">Results</h2>
+        <p class="note">Scores are out of 100. A subject is always three things: the harness that drives the model, the
+          provider that serves it, and the model with its effort setting. Change any of them and it is a different row.</p>
+        <div class="b-scroll">
+          <table class="b-table b-board">
+            <thead>
+              <tr>
+                <th></th><th>Model</th><th class="n">Score</th>
+                {families.map((family, i) => <th class:list={["n", { sep: i === 0 }]} title={`${FAMILIES[family]}: ${FAMILY_NOTE[family]}`}>{SHORT[family]}</th>)}
+                {caps.map((cap, i) => <th class:list={["n", { sep: i === 0 }]} title={`${CAPABILITIES[cap][0]}: ${CAPABILITIES[cap][1]}`}>{SHORT[cap]}</th>)}
+                <th class="n sep" title="Typical minutes for one case, from opening the page to the final answer">Min</th>
+                <th class="n">Runs</th>
+              </tr>
+            </thead>
+            <tbody>
+              {current.runs.map((run, i) => (
+                <tr>
+                  <td class="rank">{i + 1}</td>
+                  <td>
+                    <span class="b-model"><a href={`${base}benchmark/${run.id}/`}>{modelName(run)}</a></span>
+                    <span class="b-sub">{subjectLine(run)} · {day(run.started_at)}{run.label ? ` · ${run.label}` : ""}{run.complete ? "" : " · unfinished"}</span>
+                  </td>
+                  <td class="n"><span class:list={["b-total", `b-${band(run.summary.score)}`]}>{score(run.summary.score)}</span><span class="b-bar"><i style={`width:${run.summary.score ?? 0}%`}></i></span></td>
+                  {families.map((family, j) => <td class:list={["n", { sep: j === 0 }, `b-${band(run.summary.families[family]?.score)}`]}>{score(run.summary.families[family]?.score)}</td>)}
+                  {caps.map((cap, j) => <td class:list={["n", { sep: j === 0 }, `b-${band(run.summary.capabilities[cap]?.score)}`]}>{score(run.summary.capabilities[cap]?.score)}</td>)}
+                  <td class="n sep">{run.summary.usage.minutes_per_case ?? "–"}</td>
+                  <td class="n">{run.summary.cases}×{repeats(run)}{run.summary.verdicts.error ? <span class="b-sub b-fail">{run.summary.verdicts.error} unfinished</span> : ""}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="note"><b>New</b>, <b>Known</b>, <b>Scope</b>: the three kinds of case (new events, events already covered,
+          pages out of scope). The next eight look inside the reports written for new events: <b>Found</b> (recognised as an
+          event), <b>Facts</b>, <b>Figures</b>, <b>Class.</b> (classification), <b>Sources</b> (corroboration), <b>Photos</b>,
+          <b>Text</b>, <b>Quotes</b> (grounding). <b>Min</b>: typical minutes per case. Open a model for every case in detail.</p>
+
+        <h2 id="cases">Case by case</h2>
+        <p class="note">Each cell is one model's score on one case (the mean, when a case was run several times).</p>
+        <div class="b-scroll">
+          <table class="b-table b-matrix">
+            <thead>
+              <tr>
+                <th>Case</th>
+                {current.runs.map((run) => <th class="col"><a href={`${base}benchmark/${run.id}/`}>{modelName(run)}<br /><span class="b-none">{subjectLine(run)}</span></a></th>)}
+              </tr>
+            </thead>
+            <tbody>
+              {byFamily.map(([family, list]) => (
+                <>
+                  <tr class="fam"><td colspan={current.runs.length + 1}>{FAMILIES[family]} · {list.length}</td></tr>
+                  {list.map((item) => (
+                    <tr>
+                      <td>
+                        <span class="b-case-title">{item.title}</span>
+                        <span class="b-case-id">{item.id}</span>
+                        <span class="b-tests">{(item.tests || []).map((t) => <span>{t}</span>)}</span>
+                      </td>
+                      {current.runs.map((run) => {
+                        const value = caseScore(run, item.id);
+                        return <td class="cell">{value === undefined ? <span class="b-none">·</span> : <a class={`b-${band(value)}`} href={`${base}benchmark/${run.id}/#${item.id}`}>{score(value)}</a>}</td>;
+                      })}
+                    </tr>
+                  ))}
+                </>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </>
+    )}
+
+    {(older.length > 0 || partial.length > 0) && (
+      <>
+        <h2 id="other">Other runs</h2>
+        <p class="note">Runs on an earlier set of cases, other run settings or older scoring rules, and runs of only some
+          cases. They are kept for reference and are not ranked against the table above.</p>
+        <div class="b-scroll">
+          <table class="b-table">
+            <thead><tr><th>Model</th><th class="n">Score</th><th class="n">Cases</th><th>Why apart</th></tr></thead>
+            <tbody>
+              {[...older.flatMap((set) => set.runs.map((run) => [run, "earlier cases, settings or rules"])), ...partial.map((run) => [run, run.full_set ? "stopped before the end" : "only some cases"])].map(([run, reason]) => (
+                <tr>
+                  <td><span class="b-model"><a href={`${base}benchmark/${run.id}/`}>{modelName(run)}</a></span><span class="b-sub">{subjectLine(run)} · {day(run.started_at)}</span></td>
+                  <td class:list={["n", `b-${band(run.summary.score)}`]}>{score(run.summary.score)}</td>
+                  <td class="n">{run.summary.cases}×{repeats(run)}</td>
+                  <td>{reason}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </>
+    )}
+
+    <h2 id="how">How it works</h2>
+    <div class="prose">
+      <p>A run starts a private copy of the tracker's own research service, the same program and the same instructions
+        that research submissions in production, with the model under test. It works against a copy of the reports in
+        which the answers to the cases have been taken out. Each case's page is submitted like any link a reader sends.
+        Nothing is published: the copy is thrown away after the run. The live tracker already shows the hidden
+        answers, so in the copy the model is told that the tracker's own site is never a source; an answer that
+        names a hidden report anyway is marked spoiled and not counted.</p>
+      <p>What the service ends with is then compared, by fixed rules and without a judging model, with an answer that was
+        checked by hand against the sources.</p>
+    </div>
+
+    <h3>Three kinds of case</h3>
+    <div class="b-scroll">
+      <table class="b-table">
+        <thead><tr><th>Kind</th><th class="n">Cases</th><th>What is asked</th><th>How it is scored</th></tr></thead>
+        <tbody>
+          <tr><td>{FAMILIES["new-event"]}</td><td class="n">{byFamily[0][1].length}</td><td>{FAMILY_NOTE["new-event"]}</td><td>No report: 0. Otherwise the report is scored part by part (below).</td></tr>
+          <tr><td>{FAMILIES["known-event"]}</td><td class="n">{byFamily[1][1].length}</td><td>{FAMILY_NOTE["known-event"]}</td><td>100 when it is attached to the right report or called its duplicate; 0 for a second report or the wrong one.</td></tr>
+          <tr><td>{FAMILIES["out-of-scope"]}</td><td class="n">{byFamily[2][1].length}</td><td>{FAMILY_NOTE["out-of-scope"]}</td><td>100 for the right decision, part credit for another rejection, 0 for a report.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3>Inside a report</h3>
+    <div class="b-scroll">
+      <table class="b-table">
+        <thead><tr><th>Part</th><th class="n">Weight</th><th>What is checked</th></tr></thead>
+        <tbody>
+          {Object.keys(weights).map((key) => <tr><td>{CAPABILITIES[key][0]}</td><td class="n">{weights[key]}</td><td>{CAPABILITIES[key][1]}</td></tr>)}
+        </tbody>
+      </table>
+    </div>
+    <div class="prose">
+      <p>A part that a case cannot test is left out for that case: a story only one outlet carried has no corroboration
+        score. Many cases hold a trap that halves the figures score when it is walked into, such as pounds recorded as
+        kilograms or cocaine added to the cannabis weight.</p>
+      <p>The overall score is the mean over all cases. Models differ from run to run, so a difference of a few points
+        between two rows means little; repeat a run (<code>--repeat 3</code>) to see how much one model varies.</p>
+    </div>
+
+    <h3>Running it</h3>
+    <pre><code>npm run benchmark -- opencode@swancloud/muse-spark-1.3-contributor#xhigh
+npm run benchmark -- muse@muse-spark-1.3#xhigh --repeat 3
+npm run benchmark:scores</code></pre>
+    <p class="note">The cases, the scoring rules and every run's full output are in the repository's <code>benchmark/</code> folder.</p>
+  </div>
+</Base>

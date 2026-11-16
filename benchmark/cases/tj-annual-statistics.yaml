@@ -1,0 +1,10 @@
+id: tj-annual-statistics
+title: Tajikistan's drug seizures for 2021
+family: out-of-scope
+tests: [scope, routing, languages]
+submit: https://asiaplus.news/2022/02/17/v-2021-godu-v-tadzhikistane-izyato-bolee-4-tonn-narkotikov/
+why: >-
+  National totals for a whole year, in Russian, with hashish and cannabis among the figures.
+  National statistics belong to the Cannabis Freedom Index; they are not one enforcement event.
+expect:
+  outcome: {routed_to_cfi: 1, not_relevant: 0.5}

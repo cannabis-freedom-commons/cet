@@ -1,0 +1,30 @@
+id: in-manesar-roundup
+title: 12 kg of cannabis in a traffic-police roundup
+family: new-event
+tests: [extraction, photos, honesty]
+submit: https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-traffic-cops-recover-3-suspected-stolen-vehicles-seize-12kg-cannabis-in-30-days/articleshow/135725202.cms
+setup:
+  hide: [manesar-nainwal-cut-12kg-cannabis-seizure]
+why: >-
+  The cannabis seizure is one item in a roundup of a month of traffic-police work (stolen
+  motorbikes, accident help, a school van). Only the Nainwal Cut seizure belongs in the report.
+  The article's picture shows officers at a road, not this seizure, so no photo should be kept,
+  and the article gives no date for the seizure.
+expect:
+  outcome: {new_event: 1}
+  country: {in: 1}
+  date: {value: 2026-11-11, tolerance_days: 31, direction: before}
+  type: {seizure: 1, arrest: 1}
+  place: {coordinates: [28.354, 76.938], within_km: 40}
+  figures:
+    kg_seized: {value: 12}
+  figures_optional: [arrested, vehicles]
+  details:
+    products: [flower]
+  mentions:
+    - {say: where it happened (Nainwal Cut, Manesar), any: ['Nainwal']}
+    - {say: the suspects were handed to the local police station, any: ['handed over', 'handed to']}
+  media:
+    none: true
+  open_questions:
+    - {about: the seizure has no date of its own, any: ['date']}

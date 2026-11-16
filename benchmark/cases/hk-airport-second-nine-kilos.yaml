@@ -1,0 +1,46 @@
+id: hk-airport-second-nine-kilos
+title: A second 9 kg airport case in Hong Kong within a week
+family: new-event
+tests: [coverage, look-alike, corroboration, classification, photos]
+submit: https://www.info.gov.hk/gia/general/202611/05/P2026110500602.htm
+setup:
+  hide: [hong-kong-airport-9kg-bangkok-2026]
+why: >-
+  Customs arrested a 24-year-old arriving from Bangkok with about 9 kg of cannabis buds worth
+  HK$1.9 million. The tracker already holds another case from four days earlier that looks the
+  same: a 22-year-old mainland man, about 9 kg of buds at the same airport, HK$1.3 million,
+  arrested by police. They are two events. This one must be written as its own report, and
+  articles about the earlier case must not be used as its sources.
+expect:
+  outcome: {new_event: 1}
+  country: {hk: 1}
+  date: {value: 2026-11-05, also: {2026-11-04: 0.5}}
+  type: {seizure: 1, arrest: 1, prosecution: 0.5}
+  place: {coordinates: [22.308, 113.9145], within_km: 40}
+  figures:
+    kg_seized: {value: 9}
+    arrested: {value: 1}
+    value: {amount: 1900000, currency: HKD}
+  figures_optional: [charged]
+  figures_forbidden:
+    - {key: value.amount, value: 1300000, why: the value of the earlier, different case}
+  details:
+    products: [flower]
+    setting: [airport]
+    route.from: [th]
+    agencies: [hk-customs, Customs]
+  mentions:
+    - {say: he is 24, any: ['24-year-old', '24 years', 'aged 24']}
+    - {say: he flew in from Bangkok, any: ['Bangkok']}
+    - {say: he was charged, any: ['charged']}
+  must_not_say:
+    - {say: he is the 22-year-old of the earlier case, any: ['22-year-old', '1\.3 million']}
+  sources:
+    expect_independent: 2
+    strict: true
+    known: [info.gov.hk, customs.gov.hk, on.cc, stheadline.com, singtao.ca, hkcd.com.hk, bastillepost.com, wenweipo.com, hk01.com, mingpao.com, thestandard.com.hk, rthk.hk, news.gov.hk]
+    markers: ['1.9 million', '190萬', '190万', '24-year-old', '24歲', '24岁']
+    markers_min: 1
+  media:
+    min: 1
+    expect: ['P2026110500601_photo', 'P2026110500602_photo']

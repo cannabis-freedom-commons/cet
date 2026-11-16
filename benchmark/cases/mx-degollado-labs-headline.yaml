@@ -1,0 +1,12 @@
+id: mx-degollado-labs-headline
+title: A drug-labs headline for a raid the tracker has under its greenhouses
+family: known-event
+tests: [coverage, mixed-substances, languages]
+submit: https://netnoticias.mx/nacional/aseguran-laboratorios-y-droga-del-cjng-en-jalisco-operaba-bajo-mando-del-tio-lako
+why: >-
+  Most outlets led with the two methamphetamine laboratories found in Degollado. The tracker
+  records the cannabis part of the same raid: two marijuana greenhouses in the compound. A page
+  whose headline is about labs is still the same event, and belongs with that report.
+expect:
+  outcome: {additional_source: 1, duplicate: 1, existing_case: 0.5}
+  existing_report: degollado-la-tinajera-two-marijuana-greenhouses

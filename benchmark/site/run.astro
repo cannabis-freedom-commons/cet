@@ -1,0 +1,144 @@
+---
+// /benchmark/<run id>/: one run, case by case: what was expected, what the model did, every check.
+import Base from "../../src/layouts/Base.astro";
+import "./benchmark.css";
+import { runs, FAMILIES, CAPABILITIES, day, score, band, tokens } from "./data.js";
+export function getStaticPaths() {
+  return runs.map((run) => ({ params: { run: run.id }, props: { run } }));
+}
+const { run } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const s = run.summary;
+const subject = run.subject;
+const modelName = subject.model + (subject.effort ? `#${subject.effort}` : "");
+const repeats = Math.max(1, Math.round(s.attempts / Math.max(1, s.cases)));
+const families = Object.keys(FAMILIES).filter((family) => run.cases.some((item) => item.family === family));
+const mark = (value) => (value >= 1 ? "✓" : value > 0 ? "~" : "✗");
+const markClass = (value) => (value >= 1 ? "b-pass" : value > 0 ? "b-part" : "b-fail");
+const minutes = (seconds) => (seconds == null ? "?" : seconds < 90 ? `${Math.round(seconds)} s` : `${(seconds / 60).toFixed(1)} min`);
+const host = (url) => { try { return new URL(url).hostname.replace(/^www\./, ""); } catch { return url; } };
+const kv = (object) => Object.entries(object || {}).map(([key, value]) => `${key}: ${typeof value === "object" ? JSON.stringify(value) : value}`).join(" · ");
+const verdictWord = { pass: "pass", partial: "partial", fail: "fail", error: "did not finish", skipped: "skipped", spoiled: "spoiled, not counted" };
+---
+<Base title={`${modelName} · research benchmark`} description={`Benchmark run of ${subject.id} on ${s.cases} tracker research cases: score ${score(s.score)} of 100.`} wide noindex>
+  <div class="bench">
+    <p class="crumbs"><a href={`${base}benchmark/`}>Research benchmark</a> / run</p>
+    <h1>{modelName}</h1>
+    <p class="lead">{subject.harness} {subject.harness_version} · provider {subject.provider} · {day(run.started_at)}{run.label ? ` · ${run.label}` : ""}{run.complete ? "" : " · this run did not finish"}</p>
+
+    <dl class="b-facts">
+      <div><dt>Score</dt><dd class:list={["big", `b-${band(s.score)}`]}>{score(s.score)}</dd></div>
+      {families.map((family) => <div><dt>{FAMILIES[family]}</dt><dd class={`b-${band(s.families[family]?.score)}`}>{score(s.families[family]?.score)} <span class="b-none">· {s.families[family]?.cases}</span></dd></div>)}
+      <div><dt>Cases × repeats</dt><dd>{s.cases} × {repeats}</dd></div>
+      <div><dt>Verdicts</dt><dd><span class="b-pass">{s.verdicts.pass} pass</span> · <span class="b-part">{s.verdicts.partial} partial</span> · <span class="b-fail">{s.verdicts.fail} fail</span>{s.verdicts.error ? <> · {s.verdicts.error} unfinished</> : ""}{s.verdicts.skipped ? <> · {s.verdicts.skipped} skipped</> : ""}{s.verdicts.spoiled ? <> · {s.verdicts.spoiled} spoiled</> : ""}</dd></div>
+    </dl>
+    {s.attempt_scores.length > 1 && <p class="note">Score of each repeat: {s.attempt_scores.join(", ")}.</p>}
+    {!run.full_set && <p class="b-flag">Only some of the cases were run, so this score is not comparable with full runs.</p>}
+
+    {Object.keys(s.capabilities).length > 0 && (
+      <>
+        <h2>Inside the reports it wrote</h2>
+        <div class="b-bars">
+          {Object.entries(s.capabilities).map(([key, value]) => (
+            <div class:list={["b-barrow", `b-${band(value.score)}`]}>
+              <div class="lab"><span style="color:var(--text)">{CAPABILITIES[key][0]}</span><b>{score(value.score)}</b></div>
+              <div class="track"><i style={`width:${value.score ?? 0}%`}></i></div>
+              <small>{CAPABILITIES[key][1]} ({value.cases} cases)</small>
+            </div>
+          ))}
+        </div>
+      </>
+    )}
+
+    <dl class="b-facts">
+      <div><dt>Typical case</dt><dd>{s.usage.minutes_per_case ?? "?"} min · {s.usage.steps_per_case ?? "?"} steps</dd></div>
+      <div><dt>Tokens</dt><dd>{tokens(s.usage.input_tokens)} in · {tokens(s.usage.output_tokens)} out · {tokens(s.usage.reasoning_tokens)} reasoning · {tokens(s.usage.cache_read_tokens)} cached</dd></div>
+      {s.usage.cost_usd > 0 && <div><dt>Cost reported</dt><dd>${s.usage.cost_usd}</dd></div>}
+      <div><dt>Run settings</dt><dd>{run.protocol.max_steps} steps · {Math.round(run.protocol.timeout_seconds / 60)} min · search {run.protocol.websearch} · context {run.protocol.context}</dd></div>
+      <div><dt>Tracker</dt><dd>code {run.tracker.commit.slice(0, 8)}{run.tracker.uncommitted_changes ? " + local changes" : ""} · reports {run.tracker.reports_commit.slice(0, 8)}</dd></div>
+      <div><dt>Set</dt><dd>cases {run.cases_hash} · rules v{run.scorer_version}</dd></div>
+    </dl>
+
+    {families.map((family) => (
+      <>
+        <h2 id={family}>{FAMILIES[family]}</h2>
+        {run.cases.filter((item) => item.family === family).map((item) => {
+          const last = item.attempts[item.attempts.length - 1];
+          return (
+            <details class="b-case" id={item.id}>
+              <summary>
+                <span class:list={["sc", `b-${band(item.score)}`]}>{score(item.score)}</span>
+                <span class="ttl">{item.title}</span>
+                <span class="got">{last.decision.got}</span>
+              </summary>
+              <div class="b-body">
+                <p class="b-why">{item.why}</p>
+                <p class="note">Submitted page: <a class="link" href={item.submit} target="_blank" rel="noopener noreferrer">{host(item.submit)}</a> · case <code>{item.id}</code></p>
+                {item.attempts.map((a, index) => (
+                  <div class="b-attempt">
+                    {item.attempts.length > 1 && <h4>Repeat {index + 1} · {score(a.score)} · {verdictWord[a.verdict]}</h4>}
+                    <div class="b-decision">
+                      <div><span>Expected</span>{a.decision.expected.replace(/_/g, " ")}</div>
+                      <div><span>Got</span><b class={markClass(a.decision.score)}>{mark(a.decision.score)}</b> {a.decision.got}{a.decision.note ? ` (${a.decision.note})` : ""}</div>
+                      <div><span>Time</span>{minutes(a.usage.seconds)} · {a.usage.steps ?? "?"} steps · {a.usage.searches} searches · {a.usage.pages_opened} pages opened</div>
+                    </div>
+                    {a.flags.map((flag) => <p class="b-flag">{flag}</p>)}
+                    {(a.model_explanation || a.explanation) && <p class="note"><b>{a.decision_title || "The model's explanation"}:</b> {a.model_explanation || a.explanation}</p>}
+                    {a.explanation && a.model_explanation && a.explanation !== a.model_explanation && a.status !== "committed" && <p class="note"><b>The service:</b> {a.explanation}</p>}
+                    {a.dimensions && Object.entries(a.dimensions).map(([key, d]) => (
+                      <div class="b-dim">
+                        <h5>{CAPABILITIES[key][0]} <span class={`b-${band(d.score * 100)}`}>{Math.round(d.score * 100)} · weight {d.weight}</span></h5>
+                        {d.checks.length > 0 && (
+                          <table class="b-checks">
+                            <tbody>
+                              {d.checks.map((c) => (
+                                <tr>
+                                  <td class:list={["mark", markClass(c.score)]}>{mark(c.score)}</td>
+                                  <td class="lab">{c.label}{c.note && <small>{c.note}</small>}</td>
+                                  <td class="exp">{c.expected}</td>
+                                  <td>{c.got}</td>
+                                </tr>
+                              ))}
+                            </tbody>
+                          </table>
+                        )}
+                        {!d.checks.length && <p class="note">No report was written, so there is nothing to check.</p>}
+                        {(d.notes || []).map((n) => <p class="note">{n}</p>)}
+                      </div>
+                    ))}
+                    {a.report && (a.report.body || a.report.title) && (
+                      <details class="b-report">
+                        <summary>The report it wrote: {a.report.title}</summary>
+                        <div>
+                          {a.report.summary && <p><em>{a.report.summary}</em></p>}
+                          {a.report.date && <p class="kv">{a.report.date} · {a.report.country} · {[a.report.type, ...(a.report.also || [])].join(" + ")} · {a.report.place}{a.report.coordinates ? ` [${a.report.coordinates.join(", ")}]` : ""}</p>}
+                          {a.report.figures && Object.keys(a.report.figures).length > 0 && <p class="kv">figures — {kv(a.report.figures)}</p>}
+                          {a.report.details && Object.keys(a.report.details).length > 0 && <p class="kv">details — {kv(a.report.details)}</p>}
+                          {(a.report.body || "").split(/\n{2,}/).filter(Boolean).map((p) => <p>{p}</p>)}
+                          {a.report.sources?.length > 0 && <><h6>Sources</h6><ul>{a.report.sources.map((src) => <li><a class="link" href={src.url} target="_blank" rel="noopener noreferrer">{src.title || src.url}</a> · {src.publisher}{src.date ? ` · ${src.date}` : ""}</li>)}</ul></>}
+                          {a.report.media?.length > 0 && <><h6>Photos and video</h6><ul>{a.report.media.map((m) => <li>{m.kind}: <a class="link" href={m.media_url || m.url} target="_blank" rel="noopener noreferrer">{host(m.media_url || m.url)}</a> · {m.caption}</li>)}</ul></>}
+                          {a.report.open_questions?.length > 0 && <><h6>Open questions</h6><ul>{a.report.open_questions.map((q) => <li>{q}</li>)}</ul></>}
+                        </div>
+                      </details>
+                    )}
+                    {a.searches?.length > 0 && <p class="b-usage">Searches: {a.searches.map((q) => `“${q}”`).join(" · ")}</p>}
+                    <p class="b-usage">Tokens: {tokens(a.usage.input_tokens)} in · {tokens(a.usage.output_tokens)} out · {tokens(a.usage.reasoning_tokens)} reasoning · {tokens(a.usage.cache_read_tokens)} cached{a.usage.cost_usd ? ` · $${a.usage.cost_usd.toFixed(4)}` : ""}</p>
+                  </div>
+                ))}
+              </div>
+            </details>
+          );
+        })}
+      </>
+    ))}
+  </div>
+</Base>
+<script>
+  // a link to a case (#case-id) opens it
+  const open = () => {
+    const target = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+    if (target instanceof HTMLDetailsElement) target.open = true;
+  };
+  open();
+  addEventListener("hashchange", open);
+</script>

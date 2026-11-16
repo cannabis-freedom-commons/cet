@@ -1,0 +1,37 @@
+id: ly-ajdabiya-hashish-tramadol
+title: Two held in an Ajdabiya flat with hashish and tramadol
+family: new-event
+tests: [mixed-substances, languages, corroboration]
+submit: https://www.lananews.com/ar/?p=510230
+setup:
+  hide: [ajdabiya-flat-2kg-hashish-raid-2026]
+why: >-
+  An Arabic police statement from Libya. Two kilograms of hashish count; the 5,529 tramadol pills
+  and the 16,500 dinars found with them do not belong in the cannabis figures.
+expect:
+  outcome: {new_event: 1}
+  country: {ly: 1}
+  date: {value: 2026-10-22, tolerance_days: 1}
+  type: {arrest: 1, raid: 1, seizure: 1}
+  place: {coordinates: [30.7555, 20.2253], within_km: 50}
+  figures:
+    kg_seized: {value: 2}
+    arrested: {value: 2}
+  figures_optional: [cash, charged, sites]
+  figures_forbidden:
+    - {key: kg_seized, value: 5529, why: tramadol pills taken for a cannabis quantity}
+  details:
+    products: [hashish]
+    setting: [home]
+  mentions:
+    - {say: the tramadol, kept apart from the hashish, any: ['tramadol']}
+    - {say: it was a flat, any: ['flat', 'apartment']}
+    - {say: referred to the public prosecution, any: ['prosecut']}
+  sources:
+    expect_independent: 2
+    known: [lananews.com, libyaakhbar.com, alwasat.ly, afrigatenews.net, akhbarlibya24.net, alsaaa24.com, libyaobserver.ly, lj-bc.tv, almarsad.co, 218tv.net]
+    markers: ['أجدابيا', 'اجدابيا', 'كيلوغرامين', '5529', 'ترامادول', 'Ajdabiya']
+    markers_min: 2
+  media:
+    min: 1
+    expect: ['0e805a1f-6d91-4a90-ab22-382585fabc23']

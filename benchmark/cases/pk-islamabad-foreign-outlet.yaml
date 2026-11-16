@@ -1,0 +1,12 @@
+id: pk-islamabad-foreign-outlet
+title: A Nigerian paper on arrests the tracker has from Pakistan
+family: known-event
+tests: [coverage, mixed-substances]
+submit: https://gazettengr.com/20-nigerians-arrested-in-pakistan-over-alleged-drug-trafficking/
+why: >-
+  The Anti-Narcotics Force arrested 20 Nigerians in Islamabad and Rawalpindi; 750 g of "weed" was
+  among mostly cocaine and methamphetamine. The tracker has the event from Pakistani sources.
+  This account comes from a Nigerian outlet, with the country and angle that implies.
+expect:
+  outcome: {additional_source: 1, duplicate: 1, existing_case: 0.5}
+  existing_report: islamabad-rawalpindi-20-arrested-750g-weed

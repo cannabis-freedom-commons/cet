@@ -1,0 +1,11 @@
+id: cz-hemp-sprayed-synthetic
+title: Shopkeeper fined for hemp sprayed with synthetic cannabinoids
+family: out-of-scope
+tests: [scope, languages]
+submit: https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-trafikant-dostal-za-prodej-drogy-pokutu-distributora-policie-nechala-byt-320249
+why: >-
+  A Czech tobacconist was fined 100,000 crowns for selling "hemp" products. The plant material was
+  only a carrier: the banned substances were the synthetic cannabinoids MDMB-PINACA and MDMB-INACA
+  sprayed on it. Synthetic cannabinoids are outside the tracker, hemp carrier included.
+expect:
+  outcome: {not_relevant: 1, insufficient_evidence: 0.5, routed_to_cfi: 0.25}

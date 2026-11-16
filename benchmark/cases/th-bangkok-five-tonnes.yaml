@@ -1,0 +1,37 @@
+id: th-bangkok-five-tonnes
+title: Five tonnes of cannabis in a Bang Khen house
+family: new-event
+tests: [units, corroboration, photos, languages]
+submit: https://www.chiangraitimes.com/bangkok/bangkok-marijuana-seized/
+setup:
+  hide: [bangkok-khu-bon-5-tonnes]
+why: >-
+  A large raid reported in English and Thai. The submitted page is a rewrite published a day
+  later; the raid itself was on 19 October. Tonnes become kilograms, and the five people held are
+  one Vietnamese and four from Myanmar.
+expect:
+  outcome: {new_event: 1}
+  country: {th: 1}
+  date: {value: 2026-10-19, also: {2026-10-20: 0.5}}
+  type: {raid: 1, seizure: 1, arrest: 0.5}
+  place: {coordinates: [13.874, 100.596], within_km: 40}
+  figures:
+    kg_seized: {value: 5000, tolerance: 0.1}
+    arrested: {value: 5}
+  figures_optional: [charged, sites]
+  figures_forbidden:
+    - {key: kg_seized, value: 5, why: tonnes recorded as kilograms}
+  details:
+    products: [flower]
+    setting: [home]
+  mentions:
+    - {say: five people were held, any: ['five', '\b5\b']}
+    - {say: it was in Bang Khen, any: ['Bang ?Khen']}
+    - {say: who they were, any: ['Vietnam', 'Myanmar', 'Burm']}
+  sources:
+    expect_independent: 2
+    known: [chiangraitimes.com, aseannow.com, bangkokpost.com, khaosod.co.th, khaosodenglish.com, thethaiger.com, nationthailand.com, pattayamail.com, thairath.co.th, matichon.co.th, dailynews.co.th, mgronline.com, thaipbs.or.th]
+    markers: ['Bang Khen', 'บางเขน', 'Khu Bon', 'คู้บอน', 'five ton', '5 ton', '5 ตัน', 'ห้าตัน']
+  media:
+    min: 1
+    expect: ['2026/10/1-22', 'bangkok-cannabis-2', 'bangkok-cannabis-3', 'c1_3340299']

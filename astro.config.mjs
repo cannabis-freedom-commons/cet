@@ -6,6 +6,7 @@ import { defineConfig } from "astro/config";
 import { loadEnv } from "vite";
 import { reportsDev, devWatchIgnored } from "./scripts/lib/reports-dev.mjs";
 import { sitemap } from "./scripts/lib/sitemap.mjs";
+import { benchmarkPages } from "./benchmark/site/integration.mjs";
 import { markdownGlossary } from "./src/lib/glossary.js";
 import { unified } from "@astrojs/markdown-remark";
 
@@ -128,7 +129,8 @@ export default defineConfig({
   ]),
   site: process.env.SITE || "https://tracker.cannabisfreedom.fyi",
   base,
-  integrations: [reportsDev(), sitemap()],
+  // /benchmark/: how each model does the research job (benchmark/README.md)
+  integrations: [reportsDev(), benchmarkPages(), sitemap()],
   // pages are rendered one at a time: four at a time (build.concurrency) took 3 min 57 s for the
   // 25,000 pages on GitHub's runner against 2 min 11 s, as rendering shares one thread
   vite: {

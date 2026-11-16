@@ -1,0 +1,37 @@
+id: us-taft-660-plants
+title: 660 plants destroyed near Taft
+family: new-event
+tests: [date, figures, corroboration, photos]
+submit: https://www.crimevoice.com/2026/10/15/kern-county-taft-cannabis-grow-investigation/
+setup:
+  hide: [taft-highway119-660-plants]
+why: >-
+  A sheriff's press release reposted a week later: the search was on 8 October, the page is dated
+  15 October. Plants, not kilograms; the country is the state (us/ca); the sheriff's own photos of
+  the grow are on the page.
+expect:
+  outcome: {new_event: 1}
+  country: {us/ca: 1, us: 0.5}
+  date: {value: 2026-10-08}
+  type: {raid: 1, eradication: 1, arrest: 1, seizure: 0.5}
+  place: {coordinates: [35.1425, -119.4564], within_km: 40}
+  figures:
+    plants_destroyed: {value: 660}
+    arrested: {value: 1}
+  figures_optional: [charged, plants_seized, sites]
+  figures_forbidden:
+    - {key: kg_seized, value: 660, why: plants recorded as kilograms}
+  details:
+    activity: [cultivation]
+    products: [plants, flower]
+  mentions:
+    - {say: the pesticides found at the site, any: ['pesticide']}
+    - {say: the 660 plants, any: ['660']}
+    - {say: a search warrant, any: ['warrant']}
+  sources:
+    expect_independent: 2
+    known: [crimevoice.com, goldrushcam.com, gvwire.com, kget.com, bakersfieldnow.com, taftmidwaydriller.com, bakersfield.com, kerngoldenempire.com, turnto23.com, kernsheriff.org, kerncounty.com, ksby.com]
+    markers: ['660', 'Taft', 'Francisca', 'Hwy 119', 'Highway 119']
+  media:
+    min: 1
+    expect: ['kern-1-1', 'kern-3-1', 'kern-4-1', 'kern-2-1']

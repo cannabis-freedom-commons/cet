@@ -1,0 +1,12 @@
+id: us-eagle-point-reprint
+title: A sister station's reprint of the Eagle Point van stop
+family: known-event
+tests: [coverage]
+submit: https://kcby.com/news/nation-world/van-full-of-pot-troopers-arrest-oregon-man-after-finding-nearly-1000-pounds-of-weed?teaserSource=trending
+why: >-
+  A word-for-word reprint, on a sister TV station's site, of an article the existing report
+  already uses. The headline says "nearly 1,000 pounds" where the report says 910 pounds, and the
+  page was published a week after the stop, so it does not look like the same story at first.
+expect:
+  outcome: {duplicate: 1, additional_source: 1, existing_case: 0.5}
+  existing_report: eagle-point-brownsboro-910lb-mims

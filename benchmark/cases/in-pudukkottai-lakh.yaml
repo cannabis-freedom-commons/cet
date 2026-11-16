@@ -1,0 +1,38 @@
+id: in-pudukkottai-lakh
+title: Two women held with 26 kg of ganja in Pudukkottai
+family: new-event
+tests: [languages, units, corroboration, photos]
+submit: https://www.dailythanthi.com/news/india/2-women-arrested-for-smuggling-ganja-from-andhra-pradesh-to-pudukkottai
+setup:
+  hide: [pudukkottai-two-women-26kg-ganja-car-arrest]
+why: >-
+  A Tamil-language source. The police valuation is given in lakh (13 lakh rupees is 1,300,000),
+  and Tamil outlets differ by a day on when the car was stopped.
+expect:
+  outcome: {new_event: 1}
+  country: {in: 1}
+  date: {value: 2026-11-06, also: {2026-11-05: 1}}
+  type: {seizure: 1, arrest: 1}
+  place: {coordinates: [10.3833, 78.8], within_km: 60}
+  figures:
+    kg_seized: {value: 26}
+    arrested: {value: 2}
+    value: {amount: 1300000, currency: INR}
+  figures_optional: [vehicles, charged]
+  figures_forbidden:
+    - {key: value.amount, value: 13, why: lakh not converted}
+    - {key: value.amount, value: 13000000, why: lakh converted as crore}
+  details:
+    products: [flower]
+    setting: [vehicle]
+  mentions:
+    - {say: the two arrested were women, any: ['two women', '2 women', 'both women']}
+    - {say: the ganja came from Andhra Pradesh, any: ['Andhra']}
+  sources:
+    expect_independent: 2
+    known: [dailythanthi.com, thanthitv.com, dinamani.com, dinakaran.com, dinamalar.com, hindutamil.in, maalaimalar.com, polimernews.com, news18.com, puthiyathalaimurai.com, thehindu.com, timesofindia.indiatimes.com, dtnext.in]
+    markers: ['புதுக்கோட்டை', 'Pudukkottai', 'கஞ்சா', '26 கிலோ', '26 kg', 'ஆந்திர']
+    markers_min: 3
+  media:
+    min: 1
+    expect: ['dailythanthi%2F2026-11-06', '281.jpg']

@@ -1,0 +1,12 @@
+id: tr-istanbul-airport-second-outlet
+title: Another outlet on the Istanbul Airport tins
+family: known-event
+tests: [coverage, languages]
+submit: https://www.gazetevatan.com/yerel-haberler/istanbul/istanbul-havalimaninda-konserve-kutularinda-13-2464940
+why: >-
+  The tracker already has this seizure (13.512 kg in food tins, two Tunisians held). This is
+  another Turkish outlet's account of it. The right answer adds it to the existing report or calls
+  it a duplicate; a second report of the same event is the failure.
+expect:
+  outcome: {additional_source: 1, duplicate: 1, existing_case: 0.5}
+  existing_report: istanbul-airport-tins-13-5kg-esrar-two-detained

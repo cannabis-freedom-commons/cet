@@ -1,0 +1,40 @@
+id: lk-airport-hashish-route
+title: Three Thais held with hashish in cosmetic jars at Colombo airport
+family: new-event
+tests: [classification, corroboration, figures, photos]
+submit: https://www.newswire.lk/2026/10/15/rs-51-mn-hashish-seized-at-bia-three-foreigners-arrested/
+setup:
+  hide: [sri-lanka-bia-thai-hashish-cosmetics]
+why: >-
+  An airport smuggling case: the route (Thailand to Sri Lanka), the setting and the product matter.
+  The outlets disagree on the weight (5.96 kg here, 5.096 kg elsewhere), which a second source
+  reveals.
+expect:
+  outcome: {new_event: 1}
+  country: {lk: 1}
+  date: {value: 2026-10-15}
+  type: {arrest: 1, seizure: 1}
+  place: {coordinates: [7.179, 79.886], within_km: 40}
+  figures:
+    arrested: {value: 3}
+    kg_seized: {any: [5.096, 5.96]}
+  figures_optional: [value, charged]
+  details:
+    products: [hashish]
+    setting: [airport]
+    route.from: [th]
+    route.to: [lk]
+  mentions:
+    - {say: they are Thai nationals, any: ['Thai']}
+    - {say: hidden in cosmetic containers, any: ['cosmetic']}
+    - {say: whose valuation it is, any: ['worth', 'valued', 'value']}
+  sources:
+    expect_independent: 2
+    known: [newswire.lk, vivalanka.com, adaderana.lk, dailymirror.lk, newsfirst.lk, hirunews.lk, island.lk, colombogazette.com, lankadeepa.lk, ft.lk, dailynews.lk, onlanka.com, lankasara.com]
+    markers: ['TG-307', 'TG 307', 'cosmetic', 'Thai national', 'Katunayake', 'hashish']
+    markers_min: 3
+  media:
+    min: 1
+    expect: ['Hashish-BIA', 'IMG-20261015']
+  open_questions:
+    - {about: the outlets give two different weights, any: ['5\.096', '5\.96', 'weight', 'differ', 'disagree']}

@@ -1,0 +1,12 @@
+id: us-passaic-heroin-headline
+title: A heroin-and-guns headline for a bust that included marijuana
+family: known-event
+tests: [coverage, mixed-substances]
+submit: https://dailyvoice.com/article/12-raids-9-arrests-major-nj-drug-bust-uncovers-heroin-guns-galore-prosecutor-says/
+why: >-
+  Nine arrests in twelve raids across Passaic County. The headline is about heroin and guns; five
+  pounds of marijuana are one line in the list of what was seized. The tracker has this bust
+  already, for that cannabis. Not a new event, and not out of scope either.
+expect:
+  outcome: {additional_source: 1, duplicate: 1, existing_case: 0.5}
+  existing_report: passaic-county-nine-arrested-drug-gun-bust-2026

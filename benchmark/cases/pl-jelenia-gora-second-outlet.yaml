@@ -1,0 +1,11 @@
+id: pl-jelenia-gora-second-outlet
+title: A second Polish outlet on the Jelenia Góra sentence
+family: known-event
+tests: [coverage, languages]
+submit: https://www.bolec.info/boleslawiec/informacje/kategoria/45842/cztery-lata-wiezienia-za-przywoz-25-kg-marihuany-z-czech
+why: >-
+  The tracker has the four-year sentence for bringing 2.5 kg of marijuana from Czechia. This
+  local portal reports the same judgment. It should be added to that report, not written up again.
+expect:
+  outcome: {additional_source: 1, duplicate: 1, existing_case: 0.5}
+  existing_report: jelenia-gora-court-organizer-2-5-kg-marijuana-from-czech-republic

@@ -1,0 +1,11 @@
+id: jp-cocaine-arrest-cannabis-past
+title: A musician's cocaine arrest, with an old cannabis conviction as background
+family: out-of-scope
+tests: [scope, languages]
+submit: https://topics.smt.docomo.ne.jp/article/bunshun/nation/bunshun-93676
+why: >-
+  A Japanese magazine piece on a rock singer arrested in November 2026 for using cocaine. It
+  recalls his 2019 conviction for possessing cannabis and cocaine. The new arrest involves no
+  cannabis, and the 2019 case is only recalled, not reported.
+expect:
+  outcome: {not_relevant: 1, insufficient_evidence: 0.5}

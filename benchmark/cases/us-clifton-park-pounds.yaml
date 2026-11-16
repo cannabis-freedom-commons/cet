@@ -1,0 +1,40 @@
+id: us-clifton-park-pounds
+title: 489 pounds seized on the Northway
+family: new-event
+tests: [units, date, corroboration, photos]
+submit: https://wnyt.com/top-stories/two-men-charged-after-489-pounds-of-cannabis-seized-on-northway-in-clifton-park/
+setup:
+  hide: [clifton-park-489lb-cannabis-seizure]
+why: >-
+  A plain US traffic-stop seizure with three things to get right: pounds become kilograms, the
+  country is the state (us/ny), and the page only says "Tuesday", so the stop date has to be worked
+  out from other outlets. Many local outlets carried the sheriff's statement and photo.
+expect:
+  outcome: {new_event: 1}
+  country: {us/ny: 1, us: 0.5}
+  date: {value: 2026-09-08}
+  type: {seizure: 1, arrest: 1}
+  place: {coordinates: [42.8656, -73.7757], within_km: 30}
+  figures:
+    kg_seized: {value: 221.81, tolerance: 0.01}
+    arrested: {value: 2}
+  figures_optional: [charged]
+  figures_forbidden:
+    - {key: kg_seized, value: 489, why: pounds recorded as kilograms}
+  details:
+    products: [flower]
+    case_stage: [charged]
+    setting: [vehicle]
+  mentions:
+    - {say: the 489 pounds as stated, any: ['489\s*(pounds|lb)']}
+    - {say: it was a traffic stop, any: ['traffic stop', 'stopped']}
+    - {say: both men were charged, any: ['charged']}
+  sources:
+    expect_independent: 2
+    known: [wnyt.com, dailyvoice.com, 13wham.com, cbs6albany.com, news10.com, nny360.com, dailygazette.com, saratogatodaynewspaper.com, timesunion.com, wrgb.com]
+    markers: ['489', 'Clifton Park', 'Wilbur', 'Carle']
+  media:
+    min: 1
+    expect: ['489_pounds_of_weed', 'clifton-park-cannabis-seizure-sheriff-photos']
+  open_questions:
+    - {about: no court outcome yet, any: ['court', 'outcome', 'trial', 'sentence', 'plea']}

@@ -1,0 +1,43 @@
+id: gy-yaruni-acres
+title: 53,000 plants burned at Yaruni Bend
+family: new-event
+tests: [units, classification, corroboration, photos]
+submit: https://newsroom.gy/2026/09/11/police-destroy-53000-cannabis-plants-in-linden-eradication-exercise/
+setup:
+  hide: [guyana-yaruni-bend-53000-plants]
+why: >-
+  An eradication with no arrests. Acres must become hectares, ten pounds of dried cannabis become
+  kilograms, and the police valuation is in Guyanese dollars. The event date is the day before the
+  article.
+expect:
+  outcome: {new_event: 1}
+  country: {gy: 1}
+  date: {value: 2026-09-10}
+  type: {eradication: 1, raid: 0.5, seizure: 0.5}
+  place: {coordinates: [6.01, -58.31], within_km: 60}
+  figures:
+    plants_destroyed: {value: 53000}
+    hectares: {value: 3.24, tolerance: 0.03}
+    kg_seized: {value: 4.536, tolerance: 0.03}
+    value: {amount: 22038728, currency: GYD}
+  figures_optional: [arrested, sites, kg_destroyed]
+  figures_forbidden:
+    - {key: hectares, value: 8, why: acres recorded as hectares}
+    - {key: kg_seized, value: 10, why: pounds recorded as kilograms}
+  figures_absent:
+    - {key: arrested, why: the police said no arrests were made}
+  details:
+    products: [plants, flower]
+    setting: [field]
+    activity: [cultivation]
+  mentions:
+    - {say: no arrests were made, any: ['no arrests?', 'no one was arrested', 'nobody was arrested']}
+    - {say: the eight acres as stated, any: ['(eight|8)[ -]acres?']}
+    - {say: whose valuation it is, any: ['police (put|valued|estimated|said)', 'according to (the )?police', 'police force']}
+  sources:
+    expect_independent: 2
+    known: [newsroom.gy, inewsguyana.com, ignitenews.com, guyanatimesgy.com, guyanachronicle.com, stabroeknews.com, kaieteurnewsonline.com, demerarawaves.com, guyanapoliceforce.gy, villagevoicenews.com]
+    markers: ['53,000', 'Yaruni', '22,038,728']
+  media:
+    min: 1
+    expect: ['WhatsApp-Image-2026-09-11', 'ganja-1']
