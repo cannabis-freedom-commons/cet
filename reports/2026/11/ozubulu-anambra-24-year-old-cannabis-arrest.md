@@ -44,17 +44,15 @@ sources:
     url: https://punchng.com/police-arrest-robbery-suspect-recover-cannabis-in-anambra/
     publisher: Punch
     date: 2026-11-14
-open_questions:
-  - No weight or count was published for the suspected cannabis, so no kilogram figure is recorded.
-  - The material was described only as suspected cannabis sativa, with no laboratory confirmation reported.
-  - No charge, plea or court outcome was reported; the case was at the investigation stage.
-  - No information was published on accomplices or whether further arrests followed.
-  - Both accounts relay the same Anambra police statement, so they are not independent reporting.
+  - title: 'In Anambra: Police Arrest 24-Year-Old Suspect, Recover Suspected Cannabis'
+    url: https://247ureports.com/2026/11/in-anambra-police-arrest-24-year-old-suspect-recover-suspected-cannabis/
+    publisher: 247 Ureports
+    date: 2026-11-15
 ---
 
 Anambra State police arrested 24-year-old Chinedu Simon in Ozubulu, Ekwusigo
-Local Government Area. [@1] Rapid Response Squad operatives from Awkuzu arrested
-him during a targeted early-morning raid on 5 November 2026. [@1]
+Local Government Area. [@1,3] Rapid Response Squad operatives from Awkuzu arrested
+him during a targeted early-morning raid on 5 November 2026. [@1,3]
 
 Police said he was held over alleged armed robbery and unlawful possession of a
 large quantity of suspected cannabis sativa. [@2] During preliminary
@@ -63,11 +61,10 @@ interrogation he allegedly confessed to involvement in the illicit drug trade.
 residence before criminal operations. [@1]
 
 He remained in police custody while investigations continued into his role,
-possible accomplices and wider criminal links. [@1] Anambra Commissioner Nnanna
+possible accomplices and wider criminal links. [@1,3] Anambra Commissioner Nnanna
 Oji Ama reaffirmed the command's commitment to intelligence-led policing and
 sustained operations against criminal networks. [@1] He urged residents to
 provide credible and timely information to security agencies with assurances of
 professional and confidential handling. [@1] Police described the raid as part
 of ongoing efforts against armed robbery, illicit drugs and other security
 threats across the state. [@1]
-
