@@ -54,28 +54,28 @@ sources:
     publisher: Città Metropolitana di Firenze / Carabinieri-Comando provinciale di Firenze
     date: 2026-11-16
     language: it
-open_questions:
-  - The 2 kilograms of cocaine in the same case are excluded from the cannabis figures; only the 108 kilograms of hashish are counted.
-  - No names were published for the two men or the woman; only their foreign citizenship was reported.
-  - The suspects remain seriously suspected under investigation and are presumed innocent until a final judgment, as the Carabinieri statement notes.
-  - No court outcome, plea or trial date beyond the custody orders was reported.
+  - title: 'Firenze: spaccio di ingenti quantità di cocaina e hashish, 2 arrestati'
+    url: https://www.firenzedintorni.it/it/articolo/50743/firenze-spaccio-di-ingenti-quantita-di-cocaina-e-hashish-2-arrestati.html
+    publisher: FirenzeDintorni
+    date: 2026-11-16
+    language: it
 ---
 
 In the early hours of Wednesday 11 November, Carabinieri of the Firenze Oltrarno
 operational unit executed a custodial jail order against two foreign men
 seriously suspected of jointly holding drugs in an aggravated large quantity.
-[@1] The order was issued by the Florence preliminary-investigations judge at
+[@1,3] The order was issued by the Florence preliminary-investigations judge at
 the request of the Florence anti-mafia prosecution after an investigation begun
 on 27 March 2026 into an alleged trafficking ring active between the two
-provinces from March to August. [@1]
+provinces from March to August. [@1,3]
 
 The investigation began when one suspect fled a Carabinieri stop in Florence by
 car, abandoned the vehicle in an isolated area of Sesto Fiorentino and continued
-on foot. [@1] Inside that car officers found two blocks of cocaine weighing two
+on foot. [@1,3] Inside that car officers found two blocks of cocaine weighing two
 kilograms in total, a non-cannabis seizure excluded from the cannabis figures.
-[@1] That man fled abroad but his fugitive period ended in July 2026, when he
+[@1,3] That man fled abroad but his fugitive period ended in July 2026, when he
 was traced and arrested in France under a European arrest warrant issued by the
-Florence judiciary. [@1] The second suspect had come under investigation in May
+Florence judiciary. [@1,3] The second suspect had come under investigation in May
 after Guardia di Finanza officers arrested him while he held 108 kilograms of
 hashish. [@1]
 
@@ -93,4 +93,3 @@ considered by investigators to be proceeds of the illegal activity. [@2] After
 the formalities one of the men was taken to Prato prison, while the man captured
 in France, already held at Florence's Sollicciano prison, was served the new
 measure in prison. [@2]
-
