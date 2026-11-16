@@ -44,6 +44,11 @@ sources:
     publisher: Emsavalles
     date: 2026-11-15
     language: es
+  - title: Operativos dejan 34 detenidos
+    url: https://planoinformativo.com/1182130/operativos-dejan-34-detenidos
+    publisher: Plano Informativo
+    date: 2026-11-15
+    language: es
 open_questions:
   - The articles give no separate date for the operations, so 15 November 2026, the publication date, is used as the incident date.
   - No municipality was named for the detentions or the seizure; the balance refers only to the state of San Luis Potosí.
@@ -55,15 +60,14 @@ open_questions:
 
 San Luis Potosi's Guardia Civil Estatal (GCE) reported the detention of 34
 people following permanent surveillance and crime-prevention operations in the
-state. [@1] The force described those detained as allegedly involved in various
+state. [@1,3] The force described those detained as allegedly involved in various
 acts affecting social tranquility. [@2]
 
-In the same operations, officers seized 419 grams of marijuana. [@1] The same
+In the same operations, officers seized 419 grams of marijuana. [@1,3] The same
 haul included 64 doses of the drug known locally as cristal, which is excluded
 from the cannabis figures here. [@2] Officers also seized seven
-video-surveillance cameras allegedly used by criminal groups for lookout. [@1]
+video-surveillance cameras allegedly used by criminal groups for lookout. [@1,3]
 
 The state Secretariat of Security and Citizen Protection (SSPC) said it would
 maintain firm, permanent actions to strengthen security, combat offences against
 health and guarantee the peace and wellbeing of Potosinos. [@1]
-
