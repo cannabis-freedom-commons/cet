@@ -67,6 +67,11 @@ sources:
     publisher: Diário da Redação
     date: 2026-11-16
     language: pt
+  - title: Homem é preso com maconha, crack, cocaína e comprimidos em formato de abacaxi
+    url: https://portalcontexto.com/homem-e-preso-com-maconha-crack-cocaina-e-comprimidos-em-formato-de-abacaxi/
+    publisher: Contexto
+    date: 2026-11-16
+    language: pt
 open_questions:
   - The two hashish portions had no published weight, so only the 30 kg of marijuana and skunk is counted as cannabis.
   - The 240 tablets were described only as resembling ecstasy, with no laboratory confirmation reported.
@@ -78,17 +83,17 @@ open_questions:
 ---
 
 A man was arrested in flagrante on Sunday 15 November 2026 in Anápolis on
-suspicion of drug trafficking. [@1] The investigation began after an anonymous
-tip said the suspect was moving drugs by car and storing drugs at his home. [@1]
+suspicion of drug trafficking. [@1,4] The investigation began after an anonymous
+tip said the suspect was moving drugs by car and storing drugs at his home. [@1,4]
 Officers found the car near Setor Central, ordered it to stop, and the driver
-fled at high speed. [@1] While trying to escape, the suspect hit police vehicles
+fled at high speed. [@1,4] While trying to escape, the suspect hit police vehicles
 and struck the gate of a condominium in Vila Fabril where he tried to enter.
-[@3]
+[@3,4]
 
 Police said the seizure comprised 20 kg of Colômbia Gold marijuana, 10 kg of
-skunk, 20 kg of crack and 15 kg of cocaine. [@1] Officers also seized 240
-tablets resembling ecstasy and two portions of hashish. [@1] A precision scale
-and the vehicle used by the suspect were also seized. [@1] Police put the
+skunk, 20 kg of crack and 15 kg of cocaine. [@1,4] Officers also seized 240
+tablets resembling ecstasy and two portions of hashish. [@1] The 240 tablets were yellow pineapple-shaped tablets found in a styrofoam box in the boot of the vehicle, alongside other drugs. [@4] A precision scale
+and the vehicle used by the suspect were also seized. [@1] During searches at the suspect's residence in Setor Central, officers seized further drugs and a precision scale. [@4] Police put the
 estimated loss to drug trafficking at more than 800,000 reais. [@2]
 
 The operation was carried out by the Grupo Especial de Investigação Criminal
@@ -96,4 +101,3 @@ The operation was carried out by the Grupo Especial de Investigação Criminal
 was taken to the GEIC/GENARC headquarters and held in flagrante for drug
 trafficking, disobeying a lawful stop order and dangerous driving. [@2] The
 seized material was sent for the investigation procedures. [@1]
-
