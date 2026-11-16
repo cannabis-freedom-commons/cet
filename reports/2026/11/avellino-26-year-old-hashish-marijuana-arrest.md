@@ -84,20 +84,25 @@ sources:
     publisher: binews.it
     date: 2026-11-14
     language: it
+  - title: Arrestato con cocaina e hashish
+    url: https://www.ilfattovesuviano.it/2026/11/arrestato-con-cocaina-e-hashish
+    publisher: il Fatto Vesuviano
+    date: 2026-11-16
+    language: it
 ---
 
 Within investigative activities coordinated by the Public Prosecutor's Office at
 the Court of Avellino to combat drug dealing, officers of the Mobile Squad of
 the Avellino police headquarters arrested a 26-year-old man with a criminal
 record from Avellino in flagrante delicto for unlawful possession of drugs for
-dealing. [@1,6,7,8] The arrest took place in Avellino on the evening of 13 November
+dealing. [@1,6,7,8,9] The arrest took place in Avellino on the evening of 13 November
 2026, the evening before the 14 November 2026 publication. [@1]
 
 A personal search of the young man found seven doses of cocaine weighing a total
 of 9.70 grams, four doses of hashish weighing a total of 22.00 grams, and 15.50
-grams of marijuana. [@1,2,3,4,5,6,7,8] A later search of the 26-year-old's home allowed
+grams of marijuana. [@1,2,3,4,5,6,7,8,9] A later search of the 26-year-old's home allowed
 officers to find and seize two precision scales, a knife soaked with hashish,
-packaging material and 110.00 euros in small-denomination banknotes. [@1,2,4,5,6,8]
+packaging material and 110.00 euros in small-denomination banknotes. [@1,2,4,5,6,8,9]
 
 On the order of the duty prosecutor, the arrested man was placed under house
 arrest at his home pending the validation hearing. [@1,7,8] The accusations were
