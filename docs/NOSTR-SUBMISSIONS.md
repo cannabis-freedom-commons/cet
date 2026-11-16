@@ -827,9 +827,10 @@ Models with no price are listed with their tokens and left out of every cost, an
 them. Interrupted/running usage may be incomplete.
 
 Every price, plan multiplier and peak window is in `src/lib/models.js` (operator-supplied rates
-for Swancloud and OpenCode Go Muse; published rates for OpenAI and OpenCode Go DeepSeek). Where no
-cache price was supplied (Swancloud Claude Haiku 5.5), cache reads are
-counted at the fresh-input price, and the page marks them "at input price". Plan share is API value
+for Muse Spark; the publishers' own rates for OpenAI, DeepSeek and Anthropic, with DeepSeek's
+off-peak rates on Swancloud, which has no peak hours, and Claude Haiku 5.5 at its rate for prompts up
+to 100,000 tokens). Where a model has no cache price, cache reads are counted at the fresh-input
+price, and the page marks them "at input price". Plan share is API value
 divided by the model's own multiplier (Swancloud 15×, OpenCode Go Muse 6×); the configured
 RESEARCH_PLAN_USD / RESEARCH_PLAN_ALLOWANCE_USD ratio is the OpenCode Go subscription and covers
 only that provider (`CONFIGURED_PLAN_PROVIDERS`). API keys (OpenAI, xAI) are paid as used and have

@@ -75,7 +75,7 @@ test('usage splits each model\'s cost into fresh input, cache and output, and sa
   assert.ok(Math.abs(muse.costCacheRead - 0.008) < 1e-12 && Math.abs(muse.costInput - 0.1) < 1e-12 && Math.abs(muse.costOutput - 0.4) < 1e-12);
   assert.equal(muse.cachedAtInput, false);
   assert.equal(muse.label, 'Muse Spark 1.3 Contributor');
-  assert.equal(rows.find((r) => r.name === 'claude-haiku-5.5').cachedAtInput, true);
+  assert.equal(rows.find((r) => r.name === 'claude-haiku-5.5').cachedAtInput, false); // Anthropic's cache price
   const grok = rows.find((r) => r.name === 'grok-4.7');
   assert.equal(grok.reported, 2); assert.equal(grok.plan, null); assert.equal(grok.planCost, 0);
   assert.equal(totals.unpriced, 1); assert.equal(totals.unpricedTokens, 7e6);

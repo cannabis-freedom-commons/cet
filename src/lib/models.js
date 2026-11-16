@@ -43,7 +43,10 @@ export const MODELS = {
   "claude-haiku-5.5": {
     name: "Claude Haiku 5.5", by: "Anthropic",
     providers: {
-      swancloud: { input: 0.100, output: 0.500, planMultiplier: 15 },
+      // Anthropic's own rates (https://claude.com/pricing) for prompts up to 100,000 tokens: cache
+      // hits $0.01, 5-minute cache writes $0.125. Longer prompts cost five times as much, which the
+      // recorded tokens cannot tell apart, so this is the lower bound.
+      swancloud: { input: 0.100, output: 0.500, cached: 0.01, cacheWrite: 0.125, planMultiplier: 15 },
     },
   },
   "deepseek-v4.1-flash": {

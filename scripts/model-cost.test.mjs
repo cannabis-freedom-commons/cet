@@ -59,8 +59,9 @@ test("costs keep four decimals, and six below a ten-thousandth of a dollar", () 
   assert.equal(formatUSD(0), "—");
 });
 
-for (const [model,input,output,cached] of [
- ["swancloud/claude-haiku-5.5",0.100,0.500,0.100],
+// cache writes cost the input price where the model lists no price of its own for them
+for (const [model,input,output,cached,write=input] of [
+ ["swancloud/claude-haiku-5.5",0.100,0.500,0.010,0.125],
  ["swancloud/muse-spark-1.3-contributor",0.100,0.200,0.002],
  ["swancloud/deepseek-v4.1-flash",0.150,0.600,0.003],
 ]) {
@@ -72,7 +73,7 @@ for (const [model,input,output,cached] of [
    assert.equal(modelPlan(run.model,null).multiplier,15);
   }
   const run={model,input_tokens:1e6,cache_read_tokens:1e6,cache_write_tokens:1e6,output_tokens:1e6,reasoning_tokens:1e6};
-  assert(Math.abs(runCost(run)-(2*input+cached+2*output))<1e-12);
+  assert(Math.abs(runCost(run)-(input+write+cached+2*output))<1e-12);
   assert.equal(runCost({model,cache_read_tokens:1e6}),cached);
   assert.equal(runCost({...run,cost_usd:3}),3);
   assert.equal(planCost(3,null,model),0.2);
