@@ -65,31 +65,30 @@ sources:
     publisher: ID-24
     date: 2026-11-13
     language: pl
-open_questions:
-  - No exact weight was published; sources say only several grams in the car and almost 200 grams at the residence, so 0.2 kg is an approximate total.
-  - The marijuana was reported as secured material with no laboratory confirmation stated.
-  - Amphetamine or derivatives and benzodiazepines were reported only by a roadside saliva screening; blood results confirming drug-driving were still pending.
-  - No court outcome or detention measure beyond the charge was reported.
+  - title: 'Kamienna Góra: Niesprawne światła zdradziły 20-latka. Policjanci znaleźli prawie 200 gramów marihuany w jego domu'
+    url: https://informacje.wp.pl/wiadomosci/niesprawne-swiatla-zdradzily-20-latka-policjanci-znalezli-prawie-200-gramow-marihuany-w-jego-domu-7351323294799872a
+    publisher: WP Info
+    date: 2026-11-15
+    language: pl
 ---
 
 On 11 November 2026, after 1 p.m., patrol officers of the Kamienna Gora district
 police stopped a car on Jeleniogorska Street in Kamienna Gora because its
 lighting was not working. [@2] Behind the wheel was a visibly nervous
-20-year-old man from Klodzko County who avoided eye contact. [@2] Officers said
+20-year-old man from Klodzko County who avoided eye contact. [@2,4] Officers said
 his behaviour and the appearance of his pupils suggested he could be under the
-influence of prohibited substances. [@2] A saliva drug test indicated
+influence of prohibited substances. [@2,4] A saliva drug test indicated
 amphetamine or derivatives and benzodiazepines in his system. [@2] The man was
 detained and blood was taken from him to establish the exact concentration of
-substances in his body. [@2]
+substances in his body. [@2,4]
 
-Officers searched the car and found and secured several grams of marijuana. [@1]
+Officers searched the car and found and secured several grams of marijuana. [@1,4]
 Police said the 20-year-old admitted possessing the marijuana found in the
 vehicle. [@2] Officers then searched his place of residence and found almost 200
-grams more of the same drug. [@3]
+grams more of the same drug. [@3,4]
 
 The next day he was charged with possessing a significant quantity of drugs,
-punishable by one to 10 years in prison. [@2] Driving while under the influence
+punishable by one to 10 years in prison. [@2,4] Driving while under the influence
 of drugs carries up to 3 years in prison, a driving ban and a fine of up to tens
 of thousands of zlotys. [@1] His fate is to be decided by the prosecutor and the
 court. [@1]
-
