@@ -2,6 +2,8 @@ package worker
 
 import (
 	"context"
+	"crypto/rand"
+	"encoding/hex"
 	"errors"
 	"log/slog"
 	"os"
@@ -24,8 +26,11 @@ func (w *Worker) RunRemote(parent, draining context.Context, c *Client) {
 	c.Repo = w.Config.RepoPath
 	stats := &liveStats{s: workerStats{StartedAt: time.Now().Unix(), Jobs: map[string]int64{}}}
 	w.stats = stats
+	var id [6]byte
+	_, _ = rand.Read(id[:])
+	instance := hex.EncodeToString(id[:])
 	c.Presence = func() presence {
-		p := presence{Runner: w.Config.ResearchRunner, Stats: stats.snapshot()}
+		p := presence{Instance: instance, Runner: w.Config.ResearchRunner, Stats: stats.snapshot()}
 		for _, a := range w.Config.Agents() {
 			p.Agents = append(p.Agents, agentInfo{a.Model, a.MaxWorkers})
 		}

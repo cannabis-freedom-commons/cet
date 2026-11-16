@@ -39,7 +39,8 @@ type API struct {
 }
 
 type workerSeen struct {
-	at time.Time
+	at   time.Time
+	name string // its token's name; several workers may share it
 	presence
 }
 
@@ -110,21 +111,34 @@ func fail(w http.ResponseWriter, err error) {
 
 // seen notes a worker and what it can do; the status page shows the research of the workers
 // heard from recently.
+// Workers sharing a token (several on one machine) are kept apart by their instance: "home",
+// "home#3fa2c1…". One gone for a day is forgotten.
 func (a *API) seen(name string, p presence) {
 	a.mu.Lock()
 	if a.workers == nil {
 		a.workers = map[string]workerSeen{}
 	}
-	a.workers[name] = workerSeen{time.Now(), p}
+	key := name
+	if regexp.MustCompile(`^[0-9a-f]{6,32}$`).MatchString(p.Instance) {
+		key = name + "#" + p.Instance
+	}
+	for k, s := range a.workers {
+		if time.Since(s.at) > 24*time.Hour {
+			delete(a.workers, k)
+		}
+	}
+	a.workers[key] = workerSeen{time.Now(), name, p}
 	a.mu.Unlock()
 	a.updateHealth()
 }
 
-// Agents are the research agents of the workers heard from recently, with the runner they use.
+// Agents are the research agents of the workers heard from recently, with the runner they use;
+// a model on several workers is one agent with all their slots.
 func (a *API) Agents() ([]config.ResearchAgent, string) {
 	a.mu.Lock()
 	defer a.mu.Unlock()
 	var agents []config.ResearchAgent
+	index := map[string]int{}
 	runners := map[string]bool{}
 	names := make([]string, 0, len(a.workers))
 	for name := range a.workers {
@@ -137,6 +151,11 @@ func (a *API) Agents() ([]config.ResearchAgent, string) {
 			continue
 		}
 		for _, agent := range seen.Agents {
+			if i, ok := index[agent.Model]; ok {
+				agents[i].MaxWorkers += agent.MaxWorkers
+				continue
+			}
+			index[agent.Model] = len(agents)
 			agents = append(agents, config.ResearchAgent{Model: agent.Model, MaxWorkers: agent.MaxWorkers})
 		}
 		if seen.Runner != "" {
@@ -159,20 +178,61 @@ func (a *API) updateHealth() {
 	a.mu.Lock()
 	defer a.mu.Unlock()
 	state := research.HealthSnapshot{Status: "failed", Message: "No research worker is connected. Requests wait in the queue until one is.", CheckedAt: time.Now().Unix()}
+	keys := make([]string, 0, len(a.workers))
+	for key := range a.workers {
+		keys = append(keys, key)
+	}
+	sort.Strings(keys)
+	// every online worker's agents with their own checks: a worker with one agent reports its
+	// health without a per-agent list
+	count := map[string]int{}
 	var names []string
-	for name, seen := range a.workers {
+	var agents []research.AgentHealth
+	listed := map[string]bool{}
+	for _, key := range keys {
+		seen := a.workers[key]
 		if time.Since(seen.at) > offlineAfter {
 			continue
 		}
-		names = append(names, name)
-		if seen.Health != nil && seen.Health.Status == "ready" {
-			state = *seen.Health
-		} else if state.Status != "ready" && seen.Health != nil {
+		if count[seen.name]++; count[seen.name] == 1 {
+			names = append(names, seen.name)
+		}
+		if seen.Health == nil {
+			continue
+		}
+		if seen.Health.Status == "ready" || state.Status != "ready" {
 			state = *seen.Health
 		}
+		own := seen.Health.Agents
+		if len(own) == 0 && len(seen.Agents) == 1 {
+			startup := *seen.Health
+			startup.Agents = nil
+			own = []research.AgentHealth{{Model: seen.Agents[0].Model, Startup: startup}}
+		}
+		for _, agent := range own {
+			if !listed[agent.Model] || agent.Startup.Status == "ready" {
+				if listed[agent.Model] { // the model on another worker too: keep the ready one
+					for i := range agents {
+						if agents[i].Model == agent.Model && agents[i].Startup.Status != "ready" {
+							agents[i] = agent
+						}
+					}
+					continue
+				}
+				listed[agent.Model] = true
+				agents = append(agents, agent)
+			}
+		}
 	}
-	sort.Strings(names)
+	if len(agents) > 1 {
+		state.Agents = agents
+	}
 	if len(names) > 0 {
+		for i, name := range names {
+			if count[name] > 1 {
+				names[i] = fmt.Sprintf("%s (%d)", name, count[name])
+			}
+		}
 		state.Message = strings.TrimSpace(state.Message + " Research workers: " + strings.Join(names, ", ") + ".")
 	}
 	before := a.Health.Snapshot()

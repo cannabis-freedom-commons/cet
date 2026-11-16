@@ -39,10 +39,13 @@ func (j wireJob) job() store.Job {
 
 // presence is what a worker says about itself with every claim and heartbeat.
 type presence struct {
-	Agents []agentInfo              `json:"agents"`
-	Runner string                   `json:"runner"`
-	Health *research.HealthSnapshot `json:"health,omitempty"`
-	Stats  *workerStats             `json:"stats,omitempty"`
+	// Instance tells apart the workers that share a token (several on one machine): random, per
+	// process. Older workers send none.
+	Instance string                   `json:"instance,omitempty"`
+	Agents   []agentInfo              `json:"agents"`
+	Runner   string                   `json:"runner"`
+	Health   *research.HealthSnapshot `json:"health,omitempty"`
+	Stats    *workerStats             `json:"stats,omitempty"`
 }
 
 // workerStats are a worker's own figures since it started, for the backend's /metrics.
