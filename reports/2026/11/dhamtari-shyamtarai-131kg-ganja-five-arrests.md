@@ -90,6 +90,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-16
     language: hi
+  - title: 'धमतरी में दो कारों से 131 किलो गांजा जब्त: महाराष्ट्र के 5 आरोपी गिरफ्तार; गांजा, वाहन और मोबाइल समेत 72.45 लाख रुपए की संपत्ति जब्त - Dhamtari News'
+    url: https://www.bhaskar.com/local/chhattisgarh/dhamtari/video/dhamtari-ganja-smuggling-arrest-maharashtra-accused-seize-drugs-139706714.html?type=video
+    publisher: Dainik Bhaskar
+    date: 2026-11-16
+    language: hi
 open_questions:
   - Published accounts report the seized ganja as about 130 kg or as 131.668 kg.
   - Published accounts report the value of the seized goods as Rs 60 lakh or as higher detailed valuations.
@@ -112,14 +117,14 @@ media:
 ---
 
 Dhamtari police arrested five interstate smugglers from Maharashtra with 131.668
-kg of ganja. [@1,3,4,5,6,9] After receiving the information, the police team cordoned off
+kg of ganja. [@1,3,4,5,6,9,10] After receiving the information, the police team cordoned off
 Shyamtarai naka and stopped the suspect car. [@1,4,7,8] The arrested men are Kundan
 alias Sachin Kailash Egede, 27, Rameshwar Salik Ram Dandge, 31, Robinson
 Lawrence Fernandes, 32, Lakhan Gulab Beldar, 34, and Ganesh Vijay Patil, 29.
 [@2,8] Rameshwar Dandge, 31, is a resident of Jalgaon district in Maharashtra. [@7] Kundan alias Sachin Egede, 27, is a resident of Malkapur Waghud village in Buldhana district, Maharashtra. [@7] Action is being taken under the NDPS Act while police trace the ganja
 source, routes, buyers and others in the network. [@1,6,7] Police registered a case against all five smugglers and sent them to jail. [@8]
 
-Officers recovered 131.668 kg of ganja during the vehicle search. [@1,6,8,9] Along
+Officers recovered 131.668 kg of ganja during the vehicle search. [@1,6,8,9,10] Along
 with the ganja, officers seized two cars and five mobile phones, with total
 seized property worth Rs 72,45,400. [@1,3,6] Police valued the Nano car at Rs 50,000, the Swift car at Rs five lakh and the five mobile phones at Rs 1,12,000 apart from the ganja. [@3] Police valued the recovered ganja at Rs
 65,83,400. [@1,3,6]
