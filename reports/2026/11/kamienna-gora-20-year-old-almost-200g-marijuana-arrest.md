@@ -70,25 +70,33 @@ sources:
     publisher: WP Info
     date: 2026-11-15
     language: pl
+  - title: 'Kamienna Góra: kontrola świateł ujawniła narkotyki. Grozi 10 lat'
+    url: https://motoguru.pl/na-czasie/kamienna-gora-kontrola-swiatel-ujawnila-narkotyki-grozi-10-lat/
+    publisher: MotoGuru.pl
+    date: 2026-11-16
+    language: pl
+open_questions:
+  - Accounts differ on whether the roadside saliva test indicated only amphetamine or its derivatives, or amphetamine and benzodiazepines.
+  - Whether a charge of driving under the influence of drugs was brought remains unresolved, pending the laboratory analysis of the blood sample.
 ---
 
 On 11 November 2026, after 1 p.m., patrol officers of the Kamienna Gora district
 police stopped a car on Jeleniogorska Street in Kamienna Gora because its
 lighting was not working. [@2] Behind the wheel was a visibly nervous
-20-year-old man from Klodzko County who avoided eye contact. [@2,4] Officers said
+20-year-old man from Klodzko County who avoided eye contact. [@2,4,5] Officers said
 his behaviour and the appearance of his pupils suggested he could be under the
-influence of prohibited substances. [@2,4] A saliva drug test indicated
+influence of prohibited substances. [@2,4,5] A saliva drug test indicated
 amphetamine or derivatives and benzodiazepines in his system. [@2] The man was
 detained and blood was taken from him to establish the exact concentration of
-substances in his body. [@2,4]
+substances in his body. [@2,4,5]
 
-Officers searched the car and found and secured several grams of marijuana. [@1,4]
+Officers searched the car and found and secured several grams of marijuana. [@1,4,5]
 Police said the 20-year-old admitted possessing the marijuana found in the
 vehicle. [@2] Officers then searched his place of residence and found almost 200
-grams more of the same drug. [@3,4]
+grams more of the same drug. [@3,4,5]
 
 The next day he was charged with possessing a significant quantity of drugs,
-punishable by one to 10 years in prison. [@2,4] Driving while under the influence
+punishable by one to 10 years in prison. [@2,4,5] Driving while under the influence
 of drugs carries up to 3 years in prison, a driving ban and a fine of up to tens
-of thousands of zlotys. [@1] His fate is to be decided by the prosecutor and the
+of thousands of zlotys. [@1,5] His fate is to be decided by the prosecutor and the
 court. [@1]
