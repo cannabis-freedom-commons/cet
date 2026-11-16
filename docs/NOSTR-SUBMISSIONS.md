@@ -828,7 +828,7 @@ them. Interrupted/running usage may be incomplete.
 
 Every price, plan multiplier and peak window is in `src/lib/models.js` (operator-supplied rates
 for Swancloud and OpenCode Go Muse; published rates for OpenAI and OpenCode Go DeepSeek). Where no
-cache price was supplied (Swancloud Claude Haiku 5.5 and DeepSeek V4.1 Flash), cache reads are
+cache price was supplied (Swancloud Claude Haiku 5.5), cache reads are
 counted at the fresh-input price, and the page marks them "at input price". Plan share is API value
 divided by the model's own multiplier (Swancloud 15×, OpenCode Go Muse 6×); the configured
 RESEARCH_PLAN_USD / RESEARCH_PLAN_ALLOWANCE_USD ratio is the OpenCode Go subscription and covers

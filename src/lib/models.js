@@ -49,7 +49,9 @@ export const MODELS = {
   "deepseek-v4.1-flash": {
     name: "DeepSeek V4.1 Flash", by: "DeepSeek",
     providers: {
-      swancloud: { input: 0.150, output: 0.6, planMultiplier: 15 },
+      // DeepSeek's own off-peak rates (https://api-docs.deepseek.com/quick_start/pricing), cache
+      // hits included; Swancloud has no peak hours
+      swancloud: { input: 0.150, output: 0.6, cached: 0.003, planMultiplier: 15 },
       "opencode-go": { input: 0.15, output: 0.6, cached: 0.003, peak: OPENCODE_GO_PEAK, peakInput: 0.3, peakOutput: 1.2, peakCached: 0.006 },
     },
   },

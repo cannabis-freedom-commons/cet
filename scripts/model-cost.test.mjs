@@ -62,7 +62,7 @@ test("costs keep four decimals, and six below a ten-thousandth of a dollar", () 
 for (const [model,input,output,cached] of [
  ["swancloud/claude-haiku-5.5",0.100,0.500,0.100],
  ["swancloud/muse-spark-1.3-contributor",0.100,0.200,0.002],
- ["swancloud/deepseek-v4.1-flash",0.150,0.600,0.150],
+ ["swancloud/deepseek-v4.1-flash",0.150,0.600,0.003],
 ]) {
  test(`${model} uses the supplied API rates and 15× plan at every hour`,()=>{
   for(const started_at of [peak,offPeak]) {
