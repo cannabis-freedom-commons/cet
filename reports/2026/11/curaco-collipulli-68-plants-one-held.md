@@ -57,6 +57,11 @@ sources:
     publisher: Radio Viaducto Collipulli
     date: 2026-11-15
     language: es
+  - title: 'Operativo antidrogas en Collipulli: un detenido y más de 68 plantas de cannabis incautadas'
+    url: https://g5noticias.cl/2026/11/15/operativo-antidrogas-en-collipulli-un-detenido-y-mas-de-68-plantas-de-cannabis-incautadas/
+    publisher: G5noticias
+    date: 2026-11-15
+    language: es
 open_questions:
   - No separate date for the operation was given; 15 November 2026 is the publication date and is used as the incident date.
   - The marijuana is given only as more than 110 grams, with no exact weight or value estimate, and no court outcome was reported.
@@ -65,17 +70,16 @@ open_questions:
 
 Carabineros carried out an anti-drug operation in the rural Curaco sector of
 Collipulli that dismantled a point used to cultivate and package illicit
-substances. [@1] The operation was led by the Curaco post of the 2nd Collipulli
+substances. [@1,2] The operation was led by the Curaco post of the 2nd Collipulli
 police station and supported by the specialised OS7, COP and GOPE units over two
 days of investigative work. [@1]
 
 Police searched two properties on the instructions of the Public Prosecutor's
 Office and detained one man who was under a standing arrest warrant and was
-listed as a fugitive from justice. [@1] Officers seized 68 Cannabis sativa
+listed as a fugitive from justice. [@1,2] Officers seized 68 Cannabis sativa
 plants, more than 110 grams of processed marijuana prepared for distribution,
 and a digital scale believed to have been used to prepare and divide the drug.
-[@1]
+[@1,2]
 
 The detainee was placed at the disposal of the judicial authorities, and the
 case file was sent to the Public Prosecutor's Office. [@1]
-
