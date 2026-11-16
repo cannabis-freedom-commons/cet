@@ -41,6 +41,11 @@ media:
     media_url: https://assets.debate.com.mx/__export/1794682319228/sites/debate/img/2026/11/14/20261114_115158996_cover.jpg_1028595148.jpg
     publisher: El Debate
     caption: Security officers present the detained man after the operation.
+  - kind: photo
+    url: https://www.cronicaregional.com.mx/policiaca/detienen-a-un-hombre-y-aseguran-un-fusil-180-cartuchos-y-presuntos-narcoticos-en-el-rosario/
+    media_url: https://www.cronicaregional.com.mx/wp-content/uploads/2026/11/detienen-a-un-hombre-y-aseguran-un-fusil-180-cartuchos-y-presuntos-narcoticos-en.jpg
+    publisher: Crónica Regional Querétaro
+    caption: Seized rifle, cartridges, suspected drugs and vehicle from the El Rosario operation.
 status: verified
 created_by_model: openai/gpt-6.1-terra#medium
 submission: c9f7bf8879e277ff16c4decb950fd2e7
@@ -61,18 +66,23 @@ sources:
     publisher: Puntualizando.com
     date: 2026-11-14
     language: es
+  - title: Detienen a un hombre y aseguran un fusil, 180 cartuchos y presuntos narcóticos en El Rosario
+    url: https://www.cronicaregional.com.mx/policiaca/detienen-a-un-hombre-y-aseguran-un-fusil-180-cartuchos-y-presuntos-narcoticos-en-el-rosario/
+    publisher: Crónica Regional Querétaro
+    date: 2026-11-14
+    language: es
 ---
 
 State police detained a man during a security operation in the municipality of
-El Rosario, Sinaloa, and seized a rifle and suspected drugs. [@2,3] The officers
+El Rosario, Sinaloa, and seized a rifle and suspected drugs. [@2,3,4] The officers
 belonged to the Sinaloa Special Operations Group, known as GOES, and worked with
-the inter-institutional group. [@2,3] Police said they saw the man leave a home
+the inter-institutional group. [@2,3,4] Police said they saw the man leave a home
 carrying a firearm and a backpack, enter a car and drive away before they
-followed and stopped him. [@1,3]
+followed and stopped him. [@1,3,4]
 
 Officers found 300 cigarettes made with suspected marijuana in the vehicle, with
-an estimated total weight of 2.6 kilograms. [@1,3] They also seized an AK-47
+an estimated total weight of 2.6 kilograms. [@1,3,4] They also seized an AK-47
 rifle, six magazines and 180 cartridges, as well as 200 doses of suspected
-crystal methamphetamine weighing about 66 grams. [@1] The man, the seized items
+crystal methamphetamine weighing about 66 grams. [@1,4] The man, the seized items
 and the blue Nissan March were placed at the disposal of the competent authority
-for investigation. [@2,3]
+for investigation. [@2,3,4]
