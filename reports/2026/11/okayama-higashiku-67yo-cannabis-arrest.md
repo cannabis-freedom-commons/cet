@@ -72,19 +72,29 @@ sources:
     publisher: RSK山陽放送
     date: 2026-11-16
     language: ja
+  - title: 自宅の庭で大麻草栽培 岡山東署が容疑で再逮捕：山陽新聞デジタル｜さんデジ
+    url: https://www.sanyonews.jp/article/2021828
+    publisher: 山陽新聞デジタル｜さんデジ
+    date: 2026-11-16
+    language: ja
 open_questions:
     - No weight was published for the single cannabis cigarette, so no kilograms are recorded.
-    - No count was published for the cannabis plants grown in the garden, so no plant figure is recorded.
     - The year 2026 for the 4 November arrest and the 5 October tip is taken from publication timestamps, as the earlier text gave only month and day.
     - The 16 November re-arrest date is taken from the publication date, as the new text gives only the day.
     - The suspect's name was not published.
     - No court outcome or next step after the re-arrest was reported.
     - It is not reported whether the man remained in custody between the 4 November arrest and the 16 November re-arrest.
+media:
+  - kind: photo
+    url: https://www.sanyonews.jp/article/2021828
+    media_url: https://static.sanyonews.jp/image/article/size1/5/f/5/d/5f5db4f60234217161c46bee77a3501b_1.jpg
+    publisher: 山陽新聞デジタル｜さんデジ
+    caption: 'Seized cannabis plants from the Okayama Higashi garden case. Photo: Okayama Higashi Police Station, via Sanyo Shimbun'
 ---
 
 Okayama Higashi police arrested a 67-year-old unemployed man living in
 Higashi-ku, Okayama city, on 4 November on suspicion of violating the Narcotics
-and Psychotropics Control Act. [@2,3] The reports identify the Okayama Higashi
+and Psychotropics Control Act. [@2,3] At the time of the re-arrest the man had already been indicted for possession under the Narcotics and Psychotropics Control Act. [@9] The reports identify the Okayama Higashi
 Police Station as the authority announcing the arrest. [@1] Officers allege that
 at about 9:40 a.m. on 4 November the man possessed one cannabis cigarette,
 termed daima-tabako, at his home. [@1,3,4]
@@ -92,9 +102,9 @@ termed daima-tabako, at his home. [@1,3,4]
 Police said they acted after receiving information on 5 October that someone was
 growing cannabis in a garden. [@1,3] Following that tip, officers searched the
 man’s home on 4 November and found one cannabis cigarette, which led them to
-arrest him. [@2]
+arrest him. [@2,9]
 
 During questioning the man admitted the allegation, telling police that it was
-correct. [@1,3,4] The man admitted the cultivation allegation, telling police he grew it for his own use. [@5,6,8] Officers also found a plant resembling cannabis in the garden of
-the residence. [@1,3,5] Testing of the suspected plants seized from the man's garden confirmed they were cannabis, leading to the re-arrest on 16 November. [@8] Police allege he grew cannabis in his home garden between 15 October and 4 November 2026. [@5,6,7] Police are investigating the garden find on suspicion that
-the man had been cultivating cannabis. [@1,3] On 16 November police re-arrested the 67-year-old unemployed man on suspicion of cultivating cannabis in violation of the cannabis cultivation regulation. [@5,6]
+correct. [@1,3,4] The man admitted the cultivation allegation, telling police he grew it for his own use. [@5,6,8,9] Officers also found a plant resembling cannabis in the garden of
+the residence. [@1,3,5] The home garden measured about 75 square metres and held nine cannabis plants. [@9] Testing of the suspected plants seized from the man's garden confirmed they were cannabis, leading to the re-arrest on 16 November. [@8] Police allege he grew cannabis in his home garden between 15 October and 4 November 2026. [@5,6,7,9] Police are investigating the garden find on suspicion that
+the man had been cultivating cannabis. [@1,3] On 16 November police re-arrested the 67-year-old unemployed man on suspicion of cultivating cannabis in violation of the cannabis cultivation regulation. [@5,6,9]
