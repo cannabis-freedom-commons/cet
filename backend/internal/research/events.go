@@ -370,6 +370,10 @@ func (w *eventWriter) handle(line []byte) error {
 			if e.Part.Tokens.Reasoning > 0 {
 				stepDone += fmt.Sprintf(" (%s of them reasoning)", thousands(e.Part.Tokens.Reasoning))
 			}
+			// Muse reports a run's tokens once, at its end: its other steps have none of their own
+			if t := e.Part.Tokens; t.Input+t.Output+t.Reasoning+t.Cache.Read+t.Cache.Write == 0 {
+				stepDone = fmt.Sprintf("Step %d done", w.steps)
+			}
 		}
 	}
 	if w.events >= 500 { // a long run keeps its last steps out of the chat rather than flooding it

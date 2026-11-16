@@ -2,6 +2,10 @@ import { runCost, planCost, costEstimated, formatUSD, modelPlan, planDescription
 
 import { modelLabel } from "./models.js";
 export { modelLabel };
+// the agent a model runs on: "muse/…" on Meta's Muse, everything else on OpenCode
+export const agentName = (model) => (String(model || "").startsWith("muse/") ? "Muse" : "OpenCode");
+// "OpenCode 2.2.7", "Muse Code 1.4.20"
+const versionLabel = (version) => /^muse/i.test(version) ? version.replace(/\s*\(.*\)$/, "") : `OpenCode ${version.replace(/^opencode\s+/i, "")}`;
 const node = (tag, text, className) => { const el = document.createElement(tag); if (text !== undefined) el.textContent = text; if (className) el.className = className; return el; };
 
 function processingModelLabel(processing) {
@@ -19,7 +23,7 @@ export function renderProcessingStatus(container, processing, { compact = false 
   if (!processing) { container.dataset.state = "blocked"; container.append(node("p", "AI worker status is unavailable. Restart backend-dev after backend changes.")); return; }
   container.dataset.state = processing.enabled ? "ready" : "blocked";
   if (compact) {
-    // compact, for the top of the submissions list: is the worker running, which model and OpenCode,
+    // compact, for the top of the submissions list: is the worker running, which models and agents,
     // anything holding it up
     const line = node("div", undefined, "ai-worker-line");
     line.append(node("i", undefined, "ai-worker-dot"), node("strong", processing.enabled ? (processing.mode === "automatic" ? "AI worker running" : processing.mode === "demo" ? "Demonstration mode" : "Review mode") : "AI worker paused"));
@@ -39,10 +43,11 @@ export function renderProcessingStatus(container, processing, { compact = false 
         const item = node("div", undefined, "ai-worker-agent");
         item.append(node("strong", modelLabel(agent.model)), node("span", agent.model, "ai-worker-model-id"));
         item.append(node("span", `${agent.max_workers} ${agent.max_workers === 1 ? "worker" : "workers"}${startup ? ` · ${startup.status}` : ""}`));
+        if (startup?.version) item.append(node("span", versionLabel(startup.version), "ai-worker-model-id"));
         if (startup?.message && startup.status !== "ready") item.append(node("span", startup.message));
         tooltip.append(item);
       }
-      if (processing.startup?.version) tooltip.append(node("span", `OpenCode ${processing.startup.version.replace(/^opencode\s+/i, "")}`));
+      if (processing.startup?.version && !processing.startup?.agents?.length && agents.length > 1) tooltip.append(node("span", versionLabel(processing.startup.version)));
       detail.append(trigger, tooltip);
     }
     container.append(line, detail);
@@ -58,7 +63,7 @@ export function renderProcessingStatus(container, processing, { compact = false 
   for (const agent of processing.startup?.agents || []) {
     if (agent.startup.status !== "ready") container.append(node("p", `${modelLabel(agent.model)}: ${agent.startup.message}`, "ai-muted"));
   }
-  if (processing.startup) { const check = processing.startup; container.append(node("p", `Startup test: ${check.status}${check.version ? ` · OpenCode ${check.version}` : ""}`, "ai-muted")); }
+  if (processing.startup) { const check = processing.startup; container.append(node("p", `Startup test: ${check.status}${check.version ? ` · ${versionLabel(check.version)}` : ""}`, "ai-muted")); }
   if (processing.automatic_publication && !processing.publication_configured) container.append(node("p", "Research can run independently. Committing is waiting for a configured local repository.", "ai-muted"));
 }
 
@@ -91,13 +96,13 @@ function renderBudget(container, budget) {
 // when it is taken out of the page (the submissions table does that on every refresh). The chat keeps
 // its own scroll state, so it follows new messages while the reader is at the bottom and stays put,
 // with a "New messages" button, while they read further up.
-const ROLES = { user: "Request", assistant: "OpenCode", tool: "Tool", system: "Worker" };
+const ROLES = { user: "Request", tool: "Tool", system: "Worker" };
 const timeOf = (event) => { const date = new Date(event.created_at * 1000), time = node("time", date.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit", second: "2-digit" })); time.dateTime = date.toISOString(); return time; };
-function eventNode(event) {
+function eventNode(event, agent = "OpenCode") {
   // a finished model step is a thin divider between the messages of one step and the next
   if (event.kind === "step") { const line = node("div", undefined, "ai-step"); line.dataset.id = event.id; line.dataset.run = event.run_id || ""; line.append(node("span", event.text), timeOf(event)); return line; }
   const bubble = node("article", undefined, "ai-message"); bubble.dataset.role = event.role; bubble.dataset.kind = event.kind || ""; bubble.dataset.id = event.id; bubble.dataset.run = event.run_id || "";
-  const label = event.kind === "reasoning" ? "Thinking" : event.kind === "answer" ? "Final answer" : ROLES[event.role] || "Worker";
+  const label = event.kind === "reasoning" ? "Thinking" : event.kind === "answer" ? "Final answer" : (event.role === "assistant" ? agent : ROLES[event.role] || "Worker");
   const header = node("div", undefined, "ai-message-meta"); header.append(node("strong", label), timeOf(event));
   bubble.append(header);
   if (event.kind === "answer") {
@@ -122,7 +127,7 @@ function buildPanel(container, api, id) {
   // with more than one run (retries), a tab for each, newest first; the stats and the chat show the chosen one
   const runs = node("div", undefined, "ai-run-tabs"); runs.setAttribute("role", "tablist"); runs.setAttribute("aria-label", "AI runs");
   const wrap = node("div", undefined, "ai-chat-wrap");
-  const log = node("div", undefined, "ai-chat"); log.dataset.aiChat = ""; log.setAttribute("role", "log"); log.setAttribute("aria-label", "Public OpenCode activity"); log.setAttribute("aria-live", "polite");
+  const log = node("div", undefined, "ai-chat"); log.dataset.aiChat = ""; log.setAttribute("role", "log"); log.setAttribute("aria-label", "Public AI agent activity"); log.setAttribute("aria-live", "polite");
   const empty = node("p", "", "ai-muted ai-empty");
   const more = node("button", "New messages ↓", "ai-new"); more.type = "button"; more.hidden = true;
   // while a run works: animated dots, what it is doing and how long since its last update
@@ -131,7 +136,7 @@ function buildPanel(container, api, id) {
   const doing = node("span", "", "ai-doing"), since = node("span", "", "ai-since");
   working.append(dots, doing, since);
   log.append(empty, working); wrap.append(log, more);
-  const ui = { log, empty, more, processing, details, runPill, model, runList: runs, working, doing, since, seen: new Set(), atBottom: true, top: 0, lastAt: 0 };
+  const ui = { about, log, empty, more, processing, details, runPill, model, runList: runs, working, doing, since, seen: new Set(), atBottom: true, top: 0, lastAt: 0 };
   ui.timer = setInterval(() => {
     if (!container.isConnected) { clearInterval(ui.timer); return; }
     if (!working.hidden && ui.lastAt) since.textContent = `${span(Date.now() / 1000 - ui.lastAt)} since the last update`;
@@ -139,7 +144,8 @@ function buildPanel(container, api, id) {
   // where the reader is in the chat, kept on the panel so a refresh can put them back
   log.addEventListener("scroll", () => { ui.top = log.scrollTop; ui.atBottom = log.scrollHeight - log.scrollTop - log.clientHeight < 40; if (ui.atBottom) more.hidden = true; }, { passive: true });
   more.addEventListener("click", () => { log.scrollTo({ top: log.scrollHeight, behavior: "smooth" }); more.hidden = true; });
-  const chatHead = node("div", undefined, "ai-chat-head"); chatHead.append(node("h3", "Live activity"), node("span", "Everything OpenCode does as it works: its reasoning, the sources it opens and searches, and its answer. Credentials are hidden.", "ai-muted"));
+  const about = node("span", "", "ai-muted");
+  const chatHead = node("div", undefined, "ai-chat-head"); chatHead.append(node("h3", "Live activity"), about);
   container.append(heading, processing, runs, details, chatHead, wrap);
   if (api && id) { ui.json = createJSONLog(api, id); container.append(ui.json); }
   container._ai = ui;
@@ -168,6 +174,9 @@ export function renderAIActivity(container, payload, options = {}) {
   if (ui.pick && !all.some((r) => r.id === ui.pick)) ui.pick = null;
   const latest = all[0], run = all.find((r) => r.id === ui.pick) ?? latest;
   ui.model.textContent = modelLabel(run?.model || processing?.model);
+  const agent = agentName(run?.model || processing?.model);
+  const agents = new Map(all.map((r) => [r.id, agentName(r.model)]));
+  ui.about.textContent = `Everything ${agent} does as it works: its reasoning, the sources it opens and searches, and its answer. Credentials are hidden.`;
   ui.runPill.replaceChildren(); ui.runPill.hidden = !latest;
   if (latest) {
     // a failed run of a request that is still going will be retried
@@ -237,7 +246,7 @@ export function renderAIActivity(container, payload, options = {}) {
   for (const event of activity?.events || []) {
     if (ui.seen.has(event.id)) continue;
     if (event.kind === "step" && event.text.startsWith("OpenCode started")) continue; // stored by earlier versions, says nothing
-    ui.seen.add(event.id); log.insertBefore(eventNode(event), ui.working); added++;
+    ui.seen.add(event.id); log.insertBefore(eventNode(event, agents.get(event.run_id) || agent), ui.working); added++;
   }
   // with several runs, only the chosen run's messages (and those that belong to none)
   let visible = 0;
@@ -251,7 +260,7 @@ export function renderAIActivity(container, payload, options = {}) {
     const last = mine.at(-1);
     ui.lastAt = last?.created_at || run.started_at || run.created_at;
     const steps = mine.filter((e) => e.kind === "step" && !e.text.startsWith("OpenCode started")).length;
-    let doing = "Starting OpenCode";
+    let doing = `Starting ${agent}`;
     if (last) {
       if (last.kind === "tool" && last.text.endsWith("…")) doing = last.text.replace(/…$/, "");
       else if (last.kind === "answer") doing = "Checking the final answer";
@@ -261,7 +270,7 @@ export function renderAIActivity(container, payload, options = {}) {
     ui.doing.textContent = doing;
     ui.since.textContent = `${span(Date.now() / 1000 - ui.lastAt)} since the last update`;
   }
-  ui.empty.textContent = run ? "Waiting for OpenCode session updates…" : "No AI session has started for this request yet.";
+  ui.empty.textContent = run ? `Waiting for ${agent} session updates…` : "No AI session has started for this request yet.";
   if (follow) { log.scrollTop = log.scrollHeight; ui.top = log.scrollTop; }
   else { log.scrollTop = ui.top; if (added) ui.more.hidden = false; }
   if (ui.json) { ui.json.setRawAvailable(Boolean(payload?.processing?.raw_logs_available)); if (ui.json.open) ui.json.refreshLog(); }

@@ -49,6 +49,9 @@ func (r Runner) commandArgs(ctx context.Context, input, run string, args []strin
 	if resolveErr != nil {
 		return nil, nil, resolveErr
 	}
+	if isMuse(r.Config.ResearchModel) {
+		return r.museCommand(ctx, input, args)
+	}
 	if r.Config.ResearchRunner != "local" {
 		if err := configureLegacyToolOutput(input, "/tmp/data/opencode/tool-output"); err != nil {
 			return nil, nil, err

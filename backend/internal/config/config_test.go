@@ -180,7 +180,12 @@ func TestResearchAgentsConfiguration(t *testing.T) {
 	if c, err = Load(); err != nil || c.MaxWorkers() != 6 || c.Agents()[1].Model != "nvidia/stepfun-ai/step-5-preview#max" || c.Agents()[2].MaxWorkers != 1 || c.Agents()[0].Model != "swancloud/muse-spark-1.3-contributor#xhigh" {
 		t.Fatal(c.Agents(), err)
 	}
-	for _, raw := range []string{`[]`, `null`, `p/m:0`, `p/m:9`, `invalid:1`, `p/m:1,p/m:2`, `muse@muse-spark-1.3:1`, `,`, `{}`, `[{}]`, `[{"model":"p/m","max_workers":0}]`, `[{"model":"p/m","max_workers":9}]`, `[{"model":"p/m","max_workers":1,"typo":2}]`, `[{"model":"p/m","max_workers":1},{"model":"p/m","max_workers":2}]`, `[{"model":"invalid","max_workers":1}]`, `[{"model":"p/m","max_workers":1}] []`} {
+	// muse@model runs on Muse, recorded with Muse as its provider
+	t.Setenv("RESEARCH_AGENTS", "muse@muse-spark-1.3#xhigh:2,opencode-go/deepseek-v4.1-flash:1")
+	if c, err = Load(); err != nil || c.Agents()[0].Model != "muse/muse-spark-1.3#xhigh" || c.MaxWorkers() != 3 {
+		t.Fatal(c.Agents(), err)
+	}
+	for _, raw := range []string{`[]`, `null`, `p/m:0`, `p/m:9`, `invalid:1`, `p/m:1,p/m:2`, `other@p/m:1`, `muse@p/m:1`, `muse/muse-spark-1.3:1`, `opencode@muse/m:1`, `,`, `{}`, `[{}]`, `[{"model":"p/m","max_workers":0}]`, `[{"model":"p/m","max_workers":9}]`, `[{"model":"p/m","max_workers":1,"typo":2}]`, `[{"model":"p/m","max_workers":1},{"model":"p/m","max_workers":2}]`, `[{"model":"invalid","max_workers":1}]`, `[{"model":"p/m","max_workers":1}] []`} {
 		t.Setenv("RESEARCH_AGENTS", raw)
 		if _, err := Load(); err == nil {
 			t.Fatalf("accepted %s", raw)

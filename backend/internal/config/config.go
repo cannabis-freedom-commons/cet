@@ -38,6 +38,7 @@ type Config struct {
 	GatewaySecret, BotSecret                                             string
 	ResearchImage, ResearchNetwork, ResearchModel, ResearchKey           string
 	ResearchRunner, OpenCodeBinary, OpenCodeAuthFile, OpenCodeConfigFile string
+	MuseBinary                                                           string // the Muse runtime's executable (MUSE_BIN)
 	AutoPublish                                                          bool
 	AutoPush                                                             bool // push the report repository after each report commit
 	// RepoSync keeps a report repository nobody edits by hand (a server's clone) level with origin:
@@ -169,6 +170,7 @@ func Load() (Config, error) {
 	c.OpenCodeBinary = env("OPENCODE_BIN", "opencode")
 	c.OpenCodeAuthFile = os.Getenv("OPENCODE_AUTH_FILE")
 	c.OpenCodeConfigFile = os.Getenv("OPENCODE_CONFIG")
+	c.MuseBinary = env("MUSE_BIN", "muse")
 	var boolErr error
 	c.AutoPublish, boolErr = strconv.ParseBool(env("AUTO_PUBLISH", "true"))
 	if boolErr != nil {
@@ -412,17 +414,23 @@ func parseShortAgents(raw string) ([]ResearchAgent, error) {
 	return agents, nil
 }
 
-// agentRuntime takes the runtime off an agent's model: "opencode@provider/model" (or just
-// "provider/model") runs on OpenCode, the only runtime there is so far.
+// agentRuntime takes the runtime off an agent's model. "opencode@provider/model" (or just
+// "provider/model") runs on OpenCode; "muse@model" on Meta's Muse agent, recorded as
+// "muse/model", its provider being Muse itself.
 func agentRuntime(model string) (string, error) {
 	runtime, rest, found := strings.Cut(model, "@")
-	if !found {
+	switch {
+	case !found:
+		if strings.HasPrefix(model, "muse/") {
+			return "", fmt.Errorf("RESEARCH_AGENTS: write %q as muse@%s", model, strings.TrimPrefix(model, "muse/"))
+		}
 		return model, nil
+	case runtime == "opencode" && !strings.HasPrefix(rest, "muse/"):
+		return rest, nil
+	case runtime == "muse" && !strings.Contains(rest, "/"):
+		return "muse/" + rest, nil
 	}
-	if runtime != "opencode" {
-		return "", fmt.Errorf("RESEARCH_AGENTS: unknown runtime %q in %q; only opencode@ is supported so far", runtime, model)
-	}
-	return rest, nil
+	return "", fmt.Errorf("RESEARCH_AGENTS: %q: the runtime is opencode@provider/model or muse@model", model)
 }
 
 // Agents normalizes legacy single-model settings. RESEARCH_AGENTS takes precedence.

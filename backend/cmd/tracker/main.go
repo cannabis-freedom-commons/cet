@@ -26,6 +26,9 @@ import (
 )
 
 func main() {
+	if muse := os.Getenv(research.MuseBridgeEnv); muse != "" { // a research run on Muse
+		os.Exit(research.MuseBridge(muse, os.Args[1:]))
+	}
 	if err := run(); err != nil {
 		slog.Error("service stopped", "error", err)
 		os.Exit(1)

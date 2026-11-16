@@ -12,7 +12,7 @@
 const OPENCODE_GO_PEAK = { days: [1, 2, 3, 4, 5], hours: [[1, 4], [6, 10]] };
 
 // how the providers' ids in a run's model ("swancloud/…") are shown
-export const PROVIDER_NAMES = { openai: "OpenAI", swancloud: "Swancloud", "opencode-go": "OpenCode Go" };
+export const PROVIDER_NAMES = { openai: "OpenAI", swancloud: "Swancloud", "opencode-go": "OpenCode Go", muse: "Muse" };
 
 // the providers whose subscription is the one configured on the server (RESEARCH_PLAN_USD and
 // RESEARCH_PLAN_ALLOWANCE_USD: OpenCode Go, $10 a month); a model there without a `planMultiplier`
@@ -45,6 +45,14 @@ export const MODELS = {
       // operator-supplied rates; a 15× subscription on Swancloud, 6× on OpenCode Go ($10 buys $60)
       swancloud: { input: 0.100, output: 0.200, cached: 0.002, planMultiplier: 15 },
       "opencode-go": { input: 0.10, output: 0.20, cached: 0.002, planMultiplier: 6 },
+    },
+  },
+  // run on Meta's own Muse agent (RESEARCH_AGENTS "muse@muse-spark-1.3"), always in contributor
+  // mode: priced as Muse Spark 1.3 Contributor elsewhere; no plan ratio known yet
+  "muse-spark-1.3": {
+    name: "Muse Spark 1.3 Contributor", by: "Meta",
+    providers: {
+      muse: { input: 0.10, output: 0.20, cached: 0.002 },
     },
   },
   "claude-haiku-5.5": {

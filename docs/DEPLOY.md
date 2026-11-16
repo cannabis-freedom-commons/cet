@@ -202,8 +202,21 @@ comma-separated `model:workers` (one worker without a number):
 npm run worker AGENTS="swancloud/muse-spark-1.3-contributor#xhigh:4,nvidia/stepfun-ai/step-5-preview#max:1"
 ```
 
-A model may name its runtime in front, `opencode@provider/model`; OpenCode is the default and,
-so far, the only one. `RESEARCH_AGENTS` in `.env` takes the same short form as well as JSON.
+A model may name its runtime in front: `opencode@provider/model` (the default, the same as no
+prefix) or `muse@model` for Meta's Muse coding agent, for example
+`AGENTS="muse@muse-spark-1.3#xhigh:2"` (`#xhigh` is Muse's reasoning effort). `RESEARCH_AGENTS`
+in `.env` takes the same short form as well as JSON.
+
+Muse runs only with the local runner on macOS, and needs `muse login` on the machine first
+(`MUSE_BIN` if `muse` is not on the PATH). It always runs in contributor mode. Each run gets a
+private home of its own, in the same sandbox OpenCode runs in: the account's saved login (its
+secret stays in the macOS keychain), the reasoning effort, and the tracker's tool server, with the
+job's input folder as the one trusted workspace. Writing files and the shell are turned off. The
+worker starts itself as a bridge that talks to `muse acp` (the Agent Client Protocol) and passes
+Muse's messages, reasoning and tool calls on in OpenCode's form, with each step's tokens from
+Muse's session log. So the chat, the step limit, corrections in the same session, resumed runs and
+the pages it fetched as evidence work as with OpenCode. Runs are recorded as
+`muse/muse-spark-1.3#xhigh` and priced like Muse Spark 1.3 Contributor elsewhere.
 The status on the request pages says "Research workers: home" once it is connected.
 
 ## 8. Point the site at it

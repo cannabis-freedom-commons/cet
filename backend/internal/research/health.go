@@ -138,7 +138,7 @@ func (r Runner) probeAttempt(ctx context.Context) (diagnostics ProbeDiagnostics,
 		}
 	}()
 
-	if r.Config.ResearchRunner == "local" {
+	if r.Config.ResearchRunner == "local" && !isMuse(r.Config.ResearchModel) {
 		name := r.Config.OpenCodeBinary
 		if name == "" {
 			name = "opencode"
@@ -259,7 +259,11 @@ func (r Runner) Check(ctx context.Context, h *Health) {
 	check, cancel := context.WithTimeout(ctx, 60*time.Second)
 	defer cancel()
 	diagnostics, err := r.ProbeDetails(check)
-	state := HealthSnapshot{Status: "ready", Message: "OpenCode binary and model test passed. Queued requests are processed automatically.", Version: diagnostics.Version, Diagnostics: &diagnostics, CheckedAt: time.Now().Unix()}
+	agent := "OpenCode"
+	if isMuse(r.Config.ResearchModel) {
+		agent = "Muse"
+	}
+	state := HealthSnapshot{Status: "ready", Message: agent + " and model test passed. Queued requests are processed automatically.", Version: diagnostics.Version, Diagnostics: &diagnostics, CheckedAt: time.Now().Unix()}
 	if err != nil {
 		state.Status = "failed"
 		state.Message = err.Error()
