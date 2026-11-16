@@ -31,28 +31,29 @@ sources:
     publisher: istotne.pl
     date: 2026-11-13
     language: pl
+  - title: Cztery lata więzienia za przywóz 2,5 kg marihuany z Czech - Bolesławiec
+    url: https://www.bolec.info/boleslawiec/informacje/kategoria/45842/cztery-lata-wiezienia-za-przywoz-25-kg-marihuany-z-czech
+    publisher: Bolec.Info
+    date: 2026-11-14
+    language: pl
 open_questions:
-  - The only account found is from a single local outlet (istotne.pl), which cites the District Prosecutor's Office in Jelenia Góra; the prosecutor's own statement could not be opened.
-  - The English version of the page says 'District Court' while the Polish version says 'Sąd Okręgowy' (Regional Court); the court level is uncertain.
-  - No value estimate for the 2.5 kg of marijuana was published.
-  - The report does not name the 35-year-old organizer or the four accomplices; their ages are given only as a range (24 to 36) for the four accomplices.
-  - 'Left out, as its quotation was not found in istotne.pl: The case concerns a crime that allegedly took place from January to 19 October 2023.'
-  - 'Left out, as its quotation was not found in istotne.pl: According to investigators'' findings, the 35-year-old directed the activities of four other people and in total they brought 2.5 kg of marijuana into Poland.'
-  - 'Left out, as its quotation was not found in istotne.pl: The investigation was conducted by the District Prosecutor''s Office in Jelenia Góra, which filed an indictment against the 35-year-old man with the court in October 2024.'
+    - The accounts found are from two local outlets (istotne.pl and Bolec.Info), both citing the District Prosecutor's Office in Jelenia Gora; the prosecutor's own statement could not be opened.
+    - The English version of the page says 'District Court' while the Polish version says 'Sąd Okręgowy' (Regional Court); Bolec.Info confirms the court as Sąd Okręgowy w Jeleniej Górze.
+    - No value estimate for the 2.5 kg of marijuana was published.
+    - The report does not name the 35-year-old organizer or the four accomplices; their ages are given only as a range (24 to 36) for the four accomplices.
 ---
 
 The District Court in Jelenia Góra found a 35-year-old man guilty and sentenced
 him to four years in prison on 2 November 2026, although the judgment is not yet
-final. [@1] The man organized the transport of 2.5 kg of marijuana from the
+final. [@1,3] The man organized the transport of 2.5 kg of marijuana from the
 Czech Republic to Poland, coordinated four accomplices and took part in drug
-purchases. [@1] The accused pleaded not guilty to the crime with which he was
-charged and had previously been convicted by a court for drug possession. [@1]
+purchases. [@1,3] He assigned the others travel routes, meeting places in the Czech Republic, drug handover points and delivery places on the Polish side of the border. [@3] According to the prosecution, the man acted between January and 19 October 2023 in Zgorzelec, Zawidow and other localities in the Zgorzelec and Luban districts. [@3] The investigation was conducted by the District Prosecutor's Office in Jelenia Gora, which sent the indictment to the court in October 2024. [@3] The accused pleaded not guilty to the crime with which he was
+charged and had previously been convicted by a court for drug possession. [@1,3]
 Earlier, on 2 June 2026, the District Court in Jelenia Góra sentenced four
 people whose activities had been directed by the 35-year-old man: three Polish
 citizens and one Czech citizen, aged between 24 and 36, who had pleaded guilty
-to the charges and none of whom had previously been convicted by a court. [@2]
+to the charges and none of whom had previously been convicted by a court. [@2,3]
 Two of the four accomplices received sentences of one year and five months in
 prison, while the other two, who were additionally charged with marijuana
 possession, were sentenced to one year and six months in prison, and the
-judgments against the four accomplices are already final. [@2]
-
+judgments against the four accomplices are already final. [@2,3]
