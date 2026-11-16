@@ -56,21 +56,26 @@ sources:
     publisher: DHA
     date: 2026-11-16
     language: tr
+  - title: Bağlar'daki operasyonda 2 şüpheli yakalandı
+    url: https://www.egealternatif.com/haber/baglar-daki-operasyonda-2-supheli-yakalandi_102090/
+    publisher: Ege Alternatif Gazetesi
+    date: 2026-11-15
+    language: tr
 ---
 
 Police in Diyarbakır's Bağlar district detained two suspects in connection with
-a drug operation. [@1,2,3,4] The suspects had been identified as trading drugs before
+a drug operation. [@1,2,3,4,5] The suspects had been identified as trading drugs before
 they were caught, in an operation supported by Anti-Terror Branch teams. [@1]
 The Bağlar District Police Crime Prevention and Investigation Bureau had
 received information that drugs and an unlicensed weapon were at an address in
-Kaynartepe Mahallesi. [@1,2,3,4] The Provincial Police Directorate said it announced the operation on its social media accounts. [@2] After technical and physical surveillance, the teams
+Kaynartepe Mahallesi. [@1,2,3,4,5] The Provincial Police Directorate said it announced the operation on its social media accounts. [@2] After technical and physical surveillance, the teams
 moved in and raided the identified address with the participation of the
 Anti-Terror Branch. [@1,3]
 
-The search found 381 ecstasy pills and 294 synthetic pharmaceutical pills. [@1,3,4]
+The search found 381 ecstasy pills and 294 synthetic pharmaceutical pills. [@1,3,4,5]
 The same search found 77 grams of cannabis and a further 19.84 grams of cannabis
-divided into 65 pieces ready for sale. [@1,3,4] Officers also seized one unlicensed
-pistol found at the address. [@1,2,3,4] The two detained suspects were held for police
+divided into 65 pieces ready for sale. [@1,3,4,5] Officers also seized one unlicensed
+pistol found at the address. [@1,2,3,4,5] The two detained suspects were held for police
 procedures before being sent to the judicial authorities. [@1]
 
 The operation was presented as part of police anti-drug work that produced a
