@@ -46,28 +46,25 @@ sources:
     publisher: Новости Воронежа
     date: 2026-11-16
     language: ru
-open_questions:
-  - No separate date for the search or detention was published; 16 November 2026 is the publication date used as the incident date.
-  - The weights were reported as lower bounds of more than 3 kilograms and over 570 grams, not exact weights, and no plant count was published.
-  - No value estimate for the seized cannabis was published.
-  - Whether the suspect grew the plants or only stored them was not stated; only large-scale storage was charged.
-  - No court outcome beyond the opened case and procedural detention was reported.
-  - The account rests on a single report citing the Interior Ministry, with no independent second account found.
+  - title: Более 3,5 кг конопли и марихуаны полиция изъяла у жителя Борисоглебска
+    url: https://voronezhnews.ru/fn_1995197.html
+    publisher: Воронежские новости
+    date: 2026-11-16
+    language: ru
 ---
 
-Police in Borisoglebsk detained a 53-year-old local man. [@1] The detention was
+Police in Borisoglebsk detained a 53-year-old local man. [@1,2] The detention was
 on suspicion of illegally storing drugs on a large scale. [@1] The man had not
 previously been convicted. [@1]
 
 Officers of the drug-trafficking control division searched his household in
 Yubileyny Lane. [@1] In a utility room and farm outbuildings, the officers found
-drying bushes. [@1] The officers also found a bucket and bags containing plant
-material in the same premises. [@1] The seized material was sent for forensic
+drying bushes. [@1,2] The officers also found a bucket and bags containing plant
+material in the same premises. [@1,2] The seized material was sent for forensic
 examination. [@1] The examination confirmed that the police had found more than
-3 kilograms of cannabis plants and over 570 grams of marijuana. [@1] Together,
+3 kilograms of cannabis plants and over 570 grams of marijuana. [@1,2] Together,
 the seizure amounted to more than 3.5 kilograms of cannabis and marijuana. [@1]
 
 According to the Interior Ministry, the suspect gave a confession. [@1] A
 criminal case for large-scale illegal drug storage was opened against him. [@1]
-He was placed in procedural detention. [@1]
-
+He was placed in procedural detention. [@1,2]
