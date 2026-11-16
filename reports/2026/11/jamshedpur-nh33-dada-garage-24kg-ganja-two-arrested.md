@@ -87,6 +87,10 @@ sources:
     publisher: Sharp Bharat News
     date: 2026-11-14
     language: hi
+  - title: Two arrested with 24 kg ganja worth Rs 12 lakh in Jamshedpur
+    url: https://theprint.in/india/two-arrested-with-24-kg-ganja-worth-rs-12-lakh-in-jamshedpur/3099005/
+    publisher: ThePrint
+    date: 2026-11-14
 open_questions:
   - The Hindi reports give 23.940 kg while the PTI account rounds the seizure to 24 kg; the report uses the precise 23.940 kg figure.
   - The two per-person weights of 15.450 kg and 8.497 kg add to 23.947 kg, 7 grams more than the reported total of 23.940 kg.
@@ -115,7 +119,7 @@ of 17 packets with 23.940 kg of ganja, one mobile phone and Rs 2,200 in cash
 from the two accused. [@1]
 
 The team conducted the raid near Pardih on NH-33 within Azadnagar police station
-limits on Friday and recovered 24 kg of ganja packed in 17 packets. [@4] Police
-valued the 24 kg of ganja at around Rs 12 lakh. [@4] The accused were forwarded
+limits on Friday and recovered 24 kg of ganja packed in 17 packets. [@4,7] Police
+valued the 24 kg of ganja at around Rs 12 lakh. [@4,7] The accused were forwarded
 to judicial custody on Saturday after a case was registered under the NDPS Act.
 [@4] Police said they had registered primary cases against both accused and begun further legal action, with the investigation focused on tracing the source of the consignment and the trafficking network behind it. [@6]
