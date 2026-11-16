@@ -62,6 +62,16 @@ sources:
     publisher: MSN
     date: 2026-11-16
     language: ja
+  - title: 「自分で使用するために…」自宅の庭で大麻草を栽培した疑い　岡山市東区の無職の男（67）を再逮捕
+    url: https://newsdig.tbs.co.jp/articles/rsk/3087715?display=1
+    publisher: RSK山陽放送
+    date: 2026-11-16
+    language: ja
+  - title: 「自分で使用するために…」自宅の庭で大麻草を栽培した疑い　岡山市東区の無職の男（67）を再逮捕
+    url: https://newsdig.tbs.co.jp/articles/rsk/3087715?page=2&display=1
+    publisher: RSK山陽放送
+    date: 2026-11-16
+    language: ja
 open_questions:
     - No weight was published for the single cannabis cigarette, so no kilograms are recorded.
     - No count was published for the cannabis plants grown in the garden, so no plant figure is recorded.
@@ -85,6 +95,6 @@ man’s home on 4 November and found one cannabis cigarette, which led them to
 arrest him. [@2]
 
 During questioning the man admitted the allegation, telling police that it was
-correct. [@1,3,4] The man admitted the cultivation allegation, telling police he grew it for his own use. [@5,6] Officers also found a plant resembling cannabis in the garden of
-the residence. [@1,3,5] Police allege he grew cannabis in his home garden between 15 October and 4 November 2026. [@5,6] Police are investigating the garden find on suspicion that
+correct. [@1,3,4] The man admitted the cultivation allegation, telling police he grew it for his own use. [@5,6,8] Officers also found a plant resembling cannabis in the garden of
+the residence. [@1,3,5] Testing of the suspected plants seized from the man's garden confirmed they were cannabis, leading to the re-arrest on 16 November. [@8] Police allege he grew cannabis in his home garden between 15 October and 4 November 2026. [@5,6,7] Police are investigating the garden find on suspicion that
 the man had been cultivating cannabis. [@1,3] On 16 November police re-arrested the 67-year-old unemployed man on suspicion of cultivating cannabis in violation of the cannabis cultivation regulation. [@5,6]
