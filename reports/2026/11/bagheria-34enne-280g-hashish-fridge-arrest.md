@@ -47,6 +47,11 @@ sources:
     publisher: PalermoToday
     date: 2026-11-15
     language: it
+  - title: Bagheria, arrestato 34enne con 280 g di hashish
+    url: https://www.ilmoderatore.it/bagheria-carabinieri-arresto-spaccio-hashish/
+    publisher: Il Moderatore
+    date: 2026-11-15
+    language: it
 open_questions:
     - The hashish is reported only as more than 280 grams, with no exact weight or split between the bedroom and refrigerator hiding places.
     - The substance is described as hashish with no laboratory confirmation reported.
@@ -58,15 +63,15 @@ open_questions:
 
 In the town of Bagheria, in the province of Palermo, Carabinieri arrested a
 34-year-old man accused of possessing narcotic substances with intent to sell.
-[@1,2] The preliminary-investigations judge of the Termini Imerese court, on the
+[@1,2] The arrest was part of a coordinated territorial-control service aimed at drug dealing and property crimes. [@3] The preliminary-investigations judge of the Termini Imerese court, on the
 request of the public prosecutor, validated the arrest and placed the man under
-house arrest. [@1]
+house arrest. [@1,3]
 
 Carabinieri officers carried out a home search of the dwelling used by the
-34-year-old with the support of dog handlers and the sniffer dog Axa. [@1]
+34-year-old with the support of dog handlers and the sniffer dog Axa. [@1,3] The search was carried out by the Bagheria station and the Radiomobile section together with the Palermo Villagrazia canine unit. [@3]
 Guided by its sense of smell, Axa located more than 280 grams of hashish hidden
-in the bedroom and inside the refrigerator. [@1,2] Officers also recovered
-assorted materials for packaging the drug found with the hidden hashish. [@1,2]
+in the bedroom and inside the refrigerator. [@1,2,3] Officers also recovered
+assorted materials for packaging the drug found with the hidden hashish. [@1,2,3]
 
 The operation is presented as a canine-assisted home search of the dwelling in
 the suspect's use, in which the dog's sense of smell led officers to more than
