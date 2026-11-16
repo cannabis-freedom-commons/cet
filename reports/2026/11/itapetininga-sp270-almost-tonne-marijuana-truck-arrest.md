@@ -48,6 +48,11 @@ media:
     media_url: https://policialpadrao.com.br/wp-content/uploads/2026/11/Copia-de-Design-sem-nome-2026-11-15T090218.741-1024x640-1.png
     publisher: Policial Padrão
     caption: 'Marijuana tablets found in the truck''s cargo compartment. Photo: Portal de Notícias da PMESP'
+  - kind: photo
+    url: https://plox.com.br/noticia/15/11/2026/motorista-preso-maconha-itapetininga
+    media_url: https://static.plox.com.br/uploads/body/news/2026-11/img_6afa1d9416d1a.avif
+    publisher: Plox
+    caption: 'Seized marijuana load from the SP-270 truck interception in Itapetininga. Photo: PMRv-SP/Divulgação'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8284a7a4f4e01410c00cf303f65f6ead
@@ -68,6 +73,11 @@ sources:
     publisher: Diário do Povo
     date: 2026-11-15
     language: pt
+  - title: Caminhão com 995 quilos de maconha é interceptado na Raposo Tavares, em Itapetininga | Plox
+    url: https://plox.com.br/noticia/15/11/2026/motorista-preso-maconha-itapetininga
+    publisher: Plox
+    date: 2026-11-15
+    language: pt
 open_questions:
     - 'No exact weight was published: one account says almost one tonne and the new account says about 995 kg in about 587 bricks and 22 bales, so 1,000 kg is stored as the supported approximate figure.'
     - The value is stated only as almost R$2 million, not an exact appraisal.
@@ -76,15 +86,15 @@ open_questions:
     - Both accounts reproduce the highway police account, so they are not fully independent reporting.
 ---
 
-Highway police arrested the truck driver in flagrante. [@1,2,3] The driver was 25 years old. [@3] Officers took the
+Highway police arrested the truck driver in flagrante. [@1,2,3,4] The driver was 25 years old. [@3] Officers took the
 driver to the Civil Police station in Itapetininga, where he was booked for drug
-trafficking. [@1,2,3] The driver said he received the loaded vehicle in Maringá and was offered payment to carry a load described as refrigerator and air-conditioning parts to a company in the Brás district of São Paulo. [@3]
+trafficking. [@1,2,3,4] The driver said he received the loaded vehicle in Maringá and was offered payment to carry a load described as refrigerator and air-conditioning parts to a company in the Brás district of São Paulo. [@3]
 
 Officers seized almost one tonne of marijuana from the truck on Saturday 14
-November on the Raposo Tavares highway (SP-270) in Itapetininga. [@1,2,3] Officers also seized the truck, a cell phone and R$395. [@3] Officers found about 587 bricks and 22 bales of marijuana in the cargo compartment. [@3] The
-highway police valued the load at almost R$2 million. [@1,2]
+November on the Raposo Tavares highway (SP-270) in Itapetininga. [@1,2,3,4] Officers also seized the truck, a cell phone and R$395. [@3] Officers found about 587 bricks and 22 bales of marijuana in the cargo compartment. [@3] The
+highway police valued the load at almost R$2 million. [@1,2,4]
 
 Officers of the Tático Ostensivo Rodoviário of the 5th Highway Police Battalion
-seized the load at kilometre 167 of the highway. [@1,2,3] During an inspection the
+seized the load at kilometre 167 of the highway. [@1,2,3,4] During an inspection the
 driver gave contradictory information, which prompted officers to search the
-cargo. [@1,3] The truck's identification plate was folded. [@3] The tablets were hidden in the truck's cargo compartment. [@2]
+cargo. [@1,3,4] The truck's identification plate was folded. [@3] The tablets were hidden in the truck's cargo compartment. [@2,4]
