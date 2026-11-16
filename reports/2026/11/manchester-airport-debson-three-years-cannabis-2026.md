@@ -58,6 +58,11 @@ media:
     media_url: https://i2-prod.dailystar.co.uk/article37880681.ece/ALTERNATES/s1200e/0_Custody-for-media-3.jpg
     publisher: Daily Star
     caption: 'Jack Debson in the custody photo published with the report on the Manchester Airport cannabis suitcases. Photo: Manchester Police'
+  - kind: photo
+    url: https://www.dailymail.com/news/article-16295855/Pensioner-caught-two-suitcases-cannabis-airport-flight-Thailand.html
+    media_url: https://i.dailymail.com/1s/2026/11/16/17/112532605-16295855-Jack_Debson_74_was_caught_with_33kg_of_the_drug_worth_100_000_at-m-2_1794848690493.jpg
+    publisher: Daily Mail
+    caption: Jack Debson, 74, in the photo published with the report on the Manchester Airport cannabis suitcases.
 status: verified
 created_by_model: muse/muse-ember-1.0#max
 submission: 38724d1af4c4521617f5b3e20e360ebf
@@ -80,17 +85,21 @@ sources:
     url: https://saharareporters.com/2026/11/16/uk-court-jails-74-year-old-man-importing-33kg-cannabis-worth-ps100000-thailand
     publisher: Sahara Reporters
     date: 2026-11-16
+  - title: Pensioner, 74, caught with two suitcases stuffed with cannabis at British airport after flight from Thailand | Daily Mail Online
+    url: https://www.dailymail.com/news/article-16295855/Pensioner-caught-two-suitcases-cannabis-airport-flight-Thailand.html
+    publisher: Daily Mail
+    date: 2026-11-16
 ---
 
 Jack Debson, 74, of Brownbill Bank, Liverpool, was jailed for three years at
 Manchester Crown Court after admitting being concerned in the fraudulent evasion
-of a prohibition on the importation of a class B drug, namely cannabis. [@1,2,3]
+of a prohibition on the importation of a class B drug, namely cannabis. [@1,2,3,5]
 Border Force officers stopped Debson in Terminal 2 at Manchester Airport on 11
-June 2026 after he arrived on a flight from Thailand via Dubai. [@1,2,3] When the
+June 2026 after he arrived on a flight from Thailand via Dubai. [@1,2,3,5] When the
 first suitcase was opened, black vacuum-sealed packages containing the class B
-drug were found under a towel. [@1,4] More vacuum-sealed packages containing drugs
-were found under another towel in the second suitcase. [@1] In total, the
-cannabis found weighed 33.25 kilos with a street value of £100,000. [@1,2,3,4]
+drug were found under a towel. [@1,4,5] More vacuum-sealed packages containing drugs
+were found under another towel in the second suitcase. [@1,5] In total, the
+cannabis found weighed 33.25 kilos with a street value of £100,000. [@1,2,3,4,5]
 
 Debson at first denied the drugs found in his suitcases had anything to do with
 him. [@1,4] He told officers he had packed both suitcases himself and that they
