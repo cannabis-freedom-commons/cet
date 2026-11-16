@@ -69,11 +69,18 @@ sources:
     publisher: Jornal Opção | Brasília e Entorno
     date: 2026-11-15
     language: pt
+  - title: ROTAM descobre estufa de maconha e prende dois suspeitos no Jardim Ingá
+    url: https://ogritonews.com.br/2026/11/14/rotam-descobre-estufa-de-maconha-e-prende-dois-suspeitos-no-jardim-inga/
+    publisher: Jornal O Grito
+    date: 2026-11-14
+    language: pt
+open_questions:
+  - The submitted account reports only the 28 plants found in the greenhouse and does not mention the six plants the earlier account says were found with the pair, so the 34-plant total rests on the earlier source.
 ---
 
 A tip led the Polícia Militar de Goiás (PMGO) to discover a clandestine cannabis
 plantation inside a house in Setor Dalva IX, in the Jardim Ingá district of
-Luziânia, in the Entorno do Distrito Federal. [@1] During the operation two men
+Luziânia, in the Entorno do Distrito Federal. [@1,5] During the operation two men
 were arrested and 34 cannabis plants were seized, 28 of them found in an
 improvised greenhouse inside the house. [@1,4] The action began after the
 intelligence service of the Rondas Ostensivas Táticas Metropolitanas (Rotam)
@@ -83,12 +90,12 @@ supposedly for sale. [@1]
 A personal search found six cannabis plants with the pair, who confessed,
 according to the PM, that they grew the drug intending to sell it. [@1,4] Inside
 the house officers found an improvised structure working as a greenhouse with
-another 28 cannabis plants, raising the total seized to 34. [@1] Globo's Jornal
+another 28 cannabis plants, raising the total seized to 34. [@1,5] Globo's Jornal
 Anhanguera reported that the Military Police found a greenhouse with 28 cannabis
 plants in Luziânia, Goiás, and had no information on arrests related to the
 incident. [@2,3]
 
 The two men were told they were under arrest and taken to the Central de
-Flagrantes with the seized plants for legal procedures. [@1,4] The PM gave no
+Flagrantes with the seized plants for legal procedures. [@1,4] Both men were taken to the police station, but after the case review and statements one remained in custody while the other was released after the inquiry indicated he had no involvement with the cultivation found at the property. [@5] The PM gave no
 identity or age for the suspects, and no details of how long the plantation had
 run or how much drug would be sold. [@1]
