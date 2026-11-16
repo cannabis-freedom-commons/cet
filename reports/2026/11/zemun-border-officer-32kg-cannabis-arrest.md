@@ -53,11 +53,11 @@ sources:
     publisher: Politika Online
     date: 2026-11-15
     language: sr
-open_questions:
-  - No separate time for the operation was given; 15 November 2026, the date of the prosecutor's statement and publication, is used as the incident date.
-  - Both amounts were reported only as approximate, about 30 kilograms plus about two kilograms, with no laboratory confirmation reported.
-  - Early reports described the second person held only as a woman, while the prosecutor's statement identifies D. K. aged 55; the exact role of each suspect was not reported.
-  - No court outcome beyond 48-hour detention and a pending hearing was reported.
+  - title: САОПШТЕЊЕ – ВИШЕ ЈАВНО ТУЖИЛАШТВО У БЕОГРАДУ
+    url: https://beograd.vjt.rs/aktuelnosti/saopstenje-1496/
+    publisher: Више јавно тужилаштво у Београду
+    date: 2026-11-15
+    language: sr
 ---
 
 Two people were arrested on the order of the Higher Public Prosecutor's Office
@@ -70,10 +70,10 @@ Border Police at the Gostun crossing on the border with Montenegro. [@1,3]
 
 Officers of the Interior Ministry's Department for Control of Legality arrested
 the suspects during an attempted handover of about 30 kilograms of cannabis in
-the municipality of Zemun. [@2] A search of the suspected handover location
-found about two kilograms more cannabis. [@2] The first account described the
+the municipality of Zemun. [@2,4] A search of the suspected handover location
+found about two kilograms more cannabis. [@2,4] The first account described the
 seizure as a bag with about 30 kilograms of marijuana taken from the 22-year-old
 man from Prijepolje. [@1,3]
 
 The suspects were ordered held for up to 48 hours before being brought for
-questioning at the Higher Public Prosecutor's Office in Belgrade. [@2]
+questioning at the Higher Public Prosecutor's Office in Belgrade. [@2,4]
