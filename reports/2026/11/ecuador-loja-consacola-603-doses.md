@@ -45,23 +45,22 @@ sources:
     publisher: Diario Crónica (Loja)
     date: 2026-11-13
     language: es
-open_questions:
-  - The cocaine mentioned in the headline has no quantity or attribution in the article body, so no cocaine figure is recorded.
-  - No charges, prosecution or court outcome had been reported.
-  - The police figure of more than 603 doses is an estimate of what would have been distributed, not a separately verified count.
-  - The full identities of the two apprehended men were not published, only their initials.
+  - title: 警方在洛哈的行动中缴获了2800加仑柴油和600多剂大麻
+    url: https://www.52hrtt.com/ec/n/w/info/A1794454046268
+    publisher: 厄瓜多尔华人时事分享
+    date: 2026-11-15
+    language: zh
 ---
 
 Anti-drug officers of the Loja Subzone ran an operation against sellers of
 controlled substances in the Consacola circuit, north-west of the city of Loja,
-on the afternoon and night of 11 November 2026. [@1]
+on the afternoon and night of 11 November 2026. [@1,2]
 
 The operation apprehended Ecuadorian Stalin M. P., caught with 295 grams of
-marijuana. [@1] Officers also confiscated from him a scale, a mobile phone and
-95 dollars in banknotes of various denominations. [@1] Santiago A. M. had 6.5
+marijuana. [@1,2] Officers also confiscated from him a scale, a mobile phone and
+95 dollars in banknotes of various denominations. [@1,2] Santiago A. M. had 6.5
 grams of marijuana and 5.04 dollars on him, and a motorcycle and a phone were
-also seized. [@1]
+also seized. [@1,2]
 
 The anti-drug team said it kept more than 603 doses from being distributed in
-different neighbourhoods of the city of Loja. [@1]
-
+different neighbourhoods of the city of Loja. [@1,2]
