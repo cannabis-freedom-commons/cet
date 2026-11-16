@@ -87,20 +87,32 @@ sources:
     publisher: 読売新聞
     date: 2026-11-15
     language: ja
+  - title: 大麻所持容疑で現行犯逮捕された７５歳男、自宅で大麻草栽培の疑い…「外から見えないようにしていた」 (読売新聞オンライン) - Yahoo!ニュース
+    url: https://news.yahoo.co.jp/articles/dfd1aa58d258995c6ad3d0edfa279a6f36adbb74/images/000
+    publisher: Yahoo!ニュース (読売新聞オンライン)
+    date: 2026-11-15
+    language: ja
+    archived: https://web.archive.org/web/20261115100302id_/https://news.yahoo.co.jp/articles/dfd1aa58d258995c6ad3d0edfa279a6f36adbb74/images/000
 open_questions:
   - Accounts differ on whether the dried cannabis seized weighed about 1 kilogram or more than 1 kilogram.
+media:
+  - kind: photo
+    url: https://news.yahoo.co.jp/articles/dfd1aa58d258995c6ad3d0edfa279a6f36adbb74/images/000
+    media_url: https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26prFxzDF7hmKqhUedbx4TYgdBaM1qX6HXINTCP-A1CC5g42SPDAQJ86iNXGtGarw-f5k-4v5mgOwUgZwYAxtVxLWaYbTj7MkiHjRlMRHrpwf
+    publisher: Yahoo!ニュース (読売新聞オンライン)
+    caption: 'Cannabis plants seized from the suspect''s home, in the Nagano Prefectural Police handout photo published with the Yomiuri story. Photo: Nagano Prefectural Police via Yomiuri'
 ---
 
 Police arrested a 75-year-old unemployed man from Ikeda, Nagano Prefecture, by
 10 November 2026 on suspicion of growing cannabis at his home and possessing
-narcotics. [@2,4,5,7,8] He was arrested on suspicion of violations of the Narcotics and
+narcotics. [@2,4,5,7,8,9] He was arrested on suspicion of violations of the Narcotics and
 Psychotropics Control Act and other laws, the report said. [@2,4] The 10 November arrest included suspicion of violating the cannabis-plant cultivation-control law for cultivation. [@7] Investigators
 said he grew about 90 cannabis plants in his garden and inside the house. [@2,5,6,8]
 Officers found 1 kilogram of dried cannabis at the house, and police believe he
 grew it. [@2,5,6,8] The arrest was the third in the cultivation case, made by Omachi
 police station with prefectural police, the Shinano Mainichi Shimbun reported.
 [@3] The newspaper published a police handout photo of the cannabis plants
-seized from the grounds of the man's home. [@3] A woman living near the home said there had long been rumours about cultivation and that the man had little neighbourhood contact and had covered his veranda with paper-like material so it could not be seen from outside. [@7,8]
+seized from the grounds of the man's home. [@3,9] A woman living near the home said there had long been rumours about cultivation and that the man had little neighbourhood contact and had covered his veranda with paper-like material so it could not be seen from outside. [@7,8]
 
 The man had first been arrested red-handed on 29 September 2026 for possessing 1
 gram of narcotics at home and was later re-arrested on suspicion of using
