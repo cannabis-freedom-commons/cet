@@ -77,6 +77,11 @@ sources:
     publisher: فيتو
     date: 2026-11-15
     language: ar
+  - title: ضبط 3 عاطلين وبحوزتهم 7 كيلو حشيش وبندقية آلية في الغربية | المصري اليوم
+    url: https://www.almasryalyoum.com/news/details/4410777
+    publisher: المصري اليوم
+    date: 2026-11-15
+    language: ar
 media:
   - kind: photo
     url: https://www.youlyou.com/94304
@@ -106,18 +111,18 @@ media:
 ---
 
 Security services uncovered the circumstances of a post supported by a video
-clip that had been circulated on social media. [@1,3,4,6,8,9] The poster complained that
+clip that had been circulated on social media. [@1,3,4,6,8,9,12] The poster complained that
 the occupants of a private car were promoting narcotic substances in a village
-in Gharbia Governorate. [@1,2,3,4,5,8,9,10,11] Investigators identified the car appearing in the
-video and arrested those responsible for the incident. [@1,4,7,9] The three are
+in Gharbia Governorate. [@1,2,3,4,5,8,9,10,11,12] Investigators identified the car appearing in the
+video and arrested those responsible for the incident. [@1,4,7,9,12] The three are
 unemployed men, two of whom have criminal records, and they live in Gharbia and
-Kafr El Sheikh governorates. [@1,2,3,4,5,6,8,9,10,11]
+Kafr El Sheikh governorates. [@1,2,3,4,5,6,8,9,10,11,12]
 
 After legal procedures were completed, officers arrested the suspects while they
 held more than 7 kilograms of hashish. [@1,2,3,4,5,7,9,11] They also held a quantity of ice
-drug and an automatic rifle alongside the hashish. [@1,2,3,4,5,6,8,9,10,11] When confronted, the men
+drug and an automatic rifle alongside the hashish. [@1,2,3,4,5,6,8,9,10,11,12] When confronted, the men
 admitted committing the act as described and possessing the narcotics for the
-purpose of trafficking. [@1,2,3,4,5,6,8,9,10,11] The suspects said they kept the firearms to protect their criminal activity. [@11]
+purpose of trafficking. [@1,2,3,4,5,6,8,9,10,11,12] The suspects said they kept the firearms to protect their criminal activity. [@11]
 
 Authorities took the necessary legal measures against the suspects, and the
-Public Prosecution took over the investigation. [@1,2,3,4,5,7,8,9,11]
+Public Prosecution took over the investigation. [@1,2,3,4,5,7,8,9,11,12]
