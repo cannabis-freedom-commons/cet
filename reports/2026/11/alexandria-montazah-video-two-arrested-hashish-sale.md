@@ -73,13 +73,18 @@ sources:
     publisher: تليجراف مصر
     date: 2026-11-14
     language: ar
+  - title: ضبط 6 أشخاص بحوزتهم هيروين بعد تداول فيديو لتعاطي المخدرات أسفل كوبري بالإسكندرية - تليجراف مصر
+    url: https://www.egypttelegraph.com/article/295903/%D8%B6%D8%A8%D8%B7-6-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85-%D9%87%D9%8A%D8%B1%D9%88%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%AF%D8%A7%D9%88%D9%84
+    publisher: تليجراف مصر
+    date: 2026-11-14
+    language: ar
 ---
 
 Security services identified two men from a video on social media in which its
 publisher complained that they were selling and using drugs on a street in
-Alexandria Governorate, and arrested them. [@1,4,5,7] Both arrested men are unemployed
-and live in the First Montazah police district in eastern Alexandria. [@1,5,6,7] A
-quantity of hashish and two mobile phones were found with the two men. [@1,5,6,7] A
+Alexandria Governorate, and arrested them. [@1,4,5,7,8] Both arrested men are unemployed
+and live in the First Montazah police district in eastern Alexandria. [@1,5,6,7,8] A
+quantity of hashish and two mobile phones were found with the two men. [@1,5,6,7,8] A
 Masrawy account of the Interior Ministry statement gives the same two arrests in
 the First Montazah district and the same hashish and two phones found with them.
 [@2]
@@ -87,7 +92,7 @@ the First Montazah district and the same hashish and two phones found with them.
 The Interior Ministry said no formal complaints had been filed about the
 incident before its security services acted on the video. [@1,7] Questioned, the
 two admitted the offence as shown in the video and said it happened on 30
-October. [@1,5,6,7] Both admitted holding drugs both for their own use and for sale,
+October. [@1,5,6,7,8] Both admitted holding drugs both for their own use and for sale,
 and the public prosecution opened an investigation. [@1,6] The Masrawy account
 also reports that both admitted holding the drugs for use and for trafficking
 and that the public prosecution took over the investigation. [@2]
