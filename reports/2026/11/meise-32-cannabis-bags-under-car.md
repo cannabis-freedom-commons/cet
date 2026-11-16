@@ -56,18 +56,23 @@ sources:
     publisher: VRT NWS
     date: 2026-11-13
     language: nl
+  - title: 'Man probeert zak met cannabis onder auto te verstoppen in Meise: politie vindt nog meer drugs bij huiszoeking | Regio | HLN.be'
+    url: https://www.hln.be/meise/man-probeert-zak-met-cannabis-onder-auto-te-verstoppen-in-meise-politie-vindt-nog-meer-drugs-bij-huiszoeking~a60b19fa/
+    publisher: HLN
+    date: 2026-11-14
+    language: nl
 open_questions:
     - No weight is given for the cannabis seized; both accounts report only the number of doses.
 ---
 
 On 8 November, police stopped a 21-year-old man in Meise after he tried to hide
-a plastic bag under a parked car. The stop came at 12:40. [@2] Police commissioner Franky Maes of local police zone K-L-M gave the account of the stop and the searches. [@2] The bag held 32 separately wrapped packets of
+a plastic bag under a parked car. The stop came at 12:40. [@2,4] Police commissioner Franky Maes of local police zone K-L-M gave the account of the stop and the searches. [@2] The bag held 32 separately wrapped packets of
 cannabis, each a single user dose; a search also found a grinder, rolling
-papers, a phone and cash. [@1,2] The man denied involvement with the drugs. [@1]
+papers, a phone and cash. [@1,2,4] The man denied involvement with the drugs. [@1,4]
 
 Later the same day a house search with a drug dog found cocaine, hashish and
-marijuana, which police seized. [@1,2]
+marijuana, which police seized. [@1,2,4]
 
 On instruction of the Halle-Vilvoorde prosecutor, the suspect was brought before
 the Brussels investigating magistrate, and local police continue the
-investigation. [@1,3]
+investigation. [@1,3,4] The investigating judge detained the man. [@4]
