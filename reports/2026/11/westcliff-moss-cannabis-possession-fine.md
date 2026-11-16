@@ -41,6 +41,10 @@ sources:
     url: https://www.echo-news.co.uk/news/26722061.westcliff-resident-fined-possessing-cannabis-southend/
     publisher: Echo
     date: 2026-11-12
+  - title: 'Courts: South Essex residents sentenced by magistrates | Echo'
+    url: https://www.echo-news.co.uk/news/26728378.courts-south-essex-residents-sentenced-magistrates/
+    publisher: Echo
+    date: 2026-11-14
 open_questions:
   - The article gives May 4 and November 2 without years; 2026 is inferred from its 12 November 2026 publication date.
   - No weight or quantity was given for the cannabis possessed, so no kilograms can be recorded.
@@ -49,13 +53,12 @@ open_questions:
 
 Allan Moss is a Westcliff resident who, aged 24 and of Westcliff Avenue, was in
 possession of a quantity of cannabis, described as a class B drug, in Southend
-on May 4. [@1] His possession case was dealt with at Chelmsford Magistrates'
-Court and Family Court, which sentenced him on November 2. [@1]
+on May 4. [@1,2] His possession case was dealt with at Chelmsford Magistrates'
+Court and Family Court, which sentenced him on November 2. [@1,2]
 
-For the offence the court imposed a fine of £266 on Moss. [@1] The court also
+For the offence the court imposed a fine of £266 on Moss. [@1,2] The court also
 ordered Moss to pay £85 in costs and a £106 surcharge, with the full amount due
-by November 30. [@1]
+by November 30. [@1,2]
 
 The court ordered that the cannabis involved be forfeited and directed police to
-destroy it. [@1]
-
+destroy it. [@1,2]
