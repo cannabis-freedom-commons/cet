@@ -92,10 +92,15 @@ sources:
     publisher: AlgerieDirect
     date: 2026-11-15
     language: ar
+  - title: الحشيش المغربي يواصل إثارة المتاعب.. ضربات إسبانية تكشف شبكات التهريب - ديزاد نيوز-Dznews
+    url: https://dznews.dz/%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D9%8A%D9%88%D8%A7%D8%B5%D9%84-%D8%A5%D8%AB%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%A7%D8%B9%D8%A8-%D8%B6%D8%B1/
+    publisher: ديزاد نيوز-Dznews
+    date: 2026-11-15
+    language: ar
 ---
 
 Spain's UDYCO drug unit arrested a truck driver at the port of Ceuta carrying a
-stash of hashish hidden in a sophisticated false bottom. [@3,4,5,6,9] Officers
+stash of hashish hidden in a sophisticated false bottom. [@3,4,5,6,9,10] Officers
 intercepted the truck on the port road at the Muelle de Poniente and searched it
 with support from the UPR prevention unit and the canine group. [@3] They found
 the hashish and detained the driver, showing him the drugs found in the vehicle
@@ -103,12 +108,12 @@ he was driving. [@2]
 
 The truck appeared empty and was heading toward boarding for Spain when a
 specialist drugs dog alerted, prompting an exhaustive hours-long search inside
-and outside the vehicle. [@2,7] After the hours-long detailed inspection, officers
-found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6,7,9]
+and outside the vehicle. [@2,7,10] After the hours-long detailed inspection, officers
+found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6,7,9,10]
 Officers recovered numerous bags of hashish from the trailer's false bottom,
 with first estimates putting the haul above 300 kilograms although police gave
 no official weight. [@3] The submitted account describes the seizure as about
-300 kilograms of hashish arriving from Morocco. [@1,5,6,7,9]
+300 kilograms of hashish arriving from Morocco. [@1,5,6,7,9,10]
 
 The handcuffed driver was taken to police headquarters and placed under
 investigation for an offence against public health. [@2] A judge ordered the driver held in pre-trial detention on Sunday after he was presented to the court. [@8] Police link the
