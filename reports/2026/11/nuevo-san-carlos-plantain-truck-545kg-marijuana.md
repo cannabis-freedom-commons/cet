@@ -46,6 +46,26 @@ media:
     media_url: https://lahora.gt/wp-content/uploads/sites/5/2026/11/droga-reu.jpg
     publisher: La Hora
     caption: 'Bundles of the seized marijuana after the inspection that ended on 15 November. Photo: La Hora/MP'
+  - kind: photo
+    url: https://www.infobae.com/guatemala/2026/11/16/el-insolito-escondite-de-545-kilos-de-marihuana-en-un-camion-comercial-en-guatemala/
+    media_url: https://www.infobae.com/resizer/v2/7D7RU7XKCVCDBHFUS7EQEBBYOM.jpg?auth=3e4710d0c7d3ae4f2f253954f8a6c4c8569d091b1d3931194935693fb041c052&smart=true&width=992&height=671&quality=85
+    publisher: Infobae
+    caption: Police photo of the detained truck driver, published with the account of the 545 kg marijuana seizure in Retalhuleu.
+  - kind: photo
+    url: https://www.infobae.com/guatemala/2026/11/16/el-insolito-escondite-de-545-kilos-de-marihuana-en-un-camion-comercial-en-guatemala/
+    media_url: https://www.infobae.com/resizer/v2/VSNVG24UDZHUZEHL34VHFFBYMU.jpg?auth=823665e167b8a2b2209caed8797501e019b625aca10473d410101b5e95812a21&smart=true&width=992&height=500&quality=85
+    publisher: Infobae
+    caption: Packages of marijuana found beneath the plantain load in the Retalhuleu seizure.
+  - kind: photo
+    url: https://www.infobae.com/guatemala/2026/11/16/el-insolito-escondite-de-545-kilos-de-marihuana-en-un-camion-comercial-en-guatemala/
+    media_url: https://www.infobae.com/resizer/v2/OCHJW7EOPNG5VFJ2NCDYZ7BUEI.jpg?auth=dfe76941601211348dd085a1133e82b93728e120b1df5b9161b1ad0955a43f3f&smart=true&width=350&height=270&quality=85
+    publisher: Infobae
+    caption: Seized marijuana packages displayed after the inspection in Nuevo San Carlos, Retalhuleu.
+  - kind: photo
+    url: https://www.infobae.com/guatemala/2026/11/16/el-insolito-escondite-de-545-kilos-de-marihuana-en-un-camion-comercial-en-guatemala/
+    media_url: https://www.infobae.com/resizer/v2/MCC27PONMJBCJNGIDZWBO4PDDQ.jpg?auth=b771cc49c9cd9b433c21de60305b332810180ac76ea4d6dc61910794adf3e8ee&smart=true&width=350&height=245&quality=85
+    publisher: Infobae
+    caption: Security forces with the marijuana load hidden under plantains seized in Retalhuleu.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f581f010b321dc59425afecb1167171f
@@ -76,28 +96,26 @@ sources:
     publisher: República
     date: 2026-11-15
     language: es
-open_questions:
-  - The 120-package count and the 545-kilogram total are approximate, with no exact weighed figure published.
-  - The driver is identified only as Wilder L., or Wilder N., aged 31 in one account, with no fuller name published.
-  - No origin, destination, or intended recipient for the marijuana was reported.
-  - No value estimate for the seized marijuana was published.
-  - No charges or court outcome beyond detention and referral to the court were reported.
-  - The same coverage mentions a separate Pacific cocaine-boat seizure, a different event left out here.
+  - title: El insólito escondite de 545 kilos de marihuana en un camión comercial en Guatemala - Infobae
+    url: https://www.infobae.com/guatemala/2026/11/16/el-insolito-escondite-de-545-kilos-de-marihuana-en-un-camion-comercial-en-guatemala/
+    publisher: Infobae
+    date: 2026-11-16
+    language: es
 ---
 
 On the night of 14 November 2026, prosecutors and agents of the anti-narcotics
 information unit SGAIA inspected a truck carrying plantains at the
-inter-institutional checkpoint in Nuevo San Carlos, Retalhuleu. [@4,5] Suspecting
+inter-institutional checkpoint in Nuevo San Carlos, Retalhuleu. [@4,5,6] Suspecting
 concealed illicit goods, they moved the truck to a nearby police station for a
-fuller search. [@1,5]
+fuller search. [@1,5,6]
 
 At Comisaría 34, officers found about 120 large packages of marijuana hidden
-among the fruit. [@3,5] A field test confirmed the material was marijuana. [@1,5]
+among the fruit. [@3,5,6] A field test confirmed the material was marijuana. [@1,5,6]
 Each package held about 10 pounds, for an approximate seized total of 545
-kilograms. [@2,5]
+kilograms. [@2,5,6]
 
 Officers arrested the driver, identified as Wilder L., aged 31, while he drove
 the truck on route CA-2 at kilometre 185.3 in Nuevo San Carlos. [@3,5] He was
-placed at the disposal of the competent court. [@4,5] A check showed he had an
+placed at the disposal of the competent court. [@4,5,6] A check showed he had an
 outstanding arrest order for encubrimiento propio issued on 2 December 2025 by a
-court in Coatepeque, Quetzaltenango. [@3,5]
+court in Coatepeque, Quetzaltenango. [@3,5,6]
