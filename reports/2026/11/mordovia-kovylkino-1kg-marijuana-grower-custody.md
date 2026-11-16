@@ -60,21 +60,19 @@ sources:
     publisher: Известия Мордовии
     date: 2026-11-16
     language: ru
-open_questions:
-  - No separate date for the detention or searches was given; 16 November 2026 is the publication date and is used as the incident date.
-  - The weight is stated only as over one kilogram, so the cannabis figure is recorded as 1 kg.
-  - The forest cache of about 150 grams is presented as part of the same haul but separate weights for the dacha bundle, jar, bag and the two Insar jars were not given.
-  - One cannabis bush found growing in the greenhouse is counted as one plant; the report does not say whether it was uprooted or destroyed.
-  - The account rests on a single Interior Ministry statement with no independent reporting found.
-  - The man was not named and no plea, trial date or court outcome was reported.
+  - title: В Мордовии расследуют дело местного жителя, у которого изъяли более 1 кг марихуаны
+    url: https://vestnik-rm.ru/news/kriminal/v-mordovii-rassleduyut-delo-mestnogo-zhitelya-u-kotorogo-izyali-bolee-1-kg-marihuany
+    publisher: Vestnik Mordovii
+    date: 2026-11-16
+    language: ru
 ---
 
 Drug-control officers of the Mordovia Interior Ministry together with the
 regional FSB stopped a 37-year-old local man suspected of attempted sale of
-plant-based drugs. [@1,2] Operatives caught him red-handed at a country house in
-Kovylkinsky District. [@1] The man was detained in October with a bundle of plant material. [@2,3] The Kovylkinsky Interior Ministry investigative
+plant-based drugs. [@1,2,4] Operatives caught him red-handed at a country house in
+Kovylkinsky District. [@1] The man was detained in October with a bundle of plant material. [@2,3,4] The Kovylkinsky Interior Ministry investigative
 department opened a criminal case against him for attempted drug sale under part
-3 of article 30 and part 4 of article 228.1 of the Criminal Code. [@1] He was
+3 of article 30 and part 4 of article 228.1 of the Criminal Code. [@1,4] He was
 placed in custody as a preventive measure. [@1]
 
 At the country house officers found a tape-wrapped bundle, a one-litre jar and a
@@ -85,7 +83,7 @@ found his equipped cache in woodland holding about 150 grams of plant material,
 and in an empty building in Insar belonging to his relatives two three-litre
 jars with similar contents plus electronic scales and packaging material. [@1,2,3]
 Experts identified the seized material as marijuana weighing over one kilogram,
-which police say he planned to sell through a shadow online shop. [@1,2] In total, officers seized 1,063 grams of marijuana from the man. [@2,3]
+which police say he planned to sell through a shadow online shop. [@1,2] In total, officers seized 1,063 grams of marijuana from the man. [@2,3,4]
 
 The investigation is continuing. [@1] Police are also considering administrative
 action against him for illegal cultivation of drug-containing plants under
