@@ -77,16 +77,21 @@ sources:
     publisher: Pressbee
     date: 2026-11-15
     language: ar
+  - title: الأمن الجنائي يضبط 15 متهماً في 12 قضية للاتجار بالمخدرات والمؤثرات العقلية وتعاطيها
+    url: http://alwatan.kuwait.tt/articledetails.aspx?id=837141&yearquarter=20264
+    publisher: Alwatan
+    date: 2026-11-15
+    language: ar
 ---
 
 Kuwait's Interior Ministry, through its Criminal Security Sector, seized 15
 people in 12 separate cases involving possession of narcotics and psychotropic
-substances for trafficking and use. [@1,2,3,4,5,6] The ministry said the people and
-seizures were referred to the competent authority for action. [@1,2,3,5,6]
+substances for trafficking and use. [@1,2,3,4,5,6,7] The ministry said the people and
+seizures were referred to the competent authority for action. [@1,2,3,5,6,7]
 
 The cannabis in the haul totalled 1.235 kilograms, comprising 1 kilogram of
-marijuana and 235 grams of hashish. [@1,2,3,4,5,6] Officers also seized 16 ampoules
-containing cannabis material, with no weight stated. [@1,2,5] The other seizures in
+marijuana and 235 grams of hashish. [@1,2,3,4,5,6,7] Officers also seized 16 ampoules
+containing cannabis material, with no weight stated. [@1,2,5,7] The other seizures in
 the haul included 1.011 kilograms of shabu, crystal methamphetamine, 123 sheets
 soaked in chemical material and 10 hair-oil bottles containing chemical
 material. [@1,4] The haul further included four Lyrica capsules, one gram of
@@ -95,6 +100,6 @@ heroin, one gram of cocaine and nine precision scales. [@1]
 In one case, coordinated with the General Administration of Customs, officers
 seized an Asian national after he received a shipment of hair-oil bottles
 containing chemical material, which he admitted bringing for trafficking in
-coordination with a person abroad. [@1,4,5] The suspect seized after receiving the hair-oil shipment was of Bangladeshi nationality. [@3,5] The Ahmadi governorate security
+coordination with a person abroad. [@1,4,5,7] The suspect seized after receiving the hair-oil shipment was of Bangladeshi nationality. [@3,5] The Ahmadi governorate security
 directorate also referred an Asian national seized in Mangaf with heroin, shabu
-and a sum of money. [@1,4,5] The suspect referred by the Ahmadi directorate after seizure in Mangaf was of Indian nationality. [@3,4]
+and a sum of money. [@1,4,5,7] The suspect referred by the Ahmadi directorate after seizure in Mangaf was of Indian nationality. [@3,4]
