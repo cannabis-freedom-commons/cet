@@ -126,6 +126,11 @@ sources:
     publisher: Yeni Alanya
     date: 2026-11-14
     language: tr
+  - title: Alanya'da 1 kilogram esrarla yakalanan şüpheli tutuklandı
+    url: https://yerel-haberler.haberturk.com/antalya-haberleri/alanyada-1-kilogram-esrarla-yakalanan-supheli-tutuklandi-119522077
+    publisher: Habertürk
+    date: 2026-11-14
+    language: tr
 media:
   - kind: photo
     url: https://www.alanyaturk.com/alanyada-jandarmadan-safak-baskini-ormanda-yetistirip-evinde-kurutmus
@@ -142,14 +147,14 @@ province, at dawn after technical and physical surveillance targeting drug
 trafficking. [@3] The teams carried out the raid at dawn as a simultaneous
 operation against the identified address as part of work against drug
 trafficking. [@1] Officers detained 39-year-old suspect Metin K. during the raid
-on the address in Yaylalı Mahallesi. [@1,4,5,8,9]
+on the address in Yaylalı Mahallesi. [@1,4,5,8,9,11]
 
 After his procedures at the gendarmerie, officers transferred the suspect to the
-Alanya courthouse under security measures. [@2,4,6,9,10] The on-duty court remanded Metin
+Alanya courthouse under security measures. [@2,4,6,9,10,11] The on-duty court remanded Metin
 K. on a charge of committing drug trafficking and sent him to Alanya L-Type
-Closed Prison. [@1,4,5,7,8,9] Officers searched the house and its outbuildings and seized
+Closed Prison. [@1,4,5,7,8,9,11] Officers searched the house and its outbuildings and seized
 1 kilogram of dried esrar obtained from the cannabis plant, and the seized drug
-was confiscated. [@2,4,5,6,7,8,9,10]
+was confiscated. [@2,4,5,6,7,8,9,10,11]
 
 Gendarmerie investigators determined that he had grown the cannabis in a wooded
 area, harvested it and brought it home to dry. [@3,6,7,8,9,10] The gendarmerie described
