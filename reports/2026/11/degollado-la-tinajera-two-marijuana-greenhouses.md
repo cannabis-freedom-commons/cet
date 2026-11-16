@@ -255,21 +255,26 @@ sources:
     publisher: POSTA México
     date: 2026-11-14
     language: es
+  - title: Nuevo golpe al CJNG; aseguran dos narcolaboratorios con capacidad para producir 17 mdp mensuales en droga
+    url: https://www.lajornadadeoriente.com.mx/puebla/aseguran-narcolaboratorios-cjng-el-tio-lako-jalisco/
+    publisher: La Jornada de Oriente
+    date: 2026-11-14
+    language: es
 ---
 
 Under Mexico's National Public Security Strategy, the National Guard and the
 Mexican Army, together with FEMDO of the Attorney General's Office and the
 Criminal Investigation Agency of the FGR, executed a technical investigation
 order at a property in the La Tinajera locality of the municipality of
-Degollado, Jalisco. [@1,4,19,20] On 13 November 2026 the Mexican Army, the National Guard and the FGR disabled two laboratories for producing synthetic drugs and two marijuana greenhouses in Degollado, Jalisco. [@7,9,12,13,14,17,18,19,22,23,24,25,26,27,28,30] The property was operated by a criminal group led by
+Degollado, Jalisco. [@1,4,19,20] On 13 November 2026 the Mexican Army, the National Guard and the FGR disabled two laboratories for producing synthetic drugs and two marijuana greenhouses in Degollado, Jalisco. [@7,9,12,13,14,17,18,19,22,23,24,25,26,27,28,30,31] The property was operated by a criminal group led by
 Heraclio 'N', alias Tío Laco, identified as the regional boss of the Jalisco New
 Generation Cartel in the area. [@1,4,8,9,10,12,17,18,19,20,21,23,24,25,26,30] The installations were operated by a group led by Heraclio Guerrero Martínez, alias Tío Lako, described as a regional CJNG chief with operations in Jalisco and Michoacán. [@6,11,22,28] Intelligence reports cited say Tío Lako had previously evaded federal operations in Tinaja de Vargas, Tanhuato, Michoacán, described as his main operations center. [@28] Federal forces identified Heraclio Guerrero Martínez as leader of Los Guerreros, an armed wing serving the cartel with influence on the Jalisco-Michoacán border strip. [@28]
 
 At the site the authorities seized firearms, cartridges, two synthetic-drug
-production centers and two marijuana greenhouses. [@1,4,5,8,9,11,12,19,21,24,26,29] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6,10,13,14,15,16,17,18,19,20,21,22,25,27,29,30] Mexico's Defence Secretariat estimated that, had production continued, the installations would have meant an economic loss of about 17 million pesos a month to criminal organisations, plus five million pesos of installed infrastructure. [@19,21,27,28,29] Machinery, tools and
+production centers and two marijuana greenhouses. [@1,4,5,8,9,11,12,19,21,24,26,29,31] One marijuana greenhouse measured about 3,250 square metres and the other about 8,400 square metres. [@6,10,13,14,15,16,17,18,19,20,21,22,25,27,29,30] Mexico's Defence Secretariat estimated that, had production continued, the installations would have meant an economic loss of about 17 million pesos a month to criminal organisations, plus five million pesos of installed infrastructure. [@19,21,27,28,29] Machinery, tools and
 various items recovered on the property were used to make methamphetamine and to
 process and extract high-purity cannabidiol (CBD) and tetrahydrocannabinol (THC)
-from marijuana. [@2,4,6,9,10,17,18,20,21,22,23,25,27,28,29,30]
+from marijuana. [@2,4,6,9,10,17,18,20,21,22,23,25,27,28,29,30,31]
 
 Everything seized was handed over to the Federal Attorney General's Office,
 which is continuing its investigations and forensic work to determine the legal
