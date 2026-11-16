@@ -60,13 +60,18 @@ sources:
     archived: https://web.archive.org/web/20260808073505/https://www.yoursouthend.co.uk/cannabis-farms-worth-over-half-a-million-pounds-shut-down-across-essex-in-major-police-crackdown/
     publisher: Your Southend
     date: 2025-03-07
+  - title: Cannabis plants worth £546k seized and 13 arrested following warrants
+    url: https://www.essex.police.uk/news/essex/news/news/2025/march/mille-cannabis-warrants/
+    publisher: Essex Police
+    date: 2025-03-07
+    archived: https://web.archive.org/web/20250712033830id_/https://www.essex.police.uk/news/essex/news/news/2025/march/mille-cannabis-warrants/
 open_questions:
   - The reports give no breakdown of plants or arrests by property, so no per-site figures are recorded.
   - Whether those arrested were charged or what happened to them in court was not reported.
 ---
 
-Essex Police carried out 12 warrants across the county in a coordinated series of strikes throughout February 2025, entering properties in Brentwood, Chelmsford, Chigwell, Canvey Island, Harwich, Grays, Great Wakering, Shoebury, Southend and Westcliff. [@1,2]
+Essex Police carried out 12 warrants across the county in a coordinated series of strikes throughout February 2025, entering properties in Brentwood, Chelmsford, Chigwell, Canvey Island, Harwich, Grays, Great Wakering, Shoebury, Southend and Westcliff. [@1,2,3]
 
-Officers arrested thirteen people and seized 1,249 cannabis plants with an estimated value of 546,000 pounds, taking them to a secure location for destruction. [@1,2] Several of the rented houses had been converted into large-scale grows, causing extensive damage to the properties. [@1,2]
+Officers arrested thirteen people and seized 1,249 cannabis plants with an estimated value of 546,000 pounds, taking them to a secure location for destruction. [@1,2,3] Several of the rented houses had been converted into large-scale grows, causing extensive damage to the properties. [@1,2,3]
 
 Detective Chief Inspector Mark Cadd of the Kent and Essex Serious Crime Directorate said the grows were substantial operations run by professionals to make money for organised crime gangs, not small personal grows. [@1,2]
