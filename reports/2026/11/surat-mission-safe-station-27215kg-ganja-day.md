@@ -39,29 +39,32 @@ sources:
     publisher: Divya Bhaskar
     date: 2026-11-15
     language: gu
+  - title: સુરતમાંથી એક જ દિવસમાં 27 કિલો ગાંજો ઝડપાયો:ટ્રેનની સીટ નીચેથી 17 કિલો બિનવારસી જથ્થો મળ્યો, જ્યારે પ્લેટફોર્મ નં.1 પરથી 10 કિલો ગાંજા સાથે શખ્સ પકડાયો
+    url: https://www.divyabhaskar.co.in/amp/local/gujarat/surat/news/railway-station-drug-seizure-ganja-recovery-crime-news-139693255.html
+    publisher: Divya Bhaskar
+    date: 2026-11-15
+    language: gu
 open_questions:
-  - No separate calendar date for either action was given in the accessible text; 15 November 2026 is the publication date and is used as the incident date.
-  - The accessible text gives the platform seizure only as 10 kg in the headline; the precise 10.100 kg figure and the suspect's name, age and origin appear only in the paywalled portion and are not recorded here.
-  - The combined value is described only as more than Rs 13.60 lakh, with no exact total stated, so no value is recorded in figures.
-  - No court outcome, detention period or charge provision was stated in the accessible text.
-  - No second independent account of the platform arrest was found after searching in English and Gujarati.
+    - No separate calendar date for either action was given; 15 November 2026 is the publication date and is used as the incident date.
+    - The platform ganja was valued at Rs 5,05,000 and the train ganja at Rs 8,55,750, with the platform seizure totalling Rs 5,05,500 with cash; no single exact combined total beyond more than Rs 13.60 lakh was stated, so no value is recorded in figures.
+    - No court outcome or detention measure was reported; investigation was continuing under the NDPS Act.
+    - No second independent account of the platform arrest was found after searching in English and Gujarati; the train seizure alone was covered separately.
 ---
 
 Surat railway police together with an SOG team carried out two separate
 anti-drug actions in a single day in Surat under the 'Mission Safe Station'
-drive. [@1] During the second action, officers caught one person on platform No.
-1 who was found carrying ganja with him. [@1]
+drive. [@1,2] During the second action, officers caught one person on platform No.
+1 who was found carrying ganja with him. [@1] Railway SOG and the NDPS dedicated team were watching Surat railway station when they stopped a suspicious youth at about 5 p.m. on platform No. 1 near the speed parcel office on the way towards the bike parking. [@2] The person caught on platform No. 1 was identified as Budhiya alias Jati Swain, a 25-year-old resident of Ganjam district in Odisha. [@2]
 
 Police said the two actions together yielded a total of 27.215 kilograms of
-ganja worth more than Rs 13.60 lakh. [@1] In the first incident, officers
+ganja worth more than Rs 13.60 lakh. [@1,2] In the first incident, officers
 recovered 17.115 kilograms of ganja in unclaimed condition from the
-Puri-Ahmedabad Express train. [@1] The report describes that unclaimed train
-stock as a consignment found lying under a train seat. [@1] In the second
+Puri-Ahmedabad Express train. [@1,2] The train check was conducted by railway police and RPF staff after train number 12843 passed Vyara station. [@2] The report describes that unclaimed train
+stock as a consignment found lying under a train seat. [@1] The unclaimed train ganja was found in a brown trolley bag and a black backpack under seat number 57 of reservation coach B/6, and was valued at Rs 8,55,750. [@2] In the second
 incident, the person detained on platform No. 1 was found with about 10
-kilograms of ganja. [@1]
+kilograms of ganja. [@1] The platform trolley bag held 10.100 kilograms of ganja valued at Rs 5,05,000, and with cash the total seizure was Rs 5,05,500. [@2]
 
 The train check and the platform arrest were both reported as parts of the same
 single-day Surat railway operation. [@1] Police presented the train stock as
 unclaimed and the platform stock as seized directly from the person who was
-caught. [@1]
-
+caught. [@1] Police filed a case under the NDPS Act against the accused and continued further investigation. [@2] Surat railway police registered a case under the NDPS Act over the unclaimed train stock after the unidentified carrier fled to avoid arrest. [@2]
