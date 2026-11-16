@@ -27,6 +27,11 @@ sources:
     publisher: 中国新聞
     date: 2026-11-16
     language: ja
+  - title: 【事件】福山の男を大麻所持で再逮捕
+    url: https://www.47news.jp/15240083.html
+    publisher: 47NEWS
+    date: 2026-11-16
+    language: ja
 open_questions:
   - No weight, form, packaging or value of the suspected cannabis was published in the accessible text.
   - The remainder of the paywalled article was not accessible, so the seizure location, circumstances and any statement on admission or denial are unknown.
@@ -36,7 +41,7 @@ open_questions:
 ---
 
 Hiroshima Prefectural Police Fukuyama East station rearrested an unemployed
-29-year-old man from Fukuyama city on 16 November 2026. [@1] The man had already
+29-year-old man from Fukuyama city on 16 November 2026. [@1,2] The man had already
 been indicted on an injury charge when police made the second arrest. [@1] The
 new allegation is a possession offence under the Narcotics Control Law. [@1]
 
@@ -44,4 +49,3 @@ The publisher headlines the case as a rearrest for cannabis possession in
 Fukuyama. [@1] The rearrest involved one suspect, the 29-year-old man, with no
 other detentions stated. [@1] The acting authority was the Fukuyama East station
 of the Hiroshima Prefectural Police in Fukuyama. [@1]
-
