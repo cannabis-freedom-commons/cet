@@ -48,6 +48,11 @@ sources:
     publisher: صحيفة صراحة الالكترونية
     date: 2026-11-16
     language: ar
+  - title: '"مكافحة المخدرات" تقبض على 5 مروجين بحوزتهم 25 كيلوغرامًا من الحشيش والإمفيتامين في جدة | سبق'
+    url: https://sabq.org/article/5jtjib9
+    publisher: صحيفة سبق الإلكترونية
+    date: 2026-11-16
+    language: ar
 open_questions:
   - No separate date for the arrests was published, so 16 November 2026, the publication date, stands in for the incident date.
   - Only the resident is explicitly identified as Ethiopian; the nationalities of the four border-security violators were not stated.
@@ -59,15 +64,14 @@ open_questions:
 
 Saudi Arabia's General Directorate of Narcotics Control arrested four violators
 of the border security law and a resident of Ethiopian nationality in Jeddah
-governorate. [@1] The directorate accused the five of promoting amphetamine and
-25 kilograms of hashish. [@1]
+governorate. [@1,3] The directorate accused the five of promoting amphetamine and
+25 kilograms of hashish. [@1,3]
 
 The suspects were stopped, the regulatory procedures were completed against
-them, and they were referred to the Public Prosecution. [@1] A second account
+them, and they were referred to the Public Prosecution. [@1,3] A second account
 gives the same Jeddah figures of four border-security violators and an Ethiopian
 resident held over amphetamine and 25 kilograms of hashish. [@2]
 
 The same account reports three Bangladeshi residents separately held in the
 Eastern Province for promoting methamphetamine, a non-cannabis part of the wider
 announced operation that is not counted here. [@2]
-
