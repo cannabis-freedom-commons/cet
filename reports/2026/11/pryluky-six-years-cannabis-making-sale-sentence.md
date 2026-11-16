@@ -46,6 +46,11 @@ sources:
     publisher: Suspilne Chernihiv
     date: 2026-11-16
     language: uk
+  - title: Жителя Прилук засудили до 6 років ув’язнення за дикорослі коноплі
+    url: https://che.cn.ua/index.php/crime/item/zhytelia-pryluk-zasudyly-do-6-rokiv-uv-iaznennia-za-dykorosli-konopli/
+    publisher: Інформаційний портал Чернігівщини
+    date: 2026-11-16
+    language: uk
 open_questions:
   - No quantity or weight of the cannabis made, stored or sold was published.
   - No separate date for the hearing or sentence was given; 16 November 2026 is the article's publication date and stands in for the incident date.
@@ -56,14 +61,13 @@ open_questions:
 
 A court found a Pryluky resident guilty of illegally making, storing and selling
 drugs under articles 309(1) and 307(2) of Ukraine's Criminal Code. [@1] The
-defendant fully admitted guilt at the hearing. [@1] The Pryluky district court
+defendant fully admitted guilt at the hearing. [@1,2] The Pryluky district court
 in Chernihiv Oblast sentenced him to six years' imprisonment with confiscation
-of property. [@1]
+of property. [@1,2]
 
 Prosecutors proved that in summer 2026 he picked wild cannabis plants, then
-dried and crushed them to make cannabis. [@1] He stored the prohibited
-substances at his home and sold them to other people. [@1] The conviction was
-reported by the Chernihiv Oblast prosecutor's office. [@1]
+dried and crushed them to make cannabis. [@1,2] He stored the prohibited
+substances at his home and sold them to other people. [@1,2] The conviction was
+reported by the Chernihiv Oblast prosecutor's office. [@1,2]
 
 The verdict had not entered into force and the convicted man may appeal. [@1]
-
