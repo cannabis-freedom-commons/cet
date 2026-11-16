@@ -43,6 +43,10 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-15
     language: hi
+  - title: Four drug peddlers arrested in Anantnag
+    url: https://brighterkashmir.com/four-drug-peddlers-arrested-in-anantnag
+    publisher: Brighter Kashmir
+    date: 2026-11-16
 media:
   - kind: photo
     url: https://www.amarujala.com/jammu-and-kashmir/srinagar/srinagar-four-arrested-drug-smuggling-anantnag-srinagar-news-c-10-1-agr1010-1063843-2026-11-15
@@ -52,25 +56,25 @@ media:
 ---
 
 Police in Anantnag arrested four alleged drug peddlers in four separate
-operations conducted by teams from Police Station Anantnag. [@1,4] In the first
+operations conducted by teams from Police Station Anantnag. [@1,4,5] In the first
 operation, police arrested Hassan Ali, a resident of Bhawani Gee Colony in Delhi
 presently residing in Ganjiwara, Anantnag, and recovered 73 grams of charas and
-Rs 14,650 in cash from him near the Stadium. [@1,4] Hassan Ali was apprehended
+Rs 14,650 in cash from him near the Stadium. [@1,4,5] Hassan Ali was apprehended
 near the Stadium at Ganjiwara, corroborating the 73 grams of charas and Rs
 14,650 cash recovery. [@2]
 
 In the second operation, Mohd Bashir, a resident of Bijnore in Uttar Pradesh
 presently residing in Danter, Anantnag, was apprehended with 277 grams of charas
-and Rs 29,030 in cash. [@1,4] The 277 grams of charas and Rs 29,030 in cash from
+and Rs 29,030 in cash. [@1,4,5] The 277 grams of charas and Rs 29,030 in cash from
 Mohd Bashir at Danter was confirmed in the second account. [@2] In the third
 operation, police arrested Mohd Nasir Gulam, a resident of Sarai Kalikhan
 Nizamuddin in Delhi presently residing in Danter, Anantnag, and recovered 3.67
-grams of brown sugar from him. [@1,4] In the fourth operation, Sahil Ahmad Dar, a
+grams of brown sugar from him. [@1,4,5] In the fourth operation, Sahil Ahmad Dar, a
 resident of Addar, Bijbehara, was arrested near Mirgund Bridge with 70 grams of
-charas. [@3,4]
+charas. [@3,4,5]
 
 The three charas recoveries of 73 grams, 277 grams and 70 grams total 420 grams,
 alongside Rs 43,680 in cash recovered in the operations. [@1] Police registered
 four separate cases at Police Station Anantnag under relevant provisions of law,
 with further investigation underway to ascertain the forward and backward
-linkages of the drug trade. [@1]
+linkages of the drug trade. [@1,5]
