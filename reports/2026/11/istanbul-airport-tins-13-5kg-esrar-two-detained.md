@@ -199,6 +199,11 @@ sources:
     publisher: Narkoz Haber
     date: 2026-11-15
     language: tr
+  - title: İstanbul Havalimanı’nda 13 kilo 512 gram esrar bulundu
+    url: https://www.egealternatif.com/haber/istanbul-havalimani-nda-13-kilo-512-gram-esrar-bulundu_102011/
+    publisher: Ege Alternatif Gazetesi
+    date: 2026-11-15
+    language: tr
 ---
 
 Istanbul narcotics teams detained two Tunisian nationals, Najla Ben Abdallah and
@@ -209,12 +214,12 @@ operation was run by the Istanbul police narcotics division as part of work
 against drug manufacturing and trafficking, monitoring incoming passengers. [@3,6,15,16]
 
 Officers found a total of 13 kilograms 512 grams of esrar, reported as cannabis,
-hidden in the suspects' luggage. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24] Of that total, 12 kilograms 226 grams were
+hidden in the suspects' luggage. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25] Of that total, 12 kilograms 226 grams were
 concealed in 73 cans and 1 kilogram 286 grams in the soles of four shoes. [@3,15,16]
 
 The search was carried out under a search order obtained from the Gaziosmanpaşa
-Chief Public Prosecutor's Office after a tip-off. [@2,5,7,8,11,12,14,17,19,20,22,24] The search order was obtained from the Gaziosmanpaşa Chief Public Prosecutor's Office under GSBH (Gecikmesinde Sakınca Bulunan Hal) provisions. [@9,21] Police said the suspects
+Chief Public Prosecutor's Office after a tip-off. [@2,5,7,8,11,12,14,17,19,20,22,24,25] The search order was obtained from the Gaziosmanpaşa Chief Public Prosecutor's Office under GSBH (Gecikmesinde Sakınca Bulunan Hal) provisions. [@9,21] Police said the suspects
 tried to bring the cannabis into Türkiye and took them into custody. [@2,7,9,21]
 Officers also seized money and mobile phones found on the suspects for
-examination. [@1,4,5,6,7,8,11,12,14,17,18,19,20,21,22,24] The suspects were expected to be brought before the
-Gaziosmanpaşa prosecution on 15 November as the investigation continued. [@2,5,7,8,10,11,12,17,20,21,22,24]
+examination. [@1,4,5,6,7,8,11,12,14,17,18,19,20,21,22,24,25] The suspects were expected to be brought before the
+Gaziosmanpaşa prosecution on 15 November as the investigation continued. [@2,5,7,8,10,11,12,17,20,21,22,24,25]
