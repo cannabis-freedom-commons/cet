@@ -47,6 +47,11 @@ media:
     media_url: https://images.dynamitenews.com/wp-content/uploads/sites/2/2026/11/Mirzapur-News-3_V_jpg--1280x720-4g.webp
     publisher: Dynamite News Hindi
     caption: Photo published with the report on the Ahraura seizure of 44 kg of ganja and the four arrests; the page gives no photo credit.
+  - kind: photo
+    url: https://www.amarujala.com/uttar-pradesh/mirzapur/four-arrested-for-transporting-44-kg-of-marijuana-hidden-in-dicky-mirzapur-news-c-192-1-svns1035-164946-2026-11-15
+    media_url: https://staticimg.amarujala.com/assets/images/4cplus/2026/11/15/aharara-palsa-thavara-gaja-ka-satha-garafatara-tasakara-sarata-palsa_fc63b461b3841d9de6b503ea6f2e8beb.jpeg?w=674&dpr=2.0&q=80
+    publisher: Amar Ujala
+    caption: 'Smugglers arrested with ganja by Ahraura police. Photo: Police'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ddd033b6994e37ee9e73757a5adc1268
@@ -67,26 +72,27 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-14
     language: hi
-open_questions:
-    - The article gives no separate date for the interception; 14 November 2026 is its publication date and is used as the incident date.
-    - No court outcome beyond the four men being sent to jail was reported.
-    - All cited accounts reproduce the police account of the interception and seizure.
+  - title: Mirzapur News:डिकी में छिपाकर ले जा रहे थे 44 किलो गांजा, चार गिरफ्तार - Four Arrested For Transporting 44 Kg Of Marijuana Hidden In Dicky - Mirzapur News
+    url: https://www.amarujala.com/uttar-pradesh/mirzapur/four-arrested-for-transporting-44-kg-of-marijuana-hidden-in-dicky-mirzapur-news-c-192-1-svns1035-164946-2026-11-15
+    publisher: Amar Ujala
+    date: 2026-11-15
+    language: hi
 ---
 
 Ahraura police stopped a Honda City carrying four men near Vanasthali Vidyalaya
-in Latifpur village after a tip-off and searched the car on the spot. [@1] The
+in Latifpur village after a tip-off and searched the car on the spot. [@1,4] The
 four men were identified as Ramesh Kumar Nishad of Gulariya, Bhitaha, West
 Champaran; Mohan Chaudhary of Kataha, Dhanaha, West Champaran; Piyush Kumar
 Tiwari of Durgavaliya Ghera Tola, Kasya, Kushinagar; and Govind Patel of
-Misrauli Bhuwal Patti, Bisunpura, Kushinagar. [@1] Police registered case number
+Misrauli Bhuwal Patti, Bisunpura, Kushinagar. [@1,4] Police registered case number
 221/2026 against them under sections 8/20/29 of the NDPS Act at Ahraura police
 station and sent all four to jail after completing the required legal
-formalities. [@1] Police said they were searching for other members of the gang, including the main smuggler. [@3]
+formalities. [@1,4] Police said they were searching for other members of the gang, including the main smuggler. [@3]
 
-The search of the car's boot found two sacks concealed under black plastic. [@1,3]
+The search of the car's boot found two sacks concealed under black plastic. [@1,3,4]
 Checking both sacks, police recovered a total of 44 kilograms of illegal ganja
-packed in 27 packets. [@1,3] Police recovered three mobile phones from the four men. [@3] Police put the recovered ganja's estimated
-international value at 22 lakh rupees. [@1,3] Police seized the Honda City used
+packed in 27 packets. [@1,3,4] Police recovered three mobile phones from the four men. [@3] Police put the recovered ganja's estimated
+international value at 22 lakh rupees. [@1,3,4] Police seized the Honda City used
 for the smuggling, registration number JH05AQ0983, under section 207 of the
 Motor Vehicles Act. [@1]
 
