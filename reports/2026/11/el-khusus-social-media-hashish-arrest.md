@@ -81,19 +81,24 @@ sources:
     publisher: يوليو
     date: 2026-11-15
     language: ar
+  - title: ضبط عاطل بالخصوص بتهمة إدارة صفحة لترويج المواد المخدرة عبر مواقع التواصل الاجتماعي
+    url: https://number1.news/2026/11/15/%D8%B6%D8%A8%D8%B7-%D8%B9%D8%A7%D8%B7%D9%84-%D8%A8%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%B5%D9%81%D8%AD%D8%A9-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A9-%D8%B9%D8%A8%D8%B1-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A/
+    publisher: نمبر1 نيوز
+    date: 2026-11-15
+    language: ar
 ---
 
 Egypt's General Administration for Combating Information Technology Crimes,
 together with the Public Security Sector, spotted a person running a
-social-media page promoting drugs for sale. [@1,5,6,7,8,9] A second account says security
+social-media page promoting drugs for sale. [@1,5,6,7,8,9,10] A second account says security
 forces in Qalyubia arrested the person for running the page to sell drugs for
 money. [@2] Officers identified the page administrator as a resident of the
-El-Khusus police district in Qalyubia Governorate and arrested him. [@3,4,5,6,7,8,9]
+El-Khusus police district in Qalyubia Governorate and arrested him. [@3,4,5,6,7,8,9,10]
 
 Officers seized a quantity of hashish found with him along with a mobile phone.
-[@1,4,5,6,7,8,9] Examination of the phone showed material confirming his criminal activity
-and his use of it to run the page and promote drugs. [@3] When confronted, he
+[@1,4,5,6,7,8,9,10] Examination of the phone showed material confirming his criminal activity
+and his use of it to run the page and promote drugs. [@3,10] When confronted, he
 confessed to creating and running the page and using it to promote the seized
-drugs for sale. [@1,4,5,6,7,8,9]
+drugs for sale. [@1,4,5,6,7,8,9,10]
 
-Authorities said the legal measures required over the incident were taken. [@1,5,7] The case was referred to the Public Prosecution, which began questioning the suspect. [@8]
+Authorities said the legal measures required over the incident were taken. [@1,5,7] The case was referred to the Public Prosecution, which began questioning the suspect. [@8,10]
