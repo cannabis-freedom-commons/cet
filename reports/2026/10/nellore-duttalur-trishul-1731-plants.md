@@ -41,6 +41,10 @@ sources:
     archived: https://web.archive.org/web/20261016232944/https://www.thehindu.com/news/national/andhra-pradesh/police-destroy-ganja-cultivation-six-held-in-nellore-district-of-andhra-pradesh/article71592366.ece
     publisher: The Hindu
     date: 2026-10-16
+  - title: AP EAGLE Showcases Anti-Drug Operations to Union Official
+    url: https://www.deccanchronicle.com/amp/southern-states/andhra-pradesh/ap-eagle-showcases-anti-drug-operations-to-union-official-2004712
+    publisher: Deccan Chronicle
+    date: 2026-11-15
 media:
   - kind: photo
     url: https://www.thehindu.com/news/national/andhra-pradesh/police-destroy-ganja-cultivation-six-held-in-nellore-district-of-andhra-pradesh/article71592366.ece
@@ -54,7 +58,7 @@ Acting on a tip-off, Kavali sub-division police with an Armed Reserve party
 raided Duttalur village in Nellore district and destroyed ganja being grown in
 maize fields. [@1] Under Operation Trishul, the team destroyed 1,731 plants
 across 9.5 acres in the presence of Duttalur Tahsildar Nagaraju, district
-superintendent Ajitha Vajendla said. [@1]
+superintendent Ajitha Vajendla said. [@1,2]
 
 Six people were arrested in connection with the cultivation; the reports do
 not name them. [@1]
