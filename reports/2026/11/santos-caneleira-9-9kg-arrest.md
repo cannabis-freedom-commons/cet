@@ -40,6 +40,11 @@ media:
     media_url: https://santaportal.com.br/wp-content/uploads/2026/11/maconha-1000x563.jpg
     publisher: Santa Portal
     caption: 'Seized marijuana bricks, vacuum-sealing machine and precision scale from the Caneleira house. Photo: Divulgação/Polícia Militar'
+  - kind: photo
+    url: https://policialpadrao.com.br/2o-baep-apreende-maconha-em-santos-homem-preso-com-quase-10-quilos-baixada/
+    media_url: https://policialpadrao.com.br/wp-content/uploads/2026/11/Copia-de-Design-sem-nome-2026-11-15T115955.694-1024x640-1.png
+    publisher: Policial Padrão
+    caption: 'Marijuana seized in the Caneleira house in Santos. Photo: Portal de Notícias da PMESP'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8dadbdebd926f613158d3d52b51fd154
@@ -65,20 +70,26 @@ sources:
     publisher: Fato Paulista
     date: 2026-11-15
     language: pt
+  - title: 2º BAEP apreende maconha em Santos
+    url: https://policialpadrao.com.br/2o-baep-apreende-maconha-em-santos-homem-preso-com-quase-10-quilos-baixada/
+    publisher: Policial Padrão
+    date: 2026-11-15
+    language: pt
 open_questions:
   - The suspect's name was not published in the consulted sources.
+  - 'Published accounts give different dates for the operation: 9 November 2026 and the afternoon of Sunday 15 November 2026.'
 ---
 
 Military police arrested a man in flagrante after seizing almost 10 kg of
-marijuana in a residence in Caneleira, Santos. [@1,3] The incident was recorded on
+marijuana in a residence in Caneleira, Santos. [@1,3,5] The incident was recorded on
 Monday the 9th during a 2º Baep operation. [@1] Officers were patrolling when
-they received an anonymous tip that the property was used to store drugs. [@1,3]
+they received an anonymous tip that the property was used to store drugs. [@1,3,5]
 
 The man admitted receiving a monthly amount to guard the drugs and said the load
 belonged to suppliers in the region. [@2] A total of 9.919 kg of pressed
 marijuana in bricks was hidden in the Caneleira house. [@2,4] Searches of the
 residence found 9.919 kg of marijuana, plus cash, a vacuum-sealing machine, a
-box of packaging and a precision scale. [@1,3] Inside the home, police also found
+box of packaging and a precision scale. [@1,3,5] Inside the home, police also found
 bundles of cash, hundreds of plastic bags and a digital precision scale
 alongside the bricks and sealing machine. [@2]
 
