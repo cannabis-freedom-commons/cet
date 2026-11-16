@@ -59,6 +59,11 @@ media:
     media_url: https://img.nsctotal.com.br/wp-content/uploads/2026/11/PRF-apreende-mais-de-180-quilos-de-maconha-na-BR-280-Foto_-PRF-5-696x392.jpg
     publisher: NSC Total
     caption: 'The driver after being detained following the pursuit on BR-280 in Canoinhas. Photo: PRF/divulgação'
+  - kind: photo
+    url: https://gazetasbs.com.br/homem-e-preso-com-181-quilos-de-maconha-apos-perseguicao-na-br-280-em-canoinhas/
+    media_url: https://gazetasbs.com.br/wp-content/uploads/2026/11/Apreensao-de-maconha.jpg
+    publisher: Jornal A Gazeta
+    caption: 'Marijuana tablets found inside the vehicle during the PRF inspection on BR-280 in Canoinhas. Photo: Divulgação / PRF'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1f1add3741632e15b117236701b13817
@@ -84,6 +89,11 @@ sources:
     publisher: NSC Total
     date: 2026-11-16
     language: pt
+  - title: Homem é preso com 181 quilos de maconha após perseguição na BR-280 em Canoinhas
+    url: https://gazetasbs.com.br/homem-e-preso-com-181-quilos-de-maconha-apos-perseguicao-na-br-280-em-canoinhas/
+    publisher: Jornal A Gazeta
+    date: 2026-11-16
+    language: pt
 open_questions:
   - No exact time for the stop was reported beyond the morning of 16 November 2026.
   - The origin of the marijuana load was not reported.
@@ -91,16 +101,16 @@ open_questions:
 ---
 
 Federal Highway Police officers were carrying out a routine inspection in front
-of their Canoinhas operational unit when they signalled a car to stop. [@1] The
+of their Canoinhas operational unit when they signalled a car to stop. [@1,5] The
 driver ignored the stop signal and fled along the highway, and the officers
-pursued and intercepted the car after seven kilometres. [@2] A 31-year-old man
+pursued and intercepted the car after seven kilometres. [@2,5] A 31-year-old man
 was arrested in flagrante on the morning of Monday 16 November 2026 while
-transporting 181 kilograms of marijuana on BR-280 in Canoinhas. [@1,4]
+transporting 181 kilograms of marijuana on BR-280 in Canoinhas. [@1,4,5]
 
 Officers searching the car found numerous marijuana tablets totalling 181
 kilograms, and seized two mobile phones, one of which had been completely
 smashed moments before. [@2,4] The driver told police he would receive R$3,000 for
-carrying the load, which was bound for Joinville. [@2,4]
+carrying the load, which was bound for Joinville. [@2,4,5]
 
 The man was taken to the Canoinhas Civil Police station together with the
 vehicle and the seized material. [@1,4] He will answer for the crime of drug
