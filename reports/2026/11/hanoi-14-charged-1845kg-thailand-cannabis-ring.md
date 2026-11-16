@@ -73,6 +73,11 @@ sources:
     publisher: Thanh Niên
     date: 2026-11-15
     language: vi
+  - title: Đường dây ma túy khép kín tuồn lượng cần sa 'khủng' từ nước ngoài vào nội địa
+    url: https://baomoi.com/duong-day-ma-tuy-khep-kin-tuon-luong-can-sa-khung-tu-nuoc-ngoai-vao-noi-dia-c56516513.epi
+    publisher: Báo Mới
+    date: 2026-11-15
+    language: vi
 open_questions:
   - No separate date for the investigation conclusion was given; 15 November 2026 is the publication date of all four reports and is used as the incident date.
   - The 1,845.5 kg is the quantity one defendant is held liable for transporting, not the weight seized in a single seizure; only the October 2025 seizures of nearly 68.8 kg and more than 66.3 kg are detailed as seized.
@@ -93,12 +98,12 @@ were split off earlier and tried on 26 June with prison terms of 7 to 22 years.
 The group moved cannabis from Thailand to Vietnam through the Cha Lo
 International Border Gate by hiding it in dried-longan baskets and hiring Thai
 transport company JPM to move containers mixed with fresh-longan baskets to
-evade controls. [@1] After three successful illegal transfers, in early 2025
+evade controls. [@1,5] Transporters in Vietnam were paid 100 million dong per trip or 50 million dong per person per time. [@5] After three successful illegal transfers, in early 2025
 Pham Viet Anh directed Tong Thanh Tung and Phung Minh Thuan to use prior
 transport proceeds to buy back a cannabis farm in Bangkok from Cham and Xom as a
 packing site, with Tung paying 500 million dong for it. [@4] By this method the
 group succeeded 14 times, with Viet Anh held liable for 1.2 tons of cannabis and
-Nguyen Van Viet liable for the most, more than 1.8 tons. [@1] Investigators
+Nguyen Van Viet liable for the most, more than 1.8 tons. [@1,5] Investigators
 fixed Nguyen Van Viet’s total at 1,845.5 kg for 644 million dong profit and Pham
 Viet Anh’s at 1,263 kg for 160 million dong. [@3] At about 14:00 on 4 October
 2025 on Bo Song Set road in Hanoi, officers caught Le Hoang Anh and Nguyen Duc
@@ -108,10 +113,9 @@ total cannabis seized there was more than 66.3 kg. [@3]
 
 In Vietnam the group rented many flats and houses in Hanoi to store and pack
 cannabis, with warehouse keepers receiving order information via Telegram and
-payments made mainly in USDT. [@3] Buyers and sellers communicated only via
+payments made mainly in USDT. [@3] In Vietnam the containers were unloaded in Hung Yen, the dried-longan baskets containing cannabis were transferred onto trucks for delivery to domestic warehouses, and the fresh longans without drugs were sold locally for making dried longan. [@5] Buyers and sellers communicated only via
 Telegram without meeting or knowing each other, with cannabis payments in USDT
 electronic money and deliveries through apps such as Be, Xanh SM, Viettelpost
-and Ahamove. [@1] At the time of the conclusion, four defendants including Tran
+and Ahamove. [@1,5] At the time of the conclusion, four defendants including Tran
 The Thang, Phung Minh Thuan, Nguyen Van Tan and Do Van Thai were wanted but had
 not been arrested. [@3]
-
