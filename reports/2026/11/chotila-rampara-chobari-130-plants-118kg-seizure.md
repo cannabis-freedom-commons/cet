@@ -59,6 +59,11 @@ sources:
     publisher: Divya Bhaskar
     date: 2026-11-16
     language: gu
+  - title: ચોટીલાના ચોબારી ગામેથી 59 લાખના ગાંજાનું વાવેતર ઝડપાયુ | Dailyhunt
+    url: https://m.dailyhunt.in/news/india/gujarati/gujarat+mirror+gujarati-epaper-gjrtmrg/chotilana+chobari+gamethi+59+lakhana+ganjanu+vavetar+zadapayu-newsid-n733957475
+    publisher: Gujarat Mirror
+    date: 2026-11-16
+    language: gu
 open_questions:
     - No separate date was given for the raid; 15 and 16 November 2026 are publication dates and stand in for the incident date.
     - The 118 kilograms is reported as the weight of the 130 green plants with roots, not as dried cannabis, and no laboratory confirmation was reported.
@@ -74,15 +79,15 @@ media:
 
 A Rajkot A.N.T.F. CID Crime team raided a farm on the outskirts of Rampara
 Chobari village in Chotila, Surendranagar, where illegal ganja cultivation had
-been detected. [@1,2] The operation uncovered illegal ganja cultivation in the
+been detected. [@1,2,4] The operation uncovered illegal ganja cultivation in the
 Chotila area of Surendranagar district, where a large quantity of green plants
 was found in a single farm. [@1] Officers seized 130 green ganja plants, the
-local name for cannabis, from the farm during the search. [@1,3] Police recorded
-the total weight of the 130 seized plants as 118 kilograms. [@1,3]
+local name for cannabis, from the farm during the search. [@1,3,4] Police recorded
+the total weight of the 130 seized plants as 118 kilograms. [@1,3,4]
 
 Police estimated the value of the 118 kilograms of seized ganja at Rs 5.9
-million, reported as Rs 59 lakh. [@1,2] The seized consignment was found in the
-farm belonging to Bharatbhai Bavaliya. [@1] The case was presented as action
+million, reported as Rs 59 lakh. [@1,2,4] The seized consignment was found in the
+farm belonging to Bharatbhai Bavaliya. [@1,4] The case was presented as action
 against the owner of the farm where the plants were found. [@1] The accused, Bharat Mavjibhai Bawaliya, was reported to be absconding, with police checking his mobile location and other contacts to arrest him. [@2] Police
 registered a case under the Narcotic Drugs and Psychotropic Substances Act at
-Anandpur police station in connection with the farm seizure. [@1,2] The ganja plants had been grown hidden among another crop so that no one would suspect them. [@2] The case cited NDPS Act sections 8(b), 8(c), 20(a)(1) and 20(b)(2)(c) against farm owner Bharat Mavjibhai Bawaliya, with Rajkot Zone ANTF Police Inspector J.J. Chauhan named as the complainant. [@3]
+Anandpur police station in connection with the farm seizure. [@1,2,4] The ganja plants had been grown hidden among another crop so that no one would suspect them. [@2] The case cited NDPS Act sections 8(b), 8(c), 20(a)(1) and 20(b)(2)(c) against farm owner Bharat Mavjibhai Bawaliya, with Rajkot Zone ANTF Police Inspector J.J. Chauhan named as the complainant. [@3]
