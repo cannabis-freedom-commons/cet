@@ -123,24 +123,29 @@ sources:
     publisher: Puente Libre
     date: 2026-11-14
     language: es
+  - title: Defensa destruye 38 plantíos de droga y reporta pérdidas millonarias para el narco | Notigram
+    url: https://notigram.com/mexico/nacional/defensa-destruye-38-plantios-de-droga-y-reporta-perdidas-millonarias-para-el-narco-20261114-1825034
+    publisher: Notigram
+    date: 2026-11-14
+    language: es
 open_questions:
   - The per-crop areas newly reported (3.46 hectares of poppy and 0.83 hectares of marijuana) add up to 4.29 hectares, less than the 4.9-hectare total given for the same operation, with no explanation reported.
 ---
 
 The operations were carried out on 13 November 2026 through ground and air
-reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6,7,9,10,11,13,14] Soldiers
+reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6,7,9,10,11,13,14,15] Soldiers
 of the Mexican Army and Air Force located and destroyed 38 drug plantations in
 four states as part of operations against narcotics production. [@3,4,5,6,8,9,10,11,12,13,14] The crops were destroyed by incineration and aerial fumigation. [@12] Of the 38
 plantations, 20 were poppy crops and 18 were marijuana crops, together covering
-4.9 hectares. [@3,5,6,7,9,10,11,12,13,14] The 20 poppy plots covered 3.46 hectares and the 18 marijuana plots covered 0.83 hectares. [@12]
+4.9 hectares. [@3,5,6,7,9,10,11,12,13,14,15] The 20 poppy plots covered 3.46 hectares and the 18 marijuana plots covered 0.83 hectares. [@12]
 
 A Milenio Facebook post announced the destruction of 38 poppy and marijuana
 plantations in four states with the participation of the Army and the Air Force.
 [@1] Defence figures put the estimated economic damage to organised crime from
-destroying the crops at 6,020,000 pesos. [@3,4,5,6,7,8,9,10,11,13,14] The Defence Ministry confirmed the
+destroying the crops at 6,020,000 pesos. [@3,4,5,6,7,8,9,10,11,13,14,15] The Defence Ministry confirmed the
 operation on 14 November through its official channels. [@2]
 
 No arrests linked to the plantations and no criminal groups allegedly
 responsible for them were reported. [@2] The authorities did not say how many of
 the plantations were destroyed in each state or how the area was divided between
-them. [@2,11]
+them. [@2,11,15]
