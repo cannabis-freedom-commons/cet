@@ -76,15 +76,27 @@ sources:
     publisher: エキサイトニュース
     date: 2026-11-16
     language: ja
+  - title: 乾燥大麻所持容疑で書類送検された青木勇貴斗選手が不起訴処分 東京オリンピック・スケートボード日本代表｜FNNプライムオンライン
+    url: https://www.fnn.jp/articles/-/1153344
+    publisher: FNNプライムオンライン
+    date: 2026-11-16
+    language: ja
+  - title: 大麻所持の疑いで書類送検された東京五輪スケートボード日本代表・青木勇貴斗選手を不起訴　東京地検
+    url: https://news.ntv.co.jp/category/society/5321456b1d0749c1b40afc0802234a7b
+    publisher: 日テレNEWS NNN
+    date: 2026-11-17
+    language: ja
+open_questions:
+    - No figure for the weight of the dried cannabis was published; the sources describe it only as a trace amount.
 ---
 
 Yukito Aoki, aged 23, represented Japan in men's street skateboarding at the
 Tokyo Olympics and is the skateboarder who was referred to prosecutors in this
-cannabis possession case. [@2,3,7,8] The Tokyo Metropolitan Police sent his case to
+cannabis possession case. [@2,3,7,8,9] The Tokyo Metropolitan Police sent his case to
 prosecutors on suspicion that he had possessed cannabis in violation of the
 Narcotics Control Law. [@1,4,5] The Tokyo District Public Prosecutors Office closed
 the matter by deciding not to prosecute him, with the decision dated 16 November
-2026. [@1,3,4,5,6,7,8] The prosecutors said the reason for the decision was consideration of various circumstances. [@3,7]
+2026. [@1,3,4,5,6,7,8,9,10] The prosecutors said the reason for the decision was consideration of various circumstances. [@3,7,9,10]
 
 The underlying allegation was that Aoki possessed a small amount of dried
 cannabis on 6 August inside the JR Shin-Kiba Station premises in Koto Ward,
