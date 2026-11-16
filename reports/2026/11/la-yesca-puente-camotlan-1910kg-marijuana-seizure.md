@@ -47,26 +47,24 @@ sources:
     publisher: Nayarit Noticias
     date: 2026-11-15
     language: es
-open_questions:
-    - The marijuana was described only as presumed marijuana and a green herb with similar characteristics; no laboratory confirmation was reported.
-    - The weight is stated as approximate (unos 1,910 kilos), not an exact measured weight.
-    - No arrests, charges or suspects were reported for this seizure.
-    - The attribution of the drug to the Cartel Jalisco Nueva Generación is the military commands' account as relayed by the outlets.
-    - Both opened outlets reproduce the same V Military Region and 13th Military Zone statement, so they are not independent reporting of the seizure.
-    - The 138,462 kilograms cited as seized during the current administration and the separate October eradication and April camp actions in La Yesca are context, not part of this event's figures.
+  - title: Aseguran en Nayarit 1.9 Toneladas de Marihuana, Vinculada con el CJNG | N+
+    url: https://www.nmas.com.mx/seguridad/aseguran-en-nayarit-19-toneladas-de-marihuana-vinculada-con-el-cjng/
+    publisher: N+
+    date: 2026-11-16
+    language: es
 ---
 
 The Guardia Nacional and the Mexican Army seized about 1,910 kilograms of
 suspected marijuana in Puente de Camotlán, in the municipality of La Yesca,
-Nayarit. [@1] The commands of the V Military Region and the 13th Military Zone
+Nayarit. [@1,3] The commands of the V Military Region and the 13th Military Zone
 said personnel made the seizure during surveillance patrols and ground
 reconnaissance. [@1,2] The seized material was described as about 1,910 kilograms
 of a green herb with characteristics similar to marijuana and as belonging to
-the Cartel Jalisco Nueva Generación. [@1,2]
+the Cartel Jalisco Nueva Generación. [@1,2,3]
 
 The operation was coordinated with the Navy and Nayarit's state security
 ministry and had the accompaniment of the Navy and the Nayarit state police.
 [@1] The seizure took place on 15 November 2026 in the locality of Puente de
-Camotlán, municipality of La Yesca. [@1] What was seized was placed at the
+Camotlán, municipality of La Yesca. [@1,3] What was seized was placed at the
 disposal of the federal prosecutor's office in Tepic for investigation and
-expert analysis. [@1,2]
+expert analysis. [@1,2,3]
