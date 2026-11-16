@@ -74,6 +74,11 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-16
     language: ar
+  - title: تأجيل محاكمة ربة منزل بتهمة الاتجار في الحشيش والآيس - بوابة مولانا
+    url: https://mwlana.com/details/302382/
+    publisher: بوابة مولانا
+    date: 2026-11-16
+    language: ar
 media:
   - kind: photo
     url: https://www.dostor.org/5774461
@@ -84,14 +89,14 @@ media:
 
 The Nasr City prosecution ordered a housewife referred to criminal trial for
 trafficking in the narcotics hashish and ice within the Second Nasr City police
-district. [@1,3,4,5,6,7] The Cairo Criminal Court set 15 November to hear the first trial session in her case. [@5,6] On 16 November 2026 the Cairo Criminal Court postponed the housewife's trial to the 10 December session. [@7] The referral order said the accused, identified as Maha A.,
+district. [@1,3,4,5,6,7] The Cairo Criminal Court set 15 November to hear the first trial session in her case. [@5,6] On 16 November 2026 the Cairo Criminal Court postponed the housewife's trial to the 10 December session. [@7,8] The referral order said the accused, identified as Maha A.,
 possessed hashish and ice, both listed in the schedules attached to the
 drug-control law, with intent to traffic outside legally authorized
-circumstances. [@1,3,4,5,6]
+circumstances. [@1,3,4,5,6,8]
 
 Prosecutors said she held 5,000 Egyptian pounds said to be proceeds of the
 activity, alongside a mobile phone she used to contact customers and facilitate
-sales and promotion. [@1,3,4,5,6] The referral added that she made the criminal activity
+sales and promotion. [@1,3,4,5,6,8] The referral added that she made the criminal activity
 a means of unlawful profit by holding the drugs to promote and distribute them
 to users, using her residential area and the police-district area as the scene
 of the activity. [@1,3,6] The case began when Second Nasr City detectives received
@@ -103,4 +108,4 @@ referral. [@2]
 
 After procedures were regularized and prosecution permission was obtained, a
 security force from the district detectives arrested the accused, recorded the
-incident, and the prosecution took over the investigation. [@1,3,4,6]
+incident, and the prosecution took over the investigation. [@1,3,4,6,8]
