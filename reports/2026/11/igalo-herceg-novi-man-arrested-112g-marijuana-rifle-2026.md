@@ -70,20 +70,25 @@ sources:
     url: https://en.vijesti.me/amp/836259/Police-in-Herceg-Novi-arrested--person-of-operational-interest--rifle-ammunition-and-marijuana-seized
     publisher: Vijesti
     date: 2026-11-14
+  - title: Ухапшен Новљанин, пронађена марихуана, пушка и муниција - ИН4С
+    url: https://www.in4s.net/uhapsen-novljanin-pronadjena-marihuana-puska-i-municija/
+    publisher: ИН4С
+    date: 2026-11-14
+    language: sr
 ---
 
 Officers of the Herceg Novi Security Department's Intervention Unit checked
-Lj.J., described as a person of operational interest, in Igalo. [@1,3] Lj.J. was
+Lj.J., described as a person of operational interest, in Igalo. [@1,3,4] Lj.J. was
 arrested on the order of the state prosecutor of the Higher State Prosecutor's
 Office in Podgorica. [@1]
 
 During the check of Lj.J. and the vehicle, officers found a vacuum-sealed PVC
-bag of marijuana weighing about 112 grams. [@2,3] Acting on a court order,
-officers then searched the flat and other premises used by Lj.J. [@1] In that
+bag of marijuana weighing about 112 grams. [@2,3,4] Acting on a court order,
+officers then searched the flat and other premises used by Lj.J. [@1,4] In that
 search they found and seized a Beretta rifle of 12 mm calibre, 110 cartridges
-for that rifle and five pieces of rifle ammunition. [@1,3]
+for that rifle and five pieces of rifle ammunition. [@1,3,4]
 
 Lj.J. is suspected of unauthorised production, possession and distribution of
 narcotic drugs combined with unauthorised possession and carrying of weapons and
-explosive materials. [@1] He is to be brought before the competent prosecutor
+explosive materials. [@1,4] He is to be brought before the competent prosecutor
 within the legally prescribed time limit for further proceedings. [@1]
