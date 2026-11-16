@@ -49,26 +49,38 @@ sources:
     publisher: Adana Masası
     date: 2026-11-16
     language: tr
+  - title: Diyarbakır'da uyuşturucu operasyonlarında 38 kilo 261 gram esrar ele geçirildi
+    url: https://yerel-haberler.haberturk.com/diyarbakir-haberleri/diyarbakirda-uyusturucu-operasyonlarinda-38-kilo-261-gram-esrar-ele-gecirildi-119523965
+    publisher: Habertürk
+    date: 2026-11-16
+    language: tr
+  - title: Diyarbakır'da uyuşturucu operasyonlarında 5 şüpheliye işlem
+    url: https://www.dha.com.tr/yerel-haberler/diyarbakir/diyarbakirda-uyusturucu-operasyonlarinda-5-sup-2982979
+    publisher: DHA
+    date: 2026-11-16
+    language: tr
 media:
   - kind: photo
     url: https://www.canligaste.com/diyarbakir-da-38-kilo-261-gram-esrar-ve-538-kok-kenevir-ele-gecirildi/950697/
     media_url: https://www.canligaste.com/aa-media/2026/11/diyarbakir-da-38-kilo-261-gram-esrar-ve-538-kok-kenevir-ele-gecirildi-950697.webp
     publisher: Canlı Gaste
     caption: 'Seized cannabis from the Diyarbakır operation, in the Anadolu Ajansı handout photo published with the Canlı Gaste account. Photo: Anadolu Ajansı'
+open_questions:
+    - DHA described the operations as having been organized over the previous week, but the sources give no calendar dates for the individual incidents.
 ---
 
 Diyarbakır İl Jandarma Komutanlığı, the Diyarbakir provincial gendarmerie
 command, coordinated a series of anti-drug operations through its Narkotik
-Suçlarla Mücadele Şube Müdürlüğü, the narcotics-crimes branch. [@1,2,3] The
+Suçlarla Mücadele Şube Müdürlüğü, the narcotics-crimes branch. [@1,2,3,4] The
 operations covered the provincial centre and districts within the gendarmerie's
 area of responsibility. [@1,2] They were directed at people accused of trading,
 transporting and using narcotic substances. [@1,2] Fifteen separate incidents were
-recorded during the operations. [@1,3] Legal proceedings were opened against five
-suspects in connection with those incidents. [@1,2,3]
+recorded during the operations. [@1,3,5] DHA reported that the operations had been organized over the previous week. [@5] Legal proceedings were opened against five
+suspects in connection with those incidents. [@1,2,3,4]
 
 Teams seized 38 kilograms 261 grams of esrar, the Turkish word for cannabis.
-[@1,2,3] Teams also seized 538 kök kenevir, literally cannabis roots, the term
-Turkish enforcement reporting uses for cannabis plants. [@1,2,3] The gendarmerie
+[@1,2,3,4] Teams also seized 538 kök kenevir, literally cannabis roots, the term
+Turkish enforcement reporting uses for cannabis plants. [@1,2,3,4] The gendarmerie
 reported both the esrar weight and the cannabis-root count as the outcome of the
 coordinated operations. [@1]
 
