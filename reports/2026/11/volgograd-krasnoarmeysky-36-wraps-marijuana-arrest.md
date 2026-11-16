@@ -78,6 +78,11 @@ sources:
     publisher: Родной город
     date: 2026-11-14
     language: ru
+  - title: Полицейские задержали 57-летнего волгоградца, подозреваемого в сбыте наркотиков
+    url: https://vpravda.ru/obshchestvo/policeyskie-zaderzhali-57-letnego-volgogradca-podozrevaemogo-v-sbyte-narkotikov-239722/
+    publisher: Волгоградская Правда
+    date: 2026-11-14
+    language: ru
 open_questions:
     - No separate date for the detention was given; 14 November 2026 is the publication date and stands in for the incident date.
     - No plea, custody measure or court outcome was reported; the case was at the investigation stage.
@@ -85,18 +90,18 @@ open_questions:
 ---
 
 Police in the Krasnoarmeysky district of Volgograd detained a 57-year-old local
-resident on suspicion of selling drugs. [@1,3] The regional Interior Ministry
+resident on suspicion of selling drugs. [@1,3,4] The regional Interior Ministry
 press service reported the detention and the searches. [@1] The operation was
 carried out by officers of the drug-trafficking control unit of Police
 Department No. 8 of the city Interior Ministry directorate. [@2,3]
 
 During a personal search officers found 20 wraps with plant material on the man,
-and a search of his garage found 16 more similar wraps. [@1,3] An expert
+and a search of his garage found 16 more similar wraps. [@1,3,4] An expert
 examination established that the seized substance was cannabis (marijuana). [@2,3]
-The total weight of the seized drug was 30 grams. [@2,3]
+The total weight of the seized drug was 30 grams. [@2,3,4]
 
 According to police, the man packed the drug into individual doses and sold it
 to city residents who use drugs. [@2,3] Investigators opened a criminal case
 against him under part 2 of article 228.1 of the Russian Criminal Code, covering
-unlawful sale of narcotic drugs. [@1,3] That charge carries a prison sentence of 5
+unlawful sale of narcotic drugs. [@1,3,4] That charge carries a prison sentence of 5
 to 12 years. [@1,3]
