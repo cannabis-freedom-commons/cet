@@ -41,31 +41,35 @@ sources:
     publisher: Amed TV
     date: 2026-11-15
     language: tr
+  - title: Diyarbakır Kaynartepe'de operasyonda 381 hap ele geçirildi, 2 zanlı gözaltına alındı
+    url: https://www.sondakika.com/guncel/haber-diyarbakir-kaynartepe-de-operasyonda-381-hap-ele-g-20430321/
+    publisher: Son Dakika
+    date: 2026-11-15
+    language: tr
 open_questions:
-  - No separate date for the raid was given; 15 November 2026 is the publication date and stands in for the incident date.
-  - No identities, charges, pleas or court outcome for the two suspects were reported.
-  - The cannabis was described only as esrar, with no laboratory confirmation reported.
-  - The 381 ecstasy pills and 294 synthetic pharmaceutical pills are excluded from the cannabis figures.
-  - The cannabis total of 96.84 grams is the sum of the separately stated 77 grams and 19.84 grams.
-  - The whole account rests on one opened report of an İhlas Haber Ajansı dispatch.
-  - No street value for the seized drugs was published.
+    - Son Dakika places the raid the day before publication, implying 14 November 2026, while the report retains 15 November 2026 as the incident date.
+    - No identities, charges, pleas or court outcome for the two suspects were reported.
+    - The cannabis was described only as esrar, with no laboratory confirmation reported.
+    - The 381 ecstasy pills and 294 synthetic pharmaceutical pills are excluded from the cannabis figures.
+    - The cannabis total of 96.84 grams is the sum of the separately stated 77 grams and 19.84 grams.
+    - Both accounts reproduce police statements, so they are not independent reporting.
+    - No street value for the seized drugs was published.
 ---
 
 Police in Diyarbakır's Bağlar district detained two suspects in connection with
-a drug operation. [@1] The suspects had been identified as trading drugs before
+a drug operation. [@1,2] The suspects had been identified as trading drugs before
 they were caught, in an operation supported by Anti-Terror Branch teams. [@1]
 The Bağlar District Police Crime Prevention and Investigation Bureau had
 received information that drugs and an unlicensed weapon were at an address in
-Kaynartepe Mahallesi. [@1] After technical and physical surveillance, the teams
+Kaynartepe Mahallesi. [@1,2] The Provincial Police Directorate said it announced the operation on its social media accounts. [@2] After technical and physical surveillance, the teams
 moved in and raided the identified address with the participation of the
 Anti-Terror Branch. [@1]
 
 The search found 381 ecstasy pills and 294 synthetic pharmaceutical pills. [@1]
 The same search found 77 grams of cannabis and a further 19.84 grams of cannabis
 divided into 65 pieces ready for sale. [@1] Officers also seized one unlicensed
-pistol found at the address. [@1] The two detained suspects were held for police
+pistol found at the address. [@1,2] The two detained suspects were held for police
 procedures before being sent to the judicial authorities. [@1]
 
 The operation was presented as part of police anti-drug work that produced a
 result in Bağlar district. [@1]
-
