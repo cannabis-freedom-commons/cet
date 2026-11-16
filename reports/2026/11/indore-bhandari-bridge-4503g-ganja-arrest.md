@@ -1,7 +1,7 @@
 ---
 code: RMX2XZ
 added_at: "2026-11-12T04:54:10.75999Z"
-date: 2026-11-11
+date: 2026-11-15
 country: in
 place: Bhandari Bridge, MR-4 Road, Indore, Madhya Pradesh
 coordinates: [22.7196, 75.8577]
@@ -12,11 +12,11 @@ title: Crime Branch arrests flower seller with 4.5 kg of ganja in Indore
 summary: >-
   Crime Branch officers in Indore arrested a flower seller with 4.503 kg of ganja near Bhandari Bridge, police said. He was booked under the NDPS Act and questioned about his supply network; eight earlier criminal cases were already registered against him.
 figures:
-  arrested: 1
-  kg_seized: 4.503
-  value:
-    amount: 45000
-    currency: INR
+    arrested: 2
+    kg_seized: 4.503
+    value:
+        amount: 45000
+        currency: INR
 details:
   agencies: [Indore Crime Branch]
   agency_types: [police]
@@ -29,16 +29,16 @@ details:
   date_precision: publication
   region: Madhya Pradesh
 data_sources:
-  details.activity: [1]
-  details.agencies: [2]
-  details.agency_types: [2]
-  details.case_stage: [2]
-  details.charges: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
-  figures.value: [2]
+    details.activity: [1]
+    details.agencies: [2]
+    details.agency_types: [2]
+    details.case_stage: [2]
+    details.charges: [1]
+    details.products: [1]
+    details.setting: [1]
+    figures.arrested: [3]
+    figures.kg_seized: [3]
+    figures.value: [2]
 media:
   - kind: photo
     url: https://www.pradeshprakash.com/article/45-kilo-ganje-ke-sath-aropi-giraphtar
@@ -60,12 +60,18 @@ sources:
     publisher: सिटी ब्लास्ट
     date: 2026-11-11
     language: hi
+  - title: इंदौर पुलिस का एक्शन, गांजा तस्करी मामले में दूसरी गिरफ्तारी, आरोपी पर पहले से दर्ज हैं कई केस
+    url: https://www.mpbreakingnews.in/indore/indore-police-action-second-arrest-in-ganja-smuggling-case-940054
+    publisher: MP Breaking News
+    date: 2026-11-15
+    language: hi
 open_questions:
-  - The reports give no separate date for the arrest; 11 November 2026 is the publication date and is used as the incident date.
-  - The Rs 45,000 value is a police estimate of the ganja's international market price, not a confirmed sale price.
-  - No court outcome beyond registration of the NDPS case was reported.
-  - The reports do not name the supplier or say where the ganja came from.
-  - No other arrest in the case was reported.
+    - The reports give no separate date for the first arrest; 11 November 2026 is the publication date and is used as the incident date.
+    - The Rs 45,000 value is a police estimate of the ganja's international market price, not a confirmed sale price.
+    - No court outcome beyond registration of the NDPS case was reported.
+    - The reports name Golu alias Shubham as the accomplice but do not say where the ganja came from.
+    - No separate date or place for Golu's arrest was given; 15 November 2026 is the publication date of the second-arrest report.
+    - The exact number and status of Golu's earlier criminal cases beyond assault and extortion at Vijay Nagar station were not detailed, and no additional seizure from him was reported.
 ---
 
 Crime Branch officers in Indore arrested a man with 4.503 kg of ganja, a form of
@@ -83,8 +89,7 @@ him, including assault, extortion and gambling, police said. [@1]
 Additional Deputy Commissioner of Police Rajesh Dandotiya said a case was
 registered against him under sections 8/20 of the NDPS Act. [@1] Police took him
 on remand and were questioning him about where he obtained the ganja and who
-else was involved in the network, they said. [@2] Police were investigating whom
+else was involved in the network, they said. [@2] Police said several serious criminal cases, including assault and extortion, were already registered against Golu at Vijay Nagar police station. [@3] A Crime Branch team traced Golu's location using technical evidence, surveillance and informers and arrested him in a raid. [@3] The main accused Aakash told police during questioning that Golu alias Shubham, a resident of Vijay Nagar in Indore, was principally involved in the trafficking network and was absconding. [@3] Police were investigating whom
 he supplied the ganja to in the city, they said. [@1] Police were also
 investigating how his flower business was used as cover for trafficking, they
 said. [@1]
-
