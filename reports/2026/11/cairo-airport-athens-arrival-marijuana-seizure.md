@@ -57,6 +57,11 @@ sources:
     publisher: ماسبيرو - الهيئة الوطنية للإعلام
     date: 2026-11-15
     language: ar
+  - title: جمارك مطار القاهرة تحبط 5 محاولات لتهريب مخدرات وأدوية وهواتف ومستلزمات طبية
+    url: https://www.elaosboa.com/3022993/
+    publisher: الأسبوع
+    date: 2026-11-15
+    language: ar
 open_questions:
     - No weight was published for the marijuana, so no cannabis quantity is stored.
     - The report gives no separate date for the operation; 15 November 2026 is the publication date and stands in for the incident date.
@@ -72,15 +77,35 @@ media:
     media_url: https://images.akhbarelyom.com/images/images/large/20261116014935502.jpg
     publisher: بوابة اخبار اليوم
     caption: Seized marijuana from the Cairo airport smuggling attempts.
+  - kind: photo
+    url: https://www.elaosboa.com/3022993/
+    media_url: https://www.elaosboa.com/wp-content/uploads/2026/11/elaosboa76894.jpeg
+    publisher: الأسبوع
+    caption: Packaged seized items displayed by customs in the five Cairo airport smuggling cases.
+  - kind: photo
+    url: https://www.elaosboa.com/3022993/
+    media_url: https://www.elaosboa.com/wp-content/uploads/2026/11/elaosboa80649.jpeg
+    publisher: الأسبوع
+    caption: Small sealed bags laid out among the items from the five Cairo airport smuggling cases.
+  - kind: photo
+    url: https://www.elaosboa.com/3022993/
+    media_url: https://www.elaosboa.com/wp-content/uploads/2026/11/elaosboa05472.jpeg
+    publisher: الأسبوع
+    caption: Ampoules of cancer-treatment medicine seized from the passenger arriving from Baghdad.
+  - kind: photo
+    url: https://www.elaosboa.com/3022993/
+    media_url: https://www.elaosboa.com/wp-content/uploads/2026/11/elaosboa78023.jpeg
+    publisher: الأسبوع
+    caption: Blister-packed medicines displayed among the items seized in the Cairo airport customs operation.
 ---
 
 Security forces at Cairo International Airport seized five smuggling attempts
 involving marijuana, human medicines, dental medical supplies and mobile phones
-in violation of the law. [@1,2,5,6] The marijuana attempt took place in the fourth
+in violation of the law. [@1,2,5,6,7] The marijuana attempt took place in the fourth
 department of Passenger Terminal 3 during inspection of passengers arriving from
-Athens on a Greek airline flight. [@1,2] Officers suspected an Egyptian passenger
+Athens on a Greek airline flight. [@1,2,7] Officers suspected an Egyptian passenger
 as he left the customs committee gate, X-rayed his bags and found two cream
-containers holding four bags containing marijuana. [@1,3,5,6]
+containers holding four bags containing marijuana. [@1,3,5,6,7]
 
 In a second attempt, officers stopped a foreign passenger arriving from Baghdad
 on an Iraqi airline flight and found 40 ampoules for treating cancerous tumours
