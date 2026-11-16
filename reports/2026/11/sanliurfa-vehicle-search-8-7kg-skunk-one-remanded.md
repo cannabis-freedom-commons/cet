@@ -55,12 +55,11 @@ sources:
     publisher: İhlas Haber Ajansı
     date: 2026-11-16
     language: tr
-open_questions:
-    - The suspect's name, age and other identifying details were not published.
-    - No laboratory confirmation for the material described as skunk was reported.
-    - The type, origin, destination and ownership of the searched vehicle were not reported.
-    - No court outcome beyond the remand in custody was reported.
-    - Both accounts report the same police operation with identical figures and are not independent of the official account.
+  - title: 'ŞANLIURFA’DA 8 KİLO 700 GRAM SKUNK ELE GEÇİRİLDİ: 1 TUTUKLAMA'
+    url: https://www.yozgatgazetesi.com/iha-haberleri/sanliurfa-da-8-kilo-700-gram-skunk-ele-gecirildi-1-tutuklama-306742.html
+    publisher: Yozgat Gazetesi
+    date: 2026-11-16
+    language: tr
 ---
 
 Teams of the Sanliurfa Provincial Directorate of Security's Narcotics Crimes
@@ -68,10 +67,10 @@ Combat Branch, the city's anti-narcotics police unit, searched a vehicle in
 Sanliurfa in an operation carried out on 15 November 2026. [@1,2] One suspect
 detained in the operation for manufacturing and trading narcotics and
 transporting them was referred to the judicial authorities and was remanded in
-custody. [@1,3]
+custody. [@1,3,4]
 
 Officers searching that vehicle found 14 pieces containing a total of 8
-kilograms 700 grams of material described by police as skunk. [@1,2] The stopped vehicle was searched with a narcotics dog. [@3] The 8
+kilograms 700 grams of material described by police as skunk. [@1,2,4] The stopped vehicle was searched with a narcotics dog. [@3] The 8
 kilograms 700 grams is the total across all 14 pieces found in the single
 vehicle search, not across multiple locations. [@1]
 
