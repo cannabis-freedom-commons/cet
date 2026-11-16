@@ -134,18 +134,23 @@ sources:
     publisher: Milliyet
     date: 2026-11-15
     language: tr
+  - title: Konserve kutularına ve ayakkabı tabanlarına uyuşturucu gizlediler! 13,5 kilo esrarla yakalandılar - Yaşam Haberleri
+    url: https://www.sabah.com.tr/yasam/konserve-kutularina-ve-ayakkabi-tabanlarina-gizlediler-135-kilo-esrarla-yakalandilar-7702165
+    publisher: Sabah
+    date: 2026-11-15
+    language: tr
 ---
 
 Istanbul narcotics teams detained two Tunisian nationals, Najla Ben Abdallah and
 Montassar Mosbehı, in an operation at Istanbul Airport. [@1,4,5,6,8,10,12,13,14] The two suspects
 were stopped after arriving on a flight from Casablanca, Morocco, on 14
-November, and were described in one account as two women passengers. [@3,15] The
+November, and were described in one account as two women passengers. [@3,15,16] The
 operation was run by the Istanbul police narcotics division as part of work
-against drug manufacturing and trafficking, monitoring incoming passengers. [@3,6,15]
+against drug manufacturing and trafficking, monitoring incoming passengers. [@3,6,15,16]
 
 Officers found a total of 13 kilograms 512 grams of esrar, reported as cannabis,
-hidden in the suspects' luggage. [@1,5,6,8,9,10,11,12,13,14,15] Of that total, 12 kilograms 226 grams were
-concealed in 73 cans and 1 kilogram 286 grams in the soles of four shoes. [@3,15]
+hidden in the suspects' luggage. [@1,5,6,8,9,10,11,12,13,14,15,16] Of that total, 12 kilograms 226 grams were
+concealed in 73 cans and 1 kilogram 286 grams in the soles of four shoes. [@3,15,16]
 
 The search was carried out under a search order obtained from the Gaziosmanpaşa
 Chief Public Prosecutor's Office after a tip-off. [@2,5,7,8,11,12,14] The search order was obtained from the Gaziosmanpaşa Chief Public Prosecutor's Office under GSBH (Gecikmesinde Sakınca Bulunan Hal) provisions. [@9] Police said the suspects
