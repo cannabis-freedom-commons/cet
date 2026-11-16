@@ -20,26 +20,30 @@ sources:
     publisher: قناة المملكة
     date: 2026-11-15
     language: ar
+  - title: الأردن يحبط محاولة تهريب مواد مخدرة بواسطة بالونات موجّهة
+    url: https://www.emaratalyoum.com/politics/news/2026-11-15-1.2103051
+    publisher: الإمارات اليوم
+    date: 2026-11-15
+    language: ar
 open_questions:
-  - The army statement names only generic narcotics and does not say whether any of the cargo was cannabis.
-  - No weight, number of balloons or value estimate was published.
-  - No arrests, detentions or suspects were reported.
-  - Neither the exact place on the border nor the country the balloons came from was named.
-  - Only one accessible source for this 15 November interception was found after searching in Arabic and English; every account repeats the same army statement.
+    - The army statement names only generic narcotics and does not say whether any of the cargo was cannabis.
+    - No weight, number of balloons or value estimate was published.
+    - No arrests, detentions or suspects were reported.
+    - Neither the exact place on the border nor the country the balloons came from was named.
+    - Both accounts repeat the same army statement.
 ---
 
 Jordan's Eastern Military Zone foiled an attempt at dawn on Sunday 15 November
 2026 to smuggle a large quantity of narcotics by guided balloons after spotting
-them heading toward Jordanian territory. [@1] Border Guard units acting within
+them heading toward Jordanian territory. [@1,2] Border Guard units acting within
 their area of responsibility engaged the balloons, brought them down inside
-Jordanian territory and seized the drugs they were carrying. [@1]
+Jordanian territory and seized the drugs they were carrying. [@1,2]
 
 The operation was carried out in coordination with the security and military
-agencies and the Anti-Narcotics Department. [@1] The seized material was handed
-over to the competent authorities for legal action. [@1]
+agencies and the Anti-Narcotics Department. [@1,2] The seized material was handed
+over to the competent authorities for legal action. [@1,2]
 
 The Jordan Armed Forces-Arab Army said it would continue performing its national
 duty with efficiency and firmly confront infiltration and smuggling attempts by
 any evolving methods to safeguard the kingdom's security, stability, sovereignty
 and the safety of its citizens. [@1]
-
