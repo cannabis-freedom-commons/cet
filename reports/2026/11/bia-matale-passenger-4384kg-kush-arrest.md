@@ -48,28 +48,36 @@ sources:
     url: https://adaderana.lk/news/251726
     publisher: Ada Derana
     date: 2026-11-16
+  - title: Three arrested with Rs. 130 million worth of Kush as police step up drug investigations
+    url: https://counterpoint.lk/three-arrested-with-rs-130-million-worth-of-kush-as-police-step-up-drug-investigations/
+    publisher: CounterPoint
+    date: 2026-11-16
+  - title: Kush landing! Three arrested at Katunayake Airport
+    url: https://www.newswire.lk/2026/11/16/kush-landing-three-arrested-at-katunayake-airport/
+    publisher: Newswire
+    date: 2026-11-16
 open_questions:
-  - The account rests on a single opened report, with no second source confirming the arrest or seizure.
-  - The Kush was described as discovered concealed in luggage; no laboratory confirmation was reported.
-  - No charge, detention measure or court outcome was reported; the case stood at handover for further investigation.
+    - The Kush was described as concealed in luggage and as suspected narcotics; no laboratory confirmation was reported.
+    - The two further suspects were due to be produced before the Negombo Magistrate's Court with detention orders sought, but no charge, detention outcome or court result was reported.
+    - The full operation involved three seizures totalling 13.048 kilograms valued at about Rs. 130.5 million, while this report's figures cover only the 4.384 kg Customs component.
+    - The third suspect's residence is spelled Nedunkerny in one account and Nedunkeni in others.
 ---
 
 Customs officers arrested a Sri Lankan passenger at the Bandaranaike
 International Airport earlier in the morning of 16 November 2026 while he was
 attempting to smuggle a consignment of the narcotic substance Kush through the
 airport. [@1] The suspect is a 30-year-old technician residing in the Matale
-area. [@1] He had reportedly bought the Kush in Thailand, travelled to Kuala
+area. [@1,2] He had reportedly bought the Kush in Thailand, travelled to Kuala
 Lumpur in Malaysia, and arrived at Katunayake Airport at around midnight on
 Malaysia Airlines flight MH179. [@1]
 
 Customs officers and Customs Narcotics Control Unit officials found 4.384
 kilograms of Kush packed in five packets and concealed inside two boxes meant
 for foreign liquor bottles, which were inside two pieces of luggage carried by
-the suspect. [@1] Customs valued the consignment at approximately 43.84 million
+the suspect. [@1,2] Customs valued the consignment at approximately 43.84 million
 rupees. [@1]
 
 The passenger had tried to leave the airport through the Green Channel, the lane
 for passengers with nothing to declare. [@1] The suspect and the seized Kush
 were handed over to officers of the Airport Police Narcotics Bureau for further
-investigation. [@1]
-
+investigation. [@1,3] The two further suspects had arrived on Malaysia Airlines flight MH179 at around midnight, like the Matale passenger. [@2] Police identified the two other suspects as a 35-year-old welder from Nedunkeni and a 46-year-old businessman from Kandy. [@2] The three seizures together amount to a combined total of 13.048 kilograms of Kush. [@3] In the same early-morning operation, Police Narcotics Bureau Airport Unit officers arrested two further suspects at the arrivals terminal with 4.336 kilograms and 4.328 kilograms of Kush respectively. [@3]
