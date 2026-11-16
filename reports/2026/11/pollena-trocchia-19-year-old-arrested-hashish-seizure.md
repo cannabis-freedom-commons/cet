@@ -52,27 +52,26 @@ sources:
     publisher: Napoli Village
     date: 2026-11-15
     language: it
-open_questions:
-  - Both hashish amounts are stated as approximate (about 6 grams and about 4 grams), so 10 grams is the combined reported amount, not an exact weighed total.
-  - The hashish is reported as found without any laboratory confirmation stated.
-  - The scooter driver who accelerated away was not caught and was not identified in these accounts.
-  - No detention measure, charge before a court or later outcome was reported beyond the arrest and the administrative sanction.
+  - title: 'Pollena Trocchia, fermato e trovato con dosi di hashish aggredisce gli agenti: arrestato 19enne'
+    url: https://www.cronachedellacampania.it/2026/11/pollena-trocchia-fermato-trovato-dosi-hashish-aggredisce-agenti/
+    publisher: Cronache della Campania
+    date: 2026-11-15
+    language: it
 ---
 
 State police arrested a 19-year-old in Pollena Trocchia for resistance to and
-injury of a public official. [@1] The events happened on the evening of Saturday
+injury of a public official. [@1,3] The events happened on the evening of Saturday
 14 November 2026. [@1] Officers of the San Giorgio a Cremano commissariat, on
 targeted patrols, were passing through via Garibaldi when they noticed two
 people on a scooter behaving suspiciously. [@1]
 
 The driver first stopped at the officers' signal but then suddenly accelerated
-and escaped. [@1] The 19-year-old passenger assaulted one of the officers, tried
-to flee on foot and was caught in viale Italia after a chase. [@1] The youth was
-carrying about 6 grams of hashish when stopped. [@1]
+and escaped. [@1,3] The 19-year-old passenger assaulted one of the officers, tried
+to flee on foot and was caught in viale Italia after a chase. [@1,3] The youth was
+carrying about 6 grams of hashish when stopped. [@1,3]
 
 A later check of his home found a knuckleduster and about 4 more grams of the
-same substance. [@1] He was also given an administrative sanction for possession
-of drugs for personal use. [@1] A second account confirms the same arrest for
+same substance. [@1,3] He was also given an administrative sanction for possession
+of drugs for personal use. [@1,3] A second account confirms the same arrest for
 resistance and injury to a public official and the same administrative sanction
 for unlawful possession of drugs for personal use. [@2]
-
