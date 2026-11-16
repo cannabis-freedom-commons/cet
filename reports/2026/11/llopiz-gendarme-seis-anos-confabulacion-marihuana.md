@@ -47,27 +47,32 @@ sources:
     publisher: El Ciudadano
     date: 2026-11-14
     language: es
+  - title: La Corte dejó firme condena a gendarme que ayudaba a narcos
+    url: https://www.diariohuarpe.com/nota/la-corte-dejo-firme-condena-a-gendarme-que-ayudaba-a-narcos-2026111423570
+    publisher: Diario Huarpe
+    date: 2026-11-15
+    language: es
 ---
 
 The Supreme Court of Justice confirmed a six-year prison sentence for gendarme
 Lucas Alejandro Llopiz, who was found guilty of colluding with a marijuana
-trafficking network and alerting its members about route controls. [@1,2,3,4,5] The
+trafficking network and alerting its members about route controls. [@1,2,3,4,5,6] The
 ruling was signed by Justices Horacio Rosatti, Carlos Rosenkrantz and Ricardo
-Lorenzetti, who dismissed the gendarme's formal-irregularities appeal. [@1,2,3,5] The complaint was dismissed because the defence, led by lawyer Gastón Chapo, failed to attach a copy of the reply to the extraordinary appeal as required by article 7, subsection c, of acordada 4/2007. [@3]
+Lorenzetti, who dismissed the gendarme's formal-irregularities appeal. [@1,2,3,5,6] The complaint was dismissed because the defence, led by lawyer Gastón Chapo, failed to attach a copy of the reply to the extraordinary appeal as required by article 7, subsection c, of acordada 4/2007. [@3]
 While serving in the Gendarmería Nacional Anti-Drugs Section in Ituzaingó,
 Llopiz contacted José Alberto Laurencio, identified as one of the organization's
-leaders, and passed information about vehicles under investigation. [@1,4]
+leaders, and passed information about vehicles under investigation. [@1,4,6]
 
 The investigation began in March 2017 after an informant tip about a Gendarmería
 control on Route 14 by Squad 57 Santo Tomé. [@1,3] The tip came from a person whose identity was kept confidential. [@3] Squad 57 Santo Tomé stopped a
 Scania truck on Route 14 carrying 4,631 packages of marijuana weighing 3,985.355
-kilograms. [@1,2,3,4,5] Investigators said the marijuana entered Argentina from Paraguay
+kilograms. [@1,2,3,4,5,6] Investigators said the marijuana entered Argentina from Paraguay
 through riverside areas of the Paraná River at Cerro Corá and was moved to
-warehouses in Posadas. [@1,3,4,5]
+warehouses in Posadas. [@1,3,4,5,6]
 
 The drug was later loaded into different vehicles and transported by land to
 Roldán in Santa Fe, Gualeguaychú in Entre Ríos, and the City of Buenos Aires,
 where it was sold, using scout cars, ambulances and legitimate cargo to hide it.
 [@1] The Federal Court of Corrientes sentenced Llopiz in August 2023, and the
 Federal Chamber of Criminal Cassation rejected his defence appeal in May 2024,
-leaving the sentence in place. [@1,3,5] In the same oral trial another man received a five-year prison sentence for holding drugs for sale and illegal possession of a firearm, while four other people were convicted through abbreviated procedures. [@3]
+leaving the sentence in place. [@1,3,5,6] In the same oral trial another man received a five-year prison sentence for holding drugs for sale and illegal possession of a firearm, while four other people were convicted through abbreviated procedures. [@3]
