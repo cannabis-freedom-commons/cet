@@ -136,6 +136,11 @@ sources:
     publisher: 凤凰网
     date: 2026-11-15
     language: zh
+  - title: 国际中转旅客携带40多斤毒品大麻过关被查获
+    url: https://www.sohu.com/a/1101615445_120347736?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
+    publisher: 大象新闻
+    date: 2026-11-14
+    language: zh
 ---
 
 Guangzhou customs seized 20.051 kg of cannabis in the passenger-inspection
@@ -148,7 +153,7 @@ a strong irritant smell when opened. [@1,2,3,5,6,7,9,10,12,13,14,15,17] A techni
 material and confirmed it was cannabis weighing 20.051 kg. [@1,3,6,9,10,12,13,15,16,17]
 
 The Chinese reports put the seizure at more than 40 jin, a traditional unit of
-about 500 grams. [@2] Customs reminded the public that smuggling, selling,
+about 500 grams. [@2,18] Customs reminded the public that smuggling, selling,
 transporting or manufacturing drugs carries criminal liability in China
 regardless of quantity, citing the Criminal Law and the Anti-Drug Law. [@1,3,5,6,9,11,13] The
 accounts describe the traveller only as a passenger and name no arrest, charge
