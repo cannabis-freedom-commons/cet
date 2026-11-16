@@ -57,27 +57,27 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-16
     language: hi
-open_questions:
-  - No laboratory confirmation for the 250 grams described as illegal charas was reported.
-  - No street value, source, or intended recipients for the charas were published.
-  - The prior Excise Act, NDPS Act, and Arms Act cases are police-record claims with no court outcomes given.
-  - Both accounts are from Dainik Bhaskar and reproduce the Mandi police version; no independent police statement was opened.
+  - title: सहारनपुर में 250 ग्राम अवैध चरस के साथ शातिर नशा तस्कर गिरफ्तार, एनडीपीएस एक्ट में केस दर्ज
+    url: https://royalbulletin.in/uttar-pradesh/saharanpur/drug-smuggler-arrested-with-250-grams-illegal-charas-in-saharanpur/article-255837
+    publisher: Royal Bulletin
+    date: 2026-11-15
+    language: hi
 ---
 
 Mandi police in Saharanpur arrested a drug peddler near the ruined building at
-the Mandi Samiti and recovered illegal charas from his possession. [@1] The
+the Mandi Samiti and recovered illegal charas from his possession. [@1,4] The
 arrested man was identified as Atiq, son of Saeed alias Mathu, who lives near
-the water tank at Khatakheri in the Mandi station area. [@2] A Mandi police team
+the water tank at Khatakheri in the Mandi station area. [@2,4] A Mandi police team
 on patrol on Sunday stopped the suspect near the ruined building by the garbage
 heap inside the Mandi Samiti premises, searched him, and took him into custody.
-[@2]
+[@2,4]
 
 The search recovered 250 grams of illegal charas, a handmade cannabis resin,
 from his possession. [@2] Station house officer Virendra Singh Rana said Mandi
 police carried out the action at about 1 pm on Sunday under the Operation Savera
 campaign. [@2] Police registered a case against him at Mandi police station,
 began proceedings under the NDPS Act, India's main anti-drug law, and were
-preparing to produce him before a court. [@2]
+preparing to produce him before a court. [@2] Police registered case number 567/2026 against Atiq at Mandi police station under sections 8/20 of the NDPS Act. [@4]
 
 Police records cited in the account say Atiq had earlier faced an Excise Act
 case in 2021, two NDPS Act cases in 2022, and an Arms Act case this year. [@2]
@@ -86,4 +86,3 @@ find where he brought the charas from and to whom he supplied it. [@2] A second
 Dainik Bhaskar account confirms Mandi police arrested the accused under
 Operation Savera and recovered 250 grams of charas. [@3] That account dates the
 patrol arrest at the ruined building to 15 November. [@3]
-
