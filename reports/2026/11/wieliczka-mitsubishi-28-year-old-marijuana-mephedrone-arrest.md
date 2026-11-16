@@ -57,20 +57,25 @@ sources:
     publisher: limanowa.in
     date: 2026-11-14
     language: pl
+  - title: 'Wieliczka: 28-latek przewoził autem pół kg. mefedronu. W jego pokoju znaleźli więcej narkotyków'
+    url: https://informacje.wp.pl/wiadomosci/28-latek-przewozil-autem-pol-kilograma-mefedronu-w-jego-pokoju-policjanci-znalezli-wiecej-narkotykow-7351264331151360a
+    publisher: WP Info
+    date: 2026-11-15
+    language: pl
 ---
 
 Officers from the criminal department of the Wieliczka county police stopped a
 Mitsubishi at a check in a village in Wieliczka municipality at about 20:30 on 5
-November 2026. [@1,3] The driver, a 28-year-old resident of Limanowa County, had
-nearly half a kilogram of mefedron in the car and was detained. [@2]
+November 2026. [@1,3,4] The driver, a 28-year-old resident of Limanowa County, had
+nearly half a kilogram of mefedron in the car and was detained. [@2,4]
 
 Officers from Limanowa then searched the room the man occupied and found more
-than half a kilogram of marijuana and about 20 grams more mefedron. [@2,3] Police
+than half a kilogram of marijuana and about 20 grams more mefedron. [@2,3,4] Police
 said that in total more than a kilogram of illicit substances was secured across
-the car and the room. [@2]
+the car and the room. [@2,4]
 
 The 28-year-old was charged with two counts of possessing a significant quantity
 of intoxicants and psychotropic substances under article 62 paragraph 2 of the
-Polish act on counteracting drug addiction. [@2] That offence carries a prison
+Polish act on counteracting drug addiction. [@2,4] That offence carries a prison
 term of one to ten years. [@1] The Wieliczka officers were joined by Limanowa
 police for the search of the man's home. [@2]
