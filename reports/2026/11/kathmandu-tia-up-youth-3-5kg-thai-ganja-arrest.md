@@ -59,19 +59,24 @@ sources:
     url: https://farsightnepal.com/news/indian-national-arrested-at-tia-with-55-kilos-of-heroin/
     publisher: Farsight
     date: 2026-11-15
+  - title: 'Siddharthnagar News:3.5 किलो थाई गांजे के साथ भारतीय युवक गिरफ्तार - Siddharthnagar News: Indian Man Arrested With 3.5 Kg Of Thai Cannabis - Siddharthnagar News'
+    url: https://www.amarujala.com/uttar-pradesh/siddharthnagar/siddharthnagar-news-indian-man-arrested-with-35-kg-of-thai-cannabis-siddharthnagar-news-c-227-1-sdn1031-168186-2026-11-15
+    publisher: Amar Ujala
+    date: 2026-11-15
+    language: hi
 ---
 
 Nepal's Narcotics Control Bureau arrested 22-year-old Uttar Pradesh resident
 Salman at Tribhuvan International Airport in Kathmandu with 3.5 kg of Thai
-ganja. [@1,4] Amar Ujala places Salman's arrest on Friday at the same airport with
+ganja. [@1,4,5] Amar Ujala places Salman's arrest on Friday at the same airport with
 3.5 kg of Thai ganja, corresponding to 13 November 2026. [@2] Salman had reached
-Kathmandu from Delhi by air. [@1] Nepal's Narcotics Control Bureau disclosed
+Kathmandu from Delhi by air. [@1,5] Nepal's Narcotics Control Bureau disclosed
 both airport cases at a press briefing on Sunday. [@2]
 
 Officers found the ganja concealed in plastic packets in his bag while
-monitoring suspicious passengers. [@1] Officers searched his bag after his
+monitoring suspicious passengers. [@1,5] Officers searched his bag after his
 behaviour raised suspicion during monitoring of suspicious passengers. [@2]
-Officers also seized one passport and a mobile phone from him. [@1] The
+Officers also seized one passport and a mobile phone from him. [@1,5] The
 Narcotics Control Bureau team from Koteshwar arrested him and is investigating
 the case and the possible trafficking network. [@3]
 
