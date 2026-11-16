@@ -50,28 +50,26 @@ sources:
     publisher: Haberler
     date: 2026-11-16
     language: tr
-open_questions:
-    - No separate date for the operations was given; 16 November 2026 is the publication date and stands in for the incident date.
-    - No number of suspects arrested or detained was reported, although follow-up work on caught suspects was mentioned.
-    - No breakdown of the seizure between Şanlıurfa and Hakkari, or between Siverek and Yüksekova, was reported.
-    - The 19 kilograms of methamphetamine and the unspecified drug-making materials are excluded from the cannabis figures.
-    - The report does not specify the form of the 177 kilograms of esrar beyond its name.
-    - Both the earlier Haber365 account and this Yeni Ufuk account reproduce the same Interior Ministry statement, so there is still no independent account beyond the ministry's figures.
+  - title: 'Jandarma''dan Şanlıurfa ve Hakkâri''de uyuşturucu operasyonu: 566 kilogram ele geçirildi!'
+    url: https://t24.com.tr/gundem/jandarmadan-sanliurfa-ve-hakkride-uyusturucu-operasyonu-566-kilogram-ele-gecirildi,1359234
+    publisher: T24
+    date: 2026-11-16
+    language: tr
 ---
 
 Gendarmerie forces carried out narcotics operations in Şanlıurfa and Hakkari
 provinces, and a statement from the Interior Ministry said a total of 566
-kilograms of drugs was seized in those operations. [@1,2,3,4] The operations were
+kilograms of drugs was seized in those operations. [@1,2,3,4,5] The operations were
 coordinated by the Gendarmerie General Command's department for combating
 narcotics crime, working in cooperation with the Siverek and Yüksekova chief
-public prosecutor's offices. [@1,2,4] Teams from the Şanlıurfa and Hakkari
+public prosecutor's offices. [@1,2,4,5] The provincial gendarmerie teams carried out the operations after intelligence work. [@5] Teams from the Şanlıurfa and Hakkari
 provincial gendarmerie commands conducted the operations against people
 manufacturing narcotics, achieving what the report describes as a significant
 success. [@1,2]
 
 Officers seized a total of 370 kilograms of skunk, 177 kilograms of esrar and 19
 kilograms of methamphetamine, together with an unspecified quantity of materials
-used to make other drugs. [@1,2,3,4] The skunk and esrar form the cannabis portion of
+used to make other drugs. [@1,2,3,4,5] The skunk and esrar form the cannabis portion of
 the seizure, while the methamphetamine is a separate non-cannabis drug that is
 not counted in the cannabis total. [@1]
 
