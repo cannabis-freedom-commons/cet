@@ -82,6 +82,11 @@ sources:
     publisher: エキサイトニュース
     date: 2026-11-16
     language: ja
+  - title: 「自分で使うために栽培していた」自宅で大麻草を栽培した疑い 無職の男（67）を再逮捕 岡山
+    url: https://www.msn.com/ja-jp/news/other/%E8%87%AA%E5%88%86%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AB%E6%A0%BD%E5%9F%B9%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F-%E8%87%AA%E5%AE%85%E3%81%A7%E5%A4%A7%E9%BA%BB%E8%8D%89%E3%82%92%E6%A0%BD%E5%9F%B9%E3%81%97%E3%81%9F%E7%96%91%E3%81%84-%E7%84%A1%E8%81%B7%E3%81%AE%E7%94%B7-67-%E3%82%92%E5%86%8D%E9%80%AE%E6%8D%95-%E5%B2%A1%E5%B1%B1/ar-AA2hvyGm
+    publisher: MSN
+    date: 2026-11-16
+    language: ja
 media:
   - kind: photo
     url: https://www.sanyonews.jp/article/2021828
@@ -103,6 +108,6 @@ man’s home on 4 November and found one cannabis cigarette, which led them to
 arrest him. [@2,9]
 
 During questioning the man admitted the allegation, telling police that it was
-correct. [@1,3,4] The man admitted the cultivation allegation, telling police he grew it for his own use. [@5,6,8,9,10] Officers also found a plant resembling cannabis in the garden of
-the residence. [@1,3,5] The home garden measured about 75 square metres and held nine cannabis plants. [@9] Testing of the suspected plants seized from the man's garden confirmed they were cannabis, leading to the re-arrest on 16 November. [@8] Police allege he grew cannabis in his home garden between 15 October and 4 November 2026. [@5,6,7,9] Police are investigating the garden find on suspicion that
-the man had been cultivating cannabis. [@1,3] On 16 November police re-arrested the 67-year-old unemployed man on suspicion of cultivating cannabis in violation of the cannabis cultivation regulation. [@5,6,9,10]
+correct. [@1,3,4] The man admitted the cultivation allegation, telling police he grew it for his own use. [@5,6,8,9,10,11] Officers also found a plant resembling cannabis in the garden of
+the residence. [@1,3,5] The home garden measured about 75 square metres and held nine cannabis plants. [@9] Testing of the suspected plants seized from the man's garden confirmed they were cannabis, leading to the re-arrest on 16 November. [@8] Police allege he grew cannabis in his home garden between 15 October and 4 November 2026. [@5,6,7,9,11] Police are investigating the garden find on suspicion that
+the man had been cultivating cannabis. [@1,3] On 16 November police re-arrested the 67-year-old unemployed man on suspicion of cultivating cannabis in violation of the cannabis cultivation regulation. [@5,6,9,10,11]
