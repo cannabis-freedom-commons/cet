@@ -103,14 +103,21 @@ sources:
     publisher: UnoMásUno
     date: 2026-11-15
     language: es
+  - title: SEDENA destruye 38 plantíos de amapola y marihuana en cuatro entidades
+    url: https://contra-punto.mx/sedena-destruye-38-plantios-de-amapola-y-marihuana-en-cuatro-entidades/
+    publisher: Contrapunto MX
+    date: 2026-11-15
+    language: es
+open_questions:
+  - The per-crop areas newly reported (3.46 hectares of poppy and 0.83 hectares of marijuana) add up to 4.29 hectares, less than the 4.9-hectare total given for the same operation, with no explanation reported.
 ---
 
 The operations were carried out on 13 November 2026 through ground and air
 reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6,7,9,10,11] Soldiers
 of the Mexican Army and Air Force located and destroyed 38 drug plantations in
-four states as part of operations against narcotics production. [@3,4,5,6,8,9,10,11] Of the 38
+four states as part of operations against narcotics production. [@3,4,5,6,8,9,10,11,12] The crops were destroyed by incineration and aerial fumigation. [@12] Of the 38
 plantations, 20 were poppy crops and 18 were marijuana crops, together covering
-4.9 hectares. [@3,5,6,7,9,10,11]
+4.9 hectares. [@3,5,6,7,9,10,11,12] The 20 poppy plots covered 3.46 hectares and the 18 marijuana plots covered 0.83 hectares. [@12]
 
 A Milenio Facebook post announced the destruction of 38 poppy and marijuana
 plantations in four states with the participation of the Army and the Air Force.
