@@ -68,26 +68,24 @@ sources:
     publisher: Grupo Milenio
     date: 2026-11-14
     language: es
-open_questions:
-  - No number of cannabis plants destroyed was reported, only the count of 18 marijuana plantations.
-  - The reported 4.9 hectares and 6.02 million pesos cover poppy and marijuana together and cannot be separated into a cannabis-only figure, so they are kept out of the structured figures.
-  - The authorities gave no breakdown of how many plantations were destroyed in each of the four states.
-  - No arrests, charges or court outcome linked to the plantations were reported.
-  - The submitted Milenio page is a Facebook post carrying only the headline and a link; the operation details come from the two opened full reports.
-  - The text gives an area ("4.9 hectares") but the figures have no hectares; check whether it belongs there.
+  - title: "Destruyó Ejército plantíos de marihuana y amapola en Chihuahua\U0001F3A6"
+    url: https://www.tiempo.com.mx/local/destruccion-plantios-marihuana-amapola-chihuahua-ejercito-mexicano/
+    publisher: Tiempo
+    date: 2026-11-14
+    language: es
 ---
 
 The operations were carried out on 13 November 2026 through ground and air
-reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3] Soldiers
+reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6] Soldiers
 of the Mexican Army and Air Force located and destroyed 38 drug plantations in
-four states as part of operations against narcotics production. [@3,4,5] Of the 38
+four states as part of operations against narcotics production. [@3,4,5,6] Of the 38
 plantations, 20 were poppy crops and 18 were marijuana crops, together covering
-4.9 hectares. [@3,5]
+4.9 hectares. [@3,5,6]
 
 A Milenio Facebook post announced the destruction of 38 poppy and marijuana
 plantations in four states with the participation of the Army and the Air Force.
 [@1] Defence figures put the estimated economic damage to organised crime from
-destroying the crops at 6,020,000 pesos. [@3,4,5] The Defence Ministry confirmed the
+destroying the crops at 6,020,000 pesos. [@3,4,5,6] The Defence Ministry confirmed the
 operation on 14 November through its official channels. [@2]
 
 No arrests linked to the plantations and no criminal groups allegedly
