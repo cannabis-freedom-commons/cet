@@ -80,6 +80,11 @@ sources:
     url: https://www.bbc.com/news/articles/cq62y01r2313o
     publisher: BBC News
     date: 2026-11-09
+  - title: Bandele franceze de traficanți de droguri care recrutează copii pentru a ucide - BBC News România
+    url: https://www.bbc.com/romania/articles/c53989emnvpdo
+    publisher: BBC News România
+    date: 2026-11-16
+    language: ro
 open_questions:
   - The Slovak account and the BBC report it follows give the boys' age as 15 and the escape window as the second storey; French court reporting gives 16 and the third floor.
   - The note says the boys were 15, while the court reporting says they were 16.
@@ -87,6 +92,7 @@ open_questions:
   - No appeal or later outcome after the verdict is reported.
   - The amount of hashish sold at the dealing point is not reported.
   - No count of arrests in the investigation is reported.
+  - 'Left out, as its quotation was not found in BBC News România: They were made to dance naked in front of a camera for blackmail, and one of them was raped.'
 ---
 
 Six men were sentenced on 12 February 2026 by the Bouches-du-Rhône assizes court
@@ -102,13 +108,13 @@ jailer. [@2] The only defendant not in custody was sentenced to six years. [@2]
 The victims were 16-year-old runaways from two rural communes of
 Bouches-du-Rhône, recruited in January 2022 to sell drugs at the Frais-Vallon
 estate. [@2] One handled the money and the other sold on the streets around the
-estate. [@1] They were held for four days, beaten with fists, feet and sticks
+estate. [@1,6] They were held for four days, beaten with fists, feet and sticks
 and forced to work for free over an imaginary debt. [@2] They were made to dance
 naked in front of a camera for blackmail, and one of them was raped. [@1] A
-woman who had just bought hashish from them called the police. [@5] The note she
+woman who had just bought hashish from them called the police. [@5,6] The note she
 was handed read: "We are being held captive and need help. We are 15-years-old."
 [@1] The pair jumped from the third floor to escape. [@3] One got away, while
-the other was caught, beaten and stabbed, but survived. [@5]
+the other was caught, beaten and stabbed, but survived. [@5,6]
 
 The defence pleaded for acquittal, arguing that the case rested on the word of
 one victim. [@2] The court was specially composed of professional judges. [@4]
@@ -116,4 +122,3 @@ Prosecutor Pierre Cortès called the case the "horrifying reality" of drug
 trafficking. [@4] Official figures counted more than 10,000 minors involved in
 trafficking in France in 2025. [@1] Police say they have detained about 1,000
 people linked to the DZ Mafia since 2024, 600 of whom were jailed. [@1]
-
