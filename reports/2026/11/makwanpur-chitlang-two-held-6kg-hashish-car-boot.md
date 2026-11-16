@@ -57,6 +57,10 @@ sources:
     publisher: Racekhabar
     date: 2026-11-16
     language: ne
+  - title: Two arrested with 6.04 kg of hashish in Chitlang
+    url: https://myrepublica.nagariknetwork.com/news/two-arrested-with-604-kg-of-hashish-in-chitlang-66-85.html
+    publisher: MyRepublica
+    date: 2026-11-16
 open_questions:
   - The weight is given as 6 kg in short accounts and as 6.04 kg, or 6 kg 40 grams, in fuller accounts; 6.04 kg is used.
   - The material was described as charas and as a substance suspected to be hashish, with no laboratory confirmation reported.
@@ -67,17 +71,16 @@ open_questions:
 
 A police team from the Area Police Office in Palung stopped vehicles at the
 Chitlang checkpoint in Thaha Municipality-9, Makwanpur, at around 1:45 in the
-early morning. [@1] Police arrested the car's driver, 33-year-old Hevin Shrestha
+early morning. [@1,5] The Palung team was under the command of Police Inspector Gobinda Prasad Bhandari. [@5] Police arrested the car's driver, 33-year-old Hevin Shrestha
 of Dhulikhel in Kavre, and 21-year-old Divyashree Kafle of Bharatpur in Chitwan.
-[@2]
+[@2,5] Shrestha's permanent address was Dhulikhel Municipality-3 with a current address at Teen Dobato, Banepa-8, while Kafle's permanent address was Koltandi, Bharatpur-11 with a current address at Kshetrapur, Bharatpur-2. [@5]
 
 Officers found five packets of charas wrapped in white plastic and hidden among
-clothes inside a black luggage bag in the car's rear boot. [@2] The seized
+clothes inside a black luggage bag in the car's rear boot. [@2,5] The seized
 packets weighed 6.04 kilograms, reported in short accounts as 6 kg of charas, a
-cannabis resin commonly called hashish. [@3] The white SUV, registration Ba Pra
+cannabis resin commonly called hashish. [@3,5] The bundles weighed 6.14 kilograms with the plastic packaging before the 6.04-kilogram net weight. [@5] The white SUV, registration Ba Pra
 01-035 Cha 4561, was travelling from Hetauda towards Kathmandu when it was
-stopped and checked. [@2]
+stopped and checked. [@2,5] The vehicle was a white Omoda Jaecoo 6T SUV travelling towards Kathmandu via Gorkha, Sauraha in Chitwan and Hetauda. [@5]
 
 Police kept the seized drugs, the car used and both people in custody for
-investigation and legal action. [@4]
-
+investigation and legal action. [@4,5]
