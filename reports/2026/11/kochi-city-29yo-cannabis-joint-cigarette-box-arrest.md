@@ -35,27 +35,28 @@ sources:
     publisher: TBS NEWS DIG (テレビ高知)
     date: 2026-11-16
     language: ja
-open_questions:
-  - No weight was reported for the single hand-rolled cannabis cigarette, described only as a trace amount, so no cannabis weight is recorded.
-  - The man was arrested on suspicion of violating the Narcotics Control Act; no charge, detention measure or court outcome was reported.
-  - The year 2026 for the 15th is inferred from the 16 November 2026 publication dates of both reports.
+  - title: パトカーを見て慌てて物陰に…職務質問で「大麻のにおい」タバコの箱に乾燥大麻を隠し持っていた29歳男を逮捕【高知】
+    url: https://topics.smt.docomo.ne.jp/article/kutv/region/kutv-3088295?redirect=1
+    publisher: KUTVテレビ高知
+    date: 2026-11-16
+    language: ja
 ---
 
 A 29-year-old self-described company employee was arrested for possessing dried
 cannabis on a street in Kochi city after officers saw him hide from their patrol
-car and stopped him for questioning. [@1,3] The arrested man is described as a
+car and stopped him for questioning. [@1,3,4] The arrested man is described as a
 resident of the Kanda district of Kochi city. [@1,3] The Kochi Police Station says
 the alleged possession occurred on a street in the city at about 5:15 p.m. on
-the 15th. [@1]
+the 15th. [@1,4]
 
 Officers who were patrolling the city in a patrol car spotted the man hiding
-behind cover. [@1] During the street questioning, the officers noticed the
+behind cover. [@1,4] During the street questioning, the officers noticed the
 distinctive smell of cannabis coming from the man and decided to search his
-belongings. [@2] That search found one cigarette rolled with dried cannabis in
+belongings. [@2,4] That search found one cigarette rolled with dried cannabis in
 rolling paper concealed inside his cigarette box. [@2] Police describe the
 seized material as a trace amount of dried cannabis and are treating the case as
 a suspected violation of the Narcotics Control Act. [@2]
 
 The man admitted the allegation during questioning, telling investigators that
-it was correct. [@2] Police say they are continuing a detailed investigation
+it was correct. [@2,4] Police say they are continuing a detailed investigation
 into how he obtained the cannabis and other circumstances of the case. [@2]
