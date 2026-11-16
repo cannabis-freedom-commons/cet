@@ -59,19 +59,24 @@ sources:
     publisher: চাটগাঁ নিউজ
     date: 2026-11-13
     language: bn
+  - title: চট্টগ্রাম রেঞ্জ পুলিশের বিশেষ অভিযানে গ্রেপ্তার ১২১০
+    url: https://www.newszonebd.com/amp/100218/%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%B0%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9C-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%A7%E0%A7%A8%E0%A7%A7%E0%A7%A6/
+    publisher: Newszonebd
+    date: 2026-11-14
+    language: bn
 ---
 
 Law-enforcement agencies detained 1,210 people in a 24-hour special operation
 across Chattogram and 10 other districts targeting teen gangs, mugging,
-extortion, terrorist activity and drugs. [@1,2,4] In the anti-drug part of the
-drive, officers arrested 130 drug users and 34 alleged drug traders. [@1,3,4]
+extortion, terrorist activity and drugs. [@1,2,4,5] In the anti-drug part of the
+drive, officers arrested 130 drug users and 34 alleged drug traders. [@1,3,4,5]
 Officers also detained 537 people in the anti-teen-gang part of the operation.
-[@1,4] Of the 537 teenagers detained, 339 were handed to guardians on bond while legal action was taken against the remaining 198. [@2,4] The operation ran from Thursday morning to Friday morning on 13 November
+[@1,4] Of the 537 teenagers detained, 339 were handed to guardians on bond while legal action was taken against the remaining 198. [@2,4,5] The operation ran from Thursday morning to Friday morning on 13 November
 2026. [@1]
 
 Officers seized 15 kg 135 grams of ganja, the local name for cannabis flower,
-alongside yaba pills and other drugs. [@1,3,4] Mobile courts jailed 43 people for
-various terms during the anti-drug drive. [@1,2,4] The authorities collected Tk
+alongside yaba pills and other drugs. [@1,3,4,5] Mobile courts jailed 43 people for
+various terms during the anti-drug drive. [@1,2,4,5] The authorities collected Tk
 26,700 in fines. [@1,3,4] Police filed 28 cases under the narcotics law. [@1,4]
 
 Chattogram Range Deputy Inspector General Abdul Quddus Chowdhury announced the
