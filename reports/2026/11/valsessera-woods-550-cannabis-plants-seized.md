@@ -74,6 +74,11 @@ sources:
     publisher: RaiNews
     date: 2026-11-16
     language: it
+  - title: Si addentrano nel bosco e scoprono una maxi coltivazione di marijuana. Sequestrate oltre 550 piante
+    url: https://www.giornalelavoce.it/news/cronaca/757449/si-addentrano-nel-bosco-e-scoprono-una-maxi-coltivazione-di-marijuana-sequestrate-oltre-550-piante.html
+    publisher: Giornale La Voce
+    date: 2026-11-16
+    language: it
 open_questions:
   - The reports say the discovery came in recent days but give no calendar date for the operation; 16 November 2026 is the publication date and stands in for the incident date.
   - The total is reported as over 550 plants, about 500 still in the ground plus about 50 already harvested, and is stored as 550.
@@ -84,15 +89,15 @@ open_questions:
 
 Carabinieri from the Masserano and Bioglio stations, with forestry Carabinieri
 units from Biella and Sordevolo, found an illegal cannabis cultivation in a
-steep woodland area reachable only on foot in a Valsessera municipality. [@3,4]
+steep woodland area reachable only on foot in a Valsessera municipality. [@3,4,5]
 The plantation was found and dismantled, and investigators are now hunting for
 the growers who planted it in the Valsessera woods. [@1] The seizure was made
 against unknown persons and placed at the disposal of the judiciary, with no
-suspects identified or arrested. [@3]
+suspects identified or arrested. [@3,5]
 
 About 500 plants of some size stood in regular rows served by a rudimentary
 irrigation system, with some 50 harvested plants drying in a nearby hut. [@1]
 Officers also found a rustic drying shed holding the uprooted plants and an
 improvised water system of collection tanks linked to irrigation channels
 serving the plantation. [@3,4] In total, more than 550 cannabis plants and the
-equipment on site were uprooted, recovered and seized. [@2,4]
+equipment on site were uprooted, recovered and seized. [@2,4,5]
