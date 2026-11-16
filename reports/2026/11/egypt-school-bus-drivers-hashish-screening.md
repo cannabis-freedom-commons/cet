@@ -172,9 +172,14 @@ sources:
     publisher: إخباري 24 نيوز
     date: 2026-11-13
     language: ar
+  - title: ضبط 31 سائقا بحافلات مدرسية يتعاطون مخدري الحشيش والترامادول وإحالتهم إلى النيابة
+    url: https://arqam.news/608507/
+    publisher: مجلة أرقام
+    date: 2026-11-08
+    language: ar
 ---
 
-Egypt's Fund for Combating and Treatment of Addiction said on 8 November 2026 that early checks during the first two months of the 2026/2027 school year had tested 4,510 school-bus drivers in several governorates. [@6,19] Samples from 31 drivers were positive, 28 of them for hashish and three for tramadol. [@6,19,20] All 31 were referred to the public prosecution for driving under the influence, and the fund coordinated with the education ministry to dismiss any of them found to be working in schools. [@6,19,20] The three tramadol results are not counted as cannabis cases. [@6]
+Egypt's Fund for Combating and Treatment of Addiction said on 8 November 2026 that early checks during the first two months of the 2026/2027 school year had tested 4,510 school-bus drivers in several governorates. [@6,19,21] Samples from 31 drivers were positive, 28 of them for hashish and three for tramadol. [@6,19,20,21] All 31 were referred to the public prosecution for driving under the influence, and the fund coordinated with the education ministry to dismiss any of them found to be working in schools. [@6,19,20,21] The three tramadol results are not counted as cannabis cases. [@6]
 
 The same statement named the General Directorate of Drug Control, the General Traffic Directorate, the General Secretariat for Mental Health and the education ministry's Central Security Department as taking part. [@6,20] The fund's director, Amr Osman, received the report of the results. [@6] Parents can report a suspected driver on the hotline 16023, and the fund said that would bring an immediate confidential check. [@6,19,20] The fund said the checks would continue through the school year and expand to other governorates. [@6,20]
 
