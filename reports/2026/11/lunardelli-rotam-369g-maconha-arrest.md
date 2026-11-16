@@ -54,6 +54,11 @@ sources:
     publisher: Ivaipora Online
     date: 2026-11-15
     language: pt
+  - title: Homem é preso por tráfico com maconha em Lunardelli - Nova Era News
+    url: https://novaeranews.com.br/homem-e-preso-por-trafico-com-maconha-em-lunardelli/
+    publisher: Nova Era News
+    date: 2026-11-16
+    language: pt
 open_questions:
     - The 369-gram weight is described as approximate, with no laboratory confirmation reported.
     - The suspect was not named and no age was published, and no charge, hearing or court outcome beyond referral to the flagrante centre was reported.
@@ -61,18 +66,18 @@ open_questions:
 
 A ROTAM patrol arrested a man on suspicion of drug trafficking in the early
 hours of Sunday 15 November 2026 at Praça Geremia Lunardelli in central
-Lunardelli. [@1,2] The approach happened at about 01h15. [@2] The ROTAM team was patrolling the public square when it saw the
+Lunardelli. [@1,2] The approach happened at about 01h15. [@2,3] The ROTAM team was patrolling the public square when it saw the
 man discard an object into the vegetation as he noticed the approaching patrol
-vehicle. [@1,2] Officers carried out the approach and located the maconha tablet.
+vehicle. [@1,2,3] Officers carried out the approach and located the maconha tablet.
 [@1,2] When questioned by the team after the seizure, the man admitted that he was
-selling the drug. [@1,2] Officers gave the suspect voice of arrest at the scene.
+selling the drug. [@1,2,3] Officers gave the suspect voice of arrest at the scene.
 [@1,2]
 
 The seized drug was a single tablet of maconha described by police as weighing
-approximately 369 grams. [@1,2] In addition to the drug, officers seized a mobile
-phone from the suspect. [@1,2]
+approximately 369 grams. [@1,2,3] In addition to the drug, officers seized a mobile
+phone from the suspect. [@1,2,3]
 
 The account attributes the patrol to the ROTAM team of the 6th Independent
 Military Police Company during the square patrol. [@1] The man was taken
 together with the seized materials to the Central de Flagrantes in São João do
-Ivaí for the applicable legal procedures. [@1,2]
+Ivaí for the applicable legal procedures. [@1,2,3]
