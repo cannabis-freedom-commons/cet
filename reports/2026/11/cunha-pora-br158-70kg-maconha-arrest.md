@@ -47,6 +47,11 @@ media:
     media_url: https://ocp.news/wp-content/uploads/2026/11/Drogas-1024x683.jpg
     publisher: OCP News
     caption: 'Seized drug tablets hidden in the car''s front and rear seats. Photo: PRF'
+  - kind: photo
+    url: https://oestescnoticias.com.br/oeste-noticias/policial/casal-e-preso-com-70-quilos-de-maconha-escondidos-em-carro-na-br-158-em-cunha-pora/
+    media_url: https://oestescnoticias.com.br/content/2026/11/prf-cunha-convertido.webp
+    publisher: Oeste SC Notícias
+    caption: 'PRF photo of the drug seizure from the car stopped on BR-158 in Cunha Pora. Photo: PRF'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c457a331815021a90d63d5543ddfa7ae
@@ -77,6 +82,11 @@ sources:
     publisher: DI Regional
     date: 2026-11-16
     language: pt
+  - title: Casal é preso com 70 quilos de maconha escondidos em carro na BR-158 em Cunha Porã
+    url: https://oestescnoticias.com.br/oeste-noticias/policial/casal-e-preso-com-70-quilos-de-maconha-escondidos-em-carro-na-br-158-em-cunha-pora/
+    publisher: Oeste SC Notícias
+    date: 2026-11-16
+    language: pt
 open_questions:
   - No names, ages or other identifiers for the two men were published.
   - No charges, detention measure or court outcome beyond transport to the police station were reported.
@@ -85,12 +95,12 @@ open_questions:
 ---
 
 Federal Highway Police officers stopped a car on BR-158 in Cunha Pora, in
-western Santa Catarina, and seized 70 kilograms of maconha. [@1,2,3,4,5] The stop
-occurred on the night of Saturday 14 November 2026. [@1,2,3,4,5] The car stopped was a Nissan March 16S and the stop was recorded at about 23h. [@2]
+western Santa Catarina, and seized 70 kilograms of maconha. [@1,2,3,4,5,6] The stop
+occurred on the night of Saturday 14 November 2026. [@1,2,3,4,5,6] The car stopped was a Nissan March 16S and the stop was recorded at about 23h. [@2]
 
 Officers inspected a car bearing plates from Araucaria, Parana. [@1,2,3,4,5] Inside the
 vehicle officers found dozens of tablets of the drug hidden between the floor
-and the mats of the front and rear seats. [@1,2,3,4,5]
+and the mats of the front and rear seats. [@1,2,3,4,5,6]
 
 Two men were in the car and were arrested in flagrante and taken to the police
-station. [@1] Those arrested were taken to the Civil Police station in Maravilha. [@2,3,4,5] The seized drug and the vehicle were taken to the police station with the couple. [@4,5] Those involved said the drug was bound for Rio Grande do Sul. [@1,2,3,4,5]
+station. [@1] Those arrested were taken to the Civil Police station in Maravilha. [@2,3,4,5,6] The seized drug and the vehicle were taken to the police station with the couple. [@4,5] Those involved said the drug was bound for Rio Grande do Sul. [@1,2,3,4,5,6]
