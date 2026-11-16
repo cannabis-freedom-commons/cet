@@ -41,6 +41,10 @@ sources:
     url: https://news.az/news/iraq-busts-offshore-drug-smuggling-attempt-detains-3-foreigners
     publisher: News.az
     date: 2026-10-07
+  - title: 'Iraq seizes more than two tons of drugs in 2026: Spox'
+    url: https://www.rudaw.net/english/categories/iraq/1079898
+    publisher: Rudaw
+    date: 2026-10-26
 open_questions:
   - The ministry statement gives no separate date for the interception, so 7 October 2026, the publication date of this report, stands in for the incident date.
   - Only one account of this interception could be opened, retelling an Interior Ministry statement via Shafaq News and Xinhua, so no independent account confirms the figures.
@@ -49,6 +53,8 @@ open_questions:
   - The fate of the fourth suspect who escaped and the outcome of the continuing search were not reported.
   - The neighbouring country that provided intelligence was not named, and the boat's origin and destination were not given.
   - The article also describes a separate western-desert interception of about 250,000 narcotic pills, a different non-cannabis event left out of this report.
+  - The new source aggregates two October sea operations as 120 kilograms and six foreign suspects, while this report records only the 90-kilogram seizure with three detained; the remaining three arrests presumably belong to the 30-kilogram second operation.
+  - The substance in the second 30-kilogram sea seizure was described only as narcotics, so it is not counted as cannabis.
 ---
 
 Iraq's Interior Ministry said authorities foiled an attempted drug-smuggling run
@@ -57,10 +63,10 @@ boat they had monitored for 24 hours and detained three foreign nationals on
 board. [@1] A fourth suspect escaped during the raid, and authorities said
 search operations were continuing to locate him. [@1]
 
-Officers seized 90 kilograms of hashish in the offshore operation. [@1] The
+Officers seized 90 kilograms of hashish in the offshore operation. [@1,2] A second October operation at sea recovered 30 kilograms of narcotics after an armed confrontation. [@2] The
 operation was conducted by the General Directorate of Narcotics and Psychotropic
 Substances Affairs in coordination with Iraqi naval forces and military
-intelligence. [@1] The ministry said the operation was launched following
+intelligence. [@1,2] The ministry said the operation was launched following
 cross-border intelligence provided by a neighbouring country. [@1]
 
 The three detained foreigners were not named, and no charges or court outcome
@@ -68,4 +74,3 @@ for them was reported. [@1] Years of instability and conflict since the 2003
 US-led invasion have complicated Iraq's anti-trafficking efforts, and the
 government has said drug smuggling remains a major source of financing for
 terrorism. [@1]
-
