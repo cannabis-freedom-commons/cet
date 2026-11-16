@@ -74,23 +74,48 @@ sources:
     publisher: Elips Haber
     date: 2026-11-15
     language: tr
+  - title: İstanbul Havalimanı’nda 12 kilo 820 gram uyuşturucu ele geçirildi - Son Dakika Gündem Haberleri
+    url: https://www.dha.com.tr/gundem/istanbul-havalimaninda-12-kilo-820-gram-uyusturucu-ele-gecirildi-2982073
+    publisher: DHA | Demirören Haber Ajansı
+    date: 2026-11-15
+    language: tr
 media:
   - kind: photo
     url: https://www.konyapostasi.com.tr/guncel/12-kg-820-g-uyusturucu-ele-gecirildi/786237
     media_url: https://www.konyapostasi.com.tr/cropImages/1280x/uploads/haberler/2026/11/rU53-12-kg-820-g-uyusturucu-ele-gecirildi.jpg
     publisher: Konya Postası Gazetesi
     caption: Photo published with the report on the 12 kg 820 g seizure at Istanbul Airport.
+  - kind: photo
+    url: https://www.dha.com.tr/gundem/istanbul-havalimaninda-12-kilo-820-gram-uyusturucu-ele-gecirildi-2982073
+    media_url: https://image.dha.com.tr/i/dha/75/0x410/6af8d46ca957a003aec6df7f.jpg
+    publisher: DHA | Demirören Haber Ajansı
+    caption: Photo published with the DHA report on the 12 kg 820 g seizure at Istanbul Airport.
+  - kind: photo
+    url: https://www.dha.com.tr/gundem/istanbul-havalimaninda-12-kilo-820-gram-uyusturucu-ele-gecirildi-2982073
+    media_url: https://image.dha.com.tr/i/dha/75/770x0/6af8d1a55902fbc595d70e9f.jpg
+    publisher: DHA | Demirören Haber Ajansı
+    caption: Photo published with the DHA report on the 12 kg 820 g seizure at Istanbul Airport.
+  - kind: photo
+    url: https://www.dha.com.tr/gundem/istanbul-havalimaninda-12-kilo-820-gram-uyusturucu-ele-gecirildi-2982073
+    media_url: https://image.dha.com.tr/i/dha/75/770x0/6af8d1a55902fbc595d70e9e.jpg
+    publisher: DHA | Demirören Haber Ajansı
+    caption: Photo published with the DHA report on the 12 kg 820 g seizure at Istanbul Airport.
+  - kind: photo
+    url: https://www.dha.com.tr/gundem/istanbul-havalimaninda-12-kilo-820-gram-uyusturucu-ele-gecirildi-2982073
+    media_url: https://image.dha.com.tr/i/dha/75/770x0/6af8d1a55902fbc595d70e9d.jpg
+    publisher: DHA | Demirören Haber Ajansı
+    caption: Photo published with the DHA report on the 12 kg 820 g seizure at Istanbul Airport.
 ---
 
 Customs officers seized 12 kilograms 820 grams of suspected cannabis from the
 baggage of İsmail Mansız at Istanbul Airport after he arrived from Bangkok via
-Doha. [@1,2,3,4,5,6] The suspect was taken into custody on the instruction of the
-Gaziosmanpaşa Chief Public Prosecutor's Office. [@1,2,3,5,6]
+Doha. [@1,2,3,4,5,6,7] The suspect was taken into custody on the instruction of the
+Gaziosmanpaşa Chief Public Prosecutor's Office. [@1,2,3,5,6,7]
 
 The risk analysis that flagged him was carried out by the Narcotics Chemistry
 Section of the Istanbul Airport Customs Enforcement Anti-Smuggling and
 Intelligence Directorate. [@1] The search of his baggage found green plant
 fragments, assessed to be cannabis, totalling 12 kilograms 820 grams hidden in
-vacuum-sealed bags inside 12 different food packages. [@1,2,3,4,5,6] Judicial proceedings
+vacuum-sealed bags inside 12 different food packages. [@1,2,3,4,5,6,7] Judicial proceedings
 against the detained suspect were continuing. [@1,2,5,6] The market value of the
-seized drugs was put at about 11 million 538,000 lira. [@1,2,3,4,5,6]
+seized drugs was put at about 11 million 538,000 lira. [@1,2,3,4,5,6,7]
