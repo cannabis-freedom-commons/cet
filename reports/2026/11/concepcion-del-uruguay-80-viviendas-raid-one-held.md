@@ -58,24 +58,30 @@ sources:
     publisher: AHORA Entre Ríos
     date: 2026-11-15
     language: es
+  - title: 'Concepción del Uruguay: secuestran drogas en un allanamiento'
+    url: https://www.unoentrerios.com.ar/policiales/concepcion-del-uruguay-secuestran-drogas-un-allanamiento-n10292285.html
+    publisher: Uno Entre Rios
+    date: 2026-11-15
+    language: es
+    archived: https://web.archive.org/web/20261115172120id_/https://www.unoentrerios.com.ar/policiales/concepcion-del-uruguay-secuestran-drogas-un-allanamiento-n10292285.html
 ---
 
 A 37-year-old man was apprehended during a raid on a house in Barrio 80
 Viviendas in Concepción del Uruguay amid an investigation into alleged drug
 dealing. [@1] Officers seized marijuana together with an electronic scale, cash
-and mobile phones. [@2,4] The seized substances included both marijuana and cocaine. [@4]
+and mobile phones. [@2,4,5] The seized substances included both marijuana and cocaine. [@4,5]
 
 The search of the house found packets of divided-up marijuana and compacted
 marijuana allegedly intended for sale. [@2] The raid was carried out on the
 Saturday by the Dangerous Drugs division of the Uruguay Departmental
 Headquarters with support from the Special Operations Group. [@1] The search was
 ordered by Guarantee Court No. 2 under Gustavo Ariel Díaz with the intervention
-of Prosecutor's Office No. 4 under M. Albertina Chichi. [@1,4] The procedure began at about 16:20 and extended into the night. [@4]
+of Prosecutor's Office No. 4 under M. Albertina Chichi. [@1,4,5] The procedure began at about 16:20 and extended into the night. [@4,5]
 
 On the prosecutor's order the 37-year-old was taken to and held in the lockup at
 Comisaría Primera, while two women aged 43 and 20 were taken to police
 headquarters to establish their identities. [@1] The case proceeded as an
 alleged breach of Entre Ríos Provincial Law 10.566 on narcomenudeo, local retail
-drug dealing, with judicial proceedings continuing. [@1] The judicial measure
+drug dealing, with judicial proceedings continuing. [@1,5] The judicial measure
 was reported as yielding a positive result, with several items of interest to
 the investigation seized. [@3]
