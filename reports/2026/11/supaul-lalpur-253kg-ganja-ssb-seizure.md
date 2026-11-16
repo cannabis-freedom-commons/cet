@@ -40,19 +40,18 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-15
     language: hi
-open_questions:
-  - The patrol time is given only as about 12:20 at night on 14 November 2026, so it is unclear whether this was just after midnight or late that night.
-  - The 253 kilograms was confirmed after a drug-detection-kit check and legal formalities, with no laboratory confirmation reported.
-  - No arrests were reported, and no suspects, charges or court outcome were named.
-  - No value estimate or number of smugglers was reported.
-  - Only one accessible outlet account of this seizure was found, with no separate SSB or police statement opened.
+  - title: 'Supaul News: बीरपुर में एसएसबी की बड़ी कार्रवाई, 253 किलो गांजा बरामद, Supaul Hindi News - Hindustan'
+    url: https://www.livehindustan.com/bihar/supaul/story-ssb-seizes-253-kg-of-cannabis-near-india-nepal-border-in-supaul-201794852353346.html
+    publisher: Hindustan
+    date: 2026-11-16
+    language: hi
 ---
 
 The 45th Battalion of the Sashastra Seema Bal in Veerpur seized 253 kilograms of
-ganja on the India-Nepal border. [@1] The ganja had been packed into eight
-plastic bags and hidden. [@1] Smugglers fled the spot under cover of darkness
+ganja on the India-Nepal border. [@1,2] The ganja had been packed into eight
+plastic bags and hidden. [@1,2] Smugglers fled the spot under cover of darkness
 after seeing the SSB naka party. [@1] A drone-assisted search of the surrounding
-area found no suspects. [@1]
+area found no suspects. [@1,2]
 
 A joint naka party of the battalion headquarters and Border Outpost Shaileshpur
 was on regular patrol from Magarmachh bridge past border pillar 205 toward
@@ -66,9 +65,8 @@ immediately. [@1] Assistant Commandant Rahul Kumar reached the spot with seizure
 materials, a drug-detection kit, other equipment and a drone. [@1] After
 examination and legal formalities, all eight bags were confirmed to hold a total
 of 253 kilograms of ganja. [@1] The seized drug was formally seized and handed
-to Bhimnagar police for further legal action. [@1]
+to Bhimnagar police for further legal action. [@1,2]
 
 Assistant Sub-Inspector Kancha Sonar and other SSB personnel took part in the
 operation. [@1] Commandant Gaurav Singh said the battalion maintains constant
 vigilance against drug smuggling and other illegal activity on the border. [@1]
-
