@@ -41,6 +41,10 @@ sources:
     url: https://www.nwemail.co.uk/news/26727519.kendal-burglar-jailed-stealing-whisky-morrisons/
     publisher: The Mail
     date: 2026-11-15
+  - title: Kendal burglar jailed after stealing whisky from Morrisons
+    url: https://www.thewestmorlandgazette.co.uk/news/26727519.kendal-burglar-jailed-stealing-whisky-morrisons/
+    publisher: The Westmorland Gazette
+    date: 2026-11-15
 open_questions:
   - No quantity, form or weight was published for the cannabis Carter possessed, so no cannabis weight is recorded.
   - The article gives no separate date for the court hearing; 15 November 2026 is its publication date and is used as the incident date for the sentence.
@@ -50,8 +54,8 @@ open_questions:
 
 Chris Carter, 52, of no fixed address, pleaded guilty to theft from a shop and
 possession of cannabis at South Cumbria Magistrates' Court, appearing remotely
-from HMP Altcourse. [@1] Prosecutor Glenn Anderton said Carter was caught
-stealing four bottles of whisky from Morrisons in Kendal on September 16. [@1]
+from HMP Altcourse. [@1,2] Prosecutor Glenn Anderton said Carter was caught
+stealing four bottles of whisky from Morrisons in Kendal on September 16. [@1,2]
 The court heard the alcohol was valued at £178. [@1] Anderton said Carter was
 caught in possession of cannabis two days later. [@1] Anderton said Carter had
 most recently received a two-and-a-half-year term of imprisonment for burglary
@@ -66,5 +70,4 @@ that his co-accused had suggested walking out of the shop without paying. [@1]
 
 Magistrates imposed a three-week concurrent jail term and ordered Carter to pay
 £85 in court costs and a £154 victim surcharge upon his release from prison.
-[@1] Forfeiture and destruction of the drugs seized was sought. [@1]
-
+[@1,2] Forfeiture and destruction of the drugs seized was sought. [@1]
