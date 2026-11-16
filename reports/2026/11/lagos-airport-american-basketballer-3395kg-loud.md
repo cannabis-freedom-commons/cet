@@ -284,6 +284,11 @@ sources:
     publisher: Israel Hayom
     date: 2026-11-16
     language: he
+  - title: Amerykański koszykarz zatrzymany w Nigerii po znalezieniu 34 kg konopi — BBC News
+    url: https://ua.news/pl/world/u-nigeriyi-zatrimali-basketbolista-zi-ssha-pislia-viiavlennia-34-kg-kanabisu-bbc-news
+    publisher: UA.NEWS
+    date: 2026-11-16
+    language: pl
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cj93rggenq4xo
@@ -321,8 +326,8 @@ luggage at the same Lagos airport. [@2,9,25,29,48,50,53]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
-33.95 kilograms. [@1,3,6,7,10,12,13,14,16,17,18,20,21,22,23,26,28,30,31,33,35,36,38,39,40,41,42,43,46,47,49,50,51,52,54,55,56,57,58,59] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23,26,30,31,32,33,35,37,38,40,41,43,45,46,47,50,51,52,53,54,55,57,58]
-The agency describes Loud as a potent strain of cannabis. [@1,3,5,23,25,27,28,29,34,35,37,43,45,46,50,53,58,59]
+33.95 kilograms. [@1,3,6,7,10,12,13,14,16,17,18,20,21,22,23,26,28,30,31,33,35,36,38,39,40,41,42,43,46,47,49,50,51,52,54,55,56,57,58,59] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23,26,30,31,32,33,35,37,38,40,41,43,45,46,47,50,51,52,53,54,55,57,58,60]
+The agency describes Loud as a potent strain of cannabis. [@1,3,5,23,25,27,28,29,34,35,37,43,45,46,50,53,58,59,60]
 
 The suspect, a native of Savannah, Georgia, said he had lived in Thailand since
 October 2025 playing professional basketball and came to Nigeria on holiday to
