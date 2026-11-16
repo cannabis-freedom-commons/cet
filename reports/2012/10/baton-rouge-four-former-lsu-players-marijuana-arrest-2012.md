@@ -61,17 +61,15 @@ sources:
     url: https://www.wafb.com/story/19918447/former-lsu-stars-arrested-on-drug-charges/
     publisher: WAFB
     date: 2012-10-25
-open_questions:
-  - The sources give no weight for the marijuana seized; only the number of bags is stated (10 in all, seven in Bryant's book sack).
-  - The incident date is 25 October 2012, the Thursday named by the reports; WDSU's own publication date is 26 October 2012.
-  - The apartment is identified only by the street address 262 West State; the coordinates are those of Baton Rouge city centre, not the building.
-  - No court outcome, plea or dismissal of these 2012 marijuana charges is reported in the sources opened.
-  - ESPN lists a possession of drug paraphernalia charge against Bryant that WAFB does not mention, and WAFB describes Hatcher's possession charge as a second offence, which ESPN does not.
+  - title: Tyrann Mathieu says LSU dismissal was ‘best thing’ for his career
+    url: https://www.fox8live.com/2026/01/29/tyrann-mathieu-says-lsu-dismissal-was-best-thing-his-career/
+    publisher: FOX 8 Live
+    date: 2026-01-29
 ---
 
 Baton Rouge police arrested four former LSU football players — Tyrann Mathieu,
 Jordan Jefferson, Karnell Hatcher and Derrick Bryant — on marijuana charges on
-the afternoon of Thursday 25 October 2012. [@1] Officers were sent to an
+the afternoon of Thursday 25 October 2012. [@1,4] Mathieu said he could hear officers on the radio and that many media people were outside when he reached the station. [@4] Mathieu said police were excited about arresting him and called media to the station. [@4] Officers were sent to an
 apartment at 262 West State at about 3:30 p.m. after a complaint that a man was
 trying to force his way into the complex through a security gate. [@3] Mathieu,
 then 20, answered the door and gave officers consent to search, and police said
@@ -96,4 +94,3 @@ reported. [@2]
 Mathieu, a 2011 Heisman Trophy finalist known as the "Honey Badger", had been
 removed from the LSU team earlier in 2012 over failed drug tests and was
 enrolled at the university hoping to return. [@3]
-
