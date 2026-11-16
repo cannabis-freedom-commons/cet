@@ -52,6 +52,11 @@ sources:
     url: https://www.ndtv.com/india-news/sobering-shift-court-puts-cannabis-convict-on-traffic-duty-jointly-with-cops-12333706
     publisher: NDTV
     date: 2026-11-16
+  - title: കഞ്ചാവ് ഉപയോഗിച്ചതിന് പിടിയിലായ യുവാവിനെ പോലിസിനൊപ്പം ട്രാഫിക് ഡ്യൂട്ടിക്ക് നിയോഗിച്ച് കോടതി
+    url: https://www.thejasnews.com/amp/latestnews/sobering-shift-court-puts-cannabis-convict-on-traffic-duty-jointly-with-cops-275197
+    publisher: Thejas News
+    date: 2026-11-16
+    language: ml
 open_questions:
   - No quantity of cannabis, seizure detail or laboratory confirmation was reported.
   - The page summary line places Kodagu in Kerala, while the article body places Siddapur in Karnataka's Kodagu district; the report follows the body, since Kodagu is in Karnataka.
@@ -60,15 +65,14 @@ open_questions:
 ---
 
 A local court in Karnataka convicted Asim, a resident of Siddapur in Virajpet
-subdivision of Kodagu district, for consuming cannabis. [@1] The court fined him
-Rs 5,000 and ordered community service as a joint punishment. [@1] He avoided
+subdivision of Kodagu district, for consuming cannabis. [@1,2] The court fined him
+Rs 5,000 and ordered community service as a joint punishment. [@1,2] He avoided
 imprisonment. [@1]
 
 On November 15, Asim reported for traffic duty in Siddapur town under police
-supervision as his community service. [@1] He spent the day regulating vehicles
-and managing pedestrians. [@1]
+supervision as his community service. [@1,2] He spent the day regulating vehicles
+and managing pedestrians. [@1,2]
 
 The court chose community service alongside the fine rather than imprisonment so
 that the offender would understand his social responsibilities through public
-service. [@1]
-
+service. [@1,2]
