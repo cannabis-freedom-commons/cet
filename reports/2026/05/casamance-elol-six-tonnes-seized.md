@@ -39,6 +39,7 @@ open_questions:
   - The official breakdown reported more than three tonnes of processed cannabis, more than two tonnes of seeds and more than one tonne of unprocessed material, without a single combined weight beyond "more than six tonnes".
   - Sources also reported weapons and agricultural inputs seized; those items are outside the cannabis total.
   - AFP quoted Colonel Cheikh Gueye on a similar operation "earlier this month" without using the ELOL name; dates align but the communiqués were not quoted verbatim in English.
+  - The APA article notes other accounts put the overall total above nine tonnes when treated cannabis, untreated cannabis and recovered seeds are counted, against the more than six tonnes used in the report.
 sources:
   - title: "Casamance : 14 arrestations et plus de six tonnes de chanvre indien saisies par l'armée sénégalaise"
     url: https://www.afrik.com/casamance-14-arrestations-et-plus-de-six-tonnes-de-chanvre-indien-saisies-par-l-armee-senegalaise
@@ -51,17 +52,22 @@ sources:
     archived: https://web.archive.org/web/20260916041147/https://timesofindia.indiatimes.com/world/rest-of-world/cannabis-hits-peacemaking-in-senegals-casamance/articleshow/131115445.cms
     publisher: Times of India (AFP)
     date: 2026-05-15
+  - title: 'Casamance : 14 arrestations et saisie de 6 tonnes de chanvre indien'
+    url: https://fr.apanews.net/health/casamance-14-arrestations-apres-une-vaste-saisie-de-chanvre-indien-lors-de-loperation-elol/
+    publisher: APAnews - Agence de Presse Africaine
+    date: 2026-05-08
+    language: fr
 ---
 
 From 1 to 7 May 2026 the Senegalese army ran Operation ELOL in Bignona department, near the
-Gambian border in Casamance. [@1] Colonel Cheikh Guèye's forces searched a quadrilateral between
+Gambian border in Casamance. [@1,3] Colonel Cheikh Guèye's forces searched a quadrilateral between
 Masaran-Dièye, Djoundji, Balla Bassène, Djibidione, Balla Ougonor and Niallé, an area the
 general staff treats as a clandestine cultivation stronghold. [@1]
 
 The official tally reported more than three tonnes of processed chanvre indien, more than two
 tonnes of seed stock, and more than one tonne of unprocessed cannabis, together described as more
 than six tonnes of illicit product destroyed after seizure. [@1] Fourteen people were arrested and
-handed to the judiciary; weapons, farm inputs and logistics equipment were also recovered. [@1]
+handed to the judiciary; weapons, farm inputs and logistics equipment were also recovered. [@1,3] Clandestine camps were also dismantled during the operations. [@3]
 
 Reporting on the same sweep, AFP quoted Colonel Gueye in Ziguinchor as saying an operation earlier
 in May near the Gambian border had led to 14 arrests and the seizure of six tonnes of cannabis
@@ -70,4 +76,4 @@ cannabis funding rebel networks; it did not add separate figures beyond the colo
 [@2]
 
 Gendarmerie leaders called the Casamance haul a record; airborne and drone units, gendarmerie from
-Ziguinchor and a GIGN team from Dakar took part. [@1]
+Ziguinchor and a GIGN team from Dakar took part. [@1,3]
