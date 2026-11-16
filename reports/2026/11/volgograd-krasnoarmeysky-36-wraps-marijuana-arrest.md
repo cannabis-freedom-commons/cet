@@ -73,32 +73,30 @@ sources:
     publisher: МК в Волгограде
     date: '2026-11-14'
     language: ru
+  - title: В Волгограде задержали мужчину с 36 свертками запрещенного вещества
+    url: https://rodgor-vlg.ru/v-volgograde-zaderzhali-muzhchinu-s-36-svertkami-zapreschennogo-veschestva.html
+    publisher: Родной город
+    date: 2026-11-14
+    language: ru
 open_questions:
-  - >-
-    No separate date for the detention was given; 14 November 2026 is the publication date and
-    stands in for the incident date.
-  - >-
-    The 30-gram total weight is given only by the MK account; the submitted Volganet account gives
-    no weight.
-  - No plea, custody measure or court outcome was reported; the case was at the investigation stage.
-  - >-
-    MK Volgograd's article photo shows only the backs of uniformed police officers outdoors, with no
-    wraps or seizure visible, so no event photo is listed.
+    - No separate date for the detention was given; 14 November 2026 is the publication date and stands in for the incident date.
+    - No plea, custody measure or court outcome was reported; the case was at the investigation stage.
+    - MK Volgograd's article photo shows only the backs of uniformed police officers outdoors, with no wraps or seizure visible, so no event photo is listed.
 ---
 
 Police in the Krasnoarmeysky district of Volgograd detained a 57-year-old local
-resident on suspicion of selling drugs. [@1] The regional Interior Ministry
+resident on suspicion of selling drugs. [@1,3] The regional Interior Ministry
 press service reported the detention and the searches. [@1] The operation was
 carried out by officers of the drug-trafficking control unit of Police
-Department No. 8 of the city Interior Ministry directorate. [@2]
+Department No. 8 of the city Interior Ministry directorate. [@2,3]
 
 During a personal search officers found 20 wraps with plant material on the man,
-and a search of his garage found 16 more similar wraps. [@1] An expert
-examination established that the seized substance was cannabis (marijuana). [@2]
-The total weight of the seized drug was 30 grams. [@2]
+and a search of his garage found 16 more similar wraps. [@1,3] An expert
+examination established that the seized substance was cannabis (marijuana). [@2,3]
+The total weight of the seized drug was 30 grams. [@2,3]
 
 According to police, the man packed the drug into individual doses and sold it
-to city residents who use drugs. [@2] Investigators opened a criminal case
+to city residents who use drugs. [@2,3] Investigators opened a criminal case
 against him under part 2 of article 228.1 of the Russian Criminal Code, covering
-unlawful sale of narcotic drugs. [@1] That charge carries a prison sentence of 5
-to 12 years. [@1]
+unlawful sale of narcotic drugs. [@1,3] That charge carries a prison sentence of 5
+to 12 years. [@1,3]
