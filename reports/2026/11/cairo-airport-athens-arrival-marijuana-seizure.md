@@ -62,10 +62,20 @@ sources:
     publisher: الأسبوع
     date: 2026-11-15
     language: ar
+  - title: ضبط 5 محاولات تهريب لكمية من مخدر الماريجوانا وأدوية بشرية وهواتف بمطار القاهرة | المصري اليوم
+    url: https://www.almasryalyoum.com/news/details/4411697
+    publisher: المصري اليوم
+    date: 2026-11-16
+    language: ar
+  - title: حبس راكب بتهمة حيازة كمية من مخدر الماريجوانا بمطار القاهرة
+    url: https://vetogate.com/5771437
+    publisher: فيتو
+    date: 2026-11-16
+    language: ar
 open_questions:
     - No weight was published for the marijuana, so no cannabis quantity is stored.
     - The report gives no separate date for the operation; 15 November 2026 is the publication date and stands in for the incident date.
-    - No arrest, charge or court outcome beyond the customs seizure reports was stated.
+    - The passenger was ordered detained for four days pending investigation; no charge or later court outcome was reported.
 media:
   - kind: photo
     url: https://www.vetogate.com/5771294
@@ -97,15 +107,20 @@ media:
     media_url: https://www.elaosboa.com/wp-content/uploads/2026/11/elaosboa78023.jpeg
     publisher: الأسبوع
     caption: Blister-packed medicines displayed among the items seized in the Cairo airport customs operation.
+  - kind: photo
+    url: https://www.almasryalyoum.com/news/details/4411697
+    media_url: https://mediaaws-live.almasryalyoum.com/almasryalyoum/uploads/images/2026/11/16/2115663.webp
+    publisher: المصري اليوم
+    caption: Some of the seized items from the five Cairo airport smuggling attempts.
 ---
 
 Security forces at Cairo International Airport seized five smuggling attempts
 involving marijuana, human medicines, dental medical supplies and mobile phones
-in violation of the law. [@1,2,5,6,7] The marijuana attempt took place in the fourth
+in violation of the law. [@1,2,5,6,7,8] The marijuana attempt took place in the fourth
 department of Passenger Terminal 3 during inspection of passengers arriving from
-Athens on a Greek airline flight. [@1,2,7] Officers suspected an Egyptian passenger
+Athens on a Greek airline flight. [@1,2,7,8] Officers suspected an Egyptian passenger
 as he left the customs committee gate, X-rayed his bags and found two cream
-containers holding four bags containing marijuana. [@1,3,5,6,7]
+containers holding four bags containing marijuana. [@1,3,5,6,7,8]
 
 In a second attempt, officers stopped a foreign passenger arriving from Baghdad
 on an Iraqi airline flight and found 40 ampoules for treating cancerous tumours
@@ -117,4 +132,4 @@ found 38 mobile phones hidden among clothes. [@1,5]
 
 In a fifth attempt, officers stopped another foreign passenger arriving from
 China and found 34 mobile phones hidden among clothes. [@1,5] Authorities took
-legal measures and drew up five customs seizure reports. [@1,4,5,6]
+legal measures and drew up five customs seizure reports. [@1,4,5,6] The Nozha prosecution ordered the passenger held for four days pending investigation into the marijuana possession and tasked criminal investigators with completing inquiries into the incident. [@9]
