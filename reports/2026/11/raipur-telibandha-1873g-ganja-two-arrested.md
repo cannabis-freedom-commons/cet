@@ -59,6 +59,11 @@ sources:
     publisher: Naidunia
     date: 2026-11-14
     language: hi
+  - title: रायपुर में गांजा तस्करी के खिलाफ पुलिस की बड़ी कार्रवाई, ओडिशा के आरोपी समेत 4 गिरफ्तार | CG MP News
+    url: https://www.cgmp.co.in/big-police-action-against-ganja-smuggling-in-raipur-4-arrested-including-accused-from-odisha/187664/
+    publisher: CG MP News
+    date: 2026-11-14
+    language: hi
 open_questions:
   - The reports date the tip-off and the operation to 13 November 2026 and were published on 14 November 2026; 13 November is used as the incident date.
   - The 1.873 kg weight and the Rs 93,650 figure are the police's stated estimates, with no laboratory confirmation or valuation method reported.
@@ -72,20 +77,19 @@ persons near Muktidham on Ring Road No. 1 were moving around to sell ganja. [@1]
 The joint team reached the spot, cordoned it and caught both suspects as they
 tried to flee. [@1] The two were identified as 55-year-old Ganesh Ram Patel and
 30-year-old Shera Kulharia, residents of Subhash Nagar Devarpara, Telibandha.
-[@1] A second account says the joint team identified the pair from the
+[@1,4] A second account says the joint team identified the pair from the
 informer's description and caught them after they tried to run on seeing police.
 [@2] A third report describes the same first action, naming Ganesh Ram Patel
 (55) and Shera Kulharia (30) of Subhash Nagar Devarpara, Telibandha, caught near
 Muktidham on Ring Road No. 1. [@3]
 
-A search of the sack the pair carried found 1.873 kg of ganja. [@1] Police
-valued the seized ganja at about 93,650 rupees. [@1] The second account likewise
+A search of the sack the pair carried found 1.873 kg of ganja. [@1,4] Police
+valued the seized ganja at about 93,650 rupees. [@1,4] The second account likewise
 says the sack search yielded 1.873 kg of ganja and both men were arrested. [@2]
 The third report likewise says the sack they carried held 1.873 kg of ganja.
 [@3] Police registered crime number 508/26 against both men at Telibandha police
-station under section 20(b) of the Narcotics Act. [@1] The second account
+station under section 20(b) of the Narcotics Act. [@1,4] The second account
 records the case as crime 508/26 under section 20(b) of the NDPS Act at
 Telibandha. [@2] Police were examining the ganja supply, transport and sale
 network. [@1] Officers were working to establish where the pair got the ganja
 and to whom they planned to sell it. [@1]
-

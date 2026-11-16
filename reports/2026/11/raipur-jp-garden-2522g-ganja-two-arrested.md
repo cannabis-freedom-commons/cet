@@ -66,12 +66,11 @@ sources:
     publisher: Lalluram
     date: 2026-11-14
     language: hi
-open_questions:
-  - The reports date the tip-off to 13 November 2026 and were published on 14 November 2026; 13 November is used as the incident date with no separate time given for the arrests.
-  - The 2.522 kg weight and the Rs 1,26,100 and Rs 1,66,100 valuations are the police's stated figures, with no laboratory confirmation or valuation method reported.
-  - No court outcome was reported; questioning on the supply and buyer network was still under way.
-  - The same page reports a separate MDMA arrest near Pahadi Talab, Kushalpur, a different non-cannabis event left out of the cannabis report.
-  - The page's combined Rs 2,93,300 seizure total covers both the MDMA and ganja actions and is not used as the cannabis value.
+  - title: रायपुर में गांजा तस्करी के खिलाफ पुलिस की बड़ी कार्रवाई, ओडिशा के आरोपी समेत 4 गिरफ्तार | CG MP News
+    url: https://www.cgmp.co.in/big-police-action-against-ganja-smuggling-in-raipur-4-arrested-including-accused-from-odisha/187664/
+    publisher: CG MP News
+    date: 2026-11-14
+    language: hi
 media:
   - kind: photo
     url: https://www.hindusthansamachar.in/Encyc/2026/11/14/ODISHA-MAN-AMONG-TWO-HELD-IN-RAIPUR-CANNABIS-BUST.php
@@ -87,14 +86,14 @@ were loitering to sell ganja. [@1,3,4] The team identified the pair from the
 informer's description of the two-wheeler and the suspects and caught them after
 they tried to flee on seeing police. [@2] The two were identified as 56-year-old
 Radhakant Rana of Balangir, Odisha, and 40-year-old Parmanand Sahu of village
-Pohanda, Durg district. [@1,3,4]
+Pohanda, Durg district. [@1,3,4,5]
 
-A search of the bag they carried found 2.522 kg of ganja. [@1,3,4] Police valued the
+A search of the bag they carried found 2.522 kg of ganja. [@1,3,4,5] Police valued the
 ganja at about Rs 1,26,100 and the total seizure with the motorcycle used in the
-offence at about Rs 1,66,100, and seized the motorcycle. [@1,3,4]
+offence at about Rs 1,66,100, and seized the motorcycle. [@1,3,4,5]
 
 Both men were booked at Amanaka police station as crime no. 381/26 under section
-20(b) of the NDPS Act. [@1,3] Police said detailed questioning on the ganja's
+20(b) of the NDPS Act. [@1,3,5] Police said detailed questioning on the ganja's
 availability, transport, sale and supply network was under way to trace its
 sources and intended buyers. [@2] Police said the commissionerate's units had so
 far arrested 222 accused in 102 NDPS cases and seized drugs and other material
