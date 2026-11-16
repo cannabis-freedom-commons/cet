@@ -45,6 +45,8 @@ open_questions:
   - The bureau said the load was tracked after Tokyo Customs found cannabis in June and seized in northern Kanto; the public announcement came on 13 August.
   - The 51-year-old woman from Chikusei and two co-defendants were indicted by Tokyo prosecutors; the opened report does not say whether they admitted the charges.
   - Yomiuri reported the intended consignee was an Osaka company; investigators were still probing international links.
+  - Vietnam News, citing Japanese outlets, described a 51-year-old resident of Ibaraki Prefecture as a man, while the report follows Yomiuri in describing a 51-year-old woman from Chikusei.
+  - Vietnam News put the value at as much as US$35 million; the report keeps Yomiuri's street-value estimate of about ¥5.2 billion and does not treat the dollar figure as a separate valuation.
 sources:
   - title: 東京港に乾燥大麻１トン超、末端価格５２億円…「木炭」としてベトナムから密輸
     url: https://www.yomiuri.co.jp/national/20250813-OYT1T50123/
@@ -57,6 +59,11 @@ sources:
     publisher: NHK
     date: 2025-08-13
     language: ja
+  - title: Foreign ministry addresses Japan’s arrest of three Vietnamese in record cannabis smuggling case
+    url: https://vietnamnews.vn/politics-laws/1723315/foreign-ministry-addresses-japan-s-arrest-of-three-vietnamese-in-record-cannabis-smuggling-case.html
+    publisher: Việt Nam News
+    date: 2025-08-14
+    language: en
 media:
   - kind: photo
     url: https://www.yomiuri.co.jp/national/20250813-OYT1T50123/
@@ -64,11 +71,16 @@ media:
     media_url: https://www.yomiuri.co.jp/media/2025/08/20250813-OYT1I50132-1.jpg?type=ogp
     publisher: Yomiuri Shimbun
     caption: Dried cannabis seized after the Vietnam-to-Tokyo shipment was found in June 2025, shown on 13 August.
+  - kind: photo
+    url: https://vietnamnews.vn/politics-laws/1723315/foreign-ministry-addresses-japan-s-arrest-of-three-vietnamese-in-record-cannabis-smuggling-case.html
+    media_url: https://image.vietnamnews.vn/uploadvnnews/Article/2025/8/14/443610_5244249563474204_1-ton-cannabis.jpg
+    publisher: Việt Nam News
+    caption: 'Bags of seized dried cannabis shown in Chiyoda Ward, Tokyo, on 13 August 2025. Photo: KYODO/VNA'
 ---
 
 On 13 August 2025 the Kanto-Shinetsu Regional Bureau's Narcotics Control Department announced
 Japan's largest single seizure of an illegal drug: about 1,046 kilograms of dried cannabis with an
-estimated street value of roughly ¥5.2 billion. [@1,2]
+estimated street value of roughly ¥5.2 billion. [@1,2] Japanese authorities said the seizure was more than twice the 452 kilograms of dried cannabis confiscated across Japan in 2024 and the largest single drug seizure the country had recorded. [@3]
 
 Investigators said the cannabis was hidden in a shipping container that left Da Nang, Vietnam,
 between 26 May and 5 June 2025 and reached Tokyo Port in June. [@1] Tokyo Customs found roughly
@@ -80,4 +92,4 @@ Ibaraki Prefecture, whom Yomiuri described as a self-employed renovation worker,
 arrested on 18 June while holding the drugs at a materials yard in Tochigi Prefecture. [@1]
 Tokyo prosecutors later indicted them on profit-motivated import charges under the narcotics
 control law. [@1,2] NHK said officers were investigating possible involvement by an international
-smuggling network and that the shipment was bound for a company in Osaka. [@2]
+smuggling network and that the shipment was bound for a company in Osaka. [@2] On 14 August 2025, Ministry of Foreign Affairs spokesperson Phạm Thu Hằng said Vietnamese representative agencies in Japan had contacted Japanese authorities to verify the information and had carried out citizen-protection measures. [@3]
