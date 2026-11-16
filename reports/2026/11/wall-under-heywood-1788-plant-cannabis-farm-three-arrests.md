@@ -44,6 +44,11 @@ media:
     media_url: https://www.shropshirestar.com/jpim-static/image/2026/11/16/13/45/cannabis-grow.jpg?trim=0,0,0,0&width=640&quality=65
     publisher: Shropshire Star
     caption: 'Cannabis plants seized in the Wall Under Heywood raid. Photo: West Mercia Police'
+  - kind: photo
+    url: https://www.ludlowadvertiser.co.uk/news/26734061.church-stretton-1-million-cannabis-farm-uncovered/
+    media_url: https://www.ludlowadvertiser.co.uk/resources/images/21724783.jpg?type=mds-article-962
+    publisher: Ludlow Advertiser
+    caption: 'Officers storming the cannabis farm where three arrests were made. Photo: Church Stretton and Craven Arms Police'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8341b5b86d7a24228dd0f5fc6539feed
@@ -61,6 +66,10 @@ sources:
     url: https://www.yahoo.com/news/world/articles/three-arrested-cannabis-farm-worth-160333574.html
     publisher: Yahoo News
     date: 2026-11-16
+  - title: Church Stretton £1 million cannabis farm uncovered | Ludlow Advertiser
+    url: https://www.ludlowadvertiser.co.uk/news/26734061.church-stretton-1-million-cannabis-farm-uncovered/
+    publisher: Ludlow Advertiser
+    date: 2026-11-16
 open_questions:
     - The £1 million figure is a police estimated street value, not a confirmed sale value.
     - No weight was published for the trays of buds described as ready for sale, so no cannabis weight is recorded.
@@ -69,19 +78,19 @@ open_questions:
 ---
 
 West Mercia Police raided a property in Wall Under Heywood, near Church Stretton
-in rural Shropshire, on Sunday, November 15. [@1,2,3] Officers found two men, both
+in rural Shropshire, on Sunday, November 15. [@1,2,3,4] Officers from the South Shropshire Safer Neighbourhood Teams executed a warrant to enter the property. [@4] Officers found two men, both
 aged 35, inside the property and arrested them on suspicion of cultivating
-cannabis. [@1,2,3] A third man, aged 51, was also arrested on suspicion of the same
-offence. [@1,2,3] All three men remained in police custody on Monday, November 16,
+cannabis. [@1,2,3,4] A third man, aged 51, was also arrested on suspicion of the same
+offence. [@1,2,3,4] All three men remained in police custody on Monday, November 16,
 as enquiries continued. [@1,3]
 
 Police seized 1,788 plants at various stages of growth, along with trays of buds
-ready for sale. [@1,3] The plants were growing in seven rooms at the address. [@1,2,3]
-Police put the grow's estimated street value at more than £1 million. [@1,2,3]
+ready for sale. [@1,3,4] The plants were growing in seven rooms at the address. [@1,2,3,4]
+Police put the grow's estimated street value at more than £1 million. [@1,2,3,4]
 Police said the electrics within the property had been tampered with. [@1,2,3]
 
 Police linked the operation to Operation Conyay, its drive to disrupt organised
-criminality in local communities. [@1] Safer Neighbourhood Inspector Damien
+criminality in local communities. [@1,4] Safer Neighbourhood Inspector Damien
 Kelly said cannabis farms are often linked to wider criminal activity and can
 pose a serious fire risk to neighbouring properties where electricity supplies
 have been tampered with. [@1]
