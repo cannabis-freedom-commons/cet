@@ -53,23 +53,27 @@ sources:
     publisher: Sandesh
     date: 2026-11-16
     language: gu
+  - title: Junagadh SOG Busts Drug Racket; Seizes Ganja Worth Lakhs & Arrests Trio
+    url: https://www.divyabhaskar.co.in/local/gujarat/junagadh/news/junagadh-sog-busts-drug-racket-seizes-ganja-arrests-trio-139705358.html
+    publisher: Divya Bhaskar
+    date: 2026-11-16
+    language: gu
 open_questions:
-  - No separate date for the raid was given, so 16 November 2026, the publication date, stands in for the incident date.
-  - The ganja was described only as suspected ganja, with no laboratory confirmation reported.
-  - None of the three suspects was named, and no charges or court outcome were reported.
-  - The type and registration of the seized vehicle were not given.
-  - The account rests on a single Sandesh report of the SOG action, with no independent corroboration opened.
+    - No separate date for the raid was given, so 16 November 2026, the publication date, stands in for the incident date.
+    - The ganja was described only as suspected ganja, with no laboratory confirmation reported.
+    - None of the three suspects was named, and no charges or court outcome were reported.
+    - The type and registration of the seized vehicle were not given.
 ---
 
 The Junagadh Special Operation Group team, acting on a tip-off, seized a
 consignment of prohibited ganja near Khamdhrol Road. [@1] The team had checked a
 suspect vehicle and the spot near Khamdhrol Road. [@1] During the check they
-recovered 29.634 kilograms of suspected ganja. [@1] Police arrested three
-suspects at the scene. [@1] The three were being questioned closely about where
+recovered 29.634 kilograms of suspected ganja. [@1,2] Police arrested three
+suspects at the scene. [@1,2] The three were being questioned closely about where
 the consignment had come from and to whom it was to be delivered. [@1]
 
-Police put the value of the seized ganja at Rs 14.81 lakh. [@1] With a seized
-vehicle included, the total value of the seized goods was Rs 16.12 lakh. [@1]
+Police put the value of the seized ganja at Rs 14.81 lakh. [@1,2] With a seized
+vehicle included, the total value of the seized goods was Rs 16.12 lakh. [@1,2]
 
 The district police described the raid as part of a tightening drive against
 anti-social elements and the narcotics trade. [@1] The report linked the action
@@ -77,4 +81,3 @@ to trafficking rackets operating through Porbandar or other places. [@1] Police
 said the timely raid thwarted the accused's plans before the consignment could
 be disposed of in the market. [@1] Police said the strict action had spread fear
 among bootleggers and people in the narcotics trade. [@1]
-
