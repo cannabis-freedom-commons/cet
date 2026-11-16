@@ -48,18 +48,28 @@ sources:
     publisher: Pausa.mx
     date: 2026-11-16
     language: es
+  - title: Aseguran más de 106 kilogramos de marihuana y dos vehículos con reporte de robo
+    url: https://diario.mx/estado/2026/nov/16/aseguran-mas-de-106-kilogramos-de-marihuana-y-dos-vehiculos-con-reporte-de-robo-1148971.html
+    publisher: El Diario
+    date: 2026-11-16
+    language: es
+  - title: Asegura SSPE 106 kilos de presunta marihuana y dos vehículos con reporte de robo en Maguarichi
+    url: https://entrelineas.com.mx/asegura-sspe-106-kilos-de-presunta-marihuana-y-dos-vehiculos-con-reporte-de-robo-en-maguarichi/
+    publisher: Entre Líneas
+    date: 2026-11-16
+    language: es
 open_questions:
-  - No separate date for the operation was stated; 16 November 2026 is the publication date and stands in for the incident date.
-  - The material was described as herb similar to marijuana or suspected marijuana, with no laboratory confirmation reported.
-  - The 106.4 kilograms is an approximate weight, not an exact measured figure.
-  - No arrests, suspects, charges or court outcome were reported.
-  - The three accounts reproduce the same SSPE statement and are not independent reporting.
+    - No separate date for the operation was stated; 16 November 2026 is the publication date and stands in for the incident date.
+    - The material was described as herb similar to marijuana or suspected marijuana, with no laboratory confirmation reported.
+    - The 106.4 kilograms is an approximate weight, not an exact measured figure.
+    - No arrests, suspects, charges or court outcome were reported.
+    - The five accounts reproduce the same SSPE statement and are not independent reporting.
 ---
 
 Chihuahua state police (SSPE) seized about 106.4 kilograms of marijuana,
 ammunition, magazines and two stolen vehicles on the road to Maguarichi, at the
-San Vicente junction. [@1] Agents found 10 transparent packages of dry green
-herb similar to marijuana at the spot. [@1] The packages weighed approximately
+San Vicente junction. [@1,4] Agents found 10 transparent packages of dry green
+herb similar to marijuana at the spot. [@1,5] The packages weighed approximately
 106.4 kilograms. [@1]
 
 Officers also seized three magazines, two metal and one plastic, and 364 live
@@ -79,4 +89,3 @@ San Vicente junction involving the marijuana, ammunition, magazines and two
 stolen vehicles. [@2] Pausa.mx confirms the same SSPE seizure of 106.4 kilograms
 of suspected marijuana with the two stolen vehicles at the San Vicente junction
 on the Maguarichi road. [@3]
-
