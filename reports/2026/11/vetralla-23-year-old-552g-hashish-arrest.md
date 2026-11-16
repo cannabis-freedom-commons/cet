@@ -68,6 +68,11 @@ sources:
     publisher: NewTuscia
     date: 2026-11-14
     language: it
+  - title: 'Cocaina in auto e mezzo chilo di hashish in casa: arrestato 23enne di Vetralla'
+    url: https://www.lafune.eu/cocaina-in-auto-e-mezzo-chilo-di-hashish-in-casa-arrestato-23enne-di-vetralla/
+    publisher: La Fune
+    date: 2026-11-15
+    language: it
 media:
   - kind: photo
     url: https://www.viterbonews24.it/news/vetralla,-23enne-arrestato-con-oltre-mezzo-chilo-di-hashish-e-cocaina_159430.htm
@@ -79,17 +84,17 @@ media:
 ---
 
 Carabinieri from the Vetralla station arrested a 23-year-old local man caught in
-the act on suspicion of possessing drugs for the purpose of dealing. [@1,3,4,5,6] On the
+the act on suspicion of possessing drugs for the purpose of dealing. [@1,3,4,5,6,7] On the
 orders of the Public Prosecutor's Office of Viterbo, he was taken to the
-Nicandro Izzo prison in Viterbo. [@1,3,4,5,6]
+Nicandro Izzo prison in Viterbo. [@1,3,4,5,6,7]
 
 Officers intercepted the young man's car on state road 1 Aurelia Bis in the
 Vetralla area as part of a targeted anti-dealing territorial control involving
 the Vetralla and Viterbo stations, the operational section of the Viterbo
 company and the Monte Romano station. [@1,3,4,5] Searching the vehicle, officers found
-about 106 grams of cocaine. [@1,3,4,5,6] A subsequent home search recovered another 552
+about 106 grams of cocaine. [@1,3,4,5,6,7] A subsequent home search recovered another 552
 grams of hashish and a precision scale believed to have been used to prepare
-doses. [@1,3,4,5,6] All of the drugs and the equipment were seized. [@1,3,4,5]
+doses. [@1,3,4,5,6,7] All of the drugs and the equipment were seized. [@1,3,4,5]
 
 At his home, officers found 552 grams of hashish and a precision scale used to
 package doses of drugs. [@2] The Carabinieri announced the operation through a
