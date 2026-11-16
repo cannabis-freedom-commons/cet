@@ -42,21 +42,24 @@ sources:
     publisher: Kurier
     date: 2026-11-16
     language: de
+  - title: '16 Kilo Cannabis im Koffer: 23-Jähriger am Flughafen Wien-Schwechat festgenommen'
+    url: https://www.msn.com/de-at/nachrichten/other/16-kilo-cannabis-im-koffer-23-j%C3%A4hriger-am-flughafen-wien-schwechat-festgenommen/ar-AA2hxwWF
+    publisher: 5min.at
+    date: 2026-11-16
+    language: de
 open_questions:
-  - No exact day for the weekend baggage check was given, so 16 November 2026, the publication date, stands in for the incident date.
-  - The cannabis was described without any reported laboratory confirmation.
-  - No court outcome beyond detention in Korneuburg prison was reported.
-  - The account rests on a single Kurier article citing a police dispatch.
+    - The cannabis was described without any reported laboratory confirmation.
+    - No court outcome beyond detention in Korneuburg prison was reported.
+    - All accounts cite the same Lower Austria police dispatch, so there is no independent account.
 ---
 
 Police detained a 23-year-old British man at Vienna Airport in Schwechat after
 cannabis was found in his suitcase during weekend checks of transit baggage.
-[@1] He was taken to Korneuburg prison after denying an allegation of drug
-trafficking. [@1]
+[@1,2] He was taken to Korneuburg prison after denying an allegation of drug
+trafficking. [@1,2]
 
-The seizure totalled 16 kilograms of cannabis. [@1] The cannabis was packed in
-16 airtight packages. [@1]
+The seizure totalled 16 kilograms of cannabis. [@1,2] The cannabis was packed in
+16 airtight packages. [@1,2]
 
-The man had been travelling from Bangkok in Thailand to London. [@1] Police
-announced the case on Monday in a dispatch. [@1]
-
+The man had been travelling from Bangkok in Thailand to London. [@1,2] Police
+announced the case on Monday in a dispatch. [@1,2]
