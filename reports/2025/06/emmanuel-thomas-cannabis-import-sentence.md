@@ -43,6 +43,7 @@ open_questions:
   - Prosecutors valued the haul at about GBP 600,000; the sentencing remarks discuss harm by weight rather than repeating that figure.
   - Charges against the two couriers were dropped with no evidence offered; their role is described only through Emmanuel-Thomas's case.
   - Later reporting said he was released on licence after remand time; that post-sentencing development is outside this sentencing report.
+  - The September 2024 charge was described as importing class B drugs, while the sentencing report records a guilty plea to fraudulently evading the prohibition on importing cannabis.
 sources:
   - title: Jay Emmanuel-Thomas - Sentencing Remarks
     url: https://www.judiciary.uk/wp-content/uploads/2025/06/Emmanuel-Thomas-Sentencing-Remarks.pdf
@@ -54,6 +55,10 @@ sources:
     archived: https://web.archive.org/web/20250729003152/https://www.bbc.co.uk/news/articles/c87jwvw48ywo
     publisher: BBC News
     date: 2025-06-05
+  - title: Former Arsenal forward charged after cannabis worth 600,000 pounds seized
+    url: https://www.fijitimes.com.fj/former-arsenal-forward-charged-after-cannabis-worth-600000-pounds-seized/
+    publisher: The Fiji Times
+    date: 2024-09-20
 ---
 
 On 5 June 2025, Judge Alexander Mills at Chelmsford Crown Court sentenced Jay Emmanuel-Thomas, 34,
@@ -61,7 +66,7 @@ to four years in prison after he admitted fraudulently evading the prohibition o
 cannabis. [@1,2]
 
 About 60 kilograms of cannabis was found in luggage at London Stansted Airport on 2 September 2024.
-[@1,2] Sentencing remarks say Emmanuel-Thomas, a former Arsenal and Ipswich Town forward, recruited
+[@1,2,3] He was accused of importing class B drugs, remanded in custody, and expected to appear before Carlisle Magistrates. [@3] National Crime Agency officers detained him in Scotland, in an operation supported by Police Scotland, while he was playing for Greenock Morton. [@3] Border Force officers found it in two suitcases on a flight from Bangkok, and two women aged 28 and 32 were arrested at Stansted. [@3] Sentencing remarks say Emmanuel-Thomas, a former Arsenal and Ipswich Town forward, recruited
 his girlfriend and another woman to collect the drugs in Thailand and fly them into the United
 Kingdom, messaging them when they were stopped and asking them to delete their chat. [@1]
 
