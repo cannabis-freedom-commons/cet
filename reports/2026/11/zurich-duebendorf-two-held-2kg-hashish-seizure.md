@@ -56,25 +56,24 @@ sources:
     publisher: Kanton Zürich
     date: 2026-11-15
     language: de
-open_questions:
-  - The hashish quantity is stated only as just over two kilograms, so 2 kilograms is stored as the supported figure.
-  - The reported total of over twelve kilograms covers cocaine, hashish and 2C-B together; only the hashish is counted in the cannabis figures.
-  - The small quantities of other drugs found alongside the cocaine, hashish and 2C-B were not quantified.
-  - No court outcome beyond the requested pre-trial detention was reported.
+  - title: 'Zürich: Polizei sichert 12 Kilogramm Drogen und nimmt Dealer fest - News - SRF'
+    url: https://www.srf.ch/news/schweiz/kanton-zuerich-12-kilogramm-drogen-polizei-fasst-mutmassliche-dealer
+    publisher: SRF
+    date: 2026-11-15
+    language: de
 ---
 
 Zurich cantonal police arrested a man in Zurich and a woman in Dübendorf on the
 evening of Thursday 12 November 2026. [@2] Investigators stopped a car in
 Zurich-Leimbach shortly before 19:00 and arrested the 34-year-old German driver
-after finding a larger quantity of cocaine. [@1] Officers then searched the
-man's flat in Dübendorf and arrested his 44-year-old German flatmate there. [@1]
+after finding a larger quantity of cocaine. [@1,3] Officers then searched the
+man's flat in Dübendorf and arrested his 44-year-old German flatmate there. [@1,3]
 
 In the premises police seized just under nine kilograms of cocaine, just over
 two kilograms of hashish and just under one kilogram of 2C-B, plus small
-quantities of other drugs. [@1] Officers also seized about 60,000 francs in
+quantities of other drugs. [@1,3] Officers also seized about 60,000 francs in
 cash, an assault rifle with live ammunition, a blank-firing pistol and an air
-pistol. [@2]
+pistol. [@2,3]
 
 Police handed both detainees to the Zurich cantonal prosecution on suspicion of
-drug trafficking, and the prosecution applied for pre-trial detention. [@2]
-
+drug trafficking, and the prosecution applied for pre-trial detention. [@2,3]
