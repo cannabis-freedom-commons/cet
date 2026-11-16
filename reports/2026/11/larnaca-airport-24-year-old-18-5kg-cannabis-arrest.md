@@ -68,6 +68,11 @@ sources:
     url: https://en.politis.com.cy/news/cy-news/1069474/185-kilos-of-cannabis-found-at-larnaca-airport-24-year-old-arrested
     publisher: Politis
     date: 2026-11-16
+  - title: 'Δ.Α.Ο.Ε. – ΥΚΑΝ: Εντοπισμός και κατάσχεση 18,5 κιλών κάνναβης στο Αεροδρόμιο Λάρνακας – Συνελήφθη 24χρονος'
+    url: https://www.cypruspolicenews.com/archives/62571
+    publisher: Cyprus Police News
+    date: 2026-11-16
+    language: el
 open_questions:
   - Only the Cyprus Mail gives the passenger's nationality and the Bangkok-via-Doha routing; the other accounts describe arrival from a non-EU or third country.
   - No remand hearing, charge or court outcome has been reported; the case stands at the investigation stage.
@@ -79,15 +84,14 @@ A 24-year-old man was arrested at Larnaca airport on Monday morning after about
 non-EU country. [@1] The Cyprus Mail described the 24-year-old as a British
 national. [@2] It reported that he had arrived at Larnaca from Bangkok by way of
 Doha. [@2] He was arrested on the spot for illegal import, illegal possession
-and possession of drugs with intent to supply. [@1]
+and possession of drugs with intent to supply. [@1,4]
 
 Acting on information evaluated by the Directorate for Combating Organised Crime
 (DAOE) and the Anti-Drugs Unit (YKAN), a customs officer stopped the man for a
-check at the request of a YKAN officer. [@1] A search of his travel bag found 34
+check at the request of a YKAN officer. [@1,4] A search of his travel bag found 34
 plastic packages containing cannabis with a total weight of about 18.5
-kilograms. [@1] Members of DAOE-YKAN, in cooperation with the customs
+kilograms. [@1,4] Members of DAOE-YKAN, in cooperation with the customs
 authorities, found and seized approximately 18.5 kilos of cannabis at Larnaca
-airport on 16 November 2026. [@3] The same account said the offences were
+airport on 16 November 2026. [@3,4] The same account said the offences were
 treated as committed in flagrante delicto. [@3] DAOE and YKAN are continuing
-their investigation in cooperation with the customs authorities. [@1]
-
+their investigation in cooperation with the customs authorities. [@1,4]
