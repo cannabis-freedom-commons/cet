@@ -123,6 +123,11 @@ sources:
     publisher: Imola Oggi
     date: 2026-11-14
     language: it
+  - title: 'Supermarket della droga sotto sequestro: arrestato un uomo'
+    url: https://ilgiornalepopolare.it/supermarket-della-droga-sotto-sequestro/
+    publisher: POP - Il Giornale Popolare
+    date: 2026-11-14
+    language: it
 media:
   - kind: video
     url: https://primabergamo.it/cronaca/in-casa-aveva-un-vero-e-proprio-supermercato-della-droga-23enne-arrestato-dalla-polizia-di-bergamo/
@@ -134,6 +139,11 @@ media:
     media_url: https://www.ansa.it/webimages/news_base/2026/11/14/7d6004981e2bce71428e75517e2c3d18.jpg
     publisher: ANSA
     caption: 'The fridge in the Bergamo home arranged as a drug display with sealed, labelled jars of cannabis products. Photo: ANSA'
+  - kind: photo
+    url: https://ilgiornalepopolare.it/supermarket-della-droga-sotto-sequestro/
+    media_url: https://ilgiornalepopolare.it/wp-content/uploads/2026/11/Polizia-di-Stato-Bergamo-20261114-IlGiornalePopolare-.jpg.webp
+    publisher: POP - Il Giornale Popolare
+    caption: 'Three views of the seizure published with the report: the fridge with sealed labelled jars, a thermal bag, and packaged drugs with cash seized in the Bergamo home.'
 open_questions:
     - The Reporteri.net article gives no separate date for the arrest; 10 November 2026 comes from the police statement already cited in the report.
     - The 15 kilograms is reported only as hashish and marijuana combined, with no split between the two.
@@ -141,21 +151,21 @@ open_questions:
 
 Bergamo State Police investigators from the Squadra Mobile arrested a
 23-year-old on 10 November in Bergamo. [@1,4,5,9,10,15,16] A second account describes the
-23-year-old as an Italian of Albanian origin. [@2,4,6,9,10,13] He was arrested for
-possession of narcotics with intent to deal. [@1,8] The arrest was later validated
+23-year-old as an Italian of Albanian origin. [@2,4,6,9,10,13,17] He was arrested for
+possession of narcotics with intent to deal. [@1,8,17] The arrest was later validated
 by the judicial authority, which ordered a restrictive precautionary measure
-against him. [@1,6,10]
+against him. [@1,6,10,17]
 
 Officers found about 15 kilograms of hashish and marijuana in a home used as a
 drug storage place. [@1,4,6,7,9,10,11,12,14,15] A fridge and thermal bags had been turned into
 containers for keeping the drugs, evidently to limit the smell and make
-detection harder. [@1,9,10] Different hashish varieties were divided by type into
+detection harder. [@1,9,10,17] Different hashish varieties were divided by type into
 individually sealed, labelled jars arranged in order inside the fridge like a
-supermarket display. [@1,4,5,8,9,10,11,12,14,15,16] Officers also found numerous vaporizers used for
-taking drug extracts through e-cigarettes. [@1,4,6,11,12,14,15]
+supermarket display. [@1,4,5,8,9,10,11,12,14,15,16,17] Officers also found numerous vaporizers used for
+taking drug extracts through e-cigarettes. [@1,4,6,11,12,14,15,17]
 
 They seized more than 10,000 euros in cash believed to be proceeds of dealing,
-and all the material found was placed under seizure. [@1,4,6,10,13,15,16] Police said the
+and all the material found was placed under seizure. [@1,4,6,10,13,15,16,17] Police said the
 operation removed a large quantity of drugs from the market and stopped an
 organised possession and distribution activity run in a particularly structured
 way. [@1] The LaPresse account carried by Il Sole 24 Ore gives the same core
