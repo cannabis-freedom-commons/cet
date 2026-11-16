@@ -54,6 +54,11 @@ sources:
     publisher: Konya Postası Gazetesi
     date: 2026-11-15
     language: tr
+  - title: Bangkok'tan Doha Aktarmalı Gelen Yolcunun Bagajında 12 Kilo 820 Gram Esrar Bulundu
+    url: https://www.ngazete.com/bangkoktan-doha-aktarmali-gelen-yolcunun-bagajinda-12-kilo-820-gram-esrar-bulundu-287542h.htm
+    publisher: N Gazete
+    date: 2026-11-15
+    language: tr
 open_questions:
   - No separate date for the seizure is given; 15 November 2026 is the article's publication date and is used as the incident date.
   - The green plant material was described only as suspected cannabis, with no laboratory confirmation reported.
@@ -71,13 +76,13 @@ media:
 
 Customs officers seized 12 kilograms 820 grams of suspected cannabis from the
 baggage of İsmail Mansız at Istanbul Airport after he arrived from Bangkok via
-Doha. [@1,2] The suspect was taken into custody on the instruction of the
-Gaziosmanpaşa Chief Public Prosecutor's Office. [@1,2]
+Doha. [@1,2,3] The suspect was taken into custody on the instruction of the
+Gaziosmanpaşa Chief Public Prosecutor's Office. [@1,2,3]
 
 The risk analysis that flagged him was carried out by the Narcotics Chemistry
 Section of the Istanbul Airport Customs Enforcement Anti-Smuggling and
 Intelligence Directorate. [@1] The search of his baggage found green plant
 fragments, assessed to be cannabis, totalling 12 kilograms 820 grams hidden in
-vacuum-sealed bags inside 12 different food packages. [@1,2] Judicial proceedings
+vacuum-sealed bags inside 12 different food packages. [@1,2,3] Judicial proceedings
 against the detained suspect were continuing. [@1,2] The market value of the
-seized drugs was put at about 11 million 538,000 lira. [@1,2]
+seized drugs was put at about 11 million 538,000 lira. [@1,2,3]
