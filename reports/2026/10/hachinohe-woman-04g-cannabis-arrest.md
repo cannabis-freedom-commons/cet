@@ -61,6 +61,11 @@ sources:
     publisher: デーリー東北
     date: 2026-11-10
     language: ja
+  - title: 堀越愛美さんとは？八戸市の大麻所持容疑と逮捕報道の経緯 - ペンギンのwiki風プロフィール・経歴まとめ
+    url: https://suicapenguindiary.hatenablog.com/entry/2026/11/15/195507
+    publisher: ペンギンのwiki風プロフィール・経歴まとめ
+    date: 2026-11-15
+    language: ja
 open_questions:
   - The 0.4 grams is reported as an approximate amount (およそ0.4グラム), not an exact laboratory-confirmed weight.
   - No weight or volume was given for the seized bottle of cannabis liquid, so it is not counted in the cannabis weight figure.
@@ -72,11 +77,11 @@ open_questions:
 Hachinohe police arrested a 30-year-old woman who works in video distribution at
 her home in Konakano 4-chome, Hachinohe. [@2,3] The arrest was made on suspicion
 of possessing about 0.4 grams of cannabis at her Hachinohe home shortly before
-10:30 p.m. on 21 October 2026. [@1,3,4]
+10:30 p.m. on 21 October 2026. [@1,3,4,5]
 
 She admitted the allegation, telling police she possessed the cannabis for her
-own use. [@1,3] A search of her home seized several items of cannabis
-paraphernalia including rolling papers and one bottle of cannabis liquid. [@1,3]
+own use. [@1,3,5] A search of her home seized several items of cannabis
+paraphernalia including rolling papers and one bottle of cannabis liquid. [@1,3,5]
 
 The Hachinohe Police Station is investigating how she obtained the cannabis.
-[@1,3,4]
+[@1,3,4,5]
