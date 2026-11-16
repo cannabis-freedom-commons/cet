@@ -47,26 +47,25 @@ sources:
     publisher: BD24Live
     date: 2026-11-15
     language: bn
-open_questions:
-  - The account rests on a single BD24Live report of a district narcotics office statement, and no independent second source was found.
-  - No details were given about the search beyond the Noapara area, the time of the sentences, or whether either man has appealed.
-  - The 25 yaba tablets are excluded from the cannabis weight; only the 50 grams of ganja is counted as cannabis.
-  - No value estimate, prior record, or information on when the labour sentences begin was reported.
+  - title: লোহাগড়ায় ইয়াবা-গাঁজাসহ আটক ২
+    url: https://www.somoyerkonthosor.com/post/2026/11/15/6af9dc45b5caf
+    publisher: Somoyer Konthosor
+    date: 2026-11-15
+    language: bn
 ---
 
 The Narail district narcotics office detained Md. Kalam Sheikh and Md. Milon
-Sardar in Lohagora upazila with yaba tablets and ganja. [@1] Officers detained
+Sardar in Lohagora upazila with yaba tablets and ganja. [@1,2] Officers detained
 the two men in Noapara on Sunday between 4 p.m. and 4.30 p.m. on 15 November
-2026. [@1] The detainees were Md. Kalam Sheikh, 55, and Md. Milon Sardar, 35,
-both from Noapara village. [@1]
+2026. [@1,2] The detainees were Md. Kalam Sheikh, 55, and Md. Milon Sardar, 35,
+both from Noapara village. [@1,2]
 
 Officers recovered 25 yaba tablets from Kalam Sheikh and 50 grams of ganja from
-Milon Sardar. [@1] After the operation, Narail district narcotics inspector
-Abdul Mannan filed the mobile-court prosecution as the complainant. [@1]
+Milon Sardar. [@1,2] After the operation, Narail district narcotics inspector
+Abdul Mannan filed the mobile-court prosecution as the complainant. [@1,2]
 Executive Magistrate Likhan Kumar Roy, conducting the mobile court, gave Kalam
 Sheikh 180 days of labour imprisonment and a 10,000-taka fine and Milon Sardar
-90 days of labour imprisonment and a 500-taka fine. [@1]
+90 days of labour imprisonment and a 500-taka fine. [@1,2]
 
 The Narail district narcotics office said such operations would continue
-regularly to prevent drug abuse. [@1]
-
+regularly to prevent drug abuse. [@1,2]
