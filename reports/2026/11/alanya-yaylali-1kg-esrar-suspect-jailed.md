@@ -116,6 +116,11 @@ sources:
     publisher: Antalya Ekspres
     date: 2026-11-14
     language: tr
+  - title: Antalya'da uyuşturucuyla yakalanan şüpheli tutuklandı | Gün Haber
+    url: https://www.gunhaber.com.tr/haber/antalya-da-uyusturucuyla-yakalanan-supheli-tutuklandi/578026/
+    publisher: Gün Haber
+    date: 2026-11-14
+    language: tr
 media:
   - kind: photo
     url: https://www.alanyaturk.com/alanyada-jandarmadan-safak-baskini-ormanda-yetistirip-evinde-kurutmus
@@ -132,16 +137,16 @@ province, at dawn after technical and physical surveillance targeting drug
 trafficking. [@3] The teams carried out the raid at dawn as a simultaneous
 operation against the identified address as part of work against drug
 trafficking. [@1] Officers detained 39-year-old suspect Metin K. during the raid
-on the address in Yaylalı Mahallesi. [@1,4,5,8]
+on the address in Yaylalı Mahallesi. [@1,4,5,8,9]
 
 After his procedures at the gendarmerie, officers transferred the suspect to the
-Alanya courthouse under security measures. [@2,4,6] The on-duty court remanded Metin
+Alanya courthouse under security measures. [@2,4,6,9] The on-duty court remanded Metin
 K. on a charge of committing drug trafficking and sent him to Alanya L-Type
-Closed Prison. [@1,4,5,7,8] Officers searched the house and its outbuildings and seized
+Closed Prison. [@1,4,5,7,8,9] Officers searched the house and its outbuildings and seized
 1 kilogram of dried esrar obtained from the cannabis plant, and the seized drug
-was confiscated. [@2,4,5,6,7,8]
+was confiscated. [@2,4,5,6,7,8,9]
 
 Gendarmerie investigators determined that he had grown the cannabis in a wooded
-area, harvested it and brought it home to dry. [@3,6,7,8] The gendarmerie described
+area, harvested it and brought it home to dry. [@3,6,7,8,9] The gendarmerie described
 the work as part of its continued efforts to prevent drug trafficking under the
 coordination of the prosecutor's office. [@2]
