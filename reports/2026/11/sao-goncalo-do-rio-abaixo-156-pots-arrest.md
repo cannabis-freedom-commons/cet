@@ -61,6 +61,11 @@ sources:
     publisher: RKIO
     date: 2026-11-15
     language: pt
+  - title: Homem é preso com 156 potes de maconha durante abordagem a motocicleta na região de Itabira
+    url: https://defatoonline.com.br/homem-e-preso-com-156-potes-de-maconha-durante-abordagem-a-motocicleta-na-regiao-de-itabira/
+    publisher: DeFato Online
+    date: 2026-11-15
+    language: pt
 open_questions:
   - No weight was published for the 156 micro pots, so no cannabis weight is recorded.
   - The material was described as marijuana or a substance similar to marijuana, with no laboratory confirmation reported.
@@ -73,17 +78,16 @@ The Military Highway Police seized drugs on a highway near São Gonçalo do Rio
 Abaixo on the night of Saturday 14 November 2026 during an anti-drug-trafficking
 operation. [@1] The occurrence was recorded at about 21h during an operation
 targeting drug trafficking, violent crimes and cargo and vehicle robberies. [@1]
-During the patrol officers stopped a motorcycle carrying two people. [@1] The
+During the patrol officers stopped a motorcycle carrying two people. [@1,4] The
 31-year-old passenger claimed ownership of the drugs, was arrested in flagrante
 and was taken to the Civil Police station in Itabira with all the seized
-material. [@1]
+material. [@1,4]
 
 Officers found 156 micro pots containing marijuana packed in a plastic bag
-inside a backpack, and a portion of cocaine in a pouch. [@1] Besides the drugs,
-officers seized a cell phone and R$20 in change. [@1] A second account describes
+inside a backpack, and a portion of cocaine in a pouch. [@1,4] Besides the drugs,
+officers seized a cell phone and R$20 in change. [@1,4] A second account describes
 the 31-year-old as suspected of drug trafficking during the Highway Military
 Police operation on highways near São Gonçalo do Rio Abaixo. [@3]
 
 The operation was part of the Highway Military Police enforcement and
 crime-combating actions on roads in the region. [@2]
-
