@@ -123,6 +123,10 @@ sources:
     publisher: 시애틀코리안데일리
     date: 2026-11-11
     language: ko
+  - title: 70-Year Old Monroe Man Arrested for Felony Drug and Marijuana Production
+    url: https://myeverettnews.com/2026/11/15/70-year-old-monroe-man-arrested-for-felony-drug-and-marijuana-production/
+    publisher: My Everett News
+    date: 2026-11-15
 media:
   - kind: photo
     url: https://komonews.com/news/local/snohomish-county-sheriff-task-force-raids-monroe-property-after-complaint-seizing-2700-cannabis-plants-70-year-old-man-weed-grow-marijuana-plant-farming-liquor-cannabis-board-washington-state
@@ -144,26 +148,27 @@ media:
     media_url: https://mynorthwest.com/wp-content/uploads/2026/11/marijuana-3-.jpg
     publisher: MyNorthwest.com
     caption: 'The Washington State Liquor and Cannabis Board Enforcement Unit found an unlicensed cannabis production operation in Snohomish County. Photo: Washington State Liquor and Cannabis Board'
-open_questions:
-    - No weight was reported for the dried marijuana seized with the plants.
-    - No plea or court outcome was reported after the man was released on $40,000 bail.
-    - The reports place the property in unincorporated Monroe but do not give its exact address.
+  - kind: photo
+    url: https://myeverettnews.com/2026/11/15/70-year-old-monroe-man-arrested-for-felony-drug-and-marijuana-production/
+    media_url: https://myeverettnews.com/wp-content/uploads/2026/11/monroe-grower-300x223.jpeg
+    publisher: My Everett News
+    caption: Seized plants from the Monroe operation, captioned '2,700 live and dried plants discovered.'
 ---
 
 A 70-year-old man was arrested after law enforcement authorities discovered
 approximately 2,700 marijuana plants during a search of a suspected illegal
-cannabis production operation near Monroe, Washington. [@1,2,7,8,9,10,12,13,14,15,16,17,18,19] The 70-year-old
+cannabis production operation near Monroe, Washington. [@1,2,7,8,9,10,12,13,14,15,16,17,18,19,20] The 70-year-old
 suspect was booked into the Snohomish County Jail on felony charges of drug
 manufacturing, delivery, or possession with intent to deliver narcotics, as well
 as illegal marijuana production. [@1,2,3,7,8,9,12,13,14,15,16,17,18,19] The man faced two Class B felony charges. [@19] Jail records identify the arrested man as Vernon Michael Lovelace, 70, of Monroe. [@11]
 
 The arrest followed an inquiry that began earlier this year after the state
 cannabis regulator received an initial complaint reporting a strong odor of
-marijuana originating from a property in unincorporated Monroe. [@1,4,5,7,8,9,10,12,13,14,15,16,17,18,19] That
+marijuana originating from a property in unincorporated Monroe. [@1,4,5,7,8,9,10,12,13,14,15,16,17,18,19,20] That
 complaint prompted an investigation by the Washington State Liquor and Cannabis
 Board's investigations unit, which identified evidence of suspected unlicensed
 cannabis production on the premises. [@1,6,7,9,13,16,19] The agency's unit then partnered with
-a regional law enforcement task force to advance the case. [@1,4,6,7,9,10,12,13,15,16,19] The task force is supported by the Northwest High Intensity Drug Trafficking Area, a federal program. [@2,4,9,12,13,14,15,16,17,18,19] The task force that executed the warrant was the Snohomish Regional Drug Task Force, assisted by Washington State Liquor and Cannabis Board enforcement officers. [@2,4,7,8,9,13,14,15,17,18,19] On 6 November
+a regional law enforcement task force to advance the case. [@1,4,6,7,9,10,12,13,15,16,19] The task force is supported by the Northwest High Intensity Drug Trafficking Area, a federal program. [@2,4,9,12,13,14,15,16,17,18,19,20] The task force that executed the warrant was the Snohomish Regional Drug Task Force, assisted by Washington State Liquor and Cannabis Board enforcement officers. [@2,4,7,8,9,13,14,15,17,18,19,20] On 6 November
 2026, investigators executed a search warrant at the property and seized
 approximately 2,700 live and dried marijuana plants. [@1,3,6,7,8,9,11,12,19] Lovelace posted a $40,000 bond after appearing in Everett District Court on 8 November 2026. [@11] Investigators said they were still examining how the operation was run and where the marijuana was distributed. [@19] Details regarding the
 joint investigation, search warrant and subsequent arrest were released by the
