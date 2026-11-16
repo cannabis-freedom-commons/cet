@@ -74,6 +74,11 @@ sources:
     publisher: News Istruzione
     date: 2026-11-14
     language: it
+  - title: La Spezia, sorpreso con cocaina e hashish vicino ad una scuola, arrestato
+    url: https://liguriaoggi.it/2026/11/14/la-spezia-sorpreso-con-cocaina-e-hashish-vicino-ad-una-scuola-arrestato/
+    publisher: Liguria Oggi
+    date: 2026-11-14
+    language: it
 open_questions:
   - The report gives only a combined weight of just under 100 grams for cocaine and hashish together, so no separate cannabis weight is recorded.
   - 13 November 2026 is derived from the report that the operation took place on the afternoon of the day before its 14 November 2026 publication.
@@ -85,18 +90,18 @@ open_questions:
 Local police in La Spezia arrested a 29-year-old Moroccan man who lives in the
 city and regularly resides in Italy. [@1,2] Plainclothes officers stopped him near
 the 2 Giugno school complex as part of anti-dealing checks focused on areas
-frequented by students. [@1,3] The stop took place on the afternoon before the 14
+frequented by students. [@1,3,5] The stop took place on the afternoon before the 14
 November report. [@1]
 
 Officers found several doses of cocaine in a cigarette container in his jacket.
-[@1,4] Officers then extended the check to the place where he habitually stayed,
-which was different from his registered address. [@1,4] With support from Jazz,
+[@1,4,5] Officers then extended the check to the place where he habitually stayed,
+which was different from his registered address. [@1,4,5] With support from Jazz,
 the command’s anti-drug dog, the search found more cocaine and hashish weighing
-just under 100 grams in total. [@1,2] Officers also recovered a precision scale
-and material used to package individual doses. [@1,3]
+just under 100 grams in total. [@1,2,5] Officers also recovered a precision scale
+and material used to package individual doses. [@1,3,5]
 
-Preliminary chemical-reagent tests were positive for both substances. [@1,4] The
+Preliminary chemical-reagent tests were positive for both substances. [@1,4,5] The
 man was arrested on suspicion of unlawful possession of drugs for dealing and
-was referred to the judicial authority for a fast-track trial. [@1,4] He was
+was referred to the judicial authority for a fast-track trial. [@1,4,5] He was
 placed at the disposal of the judicial authority for a giudizio direttissimo.
 [@1]
