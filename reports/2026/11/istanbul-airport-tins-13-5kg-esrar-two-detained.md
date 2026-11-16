@@ -39,6 +39,11 @@ media:
     media_url: https://image.dha.com.tr/i/dha/75/350x197/6af8d47437288eee2fcfba82.jpg
     publisher: DHA
     caption: Photo published with the DHA report on the 13 kg 512 g esrar seizure in cans at Istanbul Airport.
+  - kind: photo
+    url: https://ilkha.com/guncel/istanbul-havalimaninda-konserve-kutularinda-uyusturucu-ele-gecirildi-575938
+    media_url: https://ilkha.com/img/NewsGallery/2026/11/15/575938/FeaturedImage/73380e1b-6a9d-4b78-8ae2-12d1658fca65.jpg
+    publisher: İlkha Haber Ajansı
+    caption: Photo published with the İLKHA report on the 13 kg 512 g esrar seizure in cans at Istanbul Airport.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: eeb1e09f2ec05f8ea2eb4ecd00b96303
@@ -69,22 +74,27 @@ sources:
     publisher: IHA
     date: 2026-11-15
     language: tr
+  - title: İstanbul Havalimanında konserve kutularında uyuşturucu ele geçirildi
+    url: https://ilkha.com/guncel/istanbul-havalimaninda-konserve-kutularinda-uyusturucu-ele-gecirildi-575938
+    publisher: İlkha Haber Ajansı
+    date: 2026-11-15
+    language: tr
 ---
 
 Istanbul narcotics teams detained two Tunisian nationals, Najla Ben Abdallah and
-Montassar Mosbehı, in an operation at Istanbul Airport. [@1,4,5] The two suspects
+Montassar Mosbehı, in an operation at Istanbul Airport. [@1,4,5,6] The two suspects
 were stopped after arriving on a flight from Casablanca, Morocco, on 14
 November, and were described in one account as two women passengers. [@3] The
 operation was run by the Istanbul police narcotics division as part of work
-against drug manufacturing and trafficking, monitoring incoming passengers. [@3]
+against drug manufacturing and trafficking, monitoring incoming passengers. [@3,6]
 
 Officers found a total of 13 kilograms 512 grams of esrar, reported as cannabis,
-hidden in the suspects' luggage. [@1,5] Of that total, 12 kilograms 226 grams were
+hidden in the suspects' luggage. [@1,5,6] Of that total, 12 kilograms 226 grams were
 concealed in 73 cans and 1 kilogram 286 grams in the soles of four shoes. [@3]
 
 The search was carried out under a search order obtained from the Gaziosmanpaşa
 Chief Public Prosecutor's Office after a tip-off. [@2,5] Police said the suspects
 tried to bring the cannabis into Türkiye and took them into custody. [@2]
 Officers also seized money and mobile phones found on the suspects for
-examination. [@1,4,5] The suspects were expected to be brought before the
+examination. [@1,4,5,6] The suspects were expected to be brought before the
 Gaziosmanpaşa prosecution on 15 November as the investigation continued. [@2,5]
