@@ -1,18 +1,17 @@
 ---
 code: 06RJJX
 added_at: "2026-11-04T08:30:37.971313Z"
-date: 2026-11-04
+date: 2026-11-16
 country: jp
 place: Higashi-ku, Okayama city
 coordinates: [34.6507, 134.0354]
 precision: district
 type: arrest
 also: [seizure]
-title: 67-year-old arrested with one cannabis cigarette in Okayama
-summary: >-
-  Police in Higashi-ku, Okayama arrested a 67-year-old unemployed man on 4 November 2026 for allegedly possessing one cannabis cigarette at home. The search followed a 5 October tip about garden cultivation, and officers are also investigating a cannabis-like plant found in his garden.
+title: 67-year-old re-arrested for growing cannabis at home in Okayama
+summary: Police in Okayama re-arrested a 67-year-old unemployed man on 16 November 2026 for allegedly growing cannabis in his home garden between 15 October and 4 November. The cultivation case followed his 4 November arrest for possessing one cannabis cigarette, when officers seized suspected garden plants for testing, and he admitted growing for personal use.
 figures:
-  arrested: 1
+    arrested: 1
 details:
   activity: [cultivation]
   agency_types: [police]
@@ -21,13 +20,13 @@ details:
   products: [{product: flower}]
   setting: [home]
 data_sources:
-  details.activity: [2, 1, 3]
-  details.agency_types: [2, 3, 1]
-  details.case_stage: [1, 3, 2]
-  details.date_precision: [2, 3, 1]
-  details.products: [2, 1, 3]
-  details.setting: [2, 1, 3]
-  figures.arrested: [2, 3, 1]
+    details.activity: [2, 1, 3]
+    details.agency_types: [2, 3, 1]
+    details.case_stage: [1, 3, 2]
+    details.date_precision: [2, 3, 1]
+    details.products: [2, 1, 3]
+    details.setting: [2, 1, 3]
+    figures.arrested: [5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 665896ed470b27f9f53aae85422adfe6
@@ -53,14 +52,21 @@ sources:
     publisher: MSN
     date: 2026-11-04
     language: ja
+  - title: 「自分で使うために栽培していた」自宅で大麻草を栽培した疑い 無職の男（67）を再逮捕 岡山 | KSBニュース | KSB瀬戸内海放送
+    url: https://news.ksb.co.jp/article/17053351
+    publisher: KSB瀬戸内海放送
+    date: 2026-11-16
+    language: ja
 open_questions:
-  - No weight was published for the single cannabis cigarette, so no kilograms are recorded.
-  - The garden plant was described only as resembling cannabis, with no count or confirmed identification, so no plants are recorded and cultivation remains suspected rather than charged.
-  - The article text gives only month and day, 4 November and 5 October, so the year 2026 is taken from the publication timestamp.
-  - The suspect’s name was not published.
-  - No charges, custody decision or court outcome were reported; the cultivation inquiry was still under way.
-  - Only the KSB original and its docomo mirror were accessible; no independent second outlet was found.
-  - The Infoseek page carries the same KSB text under article ID 17022773, so it provides no independent second-outlet verification beyond the KSB original and its mirror.
+    - No weight was published for the single cannabis cigarette, so no kilograms are recorded.
+    - No count was published for the cannabis plants grown in the garden, so no plant figure is recorded.
+    - Testing of the seized suspected plants was reported only as testing, with no detailed result published beyond the re-arrest for cultivation.
+    - The year 2026 for the 4 November arrest and the 5 October tip is taken from publication timestamps, as the earlier text gave only month and day.
+    - The 16 November re-arrest date is taken from the publication date, as the new text gives only the day.
+    - The suspect's name was not published.
+    - No court outcome or next step after the re-arrest was reported.
+    - It is not reported whether the man remained in custody between the 4 November arrest and the 16 November re-arrest.
+    - Only the KSB original was opened for the re-arrest; no independent second outlet was found.
 ---
 
 Okayama Higashi police arrested a 67-year-old unemployed man living in
@@ -76,6 +82,6 @@ man’s home on 4 November and found one cannabis cigarette, which led them to
 arrest him. [@2]
 
 During questioning the man admitted the allegation, telling police that it was
-correct. [@1,3,4] Officers also found a plant resembling cannabis in the garden of
-the residence. [@1,3] Police are investigating the garden find on suspicion that
-the man had been cultivating cannabis. [@1,3]
+correct. [@1,3,4] The man admitted the cultivation allegation, telling police he grew it for his own use. [@5] Officers also found a plant resembling cannabis in the garden of
+the residence. [@1,3,5] Police allege he grew cannabis in his home garden between 15 October and 4 November 2026. [@5] Police are investigating the garden find on suspicion that
+the man had been cultivating cannabis. [@1,3] On 16 November police re-arrested the 67-year-old unemployed man on suspicion of cultivating cannabis in violation of the cannabis cultivation regulation. [@5]
