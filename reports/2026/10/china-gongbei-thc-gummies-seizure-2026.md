@@ -42,6 +42,10 @@ sources:
     publisher: TDM 澳廣視新聞
     date: 2026-10-22
     language: zh
+  - title: Zhuhai's Gongbei Customs seizes marijuana-infused gummies
+    url: https://macaupostdaily.com/news/29757
+    publisher: The Macau Post Daily
+    date: 2026-10-23
 open_questions:
   - The sources give no separate date for the seizure; 23 October is the publication date.
   - The sources do not state how many gummies were in the packet or the amount or concentration of THC.
@@ -49,8 +53,8 @@ open_questions:
   - No later prosecutorial or court outcome was reported.
 ---
 
-Customs officers at Gongbei Port stopped a mainland man entering through the passenger hall's green channel after he appeared unusually nervous during questioning. They found a medicine pouch in his suitcase containing one packet of fruit-flavoured gummies marked “THC.” [@1,2,3]
+Customs officers at Gongbei Port stopped a mainland man entering through the passenger hall's green channel after he appeared unusually nervous during questioning. They found a medicine pouch in his suitcase containing one packet of fruit-flavoured gummies marked “THC.” [@1,2,3,4]
 
-An expert examination detected THC in the gummies. The packet weighed 10.11 g net and 12 g gross. [@1,2] Customs referred the case to prosecutors for review of a possible prosecution. [@1,2,3]
+An expert examination detected THC in the gummies. The packet weighed 10.11 g net and 12 g gross. [@1,2,4] Customs referred the case to prosecutors for review of a possible prosecution. [@1,2,3,4]
 
 The customs account identifies the traveler only by the surname Sun and gives no later charge or court decision. [@1,2]
