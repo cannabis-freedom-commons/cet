@@ -48,32 +48,47 @@ sources:
     publisher: Mantovauno.it
     date: 2026-11-14
     language: it
+  - title: 'Maxi sequestro di droga a Mantova: arrestato 33enne con quasi 6 chili di hashish e cocaina in casa'
+    url: https://primadituttomantova.it/cronaca/maxi-sequestro-di-droga-a-mantova-arrestato-33enne-con-quasi-6-chili-di-hashish-e-cocaina-in-casa/
+    publisher: Prima Mantova
+    date: 2026-11-16
+    language: it
+  - title: 'Polizia di Stato, Mantova: Arrestato un 33enne e sequestrati 6 chilogrammi di hashish e cocaina'
+    url: https://www.lanuovamantova.it/view_article.php?id=13883
+    publisher: La Nuova Mantova
+    date: 2026-11-14
+    language: it
 open_questions:
-  - The hashish weight is given only as almost six kilograms, not an exact laboratory figure.
-  - It is unclear whether the 100-gram street packet is included in the almost-six-kilogram total or additional to it; the report records 6 kg as stated.
-  - The validation hearing is dated only as yesterday morning relative to the 14 November 2026 publication, implying 13 November, with no calendar date stated.
-  - The 33.8 grams of cocaine from the same search is excluded from the cannabis figures as a mixed haul.
-  - The man is identified only by age and South American origin, with no plea or later court outcome beyond the precautionary measure reported.
-  - Both accounts reproduce the same police account and are not independent reporting of the arrest.
+    - The hashish weight is given only as almost six kilograms, not an exact laboratory figure.
+    - It is unclear whether the 100-gram street packet is included in the almost-six-kilogram total or additional to it; the report records 6 kg as stated.
+    - 'The validation date differs between accounts: the 14 November 2026 reports imply 13 November as the validation day, while the later Prima Mantova account dates validation to the morning of Sunday 15 November 2026.'
+    - The 33.8 grams of cocaine from the same search is excluded from the cannabis figures as a mixed haul.
+    - The man is identified only by age and South American origin, with no plea or later court outcome beyond the precautionary measure reported.
+    - The three accounts reproduce the same police account and are not independent reporting of the arrest.
+media:
+  - kind: photo
+    url: https://primadituttomantova.it/cronaca/maxi-sequestro-di-droga-a-mantova-arrestato-33enne-con-quasi-6-chili-di-hashish-e-cocaina-in-casa/
+    media_url: https://primadituttomantova.it/media/2026/11/DSC_0286.POLIZIAjpg-1.jpg
+    publisher: Prima Mantova
+    caption: Drugs seized in the Mantua home search, in the photo published with the report of the 33-year-old's arrest.
 ---
 
 Mantua Mobile Squad officers arrested a 33-year-old man of South American origin
 on the evening of 10 November 2026 on suspicion of holding drugs for dealing.
-[@1] Officers stopped him on the street during targeted anti-dealing checks, and
+[@1,3] Officers stopped him on the street during targeted anti-dealing checks, and
 he appeared nervous and voluntarily handed over a packet containing about 100
-grams of hashish. [@1] After the formalities, police took him to Mantua's Casa
+grams of hashish. [@1,3] After the formalities, police took him to Mantua's Casa
 Circondariale prison on the judicial authority's order. [@1]
 
 Extending the search to his home and outbuildings, officers found almost 6
 kilograms of hashish and 33.8 grams of cocaine hidden inside, along with
-material for weighing and packaging individual doses for sale. [@1] Mantovauno's
+material for weighing and packaging individual doses for sale. [@1,4] Mantovauno's
 account of the same operation confirms the home search yielded almost six
 kilograms of hashish and 33.8 grams of cocaine plus packaging material, all
 placed under seizure. [@2]
 
 At the validation hearing the judge confirmed the arrest and ordered the
 precautionary measures of compulsory residence in the municipality of Mantua
-with daily reporting to the judicial police. [@1] Both accounts attribute the
+with daily reporting to the judicial police. [@1,3] Both accounts attribute the
 operation to the Mantua Mobile Squad acting against drug trafficking and
 property crime in the city. [@2]
-
