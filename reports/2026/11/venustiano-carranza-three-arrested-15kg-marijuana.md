@@ -41,6 +41,11 @@ media:
     media_url: https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/322/6321823.jpg&imagencompleta=1
     publisher: REFORMA
     caption: 'SSC handout photo published with the report on the detention and the 15-kilogram seizure. Photo: SSC'
+  - kind: photo
+    url: https://www.cronica.com.mx/metropoli/2026/11/14/caen-el-vite-y-el-balu-narcomenudistas-y-extorsionadores-al-norte-de-la-cdmx/
+    media_url: https://lacronicadehoy-lacronicadehoy-prod.web.arc-cdn.net/resizer/v2/A4FZFAZTF5DNNDA3JOG2N46YGU.jpeg?auth=b5e0484077f185992a84e55f543680b3c0bc4f8d3009ca5d70cd3b88c0b54d93&width=1440&height=747
+    publisher: La Crónica de Hoy
+    caption: 'SSC handout photo of the three detained men, published with the report on the Zona Centro detention. Photo: SSC'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1fdcf374b8029682dddd1b5977139237
@@ -66,6 +71,11 @@ sources:
     publisher: Grupo Milenio
     date: 2026-11-14
     language: es
+  - title: Caen “El Vite” y “El Balú”, narcomenudistas y extorsionadores al norte de la CDMX
+    url: https://www.cronica.com.mx/metropoli/2026/11/14/caen-el-vite-y-el-balu-narcomenudistas-y-extorsionadores-al-norte-de-la-cdmx/
+    publisher: La Crónica de Hoy
+    date: 2026-11-14
+    language: es
 open_questions:
   - 14 November 2026 is the publication and announcement date used as the incident date; no separate time for the detention was given.
   - The marijuana was described as apparent and the cocaine as possible or probable, with no laboratory confirmation reported.
@@ -76,15 +86,15 @@ open_questions:
 ---
 
 Mexico City police detained three men in colonia Zona Centro in Venustiano
-Carranza. [@2] The detained men were identified as Ramón 'N', Marco 'N' alias El
-Vite and Luis 'N' alias Balú. [@4] The detained men are aged 23, 25 and 28. [@3]
+Carranza. [@2,5] The detained men were identified as Ramón 'N', Marco 'N' alias El
+Vite and Luis 'N' alias Balú. [@4] La Crónica gives Ramón's full name as Ramón Bautista Hernández. [@5] The detained men are aged 23, 25 and 28. [@3] La Crónica maps the reported ages to the names: Ramón is 28, Marco Antonio alias Vite is 25, and Luis Ulises alias Balú is 23. [@5]
 Officers on patrol at the junction of José Joaquín Herrera and Bravo spotted the
-three men carrying a large plastic box and two black bags. [@3] The men tried to
+three men carrying a large plastic box and two black bags. [@3,5] The men tried to
 flee when they saw the police but were intercepted metres ahead. [@3]
 
-Officers seized 15 kilograms of apparent marijuana from the men. [@1] Officers
+Officers seized 15 kilograms of apparent marijuana from the men. [@1,5] Officers
 also seized 655 wrappers holding a powder with the characteristics of cocaine.
-[@3] The three men and the seized drugs were placed at the disposal of the
+[@3,5] The three men and the seized drugs were placed at the disposal of the
 Public Prosecutor's agent, which will open the investigation file and decide
 their legal situation. [@4]
 
@@ -93,4 +103,3 @@ prison system, one for extortion and one for health crimes. [@4] SSC chief Pablo
 Vázquez said the arrests came from reinforced security against high-impact
 crime, with continued targeted operations, patrols and attention to citizen
 complaints. [@3]
-
