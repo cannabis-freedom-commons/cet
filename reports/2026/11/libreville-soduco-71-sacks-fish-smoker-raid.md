@@ -49,6 +49,11 @@ sources:
     publisher: Biba 241
     date: 2026-11-16
     language: fr
+  - title: 'Libreville : 182 millions de FCFA de stupéfiants saisis'
+    url: https://directinfosgabon.com/libreville-182-millions-de-fcfa-de-stupefiants-saisis/
+    publisher: Direct Infos Gabon
+    date: 2026-11-16
+    language: fr
 open_questions:
   - No number is given for the people arrested, so no arrest count is recorded.
   - No weight is given for the 71 sacks, so no kilogram figure is recorded.
@@ -65,17 +70,16 @@ arrested several people and seized large quantities of drugs. [@1]
 At Soduco, investigators focused on a warehouse presented as belonging to a
 Nigerian national, behind whose apparent fish-smoking and fish-selling activity
 bundles of cannabis were allegedly grouped and stored. [@1] The force reported
-seizing a consignment of about 71 sacks of cannabis. [@1] It put the approximate
-value of the haul at 182 million CFA francs. [@1] The authorities brought in a
+seizing a consignment of about 71 sacks of cannabis. [@1,3] The same seizure also included 32 carreaux of skunk alongside the 71 sacks of cannabis. [@3] It put the approximate
+value of the haul at 182 million CFA francs. [@1,3] The authorities brought in a
 military engineering vehicle and progressively demolished the installations,
 exposing concealment spaces arranged under piles of wood and the smoking
-structures. [@1]
+structures. [@1] The installations serving as logistics bases were then destroyed in the presence of the judicial authorities. [@3]
 
 The operation mobilised the DGR, the anti-drug office OCLA, the DGSS and the
 immigration authority DGDI, whose role also covers clandestine immigration
-potentially linked to trafficking circuits. [@1] Investigators still have to
+potentially linked to trafficking circuits. [@1] This account also names the DGCISM among the services mobilised, alongside the DGSS, the DGR, the DGDI and the anti-drug office. [@3] Investigators still have to
 identify the full ramifications of the suspected network and bring those
 implicated before the courts. [@1] A second account confirms the same toll of
 about 71 sacks worth about 182 million FCFA, several arrests and destruction of
 the site with a military engineering vehicle. [@2]
-
