@@ -62,19 +62,20 @@ sources:
     publisher: Polizei Niederösterreich
     date: 2026-11-16
     language: de
-open_questions:
-    - The cannabis was described without any reported laboratory confirmation.
-    - No court outcome beyond detention in Korneuburg prison was reported.
-    - All accounts cite the same Lower Austria police dispatch, so there is no independent account.
+  - title: 16 Kilo Cannabis! Polizei schnappt Mann am Flughafen
+    url: https://www.msn.com/de-at/nachrichten/other/16-kilo-cannabis-polizei-schnappt-mann-am-flughafen/ar-AA2hyrTI
+    publisher: Heute
+    date: 2026-11-16
+    language: de
 ---
 
 Police detained a 23-year-old British man at Vienna Airport in Schwechat after
 cannabis was found in his suitcase during weekend checks of transit baggage.
-[@1,2,3,4] Criminal investigators from the Schwechat city police command checked transit baggage from a Bangkok flight at Vienna Airport on 14 November 2026. [@4] He was taken to Korneuburg prison after denying an allegation of drug
-trafficking. [@1,2,3,5]
+[@1,2,3,4,6] Criminal investigators from the Schwechat city police command checked transit baggage from a Bangkok flight at Vienna Airport on 14 November 2026. [@4] He was taken to Korneuburg prison after denying an allegation of drug
+trafficking. [@1,2,3,5,6]
 
-The seizure totalled 16 kilograms of cannabis. [@1,2,5] The cannabis was packed in
-16 airtight packages. [@1,2,3,5]
+The seizure totalled 16 kilograms of cannabis. [@1,2,5,6] The cannabis was packed in
+16 airtight packages. [@1,2,3,5,6]
 
-The man had been travelling from Bangkok in Thailand to London. [@1,2,3,5] Police
+The man had been travelling from Bangkok in Thailand to London. [@1,2,3,5,6] Police
 announced the case on Monday in a dispatch. [@1,2,3]
