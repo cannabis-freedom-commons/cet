@@ -64,23 +64,29 @@ sources:
     url: https://srilankamirror.com/2026/11/16/news/3-arrested-at-bia-with-kush-worth-over-rs-130-mn
     publisher: Sri Lanka Mirror
     date: 2026-11-16
+  - title: Two arrested with Rs. 86.6 million worth of ’Kush’ at BIA - Breaking News | Daily Mirror
+    url: https://www.dailymirror.lk/breaking-news/Two-arrested-with-Rs-86-6-million-worth-of-Kush-at-BIA/108-354960
+    publisher: Daily Mirror
+    date: 2026-11-16
+open_questions:
+  - The Daily Mirror wording leaves unclear which man is the welder and which is the businessman, spelling the area Nedunkerni rather than Nedunkerny.
 ---
 
 Officers of the Police Narcotics Bureau arrested two Sri Lankan passengers at
 Bandaranaike International Airport in Katunayake in the early hours of 16
-November 2026 as they attempted to leave the airport with narcotics. [@1,4] The
+November 2026 as they attempted to leave the airport with narcotics. [@1,4,6] The
 two are a 35-year-old iron welder living in Nedunkerny and a 46-year-old
-businessman living in Kandy. [@1,5] The two are due to be produced before the
+businessman living in Kandy. [@1,5,6] The two are due to be produced before the
 Negombo Magistrate's Court on 16 November so detention orders can be obtained
-for further investigation. [@2,4,5]
+for further investigation. [@2,4,5,6]
 
 Officers found a total of 8 kilograms and 664 grams of Kush concealed inside
-four whisky-bottle boxes packed in two pieces of luggage. [@1,4,5] The boxes had originally held Jack Daniel’s whisky bottles. [@5] The whisky
+four whisky-bottle boxes packed in two pieces of luggage. [@1,4,5,6] The boxes had originally held Jack Daniel’s whisky bottles. [@5] The whisky
 bottles had been removed from the boxes and replaced with four packets
 containing the narcotics. [@1] Police put the value of the consignment at Rs
-86.64 million. [@2,4,5] The pair had bought the drugs in Thailand, travelled to
+86.64 million. [@2,4,5,6] The pair had bought the drugs in Thailand, travelled to
 Kuala Lumpur in Malaysia, and arrived at Katunayake at around midnight on
-Malaysia Airlines flight MH179. [@2]
+Malaysia Airlines flight MH179. [@2,6]
 
 A police account splits the haul as 4.336 kilograms and 4.328 kilograms held by
 the two suspects respectively, arrested by the PNB Airport Unit at the arrivals
