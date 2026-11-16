@@ -46,28 +46,32 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-14
     language: ar
+  - title: حبس تاجر مخدرات عثر بحوزته على كمية كبيرة من الحشيش في حلوان
+    url: https://www.dostor.org/5777447
+    publisher: جريدة الدستور
+    date: 2026-11-15
+    language: ar
 open_questions:
-  - No weight, count or value was published for the hashish, the cash or the phone; both accounts say only a large quantity.
-  - The exact location and time of the arrest inside Helwan are not given; 14 November 2026 is the publication date of both reports and stands in for the incident date.
-  - The suspect is unnamed; both accounts describe him only as an unemployed dealer.
-  - No charges, detention decision or court outcome was reported; the prosecution had only begun its investigation.
-  - The two accounts are near-identical in structure and may draw on the same police briefing, so they are not fully independent.
-  - No police or Interior Ministry statement page was found; the event rests on the two news outlets.
+    - No weight, count or value was published for the hashish, the cash or the phone; all three accounts say only a large quantity.
+    - The exact location and time of the arrest inside Helwan are not given; 14 November 2026 is the publication date of the first two reports and 15 November 2026 of the third, and stands in for the incident date.
+    - The suspect is unnamed; accounts describe him as an unemployed man or drug dealer.
+    - The four-day detention pending investigation and laboratory referral are now reported; no plea, charge outcome or trial result was reported.
+    - The three accounts are similar in structure and may draw on the same police briefing, so they are not fully independent.
+    - No police or Interior Ministry statement page was found; the event rests on the three news outlets.
 ---
 
 Security forces of the Cairo Security Directorate arrested a man accused of drug
 trafficking in the Helwan area of Cairo. [@1] The suspect, described only as an
 unemployed man, had been promoting hashish to clients in the police district
-before investigators confirmed the tip-off and located him. [@1]
+before investigators confirmed the tip-off and located him. [@1,3]
 
 Officers found with him a large quantity of hashish prepared for sale, a sum of
 money from the proceeds of his trafficking and a mobile phone used to contact
-associates and coordinate sales. [@1] Youm7's account says the cash came from
+associates and coordinate sales. [@1,3] Youm7's account says the cash came from
 sale proceeds and the phone was used to contact clients. [@2]
 
 The suspect was taken into custody, a report was filed and the competent
 prosecution was notified and began investigating and examining the seized items.
-[@1] Youm7 confirms the arrest, saying Cairo detectives arrested the dealer with
+[@1,3] The prosecution requested expedited security investigations into the suspect's activity, including whether he acted alone or with others and the source of the drugs. [@3] The prosecution ordered the seized items held and sent to the chemical laboratory for examination and a report. [@3] The Helwan prosecution ordered the dealer held for four days pending investigation on accusations of trafficking hashish and promoting it to clients in the Helwan police district. [@3] Youm7 confirms the arrest, saying Cairo detectives arrested the dealer with
 a large quantity of hashish before it was promoted among clients and referred
 him to the prosecution. [@2]
-
