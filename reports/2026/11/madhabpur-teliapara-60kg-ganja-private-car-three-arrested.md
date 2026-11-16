@@ -60,22 +60,34 @@ sources:
     publisher: Daily Jaijaidin
     date: 2026-11-16
     language: bn
+  - title: মাধবপুরে প্রাইভেটকারে ৬০ কেজি গাঁজা উদ্ধার, আটক ৩
+    url: https://www.protidinersangbad.com/whole-country/595659
+    publisher: Protidiner Sangbad
+    date: 2026-11-16
+    language: bn
 open_questions:
-  - The two accounts give different operation times, about 2:30 at night in one and about 3:30 at night in the other.
-  - 'The accounts differ on the detainees'' home villages: one places all three in Lohaid village while the other places Mohiuddin in Itakhola village of Noapara Union.'
-  - No value estimate or laboratory confirmation for the seized ganja was reported.
+    - 'The accounts give different operation times: about 2:30 at night, about 3:30 at night, or before dawn.'
+    - 'The accounts differ on the detainees'' home villages: two place all three in Lohaid village while another places Mohiuddin in Itakhola village of Noapara Union.'
+    - No value estimate or laboratory confirmation for the seized ganja was reported.
+    - 'The accounts differ on the procedural stage: one says a Narcotics Control Act case had been filed and the three sent to jail, while another says the case was still to be filed and the men were due before the Habiganj court.'
+media:
+  - kind: photo
+    url: https://www.protidinersangbad.com/whole-country/595659
+    media_url: https://img.protidinersangbad.com/assets/news_photos/2026/11/16/image-595659.jpg
+    publisher: Protidiner Sangbad
+    caption: 'Police officers stand behind the seized packages from the Madhabpur ganja operation. Photo: Protidiner Sangbad'
 ---
 
 Police detained three men and recovered 60 kg of ganja from a silver private car
-in a late-night operation in Madhabpur, Habiganj. [@1,3,4] The operation took place
+in a late-night operation in Madhabpur, Habiganj. [@1,3,4,5] The operation took place
 at about 2:30 at night on 16 November at Telia Para Noahati Mor in the upazila.
 [@1,3]
 
 Acting on a secret tip-off, a Haraspur (Teliapara) police outpost team searched
 the suspect silver private car, recovered 60 kg of ganja from it and detained
 its three occupants. [@1,3,4] The detained men were identified as Mohiuddin (31),
-Ashikul Islam Apon (21) and Tamim Mia (19). [@1,3,4] The operation was led by SI
-Jamal Mia, with ASI Nazim Uddin among the police team. [@1,4]
+Ashikul Islam Apon (21) and Tamim Mia (19). [@1,3,4,5] The operation was led by SI
+Jamal Mia, with ASI Nazim Uddin among the police team. [@1,4,5]
 
 The driver tried to flee when signalled to stop on the Shahpur road, and police
 stopped the car, recovered 60 kg of ganja and arrested the three men. [@2] The
