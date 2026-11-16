@@ -53,24 +53,23 @@ sources:
     publisher: Diken Haber
     date: 2026-11-15
     language: tr
-open_questions:
-  - Both weights are approximate and the material was described only as believed to be Indian-hemp-type cannabis, with laboratory analysis still pending.
-  - The 20 grams from the vehicle is treated as additional to the 6 kilograms 20 grams, giving 6.04 kg; the reports do not state explicitly whether it is included in the headline figure.
-  - The 1,000 euros is alleged proceeds already received, not cash reported as seized.
-  - The person reported as sought was not identified and no plea, charge or further court outcome was reported.
-  - All three accounts reproduce the same court testimony by the police officer, so they are not independent reporting.
+  - title: HEDEF OPERASYONU'NDA 6 KİLO 20 GRAM HİNT KENEVİRİ ELE GEÇİRİLDİ! | MHA HABER
+    url: https://www.mhahaber.com/hedef-operasyonunda-6-kilo-20-gram-hint-keneviri-ele-gecirildi
+    publisher: MHA HABER - Mağusa Haber Ajansı
+    date: 2026-11-15
+    language: tr
 ---
 
 Narcotics and Anti-Smuggling Directorate teams carried out a joint operation in
-Cukurova village at about 23:15 on 14 November 2026. [@1] Police detained Celal
+Cukurova village at about 23:15 on 14 November 2026. [@1] The operation was carried out jointly by the Narcotics and Anti-Smuggling Directorate and teams of the Crime Prevention Branch of the Lefkoşa Police Directorate. [@4] Police detained Celal
 Dogan and Ahmet Zaglul over unlawful taking, possession and supply of cannabis,
 described as Hintkeneviri, and laundering of crime proceeds, and brought them
-before the court. [@3] Judge Sevket Gazi ordered both suspects to remain in
+before the court. [@3,4] Judge Sevket Gazi ordered both suspects to remain in
 police custody for three days for investigation purposes. [@2]
 
 Officers found about 6 kilograms 20 grams of material believed to be
 Indian-hemp-type cannabis in the possession of the two suspects and took it as
-evidence. [@2] On Dogan's indication, officers found about 20 grams more of
+evidence. [@2,4] On Dogan's indication, officers found about 20 grams more of
 suspected Indian-hemp-type cannabis in a friend's vehicle. [@2] Police said the
 seized exhibits would be sent for analysis and that one other person believed to
 be connected with the matter was being sought. [@1]
@@ -80,4 +79,3 @@ had left drugs in the same way at four different points and had received a total
 of 1,000 euros for doing so. [@1] Dogan stated that he had arranged over
 WhatsApp with a contact to collect the drugs and leave them at another stated
 location for financial gain. [@1]
-
