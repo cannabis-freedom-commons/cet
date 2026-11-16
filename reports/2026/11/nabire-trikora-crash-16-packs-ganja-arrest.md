@@ -61,24 +61,23 @@ sources:
     publisher: MataPapua
     date: 2026-11-16
     language: id
-open_questions:
-  - No weight was published for the 16 packs, so no cannabis weight is recorded.
-  - The material was described only as suspected ganja with no laboratory confirmation reported.
-  - Sources give the crash time as about 04.00 WIT and about 04.30 WIT; the report uses the submitted account's 04.00 WIT.
-  - The rider is named as P.D.S. (23) in the submitted account and as Mr. X in the other two accounts.
-  - No charge, detention measure or court outcome was reported; the narcotics case was still under investigation.
+  - title: Bawa Narkotika Ganja, seorang pemuda diamankan Anggota Satlantas Polres Nabire
+    url: https://rri.co.id/nabire/hukum/kriminalitas/2901395/bawa-narkotika-ganja-seorang-pemuda-diamankan-anggota-satlantas-polres-nabire
+    publisher: RRI
+    date: 2026-11-16
+    language: id
 ---
 
 Nabire traffic police secured 23-year-old P.D.S. after a crash on Jalan Trikora
 in Kelurahan Morgo, in front of Imanuel church, on 16 November 2026 at about
-04.00 WIT. [@1] His Honda Scoopy struck a Honda Beat without a number plate
-ridden by A.A. with passenger Y.W.Y. [@1] After the crash the Scoopy rider fled
-the scene. [@1] Officers at Pospol Pantai Nabire stopped him after noticing his
-suspicious behaviour. [@1] The riders and passenger involved in the crash were
+04.00 WIT. [@1,4] His Honda Scoopy struck a Honda Beat without a number plate
+ridden by A.A. with passenger Y.W.Y. [@1,4] After the crash the Scoopy rider fled
+the scene. [@1,4] Officers at Pospol Pantai Nabire stopped him after noticing his
+suspicious behaviour. [@1,4] The riders and passenger involved in the crash were
 evacuated to Nabire regional hospital for medical checks. [@1]
 
 A search of the Scoopy found a green plastic bag inside its seat holding 16
-clear clip packs suspected to contain ganja. [@1] Police seized the Scoopy, the
+clear clip packs suspected to contain ganja. [@1,4] Police seized the Scoopy, the
 red Honda Beat without a registration plate and the green bag with the 16
 suspected ganja packs. [@2] Officers also seized the rider's mobile phone
 alongside the two motorcycles. [@3]
@@ -89,4 +88,3 @@ handled by the traffic unit while the suspected narcotics case goes to the
 narcotics unit for further investigation. [@3] The 16 suspected ganja packs were
 handed to the Nabire narcotics unit for further investigation, including testing
 the contents. [@2]
-
