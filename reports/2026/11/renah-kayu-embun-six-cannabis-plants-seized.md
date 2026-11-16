@@ -73,16 +73,23 @@ sources:
     publisher: RRI.co.id
     date: 2026-11-14
     language: id
+  - title: Polres Kerinci Temukan Enam Pohon Ganja di Renah Kayu Embun
+    url: https://imcnews.id/read/2026/11/15/27563/polres-kerinci-temukan-enam-pohon-ganja-di-renah-kayu-embun/
+    publisher: IMCNews.ID
+    date: 2026-11-15
+    language: id
+open_questions:
+  - The IMCNews page gives no separate date for the operation beyond its 15 November 2026 publication; the incident date remains 4 November 2026 from the earlier police account.
 ---
 
 In RT 11 of Renah Kayu Embun village, officers found two black flower pots
-partly buried in the soil. [@1,3,4,5,6] The suspected cultivation was in farmland on the edge of the village water channel. [@6] Officers walked about 45 minutes through steep, slippery terrain to reach the site. [@3,4,5,6] The operation was triggered by public information about suspected illegal cultivation in the area. [@3,5] The operational team was led by Kerinci Police narcotics chief IPTU Fikrur Rizal and accompanied by the local village secretary. [@6] Each pot held three plants suspected to be
+partly buried in the soil. [@1,3,4,5,6] The suspected cultivation was in farmland on the edge of the village water channel. [@6] Officers walked about 45 minutes through steep, slippery terrain to reach the site. [@3,4,5,6,7] The operation was triggered by public information about suspected illegal cultivation in the area. [@3,5,7] The operational team was led by Kerinci Police narcotics chief IPTU Fikrur Rizal and accompanied by the local village secretary. [@6] Each pot held three plants suspected to be
 ganja, six in total, which were uprooted together with their pots and secured as
-evidence. [@1,3,5] Police had not identified the owner of the plants; the owner's
+evidence. [@1,3,5,7] Police had not identified the owner of the plants; the owner's
 identity and those suspected to be involved remained under investigation by
-Satresnarkoba Polres Kerinci. [@1,3,5,6]
+Satresnarkoba Polres Kerinci. [@1,3,5,6,7] The suspected offence was linked to Article 111 paragraph (2) of Law Number 35 of 2009 on Narcotics in conjunction with the penalty-adjustment provisions of Law Number 1 of 2023 on the Criminal Code. [@7]
 
 The six plants and their pots were uprooted and taken to Mapolres Kerinci for
-further examination. [@2,3,4,5,6] A further sweep around the site found no additional plants. [@4,5] The follow-up steps included witness examinations, an
+further examination. [@2,3,4,5,6,7] A further sweep around the site found no additional plants. [@4,5] The follow-up steps included witness examinations, an
 initial case conference, completing the investigation file and laboratory
 testing of the evidence through BPOM. [@2,3]
