@@ -56,24 +56,23 @@ sources:
     publisher: Los Noticieristas
     date: 2026-11-14
     language: es
-open_questions:
-  - The operation's date was not stated; 14 November 2026 is the publication date used as the incident date.
-  - The marijuana was described as suspected and no laboratory confirmation was reported.
-  - No charges or court outcome were reported.
-  - Both accounts draw on the authorities' description of the operation.
+  - title: Autoridades detienen a un civil; le aseguran arma de fuego, dosis de presunta droga y un vehículo, en El Rosario
+    url: https://www.puntualizando.com/autoridades-detienen-a-un-civil-le-aseguran-arma-de-fuego-dosis-de-presunta-droga-y-un-vehiculo-en-el-rosario/
+    publisher: Puntualizando.com
+    date: 2026-11-14
+    language: es
 ---
 
 State police detained a man during a security operation in the municipality of
-El Rosario, Sinaloa, and seized a rifle and suspected drugs. [@2] The officers
+El Rosario, Sinaloa, and seized a rifle and suspected drugs. [@2,3] The officers
 belonged to the Sinaloa Special Operations Group, known as GOES, and worked with
-the inter-institutional group. [@2] Police said they saw the man leave a home
+the inter-institutional group. [@2,3] Police said they saw the man leave a home
 carrying a firearm and a backpack, enter a car and drive away before they
-followed and stopped him. [@1]
+followed and stopped him. [@1,3]
 
 Officers found 300 cigarettes made with suspected marijuana in the vehicle, with
-an estimated total weight of 2.6 kilograms. [@1] They also seized an AK-47
+an estimated total weight of 2.6 kilograms. [@1,3] They also seized an AK-47
 rifle, six magazines and 180 cartridges, as well as 200 doses of suspected
 crystal methamphetamine weighing about 66 grams. [@1] The man, the seized items
 and the blue Nissan March were placed at the disposal of the competent authority
-for investigation. [@2]
-
+for investigation. [@2,3]
