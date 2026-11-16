@@ -61,6 +61,11 @@ sources:
     publisher: দৈনিক সরেজমিনবার্তা
     date: 2026-11-15
     language: bn
+  - title: এসআরবির পৃথক অভিযানে ৩০০ কেজি গাঁজা ও আগ্নেয়াস্ত্র উদ্ধার, প্রতারক গ্রেপ্তার
+    url: https://www.dailysokalersomoy.com/news/170602
+    publisher: Daily Sokaler Somoy
+    date: 2026-11-15
+    language: bn
 media:
   - kind: photo
     url: https://sorejominbarta.com/country/article/66638
@@ -70,13 +75,13 @@ media:
 ---
 
 SRB officers raided the Rasulpur area in Bijoynagar in the early hours of
-Wednesday. [@1] The raid was at about 3:10 a.m. beside the paved Rampur-to-Manipur road, in a crop field at Rasulpur in Chandura Union. [@3,4] The team acted on a tip that several people were in the area to
+Wednesday. [@1,6] The raid was at about 3:10 a.m. beside the paved Rampur-to-Manipur road, in a crop field at Rasulpur in Chandura Union. [@3,4] The team acted on a tip that several people were in the area to
 buy and sell drugs. [@1,3,4,5] The raiding party was an operational team of SRB-9's CPC-1 in Brahmanbaria. [@4] Between 15 and 16 suspected drug traders fled after
 sensing the SRB team. [@1] In the chase, officers identified Nurul Islam, 38, of Paikpara, son of Abed Ali, but he escaped with the others. [@3,4] No one was arrested at the scene. [@4]
 
 Officers then searched a crop field beside the road and recovered 300 kg of
-ganja. [@1,2,3,5] The ganja was in 25 bundles tied with jute twine and wrapped in Scotch tape. [@3,4] The seizure was announced in a midday press release by SRB-9, Sylhet
+ganja. [@1,2,3,5,6] The ganja was in 25 bundles tied with jute twine and wrapped in Scotch tape. [@3,4] The seizure was announced in a midday press release by SRB-9, Sylhet
 camp. [@1] The release was signed by media officer, Additional Police
 Superintendent K. M. Shahidul Islam Sohag. [@1]
 
-The battalion said necessary legal measures had been taken. [@1,5] A case under the Narcotics Control Act 2018 was filed against fugitive Nurul Islam and 15 or 16 unnamed people, and the seized ganja was handed to Bijaynagar police station. [@3,4] SRB-9 said its operations against drugs would continue under a zero-tolerance policy. [@4]
+The battalion said necessary legal measures had been taken. [@1,5] A case under the Narcotics Control Act 2018 was filed against fugitive Nurul Islam and 15 or 16 unnamed people, and the seized ganja was handed to Bijaynagar police station. [@3,4,6] SRB-9 said its operations against drugs would continue under a zero-tolerance policy. [@4]
