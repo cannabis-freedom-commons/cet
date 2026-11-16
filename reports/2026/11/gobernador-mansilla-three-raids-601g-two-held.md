@@ -70,6 +70,11 @@ sources:
     publisher: 9 Digital - Mi 9
     date: 2026-11-14
     language: es
+  - title: Dos detenidos y secuestro de droga tras tres allanamientos simultáneos
+    url: https://diarioelargentino.com/policiales/dos-detenidos-y-secuestro-de-droga-tras-tres-allanamientos-simultaneos.htm
+    publisher: Diario El Argentino
+    date: 2026-11-14
+    language: es
 media:
   - kind: photo
     url: https://9digital.com.ar/dos-detenidos-y-secuestro-de-droga-tras-tres-allanamientos-simultaneos/
@@ -79,12 +84,12 @@ media:
 ---
 
 Police carried out three simultaneous raids in Gobernador Mansilla, department
-Tala, on Friday 13 November 2026. [@1,4,5] Officers searched two homes and a
+Tala, on Friday 13 November 2026. [@1,4,5,6] Officers searched two homes and a
 commercial premises in the town as part of an investigation into alleged drug
 fractioning and sale. [@1] Two men were apprehended and taken to the Tala
 departmental headquarters, where they remained at the disposal of the courts.
 [@1] The two men were held incommunicado and a woman was identified in
-connection with the case. [@2,4,5]
+connection with the case. [@2,4,5,6]
 
 Officers seized 434.3 grams of cannabis flowers, 165 grams of cannabis sativa
 plants and 1.7 grams of marijuana remnants. [@2,4] The reported cannabis plant
@@ -95,7 +100,7 @@ which was added to the case file. [@1] Officers also seized a metal scissors
 containing cocaine traces, which is excluded from the cannabis total. [@2]
 
 The raids ran between 18:50 and 22:18 and were led by the Rosario del Tala
-Dangerous Drugs division. [@2,5] Specialised divisions and special guards of the Nogoyá, Gualeguay and Tala departmental headquarters supported the raids. [@4] The measures were ordered by the Rosario del Tala
+Dangerous Drugs division. [@2,5,6] Specialised divisions and special guards of the Nogoyá, Gualeguay and Tala departmental headquarters supported the raids. [@4] The measures were ordered by the Rosario del Tala
 Guarantees Court under Judge Silvina G. Cabrera, with prosecutor Laila Taleb
-intervening. [@2,4,5] The case was pursued as alleged infringement of Provincial Law
+intervening. [@2,4,5,6] The case was pursued as alleged infringement of Provincial Law
 10.566 on narcomenudeo, the provincial term for small-scale drug dealing. [@3,5]
