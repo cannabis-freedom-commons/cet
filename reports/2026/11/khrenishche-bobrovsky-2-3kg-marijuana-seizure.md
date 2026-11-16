@@ -31,19 +31,27 @@ sources:
     publisher: Словости
     date: 2026-11-13
     language: ru
+  - title: Более 2 кг высушенной конопли нашли в сарае жителя Воронежской области
+    url: https://voronezhnews.ru/fn_1994048.html
+    publisher: Воронежские новости
+    date: 2026-11-14
+    language: ru
 open_questions:
-  - Komsomolskaya Pravda illustrated the story with a generic handcuffing stock image, not a photo of this Bobrovsky seizure.
+    - Komsomolskaya Pravda illustrated the story with a generic handcuffing stock image, not a photo of this Bobrovsky seizure.
+    - No separate date for the search was published; the police press service announced the seizure on 13 November 2026.
 ---
 
 The suspect is a 39-year-old resident of the khutor of Khrenishche in Bobrovsky
-District, Voronezh Oblast. [@2,3] The suspect works as an operator at an industrial enterprise. [@3] Police searched the shed and grounds of the
-property and found and seized parts of wild cannabis. [@2]
+District, Voronezh Oblast. [@2,3,4] The suspect works as an operator at an industrial enterprise. [@3] Police searched the shed and grounds of the
+property and found and seized parts of wild cannabis. [@2,4]
 
 Testing confirmed the material was marijuana, with the measured weight given as
-2352.81 grams of cannabis. [@1] The man admitted that he had found wild-growing
+2352.81 grams of cannabis. [@1,4] The man admitted that he had found wild-growing
 cannabis bushes near the village, gathered them, dried them and stored them for
-personal consumption. [@1]
+personal consumption. [@1,4]
 
 Police opened a criminal case under part 2 of article 228 of the Russian
 Criminal Code, and the man was detained and is held in a temporary detention
-facility. [@2]
+facility. [@2,4] The charge is qualified as the illegal acquisition and storage of drugs in a large size, and the detention was ordered under article 91 of the Code of Criminal Procedure. [@4]
+
+He said he had kept the dried cannabis for personal use through the winter. [@4]
