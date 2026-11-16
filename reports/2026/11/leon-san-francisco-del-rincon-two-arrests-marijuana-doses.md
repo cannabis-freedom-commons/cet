@@ -57,28 +57,27 @@ sources:
     publisher: TV4 Noticias Guanajuato
     date: 2026-11-16
     language: es
-open_questions:
-  - No weight for the seized marijuana was published, only 1,010 doses in León and 1,073 mixed doses in San Francisco del Rincón, so no kilograms are recorded.
-  - The marijuana share within the 1,073 mixed doses seized in San Francisco del Rincón cannot be separated from crystal, cocaine and base, so only the 1,010 León marijuana doses stand as the distinct cannabis seizure.
-  - All substances were described only as suspected or presumed, and chemical test results were still pending.
-  - No separate date for the operations was given; 15 November 2026 is the publication date and stands in for the incident date.
-  - No charges, pleas or court outcomes were reported; both men were handed to the Ministerio Público for investigation.
+  - title: Aseguran 2 mil dosis de droga en Guanajuato
+    url: https://bajio.quadratin.com.mx/aseguran-2-mil-dosis-guanajuato/
+    publisher: Quadratín Bajío
+    date: 2026-11-16
+    language: es
 ---
 
 Two detained men, more than 2,000 doses of suspected drugs seized and a
 motorcycle with a theft report recovered was the result of two operations by
 Guanajuato's Fuerzas de Seguridad Pública del Estado in León and San Francisco
-del Rincón. [@1,3] The first intervention happened in colonia Santa María, San
+del Rincón. [@1,3,4] The first intervention happened in colonia Santa María, San
 Francisco del Rincón, where officers of Comisaría Regional X detained a
-19-year-old. [@1,3] In a second action in colonia Colinas de la Fragua, in León, a
+19-year-old. [@1,3,4] In a second action in colonia Colinas de la Fragua, in León, a
 40-year-old man was detained with 1,010 doses of suspected marijuana in his
-possession. [@1,3]
+possession. [@1,3,4]
 
 During the check of the 19-year-old, police found 1,073 doses of suspected
-drugs, including marijuana, crystal, cocaine and base. [@1,3] The operations in
+drugs, including marijuana, crystal, cocaine and base. [@1,3,4] The operations in
 the municipalities of León and San Francisco del Rincón seized doses of
 suspected drugs including marijuana, crystal, cocaine and base. [@2] In the León
 operation officers also recovered a motorcycle with a current theft report. [@1,3]
 
 Both detainees and everything seized were placed at the disposal of the
-corresponding prosecutor's offices to continue the investigations. [@1,3]
+corresponding prosecutor's offices to continue the investigations. [@1,3,4]
