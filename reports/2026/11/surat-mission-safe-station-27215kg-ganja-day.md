@@ -49,22 +49,22 @@ sources:
     publisher: Divya Bhaskar
     date: 2026-11-15
     language: gu
-open_questions:
-    - No separate calendar date for either action was given; 15 November 2026 is the publication date and is used as the incident date.
-    - The platform ganja was valued at Rs 5,05,000 and the train ganja at Rs 8,55,750, with the platform seizure totalling Rs 5,05,500 with cash; no single exact combined total beyond more than Rs 13.60 lakh was stated, so no value is recorded in figures.
-    - No court outcome or detention measure was reported; investigation was continuing under the NDPS Act.
-    - No second independent account of the platform arrest was found after searching in English and Gujarati; the train seizure alone was covered separately.
+  - title: सूरत रेलवे स्टेशन पर 27 किलो से अधिक गांजा जब्त, दो अलग-अलग कार्रवाई में एक गिरफ्तार | Loktej सूरत News - Loktej
+    url: https://www.loktej.com/article/154447/more-than-27-kg-of-ganja-seized-at-surat-railway
+    publisher: Loktej
+    date: 2026-11-15
+    language: hi
 ---
 
 Surat railway police together with an SOG team carried out two separate
 anti-drug actions in a single day in Surat under the 'Mission Safe Station'
-drive. [@1,2] During the second action, officers caught one person on platform No.
-1 who was found carrying ganja with him. [@1] Railway SOG and the NDPS dedicated team were watching Surat railway station when they stopped a suspicious youth at about 5 p.m. on platform No. 1 near the speed parcel office on the way towards the bike parking. [@2] The person caught on platform No. 1 was identified as Budhiya alias Jati Swain, a 25-year-old resident of Ganjam district in Odisha. [@2]
+drive. [@1,2,4] During the second action, officers caught one person on platform No.
+1 who was found carrying ganja with him. [@1] Railway SOG and the NDPS dedicated team were watching Surat railway station when they stopped a suspicious youth at about 5 p.m. on platform No. 1 near the speed parcel office on the way towards the bike parking. [@2] The person caught on platform No. 1 was identified as Budhiya alias Jati Swain, a 25-year-old resident of Ganjam district in Odisha. [@2,4]
 
 Police said the two actions together yielded a total of 27.215 kilograms of
-ganja worth more than Rs 13.60 lakh. [@1,2,3] In the first incident, officers
+ganja worth more than Rs 13.60 lakh. [@1,2,3,4] In the first incident, officers
 recovered 17.115 kilograms of ganja in unclaimed condition from the
-Puri-Ahmedabad Express train. [@1,2,3] The train check was conducted by railway police and RPF staff after train number 12843 passed Vyara station. [@2] The report describes that unclaimed train
+Puri-Ahmedabad Express train. [@1,2,3,4] The train check was conducted by railway police and RPF staff after train number 12843 passed Vyara station. [@2,4] The report describes that unclaimed train
 stock as a consignment found lying under a train seat. [@1] The unclaimed train ganja was found in a brown trolley bag and a black backpack under seat number 57 of reservation coach B/6, and was valued at Rs 8,55,750. [@2] In the second
 incident, the person detained on platform No. 1 was found with about 10
 kilograms of ganja. [@1,3] The platform trolley bag held 10.100 kilograms of ganja valued at Rs 5,05,000, and with cash the total seizure was Rs 5,05,500. [@2]
