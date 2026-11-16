@@ -73,18 +73,23 @@ sources:
     publisher: TVP Kielce
     date: 2026-11-14
     language: pl
+  - title: Tymczasowy areszt za posiadanie narkotyków
+    url: https://www.tvswietokrzyska.pl/artykul/74248,tymczasowy-areszt-za-posiadanie-narkotykow
+    publisher: Telewizja Świętokrzyska
+    date: 2026-11-15
+    language: pl
 ---
 
 On 10 November 2026, officers from the criminal division of the Ostrowiec
-Świętokrzyski district police command detained a 35-year-old in the city. [@1,4]
+Świętokrzyski district police command detained a 35-year-old in the city. [@1,4,5]
 Searches found 20 grams of marijuana and more than 91 grams of amphetamine,
 which police seized during searches of the man and his residential premises.
-[@1,4] Police took him into custody and placed him in a police cell. [@1]
+[@1,4,5] Police took him into custody and placed him in a police cell. [@1]
 
 After investigators gathered evidence, the 35-year-old faced the prosecutor, and
-the court then remanded him in temporary custody for three months. [@1,4] The
+the court then remanded him in temporary custody for three months. [@1,4,5] The
 charge is possession of a significant quantity of narcotics, which carries a
-penalty of up to ten years' imprisonment. [@1,4]
+penalty of up to ten years' imprisonment. [@1,4,5]
 
 The 35-year-old was charged with possession of a significant quantity of
 narcotics, and the local outlet reported that the charge carries up to ten
