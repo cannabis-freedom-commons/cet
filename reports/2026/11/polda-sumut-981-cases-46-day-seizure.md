@@ -57,6 +57,11 @@ sources:
     publisher: LIDIK.ID
     date: 2026-11-16
     language: id
+  - title: 46 Hari Polda Sumut Bongkar 981 Kasus Narkoba, 1.311 Tersangka Ditangkap
+    url: https://www.suaraburuhnasional.com/2026/11/46-hari-polda-sumut-bongkar-981-kasus-narkoba-1-311-tersangka-ditangkap/
+    publisher: Suara Buruh Nasional
+    date: 2026-11-16
+    language: id
 open_questions:
   - The 30.34-ton total, the Rp3.36 trillion value and the 93,469,666 lives-saved estimate cover all drug types together, so only the separately stated 157 kg of cannabis is counted as cannabis seized.
   - The 172 kg of methamphetamine, 30,510 ecstasy pills and 23,868 milliliters of narcotics-containing liquid are excluded from cannabis figures.
@@ -65,19 +70,20 @@ open_questions:
   - No charges, court stage beyond investigation, or outcomes for the 1,311 suspects were reported.
   - 15 November 2026 is the end of the reported 1 October to 15 November enforcement period and is used as the incident date; the results were announced on 16 November 2026.
   - The account rests on a single Antara report of the police statement, with no second independent account found.
+  - It is unclear whether the 301 Operation Sarang Narkoba cases, 397 suspects and their seized amounts are included in the 981-case and 1,311-suspect totals or counted separately.
 ---
 
 North Sumatra police said they uncovered 981 drug cases involving 1,311 suspects
 and seized 30.34 tons of various drugs and 23,868 milliliters of
 narcotics-containing liquid over 46 days. [@1,2] Police said the enforcement
-operations ran from 1 October to 15 November 2026. [@1,2] North Sumatra police
+operations ran from 1 October to 15 November 2026. [@1,2,3] In 1,019 operations officers uncovered 301 cases and detained 397 suspects. [@3] Polda Sumut also intensified Operation Sarang Narkoba during the same period. [@3] North Sumatra police
 chief Inspector General Sonny Irawan announced the results on 16 November 2026
 at the North Sumatra police headquarters in Medan. [@1]
 
 From those operations, police seized 172 kilograms of methamphetamine, 157
 kilograms of cannabis, 150,012 cannabis plants, 30,510 ecstasy pills and 23,868
-milliliters of narcotics-containing liquid. [@1,2] Police also seized Rp1.2
-billion in cash and detained seven suspects alleged to be dealers. [@1] Police
+milliliters of narcotics-containing liquid. [@1,2,3] Those operations seized 84,685.11 grams of methamphetamine, 57,284.08 grams of cannabis, 14 cannabis plants, 321 ecstasy pills, 3,673 etomidate vapes and Rp645 million in cash. [@3] Police also seized Rp1.2
+billion in cash and detained seven suspects alleged to be dealers. [@1,3] Officers also dismantled and burned 119 barracks or huts used for drug abuse and distribution. [@3] Officers also took a rehabilitative approach to 535 people who tested positive for drugs on urine tests but were found carrying no drug evidence. [@3] Police
 said the seized evidence was estimated to have saved 93,469,666 lives and was
 valued at Rp3.36 trillion. [@1]
 
