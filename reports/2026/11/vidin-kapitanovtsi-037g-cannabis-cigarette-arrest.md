@@ -56,25 +56,26 @@ sources:
     publisher: Darik.bg
     date: 2026-11-16
     language: bg
-open_questions:
-    - The matter reacted to cannabis in a field test, with identification also by appearance and smell; no laboratory confirmation was reported.
-    - The youth was held for up to 24 hours; no charge sheet or court outcome was reported beyond the opening of a police file under article 354a.
-    - All four accounts, including this one, reproduce the same Vidin police statement and are not independent reporting.
+  - title: 18-годишен младеж от видинското село Капитановци е задържан в полицейския
+    url: https://novini247.com/novini/18-godishen-mladej-ot-vidinskoto-selo-kapitanovtsi-e-zadarjan-v-politseyskiya_11400898.html
+    publisher: Новини 24/7
+    date: 2026-11-16
+    language: bg
 ---
 
 The Vidin regional police directorate said an 18-year-old from the village of
 Kapitanovtsi was held in police custody for possession of a narcotic substance.
-[@2,4] The youth was held for up to 24 hours at the district police department in Vidin. [@4] Patrolling officers stopped the youth for a police check on 13 November at
+[@2,4,5] The youth was held for up to 24 hours at the district police department in Vidin. [@4,5] Patrolling officers stopped the youth for a police check on 13 November at
 about 15:00 in the regional city of Vidin. [@1,4] Officers seized a hand-rolled
-cigarette from him during that check in Vidin. [@1,4]
+cigarette from him during that check in Vidin. [@1,4,5]
 
 The cigarette contained 0.37 grams of green dry leafy matter, according to the
-police account. [@1,4] By its appearance and smell, the matter was initially
-described as resembling cannabis, with no laboratory confirmation reported. [@1] The seized matter reacted to cannabis in a field test as well as by its distinctive appearance and smell. [@4]
+police account. [@1,4,5] By its appearance and smell, the matter was initially
+described as resembling cannabis, with no laboratory confirmation reported. [@1] The seized matter reacted to cannabis in a field test as well as by its distinctive appearance and smell. [@4,5]
 A second account says patrolling police officers stopped the youth for a check
 in the regional city. [@2]
 
 A file on the case was opened at the Vidin district police department under
-article 354a of the Criminal Code, the provision covering drug offences. [@1,4] A
+article 354a of the Criminal Code, the provision covering drug offences. [@1,4,5] A
 third outlet repeated the same police account that the 18-year-old from
 Kapitanovtsi was held in police custody for possession of narcotics. [@3]
