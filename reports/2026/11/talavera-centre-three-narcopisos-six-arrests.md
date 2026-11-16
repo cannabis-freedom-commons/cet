@@ -93,6 +93,11 @@ sources:
     publisher: La Razón
     date: 2026-11-16
     language: es
+  - title: Desmantelan tres narcopisos en el centro de Talavera
+    url: https://www.latribunadetalavera.es/noticia/zc937f1cb-1606-4091-882b438440b32f2b/202611/desmantelan-tres-narcopisos-en-el-centro-de-talavera
+    publisher: La Tribuna de Talavera
+    date: 2026-11-16
+    language: es
 open_questions:
     - No separate date for the searches or arrests was published; 16 November 2026 is the publication date and stands in for the incident date.
     - The 60 grams of cocaine seized in the same searches is excluded from the cannabis figures.
@@ -105,13 +110,13 @@ open_questions:
 National Police officers in Talavera de la Reina arrested six people as alleged
 perpetrators of drug trafficking and receiving stolen goods, accusing them of
 running three drug flats in the city centre from which they distributed
-narcotics. [@1,4,5] The six detainees, four men and two women, were placed at the
+narcotics. [@1,4,5,6] The six detainees, four men and two women, were placed at the
 disposal of the courts as alleged perpetrators of drug trafficking and receiving
-stolen goods. [@3,5]
+stolen goods. [@3,5,6]
 
 Searches of the three homes yielded 60 grams of cocaine, 91 grams of hashish,
 330 grams of marijuana, six precision scales, 19,177 euros, numerous medicines
-used to adulterate drugs and many stolen items. [@1,4,5] Among the stolen items
+used to adulterate drugs and many stolen items. [@1,4,5,6] Among the stolen items
 recovered were a 3D printer and a drone valued at more than 700 euros, alongside
 the 19,177 euros in cash. [@2,4,5]
 
