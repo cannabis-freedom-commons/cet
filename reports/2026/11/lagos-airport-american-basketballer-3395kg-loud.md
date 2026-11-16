@@ -303,6 +303,11 @@ sources:
     url: https://www.talkbasket.net/228450-damonte-khiree-greene-arrested-with-75-pound-cannabis-stash
     publisher: TalkBasket.net
     date: 2026-11-16
+  - title: Detenido en Nigeria un jugador estadounidense de baloncesto con 34 kilos de cannabis - Infobae
+    url: https://www.infobae.com/espana/agencias/2026/11/16/detenido-en-nigeria-un-jugador-estadounidense-de-baloncesto-con-34-kilos-de-cannabis/
+    publisher: Infobae
+    date: 2026-11-16
+    language: es
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cj93rggenq4xo
@@ -324,26 +329,29 @@ media:
     media_url: https://www.israelhayom.co.il/wp-content/uploads/2026/11/16/WhatsApp_Image_2026-11-16_at_113302-960x640.jpeg
     publisher: Israel Hayom
     caption: 'Greene Da''monte Khiree in NDLEA handout photo published with the Israel Hayom account. Photo: NDLEA'
+open_questions:
+  - The same article reports a separate seizure of 25.05 kilos of methamphetamine hidden in cereal packs from South Africa at Lagos airport on the same day; that is a different event left out here.
+  - No court outcome, detention measure or plea beyond the arrest was reported in this account.
 ---
 
 NDLEA operatives at Murtala Muhammed International Airport in Lagos intercepted
 28-year-old American citizen Greene Da’monte Khiree on Wednesday 11 November
 2026 after he arrived aboard an Emirates Airline flight from Thailand via Dubai.
-[@1,3,4,5,6,7,9,10,11,12,13,14,16,20,21,22,23,24,28,29,31,32,33,34,35,39,40,41,47,49,50,51,52,53,54,55,57,58,59,61,62,63] The suspect had been placed under discreet surveillance on credible
+[@1,3,4,5,6,7,9,10,11,12,13,14,16,20,21,22,23,24,28,29,31,32,33,34,35,39,40,41,47,49,50,51,52,53,54,55,57,58,59,61,62,63,64] The suspect had been placed under discreet surveillance on credible
 intelligence and was observed abandoning his two checked-in bags to leave the
-airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56,57,58,61,62,63] He was promptly apprehended at the
-airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49,57,63] A second account confirms NDLEA arrested the American
+airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56,57,58,61,62,63,64] He was promptly apprehended at the
+airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49,57,63,64] A second account confirms NDLEA arrested the American
 professional basketball player after discovering 32 parcels of Loud in his
 luggage at the same Lagos airport. [@2,9,25,29,48,50,53]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
-33.95 kilograms. [@1,3,6,7,10,12,13,14,16,17,18,20,21,22,23,26,28,30,31,33,35,36,38,39,40,41,42,43,46,47,49,50,51,52,54,55,56,57,58,59,61,62,63] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23,26,30,31,32,33,35,37,38,40,41,43,45,46,47,50,51,52,53,54,55,57,58,60,61,62,63]
-The agency describes Loud as a potent strain of cannabis. [@1,3,5,23,25,27,28,29,34,35,37,43,45,46,50,53,58,59,60,61]
+33.95 kilograms. [@1,3,6,7,10,12,13,14,16,17,18,20,21,22,23,26,28,30,31,33,35,36,38,39,40,41,42,43,46,47,49,50,51,52,54,55,56,57,58,59,61,62,63,64] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23,26,30,31,32,33,35,37,38,40,41,43,45,46,47,50,51,52,53,54,55,57,58,60,61,62,63]
+The agency describes Loud as a potent strain of cannabis. [@1,3,5,23,25,27,28,29,34,35,37,43,45,46,50,53,58,59,60,61,64]
 
 The suspect, a native of Savannah, Georgia, said he had lived in Thailand since
 October 2025 playing professional basketball and came to Nigeria on holiday to
-build networks for his basketball career. [@1,4,6,7,11,12,13,17,18,19,20,22,23,27,28,29,30,33,38,39,41,42,48,49,50,58,59,61,62] According to his BoldPro account, Khiree, a shooting guard, graduated from South Georgia Technical College, played semi-professional basketball with the Georgia Bombers, moved to El Salvador in 2025 for a pro contract with Escalon BC, and headed to Thailand shortly afterwards. [@10] FIBA lists a player by the name DaMonte Greene, a point guard, one of whose recent appearances was at the Phuket Elite Cup in September. [@5,8,21,24,29,36,44,50,55,59] His most recent recorded appearance was on 26 September at the Phuket Elite Cup tournament in Thailand. [@53,54] A forensic examination of his
+build networks for his basketball career. [@1,4,6,7,11,12,13,17,18,19,20,22,23,27,28,29,30,33,38,39,41,42,48,49,50,58,59,61,62,64] According to his BoldPro account, Khiree, a shooting guard, graduated from South Georgia Technical College, played semi-professional basketball with the Georgia Bombers, moved to El Salvador in 2025 for a pro contract with Escalon BC, and headed to Thailand shortly afterwards. [@10] FIBA lists a player by the name DaMonte Greene, a point guard, one of whose recent appearances was at the Phuket Elite Cup in September. [@5,8,21,24,29,36,44,50,55,59] His most recent recorded appearance was on 26 September at the Phuket Elite Cup tournament in Thailand. [@53,54] A forensic examination of his
 mobile phone revealed information pointing to his knowledge of and involvement
-in the drug trafficking activity. [@1,3,4,5,7,8,11,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,36,37,38,39,40,41,43,44,45,46,47,49,50,51,52,53,54,55,56,57,58,61,62] The account was disclosed in a Sunday
+in the drug trafficking activity. [@1,3,4,5,7,8,11,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,36,37,38,39,40,41,43,44,45,46,47,49,50,51,52,53,54,55,56,57,58,61,62,64] The account was disclosed in a Sunday
 statement by NDLEA Director of Media and Advocacy Femi Babafemi. [@1,3,7,12,22,50]
