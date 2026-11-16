@@ -1,7 +1,7 @@
 ---
 code: 8X2AXM
 added_at: "2026-11-08T01:12:33.894023Z"
-date: 2026-06-08
+date: 2026-07-12
 country: do
 place: Peravia and San José de Ocoa provinces, Dominican Republic
 coordinates: [18.41, -70.42]
@@ -12,8 +12,9 @@ title: 4,835 cannabis plants seized in south, Feb-June 2026
 summary: >-
   The DNCD eradicated at least 4,835 marijuana plants in Peravia and San José de Ocoa between February and June 2026, including more than 3,000 at a farm in El Pinar. Three people were arrested at the El Pinar site, where officers also seized processing equipment and stored marijuana.
 figures:
-  arrested: 3
-  plants_destroyed: 4835
+    arrested: 3
+    plants_destroyed: 4835
+    released: 3
 details:
   agencies: [National Directorate for Drug Control (DNCD), Public Ministry, Dominican Republic Air Force]
   agency_types: [anti-narcotics, prosecutor, military]
@@ -26,15 +27,16 @@ details:
   case_stage: investigation
   date_precision: exact
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.environment: [1]
-  details.products: [1, 2]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.plants_destroyed: [2]
+    details.activity: [1]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [1]
+    details.environment: [1]
+    details.products: [1, 2]
+    details.setting: [1]
+    figures.arrested: [5]
+    figures.plants_destroyed: [2]
+    figures.released: [5]
 media:
   - kind: photo
     url: https://www.infobae.com/republica-dominicana/2026/06/09/republica-dominicana-incauto-y-destruyo-mas-de-4800-plantas-de-marihuana-en-los-primeros-meses-del-ano/
@@ -76,13 +78,24 @@ sources:
     publisher: Acento
     date: 2026-06-08
     language: es
+  - title: Liberan a tres hombres señalados en la plantación de marihuana en Ocoa - Diario Libre
+    url: https://www.diariolibre.com/actualidad/justicia/2026/07/12/liberan-a-tres-hombres-senalados-en-la-plantacion-de-marihuana-en-ocoa/3597283
+    publisher: Diario Libre
+    date: 2026-07-12
+    language: es
+open_questions:
+    - No separate date is given for the coercion hearing; 12 July 2026 is the publication date of the release account and stands in for the court step.
+    - It is unclear whether the outright release ends the proceedings or the investigation continues against the unidentified lessees and true owners.
+    - The identities of the third-party lessees of the El Pinar plot have not been publicly established.
+    - No weight was published for the five jugs of processed marijuana or the other seized equipment.
+    - The 15,437 plants reported in under a month across different mountain interventions reflect separate operations and are not counted here.
 ---
 
 Dominican drug agents arrested two Haitian citizens and one Dominican during a
-raid on a farm in the El Pinar municipal district of San José de Ocoa. [@1,4] The
+raid on a farm in the El Pinar municipal district of San José de Ocoa. [@1,4,5] The
 detainees remained under judicial custody in San José de Ocoa while
 investigators searched for other members of the alleged cultivation and
-trafficking network. [@1,4] The DNCD later said the three people arrested in that first El Pinar case were under preventive detention. [@3] The National Directorate for Drug Control carried out
+trafficking network. [@1,4] The DNCD later said the three people arrested in that first El Pinar case were under preventive detention. [@3] The three were identified as Guillermo Amauris Casado Custodio, Jhonson Pie and Yorki Iso, who had been submitted for alleged violations of Law 50-88 on Drugs and Controlled Substances. [@5] The court rejected the Public Ministry's request for coercive measures after finding that the authorities' procedure violated constitutional guarantees. [@5] The Permanent Attention court in San José de Ocoa ordered the outright release of the one Dominican and two Haitians detained in the El Pinar case. [@5] The National Directorate for Drug Control carried out
 the El Pinar intervention with the Public Ministry, the Dominican Air Force and
 state intelligence agencies after intelligence reports identified the farm as an
 illegal growing site. [@1,4] Officers carried out both an aerial and a ground intervention at the farm. [@4] Diario Libre dated that intervention to the night of
@@ -93,7 +106,7 @@ the southern provinces of Peravia and San José de Ocoa during 2026. [@2] The
 earlier of the two operations found 1,835 plants in a hard-to-reach mountain
 area of Montería, Baní municipality, in February. [@2] The later El Pinar
 operation found more than 3,000 plants in different germination stages, plus
-five jugs filled with harvested marijuana. [@1,4] Agents also found a house fitted
+five jugs filled with harvested marijuana. [@1,4,5] Agents also found a house fitted
 out as a collection centre for storing, drying and packing marijuana. [@1,4]
 Inside they seized fans, a fumigation pump, cutters, solar panels, a voltage
 regulator, a motor pump, dryers, vacuum-packing bags, a communication radio, a
