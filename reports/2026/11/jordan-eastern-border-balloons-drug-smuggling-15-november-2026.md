@@ -40,23 +40,22 @@ sources:
     publisher: جفرا نيوز
     date: 2026-11-15
     language: ar
-open_questions:
-    - The army statement names only generic narcotics and does not say whether any of the cargo was cannabis.
-    - No weight, number of balloons or value estimate was published.
-    - No arrests, detentions or suspects were reported.
-    - Hawar headlines the attempt as coming from Syria, but the quoted army statement names no country of origin and no exact border location was given.
-    - All accounts, including Hawar, repeat the same army statement.
+  - title: الجيش يحبط تهريب كمية كبيرة من المخدرات إلى الأردن بواسطة بالونات موجّهة - سواليف
+    url: https://sawaleif.com/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AD%D8%A8%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%83%D9%85%D9%8A%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7-2-1122831/
+    publisher: سواليف
+    date: 2026-11-15
+    language: ar
 ---
 
 Jordan's Eastern Military Zone foiled an attempt at dawn on Sunday 15 November
 2026 to smuggle a large quantity of narcotics by guided balloons after spotting
-them heading toward Jordanian territory. [@1,2,3,4,5] Hawar describes the attempt as coming from Syria. [@4] Border Guard units acting within
+them heading toward Jordanian territory. [@1,2,3,4,5,6] Hawar describes the attempt as coming from Syria. [@4] Border Guard units acting within
 their area of responsibility engaged the balloons, brought them down inside
-Jordanian territory and seized the drugs they were carrying. [@1,2,3,4,5]
+Jordanian territory and seized the drugs they were carrying. [@1,2,3,4,5,6]
 
 The operation was carried out in coordination with the security and military
-agencies and the Anti-Narcotics Department. [@1,2,3,4,5] The seized material was handed
-over to the competent authorities for legal action. [@1,2,3,4,5]
+agencies and the Anti-Narcotics Department. [@1,2,3,4,5,6] The seized material was handed
+over to the competent authorities for legal action. [@1,2,3,4,5,6]
 
 The Jordan Armed Forces-Arab Army said it would continue performing its national
 duty with efficiency and firmly confront infiltration and smuggling attempts by
