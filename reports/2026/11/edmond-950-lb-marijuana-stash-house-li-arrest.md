@@ -58,27 +58,31 @@ sources:
     url: https://kfor.com/news/around-the-block-richard-glossip-900lbs-of-marijuana-and-christmas-festivities-starting-around-the-metro/amp/
     publisher: KFOR.com Oklahoma City
     date: 2026-11-13
+  - title: Edmond Police Find 950 Pounds of Marijuana in Stash House
+    url: https://hoodline.com/2026/11/edmond-traffic-stop-unravels-alleged-950-pound-marijuana-stash-house/
+    publisher: Hoodline
+    date: 2026-11-14
 ---
 
 Edmond police investigated suspicious drug activity in the area, which led them
 to a home that was acting as a stash house for a drug operation. [@1,3,4] The Edmond house where the marijuana was found was a rental property. [@4] The
 investigation led them to a home in a newly developed community near Danforth
-and Kelly. [@1,3] Documents say the car was known for alleged drug trafficking and made short-term visits to the residence. [@3]
+and Kelly. [@1,3,5] Documents say the car was known for alleged drug trafficking and made short-term visits to the residence. [@3]
 
 In late October, Edmond police pulled the suspect's car over on Danforth for
 allegedly illegally crossing multiple marked lanes. [@1,3] Police arrested
 38-year-old Qiu Li, who was behind the wheel, after a K-9 alerted on his car and
-an officer smelled marijuana. [@1,3] Police found rolls of packing tape and used
+an officer smelled marijuana. [@1,3,5] Police found rolls of packing tape and used
 dryer sheets inside the car. [@1,3] Acting on a search warrant, detectives
 recovered over 900 pounds of marijuana inside the house. [@1,2,3] Detectives found a
 significant amount of black trash bags filled with marijuana, mostly in
-heat-sealed plastic containers. [@1,3,4] Detectives also found heat-sealing machines, tape and clear packing bags. [@3] The house had no food and the only
+heat-sealed plastic containers. [@1,3,4,5] Detectives also found heat-sealing machines, tape and clear packing bags. [@3,5] The house had no food and the only
 furniture was an inflatable mattress in a bedroom. [@1,3] Neighbors told KFOR off camera they did not know whether anyone was living there. [@3] In total, the
-confiscated marijuana weighed roughly 950 pounds, about 431 kilograms. [@1,3]
+confiscated marijuana weighed roughly 950 pounds, about 431 kilograms. [@1,3,5]
 
 A new search warrant uncovered financial documents at the suspect's actual home
 showing large amounts in a bank account. [@1,3] The account is tied to a company Li allegedly works at, and court documents say he told police he works at Claw Machine. [@3] Investigators believe the business
 is an illegal front to launder drug money through the bank account to other
-financial institutions. [@1,3] Court documents say investigators are now looking into whether possible financial crimes were committed too. [@3] Li was booked into the Oklahoma County Jail but has
-since bonded out. [@1,3] Edmond Police have submitted charges to the Oklahoma
-County District Attorney's Office. [@1,3]
+financial institutions. [@1,3,5] Court documents say investigators are now looking into whether possible financial crimes were committed too. [@3] Li was booked into the Oklahoma County Jail but has
+since bonded out. [@1,3,5] Edmond Police have submitted charges to the Oklahoma
+County District Attorney's Office. [@1,3,5]
