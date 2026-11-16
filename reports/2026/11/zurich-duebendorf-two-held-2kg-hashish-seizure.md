@@ -76,19 +76,26 @@ sources:
     publisher: Nau
     date: 2026-11-15
     language: de
+  - title: 'Dübendorf: Polizei findet Drogen und Sturmgewehr – zwei Festnahmen - 20 Minuten'
+    url: https://www.20min.ch/story/duebendorf-zh-12-kg-drogen-60-000-franken-und-sturmgewehr-mann-verhaftet-103668043
+    publisher: 20 Minuten
+    date: 2026-11-15
+    language: de
+open_questions:
+  - The weekday of the evening vehicle check in Zurich-Leimbach differs between accounts.
 ---
 
 Zurich cantonal police arrested a man in Zurich and a woman in Dübendorf on the
 evening of Thursday 12 November 2026. [@2,5] Investigators stopped a car in
 Zurich-Leimbach shortly before 19:00 and arrested the 34-year-old German driver
-after finding a larger quantity of cocaine. [@1,3,4,6] Officers then searched the
-man's flat in Dübendorf and arrested his 44-year-old German flatmate there. [@1,3,4]
+after finding a larger quantity of cocaine. [@1,3,4,6,7] Officers then searched the
+man's flat in Dübendorf and arrested his 44-year-old German flatmate there. [@1,3,4,7]
 
 In the premises police seized just under nine kilograms of cocaine, just over
 two kilograms of hashish and just under one kilogram of 2C-B, plus small
-quantities of other drugs. [@1,3,4,5,6] Officers also seized about 60,000 francs in
+quantities of other drugs. [@1,3,4,5,6,7] Officers also seized about 60,000 francs in
 cash, an assault rifle with live ammunition, a blank-firing pistol and an air
-pistol. [@2,3,4,5]
+pistol. [@2,3,4,5,7]
 
 Police handed both detainees to the Zurich cantonal prosecution on suspicion of
-drug trafficking, and the prosecution applied for pre-trial detention. [@2,3,5,6]
+drug trafficking, and the prosecution applied for pre-trial detention. [@2,3,5,6,7]
