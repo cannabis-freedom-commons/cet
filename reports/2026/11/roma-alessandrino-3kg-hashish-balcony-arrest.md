@@ -59,6 +59,16 @@ sources:
     publisher: Abitare A Roma
     date: 2026-11-12
     language: it
+  - title: 'A Torre Maura arrestato un trentenne: nello zaino lanciato tre chili di hashish'
+    url: https://www.ilfaroonline.it/2026/11/15/a-torre-maura-arrestato-un-trentenne-nello-zaino-lanciato-tre-chili-di-hashish/658868/
+    publisher: IlFaroOnline
+    date: 2026-11-15
+    language: it
+  - title: 'Torre Maura, lancia dalla finestra uno zaino con tre chili di hashish: scoperta una base di spaccio'
+    url: https://roma.repubblica.it/cronaca/2026/11/15/news/torre_maura_lancia_finestra_zaino_30_chili_hashish_cane_nelly_commissariato_frascati-425724560
+    publisher: la Repubblica
+    date: 2026-11-15
+    language: it
 open_questions:
   - The sources give no separate date for the operation; 12 November 2026, the publication date of the police statement, is used as the incident date.
   - The hashish is described only as more than three kilograms, with no exact weight and no laboratory confirmation reported.
@@ -67,11 +77,13 @@ open_questions:
   - No court date or further prosecution step was reported; the case was still at the preliminary investigation stage.
   - All three accounts reproduce the same Rome police headquarters press release.
   - Outlets published only a Polizia K9 file photo, with no picture of the hashish or balcony throw, so no photo of this seizure is listed.
+  - The new account locates the flat at Torre Maura while the report places it in the Alessandrino district; both describe the same eighth-floor base in the Alessandrino quadrant.
+  - The new account says about three kilograms of hashish while the report records more than three kilograms from the police statement.
 ---
 
 A 30-year-old man from Rome was arrested in the Alessandrino district after he
 threw a backpack containing more than 3 kilograms of hashish from his balcony to
-keep the drug from a house search. [@1] Investigators from the V Distretto
+keep the drug from a house search. [@1,4] Investigators from the V Distretto
 Prenestino and the Frascati police station had been watching the flat and the
 man's movements for some time and had cordoned off the area before forcing
 entry. [@1] The flat was used as a storage base on the eighth floor of a
@@ -86,14 +98,13 @@ officers asked him to open the door, the man threw the backpack onto the street
 below and later reacted violently to the officers who, after a long negotiation,
 got into the flat. [@1] Officers who were watching the building from outside
 recovered the backpack, which held more than three kilograms of hashish, a
-precision scale, packaging material and a vacuum-sealing machine. [@1] Further
+precision scale, packaging material and a vacuum-sealing machine. [@1,5] Further
 doses of the same drug were found in the living room together with knives
-believed to have been used to cut and prepare the quantity for retail sale. [@1]
+believed to have been used to cut and prepare the quantity for retail sale. [@1,4]
 A mobile phone thrown onto the adjoining balcony before the raid was seized and
-is under further examination. [@1]
+is under further examination. [@1,4]
 
 After the arrest was validated, the judicial authority ordered house arrest with
 an electronic bracelet. [@1] The police note that the findings belong to the
 preliminary investigation stage and that the suspect is presumed innocent until
 a final judgment. [@2]
-
