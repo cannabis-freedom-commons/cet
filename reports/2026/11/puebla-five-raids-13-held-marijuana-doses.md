@@ -65,11 +65,16 @@ sources:
     publisher: Mediatik
     date: 2026-11-15
     language: es
+  - title: Tres cateos en San Ramón dejan 13 detenidos y 136 dosis aseguradas | Puntual
+    url: https://diariopuntual.com/estado/2026/11/15/12954/tres-cateos-en-san-ramon-dejan-cinco-detenidos-y-136-dosis-aseguradas
+    publisher: Puntual
+    date: 2026-11-15
+    language: es
 ---
 
 Puebla state prosecutors (Fiscalía General del Estado, FGE) carried out five
 searches in colonias, or neighbourhoods, in the capital Puebla and detained 13
-people. [@1,2,3,4,5] The searches ran from 9 to 12 November 2026 in coordination with
+people. [@1,2,3,4,5,6] The searches ran from 9 to 12 November 2026 in coordination with
 the Secretariat of National Defence, the National Guard and the Puebla state
 police, as part of anti-narcomenudeo actions, or small-scale street-level
 dealing. [@1,2,3,5]
@@ -82,16 +87,16 @@ crystal-like substance and 10 wrappers of possible piedra, or crack cocaine.
 Evelyn N., Kevin Kristof N. and Rosa Isela N. [@1,5] In Noche Buena officers
 seized three wraps of presumed marijuana, alongside 33 bags of possible crystal,
 a scale and a firearm-like object. [@1] In Jardines de San Ramón officers
-detained two women, Sarai N. and Martha N. [@1] In Jardines de San Ramón
+detained two women, Sarai N. and Martha N. [@1,6] In Jardines de San Ramón
 officers seized 20 bags of herb similar to marijuana, alongside 41 wrappers of
-possible crystal and a firearm-like object. [@1] In Ampliación Cuarta de San
+possible crystal and a firearm-like object. [@1,6] In Ampliación Cuarta de San
 Ramón officers seized 30 bags of granular crystal-like substance and a scale,
 and the property was secured. [@1] In San Ramón officers detained three people,
-José Antonio N., José Manuel N. and Andrea N. [@1]
+José Antonio N., José Manuel N. and Andrea N. [@1,6]
 
 The FGE reported 34 wrappers with possible marijuana across the five searches.
-[@1,2,3,4,5] The FGE also reported 227 wrappers of crystal-like substance, which are not
+[@1,2,3,4,5,6] The FGE also reported 227 wrappers of crystal-like substance, which are not
 counted as cannabis. [@1,2] The FGE also reported 17 wrappers of possible piedra,
 which are not counted as cannabis. [@1,2] Officers also seized five scales, two firearm-like objects, 11 ballistic items and 910 pesos in cash. [@2] Five properties were secured for
 investigation. [@1,2] All 13 detained people were placed at the disposal of the
-Public Ministry, which will determine their legal situation. [@1,2,3,4]
+Public Ministry, which will determine their legal situation. [@1,2,3,4,6]
