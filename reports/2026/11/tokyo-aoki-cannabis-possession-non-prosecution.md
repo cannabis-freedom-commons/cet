@@ -51,24 +51,24 @@ sources:
     publisher: テレ朝NEWS
     date: 2026-11-16
     language: ja
-open_questions:
-    - No weight was published for the dried cannabis beyond describing it as a small amount.
-    - It is unclear whether Aoki was ever detained, since the reports describe only a papers-only referral.
-    - 16 November 2026 is the date of the non-prosecution decision and is used as the incident date; the alleged possession occurred on 6 August 2026.
-    - The non-prosecution decision is corroborated by TBS and TV Asahi accounts, while the referral details come from Nikkan Sports accounts of the same police announcement.
+  - title: スケボー日本代表を不起訴＝大麻所持容疑―東京地検 | 時事通信ニュース
+    url: https://sp.m.jiji.com/article/show/3912801
+    publisher: 時事通信ニュース
+    date: 2026-11-16
+    language: ja
 ---
 
 Yukito Aoki, aged 23, represented Japan in men's street skateboarding at the
 Tokyo Olympics and is the skateboarder who was referred to prosecutors in this
 cannabis possession case. [@2,3] The Tokyo Metropolitan Police sent his case to
 prosecutors on suspicion that he had possessed cannabis in violation of the
-Narcotics Control Law. [@1] The Tokyo District Public Prosecutors Office closed
+Narcotics Control Law. [@1,4] The Tokyo District Public Prosecutors Office closed
 the matter by deciding not to prosecute him, with the decision dated 16 November
-2026. [@1,3] The prosecutors said the reason for the decision was consideration of various circumstances. [@3]
+2026. [@1,3,4] The prosecutors said the reason for the decision was consideration of various circumstances. [@3]
 
 The underlying allegation was that Aoki possessed a small amount of dried
 cannabis on 6 August inside the JR Shin-Kiba Station premises in Koto Ward,
-Tokyo. [@2] Patrolling police officers discovered the cannabis when they stopped
+Tokyo. [@2,4] Patrolling police officers discovered the cannabis when they stopped
 him for questioning inside the station premises, after which he admitted that he
 had possessed it. [@2]
 
