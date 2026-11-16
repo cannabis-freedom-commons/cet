@@ -61,19 +61,24 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-15
     language: ar
+  - title: ضبط تاجر مخدرات روّج للحشيش عبر مواقع التواصل بالقليوبية - بوابة مولانا
+    url: https://mwlana.com/details/297837/
+    publisher: بوابة مولانا
+    date: 2026-11-15
+    language: ar
 ---
 
 Egypt's General Administration for Combating Information Technology Crimes,
 together with the Public Security Sector, spotted a person running a
-social-media page promoting drugs for sale. [@1,5] A second account says security
+social-media page promoting drugs for sale. [@1,5,6] A second account says security
 forces in Qalyubia arrested the person for running the page to sell drugs for
 money. [@2] Officers identified the page administrator as a resident of the
-El-Khusus police district in Qalyubia Governorate and arrested him. [@3,4,5]
+El-Khusus police district in Qalyubia Governorate and arrested him. [@3,4,5,6]
 
 Officers seized a quantity of hashish found with him along with a mobile phone.
-[@1,4,5] Examination of the phone showed material confirming his criminal activity
+[@1,4,5,6] Examination of the phone showed material confirming his criminal activity
 and his use of it to run the page and promote drugs. [@3] When confronted, he
 confessed to creating and running the page and using it to promote the seized
-drugs for sale. [@1,4,5]
+drugs for sale. [@1,4,5,6]
 
 Authorities said the legal measures required over the incident were taken. [@1,5]
