@@ -61,6 +61,11 @@ media:
     media_url: https://cdn.correodelsur.com/img/contents/images_980/2026/11/15/e33965d9-f782-47c9-b20e-8c17cbbf2708.jpg
     publisher: Correo del Sur
     caption: 'Marijuana being incinerated in Potosí during the FELCN operation. Photo: FELCN'
+  - kind: photo
+    url: https://eju.tv/2026/11/felcn-interviene-15-viveros-de-plantaciones-y-destruye-siete-toneladas-de-marihuana-en-potosi/
+    media_url: https://abi.bo/wp-content/uploads/2026/11/FELCN-5-e1794760884750.jpg
+    publisher: eju.tv
+    caption: 'Anti-drug officers destroying the marijuana plantations during the Potosí operation. Photo: FELCN.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: df3271eb0acf205991820447676b3cda
@@ -111,12 +116,17 @@ sources:
     publisher: EL DEBER
     date: 2026-11-16
     language: es
+  - title: FELCN interviene 15 viveros de plantaciones y destruye siete toneladas de marihuana en Potosí – eju.tv
+    url: https://eju.tv/2026/11/felcn-interviene-15-viveros-de-plantaciones-y-destruye-siete-toneladas-de-marihuana-en-potosi/
+    publisher: eju.tv
+    date: 2026-11-15
+    language: es
 ---
 
 FELCN officers destroyed and incinerated seven tons of natural-state marijuana
 after intervening in 15 nursery sites in Machacamarca, in the municipality of
-Chayanta, Rafael Bustillo province, Potosí. [@1,5,6,7,8] The operation was carried out
-under the order called Escudo Verde. [@1,5,7,8,9] The intervention targeted facilities
+Chayanta, Rafael Bustillo province, Potosí. [@1,5,6,7,8,10] The operation was carried out
+under the order called Escudo Verde. [@1,5,7,8,9,10] The intervention targeted facilities
 used to grow marijuana. [@1,9] The anti-drug operation took place in the community
 of Machacamarca under the jurisdiction of the municipality of Chayanta. [@3,5,6,8] The
 order contemplated control actions in spaces used for planting marijuana,
@@ -126,7 +136,7 @@ incineration, and the plants reached two metres in height. [@2]
 Anti-drug agents identified the 15 spaces as sites for the illegal cultivation
 of a controlled substance, as reported by the Bolivian Information Agency. [@4]
 Police estimated that the operation caused economic damage of 1,053,000,000 US
-dollars to drug-trafficking activities. [@1,5,7,8] FELCN described the operation as a
+dollars to drug-trafficking activities. [@1,5,7,8,10] FELCN described the operation as a
 blow to marijuana production in Potosí. [@1] FELCN said it will keep carrying
 out interdiction operations against the production and trafficking of controlled
 substances. [@1,7,8] FELCN communicated that it will continue this kind of
