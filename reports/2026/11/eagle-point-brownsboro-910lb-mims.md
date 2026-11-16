@@ -80,14 +80,18 @@ sources:
     url: https://cbs12.com/news/nation-world/van-full-of-pot-troopers-arrest-oregon-man-after-finding-nearly-1000-pounds-of-weed
     publisher: WPEC
     date: 2026-11-13
+  - title: 'Van full of pot: Troopers arrest Oregon man after finding nearly 1000 pounds of weed'
+    url: https://fox4beaumont.com/news/nation-world/van-full-of-pot-troopers-arrest-oregon-man-after-finding-nearly-1000-pounds-of-weed
+    publisher: Fox 4 Beaumont
+    date: 2026-11-13
 ---
 
 Oregon State Police stopped a cargo van on Brownsboro Highway on Friday 6
 November 2026. [@1,4,5,7,8,9] The driver was cooperative and provided a manifest saying
 the cargo he picked up was from 1635 Brownsboro Highway and was being delivered
-to a Brooklyn, New York address. [@1,3,4,9] He confirmed he had picked up about 700
+to a Brooklyn, New York address. [@1,3,4,9,10] He confirmed he had picked up about 700
 pounds of hemp products from a man named Sunny, later identified as 38-year-old
-Saibya Walter Mims. [@1,4] The driver provided a manifest saying the cargo he picked up was from 1635 Brownsboro Highway and was being delivered to a Brooklyn, New York address. [@6] An Eagle Point man was arrested on several charges
+Saibya Walter Mims. [@1,4,10] The driver provided a manifest saying the cargo he picked up was from 1635 Brownsboro Highway and was being delivered to a Brooklyn, New York address. [@6] An Eagle Point man was arrested on several charges
 after troopers found the marijuana in the van. [@1,4]
 
 The driver consented to a search of the van, and troopers reported an
@@ -101,10 +105,10 @@ levels of nearly 19 percent, which made the load illegal to ship out of state.
 
 Police served a search warrant at Mims's property and business, Ganesh
 Management Group, and found thousands of pounds of marijuana in various forms of
-processing. [@1,4,5,8] Mims was arraigned on Thursday on two counts of unlawful
+processing. [@1,4,5,8,10] Mims was arraigned on Thursday on two counts of unlawful
 possession of marijuana, two counts of unlawful delivery of marijuana, two
 counts of unlawful import or export of marijuana and one count of unlawful
 manufacture of marijuana, all felonies. [@1,4,5,7,8,9] Court records showed he was
-released from custody with a future court date of 10 December. [@1,4,5] The judge
+released from custody with a future court date of 10 December. [@1,4,5,10] The judge
 ordered him to undergo pretrial monitoring and to stay away from alcohol,
 non-prescribed controlled substances or cannabis. [@1,4]
