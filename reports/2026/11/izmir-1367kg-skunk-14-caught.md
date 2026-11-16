@@ -154,6 +154,11 @@ sources:
     publisher: Hürriyet
     date: 2026-11-14
     language: tr
+  - title: 'Zehir tacirlerine baskın: 1 ton skunk ele geçirildi - İzmir Haberleri'
+    url: https://www.yeniasir.com.tr/izmir/2026/11/16/zehir-tacirlerine-baskin-1-ton-skunk-ele-gecirildi
+    publisher: Yeni Asır
+    date: 2026-11-16
+    language: tr
 open_questions:
     - Wayback redirected several secondary outlets (Haber Ege, Demokrat Gündem, Ege Alternatif) to unrelated pages, so those sources have no usable archived copy.
     - The reports give no separate date for the follow-up detentions; 13 November 2026 is the publication date and is used as the incident date.
@@ -164,6 +169,7 @@ open_questions:
     - The new accounts give 2,120 grams of pregabalin, above the 1,728 grams reported in the earlier DHA account; the cannabis total is unchanged.
     - No separate date for the court decision was stated; 14 November 2026 from the DHA timestamp is used as the incident date, with Son Kale Izmir publishing on 15 November.
     - The text gives a weight ("1,367.5 kg") but the figures have no kg_seized; check whether it belongs there.
+    - The new account calls the 57,000 pills sentetik ecza while the report calls them ecstasy pills; the wording difference is left as stated.
 ---
 
 Police in İzmir seized more than a tonne of skunk esrar, a herbal cannabis
@@ -171,11 +177,11 @@ preparation, in operations against drug trafficking. [@1,3,6,9,10] The İzmir ch
 prosecutor's office, the Cumhuriyet Başsavcılığı, coordinated the work. [@1,3,4,5,6,9,14,16] The
 narcotics crimes branch of the provincial police directorate, the Narkotik
 Suçlarla Mücadele Şube Müdürlüğü, carried out the surveillance and the seizures.
-[@1,4,5,9,14] The operation was carried out on 10-12 November across Karşıyaka, Çiğli, Konak, Buca and Menderes districts and Muğla after technical and physical surveillance. [@19]
+[@1,4,5,9,14] The operation was carried out on 10-12 November across Karşıyaka, Çiğli, Konak, Buca and Menderes districts and Muğla after technical and physical surveillance. [@19,20]
 
 After technical and physical surveillance, officers made four separate interim
 seizures. [@1,4,5,6,8,14] Those seizures yielded 1 tonne 367 kilograms 500 grams of skunk,
-about 1,367.5 kilograms, and 57,000 ecstasy pills. [@1,3,4,5,6,7,8,10,14,15,16,18] The total is 21 kilograms above the 1,346.5 kilograms reported from a vehicle stopped in Torbalı on 11 March, which was reported with the same 57,000-pill count; the reports do not say whether that stop is one of the four operations. [@12] Demirören Haber Ajansı
+about 1,367.5 kilograms, and 57,000 ecstasy pills. [@1,3,4,5,6,7,8,10,14,15,16,18,20] The total is 21 kilograms above the 1,346.5 kilograms reported from a vehicle stopped in Torbalı on 11 March, which was reported with the same 57,000-pill count; the reports do not say whether that stop is one of the four operations. [@12] Demirören Haber Ajansı
 reported that the operations also yielded 1,728 grams of pregabalin. [@2,3,7,8] İhlas
 Haber Ajansı called the powder seized in the same work pharmaceutical powder.
 [@1,6] Three suspects linked to the operation were remanded in custody. [@1,3,4,5,6,8,9,11,14,17] Four suspects were detained after the first-stage searches, with proceedings against one of them still continuing. [@17]
@@ -185,7 +191,7 @@ Officers then raided 15 addresses at the same time, 13 homes and two workplaces,
 to catch people linked to the drug trade. [@1,3,4,5,6,8,14,15] Eleven suspects were taken into
 gözaltı, police custody for questioning. [@1,3,4,5,6,8,9,14,17] A search continued for one suspect
 still at large. [@1,3,4,5,6,8,14] İhlas Haber Ajansı said 14 suspects were caught in all.
-[@1,6,10] The suspected leader of the criminal organisation, said to have been wanted for 7 years on 13 separate offences with 272 crime records in total, was caught at the residence in Menderes where he was hiding. [@16] After 11 suspects were caught in the first stage, continued field work raised the number in custody to 17, while three suspects had been remanded in earlier proceedings. [@16] After police processing the detainees were brought before the court, which remanded 16 of them including the alleged organisation leader and released one under judicial control. [@18] Searches at the addresses also found one pistol, one magazine, 17
+[@1,6,10] The suspected leader of the criminal organisation, said to have been wanted for 7 years on 13 separate offences with 272 crime records in total, was caught at the residence in Menderes where he was hiding. [@16] After 11 suspects were caught in the first stage, continued field work raised the number in custody to 17, while three suspects had been remanded in earlier proceedings. [@16,20] After police processing the detainees were brought before the court, which remanded 16 of them including the alleged organisation leader and released one under judicial control. [@18,20] Searches at the addresses also found one pistol, one magazine, 17
 cartridges and 24 drug pills. [@1,5,6,13]
 
 Demirören Haber Ajansı said the operations targeted the manufacture and trade of
