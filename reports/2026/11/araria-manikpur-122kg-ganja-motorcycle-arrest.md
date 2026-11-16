@@ -45,22 +45,22 @@ sources:
     publisher: दैनिक भास्कर
     date: 2026-11-14
     language: hi
-open_questions:
-  - No charges, plea or court outcome were reported.
-  - The motorcycle was suspected to be stolen, but its ownership was not established.
-  - The account relies on a police briefing and does not report the arrested man's response.
+  - title: 122.5 किलो गांजा के साथ तस्कर गिरफ्तार
+    url: https://vocaltv.in/crime/ganza-seized-smuggler-arrest-at-fulkahaphp/cid19532599.htm
+    publisher: Vocal TV
+    date: 2026-11-15
+    language: hi
 ---
 
 Phulkaha police and Sashastra Seema Bal (SSB) personnel arrested a man near
 Baluahi Dhar in Manikpur village on 14 November 2026 and seized 122.55 kilograms
-of ganja and a motorcycle. [@1] The arrested man was identified as Mohammad
-Azad, a resident of Koshikapur in Nawabganj panchayat. [@1] Police said the
-motorcycle appeared at first sight to have been stolen. [@1]
+of ganja and a motorcycle. [@1,2] The joint team was the I Company Phulkaha team of SSB's 56th Battalion with local station police, acting about 500 metres from the border near border pillar 189/04 in Manikpur village. [@2] The arrested man was identified as Mohammad
+Azad, a resident of Koshikapur in Nawabganj panchayat. [@1,2] The arrested smuggler is 25 years old and the son of Mohammad Safid Miyan. [@2] Police said the
+motorcycle appeared at first sight to have been stolen. [@1] Police also recovered a TVS Apache motorcycle numbered BR 38 AG 3910 and two mobile phones from the smuggler. [@2]
 
 At a press conference that evening, sub-divisional police officer Rajkishore
 Kumar said police had received information that people carrying ganja from Nepal
 had entered India and were preparing to move the shipment elsewhere via
-Manikpur. [@1] Phulkaha station head Vikas Kumar Maurya went to the indicated
+Manikpur. [@1] Preliminary questioning indicated other people were involved and the consignment was to be delivered to a local person in Madura village. [@2] SSB said the consignment was being carried by motorcycle from Diwanganj in Nepal toward Madhura village in India. [@2] Phulkaha station head Vikas Kumar Maurya went to the indicated
 location with police and SSB personnel, who surrounded the area and arrested
-Azad. [@1]
-
+Azad. [@1] Seeing the patrol party, the smuggler abandoned the motorcycle and tried to flee but was chased down and caught, and on questioning disclosed sacks of ganja hidden in a field. [@2]
