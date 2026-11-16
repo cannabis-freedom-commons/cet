@@ -181,20 +181,27 @@ sources:
     publisher: TRT Haber
     date: 2026-11-14
     language: tr
+  - title: 'Şanlıurfa’da jandarmadan operasyon: 177 kilogram esrar ele geçirildi'
+    url: https://www.medyaurfa.com/sanliurfada-jandarmadan-operasyon-177-kilogram-esrar-ele-gecirildi
+    publisher: Medya Urfa
+    date: 2026-11-16
+    language: tr
 open_questions:
-  - Whether the 17 kg seized alongside the esrar was skunk or synthetic drugs is unclear, as accounts differ.
-  - Whether the cannabis total was 176 kg or 176.5 kg is unclear, as accounts differ.
-  - No separate date for the searches was given; 14 November 2026 stands in as the incident date.
+    - Whether the 17 kg seized alongside the esrar was skunk or synthetic drugs is unclear, as accounts differ.
+    - Whether the gendarmerie cannabis total was 176 kg, 176.5 kg or 177 kg is unclear, as accounts give 173 kg or 173.5 kg of powdered toz esrar with 3.5 kg of kubar esrar.
+    - No separate date for the searches was given; 14 November 2026 stands in as the incident date, while the detailed Siverek account was published on 16 November 2026.
+    - How the five announced detentions divide across the gendarmerie and police components is unclear; one suspect faced proceedings in the Siverek component search.
+    - No court outcome, detention measure or plea beyond the start of judicial proceedings was reported for the Siverek suspect.
 ---
 
 Şanlıurfa Governor Hasan Şıldak announced that gendarmerie and police anti-drug
 operations in Şanlıurfa seized a total of 193 kilograms 500 grams of drugs and
 that five suspects were detained. [@1,13] The five suspects were detained in
-connection with the seizures. [@2,4,5,6,8,9,11,12,14,15,17,18,19,23,24,25] The detained suspects were taken to the Provincial Gendarmerie Command for procedures. [@7,8,9,10,11,12,14,16,17,18,19,20,22,23,25]
+connection with the seizures. [@2,4,5,6,8,9,11,12,14,15,17,18,19,23,24,25] One suspect detained in the Siverek component search faced judicial proceedings. [@26] The detained suspects were taken to the Provincial Gendarmerie Command for procedures. [@7,8,9,10,11,12,14,16,17,18,19,20,22,23,25]
 
 The gendarmerie’s planned operation seized 173 kilograms of powdered toz esrar
 and 3 kilograms 500 grams of chunk kubar esrar, together 176 kilograms 500
-grams. [@1,4,13,21,24] Searches were carried out at addresses identified by the teams. [@5,6,8,9,10,11,12,14,17,18,19,20,23,25] The same gendarmerie total was described as 173 kilos of powdered
+grams. [@1,4,13,21,24,26] The Siverek search was carried out by the Şanlıurfa Provincial Gendarmerie Narcotics Branch and the Siverek District Gendarmerie Command after tracked narcotics work on information that powdered esrar was being produced in the district. [@26] In the Siverek search officers also seized one drying tent, three sieves, four concealment tarps and one bucket used in production. [@26] Searches were carried out at addresses identified by the teams. [@5,6,8,9,10,11,12,14,17,18,19,20,23,25] The same gendarmerie total was described as 173 kilos of powdered
 esrar and 3 kilos 500 grams of kubar esrar, making 176 kilos 500 grams in total.
 [@2] Police work in the same round of operations seized 17 kilograms of skunk.
 [@1,4,13,24]
