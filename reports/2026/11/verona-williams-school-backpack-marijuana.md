@@ -64,29 +64,33 @@ sources:
     url: https://www.legalreader.com/pennsylvania-mother-charged-for-cannabis-in-childs-backpack/
     publisher: Legal Reader
     date: 2026-11-11
+  - title: Woman arrested after sending package of marijuana with child to school, police say
+    url: https://www.msn.com/en-us/news/other/woman-arrested-after-sending-package-of-marijuana-with-child-to-school-police-say/ar-AA2hjZ8z
+    publisher: MSN
+    date: 2026-11-12
 ---
 
 A mother from Verona Borough is facing charges after police said suspected
 marijuana was found inside her child's backpack at school earlier this week.
-[@1,3,4,5] Kylie Williams, 30, faces child endangerment charges over the incident on
+[@1,3,4,5,6] Kylie Williams, 30, faces child endangerment charges over the incident on
 Wednesday morning at Verner Elementary School. [@1] According to a criminal
 complaint, an officer was already at the school for an unrelated matter when the
 principal asked to speak to him. [@1,5] The principal told the officer that a
 student had arrived with what was believed to be a strong odor of marijuana.
-[@1,5] A staff member collecting backpacks and folders saw a package of suspected
+[@1,5,6] A staff member collecting backpacks and folders saw a package of suspected
 marijuana inside the student's bag. [@1] Staff then took the bag with the
-suspected marijuana to the principal's office. [@2]
+suspected marijuana to the principal's office. [@2,6]
 
 Police said the package was labeled "Lemon Cherry Sherbert 14G Littles Hybrid"
 and had Williams' name on it. [@1,3] A label also showed the date and place of
-purchase and identified Williams as the customer. [@2] Williams asked for the
-package to be returned and said no one needed to know about the incident. [@1,3]
+purchase and identified Williams as the customer. [@2,6] Williams asked for the
+package to be returned and said no one needed to know about the incident. [@1,3,6]
 She later told police she had accidentally placed the package in the child's
-bookbag before school. [@2]
+bookbag before school. [@2,6]
 
 Williams was taken to the Allegheny County Jail. [@1,5] CBS Pittsburgh, citing
 court records, said she posted bail. [@1,3] A later WPXI account said she remained
-in the Allegheny County Jail, unable to post bond. [@2] A preliminary hearing is
+in the Allegheny County Jail, unable to post bond. [@2,6] A preliminary hearing is
 scheduled for later this month. [@1,3,5] Court records show a separate ongoing case
 alleging a physical assault against her 13-year-old child. [@1,3] WPXI said that
 August case included child endangerment and assault charges after police said
