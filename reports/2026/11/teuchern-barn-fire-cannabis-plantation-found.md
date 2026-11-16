@@ -61,6 +61,11 @@ sources:
     publisher: DIE WELT
     date: 2026-11-16
     language: de
+  - title: 'Brand in Teuchern: Feuerwehr stößt auf Cannabis-Plantage mit Hunderten Pflanzen | mdr.de'
+    url: https://www.mdr.de/nachrichten/sachsen-anhalt/halle/burgenland/audio-scheune-cannabis-brand-100.html
+    publisher: MDR
+    date: 2026-11-16
+    language: de
 open_questions:
   - The exact number of plants was reported only as the low three-digit range, so no plant figure is recorded.
   - The buds were reported as a range of two to three kilograms; the figures use the lower bound of 2 kg.
@@ -71,7 +76,7 @@ open_questions:
 
 On Sunday evening, firefighters called to a barn fire in Teuchern in
 Burgenlandkreis discovered a cannabis grow operation in another part of the
-building while extinguishing the blaze. [@1,2,3] The barn was in Bonau, a district of Teuchern, and the fire started shortly after 21:30. [@2] The building's upper floor had
+building while extinguishing the blaze. [@1,2,3,4] The barn was in Bonau, a district of Teuchern, and the fire started shortly after 21:30. [@2] The building's upper floor had
 caught fire for a cause that was still unexplained. [@1] Two residents of
 neighbouring houses had to leave their homes. [@1] Twelve fire vehicles and 39
 firefighters deployed to put out the fire. [@1]
