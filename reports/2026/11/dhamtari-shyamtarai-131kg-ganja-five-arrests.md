@@ -75,18 +75,39 @@ sources:
     publisher: Naya Bharat Live
     date: 2026-11-15
     language: hi
+  - title: ओडिशा से महाराष्ट्र जा रहा था 130 किलो गांजा, छत्तीसगढ़ पुलिस ने 5 तस्करों को दबोचा, 2 कार जब्त
+    url: https://lalluram.com/130-kg-cannabis-smuggling-odisha-to-maharashtra-5-smugglers-arrested-dhamtari-chhattisgarh/
+    publisher: Lalluram
+    date: 2026-11-15
+    language: hi
 open_questions:
   - Published accounts report the seized ganja as about 130 kg or as 131.668 kg.
   - Published accounts report the value of the seized goods as Rs 60 lakh or as higher detailed valuations.
+media:
+  - kind: photo
+    url: https://lalluram.com/130-kg-cannabis-smuggling-odisha-to-maharashtra-5-smugglers-arrested-dhamtari-chhattisgarh/
+    media_url: https://lalluram.com/wp-content/uploads/2026/11/image-2026-11-15T200924.651.jpg
+    publisher: Lalluram
+    caption: The lead photograph published with the Lalluram report on the seizure of about 130 kg of ganja and two cars in Dhamtari.
+  - kind: photo
+    url: https://lalluram.com/130-kg-cannabis-smuggling-odisha-to-maharashtra-5-smugglers-arrested-dhamtari-chhattisgarh/
+    media_url: https://lalluram.com/wp-content/uploads/2026/11/image-2026-11-15T200604.699-1024x576.jpg
+    publisher: Lalluram
+    caption: A second photograph published inside the Lalluram report on the Dhamtari seizure of about 130 kg of ganja and two cars.
+  - kind: video
+    url: https://lalluram.com/130-kg-cannabis-smuggling-odisha-to-maharashtra-5-smugglers-arrested-dhamtari-chhattisgarh/
+    media_url: https://lalluram.com/wp-content/uploads/2026/11/WhatsApp-Video-2026-11-15-at-7.02.45-PM.mp4
+    publisher: Lalluram
+    caption: Video footage published with the Lalluram report on the Dhamtari ganja seizure.
 ---
 
 Dhamtari police arrested five interstate smugglers from Maharashtra with 131.668
 kg of ganja. [@1,3,4,5,6] After receiving the information, the police team cordoned off
-Shyamtarai naka and stopped the suspect car. [@1,4] The arrested men are Kundan
+Shyamtarai naka and stopped the suspect car. [@1,4,7] The arrested men are Kundan
 alias Sachin Kailash Egede, 27, Rameshwar Salik Ram Dandge, 31, Robinson
 Lawrence Fernandes, 32, Lakhan Gulab Beldar, 34, and Ganesh Vijay Patil, 29.
-[@2] Action is being taken under the NDPS Act while police trace the ganja
-source, routes, buyers and others in the network. [@1,6]
+[@2] Rameshwar Dandge, 31, is a resident of Jalgaon district in Maharashtra. [@7] Kundan alias Sachin Egede, 27, is a resident of Malkapur Waghud village in Buldhana district, Maharashtra. [@7] Action is being taken under the NDPS Act while police trace the ganja
+source, routes, buyers and others in the network. [@1,6,7]
 
 Officers recovered 131.668 kg of ganja during the vehicle search. [@1,6] Along
 with the ganja, officers seized two cars and five mobile phones, with total
@@ -94,7 +115,7 @@ seized property worth Rs 72,45,400. [@1,3,6] Police valued the Nano car at Rs 50
 65,83,400. [@1,3,6]
 
 The action was carried out under Operation Nishchay. [@1,6] The drive is run to
-curb narcotics trafficking under SP Bhavna Pandey's direction. [@1] The joint team of the Cyber police station and Arjuni police station carried out the operation under Superintendent of Police Bhavna Pandey's direction. [@3,4,5] On 15
+curb narcotics trafficking under SP Bhavna Pandey's direction. [@1] The joint team of the Cyber police station and Arjuni police station carried out the operation under Superintendent of Police Bhavna Pandey's direction. [@3,4,5,7] On 15
 November, an informer said two cars were carrying a large ganja consignment from
 the Jaipur area of Odisha via Charama toward Maharashtra. [@1] Police stopped a
 Tata Nano and a Swift Dezire at Shyamatrai Naka. [@2,3] The Tata Nano bore registration CG 07 MA 4067 and the Swift Dezire bore registration MH 04 GD 7906. [@6] The second account puts
