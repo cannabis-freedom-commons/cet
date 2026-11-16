@@ -63,24 +63,28 @@ sources:
     publisher: Star Kıbrıs
     date: 2026-11-15
     language: tr
+  - title: Nearly 6 Kilograms of Cannabis Seized in Çukurova Drug Operation
+    url: https://www.kibrispostasi.com/c140-DAILY_NEWS/n620035-nearly-6-kilograms-of-cannabis-seized-in-cukurova-drug-operation
+    publisher: Kıbrıs Postası
+    date: 2026-11-16
 ---
 
 Narcotics and Anti-Smuggling Directorate teams carried out a joint operation in
-Cukurova village at about 23:15 on 14 November 2026. [@1,5] The operation was carried out jointly by the Narcotics and Anti-Smuggling Directorate and teams of the Crime Prevention Branch of the Lefkoşa Police Directorate. [@4] Police detained Celal
+Cukurova village at about 23:15 on 14 November 2026. [@1,5,6] The operation was carried out jointly by the Narcotics and Anti-Smuggling Directorate and teams of the Crime Prevention Branch of the Lefkoşa Police Directorate. [@4] Police detained Celal
 Dogan and Ahmet Zaglul over unlawful taking, possession and supply of cannabis,
 described as Hintkeneviri, and laundering of crime proceeds, and brought them
-before the court. [@3,4] Judge Sevket Gazi ordered both suspects to remain in
-police custody for three days for investigation purposes. [@2]
+before the court. [@3,4,6] Judge Sevket Gazi ordered both suspects to remain in
+police custody for three days for investigation purposes. [@2,6]
 
 Officers found about 6 kilograms 20 grams of material believed to be
 Indian-hemp-type cannabis in the possession of the two suspects and took it as
-evidence. [@2,4,5] On Dogan's indication, officers found about 20 grams more of
-suspected Indian-hemp-type cannabis in a friend's vehicle. [@2] Police said the
+evidence. [@2,4,5,6] On Dogan's indication, officers found about 20 grams more of
+suspected Indian-hemp-type cannabis in a friend's vehicle. [@2,6] Police said the
 seized exhibits would be sent for analysis and that one other person believed to
-be connected with the matter was being sought. [@1]
+be connected with the matter was being sought. [@1,6]
 
 Police told the court the investigation had found that during 2026 the suspects
 had left drugs in the same way at four different points and had received a total
-of 1,000 euros for doing so. [@1] Dogan stated that he had arranged over
+of 1,000 euros for doing so. [@1,6] Dogan stated that he had arranged over
 WhatsApp with a contact to collect the drugs and leave them at another stated
 location for financial gain. [@1]
