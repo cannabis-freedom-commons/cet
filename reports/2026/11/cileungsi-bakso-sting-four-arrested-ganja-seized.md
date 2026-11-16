@@ -53,23 +53,32 @@ sources:
     publisher: Bantenraya.co
     date: 2026-11-14
     language: id
+  - title: Polisi Nyamar Jadi Tukang Bakso Keliling di Cileungsi Bogor, 4 Pengedar Obat Terlarang Ditangkap
+    url: https://kaltim.tribunnews.com/news/1174317/polisi-nyamar-jadi-tukang-bakso-keliling-di-cileungsi-bogor-4-pengedar-obat-terlarang-ditangkap
+    publisher: Tribunkaltim.co
+    date: 2026-11-16
+    language: id
+open_questions:
+  - The precise hamlet in Desa Cileungsi Kidul where the operation took place is unclear, with Kampung Sawah and Kampung Cibeureum both named.
+  - Whether the arrests occurred on 14 or 15 November 2026 is unclear.
+  - The nature of the single packet of synthetic narcotics seized alongside the ganja and pills is unclear, including whether it was synthetic tobacco.
 ---
 
 Kapolsek Cileungsi Kompol Edison led an undercover operation in which officers
 posed as travelling bakso sellers to expose drug dealing that troubled
-residents. [@2,3] The operation took place in Kampung Cibeureum, Desa Cileungsi
+residents. [@2,3,4] The operation took place in Kampung Cibeureum, Desa Cileungsi
 Kidul, Kecamatan Cileungsi, Kabupaten Bogor. [@2] Officers arrested four people
 suspected of involvement in the distribution of illicit drugs and narcotics.
-[@1,3] The arrests occurred on Saturday, 14 November 2026, when four suspected
+[@1,3,4] The arrests occurred on Saturday, 14 November 2026, when four suspected
 dealers were detained with evidence. [@1]
 
 After the arrests officers searched the area and found illicit drugs in plastic
 bags and ganja stored in a bag belonging to the suspects. [@1] The cannabis
-evidence comprised two packets of ganja prepared for distribution. [@1,3] Officers
+evidence comprised two packets of ganja prepared for distribution. [@1,3,4] Officers
 also seized about 2,800 pills of illicit drugs and synthetic tobacco known as
 sinte, which are not counted as cannabis. [@1,3]
 
 After the arrests the four suspects and all the evidence were taken to Mapolsek
 Cileungsi for initial examination. [@2] The four suspects and all the evidence
 were then handed to the Satuan Reserse Narkoba of Polres Bogor for further
-investigation and legal process. [@1,3]
+investigation and legal process. [@1,3,4]
