@@ -59,6 +59,11 @@ sources:
     publisher: Radar Pekalongan
     date: 2026-11-13
     language: id
+  - title: Polisi Gerebek Kos di Wiradesa, Dua Pemuda Diamankan, Sabu dan Ganja Ikut Disita
+    url: https://radarpekalongan.disway.id/amp/116815/polisi-gerebek-kos-di-wiradesa-dua-pemuda-diamankan-sabu-dan-ganja-ikut-disita
+    publisher: Radar Pekalongan
+    date: 2026-11-15
+    language: id
 open_questions:
     - The sources do not make clear whether the 0.64 grams of ganja was one packet described both at the roadside stop and in the boarding-house wardrobe, or two separate packets of 0.64 grams; the report records the lower single figure.
     - No laboratory confirmation of the seized substances was reported.
@@ -68,11 +73,11 @@ open_questions:
 
 Satresnarkoba Polres Pekalongan, the drug squad of the Pekalongan regency
 police, arrested two men suspected of narcotics abuse and distribution in
-Wiradesa district, Pekalongan regency, Central Java. [@1,3] The two men,
+Wiradesa district, Pekalongan regency, Central Java. [@1,3,4] The two men,
 identified by initials as MES alias Gono, 25, and AF alias Parmin, 37, were
 detained on the side of Jalan Raya Waru Kidul on Tuesday 10 November 2026 at
-about 23.00 WIB. [@1] Police seized four packets of methamphetamine weighing
-1.23 grams in total and one packet of ganja weighing 0.64 grams. [@1,3]
+about 23.00 WIB. [@1,4] Police seized four packets of methamphetamine weighing
+1.23 grams in total and one packet of ganja weighing 0.64 grams. [@1,3,4]
 
 Kasat Resnarkoba Polres Pekalongan Iptu R. Yonanta Edy Pranawa said the arrests
 began with surveillance in Wiradesa, when officers grew suspicious of the two
@@ -80,7 +85,7 @@ men at the roadside and searched them. [@1] On preliminary examination one
 suspect admitted he had intended to distribute or sell the methamphetamine, and
 officers followed up on his statement. [@1] Following that statement, officers
 searched a boarding house painted blue in Desa Kemplong, Wiradesa district, and
-found a packet of ganja in a wardrobe belonging to one of the suspects. [@1,3]
+found a packet of ganja in a wardrobe belonging to one of the suspects. [@1,3,4]
 Officers also seized three glass pipettes, two pointed straws, a methamphetamine
 pipe or bong, a digital scale, one packet of transparent clip plastic, a sling
 bag, matches, an iPhone 11 Pro and a Honda Beat Street motorcycle. [@1] The
