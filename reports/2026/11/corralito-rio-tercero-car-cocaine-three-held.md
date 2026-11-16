@@ -78,6 +78,11 @@ sources:
     publisher: HolaSalta Noticias
     date: 2026-11-15
     language: es
+  - title: 'Intentaron cambiar un auto por cocaína y terminaron detenidos: secuestraron más de 200 dosis'
+    url: https://www.cronica.com.ar/policiales/intentaban-cambiar-un-auto-por-cocaina-tres-detenidos-y-mas-de-200-dosis-secuestradas/
+    publisher: Crónica
+    date: 2026-11-15
+    language: es
 media:
   - kind: photo
     url: https://tn.com.ar/policiales/2026/11/15/quisieron-cambiar-un-auto-por-cocaina-en-cordoba-y-terminaron-detenidos-secuestraron-mas-de-200-dosis/
@@ -89,20 +94,23 @@ media:
     media_url: https://tn.com.ar/resizer/v2/otro-de-los-detenidos-foto-el-doce-6Y4LGH4ZMNEUVICC35VUKAIYEI.png?auth=7fe02385f969bf9ac4af938e6e302ebba10637c2204aaed9944759045cb57bb1&width=1440
     publisher: Todo Noticias
     caption: 'Another of the detained men in the Corralito operation. Photo: El Doce'
+open_questions:
+    - The day of the arrests and the raids is not stated; only the 15 November 2026 publication date is known.
+    - Crónica spells the street 'Feliz de la Peña', while the other accounts give 'Félix de la Peña'.
 ---
 
 Three adults were detained in Corralito, Tercero Arriba department, for
-allegedly trying to exchange a car for cocaine. [@1,4,6,7,8] The operation began on the
+allegedly trying to exchange a car for cocaine. [@1,4,6,7,8,9] The operation began on the
 street, where investigators intercepted the suspects and made the arrests. [@1,5]
 At the scene investigators seized 207 doses of cocaine and 34 of marijuana,
-money and a car. [@2,4,5,6,8] Investigators said the detainees had tried to exchange the
+money and a car. [@2,4,5,6,8,9] Investigators said the detainees had tried to exchange the
 vehicle for drugs. [@2]
 
 After the arrests, the FPA carried out three raids on homes in barrio Parque
-Monte Grande in Río Tercero. [@3,4,5,6,7,8] The three Parque Monte Grande houses were located on Félix de la Peña at 2500, José Echenique at 500 and Eleazar Garzón at 2700. [@4,6,8] During those house searches officers seized
+Monte Grande in Río Tercero. [@3,4,5,6,7,8,9] The three Parque Monte Grande houses were located on Félix de la Peña at 2500, José Echenique at 500 and Eleazar Garzón at 2700. [@4,6,8,9] During those house searches officers seized
 additional marijuana doses and cannabis sativa plants for the investigation.
-[@2,4,5,6,7,8]
+[@2,4,5,6,7,8] In the Río Tercero raids, the marijuana had already been broken up for sale. [@9]
 
 All the seized items were placed at the disposal of the intervening prosecutor's
-office. [@3] The three suspects remain detained for alleged violation of
+office. [@3,9] The three suspects remain detained for alleged violation of
 National Drug Law 23.737 while the investigation continues. [@1,4]
