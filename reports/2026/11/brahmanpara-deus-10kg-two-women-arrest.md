@@ -69,22 +69,29 @@ sources:
     publisher: VOD Bangla
     date: 2026-11-15
     language: bn
+  - title: ব্রাহ্মণপাড়ায় নারীর পেটে গাঁজা পেঁচিয়ে গ্রেপ্তার দুই নারী
+    url: https://ajkerdarpon.com/news/88526
+    publisher: Ajker Darpan
+    date: 2026-11-15
+    language: bn
+open_questions:
+  - The reported time of the detention on 13 November 2026 differs between accounts, with one giving about 1am.
 ---
 
 Police in Brahmanpara, Cumilla arrested two women in the Deus area of Shashidal
-Union on Friday afternoon, 13 November 2026, acting on a secret tip-off. [@1,2,3]
+Union on Friday afternoon, 13 November 2026, acting on a secret tip-off. [@1,2,3] The arrest took place in front of Monir Sarkar's house in the Deus area. [@5]
 Officers detained the two women after finding them suspicious and then searched
 them. [@1,3,4] Police said the women were carrying the ganja under their burqas with
 scotch tape wrapped around their stomachs. [@1,2,3,4]
 
-The search recovered 10 kg of ganja from the women. [@1,2,3,4] The arrested women were
+The search recovered 10 kg of ganja from the women. [@1,2,3,4,5] The arrested women were
 identified as Fatema Akter alias Mithila Moni, 28, of Binouti in Kasba,
 Brahmanbaria, and Jannatul Ferdous alias Maya, 24, of Kalagachhia in Bandar,
-Narayanganj. [@1,2,3,4]
+Narayanganj. [@1,2,3,4,5]
 
 Police said Fatema Akter already faces two pending cases under the Narcotics
 Control Act at Brahmanpara and Kasba police stations. [@1] Police said Jannatul
 Ferdous faces two more pending Narcotics Control Act cases at Chawkbazar in
 Dhaka and Gazaria in Munshiganj. [@1] Brahmanpara police station
 officer-in-charge Md. Faruk Hossain said legal action was taken against the two
-women and they were sent to court on Saturday, 14 November. [@1,4]
+women and they were sent to court on Saturday, 14 November. [@1,4,5]
