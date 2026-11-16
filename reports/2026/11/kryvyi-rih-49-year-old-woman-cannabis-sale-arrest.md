@@ -59,18 +59,23 @@ sources:
     publisher: Гірчиця
     date: 2026-11-14
     language: uk
+  - title: 'Підозра в продажу канабісу: у Кривому Розі затримали жінку - Місто і річка'
+    url: https://mistorichka.media/novyny/prodazh-kanabisu-kryvyi-rih/
+    publisher: Місто і річка
+    date: 2026-11-15
+    language: uk
 ---
 
 Police in Kryvyi Rih exposed a 49-year-old local woman who had set up drug sales
-directly from her own home. [@1,4] The woman had been selling cannabis over the
-previous two months. [@1] Officers caught her in the act during another sale of
+directly from her own home. [@1,4,5] The woman had been selling cannabis over the
+previous two months. [@1,5] Officers caught her in the act during another sale of
 the substance. [@1]
 
 That same day investigators carried out a court-authorised search of the
 49-year-old woman's home and detained her under Article 208 of the Criminal
 Procedure Code. [@2] The operation was conducted by officers of police station
 No. 5 of the Kryvyi Rih District Police Department. [@2] Officers documented her
-activity during another sale of the narcotic substance on 2 November. [@2,4]
+activity during another sale of the narcotic substance on 2 November. [@2,4,5]
 
 During the search officers seized more than 70 packed zip packets containing a
 green substance, as well as a mobile phone. [@2,4] Expert examination established
@@ -78,5 +83,5 @@ that the seized substance was cannabis. [@3]
 
 After receiving the expert results, investigators notified the woman of
 suspicion under Part 1 of Article 307 of the Criminal Code for illegal sale of
-narcotics. [@2,4] She is currently in custody. [@3,4] She faces four to eight years
+narcotics. [@2,4,5] She is currently in custody. [@3,4] She faces four to eight years
 of imprisonment. [@1]
