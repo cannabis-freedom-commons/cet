@@ -65,6 +65,11 @@ sources:
     publisher: Protidiner Sangbad
     date: 2026-11-16
     language: bn
+  - title: মাধবপুরে গাঁজাসহ তিন কারবারি আ ট ক
+    url: https://www.sylhetview24.news/news/418174
+    publisher: Sylhetview24
+    date: 2026-11-16
+    language: bn
 open_questions:
     - 'The accounts give different operation times: about 2:30 at night, about 3:30 at night, or before dawn.'
     - 'The accounts differ on the detainees'' home villages: two place all three in Lohaid village while another places Mohiuddin in Itakhola village of Noapara Union.'
@@ -81,13 +86,13 @@ media:
 Police detained three men and recovered 60 kg of ganja from a silver private car
 in a late-night operation in Madhabpur, Habiganj. [@1,3,4,5] The operation took place
 at about 2:30 at night on 16 November at Telia Para Noahati Mor in the upazila.
-[@1,3]
+[@1,3,6]
 
 Acting on a secret tip-off, a Haraspur (Teliapara) police outpost team searched
 the suspect silver private car, recovered 60 kg of ganja from it and detained
-its three occupants. [@1,3,4] The detained men were identified as Mohiuddin (31),
-Ashikul Islam Apon (21) and Tamim Mia (19). [@1,3,4,5] The operation was led by SI
-Jamal Mia, with ASI Nazim Uddin among the police team. [@1,4,5]
+its three occupants. [@1,3,4,6] The detained men were identified as Mohiuddin (31),
+Ashikul Islam Apon (21) and Tamim Mia (19). [@1,3,4,5] The three were named as Mohiuddin (31), son of Kala Mia, Ashikul Islam Apon (21), son of Ripon Mia, and Tamim Mia (19), son of Jasim Mia, reported from Lohaid village in Madhabpur. [@6] The operation was led by SI
+Jamal Mia, with ASI Nazim Uddin among the police team. [@1,4,5] Haraspur (Teliapara) outpost in-charge Inspector Sukhendra Sarkar said the raid followed a tip-off that an organised drug-trafficking ring was moving drugs by private car, with SI Jamal Mia and ASI Nazim Uddin among the team that detained three people with 60 kg of ganja. [@6]
 
 The driver tried to flee when signalled to stop on the Shahpur road, and police
 stopped the car, recovered 60 kg of ganja and arrested the three men. [@2] The
