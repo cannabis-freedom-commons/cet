@@ -136,6 +136,7 @@ function buildPanel(container, api, id) {
   const doing = node("span", "", "ai-doing"), since = node("span", "", "ai-since");
   working.append(dots, doing, since);
   log.append(empty, working); wrap.append(log, more);
+  const about = node("span", "", "ai-muted");
   const ui = { about, log, empty, more, processing, details, runPill, model, runList: runs, working, doing, since, seen: new Set(), atBottom: true, top: 0, lastAt: 0 };
   ui.timer = setInterval(() => {
     if (!container.isConnected) { clearInterval(ui.timer); return; }
@@ -144,7 +145,6 @@ function buildPanel(container, api, id) {
   // where the reader is in the chat, kept on the panel so a refresh can put them back
   log.addEventListener("scroll", () => { ui.top = log.scrollTop; ui.atBottom = log.scrollHeight - log.scrollTop - log.clientHeight < 40; if (ui.atBottom) more.hidden = true; }, { passive: true });
   more.addEventListener("click", () => { log.scrollTo({ top: log.scrollHeight, behavior: "smooth" }); more.hidden = true; });
-  const about = node("span", "", "ai-muted");
   const chatHead = node("div", undefined, "ai-chat-head"); chatHead.append(node("h3", "Live activity"), about);
   container.append(heading, processing, runs, details, chatHead, wrap);
   if (api && id) { ui.json = createJSONLog(api, id); container.append(ui.json); }
