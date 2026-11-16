@@ -55,6 +55,11 @@ sources:
     publisher: Puebla Online
     date: 2026-11-16
     language: es
+  - title: Cinco cateos en Puebla capital dejan 13 detenidos y 278 envoltorios asegurados - ATN
+    url: https://atiemponoticias.mx/publicaciones/cinco-cateos-en-puebla-capital-dejan-13-detenidos-y-278-envoltorios-asegurados/
+    publisher: ATN
+    date: 2026-11-15
+    language: es
 open_questions:
   - Only wrapper counts were published for the suspected marijuana, with no weight, so no kilogram figure can be recorded.
   - The substances were described only as having characteristics similar to or possibly being marijuana, crystal or piedra, with no laboratory confirmation reported.
@@ -67,7 +72,7 @@ open_questions:
 
 Puebla state prosecutors (Fiscalía General del Estado, FGE) carried out five
 searches in colonias, or neighbourhoods, in the capital Puebla and detained 13
-people. [@1,2,3] The searches ran from 9 to 12 November 2026 in coordination with
+people. [@1,2,3,4] The searches ran from 9 to 12 November 2026 in coordination with
 the Secretariat of National Defence, the National Guard and the Puebla state
 police, as part of anti-narcomenudeo actions, or small-scale street-level
 dealing. [@1,2,3]
@@ -88,8 +93,8 @@ and the property was secured. [@1] In San Ramón officers detained three people,
 José Antonio N., José Manuel N. and Andrea N. [@1]
 
 The FGE reported 34 wrappers with possible marijuana across the five searches.
-[@1,2,3] The FGE also reported 227 wrappers of crystal-like substance, which are not
+[@1,2,3,4] The FGE also reported 227 wrappers of crystal-like substance, which are not
 counted as cannabis. [@1,2] The FGE also reported 17 wrappers of possible piedra,
 which are not counted as cannabis. [@1,2] Officers also seized five scales, two firearm-like objects, 11 ballistic items and 910 pesos in cash. [@2] Five properties were secured for
 investigation. [@1,2] All 13 detained people were placed at the disposal of the
-Public Ministry, which will determine their legal situation. [@1,2,3]
+Public Ministry, which will determine their legal situation. [@1,2,3,4]
