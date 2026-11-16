@@ -53,6 +53,11 @@ sources:
     publisher: صحيفة سبق الإلكترونية
     date: 2026-11-16
     language: ar
+  - title: اعتقال أربعة مخالفين ومقيم إثيوبي في جدة بتهمة ترويج المخدرات من بينها الحشيش والإمفيتامين
+    url: https://www.alestad.com/157784/%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D9%8A%D9%86-%D9%88%D9%85%D9%82%D9%8A%D9%85-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A-%D9%81%D9%8A-%D8%AC/
+    publisher: الاستاد الاخباري
+    date: 2026-11-16
+    language: ar
 open_questions:
   - No separate date for the arrests was published, so 16 November 2026, the publication date, stands in for the incident date.
   - Only the resident is explicitly identified as Ethiopian; the nationalities of the four border-security violators were not stated.
@@ -64,8 +69,8 @@ open_questions:
 
 Saudi Arabia's General Directorate of Narcotics Control arrested four violators
 of the border security law and a resident of Ethiopian nationality in Jeddah
-governorate. [@1,3] The directorate accused the five of promoting amphetamine and
-25 kilograms of hashish. [@1,3]
+governorate. [@1,3,4] The directorate accused the five of promoting amphetamine and
+25 kilograms of hashish. [@1,3,4]
 
 The suspects were stopped, the regulatory procedures were completed against
 them, and they were referred to the Public Prosecution. [@1,3] A second account
