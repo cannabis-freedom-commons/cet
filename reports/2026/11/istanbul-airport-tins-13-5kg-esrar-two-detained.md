@@ -79,6 +79,11 @@ sources:
     publisher: İlkha Haber Ajansı
     date: 2026-11-15
     language: tr
+  - title: 'İstanbul Havalimanı’nda narkotik operasyonu: 13 kilo esrar ele geçirildi'
+    url: https://www.medyagazete.com/haber/istanbul-havalimaninda-narkotik-operasyonu-13-kilo-esrar-ele-gecirildi
+    publisher: Medya Gazete
+    date: 2026-11-15
+    language: tr
 ---
 
 Istanbul narcotics teams detained two Tunisian nationals, Najla Ben Abdallah and
@@ -93,8 +98,8 @@ hidden in the suspects' luggage. [@1,5,6] Of that total, 12 kilograms 226 grams 
 concealed in 73 cans and 1 kilogram 286 grams in the soles of four shoes. [@3]
 
 The search was carried out under a search order obtained from the Gaziosmanpaşa
-Chief Public Prosecutor's Office after a tip-off. [@2,5] Police said the suspects
-tried to bring the cannabis into Türkiye and took them into custody. [@2]
+Chief Public Prosecutor's Office after a tip-off. [@2,5,7] Police said the suspects
+tried to bring the cannabis into Türkiye and took them into custody. [@2,7]
 Officers also seized money and mobile phones found on the suspects for
-examination. [@1,4,5,6] The suspects were expected to be brought before the
-Gaziosmanpaşa prosecution on 15 November as the investigation continued. [@2,5]
+examination. [@1,4,5,6,7] The suspects were expected to be brought before the
+Gaziosmanpaşa prosecution on 15 November as the investigation continued. [@2,5,7]
