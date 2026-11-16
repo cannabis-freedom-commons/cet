@@ -58,6 +58,10 @@ sources:
     url: https://www.snl24.com/news/dagga-bakkie-flips-during-high-speed-police-chase-20261116/
     publisher: Daily Sun
     date: 2026-11-16
+  - title: R3m drug run derailed as Toyota Hilux overturns
+    url: https://www.africaninsider.com/news/r3m-drug-run-derailed-as-toyota-hilux-overturns/
+    publisher: African Insider
+    date: 2026-11-16
 open_questions:
   - One account gives the suspects ages as 34 and 44 while the other gives them as aged between 34 and 44.
   - The seizure is described both as at a farm near Wakkerstroom and as from the overturned vehicle on the R543 road, so the exact recovery point is unclear.
@@ -70,21 +74,26 @@ media:
     media_url: https://media24-dailysun-prod.web.arc-cdn.net/resizer/v2/PH2GF4WVK5BW3ESTATDQK36JCE.jpeg?focal=622%2C222&auth=00f3fda529beebe641bd73ee5b607d87061aba6a8b05b2633fd7686c7d4dfeef&width=1600&height=900
     publisher: Daily Sun
     caption: 'Arrest of three suspects near Wakkerstroom on alleged dagga dealing charges. Photo: Lesiba Dikhoba'
+  - kind: photo
+    url: https://www.africaninsider.com/news/r3m-drug-run-derailed-as-toyota-hilux-overturns/
+    media_url: https://www.africaninsider.com/wp-content/uploads/2026/11/Dagga_Mpumalanga.png
+    publisher: African Insider
+    caption: 'Bags of dagga seized near Wakkerstroom. Picture: Facebook / SAPS'
 ---
 
 Three suspects aged 34 and 44 were arrested near Wakkerstroom in the Gert
 Sibande District after police seized about 411 kilograms of dagga with an
-estimated street value of about R3 million. [@1,3] The arrests took place at about
+estimated street value of about R3 million. [@1,3,4] The arrests took place at about
 01:20 on Saturday 14 November 2026 while SAPS Crime Prevention members were
-conducting stop-and-search operations along the R543 road. [@1]
+conducting stop-and-search operations along the R543 road. [@1,4]
 
 During the pursuit a white Toyota Hilux overturned while the other two vehicles
-fled the scene. [@1,3] Officers searched the overturned vehicle and found 22 bags
-of dagga weighing about 411 kilograms. [@2,3] Police put the estimated street
+fled the scene. [@1,3,4] Officers searched the overturned vehicle and found 22 bags
+of dagga weighing about 411 kilograms. [@2,3,4] Police put the estimated street
 value of the dagga at R3 million. [@2,3] Police confiscated a white Toyota Hilux
-and a white Ford Ranger in connection with the incident. [@1,3]
+and a white Ford Ranger in connection with the incident. [@1,3,4]
 
 The three suspects were charged with dealing in dagga and are expected to appear
-in court soon. [@2,3] Mpumalanga provincial commissioner Lieutenant-General
+in court soon. [@2,3,4] Mpumalanga provincial commissioner Lieutenant-General
 Apaphia Modise commended the officers for vigilance and swift response leading
 to the arrests and seizure. [@2]
