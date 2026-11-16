@@ -87,12 +87,22 @@ sources:
     publisher: MSN
     date: 2026-11-16
     language: ja
+  - title: 「自分で使用するために…」自宅の庭で大麻草を栽培した疑い　岡山市東区の無職の男（67）を再逮捕 - エキサイトニュース
+    url: https://www.excite.co.jp/news/article/rsk_1494905885534815026/
+    publisher: エキサイトニュース
+    date: 2026-11-16
+    language: ja
 media:
   - kind: photo
     url: https://www.sanyonews.jp/article/2021828
     media_url: https://static.sanyonews.jp/image/article/size1/5/f/5/d/5f5db4f60234217161c46bee77a3501b_1.jpg
     publisher: 山陽新聞デジタル｜さんデジ
     caption: 'Seized cannabis plants from the Okayama Higashi garden case. Photo: Okayama Higashi Police Station, via Sanyo Shimbun'
+  - kind: photo
+    url: https://www.excite.co.jp/news/article/rsk_1494905885534815026/
+    media_url: https://s.eximg.jp/exnews/feed/rsk/78/rsk_1494905885534815026/rsk_1494905885534815026_1.jpg
+    publisher: エキサイトニュース
+    caption: 'Police handout photo published with the report on the home-garden cultivation arrest. Photo: Okayama Prefectural Police, via RSK/Excite'
 ---
 
 Okayama Higashi police arrested a 67-year-old unemployed man living in
@@ -108,6 +118,6 @@ man’s home on 4 November and found one cannabis cigarette, which led them to
 arrest him. [@2,9]
 
 During questioning the man admitted the allegation, telling police that it was
-correct. [@1,3,4] The man admitted the cultivation allegation, telling police he grew it for his own use. [@5,6,8,9,10,11] Officers also found a plant resembling cannabis in the garden of
+correct. [@1,3,4] The man admitted the cultivation allegation, telling police he grew it for his own use. [@5,6,8,9,10,11,12] Officers also found a plant resembling cannabis in the garden of
 the residence. [@1,3,5] The home garden measured about 75 square metres and held nine cannabis plants. [@9] Testing of the suspected plants seized from the man's garden confirmed they were cannabis, leading to the re-arrest on 16 November. [@8] Police allege he grew cannabis in his home garden between 15 October and 4 November 2026. [@5,6,7,9,11] Police are investigating the garden find on suspicion that
-the man had been cultivating cannabis. [@1,3] On 16 November police re-arrested the 67-year-old unemployed man on suspicion of cultivating cannabis in violation of the cannabis cultivation regulation. [@5,6,9,10,11]
+the man had been cultivating cannabis. [@1,3] On 16 November police re-arrested the 67-year-old unemployed man on suspicion of cultivating cannabis in violation of the cannabis cultivation regulation. [@5,6,9,10,11,12]
