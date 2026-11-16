@@ -38,6 +38,16 @@ media:
     media_url: https://gdb.voanews.com/01000000-0aff-0242-3dab-08db76619758_w250_r0_s.jpg
     publisher: Voice of America
     caption: 'A police officer stands in front of a pile of seized illegal drugs before the destruction ceremony in Yangon on 26 June 2023. Photo: AP'
+  - kind: photo
+    url: https://www.straitstimes.com/asia/se-asia/myanmar-junta-says-failing-to-halt-surge-in-drug-trafficking
+    media_url: https://cassette.sphdigital.com.sg/image/straitstimes/9f422aa18e3795e1e7515284dd46cc9015cb64a064172ec1fb43be8278ca3464
+    publisher: The Straits Times
+    caption: 'Firefighters stand by a burning pile of illegal drugs during the Destruction Ceremony of Seized Narcotic Drugs in Yangon on 26 June 2023. Photo: EPA-EFE/NYEIN CHAN NAING'
+  - kind: photo
+    url: https://www.straitstimes.com/asia/se-asia/myanmar-junta-says-failing-to-halt-surge-in-drug-trafficking
+    media_url: https://cassette.sphdigital.com.sg/image/straitstimes/0067ed2f553432aef46b42e01cea21aa7e04911a40e698707502f3b510f9bc2e
+    publisher: The Straits Times
+    caption: A stack of methamphetamine before the destruction ceremony in Yangon on Monday.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2b110700489da95d7253ef2075988add
@@ -55,6 +65,10 @@ sources:
     url: https://www.thenationalnews.com/world/asia/2023/06/26/myanmar-burns-446-million-worth-of-seized-drugs-in-huge-bonfire/
     publisher: The National
     date: 2023-06-26
+  - title: In rare admission, Myanmar junta says efforts to crush drug trade having no impact
+    url: https://www.straitstimes.com/asia/se-asia/myanmar-junta-says-failing-to-halt-surge-in-drug-trafficking
+    publisher: The Straits Times
+    date: 2023-06-26
 open_questions:
   - No separate marijuana weight, plant count or value was published for the 2023 burning, so no cannabis quantity can be recorded.
   - The $446 million total and the $207 million Yangon total are the police's combined valuations of all destroyed drugs and precursor chemicals; they are not attributed to cannabis.
@@ -64,22 +78,23 @@ open_questions:
   - Four well-known annual burnings form a series, and this report covers only the 2023 event; the 2021, 2025 and 2026 ceremonies are recorded separately.
   - The Voice of America photographs are credited to Associated Press and carry no separate caption credit on the page, so the credit is taken from the wire attribution.
   - A Taipei Times photograph showing a police official holding a pack of drugs was omitted because it centres on an official rather than the burning.
+  - The article's lead says more than half a billion dollars worth of drugs was torched while its body gives officials' total of US$446 million; the report uses the US$446 million total.
 ---
 
 Myanmar's authorities destroyed more than $446 million worth of illegal drugs
 seized from around the country to mark an annual international anti-drug
-trafficking day on Monday, police said. [@1] In Yangon, a pile of seized drugs
+trafficking day on Monday, police said. [@1,4] In Yangon, a pile of seized drugs
 and precursor chemicals worth $207 million was incinerated, including marijuana
 beside opium, heroin, methamphetamine, kratom, ketamine and crystal meth. [@1]
 
 Authorities also destroyed drugs in the central city of Mandalay and in
 Taunggyi, the capital of eastern Shan state, both closer to the main drug
 production and distribution areas. [@1] The burn coincided with the U.N.'s
-International Day against Drug Abuse and Illicit Trafficking. [@1]
+International Day against Drug Abuse and Illicit Trafficking. [@1,4] The head of Myanmar's Central Committee for Drug Abuse Control said that despite countless drug abusers, producers, traffickers and cartels being arrested and prosecuted, production and trafficking had not declined at all. [@4]
 
 The drug burn came as U.N. experts warned of increases in the production of
 opium, heroin and methamphetamine in Myanmar, with exports threatening to expand
-markets in South and Southeast Asia. [@1] Myanmar has a long history of drug
+markets in South and Southeast Asia. [@1] The UN Office on Drugs and Crime said more than 23 tonnes of crystal meth was seized in Myanmar in 2022. [@4] Myanmar has a long history of drug
 production linked to political and economic insecurity caused by decades of
 armed conflict. [@1] The country is a major producer and exporter of
 methamphetamine and the world's second-largest opium and heroin producer after
@@ -97,4 +112,3 @@ reported. [@3]
 
 The 26 June ceremony was attended by members of a student marching band, who
 passed the pile of drugs. [@2]
-
