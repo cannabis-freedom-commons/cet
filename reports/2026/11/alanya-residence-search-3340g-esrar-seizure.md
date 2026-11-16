@@ -94,6 +94,11 @@ sources:
     publisher: Manşet Alanya
     date: 2026-11-15
     language: tr
+  - title: Alanya'da 3 kilo 340 gram esrar ele geçirildi - Asayiş - Kamu Haber
+    url: https://www.kamu3.com/alanya-da-3-kilo-340-gram-esrar-ele-gecirildi/1390882/
+    publisher: Kamu3
+    date: 2026-11-15
+    language: tr
 ---
 
 Antalya İl Jandarma Komutanlığı, the Antalya Provincial Gendarmerie Command,
@@ -103,11 +108,11 @@ prevent drug trafficking and drug use. [@1,3,8,9,10,12] As part of that prosecut
 work, gendarmerie officers searched a suspect's residence, described as a house
 in Alanya district of Antalya province. [@2,4,5,10,11] During the search of the suspect's
 residence, officers found and seized 3 kilograms 340 grams of esrar, the Turkish
-term for cannabis. [@1,3,4,5,6,7,8,9,10,11,12]
+term for cannabis. [@1,3,4,5,6,7,8,9,10,11,12,13]
 
 The Antalya Provincial Gendarmerie Command described the house operation as an
 anti-drug operation carried out under the instructions of the Alanya Chief
-Public Prosecutor's Office. [@2,6,7] The total seizure reported from the single
+Public Prosecutor's Office. [@2,6,7,13] The total seizure reported from the single
 residential search in Alanya was 3 kilograms 340 grams of esrar. [@2] Following
 the seizure in Alanya, the gendarmerie started judicial proceedings over the
-incident. [@1,3,4,5,6,7,8,9,10,11,12]
+incident. [@1,3,4,5,6,7,8,9,10,11,12,13]
