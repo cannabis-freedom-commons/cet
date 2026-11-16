@@ -91,21 +91,25 @@ sources:
     url: https://thepost.co.za/news/2026-11-16-westville-man-arrested-after-320kg-cannabis-haul-seized-following-police-chase/
     publisher: The Post
     date: 2026-11-16
+  - title: Man arrested after R1.5m dagga seizure in Westville
+    url: https://iol.co.za/dailynews/city-watch/2026-11-16-man-arrested-after-r15m-dagga-seizure-in-westville/
+    publisher: IOL
+    date: 2026-11-16
 ---
 
 A 32-year-old man was arrested after police seized approximately 320kg of dagga
 with an estimated street value of R1.5 million following a chase in Westville.
-[@1,4,5,6,7,8,9] The cannabis was confiscated in a multidisciplinary operation involving the
-Durban Flying Squad, Durban Metro Police and a private security company. [@1,4,7,8]
-The 32-year-old man was subsequently charged with dealing in dagga. [@1,3,4,5,6,8,9] The
+[@1,4,5,6,7,8,9,10] The cannabis was confiscated in a multidisciplinary operation involving the
+Durban Flying Squad, Durban Metro Police and a private security company. [@1,4,7,8,10]
+The 32-year-old man was subsequently charged with dealing in dagga. [@1,3,4,5,6,8,9,10] The
 suspect is expected to appear in the Durban Magistrates' Court on Monday,
 November 16. [@1,3,4]
 
 KwaZulu-Natal police said officers had received intelligence about a large
 consignment of dagga being transported along the N2 from north of Durban. [@1,3,6,7,9]
-Police tracked the vehicle along the N2 before it turned onto the M19. [@1,3,4,5,6,8,9] The
+Police tracked the vehicle along the N2 before it turned onto the M19. [@1,3,4,5,6,8,9,10] The
 driver brought the vehicle to a stop, abandoned it and fled on foot into nearby
-bushes. [@1,4,5,6,9] An extensive search operation led to the suspect's arrest. [@1,3]
+bushes. [@1,4,5,6,9,10] An extensive search operation led to the suspect's arrest. [@1,3]
 
 Police had not disclosed where the cannabis was allegedly destined for or where
 it was being transported from. [@1] A second report confirms the same Westville
