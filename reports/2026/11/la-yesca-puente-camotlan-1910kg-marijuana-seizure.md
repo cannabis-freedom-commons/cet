@@ -1,0 +1,68 @@
+---
+code: X33AV7
+added_at: "2026-11-16T12:42:57.184555Z"
+date: 2026-11-15
+country: mx
+place: Puente de Camotlán, La Yesca, Nayarit
+coordinates: [21.3208, -104.0119]
+precision: district
+type: seizure
+title: 1,910 kg of suspected marijuana seized in La Yesca, Nayarit
+summary: >-
+  The Guardia Nacional and the Mexican Army seized about 1,910 kilograms of suspected marijuana in Puente de Camotlán, La Yesca, on 15 November 2026. What was seized was handed to the federal prosecutor's office in Tepic for investigation.
+figures:
+  kg_seized: 1910
+details:
+  agencies: [mx-gn, mx-sedena]
+  agency_types: [gendarmerie, military]
+  products:
+    - {product: flower, kg: 1910}
+  case_stage: investigation
+  date_precision: exact
+  region: Nayarit
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://nnc.mx/articulo/aseguran-1910-kilos-de-presunta-mariguana-en-la-yesca
+    media_url: https://nnc.mx/_next/image?url=https%3A%2F%2Fnnc.mx%2Fuploads%2Faseguran-1-910-kilos-de-presunta-mariguana-en-la-yesca.webp&w=1080&q=88
+    publisher: NNC.MX
+    caption: 'Ejército Mexicano handout photo published with the report of the La Yesca seizure. Photo: Ejército Mexicano'
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 997fab583b18cc2a19923e10ce109b67
+tags: [la-yesca, nayarit, marijuana, guardia-nacional, ejercito-mexicano]
+sources:
+  - title: Aseguran 1,910 kilos de presunta mariguana en La Yesca
+    url: https://nnc.mx/articulo/aseguran-1910-kilos-de-presunta-mariguana-en-la-yesca
+    publisher: NNC.MX
+    date: 2026-11-15
+    language: es
+open_questions:
+  - The marijuana was described only as presumed marijuana and a green herb with similar characteristics; no laboratory confirmation was reported.
+  - The weight is stated as approximate (unos 1,910 kilos), not an exact measured weight.
+  - No arrests, charges or suspects were reported for this seizure.
+  - The attribution of the drug to the Cartel Jalisco Nueva Generación is the military commands' account as relayed by the outlet.
+  - The account rests on a single opened outlet relaying the V Military Region and 13th Military Zone statement; no second independent report was found.
+  - The 138,462 kilograms cited as seized during the current administration and the separate October eradication and April camp actions in La Yesca are context, not part of this event's figures.
+---
+
+The Guardia Nacional and the Mexican Army seized about 1,910 kilograms of
+suspected marijuana in Puente de Camotlán, in the municipality of La Yesca,
+Nayarit. [@1] The commands of the V Military Region and the 13th Military Zone
+said personnel made the seizure during surveillance patrols and ground
+reconnaissance. [@1] The seized material was described as about 1,910 kilograms
+of a green herb with characteristics similar to marijuana and as belonging to
+the Cartel Jalisco Nueva Generación. [@1]
+
+The operation was coordinated with the Navy and Nayarit's state security
+ministry and had the accompaniment of the Navy and the Nayarit state police.
+[@1] The seizure took place on 15 November 2026 in the locality of Puente de
+Camotlán, municipality of La Yesca. [@1] What was seized was placed at the
+disposal of the federal prosecutor's office in Tepic for investigation and
+expert analysis. [@1]
+
