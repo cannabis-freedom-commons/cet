@@ -55,17 +55,15 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-16
     language: hi
-open_questions:
-  - 13 November 2026 is inferred from Amar Ujala's statement that Salman was arrested on Friday before its 15 November 2026 publication; no calendar date for the arrest was stated.
-  - The 3.5 kg was described as Thai ganja with no laboratory confirmation or net-versus-gross weight stated.
-  - No charges, detention measure or court outcome were reported; the case was described as under further investigation.
-  - The 5.5 kg of white heroin reported alongside the cannabis is excluded from the cannabis figures as a non-cannabis seizure.
-  - The three Hindi accounts reproduce the Narcotics Control Bureau's account and are not independent reporting.
+  - title: Indian national arrested at TIA with 5.5 kilos of heroin | The Farsight Nepal
+    url: https://farsightnepal.com/news/indian-national-arrested-at-tia-with-55-kilos-of-heroin/
+    publisher: Farsight
+    date: 2026-11-15
 ---
 
 Nepal's Narcotics Control Bureau arrested 22-year-old Uttar Pradesh resident
 Salman at Tribhuvan International Airport in Kathmandu with 3.5 kg of Thai
-ganja. [@1] Amar Ujala places Salman's arrest on Friday at the same airport with
+ganja. [@1,4] Amar Ujala places Salman's arrest on Friday at the same airport with
 3.5 kg of Thai ganja, corresponding to 13 November 2026. [@2] Salman had reached
 Kathmandu from Delhi by air. [@1] Nepal's Narcotics Control Bureau disclosed
 both airport cases at a press briefing on Sunday. [@2]
@@ -80,5 +78,4 @@ the case and the possible trafficking network. [@3]
 Investigating agencies are working to trace for whom the consignments were
 brought and who else is involved in the trafficking network behind them. [@2]
 The same reports describe a separate 5.5 kg white-heroin seizure from another
-Indian at the same airport, which is excluded from the cannabis figures. [@2]
-
+Indian at the same airport, which is excluded from the cannabis figures. [@2,4]
