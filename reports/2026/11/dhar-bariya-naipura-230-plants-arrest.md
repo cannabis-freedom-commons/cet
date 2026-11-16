@@ -79,21 +79,26 @@ sources:
     publisher: Krishak Jagat
     date: 2026-11-16
     language: hi
+  - title: 'मप्र: धार जिले में 1.74 करोड़ से अधिक कीमत के गांजे के 230 हरे पौधे जब्त, आरोपी गिरफ्तार'
+    url: https://vocaltv.in/national/mp-230-live-cannabis-plants-valued-rs-174-crore-sephp/cid19534870.htm
+    publisher: Vocal TV
+    date: 2026-11-15
+    language: hi
 ---
 
 Dhar police raided a field in Bariya Naipura village in the Manawar
 police-station area after an informant told Umarban outpost police that cannabis
-was being illegally cultivated there. [@1,2,3,4] Umarban outpost police received the informant tip on 13 November. [@3] Officers searched the field and found
+was being illegally cultivated there. [@1,2,3,4,5] Umarban outpost police received the informant tip on 13 November. [@3] Officers searched the field and found
 230 live cannabis plants growing mixed between cotton and tuar (pigeon pea)
-crops, which they formally seized. [@1,2,3,4] Police arrested the field owner,
-36-year-old Dinesh Muvel of Badiya village, at the scene. [@1,2]
+crops, which they formally seized. [@1,2,3,4,5] Police arrested the field owner,
+36-year-old Dinesh Muvel of Badiya village, at the scene. [@1,2,5]
 
-The seized plants weighed 698 kg in total, reported as 6 quintals 98 kg. [@1,2,3,4]
+The seized plants weighed 698 kg in total, reported as 6 quintals 98 kg. [@1,2,3,4,5]
 Police estimated their value at 17,450,000 rupees, reported as 1 crore 74 lakh
-50 thousand rupees. [@1,2,3,4]
+50 thousand rupees. [@1,2,3,4,5]
 
 The action was carried out under Operation Prahar by Manawar and Umarban police
 under the direction of Dhar superintendent of police Sachin Sharma, as briefed
-by police headquarters on Sunday. [@1] Police registered a case against the
+by police headquarters on Sunday. [@1,5] Police registered a case against the
 accused under the NDPS Act and said further legal proceedings were under way.
-[@1,2,3,4]
+[@1,2,3,4,5]
