@@ -44,6 +44,11 @@ media:
     media_url: https://www.union.sonapresse.com/sites/default/files/articles/500_cuisses_de_cannabis_Saisis_LUnionga_Gabon.webp
     publisher: L'Union
     caption: 'Part of the cannabis stock seized in the joint security forces operation, in the photo published with the L''Union account. Photo: L''Union'
+  - kind: photo
+    url: https://gabonmediatime.com/bitam-pres-de-500-cuisses-de-cannabis-interceptees-par-les-forces-de-securite/
+    media_url: https://gabonmediatime.com/wp-content/uploads/2026/11/Gabon-Gabonmediatime_Cannabis.jpg
+    publisher: Gabon Media Time
+    caption: 'Bundles of cannabis seized in Bitam. Photo: D.R.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 757a2bca6d9768d31ff4c1f600bec511
@@ -59,6 +64,11 @@ sources:
     publisher: L'Union
     date: 2026-11-12
     language: fr
+  - title: 'Bitam : près de 500 cuisses de cannabis interceptées par les forces de sécurité'
+    url: https://gabonmediatime.com/bitam-pres-de-500-cuisses-de-cannabis-interceptees-par-les-forces-de-securite/
+    publisher: Gabon Media Time
+    date: 2026-11-15
+    language: fr
 open_questions:
     - The accounts give no separate date for the operation; 10 November 2026, the first publication date, is used as the incident date.
     - No total number of detained suspects was published, so no arrest figure is recorded.
@@ -71,12 +81,12 @@ open_questions:
 
 Multiple Gabonese security and intelligence services carried out a special
 operation in Woleu-Ntem province against drug-trafficking and
-clandestine-immigration networks. [@1,2] The operation involved agents of the
+clandestine-immigration networks. [@1,2,3] The operation involved agents of the
 Directorate General of Research, the B2, the immigration directorate, the
-Central Anti-Drug Office and the Directorate General of Special Services. [@1,2]
+Central Anti-Drug Office and the Directorate General of Special Services. [@1,2,3]
 In the Far-west quarter of Bitam, investigators detained several suspected
 participants including a woman close to 70 who acknowledged selling cannabis for
-17 years and a 22-year-old secondary-school student. [@1,2]
+17 years and a 22-year-old secondary-school student. [@1,2,3]
 
 In Bitam, notably in the Méyo-Kyé district, investigators found cannabis
 cultivated, packaged and stored near dwellings inside plantations before sale.
@@ -84,14 +94,14 @@ cultivated, packaged and stored near dwellings inside plantations before sale.
 while the suspected female owner fled after indirectly acknowledging the facts
 through her son. [@1,2] Searches continued for the suspected plantation owner. [@2] Overall, the services seized nearly 500 cannabis bundles
 and detained several people suspected of supplying the cross-border distribution
-network. [@1]
+network. [@1,3]
 
 Prosecutor Léance Mba Mihindou of the specialized national prosecution office
 said the seizure was valued at about 16 million CFA francs on the Oyem side and
 declared a zero-tolerance policy on narcotics. [@1,2] The prosecutor said the operation would continue in other provinces to track the networks where they hide. [@2] Investigators also suspected
 a couple of a Gabonese woman and a Cameroonian man of drug dealing and illicit
 ammunition sales through a circuit linking Méyo-Kyé, Kiossi in Cameroon and
-Equatorial Guinea. [@1,2] The services said networks had shifted part of their
+Equatorial Guinea. [@1,2,3] The services said networks had shifted part of their
 activity inland as the Greater Libreville market dried up, and praised
 cooperation from local residents as essential to dismantling the clandestine
 circuits. [@1]
