@@ -1,0 +1,73 @@
+---
+code: 8D4FBC
+added_at: "2026-11-16T04:17:22.724674Z"
+date: 2026-11-15
+country: it
+place: Via Capo Passero, Trappeto, Catania
+coordinates: [37.5353, 15.0598]
+precision: locality
+type: arrest
+also: [seizure]
+title: 22-year-old arrested in Catania's Trappeto with 170 marijuana doses
+summary: >-
+  Carabinieri arrested a 22-year-old in Catania's Trappeto district and seized 170 doses of marijuana, 71 hidden under his jacket and 100 on a garage roof. The man, already known to police, was placed under an obligation to remain at home pending further proceedings.
+figures:
+  arrested: 1
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  activity: [possession, sale]
+  setting: [street]
+  charges: [possession of drugs for the purpose of dealing]
+  case_stage: investigation
+  date_precision: publication
+  region: Metropolitan City of Catania
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: f8353b758645bfdba5c7d6d517a89c1c
+tags: [trappeto, catania, sicily, marijuana, carabinieri]
+sources:
+  - title: 'Arrestato pusher nel quartiere Trappeto: trovato con 170 dosi di marijuana'
+    url: https://www.cataniatoday.it/cronaca/arrestato-pusher-trappeto-170-dosi-marijuana.html
+    publisher: CataniaToday
+    date: 2026-11-15
+    language: it
+open_questions:
+  - No weight for the 170 doses was published, so no cannabis weight is recorded.
+  - The seized material was described as marijuana before the announced laboratory analysis, with no confirmed result reported.
+  - The article gives no separate date for the arrest; 15 November 2026 is its publication date and is used as the incident date.
+  - Only one accessible source for this event was found.
+  - No name, plea or further court outcome beyond the obligation to remain at home was reported.
+---
+
+A 22-year-old man from Catania was arrested by Carabinieri of the Fontanarossa
+company operations unit in the Trappeto district on suspicion of possessing
+drugs for dealing. [@1] The operation followed information-led investigative
+activity that had already put the young man under investigators' scrutiny. [@1]
+During an anti-dealing service in Via Capo Passero, two Carabinieri teams kept
+watch on the area behind a building with makeshift structures used as garages
+and cellars. [@1]
+
+After a few minutes on stakeout, officers saw the 22-year-old, already known for
+previous judicial reports, approach a garage and take a bag from its roof and
+hide it under his jacket. [@1] When the Carabinieri intervened, he tried to flee
+but was stopped by the second team a few metres away. [@1]
+
+Officers seized a total of 170 doses of marijuana. [@1] The search found 71
+doses of marijuana hidden under his jacket and another 100 doses at the spot on
+the garage roof from which the bag had been taken. [@1] All the drugs were
+seized and will be analysed by the Catania provincial Carabinieri command's
+drug-analysis laboratory for technical tests ordered by the judicial authority.
+[@1]
+
+The 22-year-old was declared under arrest and, on the judicial authority's
+order, placed under an obligation to remain at his dwelling. [@1]
+
