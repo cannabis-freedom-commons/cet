@@ -60,12 +60,19 @@ sources:
     publisher: Malatya Güncel
     date: 2026-11-16
     language: tr
+  - title: Yozgat'ta operasyonda 701 uyuşturucu hap ele geçirildi, 2 şüpheli gözaltına alındı - Haberler
+    url: https://www.haberler.com/guncel/yozgat-ta-operasyonda-701-uyusturucu-hap-ele-20432177-haberi/
+    publisher: Haberler
+    date: 2026-11-16
+    language: tr
+open_questions:
+  - Accounts differ on whether the cannabis amount is 35 grams or 35.52 grams.
 ---
 
 Yozgat Provincial Police Directorate narcotics teams carried out two separate
 operations in Yozgat city centre as part of work to prevent drug dealing and
 use. [@1] Officers detained two suspects identified as S.U. and İ.S. in the
-operations. [@3] Proceedings were started against both suspects for
+operations. [@3,5] Proceedings were started against both suspects for
 manufacturing and trading narcotic or stimulant drugs under Article 188 of the
 Turkish Penal Code. [@3]
 
@@ -73,7 +80,7 @@ A search of a vehicle in use and of its occupants found 63 synthetic pills
 alongside 35.52 grams of esrar. [@1,4] A separate search of S.U.'s home found 638
 synthetic pills. [@3] Police gave the combined result of the two operations as
 701 synthetic pills and 35.52 grams of esrar, with two suspects facing legal
-proceedings. [@1]
+proceedings. [@1,5]
 
 The two detainees' procedures at the police station were continuing, with no
 court outcome reported. [@2] The reports describe the pills as synthetic ecza or
