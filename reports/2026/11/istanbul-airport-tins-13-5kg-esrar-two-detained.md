@@ -59,15 +59,15 @@ sources:
     publisher: Hürriyet
     date: 2026-11-15
     language: tr
-open_questions:
-  - The material was described only as esrar, with no laboratory confirmation reported.
-  - DHA names a woman and a man while the Anadolu Agency account describes two women passengers; the report does not resolve the discrepancy.
-  - No value estimate, charge or court outcome was reported; the case was at the investigation stage.
-  - The 13.512 kg total is the sum of 12.226 kg in 73 cans and 1.286 kg in four shoe soles in the detailed account.
+  - title: İstanbul Havalimanı'nda konserve kutularında 13.5 kilo esrar bulundu
+    url: https://www.habererk.com/haber/istanbul-havalimani-nda-konserve-kutularinda-13-5-kilo-esrar-bulundu_361485/
+    publisher: Habererk
+    date: 2026-11-15
+    language: tr
 ---
 
 Istanbul narcotics teams detained two Tunisian nationals, Najla Ben Abdallah and
-Montassar Mosbehı, in an operation at Istanbul Airport. [@1] The two suspects
+Montassar Mosbehı, in an operation at Istanbul Airport. [@1,4] The two suspects
 were stopped after arriving on a flight from Casablanca, Morocco, on 14
 November, and were described in one account as two women passengers. [@3] The
 operation was run by the Istanbul police narcotics division as part of work
@@ -81,6 +81,5 @@ The search was carried out under a search order obtained from the Gaziosmanpaşa
 Chief Public Prosecutor's Office after a tip-off. [@2] Police said the suspects
 tried to bring the cannabis into Türkiye and took them into custody. [@2]
 Officers also seized money and mobile phones found on the suspects for
-examination. [@1] The suspects were expected to be brought before the
+examination. [@1,4] The suspects were expected to be brought before the
 Gaziosmanpaşa prosecution on 15 November as the investigation continued. [@2]
-
