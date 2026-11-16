@@ -76,6 +76,10 @@ sources:
     publisher: BRA 1
     date: 2026-11-16
     language: pt
+  - title: UK Court Jails 74-Year-Old Man For Importing 33kg Cannabis Worth £100,000 From Thailand | Sahara Reporters
+    url: https://saharareporters.com/2026/11/16/uk-court-jails-74-year-old-man-importing-33kg-cannabis-worth-ps100000-thailand
+    publisher: Sahara Reporters
+    date: 2026-11-16
 ---
 
 Jack Debson, 74, of Brownbill Bank, Liverpool, was jailed for three years at
@@ -84,17 +88,17 @@ of a prohibition on the importation of a class B drug, namely cannabis. [@1,2,3]
 Border Force officers stopped Debson in Terminal 2 at Manchester Airport on 11
 June 2026 after he arrived on a flight from Thailand via Dubai. [@1,2,3] When the
 first suitcase was opened, black vacuum-sealed packages containing the class B
-drug were found under a towel. [@1] More vacuum-sealed packages containing drugs
+drug were found under a towel. [@1,4] More vacuum-sealed packages containing drugs
 were found under another towel in the second suitcase. [@1] In total, the
-cannabis found weighed 33.25 kilos with a street value of £100,000. [@1,2,3]
+cannabis found weighed 33.25 kilos with a street value of £100,000. [@1,2,3,4]
 
 Debson at first denied the drugs found in his suitcases had anything to do with
-him. [@1] He told officers he had packed both suitcases himself and that they
+him. [@1,4] He told officers he had packed both suitcases himself and that they
 contained no contraband, only clothes. [@1] When he was arrested he denied the
 offence, but four days before his trial he changed his plea, saying he had acted
 under direction for a £3,000 fee. [@1,3] Debson had seven sets of previous
 convictions for eleven offences, including a five-year prison sentence in
-October 2011 for cultivating cannabis. [@1] He received a further 13-month
+October 2011 for cultivating cannabis. [@1,4] He received a further 13-month
 prison sentence the following year for production of cannabis. [@1] In
 mitigation, James Hudson said Debson was in poor health with heart problems and
 high blood pressure. [@1] Hudson said there was a realistic prospect of
