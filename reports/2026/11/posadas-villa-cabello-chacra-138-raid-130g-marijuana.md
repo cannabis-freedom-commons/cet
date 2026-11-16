@@ -49,6 +49,11 @@ sources:
     publisher: Noticiasdel6.com
     date: 2026-11-15
     language: es
+  - title: Allanaron una narcovivienda en Villa Cabello de Posadas y secuestraron marihuana y elementos vinculados a la venta de drogas
+    url: https://radiocataratas.com/2026/11/15/allanaron-una-narcovivienda-en-villa-cabello-de-posadas-y-secuestraron-marihuana-y-elementos-vinculados-a-la-venta-de-drogas/
+    publisher: Radio Cataratas
+    date: 2026-11-15
+    language: es
 open_questions:
   - No arrest was reported; the identified suspects were not found in the dwelling and remained sought.
   - 14 November 2026 is inferred as the Saturday about 21:20 before the 15 November 2026 publication; no calendar date for the raid was stated.
@@ -58,19 +63,18 @@ open_questions:
 ---
 
 Misiones police raided a home in the Villa Cabello neighbourhood of Posadas as
-part of an investigation into suspected drug sales. [@1] The joint operation was
+part of an investigation into suspected drug sales. [@1,2] The joint operation was
 carried out by the Infantry Guard Directorate and the Dangerous Drugs unit of
 Regional Unit I. [@1] The search took place at about 21:20 on Saturday in an
 apartment in Chacra 138, ordered by the Federal Justice in a case under National
-Narcotics Law No. 23.737. [@1]
+Narcotics Law No. 23.737. [@1,2]
 
 Officers seized two marijuana wrappers weighing 109 and 21 grams, a precision
 scale and a Motorola G-06 phone belonging to the partner of one of the people
-under investigation. [@1] Police valued the seized substance at about half a
-million pesos. [@1]
+under investigation. [@1,2] Police valued the seized substance at about half a
+million pesos. [@1,2]
 
 The people implicated had already been identified but were not found in the
 dwelling when it was raided, and investigators and Dangerous Drugs officers
-remained deployed to capture them. [@1] Proceedings continued under the
+remained deployed to capture them. [@1,2] Proceedings continued under the
 intervention of the Federal Justice. [@1]
-
