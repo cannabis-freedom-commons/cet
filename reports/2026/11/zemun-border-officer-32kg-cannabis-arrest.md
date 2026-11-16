@@ -48,6 +48,11 @@ sources:
     publisher: RTS
     date: 2026-11-15
     language: sr
+  - title: Ухапшен припадник Граничне полиције са око 30 килограма марихуане
+    url: https://www.politika.rs/scc/clanak/803055/uhapsen-pripadnik-granicne-policije-sa-oko-30-kilograma-marihuane
+    publisher: Politika Online
+    date: 2026-11-15
+    language: sr
 open_questions:
   - No separate time for the operation was given; 15 November 2026, the date of the prosecutor's statement and publication, is used as the incident date.
   - Both amounts were reported only as approximate, about 30 kilograms plus about two kilograms, with no laboratory confirmation reported.
@@ -57,19 +62,18 @@ open_questions:
 
 Two people were arrested on the order of the Higher Public Prosecutor's Office
 in Belgrade on suspicion of taking part in drug trafficking, including a member
-of the Border Police Administration. [@2] Those arrested were 22-year-old I. C.
+of the Border Police Administration. [@2,3] Those arrested were 22-year-old I. C.
 from Prijepolje, employed in the Border Police Administration, and 55-year-old
 D. K., on suspicion of unauthorised production and circulation of narcotic
 drugs. [@2] Early reporting identified the 22-year-old as I. C., employed in the
-Border Police at the Gostun crossing on the border with Montenegro. [@1]
+Border Police at the Gostun crossing on the border with Montenegro. [@1,3]
 
 Officers of the Interior Ministry's Department for Control of Legality arrested
 the suspects during an attempted handover of about 30 kilograms of cannabis in
 the municipality of Zemun. [@2] A search of the suspected handover location
 found about two kilograms more cannabis. [@2] The first account described the
 seizure as a bag with about 30 kilograms of marijuana taken from the 22-year-old
-man from Prijepolje. [@1]
+man from Prijepolje. [@1,3]
 
 The suspects were ordered held for up to 48 hours before being brought for
 questioning at the Higher Public Prosecutor's Office in Belgrade. [@2]
-
