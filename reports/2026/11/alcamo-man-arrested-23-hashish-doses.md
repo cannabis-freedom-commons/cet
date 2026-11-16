@@ -48,23 +48,41 @@ sources:
     publisher: GrandangoloAgrigento
     date: 2026-11-16
     language: it
+  - title: 'Alcamo, trovato con 23 dosi di hashish: arrestato un uomo -VIDEO-'
+    url: https://www.vrsicilia.it/alcamo-trovato-con-23-dosi-di-hashish-arrestato-un-uomo-video/
+    publisher: VRSicilia (Video Regione)
+    date: 2026-11-16
+    language: it
+media:
+  - kind: video
+    url: https://www.vrsicilia.it/alcamo-trovato-con-23-dosi-di-hashish-arrestato-un-uomo-video/
+    media_url: https://www.vrsicilia.it/wp-content/uploads/sites/4/2026/11/16112026_081820_Alcamo.mp4
+    publisher: VRSicilia
+    caption: VRSicilia's own video report on the Alcamo hashish arrest, embedded in the article under the title '16112026_081820_Alcamo'.
+open_questions:
+    - No weight for the 23 hashish doses was published, so no cannabis weight is recorded.
+    - The man was not identified by name or age in the article.
+    - No separate date for the patrol, arrest or home search was given; 16 November 2026 is the publication date and is used as the incident date.
+    - The type of precautionary measure ordered by the preliminary investigations judge was not specified.
+    - No plea, trial outcome or laboratory confirmation was reported.
+    - Both published accounts appear to rest on the same Guardia di Finanza statement, so no independent confirmation of the seizure was found.
 ---
 
 Guardia di Finanza officers in Alcamo arrested a man found with 23 individually
-wrapped doses of hashish believed intended for sale. [@1,2,3] The operation was
+wrapped doses of hashish believed intended for sale. [@1,2,3,4] The operation was
 carried out by the Alcamo Company of the Guardia di Finanza as part of
 territorial checks against drug dealing and street crime in sensitive city
-areas. [@1] After the arrest in flagrante, the preliminary investigations judge
-placed him under a precautionary measure whose type was not specified. [@1,3]
+areas. [@1,4] After the arrest in flagrante, the preliminary investigations judge
+placed him under a precautionary measure whose type was not specified. [@1,3,4]
 
 Officers stopped the man during a patrol around Piazza della Repubblica after he
-appeared nervous on seeing them and tried to walk away. [@1,2,3] The street check
+appeared nervous on seeing them and tried to walk away. [@1,2,3,4] The street check
 recovered five individually packaged doses of hashish said to be ready for the
-dealing market. [@1,2,3] A subsequent search of his home found another 18 doses of
-the same substance, also in single packages. [@1,2,3]
+dealing market. [@1,2,3,4] A subsequent search of his home found another 18 doses of
+the same substance, also in single packages. [@1,2,3,4]
 
 Officers also found small plastic bags thought usable for packaging drugs and a
 knife the Guardia di Finanza said was used to cut the drug and prepare the
-doses. [@1] In total the operation seized 23 doses of hashish together with the
-packaging material found during the checks. [@1] On that basis the officers
-charged the man with possession of narcotics for the purpose of dealing. [@1]
+doses. [@1,4] In total the operation seized 23 doses of hashish together with the
+packaging material found during the checks. [@1,4] On that basis the officers
+charged the man with possession of narcotics for the purpose of dealing. [@1,4]
