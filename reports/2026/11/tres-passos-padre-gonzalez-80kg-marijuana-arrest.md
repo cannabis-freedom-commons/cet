@@ -57,6 +57,11 @@ sources:
     publisher: Santo Augusto Urgente
     date: 2026-11-14
     language: pt
+  - title: Mais de 80 quilos de maconha são apreendidos pela Brigada Militar
+    url: https://www.jornalnoroeste.com.br/noticia/policia/mais-de-80-quilos-de-maconha-sao-apreendidos-pela-brigada-militar
+    publisher: Jornal Noroeste
+    date: 2026-11-16
+    language: pt
 open_questions:
   - The exact weight was reported only as more than 80 kilograms, so 80 kg is recorded as a lower bound.
   - The reports give no names, ages or other identifiers for the two people arrested.
@@ -66,12 +71,12 @@ open_questions:
 
 In the early hours of Saturday 14 November 2026, the Tres Passos Brigada Militar
 arrested two people for drug trafficking in Padre Gonzales during Operation
-Cerco Fechado. [@1,3] The arrests occurred in Padre Gonzalez during Operation
+Cerco Fechado. [@1,3,4] The arrests occurred in Padre Gonzalez during Operation
 Cerco Fechado. [@2]
 
 Officers found and seized 102 bricks of marijuana totalling more than 80
-kilograms. [@1,3] Officers also seized two mobile phones. [@1,3]
+kilograms. [@1,3,4] Officers also seized two mobile phones. [@1,3,4]
 
-The two detainees were taken to the police station for legal procedures. [@1,3]
+The two detainees were taken to the police station for legal procedures. [@1,3,4]
 The operation was handled by Tactical Force military police officers of the 7th
 Military Police Battalion. [@1,3]
