@@ -56,28 +56,33 @@ sources:
     publisher: Concordia 24
     date: 2026-11-14
     language: es
+  - title: Estaba con prisión domiciliaria, recibió una condena y volvió a quedar detenido por drogas
+    url: https://despertarentrerriano.com/161810-2/
+    publisher: Despertar Entrerriano
+    date: 2026-11-15
+    language: es
 open_questions:
-  - 7 Páginas also ran a weapons-and-phones evidence photo with no marijuana visible, so that image is not listed as media.
-  - Concordia 24 also showed officers loading a seized Honda motorcycle onto a pickup, with no marijuana visible, so that image is not listed as media.
-  - The article published on 14 November 2026 dates the operation only to 'this Friday', so 13 November 2026 is used as the incident date.
-  - The 11 cocaine wrappers were reported without a weight, so only the separately stated 300 grams of marijuana is counted as cannabis.
-  - No laboratory confirmation for the marijuana was reported.
-  - No amount was given for the Argentine cash seized, so no cash value is recorded.
-  - Only one accessible account of these raids was found after searching in Spanish.
-  - It is unclear whether Carrera had already been transferred to a federal prison unit or was still awaiting transfer.
+    - 7 Páginas also ran a weapons-and-phones evidence photo with no marijuana visible, so that image is not listed as media.
+    - Concordia 24 also showed officers loading a seized Honda motorcycle onto a pickup, with no marijuana visible, so that image is not listed as media.
+    - The article published on 14 November 2026 dates the operation only to 'this Friday', so 13 November 2026 is used as the incident date.
+    - The 11 cocaine wrappers were reported without a weight, so only the separately stated 300 grams of marijuana is counted as cannabis.
+    - No laboratory confirmation for the marijuana was reported.
+    - No amount was given for the Argentine cash seized, so no cash value is recorded.
+    - The Despertar Entrerriano account credits Concordia Policiales and gives no drug weights, weapons or additional addresses, so the 300-gram figure, firearms and four-raid scope still rest on the earlier accounts.
+    - The Despertar Entrerriano account says Carrera was due for transfer to Penal Unit No. 8 on 2 December but was re-detained beforehand, while an earlier account said he was transferred that same Friday, so whether any transfer occurred remains unclear.
 ---
 
 Police in Concordia detained a 42-year-old man and a 38-year-old woman after
-four simultaneous house raids carried out on Friday evening. [@1,2] The detainees were identified as Sabrina Angélica López, 38, known as “La Chicha”, and Ricardo Carrera, 42, alias “Bocha”. [@2] Both detainees
-were already serving house arrest in an earlier drug case. [@1,2] López had been detained about two weeks earlier in another police procedure in which cocaine wrappers were also seized from her. [@2] The raids were
-ordered in an investigation that began with a complaint about threats. [@1,2] The raids were carried out under orders issued by guarantees judge Francisco Ledesma. [@2] The investigation was handled by officers of the station led by commissary David Ortiz. [@2]
+four simultaneous house raids carried out on Friday evening. [@1,2] The detainees were identified as Sabrina Angélica López, 38, known as “La Chicha”, and Ricardo Carrera, 42, alias “Bocha”. [@2,3] Both detainees
+were already serving house arrest in an earlier drug case. [@1,2,3] The dwelling authorised for Carrera's house arrest was at La Pampa and Souza Reilly, different from where he was found. [@3] López had been detained about two weeks earlier in another police procedure in which cocaine wrappers were also seized from her. [@2] The raids were
+ordered in an investigation that began with a complaint about threats. [@1,2] The raids were carried out under orders issued by guarantees judge Francisco Ledesma. [@2] The investigation was handled by officers of the station led by commissary David Ortiz. [@2,3]
 Police say the couple had entered a home and allegedly threatened its owners
 with firearms in a long-standing dispute. [@1]
 
 The raids targeted homes at Córdoba and 56, Souza Reilly and La Pampa, and
 Liberman and Los Naranjeros, among other points. [@1] Officers found two large
 wrappers of marijuana weighing about 300 grams, plus 11 wrappers of cocaine.
-[@1] They seized a 9 mm Bersa Thunder pistol with three magazines and 54 rounds.
+[@1] Officers also found cocaine stones alongside cocaine wrappers and marijuana wrappers. [@3] They seized a 9 mm Bersa Thunder pistol with three magazines and 54 rounds.
 [@1] In another home they found a 12/70 Stoppin Power shotgun with 24 PG
 cartridges and four AT cartridges. [@1] Police also took six cell phones, a
 precision scale, nylon cuttings and scissors. [@1] The operation also yielded a
@@ -86,6 +91,6 @@ Chilean-peso bill and three one-dollar bills. [@1]
 
 Prosecutor Natalia Conti ordered the two apprehensions. [@1,2] The 42-year-old man
 was transferred to Penal Unit No. 8 in Federal after a four-year-six-month
-prison sentence became final that same Friday. [@1] Carrera's sentence that same Friday was for simple possession of narcotics. [@2] The investigation continues
+prison sentence became final that same Friday. [@1] Carrera had been due to be transferred on 2 December to Federal Prison Unit No. 8 to begin serving the sentence, but was re-detained beforehand in a new drug case. [@3] Carrera's sentence that same Friday was for simple possession of narcotics. [@2,3] The conviction stemmed from an 8 November 2025 incident in which Carrera held 51 grams of cocaine in a dwelling at Isthilart and Souza Reilly. [@3] The sentence was homologated by judge Mariano Caprarulo after an agreement between prosecutor Fabio Zabaleta, who led the investigation, and defence lawyer Daniel Cedro. [@3] The 4-year-6-month sentence was imposed that same Friday in an abbreviated trial. [@3] The investigation continues
 to determine responsibility and the origin of the weapons, ammunition and drugs.
 [@1]
