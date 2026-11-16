@@ -53,18 +53,23 @@ sources:
     url: https://reporteri.net/en/NEWS/Police-crack-down-on-cocaine-gang-in-Pristina--arrest-6-people-and-seize-assets-worth-over-300-thousand-euros/
     publisher: Gazeta Online Reporteri.net
     date: 2026-11-15
+  - title: Бивш министър на Косово е задържан при акция за кокаин
+    url: https://fakti.bg/world/1101241-bivsh-ministar-na-kosovo-e-zadarjan-pri-akcia-za-kokain
+    publisher: Fakti.bg
+    date: 2026-11-16
+    language: bg
 ---
 
 Kosovo Police arrested former culture minister Astrit Haraqija in Operation
 Silence in the Pristina region, an operation against a group suspected of
-trafficking and distributing narcotics. [@2] Six suspects were arrested in the
+trafficking and distributing narcotics. [@2,4] Six suspects were arrested in the
 raids on several locations and one person was released under regular procedure.
-[@1,3] Operation Silence was carried out on Saturday 14 November 2026. [@1,3]
+[@1,3,4] Operation Silence was carried out on Saturday 14 November 2026. [@1,3,4]
 Haraqija was interrogated over a drug offence and ordered held for 48 hours.
 [@1]
 
 His flat was searched after midnight, his telephones and some money were seized,
-and his lawyer said the search found nothing incriminating. [@1] His lawyer said
+and his lawyer said the search found nothing incriminating. [@1] Haraqija's lawyer Korab Bokshi confirmed the detention and said only telephones and money described as his children's savings were seized. [@4] His lawyer said
 they had appealed to the pre-trial judge to challenge the detention order. [@1]
 The operation was carried out by the Directorate for the Investigation of
 Narcotics Trafficking with the Kosovo Intelligence Agency. [@2,3] Police seized
