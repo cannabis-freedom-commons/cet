@@ -55,18 +55,22 @@ sources:
     url: https://www.suffolknews.co.uk/bury-st-edmunds/news/police-officers-seize-2-5kg-of-cannabis-in-intercepted-parce-9491409/
     publisher: Suffolk News
     date: 2026-11-15
+  - title: 2.5kg cannabis parcel linked to Suffolk and Essex seized as it entered country - Yahoo News UK
+    url: https://uk.news.yahoo.com/2-5kg-cannabis-parcel-linked-090000398.html
+    publisher: Yahoo News UK
+    date: 2026-11-15
 ---
 
 A cannabis parcel linked to Suffolk and Essex was seized. [@1] Officers from
 Town Centre Team West seized the drugs after the parcel entering the country was
-intercepted. [@1,2] A police spokesman described the seizure as another example of
+intercepted. [@1,2,4] A police spokesman described the seizure as another example of
 proactive policing targeting those involved in the importation and distribution
-of controlled drugs. [@1,3] The spokesman also said police remained committed to
+of controlled drugs. [@1,3,4] The spokesman also said police remained committed to
 identifying offenders and protecting communities from the harm caused by illegal
 drugs. [@1]
 
 About 2.5kg of cannabis was seized after a parcel linked to Suffolk and Essex
-was intercepted as it entered the country. [@1,2,3] The parcel, which was entering
+was intercepted as it entered the country. [@1,2,3,4] The parcel, which was entering
 the country, was then intercepted. [@1] The quantity was also given as around
 2.5kg in the intercepted parcel entering the country and linked to Suffolk and
 Essex. [@1]
