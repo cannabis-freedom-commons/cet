@@ -100,6 +100,11 @@ sources:
     publisher: Questura di Caserta - Polizia di Stato
     date: 2026-11-14
     language: it
+  - title: 'Castel Volturno, oltre 11 chili di droga in casa: arrestato un 31enne'
+    url: https://www.lostrillone.tv/news/cronaca/531036/castel-volturno-oltre-11-chili-di-droga-in-casa-arrestato-un-31enne.html
+    publisher: Lo Strillone TV
+    date: 2026-11-14
+    language: it
 ---
 
 Officers of the investigative squad of the Castel Volturno police station
@@ -107,14 +112,14 @@ arrested a man in the act and took more than eleven kilograms of drugs off the
 local market. [@1] Police in Caserta dismantled what they described as a genuine
 drug store inside a private home on the afternoon of 13 November 2026. [@1] The
 man arrested is a 31-year-old local already known to investigators, accused of
-possessing drugs with intent to deal. [@1,7,11] The operation capped targeted
+possessing drugs with intent to deal. [@1,7,11,12] The operation capped targeted
 investigative work against dealing in the Domizio area, backed on the ground by
-dog units brought in from Naples and Ladispoli. [@1,8]
+dog units brought in from Naples and Ladispoli. [@1,8,12]
 
 Once the suspected storage point was identified, officers entered the
 31-year-old's property and carried out a home search. [@1] Inside the flat they
 found a large mixed load of about 6.2 kilos of hashish, 3.4 kilos of marijuana
-and 1.6 kilos of cocaine. [@1,5,6,7,8,9,10] A precision scale and everything needed to cut
+and 1.6 kilos of cocaine. [@1,5,6,7,8,9,10,12] A precision scale and everything needed to cut
 and package individual doses was kept alongside the drugs. [@1] CasertaFocus
 reports the same breakdown of about 6.2 kilograms of hashish, 3.4 kilograms of
 marijuana and 1.6 kilograms of cocaine, over 11 kilograms in total. [@2]
