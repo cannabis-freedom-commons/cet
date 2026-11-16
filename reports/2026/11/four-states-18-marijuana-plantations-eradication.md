@@ -43,6 +43,11 @@ media:
     media_url: https://www.sopitas.com/wp-content/uploads/2026/11/ejercito-destruye-38-plantios-golpe-narco.webp
     publisher: Sopitas.com
     caption: 'Defence handout photo published with the report on the destruction of the 38 plantations. Photo: Defensa'
+  - kind: photo
+    url: https://puentelibre.mx/local/destruccion-plantios-marihuana-amapola-chihuahua-ejercito-mexicano/
+    media_url: https://static.tiempo.com.mx/uploads/imagen/imagen/826039/principal_destruccion-plantios-marihuana-amapola-chihuahua-ejercito-mexicano.jpg
+    publisher: Puente Libre
+    caption: Photo published with the report on the destruction of the marijuana and poppy plantations in Chihuahua and three other states.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b185f8ddf05ab00236ec11965cf8dc8e
@@ -113,21 +118,26 @@ sources:
     publisher: INFO7
     date: 2026-11-14
     language: es
+  - title: "Destruyó Ejército plantíos de marihuana y amapola en Chihuahua\U0001F3A6"
+    url: https://puentelibre.mx/local/destruccion-plantios-marihuana-amapola-chihuahua-ejercito-mexicano/
+    publisher: Puente Libre
+    date: 2026-11-14
+    language: es
 open_questions:
   - The per-crop areas newly reported (3.46 hectares of poppy and 0.83 hectares of marijuana) add up to 4.29 hectares, less than the 4.9-hectare total given for the same operation, with no explanation reported.
 ---
 
 The operations were carried out on 13 November 2026 through ground and air
-reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6,7,9,10,11,13] Soldiers
+reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6,7,9,10,11,13,14] Soldiers
 of the Mexican Army and Air Force located and destroyed 38 drug plantations in
-four states as part of operations against narcotics production. [@3,4,5,6,8,9,10,11,12,13] The crops were destroyed by incineration and aerial fumigation. [@12] Of the 38
+four states as part of operations against narcotics production. [@3,4,5,6,8,9,10,11,12,13,14] The crops were destroyed by incineration and aerial fumigation. [@12] Of the 38
 plantations, 20 were poppy crops and 18 were marijuana crops, together covering
-4.9 hectares. [@3,5,6,7,9,10,11,12,13] The 20 poppy plots covered 3.46 hectares and the 18 marijuana plots covered 0.83 hectares. [@12]
+4.9 hectares. [@3,5,6,7,9,10,11,12,13,14] The 20 poppy plots covered 3.46 hectares and the 18 marijuana plots covered 0.83 hectares. [@12]
 
 A Milenio Facebook post announced the destruction of 38 poppy and marijuana
 plantations in four states with the participation of the Army and the Air Force.
 [@1] Defence figures put the estimated economic damage to organised crime from
-destroying the crops at 6,020,000 pesos. [@3,4,5,6,7,8,9,10,11,13] The Defence Ministry confirmed the
+destroying the crops at 6,020,000 pesos. [@3,4,5,6,7,8,9,10,11,13,14] The Defence Ministry confirmed the
 operation on 14 November through its official channels. [@2]
 
 No arrests linked to the plantations and no criminal groups allegedly
