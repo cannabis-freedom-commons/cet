@@ -91,20 +91,26 @@ sources:
     publisher: Infobae
     date: 2026-11-14
     language: es
+  - title: Detienen a tres hombres en Venustiano Carranza; aseguran 15 kilos de presunta marihuana y más de 655 envoltorios de cocaína – Libertad Oaxaca
+    url: https://libertad-oaxaca.info/detienen-a-tres-hombres-en-venustiano-carranza-aseguran-15-kilos-de-presunta-marihuana-y-mas-de-655-envoltorios-de-cocaina/
+    publisher: Libertad Oaxaca
+    date: 2026-11-14
+    language: es
 open_questions:
   - The same article also describes a separate 12 November detention of three men for alleged kidnapping in colonia Merced Balbuena, a different event left out here.
+  - This page says 'more than 655' wrappers while the report uses the 655 figure given by the other accounts.
 ---
 
 Mexico City police detained three men in colonia Zona Centro in Venustiano
-Carranza. [@2,5,6,8] The detained men were identified as Ramón 'N', Marco 'N' alias El
-Vite and Luis 'N' alias Balú. [@4,6,8] La Crónica gives Ramón's full name as Ramón Bautista Hernández. [@5] The detained men are aged 23, 25 and 28. [@3,6] La Crónica maps the reported ages to the names: Ramón is 28, Marco Antonio alias Vite is 25, and Luis Ulises alias Balú is 23. [@5,7]
+Carranza. [@2,5,6,8,9] The detained men were identified as Ramón 'N', Marco 'N' alias El
+Vite and Luis 'N' alias Balú. [@4,6,8,9] La Crónica gives Ramón's full name as Ramón Bautista Hernández. [@5] The detained men are aged 23, 25 and 28. [@3,6] La Crónica maps the reported ages to the names: Ramón is 28, Marco Antonio alias Vite is 25, and Luis Ulises alias Balú is 23. [@5,7]
 Officers on patrol at the junction of José Joaquín Herrera and Bravo spotted the
 three men carrying a large plastic box and two black bags. [@3,5,6,8] The men tried to
 flee when they saw the police but were intercepted metres ahead. [@3,8]
 
-Officers seized 15 kilograms of apparent marijuana from the men. [@1,5,6,7,8] Officers
+Officers seized 15 kilograms of apparent marijuana from the men. [@1,5,6,7,8,9] Officers
 also seized 655 wrappers holding a powder with the characteristics of cocaine.
-[@3,5,6,7,8] The three men and the seized drugs were placed at the disposal of the
+[@3,5,6,7,8,9] The three men and the seized drugs were placed at the disposal of the
 Public Prosecutor's agent, which will open the investigation file and decide
 their legal situation. [@4,6]
 
