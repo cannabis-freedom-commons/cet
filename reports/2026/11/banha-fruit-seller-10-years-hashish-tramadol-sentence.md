@@ -54,33 +54,36 @@ sources:
     publisher: الأسبوع
     date: 2026-11-15
     language: ar
+  - title: السجن المشدد 10 سنوات لفكهاني بتهمة الاتجار في الحشيش والترامادول بالقليوبية
+    url: https://www.dostor.org/5778713
+    publisher: جريدة الدستور
+    date: 2026-11-16
+    language: ar
 open_questions:
-  - No weight was published for the 60 hashish pieces, so no cannabis weight is recorded.
-  - The 300 tramadol pills are not cannabis and are excluded from cannabis figures.
-  - No separate date for the verdict was published; 15 November 2026, the publication date, is used as the incident date.
-  - The amount of cash found with the defendant was not published.
-  - No appeal or enforcement of the sentence was reported.
-  - The verdict account rests on a single published report.
-  - Left out sentence types, as its quotation was not found in النهار.
+    - No weight was published for the 60 hashish pieces, so no cannabis weight is recorded.
+    - The 300 tramadol pills are not cannabis and are excluded from cannabis figures.
+    - No separate date for the verdict was published; 15 November 2026, the publication date of the earlier reports, is used as the incident date, while the new account was published on 16 November 2026.
+    - The amount of cash found with the defendant was not published.
+    - No appeal or enforcement of the sentence was reported.
 ---
 
 Banha Criminal Court's Second Circuit sentenced a fruit seller to 10 years of
 rigorous imprisonment and fined him 100,000 pounds after convicting him of
-dealing in hashish and tramadol in Banha, Qalyubia. [@1,2] The defendant is
+dealing in hashish and tramadol in Banha, Qalyubia. [@1,2,3] The defendant is
 54-year-old Mohamed N. M., a fruit seller living in Ezbet Zaki in Banha,
 prosecuted in case 4914 of 2026 on charges of possessing hashish and tramadol
-for trafficking without legal authorisation. [@1,2] The charge relates to 4 March
-2026 in the Banha district. [@1]
+for trafficking without legal authorisation. [@1,2,3] The charge relates to 4 March
+2026 in the Banha district. [@1,3]
 
 After the prosecution authorised his arrest and search, a security force went to
 his residence and arrested him near his home carrying a plastic bag and a cloth
-bag. [@1,2] The plastic bag held a sack containing 50 brown pieces of hashish,
+bag. [@1,2,3] The plastic bag held a sack containing 50 brown pieces of hashish,
 while the cloth bag held another sack with 10 pieces of the same drug plus three
-medicine packs holding 30 strips with a total of 300 tramadol pills. [@1]
-Officers also found a mobile phone and cash on him. [@1]
+medicine packs holding 30 strips with a total of 300 tramadol pills. [@1,3]
+Officers also found a mobile phone and cash on him. [@1,3]
 
 When confronted, he admitted possessing the drugs for trafficking, said the
 money came from that activity and that he used the phone to contact clients.
-[@1,2] The chemical laboratory confirmed the brown pieces contained the active
+[@1,2,3] The chemical laboratory confirmed the brown pieces contained the active
 ingredient of hashish listed in Table 1 of the drugs law, and that the 300 pills
-contained tramadol listed in Table 1. [@1]
+contained tramadol listed in Table 1. [@1,3]
