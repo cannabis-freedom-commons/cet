@@ -71,6 +71,11 @@ sources:
     publisher: G1
     date: 2026-11-16
     language: pt
+  - title: Casal é preso com 77 kg de drogas em fiscalização da PM, no interior de SP
+    url: https://www.itatiaia.com.br/brasil/sudeste/sp/casal-e-preso-com-77-kg-de-drogas-em-fiscalizacao-da-pm-no-interior-de-sp/
+    publisher: Rádio Itatiaia
+    date: 2026-11-16
+    language: pt
 media:
   - kind: photo
     url: https://marilianoticia.com.br/policia/rodoviaria-apreende-mais-de-77-kg-de-maconha-e-haxixe-em-posto-de-assis/
@@ -82,20 +87,18 @@ media:
     media_url: https://s2-g1.glbimg.com/C-dOwe5rC8xk1Fq8hrUMkEpD8T4=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/o/pMAFO2SzawTEFReLAYzg/novo-projeto-2026-11-16t071850.093.png
     publisher: G1
     caption: 'Car stopped in the fuel-station yard at km 451 of the SP-270 in Assis where the seizure occurred. Photo: Polícia Militar Rodoviária'
-open_questions:
-  - The maconha weight is published as both 77.5 kg and 77.55 kg.
 ---
 
 A Polícia Militar Rodoviária prendeu um homem e uma mulher em flagrante em
-Assis, no interior paulista. [@1,3,4,5] Segundo a Polícia Rodoviária, os dois presos não possuíam antecedentes criminais. [@3,4] A abordagem ocorreu na madrugada de
+Assis, no interior paulista. [@1,3,4,5,7] Segundo a Polícia Rodoviária, os dois presos não possuíam antecedentes criminais. [@3,4] A abordagem ocorreu na madrugada de
 segunda-feira (16) no pátio de um posto de serviços às margens da Rodovia Raposo
-Tavares (SP-270). [@1,3,4] A abordagem ocorreu por volta das 2h15 no km 451 da rodovia. [@3,5,6]
+Tavares (SP-270). [@1,3,4,7] A abordagem ocorreu por volta das 2h15 no km 451 da rodovia. [@3,5,6]
 
 Os policiais desconfiaram do carro estacionado na área do restaurante do posto e
 decidiram vistoriá-lo. [@2,3] O veículo era um Chevrolet Onix ocupado por um condutor e uma passageira, estacionado na baia de um restaurante. [@4,5] No porta-malas, a equipe encontrou 75 tabletes de
-maconha, que somaram 77,55 quilos, além de 201 gramas de haxixe. [@2,3,5,6] As drogas
-e o veículo foram apreendidos. [@1]
+maconha, que somaram 77,55 quilos, além de 201 gramas de haxixe. [@2,3,5,6,7] As drogas
+e o veículo foram apreendidos. [@1,7]
 
 O casal recebeu voz de prisão em flagrante por tráfico de drogas e foi levado à
 Central de Polícia Judiciária de Assis, onde permaneceu recluso à disposição da
-Justiça. [@2,3,4,5,6] A ocorrência foi realizada durante a Operação Fluminis Custus/Impacto e causou um prejuízo estimado de R$ 150 mil ao tráfico, segundo a polícia. [@3,5]
+Justiça. [@2,3,4,5,6,7] A ocorrência foi realizada durante a Operação Fluminis Custus/Impacto e causou um prejuízo estimado de R$ 150 mil ao tráfico, segundo a polícia. [@3,5]
