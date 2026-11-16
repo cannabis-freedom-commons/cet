@@ -43,26 +43,25 @@ sources:
     publisher: 24 Notícias
     date: 2026-11-15
     language: pt
-open_questions:
-  - The 196 hashish doses have no stated weight, so no cannabis weight is recorded.
-  - No charge beyond arguido status and no court outcome after the scheduled 16 November interrogation were reported.
-  - The two suspects are identified only by age and sex, with no names given.
-  - The 6,750 litres of petrol, 600 cigarettes, lighters, refills and chargers belong to the same stop and are excluded from cannabis figures.
-  - The account rests on one outlet report of the GNR action; no second accessible report of this stop was found.
+  - title: GNR detém duas pessoas na A2 em Grândola e apreende 6.750 litros de gasolina e droga - CNN Portugal
+    url: https://cnnportugal.iol.pt/grandola/droga/gnr-detem-duas-pessoas-na-a2-em-grandola-e-apreende-6-750-litros-de-gasolina-e-droga/20261115/6af98c8bd34e9ce6f1b4477d
+    publisher: CNN Portugal
+    date: 2026-11-15
+    language: pt
 ---
 
 Officers of the GNR National Traffic Unit and the Setúbal Traffic Detachment
 intercepted a Spanish-registered vehicle at kilometre 120 of the A2 motorway in
-Grândola at about 23:30 on Saturday 14 November. [@1] The car's two occupants, a
+Grândola at about 23:30 on Saturday 14 November. [@1,2] The car's two occupants, a
 23-year-old man and a 31-year-old woman, were detained and made arguidos, formal
-suspects under Portuguese procedure. [@1] Both remained detained until a first
+suspects under Portuguese procedure. [@1,2] Both remained detained until a first
 judicial interrogation set for 10h00 on Monday 16 November to set coercion
 measures. [@1]
 
 During the police follow-up officers found 196 doses of hashish, 600 cigarettes
 in 30 packs, 20 torch-type lighters, six boxes of lighter refills and six
-mobile-phone chargers. [@1] The GNR seized 270 petrol jerricans of 25 litres
-each during the Saturday 14 November road-traffic operation. [@1] The report
+mobile-phone chargers. [@1,2] The GNR seized 270 petrol jerricans of 25 litres
+each during the Saturday 14 November road-traffic operation. [@1,2] The report
 puts the total fuel load at 6,750 litres in the same vehicle on the A2 at
 Grândola. [@1] The light vehicle used by the suspects was also seized. [@1]
 
@@ -70,4 +69,3 @@ The GNR said petrol is highly flammable and moving large quantities must
 strictly follow dangerous-goods rules. [@1] It warned that an accident, spill or
 ignition could gravely harm the vehicle's occupants, other road users, property
 and the environment. [@1]
-
