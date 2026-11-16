@@ -72,6 +72,10 @@ sources:
     url: https://www.dcnewsnow.com/news/us-and-world/border-report-tour/chihuahua-police-seize-234-pounds-of-marijuana-vehicle-stolen-in-us/
     publisher: Border Report
     date: 2026-11-16
+  - title: Chihuahua police seize 234 pounds of marijuana, vehicle stolen in US | Border Report
+    url: https://fox56news.com/border-report/chihuahua-police-seize-234-pounds-of-marijuana-vehicle-stolen-in-us/
+    publisher: FOX 56 News
+    date: 2026-11-16
 open_questions:
     - No separate date for the operation was stated; 16 November 2026 is the publication date and stands in for the incident date.
     - The material was described as herb similar to marijuana or suspected marijuana, with no laboratory confirmation reported.
@@ -94,19 +98,19 @@ media:
 
 Chihuahua state police (SSPE) seized about 106.4 kilograms of marijuana,
 ammunition, magazines and two stolen vehicles on the road to Maguarichi, at the
-San Vicente junction. [@1,4,6,7,8] Agents found 10 transparent packages of dry green
-herb similar to marijuana at the spot. [@1,5,6,7,8] The packages weighed approximately
-106.4 kilograms. [@1,8]
+San Vicente junction. [@1,4,6,7,8,9] Agents found 10 transparent packages of dry green
+herb similar to marijuana at the spot. [@1,5,6,7,8,9] The packages weighed approximately
+106.4 kilograms. [@1,8,9]
 
 Officers also seized three magazines, two metal and one plastic, and 364 live
-cartridges. [@1,8] Of the cartridges, 340 were 7.62x51 calibre in two ammunition
+cartridges. [@1,8,9] Of the cartridges, 340 were 7.62x51 calibre in two ammunition
 belts and 24 were 7.62x39 calibre. [@1,7] In the same operation they found two
 stolen vehicles: a 2022 Mitsubishi L200 pickup reported stolen in Sonora since
 April 2022, and a 2021 Hyundai Kona reported stolen in the United States since
-June 2023. [@1,6,8]
+June 2023. [@1,6,8,9]
 
 The drugs, magazines, ammunition and vehicles were handed over to the competent
-authorities for further investigation. [@1,6,8] The SSPE, headed by secretary Luis
+authorities for further investigation. [@1,6,8,9] The SSPE, headed by secretary Luis
 Aguirre, said it maintains preventive patrols and surveillance in the region to
 detect crime and reinforce security in rural areas. [@1]
 
