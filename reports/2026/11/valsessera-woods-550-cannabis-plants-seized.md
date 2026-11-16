@@ -44,6 +44,11 @@ media:
     media_url: https://storage.ilbiellese.it/media/photologue/2026/11/16/photos/ritrovata-una-vasta-piantagione-di-marijuana-in-valsessera_69c6fba0-e1a9-11f1-8e3f-e9a46c9d3178_1920_1080.jpg
     publisher: Il Biellese
     caption: The seized cannabis cultivation in the Valsessera woods, in photos published with the report.
+  - kind: photo
+    url: https://www.rainews.it/tgr/piemonte/articoli/2026/11/piu-di-550-piante-di-marijuana-nascoste-nel-bosco-maxi-sequestro-in-valsessera-efa970d0-ca31-4d78-8430-4d0dafa949ec.html
+    media_url: https://www.rainews.it/cropgd/806x453/dl/img/2026/11/16/1794832330763_vastapiantagionecannabisscopertadaicarabinieri.jpg
+    publisher: RaiNews
+    caption: Cannabis plants seized by Carabinieri in the Valsessera operation, in the photo published with the report.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 48b242e63b77e2364fa350dc38a32fef
@@ -64,6 +69,11 @@ sources:
     publisher: Il Biellese
     date: 2026-11-16
     language: it
+  - title: 'Più di 550 piante di marijuana nascoste nel bosco: maxi sequestro in Valsessera'
+    url: https://www.rainews.it/tgr/piemonte/articoli/2026/11/piu-di-550-piante-di-marijuana-nascoste-nel-bosco-maxi-sequestro-in-valsessera-efa970d0-ca31-4d78-8430-4d0dafa949ec.html
+    publisher: RaiNews
+    date: 2026-11-16
+    language: it
 open_questions:
   - The reports say the discovery came in recent days but give no calendar date for the operation; 16 November 2026 is the publication date and stands in for the incident date.
   - The total is reported as over 550 plants, about 500 still in the ground plus about 50 already harvested, and is stored as 550.
@@ -74,7 +84,7 @@ open_questions:
 
 Carabinieri from the Masserano and Bioglio stations, with forestry Carabinieri
 units from Biella and Sordevolo, found an illegal cannabis cultivation in a
-steep woodland area reachable only on foot in a Valsessera municipality. [@3]
+steep woodland area reachable only on foot in a Valsessera municipality. [@3,4]
 The plantation was found and dismantled, and investigators are now hunting for
 the growers who planted it in the Valsessera woods. [@1] The seizure was made
 against unknown persons and placed at the disposal of the judiciary, with no
@@ -84,6 +94,5 @@ About 500 plants of some size stood in regular rows served by a rudimentary
 irrigation system, with some 50 harvested plants drying in a nearby hut. [@1]
 Officers also found a rustic drying shed holding the uprooted plants and an
 improvised water system of collection tanks linked to irrigation channels
-serving the plantation. [@3] In total, more than 550 cannabis plants and the
-equipment on site were uprooted, recovered and seized. [@2]
-
+serving the plantation. [@3,4] In total, more than 550 cannabis plants and the
+equipment on site were uprooted, recovered and seized. [@2,4]
