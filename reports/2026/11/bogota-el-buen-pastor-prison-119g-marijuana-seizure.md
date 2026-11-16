@@ -54,26 +54,32 @@ sources:
     publisher: Caracol Radio
     date: 2026-11-14
     language: es
+  - title: Incautan 58 celulares y armas cortopunzantes en cárcel El Buen Pastor de Bogotá - Diario La Libertad.
+    url: https://diariolalibertad.com/2026/11/14/incautan-58-celulares-y-armas-cortopunzantes-en-carcel-el-buen-pastor-de-bogota/
+    publisher: Diario La Libertad
+    date: 2026-11-14
+    language: es
 open_questions:
   - The 1.5 grams of cocaine and 1.7 grams of tusi seized in the same search are excluded from the cannabis figure.
   - No arrests, named suspects, charges or court outcome were reported; the case rests at the seizure stage.
   - The reports do not say in which wings the items were found or who held them.
   - No laboratory confirmation for the 119.4 grams described as marijuana was reported.
+  - Accounts differ on whether the prison search took place on Friday 13 November or Saturday 14 November.
 ---
 
 A joint Inpec and National Police search ordered by the president took place on
-Friday 13 November at El Buen Pastor, the main women's prison in Bogotá. [@1]
+Friday 13 November at El Buen Pastor, the main women's prison in Bogotá. [@1,5]
 President Abelardo De la Espriella announced the results, reporting 58 mobile
 phones, 47 chargers, 14 Bluetooth earphones, 12 bladed weapons and two speakers
-seized. [@1,4]
+seized. [@1,4,5]
 
 Officers also seized 119.4 grams of marijuana, alongside 1.5 grams of cocaine
-and 1.7 grams of tusi. [@1,4] The reported drug total was 122.6 grams, of which
+and 1.7 grams of tusi. [@1,4,5] The reported drug total was 122.6 grams, of which
 only the 119.4 grams of marijuana is counted as cannabis. [@2]
 
 About 200 Inpec staff backed by police took part, aiming to strengthen controls
 against unauthorised communications and crime coordinated from inside the
-prison. [@2] The official balance did not say in which wings the items were
+prison. [@2,5] The official balance did not say in which wings the items were
 found or identify any inmates as responsible. [@3] The presidency said 4,080
 prison search-and-control operations had been recorded in the government's first
 50 days. [@1]
