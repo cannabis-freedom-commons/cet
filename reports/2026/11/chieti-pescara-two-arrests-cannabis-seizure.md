@@ -1,0 +1,71 @@
+---
+code: JY1AK7
+added_at: "2026-11-16T22:41:42.594996Z"
+date: 2026-11-16
+country: it
+place: Chieti Scalo, Chieti
+coordinates: [42.3511, 14.1675]
+precision: locality
+type: arrest
+also: [seizure]
+title: Two arrested in Chieti area; 5.6 kg cannabis seized
+summary: >-
+  Carabinieri arrested two men from Pescara, aged 32 and 30, in an operation between Chieti, Pescara and Francavilla al Mare. Officers seized about 3.9 kg of marijuana, 1.7 kg of hashish and 380 g of cocaine, with the cannabis totalling about 5.6 kg.
+figures:
+  arrested: 2
+  kg_seized: 5.593
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower, kg: 3.893}
+    - {product: hashish, kg: 1.7}
+  setting: [vehicle, home]
+  case_stage: investigation
+  date_precision: publication
+  region: Abruzzo
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+status: verified
+created_by_model: muse/muse-spark-1.3#xhigh
+submission: 57f63714f10808894a20bead34c4cb97
+tags: [chieti, pescara, abruzzo, hashish, carabinieri]
+sources:
+  - title: Carabinieri, 5 kg di droga sequestrati a Chieti - Napoli Village - Quotidiano di Informazioni Online
+    url: https://www.napolivillage.com/sangro-village/carabinieri-5-kg-di-droga-sequestrati-a-chieti/
+    publisher: Napoli Village
+    date: 2026-11-16
+    language: it
+open_questions:
+  - No separate date for the operation was given; 16 November 2026 is the publication date and is used as the incident date.
+  - The marijuana and hashish weights were reported as 'oltre' (more than) 3.3 and 1.7 kilograms, so the cannabis total of about 5.6 kilograms is approximate.
+  - No quantity was given for the marijuana resin, which is therefore not counted in the figures.
+  - The 380 grams of cocaine from the same search are excluded from the cannabis figures.
+  - No value estimate for the seized drugs was published.
+  - No charges or later court outcome beyond the validation and precautionary measures were reported.
+  - The account rests on a single outlet's report; no agency statement or second independent account was found.
+---
+
+Two men from Pescara, aged 32 and 30, were arrested. [@1] Carabinieri of Chieti
+Scalo ran the operation between Chieti, Pescara and Francavilla al Mare, seizing
+more than 5 kg of drugs including marijuana, hashish and cocaine. [@1] The
+investigating judge validated the arrests, ordering the first man to report
+daily to the judicial police and placing the second man under house arrest. [@1]
+
+The operation began in Chieti Scalo, where officers stopped the 32-year-old and
+found 593 grams of marijuana in his car. [@1] Investigators then searched the
+home of the suspected supplier in Pescara and seized more than 3.3 kilograms of
+marijuana, 1.7 kilograms of hashish and marijuana resin. [@1] In the same
+Pescara search, officers seized 380 grams of cocaine together with a heat sealer
+and a precision scale. [@1] The 30-year-old was later traced to Francavilla al
+Mare, in the province of Chieti. [@1]
+
+The 380 grams of cocaine are excluded from the cannabis figures, which count
+only the marijuana and hashish. [@1]
+
