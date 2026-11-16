@@ -129,6 +129,11 @@ sources:
     publisher: Gargalianoionline.gr
     date: 2026-11-14
     language: el
+  - title: 'Κινέτα: Συνελήφθη 47χρονος σε σπήλαιο που είχε μετατρέψει σε «καβάτζα» ναρκωτικών | Flash'
+    url: https://www.flash.gr/kineta-synelifthi-47chronos-se-spilaio-poy-eiche-metatrepsei-se-kavatza-narkotikon-1091293
+    publisher: Flash.gr
+    date: 2026-11-14
+    language: el
 media:
   - kind: photo
     url: https://www.neakriti.gr/koinonia/2211153_kineta-ekrybe-126-kila-kannabis-se-spilaio-synelifthi-47hronos
@@ -160,11 +165,13 @@ media:
     media_url: https://www.youtube.com/embed/BMcyxnm7_Yo
     publisher: Alphafreepress.gr
     caption: Video titled 'Arrest of a 47-year-old for possession and trafficking of raw cannabis which he hid in a cave' embedded in the article
+open_questions:
+  - Published accounts differ on whether the arrest took place in the afternoon or in the evening hours of 11 November 2026.
 ---
 
 Narcotics officers arrested a 47-year-old foreign man for cannabis possession
-and trafficking. [@1,6,8,10,11,12,14,15,18,20] Officers found the man inside a cave in Kineta, where he
-had hidden drug quantities for further distribution. [@1,3,4,5,7,8,11,12,13,14,15,16,18,19,20] Police said the stash was kept in a disused sheepfold inside the cave above Kineta. [@8] Police said he stored
+and trafficking. [@1,6,8,10,11,12,14,15,18,20,22] Officers found the man inside a cave in Kineta, where he
+had hidden drug quantities for further distribution. [@1,3,4,5,7,8,11,12,13,14,15,16,18,19,20,22] Police said the stash was kept in a disused sheepfold inside the cave above Kineta. [@8] Police said he stored
 and distributed raw cannabis to various people, mainly around Agioi Theodoroi in
 Corinthia and in Attica. [@1,3,5,6,7,9,12,14,15,16,18,19,20,21] The arrest took place on the afternoon of
 Wednesday 11 November 2026 during an organized operation by the Narcotics
@@ -173,10 +180,10 @@ Prosecution Subdirectorate in the Attica area. [@1,3,14,17,18,19,20] Police said
 At the site officers found a total of 12.6 kilograms of raw cannabis and
 cannabis clones, along with signal-jamming and surveillance devices. [@1,9,10,12,13,18] The
 total comprised 6.6 kilograms of raw cannabis and six kilograms of cannabis
-clones. [@2,4,5,6,7,11,15,16,19,21] Police seized a car. [@1,4,5] Police also seized a mobile phone. [@3] They also found two electric air
+clones. [@2,4,5,6,7,11,15,16,19,21,22] Police seized a car. [@1,4,5] Police also seized a mobile phone. [@3] They also found two electric air
 extractors, packaging for extracting cannabis oil, a metal tray and an electric
 blender. [@2,11,21]
 
 According to police, the man had previously been accused of similar offences.
 [@2,6,12,15,18,20] In that earlier case 3,445 cannabis seedlings and more than 4.5 kilograms of raw cannabis had been seized. [@14] In July 2020 he had been accused by the Thessaloniki Narcotics unit as a leading member of a criminal organisation allegedly active in cultivating and trafficking cannabis in various parts of the country. [@14,21] A case file for possession and trafficking of narcotics was opened against
-him and he was referred to the competent prosecutor. [@2,5,14,16,20,21] Police inquiries were continuing to investigate the case and to locate possible accomplices or others who may have been involved in trafficking the drugs. [@13]
+him and he was referred to the competent prosecutor. [@2,5,14,16,20,21,22] Police inquiries were continuing to investigate the case and to locate possible accomplices or others who may have been involved in trafficking the drugs. [@13]
