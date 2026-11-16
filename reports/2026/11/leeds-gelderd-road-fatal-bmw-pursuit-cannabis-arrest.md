@@ -42,32 +42,58 @@ sources:
     publisher: ORIGO
     date: 2026-11-15
     language: hu
+  - title: Man and woman die in police pursuit crash
+    url: https://www.bbc.com/news/articles/cm3eg8x9zkvno
+    publisher: BBC
+    date: 2026-11-15
+  - title: 'Leeds, Angleterre : deux morts après une course-poursuite'
+    url: https://cedarnews.net/francais/1149976/course-poursuite/
+    publisher: Cedar News
+    date: 2026-11-15
+    language: fr
+  - title: Two killed in Leeds after car pursued by police crashes into another vehicle
+    url: https://theguardian.com/uk-news/2026/nov/15/leeds-car-pursued-by-police-crashes-into-another-vehicle
+    publisher: The Guardian
+    date: 2026-11-15
 open_questions:
-  - The report gives the stop as about 00:45 but no separate calendar date for the pursuit; 15 November 2026 is the publication date and is used as the incident date.
-  - The cannabis allegation is reported only as suspicion of driving under the influence of cannabis, with no test result or laboratory confirmation reported.
-  - No cannabis was reported seized and no cannabis weight, value or other drug quantity was published.
-  - No names were published beyond ages and home towns, and no charge, plea or court outcome was reported.
-  - The outcome of the Independent Office for Police Conduct investigation was not reported.
-  - The account rests on a single opened report attributed to West Yorkshire Police, with no independent second account found.
+    - The cannabis allegation is reported only as suspicion of driving under the influence of cannabis, with no test result or laboratory confirmation reported.
+    - No cannabis was reported seized and no cannabis weight, value or other drug quantity was published.
+    - No names were published beyond ages and home towns, and no charge, plea or court outcome was reported.
+    - The outcome of the Independent Office for Police Conduct investigation was not reported.
+media:
+  - kind: photo
+    url: https://theguardian.com/uk-news/2026/nov/15/leeds-car-pursued-by-police-crashes-into-another-vehicle
+    media_url: https://i.guim.co.uk/img/media/f21995728d72a07555a435312b9559c41a077680/1027_40_4900_3920/master/4900.jpg?width=465&dpr=1&s=none&crop=none
+    publisher: The Guardian
+    caption: 'A recovery vehicle lifting a car at the scene on Gelderd Road, Leeds, after a police pursuit ended in a fatal collision. Photo: Annabel Lee-Ellis/PA'
+  - kind: photo
+    url: https://www.bbc.com/news/articles/cm3eg8x9zkvno
+    media_url: https://ichef.bbci.co.uk/news/480/cpsprodpb/3c47/live/464f7b70-e0e6-11f1-a701-fddedf244c16.png.webp
+    publisher: BBC
+    caption: 'A police car in the middle of a road in Leeds with police tape in blue and white crossing the road and a police officer stood at the side of the road. Photo: Fiona Callow/BBC'
+  - kind: photo
+    url: https://www.bbc.com/news/articles/cm3eg8x9zkvno
+    media_url: https://ichef.bbci.co.uk/news/480/cpsprodpb/9f61/live/0bb78600-e0e7-11f1-b441-2b33b063138f.png.webp
+    publisher: BBC
+    caption: 'A white car which has been hit by a car in Leeds. Photo: Press Association'
 ---
 
 West Yorkshire Police officers tried to stop a BMW 123D on Gelderd Road in Leeds
-at about 00:45, but the driver did not comply. [@1] Officers pursued the BMW,
+at about 00:45, but the driver did not comply. [@1,2] Officers pursued the BMW,
 which then collided with a white Volkswagen Scirocco turning onto the road from
-Lowfields Road. [@1] A 22-year-old man and a 23-year-old woman, both from York,
-died in the collision. [@1]
+Lowfields Road. [@1,3] A 22-year-old man and a 23-year-old woman, both from York,
+died in the collision. [@1,4] Neither victim had been formally named. [@4]
 
 Police detained a 39-year-old man from Harrogate on suspicion of causing death
-by dangerous driving and driving under the influence of cannabis. [@1] The
+by dangerous driving and driving under the influence of cannabis. [@1,4] The
 detained driver remained in police custody. [@1] Police also detained the BMW's
 three other occupants, boys aged 16 and 17 and a 16-year-old girl, on suspicion
-connected with causing death by dangerous driving. [@1]
+connected with causing death by dangerous driving. [@1,2]
 
 The three young passengers had been treated in hospital for injuries that were
-not life-threatening. [@1] Police closed the crash site and asked motorists to
+not life-threatening. [@1,4] Police closed the crash site and asked motorists to
 avoid the affected stretch of road. [@1] West Yorkshire Police referred the
 incident to the Independent Office for Police Conduct, which opened an
-investigation. [@1] The authorities asked witnesses to come forward,
+investigation. [@1,2] The authorities asked witnesses to come forward,
 particularly anyone with dashcam, mobile-phone or CCTV footage that could help
-clarify what happened. [@1]
-
+clarify what happened. [@1] Police asked anyone with information to contact officers via 101 or online quoting reference 13260649342. [@4]
