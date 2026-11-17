@@ -57,6 +57,11 @@ media:
     media_url: https://canalideal.com.br/uploads/post/_post/CAPA_70_KG_MACONHA_PRF.png
     publisher: Canal Ideal
     caption: 'Seized drug tablets hidden in the car stopped on BR-158 in Cunha Pora. Photo: PRF'
+  - kind: photo
+    url: https://cacodarosa.com/noticia/48910/casal-e-preso-apos-ser-flagrado-transportando-70-kg-de-maconha-no-oeste
+    media_url: https://cacodarosa.com/storage/fotos_noticias/20261116_zPQ2YEBWdnvk7cODPtPwBnmq5T7XNPm0.jpg
+    publisher: Caco da Rosa
+    caption: 'PRF handout photo published with the report of the 70 kg maconha seizure. Photo: PRF/Divulgação'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c457a331815021a90d63d5543ddfa7ae
@@ -102,15 +107,20 @@ sources:
     publisher: Canal Ideal
     date: 2026-11-16
     language: pt
+  - title: Casal é preso após ser flagrado transportando 70 kg de maconha no Oeste
+    url: https://cacodarosa.com/noticia/48910/casal-e-preso-apos-ser-flagrado-transportando-70-kg-de-maconha-no-oeste
+    publisher: Caco da Rosa
+    date: 2026-11-16
+    language: pt
 ---
 
 Federal Highway Police officers stopped a car on BR-158 in Cunha Pora, in
-western Santa Catarina, and seized 70 kilograms of maconha. [@1,2,3,4,5,6,7,8] The stop
+western Santa Catarina, and seized 70 kilograms of maconha. [@1,2,3,4,5,6,7,8,9] The stop
 occurred on the night of Saturday 14 November 2026. [@1,2,3,4,5,6,7] The car stopped was a Nissan March 16S and the stop was recorded at about 23h. [@2]
 
 Officers inspected a car bearing plates from Araucaria, Parana. [@1,2,3,4,5,7,8] Inside the
 vehicle officers found dozens of tablets of the drug hidden between the floor
-and the mats of the front and rear seats. [@1,2,3,4,5,6,7,8]
+and the mats of the front and rear seats. [@1,2,3,4,5,6,7,8,9]
 
 Two men were in the car and were arrested in flagrante and taken to the police
-station. [@1] Those arrested were taken to the Civil Police station in Maravilha. [@2,3,4,5,6,7,8] The seized drug and the vehicle were taken to the police station with the couple. [@4,5,8] Those involved said the drug was bound for Rio Grande do Sul. [@1,2,3,4,5,6,7,8]
+station. [@1] Those arrested were taken to the Civil Police station in Maravilha. [@2,3,4,5,6,7,8,9] The seized drug and the vehicle were taken to the police station with the couple. [@4,5,8] Those involved said the drug was bound for Rio Grande do Sul. [@1,2,3,4,5,6,7,8,9]
