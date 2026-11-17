@@ -63,28 +63,40 @@ sources:
     publisher: Masrawy
     date: 2026-11-17
     language: ar
+  - title: الإعدام لـ3 متهمين بتكوين تشكيل عصابي للاتجار في المخدرات بالدقي
+    url: https://www.shorouknews.com/news/view.aspx?cdate=17112026&id=7e338da7-2f90-49c7-a353-5f20b49bd920
+    publisher: بوابة الشروق
+    date: 2026-11-17
+    language: ar
+open_questions:
+    - No weight was published for the seized hashish or hydro, so no cannabis weight is recorded.
+    - The defendants were identified only by initials and occupations, not full names.
+    - Whether the death sentences are final or subject to appeal was not reported.
+    - No arrest dates or detention details were published beyond the 13 October 2025 offence date.
+    - The cash found on the defendants and in the cars was reported in separate amounts (5,000, 3,000, 50,000 and 1,500 Egyptian pounds); no source gives one confiscation total.
+    - The third defendant's occupation is given as a worker in the charge sheet and as a seaman in another account of the verdict.
 ---
 
 The Giza Criminal Court unanimously sentenced the three defendants to death by
 hanging. [@1,4] The court issued the ruling after receiving the religious opinion
 of the Mufti in the case. [@1,4] Presiding judge Abdel Aziz Mohamed Habib issued
-the ruling in case 12411 of 2025 for Dokki felonies. [@1] The three defendants
+the ruling in case 12411 of 2025 for Dokki felonies. [@1,5] The three defendants
 were identified as Hussein A., a contractor, Mahmoud E., a contractor, and
-Shazly A., a worker. [@2,4]
+Shazly A., a worker. [@2,4,5]
 
 Prosecutors said that on 13 October 2025, in the Dokki district of Giza and
 Hurghada in the Red Sea, the men formed a gang led by the first defendant to
-trade and promote narcotic drugs. [@1] They were convicted of possessing hashish
-and hydro cannabis plant with intent to traffic. [@1] Searching the first
+trade and promote narcotic drugs. [@1,5] They were convicted of possessing hashish
+and hydro cannabis plant with intent to traffic. [@1,5] When the first two defendants were arrested, the first had three mobile phones and 5,000 Egyptian pounds and the second a phone and 3,000 pounds. [@5] Searching the first
 defendant's car, forces found eight plastic sacks containing 1,154 slabs of
-hashish, a 12mm shotgun and seven live rounds. [@1,4] Searching the car the third
+hashish, a 12mm shotgun and seven live rounds. [@1,4,5] The car also held 50,000 Egyptian pounds that investigators described as proceeds of sale. [@5] Searching the car the third
 defendant was using, forces found 12 plastic sacks with 1,054 large pieces of
-hashish and 50 sacks of hydro cannabis plant. [@1,4]
+hashish and 50 sacks of hydro cannabis plant. [@1,4,5] The third defendant had two mobile phones and 1,500 Egyptian pounds when he was arrested. [@5]
 
 The chemical laboratory report confirmed the brown substance was scheduled
 hashish and the dry green plant parts were narcotic cannabis plant. [@1]
 Anti-narcotics investigations said the men used their private cars to move and
-distribute the drugs to wholesale and semi-wholesale dealers. [@1]
+distribute the drugs to wholesale and semi-wholesale dealers. [@1,5]
 
 The court convicted the two contractors and the seaman of forming a gang to
 traffic cannabis plant, hashish and hydro in Dokki and Hurghada. [@3]
