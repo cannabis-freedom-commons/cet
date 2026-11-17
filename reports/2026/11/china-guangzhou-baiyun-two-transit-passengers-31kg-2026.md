@@ -48,17 +48,22 @@ sources:
     publisher: 新浪财经
     date: 2026-11-17
     language: zh
+  - title: 广州海关：查获两名旅客携带大麻，累计31.787千克_大风号_凤凰网
+    url: https://feng.ifeng.com/c/8y7hJ1xkL0A
+    publisher: 凤凰网
+    date: 2026-11-17
+    language: zh
 ---
 
 Guangzhou Baiyun Airport Customs officers screening international transit
 passengers found the luggage X-ray images of two travellers abnormal in
-succession. [@1,2,3] Officers intercepted the two travellers and inspected their
-suitcases. [@1,2,3] The suitcases each held brown-green plant material packed in
+succession. [@1,2,3,4] Officers intercepted the two travellers and inspected their
+suitcases. [@1,2,3,4] The suitcases each held brown-green plant material packed in
 plastic bags that gave off a strong pungent smell when the packaging was opened.
-[@1,2,3]
+[@1,2,3,4]
 
 A technical institution tested the material and confirmed it was cannabis
-weighing 31.787 kilograms in total. [@1,2,3] Customs announced the seizure on 17
+weighing 31.787 kilograms in total. [@1,2,3,4] Customs announced the seizure on 17
 November 2026, describing the interception as recent and placing it at the
 passenger-inspection channel of Guangzhou Baiyun Airport. [@1,2]
 
