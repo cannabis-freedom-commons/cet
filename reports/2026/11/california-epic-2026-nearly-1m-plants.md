@@ -51,6 +51,10 @@ sources:
     url: https://sjvsun.com/california/bonta-announces-cannabis-busts-critics-cite-black-market/
     publisher: The San Joaquin Valley Sun
     date: 2026-11-16
+  - title: Bonta announces cannabis busts; critics cite black market
+    url: https://www.msn.com/en-us/news/other/bonta-announces-cannabis-busts-critics-cite-black-market/ar-AA2hzHJZ
+    publisher: MSN
+    date: 2026-11-16
 open_questions:
   - No exact plant total was published, only nearly one million, so no plants_destroyed figure is recorded.
   - No weight for processed cannabis or value estimate was published for the 2026 season.
@@ -60,18 +64,19 @@ open_questions:
   - No names, charges or court outcomes for the 221 arrested people were reported.
   - The 158 recovered weapons are noted in the text but the figures schema stores no weapon count.
   - Separate Unified Cannabis Enforcement Task Force quarterly totals and November raids in Los Angeles and Alameda counties belong to different events not covered in this report.
+  - The submitted republication rounds the plant total to 1 million while the report records nearly one million, so no plants_destroyed figure is recorded.
 ---
 
 On November 16, 2026 Attorney General Rob Bonta announced that the Eradication
 and Prevention of Illicit Cannabis (EPIC) program eradicated nearly one million
 illegally cultivated cannabis plants and made 221 arrests across 22 California
-counties in 2026. [@2,4,5] The results came from the state's Eradication and
+counties in 2026. [@2,4,5,6] The results came from the state's Eradication and
 Prevention of Illicit Cannabis (EPIC) program, which brings together local,
-state and federal law enforcement agencies. [@1,4]
+state and federal law enforcement agencies. [@1,4,6]
 
 EPIC teams operating in Northern, Central, and Southern California conducted 655
 operations, recovered 158 weapons, and removed infrastructure including dams,
-water lines, and containers of toxic chemicals. [@2,4,5] Officials reported
+water lines, and containers of toxic chemicals. [@2,4,5,6] Officials reported
 discovering several dangerous pesticides and chemicals at illegal grow sites,
 including carbofuran, methyl parathion, aluminum phosphate and zinc phosphide.
 [@1] Carbofuran, an insecticide effectively banned in the United States, can
@@ -79,7 +84,7 @@ contaminate soil and nearby water sources long after its application. [@1]
 
 Bonta said illegal cannabis cultivation is not a victimless crime, calling it a
 driving force behind human exploitation, illegal activity, and ecological
-devastation. [@3,4] The operations also targeted criminal organizations involved
+devastation. [@3,4,6] The operations also targeted criminal organizations involved
 in exploiting workers at remote cultivation sites, including cases involving
 forced labor and human trafficking, and officials reported rescuing vulnerable
 individuals without saying how many people were rescued. [@1] The operations
