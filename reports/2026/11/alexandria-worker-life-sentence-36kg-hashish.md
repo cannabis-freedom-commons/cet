@@ -65,29 +65,35 @@ sources:
     publisher: بوابة الشروق
     date: 2026-11-17
     language: ar
+  - title: ضبط بـ36 كيلو حشيش.. جنايات الإسكندرية تقضي بالمؤبد على عامل لاتهامه بالاتجار في المخدرات - إقرأ نيوز
+    url: https://www.iqraa.news/229739/%D8%B6%D8%A8%D8%B7-%D8%A8%D9%8036-%D9%83%D9%8A%D9%84%D9%88-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%AC%D9%86%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D8%AA%D9%82/
+    publisher: إقرأ نيوز
+    date: 2026-11-17
+    language: ar
 open_questions:
     - No date for the arrest was given; 17 November 2026 is the date of the ruling and of publication.
     - 'The accounts give different second-bag weights: Youm7 and Shorouk reported 18.110 kg and 18.100 kg (a 36.21 kg total), while Cairo24 reported 18.110 kg for each bag (a 36.220 kg total); the report keeps the 36.21 kg total.'
     - All three accounts reproduce the same official police and court statement, so they are not independent reporting and no court record was opened.
     - No plea, detention detail or appeal outcome beyond this ruling was reported.
+    - One account names the sentencing court as the Alexandria criminal court and registers the case at the Ameriya police-station felony, while others describe an appeals criminal court and Second Ameriya.
 ---
 
 The Alexandria Criminal Appeals Court sentenced a worker identified only as
-H.Kh.M. to life imprisonment for trafficking in narcotic drugs. [@1,2,3] The court
+H.Kh.M. to life imprisonment for trafficking in narcotic drugs. [@1,2,3,4] The court
 fined him 100,000 Egyptian pounds, ordered the confiscation of the drugs and
-ordered him to pay the criminal costs. [@1,2,3] The ruling panel was headed by
+ordered him to pay the criminal costs. [@1,2,3,4] The ruling panel was headed by
 Counsellor Mohamed Abdel Hamid El-Khouly, with members Tarek Mohamed Haridi,
 Khaled Mohamed Abdel Fattah and Ahmed Mokhtar Abdel Hai, and clerk Mahmoud
-Mostafa. [@1,2]
+Mostafa. [@1,2,4]
 
 The case was registered as No. 3704 of 2026, Second Ameriya felonies, after the
 Alexandria Security Directorate received a notice from General Administration
 for Drug Control officers that the defendant had been caught with hashish in the
-district. [@1,2,3] Investigators said the worker was engaged in trafficking narcotic
+district. [@1,2,3,4] Investigators said the worker was engaged in trafficking narcotic
 drugs, and a prosecution warrant was obtained before officers carried out the
 arrest. [@1,3] At the arrest he was holding two bags of hashish slabs, one
-weighing 18.110 kilograms and the other weighing 18.100 kilograms. [@1,3] Each of the two bags held 750 hashish slabs. [@3] Officers
-also found cash and a mobile phone on his person during the search. [@1,2,3]
+weighing 18.110 kilograms and the other weighing 18.100 kilograms. [@1,3] Each of the two bags held 750 hashish slabs. [@3,4] Officers
+also found cash and a mobile phone on his person during the search. [@1,2,3,4]
 
 Police drew up a report on the incident and the prosecution referred the
-defendant to the Alexandria court, which issued its ruling. [@1,2,3]
+defendant to the Alexandria court, which issued its ruling. [@1,2,3,4]
