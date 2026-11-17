@@ -112,6 +112,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-17
     language: hi
+  - title: 'राजस्थान:सीकर में 41.50 किलो गांजा तस्करी का मुख्य सप्लायर गिरफ्तार, कार से बरामदगी के बाद से था फरार - Rajasthan: Main Supplier In 41.50 Kg Cannabis Smuggling Case Arrested In Sikar'
+    url: https://www.amarujala.com/rajasthan/rajasthan-main-supplier-in-41-50-kg-cannabis-smuggling-case-arrested-in-sikar-2026-11-17
+    publisher: Amar Ujala
+    date: 2026-11-17
+    language: hi
 open_questions:
     - No separate date was given for Vikas Kumar's arrest; 17 November 2026 is the publication date.
     - The new report rounds the seizure to 41.50 kg while earlier detailed reports totalled 41.510 kg.
@@ -143,5 +148,5 @@ the car belonged to his companion Vikas Kumar Dhinwa of Sevapura in Khirod, who
 he said had left the car a short distance earlier and told him to phone once he
 had gone ahead. [@2,3,4,5] Police said Dhinwa was involved in the narcotics trade on a
 large scale, and they were searching for him and investigating the trafficking
-network. [@2,3] Police said Vikas had taken up ganja supply work only a few months earlier and that they were tracing the full supply network and its mastermind. [@8] Preliminary questioning indicated that the accused were to supply the ganja in Sikar. [@8] Police later arrested main supplier Vikas Kumar, son of Ramkumar Dhinwa of Seva Nagar in Khirod, on an informant's tip. [@8] Police were also trying to establish where the ganja had come from
+network. [@2,3] Police said Vikas had taken up ganja supply work only a few months earlier and that they were tracing the full supply network and its mastermind. [@8,9] Preliminary questioning indicated that the accused were to supply the ganja in Sikar. [@8,9] Police later arrested main supplier Vikas Kumar, son of Ramkumar Dhinwa of Seva Nagar in Khirod, on an informant's tip. [@8,9] Police were also trying to establish where the ganja had come from
 and who it was to be supplied to. [@1]
