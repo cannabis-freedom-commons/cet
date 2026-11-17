@@ -34,6 +34,21 @@ media:
     media_url: https://smn-news.com/images/stories/localnews/2022/gangafarm21072022.png
     publisher: St. Martin News Network
     caption: The marijuana farm dismantled by police in Saunders, captioned 'Marijuana farm dismantled by police.'
+  - kind: photo
+    url: https://www.thedailyherald.sx/islands/marijuana-nursery-dismantled-in-saunders-three-arrested
+    media_url: https://www.thedailyherald.sx/images/2022/07/21/6a_large.jpg
+    publisher: The Daily Herald
+    caption: The marijuana nursery in Saunders dismantled by police, shown in the lead photo with the article.
+  - kind: photo
+    url: https://www.thedailyherald.sx/islands/marijuana-nursery-dismantled-in-saunders-three-arrested
+    media_url: https://www.thedailyherald.sx/images/page6b046.JPG
+    publisher: The Daily Herald
+    caption: Marijuana confiscated during the Saunders operation, captioned 'Marijuana that was confiscated during the operation.'
+  - kind: photo
+    url: https://www.thedailyherald.sx/islands/marijuana-nursery-dismantled-in-saunders-three-arrested
+    media_url: https://www.thedailyherald.sx/images/page6c046.JPG
+    publisher: The Daily Herald
+    caption: Some of the marijuana plants found during the Saunders operation, captioned 'Some of the marijuana plants found.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5f16d3b822e63d060d04bb38eb82550f
@@ -42,6 +57,10 @@ sources:
   - title: Marijuana nursery dismantled.
     url: https://smn-news.com/index.php/st-maarten-st-martin-news/40915-marijuana-nursery-dismantled.html
     publisher: St. Martin News Network
+    date: 2022-07-21
+  - title: Marijuana nursery dismantled in Saunders, three arrested
+    url: https://www.thedailyherald.sx/islands/marijuana-nursery-dismantled-in-saunders-three-arrested
+    publisher: The Daily Herald
     date: 2022-07-21
 open_questions:
   - No count of the marijuana plants, their weight, the amount of cash or a value estimate was published.
@@ -52,18 +71,17 @@ open_questions:
 
 Detectives of the Major Crimes Unit of the Sint Maarten police, working with the
 Uniform Division, searched a house in Saunders on the evening of Wednesday 20
-July 2022 after receiving information about possible narcotics peddling. [@1]
+July 2022 after receiving information about possible narcotics peddling. [@1,2] The police account was attributed to Acting Head of the Police Communications Department, Inspector Felix Richards. [@2]
 Three men identified only as E.A.G.R., E.E.R. and J.E.L. were arrested in
-connection with the marijuana nursery. [@1] They were transported to Philipsburg
-Police Station and held there pending further investigation. [@1]
+connection with the marijuana nursery. [@1,2] They were transported to Philipsburg
+Police Station and held there pending further investigation. [@1,2]
 
 Police described what they found at the location as an elaborate marijuana
-nursery. [@1] The equipment, a large number of marijuana plants and cash were
-confiscated. [@1]
+nursery. [@1,2] The equipment, a large number of marijuana plants and cash were
+confiscated. [@1,2]
 
 Police asked anyone with information about similar illegal operations or weapons
 to contact the Major Crimes Unit, giving the contact numbers as +1 721 542 222
 extensions 208, 214 and 224 and the anonymous tip line as 9300. [@1] They said
 people could also send a private message through the Police Force of Sint
 Maarten's Facebook page or website. [@1]
-
