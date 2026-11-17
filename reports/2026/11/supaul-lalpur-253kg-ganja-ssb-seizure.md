@@ -45,28 +45,33 @@ sources:
     publisher: Hindustan
     date: 2026-11-16
     language: hi
+  - title: 'भारत-नेपाल सीमा पर SSB की बड़ी कार्रवाई: आठ बोरियों में भरा 253 किलो गांजा बरामद, ड्रोन से चला तलाशी अभियान - ssb seizes 253 kg ganja at indianepal border in supaul'
+    url: https://www.jagran.com/bihar/supaul-ssb-seizes-253-kg-ganja-at-indianepal-border-in-supaul-40439171.html
+    publisher: Jagran
+    date: 2026-11-17
+    language: hi
 ---
 
 The 45th Battalion of the Sashastra Seema Bal in Veerpur seized 253 kilograms of
-ganja on the India-Nepal border. [@1,2] The ganja had been packed into eight
-plastic bags and hidden. [@1,2] Smugglers fled the spot under cover of darkness
+ganja on the India-Nepal border. [@1,2,3] The ganja had been packed into eight
+plastic bags and hidden. [@1,2,3] Smugglers fled the spot under cover of darkness
 after seeing the SSB naka party. [@1] A drone-assisted search of the surrounding
-area found no suspects. [@1,2]
+area found no suspects. [@1,2,3]
 
 A joint naka party of the battalion headquarters and Border Outpost Shaileshpur
 was on regular patrol from Magarmachh bridge past border pillar 205 toward
 Veerpur at about 12:20 at night on 14 November 2026. [@1] Near Lalpur village on
-the far side of Magarmachh bridge, troops spotted suspicious plastic bags. [@1]
+the far side of Magarmachh bridge, troops spotted suspicious plastic bags. [@1,3]
 Approaching the bags, the party smelled a strong ganja-like narcotic odour and
 cordoned off and searched the area. [@1]
 
 Deputy Commandant Harjeet Rao and Assistant Commandant Rahul Kumar were informed
-immediately. [@1] Assistant Commandant Rahul Kumar reached the spot with seizure
+immediately. [@1,3] Assistant Commandant Rahul Kumar reached the spot with seizure
 materials, a drug-detection kit, other equipment and a drone. [@1] After
 examination and legal formalities, all eight bags were confirmed to hold a total
-of 253 kilograms of ganja. [@1] The seized drug was formally seized and handed
-to Bhimnagar police for further legal action. [@1,2]
+of 253 kilograms of ganja. [@1,3] The seized drug was formally seized and handed
+to Bhimnagar police for further legal action. [@1,2,3]
 
 Assistant Sub-Inspector Kancha Sonar and other SSB personnel took part in the
-operation. [@1] Commandant Gaurav Singh said the battalion maintains constant
+operation. [@1,3] Commandant Gaurav Singh said the battalion maintains constant
 vigilance against drug smuggling and other illegal activity on the border. [@1]
