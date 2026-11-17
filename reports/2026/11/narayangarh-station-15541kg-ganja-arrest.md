@@ -53,11 +53,24 @@ sources:
     publisher: Vocal TV
     date: 2026-11-17
     language: hi
+  - title: নারায়ণগড় স্টেশনে এক্সপ্রেস ট্রেনে থেকে উদ্ধার বিপুল পরিমাণ গাঁজা
+    url: https://biplabisabyasachi.com/narayangarh-station-train-ganja-seized/
+    publisher: Biplabi Sabyasachi
+    date: 2026-11-17
+    language: bn
 open_questions:
-  - The recovered material was described only as suspected ganja; no laboratory confirmation was reported.
-  - No value estimate for the seized ganja was published.
-  - The source and intended destination of the consignment beyond the Soro-to-Swarupnagar journey were still under investigation.
-  - The Janta Se Rishta and Vocal TV pages both reproduce the same Hindusthan Samachar wire account, so they are not fully independent reporting; the submitted agency page itself could only be read for its headline behind a paywall.
+    - The recovered material was described only as suspected ganja; no laboratory confirmation was reported.
+    - No value estimate for the seized ganja was published.
+    - The source and intended destination of the consignment beyond the Soro-to-Swarupnagar journey were still under investigation.
+    - The Janta Se Rishta and Vocal TV pages both reproduce the same Hindusthan Samachar wire account, so they are not fully independent reporting; the submitted agency page itself could only be read for its headline behind a paywall.
+    - The Bengali account gives the seized ganja as about 12 kg, while the Hindi wire accounts give 15.541 kg weighed in 15 packets; the report keeps the weighed figure.
+    - The Bengali account names the arrested man Hafizul Rahman and his village Amdia, while the Hindi wire accounts give Hafizul Mandal and Amudia.
+media:
+  - kind: video
+    url: https://biplabisabyasachi.com/narayangarh-station-train-ganja-seized/
+    media_url: https://biplabisabyasachi.com/wp-content/uploads/2026/11/WhatsApp-Video-2026-11-17-at-15.49.56.mp4
+    publisher: Biplabi Sabyasachi
+    caption: 'Video published with the report of the 17 November ganja seizure, showing the Narayangarh station scene where railway police made the arrest and labelled ''Narayan garh Station'' on the page. Video: Biplabi Sabyasachi'
 ---
 
 Kharagpur Government Railway Police arrested one person with 15.541 kg of ganja
@@ -66,7 +79,7 @@ man as 33-year-old Hafizul Mandal, a resident of Amudia village in the
 Swarupnagar police-station area of North 24 Parganas district. [@2] GRP
 personnel stopped Mandal at about 9:15 on Tuesday morning during checks at
 Narayangarh railway station while he was travelling from Soro toward
-Swarupnagar. [@2]
+Swarupnagar. [@2] The ganja was allegedly being carried on the Bhadrak-Howrah Bagajatin Express, and the suspect drew the attention of GRP and RPF officers during a routine search of the train. [@4]
 
 Officers searched his luggage in the presence of a gazetted officer and
 recovered 15 packets of suspected ganja from two bags he was carrying, weighing
@@ -77,5 +90,4 @@ NDPS Act, India's narcotics law. [@3]
 Police said they would produce the accused in court and seek 10 days of police
 custody, and that investigation of the case was continuing. [@3] The
 interception took place at Narayangarh railway station in West Bengal during a
-morning railway-police check. [@2]
-
+morning railway-police check. [@2,4]
