@@ -45,6 +45,11 @@ media:
     media_url: https://cdn.ajkerdarpon.com/images/6e584732772596a952d7c57a440e0c87.jpeg
     publisher: Ajker Darpon
     caption: Photo published with the report on the auto-garage raid in Chirirbandar in which five people were arrested with ganja.
+  - kind: photo
+    url: https://www.dinajpurtv.com/dinajpur/39593
+    media_url: https://www.dinajpurtv.com/media/imgAll/2025May/dinajpurtv-e74hm-20261117042147.jpg
+    publisher: Dinajpur TV
+    caption: 'Photo published with the report on the auto-garage raid in Chirirbandar in which five people were arrested with 430 grams of ganja. Photo: Dinajpur TV'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e4617b9f9d56985339a03b0fc424178
@@ -55,28 +60,33 @@ sources:
     publisher: Ajker Darpon
     date: 2026-11-17
     language: bn
+  - title: চিরিরবন্দরে মাদকবিরোধী অভিযানে ৪৩০ গ্রাম গাঁজাসহ পাঁচ যুবক গ্রেপ্তার
+    url: https://www.dinajpurtv.com/dinajpur/39593
+    publisher: Dinajpur TV
+    date: 2026-11-17
+    language: bn
 open_questions:
-  - Whether the five detained were formally charged or remained under investigation was not stated beyond registration of the case and assignment of investigation.
-  - No laboratory confirmation of the seized material as cannabis was reported.
-  - No plea, custody outcome or court result was reported.
+    - Whether the five detained were formally charged or remained under investigation was not stated beyond registration of the case and assignment of investigation.
+    - No laboratory confirmation of the seized material as cannabis was reported.
+    - No plea, custody outcome or court result was reported.
+    - 'The two accounts give slightly different raid times: about 3:45 am in the Dinajpur TV report and 3:50 am in the Ajker Darpon report.'
 ---
 
 Chirirbandar thana police arrested five people with 430 grams of ganja in a
-night-time special operation. [@1] The arrests took place at 3:50 at night on
+night-time special operation. [@1,2] The arrests took place at 3:50 at night on
 Monday 16 November at an auto garage in the Ranirbandar area of Nashratpur
 Union. [@1] Acting on secret information, Chirirbandar thana Sub-Inspector
 Mosharraf Hossain with accompanying force raided the auto garage outside Habibur
-Rahman's house in Ward No. 4. [@1] Those caught red-handed were Rashedul Islam
+Rahman's house in Ward No. 4. [@1,2] Those caught red-handed were Rashedul Islam
 Rashed aged 20, Biplob Rana aged 20, Mostakim aged 24, Moinul Islam Basu aged 21
-and Shanto Islam Siam aged 21. [@1]
+and Shanto Islam Siam aged 21. [@1,2]
 
-Police put the estimated value of the recovered ganja at 4,200 taka. [@1]
+Police put the estimated value of the recovered ganja at 4,200 taka. [@1,2]
 Habibur Rahman aged 50 and his wife Meher Negar, also called Meherunnesa, aged
-45 were named as absconding accused in the case. [@1]
+45 were named as absconding accused in the case. [@1,2]
 
 Chirirbandar thana registered the matter as case number 13 dated 16 November
-2026. [@1] The case was filed under section 36(1) table 19(a)/41 of the
+2026. [@1,2] The case was filed under section 36(1) table 19(a)/41 of the
 Narcotics Control Act 2018, and investigation was assigned to Sub-Inspector
-Saiful Alam. [@1] Police said the special operation to recover drugs and curb
-crime was continuing. [@1]
-
+Saiful Alam. [@1,2] Police said the special operation to recover drugs and curb
+crime was continuing. [@1,2]
