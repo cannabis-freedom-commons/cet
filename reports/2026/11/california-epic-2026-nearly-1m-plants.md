@@ -55,22 +55,16 @@ sources:
     url: https://www.msn.com/en-us/news/other/bonta-announces-cannabis-busts-critics-cite-black-market/ar-AA2hzHJZ
     publisher: MSN
     date: 2026-11-16
-open_questions:
-  - No exact plant total was published, only nearly one million, so no plants_destroyed figure is recorded.
-  - No weight for processed cannabis or value estimate was published for the 2026 season.
-  - No county-by-county breakdown of plants, arrests or operations was published.
-  - The announcement gives no start and end dates for the 2026 operations beyond the year and the November 16 announcement date.
-  - The number of rescued workers was not specified.
-  - No names, charges or court outcomes for the 221 arrested people were reported.
-  - The 158 recovered weapons are noted in the text but the figures schema stores no weapon count.
-  - Separate Unified Cannabis Enforcement Task Force quarterly totals and November raids in Los Angeles and Alameda counties belong to different events not covered in this report.
-  - The submitted republication rounds the plant total to 1 million while the report records nearly one million, so no plants_destroyed figure is recorded.
+  - title: Bonta announces cannabis busts; critics cite black market
+    url: https://blackchronicle.com/west-coast-pacific/california/bonta-announces-cannabis-busts-critics-cite-black-market/
+    publisher: The Black Chronicle
+    date: 2026-11-17
 ---
 
 On November 16, 2026 Attorney General Rob Bonta announced that the Eradication
 and Prevention of Illicit Cannabis (EPIC) program eradicated nearly one million
 illegally cultivated cannabis plants and made 221 arrests across 22 California
-counties in 2026. [@2,4,5,6] The results came from the state's Eradication and
+counties in 2026. [@2,4,5,6,7] The results came from the state's Eradication and
 Prevention of Illicit Cannabis (EPIC) program, which brings together local,
 state and federal law enforcement agencies. [@1,4,6]
 
