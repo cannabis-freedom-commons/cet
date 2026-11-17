@@ -56,6 +56,11 @@ sources:
     publisher: Enciende Cuenca Noticias
     date: 2026-11-17
     language: es
+  - title: La Guardia Civil detiene a un hombre de 50 años en un control por portar 200 gramos de hachís y 50 de marihuana en la provincia de Cuenca
+    url: https://www.larazon.es/castilla-la-mancha/guardia-civil-detiene-hombre-50-anos-control-portar-200-gramos-hachis-50-marihuana-provincia-cuenca_202611176afc2cb5103a0e0a474d6c82.html
+    publisher: La Razón
+    date: 2026-11-17
+    language: es
 open_questions:
     - No separate date is given for the checkpoint; 17 November 2026 is the publication date and is used as the incident date.
     - The hashish was described as more than 200 grams and the marijuana as about 10 grams, so 0.21 kg is an approximate combined total, not an exact laboratory weight.
@@ -68,17 +73,17 @@ open_questions:
 
 The Guardia Civil in Cuenca, acting in its tasked surveillance of the province's
 main roads and protection of public safety, detained a 50-year-old man for an
-alleged offence against public health in the form of drug trafficking. [@1,2,3] The
+alleged offence against public health in the form of drug trafficking. [@1,2,3,4] The
 events occurred during a police deployment on a public road in the natural
 district of La Alcarria in Cuenca province, carried out by officers from the
-Guardia Civil post in Cañaveras. [@1,2,3]
+Guardia Civil post in Cañaveras. [@1,2,3,4]
 
 During the operation officers identified the driver and searched a vehicle that
 had aroused their suspicion. [@1,2] Inside a suitcase in the boot officers found
-more than 200 grams of hashish and about 10 grams of marijuana. [@1,2,3] The
+more than 200 grams of hashish and about 10 grams of marijuana. [@1,2,3,4] The
 discovery led officers to seize the drugs and arrest the man for the acts under
 investigation. [@1,2]
 
 The detainee was placed, together with the case papers drawn up and the seized
 items, at the disposal of the Civil and Investigation Section of the duty Court
-of Instance in Cuenca. [@1,2,3]
+of Instance in Cuenca. [@1,2,3,4]
