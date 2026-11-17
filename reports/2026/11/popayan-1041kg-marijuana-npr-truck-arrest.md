@@ -115,6 +115,11 @@ sources:
     publisher: El Universal
     date: 2026-11-17
     language: es
+  - title: 'Incautada en Colombia una tonelada de marihuana que iba con destino a Brasil: el cargamento venía oculto en el piso de un camión en el Cauca'
+    url: https://www.infobae.com/colombia/2026/11/17/ejercito-incauto-una-tonelada-de-marihuana-ocultos-en-un-camion-rural-de-popayan-el-cargamento-iba-con-destino-a-brasil/
+    publisher: Infobae
+    date: 2026-11-17
+    language: es
 open_questions:
   - The same page also states that 1,700 kilograms of pressed marijuana were found in the vehicle and quotes Colonel Juan Camilo Vela on 1,700 kilos taken out of circulation, contradicting its own 1,041-kilogram account used here.
   - The same page puts the economic impact on the Dagoberto Ramos Ortiz structure at more than 425 million pesos, differing from the about 1,050 million pesos already recorded from Army accounts.
@@ -124,16 +129,16 @@ open_questions:
 Troops of Anti-Narcotics Battalion No. 2 carried out a ground interdiction
 against a motor vehicle in a rural area of Popayán, Cauca. [@1,7,10] Officers found
 1,041 kilograms of marijuana hidden inside an NPR-type truck during the check.
-[@1,3,4,5,6,7,8,9,10] The driver ignored the stop signal and fled, prompting a motorized pursuit until troops intercepted the vehicle. [@6] Troops at a 29th Brigade road checkpoint detected the suspicious van-type truck and signalled it to stop. [@6] Officers arrested the driver of the vehicle at the scene. [@1,3,4,5,6,7,8,9,10] The seized
+[@1,3,4,5,6,7,8,9,10,11] The load was hidden beneath the floor of the truck and in internal compartments of the vehicle. [@11] The driver ignored the stop signal and fled, prompting a motorized pursuit until troops intercepted the vehicle. [@6] Troops at a 29th Brigade road checkpoint detected the suspicious van-type truck and signalled it to stop. [@6] Officers arrested the driver of the vehicle at the scene. [@1,3,4,5,6,7,8,9,10,11] The seized
 load, the immobilized vehicle and the detained man were placed at the disposal
 of the judicial authorities for prosecution for alleged drug trafficking,
-manufacture or possession. [@2,3]
+manufacture or possession. [@2,3,11]
 
 Military intelligence linked the load to the Dagoberto Ramos structure of the
-FARC dissidents. [@2,3,4,5,6,7,8,9,10] Intelligence indicated the drug was first bound for Puerto
-Asís, Putumayo. [@1,3,4,5,6,7,8,9,10] From Puerto Asís the load was to be moved by river launches
-toward Brazil. [@1,3,4,5,6,7,8,9,10]
+FARC dissidents. [@2,3,4,5,6,7,8,9,10,11] Intelligence indicated the drug was first bound for Puerto
+Asís, Putumayo. [@1,3,4,5,6,7,8,9,10,11] From Puerto Asís the load was to be moved by river launches
+toward Brazil. [@1,3,4,5,6,7,8,9,10,11]
 
 Authorities estimated the seizure equalled about 52,050 doses for illegal
-markets. [@1,4,5,7,8,9,10] The Army put the economic impact on that structure at about 1,050
-million pesos. [@2,7,8,9,10]
+markets. [@1,4,5,7,8,9,10,11] The Army put the economic impact on that structure at about 1,050
+million pesos. [@2,7,8,9,10,11]

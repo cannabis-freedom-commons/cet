@@ -80,6 +80,11 @@ sources:
     publisher: 724 Noticias
     date: 2026-11-05
     language: es
+  - title: 'Incautada en Colombia una tonelada de marihuana que iba con destino a Brasil: el cargamento venía oculto en el piso de un camión en el Cauca'
+    url: https://www.infobae.com/colombia/2026/11/17/ejercito-incauto-una-tonelada-de-marihuana-ocultos-en-un-camion-rural-de-popayan-el-cargamento-iba-con-destino-a-brasil/
+    publisher: Infobae
+    date: 2026-11-17
+    language: es
 open_questions:
   - The reports give only the 5 November 2026 announcement date with no separate interception date, so 5 November is used as the incident date.
   - The two detainees were not named and no charges or court outcome were reported.
@@ -91,25 +96,25 @@ open_questions:
 
 Navy units located and intercepted a boat at the hamlet of Zama in Cumaribo,
 Vichada. [@1,3] Two crew members aboard were captured, a Colombian man and a
-Venezuelan woman. [@1,3] Marine Infantry Brigade No. 5 and Riverine Battalion No.
+Venezuelan woman. [@1,3,4] Marine Infantry Brigade No. 5 and Riverine Battalion No.
 50 detected the boat in a joint operation with the Army, the Air Force and the
-National Police. [@2] The two detainees were placed at the disposal of the
+National Police. [@2,4] The two detainees were placed at the disposal of the
 judicial authorities to define their legal situation. [@2]
 
 Inspectors found packages with characteristics of illicit substances hidden in a
-double bottom fitted inside the boat. [@1] The boat, its occupants and the
+double bottom fitted inside the boat. [@1,4] The boat, its occupants and the
 seized material were taken to El Coco in Inírida, Guainía, where Technical
 Investigation Corps officers confirmed through preliminary identification
 testing that it was marijuana. [@1,3] The final weighing gave 728.2 kilograms of
-marijuana seized by the Navy on the Orinoco River in Vichada. [@1,3] The Navy said
+marijuana seized by the Navy on the Orinoco River in Vichada. [@1,3,4] The Navy said
 the operation prevented about 7.6 million dollars in income to drug trafficking
-groups and the distribution of more than 120,000 doses of marijuana. [@1]
+groups and the distribution of more than 120,000 doses of marijuana. [@1,4]
 
 Intelligence linked the load presumptively to the illicit finances of residual
 organized armed group structure 53 Edison Umaña of the Segunda Marquetalia. [@1,3]
 The load was bound first for Venezuela, where trafficking networks would use
 clandestine airstrips to move it onward to Central America and the United
-States. [@1,3] The Navy said rivers like the Orinoco let illegal groups move loads
+States. [@1,3,4] The Navy said rivers like the Orinoco let illegal groups move loads
 in hard-to-reach areas near the border. [@2]
 
 The interception at Zama was carried out jointly by the Navy, the Army, the Air Force and the National Police, which captured the two crew members. [@3]
