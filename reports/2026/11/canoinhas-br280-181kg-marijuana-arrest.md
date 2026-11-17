@@ -104,20 +104,25 @@ sources:
     publisher: ClicRDC
     date: 2026-11-16
     language: pt
+  - title: Homem é preso em Canoinhas ao tentar levar 181 quilos de maconha para Joinville por R$ 3 mil | Canoinhas Online
+    url: https://canoinhasonline.com.br/2026/11/homem-e-preso-em-canoinhas-ao-tentar-levar-181-quilos-de-maconha-para-joinville-por-r-3-mil.html
+    publisher: Canoinhas Online
+    date: 2026-11-16
+    language: pt
 ---
 
 Federal Highway Police officers were carrying out a routine inspection in front
-of their Canoinhas operational unit when they signalled a car to stop. [@1,5,7] The
+of their Canoinhas operational unit when they signalled a car to stop. [@1,5,7,8] The
 driver ignored the stop signal and fled along the highway, and the officers
-pursued and intercepted the car after seven kilometres. [@2,5,7] A 31-year-old man
+pursued and intercepted the car after seven kilometres. [@2,5,7,8] A 31-year-old man
 was arrested in flagrante on the morning of Monday 16 November 2026 while
-transporting 181 kilograms of marijuana on BR-280 in Canoinhas. [@1,4,5,6,7]
+transporting 181 kilograms of marijuana on BR-280 in Canoinhas. [@1,4,5,6,7,8]
 
 Officers searching the car found numerous marijuana tablets totalling 181
 kilograms, and seized two mobile phones, one of which had been completely
-smashed moments before. [@2,4,7] The driver told police he would receive R$3,000 for
-carrying the load, which was bound for Joinville. [@2,4,5,6,7] The illicit load had come from Paraguay. [@6]
+smashed moments before. [@2,4,7,8] The driver told police he would receive R$3,000 for
+carrying the load, which was bound for Joinville. [@2,4,5,6,7,8] The illicit load had come from Paraguay. [@6]
 
 The man was taken to the Canoinhas Civil Police station together with the
-vehicle and the seized material. [@1,4,7] He will answer for the crime of drug
-trafficking. [@3]
+vehicle and the seized material. [@1,4,7,8] He will answer for the crime of drug
+trafficking. [@3,8]
