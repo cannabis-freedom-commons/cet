@@ -50,27 +50,30 @@ sources:
     url: https://www.heraldscotland.com/news/26737984.charges-dropped-six-men-7-1m-cannabis-factory/
     publisher: The Herald
     date: 2026-11-17
+  - title: Charges against six men in '£7.1m cannabis farm' case dropped
+    url: http://news.bbc.co.uk/news/articles/cmx20p020g00o
+    publisher: BBC News
+    date: 2026-11-17
 ---
 
 Charges were dropped against six Vietnamese men accused of involvement in a
-large cannabis factory at a derelict school. [@1] The six were Thong Vo, 38,
+large cannabis factory at a derelict school. [@1,2] The six were Thong Vo, 38,
 Chinh Nguyen, 44, Diep Van Le, 47, Trung Nguyen, 35, Pham Quoc Anh, 23, and Nam
-Viet Le, 23. [@1] They were accused of taking part in the production and supply
+Viet Le, 23. [@1,2] They were accused of taking part in the production and supply
 of the class B drug between 1 July 2025 and 1 February 2026. [@1]
 
 Police said that at the time of the search they found cannabis at the former
-Wick High School in the Highlands with an estimated street value of £7.1m. [@1]
+Wick High School in the Highlands with an estimated street value of £7.1m. [@1,2]
 The case had been called for a hearing in July at the High Court in Glasgow.
-[@1] Lawyers for the group, other than Ho's legal team, had entered not guilty
-pleas. [@1] A special defence of coercion was lodged on behalf of each of the
-six. [@1]
+[@1,2] Lawyers for the group, other than Ho's legal team, had entered not guilty
+pleas. [@1,2] A special defence of coercion was lodged on behalf of each of the
+six. [@1,2]
 
 At the summer hearing the court was told that inquiries were under way through
 the Home Office National Referral Mechanism into whether any of the six might be
-victims of human trafficking. [@1] A nine-day trial had been set to begin in
-October 2027. [@1] A spokesperson for the Crown Office and Procurator Fiscal
+victims of human trafficking. [@1,2] A nine-day trial had been set to begin in
+October 2027. [@1,2] A spokesperson for the Crown Office and Procurator Fiscal
 Service said Crown Counsel decided there should be no further criminal
 proceedings at this time after full and careful consideration of the facts and
-circumstances of the case. [@1] The Crown reserved the right to proceed in the
-future should further evidence become available. [@1]
-
+circumstances of the case. [@1,2] The Crown reserved the right to proceed in the
+future should further evidence become available. [@1,2]
