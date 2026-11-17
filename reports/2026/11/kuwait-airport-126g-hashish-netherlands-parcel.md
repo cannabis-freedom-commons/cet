@@ -73,12 +73,11 @@ sources:
     url: https://timeskuwait.com/drugs-concealed-inside-chocolate-and-biscuit-containers-seized-at-kuwait-international-airport/
     publisher: Times Kuwait
     date: 2026-11-12
-open_questions:
-  - The accounts give no separate date for the inspection; 12 November 2026 is the date the seizure was first reported and is used as the incident date.
-  - Customs described the cannabis as about 126 grams of suspected hashish, not as a confirmed laboratory result.
-  - The same parcel held about 11 grams of suspected cocaine, which is not included in the cannabis weight.
-  - The suspect's name, nationality and role, whether sender, addressee or another person, were not reported.
-  - No court charge or outcome was reported after the referral to the competent authority.
+  - title: ضبط متهم جلب حشيشا وكوكايين داخل عبوات بسكويت وشوكولاتة
+    url: https://www.alanba.com.kw/watch/?vid=109937
+    publisher: جريدة الأنباء الكويتية
+    date: 2026-11-12
+    language: ar
 ---
 
 In coordination between the customs search and investigation office and the
@@ -98,4 +97,4 @@ The search found four pieces suspected to be hashish, cannabis resin, weighing
 about 126 grams in total, and a white powder suspected to be cocaine weighing
 about 11 grams. [@1,3,4] Customs said the seized material had been hidden tightly
 inside chocolate and biscuit packages in an attempt to conceal it and bring it
-into the country. [@1,3,4]
+into the country. [@1,3,4,7]
