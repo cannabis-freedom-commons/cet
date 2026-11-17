@@ -99,24 +99,25 @@ sources:
     publisher: ND Mais
     date: 2026-11-16
     language: pt
-open_questions:
-    - No exact time for the stop was reported beyond the morning of 16 November 2026.
-    - No court outcome beyond the driver being taken to the police station to answer for drug trafficking was reported.
-    - Accounts give the seizure as 180 and 181 kilograms; the report uses 181 kilograms.
+  - title: Motorista foge da PRF por sete quilômetros e acaba preso com 181 quilos de maconha em SC - ClicRDC
+    url: https://clicrdc.com.br/seguranca-publica/motorista-foge-da-prf-por-sete-quilometros-e-acaba-preso-com-181-quilos-de-maconha-em-sc/
+    publisher: ClicRDC
+    date: 2026-11-16
+    language: pt
 ---
 
 Federal Highway Police officers were carrying out a routine inspection in front
-of their Canoinhas operational unit when they signalled a car to stop. [@1,5] The
+of their Canoinhas operational unit when they signalled a car to stop. [@1,5,7] The
 driver ignored the stop signal and fled along the highway, and the officers
-pursued and intercepted the car after seven kilometres. [@2,5] A 31-year-old man
+pursued and intercepted the car after seven kilometres. [@2,5,7] A 31-year-old man
 was arrested in flagrante on the morning of Monday 16 November 2026 while
-transporting 181 kilograms of marijuana on BR-280 in Canoinhas. [@1,4,5,6]
+transporting 181 kilograms of marijuana on BR-280 in Canoinhas. [@1,4,5,6,7]
 
 Officers searching the car found numerous marijuana tablets totalling 181
 kilograms, and seized two mobile phones, one of which had been completely
-smashed moments before. [@2,4] The driver told police he would receive R$3,000 for
-carrying the load, which was bound for Joinville. [@2,4,5,6] The illicit load had come from Paraguay. [@6]
+smashed moments before. [@2,4,7] The driver told police he would receive R$3,000 for
+carrying the load, which was bound for Joinville. [@2,4,5,6,7] The illicit load had come from Paraguay. [@6]
 
 The man was taken to the Canoinhas Civil Police station together with the
-vehicle and the seized material. [@1,4] He will answer for the crime of drug
+vehicle and the seized material. [@1,4,7] He will answer for the crime of drug
 trafficking. [@3]
