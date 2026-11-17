@@ -55,31 +55,35 @@ sources:
     publisher: Youm7
     date: 2026-11-17
     language: ar
+  - title: ضبط بـ 36 كيلو حشيش.. جنايات الإسكندرية تقضي بالمؤبد على عامل لاتهامه بالاتجار في المخدرات
+    url: https://www.cairo24.com/2530945
+    publisher: القاهرة 24
+    date: 2026-11-17
+    language: ar
 open_questions:
-  - No separate date for the arrest or the ruling was given; 17 November 2026 is the publication date and stands in for the incident date.
-  - The 36.21-kilogram total is the sum of the two reported bag weights (18.110 kg and 18.100 kg); the headline rounds it to 36 kg.
-  - The article's wording on the number of hashish slabs across the two bags is ambiguous, so no slab count is recorded.
-  - The account rests on a single outlet report; no second source or court record was opened.
-  - No plea, detention detail or appeal outcome beyond this ruling was reported.
+    - No separate date for the arrest or the ruling was given; 17 November 2026 is the publication date of both accounts and stands in for the incident date.
+    - 'The two accounts give different second-bag weights: Youm7 reported 18.110 kg and 18.100 kg (a 36.21 kg total), while Cairo24 reported 18.110 kg for each bag (a 36.220 kg total); the report keeps the Youm7 figures.'
+    - Cairo24 states each of the two bags held 750 hashish slabs, while Youm7's wording on the slab count is ambiguous, so no slab count is recorded.
+    - Both accounts reproduce the same official police and court statement, so they are not independent reporting and no court record was opened.
+    - No plea, detention detail or appeal outcome beyond this ruling was reported.
 ---
 
 The Alexandria Criminal Appeals Court sentenced a worker identified only as
-H.Kh.M. to life imprisonment for trafficking in narcotic drugs. [@1] The court
+H.Kh.M. to life imprisonment for trafficking in narcotic drugs. [@1,2] The court
 fined him 100,000 Egyptian pounds, ordered the confiscation of the drugs and
-ordered him to pay the criminal costs. [@1] The ruling panel was headed by
+ordered him to pay the criminal costs. [@1,2] The ruling panel was headed by
 Counsellor Mohamed Abdel Hamid El-Khouly, with members Tarek Mohamed Haridi,
 Khaled Mohamed Abdel Fattah and Ahmed Mokhtar Abdel Hai, and clerk Mahmoud
-Mostafa. [@1]
+Mostafa. [@1,2]
 
 The case was registered as No. 3704 of 2026, Second Ameriya felonies, after the
 Alexandria Security Directorate received a notice from General Administration
 for Drug Control officers that the defendant had been caught with hashish in the
-district. [@1] Investigators said the worker was engaged in trafficking narcotic
+district. [@1,2] Investigators said the worker was engaged in trafficking narcotic
 drugs, and a prosecution warrant was obtained before officers carried out the
 arrest. [@1] At the arrest he was holding two bags of hashish slabs, one
 weighing 18.110 kilograms and the other weighing 18.100 kilograms. [@1] Officers
-also found cash and a mobile phone on his person during the search. [@1]
+also found cash and a mobile phone on his person during the search. [@1,2]
 
 Police drew up a report on the incident and the prosecution referred the
-defendant to the Alexandria court, which issued its ruling. [@1]
-
+defendant to the Alexandria court, which issued its ruling. [@1,2]
