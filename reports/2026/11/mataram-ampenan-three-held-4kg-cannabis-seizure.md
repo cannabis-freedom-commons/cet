@@ -68,6 +68,11 @@ media:
     media_url: https://image.idntimes.com/post/20261117/1efcdcb4-df8a-4a70-b468-de3c1594fd87_568709e2-9414-413f-af04-18074e3ad7e2.jpeg
     publisher: IDN Times NTB
     caption: 'Mataram police chief Hendro Purwoko leading the Ampenan raid. Photo: Polresta Mataram via IDN Times'
+  - kind: photo
+    url: https://ntbsatu.com/hukrim/zulhaqkhan/tiga-pria-dan-ganja-438-kg-diamankan-polisi-saat-gerebek-losmen-di-ampenan/
+    media_url: https://ntbsatu.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-17-at-09.37.48-780x470.jpeg
+    publisher: NTBSatu
+    caption: 'The three detained men and the seized ganja evidence being taken to Mapolresta Mataram on the night of 16 November 2026. Photo: Istimewa.'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 50c81378041495df9a44687017cdff0e
@@ -103,24 +108,29 @@ sources:
     publisher: IDN Times NTB
     date: 2026-11-17
     language: id
+  - title: Tiga Pria dan Ganja 4,38 Kg Diamankan Polisi saat Gerebek Losmen di Ampenan - NTBSatu
+    url: https://ntbsatu.com/hukrim/zulhaqkhan/tiga-pria-dan-ganja-438-kg-diamankan-polisi-saat-gerebek-losmen-di-ampenan/
+    publisher: NTBSatu
+    date: 2026-11-17
+    language: id
 ---
 
 Drug repeat offender ASS, a 39-year-old man from Siantar in North Sumatra, had
 left prison three years earlier and had returned to selling cannabis. [@1]
 Officers arrested him in a guesthouse in the Baturaja neighbourhood of South
-Ampenan, Mataram city, on the night of Monday 16 November 2026. [@1,2,3] The raid was carried out by the Polresta Mataram drug-investigation operational team led directly by Mataram police chief Hendro Purwoko. [@2,3,4,5,6] Police chief Hendro Purwoko was accompanied by drug-investigation unit head AKP Abisatya Darma Wiryatmaja during the initial interrogation at the raid location. [@6] The raid began with information from the public which the Satresnarkoba team followed up through investigation. [@5] At the same
+Ampenan, Mataram city, on the night of Monday 16 November 2026. [@1,2,3,7] The raid was carried out by the Polresta Mataram drug-investigation operational team led directly by Mataram police chief Hendro Purwoko. [@2,3,4,5,6,7] Police chief Hendro Purwoko was accompanied by drug-investigation unit head AKP Abisatya Darma Wiryatmaja during the initial interrogation at the raid location. [@6] The raid began with information from the public which the Satresnarkoba team followed up through investigation. [@5,7] At the same
 location officers also detained two other people, 54-year-old B and 24-year-old
-MOS. [@1,2] ASS is from Pematang Siantar in North Sumatra, while B and MOS are from Ampenan in Mataram city. [@2,3,4,5,6] Police said they were still tracing where the drugs came from and
-developing the dealer network. [@1,2] In an initial account the cannabis was to be sold in the Gili Trawangan area, but police said that account also changed and the destination was still under investigation. [@4] AAS first claimed he had obtained the cannabis from someone in Senggigi, but police said his account kept changing. [@4] The three were processed under Article 114(2) of the 2009 Narcotics Law in conjunction with Article 609(2)(a) of the 2023 Criminal Code and the 2026 penalty-adjustment law. [@2,3,5] Police stated that the charges carry a maximum penalty of 12 years' imprisonment. [@5] The three initially acknowledged that the items officers found were cannabis but would not explain where the items came from. [@2,3,5]
+MOS. [@1,2,7] ASS is from Pematang Siantar in North Sumatra, while B and MOS are from Ampenan in Mataram city. [@2,3,4,5,6] Police said they were still tracing where the drugs came from and
+developing the dealer network. [@1,2] In an initial account the cannabis was to be sold in the Gili Trawangan area, but police said that account also changed and the destination was still under investigation. [@4] AAS first claimed he had obtained the cannabis from someone in Senggigi, but police said his account kept changing. [@4] The three were processed under Article 114(2) of the 2009 Narcotics Law in conjunction with Article 609(2)(a) of the 2023 Criminal Code and the 2026 penalty-adjustment law. [@2,3,5,7] Police stated that the charges carry a maximum penalty of 12 years' imprisonment. [@5] The three initially acknowledged that the items officers found were cannabis but would not explain where the items came from. [@2,3,5]
 
-During the arrest police found four kilograms of cannabis in ASS's room. [@1,2] After the arrest officers extended the search from that room to a house in South Ampenan where one of the suspects was known to live. [@2,3,5,6]
+During the arrest police found four kilograms of cannabis in ASS's room. [@1,2,7] After the arrest officers extended the search from that room to a house in South Ampenan where one of the suspects was known to live. [@2,3,5,6,7] In that house officers found a pack of clear clips, a sharpened pipette and a Kawasaki KLX motorcycle. [@7]
 Mataram police chief Hendro Purwoko estimated the seized evidence at 4 kilograms
-of cannabis. [@1,4] The cannabis lay scattered on the bedroom floor, wrapped in
+of cannabis. [@1,4,7] The cannabis lay scattered on the bedroom floor, wrapped in
 brown packing tape. [@1] Officers also seized a roll of cigarette paper, a
 smoking device, five used clips of suspected methamphetamine packets and Rp
-100,000 in cash. [@1] They also seized four mobile phones belonging to the
-suspected dealers. [@1]
+100,000 in cash. [@1,7] They also seized four mobile phones belonging to the
+suspected dealers. [@1,7]
 
-ASS is a recidivist who left prison in 2023, according to the police chief. [@1,4]
+ASS is a recidivist who left prison in 2023, according to the police chief. [@1,4,7]
 The police chief added that the force would give dealers no room in the Mataram
 police jurisdiction. [@1]
