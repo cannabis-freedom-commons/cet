@@ -64,14 +64,18 @@ sources:
     publisher: Nieuwsblad
     date: 2026-11-13
     language: nl
+  - title: Condenado en Bélgica un joven que recibió siete paquetes de droga enviados desde Málaga
+    url: https://www.areacostadelsol.com/malaga/condenado-en-belgica-un-joven-que-recibio-siete-paquetes-de-droga-enviados/
+    publisher: Área Costa del Sol
+    date: 2026-11-17
+    language: es
 open_questions:
-    - The report gives no separate date for the sentence; 10 November 2026 is its publication date and is used as the incident date.
     - Police first expected 3 kilograms but the intercepted parcel held 2.6 kilograms; the report uses the measured 2.6 kilograms.
     - The report says this was not the first parcel to arrive in Izegem; Nieuwsblad's 13 November account says the man had taken in at least seven such packages since September 2025.
     - The length of the pretrial detention counted as the effective sentence was not reported.
     - Nieuwsblad calls the man 24, while the HLN source already cited says 25; the report keeps the 25-year-old figure.
     - Nieuwsblad describes the intercepted parcel as three kilograms and the house search as 65 grams of cannabis plus 49 grams of hash, while the HLN source already cited gives a measured 2.6 kilograms and 'more than 100 grams' of cannabis; the report keeps the HLN figures.
-    - The whole account rests on two Belgian reports, HLN and Nieuwsblad; no court document or second independent account of the sentence was opened.
+    - The whole account rests on Belgian reports HLN and Nieuwsblad and a Spanish reprint of the same news; no court document or independent account of the sentence was opened.
 media:
   - kind: photo
     url: https://www.nieuwsblad.be/regio/west-vlaanderen/izegemnaar-krijgt-18-maanden-voorwaardelijk-voor-cannabishandeltje-via-postpakketten/164494205.html
@@ -81,22 +85,22 @@ media:
 ---
 
 A 25-year-old man from Izegem was arrested immediately after accepting a postal
-parcel. [@1] The court sentenced him on 10 November 2026, the publication date
-of the report. [@1]
+parcel. [@1,3] The court sentenced him on 10 November 2026, the publication date
+of the report. [@1,3]
 
 In April, police learned that a postal parcel with 3 kilograms of cannabis from
-Spain was due to arrive in Izegem. [@1] Officers traced and intercepted the
-parcel, which held 2.6 kilograms of cannabis addressed to B.D. [@1] Customs intercepted the parcel on 13 April 2026. [@2] The parcel
+Spain was due to arrive in Izegem. [@1,3] Officers traced and intercepted the
+parcel, which held 2.6 kilograms of cannabis addressed to B.D. [@1,3] Customs intercepted the parcel on 13 April 2026. [@2,3] The parcel
 had come from Malaga in Spain, and it was not the first such parcel to arrive in
-Izegem. [@1] The man had taken in at least seven such packages since September 2025. [@2] Police resealed the parcel and had an undercover agent deliver it
-in Izegem, then arrested the man. [@1] A house search found more than 100 grams
+Izegem. [@1,3] The man had taken in at least seven such packages since September 2025. [@2,3] Police resealed the parcel and had an undercover agent deliver it
+in Izegem, then arrested the man. [@1,3] A house search found more than 100 grams
 of cannabis and 9,045 euros in cash, vacuum-packed behind the bedside table.
-[@1] The house search found 65 grams of cannabis and 49 grams of cannabis hash. [@2] The cash find also brought a money-laundering charge. [@1] Police also found a suspect phone. [@2]
+[@1,3] The house search found 65 grams of cannabis and 49 grams of cannabis hash. [@2,3] The cash find also brought a money-laundering charge. [@1,3] Police also found a suspect phone. [@2,3]
 
-D. spent a period in detention and is now free under conditions. [@1] He
+D. spent a period in detention and is now free under conditions. [@1,3] He
 admitted that he had let himself be tempted after seeing people his age further
-ahead in life. [@1] The court counted only the pretrial detention period as the
-effective punishment. [@1] The rest of an 18-month prison term was suspended on
+ahead in life. [@1,3] The court counted only the pretrial detention period as the
+effective punishment. [@1,3] The rest of an 18-month prison term was suspended on
 condition that he meets conditions and accepts guidance over the next four
-years. [@1] He is now being guided again for his drug problem. [@2] He must also pay a 2,500-euro fine and forfeit the 9,045 euros in
-cash. [@1] The fine was 12,500 euros, of which only 2,500 euros is effective. [@2]
+years. [@1,3] He is now being guided again for his drug problem. [@2,3] He must also pay a 2,500-euro fine and forfeit the 9,045 euros in
+cash. [@1,3] The fine was 12,500 euros, of which only 2,500 euros is effective. [@2,3]
