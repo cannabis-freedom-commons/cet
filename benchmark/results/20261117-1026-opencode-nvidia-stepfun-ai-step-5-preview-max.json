@@ -1,0 +1,3722 @@
+{
+ "schema": 1,
+ "id": "20261117-1026-opencode-nvidia-stepfun-ai-step-5-preview-max",
+ "label": "",
+ "subject": {
+  "id": "opencode@nvidia/stepfun-ai/step-5-preview#max",
+  "harness": "opencode",
+  "provider": "nvidia",
+  "model": "stepfun-ai/step-5-preview",
+  "effort": "max",
+  "agent": "nvidia/stepfun-ai/step-5-preview#max",
+  "recorded": "nvidia/stepfun-ai/step-5-preview#max",
+  "harness_version": "opencode v2.2.7"
+ },
+ "started_at": "2026-11-17T10:26:03.342Z",
+ "finished_at": null,
+ "complete": false,
+ "repeat": 3,
+ "concurrency": 1,
+ "protocol": {
+  "version": 1,
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "max_steps": 32,
+  "timeout_seconds": 1800,
+  "websearch": "random",
+  "context": "inline",
+  "screen": true,
+  "source_browser": true,
+  "concurrency": 2,
+  "case_deadline_minutes": 45,
+  "retry_errors": 1
+ },
+ "protocol_hash": "9be3371802af",
+ "cases_hash": "3590fabd1e59",
+ "full_set": true,
+ "tracker": {
+  "commit": "8b098eedbe1a11294d5354326d15b200fdb4c9cf",
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "uncommitted_changes": false
+ },
+ "scorer_version": 1,
+ "weights": {
+  "facts": 20,
+  "figures": 20,
+  "classification": 10,
+  "corroboration": 15,
+  "photos": 10,
+  "text": 15,
+  "grounding": 10
+ },
+ "dimensions": {
+  "facts": "Facts",
+  "figures": "Figures and units",
+  "classification": "Classification",
+  "corroboration": "Corroboration",
+  "photos": "Photos",
+  "text": "Report text",
+  "grounding": "Grounding"
+ },
+ "families": {
+  "new-event": "New events",
+  "known-event": "Already covered",
+  "out-of-scope": "Out of scope"
+ },
+ "summary": {
+  "score": 23.3,
+  "attempt_scores": [
+   23.3
+  ],
+  "cases": 25,
+  "attempts": 25,
+  "verdicts": {
+   "pass": 5,
+   "partial": 1,
+   "fail": 19,
+   "error": 0,
+   "skipped": 0,
+   "spoiled": 0
+  },
+  "families": {
+   "new-event": {
+    "score": 6.9,
+    "cases": 12
+   },
+   "known-event": {
+    "score": 0,
+    "cases": 7
+   },
+   "out-of-scope": {
+    "score": 83.3,
+    "cases": 6
+   }
+  },
+  "capabilities": {
+   "recognised": {
+    "score": 8.3,
+    "cases": 12
+   },
+   "facts": {
+    "score": 8.3,
+    "cases": 12
+   },
+   "figures": {
+    "score": 8.3,
+    "cases": 12
+   },
+   "classification": {
+    "score": 8.3,
+    "cases": 12
+   },
+   "corroboration": {
+    "score": 4.5,
+    "cases": 11
+   },
+   "photos": {
+    "score": 0,
+    "cases": 10
+   },
+   "text": {
+    "score": 8.3,
+    "cases": 12
+   },
+   "grounding": {
+    "score": 8.3,
+    "cases": 12
+   }
+  },
+  "usage": {
+   "minutes_per_case": 29.9,
+   "steps_per_case": 3,
+   "input_tokens": 1739470,
+   "output_tokens": 31240,
+   "reasoning_tokens": 104832,
+   "cache_read_tokens": 1085248,
+   "cache_write_tokens": 0,
+   "cost_usd": 0
+  }
+ },
+ "cases": [
+  {
+   "id": "br-agua-clara-early-account",
+   "title": "54 kg of cannabis found in Água Clara",
+   "family": "new-event",
+   "tests": [
+    "corroboration",
+    "mixed-substances",
+    "figures",
+    "photos",
+    "languages"
+   ],
+   "why": "The submitted page is an early, partial account from a small-town portal: three people detained and 59 bricks of about 54 kg. The police statement that regional outlets carried a day later gives the full picture: five men arrested (four in the act, one on a warrant) and smaller amounts found elsewhere. A good researcher finds the fuller accounts. The 120 g of cocaine stay out of the cannabis weight.",
+   "submit": "https://www.aguaclarams.com.br/artigo/denuncia-anonima-tentativa-de-fuga-e-operacao-policial-terminam-com-apreensao-de-cocaina-e-maconha-em-agua-clara",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "br": 1
+    },
+    "date": {
+     "value": "2026-11-04",
+     "also": {
+      "2026-11-05": 1
+     }
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1,
+     "raid": 1
+    },
+    "place": {
+     "coordinates": [
+      -20.4478,
+      -52.8778
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 54.52,
+      "tolerance": 0.012
+     },
+     "arrested": {
+      "value": 5,
+      "partial": [
+       3
+      ]
+     }
+    },
+    "figures_optional": [
+     "cash",
+     "vehicles",
+     "sites",
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 59,
+      "why": "number of bricks taken for the weight"
+     },
+     {
+      "key": "arrested",
+      "value": 1,
+      "why": "only the driver counted"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower",
+      "hashish"
+     ],
+     "agencies": [
+      "br-pm",
+      "Polícia Militar",
+      "Military Police",
+      "Polícia Civil",
+      "Civil Police"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the 59 bricks",
+      "any": [
+       "59"
+      ]
+     },
+     {
+      "say": "the cocaine",
+      "kept apart": null,
+      "any": [
+       "cocaine"
+      ]
+     },
+     {
+      "say": "it started with an anonymous tip",
+      "any": [
+       "anonymous",
+       "tip"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "aguaclarams.com.br",
+      "radiocacula.com.br",
+      "estadoms.com.br",
+      "pc.ms.gov.br",
+      "jpnews.com.br",
+      "perfilnews.com.br",
+      "hojemais.com.br",
+      "campograndenews.com.br",
+      "midiamax.uol.com.br"
+     ],
+     "markers": [
+      "Água Clara",
+      "59 tabletes",
+      "54,",
+      "VW/Gol",
+      "VW Gol"
+     ],
+     "markers_min": 3
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "07e870f81b10431c99aa475fa85d9990",
+      "WhatsApp-Image-2026-11-05-at-14.23.31"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 19:20 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1797,
+      "research_seconds": 1609,
+      "steps": 7,
+      "searches": 2,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 142569,
+      "output_tokens": 1073,
+      "reasoning_tokens": 4978,
+      "cache_read_tokens": 88320,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Água Clara MS maconha cocaína apreensão \"54 quilos\" novembro 2026",
+      "\"Água Clara\" operação tráfico cinco presos maconha 54 quilos quarta-feira polícia civil militar"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 6 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "br-mojui-analoga-maconha",
+   "title": "Arrest in Mojuí dos Campos with a substance \"analogous to marijuana\"",
+   "family": "new-event",
+   "tests": [
+    "scope",
+    "languages",
+    "terminology"
+   ],
+   "why": "Brazilian police reports say \"substância análoga à maconha\" for suspected marijuana that has not yet been lab-tested. It is not a synthetic cannabinoid. A model in production rejected this page as synthetic; the right answer is a small new report: one man arrested, twelve wraps of cannabis and 31 of cocaine.",
+   "submit": "https://oimpacto.com.br/2026/11/suspeito-e-preso-em-mojui-dos-campos-apos-ser-flagrado-com-maconha-e-cocaina/",
+   "expect": {
+    "outcome": {
+     "new_event": 1,
+     "not_relevant": 0,
+     "insufficient_evidence": 0
+    },
+    "country": {
+     "br": 1
+    },
+    "date": {
+     "value": "2026-11-12"
+    },
+    "type": {
+     "arrest": 1,
+     "seizure": 1
+    },
+    "place": {
+     "coordinates": [
+      -2.6847,
+      -54.6425
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "arrested": {
+      "value": 1
+     }
+    },
+    "figures_optional": [
+     "cash",
+     "sites"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 12,
+      "why": "twelve wraps recorded as kilograms"
+     },
+     {
+      "key": "kg_seized",
+      "value": 43,
+      "why": "cocaine and cannabis wraps added and recorded as kilograms"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the twelve wraps of cannabis",
+      "any": [
+       "12",
+       "twelve"
+      ]
+     },
+     {
+      "say": "the cocaine",
+      "kept apart": null,
+      "any": [
+       "cocaine"
+      ]
+     }
+    ],
+    "open_questions": [
+     {
+      "about": "no weight was given",
+      "any": [
+       "weight",
+       "quantity",
+       "how much",
+       "grams",
+       "kilogram"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 13:20 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1420,
+      "steps": 2,
+      "searches": 2,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 26139,
+      "output_tokens": 223,
+      "reasoning_tokens": 4072,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Mojuí dos Campos distrito Santarém Pará latitude longitude",
+      "\"João Victor Castro\" preso maconha cocaína Mojuí dos Campos"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 1 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "cz-hemp-sprayed-synthetic",
+   "title": "Shopkeeper fined for hemp sprayed with synthetic cannabinoids",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "languages"
+   ],
+   "why": "A Czech tobacconist was fined 100,000 crowns for selling \"hemp\" products. The plant material was only a carrier: the banned substances were the synthetic cannabinoids MDMB-PINACA and MDMB-INACA sprayed on it. Synthetic cannabinoids are outside the tracker, hemp carrier included.",
+   "submit": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-trafikant-dostal-za-prodej-drogy-pokutu-distributora-policie-nechala-byt-320249",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5,
+     "routed_to_cfi": 0.25
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "Synthetic cannabinoid fine outside tracker scope",
+     "explanation": "The article reports that the Czech State Agricultural and Food Inspection (SZPI) fined a tobacconist in Sokolov 100,000 crowns at the end of October 2026 for selling blue Vapoverde packets sold under the name Legal Cannabis 420: dried hemp sprayed with the synthetic cannabinoids MDMB-PINACA and MDMB-INACA, which are on the Czech list of prohibited psychoactive substances. The police investigation described in the piece concerns only the sale of that synthetic product to a minor girl who collapsed and was hospitalised, handled as an offence (přestupek) referred to the Sokolov municipal authority, while the distributor Vapoverde was left unsanctioned. Under the tracker's substance scope, synthetic cannabinoids and their precursors are out of scope, including hemp used only as their carrier, so this is not relevant rather than routed to the CFI history; the sources describe no separate natural cannabis enforcement component. No existing report covers this case, so no merge or update applies.",
+     "model_explanation": "The article reports that the Czech State Agricultural and Food Inspection (SZPI) fined a tobacconist in Sokolov 100,000 crowns at the end of October 2026 for selling blue Vapoverde packets sold under the name Legal Cannabis 420: dried hemp sprayed with the synthetic cannabinoids MDMB-PINACA and MDMB-INACA, which are on the Czech list of prohibited psychoactive substances. The police investigation described in the piece concerns only the sale of that synthetic product to a minor girl who collapsed and was hospitalised, handled as an offence (přestupek) referred to the Sokolov municipal authority, while the distributor Vapoverde was left unsanctioned. Under the tracker's substance scope, synthetic cannabinoids and their precursors are out of scope, including hemp used only as their carrier, so this is not relevant rather than routed to the CFI history; the sources describe no separate natural cannabis enforcement component. No existing report covers this case, so no merge or update applies.",
+     "flags": [],
+     "usage": {
+      "seconds": 568,
+      "research_seconds": 478,
+      "steps": 3,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 63834,
+      "output_tokens": 1100,
+      "reasoning_tokens": 2042,
+      "cache_read_tokens": 30528,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "es-cabanes-hashish-warehouse",
+   "title": "8,025 kg of hashish in a Cabanes warehouse",
+   "family": "new-event",
+   "tests": [
+    "date",
+    "figures",
+    "classification",
+    "corroboration",
+    "photos"
+   ],
+   "why": "The raid was on 1 October but was announced on 9 October. The same article mentions an earlier van stop with about 2,400 kg in Viladecans, which is background and must not be added to this seizure. Covered in Spanish, Catalan and French.",
+   "submit": "https://www.diariodetransporte.com/general/policia-guardia-civil/7-detenidos-e-incautadas-mas-de-8-toneladas-de-hachis-escondidas-entre-la-mercancia-de-un-camion",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "es": 1
+    },
+    "date": {
+     "value": "2026-10-01"
+    },
+    "type": {
+     "seizure": 1,
+     "raid": 1,
+     "arrest": 1
+    },
+    "place": {
+     "coordinates": [
+      42.307,
+      2.821
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 8025
+     },
+     "arrested": {
+      "value": 7
+     }
+    },
+    "figures_optional": [
+     "value",
+     "charged",
+     "vehicles",
+     "sites"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 10425,
+      "why": "the earlier Viladecans van added to this seizure"
+     },
+     {
+      "key": "kg_seized",
+      "value": 2400,
+      "why": "the earlier Viladecans van taken for this seizure"
+     },
+     {
+      "key": "kg_seized",
+      "value": 8.025,
+      "why": "thousands separator read as a decimal point"
+     }
+    ],
+    "details": {
+     "products": [
+      "hashish"
+     ],
+     "agencies": [
+      "es-mossos"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "who acted (Mossos d'Esquadra)",
+      "any": [
+       "Mossos"
+      ]
+     },
+     {
+      "say": "seven men were arrested",
+      "any": [
+       "seven",
+       "\\b7\\b"
+      ]
+     },
+     {
+      "say": "how it was hidden",
+      "any": [
+       "rubber",
+       "granul",
+       "sacks",
+       "pallet",
+       "lorry",
+       "truck",
+       "trailer"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "diariodetransporte.com",
+      "france3-regions.franceinfo.fr",
+      "x.com",
+      "mossos.gencat.cat",
+      "elpuntavui.cat",
+      "diaridegirona.cat",
+      "lavanguardia.com",
+      "elperiodico.com",
+      "lindependant.fr",
+      "emporda.info",
+      "3cat.cat",
+      "ccma.cat",
+      "elnacional.cat",
+      "europapress.es",
+      "20minutos.es",
+      "elpais.com",
+      "naciodigital.cat",
+      "ara.cat",
+      "elcaso.elnacional.cat",
+      "interior.gencat.cat"
+     ],
+     "markers": [
+      "8.025",
+      "8 025",
+      "8,025",
+      "Cabanes",
+      "Mossos"
+     ]
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "6ac8c6828f1fc075477529",
+      "1791537792188"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 14:20 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1667,
+      "steps": 5,
+      "searches": 3,
+      "pages_opened": 3,
+      "runs": 1,
+      "input_tokens": 179931,
+      "output_tokens": 692,
+      "reasoning_tokens": 7965,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Mossos d'Esquadra Cabanes 8 toneladas hachís 7 detenidos octubre 2026",
+      "Cabanes Girona coordinates latitude longitude Alt Empordà municipality",
+      "Mossos d'Esquadra comunicat \"Cabanes\" haixix 8.000 kg tràiler desmantellement"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 4 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "fr-saint-lary-sentence",
+   "title": "Driver jailed after 32.8 kg found at Saint-Lary-Soulan",
+   "family": "new-event",
+   "tests": [
+    "classification",
+    "date",
+    "figures",
+    "corroboration"
+   ],
+   "why": "A case that already reached its sentence: arrested on 28 September, sentenced in Tarbes on 1 October. The report belongs at the sentence. The French decimal comma (32,8 kg) and the page address (\"328-kilos\") invite a tenfold error.",
+   "submit": "https://www.lasemainedespyrenees.fr/328-kilos-de-cannabis-saisis-a-saint-lary-soulan-un-chauffeur-ukrainien-condamne-a-tarbes/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "fr": 1
+    },
+    "date": {
+     "value": "2026-10-01",
+     "also": {
+      "2026-09-28": 0.5
+     }
+    },
+    "type": {
+     "sentence": 1,
+     "prosecution": 0.5,
+     "seizure": 0.5,
+     "arrest": 0.5
+    },
+    "place": {
+     "coordinates": [
+      42.8169,
+      0.322
+     ],
+     "within_km": 70
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 32.8
+     },
+     "prison": {
+      "match": [
+       "2 years",
+       "two years",
+       "24 months",
+       "24-month"
+      ]
+     }
+    },
+    "figures_optional": [
+     "arrested",
+     "fine",
+     "value",
+     "sentenced",
+     "convicted",
+     "vehicles"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 328,
+      "why": "decimal comma read as 328 kg"
+     }
+    ],
+    "details": {
+     "case_stage": [
+      "sentenced"
+     ],
+     "sentence_types": [
+      "prison"
+     ],
+     "products": [
+      "flower"
+     ],
+     "agency_types": [
+      "customs"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the prison term",
+      "any": [
+       "24 months",
+       "two years",
+       "2 years"
+      ]
+     },
+     {
+      "say": "customs officers found it",
+      "any": [
+       "customs"
+      ]
+     },
+     {
+      "say": "the ten-year ban from France",
+      "any": [
+       "ban",
+       "banned",
+       "barred",
+       "interdiction",
+       "exclusion"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "lasemainedespyrenees.fr",
+      "ladepeche.fr",
+      "actu.fr",
+      "douane.gouv.fr",
+      "francebleu.fr",
+      "ici.fr",
+      "nrpyrenees.fr",
+      "france3-regions.franceinfo.fr"
+     ],
+     "markers": [
+      "32,8",
+      "Saint-Lary",
+      "ukrainien",
+      "Tarbes"
+     ]
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "douane-31-cache-sous-siege"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 15:49 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1755,
+      "steps": 3,
+      "searches": 1,
+      "pages_opened": 1,
+      "runs": 1,
+      "input_tokens": 67851,
+      "output_tokens": 440,
+      "reasoning_tokens": 4916,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Saint-Lary-Soulan 32,8 kilos cannabis douane chauffeur ukrainien"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 2 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "gy-yaruni-acres",
+   "title": "53,000 plants burned at Yaruni Bend",
+   "family": "new-event",
+   "tests": [
+    "units",
+    "classification",
+    "corroboration",
+    "photos"
+   ],
+   "why": "An eradication with no arrests. Acres must become hectares, ten pounds of dried cannabis become kilograms, and the police valuation is in Guyanese dollars. The event date is the day before the article.",
+   "submit": "https://newsroom.gy/2026/09/11/police-destroy-53000-cannabis-plants-in-linden-eradication-exercise/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "gy": 1
+    },
+    "date": {
+     "value": "2026-09-10"
+    },
+    "type": {
+     "eradication": 1,
+     "raid": 0.5,
+     "seizure": 0.5
+    },
+    "place": {
+     "coordinates": [
+      6.01,
+      -58.31
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "plants_destroyed": {
+      "value": 53000
+     },
+     "hectares": {
+      "value": 3.24,
+      "tolerance": 0.03
+     },
+     "kg_seized": {
+      "value": 4.536,
+      "tolerance": 0.03
+     },
+     "value": {
+      "amount": 22038728,
+      "currency": "GYD"
+     }
+    },
+    "figures_optional": [
+     "arrested",
+     "sites",
+     "kg_destroyed"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "hectares",
+      "value": 8,
+      "why": "acres recorded as hectares"
+     },
+     {
+      "key": "kg_seized",
+      "value": 10,
+      "why": "pounds recorded as kilograms"
+     }
+    ],
+    "figures_absent": [
+     {
+      "key": "arrested",
+      "why": "the police said no arrests were made"
+     }
+    ],
+    "details": {
+     "products": [
+      "plants",
+      "flower"
+     ],
+     "setting": [
+      "field"
+     ],
+     "activity": [
+      "cultivation"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "no arrests were made",
+      "any": [
+       "no arrests?",
+       "no one was arrested",
+       "nobody was arrested"
+      ]
+     },
+     {
+      "say": "the eight acres as stated",
+      "any": [
+       "(eight|8)[ -]acres?"
+      ]
+     },
+     {
+      "say": "whose valuation it is",
+      "any": [
+       "police (put|valued|estimated|said)",
+       "according to (the )?police",
+       "police force"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "newsroom.gy",
+      "inewsguyana.com",
+      "ignitenews.com",
+      "guyanatimesgy.com",
+      "guyanachronicle.com",
+      "stabroeknews.com",
+      "kaieteurnewsonline.com",
+      "demerarawaves.com",
+      "guyanapoliceforce.gy",
+      "villagevoicenews.com"
+     ],
+     "markers": [
+      "53,000",
+      "Yaruni",
+      "22,038,728"
+     ]
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "WhatsApp-Image-2026-09-11",
+      "ganja-1"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "yaruni-bend-linden-53000-cannabis-plants",
+     "existing_report": "",
+     "decision_title": "New report: 53,000 cannabis plants destroyed at Yaruni Bend, Linden",
+     "explanation": "The report was committed to the local repository (2901bf9db1c4). It is available in local development; pushing is separate.",
+     "model_explanation": "The source reports one eradication exercise by Guyana police on 10 September 2026 at Yaruni Bend, Linden, in the Upper Demerara River area, where about 53,000 suspected cannabis plants, two makeshift camps and two drying areas holding 10 pounds of dried cannabis were destroyed by fire, with a police valuation of $22,038,728 and no arrests. No existing tracker report covers this event: the tracker's Guyana eradication reports record other places and dates, for example an estimated 53,500 plants at Long Savannah on Canje Creek on 1 September 2026 and about 700 plants at Ebini on 12 September 2026, so this is a new report rather than an update or an extra source. The eight-acre area and 10 pounds are converted to 3.24 hectares and 4.54 kilograms, and the value is recorded as Guyanese dollars. The page's only relevant image is a screen capture whose caption repeats the headline and carries no credit, so it could not be confirmed as a photograph of this operation and no media entry was included.",
+     "flags": [],
+     "usage": {
+      "seconds": 1715,
+      "research_seconds": 1682,
+      "steps": 14,
+      "searches": 6,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 162946,
+      "output_tokens": 18956,
+      "reasoning_tokens": 16888,
+      "cache_read_tokens": 483136,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "53,000 cannabis plants destroyed Linden Yaruni Bend September 2026",
+      "Guyana police destroy cannabis plants Linden eradication exercise",
+      "\"Yaruni Bend\" cannabis Linden police",
+      "News Room Guyana ganja farms Linden \"Upper Demerara\" September 2026 destroyed fire",
+      "53,000 cannabis plants Linden Guyana eradication",
+      "guyana police \"Yaruni Bend\" ganja farm destroyed"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "Police destroy 53,000 cannabis plants on two farms at Yaruni Bend, Linden",
+      "summary": "Guyanese police destroyed approximately 53,000 suspected cannabis plants, two makeshift camps, two drying areas and 10 pounds of dried cannabis on two farms covering about eight acres at Yaruni Bend, Linden, in the Upper Demerara River area. Police estimated the value of the narcotics destroyed at $22,038,728 and made no arrests, with investigations continuing.",
+      "date": "2026-09-10",
+      "country": "gy",
+      "type": "eradication",
+      "also": [],
+      "place": "Yaruni Bend, Linden, Upper Demerara River",
+      "coordinates": [
+       6.0026,
+       -58.3065
+      ],
+      "figures": {
+       "arrested": 0,
+       "kg_seized": 4.5359,
+       "plants_destroyed": 53000,
+       "hectares": 3.24,
+       "value": {
+        "amount": 22038728,
+        "currency": "GYD"
+       }
+      },
+      "details": {
+       "agency_types": [
+        "police"
+       ],
+       "products": [
+        {
+         "product": "plants",
+         "plants": 53000
+        },
+        {
+         "product": "flower",
+         "kg": 4.5359
+        }
+       ],
+       "activity": [
+        "cultivation"
+       ],
+       "setting": [
+        "field"
+       ],
+       "environment": [
+        "outdoor"
+       ],
+       "case_stage": "investigation",
+       "date_precision": "exact",
+       "region": "Upper Demerara-Berbice"
+      },
+      "tags": [
+       "guyana",
+       "linden",
+       "upper-demerara",
+       "eradication",
+       "demerara"
+      ],
+      "sources": [
+       {
+        "url": "https://newsroom.gy/2026/09/11/police-destroy-53000-cannabis-plants-in-linden-eradication-exercise/",
+        "title": "Police destroy 53,000 cannabis plants in Linden eradication exercise",
+        "publisher": "News Room Guyana",
+        "date": "2026-09-11",
+        "language": ""
+       }
+      ],
+      "media": [],
+      "open_questions": [
+       "The plant count, the eight-acre area and the $22,038,728 valuation are police estimates published by a single outlet, with no independent measurement.",
+       "Only one accessible account of this operation was found after searching in English, so the whole report rests on that single source.",
+       "The plants and the dried material are described as suspected cannabis, with no laboratory confirmation reported.",
+       "No suspects or farm owners were named, and no later investigation outcome was reported.",
+       "Yaruni Bend is not mapped in the source, so the coordinates mark Linden, the named town, rather than the farm site itself."
+      ],
+      "body": "Police destroyed approximately 53,000 suspected cannabis plants after finding\ntwo farms covering about eight acres, about 3.24 hectares, at Yaruni Bend,\nLinden, in the Upper Demerara River area. The eradication exercise was\nconducted by police ranks led by a Gazetted Officer between 5:30 a.m. and 4:36\np.m. on Thursday, 10 September 2026. The plants, which ranged between two\nand six feet in height, were found on two separate cannabis farms.\n\nRanks also discovered two makeshift camps and two drying areas containing a\ncombined 10 pounds, about 4.54 kilograms, of dried cannabis. The suspected\ncannabis plants, the dried cannabis, the camps and the drying areas were\ndestroyed by fire. Police estimated the total value of the narcotics\ndestroyed at $22,038,728.\n\nNo arrests were made, and investigations are continuing.",
+      "words": 127
+     },
+     "dimensions": {
+      "facts": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "gy",
+         "got": "gy"
+        },
+        {
+         "label": "Date of the event",
+         "score": 1,
+         "expected": "2026-09-10",
+         "got": "2026-09-10"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "eradication",
+         "got": "eradication"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 60 km of 6.01, -58.31",
+         "got": "Yaruni Bend, Linden, Upper Demerara River (1 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "plants_destroyed",
+         "score": 1,
+         "expected": "53000",
+         "got": "53000"
+        },
+        {
+         "label": "hectares",
+         "score": 1,
+         "expected": "3.24",
+         "got": "3.24"
+        },
+        {
+         "label": "kg_seized",
+         "score": 1,
+         "expected": "4.536",
+         "got": "4.5359"
+        },
+        {
+         "label": "value",
+         "score": 1,
+         "expected": "22038728 GYD",
+         "got": "{\"amount\":22038728,\"currency\":\"GYD\"}"
+        },
+        {
+         "label": "arrested left out",
+         "score": 1,
+         "expected": "not stated",
+         "got": "0",
+         "note": "the police said no arrests were made"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "products",
+         "score": 1,
+         "expected": "plants or flower",
+         "got": "plants, flower"
+        },
+        {
+         "label": "setting",
+         "score": 1,
+         "expected": "field",
+         "got": "field"
+        },
+        {
+         "label": "activity",
+         "score": 1,
+         "expected": "cultivation",
+         "got": "cultivation"
+        }
+       ],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0.5,
+       "checks": [
+        {
+         "label": "Independent outlets on this event",
+         "score": 0.5,
+         "expected": "2 or more",
+         "got": "1"
+        },
+        {
+         "label": "News Room Guyana",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "newsroom.gy: about this event"
+        }
+       ],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [
+        {
+         "label": "Photos of the event",
+         "score": 0,
+         "expected": "1 or more",
+         "got": "none linked"
+        }
+       ],
+       "weight": 10
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says no arrests were made",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says the eight acres as stated",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says whose valuation it is",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "73"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "7 of 7",
+         "got": "7 of 7"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 82.5,
+     "verdict": "partial"
+    }
+   ],
+   "score": 82.5
+  },
+  {
+   "id": "hk-airport-second-nine-kilos",
+   "title": "A second 9 kg airport case in Hong Kong within a week",
+   "family": "new-event",
+   "tests": [
+    "coverage",
+    "look-alike",
+    "corroboration",
+    "classification",
+    "photos"
+   ],
+   "why": "Customs arrested a 24-year-old arriving from Bangkok with about 9 kg of cannabis buds worth HK$1.9 million. The tracker already holds another case from four days earlier that looks the same: a 22-year-old mainland man, about 9 kg of buds at the same airport, HK$1.3 million, arrested by police. They are two events. This one must be written as its own report, and articles about the earlier case must not be used as its sources.",
+   "submit": "https://www.info.gov.hk/gia/general/202611/05/P2026110500602.htm",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "hk": 1
+    },
+    "date": {
+     "value": "2026-11-05",
+     "also": {
+      "2026-11-04": 0.5
+     }
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1,
+     "prosecution": 0.5
+    },
+    "place": {
+     "coordinates": [
+      22.308,
+      113.9145
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 9
+     },
+     "arrested": {
+      "value": 1
+     },
+     "value": {
+      "amount": 1900000,
+      "currency": "HKD"
+     }
+    },
+    "figures_optional": [
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "value.amount",
+      "value": 1300000,
+      "why": "the value of the earlier",
+      "different case": null
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ],
+     "setting": [
+      "airport"
+     ],
+     "route.from": [
+      "th"
+     ],
+     "agencies": [
+      "hk-customs",
+      "Customs"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "he is 24",
+      "any": [
+       "24-year-old",
+       "24 years",
+       "aged 24"
+      ]
+     },
+     {
+      "say": "he flew in from Bangkok",
+      "any": [
+       "Bangkok"
+      ]
+     },
+     {
+      "say": "he was charged",
+      "any": [
+       "charged"
+      ]
+     }
+    ],
+    "must_not_say": [
+     {
+      "say": "he is the 22-year-old of the earlier case",
+      "any": [
+       "22-year-old",
+       "1\\.3 million"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "strict": true,
+     "known": [
+      "info.gov.hk",
+      "customs.gov.hk",
+      "on.cc",
+      "stheadline.com",
+      "singtao.ca",
+      "hkcd.com.hk",
+      "bastillepost.com",
+      "wenweipo.com",
+      "hk01.com",
+      "mingpao.com",
+      "thestandard.com.hk",
+      "rthk.hk",
+      "news.gov.hk"
+     ],
+     "markers": [
+      "1.9 million",
+      "190萬",
+      "190万",
+      "24-year-old",
+      "24歲",
+      "24岁"
+     ],
+     "markers_min": 1
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "P2026110500601_photo",
+      "P2026110500602_photo"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 12:20 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1795,
+      "research_seconds": 1706,
+      "steps": 6,
+      "searches": 1,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 51710,
+      "output_tokens": 791,
+      "reasoning_tokens": 3165,
+      "cache_read_tokens": 137536,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "香港海關 機場 大麻花 9公斤 190萬 2026年11月5日"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 5 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "in-pudukkottai-lakh",
+   "title": "Two women held with 26 kg of ganja in Pudukkottai",
+   "family": "new-event",
+   "tests": [
+    "languages",
+    "units",
+    "corroboration",
+    "photos"
+   ],
+   "why": "A Tamil-language source. The police valuation is given in lakh (13 lakh rupees is 1,300,000), and Tamil outlets differ by a day on when the car was stopped.",
+   "submit": "https://www.dailythanthi.com/news/india/2-women-arrested-for-smuggling-ganja-from-andhra-pradesh-to-pudukkottai",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "in": 1
+    },
+    "date": {
+     "value": "2026-11-06",
+     "also": {
+      "2026-11-05": 1
+     }
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1
+    },
+    "place": {
+     "coordinates": [
+      10.3833,
+      78.8
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 26
+     },
+     "arrested": {
+      "value": 2
+     },
+     "value": {
+      "amount": 1300000,
+      "currency": "INR"
+     }
+    },
+    "figures_optional": [
+     "vehicles",
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "value.amount",
+      "value": 13,
+      "why": "lakh not converted"
+     },
+     {
+      "key": "value.amount",
+      "value": 13000000,
+      "why": "lakh converted as crore"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ],
+     "setting": [
+      "vehicle"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the two arrested were women",
+      "any": [
+       "two women",
+       "2 women",
+       "both women"
+      ]
+     },
+     {
+      "say": "the ganja came from Andhra Pradesh",
+      "any": [
+       "Andhra"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "dailythanthi.com",
+      "thanthitv.com",
+      "dinamani.com",
+      "dinakaran.com",
+      "dinamalar.com",
+      "hindutamil.in",
+      "maalaimalar.com",
+      "polimernews.com",
+      "news18.com",
+      "puthiyathalaimurai.com",
+      "thehindu.com",
+      "timesofindia.indiatimes.com",
+      "dtnext.in"
+     ],
+     "markers": [
+      "புதுக்கோட்டை",
+      "Pudukkottai",
+      "கஞ்சா",
+      "26 கிலோ",
+      "26 kg",
+      "ஆந்திர"
+     ],
+     "markers_min": 3
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "dailythanthi%2F2026-11-06",
+      "281.jpg"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 21:17 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1793,
+      "research_seconds": 1746,
+      "steps": 5,
+      "searches": 2,
+      "pages_opened": 3,
+      "runs": 1,
+      "input_tokens": 141322,
+      "output_tokens": 671,
+      "reasoning_tokens": 2138,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Pudukkottai 26 kg ganja two women arrested car",
+      "Pudukkottai ganja Vasanthi Shanmugapriya arrest கஞ்சா"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 4 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "in-vidisha-early-brief",
+   "title": "An early brief on the Byauchi village raid",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages",
+    "units"
+   ],
+   "why": "A two-sentence Hindi brief: three police stations raided a village at night and recovered \"one quintal\" of ganja. The tracker already has this raid from the fuller accounts that followed, under another spelling of the village (Byochi) and the exact weight (104.14 kg, one man arrested). In production this brief was written up as a second report; it belongs with the existing one.",
+   "submit": "https://www.bhaskar.com/local/mp/vidisha/news/police-from-three-police-stations-raided-byauchi-village-one-quintal-of-marijuana-recovered-dbp-139640902.html",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "vidisha-byochi-104kg-ganja-arrest"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 18:19 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1795,
+      "research_seconds": 1529,
+      "steps": 3,
+      "searches": 1,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 51074,
+      "output_tokens": 276,
+      "reasoning_tokens": 1813,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "ब्यौंची गांव विदिशा एक क्विंटल गांजा पुलिस दबिश"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "additional_source or duplicate → vidisha-byochi-104kg-ganja-arrest",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 2 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "jp-cocaine-arrest-cannabis-past",
+   "title": "A musician's cocaine arrest, with an old cannabis conviction as background",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "languages"
+   ],
+   "why": "A Japanese magazine piece on a rock singer arrested in November 2026 for using cocaine. It recalls his 2019 conviction for possessing cannabis and cocaine. The new arrest involves no cannabis, and the 2019 case is only recalled, not reported.",
+   "submit": "https://topics.smt.docomo.ne.jp/article/bunshun/nation/bunshun-93676",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "Cocaine-use arrest of musician JESSE falls outside cannabis scope",
+     "explanation": "The source reports that 46-year-old musician Mak Faden Jesse Sorato, who performs as JESSE, was arrested by Tokyo police on suspicion of violating Japan's Cannabis Control Law by using cocaine; officers from the Shibuya Police Station drug investigation unit searched his home and a urine test was positive, and he reportedly admitted most of the suspicion. The tracker covers enforcement involving cannabis plants and cannabis products such as marijuana, hashish, resin, oil and edibles. Cocaine is not cannabis, and no cannabis seizure, possession or use forms part of this arrest, so the event has no cannabis component and is outside the tracker's substance scope. This is an out-of-scope enforcement event, not a law change or precedent, so it is not routed to the Cannabis Freedom Index. His 2019 conviction for cannabis and cocaine possession is a separate prior case and does not bring this arrest into scope. No existing tracker report on this JESSE arrest was found, and the nominated Zambia report concerns a different event.",
+     "model_explanation": "The source reports that 46-year-old musician Mak Faden Jesse Sorato, who performs as JESSE, was arrested by Tokyo police on suspicion of violating Japan's Cannabis Control Law by using cocaine; officers from the Shibuya Police Station drug investigation unit searched his home and a urine test was positive, and he reportedly admitted most of the suspicion. The tracker covers enforcement involving cannabis plants and cannabis products such as marijuana, hashish, resin, oil and edibles. Cocaine is not cannabis, and no cannabis seizure, possession or use forms part of this arrest, so the event has no cannabis component and is outside the tracker's substance scope. This is an out-of-scope enforcement event, not a law change or precedent, so it is not routed to the Cannabis Freedom Index. His 2019 conviction for cannabis and cocaine possession is a separate prior case and does not bring this arrest into scope. No existing tracker report on this JESSE arrest was found, and the nominated Zambia report concerns a different event.",
+     "flags": [],
+     "usage": {
+      "seconds": 1613,
+      "research_seconds": 1446,
+      "steps": 3,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 103473,
+      "output_tokens": 1003,
+      "reasoning_tokens": 3871,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "lk-airport-hashish-route",
+   "title": "Three Thais held with hashish in cosmetic jars at Colombo airport",
+   "family": "new-event",
+   "tests": [
+    "classification",
+    "corroboration",
+    "figures",
+    "photos"
+   ],
+   "why": "An airport smuggling case: the route (Thailand to Sri Lanka), the setting and the product matter. The outlets disagree on the weight (5.96 kg here, 5.096 kg elsewhere), which a second source reveals.",
+   "submit": "https://www.newswire.lk/2026/10/15/rs-51-mn-hashish-seized-at-bia-three-foreigners-arrested/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "lk": 1
+    },
+    "date": {
+     "value": "2026-10-15"
+    },
+    "type": {
+     "arrest": 1,
+     "seizure": 1
+    },
+    "place": {
+     "coordinates": [
+      7.179,
+      79.886
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "arrested": {
+      "value": 3
+     },
+     "kg_seized": {
+      "any": [
+       5.096,
+       5.96
+      ]
+     }
+    },
+    "figures_optional": [
+     "value",
+     "charged"
+    ],
+    "details": {
+     "products": [
+      "hashish"
+     ],
+     "setting": [
+      "airport"
+     ],
+     "route.from": [
+      "th"
+     ],
+     "route.to": [
+      "lk"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "they are Thai nationals",
+      "any": [
+       "Thai"
+      ]
+     },
+     {
+      "say": "hidden in cosmetic containers",
+      "any": [
+       "cosmetic"
+      ]
+     },
+     {
+      "say": "whose valuation it is",
+      "any": [
+       "worth",
+       "valued",
+       "value"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "newswire.lk",
+      "vivalanka.com",
+      "adaderana.lk",
+      "dailymirror.lk",
+      "newsfirst.lk",
+      "hirunews.lk",
+      "island.lk",
+      "colombogazette.com",
+      "lankadeepa.lk",
+      "ft.lk",
+      "dailynews.lk",
+      "onlanka.com",
+      "lankasara.com"
+     ],
+     "markers": [
+      "TG-307",
+      "TG 307",
+      "cosmetic",
+      "Thai national",
+      "Katunayake",
+      "hashish"
+     ],
+     "markers_min": 3
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "Hashish-BIA",
+      "IMG-20261015"
+     ]
+    },
+    "open_questions": [
+     {
+      "about": "the outlets give two different weights",
+      "any": [
+       "5\\.096",
+       "5\\.96",
+       "weight",
+       "differ",
+       "disagree"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 17:49 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1644,
+      "steps": 4,
+      "searches": 1,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 55490,
+      "output_tokens": 524,
+      "reasoning_tokens": 1484,
+      "cache_read_tokens": 27776,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "BIA hashish 5.96 kg three Thai nationals arrested cosmetics Katunayake"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 3 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "ly-ajdabiya-hashish-tramadol",
+   "title": "Two held in an Ajdabiya flat with hashish and tramadol",
+   "family": "new-event",
+   "tests": [
+    "mixed-substances",
+    "languages",
+    "corroboration"
+   ],
+   "why": "An Arabic police statement from Libya. Two kilograms of hashish count; the 5,529 tramadol pills and the 16,500 dinars found with them do not belong in the cannabis figures.",
+   "submit": "https://www.lananews.com/ar/?p=510230",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "ly": 1
+    },
+    "date": {
+     "value": "2026-10-22",
+     "tolerance_days": 1
+    },
+    "type": {
+     "arrest": 1,
+     "raid": 1,
+     "seizure": 1
+    },
+    "place": {
+     "coordinates": [
+      30.7555,
+      20.2253
+     ],
+     "within_km": 50
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 2
+     },
+     "arrested": {
+      "value": 2
+     }
+    },
+    "figures_optional": [
+     "cash",
+     "charged",
+     "sites"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 5529,
+      "why": "tramadol pills taken for a cannabis quantity"
+     }
+    ],
+    "details": {
+     "products": [
+      "hashish"
+     ],
+     "setting": [
+      "home"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the tramadol",
+      "kept apart from the hashish": null,
+      "any": [
+       "tramadol"
+      ]
+     },
+     {
+      "say": "it was a flat",
+      "any": [
+       "flat",
+       "apartment"
+      ]
+     },
+     {
+      "say": "referred to the public prosecution",
+      "any": [
+       "prosecut"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "lananews.com",
+      "libyaakhbar.com",
+      "alwasat.ly",
+      "afrigatenews.net",
+      "akhbarlibya24.net",
+      "alsaaa24.com",
+      "libyaobserver.ly",
+      "lj-bc.tv",
+      "almarsad.co",
+      "218tv.net"
+     ],
+     "markers": [
+      "أجدابيا",
+      "اجدابيا",
+      "كيلوغرامين",
+      "5529",
+      "ترامادول",
+      "Ajdabiya"
+     ],
+     "markers_min": 2
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "0e805a1f-6d91-4a90-ab22-382585fabc23"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 20:17 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1795,
+      "research_seconds": 1778,
+      "steps": 2,
+      "searches": 2,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 61063,
+      "output_tokens": 495,
+      "reasoning_tokens": 5505,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "مديرية أمن أجدابيا ضبط حشيش وترامادول 16 ألف دينار أكتوبر 2026",
+      "أجدابيا البحث الجنائي حشيش ترامادول 5529 قرص مداهمة شقة"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 2 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "mx-degollado-labs-headline",
+   "title": "A drug-labs headline for a raid the tracker has under its greenhouses",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "mixed-substances",
+    "languages"
+   ],
+   "why": "Most outlets led with the two methamphetamine laboratories found in Degollado. The tracker records the cannabis part of the same raid: two marijuana greenhouses in the compound. A page whose headline is about labs is still the same event, and belongs with that report.",
+   "submit": "https://netnoticias.mx/nacional/aseguran-laboratorios-y-droga-del-cjng-en-jalisco-operaba-bajo-mando-del-tio-lako",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "degollado-la-tinajera-two-marijuana-greenhouses"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 18:50 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1579,
+      "steps": 5,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 75816,
+      "output_tokens": 635,
+      "reasoning_tokens": 12120,
+      "cache_read_tokens": 62976,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "additional_source or duplicate → degollado-la-tinajera-two-marijuana-greenhouses",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 4 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "no-kristiansand-appeal",
+   "title": "A Norwegian appeal ruling in a case the tracker has",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "\"Got a pistol to his head and a finger broken: now his sentence is halved.\" Nothing in the headline says cannabis. The article is the appeal in the case of a man stopped at the Kristiansand ferry terminal with 18.5 kg of hashish, which the tracker records, with the appeal, under a report dated a year earlier.",
+   "submit": "https://www.krs.no/fikk-pistol-mot-hodet-og-fingeren-brukket-na-far-han-halvert-straffen/s/80-157-59933",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 1
+    },
+    "existing_report": "kristiansand-18-5kg-hash-sentence-halved"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 13:50 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1795,
+      "research_seconds": 1725,
+      "steps": 3,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 52457,
+      "output_tokens": 190,
+      "reasoning_tokens": 932,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "additional_source or duplicate or existing_case → kristiansand-18-5kg-hash-sentence-halved",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 2 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "pl-jelenia-gora-second-outlet",
+   "title": "A second Polish outlet on the Jelenia Góra sentence",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "The tracker has the four-year sentence for bringing 2.5 kg of marijuana from Czechia. This local portal reports the same judgment. It should be added to that report, not written up again.",
+   "submit": "https://www.bolec.info/boleslawiec/informacje/kategoria/45842/cztery-lata-wiezienia-za-przywoz-25-kg-marihuany-z-czech",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "jelenia-gora-court-organizer-2-5-kg-marijuana-from-czech-republic"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 16:49 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1668,
+      "steps": 3,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 58433,
+      "output_tokens": 236,
+      "reasoning_tokens": 4383,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "additional_source or duplicate → jelenia-gora-court-organizer-2-5-kg-marijuana-from-czech-republic",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 2 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "sn-kush-synthetic-name",
+   "title": "44 pieces of \"Kush\" seized in Thiaroye",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "terminology",
+    "languages"
+   ],
+   "why": "In West Africa \"Kush\" is the street name of a synthetic drug (synthetic cannabinoids, often with nitazene opioids), not a cannabis variety. The article names nothing else. The substance has to be identified from evidence, not from a trade name, and the tracker already holds real cannabis cases from the same suburb.",
+   "submit": "https://www.seneweb.com/fr/news/Societe/thiaroye-kao-une-operation-policiere-demantele-un-reseau-presume-de-trafic-de-kush_n_999003608.html",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The article reports a drug trafficking bust involving Kush, a synthetic cannabinoid-laced street drug (not marijuana/hashish/cannabis plant), which falls under excluded synthetic cannabinoid products.",
+     "model_explanation": "The article reports a drug trafficking bust involving Kush, a synthetic cannabinoid-laced street drug (not marijuana/hashish/cannabis plant), which falls under excluded synthetic cannabinoid products.",
+     "flags": [],
+     "usage": {
+      "seconds": 53,
+      "research_seconds": 41,
+      "steps": 0,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 2906,
+      "output_tokens": 52,
+      "reasoning_tokens": 374,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "tr-istanbul-airport-second-outlet",
+   "title": "Another outlet on the Istanbul Airport tins",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "The tracker already has this seizure (13.512 kg in food tins, two Tunisians held). This is another Turkish outlet's account of it. The right answer adds it to the existing report or calls it a duplicate; a second report of the same event is the failure.",
+   "submit": "https://www.gazetevatan.com/yerel-haberler/istanbul/istanbul-havalimaninda-konserve-kutularinda-13-2464940",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "istanbul-airport-tins-13-5kg-esrar-two-detained"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 17:19 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1795,
+      "research_seconds": 1644,
+      "steps": 2,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 26494,
+      "output_tokens": 211,
+      "reasoning_tokens": 825,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "additional_source or duplicate → istanbul-airport-tins-13-5kg-esrar-two-detained",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 1 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "ua-mykolaiv-sentence-same-day",
+   "title": "Nine years for 14 plants in Mykolaiv, beside an unrelated arrest",
+   "family": "new-event",
+   "tests": [
+    "coverage",
+    "look-alike",
+    "classification",
+    "languages",
+    "corroboration"
+   ],
+   "why": "A police statement in Ukrainian: a 51-year-old Mykolaiv man, searched in July, was sentenced to nine years for growing 14 cannabis plants and keeping dried cannabis for sale. The tracker has a report from the same city and the same day about a 44-year-old just arrested with almost 8 kg. Different man, different stage. The outlets disagree on the weight in this case (about 8 kg, or \"over 10 kg\" of raw material).",
+   "submit": "https://mk.npu.gov.ua/news/deviat-rokiv-uviaznennia-za-nezakonne-zberihannia-narkosyrovyny-zadlia-zbutu-u-mykolaievi-za-dokazamy-slidchykh-politsii-sud-vynis-vyrok-mistsevomu-meshkantsiu",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "ua": 1
+    },
+    "date": {
+     "value": "2026-11-02",
+     "tolerance_days": 2
+    },
+    "type": {
+     "sentence": 1,
+     "prosecution": 0.5
+    },
+    "place": {
+     "coordinates": [
+      46.975,
+      31.995
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "prison": {
+      "match": [
+       "9 years",
+       "nine years",
+       "9-year",
+       "nine-year"
+      ]
+     },
+     "plants_destroyed": {
+      "value": 14
+     }
+    },
+    "figures_optional": [
+     "kg_seized",
+     "arrested",
+     "charged",
+     "sentenced",
+     "convicted",
+     "plants_seized",
+     "sites"
+    ],
+    "details": {
+     "case_stage": [
+      "sentenced"
+     ],
+     "sentence_types": [
+      "prison"
+     ],
+     "activity": [
+      "cultivation"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the nine-year sentence",
+      "any": [
+       "nine years",
+       "9 years",
+       "nine-year"
+      ]
+     },
+     {
+      "say": "the 14 plants",
+      "any": [
+       "14"
+      ]
+     },
+     {
+      "say": "the search was in July",
+      "any": [
+       "July"
+      ]
+     }
+    ],
+    "must_not_say": [
+     {
+      "say": "he is the 44-year-old arrested that day",
+      "any": [
+       "44-year-old",
+       "44 years old"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "strict": true,
+     "known": [
+      "mk.npu.gov.ua",
+      "npu.gov.ua",
+      "nikvesti.com",
+      "news.pn",
+      "nikpravda.com.ua",
+      "mayupravo.com",
+      "korabelov.info",
+      "novosti-n.org",
+      "0512.com.ua",
+      "suspilne.media",
+      "inshe.tv"
+     ],
+     "markers": [
+      "51-річн",
+      "51-летн",
+      "14 рослин",
+      "14 кущ",
+      "14 растен",
+      "14 куст",
+      "дев’ять років",
+      "дев'ять років",
+      "девять лет",
+      "9 років",
+      "9 лет"
+     ],
+     "markers_min": 2
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 16:19 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1795,
+      "research_seconds": 1427,
+      "steps": 2,
+      "searches": 1,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 28067,
+      "output_tokens": 290,
+      "reasoning_tokens": 6505,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Миколаїв суд вирок дев'ять років коноплі 10 кілограмів наркосировина листопад 2026"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 1 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "us-clifton-park-pounds",
+   "title": "489 pounds seized on the Northway",
+   "family": "new-event",
+   "tests": [
+    "units",
+    "date",
+    "corroboration",
+    "photos"
+   ],
+   "why": "A plain US traffic-stop seizure with three things to get right: pounds become kilograms, the country is the state (us/ny), and the page only says \"Tuesday\", so the stop date has to be worked out from other outlets. Many local outlets carried the sheriff's statement and photo.",
+   "submit": "https://wnyt.com/top-stories/two-men-charged-after-489-pounds-of-cannabis-seized-on-northway-in-clifton-park/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "us/ny": 1,
+     "us": 0.5
+    },
+    "date": {
+     "value": "2026-09-08"
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1
+    },
+    "place": {
+     "coordinates": [
+      42.8656,
+      -73.7757
+     ],
+     "within_km": 30
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 221.81,
+      "tolerance": 0.01
+     },
+     "arrested": {
+      "value": 2
+     }
+    },
+    "figures_optional": [
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 489,
+      "why": "pounds recorded as kilograms"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ],
+     "case_stage": [
+      "charged"
+     ],
+     "setting": [
+      "vehicle"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the 489 pounds as stated",
+      "any": [
+       "489\\s*(pounds|lb)"
+      ]
+     },
+     {
+      "say": "it was a traffic stop",
+      "any": [
+       "traffic stop",
+       "stopped"
+      ]
+     },
+     {
+      "say": "both men were charged",
+      "any": [
+       "charged"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "wnyt.com",
+      "dailyvoice.com",
+      "13wham.com",
+      "cbs6albany.com",
+      "news10.com",
+      "nny360.com",
+      "dailygazette.com",
+      "saratogatodaynewspaper.com",
+      "timesunion.com",
+      "wrgb.com"
+     ],
+     "markers": [
+      "489",
+      "Clifton Park",
+      "Wilbur",
+      "Carle"
+     ]
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "489_pounds_of_weed",
+      "clifton-park-cannabis-seizure-sheriff-photos"
+     ]
+    },
+    "open_questions": [
+     {
+      "about": "no court outcome yet",
+      "any": [
+       "court",
+       "outcome",
+       "trial",
+       "sentence",
+       "plea"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 11:41 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1791,
+      "research_seconds": 1670,
+      "steps": 8,
+      "searches": 3,
+      "pages_opened": 4,
+      "runs": 1,
+      "input_tokens": 110963,
+      "output_tokens": 1053,
+      "reasoning_tokens": 7432,
+      "cache_read_tokens": 173632,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Saratoga County Sheriff deputies seize 489 pounds cannabis Northway Clifton Park Wilbur Carle",
+      "\"saratoga county sheriff\" Wilbur Carle 489 pounds cannabis press release \"first degree\"",
+      "saratogacountysheriff.com press release September 14 2026 cannabis traffic stop Wilbur"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 7 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "us-dui-checkpoint-cannabis-grant",
+   "title": "DUI checkpoint paid for by a cannabis tax grant",
+   "family": "out-of-scope",
+   "tests": [
+    "scope"
+   ],
+   "why": "Two drink-or-drug-driving arrests at a checkpoint. Cannabis appears only in the name of the grant that paid for it and in a general warning about impaired driving. No cannabis was seized and nobody was arrested for it.",
+   "submit": "https://contracosta.news/2026/11/14/concord-police-2-arrested-at-dui-checkpoint/",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "Reports DUI checkpoint arrests with no cannabis-related enforcement; cannabis appears only via a funding source and a general warning that marijuana-impaired driving is illegal.",
+     "model_explanation": "Reports DUI checkpoint arrests with no cannabis-related enforcement; cannabis appears only via a funding source and a general warning that marijuana-impaired driving is illegal.",
+     "flags": [],
+     "usage": {
+      "seconds": 192,
+      "research_seconds": 182,
+      "steps": 0,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 1728,
+      "output_tokens": 43,
+      "reasoning_tokens": 507,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "us-eagle-point-reprint",
+   "title": "A sister station's reprint of the Eagle Point van stop",
+   "family": "known-event",
+   "tests": [
+    "coverage"
+   ],
+   "why": "A word-for-word reprint, on a sister TV station's site, of an article the existing report already uses. The headline says \"nearly 1,000 pounds\" where the report says 910 pounds, and the page was published a week after the stop, so it does not look like the same story at first.",
+   "submit": "https://kcby.com/news/nation-world/van-full-of-pot-troopers-arrest-oregon-man-after-finding-nearly-1000-pounds-of-weed?teaserSource=trending",
+   "expect": {
+    "outcome": {
+     "duplicate": 1,
+     "additional_source": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "eagle-point-brownsboro-910lb-mims"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 10:56 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1779,
+      "research_seconds": 1681,
+      "steps": 4,
+      "searches": 4,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 101237,
+      "output_tokens": 665,
+      "reasoning_tokens": 5873,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "\"Saibya Walter Mims\" Eagle Point marijuana van",
+      "Oregon State Police Brownsboro Highway cargo van 910 pounds marijuana arrest November 2026",
+      "\"Ganesh Management Group\" Eagle Point marijuana search warrant",
+      "Eagle Point man arraigned felony marijuana 910 pounds Jackson County December court date"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "duplicate or additional_source → eagle-point-brownsboro-910lb-mims",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 3 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "us-missouri-hemp-act",
+   "title": "Missouri's Intoxicating Cannabinoid Control Act takes effect",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "routing"
+   ],
+   "why": "A state law coming into force: hemp products above 0.4 mg of THC now count as marijuana. The article mentions lawsuits against four shops in passing, but reports no raid, seizure or arrest. It is a law change for the Cannabis Freedom Index.",
+   "submit": "https://spectrumlocalnews.com/mo/st-louis/news/2026/11/12/st-louis-missouri-intoxicating-cannabinoid-control-act-catherine-hanaway",
+   "expect": {
+    "outcome": {
+     "routed_to_cfi": 1,
+     "not_relevant": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "routed_to_cfi",
+     "outcome": "routed_to_cfi",
+     "model_outcome": "routed_to_cfi",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "Missouri intoxicating hemp law takes effect; routed to CFI",
+     "explanation": "The submitted Spectrum News St. Louis article reports that Missouri's Intoxicating Cannabinoid Control Act took effect on 12 November 2026, reclassifying hemp-derived products containing more than 0.4 milligrams of THC as marijuana and restricting their cultivation and sale to businesses licensed under the state marijuana program. That is a change in the law, not an enforcement event: this tracker records raids, seizures, arrests, prosecutions and sentences, while law changes and rulings that set a precedent belong to the Cannabis Freedom Index history, so this is routed there rather than drafted as a tracker report. The article only mentions in passing, without names, dates, places or figures, that the Attorney General's office has sued four businesses said to be selling such products and that a federal court dismissed the Missouri Hemp Trade Association's constitutional challenge; neither can support a single sourced enforcement report here.",
+     "model_explanation": "The submitted Spectrum News St. Louis article reports that Missouri's Intoxicating Cannabinoid Control Act took effect on 12 November 2026, reclassifying hemp-derived products containing more than 0.4 milligrams of THC as marijuana and restricting their cultivation and sale to businesses licensed under the state marijuana program. That is a change in the law, not an enforcement event: this tracker records raids, seizures, arrests, prosecutions and sentences, while law changes and rulings that set a precedent belong to the Cannabis Freedom Index history, so this is routed there rather than drafted as a tracker report. The article only mentions in passing, without names, dates, places or figures, that the Attorney General's office has sued four businesses said to be selling such products and that a federal court dismissed the Missouri Hemp Trade Association's constitutional challenge; neither can support a single sourced enforcement report here.",
+     "flags": [],
+     "usage": {
+      "seconds": 645,
+      "research_seconds": 239,
+      "steps": 3,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 29277,
+      "output_tokens": 803,
+      "reasoning_tokens": 2402,
+      "cache_read_tokens": 50496,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "routed_to_cfi",
+      "got": "routed to cfi"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "us-passaic-heroin-headline",
+   "title": "A heroin-and-guns headline for a bust that included marijuana",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "mixed-substances"
+   ],
+   "why": "Nine arrests in twelve raids across Passaic County. The headline is about heroin and guns; five pounds of marijuana are one line in the list of what was seized. The tracker has this bust already, for that cannabis. Not a new event, and not out of scope either.",
+   "submit": "https://dailyvoice.com/article/12-raids-9-arrests-major-nj-drug-bust-uncovers-heroin-guns-galore-prosecutor-says/",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "passaic-county-nine-arrested-drug-gun-bust-2026"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 20:47 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1782,
+      "research_seconds": 1636,
+      "steps": 2,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 27279,
+      "output_tokens": 169,
+      "reasoning_tokens": 3283,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "additional_source or duplicate → passaic-county-nine-arrested-drug-gun-bust-2026",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 1 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "us-taft-660-plants",
+   "title": "660 plants destroyed near Taft",
+   "family": "new-event",
+   "tests": [
+    "date",
+    "figures",
+    "corroboration",
+    "photos"
+   ],
+   "why": "A sheriff's press release reposted a week later: the search was on 8 October, the page is dated 15 October. Plants, not kilograms; the country is the state (us/ca); the sheriff's own photos of the grow are on the page.",
+   "submit": "https://www.crimevoice.com/2026/10/15/kern-county-taft-cannabis-grow-investigation/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "us/ca": 1,
+     "us": 0.5
+    },
+    "date": {
+     "value": "2026-10-08"
+    },
+    "type": {
+     "raid": 1,
+     "eradication": 1,
+     "arrest": 1,
+     "seizure": 0.5
+    },
+    "place": {
+     "coordinates": [
+      35.1425,
+      -119.4564
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "plants_destroyed": {
+      "value": 660
+     },
+     "arrested": {
+      "value": 1
+     }
+    },
+    "figures_optional": [
+     "charged",
+     "plants_seized",
+     "sites"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 660,
+      "why": "plants recorded as kilograms"
+     }
+    ],
+    "details": {
+     "activity": [
+      "cultivation"
+     ],
+     "products": [
+      "plants",
+      "flower"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the pesticides found at the site",
+      "any": [
+       "pesticide"
+      ]
+     },
+     {
+      "say": "the 660 plants",
+      "any": [
+       "660"
+      ]
+     },
+     {
+      "say": "a search warrant",
+      "any": [
+       "warrant"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "crimevoice.com",
+      "goldrushcam.com",
+      "gvwire.com",
+      "kget.com",
+      "bakersfieldnow.com",
+      "taftmidwaydriller.com",
+      "bakersfield.com",
+      "kerngoldenempire.com",
+      "turnto23.com",
+      "kernsheriff.org",
+      "kerncounty.com",
+      "ksby.com"
+     ],
+     "markers": [
+      "660",
+      "Taft",
+      "Francisca",
+      "Hwy 119",
+      "Highway 119"
+     ]
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "kern-1-1",
+      "kern-3-1",
+      "kern-4-1",
+      "kern-2-1"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 12:50 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1667,
+      "steps": 5,
+      "searches": 5,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 115146,
+      "output_tokens": 611,
+      "reasoning_tokens": 1302,
+      "cache_read_tokens": 30848,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Taft Kern County 660 marijuana plants eradicated Rogelio Francisca Hwy 119",
+      "\"Taft\" \"marijuana plants\" search warrant KCSO 660",
+      "Taft marijuana 660 plants search warrant Kern County October 8",
+      "taftmidwaydriller marijuana grow Taft October 2026 arrest",
+      "bakersfieldnow KCSO Taft marijuana plants eradicated search warrant arrest"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 5 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "za-private-use-law",
+   "title": "South Africa legalises private cannabis use",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "routing"
+   ],
+   "why": "A change in the law (the Cannabis for Private Purposes Act, signed in May 2024). Law changes go to the Cannabis Freedom Index history, not into the tracker.",
+   "submit": "https://www.aljazeera.com/news/2024/6/10/south-africa-legalises-cannabis-use-will-the-rest-of-africa-follow",
+   "expect": {
+    "outcome": {
+     "routed_to_cfi": 1,
+     "not_relevant": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 15:19 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1797,
+      "research_seconds": 1471,
+      "steps": 1,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 2265,
+      "output_tokens": 38,
+      "reasoning_tokens": 57,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "routed_to_cfi",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 0 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  }
+ ]
+}

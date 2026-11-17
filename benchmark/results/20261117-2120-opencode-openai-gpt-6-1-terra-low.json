@@ -1,0 +1,1455 @@
+{
+ "schema": 1,
+ "id": "20261117-2120-opencode-openai-gpt-6-1-terra-low",
+ "label": "",
+ "subject": {
+  "id": "opencode@openai/gpt-6.1-terra#low",
+  "harness": "opencode",
+  "provider": "openai",
+  "model": "gpt-6.1-terra",
+  "effort": "low",
+  "agent": "openai/gpt-6.1-terra#low",
+  "recorded": "openai/gpt-6.1-terra#low",
+  "harness_version": "opencode v2.2.7"
+ },
+ "started_at": "2026-11-17T21:20:01.266Z",
+ "finished_at": null,
+ "complete": false,
+ "repeat": 3,
+ "concurrency": 2,
+ "protocol": {
+  "version": 1,
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "max_steps": 32,
+  "timeout_seconds": 1800,
+  "websearch": "random",
+  "context": "inline",
+  "screen": true,
+  "source_browser": true,
+  "concurrency": 2,
+  "case_deadline_minutes": 45,
+  "retry_errors": 1
+ },
+ "protocol_hash": "9be3371802af",
+ "cases_hash": "3590fabd1e59",
+ "full_set": true,
+ "tracker": {
+  "commit": "ebb242422362d8272293a1e9266c6e5f0b15762c",
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "uncommitted_changes": false
+ },
+ "scorer_version": 1,
+ "weights": {
+  "facts": 20,
+  "figures": 20,
+  "classification": 10,
+  "corroboration": 15,
+  "photos": 10,
+  "text": 15,
+  "grounding": 10
+ },
+ "dimensions": {
+  "facts": "Facts",
+  "figures": "Figures and units",
+  "classification": "Classification",
+  "corroboration": "Corroboration",
+  "photos": "Photos",
+  "text": "Report text",
+  "grounding": "Grounding"
+ },
+ "families": {
+  "new-event": "New events",
+  "known-event": "Already covered",
+  "out-of-scope": "Out of scope"
+ },
+ "summary": {
+  "score": 94.8,
+  "attempt_scores": [
+   94.8
+  ],
+  "cases": 5,
+  "attempts": 5,
+  "verdicts": {
+   "pass": 4,
+   "partial": 1,
+   "fail": 0,
+   "error": 0,
+   "skipped": 0,
+   "spoiled": 0
+  },
+  "families": {
+   "new-event": {
+    "score": 91.4,
+    "cases": 3
+   },
+   "out-of-scope": {
+    "score": 100,
+    "cases": 2
+   }
+  },
+  "capabilities": {
+   "recognised": {
+    "score": 100,
+    "cases": 3
+   },
+   "facts": {
+    "score": 91.7,
+    "cases": 3
+   },
+   "figures": {
+    "score": 100,
+    "cases": 3
+   },
+   "classification": {
+    "score": 88.9,
+    "cases": 3
+   },
+   "corroboration": {
+    "score": 83.3,
+    "cases": 3
+   },
+   "photos": {
+    "score": 0,
+    "cases": 1
+   },
+   "text": {
+    "score": 100,
+    "cases": 3
+   },
+   "grounding": {
+    "score": 100,
+    "cases": 3
+   }
+  },
+  "usage": {
+   "minutes_per_case": 2.4,
+   "steps_per_case": 6,
+   "input_tokens": 203629,
+   "output_tokens": 16154,
+   "reasoning_tokens": 58,
+   "cache_read_tokens": 684160,
+   "cache_write_tokens": 0,
+   "cost_usd": 0
+  }
+ },
+ "cases": [
+  {
+   "id": "sa-asir-execution",
+   "title": "Three Ethiopians executed in Asir for smuggling hashish",
+   "family": "new-event",
+   "tests": [
+    "scope",
+    "coverage",
+    "classification",
+    "corroboration"
+   ],
+   "why": "An execution belongs in the tracker (type \"execution\"). The tracker already holds several other Asir executions of Ethiopians for hashish from the following weeks, so this one must be told apart from them and recorded as its own event, with its own count of three.",
+   "submit": "https://english.ajel.sa/saudi-arabia/dcs20ydm4",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "sa": 1
+    },
+    "date": {
+     "value": "2026-10-07",
+     "tolerance_days": 1
+    },
+    "type": {
+     "execution": 1
+    },
+    "place": {
+     "coordinates": [
+      19.1667,
+      43.1667
+     ],
+     "within_km": 300
+    },
+    "figures": {
+     "deaths": {
+      "value": 3
+     }
+    },
+    "figures_optional": [
+     "sentenced",
+     "convicted",
+     "arrested",
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "deaths",
+      "value": 5,
+      "why": "confused with the November executions of five"
+     },
+     {
+      "key": "deaths",
+      "value": 2,
+      "why": "confused with the November executions of two"
+     }
+    ],
+    "details": {
+     "sentence_types": [
+      "death"
+     ],
+     "case_stage": [
+      "executed"
+     ],
+     "products": [
+      "hashish"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "three people were executed",
+      "any": [
+       "three",
+       "\\b3\\b"
+      ]
+     },
+     {
+      "say": "they were Ethiopian nationals",
+      "any": [
+       "Ethiopian"
+      ]
+     },
+     {
+      "say": "who announced it",
+      "any": [
+       "interior ministry",
+       "ministry of interior",
+       "ministry"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "english.ajel.sa",
+      "ajel.sa",
+      "makkahpost.com",
+      "spa.gov.sa",
+      "okaz.com.sa",
+      "alriyadh.com",
+      "sabq.org",
+      "al-madina.com",
+      "aawsat.com",
+      "alwatan.com.sa",
+      "akhbaar24.argaam.com",
+      "alyaum.com",
+      "moi.gov.sa",
+      "reprieve.org",
+      "esohr.org"
+     ],
+     "strict": true,
+     "markers": [
+      "Qorzqor",
+      "Anbayeh",
+      "Akalu",
+      "Tekay",
+      "قورزقور",
+      "أنبايه",
+      "انبايه",
+      "أكالو",
+      "اكالو",
+      "تيكاي"
+     ],
+     "markers_min": 1
+    }
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "asir-three-ethiopians-hashish-executions-october-2026",
+     "existing_report": "",
+     "decision_title": "Three executed in Asir",
+     "explanation": "The report was committed to the local repository (65641902d49a). It is available in local development; pushing is separate.",
+     "model_explanation": "The Interior Ministry announced the executions of three named Ethiopian nationals for jointly smuggling hashish. The submitted account and The Abay Times describe the same case; the nominated Jeddah arrests concern a separate later incident.",
+     "flags": [],
+     "usage": {
+      "seconds": 171,
+      "research_seconds": 122,
+      "steps": 8,
+      "searches": 1,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 48692,
+      "output_tokens": 4409,
+      "reasoning_tokens": 17,
+      "cache_read_tokens": 274688,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "\"Asir\" \"Ethiopian\" hashish executed October 7 2026"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "Three Ethiopians executed in Asir for hashish smuggling",
+      "summary": "Saudi Arabia executed three Ethiopian nationals in Asir on 7 October 2026 after their conviction for jointly smuggling hashish. The Interior Ministry said their death sentences were upheld on appeal and confirmed by the Supreme Court.",
+      "date": "2026-10-07",
+      "country": "sa",
+      "type": "execution",
+      "also": [
+       "sentence",
+       "arrest",
+       "prosecution"
+      ],
+      "place": "Asir region, Saudi Arabia",
+      "coordinates": [
+       18.216,
+       42.505
+      ],
+      "figures": {
+       "deaths": 3,
+       "sentenced": 3
+      },
+      "details": {
+       "agencies": [
+        "Ministry of Interior"
+       ],
+       "agency_types": [
+        "court"
+       ],
+       "products": [
+        {
+         "product": "hashish"
+        }
+       ],
+       "activity": [
+        "smuggling"
+       ],
+       "case_stage": "executed",
+       "sentence_types": [
+        "death"
+       ],
+       "date_precision": "exact",
+       "region": "Asir"
+      },
+      "tags": [
+       "hashish",
+       "asir",
+       "ethiopian-nationals",
+       "death-penalty"
+      ],
+      "sources": [
+       {
+        "url": "https://english.ajel.sa/saudi-arabia/dcs20ydm4",
+        "title": "Three Ethiopians executed in Asir for smuggling hashish into Saudi Arabia",
+        "publisher": "Ajel English",
+        "date": "2026-10-07",
+        "language": ""
+       },
+       {
+        "url": "https://abaytimes.com/diaspora/saudi-arabia-executes-three-ethiopians-for-hashish-smuggling",
+        "title": "Saudi Arabia executes three Ethiopians for hashish smuggling",
+        "publisher": "The Abay Times",
+        "date": "2026-10-07",
+        "language": ""
+       }
+      ],
+      "media": [],
+      "open_questions": [
+       "The quantity of hashish and the circumstances and date of the arrests were not stated.",
+       "The execution method and details of legal representation were not reported.",
+       "Both accounts rely on the Interior Ministry's statement."
+      ],
+      "body": "Saudi Arabia executed three Ethiopian nationals in the Asir region on 7 October\n2026 after they were convicted of jointly smuggling hashish into the kingdom. The Interior Ministry named them as Seni Redi Aqous Qorzqor, Shanafi Tekay\nAnbayeh Barah and Mersu Negus Akalu Tele.\n\nThe ministry said security authorities had apprehended the men and that they\nwere charged following an investigation. The court sentenced them to death\nas a discretionary punishment, according to the ministry. The sentences\nwere upheld on appeal and confirmed by the Supreme Court, and a royal order\nauthorised their execution. The ministry said the executions reflected the\ngovernment's commitment to imposing strict penalties on drug traffickers and\ndealers.",
+      "words": 112
+     },
+     "dimensions": {
+      "facts": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "sa",
+         "got": "sa"
+        },
+        {
+         "label": "Date of the event",
+         "score": 1,
+         "expected": "2026-10-07 (within 1 days)",
+         "got": "2026-10-07"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "execution",
+         "got": "execution + sentence + arrest + prosecution"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 300 km of 19.1667, 43.1667",
+         "got": "Asir region, Saudi Arabia (127 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "deaths",
+         "score": 1,
+         "expected": "3",
+         "got": "3"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "sentence types",
+         "score": 1,
+         "expected": "death",
+         "got": "death"
+        },
+        {
+         "label": "case stage",
+         "score": 1,
+         "expected": "executed",
+         "got": "executed"
+        },
+        {
+         "label": "products",
+         "score": 1,
+         "expected": "hashish",
+         "got": "hashish"
+        }
+       ],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Independent outlets on this event",
+         "score": 1,
+         "expected": "2 or more",
+         "got": "2"
+        },
+        {
+         "label": "Ajel English",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "ajel.sa: about this event"
+        },
+        {
+         "label": "The Abay Times",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "abaytimes.com: about this event"
+        }
+       ],
+       "weight": 15
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says three people were executed",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says they were Ethiopian nationals",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says who announced it",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "55"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "6 of 6",
+         "got": "6 of 6"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "tr-murder-hemp-field-motive",
+   "title": "A murder solved after 16 years, with a hemp field as the motive",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "languages"
+   ],
+   "why": "A Turkish cold case: 17 people detained and one remanded for a 2010 killing, which grew out of a quarrel over someone entering a hemp field. The arrests are for murder. Cannabis is the background of the quarrel, not what anyone was arrested for.",
+   "submit": "https://haberton.com/16-yil-sonra-aydinlatilan-cinayetin-nedeni-kenevir-tarlasina-girdin-tartismasi/",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "Murder investigation outside tracker scope",
+     "explanation": "The article reports arrests in a 2010 murder investigation in Mustafakemalpaşa, with a dispute over entry into a cannabis field described as the alleged motive. It does not report cannabis enforcement, a seizure or a death caused by an enforcement operation, so the case is outside the tracker’s scope.",
+     "model_explanation": "The article reports arrests in a 2010 murder investigation in Mustafakemalpaşa, with a dispute over entry into a cannabis field described as the alleged motive. It does not report cannabis enforcement, a seizure or a death caused by an enforcement operation, so the case is outside the tracker’s scope.",
+     "flags": [],
+     "usage": {
+      "seconds": 85,
+      "research_seconds": 27,
+      "steps": 2,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 26780,
+      "output_tokens": 495,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 24448,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "ua-mykolaiv-sentence-same-day",
+   "title": "Nine years for 14 plants in Mykolaiv, beside an unrelated arrest",
+   "family": "new-event",
+   "tests": [
+    "coverage",
+    "look-alike",
+    "classification",
+    "languages",
+    "corroboration"
+   ],
+   "why": "A police statement in Ukrainian: a 51-year-old Mykolaiv man, searched in July, was sentenced to nine years for growing 14 cannabis plants and keeping dried cannabis for sale. The tracker has a report from the same city and the same day about a 44-year-old just arrested with almost 8 kg. Different man, different stage. The outlets disagree on the weight in this case (about 8 kg, or \"over 10 kg\" of raw material).",
+   "submit": "https://mk.npu.gov.ua/news/deviat-rokiv-uviaznennia-za-nezakonne-zberihannia-narkosyrovyny-zadlia-zbutu-u-mykolaievi-za-dokazamy-slidchykh-politsii-sud-vynis-vyrok-mistsevomu-meshkantsiu",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "ua": 1
+    },
+    "date": {
+     "value": "2026-11-02",
+     "tolerance_days": 2
+    },
+    "type": {
+     "sentence": 1,
+     "prosecution": 0.5
+    },
+    "place": {
+     "coordinates": [
+      46.975,
+      31.995
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "prison": {
+      "match": [
+       "9 years",
+       "nine years",
+       "9-year",
+       "nine-year"
+      ]
+     },
+     "plants_destroyed": {
+      "value": 14
+     }
+    },
+    "figures_optional": [
+     "kg_seized",
+     "arrested",
+     "charged",
+     "sentenced",
+     "convicted",
+     "plants_seized",
+     "sites"
+    ],
+    "details": {
+     "case_stage": [
+      "sentenced"
+     ],
+     "sentence_types": [
+      "prison"
+     ],
+     "activity": [
+      "cultivation"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the nine-year sentence",
+      "any": [
+       "nine years",
+       "9 years",
+       "nine-year"
+      ]
+     },
+     {
+      "say": "the 14 plants",
+      "any": [
+       "14"
+      ]
+     },
+     {
+      "say": "the search was in July",
+      "any": [
+       "July"
+      ]
+     }
+    ],
+    "must_not_say": [
+     {
+      "say": "he is the 44-year-old arrested that day",
+      "any": [
+       "44-year-old",
+       "44 years old"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "strict": true,
+     "known": [
+      "mk.npu.gov.ua",
+      "npu.gov.ua",
+      "nikvesti.com",
+      "news.pn",
+      "nikpravda.com.ua",
+      "mayupravo.com",
+      "korabelov.info",
+      "novosti-n.org",
+      "0512.com.ua",
+      "suspilne.media",
+      "inshe.tv"
+     ],
+     "markers": [
+      "51-річн",
+      "51-летн",
+      "14 рослин",
+      "14 кущ",
+      "14 растен",
+      "14 куст",
+      "дев’ять років",
+      "дев'ять років",
+      "девять лет",
+      "9 років",
+      "9 лет"
+     ],
+     "markers_min": 2
+    }
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "mykolaiv-fourteen-plants-nine-year-sentence",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The report was committed to the local repository (7cfddd02fbe2). It is available in local development; pushing is separate.",
+     "model_explanation": "The police and prosecutor describe the same July search and subsequent sentence. Their accounts give different quantities for the dried cannabis, so no weight is entered as a figure.",
+     "flags": [],
+     "usage": {
+      "seconds": 221,
+      "research_seconds": 173,
+      "steps": 7,
+      "searches": 1,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 43994,
+      "output_tokens": 7406,
+      "reasoning_tokens": 21,
+      "cache_read_tokens": 220800,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Миколаїв 14 рослин 10 кілограмів дев’ять років коноплі 2026"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "Mykolaiv man sentenced to nine years over cannabis cultivation and storage",
+      "summary": "A Mykolaiv court sentenced a 51-year-old man to nine years in prison for cannabis cultivation and drug offences involving storage for sale. Police seized 14 plants and dried cannabis from his property in July 2026; the verdict had not yet entered into force.",
+      "date": "2026-11-03",
+      "country": "ua",
+      "type": "sentence",
+      "also": [
+       "arrest",
+       "seizure"
+      ],
+      "place": "Mykolaiv, Mykolaiv Oblast",
+      "coordinates": [
+       46.975,
+       31.9946
+      ],
+      "figures": {
+       "arrested": 1,
+       "charged": 1,
+       "plants_destroyed": 14,
+       "prison": "9 years",
+       "plants_seized": 14,
+       "convicted": 1,
+       "sentenced": 1
+      },
+      "details": {
+       "agencies": [
+        "National Police of Ukraine",
+        "Mykolaiv City District Prosecutor's Office"
+       ],
+       "agency_types": [
+        "police",
+        "prosecutor",
+        "court"
+       ],
+       "products": [
+        {
+         "product": "plants",
+         "plants": 14
+        },
+        {
+         "product": "flower"
+        }
+       ],
+       "activity": [
+        "cultivation",
+        "possession",
+        "sale"
+       ],
+       "setting": [
+        "home"
+       ],
+       "environment": [
+        "outdoor"
+       ],
+       "case_stage": "sentenced",
+       "sentence_types": [
+        "prison"
+       ],
+       "date_precision": "publication",
+       "region": "Mykolaiv Oblast"
+      },
+      "tags": [
+       "mykolaiv",
+       "cannabis",
+       "cultivation"
+      ],
+      "sources": [
+       {
+        "url": "https://mk.npu.gov.ua/news/deviat-rokiv-uviaznennia-za-nezakonne-zberihannia-narkosyrovyny-zadlia-zbutu-u-mykolaievi-za-dokazamy-slidchykh-politsii-sud-vynis-vyrok-mistsevomu-meshkantsiu",
+        "title": "Дев’ять років ув’язнення за незаконне зберігання наркосировини задля збуту – у Миколаєві за доказами слідчих поліції суд виніс вирок місцевому мешканцю",
+        "publisher": "Головне управління Національної поліції в Миколаївській області",
+        "date": "2026-11-03",
+        "language": "uk"
+       },
+       {
+        "url": "https://myk.gp.gov.ua/ua/news.html?_c=view&_m=publications&_t=rec&id=434286",
+        "title": "До 9 років ув'язнення засуджено мешканця Миколаєва за вирощування конопель та зберігання канабісу",
+        "publisher": "Миколаївська обласна прокуратура",
+        "date": "2026-11-03",
+        "language": "uk"
+       },
+       {
+        "url": "https://myk.gp.gov.ua/ua/news.html?_m=publications&_t=rec&id=426847&fp=60&s=print",
+        "title": "Понад 10 кг канабісу та 14 рослин конопель: у Миколаєві повідомлено про підозру чоловіку у незаконному зберіганні наркотиків з метою збуту (ФОТО)",
+        "publisher": "Миколаївська обласна прокуратура",
+        "date": "2026-07-27",
+        "language": "uk"
+       }
+      ],
+      "media": [],
+      "open_questions": [
+       "Police and the prosecutor's July statement reported more than 10 kilograms of dried material, while the prosecutor's sentencing statement reported more than 8 kilograms of cannabis; the weight is omitted from the figures.",
+       "The precise date of sentencing is not stated; 3 November 2026 is the publication date used for the incident.",
+       "The verdict had not entered into force, and any appeal or later outcome is unknown."
+      ],
+      "body": "A court in Mykolaiv sentenced a 51-year-old local man to nine years in prison\nfor cannabis cultivation and drug offences involving storage for sale. The\nregional prosecutor's office said the man admitted guilt in part during the\ntrial, but the court found the offences proved in full. Police said the\nverdict had not yet entered into force.\n\nPolice arrested the man after a search of his home in July 2026 and seized 14\ncannabis plants and dried plant material. Investigators said he tended\nplants on his property, drying some in the attic and grinding and packing some\nin glass jars for storage and sale. The prosecutor's office said a court\nhad ordered him held in custody with bail set at 133,120 hryvnias during the\ninvestigation. The prosecutor's office said the court found he had grown\ncannabis on the property from April 2026.",
+      "words": 142
+     },
+     "dimensions": {
+      "facts": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "ua",
+         "got": "ua"
+        },
+        {
+         "label": "Date of the event",
+         "score": 1,
+         "expected": "2026-11-02 (within 2 days)",
+         "got": "2026-11-03"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "sentence",
+         "got": "sentence + arrest + seizure"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 60 km of 46.975, 31.995",
+         "got": "Mykolaiv, Mykolaiv Oblast (0 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "prison",
+         "score": 1,
+         "expected": "9 years",
+         "got": "9 years"
+        },
+        {
+         "label": "plants_destroyed",
+         "score": 1,
+         "expected": "14",
+         "got": "14"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "case stage",
+         "score": 1,
+         "expected": "sentenced",
+         "got": "sentenced"
+        },
+        {
+         "label": "sentence types",
+         "score": 1,
+         "expected": "prison",
+         "got": "prison"
+        },
+        {
+         "label": "activity",
+         "score": 1,
+         "expected": "cultivation",
+         "got": "cultivation, possession, sale"
+        }
+       ],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Independent outlets on this event",
+         "score": 1,
+         "expected": "2 or more",
+         "got": "2"
+        },
+        {
+         "label": "Головне управління Національної поліції в Миколаївській області",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "npu.gov.ua: about this event"
+        },
+        {
+         "label": "Миколаївська обласна прокуратура",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "gp.gov.ua: about this event"
+        },
+        {
+         "label": "Миколаївська обласна прокуратура",
+         "score": 0,
+         "expected": "a report of this event",
+         "got": "gp.gov.ua: could not be confirmed as this event"
+        }
+       ],
+       "weight": 15
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says the nine-year sentence",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says the 14 plants",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says the search was in July",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Does not say he is the 44-year-old arrested that day",
+         "score": 1,
+         "expected": "not in the text",
+         "got": "correct"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "74"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "7 of 7",
+         "got": "7 of 7"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "us-clifton-park-pounds",
+   "title": "489 pounds seized on the Northway",
+   "family": "new-event",
+   "tests": [
+    "units",
+    "date",
+    "corroboration",
+    "photos"
+   ],
+   "why": "A plain US traffic-stop seizure with three things to get right: pounds become kilograms, the country is the state (us/ny), and the page only says \"Tuesday\", so the stop date has to be worked out from other outlets. Many local outlets carried the sheriff's statement and photo.",
+   "submit": "https://wnyt.com/top-stories/two-men-charged-after-489-pounds-of-cannabis-seized-on-northway-in-clifton-park/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "us/ny": 1,
+     "us": 0.5
+    },
+    "date": {
+     "value": "2026-09-08"
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1
+    },
+    "place": {
+     "coordinates": [
+      42.8656,
+      -73.7757
+     ],
+     "within_km": 30
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 221.81,
+      "tolerance": 0.01
+     },
+     "arrested": {
+      "value": 2
+     }
+    },
+    "figures_optional": [
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 489,
+      "why": "pounds recorded as kilograms"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ],
+     "case_stage": [
+      "charged"
+     ],
+     "setting": [
+      "vehicle"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the 489 pounds as stated",
+      "any": [
+       "489\\s*(pounds|lb)"
+      ]
+     },
+     {
+      "say": "it was a traffic stop",
+      "any": [
+       "traffic stop",
+       "stopped"
+      ]
+     },
+     {
+      "say": "both men were charged",
+      "any": [
+       "charged"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "wnyt.com",
+      "dailyvoice.com",
+      "13wham.com",
+      "cbs6albany.com",
+      "news10.com",
+      "nny360.com",
+      "dailygazette.com",
+      "saratogatodaynewspaper.com",
+      "timesunion.com",
+      "wrgb.com"
+     ],
+     "markers": [
+      "489",
+      "Clifton Park",
+      "Wilbur",
+      "Carle"
+     ]
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "489_pounds_of_weed",
+      "clifton-park-cannabis-seizure-sheriff-photos"
+     ]
+    },
+    "open_questions": [
+     {
+      "about": "no court outcome yet",
+      "any": [
+       "court",
+       "outcome",
+       "trial",
+       "sentence",
+       "plea"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "clifton-park-northway-489-pounds-two-arrests",
+     "existing_report": "",
+     "decision_title": "Two charged in Northway stop",
+     "explanation": "The report was committed to the local repository (6122a0e27160). It is available in local development; pushing is separate.",
+     "model_explanation": "The Clifton Park traffic stop involved Wilbur and Carle, unlike the separate July Northway pursuit and the Idaho case among the nominated reports. The account rests on the sheriff's office statement as reported by WNYT.",
+     "flags": [],
+     "usage": {
+      "seconds": 143,
+      "research_seconds": 100,
+      "steps": 6,
+      "searches": 2,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 60313,
+      "output_tokens": 3361,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 141568,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Wilbur Carle 489 cannabis Clifton Park sheriff",
+      "\"Wilbur\" \"Carle\" cannabis Saratoga"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "Two charged after 489 lb of cannabis seized in Clifton Park",
+      "summary": "Sheriff's deputies arrested two men after a traffic stop on the Northway in Clifton Park and said they seized 489 pounds of cannabis. Both were charged with first-degree criminal possession; one was jailed and the other released pending further proceedings.",
+      "date": "2026-09-14",
+      "country": "us/ny",
+      "type": "arrest",
+      "also": [
+       "seizure",
+       "prosecution"
+      ],
+      "place": "Northway, Clifton Park, New York",
+      "coordinates": [
+       42.8656,
+       -73.7701
+      ],
+      "figures": {
+       "arrested": 2,
+       "charged": 2,
+       "kg_seized": 221.806,
+       "released": 1
+      },
+      "details": {
+       "agencies": [
+        "Saratoga County Sheriff's Office"
+       ],
+       "agency_types": [
+        "police"
+       ],
+       "activity": [
+        "possession"
+       ],
+       "setting": [
+        "vehicle"
+       ],
+       "case_stage": "charged",
+       "date_precision": "publication",
+       "region": "New York"
+      },
+      "tags": [
+       "northway",
+       "saratoga",
+       "traffic-stop"
+      ],
+      "sources": [
+       {
+        "url": "https://wnyt.com/top-stories/two-men-charged-after-489-pounds-of-cannabis-seized-on-northway-in-clifton-park/",
+        "title": "Two men charged after 489 pounds of cannabis seized on Northway in Clifton Park",
+        "publisher": "WNYT",
+        "date": "2026-09-14",
+        "language": ""
+       }
+      ],
+      "media": [],
+      "open_questions": [
+       "The account dates the stop only to a Tuesday; 14 September 2026 is the publication date and stands in for the incident date.",
+       "No plea or final court outcome was reported.",
+       "The cannabis product was not specified."
+      ],
+      "body": "Saratoga County sheriff's deputies arrested Kevin C. Wilbur and Quinton L. Carle\nafter a traffic stop on the Northway in Clifton Park. The sheriff's office\nsaid deputies seized 489 pounds (about 221.8 kilograms) of cannabis. Each\nman was charged with first-degree criminal possession of cannabis.\n\nDeputies said the vehicle was stopped at 2:28 p.m. for following too closely and\ninsufficient tail lamps, and Wilbur was cited for both traffic violations.\nBoth men were arraigned in Clifton Park Town Court before Judge Jennifer Jeram. Wilbur was remanded to the Saratoga County Jail, while Carle was released\non his own recognizance pending further proceedings.",
+      "words": 102
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0.75,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "us/ny",
+         "got": "us/ny"
+        },
+        {
+         "label": "Date of the event",
+         "score": 0,
+         "expected": "2026-09-08",
+         "got": "2026-09-14"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "seizure or arrest",
+         "got": "arrest + seizure + prosecution"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 30 km of 42.8656, -73.7757",
+         "got": "Northway, Clifton Park, New York (0 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "kg_seized",
+         "score": 1,
+         "expected": "221.81",
+         "got": "221.806"
+        },
+        {
+         "label": "arrested",
+         "score": 1,
+         "expected": "2",
+         "got": "2"
+        }
+       ],
+       "notes": [
+        "Also recorded, not checked: released 1"
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0.6666666666666666,
+       "checks": [
+        {
+         "label": "products",
+         "score": 0,
+         "expected": "flower",
+         "got": "none"
+        },
+        {
+         "label": "case stage",
+         "score": 1,
+         "expected": "charged",
+         "got": "charged"
+        },
+        {
+         "label": "setting",
+         "score": 1,
+         "expected": "vehicle",
+         "got": "vehicle"
+        }
+       ],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0.5,
+       "checks": [
+        {
+         "label": "Independent outlets on this event",
+         "score": 0.5,
+         "expected": "2 or more",
+         "got": "1"
+        },
+        {
+         "label": "WNYT",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "wnyt.com: about this event"
+        }
+       ],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [
+        {
+         "label": "Photos of the event",
+         "score": 0,
+         "expected": "1 or more",
+         "got": "none linked"
+        }
+       ],
+       "weight": 10
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says the 489 pounds as stated",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says it was a traffic stop",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says both men were charged",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Open question: no court outcome yet",
+         "score": 1,
+         "expected": "listed as open",
+         "got": "yes"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "59"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "6 of 6",
+         "got": "6 of 6"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 74.2,
+     "verdict": "partial"
+    }
+   ],
+   "score": 74.2
+  },
+  {
+   "id": "us-missouri-hemp-act",
+   "title": "Missouri's Intoxicating Cannabinoid Control Act takes effect",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "routing"
+   ],
+   "why": "A state law coming into force: hemp products above 0.4 mg of THC now count as marijuana. The article mentions lawsuits against four shops in passing, but reports no raid, seizure or arrest. It is a law change for the Cannabis Freedom Index.",
+   "submit": "https://spectrumlocalnews.com/mo/st-louis/news/2026/11/12/st-louis-missouri-intoxicating-cannabinoid-control-act-catherine-hanaway",
+   "expect": {
+    "outcome": {
+     "routed_to_cfi": 1,
+     "not_relevant": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "routed_to_cfi",
+     "outcome": "routed_to_cfi",
+     "model_outcome": "routed_to_cfi",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "Missouri hemp law belongs in CFI",
+     "explanation": "The source describes Missouri's new restrictions on intoxicating hemp products and a dismissed constitutional challenge. Law changes belong in the Cannabis Freedom Index history rather than an enforcement-event report. It also mentions lawsuits against four businesses, but provides no case-specific details sufficient to identify an individual enforcement event.",
+     "model_explanation": "The source describes Missouri's new restrictions on intoxicating hemp products and a dismissed constitutional challenge. Law changes belong in the Cannabis Freedom Index history rather than an enforcement-event report. It also mentions lawsuits against four businesses, but provides no case-specific details sufficient to identify an individual enforcement event.",
+     "flags": [],
+     "usage": {
+      "seconds": 49,
+      "research_seconds": 23,
+      "steps": 2,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 23850,
+      "output_tokens": 483,
+      "reasoning_tokens": 20,
+      "cache_read_tokens": 22656,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "routed_to_cfi",
+      "got": "routed to cfi"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  }
+ ]
+}

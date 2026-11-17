@@ -1,0 +1,1397 @@
+{
+ "schema": 1,
+ "id": "20261117-1014-opencode-opencode-go-longcat-2-5-free",
+ "label": "",
+ "subject": {
+  "id": "opencode@opencode-go/longcat-2.5-free",
+  "harness": "opencode",
+  "provider": "opencode-go",
+  "model": "longcat-2.5-free",
+  "effort": "",
+  "agent": "opencode-go/longcat-2.5-free",
+  "recorded": "opencode-go/longcat-2.5-free",
+  "harness_version": "opencode v2.2.7"
+ },
+ "started_at": "2026-11-17T10:14:06.878Z",
+ "finished_at": null,
+ "complete": false,
+ "repeat": 3,
+ "concurrency": 2,
+ "protocol": {
+  "version": 1,
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "max_steps": 32,
+  "timeout_seconds": 1800,
+  "websearch": "random",
+  "context": "inline",
+  "screen": true,
+  "source_browser": true,
+  "concurrency": 2,
+  "case_deadline_minutes": 45,
+  "retry_errors": 1
+ },
+ "protocol_hash": "9be3371802af",
+ "cases_hash": "3590fabd1e59",
+ "full_set": true,
+ "tracker": {
+  "commit": "8b098eedbe1a11294d5354326d15b200fdb4c9cf",
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "uncommitted_changes": false
+ },
+ "scorer_version": 1,
+ "weights": {
+  "facts": 20,
+  "figures": 20,
+  "classification": 10,
+  "corroboration": 15,
+  "photos": 10,
+  "text": 15,
+  "grounding": 10
+ },
+ "dimensions": {
+  "facts": "Facts",
+  "figures": "Figures and units",
+  "classification": "Classification",
+  "corroboration": "Corroboration",
+  "photos": "Photos",
+  "text": "Report text",
+  "grounding": "Grounding"
+ },
+ "families": {
+  "new-event": "New events",
+  "known-event": "Already covered",
+  "out-of-scope": "Out of scope"
+ },
+ "summary": {
+  "score": 40,
+  "attempt_scores": [
+   40
+  ],
+  "cases": 10,
+  "attempts": 10,
+  "verdicts": {
+   "pass": 4,
+   "partial": 0,
+   "fail": 6,
+   "error": 0,
+   "skipped": 0,
+   "spoiled": 0
+  },
+  "families": {
+   "new-event": {
+    "score": 33.3,
+    "cases": 3
+   },
+   "known-event": {
+    "score": 50,
+    "cases": 6
+   },
+   "out-of-scope": {
+    "score": 0,
+    "cases": 1
+   }
+  },
+  "capabilities": {
+   "recognised": {
+    "score": 33.3,
+    "cases": 3
+   },
+   "facts": {
+    "score": 33.3,
+    "cases": 3
+   },
+   "figures": {
+    "score": 33.3,
+    "cases": 3
+   },
+   "classification": {
+    "score": 33.3,
+    "cases": 3
+   },
+   "corroboration": {
+    "score": 50,
+    "cases": 2
+   },
+   "photos": {
+    "score": 100,
+    "cases": 1
+   },
+   "text": {
+    "score": 33.3,
+    "cases": 3
+   },
+   "grounding": {
+    "score": 33.3,
+    "cases": 3
+   }
+  },
+  "usage": {
+   "minutes_per_case": 25.7,
+   "steps_per_case": 4,
+   "input_tokens": 680925,
+   "output_tokens": 49937,
+   "reasoning_tokens": 163843,
+   "cache_read_tokens": 2072448,
+   "cache_write_tokens": 0,
+   "cost_usd": 0
+  }
+ },
+ "cases": [
+  {
+   "id": "eg-sohag-death-sentences",
+   "title": "Three sentenced to death in a Sohag hashish case",
+   "family": "new-event",
+   "tests": [
+    "scope",
+    "classification",
+    "languages",
+    "corroboration"
+   ],
+   "why": "An Arabic court report. Death sentences for cannabis stay in the tracker (type \"sentence\") and are not sent to the Cannabis Freedom Index. The case dates from November 2025, the sentence from November 2026.",
+   "submit": "https://www.elbalad.news/7168342",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "eg": 1
+    },
+    "date": {
+     "value": "2026-11-04",
+     "tolerance_days": 1
+    },
+    "type": {
+     "sentence": 1,
+     "prosecution": 0.5
+    },
+    "place": {
+     "coordinates": [
+      26.697,
+      31.591
+     ],
+     "within_km": 70
+    },
+    "figures_optional": [
+     "prison",
+     "charged",
+     "sentenced",
+     "convicted",
+     "arrested",
+     "kg_seized"
+    ],
+    "details": {
+     "sentence_types": [
+      "death"
+     ],
+     "case_stage": [
+      "sentenced"
+     ],
+     "products": [
+      "hashish"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the death sentence",
+      "any": [
+       "death"
+      ]
+     },
+     {
+      "say": "three defendants",
+      "any": [
+       "three",
+       "\\b3\\b"
+      ]
+     },
+     {
+      "say": "it was hashish",
+      "any": [
+       "hashish"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "elbalad.news",
+      "youm7.com",
+      "cairo24.com",
+      "mwlana.com",
+      "iqraa.news",
+      "alraeesnews.com",
+      "dostor.org",
+      "aldawlanews.com",
+      "ahlmasrnews.com",
+      "ekhbary24.com",
+      "almasryalyoum.com",
+      "elwatannews.com",
+      "shorouknews.com",
+      "akhbarelyom.com",
+      "masrawy.com",
+      "gate.ahram.org.eg",
+      "vetogate.com",
+      "elfagr.org"
+     ],
+     "markers": [
+      "المراغة",
+      "الإعدام",
+      "سوهاج",
+      "الحشيش",
+      "مشرط"
+     ],
+     "markers_min": 3
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 13:43 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1795,
+      "research_seconds": 1786,
+      "steps": 1,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 0 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "in-agartala-same-platform",
+   "title": "A second seizure on the same Agartala platform the same day",
+   "family": "new-event",
+   "tests": [
+    "coverage",
+    "look-alike",
+    "figures",
+    "honesty"
+   ],
+   "why": "Railway police arrested a 19-year-old with 5.525 kg of ganja on platform 1 of Agartala station. The tracker already has another seizure from the same bench on the same platform on the same day by the same officers: two other men with 24.625 kg. Two events, written in near-identical words by the same outlet. The headline also says the ganja is worth 5 lakh rupees; the text says 2.5 lakh.",
+   "submit": "https://www.tripurastarnews.com/tripura-railway-police-seizes-05-525-kg-of-cannabis-worth-%E2%82%B95-lakh-with-1-drug-peddler-in-agartala-railway-station/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "in": 1
+    },
+    "date": {
+     "value": "2026-11-13"
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1
+    },
+    "place": {
+     "coordinates": [
+      23.7917,
+      91.2791
+     ],
+     "within_km": 30
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 5.525
+     },
+     "arrested": {
+      "value": 1
+     },
+     "value": {
+      "amount": 250000,
+      "currency": "INR"
+     }
+    },
+    "figures_optional": [
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 24.625,
+      "why": "the weight of the other seizure that day"
+     },
+     {
+      "key": "arrested",
+      "value": 2,
+      "why": "the two men of the other seizure"
+     },
+     {
+      "key": "value.amount",
+      "value": 500000,
+      "why": "the headline's figure",
+      "not the text's": null
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the weight as stated",
+      "any": [
+       "5\\.525"
+      ]
+     },
+     {
+      "say": "it was on platform 1 of the station",
+      "any": [
+       "platform"
+      ]
+     },
+     {
+      "say": "whose valuation it is",
+      "any": [
+       "estimated",
+       "police (put|valued|said)",
+       "black-market",
+       "according to"
+      ]
+     }
+    ],
+    "must_not_say": [
+     {
+      "say": "two men were held",
+      "any": [
+       "two men",
+       "two people",
+       "both men"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 13:13 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1766,
+      "steps": 1,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 0 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "in-pudukkottai-lakh",
+   "title": "Two women held with 26 kg of ganja in Pudukkottai",
+   "family": "new-event",
+   "tests": [
+    "languages",
+    "units",
+    "corroboration",
+    "photos"
+   ],
+   "why": "A Tamil-language source. The police valuation is given in lakh (13 lakh rupees is 1,300,000), and Tamil outlets differ by a day on when the car was stopped.",
+   "submit": "https://www.dailythanthi.com/news/india/2-women-arrested-for-smuggling-ganja-from-andhra-pradesh-to-pudukkottai",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "in": 1
+    },
+    "date": {
+     "value": "2026-11-06",
+     "also": {
+      "2026-11-05": 1
+     }
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1
+    },
+    "place": {
+     "coordinates": [
+      10.3833,
+      78.8
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 26
+     },
+     "arrested": {
+      "value": 2
+     },
+     "value": {
+      "amount": 1300000,
+      "currency": "INR"
+     }
+    },
+    "figures_optional": [
+     "vehicles",
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "value.amount",
+      "value": 13,
+      "why": "lakh not converted"
+     },
+     {
+      "key": "value.amount",
+      "value": 13000000,
+      "why": "lakh converted as crore"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ],
+     "setting": [
+      "vehicle"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the two arrested were women",
+      "any": [
+       "two women",
+       "2 women",
+       "both women"
+      ]
+     },
+     {
+      "say": "the ganja came from Andhra Pradesh",
+      "any": [
+       "Andhra"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "dailythanthi.com",
+      "thanthitv.com",
+      "dinamani.com",
+      "dinakaran.com",
+      "dinamalar.com",
+      "hindutamil.in",
+      "maalaimalar.com",
+      "polimernews.com",
+      "news18.com",
+      "puthiyathalaimurai.com",
+      "thehindu.com",
+      "timesofindia.indiatimes.com",
+      "dtnext.in"
+     ],
+     "markers": [
+      "புதுக்கோட்டை",
+      "Pudukkottai",
+      "கஞ்சா",
+      "26 கிலோ",
+      "26 kg",
+      "ஆந்திர"
+     ],
+     "markers_min": 3
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "dailythanthi%2F2026-11-06",
+      "281.jpg"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "pudukkottai-26kg-ganja-two-women-arrested",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The report was committed to the local repository (4e6fc9e7f854). 2 of 2 new photos and videos got a thumbnail or poster. It is available in local development; pushing is separate.",
+     "model_explanation": "The submitted Daily Thanthi report and three other Tamil outlets describe a single enforcement action: on 6 November 2026 police in Pudukkottai, Tamil Nadu, stopped a car arriving from Andhra Pradesh, found 26 kg of ganja in a concealed compartment and arrested two women, Vasanthi and her niece Shanmugapriya, also seizing the car. It is a cannabis enforcement event after 2000 that changes no law, so it belongs in the tracker as a new report. Searches of the tracker for Pudukkottai, the women's names, the 26 kg figure and the source URLs returned no existing report on this event; the four candidate reports supplied with the request are distinct events in Antigua, Chennai, Larnaca and Windsor. No event comparisons are required.",
+     "flags": [
+      "A web search returned the tracker's own pages (it was told to ignore them): https://tracker.cannabisfreedom.fyi/2026"
+     ],
+     "usage": {
+      "seconds": 1300,
+      "research_seconds": 1175,
+      "steps": 12,
+      "searches": 3,
+      "pages_opened": 5,
+      "runs": 1,
+      "input_tokens": 226660,
+      "output_tokens": 25655,
+      "reasoning_tokens": 57416,
+      "cache_read_tokens": 1237376,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "புதுக்கோட்டை கஞ்சா கடத்தல் 2 பெண்கள் கைது 26 கிலோ",
+      "Pudukkottai ganja smuggling 26 kg two women arrested Andhra Pradesh",
+      "Vasanthi Shanmugapriya Pudukkottai 26 kg ganja arrested November 2026"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "Two women arrested with 26 kg of ganja in car from Andhra Pradesh",
+      "summary": "Police in Pudukkottai stopped a car from Andhra Pradesh, found 26 kg of ganja in a hidden compartment and arrested two women, Vasanthi and her niece Shanmugapriya. Officers valued the bundles at about ₹13 lakh, seized the car and said the pair planned to distribute the ganja to local agents.",
+      "date": "2026-11-06",
+      "country": "in",
+      "type": "arrest",
+      "also": [
+       "seizure"
+      ],
+      "place": "Kattiyavayal, Pudukkottai, Tamil Nadu",
+      "coordinates": [
+       10.3833,
+       78.8001
+      ],
+      "figures": {
+       "arrested": 2,
+       "kg_seized": 26,
+       "value": {
+        "amount": 1300000,
+        "currency": "INR"
+       },
+       "vehicles": 1
+      },
+      "details": {
+       "agencies": [
+        "Pudukkottai district police",
+        "Pudukkottai Madurai Enforcement Division"
+       ],
+       "agency_types": [
+        "police"
+       ],
+       "products": [
+        {
+         "product": "flower",
+         "kg": 26
+        }
+       ],
+       "activity": [
+        "smuggling",
+        "trafficking"
+       ],
+       "setting": [
+        "vehicle"
+       ],
+       "case_stage": "investigation",
+       "date_precision": "exact",
+       "region": "Tamil Nadu"
+      },
+      "tags": [
+       "pudukkottai",
+       "tamil-nadu",
+       "ganja",
+       "andhra-pradesh",
+       "vehicle-check"
+      ],
+      "sources": [
+       {
+        "url": "https://www.dailythanthi.com/news/india/2-women-arrested-for-smuggling-ganja-from-andhra-pradesh-to-pudukkottai",
+        "title": "ஆந்திராவில் இருந்து புதுக்கோட்டைக்கு கஞ்சா கடத்திய 2 பெண்கள் கைது / 2 women arrested for smuggling ganja from Andhra Pradesh to Pudukkottai",
+        "publisher": "Daily Thanthi",
+        "date": "2026-11-06",
+        "language": "ta"
+       },
+       {
+        "url": "https://www.dinamalar.com/news/tamil-nadu-news/2-women-who-smuggled-cannabis-arrested/4369524",
+        "title": "கஞ்சா கடத்திய 2 பெண்கள் கைது",
+        "publisher": "Dinamalar",
+        "date": "2026-11-06",
+        "language": "ta"
+       },
+       {
+        "url": "https://www.dinamani.com/all-editions/edition-trichy/pudukottai/2026/Nov/07/26-%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8B-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF-%E0%AE%87%E0%AE%B0%E0%AF%81-%E0%AE%AA%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81",
+        "title": "26 கிலோ கஞ்சா கடத்திய இரு பெண்கள் கைது",
+        "publisher": "Dinamani",
+        "date": "2026-11-07",
+        "language": "ta"
+       },
+       {
+        "url": "https://www.thanthitv.com/news/tamilnadu/women-caught-smuggling-ganja-in-car-such-a-huge-quantity",
+        "title": "Crime | Police | காரில் கஞ்சா கடத்தி வந்த பெண்கள்.. இத்தனை கிலோவா...",
+        "publisher": "Thanthi TV",
+        "date": "2026-11-06",
+        "language": "ta"
+       }
+      ],
+      "media": [
+       {
+        "kind": "photo",
+        "url": "https://www.dailythanthi.com/news/india/2-women-arrested-for-smuggling-ganja-from-andhra-pradesh-to-pudukkottai",
+        "media_url": "https://media.assettype.com/dailythanthi%2F2026-11-06%2Fnd5ca7b9%2F281.jpg?w=768&auto=format%2Ccompress&fit=max",
+        "caption": "Daily Thanthi photo of the two arrested women, Vasanthi and Shanmugapriya, published with the report."
+       },
+       {
+        "kind": "video",
+        "url": "https://www.dailythanthi.com/news/india/2-women-arrested-for-smuggling-ganja-from-andhra-pradesh-to-pudukkottai",
+        "media_url": "https://www.youtube.com/watch?v=TVog8WQ_-9c",
+        "caption": "Thanthi TV video report on the arrest of the two women and the seizure of 26 kg of ganja."
+       }
+      ],
+      "open_questions": [
+       "Sources disagree on the exact date: Daily Thanthi describes the car stop as happening on Friday 6 November 2026, while Dinamani says the two women were arrested on Thursday night, 5 November.",
+       "No charges, court outcome or remand detail was reported; the case was at the investigation stage.",
+       "The ₹13 lakh value is the police estimate and no independent valuation was reported.",
+       "The Tamil outlets appear to reproduce the same Pudukkottai police account and are not independent reporting."
+      ],
+      "body": "Police in Pudukkottai stopped a car arriving from Andhra Pradesh and seized 26\nkg of ganja. The packets were found stacked in a concealed compartment of\nthe car. Two women, Vasanthi and her sister's daughter Shanmugapriya, were\narrested at the scene. The ganja was valued at about 13 lakh rupees and the\ncar used for the smuggling was also seized.\n\nDinamalar named the women as Vasanthi, 55, and Shanmugapriya, 35. The\ndistrict police special division picked them up at Kattiyavayal and handed them\nto the Pudukkottai Madurai enforcement division. Police registered a case\nand a preliminary inquiry found the pair had planned to distribute the ganja to\nlocal agents in Pudukkottai and surrounding areas. Officers said they were\ninvestigating the interstate ganja smuggling network behind the consignment.\n\nDinamani reported that two women were arrested with 26 kg of ganja. Thanthi\nTV reported that police arrested the two women who brought 26 kg of ganja by car\nfrom Andhra Pradesh to Pudukkottai.",
+      "words": 161
+     },
+     "dimensions": {
+      "facts": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "in",
+         "got": "in"
+        },
+        {
+         "label": "Date of the event",
+         "score": 1,
+         "expected": "2026-11-06",
+         "got": "2026-11-06"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "seizure or arrest",
+         "got": "arrest + seizure"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 60 km of 10.3833, 78.8",
+         "got": "Kattiyavayal, Pudukkottai, Tamil Nadu (0 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "kg_seized",
+         "score": 1,
+         "expected": "26",
+         "got": "26"
+        },
+        {
+         "label": "arrested",
+         "score": 1,
+         "expected": "2",
+         "got": "2"
+        },
+        {
+         "label": "value",
+         "score": 1,
+         "expected": "1300000 INR",
+         "got": "{\"amount\":1300000,\"currency\":\"INR\"}"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "products",
+         "score": 1,
+         "expected": "flower",
+         "got": "flower"
+        },
+        {
+         "label": "setting",
+         "score": 1,
+         "expected": "vehicle",
+         "got": "vehicle"
+        }
+       ],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Independent outlets on this event",
+         "score": 1,
+         "expected": "2 or more",
+         "got": "4"
+        },
+        {
+         "label": "Daily Thanthi",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "dailythanthi.com: about this event"
+        },
+        {
+         "label": "Dinamalar",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "dinamalar.com: about this event"
+        },
+        {
+         "label": "Dinamani",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "dinamani.com: about this event"
+        },
+        {
+         "label": "Thanthi TV",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "thanthitv.com: about this event"
+        }
+       ],
+       "weight": 15
+      },
+      "photos": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Known photo of the event",
+         "score": 1,
+         "expected": "linked",
+         "got": "https://media.assettype.com/dailythanthi%2F2026-11-06%2Fnd5ca7b9%2F281.jpg?w=768&auto=format%2Ccompress&fit=max"
+        },
+        {
+         "label": "Another picture (opens; not one of the known photos)",
+         "score": 0.6,
+         "expected": "a photo of the event",
+         "got": "https://www.youtube.com/watch?v=TVog8WQ_-9c",
+         "note": "Thanthi TV video report on the arrest of the two women and the seizure of 26 kg of ganja."
+        }
+       ],
+       "weight": 10
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says the two arrested were women",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says the ganja came from Andhra Pradesh",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "65"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "10 of 10",
+         "got": "10 of 10"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "in-vidisha-early-brief",
+   "title": "An early brief on the Byauchi village raid",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages",
+    "units"
+   ],
+   "why": "A two-sentence Hindi brief: three police stations raided a village at night and recovered \"one quintal\" of ganja. The tracker already has this raid from the fuller accounts that followed, under another spelling of the village (Byochi) and the exact weight (104.14 kg, one man arrested). In production this brief was written up as a second report; it belongs with the existing one.",
+   "submit": "https://www.bhaskar.com/local/mp/vidisha/news/police-from-three-police-stations-raided-byauchi-village-one-quintal-of-marijuana-recovered-dbp-139640902.html",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "vidisha-byochi-104kg-ganja-arrest"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 11:11 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1779,
+      "research_seconds": 1712,
+      "steps": 4,
+      "searches": 2,
+      "pages_opened": 1,
+      "runs": 1,
+      "input_tokens": 44415,
+      "output_tokens": 518,
+      "reasoning_tokens": 7121,
+      "cache_read_tokens": 55424,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Byauchi village Vidisha marijuana quintal police raid",
+      "ब्यौंची गांव विदिशा गांजा बरामद थाना"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "additional_source or duplicate → vidisha-byochi-104kg-ganja-arrest",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 3 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "it-castel-volturno-spanish-copy",
+   "title": "A Spanish-language copy of an Italian report",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "Il Mattino's machine-translated Spanish page for its own Italian report of the Castel Volturno arrest, mostly behind a paywall. The tracker's report was written from Italian sources and speaks of 9.6 kg of cannabis; this teaser says \"more than 11 kilos\" of hashish, marijuana and cocaine. It is the same event.",
+   "submit": "https://www.ilmattino.it/AMP/es/incautacion_record_de_estupefacientes_en_la_costa_de_caserta-9889706.html",
+   "expect": {
+    "outcome": {
+     "duplicate": 1,
+     "additional_source": 1,
+     "existing_case": 0.5,
+     "insufficient_evidence": 0.5
+    },
+    "existing_report": "castel-volturno-31-year-old-96kg-cannabis-arrest"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 14:11 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1794,
+      "research_seconds": 1782,
+      "steps": 1,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "duplicate or additional_source → castel-volturno-31-year-old-96kg-cannabis-arrest",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 0 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "mx-four-states-army-statement",
+   "title": "Another account of the army's 38 destroyed plots",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "mixed-substances"
+   ],
+   "why": "The Mexican army's statement on 38 plots destroyed in four states (20 poppy, 18 marijuana) is already recorded, under a title that speaks of 18 marijuana plots. This outlet leads with \"38 drug plots\". Same statement, same day, same event.",
+   "submit": "https://www.poresto.com/mexico/sucesos/2026/11/14/ejercito-destruye-plantios-droga-afectacion-supera-mdp.html",
+   "expect": {
+    "outcome": {
+     "duplicate": 1,
+     "additional_source": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "four-states-18-marijuana-plantations-eradication"
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "additional_source",
+     "model_outcome": "additional_source",
+     "report_slug": "four-states-18-marijuana-plantations-eradication",
+     "existing_report": "four-states-18-marijuana-plantations-eradication",
+     "decision_title": "Same four-state eradication; PorEsto account added",
+     "explanation": "The source was added to the existing report “Army destroys 18 marijuana plots among 38 plantations in four states” and committed to the local repository (e67cb22b148d). 1 of 1 new photos and videos got a thumbnail or poster. It is available in local development; pushing is separate.",
+     "model_explanation": "The submitted PorEsto article reports the same SEDENA announcement already recorded in the report on the Army and Air Force destroying 38 plantations in four states on 13 November 2026: 20 opium poppy and 18 marijuana crops covering 4.9 hectares, with SEDENA estimating 6.02 million pesos in losses to organised crime. It is another outlet's account of that event, so it is added as a corroborating source; it adds no new figure or development. Its Defence handout photo is listed as media.",
+     "flags": [],
+     "usage": {
+      "seconds": 298,
+      "research_seconds": 216,
+      "steps": 4,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 70683,
+      "output_tokens": 2440,
+      "reasoning_tokens": 8873,
+      "cache_read_tokens": 68736,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "duplicate or additional_source → four-states-18-marijuana-plantations-eradication",
+      "got": "additional source → four-states-18-marijuana-plantations-eradication"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "no-kristiansand-appeal",
+   "title": "A Norwegian appeal ruling in a case the tracker has",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "\"Got a pistol to his head and a finger broken: now his sentence is halved.\" Nothing in the headline says cannabis. The article is the appeal in the case of a man stopped at the Kristiansand ferry terminal with 18.5 kg of hashish, which the tracker records, with the appeal, under a report dated a year earlier.",
+   "submit": "https://www.krs.no/fikk-pistol-mot-hodet-og-fingeren-brukket-na-far-han-halvert-straffen/s/80-157-59933",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 1
+    },
+    "existing_report": "kristiansand-18-5kg-hash-sentence-halved"
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "additional_source",
+     "model_outcome": "additional_source",
+     "report_slug": "kristiansand-18-5kg-hash-sentence-halved",
+     "existing_report": "kristiansand-18-5kg-hash-sentence-halved",
+     "decision_title": "KRS account of recorded Kristiansand appeal",
+     "explanation": "The source was added to the existing report “German's sentence halved after 18.5 kg hash seizure in Kristiansand” and committed to the local repository (98ad4f7eb2f6). It is available in local development; pushing is separate.",
+     "model_explanation": "The submitted KRS article reports the Agder court of appeal's halving of the sentence of a man stopped at the Kristiansand ferry terminal with 18.5 kg of hashish and cocaine. It is the same case as the existing report kristiansand-18-5kg-hash-sentence-halved, which already records the four-year district court sentence, the appeal reduction and the 374 days' custody credit. The new account corroborates those facts and adds that DNA from three other people was found on the drug packaging, that the appeal started from a term of two years and ten months, and that the man was pressed to smuggle 15 kg of hashish. The cocaine from the same concealment is excluded from the cannabis figures.",
+     "flags": [],
+     "usage": {
+      "seconds": 730,
+      "research_seconds": 678,
+      "steps": 7,
+      "searches": 1,
+      "pages_opened": 3,
+      "runs": 1,
+      "input_tokens": 112241,
+      "output_tokens": 6700,
+      "reasoning_tokens": 41264,
+      "cache_read_tokens": 284672,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Smuglet over 19 kilo narkotika bakmenn brakk fingeren hans Kristiansand"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "additional_source or duplicate or existing_case → kristiansand-18-5kg-hash-sentence-halved",
+      "got": "additional source → kristiansand-18-5kg-hash-sentence-halved"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "pk-islamabad-foreign-outlet",
+   "title": "A Nigerian paper on arrests the tracker has from Pakistan",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "mixed-substances"
+   ],
+   "why": "The Anti-Narcotics Force arrested 20 Nigerians in Islamabad and Rawalpindi; 750 g of \"weed\" was among mostly cocaine and methamphetamine. The tracker has the event from Pakistani sources. This account comes from a Nigerian outlet, with the country and angle that implies.",
+   "submit": "https://gazettengr.com/20-nigerians-arrested-in-pakistan-over-alleged-drug-trafficking/",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "islamabad-rawalpindi-20-arrested-750g-weed"
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "additional_source",
+     "model_outcome": "additional_source",
+     "report_slug": "islamabad-rawalpindi-20-arrested-750g-weed",
+     "existing_report": "islamabad-rawalpindi-20-arrested-750g-weed",
+     "decision_title": "Same ANF twin-cities operation already recorded",
+     "explanation": "The source was added to the existing report “20 Nigerians arrested as ANF seizes 750 g of weed in twin cities” and committed to the local repository (28c700fd2d9d). It is available in local development; pushing is separate.",
+     "model_explanation": "The Peoples Gazette page reports the same Anti-Narcotics Force operation already recorded in islamabad-rawalpindi-20-arrested-750g-weed: 20 Nigerian nationals arrested in coordinated raids across Islamabad and Rawalpindi, with 750 grams of weed recovered alongside cocaine and methamphetamine. It is a later republication of the ANF statement and corroborates the recorded figures and narrative without adding a new fact, so it is merged as an additional source. The page's only image is a generic 'drug trafficking' stand-in with no credit, so it is not listed as media. No other report is affected.",
+     "flags": [],
+     "usage": {
+      "seconds": 284,
+      "research_seconds": 256,
+      "steps": 4,
+      "searches": 1,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 78934,
+      "output_tokens": 2550,
+      "reasoning_tokens": 14545,
+      "cache_read_tokens": 75008,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "ANF Pakistan 20 Nigerians arrested Rawalpindi Islamabad drug trafficking"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "additional_source or duplicate → islamabad-rawalpindi-20-arrested-750g-weed",
+      "got": "additional source → islamabad-rawalpindi-20-arrested-750g-weed"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "pl-jelenia-gora-second-outlet",
+   "title": "A second Polish outlet on the Jelenia Góra sentence",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "The tracker has the four-year sentence for bringing 2.5 kg of marijuana from Czechia. This local portal reports the same judgment. It should be added to that report, not written up again.",
+   "submit": "https://www.bolec.info/boleslawiec/informacje/kategoria/45842/cztery-lata-wiezienia-za-przywoz-25-kg-marihuany-z-czech",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "jelenia-gora-court-organizer-2-5-kg-marijuana-from-czech-republic"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 11:13 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1795,
+      "research_seconds": 1771,
+      "steps": 3,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 36832,
+      "output_tokens": 263,
+      "reasoning_tokens": 14659,
+      "cache_read_tokens": 22784,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "additional_source or duplicate → jelenia-gora-court-organizer-2-5-kg-marijuana-from-czech-republic",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 2 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "sn-kush-synthetic-name",
+   "title": "44 pieces of \"Kush\" seized in Thiaroye",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "terminology",
+    "languages"
+   ],
+   "why": "In West Africa \"Kush\" is the street name of a synthetic drug (synthetic cannabinoids, often with nitazene opioids), not a cannabis variety. The article names nothing else. The substance has to be identified from evidence, not from a trade name, and the tracker already holds real cannabis cases from the same suburb.",
+   "submit": "https://www.seneweb.com/fr/news/Societe/thiaroye-kao-une-operation-policiere-demantele-un-reseau-presume-de-trafic-de-kush_n_999003608.html",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "thiaroye-kao-44-kush-pieces-two-arrests",
+     "existing_report": "",
+     "decision_title": "New Thiaroye Kao kush seizure report",
+     "explanation": "The report was committed to the local repository (303c54a6287d). It is available in local development; pushing is separate.",
+     "model_explanation": "The submitted Seneweb article reports a 13 November 2026 police operation in Thiaroye Kao, a Dakar suburb, in which the research brigade of the Yeumbeul Sud police station arrested two men and seized 44 pieces of kush, 3,000 CFA francs and a mobile phone. Kush is cannabis: Seneweb's own English version calls the seized pieces 'Kush cannabis'. A second outlet, Sunu Jotaay, reports the same operation and figures. No existing tracker report covers this event: the nearest Senegal reports are the 9 November Wakhinane seizure of 67.85 kg and the 21 October Yeumbeul hashish seizure of 36.5 kg, both different operations. The four reports nominated from the page (Harare airport, Liverpool Kitchen Street, Luton Moreteyne Arms, Porto Asprela) are unrelated countries and cases. No photo of the event could be verified: the submitted page's only image is captioned solely with the headline, and the second outlet's image is a generic 'police.jpg', so no media entry is listed.",
+     "flags": [],
+     "usage": {
+      "seconds": 584,
+      "research_seconds": 475,
+      "steps": 8,
+      "searches": 3,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 111160,
+      "output_tokens": 11811,
+      "reasoning_tokens": 19965,
+      "cache_read_tokens": 328448,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Thiaroye Kao kush 44 pièces interpellation Yeumbeul Sud",
+      "Seneweb Thiaroye Kao opération policière réseau trafic Kush 13 novembre 2026",
+      "Thiaroye Kao coordinates latitude longitude Dakar"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "not_relevant",
+      "got": "new event"
+     },
+     "score": 0,
+     "report": {
+      "title": "Two arrested in Thiaroye Kao with 44 pieces of kush",
+      "summary": "Police in Yeumbeul Sud arrested two men in Thiaroye Kao, a Dakar suburb, and seized 44 pieces of kush, 3,000 CFA francs and a mobile phone. The two admitted owning the drugs but refused to name their supplier, and an investigation was opened.",
+      "body": "Police in the Dakar suburb of Thiaroye Kao arrested two men on 13 November 2026\nin an operation by the research brigade of the Yeumbeul Sud police station.\nThe operation followed an anonymous tip about intense kush trafficking, and\nplainclothes officers raided the reported places around 8 a.m. Kush is\ncannabis.\n\nThe first suspect, identified as P. Ngom, was caught packaging narcotics near\nthe Thiaroye Market. Officers found 20 pieces of kush hidden in a\nbroken-down vehicle tyre. They also found 3,000 CFA francs and an Infinix\nmobile phone in his possession. The second suspect, E. L. Welle, was\narrested near the footbridge at the Thiaroye TER station with 24 pieces of kush\nconcealed under his clothing.\n\nIn all, police seized 44 pieces of kush, 3,000 CFA francs and a mobile phone,\nall placed under seal. The two men admitted owning the seized narcotics but\nrefused to reveal their supplier's identity. The prosecutor was informed\nand an investigation opened to establish the extent of the alleged activity and\nidentify the supplier. A second report confirmed the seizure of 44 pieces\nof kush, 3,000 CFA francs and a mobile phone.",
+      "sources": [
+       {
+        "url": "https://www.seneweb.com/fr/news/Societe/thiaroye-kao-une-operation-policiere-demantele-un-reseau-presume-de-trafic-de-kush_n_999003608.html",
+        "title": "Thiaroye Kao : Une opération policière démantèle un réseau présumé de trafic de Kush",
+        "publisher": "Seneweb"
+       },
+       {
+        "url": "https://sunujotaay.com/thiaroye-kao-la-police-interpelle-deux-suspects-et-saisit-44-pieces-de-kush",
+        "title": "Thiaroye Kao : la police interpelle deux suspects et saisit 44 pièces de Kush",
+        "publisher": "Sunu Jotaay"
+       },
+       {
+        "url": "https://www.seneweb.com/en/news/Societe/thiaroye-kao-une-operation-policiere-demantele-un-reseau-presume-de-trafic-de-kush_n_999003608.html",
+        "title": "Thiaroye Kao: A police operation dismantles a suspected Kush trafficking network",
+        "publisher": "Seneweb"
+       }
+      ]
+     },
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  }
+ ]
+}

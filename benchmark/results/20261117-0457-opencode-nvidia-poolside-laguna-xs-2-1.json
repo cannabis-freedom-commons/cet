@@ -1,0 +1,1407 @@
+{
+ "schema": 1,
+ "id": "20261117-0457-opencode-nvidia-poolside-laguna-xs-2-1",
+ "label": "",
+ "subject": {
+  "id": "opencode@nvidia/poolside/laguna-xs-2.1",
+  "harness": "opencode",
+  "provider": "nvidia",
+  "model": "poolside/laguna-xs-2.1",
+  "effort": "",
+  "agent": "nvidia/poolside/laguna-xs-2.1",
+  "recorded": "nvidia/poolside/laguna-xs-2.1",
+  "harness_version": "opencode v2.2.7"
+ },
+ "started_at": "2026-11-17T04:57:26.698Z",
+ "finished_at": null,
+ "complete": false,
+ "repeat": 1,
+ "concurrency": 2,
+ "protocol": {
+  "version": 1,
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "max_steps": 32,
+  "timeout_seconds": 1800,
+  "websearch": "random",
+  "context": "inline",
+  "screen": true,
+  "source_browser": true,
+  "concurrency": 2,
+  "case_deadline_minutes": 45,
+  "retry_errors": 1
+ },
+ "protocol_hash": "9be3371802af",
+ "cases_hash": "3590fabd1e59",
+ "full_set": true,
+ "tracker": {
+  "commit": "970eb25c7ef154c36d38dc99566971ad9d21f1ef",
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "uncommitted_changes": false
+ },
+ "scorer_version": 1,
+ "weights": {
+  "facts": 20,
+  "figures": 20,
+  "classification": 10,
+  "corroboration": 15,
+  "photos": 10,
+  "text": 15,
+  "grounding": 10
+ },
+ "dimensions": {
+  "facts": "Facts",
+  "figures": "Figures and units",
+  "classification": "Classification",
+  "corroboration": "Corroboration",
+  "photos": "Photos",
+  "text": "Report text",
+  "grounding": "Grounding"
+ },
+ "families": {
+  "new-event": "New events",
+  "known-event": "Already covered",
+  "out-of-scope": "Out of scope"
+ },
+ "summary": {
+  "score": 36.4,
+  "attempt_scores": [
+   36.4
+  ],
+  "cases": 11,
+  "attempts": 11,
+  "verdicts": {
+   "pass": 4,
+   "partial": 0,
+   "fail": 7,
+   "error": 0,
+   "skipped": 0,
+   "spoiled": 0
+  },
+  "families": {
+   "new-event": {
+    "score": 0,
+    "cases": 4
+   },
+   "known-event": {
+    "score": 50,
+    "cases": 6
+   },
+   "out-of-scope": {
+    "score": 100,
+    "cases": 1
+   }
+  },
+  "capabilities": {
+   "recognised": {
+    "score": 0,
+    "cases": 4
+   },
+   "facts": {
+    "score": 0,
+    "cases": 4
+   },
+   "figures": {
+    "score": 0,
+    "cases": 4
+   },
+   "classification": {
+    "score": 0,
+    "cases": 4
+   },
+   "corroboration": {
+    "score": 0,
+    "cases": 1
+   },
+   "photos": {
+    "score": 0,
+    "cases": 2
+   },
+   "text": {
+    "score": 0,
+    "cases": 4
+   },
+   "grounding": {
+    "score": 0,
+    "cases": 4
+   }
+  },
+  "usage": {
+   "minutes_per_case": 4.8,
+   "steps_per_case": 32,
+   "input_tokens": 839394,
+   "output_tokens": 263614,
+   "reasoning_tokens": 0,
+   "cache_read_tokens": 19805808,
+   "cache_write_tokens": 0,
+   "cost_usd": 0
+  }
+ },
+ "cases": [
+  {
+   "id": "br-mojui-analoga-maconha",
+   "title": "Arrest in Mojuí dos Campos with a substance \"analogous to marijuana\"",
+   "family": "new-event",
+   "tests": [
+    "scope",
+    "languages",
+    "terminology"
+   ],
+   "why": "Brazilian police reports say \"substância análoga à maconha\" for suspected marijuana that has not yet been lab-tested. It is not a synthetic cannabinoid. A model in production rejected this page as synthetic; the right answer is a small new report: one man arrested, twelve wraps of cannabis and 31 of cocaine.",
+   "submit": "https://oimpacto.com.br/2026/11/suspeito-e-preso-em-mojui-dos-campos-apos-ser-flagrado-com-maconha-e-cocaina/",
+   "expect": {
+    "outcome": {
+     "new_event": 1,
+     "not_relevant": 0,
+     "insufficient_evidence": 0
+    },
+    "country": {
+     "br": 1
+    },
+    "date": {
+     "value": "2026-11-12"
+    },
+    "type": {
+     "arrest": 1,
+     "seizure": 1
+    },
+    "place": {
+     "coordinates": [
+      -2.6847,
+      -54.6425
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "arrested": {
+      "value": 1
+     }
+    },
+    "figures_optional": [
+     "cash",
+     "sites"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 12,
+      "why": "twelve wraps recorded as kilograms"
+     },
+     {
+      "key": "kg_seized",
+      "value": 43,
+      "why": "cocaine and cannabis wraps added and recorded as kilograms"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the twelve wraps of cannabis",
+      "any": [
+       "12",
+       "twelve"
+      ]
+     },
+     {
+      "say": "the cocaine",
+      "kept apart": null,
+      "any": [
+       "cocaine"
+      ]
+     }
+    ],
+    "open_questions": [
+     {
+      "about": "no weight was given",
+      "any": [
+       "weight",
+       "quantity",
+       "how much",
+       "grams",
+       "kilogram"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "This case reports the arrest of João Victor Castro in Mojuí dos Campos, Pará, Brazil, but the substances seized are described in the source as 'substâncias análogas à maconha e à cocaína' (analogous substances to marijuana and cocaine), not actual cannabis. The 'porção de entorpecente semelhante a maconha' (green substance portion resembling marijuana) is explicitly characterized as similar to, but not actually, marijuana. The source describes 31 packets of cocaine analog and 12 packets of marijuana analog, plus a loose green substance. According to the tracker's substance scope, synthetic cannabinoids and their precursors are out of scope. This case involves synthetic/analogue substances designed to mimic cannabinoid effects, not cannabis plants, buds, resin, oil, or edibles.",
+     "model_explanation": "This case reports the arrest of João Victor Castro in Mojuí dos Campos, Pará, Brazil, but the substances seized are described in the source as 'substâncias análogas à maconha e à cocaína' (analogous substances to marijuana and cocaine), not actual cannabis. The 'porção de entorpecente semelhante a maconha' (green substance portion resembling marijuana) is explicitly characterized as similar to, but not actually, marijuana. The source describes 31 packets of cocaine analog and 12 packets of marijuana analog, plus a loose green substance. According to the tracker's substance scope, synthetic cannabinoids and their precursors are out of scope. This case involves synthetic/analogue substances designed to mimic cannabinoid effects, not cannabis plants, buds, resin, oil, or edibles.",
+     "flags": [],
+     "usage": {
+      "seconds": 86,
+      "research_seconds": 69,
+      "steps": 12,
+      "searches": 3,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 75584,
+      "output_tokens": 3469,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 369344,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "substâncias análogas à maconha Brasil Polícia judicial",
+      "Polícia Militar de Mato Grosso do Sul 98 quilos substância análoga à maconha Corumbá",
+      "João Victor Castro Mojuí dos Campos Pará suspeito flagrado substâncias análogas cocaína maconha 2026"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "not relevant"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [
+       {
+        "url": "https://oimpacto.com.br/2026/11/suspeito-e-preso-em-mojui-dos-campos-apos-ser-flagrado-com-maconha-e-cocaina/",
+        "title": "SUSPEITO É PRETO EM MOJUÍ DOS CAMPOS APÓS SER FLAGRADO COM MACONHA E COCAÍNA – Jornal O Impacto",
+        "publisher": "Jornal O Impacto",
+        "date": "2026-11-13",
+        "language": "pt"
+       }
+      ],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "es-ceuta-remand",
+   "title": "The driver is remanded: a later step in a case the tracker has",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "later-step",
+    "languages"
+   ],
+   "why": "The tracker has the arrest of a lorry driver at the port of Ceuta with about 300 kg of hashish in a hidden compartment. Two days later a judge ordered him held in prison until trial. This page reports that step. It is the same case moving on: the existing report is updated, no second report is written. The page's pictures are marked as archive images.",
+   "submit": "https://elfarodeceuta.es/actualidad/sucesos/prision-camionero-detenido-udyco-hachis/",
+   "expect": {
+    "outcome": {
+     "existing_case": 1,
+     "additional_source": 1,
+     "duplicate": 0.5
+    },
+    "existing_report": "ceuta-port-truck-300kg-hashish-arrest"
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "existing_case",
+     "model_outcome": "existing_case",
+     "report_slug": "ceuta-port-truck-300kg-hashish-arrest",
+     "existing_report": "ceuta-port-truck-300kg-hashish-arrest",
+     "decision_title": "Update: preventive prison for truck driver",
+     "explanation": "The report was committed to the local repository (6211cd2e0544). 2 of 2 new photos and videos got a thumbnail or poster. It is available in local development; pushing is separate.",
+     "model_explanation": "The submitted article from El Faro de Ceuta reports on the same UDYCO operation as the existing report 'ceuta-port-truck-300kg-hashish-arrest', but provides additional details about the preventive prison order issued on November 16, 2026. The existing report covers the November 13, 2026 arrest and seizure of approximately 300 kg of hashish from a truck's hidden double-floor compartment in Ceuta's port. This update adds the new development that the driver was formally placed in preventive prison (auto de prisión preventiva) by judicial order for an offence against public health.",
+     "flags": [],
+     "usage": {
+      "seconds": 287,
+      "research_seconds": 263,
+      "steps": 18,
+      "searches": 1,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 51490,
+      "output_tokens": 17621,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 812336,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "UDYCO hachís camión Ceuta prisión preventiva auto prisión"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "existing_case or additional_source → ceuta-port-truck-300kg-hashish-arrest",
+      "got": "existing case → ceuta-port-truck-300kg-hashish-arrest"
+     },
+     "score": 100,
+     "report": {
+      "title": "Driver sentenced to preventive prison after 300 kg hashish seizure from Ceuta port truck",
+      "summary": "A truck driver arrested by UDYCO in Ceuta's port with about 300 kg of hashish hidden in a double-floor compartment was placed in preventive prison by judicial order on November 16, 2026.",
+      "body": "Spain's UDYCO drug unit arrested a truck driver at the port of Ceuta carrying a\nstash of hashish hidden in a sophisticated false bottom. Officers\nintercepted the truck on the port road at the Muelle de Poniente and searched it\nwith support from the UPR prevention unit and the canine group. They found\nthe hashish and detained the driver, showing him the drugs found in the vehicle\nhe was driving.\n\nThe truck appeared empty and was heading toward boarding for Spain when a\nspecialist drugs dog alerted, prompting an exhaustive hours-long search inside\nand outside the vehicle. After the hours-long detailed inspection, officers\nfound a large number of bags full of hashish inside the truck's structure.\nOfficers recovered numerous bags of hashish from the trailer's false bottom,\nwith first estimates putting the haul above 300 kilograms although police gave\nno official weight. The submitted account describes the seizure as about\n300 kilograms of hashish arriving from Morocco.\n\nThe handcuffed driver was taken to police headquarters and placed under\ninvestigation for an offence against public health. Police link the\noperation to open UDYCO investigations into groups moving hashish from Ceuta to\nmainland Spain in heavy vehicles with hidden compartments. A criminal complaint was filed and preventive prison was ordered for an offence against public health on Sunday, November 16, 2026.",
+      "sources": [
+       {
+        "url": "https://elfarodeceuta.es/actualidad/sucesos/prision-camionero-detenido-udyco-hachis/",
+        "title": "A prisión el camionero detenido por la UDYCO con hachís",
+        "publisher": "El Faro de Ceuta"
+       }
+      ]
+     },
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "es-palma-later-announcement",
+   "title": "The police announcement of an operation the tracker has from a leak",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "later-step",
+    "mixed-substances",
+    "languages"
+   ],
+   "why": "On 7 November a Mallorca paper reported, from its own sources, at least three arrests and almost 50 kg of hashish sent by courier, found in a home in Marratxí with an air rifle. The tracker has that. A week later the National Police announced the finished operation: five arrested, 60 kg of hashish, the air rifle, two kilos of cocaine. Different numbers, a different town in the headline, and no mention of Marratxí, but the same operation; the paper's follow-up says so. In production this announcement was written up as a second report.",
+   "submit": "https://europapress.es/illes-balears/noticia-detienen-cinco-personas-operacion-antidroga-palma-les-intervienen-60-kilos-hachis-20261114170452.html",
+   "expect": {
+    "outcome": {
+     "existing_case": 1,
+     "additional_source": 1,
+     "duplicate": 0.5
+    },
+    "existing_report": "marratxi-three-arrests-50kg-hashish"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 05:36 UTC.",
+     "model_explanation": "",
+     "flags": [
+      "A web search returned the tracker's own pages (it was told to ignore them): https://tracker.cannabisfreedom.fyi/report/palma-five-arrested-60kg-hashish-2kg-cocaine/, https://tracker.cannabisfreedom.fyi/changelog, https://tracker.cannabisfreedom.fyi/?focus=paraguay-nueva-alianza-49-253-hectares&range=all, https://tracker.cannabisfreedom.fyi/reports, https://tracker.cannabisfreedom.fyi/country/pk, https://tracker.cannabisfreedom.fyi/country/in, https://tracker.cannabisfreedom.fyi/2026, https://tracker.cannabisfreedom.fyi/country/es"
+     ],
+     "usage": {
+      "seconds": 96,
+      "research_seconds": 83,
+      "steps": 32,
+      "searches": 6,
+      "pages_opened": 5,
+      "runs": 1,
+      "input_tokens": 91112,
+      "output_tokens": 2367,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 1503760,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "operación antidroga Palma 60 kilos hachís policía nacional",
+      "operación antidroga Palma 5 detenidos 60 kilos hachis",
+      "operación antidroga Palma 60 kilos hachís cannabis tracker",
+      "palma-five-arrested-60kg-hashish-2kg-cocaine site:cannabisfreedom.fyi",
+      "5 detenidos 60 kilos hachis Palma November 2026 cannabis tracker report",
+      "majorcadailybulletin.com 2026-11-14 five arrested drug trafficking mallorca"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "existing_case or additional_source → marratxi-three-arrests-50kg-hashish",
+      "got": "no usable answer",
+      "note": "OpenCode ended after 32 model steps with notes instead of the JSON answer the tracker needs (the limit is 32 steps; it probably ran out of them)"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "in-agartala-same-platform",
+   "title": "A second seizure on the same Agartala platform the same day",
+   "family": "new-event",
+   "tests": [
+    "coverage",
+    "look-alike",
+    "figures",
+    "honesty"
+   ],
+   "why": "Railway police arrested a 19-year-old with 5.525 kg of ganja on platform 1 of Agartala station. The tracker already has another seizure from the same bench on the same platform on the same day by the same officers: two other men with 24.625 kg. Two events, written in near-identical words by the same outlet. The headline also says the ganja is worth 5 lakh rupees; the text says 2.5 lakh.",
+   "submit": "https://www.tripurastarnews.com/tripura-railway-police-seizes-05-525-kg-of-cannabis-worth-%E2%82%B95-lakh-with-1-drug-peddler-in-agartala-railway-station/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "in": 1
+    },
+    "date": {
+     "value": "2026-11-13"
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1
+    },
+    "place": {
+     "coordinates": [
+      23.7917,
+      91.2791
+     ],
+     "within_km": 30
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 5.525
+     },
+     "arrested": {
+      "value": 1
+     },
+     "value": {
+      "amount": 250000,
+      "currency": "INR"
+     }
+    },
+    "figures_optional": [
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 24.625,
+      "why": "the weight of the other seizure that day"
+     },
+     {
+      "key": "arrested",
+      "value": 2,
+      "why": "the two men of the other seizure"
+     },
+     {
+      "key": "value.amount",
+      "value": 500000,
+      "why": "the headline's figure",
+      "not the text's": null
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the weight as stated",
+      "any": [
+       "5\\.525"
+      ]
+     },
+     {
+      "say": "it was on platform 1 of the station",
+      "any": [
+       "platform"
+      ]
+     },
+     {
+      "say": "whose valuation it is",
+      "any": [
+       "estimated",
+       "police (put|valued|said)",
+       "black-market",
+       "according to"
+      ]
+     }
+    ],
+    "must_not_say": [
+     {
+      "say": "two men were held",
+      "any": [
+       "two men",
+       "two people",
+       "both men"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "new_event",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The proposed new report could not establish a supported distinction from existing coverage after automatic review. No new report was published.",
+     "model_explanation": "The submitted source reports a distinct enforcement event from the existing agartala-railway-24625kg-cannabis report. While both events occurred on 13 November 2026 at Agartala Railway Station, they involve different case numbers (2026GRP080 vs 2026GRP081), different quantities seized (5.525 kg vs 24.625 kg), different number of arrests (1 vs 2), and different suspects. The submitted source reports Niraj Kumar, 19, arrested with 5.525 kg of suspected cannabis valued at ₹2.5 lakh, under Case No. 2026GRP080. The existing report covers Md Abul Fazal and Arabindu Das arrested with 24.625 kg valued at ₹12.5 lakh, under Case No. 2026GRP081. These are distinct events requiring separate reports.",
+     "flags": [],
+     "usage": {
+      "seconds": 1649,
+      "research_seconds": 1564,
+      "steps": 62,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 2,
+      "input_tokens": 146970,
+      "output_tokens": 99459,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 5460240,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "The proposed new report could not establish a supported distinction from existing coverage after automatic review. No new report was published."
+     },
+     "report": {
+      "title": "1 drug peddler arrested with 5.525 kg cannabis at Agartala railway station",
+      "summary": "Tripura Railway Police arrested Niraj Kumar, 19, from Agartala Railway Station on 13 November 2026 and seized 5.525 kg of suspected cannabis, valued at ₹2.5 lakh. The arrest was registered under Case No. 2026GRP080 under sections 20(b)(ii)(B)/29 of the NDPS Act, 1985.",
+      "date": "2026-11-13",
+      "country": "in",
+      "type": "seizure",
+      "also": [
+       "arrest"
+      ],
+      "place": "Agartala Railway Station, Platform No. 1, Agartala, Tripura",
+      "coordinates": [
+       23.7917,
+       91.2791
+      ],
+      "figures": {
+       "arrested": 1,
+       "kg_seized": 5.525,
+       "value": {
+        "amount": 250000,
+        "currency": "INR"
+       }
+      },
+      "details": {
+       "agencies": [
+        "Government Railway Police (GRP)"
+       ],
+       "agency_types": [
+        "police"
+       ],
+       "products": [
+        {
+         "product": "flower",
+         "kg": 5.525
+        }
+       ],
+       "activity": [
+        "trafficking"
+       ],
+       "charges": [
+        "sections 20(b)(ii)(B)/29 of NDPS Act, 1985"
+       ],
+       "region": "Tripura"
+      },
+      "tags": [
+       "agartala",
+       "railway",
+       "ganja",
+       "ndps",
+       "tripura"
+      ],
+      "sources": [
+       {
+        "url": "https://www.tripurastarnews.com/tripura-railway-police-seizes-05-525-kg-of-cannabis-worth-%E2%82%B95-lakh-with-1-drug-peddler-in-agartala-railway-station/",
+        "title": "Tripura Railway Police Seizes 05.525 Kg Of Cannabis Worth ₹5 Lakh With 1 Drug Peddler In Agartala Railway Station. - TRIPURA STAR NEWS",
+        "publisher": "Tripura Star News",
+        "date": "2026-11-14",
+        "language": "en"
+       }
+      ],
+      "media": [
+       {
+        "kind": "photo",
+        "url": "https://www.tripurastarnews.com/tripura-railway-police-seizes-05-525-kg-of-cannabis-worth-%E2%82%B95-lakh-with-1-drug-peddler-in-agartala-railway-station/",
+        "media_url": "https://www.tripurastarnews.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-5.57.18-PM-1024x863.png",
+        "caption": "Seizure at Agartala Railway Station, in the photo published with the report; no caption or credit was given. Photo: Tripura Star News"
+       }
+      ],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "in-manesar-roundup",
+   "title": "12 kg of cannabis in a traffic-police roundup",
+   "family": "new-event",
+   "tests": [
+    "extraction",
+    "photos",
+    "honesty"
+   ],
+   "why": "The cannabis seizure is one item in a roundup of a month of traffic-police work (stolen motorbikes, accident help, a school van). Only the Nainwal Cut seizure belongs in the report. The article's picture shows officers at a road, not this seizure, so no photo should be kept, and the article gives no date for the seizure.",
+   "submit": "https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-traffic-cops-recover-3-suspected-stolen-vehicles-seize-12kg-cannabis-in-30-days/articleshow/135725202.cms",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "in": 1
+    },
+    "date": {
+     "value": "2026-11-11",
+     "tolerance_days": 31,
+     "direction": "before"
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1
+    },
+    "place": {
+     "coordinates": [
+      28.354,
+      76.938
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 12
+     }
+    },
+    "figures_optional": [
+     "arrested",
+     "vehicles"
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "where it happened (Nainwal Cut",
+      "Manesar)": null,
+      "any": [
+       "Nainwal"
+      ]
+     },
+     {
+      "say": "the suspects were handed to the local police station",
+      "any": [
+       "handed over",
+       "handed to"
+      ]
+     }
+    ],
+    "media": {
+     "none": true
+    },
+    "open_questions": [
+     {
+      "about": "the seizure has no date of its own",
+      "any": [
+       "date"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 05:02 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 312,
+      "research_seconds": 299,
+      "steps": 32,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 43531,
+      "output_tokens": 1501,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 1184544,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "OpenCode ended after 32 model steps with notes instead of the JSON answer the tracker needs (the limit is 32 steps; it probably ran out of them)"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "it-castel-volturno-spanish-copy",
+   "title": "A Spanish-language copy of an Italian report",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "Il Mattino's machine-translated Spanish page for its own Italian report of the Castel Volturno arrest, mostly behind a paywall. The tracker's report was written from Italian sources and speaks of 9.6 kg of cannabis; this teaser says \"more than 11 kilos\" of hashish, marijuana and cocaine. It is the same event.",
+   "submit": "https://www.ilmattino.it/AMP/es/incautacion_record_de_estupefacientes_en_la_costa_de_caserta-9889706.html",
+   "expect": {
+    "outcome": {
+     "duplicate": 1,
+     "additional_source": 1,
+     "existing_case": 0.5,
+     "insufficient_evidence": 0.5
+    },
+    "existing_report": "castel-volturno-31-year-old-96kg-cannabis-arrest"
+   },
+   "attempts": [
+    {
+     "status": "duplicate",
+     "outcome": "duplicate",
+     "model_outcome": "duplicate",
+     "report_slug": "castel-volturno-31-year-old-96kg-cannabis-arrest",
+     "existing_report": "castel-volturno-31-year-old-96kg-cannabis-arrest",
+     "decision_title": "Spanish article is duplicate of existing report",
+     "explanation": "The submitted Spanish-language article from Il Mattino is a translation of the same event already covered in the existing report 'castel-volturno-31-year-old-96kg-cannabis-arrest'. It reports the same details already verified from multiple sources including the Italian-language Il Mattino article, Il Crivello, CasertaFocus, AstraNews, and others. The Spanish version provides only a translation of information that is already corroborated by multiple independent sources in the existing report, with no new factual details to add.",
+     "model_explanation": "The submitted Spanish-language article from Il Mattino is a translation of the same event already covered in the existing report 'castel-volturno-31-year-old-96kg-cannabis-arrest'. It reports the same details already verified from multiple sources including the Italian-language Il Mattino article, Il Crivello, CasertaFocus, AstraNews, and others. The Spanish version provides only a translation of information that is already corroborated by multiple independent sources in the existing report, with no new factual details to add.",
+     "flags": [],
+     "usage": {
+      "seconds": 128,
+      "research_seconds": 113,
+      "steps": 14,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 64318,
+      "output_tokens": 8341,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 596320,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "duplicate or additional_source → castel-volturno-31-year-old-96kg-cannabis-arrest",
+      "got": "duplicate → castel-volturno-31-year-old-96kg-cannabis-arrest"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "jp-cocaine-arrest-cannabis-past",
+   "title": "A musician's cocaine arrest, with an old cannabis conviction as background",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "languages"
+   ],
+   "why": "A Japanese magazine piece on a rock singer arrested in November 2026 for using cocaine. It recalls his 2019 conviction for possessing cannabis and cocaine. The new arrest involves no cannabis, and the 2019 case is only recalled, not reported.",
+   "submit": "https://topics.smt.docomo.ne.jp/article/bunshun/nation/bunshun-93676",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The submitted source reports a 2026 arrest of Japanese musician JESSE (Mack Fenzy Serato, 46) for cocaine possession under Japan's Narcotics Control Law. The incident involves coca leaves' alkaloid-based stimulant (cocaine), not cannabis plants or cannabis products. Per the CFI scope rules, the tracker covers enforcement involving cannabis plants and cannabis products such as marijuana, hashish, resin, oil and edibles. Synthetic cannabinoids and other non-cannabis substances are out of scope. The current incident has no cannabis enforcement component - it is solely a cocaine possession arrest by Tokyo Metropolitan Police. The article mentions a 2019 prior arrest for marijuana and cocaine, but that is historical context only and not the focus of this report. The 2026 arrest event does not qualify as a cannabis enforcement incident because the alleged substance is cocaine, not cannabis.",
+     "model_explanation": "The submitted source reports a 2026 arrest of Japanese musician JESSE (Mack Fenzy Serato, 46) for cocaine possession under Japan's Narcotics Control Law. The incident involves coca leaves' alkaloid-based stimulant (cocaine), not cannabis plants or cannabis products. Per the CFI scope rules, the tracker covers enforcement involving cannabis plants and cannabis products such as marijuana, hashish, resin, oil and edibles. Synthetic cannabinoids and other non-cannabis substances are out of scope. The current incident has no cannabis enforcement component - it is solely a cocaine possession arrest by Tokyo Metropolitan Police. The article mentions a 2019 prior arrest for marijuana and cocaine, but that is historical context only and not the focus of this report. The 2026 arrest event does not qualify as a cannabis enforcement incident because the alleged substance is cocaine, not cannabis.",
+     "flags": [],
+     "usage": {
+      "seconds": 63,
+      "research_seconds": 44,
+      "steps": 17,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 36411,
+      "output_tokens": 2344,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 725824,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "lk-airport-hashish-route",
+   "title": "Three Thais held with hashish in cosmetic jars at Colombo airport",
+   "family": "new-event",
+   "tests": [
+    "classification",
+    "corroboration",
+    "figures",
+    "photos"
+   ],
+   "why": "An airport smuggling case: the route (Thailand to Sri Lanka), the setting and the product matter. The outlets disagree on the weight (5.96 kg here, 5.096 kg elsewhere), which a second source reveals.",
+   "submit": "https://www.newswire.lk/2026/10/15/rs-51-mn-hashish-seized-at-bia-three-foreigners-arrested/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "lk": 1
+    },
+    "date": {
+     "value": "2026-10-15"
+    },
+    "type": {
+     "arrest": 1,
+     "seizure": 1
+    },
+    "place": {
+     "coordinates": [
+      7.179,
+      79.886
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "arrested": {
+      "value": 3
+     },
+     "kg_seized": {
+      "any": [
+       5.096,
+       5.96
+      ]
+     }
+    },
+    "figures_optional": [
+     "value",
+     "charged"
+    ],
+    "details": {
+     "products": [
+      "hashish"
+     ],
+     "setting": [
+      "airport"
+     ],
+     "route.from": [
+      "th"
+     ],
+     "route.to": [
+      "lk"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "they are Thai nationals",
+      "any": [
+       "Thai"
+      ]
+     },
+     {
+      "say": "hidden in cosmetic containers",
+      "any": [
+       "cosmetic"
+      ]
+     },
+     {
+      "say": "whose valuation it is",
+      "any": [
+       "worth",
+       "valued",
+       "value"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "newswire.lk",
+      "vivalanka.com",
+      "adaderana.lk",
+      "dailymirror.lk",
+      "newsfirst.lk",
+      "hirunews.lk",
+      "island.lk",
+      "colombogazette.com",
+      "lankadeepa.lk",
+      "ft.lk",
+      "dailynews.lk",
+      "onlanka.com",
+      "lankasara.com"
+     ],
+     "markers": [
+      "TG-307",
+      "TG 307",
+      "cosmetic",
+      "Thai national",
+      "Katunayake",
+      "hashish"
+     ],
+     "markers_min": 3
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "Hashish-BIA",
+      "IMG-20261015"
+     ]
+    },
+    "open_questions": [
+     {
+      "about": "the outlets give two different weights",
+      "any": [
+       "5\\.096",
+       "5\\.96",
+       "weight",
+       "differ",
+       "disagree"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "new_event",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The AI result did not pass validation (a media link must be a page among the sources) and cannot be published automatically.",
+     "model_explanation": "This is a new event on October 15, 2026, distinct from existing reports. Three Thai nationals (ages 22, 22, 33, all drivers from Thailand) were arrested at BIA with 5.96 kg of hashish concealed in cosmetic product containers. The suspects arrived from Bangkok on Thai Airways flight TG-307. This differs from the September 20, 2026 incident (sri-lanka-bia-thai-women-kush) which involved 3 Thai women (ages 38, 31, 36) with 5.21 kg kush + 2.47 kg hashish disguised as supplements, and the July 26, 2026 incident (sri-lanka-bia-canadian-20117g-hashish-arrest) involving a 27-year-old Canadian national with 20.117 kg hashish.",
+     "flags": [],
+     "usage": {
+      "seconds": 408,
+      "research_seconds": 382,
+      "steps": 39,
+      "searches": 4,
+      "pages_opened": 3,
+      "runs": 2,
+      "input_tokens": 71515,
+      "output_tokens": 17881,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 2309216,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Sri Lanka BIA thai hashish arrest three foreigners",
+      "Sri Lanka BIA Canadian 20117g hashish arrest",
+      "Sri Lanka BIA thai women kush hashish arrest",
+      "Sri Lanka BIA thai 3 arrests hashish"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "The AI result did not pass validation (a media link must be a page among the sources) and cannot be published automatically."
+     },
+     "report": {
+      "title": "Three Thai nationals arrested at BIA with 5.96 kg hashish",
+      "summary": "Police Narcotics Bureau arrested three Thai nationals at Bandaranaike International Airport for attempting to smuggle 5.96 kg of hashish concealed in beauty products, valued at Rs. 51 million.",
+      "date": "2026-10-15",
+      "country": "lk",
+      "type": "arrest",
+      "also": [
+       "seizure"
+      ],
+      "place": "Bandaranaike International Airport, Katunayake",
+      "coordinates": [
+       7.18,
+       79.88
+      ],
+      "figures": {
+       "arrested": 3,
+       "kg_seized": 5.96
+      },
+      "details": {},
+      "tags": [
+       "bia",
+       "thai-nationals",
+       "hashish",
+       "beauty-products",
+       "tg-307",
+       "rs-51-million"
+      ],
+      "sources": [
+       {
+        "url": "https://www.newswire.lk/2026/10/15/rs-51-mn-hashish-seized-at-bia-three-foreigners-arrested/",
+        "title": "From Bangkok with beauty products: Rs. 51 million secret uncovered at BIA",
+        "publisher": "Newswire",
+        "date": "2026-10-15",
+        "language": "en"
+       }
+      ],
+      "media": [
+       {
+        "kind": "photo",
+        "url": "https://www.newswire.lk/2026/10/15/rs-51-mn-hashish-seIZED-at-bia-three-foreigners-arrested/",
+        "media_url": "https://www.newswire.lk/wp-content/uploads/2026/10/Hashish-BIA.jpg",
+        "caption": "Seized hashish concealed in cosmetic product containers. Photo: Newswire"
+       }
+      ],
+      "open_questions": [
+       "The 5.96 kg hashish was described only as being worth Rs. 51 million; no market valuation or unit price was published.",
+       "No court outcome or charge details were reported for the suspects beyond being scheduled for court appearance."
+      ],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "mx-degollado-labs-headline",
+   "title": "A drug-labs headline for a raid the tracker has under its greenhouses",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "mixed-substances",
+    "languages"
+   ],
+   "why": "Most outlets led with the two methamphetamine laboratories found in Degollado. The tracker records the cannabis part of the same raid: two marijuana greenhouses in the compound. A page whose headline is about labs is still the same event, and belongs with that report.",
+   "submit": "https://netnoticias.mx/nacional/aseguran-laboratorios-y-droga-del-cjng-en-jalisco-operaba-bajo-mando-del-tio-lako",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "degollado-la-tinajera-two-marijuana-greenhouses"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 05:06 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 514,
+      "research_seconds": 496,
+      "steps": 32,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 70349,
+      "output_tokens": 21801,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 1542288,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "additional_source or duplicate → degollado-la-tinajera-two-marijuana-greenhouses",
+      "got": "no usable answer",
+      "note": "the final answer was rejected by the result check (json: unknown field \"report\")"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "no-kristiansand-appeal",
+   "title": "A Norwegian appeal ruling in a case the tracker has",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "\"Got a pistol to his head and a finger broken: now his sentence is halved.\" Nothing in the headline says cannabis. The article is the appeal in the case of a man stopped at the Kristiansand ferry terminal with 18.5 kg of hashish, which the tracker records, with the appeal, under a report dated a year earlier.",
+   "submit": "https://www.krs.no/fikk-pistol-mot-hodet-og-fingeren-brukket-na-far-han-halvert-straffen/s/80-157-59933",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 1
+    },
+    "existing_report": "kristiansand-18-5kg-hash-sentence-halved"
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "additional_source",
+     "model_outcome": "additional_source",
+     "report_slug": "kristiansand-18-5kg-hash-sentence-halved",
+     "existing_report": "kristiansand-18-5kg-hash-sentence-halved",
+     "decision_title": "Additional source for existing report",
+     "explanation": "The source was added to the existing report “German's sentence halved after 18.5 kg hash seizure in Kristiansand” and committed to the local repository (ef201d66bdfd). It is available in local development; pushing is separate.",
+     "model_explanation": "This Norwegian source from KRS - Avisen Kristiansand provides additional details about the same appeal decision that reduced the sentence from four to two years. The existing report covers a German man caught with 18.5 kg hash and 1 kg cocaine at the Kristiansand ferry terminal on 6 November 2025. This source corroborates all core facts and adds new details: the precise arrest date (6 November), precise drug measurements (18,566 kg hash, 996.7 g cocaine), and the August district court sentencing date.",
+     "flags": [],
+     "usage": {
+      "seconds": 241,
+      "research_seconds": 207,
+      "steps": 16,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 55698,
+      "output_tokens": 17315,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 557296,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "additional_source or duplicate or existing_case → kristiansand-18-5kg-hash-sentence-halved",
+      "got": "additional source → kristiansand-18-5kg-hash-sentence-halved"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "tr-istanbul-airport-second-outlet",
+   "title": "Another outlet on the Istanbul Airport tins",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "The tracker already has this seizure (13.512 kg in food tins, two Tunisians held). This is another Turkish outlet's account of it. The right answer adds it to the existing report or calls it a duplicate; a second report of the same event is the failure.",
+   "submit": "https://www.gazetevatan.com/yerel-haberler/istanbul/istanbul-havalimaninda-konserve-kutularinda-13-2464940",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "istanbul-airport-tins-13-5kg-esrar-two-detained"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "additional_source",
+     "report_slug": "",
+     "existing_report": "istanbul-airport-tins-13-5kg-esrar-two-detained",
+     "decision_title": "",
+     "explanation": "The draft could not be prepared for the report build (merge fact must match an existing cited sentence or explicitly be a new_detail; do not append a paraphrase of existing prose. The fact \"Total of 13 kilograms 512 grams of esrar, reported as can…\" gives existing_text \"Total of 13 kilograms 512 grams of esrar, reported as can…\", which is not a sentence of istanbul-airport-tins-13-5kg-esrar-two-detained. Its closest sentences in the report, to copy exactly into existing_text (or set new_detail:true if the fact is new): \"Officers found a total of 13 kilograms 512 grams of esrar, reported as cannabis, hidden in the suspects' luggage.\"; \"Of that total, 12 kilograms 226 grams were concealed in 73 cans and 1 kilogram 286 grams in the soles of four shoes.\"). Restart to try again.",
+     "model_explanation": "The submitted Gazete Vatan article reports the same cannabis enforcement event already recorded in the existing report istanbul-airport-tins-13-5kg-esrar-two-detailed. Both sources describe Istanbul narcotics police seizing 13 kg 512 g of cannabis from cans at Istanbul Airport and detaining two Tunisian suspects (Najla Ben Abdallah and Montassar Mosbehı) under a search order from the Gaziosmanpaşa Chief Public Prosecutor's Office. This source corroborates and adds citation support to the existing report.",
+     "flags": [],
+     "usage": {
+      "seconds": 1022,
+      "research_seconds": 993,
+      "steps": 64,
+      "searches": 1,
+      "pages_opened": 2,
+      "runs": 2,
+      "input_tokens": 132416,
+      "output_tokens": 71515,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 4744640,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "istanbul airport esrar 13 kilo konserve kutu"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "additional_source or duplicate → istanbul-airport-tins-13-5kg-esrar-two-detained",
+      "got": "no usable answer → istanbul-airport-tins-13-5kg-esrar-two-detained",
+      "note": "The draft could not be prepared for the report build (merge fact must match an existing cited sentence or explicitly be a new_detail; do not append a paraphrase of existing prose. The fact \"Total of 13 kilograms 512 grams of esrar, reported as can…\" gives existing_text \"Total of 13 kilograms 512 grams of esrar, reported as can…\", which is not a sentence of istanbul-airport-tins-13-5kg-esrar-two-detained. Its closest sentences in the report, to copy exactly into existing_text (or set new_detail:true if the fact is new): \"Officers found a total of 13 kilograms 512 grams of esrar, reported as cannabis, hidden in the suspects' luggage.\"; \"Of that total, 12 kilograms 226 grams were concealed in 73 cans and 1 kilogram 286 grams in the soles of four shoes.\"). Restart to try again."
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  }
+ ]
+}
