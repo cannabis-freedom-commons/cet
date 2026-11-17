@@ -57,6 +57,11 @@ media:
     media_url: https://img.inews.id/media/600/files/networks/2026/11/15/98910_ganja.jpeg
     publisher: Padang iNews
     caption: Two suspected ganja dealers detained by Satresnarkoba Polres Pasaman with the nine seized ganja packets in Panti.
+  - kind: photo
+    url: https://rri.co.id/padang/hukum/hukum/2895128/polres-pasaman-sita-sembilan-paket-ganja-dua-pria-ditangkap
+    media_url: https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/padang/thumbs/full_1794583140540991_9607152258_berita_padang.webp
+    publisher: RRI.co.id
+    caption: 'One of the detained suspected dealers with the seized evidence held by Satresnarkoba Polres Pasaman personnel on the night of 12 November 2026. Photo: Polres Pasaman'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f95b428850ef48c1b0304bed8889982f
@@ -112,27 +117,32 @@ sources:
     publisher: Padang iNews
     date: 2026-11-15
     language: id
+  - title: Polres Pasaman Sita Sembilan Paket Ganja, Dua Pria Ditangkap - RRI.co.id
+    url: https://rri.co.id/padang/hukum/hukum/2895128/polres-pasaman-sita-sembilan-paket-ganja-dua-pria-ditangkap
+    publisher: RRI.co.id
+    date: 2026-11-14
+    language: id
 ---
 
 Satresnarkoba Polres Pasaman detained two suspected cannabis dealers at about
 20.30 WIB on Thursday 12 November 2026 at Jorong Katimahar, Nagari Panti Timur,
-Kecamatan Panti, in Pasaman regency, West Sumatra. [@1,3,4,5,8,9,10] The two men, PD alias
+Kecamatan Panti, in Pasaman regency, West Sumatra. [@1,3,4,5,8,9,10,11] The two men, PD alias
 Sipon and Ilcan Prayono alias Teil aged 38, were local residents suspected of
-being involved in the cannabis trade. [@1,3,4,5,9] Both suspects are farmers by profession, and both live in Jorong Katimahar. [@5,7]
+being involved in the cannabis trade. [@1,3,4,5,9,11] Both suspects are farmers by profession, and both live in Jorong Katimahar. [@5,7]
 
 Officers seized nine packets believed to contain cannabis, seven large and two
-medium, plus a mobile phone and a motorcycle. [@1,4,5,6,8,10] This account gives the total seizure as 8 kilograms of cannabis. [@8] Kasat Resnarkoba Polres
+medium, plus a mobile phone and a motorcycle. [@1,4,5,6,8,10,11] This account gives the total seizure as 8 kilograms of cannabis. [@8] Kasat Resnarkoba Polres
 Pasaman AKP Fahrul Roji led the arrest with personnel of Tim Opsnal Elang Timur.
 [@1,3,5]
 
 The operation followed a community report of suspected drug transactions in
 Nagari Panti Timur, after which officers investigated and monitored the area.
 [@1,3,5,6,9] Officers then carried out an undercover buy, in which a police officer
-posed as a prospective buyer of cannabis. [@1,3,5,6,7,8,9] PD alias Sipon agreed to meet the
+posed as a prospective buyer of cannabis. [@1,3,5,6,7,8,9,11] PD alias Sipon agreed to meet the
 undercover officer at a coffee shop in Jorong Kuamang, but redirected the
-meeting to another location in Jorong Katimahar. [@1,3,5,8,9] The handover finally took place on the side terrace of a house belonging to a resident named Lela, where PD met the undercover officer. [@9]
+meeting to another location in Jorong Katimahar. [@1,3,5,8,9,11] The handover finally took place on the side terrace of a house belonging to a resident named Lela, where PD met the undercover officer. [@9]
 
 At the planned transaction, the second suspect, IP, brought a large cannabis
 packet wrapped in brown tape from the motorcycle trunk and handed it to PD. [@2] The undercover officer, acting alone, had PD put the packet down under a seat to avoid suspicion, then left and called the standby team in for the ambush. [@5] Police then searched the home of IP alias Teil and found six large ganja packets wrapped in brown tape and two medium packets wrapped in black and red plastic. [@4,5]
 Officers seized a blue Realme mobile phone and an unnumbered black Suzuki
-Skywave motorcycle. [@2,5,7] Both suspects, with all the seized evidence, were held at Mapolres Pasaman for further legal process and were charged under Article 114 paragraph (1), subsidiarily Article 111 paragraph (1), of Law 35 of 2009 on Narcotics, in conjunction with Law 1 of 2023 and Law 1 of 2026. [@4,5]
+Skywave motorcycle. [@2,5,7,11] Both suspects, with all the seized evidence, were held at Mapolres Pasaman for further legal process and were charged under Article 114 paragraph (1), subsidiarily Article 111 paragraph (1), of Law 35 of 2009 on Narcotics, in conjunction with Law 1 of 2023 and Law 1 of 2026. [@4,5]
