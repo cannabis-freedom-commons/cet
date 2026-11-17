@@ -61,22 +61,27 @@ sources:
     url: https://inshorts.com/en/news/court-orders-cannabis-offender-to-assist-traffic-police-in-kodagu-1794893983957
     publisher: Inshorts
     date: 2026-11-17
+  - title: Court orders cannabis offender to assist traffic police in Kodagu
+    url: https://newskarnataka.com/kodagu/court-orders-cannabis-offender-to-assist-traffic-police-in-kodagu/17112026/
+    publisher: News Karnataka
+    date: 2026-11-17
 open_questions:
     - No quantity of cannabis, seizure detail or laboratory confirmation was reported.
     - The NDTV page summary places Kodagu in Kerala, while its article body places Siddapur in Karnataka's Kodagu district; the report follows the body, since Kodagu is in Karnataka.
     - The court was identified only as a local court in Karnataka, with no court name, case number or date of conviction stated; 15 November 2026 is the date the community service was performed.
     - The offender's name is spelled Asim in the NDTV account and Aseem in the Inshorts item, and no full name was published.
     - The conviction, fine and community-service order were reported through local media accounts only, and no court record of the case has been published.
+    - The News Karnataka account places Siddapur in Somwarpet taluk while the report places it in Virajpet subdivision; the precise administrative location within Kodagu district remains unclear.
 ---
 
 A local court in Karnataka convicted Asim, a resident of Siddapur in Virajpet
-subdivision of Kodagu district, for consuming cannabis. [@1,2,3] The court fined him
-Rs 5,000 and ordered community service as a joint punishment. [@1,2,3] He avoided
+subdivision of Kodagu district, for consuming cannabis. [@1,2,3,4] The court fined him
+Rs 5,000 and ordered community service as a joint punishment. [@1,2,3,4] He avoided
 imprisonment. [@1]
 
 On November 15, Asim reported for traffic duty in Siddapur town under police
-supervision as his community service. [@1,2] He spent the day regulating vehicles
-and managing pedestrians. [@1,2]
+supervision as his community service. [@1,2,4] He spent the day regulating vehicles
+and managing pedestrians. [@1,2,4]
 
 The court chose community service alongside the fine rather than imprisonment so
 that the offender would understand his social responsibilities through public
