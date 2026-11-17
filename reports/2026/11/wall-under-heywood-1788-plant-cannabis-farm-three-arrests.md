@@ -53,6 +53,11 @@ media:
     media_url: https://www.ludlowadvertiser.co.uk/resources/images/21724783.jpg?type=mds-article-962
     publisher: Ludlow Advertiser
     caption: 'Officers storming the cannabis farm where three arrests were made. Photo: Church Stretton and Craven Arms Police'
+  - kind: photo
+    url: https://www.ludlowadvertiser.co.uk/news/26736299.two-men-charged-named-south-shropshire-police-drugs-raid/
+    media_url: https://www.ludlowadvertiser.co.uk/resources/images/21716344.jpg?type=mds-article-962
+    publisher: Ludlow Advertiser
+    caption: 'Cannabis plants found during the Wall Under Heywood raid, described by police as more than 1,000 plants. Photo: West Mercia Police'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8341b5b86d7a24228dd0f5fc6539feed
@@ -103,19 +108,24 @@ sources:
     publisher: Daily Express
     date: 2026-11-17
     language: en
+  - title: Two men charged and named after South Shropshire police drugs raid
+    url: https://www.ludlowadvertiser.co.uk/news/26736299.two-men-charged-named-south-shropshire-police-drugs-raid/
+    publisher: Ludlow Advertiser
+    date: 2026-11-17
+    language: en
 ---
 
 West Mercia Police raided a property in Wall Under Heywood, near Church Stretton
-in rural Shropshire, on Sunday, November 15. [@1,2,3,4,5,8,10] Officers from the South Shropshire Safer Neighbourhood Teams executed a warrant to enter the property. [@4,6,11] Officers found two men, both
+in rural Shropshire, on Sunday, November 15. [@1,2,3,4,5,8,10,12] Officers from the South Shropshire Safer Neighbourhood Teams executed a warrant to enter the property. [@4,6,11] Officers found two men, both
 aged 35, inside the property and arrested them on suspicion of cultivating
 cannabis. [@1,2,3,4,5,6,7,8,11] A third man, aged 51, was also arrested on suspicion of the same
-offence. [@1,2,3,4,5,6,7,8,11] The 51-year-old was released on police bail. [@9,10] All three men remained in police custody on Monday, November 16,
-as enquiries continued. [@1,3,5,6,8] The two, Donset Hich and Illirjan Ramaj, both aged 35 and of no fixed abode, were remanded in custody and were due to appear at Telford Magistrates Court on Tuesday, November 17. [@9,10] Two of the men have been charged with cultivating cannabis. [@9,10]
+offence. [@1,2,3,4,5,6,7,8,11] The 51-year-old was released on police bail. [@9,10,12] All three men remained in police custody on Monday, November 16,
+as enquiries continued. [@1,3,5,6,8] The two, Donset Hich and Illirjan Ramaj, both aged 35 and of no fixed abode, were remanded in custody and were due to appear at Telford Magistrates Court on Tuesday, November 17. [@9,10,12] Two of the men have been charged with cultivating cannabis. [@9,10,12]
 
 Police seized 1,788 plants at various stages of growth, along with trays of buds
-ready for sale. [@1,3,4,6,8,10,11] In the footage an officer remarks on the heat inside the building as the camera lens fogs up. [@8] Police released bodyworn-camera video showing an officer shouting “confirmed grow” and pulling back a door covering to reveal a large room of maturing plants in orderly rows. [@8] The plants were growing in seven rooms at the address. [@1,2,3,4,6,7,8,10,11]
-Police put the grow's estimated street value at more than £1 million. [@1,2,3,4,5,6,8,10,11]
-Police said the electrics within the property had been tampered with. [@1,2,3,5,6,7,8,11]
+ready for sale. [@1,3,4,6,8,10,11,12] In the footage an officer remarks on the heat inside the building as the camera lens fogs up. [@8] Police released bodyworn-camera video showing an officer shouting “confirmed grow” and pulling back a door covering to reveal a large room of maturing plants in orderly rows. [@8] The plants were growing in seven rooms at the address. [@1,2,3,4,6,7,8,10,11,12]
+Police put the grow's estimated street value at more than £1 million. [@1,2,3,4,5,6,8,10,11,12]
+Police said the electrics within the property had been tampered with. [@1,2,3,5,6,7,8,11,12]
 
 Police linked the operation to Operation Conyay, its drive to disrupt organised
 criminality in local communities. [@1,4,6,8,10] Safer Neighbourhood Inspector Damien
