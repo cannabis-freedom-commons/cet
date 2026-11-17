@@ -69,6 +69,11 @@ sources:
     publisher: Firenze Post
     date: 2026-11-16
     language: it
+  - title: Traffico di droga, 110 chili sequestrati e due arresti
+    url: https://www.toscanamedianews.it/firenze-prato-droga-110-chili-sequestrati-due-arresti.htm
+    publisher: ToscanaMediaNews
+    date: 2026-11-16
+    language: it
 open_questions:
   - The headline total of 110 kg combines hashish and cocaine, while the detailed account separates 108 kg of hashish and 2 kg of cocaine; the cannabis figure remains 108 kg.
 ---
@@ -76,7 +81,7 @@ open_questions:
 In the early hours of Wednesday 11 November, Carabinieri of the Firenze Oltrarno
 operational unit executed a custodial jail order against two foreign men
 seriously suspected of jointly holding drugs in an aggravated large quantity.
-[@1,3,4] The order was issued by the Florence preliminary-investigations judge at
+[@1,3,4,6] The order was issued by the Florence preliminary-investigations judge at
 the request of the Florence anti-mafia prosecution after an investigation begun
 on 27 March 2026 into an alleged trafficking ring active between the two
 provinces from March to August. [@1,3,4]
@@ -89,7 +94,7 @@ kilograms in total, a non-cannabis seizure excluded from the cannabis figures.
 was traced and arrested in France under a European arrest warrant issued by the
 Florence judiciary. [@1,3] The second suspect had come under investigation in May
 after Guardia di Finanza officers arrested him while he held 108 kilograms of
-hashish. [@1,4,5]
+hashish. [@1,4,5,6]
 
 Although then placed under house arrest, he allegedly continued to buy and
 transfer large consignments of cocaine and hashish. [@1] Investigators also
@@ -104,4 +109,4 @@ During searches officers seized from the woman more than 16,000 euros in cash,
 considered by investigators to be proceeds of the illegal activity. [@2,4,5] After
 the formalities one of the men was taken to Prato prison, while the man captured
 in France, already held at Florence's Sollicciano prison, was served the new
-measure in prison. [@2,4,5]
+measure in prison. [@2,4,5,6]
