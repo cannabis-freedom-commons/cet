@@ -1000,6 +1000,10 @@ sources:
     publisher: CH7ON
     date: 2026-11-17
     language: th
+  - title: US Basketball Player Arrested In Nigeria After 34 Kg Cannabis Seizure At Lagos Airport
+    url: https://www.hindustantimes.com/videos/us-basketball-player-arrested-in-nigeria-after-34-kg-cannabis-seizure-at-lagos-airport-101794927745904.html
+    publisher: Hindustan Times
+    date: 2026-11-17
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cj93rggenq4xo
@@ -1111,6 +1115,11 @@ media:
     media_url: https://video.dailymail.com/video/mol/2026/11/17/847367571625393105/1024x576_MP4_847367571625393105.mp4
     publisher: Daily Mail (Reuters)
     caption: Reuters news video titled 'Basketball player arrested in Nigeria on drug smuggling charges', published with the Daily Mail report.
+  - kind: video
+    url: https://www.hindustantimes.com/videos/us-basketball-player-arrested-in-nigeria-after-34-kg-cannabis-seizure-at-lagos-airport-101794927745904.html
+    media_url: https://www.youtube.com/watch?v=mU15mOWNUc4
+    publisher: Hindustan Times
+    caption: 'Hindustan Times #shorts video on the arrest of the American basketball player Greene Da''monte Khiree at Lagos airport after nearly 34 kilograms of cannabis were found in two suitcases.'
 open_questions:
   - Accounts differ on whether the two bags held 32 or 33 parcels of cannabis, though they agree on the 33.95-kilogram total.
   - No separate date for the arrest is given on the Thai page; 11 November 2026 is the date of the operation and 17 November 2026 is the publication date.
@@ -1119,10 +1128,10 @@ open_questions:
 NDLEA operatives at Murtala Muhammed International Airport in Lagos intercepted
 28-year-old American citizen Greene Da’monte Khiree on Wednesday 11 November
 2026 after he arrived aboard an Emirates Airline flight from Thailand via Dubai.
-[@1,3,4,5,6,7,9,10,11,12,13,14,16,20,21,22,23,24,28,29,31,32,33,34,35,39,40,41,47,49,50,51,52,53,54,55,57,58,59,61,62,63,64,65,66,67,68,69,70,72,73,74,75,76,77,79,81,82,83,84,86,87,88,90,91,92,93,94,95,96,97,98,99,101,103,104,105,106,107,108,109,110,111,112,113,114,115,116,118,119,120,121,122,123,124,126,127,128,129,130,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,149,150,151,152,153,156,158,159,160,162,165,167,168,169,170,171,172,174,175,176,178,179,180,181,182,183,184,185,186,187,188,190,192,194,195,196,197,198,199,200,206,208,210,215,217] Greene, a point guard playing professionally since 2022, most recently played in Thailand's Phuket Elite Cup about two months earlier, after short-term 3x3 and semi-professional 5x5 stints there. [@194] He was also the leading scorer for the Georgia Bombers semi-professional basketball team during the 2023–2024 season before moving to Thailand. [@193,219] Greene told investigators he had been playing professional basketball in Thailand and was visiting Nigeria to build networks for his career. [@193,205,207,211,217,218] Khiree arrived in Lagos from Thailand, where he has lived and played professional basketball since October 2025, according to the agency. [@191,201,204,214,216,220] Greene reportedly said he had lived in Thailand since 2025 and was traveling to Nigeria on vacation. [@184] WSAV identifies Greene as a Savannah native. [@184,216] The suspect had been placed under discreet surveillance on credible
+[@1,3,4,5,6,7,9,10,11,12,13,14,16,20,21,22,23,24,28,29,31,32,33,34,35,39,40,41,47,49,50,51,52,53,54,55,57,58,59,61,62,63,64,65,66,67,68,69,70,72,73,74,75,76,77,79,81,82,83,84,86,87,88,90,91,92,93,94,95,96,97,98,99,101,103,104,105,106,107,108,109,110,111,112,113,114,115,116,118,119,120,121,122,123,124,126,127,128,129,130,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,149,150,151,152,153,156,158,159,160,162,165,167,168,169,170,171,172,174,175,176,178,179,180,181,182,183,184,185,186,187,188,190,192,194,195,196,197,198,199,200,206,208,210,215,217,221] Greene, a point guard playing professionally since 2022, most recently played in Thailand's Phuket Elite Cup about two months earlier, after short-term 3x3 and semi-professional 5x5 stints there. [@194] He was also the leading scorer for the Georgia Bombers semi-professional basketball team during the 2023–2024 season before moving to Thailand. [@193,219] Greene told investigators he had been playing professional basketball in Thailand and was visiting Nigeria to build networks for his career. [@193,205,207,211,217,218] Khiree arrived in Lagos from Thailand, where he has lived and played professional basketball since October 2025, according to the agency. [@191,201,204,214,216,220] Greene reportedly said he had lived in Thailand since 2025 and was traveling to Nigeria on vacation. [@184] WSAV identifies Greene as a Savannah native. [@184,216] The suspect had been placed under discreet surveillance on credible
 intelligence and was observed abandoning his two checked-in bags to leave the
-airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56,57,58,61,62,63,64,66,67,70,72,73,75,76,77,79,83,84,86,87,90,93,94,95,98,99,100,101,103,105,106,107,109,110,111,112,115,118,120,121,122,123,124,127,130,131,132,133,135,136,137,140,141,143,144,145,146,147,148,150,151,152,155,156,159,160,162,163,165,167,168,169,170,171,172,174,175,176,205,206,210,215,216,217,219] He was promptly apprehended at the
-airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49,57,63,64,72,77,78,80,81,82,87,88,90,91,92,95,96,97,100,101,102,103,108,117,121,128,129,133,134,135,138,142,146,147,149,150,156,157,162,163,166,168,170,172,174,175,177,204,210,216,220] A second account confirms NDLEA arrested the American
+airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56,57,58,61,62,63,64,66,67,70,72,73,75,76,77,79,83,84,86,87,90,93,94,95,98,99,100,101,103,105,106,107,109,110,111,112,115,118,120,121,122,123,124,127,130,131,132,133,135,136,137,140,141,143,144,145,146,147,148,150,151,152,155,156,159,160,162,163,165,167,168,169,170,171,172,174,175,176,205,206,210,215,216,217,219,221] He was promptly apprehended at the
+airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49,57,63,64,72,77,78,80,81,82,87,88,90,91,92,95,96,97,100,101,102,103,108,117,121,128,129,133,134,135,138,142,146,147,149,150,156,157,162,163,166,168,170,172,174,175,177,204,210,216,220,221] A second account confirms NDLEA arrested the American
 professional basketball player after discovering 32 parcels of Loud in his
 luggage at the same Lagos airport. [@2,9,25,29,48,50,53,71,72,97,104,124,125,149,150,173,180,181,183,184,187,189,191,193,196,197,199,202,203,209,213] A tracking device was recovered in the bag with the cannabis parcels. [@184,204,208,210,215]
 
