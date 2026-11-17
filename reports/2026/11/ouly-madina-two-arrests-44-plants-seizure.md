@@ -52,22 +52,27 @@ sources:
     publisher: Pressafrik
     date: 2026-11-17
     language: fr
+  - title: Le récit d'une filature, comment les enquêteurs ont piégé le baron Ibrahima Oualy
+    url: https://www.senenews.com/actualites/le-recit-dune-filature-comment-les-enqueteurs-ont-piege-le-baron-ibrahima-oualy_606680.html
+    publisher: SeneNews
+    date: 2026-11-17
+    language: fr
 ---
 
 Two brothers were arrested in the night of 15 to 16 November at Ouly Madina, 73
 kilometres from Tambacounda, where the regional drug squad found cannabis plants
-in a home and then in a nursery at the edge of the village. [@1] Police opened
+in a home and then in a nursery at the edge of the village. [@1,3] Police opened
 checks after a tip naming Ibrahima Oualy as a suspected cannabis trafficker,
 reconnaissance pointed them to his home over a suspected cannabis grow, and an
-undercover officer bought four wraps before the squad moved in. [@1,2]
+undercover officer bought four wraps before the squad moved in. [@1,2,3]
 
 Officers arrested Ibrahima Oualy and his younger brother Tamba Oualy, who
-reportedly opposed the intervention. [@1,2] The search of the home found 32 adult
+reportedly opposed the intervention. [@1,2,3] The search of the home found 32 adult
 plants reported to be 1.90 metres tall, 700 grams of bulk cannabis and a 35-gram
-bag of cannabis seeds. [@1,2] Police then found 12 more plants in a nursery laid
+bag of cannabis seeds. [@1,2,3] Police then found 12 more plants in a nursery laid
 out in a garden at the periphery of the village, whose owner was still
-unidentified. [@1,2]
+unidentified. [@1,2,3]
 
 The intervention drew a crowd after the main suspect's wife's cries alerted
 neighbours, scuffles broke out between a group of youths and police, officers
-fired a warning shot, and no injuries were reported. [@1]
+fired a warning shot, and no injuries were reported. [@1,3]
