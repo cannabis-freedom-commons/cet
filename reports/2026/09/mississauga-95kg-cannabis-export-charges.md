@@ -52,13 +52,15 @@ sources:
     archived: https://web.archive.org/web/20261010172927/https://toronto.citynews.ca/2026/09/25/ontario-four-charged-cannabis-scheme-rcmp/
     publisher: CityNews Toronto
     date: 2026-09-25
-open_questions:
-  - The sources do not give the seizure date or exact location, or identify where the cannabis was headed or how the alleged export scheme operated.
-  - The articles report charges and an ongoing investigation but no court outcome.
-  - The opened sources contain no event photograph; CityNews used a stock image, which is not included here.
+  - title: RCMP arrests four people in cannabis-smuggling scheme
+    url: https://www.thestar.com/news/gta/rcmp-arrests-four-people-in-cannabis-smuggling-scheme/article_08d6f8ca-5d9b-435c-a60c-bd7ea9ae17a7.html
+    publisher: Toronto Star
+    date: 2026-09-25
+    language: en
+    archived: https://web.archive.org/web/20261002091457id_/https://www.thestar.com/news/gta/rcmp-arrests-four-people-in-cannabis-smuggling-scheme/article_08d6f8ca-5d9b-435c-a60c-bd7ea9ae17a7.html
 ---
 
-The RCMP, Peel Regional Police and Canada Border Services Agency investigated suspected cannabis export offences for several months. The RCMP said the joint investigation resulted in a 95-kilogram cannabis seizure and four arrests. [@1,2]
+The RCMP, Peel Regional Police and Canada Border Services Agency investigated suspected cannabis export offences for several months. The RCMP said the joint investigation resulted in a 95-kilogram cannabis seizure and four arrests. [@1,2,3]
 
 On 24 September 2026, the RCMP's Central Region Border Integrity unit announced charges against four men: Anoshan Alfred, 33, of Alliston; Jeffrey Woolcock, 40, and Renaldo Clarke, 42, of North York; and Jermaine Thompson, 32, of Toronto. [@1,2] The charges covered cannabis possession for export, illicit possession, possession for distribution, possession for sale and conspiracy to export cannabis. [@1,2]
 
