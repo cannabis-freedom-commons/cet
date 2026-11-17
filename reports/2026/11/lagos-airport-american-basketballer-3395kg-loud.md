@@ -788,6 +788,11 @@ sources:
     url: https://guelph.ctvnews.ca/world/article/nigeria-arrests-us-basketball-player-with-cannabis-haul/
     publisher: CTVNews
     date: 2026-11-16
+  - title: Αμερικανός παίκτης συνελήφθη στη Νιγηρία με 34 κιλά κάνναβης!
+    url: https://lamianow.gr/amerikanos-paiktis-synelifthi-sti-nigiria-me-34-kila-kannavis/
+    publisher: LamiaNow
+    date: 2026-11-16
+    language: el
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cj93rggenq4xo
@@ -884,7 +889,7 @@ intelligence and was observed abandoning his two checked-in bags to leave the
 airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56,57,58,61,62,63,64,66,67,70,72,73,75,76,77,79,83,84,86,87,90,93,94,95,98,99,100,101,103,105,106,107,109,110,111,112,115,118,120,121,122,123,124,127,130,131,132,133,135,136,137,140,141,143,144,145,146,147,148,150,151,152,155,156,159,160,162,163,165,167,168,169,170,171,172] He was promptly apprehended at the
 airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49,57,63,64,72,77,78,80,81,82,87,88,90,91,92,95,96,97,100,101,102,103,108,117,121,128,129,133,134,135,138,142,146,147,149,150,156,157,162,163,166,168,170,172] A second account confirms NDLEA arrested the American
 professional basketball player after discovering 32 parcels of Loud in his
-luggage at the same Lagos airport. [@2,9,25,29,48,50,53,71,72,97,104,124,125,149,150]
+luggage at the same Lagos airport. [@2,9,25,29,48,50,53,71,72,97,104,124,125,149,150,173]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
