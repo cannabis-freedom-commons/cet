@@ -2,8 +2,10 @@
 import * as yaml from "js-yaml";
 import { apiCostParts, costParts, modelPlan } from "../../src/lib/model-cost.js";
 import { MODELS, apiPrice, standardModel } from "../../src/lib/models.js";
+import { aggregate, proseOf, trackerProse } from "../lib/prose-score.mjs";
 
 const files = import.meta.glob("../results/*.json", { eager: true, import: "default" });
+const proseFiles = import.meta.glob("../results/prose/*.json", { eager: true, import: "default" });
 const caseFiles = import.meta.glob("../cases/*.yaml", { eager: true, query: "?raw", import: "default" });
 
 export const runs = Object.values(files)
@@ -13,6 +15,16 @@ export const runs = Object.values(files)
 export const cases = Object.values(caseFiles)
   .map((text) => yaml.load(text))
   .sort((a, b) => a.id.localeCompare(b.id));
+
+// How the texts read, ranked by judging models (judge-prose.mjs), all judges pooled.
+export const prose = aggregate(Object.values(proseFiles));
+export const trackerProseScore = trackerProse(prose);
+const proseTip = (name, p) => (p
+  ? tip(name, `prose ${score(p.score)} of 100 · ${p.cases} cases judged`, [
+    ...Object.entries(p.judges).map(([judge, value]) => ["", `Judge ${judge}`, score(value)]),
+    ...(p.vs ? [["", "Ranked above the tracker's own text", `${Math.round((100 * p.beats) / p.vs)}%`]] : []),
+  ])
+  : tip(name, prose.judges.length ? "no report text of it has been judged" : "no prose judgments yet"));
 
 export const FAMILIES = { "new-event": "New events", "known-event": "Already covered", "out-of-scope": "Out of scope" };
 export const FAMILY_NOTE = {
@@ -142,6 +154,7 @@ export function runRow(run, base, label = "model") {
     v: verdictCounts(run), attempts: s.attempts, min: s.usage.minutes_per_case, steps: s.usage.steps_per_case, t: tokenSplit(run), cost: costOf(run),
     families: Object.fromEntries(Object.keys(FAMILIES).map((family) => [family, s.families[family]?.score])),
     capabilities: Object.fromEntries(Object.entries(s.capabilities).map(([key, value]) => [key, value.score])),
+    prose: proseOf([run], prose),
     caseScore: (id) => run.cases.find((item) => item.id === id)?.score,
     caseHref: (id) => `${base}benchmark/${run.id}/#${id}`,
   };
@@ -160,6 +173,7 @@ export function variantRow(g, base) {
     // a provider's own price or plan says nothing for a pool of several providers
     cost: g.cost && g.providers.length > 1 ? { ...g.cost, providerPerCase: null, planPerCase: null, reportedPerCase: null } : g.cost,
     families: g.families, capabilities: g.capabilities,
+    prose: proseOf(g.runs, prose),
     caseScore: (id) => g.caseScores.get(id),
     caseHref: (id) => `${href}#case-${id}`,
   };
@@ -244,4 +258,5 @@ export function byVariant(list) {
 }
 
 // "$0.023", "$1.20"; a dash when the model has no price
+export const proseTipOf = (row) => proseTip(row.name, row.prose);
 export const usd = (value) => (value == null ? "–" : value >= 1 ? `$${value.toFixed(2)}` : value >= 0.01 ? `$${value.toFixed(3)}` : `$${value.toFixed(4)}`);

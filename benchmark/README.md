@@ -149,6 +149,43 @@ Prices come from `src/lib/models.js`, the same table the tracker uses for its ow
 that is not there shows a dash for cost; add its prices there and rebuild, no new run is needed.
 The "score against tokens" chart marks the models that no other model beats with fewer tokens.
 
+## Prose
+
+The score is fixed rules only. How well the report texts *read* is judged apart by language models
+and shown as its own **Prose** column on the site; it never enters the score.
+
+```bash
+npm run benchmark:prose
+```
+
+```bash
+npm run benchmark:prose -- --model claude-sonnet-5-5 --effort medium --rounds 3
+```
+
+For each case with three or more texts, every text the saved runs wrote on that event, and the
+tracker's own published report (as at `reports_commit`), goes to the judge in one prompt, shuffled
+and labelled `T01`, `T02` … without model names. It ranks them all, best written first, with a short
+note each. The rubric is "How it reads" from `docs/WRITING.md` plus a few points on order, tone,
+title and length (`rubric()` in `lib/prose.mjs`); facts and figures are left to the scorer. A text's
+place gives 100 for the best and 0 for the worst.
+
+- **Judges.** A judge is a model and effort (default `claude-opus-5-5` at effort `medium`), run
+  through the Claude Code CLI (`claude -p`), so it uses your Claude login. The call carries only the
+  rubric and the texts: no tools, MCP servers, skills or settings, in an empty folder; the answer is
+  the ranking JSON with a note of at most 12 words a text. Each judge keeps its rounds in
+  `results/prose/claude-<model>-<effort>.json`. Run with another `--model` or `--effort` for another judge.
+- **Repeats.** A case is judged until this judge has `--rounds` rounds (default 1) that showed all of
+  its current texts, each in a new order. New runs add texts, so run the command again after them: only
+  the cases with new texts are judged again. Raise `--rounds` for a steadier view from one judge.
+- **Pooling.** A text's score from one judge is the mean over its rounds; the pooled score the mean
+  over judges, each judge counting once. A model's prose is the mean over the cases where it wrote a
+  text. A judge's own model's texts do not count in its rankings. The tooltip shows each judge apart
+  and how often the model's text ranked above the tracker's own.
+- `--cases a,b` judges only those, `--dry-run` lists what would be judged and the input size,
+  `--scores` prints the pooled prose scores without calling a model.
+
+A first pass is 23 judge calls and about 300k input tokens; each further round or judge costs the same.
+
 ## After changing a case or a rule
 
 ```bash
@@ -182,11 +219,13 @@ To move the fixed coverage forward, set `reports_commit` in `protocol.json` to a
 
 | Path | What |
 | --- | --- |
-| `run.mjs`, `score.mjs` | The two commands |
+| `run.mjs`, `score.mjs` | Run a model, show or re-score runs |
+| `cases-report.mjs` | Which cases separate models (`npm run benchmark:cases`) |
+| `judge-prose.mjs` | The prose judge (`npm run benchmark:prose`) |
 | `protocol.json` | Run settings: step limit, timeout, search, starting context, fixed reports commit |
 | `cases/` | The cases and their answers |
 | `lib/` | Snapshot, private service, collection, scoring |
-| `results/` | One file per run (what the site shows) and `raw/` (the service's output, for re-scoring) |
+| `results/` | One file per run (what the site shows), `raw/` (the service's output, for re-scoring) and `prose/` (each prose judge's rankings) |
 | `site/` | The `/benchmark/` pages, added to the site by `site/integration.mjs` |
 | `test/` | Tests of the cases and the scorer, part of `npm test` |
 | `.work/` | Working files of runs; not committed |

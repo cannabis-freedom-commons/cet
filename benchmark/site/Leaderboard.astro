@@ -2,9 +2,9 @@
 // A ranked list with the same measures in every row: score (with the range its repeats or runs
 // span), pass/partial/fail, minutes, tokens and cost a case. Used for every run and for every
 // model and variant pooled across runs (index.astro builds the rows).
-//   rows: [{ name, sub, href?, score, range: [lo, hi] | null, scoreRows, v: {pass, partial, fail, off},
+//   rows: [{ name, sub, href?, score, range: [lo, hi] | null, scoreRows, v: {pass, partial, fail, off}, prose,
 //            attempts, min, steps, t: {fresh, cached, output, total}, cost }]
-import { VERDICTS, score, tokens, tip, usd, costRows } from "./data.js";
+import { VERDICTS, score, tokens, tip, usd, costRows, proseTipOf } from "./data.js";
 const { title, sub, rows, note } = Astro.props;
 const maxMin = Math.max(1, ...rows.map((row) => row.min || 0));
 const maxTok = Math.max(1, ...rows.map((row) => row.t.total));
@@ -14,7 +14,7 @@ const costTip = (row) => (row.cost ? tip(row.name, "one case", costRows(row.cost
 ---
 <figure class="b-card b-lead" data-chart>
   <figcaption><b>{title}</b> <span>{sub}</span></figcaption>
-  <div class="b-lead-head" aria-hidden="true"><span></span><span>Model</span><span>Score</span><span>Pass · partial · fail</span><span>Min / case</span><span>Tokens / case</span><span>List price / case</span></div>
+  <div class="b-lead-head" aria-hidden="true"><span></span><span>Model</span><span>Score</span><span>Pass · partial · fail</span><span>Prose</span><span>Min / case</span><span>Tokens / case</span><span>List price / case</span></div>
   <ol>
     {rows.map((row, i) => {
       const Who = row.href ? "a" : "span";
@@ -31,6 +31,9 @@ const costTip = (row) => (row.cost ? tip(row.name, "one case", costRows(row.cost
               {VERDICTS.filter(([key]) => row.v[key]).map(([key]) => <i class={`v-${key}`} style={`flex:${row.v[key]}`}></i>)}
             </span>
             <b>{row.v.pass} · {row.v.partial} · {row.v.fail}</b>
+          </span>
+          <span class:list={["b-meter c-prose", { none: !row.prose }]} tabindex="0" data-tip={proseTipOf(row)} aria-label={`${row.name}: prose ${row.prose ? score(row.prose.score) : "not judged"}`}>
+            <span class="track"><i style={`width:${row.prose?.score ?? 0}%`}></i></span><b>{row.prose ? score(row.prose.score) : "–"}</b>
           </span>
           <span class="b-meter c-min" tabindex="0" data-tip={tip(row.name, "typical time for one case, from opening the page to the final answer", [["", "Minutes", String(row.min ?? "?")], ...(row.steps != null ? [["", "Model steps", String(row.steps)]] : [])])}>
             <span class="track"><i style={`width:${((row.min || 0) / maxMin) * 100}%`}></i></span><b>{row.min ?? "–"}</b>

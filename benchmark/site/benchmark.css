@@ -48,7 +48,7 @@
 
 /* leaderboard: one row a model, the same measure in every column */
 .b-lead ol { margin: 0; padding: 0; list-style: none; }
-.b-lead ol > li, .b-lead-head { display: grid; grid-template-columns: 20px minmax(180px, 1.5fr) minmax(170px, 2fr) minmax(150px, 1.1fr) minmax(92px, .8fr) minmax(92px, .8fr) 78px; gap: 4px 18px; align-items: center; }
+.b-lead ol > li, .b-lead-head { display: grid; grid-template-columns: 20px minmax(180px, 1.5fr) minmax(170px, 2fr) minmax(150px, 1.1fr) minmax(92px, .8fr) minmax(92px, .8fr) minmax(92px, .8fr) 78px; gap: 4px 18px; align-items: center; }
 .b-lead ol > li { padding: 9px 0; border-top: 1px solid var(--border); }
 .b-lead-head { padding-bottom: 8px; color: var(--muted); font: 11px var(--mono); text-transform: uppercase; letter-spacing: .05em; }
 .b-lead-head span:last-child, .b-lead .cost { text-align: right; }
@@ -93,11 +93,11 @@
 
 @media (max-width: 900px) {
   .b-lead-head { display: none; }
-  .b-lead ol > li { grid-template-columns: 20px minmax(0, 1fr) minmax(0, 1fr); grid-template-areas: "rank who who" ". score score" ". verdicts verdicts" ". min tok" ". cost cost"; gap: 8px 14px; }
+  .b-lead ol > li { grid-template-columns: 20px minmax(0, 1fr) minmax(0, 1fr); grid-template-areas: "rank who who" ". score score" ". verdicts verdicts" ". prose prose" ". min tok" ". cost cost"; gap: 8px 14px; }
   .b-lead .rank { grid-area: rank; } .b-lead .who { grid-area: who; } .b-lead .c-score { grid-area: score; } .b-lead .b-verdicts { grid-area: verdicts; }
-  .b-lead .c-min { grid-area: min; } .b-lead .c-tok { grid-area: tok; } .b-lead .cost { grid-area: cost; text-align: left; }
+  .b-lead .c-prose { grid-area: prose; } .b-lead .c-min { grid-area: min; } .b-lead .c-tok { grid-area: tok; } .b-lead .cost { grid-area: cost; text-align: left; }
   /* the column titles are hidden here, so each figure names its unit */
-  .b-lead .c-min > b::after { content: " min"; } .b-lead .c-tok > b::after { content: " tokens"; } .b-lead .cost::after { content: " a case"; color: var(--muted); }
+  .b-lead .c-prose > b::after { content: " prose"; } .b-lead .c-min > b::after { content: " min"; } .b-lead .c-tok > b::after { content: " tokens"; } .b-lead .cost::after { content: " a case"; color: var(--muted); }
   .b-lead .cost.none { font-size: 0; } .b-lead .cost.none::after { content: "no price recorded"; font-size: 12px; }
 }
 

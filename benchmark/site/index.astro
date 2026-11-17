@@ -8,7 +8,7 @@ import Leaderboard from "./Leaderboard.astro";
 import Scatter from "./Scatter.astro";
 import HeatTable from "./HeatTable.astro";
 import CaseMatrix from "./CaseMatrix.astro";
-import { runs, cases, sets, FAMILIES, FAMILY_NOTE, CAPABILITIES, day, score, tokens, tip, modelName, subjectLine, rankedVariants, variantRow, usd } from "./data.js";
+import { runs, cases, sets, FAMILIES, FAMILY_NOTE, CAPABILITIES, day, score, tokens, tip, modelName, subjectLine, rankedVariants, variantRow, usd, prose, trackerProseScore } from "./data.js";
 const base = import.meta.env.BASE_URL;
 const { full, partial } = sets();
 const current = full[0];
@@ -59,7 +59,7 @@ const fullRuns = current?.runs.length ?? 0;
           runs side by side.</p>
 
         <Leaderboard title="Score, verdicts and what a case takes" sub={`ranked by score · ${cases.length} cases`} rows={variants}
-          note={`Pass is a case score of 85 or more, partial 50 or more. The thin line on a score bar spans the lowest and highest single run or repeat. Tokens are everything read and written for one case, cache included. List price is those tokens at the maker's own API price, the same basis whoever served them (${priced} of ${variants.length} have one; ≈ marks ${unconfirmed} that only third parties report). Point at a figure for its parts.`} />
+          note={`Pass is a case score of 85 or more, partial 50 or more. The thin line on a score bar spans the lowest and highest single run or repeat. Tokens are everything read and written for one case, cache included. Prose is how well its report texts read, as ranked by judging models among all texts on the same event (100 = always best, 0 = always worst; ${prose.judges.length ? `judges: ${prose.judges.map((j) => j.id).join(", ")}${trackerProseScore ? `; the tracker's own published texts score ${score(trackerProseScore.score)}` : ""}` : "not judged yet"}). It is not part of the score. List price is those tokens at the maker's own API price, the same basis whoever served them (${priced} of ${variants.length} have one; ≈ marks ${unconfirmed} that only third parties report). Point at a figure for its parts.`} />
 
         <h2 id="efficiency">Cost, speed and score</h2>
         <p class="note">Each dot is one model and variant. Further left is cheaper or faster, higher is better. The dark dots are
@@ -177,6 +177,19 @@ const fullRuns = current?.runs.length ?? 0;
         between two rows means little; repeat a run (<code>--repeat 3</code>) to see how much one model varies.</p>
     </div>
 
+    <h3>Prose</h3>
+    <div class="prose">
+      <p>The score above is fixed rules only. How well a report reads is judged apart, by language models, and shown in
+        its own column. For each case, every report text the models wrote on that event, and the tracker's own published
+        text, goes to a judging model in a shuffled order without names. It ranks them by the tracker's writing rules: the
+        opening says what happened, the order is clear, the language plain and neutral, the title fits, nothing padded.
+        Facts and figures are left to the fixed scorer. A text's place gives 100 for the best and 0 for the worst.</p>
+      <p>Each judge (a model and its effort) can rank a case several times in new orders; its rounds are averaged. Several
+        judges can rank the same texts, and each judge counts once in the pooled figure, so a second judge adds a view
+        rather than more weight. A judge's own model's texts do not count in its rankings. Point at a prose figure for
+        each judge's view.</p>
+    </div>
+
     <h3>Tokens and cost</h3>
     <div class="prose">
       <p>Every run records the tokens the harness reports for each case: fresh input, input read from the provider's
@@ -192,7 +205,8 @@ const fullRuns = current?.runs.length ?? 0;
     <h3>Running it</h3>
     <pre><code>npm run benchmark -- opencode@swancloud/muse-spark-1.3-contributor#xhigh
 npm run benchmark -- muse@muse-spark-1.3#xhigh --repeat 3
-npm run benchmark:scores</code></pre>
+npm run benchmark:scores
+npm run benchmark:prose -- --model claude-opus-5-5 --effort medium</code></pre>
     <p class="note">The cases, the scoring rules and every run's full output are in the repository's <code>benchmark/</code> folder.</p>
   </div>
 </Base>
