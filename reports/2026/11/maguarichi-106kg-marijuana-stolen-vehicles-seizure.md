@@ -90,6 +90,11 @@ sources:
     publisher: El Universal
     date: 2026-11-16
     language: es
+  - title: 'Chihuahua: aseguran marihuana y municiones en carretera — El Congresista'
+    url: https://elcongresista.mx/politica/chihuahua/aseguran-marihuana-municiones-chihuahua
+    publisher: El Congresista
+    date: 2026-11-16
+    language: es
 media:
   - kind: photo
     url: https://www.nmas.com.mx/chihuahua/seguridad/aseguran-marihuana-cartuchos-y-vehiculos-robados-en-maguarichi-chihuahua/
@@ -106,17 +111,19 @@ media:
     media_url: https://www.eluniversal.com.mx/resizer/v2/2YBBIC644VF6PJMCBXXBKREF6A.jpg?auth=7c3ad5972bacccc5bb426c64e139ee5d7cc5e8e8d6aa297e33b12993cafd7520&smart=true&height=666
     publisher: El Universal
     caption: 'Marijuana, cartridges and vehicles seized near Maguarichi. Photo: Fiscalía de Chihuahua'
+open_questions:
+  - The Sonora theft report for the Mitsubishi L200 was dated April 2022 in one account and April of the previous year in another.
 ---
 
 Chihuahua state police (SSPE) seized about 106.4 kilograms of marijuana,
 ammunition, magazines and two stolen vehicles on the road to Maguarichi, at the
-San Vicente junction. [@1,4,6,7,8,9,10,11,12] Agents found 10 transparent packages of dry green
-herb similar to marijuana at the spot. [@1,5,6,7,8,9,10,11] The packages weighed approximately
+San Vicente junction. [@1,4,6,7,8,9,10,11,12,13] Agents found 10 transparent packages of dry green
+herb similar to marijuana at the spot. [@1,5,6,7,8,9,10,11,13] The packages weighed approximately
 106.4 kilograms. [@1,8,9,10,11]
 
 Officers also seized three magazines, two metal and one plastic, and 364 live
 cartridges. [@1,8,9,10,11] Of the cartridges, 340 were 7.62x51 calibre in two ammunition
-belts and 24 were 7.62x39 calibre. [@1,7] In the same operation they found two
+belts and 24 were 7.62x39 calibre. [@1,7,13] In the same operation they found two
 stolen vehicles: a 2022 Mitsubishi L200 pickup reported stolen in Sonora since
 April 2022, and a 2021 Hyundai Kona reported stolen in the United States since
 June 2023. [@1,6,8,9,11]
