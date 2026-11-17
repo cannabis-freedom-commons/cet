@@ -41,12 +41,21 @@ sources:
     publisher: BurgasMedia
     date: 2026-11-17
     language: bg
+  - title: Четирима задържани при проверки за наркотици в Бургаско, блъсната е пешеходка
+    url: https://vburgas.bg/narkotitsi-burgasko-zadarzhani-blasnata-peshehodka/
+    publisher: vBurgas.bg
+    date: 2026-11-17
+    language: bg
+  - title: Информационен бюлетин – 17 ноември 2026 г.
+    url: https://www.mvr.bg/press/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D0%BD-%D0%B1%D1%8E%D0%BB%D0%B5%D1%82%D0%B8%D0%BD/145205
+    publisher: Министерство на вътрешните работи
+    date: 2026-11-17
+    language: bg
 open_questions:
-  - 16 November 2026 is inferred from a check described as happening yesterday relative to the 17 November 2026 publication; no calendar date for the check was stated.
-  - The marijuana was reported as found on the man, with no laboratory confirmation reported.
-  - The 5 grams of amphetamine and 5 grams of methamphetamine from the same check are excluded from the cannabis figures.
-  - No charges, plea or court outcome beyond fast-track proceedings was reported.
-  - The account rests on a single outlet reporting a police statement.
+    - The marijuana was reported as found on the man, with no laboratory confirmation reported.
+    - The 5 grams of amphetamine and 5 grams of methamphetamine from the same check are excluded from the cannabis figures.
+    - No charges, plea or court outcome beyond fast-track proceedings was reported.
+    - The Interior Ministry bulletin and the vBurgas roundup reproduce the same police information as the original outlet, so they are not independent reporting.
 ---
 
 Officers from the Fourth District police department in Burgas stopped a
@@ -55,11 +64,10 @@ the city. [@1] Police said officers found three kinds of drugs on the man during
 the check, and the man was described only by his age and city. [@1] The man was
 detained for up to 24 hours. [@1]
 
-The check took place at about 13:30 on the previous day near Block 321. [@1]
+The check took place at about 13:30 on the previous day near Block 321. [@1,2] The roundup dated the checks to 16 November 2026. [@2]
 Officers found about 20 grams of marijuana on the man, with the amount reported
-as approximate. [@1] The same check also yielded 5 grams of amphetamine and 5
+as approximate. [@1,3] The same check also yielded 5 grams of amphetamine and 5
 grams of methamphetamine, which are excluded from the cannabis figures. [@1] The
 man refused to submit to alcohol and drug testing during the check. [@1]
 
 The case was placed in fast-track proceedings. [@1]
-
