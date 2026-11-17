@@ -56,13 +56,18 @@ sources:
     publisher: El Fulgor
     date: 2026-11-13
     language: es
+  - title: 'Chuquisaca: FELCN golpea al narcotráfico con el secuestro de 110 kilos de marihuana y dos aprehendidos'
+    url: https://www.boliviatv.bo/principal/nota.php?noticia=cae587580d0c4c70d6369e5634b9509d
+    publisher: Bolivia TV
+    date: 2026-11-16
+    language: es
 open_questions:
-  - Correo del Sur gives only a combined total of more than 110 kilos plus more than 6 kilos in the second operation, while El Fulgor gives a precise 104.25 kg for the first seizure; 110 kg is used as the lower-bound total.
-  - No identity, charge or outcome was reported for the second apprehended person in the Senac operation.
-  - No value estimate or laboratory confirmation beyond the field test was reported.
+    - Correo del Sur gives only a combined total of more than 110 kilos plus more than 6 kilos in the second operation, while El Fulgor gives a precise 104.25 kg for the first seizure; 110 kg is used as the lower-bound total.
+    - No identity, charge or outcome was reported for the second apprehended person in the Senac operation.
+    - The Bolivia TV account puts the economic loss to drug trafficking at more than 102,000 dollars; no laboratory confirmation beyond the field test was reported.
 ---
 
-Officers apprehended two people across the two operations. [@1] The Chuquisaca
+Officers apprehended two people across the two operations. [@1,3] The Chuquisaca
 prosecution is investigating 26-year-old Javier Ch. C. for drug trafficking
 after he was caught in flagrancia driving an unplated minibus on the
 Sucre-Potosí road in Chayanta. [@2] A judge ordered his preventive detention for
@@ -70,7 +75,7 @@ Sucre-Potosí road in Chayanta. [@2] A judge ordered his preventive detention fo
 
 Bolivia's FELCN Chuquisaca unit seized more than 110 kilos of marijuana in two
 operations, one in Sucre and another in Canchas Blancas, Chayanta province, in
-Potosí territory. [@1] At about 19:30 officers at a control post in Canchas
+Potosí territory. [@1,3] The FELCN put the economic harm to drug trafficking at more than 102,000 dollars. [@3] At about 19:30 officers at a control post in Canchas
 Blancas intercepted the white minibus and found five yute sacks holding 99 ovoid
 packages of marijuana. [@2] A field test was positive for marijuana and the load
 weighed 104 kilos and 250 grams in wet state. [@2] The first operation on 10
@@ -81,4 +86,3 @@ The departmental police commander, Colonel Martín Tadeo Arequipa, and the
 Chuquisaca anti-drug director, Captain Martiniano Cava Gutiérrez, presented the
 results at a press conference on Monday. [@1] The two operations were carried
 out in the Senac zone of Sucre and in Canchas Blancas, Chayanta, Potosí. [@1]
-
