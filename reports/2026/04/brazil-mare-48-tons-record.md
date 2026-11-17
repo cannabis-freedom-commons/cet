@@ -69,6 +69,11 @@ sources:
     publisher: Agenda do Poder
     date: 2026-11-16
     language: pt
+  - title: Cão da PM Hulk farejou 48 toneladas de maconha onde ninguém suspeitava, desvendou esconderijo secreto de traficantes e agora tem sua própria estátua no Rio de Janeiro - RSM - Revista Sociedade Militar
+    url: https://www.sociedademilitar.com.br/2026/11/cao-da-pm-hulk-farejou-48-toneladas-de-maconha-onde-ninguem-suspeitava-desvendou-esconderijo-secreto-de-traficantes-e-agora-tem-sua-propria-estatua-no-rio-de-janeiro-fplv.html
+    publisher: RSM - Revista Sociedade Militar
+    date: 2026-11-16
+    language: pt
 media:
   - kind: photo
     url: https://www.cnnbrasil.com.br/nacional/sudeste/rj/48-toneladas-de-maconha-pm-do-rio-faz-maior-apreensao-de-drogas-do-brasil/
@@ -80,18 +85,20 @@ media:
     media_url: https://imagenes.elpais.com/resizer/v2/T2DB2VPBNJBLJGUKDR4YVLW5GQ.jpg?auth=204e6bbb35d9544763d3481aa6428246bcb2d4ebb751341bdb286f2b1f689254&width=1200
     publisher: El País
     caption: 'The seized marijuana load displayed in Rio de Janeiro on Wednesday 8 April 2026, in the photo published with the El País report. Photo: Ricardo Moraes/Reuters'
+open_questions:
+  - Accounts differ on whether the Maré operation took place on 7 or 8 April 2026.
 ---
 
 At least 48 tons of marijuana worth around R$50 million wholesale were seized
 in a Military Police operation in the Parque União and Nova Holanda
 communities of Complexo da Maré, Rio de Janeiro, on Tuesday, April 7, 2026 —
-the largest drug seizure in the country's history. [@1,3,5,6]
+the largest drug seizure in the country's history. [@1,3,5,6,7]
 
 More than 250 officers with armored vehicles and aircraft took part in the
 raid targeting criminal groups and vehicle and cargo robberies. [@1] Sniffer
 dogs from the BAC battalion located the stockpile in a bunker on a
 construction site: more than 24,000 tablets of about two kilograms each,
-hauled out in cargo trucks. [@1,6] Lieutenant Colonel Luciano Pedro Barbosa da Silva, commander of the Canine Operations Battalion, said a dog's sense of smell is 100,000 times more powerful than a human's and that Hulk's behaviour made officers suspect something was wrong. [@4] Hulk alerted officers to a sealed cistern covered with concrete that hid the entrance to the bunker. [@4] The dog that found the stockpile was Hulk, a four-year-old Belgian shepherd of the Canine Operations Battalion. [@4,6]
+hauled out in cargo trucks. [@1,6] Lieutenant Colonel Luciano Pedro Barbosa da Silva, commander of the Canine Operations Battalion, said a dog's sense of smell is 100,000 times more powerful than a human's and that Hulk's behaviour made officers suspect something was wrong. [@4] Hulk alerted officers to a sealed cistern covered with concrete that hid the entrance to the bunker. [@4,7] The dog that found the stockpile was Hulk, a four-year-old Belgian shepherd of the Canine Operations Battalion. [@4,6,7]
 
 Officers also seized five rifles, four pistols, lança-perfume flasks and
 about 200 liters of production material, and recovered 26 stolen vehicles —
