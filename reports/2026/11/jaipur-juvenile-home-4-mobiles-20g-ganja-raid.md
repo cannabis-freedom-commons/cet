@@ -39,6 +39,11 @@ media:
     media_url: https://imgs.etvbharat.com/etvbharat/prod-images/16-11-2026/1200-675-28124632-thumbnail-16x9-cst-aspera.jpg
     publisher: ETV Bharat News
     caption: 'Seized mobile phones and chargers from the Jaipur juvenile correction home search. Photo: Jaipur Police'
+  - kind: photo
+    url: https://samacharnama.com/states/rajasthan-news/police-raid-at-jaipur-juvenile-detention-home-seized-4/cid19540016.htm
+    media_url: https://samacharnama.com/static/c1e/client/79965/uploaded/3718710d1d7389f929371480249bfbc1.webp?width=730&height=480&resizemode=4
+    publisher: Samachar Nama
+    caption: Seized ganja with four mobile phones and chargers from the police raid at the Jaipur juvenile home.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5c313dc6d8f9bb101b95ec734349d6d9
@@ -59,21 +64,26 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-17
     language: hi
+  - title: जयपुर के बाल संप्रेषण गृह में पुलिस की छापेमारी, 4 मोबाइल और चार्जर सहित गांजा बरामद
+    url: https://samacharnama.com/states/rajasthan-news/police-raid-at-jaipur-juvenile-detention-home-seized-4/cid19540016.htm
+    publisher: Samachar Nama
+    date: 2026-11-17
+    language: hi
 ---
 
 Jaipur police's Commissionerate Special Team searched the juvenile correction
-home in Sethi Colony in the Transport Nagar police station area. [@2] The action
+home in Sethi Colony in the Transport Nagar police station area. [@2,4] The raid was carried out on the instructions of Jaipur Police Commissioner Sachin Mittal. [@4] The action
 followed complaints about juveniles using mobile phones inside the home. [@1]
 Police said they had input that some juveniles in the home were in contact with
 major gangsters who were drawing minors into gangs. [@2,3]
 
 Officers searching two rooms of the home found 20 grams of ganja along with four
-mobile phones and four charging adapters. [@2,3] About 50 CST personnel in teams
-searched every corner of the home after a confidential tip. [@1,3] Police were
+mobile phones and four charging adapters. [@2,3,4] About 50 CST personnel in teams
+searched every corner of the home after a confidential tip. [@1,3,4] Police were
 registering a case at Transport Nagar police station under provisions of the
-NDPS Act and the Juvenile Justice Act. [@1,3]
+NDPS Act and the Juvenile Justice Act. [@1,3,4]
 
 Police said they are investigating how the banned phones and drugs reached
-inside despite tight security and who is part of the network. [@1] The home
+inside despite tight security and who is part of the network. [@1,4] The home
 houses juveniles accused in serious offences. [@1] Earlier escapes over the wall
 and fights among inmates at the home have been reported. [@1]
