@@ -68,17 +68,25 @@ sources:
     publisher: 同花顺财经
     date: 2026-11-17
     language: zh
+  - title: 前脚刚查获40斤大麻，同一口岸，海关竟又截获超60斤毒品?
+    url: https://www.msn.com/zh-cn/news/other/%E5%89%8D%E8%84%9A%E5%88%9A%E6%9F%A5%E8%8E%B740%E6%96%A4%E5%A4%A7%E9%BA%BB-%E5%90%8C%E4%B8%80%E5%8F%A3%E5%B2%B8-%E6%B5%B7%E5%85%B3%E7%AB%9F%E5%8F%88%E6%88%AA%E8%8E%B7%E8%B6%8560%E6%96%A4%E6%AF%92%E5%93%81/ar-AA2hB36S
+    publisher: MSN (北京话匣子)
+    date: 2026-11-17
+    language: zh
+open_questions:
+  - The same article also describes a separate 20.051-kilogram cannabis seizure announced on 13 November 2026 at the same airport, a different event left out here.
+  - No separate date for the interception was given; 17 November 2026 is the announcement and publication date.
 ---
 
 Guangzhou Baiyun Airport Customs officers screening international transit
 passengers found the luggage X-ray images of two travellers abnormal in
-succession. [@1,2,3,4,5,6,7] Officers intercepted the two travellers and inspected their
-suitcases. [@1,2,3,4,5,7] The suitcases each held brown-green plant material packed in
+succession. [@1,2,3,4,5,6,7,8] Officers intercepted the two travellers and inspected their
+suitcases. [@1,2,3,4,5,7,8] The suitcases each held brown-green plant material packed in
 plastic bags that gave off a strong pungent smell when the packaging was opened.
 [@1,2,3,4,6,7]
 
 A technical institution tested the material and confirmed it was cannabis
-weighing 31.787 kilograms in total. [@1,2,3,4,5,6,7] Customs announced the seizure on 17
+weighing 31.787 kilograms in total. [@1,2,3,4,5,6,7,8] Customs announced the seizure on 17
 November 2026, describing the interception as recent and placing it at the
 passenger-inspection channel of Guangzhou Baiyun Airport. [@1,2,7]
 
