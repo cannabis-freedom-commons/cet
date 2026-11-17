@@ -46,6 +46,11 @@ media:
     media_url: https://www.rainews.it/cropgd/414x237/dl/img/2026/11/16/1794853221598_carabinieri_mezzano_sequestro_droga.JPG
     publisher: Rai News
     caption: 'Seized drugs laid out after the Mezzano vehicle search. Photo: Cc'
+  - kind: photo
+    url: https://risveglioduemila.it/2026/11/guida-senza-patente-e-con-quasi-29-chili-di-droga-in-auto-arrestato-un-29enne-a-mezzano/
+    media_url: https://i0.wp.com/risveglioduemila.it/wp-content/uploads/2026/11/sequestro-di-droga-Carabinieri-di-Mezzano.webp?resize=696%2C582&ssl=1
+    publisher: Risveglio Duemila
+    caption: Seized drugs from the Mezzano vehicle search laid out after the arrest.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 930b0343a8ec164a30805c565325c12d
@@ -76,23 +81,28 @@ sources:
     publisher: Ravenna Notizie
     date: 2026-11-16
     language: it
+  - title: 'Guida senza patente e con quasi 29 chili di droga in auto: arrestato un 29enne a Mezzano'
+    url: https://risveglioduemila.it/2026/11/guida-senza-patente-e-con-quasi-29-chili-di-droga-in-auto-arrestato-un-29enne-a-mezzano/
+    publisher: Risveglio Duemila
+    date: 2026-11-16
+    language: it
 ---
 
 Carabinieri of the Mezzano station arrested a 29-year-old Italian man on the
 evening of Friday 13 November along strada Reale on suspicion of possessing
-drugs for dealing. [@1,5] Officers had stopped his large car on strada Reale after
+drugs for dealing. [@1,5,6] Officers had stopped his large car on strada Reale after
 he was found driving without a licence or vehicle documents and appeared nervous
-about a bulky box on the back seats. [@2,5] Opening the door, officers smelled a
-strong odour of hashish and searched the car. [@1,5]
+about a bulky box on the back seats. [@2,5,6] Opening the door, officers smelled a
+strong odour of hashish and searched the car. [@1,5,6]
 
 Inside, officers found over 23 kilograms of hashish and derivatives in 328
 marked bars plus eight loose pieces and five electronic cigarettes containing
-marijuana active ingredients. [@2,5] They also found about 4.8 kilograms of
+marijuana active ingredients. [@2,5,6] They also found about 4.8 kilograms of
 marijuana buds vacuum-packed in thermal bags. [@2,5] Under the passenger seat they
 found almost one kilogram of cocaine in four vacuum-sealed bags, which is
-excluded from the cannabis figures. [@3,5]
+excluded from the cannabis figures. [@3,5,6]
 
 Officers also seized the car used to transport the drugs, two mobile phones and
-cash. [@1,5] Rai News specified the seized cash as 200 euros. [@4] The 29-year-old
+cash. [@1,5,6] Rai News specified the seized cash as 200 euros. [@4] The 29-year-old
 was taken to Ravenna prison, where the judge confirmed the arrest and ordered
-pretrial custody in prison. [@1,5]
+pretrial custody in prison. [@1,5,6]
