@@ -36,27 +36,35 @@ sources:
     publisher: Disha Daily (దిశ)
     date: 2026-11-17
     language: te
+  - title: Man evading arrest for 2 months nabbed for drug peddling in Hyderabad
+    url: https://www.siasat.com/man-evading-arrest-for-2-months-nabbed-for-drug-peddling-in-hyderabad-3579559/
+    publisher: The Siasat Daily
+    date: 2026-11-17
 open_questions:
-  - No separate date is given for the arrest or the court remand; 17 November 2026 is the article's publication date and is used as the incident date.
-  - No quantity of ganja, no value and no number of plants were published for this case.
-  - The September case involving two ganja consumers and the earlier NDPS cases at Shankarpally police station are reported as background and are not separate events covered here.
-  - The account rests on a single Disha Daily report relaying the Shankarpally police statement; no independent second source was found.
-  - No trial outcome, charge sheet or further court step beyond the remand was reported.
-  - 'Left out, as its quotation was not found in Disha Daily (దిశ): They alleged that, despite those cases, he continued to supply ganja to young people and students.'
+    - 'The arrest date is uncertain: Siasat gives 13 November but also says Wazeer was caught ''on Monday'', while the other account gave no date beyond its publication.'
+    - No quantity of ganja, no value and no number of plants were published for this case.
+    - The September case involving two ganja consumers and the earlier NDPS cases at Shankarpally police station are reported as background and are not separate events covered here.
+    - Both the original Disha Daily account and Siasat relay the Shankarpally police statement, so there is no independent account.
+    - No trial outcome, charge sheet or further court step beyond the remand was reported.
+media:
+  - kind: photo
+    url: https://www.siasat.com/man-evading-arrest-for-2-months-nabbed-for-drug-peddling-in-hyderabad-3579559/
+    media_url: https://cdn.siasat.com/wp-content/uploads/2026/11/New-Project-2026-11-17T161117.429.jpg
+    publisher: The Siasat Daily
+    caption: Shankarpally police with the accused Mohammed Wazeer, published with the report of his arrest.
 ---
 
 Shankarpally police in Telangana arrested Mohammed Vazeer, a habitual offender
 accused in several cases under the Narcotic Drugs and Psychotropic Substances
 (NDPS) Act, as part of a special drive against illegal ganja transport and sale.
-[@1] Police said Vazeer had been absconding for two months. [@1]
+[@1,2] Police said the arrest took place on 13 November. [@2] Police said Vazeer had been absconding for two months. [@1,2]
 
 The case arose in September, when Shankarpally police caught two youths
-consuming ganja and registered a case under the NDPS Act. [@1] During the
+consuming ganja and registered a case under the NDPS Act. [@1,2] During the
 investigation officers identified Vazeer as the person who had supplied the
-youths with ganja and registered a case against him. [@1] Police said earlier
+youths with ganja and registered a case against him. [@1,2] Police said earlier
 NDPS cases for illegal ganja transport, sale and use had been registered against
-him at Shankarpally police station. [@1]
+him at Shankarpally police station. [@1,2] Despite the cases against him, he allegedly continued supplying ganja to youngsters and students. [@2]
 
 Vazeer was produced before the Chevella court, where the judge ordered him sent
-to remand. [@1]
-
+to remand. [@1,2]
