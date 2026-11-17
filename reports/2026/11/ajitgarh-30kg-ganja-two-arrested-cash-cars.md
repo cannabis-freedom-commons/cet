@@ -49,30 +49,34 @@ sources:
     publisher: NDTV Rajasthan
     date: 2026-11-17
     language: hi
+  - title: 'Operation Anti Venom : लग्जरी गाड़ी में गांजा तस्करी, दो आरोपी गिरफ्तार, गाड़ियां और 3.85 लाख कैश जब्त'
+    url: https://www.etvbharat.com/hi/state/operation-anti-venom-consignment-of-cannabis-seized-police-arrested-two-accused-in-smuglling-rjs26111705498
+    publisher: ETV Bharat News
+    date: 2026-11-17
+    language: hi
 open_questions:
-  - No separate date for the raid or the arrests was given; 17 November 2026 is the publication date and stands in for the incident date.
-  - No names, ages, charges or court outcome for the two arrested people were published.
-  - The 33 lakh rupees in cash and the luxury cars appear only in the headline; no breakup or recovery detail was published.
-  - The number of luxury vehicles seized was not stated, so no vehicle figure is recorded.
-  - The whole account rests on a single video-page report, with no accessible second outlet account found.
-  - The ganja quantity is given as 30 kg in the headline and 30 kg 700 g in the description; the precise 30.7 kg figure is used.
+    - No separate date for the raid or the arrests was given; 17 November 2026 is the publication date and stands in for the incident date.
+    - The ages of the two arrested men and any court outcome were not published.
+    - 'The cash figure differs between accounts: the earlier account reports 33 lakh rupees, while the new account gives 3.35 lakh rupees in its body and 3.85 lakh rupees in its headline, so the amount needs confirmation.'
+    - The new account states that two vehicles, one luxury car and one jeep, were seized.
+    - The ganja quantity is given as 30.700 kg in the new account, matching the 30 kg 700 g already used.
+    - A case under the NDPS Act was registered at Ajitgarh police station, with investigation continuing and other syndicate members and assets being traced.
 ---
 
 In Rajasthan, Jaipur Rural Police carried out a major operation against drug
 traffickers operating in its range. [@1] The operation was conducted on the
 directions of Jaipur Range IG Rahul Prakash as a joint action. [@1] The Jaipur
 Range cyber team, the District Special Team and Ajitgarh police took part
-together in the Ajitgarh action against the traffickers. [@1] Officers arrested
-two alleged drug traffickers during the operation. [@1]
+together in the Ajitgarh action against the traffickers. [@1,2] Officers arrested
+two alleged drug traffickers during the operation. [@1,2] Preliminary inquiry identified Udaipuriya Mod resident Kanha Meena as the syndicate's mastermind, against whom several drug-trafficking cases were already registered. [@2] The two arrested men were identified as Rajendra Sharma of Pachlangi in Jhunjhunu and Pradeep Singh of Narayanpur in Kotputli-Behror. [@2]
 
-Officers recovered 30 kg 700 g of ganja during the joint operation. [@1] Police
-put the value of the seized ganja at about 15 lakh rupees. [@1] The same account
+Officers recovered 30 kg 700 g of ganja during the joint operation. [@1,2] Police
+put the value of the seized ganja at about 15 lakh rupees. [@1,2] The same account
 reports 33 lakh rupees in cash alongside the 30 kg of ganja. [@1] Officers also
 seized luxury vehicles connected to the traffickers, whose number was not
-stated. [@1]
+stated. [@1] A case under the NDPS Act was registered at Ajitgarh police station in Sikar district and investigation was continuing. [@2] The team seized one luxury car and one jeep along with 3.35 lakh rupees in cash. [@2]
 
 The account identifies the seizing units as the range cyber team, the DST and
 Ajitgarh police rather than any other agency. [@1] The case was presented as two
 traffickers held with 30 kg of ganja, cash and luxury cars in the Ajitgarh area
 of Jaipur Rural. [@1]
-
