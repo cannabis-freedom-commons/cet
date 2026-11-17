@@ -1,19 +1,18 @@
 ---
 code: AMJDXS
 added_at: "2026-11-16T06:07:07.088016Z"
-date: 2026-11-14
+date: 2026-11-16
 country: pt
 place: A2 motorway kilometre 120, Grândola
 coordinates: [38.1756, -8.5647]
 precision: district
-type: arrest
-also: [seizure]
-title: Two held on A2 in Grândola with 196 hashish doses; fuel seized
-summary: >-
-  GNR traffic officers stopped a Spanish-plated car at kilometre 120 of the A2 in Grândola on 14 November and found 196 hashish doses alongside thousands of litres of petrol in jerricans. The 23-year-old man and 31-year-old woman in the car were detained as arguidos and held for a first judicial interrogation on 16 November.
+type: prosecution
+also: [seizure, arrest]
+title: Two remanded over Grândola A2 stop with 196 hashish doses
+summary: GNR traffic officers stopped a Spanish-plated car on the A2 at Grândola on 14 November 2026 and seized 196 hashish doses alongside 6,750 litres of petrol in jerricans. On 16 November the Judicial Court of Setúbal ordered preventive detention for the 23-year-old man and 31-year-old woman, who will await proceedings in Setúbal and Tires prisons.
 figures:
-  arrested: 2
-  vehicles: 1
+    arrested: 2
+    vehicles: 1
 details:
   agencies: [pt-gnr]
   agency_types: [gendarmerie]
@@ -25,14 +24,14 @@ details:
   date_precision: exact
   region: Setúbal
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.vehicles: [1]
+    details.activity: [1]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [1]
+    details.products: [1]
+    details.setting: [1]
+    figures.arrested: [14]
+    figures.vehicles: [14]
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: ee15694692033c10ee0924df434645d2
@@ -103,25 +102,33 @@ sources:
     publisher: Diário do Distrito
     date: 2026-11-16
     language: pt
+  - title: Preventiva para dois suspeitos de tráfico de droga detidos em Grândola
+    url: https://www.noticiasaominuto.com/pais/3085139/prisao-preventiva-para-dois-suspeitos-de-trafico-de-droga-detidos-em-grandola
+    publisher: Notícias ao Minuto
+    date: 2026-11-16
+    language: pt
 media:
   - kind: photo
     url: https://www.gnr.pt/noticias.aspx?linha=32704
     media_url: https://www.gnr.pt/mostrarImagem.ashx?a=7&i=32704
     publisher: Guarda Nacional Republicana
     caption: 'Seized fuel jerricans and hashish from the Grândola A2 stop. Photo: GNR'
+open_questions:
+    - No weight in grams was given for the 196 hashish doses, so no cannabis weight is recorded.
+    - No plea, trial date, or further court outcome beyond preventive detention was reported.
 ---
 
 Officers of the GNR National Traffic Unit and the Setúbal Traffic Detachment
 intercepted a Spanish-registered vehicle at kilometre 120 of the A2 motorway in
 Grândola at about 23:30 on Saturday 14 November. [@1,2,3,4,5,8,9,10,12,13] The car's two occupants, a
 23-year-old man and a 31-year-old woman, were detained and made arguidos, formal
-suspects under Portuguese procedure. [@1,2,3,4,5,6,9,10,11,12,13] Both remained detained until a first
+suspects under Portuguese procedure. [@1,2,3,4,5,6,9,10,11,12,13,14] Both remained detained until a first
 judicial interrogation set for 10h00 on Monday 16 November to set coercion
-measures. [@1,3,4,5,9,10,12,13]
+measures. [@1,3,4,5,9,10,12,13] The man was taken to Setúbal prison and the woman to Tires prison, where they will await the proceedings. [@14] The Judicial Court of Setúbal ordered preventive detention, the strictest coercion measure, for both arguidos on suspicion of drug trafficking. [@14]
 
 During the police follow-up officers found 196 doses of hashish, 600 cigarettes
 in 30 packs, 20 torch-type lighters, six boxes of lighter refills and six
-mobile-phone chargers. [@1,2,3,4,5,7,9,10,11,12,13] The GNR seized 270 petrol jerricans of 25 litres
+mobile-phone chargers. [@1,2,3,4,5,7,9,10,11,12,13,14] The GNR seized 270 petrol jerricans of 25 litres
 each during the Saturday 14 November road-traffic operation. [@1,2,3,4,12,13] The report
 puts the total fuel load at 6,750 litres in the same vehicle on the A2 at
 Grândola. [@1,3,10,11] The light vehicle used by the suspects was also seized. [@1,3,13]
