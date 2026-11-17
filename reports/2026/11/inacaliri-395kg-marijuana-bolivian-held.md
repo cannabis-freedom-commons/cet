@@ -68,6 +68,11 @@ sources:
     publisher: El Deber
     date: 2026-11-16
     language: es
+  - title: 'Boliviano ingresó con casi media tonelada de droga: quedó en prisión preventiva tras intentar escapar a su país - Sabes'
+    url: https://sabes.cl/2026/11/16/boliviano-ingreso-con-casi-media-tonelada-de-droga-quedo-en-prision-preventiva-tras-intentar-escapar-a-su-pais/
+    publisher: Sabes
+    date: 2026-11-16
+    language: es
 ---
 
 Carabineros officers from Retén Inacaliri were on preventive patrol about 20
@@ -75,22 +80,21 @@ kilometres from the Bolivian border in El Loa province when they spotted a
 pickup truck that had apparently entered Chile irregularly around 09:00 on
 Saturday 14 November 2026. [@1] Officers detected the truck in the Barrancanes
 sector near the Inacaliri border post after it entered through an unauthorized
-crossing, and the driver disobeyed an order to stop and fled. [@3] Officers
+crossing, and the driver disobeyed an order to stop and fled. [@3,5] Officers
 pursued the truck in a controlled follow of about 50 kilometres and intercepted
 it as it tried to return to Bolivia, after the driver also tried to continue
-fleeing on foot but was caught. [@2]
+fleeing on foot but was caught. [@2,5]
 
 Inspecting the cab and cargo area, officers found packages holding 395 kilos 100
 grams of processed marijuana, 45 kilos 100 grams of coca paste and 19 kilos 800
-grams of cocaine hydrochloride. [@1] Officers also seized 171 bottles of liquid
+grams of cocaine hydrochloride. [@1,5] Officers also seized 171 bottles of liquid
 ketamine with a reported gross weight of 34.5 kilos, plus the pickup truck and
-other items of investigative interest. [@1]
+other items of investigative interest. [@1,5]
 
-The detained driver was a 31-year-old Bolivian citizen. [@1] The Calama
-prosecutor's office formally charged him with illicit drug trafficking. [@2] A
+The detained driver was a 31-year-old Bolivian citizen. [@1,5] The Calama
+prosecutor's office formally charged him with illicit drug trafficking. [@2] The accused was formalized on Sunday before the Calama Guarantee Court for illicit drug trafficking under article 3 of Law 20,000. [@5] A
 court ordered preventive prison on grounds that his freedom endangered public
 safety and set a 120-day investigation period to establish who sent, financed
-and was to receive the load. [@1] The prosecution said the combined load
+and was to receive the load. [@1,5] The prosecution said the combined load
 amounted to about 1.2 million doses and described the mix of four substances in
-one truck as a catalogue rather than a single product. [@4]
-
+one truck as a catalogue rather than a single product. [@4,5]
