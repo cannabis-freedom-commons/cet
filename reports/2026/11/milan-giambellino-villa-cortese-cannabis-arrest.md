@@ -42,6 +42,11 @@ media:
     media_url: https://www.ilgiorno.it/image-service/view/acePublic/alias/contentid/NGQ5NzU3YjctMDcyZi00/0/d.webp?f=16%3A9&q=0.75&w=768
     publisher: Il Giorno
     caption: 'Sports bag holding the almost 6 kg of marijuana seized by police. Photo: Il Giorno'
+  - kind: photo
+    url: https://www.ilnotiziario.net/tenta-la-fuga-dalla-polizia-a-milano-25enne-arrestato-e-sequestrati-oltre-5-kg-di-marijuana-a-villa-cortese/
+    media_url: https://www.ilnotiziario.net/wp-content/uploads/2026/11/borsoone-Droga-768x557.jpeg
+    publisher: Il Notiziario
+    caption: 'Bag holding the seized drugs from the Villa Cortese search. Photo: Il Notiziario'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 671ab4a54a90430a003ad6f9205aec44
@@ -57,28 +62,32 @@ sources:
     publisher: Sempione News
     date: 2026-11-16
     language: it
+  - title: 'Tenta la fuga dalla Polizia a Milano: 25enne arrestato e sequestrati oltre 5 kg di marijuana a Villa Cortese'
+    url: https://www.ilnotiziario.net/tenta-la-fuga-dalla-polizia-a-milano-25enne-arrestato-e-sequestrati-oltre-5-kg-di-marijuana-a-villa-cortese/
+    publisher: Il Notiziario
+    date: 2026-11-17
+    language: it
 open_questions:
-  - The jar of hashish was described only as almost 100 grams, so the 5.608 kg total treats it as 0.1 kg and is approximate.
-  - The 4 grams of cocaine thrown away during the flight are excluded from the cannabis figures.
-  - 15 November 2026 is inferred from the stated Sunday evening check at about 22:40 before the 16 November 2026 publication; no calendar date for the arrest was stated.
-  - No charge, plea or court outcome beyond the arrest for possession for dealing was reported.
-  - The account rests on a single outlet report of the police operation.
+    - 'The hashish amount remains approximate: the earlier account split it as 200 grams in blocks plus almost 100 grams in a jar, while this account gives about 300 grams in total.'
+    - The 4 grams of cocaine thrown away during the flight are excluded from the cannabis figures.
+    - No plea or court outcome beyond the arrest for possession of drugs for dealing was reported.
+    - The Il Giorno, Sempione News and Il Notiziario accounts all reproduce the same police operation and are not independent reporting.
 ---
 
 State Police officers arrested a 25-year-old Italian citizen with police priors
-in Milan for possession of drugs for dealing. [@1,2] Shortly before the arrest, at
+in Milan for possession of drugs for dealing. [@1,2,3] Shortly before the arrest, at
 about 22:40 on Sunday evening, patrol officers from the Porta Genova police
 station noticed the young man quicken his pace at the sight of their car. [@1]
 Stopped for a check in Via Tito Vignoli, he said he was a guest of friends in
 the city and showed an identity document, then suddenly fled. [@1,2] While fleeing
 he threw a mobile phone over the boundary wall of a courtyard in Via Vespri
 Siciliani and then a packet of drugs in Via Bruzzesi containing 4 grams of
-cocaine, 44 grams of hashish and 4 grams of marijuana. [@1,2]
+cocaine, 44 grams of hashish and 4 grams of marijuana. [@1,2,3]
 
 Officers caught and stopped him in Via Giambellino and, in the recovered phone,
 found images of household utility accounts for a home in Villa Cortese. [@1] In
 a later home search at that Villa Cortese address, officers found and seized a
-sports bag holding five bags of marijuana weighing 5.26 kg. [@1,2] In the same
+sports bag holding five bags of marijuana weighing 5.26 kg. [@1,2,3] In the same
 house they seized two blocks of hashish weighing 200 grams and a jar holding
 almost another 100 grams of hashish. [@1] They also seized mobile phones and
-packaging material at the house. [@1]
+packaging material at the house. [@1,3]
