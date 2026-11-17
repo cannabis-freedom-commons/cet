@@ -47,11 +47,11 @@ sources:
     publisher: Dakaractu
     date: 2026-11-17
     language: fr
-open_questions:
-  - The 44-plant total is the sum of 32 plants found at the home and 12 found in the peripheral nursery.
-  - The whole account is Dakaractu relaying the daily Libération; no independent second source or agency statement was opened.
-  - No laboratory confirmation, charges, detention measure or court outcome were reported.
-  - The owner of the peripheral garden holding the 12-plant nursery was still unidentified in this account.
+  - title: 'Tambacounda : 44 plants de cannabis découverts chez un cultivateur présumé, deux frères arrêtés'
+    url: https://www.pressafrik.com/%E2%80%8BTambacounda-44-plants-de-cannabis-decouverts-chez-un-cultivateur-presume-deux-freres-arretes_a314713.html
+    publisher: Pressafrik
+    date: 2026-11-17
+    language: fr
 ---
 
 Two brothers were arrested in the night of 15 to 16 November at Ouly Madina, 73
@@ -59,16 +59,15 @@ kilometres from Tambacounda, where the regional drug squad found cannabis plants
 in a home and then in a nursery at the edge of the village. [@1] Police opened
 checks after a tip naming Ibrahima Oualy as a suspected cannabis trafficker,
 reconnaissance pointed them to his home over a suspected cannabis grow, and an
-undercover officer bought four wraps before the squad moved in. [@1]
+undercover officer bought four wraps before the squad moved in. [@1,2]
 
 Officers arrested Ibrahima Oualy and his younger brother Tamba Oualy, who
-reportedly opposed the intervention. [@1] The search of the home found 32 adult
+reportedly opposed the intervention. [@1,2] The search of the home found 32 adult
 plants reported to be 1.90 metres tall, 700 grams of bulk cannabis and a 35-gram
-bag of cannabis seeds. [@1] Police then found 12 more plants in a nursery laid
+bag of cannabis seeds. [@1,2] Police then found 12 more plants in a nursery laid
 out in a garden at the periphery of the village, whose owner was still
-unidentified. [@1]
+unidentified. [@1,2]
 
 The intervention drew a crowd after the main suspect's wife's cries alerted
 neighbours, scuffles broke out between a group of youths and police, officers
 fired a warning shot, and no injuries were reported. [@1]
-
