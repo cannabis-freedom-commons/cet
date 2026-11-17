@@ -45,23 +45,24 @@ sources:
     publisher: FGJE Sonora
     date: 2026-11-15
     language: es
-open_questions:
-    - No weight was published for the marijuana or the methamphetamine, so no cannabis kilograms are recorded.
-    - The substances were described only by their characteristics, with no forensic confirmation reported.
-    - No plea or sentence beyond pretrial detention was reported.
+  - title: Pareja efrentara proceso penal por posesión de metanfetamina y marihuana
+    url: https://www.meganoticias.mx/guaymas/noticia/pareja-efrentara-proceso-penal-por-posesi%C3%B3n-de-metanfetamina-y-marihuana/788956
+    publisher: Meganoticias
+    date: 2026-11-16
+    language: es
 ---
 
 Manuel “N” and Karen Delfina “N” face criminal proceedings for alleged health
 offences after being detained with methamphetamine and marijuana for sale in the
-municipality of Cajeme. [@1,2] State investigators detained both people on 31
+municipality of Cajeme. [@1,2,3] State investigators detained both people on 31
 October at around 17:10 at a building on calle Sierra Madre Oriental, between
-Montes Urales and Montes Apénimos, in colonia Sierra Vista. [@1,2]
+Montes Urales and Montes Apénimos, in colonia Sierra Vista. [@1,2,3]
 
 Officers of the Ministerial Agency of Criminal Investigation made the detention
 and seized various wraps containing substances with the characteristics of
-methamphetamine and marijuana. [@1,2] Officers also found three pistol-type
-firearms, which the prosecution said were in good working order. [@1,2]
+methamphetamine and marijuana. [@1,2,3] Officers also found three pistol-type
+firearms, which the prosecution said were in good working order. [@1,2,3]
 
 A judge bound both accused over for trial at a hearing held on 6 November, as
-reported by the Sonora State Prosecutor's Office. [@1,2] The court kept both in
-pretrial detention while the criminal case continues. [@1,2]
+reported by the Sonora State Prosecutor's Office. [@1,2,3] The court kept both in
+pretrial detention while the criminal case continues. [@1,2,3]
