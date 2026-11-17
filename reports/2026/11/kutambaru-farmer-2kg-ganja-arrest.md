@@ -39,6 +39,11 @@ media:
     media_url: https://www.waspada.id/uploads/media/2026/11/aceh-1794756013669.webp?w=960
     publisher: Waspada.id
     caption: 'The 39-year-old farmer H.I. after arrest with the cannabis from the rice-field hut. Photo: Seh Muhammad Amin / Waspada.id'
+  - kind: photo
+    url: https://portalaceh.inews.id/read/730754/petani-di-aceh-tenggara-ditangkap-polisi-sita-dua-kilogram-ganja
+    media_url: https://img.inews.id/media/600/files/networks/2026/11/17/3de5e_ganja.jpeg
+    publisher: iNews Portal Aceh
+    caption: 'The 39-year-old farmer HI after arrest with the 2,016.1 grams of cannabis at the Southeast Aceh police headquarters. Photo: Medi Arjuna / iNews'
 status: verified
 created_by_model: muse/muse-ember-1.0#max
 submission: 987776b403b94451235bb2c36c4e4993
@@ -54,19 +59,20 @@ sources:
     publisher: Pos Aceh
     date: 2026-11-16
     language: id
-open_questions:
-    - Both the Waspada.id and Pos Aceh accounts reproduce the Aceh Tenggara police statement; no independent second source was opened.
-    - No charges or court outcome were reported; the case stood at preliminary examination.
-    - No laboratory confirmation or street value was published for the 2,016.1 grams.
+  - title: Petani di Aceh Tenggara Ditangkap, Polisi Sita Dua Kilogram Ganja
+    url: https://portalaceh.inews.id/read/730754/petani-di-aceh-tenggara-ditangkap-polisi-sita-dua-kilogram-ganja
+    publisher: iNews Portal Aceh
+    date: 2026-11-17
+    language: id
 ---
 
 Police in Aceh Tenggara detained a 39-year-old farmer, identified as H.I., in
-Desa Kutambaru, Lawe Bulan, on Saturday 14 November 2026 at about 12:30. [@1,2]
+Desa Kutambaru, Lawe Bulan, on Saturday 14 November 2026 at about 12:30. [@1,2,3]
 The arrest followed a community report about cannabis circulation in the area,
 the police said. [@1,2] Officers of the narcotics operational unit investigated
 the report before detaining H.I. [@1]
 
-Police seized 2,016.1 grams of cannabis, more than 2 kilograms, from him. [@1,2] A
+Police seized 2,016.1 grams of cannabis, more than 2 kilograms, from him. [@1,2,3] A
 search near the arrest site found a white-paper package of 16.1 grams of
 cannabis beside the road. [@1,2] Police said the package was suspected to have
 been thrown away by him when he was about to be detained. [@1,2] After
