@@ -21,6 +21,11 @@ media:
     media_url: https://fotografias-2.larazon.es/clipping/cmsimages02/2026/10/26/A1BC7EA6-6D84-4DB4-8813-C4C8C855BA4C/165.jpg?crop%3D1157%2C651%2Cx0%2Cy0%26width%3D1440%26height%3D810%26optimize%3Dlow%26format%3Dwebply
     publisher: La Razón
     caption: 'Still from a Policía Nacional video at the moment of the drug seizure at the Ayamonte farm. Photo: La Razón / Policía Nacional'
+  - kind: video
+    url: https://www.101tv.es/andalucia/detenido-en-ayamonte-tras-hallar-mas-de-cuatro-toneladas-de-hachis-una-parte-oculta-bajo-barras-de-pan/
+    media_url: https://player.instantvideocloud.net/#/embed/ee77cdecb1/99eea422-3bb2-3a2f-f994-2c3e34a21eb0
+    publisher: 101TV
+    caption: 'Video report on the Ayamonte seizure, captioned as showing the Policía Nacional at the moment of the drug seizure on the farm. Video: 101TV / Europa Press'
 details:
   activity: [trafficking, possession]
   agencies: [es-policia-nacional]
@@ -57,6 +62,11 @@ sources:
     publisher: La Razón
     date: 2026-10-26
     language: es
+  - title: Detenido en Ayamonte tras hallar más de cuatro toneladas de hachís, una parte oculta bajo barras de pan
+    url: https://www.101tv.es/andalucia/detenido-en-ayamonte-tras-hallar-mas-de-cuatro-toneladas-de-hachis-una-parte-oculta-bajo-barras-de-pan/
+    publisher: 101TV
+    date: 2026-10-26
+    language: es
 open_questions:
   - The sources give 26 October 2026 as the announcement and publication date but do not specify the exact day of the farm search and arrest.
   - The total is reported only as more than four tonnes or more than 4,000 kg, with no exact weighed total published.
@@ -67,23 +77,22 @@ open_questions:
 
 Spain's Policía Nacional arrested the guard of a farm in Ayamonte, Huelva, as he
 tried to move about 600 kg of hashish in a trailer towed by an off-road vehicle.
-[@1] The man was brought before a judge and remanded in prison as the suspected
+[@1,4] The man was brought before a judge and remanded in prison as the suspected
 custodian for alleged membership of a criminal organisation, drug trafficking
-and unlawful possession of firearms. [@3]
+and unlawful possession of firearms. [@3,4]
 
 Officers seized more than four tonnes of hashish in total at the farm, which
-police described as a drug-storage point for a criminal organisation. [@2]
+police described as a drug-storage point for a criminal organisation. [@2,4]
 Investigators first found more than 1,000 kg inside the underground hide, and
-further searching of the farm brought the total haul to more than 4,000 kg. [@1]
+further searching of the farm brought the total haul to more than 4,000 kg. [@1,4]
 Suspicion was raised by about 100 loaves of bread scattered on the floor where
-no animals were present to explain them. [@2] Police said the hiding place was
+no animals were present to explain them. [@2,4] Police said the hiding place was
 protected with firearms, including a weapon kept ready to fire live ammunition.
 [@2]
 
 The investigation began in 2024 into a criminal network operating in Huelva
 province that stored drugs at concealed premises, known as guarderías, before
-onward distribution. [@2] Police say the network brought large quantities of
+onward distribution. [@2,4] Police say the network brought large quantities of
 hashish and cocaine toward the Huelva coast by fishing boats and high-speed
 launches, then ashore through the Guadiana river for transport to Spain and
-other European countries. [@2]
-
+other European countries. [@2,4]
