@@ -55,36 +55,32 @@ sources:
     url: https://citizen.digital/article/police-arrest-five-in-multi-county-crackdown-on-drugs-and-illicit-alcohol-n393968
     publisher: Citizen Digital
     date: 2026-11-16
-open_questions:
-  - No separate dates are given for the four operations; 16 November 2026 is the publication and NPS-statement date and stands in for the incident date.
-  - The 162 rolls in Kisii and 25 sachets in Mombasa have no stated weights, so they are excluded from the 2.596 kg total, which sums only the 596 grammes and two kilogrammes.
-  - The 100 litres of illicit brew and suspected counterfeit liquor in Machakos are non-cannabis seizures and are excluded from cannabis figures.
-  - No names, ages, charges or court outcome beyond custody pending arraignment were reported.
-  - No laboratory confirmation of the suspected cannabis was reported.
+  - title: Police crack down on narcotics, illicit alcohol in 4 counties, 5 arrested – People Daily
+    url: https://peopledaily.digital/news/police-crack-down-on-narcotics-illicit-alcohol-in-4-counties-5-arrested
+    publisher: People Daily
 ---
 
 The National Police Service conducted coordinated intelligence-led operations
 across Makueni, Kisii, Mombasa and Machakos counties targeting drug trafficking
-and illicit alcohol networks. [@1] Police arrested five suspects across the four
+and illicit alcohol networks. [@1,3] Police arrested five suspects across the four
 counties and placed them in lawful custody pending processing and arraignment.
-[@2]
+[@2,3]
 
 In Makueni County, a multi-agency team raided a shop and a residential house at
 Masonga Market in Kinyambu Location and arrested one suspect linked to the
 premises. [@2] The Makueni search recovered 596 grammes of suspected Cannabis
-sativa, which police gave an estimated street value of KSh 17,880. [@2] Officers
+sativa, which police gave an estimated street value of KSh 17,880. [@2,3] Officers
 also seized rolling materials, a Bajaj motorcycle registration KMEW 618A, and
 KSh 123,830 in cash suspected to be proceeds of crime. [@2] In Kisii County,
 officers raided a residential house at Keumbu Market and recovered two
-kilogrammes of suspected cannabis alongside 162 rolls of the narcotic. [@2]
+kilogrammes of suspected cannabis alongside 162 rolls of the narcotic. [@2,3]
 Officers also seized a weighing scale and packaging materials at the Kisii
 house, pointing to possible distribution activity. [@2]
 
 In Mombasa County, officers from Inuka Police Station and Dongo Kundu Police
 Post intercepted two suspects at Kibundani Village inside an unfinished building
-with 25 sachets of suspected cannabis. [@2] The two Mombasa suspects were
+with 25 sachets of suspected cannabis. [@2,3] The two Mombasa suspects were
 arrested and escorted to Inuka Police Station with the exhibits as
 investigations continued. [@2] In Machakos County, officers from Syokimau Police
 Station arrested two suspects at Kicheko Area Committee Bar and confiscated
-about 100 litres of illicit brew alongside suspected counterfeit alcohol. [@2]
-
+about 100 litres of illicit brew alongside suspected counterfeit alcohol. [@2] The suspected counterfeit liquor seized in Machakos included brands labelled Ridder, Blue Ice, County and Chrome. [@3]
