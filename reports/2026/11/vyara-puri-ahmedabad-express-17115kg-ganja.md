@@ -56,6 +56,11 @@ sources:
     publisher: GSTV
     date: 2026-11-15
     language: gu
+  - title: 'Surat Railway Police : સુરતમાં પુરી-અમદાવાદ એક્સપ્રેસમાંથી ₹8.55 લાખનો ગાંજો મળી આવ્યો, રેલવે પોલીસે તપાસ કરી શરૂ'
+    url: https://growthnownews.com/news/gujarat/surat/crime/puri-ahmedabad-express-17-115-kg-cannabis-seized
+    publisher: Growth Now News
+    date: 2026-11-15
+    language: gu
 media:
   - kind: photo
     url: https://sandesh.com/gujarat/news/surat/railway-police-seizes-unclaimed-ganja-worth-8-55-lakh-from-puri-ahmedabad-express-train
@@ -65,7 +70,7 @@ media:
 ---
 
 Surat railway police and Railway Protection Force staff found 17.115 kg of ganja
-in unclaimed bags aboard the Puri–Ahmedabad Express on 14 November. [@1,2,3,4] The
+in unclaimed bags aboard the Puri–Ahmedabad Express on 14 November. [@1,2,3,4,5] The
 check took place after train number 12843 passed Vyara railway station. [@1]
 
 The cannabis was in a brown trolley bag and a black backpack beneath seats 57 to
