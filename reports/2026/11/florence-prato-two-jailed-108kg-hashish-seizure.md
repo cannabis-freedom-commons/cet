@@ -59,37 +59,42 @@ sources:
     publisher: FirenzeDintorni
     date: 2026-11-16
     language: it
+  - title: 'Rete di spaccio a Firenze e Prato, due uomini in carcere: trovati oltre 100 chili di hashish e cocaina'
+    url: https://www.055firenze.it/art/245003/rete-di-spaccio-firenze-prato-due-uomini-in-carcere-trovati-oltre-100-chili-di-hashish-cocaina
+    publisher: 055Firenze
+    date: 2026-11-16
+    language: it
 ---
 
 In the early hours of Wednesday 11 November, Carabinieri of the Firenze Oltrarno
 operational unit executed a custodial jail order against two foreign men
 seriously suspected of jointly holding drugs in an aggravated large quantity.
-[@1,3] The order was issued by the Florence preliminary-investigations judge at
+[@1,3,4] The order was issued by the Florence preliminary-investigations judge at
 the request of the Florence anti-mafia prosecution after an investigation begun
 on 27 March 2026 into an alleged trafficking ring active between the two
-provinces from March to August. [@1,3]
+provinces from March to August. [@1,3,4]
 
 The investigation began when one suspect fled a Carabinieri stop in Florence by
 car, abandoned the vehicle in an isolated area of Sesto Fiorentino and continued
 on foot. [@1,3] Inside that car officers found two blocks of cocaine weighing two
 kilograms in total, a non-cannabis seizure excluded from the cannabis figures.
-[@1,3] That man fled abroad but his fugitive period ended in July 2026, when he
+[@1,3,4] That man fled abroad but his fugitive period ended in July 2026, when he
 was traced and arrested in France under a European arrest warrant issued by the
 Florence judiciary. [@1,3] The second suspect had come under investigation in May
 after Guardia di Finanza officers arrested him while he held 108 kilograms of
-hashish. [@1]
+hashish. [@1,4]
 
 Although then placed under house arrest, he allegedly continued to buy and
 transfer large consignments of cocaine and hashish. [@1] Investigators also
 reconstructed the role of a foreign woman under investigation for the same
 offences, who allegedly made a rental car and a room in a Florence bed and
-breakfast available to the two men as a base for storing and moving drugs. [@1]
+breakfast available to the two men as a base for storing and moving drugs. [@1,4]
 She allegedly gave the judge a false statement at the validation hearing,
 claiming to be the arrested accomplice's girlfriend and willing to support him,
 in order to obtain house arrest for him. [@1]
 
 During searches officers seized from the woman more than 16,000 euros in cash,
-considered by investigators to be proceeds of the illegal activity. [@2] After
+considered by investigators to be proceeds of the illegal activity. [@2,4] After
 the formalities one of the men was taken to Prato prison, while the man captured
 in France, already held at Florence's Sollicciano prison, was served the new
-measure in prison. [@2]
+measure in prison. [@2,4]
