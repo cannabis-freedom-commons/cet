@@ -61,24 +61,28 @@ sources:
     publisher: Dnevnik.si
     date: 2026-11-17
     language: sl
+  - title: Pri 49-letniku odkrili skrivni nasad konoplje in zasegli skoraj 400 sadik
+    url: https://vecer.com/kronika/pri-49-letniku-odkrili-skrivni-nasad-konoplje-in-zasegli-skoraj-400-sadik-10500038
+    publisher: Večer
+    date: 2026-11-17
+    language: sl
 open_questions:
-  - No date is given for the house search itself; 17 November 2026 is the article's publication date and is used as the incident date.
-  - No weight for the dried marijuana, area for the growing room or value for the seized material was published.
-  - No arrest or detention of the suspect was reported; the case remained at the investigation stage with a complaint to be filed.
-  - No formal charge, plea or court outcome was reported.
-  - The account rests on a single article reproducing the Novo Mesto police administration's statement, and no independent report was located.
+    - No date is given for the house search itself; 17 November 2026 is the article's publication date and is used as the incident date.
+    - No weight for the dried marijuana, area for the growing room or value for the seized material was published.
+    - No arrest or detention of the suspect was reported; the case remained at the investigation stage with a complaint to be filed.
+    - No formal charge, plea or court outcome was reported.
+    - Večer and Dnevnik both reproduce the Novo Mesto police administration's statement, so there is no independent account of the search.
 ---
 
 Novo Mesto criminalists carried out a house search at the home of a 49-year-old
-suspect from Šentjernej under a court order. [@1] The 49-year-old suspect had
+suspect from Šentjernej under a court order. [@1,2] The 49-year-old suspect had
 grown 397 cannabis plants in a laboratory. [@1]
 
 During the search officers found a room adapted for growing illegal drugs, along
-with aids and equipment for cultivating marijuana. [@1] Inside they found and
-seized 397 cannabis plants, dried pieces of marijuana and growing aids. [@1]
+with aids and equipment for cultivating marijuana. [@1,2] Inside they found and
+seized 397 cannabis plants, dried pieces of marijuana and growing aids. [@1,2]
 
 The Novo Mesto police administration said criminalists were continuing the
 investigation into the suspected unauthorised production of and trafficking in
-prohibited drugs. [@1] They said a criminal complaint against the 49-year-old
-suspect would be filed with the competent state prosecutor. [@1]
-
+prohibited drugs. [@1,2] They said a criminal complaint against the 49-year-old
+suspect would be filed with the competent state prosecutor. [@1,2]
