@@ -61,34 +61,42 @@ sources:
     url: https://www.nwahomepage.com/around-arkansas/tennessee-man-arrested-after-illegal-marijuana-seizure-on-i-40-in-lonoke-county/
     publisher: KNWA FOX24
     date: 2026-11-17
+  - title: ASP TRAFFIC STOP ON I-40 LEADS TO SEIZURE OF SUSPECTED ILLEGAL MARIJUANA, ARREST
+    url: https://dps.arkansas.gov/news/asp-traffic-stop-on-i-40-leads-to-seizure-of-suspected-illegal-marijuana-arrest/
+    publisher: Arkansas Department of Public Safety
+    date: 2026-11-16
 open_questions:
-  - The weight is reported only as around 90 pounds, so 40.82 kg is an approximate conversion with no exact weighed figure published.
-  - The material was described only as suspected marijuana with no laboratory confirmation reported.
-  - The Oklahoma origin and Tennessee destination rest on the driver's own statement to investigators.
-  - No bond figure, plea, or court outcome was reported.
-  - The year 2026 is inferred from the November 16, 2026 publication dates for a stop reported as November 14.
+    - The weight is reported only as around 90 pounds, so 40.82 kg is an approximate conversion with no exact weighed figure published.
+    - The material was described only as suspected marijuana with no laboratory confirmation reported.
+    - The Oklahoma origin and Tennessee destination rest on the driver's own statement to investigators.
+    - No bond figure, plea, or court outcome was reported.
 media:
   - kind: photo
     url: https://arkansasradio.com/2026/11/arkansas-state-police-90-pounds-marijuana-i40-carlisle/
     media_url: https://arkansasradio.com/wp-content/uploads/2026/11/carlisle-i40-marijuana-seizure-suv.jpg
     publisher: Arkansas Radio
     caption: Suspected marijuana in the back of the Toyota SUV stopped on I-40 near mile marker 184. Photo courtesy Arkansas State Police
+  - kind: photo
+    url: https://dps.arkansas.gov/news/asp-traffic-stop-on-i-40-leads-to-seizure-of-suspected-illegal-marijuana-arrest/
+    media_url: https://media.ark.org/dps/Marijuana-Seizure-90-lbs.-I-40-Lonoke-Co.-11-14-2026_2-600x428.png
+    publisher: Arkansas Department of Public Safety
+    caption: 'Seized vacuum-sealed packages of suspected marijuana from the 14 November 2026 Interstate 40 traffic stop. Photo: Arkansas State Police / Arkansas Department of Public Safety'
 ---
 
 On 14 November 2026, an Arkansas State Police trooper stopped an eastbound
 Toyota SUV for a traffic violation on Interstate 40 near the 184-mile marker in
-Lonoke County, Arkansas. [@2,3,4,5] The Arkansas State Police was the agency credited
+Lonoke County, Arkansas. [@2,3,4,5,6] The Arkansas State Police was the agency credited
 with the stop, the arrest and the seizure. [@2] The driver was 37-year-old
-Javlon Ilkhamdjanov of Mount Juliet, Tennessee. [@2,3,4,5] He told investigators he
-was travelling from Oklahoma to Tennessee when he was stopped. [@2,3]
+Javlon Ilkhamdjanov of Mount Juliet, Tennessee. [@2,3,4,5,6] He told investigators he
+was travelling from Oklahoma to Tennessee when he was stopped. [@2,3,6]
 
 A search of the SUV found three large bags holding multiple vacuum-sealed
-packages of suspected marijuana. [@2,3,4,5] Police described the load as around 90
-pounds of illegal suspected marijuana, about 40.8 kilograms. [@2] The account is
+packages of suspected marijuana. [@2,3,4,5,6] Police described the load as around 90
+pounds of illegal suspected marijuana, about 40.8 kilograms. [@2,6] The account is
 datelined Carlisle, Arkansas, placing the stop area in Lonoke County on the
 interstate. [@2]
 
 Ilkhamdjanov was taken into custody and transported to the Lonoke County
-Sheriff's Detention Center. [@1,3,4] He was charged with felony possession of a
+Sheriff's Detention Center. [@1,3,4,6] He was charged with felony possession of a
 controlled substance with intent to deliver and possession of drug
-paraphernalia. [@1,4,5]
+paraphernalia. [@1,4,5,6]
