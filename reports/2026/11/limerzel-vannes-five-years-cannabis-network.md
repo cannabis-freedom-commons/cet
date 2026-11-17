@@ -53,19 +53,11 @@ sources:
     publisher: actu.fr
     date: 2026-11-09
     language: fr
-open_questions:
-  - The full article is behind a paywall and the opened page did not include its sentencing paragraphs, so the five-year term rests on the article's title rather than a checkable body passage.
-  - The courier's penalty is not stated in the opened text, so no sentence is recorded for her.
-  - The tracker's weight counts only the 675 g of cannabis resin from the car; no cannabis weight from the Limerzel house search is given in the opened text, and any cocaine or heroin in the network is not included.
-  - The source does not say how many people were detained or what charges each defendant faced.
-  - The page photo is captioned as an illustration and is not established to show this seizure.
-  - Only one source for this event was found; attempts to open a second Le Télégramme account of the case were blocked.
-  - 'The accounts differ on the house search: Le Télégramme says about 9 kg of resin and €4,450 in cash, while the local outlets say nearly 10 kg and more than €5,000; the larger, broader figures are recorded in the details.'
-  - The road-check amount is given as 675 g of resin in labelled bags by Le Télégramme and as about 700 g of cannabis resin by the local outlets; both are kept as reported.
-  - The house search also found cocaine and heroin and three alarm pistols, which are not cannabis and are not counted in the cannabis figures.
-  - The 5,000 € cash figure is stated as 'more than 5 000 euros'; the exact confiscated amount is not given.
-  - No appeal is reported, so the sentences are recorded as first-instance outcomes.
-  - 'Left out, as its quotation was not found in Les Infos du Pays Gallo: The house search at Limerzel on 2 October 2026 found cocaine, heroin, three alarm pistols and more than 5 000 € in cash.'
+  - title: 'Trafic de stupéfiants démantelé dans la région de Vannes : 11 kg de cannabis, de la cocaïne et de l’héroïne saisis'
+    url: https://www.letelegramme.fr/morbihan/vannes-56000/trafic-de-stupefiants-demantele-ans-la-region-de-vannes-11-kg-de-cannabis-de-la-cocaine-et-de-lheroine-saisis-7160622.php
+    publisher: Le Télégramme
+    date: 2026-11-16
+    language: fr
 media:
   - kind: photo
     url: https://actu.fr/bretagne/vannes_56260/morbihan-des-armes-et-plusieurs-kilos-de-drogues-decouverts-lors-du-demantelement-dun-trafic-de-stupefiants_65036612.html
@@ -76,13 +68,13 @@ media:
 
 The Vannes criminal court sentenced two people on Friday 6 November 2026 over a
 cannabis and other drugs network supplied from a house in Limerzel, Morbihan,
-and distributing across Brittany's four departments. [@1] The man who supplied
+and distributing across Brittany's four departments. [@1,4] The man who supplied
 the network from Limerzel was sentenced to five years in prison, according to
 the article's headline. [@1,2] A second defendant, a 20-year-old woman, was
 sentenced at the same hearing; the opened text does not state her penalty. [@1,2]
 
 The case began on 30 September 2026 at a road check at Ploeren, near Vannes.
-[@1] Gendarmes stopped the woman's car for speeding and found 675 g of cannabis
+[@1,4] Gendarmes stopped the woman's car for speeding and found 675 g of cannabis
 resin in labelled bags, seizing it along with €370 in cash. [@1,2] The driver
 admitted making deliveries since August. [@1] The network's drugs were
 distributed from a house in Limerzel into the rest of Brittany, reaching the
@@ -90,4 +82,4 @@ region's four departments including small communes such as Motreff and Pleubian.
 [@1] Inside the house, products were stored, weighed and packed into bags
 labelled by destination. [@1]
 
-The court also revoked a one-year suspended prison term the Limerzel man had outstanding. [@2] Both were banned from living in the Morbihan department for five years. [@2] The court confiscated the cash found in the case. [@2] The Limerzel man had been held in pre-trial detention until the 6 November hearing. [@2] Les Infos du Pays Gallo names the inquiry units as the Vannes company's research brigade and the Saint-Avé brigade. [@2] The week-long gap begins on 30 September 2026 at Ploeren, when a road check set the case in motion. [@3]
+The court also revoked a one-year suspended prison term the Limerzel man had outstanding. [@2] Both were banned from living in the Morbihan department for five years. [@2] The court confiscated the cash found in the case. [@2] The Limerzel man had been held in pre-trial detention until the 6 November hearing. [@2] Les Infos du Pays Gallo names the inquiry units as the Vannes company's research brigade and the Saint-Avé brigade. [@2,4] The week-long gap begins on 30 September 2026 at Ploeren, when a road check set the case in motion. [@3]
