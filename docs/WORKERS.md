@@ -74,7 +74,7 @@ coverage, exactly as when two local jobs race. A new report goes through the usu
    (the backend does not know the workers' slots), and restart it. The reverse proxy must pass
    `/worker/` to the backend and allow uploads of up to 256 MB.
 2. On the worker machine: clone the reports repository, run `npm install` and
-   `npm run browser-install` in it, install OpenCode with its credentials (and ffmpeg for video
+   `npm run browser-install` in it, install OpenCode 2 with its credentials (and ffmpeg for video
    posters).
 3. Copy `backend/worker.example.env`, fill in `TRACKER_URL`, `WORKER_TOKEN`, `REPO_PATH` and the
    research settings, check them with `go run ./cmd/tracker-worker -check-ai`, then start

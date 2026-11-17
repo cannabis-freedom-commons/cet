@@ -2,18 +2,14 @@
 description: Research public cannabis enforcement sources and prepare cited reports for automatic processing
 mode: primary
 steps: 24
-permission:
-  "*": deny
-  read: allow
-  glob: allow
-  grep: allow
-  skill: allow
-  websearch: allow
-  webfetch: allow
-  external_directory: deny
-  bash: deny
-  edit: deny
-  task: deny
+permissions:
+  - { action: "*", resource: "*", effect: deny }
+  - { action: read, resource: "*", effect: allow }
+  - { action: glob, resource: "*", effect: allow }
+  - { action: grep, resource: "*", effect: allow }
+  - { action: skill, resource: "*", effect: allow }
+  - { action: websearch, resource: "*", effect: allow }
+  - { action: webfetch, resource: "*", effect: allow }
 ---
 Read docs/CFI.md, docs/WRITING.md and explicitly load the add-report and find-reports skills.
 Your answer becomes a report file exactly like the ones in examples/: read them first, and write

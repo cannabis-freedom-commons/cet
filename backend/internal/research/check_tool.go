@@ -6,7 +6,6 @@ import (
 	"crypto/subtle"
 	"encoding/hex"
 	"encoding/json"
-	"errors"
 	"fmt"
 	"io"
 	"net"
@@ -17,9 +16,6 @@ import (
 	"sync"
 	"sync/atomic"
 	"time"
-
-	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
-	"gopkg.in/yaml.v3"
 )
 
 // CheckFunc runs the service's own result checks on a proposed answer without publishing anything
@@ -276,7 +272,7 @@ func writeRPC(w http.ResponseWriter, id json.RawMessage, result any, rpcErr *rpc
 
 // addCheckTool points the run's OpenCode configuration at this invocation's check server. It is
 // rewritten on every invocation, because a resumed session gets a new port and token.
-func addCheckTool(input string, s *checkServer, v2 bool) error {
+func addCheckTool(input string, s *checkServer) error {
 	path := filepath.Join(input, "opencode.json")
 	data, err := os.ReadFile(path)
 	if err != nil {
@@ -287,24 +283,16 @@ func addCheckTool(input string, s *checkServer, v2 bool) error {
 		return err
 	}
 	server := map[string]any{"type": "remote", "url": s.URL, "headers": map[string]string{"Authorization": "Bearer " + s.Token}}
-	if v2 {
-		cfg["mcp"] = map[string]any{"servers": map[string]any{CheckToolName: server}}
-		agents, _ := cfg["agents"].(map[string]any)
-		if agent, ok := agents["enforcement-researcher"].(map[string]any); ok {
-			rules, _ := agent["permissions"].([]any)
-			for _, rule := range checkToolRules() {
-				if !hasRule(rules, rule) {
-					rules = append(rules, rule)
-				}
+	cfg["mcp"] = map[string]any{"servers": map[string]any{CheckToolName: server}}
+	agents, _ := cfg["agents"].(map[string]any)
+	if agent, ok := agents["enforcement-researcher"].(map[string]any); ok {
+		rules, _ := agent["permissions"].([]any)
+		for _, rule := range checkToolRules() {
+			if !hasRule(rules, rule) {
+				rules = append(rules, rule)
 			}
-			agent["permissions"] = rules
 		}
-	} else {
-		server["enabled"] = true
-		cfg["mcp"] = map[string]any{CheckToolName: server}
-		if err = allowLegacyCheckTool(input); err != nil {
-			return err
-		}
+		agent["permissions"] = rules
 	}
 	if data, err = json.Marshal(cfg); err != nil {
 		return err
@@ -328,36 +316,4 @@ func hasRule(rules []any, rule map[string]any) bool {
 		}
 	}
 	return false
-}
-
-// allowLegacyCheckTool adds the tool to the legacy agent's frontmatter permissions.
-func allowLegacyCheckTool(input string) error {
-	path := filepath.Join(input, ".opencode", "agents", "enforcement-researcher.md")
-	data, err := os.ReadFile(path)
-	if os.IsNotExist(err) {
-		return nil
-	}
-	if err != nil {
-		return err
-	}
-	parts := frontmatter.Split(string(data))
-	if len(parts) != 3 {
-		return errors.New("research agent instructions are invalid")
-	}
-	var header map[string]any
-	if err = yaml.Unmarshal([]byte(parts[1]), &header); err != nil {
-		return err
-	}
-	permissions, ok := header["permission"].(map[string]any)
-	if !ok {
-		return errors.New("research agent permissions are missing")
-	}
-	for _, tool := range []string{"check_result", "find_reports", "get_report", "find_quote"} {
-		permissions[CheckToolName+"_"+tool] = "allow"
-	}
-	encoded, err := yaml.Marshal(header)
-	if err != nil {
-		return err
-	}
-	return os.WriteFile(path, []byte("---\n"+string(encoded)+"---"+parts[2]), 0644)
 }

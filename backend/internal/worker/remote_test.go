@@ -94,7 +94,7 @@ func TestRemoteWorkerResearchesThroughTheAPI(t *testing.T) {
 	}
 	bin := t.TempDir()
 	answer := store.JSON(map[string]any{"type": "text", "part": map[string]string{"text": store.JSON(good)}})
-	script := "#!/bin/sh\nif [ \"$1\" = --version ]; then echo 1.0.0; exit 0; fi\necho '{\"type\":\"step_finish\",\"part\":{\"tokens\":{\"input\":7,\"output\":3}}}'\ncat <<'RESPONSE'\n" + answer + "\nRESPONSE\n"
+	script := "#!/bin/sh\nif [ \"$1\" = --version ]; then echo opencode v2.2.7; exit 0; fi\nif [ \"$1\" = auth ]; then echo '[]'; exit 0; fi\nif [ \"$1\" = session ]; then exit 0; fi\necho '{\"type\":\"step_finish\",\"part\":{\"tokens\":{\"input\":7,\"output\":3}}}'\ncat <<'RESPONSE'\n" + answer + "\nRESPONSE\n"
 	binary := filepath.Join(bin, "opencode")
 	os.WriteFile(binary, []byte(script), 0755)
 	providerConfig := filepath.Join(bin, "opencode.json")
@@ -107,7 +107,7 @@ func TestRemoteWorkerResearchesThroughTheAPI(t *testing.T) {
 		t.Fatal("no job leased", ok, err)
 	}
 	// the worker has no database: a nil Store would panic on any direct use
-	w := Worker{Backend: client.Job(job), Config: config.Config{RepoPath: repo, Workspaces: t.TempDir(), ResearchRunner: "local", OpenCodeBinary: binary, OpenCodeConfigFile: providerConfig, OpenCodeAuthFile: filepath.Join(bin, "missing-auth.json"), ResearchModel: "fixture/model", RunCents: 1}}
+	w := Worker{Backend: client.Job(job), Config: config.Config{RepoPath: repo, Workspaces: t.TempDir(), ResearchRunner: "local", OpenCodeBinary: binary, OpenCodeConfigFile: providerConfig, ResearchModel: "fixture/model", RunCents: 1}}
 	if err := w.process(ctx, job); err != nil {
 		t.Fatal(err)
 	}

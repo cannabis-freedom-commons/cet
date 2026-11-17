@@ -1017,16 +1017,20 @@ func HasSession(dir string) bool {
 
 // CanResume says whether the workspace's interrupted session can be continued by this model.
 func CanResume(dir, model string) bool {
+	_, ok := resumableMarker(dir, model)
+	return ok
+}
+
+func resumableMarker(dir, model string) (sessionMarker, bool) {
 	m, ok := readMarker(dir)
 	if !ok || m.Model != model || m.Resumes >= MaxResumes {
-		return false
+		return m, false
 	}
-	for _, path := range []string{m.Home, filepath.Join(dir, ".research-input")} {
-		if info, err := os.Stat(path); err != nil || !info.IsDir() {
-			return false
-		}
+	if info, err := os.Stat(m.Home); err != nil || !info.IsDir() {
+		return m, false
 	}
-	return true
+	_, _, err := readAgentInstructions(filepath.Join(dir, ".research-input"), "enforcement-researcher")
+	return m, err == nil
 }
 
 // DiscardSession removes a kept session from its workspace; the logs and evidence stay.
@@ -1117,7 +1121,7 @@ func (s *Session) Correct(ctx context.Context, run, problem string) (result Resu
 // Resume continues the workspace's interrupted session (see CanResume) with a fresh check tool.
 // Its answer, like any other, goes through every service check.
 func (r Runner) Resume(ctx context.Context, cid, dir, run string) (result Result, session *Session, runErr error) {
-	m, ok := readMarker(dir)
+	m, ok := resumableMarker(dir, r.Config.ResearchModel)
 	if !ok {
 		return Result{}, nil, errors.New("no research session to resume")
 	}
@@ -1325,9 +1329,6 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 			}
 			b = []byte(store.JSON(countries))
 		}
-		if path == ".opencode/agents/enforcement-researcher.md" && r.Config.ResearchMaxSteps > 0 {
-			b = regexp.MustCompile(`(?m)^steps: \d+$`).ReplaceAll(b, []byte(fmt.Sprintf("steps: %d", r.Config.ResearchMaxSteps)))
-		}
 		files[path] = b
 		editorial[path] = b
 	}
@@ -1350,7 +1351,6 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 	if err = r.Store.UpdateRun(ctx, run, store.RunUpdate{ContextMode: ptr(r.contextMode())}); err != nil {
 		return Result{}, nil, err
 	}
-	files["opencode.json"] = r.modelConfig()
 	for path, b := range files {
 		target := filepath.Join(input, path)
 		if err = os.MkdirAll(filepath.Dir(target), 0755); err != nil {

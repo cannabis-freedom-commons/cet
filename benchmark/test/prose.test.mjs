@@ -1,9 +1,10 @@
 // The prose judge's rules: places become scores, judges pool with equal weight, a judge's own
 // model is not counted, and a ranking that drops or doubles a text is refused. No model is called.
 import assert from "node:assert/strict";
+import path from "node:path";
 import test from "node:test";
 import { aggregate, entryKey, judgeEntries, proseOf, sameModel, trackerKey, trackerProse } from "../lib/prose-score.mjs";
-import { promptFor, readRanking, rubric, shuffleLabels, textOf } from "../lib/prose.mjs";
+import { judgeFile, promptFor, readRanking, rubric, shuffleLabels, textOf } from "../lib/prose.mjs";
 
 const A = entryKey("c1", "runA", 0);
 const B = entryKey("c1", "runB", 0);
@@ -37,6 +38,15 @@ test("a judge does not score its own model's texts", () => {
   assert.equal(scores.has(A), false);
   assert.equal(scores.get(B).score, 50);
   assert.equal(trackerProse(aggregate([judge("j", "z", [[T, A, B]])])).score, 100);
+});
+
+test("OpenCode judges with the same filename slug have separate rounds and Claude paths stay compatible", () => {
+  const claude = judgeFile({ id: "claude-opus-5-5#medium", tool: "claude" });
+  assert.equal(path.basename(claude), "claude-claude-opus-5-5-medium.json");
+  const first = judgeFile({ id: "opencode@a/b-c#high", tool: "opencode" });
+  const second = judgeFile({ id: "opencode@a-b/c#high", tool: "opencode" });
+  assert.notEqual(first, second);
+  assert.match(path.basename(first), /^opencode-a-b-c-high-[a-f0-9]{12}\.json$/);
 });
 
 test("a ranking must hold every text exactly once", () => {

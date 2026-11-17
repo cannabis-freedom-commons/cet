@@ -46,9 +46,7 @@ func TestLiveAgentUsesCheckTool(t *testing.T) {
 		t.Fatal(err)
 	}
 	r := Runner{Config: config.Config{ResearchRunner: "local", ResearchModel: model, ResearchMaxSteps: 8}}
-	if err = os.WriteFile(filepath.Join(input, "opencode.json"), r.modelConfig(), 0644); err != nil {
-		t.Fatal(err)
-	}
+
 	var calls atomic.Int32
 	r.tool, err = startCheckServer(func(ctx context.Context, res Result) []string {
 		if calls.Add(1) == 1 {

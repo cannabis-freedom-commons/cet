@@ -25,7 +25,8 @@ provider, or driven by another harness, is a different subject and gets its own 
 | `opencode@openrouter/inclusionai/ling-3.2-flash:free` | OpenCode | openrouter | inclusionai/ling-3.2-flash:free |
 | `muse@muse-spark-1.3#xhigh` | Muse | Muse itself | muse-spark-1.3, effort xhigh |
 
-`opencode@` may be left out. The names are the ones `RESEARCH_AGENTS` takes; `opencode models` lists
+`opencode@` may be left out. OpenCode runs require the v2 CLI. The names are the ones
+`RESEARCH_AGENTS` takes; `opencode models` lists
 what OpenCode can reach. The harness version is recorded with every run.
 
 ## How a run works
@@ -160,6 +161,7 @@ npm run benchmark:prose
 
 ```bash
 npm run benchmark:prose -- --model claude-sonnet-5-5 --effort medium --rounds 3
+npm run benchmark:prose -- 'opencode@openai/gpt-6-luna#medium' --rounds 3
 ```
 
 For each case with three or more texts, every text the saved runs wrote on that event, and the
@@ -169,11 +171,14 @@ note each. The rubric is "How it reads" from `docs/WRITING.md` plus a few points
 title and length (`rubric()` in `lib/prose.mjs`); facts and figures are left to the scorer. A text's
 place gives 100 for the best and 0 for the worst.
 
-- **Judges.** A judge is a model and effort (default `claude-opus-5-5` at effort `medium`), run
-  through the Claude Code CLI (`claude -p`), so it uses your Claude login. The call carries only the
-  rubric and the texts: no tools, MCP servers, skills or settings, in an empty folder; the answer is
-  the ranking JSON with a note of at most 12 words a text. Each judge keeps its rounds in
-  `results/prose/claude-<model>-<effort>.json`. Run with another `--model` or `--effort` for another judge.
+- **Judges.** A judge is identified by its harness, model and effort, including the provider for
+  OpenCode. Claude Code uses your Claude login and defaults to `claude-opus-5-5` at effort `medium`.
+  OpenCode 2 uses your configured provider and takes `opencode@provider/model#effort`; omit
+  `#effort` to use the model's default. Use `opencode models` to list model IDs or set
+  `OPENCODE_BIN` to select a different OpenCode executable. Both harnesses run in a temporary
+  directory with tool access denied and return a JSON ranking. Claude rounds are stored in
+  `results/prose/claude-<model>-<effort>.json`, and OpenCode rounds in
+  `results/prose/opencode-<provider>-<model>-<effort>-<hash>.json`.
 - **Repeats.** A case is judged until this judge has `--rounds` rounds (default 1) that showed all of
   its current texts, each in a new order. New runs add texts, so run the command again after them: only
   the cases with new texts are judged again. Raise `--rounds` for a steadier view from one judge.

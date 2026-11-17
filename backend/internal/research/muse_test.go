@@ -120,10 +120,9 @@ func TestOpenCodeArgsBecomeMuseTurn(t *testing.T) {
 	if err := os.MkdirAll(filepath.Join(input, ".opencode", "agents"), 0755); err != nil {
 		t.Fatal(err)
 	}
-	_ = os.WriteFile(filepath.Join(input, ".opencode", "agents", "enforcement-researcher.md"), []byte("---\nsteps: 24\n---\nYou research enforcement.\n"), 0644)
-	_ = os.WriteFile(filepath.Join(input, "opencode.json"), []byte(`{"agent":{"enforcement-probe":{"prompt":"Say OK.","steps":2}},"mcp":{"tracker":{"type":"remote","url":"http://127.0.0.1:1/mcp","headers":{"Authorization":"Bearer t"},"enabled":true}}}`), 0644)
+	_ = os.WriteFile(filepath.Join(input, "opencode.json"), []byte(`{"agents":{"enforcement-probe":{"system":"Say OK.","steps":2},"enforcement-researcher":{"system":"You research enforcement.","steps":24}},"mcp":{"servers":{"tracker":{"type":"remote","url":"http://127.0.0.1:1/mcp","headers":{"Authorization":"Bearer t"}}}}}`), 0644)
 	t.Chdir(input)
-	call, err := parseOpenCodeArgs([]string{"run", "--pure", "--agent", "enforcement-researcher", "--model", "muse/muse-spark-1.3#xhigh", "--format", "json", "Read request.json."})
+	call, err := parseOpenCodeArgs([]string{"run", "--standalone", "--agent", "enforcement-researcher", "--model", "muse/muse-spark-1.3#xhigh", "--format", "json", "Read request.json."})
 	if err != nil {
 		t.Fatal(err)
 	}

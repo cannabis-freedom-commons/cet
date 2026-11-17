@@ -22,25 +22,25 @@ type ResearchAgent struct {
 }
 
 type Config struct {
-	ResearchAgents                                                       []ResearchAgent
-	BingNewsEnabled                                                      bool
-	BingNewsQueries                                                      []harvest.BingNewsQuery
-	BingNewsInterval                                                     time.Duration
-	BingNewsMaxArticles, BingNewsQueriesPerScan                          int
-	GoogleNewsEnabled                                                    bool
-	GoogleNewsQueries                                                    []harvest.GoogleNewsQuery
-	GoogleNewsQueriesPerScan                                             int
-	GoogleNewsInterval                                                   time.Duration
-	GoogleNewsMaxArticles                                                int
-	HarvestQueueTarget                                                   int // waiting research jobs before discovery holds back; -1 = automatic
-	Addr, Database, PublicURL, RepoPath, Workspaces, IngestToken         string
-	Origins, Relays, RSSFeeds, GDELTQueries, TrustedProxies              []string
-	GatewaySecret, BotSecret                                             string
-	ResearchImage, ResearchNetwork, ResearchModel, ResearchKey           string
-	ResearchRunner, OpenCodeBinary, OpenCodeAuthFile, OpenCodeConfigFile string
-	MuseBinary                                                           string // the Muse runtime's executable (MUSE_BIN)
-	AutoPublish                                                          bool
-	AutoPush                                                             bool // push the report repository after each report commit
+	ResearchAgents                                               []ResearchAgent
+	BingNewsEnabled                                              bool
+	BingNewsQueries                                              []harvest.BingNewsQuery
+	BingNewsInterval                                             time.Duration
+	BingNewsMaxArticles, BingNewsQueriesPerScan                  int
+	GoogleNewsEnabled                                            bool
+	GoogleNewsQueries                                            []harvest.GoogleNewsQuery
+	GoogleNewsQueriesPerScan                                     int
+	GoogleNewsInterval                                           time.Duration
+	GoogleNewsMaxArticles                                        int
+	HarvestQueueTarget                                           int // waiting research jobs before discovery holds back; -1 = automatic
+	Addr, Database, PublicURL, RepoPath, Workspaces, IngestToken string
+	Origins, Relays, RSSFeeds, GDELTQueries, TrustedProxies      []string
+	GatewaySecret, BotSecret                                     string
+	ResearchImage, ResearchNetwork, ResearchModel, ResearchKey   string
+	ResearchRunner, OpenCodeBinary, OpenCodeConfigFile           string
+	MuseBinary                                                   string // the Muse runtime's executable (MUSE_BIN)
+	AutoPublish                                                  bool
+	AutoPush                                                     bool // push the report repository after each report commit
 	// RepoSync keeps a report repository nobody edits by hand (a server's clone) level with origin:
 	// pulled before each commit and every few minutes, and pulled again when a push is rejected.
 	RepoSync                                                                    bool
@@ -168,7 +168,6 @@ func Load() (Config, error) {
 	}
 	c.ResearchRunner = env("RESEARCH_RUNNER", "docker")
 	c.OpenCodeBinary = env("OPENCODE_BIN", "opencode")
-	c.OpenCodeAuthFile = os.Getenv("OPENCODE_AUTH_FILE")
 	c.OpenCodeConfigFile = os.Getenv("OPENCODE_CONFIG")
 	c.MuseBinary = env("MUSE_BIN", "muse")
 	var boolErr error

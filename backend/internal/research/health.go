@@ -171,10 +171,7 @@ func (r Runner) probeAttempt(ctx context.Context) (diagnostics ProbeDiagnostics,
 	if err = os.Mkdir(input, 0755); err != nil {
 		return diagnostics, err
 	}
-	if err = os.WriteFile(filepath.Join(input, "opencode.json"), r.modelConfig(), 0644); err != nil {
-		return diagnostics, err
-	}
-	args := []string{"run", "--pure", "--agent", "enforcement-probe", "--model", r.Config.ResearchModel, "--format", "json", probePrompt}
+	args := []string{"run", "--standalone", "--agent", "enforcement-probe", "--model", r.Config.ResearchModel, "--format", "json", probePrompt}
 	probeID := "startup-check"
 	if len(r.Config.ResearchAgents) > 0 {
 		digest := sha256.Sum256([]byte(r.Config.ResearchModel))
@@ -187,9 +184,6 @@ func (r Runner) probeAttempt(ctx context.Context) (diagnostics ProbeDiagnostics,
 	defer cleanup()
 	providerKey = selectedProviderKey(command)
 	diagnostics.Arguments = append([]string(nil), args...)
-	if r.Config.ResearchRunner == "local" && strings.Contains(strings.Join(command.Args, " "), "--standalone") {
-		diagnostics.Arguments = v2Args(args)
-	}
 	version := "container"
 	diagnostics.Version = version
 	if r.Config.ResearchRunner == "local" {

@@ -25,14 +25,11 @@ func (r Runner) copyLocalProvider(home string) (string, error) {
 		if base == "" {
 			base = filepath.Join(userHome(), ".config")
 		}
-		// Keep the old location working, with standard global settings taking precedence.
-		for _, dir := range []string{filepath.Join(userHome(), ".opencode"), filepath.Join(base, "opencode")} {
-			paths = append(paths, filepath.Join(dir, "opencode.json"), filepath.Join(dir, "opencode.jsonc"))
-		}
+		dir := filepath.Join(base, "opencode")
+		paths = append(paths, filepath.Join(dir, "opencode.json"), filepath.Join(dir, "opencode.jsonc"))
 	}
 	providerID := strings.SplitN(r.Config.ResearchModel, "/", 2)[0]
 	var selected map[string]any
-	section := "provider"
 	for _, path := range paths {
 		file, err := os.Open(path)
 		if os.IsNotExist(err) && r.Config.OpenCodeConfigFile == "" {
@@ -51,22 +48,16 @@ func (r Runner) copyLocalProvider(home string) (string, error) {
 		if json.Unmarshal(jsonc.ToJSON(data), &blocks) != nil {
 			return "", errors.New("OpenCode provider configuration must be valid JSON or JSONC")
 		}
-		for _, name := range []string{"provider", "providers"} {
-			var providers map[string]json.RawMessage
-			if raw, ok := blocks[name]; ok && json.Unmarshal(raw, &providers) != nil {
+		var providers map[string]json.RawMessage
+		if raw, ok := blocks["providers"]; ok && json.Unmarshal(raw, &providers) != nil {
+			return "", errors.New("OpenCode provider configuration is invalid")
+		}
+		if raw, ok := providers[providerID]; ok {
+			var provider map[string]any
+			if json.Unmarshal(raw, &provider) != nil {
 				return "", errors.New("OpenCode provider configuration is invalid")
 			}
-			if raw, ok := providers[providerID]; ok {
-				var provider map[string]any
-				if json.Unmarshal(raw, &provider) != nil {
-					return "", errors.New("OpenCode provider configuration is invalid")
-				}
-				if section != name {
-					selected = nil
-				}
-				section = name
-				selected = mergeProviderConfig(selected, provider)
-			}
+			selected = mergeProviderConfig(selected, provider)
 		}
 	}
 	if selected == nil {
@@ -74,19 +65,14 @@ func (r Runner) copyLocalProvider(home string) (string, error) {
 	}
 	// Only provider settings that OpenCode needs to identify and call the model.
 	provider := map[string]any{}
-	fields := []string{"npm", "name", "options", "models", "whitelist", "blacklist", "env"}
-	optionsField := "options"
-	if section == "providers" {
-		fields = []string{"name", "env", "package", "canonical", "compatibility", "settings", "headers", "body", "models"}
-		optionsField = "settings"
-	}
+	fields := []string{"name", "env", "package", "canonical", "compatibility", "settings", "headers", "body", "models"}
 	for _, name := range fields {
 		if value, ok := selected[name]; ok {
 			provider[name] = value
 		}
 	}
 	key := ""
-	if options, ok := provider[optionsField].(map[string]any); ok {
+	if options, ok := provider["settings"].(map[string]any); ok {
 		if value, ok := options["apiKey"].(string); ok {
 			key = value
 			if strings.HasPrefix(value, "{env:") && strings.HasSuffix(value, "}") {
@@ -113,15 +99,15 @@ func (r Runner) copyLocalProvider(home string) (string, error) {
 		}
 	}
 	if key != "" {
-		options, ok := provider[optionsField].(map[string]any)
+		options, ok := provider["settings"].(map[string]any)
 		if !ok {
 			options = map[string]any{}
-			provider[optionsField] = options
+			provider["settings"] = options
 		}
 		options["apiKey"] = "{env:" + providerKeyEnv + "}"
 		provider["env"] = []string{providerKeyEnv}
 	}
-	cfg := map[string]any{"$schema": "https://opencode.ai/config.json", section: map[string]any{providerID: provider}}
+	cfg := map[string]any{"$schema": "https://opencode.ai/config.json", "providers": map[string]any{providerID: provider}}
 	data, err := json.Marshal(cfg)
 	if err != nil {
 		return "", errors.New("OpenCode provider configuration could not be encoded")

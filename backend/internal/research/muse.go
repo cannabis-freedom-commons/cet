@@ -32,9 +32,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
-	"gopkg.in/yaml.v3"
 )
 
 // MuseProvider is the provider part of a Muse model's id ("muse/muse-spark-1.3#xhigh").
@@ -102,8 +100,13 @@ func (r Runner) museCommand(ctx context.Context, input string, args []string) (*
 			return nil, nil, err
 		}
 	}
+	if !resuming {
+		if err = r.configureOpenCode(input); err != nil {
+			return nil, nil, err
+		}
+	}
 	if r.tool != nil {
-		if err = addCheckTool(input, r.tool, false); err != nil {
+		if err = addCheckTool(input, r.tool); err != nil {
 			return nil, nil, err
 		}
 	}
@@ -242,7 +245,7 @@ type museTurn struct {
 func (c openCodeCall) museTurn() (museTurn, error) {
 	home := os.Getenv("HOME")
 	model, effort, _ := strings.Cut(strings.TrimPrefix(c.model, MuseProvider+"/"), "#")
-	instructions, steps, err := agentInstructions(c.agent)
+	instructions, steps, err := readAgentInstructions(".", c.agent)
 	if err != nil {
 		return museTurn{}, err
 	}
@@ -277,53 +280,23 @@ func (c openCodeCall) museTurn() (museTurn, error) {
 	return t, nil
 }
 
-// agentInstructions: an agent's instructions and step limit, from opencode.json (the probe and
-// screen agents) or .opencode/agents/<agent>.md (the researcher)
-func agentInstructions(agent string) (string, int, error) {
-	var cfg struct {
-		Agent map[string]struct {
-			Prompt string `json:"prompt"`
-			Steps  int    `json:"steps"`
-		} `json:"agent"`
-	}
-	if b, err := os.ReadFile("opencode.json"); err == nil && json.Unmarshal(b, &cfg) == nil {
-		if a, ok := cfg.Agent[agent]; ok && a.Prompt != "" {
-			return a.Prompt, a.Steps, nil
-		}
-	}
-	if !regexp.MustCompile(`^[a-z][a-z0-9-]{0,60}$`).MatchString(agent) {
-		return "", 0, errors.New("invalid agent name")
-	}
-	b, err := os.ReadFile(filepath.Join(".opencode", "agents", agent+".md"))
-	if err != nil {
-		return "", 0, fmt.Errorf("agent %s has no instructions", agent)
-	}
-	parts := frontmatter.Split(string(b))
-	if len(parts) != 3 {
-		return "", 0, errors.New("research agent instructions are invalid")
-	}
-	var header struct {
-		Steps int `yaml:"steps"`
-	}
-	_ = yaml.Unmarshal([]byte(parts[1]), &header)
-	return strings.TrimSpace(parts[2]), header.Steps, nil
-}
-
 // museServers: the tool servers named in opencode.json (the tracker's check tool), as Muse's
 // settings name them
 func museServers() map[string]any {
 	var cfg struct {
-		MCP map[string]struct {
-			Type    string            `json:"type"`
-			URL     string            `json:"url"`
-			Headers map[string]string `json:"headers"`
+		MCP struct {
+			Servers map[string]struct {
+				Type    string            `json:"type"`
+				URL     string            `json:"url"`
+				Headers map[string]string `json:"headers"`
+			} `json:"servers"`
 		} `json:"mcp"`
 	}
 	if b, err := os.ReadFile("opencode.json"); err == nil {
 		_ = json.Unmarshal(b, &cfg)
 	}
 	servers := map[string]any{}
-	for name, s := range cfg.MCP {
+	for name, s := range cfg.MCP.Servers {
 		if s.Type == "remote" && s.URL != "" {
 			servers[name] = map[string]any{"type": "streamable-http", "url": s.URL, "headers": s.Headers}
 		}

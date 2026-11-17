@@ -1,46 +1,82 @@
 #!/usr/bin/env node
 // Judge how the report texts read. For each case, every text the runs wrote (and the tracker's own
-// published text) goes to a judging model through the Claude Code CLI, shuffled and without model
-// names; it ranks them best first. Each judge (model + effort) keeps its rounds in
+// published text) goes to a judging model through Claude Code or OpenCode, shuffled and without
+// model names; it ranks them best first. Each judge keeps its rounds in
 // results/prose/<judge>.json; the site pools all judges. See benchmark/README.md, "Prose".
-//
-//   node benchmark/judge-prose.mjs                         judge claude-opus-5-5#medium, 1 round a case
-//   node benchmark/judge-prose.mjs --model claude-sonnet-5-5 --effort medium
-//   node benchmark/judge-prose.mjs --rounds 3              more rounds: one judge's view gets steadier
-//   node benchmark/judge-prose.mjs --cases gy-yaruni-acres --dry-run
-//   node benchmark/judge-prose.mjs --scores                the pooled prose scores, no model called
 //
 // A case is judged again only when it has fewer than --rounds rounds by this judge that showed all
 // of its current texts (new runs add texts), so the command can be run after every new run.
+import { parseArgs } from "node:util";
 import { loadCases } from "./lib/cases.mjs";
+import { askOpenCode, openCodeVersion } from "./lib/prose-opencode.mjs";
 import { aggregate, proseOf, trackerProse } from "./lib/prose-score.mjs";
-import { MIN_TEXTS, askClaude, claudeVersion, collectEntries, fullRounds, judgeId, loadAllJudges, loadJudge, promptFor, readRanking, rubric, rubricHash, saveJudge, shuffleLabels } from "./lib/prose.mjs";
+import { MIN_TEXTS, askClaude, claudeVersion, collectEntries, fullRounds, loadAllJudges, loadJudge, promptFor, readRanking, rubric, rubricHash, saveJudge, shuffleLabels } from "./lib/prose.mjs";
 import { listRuns, loadRun } from "./lib/results.mjs";
-import { BENCH, readJSON } from "./lib/util.mjs";
+import { BENCH, parseSubject, readJSON } from "./lib/util.mjs";
 
-const args = process.argv.slice(2);
-const option = (name, fallback) => {
-  const at = args.indexOf(`--${name}`);
-  return at >= 0 && args[at + 1] && !args[at + 1].startsWith("--") ? args[at + 1] : fallback;
-};
-const model = option("model", "claude-opus-5-5");
-// medium effort and one round by default: the judge only reads and ranks, and each round costs
-// a full read of every text; raise them when a steadier view is worth it
-const effort = option("effort", "medium");
-const target = Math.max(1, Number(option("rounds", 1)));
-const concurrency = Math.max(1, Number(option("concurrency", 2)));
-const only = option("cases", "")?.split(",").filter(Boolean);
+const { values, positionals } = parseArgs({
+  allowPositionals: true,
+  options: {
+    model: { type: "string" },
+    effort: { type: "string" },
+    rounds: { type: "string", default: "1" },
+    concurrency: { type: "string", default: "2" },
+    cases: { type: "string", default: "" },
+    scores: { type: "boolean" },
+    "dry-run": { type: "boolean" },
+    help: { type: "boolean", short: "h" },
+  },
+});
+if (values.help) {
+  console.log(`Usage: npm run benchmark:prose -- [opencode@provider/model#effort] [options]
+
+Without a positional model, use Claude Code with --model (default claude-opus-5-5)
+and --effort (default medium). With OpenCode, put the optional effort in the model spec.
+
+  --cases a,b        judge only these cases
+  --rounds N         complete rounds per case (default 1)
+  --concurrency N    rounds run at once (default 2)
+  --dry-run          list pending rounds without calling a model
+  --scores           print pooled scores without calling a model`);
+  process.exit(0);
+}
+const target = Number(values.rounds);
+const concurrency = Number(values.concurrency);
+const only = values.cases.split(",").filter(Boolean);
 const runs = listRuns().map(loadRun);
 
-if (args.includes("--scores")) {
+if (values.scores) {
   printScores();
   process.exit(0);
 }
 
+let judge;
+try {
+  if (![target, concurrency].every((n) => Number.isInteger(n) && n > 0)) {
+    throw new Error("--rounds and --concurrency need positive integers");
+  }
+  if (positionals.length > 1 || (positionals.length && (values.model !== undefined || values.effort !== undefined))) {
+    throw new Error("Use one OpenCode model spec or the Claude Code --model and --effort options");
+  }
+  if (positionals.length) {
+    const subject = parseSubject(positionals[0]);
+    if (subject.harness !== "opencode") throw new Error("Use opencode@provider/model#effort for an OpenCode judge");
+    judge = { id: subject.id, tool: "opencode", model: `${subject.provider}/${subject.model}`, effort: subject.effort };
+  } else {
+    const model = values.model ?? "claude-opus-5-5";
+    const effort = values.effort ?? "medium";
+    judge = { id: `${model}${effort ? `#${effort}` : ""}`, tool: "claude", model, effort };
+  }
+} catch (error) {
+  console.error(error.message);
+  process.exit(2);
+}
+
+const { id, tool, model, effort } = judge;
+const isOpenCode = tool === "opencode";
 const protocol = readJSON(`${BENCH}/protocol.json`);
 const work = collectEntries(runs, loadCases(only), { reportsCommit: protocol.reports_commit });
-const id = judgeId(model, effort);
-const file = loadJudge(id, { model, effort });
+const file = loadJudge(judge);
 const system = rubric();
 const hash = rubricHash();
 
@@ -51,8 +87,8 @@ for (const { item, entries } of work) {
 }
 
 const chars = jobs.reduce((sum, job) => sum + promptFor(job.item, shuffleLabels(job.entries)).length, 0);
-console.log(`Judge ${id} via the claude CLI · ${work.length} cases with ${MIN_TEXTS} or more texts · ${jobs.length} rounds to run (${target} a case) · about ${Math.round(chars / 4 / 1000)}k input tokens`);
-if (args.includes("--dry-run")) {
+console.log(`Judge ${id} via the ${tool} CLI · ${work.length} cases with ${MIN_TEXTS} or more texts · ${jobs.length} rounds to run (${target} a case) · about ${Math.round(chars / 4 / 1000)}k input tokens`);
+if (values["dry-run"]) {
   for (const job of jobs) console.log(`  ${job.item.id}: ${job.entries.length} texts`);
   process.exit(0);
 }
@@ -62,7 +98,13 @@ if (!jobs.length) {
   process.exit(0);
 }
 
-file.judge.tool_version = claudeVersion();
+try {
+  file.judge.tool_version = isOpenCode ? openCodeVersion() : claudeVersion();
+} catch (error) {
+  console.error(`Could not run OpenCode: ${error.code || error.message}`);
+  process.exit(1);
+}
+const askJudge = isOpenCode ? askOpenCode : askClaude;
 let done = 0;
 let failed = 0;
 const spent = { input: 0, output: 0, usd: 0 };
@@ -75,7 +117,7 @@ async function worker() {
     let lastError;
     for (let attempt = 1; attempt <= 2; attempt += 1) {
       try {
-        const { answer, usage } = await askClaude({ model, effort, system, prompt });
+        const { answer, usage } = await askJudge({ model, effort, system, prompt });
         const { ranking, notes } = readRanking(answer, labelled);
         file.rounds.push({
           case: job.item.id,

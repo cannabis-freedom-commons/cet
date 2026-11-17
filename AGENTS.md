@@ -71,7 +71,7 @@ it never includes unrelated staged changes or calls GitHub to publish. `committe
 remote deployment. Preserve minor discrepancies and missing details in `open_questions` and show
 them on report pages; reject unsupported/untrustworthy events rather than every open question.
 Local failed submissions can be restarted through loopback-only development controls.
-OpenCode is the actual research harness: a sandboxed local CLI for macOS development, or a
+OpenCode 2 is the actual research harness: a sandboxed local CLI for macOS development, or a
 read-only container for deployment. Give it only research-provider credentials, never Nostr
 keys, GitHub credentials or the operational database. Automated report status is assigned by the
 service: `verified` when every retained fact passes a quotation check against opened/captured

@@ -6,11 +6,8 @@ import (
 	"os"
 	"os/exec"
 	"path/filepath"
-	"strings"
 	"testing"
 	"time"
-
-	"gopkg.in/yaml.v3"
 )
 
 func toolOutputAgent(t *testing.T, input string) {
@@ -19,61 +16,40 @@ func toolOutputAgent(t *testing.T, input string) {
 	if err := os.MkdirAll(filepath.Dir(p), 0755); err != nil {
 		t.Fatal(err)
 	}
-	if err := os.WriteFile(p, []byte("---\ndescription: Research sources\nmode: primary\npermission:\n  '*': deny\n  read: allow\n  grep: allow\n  external_directory: deny\n  bash: deny\n  edit: deny\n---\nResearch only.\n"), 0644); err != nil {
+	if err := os.WriteFile(p, []byte("---\ndescription: Research sources\nmode: primary\n---\nResearch only.\n"), 0644); err != nil {
 		t.Fatal(err)
 	}
 }
-func TestToolOutputExternalAccessIsScopedInBothHarnessVersions(t *testing.T) {
-	for _, v2 := range []bool{false, true} {
-		name := "legacy"
-		if v2 {
-			name = "v2"
+func TestToolOutputExternalAccessIsScoped(t *testing.T) {
+	input := t.TempDir()
+	toolOutputAgent(t, input)
+	output := filepath.Join(t.TempDir(), "data/opencode/tool-output")
+	if err := (Runner{}).configureOpenCode(input, output); err != nil {
+		t.Fatal(err)
+	}
+	b, err := os.ReadFile(filepath.Join(input, "opencode.json"))
+	if err != nil {
+		t.Fatal(err)
+	}
+	var cfg struct {
+		Permissions []map[string]string
+		Agents      map[string]struct{ Permissions []map[string]string }
+	}
+	if err := json.Unmarshal(b, &cfg); err != nil {
+		t.Fatal(err)
+	}
+	allows := 0
+	for _, rule := range cfg.Agents["enforcement-researcher"].Permissions {
+		if rule["action"] != "external_directory" || rule["effect"] != "allow" {
+			continue
 		}
-		t.Run(name, func(t *testing.T) {
-			input := t.TempDir()
-			toolOutputAgent(t, input)
-			output := filepath.Join(t.TempDir(), "data/opencode/tool-output")
-			if v2 {
-				if err := configureOpenCode2(input, 24, output); err != nil {
-					t.Fatal(err)
-				}
-				b, _ := os.ReadFile(filepath.Join(input, "opencode.json"))
-				var cfg struct {
-					Permissions []map[string]string
-					Agents      map[string]struct{ Permissions []map[string]string }
-				}
-				if err := json.Unmarshal(b, &cfg); err != nil {
-					t.Fatal(err)
-				}
-				allows := 0
-				for _, rule := range cfg.Agents["enforcement-researcher"].Permissions {
-					if rule["action"] != "external_directory" || rule["effect"] != "allow" {
-						continue
-					}
-					allows++
-					if rule["resource"] != filepath.ToSlash(output)+"/*" {
-						t.Fatal("broad external access", rule)
-					}
-				}
-				if allows != 1 || len(cfg.Agents["enforcement-probe"].Permissions) != 1 || len(cfg.Permissions) != 1 {
-					t.Fatal(cfg)
-				}
-			} else {
-				if err := configureLegacyToolOutput(input, output); err != nil {
-					t.Fatal(err)
-				}
-				b, _ := os.ReadFile(filepath.Join(input, ".opencode/agents/enforcement-researcher.md"))
-				parts := strings.SplitN(string(b), "---", 3)
-				var cfg struct{ Permission map[string]any }
-				if err := yaml.Unmarshal([]byte(parts[1]), &cfg); err != nil {
-					t.Fatal(err)
-				}
-				external := cfg.Permission["external_directory"].(map[string]any)
-				if len(external) != 2 || external["*"] != "deny" || external[filepath.ToSlash(output)+"/*"] != "allow" || cfg.Permission["bash"] != "deny" || cfg.Permission["edit"] != "deny" || !strings.Contains(parts[2], "Research only.") {
-					t.Fatal(cfg)
-				}
-			}
-		})
+		allows++
+		if rule["resource"] != filepath.ToSlash(output)+"/*" {
+			t.Fatal("broad external access", rule)
+		}
+	}
+	if allows != 1 || len(cfg.Agents["enforcement-probe"].Permissions) != 1 || len(cfg.Permissions) != 1 {
+		t.Fatal(cfg)
 	}
 }
 
@@ -97,12 +73,12 @@ func TestNativeV2LoadsScopedToolOutputPermission(t *testing.T) {
 	toolOutputAgent(t, input)
 	home := t.TempDir()
 	output := filepath.Join(home, "data/opencode/tool-output")
-	if err = configureOpenCode2(input, 24, output); err != nil {
+	if err = (Runner{}).configureOpenCode(input, output); err != nil {
 		t.Fatal(err)
 	}
 	cmd := exec.CommandContext(ctx, binary, "debug", "agents", "--standalone")
 	cmd.Dir = input
-	cmd.Env = []string{"PATH=" + os.Getenv("PATH"), "HOME=" + home, "XDG_CONFIG_HOME=" + filepath.Join(home, "config"), "XDG_DATA_HOME=" + filepath.Join(home, "data"), "XDG_CACHE_HOME=" + filepath.Join(home, "cache"), "XDG_STATE_HOME=" + filepath.Join(home, "state"), "CI=true"}
+	cmd.Env = []string{"PATH=" + os.Getenv("PATH"), "HOME=" + home, "XDG_CONFIG_HOME=" + filepath.Join(home, "config"), "XDG_DATA_HOME=" + filepath.Join(home, "data"), "XDG_CACHE_HOME=" + filepath.Join(home, "cache"), "XDG_STATE_HOME=" + filepath.Join(home, "state"), "OPENCODE_CONFIG=" + filepath.Join(input, "opencode.json"), "CI=true"}
 	b, err := cmd.CombinedOutput()
 	if err != nil {
 		t.Fatalf("native config: %v %s", err, b)

@@ -7,22 +7,23 @@ import (
 	"os"
 	"path/filepath"
 	"runtime"
-	"strings"
 	"testing"
 	"time"
 )
 
-func TestV2FlagsUsePrivateServerWithoutLegacyPureFlag(t *testing.T) {
-	args := strings.Join(v2Args([]string{"run", "--pure", "--model", "opencode-go/deepseek-v4.1-flash", "Reply OK"}), " ")
-	if strings.Contains(args, "--pure") || !strings.Contains(args, "--standalone") {
-		t.Fatal(args)
-	}
-	for _, version := range []string{"opencode v2.2.0", "2.2.0", "opencode v2.3.1"} {
+func TestOpenCodeVersionRequiresV2(t *testing.T) {
+	for _, version := range []string{"opencode v2.2.0", "opencode 2.2.0", "v2.2.0", "2.2.0"} {
 		if !openCode2(version) {
-			t.Fatal(version)
+			t.Fatalf("rejected %s", version)
+		}
+	}
+	for _, version := range []string{"1.17.13", "", "opencode v3.0.0"} {
+		if openCode2(version) {
+			t.Fatalf("accepted %q", version)
 		}
 	}
 }
+
 func TestStartupProbeUsesNativeV2CredentialsAndShortPrompt(t *testing.T) {
 	if runtime.GOOS != "darwin" {
 		t.Skip("local macOS adapter")
@@ -70,10 +71,10 @@ func TestV2ConfigurationDeniesToolsExceptResearchReads(t *testing.T) {
 	if err := os.MkdirAll(filepath.Dir(path), 0755); err != nil {
 		t.Fatal(err)
 	}
-	if err := os.WriteFile(path, []byte("---\npermission: legacy\n---\nResearch sources."), 0644); err != nil {
+	if err := os.WriteFile(path, []byte("---\nmode: primary\n---\nResearch sources."), 0644); err != nil {
 		t.Fatal(err)
 	}
-	if err := configureOpenCode2(input, 24); err != nil {
+	if err := (Runner{}).configureOpenCode(input); err != nil {
 		t.Fatal(err)
 	}
 	data, err := os.ReadFile(filepath.Join(input, "opencode.json"))
@@ -106,6 +107,6 @@ func TestV2ConfigurationDeniesToolsExceptResearchReads(t *testing.T) {
 		}
 	}
 	if _, err := os.Stat(path); !os.IsNotExist(err) {
-		t.Fatal("legacy frontmatter still loaded")
+		t.Fatal("source agent file still loaded alongside generated config")
 	}
 }

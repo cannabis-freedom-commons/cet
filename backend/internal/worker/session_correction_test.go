@@ -76,7 +76,7 @@ func TestRejectedAnswerIsCorrectedInSameSession(t *testing.T) {
 		return store.JSON(map[string]any{"type": "text", "part": map[string]string{"text": store.JSON(r)}})
 	}
 	bin := t.TempDir()
-	script := "#!/bin/sh\nif [ \"$1\" = --version ]; then echo 1.0.0; exit 0; fi\nfor a in \"$@\"; do if [ \"$a\" = --continue ]; then cat <<'RESPONSE'\n" + answer(good) + "\nRESPONSE\nexit 0; fi; done\ncat <<'RESPONSE'\n" + answer(bad) + "\nRESPONSE\n"
+	script := "#!/bin/sh\nif [ \"$1\" = --version ]; then echo opencode v2.2.7; exit 0; fi\nif [ \"$1\" = auth ]; then echo '[]'; exit 0; fi\nif [ \"$1\" = session ]; then exit 0; fi\nfor a in \"$@\"; do if [ \"$a\" = --continue ]; then cat <<'RESPONSE'\n" + answer(good) + "\nRESPONSE\nexit 0; fi; done\ncat <<'RESPONSE'\n" + answer(bad) + "\nRESPONSE\n"
 	binary := filepath.Join(bin, "opencode")
 	if err := os.WriteFile(binary, []byte(script), 0755); err != nil {
 		t.Fatal(err)
@@ -85,7 +85,7 @@ func TestRejectedAnswerIsCorrectedInSameSession(t *testing.T) {
 	if err := os.WriteFile(providerConfig, []byte(`{}`), 0600); err != nil {
 		t.Fatal(err)
 	}
-	w := Worker{Store: s, Config: config.Config{RepoPath: repo, Workspaces: t.TempDir(), ResearchRunner: "local", OpenCodeBinary: binary, OpenCodeConfigFile: providerConfig, OpenCodeAuthFile: filepath.Join(bin, "missing-auth.json"), ResearchModel: "fixture/model", RunCents: 1}}
+	w := Worker{Store: s, Config: config.Config{RepoPath: repo, Workspaces: t.TempDir(), ResearchRunner: "local", OpenCodeBinary: binary, OpenCodeConfigFile: providerConfig, ResearchModel: "fixture/model", RunCents: 1}}
 	job, err := s.Claim(ctx, "jobs", time.Minute)
 	if err != nil {
 		t.Fatal(err)
@@ -182,7 +182,7 @@ func TestInterruptedRunResumesSessionAndUsesCheckTool(t *testing.T) {
 	// tool about the bad answer and return the good one only if the tool rejected it.
 	step := `{"type":"step_finish","part":{"tokens":{"input":1,"output":1}}}`
 	call := store.JSON(map[string]any{"jsonrpc": "2.0", "id": 1, "method": "tools/call", "params": map[string]any{"name": "check_result", "arguments": map[string]any{"result": bad}}})
-	script := "#!/bin/sh\nif [ \"$1\" = --version ]; then echo 1.0.0; exit 0; fi\nfor a in \"$@\"; do if [ \"$a\" = --continue ]; then\n" +
+	script := "#!/bin/sh\nif [ \"$1\" = --version ]; then echo opencode v2.2.7; exit 0; fi\nif [ \"$1\" = auth ]; then echo '[]'; exit 0; fi\nif [ \"$1\" = session ]; then exit 0; fi\nfor a in \"$@\"; do if [ \"$a\" = --continue ]; then\n" +
 		"url=$(grep -o '\"url\":\"[^\"]*' opencode.json | cut -d'\"' -f4)\n" +
 		"auth=$(grep -o '\"Authorization\":\"[^\"]*' opencode.json | cut -d'\"' -f4)\n" +
 		"reply=$(/usr/bin/curl -s -H \"Authorization: $auth\" -H 'Content-Type: application/json' --data-binary @- \"$url\" <<'CALL'\n" + call + "\nCALL\n)\n" +
@@ -196,7 +196,7 @@ func TestInterruptedRunResumesSessionAndUsesCheckTool(t *testing.T) {
 	if err := os.WriteFile(providerConfig, []byte(`{}`), 0600); err != nil {
 		t.Fatal(err)
 	}
-	w := Worker{Store: s, Config: config.Config{RepoPath: repo, Workspaces: t.TempDir(), ResearchRunner: "local", OpenCodeBinary: binary, OpenCodeConfigFile: providerConfig, OpenCodeAuthFile: filepath.Join(bin, "missing-auth.json"), ResearchModel: "fixture/model", RunCents: 1}}
+	w := Worker{Store: s, Config: config.Config{RepoPath: repo, Workspaces: t.TempDir(), ResearchRunner: "local", OpenCodeBinary: binary, OpenCodeConfigFile: providerConfig, ResearchModel: "fixture/model", RunCents: 1}}
 	job, err := s.Claim(ctx, "jobs", time.Minute)
 	if err != nil {
 		t.Fatal(err)
@@ -318,7 +318,7 @@ func TestInlineContextReachesTheAgent(t *testing.T) {
 	bin := t.TempDir()
 	// The answer is good only if the first message carries the request and the page, the skills
 	// are absent and the system prompt holds the editorial rules.
-	script := "#!/bin/sh\nif [ \"$1\" = --version ]; then echo 1.0.0; exit 0; fi\n" +
+	script := "#!/bin/sh\nif [ \"$1\" = --version ]; then echo opencode v2.2.7; exit 0; fi\nif [ \"$1\" = auth ]; then echo '[]'; exit 0; fi\nif [ \"$1\" = session ]; then exit 0; fi\n" +
 		"for a in \"$@\"; do last=\"$a\"; done\n" +
 		"case \"$last\" in *'<request>'*'<source_text>'*'Police arrested two men at the farm.'*) ok=1;; *) ok=0;; esac\n" +
 		"[ -e .claude/skills ] && ok=0\n" +
@@ -332,7 +332,7 @@ func TestInlineContextReachesTheAgent(t *testing.T) {
 	if err := os.WriteFile(providerConfig, []byte(`{}`), 0600); err != nil {
 		t.Fatal(err)
 	}
-	w := Worker{Store: s, Config: config.Config{RepoPath: repo, Workspaces: t.TempDir(), ResearchRunner: "local", OpenCodeBinary: binary, OpenCodeConfigFile: providerConfig, OpenCodeAuthFile: filepath.Join(bin, "missing-auth.json"), ResearchModel: "fixture/model", RunCents: 1, ResearchContext: "inline"}}
+	w := Worker{Store: s, Config: config.Config{RepoPath: repo, Workspaces: t.TempDir(), ResearchRunner: "local", OpenCodeBinary: binary, OpenCodeConfigFile: providerConfig, ResearchModel: "fixture/model", RunCents: 1, ResearchContext: "inline"}}
 	job, err := s.Claim(ctx, "jobs", time.Minute)
 	if err != nil {
 		t.Fatal(err)

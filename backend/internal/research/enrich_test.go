@@ -43,7 +43,7 @@ func TestEnrichAddsOnlyQuotedValuesAndReportsConflicts(t *testing.T) {
 	answer := `{"figures":{"arrested":2,"kg_seized":40},"details":{"agencies":["th-oncb"],"setting":["farm"],"case_stage":"charged"},"data_quotes":[{"field":"figures.arrested","source":1,"quote":"Two men were arrested"},{"field":"figures.kg_seized","source":1,"quote":"40 kilograms of marijuana"},{"field":"details.agencies","source":1,"quote":"the ONCB said"},{"field":"details.setting","source":1,"quote":"raided the farm"},{"field":"details.case_stage","source":1,"quote":"they were charged in court"}]}`
 	event := `{"type":"text","part":{"text":` + quoteJSON(answer) + `}}`
 	bin := t.TempDir()
-	script := "#!/bin/sh\nif [ \"$1\" = --version ]; then echo 1.0.0; exit 0; fi\ncat <<'RESPONSE'\n" + event + "\nRESPONSE\n"
+	script := "#!/bin/sh\nif [ \"$1\" = --version ]; then echo opencode v2.2.7; exit 0; fi\nif [ \"$1\" = auth ]; then echo '[]'; exit 0; fi\nif [ \"$1\" = session ]; then exit 0; fi\ncat <<'RESPONSE'\n" + event + "\nRESPONSE\n"
 	if err = os.WriteFile(filepath.Join(bin, "opencode"), []byte(script), 0755); err != nil {
 		t.Fatal(err)
 	}
@@ -51,7 +51,7 @@ func TestEnrichAddsOnlyQuotedValuesAndReportsConflicts(t *testing.T) {
 	if err = os.WriteFile(empty, []byte(`{}`), 0600); err != nil {
 		t.Fatal(err)
 	}
-	r := Runner{Config: config.Config{ResearchRunner: "local", OpenCodeBinary: filepath.Join(bin, "opencode"), OpenCodeConfigFile: empty, OpenCodeAuthFile: filepath.Join(bin, "none"), ResearchModel: "fixture/model", Workspaces: filepath.Join(dir, "jobs")}}
+	r := Runner{Config: config.Config{ResearchRunner: "local", OpenCodeBinary: filepath.Join(bin, "opencode"), OpenCodeConfigFile: empty, ResearchModel: "fixture/model", Workspaces: filepath.Join(dir, "jobs")}}
 	page := safeurl.Evidence{URL: "https://news.example/a", Content: "Police raided the farm in the province. Two men were arrested and 40 kilograms of marijuana were seized, the ONCB said."}
 	got, err := r.Enrich(context.Background(), dir, rel, map[int]safeurl.Evidence{1: page})
 	if err != nil {

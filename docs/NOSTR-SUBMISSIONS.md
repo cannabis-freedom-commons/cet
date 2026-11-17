@@ -23,7 +23,7 @@ npm run dev
 ```
 
 `backend-dev` loads the ignored root `.env` and starts Go on `127.0.0.1:8080`. It defaults to
-the locally installed OpenCode CLI, automatic publication, and private state under
+the locally installed OpenCode 2 CLI, automatic publication, and private state under
 `backend/data/`. Set `RESEARCH_AGENTS` in `.env` (or the process environment) to choose provider/models and their
 worker limits, including `#effort` when known. The legacy `RESEARCH_MODEL` plus
 `WORKER_CONCURRENCY` configuration remains supported. There is no built-in model default;
@@ -56,13 +56,11 @@ Keep `.env` mode 0600 and out of Git. Never prefix a secret with `PUBLIC_`.
 The local runner uses OpenCode’s saved credentials. It also loads the selected provider’s
 endpoint, model definitions and options from `~/.config/opencode/opencode.json` or
 `opencode.jsonc` (under `$XDG_CONFIG_HOME` when set), or the file named by `OPENCODE_CONFIG`.
-JSONC comments and trailing commas are supported. The legacy `~/.opencode/opencode.json(c)`
-location remains supported; standard global settings override it, and JSONC overrides matching
-JSON settings while retaining other provider/model settings. OpenCode 1's `provider`/`options`
-and OpenCode 2's `providers`/`settings` definitions are imported in their native format,
+JSONC supports comments and trailing commas and overrides matching JSON settings while retaining
+other provider and model settings. The service imports native `providers`/`settings` definitions,
 including custom runtime packages and model reasoning variants. Only that provider is imported
 into the isolated session; home agents, plugins, permissions and unrelated provider credentials
-are not imported. A provider key from `options.apiKey` (v1), `settings.apiKey` (v2), a
+are not imported. A provider key from `settings.apiKey`, a
 `{env:NAME}` reference, or the selected provider's `env` list is passed privately to the harness and redacted from
 startup diagnostics and public activity. The provider config stays outside the evidence input.
 `RESEARCH_AGENTS` (or legacy `RESEARCH_MODEL`) selects the provider/models; restart the backend after changing either.
@@ -74,9 +72,7 @@ imports only the supported search integrations and lets OpenCode switch provider
 Unconnected search services retain OpenCode's normal anonymous/availability behavior; a saved
 connection does not remove the provider's account limits. Credential contents never enter logs
 or `.env`. Search credentials are imported even when the model uses an inline provider key.
-OpenCode 1 copies only the selected provider from its
-legacy auth file (`OPENCODE_AUTH_FILE` can override that file). Local mode does not require
-`RESEARCH_API_KEY`. Docker deployments can provide a dedicated provider key.
+Docker deployments can provide a dedicated provider key via `RESEARCH_API_KEY`.
 On every backend start, the service checks the binary/version and runs a short, no-tool
 `opencode run` prompt asking each selected model to reply `OK`. Each agent starts accepting jobs only after its own
 test passes; a failed agent does not pause the agents that passed. A successful non-empty assistant reply establishes connectivity; the requested
@@ -95,12 +91,11 @@ diagnostics are excluded from public health/config JSON.
 Restart `backend-dev` after changing environment settings or saved auth. `/v1/config` and the public request
 register explicitly report the binary/model startup check and any unavailable research configuration.
 
-The harness is **OpenCode**, not a replacement direct-LLM client. The local runner detects the
-installed version and uses native OpenCode 2 configuration with `run --standalone`, or legacy
-OpenCode 1 configuration with `run --pure`. Both select the researcher agent, configured model
-and JSON stream in a disposable read-only evidence workspace. A functional startup prompt,
-rather than an exact local version number, decides readiness. The optional Docker image pins
-OpenCode 1.17.13 for reproducible deployment.
+The local runner requires **OpenCode 2**. Both runners call `opencode run --standalone` with the
+researcher agent, configured model and JSON stream in a disposable read-only evidence workspace.
+The local startup prompt checks connectivity for the installed v2 release. The Docker image pins
+OpenCode 2.2.7 for reproducible deployment.
+Interrupted OpenCode 1 sessions restart research when their jobs retry.
 OpenCode's researcher agent and editorial skills drive source research and the final structured
 artifact. The service independently checks source access, quotations, output schema and builds.
 
@@ -507,7 +502,8 @@ Operator resolution commands remain optional repair tools, not approval gates.
 ## Docker deployment
 
 Set `RESEARCH_RUNNER=docker`, a digest-pinned `RESEARCH_IMAGE`, restricted `RESEARCH_NETWORK`,
-model and provider key. Build `backend/research-image/` with OpenCode 1.17.13. The container gets
+model and provider key. Build `backend/research-image/` and update `RESEARCH_IMAGE` to its new
+digest. The image verifies the OpenCode 2.2.7 release archive for amd64 or arm64. The container gets
 only the explicit read-only research snapshot and provider key, never `.git`, SQLite, Nostr or
 GitHub credentials. Use a dedicated non-root host/service, persistent private disk, TLS proxy,
 secret environment configuration, restart management and tested backups. The intake-only

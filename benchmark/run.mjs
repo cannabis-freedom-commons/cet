@@ -12,7 +12,7 @@ import { collectCase } from "./lib/collect.mjs";
 import { buildRun, listRuns, loadRaw, loadRun, printRun, saveRaw, saveRun } from "./lib/results.mjs";
 import { finalOutcome, scoreCase } from "./lib/score.mjs";
 import { createSnapshot } from "./lib/snapshot.mjs";
-import { BENCH, REPO, WORK, git, parseSubject, readJSON, sha, sleep, slugify } from "./lib/util.mjs";
+import { BENCH, REPO, WORK, git, isOpenCode2, parseSubject, readJSON, sha, sleep, slugify } from "./lib/util.mjs";
 
 function usage(message) {
   if (message) console.error(`${message}\n`);
@@ -205,6 +205,9 @@ async function main() {
   const commit = (await git(REPO, "rev-parse", "HEAD")).trim();
   const dirty = (await git(REPO, "status", "--porcelain", "--", "backend", "docs", ".opencode", ".claude", "src/data", "scripts")).trim() !== "";
   subject.harness_version = await harnessVersion(subject.harness);
+  if (subject.harness === "opencode" && !isOpenCode2(subject.harness_version)) {
+    usage("OpenCode 2 is required. Install it or set OPENCODE_BIN to a v2 executable.");
+  }
   const started = new Date();
   const stamp = started.toISOString().replace(/[-:]/g, "").replace("T", "-").slice(0, 13);
   const id = earlier ? earlier.run.id : `${stamp}-${slugify(subject.id)}`;

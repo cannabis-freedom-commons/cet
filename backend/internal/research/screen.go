@@ -62,10 +62,7 @@ func (r Runner) Screen(ctx context.Context, cid, dir, run string, e safeurl.Evid
 		return ScreenVerdict{}, err
 	}
 	defer os.RemoveAll(input)
-	if err := os.WriteFile(filepath.Join(input, "opencode.json"), r.modelConfig(), 0644); err != nil {
-		return ScreenVerdict{}, err
-	}
-	args := []string{"run", "--pure", "--agent", "enforcement-screen", "--model", r.Config.ResearchModel, "--format", "json", screenPrompt(e, text)}
+	args := []string{"run", "--standalone", "--agent", "enforcement-screen", "--model", r.Config.ResearchModel, "--format", "json", screenPrompt(e, text)}
 	cmd, cleanup, err := r.commandArgs(ctx, input, run+"-screen", args)
 	if err != nil {
 		return ScreenVerdict{}, err

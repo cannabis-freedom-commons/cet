@@ -130,9 +130,7 @@ func (r Runner) Enrich(ctx context.Context, repo, rel string, opened map[int]saf
 	if len(agentParts) != 3 {
 		return out, errors.New("research agent instructions are invalid")
 	}
-	header2 := regexp.MustCompile(`(?m)^steps: \d+$`).ReplaceAllString(agentParts[1], "steps: 12")
-	files[".opencode/agents/enforcement-researcher.md"] = []byte("---" + header2 + "---\n" + enrichInstruction + structured)
-	files["opencode.json"] = r.modelConfig()
+	files[".opencode/agents/enforcement-researcher.md"] = []byte("---" + agentParts[1] + "---\n" + enrichInstruction + structured)
 	for name, content := range files {
 		target := filepath.Join(input, name)
 		if err = os.MkdirAll(filepath.Dir(target), 0755); err != nil {

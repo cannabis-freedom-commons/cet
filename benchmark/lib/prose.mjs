@@ -1,7 +1,6 @@
 // The prose judge: gathers every report text the runs wrote for a case, shows them to a judging
 // model without model names and in a shuffled order, and records its ranking. Scoring is in
-// prose-score.mjs. The judge is run through the Claude Code CLI (`claude -p`), so it uses the
-// login of whoever runs it and any model that CLI accepts.
+// prose-score.mjs. Each harness uses the model and credentials configured by whoever runs it.
 import { execFileSync, spawn } from "node:child_process";
 import fs from "node:fs";
 import os from "node:os";
@@ -220,17 +219,19 @@ export function claudeVersion() {
   }
 }
 
-// a judge is the model and effort; its file keeps all its rounds
-export const judgeId = (model, effort) => `${model}${effort ? `#${effort}` : ""}`;
-export const judgeFile = (id) => path.join(PROSE, `${slugify(`claude-${id}`)}.json`);
+// Keep existing Claude IDs and paths so previously judged cases can be resumed.
+export function judgeFile({ id, tool }) {
+  const name = tool === "opencode" ? `${slugify(id)}-${sha(id).slice(0, 12)}` : slugify(`claude-${id}`);
+  return path.join(PROSE, `${name}.json`);
+}
 
-export function loadJudge(id, meta) {
-  return readJSON(judgeFile(id), null) || { schema: 1, judge: { id, tool: "claude", ...meta }, rounds: [] };
+export function loadJudge(judge) {
+  return readJSON(judgeFile(judge), null) || { schema: 1, judge, rounds: [] };
 }
 
 export function saveJudge(file) {
   fs.mkdirSync(PROSE, { recursive: true });
-  fs.writeFileSync(judgeFile(file.judge.id), JSON.stringify(file, null, 1) + "\n");
+  fs.writeFileSync(judgeFile(file.judge), JSON.stringify(file, null, 1) + "\n");
 }
 
 export function loadAllJudges() {

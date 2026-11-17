@@ -34,6 +34,8 @@ export function readJSON(file, fallback) {
 
 export const sha = (text) => createHash("sha256").update(text).digest("hex");
 
+export const isOpenCode2 = (version) => /^(?:opencode\s+)?v?2\./i.test(version.trim());
+
 export function freePort() {
   return new Promise((resolve, reject) => {
     const server = net.createServer();

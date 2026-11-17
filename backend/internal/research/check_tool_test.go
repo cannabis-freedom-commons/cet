@@ -77,12 +77,12 @@ func TestCheckToolConfigurationAllowsOnlyItsServer(t *testing.T) {
 	if err := os.WriteFile(filepath.Join(input, ".opencode", "agents", "enforcement-researcher.md"), []byte("---\nmode: primary\npermission:\n  read: allow\n---\nInstructions.\n"), 0644); err != nil {
 		t.Fatal(err)
 	}
-	if err := configureOpenCode2(input, 10); err != nil {
+	if err := (Runner{}).configureOpenCode(input); err != nil {
 		t.Fatal(err)
 	}
 	s := &checkServer{URL: "http://127.0.0.1:1234/mcp", Token: "secret"}
 	for range 2 { // rewritten on resume without duplicating rules
-		if err := addCheckTool(input, s, true); err != nil {
+		if err := addCheckTool(input, s); err != nil {
 			t.Fatal(err)
 		}
 	}
@@ -129,6 +129,13 @@ func TestResumableSessionMarker(t *testing.T) {
 		}
 	}
 	if err := writeMarker(dir, sessionMarker{Home: home, Model: "p/m"}); err != nil {
+		t.Fatal(err)
+	}
+	if CanResume(dir, "p/m") {
+		t.Fatal("resumed a session without a native agent configuration")
+	}
+	if err := os.WriteFile(filepath.Join(dir, ".research-input", "opencode.json"),
+		[]byte(`{"agents":{"enforcement-researcher":{"system":"Research the source."}}}`), 0600); err != nil {
 		t.Fatal(err)
 	}
 	if !CanResume(dir, "p/m") || CanResume(dir, "p/other") {

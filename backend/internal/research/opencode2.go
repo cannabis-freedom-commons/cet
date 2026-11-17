@@ -5,12 +5,14 @@ import (
 	"context"
 	"encoding/json"
 	"errors"
-	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
-	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
+	"fmt"
 	"os"
 	"os/exec"
 	"path/filepath"
 	"strings"
+
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/proc"
 )
 
 func localVersion(ctx context.Context, binary string) (string, error) {
@@ -22,20 +24,8 @@ func localVersion(ctx context.Context, binary string) (string, error) {
 	return strings.TrimSpace(string(out)), nil
 }
 func openCode2(version string) bool {
-	return strings.HasPrefix(strings.TrimPrefix(strings.TrimSpace(version), "opencode "), "v2.") || strings.HasPrefix(strings.TrimSpace(version), "2.")
-}
-func v2Args(args []string) []string {
-	out := []string{}
-	for _, arg := range args {
-		if arg == "--pure" {
-			continue
-		}
-		out = append(out, arg)
-		if arg == "run" {
-			out = append(out, "--standalone")
-		}
-	}
-	return out
+	release := strings.TrimPrefix(strings.TrimSpace(version), "opencode ")
+	return strings.HasPrefix(strings.TrimPrefix(release, "v"), "2.")
 }
 
 // Import only the model and configured search integrations. The research server
@@ -69,7 +59,7 @@ func (r Runner) importOpenCode2Auth(ctx context.Context, binary string, command 
 // Native scoped exports keep credentials out of environment variables, evidence,
 // and logs. An unconnected search integration exports an empty list.
 func importOpenCode2Credential(ctx context.Context, binary string, command *exec.Cmd, target string) error {
-	export := proc.Own(exec.CommandContext(ctx, binary, "auth", "export", target))
+	export := proc.Own(exec.CommandContext(ctx, binary, "auth", "export", target, "--standalone"))
 	// This short native credential read uses the user's normal OpenCode auth. None
 	// of the exported bytes or command diagnostics are public or written to logs.
 	export.Env = []string{"PATH=" + os.Getenv("PATH"), "HOME=" + userHome()}
@@ -103,7 +93,8 @@ func importOpenCode2Credential(ctx context.Context, binary string, command *exec
 func userHome() string { home, _ := os.UserHomeDir(); return home }
 
 // Write native v2 configuration only in the disposable evidence snapshot.
-func configureOpenCode2(input string, steps int, toolOutput ...string) error {
+func (r Runner) configureOpenCode(input string, toolOutput ...string) error {
+	steps := r.Config.ResearchMaxSteps
 	if steps <= 0 {
 		steps = 24
 	}
@@ -130,7 +121,7 @@ func configureOpenCode2(input string, steps int, toolOutput ...string) error {
 			return errors.New("research agent instructions are invalid")
 		}
 		agents["enforcement-researcher"] = map[string]any{"description": "Research enforcement sources", "mode": "primary", "steps": steps, "permissions": rules, "system": strings.TrimSpace(parts[2])}
-		// Avoid merging deprecated agent frontmatter into the native v2 definition.
+		// Load only the generated definition in this workspace.
 		if err = os.Remove(path); err != nil {
 			return err
 		}
@@ -138,9 +129,51 @@ func configureOpenCode2(input string, steps int, toolOutput ...string) error {
 		return err
 	}
 	cfg := map[string]any{"$schema": "https://opencode.ai/config.json", "snapshots": false, "permissions": deny, "agents": agents}
+	if r.Config.ResearchRunner == "docker" {
+		search := r.Config.ResearchWebSearch
+		if search == "" {
+			search = "exa"
+		}
+		cfg["websearch"] = map[string]string{"provider": search}
+		provider, model, _ := strings.Cut(r.Config.ResearchModel, "/")
+		model, _, _ = strings.Cut(model, "#")
+		if provider == "opencode-go" && model != "" {
+			cfg["policies"] = []map[string]string{
+				{"action": "provider.use", "resource": "*", "effect": "deny"},
+				{"action": "provider.use", "resource": provider, "effect": "allow"},
+			}
+			cfg["providers"] = map[string]any{provider: map[string]any{
+				"name": "OpenCode Go", "package": "@opencode/ai/providers/openai-compatible",
+				"settings": map[string]string{"baseURL": "https://opencode.ai/inference/go/openai/v1", "apiKey": "{env:RESEARCH_API_KEY}"},
+				"models":   map[string]any{model: map[string]string{"name": model}},
+			}}
+		}
+	}
 	data, err := json.Marshal(cfg)
 	if err != nil {
 		return err
 	}
 	return os.WriteFile(filepath.Join(input, "opencode.json"), data, 0644)
+}
+
+// readAgentInstructions reads the agent definition from a prepared research workspace.
+func readAgentInstructions(input, agent string) (string, int, error) {
+	var cfg struct {
+		Agents map[string]struct {
+			System string `json:"system"`
+			Steps  int    `json:"steps"`
+		} `json:"agents"`
+	}
+	b, err := os.ReadFile(filepath.Join(input, "opencode.json"))
+	if err != nil {
+		return "", 0, err
+	}
+	if err = json.Unmarshal(b, &cfg); err != nil {
+		return "", 0, err
+	}
+	a := cfg.Agents[agent]
+	if a.System == "" {
+		return "", 0, fmt.Errorf("agent %s has no instructions", agent)
+	}
+	return a.System, a.Steps, nil
 }

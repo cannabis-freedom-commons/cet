@@ -446,7 +446,7 @@ privacy, backups, research isolation and rollout requirements. Use `backend/conf
 for private service configuration and `.env.example` for public-only Astro build settings.
 For JavaScript-rendered sources and archived screenshots/SEO metadata, install Chromium once with
 `npm run browser-install` (`SOURCE_BROWSER=true` by default).
-Local `backend-dev` loads the ignored root `.env`; it uses OpenCode’s saved credentials and the `RESEARCH_MODEL` set in `.env` or the process environment (`provider/model#effort` when the effort setting is known). There is no built-in model default. Do not prefix secrets with `PUBLIC_`. The form
+Local `backend-dev` loads the ignored root `.env`; it uses OpenCode 2’s saved credentials and the `RESEARCH_MODEL` set in `.env` or the process environment (`provider/model#effort` when the effort setting is known). There is no built-in model default. Do not prefix secrets with `PUBLIC_`. The form
 stays unavailable in production until `PUBLIC_SUBMISSIONS_API_URL` is set. For local work, run
 `npm run backend-dev` and `npm run dev` in separate terminals; the frontend connects to localhost automatically. Never include service secrets in an
 Astro build. Backend checks: `cd backend && go test -race ./... && go vet ./...`.

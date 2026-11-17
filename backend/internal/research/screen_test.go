@@ -76,7 +76,7 @@ func TestScreenRunsOneToolFreeCall(t *testing.T) {
 	}
 	bin := t.TempDir()
 	reply := store.JSON(map[string]any{"type": "text", "part": map[string]string{"text": `{"in_scope":"no","reason":"A heroin seizure; no cannabis is involved."}`}})
-	script := "#!/bin/sh\nif [ \"$1\" = --version ]; then echo 1.0.0; exit 0; fi\n" +
+	script := "#!/bin/sh\nif [ \"$1\" = --version ]; then echo opencode v2.2.7; exit 0; fi\nif [ \"$1\" = auth ]; then echo '[]'; exit 0; fi\nif [ \"$1\" = session ]; then exit 0; fi\n" +
 		"case \"$*\" in *'--agent enforcement-screen'*'Heroin seized'*) cat <<'RESPONSE'\n" + reply + "\nRESPONSE\n;; *) exit 3;; esac\n"
 	binary := filepath.Join(bin, "opencode")
 	if err := os.WriteFile(binary, []byte(script), 0755); err != nil {
@@ -86,7 +86,7 @@ func TestScreenRunsOneToolFreeCall(t *testing.T) {
 	if err := os.WriteFile(providerConfig, []byte(`{}`), 0600); err != nil {
 		t.Fatal(err)
 	}
-	r := Runner{Store: s, Config: config.Config{Workspaces: t.TempDir(), ResearchRunner: "local", OpenCodeBinary: binary, OpenCodeConfigFile: providerConfig, OpenCodeAuthFile: filepath.Join(bin, "missing-auth.json"), ResearchModel: "fixture/model"}}
+	r := Runner{Store: s, Config: config.Config{Workspaces: t.TempDir(), ResearchRunner: "local", OpenCodeBinary: binary, OpenCodeConfigFile: providerConfig, ResearchModel: "fixture/model"}}
 	verdict, err := r.Screen(ctx, v.CaseID, dir, run, safeurl.Evidence{URL: "https://news.example/a", Content: "<p>Heroin seized at the port.</p>"})
 	if err != nil || !verdict.OutOfScope() {
 		t.Fatalf("%+v %v", verdict, err)

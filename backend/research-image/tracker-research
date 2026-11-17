@@ -1,4 +1,8 @@
 #!/bin/sh
 set -eu
-test "$(opencode --version)" = "1.17.13" || exit 78
+case "$(opencode --version)" in
+  "opencode v2.2.7" | "opencode 2.2.7" | v2.2.7 | 2.2.7) ;;
+  *) echo "Expected OpenCode 2.2.7" >&2; exit 78 ;;
+esac
+export OPENCODE_CONFIG=/work/opencode.json
 exec opencode "$@"
