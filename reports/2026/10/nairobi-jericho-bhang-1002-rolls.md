@@ -91,6 +91,10 @@ sources:
     url: https://www.kenyan-post.com/2026/11/police-conduct-raid-in-jericho-estate.html
     publisher: Kenyan Post
     date: 2026-11-01
+  - title: NACADA Jericho raid nets over 1,000 rolls of bhang, three in custody - Radio47
+    url: https://www.radio47.fm/news/nacada-jericho-raid-nets-over-1000-rolls-of-bhang-three-in-custody-43112/
+    publisher: Radio47
+    date: 2026-10-31
 open_questions:
   - The weight of the 1,002 rolls was not reported.
   - Whether the three people appeared in court or were formally charged is not established in these accounts.
@@ -98,16 +102,16 @@ open_questions:
 ---
 
 Three people were arrested after anti-narcotics officers raided a residential
-house in Nairobi’s Jericho Estate. [@2,3,4,6,7,8,9,10] The National Authority for the Campaign
+house in Nairobi’s Jericho Estate. [@2,3,4,6,7,8,9,10,11] The National Authority for the Campaign
 Against Alcohol and Drug Abuse (NACADA) raided a two-bedroom house in Buruburu
-Sub-County on Friday afternoon after an intelligence tip-off. [@1,7]
+Sub-County on Friday afternoon after an intelligence tip-off. [@1,7,11]
 
 Officers seized 936 brown rolls of suspected cannabis, described as bhang, and
 found another 66 red rolls hidden in a black polythene bag, bringing the total
-to 1,002. [@1,3,4,5,6,7,8,9] Officers also recovered a bunch of keys from a store within the
-house as part of the investigation. [@1,3,4,6,7] The three occupants were taken to Jogoo
-Road Police Station. [@1,3,4,6,8,9,10] They were expected to be arraigned in court on Monday,
-2 November 2026. [@1,2,3,6,7,8,9]
+to 1,002. [@1,3,4,5,6,7,8,9,11] Officers also recovered a bunch of keys from a store within the
+house as part of the investigation. [@1,3,4,6,7,11] The three occupants were taken to Jogoo
+Road Police Station. [@1,3,4,6,8,9,10,11] They were expected to be arraigned in court on Monday,
+2 November 2026. [@1,2,3,6,7,8,9,11]
 
 NACADA chief executive Anthony Omerikwa said the operation was part of efforts
 to dismantle drug-distribution networks in residential neighbourhoods. [@1]
