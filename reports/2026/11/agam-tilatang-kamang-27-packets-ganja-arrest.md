@@ -118,6 +118,11 @@ sources:
     publisher: Pelita Karawang
     date: 2026-11-14
     language: id
+  - title: Kurir Ganja Lintas Provinsi Ditangkap Satres Narkoba Bukittinggi
+    url: https://rri.co.id/bukittinggi/hukum/kriminalitas/2894927/kurir-ganja-lintas-provinsi-ditangkap-satres-narkoba-bukittinggi
+    publisher: RRI.co.id
+    date: 2026-11-13
+    language: id
 media:
   - kind: photo
     url: https://padang.viva.co.id/ragam-perkara/10425-satresnarkoba-polresta-bukittinggi-gagalkan-peredaran-27-paket-ganja-lintas-provinsi
@@ -144,20 +149,27 @@ media:
     media_url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMBANZ4c07swO9L8L-5mt7k06PFwk4LKxE-fXxxxWHEbBUGW1c1fL7pexX-LBUoBNwCPUkC68OYZzCxMO6A0UOXeldHAL1h24VB7xPsHoh87Xp-4VPZPaHS1xXYWKxUU-2vs2T4FSKl8546yii84MzEgHLePL1uU-_cpWBIFzz41cMWnYwxvL8JiX9tNg/s320/5.jpg
     publisher: Rakyatterkini.com
     caption: Seized ganja evidence held by officers, published with the report on the 27-packet Agam seizure.
+  - kind: photo
+    url: https://rri.co.id/bukittinggi/hukum/kriminalitas/2894927/kurir-ganja-lintas-provinsi-ditangkap-satres-narkoba-bukittinggi
+    media_url: https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/bukittinggi/thumbs/full_1794576854989766_bb2849348b_berita_bukittinggi.webp
+    publisher: RRI.co.id
+    caption: 'Police handout photo of detained courier RJP (24) published with the RRI report on the Tilatang Kamang ganja seizure. Photo: Humas Polresta Bukittinggi'
+open_questions:
+  - The RRI page summary says police obtained 37 large packets of ready-to-distribute ganja while its body says the green sack held 27 large packets, so the report keeps the 27-packet figure used by the existing sources.
 ---
 
 Bukittinggi narcotics police arrested 24-year-old RJP alias Rio, a man described
 as being from Padang, in Agam regency on the morning of Friday 13 November 2026
-for allegedly carrying 27 packages of cannabis. [@1,4,7,8,11,12,14,16] Officers detained him at
+for allegedly carrying 27 packages of cannabis. [@1,4,7,8,11,12,14,16,17] Officers detained him at
 about 06.00 on the roadside at Jalan Baringin, Jorong PGRM, Nagari Gaduik in
-Tilatang Kamang district. [@1,2,4,5,6,7,8,10,11,13,14,16] The arrest followed police information about a
+Tilatang Kamang district. [@1,2,4,5,6,7,8,10,11,13,14,16,17] The arrest followed police information about a
 man carrying cannabis from the Palupuah direction toward Bukittinggi city. [@1,4,5,7,8]
 Operational narcotics officers investigated and then tailed the suspect with
 help from Bukittinggi criminal-investigation officers. [@1,5,6,7,10,12] The head of the Bukittinggi police narcotics unit, AKP Muhammad Arvi, said the case was uncovered by following up community information and the alertness of personnel in the field. [@7]
 
 Police seized 27 cannabis packages wrapped in adhesive tape and placed inside a
-green sack. [@1,2,4,6,7,8,9,10,11,12,14,15] Police described the 27 large packages as weighing 27 kilograms in total. [@16] The search that found the 27 packets was witnessed by local residents, and the packets were wrapped in yellow adhesive tape. [@5,7,8] The packages were found in the rear trunk of the white Daihatsu
-Xenia with plate BA 1065 QG that the suspect was driving. [@1,4,7,8,11,12,13,16] Police also
+green sack. [@1,2,4,6,7,8,9,10,11,12,14,15,17] Police described the 27 large packages as weighing 27 kilograms in total. [@16] The search that found the 27 packets was witnessed by local residents, and the packets were wrapped in yellow adhesive tape. [@5,7,8] The packages were found in the rear trunk of the white Daihatsu
+Xenia with plate BA 1065 QG that the suspect was driving. [@1,4,7,8,11,12,13,16,17] Police also
 seized a blue Realme mobile phone, the green sack, and the Xenia car with its
 key and vehicle registration document. [@1,2,4,7,8] Police also seized the suspect's mobile phone, the white Daihatsu Xenia (plate BA 1065 QG) with its ignition key and vehicle registration document (STNK). [@3,10]
 
