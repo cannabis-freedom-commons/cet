@@ -56,16 +56,21 @@ sources:
     publisher: اوان مصر
     date: 2026-11-17
     language: ar
+  - title: المؤبد لعامل وآخر بتهمة الاتجار في الحشيش بسوهاج - بوابة مولانا
+    url: https://mwlana.com/details/311717/
+    publisher: بوابة مولانا
+    date: 2026-11-17
+    language: ar
 ---
 
 A Sohag Criminal Court sentenced two men, one a labourer identified only as A.A.
 and the other M.A., to life imprisonment for trafficking hashish and other
-narcotic drugs in Girga district. [@1,3] A second account confirmed life sentences
+narcotic drugs in Girga district. [@1,3,4] A second account confirmed life sentences
 for two defendants, one a labourer, in the Girga hashish-trafficking case. [@2]
 
 The case dates to 2025, when information reached officers of the criminal
 investigations unit at Girga police station that the two men were trafficking
-and distributing narcotic drugs in the district. [@1] The second account
+and distributing narcotic drugs in the district. [@1,4] The second account
 likewise placed the start of the case in 2025 and said Girga police
 investigators acted on a tip from a secret source. [@2] After the legal
 procedures were completed, security services arrested the two men, who confessed
@@ -75,6 +80,6 @@ procedures were regularised and confessed to trafficking hashish and other drugs
 when confronted with the investigation. [@2]
 
 After hearing the case, the court issued its verdict of life imprisonment
-against the two defendants. [@1] The second account said the court reviewed the
+against the two defendants. [@1,4] The second account said the court reviewed the
 case file, the investigations and the arrest procedures before imposing the life
 sentences. [@2]
