@@ -43,29 +43,38 @@ sources:
     publisher: AJN1 - Portal de Noticias
     date: 2026-11-17
     language: pt
+  - title: Cerca de oito quilos de maconha são apreendidos em São Cristóvão
+    url: https://fanf1.com.br/2026/11/17/cerca-de-oito-quilos-de-maconha-sao-apreendidos-em-sao-cristovao/
+    publisher: Fan F1
+    date: 2026-11-17
+    language: pt
 open_questions:
-  - No name, age or other identifying details were published for the arrested driver, and no custody decision or court outcome was reported.
-  - No laboratory confirmation was reported; the material was described as marijuana and marijuana flower.
-  - Only one outlet account, attributed to PRF Sergipe, could be opened, so the figures rest on that single account.
-  - The article also cites about 180 kg seized in Sergipe in 2026 and another 30 kg found in a vehicle in Cristinápolis in November; those are separate seizures left out of this report's figures.
+    - No name, age or other identifying details were published for the arrested driver, and no custody decision or court outcome was reported.
+    - No laboratory confirmation was reported; the material was described as marijuana and marijuana flower.
+    - The article also cites about 180 kg seized in Sergipe in 2026 and another 30 kg found in a vehicle in Cristinápolis in November; those are separate seizures left out of this report's figures.
+media:
+  - kind: photo
+    url: https://fanf1.com.br/2026/11/17/cerca-de-oito-quilos-de-maconha-sao-apreendidos-em-sao-cristovao/
+    media_url: https://fanf1.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-22.51.16-768x432.jpeg
+    publisher: Fan F1
+    caption: 'Seized cannabis from the truck at km 105 of the BR-101, in the PRF handout photo published with the report. Photo: PRF'
 ---
 
 Officers of Brazil's Federal Highway Police (Polícia Rodoviária Federal, PRF)
 stopped a truck during an inspection on the afternoon of Monday 16 November 2026
-on the BR-101 in São Cristóvão, in Greater Aracaju. [@1] The driver of the truck
-transporting the drug was arrested in flagrante at the scene. [@1] Officers took
+on the BR-101 in São Cristóvão, in Greater Aracaju. [@1,2] The driver of the truck
+transporting the drug was arrested in flagrante at the scene. [@1,2] Officers took
 the suspect to the Central de Flagrantes of the Civil Police in Aracaju together
-with the drug and the truck, where he was formally recorded in flagrante. [@1]
+with the drug and the truck, where he was formally recorded in flagrante. [@1,2]
 
-The stop occurred at kilometre 105 of the highway. [@1] Inspecting the vehicle,
+The stop occurred at kilometre 105 of the highway. [@1,2] Inspecting the vehicle,
 officers found boxes holding bags containing what the report calls the flower of
 marijuana, the part of the plant that concentrates the largest amount of
 psychoactive compounds and has the greatest commercial value in drug
-trafficking. [@1] The seizure totalled eight kilograms of marijuana. [@1] The
+trafficking. [@1,2] The seizure totalled eight kilograms of marijuana. [@1,2] The
 driver told the PRF he would receive R$1,000 to transport the drug from Bahia to
-Sergipe. [@1]
+Sergipe. [@1,2]
 
 The case was to be investigated in an attempt to reach those responsible for
 sending the drug and its destination. [@1] The account attributes its
 information to PRF Sergipe. [@1]
-
