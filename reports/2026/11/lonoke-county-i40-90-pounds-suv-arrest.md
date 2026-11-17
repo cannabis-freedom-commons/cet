@@ -50,29 +50,37 @@ sources:
     url: https://katv.com/news/local/asp-arrest-tennessee-man-after-discovering-90-pounds-of-suspected-marijuana-crime-investigation-arkansas-state-police-troopers-javlon-ilkhamdjanov-vaccum-sealed-packages
     publisher: KATV
     date: 2026-11-16
+  - title: Arkansas State Police Seize 90 Pounds of Suspected Marijuana on I-40 Near Carlisle
+    url: https://arkansasradio.com/2026/11/arkansas-state-police-90-pounds-marijuana-i40-carlisle/
+    publisher: Arkansas Radio
 open_questions:
   - The weight is reported only as around 90 pounds, so 40.82 kg is an approximate conversion with no exact weighed figure published.
   - The material was described only as suspected marijuana with no laboratory confirmation reported.
   - The Oklahoma origin and Tennessee destination rest on the driver's own statement to investigators.
   - No bond figure, plea, or court outcome was reported.
   - The year 2026 is inferred from the November 16, 2026 publication dates for a stop reported as November 14.
+media:
+  - kind: photo
+    url: https://arkansasradio.com/2026/11/arkansas-state-police-90-pounds-marijuana-i40-carlisle/
+    media_url: https://arkansasradio.com/wp-content/uploads/2026/11/carlisle-i40-marijuana-seizure-suv.jpg
+    publisher: Arkansas Radio
+    caption: Suspected marijuana in the back of the Toyota SUV stopped on I-40 near mile marker 184. Photo courtesy Arkansas State Police
 ---
 
 On 14 November 2026, an Arkansas State Police trooper stopped an eastbound
 Toyota SUV for a traffic violation on Interstate 40 near the 184-mile marker in
-Lonoke County, Arkansas. [@2] The Arkansas State Police was the agency credited
+Lonoke County, Arkansas. [@2,3] The Arkansas State Police was the agency credited
 with the stop, the arrest and the seizure. [@2] The driver was 37-year-old
-Javlon Ilkhamdjanov of Mount Juliet, Tennessee. [@2] He told investigators he
-was travelling from Oklahoma to Tennessee when he was stopped. [@2]
+Javlon Ilkhamdjanov of Mount Juliet, Tennessee. [@2,3] He told investigators he
+was travelling from Oklahoma to Tennessee when he was stopped. [@2,3]
 
 A search of the SUV found three large bags holding multiple vacuum-sealed
-packages of suspected marijuana. [@2] Police described the load as around 90
+packages of suspected marijuana. [@2,3] Police described the load as around 90
 pounds of illegal suspected marijuana, about 40.8 kilograms. [@2] The account is
 datelined Carlisle, Arkansas, placing the stop area in Lonoke County on the
 interstate. [@2]
 
 Ilkhamdjanov was taken into custody and transported to the Lonoke County
-Sheriff's Detention Center. [@1] He was charged with felony possession of a
+Sheriff's Detention Center. [@1,3] He was charged with felony possession of a
 controlled substance with intent to deliver and possession of drug
 paraphernalia. [@1]
-
