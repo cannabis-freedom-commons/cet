@@ -29,7 +29,9 @@ const findReportsDescription = "Find existing tracker reports that may record th
 
 const getReportDescription = "Read one existing tracker report: its complete original Markdown (front matter, prose with " +
 	"[@n] citations, sources). Pass the slug from find_reports. Read a report before you propose an update to it " +
-	"or quote it in an event comparison."
+	"or quote it in an event comparison. A report with many sources shows the first ten and those cited for a fact of their own, each " +
+	"marked with its [@n] number; pass sources_from (a source number) to list the others, 40 at a time. To learn whether " +
+	"a URL is already a source of a report, pass it to find_reports as source_urls."
 
 var findReportsSchema = map[string]any{"type": "object", "properties": map[string]any{
 	"country":          map[string]any{"type": "string", "description": "Tracker country id, e.g. br, us/ca"},
@@ -48,7 +50,8 @@ var findReportsSchema = map[string]any{"type": "object", "properties": map[strin
 }}
 
 var getReportSchema = map[string]any{"type": "object", "properties": map[string]any{
-	"slug": map[string]any{"type": "string"},
+	"slug":         map[string]any{"type": "string"},
+	"sources_from": map[string]any{"type": "integer", "description": "List the report's sources from this number on (40 at a time) instead of the report"},
 }, "required": []string{"slug"}}
 
 type findReportsArgs struct {
@@ -92,7 +95,8 @@ func (l *reportLookup) load() error {
 
 func (l *reportLookup) get(raw json.RawMessage) string {
 	var args struct {
-		Slug string `json:"slug"`
+		Slug        string `json:"slug"`
+		SourcesFrom int    `json:"sources_from"`
 	}
 	if json.Unmarshal(raw, &args) != nil || strings.TrimSpace(args.Slug) == "" {
 		return "Pass the report's slug, for example {\"slug\": \"cuiaba-lixeira-39-portions-arrest\"}."
@@ -110,6 +114,10 @@ func (l *reportLookup) get(raw json.RawMessage) string {
 		return "The report could not be read."
 	}
 	text := string(b)
+	if args.SourcesFrom > 0 {
+		return sourcePage(text, args.SourcesFrom)
+	}
+	text = shortenSources(text)
 	if len(text) > 60000 {
 		text = text[:60000] + "\n[… cut at 60,000 characters]"
 	}
