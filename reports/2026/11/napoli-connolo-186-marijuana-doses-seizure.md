@@ -38,6 +38,11 @@ sources:
     publisher: Il Giornale Locale
     date: 2026-11-15
     language: it
+  - title: 'Blitz antidroga nella piazza di spaccio al rione ‘Connolo’ a Poggioreale: sequestrate 186 dosi di marijuana'
+    url: https://cronachedi.it/blitz-antidroga-nella-piazza-di-spaccio-al-rione-connolo-a-poggioreale-sequestrate-186-dosi-di-marijuana/
+    publisher: Cronachedi
+    date: 2026-11-15
+    language: it
 open_questions:
     - No weight, packaging breakdown or estimated value for the 186 doses was published.
     - No arrest, suspect identity, charge or court outcome for the marijuana seizure was reported.
@@ -55,7 +60,7 @@ Carabinieri of the Poggioreale company carried out controls in the eastern area
 of Naples. [@1,2] The military officers of the Arma directed attention to every
 possible illicit activity during those controls. [@1] In the Connolo district,
 the military officers seized 186 doses of marijuana as the drug result of the
-operation. [@1,2] The 186 marijuana doses were described as ready to be sold. [@1,2]
+operation. [@1,2,3] The 186 marijuana doses were described as ready to be sold. [@1,2,3]
 The 186 doses were presented as part of the overall bilancio of those
 Carabinieri controls. [@1]
 
