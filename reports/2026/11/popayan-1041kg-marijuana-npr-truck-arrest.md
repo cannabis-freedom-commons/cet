@@ -75,20 +75,29 @@ sources:
     publisher: Ejército Nacional de Colombia
     date: 2026-11-16
     language: es
+  - title: Más de una tonelada de marihuana, incautada por el Ejército en Cauca
+    url: http://diariodelsur.com.co/noticias/mas-de-una-tonelada-de-marihuana-incautada-por-el-ejercito-en-cauca
+    publisher: Diario del Sur
+    date: 2026-11-16
+    language: es
+open_questions:
+  - The same page also states that 1,700 kilograms of pressed marijuana were found in the vehicle and quotes Colonel Juan Camilo Vela on 1,700 kilos taken out of circulation, contradicting its own 1,041-kilogram account used here.
+  - The same page puts the economic impact on the Dagoberto Ramos Ortiz structure at more than 425 million pesos, differing from the about 1,050 million pesos already recorded from Army accounts.
+  - The page gives no separate date for the checkpoint, pursuit or seizure; 16 November 2026 is its publication date.
 ---
 
 Troops of Anti-Narcotics Battalion No. 2 carried out a ground interdiction
 against a motor vehicle in a rural area of Popayán, Cauca. [@1] Officers found
 1,041 kilograms of marijuana hidden inside an NPR-type truck during the check.
-[@1,3,4,5] Officers arrested the driver of the vehicle at the scene. [@1,3,4,5] The seized
+[@1,3,4,5,6] The driver ignored the stop signal and fled, prompting a motorized pursuit until troops intercepted the vehicle. [@6] Troops at a 29th Brigade road checkpoint detected the suspicious van-type truck and signalled it to stop. [@6] Officers arrested the driver of the vehicle at the scene. [@1,3,4,5,6] The seized
 load, the immobilized vehicle and the detained man were placed at the disposal
 of the judicial authorities for prosecution for alleged drug trafficking,
 manufacture or possession. [@2,3]
 
 Military intelligence linked the load to the Dagoberto Ramos structure of the
-FARC dissidents. [@2,3,4,5] Intelligence indicated the drug was first bound for Puerto
-Asís, Putumayo. [@1,3,4,5] From Puerto Asís the load was to be moved by river launches
-toward Brazil. [@1,3,4,5]
+FARC dissidents. [@2,3,4,5,6] Intelligence indicated the drug was first bound for Puerto
+Asís, Putumayo. [@1,3,4,5,6] From Puerto Asís the load was to be moved by river launches
+toward Brazil. [@1,3,4,5,6]
 
 Authorities estimated the seizure equalled about 52,050 doses for illegal
 markets. [@1,4,5] The Army put the economic impact on that structure at about 1,050
