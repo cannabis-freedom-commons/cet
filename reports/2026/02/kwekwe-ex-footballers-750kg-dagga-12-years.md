@@ -84,6 +84,10 @@ sources:
     url: https://iol.co.za/news/crime-and-courts/2025-10-08-aged-29-ex-kaizer-chiefs-star-abbas-amidu-arrested-in-zimbabwe-sparking-debate-over-his-age/
     publisher: IOL
     date: 2025-10-08
+  - title: Have the police revealed former Kaizer Chiefs striker's real age? Ex-PSL star denied bail after being busted with drugs worth R1,3 million
+    url: https://www.goal.com/en-za/lists/have-the-police-revealed-former-kaizer-chiefs-striker-s-real-age-ex-psl-star-denied-bail-after-being-busted-with-drugs-worth-r1-3-million/blt3eb469d635bca3d7
+    publisher: Goal.com
+    date: 2025-10-09
 open_questions:
   - Later court reporting described the haul as 780 kg worth about US$78,000, against the police figure of 750 kg worth USD 75,000 used here; the police figure is used because it is the official seizure account.
   - One later court account dates the interception to 4 October 2025 while the police statement gives 3 October 2025; the police date is used.
@@ -92,21 +96,24 @@ open_questions:
   - The arrest report also mentions a separate arrest of Prosper Mphofu with 60 kg of dagga at Trabablas Interchange; that is a different event left out here.
   - This article's opening paragraph gives the haul as 780 kg, while the Zimbabwe Republic Police statement quoted further down gives 750 kg; the report uses the police figure.
   - No source says when the bail hearing took place, whether the court gave reasons for refusing bail, or what it considered, other than that the pair would remain in custody pending trial.
+  - No weight for the drugs and no cannabis-specific identification beyond drugs and an illegal substance is given in this account.
+  - Valuations of about R1,3 million and about USD 75,000 (about R1.2 million) were reported for the same haul.
+  - Police gave his age as 29, while his reported age of 21 when he signed in 2012 would imply about 35 now.
 ---
 
 Former Kaizer Chiefs and Black Leopards forward Abbas Amidu was sentenced to 12
 years' imprisonment in Zimbabwe after being convicted of dealing in dangerous
-drugs (dagga), months after his arrest in October 2025. [@1] He and fellow
+drugs (dagga), months after his arrest in October 2025. [@1,8] He and fellow
 former footballer Kudzai Mhlanga, also known as Reuben Mhlanga, were convicted
 of dealing in dangerous drugs, namely dagga. [@2,6] Amidu, listed by authorities
 under the name Tumai Matsika, had been denied bail after his arrest when the
 State opposed release, calling him a flight risk while investigations continued.
-[@1,5,6,7] The two appeared in the Kwekwe Magistrates' Court on the Monday after the arrest and were remanded in custody pending a bail application. [@7]
+[@1,5,6,7,8] The two appeared in the Kwekwe Magistrates' Court on the Monday after the arrest and were remanded in custody pending a bail application. [@7]
 
 Police apprehended the pair, aged 29 and 41, on 3 October 2025 along the
-Kwekwe-Kadoma Highway in a silver Honda Shuttle, registration AGP 6776. [@3]
+Kwekwe-Kadoma Highway in a silver Honda Shuttle, registration AGP 6776. [@3,8]
 Police said the two were found in possession of 750 kg of dagga in the vehicle,
-which police valued at USD 75,000. [@3] Detectives found the dagga in 75 packets wrapped in black plastic inside the silver Honda Shuttle. [@7]
+which police valued at USD 75,000. [@3,8] Detectives found the dagga in 75 packets wrapped in black plastic inside the silver Honda Shuttle. [@7]
 
 Amidu and his co-accused Kudzai (Reuben) Mhlanga were each sentenced to 12
 years' imprisonment after appearing in court for possession of the dagga haul,
