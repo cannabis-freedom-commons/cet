@@ -58,17 +58,22 @@ sources:
     publisher: 凤凰网
     date: 2026-11-17
     language: zh
+  - title: 广州海关披露：刚查了20多公斤大麻，又查了30多公斤大麻
+    url: https://www.msn.com/zh-cn/news/other/%E5%B9%BF%E5%B7%9E%E6%B5%B7%E5%85%B3%E6%8A%AB%E9%9C%B2-%E5%88%9A%E6%9F%A5%E4%BA%8620%E5%A4%9A%E5%85%AC%E6%96%A4%E5%A4%A7%E9%BA%BB-%E5%8F%88%E6%9F%A5%E4%BA%8630%E5%A4%9A%E5%85%AC%E6%96%A4%E5%A4%A7%E9%BA%BB/ar-AA2hBnyT
+    publisher: MSN
+    date: 2026-11-17
+    language: zh
 ---
 
 Guangzhou Baiyun Airport Customs officers screening international transit
 passengers found the luggage X-ray images of two travellers abnormal in
-succession. [@1,2,3,4,5] Officers intercepted the two travellers and inspected their
+succession. [@1,2,3,4,5,6] Officers intercepted the two travellers and inspected their
 suitcases. [@1,2,3,4,5] The suitcases each held brown-green plant material packed in
 plastic bags that gave off a strong pungent smell when the packaging was opened.
-[@1,2,3,4]
+[@1,2,3,4,6]
 
 A technical institution tested the material and confirmed it was cannabis
-weighing 31.787 kilograms in total. [@1,2,3,4,5] Customs announced the seizure on 17
+weighing 31.787 kilograms in total. [@1,2,3,4,5,6] Customs announced the seizure on 17
 November 2026, describing the interception as recent and placing it at the
 passenger-inspection channel of Guangzhou Baiyun Airport. [@1,2]
 
