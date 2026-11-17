@@ -51,6 +51,11 @@ sources:
     publisher: EL NORTE
     date: 2026-11-16
     language: es
+  - title: Caen tres tras saquear tienda de productos de cannabis en San Nicolás
+    url: https://www.milenio.com/policia/detienen-tres-jovenes-saquear-tienda-productos-mariguana-san-nicolas
+    publisher: Grupo Milenio
+    date: 2026-11-16
+    language: es
 open_questions:
     - The early-morning incident is dated 16 November 2026 from the publication date, with no separate calendar date stated.
     - No weight was published for the recovered cannabis, only item counts, so no kilogram figure is given.
@@ -59,6 +64,8 @@ open_questions:
     - The minor's identity was withheld and the adults were identified only by first names and ages.
     - The report does not state whether the Paradise shop holds any cannabis licence or authorisation.
     - The relation of the detainees to the stolen Honda CR-V remains under investigation.
+    - Published counts of the recovered rolled cigarettes differ between accounts.
+    - One account publishes a name for the 15-year-old, while other accounts withhold the minor's identity.
 media:
   - kind: photo
     url: https://www.posta.com.mx/amp/nuevo-leon/roban-negocio-de-cannabis-en-san-nicolas-y-detienen-a-tres-jovenes/vl2279594
@@ -70,12 +77,17 @@ media:
     media_url: https://iphonegr.elnorte.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/323/6322640.jpg&imagencompleta=1
     publisher: EL NORTE
     caption: 'The three detained youths identified by San Nicolas municipal police. Photo: Especial via EL NORTE'
+  - kind: photo
+    url: https://www.milenio.com/policia/detienen-tres-jovenes-saquear-tienda-productos-mariguana-san-nicolas
+    media_url: https://images.milenio.com/9Nr5ukwVJ4fhFAFX_tdks_KfUQ=/942x532/uploads/media/2026/11/16/detencion-concreto-manana-estacionamiento-subterraneo.jpg
+    publisher: Grupo Milenio
+    caption: The suspects after being intercepted about 3:00 a.m. at a plaza at Palacio de Justicia and Universidad.
 ---
 
 Municipal police in San Nicolás de los Garza detained three youths, including a
 15-year-old, after allegedly catching them robbing merchandise from a shop
-selling cannabis products. [@1,2,3] Police identified one of the adults as Jorge
-Jahir, 20. [@1,2,3] Police identified the other adult as Daniel Alberto, 18. [@1,3]
+selling cannabis products. [@1,2,3,4] Police identified one of the adults as Jorge
+Jahir, 20. [@1,2,3,4] Police identified the other adult as Daniel Alberto, 18. [@1,3,4]
 The third detainee is a 15-year-old whose identity was withheld because he is a
 minor. [@1] Police said all three are originally from Monterrey. [@1]
 
@@ -86,7 +98,7 @@ Paradise establishment. [@1]
 
 The robbery occurred during the early morning at the Paradise shop at Avenida
 Universidad 100 in colonia Anáhuac, where the suspects allegedly damaged a
-window to enter. [@1,2] The police action began around 3:00 in the morning after
+window to enter. [@1,2,4] The police action began around 3:00 in the morning after
 an alert about a blue Honda CR-V with a theft report. [@1] Officers located the
 van inside a nearby underground parking lot. [@1] When they noticed the
 officers, the youths tried to flee on foot toward José Manuel Othón street. [@1]
