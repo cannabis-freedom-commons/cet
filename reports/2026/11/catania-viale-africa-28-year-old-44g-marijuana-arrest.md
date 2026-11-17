@@ -56,6 +56,11 @@ sources:
     publisher: Etna News 24
     date: 2026-11-16
     language: it
+  - title: Scambio di droga davanti a una banca di viale Africa, arrestato un 28enne
+    url: https://www.cataniatoday.it/cronaca/spaccio-droga-viale-africa-catania-arresto-pusher.html
+    publisher: CataniaToday
+    date: 2026-11-16
+    language: it
 open_questions:
   - No separate date or time is given for the meeting itself; 16 November 2026, the publication date of both reports, is used as the incident date.
   - The substance is described only as marijuana in twelve bags; no laboratory confirmation was reported.
@@ -65,8 +70,8 @@ open_questions:
 
 Officers of the Mobile Squad of the Catania police headquarters, on a
 territorial patrol, noticed two men meeting in front of a bank branch in Viale
-Africa in Catania. [@1] The two men were a 28-year-old from Catania who lives in
-Misterbianco and a 33-year-old originally from Messina. [@2] After greeting each
+Africa in Catania. [@1,3] The two men were a 28-year-old from Catania who lives in
+Misterbianco and a 33-year-old originally from Messina. [@2,3] After greeting each
 other near the bank, the men moved to a bench, where the 28-year-old kept
 looking around before taking several small bags from his trousers pocket and
 handing them to the other man. [@1] In exchange he received 130 euros in cash.
@@ -74,15 +79,14 @@ handing them to the other man. [@1] In exchange he received 130 euros in cash.
 officers stopped them immediately. [@1]
 
 A search found the 33-year-old with seven bags of marijuana weighing 25 grams in
-total, which he had just bought for 130 euros. [@1] Officers found the
+total, which he had just bought for 130 euros. [@1,3] Officers found the
 28-year-old carrying the 130 euros just received plus five more bags of
-marijuana weighing 19 grams in total. [@1] Officers recovered and seized a total
-of 44 grams of marijuana in twelve bags. [@1]
+marijuana weighing 19 grams in total. [@1,3] Officers recovered and seized a total
+of 44 grams of marijuana in twelve bags. [@1,3]
 
 The 28-year-old was arrested on suspicion of drug dealing and possession. [@1]
 The buyer admitted he had bought the drug for personal use and was reported to
-the Prefettura as a drug user. [@1] The duty prosecutor at the Catania court
+the Prefettura as a drug user. [@1,3] The duty prosecutor at the Catania court
 ordered house arrest for the suspect at his home in Misterbianco pending a
-validation hearing before the preliminary investigations judge. [@1] The
+validation hearing before the preliminary investigations judge. [@1,3] The
 28-year-old remains presumed innocent until any final conviction. [@1]
-
