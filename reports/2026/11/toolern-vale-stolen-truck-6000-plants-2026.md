@@ -48,36 +48,39 @@ sources:
     url: https://www.miragenews.com/stolen-truck-leads-police-to-27-million-1778547/
     publisher: Mirage News
     date: 2026-11-17
+  - title: How a stolen truck exposed a $27 million crop
+    url: https://timesnewsgroup.com.au/themooraboolnews/uncategorized/how-a-stolen-truck-exposed-a-27-million-crop/
+    publisher: The Moorabool News
+    date: 2026-11-17
+    language: en
 open_questions:
-  - 16 November 2026 is inferred as the Monday afternoon before the 17 November 2026 publication; no calendar date for the search was stated.
-  - The crop was estimated at 6,000 to 8,000 plants and the figures use the lower confirmed bound of 6,000.
-  - The $27 million is an approximate police street-value estimate, not a measured sale amount.
-  - No figure for the weight of the Toolern Vale plants was published.
-  - No one was named, charged or described, and no court outcome was reported.
-  - The whole account rests on a single page republishing police public-release material with named detective quotes.
-  - The same page describes a separate cannabis seizure at Romsey on 12 November 2026, involving about 3,700 plants weighing 620 kilograms, which is a different event left out here.
-  - The combined figure of more than 11,700 plants worth around $40 million across both investigations is left out because it mixes the two events.
-  - No detail was given about the electronic devices or how electricity was allegedly bypassed.
-  - No laboratory confirmation of the plants was reported; destruction was to follow forensic examination by botanists.
+    - The crop was estimated at 6,000 to 8,000 plants and the figures use the lower confirmed bound of 6,000.
+    - The $27 million is an approximate police street-value estimate, not a measured sale amount.
+    - No figure for the weight of the Toolern Vale plants was published.
+    - No one was named, charged or described, and no court outcome was reported.
+    - Both accounts republish Victoria Police public-release material with named detective quotes, so they are not independent reporting.
+    - The same page describes a separate cannabis seizure at Romsey on 12 November 2026, involving about 3,700 plants weighing 620 kilograms, which is a different event left out here.
+    - The combined figure of more than 11,700 plants worth around $40 million across both investigations is left out because it mixes the two events.
+    - No detail was given about the electronic devices or how electricity was allegedly bypassed.
+    - No laboratory confirmation of the plants was reported; destruction was to follow forensic examination by botanists.
 ---
 
 Detectives from the Melton Crime Investigation Unit followed a stolen truck to a
-rural property in Toolern Vale on Monday afternoon [@1] Officers found the truck
-bogged and abandoned at the address [@1] No arrests have been made and the
-investigation remains ongoing [@1]
+rural property in Toolern Vale on Monday afternoon [@1,2] Officers found the truck
+bogged and abandoned at the address [@1,2] No arrests have been made and the
+investigation remains ongoing [@1,2]
 
 At the property officers uncovered a sophisticated cannabis cultivation
-operation spread across five large greenhouses [@1] Police obtained a search
-warrant and began dismantling a crop of 6,000 to 8,000 mature plants [@1] Police
-put the crop's estimated street value at approximately $27 million [@1] Officers
+operation spread across five large greenhouses [@1,2] Police obtained a search
+warrant and began dismantling a crop of 6,000 to 8,000 mature plants [@1,2] Police
+put the crop's estimated street value at approximately $27 million [@1,2] Officers
 also seized electronic devices and items allegedly used to bypass electricity
-[@1] Police said all of the plants will be destroyed following forensic
-examination by botanists [@1]
+[@1,2] Police said all of the plants will be destroyed following forensic
+examination by botanists [@1,2]
 
 Police are investigating whether the stolen truck had been driven to the
-property in an attempt to steal cannabis from the crop [@1] The Botany Unit,
+property in an attempt to steal cannabis from the crop [@1,2] The Botany Unit,
 Crime Scene Services and other trained detectives from across the division
 assisted in the operation [@1] Detective Senior Sergeant Nick Di-Mieri said what
 began as a stolen vehicle investigation quickly led detectives to a
-sophisticated operation containing more than 6,000 plants [@1]
-
+sophisticated operation containing more than 6,000 plants [@1,2]

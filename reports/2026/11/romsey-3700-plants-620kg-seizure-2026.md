@@ -64,16 +64,21 @@ sources:
     publisher: The Courier Mail
     date: 2026-11-17
     language: en
+  - title: How a stolen truck exposed a $27 million crop
+    url: https://timesnewsgroup.com.au/themooraboolnews/uncategorized/how-a-stolen-truck-exposed-a-27-million-crop/
+    publisher: The Moorabool News
+    date: 2026-11-17
+    language: en
 ---
 
 No arrests have been made in connection with the Romsey discovery, and
-investigations remain ongoing. [@1] Police uncovered the Romsey crop, with drone
+investigations remain ongoing. [@1,4] Police uncovered the Romsey crop, with drone
 footage showing officers uncovering plants growing outdoors in plain sight. [@1,3]
 
 The seizure took place at a rural property in Romsey, around 40 kilometres to
-the north, on Thursday, November 12. [@1] Police uncovered approximately 3,700
-cannabis plants of various sizes growing outdoors in plain sight. [@1,3] The
-seized plants weighed a combined 620 kilograms. [@2]
+the north, on Thursday, November 12. [@1,4] Police uncovered approximately 3,700
+cannabis plants of various sizes growing outdoors in plain sight. [@1,3,4] The
+seized plants weighed a combined 620 kilograms. [@2,4]
 
 Detective Sergeant Ben Shawyer of the Macedon Crime Investigation Unit stressed
 that authorities are dedicated to combating cannabis cultivation operations.
