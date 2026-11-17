@@ -43,22 +43,22 @@ sources:
     publisher: 观察者网
     date: 2026-11-17
     language: zh
-open_questions:
-  - The article gives no separate calendar date for the interception; 17 November 2026 is the Customs announcement and publication date used as the incident date.
-  - No names, nationalities, flight routes, arrests, charges or court outcomes were reported for the two travellers.
-  - Only a combined total of 31.787 kilograms was reported, with no breakdown of how much each traveller carried.
-  - The whole account rests on a single Customs announcement as republished, with no independent reporting.
+  - title: 广州海关：刚查了20多公斤大麻，又查了30多公斤大麻
+    url: https://finance.sina.com.cn/roll/2026-11-17/doc-iniyyzyi1892515.shtml
+    publisher: 新浪财经
+    date: 2026-11-17
+    language: zh
 ---
 
 Guangzhou Baiyun Airport Customs officers screening international transit
 passengers found the luggage X-ray images of two travellers abnormal in
-succession. [@1,2] Officers intercepted the two travellers and inspected their
-suitcases. [@1,2] The suitcases each held brown-green plant material packed in
+succession. [@1,2,3] Officers intercepted the two travellers and inspected their
+suitcases. [@1,2,3] The suitcases each held brown-green plant material packed in
 plastic bags that gave off a strong pungent smell when the packaging was opened.
-[@1,2]
+[@1,2,3]
 
 A technical institution tested the material and confirmed it was cannabis
-weighing 31.787 kilograms in total. [@1,2] Customs announced the seizure on 17
+weighing 31.787 kilograms in total. [@1,2,3] Customs announced the seizure on 17
 November 2026, describing the interception as recent and placing it at the
 passenger-inspection channel of Guangzhou Baiyun Airport. [@1,2]
 
