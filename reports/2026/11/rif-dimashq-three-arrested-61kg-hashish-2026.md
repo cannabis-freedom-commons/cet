@@ -107,6 +107,11 @@ sources:
     url: https://today.lorientlejour.com/article/1554040/three-arrested-over-suspected-drug-trafficking-from-lebanon-61-kg-of-hashish-seized.html
     publisher: L'Orient Today
     date: 2026-11-11
+  - title: حصاد الأخبار من شبكة شام الإخبارية – الثلاثاء 10 تشرين الثاني 2026
+    url: https://shaam.org/in-depth/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D9%86-%D8%B4%D8%A8%D9%83%D8%A9-%D8%B4%D8%A7%D9%85-%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-10-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-2026
+    publisher: شبكة شام الإخبارية
+    date: 2026-11-10
+    language: ar
 ---
 
 Syria's anti-narcotics directorate carried out two security operations in Rif
@@ -114,10 +119,10 @@ Dimashq against drug smuggling from Lebanon into Syria. [@1,2,3,4,5,6,7,8,9,10,1
 three people after intensive field surveillance and monitoring. [@1,3,7,8,10,11] The
 directorate announced the suspects on Telegram only by their initials. [@1,4,7] The directorate identified the three detainees by the Arabic initials أ.ب, ب.ع and ع.د. [@5,9,10,11] The directorate did not give the nationalities of those arrested. [@11]
 Those arrested were referred to the competent authorities for further
-investigation and legal proceedings. [@1,3,4,5,7,8,9,10,11]
+investigation and legal proceedings. [@1,3,4,5,7,8,9,10,11,12]
 
-The operations seized 61 kilograms of hashish. [@1,2,3,4,5,7,8,9,10,11] Officers also confiscated 2
-kilograms of marijuana. [@1,2,4,5,7,8,9,10,11] Authorities also confiscated 200,000 narcotic
-pills, which are excluded from the cannabis figures. [@1,2,4,5,7,8] The directorate said
+The operations seized 61 kilograms of hashish. [@1,2,3,4,5,7,8,9,10,11,12] Officers also confiscated 2
+kilograms of marijuana. [@1,2,4,5,7,8,9,10,11,12] Authorities also confiscated 200,000 narcotic
+pills, which are excluded from the cannabis figures. [@1,2,4,5,7,8,12] The directorate said
 the operations aimed to dismantle trafficking networks and cut drug smuggling
 routes from Lebanon into Syria. [@1,2,4,5,7,9,10,11]
