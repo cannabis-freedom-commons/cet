@@ -56,6 +56,11 @@ sources:
     publisher: kabarjagad
     date: 2026-11-16
     language: id
+  - title: Belum Sempat Naik Kapal, Pria Pembawa 76 Paket Ganja Ditangkap di Jayapura
+    url: https://radarpapua.jawapos.com/news/2611170026/belum-sempat-naik-kapal-pria-pembawa-76-paket-ganja-ditangkap-di-jayapura
+    publisher: Radar Papua
+    date: 2026-11-17
+    language: id
 open_questions:
   - No laboratory confirmation of the seized material as cannabis was reported.
   - The 1.1-kilogram weight was stated without saying whether it is net or gross or how it was weighed.
@@ -70,13 +75,13 @@ Navy personnel from Regional Naval Command X (Kodaeral X) arrested 33-year-old
 IY in the Jayapura Port area on 15 November 2026, moments before he was to board
 the motor vessel KM Gunung Dempo bound for Nabire in Central Papua. [@1,3] The
 arrest followed information that a prospective KM Gunung Dempo passenger berthed
-at Jayapura Port was smuggling ganja. [@1] Joint Kodaeral X personnel with KSOP Jayapura, KP3 Jayapura sea port police and PT Pelni secured the suspect with the narcotics evidence before he boarded the ship during pre-departure supervision and inspection of KM Gunung Dempo passengers. [@3] IY was described as a suspected
+at Jayapura Port was smuggling ganja. [@1,4] Joint Kodaeral X personnel with KSOP Jayapura, KP3 Jayapura sea port police and PT Pelni secured the suspect with the narcotics evidence before he boarded the ship during pre-departure supervision and inspection of KM Gunung Dempo passengers. [@3] IY was described as a suspected
 intercity ganja dealer who dealt ganja in Nabire. [@1]
 
 Officers seized 76 ready-to-distribute ganja packages weighing 1.1 kilograms.
-[@1] The Kodaeral X commander said the ganja came from Papua New Guinea and was
-to be resold in Nabire, but IY was caught first. [@1] IY admitted that each
-package was to be sold in Nabire for Rp1 million. [@1]
+[@1,4] The Kodaeral X commander said the ganja came from Papua New Guinea and was
+to be resold in Nabire, but IY was caught first. [@1,4] IY admitted that each
+package was to be sold in Nabire for Rp1 million. [@1,4] At Rp1 million per package as stated by the suspect, the 76 packages had a potential total sale value of Rp76 million. [@4]
 
 Kodaeral X handed IY and the 76 packages over to the Jayapura City police for
 further processing. [@1] The drugs, weighing approximately 1.1 kilograms, were
