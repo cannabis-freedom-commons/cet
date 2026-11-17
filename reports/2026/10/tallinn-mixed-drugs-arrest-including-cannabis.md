@@ -69,6 +69,11 @@ sources:
     publisher: Politsei- ja Piirivalveamet
     date: 2026-11-11
     language: et
+  - title: Politsei sai tabatud mehe käest kätte 13 kilo narkootikume
+    url: https://www.mke.ee/et/uudised-et/politsei-sai-tabatud-mehe-kaest-katte-13-kilo-narkootikume/
+    publisher: MKE.EE
+    date: 2026-11-11
+    language: et
 open_questions:
     - No separate weight was published for the cannabis and hashish within the 8.1 kilograms of mixed substances, so the cannabis quantity is not recorded.
     - The reports do not say what happened after the custody ruling or when the case will reach court.
@@ -76,18 +81,18 @@ open_questions:
 
 Police detained a 27-year-old Uzbek citizen with a Latvian residence permit in
 Tallinn on 19 October on suspicion of large-scale illegal handling of narcotics.
-[@1,3,4,5] A court granted the prosecution request to keep the man in custody during
-the pre-trial investigation. [@1,3,4,6] The prosecutor argued for custody on the grounds that the man had no permanent income or ties to Estonia and would have evaded prosecution and continued distributing drugs across Estonia if released. [@3,4,5]
+[@1,3,4,5,7] A court granted the prosecution request to keep the man in custody during
+the pre-trial investigation. [@1,3,4,6,7] The prosecutor argued for custody on the grounds that the man had no permanent income or ties to Estonia and would have evaded prosecution and continued distributing drugs across Estonia if released. [@3,4,5,7]
 
 According to information collected so far, the man brokered narcotics through
-the Telegram messaging app mainly in the capital. [@1,3,4,6] He allegedly stored the
+the Telegram messaging app mainly in the capital. [@1,3,4,6,7] He allegedly stored the
 drugs in his rented flat, repackaged them into smaller quantities and carried
-the packets to stash locations across the city. [@2,3,4,5] A search of the flat found
+the packets to stash locations across the city. [@2,3,4,5,7] A search of the flat found
 at least 5.4 kilograms of amphetamine-containing substance and over 8.1
-kilograms of substances containing MDMA, cocaine, cannabis and hashish. [@2,3,4,5]
+kilograms of substances containing MDMA, cocaine, cannabis and hashish. [@2,3,4,5,7]
 
 Police said the total amount could have caused narcotic intoxication in about
-70,000 people on the initial estimate. [@1,3,4,6] The supervising prosecutor said the
+70,000 people on the initial estimate. [@1,3,4,6,7] The supervising prosecutor said the
 evidence so far indicates the man was part of a larger grouping operating across
-Estonia. [@2,3,4,6] The pre-trial proceedings are conducted by the Eastern Prefecture
-and led by the Viru District Prosecutor’s Office. [@2,3,4,6]
+Estonia. [@2,3,4,6,7] The pre-trial proceedings are conducted by the Eastern Prefecture
+and led by the Viru District Prosecutor’s Office. [@2,3,4,6,7]
