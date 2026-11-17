@@ -1,0 +1,128 @@
+---
+code: RH8SVE
+added_at: "2026-11-17T16:53:52.890259Z"
+date: 2026-11-13
+country: ua
+place: Ivano-Frankivsk region (Prykarpattia)
+coordinates: [48.9226, 24.7111]
+precision: region
+type: arrest
+also: [seizure, raid, prosecution]
+title: Foreigner and local man held over Ivano-Frankivsk cannabis lab; 1.5 kg seized
+summary: >-
+  A 47-year-old foreigner who came to Ukraine in late 2024 and a local accomplice ran an indoor cannabis-growing laboratory and sold cannabis in Ivano-Frankivsk region. Police seized more than 1.5 kg of cannabis valued at over 750,000 hryvnias, cash and growing equipment in six searches on 13 November.
+figures:
+  arrested: 2
+  charged: 2
+  vehicles: 1
+  kg_seized: 1.5
+  value:
+    amount: 750000
+    currency: UAH
+  cash:
+    amount: 144000
+    currency: UAH
+details:
+  agencies: [Департамент стратегічних розслідувань Національної поліції України, Управління стратегічних розслідувань в Івано-Франківській області, Слідчі Національної поліції в Івано-Франківській області, Управління СБУ в Івано-Франківській області, Спецпризначенці КОРД]
+  agency_types: [anti-narcotics, police, other]
+  products:
+    - {product: flower, kg: 1.5}
+  activity: [cultivation, processing, sale]
+  setting: [home]
+  environment: [indoor]
+  charges: [illegal manufacture and sale of narcotics (Part 2 Article 307), illegal sowing or cultivation of cannabis (Part 2 Article 310), organising or maintaining premises for illegal drug manufacture (Part 2 Article 317)]
+  case_stage: charged
+  date_precision: exact
+  region: Ivano-Frankivsk Oblast
+data_sources:
+  details.activity: [2]
+  details.agencies: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.cash: [1]
+  figures.charged: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
+  figures.vehicles: [1]
+media:
+  - kind: photo
+    url: https://report.if.ua/kryminal/na-prykarpatti-inozemecz-razom-iz-misczevym-meshkanczem-vyroshhuvaly-konopli-u-nyh-vyluchyly-tovaru-na-750-tys-grn/
+    media_url: https://report.if.ua/wp-content/uploads/2026/11/inozemec-konopli4-1536x1152.jpeg
+    publisher: Reporter (report.if.ua)
+    caption: 'A police officer photographing containers of plant material resembling cannabis during the search of one of the premises. Photo: police handout via Reporter'
+  - kind: photo
+    url: https://report.if.ua/kryminal/na-prykarpatti-inozemecz-razom-iz-misczevym-meshkanczem-vyroshhuvaly-konopli-u-nyh-vyluchyly-tovaru-na-750-tys-grn/
+    media_url: https://report.if.ua/wp-content/uploads/2026/11/inozemec-konopli2-1536x1152.jpeg
+    publisher: Reporter (report.if.ua)
+    caption: 'Officers and seized containers of dried cannabis during the 13 November searches, from the photo gallery published with the article. Photo: police handout via Reporter'
+  - kind: photo
+    url: https://report.if.ua/kryminal/na-prykarpatti-inozemecz-razom-iz-misczevym-meshkanczem-vyroshhuvaly-konopli-u-nyh-vyluchyly-tovaru-na-750-tys-grn/
+    media_url: https://report.if.ua/wp-content/uploads/2026/11/inozemec-konopli-1536x1152.jpeg
+    publisher: Reporter (report.if.ua)
+    caption: 'Officers in the searched premises during the 13 November raids, from the photo gallery published with the article. Photo: police handout via Reporter'
+  - kind: video
+    url: https://report.if.ua/kryminal/na-prykarpatti-inozemecz-razom-iz-misczevym-meshkanczem-vyroshhuvaly-konopli-u-nyh-vyluchyly-tovaru-na-750-tys-grn/
+    media_url: https://www.facebook.com/reel/1142342441866403/
+    publisher: Reporter (report.if.ua)
+    caption: Facebook reel video of the searches and seizure, embedded in the Reporter article
+status: verified
+created_by_model: swancloud/deepseek-v4-flash#xhigh
+submission: 08d0f11068b32e8301d21756c101112e
+tags: [ivano-frankivsk, indoor-grow, narcotics-lab, article-307, cannabis-sale]
+sources:
+  - title: На Прикарпатті іноземець разом із місцевим мешканцем вирощували коноплі – у них вилучили товару на 750 тис грн (ФОТО)
+    url: https://report.if.ua/kryminal/na-prykarpatti-inozemecz-razom-iz-misczevym-meshkanczem-vyroshhuvaly-konopli-u-nyh-vyluchyly-tovaru-na-750-tys-grn/
+    publisher: Reporter (report.if.ua)
+    date: 2026-11-17
+    language: uk
+  - title: 'На Івано-Франківщині іноземець організував нарколабораторію: вилучено канабісу на понад 750 тис грн (фото + відео)'
+    url: https://versii.if.ua/novunu/na-ivano-frankivshhyni-inozemecz-organizuvav-narkolaboratoriyu-vylucheno-kanabisu-na-ponad-750-tys-grn-foto/
+    publisher: Versii.if.ua
+    date: 2026-11-17
+    language: uk
+  - title: Іноземець організував нарколабораторію на Прикарпатті (ФОТО)
+    url: https://pravda.if.ua/inozemeczio-organizuvav-narkolaboratoriyu-na-prykarpatti-foto/
+    publisher: Pravda.if.ua
+    date: 2026-11-17
+    language: uk
+open_questions:
+  - The suspects' names and the foreigner's country of citizenship were not released.
+  - No figure for the number of plants found or the laboratory's output was published; only the weight of finished cannabis seized is known.
+  - The exact location of the laboratory and which suspect lived in the house are not named in any account.
+  - The searches took place on 13 November, but no separate date for the detentions or for the court's custody decision was published.
+  - All three accounts derive from the same police Department of Strategic Investigations statement, so they are not independent reporting.
+  - It is not known whether either suspect paid the 266,240 hryvnia bail or was released.
+---
+
+Police in Ivano-Frankivsk region detained a 47-year-old foreigner and a local
+resident who, investigators say, set up a cannabis-growing laboratory and sold
+cannabis in the region. [@1] The foreigner arrived in Ukraine at the end of 2024
+and settled in the region, coordinating the operation and controlling the money,
+while his accomplice bought seeds and equipment and tended the crops. [@1]
+
+The laboratory was set up on the second floor of a private house where one of
+the suspects lived, fitted with ventilation, lighting, heating, air conditioning
+and drip irrigation so cannabis could be grown all year round. [@1] Dried
+cannabis was taken to a flat in Ivano-Frankivsk, from where it was sold through
+stash drops or during meetings with buyers. [@1]
+
+On 13 November officers of the strategic investigations department, police
+investigators, SBU officers and KORD special forces searched six homes and
+vehicles of the suspects. [@1] They seized more than 1.5 kg of cannabis, growing
+equipment, 144,000 hryvnias and 3,400 dollars in cash, phones, computers, draft
+notes and a car. [@1] The operation also involved KORD special forces, a
+special-purpose police company and the regional police's rapid response group.
+[@2]
+
+Both suspects were notified of suspicion of illegal manufacture and sale of
+drugs, sowing cannabis and maintaining a drug laboratory (Part 2 of Articles
+307, 310 and 317 of the Criminal Code) and face up to 10 years in prison. [@1]
+The court ordered both held in custody with the option of bail of 266,240
+hryvnias each. [@1] Investigators are working to establish other people who may
+have been involved in the operation. [@3]
+
