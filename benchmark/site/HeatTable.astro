@@ -1,0 +1,39 @@
+---
+// Scores by kind of case and by part of the report, a row each (rows from data.js runRow/variantRow);
+// the stronger the wash, the more points were lost.
+import { FAMILIES, FAMILY_NOTE, CAPABILITIES, score, heat, tip } from "./data.js";
+const { title, sub, rows } = Astro.props;
+const families = Object.keys(FAMILIES);
+const caps = Object.keys(CAPABILITIES);
+const SHORT = { "new-event": "New", "known-event": "Known", "out-of-scope": "Scope", recognised: "Found", facts: "Facts", figures: "Figures", classification: "Class.", corroboration: "Sources", photos: "Photos", text: "Text", grounding: "Quotes" };
+---
+<figure class="b-card" data-chart>
+  <figcaption><b>{title}</b> <span>{sub}</span></figcaption>
+  <div class="b-scroll">
+    <table class="b-table b-heat">
+      <thead>
+        <tr>
+          <th>Model</th>
+          <th class="h">All</th>
+          {families.map((family, i) => <th class:list={["h", { sep: i === 0 }]} title={`${FAMILIES[family]}: ${FAMILY_NOTE[family]}`}>{SHORT[family]}</th>)}
+          {caps.map((cap, i) => <th class:list={["h", { sep: i === 0 }]} title={`${CAPABILITIES[cap][0]}: ${CAPABILITIES[cap][1]}`}>{SHORT[cap]}</th>)}
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((row) => (
+          <tr>
+            <td class="name"><span class="b-model"><a href={row.href}>{row.name}</a></span><span class="b-sub">{row.sub}</span></td>
+            <td class="h"><span style={heat(row.score)}>{score(row.score)}</span></td>
+            {families.map((family, i) => <td class:list={["h", { sep: i === 0 }]}><span style={heat(row.families[family])} tabindex="0" data-tip={tip(row.name, FAMILIES[family], [["", "Score", score(row.families[family])]])}>{score(row.families[family])}</span></td>)}
+            {caps.map((cap, i) => <td class:list={["h", { sep: i === 0 }]}><span style={heat(row.capabilities[cap])} tabindex="0" data-tip={tip(row.name, CAPABILITIES[cap][1], [["", CAPABILITIES[cap][0], score(row.capabilities[cap])]])}>{score(row.capabilities[cap])}</span></td>)}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <div class="b-scale" aria-hidden="true">points lost: 0 <span>{[0, 20, 40, 60, 80, 100].map((loss) => <i style={`--loss:${loss}`}></i>)}</span> 100</div>
+  <p class="chart-note"><b>New</b>, <b>Known</b>, <b>Scope</b>: the three kinds of case (new events, events already covered,
+    pages out of scope). The next eight look inside the reports written for new events: <b>Found</b> (recognised as an
+    event), <b>Facts</b>, <b>Figures</b>, <b>Class.</b> (classification), <b>Sources</b> (corroboration), <b>Photos</b>,
+    <b>Text</b>, <b>Quotes</b> (grounding).</p>
+</figure>

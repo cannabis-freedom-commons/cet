@@ -1,0 +1,91 @@
+---
+// /benchmark/model/<variant>/: one model with its effort setting, pooled over its full runs, and
+// those runs side by side: whichever harness or provider served them, and every repeat.
+import Base from "../../src/layouts/Base.astro";
+import "./benchmark.css";
+import Leaderboard from "./Leaderboard.astro";
+import HeatTable from "./HeatTable.astro";
+import CaseMatrix from "./CaseMatrix.astro";
+import { cases, FAMILIES, VERDICTS, score, tokens, tip, usd, costRows, day, rankedVariants, variantRow, runRow, subjectLine } from "./data.js";
+import { MODELS, apiPrice } from "../../src/lib/models.js";
+export function getStaticPaths() {
+  return rankedVariants().map((g) => ({ params: { variant: g.slug }, props: { g } }));
+}
+const { g } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const row = variantRow(g, base);
+const all = rankedVariants();
+const place = all.findIndex((other) => other.key === g.key) + 1;
+const runRows = g.runs.map((run) => runRow(run, base, "subject")).sort((a, b) => (b.score ?? -1) - (a.score ?? -1));
+const maker = MODELS[g.model];
+const price = apiPrice(g.model);
+const v = row.v;
+const share = (key) => v[key] / Math.max(1, row.attempts);
+const families = Object.keys(FAMILIES).filter((family) => row.families[family] != null);
+---
+<Base title={`${g.name} · research benchmark`} description={`${g.name} on ${cases.length} tracker research cases: score ${score(row.score)} of 100 over ${g.runs.length} runs.`} wide noindex>
+  <div class="bench">
+    <p class="crumbs"><a href={`${base}benchmark/`}>Research benchmark</a> / model</p>
+    <h1>{g.name}</h1>
+    <p class="lead">{maker ? `${maker.name} by ${maker.by}` : g.model} · {g.runs.length} full {g.runs.length === 1 ? "run" : "runs"} on {row.sub.split(" · ").slice(1).join(" · ")}</p>
+
+    <div class="b-hero" data-chart>
+      <div class="num">{score(row.score)}<small>of 100 · {place} of {all.length} models</small></div>
+      <div class="side">
+        <p>{row.attempts} case results: {VERDICTS.filter(([key]) => v[key]).map(([key, label]) => `${v[key]} ${label.toLowerCase()}`).join(" · ")}</p>
+        <div class="b-segtall" role="img" aria-label={VERDICTS.filter(([key]) => v[key]).map(([key, label]) => `${v[key]} ${label.toLowerCase()}`).join(", ")}>
+          {VERDICTS.filter(([key]) => v[key]).map(([key, label]) => (
+            <span class:list={[`v-${key}`, { bare: share(key) < 0.07 }]} style={`flex:${v[key]}`} tabindex="0" data-tip={tip(label, `${v[key]} of ${row.attempts} case results`)}>{share(key) >= 0.07 ? v[key] : ""}</span>
+          ))}
+        </div>
+        <ul class="b-legend">
+          {VERDICTS.filter(([key]) => v[key]).map(([key, label]) => <li><i class={`v-${key}`}></i>{label}</li>)}
+        </ul>
+      </div>
+    </div>
+    {row.range && <p class="note">Single runs and repeats scored between {score(row.range[0])} and {score(row.range[1])}.</p>}
+
+    <dl class="b-facts">
+      {families.map((family) => <div><dt>{FAMILIES[family]}</dt><dd>{score(row.families[family])}</dd></div>)}
+      <div><dt>Typical case</dt><dd>{row.min ?? "?"} min</dd></div>
+      <div><dt>Tokens a case</dt><dd>{tokens(row.t.total)} <span class="b-none">· {tokens(row.t.fresh)} fresh · {tokens(row.t.cached)} cached · {tokens(row.t.output)} out</span></dd></div>
+      <div><dt>List price a case</dt><dd>{row.cost ? <span tabindex="0" data-tip={tip(g.name, "one case", costRows(row.cost))}>{row.cost.unconfirmed ? "≈" : ""}{usd(row.cost.perCase)}</span> : <span class="b-none">none published</span>}</dd></div>
+    </dl>
+    {price && <p class="note">List price: ${price.input} input, ${price.output} output{price.cached != null ? `, $${price.cached} cached input` : ""} per million tokens · {price.source}{price.unconfirmed ? " · reported by third parties, not confirmed with the maker" : ""}.</p>}
+
+    <h2 id="runs">Its runs</h2>
+    <p class="note">Every full run of this model and effort, whatever harness or provider served it. Open one for its cases in detail.</p>
+    <Leaderboard title="Runs side by side" sub="ranked by score" rows={runRows}
+      note="The thin line on a score bar spans the run's repeats. Point at the price for the provider's own price and plan share where they are known." />
+
+    <HeatTable title="Where each run loses points" sub="by kind of case and by part of the report" rows={[{ ...row, name: "All runs pooled", sub: g.providers.join(", ") }, ...runRows]} />
+
+    {g.others.length > 0 && (
+      <>
+        <h3>Unfinished and partial runs</h3>
+        <div class="b-scroll">
+          <table class="b-table">
+            <thead><tr><th>Run</th><th class="n">Score so far</th><th class="n">Cases</th><th>Why apart</th></tr></thead>
+            <tbody>
+              {g.others.map((run) => (
+                <tr>
+                  <td><span class="b-model"><a href={`${base}benchmark/${run.id}/`}>{subjectLine(run)}</a></span><span class="b-sub">{day(run.started_at)}</span></td>
+                  <td class="n">{score(run.summary.score)}</td>
+                  <td class="n">{run.summary.cases} of {cases.length}</td>
+                  <td>{run.complete ? (run.full_set ? "earlier cases, settings or rules" : "only some cases") : "stopped before the end"}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </>
+    )}
+
+    <h2 id="cases">Case by case</h2>
+    <p class="note">One row a case, one column a run. Each cell opens what that run did on the case.</p>
+    <CaseMatrix columns={[{ ...row, name: "pooled", sub: "all runs", href: `#runs`, caseHref: () => "#runs" }, ...runRows]} />
+  </div>
+</Base>
+<script>
+  import "../../src/scripts/chart-tooltip.js";
+</script>

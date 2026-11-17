@@ -294,6 +294,7 @@ function usage(raw) {
     output_tokens: sum("output_tokens"),
     reasoning_tokens: sum("reasoning_tokens"),
     cache_read_tokens: sum("cache_read_tokens"),
+    cache_write_tokens: sum("cache_write_tokens"),
     cost_usd: sum("cost_usd"),
   };
 }
@@ -454,6 +455,7 @@ export function summarize(cases) {
       output_tokens: total("output_tokens"),
       reasoning_tokens: total("reasoning_tokens"),
       cache_read_tokens: total("cache_read_tokens"),
+      cache_write_tokens: total("cache_write_tokens"),
       cost_usd: Math.round(total("cost_usd") * 10000) / 10000,
     },
   };

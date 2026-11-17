@@ -7,6 +7,7 @@ export function benchmarkPages() {
       "astro:config:setup": ({ injectRoute }) => {
         injectRoute({ pattern: "/benchmark", entrypoint: "./benchmark/site/index.astro" });
         injectRoute({ pattern: "/benchmark/[run]", entrypoint: "./benchmark/site/run.astro" });
+        injectRoute({ pattern: "/benchmark/model/[variant]", entrypoint: "./benchmark/site/model.astro" });
       },
     },
   };

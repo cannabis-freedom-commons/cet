@@ -87,9 +87,17 @@ export function printRun(run) {
     lines.push(`  ${num(item.score)}  ${pad(item.id, 36)} ${last.decision.got}${last.decision.note ? ` (${last.decision.note.slice(0, 80)})` : ""}`);
   }
   const u = s.usage;
-  lines.push("", `Typical case: ${u.minutes_per_case ?? "?"} min, ${u.steps_per_case ?? "?"} steps. Tokens: ${u.input_tokens.toLocaleString("en")} in, ${u.output_tokens.toLocaleString("en")} out${u.cost_usd ? `, $${u.cost_usd}` : ""}.`);
+  lines.push("", `Typical case: ${u.minutes_per_case ?? "?"} min, ${u.steps_per_case ?? "?"} steps, ${compact(tokensPerCase(s))} tokens (cached input included).`);
+  lines.push(`Whole run: ${compact(u.input_tokens)} fresh input, ${compact((u.cache_read_tokens || 0) + (u.cache_write_tokens || 0))} cached, ${compact((u.output_tokens || 0) + (u.reasoning_tokens || 0))} output and reasoning. Cost at API prices is on the run's page.`);
   console.log(lines.join("\n"));
 }
+
+// every token the model read and wrote for one case: fresh input, cached input, output, reasoning
+const tokensPerCase = (summary) => {
+  const u = summary.usage;
+  return Math.round(((u.input_tokens || 0) + (u.cache_read_tokens || 0) + (u.cache_write_tokens || 0) + (u.output_tokens || 0) + (u.reasoning_tokens || 0)) / Math.max(1, summary.attempts));
+};
+const compact = (n) => (n >= 1e6 ? `${(n / 1e6).toFixed(1)}M` : n >= 1e3 ? `${Math.round(n / 1e3)}k` : String(n || 0));
 
 export function printTable(runs) {
   const rows = runs.map((run) => ({
@@ -100,11 +108,13 @@ export function printTable(runs) {
     scope: run.summary.families["out-of-scope"]?.score,
     cases: run.summary.cases,
     repeats: Math.round(run.summary.attempts / Math.max(1, run.summary.cases)),
+    minutes: run.summary.usage.minutes_per_case,
+    tokens: tokensPerCase(run.summary),
     set: run.complete && run.full_set ? `${run.cases_hash}/p${run.protocol?.version}/s${run.scorer_version}` : run.complete ? "some cases only" : "not finished",
     id: run.id,
   }));
   const ranked = (row) => (/^(not finished|some cases only)$/.test(row.set) ? 0 : 1);
   rows.sort((a, b) => ranked(b) - ranked(a) || (b.score ?? -1) - (a.score ?? -1));
-  console.log(`${pad("Harness @ provider / model # effort", 58)} Score  New Known Scope  Cases  Set`);
-  for (const row of rows) console.log(`${pad(row.subject, 58)} ${num(row.score)}   ${num(row.new)}  ${num(row.known)}   ${num(row.scope)}  ${String(row.cases).padStart(3)}×${row.repeats}  ${row.set}  ${row.id}`);
+  console.log(`${pad("Harness @ provider / model # effort", 58)} Score  New Known Scope  Min/case Tok/case  Cases  Set`);
+  for (const row of rows) console.log(`${pad(row.subject, 58)} ${num(row.score)}   ${num(row.new)}  ${num(row.known)}   ${num(row.scope)}  ${String(row.minutes ?? "–").padStart(8)} ${compact(row.tokens).padStart(8)}  ${String(row.cases).padStart(3)}×${row.repeats}  ${row.set}  ${row.id}`);
 }

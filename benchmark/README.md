@@ -137,6 +137,18 @@ a run can be scored again at any time and two runs are always compared by the sa
 - Pages change and disappear. A case whose page no longer opens is shown as "skipped" and left out
   of the mean; replace it.
 
+## Tokens and cost
+
+Every run records what the harness reports for each case: fresh input, input read from the
+provider's cache, output and reasoning tokens. The site shows **tokens a case** (all of them,
+cached included), their split, and **cost a case**: what the harness reported, or else the tokens at
+the model's API prices, each kind at its own rate. A subscription with a known ratio also shows
+the plan's share.
+
+Prices come from `src/lib/models.js`, the same table the tracker uses for its own runs. A model
+that is not there shows a dash for cost; add its prices there and rebuild, no new run is needed.
+The "score against tokens" chart marks the models that no other model beats with fewer tokens.
+
 ## After changing a case or a rule
 
 ```bash

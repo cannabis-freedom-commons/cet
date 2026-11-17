@@ -2,7 +2,7 @@
 // /benchmark/<run id>/: one run, case by case: what was expected, what the model did, every check.
 import Base from "../../src/layouts/Base.astro";
 import "./benchmark.css";
-import { runs, FAMILIES, CAPABILITIES, day, score, band, tokens } from "./data.js";
+import { runs, FAMILIES, CAPABILITIES, VERDICTS, setOf, day, score, tokens, heat, tip, verdictCounts, verdictOf, tokenSplit, costOf, costRows, usd, rankedVariants, variantOf, modelName as nameOf } from "./data.js";
 export function getStaticPaths() {
   return runs.map((run) => ({ params: { run: run.id }, props: { run } }));
 }
@@ -10,7 +10,7 @@ const { run } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const s = run.summary;
 const subject = run.subject;
-const modelName = subject.model + (subject.effort ? `#${subject.effort}` : "");
+const modelName = nameOf(run);
 const repeats = Math.max(1, Math.round(s.attempts / Math.max(1, s.cases)));
 const families = Object.keys(FAMILIES).filter((family) => run.cases.some((item) => item.family === family));
 const mark = (value) => (value >= 1 ? "✓" : value > 0 ? "~" : "✗");
@@ -19,41 +19,91 @@ const minutes = (seconds) => (seconds == null ? "?" : seconds < 90 ? `${Math.rou
 const host = (url) => { try { return new URL(url).hostname.replace(/^www\./, ""); } catch { return url; } };
 const kv = (object) => Object.entries(object || {}).map(([key, value]) => `${key}: ${typeof value === "object" ? JSON.stringify(value) : value}`).join(" · ");
 const verdictWord = { pass: "pass", partial: "partial", fail: "fail", error: "did not finish", skipped: "skipped", spoiled: "spoiled, not counted" };
+
+const ranked = run.full_set && run.complete;
+// the ranked runs on the same cases, settings and rules: what this run is compared with
+const peers = runs.filter((other) => other.full_set && other.complete && setOf(other) === setOf(run));
+const place = ranked ? [...peers].sort((a, b) => (b.summary.score ?? -1) - (a.summary.score ?? -1)).findIndex((other) => other.id === run.id) + 1 : 0;
+const bestOf = (key) => peers.reduce((best, other) => { const value = other.summary.capabilities[key]?.score; return value != null && (!best || value > best.value) ? { value, name: nameOf(other) } : best; }, null);
+const v = verdictCounts(run);
+const t = tokenSplit(run);
+const cost = costOf(run);
+// a block of the tall split bar prints its count only where it has room for it
+const share = (key) => v[key] / Math.max(1, s.attempts);
+// the model and variant this run counts towards, when it has a page
+const variant = rankedVariants().find((g) => g.key === variantOf(run).key);
 ---
 <Base title={`${modelName} · research benchmark`} description={`Benchmark run of ${subject.id} on ${s.cases} tracker research cases: score ${score(s.score)} of 100.`} wide noindex>
   <div class="bench">
-    <p class="crumbs"><a href={`${base}benchmark/`}>Research benchmark</a> / run</p>
+    <p class="crumbs"><a href={`${base}benchmark/`}>Research benchmark</a> / {variant ? <a href={`${base}benchmark/model/${variant.slug}/`}>{variant.name}</a> : variantOf(run).name} / run</p>
     <h1>{modelName}</h1>
-    <p class="lead">{subject.harness} {subject.harness_version} · provider {subject.provider} · {day(run.started_at)}{run.label ? ` · ${run.label}` : ""}{run.complete ? "" : " · this run did not finish"}</p>
+    <p class="lead">{subject.harness} {String(subject.harness_version || "").replace(/^\D+/, "")} · provider {subject.provider} · {day(run.started_at)}{run.label ? ` · ${run.label}` : ""}{run.complete ? "" : " · this run did not finish"}</p>
 
-    <dl class="b-facts">
-      <div><dt>Score</dt><dd class:list={["big", `b-${band(s.score)}`]}>{score(s.score)}</dd></div>
-      {families.map((family) => <div><dt>{FAMILIES[family]}</dt><dd class={`b-${band(s.families[family]?.score)}`}>{score(s.families[family]?.score)} <span class="b-none">· {s.families[family]?.cases}</span></dd></div>)}
-      <div><dt>Cases × repeats</dt><dd>{s.cases} × {repeats}</dd></div>
-      <div><dt>Verdicts</dt><dd><span class="b-pass">{s.verdicts.pass} pass</span> · <span class="b-part">{s.verdicts.partial} partial</span> · <span class="b-fail">{s.verdicts.fail} fail</span>{s.verdicts.error ? <> · {s.verdicts.error} unfinished</> : ""}{s.verdicts.skipped ? <> · {s.verdicts.skipped} skipped</> : ""}{s.verdicts.spoiled ? <> · {s.verdicts.spoiled} spoiled</> : ""}</dd></div>
-    </dl>
-    {s.attempt_scores.length > 1 && <p class="note">Score of each repeat: {s.attempt_scores.join(", ")}.</p>}
-    {!run.full_set && <p class="b-flag">Only some of the cases were run, so this score is not comparable with full runs.</p>}
-
-    {Object.keys(s.capabilities).length > 0 && (
-      <>
-        <h2>Inside the reports it wrote</h2>
-        <div class="b-bars">
-          {Object.entries(s.capabilities).map(([key, value]) => (
-            <div class:list={["b-barrow", `b-${band(value.score)}`]}>
-              <div class="lab"><span style="color:var(--text)">{CAPABILITIES[key][0]}</span><b>{score(value.score)}</b></div>
-              <div class="track"><i style={`width:${value.score ?? 0}%`}></i></div>
-              <small>{CAPABILITIES[key][1]} ({value.cases} cases)</small>
-            </div>
+    <div class="b-hero" data-chart>
+      <div class="num">{score(s.score)}<small>of 100{ranked ? ` · ${place} of ${peers.length} ranked` : " · not ranked"}</small></div>
+      <div class="side">
+        <p>{s.attempts} case results{repeats > 1 ? ` (${s.cases} cases × ${repeats})` : ""}: {VERDICTS.filter(([key]) => v[key]).map(([key, label]) => `${v[key]} ${label.toLowerCase()}`).join(" · ")}</p>
+        <div class="b-segtall" role="img" aria-label={VERDICTS.filter(([key]) => v[key]).map(([key, label]) => `${v[key]} ${label.toLowerCase()}`).join(", ")}>
+          {VERDICTS.filter(([key]) => v[key]).map(([key, label]) => (
+            <span class:list={[`v-${key}`, { bare: share(key) < 0.07 }]} style={`flex:${v[key]}`} tabindex="0" data-tip={tip(label, `${v[key]} of ${s.attempts} case results`)}>{share(key) >= 0.07 ? v[key] : ""}</span>
           ))}
         </div>
-      </>
-    )}
+        <ul class="b-legend">
+          {VERDICTS.filter(([key]) => v[key]).map(([key, label]) => <li><i class={`v-${key}`}></i>{label}</li>)}
+        </ul>
+      </div>
+    </div>
+    {s.attempt_scores.length > 1 && <p class="note">Score of each repeat: {s.attempt_scores.join(", ")}.</p>}
+    {!run.complete && <p class="b-flag">This run stopped before the end, so the score covers only the {s.cases} cases it finished and is not ranked. Continue it with <code>npm run benchmark -- --extend {run.id.slice(0, 13)}</code>.</p>}
+    {run.complete && !run.full_set && <p class="b-flag">Only some of the cases were run, so this score is not comparable with full runs.</p>}
 
     <dl class="b-facts">
+      {families.map((family) => <div><dt>{FAMILIES[family]}</dt><dd>{score(s.families[family]?.score)} <span class="b-none">· {s.families[family]?.cases} cases</span></dd></div>)}
       <div><dt>Typical case</dt><dd>{s.usage.minutes_per_case ?? "?"} min · {s.usage.steps_per_case ?? "?"} steps</dd></div>
-      <div><dt>Tokens</dt><dd>{tokens(s.usage.input_tokens)} in · {tokens(s.usage.output_tokens)} out · {tokens(s.usage.reasoning_tokens)} reasoning · {tokens(s.usage.cache_read_tokens)} cached</dd></div>
-      {s.usage.cost_usd > 0 && <div><dt>Cost reported</dt><dd>${s.usage.cost_usd}</dd></div>}
+      <div><dt>Tokens a case</dt><dd>{tokens(t.total)} <span class="b-none">· {tokens(t.fresh)} fresh · {tokens(t.cached)} cached · {tokens(t.output)} out</span></dd></div>
+      <div><dt>List price a case</dt><dd>{cost ? <><span tabindex="0" data-tip={tip(modelName, "one case", costRows(cost))}>{cost.unconfirmed ? "≈" : ""}{usd(cost.perCase)}</span> <span class="b-none">· run {usd(cost.total)}{cost.providerPerCase != null ? ` · ${usd(cost.providerPerCase)} at ${subject.provider}` : ""}{cost.planPerCase != null ? ` · ${usd(cost.planPerCase)} on its plan` : ""}</span></> : <span class="b-none">none published</span>}</dd></div>
+    </dl>
+
+    {Object.keys(s.capabilities).length > 0 && (
+      <figure class="b-card" data-chart>
+        <figcaption><b>Inside the reports it wrote</b> <span>each part out of 100, over the new-event cases that test it{peers.length > 1 ? " · the mark is the best ranked model" : ""}</span></figcaption>
+        <ul class="b-meters">
+          {Object.entries(s.capabilities).map(([key, value]) => {
+            const top = peers.length > 1 ? bestOf(key) : null;
+            return (
+              <li>
+                <span>{CAPABILITIES[key][0]}</span>
+                <span class="b-meter" tabindex="0" data-tip={tip(CAPABILITIES[key][0], `${value.cases} cases`, [["", modelName, score(value.score)], ...(top ? [["", `Best: ${top.name}`, score(top.value)]] : [])])}>
+                  <span class="track"><i style={`width:${value.score ?? 0}%`}></i>{top && <span class="best" style={`left:${top.value}%`}></span>}</span>
+                  <b>{score(value.score)}</b>
+                </span>
+                <small>{CAPABILITIES[key][1]}</small>
+              </li>
+            );
+          })}
+        </ul>
+      </figure>
+    )}
+
+    <figure class="b-card" data-chart>
+      <figcaption><b>Every case</b> <span>one square a case · the stronger the wash, the more points were lost · a square opens its case</span></figcaption>
+      <dl class="b-map">
+        {families.map((family) => (
+          <>
+            <dt>{FAMILIES[family]}</dt>
+            <dd>
+              {run.cases.filter((item) => item.family === family).map((item) => (
+                <a class:list={{ off: item.score == null }} style={heat(item.score)} href={`#${item.id}`} aria-label={`${item.title}: ${item.score == null ? "not counted" : score(item.score)}`}
+                  data-tip={tip(item.title, item.attempts.at(-1).decision.got, [["", "Score", item.score == null ? "not counted" : score(item.score)]])}></a>
+              ))}
+            </dd>
+          </>
+        ))}
+      </dl>
+      <div class="b-scale" aria-hidden="true">points lost: 0 <span>{[0, 20, 40, 60, 80, 100].map((loss) => <i style={`--loss:${loss}`}></i>)}</span> 100</div>
+    </figure>
+
+    <dl class="b-facts">
       <div><dt>Run settings</dt><dd>{run.protocol.max_steps} steps · {Math.round(run.protocol.timeout_seconds / 60)} min · search {run.protocol.websearch} · context {run.protocol.context}</dd></div>
       <div><dt>Tracker</dt><dd>code {run.tracker.commit.slice(0, 8)}{run.tracker.uncommitted_changes ? " + local changes" : ""} · reports {run.tracker.reports_commit.slice(0, 8)}</dd></div>
       <div><dt>Set</dt><dd>cases {run.cases_hash} · rules v{run.scorer_version}</dd></div>
@@ -65,9 +115,9 @@ const verdictWord = { pass: "pass", partial: "partial", fail: "fail", error: "di
         {run.cases.filter((item) => item.family === family).map((item) => {
           const last = item.attempts[item.attempts.length - 1];
           return (
-            <details class="b-case" id={item.id}>
+            <details class:list={["b-case", `is-${verdictOf(item.score)}`]} id={item.id}>
               <summary>
-                <span class:list={["sc", `b-${band(item.score)}`]}>{score(item.score)}</span>
+                <span class="sc">{score(item.score)}</span>
                 <span class="ttl">{item.title}</span>
                 <span class="got">{last.decision.got}</span>
               </summary>
@@ -87,7 +137,7 @@ const verdictWord = { pass: "pass", partial: "partial", fail: "fail", error: "di
                     {a.explanation && a.model_explanation && a.explanation !== a.model_explanation && a.status !== "committed" && <p class="note"><b>The service:</b> {a.explanation}</p>}
                     {a.dimensions && Object.entries(a.dimensions).map(([key, d]) => (
                       <div class="b-dim">
-                        <h5>{CAPABILITIES[key][0]} <span class={`b-${band(d.score * 100)}`}>{Math.round(d.score * 100)} · weight {d.weight}</span></h5>
+                        <h5>{CAPABILITIES[key][0]} <span>{Math.round(d.score * 100)} · weight {d.weight}</span></h5>
                         {d.checks.length > 0 && (
                           <table class="b-checks">
                             <tbody>
@@ -122,7 +172,7 @@ const verdictWord = { pass: "pass", partial: "partial", fail: "fail", error: "di
                       </details>
                     )}
                     {a.searches?.length > 0 && <p class="b-usage">Searches: {a.searches.map((q) => `“${q}”`).join(" · ")}</p>}
-                    <p class="b-usage">Tokens: {tokens(a.usage.input_tokens)} in · {tokens(a.usage.output_tokens)} out · {tokens(a.usage.reasoning_tokens)} reasoning · {tokens(a.usage.cache_read_tokens)} cached{a.usage.cost_usd ? ` · $${a.usage.cost_usd.toFixed(4)}` : ""}</p>
+                    <p class="b-usage">Tokens: {tokens(a.usage.input_tokens)} fresh in · {tokens(a.usage.cache_read_tokens)} cached · {tokens(a.usage.output_tokens)} out · {tokens(a.usage.reasoning_tokens)} reasoning{a.usage.cost_usd ? ` · $${a.usage.cost_usd.toFixed(4)}` : ""}</p>
                   </div>
                 ))}
               </div>
@@ -134,6 +184,7 @@ const verdictWord = { pass: "pass", partial: "partial", fail: "fail", error: "di
   </div>
 </Base>
 <script>
+  import "../../src/scripts/chart-tooltip.js";
   // a link to a case (#case-id) opens it
   const open = () => {
     const target = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));

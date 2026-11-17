@@ -1,36 +1,51 @@
 ---
-// /benchmark/: how well each harness + provider + model does the tracker's own research job,
-// measured on real pages with known answers (benchmark/README.md).
+// /benchmark/: how well each model does the tracker's own research job, measured on real pages
+// with known answers (benchmark/README.md). One row a model and variant, pooled over its runs; each
+// opens its own page with the runs side by side (model.astro).
 import Base from "../../src/layouts/Base.astro";
 import "./benchmark.css";
-import { runs, cases, sets, FAMILIES, FAMILY_NOTE, CAPABILITIES, day, score, band } from "./data.js";
+import Leaderboard from "./Leaderboard.astro";
+import Scatter from "./Scatter.astro";
+import HeatTable from "./HeatTable.astro";
+import CaseMatrix from "./CaseMatrix.astro";
+import { runs, cases, sets, FAMILIES, FAMILY_NOTE, CAPABILITIES, day, score, tokens, tip, modelName, subjectLine, rankedVariants, variantRow, usd } from "./data.js";
 const base = import.meta.env.BASE_URL;
 const { full, partial } = sets();
 const current = full[0];
 const older = full.slice(1);
 const families = Object.keys(FAMILIES);
-const caps = Object.keys(CAPABILITIES);
 const weights = runs[0]?.weights ?? { facts: 20, figures: 20, classification: 10, corroboration: 15, photos: 10, text: 15, grounding: 10 };
 const byFamily = families.map((family) => [family, cases.filter((item) => item.family === family)]);
-const repeats = (run) => Math.max(1, Math.round(run.summary.attempts / Math.max(1, run.summary.cases)));
-const caseScore = (run, id) => run.cases.find((item) => item.id === id)?.score;
-const subjectLine = (run) => `${run.subject.harness}${run.subject.harness_version ? ` ${run.subject.harness_version.replace(/^\D+/, "")}` : ""} · ${run.subject.provider}`;
-// short column titles for the wide table; the full names are the tooltips and the legend under it
-const SHORT = { "new-event": "New", "known-event": "Known", "out-of-scope": "Scope", recognised: "Found", facts: "Facts", figures: "Figures", classification: "Class.", corroboration: "Sources", photos: "Photos", text: "Text", grounding: "Quotes" };
-const modelName = (run) => run.subject.model + (run.subject.effort ? `#${run.subject.effort}` : "");
+
+const variants = rankedVariants().map((g) => variantRow(g, base));
+const priced = variants.filter((row) => row.cost).length;
+const unconfirmed = variants.filter((row) => row.cost?.unconfirmed).length;
+const dotRows = (row) => [["", "Score", score(row.score)], ["", "Tokens a case", tokens(row.t.total)], ["", "List price a case", row.cost ? usd(row.cost.perCase) : "none"], ["", "Minutes a case", String(row.min ?? "?")], ["", "Runs", row.sub]];
+const dots = (x) => variants.map((row) => ({ id: row.id, name: row.name, href: row.href, x: x(row), y: row.score, rows: dotRows(row) }));
+// what one result of 85 or more costs at list price: a case's cost over the share that pass
+const perPass = variants.filter((row) => row.cost && row.v.pass > 0).map((row) => ({ ...row, share: row.v.pass / row.attempts, usdPass: row.cost.perCase / (row.v.pass / row.attempts) })).sort((a, b) => a.usdPass - b.usdPass);
+const maxPass = Math.max(...perPass.map((row) => row.usdPass), 1e-9);
+// the cases the models find hardest
+const hardest = cases.map((item) => {
+  const values = variants.map((row) => row.caseScore(item.id)).filter((value) => value != null);
+  return { item, n: values.length, mean: values.length ? values.reduce((a, b) => a + b, 0) / values.length : null, pass: values.filter((value) => value >= 85).length };
+}).filter((entry) => entry.mean != null).sort((a, b) => a.mean - b.mean).slice(0, 10);
+const top = variants[0];
+const fullRuns = current?.runs.length ?? 0;
 ---
-<Base title="Research benchmark" description="How well each AI model, with its harness and provider, does the tracker's research: recognising events, corroborating them, finding photos, getting figures and classification right." wide noindex>
+<Base title="Research benchmark" description="How well each AI model does the tracker's research: recognising events, corroborating them, finding photos, getting figures and classification right, and what it costs." wide noindex>
   <div class="bench">
     <h1>Research benchmark</h1>
     <p class="lead">Which model can be trusted with the tracker's research? Each one gets the same {cases.length} real pages
       and does the whole job the way it runs in production: read the page, search for other coverage, check what the
       tracker already has, decide, and write the report. The result is compared with a checked answer.</p>
 
-    <dl class="b-facts">
-      <div><dt>Cases</dt><dd>{cases.length}</dd></div>
-      {byFamily.map(([family, list]) => <div><dt>{FAMILIES[family]}</dt><dd>{list.length}</dd></div>)}
-      <div><dt>Runs recorded</dt><dd>{runs.length}</dd></div>
-    </dl>
+    <div class="b-kpis">
+      <div class="b-kpi"><b>{variants.length}</b><span>Models and variants</span><em>{fullRuns} full runs · {runs.length - fullRuns} unfinished or partial</em></div>
+      <div class="b-kpi"><b>{cases.length}</b><span>Cases</span><em>{byFamily.map(([family, list]) => `${list.length} ${FAMILIES[family].toLowerCase()}`).join(" · ")}</em></div>
+      <div class="b-kpi"><b>{top ? score(top.score) : "–"}<small> / 100</small></b><span>Best score</span><em>{top ? top.name : "no full run yet"}</em></div>
+      <div class="b-kpi"><b>{hardest[0] ? score(hardest[0].mean) : "–"}<small> mean</small></b><span>Hardest case</span><em>{hardest[0]?.item.title ?? ""}</em></div>
+    </div>
 
     {!runs.length && (
       <p class="note">No run has been recorded yet. Start one with <code>npm run benchmark -- opencode@provider/model#effort</code>.</p>
@@ -39,91 +54,79 @@ const modelName = (run) => run.subject.model + (run.subject.effort ? `#${run.sub
     {current && (
       <>
         <h2 id="results">Results</h2>
-        <p class="note">Scores are out of 100. A subject is always three things: the harness that drives the model, the
-          provider that serves it, and the model with its effort setting. Change any of them and it is a different row.</p>
-        <div class="b-scroll">
-          <table class="b-table b-board">
-            <thead>
-              <tr>
-                <th></th><th>Model</th><th class="n">Score</th>
-                {families.map((family, i) => <th class:list={["n", { sep: i === 0 }]} title={`${FAMILIES[family]}: ${FAMILY_NOTE[family]}`}>{SHORT[family]}</th>)}
-                {caps.map((cap, i) => <th class:list={["n", { sep: i === 0 }]} title={`${CAPABILITIES[cap][0]}: ${CAPABILITIES[cap][1]}`}>{SHORT[cap]}</th>)}
-                <th class="n sep" title="Typical minutes for one case, from opening the page to the final answer">Min</th>
-                <th class="n">Runs</th>
-              </tr>
-            </thead>
-            <tbody>
-              {current.runs.map((run, i) => (
-                <tr>
-                  <td class="rank">{i + 1}</td>
-                  <td>
-                    <span class="b-model"><a href={`${base}benchmark/${run.id}/`}>{modelName(run)}</a></span>
-                    <span class="b-sub">{subjectLine(run)} · {day(run.started_at)}{run.label ? ` · ${run.label}` : ""}{run.complete ? "" : " · unfinished"}</span>
-                  </td>
-                  <td class="n"><span class:list={["b-total", `b-${band(run.summary.score)}`]}>{score(run.summary.score)}</span><span class="b-bar"><i style={`width:${run.summary.score ?? 0}%`}></i></span></td>
-                  {families.map((family, j) => <td class:list={["n", { sep: j === 0 }, `b-${band(run.summary.families[family]?.score)}`]}>{score(run.summary.families[family]?.score)}</td>)}
-                  {caps.map((cap, j) => <td class:list={["n", { sep: j === 0 }, `b-${band(run.summary.capabilities[cap]?.score)}`]}>{score(run.summary.capabilities[cap]?.score)}</td>)}
-                  <td class="n sep">{run.summary.usage.minutes_per_case ?? "–"}</td>
-                  <td class="n">{run.summary.cases}×{repeats(run)}{run.summary.verdicts.error ? <span class="b-sub b-fail">{run.summary.verdicts.error} unfinished</span> : ""}</td>
-                </tr>
+        <p class="note">One row a model with its effort setting. All its full runs count, whatever harness or provider served
+          them: a case's score is the mean of all its results, and the model's score the mean over cases. Open a row for its
+          runs side by side.</p>
+
+        <Leaderboard title="Score, verdicts and what a case takes" sub={`ranked by score · ${cases.length} cases`} rows={variants}
+          note={`Pass is a case score of 85 or more, partial 50 or more. The thin line on a score bar spans the lowest and highest single run or repeat. Tokens are everything read and written for one case, cache included. List price is those tokens at the maker's own API price, the same basis whoever served them (${priced} of ${variants.length} have one; ≈ marks ${unconfirmed} that only third parties report). Point at a figure for its parts.`} />
+
+        <h2 id="efficiency">Cost, speed and score</h2>
+        <p class="note">Each dot is one model and variant. Further left is cheaper or faster, higher is better. The dark dots are
+          the ones no other model beats with a higher score for less: the sensible choices.</p>
+        <div class="b-grid2">
+          <Scatter title="Score against list price" sub="list price of one case, at the maker's own rates" kind="usd" axis="list price a case (log scale) → · ↑ score"
+            points={dots((row) => row.cost?.perCase)} />
+          <Scatter title="Score against time" sub="typical minutes for one case, page to final answer" kind="minutes" axis="minutes a case → · ↑ score"
+            points={dots((row) => row.min)} />
+          <Scatter title="Score against tokens" sub="everything read and written for one case, cache included" kind="tokens" axis="tokens a case (log scale) → · ↑ score"
+            points={dots((row) => row.t.total)} />
+          <figure class="b-card" data-chart>
+            <figcaption><b>What one passing result costs</b> <span>list price a case ÷ share of cases passed · cheapest first</span></figcaption>
+            <ol class="b-hbars">
+              {perPass.map((row) => (
+                <li>
+                  <a class="name" href={row.href}>{row.name}</a>
+                  <span class="b-meter" tabindex="0" data-tip={tip(row.name, "one passing result at list price", [["", "List price a case", usd(row.cost.perCase)], ["", "Cases passed", `${Math.round(row.share * 100)}%`], ["", "A passing result", usd(row.usdPass)], ["", "Minutes a passing result", row.min ? String(Math.round((row.min / row.share) * 10) / 10) : "?"]])}>
+                    <span class="track"><i style={`width:${(row.usdPass / maxPass) * 100}%`}></i></span><b>{row.cost.unconfirmed ? "≈" : ""}{usd(row.usdPass)}</b>
+                  </span>
+                  <span class="of">{Math.round(row.share * 100)}% pass</span>
+                </li>
               ))}
-            </tbody>
-          </table>
+            </ol>
+            <p class="chart-note">A cheap model that often fails can cost more per usable report than a dearer one that passes. Free previews without a list price are left out.</p>
+          </figure>
         </div>
-        <p class="note"><b>New</b>, <b>Known</b>, <b>Scope</b>: the three kinds of case (new events, events already covered,
-          pages out of scope). The next eight look inside the reports written for new events: <b>Found</b> (recognised as an
-          event), <b>Facts</b>, <b>Figures</b>, <b>Class.</b> (classification), <b>Sources</b> (corroboration), <b>Photos</b>,
-          <b>Text</b>, <b>Quotes</b> (grounding). <b>Min</b>: typical minutes per case. Open a model for every case in detail.</p>
+
+        <figure class="b-card" data-chart>
+          <figcaption><b>The hardest cases</b> <span>mean score over the {variants.length} models and variants, lowest first</span></figcaption>
+          <ol class="b-hbars">
+            {hardest.map((entry) => (
+              <li>
+                <a class="name" href={`#case-${entry.item.id}`} title={entry.item.title}>{entry.item.title}<small>{FAMILIES[entry.item.family].toLowerCase()}</small></a>
+                <span class="b-meter" tabindex="0" data-tip={tip(entry.item.title, FAMILIES[entry.item.family], [["", "Mean score", score(entry.mean)], ["", "Models that pass", `${entry.pass} of ${entry.n}`]])}>
+                  <span class="track"><i style={`width:${entry.mean}%`}></i></span><b>{score(entry.mean)}</b>
+                </span>
+                <span class="of">{entry.pass} of {entry.n} pass</span>
+              </li>
+            ))}
+          </ol>
+          <p class="chart-note">These are the cases that tell the models apart. A case every model passes says little.</p>
+        </figure>
+
+        <HeatTable title="Where each model loses points" sub="scores by kind of case and by part of the report · the stronger the wash, the more was lost" rows={variants} />
 
         <h2 id="cases">Case by case</h2>
-        <p class="note">Each cell is one model's score on one case (the mean, when a case was run several times).</p>
-        <div class="b-scroll">
-          <table class="b-table b-matrix">
-            <thead>
-              <tr>
-                <th>Case</th>
-                {current.runs.map((run) => <th class="col"><a href={`${base}benchmark/${run.id}/`}>{modelName(run)}<br /><span class="b-none">{subjectLine(run)}</span></a></th>)}
-              </tr>
-            </thead>
-            <tbody>
-              {byFamily.map(([family, list]) => (
-                <>
-                  <tr class="fam"><td colspan={current.runs.length + 1}>{FAMILIES[family]} · {list.length}</td></tr>
-                  {list.map((item) => (
-                    <tr>
-                      <td>
-                        <span class="b-case-title">{item.title}</span>
-                        <span class="b-case-id">{item.id}</span>
-                        <span class="b-tests">{(item.tests || []).map((t) => <span>{t}</span>)}</span>
-                      </td>
-                      {current.runs.map((run) => {
-                        const value = caseScore(run, item.id);
-                        return <td class="cell">{value === undefined ? <span class="b-none">·</span> : <a class={`b-${band(value)}`} href={`${base}benchmark/${run.id}/#${item.id}`}>{score(value)}</a>}</td>;
-                      })}
-                    </tr>
-                  ))}
-                </>
-              ))}
-            </tbody>
-          </table>
-        </div>
+        <p class="note">One row a case, one column a model and variant, in ranked order. Each cell is the mean of its results on
+          that case and opens the model's page there.</p>
+        <CaseMatrix columns={variants} />
       </>
     )}
 
     {(older.length > 0 || partial.length > 0) && (
       <>
-        <h2 id="other">Other runs</h2>
-        <p class="note">Runs on an earlier set of cases, other run settings or older scoring rules, and runs of only some
-          cases. They are kept for reference and are not ranked against the table above.</p>
+        <h2 id="other">Unfinished and partial runs</h2>
+        <p class="note">Runs that stopped before the end, runs of only some cases, and runs on an earlier set of cases, other
+          run settings or older scoring rules. They are kept for reference and do not count in the results above.</p>
         <div class="b-scroll">
           <table class="b-table">
-            <thead><tr><th>Model</th><th class="n">Score</th><th class="n">Cases</th><th>Why apart</th></tr></thead>
+            <thead><tr><th>Model</th><th class="n">Score so far</th><th class="n">Cases</th><th>Why apart</th></tr></thead>
             <tbody>
-              {[...older.flatMap((set) => set.runs.map((run) => [run, "earlier cases, settings or rules"])), ...partial.map((run) => [run, run.full_set ? "stopped before the end" : "only some cases"])].map(([run, reason]) => (
+              {[...older.flatMap((set) => set.runs.map((run) => [run, "earlier cases, settings or rules"])), ...partial.map((run) => [run, run.complete ? "only some cases" : "stopped before the end"])].map(([run, reason]) => (
                 <tr>
                   <td><span class="b-model"><a href={`${base}benchmark/${run.id}/`}>{modelName(run)}</a></span><span class="b-sub">{subjectLine(run)} · {day(run.started_at)}</span></td>
-                  <td class:list={["n", `b-${band(run.summary.score)}`]}>{score(run.summary.score)}</td>
-                  <td class="n">{run.summary.cases}×{repeats(run)}</td>
+                  <td class="n">{score(run.summary.score)}</td>
+                  <td class="n">{run.summary.cases} of {cases.length}</td>
                   <td>{reason}</td>
                 </tr>
               ))}
@@ -174,6 +177,18 @@ const modelName = (run) => run.subject.model + (run.subject.effort ? `#${run.sub
         between two rows means little; repeat a run (<code>--repeat 3</code>) to see how much one model varies.</p>
     </div>
 
+    <h3>Tokens and cost</h3>
+    <div class="prose">
+      <p>Every run records the tokens the harness reports for each case: fresh input, input read from the provider's
+        cache, output and reasoning. Tokens a case is their sum over the whole run divided by the cases run, so a model
+        that needs many steps, reads many pages or repeats itself shows it here.</p>
+      <p>List price a case is those tokens at the maker's own API price, each kind at its own rate (cached input is far
+        cheaper than fresh), the same basis whoever served the model and whatever plan paid for it. Where the provider's
+        own price, a subscription's share or the harness's own figure is known, pointing at the price shows it too.
+        Free previews whose maker publishes no price show a dash. The prices are kept with their sources in
+        <code>src/lib/models.js</code>, which the tracker also uses for its own research runs.</p>
+    </div>
+
     <h3>Running it</h3>
     <pre><code>npm run benchmark -- opencode@swancloud/muse-spark-1.3-contributor#xhigh
 npm run benchmark -- muse@muse-spark-1.3#xhigh --repeat 3
@@ -181,3 +196,6 @@ npm run benchmark:scores</code></pre>
     <p class="note">The cases, the scoring rules and every run's full output are in the repository's <code>benchmark/</code> folder.</p>
   </div>
 </Base>
+<script>
+  import "../../src/scripts/chart-tooltip.js";
+</script>

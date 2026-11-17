@@ -1,0 +1,37 @@
+---
+// One row a case, one column a run or variant (columns from data.js runRow/variantRow); each cell is
+// that column's score on the case and opens what was done.
+import { cases, FAMILIES, score, heat, tip } from "./data.js";
+const { columns } = Astro.props;
+const byFamily = Object.keys(FAMILIES).map((family) => [family, cases.filter((item) => item.family === family)]);
+---
+<div class="b-scroll" data-chart>
+  <table class="b-table b-heat b-matrix">
+    <thead>
+      <tr>
+        <th>Case</th>
+        {columns.map((col) => <th class="col"><a href={col.href} title={`${col.name} · ${col.sub}`}>{col.name}<small>{col.sub}</small></a></th>)}
+      </tr>
+    </thead>
+    <tbody>
+      {byFamily.map(([family, list]) => (
+        <>
+          <tr class="fam"><td colspan={columns.length + 1}>{FAMILIES[family]} · {list.length}</td></tr>
+          {list.map((item) => (
+            <tr id={`case-${item.id}`}>
+              <td class="case">
+                <span class="b-case-title">{item.title}</span>
+                <span class="b-case-id">{item.id}</span>
+                <span class="b-tests">{(item.tests || []).map((t) => <span>{t}</span>)}</span>
+              </td>
+              {columns.map((col) => {
+                const value = col.caseScore(item.id);
+                return <td class="h">{value == null ? <span class="none">·</span> : <a style={heat(value)} href={col.caseHref(item.id)} data-tip={tip(col.name, item.title, [["", "Score", score(value)]])}>{score(value)}</a>}</td>;
+              })}
+            </tr>
+          ))}
+        </>
+      ))}
+    </tbody>
+  </table>
+</div>

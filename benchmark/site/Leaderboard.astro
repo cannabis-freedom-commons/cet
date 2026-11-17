@@ -1,0 +1,51 @@
+---
+// A ranked list with the same measures in every row: score (with the range its repeats or runs
+// span), pass/partial/fail, minutes, tokens and cost a case. Used for every run and for every
+// model and variant pooled across runs (index.astro builds the rows).
+//   rows: [{ name, sub, href?, score, range: [lo, hi] | null, scoreRows, v: {pass, partial, fail, off},
+//            attempts, min, steps, t: {fresh, cached, output, total}, cost }]
+import { VERDICTS, score, tokens, tip, usd, costRows } from "./data.js";
+const { title, sub, rows, note } = Astro.props;
+const maxMin = Math.max(1, ...rows.map((row) => row.min || 0));
+const maxTok = Math.max(1, ...rows.map((row) => row.t.total));
+const verdictTip = (row) => tip(row.name, `${row.attempts} case results`, VERDICTS.filter(([key]) => row.v[key]).map(([key, label, colour]) => [colour, label, row.v[key]]));
+const tokenTip = (row) => tip(row.name, `${tokens(row.t.total)} tokens a case`, [["", "Fresh input", row.t.fresh], ["", "Read from cache", row.t.cached], ["", "Output and reasoning", row.t.output]]);
+const costTip = (row) => (row.cost ? tip(row.name, "one case", costRows(row.cost)) : tip(row.name, "the maker publishes no paid price (a free preview)"));
+---
+<figure class="b-card b-lead" data-chart>
+  <figcaption><b>{title}</b> <span>{sub}</span></figcaption>
+  <div class="b-lead-head" aria-hidden="true"><span></span><span>Model</span><span>Score</span><span>Pass · partial · fail</span><span>Min / case</span><span>Tokens / case</span><span>List price / case</span></div>
+  <ol>
+    {rows.map((row, i) => {
+      const Who = row.href ? "a" : "span";
+      return (
+        <li>
+          <span class="rank">{i + 1}</span>
+          <Who class="who" href={row.href}><b>{row.name}</b><small>{row.sub}</small></Who>
+          <span class="b-meter big c-score" tabindex="0" data-tip={tip(row.name, `${score(row.score)} of 100`, row.scoreRows)} aria-label={`${row.name}: score ${score(row.score)} of 100`}>
+            <span class="track"><i style={`width:${row.score ?? 0}%`}></i>{row.range && row.range[1] > row.range[0] && <span class="rng" style={`left:${row.range[0]}%;width:${row.range[1] - row.range[0]}%`}></span>}</span>
+            <b>{score(row.score)}</b>
+          </span>
+          <span class="b-verdicts">
+            <span class="b-seg" tabindex="0" data-tip={verdictTip(row)} aria-label={`${row.v.pass} pass, ${row.v.partial} partial, ${row.v.fail} fail${row.v.off ? `, ${row.v.off} unfinished or not counted` : ""}`}>
+              {VERDICTS.filter(([key]) => row.v[key]).map(([key]) => <i class={`v-${key}`} style={`flex:${row.v[key]}`}></i>)}
+            </span>
+            <b>{row.v.pass} · {row.v.partial} · {row.v.fail}</b>
+          </span>
+          <span class="b-meter c-min" tabindex="0" data-tip={tip(row.name, "typical time for one case, from opening the page to the final answer", [["", "Minutes", String(row.min ?? "?")], ...(row.steps != null ? [["", "Model steps", String(row.steps)]] : [])])}>
+            <span class="track"><i style={`width:${((row.min || 0) / maxMin) * 100}%`}></i></span><b>{row.min ?? "–"}</b>
+          </span>
+          <span class="b-meter c-tok" tabindex="0" data-tip={tokenTip(row)}>
+            <span class="track"><i style={`width:${(row.t.total / maxTok) * 100}%`}></i></span><b>{tokens(row.t.total)}</b>
+          </span>
+          <span class:list={["cost", { none: !row.cost, est: row.cost?.unconfirmed }]} tabindex="0" data-tip={costTip(row)}>{row.cost ? `${row.cost.unconfirmed ? "≈" : ""}${usd(row.cost.perCase)}` : "–"}</span>
+        </li>
+      );
+    })}
+  </ol>
+  <ul class="b-legend">
+    {VERDICTS.map(([key, label]) => <li><i class={`v-${key}`}></i>{label}</li>)}
+    <li><span class="rng-key"></span>Range of its repeats and runs</li>
+  </ul>
+  {note && <p class="chart-note" set:html={note}></p>}
+</figure>

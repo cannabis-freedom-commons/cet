@@ -69,7 +69,7 @@ test('efficiency gives plan shares where a plan covers the model, else API price
 
 test('usage splits each model\'s cost into fresh input, cache and output, and says where a cache price is missing', () => {
   const run = (model, extra = {}) => ({ model, started_at: 1793275200, runs: 1, running: 0, input_tokens: 1e6, cache_read_tokens: 4e6, cache_write_tokens: 0, output_tokens: 1e6, reasoning_tokens: 1e6, cost_usd: 0, ...extra });
-  const { rows, totals } = summarizeAIUsage([run('swancloud/muse-spark-1.3-contributor#xhigh'), run('swancloud/claude-haiku-5.5'), run('xai/grok-4.7#low', { cost_usd: 2 }), run('openai/gpt-6-luna#max')], { price_usd: 10, allowance_usd: 180 });
+  const { rows, totals } = summarizeAIUsage([run('swancloud/muse-spark-1.3-contributor#xhigh'), run('swancloud/claude-haiku-5.5'), run('xai/grok-4.7#low', { cost_usd: 2 }), run('nvidia/nvidia/nemotron-3.5-lightning-30b-a3b#thinking')], { price_usd: 10, allowance_usd: 180 });
   const muse = rows.find((r) => r.name === 'muse-spark-1.3-contributor');
   assert.equal(muse.fresh, 1e6); assert.equal(muse.cached, 4e6); assert.equal(muse.output, 2e6);
   assert.ok(Math.abs(muse.costCacheRead - 0.008) < 1e-12 && Math.abs(muse.costInput - 0.1) < 1e-12 && Math.abs(muse.costOutput - 0.4) < 1e-12);

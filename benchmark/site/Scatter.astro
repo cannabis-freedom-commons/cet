@@ -1,0 +1,54 @@
+---
+// Score (up) against one cost of getting it (across): tokens, list price or minutes a case. One dot
+// a model and variant. The dots no other dot beats (a higher score for less) are dark and named.
+//   points: [{ id, name, x, y, href?, rows }]   kind: "tokens" | "usd" | "minutes"
+import { score, tokens, tip, usd } from "./data.js";
+const { title, sub, points: all, kind, axis } = Astro.props;
+const points = all.filter((p) => p.x > 0 && p.y != null);
+const log = kind !== "minutes";
+const fmt = (n) => (kind === "tokens" ? tokens(n) : kind === "usd" ? usd(n) : `${n} min`);
+const NICE = { tokens: [1e4, 2e4, 5e4, 1e5, 2e5, 5e5, 1e6, 2e6, 5e6, 1e7], usd: [0.0005, 0.001, 0.002, 0.005, 0.01, 0.02, 0.05, 0.1, 0.2, 0.5, 1, 2] }[kind];
+const xs = points.map((p) => p.x);
+let lo, hi, xTicks;
+if (log) {
+  // room on the cheap side, where the names of the frontier go
+  lo = NICE.filter((n) => n <= Math.min(...xs) / 3).at(-1) ?? NICE[0];
+  hi = NICE.find((n) => n >= Math.max(...xs)) ?? NICE.at(-1);
+  xTicks = NICE.filter((n) => n >= lo && n <= hi);
+} else {
+  const step = Math.max(...xs) > 8 ? 2 : 1;
+  lo = 0;
+  hi = Math.ceil(Math.max(...xs, 1) / step) * step;
+  xTicks = Array.from({ length: hi / step + 1 }, (_, i) => i * step);
+}
+const px = (n) => (log ? ((Math.log10(n) - Math.log10(lo)) / (Math.log10(hi) - Math.log10(lo))) * 100 : ((n - lo) / (hi - lo)) * 100);
+const yMin = Math.min(70, Math.floor((Math.min(100, ...points.map((p) => p.y)) - 2) / 10) * 10);
+const py = (value) => ((value - yMin) / (100 - yMin)) * 100;
+const yTicks = Array.from({ length: (100 - yMin) / 10 + 1 }, (_, i) => yMin + i * 10);
+let best = -1;
+const frontier = new Set([...points].sort((a, b) => a.x - b.x || b.y - a.y).filter((p) => (p.y > best ? ((best = p.y), true) : false)).map((p) => p.id));
+---
+<figure class="b-card" data-chart>
+  <figcaption><b>{title}</b> <span>{sub}</span></figcaption>
+  <div class="b-plot-wrap">
+    <div class="b-plot">
+      {yTicks.map((value) => <span class="gy" style={`bottom:${py(value)}%`}><b>{value}</b></span>)}
+      {xTicks.map((n) => <span class="gx" style={`left:${px(n)}%`}>{log ? fmt(n) : n}</span>)}
+      {points.map((p) => {
+        const x = px(p.x), y = py(p.y), front = frontier.has(p.id), Dot = p.href ? "a" : "span";
+        return (
+          <>
+            <Dot class:list={["dot", { front }]} href={p.href} tabindex={p.href ? undefined : "0"} style={`left:${x}%;bottom:${y}%`} aria-label={`${p.name}: score ${score(p.y)}, ${fmt(p.x)}`}
+              data-tip={tip(p.name, `score ${score(p.y)} · ${fmt(p.x)}`, p.rows)}></Dot>
+            {front && <span class:list={["lab", { left: log || x > 55 }]} style={`left:${x}%;bottom:${y}%`}>{p.name}</span>}
+          </>
+        );
+      })}
+    </div>
+  </div>
+  <p class="b-axis-title">{axis}</p>
+  <ul class="b-legend">
+    <li><i class="dot" style="background:var(--text)"></i>No other model scores higher for less</li>
+    <li><i class="dot" style="background:var(--muted)"></i>Beaten on both</li>
+  </ul>
+</figure>

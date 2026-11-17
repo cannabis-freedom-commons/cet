@@ -1,6 +1,6 @@
 // What a research run costs: its tokens at the model's prices, and its share of a subscription.
 // The models, providers, prices and plans are defined in src/lib/models.js.
-import { baseModel, CONFIGURED_PLAN_PROVIDERS, isPeak, modelInfo, modelParts, PLAN_PRICES } from "./models.js";
+import { apiPrice, baseModel, CONFIGURED_PLAN_PROVIDERS, isPeak, modelInfo, modelParts, PLAN_PRICES } from "./models.js";
 
 export { baseModel, isPeak };
 // true when the model has a price at its provider
@@ -13,7 +13,17 @@ export const isPriced = (model) => Boolean(modelInfo(model));
 export function costParts(run) {
   const price = modelInfo(run?.model);
   if (!price) return null;
-  const peak = isPeak(run.started_at || run.created_at, run.model);
+  return partsAt(price, run, isPeak(run.started_at || run.created_at, run.model));
+}
+
+// The same tokens at the maker's own list price (models.js `api`), whoever served them: a basis on
+// which models from different providers and plans compare. null when the model has no list price.
+export function apiCostParts(run) {
+  const price = apiPrice(run?.model);
+  return price ? partsAt(price, run, false) : null;
+}
+
+function partsAt(price, run, peak) {
   const input = peak ? (price.peakInput ?? price.input) : price.input;
   const output = peak ? (price.peakOutput ?? price.output) : price.output;
   const cached = (peak ? price.peakCached : undefined) ?? price.cached ?? input;
