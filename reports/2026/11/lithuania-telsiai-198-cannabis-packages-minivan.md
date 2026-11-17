@@ -46,22 +46,31 @@ sources:
     publisher: Respublika.lt
     date: 2026-11-17
     language: lt
+  - title: Telšių kriminalistų operacija – mikroautobuso slėptuvėje aptikta beveik 200 pakuočių su narkotikais
+    url: https://www.delfi.lt/naujienos/kriminalai/telsiu-kriminalistu-operacija-mikroautobuso-sleptuveje-aptikta-beveik-200-pakuociu-su-narkotikais-120335094
+    publisher: Delfi
+    date: 2026-11-17
+    language: lt
+  - title: Narkotikai mikroautobuso slėptuvėje rasti 198 vakuuminėse pakuotėse
+    url: https://77.lt/narkotikai-mikroautobuso-sleptuveje-198-pakuotes
+    publisher: 77.lt
+    date: 2026-11-17
+    language: lt
 open_questions:
-  - No weight, plant count or area was published for the 198 packages, so the quantity of cannabis is unknown.
-  - The 10 to 15 year term is the penalty the driver faces, not a sentence; no trial date or court outcome was reported.
-  - The account rests on a single police statement carried by one outlet; no independent report of the operation could be opened.
-  - No further suspects, charges beyond the initial suspicion, or value estimate were reported.
+    - No weight, plant count or area was published for the 198 packages, so the quantity of cannabis is unknown.
+    - The 10 to 15 year term is the penalty the driver faces, not a sentence; no trial date or court outcome was reported.
+    - The Delfi, 77.lt and Respublika.lt accounts all reproduce the same Telšiai police statement, so none is independent reporting of the operation.
+    - No further suspects, charges beyond the initial suspicion, or value estimate were reported.
 ---
 
 The 40-year-old driver was placed in a police detention cell, formally charged
-and held in custody after a court ordered his remand. [@1] He faces a prison
-term of 10 to 15 years. [@1] The hidden compartment was found during a search of
+and held in custody after a court ordered his remand. [@1,3] He faces a prison
+term of 10 to 15 years. [@1,3] The hidden compartment was found during a search of
 the minivan, which the 40-year-old man was driving. [@1]
 
 Telšiai County Police said the operation was carried out on 4 November, when a
 Mercedes-Benz minivan was stopped on the road between Venta, Akmenė and Naujoji
-Akmenė. [@1] Inside were 198 vacuum-sealed packages containing suspected
-narcotic material described as cannabis and its parts. [@1] Criminalists carried
+Akmenė. [@1,2] Inside were 198 vacuum-sealed packages containing suspected
+narcotic material described as cannabis and its parts. [@1,3] Criminalists carried
 out the operation after already having information that a very large quantity of
 drugs was likely being transported. [@1]
-
