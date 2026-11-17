@@ -48,6 +48,11 @@ sources:
     url: https://timesofindia.indiatimes.com/city/vadodara/two-held-with-md-hybrid-ganja-near-ssg-hospital/articleshow/135900499.cms
     publisher: The Times of India
     date: 2026-11-17
+  - title: 'Vadodara News: ડ્રગ્સ કૌભાંડનો પર્દાફાશ, થાર ગાડીમાંથી MD ડ્રગ્સ અને હાઇબ્રિડ ગાંજા સાથે બે ઝડપાયા'
+    url: https://sandesh.com/gujarat/news/crime/vadodara/raopura-md-drugs-hybrid-ganja-thar-car-arrest
+    publisher: Sandesh
+    date: 2026-11-16
+    language: gu
 media:
   - kind: photo
     url: https://indianexpress.com/article/cities/ahmedabad/mephedrone-hybrid-ganja-seized-from-thar-near-vadodara-hospital-2-held-police-10965824/
@@ -63,9 +68,9 @@ media:
 
 Police detained two young men with mephedrone and hybrid ganja on the road
 opposite the Rukmani Chainani maternity home at SSG Hospital in Vadodara city.
-[@1,2,3] Police identified the two accused as Aman Shahid Memon (23) and Shafin Raza Rizwanali Sarani (21), both residents of Vadodara city. [@2] Aman Shahid Memon lived at Fatima Residency in Gorwa and Shafinraza Rizwanali Sarani lived at Hayat Residency in Tandalja. [@3] Officers caught the pair around midnight while they were travelling in a
+[@1,2,3,4] Police identified the two accused as Aman Shahid Memon (23) and Shafin Raza Rizwanali Sarani (21), both residents of Vadodara city. [@2,4] Aman Shahid Memon lived at Fatima Residency in Gorwa and Shafinraza Rizwanali Sarani lived at Hayat Residency in Tandalja. [@3] Officers caught the pair around midnight while they were travelling in a
 Thar vehicle to sell drugs. [@1,2] The LCB team and Raopura police laid a trap and intercepted the vehicle at around 2.45 am on Monday. [@2,3] The operation was carried out jointly by the
-LCB Zone-2 team together with Raopura police. [@1,2,3] Police identified two alleged suppliers who were yet to be apprehended, Mehtab alias Mama for the mephedrone and a man known as Gatto for the hybrid ganja. [@2] A case was registered at Raopura police station under the Narcotic Drugs and Psychotropic Substances Act, 1985, with further investigation underway into the source and supply network. [@2]
+LCB Zone-2 team together with Raopura police. [@1,2,3,4] Police identified two alleged suppliers who were yet to be apprehended, Mehtab alias Mama for the mephedrone and a man known as Gatto for the hybrid ganja. [@2] A case was registered at Raopura police station under the Narcotic Drugs and Psychotropic Substances Act, 1985, with further investigation underway into the source and supply network. [@2] Police obtained a two-day remand for both accused. [@4]
 
 Police said they seized 6 grams of MD and 8 grams of hybrid ganja near SSG
 Hospital. [@1,2,3] The Thar vehicle was also seized, taking the total value of the seized goods to Rs 16.005 lakh. [@2] Police valued the eight grams of hybrid ganja at about Rs 28,000. [@2,3] Police also recovered a small digital weighing scale, two iPhones and Rs 19,400 in cash, as well as empty plastic pouches allegedly used for packaging. [@2] The cannabis portion was 8 grams of hybrid ganja, recorded here
