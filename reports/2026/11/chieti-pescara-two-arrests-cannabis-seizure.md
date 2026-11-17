@@ -47,20 +47,25 @@ sources:
     publisher: Abruzzo Popolare
     date: 2026-11-16
     language: it
+  - title: Oltre 5 chili di droga sequestrati tra Chieti e Pescara, due arresti
+    url: https://www.notiziedabruzzo.it/cronaca-abruzzo/oltre-5-chili-di-droga-sequestrati-tra-chieti-e-pescara-due-arresti.html
+    publisher: Notizie d'Abruzzo
+    date: 2026-11-16
+    language: it
 ---
 
-Two men from Pescara, aged 32 and 30, were arrested. [@1,2] Carabinieri of Chieti
+Two men from Pescara, aged 32 and 30, were arrested. [@1,2,3] Carabinieri of Chieti
 Scalo ran the operation between Chieti, Pescara and Francavilla al Mare, seizing
 more than 5 kg of drugs including marijuana, hashish and cocaine. [@1,2] The
 investigating judge validated the arrests, ordering the first man to report
-daily to the judicial police and placing the second man under house arrest. [@1]
+daily to the judicial police and placing the second man under house arrest. [@1,3]
 
 The operation began in Chieti Scalo, where officers stopped the 32-year-old and
-found 593 grams of marijuana in his car. [@1,2] Investigators then searched the
+found 593 grams of marijuana in his car. [@1,2,3] The 32-year-old told officers he had collected the marijuana on behalf of third parties in exchange for payment. [@3] Investigators then searched the
 home of the suspected supplier in Pescara and seized more than 3.3 kilograms of
-marijuana, 1.7 kilograms of hashish and marijuana resin. [@1,2] In the same
+marijuana, 1.7 kilograms of hashish and marijuana resin. [@1,2,3] In the same
 Pescara search, officers seized 380 grams of cocaine together with a heat sealer
-and a precision scale. [@1] The 30-year-old was later traced to Francavilla al
+and a precision scale. [@1,3] The 30-year-old was later traced to Francavilla al
 Mare, in the province of Chieti. [@1]
 
 The 380 grams of cocaine are excluded from the cannabis figures, which count
