@@ -78,6 +78,11 @@ sources:
     publisher: Radio Nacional de Colombia
     date: 2026-01-22
     language: es
+  - title: Incautan cargamento de marihuana que iba rumbo a Ecuador
+    url: https://larazon.co/incautan-cargamento-de-marihuana-que-iba-rumbo-a-ecuador/
+    publisher: LARAZÓN.CO
+    date: 2026-01-22
+    language: es
 open_questions:
   - The accounts give no separate date for the two operations; 21 January 2026, the earlier report's publication date, is used and the operations may have taken place the day before.
   - No arrests, charges or court outcome are reported; the RTVC account says only that a truck was stopped at Patía, not that its driver was detained.
@@ -91,9 +96,9 @@ open_questions:
 Army troops and police ran two operations against marijuana in Cauca: a road
 control on the Panamericana highway and an intervention in the vereda of
 Potrerito, Toribío. [@1] On the Panamericana at Patía, troops stopped a truck
-carrying 811 kilograms of marijuana. [@1] At Potrerito, Toribío, troops
+carrying 811 kilograms of marijuana. [@1,5] At Potrerito, Toribío, troops
 destroyed two artisanal drying and production systems and found 753 kilograms of
-marijuana ready for packing. [@1] The two operations came to 1,564 kilograms of
+marijuana ready for packing. [@1,5] The two operations came to 1,564 kilograms of
 marijuana, according to Brigadier General Alirio Aponte Sepúlveda, commander of
 the Army's 19th Brigade. [@1]
 
@@ -110,7 +115,6 @@ which troops destroyed two artisanal drying and production systems and seized
 753 kilograms. [@4]
 
 The Ministry of Defence said the marijuana was of export type and was bound for
-Ecuador. [@4] The Army put the value of the seized marijuana at more than 300
+Ecuador. [@4,5] The Army put the value of the seized marijuana at more than 300
 million pesos and said the operation prevented about 100,000 doses from reaching
 international markets. [@2]
-
