@@ -43,18 +43,22 @@ sources:
     publisher: Dinamalar
     date: 2026-11-15
     language: ta
+  - title: 2 Youth Held with Ganja Near Ooty
+    url: https://www.deccanchronicle.com/southern-states/tamil-nadu/2-youth-held-with-ganja-near-ooty-2005386
+    publisher: Deccan Chronicle
+    date: 2026-11-17
 open_questions:
-  - Whether the 21-year-old was formally arrested or only booked alongside the seizure was not further detailed beyond the report that police registered a case and arrested the two.
-  - No court production, charges under a named drug law, plea or other outcome was reported.
-  - The seized material was described only as ganja, with no laboratory confirmation reported.
+    - Whether the 21-year-old was formally arrested or only booked alongside the seizure was not further detailed beyond the report that police registered a case and arrested the two.
+    - No court production, charges under a named drug law, plea or other outcome was reported.
+    - The seized material was described only as ganja, with no laboratory confirmation reported.
+    - 'Accounts differ on the date of the vehicle check: one report gives 14 November 2026 and another says it was ''on Monday'' (16 November 2026 relative to its 17 November publication); the report uses 14 November 2026.'
 ---
 
 Police in Coonoor booked and arrested two people for allegedly stocking ganja
-for sale near Samanna Park. [@1] Police led by SSI Jayaraj were conducting
+for sale near Samanna Park. [@1,2] Police led by SSI Jayaraj were conducting
 vehicle checks near Samanna Park in Nilgiris district on 14 November 2026. [@1]
 
 Officers questioned two people who arrived by bike and found them in possession
-of ganja. [@1] Police identified them as 21-year-old Sathish of Upper Bazaar
-Street in Coonoor and a 17-year-old boy of the Umari Cottage area. [@1] Police
-registered a case against both and seized 100 grams of ganja from them. [@1]
-
+of ganja. [@1,2] Police identified them as 21-year-old Sathish of Upper Bazaar
+Street in Coonoor and a 17-year-old boy of the Umari Cottage area. [@1,2] Police
+registered a case against both and seized 100 grams of ganja from them. [@1,2]
