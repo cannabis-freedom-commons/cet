@@ -42,30 +42,35 @@ sources:
     publisher: Jalgaon Live News
     date: 2026-11-17
     language: mr
+  - title: 'जळगाव : घरात लपवला होता गांजा; पोलिसांनी छापा टाकत केला जप्त - Hindusthan Samachar Marathi'
+    url: https://marathi.hindusthansamachar.in/Encyc/2026/11/17/GarthLapestoryforJalgaon.php
+    publisher: Hindusthan Samachar Marathi
+    date: 2026-11-17
+    language: mr
 open_questions:
-  - The source says action was taken against 11 people without saying whether they were arrested, booked or charged, and names no suspects.
-  - No NDPS sections, remand, charge or court outcome were reported.
-  - The source gives no breakdown of where in the district the 3.25 kg was found or how many seizures made up the total.
-  - The ganja figure is described without a laboratory confirmation report.
-  - The Rs 1.62 lakh value is stated as approximate.
-  - The whole account rests on one outlet's report of the police drive; no second account or police press note was opened.
+    - The campaign account says action was taken against 11 people without saying whether they were arrested, booked or charged; the new account names one person arrested in a single house raid, and it is unclear whether that arrest is among the 11.
+    - No NDPS sections, remand, formal charge or court outcome were reported.
+    - The new account places the 3.25 kg at a two-storey house in Pal, Raver taluka, but it is not clear whether this was the only ganja seizure behind the campaign total.
+    - The ganja is described without a laboratory confirmation report.
+    - The ganja was valued at about Rs 1.62 lakh in the campaign account and at Rs 1,65,500 in the new account; both are approximate police estimates and the difference is unexplained.
+    - Both accounts are news outlets' reports of police information rather than the police force's own published statement.
+    - The new account is datelined 17 November and gives no date for the house raid, while the campaign account places Operation All Out on 16 November; the date of the raid is therefore unclear.
 ---
 
 Jalgaon police ran a district-wide ‘Operation All Out’ on 16 November to curb
 illegal businesses and crime. [@1] The special drive was led by Superintendent
 of Police Shrikant Dhivare and targeted the liquor mafia, gamblers, ganja
-smugglers, habitual offenders and traffic violators. [@1] Teams from every
+smugglers, habitual offenders and traffic violators. [@1] The Raver action was led by police inspector Sandeep Patil. [@2] Teams from every
 police station and the Local Crime Branch started raids at various places from
 early morning. [@1] In the anti-drug part of the operation, police took action
-against 11 people. [@1]
+against 11 people. [@1] A case was registered at Raver police station and sub-inspector Manoj Mahajan was conducting the further investigation. [@2] Raver police arrested Meharban Jahangir Tadvi, a 36-year-old resident of Pal, Raver. [@2]
 
-Officers seized 3 kg 250 g of ganja. [@1] Police gave the seized ganja an
+Officers seized 3 kg 250 g of ganja. [@1,2] Raver police acted on a confidential tip-off that ganja was stored for sale in a two-storey house, verified it and raided the house, finding the ganja near the staircase at the entrance. [@2] Police gave the seized ganja an
 approximate value of Rs 1.62 lakh. [@1] Police said the single-day drive seized
 muddemal worth Rs 35,72,935 and also collected fines. [@1]
 
 The operation was carried out under the guidance of Superintendent Shrikant
 Dhivare and Additional Superintendent Ashok Nakhate by sub-divisional officers
-and the crime, traffic and station staff. [@1] Jalgaon district police warned
+and the crime, traffic and station staff. [@1,2] Jalgaon district police warned
 that such strong drives would continue so illegal businesses and criminal
 tendencies get no shelter. [@1]
-
