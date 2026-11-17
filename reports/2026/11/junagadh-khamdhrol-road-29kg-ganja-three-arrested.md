@@ -68,6 +68,11 @@ sources:
     publisher: TV9 Gujarati
     date: 2026-11-17
     language: gu
+  - title: જૂનાગઢમાં SOGનો સપાટો, ગાડીમાંથી નીકળ્યો 29 કિલો ગાંજો!
+    url: https://gujarati.news18.com/videos/junagadh/junagadh-sog-seizes-29-kg-ganja-car-worth-over-16-lakh-khamdhrol-road-jg-2665804.html
+    publisher: News18 Gujarati
+    date: 2026-11-17
+    language: gu
 open_questions:
     - No separate date for the raid was given, so 16 November 2026, the publication date, stands in for the incident date.
     - The ganja was described only as suspected ganja, with no laboratory confirmation reported.
@@ -75,17 +80,18 @@ open_questions:
     - The type and registration of the seized vehicle were not given.
     - It is not established whether the seizure took place on 16 or 17 November 2026; the later account gives no date for the action itself.
     - The roles of the three people police were still seeking in the network were not reported.
+    - The News18 account says three people were arrested and also that three people including the main accused were still at large, without reconciling the counts or naming anyone.
 ---
 
 The Junagadh Special Operation Group team, acting on a tip-off, seized a
-consignment of prohibited ganja near Khamdhrol Road. [@1] The team had checked a
+consignment of prohibited ganja near Khamdhrol Road. [@1,4] The team had checked a
 suspect vehicle and the spot near Khamdhrol Road. [@1] During the check they
 recovered 29.634 kilograms of suspected ganja. [@1,2,3] Police arrested three
-suspects at the scene. [@1,2,3] The three were being questioned closely about where
-the consignment had come from and to whom it was to be delivered. [@1] Police said their investigation had found that six people were involved in the trafficking network, with three arrested and three more still being sought. [@3]
+suspects at the scene. [@1,2,3,4] The three were being questioned closely about where
+the consignment had come from and to whom it was to be delivered. [@1,4] Police said their investigation had found that six people were involved in the trafficking network, with three arrested and three more still being sought. [@3] The main accused was among the three people still at large, and police said informants had been activated to trace them all. [@4]
 
-Police put the value of the seized ganja at Rs 14.81 lakh. [@1,2,3] With a seized
-vehicle included, the total value of the seized goods was Rs 16.12 lakh. [@1,2,3] Besides the car used to carry the ganja, officers seized mobile phones, which police included in the Rs 16.12 lakh total. [@3]
+Police put the value of the seized ganja at Rs 14.81 lakh. [@1,2,3,4] With a seized
+vehicle included, the total value of the seized goods was Rs 16.12 lakh. [@1,2,3,4] Besides the car used to carry the ganja, officers seized mobile phones, which police included in the Rs 16.12 lakh total. [@3]
 
 The district police described the raid as part of a tightening drive against
 anti-social elements and the narcotics trade. [@1] The report linked the action
