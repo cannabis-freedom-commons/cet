@@ -643,10 +643,12 @@ article-page redirect RPC. That RPC is undocumented and may change. Unresolved c
 logged and retried on the next scan; aggregator pages are never submitted as article evidence.
 All network calls use the existing public-destination-pinned fetch transport, bounded response
 sizes and timeouts. Requests are spaced by a second, including the article lookup and its redirect
-RPC, and each scan has a five-minute deadline. A 429 from Google News ends the scan and keeps its
-place in the query rotation. The next scan waits at least as long as Google's `Retry-After`
-(seconds or an HTTP date), or five minutes when there is no usable header. Logs show whether
-Google sent the header and how long the harvester will wait.
+RPC, and each scan attempt has a five-minute deadline. A 429 from Google News pauses discovery.
+The harvester keeps the current batch in memory and resumes at the interrupted feed or article
+without fetching completed feeds again. It waits at least as long as Google's `Retry-After`
+(seconds or an HTTP date). Without a usable header, the fallback starts at five minutes and
+doubles after consecutive 429s up to 30 minutes. Logs identify the stage that received the 429,
+whether Google sent the header, and how long the harvester will wait.
 Successful discovery mappings persist in SQLite. Previously known canonical/source URLs and
 repeated Google results are skipped; queue admission retains durable idempotency and normal
 capacity limits. Machine receipts use the `rss` origin, with `google-news`, query and discovery

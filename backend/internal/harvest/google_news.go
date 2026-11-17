@@ -89,11 +89,14 @@ type GoogleNewsStats struct {
 	Deferred                         bool // the research queue was full; the batch is retried next scan
 }
 
-type googleNewsRateLimit struct{ retryAfter string }
+type googleNewsRateLimit struct {
+	retryAfter string
+	stage      string
+}
 
 func (e *googleNewsRateLimit) Error() string { return "Google News HTTP 429" }
 
-func (e *googleNewsRateLimit) cooldown(now time.Time) time.Duration {
+func (e *googleNewsRateLimit) cooldown(now time.Time, fallback time.Duration) time.Duration {
 	if seconds, err := strconv.ParseUint(e.retryAfter, 10, 64); err == nil {
 		const maxSeconds = uint64(math.MaxInt64 / int64(time.Second))
 		return time.Duration(min(seconds, maxSeconds)) * time.Second
@@ -101,7 +104,7 @@ func (e *googleNewsRateLimit) cooldown(now time.Time) time.Duration {
 	if until, err := http.ParseTime(e.retryAfter); err == nil && until.After(now) {
 		return until.Sub(now)
 	}
-	return 5 * time.Minute
+	return fallback
 }
 
 func (g GoogleNews) request(ctx context.Context, raw string, form url.Values) ([]byte, string, error) {
@@ -133,7 +136,14 @@ func (g GoogleNews) request(ctx context.Context, raw string, form url.Values) ([
 	}
 	defer res.Body.Close()
 	if res.StatusCode == http.StatusTooManyRequests && (res.Request == nil || res.Request.URL.Hostname() == "news.google.com") {
-		return nil, "", &googleNewsRateLimit{retryAfter: strings.TrimSpace(res.Header.Get("Retry-After"))}
+		stage := "article lookup"
+		switch {
+		case req.URL.Path == "/rss/search":
+			stage = "feed search"
+		case form != nil:
+			stage = "article redirect"
+		}
+		return nil, "", &googleNewsRateLimit{retryAfter: strings.TrimSpace(res.Header.Get("Retry-After")), stage: stage}
 	}
 	if res.StatusCode != http.StatusOK {
 		return nil, "", fmt.Errorf("Google News HTTP %d", res.StatusCode)
@@ -244,7 +254,7 @@ func parseGoogleRedirect(b []byte) (string, error) {
 }
 
 func (g GoogleNews) Scan(ctx context.Context) (GoogleNewsStats, error) {
-	return g.scan(ctx, g.Queries)
+	return g.scan(ctx, &googleNewsBatch{queries: g.Queries})
 }
 
 func waitBetweenNewsRequests(ctx context.Context) error {
@@ -265,25 +275,40 @@ func pause(ctx context.Context, paced *bool) error {
 	return nil
 }
 
-func (g GoogleNews) scan(ctx context.Context, queries []GoogleNewsQuery) (stats GoogleNewsStats, err error) {
+// Keep fetched feeds and completed candidates when rate limiting pauses a batch.
+type googleNewsBatch struct {
+	queries   []GoogleNewsQuery
+	nextQuery int
+	results   [][]string
+	seen      map[string]bool
+	stats     GoogleNewsStats
+}
+
+func (g GoogleNews) scan(ctx context.Context, batch *googleNewsBatch) (GoogleNewsStats, error) {
+	stats := &batch.stats
 	max := g.MaxArticles
 	if max <= 0 {
 		max = 25
 	}
 	room, err := queueRoom(ctx, g.Store, g.QueueTarget)
 	if err != nil {
-		return stats, err
+		return *stats, err
 	}
 	if room == 0 {
-		stats.Deferred = true
-		return stats, nil
+		deferred := *stats
+		deferred.Deferred = true
+		return deferred, nil
 	}
-	max = min(max, room)
+	max = stats.Queued + min(max-stats.Queued, room)
 	paced := false
-	results := make([][]string, len(queries))
-	for i, query := range queries {
+	if batch.results == nil {
+		batch.results = make([][]string, len(batch.queries))
+		batch.seen = make(map[string]bool)
+	}
+	for ; batch.nextQuery < len(batch.queries); batch.nextQuery++ {
+		query := batch.queries[batch.nextQuery]
 		if err = pause(ctx, &paced); err != nil {
-			return stats, err
+			return *stats, err
 		}
 		feed := "https://news.google.com/rss/search?" + query.params().Encode()
 		slog.Info("Google News search started", "edition", query.Edition, "query", query.Query)
@@ -291,7 +316,7 @@ func (g GoogleNews) scan(ctx context.Context, queries []GoogleNewsQuery) (stats 
 		if fetchErr != nil {
 			var limit *googleNewsRateLimit
 			if errors.As(fetchErr, &limit) {
-				return stats, fetchErr
+				return *stats, fetchErr
 			}
 			slog.Warn("Google News search failed", "edition", query.Edition, "query", query.Query, "error", fetchErr)
 			continue
@@ -301,33 +326,32 @@ func (g GoogleNews) scan(ctx context.Context, queries []GoogleNewsQuery) (stats 
 			slog.Warn("Google News feed invalid", "edition", query.Edition, "query", query.Query, "error", parseErr)
 			continue
 		}
-		results[i] = links
+		batch.results[batch.nextQuery] = links
 		stats.Found += len(links)
 		slog.Info("Google News search complete", "edition", query.Edition, "query", query.Query, "results", len(links))
 	}
 	// Take candidates round-robin, so one busy edition cannot use up the whole budget.
-	seen := map[string]bool{}
 	for rank, more := 0, true; more && stats.Queued < max; rank++ {
 		more = false
-		for i, query := range queries {
-			if rank >= len(results[i]) {
+		for i, query := range batch.queries {
+			if rank >= len(batch.results[i]) {
 				continue
 			}
 			more = true
 			if stats.Queued >= max {
 				break
 			}
-			link := results[i][rank]
-			if seen[link] {
+			link := batch.results[i][rank]
+			if batch.seen[link] {
 				continue
 			}
-			seen[link] = true
-			if err = g.consider(ctx, query, link, &stats, &paced); err != nil {
-				return stats, err
+			if err = g.consider(ctx, query, link, stats, &paced); err != nil {
+				return *stats, err
 			}
+			batch.seen[link] = true
 		}
 	}
-	return stats, nil
+	return *stats, nil
 }
 
 func (g GoogleNews) consider(ctx context.Context, query GoogleNewsQuery, link string, stats *GoogleNewsStats, paced *bool) (err error) {
@@ -352,11 +376,11 @@ func (g GoogleNews) consider(ctx context.Context, query GoogleNewsQuery, link st
 		if ctx.Err() != nil {
 			return ctx.Err()
 		}
-		stats.Unresolved++
 		var limit *googleNewsRateLimit
 		if errors.As(resolveErr, &limit) {
 			return resolveErr
 		}
+		stats.Unresolved++
 		slog.Warn("Google News article unresolved; retry next scan", "candidate", hash(link), "error", resolveErr)
 		return nil
 	}
@@ -399,6 +423,9 @@ func (g GoogleNews) Run(ctx context.Context) {
 	slog.Info("Google News discovery enabled", "interval", interval.String(), "queries", len(g.Queries), "queries_per_scan", len(g.batch(0)), "max_new_articles", g.MaxArticles, "queue_target", g.QueueTarget)
 	timer := time.NewTimer(time.Second)
 	defer timer.Stop()
+	const initialCooldown = 5 * time.Minute
+	fallback := initialCooldown
+	batch := googleNewsBatch{queries: g.batch(0)}
 	for n := 0; ; {
 		select {
 		case <-ctx.Done():
@@ -407,19 +434,21 @@ func (g GoogleNews) Run(ctx context.Context) {
 		case <-timer.C:
 			started := time.Now()
 			run, cancel := context.WithTimeout(ctx, 5*time.Minute)
-			stats, err := g.scan(run, g.batch(n))
+			stats, err := g.scan(run, &batch)
 			cancel()
 			next := jitter(interval)
 			var limit *googleNewsRateLimit
 			if errors.As(err, &limit) {
-				// Leave this batch in the rotation until it can finish.
-				next = max(next, limit.cooldown(time.Now()))
-				slog.Warn("Google News scan rate limited", "error", limit, "retry_after_present", limit.retryAfter != "", "next_scan_in", next.String(), "queued", stats.Queued)
+				next = max(next, limit.cooldown(time.Now(), fallback))
+				fallback = min(2*fallback, 30*time.Minute)
+				slog.Warn("Google News scan rate limited", "error", limit, "stage", limit.stage, "feeds_processed", batch.nextQuery, "retry_after_present", limit.retryAfter != "", "next_scan_in", next.String(), "queued", stats.Queued)
 			} else if stats.Deferred {
 				// Keep the rotation position: these queries run once the queue has room.
 				slog.Info("Google News scan deferred; research queue full", "queue_target", g.QueueTarget, "next_scan_in", next.String())
 			} else {
 				n++
+				batch = googleNewsBatch{queries: g.batch(n)}
+				fallback = initialCooldown
 				if err != nil && ctx.Err() == nil {
 					slog.Warn("Google News scan interrupted", "error", err)
 				}

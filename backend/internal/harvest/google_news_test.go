@@ -151,49 +151,53 @@ func TestGoogleRateLimitCooldown(t *testing.T) {
 		{"", 5 * time.Minute},
 		{"-1", 5 * time.Minute},
 	} {
-		if got := (&googleNewsRateLimit{retryAfter: tt.header}).cooldown(now); got != tt.want {
+		if got := (&googleNewsRateLimit{retryAfter: tt.header}).cooldown(now, 5*time.Minute); got != tt.want {
 			t.Errorf("Retry-After %q: got %s, want %s", tt.header, got, tt.want)
 		}
 	}
 }
 
-func TestGoogleSchedulerWaitsAndKeepsRateLimitedBatch(t *testing.T) {
+func TestGoogleSchedulerResumesAtRateLimitedFeed(t *testing.T) {
 	synctest.Test(t, func(t *testing.T) {
 		ctx, cancel := context.WithCancel(t.Context())
 		defer cancel()
-		var first time.Time
-		calls := 0
+		var calls []string
+		var last time.Time
 		g := GoogleNews{
-			Queries:        []GoogleNewsQuery{{"US:en", "first"}, {"US:en", "second"}},
-			QueriesPerScan: 1,
+			Queries:        []GoogleNewsQuery{{"US:en", "first"}, {"US:en", "second"}, {"US:en", "third"}},
+			QueriesPerScan: 2,
 			Interval:       time.Second,
 			client: &http.Client{Transport: newsTransport(func(r *http.Request) (*http.Response, error) {
-				calls++
-				if got := r.URL.Query().Get("q"); got != "first" {
-					t.Errorf("rate limited batch advanced: %q", got)
-				}
+				calls = append(calls, r.URL.Query().Get("q"))
 				res := newsResponse(r, `<rss><channel/></rss>`)
-				if calls == 1 {
-					first = time.Now()
+				switch len(calls) {
+				case 2:
 					res.StatusCode = http.StatusTooManyRequests
 					res.Header.Set("Retry-After", "75")
-				} else {
-					if delay := time.Since(first); delay != 75*time.Second {
+				case 3:
+					if delay := time.Since(last); delay != 75*time.Second {
 						t.Errorf("waited %s, want 75s", delay)
 					}
+					res.StatusCode = http.StatusTooManyRequests
+				case 4:
+					if delay := time.Since(last); delay != 10*time.Minute {
+						t.Errorf("waited %s, want 10m after another 429", delay)
+					}
+				case 5:
 					cancel()
 				}
+				last = time.Now()
 				return res, nil
 			})},
 		}
 		g.Run(ctx)
-		if calls != 2 {
-			t.Fatal(calls)
+		if got := strings.Join(calls, ","); got != "first,second,second,second,third" {
+			t.Fatalf("feed requests: %s", got)
 		}
 	})
 }
 
-func TestGoogleRedirectRateLimitStopsScanAndKeepsResearchJobs(t *testing.T) {
+func TestGoogleRedirectRateLimitResumesAndKeepsResearchJobs(t *testing.T) {
 	s, err := store.Open(filepath.Join(t.TempDir(), "news.sqlite"))
 	if err != nil {
 		t.Fatal(err)
@@ -208,7 +212,8 @@ func TestGoogleRedirectRateLimitStopsScanAndKeepsResearchJobs(t *testing.T) {
 	const publisher = "https://publisher.example/article"
 	var paths []string
 	var lookupAt time.Time
-	g := GoogleNews{Store: s, Queries: []GoogleNewsQuery{{"US:en", "cannabis"}}, client: &http.Client{Transport: newsTransport(func(r *http.Request) (*http.Response, error) {
+	rpcCalls := 0
+	g := GoogleNews{Store: s, Queries: []GoogleNewsQuery{{"US:en", "cannabis"}}, MaxArticles: 2, client: &http.Client{Transport: newsTransport(func(r *http.Request) (*http.Response, error) {
 		paths = append(paths, r.URL.Path)
 		switch r.URL.Path {
 		case "/rss/search":
@@ -216,19 +221,27 @@ func TestGoogleRedirectRateLimitStopsScanAndKeepsResearchJobs(t *testing.T) {
 		case "/rss/articles/first":
 			lookupAt = time.Now()
 			return newsResponse(r, `<div data-n-a-sg="signature" data-n-a-ts="1793362567"></div>`), nil
-		default:
+		case "/_/DotsSplashUi/data/batchexecute":
 			if time.Since(lookupAt) < time.Second {
 				t.Error("redirect request was not paced")
+			}
+			rpcCalls++
+			if rpcCalls > 1 {
+				return newsResponse(r, redirectResponse("https://publisher.example/resumed")), nil
 			}
 			res := newsResponse(r, "")
 			res.StatusCode = http.StatusTooManyRequests
 			res.Header.Set("Retry-After", "120")
 			return res, nil
+		default:
+			t.Fatalf("unexpected Google News request: %s", r.URL.Path)
+			return nil, nil
 		}
 	})}}
-	stats, err := g.Scan(t.Context())
+	batch := googleNewsBatch{queries: g.Queries}
+	stats, err := g.scan(t.Context(), &batch)
 	var limit *googleNewsRateLimit
-	if !errors.As(err, &limit) || limit.retryAfter != "120" || stats.Found != 3 || stats.Unresolved != 1 || stats.Queued != 1 {
+	if !errors.As(err, &limit) || limit.retryAfter != "120" || limit.stage != "article redirect" || stats.Found != 3 || stats.Queued != 1 {
 		t.Fatal(stats, err)
 	}
 	if len(paths) != 3 || !strings.HasSuffix(paths[2], "/batchexecute") {
@@ -244,6 +257,13 @@ func TestGoogleRedirectRateLimitStopsScanAndKeepsResearchJobs(t *testing.T) {
 	}
 	if err := s.DB.QueryRow("SELECT count(*) FROM jobs WHERE kind='research' AND status='queued'").Scan(&count); err != nil || count != 1 {
 		t.Fatal("queued research work changed", count, err)
+	}
+	stats, err = g.scan(t.Context(), &batch)
+	if err != nil || stats.Found != 3 || stats.Queued != 2 || stats.Known != 0 {
+		t.Fatal("could not resume the interrupted batch", stats, err)
+	}
+	if len(paths) != 5 || paths[3] != "/rss/articles/first" || !strings.HasSuffix(paths[4], "/batchexecute") {
+		t.Fatal("resumed scan repeated feeds or the completed candidate", paths)
 	}
 }
 
