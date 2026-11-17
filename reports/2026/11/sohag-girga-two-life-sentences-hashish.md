@@ -51,16 +51,16 @@ sources:
     publisher: صحيفة اخبارنا
     date: 2026-11-17
     language: ar
-open_questions:
-  - The exact date of the sentencing was not given; 17 November 2026 is the publication date and stands in as the incident date.
-  - The defendants were named only by the initials ع.ع and م.ع; only the first was described as a labourer, and no ages or full names were published.
-  - Neither account gave the quantity or value of the hashish or other drugs seized, and no fine was reported.
-  - No appeal or later court outcome was reported.
+  - title: المؤبد لعامل وآخر بتهمة الاتجار في الحشيش والمخدرات بسوهاج
+    url: https://www.awanmasr.com/%D8%A7%D9%84%D9%85%D8%A4%D8%A8%D8%AF-%D9%84%D8%B9%D8%A7%D9%85%D9%84-%D9%88%D8%A2%D8%AE%D8%B1-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD/
+    publisher: اوان مصر
+    date: 2026-11-17
+    language: ar
 ---
 
 A Sohag Criminal Court sentenced two men, one a labourer identified only as A.A.
 and the other M.A., to life imprisonment for trafficking hashish and other
-narcotic drugs in Girga district. [@1] A second account confirmed life sentences
+narcotic drugs in Girga district. [@1,3] A second account confirmed life sentences
 for two defendants, one a labourer, in the Girga hashish-trafficking case. [@2]
 
 The case dates to 2025, when information reached officers of the criminal
@@ -70,7 +70,7 @@ likewise placed the start of the case in 2025 and said Girga police
 investigators acted on a tip from a secret source. [@2] After the legal
 procedures were completed, security services arrested the two men, who confessed
 to trafficking when confronted, and a report was filed referring them to the
-Criminal Court. [@1] The second account said the men were arrested after the
+Criminal Court. [@1,3] The second account said the men were arrested after the
 procedures were regularised and confessed to trafficking hashish and other drugs
 when confronted with the investigation. [@2]
 
@@ -78,4 +78,3 @@ After hearing the case, the court issued its verdict of life imprisonment
 against the two defendants. [@1] The second account said the court reviewed the
 case file, the investigations and the arrest procedures before imposing the life
 sentences. [@2]
-
