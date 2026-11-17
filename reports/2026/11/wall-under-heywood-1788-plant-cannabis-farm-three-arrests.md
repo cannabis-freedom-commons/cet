@@ -98,24 +98,24 @@ sources:
     url: https://www.countytimes.co.uk/news/26736541.two-charged-1m-cannabis-farm-raid-shropshire/
     publisher: County Times
     date: 2026-11-17
-open_questions:
-    - The £1 million figure is a police estimated street value, not a confirmed sale value.
-    - No weight was published for the trays of buds described as ready for sale, so no cannabis weight is recorded.
-    - No pleas or trial outcome were reported for the two charged men, whose case was due to begin at Telford Magistrates Court on 17 November 2026.
-    - No reason was given for the 51-year-old man's release on police bail, and it was not stated whether he might be charged later.
+  - title: Shock as £1m cannabis farm with 1,788 plants found in picture-postcard English village
+    url: https://www.msn.com/en-gb/news/other/shock-as-1m-cannabis-farm-with-1-788-plants-found-in-picture-postcard-english-village/ar-AA2hDgS4
+    publisher: Daily Express
+    date: 2026-11-17
+    language: en
 ---
 
 West Mercia Police raided a property in Wall Under Heywood, near Church Stretton
-in rural Shropshire, on Sunday, November 15. [@1,2,3,4,5,8,10] Officers from the South Shropshire Safer Neighbourhood Teams executed a warrant to enter the property. [@4,6] Officers found two men, both
+in rural Shropshire, on Sunday, November 15. [@1,2,3,4,5,8,10] Officers from the South Shropshire Safer Neighbourhood Teams executed a warrant to enter the property. [@4,6,11] Officers found two men, both
 aged 35, inside the property and arrested them on suspicion of cultivating
-cannabis. [@1,2,3,4,5,6,7,8] A third man, aged 51, was also arrested on suspicion of the same
-offence. [@1,2,3,4,5,6,7,8] The 51-year-old was released on police bail. [@9,10] All three men remained in police custody on Monday, November 16,
+cannabis. [@1,2,3,4,5,6,7,8,11] A third man, aged 51, was also arrested on suspicion of the same
+offence. [@1,2,3,4,5,6,7,8,11] The 51-year-old was released on police bail. [@9,10] All three men remained in police custody on Monday, November 16,
 as enquiries continued. [@1,3,5,6,8] The two, Donset Hich and Illirjan Ramaj, both aged 35 and of no fixed abode, were remanded in custody and were due to appear at Telford Magistrates Court on Tuesday, November 17. [@9,10] Two of the men have been charged with cultivating cannabis. [@9,10]
 
 Police seized 1,788 plants at various stages of growth, along with trays of buds
-ready for sale. [@1,3,4,6,8,10] In the footage an officer remarks on the heat inside the building as the camera lens fogs up. [@8] Police released bodyworn-camera video showing an officer shouting “confirmed grow” and pulling back a door covering to reveal a large room of maturing plants in orderly rows. [@8] The plants were growing in seven rooms at the address. [@1,2,3,4,6,7,8,10]
-Police put the grow's estimated street value at more than £1 million. [@1,2,3,4,5,6,8,10]
-Police said the electrics within the property had been tampered with. [@1,2,3,5,6,7,8]
+ready for sale. [@1,3,4,6,8,10,11] In the footage an officer remarks on the heat inside the building as the camera lens fogs up. [@8] Police released bodyworn-camera video showing an officer shouting “confirmed grow” and pulling back a door covering to reveal a large room of maturing plants in orderly rows. [@8] The plants were growing in seven rooms at the address. [@1,2,3,4,6,7,8,10,11]
+Police put the grow's estimated street value at more than £1 million. [@1,2,3,4,5,6,8,10,11]
+Police said the electrics within the property had been tampered with. [@1,2,3,5,6,7,8,11]
 
 Police linked the operation to Operation Conyay, its drive to disrupt organised
 criminality in local communities. [@1,4,6,8,10] Safer Neighbourhood Inspector Damien
