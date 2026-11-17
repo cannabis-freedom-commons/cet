@@ -50,29 +50,28 @@ sources:
     publisher: WP Info
     date: 2026-11-16
     language: pl
-open_questions:
-  - No weight for the four wraps of marijuana was published, so no cannabis weight is recorded.
-  - No separate date for the stop was given; 16 November 2026 is the publication date of the police report and is used as the incident date.
-  - The report does not state whether the 31-year-old passenger faced any detention, charge or other measure.
-  - No plea or court outcome was reported; the case was at the charge stage.
-  - The account rests on a single police statement with no independent reporting.
+  - title: Kierowca taksówki z marihuaną. Interwencja policji na Pradze Północ | Praga Północ | TuStolica.pl
+    url: https://tustolica.pl/kierowca-taksowki-z-marihuana-interwencja-na-pradze-polnoc_97404
+    publisher: TuStolica.pl
+    date: 2026-11-16
+    language: pl
 ---
 
 Around 21:20 at the intersection of Wileńska and Czynszowa streets, officers
 from the Intelligence and Patrol Department of the Warsaw Metropolitan Police
-noticed a taxi driver making nervous movements behind the wheel. [@1] Using
+noticed a taxi driver making nervous movements behind the wheel. [@1,3] Using
 light and sound signals, officers stopped the vehicle for a check on Czynszowa
 Street and identified the driver and the passenger. [@1] The driver was a
 32-year-old Turkish citizen and the passenger was a 31-year-old citizen of the
-same country. [@1,2] Having reasonable suspicion that the men could possess
+same country. [@1,2,3] Having reasonable suspicion that the men could possess
 prohibited substances, officers searched them and the vehicle. [@1]
 
 Officers found one aluminium-foil wrap of plant material on the car's floor mat
 and three more foil wraps with plant material in the driver's jacket pocket.
-[@1,2] Testing of the secured plant material confirmed that it was marijuana. [@1,2]
+[@1,2,3] Testing of the secured plant material confirmed that it was marijuana. [@1,2,3]
 The 32-year-old driver was detained and placed in a police cell. [@1,2]
 
 Investigators charged the 32-year-old Turkish citizen with possession of
-narcotics. [@1,2] Possession of narcotics carries up to three years in prison.
+narcotics. [@1,2,3] Possession of narcotics carries up to three years in prison.
 [@1,2] The proceedings are supervised by the Warsaw-Praga Północ District
 Prosecutor's Office. [@1,2]
