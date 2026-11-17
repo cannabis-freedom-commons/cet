@@ -49,25 +49,23 @@ sources:
     publisher: Meganoticias
     date: 2026-11-15
     language: es
-open_questions:
-  - No separate weight for the marijuana within the 2-tonne 558-kilo mixed total was published, so no cannabis figure is recorded.
-  - No separate date for the incineration was given; 15 November 2026 is the publication date of both accounts and stands in for the event date.
-  - No arrests, charges or court outcomes connected with the destruction ceremony were reported.
-  - The 2,299,990 cigarette units and the 10 additional narcotic units are not cannabis quantities and are excluded from the figures.
-  - The text gives a weight ("558 kilos") but the figures have no kg_seized; check whether it belongs there.
-  - 'Left out, as its quotation was not found in El Universal: The FGR said the operation drew on actions in Ciudad Juarez, Cuauhtemoc, Ojinaga, Parral and Chihuahua, and El Universal reports the event took place at the 2nd Infantry Battalion in Cuauhtemoc.'
+  - title: Destruyen más de 2.5 toneladas de droga en Cuauhtémoc
+    url: https://netnoticias.mx/estatal/destruyen-mas-de-25-toneladas-de-droga-en-cuauhtemoc
+    publisher: Netnoticias
+    date: 2026-11-15
+    language: es
 ---
 
 Mexico's FGR incinerated a total of two tonnes 558 kilos 624 grams 32 milligrams
 of narcotics at the Second Infantry Battalion facilities in Cuauhtémoc,
-Chihuahua. [@1,3] The procedure was carried out by the FGR in coordination with
+Chihuahua. [@1,3,4] The procedure was carried out by the FGR in coordination with
 the Secretaría de la Defensa Nacional. [@1,3] The burned substances included
 cocaine hydrochloride, methamphetamine hydrochloride, marijuana, heroin and
-psychotropic pills, plus 10 additional units of narcotic. [@1,3]
+psychotropic pills, plus 10 additional units of narcotic. [@1,3,4]
 
 The FGR said the destroyed material came from seizures by security forces of the
 three levels of government in the state. [@1] The evidence was linked to 141
 health-crimes investigations in Ciudad Juarez, Cuauhtemoc, Ojinaga, Parral and
-the state capital. [@1,2,3] Verification of the weight and characteristics was
+the state capital. [@1,2,3,4] Verification of the weight and characteristics was
 handled by the FECOR federal prosecutor in Chihuahua together with FGR
 internal-control representatives. [@1,3]
