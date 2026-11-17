@@ -65,6 +65,11 @@ sources:
     url: https://newskarnataka.com/kodagu/court-orders-cannabis-offender-to-assist-traffic-police-in-kodagu/17112026/
     publisher: News Karnataka
     date: 2026-11-17
+  - title: गांजा सेवनप्रकरणी ५ हजारांचा दंड, वाहतूक पोलिसांना मदत करण्याचीही शिक्षा
+    url: https://www.instagram.com/reel/Df2X2Ycpj5r/
+    publisher: policenamaa
+    date: 2026-11-17
+    language: mr
 open_questions:
     - No quantity of cannabis, seizure detail or laboratory confirmation was reported.
     - The NDTV page summary places Kodagu in Kerala, while its article body places Siddapur in Karnataka's Kodagu district; the report follows the body, since Kodagu is in Karnataka.
@@ -75,13 +80,13 @@ open_questions:
 ---
 
 A local court in Karnataka convicted Asim, a resident of Siddapur in Virajpet
-subdivision of Kodagu district, for consuming cannabis. [@1,2,3,4] The court fined him
-Rs 5,000 and ordered community service as a joint punishment. [@1,2,3,4] He avoided
+subdivision of Kodagu district, for consuming cannabis. [@1,2,3,4,5] The court fined him
+Rs 5,000 and ordered community service as a joint punishment. [@1,2,3,4,5] He avoided
 imprisonment. [@1]
 
 On November 15, Asim reported for traffic duty in Siddapur town under police
-supervision as his community service. [@1,2,4] He spent the day regulating vehicles
-and managing pedestrians. [@1,2,4]
+supervision as his community service. [@1,2,4,5] He spent the day regulating vehicles
+and managing pedestrians. [@1,2,4,5]
 
 The court chose community service alongside the fine rather than imprisonment so
 that the offender would understand his social responsibilities through public
