@@ -48,6 +48,11 @@ media:
     media_url: https://cloud.jpnn.com/photo/jatim/news/normal/2026/11/17/polrestabes-surabaya-menangkap-pemuda-berinisial-za-yang-did-jv1r.jpg
     publisher: JPNN.com Jatim
     caption: 'Suspect ZA in custody after arrest for allegedly couriering cannabis and ecstasy. Photo: Source for JPNN'
+  - kind: photo
+    url: https://voiceindonesia.co/daerah/jaringan-narkoba-sistem-ranjau-terbongkar-polrestabes-surabaya-kurir-24-tahun-asal-pakal-diamankan
+    media_url: https://voiceindonesia.co/api/proxy-image?url=https%3A%2F%2Fcdn.voiceindonesia.co%2Fuploads%2F2026%2F11%2Fce7500b515-petugas-satreskoba-polrestabes-surabaya-menunjukkan-barang-bukti-beserta-tersangka-4b8479bf-featured.jpg&w=900&q=75
+    publisher: VOICE Indonesia
+    caption: 'Officers of the Surabaya city police narcotics unit display the seized evidence and suspect ZA. Photo: Dok. Istimewa / VOICE Indonesia'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 0507e03de68d2969b50157b56cab9c5d
@@ -63,32 +68,36 @@ sources:
     publisher: JPNN.com Jatim
     date: 2026-11-17
     language: id
+  - title: Jaringan Narkoba Sistem Ranjau Terbongkar Polrestabes Surabaya, Kurir 24 Tahun asal Pakal Diamankan
+    url: https://voiceindonesia.co/daerah/jaringan-narkoba-sistem-ranjau-terbongkar-polrestabes-surabaya-kurir-24-tahun-asal-pakal-diamankan
+    publisher: VOICE Indonesia
+    date: 2026-11-17
+    language: id
 open_questions:
-    - The cannabis was described only as packets of ganja and leftover ecstasy pills, with no laboratory confirmation reported.
-    - The ecstasy component is non-cannabis and is excluded from the cannabis figures.
-    - Police seized 220.020 grams while the accounts also say 500 grams was received and divided into ten 50-gram packets; what happened to the remainder was not explained.
-    - The Rp2.7 million was reported as wages received and as cash seized, and a promised Rp1 million commission was also reported; how these payment figures relate was not explained.
+    - The cannabis was described only as packets of ganja and a partly smoked joint, with no laboratory confirmation reported.
+    - No total weight or purity was given for the ecstasy tablets, which are excluded from the cannabis figures.
+    - Police seized 220.020 grams while the accounts say 500 grams was received and divided into ten 50-gram packets; what happened to the remainder was not explained.
+    - The Rp2.7 million was reported as the total ZA received and as cash seized, while a separate Rp1 million commission was also reported; how these payment figures relate was not explained.
     - No detention period, plea or court outcome was reported; the case was at the investigation stage.
-    - Both accounts reproduce the same Satresnarkoba Polrestabes Surabaya statement and are not independent reporting.
-    - The arrest was reported on 11 November at a house in Sidorejo and a boarding room in Babat Jerawat, while the dealer identified as KBR remains wanted.
+    - KBR, identified as the dealer who gave the orders, remains wanted and no further arrests were reported.
 ---
 
 ZA, a 24-year-old resident of Pakal in Surabaya, was placed in Polrestabes
-Surabaya custody. [@1,2] Officers moved at two locations, a house in the Sidorejo area of Pakal village and a boarding room in the Babat Jerawat area of Pakal district. [@2] Unit 3 of Satresnarkoba Polrestabes Surabaya carried out the arrest on Wednesday 11 November. [@2] Narcotics chief AKBP Dodi Pratama said ZA was invited to
+Surabaya custody. [@1,2] Officers moved at two locations, a house in the Sidorejo area of Pakal village and a boarding room in the Babat Jerawat area of Pakal district. [@2,3] Unit 3 of Satresnarkoba Polrestabes Surabaya carried out the arrest on Wednesday 11 November. [@2,3] Narcotics chief AKBP Dodi Pratama said ZA was invited to
 become a courier and was paid each time he delivered cannabis and ecstasy. [@1]
 ZA said he met the dealer above him, identified only as K, while drinking coffee
-with a friend at a stall near his house. [@1] Police said ZA acted on the orders of a person with the initials KBR, who is now on the wanted list. [@2] Police said ZA had worked as a
-courier for two months. [@1]
+with a friend at a stall near his house. [@1] Police said ZA acted on the orders of a person with the initials KBR, who is now on the wanted list. [@2,3] Police said ZA had worked as a
+courier for two months. [@1,3]
 
 Police seized five small packets of cannabis weighing 220.020 grams, plus
-fragments of ecstasy pills. [@1,2] ZA last received 500 grams of cannabis from K
+fragments of ecstasy pills. [@1,2,3] The evidence list also included a partly smoked cannabis joint weighing 0.012 grams. [@3] ZA last received 500 grams of cannabis from K
 in front of a campus in the Babat Jerawat area of Surabaya, took it home and
 repacked it. [@1,2] According to the suspect's statement to investigators, the activity began on Friday 30 October at about 20.00. [@2] The cannabis was divided into 10 packets weighing 50 grams
-each to await further orders from K. [@1,2] ZA also collected 200 ecstasy pills by
-dead drop in the Dukuh Kupang area and forwarded them immediately. [@1] He was
+each to await further orders from K. [@1,2,3] ZA also collected 200 ecstasy pills by
+dead drop in the Dukuh Kupang area and forwarded them immediately. [@1] Another courier collected the ecstasy package the next day, Tuesday 10 November, at about 17.00. [@3] ZA collected the ecstasy at Jalan Dukuh Kupang on Monday 9 November. [@3] He was
 paid Rp 20,000 for each cannabis delivery point and Rp 300,000 for delivering
 the 200 ecstasy pills. [@1] In total he received Rp 2.7 million from the dealer,
-which police seized along with other evidence. [@1]
+which police seized along with other evidence. [@1,3] ZA told investigators he only carried out KBR's orders and denied dealing directly with buyers. [@3]
 
 Police charged him under Article 114(1) subsidiary Article 111(1) of the 2009
 Narcotics Law as amended in 2026, and Article 609(1)(a) of the 2023 Criminal
