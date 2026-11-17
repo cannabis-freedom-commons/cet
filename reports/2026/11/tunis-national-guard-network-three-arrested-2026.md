@@ -1,13 +1,13 @@
 ---
 code: 21R5ZM
 added_at: "2026-11-09T09:11:29.751634Z"
-date: 2026-11-09
+date: 2026-11-12
 country: tn
 place: Tunis
 coordinates: [36.8065, 10.1815]
 precision: locality
-type: arrest
-also: [seizure, prosecution]
+type: prosecution
+also: [seizure, arrest]
 title: National Guard breaks Tunis drug network; sports coach among three held
 summary: >-
   The National Guard's Research and Inspection Brigade in Tunis dismantled a drug network, arresting three suspects including a group-sports coach and listing a fourth for arrest. Officers seized about 100 grams of cocaine, an unspecified amount of cannabis (zatla), roughly 100,000 dinars in cash and two cars.
@@ -102,23 +102,19 @@ sources:
     publisher: Babnet
     date: 2026-11-09
     language: ar
+  - title: تونس- تلميذة ومدرب وموظف.. شبكة كوكايين في قبضة الأمن
+    url: https://tunisie-telegraph.com/a-la-une-%D8%A2%D8%AE%D8%B1-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AA%D9%88%D9%86%D8%B3-%D8%AA%D9%84%D9%85%D9%8A%D8%B0%D8%A9-%D9%88%D9%85%D8%AF%D8%B1%D8%A8-%D9%88%D9%85%D9%88%D8%B8%D9%81-%D8%B4%D8%A8%D9%83%D8%A9-%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86/
+    publisher: Tunisie Telegraph
+    date: 2026-11-12
+    language: ar
 open_questions:
-  - No date is given for the operation; 9 November 2026 is the publication date and stands in for the incident date.
-  - No weight, plant count or value was published for the cannabis; the cocaine weight is not included in the cannabis figure.
-  - The cannabis was described only as cannabis (zatla) without saying whether it was resin or herb.
-  - The suspects are described by occupation only, with no names, ages or charges stated.
-  - No court outcome or measure of restraint was reported beyond the prosecutor authorising legal measures.
-  - Only one accessible account was found; searches in Arabic and English surfaced no second outlet or National Guard statement.
-  - The article gives no separate date for the operation; 9 November 2026 is its publication date.
-  - No weight or value was published for the cannabis (zatla), so no separate cannabis quantity can be added; the 100-gram figure is cocaine.
-  - The page's only listed image uses a generic June 2025 upload filename with only the headline as caption and no credit, so it is omitted as not shown to depict this seizure.
-  - The French Mosaique FM page gives no weight, plant count or value for the cannabis (zatla) and no date for the operation beyond its own 9 November 2026 publication date.
-  - The French page's only image is captioned 'Garde nationale' with no credit and nothing confirming it shows this operation or seizure.
-  - The Pressbee page is an aggregator stub with no substantive body text; it reproduces the Mosaique FM headline line only, and the fuller account was read on the linked Mosaique FM original, its reprint and La Presse de Tunisie.
-  - The Webdo article gives no weight or value for the cannabis, only 'une quantité de cannabis', so no cannabis figure can be added.
-  - The Nessma/TAP account calls the cannabis zmital where the earlier accounts use zatla, and gives no weight, plant count or value for it.
-  - Realites Online names no town or governorate for the operation, so the existing place of Tunis is kept from other accounts.
-  - The page is a distributive reprint of La Presse de Tunisie rather than independent reporting, and it gives no date for the operation beyond its 9 November 2026 publication date.
+    - No separate date for the operation was reported; 9 November 2026, the publication date of the first accounts, stands in for the incident date.
+    - No weight, plant count or value was published for the seized cannabis, so no cannabis quantity can be added; the 100-gram figure is cocaine.
+    - The cannabis was described only as zatla, zmital or cannabis, without saying whether it was resin or herb.
+    - The suspects were identified only by occupation, including a schoolgirl, a public employee and a sports coach, with no names, ages or charges stated.
+    - The public prosecutor's detention and the investigating judge's two prison deposit warrants are precautionary measures, not a final conviction.
+    - No detention outcome was reported for the schoolgirl among the three detained, and no outcome was reported for the fourth person listed as wanted.
+    - The roles attributed to each suspect and the full circumstances remain under judicial investigation.
 media:
   - kind: photo
     url: https://www.mosaiquefm.net/fr/national-tunisie/1536188/tunis-un-reseau-de-trafic-de-drogues-demantele
@@ -131,13 +127,13 @@ The National Guard's Research and Inspection Brigade in Tunis, working with the
 second central intelligence brigade after an intelligence and field
 investigation, dismantled a drug network suspected of ties to another group.
 [@1,3,6,7,10,11] Officers arrested three suspected members of the network, including a
-group-sports coach, and put a fourth person on a wanted list. [@1,2,3,4,6,8,9,10,11,12]
+group-sports coach, and put a fourth person on a wanted list. [@1,2,3,4,6,8,9,10,11,12,13]
 
 The operation seized about 100 grams of cocaine, an unspecified quantity of
 cannabis, known locally as zatla, about 100,000 dinars in cash and two cars
-suspected of being used to move the network's members. [@1,2,3,4,6,7,8,9,10,11,12]
+suspected of being used to move the network's members. [@1,2,3,4,6,7,8,9,10,11,12,13]
 
 After being informed, the public prosecutor authorised the legal measures
-required against the suspects. [@1,2,3,6,7,9,10,11,12]
+required against the suspects. [@1,2,3,6,7,9,10,11,12] The investigating judge at the Tunis Court of First Instance then issued two prison deposit warrants against the public employee and the youth basketball coach over suspected involvement in the drug-trafficking network. [@13]
 
 An informed source told the Tunis Afrique Presse agency that three people, including a sports coach, were arrested on suspicion of involvement in a drug-trafficking network linked to a group of supporters of a sports club. [@2] The accounts describe the network as promoting both cocaine and cannabis and put the cash seized at 100,000 dinars. [@5] La Presse de Tunisie, citing a source close to the TAP agency, reported that the three were held over a network tied to a supporters' group of a sports club. [@3]
