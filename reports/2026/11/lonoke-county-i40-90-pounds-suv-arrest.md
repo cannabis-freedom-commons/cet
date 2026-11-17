@@ -53,6 +53,10 @@ sources:
   - title: Arkansas State Police Seize 90 Pounds of Suspected Marijuana on I-40 Near Carlisle
     url: https://arkansasradio.com/2026/11/arkansas-state-police-90-pounds-marijuana-i40-carlisle/
     publisher: Arkansas Radio
+  - title: Tennessee man arrested after illegal marijuana seizure on I-40 in Lonoke County
+    url: https://www.kark.com/crime/tennessee-man-arrested-after-illegal-marijuana-seizure-on-i-40-in-lonoke-county/
+    publisher: KARK
+    date: 2026-11-16
 open_questions:
   - The weight is reported only as around 90 pounds, so 40.82 kg is an approximate conversion with no exact weighed figure published.
   - The material was described only as suspected marijuana with no laboratory confirmation reported.
@@ -69,18 +73,18 @@ media:
 
 On 14 November 2026, an Arkansas State Police trooper stopped an eastbound
 Toyota SUV for a traffic violation on Interstate 40 near the 184-mile marker in
-Lonoke County, Arkansas. [@2,3] The Arkansas State Police was the agency credited
+Lonoke County, Arkansas. [@2,3,4] The Arkansas State Police was the agency credited
 with the stop, the arrest and the seizure. [@2] The driver was 37-year-old
-Javlon Ilkhamdjanov of Mount Juliet, Tennessee. [@2,3] He told investigators he
+Javlon Ilkhamdjanov of Mount Juliet, Tennessee. [@2,3,4] He told investigators he
 was travelling from Oklahoma to Tennessee when he was stopped. [@2,3]
 
 A search of the SUV found three large bags holding multiple vacuum-sealed
-packages of suspected marijuana. [@2,3] Police described the load as around 90
+packages of suspected marijuana. [@2,3,4] Police described the load as around 90
 pounds of illegal suspected marijuana, about 40.8 kilograms. [@2] The account is
 datelined Carlisle, Arkansas, placing the stop area in Lonoke County on the
 interstate. [@2]
 
 Ilkhamdjanov was taken into custody and transported to the Lonoke County
-Sheriff's Detention Center. [@1,3] He was charged with felony possession of a
+Sheriff's Detention Center. [@1,3,4] He was charged with felony possession of a
 controlled substance with intent to deliver and possession of drug
-paraphernalia. [@1]
+paraphernalia. [@1,4]
