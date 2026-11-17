@@ -103,23 +103,30 @@ sources:
     publisher: Do Took Media
     date: 2026-11-13
     language: hi
+  - title: ग्रेटर नोएडा के बादलपुर में लॉजिस्टिक कंपनी के गोदाम से 20 किलो गांजा बरामद, ओडिशा से दिल्ली भेजे जा रहे थे पैकेट
+    url: https://nownoida.com/noida-news/details/10227/greater-noida-badalpur-20-kg-ganja-seized-logistics-warehouse
+    publisher: Now Noida
+    date: 2026-11-13
+    language: hi
+open_questions:
+  - No arrest or identified sender or recipient was reported in this account; who booked the parcels and who was to receive them in Delhi remained under investigation.
 ---
 
 Badalpur police seized about 20 kg of ganja from two suspect packets at the
 Swastik Logistics warehouse near Dhoom Manikpur village in the Badalpur area of
-Greater Noida. [@1,2,4,6,9,10] The warehouse, identified as that of Swastik Logistics
+Greater Noida. [@1,2,4,6,9,10,11] The warehouse, identified as that of Swastik Logistics
 Company near Dhoom Manikpur village, stores parcels sent through a local
 delivery company. [@1,6] The two packets had been booked in Odisha for delivery in
-Delhi and bore a Delhi address. [@1,2,5,6,8,9,10] The packages had arrived at the warehouse on Thursday and were to be sent to Delhi the next day. [@7] Police reached the warehouse after the
+Delhi and bore a Delhi address. [@1,2,5,6,8,9,10,11] The packages had arrived at the warehouse on Thursday and were to be sent to Delhi the next day. [@7] Police reached the warehouse after the
 packets aroused suspicion, had both packets examined, and confirmed they
 contained ganja. [@1,6] DCP Central Noida Dr Praveen Ranjan Singh said a field unit and a forensic team were called to the warehouse, scanned both packets and confirmed they contained ganja. [@9] The ganja was concealed between layers of books inside the two packages and was detected during an X-ray scan. [@3,7]
 
 Together the two packets yielded about 20 kg of ganja. [@1,5,6,8] Police put the
-estimated market value of the seized ganja at about 10 lakh rupees. [@1,2,4,5,6,7,8,9,10] Police
-took the ganja into custody and began investigating the case. [@1,5,8,9,10] Police said a case is being registered against both the sender and the recipient of the consignment. [@3,7]
+estimated market value of the seized ganja at about 10 lakh rupees. [@1,2,4,5,6,7,8,9,10,11] Police
+took the ganja into custody and began investigating the case. [@1,5,8,9,10,11] Police said a case is being registered against both the sender and the recipient of the consignment. [@3,7]
 
 Investigators are trying to identify who booked the consignment, who sent it,
-and who was to receive it in Delhi. [@1,5,6,8] Wasim was posted as manager at the
+and who was to receive it in Delhi. [@1,5,6,8,11] Wasim was posted as manager at the
 warehouse, and police are gathering information from him about the case. [@1,6] Police were also reviewing CCTV footage from the warehouse. [@4]
 Police are examining the logistics company's records and consignment details to
 trace the smuggling network, and further action was under way. [@1,6] Police are also investigating whether the shipment was an isolated attempt to transport narcotics or part of a wider drug distribution network operating between Odisha and Delhi-NCR. [@7]
