@@ -247,3 +247,70 @@ export function topRoutes(reports, n = 10) {
   }
   return [...counts].map(([k, count]) => { const [from, to] = k.split(">"); return { from, to, count }; }).sort((a, b) => b.count - a.count).slice(0, n);
 }
+
+// ---- operations, products and the law ----
+
+// how many reports state a figure in each band of it: [{ label, short, count }]
+export const ARREST_BANDS = [["1 person", "1", 1, 2], ["2 people", "2", 2, 3], ["3–5 people", "3–5", 3, 6], ["6–10 people", "6–10", 6, 11], ["11–50 people", "11–50", 11, 51], ["51–500 people", "51–500", 51, 501], ["More than 500", "500+", 501, Infinity]];
+export const PLANT_BANDS = [["Under 100 plants", "<100", 0, 100], ["100–999", "100+", 100, 1000], ["1,000–9,999", "1K+", 1000, 10000], ["10,000–99,999", "10K+", 10000, 100000], ["100,000–999,999", "100K+", 100000, 1000000], ["A million or more", "1M+", 1000000, Infinity]];
+export function figureBands(list, figure, bands) {
+  const v = list.map((r) => r.figures?.[figure]).filter((x) => x > 0).sort((a, b) => a - b);
+  return {
+    bands: bands.map(([label, short, lo, hi]) => ({ label, short, count: v.filter((x) => x >= lo && x < hi).length })),
+    median: v.length ? v[Math.floor((v.length - 1) / 2)] : null,
+    total: v.length,
+  };
+}
+
+// what the reports say was seized or destroyed, year by year: each year's mentions of a product as
+// shares of all its mentions (a report naming flower and hashish counts once for each)
+export const PRODUCT_COLORS = { flower: "#e3b341", hashish: "#8c5a3c", plants: "#e8743b", oil: "#6b8fd6", edibles: "#a56cc1", seeds: "#c9c3b4", other: "#6d6b66" };
+export function productsByYear(list, from, to) {
+  const rows = Array.from({ length: to - from + 1 }, (_, i) => ({ key: from + i, reports: 0, mentions: 0, counts: {} }));
+  for (const r of list) {
+    const row = rows[r.year - from];
+    const products = new Set((r.details?.products ?? []).map((p) => p.product).filter(Boolean));
+    if (!row || !products.size) continue;
+    row.reports++;
+    for (const p of products) { row.counts[p] = (row.counts[p] ?? 0) + 1; row.mentions++; }
+  }
+  return rows.map((row) => ({ ...row, shares: Object.fromEntries(Object.entries(row.counts).map(([p, n]) => [p, n / row.mentions])) }));
+}
+
+// what else a report of each type records ("also"): for each main type, the share of its reports
+// that also count as each other type: [{ type, total, shares: { arrest: 0.6 } }], most first
+export function typePairs(list) {
+  const rows = new Map();
+  for (const r of list) {
+    const row = rows.get(r.type) ?? rows.set(r.type, { type: r.type, total: 0, counts: {} }).get(r.type);
+    row.total++;
+    for (const t of new Set(r.also ?? [])) if (t !== r.type) row.counts[t] = (row.counts[t] ?? 0) + 1;
+  }
+  return [...rows.values()].sort((a, b) => b.total - a.total)
+    .map((row) => ({ ...row, shares: Object.fromEntries(Object.entries(row.counts).map(([t, n]) => [t, n / row.total])) }));
+}
+
+// the reports by the CFI band of the place's law today (a state without a score of its own takes its
+// country's): [{ tier, countries, total, counts: { type: n }, prison: median years or null, death: reports of a death sentence or execution }]
+export function byLawBand(list, tiers, scoreOf) {
+  const rows = tiers.map((tier) => ({ tier, places: new Set(), total: 0, counts: {}, terms: [], death: 0 }));
+  let unscored = 0;
+  for (const r of list) {
+    const score = scoreOf(r.country);
+    if (score == null) { unscored++; continue; }
+    const row = rows[tiers.findIndex((t) => score >= t.min)] ?? rows.at(-1);
+    row.total++;
+    row.places.add(r.country.split("/")[0]);
+    row.counts[r.type] = (row.counts[r.type] ?? 0) + 1;
+    const y = r.figures?.prison != null ? prisonYears(r.figures.prison) : null;
+    if (typeof y === "number") row.terms.push(y);
+    if (y === "death" || r.type === "execution") row.death++;
+  }
+  return {
+    unscored,
+    rows: rows.filter((row) => row.total).map(({ terms, places, ...row }) => {
+      terms.sort((a, b) => a - b);
+      return { ...row, countries: places.size, prison: terms.length >= 5 ? terms[Math.floor((terms.length - 1) / 2)] : null, terms: terms.length };
+    }),
+  };
+}

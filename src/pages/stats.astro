@@ -5,8 +5,10 @@ import { reports, totals, countByType, countriesWithReports, monthName, years } 
 import { sourcesByDomain, sourcesByTld, SOURCE_KINDS, GENERIC_CC } from "../lib/source-domains.js";
 import BandChart from "../components/stats/BandChart.astro";
 import { TYPES, STATUS } from "../lib/types.js";
+import { TIERS } from "../lib/cfi.js";
 import { countryOf, flagOf, countryName } from "../lib/countries.js";
-import { fmt, compact, tileNumber, headlineFigures, periodColumns, typeRows, reportsByModel, topCountriesBy, prisonBands, seizureBands, PRISON_BANDS, SEIZURE_BANDS, SOURCE_COUNT_BANDS, prisonYears, typeMixByRegion, sourceCountBands, weekdayCounts, seasonality, tagCloud, addedPerDay, detailCounts, topAgencies, caseFunnel, topRoutes } from "../lib/stats.js";
+import vocabularies from "../data/vocabularies.json";
+import { fmt, compact, tileNumber, headlineFigures, periodColumns, typeRows, reportsByModel, topCountriesBy, prisonBands, seizureBands, PRISON_BANDS, SEIZURE_BANDS, SOURCE_COUNT_BANDS, prisonYears, typeMixByRegion, sourceCountBands, weekdayCounts, seasonality, tagCloud, addedPerDay, detailCounts, topAgencies, caseFunnel, topRoutes, figureBands, ARREST_BANDS, PLANT_BANDS, productsByYear, PRODUCT_COLORS, typePairs, byLawBand } from "../lib/stats.js";
 import { formatWeight, formatWeightNumber } from "../lib/figures.js";
 const base = import.meta.env.BASE_URL;
 const domains = sourcesByDomain(reports);
@@ -50,6 +52,8 @@ const detailLists = [
   { title: "How it was grown", filter: "environment", rows: detailCounts(reports, "environment", "environment") },
   { title: "Who acted", filter: "agency_type", rows: detailCounts(reports, "agency_types", "agency_type") },
   { title: "How far the case went", filter: "case_stage", rows: detailCounts(reports, "case_stage", "case_stage") },
+  { title: "What the courts imposed", filter: "sentence", rows: detailCounts(reports, "sentence_types", "sentence_type") },
+  { title: "Force reported", filter: null, rows: detailCounts(reports, "force", "force") },
 ].filter((l) => l.rows.length);
 const funnel = caseFunnel(reports);
 const routes = topRoutes(reports);
@@ -99,7 +103,26 @@ const perReport = sourceCountBands(reports);
 perReport.bands.forEach((b, i) => { const [, , lo, hi] = SOURCE_COUNT_BANDS[i]; b.href = reportsWith({ sources: `${lo}-${hi === Infinity ? "" : hi - 1}` }); });
 const withMedia = reports.filter((r) => r.media?.length || r.cover).length;
 const precisions = [["exact", "Exact spot"], ["locality", "Town or village"], ["district", "District"], ["region", "Region or state"], ["country", "Country only"]].map(([k, label]) => [label, reports.filter((r) => r.precision === k).length]).filter(([, n]) => n);
-const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", "Calendar"], ["what", "What happened"], ["sizes", "Sentences and seizures"], ["where", "Where"], ["leaders", "Biggest figures"], ["tags", "Tags"], ["models", "AI models"], ["ai-usage", "AI usage"], ["years", "By year"], ["sources", "Sources"]];
+// how many people one operation arrests, and how many plants one eradication destroys
+const arrestSizes = figureBands(reports, "arrested", ARREST_BANDS), plantSizes = figureBands(reports, "plants_destroyed", PLANT_BANDS);
+arrestSizes.bands.forEach((b, i) => { const [, , lo, hi] = ARREST_BANDS[i]; b.href = reportsWith({ arrested: `${lo}-${hi === Infinity ? "" : hi - 1}` }); });
+plantSizes.bands.forEach((b, i) => { const [, , lo, hi] = PLANT_BANDS[i]; b.href = reportsWith({ plants: `${lo}-${hi === Infinity ? "" : hi - 1}` }); });
+// what was seized, year by year since 2000 (earlier years have too few reports for shares)
+const productLabel = Object.fromEntries(vocabularies.product.map((t) => [t.id, t.label]));
+const productIds = Object.keys(PRODUCT_COLORS);
+const P0 = Math.max(2000, first ?? 2000);
+const productYears = productsByYear(reports, P0, last ?? P0);
+const productLead = (from, to) => { const counts = {}; let all = 0; for (const y of productYears.filter((y) => y.key >= from && y.key <= to)) for (const [p, n] of Object.entries(y.counts)) { counts[p] = (counts[p] ?? 0) + n; all += n; } return Object.fromEntries(Object.entries(counts).map(([p, n]) => [p, Math.round((n / Math.max(1, all)) * 100)])); };
+const productsEarly = productLead(P0, P0 + 9), productsLate = productLead((last ?? P0) - 4, last ?? P0);
+// what else a report of each type records
+const pairs = typePairs(reports).filter((row) => row.total >= 20);
+const pairShade = (share) => `color-mix(in srgb, var(--cite) ${Math.round(Math.min(1, share / 0.6) * 72)}%, var(--surface))`;
+const arrestWithSeizure = pairs.find((row) => row.type === "seizure")?.shares.arrest ?? 0;
+// the reports by the law where they happened: the CFI band of the place today
+const scoreOf = (id) => { const c = countryOf(id); return c?.cfi?.score ?? (c?.parent ? countryOf(c.parent)?.cfi?.score : null) ?? null; };
+const lawBands = byLawBand(reports, TIERS, scoreOf);
+const lawMax = Math.max(1, ...lawBands.rows.map((row) => row.total));
+const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", "Calendar"], ["what", "What happened"], ["sizes", "Sentences and seizures"], ["where", "Where"], ["law", "The law"], ["leaders", "Biggest figures"], ["tags", "Tags"], ["models", "AI models"], ["ai-usage", "AI usage"], ["years", "By year"], ["sources", "Sources"]];
 ---
 <Base title="Statistics" description="Totals, timelines and breakdowns of the cannabis enforcement reports.">
   <h1>Statistics</h1>
@@ -154,6 +177,21 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
       </div>
       <p class="chart-note">{fmt(addedChart.cols.at(-1).cumulative)} reports in all. Most older events were added in bulk when the tracker started, so the dates say when a report was written, not when the event happened.</p>
     </figure>}
+    <figure class="col-chart stack-chart" data-chart>
+      <figcaption><b>What was seized, year by year</b> <span>the cannabis products reports name, as shares of each year · {P0}–{last}</span></figcaption>
+      <div class="cols" style={`--n:${productYears.length}`}>
+        {productYears.map((y) => (
+          <a class="col" href={`${base}${y.key}/`} data-tip={JSON.stringify({ t: String(y.key), s: `${fmt(y.reports)} ${y.reports === 1 ? "report" : "reports"} name a product`, rows: productIds.filter((p) => y.counts[p]).map((p) => [PRODUCT_COLORS[p], productLabel[p], `${Math.round(y.shares[p] * 100)}%`]) })} aria-label={`${y.key}: ${productIds.filter((p) => y.counts[p]).map((p) => `${productLabel[p]} ${Math.round(y.shares[p] * 100)}%`).join(", ")}`}>
+            <span class="stack">{productIds.filter((p) => y.counts[p]).reverse().map((p) => <i style={`height:${y.shares[p] * 100}%;background:${PRODUCT_COLORS[p]}`}></i>)}</span>
+          </a>
+        ))}
+      </div>
+      <div class="col-axis" style={`--n:${productYears.length}`} aria-hidden="true">
+        {productYears.map((y, i, all) => <span>{((i % 5 === 0 && all.length - 1 - i >= 3) || i === all.length - 1) && y.key}</span>)}
+      </div>
+      <ul class="stack-key">{productIds.filter((p) => productYears.some((y) => y.counts[p])).map((p) => <li><a href={reportsWith({ product: p })}><i style={`background:${PRODUCT_COLORS[p]}`}></i>{productLabel[p]}</a></li>)}</ul>
+      <p class="chart-note">A report naming two products counts once for each. Herbal cannabis made up {productsEarly.flower ?? 0}% of the products named in {P0}–{P0 + 9} and {productsLate.flower ?? 0}% in {(last ?? P0) - 4}–{last}; hashish {productsEarly.hashish ?? 0}% and {productsLate.hashish ?? 0}%. Few reports per year make the early shares jumpy.</p>
+    </figure>
   </section>
 
   <section id="calendar" aria-labelledby="calendar-title">
@@ -198,6 +236,22 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
         <ul class="share-key">{Object.keys(STATUS).map((s, i) => { const n = reports.filter((r) => r.status === s).length; return n > 0 && <li><i class={`share-${i}`}></i><b>{fmt(n)}</b> {s} <span class="muted">· {STATUS[s].toLowerCase()} ({pct(n, reports.length)})</span></li>; })}</ul>
       </div>
     </div>
+    <h3 class="mix-title">What comes together</h3>
+    <p class="muted">One event is often several things at once. Each row takes the reports of one main type and shows the share that also record each other type: {Math.round(arrestWithSeizure * 100)}% of seizures came with an arrest. Types with fewer than 20 reports are left out.</p>
+    <div class="table-wrap" data-chart>
+      <table class="table mix pairs">
+        <thead><tr><th scope="col">Main type</th><th scope="col" class="num">Reports</th>{mixTypes.map((t) => <th scope="col" class="num" title={TYPES[t].plural}><i class="dot" style={`--c:${TYPES[t].color}`}></i>{TYPES[t].label}</th>)}</tr></thead>
+        <tbody>{pairs.map((row) => <tr>
+          <th scope="row"><i class="dot" style={`--c:${TYPES[row.type].color}`}></i>{TYPES[row.type].plural}</th><td class="num">{fmt(row.total)}</td>
+          {mixTypes.map((t) => { const share = row.shares[t] ?? 0, n = row.counts[t] ?? 0; return t === row.type ? <td class="num pair-self" aria-label="same type">·</td> : (
+            <td class="num mix-cell" style={share ? `background:${pairShade(share)}` : undefined} tabindex={n ? 0 : undefined}
+              data-tip={n ? JSON.stringify({ t: `${TYPES[row.type].plural} that were also ${TYPES[t].plural.toLowerCase()}`, s: `${fmt(n)} of ${fmt(row.total)} reports`, rows: [] }) : undefined}>
+              {!n ? "–" : share < 0.01 ? "<1%" : `${Math.round(share * 100)}%`}
+            </td>
+          ); })}
+        </tr>)}</tbody>
+      </table>
+    </div>
   </section>
 
   <section id="sizes" aria-labelledby="sizes-title">
@@ -207,6 +261,11 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
       <BandChart title="Prison sentences" sub={`${fmt(prison.bands.reduce((n, b) => n + b.count, 0))} reports with a stated term${prison.median != null ? ` · median ${yearsText(prison.median)}` : ""}`} bands={prison.bands} apart={["Life", "Death sentence"]}
         note={`The longest single term a report states. Life and death sentences are shown apart (striped)${prison.unread ? `; ${fmt(prison.unread)} combined or unclear terms are left out` : ""}.`} />
       <BandChart title="Size of seizures" sub={`${fmt(seizures.total)} reports with a stated weight${seizures.median != null ? ` · median ${formatWeight(seizures.median, 3)}` : ""}`} bands={seizures.bands} note="Each band is ten times the one before it." />
+    </div>
+    <div class="chart-pair sizes-more">
+      <BandChart title="People arrested" sub={`${fmt(arrestSizes.total)} reports with a stated number${arrestSizes.median != null ? ` · median ${fmt(arrestSizes.median)}` : ""}`} bands={arrestSizes.bands}
+        note={`${Math.round(((arrestSizes.bands[0].count + arrestSizes.bands[1].count) / Math.max(1, arrestSizes.total)) * 100)}% of the reports that count arrests name one or two people; the big sweeps are rare but count thousands.`} />
+      <BandChart title="Plants destroyed" sub={`${fmt(plantSizes.total)} reports with a stated number${plantSizes.median != null ? ` · median ${fmt(plantSizes.median)}` : ""}`} bands={plantSizes.bands} note="Each band is ten times the one before it; eradication campaigns count plants by the hundred thousand." />
     </div>
   </section>
 
@@ -241,6 +300,25 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
     </div>
   </section>
 
+  <section id="law" aria-labelledby="law-title" data-chart>
+    <h2 id="law-title">The law where it happened</h2>
+    <p class="muted">The reports by how free cannabis is today where they happened, in the <a href="https://cannabisfreedom.fyi/">Cannabis Freedom Index</a>'s bands; a state without a score of its own takes its country's. Each bar splits the band's reports by main type. The tracker covers what is reported in the news and records it finds, not all enforcement, so the counts follow coverage as much as the law.</p>
+    <ol class="law-bands">
+      {lawBands.rows.map((row) => (
+        <li>
+          <span class="lb-name"><i class="dot" style={`--c:${row.tier.color}`}></i>{row.tier.name}</span>
+          <span class="lb-bar" style={`width:${Math.max(2, (row.total / lawMax) * 100)}%`}>
+            {mixTypes.filter((t) => row.counts[t]).map((t) => <i tabindex="0" style={`flex:${row.counts[t]};background:${TYPES[t].color}`} data-tip={JSON.stringify({ t: `${TYPES[t].plural}: ${row.tier.name.toLowerCase()}`, s: `${fmt(row.counts[t])} of ${fmt(row.total)} reports (${Math.round((row.counts[t] / row.total) * 100)}%)`, rows: [] })}></i>)}
+          </span>
+          <span class="lb-num">{fmt(row.total)}</span>
+          <span class="lb-meta">{fmt(row.countries)} {row.countries === 1 ? "country" : "countries"}{row.prison != null && <> · median prison term {yearsText(row.prison)}</>}{row.death > 0 && <> · {fmt(row.death)} death {row.death === 1 ? "sentence or execution" : "sentences or executions"}</>}</span>
+        </li>
+      ))}
+    </ol>
+    <ul class="stack-key">{mixTypes.map((t) => <li><a href={reportsWith({ type: t })}><i style={`background:${TYPES[t].color}`}></i>{TYPES[t].plural}</a></li>)}</ul>
+    {lawBands.unscored > 0 && <p class="chart-note">{fmt(lawBands.unscored)} reports from places the index does not score are left out. Bands are today's; a report from 2005 is placed by the law of {thisYear}.</p>}
+  </section>
+
   <section id="details" aria-labelledby="details-title">
     <h2 id="details-title">What the reports record</h2>
     <p class="muted">{fmt(recorded_)} of {fmt(reports.length)} reports record structured details, each with the source that states it. Counts are reports, not events of equal size.</p>
@@ -255,7 +333,7 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
       {detailLists.map((l) => (
         <div>
           <h3>{l.title}</h3>
-          <ol class="hbars compact">{l.rows.slice(0, 8).map((row) => <li><a class="hb-label" href={reportsWith({ [l.filter]: row.id })}>{row.label}</a><span class="hb-track"><i style={`width:${(row.count / l.rows[0].count) * 100}%`}></i></span><span class="hb-num">{fmt(row.count)}</span></li>)}</ol>
+          <ol class="hbars compact">{l.rows.slice(0, 8).map((row) => <li>{l.filter ? <a class="hb-label" href={reportsWith({ [l.filter]: row.id })}>{row.label}</a> : <span class="hb-label">{row.label}</span>}<span class="hb-track"><i style={`width:${(row.count / l.rows[0].count) * 100}%`}></i></span><span class="hb-num">{fmt(row.count)}</span></li>)}</ol>
         </div>
       ))}
     </div>
@@ -589,6 +667,30 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
   .band-axis span { text-align: center; }
   .chart-note { margin: 10px 0 0; font-size: 12.5px; color: var(--muted); }
   .added-chart { margin-top: 20px; }
+  /* stacked shares: one column per year, its parts from the bottom up */
+  .stack-chart { margin-top: 20px; }
+  .stack-chart .cols { gap: 3px; }
+  .stack-chart .stack { display: flex; flex-direction: column; width: 100%; height: 100%; border-radius: 3px 3px 0 0; overflow: hidden; transition: opacity .15s; }
+  .stack-chart .stack i { display: block; width: 100%; border-radius: 0; min-height: 0; }
+  .stack-chart .stack i + i { box-shadow: inset 0 -1px 0 var(--surface); }
+  .stack-chart .col:hover .stack, .stack-chart .col:focus-visible .stack { opacity: .8; }
+  .stack-key { display: flex; flex-wrap: wrap; gap: 4px 16px; list-style: none; margin: 12px 0 0; padding: 0; font-size: 12.5px; }
+  .stack-key a { color: var(--text-2); text-decoration: none; }
+  .stack-key a:hover { color: var(--text); text-decoration: underline; }
+  .stack-key i { display: inline-block; width: 9px; height: 9px; margin-right: 6px; border-radius: 2px; }
+  .sizes-more { margin-top: 20px; }
+  /* the law bands: a bar per band, as long as its reports, split by type */
+  .law-bands { list-style: none; margin: 16px 0 0; padding: 16px 18px 8px; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; }
+  .law-bands li { display: grid; grid-template-columns: 10.5rem minmax(0, 1fr) 4rem; grid-template-areas: "name bar num" ". meta meta"; align-items: center; gap: 2px 12px; padding: 6px 0; font-size: 13.5px; }
+  @media (max-width: 600px) { .law-bands li { grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "name num" "bar bar" "meta meta"; } }
+  .lb-name { grid-area: name; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .lb-bar { grid-area: bar; display: flex; height: 14px; border-radius: 3px; overflow: hidden; }
+  .lb-bar i { display: block; height: 100%; min-width: 1px; }
+  .lb-bar i + i { box-shadow: inset 1px 0 0 var(--surface); }
+  .lb-bar i:hover, .lb-bar i:focus-visible { opacity: .75; outline: none; }
+  .lb-num { grid-area: num; text-align: right; font: 12.5px var(--mono); font-variant-numeric: tabular-nums; color: var(--text-2); }
+  .lb-meta { grid-area: meta; font-size: 12px; color: var(--muted); }
+  .pairs .pair-self { color: var(--muted); }
   .added-chart .cols { gap: 1px; height: 120px; }
 
 </style>
