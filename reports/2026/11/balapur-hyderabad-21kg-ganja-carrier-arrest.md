@@ -61,6 +61,10 @@ sources:
   - title: 'Inter-state Drug Racket: Supplier Arrested, 21 kg Dry Ganja Seized'
     url: https://www.deccanchronicle.com/southern-states/telangana/inter-state-drug-racket-supplier-arrested-21-kg-dry-ganja-seized-2005203
     publisher: Deccan Chronicle
+  - title: 20 -year-old held for peddling 21 kg of ganja in Hyderabad
+    url: https://www.siasat.com/20-year-old-held-for-peddling-21-kg-of-ganja-in-hyderabad-3579501/
+    publisher: The Siasat Daily
+    date: 2026-11-17
 open_questions:
     - Whether the 21 kg was laboratory-confirmed as cannabis was not reported.
     - The Rs 10.50 lakh figure is the police valuation, not an independently verified market price.
@@ -72,21 +76,26 @@ media:
     media_url: https://hyderabadmail.com/wp-content/uploads/2026/11/Hyderabad-police-arrest-man-with-21-kg-ganja-from-Odisha.jpg
     publisher: Hyderabad Mail
     caption: Photo published with the Hyderabad Mail report on the arrest of a man with 21 kg of ganja from Odisha.
+  - kind: photo
+    url: https://www.siasat.com/20-year-old-held-for-peddling-21-kg-of-ganja-in-hyderabad-3579501/
+    media_url: https://cdn.siasat.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-17T155232.723.jpg
+    publisher: The Siasat Daily
+    caption: 'The Commissioner''s Task Force with the accused Ahmed Emad Mohamed. Photo: The Siasat Daily'
 ---
 
 Charminar Task Force and Balapur police jointly exposed an interstate gang
-smuggling ganja from Odisha into Hyderabad. [@1,2,4] The operation seized 21 kg of
-dry ganja valued at Rs 10.50 lakh and arrested the courier transporting it. [@1,2,3,4] The arrested man was identified as Ahmed Emad Mohamed alias Ahmed. [@2,3,4] Police arrested him at his residence in Abu Bakar Colony, Balapur. [@2] He was 20 years old. [@2,3] Police seized the 21 kg consignment, worth an estimated Rs 10.5 lakh, on November 16. [@2]
+smuggling ganja from Odisha into Hyderabad. [@1,2,4,5] The operation seized 21 kg of
+dry ganja valued at Rs 10.50 lakh and arrested the courier transporting it. [@1,2,3,4] The arrested man was identified as Ahmed Emad Mohamed alias Ahmed. [@2,3,4,5] Police arrested him at his residence in Abu Bakar Colony, Balapur. [@2,5] He was 20 years old. [@2,3] Police seized the 21 kg consignment, worth an estimated Rs 10.5 lakh, on November 16. [@2]
 The arrested accused had been posing as an ordinary worker in a pan shop in
 Shaheen Nagar before entering the trade to make quick money. [@1] Ahmed worked at Aina Pan Shop in Shaheen Nagar. [@2,3,4]
 
 On the orders of main accused Ibrahim, he travelled to Berhampur in Odisha and
-bought the 21 kg from a man named Samuel. [@1,2,3] He hid the consignment in a
+bought the 21 kg from a man named Samuel. [@1,2,3,5] He hid the consignment in a
 trolley and luggage bags while posing as an ordinary traveller and planned to
 sell it in Hyderabad at higher prices. [@1] He kept the consignment at his house for further sale to consumers among his contacts, police said. [@3] Officers raided the accused house
 and seized the ganja along with the trolley, luggage bags and one mobile phone
 used for transport. [@1,2]
 
 Ringleader Ibrahim and Odisha-based supplier Samuel are absconding and police
-have intensified searches for them. [@1,2,3,4] Ibrahim was identified as Ibrahim Bin Saleem Baamar alias Ibrahim Baamar, a suspected ganja peddler from Bawazeer Colony, Ambedkar Nagar, Kothapet. [@2] Police registered a case against the
+have intensified searches for them. [@1,2,3,4,5] Ibrahim was identified as Ibrahim Bin Saleem Baamar alias Ibrahim Baamar, a suspected ganja peddler from Bawazeer Colony, Ambedkar Nagar, Kothapet. [@2] Police registered a case against the
 accused under the NDPS Act. [@1,2,3] Police booked the case under Section 8(c) read with Section 20(b)(ii)(C) of the NDPS Act and produced Ahmed before the court for judicial remand. [@4]
