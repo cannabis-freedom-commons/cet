@@ -81,23 +81,32 @@ sources:
     publisher: 24ur.com
     date: 2026-11-17
     language: sl
+  - title: 'FOTO: Pri 49-letniku odkrili prirejen prostor za gojenje konoplje in zasegli 397 sadik'
+    url: https://www.lokalec.si/foto-pri-49-letniku-odkrili-prirejen-prostor-za-gojenje-konoplje-in-zasegli-397-sadik/
+    publisher: Lokalec.si
+    date: 2026-11-17
+    language: sl
+  - title: 'FOTO: Pri 49-letniku iz okolice Šentjerneja odkrili prostor za gojenje konoplje, zasegli skoraj 400 sadik'
+    url: https://dolenjskainfo.com/novica/kronika/foto-pri-49-letniku-iz-okolice-sentjerneja-odkrili-prostor-za-gojenje-konoplje-zasegli-skoraj-400-sadik/458597
+    publisher: Dolenjska.info
+    language: sl
 open_questions:
     - No date is given for the house search itself; 17 November 2026 is the article's publication date and is used as the incident date.
     - No weight for the dried marijuana, area for the growing room or value for the seized material was published.
     - No arrest or detention of the suspect was reported; the case remained at the investigation stage with a complaint to be filed.
     - No formal charge, plea or court outcome was reported.
-    - Večer and Dnevnik both reproduce the Novo Mesto police administration's statement, so there is no independent account of the search.
+    - All located accounts reproduce the Novo Mesto police administration's statement, and no independent report was found.
 ---
 
 Novo Mesto criminalists carried out a house search at the home of a 49-year-old
-suspect from Šentjernej under a court order. [@1,2,3] The 49-year-old suspect had
+suspect from Šentjernej under a court order. [@1,2,3,6,7] The 49-year-old suspect had
 grown 397 cannabis plants in a laboratory. [@1,4]
 
 During the search officers found a room adapted for growing illegal drugs, along
-with aids and equipment for cultivating marijuana. [@1,2,5] Police said the equipment seized alongside the plants allowed controlled growing conditions, from lighting to ventilation and irrigation. [@3] Inside they found and
-seized 397 cannabis plants, dried pieces of marijuana and growing aids. [@1,2,3]
+with aids and equipment for cultivating marijuana. [@1,2,5,6] Police said the equipment seized alongside the plants allowed controlled growing conditions, from lighting to ventilation and irrigation. [@3] Inside they found and
+seized 397 cannabis plants, dried pieces of marijuana and growing aids. [@1,2,3,6]
 
 The Novo Mesto police administration said criminalists were continuing the
 investigation into the suspected unauthorised production of and trafficking in
-prohibited drugs. [@1,2,3] They said a criminal complaint against the 49-year-old
-suspect would be filed with the competent state prosecutor. [@1,2,3]
+prohibited drugs. [@1,2,3,6] They said a criminal complaint against the 49-year-old
+suspect would be filed with the competent state prosecutor. [@1,2,3,6,7]
