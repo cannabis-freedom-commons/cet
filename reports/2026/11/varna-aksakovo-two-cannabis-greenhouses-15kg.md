@@ -43,6 +43,16 @@ media:
     media_url: https://infomreja.bg/wp-content/uploads/2026/11/viber_izobrazhenie_2026-11-17_12-01-38-498-696x522.jpg
     publisher: Инфомрежа
     caption: 'Image published with the Varna police account of the two cannabis greenhouse busts. Photo: Varna regional police (ОДМВР-Варна).'
+  - kind: photo
+    url: https://varnenskoutro.bg/razbiha-dve-narkooranzherii-vav-varna-izzeha-16-kg-droga/
+    media_url: https://varnenskoutro.bg/wp-content/uploads/2026/11/kanabis-zaglavna.jpg
+    publisher: Варненско Утро
+    caption: 'Photo published with the Varna police account of the two cannabis greenhouse busts. Photo: Varna regional police (ОДМВР-Варна).'
+  - kind: photo
+    url: https://varnenskoutro.bg/razbiha-dve-narkooranzherii-vav-varna-izzeha-16-kg-droga/
+    media_url: https://varnenskoutro.bg/wp-content/uploads/2026/11/kanabis-v-teksta.jpg
+    publisher: Варненско Утро
+    caption: 'Second photo published with the Varna police account of the two cannabis greenhouse busts. Photo: Varna regional police (ОДМВР-Варна).'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 1bb37f2ce8e4697c3f0865cdf0ccd151
@@ -68,37 +78,34 @@ sources:
     publisher: Chernomore.bg
     date: 2026-11-17
     language: bg
-open_questions:
-  - The first operation is placed on 16 November by the phrase 'yesterday' in a report published on 17 November; the second is dated only as the end of the previous week, and 16 November is used as the incident date.
-  - No count was published for the cannabis plants found at either site, and no weight was given for the dried marijuana at the Aksakovo hall.
-  - The 15 kilograms was described as about or nearly 15 kilograms of dried plant material that reacted as marijuana; no laboratory confirmation was reported.
-  - The village in Aksakovo municipality where the second hall stood was not named.
-  - No formal charges, trial date or final outcome beyond the 33-year-old's remand detention were reported.
-  - The cocaine, methamphetamine and 6-monoacetylmorphine belong to other substances and are not counted in the cannabis figures.
+  - title: Разбиха две наркооранжерии във Варна, иззеха 16 кг. дрога
+    url: https://varnenskoutro.bg/razbiha-dve-narkooranzherii-vav-varna-izzeha-16-kg-droga/
+    publisher: Варненско Утро
+    date: 2026-11-17
+    language: bg
 ---
 
 Police in Varna detained two men after finding two high-tech cannabis
-greenhouses in the city and in Aksakovo municipality. [@1] The two detained men
+greenhouses in the city and in Aksakovo municipality. [@1,5] The two detained men
 were aged 34 and 33. [@3] The 34-year-old was caught around 17:00 while tending
 cannabis plants in the first greenhouse. [@1] The 33-year-old, known to police,
 was found tending cannabis plants in a hall in the industrial zone of a village
 in Aksakovo municipality. [@1] That second operation took place at the end of
 the previous week during a drive against drug production and distribution. [@1]
 Two Varna men were detained in the operations and large quantities of marijuana
-and solid drugs were seized. [@4] Pre-trial proceedings were opened in both
-cases. [@2]
+and solid drugs were seized. [@4,5] Pre-trial proceedings were opened in both
+cases. [@2,5]
 
 In the Varna greenhouse, officers found cannabis plants at various growth stages
-and nearly 15 kilograms of dried plant material that reacted as marijuana. [@1]
-Cocaine and methamphetamine were also seized there. [@1] At the Aksakovo hall,
+and nearly 15 kilograms of dried plant material that reacted as marijuana. [@1,5]
+Cocaine and methamphetamine were also seized there. [@1,5] At the Aksakovo hall,
 police also seized about half a kilogram of methamphetamine and roughly half a
 kilogram of 6-monoacetylmorphine, an electronic scale and many empty bags for
-portioning drugs. [@1]
+portioning drugs. [@1,5]
 
 The first crop was grown in specially equipped hydroponic tents, with a separate
-area used for drying and processing the produce. [@1] The Aksakovo hall was
-fitted with climate and irrigation systems and had a separate drying room. [@1]
+area used for drying and processing the produce. [@1,5] The Aksakovo hall was
+fitted with climate and irrigation systems and had a separate drying room. [@1,5]
 Materials from the first case were reported to the district prosecutor's office.
 [@1] The 33-year-old was ordered held on remand, the strictest measure
 available. [@1]
-
