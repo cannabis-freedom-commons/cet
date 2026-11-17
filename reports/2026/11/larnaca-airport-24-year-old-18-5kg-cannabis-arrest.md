@@ -87,6 +87,10 @@ sources:
     url: https://en.philenews.com/local/larnaca-airport-cannabis-thailand-seizures/
     publisher: Philenews
     date: 2026-11-17
+  - title: About 18.5kg of cannabis seized at Larnaca airport, 24-year-old arrested
+    url: https://www.kiprinform.com/en/news/about-18-5kg-of-cannabis-seized-at-larnaca-airport-24-year-old-arrested/
+    publisher: Cyprus Inform
+    date: 2026-11-17
 open_questions:
     - No charge or court outcome has been reported; a remand hearing at Larnaca District Court was expected on 17 November 2026.
     - No value estimate for the seized cannabis was published.
@@ -98,14 +102,14 @@ A 24-year-old man was arrested at Larnaca airport on Monday morning after about
 non-EU country. [@1,5,6] The Cyprus Mail described the 24-year-old as a British
 national. [@2] It reported that he had arrived at Larnaca from Bangkok by way of
 Doha. [@2] He was arrested on the spot for illegal import, illegal possession
-and possession of drugs with intent to supply. [@1,4,5] He was expected to appear before Larnaca District Court on Tuesday for a remand order. [@6]
+and possession of drugs with intent to supply. [@1,4,5,7] He was expected to appear before Larnaca District Court on Tuesday for a remand order. [@6]
 
 Acting on information evaluated by the Directorate for Combating Organised Crime
 (DAOE) and the Anti-Drugs Unit (YKAN), a customs officer stopped the man for a
-check at the request of a YKAN officer. [@1,4,5] A search of his travel bag found 34
+check at the request of a YKAN officer. [@1,4,5,7] A search of his travel bag found 34
 plastic packages containing cannabis with a total weight of about 18.5
-kilograms. [@1,4,5,6] Members of DAOE-YKAN, in cooperation with the customs
+kilograms. [@1,4,5,6,7] Members of DAOE-YKAN, in cooperation with the customs
 authorities, found and seized approximately 18.5 kilos of cannabis at Larnaca
-airport on 16 November 2026. [@3,4] The same account said the offences were
+airport on 16 November 2026. [@3,4,7] The same account said the offences were
 treated as committed in flagrante delicto. [@3] DAOE and YKAN are continuing
-their investigation in cooperation with the customs authorities. [@1,4]
+their investigation in cooperation with the customs authorities. [@1,4,7]
