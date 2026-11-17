@@ -63,25 +63,26 @@ sources:
     url: https://www.thesouthasiantimesbd.com/nationwide/news/27531
     publisher: The South Asian Times
     date: 2026-11-14
-open_questions:
-    - The 50-taka fine is the amount imposed on each of the three, not a combined total.
-    - The prison term is recorded as a 7-day to 3-month range because the three sentences differed.
-    - No laboratory confirmation or later court outcome beyond the mobile-court sentences was reported.
+  - title: বগুড়ায় ২৫ গ্রাম গাঁজাসহ ৩ জন গ্রেফতার, ভ্রাম্যমাণ আদালতে সর্বোচ্চ ৩ মাসের কারাদণ্ড
+    url: https://durnititalashnewstv.com/archives/4316
+    publisher: Durniti Talash News Tv
+    date: 2026-11-14
+    language: bn
 ---
 
 The Department of Narcotics Control arrested three people with 25 grams of ganja
-during an anti-drug drive in Bogura. [@1,2] The drive ran from 3:00 pm to 3:40 pm
+during an anti-drug drive in Bogura. [@1,2,3] The drive ran from 3:00 pm to 3:40 pm
 on Saturday 14 November in front of the Baytur Rahman Central Mosque and in the
 Chaksutrapur Chamragudam area of Bogura Sadar Upazila. [@1] An operational team
 of DNC Bogura's Ka circle conducted the drive, led by Assistant Commissioner and
 Executive Magistrate Md Obaidur Rahman of the Bogura district administration.
-[@1,2]
+[@1,2,3]
 
 Those arrested were Kiron Harijan (30) of Kalitala Cotton Mill Harijan Colony in
 Bogura Sadar, Md Rimon Islam (21) of Durgahata in Gabtali Upazila, and Md Shamim
-Sheikh (30) of Badurtala in Bogura Sadar. [@1,2] A mobile court then gave Kiron
+Sheikh (30) of Badurtala in Bogura Sadar. [@1,2,3] A mobile court then gave Kiron
 Harijan seven days of simple imprisonment and a 50-taka fine, Rimon Islam 15
-days and a 50-taka fine, and Shamim Sheikh three months and a 50-taka fine. [@1,2]
+days and a 50-taka fine, and Shamim Sheikh three months and a 50-taka fine. [@1,2,3]
 
 The recovered 25 grams of ganja was destroyed on the spot on the executive
 magistrate's order, according to DNC sources. [@1] The Department of Narcotics
