@@ -56,31 +56,35 @@ sources:
     url: https://armenpress.am/en/article/1250460
     publisher: Armenpress
     date: 2026-05-18
+  - title: КГД Армении предотвратил транзит крупной партии наркотиков из Ирана в Грузию через территорию РА
+    url: https://armenpress.am/ru/article/1250460
+    publisher: Armenpress
+    date: 2026-05-18
+    language: ru
 open_questions:
-  - The article gives no separate date for the stop and search, so 18 May 2026, the publication date, is used as the incident date.
-  - The quantity is described as almost 30 kilograms in the lead and about 28 kilograms in the search description, so 28 kg is recorded.
-  - No name or age of the detained driver was published beyond Iranian citizenship.
-  - No charges, custody decision or court outcome beyond the opened criminal case were reported.
-  - Only one accessible source for this event was found after search attempts.
+    - The article gives no separate date for the stop and search, so 18 May 2026, the publication date, is used as the incident date.
+    - The quantity is described as almost 30 kilograms in the lead and about 28 kilograms in the search description, so 28 kg is recorded.
+    - No name or age of the detained driver was published beyond Iranian citizenship.
+    - No charges, custody decision or court outcome beyond the opened criminal case were reported.
 ---
 
-Officers detained the truck driver, an Iranian citizen. [@1,2] The detained driver
-was taken to the investigative department of Syunik Province. [@1,2] Authorities
+Officers detained the truck driver, an Iranian citizen. [@1,2,3] The detained driver
+was taken to the investigative department of Syunik Province. [@1,2,3] Authorities
 opened a criminal case and are investigating all the circumstances of the case
-as well as possible accomplices and organisers. [@1,2]
+as well as possible accomplices and organisers. [@1,2,3]
 
 Officers seized almost 30 kilograms of hashish from a truck travelling in
 transit toward Georgia. [@1,2] The detailed search found 111 packages containing
-about 28 kilograms of hashish. [@1,2] The packages were hidden in specially
-equipped concealed compartments in the trailer. [@1,2] The truck was officially
+about 28 kilograms of hashish. [@1,2,3] The packages were hidden in specially
+equipped concealed compartments in the trailer. [@1,2,3] The truck was officially
 declared to be carrying construction slabs, with Georgia listed as its final
-destination. [@1]
+destination. [@1,3]
 
 Officers had stopped the truck at the Agarak border checkpoint as it entered
-Armenia. [@1,2] An initial X-ray examination during standard customs procedures
-had revealed no violation. [@1,2] A subsequent check using K9 assets indicated
-possible drugs inside the trailer. [@1,2] The truck was then sent for a more
+Armenia. [@1,2,3] An initial X-ray examination during standard customs procedures
+had revealed no violation. [@1,2,3] A subsequent check using K9 assets indicated
+possible drugs inside the trailer. [@1,2,3] The truck was then sent for a more
 detailed customs examination, where officers dismantled the trailer and found
-the concealment. [@1,2]
+the concealment. [@1,2,3]
 
-The driver was identified only by the initials J. Sh. [@2] The truck was transiting through Armenia from the Islamic Republic, bound for Georgia. [@2] The State Revenue Committee announced the seizure in a press release. [@2]
+The driver was identified only by the initials J. Sh. [@2] The truck was transiting through Armenia from the Islamic Republic, bound for Georgia. [@2,3] The State Revenue Committee announced the seizure in a press release. [@2,3]
