@@ -77,35 +77,32 @@ sources:
     publisher: Memorandum.co.id
     date: 2026-11-13
     language: id
-open_questions:
-    - No weight was given for the three packets of ganja, so no cannabis kilogram figure can be recorded.
-    - No charge, court date or sentence has been reported for the five suspects.
-    - The 4,000 pills seized have not been identified and are not counted as cannabis evidence.
-    - Whether the ganja was destined for local sale in Malang or for onward distribution was not stated.
-    - Disway Malang's per-location breakdown and Tugu Malang's total both give 1,083 tramadol tablets, while MalangTIMES and RRI reported 883; the report keeps 883.
-    - Police described the 400 tramadol tablets found on YDP as belonging to RH only on preliminary examination, without saying whether ownership was confirmed.
-    - The 883-tramadol figure in this article conflicts with the 1,083 figure reported by other outlets; the report keeps 883.
+  - title: Lima Orang Diamankan Satresnarkoba Polres Malang, Sabu, Ganja dan Ribuan Pil Disita
+    url: https://informasi-realita.net/2026/11/17/lima-orang-diamankan-satresnarkoba-polres-malang-sabu-ganja-dan-ribuan-pil-disita/
+    publisher: Informasi-Realita.net
+    date: 2026-11-17
+    language: id
 ---
 
 Satresnarkoba Polres Malang, the regency drug squad, arrested five people
 suspected of distributing narcotics and unlicensed medicines during operations
-at four locations in Malang Raya on 9 November 2026. [@1,2,5,6,7] Police said the
+at four locations in Malang Raya on 9 November 2026. [@1,2,5,6,7,8] Police said the
 seizures from one suspect included 16 packets of methamphetamine and three
 packets of ganja, along with 759 LL pills, 474 alprazolam tablets and 480
-tramadol tablets. [@1,3,5,6,7] Kasatresnarkoba Polres Malang AKP Agus Yulianto listed
+tramadol tablets. [@1,3,5,6,7,8] Kasatresnarkoba Polres Malang AKP Agus Yulianto listed
 totals of 759 LL pills, 587 alprazolam tablets, 883 tramadol tablets and 4,000
 pills whose contents are still being identified. [@1,4,6,7]
 
 The first suspect, known only as HR, 24, was arrested at his house in Desa
 Parangargo, Wagir district, Malang regency, after a tip-off about suspected
-unlicensed medicine dealing. [@1,2,5,6] Police found tramadol pills at HR's house when they arrested him. [@6] Officers then detained two more suspects, RH,
-24, and FF, 31, outside a minimarket in Sukun district, Malang city. [@1,2,5,6] The minimarket where RH and FF were arrested is on Jalan Slamet Supriadi. [@5] A
+unlicensed medicine dealing. [@1,2,5,6,8] Police found tramadol pills at HR's house when they arrested him. [@6] Officers then detained two more suspects, RH,
+24, and FF, 31, outside a minimarket in Sukun district, Malang city. [@1,2,5,6,8] The minimarket where RH and FF were arrested is on Jalan Slamet Supriadi. [@5] A
 20-year-old, AP, was arrested in a boarding-house room in Gadang, Sukun
-district, that belonged to RH. [@1,2,5,6] A fifth suspect, YDP, 24, was arrested at a
-kiosk on Jalan S. Supriadi, also in Sukun district. [@1,2,5,6] Police said the 400 tramadol tablets found on YDP were initially described as belonging to RH. [@6]
+district, that belonged to RH. [@1,2,5,6,8] A fifth suspect, YDP, 24, was arrested at a
+kiosk on Jalan S. Supriadi, also in Sukun district. [@1,2,5,6,8] Police said the 400 tramadol tablets found on YDP were initially described as belonging to RH. [@6,8]
 
 Police also seized digital scales, a methamphetamine pipe, a glass pipette, two
-scoopers made from straws, clip plastic and mobile phones. [@1,5,6] All five
+scoopers made from straws, clip plastic and mobile phones. [@1,5,6,8] All five
 suspects and the evidence were taken to Mapolres Malang for further examination.
-[@1,3,5,6] Investigators said they were still tracing the source of the seized goods
+[@1,3,5,6,8] Investigators said they were still tracing the source of the seized goods
 and the possible involvement of others. [@1,2,5,6]
