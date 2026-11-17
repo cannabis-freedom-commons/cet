@@ -53,25 +53,30 @@ sources:
     publisher: BSAktuell
     date: 2026-11-16
     language: de
+  - title: Drogen bei spirituellen Wanderungen – Therapeut aus Bad Tölz-Wolfratshausen in Haft
+    url: https://www.nachrichten-heute.net/1788230-drogen-bei-spirituellen-wanderungen-therapeut-aus-bad-toelz-wolfratshausen-in-haft.html
+    publisher: nachrichten-heute.net
+    date: 2026-11-16
+    language: de
 ---
 
 Specialist Unit 4 of the Weilheim criminal police is investigating a 61-year-old
 therapist from the Bad Tölz-Wolfratshausen district, under the direction of the
 Munich II prosecution, on suspicion of passing narcotics to participants in
-so-called spiritual hikes. [@1,3] The therapist allegedly offered so-called
-spiritual hikes and gave narcotics, especially MDMA, to selected people. [@1,3,4]
+so-called spiritual hikes. [@1,3,5] The therapist allegedly offered so-called
+spiritual hikes and gave narcotics, especially MDMA, to selected people. [@1,3,4,5]
 
 In the middle of last week officers executed a judicial search order for the
-therapist's residence and practice. [@1,3,4] At the 61-year-old's residence officers
+therapist's residence and practice. [@1,3,4,5] At the 61-year-old's residence officers
 found substantial quantities of various narcotics, mainly MDMA but also cocaine,
 ketamine, LSD, ecstasy, marijuana, psilocybin mushrooms and other psychoactive
-substances, which were confiscated and secured. [@1,3,4] Investigators also seized
-storage media such as mobile phones and laptops as well as patient files. [@1]
+substances, which were confiscated and secured. [@1,3,4,5] Investigators also seized
+storage media such as mobile phones and laptops as well as patient files. [@1,5]
 
 The Munich II prosecution applied for detention against the 61-year-old German
 national, and when he was brought before a judge on Friday 13 November 2026 the
 investigating judge issued a pretrial detention order and he was taken directly
-to a prison, while the investigation continues. [@1,3,4] Police did not say exactly
+to a prison, while the investigation continues. [@1,3,4,5] Police did not say exactly
 where the practice and residence are, citing the suspect's privacy rights. [@2]
 How many people may have been affected still has to be established by the
 investigation, according to a police spokesman. [@2]
