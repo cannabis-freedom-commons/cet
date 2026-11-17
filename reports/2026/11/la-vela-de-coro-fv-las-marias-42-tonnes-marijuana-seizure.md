@@ -61,6 +61,11 @@ sources:
     publisher: EL NACIONAL
     date: 2026-11-16
     language: es
+  - title: 'Marihuana incautada: cuatro detenidos cerca de Venezuela | HCH'
+    url: https://hch.tv/marihuana-incautada-operativo-cerca-venezuela/
+    publisher: HCH
+    date: 2026-11-16
+    language: es
 open_questions:
     - No separate date for the interception was given; 16 November 2026 is the publication date and is used as the incident date.
     - The reported 800 kilograms that could not be recovered are not counted in the seized-quantity figure, and their fate was not explained beyond safety concerns.
@@ -80,12 +85,12 @@ in Falcon state carrying more than four tonnes of marijuana with four people on
 board, as reported by the United States Joint Interagency Task Force South. [@1,2,3,4,5]
 The target was the fishing vessel F/V Las Marias, spotted by a Netherlands
 maritime patrol aircraft while sailing in Caribbean waters off the Venezuelan
-coast. [@1,2,3,4,5] After the sighting, an interceptor unit of the Royal Netherlands
-Navy took control of the vessel and detained the four people on board. [@1,2,3,4,5]
+coast. [@1,2,3,4,5,6] After the sighting, an interceptor unit of the Royal Netherlands
+Navy took control of the vessel and detained the four people on board. [@1,2,3,4,5,6]
 
 Authorities seized 9,261 pounds of marijuana, about 4.2 tonnes, during the
-operation. [@1,2,4,5] Another 1,764 pounds, about 800 kilograms, could not be
-recovered because of safety concerns during the intervention. [@1,2,3,4,5] The total
+operation. [@1,2,4,5,6] Another 1,764 pounds, about 800 kilograms, could not be
+recovered because of safety concerns during the intervention. [@1,2,3,4,5,6] The total
 reported load was about five tonnes of marijuana, counting both the seized drugs
 and the drugs that could not be recovered. [@1,5]
 
