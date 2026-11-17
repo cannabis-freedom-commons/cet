@@ -63,14 +63,20 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-17
     language: hi
+  - title: Gorakhpur Police Destroy Seized Cannabis | Operation Dahan | Latest News
+    url: https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-police-destroy-seized-cannabis-operation-dahan-139715613.html
+    publisher: Bhaskar English
+    date: 2026-11-17
+    language: en
 open_questions:
-  - No breakdown of the 76.460 kg across the 11 cases or the 7 police stations was published.
-  - The Rs 38.23 lakh value is the police's own estimate; no independent valuation was reported.
-  - The report names no arrests, charges or court outcomes in the 11 underlying cases.
-  - The article gives no time of day for the burning; it dates the action only to Tuesday, the day of publication.
+    - No breakdown of the 76.460 kg across the 11 cases or the 7 police stations was published.
+    - The Rs 38.23 lakh value is the police's own estimate; no independent valuation was reported.
+    - The report names no arrests, charges or court outcomes in the 11 underlying cases.
+    - The article gives no time of day for the burning; it dates the action only to Tuesday, the day of publication.
+    - The English-language account names one station AIIMS while the report renders it Ams; both appear to refer to the same Gorakhpur station.
 ---
 
 Gorakhpur police on Tuesday, 17 November 2026 destroyed illegal ganja they
-valued at Rs 38.23 lakh under 'Operation Dahan'. [@1,2,3] After a court order,
+valued at Rs 38.23 lakh under 'Operation Dahan'. [@1,2,3,4] After a court order,
 76.460 kg of ganja linked to 11 cases registered at 7 different police stations
-of the district was burned to ash in a high-capacity incinerator. [@1,2,3] The seven stations were Khajni, Ams, Belipar, Sahjanwa, Khorabar, Gola and Gorakhnath. [@2,3] The ganja was burned using a high-capacity incinerator run by AV Bio Medical Waste Services in Gida. [@2,3] The whole disposal process was carried out transparently in the presence and under the supervision of the committee formed for drug disposal. [@3]
+of the district was burned to ash in a high-capacity incinerator. [@1,2,3,4] The ganja had been stored for a long time in the malkhanas of the seven police stations before the court authorised its destruction. [@4] The seven stations were Khajni, Ams, Belipar, Sahjanwa, Khorabar, Gola and Gorakhnath. [@2,3,4] The ganja was burned using a high-capacity incinerator run by AV Bio Medical Waste Services in Gida. [@2,3] The incinerator plant was in Sector 15A of GIDA, and safety rules were observed so that toxic smoke did not spread outside. [@4] The whole disposal process was carried out transparently in the presence and under the supervision of the committee formed for drug disposal. [@3] SP Crime, CO Traffic, the officer in charge of the Narcotics Cell and specialist police personnel from all seven stations were present. [@4]
