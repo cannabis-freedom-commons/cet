@@ -86,27 +86,33 @@ sources:
     publisher: Newszonebd
     date: 2026-11-17
     language: bn
+  - title: কুমিল্লায় ১০০ কেজি গাঁজাসহ আটক, দুইজনের ১০ বছর কারাদণ্ড
+    url: https://dailybanglapost.com/country/71665
+    publisher: Daily Bangla Post
+    date: 2026-11-16
+    language: bn
 open_questions:
     - The seized material was described as ganja; no laboratory confirmation was reported.
     - No detail was given on where the 100 kg was found or how it was carried at Paduar Bazar.
     - Whether the convicts appealed or how prior custody counts toward the terms was not reported.
     - It is unclear whether sub-inspector Shariful Islam or sub-inspector Ishaq Mia submitted the charge sheet on 26 May 2018.
+    - The new account says complainant Shariful Islam submitted the 26 May 2018 charge sheet, while the report attributes it to sub-inspector Ishaq Mia.
 ---
 
 On 16 November 2026 the Additional District and Sessions Judge in Comilla, Md
 Shamsul Alam, sentenced two men to 10 years of rigorous imprisonment each for a
-100 kg ganja seizure from eight years earlier. [@1,2,3,4,5] The verdict was given by the Fifth Additional District and Sessions Judge Court in Cumilla. [@4] Additional public prosecutor
+100 kg ganja seizure from eight years earlier. [@1,2,3,4,5,6] The verdict was given by the Fifth Additional District and Sessions Judge Court in Cumilla. [@4] Additional public prosecutor
 Mosammat Mahmuda Khanam Shilpi said the judge announced the verdict at noon on
-Monday in the presence of the accused. [@1,2] The convicts are 50-year-old Md Amir
+Monday in the presence of the accused. [@1,2,6] Shilpi called it a landmark verdict whose swift enforcement would set an example against drugs and play an important role in eliminating drugs. [@6] The convicts are 50-year-old Md Amir
 Hossain, son of Abdul Matin of Dhulipara Sardar Bari in Chauddagram Upazila, and
-26-year-old Md Harun of the same village, son of Ali Newaz. [@1,2,3,4,5] Alongside the
+26-year-old Md Harun of the same village, son of Ali Newaz. [@1,2,3,4,5,6] Alongside the
 prison terms, the court fined each man 10,000 taka, with three more months of
-simple imprisonment if the fine is not paid. [@1,2,3,4,5] Police took the two convicts
-to jail after the verdict was announced at the Comilla court. [@1]
+simple imprisonment if the fine is not paid. [@1,2,3,4,5,6] Police took the two convicts
+to jail after the verdict was announced at the Comilla court. [@1] Under the sentence warrants, the court ordered that the two be sent to Cumilla Central Jail. [@6]
 
 Detective Branch police had detained Amir Hossain and Harun with 100 kg of ganja
 during an operation at Paduar Bazar in Comilla Sadar South at about 4:30 pm on 2
-March 2018. [@1,2,3,4,5] District Detective Branch sub-inspector Md Shariful Islam then
+March 2018. [@1,2,3,4,5,6] District Detective Branch sub-inspector Md Shariful Islam then
 filed a case over the seizure under the Narcotics Control Act at Sadar South
 police station. [@1] The case was filed under the relevant sections of the 1990 Narcotics Control Act. [@2] After investigation, sub-inspector Ishaq Mia submitted a
 charge sheet against the two on 26 May 2018, and charges were framed against
