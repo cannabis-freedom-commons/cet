@@ -90,23 +90,22 @@ sources:
     url: https://dolenjskainfo.com/novica/kronika/foto-pri-49-letniku-iz-okolice-sentjerneja-odkrili-prostor-za-gojenje-konoplje-zasegli-skoraj-400-sadik/458597
     publisher: Dolenjska.info
     language: sl
-open_questions:
-    - No date is given for the house search itself; 17 November 2026 is the article's publication date and is used as the incident date.
-    - No weight for the dried marijuana, area for the growing room or value for the seized material was published.
-    - No arrest or detention of the suspect was reported; the case remained at the investigation stage with a complaint to be filed.
-    - No formal charge, plea or court outcome was reported.
-    - All located accounts reproduce the Novo Mesto police administration's statement, and no independent report was found.
+  - title: V Šentjerneju zasegli 397 sadik konoplje | Radio Krka – Dolenjska v srcu
+    url: https://radiokrka.svet24.si/clanek/kronika/v-sentjerneju-zasegli-397-sadik-konoplje-1941210
+    publisher: Radio Krka
+    date: 2026-11-17
+    language: sl
 ---
 
 Novo Mesto criminalists carried out a house search at the home of a 49-year-old
-suspect from Šentjernej under a court order. [@1,2,3,6,7] The 49-year-old suspect had
+suspect from Šentjernej under a court order. [@1,2,3,6,7,8] The 49-year-old suspect had
 grown 397 cannabis plants in a laboratory. [@1,4]
 
 During the search officers found a room adapted for growing illegal drugs, along
-with aids and equipment for cultivating marijuana. [@1,2,5,6] Police said the equipment seized alongside the plants allowed controlled growing conditions, from lighting to ventilation and irrigation. [@3] Inside they found and
-seized 397 cannabis plants, dried pieces of marijuana and growing aids. [@1,2,3,6]
+with aids and equipment for cultivating marijuana. [@1,2,5,6,8] Police said the equipment seized alongside the plants allowed controlled growing conditions, from lighting to ventilation and irrigation. [@3] Inside they found and
+seized 397 cannabis plants, dried pieces of marijuana and growing aids. [@1,2,3,6,8]
 
 The Novo Mesto police administration said criminalists were continuing the
 investigation into the suspected unauthorised production of and trafficking in
 prohibited drugs. [@1,2,3,6] They said a criminal complaint against the 49-year-old
-suspect would be filed with the competent state prosecutor. [@1,2,3,6,7]
+suspect would be filed with the competent state prosecutor. [@1,2,3,6,7,8]
