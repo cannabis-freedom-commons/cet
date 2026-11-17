@@ -47,6 +47,10 @@ sources:
     url: https://www.yahoo.com/news/politics/articles/bonta-announces-cannabis-busts-critics-221000857.html
     publisher: Yahoo News
     date: 2026-11-16
+  - title: Bonta announces cannabis busts, critics cite black market
+    url: https://sjvsun.com/california/bonta-announces-cannabis-busts-critics-cite-black-market/
+    publisher: The San Joaquin Valley Sun
+    date: 2026-11-16
 open_questions:
   - No exact plant total was published, only nearly one million, so no plants_destroyed figure is recorded.
   - No weight for processed cannabis or value estimate was published for the 2026 season.
@@ -61,13 +65,13 @@ open_questions:
 On November 16, 2026 Attorney General Rob Bonta announced that the Eradication
 and Prevention of Illicit Cannabis (EPIC) program eradicated nearly one million
 illegally cultivated cannabis plants and made 221 arrests across 22 California
-counties in 2026. [@2,4] The results came from the state's Eradication and
+counties in 2026. [@2,4,5] The results came from the state's Eradication and
 Prevention of Illicit Cannabis (EPIC) program, which brings together local,
 state and federal law enforcement agencies. [@1,4]
 
 EPIC teams operating in Northern, Central, and Southern California conducted 655
 operations, recovered 158 weapons, and removed infrastructure including dams,
-water lines, and containers of toxic chemicals. [@2,4] Officials reported
+water lines, and containers of toxic chemicals. [@2,4,5] Officials reported
 discovering several dangerous pesticides and chemicals at illegal grow sites,
 including carbofuran, methyl parathion, aluminum phosphate and zinc phosphide.
 [@1] Carbofuran, an insecticide effectively banned in the United States, can
@@ -82,7 +86,7 @@ individuals without saying how many people were rescued. [@1] The operations
 were conducted in Alameda, Butte, Fresno, Humboldt, Kern, Lake, Lassen, Los
 Angeles, Mariposa, Mendocino, Nevada, Riverside, Sacramento, San Benito, San
 Bernardino, San Joaquin, Shasta, Stanislaus, Tehama, Trinity, Tulare, and Yuba
-counties. [@2,4]
+counties. [@2,4,5]
 
 Its operations are primarily funded through the Drug Enforcement
 Administration’s Domestic Cannabis Eradication/Suppression Program. [@1,4] EPIC
