@@ -108,6 +108,11 @@ sources:
     publisher: Região Noroeste
     date: 2026-11-16
     language: pt
+  - title: Homem é preso em flagrante com quase uma tonelada de maconha no interior de SP
+    url: https://www.bnewssaopaulo.com.br/noticias/policia/homem-e-preso-em-flagrante-com-quase-uma-tonelada-de-maconha-no-interior-de-sp.html
+    publisher: BNews SP
+    date: 2026-11-16
+    language: pt
 open_questions:
     - 'No exact weight was published: one account says almost one tonne and the new account says about 995 kg in about 587 bricks and 22 bales, so 1,000 kg is stored as the supported approximate figure.'
     - The value is stated only as almost R$2 million, not an exact appraisal.
@@ -116,15 +121,15 @@ open_questions:
     - Both accounts reproduce the highway police account, so they are not fully independent reporting.
 ---
 
-Highway police arrested the truck driver in flagrante. [@1,2,3,4,6,7,8,9,10] The driver was 25 years old. [@3,6,7,8,9,10] Officers took the
+Highway police arrested the truck driver in flagrante. [@1,2,3,4,6,7,8,9,10,11] The driver was 25 years old. [@3,6,7,8,9,10,11] Officers took the
 driver to the Civil Police station in Itapetininga, where he was booked for drug
-trafficking. [@1,2,3,4,6,9,10] He remained in custody at the disposal of the courts pending a custody hearing. [@10] The driver said he received the loaded vehicle in Maringá and was offered payment to carry a load described as refrigerator and air-conditioning parts to a company in the Brás district of São Paulo. [@3,9]
+trafficking. [@1,2,3,4,6,9,10,11] He remained in custody at the disposal of the courts pending a custody hearing. [@10] The driver said he received the loaded vehicle in Maringá and was offered payment to carry a load described as refrigerator and air-conditioning parts to a company in the Brás district of São Paulo. [@3,9,11]
 
 Officers seized almost one tonne of marijuana from the truck on Saturday 14
-November on the Raposo Tavares highway (SP-270) in Itapetininga. [@1,2,3,4,5,7,10] Officers also seized the truck, a cell phone and R$395. [@3,6,8,9,10] Officers found about 587 bricks and 22 bales of marijuana in the cargo compartment. [@3,6,7,8,9,10] The
+November on the Raposo Tavares highway (SP-270) in Itapetininga. [@1,2,3,4,5,7,10,11] Officers also seized the truck, a cell phone and R$395. [@3,6,8,9,10,11] Officers found about 587 bricks and 22 bales of marijuana in the cargo compartment. [@3,6,7,8,9,10,11] The
 highway police valued the load at almost R$2 million. [@1,2,4]
 
 Officers of the Tático Ostensivo Rodoviário of the 5th Highway Police Battalion
-seized the load at kilometre 167 of the highway. [@1,2,3,4,5] During an inspection the
+seized the load at kilometre 167 of the highway. [@1,2,3,4,5,11] During an inspection the
 driver gave contradictory information, which prompted officers to search the
-cargo. [@1,3,4,7,8,9] The truck's identification plate was folded. [@3,8] The stopped truck bore Campo Grande (MS) plates. [@6,9] The tablets were hidden in the truck's cargo compartment. [@2,4,5]
+cargo. [@1,3,4,7,8,9,11] The truck's identification plate was folded. [@3,8,11] The stopped truck bore Campo Grande (MS) plates. [@6,9,11] The tablets were hidden in the truck's cargo compartment. [@2,4,5]
