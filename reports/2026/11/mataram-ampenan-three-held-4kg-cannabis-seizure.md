@@ -78,17 +78,22 @@ sources:
     publisher: Inside Lombok
     date: 2026-11-17
     language: id
+  - title: Kapolresta Mataram Pimpin Penggerebekan Ampenan, 3 Pria Beserta 4 Kg Lebih Ganja Diamankan | Wartawan Investigasi
+    url: https://warta.in/kapolresta-mataram-pimpin-penggerebekan-ampenan-3-pria-beserta-4-kg-lebih-ganja-diamankan/
+    publisher: Warta.in
+    date: 2026-11-17
+    language: id
 ---
 
 Drug repeat offender ASS, a 39-year-old man from Siantar in North Sumatra, had
 left prison three years earlier and had returned to selling cannabis. [@1]
 Officers arrested him in a guesthouse in the Baturaja neighbourhood of South
-Ampenan, Mataram city, on the night of Monday 16 November 2026. [@1,2,3] The raid was carried out by the Polresta Mataram drug-investigation operational team led directly by Mataram police chief Hendro Purwoko. [@2,3,4] At the same
+Ampenan, Mataram city, on the night of Monday 16 November 2026. [@1,2,3] The raid was carried out by the Polresta Mataram drug-investigation operational team led directly by Mataram police chief Hendro Purwoko. [@2,3,4,5] The raid began with information from the public which the Satresnarkoba team followed up through investigation. [@5] At the same
 location officers also detained two other people, 54-year-old B and 24-year-old
-MOS. [@1,2] ASS is from Pematang Siantar in North Sumatra, while B and MOS are from Ampenan in Mataram city. [@2,3,4] Police said they were still tracing where the drugs came from and
-developing the dealer network. [@1,2] In an initial account the cannabis was to be sold in the Gili Trawangan area, but police said that account also changed and the destination was still under investigation. [@4] AAS first claimed he had obtained the cannabis from someone in Senggigi, but police said his account kept changing. [@4] The three were processed under Article 114(2) of the 2009 Narcotics Law in conjunction with Article 609(2)(a) of the 2023 Criminal Code and the 2026 penalty-adjustment law. [@2,3] The three initially acknowledged that the items officers found were cannabis but would not explain where the items came from. [@2,3]
+MOS. [@1,2] ASS is from Pematang Siantar in North Sumatra, while B and MOS are from Ampenan in Mataram city. [@2,3,4,5] Police said they were still tracing where the drugs came from and
+developing the dealer network. [@1,2] In an initial account the cannabis was to be sold in the Gili Trawangan area, but police said that account also changed and the destination was still under investigation. [@4] AAS first claimed he had obtained the cannabis from someone in Senggigi, but police said his account kept changing. [@4] The three were processed under Article 114(2) of the 2009 Narcotics Law in conjunction with Article 609(2)(a) of the 2023 Criminal Code and the 2026 penalty-adjustment law. [@2,3,5] Police stated that the charges carry a maximum penalty of 12 years' imprisonment. [@5] The three initially acknowledged that the items officers found were cannabis but would not explain where the items came from. [@2,3,5]
 
-During the arrest police found four kilograms of cannabis in ASS's room. [@1,2] After the arrest officers extended the search from that room to a house in South Ampenan where one of the suspects was known to live. [@2,3]
+During the arrest police found four kilograms of cannabis in ASS's room. [@1,2] After the arrest officers extended the search from that room to a house in South Ampenan where one of the suspects was known to live. [@2,3,5]
 Mataram police chief Hendro Purwoko estimated the seized evidence at 4 kilograms
 of cannabis. [@1,4] The cannabis lay scattered on the bedroom floor, wrapped in
 brown packing tape. [@1] Officers also seized a roll of cigarette paper, a
