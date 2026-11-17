@@ -49,6 +49,11 @@ sources:
     publisher: vBurgas.bg
     date: 2026-11-17
     language: bg
+  - title: Кокаин, марихуана и метамфетамин по улиците на Бургаско! Четирима попаднаха в ареста - Днес България
+    url: https://dnesbulgaria.com/%D0%BA%D0%BE%D0%BA%D0%B0%D0%B8%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%B8-%D0%BC%D0%B5%D1%82%D0%B0%D0%BC%D1%84%D0%B5%D1%82%D0%B0%D0%BC%D0%B8%D0%BD-%D0%BF%D0%BE-%D1%83%D0%BB/
+    publisher: Днес България
+    date: 2026-11-17
+    language: bg
 open_questions:
   - No formal charge, court appearance or outcome beyond the expedited proceeding was reported.
   - These accounts describe the material only as dry green plant mass identified as cannabis, with no laboratory result reported.
@@ -59,7 +64,7 @@ open_questions:
 
 A 35-year-old man from Dalgopol was detained in the village of Orizare, in
 Nessebar Municipality, Burgas Province, after police found and seized about 5
-grams of cannabis on him. [@1] The Interior Ministry said the man was detained
+grams of cannabis on him. [@1,4] The Interior Ministry said the man was detained
 on suspicion of possessing narcotic substances. [@2] The ministry said officers
 of the Nessebar district directorate stopped him for the check at about 22:30
 the previous evening. [@2] A regional news roundup reported that the check on 16
@@ -67,10 +72,9 @@ November 2026 was one of four detentions during drug checks across the Burgas
 region that day. [@3]
 
 The ministry described the seized material as about 5 grams of dry green plant
-mass identified as cannabis. [@2] Burgas24.bg, which attributed the information
+mass identified as cannabis. [@2,4] Burgas24.bg, which attributed the information
 to the Burgas regional directorate of the Interior Ministry, reported that the
 man was held for up to 24 hours and that expedited proceedings known locally as
 бързо производство were opened in the case. [@1] The vBurgas roundup gave the
 same account of the seizure, the 24-hour detention and the opening of
 proceedings. [@3]
-

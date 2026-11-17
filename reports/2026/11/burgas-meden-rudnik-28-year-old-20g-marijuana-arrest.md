@@ -51,23 +51,23 @@ sources:
     publisher: Министерство на вътрешните работи
     date: 2026-11-17
     language: bg
-open_questions:
-    - The marijuana was reported as found on the man, with no laboratory confirmation reported.
-    - The 5 grams of amphetamine and 5 grams of methamphetamine from the same check are excluded from the cannabis figures.
-    - No charges, plea or court outcome beyond fast-track proceedings was reported.
-    - The Interior Ministry bulletin and the vBurgas roundup reproduce the same police information as the original outlet, so they are not independent reporting.
+  - title: Кокаин, марихуана и метамфетамин по улиците на Бургаско! Четирима попаднаха в ареста - Днес България
+    url: https://dnesbulgaria.com/%D0%BA%D0%BE%D0%BA%D0%B0%D0%B8%D0%BD-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%B8-%D0%BC%D0%B5%D1%82%D0%B0%D0%BC%D1%84%D0%B5%D1%82%D0%B0%D0%BC%D0%B8%D0%BD-%D0%BF%D0%BE-%D1%83%D0%BB/
+    publisher: Днес България
+    date: 2026-11-17
+    language: bg
 ---
 
 Officers from the Fourth District police department in Burgas stopped a
 28-year-old man from Burgas for a check in the Meden Rudnik housing complex in
 the city. [@1] Police said officers found three kinds of drugs on the man during
 the check, and the man was described only by his age and city. [@1] The man was
-detained for up to 24 hours. [@1]
+detained for up to 24 hours. [@1,4]
 
-The check took place at about 13:30 on the previous day near Block 321. [@1,2] The roundup dated the checks to 16 November 2026. [@2]
+The check took place at about 13:30 on the previous day near Block 321. [@1,2,4] The roundup dated the checks to 16 November 2026. [@2]
 Officers found about 20 grams of marijuana on the man, with the amount reported
-as approximate. [@1,3] The same check also yielded 5 grams of amphetamine and 5
+as approximate. [@1,3,4] The same check also yielded 5 grams of amphetamine and 5
 grams of methamphetamine, which are excluded from the cannabis figures. [@1] The
-man refused to submit to alcohol and drug testing during the check. [@1]
+man refused to submit to alcohol and drug testing during the check. [@1,4]
 
-The case was placed in fast-track proceedings. [@1]
+The case was placed in fast-track proceedings. [@1,4]
