@@ -63,6 +63,11 @@ media:
     media_url: https://fotografias-2.larazon.es/clipping/cmsimages01/2026/11/16/23A38A1E-8F7E-46A9-B08E-36F7ED36BD13/dinero-intervenido-operacion_97.jpg?crop%3D1600%2C900%2Cx0%2Cy150%26width%3D1600%26height%3D900%26optimize%3Dlow%26format%3Dwebply
     publisher: La Razón
     caption: 'Cash seized in the Talavera operation, laid out for photograph. Photo: Policía Nacional'
+  - kind: photo
+    url: https://toledodiario.es/seis-detenidos-en-talavera-al-desmantelar-tres-narcopisos-con-droga-19-000-euros-y-objetos-robados/
+    media_url: https://toledodiario.es/wp-content/uploads/2026/11/HACHIS-1-768x535.jpg
+    publisher: ToledoDiario
+    caption: 'Seized drugs laid out during the Talavera operation. Photo: Policía Nacional'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ae4ebc965f4262c3a734ea0555ed46b8
@@ -98,6 +103,11 @@ sources:
     publisher: La Tribuna de Talavera
     date: 2026-11-16
     language: es
+  - title: Seis detenidos en Talavera al desmantelar tres narcopisos con droga, 19.000 euros y objetos robados
+    url: https://toledodiario.es/seis-detenidos-en-talavera-al-desmantelar-tres-narcopisos-con-droga-19-000-euros-y-objetos-robados/
+    publisher: ToledoDiario
+    date: 2026-11-16
+    language: es
 open_questions:
     - No separate date for the searches or arrests was published; 16 November 2026 is the publication date and stands in for the incident date.
     - The 60 grams of cocaine seized in the same searches is excluded from the cannabis figures.
@@ -110,13 +120,13 @@ open_questions:
 National Police officers in Talavera de la Reina arrested six people as alleged
 perpetrators of drug trafficking and receiving stolen goods, accusing them of
 running three drug flats in the city centre from which they distributed
-narcotics. [@1,4,5,6] The six detainees, four men and two women, were placed at the
+narcotics. [@1,4,5,6,7] The six detainees, four men and two women, were placed at the
 disposal of the courts as alleged perpetrators of drug trafficking and receiving
-stolen goods. [@3,5,6]
+stolen goods. [@3,5,6,7]
 
 Searches of the three homes yielded 60 grams of cocaine, 91 grams of hashish,
 330 grams of marijuana, six precision scales, 19,177 euros, numerous medicines
-used to adulterate drugs and many stolen items. [@1,4,5,6] Among the stolen items
+used to adulterate drugs and many stolen items. [@1,4,5,6,7] Among the stolen items
 recovered were a 3D printer and a drone valued at more than 700 euros, alongside
 the 19,177 euros in cash. [@2,4,5]
 
