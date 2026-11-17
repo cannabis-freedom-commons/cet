@@ -115,6 +115,11 @@ sources:
     publisher: 33 Канал
     date: 2026-11-14
     language: uk
+  - title: На Старокостянтинівщині виявили плантацію конопель
+    url: https://www.xm-inside.com/news/%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BA%D0%BE%D1%81%D1%82%D1%8F%D0%BD%D1%82%D0%B8%D0%BD%D1%96%D0%B2%D1%89%D0%B8%D0%BD%D1%96-%D0%B2%D0%B8%D1%8F%D0%B2%D0%B8%D0%BB%D0%B8-%D0%BF%D0%BB%D0%B0/
+    publisher: XМ-ІНСАЙД
+    date: 2026-11-12
+    language: uk
 ---
 
 Police in Starokostiantyniv in Khmelnytskyi Oblast detained a 32-year-old local
@@ -124,7 +129,7 @@ Ukraine's Criminal Procedure Code immediately after he sold another dose. [@1]
 
 The man had repeatedly faced criminal liability before for drug offences and
 thefts. [@1] Officers documented several instances of his unlawful activity
-before the arrest. [@1] The charge carries a sentence of 3 to 7 years of imprisonment. [@4,6,7] Police found a plantation of cannabis plants along a riverbank near Starokostiantyniv, seizing 2,182 cannabis plants. [@4,5,6,7,8,9] Investigators from police department No. 1 in Starokostiantyniv opened a criminal case over the plantings under Part 2 of Article 310 of Ukraine's Criminal Code. [@6,7,8,9] Investigators preliminarily established that a 32-year-old local resident, whom police had recently detained for selling cannabis, may be involved in growing the narcotic plants. [@8,9,10] The sanction of that article carries a prison term of three to seven years. [@8,10] The investigation was still continuing at the time of the report. [@8] Officers seized 2,182 plants in total and sent them for expert examination. [@5,7,9,10] Investigators from police department No. 1 in
+before the arrest. [@1] The charge carries a sentence of 3 to 7 years of imprisonment. [@4,6,7] Police found a plantation of cannabis plants along a riverbank near Starokostiantyniv, seizing 2,182 cannabis plants. [@4,5,6,7,8,9,11] Investigators from police department No. 1 in Starokostiantyniv opened a criminal case over the plantings under Part 2 of Article 310 of Ukraine's Criminal Code. [@6,7,8,9] Investigators preliminarily established that a 32-year-old local resident, whom police had recently detained for selling cannabis, may be involved in growing the narcotic plants. [@8,9,10,11] The sanction of that article carries a prison term of three to seven years. [@8,10,11] The investigation was still continuing at the time of the report. [@8,11] Officers seized 2,182 plants in total and sent them for expert examination. [@5,7,9,10,11] Investigators from police department No. 1 in
 Starokostiantyniv, under the procedural guidance of the prosecutor's office,
 notified him of suspicion under Parts 1 and 2 of Article 307 of Ukraine's
 Criminal Code, which covers unlawful acquisition, storage or sale of narcotic
