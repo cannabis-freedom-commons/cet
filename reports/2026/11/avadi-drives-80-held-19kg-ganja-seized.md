@@ -43,28 +43,32 @@ sources:
     publisher: Dinamalar
     date: 2026-11-16
     language: ta
+  - title: 61 arrested in Avadi police crackdown
+    url: https://timesofindia.indiatimes.com/city/chennai/61-arrested-in-avadi-police-crackdown/articleshow/135900386.cms
+    publisher: The Times of India
+    date: 2026-11-17
 open_questions:
-  - No names, ages or other identifiers for the 19 ganja-case detainees were published.
-  - No charges beyond ganja cases, court production or remand outcome were reported.
-  - The 60 grams of methamphetamine reported in the same seizures is excluded from the cannabis weight.
-  - The report gives no value estimate or laboratory confirmation for the 19 kg described as ganja.
-  - The account rests on a single Dinamalar report of police statements; no agency statement or second outlet was found.
-  - 15 November 2026 is used as the incident date as the end of the stated 13-15 November three-day drug drive; 16 November 2026 is the publication date.
+    - No names, ages or other identifiers for the 19 ganja-case detainees were published.
+    - The 61 people held for rowdy and public-peace matters were remanded in judicial custody, but no court outcome for the ganja cases was reported.
+    - No charges beyond ganja cases were reported.
+    - The 60 grams of methamphetamine reported in the same seizures is excluded from the cannabis weight.
+    - The report gives no value estimate or laboratory confirmation for the 19 kg described as ganja.
+    - Both accounts reproduce police statements; no agency statement was found.
+    - 15 November 2026 is used as the incident date as the end of the stated 13 to 15 November three-day drive; the Dinamalar report was published on 16 November 2026 and the Times of India report on 17 November 2026.
 ---
 
 Avadi Police Commissionerate detained 80 people linked to rowdies, criminal
 activity and ganja cases. [@1] The commissionerate carried out special measures
-against rowdies, offenders and narcotics. [@1] That included the arrest of 61
+against rowdies, offenders and narcotics. [@1] The drives were ordered by Director General of Police Mahesh Kumar Aggarwal and Avadi Commissioner T Senthilkumar. [@2] That included the arrest of 61
 people for rowdy and public-peace matters, among them 12 history-sheet rowdies
-and 49 accused of acting against public peace. [@1]
+and 49 accused of acting against public peace. [@1,2] Police started proceedings to obtain good-conduct bonds from 23 other people. [@2] All 61 people held in the rowdy and public-peace drive were remanded in judicial custody. [@2]
 
 In a three-day anti-narcotics drive from the 13th to the 15th, police registered
-11 ganja cases. [@1] In that drug drive police arrested 15 people plus four
-absconders, 19 people in total. [@1] Officers seized 19 kilograms of ganja from
-those held. [@1]
+11 ganja cases. [@1,2] In that drug drive police arrested 15 people plus four
+absconders, 19 people in total. [@1,2] Officers seized 19 kilograms of ganja from
+those held. [@1,2]
 
 In the same drug seizures officers also seized 60 grams of methamphetamine,
-which is excluded from the cannabis total. [@1] Officers also seized two
-two-wheelers in the drug drive. [@1] Police officials said action against
-rowdies would continue. [@1]
-
+which is excluded from the cannabis total. [@1,2] Officers also seized two
+two-wheelers in the drug drive. [@1,2] Police officials said action against
+rowdies would continue. [@1] Police also held 28 awareness programmes across the commissionerate about the harmful effects of drug abuse. [@2]
