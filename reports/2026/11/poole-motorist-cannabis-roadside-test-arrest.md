@@ -40,26 +40,23 @@ sources:
     url: https://www.bournemouthecho.co.uk/news/26733890.poole-motorist-arrested-cannabis-drug-driving-test/
     publisher: Bournemouth Echo
     date: 2026-11-16
-open_questions:
-  - The driver was not named and no age or gender was reported.
-  - No quantity of cannabis was reported; the case concerns a positive roadside cannabis test, not a seizure.
-  - No blood-test result, charge or court outcome was reported.
-  - The exact location within Poole and the time of the stop were not reported.
-  - The whole account rests on one source, the Bournemouth Echo report of the Dorset Roads Policing action.
+  - title: Driver arrested on suspicion of drug driving after tip-off
+    url: https://uk.news.yahoo.com/driver-arrested-suspicion-drug-driving-150936627.html
+    publisher: Yahoo News UK
+    date: 2026-11-16
 ---
 
 Dorset Roads Policing officers stopped a vehicle in Poole on Friday 13 November
-2026 after a report from a concerned member of the public. [@1] The driver
-underwent a roadside drug test which indicated the presence of cannabis. [@1]
+2026 after a report from a concerned member of the public. [@1,2] The driver
+underwent a roadside drug test which indicated the presence of cannabis. [@1,2]
 Officers arrested the motorist on suspicion of driving while over the legal drug
-limit. [@1]
+limit. [@1,2]
 
 Police said a further blood sample will be analysed to determine whether the
-driver was above the legal cannabis limit while behind the wheel. [@1] A Dorset
+driver was above the legal cannabis limit while behind the wheel. [@1,2] A Dorset
 Roads Policing spokesperson said the result demonstrates the vital role the
-public plays in keeping Dorset's roads safe and that every report matters. [@1]
+public plays in keeping Dorset's roads safe and that every report matters. [@1,2]
 Officers said they will carry out proactive enforcement over the festive season
 targeting drivers who pose the greatest risk to others on the county's roads.
-[@1] Officers urged the public to keep reporting concerns about driver behaviour
-where a motorist may be under the influence of drink or drugs. [@1]
-
+[@1,2] Officers urged the public to keep reporting concerns about driver behaviour
+where a motorist may be under the influence of drink or drugs. [@1,2]
