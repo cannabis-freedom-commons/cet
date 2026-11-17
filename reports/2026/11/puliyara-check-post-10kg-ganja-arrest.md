@@ -49,27 +49,36 @@ sources:
     publisher: Dinamani
     date: 2026-11-17
     language: ta
+  - title: സിമന്റ് ലോറിയിൽനിന്ന് 10 കിലോ കഞ്ചാവ് പിടികൂടി
+    url: https://www.madhyamam.com/amp/crime/10-kg-of-cannabis-seized-from-cement-lorry-1573134
+    publisher: Madhyamam
+    date: 2026-11-17
+    language: ml
 open_questions:
-  - The article gives the event day only as Monday; 16 November 2026 is used because the report published on 17 November 2026 describes Monday's check.
-  - No charge provision, plea or court outcome was reported.
-  - The 500,000-rupee figure is the value stated in the report; the report does not say who estimated it.
-  - The whole account rests on a single Dinamani report; no second account of this seizure could be opened.
+    - The article gives the event day only as Monday; 16 November 2026 is used because the two reports published on 17 November describe Monday's check.
+    - No charge provision, plea or court outcome was reported.
+    - The 500,000-rupee value attributed to the ganja was stated but no source for the estimate was published.
+media:
+  - kind: photo
+    url: https://www.madhyamam.com/amp/crime/10-kg-of-cannabis-seized-from-cement-lorry-1573134
+    media_url: https://www.madhyamam.com/h-upload/2026/11/17/1500x900_2949670-35.webp
+    publisher: Madhyamam
+    caption: 'Cement lorry at the Puliyara check post where police seized 10 kg of ganja. Photo: Madhyamam'
 ---
 
 Police at the Puliyara check post in Tenkasi district arrested a man on Monday
 after finding that he was smuggling 10 kilograms of ganja through the Tamil
-Nadu-Kerala border post. [@1] Police registered a case and identified the
+Nadu-Kerala border post. [@1,2] Police registered a case and identified the
 arrested man as Sarathkumar, aged 35 and son of Saji, who belongs to the
-Pushpamangalam area of Kerala. [@1]
+Pushpamangalam area of Kerala. [@1] Officers found the ganja hidden in five packets inside the lorry, which was carrying cement from Ariyalur in Tamil Nadu to Kerala. [@2]
 
 Officers of the police department carried out the check at the Puliyara check
 post on Monday and searched a lorry that had arrived there via Puliyara from
-Kerala. [@1] During that search the officers found 10 kilograms of ganja,
-described as worth 500,000 rupees, being smuggled in the lorry. [@1] Police
-seized both the ganja and the lorry used to transport it. [@1]
+Kerala. [@1,2] During that search the officers found 10 kilograms of ganja,
+described as worth 500,000 rupees, being smuggled in the lorry. [@1,2] Police
+seized both the ganja and the lorry used to transport it. [@1,2]
 
 The Puliyara check post stands on the Tamil Nadu-Kerala border in Tenkasi
-district, where Tamil Nadu meets Kerala. [@1] District Superintendent of Police
+district, where Tamil Nadu meets Kerala. [@1] The suspect told police he was bringing the ganja from Odisha to Kollam. [@2] District Superintendent of Police
 Stalin had ordered intensified patrols and vehicle checks across the district in
 order to curb the movement of narcotics. [@1]
-
