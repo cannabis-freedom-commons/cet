@@ -6,6 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "astro dev",
+    "dev:light": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
     "backend-dev": "node scripts/backend-dev.mjs",
     "worker": "node scripts/worker-dev.mjs",
     "test": "node --test scripts/*.test.mjs benchmark/test/*.test.mjs",

@@ -48,3 +48,28 @@ export const day = (iso) => new Intl.DateTimeFormat("en-GB", { day: "numeric", m
 export const score = (value) => (value == null ? "–" : String(Math.round(value)));
 export const band = (value) => (value == null ? "none" : value >= 85 ? "pass" : value >= 50 ? "part" : "fail");
 export const tokens = (n) => (n >= 1e6 ? `${(n / 1e6).toFixed(1)}M` : n >= 1e3 ? `${Math.round(n / 1e3)}k` : String(n || 0));
+
+// ── Charts ────────────────────────────────────────────────────────────────────────────────────
+// Verdict colours are the same three everywhere, always in this order, always with their word
+// beside them (benchmark.css; chosen to stay apart for colour-blind readers, not green against red).
+export const VERDICTS = [
+  ["pass", "Pass", "var(--b-pass)"],
+  ["partial", "Partial", "var(--b-part)"],
+  ["fail", "Fail", "var(--b-fail)"],
+  ["off", "Unfinished or not counted", "var(--b-off)"],
+];
+export function verdictCounts(run) {
+  const v = run.summary.verdicts;
+  return { pass: v.pass || 0, partial: v.partial || 0, fail: v.fail || 0, off: (v.error || 0) + (v.skipped || 0) + (v.spoiled || 0) };
+}
+// all tokens the model read and wrote for one case, cached input included
+export const tokensPerCase = (run) => {
+  const u = run.summary.usage;
+  return Math.round(((u.input_tokens || 0) + (u.cache_read_tokens || 0) + (u.output_tokens || 0) + (u.reasoning_tokens || 0)) / Math.max(1, run.summary.attempts));
+};
+// Heat cells show what was lost: the further a score is from 100, the stronger the wash.
+export const heat = (value) => (value == null ? "" : `--loss:${Math.round(Math.max(0, Math.min(100, 100 - value)))}`);
+export const tip = (t, s, rows) => JSON.stringify({ t, s, ...(rows ? { rows } : {}) });
+export const modelName = (run) => run.subject.model + (run.subject.effort ? `#${run.subject.effort}` : "");
+export const subjectLine = (run) => `${run.subject.harness}${run.subject.harness_version ? ` ${run.subject.harness_version.replace(/^\D+/, "")}` : ""} · ${run.subject.provider}`;
+export const verdictOf = (value) => (value == null ? "off" : value >= 85 ? "pass" : value >= 50 ? "partial" : "fail");

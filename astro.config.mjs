@@ -131,6 +131,8 @@ export default defineConfig({
   base,
   // /benchmark/: how each model does the research job (benchmark/README.md)
   integrations: [reportsDev(), benchmarkPages(), sitemap()],
+  // The report store is large enough to exhaust V8 memory when loaded as one module.
+  experimental: { collectionStorage: "chunked" },
   // pages are rendered one at a time: four at a time (build.concurrency) took 3 min 57 s for the
   // 25,000 pages on GitHub's runner against 2 min 11 s, as rendering shares one thread
   vite: {

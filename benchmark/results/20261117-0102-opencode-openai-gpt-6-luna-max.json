@@ -1,0 +1,2264 @@
+{
+ "schema": 1,
+ "id": "20261117-0102-opencode-openai-gpt-6-luna-max",
+ "label": "",
+ "subject": {
+  "id": "opencode@openai/gpt-6-luna#max",
+  "harness": "opencode",
+  "provider": "openai",
+  "model": "gpt-6-luna",
+  "effort": "max",
+  "agent": "openai/gpt-6-luna#max",
+  "recorded": "openai/gpt-6-luna#max",
+  "harness_version": "opencode v2.2.7"
+ },
+ "started_at": "2026-11-17T01:02:23.802Z",
+ "finished_at": null,
+ "complete": false,
+ "repeat": 1,
+ "concurrency": 2,
+ "protocol": {
+  "version": 1,
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "max_steps": 32,
+  "timeout_seconds": 1800,
+  "websearch": "random",
+  "context": "inline",
+  "screen": true,
+  "source_browser": true,
+  "concurrency": 2,
+  "case_deadline_minutes": 45,
+  "retry_errors": 1
+ },
+ "protocol_hash": "9be3371802af",
+ "cases_hash": "3590fabd1e59",
+ "full_set": true,
+ "tracker": {
+  "commit": "38b0e9a3b2fc36ce2b7a84f9783516a23ff6d8c6",
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "uncommitted_changes": false
+ },
+ "scorer_version": 1,
+ "weights": {
+  "facts": 20,
+  "figures": 20,
+  "classification": 10,
+  "corroboration": 15,
+  "photos": 10,
+  "text": 15,
+  "grounding": 10
+ },
+ "dimensions": {
+  "facts": "Facts",
+  "figures": "Figures and units",
+  "classification": "Classification",
+  "corroboration": "Corroboration",
+  "photos": "Photos",
+  "text": "Report text",
+  "grounding": "Grounding"
+ },
+ "families": {
+  "new-event": "New events",
+  "known-event": "Already covered",
+  "out-of-scope": "Out of scope"
+ },
+ "summary": {
+  "score": 96.4,
+  "attempt_scores": [
+   96.4
+  ],
+  "cases": 14,
+  "attempts": 14,
+  "verdicts": {
+   "pass": 13,
+   "partial": 1,
+   "fail": 0,
+   "error": 0,
+   "skipped": 0,
+   "spoiled": 0
+  },
+  "families": {
+   "new-event": {
+    "score": 100,
+    "cases": 4
+   },
+   "known-event": {
+    "score": 100,
+    "cases": 6
+   },
+   "out-of-scope": {
+    "score": 87.5,
+    "cases": 4
+   }
+  },
+  "capabilities": {
+   "recognised": {
+    "score": 100,
+    "cases": 4
+   },
+   "facts": {
+    "score": 100,
+    "cases": 4
+   },
+   "figures": {
+    "score": 100,
+    "cases": 4
+   },
+   "classification": {
+    "score": 100,
+    "cases": 4
+   },
+   "corroboration": {
+    "score": 100,
+    "cases": 2
+   },
+   "photos": {
+    "score": 100,
+    "cases": 2
+   },
+   "text": {
+    "score": 100,
+    "cases": 4
+   },
+   "grounding": {
+    "score": 100,
+    "cases": 4
+   }
+  },
+  "usage": {
+   "minutes_per_case": 6.9,
+   "steps_per_case": 6.5,
+   "input_tokens": 1401095,
+   "output_tokens": 73969,
+   "reasoning_tokens": 177897,
+   "cache_read_tokens": 3746432,
+   "cost_usd": 0
+  }
+ },
+ "cases": [
+  {
+   "id": "br-agua-clara-early-account",
+   "title": "54 kg of cannabis found in Água Clara",
+   "family": "new-event",
+   "tests": [
+    "corroboration",
+    "mixed-substances",
+    "figures",
+    "photos",
+    "languages"
+   ],
+   "why": "The submitted page is an early, partial account from a small-town portal: three people detained and 59 bricks of about 54 kg. The police statement that regional outlets carried a day later gives the full picture: five men arrested (four in the act, one on a warrant) and smaller amounts found elsewhere. A good researcher finds the fuller accounts. The 120 g of cocaine stay out of the cannabis weight.",
+   "submit": "https://www.aguaclarams.com.br/artigo/denuncia-anonima-tentativa-de-fuga-e-operacao-policial-terminam-com-apreensao-de-cocaina-e-maconha-em-agua-clara",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "br": 1
+    },
+    "date": {
+     "value": "2026-11-04",
+     "also": {
+      "2026-11-05": 1
+     }
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1,
+     "raid": 1
+    },
+    "place": {
+     "coordinates": [
+      -20.4478,
+      -52.8778
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 54.52,
+      "tolerance": 0.012
+     },
+     "arrested": {
+      "value": 5,
+      "partial": [
+       3
+      ]
+     }
+    },
+    "figures_optional": [
+     "cash",
+     "vehicles",
+     "sites",
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 59,
+      "why": "number of bricks taken for the weight"
+     },
+     {
+      "key": "arrested",
+      "value": 1,
+      "why": "only the driver counted"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower",
+      "hashish"
+     ],
+     "agencies": [
+      "br-pm",
+      "Polícia Militar",
+      "Military Police",
+      "Polícia Civil",
+      "Civil Police"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the 59 bricks",
+      "any": [
+       "59"
+      ]
+     },
+     {
+      "say": "the cocaine",
+      "kept apart": null,
+      "any": [
+       "cocaine"
+      ]
+     },
+     {
+      "say": "it started with an anonymous tip",
+      "any": [
+       "anonymous",
+       "tip"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "aguaclarams.com.br",
+      "radiocacula.com.br",
+      "estadoms.com.br",
+      "pc.ms.gov.br",
+      "jpnews.com.br",
+      "perfilnews.com.br",
+      "hojemais.com.br",
+      "campograndenews.com.br",
+      "midiamax.uol.com.br"
+     ],
+     "markers": [
+      "Água Clara",
+      "59 tabletes",
+      "54,",
+      "VW/Gol",
+      "VW Gol"
+     ],
+     "markers_min": 3
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "07e870f81b10431c99aa475fa85d9990",
+      "WhatsApp-Image-2026-11-05-at-14.23.31"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "agua-clara-54kg-cannabis-five-arrests",
+     "existing_report": "",
+     "decision_title": "Five arrests in Água Clara cannabis operation",
+     "explanation": "The report was committed to the local repository (196d2098dbea). 1 of 1 new photos and videos got a thumbnail or poster. It is available in local development; pushing is separate.",
+     "model_explanation": "The submitted article describes a 4 November cannabis seizure in Água Clara, and MS Todo Dia confirms the 59-brick, approximately 54 kg seizure. RCN67 identifies five arrests and reports a further approximately 500 g cannabis seizure; its overall 54.64 kg figure combines marijuana and cocaine and is not recorded as a cannabis-only weight. The submitted page's generic image caption does not identify its subject, while RCN67's captioned police handout is linked as event media.",
+     "flags": [],
+     "usage": {
+      "seconds": 942,
+      "research_seconds": 892,
+      "steps": 9,
+      "searches": 2,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 218164,
+      "output_tokens": 13114,
+      "reasoning_tokens": 25295,
+      "cache_read_tokens": 484608,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Água Clara 59 tabletes maconha 54 quilos Polícia Civil novembro 2026",
+      "Água Clara MS-324 54 quilos maconha 4 novembro 2026 Polícia"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "Five arrested after 54 kg of cannabis seized in Água Clara",
+      "summary": "Police arrested five men in Água Clara after a tip about suspected drug dealing led to searches and follow-up investigations. The operation found 59 cannabis bricks weighing about 54 kg, plus about 500 g with another suspect, and also involved cocaine seizures.",
+      "date": "2026-11-04",
+      "country": "br",
+      "type": "arrest",
+      "also": [
+       "seizure",
+       "raid"
+      ],
+      "place": "Água Clara, Mato Grosso do Sul",
+      "coordinates": [
+       -20.445,
+       -52.879
+      ],
+      "figures": {
+       "arrested": 5,
+       "kg_seized": 54.5,
+       "vehicles": 2,
+       "cash": {
+        "amount": 250,
+        "currency": "BRL"
+       }
+      },
+      "details": {
+       "agencies": [
+        "br-pm",
+        "Polícia Civil de Água Clara"
+       ],
+       "agency_types": [
+        "gendarmerie",
+        "police"
+       ],
+       "products": [
+        {
+         "product": "flower",
+         "kg": 54.5
+        }
+       ],
+       "activity": [
+        "sale",
+        "trafficking"
+       ],
+       "setting": [
+        "vehicle",
+        "home"
+       ],
+       "charges": [
+        "drug trafficking",
+        "association for drug trafficking"
+       ],
+       "date_precision": "exact",
+       "region": "Mato Grosso do Sul"
+      },
+      "tags": [],
+      "sources": [
+       {
+        "url": "https://www.aguaclarams.com.br/artigo/denuncia-anonima-tentativa-de-fuga-e-operacao-policial-terminam-com-apreensao-de-cocaina-e-maconha-em-agua-clara",
+        "title": "Denúncia anônima, tentativa de fuga e operação policial terminam com apreensão de cocaína e maconha em Água Clara",
+        "publisher": "Portal Água Clara MS",
+        "date": "2026-11-05",
+        "language": "pt"
+       },
+       {
+        "url": "https://mstododia.com.br/noticias/36706-operacao-em-agua-clara-apreende-54-quilos-de-maconha-e-prende-suspeitos-de-trafico",
+        "title": "Operação em Água Clara apreende 54 quilos de maconha e prende suspeitos de tráfico",
+        "publisher": "MS Todo Dia",
+        "date": "2026-11-05",
+        "language": "pt"
+       },
+       {
+        "url": "https://www.rcn67.com.br/tres-lagoas/jpnews/policia-prende-cinco-suspeitos-e-apreende-mais-de-54-quilos-de-drogas-em-agua-clara/",
+        "title": "Polícia prende cinco suspeitos e apreende mais de 54 quilos de drogas em Água Clara",
+        "publisher": "RCN67",
+        "date": "2026-11-06",
+        "language": "pt"
+       }
+      ],
+      "media": [
+       {
+        "kind": "photo",
+        "url": "https://www.rcn67.com.br/tres-lagoas/jpnews/policia-prende-cinco-suspeitos-e-apreende-mais-de-54-quilos-de-drogas-em-agua-clara/",
+        "media_url": "https://uploads.rcn67.com.br/2026/11/WhatsApp-Image-2026-11-05-at-14.23.31-e1793964361586-1000x829.jpeg",
+        "caption": "Police handout photo captioned as showing the joint Civil and Military Police operation that ended with five men arrested and drugs seized in Água Clara. Photo: Polícia Civil."
+       }
+      ],
+      "open_questions": [
+       "The 54 kg of bricks and about 500 g found with another suspect are the separately quantified cannabis amounts; the cannabis portions found at the first suspect's home were not weighed separately.",
+       "RCN67 gives a combined total of about 54.64 kg of marijuana and cocaine, which cannot be used as a cannabis-only total.",
+       "The sources describe the cannabis as marijuana or material resembling marijuana; no laboratory confirmation is reported.",
+       "No later court outcome for the five men was reported."
+      ],
+      "body": "The operation began on the night of Wednesday 4 November after an anonymous tip\nthat a vehicle was being used to sell drugs in Água Clara. The tip\nconcerned a white VW Gol allegedly used to sell drugs in Jardim das Palmeiras. When Military Police located the car, its driver tried to flee but was\nstopped after a chase over several blocks. Officers found suspected cocaine\nin the car and cannabis portions, a precision scale, packaging materials and\ncash at the driver's home. The joint follow-up found two other suspects at\na snack bar and 59 bricks of material resembling marijuana that weighed about 54\nkg.\n\nInvestigators later found a third suspect with approximately 500 grams of\nmarijuana and a precision scale. Police also recovered a bag of 19 portions\nof cocaine, about 120 grams in total, which investigators said the first suspect\nhad discarded during the original approach. A 28-year-old man under\ninvestigation for trafficking and wanted on an outstanding arrest warrant was\nalso located and arrested. RCN67 reported five men arrested in total: four\nwere booked in flagrante for trafficking and association for trafficking, while\nthe fifth was arrested under a judicial order. Officers seized a car, a\nmotorcycle, three scales, three mobile phones, packaging material and about\nR$250, in addition to the drugs.",
+      "words": 216
+     },
+     "dimensions": {
+      "facts": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "br",
+         "got": "br"
+        },
+        {
+         "label": "Date of the event",
+         "score": 1,
+         "expected": "2026-11-04",
+         "got": "2026-11-04"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "seizure or arrest or raid",
+         "got": "arrest + seizure + raid"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 60 km of -20.4478, -52.8778",
+         "got": "Água Clara, Mato Grosso do Sul (0 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "kg_seized",
+         "score": 1,
+         "expected": "54.52",
+         "got": "54.5"
+        },
+        {
+         "label": "arrested",
+         "score": 1,
+         "expected": "5",
+         "got": "5"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "products",
+         "score": 1,
+         "expected": "flower or hashish",
+         "got": "flower"
+        },
+        {
+         "label": "agencies",
+         "score": 1,
+         "expected": "br-pm or Polícia Militar or Military Police or Polícia Civil or Civil Police",
+         "got": "br-pm, Polícia Civil de Água Clara"
+        }
+       ],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Independent outlets on this event",
+         "score": 1,
+         "expected": "2 or more",
+         "got": "2"
+        },
+        {
+         "label": "Portal Água Clara MS",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "aguaclarams.com.br: about this event"
+        },
+        {
+         "label": "MS Todo Dia",
+         "score": 0,
+         "expected": "a report of this event",
+         "got": "mstododia.com.br: could not be confirmed as this event"
+        },
+        {
+         "label": "RCN67",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "rcn67.com.br: about this event"
+        }
+       ],
+       "weight": 15
+      },
+      "photos": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Known photo of the event",
+         "score": 1,
+         "expected": "linked",
+         "got": "https://uploads.rcn67.com.br/2026/11/WhatsApp-Image-2026-11-05-at-14.23.31-e1793964361586-1000x829.jpeg"
+        }
+       ],
+       "weight": 10
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says the 59 bricks",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says the cocaine",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says it started with an anonymous tip",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "58"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "10 of 10",
+         "got": "10 of 10"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "br-mojui-analoga-maconha",
+   "title": "Arrest in Mojuí dos Campos with a substance \"analogous to marijuana\"",
+   "family": "new-event",
+   "tests": [
+    "scope",
+    "languages",
+    "terminology"
+   ],
+   "why": "Brazilian police reports say \"substância análoga à maconha\" for suspected marijuana that has not yet been lab-tested. It is not a synthetic cannabinoid. A model in production rejected this page as synthetic; the right answer is a small new report: one man arrested, twelve wraps of cannabis and 31 of cocaine.",
+   "submit": "https://oimpacto.com.br/2026/11/suspeito-e-preso-em-mojui-dos-campos-apos-ser-flagrado-com-maconha-e-cocaina/",
+   "expect": {
+    "outcome": {
+     "new_event": 1,
+     "not_relevant": 0,
+     "insufficient_evidence": 0
+    },
+    "country": {
+     "br": 1
+    },
+    "date": {
+     "value": "2026-11-12"
+    },
+    "type": {
+     "arrest": 1,
+     "seizure": 1
+    },
+    "place": {
+     "coordinates": [
+      -2.6847,
+      -54.6425
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "arrested": {
+      "value": 1
+     }
+    },
+    "figures_optional": [
+     "cash",
+     "sites"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 12,
+      "why": "twelve wraps recorded as kilograms"
+     },
+     {
+      "key": "kg_seized",
+      "value": 43,
+      "why": "cocaine and cannabis wraps added and recorded as kilograms"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the twelve wraps of cannabis",
+      "any": [
+       "12",
+       "twelve"
+      ]
+     },
+     {
+      "say": "the cocaine",
+      "kept apart": null,
+      "any": [
+       "cocaine"
+      ]
+     }
+    ],
+    "open_questions": [
+     {
+      "about": "no weight was given",
+      "any": [
+       "weight",
+       "quantity",
+       "how much",
+       "grams",
+       "kilogram"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "mojui-dos-campos-12-cannabis-packages-arrest",
+     "existing_report": "",
+     "decision_title": "Arrest and cannabis seizure in Mojuí",
+     "explanation": "The report was committed to the local repository (d657006f413f). 1 of 1 new photos and videos got a thumbnail or poster. It is available in local development; pushing is separate.",
+     "model_explanation": "Jornal O Impacto and G1 describe one arrest on 12 November 2026 in Mojuí dos Campos after a street approach led officers to search a residence in Cidade Alta 2. The opened sources identify a separate cannabis component—12 marijuana-like packages, with O Impacto additionally itemising a loose greenish portion—alongside cocaine. The report records the cannabis seizure without a weight and notes differing cash figures of R$301 and R$300.",
+     "flags": [],
+     "usage": {
+      "seconds": 793,
+      "research_seconds": 725,
+      "steps": 9,
+      "searches": 3,
+      "pages_opened": 3,
+      "runs": 1,
+      "input_tokens": 132159,
+      "output_tokens": 11050,
+      "reasoning_tokens": 17004,
+      "cache_read_tokens": 643968,
+      "cost_usd": 0
+     },
+     "searches": [
+      "João Victor Castro Mojuí dos Campos maconha cocaína 12 novembro 2026",
+      "\"Mojuí dos Campos\" \"31 invólucros\" maconha 2026",
+      "Mojuí dos Campos Pará coordinates latitude longitude"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "Man arrested as police find 12 marijuana packages in Mojuí dos Campos",
+      "summary": "A man was arrested in Mojuí dos Campos on 12 November 2026 after an approach led police to search his home in Cidade Alta 2. Police reported 12 packages of marijuana-like material, and O Impacto also listed a separate greenish portion; neither account gave a cannabis weight.",
+      "date": "2026-11-12",
+      "country": "br",
+      "type": "arrest",
+      "also": [
+       "seizure",
+       "raid"
+      ],
+      "place": "Travessa São Sebastião at Rua Joana D’Arc, Mojuí dos Campos, Pará",
+      "coordinates": [
+       -2.68217,
+       -54.64272
+      ],
+      "figures": {
+       "arrested": 1,
+       "sites": 1
+      },
+      "details": {
+       "agencies": [
+        "br-pm"
+       ],
+       "agency_types": [
+        "gendarmerie"
+       ],
+       "products": [
+        {
+         "product": "flower"
+        }
+       ],
+       "activity": [
+        "trafficking",
+        "sale"
+       ],
+       "setting": [
+        "street",
+        "home"
+       ],
+       "charges": [
+        "drug trafficking"
+       ],
+       "case_stage": "investigation",
+       "date_precision": "exact",
+       "region": "Pará"
+      },
+      "tags": [
+       "mojui-dos-campos",
+       "para",
+       "maconha",
+       "military-police",
+       "trafficking"
+      ],
+      "sources": [
+       {
+        "url": "https://oimpacto.com.br/2026/11/suspeito-e-preso-em-mojui-dos-campos-apos-ser-flagrado-com-maconha-e-cocaina/",
+        "title": "SUSPEITO É PRESO EM MOJUÍ DOS CAMPOS APÓS SER FLAGRADO COM MACONHA E COCAÍNA",
+        "publisher": "Jornal O Impacto",
+        "date": "2026-11-13",
+        "language": "pt"
+       },
+       {
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/13/mulher-denuncia-companheiro-a-policia-e-homem-e-preso-com-drogas-em-santarem.ghtml",
+        "title": "Mulher denuncia companheiro à polícia e homem é preso com drogas em Santarém",
+        "publisher": "G1",
+        "date": "2026-11-13",
+        "language": "pt"
+       }
+      ],
+      "media": [
+       {
+        "kind": "photo",
+        "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/13/mulher-denuncia-companheiro-a-policia-e-homem-e-preso-com-drogas-em-santarem.ghtml",
+        "media_url": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055",
+        "caption": "Photo captioned “Homem foi flagrado com drogas em Mojuí dos Campos”; credit: Portal Encontro das Águas."
+       }
+      ],
+      "open_questions": [
+       "No laboratory confirmation or cannabis weight was reported; the amount is described by packages and portions rather than weight.",
+       "O Impacto itemises one loose greenish portion as well as 12 marijuana wrappers, while G1 reports 12 marijuana portions without clarifying whether the loose portion was counted.",
+       "O Impacto reports R$301 in cash while G1 gives R$300.",
+       "No later charge, custody hearing or court outcome was reported."
+      ],
+      "body": "Military Police officers arrested a man in Mojuí dos Campos on 12 November 2026\nafter stopping him at about 17:45 at the intersection of Travessa São Sebastião\nand Rua Joana D’Arc. The 35th Military Police Battalion said his wife told\nofficers that more drugs were at their home on Rua Almirante Barroso in the\nCidade Alta 2 neighbourhood. G1 reported that officers found initial drug\nportions on the man; after his wife said he trafficked locally, he confessed and\nsaid more cocaine and marijuana were at home.\n\nAt the home, police reported finding 31 packages of a substance resembling\ncocaine and 12 packages of a substance resembling marijuana. O Impacto's\nitemised inventory also lists one greenish portion resembling marijuana. O\nImpacto reported that the home search also yielded R$301 in cash. G1\nreported 12 marijuana portions, 31 cocaine packages and R$300 in cash, and said\nthe seized material was ready for sale.\n\nO Impacto reported that the suspect and seized material were taken to the 16th\nCivil Police Section in Santarém and that he remained at the judiciary's\ndisposal.",
+      "words": 179
+     },
+     "dimensions": {
+      "facts": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "br",
+         "got": "br"
+        },
+        {
+         "label": "Date of the event",
+         "score": 1,
+         "expected": "2026-11-12",
+         "got": "2026-11-12"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "arrest or seizure",
+         "got": "arrest + seizure + raid"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 60 km of -2.6847, -54.6425",
+         "got": "Travessa São Sebastião at Rua Joana D’Arc, Mojuí dos Campos, Pará (0 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "arrested",
+         "score": 1,
+         "expected": "1",
+         "got": "1"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "products",
+         "score": 1,
+         "expected": "flower",
+         "got": "flower"
+        }
+       ],
+       "weight": 10
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says the twelve wraps of cannabis",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says the cocaine",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Open question: no weight was given",
+         "score": 1,
+         "expected": "listed as open",
+         "got": "yes"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "69"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "8 of 8",
+         "got": "8 of 8"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "cz-hemp-sprayed-synthetic",
+   "title": "Shopkeeper fined for hemp sprayed with synthetic cannabinoids",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "languages"
+   ],
+   "why": "A Czech tobacconist was fined 100,000 crowns for selling \"hemp\" products. The plant material was only a carrier: the banned substances were the synthetic cannabinoids MDMB-PINACA and MDMB-INACA sprayed on it. Synthetic cannabinoids are outside the tracker, hemp carrier included.",
+   "submit": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-trafikant-dostal-za-prodej-drogy-pokutu-distributora-policie-nechala-byt-320249",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5,
+     "routed_to_cfi": 0.25
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "Synthetic-cannabinoid product, outside scope",
+     "explanation": "The article reports that Czech authorities fined a Sokolov tobacco-shop owner 100,000 CZK for selling a technical-hemp product sprayed with the prohibited synthetic cannabinoids MDMB-PINACA and MDMB-INACA; it also describes a girl's intoxication after smoking a Vapoverde joint containing a prohibited synthetic substance. The enforcement described concerns synthetic cannabinoids, and the article does not establish a separate cannabis enforcement component apart from hemp used as their carrier. The tracker excludes synthetic cannabinoids and hemp used only as their carrier, so this event is not relevant to its scope.",
+     "model_explanation": "The article reports that Czech authorities fined a Sokolov tobacco-shop owner 100,000 CZK for selling a technical-hemp product sprayed with the prohibited synthetic cannabinoids MDMB-PINACA and MDMB-INACA; it also describes a girl's intoxication after smoking a Vapoverde joint containing a prohibited synthetic substance. The enforcement described concerns synthetic cannabinoids, and the article does not establish a separate cannabis enforcement component apart from hemp used as their carrier. The tracker excludes synthetic cannabinoids and hemp used only as their carrier, so this event is not relevant to its scope.",
+     "flags": [],
+     "usage": {
+      "seconds": 109,
+      "research_seconds": 70,
+      "steps": 3,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 34473,
+      "output_tokens": 834,
+      "reasoning_tokens": 2704,
+      "cache_read_tokens": 56704,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "in-agartala-same-platform",
+   "title": "A second seizure on the same Agartala platform the same day",
+   "family": "new-event",
+   "tests": [
+    "coverage",
+    "look-alike",
+    "figures",
+    "honesty"
+   ],
+   "why": "Railway police arrested a 19-year-old with 5.525 kg of ganja on platform 1 of Agartala station. The tracker already has another seizure from the same bench on the same platform on the same day by the same officers: two other men with 24.625 kg. Two events, written in near-identical words by the same outlet. The headline also says the ganja is worth 5 lakh rupees; the text says 2.5 lakh.",
+   "submit": "https://www.tripurastarnews.com/tripura-railway-police-seizes-05-525-kg-of-cannabis-worth-%E2%82%B95-lakh-with-1-drug-peddler-in-agartala-railway-station/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "in": 1
+    },
+    "date": {
+     "value": "2026-11-13"
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1
+    },
+    "place": {
+     "coordinates": [
+      23.7917,
+      91.2791
+     ],
+     "within_km": 30
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 5.525
+     },
+     "arrested": {
+      "value": 1
+     },
+     "value": {
+      "amount": 250000,
+      "currency": "INR"
+     }
+    },
+    "figures_optional": [
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 24.625,
+      "why": "the weight of the other seizure that day"
+     },
+     {
+      "key": "arrested",
+      "value": 2,
+      "why": "the two men of the other seizure"
+     },
+     {
+      "key": "value.amount",
+      "value": 500000,
+      "why": "the headline's figure",
+      "not the text's": null
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the weight as stated",
+      "any": [
+       "5\\.525"
+      ]
+     },
+     {
+      "say": "it was on platform 1 of the station",
+      "any": [
+       "platform"
+      ]
+     },
+     {
+      "say": "whose valuation it is",
+      "any": [
+       "estimated",
+       "police (put|valued|said)",
+       "black-market",
+       "according to"
+      ]
+     }
+    ],
+    "must_not_say": [
+     {
+      "say": "two men were held",
+      "any": [
+       "two men",
+       "two people",
+       "both men"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "agartala-railway-5525kg-cannabis",
+     "existing_report": "",
+     "decision_title": "5.525 kg ganja seizure in Agartala",
+     "explanation": "The report was committed to the local repository (f1280949fd42). It is available in local development; pushing is separate.",
+     "model_explanation": "A man was arrested at Agartala Railway Station on 13 November with 5.525 kg of suspected ganja, and railway police registered Case 2026GRP080. This is separate from the two-man, 24.625 kg seizure at the same station recorded under Case 2026GRP081; the other matched reports concern different operations, dates or places. The body gives a value estimate of ₹2.5 lakh, while the headline says ₹5 lakh, so the body figure is used and the discrepancy remains open.",
+     "flags": [
+      "A web search returned the tracker's own pages (it was told to ignore them): https://tracker.cannabisfreedom.fyi/report/agartala-railway-5525kg-cannabis/, https://tracker.cannabisfreedom.fyi/report/agartala-railway-24625kg-cannabis/"
+     ],
+     "usage": {
+      "seconds": 586,
+      "research_seconds": 520,
+      "steps": 6,
+      "searches": 7,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 84460,
+      "output_tokens": 10253,
+      "reasoning_tokens": 15702,
+      "cache_read_tokens": 254464,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Agartala Railway Police 5.525 kg ganja Niraj Kumar 2026GRP080",
+      "\"2026GRP080\" Agartala ganja November 13 2026",
+      "\"GRP Case No. 2026GRP080\" OR \"2026GRP080\" railway police",
+      "\"Niraj Kumar\" \"Agartala\" \"5.525\" ganja November 2026",
+      "Tripura 5.525 kg cannabis Agartala railway station November 13 Niraj 19",
+      "Agartala GRP 5.525 kg ganja arrested Friday November 13 railway station 2026",
+      "আগরতলা স্টেশনে ৫.৫২৫ কেজি গাঁজা নিরাজ কুমার নভেম্বর ২০২৬"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "One arrested with 5.525 kg of suspected ganja at Agartala station",
+      "summary": "Railway Police arrested one man at Agartala Railway Station on 13 November 2026 after finding 5.525 kg of suspected ganja in his bag. Police estimated the consignment's black-market value at about ₹2.5 lakh and registered an NDPS Act case.",
+      "date": "2026-11-13",
+      "country": "in",
+      "type": "seizure",
+      "also": [
+       "arrest"
+      ],
+      "place": "Agartala Railway Station, Platform No. 1, Agartala, Tripura",
+      "coordinates": [
+       23.7917,
+       91.2791
+      ],
+      "figures": {
+       "arrested": 1,
+       "kg_seized": 5.525,
+       "value": {
+        "amount": 250000,
+        "currency": "INR"
+       }
+      },
+      "details": {
+       "agencies": [
+        "Government Railway Police (GRP)",
+        "Railway Protection Force (RPF)"
+       ],
+       "agency_types": [
+        "police"
+       ],
+       "products": [
+        {
+         "product": "flower",
+         "kg": 5.525
+        }
+       ],
+       "activity": [
+        "possession"
+       ],
+       "charges": [
+        "Sections 20(b)(ii)(B)/29 of NDPS Act, 1985"
+       ],
+       "case_stage": "investigation",
+       "date_precision": "exact",
+       "region": "Tripura"
+      },
+      "tags": [
+       "agartala",
+       "tripura",
+       "ganja",
+       "railway",
+       "seizure"
+      ],
+      "sources": [
+       {
+        "url": "https://www.tripurastarnews.com/tripura-railway-police-seizes-05-525-kg-of-cannabis-worth-%E2%82%B95-lakh-with-1-drug-peddler-in-agartala-railway-station/",
+        "title": "Tripura Railway Police Seizes 05.525 Kg Of Cannabis Worth ₹5 Lakh With 1 Drug Peddler In Agartala Railway Station.",
+        "publisher": "Tripura Star News",
+        "date": "2026-11-14",
+        "language": ""
+       }
+      ],
+      "media": [],
+      "open_questions": [
+       "The headline values the seizure at ₹5 lakh, while the body gives an approximate black-market value of ₹2.5 lakh; this report uses the body figure.",
+       "The substance was described as suspected ganja; no laboratory confirmation was reported.",
+       "The source and intended destination of the cannabis were not reported.",
+       "No court production, charge-sheet or court outcome was reported.",
+       "Only one accessible account of this seizure was found; no separate agency statement or second outlet account was located."
+      ],
+      "body": "A joint operation by the Government Railway Police (GRP) and Railway Protection\nForce (RPF) was launched at Agartala Railway Station on 13 November 2026 after\npolice received specific information. At about 9 a.m., Sub-Inspector\nBiswajit Das and other Agartala GRPS staff apprehended one man on a bench on\nplatform 1, in front of the parking area between the RPF post and the\npay-and-use toilet. Police identified him as 19-year-old Niraj Kumar of\nJehanabad district in Bihar.\n\nOfficers recovered 5.525 kg of suspected ganja from a pithu bag in his\npossession. Railway Police arrested him and registered Agartala GRPS Case\nNo. 2026GRP080 under sections 20(b)(ii)(B)/29 of the Narcotic Drugs and\nPsychotropic Substances Act, 1985. Police estimated the seized substance's\nblack-market value at approximately ₹2.5 lakh.\n\nInspector Raju Bhowmik, officer in charge of Agartala Railway Police Station,\ngave details of the operation to the media and said railway police would\ncontinue such operations against illegal contraband.",
+      "words": 154
+     },
+     "dimensions": {
+      "facts": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "in",
+         "got": "in"
+        },
+        {
+         "label": "Date of the event",
+         "score": 1,
+         "expected": "2026-11-13",
+         "got": "2026-11-13"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "seizure or arrest",
+         "got": "seizure + arrest"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 30 km of 23.7917, 91.2791",
+         "got": "Agartala Railway Station, Platform No. 1, Agartala, Tripura (0 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "kg_seized",
+         "score": 1,
+         "expected": "5.525",
+         "got": "5.525"
+        },
+        {
+         "label": "arrested",
+         "score": 1,
+         "expected": "1",
+         "got": "1"
+        },
+        {
+         "label": "value",
+         "score": 1,
+         "expected": "250000 INR",
+         "got": "{\"amount\":250000,\"currency\":\"INR\"}"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "products",
+         "score": 1,
+         "expected": "flower",
+         "got": "flower"
+        }
+       ],
+       "weight": 10
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says the weight as stated",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says it was on platform 1 of the station",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says whose valuation it is",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Does not say two men were held",
+         "score": 1,
+         "expected": "not in the text",
+         "got": "correct"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "65"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "7 of 7",
+         "got": "7 of 7"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "in-vidisha-early-brief",
+   "title": "An early brief on the Byauchi village raid",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages",
+    "units"
+   ],
+   "why": "A two-sentence Hindi brief: three police stations raided a village at night and recovered \"one quintal\" of ganja. The tracker already has this raid from the fuller accounts that followed, under another spelling of the village (Byochi) and the exact weight (104.14 kg, one man arrested). In production this brief was written up as a second report; it belongs with the existing one.",
+   "submit": "https://www.bhaskar.com/local/mp/vidisha/news/police-from-three-police-stations-raided-byauchi-village-one-quintal-of-marijuana-recovered-dbp-139640902.html",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "vidisha-byochi-104kg-ganja-arrest"
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "additional_source",
+     "model_outcome": "additional_source",
+     "report_slug": "vidisha-byochi-104kg-ganja-arrest",
+     "existing_report": "vidisha-byochi-104kg-ganja-arrest",
+     "decision_title": "Early report confirms Byauchi seizure",
+     "explanation": "The source was added to the existing report “Man arrested with 104.14 kg of ganja in a Vidisha village shed” and committed to the local repository (b47274f98484). It is available in local development; pushing is separate.",
+     "model_explanation": "Dainik Bhaskar's 10 November brief says a joint team from three police stations raided Byauchi late Monday and recovered one quintal of ganja. The same village and multi-station raid are recorded in vidisha-byochi-104kg-ganja-arrest, so this is corroborating early coverage, not a separate seizure; the brief's rounded quantity differs from the 104.14 kg reported in later accounts.",
+     "flags": [],
+     "usage": {
+      "seconds": 456,
+      "research_seconds": 419,
+      "steps": 6,
+      "searches": 8,
+      "pages_opened": 3,
+      "runs": 1,
+      "input_tokens": 46267,
+      "output_tokens": 2113,
+      "reasoning_tokens": 10262,
+      "cache_read_tokens": 144512,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Byauchi Vidisha quintal ganja police raid November 2026",
+      "ब्यौंची गांव विदिशा एक क्विंटल गांजा पुलिस दबिश",
+      "ब्यौंची विदिशा गांजा 100 किलो नवंबर 2026",
+      "\"Byauchi\" \"104.14\" ganja Vidisha",
+      "\"ब्यौंची\" \"गांजा\" विदिशा पुलिस गिरफ्तार",
+      "\"ब्यौची\" \"गांजा\" विदिशा 2026",
+      "\"ब्यौंची गांव\" गांजा",
+      "\"Byochi\" ganja Vidisha 104 kg"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "additional_source or duplicate → vidisha-byochi-104kg-ganja-arrest",
+      "got": "additional source → vidisha-byochi-104kg-ganja-arrest"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "it-castel-volturno-spanish-copy",
+   "title": "A Spanish-language copy of an Italian report",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "Il Mattino's machine-translated Spanish page for its own Italian report of the Castel Volturno arrest, mostly behind a paywall. The tracker's report was written from Italian sources and speaks of 9.6 kg of cannabis; this teaser says \"more than 11 kilos\" of hashish, marijuana and cocaine. It is the same event.",
+   "submit": "https://www.ilmattino.it/AMP/es/incautacion_record_de_estupefacientes_en_la_costa_de_caserta-9889706.html",
+   "expect": {
+    "outcome": {
+     "duplicate": 1,
+     "additional_source": 1,
+     "existing_case": 0.5,
+     "insufficient_evidence": 0.5
+    },
+    "existing_report": "castel-volturno-31-year-old-96kg-cannabis-arrest"
+   },
+   "attempts": [
+    {
+     "status": "duplicate",
+     "outcome": "duplicate",
+     "model_outcome": "duplicate",
+     "report_slug": "castel-volturno-31-year-old-96kg-cannabis-arrest",
+     "existing_report": "castel-volturno-31-year-old-96kg-cannabis-arrest",
+     "decision_title": "Same Il Mattino article already cited",
+     "explanation": "The Spanish AMP page describes the Castel Volturno arrest of a 31-year-old and a seizure of more than 11 kg of hashish, marijuana and cocaine. The existing report, castel-volturno-31-year-old-96kg-cannabis-arrest, already covers this 13 November operation and cites the same Il Mattino Spanish article at its standard URL; the AMP rendering adds no distinct account or new detail. The opened Caserta Questura statement independently confirms the same arrest and seizure.",
+     "model_explanation": "The Spanish AMP page describes the Castel Volturno arrest of a 31-year-old and a seizure of more than 11 kg of hashish, marijuana and cocaine. The existing report, castel-volturno-31-year-old-96kg-cannabis-arrest, already covers this 13 November operation and cites the same Il Mattino Spanish article at its standard URL; the AMP rendering adds no distinct account or new detail. The opened Caserta Questura statement independently confirms the same arrest and seizure.",
+     "flags": [],
+     "usage": {
+      "seconds": 172,
+      "research_seconds": 146,
+      "steps": 4,
+      "searches": 3,
+      "pages_opened": 1,
+      "runs": 1,
+      "input_tokens": 53734,
+      "output_tokens": 1398,
+      "reasoning_tokens": 5901,
+      "cache_read_tokens": 111488,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Castel Volturno oltre 11 chili hashish marijuana arrestato 31enne 2026",
+      "Castel Volturno 11 chili hashish marijuana cocaina 31enne 14 novembre 2026",
+      "\"Castel Volturno\" \"11 chili\" droga 31enne"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "duplicate or additional_source → castel-volturno-31-year-old-96kg-cannabis-arrest",
+      "got": "duplicate → castel-volturno-31-year-old-96kg-cannabis-arrest"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "jp-cocaine-arrest-cannabis-past",
+   "title": "A musician's cocaine arrest, with an old cannabis conviction as background",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "languages"
+   ],
+   "why": "A Japanese magazine piece on a rock singer arrested in November 2026 for using cocaine. It recalls his 2019 conviction for possessing cannabis and cocaine. The new arrest involves no cannabis, and the 2019 case is only recalled, not reported.",
+   "submit": "https://topics.smt.docomo.ne.jp/article/bunshun/nation/bunshun-93676",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "JESSE cocaine arrest outside cannabis scope",
+     "explanation": "The submitted Bunshun item reports that JESSE was arrested on 4 November on suspicion of cocaine use; Yomiuri and Asahi also report the cocaine-use arrest (sources 1–3). It mentions a 2019 case involving cannabis and cocaine only as background, not as part of the 2026 incident (source 1). The reported 2026 event has no established cannabis enforcement component, so it is outside the tracker’s substance scope.",
+     "model_explanation": "The submitted Bunshun item reports that JESSE was arrested on 4 November on suspicion of cocaine use; Yomiuri and Asahi also report the cocaine-use arrest (sources 1–3). It mentions a 2019 case involving cannabis and cocaine only as background, not as part of the 2026 incident (source 1). The reported 2026 event has no established cannabis enforcement component, so it is outside the tracker’s substance scope.",
+     "flags": [],
+     "usage": {
+      "seconds": 170,
+      "research_seconds": 147,
+      "steps": 4,
+      "searches": 1,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 79546,
+      "output_tokens": 1298,
+      "reasoning_tokens": 5972,
+      "cache_read_tokens": 133504,
+      "cost_usd": 0
+     },
+     "searches": [
+      "JESSE コカイン 使用 逮捕 2026年11月4日 警視庁"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "ly-ajdabiya-hashish-tramadol",
+   "title": "Two held in an Ajdabiya flat with hashish and tramadol",
+   "family": "new-event",
+   "tests": [
+    "mixed-substances",
+    "languages",
+    "corroboration"
+   ],
+   "why": "An Arabic police statement from Libya. Two kilograms of hashish count; the 5,529 tramadol pills and the 16,500 dinars found with them do not belong in the cannabis figures.",
+   "submit": "https://www.lananews.com/ar/?p=510230",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "ly": 1
+    },
+    "date": {
+     "value": "2026-10-22",
+     "tolerance_days": 1
+    },
+    "type": {
+     "arrest": 1,
+     "raid": 1,
+     "seizure": 1
+    },
+    "place": {
+     "coordinates": [
+      30.7555,
+      20.2253
+     ],
+     "within_km": 50
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 2
+     },
+     "arrested": {
+      "value": 2
+     }
+    },
+    "figures_optional": [
+     "cash",
+     "charged",
+     "sites"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 5529,
+      "why": "tramadol pills taken for a cannabis quantity"
+     }
+    ],
+    "details": {
+     "products": [
+      "hashish"
+     ],
+     "setting": [
+      "home"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the tramadol",
+      "kept apart from the hashish": null,
+      "any": [
+       "tramadol"
+      ]
+     },
+     {
+      "say": "it was a flat",
+      "any": [
+       "flat",
+       "apartment"
+      ]
+     },
+     {
+      "say": "referred to the public prosecution",
+      "any": [
+       "prosecut"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "lananews.com",
+      "libyaakhbar.com",
+      "alwasat.ly",
+      "afrigatenews.net",
+      "akhbarlibya24.net",
+      "alsaaa24.com",
+      "libyaobserver.ly",
+      "lj-bc.tv",
+      "almarsad.co",
+      "218tv.net"
+     ],
+     "markers": [
+      "أجدابيا",
+      "اجدابيا",
+      "كيلوغرامين",
+      "5529",
+      "ترامادول",
+      "Ajdabiya"
+     ],
+     "markers_min": 2
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "0e805a1f-6d91-4a90-ab22-382585fabc23"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "ajdabiya-two-arrests-2kg-hashish-raid",
+     "existing_report": "",
+     "decision_title": "Ajdabiya raid nets 2 kg hashish",
+     "explanation": "The report was committed to the local repository (0e2d63d26b24). 2 of 2 new photos and videos got a thumbnail or poster. It is available in local development; pushing is separate.",
+     "model_explanation": "Ajdabiya police arrested two suspects during a residential-apartment raid and seized 2 kilograms of hashish. Two opened accounts report 5,529 tramadol tablets in 59 boxes, while another gives 3,690 in 39 boxes; the tramadol discrepancy is noted separately and excluded from the cannabis figures. The opened reporting and event-captioned images establish a specific enforcement event suitable for a new report.",
+     "flags": [],
+     "usage": {
+      "seconds": 766,
+      "research_seconds": 683,
+      "steps": 10,
+      "searches": 2,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 81658,
+      "output_tokens": 12927,
+      "reasoning_tokens": 18595,
+      "cache_read_tokens": 457600,
+      "cost_usd": 0
+     },
+     "searches": [
+      "أجدابيا شقة 2 كيلو حشيش 16500 دينار أكتوبر 2026 البحث الجنائي",
+      "أجدابيا ضبط كيلوغرامين الحشيش 5529 ترامادول 23 أكتوبر 2026"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "Two arrested as Ajdabiya police seize 2 kg of hashish",
+      "summary": "Ajdabiya's Criminal Investigation Department arrested two suspects after raiding a residential apartment and seized 2 kilograms of hashish. The same raid yielded tramadol tablets and LYD 16,500; accounts differed on the number of tramadol tablets.",
+      "date": "2026-10-22",
+      "country": "ly",
+      "type": "arrest",
+      "also": [
+       "seizure",
+       "raid"
+      ],
+      "place": "Ajdabiya",
+      "coordinates": [
+       30.7556,
+       20.2263
+      ],
+      "figures": {
+       "arrested": 2,
+       "kg_seized": 2,
+       "sites": 1,
+       "cash": {
+        "amount": 16500,
+        "currency": "LYD"
+       }
+      },
+      "details": {
+       "agencies": [
+        "Ajdabiya Security Directorate Criminal Investigation Department"
+       ],
+       "agency_types": [
+        "police"
+       ],
+       "products": [
+        {
+         "product": "hashish",
+         "kg": 2
+        }
+       ],
+       "setting": [
+        "home"
+       ],
+       "case_stage": "investigation",
+       "date_precision": "exact"
+      },
+      "tags": [
+       "ajdabiya",
+       "hashish",
+       "libya",
+       "apartment-raid",
+       "arrest"
+      ],
+      "sources": [
+       {
+        "url": "https://www.lananews.com/ar/?p=510230",
+        "title": "البحث الجنائي بأجدابيا يضبط شحنة من المواد المخدرة",
+        "publisher": "صحيفة الأنباء الليبية",
+        "date": "2026-10-23",
+        "language": "ar"
+       },
+       {
+        "url": "https://alwasat.ly/news/482548",
+        "title": "مصادرة كيلوغرامين «حشيش» و5529 قرص «ترامادول» في أجدابيا",
+        "publisher": "بوابة الوسط",
+        "date": "2026-10-23",
+        "language": "ar"
+       },
+       {
+        "url": "https://www.alsaaa24.com/2026/10/22/%D8%A3%D9%85%D9%86-%D8%A3%D8%AC%D8%AF%D8%A7%D8%A8%D9%8A%D8%A7-%D9%8A%D8%B6%D8%A8%D8%B7-%D9%83%D9%8A%D9%84%D9%88%D8%AC%D8%B1%D8%A7%D9%85%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A/",
+        "title": "“أمن أجدابيا” يضبط كيلوجرامين من الحشيش وآلاف أقراص الترامادول",
+        "publisher": "الساعة 24",
+        "date": "2026-10-22",
+        "language": "ar"
+       }
+      ],
+      "media": [
+       {
+        "kind": "photo",
+        "url": "https://alwasat.ly/news/482548",
+        "media_url": "https://alwasat.ly/media/0e805a1f-6d91-4a90-ab22-382585fabc23",
+        "caption": "Pieces of hashish, tramadol boxes and seized money from the Ajdabiya apartment raid. Photo: Ajdabiya Security Directorate."
+       },
+       {
+        "kind": "photo",
+        "url": "https://alwasat.ly/news/482548",
+        "media_url": "https://alwasat.ly/media/e2fd79eb-916e-49d4-948e-05c345f52e37",
+        "caption": "Pieces of hashish, tramadol boxes and seized money from the Ajdabiya apartment raid. Photo: Ajdabiya Security Directorate."
+       },
+       {
+        "kind": "photo",
+        "url": "https://alwasat.ly/news/482548",
+        "media_url": "https://alwasat.ly/media/13a56c3c-5558-43f6-9f1a-e0bdf823d4c8",
+        "caption": "Pieces of hashish, tramadol boxes and seized money from the Ajdabiya apartment raid. Photo: Ajdabiya Security Directorate."
+       }
+      ],
+      "open_questions": [
+       "LANA's dual-form wording indicates two suspects, while Al-Wasat says the number arrested was not specified.",
+       "The tramadol count is unresolved: LANA and Al-Wasat report 5,529 tablets in 59 boxes, while Al-Saaa24 reports 3,690 tablets in 39 boxes.",
+       "The suspects were referred to the public prosecution, but no formal charge, detention decision or court outcome is reported."
+      ],
+      "body": "Police in Ajdabiya arrested two suspects and referred both to the public\nprosecutor after raiding a residential apartment in the city. Ajdabiya\nSecurity's photo caption dates the raid to 22 October 2026. The searched\napartment was on the third floor of a residential building in the city.\n\nThe Criminal Investigation Department of the Ajdabiya Security Directorate acted\non information from private sources that narcotics and hallucinogenic pills were\nin the apartment. The tip said the items were to be moved to an unknown\nplace to hide them and cover up distribution activity. Investigators opened\nan inquiry, checked the information, notified the department and\ninvestigation-unit chiefs, informed the public prosecutor and obtained legal\nauthorization before searching the apartment. The search yielded 2\nkilograms of hashish, 59 boxes of tramadol containing 5,529 tablets and LYD\n16,500 in cash. Another account gave the tramadol total as 39 boxes\ncontaining 3,690 tablets.\n\nThe seized goods were hidden in a bag designed to carry children, and the\nsuspects were taken to the department's headquarters to complete\nevidence-gathering procedures. The police unit said the suspects admitted\nwhat was attributed to them during evidence-gathering before referral to the\nPublic Prosecution for legal action.",
+      "words": 196
+     },
+     "dimensions": {
+      "facts": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "ly",
+         "got": "ly"
+        },
+        {
+         "label": "Date of the event",
+         "score": 1,
+         "expected": "2026-10-22 (within 1 days)",
+         "got": "2026-10-22"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "arrest or raid or seizure",
+         "got": "arrest + seizure + raid"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 50 km of 30.7555, 20.2253",
+         "got": "Ajdabiya (0 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "kg_seized",
+         "score": 1,
+         "expected": "2",
+         "got": "2"
+        },
+        {
+         "label": "arrested",
+         "score": 1,
+         "expected": "2",
+         "got": "2"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "products",
+         "score": 1,
+         "expected": "hashish",
+         "got": "hashish"
+        },
+        {
+         "label": "setting",
+         "score": 1,
+         "expected": "home",
+         "got": "home"
+        }
+       ],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Independent outlets on this event",
+         "score": 1,
+         "expected": "2 or more",
+         "got": "3"
+        },
+        {
+         "label": "صحيفة الأنباء الليبية",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "lananews.com: about this event"
+        },
+        {
+         "label": "بوابة الوسط",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "alwasat.ly: about this event"
+        },
+        {
+         "label": "الساعة 24",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "alsaaa24.com: about this event"
+        }
+       ],
+       "weight": 15
+      },
+      "photos": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Known photo of the event",
+         "score": 1,
+         "expected": "linked",
+         "got": "https://alwasat.ly/media/0e805a1f-6d91-4a90-ab22-382585fabc23"
+        },
+        {
+         "label": "Another picture (opens; not one of the known photos)",
+         "score": 0.6,
+         "expected": "a photo of the event",
+         "got": "https://alwasat.ly/media/e2fd79eb-916e-49d4-948e-05c345f52e37",
+         "note": "Pieces of hashish, tramadol boxes and seized money from the Ajdabiya apartment raid. Photo: Ajdabiya Security Directorate."
+        },
+        {
+         "label": "Another picture (opens; not one of the known photos)",
+         "score": 0.6,
+         "expected": "a photo of the event",
+         "got": "https://alwasat.ly/media/13a56c3c-5558-43f6-9f1a-e0bdf823d4c8",
+         "note": "Pieces of hashish, tramadol boxes and seized money from the Ajdabiya apartment raid. Photo: Ajdabiya Security Directorate."
+        }
+       ],
+       "weight": 10
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says the tramadol",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says it was a flat",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says referred to the public prosecution",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "53"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "10 of 10",
+         "got": "10 of 10"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "no-kristiansand-appeal",
+   "title": "A Norwegian appeal ruling in a case the tracker has",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "\"Got a pistol to his head and a finger broken: now his sentence is halved.\" Nothing in the headline says cannabis. The article is the appeal in the case of a man stopped at the Kristiansand ferry terminal with 18.5 kg of hashish, which the tracker records, with the appeal, under a report dated a year earlier.",
+   "submit": "https://www.krs.no/fikk-pistol-mot-hodet-og-fingeren-brukket-na-far-han-halvert-straffen/s/80-157-59933",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 1
+    },
+    "existing_report": "kristiansand-18-5kg-hash-sentence-halved"
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "additional_source",
+     "model_outcome": "additional_source",
+     "report_slug": "kristiansand-18-5kg-hash-sentence-halved",
+     "existing_report": "kristiansand-18-5kg-hash-sentence-halved",
+     "decision_title": "Appeal coverage added to existing case",
+     "explanation": "The source was added to the existing report “German's sentence halved after 18.5 kg hash seizure in Kristiansand” and committed to the local repository (8b789bc71d41). It is available in local development; pushing is separate.",
+     "model_explanation": "The KRS article reports the same Kristiansand hash-smuggling appeal already covered in the existing report: the court halved the four-year term after finding it unproved that the man knew about the cocaine. I am adding KRS as a corroborating source and its Customs photo; it explicitly states the final two-year sentence and that the sentence was for importing hashish. TV 2 also independently reports the same appeal and confirms the outcome.",
+     "flags": [],
+     "usage": {
+      "seconds": 665,
+      "research_seconds": 623,
+      "steps": 9,
+      "searches": 3,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 79392,
+      "output_tokens": 7513,
+      "reasoning_tokens": 22241,
+      "cache_read_tokens": 427520,
+      "cost_usd": 0
+     },
+     "searches": [
+      "\"18,566 kilo hasj\" Kristiansand smugling",
+      "Kristiansand 18,566 kilo hasj 996,7 kokain lagmannsrett 2026",
+      "\"374 dager\" hasj Kristiansand lagmannsrett 2026"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "additional_source or duplicate or existing_case → kristiansand-18-5kg-hash-sentence-halved",
+      "got": "additional source → kristiansand-18-5kg-hash-sentence-halved"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "pk-islamabad-foreign-outlet",
+   "title": "A Nigerian paper on arrests the tracker has from Pakistan",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "mixed-substances"
+   ],
+   "why": "The Anti-Narcotics Force arrested 20 Nigerians in Islamabad and Rawalpindi; 750 g of \"weed\" was among mostly cocaine and methamphetamine. The tracker has the event from Pakistani sources. This account comes from a Nigerian outlet, with the country and angle that implies.",
+   "submit": "https://gazettengr.com/20-nigerians-arrested-in-pakistan-over-alleged-drug-trafficking/",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "islamabad-rawalpindi-20-arrested-750g-weed"
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "additional_source",
+     "model_outcome": "additional_source",
+     "report_slug": "islamabad-rawalpindi-20-arrested-750g-weed",
+     "existing_report": "islamabad-rawalpindi-20-arrested-750g-weed",
+     "decision_title": "Additional account of ANF arrests",
+     "explanation": "The source was added to the existing report “20 Nigerians arrested as ANF seizes 750 g of weed in twin cities” and committed to the local repository (f7671f16047f). It is available in local development; pushing is separate.",
+     "model_explanation": "Peoples Gazette reports the same ANF operation in Islamabad and Rawalpindi, involving 20 Nigerian nationals and the 750-gram weed seizure already covered by the existing report. The Thursday Times also corroborates the arrests, the seizure breakdown and the account that two suspects had been on bail. Peoples Gazette says the raids took place on Thursday, pointing to 12 November, while the existing report uses 11 November based on the date the ANF statement was reported; the operation date needs reconciliation.",
+     "flags": [],
+     "usage": {
+      "seconds": 354,
+      "research_seconds": 326,
+      "steps": 9,
+      "searches": 3,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 61344,
+      "output_tokens": 3170,
+      "reasoning_tokens": 12782,
+      "cache_read_tokens": 358912,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Pakistan ANF 20 Nigerians 750 grams weed Islamabad Rawalpindi November 2026",
+      "\"ANF arrests 20 Nigerian nationals\" \"750\" weed Rawalpindi Islamabad",
+      "site:anf.gov.pk \"20 Nigerian\" 750 weed Rawalpindi Islamabad ANF November 2026"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "additional_source or duplicate → islamabad-rawalpindi-20-arrested-750g-weed",
+      "got": "additional source → islamabad-rawalpindi-20-arrested-750g-weed"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "pl-jelenia-gora-second-outlet",
+   "title": "A second Polish outlet on the Jelenia Góra sentence",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "The tracker has the four-year sentence for bringing 2.5 kg of marijuana from Czechia. This local portal reports the same judgment. It should be added to that report, not written up again.",
+   "submit": "https://www.bolec.info/boleslawiec/informacje/kategoria/45842/cztery-lata-wiezienia-za-przywoz-25-kg-marihuany-z-czech",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "jelenia-gora-court-organizer-2-5-kg-marijuana-from-czech-republic"
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "additional_source",
+     "model_outcome": "additional_source",
+     "report_slug": "jelenia-gora-court-organizer-2-5-kg-marijuana-from-czech-republic",
+     "existing_report": "jelenia-gora-court-organizer-2-5-kg-marijuana-from-czech-republic",
+     "decision_title": "Additional reporting on existing sentence",
+     "explanation": "The source was added to the existing report “Jelenia Góra court sentences organizer of 2.5 kg Czech marijuana haul to 4 years” and committed to the local repository (bffd8ed4df15). It is available in local development; pushing is separate.",
+     "model_explanation": "Bolec.Info reports the 2 November 2026 Jelenia Góra conviction and four-year, non-final sentence for organizing the same 2.5 kg Czech marijuana import already covered by jelenia-gora-court-organizer-2-5-kg-marijuana-from-czech-republic. Zgorzelec.info also reports the same case, and both accounts attribute key details to the Jelenia Góra Regional Prosecutor's Office; no second report is warranted. The opened accounts add the alleged January–October 2023 timeframe and October 2024 indictment date, which are mapped to the existing paragraph. The existing English body calls Sąd Okręgowy the “District Court”; the Polish sources identify a Sąd Okręgowy (Regional Court), so that wording requires a later body-text correction not expressible as a new factual sentence here.",
+     "flags": [],
+     "usage": {
+      "seconds": 594,
+      "research_seconds": 549,
+      "steps": 9,
+      "searches": 1,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 71681,
+      "output_tokens": 5546,
+      "reasoning_tokens": 17951,
+      "cache_read_tokens": 343680,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Jelenia Góra 2,5 kg marihuany 35-latek 4 lata więzienia 2 listopada 2026 prokuratura"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "additional_source or duplicate → jelenia-gora-court-organizer-2-5-kg-marijuana-from-czech-republic",
+      "got": "additional source → jelenia-gora-court-organizer-2-5-kg-marijuana-from-czech-republic"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "sn-kush-synthetic-name",
+   "title": "44 pieces of \"Kush\" seized in Thiaroye",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "terminology",
+    "languages"
+   ],
+   "why": "In West Africa \"Kush\" is the street name of a synthetic drug (synthetic cannabinoids, often with nitazene opioids), not a cannabis variety. The article names nothing else. The substance has to be identified from evidence, not from a trade name, and the tracker already holds real cannabis cases from the same suburb.",
+   "submit": "https://www.seneweb.com/fr/news/Societe/thiaroye-kao-une-operation-policiere-demantele-un-reseau-presume-de-trafic-de-kush_n_999003608.html",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "insufficient_evidence",
+     "outcome": "insufficient_evidence",
+     "model_outcome": "needs_review",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "Kush batch needs identification",
+     "explanation": "Two opened accounts report that police arrested two suspects in Thiaroye Kao on 13 November 2026 and seized 44 units described as Kush. A separate Seneweb investigation describes Dakar-market Kush as a synthetic-drug cannabinoid mixture, but neither account of this seizure gives a chemical analysis of the seized units. Because synthetic cannabinoids are out of scope and no separate cannabis component is established, this case needs review; batch-specific testing or a police identification distinguishing cannabis from a synthetic mixture would resolve eligibility.",
+     "model_explanation": "Two opened accounts report that police arrested two suspects in Thiaroye Kao on 13 November 2026 and seized 44 units described as Kush. A separate Seneweb investigation describes Dakar-market Kush as a synthetic-drug cannabinoid mixture, but neither account of this seizure gives a chemical analysis of the seized units. Because synthetic cannabinoids are out of scope and no separate cannabis component is established, this case needs review; batch-specific testing or a police identification distinguishing cannabis from a synthetic mixture would resolve eligibility.",
+     "flags": [],
+     "usage": {
+      "seconds": 372,
+      "research_seconds": 334,
+      "steps": 7,
+      "searches": 12,
+      "pages_opened": 4,
+      "runs": 1,
+      "input_tokens": 379004,
+      "output_tokens": 1963,
+      "reasoning_tokens": 14289,
+      "cache_read_tokens": 208000,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Senegal Kush drug synthetic cannabinoids composition 2026",
+      "Kush Senegal synthetic drug cannabis leaves chemical",
+      "Seneweb Thiaroye Kao 44 pièces Kush 13 novembre 2026 Yeumbeul Sud",
+      "\"44 pièces de Kush\" Thiaroye",
+      "\"P.Ngom\" \"E.L.Welle\" Kush Thiaroye Kao",
+      "Thiaroye Kao opération Kush Yeumbeul Sud 13 novembre 2026 arrestation",
+      "\"44 pièces de Kush\" Sénégal police novembre 2026",
+      "Senegal forensic police laboratory kush 2025 3-fluoro-ADB synthetic",
+      "Senegal Dakar Kush synthetic cannabinoids forensic police 3-fluoro-ADB 2025 GI-TOC",
+      "Seneweb Dakar Kush synthetic cannabinoids synthetic drug Kush Senegal police 2026",
+      "site:globalinitiative.net/analysis \"Mapping synthetic drug markets in West Africa\" 2026",
+      "Thiaroye Kao coordinates latitude longitude Senegal"
+     ],
+     "decision": {
+      "score": 0.5,
+      "expected": "not_relevant",
+      "got": "insufficient evidence"
+     },
+     "score": 50,
+     "verdict": "partial"
+    }
+   ],
+   "score": 50
+  },
+  {
+   "id": "tr-murder-hemp-field-motive",
+   "title": "A murder solved after 16 years, with a hemp field as the motive",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "languages"
+   ],
+   "why": "A Turkish cold case: 17 people detained and one remanded for a 2010 killing, which grew out of a quarrel over someone entering a hemp field. The arrests are for murder. Cannabis is the background of the quarrel, not what anyone was arrested for.",
+   "submit": "https://haberton.com/16-yil-sonra-aydinlatilan-cinayetin-nedeni-kenevir-tarlasina-girdin-tartismasi/",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "Murder probe, not cannabis enforcement",
+     "explanation": "The source reports that 17 people were detained in a renewed investigation into a 2010 killing, with one remanded and 16 released. It identifies a dispute over unauthorized entry into a cannabis field as the alleged motive, but reports no cannabis seizure, eradication or cannabis-related charge; the arrests concern the homicide investigation, so the event is outside the tracker’s enforcement scope.",
+     "model_explanation": "The source reports that 17 people were detained in a renewed investigation into a 2010 killing, with one remanded and 16 released. It identifies a dispute over unauthorized entry into a cannabis field as the alleged motive, but reports no cannabis seizure, eradication or cannabis-related charge; the arrests concern the homicide investigation, so the event is outside the tracker’s enforcement scope.",
+     "flags": [],
+     "usage": {
+      "seconds": 69,
+      "research_seconds": 49,
+      "steps": 2,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 29670,
+      "output_tokens": 552,
+      "reasoning_tokens": 1867,
+      "cache_read_tokens": 24576,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "us-passaic-heroin-headline",
+   "title": "A heroin-and-guns headline for a bust that included marijuana",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "mixed-substances"
+   ],
+   "why": "Nine arrests in twelve raids across Passaic County. The headline is about heroin and guns; five pounds of marijuana are one line in the list of what was seized. The tracker has this bust already, for that cannabis. Not a new event, and not out of scope either.",
+   "submit": "https://dailyvoice.com/article/12-raids-9-arrests-major-nj-drug-bust-uncovers-heroin-guns-galore-prosecutor-says/",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "passaic-county-nine-arrested-drug-gun-bust-2026"
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "additional_source",
+     "model_outcome": "additional_source",
+     "report_slug": "passaic-county-nine-arrested-drug-gun-bust-2026",
+     "existing_report": "passaic-county-nine-arrested-drug-gun-bust-2026",
+     "decision_title": "Additional account of Passaic raids",
+     "explanation": "The source was added to the existing report “Nine arrested in Passaic County drug and gun bust; five pounds of marijuana seized” and committed to the local repository (295542abd839). 1 of 1 new photos and videos got a thumbnail or poster. It is available in local development; pushing is separate.",
+     "model_explanation": "Daily Voice covers the 10 November searches and arrests already recorded in passaic-county-nine-arrested-drug-gun-bust-2026. It corroborates the nine arrests, searches across four Passaic County towns and the five-pound marijuana-and-THC-products seizure; the combined cannabis-product weight remains unresolved. The prosecutor-credited image shows eight named people arrested in the investigation.",
+     "flags": [
+      "A web search returned the tracker's own pages (it was told to ignore them): https://tracker.cannabisfreedom.fyi/report/passaic-county-nine-arrested-drug-gun-bust-2026/, https://tracker.cannabisfreedom.fyi/country/us/nj/"
+     ],
+     "usage": {
+      "seconds": 221,
+      "research_seconds": 187,
+      "steps": 4,
+      "searches": 2,
+      "pages_opened": 1,
+      "runs": 1,
+      "input_tokens": 49543,
+      "output_tokens": 2238,
+      "reasoning_tokens": 7332,
+      "cache_read_tokens": 96896,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Passaic County 12 raids 9 arrests Nov. 10 marijuana November 13 2026 prosecutor",
+      "\"12 locations\" Passaic County 9 arrested marijuana November 2026"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "additional_source or duplicate → passaic-county-nine-arrested-drug-gun-bust-2026",
+      "got": "additional source → passaic-county-nine-arrested-drug-gun-bust-2026"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  }
+ ]
+}

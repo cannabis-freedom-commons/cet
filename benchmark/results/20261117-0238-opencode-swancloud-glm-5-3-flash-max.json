@@ -1,0 +1,1382 @@
+{
+ "schema": 1,
+ "id": "20261117-0238-opencode-swancloud-glm-5-3-flash-max",
+ "label": "",
+ "subject": {
+  "id": "opencode@swancloud/glm-5.3-flash#max",
+  "harness": "opencode",
+  "provider": "swancloud",
+  "model": "glm-5.3-flash",
+  "effort": "max",
+  "agent": "swancloud/glm-5.3-flash#max",
+  "recorded": "swancloud/glm-5.3-flash#max",
+  "harness_version": "opencode v2.2.7"
+ },
+ "started_at": "2026-11-17T02:38:14.210Z",
+ "finished_at": null,
+ "complete": false,
+ "repeat": 1,
+ "concurrency": 2,
+ "protocol": {
+  "version": 1,
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "max_steps": 32,
+  "timeout_seconds": 1800,
+  "websearch": "random",
+  "context": "inline",
+  "screen": true,
+  "source_browser": true,
+  "concurrency": 2,
+  "case_deadline_minutes": 45,
+  "retry_errors": 1
+ },
+ "protocol_hash": "9be3371802af",
+ "cases_hash": "3590fabd1e59",
+ "full_set": true,
+ "tracker": {
+  "commit": "437dcd5954fd66d7934b2ff7335e4ce27d0c39e4",
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "uncommitted_changes": false
+ },
+ "scorer_version": 1,
+ "weights": {
+  "facts": 20,
+  "figures": 20,
+  "classification": 10,
+  "corroboration": 15,
+  "photos": 10,
+  "text": 15,
+  "grounding": 10
+ },
+ "dimensions": {
+  "facts": "Facts",
+  "figures": "Figures and units",
+  "classification": "Classification",
+  "corroboration": "Corroboration",
+  "photos": "Photos",
+  "text": "Report text",
+  "grounding": "Grounding"
+ },
+ "families": {
+  "new-event": "New events",
+  "known-event": "Already covered",
+  "out-of-scope": "Out of scope"
+ },
+ "summary": {
+  "score": 33.3,
+  "attempt_scores": [
+   33.3
+  ],
+  "cases": 5,
+  "attempts": 5,
+  "verdicts": {
+   "pass": 1,
+   "partial": 1,
+   "fail": 3,
+   "error": 0,
+   "skipped": 0,
+   "spoiled": 0
+  },
+  "families": {
+   "new-event": {
+    "score": 41.6,
+    "cases": 4
+   },
+   "out-of-scope": {
+    "score": 0,
+    "cases": 1
+   }
+  },
+  "capabilities": {
+   "recognised": {
+    "score": 50,
+    "cases": 4
+   },
+   "facts": {
+    "score": 46.9,
+    "cases": 4
+   },
+   "figures": {
+    "score": 37.5,
+    "cases": 4
+   },
+   "classification": {
+    "score": 43.8,
+    "cases": 4
+   },
+   "corroboration": {
+    "score": 25,
+    "cases": 2
+   },
+   "photos": {
+    "score": 33.3,
+    "cases": 3
+   },
+   "text": {
+    "score": 50,
+    "cases": 4
+   },
+   "grounding": {
+    "score": 46.9,
+    "cases": 4
+   }
+  },
+  "usage": {
+   "minutes_per_case": 5.2,
+   "steps_per_case": 19,
+   "input_tokens": 287885,
+   "output_tokens": 47234,
+   "reasoning_tokens": 32903,
+   "cache_read_tokens": 3408032,
+   "cost_usd": 0
+  }
+ },
+ "cases": [
+  {
+   "id": "br-agua-clara-early-account",
+   "title": "54 kg of cannabis found in Água Clara",
+   "family": "new-event",
+   "tests": [
+    "corroboration",
+    "mixed-substances",
+    "figures",
+    "photos",
+    "languages"
+   ],
+   "why": "The submitted page is an early, partial account from a small-town portal: three people detained and 59 bricks of about 54 kg. The police statement that regional outlets carried a day later gives the full picture: five men arrested (four in the act, one on a warrant) and smaller amounts found elsewhere. A good researcher finds the fuller accounts. The 120 g of cocaine stay out of the cannabis weight.",
+   "submit": "https://www.aguaclarams.com.br/artigo/denuncia-anonima-tentativa-de-fuga-e-operacao-policial-terminam-com-apreensao-de-cocaina-e-maconha-em-agua-clara",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "br": 1
+    },
+    "date": {
+     "value": "2026-11-04",
+     "also": {
+      "2026-11-05": 1
+     }
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1,
+     "raid": 1
+    },
+    "place": {
+     "coordinates": [
+      -20.4478,
+      -52.8778
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 54.52,
+      "tolerance": 0.012
+     },
+     "arrested": {
+      "value": 5,
+      "partial": [
+       3
+      ]
+     }
+    },
+    "figures_optional": [
+     "cash",
+     "vehicles",
+     "sites",
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 59,
+      "why": "number of bricks taken for the weight"
+     },
+     {
+      "key": "arrested",
+      "value": 1,
+      "why": "only the driver counted"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower",
+      "hashish"
+     ],
+     "agencies": [
+      "br-pm",
+      "Polícia Militar",
+      "Military Police",
+      "Polícia Civil",
+      "Civil Police"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the 59 bricks",
+      "any": [
+       "59"
+      ]
+     },
+     {
+      "say": "the cocaine",
+      "kept apart": null,
+      "any": [
+       "cocaine"
+      ]
+     },
+     {
+      "say": "it started with an anonymous tip",
+      "any": [
+       "anonymous",
+       "tip"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "aguaclarams.com.br",
+      "radiocacula.com.br",
+      "estadoms.com.br",
+      "pc.ms.gov.br",
+      "jpnews.com.br",
+      "perfilnews.com.br",
+      "hojemais.com.br",
+      "campograndenews.com.br",
+      "midiamax.uol.com.br"
+     ],
+     "markers": [
+      "Água Clara",
+      "59 tabletes",
+      "54,",
+      "VW/Gol",
+      "VW Gol"
+     ],
+     "markers_min": 3
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "07e870f81b10431c99aa475fa85d9990",
+      "WhatsApp-Image-2026-11-05-at-14.23.31"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 02:44 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 312,
+      "research_seconds": 281,
+      "steps": 32,
+      "searches": 30,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 29189,
+      "output_tokens": 1459,
+      "reasoning_tokens": 51,
+      "cache_read_tokens": 824897,
+      "cost_usd": 0
+     },
+     "searches": [
+      "\"Água Clara\" maconha 54 quilos \"59 tabletes\" PM",
+      "\"Água Clara\" maconha \"54 quilos\" apreensão novembro 2026",
+      "\"Água Clara\" drogas \"bairro Jardim das Palmeiras\" \"VW Gol\"",
+      "\"Água Clara\" MS maconha apreensão novembro 2026 prisão",
+      "\"Água Clara\" \"62 quilos\" OR \"54 kg\" OR maconha prisão \"Policia Militar\" novembro",
+      "Água Clarke MS 54 quilos maconha preso novembro 2026",
+      "\"Água Clara\" MS \"maconha\" prisão \"04 de novembro\" OR \"quarta-feira (4)\" 2026",
+      "\"Água Clara\" MS 54 kg maconha 2026",
+      "\"Água Clara\" MS drogas apreensão novembro 2026",
+      "\"Água Clara\" MS \"maconha\" \"quarta\" novembro 2026 PM",
+      "\"Água Clara\" MS \"54 quilos\" maconha",
+      "\"Água Clara\" apreensão cocaína maconha tabletes",
+      "\"Água Clara\" MS \"Jardim das Palmeiras\" drogas",
+      "\"Água Clara\" MS \"54 quilos\" OR \"59 tabletes\" maconha",
+      "\"Água Clara\" MS \"Jardim das Palmeiras\" \"54 quilos\"",
+      "\"Água Clara\" MS maconha 54 kg prisão novembro",
+      "\"Água Clara\" MS apreensão cocaína \"Jardim das Palmeiras\"",
+      "\"Água Clara\" MS \"54 quilos\"",
+      "\"Água Clara\" MS \"59 tabletes\"",
+      "\"Água Clara\" MS \"maconha\" \"polícia\" novembro 2026 prisão drogas",
+      "\"Água Clara\" MS drogas reportagem",
+      "\"Água Clara\" MS \"tráfico\" prisão novembro 2026",
+      "\"Água Clara\" MS \"apreensão\" 2026",
+      "\"Água Clara\" MS \"Policia Civil\" drogas prisão 2026",
+      "\"Água Clara\" MS \"Polícia Militar\" apreensão 2026",
+      "\"Água Clara\" MS droga prisão \"quarta-feira\"",
+      "\"Água Clara\" MS \"maconha\" novembro 2026",
+      "\"Água Clara\" MS \"cocaína\" 2026",
+      "\"Água Clara\" MS \"cocaína\" apreensão",
+      "\"Água Clara\" MS \"cocaína\""
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "OpenCode ended after 32 model steps with notes instead of the JSON answer the tracker needs (the limit is 32 steps; it probably ran out of them)"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "br-mojui-analoga-maconha",
+   "title": "Arrest in Mojuí dos Campos with a substance \"analogous to marijuana\"",
+   "family": "new-event",
+   "tests": [
+    "scope",
+    "languages",
+    "terminology"
+   ],
+   "why": "Brazilian police reports say \"substância análoga à maconha\" for suspected marijuana that has not yet been lab-tested. It is not a synthetic cannabinoid. A model in production rejected this page as synthetic; the right answer is a small new report: one man arrested, twelve wraps of cannabis and 31 of cocaine.",
+   "submit": "https://oimpacto.com.br/2026/11/suspeito-e-preso-em-mojui-dos-campos-apos-ser-flagrado-com-maconha-e-cocaina/",
+   "expect": {
+    "outcome": {
+     "new_event": 1,
+     "not_relevant": 0,
+     "insufficient_evidence": 0
+    },
+    "country": {
+     "br": 1
+    },
+    "date": {
+     "value": "2026-11-12"
+    },
+    "type": {
+     "arrest": 1,
+     "seizure": 1
+    },
+    "place": {
+     "coordinates": [
+      -2.6847,
+      -54.6425
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "arrested": {
+      "value": 1
+     }
+    },
+    "figures_optional": [
+     "cash",
+     "sites"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 12,
+      "why": "twelve wraps recorded as kilograms"
+     },
+     {
+      "key": "kg_seized",
+      "value": 43,
+      "why": "cocaine and cannabis wraps added and recorded as kilograms"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the twelve wraps of cannabis",
+      "any": [
+       "12",
+       "twelve"
+      ]
+     },
+     {
+      "say": "the cocaine",
+      "kept apart": null,
+      "any": [
+       "cocaine"
+      ]
+     }
+    ],
+    "open_questions": [
+     {
+      "about": "no weight was given",
+      "any": [
+       "weight",
+       "quantity",
+       "how much",
+       "grams",
+       "kilogram"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "insufficient_evidence",
+     "outcome": "insufficient_evidence",
+     "model_outcome": "new_event",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The facts could not be confirmed in the sources (no supporting quotation was found in the opened sources).",
+     "model_explanation": "The AI proposed a new enforcement report for source and report validation.",
+     "flags": [],
+     "usage": {
+      "seconds": 559,
+      "research_seconds": 524,
+      "steps": 32,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 153070,
+      "output_tokens": 27549,
+      "reasoning_tokens": 18029,
+      "cache_read_tokens": 1732246,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "insufficient evidence"
+     },
+     "report": {
+      "title": "Man arrested with cocaine and marijuana wraps in Mojuí dos Campos",
+      "summary": "Military police arrested João Victor Castro in Mojuí dos Campos, Pará, after flagging him with cocaine- and marijuana-like substances; a search of his home found 31 cocaine wraps, 12 marijuana wraps, R$301 in cash and a phone. He was taken to the 16th Civil Police District in Santarém and remains at the judiciary's disposal.",
+      "date": "2026-11-12",
+      "country": "br",
+      "type": "arrest",
+      "also": [
+       "seizure"
+      ],
+      "place": "Travessa São Sebastião with Rua Joana D'Arc, Mojuí dos Campos, Pará",
+      "coordinates": [
+       -2.7666,
+       -54.7666
+      ],
+      "figures": {
+       "arrested": 1,
+       "sites": 1,
+       "cash": {
+        "amount": 301,
+        "currency": "BRL"
+       }
+      },
+      "details": {
+       "agencies": [
+        "35º BPM"
+       ],
+       "agency_types": [
+        "gendarmerie"
+       ],
+       "products": [
+        {
+         "product": "flower"
+        }
+       ],
+       "activity": [
+        "trafficking",
+        "possession"
+       ],
+       "setting": [
+        "street",
+        "home"
+       ],
+       "charges": [
+        "trafficking"
+       ],
+       "case_stage": "investigation",
+       "date_precision": "exact"
+      },
+      "tags": [
+       "mojui-dos-campos",
+       "para",
+       "cocaine",
+       "marijuana",
+       "policia-militar"
+      ],
+      "sources": [
+       {
+        "url": "https://oimpacto.com.br/2026/11/suspeito-e-preso-em-mojui-dos-campos-apos-ser-flagrado-com-maconha-e-cocaina/",
+        "title": "SUSPEITO É PRESO EM MOJUÍ DOS CAMPOS APÓS SER FLAGRADO COM MACONHA E COCAÍNA – Jornal O Impacto",
+        "publisher": "Jornal O Impacto",
+        "date": "2026-11-13",
+        "language": "pt"
+       }
+      ],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "fr-saint-lary-sentence",
+   "title": "Driver jailed after 32.8 kg found at Saint-Lary-Soulan",
+   "family": "new-event",
+   "tests": [
+    "classification",
+    "date",
+    "figures",
+    "corroboration"
+   ],
+   "why": "A case that already reached its sentence: arrested on 28 September, sentenced in Tarbes on 1 October. The report belongs at the sentence. The French decimal comma (32,8 kg) and the page address (\"328-kilos\") invite a tenfold error.",
+   "submit": "https://www.lasemainedespyrenees.fr/328-kilos-de-cannabis-saisis-a-saint-lary-soulan-un-chauffeur-ukrainien-condamne-a-tarbes/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "fr": 1
+    },
+    "date": {
+     "value": "2026-10-01",
+     "also": {
+      "2026-09-28": 0.5
+     }
+    },
+    "type": {
+     "sentence": 1,
+     "prosecution": 0.5,
+     "seizure": 0.5,
+     "arrest": 0.5
+    },
+    "place": {
+     "coordinates": [
+      42.8169,
+      0.322
+     ],
+     "within_km": 70
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 32.8
+     },
+     "prison": {
+      "match": [
+       "2 years",
+       "two years",
+       "24 months",
+       "24-month"
+      ]
+     }
+    },
+    "figures_optional": [
+     "arrested",
+     "fine",
+     "value",
+     "sentenced",
+     "convicted",
+     "vehicles"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 328,
+      "why": "decimal comma read as 328 kg"
+     }
+    ],
+    "details": {
+     "case_stage": [
+      "sentenced"
+     ],
+     "sentence_types": [
+      "prison"
+     ],
+     "products": [
+      "flower"
+     ],
+     "agency_types": [
+      "customs"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the prison term",
+      "any": [
+       "24 months",
+       "two years",
+       "2 years"
+      ]
+     },
+     {
+      "say": "customs officers found it",
+      "any": [
+       "customs"
+      ]
+     },
+     {
+      "say": "the ten-year ban from France",
+      "any": [
+       "ban",
+       "banned",
+       "barred",
+       "interdiction",
+       "exclusion"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "lasemainedespyrenees.fr",
+      "ladepeche.fr",
+      "actu.fr",
+      "douane.gouv.fr",
+      "francebleu.fr",
+      "ici.fr",
+      "nrpyrenees.fr",
+      "france3-regions.franceinfo.fr"
+     ],
+     "markers": [
+      "32,8",
+      "Saint-Lary",
+      "ukrainien",
+      "Tarbes"
+     ]
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "douane-31-cache-sous-siege"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "saint-lary-soulan-ukrainian-driver-328kg-cannabis-sentence",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The report was committed to the local repository (e202b56f5f67). It is available in local development; pushing is separate.",
+     "model_explanation": "New event from the submitted page: a Ukrainian driver was stopped by customs at Saint-Lary-Soulan on 28 September 2026 with 32.8 kg of cannabis herb, tried at Tarbes on 1 October and sentenced to 24 months, a ten-year French territory ban, 131,605 euros in customs fines and confiscations. The page's photo is a generic road-check/customs file image (controle-routier-douane-chien-drogue-IMG_1015), so it is not listed as media. No matching existing report was found in the tracker.",
+     "flags": [],
+     "usage": {
+      "seconds": 382,
+      "research_seconds": 350,
+      "steps": 19,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 61416,
+      "output_tokens": 15652,
+      "reasoning_tokens": 12805,
+      "cache_read_tokens": 715215,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "Ukrainian driver sentenced to 24 months over 32.8 kg of cannabis at Saint-Lary-Soulan",
+      "summary": "A Ukrainian driver caught at Saint-Lary-Soulan with 32.8 kg of cannabis herb was sentenced by the Tarbes court to 24 months in prison, a ten-year ban from French territory, 131,605 euros in customs fines, and the confiscation of the drugs, 405 euros in cash, two phones and a computer.",
+      "date": "2026-09-28",
+      "country": "fr",
+      "type": "sentence",
+      "also": [
+       "seizure"
+      ],
+      "place": "Saint-Lary-Soulan, Hautes-Pyrénées",
+      "coordinates": [
+       42.8214,
+       0.3225
+      ],
+      "figures": {
+       "arrested": 1,
+       "kg_seized": 32.8,
+       "fine": {
+        "amount": 131605,
+        "currency": "EUR"
+       },
+       "sentenced": 1
+      },
+      "details": {
+       "agencies": [
+        "Douanes",
+        "tribunal correctionnel de Tarbes"
+       ],
+       "products": [
+        {
+         "product": "flower",
+         "kg": 32.8
+        }
+       ],
+       "activity": [
+        "trafficking"
+       ],
+       "setting": [
+        "vehicle"
+       ],
+       "case_stage": "sentenced",
+       "sentence_types": [
+        "prison",
+        "fine"
+       ],
+       "date_precision": "exact",
+       "region": "Occitanie"
+      },
+      "tags": [
+       "saint-lary-soulan",
+       "hautes-pyrenees",
+       "occitanie",
+       "douane",
+       "customs",
+       "cannabis-herb",
+       "trafficking",
+       "tarbes"
+      ],
+      "sources": [
+       {
+        "url": "https://www.lasemainedespyrenees.fr/328-kilos-de-cannabis-saisis-a-saint-lary-soulan-un-chauffeur-ukrainien-condamne-a-tarbes/",
+        "title": "32,8 kilos de cannabis saisis à Saint-Lary-Soulan : un chauffeur ukrainien condamné à Tarbes",
+        "publisher": "La Semaine des Pyrénées",
+        "date": "2026-10-07",
+        "language": "fr"
+       }
+      ],
+      "media": [],
+      "open_questions": [
+       "The article gives the seizure as more than 32 kilograms while the customs figure is 32.8 kilograms; the customs figure is used.",
+       "No street value of the cannabis was published.",
+       "The driver is named only by nationality and role; no name, age or home town was released.",
+       "No laboratory confirmation of the substance is reported; it is described as cannabis herb by the customs services.",
+       "It is not known whether the sentence or the ten-year territory ban was appealed.",
+       "Left out agency types, as its quotation was not found in La Semaine des Pyrénées.",
+       "Left out charges, as its quotation was not found in La Semaine des Pyrénées."
+      ],
+      "body": "Customs officers stopped a vehicle driven by a Ukrainian man at\nSaint-Lary-Soulan on the evening of 28 September 2026 and found more than 32\nkilograms of cannabis herb on board; the drugs were seized by the customs\nservices.\n\nHe was tried on 1 October 2026 by the tribunal correctionnel de Tarbes, which\nsentenced him to 24 months in prison and a ten-year ban from French territory.\n\nThe court also imposed customs fines of 131,200 euros for transporting narcotics\nwithout regular supporting documents and 405 euros for customs money-laundering,\n131,605 euros in total.\n\nThe court ordered the confiscation of the 32.8 kilograms of cannabis seized, 405\neuros in 50, 20 and 5 euro notes, two mobile phones and a computer.\n\nAt the hearing the judge told the defendant he could be more useful to his\ncountry on his return than running contraband in France.",
+      "words": 143
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0.875,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "fr",
+         "got": "fr"
+        },
+        {
+         "label": "Date of the event",
+         "score": 0.5,
+         "expected": "2026-10-01",
+         "got": "2026-09-28"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "sentence",
+         "got": "sentence + seizure"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 70 km of 42.8169, 0.322",
+         "got": "Saint-Lary-Soulan, Hautes-Pyrénées (1 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0.5,
+       "checks": [
+        {
+         "label": "kg_seized",
+         "score": 1,
+         "expected": "32.8",
+         "got": "32.8"
+        },
+        {
+         "label": "prison",
+         "score": 0,
+         "expected": "2 years",
+         "got": "none"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0.75,
+       "checks": [
+        {
+         "label": "case stage",
+         "score": 1,
+         "expected": "sentenced",
+         "got": "sentenced"
+        },
+        {
+         "label": "sentence types",
+         "score": 1,
+         "expected": "prison",
+         "got": "prison, fine"
+        },
+        {
+         "label": "products",
+         "score": 1,
+         "expected": "flower",
+         "got": "flower"
+        },
+        {
+         "label": "agency types",
+         "score": 0,
+         "expected": "customs",
+         "got": "none"
+        }
+       ],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0.5,
+       "checks": [
+        {
+         "label": "Independent outlets on this event",
+         "score": 0.5,
+         "expected": "2 or more",
+         "got": "1"
+        },
+        {
+         "label": "La Semaine des Pyrénées",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "lasemainedespyrenees.fr: about this event"
+        }
+       ],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [
+        {
+         "label": "Photos of the event",
+         "score": 0,
+         "expected": "1 or more",
+         "got": "none linked"
+        }
+       ],
+       "weight": 10
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says the prison term",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says customs officers found it",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says the ten-year ban from France",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "85"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0.875,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "5 of 5",
+         "got": "5 of 5"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 0.5,
+         "expected": "all",
+         "got": "2 dropped: details.agency_types, details.charges"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 66.3,
+     "verdict": "partial"
+    }
+   ],
+   "score": 66.3
+  },
+  {
+   "id": "in-manesar-roundup",
+   "title": "12 kg of cannabis in a traffic-police roundup",
+   "family": "new-event",
+   "tests": [
+    "extraction",
+    "photos",
+    "honesty"
+   ],
+   "why": "The cannabis seizure is one item in a roundup of a month of traffic-police work (stolen motorbikes, accident help, a school van). Only the Nainwal Cut seizure belongs in the report. The article's picture shows officers at a road, not this seizure, so no photo should be kept, and the article gives no date for the seizure.",
+   "submit": "https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-traffic-cops-recover-3-suspected-stolen-vehicles-seize-12kg-cannabis-in-30-days/articleshow/135725202.cms",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "in": 1
+    },
+    "date": {
+     "value": "2026-11-11",
+     "tolerance_days": 31,
+     "direction": "before"
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1
+    },
+    "place": {
+     "coordinates": [
+      28.354,
+      76.938
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 12
+     }
+    },
+    "figures_optional": [
+     "arrested",
+     "vehicles"
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "where it happened (Nainwal Cut",
+      "Manesar)": null,
+      "any": [
+       "Nainwal"
+      ]
+     },
+     {
+      "say": "the suspects were handed to the local police station",
+      "any": [
+       "handed over",
+       "handed to"
+      ]
+     }
+    ],
+    "media": {
+     "none": true
+    },
+    "open_questions": [
+     {
+      "about": "the seizure has no date of its own",
+      "any": [
+       "date"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "gurugram-manesar-nainwal-cut-12kg-traffic-police-cannabis",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The report was committed to the local repository (93a5c0264cc3). It is available in local development; pushing is separate.",
+     "model_explanation": "The submitted Times of India article is a 30-day roundup of Gurgaon Traffic Police activity. Its cannabis component is a separate enforcement event: traffic police intercepted people carrying cannabis at Nainwal Cut in Manesar and recovered 12 kg, handing both individuals to the concerned police station. This is distinct from the existing report on the 673 kg Rajiv Chowk Crime Branch truck seizure of 25-26 October 2026 (different agency, location and incident). The article gives no exact date for the Manesar intercept, only the 30-day window ending with the 11 November 2026 publication, so the publication date stands in and the case is at the investigation stage. The article's photo, whose caption only repeats the headline, appears to illustrate the stolen-vehicle intercept rather than the cannabis seizure, so it is not listed as media.",
+     "flags": [],
+     "usage": {
+      "seconds": 72,
+      "research_seconds": 38,
+      "steps": 4,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 35109,
+      "output_tokens": 2213,
+      "reasoning_tokens": 1844,
+      "cache_read_tokens": 87540,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "Gurgaon traffic police seize 12 kg of cannabis at Nainwal Cut, Manesar; two held",
+      "summary": "Gurgaon Traffic Police personnel intercepted people carrying cannabis at Nainwal Cut in Manesar during a month-long drive and recovered 12 kg of cannabis from them. Both individuals were handed over to the concerned police station for investigation and legal proceedings.",
+      "date": "2026-11-11",
+      "country": "in",
+      "type": "seizure",
+      "also": [
+       "arrest"
+      ],
+      "place": "Nainwal Cut, Manesar, Gurugram",
+      "coordinates": [
+       28.35,
+       76.94
+      ],
+      "figures": {
+       "arrested": 2,
+       "kg_seized": 12
+      },
+      "details": {
+       "agencies": [
+        "Gurgaon Traffic Police"
+       ],
+       "agency_types": [
+        "police"
+       ],
+       "products": [
+        {
+         "product": "flower",
+         "kg": 12
+        }
+       ],
+       "activity": [
+        "possession",
+        "trafficking"
+       ],
+       "setting": [
+        "street"
+       ],
+       "case_stage": "investigation",
+       "date_precision": "publication",
+       "region": "Haryana"
+      },
+      "tags": [
+       "gurgaon",
+       "manesar",
+       "traffic-police",
+       "cannabis-seizure",
+       "haryana"
+      ],
+      "sources": [
+       {
+        "url": "https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-traffic-cops-recover-3-suspected-stolen-vehicles-seize-12kg-cannabis-in-30-days/articleshow/135725202.cms",
+        "title": "Gurgaon traffic cops recover 3 suspected stolen vehicles, seize 12kg cannabis in 30 days",
+        "publisher": "The Times of India",
+        "date": "2026-11-11",
+        "language": ""
+       }
+      ],
+      "media": [],
+      "open_questions": [
+       "The article gives no exact date for the Manesar intercept; only a 30-day window ending with the 11 November 2026 publication is known.",
+       "No arrests, charges or court outcome were reported for the cannabis case; the two individuals were handed over to a police station for investigation.",
+       "The 12 kg figure is stated only as '12kg of cannabis' with no laboratory confirmation reported.",
+       "The report rests on a single roundup article; no independent account of the Manesar seizure was found."
+      ],
+      "body": "Gurgaon Traffic Police personnel intercepted suspected individuals carrying\ncannabis at Nainwal Cut in Manesar during an operation against drug trafficking. A search of the suspects led to the recovery of 12 kg of cannabis from\ntheir possession. Both individuals were handed over to the concerned police\nstation for further investigation and legal proceedings; no arrests were\nreported in the cannabis case. The seizure was part of the traffic police's\nactivity over the past 30 days, in a roundup published on 11 November 2026 that\nalso covers recovered stolen vehicles and accident assistance.",
+      "words": 92
+     },
+     "dimensions": {
+      "facts": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "in",
+         "got": "in"
+        },
+        {
+         "label": "Date of the event",
+         "score": 1,
+         "expected": "2026-11-11 (or up to 31 days earlier)",
+         "got": "2026-11-11"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "seizure or arrest",
+         "got": "seizure + arrest"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 40 km of 28.354, 76.938",
+         "got": "Nainwal Cut, Manesar, Gurugram (0 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "kg_seized",
+         "score": 1,
+         "expected": "12",
+         "got": "12"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "products",
+         "score": 1,
+         "expected": "flower",
+         "got": "flower"
+        }
+       ],
+       "weight": 10
+      },
+      "photos": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "No picture of this event exists on the pages",
+         "score": 1,
+         "expected": "no photos kept",
+         "got": "no photos kept"
+        }
+       ],
+       "weight": 10
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says where it happened (Nainwal Cut",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says the suspects were handed to the local police station",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Open question: the seizure has no date of its own",
+         "score": 1,
+         "expected": "listed as open",
+         "got": "yes"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "80"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "4 of 4",
+         "got": "4 of 4"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "za-private-use-law",
+   "title": "South Africa legalises private cannabis use",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "routing"
+   ],
+   "why": "A change in the law (the Cannabis for Private Purposes Act, signed in May 2024). Law changes go to the Cannabis Freedom Index history, not into the tracker.",
+   "submit": "https://www.aljazeera.com/news/2024/6/10/south-africa-legalises-cannabis-use-will-the-rest-of-africa-follow",
+   "expect": {
+    "outcome": {
+     "routed_to_cfi": 1,
+     "not_relevant": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "routed_to_cfi",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 02:49 UTC.",
+     "model_explanation": "The submitted page is Al Jazeera's 10 June 2024 explainer on South Africa's Cannabis for Private Purposes Act, signed by President Ramaphosa on 26 May 2024. It records a change in the law and policy debate (legalisation of use, unresolved trade rules, Eswatini growers' concerns), not a specific enforcement event such as a raid, seizure, arrest, prosecution, sentence or execution. Law changes, precedents, landmark cases, national statistics and pre-2000 events belong to the Cannabis Freedom Index history, so this page is out of scope for the tracker and no new enforcement report is drafted from it. The article's incidental mentions of past enforcement (the 2020 Haze Club raid, apartheid-era dagga policing) reference separate historical events that would each need their own sourced reporting to be tracked.",
+     "flags": [],
+     "usage": {
+      "seconds": 46,
+      "research_seconds": 22,
+      "steps": 2,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 2,
+      "input_tokens": 9101,
+      "output_tokens": 361,
+      "reasoning_tokens": 174,
+      "cache_read_tokens": 48134,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "routed_to_cfi",
+      "got": "no usable answer",
+      "note": "the final answer was rejected by the result check (json: unknown field \"source\")"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  }
+ ]
+}

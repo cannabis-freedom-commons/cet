@@ -1,0 +1,1615 @@
+{
+ "schema": 1,
+ "id": "20261117-0107-opencode-openrouter-inclusionai-ling-3-2-flash-free",
+ "label": "",
+ "subject": {
+  "id": "opencode@openrouter/inclusionai/ling-3.2-flash:free",
+  "harness": "opencode",
+  "provider": "openrouter",
+  "model": "inclusionai/ling-3.2-flash:free",
+  "effort": "",
+  "agent": "openrouter/inclusionai/ling-3.2-flash:free",
+  "recorded": "openrouter/inclusionai/ling-3.2-flash:free",
+  "harness_version": "opencode v2.2.7"
+ },
+ "started_at": "2026-11-17T01:07:49.640Z",
+ "finished_at": null,
+ "complete": false,
+ "repeat": 1,
+ "concurrency": 2,
+ "protocol": {
+  "version": 1,
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "max_steps": 32,
+  "timeout_seconds": 1800,
+  "websearch": "random",
+  "context": "inline",
+  "screen": true,
+  "source_browser": true,
+  "concurrency": 2,
+  "case_deadline_minutes": 45,
+  "retry_errors": 1
+ },
+ "protocol_hash": "9be3371802af",
+ "cases_hash": "3590fabd1e59",
+ "full_set": true,
+ "tracker": {
+  "commit": "38b0e9a3b2fc36ce2b7a84f9783516a23ff6d8c6",
+  "reports_commit": "c42fd48417e31d8b3e5e06581c6066014305ddeb",
+  "uncommitted_changes": false
+ },
+ "scorer_version": 1,
+ "weights": {
+  "facts": 20,
+  "figures": 20,
+  "classification": 10,
+  "corroboration": 15,
+  "photos": 10,
+  "text": 15,
+  "grounding": 10
+ },
+ "dimensions": {
+  "facts": "Facts",
+  "figures": "Figures and units",
+  "classification": "Classification",
+  "corroboration": "Corroboration",
+  "photos": "Photos",
+  "text": "Report text",
+  "grounding": "Grounding"
+ },
+ "families": {
+  "new-event": "New events",
+  "known-event": "Already covered",
+  "out-of-scope": "Out of scope"
+ },
+ "summary": {
+  "score": 27.5,
+  "attempt_scores": [
+   27.5
+  ],
+  "cases": 7,
+  "attempts": 7,
+  "verdicts": {
+   "pass": 2,
+   "partial": 0,
+   "fail": 5,
+   "error": 0,
+   "skipped": 0,
+   "spoiled": 0
+  },
+  "families": {
+   "new-event": {
+    "score": 18.5,
+    "cases": 5
+   },
+   "known-event": {
+    "score": 50,
+    "cases": 2
+   }
+  },
+  "capabilities": {
+   "recognised": {
+    "score": 20,
+    "cases": 5
+   },
+   "facts": {
+    "score": 20,
+    "cases": 5
+   },
+   "figures": {
+    "score": 20,
+    "cases": 5
+   },
+   "classification": {
+    "score": 20,
+    "cases": 5
+   },
+   "corroboration": {
+    "score": 10,
+    "cases": 5
+   },
+   "photos": {
+    "score": 25,
+    "cases": 4
+   },
+   "text": {
+    "score": 20,
+    "cases": 5
+   },
+   "grounding": {
+    "score": 20,
+    "cases": 5
+   }
+  },
+  "usage": {
+   "minutes_per_case": 29.9,
+   "steps_per_case": 8,
+   "input_tokens": 1122828,
+   "output_tokens": 26751,
+   "reasoning_tokens": 92991,
+   "cache_read_tokens": 983296,
+   "cost_usd": 0
+  }
+ },
+ "cases": [
+  {
+   "id": "eg-badr-second-six-year-sentence",
+   "title": "A second six-year hashish sentence from the same court on the same day",
+   "family": "new-event",
+   "tests": [
+    "coverage",
+    "look-alike",
+    "classification",
+    "languages"
+   ],
+   "why": "On 1 November the New Cairo Criminal Court gave two six-year sentences for hashish in the Badr police district. The tracker has one: three men stopped in a car in March. This page is the other: a woman stopped at a checkpoint in April with 125 pieces of hashish. Same court, same day, same district, same sentence, different people. It needs its own report.",
+   "submit": "https://www.dostor.org/5760161",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "eg": 1
+    },
+    "date": {
+     "value": "2026-11-01"
+    },
+    "type": {
+     "sentence": 1,
+     "prosecution": 0.5
+    },
+    "place": {
+     "coordinates": [
+      30.136,
+      31.715
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "prison": {
+      "match": [
+       "6 years",
+       "six years",
+       "6-year",
+       "six-year"
+      ]
+     }
+    },
+    "figures_optional": [
+     "arrested",
+     "charged",
+     "sentenced",
+     "convicted",
+     "kg_seized"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "arrested",
+      "value": 3,
+      "why": "the three men of the other case"
+     },
+     {
+      "key": "charged",
+      "value": 3,
+      "why": "the three men of the other case"
+     },
+     {
+      "key": "sentenced",
+      "value": 3,
+      "why": "the three men of the other case"
+     },
+     {
+      "key": "kg_seized",
+      "value": 9.504,
+      "why": "the weight in the other case"
+     }
+    ],
+    "details": {
+     "sentence_types": [
+      "prison"
+     ],
+     "case_stage": [
+      "sentenced"
+     ],
+     "products": [
+      "hashish"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the defendant is a woman",
+      "any": [
+       "woman",
+       "female",
+       "\\bshe\\b",
+       "\\bher\\b"
+      ]
+     },
+     {
+      "say": "the 125 pieces of hashish",
+      "any": [
+       "125"
+      ]
+     },
+     {
+      "say": "when she was stopped (22 April)",
+      "any": [
+       "22 April",
+       "April 22"
+      ]
+     }
+    ],
+    "must_not_say": [
+     {
+      "say": "three defendants",
+      "any": [
+       "three (men|defendants|people)"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "strict": true,
+     "known": [
+      "dostor.org",
+      "almasryalyoum.com",
+      "youm7.com",
+      "elbalad.news",
+      "cairo24.com",
+      "shorouknews.com",
+      "elwatannews.com",
+      "masrawy.com",
+      "akhbarelyom.com"
+     ],
+     "markers": [
+      "عاملة",
+      "22 أبريل",
+      "125 قطعة",
+      "125"
+     ],
+     "markers_min": 2
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 02:15 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1789,
+      "research_seconds": 1753,
+      "steps": 9,
+      "searches": 5,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 196374,
+      "output_tokens": 2580,
+      "reasoning_tokens": 16427,
+      "cache_read_tokens": 134784,
+      "cost_usd": 0
+     },
+     "searches": [
+      "محكمة جنايات القاهرة الجديدة عاملة حيازة جوهر الحشيش بدر 6 سنوات",
+      "دستور \"جوهر الحشيش\" \"بدر\" عاملة المشدد 6 سنوات",
+      "Badr city Cairo Governorate Egypt coordinates latitude longitude",
+      "Badr city Egypt geolocation coordinates 30.0 31.3",
+      "\"Badr\" Egypt city Wikipedia coordinates Cairo Governorate"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 8 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "es-cabanes-hashish-warehouse",
+   "title": "8,025 kg of hashish in a Cabanes warehouse",
+   "family": "new-event",
+   "tests": [
+    "date",
+    "figures",
+    "classification",
+    "corroboration",
+    "photos"
+   ],
+   "why": "The raid was on 1 October but was announced on 9 October. The same article mentions an earlier van stop with about 2,400 kg in Viladecans, which is background and must not be added to this seizure. Covered in Spanish, Catalan and French.",
+   "submit": "https://www.diariodetransporte.com/general/policia-guardia-civil/7-detenidos-e-incautadas-mas-de-8-toneladas-de-hachis-escondidas-entre-la-mercancia-de-un-camion",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "es": 1
+    },
+    "date": {
+     "value": "2026-10-01"
+    },
+    "type": {
+     "seizure": 1,
+     "raid": 1,
+     "arrest": 1
+    },
+    "place": {
+     "coordinates": [
+      42.307,
+      2.821
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 8025
+     },
+     "arrested": {
+      "value": 7
+     }
+    },
+    "figures_optional": [
+     "value",
+     "charged",
+     "vehicles",
+     "sites"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 10425,
+      "why": "the earlier Viladecans van added to this seizure"
+     },
+     {
+      "key": "kg_seized",
+      "value": 2400,
+      "why": "the earlier Viladecans van taken for this seizure"
+     },
+     {
+      "key": "kg_seized",
+      "value": 8.025,
+      "why": "thousands separator read as a decimal point"
+     }
+    ],
+    "details": {
+     "products": [
+      "hashish"
+     ],
+     "agencies": [
+      "es-mossos"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "who acted (Mossos d'Esquadra)",
+      "any": [
+       "Mossos"
+      ]
+     },
+     {
+      "say": "seven men were arrested",
+      "any": [
+       "seven",
+       "\\b7\\b"
+      ]
+     },
+     {
+      "say": "how it was hidden",
+      "any": [
+       "rubber",
+       "granul",
+       "sacks",
+       "pallet",
+       "lorry",
+       "truck",
+       "trailer"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "diariodetransporte.com",
+      "france3-regions.franceinfo.fr",
+      "x.com",
+      "mossos.gencat.cat",
+      "elpuntavui.cat",
+      "diaridegirona.cat",
+      "lavanguardia.com",
+      "elperiodico.com",
+      "lindependant.fr",
+      "emporda.info",
+      "3cat.cat",
+      "ccma.cat",
+      "elnacional.cat",
+      "europapress.es",
+      "20minutos.es",
+      "elpais.com",
+      "naciodigital.cat",
+      "ara.cat",
+      "elcaso.elnacional.cat",
+      "interior.gencat.cat"
+     ],
+     "markers": [
+      "8.025",
+      "8 025",
+      "8,025",
+      "Cabanes",
+      "Mossos"
+     ]
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "6ac8c6828f1fc075477529",
+      "1791537792188"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 02:45 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1793,
+      "research_seconds": 1760,
+      "steps": 8,
+      "searches": 4,
+      "pages_opened": 3,
+      "runs": 1,
+      "input_tokens": 310438,
+      "output_tokens": 5096,
+      "reasoning_tokens": 23361,
+      "cache_read_tokens": 118528,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Mossos d'Esquadra Cabanes Girona 8 toneladas hachís 7 detenidos nave industrial octubre 2026",
+      "Mossos DIC Cabanes 8.025 kg hachís siete detenidos 1 octubre nave industrial",
+      "\"Cabanes\" Mossos hachís \"8 toneladas\" detenidos tráfico drogas Girona",
+      "Cabanes Alt Empordà Girona municipality coordinates latitude longitude"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 7 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "hk-airport-second-nine-kilos",
+   "title": "A second 9 kg airport case in Hong Kong within a week",
+   "family": "new-event",
+   "tests": [
+    "coverage",
+    "look-alike",
+    "corroboration",
+    "classification",
+    "photos"
+   ],
+   "why": "Customs arrested a 24-year-old arriving from Bangkok with about 9 kg of cannabis buds worth HK$1.9 million. The tracker already holds another case from four days earlier that looks the same: a 22-year-old mainland man, about 9 kg of buds at the same airport, HK$1.3 million, arrested by police. They are two events. This one must be written as its own report, and articles about the earlier case must not be used as its sources.",
+   "submit": "https://www.info.gov.hk/gia/general/202611/05/P2026110500602.htm",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "hk": 1
+    },
+    "date": {
+     "value": "2026-11-05",
+     "also": {
+      "2026-11-04": 0.5
+     }
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1,
+     "prosecution": 0.5
+    },
+    "place": {
+     "coordinates": [
+      22.308,
+      113.9145
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 9
+     },
+     "arrested": {
+      "value": 1
+     },
+     "value": {
+      "amount": 1900000,
+      "currency": "HKD"
+     }
+    },
+    "figures_optional": [
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "value.amount",
+      "value": 1300000,
+      "why": "the value of the earlier",
+      "different case": null
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ],
+     "setting": [
+      "airport"
+     ],
+     "route.from": [
+      "th"
+     ],
+     "agencies": [
+      "hk-customs",
+      "Customs"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "he is 24",
+      "any": [
+       "24-year-old",
+       "24 years",
+       "aged 24"
+      ]
+     },
+     {
+      "say": "he flew in from Bangkok",
+      "any": [
+       "Bangkok"
+      ]
+     },
+     {
+      "say": "he was charged",
+      "any": [
+       "charged"
+      ]
+     }
+    ],
+    "must_not_say": [
+     {
+      "say": "he is the 22-year-old of the earlier case",
+      "any": [
+       "22-year-old",
+       "1\\.3 million"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "strict": true,
+     "known": [
+      "info.gov.hk",
+      "customs.gov.hk",
+      "on.cc",
+      "stheadline.com",
+      "singtao.ca",
+      "hkcd.com.hk",
+      "bastillepost.com",
+      "wenweipo.com",
+      "hk01.com",
+      "mingpao.com",
+      "thestandard.com.hk",
+      "rthk.hk",
+      "news.gov.hk"
+     ],
+     "markers": [
+      "1.9 million",
+      "190萬",
+      "190万",
+      "24-year-old",
+      "24歲",
+      "24岁"
+     ],
+     "markers_min": 1
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "P2026110500601_photo",
+      "P2026110500602_photo"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "hong-kong-airport-9kg-buds-bangkok-man-charged",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The report was committed to the local repository (3f68beb81dc9). 1 of 1 new photos and videos got a thumbnail or poster. It is available in local development; pushing is separate.",
+     "model_explanation": "The opened Government press release reports a separate Hong Kong Customs airport case on 5 November 2026: a 24-year-old Mainland man arriving from Bangkok was arrested after about 9 kg of suspected cannabis buds were found in his carry-on baggage, valued by Customs at about $1.9 million, and he was charged with trafficking in a dangerous drug for a 6 November West Kowloon Magistrates' Courts appearance. Every other Hong Kong airport cannabis report in the tracker records a different date, suspect, weight or value, and the Jamaica Manchester report is an unrelated country and agency, so a new report is warranted.",
+     "flags": [],
+     "usage": {
+      "seconds": 1053,
+      "research_seconds": 991,
+      "steps": 8,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 227507,
+      "output_tokens": 13042,
+      "reasoning_tokens": 10688,
+      "cache_read_tokens": 186048,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "Man, 24, charged after Hong Kong Customs seize 9 kg of cannabis buds at airport",
+      "summary": "Hong Kong Customs seized about 9 kilograms of suspected cannabis buds worth about $1.9 million from the carry-on baggage of a 24-year-old Mainland man at Hong Kong International Airport on November 5. The man, who arrived from Bangkok, was arrested and charged with trafficking in a dangerous drug and was due at West Kowloon Magistrates' Courts on November 6.",
+      "date": "2026-11-05",
+      "country": "hk",
+      "type": "seizure",
+      "also": [
+       "arrest",
+       "prosecution"
+      ],
+      "place": "Hong Kong International Airport, Chek Lap Kok",
+      "coordinates": [
+       22.3126,
+       113.9173
+      ],
+      "figures": {
+       "arrested": 1,
+       "charged": 1,
+       "kg_seized": 9,
+       "value": {
+        "amount": 1900000,
+        "currency": "HKD"
+       }
+      },
+      "details": {
+       "agencies": [
+        "Hong Kong Customs and Excise Department"
+       ],
+       "agency_types": [
+        "customs"
+       ],
+       "products": [
+        {
+         "product": "flower",
+         "kg": 9
+        }
+       ],
+       "activity": [
+        "trafficking"
+       ],
+       "setting": [
+        "airport"
+       ],
+       "charges": [
+        "trafficking in a dangerous drug"
+       ],
+       "case_stage": "charged",
+       "date_precision": "exact",
+       "region": "Hong Kong",
+       "route": {
+        "from": [
+         "th"
+        ],
+        "to": [
+         "hk"
+        ]
+       }
+      },
+      "tags": [
+       "hong-kong",
+       "customs",
+       "airport",
+       "bangkok",
+       "cannabis-buds"
+      ],
+      "sources": [
+       {
+        "url": "https://www.info.gov.hk/gia/general/202611/05/P2026110500602.htm",
+        "title": "Hong Kong Customs seizes suspected cannabis buds worth about $1.9 million at airport (with photo)",
+        "publisher": "Government of the Hong Kong Special Administrative Region",
+        "date": "2026-11-05",
+        "language": "en"
+       }
+      ],
+      "media": [
+       {
+        "kind": "photo",
+        "url": "https://www.info.gov.hk/gia/general/202611/05/P2026110500602.htm",
+        "media_url": "https://gia.info.gov.hk/general/202611/05/P2026110500602_photo_1342939.jpg",
+        "caption": "Photo shows the suspected cannabis buds seized in the case, in the handout image published with the Customs press release. Photo: Hong Kong Customs"
+       }
+      ],
+      "open_questions": [
+       "The buds are described as suspected cannabis, with no laboratory confirmation reported.",
+       "The weight and value are approximate figures stated as 'about' by Customs.",
+       "The release writes the value as '$1.9 million' without naming the currency; it is recorded as Hong Kong dollars.",
+       "No outcome of the scheduled 6 November West Kowloon Magistrates' Courts appearance is reported.",
+       "The release does not give the man's name, the flight number or the exact time of the seizure.",
+       "Only the Customs press release was opened; no independent account of the event was found."
+      ],
+      "body": "Hong Kong Customs detected a drug trafficking case involving baggage concealment\nat Hong Kong International Airport on November 5, 2026, and seized about 9\nkilograms of suspected cannabis buds with an estimated market value of about\n$1.9 million.\n\nA 24-year-old Mainland male passenger who arrived in Hong Kong from Bangkok,\nThailand, on the night of November 4 was arrested after Customs officers found\nthe suspected cannabis buds inside his carry-on baggage during customs clearance\nin the early hours of November 5.\n\nThe arrested man has been charged with one count of trafficking in a dangerous\ndrug, and the case was to be brought up at the West Kowloon Magistrates' Courts\non November 6.\n\nUnder the Dangerous Drugs Ordinance, trafficking in a dangerous drug is a\nserious offence with a maximum penalty of a fine of $5 million and life\nimprisonment upon conviction.",
+      "words": 142
+     },
+     "dimensions": {
+      "facts": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "hk",
+         "got": "hk"
+        },
+        {
+         "label": "Date of the event",
+         "score": 1,
+         "expected": "2026-11-05",
+         "got": "2026-11-05"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "seizure or arrest",
+         "got": "seizure + arrest + prosecution"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 40 km of 22.308, 113.9145",
+         "got": "Hong Kong International Airport, Chek Lap Kok (1 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "kg_seized",
+         "score": 1,
+         "expected": "9",
+         "got": "9"
+        },
+        {
+         "label": "arrested",
+         "score": 1,
+         "expected": "1",
+         "got": "1"
+        },
+        {
+         "label": "value",
+         "score": 1,
+         "expected": "1900000 HKD",
+         "got": "{\"amount\":1900000,\"currency\":\"HKD\"}"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "products",
+         "score": 1,
+         "expected": "flower",
+         "got": "flower"
+        },
+        {
+         "label": "setting",
+         "score": 1,
+         "expected": "airport",
+         "got": "airport"
+        },
+        {
+         "label": "route.from",
+         "score": 1,
+         "expected": "th",
+         "got": "th"
+        },
+        {
+         "label": "agencies",
+         "score": 1,
+         "expected": "hk-customs or Customs",
+         "got": "Hong Kong Customs and Excise Department"
+        }
+       ],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0.5,
+       "checks": [
+        {
+         "label": "Independent outlets on this event",
+         "score": 0.5,
+         "expected": "2 or more",
+         "got": "1"
+        },
+        {
+         "label": "Government of the Hong Kong Special Administrative Region",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "info.gov.hk: about this event"
+        }
+       ],
+       "weight": 15
+      },
+      "photos": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Known photo of the event",
+         "score": 1,
+         "expected": "linked",
+         "got": "https://gia.info.gov.hk/general/202611/05/P2026110500602_photo_1342939.jpg"
+        }
+       ],
+       "weight": 10
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says he is 24",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says he flew in from Bangkok",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says he was charged",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Does not say he is the 22-year-old of the earlier case",
+         "score": 1,
+         "expected": "not in the text",
+         "got": "correct"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "79"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "4 of 4",
+         "got": "4 of 4"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 92.5,
+     "verdict": "pass"
+    }
+   ],
+   "score": 92.5
+  },
+  {
+   "id": "it-castel-volturno-spanish-copy",
+   "title": "A Spanish-language copy of an Italian report",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "Il Mattino's machine-translated Spanish page for its own Italian report of the Castel Volturno arrest, mostly behind a paywall. The tracker's report was written from Italian sources and speaks of 9.6 kg of cannabis; this teaser says \"more than 11 kilos\" of hashish, marijuana and cocaine. It is the same event.",
+   "submit": "https://www.ilmattino.it/AMP/es/incautacion_record_de_estupefacientes_en_la_costa_de_caserta-9889706.html",
+   "expect": {
+    "outcome": {
+     "duplicate": 1,
+     "additional_source": 1,
+     "existing_case": 0.5,
+     "insufficient_evidence": 0.5
+    },
+    "existing_report": "castel-volturno-31-year-old-96kg-cannabis-arrest"
+   },
+   "attempts": [
+    {
+     "status": "duplicate",
+     "outcome": "duplicate",
+     "model_outcome": "duplicate",
+     "report_slug": "castel-volturno-31-year-old-96kg-cannabis-arrest",
+     "existing_report": "castel-volturno-31-year-old-96kg-cannabis-arrest",
+     "decision_title": "Duplicate Castel Volturno drug seizure already tracked",
+     "explanation": "The submitted page is the Spanish AMP edition of Il Mattino article 9889706, which the existing report castel-volturno-31-year-old-96kg-cannabis-arrest already cites, and it describes the same event: the 13 November 2026 Castel Volturno home search by the police station's investigative squad with Naples and Ladispoli dog units, the arrest of a 31-year-old man and the seizure of more than 11 kilos of hashish, marijuana and cocaine. It adds no fact the report lacks; the per-drug cannabis split and the prison order are already recorded from other sources, and the combined 11-kilo total cannot be attributed to cannabis alone. Marking it a duplicate with no new report or update.",
+     "model_explanation": "The submitted page is the Spanish AMP edition of Il Mattino article 9889706, which the existing report castel-volturno-31-year-old-96kg-cannabis-arrest already cites, and it describes the same event: the 13 November 2026 Castel Volturno home search by the police station's investigative squad with Naples and Ladispoli dog units, the arrest of a 31-year-old man and the seizure of more than 11 kilos of hashish, marijuana and cocaine. It adds no fact the report lacks; the per-drug cannabis split and the prison order are already recorded from other sources, and the combined 11-kilo total cannot be attributed to cannabis alone. Marking it a duplicate with no new report or update.",
+     "flags": [],
+     "usage": {
+      "seconds": 454,
+      "research_seconds": 425,
+      "steps": 3,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 58361,
+      "output_tokens": 1825,
+      "reasoning_tokens": 6080,
+      "cache_read_tokens": 32768,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "duplicate or additional_source → castel-volturno-31-year-old-96kg-cannabis-arrest",
+      "got": "duplicate → castel-volturno-31-year-old-96kg-cannabis-arrest"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "lk-airport-hashish-route",
+   "title": "Three Thais held with hashish in cosmetic jars at Colombo airport",
+   "family": "new-event",
+   "tests": [
+    "classification",
+    "corroboration",
+    "figures",
+    "photos"
+   ],
+   "why": "An airport smuggling case: the route (Thailand to Sri Lanka), the setting and the product matter. The outlets disagree on the weight (5.96 kg here, 5.096 kg elsewhere), which a second source reveals.",
+   "submit": "https://www.newswire.lk/2026/10/15/rs-51-mn-hashish-seized-at-bia-three-foreigners-arrested/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "lk": 1
+    },
+    "date": {
+     "value": "2026-10-15"
+    },
+    "type": {
+     "arrest": 1,
+     "seizure": 1
+    },
+    "place": {
+     "coordinates": [
+      7.179,
+      79.886
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "arrested": {
+      "value": 3
+     },
+     "kg_seized": {
+      "any": [
+       5.096,
+       5.96
+      ]
+     }
+    },
+    "figures_optional": [
+     "value",
+     "charged"
+    ],
+    "details": {
+     "products": [
+      "hashish"
+     ],
+     "setting": [
+      "airport"
+     ],
+     "route.from": [
+      "th"
+     ],
+     "route.to": [
+      "lk"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "they are Thai nationals",
+      "any": [
+       "Thai"
+      ]
+     },
+     {
+      "say": "hidden in cosmetic containers",
+      "any": [
+       "cosmetic"
+      ]
+     },
+     {
+      "say": "whose valuation it is",
+      "any": [
+       "worth",
+       "valued",
+       "value"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "newswire.lk",
+      "vivalanka.com",
+      "adaderana.lk",
+      "dailymirror.lk",
+      "newsfirst.lk",
+      "hirunews.lk",
+      "island.lk",
+      "colombogazette.com",
+      "lankadeepa.lk",
+      "ft.lk",
+      "dailynews.lk",
+      "onlanka.com",
+      "lankasara.com"
+     ],
+     "markers": [
+      "TG-307",
+      "TG 307",
+      "cosmetic",
+      "Thai national",
+      "Katunayake",
+      "hashish"
+     ],
+     "markers_min": 3
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "Hashish-BIA",
+      "IMG-20261015"
+     ]
+    },
+    "open_questions": [
+     {
+      "about": "the outlets give two different weights",
+      "any": [
+       "5\\.096",
+       "5\\.96",
+       "weight",
+       "differ",
+       "disagree"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 01:45 UTC.",
+     "model_explanation": "",
+     "flags": [
+      "A web search returned the tracker's own pages (it was told to ignore them): https://tracker.cannabisfreedom.fyi/report/sri-lanka-bia-thai-hashish-cosmetics/"
+     ],
+     "usage": {
+      "seconds": 1797,
+      "research_seconds": 1781,
+      "steps": 9,
+      "searches": 3,
+      "pages_opened": 3,
+      "runs": 1,
+      "input_tokens": 69249,
+      "output_tokens": 1152,
+      "reasoning_tokens": 10830,
+      "cache_read_tokens": 230720,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Police Narcotics Bureau Thai drivers hashish cosmetic containers Katunayake October 2026",
+      "\"Rs. 51 million\" hashish Bangkok airport Sri Lanka Thai arrested",
+      "\"5.96\" kg hashish BIA Thai nationals arrested"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 7 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "pl-jelenia-gora-second-outlet",
+   "title": "A second Polish outlet on the Jelenia Góra sentence",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "The tracker has the four-year sentence for bringing 2.5 kg of marijuana from Czechia. This local portal reports the same judgment. It should be added to that report, not written up again.",
+   "submit": "https://www.bolec.info/boleslawiec/informacje/kategoria/45842/cztery-lata-wiezienia-za-przywoz-25-kg-marihuany-z-czech",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "jelenia-gora-court-organizer-2-5-kg-marijuana-from-czech-republic"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 01:38 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1797,
+      "research_seconds": 1774,
+      "steps": 4,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 44453,
+      "output_tokens": 458,
+      "reasoning_tokens": 17313,
+      "cache_read_tokens": 16384,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "additional_source or duplicate → jelenia-gora-court-organizer-2-5-kg-marijuana-from-czech-republic",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 2 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "th-bangkok-five-tonnes",
+   "title": "Five tonnes of cannabis in a Bang Khen house",
+   "family": "new-event",
+   "tests": [
+    "units",
+    "corroboration",
+    "photos",
+    "languages"
+   ],
+   "why": "A large raid reported in English and Thai. The submitted page is a rewrite published a day later; the raid itself was on 19 October. Tonnes become kilograms, and the five people held are one Vietnamese and four from Myanmar.",
+   "submit": "https://www.chiangraitimes.com/bangkok/bangkok-marijuana-seized/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "th": 1
+    },
+    "date": {
+     "value": "2026-10-19",
+     "also": {
+      "2026-10-20": 0.5
+     }
+    },
+    "type": {
+     "raid": 1,
+     "seizure": 1,
+     "arrest": 0.5
+    },
+    "place": {
+     "coordinates": [
+      13.874,
+      100.596
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 5000,
+      "tolerance": 0.1
+     },
+     "arrested": {
+      "value": 5
+     }
+    },
+    "figures_optional": [
+     "charged",
+     "sites"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 5,
+      "why": "tonnes recorded as kilograms"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ],
+     "setting": [
+      "home"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "five people were held",
+      "any": [
+       "five",
+       "\\b5\\b"
+      ]
+     },
+     {
+      "say": "it was in Bang Khen",
+      "any": [
+       "Bang ?Khen"
+      ]
+     },
+     {
+      "say": "who they were",
+      "any": [
+       "Vietnam",
+       "Myanmar",
+       "Burm"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "chiangraitimes.com",
+      "aseannow.com",
+      "bangkokpost.com",
+      "khaosod.co.th",
+      "khaosodenglish.com",
+      "thethaiger.com",
+      "nationthailand.com",
+      "pattayamail.com",
+      "thairath.co.th",
+      "matichon.co.th",
+      "dailynews.co.th",
+      "mgronline.com",
+      "thaipbs.or.th"
+     ],
+     "markers": [
+      "Bang Khen",
+      "บางเขน",
+      "Khu Bon",
+      "คู้บอน",
+      "five ton",
+      "5 ton",
+      "5 ตัน",
+      "ห้าตัน"
+     ]
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "2026/10/1-22",
+      "bangkok-cannabis-2",
+      "bangkok-cannabis-3",
+      "c1_3340299"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 02:25 UTC.",
+     "model_explanation": "",
+     "flags": [
+      "A web search returned the tracker's own pages (it was told to ignore them): https://tracker.cannabisfreedom.fyi/report/bangkok-khu-bon-5-tonnes/"
+     ],
+     "usage": {
+      "seconds": 1794,
+      "research_seconds": 1776,
+      "steps": 13,
+      "searches": 1,
+      "pages_opened": 3,
+      "runs": 1,
+      "input_tokens": 216446,
+      "output_tokens": 2598,
+      "reasoning_tokens": 8292,
+      "cache_read_tokens": 264064,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Bangkok Bang Khen raid five tons marijuana Vietnamese Myanmar workers rental home"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 11 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  }
+ ]
+}
