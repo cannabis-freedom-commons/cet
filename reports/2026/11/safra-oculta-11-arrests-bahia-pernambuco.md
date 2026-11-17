@@ -69,14 +69,20 @@ sources:
     publisher: BandNews FM Salvador (Instagram)
     date: 2026-11-17
     language: pt
+  - title: CIPE/CAATINGA atua na Operação Safra Oculta e erradica plantação com 5.200 pés de maconha em Ibó-PE
+    url: https://www.redegn.com.br/?cod_noticia=225653&sessao=noticia
+    publisher: redeGN
+    date: 2026-11-17
+    language: pt
 open_questions:
-    - No count of cannabis plants destroyed or weight of cannabis seized was published for this operation.
-    - The number of properties searched is not given; Metrópoles reported 25 search and seizure warrants but only 11 arrests, and the Instagram post also reports 25 search warrants and 11 arrest orders.
-    - BandNews FM Salvador's Instagram post says 11 arrest orders were issued, whereas Metrópoles reported 16 temporary arrest warrants; the number of arrest warrants is reported inconsistently.
+    - No weight of cannabis seized was published for this operation; the approximately 5,200 plants reported by CIPE/Caatinga are an approximation for the Ibó plantation.
+    - The number of properties searched is not given; the reported figures are 25 search and seizure warrants but 11 arrests.
+    - 'Accounts disagree on the arrest warrants: Metrópoles and RedeGN reported 16 temporary arrest warrants, while BandNews FM Salvador''s Instagram post said 11 arrest orders.'
     - Bahia Notícias described the detainees as 11 men, while g1 said 11 people and named a woman among the operation's targets.
     - No charge, custody decision or court outcome was reported; the case remained at the investigation stage.
     - The 63-year figure is the combined maximum penalty for the suspected offences, not a sentence imposed.
-    - No figure was given for the cash and vehicles that Metrópoles said were seized.
+    - No figure was given for the cash and vehicles seized.
+    - The RedeGN CIPE/Caatinga account locates the eradicated plantation in Ibó, Pernambuco, while g1, Metrópoles and the Federal Police statement place the large plantation in Belém de São Francisco; whether these refer to the same site is not stated.
 ---
 
 Eleven people suspected of belonging to a criminal organisation involved in
@@ -87,19 +93,19 @@ of financing and producing the drug and of hiding assets and money through
 individuals and companies. [@1]
 
 Sixteen temporary arrest warrants and 25 search and seizure warrants were issued
-for the operation. [@3] Arrest and search warrants were served in Salvador,
+for the operation. [@3,5] Arrest and search warrants were served in Salvador,
 Abaré and Senhor do Bonfim in Bahia, and in Petrolina, Belém do São Francisco,
 Carnaubeira da Penha, Ibimirim and Recife in Pernambuco. [@1,4] Officers seized a
 rifle, a pistol, magazines, ammunition, mobile phones and documents. [@1,4]
 Searches also turned up mobile phones, cash and vehicles. [@3] Police also
 worked to eradicate a large cannabis plantation in Belém de São Francisco,
-Pernambuco, linked to one of the suspects. [@3,4] One target, a woman living in
+Pernambuco, linked to one of the suspects. [@3,4,5] As part of the operation, CIPE/Caatinga and BOPE/PMBA eradicated a Cannabis sativa plantation of about 5,200 plants in the municipality of Ibó, Pernambuco. [@5] One target, a woman living in
 Senhor do Bonfim in northern Bahia, was investigated for moving more than 1
 million reais through bank accounts linked to the scheme. [@1,4] At one address
 officers seized mobile phones and documents that will undergo forensic
 examination, and took a man to the Federal Police station in Juazeiro, northern
 Bahia. [@1] Investigations identified more than 116 million reais in financial
-transactions attributed to the group. [@1,4] A court ordered the freezing and
+transactions attributed to the group. [@1,4,5] A court ordered the freezing and
 seizure of assets and funds up to a limit of 300 million reais. [@2,4]
 
 The operation was coordinated by the Federal Police through its Base Carcará in
