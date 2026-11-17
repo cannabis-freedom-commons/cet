@@ -52,12 +52,18 @@ sources:
     publisher: Dhaka Mail
     date: 2026-11-16
     language: bn
+  - title: গাইবান্ধায় মোটরসাইকেলের সিট থেকে তিন কেজি গাঁজা উদ্ধার
+    url: https://www.protidinersangbad.com/whole-country/595777
+    publisher: Protidiner Sangbad
+    date: 2026-11-17
+    language: bn
 open_questions:
-  - The whole account rests on a single Desherpotro report citing district detective-branch sources, with no independent account found.
-  - The report says the raid occurred at 2:20 on the night of Monday 16 November 2026, so it may have begun late on 15 November; 16 November is used as the incident date.
-  - No value estimate, weighing details beyond the stated 2 kg plus 1 kg split, or laboratory confirmation of the dried ganja was reported.
-  - No detention measure, court appearance or outcome beyond the filing of case number 29 at Gaibandha Sadar station was reported.
-  - The spelling of the detained man's name differs between accounts.
+    - The whole account rests on district detective-branch information as reproduced by the cited outlets, with no independent account beyond police sources found.
+    - The report says the raid occurred at 2:20 on the night of Monday 16 November 2026, so it may have begun late on 15 November; 16 November is used as the incident date.
+    - No value estimate, weighing details beyond the stated 2 kg plus 1 kg split, or laboratory confirmation of the dried ganja was reported.
+    - No detention measure, court appearance or outcome beyond the filing of case number 29 at Gaibandha Sadar station was reported.
+    - Accounts spell the detained man's name differently, including Sujan Nomiya, Sujan Miya and Sujan Mia.
+    - Accounts differ on the detained man's age, given as 26 or 27, and on the time, given as about 2:20 or about 2:30 in the same overnight operation.
 media:
   - kind: photo
     url: https://dhakamail.com/country/343430
@@ -67,20 +73,20 @@ media:
 ---
 
 District Detective Branch police detained 26-year-old Md. Sujan Nomiya with 3 kg
-of dried ganja at Sukh-Shantir Mor in Gaibandha town. [@1,2] The detained youth is
+of dried ganja at Sukh-Shantir Mor in Gaibandha town. [@1,2,3] The detained youth is
 a resident of Purba Phulmati Balar Hat in Phulbari, Kurigram, and is the son of
-Md. Belal Hossain. [@1,2]
+Md. Belal Hossain. [@1,2,3]
 
 The raid took place at about 2:20 a.m. on Monday 16 November 2026 on the highway
 in front of the LGED building in the Sukh-Shantir Mor area of Gaibandha
-Municipality. [@1,2] A DB operation team led by the officer-in-charge of the
+Municipality. [@1,2,3] A DB operation team led by the officer-in-charge of the
 district detective branch carried out the raid on secret information under the
-overall direction of the Gaibandha superintendent of police. [@1] Searching a
+overall direction of the Gaibandha superintendent of police. [@1] The district detective branch officer-in-charge who confirmed the arrest on Monday was Abdul Motalib Sarkar. [@3] Searching a
 black Pulsar 150cc motorcycle, officers found 2 kg wrapped in white polythene
 and a further 1 kg wrapped in black polythene hidden in a special manner under
-the seat, 3 kg of dried ganja in total. [@1,2] Officers seized the drugs and the
-motorcycle in front of witnesses present at the scene. [@1,2]
+the seat, 3 kg of dried ganja in total. [@1,2,3] Officers seized the drugs and the
+motorcycle in front of witnesses present at the scene. [@1,2,3]
 
 A regular case numbered 29 was filed against the detained man at Gaibandha Sadar
 police station on 16 November under sections 36(1) table 19(a) and 38 of the
-Narcotics Control Act 2018. [@1,2]
+Narcotics Control Act 2018. [@1,2,3]
