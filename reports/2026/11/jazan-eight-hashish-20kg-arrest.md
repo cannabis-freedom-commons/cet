@@ -53,14 +53,20 @@ sources:
     publisher: صحيفة سبق
     date: 2026-11-17
     language: ar
+  - title: القبض على 5 أشخاص من الجنسيات الإثيوبية واليمنية والمواطنين في جازان بتهمة ترويج 20 كيلوجرامًا من الحشيش
+    url: https://www.alestad.com/158759/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-5-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A9/
+    publisher: الاستاد الاخباري
+    date: 2026-11-17
+    language: ar
 open_questions:
-  - The directorate's post gives eight people arrested while Ajel and Sabq reported five; the report uses the official figure of eight.
-  - The outlets' description of the group, Ethiopian border-security violators, Yemeni residents and a citizen, does not add up to eight and no breakdown of the eight was published.
-  - No date is given for the arrests themselves; 17 November 2026 is the date of the directorate's post and of the outlets' publication.
-  - No town or district within Jazan region was named, so the coordinates are for Jazan city, the regional capital.
-  - The suspects were not named, no ages were given and no plea or court outcome was reported; all were referred to the Public Prosecution.
-  - No value estimate was published for the 20 kilograms of hashish.
-  - The Ajel article also links a separate Jazan case involving six citizens and Yemeni violators accused of promoting hashish, a different event not covered here.
+    - The directorate's post gives eight people arrested while Ajel and Sabq reported five; the report uses the official figure of eight.
+    - The outlets' description of the group, Ethiopian border-security violators, Yemeni residents and a citizen, does not add up to eight and no breakdown of the eight was published.
+    - No date is given for the arrests themselves; 17 November 2026 is the date of the directorate's post and of the outlets' publication.
+    - No town or district within Jazan region was named, so the coordinates are for Jazan city, the regional capital.
+    - The suspects were not named, no ages were given and no plea or court outcome was reported; all were referred to the Public Prosecution.
+    - No value estimate was published for the 20 kilograms of hashish.
+    - The Ajel article also links a separate Jazan case involving six citizens and Yemeni violators accused of promoting hashish, a different event not covered here.
+    - Alestad's breakdown of the group as one citizen, three Ethiopians and two Yemenis totals six, while its own headline and text say five were arrested.
 ---
 
 Saudi Arabia's General Directorate of Narcotics Control said it arrested eight
@@ -68,7 +74,7 @@ people in Jazan region and accused them of promoting 20 kilograms of hashish.
 [@1] The directorate announced the arrests in a post on its X account on 17
 November 2026. [@1] Ajel reported five arrests in Jazan region, describing the
 suspects as Ethiopian violators of the border security law, Yemeni residents and
-a Saudi citizen. [@2]
+a Saudi citizen. [@2,4]
 
 The directorate said the suspects were stopped, legal procedures were taken
 against them and they were referred to the Public Prosecution. [@2] Sabq
@@ -79,4 +85,3 @@ The directorate asked the public to report drug smugglers and promoters on 995,
 on 911 in Mecca, Medina, Riyadh and the Eastern Province and on 999 in the rest
 of the kingdom. [@2] Reports can also be sent by email to 995@gdnc.gov.sa, the
 directorate said. [@2]
-
