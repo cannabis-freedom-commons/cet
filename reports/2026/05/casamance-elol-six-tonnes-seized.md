@@ -57,10 +57,15 @@ sources:
     publisher: APAnews - Agence de Presse Africaine
     date: 2026-05-08
     language: fr
+  - title: 'Sénégal: en Casamance, des rebelles affaiblis mais la paix minée par le cannabis'
+    url: https://www.dakaractu.com/Senegal-en-Casamance-des-rebelles-affaiblis-mais-la-paix-minee-par-le-cannabis_a271916.html
+    publisher: DAKARACTU.COM
+    date: 2026-05-15
+    language: fr
 ---
 
 From 1 to 7 May 2026 the Senegalese army ran Operation ELOL in Bignona department, near the
-Gambian border in Casamance. [@1,3] Colonel Cheikh Guèye's forces searched a quadrilateral between
+Gambian border in Casamance. [@1,3,4] Colonel Cheikh Guèye's forces searched a quadrilateral between
 Masaran-Dièye, Djoundji, Balla Bassène, Djibidione, Balla Ougonor and Niallé, an area the
 general staff treats as a clandestine cultivation stronghold. [@1]
 
@@ -71,7 +76,7 @@ handed to the judiciary; weapons, farm inputs and logistics equipment were also 
 
 Reporting on the same sweep, AFP quoted Colonel Gueye in Ziguinchor as saying an operation earlier
 in May near the Gambian border had led to 14 arrests and the seizure of six tonnes of cannabis
-alongside "weapons of war". [@2] The Times of India carried the AFP dispatch on Casamance
+alongside "weapons of war". [@2,4] The Times of India carried the AFP dispatch on Casamance
 cannabis funding rebel networks; it did not add separate figures beyond the colonel's summary.
 [@2]
 
