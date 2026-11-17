@@ -857,6 +857,11 @@ sources:
     url: https://people.com/us-basketball-player-arrested-allegedly-abandoned-75-lbs-of-marijuana-at-airport-12258747
     publisher: People
     date: 2026-11-16
+  - title: Αμερικανός μπασκετμπολίστας συνελήφθη στη Νιγηρία με σχεδόν 34 κιλά κάνναβης!
+    url: https://monobala.gr/amerikanos-basketbolistas-synelifthi-sti-nigiria-me-schedon-34-kila-kannavis/
+    publisher: Monobala
+    date: 2026-11-16
+    language: el
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cj93rggenq4xo
@@ -948,9 +953,6 @@ media:
     media_url: https://people.com/thmb/WVHEW621xfgl_qUeHTQMhIJWog=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2):format(webp)/greene-damonte-khiree-arrest-lagos-nigera-111626-3d0b02f501c14ea648aff214c115d2.jpg
     publisher: People
     caption: 'Greene Da’monte Khiree in the NDLEA handout photo published with the People account. Photo: National Drug Law Enforcement Agency'
-open_questions:
-  - The new account reports 16 packages while the recorded account reports 32 parcels of Loud.
-  - No charges or next legal proceedings were reported.
 ---
 
 NDLEA operatives at Murtala Muhammed International Airport in Lagos intercepted
@@ -961,11 +963,11 @@ intelligence and was observed abandoning his two checked-in bags to leave the
 airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56,57,58,61,62,63,64,66,67,70,72,73,75,76,77,79,83,84,86,87,90,93,94,95,98,99,100,101,103,105,106,107,109,110,111,112,115,118,120,121,122,123,124,127,130,131,132,133,135,136,137,140,141,143,144,145,146,147,148,150,151,152,155,156,159,160,162,163,165,167,168,169,170,171,172,174,175,176] He was promptly apprehended at the
 airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49,57,63,64,72,77,78,80,81,82,87,88,90,91,92,95,96,97,100,101,102,103,108,117,121,128,129,133,134,135,138,142,146,147,149,150,156,157,162,163,166,168,170,172,174,175,177] A second account confirms NDLEA arrested the American
 professional basketball player after discovering 32 parcels of Loud in his
-luggage at the same Lagos airport. [@2,9,25,29,48,50,53,71,72,97,104,124,125,149,150,173,180,181,183,184,187] A tracking device was recovered in the bag with the cannabis parcels. [@184]
+luggage at the same Lagos airport. [@2,9,25,29,48,50,53,71,72,97,104,124,125,149,150,173,180,181,183,184,187,189] A tracking device was recovered in the bag with the cannabis parcels. [@184]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
-33.95 kilograms. [@1,3,6,7,10,11,12,13,14,16,17,18,20,21,22,23,26,28,30,31,33,35,36,38,39,40,41,42,43,46,47,49,50,51,52,54,55,56,57,58,59,61,62,63,64,65,66,67,69,70,73,74,75,76,77,79,80,82,83,84,86,87,88,89,90,92,93,94,95,96,97,99,100,101,102,103,106,107,108,109,110,111,112,113,114,115,116,118,119,120,121,122,123,124,126,127,128,129,130,131,132,133,134,135,136,137,139,140,141,143,144,145,146,147,148,150,151,153,154,155,156,159,160,161,165,167,169,170,171,174,180,182,183,184,185,186,187,188] He allegedly abandoned two checked-in bags before attempting to exit the airport with his carry-on. [@184] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23,26,30,31,32,33,35,37,38,40,41,43,45,46,47,50,51,52,53,54,55,57,58,60,61,62,63,65,66,68,69,70,73,74,75,76,77,80,81,83,85,86,87,88,89,90,91,93,94,95,96,97,98,99,102,104,105,107,112,113,115,118,119,120,123,124,126,127,128,129,130,134,135,136,138,139,141,145,146,147,151,153,154,159,160,165,168,169,174]
+33.95 kilograms. [@1,3,6,7,10,11,12,13,14,16,17,18,20,21,22,23,26,28,30,31,33,35,36,38,39,40,41,42,43,46,47,49,50,51,52,54,55,56,57,58,59,61,62,63,64,65,66,67,69,70,73,74,75,76,77,79,80,82,83,84,86,87,88,89,90,92,93,94,95,96,97,99,100,101,102,103,106,107,108,109,110,111,112,113,114,115,116,118,119,120,121,122,123,124,126,127,128,129,130,131,132,133,134,135,136,137,139,140,141,143,144,145,146,147,148,150,151,153,154,155,156,159,160,161,165,167,169,170,171,174,180,182,183,184,185,186,187,188,189] He allegedly abandoned two checked-in bags before attempting to exit the airport with his carry-on. [@184] A tracking device was also recovered from the bags. [@1,3,4,6,7,11,12,13,15,16,17,18,19,20,22,23,26,30,31,32,33,35,37,38,40,41,43,45,46,47,50,51,52,53,54,55,57,58,60,61,62,63,65,66,68,69,70,73,74,75,76,77,80,81,83,85,86,87,88,89,90,91,93,94,95,96,97,98,99,102,104,105,107,112,113,115,118,119,120,123,124,126,127,128,129,130,134,135,136,138,139,141,145,146,147,151,153,154,159,160,165,168,169,174]
 The agency describes Loud as a potent strain of cannabis. [@1,3,5,23,25,27,28,29,34,35,37,43,45,46,50,53,58,59,60,61,64,68,77,78,80,83,85,86,89,90,98,105,108,111,115,118,121,127,128,133,149,157,159,164,165,166,168,174,177]
 
 The suspect, a native of Savannah, Georgia, said he had lived in Thailand since
