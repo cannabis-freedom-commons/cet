@@ -52,6 +52,11 @@ media:
     media_url: https://www.jagranimages.com/images/2026/11/17/article/image/ghaziabad-police-1794908178994_v.webp
     publisher: Jagran
     caption: 'Police officers brief the media about the ganja smuggling network in Ghaziabad. Photo: Jagran'
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/ghaziabad-police-busted-cannabis-smuggling-network-two-smugglers-arrested-dls26111705861
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/17-11-2026/1200-675-28131461-thumbnail-16x9-aaa.jpeg
+    publisher: ETV Bharat
+    caption: 'Ganja worth 80 lakh rupees recovered in Ghaziabad, in the photograph published with the ETV Bharat report. Photo: ETV Bharat'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: db0bdcd0a422b90afd9a7b0cca4f3dbc
@@ -82,24 +87,29 @@ sources:
     publisher: Navbharat Times
     date: 2026-11-17
     language: hi
+  - title: 'गाजियाबाद में गांजा तस्करी के एक नेटवर्क का भंडाफोड़: 80 लाख का गांजा बरामद, दो तस्कर गिरफ्तार'
+    url: https://www.etvbharat.com/hi/state/ghaziabad-police-busted-cannabis-smuggling-network-two-smugglers-arrested-dls26111705861
+    publisher: ETV Bharat
+    date: 2026-11-17
+    language: hi
 ---
 
 Ghaziabad crime branch and Muradnagar police arrested two alleged ganja
 smugglers during a check on the night of 16 November 2026 under Operation
-Prahar. [@1,2,3,4,5] Acting on an informer's tip, officers stopped an Eicher canter at
-about 11 pm on the road from Kakda Pulia toward the Sonda Pul canal. [@1,2,3,5] Police
+Prahar. [@1,2,3,4,5,6] Acting on an informer's tip, officers stopped an Eicher canter at
+about 11 pm on the road from Kakda Pulia toward the Sonda Pul canal. [@1,2,3,5,6] Police
 identified the two as Praveen Tyagi of Bhaneda, now living in Keshav Kunj
-Colony, Modinagar, and Arun Sharma of Jatauli, Kankarkheda, Meerut. [@1,2,3,5] Police gave Praveen Tyagi's age as 53 and Arun Sharma's as 52. [@5]
+Colony, Modinagar, and Arun Sharma of Jatauli, Kankarkheda, Meerut. [@1,2,3,5,6] Police gave Praveen Tyagi's age as 53 and Arun Sharma's as 52. [@5]
 
 Officers seized about 164 kg of illegal ganja from their possession along with
-the Eicher canter used for smuggling. [@1,2,3,4,5] Police estimated the seized ganja's
-value at about Rs 80 lakh. [@1,2,3,4,5] A case was registered against them at Muradnagar
+the Eicher canter used for smuggling. [@1,2,3,4,5,6] Police estimated the seized ganja's
+value at about Rs 80 lakh. [@1,2,3,4,5,6] A case was registered against them at Muradnagar
 police station under the NDPS Act and further legal action was under way. [@1,5] Police said Praveen Tyagi already had Excise Act and NDPS Act cases registered against him, while Arun Sharma had Excise Act and fraud cases at Kankar Kheda police station in Meerut. [@3]
 
 Questioning found Arun runs a grocery shop in Jatauli, where he met Praveen
 about 25 years ago, and that both had smuggled illicit liquor since 2017. [@1,3,5] Police said the two sold the smuggled liquor at high prices in Ghaziabad, Meerut and Haridwar, among other places. [@5]
 After liquor smuggling brought little profit, the pair had smuggled ganja for
 eight months through Arvind alias Bhura, dealing with local smugglers in Odisha
-and Visakhapatnam to supply NCR and western Uttar Pradesh. [@1,2,4,5] Police said the ganja was brought hidden among other goods along different routes. [@5] About 100 kg of ganja passed through the network in the month before the arrest, and police formed a team to act against others named in questioning. [@2,4,5] Police said the trade brought about Rs 3,000 in profit per kilogram of ganja. [@2] Praveen had
+and Visakhapatnam to supply NCR and western Uttar Pradesh. [@1,2,4,5,6] Police said the ganja was brought hidden among other goods along different routes. [@5,6] About 100 kg of ganja passed through the network in the month before the arrest, and police formed a team to act against others named in questioning. [@2,4,5,6] Police said the trade brought about Rs 3,000 in profit per kilogram of ganja. [@2] Praveen had
 bought the Eicher canter in his friend Yogendra's name with both paying its
-instalments, and the pair used an app to talk to each other. [@1,5] Police said the Eicher canter had been used to move ganja for the past six months. [@5] The two talked to each other on the Zangi app and used false names to conceal their identity. [@2,4,5]
+instalments, and the pair used an app to talk to each other. [@1,5,6] Police said the Eicher canter had been used to move ganja for the past six months. [@5] The two talked to each other on the Zangi app and used false names to conceal their identity. [@2,4,5]
