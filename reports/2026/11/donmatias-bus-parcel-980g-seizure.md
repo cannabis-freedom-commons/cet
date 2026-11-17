@@ -38,6 +38,11 @@ media:
     media_url: https://staticprd.minuto30.com/wp-content/uploads/2026/11/1-donmatias-12nov-768x432.webp
     publisher: Minuto30
     caption: 'Two seized packages from the Donmatías roadside check. Photo: Policía Nacional'
+  - kind: photo
+    url: https://analisisurbano.org/noticia/donmatias-antioquia-incautan-980-gramos-de-marihuana-creepy-en-un-bus-de-servicio-publico
+    media_url: https://analisisurbano.org/api/public/s3/wp-content/uploads/2026/11/au-b1505019-4877-4e72-99ec-2b7a5c53611b.jpg
+    publisher: Análisis Urbano
+    caption: 'The two packages of suspected Creepy-type marijuana seized during the roadside check in Donmatías. Photo: Policía de Colombia'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5268116a49ae6934cb16399db12ac083
@@ -48,29 +53,33 @@ sources:
     publisher: Minuto30
     date: 2026-11-16
     language: es
+  - title: 'Donmatías, Antioquia: incautan 980 gramos de marihuana Creepy en un bus de servicio público'
+    url: https://analisisurbano.org/noticia/donmatias-antioquia-incautan-980-gramos-de-marihuana-creepy-en-un-bus-de-servicio-publico
+    publisher: Análisis Urbano
+    date: 2026-11-17
+    language: es
 open_questions:
-  - The 980 grams was described as suspected creepy-type marijuana, with no laboratory confirmation reported.
-  - No sender, recipient, arrest, charge or later judicial outcome was reported for the two packages.
-  - The account rests on a single opened outlet account attributed to the National Police; no agency statement or second outlet for the same seizure was found.
+    - The 980 grams was described as suspected creepy-type marijuana, with no laboratory confirmation reported.
+    - No sender, recipient, arrest, charge or later judicial outcome was reported for the two packages.
+    - Análisis Urbano and Minuto30 both reproduce the same National Police account of the seizure, so they are not independent reporting; no separate agency statement was opened.
 ---
 
 No arrests were reported in the seizure of a drug parcel from a public-service
 bus in Donmatías. [@1] The report identified neither the sender nor the intended
 recipient of the consignment. [@1] The seized material was placed at the
-disposal of the sectional prosecutor's office in Santa Rosa de Osos. [@1] The
+disposal of the sectional prosecutor's office in Santa Rosa de Osos. [@1,2] The
 case was linked to alleged trafficking, manufacture or possession of narcotics
-under article 376 of the Penal Code. [@1]
+under article 376 of the Penal Code. [@1,2]
 
 Officers seized 980 grams of suspected creepy-type marijuana transported as a
-parcel in a public-service bus. [@1] Units of Transit and Transport Group 06
+parcel in a public-service bus. [@1,2] Units of Transit and Transport Group 06
 found the material distributed in two packages. [@1] The parcel was being
-carried as an encomienda on a vehicle covering the Medellín-Nechí route. [@1]
+carried as an encomienda on a vehicle covering the Medellín-Nechí route. [@1,2]
 The check took place on the Hatillo-Llanos de Cuivá road at kilometre 45+800 in
-the Riogrande sector. [@1] The procedure took place at about 5:30 a.m. on
-Thursday 12 November 2026. [@1]
+the Riogrande sector. [@1,2] The procedure took place at about 5:30 a.m. on
+Thursday 12 November 2026. [@1,2]
 
 The inspection was part of prevention, control and registration activities
-targeting people and vehicles. [@1] The account was attributed to the National
+targeting people and vehicles. [@1,2] The account was attributed to the National
 Police. [@1] The report gave no later judicial decisions and attributed
 responsibility for the two packages to no identified person. [@1]
-
