@@ -94,22 +94,28 @@ sources:
     publisher: i24NEWS
     date: 2026-11-17
     language: he
-open_questions:
-    - No date for the sentencing hearing itself was reported; 15 November 2026, the date of the first published account, stands in for it.
+  - title: Liverpool pensioner caught with... - Liverpool Echo News | Facebook
+    url: https://www.facebook.com/theliverpoolecho/posts/liverpool-pensioner-caught-with-100k-of-drugs-on-thailand-flight/1498700929022845/
+    publisher: Liverpool Echo News
+    date: 2026-11-17
+  - title: Netherley pensioner caught with £100k of cannabis at Manchester Airport after Thailand flight
+    url: https://www.liverpoolecho.co.uk/news/liverpool-news/netherley-pensioner-caught-100k-cannabis-34922730
+    publisher: Liverpool Echo
+    date: 2026-11-17
 ---
 
 Jack Debson, 74, of Brownbill Bank, Liverpool, was jailed for three years at
 Manchester Crown Court after admitting being concerned in the fraudulent evasion
 of a prohibition on the importation of a class B drug, namely cannabis. [@1,2,3,5,6]
 Border Force officers stopped Debson in Terminal 2 at Manchester Airport on 11
-June 2026 after he arrived on a flight from Thailand via Dubai. [@1,2,3,5,6] When the
+June 2026 after he arrived on a flight from Thailand via Dubai. [@1,2,3,5,6,8] When the
 first suitcase was opened, black vacuum-sealed packages containing the class B
 drug were found under a towel. [@1,4,5] More vacuum-sealed packages containing drugs
 were found under another towel in the second suitcase. [@1,5] In total, the
-cannabis found weighed 33.25 kilos with a street value of £100,000. [@1,2,3,4,5,6]
+cannabis found weighed 33.25 kilos with a street value of £100,000. [@1,2,3,4,5,6,7]
 
 Debson at first denied the drugs found in his suitcases had anything to do with
-him. [@1,4] He told officers he had packed both suitcases himself and that they
+him. [@1,4,8] He told officers he had packed both suitcases himself and that they
 contained no contraband, only clothes. [@1,6] When he was arrested he denied the
 offence, but four days before his trial he changed his plea, saying he had acted
 under direction for a £3,000 fee. [@1,3,6] Debson had seven sets of previous
