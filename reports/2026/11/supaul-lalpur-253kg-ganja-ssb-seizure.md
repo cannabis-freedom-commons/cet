@@ -50,11 +50,22 @@ sources:
     publisher: Jagran
     date: 2026-11-17
     language: hi
+  - title: भारत-नेपाल सीमा पर SSB की बड़ी कार्रवाई, 253 किलो गांजा बरामद; आठ बोरियों में छिपाकर रखी गई थी खेप
+    url: https://www.youthindiatoday.com/articles/ssb-253-06e91c22
+    publisher: Youth India 24 News
+    date: 2026-11-17
+    language: hi
+media:
+  - kind: photo
+    url: https://www.youthindiatoday.com/articles/ssb-253-06e91c22
+    media_url: https://www.youthindiatoday.com/cdn-cgi/image/width=960,quality=75,format=auto,fit=scale-down,onerror=redirect/https://media.youthindiatoday.com/uploads/06c71b17-6540-4c63-abfa-4da75489d165.jpg
+    publisher: Youth India 24 News
+    caption: Ganja consignment hidden in eight plastic bags seized by the SSB at the India-Nepal border in Supaul, in the photo published with this report.
 ---
 
 The 45th Battalion of the Sashastra Seema Bal in Veerpur seized 253 kilograms of
-ganja on the India-Nepal border. [@1,2,3] The ganja had been packed into eight
-plastic bags and hidden. [@1,2,3] Smugglers fled the spot under cover of darkness
+ganja on the India-Nepal border. [@1,2,3,4] The ganja had been packed into eight
+plastic bags and hidden. [@1,2,3,4] Smugglers fled the spot under cover of darkness
 after seeing the SSB naka party. [@1] A drone-assisted search of the surrounding
 area found no suspects. [@1,2,3]
 
