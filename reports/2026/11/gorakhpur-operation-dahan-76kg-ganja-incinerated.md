@@ -58,6 +58,11 @@ sources:
     publisher: Hindustan
     date: 2026-11-17
     language: hi
+  - title: 'Gorakhpur News: ऑपरेशन दहन में 38.23 लाख रुपये का गांजा नष्ट, 11 मुकदमों से जब्त हुआ था 76 किलो मादक पदार्थ, Gorakhpur Hindi News - Hindustan'
+    url: https://www.livehindustan.com/uttar-pradesh/gorakhpur/story-gorakhpur-police-destroy-76-46-kg-cannabis-worth-38-23-lakh-under-operation-dahan-201794919466577.html
+    publisher: Live Hindustan
+    date: 2026-11-17
+    language: hi
 open_questions:
   - No breakdown of the 76.460 kg across the 11 cases or the 7 police stations was published.
   - The Rs 38.23 lakh value is the police's own estimate; no independent valuation was reported.
@@ -66,6 +71,6 @@ open_questions:
 ---
 
 Gorakhpur police on Tuesday, 17 November 2026 destroyed illegal ganja they
-valued at Rs 38.23 lakh under 'Operation Dahan'. [@1,2] After a court order,
+valued at Rs 38.23 lakh under 'Operation Dahan'. [@1,2,3] After a court order,
 76.460 kg of ganja linked to 11 cases registered at 7 different police stations
-of the district was burned to ash in a high-capacity incinerator. [@1,2] The seven stations were Khajni, Ams, Belipar, Sahjanwa, Khorabar, Gola and Gorakhnath. [@2] The ganja was burned using a high-capacity incinerator run by AV Bio Medical Waste Services in Gida. [@2]
+of the district was burned to ash in a high-capacity incinerator. [@1,2,3] The seven stations were Khajni, Ams, Belipar, Sahjanwa, Khorabar, Gola and Gorakhnath. [@2,3] The ganja was burned using a high-capacity incinerator run by AV Bio Medical Waste Services in Gida. [@2,3] The whole disposal process was carried out transparently in the presence and under the supervision of the committee formed for drug disposal. [@3]
