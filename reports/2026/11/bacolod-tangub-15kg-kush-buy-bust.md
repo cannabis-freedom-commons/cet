@@ -59,31 +59,36 @@ sources:
     publisher: Philippine National Police
     date: 2026-11-17
     language: en
+  - title: Police arrest suspect with P18M in marijuana
+    url: https://www.msn.com/en-ph/news/world/police-arrest-suspect-with-p18m-in-marijuana/ar-AA2hE3z7
+    publisher: The Manila Times (via MSN)
+    date: 2026-11-18
 open_questions:
-    - The weight and value are the police figures as reported, stated as about 15 kilograms worth PHP18 million, with no exact measured breakdown per bag published.
+    - The weight and value are the police figures as reported, stated as about 15 kilograms worth PHP18 million, with no exact measured breakdown published.
     - No laboratory confirmation, plea, detention measure or court outcome was reported; charges were still being prepared.
-    - The PNA report identified the suspect only by the alias “Tol” and gave no residence address beyond Barangay Tangub.
+    - The suspect was identified only by the alias “Tol”, with no residence address published beyond Barangay Tangub.
     - The Thailand origin, wider distribution and possible big-time companions are the police account under investigation, not independently established facts.
-    - The PNA report and the PNP-PIO Facebook statement are both police accounts of the same operation, so they are not independent corroboration.
-    - The PNP-PIO statement gives the suspect's age as 28 while the PNA report says 29; the discrepancy is unresolved.
+    - All published accounts of the operation derive from the police, so the figures and allegations have not been independently verified.
+    - The PNP-PIO statement and the Manila Times account give the suspect's age as 28 while the PNA report says 29; the discrepancy is unresolved.
+    - The Manila Times account says 160,000 packs of marijuana were recovered, while the PNA report describes 32 bags totalling about 15 kilograms; the two measures were not reconciled.
 ---
 
 Officers of the Bacolod City Police Office City Drug Enforcement Unit arrested a
 lone 29-year-old suspect known only by the alias “Tol” in a buy-bust at a
 residence in Barangay Tangub, Bacolod City, at noon on Tuesday, Nov. 17, 2026.
-[@1,2] Police identified the arrested suspect as a high-value individual listed in the local anti-drug abuse database. [@2] City police director Col. Eugene Rebadomia said the unit caught up with the
-suspect after five to six months of monitoring. [@1] Charges for violation of
+[@1,2,3] Police identified the arrested suspect as a high-value individual listed in the local anti-drug abuse database. [@2] Records showed that alias “Tol” had previously been imprisoned in a case related to illegal drugs. [@3] City police director Col. Eugene Rebadomia said the unit caught up with the
+suspect after five to six months of monitoring. [@1,3] Police said the suspect did not stay in one place and allegedly had several people helping him move and deliver the drugs. [@3] Charges for violation of
 the Comprehensive Dangerous Drugs Act of 2002 were being prepared against the
 suspect. [@1] The suspect will face charges under Sections 5 and 11 of Republic Act 9165. [@2]
 
 Officers recovered 32 factory-sealed transparent plastic bags containing
 marijuana kush, of which two bags were seized as buy-bust items and 30 bags were
 later found in the suspect's possession. [@1] Police put the haul at about 15
-kilograms of kush valued at PHP18 million. [@1,2] The undercover officer bought
-the buy-bust items from the suspect using two PHP1,000 bills. [@1]
+kilograms of kush valued at PHP18 million. [@1,2,3] The undercover officer bought
+the buy-bust items from the suspect using two PHP1,000 bills. [@1] Bacolod City Police director Col. Eugene Rebadomia said users of high-grade marijuana kush are mostly people in the upper-income bracket. [@3]
 
 City drug enforcement chief Lt. Col. Roberto Indiape said the items were being
 supplied not only in Bacolod but also in neighboring Iloilo through courier
-service. [@1] He said the supply came from Thailand for distribution in Bacolod
+service. [@1,3] The suspect allegedly admitted to distributing illegal drugs. [@3] He said the supply came from Thailand for distribution in Bacolod
 and other parts of the Philippines, that the suspect could have big-time
-companions, and that investigation was continuing. [@1]
+companions, and that investigation was continuing. [@1,3]
