@@ -87,6 +87,11 @@ sources:
     publisher: الجمهور الإخباري
     date: 2026-11-16
     language: ar
+  - title: النص الكامل لتقرير المعمل الكيماوي لمخدرات ضبطت بحوزة راكب بمطار القاهرة
+    url: https://www.vetogate.com/5772199
+    publisher: فيتو
+    date: 2026-11-17
+    language: ar
 media:
   - kind: photo
     url: https://www.vetogate.com/5771294
@@ -123,6 +128,11 @@ media:
     media_url: https://mediaaws-live.almasryalyoum.com/almasryalyoum/uploads/images/2026/11/16/2115663.webp
     publisher: المصري اليوم
     caption: Some of the seized items from the five Cairo airport smuggling attempts.
+  - kind: photo
+    url: https://www.vetogate.com/5772199
+    media_url: https://cdn.vetogate.com/UploadCache/libfiles/442/2/800x450o/242.webp
+    publisher: فيتو
+    caption: 'Drugs seized from the passenger at Cairo airport. Photo: Veto'
 ---
 
 Security forces at Cairo International Airport seized five smuggling attempts
@@ -131,7 +141,7 @@ in violation of the law. [@1,2,5,6,7,8,10,11,12] The marijuana attempt took plac
 department of Passenger Terminal 3 during inspection of passengers arriving from
 Athens on a Greek airline flight. [@1,2,7,8,10,11] Officers suspected an Egyptian passenger
 as he left the customs committee gate, X-rayed his bags and found two cream
-containers holding four bags containing marijuana. [@1,3,5,6,7,8,10,11,12]
+containers holding four bags containing marijuana. [@1,3,5,6,7,8,10,11,12,13]
 
 In a second attempt, officers stopped a foreign passenger arriving from Baghdad
 on an Iraqi airline flight and found 40 ampoules for treating cancerous tumours
@@ -143,4 +153,4 @@ found 38 mobile phones hidden among clothes. [@1,5]
 
 In a fifth attempt, officers stopped another foreign passenger arriving from
 China and found 34 mobile phones hidden among clothes. [@1,5] Authorities took
-legal measures and drew up five customs seizure reports. [@1,4,5,6,10,11,12] The Nozha prosecution ordered the passenger held for four days pending investigation into the marijuana possession and tasked criminal investigators with completing inquiries into the incident. [@9]
+legal measures and drew up five customs seizure reports. [@1,4,5,6,10,11,12] The Nozha prosecution ordered the passenger held for four days pending investigation into the marijuana possession and tasked criminal investigators with completing inquiries into the incident. [@9] Chemical examination found the four bags held green plant parts that proved to be narcotic marijuana, a cannabis derivative listed in the first schedule of the drug-control law. [@13] The Nozha prosecution received the chemical laboratory report on the marijuana seized from the passenger at Cairo airport. [@13]
