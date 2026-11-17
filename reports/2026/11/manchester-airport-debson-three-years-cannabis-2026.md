@@ -63,6 +63,11 @@ media:
     media_url: https://i.dailymail.com/1s/2026/11/16/17/112532605-16295855-Jack_Debson_74_was_caught_with_33kg_of_the_drug_worth_100_000_at-m-2_1794848690493.jpg
     publisher: Daily Mail
     caption: Jack Debson, 74, in the photo published with the report on the Manchester Airport cannabis suitcases.
+  - kind: photo
+    url: https://www.wochenblitz.com/brite-74-mit-33-kilo-cannabis-aus-thailand-im-koffer/
+    media_url: https://cdn.wochenblitz.com/2026/11/wb-20261117-062847.jpg
+    publisher: Wochenblitz
+    caption: 'Jack Debson, the 74-year-old jailed over the Manchester Airport cannabis suitcases, in the police handout published with the article. Photo: Manchester Police'
 status: verified
 created_by_model: muse/muse-ember-1.0#max
 submission: 38724d1af4c4521617f5b3e20e360ebf
@@ -102,28 +107,33 @@ sources:
     url: https://www.liverpoolecho.co.uk/news/liverpool-news/netherley-pensioner-caught-100k-cannabis-34922730
     publisher: Liverpool Echo
     date: 2026-11-17
+  - title: Brite (74) mit 33 Kilo Cannabis aus Thailand im Koffer
+    url: https://www.wochenblitz.com/brite-74-mit-33-kilo-cannabis-aus-thailand-im-koffer/
+    publisher: Wochenblitz
+    date: 2026-11-17
+    language: de
 ---
 
 Jack Debson, 74, of Brownbill Bank, Liverpool, was jailed for three years at
 Manchester Crown Court after admitting being concerned in the fraudulent evasion
-of a prohibition on the importation of a class B drug, namely cannabis. [@1,2,3,5,6]
+of a prohibition on the importation of a class B drug, namely cannabis. [@1,2,3,5,6,9]
 Border Force officers stopped Debson in Terminal 2 at Manchester Airport on 11
-June 2026 after he arrived on a flight from Thailand via Dubai. [@1,2,3,5,6,8] When the
+June 2026 after he arrived on a flight from Thailand via Dubai. [@1,2,3,5,6,8,9] When the
 first suitcase was opened, black vacuum-sealed packages containing the class B
-drug were found under a towel. [@1,4,5] More vacuum-sealed packages containing drugs
+drug were found under a towel. [@1,4,5] Prosecutor Evita Perkone described the contents of the suitcases to Manchester Crown Court. [@9] More vacuum-sealed packages containing drugs
 were found under another towel in the second suitcase. [@1,5] In total, the
-cannabis found weighed 33.25 kilos with a street value of £100,000. [@1,2,3,4,5,6,7]
+cannabis found weighed 33.25 kilos with a street value of £100,000. [@1,2,3,4,5,6,7,9]
 
 Debson at first denied the drugs found in his suitcases had anything to do with
-him. [@1,4,8] He told officers he had packed both suitcases himself and that they
+him. [@1,4,8,9] He told officers he had packed both suitcases himself and that they
 contained no contraband, only clothes. [@1,6] When he was arrested he denied the
 offence, but four days before his trial he changed his plea, saying he had acted
-under direction for a £3,000 fee. [@1,3,6] Debson had seven sets of previous
+under direction for a £3,000 fee. [@1,3,6,9] Debson had seven sets of previous
 convictions for eleven offences, including a five-year prison sentence in
-October 2011 for cultivating cannabis. [@1,4,6] He received a further 13-month
+October 2011 for cultivating cannabis. [@1,4,6,9] He received a further 13-month
 prison sentence the following year for production of cannabis. [@1] In
 mitigation, James Hudson said Debson was in poor health with heart problems and
-high blood pressure. [@1,6] Hudson said there was a realistic prospect of
+high blood pressure. [@1,6,9] Hudson said there was a realistic prospect of
 rehabilitation and urged the judge to step away from an immediate prison
 sentence. [@1]
 
@@ -133,4 +143,4 @@ found no realistic prospect of rehabilitation, noting a pre-sentence report had
 concluded Debson had shown no remorse and did not appreciate the risk of harm
 caused by cannabis. [@1,6] He concluded that only immediate custody would be
 adequate punishment. [@1] Debson appeared by videolink and thanked the judge
-after the sentence was announced. [@1,2]
+after the sentence was announced. [@1,2,9]
