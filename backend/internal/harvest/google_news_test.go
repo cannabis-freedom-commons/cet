@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"encoding/xml"
-	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
+	"errors"
 	"io"
 	"net/http"
 	"net/url"
@@ -12,7 +12,10 @@ import (
 	"path/filepath"
 	"strings"
 	"testing"
+	"testing/synctest"
 	"time"
+
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 )
 
 type newsTransport func(*http.Request) (*http.Response, error)
@@ -132,6 +135,102 @@ func TestGoogleSchedulerRepeatsAndStops(t *testing.T) {
 		}
 	case <-time.After(3 * time.Second):
 		t.Fatal("scheduler did not stop")
+	}
+}
+
+func TestGoogleRateLimitCooldown(t *testing.T) {
+	now := time.Date(2026, time.November, 17, 1, 0, 0, 0, time.UTC)
+	for _, tt := range []struct {
+		header string
+		want   time.Duration
+	}{
+		{"75", 75 * time.Second},
+		{"0", 0},
+		{now.Add(15 * time.Minute).Format(http.TimeFormat), 15 * time.Minute},
+		{now.Add(-time.Minute).Format(http.TimeFormat), 5 * time.Minute},
+		{"", 5 * time.Minute},
+		{"-1", 5 * time.Minute},
+	} {
+		if got := (&googleNewsRateLimit{retryAfter: tt.header}).cooldown(now); got != tt.want {
+			t.Errorf("Retry-After %q: got %s, want %s", tt.header, got, tt.want)
+		}
+	}
+}
+
+func TestGoogleSchedulerWaitsAndKeepsRateLimitedBatch(t *testing.T) {
+	synctest.Test(t, func(t *testing.T) {
+		ctx, cancel := context.WithCancel(t.Context())
+		defer cancel()
+		var first time.Time
+		calls := 0
+		g := GoogleNews{
+			Queries:        []GoogleNewsQuery{{"US:en", "first"}, {"US:en", "second"}},
+			QueriesPerScan: 1,
+			Interval:       time.Second,
+			client: &http.Client{Transport: newsTransport(func(r *http.Request) (*http.Response, error) {
+				calls++
+				if got := r.URL.Query().Get("q"); got != "first" {
+					t.Errorf("rate limited batch advanced: %q", got)
+				}
+				res := newsResponse(r, `<rss><channel/></rss>`)
+				if calls == 1 {
+					first = time.Now()
+					res.StatusCode = http.StatusTooManyRequests
+					res.Header.Set("Retry-After", "75")
+				} else {
+					if delay := time.Since(first); delay != 75*time.Second {
+						t.Errorf("waited %s, want 75s", delay)
+					}
+					cancel()
+				}
+				return res, nil
+			})},
+		}
+		g.Run(ctx)
+		if calls != 2 {
+			t.Fatal(calls)
+		}
+	})
+}
+
+func TestGoogleRedirectRateLimitStopsScan(t *testing.T) {
+	s, err := store.Open(filepath.Join(t.TempDir(), "news.sqlite"))
+	if err != nil {
+		t.Fatal(err)
+	}
+	defer s.DB.Close()
+	const article = "https://news.google.com/rss/articles/first"
+	var paths []string
+	var lookupAt time.Time
+	g := GoogleNews{Store: s, Queries: []GoogleNewsQuery{{"US:en", "cannabis"}}, client: &http.Client{Transport: newsTransport(func(r *http.Request) (*http.Response, error) {
+		paths = append(paths, r.URL.Path)
+		switch r.URL.Path {
+		case "/rss/search":
+			return newsResponse(r, `<rss><channel><item><link>`+article+`</link></item><item><link>https://news.google.com/rss/articles/second</link></item></channel></rss>`), nil
+		case "/rss/articles/first":
+			lookupAt = time.Now()
+			return newsResponse(r, `<div data-n-a-sg="signature" data-n-a-ts="1793362567"></div>`), nil
+		default:
+			if time.Since(lookupAt) < time.Second {
+				t.Error("redirect request was not paced")
+			}
+			res := newsResponse(r, "")
+			res.StatusCode = http.StatusTooManyRequests
+			res.Header.Set("Retry-After", "120")
+			return res, nil
+		}
+	})}}
+	stats, err := g.Scan(t.Context())
+	var limit *googleNewsRateLimit
+	if !errors.As(err, &limit) || limit.retryAfter != "120" || stats.Found != 2 || stats.Unresolved != 1 || stats.Queued != 0 {
+		t.Fatal(stats, err)
+	}
+	if len(paths) != 3 || !strings.HasSuffix(paths[2], "/batchexecute") {
+		t.Fatal("scan continued after the 429", paths)
+	}
+	var count int
+	if err := s.DB.QueryRow("SELECT count(*) FROM harvest_state").Scan(&count); err != nil || count != 0 {
+		t.Fatal("rate limited candidate was marked seen", count, err)
 	}
 }
 
