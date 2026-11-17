@@ -43,22 +43,26 @@ sources:
     publisher: Bengal Mirror
     date: 2026-11-17
     language: hi
+  - title: অন্ডালে আসানসোল দুর্গাপুর পুলিশের ডিডির অভিযান ২০০ কেজি গাঁজা বাজেয়াপ্ত, ধৃত ২
+    url: https://bengalmirrorthinkpositive.com/2026/11/17/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%A8%E0%A6%B8%E0%A7%8B%E0%A6%B2-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%AA%E0%A7%81/
+    publisher: Bengal Mirror
+    date: 2026-11-17
+    language: bn
 ---
 
 Acting on a tip-off, a Detective Department team of the Asansol-Durgapur Police
 Commissionerate ran a search operation in the Andal police-station area on
-Monday night. [@1] Acting on the tip-off, the team raided Baktarnagar Road in
-the Top Line area and stopped a pickup van. [@1] Two people were detained during
-the operation. [@1] The two detainees were subsequently arrested. [@1]
+Monday night. [@1,2] Acting on the tip-off, the team raided Baktarnagar Road in
+the Top Line area and stopped a pickup van. [@1,2] Two people were detained during
+the operation. [@1] The two detainees were subsequently arrested. [@1,2]
 
-Officers recovered and seized about 200 kilograms of ganja from them. [@1]
+Officers recovered and seized about 200 kilograms of ganja from them. [@1,2]
 Officers also seized a Bolero pickup van, some cash and three mobile phones.
-[@1] The preliminary inquiry suggests the ganja had been brought from Odisha.
-[@1] It was being transported for supply to Asansol and other areas. [@1]
+[@1,2] The preliminary inquiry suggests the ganja had been brought from Odisha.
+[@1,2] It was being transported for supply to Asansol and other areas. [@1,2]
 
-A case has been registered over the ganja recovery. [@1] Further investigation
+A case has been registered over the ganja recovery. [@1,2] Further investigation
 is continuing to identify the larger trafficking gang behind the consignment and
 others involved in it. [@1] The Asansol-Durgapur Police Commissionerate said its
 drive against narcotics smuggling and the illegal drug trade will continue in
 the coming days. [@1]
-
