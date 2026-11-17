@@ -52,6 +52,11 @@ sources:
     publisher: The Chosun Daily
     date: 2026-11-17
     language: en
+  - title: Former NFL lineman Marcel Dareus arrested on charges of assaulting officer and fleeing
+    url: https://biz.chosun.com/en/en-sports/2026/11/17/7VSD7CM6HBGAJH4GD3IB4G4S7A/
+    publisher: CHOSUNBIZ
+    date: 2026-11-17
+    language: en
 open_questions:
     - No weight or form was published for the marijuana, so no cannabis quantity is recorded.
     - The marijuana was described only as found in his possession; no laboratory confirmation was reported.
@@ -69,16 +74,16 @@ media:
 A Hoover traffic stop involved former Alabama and Huffman High football player
 Marcell Shintun Dareus. [@1] An officer stopped Dareus, 36, of Hoover, in the
 early morning hours of 14 November after seeing his vehicle driving erratically
-near John Hawkins Parkway and Lake Cyrus Boulevard. [@1,4] Police said Dareus was
-noncompliant, assaulted an officer and then drove away. [@1,3,4] Officers pursued
+near John Hawkins Parkway and Lake Cyrus Boulevard. [@1,4,5] Police said Dareus was
+noncompliant, assaulted an officer and then drove away. [@1,3,4,5] Officers pursued
 him a short distance to his residence, where he resisted arrest before being
-taken into custody. [@1,4]
+taken into custody. [@1,4,5]
 
-Police said he was found with marijuana. [@1,3,4] Dareus was charged with
+Police said he was found with marijuana. [@1,3,4,5] Dareus was charged with
 second-degree aggravated assault, second-degree marijuana possession, resisting
-arrest and attempting to elude a police officer. [@1,3,4] He was released on bond
-that night. [@1,3,4] One Hoover police officer was taken to the hospital for a minor
-injury. [@2,3,4]
+arrest and attempting to elude a police officer. [@1,3,4,5] He was released on bond
+that night. [@1,3,4,5] One Hoover police officer was taken to the hospital for a minor
+injury. [@2,3,4,5]
 
 The Hoover Police Department said an officer pulled Dareus over early Saturday
 morning for driving erratically on John Hawkins Parkway and Lake Cyrus
