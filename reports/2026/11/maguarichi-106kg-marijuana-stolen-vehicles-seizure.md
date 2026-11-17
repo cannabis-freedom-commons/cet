@@ -85,6 +85,11 @@ sources:
     publisher: AR Noticias
     date: 2026-11-16
     language: es
+  - title: Aseguran 106 kilos de marihuana y 364 cartuchos en Chihuahua; decomisan dos vehículos robados
+    url: https://www.eluniversal.com.mx/estados/aseguran-106-kilos-de-marihuana-y-364-cartuchos-en-chihuahua-decomisan-dos-vehiculos-robados/
+    publisher: El Universal
+    date: 2026-11-16
+    language: es
 media:
   - kind: photo
     url: https://www.nmas.com.mx/chihuahua/seguridad/aseguran-marihuana-cartuchos-y-vehiculos-robados-en-maguarichi-chihuahua/
@@ -96,11 +101,16 @@ media:
     media_url: https://www.dcnewsnow.com/wp-content/uploads/sites/14/2026/11/WhatsApp-Image-2026-11-16-at-8.30.33-AM-e1794857493695.jpeg?w=876&h=493&crop=1
     publisher: Border Report
     caption: 'Suspected marijuana, ammunition and two vehicles recovered near Maguarichi displayed by Chihuahua state police. Photo: SSPE'
+  - kind: photo
+    url: https://www.eluniversal.com.mx/estados/aseguran-106-kilos-de-marihuana-y-364-cartuchos-en-chihuahua-decomisan-dos-vehiculos-robados/
+    media_url: https://www.eluniversal.com.mx/resizer/v2/2YBBIC644VF6PJMCBXXBKREF6A.jpg?auth=7c3ad5972bacccc5bb426c64e139ee5d7cc5e8e8d6aa297e33b12993cafd7520&smart=true&height=666
+    publisher: El Universal
+    caption: 'Marijuana, cartridges and vehicles seized near Maguarichi. Photo: Fiscalía de Chihuahua'
 ---
 
 Chihuahua state police (SSPE) seized about 106.4 kilograms of marijuana,
 ammunition, magazines and two stolen vehicles on the road to Maguarichi, at the
-San Vicente junction. [@1,4,6,7,8,9,10,11] Agents found 10 transparent packages of dry green
+San Vicente junction. [@1,4,6,7,8,9,10,11,12] Agents found 10 transparent packages of dry green
 herb similar to marijuana at the spot. [@1,5,6,7,8,9,10,11] The packages weighed approximately
 106.4 kilograms. [@1,8,9,10,11]
 
@@ -112,7 +122,7 @@ April 2022, and a 2021 Hyundai Kona reported stolen in the United States since
 June 2023. [@1,6,8,9,11]
 
 The drugs, magazines, ammunition and vehicles were handed over to the competent
-authorities for further investigation. [@1,6,8,9,10] The SSPE, headed by secretary Luis
+authorities for further investigation. [@1,6,8,9,10,12] The SSPE, headed by secretary Luis
 Aguirre, said it maintains preventive patrols and surveillance in the region to
 detect crime and reinforce security in rural areas. [@1]
 
