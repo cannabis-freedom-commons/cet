@@ -63,19 +63,24 @@ sources:
     publisher: MSN
     date: 2026-11-17
     language: zh
+  - title: 刚查获40斤大麻，同一口岸，海关又查获60斤……
+    url: https://news.10jqka.com.cn/20261117/c681900607.shtml
+    publisher: 同花顺财经
+    date: 2026-11-17
+    language: zh
 ---
 
 Guangzhou Baiyun Airport Customs officers screening international transit
 passengers found the luggage X-ray images of two travellers abnormal in
-succession. [@1,2,3,4,5,6] Officers intercepted the two travellers and inspected their
-suitcases. [@1,2,3,4,5] The suitcases each held brown-green plant material packed in
+succession. [@1,2,3,4,5,6,7] Officers intercepted the two travellers and inspected their
+suitcases. [@1,2,3,4,5,7] The suitcases each held brown-green plant material packed in
 plastic bags that gave off a strong pungent smell when the packaging was opened.
-[@1,2,3,4,6]
+[@1,2,3,4,6,7]
 
 A technical institution tested the material and confirmed it was cannabis
-weighing 31.787 kilograms in total. [@1,2,3,4,5,6] Customs announced the seizure on 17
+weighing 31.787 kilograms in total. [@1,2,3,4,5,6,7] Customs announced the seizure on 17
 November 2026, describing the interception as recent and placing it at the
-passenger-inspection channel of Guangzhou Baiyun Airport. [@1,2]
+passenger-inspection channel of Guangzhou Baiyun Airport. [@1,2,7]
 
 Customs reminded the public that smuggling, selling, transporting or
 manufacturing drugs carries criminal liability in China regardless of quantity.
