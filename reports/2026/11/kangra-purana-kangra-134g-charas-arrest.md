@@ -48,23 +48,22 @@ sources:
     publisher: Ujjwal Himachal
     date: 2026-11-16
     language: hi
-open_questions:
-  - No separate date for the raid was given; 16 November 2026 is the publication date and is used as the incident date.
-  - The 133.89 grams was described as charas with no laboratory confirmation reported.
-  - The 5.68 grams of chitta, identified as heroin, was excluded from the cannabis weight.
-  - No charge, plea or court outcome was reported; the case was at the investigation stage.
-  - The account rests on a single outlet with no second independent report found.
+  - title: Kangra Drug Seizure | Youth Arrested With Chitta And Charas
+    url: https://www.bhaskar.com/local/himachal/kangra/news/kangra-youth-arrested-drugs-chitta-charas-seized-police-action-139713349.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-17
+    language: hi
 ---
 
 Police in Purana Kangra arrested 45-year-old Vicky for allegedly holding chitta
 and charas. [@1] A Police Station Kangra team on patrol acted at the entrance to
-the playground near Children Park. [@1,2] Police identified the accused as Vicky,
+the playground near Children Park. [@1,2,3] Police identified the accused as Vicky,
 aged 45, son of Raj Kumar and resident of Ward No. 3 in Purana Kangra. [@1,2]
 Officers grew suspicious when the man suddenly threw away a carry bag on seeing
 them, and they searched the discarded bag in the presence of witnesses. [@1,2]
 
 Police said they recovered a total of 5.68 grams of chitta and 133.89 grams of
-charas from the accused. [@1,2] Police said the bag held two types of drugs, 5.68
+charas from the accused. [@1,2,3] Police said the bag held two types of drugs, 5.68
 grams of chitta, identified as heroin, and 133.89 grams of charas, a cannabis
 resin counted here as hashish. [@1]
 
