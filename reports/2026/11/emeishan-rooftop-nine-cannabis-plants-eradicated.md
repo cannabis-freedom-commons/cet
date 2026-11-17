@@ -44,6 +44,11 @@ sources:
     publisher: 搜狐网
     date: 2026-11-16
     language: zh
+  - title: 发现立马上报! 四川网格员撞见1米5高“怪草”, 民警确认是毒品原植物
+    url: https://www.sohu.com/a/1102111727_121948416
+    publisher: 搜狐网
+    date: 2026-11-16
+    language: zh
 open_questions:
     - The article gives no separate date for the discovery or the eradication; 15 November 2026 is its publication date and is used as the incident date.
     - The plants were identified visually as cannabis; no laboratory confirmation was reported.
@@ -54,15 +59,15 @@ open_questions:
 Grid worker Xiaozhang was carrying out door-to-door inspection visits in a
 housing estate in Shengli Subdistrict in Emeishan, Leshan, Sichuan. [@1,2,3] When
 she reached the roof of a residential building, she noticed several strikingly
-tall herbaceous plants. [@1] The plants had straight upright stems and leaves
+tall herbaceous plants. [@1,4] The plants had straight upright stems and leaves
 spreading from the stem joints like an open palm divided into sections, unlike
 the estate's ordinary greenery. [@1] The tallest stood about 1.5 metres high,
-with palm-like foliage. [@1,3]
+with palm-like foliage. [@1,3,4]
 
 Using a mnemonic learned in anti-drug training, she compared the features and
 recognised the plants as cannabis, a drug-source plant, then immediately called
 police on 110. [@1] Officers rushed to the rooftop and eradicated all nine
-artificially planted cannabis plants. [@1,2] Officers also cleared the planting containers and soil together with the plants. [@2] Officers surveyed the scene and photographed it to preserve evidence. [@2]
+artificially planted cannabis plants. [@1,2,4] Officers also cleared the planting containers and soil together with the plants. [@2] Officers surveyed the scene and photographed it to preserve evidence. [@2]
 
 Police followed the lead and caught Wang, identified as the person who had
 illegally grown the plants. [@1,2] The case was still under further handling at the time of publication. [@2] The cannabis had been privately grown by Wang, a resident of that building. [@2] The case centres on a small intentional rooftop
