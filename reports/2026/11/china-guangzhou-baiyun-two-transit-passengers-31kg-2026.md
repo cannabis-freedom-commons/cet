@@ -88,6 +88,11 @@ sources:
     publisher: 手机新浪网 (观察者网)
     date: 2026-11-17
     language: zh
+  - title: 刚查获40斤大麻，同一口岸，海关又查获60斤……
+    url: https://www.guancha.cn/ZhengZhi/2026_11_17_908625.shtml
+    publisher: 观察者网
+    date: 2026-11-17
+    language: zh
 media:
   - kind: photo
     url: https://finance.sina.cn/2026-11-17/detail-iniyyzyp7716496.d.html?vt=4
@@ -103,15 +108,15 @@ media:
 
 Guangzhou Baiyun Airport Customs officers screening international transit
 passengers found the luggage X-ray images of two travellers abnormal in
-succession. [@1,2,3,4,5,6,7,8,9,10,11] Officers intercepted the two travellers and inspected their
-suitcases. [@1,2,3,4,5,7,8,10] The suitcases each held brown-green plant material packed in
+succession. [@1,2,3,4,5,6,7,8,9,10,11,12] Officers intercepted the two travellers and inspected their
+suitcases. [@1,2,3,4,5,7,8,10,12] The suitcases each held brown-green plant material packed in
 plastic bags that gave off a strong pungent smell when the packaging was opened.
-[@1,2,3,4,6,7,9,10]
+[@1,2,3,4,6,7,9,10,12]
 
 A technical institution tested the material and confirmed it was cannabis
-weighing 31.787 kilograms in total. [@1,2,3,4,5,6,7,8,9,10] Customs announced the seizure on 17
+weighing 31.787 kilograms in total. [@1,2,3,4,5,6,7,8,9,10,12] Customs announced the seizure on 17
 November 2026, describing the interception as recent and placing it at the
-passenger-inspection channel of Guangzhou Baiyun Airport. [@1,2,7,10,11]
+passenger-inspection channel of Guangzhou Baiyun Airport. [@1,2,7,10,11,12]
 
 Customs reminded the public that smuggling, selling, transporting or
 manufacturing drugs carries criminal liability in China regardless of quantity.
