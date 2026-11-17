@@ -35,6 +35,11 @@ sources:
     publisher: AlMasry AlYoum
     date: 2026-11-16
     language: ar
+  - title: بحوزتهم هيروين وحشيش وأسلحة نارية.. ضبط 5 عناصر إجرامية بالدقهلية
+    url: https://www.algomhor.com/513172
+    publisher: الجمهور الإخباري
+    date: 2026-11-16
+    language: ar
 open_questions:
   - No separate date for the raids was given; 16 November 2026 is the publication date of the reports and stands in for the incident date.
   - Hashish quantities were given as pieces, slabs and large quantities with no weight, so no cannabis weight is recorded.
@@ -47,21 +52,20 @@ Dakahlia security forces arrested nine people in a campaign against criminal
 dens selling drugs in villages across the Minyat al-Nasr district. [@3] The
 Minyat al-Nasr detectives acted on tip-offs confirmed by secret investigations
 that criminal elements were trafficking drugs across the district's villages,
-after obtaining prosecution permits. [@1] The raids were led by Major Mohamed
+after obtaining prosecution permits. [@1,4] The raids were led by Major Mohamed
 Abu Ghazala, the Minyat al-Nasr investigations chief, with officers and members
 of the station. [@2]
 
 In Barimbal al-Qadima, officers reported finding four large pieces of hashish
-and 215 heroin wraps with a 33-year-old suspect. [@2] In al-Daraksa, officers
+and 215 heroin wraps with a 33-year-old suspect. [@2,4] In al-Daraksa, officers
 reported seizing two slabs of hashish, 193 heroin wraps and a bladed weapon from
-the 38-year-old known as Abu Kaff in front of his home. [@2] Near the French
+the 38-year-old known as Abu Kaff in front of his home. [@2,4] Near the French
 bridge in Minyat al-Nasr city, officers reported a firearm and hashish prepared
-for sale with two suspects aged 24 and 21. [@2] In farmland beside al-Nazl
+for sale with two suspects aged 24 and 21. [@2,4] In farmland beside al-Nazl
 village, officers reported a firearm and large quantities of hashish and heroin
 powder with three suspects accused of forming a drug-trafficking gang. [@3]
 
 Police seized the drugs alongside firearms, bladed weapons, cash, mobile phones
 and motorcycles. [@2] Reports were filed for each incident and the suspects were
 referred to the Public Prosecution, which opened investigations and ordered them
-detained pending investigation. [@2]
-
+detained pending investigation. [@2,4]
