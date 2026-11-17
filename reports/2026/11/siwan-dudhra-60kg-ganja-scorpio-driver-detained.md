@@ -60,22 +60,27 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-14
     language: hi
+  - title: 63.5 kg of ganja recovered during vehicle checking in Goreyakothi
+    url: https://www.bhaskar.com/amp/local/bihar/siwan/news/635-kg-of-ganja-recovered-during-vehicle-checking-in-goreyakothi-dbp-139708337.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-17
+    language: hi
 open_questions:
-  - No separate date for the raid was given; 14 November 2026 is the publication date of both reports and is used as the incident date.
-  - The quantity and value are reported as approximate (about 60 kg and about Rs 12 lakh), not exact measured figures.
-  - The detained driver was not named, and no formal arrest, charge or court outcome was reported; the case was at the investigation stage.
-  - The Nepal origin is described only as preliminary information or suspicion, with the route and recipients still under investigation.
-  - No laboratory confirmation or breakdown of the ganja packaging was reported.
+    - 'The accounts differ on weight: earlier reports say about 60 kg while the later Dainik Bhaskar account weighs 63.5 kg in 11 packets; the report retains 60 kg.'
+    - The driver was detained in earlier reports and is described as arrested and sent to judicial custody in the later account, but was still not named and no charge was reported.
+    - The Nepal origin is described only as preliminary information or suspicion, with the route and recipients still under investigation.
+    - No laboratory confirmation of the ganja was reported, although the later account describes 11 large packets in double packing of red polythene and black plastic.
+    - The value remains about Rs 12 lakh from the earlier reports; the later account gives no value estimate.
 ---
 
 Goreyakothi police recovered about 60 kg of ganja loaded in a Scorpio from
 Dudhra village in Siwan district. [@1] Police confiscated the Scorpio and
-detained its driver. [@1] Police valued the seized ganja at about Rs 12 lakh.
+detained its driver. [@1] The accused was arrested and sent to judicial custody. [@3] Police valued the seized ganja at about Rs 12 lakh.
 [@1]
 
 Police acted after receiving information that a ganja consignment had been
-brought to Dudhra village. [@1] Officers searched the suspicious Scorpio and
-found a large quantity of ganja inside. [@1] The raid was carried out by a
+brought to Dudhra village. [@1,3] According to Superintendent of Police Bharat Soni, Goreyakothi station police were conducting regular vehicle checks near Dudhra on 14 November when the tip arrived. [@3] Officers searched the suspicious Scorpio and
+found a large quantity of ganja inside. [@1,3] The ganja was hidden in double packing of red polythene and black plastic. [@3] The raid was carried out by a
 police team led by station chief Manish Kumar on the basis of secret
 information. [@2] Preliminary information indicated the consignment was being
 smuggled from Nepal. [@1]
@@ -88,4 +93,3 @@ been started. [@1]
 
 A second outlet independently reported the same Dudhra seizure of about 60 kg of
 ganja worth about Rs 12 lakh and the driver's detention. [@2]
-
