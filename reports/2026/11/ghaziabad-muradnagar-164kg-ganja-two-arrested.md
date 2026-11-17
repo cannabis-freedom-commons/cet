@@ -67,6 +67,11 @@ sources:
     publisher: Jagran
     date: 2026-11-17
     language: hi
+  - title: 'Ghaziabad News: कैंटर में 80 लाख का गांजा छिपाकर ला रहे दो तस्कर गिरफ्तार'
+    url: https://www.livehindustan.com/ncr/ghaziabad/story-ghaziabad-ganja-smuggling-gang-busted-164-kg-cannabis-worth-80-lakh-seized-201794916273195.html
+    publisher: Live Hindustan
+    date: 2026-11-17
+    language: hi
 open_questions:
     - The 164 kg weight and Rs 80 lakh value remain approximate police estimates, with no laboratory confirmation reported.
     - The Amar Ujala and Jagran accounts both appear to draw on the police version of the operation, so they are not fully independent reporting.
@@ -77,18 +82,18 @@ open_questions:
 
 Ghaziabad crime branch and Muradnagar police arrested two alleged ganja
 smugglers during a check on the night of 16 November 2026 under Operation
-Prahar. [@1,2] Acting on an informer's tip, officers stopped an Eicher canter at
-about 11 pm on the road from Kakda Pulia toward the Sonda Pul canal. [@1,2] Police
+Prahar. [@1,2,3] Acting on an informer's tip, officers stopped an Eicher canter at
+about 11 pm on the road from Kakda Pulia toward the Sonda Pul canal. [@1,2,3] Police
 identified the two as Praveen Tyagi of Bhaneda, now living in Keshav Kunj
-Colony, Modinagar, and Arun Sharma of Jatauli, Kankarkheda, Meerut. [@1,2]
+Colony, Modinagar, and Arun Sharma of Jatauli, Kankarkheda, Meerut. [@1,2,3]
 
 Officers seized about 164 kg of illegal ganja from their possession along with
-the Eicher canter used for smuggling. [@1,2] Police estimated the seized ganja's
-value at about Rs 80 lakh. [@1,2] A case was registered against them at Muradnagar
-police station under the NDPS Act and further legal action was under way. [@1]
+the Eicher canter used for smuggling. [@1,2,3] Police estimated the seized ganja's
+value at about Rs 80 lakh. [@1,2,3] A case was registered against them at Muradnagar
+police station under the NDPS Act and further legal action was under way. [@1] Police said Praveen Tyagi already had Excise Act and NDPS Act cases registered against him, while Arun Sharma had Excise Act and fraud cases at Kankar Kheda police station in Meerut. [@3]
 
 Questioning found Arun runs a grocery shop in Jatauli, where he met Praveen
-about 25 years ago, and that both had smuggled illicit liquor since 2017. [@1]
+about 25 years ago, and that both had smuggled illicit liquor since 2017. [@1,3]
 After liquor smuggling brought little profit, the pair had smuggled ganja for
 eight months through Arvind alias Bhura, dealing with local smugglers in Odisha
 and Visakhapatnam to supply NCR and western Uttar Pradesh. [@1,2] About 100 kg of ganja passed through the network in the month before the arrest, and police formed a team to act against others named in questioning. [@2] Police said the trade brought about Rs 3,000 in profit per kilogram of ganja. [@2] Praveen had
