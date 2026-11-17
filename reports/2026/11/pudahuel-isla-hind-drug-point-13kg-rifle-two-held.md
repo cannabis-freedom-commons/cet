@@ -45,31 +45,34 @@ sources:
     publisher: Meganoticias
     date: 2026-11-17
     language: es
+  - title: 'Denuncia ciudadana permite hallazgo de marihuana, una pistola y un rifle en Pudahuel: hay 2 detenidos'
+    url: https://www.msn.com/es-cl/noticias/otras/denuncia-ciudadana-permite-hallazgo-de-marihuana-una-pistola-y-un-rifle-en-pudahuel-hay-2-detenidos/ar-AA2hBxlw
+    publisher: BioBioChile via MSN
+    date: 2026-11-17
+    language: es
 open_questions:
-  - No date is given for the raid or the arrests; 17 November 2026 is the article's publication date and is used as the incident date.
-  - The marijuana is described only as marijuana ready for distribution, with no laboratory confirmation or exact measured weight; the amount is stated as more than 1 kilogram 300 grams.
-  - No value estimate and no amount for the cash seized were published.
-  - The two detainees are identified only by age and nationality; no detention-control hearing outcome, formalisation or plea was reported.
-  - The article does not state whether the entry and search were carried out under a court warrant or with the occupants' consent.
-  - The whole account rests on the Carabineros statement relayed by one outlet, so it is not independently corroborated.
+    - No date is given for the raid or the arrests; 17 November 2026 is the articles' publication date and is used as the incident date.
+    - The marijuana is described only as marijuana for distribution, with no laboratory confirmation or exact measured weight; the amount is stated as more than 1 kilogram 300 grams.
+    - The two detainees are identified only by age, nationality and lack of police records; no detention-control hearing outcome, formalisation or plea was reported.
+    - The articles do not state whether the entry and search were carried out under a court warrant or with the occupants' consent, beyond coordination with the prosecution.
+    - The whole account rests on the Carabineros statement as relayed by two outlets, so it is not independently corroborated.
 ---
 
 Carabineros detained a 23-year-old man and a 29-year-old woman in the Santiago
 commune of Pudahuel, after neighbours reported that a house on Calle Isla Hind
-was selling drugs constantly. [@1] Officers of the Sección de Investigación
+was selling drugs constantly. [@1,2] Both detainees are Chilean nationals and have no police records. [@2] Officers of the Sección de Investigación
 Policial (SIP), the Carabineros investigation section, watched the house in
 plain clothes to confirm the reports without being noticed. [@1]
 
 After confirming that drug deals were taking place there, the officers entered
 the apartment and caught the two suspects in the act. [@1] They seized more than
 1.3 kilograms of marijuana ready for distribution, cash and equipment used to
-weigh and dose the drug. [@1] Officers also found two weapons hidden in the
-home, a pistol and a rifle. [@1]
+weigh and dose the drug. [@1,2] Police estimated the seized drugs could have a commercial value of close to $7 million. [@2] The marijuana was distributed in bags, and officers seized two digital scales and $250,000 in cash. [@2] Officers also found two weapons hidden in the
+home, a pistol and a rifle. [@1,2] The pistol and rifle were hidden under a dresser used to store clothes. [@2]
 
 Lieutenant Joaquín Rodríguez of the 55th Police Station said the entry and
 search procedure yielded the marijuana and two prohibited firearms, one of them
-a rifle and the other a pistol. [@1] The two were left at the disposal of the
+a rifle and the other a pistol. [@1,2] The two were left at the disposal of the
 Public Prosecutor's Office to face charges of drug trafficking and illegal
 possession of firearms. [@1] The pair was to appear at a detention-control
 hearing. [@1]
-
