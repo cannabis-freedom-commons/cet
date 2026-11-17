@@ -73,6 +73,11 @@ sources:
     publisher: الجزائر الآن
     date: 2026-11-11
     language: ar
+  - title: 'أمن ولاية الجزائر: وضع حد لنشاط عصابة أحياء وحجز كمية من المخدرات والأسلحة البيضاء بالدرارية | ENTV News'
+    url: https://www.entv.dz/en/node/14404
+    publisher: ENTV
+    date: 2026-11-11
+    language: ar
 open_questions:
     - The operation took place during the week before 11 November 2026; no exact day was given, so the publication date stands in for the incident date.
     - The 10.05 grams of cocaine and 64 psychotropic tablets seized in the same operation are not counted in cannabis figures; only the separately stated 19.6 grams of processed cannabis is recorded.
@@ -85,7 +90,7 @@ open_questions:
 
 Police in Algiers arrested six people suspected of operating as a neighbourhood
 gang that spread fear among residents of several residential areas of Draria.
-[@1,3,5] Draria is an administrative district of Algiers. [@2] The suspects were
+[@1,3,5,6] Draria is an administrative district of Algiers. [@2] The suspects were
 accused of trafficking drugs and psychotropic substances and of starting brawls
 with prohibited bladed weapons. [@1,3,5] The Algiers security services announced the
 operation in a statement on Wednesday 11 November 2026. [@2,3] The operation was
@@ -93,7 +98,7 @@ carried out during the preceding week by the Douéra mobile judicial police
 brigade, under the security services of the Draria administrative district. [@1,4]
 
 Officers seized 19.6 grams of processed cannabis, 10.05 grams of cocaine and 64
-psychotropic tablets. [@2,3,5] The seizure also included eight prohibited bladed
+psychotropic tablets. [@2,3,5,6] The seizure also included eight prohibited bladed
 weapons of different types and sizes. [@1,4,5] Police also seized an electronic
 scale used to weigh drugs and 258,000 Algerian dinars and 50 euros suspected to
 be proceeds of drug sales. [@1,3,5]
@@ -102,4 +107,4 @@ The investigation began after police received reports about the group's
 suspicious activity. [@1,4,5] Field inquiries and surveillance of the suspects'
 movements led to their identification and arrest. [@2,4,5] After the legal
 procedures were completed, the six suspects were presented before the public
-prosecutor at the Chéraga court under a criminal procedure file. [@1,4,5]
+prosecutor at the Chéraga court under a criminal procedure file. [@1,4,5,6]
