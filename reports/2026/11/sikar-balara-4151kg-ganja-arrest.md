@@ -12,11 +12,11 @@ title: Man held with 41.51 kg of ganja in a Sikar car stop
 summary: >-
   Rajasthan Police CID Crime Branch stopped a Swift car in the Balara police-station area of Sikar late on 11 November 2026 and seized 41.51 kg of ganja. Officers arrested Jhunjhunu resident Rakesh Kumar under the NDPS Act and were searching for a companion he named as the owner of the drugs and the car.
 figures:
-  arrested: 1
-  kg_seized: 41.51
-  value:
-    amount: 2100000
-    currency: INR
+    arrested: 2
+    kg_seized: 41.51
+    value:
+        amount: 2100000
+        currency: INR
 details:
   agencies: [Rajasthan Police CID Crime Branch, Balara Police Station]
   agency_types: [police]
@@ -30,17 +30,17 @@ details:
   date_precision: exact
   region: Sikar district
 data_sources:
-  details.activity: [2]
-  details.agencies: [2]
-  details.agency_types: [2]
-  details.case_stage: [2]
-  details.charges: [2]
-  details.force: [2]
-  details.products: [2]
-  details.setting: [2]
-  figures.arrested: [2]
-  figures.kg_seized: [2]
-  figures.value: [1]
+    details.activity: [2]
+    details.agencies: [2]
+    details.agency_types: [2]
+    details.case_stage: [2]
+    details.charges: [2]
+    details.force: [2]
+    details.products: [2]
+    details.setting: [2]
+    figures.arrested: [8]
+    figures.kg_seized: [8]
+    figures.value: [1]
 media:
   - kind: photo
     url: https://www.jaipurtimes.org/article/12604/cid-crime-branch-intercepts-swift-car-carrying-41kg-of-ganja-in-sikar
@@ -62,6 +62,11 @@ media:
     media_url: https://assets.pratahkal.com/h-upload/2026/11/12/2311661-seikar-ganja-arrest-rajasthanjpg.webp
     publisher: Pratahkal
     caption: 'Accused Rakesh Kumar after his arrest in the Sikar ganja trafficking case. Photo: Pratahkal'
+  - kind: photo
+    url: https://www.bhaskar.com/g/local/rajasthan/sikar/news/sikar-ganja-supply-case-police-arrest-mastermind-busted-139713696.html
+    media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/11/17/cover_1794904414947.jpg
+    publisher: Dainik Bhaskar
+    caption: 'Photo of arrested accused Vikas in the Sikar ganja supply case. Photo: Dainik Bhaskar'
 status: verified
 created_by_model: xai/grok-4.7#medium
 submission: 7573b5fe796f680166cff73294f66e39
@@ -102,6 +107,18 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-13
     language: hi
+  - title: गाड़ी से मिले 41.50 किलो गांजे का मुख्य सप्लायर गिरफ्तार:सीकर में होनी थी डिलीवरी, पुलिस आरोपियों के गिरोह की तलाश में जुटी
+    url: https://www.bhaskar.com/g/local/rajasthan/sikar/news/sikar-ganja-supply-case-police-arrest-mastermind-busted-139713696.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-17
+    language: hi
+open_questions:
+    - No separate date was given for Vikas Kumar's arrest; 17 November 2026 is the publication date.
+    - The new report rounds the seizure to 41.50 kg while earlier detailed reports totalled 41.510 kg.
+    - The new report writes Seva Nagar in Khirod while earlier reports wrote Sevapura in Khirod for the same companion.
+    - No plea, detention measure or court outcome for Vikas Kumar was reported.
+    - The account of the second arrest rests on a single Bhaskar report attributed to Dadia SHO Sanjay Punia.
+    - The mastermind and wider supply network had not been identified.
 ---
 
 Officers of the Rajasthan Police CID Crime Branch special team arrested Rakesh
@@ -126,5 +143,5 @@ the car belonged to his companion Vikas Kumar Dhinwa of Sevapura in Khirod, who
 he said had left the car a short distance earlier and told him to phone once he
 had gone ahead. [@2,3,4,5] Police said Dhinwa was involved in the narcotics trade on a
 large scale, and they were searching for him and investigating the trafficking
-network. [@2,3] Police were also trying to establish where the ganja had come from
+network. [@2,3] Police said Vikas had taken up ganja supply work only a few months earlier and that they were tracing the full supply network and its mastermind. [@8] Preliminary questioning indicated that the accused were to supply the ganja in Sikar. [@8] Police later arrested main supplier Vikas Kumar, son of Ramkumar Dhinwa of Seva Nagar in Khirod, on an informant's tip. [@8] Police were also trying to establish where the ganja had come from
 and who it was to be supplied to. [@1]
