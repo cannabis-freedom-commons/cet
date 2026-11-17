@@ -66,12 +66,11 @@ sources:
     url: https://nuusflits.com/cannabis-worth-r3-million-bakkie-overturns-police-pursuit/
     publisher: Nuusflits
     date: 2026-11-16
-open_questions:
-  - One account gives the suspects ages as 34 and 44 while the other gives them as aged between 34 and 44.
-  - The seizure is described both as at a farm near Wakkerstroom and as from the overturned vehicle on the R543 road, so the exact recovery point is unclear.
-  - Two vehicles fled the scene but police report confiscating a Hilux and a Ford Ranger, without explaining how the second vehicle was recovered.
-  - No names, pleas, court date or later outcome were reported.
-  - The dagga was described by police with no laboratory confirmation reported.
+  - title: R3m drug run ends in crash as police nab three suspects | The Citizen
+    url: https://www.citizen.co.za/news/south-africa/crime/r3m-drug-run-ends-crash-police-nab-three-suspects/
+    publisher: The Citizen
+    date: 2026-11-16
+    archived: https://web.archive.org/web/20261116042124id_/https://www.citizen.co.za/news/south-africa/crime/r3m-drug-run-ends-crash-police-nab-three-suspects/
 media:
   - kind: photo
     url: https://www.snl24.com/news/dagga-bakkie-flips-during-high-speed-police-chase-20261116/
@@ -83,21 +82,26 @@ media:
     media_url: https://www.africaninsider.com/wp-content/uploads/2026/11/Dagga_Mpumalanga.png
     publisher: African Insider
     caption: 'Bags of dagga seized near Wakkerstroom. Picture: Facebook / SAPS'
+  - kind: photo
+    url: https://www.citizen.co.za/news/south-africa/crime/r3m-drug-run-ends-crash-police-nab-three-suspects/
+    media_url: https://media.citizen.co.za/wp-content/uploads/2026/11/Dagga-Bust.jpg
+    publisher: The Citizen
+    caption: '22 bags containing approximately 411kg of dagga discovered in the overturned vehicle near Wakkerstroom. Picture: Saps'
 ---
 
 Three suspects aged 34 and 44 were arrested near Wakkerstroom in the Gert
 Sibande District after police seized about 411 kilograms of dagga with an
-estimated street value of about R3 million. [@1,3,4] The arrests took place at about
+estimated street value of about R3 million. [@1,3,4,6] The arrests took place at about
 01:20 on Saturday 14 November 2026 while SAPS Crime Prevention members were
-conducting stop-and-search operations along the R543 road. [@1,4]
+conducting stop-and-search operations along the R543 road. [@1,4,6]
 
 During the pursuit a white Toyota Hilux overturned while the other two vehicles
-fled the scene. [@1,3,4,5] Officers searched the overturned vehicle and found 22 bags
-of dagga weighing about 411 kilograms. [@2,3,4,5] Police put the estimated street
+fled the scene. [@1,3,4,5,6] Officers searched the overturned vehicle and found 22 bags
+of dagga weighing about 411 kilograms. [@2,3,4,5,6] Police put the estimated street
 value of the dagga at R3 million. [@2,3,5] Police confiscated a white Toyota Hilux
-and a white Ford Ranger in connection with the incident. [@1,3,4,5]
+and a white Ford Ranger in connection with the incident. [@1,3,4,5,6]
 
 The three suspects were charged with dealing in dagga and are expected to appear
-in court soon. [@2,3,4,5] Mpumalanga provincial commissioner Lieutenant-General
+in court soon. [@2,3,4,5,6] Mpumalanga provincial commissioner Lieutenant-General
 Apaphia Modise commended the officers for vigilance and swift response leading
 to the arrests and seizure. [@2,5]
