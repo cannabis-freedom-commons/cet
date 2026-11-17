@@ -36,6 +36,11 @@ media:
     media_url: https://s.yimg.com/lo/mysterio/api/409a795271bcabd5e355646d5242dd51fc9840a596f81e9f151ae786eaddefb4/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwatford_observer_147%2F034ff4c6f8e442468e45fff95ddf1166.jpg
     publisher: Yahoo News UK
     caption: 'The cannabis farm found in the Borehamwood raid. Photo: Hertfordshire Police'
+  - kind: photo
+    url: https://www.hertsad.co.uk/news/26736688.borehamwood-cannabis-factory-worth-around-50-000-uncovered/
+    media_url: https://www.hertsad.co.uk/resources/images/21728324.jpg?type=mds-article-962
+    publisher: Herts Advertiser
+    caption: 'The cannabis factory found after the raid in Hartforde Road. Photo: Herts police'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6a6e44ee06e43a7ed44d2d7ee05d3194
@@ -48,17 +53,16 @@ sources:
   - title: Borehamwood cannabis factory worth £50,000 disocvered in police raid
     url: https://www.watfordobserver.co.uk/news/26736876.borehamwood-cannabis-factory-worth-50-000-disocvered-police-raid/?ref=yahoo
     publisher: Watford Observer
-open_questions:
-  - No number of plants and no weight for the cannabis grown at the property was published.
-  - No arrests, charges or court outcome were reported; police said they were still working to identify and find those responsible.
-  - The £50,000 is a police estimate of street value, not a measured sale figure.
-  - Both cited pages carry the same police account, so the reports are not independent of each other.
+  - title: Borehamwood cannabis factory worth around £50,000 uncovered
+    url: https://www.hertsad.co.uk/news/26736688.borehamwood-cannabis-factory-worth-around-50-000-uncovered/
+    publisher: Herts Advertiser
+    date: 2026-11-17
 ---
 
 Officers from the Operational Support Group raided a property on Hartforde Road
-in Borehamwood on Wednesday, November 4. [@1] The officers found five rooms in
-the property being used to grow cannabis. [@1] The house had been made to look
-like a normal home, with several of its outside windows altered. [@2]
+in Borehamwood on Wednesday, November 4. [@1,3] The officers found five rooms in
+the property being used to grow cannabis. [@1,3] The house had been made to look
+like a normal home, with several of its outside windows altered. [@2,3]
 
 Police estimated the street value of the cannabis grown at the property at
 £50,000. [@1] Inspector Paul Costello of the Operational Support Group said
@@ -68,6 +72,5 @@ controlled by organised crime groups linked to violence, modern day slavery and
 human trafficking. [@1]
 
 Police said they were still working to identify and find those responsible for
-the cannabis factory. [@1] Police asked anyone with information to contact them
-quoting crime reference 41/106091/26. [@1]
-
+the cannabis factory. [@1,3] Police asked anyone with information to contact them
+quoting crime reference 41/106091/26. [@1,3]
