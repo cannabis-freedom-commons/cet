@@ -58,6 +58,9 @@ sources:
     publisher: Telangana Today
     date: 2026-11-17
     language: en
+  - title: 'Inter-state Drug Racket: Supplier Arrested, 21 kg Dry Ganja Seized'
+    url: https://www.deccanchronicle.com/southern-states/telangana/inter-state-drug-racket-supplier-arrested-21-kg-dry-ganja-seized-2005203
+    publisher: Deccan Chronicle
 open_questions:
     - Whether the 21 kg was laboratory-confirmed as cannabis was not reported.
     - The Rs 10.50 lakh figure is the police valuation, not an independently verified market price.
@@ -72,10 +75,10 @@ media:
 ---
 
 Charminar Task Force and Balapur police jointly exposed an interstate gang
-smuggling ganja from Odisha into Hyderabad. [@1,2] The operation seized 21 kg of
-dry ganja valued at Rs 10.50 lakh and arrested the courier transporting it. [@1,2,3] The arrested man was identified as Ahmed Emad Mohamed alias Ahmed. [@2,3] Police arrested him at his residence in Abu Bakar Colony, Balapur. [@2] He was 20 years old. [@2,3] Police seized the 21 kg consignment, worth an estimated Rs 10.5 lakh, on November 16. [@2]
+smuggling ganja from Odisha into Hyderabad. [@1,2,4] The operation seized 21 kg of
+dry ganja valued at Rs 10.50 lakh and arrested the courier transporting it. [@1,2,3,4] The arrested man was identified as Ahmed Emad Mohamed alias Ahmed. [@2,3,4] Police arrested him at his residence in Abu Bakar Colony, Balapur. [@2] He was 20 years old. [@2,3] Police seized the 21 kg consignment, worth an estimated Rs 10.5 lakh, on November 16. [@2]
 The arrested accused had been posing as an ordinary worker in a pan shop in
-Shaheen Nagar before entering the trade to make quick money. [@1] Ahmed worked at Aina Pan Shop in Shaheen Nagar. [@2,3]
+Shaheen Nagar before entering the trade to make quick money. [@1] Ahmed worked at Aina Pan Shop in Shaheen Nagar. [@2,3,4]
 
 On the orders of main accused Ibrahim, he travelled to Berhampur in Odisha and
 bought the 21 kg from a man named Samuel. [@1,2,3] He hid the consignment in a
@@ -85,5 +88,5 @@ and seized the ganja along with the trolley, luggage bags and one mobile phone
 used for transport. [@1,2]
 
 Ringleader Ibrahim and Odisha-based supplier Samuel are absconding and police
-have intensified searches for them. [@1,2,3] Ibrahim was identified as Ibrahim Bin Saleem Baamar alias Ibrahim Baamar, a suspected ganja peddler from Bawazeer Colony, Ambedkar Nagar, Kothapet. [@2] Police registered a case against the
-accused under the NDPS Act. [@1,2,3]
+have intensified searches for them. [@1,2,3,4] Ibrahim was identified as Ibrahim Bin Saleem Baamar alias Ibrahim Baamar, a suspected ganja peddler from Bawazeer Colony, Ambedkar Nagar, Kothapet. [@2] Police registered a case against the
+accused under the NDPS Act. [@1,2,3] Police booked the case under Section 8(c) read with Section 20(b)(ii)(C) of the NDPS Act and produced Ahmed before the court for judicial remand. [@4]
