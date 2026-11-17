@@ -41,6 +41,11 @@ media:
     media_url: https://asset.tribunnews.com/blO1ocMVPALmmZ_-bgtOX0I_Q_I=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/medan/foto/bank/originals/Polres-siantar-tangkap-narkoba-di-sianar.jpg
     publisher: Tribun Medan
     caption: 'Police photo of the two suspects and the seized ganja and sabu evidence from the Pematangsiantar operation on 8 November 2026. Photo: Tribun Medan/Arjuna Bakkara'
+  - kind: photo
+    url: https://metrodaily.jawapos.com/hukum-dan-kriminal/2611170014/dua-residivis-narkoba-kembali-ditangkap-sabu-dan-ganja-ditemukan
+    media_url: https://cdn-jjmn.jawapos.com/images/11/2026/11/17/dua-pria-berinisial-h-dan-ibb-yang-disebut-polisi-sebagai-residivis-kasus-narkotika-kembali-ditangkap-di-pematangsiantar-polisi-menyita-sabu-ganja-dan-sejumlah-peralatan-terkait-narkotika-6atIO.webp
+    publisher: Metro Daily
+    caption: The two suspects with the seized sabu, ganja and drug paraphernalia from the Pematangsiantar operation.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8b9842854d036af01e26153339563ce4
@@ -56,31 +61,35 @@ sources:
     publisher: Tribun Medan
     date: 2026-11-13
     language: id
+  - title: Dua Residivis Narkoba Kembali Ditangkap, Sabu dan Ganja Ditemukan - Metro Daily
+    url: https://metrodaily.jawapos.com/hukum-dan-kriminal/2611170014/dua-residivis-narkoba-kembali-ditangkap-sabu-dan-ganja-ditemukan
+    publisher: Metro Daily
+    date: 2026-11-17
+    language: id
 open_questions:
-  - No independent second outlet corroborating the account was found; the report rests on a single police statement published by Tribun Medan.
-  - The identity of the supplier of the 1.27 g ganja, and of the supplier IBB identified for the 2.45 g sabu, had not been confirmed as of publication.
-  - No trial or sentence outcome was reported; the case was at the charged stage.
+    - Both the Tribun Medan and Metro Daily accounts reproduce the same Pematangsiantar police statement, so they are not independent reporting.
+    - The identity of the supplier of the 1.27 g ganja, and of the supplier IBB identified for the 2.45 g sabu, had not been confirmed as of publication.
+    - No trial or sentence outcome was reported; the case was at the charged stage.
 ---
 
 The drug squad of Pematangsiantar regency police arrested two men with previous
 narcotics convictions in the Pematangsiantar city district on Sunday 8 November
-2026. [@1] Both men, aged 46 and 45, are residents of Banjar village, Siantar
-Barat district, Pematangsiantar. [@1] The case began with a community report of
-suspected narcotics possession on Jalan Bali in Bane village. [@1]
+2026. [@1,3] Both men, aged 46 and 45, are residents of Banjar village, Siantar
+Barat district, Pematangsiantar. [@1,3] The case began with a community report of
+suspected narcotics possession on Jalan Bali in Bane village. [@1,3]
 
 At about 15:00 on 8 November 2026, an operational team found one suspect sitting
-on a Honda Tiger motorcycle at the stop. [@1] Officers found five packets of
+on a Honda Tiger motorcycle at the stop. [@1,3] Officers found five packets of
 methamphetamine and one packet of ganja in a cigarette case hidden on his chest,
 and seized a blue Oppo phone. [@1] The suspect acknowledged the one packet of
 ganja, gross weight 1.27 g, and said it came from an unidentified person still
-being investigated. [@1] He also acknowledged seven packets of methamphetamine
+being investigated. [@1,3] He also acknowledged seven packets of methamphetamine
 totalling 2.45 g gross, said to have been bought from a man identified as IBB.
 [@1]
 
 At about 23:00 that same night, officers went to the home of IBB in Jalan Bola
-Kaki, Banjar village, Siantar Barat district. [@1] Officers seized IBB and took
-a blue Vivo phone from his left hand. [@1] Both suspects were detained and
+Kaki, Banjar village, Siantar Barat district. [@1,3] Officers seized IBB and took
+a blue Vivo phone from his left hand. [@1] In a search of an empty house right next to IBB's house, officers found one packet of sabu weighing 0.38 grams wrapped in cigarette foil inside a pair of blue jeans. [@3] Both suspects were detained and
 charged under Article 114 paragraph (1) of the 2009 Narcotics Law and/or Article
 609 paragraph (1) letter a of Law No. 1 of 2023 (the new Criminal Code) in
 conjunction with Law No. 1 of 2026. [@2]
-
