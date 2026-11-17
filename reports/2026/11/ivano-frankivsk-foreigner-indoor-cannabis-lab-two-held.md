@@ -70,6 +70,11 @@ media:
     media_url: https://www.facebook.com/reel/1142342441866403/
     publisher: Reporter (report.if.ua)
     caption: Facebook reel video of the searches and seizure, embedded in the Reporter article
+  - kind: photo
+    url: https://suspilne.media/ivano-frankivsk/1454003-narkolaboratoria-u-budinku-gromadanina-cehii-ta-jogo-spilnika-pidozruut-u-virobnictvi-j-zbuti-kanabisu-na-frankivsini/
+    media_url: https://cdn4.suspilne.media/images/resize/1040x1.78/1db20515c8784548.jpg
+    publisher: Suspilne Ivano-Frankivsk
+    caption: 'Photo captioned as the detention of the suspects in the Ivano-Frankivsk region drug laboratory. Photo: Facebook/Ivano-Frankivsk regional prosecutor''s office, published with the Suspilne article'
 status: verified
 created_by_model: swancloud/deepseek-v4-flash#xhigh
 submission: 08d0f11068b32e8301d21756c101112e
@@ -95,38 +100,45 @@ sources:
     publisher: Місто
     date: 2026-11-17
     language: uk
+  - title: Нарколабораторія у будинку. Громадянина Чехії та його спільника підозрюють у виробництві й збуті канабісу на Франківщині
+    url: https://suspilne.media/ivano-frankivsk/1454003-narkolaboratoria-u-budinku-gromadanina-cehii-ta-jogo-spilnika-pidozruut-u-virobnictvi-j-zbuti-kanabisu-na-frankivsini/
+    publisher: Suspilne Ivano-Frankivsk
+    date: 2026-11-17
+    language: uk
 open_questions:
-  - The suspects' names and the foreigner's country of citizenship were not released.
-  - No figure for the number of plants found or the laboratory's output was published; only the weight of finished cannabis seized is known.
-  - The exact location of the laboratory and which suspect lived in the house are not named in any account.
-  - The searches took place on 13 November, but no separate date for the detentions or for the court's custody decision was published.
-  - All three accounts derive from the same police Department of Strategic Investigations statement, so they are not independent reporting.
-  - It is not known whether either suspect paid the 266,240 hryvnia bail or was released.
+    - The suspects' names were not released; the older man is a 47-year-old Czech citizen and the younger a 24-year-old Ivano-Frankivsk resident.
+    - No figure for the number of plants found or the laboratory's output was published; only the weight of finished cannabis seized is known.
+    - The exact location of the laboratory and which suspect lived in the house are not named in any account.
+    - The searches took place on 13 November, but no separate date for the detentions or for the court's custody decision was published.
+    - Accounts say the Czech citizen had lived near Ivano-Frankivsk since 2018, while others say the foreigner moved to Prykarpattia at the end of 2024.
+    - One account says the court imposed bail on the local man and custody with bail on the Czech citizen, while the others say both were held in custody with the option of bail of 266,240 hryvnias each.
+    - The accounts all derive from police, prosecutor's-office or SBU statements, so they are not independent reporting.
+    - It is not known whether either suspect paid the 266,240 hryvnia bail or was released.
 ---
 
 Police in Ivano-Frankivsk region detained a 47-year-old foreigner and a local
 resident who, investigators say, set up a cannabis-growing laboratory and sold
-cannabis in the region. [@1,4] The foreigner arrived in Ukraine at the end of 2024
+cannabis in the region. [@1,4,5] The older suspect is a 47-year-old Czech citizen who had lived temporarily in a suburban village near Ivano-Frankivsk, and his accomplice is a 24-year-old local man. [@5] The foreigner arrived in Ukraine at the end of 2024
 and settled in the region, coordinating the operation and controlling the money,
 while his accomplice bought seeds and equipment and tended the crops. [@1,4]
 
 The laboratory was set up on the second floor of a private house where one of
 the suspects lived, fitted with ventilation, lighting, heating, air conditioning
-and drip irrigation so cannabis could be grown all year round. [@1,4] Dried
+and drip irrigation so cannabis could be grown all year round. [@1,4,5] The growing room was fully automated, with sodium lamps, thermometers, hygrometers and electric timers, and the first harvest came after two months. [@5] In late July 2026 the men bought special textile pots, fertilisers and hemp seeds, which they sowed and grew by the pasynkuvannia method. [@5] Dried
 cannabis was taken to a flat in Ivano-Frankivsk, from where it was sold through
-stash drops or during meetings with buyers. [@1,4]
+stash drops or during meetings with buyers. [@1,4] The men dried and processed the harvested buds and leaves into sale-ready cannabis, and in November 2026 the younger man was documented selling cannabis hand-to-hand to a local resident after taking part of it to his flat in the regional centre for storage and packing. [@5]
 
 On 13 November officers of the strategic investigations department, police
 investigators, SBU officers and KORD special forces searched six homes and
 vehicles of the suspects. [@1] They seized more than 1.5 kg of cannabis, growing
 equipment, 144,000 hryvnias and 3,400 dollars in cash, phones, computers, draft
-notes and a car. [@1,4] The operation also involved KORD special forces, a
+notes and a car. [@1,4,5] The operation also involved KORD special forces, a
 special-purpose police company and the regional police's rapid response group.
 [@2]
 
 Both suspects were notified of suspicion of illegal manufacture and sale of
 drugs, sowing cannabis and maintaining a drug laboratory (Part 2 of Articles
-307, 310 and 317 of the Criminal Code) and face up to 10 years in prison. [@1,4]
+307, 310 and 317 of the Criminal Code) and face up to 10 years in prison. [@1,4,5]
 The court ordered both held in custody with the option of bail of 266,240
 hryvnias each. [@1,4] Investigators are working to establish other people who may
-have been involved in the operation. [@3,4]
+have been involved in the operation. [@3,4,5]
