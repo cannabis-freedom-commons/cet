@@ -100,6 +100,11 @@ sources:
     publisher: El Informador
     date: 2026-11-16
     language: es
+  - title: Aseguran 106 kilos de marihuana y 364 cartuchos en Chihuahua; decomisan dos vehículos robados
+    url: https://www.msn.com/es-mx/noticias/other/aseguran-106-kilos-de-marihuana-y-364-cartuchos-en-chihuahua-decomisan-dos-veh%C3%ADculos-robados/ar-AA2hzFPB
+    publisher: MSN
+    date: 2026-11-16
+    language: es
 media:
   - kind: photo
     url: https://www.nmas.com.mx/chihuahua/seguridad/aseguran-marihuana-cartuchos-y-vehiculos-robados-en-maguarichi-chihuahua/
@@ -127,19 +132,19 @@ open_questions:
 
 Chihuahua state police (SSPE) seized about 106.4 kilograms of marijuana,
 ammunition, magazines and two stolen vehicles on the road to Maguarichi, at the
-San Vicente junction. [@1,4,6,7,8,9,10,11,12,13,14] Agents found 10 transparent packages of dry green
-herb similar to marijuana at the spot. [@1,5,6,7,8,9,10,11,13,14] The packages weighed approximately
+San Vicente junction. [@1,4,6,7,8,9,10,11,12,13,14,15] Agents found 10 transparent packages of dry green
+herb similar to marijuana at the spot. [@1,5,6,7,8,9,10,11,13,14,15] The packages weighed approximately
 106.4 kilograms. [@1,8,9,10,11]
 
 Officers also seized three magazines, two metal and one plastic, and 364 live
-cartridges. [@1,8,9,10,11,14] Of the cartridges, 340 were 7.62x51 calibre in two ammunition
+cartridges. [@1,8,9,10,11,14,15] Of the cartridges, 340 were 7.62x51 calibre in two ammunition
 belts and 24 were 7.62x39 calibre. [@1,7,13] In the same operation they found two
 stolen vehicles: a 2022 Mitsubishi L200 pickup reported stolen in Sonora since
 April 2022, and a 2021 Hyundai Kona reported stolen in the United States since
 June 2023. [@1,6,8,9,11,14]
 
 The drugs, magazines, ammunition and vehicles were handed over to the competent
-authorities for further investigation. [@1,6,8,9,10,12,14] The SSPE, headed by secretary Luis
+authorities for further investigation. [@1,6,8,9,10,12,14,15] The SSPE, headed by secretary Luis
 Aguirre, said it maintains preventive patrols and surveillance in the region to
 detect crime and reinforce security in rural areas. [@1]
 
