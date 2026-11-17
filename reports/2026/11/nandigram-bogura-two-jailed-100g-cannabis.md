@@ -51,19 +51,25 @@ sources:
     publisher: North Capital News
     date: 2026-11-16
     language: bn
+  - title: নন্দীগ্রামে ইয়াবা ট্যাবলেট, হেরোইন ও গাঁজাসহ গ্রেপ্তার ২
+    url: https://www.ajkalerkhobor.net/news/209050
+    publisher: Daily Ajkalerkhobor
+    date: 2026-11-17
+    language: bn
 open_questions:
     - The report does not say which of the two men received the 100-taka fine and which received the 200-taka fine, so no single fine figure is recorded.
     - The 10 yaba tablets and 1 gram of heroin seized in the same drive are excluded from the cannabis weight.
     - The cannabis was described as recovered from the accused with no laboratory confirmation reported.
     - No later court outcome beyond the mobile-court sentences was reported.
+    - It is unclear whether the three-month imprisonment was rigorous or without labour.
 ---
 
 An operational team from DNC Bogura 'B' Circle, led by Nandigram upazila nirbahi
 officer and executive magistrate M. Abdullah Ibne Masud Ahmed, conducted a
-mobile court drive in Nandigram upazila on 16 November 2026. [@1] Officers
+mobile court drive in Nandigram upazila on 16 November 2026. [@1,3] Officers
 arrested Md. Arif Billah (24) and Md. Alam (50), both residents of Omarpur
-village in Nandigram, during the drive. [@1,2]
+village in Nandigram, during the drive. [@1,2,3]
 
 Officers seized 100 grams of cannabis, 10 pieces of yaba tablets and 1 gram of
-heroin from the two men. [@1,2] A mobile court sentenced both men to 3 months of
-rigorous imprisonment, fining one 100 taka and the other 200 taka. [@1,2] The seized drugs were destroyed on the spot in the presence of the magistrate. [@2]
+heroin from the two men. [@1,2,3] A mobile court sentenced both men to 3 months of
+rigorous imprisonment, fining one 100 taka and the other 200 taka. [@1,2,3] The seized drugs were destroyed on the spot in the presence of the magistrate. [@2,3]
