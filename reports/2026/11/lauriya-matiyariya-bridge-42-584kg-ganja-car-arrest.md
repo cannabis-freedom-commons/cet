@@ -66,6 +66,11 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-16
     language: hi
+  - title: पुलिस को देखकर भागने लगा गांजा तस्कर, पेड़ से टकराई कार; 42.584 किलो गांजा बरामद, चालक गिरफ्तार
+    url: https://firstbihar.com/bihar/pashchim-champaran-news/west-champaran-42-584-kg-ganja-recovered-car-driver-arrested-495659
+    publisher: FirstBihar
+    date: 2026-11-16
+    language: hi
 open_questions:
     - Two accounts place the vehicle check on Sunday evening while one dates it to Monday; 15 November 2026, the Sunday before the 16 November publications, is used as the incident date.
     - No seizure value, weighing record beyond the reported total, or laboratory confirmation was published.
@@ -86,9 +91,9 @@ officers signalled a suspicious car approaching from the Narkatiaganj side to
 stop. [@3] The driver sped away instead of stopping, the speeding car went out
 of control and hit a roadside tree, and police caught driver-cum-owner Ajit
 Kumar at the spot after a chase. [@3,4] A search of the crashed car found several
-packets of ganja hidden inside. [@2] Police also recovered a mobile phone from the accused. [@4] A search of the car's dickey found 4 bundles of ganja hidden inside. [@4] The seized material was searched and
+packets of ganja hidden inside. [@2] Police also recovered a mobile phone from the accused. [@4,5] A search of the car's dickey found 4 bundles of ganja hidden inside. [@4,5] The seized material was searched and
 weighed in the presence of CO-cum-magistrate Ashu Ranjan, giving a total of 42
-kg 584 grams of ganja. [@3,4]
+kg 584 grams of ganja. [@3,4,5]
 
 Police took the ganja and the vehicle into custody and handed them to Lauriya
 police station, with further legal proceedings under way. [@3] Lauriya station
