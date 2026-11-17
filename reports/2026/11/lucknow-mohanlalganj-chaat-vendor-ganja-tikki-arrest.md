@@ -39,25 +39,31 @@ sources:
     publisher: News18 Hindi
     date: 2026-11-17
     language: hi
+  - title: जिस आलू टिक्की को चटखारे लेकर खाते थे लोग, उसी में मिला था गांजा! लखनऊ में चाटवाला गिरफ्तार
+    url: https://www.prabhatkhabar.com/state/uttar-pradesh/lucknow-chaat-vendor-mixes-ganja-in-aloo-tikki-chutney-arrest-mohanlalganj-crime-news
+    publisher: Prabhat Khabar
+    date: 2026-11-17
+    language: hi
+  - title: गांजा मिलाकर खिलाता था आलू टिक्की और चटनी, लखनऊ में चाट वाला ऐसे चढ़ा पुलिस के हत्थे
+    url: https://www.aajtak.in/uttar-pradesh/story/lucknow-snacks-vendor-held-for-mixing-cannabis-in-aloo-tikki-lclk-dskc-2310757-2025-08-15
+    publisher: AajTak
+    date: 2025-08-15
+    language: hi
 open_questions:
-  - No separate date for the raid was given; 17 November 2026 is the publication date and stands in for the incident date.
-  - No quantity of ganja or bhang seized or recovered was published.
-  - The accused was not named and no age or other identifying detail was given.
-  - No police unit beyond the police in general was named.
-  - No charges, case number, or court outcome were reported.
-  - The account rests on a single opened report with no independent corroboration for a November 2026 incident.
+    - 'The incident may date to August 2025 rather than November 2026: an earlier account of the same Mohanlalganj chaat-vendor arrest was published on 15 August 2025, while the November 2026 articles give no separate raid date.'
+    - No quantity of ganja or bhang seized from this vendor alone was published; a combined 4.7 kg figure in the earlier account covered two separate cases.
+    - No charges, case number or court outcome for this vendor were reported.
 ---
 
 Police in Lucknow arrested a chaat vendor accused of secretly mixing ganja into
-aloo tikki and chutney. [@1] The case was reported from Mohanlalganj. [@1] The
-incident occurred in Lucknow, the capital of Uttar Pradesh. [@1]
+aloo tikki and chutney. [@1,2,3] The case was reported from Mohanlalganj. [@1,2] The
+incident occurred in Lucknow, the capital of Uttar Pradesh. [@1,2]
 
 The vendor allegedly used great cunning to lace his tikki and chutney with ganja
-so customers would become addicted to his food. [@1] Police said he did this to
-get customers hooked on his chaat. [@1] The truth came out during a raid that
+so customers would become addicted to his food. [@1,2] Police said he did this to
+get customers hooked on his chaat. [@1,2] The truth came out during a raid that
 followed complaints over several days, and the vendor was arrested for
-endangering public health. [@1]
+endangering public health. [@1,2]
 
 The accused's identity had not been revealed, and he was also said to sell ganja
-and bhang illegally. [@1]
-
+and bhang illegally. [@1,2] An earlier report identified the vendor as 42-year-old Pramod Sahu. [@3]
