@@ -33,7 +33,7 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
-status: verified
+status: reported
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 65c9b6ff1e6d64e37584189dde0b47c7
 tags: [lagos, ndlea, airport, loud, thailand-route]
@@ -915,6 +915,14 @@ sources:
     publisher: Kaler Kantho
     date: 2026-11-16
     language: bn
+  - title: Nigeria says it arrested US basketball player after cannabis seizure
+    url: https://sg.news.yahoo.com/nigeria-says-arrested-us-basketball-092121323.html
+    publisher: Yahoo News Singapore
+    date: 2026-11-17
+  - title: US basketball player arrested in Nigeria after 33.95kg of cannabis found in luggage
+    url: https://ghanaguardian.com/us-basketball-player-arrested-in-nigeria-after-33-95kg-of-cannabis-found-in-luggage/
+    publisher: GhanaGuardian
+    date: 2026-11-17
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cj93rggenq4xo
@@ -1011,6 +1019,8 @@ media:
     media_url: https://sportal365images.com/process/smp-images-production/pulse.ng/17112026/128bc861-29c8-447e-8437-2f8d317b7082.jpg?operations=autocrop(700:467)&format=webp
     publisher: Pulse Nigeria
     caption: American basketball player Da’monte Khiree Greene stands in custody alongside parcels of seized cannabis following his arrest at Murtala Muhammed International Airport in Lagos.
+open_questions:
+  - 'US basketball player arrested in Nigeria after 33.95kg of cannabis found in luggage (GhanaGuardian) could not be opened again to check its quotations (access challenge: Cloudflare blocked access to the article; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
 ---
 
 NDLEA operatives at Murtala Muhammed International Airport in Lagos intercepted
@@ -1021,7 +1031,7 @@ intelligence and was observed abandoning his two checked-in bags to leave the
 airport with only his carry-on luggage. [@1,4,6,7,10,11,12,16,18,20,22,23,24,28,30,31,33,34,38,41,43,46,47,50,52,53,54,56,57,58,61,62,63,64,66,67,70,72,73,75,76,77,79,83,84,86,87,90,93,94,95,98,99,100,101,103,105,106,107,109,110,111,112,115,118,120,121,122,123,124,127,130,131,132,133,135,136,137,140,141,143,144,145,146,147,148,150,151,152,155,156,159,160,162,163,165,167,168,169,170,171,172,174,175,176] He was promptly apprehended at the
 airport car park. [@1,3,4,5,6,7,8,10,11,13,16,17,18,19,20,21,22,23,24,27,28,29,32,33,35,36,38,41,43,44,45,46,49,57,63,64,72,77,78,80,81,82,87,88,90,91,92,95,96,97,100,101,102,103,108,117,121,128,129,133,134,135,138,142,146,147,149,150,156,157,162,163,166,168,170,172,174,175,177] A second account confirms NDLEA arrested the American
 professional basketball player after discovering 32 parcels of Loud in his
-luggage at the same Lagos airport. [@2,9,25,29,48,50,53,71,72,97,104,124,125,149,150,173,180,181,183,184,187,189,191,193,196,197,199] A tracking device was recovered in the bag with the cannabis parcels. [@184]
+luggage at the same Lagos airport. [@2,9,25,29,48,50,53,71,72,97,104,124,125,149,150,173,180,181,183,184,187,189,191,193,196,197,199,202,203] A tracking device was recovered in the bag with the cannabis parcels. [@184]
 
 A search of the two abandoned bags, both bearing his name tag, found sixteen
 parcels of Loud in each, totalling thirty-two parcels with a combined weight of
@@ -1030,7 +1040,7 @@ The agency describes Loud as a potent strain of cannabis. [@1,3,5,23,25,27,28,29
 
 The suspect, a native of Savannah, Georgia, said he had lived in Thailand since
 October 2025 playing professional basketball and came to Nigeria on holiday to
-build networks for his basketball career. [@1,4,6,7,11,12,13,17,18,19,20,22,23,27,28,29,30,33,38,39,41,42,48,49,50,58,59,61,62,64,67,73,75,77,80,84,87,93,94,96,97,99,100,101,102,103,106,107,110,111,115,121,122,123,124,126,127,128,129,133,134,135,136,137,139,143,144,145,146,147,149,150,154,155,156,158,159,161,168,169,174,182,201] The 28-year-old had not publicly commented on the allegations. [@75,83,107,124,155,159] No plea had been publicly reported in the case as of 16 November 2026. [@139] As of November 16, no charges nor court date had been reported. [@174] According to his BoldPro account, Khiree, a shooting guard, graduated from South Georgia Technical College, played semi-professional basketball with the Georgia Bombers, moved to El Salvador in 2025 for a pro contract with Escalon BC, and headed to Thailand shortly afterwards. [@10] A player by the name of Damonte Greene is listed on the Pattani Raptors roster in the Thai Premier Men’s League, and the Georgia native played college basketball for Reinhardt University and South Georgia Technical College before playing semi-professionally in the US and for teams in Thailand. [@79,130,153] He later became the leading scorer for the Georgia Bombers, a semi-professional basketball team, during the 2023–2024 season before moving to Thailand. [@67,85] Greene was the leading scorer for the semiprofessional Georgia Bombers during the 2023-24 season, averaging 26.3 points per game, according to the Basketball Job Market. [@78,103,117,149] Greene previously played for Reinhardt University’s basketball team in the United States during the 2017–2018 season before moving to South Georgia Technical College. [@67,85,119,193] FIBA lists a player by the name DaMonte Greene, a point guard, one of whose recent appearances was at the Phuket Elite Cup in September. [@5,8,21,24,29,36,44,50,55,59,73,78,142,159] His most recent recorded appearance was on 26 September at the Phuket Elite Cup tournament in Thailand. [@53,54,67,75,85,93,105,119,136,144] A forensic examination of his
+build networks for his basketball career. [@1,4,6,7,11,12,13,17,18,19,20,22,23,27,28,29,30,33,38,39,41,42,48,49,50,58,59,61,62,64,67,73,75,77,80,84,87,93,94,96,97,99,100,101,102,103,106,107,110,111,115,121,122,123,124,126,127,128,129,133,134,135,136,137,139,143,144,145,146,147,149,150,154,155,156,158,159,161,168,169,174,182,201,203] The 28-year-old had not publicly commented on the allegations. [@75,83,107,124,155,159] No plea had been publicly reported in the case as of 16 November 2026. [@139] As of November 16, no charges nor court date had been reported. [@174] According to his BoldPro account, Khiree, a shooting guard, graduated from South Georgia Technical College, played semi-professional basketball with the Georgia Bombers, moved to El Salvador in 2025 for a pro contract with Escalon BC, and headed to Thailand shortly afterwards. [@10] A player by the name of Damonte Greene is listed on the Pattani Raptors roster in the Thai Premier Men’s League, and the Georgia native played college basketball for Reinhardt University and South Georgia Technical College before playing semi-professionally in the US and for teams in Thailand. [@79,130,153] He later became the leading scorer for the Georgia Bombers, a semi-professional basketball team, during the 2023–2024 season before moving to Thailand. [@67,85] Greene was the leading scorer for the semiprofessional Georgia Bombers during the 2023-24 season, averaging 26.3 points per game, according to the Basketball Job Market. [@78,103,117,149] Greene previously played for Reinhardt University’s basketball team in the United States during the 2017–2018 season before moving to South Georgia Technical College. [@67,85,119,193] FIBA lists a player by the name DaMonte Greene, a point guard, one of whose recent appearances was at the Phuket Elite Cup in September. [@5,8,21,24,29,36,44,50,55,59,73,78,142,159] His most recent recorded appearance was on 26 September at the Phuket Elite Cup tournament in Thailand. [@53,54,67,75,85,93,105,119,136,144] A forensic examination of his
 mobile phone revealed information pointing to his knowledge of and involvement
 in the drug trafficking activity. [@1,3,4,5,7,8,11,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,36,37,38,39,40,41,43,44,45,46,47,49,50,51,52,53,54,55,56,57,58,61,62,64,65,66,69,70,73,74,75,76,77,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,106,107,108,110,111,112,113,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,138,139,141,142,145,146,147,148,149,150,151,153,154,155,156,157,159,160,161,164,174,177,182] The NDLEA announced the arrest on November 15 and said the investigation was ongoing. [@174] If convicted, the Savannah, Georgia, native could face life in prison. [@139] The account was disclosed in a Sunday
 statement by NDLEA Director of Media and Advocacy Femi Babafemi. [@1,3,7,12,22,50] Importing marijuana into Nigeria is punishable by a prison term of no less than 21 years. [@143]
