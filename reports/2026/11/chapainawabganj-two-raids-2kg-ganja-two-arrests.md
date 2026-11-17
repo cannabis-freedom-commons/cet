@@ -41,29 +41,31 @@ sources:
     publisher: Eimattro
     date: 2026-11-17
     language: bn
+  - title: চাঁপাইনবাবগঞ্জে পৃথক অভিযানে মাদকদ্রব্যসহ গ্রেফতার ২
+    url: https://sarabangla.net/bangladesh/post-1221840/
+    publisher: Sarabangla
+    date: 2026-11-17
+    language: bn
 open_questions:
-  - No separate date for either raid was given; 17 November 2026 is the publication date and is used as the incident date.
-  - The 16 bottles of Eskaf syrup seized in the Sadar raid are a non-cannabis cough-syrup seizure and are excluded from the cannabis figures.
-  - The ganja was described by weight only; no plant count, area, value estimate or laboratory confirmation was reported.
-  - No age, charge, plea or court outcome was reported for either detainee.
-  - No independent corroboration of these raids beyond the single outlet report was found.
-  - The Shibganj raid is placed specifically in Satrashia village while the round-up summary calls the Shibganj operation the Monaksha area; whether Satrashia lies within Monaksha was not explained.
+    - The 16 bottles of Eskaf syrup seized in the Sadar raid are a non-cannabis cough-syrup seizure and are excluded from the cannabis figures.
+    - The ganja was described by weight only; no plant count, area, value estimate or laboratory confirmation was reported.
+    - The detainees' ages are now reported as 45 and 54, but no charge, plea or court outcome was reported for either detainee.
+    - The new account's summary line places both drives on Monday afternoon, while its detailed account places the DB raid at 1 am on Tuesday 17 November.
 ---
 
 Police and District Detective Branch officers arrested two drug traders in
-separate anti-drug operations in Chapai Nawabganj district. [@1] A Sadar Model
+separate anti-drug operations in Chapai Nawabganj district. [@1,2] A Sadar Model
 Thana police team acting on secret information detained Abdur Rashid from a
-litchi garden in Dhumihayatpur village, Ranihati Union. [@1] Officers recovered
+litchi garden in Dhumihayatpur village, Ranihati Union. [@1] The Sadar search took place at 4:15 pm on Monday 16 November, led by Sadar Model Thana SI Md Jahid Hasan behind Ramjan Ali's house in the litchi garden, and the detained Abdur Rashid was 45. [@2] Officers recovered
 16 bottles of Eskaf syrup from him during that search. [@1] A District Detective
-Branch team conducted a raid in Satrashia village in Shibganj. [@1] Officers
+Branch team conducted a raid in Satrashia village in Shibganj. [@1,2] The DB raid took place at 1 am on Tuesday 17 November in Satrashia village, Monaksha Union, led by DB SI Palash Chandra Chowdhury, and the arrested Aktar Hossain was 54. [@2] Officers
 recovered 2 kg of ganja from Aktar Hossain's own house during that raid and
-brought him under the law. [@1]
+brought him under the law. [@1,2]
 
-Police said legal proceedings against the detainees were under way. [@1] Chapai
+Police said legal proceedings against the detainees were under way. [@1,2] Chapai
 Nawabganj police said the operations were conducted district-wide on the
 instructions of the superintendent of police. [@1] Police asked members of the
 public to provide crime-related information. [@1] Police said the identities of
 people providing information would be kept fully confidential. [@1] The two
 searches took place in Ranihati in Sadar Upazila and in the Monaksha area of
 Shibganj Upazila in Chapai Nawabganj district. [@1]
-
