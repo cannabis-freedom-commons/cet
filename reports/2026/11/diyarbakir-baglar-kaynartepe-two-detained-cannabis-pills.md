@@ -61,22 +61,27 @@ sources:
     publisher: Ege Alternatif Gazetesi
     date: 2026-11-15
     language: tr
+  - title: 'Diyarbakır’da Uyuşturucu Operasyonu: Çok Sayıda Hap ve Esrar Ele Geçirildi - Gazetedetay'
+    url: https://gazetedetay.com/video/diyarbakirda-uyusturucu-operasyonu-cok-sayida-hap-ve-esrar-ele-gecirildi
+    publisher: Gazetedetay
+    date: 2026-11-16
+    language: tr
 ---
 
 Police in Diyarbakır's Bağlar district detained two suspects in connection with
-a drug operation. [@1,2,3,4,5] The suspects had been identified as trading drugs before
+a drug operation. [@1,2,3,4,5,6] The suspects had been identified as trading drugs before
 they were caught, in an operation supported by Anti-Terror Branch teams. [@1]
 The Bağlar District Police Crime Prevention and Investigation Bureau had
 received information that drugs and an unlicensed weapon were at an address in
-Kaynartepe Mahallesi. [@1,2,3,4,5] The Provincial Police Directorate said it announced the operation on its social media accounts. [@2] After technical and physical surveillance, the teams
+Kaynartepe Mahallesi. [@1,2,3,4,5,6] The Provincial Police Directorate said it announced the operation on its social media accounts. [@2] After technical and physical surveillance, the teams
 moved in and raided the identified address with the participation of the
-Anti-Terror Branch. [@1,3]
+Anti-Terror Branch. [@1,3] The raid on the identified address was carried out on 14 November 2026 with the support of Anti-Terror Branch teams. [@6]
 
-The search found 381 ecstasy pills and 294 synthetic pharmaceutical pills. [@1,3,4,5]
+The search found 381 ecstasy pills and 294 synthetic pharmaceutical pills. [@1,3,4,5,6]
 The same search found 77 grams of cannabis and a further 19.84 grams of cannabis
-divided into 65 pieces ready for sale. [@1,3,4,5] Officers also seized one unlicensed
-pistol found at the address. [@1,2,3,4,5] The two detained suspects were held for police
-procedures before being sent to the judicial authorities. [@1]
+divided into 65 pieces ready for sale. [@1,3,4,5,6] Officers also seized one unlicensed
+pistol found at the address. [@1,2,3,4,5,6] The two detained suspects were held for police
+procedures before being sent to the judicial authorities. [@1,6]
 
 The operation was presented as part of police anti-drug work that produced a
 result in Bağlar district. [@1]
