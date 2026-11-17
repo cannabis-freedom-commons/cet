@@ -48,14 +48,20 @@ sources:
     publisher: Mistar.id
     date: 2026-11-16
     language: id
+  - title: Polres Karo tangkap pria di Kabanjahe, sabu dan ganja disita
+    url: https://sumut.antaranews.com/amp/berita/677611/polres-karo-tangkap-pria-di-kabanjahe-sabu-dan-ganja-disita
+    publisher: ANTARA News Sumatera Utara
+    date: 2026-11-17
+    language: id
 open_questions:
-  - The seized ganja and sabu were described only as suspected narcotics, with no laboratory confirmation reported.
-  - No charge, detention measure or court outcome was reported; the case was at the investigation stage.
-  - The two accounts give the roadside stop as Sunday afternoon and one gives about 18.00 WIB; no exact time for the house search was stated.
+    - The seized ganja and sabu were described only as suspected narcotics, with no laboratory confirmation reported.
+    - No detention measure or court outcome was reported; the case was at the investigation stage.
+    - The two accounts give the roadside stop as Sunday afternoon and one gives about 18.00 WIB; no exact time for the house search was stated.
+    - Police said the articles would be applied according to the investigation's findings, so the final charge may differ.
 ---
 
 Satresnarkoba Polres Karo arrested a 38-year-old man identified only as S in
-Kabanjahe district, Karo regency, over alleged narcotics distribution. [@1] The
+Kabanjahe district, Karo regency, over alleged narcotics distribution. [@1,3] The
 man works as a farm or plantation labourer and lives in Kabanjahe district. [@1]
 Officers had been watching S as a suspected sabu distributor before stopping him
 on the roadside of Jalan Samura, Gung Negeri, on the afternoon of 15 November
@@ -68,12 +74,11 @@ and officers extended the search there. [@2] At the house, police found seven
 clip-plastic packets of white crystal suspected to be sabu with a combined net
 weight of 2.28 grams. [@1] Officers also found one green-and-white plastic pack
 labelled Robot holding ganja weighing 27.96 grams net and one red-trimmed
-clip-plastic packet holding ganja weighing 0.08 grams net. [@1] Police gave the
+clip-plastic packet holding ganja weighing 0.08 grams net. [@1,3] Police gave the
 combined seizure as 2.28 grams net of sabu and 28.04 grams of ganja from the two
-locations. [@1]
+locations. [@1,3]
 
 Officers also seized a digital scale, empty clip plastics, a sharp-tipped
 pipette and a black-and-red Honda Revo motorcycle without a number plate. [@1]
 The suspect and all the evidence were taken to the Satresnarkoba Polres Karo
-office for examination and further investigation. [@1]
-
+office for examination and further investigation. [@1] Police said S was being processed under Article 114(1) of the 2009 Narcotics Law and Article 609(1) read with Article VII point 50 of the 2026 Criminal Code Adjustment Law, with the articles applied according to the investigation's findings. [@3] Police described the case as part of the Karo resort's support for P4GN, the national programme against drug abuse and illicit trafficking. [@3]
