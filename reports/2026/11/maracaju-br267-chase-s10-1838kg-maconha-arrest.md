@@ -61,23 +61,23 @@ sources:
     publisher: Fátima News
     date: 2026-11-13
     language: pt
-open_questions:
-  - The accounts do not name the suspect or report any charges or court outcome beyond referral to the Civil Police of Maracaju.
-  - All three outlets reproduce the same PRF account, so the figures rest on a single agency statement; the police handout photo is not independently confirmed.
-  - No separate date was given for the pursuit beyond the 12 November seizure day; the reports were published on 13 November 2026.
+  - title: PRF apreende 1.838 kg de maconha na BR-267 em Maracaju
+    url: https://acritica.net/policia/prf-maconha-maracaju-1838kg/
+    publisher: A Crítica de Campo Grande
+    date: 2026-11-13
+    language: pt
 ---
 
 On 12 November 2026 the Federal Highway Police (PRF) seized 1,838 kg of
-marijuana during a check on the BR-267 highway in Maracaju. [@1] The marijuana
+marijuana during a check on the BR-267 highway in Maracaju. [@1,4] The marijuana
 was loaded in a Chevrolet S10 pickup, whose driver ignored the stop order and
-fled. [@1]
+fled. [@1,4]
 
 After a tactical pursuit, the driver abandoned the pickup and tried to escape on
-foot, but the officers caught and detained him. [@2] During the inspection
-officers found the vehicle completely loaded with tablets of marijuana. [@2]
+foot, but the officers caught and detained him. [@2,4] During the inspection
+officers found the vehicle completely loaded with tablets of marijuana. [@2,4]
 
 Questioned, the driver said he had picked up the illicit cargo in Bela Vista, in
-Paraguay, and that the destination would be Campo Grande. [@1] The incident, the
+Paraguay, and that the destination would be Campo Grande. [@1,4] The incident, the
 seized marijuana and the suspect were referred to the Civil Police of Maracaju.
-[@3]
-
+[@3,4]
