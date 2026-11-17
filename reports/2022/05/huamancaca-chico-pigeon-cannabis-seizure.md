@@ -64,19 +64,21 @@ sources:
     publisher: Blu Radio
     date: 2022-05-19
     language: es
+  - title: 'La Victoria: Capturan a universitario con 1 kg de marihuana y joven envía saludos a su profesor'
+    url: https://www.infobae.com/america/peru/2022/05/24/la-victoria-capturan-a-universitario-con-1-kg-de-marihuana-y-envia-saludos-a-su-profesor/
+    publisher: Infobae
+    date: 2022-05-24
+    language: es
 open_questions:
-  - Diario Correo’s updated text places the capture at about 4 p.m. on the previous day, implying 17 May, but its preserved earlier note says it happened that afternoon and the police post is dated 18 May; the exact day remains uncertain.
-  - RPP reported 50 grams, while Diario Correo reported 30–40 grams; RTVE’s 10–30 gram figure was an estimate of the load needed for flight, not a confirmed seizure weight, so no kg_seized value is recorded.
-  - No sender or intended inmate was identified, and no human arrest, charge or court outcome was reported.
-  - 'Left out, as its quotation was not found in Diario Correo: At about 4 p.m. on 17 May 2022, an officer saw the pigeon drinking from a puddle formed by rain in front of the administrative offices.'
-  - 'Left out, as its quotation was not found in Semana: Police described the package as circular and black, and said the bird was placed in safe custody after it was found at the prison’s main gate.'
-  - 'Left out, as its quotation was not found in RPP Noticias: Police said the cannabis was meant for one inmate at Huancayo prison.'
+    - Diario Correo’s updated text places the capture at about 4 p.m. on the previous day, implying 17 May, but its preserved earlier note says it happened that afternoon and the police post is dated 18 May; the exact day remains uncertain.
+    - RPP reported 50 grams, Diario Correo 30–40 grams and Infobae 30 grams; RTVE’s 10–30 gram figure was an estimate of the load needed for flight, not a confirmed seizure weight, so no kg_seized value is recorded.
+    - No sender or intended inmate was identified, and no human arrest, charge or court outcome was reported.
 ---
 
 Security officers at Huamancaca Chico prison in Chupaca, Junín, intercepted a
 pigeon carrying a cannabis parcel. [@4] The guard noticed a strange package tied
 around the bird’s neck. [@3] Officers found seeds, stems and dry green leaves
-with a characteristic marijuana smell in the cloth parcel. [@3] The national
+with a characteristic marijuana smell in the cloth parcel. [@3,5] The national
 police said the pigeon carried a small bag tied to its body with marijuana
 intended for inmates inside Huancayo prison. [@1]
 
@@ -85,5 +87,4 @@ with the Public Ministry and use available evidence to identify and locate those
 suspected of sending it. [@2] Investigators reviewed prison surveillance footage
 to check for previous deliveries and identify possible recipients. [@2] After
 coordinating investigative steps with the Public Ministry, police released the
-pigeon. [@2]
-
+pigeon. [@2] Colonel Eduan Díaz said the pigeon was a new method of getting drugs into the prison and that police were investigating how the groups behind it operated. [@5]
