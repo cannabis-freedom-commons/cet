@@ -79,6 +79,11 @@ sources:
     publisher: herkesduysun.com
     date: 2026-11-16
     language: tr
+  - title: 'Yenimahalle''de narkotik operasyonu: 12,8 kilo esrar ele geçirildi'
+    url: https://turkinform.com.tr/yenimahallede-narkotik-operasyonu-128-kilo-esrar-ele-gecirildi
+    publisher: Türkinform
+    date: 2026-11-16
+    language: tr
 media:
   - kind: video
     url: https://www.haberler.com/amp/ankara-yenimahalle-de-12-kilo-800-gram-esrar-ele-20432981-haberi/
@@ -90,18 +95,23 @@ media:
     media_url: https://herkesduysun.com/api/medya/news/2026/11/20261116AW833700/02_video.mp4
     publisher: herkesduysun.com
     caption: Video of the Ankara narcotics operation and the seized cannabis.
+  - kind: photo
+    url: https://turkinform.com.tr/yenimahallede-narkotik-operasyonu-128-kilo-esrar-ele-gecirildi
+    media_url: https://turkinformcomtr.teimg.com/crop/1280x720/turkinform-com-tr/uploads/2026/11/a-n-k-a-r-a-d-a-12-k-i-l-o-u-y-u-s-t-u-r-u-c-u-e-l-e-g-e-c-i-r-i-l-1611904-479168.webp
+    publisher: Türkinform
+    caption: Photo published with the Turkinform report on the Yenimahalle seizure.
 ---
 
 Ankara anti-narcotics police carried out an operation in the Yenimahalle
 district on 15 November 2026 under the coordination of the Ankara Chief Public
 Prosecutor's Office. [@3,4,6,7,8] Officers seized 12 kilograms 800 grams of cannabis
-(esrar) in the operation. [@2,4,5,6,7,8]
+(esrar) in the operation. [@2,4,5,6,7,8,9]
 
 Officers also seized three precision scales, drug-packaging materials and 9,050
-Turkish lira in cash. [@2,4,5,6,7,8] One suspect was caught during the Yenimahalle
-operation. [@1,4,5,6,7]
+Turkish lira in cash. [@2,4,5,6,7,8,9] One suspect was caught during the Yenimahalle
+operation. [@1,4,5,6,7,9]
 
 The suspect was detained on suspicion of manufacturing and trading narcotic or
-stimulant drugs. [@2,4,5,6,7,8] Judicial proceedings against the suspect were continuing.
-[@3,4,5,6,7,8] Ankara police said their work against people trading drugs would continue
+stimulant drugs. [@2,4,5,6,7,8,9] Judicial proceedings against the suspect were continuing.
+[@3,4,5,6,7,8,9] Ankara police said their work against people trading drugs would continue
 with determination. [@3]
