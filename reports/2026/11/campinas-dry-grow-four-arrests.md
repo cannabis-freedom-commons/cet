@@ -53,31 +53,29 @@ sources:
     publisher: CNN Brasil
     date: 2026-11-17
     language: pt
-open_questions:
-  - 'Accounts of the number arrested differ: the police statement and most coverage reported four, while other accounts of the same operation reported two or five.'
-  - No quantity of cannabis seized, no plant count, no cultivation area and no monetary value were published.
-  - No charges, pleas or court outcome were reported; the case remained at the investigation stage.
-  - The four detainees were not identified and the sources did not say which addresses in the three cities were searched.
-  - The sources did not specify whether the high-THC material was flower, resin, oil or another cannabis derivative.
+  - title: Quatro suspeitos são presos em operação contra produção e venda de derivados de THC em SP
+    url: https://midiamax.com.br/brasil/2026/quatro-suspeitos-sao-presos-operacao-contra-producao-venda-derivados-thc-sp/
+    publisher: Midiamax
+    date: 2026-11-17
+    language: pt
 ---
 
 Police in Campinas, Sumaré and Hortolândia arrested four people in flagrante
 during Operação Dry Grow, an operation against the production, distribution and
 sale of cannabis derivatives with a high concentration of THC, the compound
-responsible for the drug's psychoactive effects. [@1] Investigators said the
+responsible for the drug's psychoactive effects. [@1,3] Investigators said the
 high-potency cannabis was not only manufactured but also sold and supplied to
 drug-selling points. [@2] They suspected that properties and companies formed
 part of the criminal group's structure. [@1]
 
 Officers served seven search and seizure warrants, four in Sumaré, two in
-Campinas and one in Hortolândia. [@1] The operation aimed to establish how the
+Campinas and one in Hortolândia. [@1,3] The operation aimed to establish how the
 organisation worked and identify others involved. [@1]
 
 The action was carried out by Ficco, the integrated force against organised
 crime, together with the Military Police's 1st Baep special-actions battalion
 and the Civil Police's Deinter 2. [@1] Ficco Campinas comprises the Federal
 Police, the Federal Highway Police, the Civil Police, the Military Police and
-Paulínia's municipal guard, with support from the prosecutors' Gaeco unit. [@1]
+Paulínia's municipal guard, with support from the prosecutors' Gaeco unit. [@1,3]
 A Federal Police handout showed seized packaging bearing the image of Colombian
 trafficker Pablo Escobar. [@1]
-
