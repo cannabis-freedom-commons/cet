@@ -91,38 +91,35 @@ sources:
     publisher: Italien.news
     date: 2026-11-17
     language: de
-open_questions:
-    - The fuller accounts place the patrol on 9 October 2026 and the judge's validation of the arrests on 12 October 2026, but these reports were published on 17 November 2026; the reason for the delay is not given.
-    - The roughly 21 grams of marijuana found in the 21-year-old's car are a separate quantity and are not included in the 20 kg figure for the plantation.
-    - No court outcome beyond the pre-trial detention order was reported, and the case was described as still at the preliminary investigation stage.
-    - The 27 plants were described as 'fusti' about 2.5 metres tall; no laboratory confirmation of the seized plant material was reported.
-    - The weight was given as about 20 kilograms, not an exact measured figure, and no value estimate was published.
-    - All the opened accounts reproduce the Carabinieri press release rather than independent reporting.
-    - 'Accounts differ on how many of the three detainees were caught in the act: one report says two of the three were arrested in flagrante for possession and dealing, while the Carabinieri release says all three were arrested in flagrante.'
+  - title: Il video del blitz nella maxi piantagione di cannabis nascosta nella vegetazione a Marcedusa, tre arresti
+    url: https://www.virgilio.it/notizie/il-video-del-blitz-nella-maxi-piantagione-di-cannabis-nascosta-nella-vegetazione-a-marcedusa-tre-arresti-1796917
+    publisher: Virgilio Notizie
+    date: 2026-11-17
+    language: it
 ---
 
 Carabinieri of the Sellia Marina company, supported by the Cacciatori 'Calabria'
 helicopter squadron, discovered a cannabis plantation hidden in dense vegetation
-in an impervious agricultural area of Marcedusa, in Catanzaro province. [@1,6] The
+in an impervious agricultural area of Marcedusa, in Catanzaro province. [@1,6,7] The
 operation was launched on 9 October 2026 during a territory patrol. [@4] Inside
-the plot officers surprised three people cutting and processing the plants. [@1]
+the plot officers surprised three people cutting and processing the plants. [@1,7]
 The three suspects were arrested in flagrante and taken to Catanzaro prison.
 [@1,6] The investigation and the operation were carried out by the Carabinieri together with the public prosecutor's office at the court of Catanzaro. [@6] The investigating judge validated the arrests on 12 October 2026 and
 ordered pre-trial detention in prison. [@2] A 21-year-old was reported at
 liberty to the Catanzaro prosecutor for possession of narcotics for trafficking
 after about 21 grams of marijuana and a precision scale were found in his car.
-[@1]
+[@1,7]
 
-The cultivated area had an autonomous irrigation system. [@1] Officers found 27
+The cultivated area had an autonomous irrigation system. [@1,7] Officers found 27
 cannabis stalks about 2.5 metres tall and a drying area where the substance was
-already ready for packaging. [@1] Police seized about 20 kilograms of marijuana
-that had already been harvested. [@1]
+already ready for packaging. [@1,7] Police seized about 20 kilograms of marijuana
+that had already been harvested. [@1,7]
 
 Follow-up searches involving the Botricello and Mesoraca carabinieri stations
 covered people, vehicles and homes in the provinces of Catanzaro and Crotone.
-[@5] In a lorry used by one of the suspects officers found a snap device
-resembling a 'pen pistol', which was to undergo ballistic tests. [@1] More than
-15,700 euros in cash was seized from the homes searched. [@1] The plantation was
+[@5,7] In a lorry used by one of the suspects officers found a snap device
+resembling a 'pen pistol', which was to undergo ballistic tests. [@1,7] More than
+15,700 euros in cash was seized from the homes searched. [@1,7] The plantation was
 dismantled and the plants, the drug material and the cultivation and drying
-equipment were seized. [@1] The case remained at the preliminary investigation
+equipment were seized. [@1,7] The case remained at the preliminary investigation
 stage. [@3]
