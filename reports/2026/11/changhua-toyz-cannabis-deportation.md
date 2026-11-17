@@ -82,6 +82,16 @@ media:
     media_url: https://www.youtube.com/watch?v=_afWgnAPAQ0
     publisher: 四季線上4gTV
     caption: Toyz's post-release comeback YouTube livestream of 15 November 2026, embedded in the article. Video on Toyz's YouTube channel.
+  - kind: photo
+    url: https://www.4gtv.tv/article/2026111610000010
+    media_url: https://4gtvimg2.4gtv.tv/4gtv-Image/Production/Article/2026111610000010/202611161012339889.jpg
+    publisher: 四季線上4gTV
+    caption: Toyz apologising to shops he had previously criticised during his 15 November 2026 post-release livestream, saying prison food was worse than what dogs eat. Screenshot from Toyz's YouTube channel via 四季線上4gTV.
+  - kind: photo
+    url: https://www.4gtv.tv/article/2026111610000010
+    media_url: https://4gtvimg2.4gtv.tv/4gtv-Image/Production/Article/2026111610000010/202611161013335513.jpg
+    publisher: 四季線上4gTV
+    caption: Toyz tearing up as he describes the contrast between life before and after prison in his 15 November 2026 livestream. Screenshot from Toyz's YouTube channel via 四季線上4gTV.
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4faad24e27560989460f84543c9399be
@@ -637,11 +647,16 @@ sources:
     publisher: 四季線上4gTV
     date: 2026-11-16
     language: zh
+  - title: Toyz親揭獄中生活！曝監獄飯菜狗都不吃「1情況毫無尊嚴」
+    url: https://www.4gtv.tv/article/2026111610000010
+    publisher: 四季線上4gTV
+    date: 2026-11-16
+    language: zh
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,65,66,68,70,81,83,84,85,88,89,90,92,93,95,96,97,98,99,100,101,102,103,104,105,107,108,109,110] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,65,66,68,70,81,83,84,85,88,89,90,92,93,95,96,97,98,99,100,101,102,103,104,105,107,108,109,110,111] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
 [@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38,46,47,48,49,52,54,62,81] Prosecutors ordered deportation in place of protective supervision after
@@ -678,7 +693,7 @@ Officers from the immigration agency's Changhua County task force collected Liu 
 
 Officers from the immigration agency took Liu Weijian to Taichung Airport on 3 November for the forced expulsion, and he is barred from entering Taiwan for six years. [@64]
 
-Liu Weijian, known as Toyz, appeared on camera during a Hong Kong livestream by his wife, entertainer 篠崎泫, on 6 November 2026. [@67,68,69,70,72,73,74,75,76,77,79,83,87,90,92,94] Toyz said he would restart his own channel once his livestreaming equipment in Hong Kong was fully set up. [@67,69,77,79] On 15 November 2026 Toyz announced on Instagram that he would hold his first post-release YouTube livestream at 8 p.m. that evening, with a preview titled 「點名」 on his channel. [@93,94,95,97] Toyz held a YouTube livestream on the evening of 15 November at 8 p.m., drawing more than 140,000 viewers. [@96,98,100,101,102,103,104,105,106,107,108,109,110] In that livestream he apologised to shops and brands he had previously criticised harshly and complained that prison food was dry, cold and inedible, with rice stuck together and buns hard enough to throw as weapons. [@108,110] He said that on entering prison he was stripped for inspection including bending over and coughing to check for contraband, and had to use a squat toilet in full view of others while sleeping beside elderly and drug-affected cellmates. [@108] He called prison a place that completely stripped dignity and freedom and said he had wept with his girlfriend 篠崎泫 before entering prison. [@108,109] His channel had about 845,000 subscribers despite his long absence from public activity while imprisoned. [@103] Observers using PLAYBOARD put fan donations at about NT$380,000 near the end of the livestream, estimated to reach NT$400,000 before YouTube fees and taxes. [@101] About 10 hours after that livestream ended, the video had passed 1.63 million views and later passed 1.66 million, with peak concurrent viewers above 150,000. [@101] During the stream the concurrent audience stayed above 120,000. [@103] That livestream lasted more than two hours. [@101] During the about two-hour livestream he shared his life and mindset in prison. [@103] Toyz described the period when Ko was held alongside him as his happiest time in custody, saying he felt accompanied and supported. [@104] Toyz also said he had met and spoken with fellow inmate Xiaoyu in prison and had asked about his situation, but gave no further details to avoid affecting those still serving sentences. [@105] Toyz said he served mainly in Taichung Prison but was moved to Taipei Detention Center for about two to three weeks overlapping with former Taipei mayor Ko Wen-je, who was held next door, though they never met. [@104,105] A week after returning to Hong Kong, Toyz made his first post-release social-media update, sharing recent photos taken in Stanley with Blake Pier in the background. [@85]
+Liu Weijian, known as Toyz, appeared on camera during a Hong Kong livestream by his wife, entertainer 篠崎泫, on 6 November 2026. [@67,68,69,70,72,73,74,75,76,77,79,83,87,90,92,94] Toyz said he would restart his own channel once his livestreaming equipment in Hong Kong was fully set up. [@67,69,77,79] On 15 November 2026 Toyz announced on Instagram that he would hold his first post-release YouTube livestream at 8 p.m. that evening, with a preview titled 「點名」 on his channel. [@93,94,95,97] Toyz held a YouTube livestream on the evening of 15 November at 8 p.m., drawing more than 140,000 viewers. [@96,98,100,101,102,103,104,105,106,107,108,109,110,111] In that livestream he apologised to shops and brands he had previously criticised harshly and complained that prison food was dry, cold and inedible, with rice stuck together and buns hard enough to throw as weapons. [@108,110,111] He said that on entering prison he was stripped for inspection including bending over and coughing to check for contraband, and had to use a squat toilet in full view of others while sleeping beside elderly and drug-affected cellmates. [@108,111] He called prison a place that completely stripped dignity and freedom and said he had wept with his girlfriend 篠崎泫 before entering prison. [@108,109,111] His channel had about 845,000 subscribers despite his long absence from public activity while imprisoned. [@103] Observers using PLAYBOARD put fan donations at about NT$380,000 near the end of the livestream, estimated to reach NT$400,000 before YouTube fees and taxes. [@101] About 10 hours after that livestream ended, the video had passed 1.63 million views and later passed 1.66 million, with peak concurrent viewers above 150,000. [@101] During the stream the concurrent audience stayed above 120,000. [@103] That livestream lasted more than two hours. [@101] During the about two-hour livestream he shared his life and mindset in prison. [@103] Toyz described the period when Ko was held alongside him as his happiest time in custody, saying he felt accompanied and supported. [@104] Toyz also said he had met and spoken with fellow inmate Xiaoyu in prison and had asked about his situation, but gave no further details to avoid affecting those still serving sentences. [@105] Toyz said he served mainly in Taichung Prison but was moved to Taipei Detention Center for about two to three weeks overlapping with former Taipei mayor Ko Wen-je, who was held next door, though they never met. [@104,105] A week after returning to Hong Kong, Toyz made his first post-release social-media update, sharing recent photos taken in Stanley with Blake Pier in the background. [@85]
 
 Liu Weijian appeared by voice beside his girlfriend 篠崎泫 during a Hong Kong livestream on 6 November, drawing about 5,000 viewers instead of the few hundred the broadcast normally has. [@68] Immigration authorities said a marriage to a Taiwan resident would not by itself confer residence rights, and any application by a Hong Kong or Macao resident would still be reviewed under the relevant permit rules. [@68]
 
