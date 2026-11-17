@@ -89,35 +89,42 @@ sources:
     url: https://www.dailymail.com/news/article-16295855/Pensioner-caught-two-suitcases-cannabis-airport-flight-Thailand.html
     publisher: Daily Mail
     date: 2026-11-16
+  - title: 'מחלטר בפנסיה: ההברחה מתאילנד - שהדהימה את המשטרה הבריטית'
+    url: https://www.i24news.tv/he/news/international/europe/artc-a21943e3
+    publisher: i24NEWS
+    date: 2026-11-17
+    language: he
+open_questions:
+    - No date for the sentencing hearing itself was reported; 15 November 2026, the date of the first published account, stands in for it.
 ---
 
 Jack Debson, 74, of Brownbill Bank, Liverpool, was jailed for three years at
 Manchester Crown Court after admitting being concerned in the fraudulent evasion
-of a prohibition on the importation of a class B drug, namely cannabis. [@1,2,3,5]
+of a prohibition on the importation of a class B drug, namely cannabis. [@1,2,3,5,6]
 Border Force officers stopped Debson in Terminal 2 at Manchester Airport on 11
-June 2026 after he arrived on a flight from Thailand via Dubai. [@1,2,3,5] When the
+June 2026 after he arrived on a flight from Thailand via Dubai. [@1,2,3,5,6] When the
 first suitcase was opened, black vacuum-sealed packages containing the class B
 drug were found under a towel. [@1,4,5] More vacuum-sealed packages containing drugs
 were found under another towel in the second suitcase. [@1,5] In total, the
-cannabis found weighed 33.25 kilos with a street value of £100,000. [@1,2,3,4,5]
+cannabis found weighed 33.25 kilos with a street value of £100,000. [@1,2,3,4,5,6]
 
 Debson at first denied the drugs found in his suitcases had anything to do with
 him. [@1,4] He told officers he had packed both suitcases himself and that they
-contained no contraband, only clothes. [@1] When he was arrested he denied the
+contained no contraband, only clothes. [@1,6] When he was arrested he denied the
 offence, but four days before his trial he changed his plea, saying he had acted
-under direction for a £3,000 fee. [@1,3] Debson had seven sets of previous
+under direction for a £3,000 fee. [@1,3,6] Debson had seven sets of previous
 convictions for eleven offences, including a five-year prison sentence in
-October 2011 for cultivating cannabis. [@1,4] He received a further 13-month
+October 2011 for cultivating cannabis. [@1,4,6] He received a further 13-month
 prison sentence the following year for production of cannabis. [@1] In
 mitigation, James Hudson said Debson was in poor health with heart problems and
-high blood pressure. [@1] Hudson said there was a realistic prospect of
+high blood pressure. [@1,6] Hudson said there was a realistic prospect of
 rehabilitation and urged the judge to step away from an immediate prison
 sentence. [@1]
 
 Judge Alan Conrad KC said this type of crime was of increasing prevalence and
-that deterrence had to be an important consideration. [@1] The judge said he
+that deterrence had to be an important consideration. [@1,6] The judge said he
 found no realistic prospect of rehabilitation, noting a pre-sentence report had
 concluded Debson had shown no remorse and did not appreciate the risk of harm
-caused by cannabis. [@1] He concluded that only immediate custody would be
+caused by cannabis. [@1,6] He concluded that only immediate custody would be
 adequate punishment. [@1] Debson appeared by videolink and thanked the judge
 after the sentence was announced. [@1,2]
