@@ -22,7 +22,8 @@
     "coordinates:check": "node scripts/check-coordinates.mjs",
     "coordinates:duplicates": "node scripts/check-duplicate-coordinates.mjs",
     "benchmark": "node benchmark/run.mjs",
-    "benchmark:scores": "node benchmark/score.mjs"
+    "benchmark:scores": "node benchmark/score.mjs",
+    "benchmark:cases": "node benchmark/cases-report.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.3.5",
