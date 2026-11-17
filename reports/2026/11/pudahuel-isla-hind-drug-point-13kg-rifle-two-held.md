@@ -55,6 +55,11 @@ sources:
     publisher: El Reporte Diario
     date: 2026-11-17
     language: es
+  - title: 'Denuncia ciudadana permite hallazgo de marihuana, una pistola y un rifle en Pudahuel: hay 2 detenidos'
+    url: https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/17/denuncia-ciudadana-permite-hallazgo-de-marihuana-una-pistola-y-un-rifle-en-pudahuel-hay-2-detenidos.shtml
+    publisher: BioBioChile
+    date: 2026-11-17
+    language: es
 open_questions:
     - The new article says the operation began on Monday afternoon (16 November), but no date or time is given for the arrests themselves; 17 November 2026 remains the incident date used.
     - The marijuana is described only as marijuana for distribution, with no laboratory confirmation or exact measured weight; the amount is stated as more than 1 kilogram 300 grams.
@@ -65,19 +70,19 @@ open_questions:
 
 Carabineros detained a 23-year-old man and a 29-year-old woman in the Santiago
 commune of Pudahuel, after neighbours reported that a house on Calle Isla Hind
-was selling drugs constantly. [@1,2] The operation began on Monday afternoon after a report that a home in Pudahuel was being used to sell drugs. [@3] Both detainees are Chilean nationals and have no police records. [@2,3] Officers of the Sección de Investigación
+was selling drugs constantly. [@1,2] The operation began on Monday afternoon after a report that a home in Pudahuel was being used to sell drugs. [@3,4] Both detainees are Chilean nationals and have no police records. [@2,3,4] Officers of the Sección de Investigación
 Policial (SIP), the Carabineros investigation section, watched the house in
 plain clothes to confirm the reports without being noticed. [@1]
 
 After confirming that drug deals were taking place there, the officers entered
 the apartment and caught the two suspects in the act. [@1] They seized more than
 1.3 kilograms of marijuana ready for distribution, cash and equipment used to
-weigh and dose the drug. [@1,2] Police estimated the seized drugs could have a commercial value of close to $7 million. [@2,3] The marijuana was distributed in bags, and officers seized two digital scales and $250,000 in cash. [@2,3] Officers also found two weapons hidden in the
-home, a pistol and a rifle. [@1,2] The pistol and rifle were hidden under a dresser used to store clothes. [@2,3]
+weigh and dose the drug. [@1,2] Police estimated the seized drugs could have a commercial value of close to $7 million. [@2,3,4] The marijuana was distributed in bags, and officers seized two digital scales and $250,000 in cash. [@2,3,4] Officers also found two weapons hidden in the
+home, a pistol and a rifle. [@1,2] The pistol and rifle were hidden under a dresser used to store clothes. [@2,3,4]
 
 Lieutenant Joaquín Rodríguez of the 55th Police Station said the entry and
 search procedure yielded the marijuana and two prohibited firearms, one of them
-a rifle and the other a pistol. [@1,2,3] The two were left at the disposal of the
+a rifle and the other a pistol. [@1,2,3,4] The two were left at the disposal of the
 Public Prosecutor's Office to face charges of drug trafficking and illegal
 possession of firearms. [@1,3] The pair was to appear at a detention-control
 hearing. [@1]
