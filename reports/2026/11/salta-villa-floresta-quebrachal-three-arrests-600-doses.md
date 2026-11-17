@@ -50,6 +50,11 @@ sources:
     publisher: Informate Salta
     date: 2026-11-14
     language: es
+  - title: 'Denuncias anónimas terminaron en allanamientos: tres detenidos y 600 dosis secuestradas - Que Pasa Salta'
+    url: https://www.quepasasalta.com.ar/policiales/narcomenudeo-salta-el-quebrachal-tres-detenidos/
+    publisher: Que Pasa Salta
+    date: 2026-11-16
+    language: es
 open_questions:
   - No separate cannabis-only dose count or weight was published; the reported figure of about 600 doses covers cocaine and marijuana together, so no cannabis weight is recorded.
   - The articles give no separate date for the raids; 14 November 2026 is the publication date and is used as the incident date.
@@ -60,18 +65,18 @@ open_questions:
 
 Officers of Salta's Dirección General de Drogas Peligrosas raided two homes, one
 in Villa Floresta in Salta city and one in barrio Santa Rosa in El Quebrachal,
-targeting suspected drug-selling points. [@1] In Villa Floresta police detained
+targeting suspected drug-selling points. [@1] The police account does not establish that those detained belong to the same organisation or that the two investigations are connected. [@4] In Villa Floresta police detained
 a man and a woman, with the intervention of the Unidad Fiscal contra la
-Narcocriminalidad and the College of Judges of Guarantees. [@1,3] In barrio Santa
+Narcocriminalidad and the College of Judges of Guarantees. [@1,3,4] In barrio Santa
 Rosa in El Quebrachal police detained a 27-year-old man, with the Penal
 Prosecutor's Office and the Guarantees Court of Joaquín V. González intervening.
-[@2,3] The three detainees, two men and an adult woman, were placed at the
+[@2,3,4] The three detainees, two men and an adult woman, were placed at the
 disposal of the courts for alleged infringement of National Law 23.737 on
 narcotics. [@2]
 
 Between the two homes officers seized about 600 doses of cocaine and marijuana
-combined, plus cash and other items linked to the investigation. [@1,3] The
+combined, plus cash and other items linked to the investigation. [@1,3,4] The
 investigation began from neighbours' reports through the Denuncias Web system,
-which led investigators to request the search warrants. [@1,3] Police said the
+which led investigators to request the search warrants. [@1,3,4] Police said the
 operations struck two alleged drug-selling points and the inquiry continues to
 determine how they operated and whether others were involved. [@1]
