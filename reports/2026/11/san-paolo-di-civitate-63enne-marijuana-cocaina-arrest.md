@@ -119,20 +119,25 @@ sources:
     publisher: La Gazzetta di San Severo
     date: 2026-11-14
     language: it
+  - title: 'Nascondeva droga nell''orto di casa: blitz dei carabinieri e arresto'
+    url: https://www.quotidianodipuglia.it/foggia/foggia_nascondeva_droga_nell_orto_di_casa_un_uomo_di_63_anni_stato_arrestato_dai_carabinieri_san_paolo_di_civitate-9889422.html
+    publisher: Quotidiano di Puglia
+    date: 2026-11-14
+    language: it
 ---
 
 Carabinieri arrested a 63-year-old man, already known to law enforcement, in
 flagrante in San Paolo di Civitate on suspicion of possessing drugs for dealing.
-[@1,3,4,5,6] The operation was carried out by officers of the local Carabinieri station
+[@1,3,4,5,6,7] The operation was carried out by officers of the local Carabinieri station
 as part of drug prevention and enforcement checks. [@2,6] After the arrest was
 validated, the preliminary investigations judge ordered house arrest for the
-man. [@1,3,4,5,6]
+man. [@1,3,4,5,6,7]
 
 Officers seized over 320 grams of marijuana and about 66 grams of cocaine, along
-with material for packaging doses. [@1,3,4,5,6] Officers found a first dose of marijuana
-on the kitchen table during a search of the man's home in the town centre. [@1,4,5,6]
+with material for packaging doses. [@1,3,4,5,6,7] Officers found a first dose of marijuana
+on the kitchen table during a search of the man's home in the town centre. [@1,4,5,6,7]
 They recovered six more sealed packages of the same substance hidden in an
-adjacent plot available to the 63-year-old. [@1,3,4,5]
+adjacent plot available to the 63-year-old. [@1,3,4,5,7]
 
 Investigators estimated the seized drugs could have yielded about 1,900
 marijuana doses and 400 cocaine doses. [@1,3,4,5] A vacuum-packing machine and a roll
