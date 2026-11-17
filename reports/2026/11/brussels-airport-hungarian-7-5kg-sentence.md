@@ -42,21 +42,27 @@ sources:
     publisher: HLN
     date: 2026-11-04
     language: nl
+  - title: Hongaarse twintiger veroordeeld voor smokkelen 7,5 kilo cannabis
+    url: https://www.hln.be/zaventem/hongaarse-twintiger-veroordeeld-voor-smokkelen-7-5-kilo-cannabis~aa15c584/
+    publisher: HLN
+    date: 2026-11-16
+    language: nl
 open_questions:
   - The article gives no separate sentencing date; 4 November 2026 is the publication date and is used as the incident date.
   - The landing is given only as 2 August, without a year.
   - The sentencing court is not named; the article only says the return travelled via Brussels.
   - Only one accessible source for this event was found after searching in Dutch and English.
   - The defendant is identified only as a 21-year-old Hungarian man; no full name was published.
+  - The 16 November 2026 page repeats the same account published on 4 November 2026 without giving a separate sentencing date, so the sentencing date remains open.
 ---
 
 The court sentenced a 21-year-old Hungarian man to 40 months in prison for
-smuggling cannabis. [@1] Customs officers had found 7.5 kilograms of cannabis in
+smuggling cannabis. [@1,2] Customs officers had found 7.5 kilograms of cannabis in
 his suitcase. [@1] The court left the penalty at the standard 40 months. [@1]
 
 The young man had landed on 2 August on a flight from Bangkok, the Thai capital.
-[@1] When customs checked his baggage, officers found 16 plastic-wrapped
-packages totalling 7.5 kilograms of cannabis. [@1] The prosecution said he
+[@1,2] When customs checked his baggage, officers found 16 plastic-wrapped
+packages totalling 7.5 kilograms of cannabis. [@1,2] The prosecution said he
 claimed that he had not checked in the suitcase himself and did not know what
 was in it. [@1] Prosecutors said he had only been asked to carry the suitcase in
 exchange for his plane ticket and stay in Thailand, which they called hardly
@@ -67,4 +73,3 @@ the defence had hoped for leniency. [@1] The defence said the unemployed client
 had been promised a job in Thailand, waited weeks in a hotel without work, was
 pressured to carry the suitcase back via Brussels where he would receive money
 to return to Hungary, and saw no other solution after trying to refuse. [@1]
-
