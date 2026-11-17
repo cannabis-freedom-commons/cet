@@ -75,13 +75,14 @@ func TestResearchModelComesFromEnvironment(t *testing.T) {
 func TestGoogleNewsConfiguration(t *testing.T) {
 	defaults(t)
 	c, err := Load()
-	if err != nil || !c.GoogleNewsEnabled || c.GoogleNewsInterval != 2*time.Minute || c.GoogleNewsMaxArticles != 15 || c.GoogleNewsQueriesPerScan != 8 {
+	if err != nil || !c.GoogleNewsEnabled || c.GoogleNewsInterval != 2*time.Minute || c.GoogleNewsMaxArticles != 15 || c.GoogleNewsQueriesPerScan != 4 {
 		t.Fatal(c, err)
 	}
 	t.Setenv("HARVEST_GOOGLE_NEWS_ENABLED", "false")
+	t.Setenv("HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN", "8")
 	t.Setenv("HARVEST_GOOGLE_NEWS_QUERIES", " cannabis raid | [CZ:cs] konopí policie ")
 	c, err = Load()
-	if err != nil || c.GoogleNewsEnabled || len(c.GoogleNewsQueries) != 2 || c.GoogleNewsQueries[0] != (harvest.GoogleNewsQuery{Edition: "US:en", Query: "cannabis raid"}) || c.GoogleNewsQueries[1] != (harvest.GoogleNewsQuery{Edition: "CZ:cs", Query: "konopí policie"}) {
+	if err != nil || c.GoogleNewsEnabled || c.GoogleNewsQueriesPerScan != 8 || len(c.GoogleNewsQueries) != 2 || c.GoogleNewsQueries[0] != (harvest.GoogleNewsQuery{Edition: "US:en", Query: "cannabis raid"}) || c.GoogleNewsQueries[1] != (harvest.GoogleNewsQuery{Edition: "CZ:cs", Query: "konopí policie"}) {
 		t.Fatal(c, err)
 	}
 	for key, value := range map[string]string{"HARVEST_GOOGLE_NEWS_ENABLED": "invalid", "HARVEST_GOOGLE_NEWS_INTERVAL": "0s", "HARVEST_GOOGLE_NEWS_MAX_ARTICLES": "-1", "HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN": "0", "HARVEST_GOOGLE_NEWS_QUERIES": "[cz] konopí"} {

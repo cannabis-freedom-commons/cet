@@ -539,7 +539,7 @@ about two minutes (±20% jitter) after each completed scan, independently of RSS
 HARVEST_GOOGLE_NEWS_ENABLED=true
 HARVEST_GOOGLE_NEWS_INTERVAL=2m
 HARVEST_GOOGLE_NEWS_MAX_ARTICLES=15
-HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN=8
+HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN=4
 # Optional pipe-separated queries; blank uses the built-in multilingual set. Prefix a query
 # with its Google News edition (ceid, country:language); without one, US English is used.
 HARVEST_GOOGLE_NEWS_QUERIES=[IN:hi] (गांजा OR चरस) (जब्त OR गिरफ्तार) when:1d|[CZ:cs] konopí policie when:1d
@@ -605,9 +605,8 @@ assuming working Persian, Pashto, Burmese, Khmer or North Korean editions. Regio
 search locales, not strict event-country filters, and do not guarantee coverage of every country.
 
 Each scan runs the next `HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN` queries in rotation (1–50), paced a
-second apart. With 293 default queries and 8 per scan, 37 scans visit the whole set, roughly
-75 minutes plus scan time (at most about 4.6 hours at the default interval, jitter and five-minute
-scan deadline).
+second apart. With 293 default queries and 4 per scan, 74 scans visit the whole set, roughly
+2.5 hours plus scan time when there is no rate limit or queue backpressure.
 Language/edition searches retain the one-day lookback; country-targeted searches use seven days
 to accommodate sparse reporting and delayed indexing. Both exceed the default full-rotation time.
 The larger set does not increase the per-scan request or admission budgets. New candidates are

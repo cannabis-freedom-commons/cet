@@ -193,20 +193,26 @@ func TestGoogleSchedulerWaitsAndKeepsRateLimitedBatch(t *testing.T) {
 	})
 }
 
-func TestGoogleRedirectRateLimitStopsScan(t *testing.T) {
+func TestGoogleRedirectRateLimitStopsScanAndKeepsResearchJobs(t *testing.T) {
 	s, err := store.Open(filepath.Join(t.TempDir(), "news.sqlite"))
 	if err != nil {
 		t.Fatal(err)
 	}
 	defer s.DB.Close()
+	queueJobs(t, s, 1)
+	leased, err := s.ClaimKind(t.Context(), "jobs", "research", time.Minute)
+	if err != nil {
+		t.Fatal(err)
+	}
 	const article = "https://news.google.com/rss/articles/first"
+	const publisher = "https://publisher.example/article"
 	var paths []string
 	var lookupAt time.Time
 	g := GoogleNews{Store: s, Queries: []GoogleNewsQuery{{"US:en", "cannabis"}}, client: &http.Client{Transport: newsTransport(func(r *http.Request) (*http.Response, error) {
 		paths = append(paths, r.URL.Path)
 		switch r.URL.Path {
 		case "/rss/search":
-			return newsResponse(r, `<rss><channel><item><link>`+article+`</link></item><item><link>https://news.google.com/rss/articles/second</link></item></channel></rss>`), nil
+			return newsResponse(r, `<rss><channel><item><link>`+publisher+`</link></item><item><link>`+article+`</link></item><item><link>https://news.google.com/rss/articles/second</link></item></channel></rss>`), nil
 		case "/rss/articles/first":
 			lookupAt = time.Now()
 			return newsResponse(r, `<div data-n-a-sg="signature" data-n-a-ts="1793362567"></div>`), nil
@@ -222,15 +228,22 @@ func TestGoogleRedirectRateLimitStopsScan(t *testing.T) {
 	})}}
 	stats, err := g.Scan(t.Context())
 	var limit *googleNewsRateLimit
-	if !errors.As(err, &limit) || limit.retryAfter != "120" || stats.Found != 2 || stats.Unresolved != 1 || stats.Queued != 0 {
+	if !errors.As(err, &limit) || limit.retryAfter != "120" || stats.Found != 3 || stats.Unresolved != 1 || stats.Queued != 1 {
 		t.Fatal(stats, err)
 	}
 	if len(paths) != 3 || !strings.HasSuffix(paths[2], "/batchexecute") {
 		t.Fatal("scan continued after the 429", paths)
 	}
 	var count int
-	if err := s.DB.QueryRow("SELECT count(*) FROM harvest_state").Scan(&count); err != nil || count != 0 {
+	if err := s.DB.QueryRow("SELECT count(*) FROM harvest_state WHERE provider=?", "google-news:item:"+hash(article)).Scan(&count); err != nil || count != 0 {
 		t.Fatal("rate limited candidate was marked seen", count, err)
+	}
+	var status, token string
+	if err := s.DB.QueryRow("SELECT status, lease_token FROM jobs WHERE id=?", leased.ID).Scan(&status, &token); err != nil || status != "running" || token != leased.Token {
+		t.Fatal("research lease changed", status, err)
+	}
+	if err := s.DB.QueryRow("SELECT count(*) FROM jobs WHERE kind='research' AND status='queued'").Scan(&count); err != nil || count != 1 {
+		t.Fatal("queued research work changed", count, err)
 	}
 }
 

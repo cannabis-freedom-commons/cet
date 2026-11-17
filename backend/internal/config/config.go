@@ -101,7 +101,7 @@ func Load() (Config, error) {
 	if discoveryErr != nil || c.GoogleNewsMaxArticles < 1 || c.GoogleNewsMaxArticles > 100 {
 		return c, errors.New("HARVEST_GOOGLE_NEWS_MAX_ARTICLES must be 1 to 100")
 	}
-	c.GoogleNewsQueriesPerScan, discoveryErr = strconv.Atoi(env("HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN", "8"))
+	c.GoogleNewsQueriesPerScan, discoveryErr = strconv.Atoi(env("HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN", "4"))
 	if discoveryErr != nil || c.GoogleNewsQueriesPerScan < 1 || c.GoogleNewsQueriesPerScan > 50 {
 		return c, errors.New("HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN must be 1 to 50")
 	}
