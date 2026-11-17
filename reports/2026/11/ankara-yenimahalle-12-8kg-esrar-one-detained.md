@@ -89,6 +89,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-16
     language: tr
+  - title: Ankara Yenimahalle'de 12 kilo 800 gram esrar ele geçirildi, 1 şüpheli yakalandı
+    url: https://www.gazeteilksayfa.com/ankara-yenimahallede-12-kilo-800-gram-esrar-ele-gecirildi-1-supheli-yakalandi-313767h.htm
+    publisher: Gazete İlk Sayfa
+    date: 2026-11-16
+    language: tr
 media:
   - kind: video
     url: https://www.haberler.com/amp/ankara-yenimahalle-de-12-kilo-800-gram-esrar-ele-20432981-haberi/
@@ -109,14 +114,14 @@ media:
 
 Ankara anti-narcotics police carried out an operation in the Yenimahalle
 district on 15 November 2026 under the coordination of the Ankara Chief Public
-Prosecutor's Office. [@3,4,6,7,8,10] Officers seized 12 kilograms 800 grams of cannabis
-(esrar) in the operation. [@2,4,5,6,7,8,9,10]
+Prosecutor's Office. [@3,4,6,7,8,10,11] Officers seized 12 kilograms 800 grams of cannabis
+(esrar) in the operation. [@2,4,5,6,7,8,9,10,11]
 
 Officers also seized three precision scales, drug-packaging materials and 9,050
-Turkish lira in cash. [@2,4,5,6,7,8,9,10] One suspect was caught during the Yenimahalle
-operation. [@1,4,5,6,7,9]
+Turkish lira in cash. [@2,4,5,6,7,8,9,10,11] One suspect was caught during the Yenimahalle
+operation. [@1,4,5,6,7,9,11]
 
 The suspect was detained on suspicion of manufacturing and trading narcotic or
-stimulant drugs. [@2,4,5,6,7,8,9,10] Judicial proceedings against the suspect were continuing.
-[@3,4,5,6,7,8,9] Ankara police said their work against people trading drugs would continue
+stimulant drugs. [@2,4,5,6,7,8,9,10,11] Judicial proceedings against the suspect were continuing.
+[@3,4,5,6,7,8,9,11] Ankara police said their work against people trading drugs would continue
 with determination. [@3]
