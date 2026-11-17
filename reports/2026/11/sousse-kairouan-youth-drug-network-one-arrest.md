@@ -76,26 +76,35 @@ sources:
     publisher: Ultra Tunisia
     date: 2026-11-12
     language: ar
+  - title: 'بين سوسة والقيروان: الأمن يطيح بشبكة لترويج المخدات في الملاهي'
+    url: https://www.mosaiquefm.net/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D9%88%D9%86%D8%B3-%D8%AC%D9%87%D8%A7%D8%AA/1536581/%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B3%D8%A9-%D9%88%D8%A7%D9%84%D9%82%D9%8A%D8%B1%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D8%B7%D9%8A%D8%AD-%D8%A8%D8%B4%D8%A8%D9%83%D8%A9-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D9%87%D9%8A
+    publisher: Mosaique FM
+    date: 2026-11-12
+    language: ar
+  - title: 'بين سوسة والقيروان: الإيقاع بـ ‘بارون’ ترويج الكوكايين في الملاهي الليلية'
+    url: https://assarih.com/%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B3%D8%A9-%D9%88%D8%A7%D9%84%D9%82%D9%8A%D8%B1%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%8A%D9%82%D8%A7%D8%B9-%D8%A8%D9%80-%D8%A8%D8%A7%D8%B1%D9%88%D9%86-%D8%AA/
+    publisher: Assarih
+    date: 2026-11-12
+    language: ar
 open_questions:
-  - Directinfo illustrated the Sousse–Kairouan youth network case with a September 2015 arrestation file photograph, so no event photo is listed.
     - The cocaine and cannabis seized are described only as a significant quantity; no weight, count or value was published.
+    - No figure for the number of people arrested beyond the one principal member, and no court outcome, was reported.
     - The 21 October 2026 statement on a separate Pregabalin (Lyrica) seizure of 26,831 tablets and about 32,000 dinars in the region is a different event and is left out of this report.
     - The 9 July 2026 customs half-year tally (over 214 kg of cocaine, cannabis and marijuana and about 180,000 tablets) is a national statistic, not part of this event.
-    - No figure for the number of people arrested beyond the one principal member, and no court outcome, was reported.
 ---
 
 National security units in Sousse city dismantled at dawn on Thursday a network
-specialising in trafficking narcotics among young people. [@1,2,5,6,8,9] The operation began at dawn on 12 November 2026. [@2,5] The network
+specialising in trafficking narcotics among young people. [@1,2,5,6,8,9,10] The operation began at dawn on 12 November 2026. [@2,5] The network
 operated between the governorates of Sousse and Kairouan, according to a
 communique from the Direction générale de la sûreté nationale. [@1,2,5,6,7] The
 operation followed extensive intelligence and field investigation work on the
 ground. [@1,5,6] Officers arrested the principal member of the network, described by
-the authorities as dangerous. [@1,3,5,6,7,8,9]
+the authorities as dangerous. [@1,3,5,6,7,8,9,10]
 
 The arrested man was the subject of several wanted notices issued by different
-security units for cases linked to drug trafficking. [@1,4,5,6] Security forces also
-seized a significant quantity of cocaine and of cannabis. [@1,3,5,6,7,8,9] The suspect had
-intended to sell the drugs in discotheques in the region. [@1,4,5,6,7]
+security units for cases linked to drug trafficking. [@1,4,5,6,10] Security forces also
+seized a significant quantity of cocaine and of cannabis. [@1,3,5,6,7,8,9,10] The suspect had
+intended to sell the drugs in discotheques in the region. [@1,4,5,6,7,11]
 
 The Direction générale de la sûreté nationale said investigations are continuing
 to identify and arrest the other members of the network and bring them before
