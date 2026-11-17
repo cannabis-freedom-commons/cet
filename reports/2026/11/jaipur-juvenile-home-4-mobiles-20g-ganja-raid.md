@@ -54,28 +54,26 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-17
     language: hi
-open_questions:
-  - No separate date for the search was stated; 16 November 2026, the date of the ETV Bharat report published that evening, is used as the incident date.
-  - No arrests, named suspects, charges against individuals or court outcome were reported; the case was at the stage of registration and investigation.
-  - It is not established how the phones and ganja entered the home; the role of guards and staff was described as suspicious and under verification.
-  - The ganja figure is 20 grams only, with no value estimate or laboratory confirmation reported.
-  - Both accounts rest on Jaipur police statements and are not clearly independent reporting.
+  - title: 'Jaipur Police Raid: Drugs and Mobiles Seized at Observation Home'
+    url: https://www.bhaskar.com/g/local/rajasthan/jaipur/news/jaipur-police-raid-bal-sampreshan-grih-ganja-mobile-seized-139711358.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-17
+    language: hi
 ---
 
 Jaipur police's Commissionerate Special Team searched the juvenile correction
 home in Sethi Colony in the Transport Nagar police station area. [@2] The action
 followed complaints about juveniles using mobile phones inside the home. [@1]
 Police said they had input that some juveniles in the home were in contact with
-major gangsters who were drawing minors into gangs. [@2]
+major gangsters who were drawing minors into gangs. [@2,3]
 
 Officers searching two rooms of the home found 20 grams of ganja along with four
-mobile phones and four charging adapters. [@2] About 50 CST personnel in teams
-searched every corner of the home after a confidential tip. [@1] Police were
+mobile phones and four charging adapters. [@2,3] About 50 CST personnel in teams
+searched every corner of the home after a confidential tip. [@1,3] Police were
 registering a case at Transport Nagar police station under provisions of the
-NDPS Act and the Juvenile Justice Act. [@1]
+NDPS Act and the Juvenile Justice Act. [@1,3]
 
 Police said they are investigating how the banned phones and drugs reached
 inside despite tight security and who is part of the network. [@1] The home
 houses juveniles accused in serious offences. [@1] Earlier escapes over the wall
 and fights among inmates at the home have been reported. [@1]
-
