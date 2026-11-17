@@ -64,6 +64,13 @@ sources:
     publisher: 055Firenze
     date: 2026-11-16
     language: it
+  - title: 'Droga, traffico stroncato fra Firenze e Prato: due arresti e sequestro di 110 chili di hashish e coca. Indagini scattate dopo auto in fuga'
+    url: https://www.firenzepost.it/2026/11/16/droga-traffico-stroncato-fra-firenze-e-prato-due-arresti-e-sequestro-di-110-chili-di-hashish-e-coca-indagini-scattate-dopo-auto-in-fuga/
+    publisher: Firenze Post
+    date: 2026-11-16
+    language: it
+open_questions:
+  - The headline total of 110 kg combines hashish and cocaine, while the detailed account separates 108 kg of hashish and 2 kg of cocaine; the cannabis figure remains 108 kg.
 ---
 
 In the early hours of Wednesday 11 November, Carabinieri of the Firenze Oltrarno
@@ -76,13 +83,13 @@ provinces from March to August. [@1,3,4]
 
 The investigation began when one suspect fled a Carabinieri stop in Florence by
 car, abandoned the vehicle in an isolated area of Sesto Fiorentino and continued
-on foot. [@1,3] Inside that car officers found two blocks of cocaine weighing two
+on foot. [@1,3,5] Inside that car officers found two blocks of cocaine weighing two
 kilograms in total, a non-cannabis seizure excluded from the cannabis figures.
 [@1,3,4] That man fled abroad but his fugitive period ended in July 2026, when he
 was traced and arrested in France under a European arrest warrant issued by the
 Florence judiciary. [@1,3] The second suspect had come under investigation in May
 after Guardia di Finanza officers arrested him while he held 108 kilograms of
-hashish. [@1,4]
+hashish. [@1,4,5]
 
 Although then placed under house arrest, he allegedly continued to buy and
 transfer large consignments of cocaine and hashish. [@1] Investigators also
@@ -94,7 +101,7 @@ claiming to be the arrested accomplice's girlfriend and willing to support him,
 in order to obtain house arrest for him. [@1]
 
 During searches officers seized from the woman more than 16,000 euros in cash,
-considered by investigators to be proceeds of the illegal activity. [@2,4] After
+considered by investigators to be proceeds of the illegal activity. [@2,4,5] After
 the formalities one of the men was taken to Prato prison, while the man captured
 in France, already held at Florence's Sollicciano prison, was served the new
-measure in prison. [@2,4]
+measure in prison. [@2,4,5]
