@@ -52,6 +52,11 @@ media:
     media_url: https://www.italpress.com/wp-content/uploads/2026/11/3107f751-f59d-41a1-bf97-1275f9f68e80.jpg
     publisher: Italpress
     caption: 'Carabinieri press-office photograph of the cannabis plantation and seizure at Marcedusa, published with Italpress''s report. Photo: Carabinieri press office.'
+  - kind: video
+    url: https://italien.news/chronik/drogen-razzia-in-catanzaro-carabinieri-entdecken-cannabis-plantage/
+    media_url: https://italien.news/wp-content/uploads/2026/11/carabinieri-cannabis-plantage-catanzaro-video.mp4
+    publisher: Italien.news
+    caption: Video published with the Italien.news account of the Carabinieri cannabis-plantation operation in Catanzaro province.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 85e7abbca9c4b270ebbe0063db688036
@@ -81,22 +86,28 @@ sources:
     publisher: NtaCalabria
     date: 2026-11-17
     language: it
+  - title: 'Drogen-Razzia in Catanzaro: Carabinieri entdecken Cannabis-Plantage'
+    url: https://italien.news/chronik/drogen-razzia-in-catanzaro-carabinieri-entdecken-cannabis-plantage/
+    publisher: Italien.news
+    date: 2026-11-17
+    language: de
 open_questions:
-  - The fuller accounts place the patrol on 9 October 2026 and the judge's validation of the arrests on 12 October 2026, but these reports were published on 17 November 2026; the reason for the delay is not given.
-  - The roughly 21 grams of marijuana found in the 21-year-old's car are a separate quantity and are not included in the 20 kg figure for the plantation.
-  - No court outcome beyond the pre-trial detention order was reported, and the case was described as still at the preliminary investigation stage.
-  - The 27 plants were described as 'fusti' about 2.5 metres tall; no laboratory confirmation of the seized plant material was reported.
-  - The weight was given as about 20 kilograms, not an exact measured figure, and no value estimate was published.
-  - All the opened accounts reproduce the Carabinieri press release rather than independent reporting.
+    - The fuller accounts place the patrol on 9 October 2026 and the judge's validation of the arrests on 12 October 2026, but these reports were published on 17 November 2026; the reason for the delay is not given.
+    - The roughly 21 grams of marijuana found in the 21-year-old's car are a separate quantity and are not included in the 20 kg figure for the plantation.
+    - No court outcome beyond the pre-trial detention order was reported, and the case was described as still at the preliminary investigation stage.
+    - The 27 plants were described as 'fusti' about 2.5 metres tall; no laboratory confirmation of the seized plant material was reported.
+    - The weight was given as about 20 kilograms, not an exact measured figure, and no value estimate was published.
+    - All the opened accounts reproduce the Carabinieri press release rather than independent reporting.
+    - 'Accounts differ on how many of the three detainees were caught in the act: one report says two of the three were arrested in flagrante for possession and dealing, while the Carabinieri release says all three were arrested in flagrante.'
 ---
 
 Carabinieri of the Sellia Marina company, supported by the Cacciatori 'Calabria'
 helicopter squadron, discovered a cannabis plantation hidden in dense vegetation
-in an impervious agricultural area of Marcedusa, in Catanzaro province. [@1] The
+in an impervious agricultural area of Marcedusa, in Catanzaro province. [@1,6] The
 operation was launched on 9 October 2026 during a territory patrol. [@4] Inside
 the plot officers surprised three people cutting and processing the plants. [@1]
 The three suspects were arrested in flagrante and taken to Catanzaro prison.
-[@1] The investigating judge validated the arrests on 12 October 2026 and
+[@1,6] The investigation and the operation were carried out by the Carabinieri together with the public prosecutor's office at the court of Catanzaro. [@6] The investigating judge validated the arrests on 12 October 2026 and
 ordered pre-trial detention in prison. [@2] A 21-year-old was reported at
 liberty to the Catanzaro prosecutor for possession of narcotics for trafficking
 after about 21 grams of marijuana and a precision scale were found in his car.
@@ -115,4 +126,3 @@ resembling a 'pen pistol', which was to undergo ballistic tests. [@1] More than
 dismantled and the plants, the drug material and the cultivation and drying
 equipment were seized. [@1] The case remained at the preliminary investigation
 stage. [@3]
-
