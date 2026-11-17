@@ -140,17 +140,24 @@ sources:
     publisher: 7 инфо
     date: 2026-10-14
     language: ru
+  - title: Рэпера Navai задержали на границе Казахстана по подозрению в попытке контрабанды наркотиков
+    url: https://zona.media/news/2026/10/14/navai
+    publisher: Медиазона
+    date: 2026-10-14
+    language: ru
 media:
   - kind: photo
     url: https://news.ru/culture/navai-arestovali-po-delu-o-kontrabande-narkotikov-v-kazahstane
     media_url: https://images.news.ru/2026/10/14/KdrW0hWfjBs0G4p8FWQe8w5hbMI5lYoQ9he9bFDe_780.jpg
     publisher: NEWS.ru
     caption: 'Portrait of the rapper Navai published with the report of his arrest in Kazakhstan. Photo: Pavel Kashaev/Global Look Press'
+open_questions:
+  - The reported amount of marijuana differs between accounts, with both 2.5 g and 10 g reported.
 ---
 
 Police and border guards detained the Russian rapper Navai, real name Navai Bakirov, at the Korday
 checkpoint as he entered Kazakhstan by car from Kyrgyzstan on 13 October 2026.
-[@1,3,4,5,7,9,10,11,12,15,17,21] His manager and driver were with him. [@2,3,4,8,16,20] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20] A service dog named
+[@1,3,4,5,7,9,10,11,12,15,17,21,22] His manager and driver were with him. [@2,3,4,8,16,20] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20,22] A service dog named
 Atlas reacted to the car, and officers found a narcotic substance in the pocket of the driver's seat
 [@1,3,4,6,7,9,11,13,18,21], along with a bag with rolling papers and a grinder. [@2,4,18] Journalist Mikhail
 Kozachkov wrote that it was 2.5 g of marijuana [@7,10,11,15,18,19]; Baza, citing checkpoint staff, claimed 10
