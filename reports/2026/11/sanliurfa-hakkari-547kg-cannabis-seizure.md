@@ -90,6 +90,11 @@ sources:
     publisher: Olay Gazetesi Bursa
     date: 2026-11-16
     language: tr
+  - title: الدرك يطيح بـ566 كيلوغراماً من المخدرات في شانلي أورفا وهكاري
+    url: https://newturkpost.com/news/136140-%D8%A7%D9%84%D8%AF%D8%B1%D9%83-%D9%8A%D8%B7%D9%8A%D8%AD-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B4%D8%A7%D9%86%D9%84%D9%8A-%D8%A3%D9%88%D8%B1%D9%81%D8%A7-%D9%88%D9%87%D9%83%D8%A7%D8%B1%D9%8A
+    publisher: وكالة نيو ترك بوست الاخبارية
+    date: 2026-11-16
+    language: ar
 open_questions:
   - Different accounts give the methamphetamine portion as 9 kg or 19 kg, while agreeing on 566 kg in total with 370 kg of skunk and 177 kg of esrar.
 media:
@@ -102,17 +107,17 @@ media:
 
 Gendarmerie forces carried out narcotics operations in Şanlıurfa and Hakkari
 provinces, and a statement from the Interior Ministry said a total of 566
-kilograms of drugs was seized in those operations. [@1,2,3,4,5,6,9,10,11,12] The operations were
+kilograms of drugs was seized in those operations. [@1,2,3,4,5,6,9,10,11,12,13] The operations were
 coordinated by the Gendarmerie General Command's department for combating
 narcotics crime, working in cooperation with the Siverek and Yüksekova chief
-public prosecutor's offices. [@1,2,4,5,7,8,9,10,11,12] The provincial gendarmerie teams carried out the operations after intelligence work. [@5] Teams from the Şanlıurfa and Hakkari
+public prosecutor's offices. [@1,2,4,5,7,8,9,10,11,12] The provincial gendarmerie teams carried out the operations after intelligence work. [@5,13] Teams from the Şanlıurfa and Hakkari
 provincial gendarmerie commands conducted the operations against people
 manufacturing narcotics, achieving what the report describes as a significant
 success. [@1,2]
 
 Officers seized a total of 370 kilograms of skunk, 177 kilograms of esrar and 19
 kilograms of methamphetamine, together with an unspecified quantity of materials
-used to make other drugs. [@1,2,3,4,5,7,8,9,10,11,12] The skunk and esrar form the cannabis portion of
+used to make other drugs. [@1,2,3,4,5,7,8,9,10,11,12,13] The skunk and esrar form the cannabis portion of
 the seizure, while the methamphetamine is a separate non-cannabis drug that is
 not counted in the cannabis total. [@1]
 
