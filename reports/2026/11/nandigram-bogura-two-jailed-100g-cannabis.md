@@ -46,21 +46,24 @@ sources:
     url: https://www.thesouthasiantimesbd.com/nationwide/news/27536
     publisher: The South Asian Times
     date: 2026-11-16
+  - title: মাদকবিরোধী অভিযানে নন্দীগ্রামে ইয়াবা, হেরোইন ও গাঁজাসহ আটক ২
+    url: https://northcapitalnews.com/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%80
+    publisher: North Capital News
+    date: 2026-11-16
+    language: bn
 open_questions:
-  - The report does not say which of the two men received the 100-taka fine and which received the 200-taka fine, so no single fine figure is recorded.
-  - The 10 yaba tablets and 1 gram of heroin seized in the same drive are excluded from the cannabis weight.
-  - The cannabis was described as recovered from the accused with no laboratory confirmation reported.
-  - The account rests on a single opened report citing the DNC operational team; no second outlet was found.
-  - No disposal of the seized drugs or later court outcome beyond the mobile-court sentences was reported.
+    - The report does not say which of the two men received the 100-taka fine and which received the 200-taka fine, so no single fine figure is recorded.
+    - The 10 yaba tablets and 1 gram of heroin seized in the same drive are excluded from the cannabis weight.
+    - The cannabis was described as recovered from the accused with no laboratory confirmation reported.
+    - No later court outcome beyond the mobile-court sentences was reported.
 ---
 
 An operational team from DNC Bogura 'B' Circle, led by Nandigram upazila nirbahi
 officer and executive magistrate M. Abdullah Ibne Masud Ahmed, conducted a
 mobile court drive in Nandigram upazila on 16 November 2026. [@1] Officers
 arrested Md. Arif Billah (24) and Md. Alam (50), both residents of Omarpur
-village in Nandigram, during the drive. [@1]
+village in Nandigram, during the drive. [@1,2]
 
 Officers seized 100 grams of cannabis, 10 pieces of yaba tablets and 1 gram of
-heroin from the two men. [@1] A mobile court sentenced both men to 3 months of
-rigorous imprisonment, fining one 100 taka and the other 200 taka. [@1]
-
+heroin from the two men. [@1,2] A mobile court sentenced both men to 3 months of
+rigorous imprisonment, fining one 100 taka and the other 200 taka. [@1,2] The seized drugs were destroyed on the spot in the presence of the magistrate. [@2]
