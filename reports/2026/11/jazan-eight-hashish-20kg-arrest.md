@@ -58,6 +58,11 @@ sources:
     publisher: الاستاد الاخباري
     date: 2026-11-17
     language: ar
+  - title: مكافحة المخدرات تضبط (59) كيلوجرامًا من الحشيش في الرياض وجازان
+    url: https://www.sra7h.com/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B6%D8%A8%D8%B7-59-%D9%83%D9%8A%D9%84%D9%88%D8%AC%D8%B1%D8%A7%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%A7/
+    publisher: صحيفة صراحة الالكترونية
+    date: 2026-11-17
+    language: ar
 open_questions:
     - The directorate's post gives eight people arrested while Ajel and Sabq reported five; the report uses the official figure of eight.
     - The outlets' description of the group, Ethiopian border-security violators, Yemeni residents and a citizen, does not add up to eight and no breakdown of the eight was published.
@@ -74,14 +79,14 @@ people in Jazan region and accused them of promoting 20 kilograms of hashish.
 [@1] The directorate announced the arrests in a post on its X account on 17
 November 2026. [@1] Ajel reported five arrests in Jazan region, describing the
 suspects as Ethiopian violators of the border security law, Yemeni residents and
-a Saudi citizen. [@2,4]
+a Saudi citizen. [@2,4,5]
 
 The directorate said the suspects were stopped, legal procedures were taken
-against them and they were referred to the Public Prosecution. [@2] Sabq
+against them and they were referred to the Public Prosecution. [@2,5] Sabq
 reported that five people were stopped, legal procedures were taken against them
 and they were referred to the Public Prosecution. [@3]
 
 The directorate asked the public to report drug smugglers and promoters on 995,
 on 911 in Mecca, Medina, Riyadh and the Eastern Province and on 999 in the rest
-of the kingdom. [@2] Reports can also be sent by email to 995@gdnc.gov.sa, the
-directorate said. [@2]
+of the kingdom. [@2,5] Reports can also be sent by email to 995@gdnc.gov.sa, the
+directorate said. [@2,5]
