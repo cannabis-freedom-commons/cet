@@ -48,6 +48,11 @@ media:
     media_url: https://pxcdn.reduno.com.bo/reduno/112026/1794866983287.webp?cw=800&ch=450&extw=jpg
     publisher: Red Uno
     caption: The pickup truck in which the drugs were transported.
+  - kind: photo
+    url: https://correodelsur.com/seguridad/20261116/detienen-a-boliviano-en-chile-con-casi-media-tonelada-de-droga-tras-persecucion.html
+    media_url: https://cdn.correodelsur.com/img/contents/images_980/2026/11/16/65285ecc-668c-4af5-bbf0-e00c3198ccd2.jpg
+    publisher: Correo del Sur
+    caption: 'The detained Bolivian man. Photo: Carabineros'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b85b8a5fc153c991c89a1eba10ecf52e
@@ -88,6 +93,11 @@ sources:
     publisher: Unitel
     date: 2026-11-16
     language: es
+  - title: Detienen a boliviano en Chile con casi media tonelada de droga tras persecución
+    url: https://correodelsur.com/seguridad/20261116/detienen-a-boliviano-en-chile-con-casi-media-tonelada-de-droga-tras-persecucion.html
+    publisher: Correo del Sur
+    date: 2026-11-16
+    language: es
 open_questions:
   - The marijuana amount is given as 395 kilos in one account and 395 kilos 100 grams in another, and the coca paste as 45 kilos and 45 kilos 100 grams; the report retains the precise figures.
   - One account labels the chase zone as Atacama while the detailed location is the Barrancanes sector near Reten Inacaliri in Antofagasta; the Antofagasta location is retained.
@@ -101,18 +111,18 @@ sector near the Inacaliri border post after it entered through an unauthorized
 crossing, and the driver disobeyed an order to stop and fled. [@3,5,6,7] Officers
 pursued the truck in a controlled follow of about 50 kilometres and intercepted
 it as it tried to return to Bolivia, after the driver also tried to continue
-fleeing on foot but was caught. [@2,5,6,7]
+fleeing on foot but was caught. [@2,5,6,7,8]
 
 Inspecting the cab and cargo area, officers found packages holding 395 kilos 100
 grams of processed marijuana, 45 kilos 100 grams of coca paste and 19 kilos 800
-grams of cocaine hydrochloride. [@1,5,6,7] Officers also seized 171 bottles of liquid
+grams of cocaine hydrochloride. [@1,5,6,7,8] Officers also seized 171 bottles of liquid
 ketamine with a reported gross weight of 34.5 kilos, plus the pickup truck and
 other items of investigative interest. [@1,5,6,7]
 
-The detained driver was a 31-year-old Bolivian citizen. [@1,5,6,7] The Calama
+The detained driver was a 31-year-old Bolivian citizen. [@1,5,6,7,8] The Calama
 prosecutor's office formally charged him with illicit drug trafficking. [@2,6] The accused was formalized on Sunday before the Calama Guarantee Court for illicit drug trafficking under article 3 of Law 20,000. [@5] A
 court ordered preventive prison on grounds that his freedom endangered public
 safety and set a 120-day investigation period to establish who sent, financed
-and was to receive the load. [@1,5,6] The prosecution said the combined load
+and was to receive the load. [@1,5,6,8] The prosecution said the combined load
 amounted to about 1.2 million doses and described the mix of four substances in
 one truck as a catalogue rather than a single product. [@4,5,7]
