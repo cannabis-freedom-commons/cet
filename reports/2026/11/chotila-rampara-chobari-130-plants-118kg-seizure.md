@@ -73,6 +73,11 @@ sources:
     url: https://timesofindia.indiatimes.com/city/rajkot/farmer-caught-growing-cannabis-near-chotila/articleshow/135899740.cms
     publisher: The Times of India
     date: 2026-11-16
+  - title: રામપરાની વાડીમાંથી ૫૬ લાખનો ૧૧૮ કિલો લીલો ગાંજો ઝડપાયો
+    url: https://akilanews.com/saurashtra-news-detail/118-kg-green-ganja-worth-rs-56-lakh-seized-ramparas-farm
+    publisher: Akila News
+    date: 2026-11-16
+    language: gu
 media:
   - kind: photo
     url: https://www.etvbharat.com/gu/state/a-marijuana-farm-was-seized-from-rampara-village-in-chotila-taluka-of-surendranagar-district-gjs26111603420
@@ -93,15 +98,15 @@ media:
 
 A Rajkot A.N.T.F. CID Crime team raided a farm on the outskirts of Rampara
 Chobari village in Chotila, Surendranagar, where illegal ganja cultivation had
-been detected. [@1,2,4,5,6] The operation uncovered illegal ganja cultivation in the
+been detected. [@1,2,4,5,6,7] The operation uncovered illegal ganja cultivation in the
 Chotila area of Surendranagar district, where a large quantity of green plants
 was found in a single farm. [@1] Officers seized 130 green ganja plants, the
-local name for cannabis, from the farm during the search. [@1,3,4,5,6] Police recorded
-the total weight of the 130 seized plants as 118 kilograms. [@1,3,4,5,6]
+local name for cannabis, from the farm during the search. [@1,3,4,5,6,7] Police recorded
+the total weight of the 130 seized plants as 118 kilograms. [@1,3,4,5,6,7]
 
 Police estimated the value of the 118 kilograms of seized ganja at Rs 5.9
-million, reported as Rs 59 lakh. [@1,2,4,5,6] The seized consignment was found in the
-farm belonging to Bharatbhai Bavaliya. [@1,4] The case was presented as action
+million, reported as Rs 59 lakh. [@1,2,4,5,6,7] The seized consignment was found in the
+farm belonging to Bharatbhai Bavaliya. [@1,4,7] The case was presented as action
 against the owner of the farm where the plants were found. [@1] The accused, Bharat Mavjibhai Bawaliya, was reported to be absconding, with police checking his mobile location and other contacts to arrest him. [@2] Police
 registered a case under the Narcotic Drugs and Psychotropic Substances Act at
 Anandpur police station in connection with the farm seizure. [@1,2,4,6] Authorities took samples from the site for forensic examination. [@6] The ganja plants had been grown hidden among another crop so that no one would suspect them. [@2] The illegal cannabis plants of varying sizes had been grown alongside a pigeon pea crop to conceal them. [@6] The case cited NDPS Act sections 8(b), 8(c), 20(a)(1) and 20(b)(2)(c) against farm owner Bharat Mavjibhai Bawaliya, with Rajkot Zone ANTF Police Inspector J.J. Chauhan named as the complainant. [@3]
