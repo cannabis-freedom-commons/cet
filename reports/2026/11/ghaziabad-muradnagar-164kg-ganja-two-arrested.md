@@ -77,30 +77,29 @@ sources:
     publisher: News18 हिंदी
     date: 2026-11-17
     language: hi
-open_questions:
-    - The 164 kg weight and Rs 80 lakh value remain approximate police estimates, with no laboratory confirmation reported.
-    - The Amar Ujala and Jagran accounts both appear to draw on the police version of the operation, so they are not fully independent reporting.
-    - Whether the two were remanded, charged in court or released after the NDPS case registration was not reported.
-    - Jagran says police formed a team to act against others named in questioning, but no specific action against the conduit Arvind alias Bhura, the container owner Yogendra or the Odisha and Visakhapatnam suppliers was reported.
-    - Jagran calls the vehicle an Ashirwad company container and places Keshav Kunj Colony on Nivadi road, while the earlier account called it an Eicher canter and placed the colony in Modinagar; whether these describe the same vehicle and place is not stated.
+  - title: शराब में मुनाफा घटा तो गांजे की तस्करी में उतरे दो पुराने साथी, 80 लाख का माल पकड़ा गया, गाजियाबाद पुलिस का एक्शन
+    url: https://navbharattimes.indiatimes.com/state/uttar-pradesh/mathura/ghaziabad-rs-80-lakhs-ganja-smuggling-network-busted-two-arrested/articleshow/135923536.cms
+    publisher: Navbharat Times
+    date: 2026-11-17
+    language: hi
 ---
 
 Ghaziabad crime branch and Muradnagar police arrested two alleged ganja
 smugglers during a check on the night of 16 November 2026 under Operation
-Prahar. [@1,2,3,4] Acting on an informer's tip, officers stopped an Eicher canter at
-about 11 pm on the road from Kakda Pulia toward the Sonda Pul canal. [@1,2,3] Police
+Prahar. [@1,2,3,4,5] Acting on an informer's tip, officers stopped an Eicher canter at
+about 11 pm on the road from Kakda Pulia toward the Sonda Pul canal. [@1,2,3,5] Police
 identified the two as Praveen Tyagi of Bhaneda, now living in Keshav Kunj
-Colony, Modinagar, and Arun Sharma of Jatauli, Kankarkheda, Meerut. [@1,2,3]
+Colony, Modinagar, and Arun Sharma of Jatauli, Kankarkheda, Meerut. [@1,2,3,5] Police gave Praveen Tyagi's age as 53 and Arun Sharma's as 52. [@5]
 
 Officers seized about 164 kg of illegal ganja from their possession along with
-the Eicher canter used for smuggling. [@1,2,3,4] Police estimated the seized ganja's
-value at about Rs 80 lakh. [@1,2,3,4] A case was registered against them at Muradnagar
-police station under the NDPS Act and further legal action was under way. [@1] Police said Praveen Tyagi already had Excise Act and NDPS Act cases registered against him, while Arun Sharma had Excise Act and fraud cases at Kankar Kheda police station in Meerut. [@3]
+the Eicher canter used for smuggling. [@1,2,3,4,5] Police estimated the seized ganja's
+value at about Rs 80 lakh. [@1,2,3,4,5] A case was registered against them at Muradnagar
+police station under the NDPS Act and further legal action was under way. [@1,5] Police said Praveen Tyagi already had Excise Act and NDPS Act cases registered against him, while Arun Sharma had Excise Act and fraud cases at Kankar Kheda police station in Meerut. [@3]
 
 Questioning found Arun runs a grocery shop in Jatauli, where he met Praveen
-about 25 years ago, and that both had smuggled illicit liquor since 2017. [@1,3]
+about 25 years ago, and that both had smuggled illicit liquor since 2017. [@1,3,5] Police said the two sold the smuggled liquor at high prices in Ghaziabad, Meerut and Haridwar, among other places. [@5]
 After liquor smuggling brought little profit, the pair had smuggled ganja for
 eight months through Arvind alias Bhura, dealing with local smugglers in Odisha
-and Visakhapatnam to supply NCR and western Uttar Pradesh. [@1,2,4] About 100 kg of ganja passed through the network in the month before the arrest, and police formed a team to act against others named in questioning. [@2,4] Police said the trade brought about Rs 3,000 in profit per kilogram of ganja. [@2] Praveen had
+and Visakhapatnam to supply NCR and western Uttar Pradesh. [@1,2,4,5] Police said the ganja was brought hidden among other goods along different routes. [@5] About 100 kg of ganja passed through the network in the month before the arrest, and police formed a team to act against others named in questioning. [@2,4,5] Police said the trade brought about Rs 3,000 in profit per kilogram of ganja. [@2] Praveen had
 bought the Eicher canter in his friend Yogendra's name with both paying its
-instalments, and the pair used an app to talk to each other. [@1] The two talked to each other on the Zangi app and used false names to conceal their identity. [@2,4]
+instalments, and the pair used an app to talk to each other. [@1,5] Police said the Eicher canter had been used to move ganja for the past six months. [@5] The two talked to each other on the Zangi app and used false names to conceal their identity. [@2,4,5]
