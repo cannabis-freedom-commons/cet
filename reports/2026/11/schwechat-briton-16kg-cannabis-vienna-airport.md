@@ -72,15 +72,20 @@ sources:
     publisher: 5min.at
     date: 2026-11-16
     language: de
+  - title: Koffer voller Drogen – 16 Kilo Cannabis! Polizei schnappt Mann am Flughafen | Heute.at
+    url: https://www.heute.at/s/16-kilo-cannabis-polizei-schnappt-mann-am-flughafen-120282435
+    publisher: Heute
+    date: 2026-11-16
+    language: de
 ---
 
 Police detained a 23-year-old British man at Vienna Airport in Schwechat after
 cannabis was found in his suitcase during weekend checks of transit baggage.
-[@1,2,3,4,6,7] Criminal investigators from the Schwechat city police command checked transit baggage from a Bangkok flight at Vienna Airport on 14 November 2026. [@4] He was taken to Korneuburg prison after denying an allegation of drug
-trafficking. [@1,2,3,5,6,7]
+[@1,2,3,4,6,7,8] Criminal investigators from the Schwechat city police command checked transit baggage from a Bangkok flight at Vienna Airport on 14 November 2026. [@4] He was taken to Korneuburg prison after denying an allegation of drug
+trafficking. [@1,2,3,5,6,7,8]
 
-The seizure totalled 16 kilograms of cannabis. [@1,2,5,6,7] The cannabis was packed in
-16 airtight packages. [@1,2,3,5,6,7]
+The seizure totalled 16 kilograms of cannabis. [@1,2,5,6,7,8] The cannabis was packed in
+16 airtight packages. [@1,2,3,5,6,7,8]
 
-The man had been travelling from Bangkok in Thailand to London. [@1,2,3,5,6,7] Police
+The man had been travelling from Bangkok in Thailand to London. [@1,2,3,5,6,7,8] Police
 announced the case on Monday in a dispatch. [@1,2,3]
