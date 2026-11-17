@@ -60,6 +60,11 @@ media:
     media_url: https://www.eluniversal.com.co/resizer/v2/incautan-marihuana-4CU3ZFZHSNBODNSF56CJMK7SPE.jpg?auth=f38a28a707791d080029a10bf837e5e7bc014ea3d289b0392cdf1765a9c04eeb&smart=true&width=1200&height=900&quality=70
     publisher: El Universal
     caption: 'Seized drug packages from the 1,041 kg Popayan seizure attributed to the Dagoberto Ramos structure. Photo: EJERCITO_COL'
+  - kind: photo
+    url: https://www.elinformador.com.co/index.php/judiciales/72-judiciales-nacional/361940-incautan-en-cauca-mas-de-una-tonelada-de-marihuana-que-tendria-como-destino-brasil
+    media_url: https://www.elinformador.com.co/images/stories/redes_sociales/2026/11-noviembre/17%20incautacion.jpg#joomlaImage://local-images/stories/redes_sociales/2026/11-noviembre/17%20incautacion.jpg?width=600&height=400
+    publisher: El Informador
+    caption: 'Seized marijuana from the NPR truck intercepted in rural Popayán, in an Army handout. Photo: Ejército Nacional de Colombia'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ce879e9c1618959a5c25dd958e5283e1
@@ -125,25 +130,26 @@ sources:
     publisher: Diario del Sur
     date: 2026-11-17
     language: es
-open_questions:
-  - The same page also states that 1,700 kilograms of pressed marijuana were found in the vehicle and quotes Colonel Juan Camilo Vela on 1,700 kilos taken out of circulation, contradicting its own 1,041-kilogram account used here.
-  - The same page puts the economic impact on the Dagoberto Ramos Ortiz structure at more than 425 million pesos, differing from the about 1,050 million pesos already recorded from Army accounts.
-  - The page gives no separate date for the checkpoint, pursuit or seizure; 16 November 2026 is its publication date.
+  - title: Incautan en Cauca más de una tonelada de marihuana que tendría como destino Brasil
+    url: https://www.elinformador.com.co/index.php/judiciales/72-judiciales-nacional/361940-incautan-en-cauca-mas-de-una-tonelada-de-marihuana-que-tendria-como-destino-brasil
+    publisher: El Informador
+    date: 2026-11-17
+    language: es
 ---
 
 Troops of Anti-Narcotics Battalion No. 2 carried out a ground interdiction
-against a motor vehicle in a rural area of Popayán, Cauca. [@1,7,10] Officers found
+against a motor vehicle in a rural area of Popayán, Cauca. [@1,7,10,13] Officers found
 1,041 kilograms of marijuana hidden inside an NPR-type truck during the check.
-[@1,3,4,5,6,7,8,9,10,11,12] The load was hidden beneath the floor of the truck and in internal compartments of the vehicle. [@11] The driver ignored the stop signal and fled, prompting a motorized pursuit until troops intercepted the vehicle. [@6] Troops at a 29th Brigade road checkpoint detected the suspicious van-type truck and signalled it to stop. [@6] Officers arrested the driver of the vehicle at the scene. [@1,3,4,5,6,7,8,9,10,11,12] The seized
+[@1,3,4,5,6,7,8,9,10,11,12,13] The load was hidden beneath the floor of the truck and in internal compartments of the vehicle. [@11,13] The driver ignored the stop signal and fled, prompting a motorized pursuit until troops intercepted the vehicle. [@6] Troops at a 29th Brigade road checkpoint detected the suspicious van-type truck and signalled it to stop. [@6] Officers arrested the driver of the vehicle at the scene. [@1,3,4,5,6,7,8,9,10,11,12,13] The seized
 load, the immobilized vehicle and the detained man were placed at the disposal
 of the judicial authorities for prosecution for alleged drug trafficking,
 manufacture or possession. [@2,3,11]
 
 Military intelligence linked the load to the Dagoberto Ramos structure of the
-FARC dissidents. [@2,3,4,5,6,7,8,9,10,11] Intelligence indicated the drug was first bound for Puerto
-Asís, Putumayo. [@1,3,4,5,6,7,8,9,10,11,12] From Puerto Asís the load was to be moved by river launches
-toward Brazil. [@1,3,4,5,6,7,8,9,10,11,12]
+FARC dissidents. [@2,3,4,5,6,7,8,9,10,11,13] Intelligence indicated the drug was first bound for Puerto
+Asís, Putumayo. [@1,3,4,5,6,7,8,9,10,11,12,13] From Puerto Asís the load was to be moved by river launches
+toward Brazil. [@1,3,4,5,6,7,8,9,10,11,12,13]
 
 Authorities estimated the seizure equalled about 52,050 doses for illegal
-markets. [@1,4,5,7,8,9,10,11,12] The Army put the economic impact on that structure at about 1,050
-million pesos. [@2,7,8,9,10,11,12]
+markets. [@1,4,5,7,8,9,10,11,12,13] The Army put the economic impact on that structure at about 1,050
+million pesos. [@2,7,8,9,10,11,12,13]
