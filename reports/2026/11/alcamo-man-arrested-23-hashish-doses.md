@@ -78,6 +78,11 @@ sources:
     publisher: Amica News
     date: 2026-11-16
     language: it
+  - title: Spaccio di hashish ad Alcamo, arrestato un uomo
+    url: https://risoluto.it/alcamo/spaccio-hashish-alcamo-arrestato-uomo
+    publisher: Risoluto
+    date: 2026-11-16
+    language: it
 media:
   - kind: video
     url: https://www.vrsicilia.it/alcamo-trovato-con-23-dosi-di-hashish-arrestato-un-uomo-video/
@@ -94,14 +99,14 @@ open_questions:
 ---
 
 Guardia di Finanza officers in Alcamo arrested a man found with 23 individually
-wrapped doses of hashish believed intended for sale. [@1,2,3,4,5,6,7,8,9] The operation was
+wrapped doses of hashish believed intended for sale. [@1,2,3,4,5,6,7,8,9,10] The operation was
 carried out by the Alcamo Company of the Guardia di Finanza as part of
 territorial checks against drug dealing and street crime in sensitive city
 areas. [@1,4,9] After the arrest in flagrante, the preliminary investigations judge
-placed him under a precautionary measure whose type was not specified. [@1,3,4,7,8,9]
+placed him under a precautionary measure whose type was not specified. [@1,3,4,7,8,9,10]
 
 Officers stopped the man during a patrol around Piazza della Repubblica after he
-appeared nervous on seeing them and tried to walk away. [@1,2,3,4,5,6,7,8,9] The street check
+appeared nervous on seeing them and tried to walk away. [@1,2,3,4,5,6,7,8,9,10] The street check
 recovered five individually packaged doses of hashish said to be ready for the
 dealing market. [@1,2,3,4,5,6,7,8,9] A subsequent search of his home found another 18 doses of
 the same substance, also in single packages. [@1,2,3,4,5,6,7,8,9]
