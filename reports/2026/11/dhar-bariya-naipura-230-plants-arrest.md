@@ -54,6 +54,11 @@ media:
     media_url: https://www.krishakjagat.org/wp-content/uploads/2026/11/MP-5.jpg.webp
     publisher: Krishak Jagat
     caption: Cannabis plants seized in the Dhar field operation.
+  - kind: photo
+    url: https://www.bhaskarhindi.com/city/bhopal/cannabis-plants-discovered-amidst-cotton-and-pigeon-pea-tur-crops-valued-at-rs-174-crore-one-accused-arrested-1392856
+    media_url: https://www.bhaskarhindi.com/h-upload/2026/11/16/1560419-capture.webp
+    publisher: Bhaskar Hindi
+    caption: 'Cannabis plants found among cotton and pigeon pea crops in the Dhar field operation. Photo: Bhaskar Hindi'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: edf9634ce37d27d1e9d43f81abc11023
@@ -89,21 +94,26 @@ sources:
     publisher: Haribhoomi
     date: 2026-11-16
     language: hi
+  - title: 'MP News: कपास और तुअर की फसल के बीच मिले गांजे के पौधे, 1 करोड़ 74 लाख रुपये कीमत, एक आरोपी गिरफ्तार | Cannabis plants discovered amidst cotton and pigeon pea (tur) crops; valued at Rs 1.74 crore; one accused arrested.'
+    url: https://www.bhaskarhindi.com/city/bhopal/cannabis-plants-discovered-amidst-cotton-and-pigeon-pea-tur-crops-valued-at-rs-174-crore-one-accused-arrested-1392856
+    publisher: Bhaskar Hindi
+    date: 2026-11-16
+    language: hi
 ---
 
 Dhar police raided a field in Bariya Naipura village in the Manawar
 police-station area after an informant told Umarban outpost police that cannabis
-was being illegally cultivated there. [@1,2,3,4,5,6] Umarban outpost police received the informant tip on 13 November. [@3] Officers searched the field and found
+was being illegally cultivated there. [@1,2,3,4,5,6,7] Umarban outpost police received the informant tip on 13 November. [@3] Officers searched the field and found
 230 live cannabis plants growing mixed between cotton and tuar (pigeon pea)
-crops, which they formally seized. [@1,2,3,4,5,6] Police arrested the field owner,
-36-year-old Dinesh Muvel of Badiya village, at the scene. [@1,2,5]
+crops, which they formally seized. [@1,2,3,4,5,6,7] Police arrested the field owner,
+36-year-old Dinesh Muvel of Badiya village, at the scene. [@1,2,5,7]
 
-The seized plants weighed 698 kg in total, reported as 6 quintals 98 kg. [@1,2,3,4,5,6]
+The seized plants weighed 698 kg in total, reported as 6 quintals 98 kg. [@1,2,3,4,5,6,7]
 Police estimated their value at 17,450,000 rupees, reported as 1 crore 74 lakh
-50 thousand rupees. [@1,2,3,4,5,6]
+50 thousand rupees. [@1,2,3,4,5,6,7]
 
 The action was carried out under Operation Prahar by Manawar and Umarban police
 under the direction of Dhar superintendent of police Sachin Sharma, as briefed
 by police headquarters on Sunday. [@1,5] Police registered a case against the
 accused under the NDPS Act and said further legal proceedings were under way.
-[@1,2,3,4,5]
+[@1,2,3,4,5,7]
