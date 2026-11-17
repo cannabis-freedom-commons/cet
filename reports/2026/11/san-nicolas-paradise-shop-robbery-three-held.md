@@ -46,6 +46,11 @@ sources:
     publisher: POSTA
     date: 2026-11-16
     language: es
+  - title: Caen 3 en camioneta robada con surtido de cannabis
+    url: https://www.elnorte.com/caen-3-en-camioneta-robada-con-surtido-de-cannabis/ar3315698
+    publisher: EL NORTE
+    date: 2026-11-16
+    language: es
 open_questions:
     - The early-morning incident is dated 16 November 2026 from the publication date, with no separate calendar date stated.
     - No weight was published for the recovered cannabis, only item counts, so no kilogram figure is given.
@@ -60,12 +65,17 @@ media:
     media_url: https://blob.posta.com.mx/images/2026/11/16/roban-negocio-de-cannabis-en-san-nicolas-y-detienen-a-tres-jovenes-b6fd9f29-focus-0-0-1479-828.webp
     publisher: POSTA
     caption: 'Three alleged thieves after robbing merchandise from the Paradise store. Photo: Seguridad Pública de San Nicolás'
+  - kind: photo
+    url: https://www.elnorte.com/caen-3-en-camioneta-robada-con-surtido-de-cannabis/ar3315698
+    media_url: https://iphonegr.elnorte.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/323/6322640.jpg&imagencompleta=1
+    publisher: EL NORTE
+    caption: 'The three detained youths identified by San Nicolas municipal police. Photo: Especial via EL NORTE'
 ---
 
 Municipal police in San Nicolás de los Garza detained three youths, including a
 15-year-old, after allegedly catching them robbing merchandise from a shop
-selling cannabis products. [@1,2] Police identified one of the adults as Jorge
-Jahir, 20. [@1,2] Police identified the other adult as Daniel Alberto, 18. [@1]
+selling cannabis products. [@1,2,3] Police identified one of the adults as Jorge
+Jahir, 20. [@1,2,3] Police identified the other adult as Daniel Alberto, 18. [@1,3]
 The third detainee is a 15-year-old whose identity was withheld because he is a
 minor. [@1] Police said all three are originally from Monterrey. [@1]
 
