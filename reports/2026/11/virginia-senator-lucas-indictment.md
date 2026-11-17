@@ -88,11 +88,11 @@ sources:
     url: https://www.wtvr.com/news/local-news/lucas-pleads-not-guilty-virginia-recreational-marijuana-market-nov-16-2026
     publisher: CBS 6 News Richmond WTVR
     date: 2026-11-16
-open_questions:
-    - No cannabis weight, plant count, field area or value has been published for the enterprise.
-    - Lucas pleaded not guilty on 16 November 2026; the pleas or outcomes for the two defendants due for arraignment on 12 November 2026 remain unreported.
-    - No separate date is given for the judge's complexity ruling; 11 November 2026 is the publication date of the account describing it.
-    - No ruling on the defence motion seeking sanctions over officials' pretrial publicity was reported.
+  - title: Cargos federales contra Virginia Lucas por lavado de dinero - Diario Libre
+    url: https://www.diariolibre.com/usa/actualidad/2026/11/16/cargos-federales-contra-virginia-lucas-por-lavado-de-dinero/3722602
+    publisher: Diario Libre
+    date: 2026-11-16
+    language: es
 media:
   - kind: photo
     url: https://apnews.com/article/l-louise-lucas-virginia-corruption-investigation-767ed83f970ba6dec48048dcff2a28d0
@@ -110,7 +110,7 @@ Federal prosecutors unsealed an eight-count indictment on 22 October 2026 chargi
 Senator L. Louise Lucas, 82, and six other people with a marijuana distribution and money-laundering
 enterprise. [@1,2,3,4,6] Lucas, the Senate president pro tempore, faces five counts: racketeering
 conspiracy, conspiracy to distribute marijuana, money-laundering conspiracy, honest-services fraud
-conspiracy and maintaining a drug-involved premises. [@1,2,5,6]
+conspiracy and maintaining a drug-involved premises. [@1,2,5,6,14]
 
 Prosecutors say Lucas and her associates ran an illegal marijuana operation from around 2019
 through 2026, using her office to pursue licences and routing payments through businesses including
@@ -118,13 +118,13 @@ Lucas Lodge, Lucas Hospitality and The Cannabis Outlet in Portsmouth. [@1,2] Two
 Lucas Burke and Theresa Lucas-Lamb, and grandson Ryan Eichelberger are among the co-defendants,
 accused of obtaining, managing or selling marijuana through the family businesses. [@1,2,4,5,6]
 
-The charges follow an FBI search of Lucas's legislative office six months earlier. [@1,6] Attorney
+The charges follow an FBI search of Lucas's legislative office six months earlier. [@1,6,14] Attorney
 General Todd Blanche, FBI Director Kash Patel and First Assistant US Attorney Theophani Stamos
-announced the case together; Blanche said the years-long investigation was not political. [@1,2,3,6] On 15 November 2026 Lucas' legal team filed a motion arguing that Attorney General Todd Blanche, FBI Director Kash Patel and First Assistant U.S. Attorney Theophani Stamos violated the court rule on press and fair trials in statements at the news conference announcing the indictment, asking the court to impose appropriate sanctions. [@11]
+announced the case together; Blanche said the years-long investigation was not political. [@1,2,3,6] On 15 November 2026 Lucas' legal team filed a motion arguing that Attorney General Todd Blanche, FBI Director Kash Patel and First Assistant U.S. Attorney Theophani Stamos violated the court rule on press and fair trials in statements at the news conference announcing the indictment, asking the court to impose appropriate sanctions. [@11,14]
 Lucas surrendered on Thursday morning and made her first appearance in Norfolk federal court that
 day; she said the case came from standing up to "people in power" and vowed not to back
 down. [@2,3,6]
 
 The indictment describes a five-year scheme worth an estimated $4.5 million that obtained and illegally distributed large quantities of marijuana. [@5] On May 6, the FBI executed federal search warrants at The Cannabis Outlet and The CBD Shoppe and recovered marijuana and firearms at both locations. [@5,6]
 
-Law enforcement made multiple controlled purchases of marijuana from Lucas's shop, which purported to sell hemp products, in 2024 and 2025. [@6,12] The indictment alleges Lucas worked this year with another defendant to use her political position to obtain a recreational marijuana license for him, with the understanding that proceeds would be shared to support the enterprise. [@6,12] An arraignment is scheduled for next month. [@6,8,12] Two defendants were due in federal court in Newport News for arraignment on 12 November 2026 at 2 p.m., and Lucas and the other defendants on 16 November at 2 p.m. [@8] Lucas pleaded not guilty on 16 November 2026 to federal racketeering, drug, money-laundering and other charges. [@11,13] Alleged cannabis trafficking suspects were to be in court, WAVY News 10 reported on 11 November 2026. [@9] Republican state Sen. Bryce Reeves has introduced a resolution directing the Virginia Senate Committee on Privileges and Elections to investigate Lucas's legislative conflict-of-interest and financial-disclosure compliance, prefiled ahead of the 2027 General Assembly session and carrying possible penalties from censure to expulsion. [@7] Lucas partnered in opening The Cannabis Outlet in 2021. [@6,12] She had publicly spoken about her ownership stake as recently as June, though her most recent financial disclosure forms do not list the business by name. [@6] A federal judge has designated the case complex, giving prosecutors and defense lawyers additional time to prepare for trial. [@10] Court records reflecting her not guilty plea set a jury trial for mid-September. [@11] She is set to stand trial with her co-defendants from 13 September next year in a trial scheduled to last four weeks. [@13]
+Law enforcement made multiple controlled purchases of marijuana from Lucas's shop, which purported to sell hemp products, in 2024 and 2025. [@6,12] The indictment alleges Lucas worked this year with another defendant to use her political position to obtain a recreational marijuana license for him, with the understanding that proceeds would be shared to support the enterprise. [@6,12] An arraignment is scheduled for next month. [@6,8,12] Two defendants were due in federal court in Newport News for arraignment on 12 November 2026 at 2 p.m., and Lucas and the other defendants on 16 November at 2 p.m. [@8] Lucas pleaded not guilty on 16 November 2026 to federal racketeering, drug, money-laundering and other charges. [@11,13,14] Alleged cannabis trafficking suspects were to be in court, WAVY News 10 reported on 11 November 2026. [@9] Republican state Sen. Bryce Reeves has introduced a resolution directing the Virginia Senate Committee on Privileges and Elections to investigate Lucas's legislative conflict-of-interest and financial-disclosure compliance, prefiled ahead of the 2027 General Assembly session and carrying possible penalties from censure to expulsion. [@7] Lucas partnered in opening The Cannabis Outlet in 2021. [@6,12] She had publicly spoken about her ownership stake as recently as June, though her most recent financial disclosure forms do not list the business by name. [@6] A federal judge has designated the case complex, giving prosecutors and defense lawyers additional time to prepare for trial. [@10] Court records reflecting her not guilty plea set a jury trial for mid-September. [@11,14] She is set to stand trial with her co-defendants from 13 September next year in a trial scheduled to last four weeks. [@13]
