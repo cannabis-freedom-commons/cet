@@ -63,23 +63,22 @@ sources:
     publisher: Tribun Lombok
     date: 2026-11-17
     language: id
-open_questions:
-    - Both accounts reproduce the Polresta Mataram operation and are not independent reporting beyond the police operation.
-    - The amount is given as 4 kilograms in one account and more than 4 kilograms in the other, not stated as an exact laboratory-weighed amount, and no value estimate was published.
-    - No detention measure, plea or court outcome was reported; the case stood at the investigation stage with the drugs' origin and possible network still being traced.
-    - Five clips of suspected methamphetamine packets and smoking paraphernalia seized in the same search are excluded from the cannabis figures, and no weight was given for them; the second account mentions only other related equipment in general terms.
-    - The cannabis was reported from two locations, a guesthouse room and a house in South Ampenan, but the weight cannot be assigned to particular locations.
+  - title: Kapolresta Mataram Pimpin Penggerebekan Losmen di Ampenan, Amankan 3 Pria dan Ganja Lebih dari 4 Kg - Post Kota NTB
+    url: https://www.postkotantb.com/2026/11/kapolresta-mataram-pimpin-penggerebekan.html
+    publisher: Post Kota NTB
+    date: 2026-11-17
+    language: id
 ---
 
 Drug repeat offender ASS, a 39-year-old man from Siantar in North Sumatra, had
 left prison three years earlier and had returned to selling cannabis. [@1]
 Officers arrested him in a guesthouse in the Baturaja neighbourhood of South
-Ampenan, Mataram city, on the night of Monday 16 November 2026. [@1,2] The raid was carried out by the Polresta Mataram drug-investigation operational team led directly by Mataram police chief Hendro Purwoko. [@2] At the same
+Ampenan, Mataram city, on the night of Monday 16 November 2026. [@1,2,3] The raid was carried out by the Polresta Mataram drug-investigation operational team led directly by Mataram police chief Hendro Purwoko. [@2,3] At the same
 location officers also detained two other people, 54-year-old B and 24-year-old
-MOS. [@1,2] ASS is from Pematang Siantar in North Sumatra, while B and MOS are from Ampenan in Mataram city. [@2] Police said they were still tracing where the drugs came from and
-developing the dealer network. [@1,2] The three were processed under Article 114(2) of the 2009 Narcotics Law in conjunction with Article 609(2)(a) of the 2023 Criminal Code and the 2026 penalty-adjustment law. [@2] The three initially acknowledged that the items officers found were cannabis but would not explain where the items came from. [@2]
+MOS. [@1,2] ASS is from Pematang Siantar in North Sumatra, while B and MOS are from Ampenan in Mataram city. [@2,3] Police said they were still tracing where the drugs came from and
+developing the dealer network. [@1,2] The three were processed under Article 114(2) of the 2009 Narcotics Law in conjunction with Article 609(2)(a) of the 2023 Criminal Code and the 2026 penalty-adjustment law. [@2,3] The three initially acknowledged that the items officers found were cannabis but would not explain where the items came from. [@2,3]
 
-During the arrest police found four kilograms of cannabis in ASS's room. [@1,2] After the arrest officers extended the search from that room to a house in South Ampenan where one of the suspects was known to live. [@2]
+During the arrest police found four kilograms of cannabis in ASS's room. [@1,2] After the arrest officers extended the search from that room to a house in South Ampenan where one of the suspects was known to live. [@2,3]
 Mataram police chief Hendro Purwoko estimated the seized evidence at 4 kilograms
 of cannabis. [@1] The cannabis lay scattered on the bedroom floor, wrapped in
 brown packing tape. [@1] Officers also seized a roll of cigarette paper, a
