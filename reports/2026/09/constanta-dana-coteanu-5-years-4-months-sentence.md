@@ -72,9 +72,14 @@ sources:
     publisher: Gândul
     date: 2026-11-12
     language: ro
+  - title: Ce a decis Curtea de Apel Constanța în dosarul celebrei Danei Marijuana! DIICOT o acuză de trafic de droguri de mare risc
+    url: https://ziarulamprenta.ro/justitie/ce-a-decis-curtea-de-apel-constanta-in-dosarul-celebrei-danei-marijuana-diicot-o-acuza-de-trafic-de-droguri-de-mare-risc/603641/
+    publisher: Ziarul Amprenta
+    date: 2026-11-17
+    language: ro
 open_questions:
     - Home searches found further cannabis in jars, bags and foil, but no combined weight, plant count or value for all the marijuana was published.
-    - The reports still do not give the outcome of the appeal hearing on 11 November 2026.
+    - The final outcome of the appeal is still unreported; the case was adjourned for a specific examination on 21 January 2027.
     - Coteanu's prison term is stated for high-risk drug trafficking and driving under the influence; the reports do not separate which acts the court treated as marijuana rather than speed or another high-risk drug.
     - The indictment account uses the initials P, P1 and P3 and does not say which initial matches Coteanu, Neagu or Nicula.
     - At the appeal hearing Coteanu said she would return to prison for a year, while the tribunal sentenced her to 5 years and 4 months; the reports do not explain how much of the term she has already served.
@@ -108,6 +113,6 @@ another. [@2] She said a product that was not hers was in her car. [@2] She said
 she had used the banned substance to treat her own body. [@2]
 
 The sentence was appealed to the Constanța Court of Appeal, which listed a first
-appeal hearing for 11 November 2026. [@1,5] Any decision by the Court of Appeal will be final. [@5] On 11 November 2026, Elena Daniela Coteanu, known by the stage name Marijuana, and two other defendants were called before the Constanța Court of Appeal to argue appeals filed by the defendants and by DIICOT prosecutors against the tribunal's decision. [@5,6] She said the time she spent in detention had done her good and that she hoped others would learn from the experience too. [@6] She told Ziua de Constanța that suspended sentences were no longer given and that she would return to prison for a year, while preparing an album and concerts for when she gets out. [@6] At the court she said she hoped to spend the winter holidays with her family and did not rule out ending up behind bars again. [@6] On 13 October 2026 the appeal court
+appeal hearing for 11 November 2026. [@1,5] Any decision by the Court of Appeal will be final. [@5] On 11 November 2026, Elena Daniela Coteanu, known by the stage name Marijuana, and two other defendants were called before the Constanța Court of Appeal to argue appeals filed by the defendants and by DIICOT prosecutors against the tribunal's decision. [@5,6] The Court of Appeal adjourned the case, setting the specific examination for 21 January 2027 in order to engage a chosen defence lawyer. [@7] She said the time she spent in detention had done her good and that she hoped others would learn from the experience too. [@6] She told Ziua de Constanța that suspended sentences were no longer given and that she would return to prison for a year, while preparing an album and concerts for when she gets out. [@6] At the court she said she hoped to spend the winter holidays with her family and did not rule out ending up behind bars again. [@6] On 13 October 2026 the appeal court
 replaced her house arrest with judicial supervision for 60 days, running until
 11 December 2026. [@2] That ruling also covered the other two defendants. [@2]
