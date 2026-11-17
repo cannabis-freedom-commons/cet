@@ -70,6 +70,10 @@ sources:
     url: https://www.inews.co.za/top-stories/i/98688396/drug-operations-across-gert-sibande-lead-six-arrests
     publisher: iNews
     date: 2026-11-13
+  - title: Five suspects arrested as Mpumalanga police seize dagga, crystal meth and mandrax
+    url: https://dailynews.co.za/news/crime-and-courts/2026-11-13-five-suspects-arrested-as-mpumalanga-police-seize-dagga-crystal-meth-and-mandrax/
+    publisher: Daily News
+    date: 2026-11-13
 open_questions:
   - IOL's headline and lead report five suspects while its own body describes six arrests, matching the police statement count of six used here.
   - No weight was published for the dagga seized in the N2 and N17 incidents, so the 2.2 kilograms from the R543 arrest is the only weighed cannabis quantity.
@@ -79,17 +83,17 @@ open_questions:
 ---
 
 Six people were arrested for drug offences during police operations in the Gert
-Sibande District of Mpumalanga on 10 and 11 November 2026. [@2] Police on
+Sibande District of Mpumalanga on 10 and 11 November 2026. [@2,3] Police on
 routine patrol along the R543 at Mahamba stopped and searched a 30-year-old
 Eswatini national carrying a red bag. [@1] The search of the man's red bag
-produced rolls of dagga weighing about 2.2 kilograms. [@1]
+produced rolls of dagga weighing about 2.2 kilograms. [@1,3]
 
 A white sedan fled a stop-and-search on the N2 at Mahamba, lost control and
 burst two tyres, and the driver escaped on foot. [@1] The driver left behind the
-car and five bags of dagga, which police seized while searching for him. [@1]
+car and five bags of dagga, which police seized while searching for him. [@1,3]
 Police stopped a Hyundai company truck on the N17 near Chrissiesmeer on 11
-November and arrested its two Eswatini occupants. [@1] Police seized 15 bags of
-dagga from the truck with an estimated street value of about R50,000. [@1]
+November and arrested its two Eswatini occupants. [@1,3] Police seized 15 bags of
+dagga from the truck with an estimated street value of about R50,000. [@1,3]
 
 Three more suspects were arrested in Standerton on 11 November in separate
 intelligence-driven operations. [@1] A 27-year-old man was found with sachets of
@@ -104,4 +108,3 @@ expected to appear in various magistrates' courts on charges related to
 possession of and dealing in drugs. [@1] Mpumalanga provincial commissioner
 Lieutenant General Apaphia Modise said the arrests should send a message that
 there is no space for drug dealers. [@1]
-
