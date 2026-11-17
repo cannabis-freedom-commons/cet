@@ -55,23 +55,22 @@ sources:
     url: https://iol.co.za/news/crime-and-courts/2026-11-17-just-in-police-discover-suspected-drug-laboratory-in-douglasdale
     publisher: IOL
     date: 2026-11-17
-open_questions:
-  - No count of plants, cannabis weight or cultivated area was published; the R2m figure was an estimate of the laboratory machinery, not of the drugs.
-  - The two suspects were not named, and no plea or court appearance was reported; the dealing and trafficking charges were described as still to be laid.
-  - An early police statement on the discovery gave no indication of the drug type or of any arrests, and the full account of the arrests and valuation comes from one later report.
-  - The reports do not say whether the laboratory occupied a house, a business premises or another kind of building in Douglasdale.
+  - title: Police discover cannabis drug lab in Douglasdale
+    url: https://www.sabcnews.com/sabcnews/police-discover-cannabis-drug-lab-in-douglasdale-north-of-joburg/
+    publisher: SABC News
+    date: 2026-11-17
 ---
 
 Police arrested two suspects in Douglasdale, northern Johannesburg, after
 finding a hydroponic cannabis laboratory. [@1] The two were detained at the
 scene and were to be charged with offences related to dealing and trafficking in
-drugs. [@1]
+drugs. [@1,3]
 
-Police put the value of the laboratory and its machinery at R2m. [@1] Gauteng
+Police put the value of the laboratory and its machinery at R2m. [@1,3] Gauteng
 Organised Crime Investigations' narcotics and tracing teams acted on
 intelligence about illegal activities in Douglasdale, police spokesperson Lt-Col
-Isaac Mudau said. [@1] The team applied for a search and seizure warrant, which
-a court granted and officers executed on Tuesday. [@1] That Tuesday was 17
+Isaac Mudau said. [@1,3] The team applied for a search and seizure warrant, which
+a court granted and officers executed on Tuesday. [@1,3] That Tuesday was 17
 November 2026, the day Mudau confirmed the discovery and described the location
 as an active crime scene. [@2]
 
@@ -81,4 +80,3 @@ police would keep acting decisively against those who profit from drugs and
 destroy communities. [@1] An early police statement had released no details
 about the suspected laboratory, the type of drugs involved or possible arrests.
 [@2]
-
