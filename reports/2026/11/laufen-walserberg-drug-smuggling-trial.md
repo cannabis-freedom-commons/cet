@@ -40,6 +40,11 @@ sources:
     publisher: bgland24.de
     date: 2026-11-16
     language: de
+  - title: 'Nach Techno-Festival mit Drogen am A8-Grenzübergang erwischt: 30-Jähriger verurteilt'
+    url: https://www.pnp.de/lokales/landkreis-berchtesgadener-land/nach-techno-festival-mit-drogen-am-grenzuebergang-erwischt-30-jaehriger-verurteilt-22436339
+    publisher: Pnp.de
+    date: 2026-11-17
+    language: de
 open_questions:
   - The lead says 18 different intoxicants while the body says eight different drugs plus marijuana; the report uses the body's wording and notes the difference.
   - No quantity, weight or value was published for the marijuana or the other drugs, so no cannabis weight is recorded.
@@ -50,7 +55,7 @@ open_questions:
 The Schöffengericht Laufen heard a case concerning violations of the Narcotics
 Act and the Cannabis Act. [@1] A 30-year-old man had been caught in August 2025
 at the Walserberg border near Bad Reichenhall with eight different drugs and
-marijuana in his car while entering Germany. [@1]
+marijuana in his car while entering Germany. [@1,2]
 
 The report's lead says border police discovered 18 different intoxicants in the
 30-year-old's car during the Walserberg check. [@1] He was brought in shackles
@@ -59,5 +64,4 @@ Frankfurt airport on an arrest warrant from the Laufen local court. [@1]
 
 The warrant had been issued after the man had stayed away without excuse from a
 hearing in June. [@1] After the hearing before the Schöffengericht Laufen, the
-man left the courtroom as a free man. [@1]
-
+man left the courtroom as a free man. [@1,2]
