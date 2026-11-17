@@ -46,17 +46,16 @@ sources:
     publisher: APC News Tamil
     date: 2026-11-17
     language: ta
-open_questions:
-  - 16 November 2026 is inferred from both reports' statement that the seizure occurred yesterday evening before their 17 November 2026 publication; no calendar date for the search was stated.
-  - The 28 grams of white powder wrapped in black tape is excluded from the cannabis weight because its substance was not identified.
-  - Dinakaran describes various liquid bottles and perfume bottles while APC News Tamil lists a kumkum packet and a sandalwood perfume bottle; the report uses the more itemised APC account.
-  - The ganja was described as seized material, with no laboratory confirmation reported.
-  - The two women who allegedly supplied the parcel and the prisoner in Block No. 4, Cell No. 4 have not been named.
+  - title: கஞ்சா கடத்திய சிறை காவலர் கைது
+    url: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/cannabis-smuggler-prison-guard-arrested/4378743
+    publisher: Dinamalar
+    date: 2026-11-17
+    language: ta
 ---
 
 Kanagaraj worked as a nursing assistant at Puzhal Central Prison in Chennai and
 was stopped for a check by security police as he tried to enter through the main
-entrance yesterday evening. [@1] During the routine check at about 6:25 pm at
+entrance yesterday evening. [@1,3] During the routine check at about 6:25 pm at
 the prison's main entrance, staff found a parcel concealed in his underwear.
 [@2] APC News Tamil identifies him as 51-year-old C. K. Kanagaraj of the Puzhal
 prison staff quarters, working as a male nursing assistant at Puzhal Central
@@ -70,9 +69,8 @@ gave him the parcel near the Kavangarai bus stop at about 6 pm. [@2]
 He said the women asked him to hand the parcel to the prisoner in Block No. 4,
 Cell No. 4 of Puzhal prison. [@2] Following a complaint by prison officer
 Arulkumaran, the M3 Puzhal police station registered a case under the Narcotic
-Drugs and Psychotropic Substances Act. [@2]
+Drugs and Psychotropic Substances Act. [@2,3]
 
 Police arrested Kanagaraj for attempting to smuggle drugs into the prison and
-are continuing to question him. [@2] Police are also investigating who the two
+are continuing to question him. [@2,3] He was produced in court and then lodged as a prisoner in the same Puzhal prison where he had worked. [@3] Police are also investigating who the two
 women were and which prisoner was to receive the parcel. [@2]
-
