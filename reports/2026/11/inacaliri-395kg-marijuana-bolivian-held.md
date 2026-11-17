@@ -53,6 +53,11 @@ media:
     media_url: https://cdn.correodelsur.com/img/contents/images_980/2026/11/16/65285ecc-668c-4af5-bbf0-e00c3198ccd2.jpg
     publisher: Correo del Sur
     caption: 'The detained Bolivian man. Photo: Carabineros'
+  - kind: photo
+    url: https://www.emol.com/noticias/Nacional/2026/11/17/1217342/droga-boliviano-ketamina-cocaina-marihuana.html
+    media_url: https://static.emol.cl/emol50/Fotos/2026/11/17/file_20261117100548.jpg
+    publisher: Emol
+    caption: 'Seized evidence from the Inacaliri border drug case. Photo: Fiscalía de Antofagasta (Antofagasta Prosecutor''s Office).'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b85b8a5fc153c991c89a1eba10ecf52e
@@ -98,9 +103,11 @@ sources:
     publisher: Correo del Sur
     date: 2026-11-16
     language: es
-open_questions:
-  - The marijuana amount is given as 395 kilos in one account and 395 kilos 100 grams in another, and the coca paste as 45 kilos and 45 kilos 100 grams; the report retains the precise figures.
-  - One account labels the chase zone as Atacama while the detailed location is the Barrancanes sector near Reten Inacaliri in Antofagasta; the Antofagasta location is retained.
+  - title: 'Detienen a extranjero con casi 500 kilos de droga en paso fronterizo: Incautaron cocaína, marihuana y ketamina'
+    url: https://www.emol.com/noticias/Nacional/2026/11/17/1217342/droga-boliviano-ketamina-cocaina-marihuana.html
+    publisher: Emol
+    date: 2026-11-17
+    language: es
 ---
 
 Carabineros officers from Retén Inacaliri were on preventive patrol about 20
@@ -108,21 +115,21 @@ kilometres from the Bolivian border in El Loa province when they spotted a
 pickup truck that had apparently entered Chile irregularly around 09:00 on
 Saturday 14 November 2026. [@1] Officers detected the truck in the Barrancanes
 sector near the Inacaliri border post after it entered through an unauthorized
-crossing, and the driver disobeyed an order to stop and fled. [@3,5,6,7] Officers
+crossing, and the driver disobeyed an order to stop and fled. [@3,5,6,7,9] Officers
 pursued the truck in a controlled follow of about 50 kilometres and intercepted
 it as it tried to return to Bolivia, after the driver also tried to continue
-fleeing on foot but was caught. [@2,5,6,7,8]
+fleeing on foot but was caught. [@2,5,6,7,8,9]
 
 Inspecting the cab and cargo area, officers found packages holding 395 kilos 100
 grams of processed marijuana, 45 kilos 100 grams of coca paste and 19 kilos 800
-grams of cocaine hydrochloride. [@1,5,6,7,8] Officers also seized 171 bottles of liquid
+grams of cocaine hydrochloride. [@1,5,6,7,8,9] Officers also seized 171 bottles of liquid
 ketamine with a reported gross weight of 34.5 kilos, plus the pickup truck and
-other items of investigative interest. [@1,5,6,7]
+other items of investigative interest. [@1,5,6,7,9]
 
-The detained driver was a 31-year-old Bolivian citizen. [@1,5,6,7,8] The Calama
+The detained driver was a 31-year-old Bolivian citizen. [@1,5,6,7,8,9] The Calama
 prosecutor's office formally charged him with illicit drug trafficking. [@2,6] The accused was formalized on Sunday before the Calama Guarantee Court for illicit drug trafficking under article 3 of Law 20,000. [@5] A
 court ordered preventive prison on grounds that his freedom endangered public
 safety and set a 120-day investigation period to establish who sent, financed
-and was to receive the load. [@1,5,6,8] The prosecution said the combined load
+and was to receive the load. [@1,5,6,8,9] The prosecution said the combined load
 amounted to about 1.2 million doses and described the mix of four substances in
-one truck as a catalogue rather than a single product. [@4,5,7]
+one truck as a catalogue rather than a single product. [@4,5,7,9]
