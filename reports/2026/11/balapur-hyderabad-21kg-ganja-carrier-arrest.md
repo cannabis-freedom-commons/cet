@@ -53,10 +53,16 @@ sources:
     url: https://hyderabadmail.com/hyderabad-man-arrested-21-kg-ganja-odisha/
     publisher: Hyderabad Mail
     date: 2026-11-17
+  - title: 'Hyderabad: Pan shop worker held with 21 kg of marijuana in Balapur'
+    url: https://telanganatoday.com/hyderabad-pan-shop-worker-held-with-21-kg-of-marijuana-in-balapur
+    publisher: Telangana Today
+    date: 2026-11-17
+    language: en
 open_questions:
     - Whether the 21 kg was laboratory-confirmed as cannabis was not reported.
     - The Rs 10.50 lakh figure is the police valuation, not an independently verified market price.
     - No court outcome, detention measure or plea was reported.
+    - 'The accounts disagree on the day of the arrest: one outlet reported the seizure on 16 November 2026, while Telangana Today says the arrest was made on Tuesday 17 November 2026.'
 media:
   - kind: photo
     url: https://hyderabadmail.com/hyderabad-man-arrested-21-kg-ganja-odisha/
@@ -67,17 +73,17 @@ media:
 
 Charminar Task Force and Balapur police jointly exposed an interstate gang
 smuggling ganja from Odisha into Hyderabad. [@1,2] The operation seized 21 kg of
-dry ganja valued at Rs 10.50 lakh and arrested the courier transporting it. [@1,2] The arrested man was identified as Ahmed Emad Mohamed alias Ahmed. [@2] Police arrested him at his residence in Abu Bakar Colony, Balapur. [@2] He was 20 years old. [@2] Police seized the 21 kg consignment, worth an estimated Rs 10.5 lakh, on November 16. [@2]
+dry ganja valued at Rs 10.50 lakh and arrested the courier transporting it. [@1,2,3] The arrested man was identified as Ahmed Emad Mohamed alias Ahmed. [@2,3] Police arrested him at his residence in Abu Bakar Colony, Balapur. [@2] He was 20 years old. [@2,3] Police seized the 21 kg consignment, worth an estimated Rs 10.5 lakh, on November 16. [@2]
 The arrested accused had been posing as an ordinary worker in a pan shop in
-Shaheen Nagar before entering the trade to make quick money. [@1] Ahmed worked at Aina Pan Shop in Shaheen Nagar. [@2]
+Shaheen Nagar before entering the trade to make quick money. [@1] Ahmed worked at Aina Pan Shop in Shaheen Nagar. [@2,3]
 
 On the orders of main accused Ibrahim, he travelled to Berhampur in Odisha and
-bought the 21 kg from a man named Samuel. [@1,2] He hid the consignment in a
+bought the 21 kg from a man named Samuel. [@1,2,3] He hid the consignment in a
 trolley and luggage bags while posing as an ordinary traveller and planned to
-sell it in Hyderabad at higher prices. [@1] Officers raided the accused house
+sell it in Hyderabad at higher prices. [@1] He kept the consignment at his house for further sale to consumers among his contacts, police said. [@3] Officers raided the accused house
 and seized the ganja along with the trolley, luggage bags and one mobile phone
 used for transport. [@1,2]
 
 Ringleader Ibrahim and Odisha-based supplier Samuel are absconding and police
-have intensified searches for them. [@1,2] Ibrahim was identified as Ibrahim Bin Saleem Baamar alias Ibrahim Baamar, a suspected ganja peddler from Bawazeer Colony, Ambedkar Nagar, Kothapet. [@2] Police registered a case against the
-accused under the NDPS Act. [@1,2]
+have intensified searches for them. [@1,2,3] Ibrahim was identified as Ibrahim Bin Saleem Baamar alias Ibrahim Baamar, a suspected ganja peddler from Bawazeer Colony, Ambedkar Nagar, Kothapet. [@2] Police registered a case against the
+accused under the NDPS Act. [@1,2,3]
