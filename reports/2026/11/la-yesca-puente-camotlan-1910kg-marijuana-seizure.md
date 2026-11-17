@@ -77,6 +77,11 @@ sources:
     publisher: Diario Presente
     date: 2026-11-16
     language: es
+  - title: Aseguran cerca de dos toneladas de mariguana en Nayarit
+    url: https://voxpopulinoticias.com.mx/2026/11/aseguran-mas-de-mil-900-kilos-de-mariguana-en-nayarit/
+    publisher: Vox Populi Noticias
+    date: 2026-11-16
+    language: es
 open_questions:
   - Excelsior relays the Defensa statement by the V Military Region and 13th Military Zone commands, so it is not independent reporting of the seizure.
   - Accounts give different administration-wide marijuana seizure totals (140,378 versus 138,462 kilograms); those totals are context, not part of this event's figures.
@@ -84,15 +89,15 @@ open_questions:
 
 The Guardia Nacional and the Mexican Army seized about 1,910 kilograms of
 suspected marijuana in Puente de Camotlán, in the municipality of La Yesca,
-Nayarit. [@1,3,4,5,6,7] The commands of the V Military Region and the 13th Military Zone
+Nayarit. [@1,3,4,5,6,7,8] The commands of the V Military Region and the 13th Military Zone
 said personnel made the seizure during surveillance patrols and ground
-reconnaissance. [@1,2,4,5,6] The seized material was described as about 1,910 kilograms
+reconnaissance. [@1,2,4,5,6,8] The seized material was described as about 1,910 kilograms
 of a green herb with characteristics similar to marijuana and as belonging to
-the Cartel Jalisco Nueva Generación. [@1,2,3,4,5]
+the Cartel Jalisco Nueva Generación. [@1,2,3,4,5,8]
 
 The operation was coordinated with the Navy and Nayarit's state security
 ministry and had the accompaniment of the Navy and the Nayarit state police.
 [@1,4] The seizure took place on 15 November 2026 in the locality of Puente de
-Camotlán, municipality of La Yesca. [@1,3,5] What was seized was placed at the
+Camotlán, municipality of La Yesca. [@1,3,5,8] What was seized was placed at the
 disposal of the federal prosecutor's office in Tepic for investigation and
-expert analysis. [@1,2,3,4,5,6,7] No detentions during the seizure and no estimated value for the drugs had been reported. [@7]
+expert analysis. [@1,2,3,4,5,6,7,8] No detentions during the seizure and no estimated value for the drugs had been reported. [@7]
