@@ -41,6 +41,11 @@ sources:
     publisher: AlbertoNews
     date: 2026-11-16
     language: es
+  - title: Incautan más de cuatro toneladas de marihuana cerca de las costas del Estado Falcón - Noticias Barquisimeto
+    url: https://www.noticiasbarquisimeto.com/incautan-mas-de-cuatro-toneladas-de-marihuana-cerca-de-las-costas-del-estado-falcon/
+    publisher: Noticias Barquisimeto
+    date: 2026-11-16
+    language: es
 open_questions:
   - No separate date for the interception was given; 16 November 2026 is the publication date and is used as the incident date.
   - The reported 800 kilograms that could not be recovered are not counted in the seized-quantity figure, and their fate was not explained beyond safety concerns.
@@ -52,15 +57,15 @@ open_questions:
 
 An international anti-drug operation intercepted a vessel near La Vela de Coro
 in Falcon state carrying more than four tonnes of marijuana with four people on
-board, as reported by the United States Joint Interagency Task Force South. [@1]
+board, as reported by the United States Joint Interagency Task Force South. [@1,2]
 The target was the fishing vessel F/V Las Marias, spotted by a Netherlands
 maritime patrol aircraft while sailing in Caribbean waters off the Venezuelan
-coast. [@1] After the sighting, an interceptor unit of the Royal Netherlands
-Navy took control of the vessel and detained the four people on board. [@1]
+coast. [@1,2] After the sighting, an interceptor unit of the Royal Netherlands
+Navy took control of the vessel and detained the four people on board. [@1,2]
 
 Authorities seized 9,261 pounds of marijuana, about 4.2 tonnes, during the
-operation. [@1] Another 1,764 pounds, about 800 kilograms, could not be
-recovered because of safety concerns during the intervention. [@1] The total
+operation. [@1,2] Another 1,764 pounds, about 800 kilograms, could not be
+recovered because of safety concerns during the intervention. [@1,2] The total
 reported load was about five tonnes of marijuana, counting both the seized drugs
 and the drugs that could not be recovered. [@1]
 
@@ -71,4 +76,3 @@ the Caribbean in a message on its official X account. [@1] JIATF South said its
 detection and surveillance work supports Southern Command-led operations to
 identify, disrupt and dismantle drug-trafficking networks in the Caribbean and
 the Eastern Pacific. [@1]
-
