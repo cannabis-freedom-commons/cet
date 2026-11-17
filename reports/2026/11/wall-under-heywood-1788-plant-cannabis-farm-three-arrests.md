@@ -82,6 +82,10 @@ sources:
     url: https://www.msn.com/en-us/news/other/three-arrested-after-cannabis-farm-worth-1m-found/ar-AA2hyOkG
     publisher: MSN
     date: 2026-11-16
+  - title: ‘Confirmed grow!’ See the moment police discovered huge cannabis farm with 1,700 plants near Church Stretton
+    url: https://www.shropshirestar.com/news/confirmed-grow-police-video-cannabis-farm-1700-plants-church-stretton-9354872
+    publisher: Shropshire Star
+    date: 2026-11-17
 open_questions:
     - The £1 million figure is a police estimated street value, not a confirmed sale value.
     - No weight was published for the trays of buds described as ready for sale, so no cannabis weight is recorded.
@@ -89,19 +93,19 @@ open_questions:
 ---
 
 West Mercia Police raided a property in Wall Under Heywood, near Church Stretton
-in rural Shropshire, on Sunday, November 15. [@1,2,3,4,5] Officers from the South Shropshire Safer Neighbourhood Teams executed a warrant to enter the property. [@4,6] Officers found two men, both
+in rural Shropshire, on Sunday, November 15. [@1,2,3,4,5,8] Officers from the South Shropshire Safer Neighbourhood Teams executed a warrant to enter the property. [@4,6] Officers found two men, both
 aged 35, inside the property and arrested them on suspicion of cultivating
-cannabis. [@1,2,3,4,5,6,7] A third man, aged 51, was also arrested on suspicion of the same
-offence. [@1,2,3,4,5,6,7] All three men remained in police custody on Monday, November 16,
-as enquiries continued. [@1,3,5,6]
+cannabis. [@1,2,3,4,5,6,7,8] A third man, aged 51, was also arrested on suspicion of the same
+offence. [@1,2,3,4,5,6,7,8] All three men remained in police custody on Monday, November 16,
+as enquiries continued. [@1,3,5,6,8]
 
 Police seized 1,788 plants at various stages of growth, along with trays of buds
-ready for sale. [@1,3,4,6] The plants were growing in seven rooms at the address. [@1,2,3,4,6,7]
-Police put the grow's estimated street value at more than £1 million. [@1,2,3,4,5,6]
-Police said the electrics within the property had been tampered with. [@1,2,3,5,6,7]
+ready for sale. [@1,3,4,6,8] In the footage an officer remarks on the heat inside the building as the camera lens fogs up. [@8] Police released bodyworn-camera video showing an officer shouting “confirmed grow” and pulling back a door covering to reveal a large room of maturing plants in orderly rows. [@8] The plants were growing in seven rooms at the address. [@1,2,3,4,6,7,8]
+Police put the grow's estimated street value at more than £1 million. [@1,2,3,4,5,6,8]
+Police said the electrics within the property had been tampered with. [@1,2,3,5,6,7,8]
 
 Police linked the operation to Operation Conyay, its drive to disrupt organised
-criminality in local communities. [@1,4,6] Safer Neighbourhood Inspector Damien
+criminality in local communities. [@1,4,6,8] Safer Neighbourhood Inspector Damien
 Kelly said cannabis farms are often linked to wider criminal activity and can
 pose a serious fire risk to neighbouring properties where electricity supplies
 have been tampered with. [@1] Kelly said police were determined to make Shropshire a hostile environment for organised crime groups and would keep working to identify and dismantle cannabis grows. [@5]
