@@ -21,6 +21,11 @@ media:
     media_url: https://cdn.prabhanews.com/wp-content/uploads/2026/11/07143957/police12.jpg
     publisher: Andhra Prabha
     caption: Lead picture published with the Suryapet report under the headline 'four arrested in a ganja case'; the page gives no caption or photo credit, so whether it shows this arrest is not established.
+  - kind: photo
+    url: https://www.eenadu.net/telugu-news/districts/nalgonda-news/534/126208647
+    media_url: https://assets.eenadu.net/article_img/Nlgl-Dkr1611266a.webp
+    publisher: EENADU
+    caption: Masked youths arrested by town police on the 7th of the month, published with the Eenadu report on the Suryapet Chivvemla-road case.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2300c04d6175e2b78bb12386c28dab38
@@ -31,27 +36,32 @@ sources:
     publisher: Andhra Prabha
     date: 2026-11-07
     language: te
+  - title: తొలుత నిషాలో.. ఆ తర్వాత రవాణాలో | general
+    url: https://www.eenadu.net/telugu-news/districts/nalgonda-news/534/126208647
+    publisher: EENADU
+    date: 2026-11-17
+    language: te
 open_questions:
-  - The account gives no weight, packet count or value for the ganja involved, so no cannabis quantity is recorded.
-  - The article gives no separate date for the checks; the text places them on Friday evening and 7 November 2026 is the publication date, so 6 November is used.
-  - The account does not say exactly where on the Chivvemla road the checks took place, only near Amma Garden, so the place is given at locality precision for Suryapet town.
-  - The report does not state whether any ganja was seized at the scene or whether the four were held only as the people who arranged the money, so no seizure figure is recorded.
-  - No court step beyond judicial remand was reported, and the charges under the NDPS Act were not specified.
-  - The two main suspects named in the report were still at large, so their age, arrest and court status are unknown.
-  - Only the Andhra Prabha account of this event could be opened; no second news report or police statement confirming the arrests was found.
-  - The page's lead picture has no caption or credit, so whether it shows this arrest, and who took it, is not established.
+    - Whether the checks took place on the evening of 6 November or on 7 November is unclear.
+    - Whether the four arrested were the buyers or the people who arranged the money, and what happened to the two people who brought the ganja from Odisha, is unclear.
+    - No packet count, value estimate or specified charges were given for the 1,500 grams seized.
+    - No plea or later court step for the four arrested was reported.
+    - The two people named as bringing the ganja from the Odisha border area were still at large, so their arrest and court status are unknown.
+    - The precise spot of the checks on the Chivvemla road near Amma Garden in Suryapet town was not given, so the place is recorded at locality precision.
+    - Whether the lead picture shows this arrest, and who took it, is not established.
+    - A separate 112 kg car seizure and a district total of 297 youths held since 2024 are not covered here.
 ---
 
 Suryapet town police detained four people during checks on the evening of Friday
 6 November near Amma Garden on the Chivvemla road, after some of those stopped
-tried to run off. [@1]
+tried to run off. [@1,2]
 
 Police said questioning showed that two main suspects, Bonta Avinash and
 Somapangu Nani Vardhan, had brought ganja from the Odisha border area and tried
-to sell it. [@1] The inspector said four people in the case were found to have
+to sell it. [@1,2] The inspector said four people in the case were found to have
 arranged the money for the operation. [@1] The four arrested, all from Suryapet,
 were named by police as Rupani Sandeep, 20, Boddhu Bharat, 21, Pulusu Sai Vishal
-Goud and Sheelam Srikanth Lingaiah, 24, and were sent to judicial remand. [@1]
+Goud and Sheelam Srikanth Lingaiah, 24, and were sent to judicial remand. [@1,2] Police seized 1,500 grams of ganja from those arrested. [@2]
 Police said special teams were searching for the two main suspects, who were
 still at large. [@1]
 
@@ -63,4 +73,3 @@ warned that youths should stay away from intoxicants and that anyone
 transporting, selling, buying or using ganja would face strict action, and asked
 the public to report illegal activity with assurances that informants' details
 would be kept confidential. [@1]
-
