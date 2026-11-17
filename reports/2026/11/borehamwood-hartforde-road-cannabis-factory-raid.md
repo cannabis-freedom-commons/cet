@@ -41,6 +41,16 @@ media:
     media_url: https://www.hertsad.co.uk/resources/images/21728324.jpg?type=mds-article-962
     publisher: Herts Advertiser
     caption: 'The cannabis factory found after the raid in Hartforde Road. Photo: Herts police'
+  - kind: photo
+    url: https://www.thecomet.net/news/26738737.borehamwood-cannabis-factory-worth-around-50-000-uncovered/
+    media_url: https://www.hertsad.co.uk/resources/images/21728323/?type=mds-article-620
+    publisher: The Comet
+    caption: 'The cannabis grow discovered in the Hartforde Road house, whose street value police estimated at about £50,000. Photo: Herts police'
+  - kind: photo
+    url: https://www.thecomet.net/news/26738737.borehamwood-cannabis-factory-worth-around-50-000-uncovered/
+    media_url: https://www.hertsad.co.uk/resources/images/21728322/?type=mds-article-620
+    publisher: The Comet
+    caption: 'The altered windows of the Borehamwood house, modified to make it look like a normal residence. Photo: Herts police'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6a6e44ee06e43a7ed44d2d7ee05d3194
@@ -57,20 +67,24 @@ sources:
     url: https://www.hertsad.co.uk/news/26736688.borehamwood-cannabis-factory-worth-around-50-000-uncovered/
     publisher: Herts Advertiser
     date: 2026-11-17
+  - title: Borehamwood cannabis factory worth around £50,000 uncovered
+    url: https://www.thecomet.net/news/26738737.borehamwood-cannabis-factory-worth-around-50-000-uncovered/
+    publisher: The Comet
+    date: 2026-11-17
 ---
 
 Officers from the Operational Support Group raided a property on Hartforde Road
-in Borehamwood on Wednesday, November 4. [@1,3] The officers found five rooms in
-the property being used to grow cannabis. [@1,3] The house had been made to look
-like a normal home, with several of its outside windows altered. [@2,3]
+in Borehamwood on Wednesday, November 4. [@1,3,4] The officers found five rooms in
+the property being used to grow cannabis. [@1,3,4] The house had been made to look
+like a normal home, with several of its outside windows altered. [@2,3,4]
 
 Police estimated the street value of the cannabis grown at the property at
-£50,000. [@1] Inspector Paul Costello of the Operational Support Group said
+£50,000. [@1,4] Inspector Paul Costello of the Operational Support Group said
 cannabis factories present a significant danger to those living near them
-because they can be a serious fire hazard. [@1] He said such factories are often
+because they can be a serious fire hazard. [@1,4] He said such factories are often
 controlled by organised crime groups linked to violence, modern day slavery and
-human trafficking. [@1]
+human trafficking. [@1,4]
 
 Police said they were still working to identify and find those responsible for
-the cannabis factory. [@1,3] Police asked anyone with information to contact them
-quoting crime reference 41/106091/26. [@1,3]
+the cannabis factory. [@1,3,4] Police asked anyone with information to contact them
+quoting crime reference 41/106091/26. [@1,3,4]
