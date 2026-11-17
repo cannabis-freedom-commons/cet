@@ -40,25 +40,34 @@ sources:
     publisher: Ifronteira
     date: 2026-11-16
     language: pt
+  - title: Mulher é flagrada com maconha em jumbo para preso em Pacaembu
+    url: https://folharegionalnet.com.br/manchetes/mulher-e-flagrada-com-maconha-em-jumbo-para-preso-em-pacaembu/
+    publisher: Folha Regional
+    date: 2026-11-16
+    language: pt
+  - title: Mulher é flagrada com maconha escondida em sacola de jumbo no CPP de Pacaembu
+    url: https://www.sigamais.com/noticias/policia/mulher-n-flagrada-com-maconha-escondida-em-sacola-de-jumbo-no-cpp-de-pacaembu/
+    publisher: Siga Mais
+    date: 2026-11-16
+    language: pt
 open_questions:
-  - No weight or quantity beyond two packages was published, so no cannabis figure is recorded.
-  - No separate date for the interception was given; 16 November 2026 is the publication and information-release date and stands in for the incident date.
-  - No formal arrest, charge or court outcome was reported beyond referral to the Civil Police duty station and the prison's internal inquiry.
-  - The account rests on a single Penal Police statement republished by one outlet.
+    - The two packages held about 6 grams of a greenish substance described as having characteristics similar to marijuana, with no laboratory confirmation reported.
+    - The search occurred on Saturday 14 November 2026 and the Penal Police released the information on Monday 16 November 2026, which remains the report's incident date.
+    - No formal arrest, charge or court outcome was reported beyond referral of the woman and the material to the Civil Police duty station in Adamantina and the prison's internal inquiry.
+    - The Folha Regional and Siga Mais accounts reproduce the same Penal Police statement and are not independent reporting.
 ---
 
 Penal police officers intercepted a woman trying to enter the Centro de
 Progressao Penitenciaria in Pacaembu with portions of marijuana during a visit
-to an inmate. [@1] Officers found two packages of the drug while searching the
+to an inmate. [@1,2] Officers found two packages of the drug while searching the
 visitor's jumbo bag that the woman was to deliver to the inmate receiving the
-visit. [@1]
+visit. [@1,2] The two wrappers held about 6 grams of a greenish substance described as having characteristics similar to marijuana. [@3]
 
 The marijuana was hidden among the objects in the jumbo. [@1] The jumbo is a kit
 of items visitors are authorised to bring to inmates, including food, clothing
 and personal-hygiene and cleaning products. [@1] The Penal Police released the
-information on Monday 16 November 2026. [@1]
+information on Monday 16 November 2026. [@1] The search took place on Saturday 14 November 2026, with the Penal Police releasing the information on Monday 16 November. [@3]
 
 The seized material and the visitor were taken to the Civil Police duty station
-in Adamantina, where the case was formally registered. [@1] The prison opened an
-inquiry procedure to clarify the facts. [@1]
-
+in Adamantina, where the case was formally registered. [@1,2] The prison opened an
+inquiry procedure to clarify the facts. [@1,2]
