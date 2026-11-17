@@ -43,6 +43,11 @@ media:
     media_url: https://resize.sandesh.com/rs:fill:800:450/plain/epapercdn.sandesh.com/images/2026/11/16/Sszq1y2rXKY31m8F7IRxWBoRa9gLf7JDPkGJDIPc.webp
     publisher: Sandesh
     caption: Lead photograph published with the Sandesh report on the Junagadh SOG ganja seizure.
+  - kind: video
+    url: https://tv9gujarati.com/videos/gujarat-videos/breaking-news-big-action-by-sog-in-junagadh-ganja-seized-from-car-3-accused-arrested-1549163.html
+    media_url: https://www.youtube.com/watch?v=DiELTzn7yDE
+    publisher: TV9 Gujarati
+    caption: TV9 Gujarati's video report on the Junagadh SOG seizure of 29.634 kg of ganja from a car and the arrest of three suspects.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 30336a79deef2e1a139706e8a1910665
@@ -58,22 +63,29 @@ sources:
     publisher: Divya Bhaskar
     date: 2026-11-16
     language: gu
+  - title: 'Breaking News : જૂનાગઢમાં SOGની મોટી કાર્યવાહી! કારમાંથી 29.634 કિલો ગાંજો ઝડપ્યો, 3 આરોપીની ધરપકડ'
+    url: https://tv9gujarati.com/videos/gujarat-videos/breaking-news-big-action-by-sog-in-junagadh-ganja-seized-from-car-3-accused-arrested-1549163.html
+    publisher: TV9 Gujarati
+    date: 2026-11-17
+    language: gu
 open_questions:
     - No separate date for the raid was given, so 16 November 2026, the publication date, stands in for the incident date.
     - The ganja was described only as suspected ganja, with no laboratory confirmation reported.
     - None of the three suspects was named, and no charges or court outcome were reported.
     - The type and registration of the seized vehicle were not given.
+    - It is not established whether the seizure took place on 16 or 17 November 2026; the later account gives no date for the action itself.
+    - The roles of the three people police were still seeking in the network were not reported.
 ---
 
 The Junagadh Special Operation Group team, acting on a tip-off, seized a
 consignment of prohibited ganja near Khamdhrol Road. [@1] The team had checked a
 suspect vehicle and the spot near Khamdhrol Road. [@1] During the check they
-recovered 29.634 kilograms of suspected ganja. [@1,2] Police arrested three
-suspects at the scene. [@1,2] The three were being questioned closely about where
-the consignment had come from and to whom it was to be delivered. [@1]
+recovered 29.634 kilograms of suspected ganja. [@1,2,3] Police arrested three
+suspects at the scene. [@1,2,3] The three were being questioned closely about where
+the consignment had come from and to whom it was to be delivered. [@1] Police said their investigation had found that six people were involved in the trafficking network, with three arrested and three more still being sought. [@3]
 
-Police put the value of the seized ganja at Rs 14.81 lakh. [@1,2] With a seized
-vehicle included, the total value of the seized goods was Rs 16.12 lakh. [@1,2]
+Police put the value of the seized ganja at Rs 14.81 lakh. [@1,2,3] With a seized
+vehicle included, the total value of the seized goods was Rs 16.12 lakh. [@1,2,3] Besides the car used to carry the ganja, officers seized mobile phones, which police included in the Rs 16.12 lakh total. [@3]
 
 The district police described the raid as part of a tightening drive against
 anti-social elements and the narcotics trade. [@1] The report linked the action
