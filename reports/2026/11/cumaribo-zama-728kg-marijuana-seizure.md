@@ -85,36 +85,34 @@ sources:
     publisher: Infobae
     date: 2026-11-17
     language: es
-open_questions:
-  - The reports give only the 5 November 2026 announcement date with no separate interception date, so 5 November is used as the incident date.
-  - The two detainees were not named and no charges or court outcome were reported.
-  - The reports mention several packages in the double bottom but give no package count.
-  - The 7.6 million dollar figure and the 120,000-dose estimate are the Navy's estimates.
-  - The image file name attributes the photo to the ARC, the Colombian Navy, but the page carries no visible caption or credit for it.
-  - The Navy's 7.6 million dollar valuation is an official estimate of income prevented, not a market figure independently checked.
+  - title: Incautan más de 1,7 toneladas de marihuana que tenían como destino Brasil y Venezuela
+    url: https://seguimiento.co/colombia/2026/11/17/incautan-mas-de-1-7-toneladas-de-marihuana-que-tenian-como-destino-brasil-y-venezuela
+    publisher: Seguimiento
+    date: 2026-11-17
+    language: es
 ---
 
 Navy units located and intercepted a boat at the hamlet of Zama in Cumaribo,
-Vichada. [@1,3] Two crew members aboard were captured, a Colombian man and a
-Venezuelan woman. [@1,3,4] Marine Infantry Brigade No. 5 and Riverine Battalion No.
+Vichada. [@1,3,5] Two crew members aboard were captured, a Colombian man and a
+Venezuelan woman. [@1,3,4,5] Marine Infantry Brigade No. 5 and Riverine Battalion No.
 50 detected the boat in a joint operation with the Army, the Air Force and the
 National Police. [@2,4] The two detainees were placed at the disposal of the
 judicial authorities to define their legal situation. [@2]
 
 Inspectors found packages with characteristics of illicit substances hidden in a
-double bottom fitted inside the boat. [@1,4] The boat, its occupants and the
+double bottom fitted inside the boat. [@1,4,5] The boat, its occupants and the
 seized material were taken to El Coco in Inírida, Guainía, where Technical
 Investigation Corps officers confirmed through preliminary identification
 testing that it was marijuana. [@1,3] The final weighing gave 728.2 kilograms of
-marijuana seized by the Navy on the Orinoco River in Vichada. [@1,3,4] The Navy said
+marijuana seized by the Navy on the Orinoco River in Vichada. [@1,3,4,5] The Navy said
 the operation prevented about 7.6 million dollars in income to drug trafficking
-groups and the distribution of more than 120,000 doses of marijuana. [@1,4]
+groups and the distribution of more than 120,000 doses of marijuana. [@1,4,5]
 
 Intelligence linked the load presumptively to the illicit finances of residual
-organized armed group structure 53 Edison Umaña of the Segunda Marquetalia. [@1,3]
+organized armed group structure 53 Edison Umaña of the Segunda Marquetalia. [@1,3,5]
 The load was bound first for Venezuela, where trafficking networks would use
 clandestine airstrips to move it onward to Central America and the United
-States. [@1,3,4] The Navy said rivers like the Orinoco let illegal groups move loads
+States. [@1,3,4,5] The Navy said rivers like the Orinoco let illegal groups move loads
 in hard-to-reach areas near the border. [@2]
 
 The interception at Zama was carried out jointly by the Navy, the Army, the Air Force and the National Police, which captured the two crew members. [@3]
