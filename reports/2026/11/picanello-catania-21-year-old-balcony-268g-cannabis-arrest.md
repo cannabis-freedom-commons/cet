@@ -60,28 +60,40 @@ sources:
     publisher: NewSicilia
     date: 2026-11-15
     language: it
+  - title: 'VEDE I POLIZIOTTI E LANCIA LA DROGA DAL BALCONE: 21ENNE ARRESTATO IN FLAGRANZA DALLA POLIZIA DI STATO. IN CASA AVEVA MARIJUANA E HASHISH - Questura di Catania | Polizia di Stato'
+    url: https://questure.poliziadistato.it/it/Catania/articolo/33656afaeb4a90f38559278083
+    publisher: Questura di Catania
+    date: 2026-11-16
+    language: it
 media:
   - kind: video
     url: https://newsicilia.it/catania/cronaca/catania-vede-la-polizia-e-lancia-la-droga-dal-balcone-arrestato-21enne-a-picanello/1124701/
     media_url: https://www.youtube.com/watch?v=8xsoH-UE5CU
     publisher: NewSicilia
     caption: 'Video of the Picanello episode in which the young man throws drugs from the balcony. Video: NewSicilia'
+  - kind: video
+    url: https://questure.poliziadistato.it/it/Catania/articolo/33656afaeb4a90f38559278083
+    media_url: https://www.youtube.com/watch?v=BLnKr2loGW8
+    publisher: Questura di Catania
+    caption: 'Video embedded on the Questura page for the Picanello balcony arrest and seizure. Video: Questura di Catania'
+open_questions:
+    - The Questura statement is dated 16 November 2026, one day after the three outlet reports dated 15 November 2026, and gives no separate date for the raid itself.
 ---
 
 A 21-year-old man from Catania was arrested by officers of the Catania police
-flying squad for possessing drugs with intent to deal. [@1,2,3] The episode took
+flying squad for possessing drugs with intent to deal. [@1,2,3,4] The seizure and arrest were carried out by officers of the fourth investigative section “Contrasto al Crimine Diffuso”. [@4] The episode took
 place in the Picanello neighbourhood during a targeted anti-drug-dealing
-operation. [@1,2] Seeing officers below his home, the young man tried to get rid
-of the drugs by throwing them from the balcony. [@1,2]
+operation. [@1,2,4] Seeing officers below his home, the young man tried to get rid
+of the drugs by throwing them from the balcony. [@1,2,4]
 
 He threw into the street a pouch containing 200 grams of marijuana and 25 grams
-of hashish, which officers recovered and seized. [@1,2,3] Officers then went up to
+of hashish, which officers recovered and seized. [@1,2,3,4] Officers then went up to
 the flat and searched every room, finding material for weighing and packaging
-doses. [@1] In a pot on the kitchen worktop they found two more packs of
-marijuana weighing 32 grams in total. [@1,2,3] In a storage closet they found a jar
+doses. [@1,4] In a pot on the kitchen worktop they found two more packs of
+marijuana weighing 32 grams in total. [@1,2,3,4] In a storage closet they found a jar
 with 10 grams of marijuana and a baking-paper wrap with 1.2 grams of hashish.
-[@1,3] In the bedroom nightstand there were 350 euros in cash, considered proceeds
-of the dealing activity. [@1,2,3]
+[@1,3,4] In the bedroom nightstand there were 350 euros in cash, considered proceeds
+of the dealing activity. [@1,2,3,4]
 
 On the orders of the duty prosecutor at the Catania court, the 21-year-old was
-placed under house arrest at his home to await a fast-track trial. [@1,2,3]
+placed under house arrest at his home to await a fast-track trial. [@1,2,3,4]
