@@ -86,25 +86,30 @@ sources:
     publisher: 日テレNEWS NNN
     date: 2026-11-17
     language: ja
+  - title: 東京地検「諸般の事情を考慮」 スケボー青木勇貴斗を不起訴
+    url: https://topics.smt.docomo.ne.jp/amp/article/zak2/entertainment/zak2-57JKGAMKB5GHJGRAJ4LTITU6DE
+    publisher: ZAKⅡ
+    date: 2026-11-17
+    language: ja
 open_questions:
     - No figure for the weight of the dried cannabis was published; the sources describe it only as a trace amount.
 ---
 
 Yukito Aoki, aged 23, represented Japan in men's street skateboarding at the
 Tokyo Olympics and is the skateboarder who was referred to prosecutors in this
-cannabis possession case. [@2,3,7,8,9] The Tokyo Metropolitan Police sent his case to
+cannabis possession case. [@2,3,7,8,9,11] The Tokyo Metropolitan Police sent his case to
 prosecutors on suspicion that he had possessed cannabis in violation of the
 Narcotics Control Law. [@1,4,5] The Tokyo District Public Prosecutors Office closed
 the matter by deciding not to prosecute him, with the decision dated 16 November
-2026. [@1,3,4,5,6,7,8,9,10] The prosecutors said the reason for the decision was consideration of various circumstances. [@3,7,9,10]
+2026. [@1,3,4,5,6,7,8,9,10,11] The prosecutors said the reason for the decision was consideration of various circumstances. [@3,7,9,10]
 
 The underlying allegation was that Aoki possessed a small amount of dried
 cannabis on 6 August inside the JR Shin-Kiba Station premises in Koto Ward,
-Tokyo. [@2,4,6,7] Patrolling police officers discovered the cannabis when they stopped
+Tokyo. [@2,4,6,7,11] Patrolling police officers discovered the cannabis when they stopped
 him for questioning inside the station premises, after which he admitted that he
 had possessed it. [@2]
 
 The procedure used was a papers-only referral, by which police send the case
-documents to prosecutors for a charging decision. [@1] The station premises
+documents to prosecutors for a charging decision. [@1] He was not arrested and remained at home while under investigation. [@11] The station premises
 where the cannabis was allegedly found are located in Koto Ward in eastern
 Tokyo. [@2]
