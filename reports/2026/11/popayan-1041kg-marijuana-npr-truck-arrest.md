@@ -45,6 +45,11 @@ media:
     media_url: https://www.semana.com/resizer/v2/32BPOOVHFZHT7MEU44KYKWHLVA.jpeg?auth=a344a8e774738ceeb3eb0fed01bf8abdf8b903eaa99042d59880e8a46bf21446&width=1600&height=1200
     publisher: Semana
     caption: 'Seized marijuana packages from the 1,041 kg Popayán seizure laid out for display. Photo: Ejército Nacional'
+  - kind: photo
+    url: https://caracol.com.co/2026/11/17/en-popayan-frenan-el-envio-de-mas-de-52-mil-dosis-de-marihuana-al-brasil/
+    media_url: https://caracol.com.co/resizer/v2/Y4Z7IPF5LJENLMV2W2SVRNDHNU.jpeg?auth=3306f5e18d28719441549ebb3e6b21e168cd4aee218f065a95435ea2d8c32489&quality=70&width=768&height=576&smart=true
+    publisher: Caracol Radio
+    caption: 'Seized marijuana, the detained driver and the truck placed at the disposal of the authorities. Photo: Ejército Nacional'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ce879e9c1618959a5c25dd958e5283e1
@@ -90,6 +95,11 @@ sources:
     publisher: ELHERALDO.CO
     date: 2026-11-16
     language: es
+  - title: En Popayán frenan el envío de más de 52 mil dosis de marihuana al Brasil
+    url: https://caracol.com.co/2026/11/17/en-popayan-frenan-el-envio-de-mas-de-52-mil-dosis-de-marihuana-al-brasil/
+    publisher: Caracol Radio
+    date: 2026-11-17
+    language: es
 open_questions:
   - The same page also states that 1,700 kilograms of pressed marijuana were found in the vehicle and quotes Colonel Juan Camilo Vela on 1,700 kilos taken out of circulation, contradicting its own 1,041-kilogram account used here.
   - The same page puts the economic impact on the Dagoberto Ramos Ortiz structure at more than 425 million pesos, differing from the about 1,050 million pesos already recorded from Army accounts.
@@ -99,16 +109,16 @@ open_questions:
 Troops of Anti-Narcotics Battalion No. 2 carried out a ground interdiction
 against a motor vehicle in a rural area of Popayán, Cauca. [@1,7] Officers found
 1,041 kilograms of marijuana hidden inside an NPR-type truck during the check.
-[@1,3,4,5,6,7,8] The driver ignored the stop signal and fled, prompting a motorized pursuit until troops intercepted the vehicle. [@6] Troops at a 29th Brigade road checkpoint detected the suspicious van-type truck and signalled it to stop. [@6] Officers arrested the driver of the vehicle at the scene. [@1,3,4,5,6,7,8] The seized
+[@1,3,4,5,6,7,8,9] The driver ignored the stop signal and fled, prompting a motorized pursuit until troops intercepted the vehicle. [@6] Troops at a 29th Brigade road checkpoint detected the suspicious van-type truck and signalled it to stop. [@6] Officers arrested the driver of the vehicle at the scene. [@1,3,4,5,6,7,8,9] The seized
 load, the immobilized vehicle and the detained man were placed at the disposal
 of the judicial authorities for prosecution for alleged drug trafficking,
 manufacture or possession. [@2,3]
 
 Military intelligence linked the load to the Dagoberto Ramos structure of the
-FARC dissidents. [@2,3,4,5,6,7,8] Intelligence indicated the drug was first bound for Puerto
-Asís, Putumayo. [@1,3,4,5,6,7,8] From Puerto Asís the load was to be moved by river launches
-toward Brazil. [@1,3,4,5,6,7,8]
+FARC dissidents. [@2,3,4,5,6,7,8,9] Intelligence indicated the drug was first bound for Puerto
+Asís, Putumayo. [@1,3,4,5,6,7,8,9] From Puerto Asís the load was to be moved by river launches
+toward Brazil. [@1,3,4,5,6,7,8,9]
 
 Authorities estimated the seizure equalled about 52,050 doses for illegal
-markets. [@1,4,5,7,8] The Army put the economic impact on that structure at about 1,050
-million pesos. [@2,7,8]
+markets. [@1,4,5,7,8,9] The Army put the economic impact on that structure at about 1,050
+million pesos. [@2,7,8,9]
