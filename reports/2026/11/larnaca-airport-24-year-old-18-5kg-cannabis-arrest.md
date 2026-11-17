@@ -115,18 +115,19 @@ sources:
     publisher: Cyprus Inform
     date: 2026-11-17
     language: ru
-open_questions:
-    - No charge has been filed and no trial date was reported; the 24-year-old was remanded in custody for eight days on 17 November 2026.
-    - No value estimate for the seized cannabis was published.
-    - The reports do not say where in Cyprus the cannabis was to be delivered or who was to receive it.
+  - title: Υπό 8ήμερη κράτηση 24χρονος - Ήρθε Λάρνακα με 18,5 κιλά κάνναβης
+    url: https://www.24sports.com.cy/gr/news/nea/egklima/ypo-8imeri-kratisi-24xronos-irthe-larnaka-me-18-5-kila-kannabis
+    publisher: 24sports.com.cy
+    date: 2026-11-17
+    language: el
 ---
 
 A 24-year-old man was arrested at Larnaca airport on Monday morning after about
 18.5 kilograms of cannabis were found in his luggage on his arrival from a
-non-EU country. [@1,5,6,11] The Cyprus Mail described the 24-year-old as a British
+non-EU country. [@1,5,6,11,12] The Cyprus Mail described the 24-year-old as a British
 national. [@2] It reported that he had arrived at Larnaca from Bangkok by way of
 Doha. [@2] He was arrested on the spot for illegal import, illegal possession
-and possession of drugs with intent to supply. [@1,4,5,7,9,10,11] He was expected to appear before Larnaca District Court on Tuesday for a remand order. [@6] On 17 November 2026 Larnaca district court remanded the 24-year-old in custody for eight days. [@9]
+and possession of drugs with intent to supply. [@1,4,5,7,9,10,11,12] He was expected to appear before Larnaca District Court on Tuesday for a remand order. [@6] On 17 November 2026 Larnaca district court remanded the 24-year-old in custody for eight days. [@9,12]
 
 Acting on information evaluated by the Directorate for Combating Organised Crime
 (DAOE) and the Anti-Drugs Unit (YKAN), a customs officer stopped the man for a
@@ -134,6 +135,6 @@ check at the request of a YKAN officer. [@1,4,5,7,10,11] A search of his travel 
 plastic packages containing cannabis with a total weight of about 18.5
 kilograms. [@1,4,5,6,7,10,11] Members of DAOE-YKAN, in cooperation with the customs
 authorities, found and seized approximately 18.5 kilos of cannabis at Larnaca
-airport on 16 November 2026. [@3,4,7,8,10,11] The same account said the offences were
+airport on 16 November 2026. [@3,4,7,8,10,11,12] The same account said the offences were
 treated as committed in flagrante delicto. [@3] DAOE and YKAN are continuing
-their investigation in cooperation with the customs authorities. [@1,4,7,9,11]
+their investigation in cooperation with the customs authorities. [@1,4,7,9,11,12]
