@@ -56,12 +56,11 @@ sources:
     publisher: Komenda Powiatowa Policji w Lubartowie
     date: 2026-11-16
     language: pl
-open_questions:
-  - No weight for the seized marijuana was published, only a count of nearly 1,700 dealer portions, so no kilogram figure is given.
-  - 13 November 2026 is inferred as the search date because both sources describe the search as taking place on the previous Friday before their 16 and 17 November 2026 publications.
-  - The police lead says over 1,700 portions while its body and the outlet say nearly 1,700; the report uses the nearly-1,700 figure from the detailed account.
-  - No plea, detention measure or court outcome beyond the charge was reported.
-  - Both accounts rest on the same Lubartów police statement and are not independent reporting.
+  - title: 28-latek zatrzymany za posiadanie znacznych ilości narkotyków
+    url: https://lubartow24.pl/informacje/lokalne_128587_28-latek-zatrzymany-za-posiadanie-znacznych-ilosci-narkotykow.html
+    publisher: Lubartow24.pl
+    date: 2026-11-17
+    language: pl
 ---
 
 Lubartów criminal investigators said their own findings and the information
@@ -75,10 +74,9 @@ possessing a significant quantity of narcotic drugs. [@2]
 
 In the searched room, officers found dried plant material packed in a foil bag.
 [@2] Officers found the dried plant material in one room, packed in a foil bag
-and five plastic jars. [@1] Analysis of the secured material with a drug tester
+and five plastic jars. [@1,3] Analysis of the secured material with a drug tester
 established with certainty that it was prohibited marijuana. [@2] Police said
 the total seizure amounted to nearly 1,700 dealer portions of marijuana. [@2]
 
 Police said the charge of possessing a significant quantity of intoxicants is
-punishable by up to 10 years' imprisonment. [@2]
-
+punishable by up to 10 years' imprisonment. [@2,3]
