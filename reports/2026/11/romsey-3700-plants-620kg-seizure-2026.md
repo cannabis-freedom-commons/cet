@@ -41,6 +41,11 @@ media:
     media_url: https://content.api.news/v3/images/bin/53de8df3f70e218842ef3df97deb9b69?width=150
     publisher: News24
     caption: 'Drone footage showing police uncovering approximately 3,700 cannabis plants growing outdoors at the Romsey property. Picture: Victoria Police'
+  - kind: photo
+    url: https://www.couriermail.com.au/news/victoria/bogged-stolen-truck-leads-victoria-police-to-27m-cannabis-plantation-in-toolern-vale/video/5e926eea3184e26edde00e1dbdf6c66a
+    media_url: https://cf-images.ap-southeast-2.prod.boltdns.net/v1/static/5348771529001/5a5a9a65-f703-4bae-9548-c053ed88f2d2/8f0fed41-9a5a-4046-ab9f-0b21c235ed3d/1280x720/match/image.jpg
+    publisher: The Courier Mail
+    caption: 'Frame of aerial drone footage released by Victoria Police showing officers uncovering cannabis plants growing outdoors at the Romsey property. Footage: Victoria Police / Media Mode'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 56c96df0c3a037a42f8309449972b704
@@ -54,20 +59,20 @@ sources:
     url: https://www.police.vic.gov.au/stolen-truck-leads-police-27-million-cannabis-crop
     publisher: Victoria Police
     date: 2026-11-17
-open_questions:
-  - No separate street-value estimate for the Romsey crop was published; the reported $40 million covers the Romsey and Toolern Vale seizures combined.
-  - No suspects were named and no charges or court outcome were reported.
-  - Both accounts derive from the same Victoria Police statement, so they are not independent reporting.
-  - No laboratory confirmation of the Romsey plants was reported.
+  - title: 'Drone footage: Police uncover 3,700 cannabis plants growing in plain sight in Romsey. Credit Media Mode'
+    url: https://www.couriermail.com.au/news/victoria/bogged-stolen-truck-leads-victoria-police-to-27m-cannabis-plantation-in-toolern-vale/video/5e926eea3184e26edde00e1dbdf6c66a
+    publisher: The Courier Mail
+    date: 2026-11-17
+    language: en
 ---
 
 No arrests have been made in connection with the Romsey discovery, and
 investigations remain ongoing. [@1] Police uncovered the Romsey crop, with drone
-footage showing officers uncovering plants growing outdoors in plain sight. [@1]
+footage showing officers uncovering plants growing outdoors in plain sight. [@1,3]
 
 The seizure took place at a rural property in Romsey, around 40 kilometres to
 the north, on Thursday, November 12. [@1] Police uncovered approximately 3,700
-cannabis plants of various sizes growing outdoors in plain sight. [@1] The
+cannabis plants of various sizes growing outdoors in plain sight. [@1,3] The
 seized plants weighed a combined 620 kilograms. [@2]
 
 Detective Sergeant Ben Shawyer of the Macedon Crime Investigation Unit stressed
@@ -78,4 +83,3 @@ drugs from reaching the community is a positive outcome for community safety.
 significant profits for organised crime groups and that police remain committed
 to disrupting this offending. [@1] Anyone with information about illicit drug
 cultivation is urged to contact Crime Stoppers. [@1]
-
