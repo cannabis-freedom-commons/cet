@@ -54,6 +54,11 @@ sources:
     publisher: Press Trust of India (via MSN)
     date: 2026-11-17
     language: en
+  - title: How IGI Customs Uncovered Rs 3.37 Crore Smuggling Ring
+    url: https://www.rediff.com/news/report/customs-seize-luxury-watch-ganja-worth-crores-at-igi/20261117.htm
+    publisher: Rediff.com
+    date: 2026-11-17
+    language: en
 open_questions:
     - The Live Hindustan headline gives the ganja value as Rs 24.34 lakh, while its body and the PTI account both put it at about Rs 2.43 crore; the report uses Rs 2.43 crore.
     - No name, age, nationality or flight number for the arrested Bangkok passenger was published; PTI identifies him only as a male passenger.
@@ -73,10 +78,10 @@ passenger was arrested on 11 November under the NDPS Act. [@1] Both passengers
 in the two cases were arrested. [@1]
 
 Officers found seven polythene pouches concealed in the passenger's yellow
-trolley bag. [@1,2] Testing confirmed the pouches held ganja. [@1,2] Its total net
-weight was 6,955 grams. [@1,2] Customs put its estimated value at about Rs 2.43
-crore. [@1,2] Officers also seized the concealment and packing material used for
-the ganja. [@1,2]
+trolley bag. [@1,2,3] Testing confirmed the pouches held ganja. [@1,2,3] Its total net
+weight was 6,955 grams. [@1,2,3] Customs put its estimated value at about Rs 2.43
+crore. [@1,2,3] Officers also seized the concealment and packing material used for
+the ganja. [@1,2,3]
 
 Customs said its investigation in the cases was continuing. [@1] The same report
 separately describes a used luxury Patek Philippe Aquanaut watch said to be
