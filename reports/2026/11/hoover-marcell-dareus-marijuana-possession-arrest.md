@@ -47,12 +47,17 @@ sources:
     url: https://www.tmz.com/2026/11/16/ex-bills-marcell-dareus-arrested-for-allegedly-assaulting-police-officer/
     publisher: TMZ
     date: 2026-11-16
+  - title: Former NFL Star's Shocking Mugshot After Assault Arrest
+    url: https://www.chosun.com/english/sports-en/2026/11/17/IIHY564EWNH4DPB6V7SBG57PI4/
+    publisher: The Chosun Daily
+    date: 2026-11-17
+    language: en
 open_questions:
-  - No weight or form was published for the marijuana, so no cannabis quantity is recorded.
-  - The marijuana was described only as found in his possession; no laboratory confirmation was reported.
-  - The bond amount and conditions of his release were not reported.
-  - No plea, court date or other outcome beyond the charges and release on bond was reported.
-  - Both reports derive from the Hoover Police Department's account, so they are not independent reporting.
+    - No weight or form was published for the marijuana, so no cannabis quantity is recorded.
+    - The marijuana was described only as found in his possession; no laboratory confirmation was reported.
+    - The bond amount and conditions of his release were not reported.
+    - No plea, court date or other outcome beyond the charges and release on bond was reported.
+    - The accounts derive from the Hoover Police Department's statement, including this translated account of the New York Post story, so they are not independent reporting.
 media:
   - kind: photo
     url: https://www.tmz.com/2026/11/16/ex-bills-marcell-dareus-arrested-for-allegedly-assaulting-police-officer/
@@ -64,16 +69,16 @@ media:
 A Hoover traffic stop involved former Alabama and Huffman High football player
 Marcell Shintun Dareus. [@1] An officer stopped Dareus, 36, of Hoover, in the
 early morning hours of 14 November after seeing his vehicle driving erratically
-near John Hawkins Parkway and Lake Cyrus Boulevard. [@1] Police said Dareus was
-noncompliant, assaulted an officer and then drove away. [@1,3] Officers pursued
+near John Hawkins Parkway and Lake Cyrus Boulevard. [@1,4] Police said Dareus was
+noncompliant, assaulted an officer and then drove away. [@1,3,4] Officers pursued
 him a short distance to his residence, where he resisted arrest before being
-taken into custody. [@1]
+taken into custody. [@1,4]
 
-Police said he was found with marijuana. [@1,3] Dareus was charged with
+Police said he was found with marijuana. [@1,3,4] Dareus was charged with
 second-degree aggravated assault, second-degree marijuana possession, resisting
-arrest and attempting to elude a police officer. [@1,3] He was released on bond
-that night. [@1,3] One Hoover police officer was taken to the hospital for a minor
-injury. [@2,3]
+arrest and attempting to elude a police officer. [@1,3,4] He was released on bond
+that night. [@1,3,4] One Hoover police officer was taken to the hospital for a minor
+injury. [@2,3,4]
 
 The Hoover Police Department said an officer pulled Dareus over early Saturday
 morning for driving erratically on John Hawkins Parkway and Lake Cyrus
