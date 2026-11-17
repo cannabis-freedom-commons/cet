@@ -140,21 +140,26 @@ sources:
     publisher: Diario del Cauca
     date: 2026-11-17
     language: es
+  - title: Incautan en el país una tonelada de marihuana que iba rumbo a Brasil escondida en un camión
+    url: https://www.chicanoticias.com/2026/11/17/marihuana-rumbo-a-brasil/
+    publisher: Chicanoticias
+    date: 2026-11-17
+    language: es
 ---
 
 Troops of Anti-Narcotics Battalion No. 2 carried out a ground interdiction
 against a motor vehicle in a rural area of Popayán, Cauca. [@1,7,10,13,14] Officers found
 1,041 kilograms of marijuana hidden inside an NPR-type truck during the check.
-[@1,3,4,5,6,7,8,9,10,11,12,13,14] The load was hidden beneath the floor of the truck and in internal compartments of the vehicle. [@11,13] The driver ignored the stop signal and fled, prompting a motorized pursuit until troops intercepted the vehicle. [@6] Troops at a 29th Brigade road checkpoint detected the suspicious van-type truck and signalled it to stop. [@6] Officers arrested the driver of the vehicle at the scene. [@1,3,4,5,6,7,8,9,10,11,12,13,14] The seized
+[@1,3,4,5,6,7,8,9,10,11,12,13,14] The load was hidden beneath the floor of the truck and in internal compartments of the vehicle. [@11,13] The driver ignored the stop signal and fled, prompting a motorized pursuit until troops intercepted the vehicle. [@6] Troops at a 29th Brigade road checkpoint detected the suspicious van-type truck and signalled it to stop. [@6] Officers arrested the driver of the vehicle at the scene. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15] The seized
 load, the immobilized vehicle and the detained man were placed at the disposal
 of the judicial authorities for prosecution for alleged drug trafficking,
 manufacture or possession. [@2,3,11]
 
 Military intelligence linked the load to the Dagoberto Ramos structure of the
-FARC dissidents. [@2,3,4,5,6,7,8,9,10,11,13] Intelligence indicated the drug was first bound for Puerto
+FARC dissidents. [@2,3,4,5,6,7,8,9,10,11,13,15] The structure was linked to alias 'Iván Mordisco'. [@15] Intelligence indicated the drug was first bound for Puerto
 Asís, Putumayo. [@1,3,4,5,6,7,8,9,10,11,12,13] From Puerto Asís the load was to be moved by river launches
 toward Brazil. [@1,3,4,5,6,7,8,9,10,11,12,13]
 
 Authorities estimated the seizure equalled about 52,050 doses for illegal
 markets. [@1,4,5,7,8,9,10,11,12,13] The Army put the economic impact on that structure at about 1,050
-million pesos. [@2,7,8,9,10,11,12,13]
+million pesos. [@2,7,8,9,10,11,12,13,15]
