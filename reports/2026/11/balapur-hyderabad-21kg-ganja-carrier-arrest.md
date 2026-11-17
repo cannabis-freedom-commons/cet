@@ -80,12 +80,11 @@ sources:
     url: https://newsmeter.in/crime/hyderabad-pan-shop-workers-odisha-trip-ends-with-21-kg-ganja-haul-worth-rs-105-lakh-779489
     publisher: NewsMeter
     date: 2026-11-17
-open_questions:
-    - Whether the 21 kg was laboratory-confirmed as cannabis was not reported.
-    - The Rs 10.50 lakh figure is the police valuation, not an independently verified market price.
-    - No court outcome, detention measure or plea was reported.
-    - 'The accounts disagree on the day of the arrest: one outlet reported the seizure on 16 November 2026, while Telangana Today says the arrest was made on Tuesday 17 November 2026.'
-    - Accounts place the alleged main accused's Bawazeer Colony address in Balapur, while another outlet gave it as Ambedkar Nagar, Kothapet.
+  - title: హైదరాబాద్‌లో అంతర్రాష్ట్ర గంజాయి రవాణా ముఠా గుట్టురట్టు | hyderabad interstate ganja smuggling 1 arrested
+    url: https://www.andhrajyothy.com/2026/telangana/hyderabad/hyderabad-interstate-ganja-smuggling-1-arrested-1577198.html
+    publisher: Andhrajyothy
+    date: 2026-11-17
+    language: te
 media:
   - kind: photo
     url: https://hyderabadmail.com/hyderabad-man-arrested-21-kg-ganja-odisha/
@@ -105,8 +104,8 @@ media:
 ---
 
 Charminar Task Force and Balapur police jointly exposed an interstate gang
-smuggling ganja from Odisha into Hyderabad. [@1,2,4,5,6,9] The operation seized 21 kg of
-dry ganja valued at Rs 10.50 lakh and arrested the courier transporting it. [@1,2,3,4,6,7,8,9] The arrested man was identified as Ahmed Emad Mohamed alias Ahmed. [@2,3,4,5,6,7,8,9] Police arrested him at his residence in Abu Bakar Colony, Balapur. [@2,5,7,9] Police said the arrest at his residence followed a tip-off. [@7,9] He was 20 years old. [@2,3,6,7,9] Police seized the 21 kg consignment, worth an estimated Rs 10.5 lakh, on November 16. [@2,7]
+smuggling ganja from Odisha into Hyderabad. [@1,2,4,5,6,9,10] The operation seized 21 kg of
+dry ganja valued at Rs 10.50 lakh and arrested the courier transporting it. [@1,2,3,4,6,7,8,9,10] The arrested man was identified as Ahmed Emad Mohamed alias Ahmed. [@2,3,4,5,6,7,8,9] Police arrested him at his residence in Abu Bakar Colony, Balapur. [@2,5,7,9] Police said the arrest at his residence followed a tip-off. [@7,9] He was 20 years old. [@2,3,6,7,9] Police seized the 21 kg consignment, worth an estimated Rs 10.5 lakh, on November 16. [@2,7]
 The arrested accused had been posing as an ordinary worker in a pan shop in
 Shaheen Nagar before entering the trade to make quick money. [@1] Ahmed worked at Aina Pan Shop in Shaheen Nagar. [@2,3,4,9]
 
