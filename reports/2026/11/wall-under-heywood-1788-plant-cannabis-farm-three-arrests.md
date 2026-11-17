@@ -58,6 +58,11 @@ media:
     media_url: https://www.ludlowadvertiser.co.uk/resources/images/21716344.jpg?type=mds-article-962
     publisher: Ludlow Advertiser
     caption: 'Cannabis plants found during the Wall Under Heywood raid, described by police as more than 1,000 plants. Photo: West Mercia Police'
+  - kind: photo
+    url: https://www.aol.co.uk/articles/shock-1m-cannabis-farm-1-151900000.html
+    media_url: https://hermes.media.transform.aol.com/0b68baf203874264f87c1808127e8f3c20d8adb8/w_1200,c_scale,f_avif,q_auto/https://hermes.media.static.aol.com/media/2026/11/17/eeda07bb-d921-32c5-93c6-3aea4dc561cd/196c96c9-3fdb-470c-ae8f-b4747c6c96e7.jpg
+    publisher: AOL
+    caption: 'The huge cannabis haul seized at Wall Under Heywood. Photo: Shropshire Police'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8341b5b86d7a24228dd0f5fc6539feed
@@ -117,25 +122,26 @@ sources:
     url: https://www.msn.com/en-us/news/other/two-charged-after-police-uncover-1m-cannabis-farm/ar-AA2hDeoo
     publisher: MSN
     date: 2026-11-17
-open_questions:
-    - Police accounts give the estimated street value as both about £1 million and more than £1 million.
-    - Published accounts spell the first defendant's name as both Donjet Nika and Donset Hich.
+  - title: Shock as £1m cannabis farm with 1,788 plants found in picture-postcard English village
+    url: https://www.aol.co.uk/articles/shock-1m-cannabis-farm-1-151900000.html
+    publisher: AOL
+    date: 2026-11-17
 ---
 
 West Mercia Police raided a property in Wall Under Heywood, near Church Stretton
 in rural Shropshire, on Sunday, November 15. [@1,2,3,4,5,8,10,12,13] The cannabis farm was found in disused farm buildings. [@13] Officers from the South Shropshire Safer Neighbourhood Teams executed a warrant to enter the property. [@4,6,11] Officers found two men, both
 aged 35, inside the property and arrested them on suspicion of cultivating
-cannabis. [@1,2,3,4,5,6,7,8,11] A third man, aged 51, was also arrested on suspicion of the same
-offence. [@1,2,3,4,5,6,7,8,11] The 51-year-old was released on police bail. [@9,10,12,13] All three men remained in police custody on Monday, November 16,
+cannabis. [@1,2,3,4,5,6,7,8,11,14] A third man, aged 51, was also arrested on suspicion of the same
+offence. [@1,2,3,4,5,6,7,8,11,14] The 51-year-old was released on police bail. [@9,10,12,13] All three men remained in police custody on Monday, November 16,
 as enquiries continued. [@1,3,5,6,8] The two, Donset Hich and Illirjan Ramaj, both aged 35 and of no fixed abode, were remanded in custody and were due to appear at Telford Magistrates Court on Tuesday, November 17. [@9,10,12] They were remanded into custody to next appear at Shrewsbury Crown Court on 15 December. [@13] Two of the men have been charged with cultivating cannabis. [@9,10,12,13] The two men were charged with being concerned in the production of cannabis and producing a Class B drug, namely cannabis. [@13]
 
 Police seized 1,788 plants at various stages of growth, along with trays of buds
-ready for sale. [@1,3,4,6,8,10,11,12] In the footage an officer remarks on the heat inside the building as the camera lens fogs up. [@8] Police released bodyworn-camera video showing an officer shouting “confirmed grow” and pulling back a door covering to reveal a large room of maturing plants in orderly rows. [@8] The plants were growing in seven rooms at the address. [@1,2,3,4,6,7,8,10,11,12,13]
-Police put the grow's estimated street value at more than £1 million. [@1,2,3,4,5,6,8,10,11,12,13]
-Police said the electrics within the property had been tampered with. [@1,2,3,5,6,7,8,11,12]
+ready for sale. [@1,3,4,6,8,10,11,12,14] In the footage an officer remarks on the heat inside the building as the camera lens fogs up. [@8] Police released bodyworn-camera video showing an officer shouting “confirmed grow” and pulling back a door covering to reveal a large room of maturing plants in orderly rows. [@8] The plants were growing in seven rooms at the address. [@1,2,3,4,6,7,8,10,11,12,13,14]
+Police put the grow's estimated street value at more than £1 million. [@1,2,3,4,5,6,8,10,11,12,13,14]
+Police said the electrics within the property had been tampered with. [@1,2,3,5,6,7,8,11,12,14]
 
 Police linked the operation to Operation Conyay, its drive to disrupt organised
-criminality in local communities. [@1,4,6,8,10] Safer Neighbourhood Inspector Damien
+criminality in local communities. [@1,4,6,8,10,14] Safer Neighbourhood Inspector Damien
 Kelly said cannabis farms are often linked to wider criminal activity and can
 pose a serious fire risk to neighbouring properties where electricity supplies
-have been tampered with. [@1] Kelly said police were determined to make Shropshire a hostile environment for organised crime groups and would keep working to identify and dismantle cannabis grows. [@5,10]
+have been tampered with. [@1,14] Kelly said police were determined to make Shropshire a hostile environment for organised crime groups and would keep working to identify and dismantle cannabis grows. [@5,10]
