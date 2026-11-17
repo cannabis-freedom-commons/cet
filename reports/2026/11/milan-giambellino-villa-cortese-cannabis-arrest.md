@@ -67,27 +67,34 @@ sources:
     publisher: Il Notiziario
     date: 2026-11-17
     language: it
+  - title: 'Milano, fugge dalla polizia e getta droga e cellulare: sequestrati oltre 5 chili di marijuana'
+    url: https://www.ilgazzettinometropolitano.it/2026/11/17/milano-742/
+    publisher: Il Gazzettino Metropolitano
+    date: 2026-11-17
+    language: it
 open_questions:
     - 'The hashish amount remains approximate: the earlier account split it as 200 grams in blocks plus almost 100 grams in a jar, while this account gives about 300 grams in total.'
     - The 4 grams of cocaine thrown away during the flight are excluded from the cannabis figures.
     - No plea or court outcome beyond the arrest for possession of drugs for dealing was reported.
     - The Il Giorno, Sempione News and Il Notiziario accounts all reproduce the same police operation and are not independent reporting.
+    - Left out arrested, as no supporting quotation was given.
+    - Left out kg seized, as no supporting quotation was given.
 ---
 
 State Police officers arrested a 25-year-old Italian citizen with police priors
-in Milan for possession of drugs for dealing. [@1,2,3] Shortly before the arrest, at
+in Milan for possession of drugs for dealing. [@1,2,3,4] Shortly before the arrest, at
 about 22:40 on Sunday evening, patrol officers from the Porta Genova police
-station noticed the young man quicken his pace at the sight of their car. [@1]
+station noticed the young man quicken his pace at the sight of their car. [@1,4]
 Stopped for a check in Via Tito Vignoli, he said he was a guest of friends in
-the city and showed an identity document, then suddenly fled. [@1,2] While fleeing
+the city and showed an identity document, then suddenly fled. [@1,2,4] While fleeing
 he threw a mobile phone over the boundary wall of a courtyard in Via Vespri
 Siciliani and then a packet of drugs in Via Bruzzesi containing 4 grams of
-cocaine, 44 grams of hashish and 4 grams of marijuana. [@1,2,3]
+cocaine, 44 grams of hashish and 4 grams of marijuana. [@1,2,3,4]
 
 Officers caught and stopped him in Via Giambellino and, in the recovered phone,
-found images of household utility accounts for a home in Villa Cortese. [@1] In
+found images of household utility accounts for a home in Villa Cortese. [@1,4] In
 a later home search at that Villa Cortese address, officers found and seized a
-sports bag holding five bags of marijuana weighing 5.26 kg. [@1,2,3] In the same
+sports bag holding five bags of marijuana weighing 5.26 kg. [@1,2,3,4] In the same
 house they seized two blocks of hashish weighing 200 grams and a jar holding
-almost another 100 grams of hashish. [@1] They also seized mobile phones and
-packaging material at the house. [@1,3]
+almost another 100 grams of hashish. [@1,4] They also seized mobile phones and
+packaging material at the house. [@1,3,4]
