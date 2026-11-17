@@ -71,6 +71,11 @@ sources:
     publisher: Emisoras Unidas
     date: 2026-11-17
     language: es
+  - title: Mexicano es detenido en Guatemala con más de 100 dosis de droga y dinero en efectivo
+    url: https://latinus.us/latam/2026/11/16/mexicano-es-detenido-en-guatemala-con-mas-de-100-dosis-de-droga-y-dinero-en-efectivo-182631.html
+    publisher: LatinUS
+    date: 2026-11-16
+    language: es
 open_questions:
   - No breakdown was published for how many of the 50 cocaine-and-marijuana wrappers held marijuana, so no cannabis weight or package count can be recorded.
   - No weight, value or laboratory confirmation for the seized drugs was published.
@@ -81,15 +86,14 @@ open_questions:
 
 Agents of the SGAIA anti-narcotics unit of the National Civil Police, together
 with the Public Ministry, detained 31-year-old Mexican national Javier “N”
-during a search in zone 2 of Mazatenango, Suchitepéquez. [@1] Police said the
-man allegedly sold drugs retail in the area. [@3] Inside the searched building
+during a search in zone 2 of Mazatenango, Suchitepéquez. [@1,4] Police said the
+man allegedly sold drugs retail in the area. [@3,4] Inside the searched building
 officers found a drainage pipe hiding 100 small bags with crack rocks and 50
-other wrappers containing cocaine and marijuana. [@1] The official information
+other wrappers containing cocaine and marijuana. [@1,4] The official information
 did not specify how many of those 50 wrappers held cocaine and how many held
 marijuana, nor the total weight seized. [@1]
 
 In the drainage pipe officers found 100 bags with crack rocks, 50 wrappers with
-cocaine and marijuana, two mobile phones and Q1,400. [@2] The detainee and the
+cocaine and marijuana, two mobile phones and Q1,400. [@2,4] The detainee and the
 seized items were placed at the disposal of the competent authorities to
 continue the legal process. [@3]
-
