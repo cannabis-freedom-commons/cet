@@ -58,29 +58,28 @@ sources:
     publisher: Veto
     date: 2026-11-17
     language: ar
-open_questions:
-  - No weight was published for the seized hashish or hydro, so no cannabis weight is recorded.
-  - The defendants were identified only by initials and occupations, not full names.
-  - Whether the death sentences are final or subject to appeal was not reported.
-  - No arrest dates or detention details were published beyond the 13 October 2025 offence date.
-  - The seized phones and cash amounts were not counted in the figures.
+  - title: جنايات الجيزة تقضي بإعدام 3 متهمين في قضية "الهيدرو والحشيش" بالدقي | مصراوي
+    url: https://www.masrawy.com/news/news_cases/details/2026/11/17/3080012/%D8%AC%D9%86%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9-%D8%AA%D9%82%D8%B6%D9%8A-%D8%A8%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-3-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%8A%D8%AF%D8%B1%D9%88-%D9%88%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A8%D8%A7%D9%84%D8%AF%D9%82%D9%8A
+    publisher: Masrawy
+    date: 2026-11-17
+    language: ar
 ---
 
 The Giza Criminal Court unanimously sentenced the three defendants to death by
-hanging. [@1] The court issued the ruling after receiving the religious opinion
-of the Mufti in the case. [@1] Presiding judge Abdel Aziz Mohamed Habib issued
+hanging. [@1,4] The court issued the ruling after receiving the religious opinion
+of the Mufti in the case. [@1,4] Presiding judge Abdel Aziz Mohamed Habib issued
 the ruling in case 12411 of 2025 for Dokki felonies. [@1] The three defendants
 were identified as Hussein A., a contractor, Mahmoud E., a contractor, and
-Shazly A., a worker. [@2]
+Shazly A., a worker. [@2,4]
 
 Prosecutors said that on 13 October 2025, in the Dokki district of Giza and
 Hurghada in the Red Sea, the men formed a gang led by the first defendant to
 trade and promote narcotic drugs. [@1] They were convicted of possessing hashish
 and hydro cannabis plant with intent to traffic. [@1] Searching the first
 defendant's car, forces found eight plastic sacks containing 1,154 slabs of
-hashish, a 12mm shotgun and seven live rounds. [@1] Searching the car the third
+hashish, a 12mm shotgun and seven live rounds. [@1,4] Searching the car the third
 defendant was using, forces found 12 plastic sacks with 1,054 large pieces of
-hashish and 50 sacks of hydro cannabis plant. [@1]
+hashish and 50 sacks of hydro cannabis plant. [@1,4]
 
 The chemical laboratory report confirmed the brown substance was scheduled
 hashish and the dry green plant parts were narcotic cannabis plant. [@1]
@@ -89,4 +88,3 @@ distribute the drugs to wholesale and semi-wholesale dealers. [@1]
 
 The court convicted the two contractors and the seaman of forming a gang to
 traffic cannabis plant, hashish and hydro in Dokki and Hurghada. [@3]
-
