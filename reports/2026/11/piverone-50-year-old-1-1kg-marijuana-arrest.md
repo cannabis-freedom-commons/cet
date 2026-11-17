@@ -48,6 +48,11 @@ sources:
     publisher: QC Quotidiano del Canavese
     date: 2026-11-17
     language: it
+  - title: Barattoli, etichette e infusi. A Piverone scoperta la droga "gran riserva"
+    url: https://www.rainews.it/amp/tgr/piemonte/articoli/2026/11/barattoli-etichette-e-in-infusi-a-piverone-scoperta-la-droga-gran-riserva-cfea69c2-64dd-4031-a614-35106d6f0101.html
+    publisher: RaiNews (TGR Piemonte)
+    date: 2026-11-17
+    language: it
 open_questions:
   - The article says the stop happened only as 'l'altro giorno' relative to its 17 November 2026 publication, so 15 November 2026 is used as an approximate incident date.
   - The amount is stated as 'over 1.1 kilograms' of marijuana rather than an exact measured weight, plus six grams of hashish; the three infusion bottles and tincture bottle had no stated weight and are excluded from the kilogram figure.
@@ -55,24 +60,29 @@ open_questions:
   - The materials are described as marijuana, hashish and cannabis tincture with no laboratory confirmation reported.
   - No plea, charge outcome or later court result was reported.
   - The account rests on a single opened source; no second report of the event was available.
+media:
+  - kind: photo
+    url: https://www.rainews.it/amp/tgr/piemonte/articoli/2026/11/barattoli-etichette-e-in-infusi-a-piverone-scoperta-la-droga-gran-riserva-cfea69c2-64dd-4031-a614-35106d6f0101.html
+    media_url: https://www.rainews.it/dl/img/2026/11/17/1794903816005_Carabinieri_droga.jpeg
+    publisher: RaiNews (TGR Piemonte)
+    caption: 'Two Carabinieri officers with the jars and packages of seized drugs recovered in the Piverone search. Photo: Carabinieri'
 ---
 
 Carabinieri officers from the Ivrea mobile radio section, assisted by colleagues
 from Azeglio, arrested a 50-year-old unemployed Piverone resident on accusations
 of possessing drugs for dealing purposes. [@1] Officers stopped the man at Ivrea
-railway station after noticing him moving suspiciously along the tracks. [@1]
+railway station after noticing him moving suspiciously along the tracks. [@1,2]
 When asked for identification, the man appeared agitated and nervous and tried
-to hide a small container in his jacket pocket. [@1]
+to hide a small container in his jacket pocket. [@1,2]
 
 The subsequent search recovered a glass jar containing several grams of
-marijuana and 170 euros in cash from his wallet. [@1] As is standard practice,
+marijuana and 170 euros in cash from his wallet. [@1] The jar recovered in the personal search contained 3 grams of marijuana. [@2] As is standard practice,
 officers then extended the checks to his home in Piverone. [@1] There they found
 a large stock of drugs, partly already divided into glass jars and containers
 labelled by type and quality. [@1]
 
 In total officers recovered and seized over 1.1 kilograms of marijuana, three
 bottles of marijuana infusing in presumably alcoholic substances, one small
-bottle of cannabis tincture, six grams of hashish and a precision scale. [@1]
+bottle of cannabis tincture, six grams of hashish and a precision scale. [@1,2]
 The man was arrested and taken to prison on the orders of the Ivrea prosecutor's
-office. [@1]
-
+office. [@1,2]
