@@ -59,12 +59,17 @@ sources:
     url: https://blackchronicle.com/west-coast-pacific/california/bonta-announces-cannabis-busts-critics-cite-black-market/
     publisher: The Black Chronicle
     date: 2026-11-17
+  - title: California Removes Nearly 1 Million Illegal Cannabis Plants
+    url: https://www.ntd.com/ntdplus/california-removes-nearly-1-million-illegal-cannabis-plants_1185734.html
+    publisher: NTD
+    date: 2026-11-17
+    language: en
 ---
 
 On November 16, 2026 Attorney General Rob Bonta announced that the Eradication
 and Prevention of Illicit Cannabis (EPIC) program eradicated nearly one million
 illegally cultivated cannabis plants and made 221 arrests across 22 California
-counties in 2026. [@2,4,5,6,7] The results came from the state's Eradication and
+counties in 2026. [@2,4,5,6,7,8] The results came from the state's Eradication and
 Prevention of Illicit Cannabis (EPIC) program, which brings together local,
 state and federal law enforcement agencies. [@1,4,6]
 
