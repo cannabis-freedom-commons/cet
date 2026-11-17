@@ -49,26 +49,30 @@ sources:
     publisher: Tribuna do Vale
     date: 2026-11-16
     language: pt
+  - title: PM apreende plantação de maconha em CARLÓPOLIS
+    url: https://npdiario.com.br/policial/pm-apreende-plantacao-de-maconha-em-carlopolis/
+    publisher: NPDiário
+    date: 2026-11-16
+    language: pt
 open_questions:
-  - No separate date is given for the police operation; 16 November 2026 is the publication date and is used as the incident date.
-  - The plants and 4.6 grams were described as maconha without reported laboratory confirmation.
-  - No count was published for the seized seeds, so no seed figure is recorded.
-  - The account rests on a single outlet reporting Military Police information; no second account was found.
-  - No arrest, charge or court outcome was reported; the suspect remained at large.
+    - No separate date is given for the police operation; 16 November 2026 is the publication date and is used as the incident date.
+    - The plants and 4.6 grams were described as maconha without reported laboratory confirmation.
+    - No count was published for the seized seeds, so no seed figure is recorded.
+    - No arrest, charge or court outcome was reported; the suspect remained at large.
+    - Both accounts report Military Police information; the underlying police statement itself was not opened.
 ---
 
 Military Police were called by Copom to attend a reported threat against women
-at a nightclub located at kilometre 5 of the PR-218 highway. [@1] As the patrol
+at a nightclub located at kilometre 5 of the PR-218 highway. [@1,2] As the patrol
 car approached the establishment, the suspect fled toward vacant ground and then
-entered a wooded area. [@1] The suspect is a man who escaped from the Londrina
-State Penitentiary on 24 April 2026. [@1] Information collected at the scene led
+entered a wooded area. [@1,2] The suspect is a man who escaped from the Londrina
+State Penitentiary on 24 April 2026. [@1,2] The man has criminal antecedents. [@2] Information collected at the scene led
 officers to a residence on the margins of the PR-218 in Bairro Jaboticabal,
-Carlópolis, in the Norte Pioneiro region, where the man had been staying. [@1]
+Carlópolis, in the Norte Pioneiro region, where the man had been staying. [@1,2]
 
 In the bedroom used by the man, officers found eight medium-sized fresh cannabis
-plants, seeds and a portion of the drug kept in pots. [@1] The loose portion
-stored in pots weighed 4.6 grams. [@1] Officers also seized a Samsung brand
-mobile phone and R$ 405.40 in cash during the same search. [@1]
+plants, seeds and a portion of the drug kept in pots. [@1,2] The loose portion
+stored in pots weighed 4.6 grams. [@1,2] Officers also seized a Samsung brand
+mobile phone and R$ 405.40 in cash during the same search. [@1,2]
 
-Police teams were still working to locate the fugitive. [@1]
-
+Police teams were still working to locate the fugitive. [@1,2]
