@@ -43,6 +43,11 @@ sources:
     publisher: HMTV
     date: 2026-11-15
     language: te
+  - title: భారీగా గంజాయి పట్టివేత.. ఇద్దరు నిందితుల అరెస్ట్‌ | general
+    url: https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/126207220
+    publisher: Eenadu
+    date: 2026-11-14
+    language: te
 open_questions:
   - No separate date for the vehicle check was given; 15 November 2026 is the publication date and stands in for the incident date.
   - The weight was reported as about 22 kilograms, not an exact measured weight.
@@ -52,21 +57,20 @@ open_questions:
 ---
 
 Chevella police took into custody two men travelling in the car, both from
-Gannavaram village in Krishna district of Andhra Pradesh. [@1] The two were
+Gannavaram village in Krishna district of Andhra Pradesh. [@1,2] The two were
 identified as 30-year-old driver Nakka Narayana, son of Venkateswara Rao, and
 29-year-old Ranimekala Nagaraju, son of Narasimha Rao. [@1] Police stopped the
 car, registration number AP 39 WW 6222, near Fara College within Chevella police
-station limits during vehicle checks after receiving reliable information. [@1]
+station limits during vehicle checks after receiving reliable information. [@1,2] The car was heading toward Shabad when police received information and stopped it on Saturday evening. [@2]
 
 Officers found about 22 kilograms of ganja being transported illegally in the
-car and seized it. [@1] A preliminary inquiry indicated the men were illegally
-transporting the ganja from Vijayawada to Maharashtra state. [@1]
+car and seized it. [@1,2] A preliminary inquiry indicated the men were illegally
+transporting the ganja from Vijayawada to Maharashtra state. [@1,2]
 
 Police said the main accused, Nakka Narayana, already faces another
 ganja-smuggling case at Donkarai police station in West Godavari district of
-Andhra Pradesh. [@1] Police said further investigation is continuing into where
+Andhra Pradesh. [@1,2] Police said further investigation is continuing into where
 the ganja was sourced, where it was being taken and who else is behind the
-trafficking. [@1] Chevella police warned of strict legal action against those
+trafficking. [@1,2] Chevella police warned of strict legal action against those
 involved in drug trafficking, sale and use and asked the public to cooperate in
 eradicating drugs. [@1]
-
