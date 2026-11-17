@@ -52,18 +52,29 @@ sources:
     publisher: Notizie d'Abruzzo
     date: 2026-11-16
     language: it
+  - title: Fermato a Chieti Scalo dopo aver ritirato una busta di hashish, i carabinieri indagano e sequestrano oltre cinque chili di sostanze stupefacenti
+    url: https://www.chietitoday.it/cronaca/arresti-chieti-scalo-pescara-carabinieri-sequestro-droga.html
+    publisher: ChietiToday
+    date: 2026-11-16
+    language: it
+media:
+  - kind: photo
+    url: https://www.chietitoday.it/cronaca/arresti-chieti-scalo-pescara-carabinieri-sequestro-droga.html
+    media_url: https://citynews-chietitoday.stgy.ovh/~media/horizontal-hi/40328633346143/la-droga-sequestrata-dai-carabinieri-di-chieti.jpg
+    publisher: ChietiToday
+    caption: Drugs seized by the Chieti carabinieri laid out after the operation.
 ---
 
 Two men from Pescara, aged 32 and 30, were arrested. [@1,2,3] Carabinieri of Chieti
 Scalo ran the operation between Chieti, Pescara and Francavilla al Mare, seizing
-more than 5 kg of drugs including marijuana, hashish and cocaine. [@1,2] The
+more than 5 kg of drugs including marijuana, hashish and cocaine. [@1,2,4] The
 investigating judge validated the arrests, ordering the first man to report
-daily to the judicial police and placing the second man under house arrest. [@1,3]
+daily to the judicial police and placing the second man under house arrest. [@1,3] The judge released the 32-year-old with a daily reporting requirement because of his marginal role and lack of criminal record, while the supplier was placed under house arrest because of the large quantities and his specific prior record. [@4]
 
 The operation began in Chieti Scalo, where officers stopped the 32-year-old and
-found 593 grams of marijuana in his car. [@1,2,3] The 32-year-old told officers he had collected the marijuana on behalf of third parties in exchange for payment. [@3] Investigators then searched the
+found 593 grams of marijuana in his car. [@1,2,3,4] The 32-year-old told officers he had collected the marijuana on behalf of third parties in exchange for payment. [@3] Investigators then searched the
 home of the suspected supplier in Pescara and seized more than 3.3 kilograms of
-marijuana, 1.7 kilograms of hashish and marijuana resin. [@1,2,3] In the same
+marijuana, 1.7 kilograms of hashish and marijuana resin. [@1,2,3,4] In the same
 Pescara search, officers seized 380 grams of cocaine together with a heat sealer
 and a precision scale. [@1,3] The 30-year-old was later traced to Francavilla al
 Mare, in the province of Chieti. [@1]
