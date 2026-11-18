@@ -61,17 +61,15 @@ sources:
     publisher: SuaraJatim.id
     date: 2026-11-18
     language: id
-open_questions:
-    - The 52.31 grams is a gross weight that includes packaging; no net weight or laboratory confirmation was reported.
-    - The 6.47 grams of methamphetamine is excluded from the cannabis figures.
-    - No estimate of the cannabis's value was published.
-    - The accounts do not say whether the two men worked at the welding workshop where they were arrested.
-    - No plea, prosecution file or court date was reported; police said the investigation was continuing.
-    - The three accounts reproduce the same Lumajang police statement, so they are not independent reporting.
+  - title: Polisi Tangkap Dua Pengedar Narkoba di Lereng Gunung Semeru, Sita Sabu dan Ganja
+    url: https://mediaindonesia.com/nusantara/957844/polisi-tangkap-dua-pengedar-narkoba-di-lereng-gunung-semeru-sita-sabu-dan-ganja
+    publisher: Media Indonesia
+    date: 2026-11-18
+    language: id
 ---
 
 The narcotics unit of Lumajang district police arrested two men on suspicion of
-trafficking methamphetamine and cannabis in Lumajang regency, East Java. [@1,3] Police said the arrests took place on Wednesday 18 November 2026. [@3] AR
+trafficking methamphetamine and cannabis in Lumajang regency, East Java. [@1,3,4] Police said the arrests took place on Wednesday 18 November 2026. [@3] AR
 (37) and HI (47) were arrested at a welding workshop in Kandangtepus village,
 Senduro district, after officers followed up a tip from residents about drug
 dealing at the premises. [@1,3] AR is from Pagowan village in Pasrujambe district
@@ -80,10 +78,10 @@ them he obtained the cannabis from HI, and officers then tracked HI down and
 searched him. [@2,3]
 
 Officers seized 52.31 grams of cannabis and 6.47 grams of methamphetamine, both
-gross weights, from the two men. [@1,3] They also took a silver digital scale, Rp
-15,000 in cash and Rp 200,000 that police believe came from drug sales. [@1,3] A
+gross weights, from the two men. [@1,3,4] They also took a silver digital scale, Rp
+15,000 in cash and Rp 200,000 that police believe came from drug sales. [@1,3,4] A
 black Yamaha Vega motorcycle without a licence plate, which belonged to HI, was
-also seized. [@1,3]
+also seized. [@1,3,4]
 
 Both suspects and the evidence were taken to Lumajang district police
 headquarters for examination and further legal proceedings. [@1,3] Police said
