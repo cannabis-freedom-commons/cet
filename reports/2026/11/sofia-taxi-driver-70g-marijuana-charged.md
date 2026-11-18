@@ -61,6 +61,11 @@ media:
     media_url: https://m.netinfo.bg/media/images/51414/51414499/991-ratio-kriminalisti-ot-stolichnoto-chetvyrto-ru-zadyrzhaha-shofior-na-taksi-pri.jpg
     publisher: DarikNews.bg
     caption: 'Sofia criminal police detaining the 64-year-old taxi driver in the drug operation, in a handout photo published with the DarikNews report. Photo: СДВР (Sofia Directorate of Internal Affairs)'
+  - kind: photo
+    url: https://www.dunavmost.com/novini/zadarzhaha-taksimetrov-shofyor-s-polovin-kilogram-metamfetamin-v-sofiya
+    media_url: https://www.dunavmost.com/snimka/202611/728_416/91c83b95572d49b3ba13a968e589c225.webp
+    publisher: DUNAVMOST.com
+    caption: 'Drugs found in the taxi, including ecstasy, marijuana and amphetamine, in the police handout photo. Photo: MVR'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 886ae5e22a269c3011077b17f59f73b9
@@ -86,25 +91,23 @@ sources:
     publisher: Novinata.bg
     date: 2026-11-18
     language: bg
-open_questions:
-    - The cannabis weight is given as 'nearly 70 grams' in an expert assessment and is recorded as 0.07 kg; it is not an exact measured figure.
-    - The report mentions 16 packets of marijuana in the taxi and a separate packet of about 10 grams on the driver, but does not explain how these relate to the expert's near-70-gram total.
-    - No value or separate weight breakdown for the marijuana packets themselves was published beyond the expert's single total.
-    - The cash comprised two currencies, 570 euros and 100 US dollars, which cannot be represented in the single-currency cash figure.
-    - Blood-test results were pending, and no court decision on the prosecution's remand request had been reported.
-    - Both accounts reproduce statements from the Sofia police and the Sofia City Prosecutor's Office and are not independent reporting.
+  - title: Задържаха таксиметров шофьор с половин килограм метамфетамин в София - DUNAVMOST.com
+    url: https://www.dunavmost.com/novini/zadarzhaha-taksimetrov-shofyor-s-polovin-kilogram-metamfetamin-v-sofiya
+    publisher: DUNAVMOST.com
+    date: 2026-11-18
+    language: bg
 ---
 
 Sofia police detained a 64-year-old taxi driver after his drug test came back
-positive; he was caught on Monday in a taxi he was driving in Sofia. [@1,2,4] Officers stopped the taxi he was driving for a check on Dimitar Manov Street after establishing his identity. [@2,3,4] The stop was made by detectives from the Fourth District Police Directorate. [@3] The specialised police operation took place on the evening of 16 November 2026, after police received information that the man was distributing drugs in the capital. [@2,3,4] In the
+positive; he was caught on Monday in a taxi he was driving in Sofia. [@1,2,4] Officers stopped the taxi he was driving for a check on Dimitar Manov Street after establishing his identity. [@2,3,4,5] The stop was made by detectives from the Fourth District Police Directorate. [@3] The specialised police operation took place on the evening of 16 November 2026, after police received information that the man was distributing drugs in the capital. [@2,3,4] In the
 taxi he kept nearly 40 ecstasy tablets, 16 packets of marijuana, a large
 quantity of crystals, powdered amphetamine, and 570 euros and 100 US dollars.
-[@1,2,3,4] He also carried another packet containing about 10 grams of marijuana on
-his person. [@1,2,3,4]
+[@1,2,3,4,5] He also carried another packet containing about 10 grams of marijuana on
+his person. [@1,2,3,4,5]
 
 An expert assessment put the seized narcotics at nearly 500 grams of
 methamphetamine, nearly 70 grams of marijuana, over 11 grams of ecstasy and more
-than 9 grams of amphetamine. [@1,2,3,4]
+than 9 grams of amphetamine. [@1,2,3,4,5]
 
 The detainee was already known to police and had a prior conviction, and the
 Sofia City Prosecutor's Office has brought charges against him. [@1,2,3,4] The pre-trial proceedings were opened under the Penal Code articles on narcotics and on driving after drug use. [@4] He had first been held under a police measure of up to 24 hours. [@2,3,4] The results
