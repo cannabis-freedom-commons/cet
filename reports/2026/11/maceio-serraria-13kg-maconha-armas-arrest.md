@@ -79,6 +79,11 @@ sources:
     publisher: TNH1
     date: 2026-11-18
     language: pt
+  - title: Suspeito de integrar facção Tudo Neutro é preso com mais de 13kg de drogas avaliados em mais de R$ 940 mil
+    url: https://tribunahoje.com/noticias/policia/2026/11/18/199178-suspeito-de-integrar-faccao-tudo-neutro-e-preso-com-mais-de-13kg-de-drogas-avaliados-em-mais-de-r-940-mil
+    publisher: Tribuna Hoje
+    date: 2026-11-18
+    language: pt
 open_questions:
     - No information was published about the species of the seven birds or the origin of the firearms and the drugs.
     - The man was not named, and no formal charge, custody ruling or court outcome was reported beyond the flagrante booking.
@@ -89,18 +94,18 @@ open_questions:
 ---
 
 Police arrested a man on the night of Tuesday 17 November 2026 in the Serraria
-neighbourhood of Maceió, in the state of Alagoas. [@1,3,5] The arrest was carried out by the Força Tática unit of the 12th Military Police Battalion on the night of Tuesday 17 November 2026. [@2,6] Police went to the house after two reports that a member of the Tudo Neutro (TDN) faction suspected of involvement in three killings was keeping wild birds in cages there. [@2,6] The initial suspicion
+neighbourhood of Maceió, in the state of Alagoas. [@1,3,5] The arrest was carried out by the Força Tática unit of the 12th Military Police Battalion on the night of Tuesday 17 November 2026. [@2,6,7] Police went to the house after two reports that a member of the Tudo Neutro (TDN) faction suspected of involvement in three killings was keeping wild birds in cages there. [@2,6,7] The initial suspicion
 involved possible crimes of drug trafficking, illegal possession of firearms and
-trade in wild animals. [@1,3] Officers saw further cages, a precision scale and plastic bags with unidentified contents inside the house, and noticed a smell of marijuana, before entering to search it. [@3]
+trade in wild animals. [@1,3] Officers saw further cages, a precision scale and plastic bags with unidentified contents inside the house, and noticed a smell of marijuana, before entering to search it. [@3,7]
 
 The occurrence was registered at about 20:00. [@1] The material was found inside
 a residence, where there were also precision scales used to weigh drugs. [@1,2,4]
 Inside the property, police found 13,4 kilograms (13.4 kg) of maconha, a
-.38-calibre revolver and a .40-calibre pistol. [@1,2,4,5] The suspect admitted owning the drugs and firearms found in the residence. [@2,6] Alongside them, officers
+.38-calibre revolver and a .40-calibre pistol. [@1,2,4,5,7] The .40-calibre pistol seized was a PT940 model. [@7] The suspect admitted owning the drugs and firearms found in the residence. [@2,6,7] Alongside them, officers
 seized six rounds of ammunition, two precision scales and seven birds kept in
-cages. [@1,3,5] Authorities estimated the value of the drugs at R$940,000. [@5]
+cages. [@1,3,5] Authorities estimated the value of the drugs at R$940,000. [@5] The state Public Security Secretariat valued the marijuana at R$70 a gram, putting the seizure at R$941,500. [@7]
 
 The presence of the animals drew particular attention because there were cages
 both in the external area and inside the residence. [@1,2,3,6] The man was taken to
 the Central de Flagrantes, where he was booked in flagrante, and the seven birds
-were also collected. [@1,2,3,5]
+were also collected. [@1,2,3,5,7]
