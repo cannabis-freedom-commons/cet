@@ -57,6 +57,11 @@ sources:
     publisher: Jalgaon Live News
     date: 2026-11-17
     language: mr
+  - title: ऑपरेशन ऑल आऊटचा जळगावात धडाका; एकाच दिवसात ३५.७२ लाखांचा मुद्देमाल जप्त! - Hindusthan Samachar Marathi
+    url: https://marathi.hindusthansamachar.in/Encyc/2026/11/17/PolicekarvistoryforJalgaon.php
+    publisher: Hindusthan Samachar Marathi
+    date: 2026-11-17
+    language: mr
 open_questions:
     - The campaign account says action was taken against 11 people without saying whether they were arrested, booked or charged; the new account names one person arrested in a single house raid, and it is unclear whether that arrest is among the 11.
     - No NDPS sections, remand, formal charge or court outcome were reported.
@@ -68,16 +73,16 @@ open_questions:
 ---
 
 Jalgaon police ran a district-wide ‘Operation All Out’ on 16 November to curb
-illegal businesses and crime. [@1] The special drive was led by Superintendent
+illegal businesses and crime. [@1,5] The special drive was led by Superintendent
 of Police Shrikant Dhivare and targeted the liquor mafia, gamblers, ganja
-smugglers, habitual offenders and traffic violators. [@1] The Raver action was led by police inspector Sandeep Patil. [@2] Teams from every
+smugglers, habitual offenders and traffic violators. [@1,5] The Raver action was led by police inspector Sandeep Patil. [@2] Teams from every
 police station and the Local Crime Branch started raids at various places from
-early morning. [@1] In the anti-drug part of the operation, police took action
-against 11 people. [@1] A case was registered at Raver police station and sub-inspector Manoj Mahajan was conducting the further investigation. [@2,3] Raver police arrested Meharban Jahangir Tadvi, a 36-year-old resident of Pal, Raver. [@2,3,4]
+early morning. [@1,5] In the anti-drug part of the operation, police took action
+against 11 people. [@1,5] A case was registered at Raver police station and sub-inspector Manoj Mahajan was conducting the further investigation. [@2,3] Raver police arrested Meharban Jahangir Tadvi, a 36-year-old resident of Pal, Raver. [@2,3,4]
 
-Officers seized 3 kg 250 g of ganja. [@1,2,3,4] Raver police acted on a confidential tip-off that ganja was stored for sale in a two-storey house, verified it and raided the house, finding the ganja near the staircase at the entrance. [@2,3] The confidential tip-off that led to the raid reached Raver police on 16 November 2026. [@3] Police gave the seized ganja an
-approximate value of Rs 1.62 lakh. [@1,3] Police said the single-day drive seized
-muddemal worth Rs 35,72,935 and also collected fines. [@1]
+Officers seized 3 kg 250 g of ganja. [@1,2,3,4,5] Raver police acted on a confidential tip-off that ganja was stored for sale in a two-storey house, verified it and raided the house, finding the ganja near the staircase at the entrance. [@2,3] The confidential tip-off that led to the raid reached Raver police on 16 November 2026. [@3] Police gave the seized ganja an
+approximate value of Rs 1.62 lakh. [@1,3,5] Police said the single-day drive seized
+muddemal worth Rs 35,72,935 and also collected fines. [@1,5]
 
 The operation was carried out under the guidance of Superintendent Shrikant
 Dhivare and Additional Superintendent Ashok Nakhate by sub-divisional officers
