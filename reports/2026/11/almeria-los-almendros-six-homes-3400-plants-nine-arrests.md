@@ -54,6 +54,26 @@ media:
     media_url: https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/11/18/6afdaaca8703d.jpeg
     publisher: La Voz de Almería
     caption: 'A Policía Nacional officer enters one of the seized marijuana drying rooms in Los Almendros. Photo: La Voz de Almería'
+  - kind: photo
+    url: https://www.ideal.es/almeria/almeria/nueve-detenidos-almendros-3400-plantas-marihuana-intervenidas-20261118152330-nt.html
+    media_url: https://s2.ppllstatics.com/ideal/www/multimedia/local/2026/11/18/cnp4-RYJNvU3k2fi1xw41Cf3bCTK-1200x840@Ideal.jpeg
+    publisher: Ideal
+    caption: 'Policía Nacional officers during the operation in Los Almendros. Photo: CNP'
+  - kind: photo
+    url: https://www.ideal.es/almeria/almeria/nueve-detenidos-almendros-3400-plantas-marihuana-intervenidas-20261118152330-nt.html
+    media_url: https://s1.ppllstatics.com/ideal/www/multimedia/local/2026/11/18/cnp2-U17371825114gtr-758x530@Ideal.jpeg
+    publisher: Ideal
+    caption: 'Close to 60 officers took part in the Los Almendros raid. Photo: CNP'
+  - kind: photo
+    url: https://www.ideal.es/almeria/almeria/nueve-detenidos-almendros-3400-plantas-marihuana-intervenidas-20261118152330-nt.html
+    media_url: https://s2.ppllstatics.com/ideal/www/multimedia/local/2026/11/18/cnp1-U55742182770rBT-445x365@Ideal.jpeg
+    publisher: Ideal
+    caption: 'Officers during the raid in Los Almendros. Photo: CNP'
+  - kind: photo
+    url: https://www.ideal.es/almeria/almeria/nueve-detenidos-almendros-3400-plantas-marihuana-intervenidas-20261118152330-nt.html
+    media_url: https://s3.ppllstatics.com/ideal/www/multimedia/local/2026/11/18/cnp3-U82887157262Npm-278x496@Ideal.jpeg
+    publisher: Ideal
+    caption: 'Officers during the raid in Los Almendros. Photo: CNP'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 85ecbf2e9baaee6df34f493c7377c8aa
@@ -74,32 +94,30 @@ sources:
     publisher: El Confidencial / Europa Press
     date: 2026-11-18
     language: es
-open_questions:
-  - No charges, court appearance or detention order for the nine detainees was reported; the case was at the investigation stage.
-  - The 200 kilograms is a police estimate of the weight of the plants seized and is not broken down between plants, drying marijuana, buds and hashish, so it may overlap with the 3,400 plants.
-  - Diario de Almería places the operation on the morning of Wednesday 18 November 2026, while the Europa Press account says officers had been deployed since first thing 'this Tuesday'; the Wednesday date is used.
-  - No estimate of the drugs' street value was published.
-  - The six homes are described as used for growing and processing cannabis, but no detail was published on who owned or occupied them or on the size of any organisation behind them.
+  - title: Nueve detenidos en Los Almendros y 3.400 plantas de marihuana intervenidas en una redada antidroga
+    url: https://www.ideal.es/almeria/almeria/nueve-detenidos-almendros-3400-plantas-marihuana-intervenidas-20261118152330-nt.html
+    publisher: Ideal
+    date: 2026-11-18
+    language: es
 ---
 
 Spain's Policía Nacional arrested nine people on the morning of 18 November 2026
-in Los Almendros, a neighbourhood of Almería. [@1] All nine detainees were
-Spanish nationals. [@1] Officers entered and searched six homes in the
-neighbourhood that were being used to grow cannabis. [@1] The operation, named
+in Los Almendros, a neighbourhood of Almería. [@1,4] All nine detainees were
+Spanish nationals. [@1,4] Officers entered and searched six homes in the
+neighbourhood that were being used to grow cannabis. [@1,4] The operation, named
 Especia, was directed by Grupo 2 of the UDYCO Alborán, the drug and
 organised-crime unit of the Provincial Police Station in Almería. [@1] It formed
 part of the police station's response plan for barrios tensionados, a programme
 for high-tension neighbourhoods. [@2]
 
-Police seized 3,400 marijuana plants. [@1] The Provincial Police Station put the
+Police seized 3,400 marijuana plants. [@1,4] The Provincial Police Station put the
 weight of the plants seized at about 200 kilograms. [@1] The haul included
 marijuana being dried, buds and hashish. [@1] The weight was a first estimate
 calculated by the operation itself. [@3] Officers also seized a short firearm, 9
-mm Parabellum ammunition and 4,000 euros in cash. [@1] They took away equipment
+mm Parabellum ammunition and 4,000 euros in cash. [@1,4] They took away equipment
 used to grow the drug. [@1]
 
 Endesa technicians were brought in to disconnect the illegal hook-ups that
 supplied electricity to the grows, police sources said. [@1] The Policía Local,
 the city's municipal police, helped draw up demolition files for illegal
-constructions found during the operation. [@1]
-
+constructions found during the operation. [@1,4]
