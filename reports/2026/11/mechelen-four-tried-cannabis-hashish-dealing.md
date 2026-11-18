@@ -60,20 +60,24 @@ sources:
     publisher: Nieuwsblad
     date: 2026-11-17
     language: nl
+  - title: 'Drie mannen en een vrouw riskeren celstraffen voor drugshandel in Mechelen, vrouw ongeïnteresseerd voor de rechter: “Het zijn allemaal leugens”'
+    url: https://www.hln.be/mechelen/drie-mannen-en-een-vrouw-riskeren-celstraffen-voor-drugshandel-in-mechelen-vrouw-ongeinteresseerd-voor-de-rechter-het-zijn-allemaal-leugens~a996a447/
+    publisher: HLN
+    date: 2026-11-17
+    language: nl
 open_questions:
-  - The article says the trial started 'this week' and gives no exact opening date; 17 November 2026 is the publication date and is used as the incident date.
-  - 'Only the initials of the four defendants were published, and no verdict had been given when the article appeared: the three-year, ten-month and 18-month terms were sentences requested by the prosecutor.'
-  - Two of the seized weights were given as 'nearly' five kilograms of cannabis and 'nearly' two kilograms of hashish, so the combined 7.4 kilograms is approximate.
-  - No street value was published; the nearly 17,000 euros was money handed to a courier and the 40,000 euros was a confiscation requested by prosecutors, not cash already seized.
-  - The account rests on a single news article; no separate police or prosecutor statement or second outlet could be opened for this trial.
+    - The article says the trial started 'this week' and gives no exact opening date; 17 November 2026 is the publication date and is used as the incident date.
+    - 'Only the initials of the four defendants were published, and no verdict had been given when the article appeared: the three-year, ten-month and 18-month terms were sentences requested by the prosecutor.'
+    - Two of the seized weights were given as 'nearly' five kilograms of cannabis and 'nearly' two kilograms of hashish, so the combined 7.4 kilograms is approximate.
+    - No street value was published; the nearly 17,000 euros was money handed to a courier and the 40,000 euros was a confiscation requested by prosecutors, not cash already seized.
 ---
 
 Four people went on trial in Mechelen before the correctionele rechtbank, the
-criminal court, over the sale of cannabis and hashish. [@1] Cannabis was dealt
+criminal court, over the sale of cannabis and hashish. [@1,2] Cannabis was dealt
 first from a home in the Mahatma Gandhiwijk and later from a building in the
 Korte Schipstraat. [@1] Prosecutor Karel Berteloot said the investigation began
 early in 2026 after police received information about possible drug sales from a
-home in the Korte Schipstraat. [@1] During surveillance officers witnessed what
+home in the Korte Schipstraat. [@1,2] During surveillance officers witnessed what
 may have been five drug transactions and intercepted two people, and
 investigators found that drugs could be ordered through a Snapchat account. [@1]
 
@@ -89,7 +93,7 @@ Further police work showed that B.E. worked with a Dutch upper dealer and led
 investigators to an address in the Mahatma Gandhiwijk, where N.G. lived. [@1]
 During a search there the occupant pointed to a room B.E. regularly used, where
 police found nearly five kilograms of cannabis and nearly two kilograms of
-hashish. [@1] N.G. said he had become a customer of B.E. and offered his home as
+hashish. [@1,2] N.G. said he had become a customer of B.E. and offered his home as
 storage in exchange for free cannabis, but claimed no part in the actual trade.
 [@1] B.E. received his supply from the upper dealer through a courier; on one
 occasion N.G. accepted the package and handed nearly 17,000 euros to the
@@ -99,9 +103,8 @@ delivering a box, while saying he did not know its contents. [@1]
 
 Prosecutors asked for three years in prison and a 2,000-euro fine for B.E.,
 along with confiscation of 40,000 euros and a car, and for ten-month suspended
-terms for A.C. and N.G. and an 18-month suspended term for D.A. [@1] A.C.'s
+terms for A.C. and N.G. and an 18-month suspended term for D.A. [@1,2] A.C.'s
 lawyer said her client was a vulnerable, easily influenced 19-year-old whose
 role was limited and asked for a suspension of sentence. [@1] A.C. refused to
 stand when the judge asked her to confirm her identity. [@1] The other three
-defendants are due to speak next week. [@1]
-
+defendants are due to speak next week. [@1,2]
