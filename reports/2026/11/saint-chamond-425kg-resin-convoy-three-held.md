@@ -91,24 +91,29 @@ sources:
     publisher: Autonews
     date: 2026-11-12
     language: fr
+  - title: Drugstransport met honderden kilo's hasj in twee auto's onderschept bij actie in Frankrijk
+    url: https://crime.headliner.nl/item/drugstransport-met-honderden-kilo-hasj-in-twee-auto-onderschept-bij-actie-in-frankrijk-crimenieuws-32653
+    publisher: Headliner.nl
+    date: 2026-11-17
+    language: nl
 ---
 
 Three men aged between 28 and 45 were arrested in Saint-Chamond, in the Loire
-department, in the late morning of Monday 2 November 2026. [@1,4,7]
+department, in the late morning of Monday 2 November 2026. [@1,4,7,10]
 
 Gendarmes of the Lyon research section had opened a preliminary investigation at
 the end of August 2026 into an organisation suspected of importing cannabis
-resin. [@2,4,5] The convoy's two cars had loaded 425 kg of cannabis resin in
+resin. [@2,4,5,10] The convoy's two cars had loaded 425 kg of cannabis resin in
 Perpignan, after the drug had come from Spain, and were heading for the
-Saint-Étienne and Lyon markets. [@3,4,8,9]
+Saint-Étienne and Lyon markets. [@3,4,8,9,10]
 
 Searches found 425 kg of cannabis resin and cash, whose amount was not stated.
-[@2,4,6] The three suspects, from Saint-Chamond, Annonay in Ardèche and Vénissieux
+[@2,4,6,10] The three suspects, from Saint-Chamond, Annonay in Ardèche and Vénissieux
 in the Rhône, were brought before the Saint-Étienne court on 6 November and
 placed in pre-trial detention. [@2,4,5,6] They were charged and placed in pre-trial
 detention in a judicial investigation opened for acquiring, transporting,
 importing, possessing, offering and supplying narcotics. [@3,4,9]
 
-The intervention was backed by the GIGN's Orange branch (AGIGN), the gendarmerie's intervention unit, which officers often call on for large-scale drug operations because of the risks involved. [@5,9]
+The intervention was backed by the GIGN's Orange branch (AGIGN), the gendarmerie's intervention unit, which officers often call on for large-scale drug operations because of the risks involved. [@5,9,10]
 
-The surveillance had begun the day before, when gendarmes spotted two vehicles travelling together towards southern France and followed them to the Perpignan area, where the cargo was confirmed. [@6]
+The surveillance had begun the day before, when gendarmes spotted two vehicles travelling together towards southern France and followed them to the Perpignan area, where the cargo was confirmed. [@6,10]
