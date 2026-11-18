@@ -115,6 +115,10 @@ sources:
     publisher: Times Now Navbharat
     date: 2026-11-18
     language: hi
+  - title: Farmer held, 705kg of cannabis hidden among crops seized | Rajkot News - The Times of India
+    url: https://timesofindia.indiatimes.com/city/rajkot/farmer-held-705kg-of-cannabis-hidden-among-crops-seized/articleshow/135969769.cms
+    publisher: The Times of India
+    date: 2026-11-18
 media:
   - kind: photo
     url: https://www.etvbharat.com/gu/state/rajkot-705-kg-of-cannabis-worth-rs-3-dot-52-crore-seized-from-a-farm-in-vinchhiya-gjs26111804697
@@ -136,16 +140,23 @@ media:
     media_url: https://cms.patrika.com/wp-content/uploads/2026/11/The-farm-owner-in-the-custody-of-the-Special-Operation-Group-SOG-of-the-Rajkot-Rural-Police.webp
     publisher: Patrika News
     caption: The farm owner in the custody of the Special Operation Group (SOG) of the Rajkot Rural Police, in the photo published with the Patrika report on the Chhasiya village seizure.
+  - kind: photo
+    url: https://timesofindia.indiatimes.com/city/rajkot/farmer-held-705kg-of-cannabis-hidden-among-crops-seized/articleshow/135969769.cms
+    media_url: https://static.toiimg.com/thumb/msid-135969768,imgsize-1016114,width-400,height-225,resizemode-75/973c1e40-e250-4dac-b89e-16f29b343073_raj-ganjo_aropi-04jpg.jpg
+    publisher: The Times of India
+    caption: SOG personnel at the farmer's field during the Vinchhiya raid.
+open_questions:
+  - It is unclear whether the seized weight was 705 kilograms or 705.5 kilograms, as published accounts differ.
 ---
 
 Rajkot Special Operation Group officers raided a field in Chhasia village,
 Vinchiya taluka, Rajkot district, and seized about 705 kilograms of green
-cannabis plants. [@1,2,3,4,6,7,8,9,10,11,12,13,14,15] Officers were patrolling the Jasdan and Vinchiya areas when they received a tip-off that the field was under cannabis cultivation. [@9,12,13,15] The cannabis plants had been left along the edge of the field to dry, police said. [@3,5,7,8,9,10,11,12,13,15] Rajkot Rural superintendent of police Vijay Singh Gurjar said Mithapara appeared to have believed the plants had reached the required height and finished their growth before he cut them. [@10,11,12,15] The cannabis plants had been grown among pigeon pea and maize in the same field, according to the police account. [@5,14] Rajkot district superintendent of police Vijaysinh Gurjar told reporters that Mithapara had sown the cannabis on five bigha of his own land. [@9] One person was arrested in connection with the
-cultivation. [@1,2,3,4,6,7,8,9,10,11,12,15] The arrested man was the owner of the field, Savshibhai Bachubhai Mithapara, aged 55. [@3,5,7,8,10,12,15] The farmer told police he had cultivated cannabis for the first time. [@7,8,13] Police said Mithapara told them he took to the crop to make money quickly because he was in financial difficulty. [@9,14]
+cannabis plants. [@1,2,3,4,6,7,8,9,10,11,12,13,14,15,16] Officers were patrolling the Jasdan and Vinchiya areas when they received a tip-off that the field was under cannabis cultivation. [@9,12,13,15,16] The cannabis plants had been left along the edge of the field to dry, police said. [@3,5,7,8,9,10,11,12,13,15,16] Rajkot Rural superintendent of police Vijay Singh Gurjar said Mithapara appeared to have believed the plants had reached the required height and finished their growth before he cut them. [@10,11,12,15] The cannabis plants had been grown among pigeon pea and maize in the same field, according to the police account. [@5,14,16] Rajkot district superintendent of police Vijaysinh Gurjar told reporters that Mithapara had sown the cannabis on five bigha of his own land. [@9,16] One person was arrested in connection with the
+cultivation. [@1,2,3,4,6,7,8,9,10,11,12,15,16] The arrested man was the owner of the field, Savshibhai Bachubhai Mithapara, aged 55. [@3,5,7,8,10,12,15] The farmer told police he had cultivated cannabis for the first time. [@7,8,13] Police said Mithapara told them he took to the crop to make money quickly because he was in financial difficulty. [@9,14,16]
 
-The seized cannabis was estimated to be worth 3.52 crore rupees. [@1,2,3,5,6,7,8,9,10,11,12,13,14,15] Police
+The seized cannabis was estimated to be worth 3.52 crore rupees. [@1,2,3,5,6,7,8,9,10,11,12,13,14,15,16] Police
 acted against the accused under the Narcotic Drugs and Psychotropic Substances
-(NDPS) Act. [@1,2,3,5,6,7,8,9,10,11,12,13,15] The case was registered at Vichhiya police station. [@10,11,15] In a separate case in the Vichhiya police station limits, police found seven cannabis plants weighing 14.450 kg, with an estimated value of Rs 7,22,500, growing among a cotton crop near Kharsiya village, and identified the accused as Prabhubhai Maganbhai Panchala. [@12,15] The Kharsiya field was raided by a team led by police inspector A. C. Damor, acting on an informer's tip received during an NDPS-related action. [@15] The search was carried out under the guidance of the Rajkot Range inspector general of police and the district police chief. [@3] The search team was led by police inspector F. A. Pargi and sub-inspector G. J. Zala. [@9,11,12]
+(NDPS) Act. [@1,2,3,5,6,7,8,9,10,11,12,13,15,16] The case was registered at Vichhiya police station. [@10,11,15,16] In a separate case in the Vichhiya police station limits, police found seven cannabis plants weighing 14.450 kg, with an estimated value of Rs 7,22,500, growing among a cotton crop near Kharsiya village, and identified the accused as Prabhubhai Maganbhai Panchala. [@12,15] The Kharsiya field was raided by a team led by police inspector A. C. Damor, acting on an informer's tip received during an NDPS-related action. [@15] The search was carried out under the guidance of the Rajkot Range inspector general of police and the district police chief. [@3] The search team was led by police inspector F. A. Pargi and sub-inspector G. J. Zala. [@9,11,12,16]
 
 Investigators were examining whether a wider network was involved in the illegal
-cultivation. [@1,2,3,5] Police were questioning him about where he obtained the seed and to whom he intended to sell the cannabis. [@9] With the two seizures, the total recovery from the separate operations stood at 719.940 kg of cannabis, with a combined estimated value of Rs 3,59,97,000. [@12,15]
+cultivation. [@1,2,3,5] Police were questioning him about where he obtained the seed and to whom he intended to sell the cannabis. [@9,16] With the two seizures, the total recovery from the separate operations stood at 719.940 kg of cannabis, with a combined estimated value of Rs 3,59,97,000. [@12,15]
