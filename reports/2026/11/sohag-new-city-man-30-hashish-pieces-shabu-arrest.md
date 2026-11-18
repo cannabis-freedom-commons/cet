@@ -44,25 +44,23 @@ sources:
     publisher: القاهرة 24
     date: 2026-11-18
     language: ar
-open_questions:
-  - No weight was published for the 30 pieces of hashish, so no cannabis quantity is recorded, and the about 150 grams of shabu is excluded as a non-cannabis substance.
-  - No separate date was given for the arrest; 18 November 2026, the publication date of both accounts, is used as the incident date.
-  - The suspect was identified only by initials, and no age, plea or defence statement was reported.
-  - The amount of money seized was not stated, so no cash figure is recorded.
-  - No court outcome was reported; the case was at the investigation stage with referral for questioning.
-  - Both accounts reproduce the same New Sohag investigation-unit report in near-identical wording, so they are not independent reporting.
+  - title: ضبط تاجر مخدرات بحوزته 30 قطعة حشيش و150 جرام شابو بسوهاج الجديدة
+    url: https://www.iqraa.news/233949/%D8%B6%D8%A8%D8%B7-%D8%AA%D8%A7%D8%AC%D8%B1-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-30-%D9%82%D8%B7%D8%B9%D8%A9-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88150-%D8%AC%D8%B1%D8%A7/
+    publisher: إقرأ نيوز
+    date: 2026-11-18
+    language: ar
 ---
 
 Detectives of the New Sohag police district arrested one man carrying hashish,
 shabu and cash during a security campaign against drug dealing in the district.
-[@1] A second account says security forces in Sohag seized a man in the New
+[@1,3] A second account says security forces in Sohag seized a man in the New
 Sohag district with drugs and money during a campaign against drug trafficking.
 [@2] Investigators said the suspect, Salah A. M. from Wanina village, had been
-frequenting the New Sohag district before officers targeted and seized him. [@1]
+frequenting the New Sohag district before officers targeted and seized him. [@1,3]
 
 Officers found 30 pieces of hashish, about 150 grams of shabu and money with the
 suspect, with one account describing the cash as suspected proceeds of drug
-trafficking. [@2]
+trafficking. [@2,3]
 
 The arrest was made by a search team led by Major Ahmed Diab, head of New Sohag
 investigations, with Major Islam Saqr and Captain Ali Abukrisha, who seized the
@@ -71,5 +69,4 @@ from Sohag security leaders, including the Sohag security director and criminal
 investigation chiefs, to intensify pursuit of drug dealers and criminal
 activity. [@1] Authorities completed the required legal procedures, impounded
 the seized drugs and referred the suspect to the competent authorities to open
-an investigation. [@2]
-
+an investigation. [@2,3]
