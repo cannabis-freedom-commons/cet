@@ -88,6 +88,10 @@ sources:
     publisher: News18 Gujarati
     date: 2026-11-18
     language: gu
+  - title: Gujarat police’s big cannabis bust! 705 kg of plants worth Rs 3.52 cr seized in Rajkot
+    url: https://www.msn.com/en-in/news/other/gujarat-police-s-big-cannabis-bust-705-kg-of-plants-worth-rs-3-52-cr-seized-in-rajkot/ar-AA2hHDJn
+    publisher: Times Now (published on MSN)
+    date: 2026-11-18
 open_questions:
     - The exact date of the raid was not reported; 18 November 2026 is the publication date of the reports and is used as the incident date.
     - Accounts give slightly different weights, from 705.409 kg to 705.490 kg, and the value of 3.52 crore rupees is a police estimate; no laboratory confirmation was reported.
@@ -118,12 +122,12 @@ media:
 
 Rajkot Special Operation Group officers raided a field in Chhasia village,
 Vinchiya taluka, Rajkot district, and seized about 705 kilograms of green
-cannabis plants. [@1,2,3,4,6,7,8,9] Officers were patrolling the Jasdan and Vinchiya areas when they received a tip-off that the field was under cannabis cultivation. [@9] The cannabis plants had been left along the edge of the field to dry, police said. [@3,5,7,8,9] The cannabis plants had been grown among pigeon pea and maize in the same field, according to the police account. [@5] Rajkot district superintendent of police Vijaysinh Gurjar told reporters that Mithapara had sown the cannabis on five bigha of his own land. [@9] One person was arrested in connection with the
-cultivation. [@1,2,3,4,6,7,8,9] The arrested man was the owner of the field, Savshibhai Bachubhai Mithapara, aged 55. [@3,5,7,8] The farmer told police he had cultivated cannabis for the first time. [@7,8] Police said Mithapara told them he took to the crop to make money quickly because he was in financial difficulty. [@9]
+cannabis plants. [@1,2,3,4,6,7,8,9,10] Officers were patrolling the Jasdan and Vinchiya areas when they received a tip-off that the field was under cannabis cultivation. [@9] The cannabis plants had been left along the edge of the field to dry, police said. [@3,5,7,8,9,10] Rajkot Rural superintendent of police Vijay Singh Gurjar said Mithapara appeared to have believed the plants had reached the required height and finished their growth before he cut them. [@10] The cannabis plants had been grown among pigeon pea and maize in the same field, according to the police account. [@5] Rajkot district superintendent of police Vijaysinh Gurjar told reporters that Mithapara had sown the cannabis on five bigha of his own land. [@9] One person was arrested in connection with the
+cultivation. [@1,2,3,4,6,7,8,9,10] The arrested man was the owner of the field, Savshibhai Bachubhai Mithapara, aged 55. [@3,5,7,8,10] The farmer told police he had cultivated cannabis for the first time. [@7,8] Police said Mithapara told them he took to the crop to make money quickly because he was in financial difficulty. [@9]
 
-The seized cannabis was estimated to be worth 3.52 crore rupees. [@1,2,3,5,6,7,8,9] Police
+The seized cannabis was estimated to be worth 3.52 crore rupees. [@1,2,3,5,6,7,8,9,10] Police
 acted against the accused under the Narcotic Drugs and Psychotropic Substances
-(NDPS) Act. [@1,2,3,5,6,7,8,9] The search was carried out under the guidance of the Rajkot Range inspector general of police and the district police chief. [@3] The search team was led by police inspector F. A. Pargi and sub-inspector G. J. Zala. [@9]
+(NDPS) Act. [@1,2,3,5,6,7,8,9,10] The case was registered at Vichhiya police station. [@10] The search was carried out under the guidance of the Rajkot Range inspector general of police and the district police chief. [@3] The search team was led by police inspector F. A. Pargi and sub-inspector G. J. Zala. [@9]
 
 Investigators were examining whether a wider network was involved in the illegal
 cultivation. [@1,2,3,5] Police were questioning him about where he obtained the seed and to whom he intended to sell the cannabis. [@9]
