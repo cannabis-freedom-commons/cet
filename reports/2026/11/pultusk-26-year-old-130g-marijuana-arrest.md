@@ -57,6 +57,11 @@ sources:
     publisher: ePrzasnysz.pl
     date: 2026-11-18
     language: pl
+  - title: 26-latek podejrzany o handel narkotykami
+    url: https://www.tygodnikciechanowski.pl/makow/26-latek-podejrzany-o-handel-narkotykami
+    publisher: Tygodnik Ciechanowski
+    date: 2026-11-18
+    language: pl
 open_questions:
     - No separate date was given for the arrest and flat search; 16 November 2026 is the date of the prosecutor's supervision decision and is used as the incident date.
     - The year of the 16 November supervision decision is inferred as 2026 from the 17 November 2026 publication date.
@@ -73,20 +78,20 @@ media:
 ---
 
 Officers of the Criminal Division of the police in Maków Mazowiecki carried out
-the detention in this operation. [@1,2] The person detained in the operation is a
-26-year-old man residing in Pułtusk. [@1,2,3] Following the detention, the detained
-man was placed in police detention. [@1,2]
+the detention in this operation. [@1,2,4] The person detained in the operation is a
+26-year-old man residing in Pułtusk. [@1,2,3,4] Following the detention, the detained
+man was placed in police detention. [@1,2,4]
 
 As part of the case, officers carried out a search of the flat used by the
-detained man. [@1,2,3] During that flat search, officers found and secured almost
-130 grams of marijuana. [@1,2,3] Evidence gathered by investigators in the case
+detained man. [@1,2,3,4] During that flat search, officers found and secured almost
+130 grams of marijuana. [@1,2,3,4] Evidence gathered by investigators in the case
 allowed serious criminal charges to be brought against him. [@1] One of those
-serious charges concerns the possession of intoxicating substances. [@1,2] Another
+serious charges concerns the possession of intoxicating substances. [@1,2,4] Another
 of those serious charges concerns the distribution of those substances for the
-purpose of financial gain. [@1,2,3]
+purpose of financial gain. [@1,2,3,4]
 
 The action was the result of operational activities directed against the local
-drug market. [@1] On 16 November, the District Prosecutor in Przasnysz decided
-to place the suspect under police supervision. [@1,2,3] For the charged offences of
+drug market. [@1,4] On 16 November, the District Prosecutor in Przasnysz decided
+to place the suspect under police supervision. [@1,2,3,4] For the charged offences of
 possession and distribution, the 26-year-old faces up to 10 years of
-imprisonment. [@1,2,3]
+imprisonment. [@1,2,3,4]
