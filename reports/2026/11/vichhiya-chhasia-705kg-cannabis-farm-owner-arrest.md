@@ -58,22 +58,38 @@ sources:
     publisher: Gujarati Jagran
     date: 2026-11-18
     language: gu
+  - title: 'Rajkot: વિછીયાના છાસીયા ગામની સીમમાં લહેરાતું ગાંજાનું વાવેતર ઝડપાયું, SOGએ ₹3.52 કરોડનો મુદ્દામાલ જપ્ત કર્યો'
+    url: https://sandesh.com/gujarat/news/rajkot/sog-seizes-705-kg-green-ganja-worth-3-52-crore-from-farm-in-chhasiya-village-vinchhiya-one-arrested-under-ndps-act
+    publisher: Sandesh
+    date: 2026-11-18
+    language: gu
+  - title: 'રાજકોટ: વિંંછીયાના ખેતરમાં ગ્રામ્ય SOGએ સપાટો બોલાવ્યો, 3.52 કરોડ રૂપિયાનો 705 કિલો ગાંજો ઝડપાયો'
+    url: https://www.etvbharat.com/gu/state/rajkot-705-kg-of-cannabis-worth-rs-3-dot-52-crore-seized-from-a-farm-in-vinchhiya-gjs26111804697
+    publisher: ETV Bharat
+    date: 2026-11-18
+    language: gu
 open_questions:
-    - The exact date of the raid was not reported; 18 November 2026 is the publication date and is used as the incident date.
-    - The weight is given as approximately 705 kilograms and the value as an estimate of 3.52 crore rupees, with no laboratory confirmation reported.
+    - The exact date of the raid was not reported; 18 November 2026 is the publication date of the reports and is used as the incident date.
+    - Accounts give slightly different weights, from 705.409 kg to 705.490 kg, and the value of 3.52 crore rupees is a police estimate; no laboratory confirmation was reported.
     - No count of individual cannabis plants was published.
     - No charge sheet, trial or court outcome was reported; the case remained under investigation.
-    - It is unclear whether the cannabis was grown on the field in Chhasia or brought there to dry, and police said they were investigating where the quantity came from.
+    - Police had not established how long the cultivation had run, where the seed came from or who the cannabis was meant for.
+media:
+  - kind: photo
+    url: https://www.etvbharat.com/gu/state/rajkot-705-kg-of-cannabis-worth-rs-3-dot-52-crore-seized-from-a-farm-in-vinchhiya-gjs26111804697
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/18-11-2026/1200-675-28138663-thumbnail-16x9-aa-aspera.jpg
+    publisher: ETV Bharat Gujarat
+    caption: 'Field photo captioned ''The farmer planted cannabis plants along with pigeon pea and maize in his field'', published with the ETV Bharat Gujarat report on the Chhasia village seizure. Photo: ETV Bharat Gujarat'
 ---
 
 Rajkot Special Operation Group officers raided a field in Chhasia village,
 Vinchiya taluka, Rajkot district, and seized about 705 kilograms of green
-cannabis plants. [@1,2,3] The cannabis plants had been left along the edge of the field to dry, police said. [@3] One person was arrested in connection with the
-cultivation. [@1,2,3] The arrested man was the owner of the field, Savshibhai Bachubhai Mithapara, aged 55. [@3]
+cannabis plants. [@1,2,3,4] The cannabis plants had been left along the edge of the field to dry, police said. [@3,5] The cannabis plants had been grown among pigeon pea and maize in the same field, according to the police account. [@5] One person was arrested in connection with the
+cultivation. [@1,2,3,4] The arrested man was the owner of the field, Savshibhai Bachubhai Mithapara, aged 55. [@3,5]
 
-The seized cannabis was estimated to be worth 3.52 crore rupees. [@1,2,3] Police
+The seized cannabis was estimated to be worth 3.52 crore rupees. [@1,2,3,5] Police
 acted against the accused under the Narcotic Drugs and Psychotropic Substances
-(NDPS) Act. [@1,2,3] The search was carried out under the guidance of the Rajkot Range inspector general of police and the district police chief. [@3]
+(NDPS) Act. [@1,2,3,5] The search was carried out under the guidance of the Rajkot Range inspector general of police and the district police chief. [@3]
 
 Investigators were examining whether a wider network was involved in the illegal
-cultivation. [@1,2,3]
+cultivation. [@1,2,3,5]
