@@ -83,10 +83,15 @@ sources:
     publisher: Варненско Утро
     date: 2026-11-17
     language: bg
+  - title: Две разкрити наркооранжерии, килограми иззети наркотици и двама задържани във Варна
+    url: https://petel.bg/Dve-razkriti-narkooranzherii--kilogrami-izzeti-narkotitsi-i-dvama-zadarzhani-vav-Varna__678662
+    publisher: Petel.bg
+    date: 2026-11-18
+    language: bg
 ---
 
 Police in Varna detained two men after finding two high-tech cannabis
-greenhouses in the city and in Aksakovo municipality. [@1,5] The two detained men
+greenhouses in the city and in Aksakovo municipality. [@1,5,6] The two detained men
 were aged 34 and 33. [@3] The 34-year-old was caught around 17:00 while tending
 cannabis plants in the first greenhouse. [@1] The 33-year-old, known to police,
 was found tending cannabis plants in a hall in the industrial zone of a village
@@ -94,18 +99,18 @@ in Aksakovo municipality. [@1] That second operation took place at the end of
 the previous week during a drive against drug production and distribution. [@1]
 Two Varna men were detained in the operations and large quantities of marijuana
 and solid drugs were seized. [@4,5] Pre-trial proceedings were opened in both
-cases. [@2,5]
+cases. [@2,5,6]
 
 In the Varna greenhouse, officers found cannabis plants at various growth stages
 and nearly 15 kilograms of dried plant material that reacted as marijuana. [@1,5]
-Cocaine and methamphetamine were also seized there. [@1,5] At the Aksakovo hall,
+Cocaine and methamphetamine were also seized there. [@1,5,6] At the Aksakovo hall,
 police also seized about half a kilogram of methamphetamine and roughly half a
 kilogram of 6-monoacetylmorphine, an electronic scale and many empty bags for
-portioning drugs. [@1,5]
+portioning drugs. [@1,5,6]
 
 The first crop was grown in specially equipped hydroponic tents, with a separate
 area used for drying and processing the produce. [@1,5] The Aksakovo hall was
-fitted with climate and irrigation systems and had a separate drying room. [@1,5]
+fitted with climate and irrigation systems and had a separate drying room. [@1,5,6]
 Materials from the first case were reported to the district prosecutor's office.
 [@1] The 33-year-old was ordered held on remand, the strictest measure
 available. [@1]
