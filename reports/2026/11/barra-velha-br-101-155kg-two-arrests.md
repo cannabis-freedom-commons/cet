@@ -51,6 +51,11 @@ media:
     media_url: https://www.youtube.com/watch?v=SK19rQI8hS4
     publisher: 4oito
     caption: Video titled ''PRF apreende 155 quilos de maconha e prende dois homens na BR-101'', embedded in the 4oito article on the stop and seizure.
+  - kind: photo
+    url: https://www.pontonortejoinville.com.br/noticia/41959/jovens-sao-presos-transportando-155-quilos-de-maconha-em-carro-na-br-101-em-barra-velha
+    media_url: https://files.bewezy.com/thumbs/800/394/3b8e691269c2d9316680ddeb017e3e7f/9f299c4a2edca76cbb8d9ec396e4eb17/noticia-duas-imagens-2026-11-18t091718-327.jpg
+    publisher: Ponto Norte Joinville
+    caption: 'PRF handout photo published with the report on the 155 kg marijuana seizure on the BR-101 in Barra Velha. Photo: PRF/Divulgação'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d6f2b5b5c0bc87e818f1a27a74a64b39
@@ -76,6 +81,11 @@ sources:
     publisher: 4oito
     date: 2026-11-18
     language: pt
+  - title: Jovens são presos transportando 155 quilos de maconha em carro na BR-101 em Barra Velha
+    url: https://www.pontonortejoinville.com.br/noticia/41959/jovens-sao-presos-transportando-155-quilos-de-maconha-em-carro-na-br-101-em-barra-velha
+    publisher: Ponto Norte Joinville
+    date: 2026-11-18
+    language: pt
 open_questions:
   - The first account rounds the seizure to about 150 kg while later accounts give 155 kg; this report uses 155 kg.
   - No names were published for the two men, only their ages of 19 and 20.
@@ -85,18 +95,18 @@ open_questions:
 
 On the night of 17 November 2026, Federal Highway Police officers arrested two
 young men on the BR-101 in Barra Velha in northern Santa Catarina during a
-highway inspection. [@2,4] Those in the car were the 20-year-old driver and his
-19-year-old passenger. [@2,4] Both were arrested in flagrante and taken to the
-Civil Police station to face drug charges. [@3,4]
+highway inspection. [@2,4,5] Those in the car were the 20-year-old driver and his
+19-year-old passenger. [@2,4,5] Both were arrested in flagrante and taken to the
+Civil Police station to face drug charges. [@3,4,5]
 
 Officers had stopped a Hyundai HB20 with Florianopolis registration plates to
-carry out the inspection. [@1,4] During the inspection they found numerous pressed
+carry out the inspection. [@1,4,5] During the inspection they found numerous pressed
 marijuana tablets hidden in different parts of the car, distributed across the
-back seat, the floor and the boot. [@2,4] The seized load weighed 155 kilograms of
-marijuana. [@2,4] An initial account rounded the amount to about 150 kilograms.
+back seat, the floor and the boot. [@2,4,5] The seized load weighed 155 kilograms of
+marijuana. [@2,4,5] An initial account rounded the amount to about 150 kilograms.
 [@1]
 
 Police said the pair will answer for drug trafficking, which carries five to 15
-years in prison. [@3,4] The offence also carries a fine in addition to the prison
+years in prison. [@3,4,5] The offence also carries a fine in addition to the prison
 term. [@2] A lawyer for one of the men said the defence was travelling from
 Greater Florianopolis to Barra Velha to file for his release. [@2]
