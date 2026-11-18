@@ -47,6 +47,15 @@ sources:
     publisher: Daily Bangla Post
     date: 2026-11-18
     language: bn
+  - title: 71 Awami League, Chhatra League members among 565 arrested in Dhaka
+    url: https://thefinancialexpress.com.bd/home/71-awami-league-chhatra-league-members-among-565-arrested-in-dhaka
+    publisher: The Financial Express
+    date: 2026-11-18
+  - title: ডিএমপির অভিযানে গ্রেপ্তার ৫৬৫, মামলা ৬৪
+    url: https://www.ntvbd.com/bangladesh/news-1838525
+    publisher: NTV Online
+    date: 2026-11-18
+    language: bn
 open_questions:
   - The 565 arrests cover the whole 24-hour sweep across all alleged offences; how many were linked specifically to cannabis was not stated.
   - No arrested person was named and no charges or court outcomes were reported beyond the statement that legal proceedings are under way.
@@ -58,19 +67,19 @@ open_questions:
 
 Police in Dhaka arrested 565 people in a 24-hour drive across the capital,
 including 71 members of the Awami League and its student wing, the Bangladesh
-Chhatra League. [@1] The Dhaka Metropolitan Police (DMP) disclosed the figures
-in a statement on Wednesday. [@1,2] Of those arrested, 50 were from Ramna
+Chhatra League. [@1,3] The Dhaka Metropolitan Police (DMP) disclosed the figures
+in a statement on Wednesday. [@1,2,3] Of those arrested, 50 were from Ramna
 Division, 70 from Lalbagh, 91 from Wari, 58 from Motijheel, 68 from Tejgaon, 143
-from Mirpur, 29 from Gulshan and 55 from Uttara. [@1,2] Another person was
-arrested by the Detective Branch of police. [@1,2]
+from Mirpur, 29 from Gulshan and 55 from Uttara. [@1,2,3] Another person was
+arrested by the Detective Branch of police. [@1,2,3]
 
 During the operation police seized two unexploded crude bombs, fragments of six
 exploded crude bombs, 6,871 yaba pills, 2.1 kg of cannabis, 117 packets of
 heroin, nine bottles of Eskuf syrup, an autorickshaw, 29 torches, 1.75 litres of
-kerosene, 11 mobile phones and Tk 3,400 in cash. [@1,2] Police also seized an autorickshaw, 29 torches, 1.75 litres of kerosene, 11 mobile phones and Tk 3,400 in cash. [@2]
+kerosene, 11 mobile phones and Tk 3,400 in cash. [@1,2,3] Police also seized an autorickshaw, 29 torches, 1.75 litres of kerosene, 11 mobile phones and Tk 3,400 in cash. [@2]
 
 The raids were conducted across the jurisdictions of different police stations
 in Dhaka on Tuesday, leading to the arrests and recovery of the suspected
-explosives and drugs. [@1] The DMP said legal proceedings against those arrested
-are under way. [@1,2] Police filed 64 cases in connection with the drive. [@2] The activities of the Awami League remain banned, while the
-Chhatra League faces an outright ban. [@1]
+explosives and drugs. [@1,3] The DMP said legal proceedings against those arrested
+are under way. [@1,2,3] Police filed 64 cases in connection with the drive. [@2,4] The activities of the Awami League remain banned, while the
+Chhatra League faces an outright ban. [@1,3]
