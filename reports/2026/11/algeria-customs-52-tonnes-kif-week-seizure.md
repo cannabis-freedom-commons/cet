@@ -52,6 +52,11 @@ sources:
     publisher: Algérie Presse Service (APS)
     date: 2026-11-18
     language: zh
+  - title: 'Douanes : Saisie de plus d''un million de comprimés psychotropes en une semaine'
+    url: https://www.expressdz.dz/2026/11/18/douanes-saisie-de-plus-dun-million-de-comprimes-psychotropes-en-une-semaine/
+    publisher: L'express DZ
+    date: 2026-11-18
+    language: fr
 open_questions:
     - The bilan gives only national totals and does not say where in Algeria the seizures took place or how many separate operations were involved.
     - No arrests, charges or court outcomes were reported in connection with the week's seizures.
@@ -62,13 +67,13 @@ open_questions:
 
 Algeria's Directorate General of Customs published a bilan of its
 anti-drug-trafficking and psychotropic-substance activities covering the week
-from 8 to 14 November 2026. [@1,2,4] According to the overall bilan, the operations
+from 8 to 14 November 2026. [@1,2,4,5] According to the overall bilan, the operations
 carried out during that period led to the seizure of 5.2 tonnes of kif traité
-and 1,104,236 psychotropic tablets. [@1] The customs statement gave the weight of kif traité seized that week as 5.2 kilograms, and the psychotropic tablets as 1,104,236. [@3,4]
+and 1,104,236 psychotropic tablets. [@1] The customs statement gave the weight of kif traité seized that week as 5.2 kilograms, and the psychotropic tablets as 1,104,236. [@3,4,5]
 
 Customs said the results came from the continuous efforts of its brigades, both
 in their own operational interventions and in operations coordinated with the
-various security services. [@1,2,4] The Directorate said the results reflected the
+various security services. [@1,2,4,5] The Directorate said the results reflected the
 scale of field efforts by customs, the operational vigilance of its brigades and
 the importance of coordinating with security partners against illicit drug and
 psychotropic trafficking networks. [@1,2,4]
