@@ -53,21 +53,27 @@ sources:
     publisher: Loktej
     date: 2026-11-18
     language: hi
+  - title: 'Rajkot News: વિંછીયાના છાસિયામાંથી 705 કિલો લીલો ગાંજો ઝડપાયો, રૂ.3.52 કરોડનો મુદ્દામાલ જપ્ત'
+    url: https://www.gujaratijagran.com/gujarat/rajkot/rajkot-drug-bust-sog-seizes-705-kg-green-ganja-worth-rs-352-crore-in-vinchhiya-1979970
+    publisher: Gujarati Jagran
+    date: 2026-11-18
+    language: gu
 open_questions:
-  - The exact date of the raid was not reported; 18 November 2026 is the publication date and is used as the incident date.
-  - The weight is given as approximately 705 kilograms and the value as an estimate of 3.52 crore rupees, with no laboratory confirmation reported.
-  - No count of individual cannabis plants was published, and no name or age was given in the English account of the arrested person.
-  - No charge sheet, trial or court outcome was reported; the case remained under investigation.
+    - The exact date of the raid was not reported; 18 November 2026 is the publication date and is used as the incident date.
+    - The weight is given as approximately 705 kilograms and the value as an estimate of 3.52 crore rupees, with no laboratory confirmation reported.
+    - No count of individual cannabis plants was published.
+    - No charge sheet, trial or court outcome was reported; the case remained under investigation.
+    - It is unclear whether the cannabis was grown on the field in Chhasia or brought there to dry, and police said they were investigating where the quantity came from.
 ---
 
 Rajkot Special Operation Group officers raided a field in Chhasia village,
 Vinchiya taluka, Rajkot district, and seized about 705 kilograms of green
-cannabis plants. [@1,2] One person was arrested in connection with the
-cultivation. [@1,2]
+cannabis plants. [@1,2,3] The cannabis plants had been left along the edge of the field to dry, police said. [@3] One person was arrested in connection with the
+cultivation. [@1,2,3] The arrested man was the owner of the field, Savshibhai Bachubhai Mithapara, aged 55. [@3]
 
-The seized cannabis was estimated to be worth 3.52 crore rupees. [@1,2] Police
+The seized cannabis was estimated to be worth 3.52 crore rupees. [@1,2,3] Police
 acted against the accused under the Narcotic Drugs and Psychotropic Substances
-(NDPS) Act. [@1,2]
+(NDPS) Act. [@1,2,3] The search was carried out under the guidance of the Rajkot Range inspector general of police and the district police chief. [@3]
 
 Investigators were examining whether a wider network was involved in the illegal
-cultivation. [@1,2]
+cultivation. [@1,2,3]
