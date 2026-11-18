@@ -61,22 +61,33 @@ sources:
     publisher: Lubartow24.pl
     date: 2026-11-17
     language: pl
+  - title: 28-latek zatrzymany za posiadanie znacznych ilości marihuany. Grozi mu do 10 lat więzienia - Wspólnota Lubartowska
+    url: https://lubartow.24wspolnota.pl/informacje-lubartowskie/28-latek-zatrzymany-za-posiadanie-znacznych-ilosci-marihuany-grozi-mu-do-10-lat-wiezienia/OGuCfBnDmwFa3yzRVd4b
+    publisher: Wspólnota Lubartowska
+    date: 2026-11-17
+    language: pl
+open_questions:
+    - No weight was published for the marijuana; the seizure was given only as nearly 1,700 dealer portions.
+    - The marijuana was identified with a field drug tester; no laboratory analysis was reported.
+    - No detention measure, plea or court outcome was reported.
+    - 13 November 2026 is inferred from the source's 'last Friday' relative to its 17 November 2026 publication date.
+    - The police statement is the origin of all accounts of the case, so they are not independent reporting.
 ---
 
 Lubartów criminal investigators said their own findings and the information
 available to them indicated that a 28-year-old resident of Lubartów commune
-might be holding intoxicating drugs. [@2] Acting on that information, the
-officers searched the man's living quarters. [@2] The search took place on the
+might be holding intoxicating drugs. [@2,4] Acting on that information, the
+officers searched the man's living quarters. [@2,4] The search took place on the
 previous Friday. [@2] Officers detained the 28-year-old and transported him to
 the Lubartów police station, where he was placed in the room for detained
-persons. [@2] He was then brought to the prosecutor's office and charged with
-possessing a significant quantity of narcotic drugs. [@2]
+persons. [@2,4] He was then brought to the prosecutor's office and charged with
+possessing a significant quantity of narcotic drugs. [@2,4]
 
 In the searched room, officers found dried plant material packed in a foil bag.
 [@2] Officers found the dried plant material in one room, packed in a foil bag
-and five plastic jars. [@1,3] Analysis of the secured material with a drug tester
-established with certainty that it was prohibited marijuana. [@2] Police said
-the total seizure amounted to nearly 1,700 dealer portions of marijuana. [@2]
+and five plastic jars. [@1,3,4] Analysis of the secured material with a drug tester
+established with certainty that it was prohibited marijuana. [@2,4] Police said
+the total seizure amounted to nearly 1,700 dealer portions of marijuana. [@2,4]
 
 Police said the charge of possessing a significant quantity of intoxicants is
-punishable by up to 10 years' imprisonment. [@2,3]
+punishable by up to 10 years' imprisonment. [@2,3,4]
