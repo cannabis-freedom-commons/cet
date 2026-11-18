@@ -39,21 +39,35 @@ sources:
     publisher: Flash-TV
     date: 2026-11-17
     language: el
+  - title: 'Νεστόριο: Σύλληψη 29χρονου για κατοχή 7,3 γρ. κάνναβης'
+    url: https://e-ptolemeos.gr/nestorio-syllipsi-29chronoy-gia-katochi-73-gr-kannavis
+    publisher: e-ptolemeos.gr
+    date: 2026-11-17
+    language: el
+  - title: 'Καστοριά: Χειροπέδες σε 29χρονο για κατοχή ναρκωτικών ουσιών'
+    url: https://tharos.gr/dytiki-makedonia/kastoria/kastoria-cheiropedes-se-29chrono-gia-katochi-narkotikon-ousion/
+    publisher: Θάρρος
+    date: 2026-11-17
+    language: el
+  - title: Συνελήφθη 29χρονος για κατοχή ναρκωτικών ουσιών, σε περιοχή της Καστοριάς
+    url: https://www.eordaia.org/synelifthi-29xronos-gia-katoxi-narkotikon-ousion-se-perioxi-tis-kastorias/
+    publisher: Eordaia.org
+    date: 2026-11-17
+    language: el
 open_questions:
-  - The weight of the two handmade cannabis cigarettes was not stated, so only the 7.3 grams of raw cannabis is counted in the seized weight.
-  - The exact location within the Kastoria area where the check took place was not named.
-  - No plea, charge detail or court outcome was reported beyond the case file to be submitted to the prosecutor.
-  - The whole account rests on a single outlet report.
+    - The weight of the two handmade cannabis cigarettes was not stated, so only the 7.3 grams of raw cannabis is counted in the seized weight.
+    - The exact location within the Kastoria area where the check took place was not named.
+    - No plea, charge detail or court outcome was reported beyond the case file to be submitted to the prosecutor.
+    - The outlets reporting the arrest reproduce the same Hellenic Police statement, so they are not independent accounts.
 ---
 
 Officers of the Nestorio police station in Kastoria arrested a 29-year-old Greek
 national in an area of Kastoria at midday on 16 November 2026 for possession of
-drugs. [@1] The check was carried out as part of targeted action against the
-possession and use of drugs. [@1]
+drugs. [@1,2] The check was carried out as part of targeted action against the
+possession and use of drugs. [@1,3]
 
 Officers checking him found and seized a total of 7.3 grams of raw cannabis and
-two handmade cannabis cigarettes in his possession. [@1] The preliminary
+two handmade cannabis cigarettes in his possession. [@1,3] The preliminary
 investigation was handled by the Kastoria narcotics enforcement department, and
 the case file drawn up against him was to be submitted to the Kastoria
-misdemeanours prosecutor. [@1]
-
+misdemeanours prosecutor. [@1,4]
