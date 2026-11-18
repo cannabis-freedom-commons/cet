@@ -84,16 +84,25 @@ sources:
     publisher: Disha daily
     date: 2026-11-18
     language: te
+  - title: స్నాప్‌చాట్‌లో డ్రగ్స్ దందా! | 3 Arrested for Drug dealing on Snapchat!
+    url: https://www.manatelangana.news/amp/telangana-breaking-news/3-arrested-for-drug-dealing-on-snapchat-1653077
+    publisher: మన తెలంగాణ
+    date: 2026-11-18
+    language: te
 media:
   - kind: photo
     url: https://www.siasat.com/snapchat-orders-crypto-payments-eagle-force-busts-ganja-network-3580539/
     media_url: https://cdn.siasat.com/wp-content/uploads/2026/11/ganja.jpg
     publisher: The Siasat Daily
     caption: The EAGLE Force team with the arrested men in the foreground after the Manikonda seizure.
+open_questions:
+    - No charge sheet, plea or trial outcome was reported; the case was at the investigation stage when the arrests were announced.
+    - The first accused's name is transliterated as Mohammed Idris Kaleem in Telugu-language accounts and Mohammed Idres Kaleem in English ones.
+    - The ganja and the OG Kush were weighed separately, at 1.240 kilograms and 16.59 grams, and no combined weight was published.
 ---
 
 Telangana's EAGLE Force arrested three people in Hyderabad and seized 1.24 kg of
-ganja, 16.59 grams of OG Kush, three mobile phones and a car. [@1,2,3,5,7,9] Police said the operation was carried out jointly by EAGLE Force and the Hyderabad Narcotics police. [@8] The arrested
+ganja, 16.59 grams of OG Kush, three mobile phones and a car. [@1,2,3,5,7,9,10] Police said the operation was carried out jointly by EAGLE Force and the Hyderabad Narcotics police. [@8,10] The arrested
 men were Mohammed Idres Kaleem, 28, Syed Abbas Husaini, 30, and Mohammed Sheikh,
 23. [@1,2,4,6,7] Idres and Abbas allegedly managed the Snapchat accounts and handled customer orders, while Sheikh, a cab driver, delivered the contraband to customers at different locations in the city. [@2,6] The operation followed information that ganja and OG Kush were being
 moved in a white Maruti Tour H3 car on 15 November. [@1,6] Officers intercepted
@@ -106,10 +115,10 @@ Police said the men ran Snapchat accounts named ‘OGdude420’ and ‘Dude OG 4
 take orders and coordinate deliveries. [@1,2,4,6,8,9] Police said the accused sold drugs to youth and IT employees. [@9] After the first account was blocked,
 they created a new one under the name 'Dude OG 420' and carried on, police said.
 [@1,8] Their disclosures indicated they had supplied OG Kush to about 800–900
-consumers through online contacts, according to police. [@1,2,3,5,6,9] An analysis of the
+consumers through online contacts, according to police. [@1,2,3,5,6,9,10] An analysis of the
 wallet history found about 150 cryptocurrency transactions involving around 60
-consumers. [@1,5] An examination of Abbas’ mobile phone also revealed a RedotPay account with an option to deposit USDT cryptocurrency through the BNB Smart Chain network. [@2] Police linked the RedotPay USDT wallet to a Hong Kong-based crypto platform and said 11 users who sent money to it and another suspected peddler had been identified. [@3] Idres reportedly operated a cryptocurrency account for transactions involving the purchase and sale of OG Kush. [@2,5] Police identified Mumbai resident Shaik Farahan as the alleged
-main supplier of ganja and OG Kush to the network. [@1,5,8] Idres allegedly repacked the drugs into small sachets of about five grams each and handed them over to Sheikh for delivery. [@2,5] Idres and Sheikh allegedly procured bulk quantities of ganja and OG Kush from supplier Shaik Farahan, based in Mumbai, and transported the contraband to Hyderabad by bus. [@2] Farahan was absconding
+consumers. [@1,5,10] An examination of Abbas’ mobile phone also revealed a RedotPay account with an option to deposit USDT cryptocurrency through the BNB Smart Chain network. [@2] Police linked the RedotPay USDT wallet to a Hong Kong-based crypto platform and said 11 users who sent money to it and another suspected peddler had been identified. [@3] Idres reportedly operated a cryptocurrency account for transactions involving the purchase and sale of OG Kush. [@2,5] Police identified Mumbai resident Shaik Farahan as the alleged
+main supplier of ganja and OG Kush to the network. [@1,5,8,10] Idres allegedly repacked the drugs into small sachets of about five grams each and handed them over to Sheikh for delivery. [@2,5] Idres and Sheikh allegedly procured bulk quantities of ganja and OG Kush from supplier Shaik Farahan, based in Mumbai, and transported the contraband to Hyderabad by bus. [@2] Farahan was absconding
 and police were trying to trace and arrest him. [@1,8]
 
 A case was registered under sections 8(c), 20(b)(ii)(B), 27A and 29 of the NDPS
