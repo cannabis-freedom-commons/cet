@@ -84,47 +84,34 @@ sources:
     publisher: Elnashra News
     date: '2026-11-01'
     language: ar
+  - title: إحباط تهريب مواد مخدرة عبر منفذ حدودي مع لبنان | تأكد
+    url: https://www.verify-sy.com/ar/topic/SecurityIncidents/newsroom/foiling-the-smuggling-of-narcotics-through
+    publisher: تأكد
+    date: 2026-11-01
+    language: ar
 open_questions:
-  - >-
-    The article gives only its publication date of 1 November 2026 and no separate day for the inspection and
-    seizure.
-  - No suspects were named and no arrests, charges or court outcomes were reported.
-  - >-
-    Only one accessible source for this event was found; no second outlet or agency statement confirming it
-    was located.
-  - The 17 grams of heroin seized alongside the hashish are excluded from the cannabis figure.
-  - Whether the lead photo on the source page shows this seizure was not established.
-  - The article gives only its publication date of 1 November 2026 and no separate day for the interception.
-  - The 17 grams of heroin seized with the hashish are excluded from the cannabis figure.
-  - >-
-    No independent second outlet was found; the English and Arabic pages are the same publisher's editions of
-    this report.
-  - >-
-    Whether the lead photo on the source page shows this seizure could not be verified from its caption and
-    surrounding text.
-  - >-
-    The Horrya article also describes October anti-narcotics operations that seized 450,000 Captagon pills and
-    detained two suspects in Homs, a separate event left out here.
-  - >-
-    Whether the lead photo on the Horrya page shows this specific seizure could not be verified from its
-    generic caption.
+    - The source gives only its publication date of 1 November 2026 and no separate day for the inspection and seizure.
+    - No suspects were named and no arrests, charges or court outcomes were reported.
+    - The 17 grams of heroin seized alongside the hashish are excluded from the cannabis figure.
+    - All the accounts found, including the Verify-sy report, reproduce the same Syrian customs statement; no independent reporting has been located.
+    - The Horrya article also describes October anti-narcotics operations that seized 450,000 Captagon pills and detained two suspects in Homs, a separate event left out here.
 ---
 
-Syrian customs officers seized 2.6 kilograms of hashish hidden in a loudspeaker at the Qamar crossing with Lebanon. [@1,2,3,4,5,6,7]
+Syrian customs officers seized 2.6 kilograms of hashish hidden in a loudspeaker at the Qamar crossing with Lebanon. [@1,2,3,4,5,6,7,8]
 
 Syria's General Authority for Borders and Customs said it foiled an attempt to
 smuggle a quantity of narcotics through the Qamar Bridge border crossing with
 Lebanon during routine inspections of luggage belonging to arriving travelers.
-[@2,5,6,7] The inspection recovered 2,600 grams of hashish and 17 grams of heroin that
+[@2,5,6,7,8] The inspection recovered 2,600 grams of hashish and 17 grams of heroin that
 had been tightly concealed together inside a loudspeaker to disguise them and
-bypass customs inspection. [@3,5,6,7]
+bypass customs inspection. [@3,5,6,7,8]
 
 The 2,600 grams of hashish equal 2.6 kilograms and form the separately supported
 cannabis component of this mixed seizure, while the 17 grams of heroin are a
 non-cannabis drug excluded from the cannabis figure. [@2] The authority said a
 customs seizure report was drawn up and the necessary legal measures were taken,
 and it pledged continued efforts against narcotics smuggling with tighter
-surveillance of border crossings. [@4,5,7]
+surveillance of border crossings. [@4,5,7,8]
 
 The Qamar Bridge crossing lies in the Wadi Khaled area of Akkar in northern
 Lebanon. [@2,5,7] It is the only open border crossing in northern Lebanon with
