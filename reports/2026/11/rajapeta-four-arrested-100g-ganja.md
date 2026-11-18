@@ -49,27 +49,31 @@ sources:
     publisher: Namasthe Telangana
     date: 2026-11-17
     language: te
+  - title: గంజాయితో పట్టుబడిన నలుగురు నిందితులు
+    url: https://www.eenadu.net/telugu-news/districts/nalgonda-news/534/126209244
+    publisher: Eenadu
+    date: 2026-11-17
+    language: te
 open_questions:
-  - The article says the arrests were made on Tuesday and is datelined 17 November 2026; no separate calendar date for the operation was given.
-  - The 100-gram figure is an approximate police estimate and no laboratory test of the material was reported.
-  - No charges, remand decision or court outcome were reported after the arrests.
-  - No independent account of the operation was located; the report rests on a single police-sourced article.
+    - The arrests were reported as made on Tuesday and the accounts are datelined 17 November 2026; no separate calendar date or time for the operation was given.
+    - The 100-gram figure is an approximate police estimate and no laboratory test of the material was reported.
+    - No charges, remand decision or court outcome were reported after the arrests.
+    - Both accounts of the operation rest on the Rajapeta sub-inspector's statement, so there is no independent reporting of the arrests.
 ---
 
 Police in Rajapeta, Yadadri Bhuvanagiri district, Telangana, arrested four young
 men on Tuesday, 17 November 2026, on suspicion of illegally possessing ganja on
-the outskirts of Rajapeta village. [@1] The four were identified as men aged 19
+the outskirts of Rajapeta village. [@1,2] The four were identified as men aged 19
 to 21 from Challur, Pamukunta, Venkatapuram and Basantapur villages, police
 said. [@1]
 
 Officers seized about 100 grams of ganja, a motorcycle and four mobile phones
-from the four men, according to police. [@1] The operation followed a tip that
+from the four men, according to police. [@1,2] The operation followed a tip that
 four people were carrying ganja in the village outskirts, and sub-inspector
 Mohammad Takhiyuddin carried out the checks with his staff. [@1] Questioning the
 four suspects yielded the 100 grams of ganja, police said. [@1]
 
 During questioning the men said they had bought the ganja in Dhoolpet,
 Hyderabad, and brought it to Rajapeta mandal to consume and sell it, police
-said. [@1] The sub-inspector warned that police would act against ganja users as
+said. [@1,2] The sub-inspector warned that police would act against ganja users as
 well as sellers and urged young people to keep away from drugs. [@1]
-
