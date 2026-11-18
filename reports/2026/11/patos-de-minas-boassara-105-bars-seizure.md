@@ -85,6 +85,16 @@ sources:
     publisher: Correio Regional
     date: 2026-11-18
     language: pt
+  - title: Idoso é preso com 105 tabletes de maconha na zona rural de Patos de Minas
+    url: https://patrocinioonline.com.br/noticias/idoso-e-preso-com-105-tabletes-de-maconha-na-zona-rural-de-patos-de-minas
+    publisher: Patrocínio Online
+    date: 2026-11-18
+    language: pt
+open_questions:
+    - 'Reports differ on the suspect''s age: this account of the 15th Military Police Battalion gives 61, while PatosJá and Patos Notícias described him as about 70.'
+    - This account places the seizure on the afternoon of 17 November 2026, while earlier reports describe the operation on the night of the same day.
+    - No weight, street value or destination for the 105 bars was reported beyond the statement that the drug would be distributed in Patos de Minas and elsewhere in the region.
+    - No charge, plea hearing or court outcome was reported; the Civil Police were to continue the investigation.
 ---
 
 Military Police seized 105 bars of marijuana hidden in drums in the rural zone
@@ -93,14 +103,14 @@ of Patos de Minas on the night of Tuesday 17 November 2026. [@1,4] A man of abou
 [@1,4]
 
 Officers acted on reports of people in pickup trucks on BR-352 near the entrance
-to Boassara. [@1,4] Reports also mentioned a motorcyclist who passed the stretch
-often to watch what was hidden in the vegetation. [@2] The drums had been buried
-in the ground among the vegetation. [@3] Inside the drums officers found the 105
+to Boassara. [@1,4,5] Reports also mentioned a motorcyclist who passed the stretch
+often to watch what was hidden in the vegetation. [@2,5] The drums had been buried
+in the ground among the vegetation. [@3,5] Inside the drums officers found the 105
 marijuana bars and two precision scales, and sniffer dogs helped in the search.
-[@2] The man was found at a house near the site, and a search of him turned up a
-small marijuana tablet, R$ 1,840 in cash and a mobile phone. [@2] He denied
+[@2,5] The man was found at a house near the site, and a search of him turned up a
+small marijuana tablet, R$ 1,840 in cash and a mobile phone. [@2,5] He denied
 knowing about or having any involvement with the material found in the woods.
-[@2]
+[@2,5]
 
 Captain Caixeta said the drug would be distributed not only in Patos de Minas
 but in other places in the region. [@1] He was arrested in the act and taken
