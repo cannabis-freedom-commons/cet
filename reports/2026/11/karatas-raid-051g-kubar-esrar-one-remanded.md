@@ -43,25 +43,36 @@ sources:
     publisher: Aksiyon
     date: 2026-11-18
     language: tr
+  - title: 'Adana''da büyük uyuşturucu operasyonu: 852 sentetik ilaç ele geçirildi'
+    url: https://www.haber365.com/haber/adanada-buyuk-uyusturucu-operasyonu-852-sentetik-ilac-ele-gecirildi-487398
+    publisher: Haber365
+    date: 2026-11-18
+    language: tr
 open_questions:
-  - No separate date is given for the operation; 18 November 2026 is the article's publication date and is used as the incident date.
-  - The kubar esrar was recorded at the scene with no laboratory confirmation reported.
-  - No formal charge, trial date or sentence was reported beyond the suspect's remand in custody.
-  - The account rests on a single Aksiyon report reproducing an Adana gendarmerie statement; no independent corroboration was found.
-  - Most of the seized material was synthetic drugs, cocaine, heroin and an A-M substance; no combined weight including the cannabis was published, so only the 0.51 g of kubar esrar is counted.
+    - No separate date is given for the operation; 18 November 2026 is the articles' publication date and is used as the incident date.
+    - The kubar esrar was recorded at the scene with no laboratory confirmation reported.
+    - No formal charge, trial date or sentence was reported beyond the suspect's remand in custody.
+    - Both accounts reproduce the same Adana gendarmerie statement, so there is no independent corroboration of it.
+    - Most of the seized material was synthetic drugs, cocaine, heroin and an A-M substance; no combined weight including the cannabis was published, so only the 0.51 g of kubar esrar is counted.
+    - The 852 synthetic drugs are counted in units with no weight given, and the substance is not identified.
+media:
+  - kind: photo
+    url: https://www.haber365.com/haber/adanada-buyuk-uyusturucu-operasyonu-852-sentetik-ilac-ele-gecirildi-487398
+    media_url: https://cdn.haber365.com/uploads/1280/images/news/9190fbf5-3c42-469e-b5dc-d5eea8fdb55b.jpg
+    publisher: Haber365
+    caption: 'Seized drugs and other items laid out on tables beneath a ''T.C. Adana Valiliği İl Jandarma Komutanlığı'' banner, in the handout photo published with the Adana gendarmerie''s statement on the Karataş raid. Photo: Adana İl Jandarma Komutanlığı'
 ---
 
 Adana provincial gendarmerie teams raided an address in Karataş district, Adana,
-acting on intelligence about drug trafficking. [@1] A suspect identified only as
-O.O. was detained at the residence and then remanded in custody by a court. [@1]
+acting on intelligence about drug trafficking. [@1,2] A suspect identified only as
+O.O. was detained at the residence and then remanded in custody by a court. [@1,2]
 
 At the address officers found 0.51 grams of kubar esrar, a compressed cannabis
 resin, alongside 1.15 grams of cocaine, 1.21 grams of heroin and 1.21 grams of
-an A-M substance. [@1] The search also turned up 852 synthetic drug units. [@1]
+an A-M substance. [@1,2] The search also turned up 852 synthetic drug units. [@1,2]
 Officers recorded the found material through a crime-scene examination and an
 official report. [@1] The search also found a motorcycle reported stolen from
-Kahramanmaraş on 3 November 2026, which was returned to its owner. [@1]
+Kahramanmaraş on 3 November 2026, which was returned to its owner. [@1,2]
 
 The gendarmerie said it would continue intelligence work against similar crimes
 and that the investigation was continuing. [@1]
-
