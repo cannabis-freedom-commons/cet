@@ -67,6 +67,11 @@ sources:
     publisher: Canal 9 Bío Bío Televisión
     date: 2026-11-17
     language: es
+  - title: Desarticulan estructura criminal que adquiría, abultaba y distribuía droga en el Gran Concepción – Atacama Noticias
+    url: https://www.atacamanoticias.cl/2026/11/17/desarticulan-estructura-criminal-que-adquiria-abultaba-y-distribuia-droga-en-el-gran-concepcion/
+    publisher: Atacama Noticias
+    date: 2026-11-17
+    language: es
 open_questions:
     - No separate date is given for the searches, arrests or court hearing; 17 November 2026 is the publication date and stands in for the incident date.
     - The 3.7 kg of cannabis sativa is a seizure weight only, with no laboratory confirmation reported.
@@ -79,25 +84,25 @@ open_questions:
 
 A criminal band that moved drugs from Chile's Metropolitan Region for
 distribution across Gran Concepción was dismantled, with five people detained.
-[@1,2] The detainees were three men and two women, all adults. [@1] Subprefect
+[@1,2,3] The detainees were three men and two women, all adults. [@1] Subprefect
 Marco Muñoz said the items found showed a structure prepared to carry out its
 activities and protect itself from confrontations or police checks. [@1]
 
 Officers searched four homes, one each in Talcahuano, Hualpén and Concepción and
-a fourth in a rural area of Quillón. [@1,2] Officers seized 3 kg 700 g (3.7 kg) of
-cannabis sativa and 3 kg 200 g of cocaine hydrochloride. [@1,2] They also seized
+a fourth in a rural area of Quillón. [@1,2,3] Officers seized 3 kg 700 g (3.7 kg) of
+cannabis sativa and 3 kg 200 g of cocaine hydrochloride. [@1,2,3] They also seized
 more than a kilo each of lidocaine and caffeine and about two kilos of sodium
-bicarbonate, used to increase the volume of the drugs. [@1,2] A Glock pistol, two
+bicarbonate, used to increase the volume of the drugs. [@1,2,3] A Glock pistol, two
 17-round magazines and a 50-round drum magazine were also seized. [@1] Officers
 also took three vehicles, mobile phones, equipment for dosing drugs, two
 bulletproof vests and about $3 million in cash. [@1] The total seized drug load
 was estimated at 1,012 doses, valued at more than $83 million. [@1]
 
 The five were formally charged with drug trafficking and possession of essential
-chemical substances used to produce or bulk out drugs. [@1] The members of the organisation face minimum penalties of five to 10 years and one day in prison. [@2] One of them was also
+chemical substances used to produce or bulk out drugs. [@1] The members of the organisation face minimum penalties of five to 10 years and one day in prison. [@2,3] One of them was also
 charged under the firearms control law. [@1] Four of the detainees were placed
 in pretrial detention after the hearing, while one of the women was left subject
-to measures under article 155 of the Criminal Procedure Code. [@1,2] Prosecutor
+to measures under article 155 of the Criminal Procedure Code. [@1,2,3] Prosecutor
 Carla Hernández said the woman had not been identified during the investigation
 and that the drugs attributed to her, a little over half a kilo of cannabis
 sativa and about 60 grams of another substance, were found in her bedroom. [@1]
