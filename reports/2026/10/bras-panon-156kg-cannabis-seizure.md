@@ -219,19 +219,11 @@ sources:
     publisher: Top FM
     date: '2026-10-21'
     language: fr
-open_questions:
-  - Reports gave 150 kg, 156 kg and 157 kg. The case figure used in Mauritius was 155.7 kg.
-  - >-
-    Two men were detained at the scene. Later Réunion reports describe three people remanded and up
-    to five people detained in the wider investigation.
-  - >-
-    Investigators were checking whether the boats seized in Mauritius had been used in the alleged
-    operation.
-  - The Mauritian charge dated the alleged agreement to 25 July. The cannabis was seized on 26 July.
-  - >-
-    The sources do not establish whether the separate Madagascar case shared routes or participants
-    with this case.
-  - Chimajee was due back in court on 4 November. The outcome of that hearing was not established.
+  - title: 'Saisie de 156 kg de cannabis – Ce matin : Descente de la FCC chez l’ex-JM Véronique Leu-Govind'
+    url: https://www.lemauricien.com/le-mauricien/saisie-de-156-kg-de-cannabis-ce-matin-descente-de-la-fcc-chez-lex-jm-veronique-leu-govind/716918/
+    publisher: Le Mauricien
+    date: 2026-09-07
+    language: fr
 ---
 
 A Mauritian court kept suspected skipper Ravindra Chimajee in custody on 20 October 2026 over an alleged attempt to import cannabis from Réunion. [@19] He was placed in pretrial detention at Beau-Bassin prison on a provisional allegation of conspiracy to import cannabis. [@19]
@@ -242,6 +234,6 @@ Witnesses alerted Réunion gendarmes after seeing two men moving luggage towards
 
 ## Arrests and boat seizures
 
-Mauritian police arrested Yogajee Govind, known as Gulshan, at Chamarel on 31 July, and separately arrested Chimajee at a clinic in Baie-du-Tombeau. [@9,10,11,12,13,17] Govind and Chimajee were remanded after being charged in August with conspiracy to import cannabis, and Govind also faced cultivation and methadone charges. [@10] Govind is the husband of minister delegate Véronique Leu-Govind, who stayed in government after the opposition called for her resignation. [@9,11,12,13] Police in Mauritius announced a fifth arrest on 4 September, and Réunion La 1ère reported that ten people were being prosecuted by early September, five on each island. [@4,6,7] Investigators also examined a possible link with a separate case in Madagascar. [@15,16]
+Mauritian police arrested Yogajee Govind, known as Gulshan, at Chamarel on 31 July, and separately arrested Chimajee at a clinic in Baie-du-Tombeau. [@9,10,11,12,13,17] Govind and Chimajee were remanded after being charged in August with conspiracy to import cannabis, and Govind also faced cultivation and methadone charges. [@10] Govind is the husband of minister delegate Véronique Leu-Govind, who stayed in government after the opposition called for her resignation. [@9,11,12,13] Police in Mauritius announced a fifth arrest on 4 September, and Réunion La 1ère reported that ten people were being prosecuted by early September, five on each island. [@4,6,7,20] Police are interested in Rutnee’s relations with skipper Kris Chimajee and his connection with Shaan Kumar Choolun, alias Mithun, whose interrogation began at the end of the previous week with priority given to ammunition seized at his home at Dilo Pourri, Au Morne, while his alleged role in the Réunion drug seizure is to be examined later. [@20] Rutnee appeared before the Weekend Court on Saturday and was returned to police custody, to reappear on Monday before the Bambous court. [@20] A search of Rutnee’s home seized a two-piece diving suit, a GoPro camera, clothes, a sports bag and a mobile phone with a damaged screen, which investigators are examining for possible use in the maritime part of the alleged traffic. [@20] The fifth suspect was 19-year-old Vikish Rutnee, alias Marvesh, arrested on Friday at La-Gaulette by Anti-Drug and Smuggling Unit officers of the Western Division on suspicion of links to the network behind the late-July attempt to bring 156 kg of cannabis from Réunion to Mauritius. [@20] Investigators also examined a possible link with a separate case in Madagascar. [@15,16]
 
-On 7 September Mauritius’s Financial Crimes Commission seized two speedboats from Chimajee’s home and moved them to its Réduit Triangle headquarters. [@4,14,18] Officers were to examine the boats for cannabis traces and analyse satellite phones, documents and other devices seized in the searches. [@4,14] The commission also examined possible money laundering linked to the alleged network. [@14]
+On 7 September Mauritius’s Financial Crimes Commission seized two speedboats from Chimajee’s home and moved them to its Réduit Triangle headquarters. [@4,14,18] On the morning of 7 September the Financial Crimes Commission searched the home of former Junior Minister for Arts and Culture Véronique Leu-Govind in connection with the investigation into the 156 kg cannabis seizure in Réunion. [@20] Officers were to examine the boats for cannabis traces and analyse satellite phones, documents and other devices seized in the searches. [@4,14] The commission also examined possible money laundering linked to the alleged network. [@14,20] The Leu-Govind search was one of five searches at suspects’ homes in the west aimed at pursuing possible money laundering, financing of drug dealing and asset recovery. [@20]
