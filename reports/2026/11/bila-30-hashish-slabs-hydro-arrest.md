@@ -45,30 +45,41 @@ sources:
     publisher: تليجراف مصر
     date: 2026-11-10
     language: ar
+  - title: 'امن كفر الشيخ: ضبط عنصرين إجراميين شديدي الخطورة وأسلحة وذخائر ومواد مخدرة'
+    url: https://www.eldyar.net/644369
+    publisher: جريدة الديار (Al-Diyar)
+    date: 2026-11-18
+    language: ar
 open_questions:
-  - The articles give no separate date for the raid; 10 November 2026 is the publication date and stands in for the incident date.
-  - The suspects were identified only by initials and ages, and their full names were not published.
-  - No amount was published for the seized cash, so it is not recorded in figures.
-  - No court outcome or formal charges beyond referral to the Public Prosecution were reported.
-  - Masrawy uses a July 2024 stock close-up of handcuffed wrists, so no photo of the Bila hashish and hydro seizure is listed.
+    - The articles give no separate date for the raid; 10 November 2026 is the publication date of the first reports and stands in for the incident date.
+    - The suspects were identified only by initials and ages, and their full names were not published; Al-Diyar writes the initials slightly differently from Masrawy.
+    - No amount was published for the seized cash, so it is not recorded in figures.
+    - No court outcome or formal charges beyond referral to the Public Prosecution were reported; Al-Diyar says only that the necessary legal procedures were taken.
+    - Masrawy uses a July 2024 stock close-up of handcuffed wrists, so no photo of the Bila hashish and hydro seizure is listed from the earlier reports.
+    - Al-Diyar published its account eight days after the first reports and also gives no separate raid date for the operation.
+media:
+  - kind: photo
+    url: https://www.eldyar.net/644369
+    media_url: https://media.eldyar.net/img/26/11/18/644369.jpg
+    publisher: جريدة الديار (Al-Diyar)
+    caption: 'Police van of the Bella detectives, captioned ''مباحث بيلا بطريق غيط العنبون'' (Bella detectives on Gheit el-Ainoun road), published as the lead photo of the Al-Diyar report on the campaign. Photo: Al-Diyar'
 ---
 
 Detectives from the Bila police station investigations unit in Kafr El Sheikh
 arrested two men described as dangerous repeat offenders on suspicion of drug
-trafficking. [@1] Police said intelligence indicated the suspects, a 44-year-old
+trafficking. [@1,3] Al-Diyar reported the campaign was carried out under the supervision of Assistant Interior Minister Major General Abdullah Mahmoud Flefel and Major General Mohamed El-Husseini, director of the Criminal Investigation Department of the Kafr El-Sheikh security directorate. [@3] Police said intelligence indicated the suspects, a 44-year-old
 resident of al-Geraida village and a 30-year-old resident of al-Tarzi village in
 Bila district, were trafficking hashish and hydro in Bila and neighbouring
-districts. [@1] Authorities identified the suspects only by their ages and
+districts. [@1,3] Authorities identified the suspects only by their ages and
 Arabic initials. [@1]
 
 Officers raided the suspects' location and seized 30 slabs of hashish, known
-locally as torba, weighing approximately 3.5 kilograms. [@1] Police also
-confiscated one kilogram of hydro, a hydroponic cannabis product. [@1] The raid
+locally as torba, weighing approximately 3.5 kilograms. [@1,3] Police also
+confiscated one kilogram of hydro, a hydroponic cannabis product. [@1,3] The raid
 additionally yielded a cartridge shotgun, a locally made shotgun and an
-unspecified amount of cash. [@2]
+unspecified amount of cash. [@2,3]
 
 During questioning the suspects admitted possessing the narcotics for sale, the
-two firearms for self-defence and the cash as proceeds of sale. [@1] Police drew
+two firearms for self-defence and the cash as proceeds of sale. [@1,3] Police drew
 up an official report on the incident and referred both men to the Public
 Prosecution for investigation. [@1]
-
