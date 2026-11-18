@@ -60,6 +60,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-18
     language: tr
+  - title: Samsun'da evinde kenevir yetiştiren şüpheliye gözaltı
+    url: https://www.yenisafak.com/gundem/samsunda-evinde-kenevir-yetistiren-oa-gozaltinda-samsun-haberleri-4873804
+    publisher: Yeni Şafak
+    date: 2026-11-18
+    language: tr
 open_questions:
     - The accounts give no separate date for the raid or the detention; 18 November 2026 is the publication date of the reports and is used as the incident date.
     - İHA gives the kubar esrar as 597 grams, while the DHA text carried by Son Dakika gives 597 without a unit and Sözcü gives no quantity.
@@ -79,18 +84,23 @@ media:
     media_url: https://izle.sondakika.com/2026/11/18/samsun-atakum-da-kenevir-yetistiren-sahsin-ev-8104-20438226_sd.mp4
     publisher: Son Dakika
     caption: 'Video of the house in Atakum where gendarmerie teams found nine cannabis plants and 597 grams of kubar esrar. Video: İHA / Son Dakika'
+  - kind: photo
+    url: https://www.yenisafak.com/gundem/samsunda-evinde-kenevir-yetistiren-oa-gozaltinda-samsun-haberleri-4873804
+    media_url: https://img.piri.net/piri/upload/3/2026/11/18/d00f9e4e-9eawme35ykfev72wdxw8bk.webp
+    publisher: Yeni Şafak
+    caption: The cannabis plants and kubar esrar, a pressed resin, seized in the Atakum, Samsun gendarmerie raid that led to O.A.'s detention, published with the Yeni Şafak report.
 ---
 
 Gendarmerie teams detained a man identified only as O.A. at his home in Atakum,
-a district (ilçe) of Samsun province. [@1] The raid was carried out by teams of
+a district (ilçe) of Samsun province. [@1,5] The raid was carried out by teams of
 the Samsun provincial gendarmerie command, the İl Jandarma Komutanlığı. [@1,3]
 O.A. was taken into custody over the incident. [@2]
 
 The gendarmerie said its teams acted within their work to prevent drug
 trafficking. [@1,3] Its officers carried out that work in Atakum district before
 they raided the house. [@2] That work established that O.A. was growing cannabis
-in the house with a climate-control system. [@2] The search found nine rooted
+in the house with a climate-control system. [@2,5] The search found nine rooted
 cannabis plants, kök kenevir, and one climate-control system. [@1,4] Officers also
-seized kubar esrar, a pressed cannabis resin. [@1,4] The DHA text carried by Son
+seized kubar esrar, a pressed cannabis resin. [@1,4,5] The DHA text carried by Son
 Dakika puts the kubar esrar at 597 'kubar esrar maddesi' without stating its
 weight. [@2] The İHA account puts the kubar esrar at 597 grams. [@4]
