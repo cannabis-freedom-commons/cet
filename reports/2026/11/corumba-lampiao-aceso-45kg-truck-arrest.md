@@ -52,6 +52,11 @@ sources:
     publisher: Folha MS
     date: 2026-11-17
     language: pt
+  - title: Maconha escondida em cabine de caminhão tinha Campo Grande como destino; dois são presos
+    url: https://acritica.net/policia/maconha-br262-corumba-caminhao/
+    publisher: A Crítica de Campo Grande
+    date: 2026-11-18
+    language: pt
 open_questions:
   - The weight was reported as about 45 kilograms, not an exact measured figure.
   - No identities, ages or statements of the two detainees were published.
@@ -61,18 +66,17 @@ open_questions:
 
 Federal Police officers arrested two men on the morning of 17 November 2026
 during an inspection at the Lampião Aceso fiscal post on the BR-262 highway in
-Corumbá. [@1] The two occupants of the intercepted truck were arrested and taken
+Corumbá. [@1,3] The truck was stopped on a stretch of the highway in the border region between Mato Grosso do Sul and Bolivia. [@3] The two occupants of the intercepted truck were arrested and taken
 to the Federal Police station. [@1] After the seizure they were taken to the
 Federal Police station in Corumbá and remained at the disposal of the
 authorities. [@2] No information about the identity of the two suspects had been
 disclosed. [@2] The investigation continued to identify other people possibly
 involved in transporting the marijuana and to clarify each detainee's
-participation in the case. [@2]
+participation in the case. [@2,3] No other arrests related to the case had been reported. [@3]
 
 During the approach to the truck, agents found about 45 kilograms of marijuana
-stored in various packages inside the vehicle's cab. [@1] The drug was divided
-into various packages inside the vehicle, concealed within the cab. [@2]
+stored in various packages inside the vehicle's cab. [@1,3] The drug was divided
+into various packages inside the vehicle, concealed within the cab. [@2,3]
 According to the Federal Police account, the load was to be transported onward
-to Campo Grande. [@1] No details were disclosed about the origin of the load or
-who was to receive the material in the capital. [@2]
-
+to Campo Grande. [@1,3] No details were disclosed about the origin of the load or
+who was to receive the material in the capital. [@2,3]
