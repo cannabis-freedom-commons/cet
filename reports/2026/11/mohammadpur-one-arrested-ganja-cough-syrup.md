@@ -43,6 +43,11 @@ sources:
     publisher: Dainik Sokal
     date: 2026-11-18
     language: bn
+  - title: রাজধানী থেকে ছাত্রলীগের সাবেক নেতা গোলাম রব্বানী গ্রেপ্তার
+    url: https://www.channel24bd.tv/crime/article/359796/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%B0%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A7%80-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0
+    publisher: Channel 24
+    date: 2026-11-18
+    language: bn
 open_questions:
   - The cannabis amount was given only as one puria, with no weight, so no kilogram figure is recorded.
   - The 14 bottles of codeine-phosphate cough syrup are not counted in cannabis figures.
@@ -52,20 +57,19 @@ open_questions:
 ---
 
 Police arrested Md. Golam Rabbani Shamim, 38, in an operation in Mohammadpur,
-Dhaka. [@2] Officers detained him at about 8:10 pm on 18 November 2026 on the
+Dhaka. [@2,3] Officers detained him at about 8:10 pm on 18 November 2026 on the
 second floor of house 19, Road 3, B Block, Naboday Housing. [@1] The arrested
 man is a member of the Awami League central science and technology affairs
 committee and a former general secretary of the Selim Hall Chhatra League at
-RUET. [@2] Additional Police Commissioner of the Mohammadpur Zone, Jewel Rana,
+RUET. [@2,3] Additional Police Commissioner of the Mohammadpur Zone, Jewel Rana,
 confirmed the arrest the same night. [@1]
 
 Police said officers seized 14 bottles of Winctrex cough syrup containing
 codeine phosphate and triprolidine hydrochloride and one puria of ganja from
 him. [@1] Mohammadpur police said the raid followed secret information and also
-reported 14 bottles of cough syrup and one puria of ganja seized. [@2]
+reported 14 bottles of cough syrup and one puria of ganja seized. [@2,3]
 
 Police said he had remained in contact with central Awami League leaders by
 mobile phone and was staying in the area to create an unstable situation in
-Dhaka and to run the party’s procession activities. [@1] Police said further
-legal action against him was in process. [@1]
-
+Dhaka and to run the party’s procession activities. [@1,3] Police said further
+legal action against him was in process. [@1,3]
