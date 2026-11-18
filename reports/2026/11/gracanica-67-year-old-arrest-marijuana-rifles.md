@@ -61,24 +61,30 @@ sources:
     publisher: Vijesti.ba
     date: 2026-11-18
     language: bs
+  - title: Ухапшен мушкарац из Грачанице, у кући крио марихуану
+    url: https://atvbl.rs/vijesti/hronika/uhapsen-muskarac-iz-gracanice-u-kuci-krio-marihuanu/2374335
+    publisher: ATV
+    date: 2026-11-18
+    language: sr
 open_questions:
   - No quantity or weight was published for the seized plant material, so no cannabis figure is recorded.
   - The material was described only as resembling marijuana or drugs; laboratory confirmation has not been reported.
   - No court outcome, detention measure or plea was reported; the case was at the investigation stage.
   - The reports reproduce the Tuzla Canton police statement and are not independent accounts beyond that statement.
+  - The ATV article gives no date for the search or the arrest; the report's 17 November 2026 date rests on other reporting of the same police statement.
 ---
 
 Tuzla Canton police arrested 67-year-old A.M. from Gračanica after searching his
 family house and auxiliary buildings and finding suspected drugs, weapons and
-ammunition. [@3] The search was carried out on 17 November 2026 on the order of
+ammunition. [@3,4] The search was carried out on 17 November 2026 on the order of
 the Municipal Court in Gračanica and under the supervision of the Tuzla Canton
 prosecutor's office. [@3] Police suspect him of unauthorised production and
 trafficking of narcotic drugs and illegal possession of weapons and other
-explosive materials. [@1]
+explosive materials. [@1,4]
 
 Officers found and temporarily seized an unspecified quantity of plant material
 resembling marijuana together with other items linked to drug abuse. [@3] They
-also found two rifles, 60 rounds of ammunition and two cartridges. [@1] The
+also found two rifles, 60 rounds of ammunition and two cartridges. [@1,4] The
 operation involved criminal police, the anti-narcotics department, the special
 support police unit and Gračanica police officers. [@2]
 
@@ -86,4 +92,3 @@ Police said the seized material will be sent for expert examination to determine
 its composition. [@2] The suspect was deprived of liberty on the cantonal
 prosecutor's order and will be handed to the Tuzla Canton prosecutor's office
 after criminal processing. [@3] The investigation is ongoing. [@2]
-
