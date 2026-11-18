@@ -56,6 +56,16 @@ media:
     media_url: https://www.lavanguardia.com/files/article_main_microformat/uploads/2026/11/17/6afc79dc8610d.jpeg
     publisher: La Vanguardia
     caption: 'Police intervention in one of the homes in Alella and Teià. Photo: MMEE'
+  - kind: photo
+    url: https://capgros.elnacional.cat/es/sucesos/mossos-desmantelan-dos-plantaciones-marihuana-en-alella-teia-detienen-siete-personas_819970_102_amp.html
+    media_url: https://capgros.elnacional.cat/uploads/s1/16/10/46/2/plantacio-desmantellada_11_1280x644.png
+    publisher: Capgròs
+    caption: 'Dismantled indoor cannabis plantation from the Alella and Teià operation, in the Mossos d''Esquadra handout published with the article. Photo: Mossos d''Esquadra'
+  - kind: photo
+    url: https://capgros.elnacional.cat/es/sucesos/mossos-desmantelan-dos-plantaciones-marihuana-en-alella-teia-detienen-siete-personas_819970_102_amp.html
+    media_url: https://capgros.elnacional.cat/uploads/s1/16/10/47/0/imatges-de-l-operatiu_7_960x634.png
+    publisher: Capgròs
+    caption: 'Images of the operation in Alella and Teià, in the Mossos d''Esquadra handout. Photo: Mossos d''Esquadra'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 36b153095afdcc748493c8c7d1b37c1d
@@ -76,35 +86,40 @@ sources:
     publisher: El Debate
     date: 2026-11-17
     language: es
+  - title: Los Mossos desmantelan dos plantaciones de marihuana en Alella y Teià y detienen a siete personas
+    url: https://capgros.elnacional.cat/es/sucesos/mossos-desmantelan-dos-plantaciones-marihuana-en-alella-teia-detienen-siete-personas_819970_102_amp.html
+    publisher: Capgròs
+    date: 2026-11-17
+    language: es
 open_questions:
     - The 500,000-euro figure is an illicit-market estimate for the buds, not a seized cash amount, and no estimator is named.
     - No laboratory confirmation of the seized plants or buds was reported.
-    - No names, pleas or court outcome beyond the detainees being brought before the courts were reported.
+    - No names or pleas were reported, and no outcome of the detainees' 14 November appearance before the Mataró court is known.
     - The El Debate article credits Europa Press and, like the MSN and La Vanguardia pages, reproduces the same police statement, so these are not independent accounts; El Debate gives the total as 'more than 182 kilos' while another account puts it at 182.725 kg.
 ---
 
 Mossos d'Esquadra officers from the Premià de Mar investigation unit arrested
-seven men aged 34 to 46 on 12 November 2026. [@1,3] The men were held as suspected
+seven men aged 34 to 46 on 12 November 2026. [@1,3,4] The men were held as suspected
 authors of offences against public health, electricity fraud and membership of a
-criminal group. [@1,3] The detainees were brought before the courts, and the
-investigation remains open with further arrests not ruled out. [@2,3]
+criminal group. [@1,3,4] The detainees were brought before the courts, and the
+investigation remains open with further arrests not ruled out. [@2,3] The detainees were brought before the on-duty investigating court (juzgado de instrucción de guardia) of Mataró on 14 November 2026. [@4]
 
 In the Alella house officers found six rooms set up for indoor cannabis
-cultivation and seized 123.095 kilograms of buds ready for distribution. [@1,3] In
+cultivation and seized 123.095 kilograms of buds ready for distribution. [@1,3,4] In
 the Teià house they found three rooms with flowering plantations and seized 735
 marijuana plants plus 59.630 kilograms of drying buds. [@2,3] In total the Mossos
-seized 182.725 kilograms of marijuana buds and the 735 plants. [@2] The report
-says the buds could exceed 500,000 euros on the illicit market. [@2] Officers
+seized 182.725 kilograms of marijuana buds and the 735 plants. [@2,4] The report
+says the buds could exceed 500,000 euros on the illicit market. [@2,4] Officers
 later searched a flat in Badalona linked to the suspects and seized 10,000 euros
 in cash, police-interest documents, bank cards and ammunition of various
-calibres. [@2,3]
+calibres. [@2,3,4]
 
 The inquiry began in August 2026 after signs of indoor marijuana grows were
-detected at the two homes, one in Alella and one in Teià. [@1,3] Surveillance with
+detected at the two homes, one in Alella and one in Teià. [@1,3,4] Surveillance with
 Alella local police identified movements of people and vehicles and typical
 signs such as constantly running climate equipment and high electricity use.
 [@1] Checks with the supply company confirmed fraudulent connections to the
 power grid in both houses, and officers later disconnected them to prevent fire,
-electrocution and further fraud. [@2] Investigators describe the group as
+electrocution and further fraud. [@2,4] Investigators describe the group as
 structured and hierarchical, with separate roles for logistics, plantation
-upkeep, material supply and drug distribution. [@2,3]
+upkeep, material supply and drug distribution. [@2,3,4]
