@@ -62,18 +62,23 @@ sources:
     publisher: MSN (kurier.at)
     date: 2026-11-17
     language: de
+  - title: 'Hausdurchsuchung in Wels: Drogen und Waffe sichergestellt - TGN'
+    url: https://www.radiograz.at/hausdurchsuchung-in-wels-drogen-und-waffe-sichergestellt-26165/
+    publisher: Top Graz News
+    date: 2026-11-17
+    language: de
 ---
 
 Police in Wels searched the apartment of a 20-year-old man on 13 November 2026
 on suspicion of drug trafficking. [@1,4] The ordered house search was carried out
 by the Wels criminal investigation unit together with officers from the Upper
-Austria state criminal police office and the Ried police dog inspection. [@2]
+Austria state criminal police office and the Ried police dog inspection. [@2,5]
 
 Officers found about 130 grams of cannabis herb, described as Cannabiskraut, in
 the flat, along with about 10 grams of cocaine, drug-containing mushrooms and a
-Schreckschusspistole, a starter pistol that fires blank rounds. [@1,4] They also
-seized the man's mobile phone as suspected evidence. [@1]
+Schreckschusspistole, a starter pistol that fires blank rounds. [@1,4,5] They also
+seized the man's mobile phone as suspected evidence. [@1,5]
 
 The Wels prosecutor's office ordered that the man be reported while he remained
 at liberty, a step known as Anzeige auf freiem Fuß, and a temporary weapons ban
-was imposed on him. [@3,4]
+was imposed on him. [@3,4,5]
