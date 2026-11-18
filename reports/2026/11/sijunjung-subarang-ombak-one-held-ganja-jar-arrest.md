@@ -41,24 +41,35 @@ sources:
     publisher: Jurnal Sumbar
     date: 2026-11-17
     language: id
+  - title: Mahasiswa Asal Padang Panjang Ditangkap di Sijunjung, Diduga Simpan Ganja dalam Toples Sosis
+    url: https://www.integritasmedia.com/2026/11/mahasiswa-asal-padang-panjang-ditangkap.html
+    publisher: Integritas Media
+    date: 2026-11-16
+    language: id
 open_questions:
-  - No weight was published for the suspected ganja in the jar, so no cannabis quantity is recorded.
-  - The material was described only as suspected ganja; no laboratory confirmation was reported.
-  - No plea, detention measure or court outcome was reported; the case stood at investigation.
-  - The account rests on a single outlet citing the Sijunjung police statement, with no independent second source opened.
+    - No weight was published for the suspected ganja in the jar, so no cannabis quantity is recorded.
+    - The material was described only as suspected ganja; no laboratory confirmation was reported.
+    - No plea, detention measure or court outcome was reported; the case stood at investigation.
+    - The accounts rest on outlets citing the Sijunjung police statement, with no independent second source opened.
+media:
+  - kind: photo
+    url: https://www.integritasmedia.com/2026/11/mahasiswa-asal-padang-panjang-ditangkap.html
+    media_url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOmMs5gGf4X3k8erBaZpip0_DFaLHGggPB8DRwRBBlPlb8FVOHrOvqlbFbcMAgWePPjH6NghdhzxmqiJb_SjNo35ghcLtZgzXw66yc9eJPcolQLRX2mjVZ-V7HahCLF3lK4vmjsygGWKV2hxyDnGLhoI8_KO0dh5EyaD1hEwXsowKbCTjb27yor00IfF2/s320-rw/20261117_143026.jpg
+    publisher: Integritas Media
+    caption: 'Suspect FA with an inset of public-relations chief AKP Syafrinaldi. Photo: Humas Polres Sijunjung'
 ---
 
 Sijunjung district narcotics investigators arrested a 22-year-old man identified
 by the initials FA, called Faris, at a hut in Jorong Subarang Ombak, Nagari
-Muaro, Sijunjung, on 16 November 2026 at about 08.00 WIB. [@1] Officers said the
+Muaro, Sijunjung, on 16 November 2026 at about 08.00 WIB. [@1,2] The man was a resident of Padang Panjang City and was a student. [@2] Officers said the
 case began with a community tip received at about 07.30 WIB that a man was
-conducting a suspected ganja transaction at the location. [@1] They followed up
+conducting a suspected ganja transaction at the location. [@1,2] They followed up
 by going to the scene, found a man matching the description from the tip, and
 secured him. [@1]
 
 When questioned, the man admitted keeping a Sosis-brand jar suspected to contain
 ganja, a pack of white cigarette papers and a black Vivo Y50 mobile phone inside
-a grey bag. [@1] Officers then searched his body, clothing and belongings in
+a grey bag. [@1,2] Officers then searched his body, clothing and belongings in
 front of the hamlet head, Linmas members and local residents, and recovered the
 items he had admitted owning. [@1] The seized evidence was listed as the grey
 bag, the Sosis jar of suspected ganja, the cigarette papers and the black Vivo
@@ -70,4 +81,3 @@ investigation and further examination. [@1] Police applied Article 114 paragraph
 conjunction with the 2026 Criminal Penalty Adjustment Law. [@1] Sijunjung police
 chief AKBP Willian Harbensyah confirmed the case through Polres Sijunjung
 public-relations chief AKP Syafrinaldi. [@1]
-
