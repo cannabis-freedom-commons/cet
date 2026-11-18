@@ -77,6 +77,10 @@ sources:
     publisher: SWARK Today
     date: 2026-11-16
     language: en
+  - title: 90 lbs of suspected marijuana seized in I-40 traffic stop
+    url: https://www.newsbreak.com/carlisle-ar-daily-brief-373174674/5011385405711-90-lbs-of-suspected-marijuana-seized-in-i-40-traffic-stop
+    publisher: NewsBreak / Carlisle AR Daily Brief
+    date: 2026-11-17
 media:
   - kind: photo
     url: https://arkansasradio.com/2026/11/arkansas-state-police-90-pounds-marijuana-i40-carlisle/
@@ -92,18 +96,18 @@ media:
 
 On 14 November 2026, an Arkansas State Police trooper stopped an eastbound
 Toyota SUV for a traffic violation on Interstate 40 near the 184-mile marker in
-Lonoke County, Arkansas. [@2,3,4,5,6,7,8,9] The Arkansas State Police was the agency credited
+Lonoke County, Arkansas. [@2,3,4,5,6,7,8,9,10] The Arkansas State Police was the agency credited
 with the stop, the arrest and the seizure. [@2] The driver was 37-year-old
-Javlon Ilkhamdjanov of Mount Juliet, Tennessee. [@2,3,4,5,6,7,8,9] He told investigators he
-was travelling from Oklahoma to Tennessee when he was stopped. [@2,3,6,9]
+Javlon Ilkhamdjanov of Mount Juliet, Tennessee. [@2,3,4,5,6,7,8,9,10] He told investigators he
+was travelling from Oklahoma to Tennessee when he was stopped. [@2,3,6,9,10]
 
 A search of the SUV found three large bags holding multiple vacuum-sealed
-packages of suspected marijuana. [@2,3,4,5,6,7,8,9] Police described the load as around 90
-pounds of illegal suspected marijuana, about 40.8 kilograms. [@2,6,8,9] The account is
+packages of suspected marijuana. [@2,3,4,5,6,7,8,9,10] Police described the load as around 90
+pounds of illegal suspected marijuana, about 40.8 kilograms. [@2,6,8,9,10] The account is
 datelined Carlisle, Arkansas, placing the stop area in Lonoke County on the
 interstate. [@2]
 
 Ilkhamdjanov was taken into custody and transported to the Lonoke County
-Sheriff's Detention Center. [@1,3,4,6,7,8,9] He was charged with felony possession of a
+Sheriff's Detention Center. [@1,3,4,6,7,8,9,10] He was charged with felony possession of a
 controlled substance with intent to deliver and possession of drug
-paraphernalia. [@1,4,5,6,7,8,9]
+paraphernalia. [@1,4,5,6,7,8,9,10]
