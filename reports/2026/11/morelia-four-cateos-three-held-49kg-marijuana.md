@@ -76,37 +76,42 @@ sources:
     publisher: Grupo Marmor
     date: 2026-11-17
     language: es
+  - title: Cuatro cateos destapan 4.9 kilos de marihuana y llevan a tres detenidos en Morelia
+    url: https://lanigua.com.mx/cuatro-cateos-destapan-4-9-kilos-de-marihuana-y-llevan-a-tres-detenidos-en-morelia/
+    publisher: La Nigua
+    date: 2026-11-17
+    language: es
 open_questions:
-  - No separate date for the searches was published; 17 November 2026 is the publication date and is used as the incident date.
-  - The 4.9 kilograms is stated as approximate, and no laboratory confirmation of the marijuana was reported.
-  - The cocaine-like substance was described only by its characteristics, with no weight or confirmation reported.
-  - No weight was given for the 48 cannabis-extract vaporisers, so they are not counted in the kilogram figure.
-  - No weights or counts were published for the marijuana and methamphetamine at the Bonanza house.
-  - No charges, pleas or court outcome were reported; the case stood at the investigation stage.
-  - The outlets reproduce the same FGE account, so they are not fully independent reporting.
+    - The 4.9 kilograms is stated as approximate, and no laboratory confirmation of the marijuana was reported.
+    - The cocaine-like substance was described only by its characteristics, with no weight or confirmation reported.
+    - No weight was given for the 48 cannabis-extract vaporisers, so they are not counted in the kilogram figure.
+    - No weights or counts were published for the marijuana and methamphetamine found at the Bonanza house.
+    - The property in Puerto de Buenavista where 10 methamphetamine wraps were found is not clearly distinguished from the house where two of the men were detained.
+    - No charges, pleas or court outcome were reported; the case stood at the investigation stage.
+    - The outlets reproduce the same Michoacán prosecutor's office account, so they are not fully independent reporting.
 ---
 
 Michoacán state prosecutors, together with the National Guard, the Defence
 Ministry and Morelia police, executed four search warrants at different points
-across the state capital. [@1,4] The searches were carried out by the
+across the state capital. [@1,4,5] The searches were carried out by the
 street-dealing investigation and prosecution unit following investigations into
-possible health offences in the form of narcomenudeo. [@1] In a house in the
+possible health offences in the form of narcomenudeo. [@1] The four searches were carried out on 17 November 2026 in different parts of Morelia. [@5] In a house in the
 Puerto de Buenavista neighbourhood officers detained Karol Fernando “N”, 21, and
-Audiel “N”, 48. [@1,4] In a second operation in the Bonanza housing development
-officers detained Juan Carlos “N”, 36, known as “Calaco”. [@3,4]
+Audiel “N”, 48. [@1,4,5] In a second operation in the Bonanza housing development
+officers detained Juan Carlos “N”, 36, known as “Calaco”. [@3,4,5]
 
 At the Puerto de Buenavista house officers seized about 4.9 kilograms of
 marijuana, as well as methamphetamine and a substance with the characteristics
-of cocaine. [@1,4] Officers also found 48 vaporisers with cannabis extract, seven
+of cocaine. [@1,4,5] Officers also found 48 vaporisers with cannabis extract, seven
 cans of gummies, digital scales, mobile phones and bags allegedly used to store
-narcotics. [@2,4] At the Bonanza house officers seized methamphetamine, marijuana,
-a precision scale and other objects linked to the investigation. [@1] In another
+narcotics. [@2,4,5] At the Bonanza house officers seized methamphetamine, marijuana,
+a precision scale and other objects linked to the investigation. [@1,5] In another
 Puerto de Buenavista property officers found 10 wraps of methamphetamine, while
 in the Ignacio Zaragoza neighbourhood they seized 45 wraps of the same drug and
-a metal pipe. [@1,4]
+a metal pipe. [@1,4,5]
 
 The four searches took place in the Puerto de Buenavista and Ignacio Zaragoza
 neighbourhoods and the Bonanza development, ending with three detentions and
 almost five kilograms of drugs seized. [@2] The three detained people and
 everything seized were placed at the disposal of the Public Prosecutor, which
-will determine their legal situation. [@1,4]
+will determine their legal situation. [@1,4,5]
