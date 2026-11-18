@@ -52,6 +52,11 @@ sources:
     publisher: Sumut Pos
     date: 2026-11-18
     language: id
+  - title: Kejari Sergai Musnahkan 217 Gram Sabu, Hampir 6 Kg Ganja, dan Sepucuk Senpi
+    url: https://mistar.id/news/hukum-peristiwa/kejari-sergai-musnahkan-217-gram-sabu-hampir-6-kg-ganja-dan-sepucuk-senpi
+    publisher: Mistar.id
+    date: 2026-11-18
+    language: id
 open_questions:
   - The 85 cases included 36 narcotics cases, but the sources do not say how many involved ganja.
   - The 217 grams of sabu, the firearm, ammunition and other items destroyed alongside the ganja are not cannabis and are excluded from the cannabis figure.
@@ -62,17 +67,17 @@ open_questions:
 ---
 
 The Serdang Bedagai prosecutor's office destroyed evidence from 85 criminal
-cases that had reached final legal force on 18 November 2026. [@1] The
+cases that had reached final legal force on 18 November 2026. [@1,3] The
 destruction took place in the yard of the Kejari Sergai office and was led by
 chief prosecutor Rahmad Isnaini, with the heads of evidence management and
-general crimes. [@1]
+general crimes. [@1,3]
 
 The 85 cases comprised 36 narcotics cases, 26 thefts, 11 assaults, seven sexual
 violence cases, two indecent assault cases, one firearms possession case and two
-others. [@1] The destroyed evidence included 217 grams of sabu, 5,940.01 grams
-(almost six kilograms) of ganja, one firearm and five rounds of ammunition. [@1]
+others. [@1,3] The destroyed evidence included 217 grams of sabu, 5,940.01 grams
+(almost six kilograms) of ganja, one firearm and five rounds of ammunition. [@1,3]
 Other items destroyed included egrek, bongs, mobile phones, Pyrex glass,
-matches, clothing, wood and other objects linked to the offences. [@1] A second
+matches, clothing, wood and other objects linked to the offences. [@1,3] A second
 account gives the same case breakdown of 36 narcotics, 26 theft, 11 assault,
 seven sexual-violence, two indecent-assault, one firearms and two other cases.
 [@2] Representatives of the Sei Rampah district court, Sergai and Tebing Tinggi
@@ -80,7 +85,6 @@ police, Tebing Tinggi prison, the Sergai narcotics agency and the health office
 attended the destruction. [@2]
 
 Rahmad Isnaini said the destruction was part of the prosecutor's role as
-executor of court decisions. [@1] He said the exercise ensured final judgments
+executor of court decisions. [@1,3] He said the exercise ensured final judgments
 were carried out and was meant as transparency and accountability, preventing
-evidence from being misused again. [@1]
-
+evidence from being misused again. [@1,3]
