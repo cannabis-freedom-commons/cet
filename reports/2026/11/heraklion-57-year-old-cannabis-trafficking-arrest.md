@@ -59,25 +59,26 @@ sources:
     publisher: Patris
     date: 2026-11-18
     language: el
-open_questions:
-  - The larger cannabis quantity was reported at gross weight, including its nylon bag, and the smaller at net weight, so the combined 130.9 grams is not a single measured net weight.
-  - No charge sheet, detention order or court outcome was reported beyond the man's transfer to the prosecutorial authority.
+  - title: 'Ηράκλειο: Συνελήφθη 57χρονος για διακίνηση κάνναβης – Τι εντόπισαν οι αστυνομικοί'
+    url: https://www.dikastiko.gr/eidhsh/irakleio-synelifthi-57chronos-gia-diakinisi-kannavis-ti-entopisan-oi-astynomikoi/
+    publisher: Dikastiko.gr
+    date: 2026-11-18
+    language: el
 ---
 
 Police in Heraklion, Crete, arrested a 57-year-old man on suspicion of
-trafficking narcotic substances. [@1] The suspect is a 57-year-old Greek man,
+trafficking narcotic substances. [@1,4] The suspect is a 57-year-old Greek man,
 and the arrest was made by officers of the Drug Prosecution Department of the
-Crete Sub-directorate for Combating Organized Crime. [@3] It took place at
+Crete Sub-directorate for Combating Organized Crime. [@3,4] It took place at
 midday on Tuesday 17 November 2026, after a coordinated operation by that
 department. [@2] Police said prior information checks and cross-referencing had
 produced indications of the man's involvement in drug trafficking before he was
-located and detained. [@2]
+located and detained. [@2,4]
 
 A search of his home and a body search found a nylon bag with 125.6 grams of raw
-cannabis at gross weight and a plastic box with 5.3 grams at net weight. [@1]
+cannabis at gross weight and a plastic box with 5.3 grams at net weight. [@1,4]
 Officers also seized an electronic precision scale with cannabis residue and 690
-euros in cash. [@1]
+euros in cash. [@1,4]
 
 After police processing, the 57-year-old was taken to the competent
-prosecutorial authority. [@1]
-
+prosecutorial authority. [@1,4]
