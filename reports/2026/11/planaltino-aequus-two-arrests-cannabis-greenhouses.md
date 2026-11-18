@@ -70,6 +70,11 @@ sources:
     publisher: PÁGINA DE POLÍCIA (Segurança é o Foco)
     date: 2026-11-18
     language: pt
+  - title: Dois homens são presos durante a Operação AEQUUS contra o tráfico de drogas em Planaltino, Maracás e Jequié
+    url: https://www.agorasudoeste.com.br/noticias/sudoestedabahia/dois-homens-sao-presos-durante-a-operacao-aequus-contra-o-trafico-de-drogas-em-planaltino-maracas-e-jequie/imprimir
+    publisher: Agora Sudoeste
+    date: 2026-11-18
+    language: pt
 open_questions:
     - No count of plants and no weight or value for the cannabis seized was published; the drugs were described by type only.
     - Police did not say which of the two men was arrested in Planaltino and which in Maracás.
@@ -82,31 +87,31 @@ open_questions:
 Two men aged 25 and 28 were arrested on the morning of Wednesday 18 November
 2026 in Operação AEQUUS, an operation by the Bahia Civil Police against
 skunk-type cannabis cultivation and drug trafficking in Planaltino, Maracás and
-Jequié, in south-west Bahia. [@1,4] Officers served two preventive arrest
+Jequié, in south-west Bahia. [@1,4,5] Officers served two preventive arrest
 warrants, one in Planaltino and one in Maracás, and four search-and-seizure
-warrants in the same municipalities. [@1,4] During the searches police dismantled
+warrants in the same municipalities. [@1,4,5] During the searches police dismantled
 two cannabis greenhouses in Planaltino, one installed indoors and the other in
-an outdoor area. [@1,4]
+an outdoor area. [@1,4,5]
 
 At the site they seized plants and several drugs, including portions of skunk,
 other varieties of marijuana, ICE (a cannabis extract), MDMA, LSD microdots and
-ecstasy. [@1,4] Officers also seized four precision scales, four mobile phones and
-a notebook. [@3,4]
+ecstasy. [@1,4,5] Officers also seized four precision scales, four mobile phones and
+a notebook. [@3,4,5]
 
 The investigation began in July 2026 and identified members of a criminal group,
-their division of tasks and the way they worked. [@1,4] According to the Civil
+their division of tasks and the way they worked. [@1,4,5] According to the Civil
 Police, the suspects kept greenhouses for growing marijuana and used social
-media to offer the drugs for sale. [@1] Investigators also found that the group
+media to offer the drugs for sale. [@1,5] Investigators also found that the group
 sold different types of drugs, including marijuana, hashish and synthetic
-substances, with intermediaries carrying and delivering the products. [@1,4]
+substances, with intermediaries carrying and delivering the products. [@1,4,5]
 
 The two men were taken to a police unit, where the preventive arrest warrants
-were served and they were also booked in flagrante. [@1] They are being
-investigated for drug trafficking and criminal association for trafficking. [@1]
+were served and they were also booked in flagrante. [@1,5] They are being
+investigated for drug trafficking and criminal association for trafficking. [@1,5]
 After the legal procedures the suspects remained in custody and at the disposal
-of the courts. [@1,4] The operation was carried out by the 11th Drug Enforcement
+of the courts. [@1,4,5] The operation was carried out by the 11th Drug Enforcement
 Precinct of Jequié, a unit linked to the state anti-narcotics department Denarc.
-[@2] The operation counted on the support of the territorial police stations of Jequié and Jaguaquara, the Jequié women's police station (Deam), the Jequié theft and robbery unit (DRFR) and the tactical support group Gatti/Central, all units of the 9th regional interior police coordination (9ª Coorpin) in Jequié. [@4] Aequus is part of Operação Narke VII, coordinated nationally by the Justice
+[@2,5] The operation counted on the support of the territorial police stations of Jequié and Jaguaquara, the Jequié women's police station (Deam), the Jequié theft and robbery unit (DRFR) and the tactical support group Gatti/Central, all units of the 9th regional interior police coordination (9ª Coorpin) in Jequié. [@4,5] Aequus is part of Operação Narke VII, coordinated nationally by the Justice
 and Public Security Ministry through its directorate of integrated operations
 and intelligence within the Renarc network of specialised units, and of the
 Bahia Civil Police's Operação Malhas da Lei. [@2]
