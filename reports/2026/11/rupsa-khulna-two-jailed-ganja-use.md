@@ -58,6 +58,11 @@ sources:
     publisher: সময়ের খবর (Skhobor)
     date: 2026-11-17
     language: bn
+  - title: মাদকবিরোধী অভিযানে ফকিরহাটের দুই যুবকের কারাদণ্ড
+    url: https://manobkantha.com.bd/news/country/674914
+    publisher: Daily Manobkantha
+    date: 2026-11-17
+    language: bn
 open_questions:
     - No cannabis quantity or seizure weight was published for this consumption case.
     - No laboratory confirmation of the cannabis was reported.
@@ -66,18 +71,18 @@ open_questions:
 ---
 
 An SRB-6 anti-drug drive in Rupsa, Khulna detained two people on allegations of
-consuming ganja. [@1,3,4] The two detainees were Md Hossain Sheikh and Tamim Sheikh,
-both from Chhotokhajura village under Fakirhat Upazila in Bagerhat. [@2,3,4]
+consuming ganja. [@1,3,4,5] The unit that carried out the drive is the Special Response Battalion (SRB)-6. [@5] The two detainees were Md Hossain Sheikh and Tamim Sheikh,
+both from Chhotokhajura village under Fakirhat Upazila in Bagerhat. [@2,3,4,5]
 
 The operation took place at 8:05 pm on Monday 16 November in the area adjacent
 to Jabusa village under No. 3 Naihati Union of Rupsa Upazila. [@2,3] A patrol team
 of SRB-6 Headquarters Company carried out the drive led by Executive Magistrate
-Mahmud Husain Raju. [@2,3,4] During the drive, Md Hossain Sheikh and Tamim Sheikh
+Mahmud Husain Raju. [@2,3,4,5] During the drive, Md Hossain Sheikh and Tamim Sheikh
 were detained for consuming cannabis in violation of Section 9(1)(c) of the
-Narcotics Control Act, 2018. [@2,3,4]
+Narcotics Control Act, 2018. [@2,3,4,5]
 
 A mobile court led by the executive magistrate then sentenced each of them to
-three months of simple imprisonment and fined each Tk200. [@2,3,4] SRB-6 said it
+three months of simple imprisonment and fined each Tk200. [@2,3,4,5] SRB-6 said it
 conducts regular anti-drug drives to implement the government's declared
 zero-tolerance policy and that the headquarters company's drives would continue.
 [@1,3,4]
