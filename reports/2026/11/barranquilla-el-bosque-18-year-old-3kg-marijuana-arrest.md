@@ -55,31 +55,34 @@ sources:
     publisher: ELHERALDO.CO
     date: 2026-11-18
     language: es
+  - title: En El Bosque incautada "marihuana" que tendría un valor de cuatro millones de pesos.
+    url: https://noticiascoopercom.co/el-bosque-incautada-marihuana-que-tendria-un-valor-de-cuatro-millones-de-pesos/
+    publisher: Noticias Coopercom
+    date: 2026-11-18
+    language: es
 open_questions:
-  - No separate date is given for the capture, so 18 November 2026, the publication date, stands in for the incident date.
-  - The weight is stated as approximate and the substance is described only as presumed marijuana with similar characteristics, with no laboratory confirmation reported.
-  - The four-million-peso figure is the authorities' estimated street value, not an independently verified price.
-  - The youth was not named and no plea or court outcome was reported.
-  - The account rests on a single opened report citing the Metropolitan Police; no second outlet account was found.
+    - No separate date is given for the capture, so 18 November 2026, the publication date, stands in for the incident date.
+    - The weight is stated as approximate and the substance is described only as presumed marijuana with similar characteristics, with no laboratory confirmation reported.
+    - The four-million-peso figure is the authorities' estimated street value, not an independently verified price.
+    - The youth was not named and no plea or court outcome was reported.
 ---
 
 Police in Barranquilla captured an 18-year-old youth in the El Bosque
 neighbourhood after officers found him with close to three kilograms of plant
-material described as having characteristics similar to marijuana. [@1] Members
+material described as having characteristics similar to marijuana. [@1,2] Members
 of UNIPOL, the National Police Intervention and Antiterrorism Unit, carried out
-the procedure during surveillance and control work. [@1]
+the procedure during surveillance and control work. [@1,2]
 
 Officers of the Metropolitan Police of Barranquilla were conducting patrols,
 searches and background checks when they spotted the youth, who allegedly acted
-evasively and discarded a bag. [@1] On inspecting the discarded item, officers
-found six ziploc-type bags containing the plant material. [@1] Police put the
+evasively and discarded a bag. [@1,2] On inspecting the discarded item, officers
+found six ziploc-type bags containing the plant material. [@1,2] Police put the
 approximate weight of the material at 3,000 grams and estimated its value at
-four million pesos. [@1]
+four million pesos. [@1,2]
 
 Officers arrested the youth on suspicion of trafficking, manufacturing or
-carrying narcotics. [@1] The detainee was informed of his rights and taken to
+carrying narcotics. [@1,2] The detainee was informed of his rights and taken to
 the Immediate Reaction Unit (URI), where he was placed at the disposal of the
-competent authority for the judicial process. [@1] The Metropolitan Police said
+competent authority for the judicial process. [@1,2] The Metropolitan Police said
 the operation was part of its 'Sin Tregua al Delito' strategy to counter local
-drug trafficking and strengthen security actions across Barranquilla. [@1]
-
+drug trafficking and strengthen security actions across Barranquilla. [@1,2]
