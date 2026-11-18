@@ -33,6 +33,11 @@ media:
     media_url: https://images.pubble.cloud/worker/webp/default/840/148581/47c4eadf/content/2026/11/81361fe9-33aa-405c-abec-ff4f00d46294
     publisher: Rodi Vlaardingen
     caption: 'Scene at the former GAK office on Industrieweg in Vlaardingen during the dismantling of the cannabis nursery. Photo: FlashphotoNL'
+  - kind: photo
+    url: https://www.ad.nl/112-nieuws-vlaardingen/middelen-voor-opzetten-hennepkwekerij-aangetroffen-in-oud-kantoorpand-vlaardingen~a5fc8399/
+    media_url: https://images.ad.nl/ZGlvLzI4MDQ2NzMwNy9maXQtd2lkdGgvNjc2/verdachte-vondst-in-vlaardingen
+    publisher: AD.nl
+    caption: 'Scene of the suspicious find in Vlaardingen during the dismantling of the cannabis nursery. Photo: Carlo ter Ellen'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: fa412bfb09bc1ea6b6eb5c0d1adeada1
@@ -58,20 +63,24 @@ sources:
     publisher: Vlaardingen24
     date: 2026-11-18
     language: nl
+  - title: Middelen voor opzetten hennepkwekerij aangetroffen in oud kantoorpand Vlaardingen
+    url: https://www.ad.nl/112-nieuws-vlaardingen/middelen-voor-opzetten-hennepkwekerij-aangetroffen-in-oud-kantoorpand-vlaardingen~a5fc8399/
+    publisher: AD.nl
+    date: 2026-11-18
+    language: nl
 open_questions:
-  - No figure for the number of cannabis plants in the nursery was published.
-  - No weight or estimated value for the plants or the growing equipment was published.
-  - It is not known whether anyone was arrested, charged or identified over the nursery.
-  - The accounts reproduce the same Flashphoto press-bureau report and do not say which authority carried out the dismantling.
-  - How the nursery was discovered and how long it had been operating were not reported.
-  - The dismantling began on the evening of Tuesday 17 November and continued into 18 November, so the event spans both dates.
-  - The text gives a number of plants ("2026. Plants") but the figures have no plants_destroyed; check whether it belongs there.
+    - No figure for the number of cannabis plants in the nursery was published.
+    - No weight or estimated value for the plants or the growing equipment was published.
+    - No one had been arrested at the time of the AD publication on 18 November 2026; whether anyone was later charged or identified remains unknown.
+    - The AD account attributes the information to a Rotterdam police unit spokesperson, while the earlier accounts reproduced the same Flashphoto press-bureau report without naming the authority carrying out the dismantling.
+    - How the nursery was discovered and how long it had been operating were not reported.
+    - The dismantling began on the evening of Tuesday 17 November and continued into 18 November, so the event spans both dates.
 ---
 
 A very large cannabis nursery was dismantled on the evening of Tuesday 17
 November 2026 in the former GAK office building on Industrieweg in Vlaardingen.
-[@2] The nursery occupied the eighth floor of the nine-storey building. [@1] The
-clearance ran from Tuesday evening into the night of Wednesday 18 November. [@3]
+[@2,5] A Rotterdam police unit spokesperson said the materials found were means used to set up and build a cannabis nursery. [@5] The nursery occupied the eighth floor of the nine-storey building. [@1,5] The
+clearance ran from Tuesday evening into the night of Wednesday 18 November. [@3] Police secured and removed all the materials found and were still considering whether to conduct further investigation into the find. [@5] No one had been arrested at the time of publication. [@5]
 
 Beside the cannabis plants, those clearing the building found large snail-cage
 fans, transformers, wiring and kilos of potting soil. [@3] The material was
@@ -84,4 +93,3 @@ municipal service Stadswerk. [@4] In recent years the building served as a joint
 knowledge, innovation and training centre for the food industry. [@1] The
 building stands next to the De Elementen homeless shelter and the Food
 Innovation Academy. [@3]
-
