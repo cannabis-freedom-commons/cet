@@ -62,34 +62,40 @@ sources:
     publisher: Police & Réalités
     date: 2026-11-18
     language: fr
+  - title: 'Nice : un réseau de livraison de stupéfiants démantelé avec 71 kilos de cannabis'
+    url: https://sevenradio.fr/2026/11/18/nice-un-reseau-de-livraison-de-stupefiants-demantele-avec-71-kilos-de-cannabis/
+    publisher: Seven Radio
+    date: 2026-11-18
+    language: fr
 open_questions:
     - The itemised cannabis quantities (51 kg and 15 kg of resin plus 5 kg of herb) total 71 kg; the headline rounds this to 'more than 70 kg'.
     - The 15 kg found in several homes is not restated by substance; it follows the mention of cannabis resin and is counted as resin here.
-    - 'No court outcome was reported: the seven suspects were due before the Nice courts on 18 November 2026.'
+    - The seven suspects were presented to the Nice judicial court on 18 November 2026, but no plea, sentence or detention ruling was reported.
     - The 36 g of cocaine seized in the same searches is not included in the cannabis figures.
     - The suspects were not named, and no value estimate for the seized cannabis was published.
     - The accounts follow the Nice prosecutor's statement of 17 November 2026; no reporting independent of the investigation was available.
     - The storage box at La Trinité is placed north of Nice by the new accounts and on the city's eastern outskirts by Nice-Matin; the reports agree it is in a neighbouring commune.
+    - Seven Radio gives no calendar day for the arrests, placing the operation only in mid-November 2026.
 ---
 
 Police in Nice detained eight people on 16 November 2026 while investigating
-drug deliveries to customers' homes. [@1,2] The operation followed six months of
+drug deliveries to customers' homes. [@1,2,4] The operation followed six months of
 investigation into a drug-trafficking network using the 'Ubershit' home-delivery
 model. [@1] Nice prosecutor Damien Martinelli said the inquiry began in May 2026
 under the prosecutor's specialised unit for drug trafficking via home delivery.
 [@1] Nice's local judicial police service (SLPJ) moved at dawn with RAID
 support, and the elite officers intervened at two targets in Nice-Nord and
 Nice-Ouest. [@1] Seven of those detained were due before the Nice court on
-Wednesday, while the eighth was quickly cleared. [@1]
+Wednesday, while the eighth was quickly cleared. [@1] Seven of those arrested were presented to magistrates at the Nice judicial court on Wednesday 18 November. [@4]
 
 Searches took officers to the eastern outskirts of Nice, where 51 kg of cannabis
 resin was seized from a storage box at La Trinité. [@1,3] A further 15 kg was
 found in several homes, with 5 kg of cannabis herb and 36 g of cocaine,
 according to the prosecutor. [@1,3] Officers also seized 50,000 euros in cash and
-a vehicle. [@1,3]
+a vehicle. [@1,3] The 50,000 euros in cash were hidden in a car. [@4]
 
 Martinelli said some suspects admitted at least a minimal role while others
-contested the case and refused to give their phone unlock codes. [@1,3] Six men
+contested the case and refused to give their phone unlock codes. [@1,3,4] Six men
 and one woman aged 22 to 36, nearly all born in Nice, were due to be referred to
 court on Wednesday. [@1] Five were expected before the correctional court for an
 immediate appearance and two for a pre-trial plea procedure known as CRPC. [@1,3]
