@@ -56,6 +56,11 @@ sources:
     publisher: Amrit Sandesh
     date: 2026-11-17
     language: hi
+  - title: 'Chhattisgarh news: छत्तीसगढ़ में गांजा तस्करी के खिलाफ पुलिस की बड़ी कार्रवाई:1.6 किलो गांजा के साथ तस्कर गिरफ्तार, मोबाइल-बाइक जब्त'
+    url: https://rghnews.com/chhattisgarh-news-347/
+    publisher: Rgh News
+    date: 2026-11-18
+    language: hi
 open_questions:
   - The exact spot on the Kapasi–Markatola road where he was stopped is not named.
   - The reports do not say where the ganja came from or where it was being taken.
@@ -65,19 +70,18 @@ open_questions:
 ---
 
 Police in Kanker district arrested Lalluram Sonwani, 55, who lives at Markatola
-Nakapara. [@1] A joint team of Korar police station and the Kanker cyber cell
+Nakapara. [@1,3] A joint team of Korar police station and the Kanker cyber cell
 stopped him on the Kapasi–Markatola road on 16 November 2026 after a tip-off
-that a man was carrying ganja along the road. [@2]
+that a man was carrying ganja along the road. [@2,3]
 
 Officers seized 1.600 kilograms of ganja and a mobile phone from him, together
-with the Hero HF Deluxe motorcycle (CG 05 AE 3013) he used to carry it. [@2]
+with the Hero HF Deluxe motorcycle (CG 05 AE 3013) he used to carry it. [@2,3]
 Police valued the ganja at 22,400 rupees. [@2] With the motorcycle and the phone
 counted in, they put the total value of the seized property at 92,400 rupees.
-[@1]
+[@1,3]
 
 A case was registered under section 20(b)(ii)(B) of the Narcotic Drugs and
-Psychotropic Substances Act. [@1] He was produced before a court, which sent him
-to judicial remand. [@2] The arrest was made under Ujiyara Abhiyan, the Kanker
+Psychotropic Substances Act. [@1,3] He was produced before a court, which sent him
+to judicial remand. [@2,3] The arrest was made under Ujiyara Abhiyan, the Kanker
 district campaign against the illegal drug trade run on the instructions of
 Superintendent of Police Nikhil Rakhecha. [@2]
-
