@@ -50,6 +50,10 @@ sources:
     url: https://uniindia.com/east-india/crime-wb-women/249920
     publisher: UNI
     date: 2026-11-18
+  - title: Five Women Arrested With 19.2 Kg Of Cannabis
+    url: https://www.prokerala.com/news/photos/five-women-arrested-with-19-2-kg-of-cannabis-3779880.html
+    publisher: Prokerala
+    date: 2026-11-18
 open_questions:
   - The IANS caption gives approximately 19.2 kg while UNI gives around 11 kg, so no cannabis weight is recorded in figures.
   - No names or ages were published for the five women, beyond their reported places of residence and that one had a child with her.
@@ -58,9 +62,9 @@ open_questions:
 ---
 
 Burdwan Police arrested five women in Burdwan town, West Bengal, in connection
-with a cannabis seizure on Wednesday, 18 November 2026. [@1] The women were
+with a cannabis seizure on Wednesday, 18 November 2026. [@1,3] The women were
 intercepted in the Hawkers Market area near the Court Compound in Burdwan town.
-[@2] Personnel from Burdwan Police Station carried out the interception after
+[@2,3] Personnel from Burdwan Police Station carried out the interception after
 receiving secret information. [@2] One of those arrested was a mother who had a
 child with her at the time of the arrest. [@2]
 
@@ -72,6 +76,5 @@ Burdwan to hand over the contraband narcotic substance to the local Burdwan
 woman. [@2]
 
 An IANS photo caption published with the gallery described the seizure as
-approximately 19.2 kg of cannabis. [@1] A separate UNI summary of the same
+approximately 19.2 kg of cannabis. [@1,3] A separate UNI summary of the same
 interception reported the amount involved as around 11 kg of cannabis. [@2]
-
