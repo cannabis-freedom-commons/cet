@@ -51,6 +51,11 @@ media:
     media_url: https://www.bnews.com.br/media/uploads/2026/11/plantacao-maconha.jpeg
     publisher: BNews
     caption: 'Cannabis plants at the plantation eradicated in rural Canudos, in one of the SSP-BA handout photos published with the Bnews report. Photo: Divulgação SSP'
+  - kind: photo
+    url: https://www.deolhonacidade.net/policias-civil-e-militar-erradicam-15-mil-pes-de-maconha-na-zona-rural-de-canudos
+    media_url: https://gestor.deolhonacidade.net/assets/80b8bed8-ada1-46d7-acec-8bdddb53c1a0?width=800&quality=70
+    publisher: De Olho na Cidade
+    caption: 'Cannabis plantation in rural Canudos, in the SSP-BA handout published with the De Olho na Cidade report on the eradication. Photo: Divulgação SSP'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 1b161bc133a41703fad6b7129e8a8e05
@@ -76,25 +81,29 @@ sources:
     publisher: ChicoSabeTudo
     date: 2026-11-18
     language: pt
+  - title: Polícias Civil e Militar erradicam 15 mil pés de maconha na zona rural de Canudos
+    url: https://www.deolhonacidade.net/policias-civil-e-militar-erradicam-15-mil-pes-de-maconha-na-zona-rural-de-canudos
+    publisher: De Olho na Cidade
+    date: 2026-11-18
+    language: pt
 open_questions:
-  - No weight, area in hectares or street value was given for the plantation.
-  - No one was arrested and the sources do not say whether anyone was found at the site.
-  - The precise location of Povoado 150 and the size of the plantation are not described.
-  - Whether this plantation is connected to the group targeted in Operation Safra Oculta in Bahia and Pernambuco the same day is not stated.
-  - The four accounts reproduce the same SSP-BA statement and are not independent reporting.
+    - No weight, area in hectares or street value was given for the plantation.
+    - No one was arrested and the sources do not say whether anyone was found at the site.
+    - The precise location of Povoado 150 and the size of the plantation are not described.
+    - Whether this plantation is connected to the group targeted in Operation Safra Oculta in Bahia and Pernambuco the same day is not stated.
+    - The accounts reproduce the same SSP-BA statement and are not independent reporting.
 ---
 
 Civil and Military Police in Bahia found and destroyed a cannabis plantation in
-rural Canudos on Tuesday 17 November 2026. [@1] The plantation was at a place
+rural Canudos on Tuesday 17 November 2026. [@1,5] The plantation was at a place
 known as Povoado 150 and was found after intelligence work by the state security
-forces. [@1] No one was arrested at the site, and the Civil and Military Police
-said inquiries were continuing to identify and arrest those responsible. [@2]
+forces. [@1,5] No one was arrested at the site, and the Civil and Military Police
+said inquiries were continuing to identify and arrest those responsible. [@2,5]
 
 Officers used drones to find the crop and reach the clearing, then uprooted and
-burned the plants. [@1] The security secretariat said the state forces found
-15,000 cannabis plants at the site. [@2] Officers also destroyed sleeping
-quarters and an irrigation system used to keep the plantation running. [@3]
+burned the plants. [@1,5] The security secretariat said the state forces found
+15,000 cannabis plants at the site. [@2,5] Officers also destroyed sleeping
+quarters and an irrigation system used to keep the plantation running. [@3,5]
 
 The operation was part of integrated police action against drug trafficking and
 criminal factions in the region. [@4]
-
