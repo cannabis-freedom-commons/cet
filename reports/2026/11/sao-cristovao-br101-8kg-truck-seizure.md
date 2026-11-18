@@ -68,6 +68,11 @@ sources:
     publisher: O Caju
     date: 2026-11-17
     language: pt
+  - title: Motorista é preso com oito quilos de flor de maconha em caminhão na BR-101 - Jornal do Dia
+    url: https://jornaldodiase.com.br/motorista-e-preso-com-oito-quilos-de-flor-de-maconha-em-caminhao-na-br-101/
+    publisher: Jornal do Dia
+    date: 2026-11-18
+    language: pt
 media:
   - kind: photo
     url: https://fanf1.com.br/2026/11/17/cerca-de-oito-quilos-de-maconha-sao-apreendidos-em-sao-cristovao/
@@ -79,22 +84,24 @@ media:
     media_url: https://img.dhost.cloud/STyXC_7OR-JFWtAvo_0VvdzrPcg=/966x632/smart/https://cdn.a8se.com/images/aa567/bf9d3bafc6fa2486f128d6d427db8b26bc9.jpeg
     publisher: A8 Sergipe
     caption: 'Seized bags of marijuana flower from the truck at km 105 of the BR-101, in the PRF handout photo published with the report. Photo: PRF'
+open_questions:
+  - The same article also cites about 180 kg seized this year on federal highways in Sergipe and about 30 kg found after a chase in Cristinápolis; those totals and that chase are separate enforcement left out here.
 ---
 
 Officers of Brazil's Federal Highway Police (Polícia Rodoviária Federal, PRF)
 stopped a truck during an inspection on the afternoon of Monday 16 November 2026
-on the BR-101 in São Cristóvão, in Greater Aracaju. [@1,2,4,6] The driver of the truck
-transporting the drug was arrested in flagrante at the scene. [@1,2,3,6] Officers took
+on the BR-101 in São Cristóvão, in Greater Aracaju. [@1,2,4,6,7] The driver of the truck
+transporting the drug was arrested in flagrante at the scene. [@1,2,3,6,7] Officers took
 the suspect to the Central de Flagrantes of the Civil Police in Aracaju together
-with the drug and the truck, where he was formally recorded in flagrante. [@1,2,3,4,6]
+with the drug and the truck, where he was formally recorded in flagrante. [@1,2,3,4,6,7]
 
-The stop occurred at kilometre 105 of the highway. [@1,2,3,6] Inspecting the vehicle,
+The stop occurred at kilometre 105 of the highway. [@1,2,3,6,7] Inspecting the vehicle,
 officers found boxes holding bags containing what the report calls the flower of
 marijuana, the part of the plant that concentrates the largest amount of
 psychoactive compounds and has the greatest commercial value in drug
-trafficking. [@1,2,3,4,6] The seizure totalled eight kilograms of marijuana. [@1,2,5,6] The
+trafficking. [@1,2,3,4,6] The seizure totalled eight kilograms of marijuana. [@1,2,5,6,7] The
 driver told the PRF he would receive R$1,000 to transport the drug from Bahia to
-Sergipe. [@1,2,3,4,6]
+Sergipe. [@1,2,3,4,6,7]
 
 The case was to be investigated in an attempt to reach those responsible for
 sending the drug and its destination. [@1] The account attributes its
