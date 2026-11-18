@@ -56,6 +56,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-18
     language: hi
+  - title: 'Mirzapur News: इलेक्ट्रिक स्कूटी की सीट के नीचे छुपाकर ले जा रहा गांजा तस्कर गिरफ्तार, Mirzapur Hindi News - Hindustan'
+    url: https://www.livehindustan.com/uttar-pradesh/mirzapur/story-drummondganj-police-arrest-suspected-cannabis-smuggler-seize-1-91-kg-of-ganja-201795027013152.html
+    publisher: Live Hindustan
+    date: 2026-11-19
+    language: hi
 open_questions:
   - No value estimate was published for the 1.91 kilograms of seized ganja.
   - The material was described only as ganja, with no laboratory confirmation reported.
@@ -65,20 +70,19 @@ open_questions:
 ---
 
 Drumganj police in Mirzapur district, Uttar Pradesh, arrested a young man who
-was carrying ganja hidden under the seat of an electric scooter. [@1] Officers
-seized 1 kg 910 grams (1.91 kg) of ganja and a measuring scale from him. [@1]
-Police registered a case under the NDPS Act and sent him to court. [@2]
+was carrying ganja hidden under the seat of an electric scooter. [@1] The scooter was coming from the direction of Hanumana in Madhya Pradesh when police stopped and searched it. [@3] Officers
+seized 1 kg 910 grams (1.91 kg) of ganja and a measuring scale from him. [@1,3]
+Police registered a case under the NDPS Act and sent him to court. [@2,3]
 
 The arrest was made at 11:28 pm on 17 November under the Badka Ghuman
 overbridge. [@1] A police team led by Sub-Inspector Puneet Kumar Gupta was
 checking people and vehicles under the bridge as part of a campaign against
-crime ordered by the Mirzapur superintendent of police. [@1] The man said the
-packet contained ganja and that he sold it to earn a living. [@1] Police
+crime ordered by the Mirzapur superintendent of police. [@1,3] The man said the
+packet contained ganja and that he sold it to earn a living. [@1,3] Police
 identified him as Arvind Kesari, son of Gyan Prakash Kesari, originally from
 Bharatganj in Prayagraj district and currently living in Mahugadi in the
 Drumganj area of Mirzapur. [@2]
 
 Police said an earlier case under the NDPS Act had already been registered
-against the same man at Drumganj police station. [@1] Station house officer
-Jitendra Kumar said the accused had been arrested and sent to jail. [@1]
-
+against the same man at Drumganj police station. [@1,3] Station house officer
+Jitendra Kumar said the accused had been arrested and sent to jail. [@1,3]
