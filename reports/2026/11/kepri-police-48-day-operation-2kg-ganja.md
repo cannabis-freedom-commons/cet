@@ -39,6 +39,11 @@ media:
     media_url: https://www.terasbatam.id/wp-content/uploads/2026/11/351eaa86-30af-4560-bef1-a6002e510efe-1200x853.jpeg
     publisher: Terasbatam
     caption: 'Public-relations head Nona Pricillia Ohei (centre) with Ditresnarkoba officers displaying the seized drugs at the Polda Kepri press conference in Batam on 17 November 2026. Photo: Terasbatam'
+  - kind: photo
+    url: https://www.matakepri.com/detail-news/2026/11/18/36364/151-Orang-Ditangkap-Polda-Kepri-Sita-Sabu-Ganja-hingga-Ratusan-Etomidate
+    media_url: https://www.matakepri.com/images/data/news-pic/20261118051820-IMG-20261118-WA0043.jpg
+    publisher: MataKepri
+    caption: 'Narcotics suspects secured by Polda Kepri in the 83-case operation. Photo: Ditresnarkoba Polda Kepri'
 status: verified
 created_by_model: swancloud/deepseek-v4-flash#xhigh
 submission: 7cbeebf18d44b471bf9ab8e6cdd86ddb
@@ -59,31 +64,36 @@ sources:
     publisher: Media Kepri
     date: 2026-11-18
     language: id
+  - title: 151 Orang Ditangkap! Polda Kepri Sita Sabu, Ganja hingga Ratusan Etomidate
+    url: https://www.matakepri.com/detail-news/2026/11/18/36364/151-Orang-Ditangkap-Polda-Kepri-Sita-Sabu-Ganja-hingga-Ratusan-Etomidate
+    publisher: MataKepri
+    date: 2026-11-18
+    language: id
 open_questions:
-  - The 83-case and 151-suspect totals cover all drug types in the operation; how many suspects were held in the cannabis cases is not stated.
-  - No charge, detention measure or court outcome for the suspects was reported; the case was at the investigation stage.
-  - Whether the tally's 18 Barelang cases overlap the 11-case Barelang roundup reported on 16 November 2026 is not stated; the sabu figures differ (2,763.12 vs 2,544.46 grams).
-  - The 102.32 grams of MDMB 4en PINACA synthetic-cannabinoid tobacco and the sabu, ecstasy, etomidate and ketamine quantities are excluded from the cannabis figures.
-  - No value estimate for the seized drugs was published.
-  - The three opened accounts all reproduce the same Polda Kepri press-conference data, so the figures rest on a single official statement.
+    - The 83-case and 151-suspect totals cover all drug types in the operation; how many suspects were held in the cannabis cases is not stated.
+    - No charge, detention measure or court outcome for the suspects was reported; the case was at the investigation stage.
+    - Whether the tally's 18 Barelang cases overlap the 11-case Barelang roundup reported on 16 November 2026 is not stated; the sabu figures differ (2,763.12 vs 2,544.46 grams).
+    - The 102.32 grams of MDMB 4en PINACA synthetic-cannabinoid tobacco and the sabu, ecstasy, etomidate and ketamine quantities are excluded from the cannabis figures.
+    - No value estimate for the seized drugs was published.
+    - The four opened accounts all reproduce the same Polda Kepri press-conference data, so the figures rest on a single official statement.
 ---
 
 Riau Islands regional police (Polda Kepri) and its resort-police units reported
 seizing thousands of grams of narcotics in a 48-day operation from 1 October to
 17 November 2026. [@1] The operation uncovered 83 narcotics cases with 151
-suspects, 127 men and 24 women. [@1]
+suspects, 127 men and 24 women. [@1,4]
 
-The cannabis in the haul was 2,016.68 grams (2.01 kg) of ganja. [@1] The same
+The cannabis in the haul was 2,016.68 grams (2.01 kg) of ganja. [@1,4] The same
 haul included 5,690.80 grams (5.69 kg) of sabu, 849.5 ecstasy pills, 651
 etomidate pieces weighing 1,612.65 grams, 102.32 grams of MDMB 4en PINACA
 synthetic-cannabinoid tobacco and 6 grams of ketamine, none of which is counted
 in the cannabis figure. [@1]
 
-Ditresnarkoba Polda Kepri recorded the most cases, 41 with 85 suspects. [@2]
+Ditresnarkoba Polda Kepri recorded the most cases, 41 with 85 suspects. [@2,4] Those 85 suspects comprised 69 men and 16 women. [@4]
 Ditresnarkoba Polda Kepri seized 2,013.03 grams of the ganja, with 1,020.86
 grams of sabu, 652 ecstasy pills, the 102.32 grams of MDMB 4en PINACA and 551
-etomidate pieces. [@2] Polresta Barelang accounted for the remainder of the
-ganja, 3.65 grams, in its 18 cases with 29 suspects. [@2] The largest sabu
+etomidate pieces. [@2,4] Polresta Barelang accounted for the remainder of the
+ganja, 3.65 grams, in its 18 cases with 29 suspects. [@2,4] The largest sabu
 catches were Polresta Barelang's 2,763.12 grams, Polres Karimun's 1,778.59 grams
 and Ditresnarkoba Polda Kepri's 1,020.86 grams. [@1]
 
@@ -96,4 +106,3 @@ jurisdiction is part of the national police chief's Quick Wins Programme Number
 2 on restoring drug-afflicted areas. [@3] Polda Kepri asked the public to report
 suspicious drug activity through the free 24-hour police emergency line 110.
 [@1]
-
