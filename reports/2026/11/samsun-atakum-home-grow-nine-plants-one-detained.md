@@ -50,27 +50,47 @@ sources:
     publisher: Son Dakika
     date: 2026-11-18
     language: tr
+  - title: Kenevir yetiştirilen eve jandarmadan operasyon
+    url: https://yerel-haberler.haberturk.com/samsun-haberleri/kenevir-yetistirilen-eve-jandarmadan-operasyon-119525411
+    publisher: Habertürk Yerel Haberler
+    date: 2026-11-18
+    language: tr
+  - title: Samsun Atakum'da jandarma operasyonunda 9 kök kenevir ve 597 gram esrar ele geçirildi
+    url: https://www.sondakika.com/3-sayfa/haber-samsun-atakum-da-jandarma-operasyonunda-9-kok-kene-20438245/
+    publisher: Son Dakika
+    date: 2026-11-18
+    language: tr
 open_questions:
-  - The accounts give no separate date for the raid or the detention; 18 November 2026 is the publication date of the DHA text and is used as the incident date.
-  - The DHA text carried by Son Dakika gives the resin as 597 'kubar esrar maddesi' without a unit, and the Sözcü version gives no quantity at all, so no weight is recorded for the kubar esrar.
-  - The substance is described as kubar esrar, a pressed cannabis resin, without any laboratory analysis being reported.
-  - The suspect is identified only by the initials O.A.; no age, full name or occupation was published.
-  - No charge, prosecutor's step or court outcome was reported; the case was at the detention stage.
-  - No value estimate for the plants or the resin was published.
-  - The Sözcü and Son Dakika texts reproduce the same DHA agency report, so they are not independent reporting.
+    - The accounts give no separate date for the raid or the detention; 18 November 2026 is the publication date of the reports and is used as the incident date.
+    - İHA gives the kubar esrar as 597 grams, while the DHA text carried by Son Dakika gives 597 without a unit and Sözcü gives no quantity.
+    - The substance is described as kubar esrar, a pressed cannabis resin, without any laboratory analysis being reported.
+    - The suspect is identified only by the initials O.A.; no age, full name or occupation was published.
+    - No charge, prosecutor's step or court outcome was reported; the case was at the detention stage.
+    - No value estimate for the plants or the resin was published.
+    - The Sözcü and one Son Dakika text reproduce the same DHA report, while the İHA text is repeated by Son Dakika and Habertürk, so the accounts are not independent.
+media:
+  - kind: photo
+    url: https://www.sondakika.com/3-sayfa/haber-samsun-atakum-da-jandarma-operasyonunda-9-kok-kene-20438245/
+    media_url: https://foto.sondakika.com/crop/740x0/webp/haber/2026/11/18/samsun-atakum-da-kenevir-yetistiren-sahsin-ev-4-20438226_sd.jpg
+    publisher: Son Dakika
+    caption: 'The house in Atakum where gendarmerie teams found the cannabis grow, in an image published with the İHA report. Photo: İHA / Son Dakika'
+  - kind: video
+    url: https://www.sondakika.com/3-sayfa/haber-samsun-atakum-da-jandarma-operasyonunda-9-kok-kene-20438245/
+    media_url: https://izle.sondakika.com/2026/11/18/samsun-atakum-da-kenevir-yetistiren-sahsin-ev-8104-20438226_sd.mp4
+    publisher: Son Dakika
+    caption: 'Video of the house in Atakum where gendarmerie teams found nine cannabis plants and 597 grams of kubar esrar. Video: İHA / Son Dakika'
 ---
 
 Gendarmerie teams detained a man identified only as O.A. at his home in Atakum,
 a district (ilçe) of Samsun province. [@1] The raid was carried out by teams of
-the Samsun provincial gendarmerie command, the İl Jandarma Komutanlığı. [@1]
+the Samsun provincial gendarmerie command, the İl Jandarma Komutanlığı. [@1,3]
 O.A. was taken into custody over the incident. [@2]
 
 The gendarmerie said its teams acted within their work to prevent drug
-trafficking. [@1] Its officers carried out that work in Atakum district before
+trafficking. [@1,3] Its officers carried out that work in Atakum district before
 they raided the house. [@2] That work established that O.A. was growing cannabis
 in the house with a climate-control system. [@2] The search found nine rooted
-cannabis plants, kök kenevir, and one climate-control system. [@1] Officers also
-seized kubar esrar, a pressed cannabis resin. [@1] The DHA text carried by Son
+cannabis plants, kök kenevir, and one climate-control system. [@1,4] Officers also
+seized kubar esrar, a pressed cannabis resin. [@1,4] The DHA text carried by Son
 Dakika puts the kubar esrar at 597 'kubar esrar maddesi' without stating its
-weight. [@2]
-
+weight. [@2] The İHA account puts the kubar esrar at 597 grams. [@4]
