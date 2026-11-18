@@ -58,6 +58,11 @@ sources:
     publisher: Deschide.md
     date: 2026-11-17
     language: ro
+  - title: Polițiștii din Soroca au depistat aproximativ 6 kilograme de masă vegetală mărunțită, cu miros specific de marijuana
+    url: https://observatorul.md/politistii-din-soroca-au-depistat-aproximativ-6-kilograme-de-masa-vegetala-maruntita-cu-miros-specific-de-marijuana/
+    publisher: Observatorul de Nord
+    date: 2026-11-17
+    language: ro
 media:
   - kind: photo
     url: https://nordnews.md/stiri-locale/aproape-sase-kilograme-de-presupusa-marijuana-descoperite-la-soroca/
@@ -77,11 +82,11 @@ open_questions:
     - All four accounts (Jurnal.md, Telegraph.md, NordNews and Deschide.md) present the same Soroca police information and are not independent reporting.
 ---
 
-Police in Soroca searched the household of a 57-year-old man. [@1,2,3,4] Officers
-found about six kilograms of marijuana during the search. [@1,2,3,4] The man was
+Police in Soroca searched the household of a 57-year-old man. [@1,2,3,4,5] Officers
+found about six kilograms of marijuana during the search. [@1,2,3,4,5] The man was
 detained for 72 hours and placed in the temporary detention isolator of the
-Soroca Police Inspectorate. [@1,2,3,4]
+Soroca Police Inspectorate. [@1,2,3,4,5]
 
 The seized plant material was collected, sealed and sent for expert examination.
-[@1,2,3,4] Police said they were continuing investigations to establish all the
-circumstances of the case and take the required legal measures. [@1,2,3,4] Police did not say whether the man is suspected of cultivating, keeping or trafficking the drugs. [@3]
+[@1,2,3,4,5] Police said they were continuing investigations to establish all the
+circumstances of the case and take the required legal measures. [@1,2,3,4,5] Police did not say whether the man is suspected of cultivating, keeping or trafficking the drugs. [@3]
