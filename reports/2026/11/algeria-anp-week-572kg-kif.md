@@ -67,6 +67,11 @@ sources:
     publisher: Algérie Presse Service (APS)
     date: 2026-11-18
     language: zh
+  - title: Пресечены попытки незаконного ввоза более пяти центнеров обработанной конопли с территории Марокко
+    url: https://www.aps.dz/ru/%D0%B0%D0%BB%D0%B6%D0%B8%D1%80/%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/mwmf0sxw-%D0%BF%D1%80%D0%B5%D1%81%D0%B5%D1%87%D0%B5%D0%BD%D1%8B-%D0%BF%D0%BE%D0%BF%D1%8B%D1%82%D0%BA%D0%B8-%D0%BD%D0%B5%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D0%B2%D0%BE%D0%B7%D0%B0-%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5-%D0%BF%D1%8F%D1%82%D0%B8-%D1%86%D0%B5%D0%BD%D1%82%D0%BD%D0%B5%D1%80%D0%BE%D0%B2-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%BD%D0%BE%D0%B8-%D0%BA%D0%BE%D0%BD%D0%BE%D0%BF%D0%BB%D0%B8-%D1%81-%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8-%D0%BC%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE
+    publisher: Algérie Presse Service (APS)
+    date: 2026-11-18
+    language: ru
 open_questions:
   - The army says 32 narcotrafiquants were intercepted but does not say how many were arrested, charged or detained; the figure is recorded as arrested.
   - The 5 quintals and 72 kilograms (572 kg) is a total for several interceptions during the week, and no single date or place is given for them.
@@ -82,17 +87,17 @@ open_questions:
 
 Algeria's National People's Army (ANP) said its combined detachments, working
 with the different security services, intercepted 32 narcotrafiquants, or drug
-traffickers, in operations across the military regions. [@1,3,4] The operations ran
-from 11 to 17 November 2026. [@1,3,4] The state news agency APS reported that the
+traffickers, in operations across the military regions. [@1,3,4,5] The operations ran
+from 11 to 17 November 2026. [@1,3,4,5] The state news agency APS reported that the
 detachments foiled attempts to bring more than five quintals of kif traité,
-treated cannabis, from the Moroccan border during the same week. [@2]
+treated cannabis, from the Moroccan border during the same week. [@2,5]
 
 The army said the operations stopped attempts to introduce 5 quintals and 72
-kilograms (572 kg) of kif traité coming from the borders with Morocco. [@1,3,4] They
-also seized 47 kilograms of cocaine and 844,953 psychotropic tablets. [@1,3,4] The
+kilograms (572 kg) of kif traité coming from the borders with Morocco. [@1,3,4,5] They
+also seized 47 kilograms of cocaine and 844,953 psychotropic tablets. [@1,3,4,5] The
 cocaine and psychotropic tablets are not counted as cannabis here. [@1]
 
 The results are the army's weekly operational balance for a week of operations
-by units and detachments across the military regions, not a single raid. [@1,3,4]
+by units and detachments across the military regions, not a single raid. [@1,3,4,5]
 The balance presents the interceptions as part of continuing efforts against
 narcotrafficking in the country. [@1]
