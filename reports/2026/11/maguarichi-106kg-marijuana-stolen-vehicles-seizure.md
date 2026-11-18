@@ -115,6 +115,10 @@ sources:
     publisher: Valley Central / Border Report
     date: 2026-11-17
     language: en
+  - title: Chihuahua police seize 234 pounds of marijuana, vehicle stolen in US | Border Report
+    url: https://www.kxan.com/border-report/chihuahua-police-seize-234-pounds-of-marijuana-vehicle-stolen-in-us/amp/
+    publisher: KXAN Austin
+    date: 2026-11-17
 media:
   - kind: photo
     url: https://www.nmas.com.mx/chihuahua/seguridad/aseguran-marihuana-cartuchos-y-vehiculos-robados-en-maguarichi-chihuahua/
@@ -158,15 +162,15 @@ open_questions:
 Chihuahua state police (SSPE) seized about 106.4 kilograms of marijuana,
 ammunition, magazines and two stolen vehicles on the road to Maguarichi, at the
 San Vicente junction. [@1,4,6,7,8,9,10,11,12,13,14,15] Agents found 10 transparent packages of dry green
-herb similar to marijuana at the spot. [@1,5,6,7,8,9,10,11,13,14,15,16,17] The packages weighed approximately
-106.4 kilograms. [@1,8,9,10,11,16,17]
+herb similar to marijuana at the spot. [@1,5,6,7,8,9,10,11,13,14,15,16,17,18] The packages weighed approximately
+106.4 kilograms. [@1,8,9,10,11,16,17,18]
 
 Officers also seized three magazines, two metal and one plastic, and 364 live
 cartridges. [@1,8,9,10,11,14,15,16,17] Of the cartridges, 340 were 7.62x51 calibre in two ammunition
 belts and 24 were 7.62x39 calibre. [@1,7,13] In the same operation they found two
 stolen vehicles: a 2022 Mitsubishi L200 pickup reported stolen in Sonora since
 April 2022, and a 2021 Hyundai Kona reported stolen in the United States since
-June 2023. [@1,6,8,9,11,14,16]
+June 2023. [@1,6,8,9,11,14,16,18]
 
 The drugs, magazines, ammunition and vehicles were handed over to the competent
 authorities for further investigation. [@1,6,8,9,10,12,14,15,17] The SSPE, headed by secretary Luis
