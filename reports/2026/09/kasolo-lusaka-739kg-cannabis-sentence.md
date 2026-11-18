@@ -39,10 +39,6 @@ data_sources:
   figures.prison: [1, 2]
 status: verified
 tags: [dec, appeal-window, thai-nationals, bribery]
-open_questions:
-  - Diamond TV states the trafficking count as 173.9 kg; Zambia Monitor and the quantity the court admitted are 73.9 kg, which this report follows.
-  - The sentence date is taken from "sentenced on Thursday" in reports published on Friday 11 September 2026.
-  - A hearing on the disposal of the seized exhibits was set for 6 October 2026; its outcome was not reported.
 sources:
   - title: DRUG TRAFFICKER KASOLO SENTENCED TO 7 YEARS IMPRISONMENT
     url: https://diamondtvzambia.com/drug-trafficker-kasolo-sentenced-to-7-years-imprisonment/
@@ -63,18 +59,23 @@ sources:
     publisher: The Zambian Observer
     date: 2026-09-02
     language: en
+  - title: Kasolo sentencing adjourned to September 10 - Times of Zambia
+    url: https://times.co.zm/kasolo-sentencing-adjourned-to-september-10/
+    publisher: Times of Zambia
+    date: 2026-09-03
+    archived: https://web.archive.org/web/20260904144123id_/https://times.co.zm/kasolo-sentencing-adjourned-to-september-10/
 ---
 
 The Lusaka Magistrate's Court on Thursday, 10 September 2026 sentenced businessman Henry Kasolo — who
 had been on the Drug Enforcement Commission's (DEC) wanted list — to seven years' imprisonment with
 hard labour on each of three counts: trafficking in cannabis, unlawful importation of 73.9 kilograms
-of cannabis, and corrupt practices. [@1,2]
+of cannabis, and corrupt practices. [@1,2,5] On 3 September 2026 Resident Magistrate Webster Milumbe adjourned Kasolo's sentencing to 10 September 2026 to allow the prosecution to produce his previous conviction record. [@5]
 
 The case arose when two Thai nationals were arrested at Kenneth Kaunda International Airport with
 four suitcases holding 120 pieces of compressed cannabis; the court heard Kasolo later offered
-60,000 kwacha to a DEC officer to secure their release and move the consignment. [@1,2,3] The two Thai nationals arrested with the consignment were convicted and sentenced to five years imprisonment each. [@4] A controlled delivery operation led to Kasolo's apprehension at Shakespeare Apartments. [@4] Of the K60,000, K40,000 was transferred electronically through Airtel Money and K20,000 was delivered in cash. [@4] The state
+60,000 kwacha to a DEC officer to secure their release and move the consignment. [@1,2,3,5] The two Thai nationals arrested with the consignment were convicted and sentenced to five years imprisonment each. [@4] A controlled delivery operation led to Kasolo's apprehension at Shakespeare Apartments. [@4] Of the K60,000, K40,000 was transferred electronically through Airtel Money and K20,000 was delivered in cash. [@4] The state
 could not produce a prior-conviction record and told the court "the accused person is a first
-offender". [@2] Resident Magistrate Webster
+offender". [@2] Kasolo's defence did not object to the adjournment application. [@5] The prosecutor said there was no previous conviction record relating to the corrupt-practices charge and applied for an adjournment to present the record. [@5] State Prosecutor Aaron Tuntuluka told the court that Kasolo was not a first offender on the trafficking and unlawful importation counts, having previously been convicted of similar offences. [@5] Resident Magistrate Webster
 Milumbe said the quantity of cannabis was an aggravating factor that required a deterrent sentence,
 rejecting the defence's pleas of illness and family need, and ordered the three seven-year terms to
 run concurrently from Kasolo's arrest on 26 June 2025; he has 14 days to appeal. [@1,2] A hearing on
