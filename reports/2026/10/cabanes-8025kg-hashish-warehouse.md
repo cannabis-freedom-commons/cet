@@ -75,11 +75,16 @@ sources:
     publisher: Mossos d'Esquadra (X)
     date: 2026-10-09
     language: ca
+  - title: El narco 'enfría' toneladas de hachís en naves de Catalunya y usa motos lanzadera para burlar a la policía en su camino a Europa
+    url: https://www.elperiodico.com/es/sucesos/20261118/narcos-enfrian-hachis-naves-catalunya-motos-gran-cilindrada-burlar-policia-europa-135940707
+    publisher: El Periódico
+    date: 2026-11-18
+    language: es
 ---
 
 The Mossos d'Esquadra, Catalonia's regional police, raided an industrial warehouse in Cabanes, a few
 kilometres from Figueres and the French border, on 1 October 2026, arresting seven men aged 29 to 55
-as they unloaded pallets from a trailer into vans and seizing 8,025 kg of hashish. [@1,2,3]
+as they unloaded pallets from a trailer into vans and seizing 8,025 kg of hashish. [@1,2,3,4]
 
 The drug was hidden in large sacks of rubber granules, a method that camouflages it in an ordinary
 load and complicates police and customs checks. The investigation by the narcotics group of the DIC
