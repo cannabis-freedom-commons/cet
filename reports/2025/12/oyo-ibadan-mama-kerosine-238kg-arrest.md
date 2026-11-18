@@ -42,9 +42,10 @@ sources:
     url: https://www.ndlea.gov.ng/blog/ndlea-intercepts-illicit-drugs-in-coffee-sachets-detains-22-indians-over-cocaine-shipment
     publisher: National Drug Law Enforcement Agency
     date: 2026-01-04
-open_questions:
-  - No charges, court proceedings or outcomes for Ilori and Abosede were reported.
-  - The same NDLEA statement reports other seizures and arrests in Lagos, Borno, Kwara, Jigawa and at Apapa port; those are separate events left out of this report.
+  - title: NDLEA seizes 31.5kg cocaine in Lagos, arrests 22 Indian crew members
+    url: https://www.thecable.ng/ndlea-seizes-31-5kg-cocaine-in-lagos-arrests-22-indian-crew-members/
+    publisher: TheCable
+    date: 2026-01-04
 ---
 
 Operatives of the National Drug Law Enforcement Agency arrested wanted
@@ -52,14 +53,13 @@ Operatives of the National Drug Law Enforcement Agency arrested wanted
 illicit drug distributor in Ibadan. [@1] The agency described the 65-year-old
 grandmother as a major illicit drug distributor in Ibadan, the Oyo State
 capital. [@2] She was arrested with 35-year-old Olusanya Abosede at the
-Onireke/Elekuro area of Ibadan on 29 December 2025. [@1]
+Onireke/Elekuro area of Ibadan on 29 December 2025. [@1,3]
 
 The arrest was an intelligence-led operation that followed the seizure of 238.4
-kg of skunk, a strain of cannabis, linked to Ilori. [@1] The arrest was
+kg of skunk, a strain of cannabis, linked to Ilori. [@1,3] The arrest was
 disclosed in a press statement signed by Femi Babafemi, the NDLEA Director of
 Media and Advocacy, made public on Sunday 4 January 2026. [@1]
 
 NDLEA Chairman Brig. Gen. Mohamed Buba Marwa commended officers of the Oyo
 Command among others for the arrests and seizures and urged them to intensify
-the agency's drug control efforts. [@1]
-
+the agency's drug control efforts. [@1,3]
