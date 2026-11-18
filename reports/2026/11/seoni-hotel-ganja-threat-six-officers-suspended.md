@@ -110,6 +110,10 @@ sources:
     publisher: EdexLive
     date: 2026-11-18
     language: en
+  - title: MP CM orders suspension of 6 cops over threat to plant cannabis in a man’s bag
+    url: https://www.thestatesman.com/india/mp-cm-orders-suspension-of-6-cops-over-threat-to-plant-cannabis-in-a-mans-bag-1503664102.html
+    publisher: The Statesman
+    date: 2026-11-18
 open_questions:
     - The traffic inspector accused of demanding monthly payments is named Vijay Tiwari in the IANS account and Vijay Baghel in other reports.
     - Accounts differ on whether the Additional SP told hotel staff or his own police team to arrange the cannabis.
@@ -117,12 +121,13 @@ open_questions:
     - No outcome of the departmental inquiry or disciplinary proceedings against the six suspended officers has been reported.
     - The extortion and assault allegations against the officers had not been established by any investigation as reported.
     - No cannabis was actually seized or planted; the material was only the subject of a threat.
+    - The Statesman says the video had gone viral a couple of days before its 18 November 2026 report, while other accounts date its wide circulation to 18 November; the report uses that day.
 ---
 
 Six Madhya Pradesh police officers, including an Additional Superintendent of
 Police, a sub-divisional police officer and an inspector, were suspended on 18
 November 2026 over threats to plant marijuana on a young couple during a search
-at a private hotel in Seoni. [@1,5,8,10,14,15,16] Chief Minister Mohan Yadav ordered the
+at a private hotel in Seoni. [@1,5,8,10,14,15,16,17] Chief Minister Mohan Yadav ordered the
 suspensions after CCTV footage from the hotel lobby circulated widely that day.
 [@1,8] The clip was dated 13 November 2026 and, according to India Today, was
 recorded during the confrontation at the hotel. [@2,7,10,11] The six were Additional SP
@@ -130,7 +135,7 @@ Deepak Mishra, Seoni SDOP Chanchlesh Markam, Kotwali station in-charge Inspector
 Satish Tiwari, Head Constable Naveen Tiwari, and the Additional SP's driver
 Salman Khan and gunman Krishna Tiwari. [@1,14,15] Jabalpur Zone Inspector General
 Promod Verma said the presence of all six was confirmed in an initial inquiry.
-[@1] Verma said four personnel — the Seoni police station in-charge, a head constable, and the Additional SP's driver and gunman — had been suspended by his office, with action against the other officers under way. [@8] Director General of Police Kailash Makwana said a detailed inquiry had been ordered and that a proposal to suspend Mishra and Markam had been sent to the state government. [@10,14] Seoni SP Krishna Lalchandani ordered the inquiry after the footage surfaced, and Satish Tiwari was attached to the police lines, an administrative measure that does not establish guilt. [@4,6,9,13]
+[@1] Jabalpur Inspector General Pramod Verma had already ordered an inquiry against the Additional SP and the SDOP before the suspensions were announced. [@17] Verma said four personnel — the Seoni police station in-charge, a head constable, and the Additional SP's driver and gunman — had been suspended by his office, with action against the other officers under way. [@8] Director General of Police Kailash Makwana said a detailed inquiry had been ordered and that a proposal to suspend Mishra and Markam had been sent to the state government. [@10,14] Seoni SP Krishna Lalchandani ordered the inquiry after the footage surfaced, and Satish Tiwari was attached to the police lines, an administrative measure that does not establish guilt. [@4,6,9,13]
 
 In the footage the couple tell the officers they are adults, of the same caste
 and planning to marry. [@2,4,5,6,7,9,10,11,12] The woman was asked to unlock her phone; when she
