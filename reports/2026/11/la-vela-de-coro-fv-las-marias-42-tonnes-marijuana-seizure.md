@@ -71,6 +71,11 @@ sources:
     publisher: Confirmado
     date: 2026-11-17
     language: es
+  - title: Comando Sur de E.E.UU. confirma incautación de más de 4 toneladas de marihuana cerca de Falcón - El Diario de Guayana
+    url: https://eldiariodeguayana.com.ve/comando-sur-de-estados-unidos-confirma-incautacion-de-mas-de-4-toneladas-de-marihuana-cerca-de-falcon/
+    publisher: El Diario de Guayana
+    date: 2026-11-17
+    language: es
 media:
   - kind: photo
     url: https://www.elnacional.com/2026/11/comando-sur-de-ee-uu-confirma-incautacion-de-mas-de-cuatro-toneladas-de-marihuana-cerca-de-falcon/
@@ -84,12 +89,12 @@ in Falcon state carrying more than four tonnes of marijuana with four people on
 board, as reported by the United States Joint Interagency Task Force South. [@1,2,3,4,5,7]
 The target was the fishing vessel F/V Las Marias, spotted by a Netherlands
 maritime patrol aircraft while sailing in Caribbean waters off the Venezuelan
-coast. [@1,2,3,4,5,6,7] After the sighting, an interceptor unit of the Royal Netherlands
-Navy took control of the vessel and detained the four people on board. [@1,2,3,4,5,6,7]
+coast. [@1,2,3,4,5,6,7,8] After the sighting, an interceptor unit of the Royal Netherlands
+Navy took control of the vessel and detained the four people on board. [@1,2,3,4,5,6,7,8]
 
 Authorities seized 9,261 pounds of marijuana, about 4.2 tonnes, during the
-operation. [@1,2,4,5,6,7] Another 1,764 pounds, about 800 kilograms, could not be
-recovered because of safety concerns during the intervention. [@1,2,3,4,5,6,7] The total
+operation. [@1,2,4,5,6,7,8] Another 1,764 pounds, about 800 kilograms, could not be
+recovered because of safety concerns during the intervention. [@1,2,3,4,5,6,7,8] The total
 reported load was about five tonnes of marijuana, counting both the seized drugs
 and the drugs that could not be recovered. [@1,5,7]
 
