@@ -53,6 +53,16 @@ sources:
     publisher: Mersin Haber
     date: 2026-11-18
     language: tr
+  - title: Adana'da operasyonda 852 sentetik ilaç ve çalıntı motosiklet ele geçirildi
+    url: https://www.sondakika.com/3-sayfa/haber-adana-da-operasyonda-852-sentetik-ilac-ve-calinti--20437974/
+    publisher: Son Dakika
+    date: 2026-11-18
+    language: tr
+  - title: 'Adana''da uyuşturucu operasyonu: 852 sentetik ilaç ele geçirildi'
+    url: https://www.iha.com.tr/adana-haberleri/adanada-uyusturucu-operasyonu-852-sentetik-ilac-ele-gecirildi-517991818
+    publisher: İhlas Haber Ajansı (İHA)
+    date: 2026-11-18
+    language: tr
 open_questions:
     - No separate date is given for the operation; 18 November 2026 is the articles' publication date and is used as the incident date.
     - The kubar esrar was recorded at the scene with no laboratory confirmation reported.
@@ -66,18 +76,23 @@ media:
     media_url: https://cdn.haber365.com/uploads/1280/images/news/9190fbf5-3c42-469e-b5dc-d5eea8fdb55b.jpg
     publisher: Haber365
     caption: 'Seized drugs and other items laid out on tables beneath a ''T.C. Adana Valiliği İl Jandarma Komutanlığı'' banner, in the handout photo published with the Adana gendarmerie''s statement on the Karataş raid. Photo: Adana İl Jandarma Komutanlığı'
+  - kind: video
+    url: https://www.sondakika.com/3-sayfa/haber-adana-da-operasyonda-852-sentetik-ilac-ve-calinti--20437974/
+    media_url: https://izle.sondakika.com/2026/11/18/adana-karatas-ta-operasyonda-852-sentetik-ila-5989-20437960_sd.mp4
+    publisher: Son Dakika
+    caption: 'İHA video published with the report on the Karataş raid and the material seized at the address. Video: İHA / Son Dakika'
 ---
 
 Adana provincial gendarmerie teams raided an address in Karataş district, Adana,
-acting on intelligence about drug trafficking. [@1,2,3] A suspect identified only as
-O.O. was detained at the residence and then remanded in custody by a court. [@1,2,3]
+acting on intelligence about drug trafficking. [@1,2,3,4] A suspect identified only as
+O.O. was detained at the residence and then remanded in custody by a court. [@1,2,3,4]
 
 At the address officers found 0.51 grams of kubar esrar, a compressed cannabis
 resin, alongside 1.15 grams of cocaine, 1.21 grams of heroin and 1.21 grams of
-an A-M substance. [@1,2,3] The search also turned up 852 synthetic drug units. [@1,2,3]
+an A-M substance. [@1,2,3,4] The search also turned up 852 synthetic drug units. [@1,2,3,5]
 Officers recorded the found material through a crime-scene examination and an
 official report. [@1] The search also found a motorcycle reported stolen from
-Kahramanmaraş on 3 November 2026, which was returned to its owner. [@1,2,3]
+Kahramanmaraş on 3 November 2026, which was returned to its owner. [@1,2,3,4]
 
 The gendarmerie said it would continue intelligence work against similar crimes
 and that the investigation was continuing. [@1]
