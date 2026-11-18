@@ -64,6 +64,11 @@ sources:
     url: https://www.inventiva.co.in/stories/plant-some-ganja-on-the-boy-the-fearful-saga-of-the-indian-police-force/
     publisher: Inventiva
     date: 2026-11-18
+  - title: 'MP: Six police personnel, including ASP and SDOP, suspended over threatening couple to frame in false ‘marijuana case’'
+    url: https://www.aninews.in/news/national/general-news/mp-six-police-personnel-including-asp-and-sdop-suspended-over-threatening-couple-to-frame-in-false-8216marijuana-case821720261118174859
+    publisher: ANI News
+    date: 2026-11-18
+    language: en
 open_questions:
     - No account says whether any ganja was found or produced at the hotel, or whether a case was registered against the couple.
     - 'It is not established who was to bring the ganja: The Hindu and Free Press Journal describe Mr. Mishra telling his own police staff, while India Today and Brut say he asked hotel staff.'
@@ -75,20 +80,22 @@ open_questions:
     - Mr. Markam's rank is given as SDOP by The Hindu, SDPO by India Today and city SP by the Free Press Journal.
     - NDTV names the hotel owner Sanju Sanodiya, while other accounts of the same event call him Sanjay Sanodiya, and the correct spelling is not established.
     - The officer's recorded instruction is reported as 'plant some ganja on the boy' and as keeping ganja in the couple's bag; the exact wording of the CCTV audio is not settled.
+    - 'Sources differ on the sixth suspended officer: ANI names constable Krishna Parte and describes Salman Khan as the Additional SP''s gunman and Naveen Tiwari as his driver, while another account names Krishna Tiwari as the gunman and Salman Khan as the driver; the correct names and roles are not settled.'
+    - 'Sources differ on when the hotel footage went viral: ANI says 17 November, while another account describes it circulating widely on 18 November; the first date is not established.'
 ---
 
 Six Madhya Pradesh police officers, including an Additional Superintendent of
 Police, a sub-divisional police officer and an inspector, were suspended on 18
 November 2026 over threats to plant marijuana on a young couple during a search
-at a private hotel in Seoni. [@1,5] Chief Minister Mohan Yadav ordered the
+at a private hotel in Seoni. [@1,5,8] Chief Minister Mohan Yadav ordered the
 suspensions after CCTV footage from the hotel lobby circulated widely that day.
-[@1] The clip was dated 13 November 2026 and, according to India Today, was
+[@1,8] The clip was dated 13 November 2026 and, according to India Today, was
 recorded during the confrontation at the hotel. [@2,7] The six were Additional SP
 Deepak Mishra, Seoni SDOP Chanchlesh Markam, Kotwali station in-charge Inspector
 Satish Tiwari, Head Constable Naveen Tiwari, and the Additional SP's driver
 Salman Khan and gunman Krishna Tiwari. [@1] Jabalpur Zone Inspector General
 Promod Verma said the presence of all six was confirmed in an initial inquiry.
-[@1] Seoni SP Krishna Lalchandani ordered the inquiry after the footage surfaced, and Satish Tiwari was attached to the police lines, an administrative measure that does not establish guilt. [@4,6]
+[@1] Verma said four personnel — the Seoni police station in-charge, a head constable, and the Additional SP's driver and gunman — had been suspended by his office, with action against the other officers under way. [@8] Seoni SP Krishna Lalchandani ordered the inquiry after the footage surfaced, and Satish Tiwari was attached to the police lines, an administrative measure that does not establish guilt. [@4,6]
 
 In the footage the couple tell the officers they are adults, of the same caste
 and planning to marry. [@2,4,5,6,7] The woman was asked to unlock her phone; when she
@@ -100,7 +107,7 @@ Mr. Verma called the conduct objectionable and said Chhindwara Deputy IG Rakesh
 Kumar Singh had been asked to file an interim report that evening and a final
 report the next day. [@1] The Chief Minister said indiscipline and misconduct in
 police uniform were unacceptable and promised strict action under a
-zero-tolerance policy. [@1] Hotel owner Sanjay Sanodiya accused Inspector Satish
+zero-tolerance policy. [@1,8] Hotel owner Sanjay Sanodiya accused Inspector Satish
 Tiwari and SDOP Markam of extorting ₹50,000 a month and said the search was
 conducted after he could not meet the demand. [@1] The confrontation took place at the Sidarth Hotel. [@5] The hotel is on Babariya Road in Seoni. [@7] The hotel owner also named Traffic Inspector Vijay Baghel among the officers he accused of demanding monthly payments. [@4,5] The hotel owner said he had released the viral video on social media himself to expose the police. [@5,6] Mr. Verma said he had spoken
 to the hotel owner and taken his allegations into cognisance. [@1] The Free
