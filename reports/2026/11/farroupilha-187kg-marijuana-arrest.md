@@ -51,31 +51,36 @@ sources:
     publisher: Spaço FM 100.9
     date: 2026-11-18
     language: pt
+  - title: ➡Homem é preso após grande apreensão de maconha na Rua Domênico Fin, em Farroupilha
+    url: https://difusora973fm.com.br/%E2%9E%A1homem-e-preso-apos-grande-apreensao-de-maconha-na-rua-domenico-fin-em-farroupilha/
+    publisher: Difusora 973 FM
+    date: 2026-11-18
+    language: pt
 open_questions:
-  - No name, age or other identifier for the man was published; the source calls him only "um homem".
-  - No charge, court date, detention decision or plea was reported; the account ends with the man taken to the Farroupilha police station.
-  - The material was described as a substance resembling marijuana, with no laboratory confirmation reported.
-  - No street value or other estimate of the marijuana's worth was published.
-  - The article does not say whether the drugs were found inside the residence or on the man, only that they were seized in searches.
-  - The two mobile phones seized in the same search are not cannabis and are not counted in the figures.
-  - The account rests on the Brigada Militar statement as reproduced by a local radio station; no independent reporting or second outlet was found.
+    - No name, age or other identifier for the man was published; the accounts call him only "um homem".
+    - No charge filed by prosecutors, court date, detention decision or plea was reported; the accounts end with the man taken to the Farroupilha police station.
+    - The material was described as marijuana, with no laboratory confirmation reported.
+    - No street value or other estimate of the marijuana's worth was published.
+    - One account says the drugs were found during the approach and in searches at the house, but neither says how much was in the house and how much in the bag dropped in the street.
+    - The two mobile phones seized in the same search are not cannabis and are not counted in the figures.
+    - Both accounts reproduce the Brigada Militar statement, so there is still no independent reporting of the arrest.
+    - The man's prior record is described only as antecedents for drug trafficking, illegal firearm possession and receiving stolen goods, without case details or dates.
 ---
 
 A man was arrested for drug trafficking at about 14:00 on Tuesday 17 November
-2026 on Rua Domênico Fin in Farroupilha, in Rio Grande do Sul. [@1] The arrest
+2026 on Rua Domênico Fin in Farroupilha, in Rio Grande do Sul. [@1,2] The arrest
 was made by the tactical force (Força Tática) of the 36th Military Police
-Battalion (36º BPM). [@1] Officers acted on information from the Brigada
+Battalion (36º BPM). [@1,2] Officers acted on information from the Brigada
 Militar's intelligence sector that the suspect was dividing and distributing
 drugs for sale. [@1]
 
 Police saw the man in front of a house holding a bag; when he noticed the patrol
 car he dropped the object and tried to get inside quickly, but the officers
-stopped him. [@1] In the searches officers seized two bricks and 276 portions of
+stopped him. [@1,2] Part of the seized marijuana was in the bag he dropped as the patrol car approached, and officers also searched the house. [@2] In the searches officers seized two bricks and 276 portions of
 a substance resembling marijuana, weighing about 1.87 kilograms, plus two mobile
-phones. [@1]
+phones. [@1,2]
 
 According to the Brigada Militar, the man had prior records for drug trafficking
 on three occasions, illegal possession of a firearm and receiving stolen goods.
 [@1] He was taken to the Farroupilha police station to record the incident and
-for the legal procedures. [@1]
-
+for the legal procedures. [@1] He was taken for a medical examination before being handed to the Farroupilha police station. [@2]
