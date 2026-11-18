@@ -1,7 +1,7 @@
 ---
 code: EQQ21Q
 added_at: "2026-11-16T10:47:17.645501Z"
-date: 2026-11-14
+date: 2026-11-18
 country: cv
 place: Coqueiro, Castelão, Praia
 coordinates: [14.918, -23.509]
@@ -9,10 +9,9 @@ precision: locality
 type: arrest
 also: [seizure]
 title: 'Two held in Praia: mother and son in cannabis case'
-summary: >-
-  Judicial Police detained a mother and son in Coqueiro, Castelao, Praia on 14 November 2026 on suspicion of drug trafficking. The Internal Trafficking Brigade seized cannabis, hashish, precision scales, money and drug-preparation materials; the two awaited a first judicial interrogation.
+summary: Judicial Police detained a mother and son in Coqueiro, Castelão, Praia on 14 November 2026 on suspicion of drug trafficking. The Internal Trafficking Brigade seized cannabis, hashish, precision scales, money and drug-preparation materials; after a first interrogation the 24-year-old son was placed in pre-trial detention and his mother was ordered to report weekly.
 figures:
-  arrested: 2
+    arrested: 2
 details:
   agencies: [Polícia Judiciária]
   agency_types: [police]
@@ -24,12 +23,12 @@ details:
   date_precision: exact
   region: Santiago
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  figures.arrested: [1]
+    details.activity: [1]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [1]
+    details.products: [1]
+    figures.arrested: [3]
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: a84f7c30f41d5324170834ed83b2a494
@@ -45,13 +44,19 @@ sources:
     publisher: A Nação
     date: 2026-11-16
     language: pt
+  - title: PJ anuncia medidas de coação para mãe e filho detidos em Castelão
+    url: https://expressodasilhas.cv/pais/2026/11/18/pj-anuncia-medidas-de-coaccao-para-mae-e-filho-detidos-em-castelao/105592
+    publisher: Expresso das Ilhas
+    date: 2026-11-18
+    language: pt
 open_questions:
     - No weight was published for the seized cannabis or hashish.
     - No amount was published for the seized money and no detail was given on the silver artefacts or other objects.
-    - No names or ages were published for the two detainees.
-    - No charges beyond suspected drug trafficking and no court outcome were reported; the case was pending a first judicial interrogation.
+    - No names were published for the two detainees; only the son's age, 24, and his identification as the main suspect were reported.
+    - The first interrogation has now been held and coercive measures imposed, but no specific trafficking charge, plea or trial date was reported.
     - The exact time of the detention on 14 November was not stated; 14 November 2026 is inferred from Saturday the 14th with publication on 16 November 2026.
-    - Both accessible accounts reproduce the same Judicial Police statement and are not independent reporting.
+    - The exact date of the first interrogation was not stated; 18 November 2026 is the announcement and publication date.
+    - All accounts including the new one reproduce the same Judicial Police statement and are not independent reporting.
 ---
 
 Judicial Police officers in Praia detained two people, a mother and her son, in
@@ -71,4 +76,4 @@ After the detention, the two detainees remained held at Judicial Police
 facilities while awaiting presentation to a judge within the legal deadline.
 [@1] The forthcoming judicial presentation was for a first judicial
 interrogation and for the court to decide on the possible application of
-coercive measures. [@1,2]
+coercive measures. [@1,2] The mother was ordered to report weekly to the judicial authorities. [@3] The 24-year-old son, described as the main suspect, was placed in pre-trial detention. [@3] After the first judicial interrogation of the two defendants, the court imposed coercive measures on the mother and son. [@3]
