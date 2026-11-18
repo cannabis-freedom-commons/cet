@@ -51,6 +51,11 @@ media:
     media_url: https://v.wpimg.pl/MTJjNzNmYjUrCDhJYRZvIGhQbBMnT2F2P0h0WGEOYmx7WzZLfF19eywDIh88CD07ZB0-Fi8ZKzs4B2AXKwkkNWULPhNhG3x7LgM9CiIMNHsvBywfKkJ4NnpdLEosDmBlKw8oV3oOe2dnCytCeUArbHoPe0t8DnpnLF1sBw
     publisher: WP Info
     caption: 'A second police handout photo of the seized drugs, captioned ''Narkotyki znalezione u poszukiwanego 22-latka''. Photo: KMP Płock'
+  - kind: photo
+    url: https://tp.com.pl/artykul/poszukiwany-za-uszkodzenie-n1880922
+    media_url: https://tp.com.pl/static/files/gallery/157/1880922_1795032277.webp
+    publisher: Tygodnik Płocki
+    caption: Marijuana and hashish being weighed, in the photo captioned 'Marihuana i haszysz w trakcie ważenia' published with the Tygodnik Płocki report on the 16 November 2026 seizure in Płock.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: aa85834bdef3180b8246332cca186d7a
@@ -76,6 +81,11 @@ sources:
     publisher: PetroNews
     date: 2026-11-18
     language: pl
+  - title: Poszukiwany za uszkodzenie mienia, w mieszkaniu miał narkotyki. 22-latek trafił do aresztu - wiadomości Płock
+    url: https://tp.com.pl/artykul/poszukiwany-za-uszkodzenie-n1880922
+    publisher: Tygodnik Płocki
+    date: 2026-11-18
+    language: pl
 open_questions:
     - The drugs are described only as over half a kilogram of marijuana and hashish in total, with no separate weights, so 0.5 kg is a lower bound.
     - Police gave the value as nearly 27,000 złoty on the black market; no exact measured weight or independent valuation was published.
@@ -86,17 +96,17 @@ open_questions:
 ---
 
 Płock city police arrested a 22-year-old man linked to the football hooligan
-scene, known in Poland as pseudokibice. [@3,4] He was wanted to serve a sentence
-imposed for not paying a fine for damage to property. [@3,4] Officers of the Płock
+scene, known in Poland as pseudokibice. [@3,4,5] He was wanted to serve a sentence
+imposed for not paying a fine for damage to property. [@3,4,5] Officers of the Płock
 command's football-hooligan unit and its department for crimes against life and
-health carried out the arrest. [@2,4] Officers went to his flat on 16 November
-2026 and searched it. [@3,4]
+health carried out the arrest. [@2,4,5] Officers went to his flat on 16 November
+2026 and searched it. [@3,4,5]
 
-The search turned up more than half a kilogram of marijuana and hashish. [@3,4]
+The search turned up more than half a kilogram of marijuana and hashish. [@3,4,5]
 Police estimated the black-market value of the drugs at nearly 27,000 złoty.
-[@3,4] The discovery widened the case to a suspected drug offence. [@1]
+[@3,4,5] The discovery widened the case to a suspected drug offence. [@1]
 
 He was charged with possession of a significant amount of intoxicating
-substances. [@1,4] Płock police spokeswoman Monika Jakubowska gave the account of the charge and the detention order. [@4] At the prosecutor's request a court ordered him held in
-pre-trial detention for three months. [@3,4] Possession of a significant amount of
-drugs carries up to 10 years in prison. [@1,4]
+substances. [@1,4,5] Płock police spokeswoman Monika Jakubowska gave the account of the charge and the detention order. [@4,5] At the prosecutor's request a court ordered him held in
+pre-trial detention for three months. [@3,4,5] Possession of a significant amount of
+drugs carries up to 10 years in prison. [@1,4,5]
