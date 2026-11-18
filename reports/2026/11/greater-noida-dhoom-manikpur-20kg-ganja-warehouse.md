@@ -108,6 +108,10 @@ sources:
     publisher: Now Noida
     date: 2026-11-13
     language: hi
+  - title: Two arrested from Noida with 178kg cannabis hidden in truck cavity designed like fuel tank
+    url: https://timesofindia.indiatimes.com/city/noida/two-arrested-from-noida-with-178kg-cannabis-hidden-in-truck-cavity-designed-like-fuel-tank/articleshow/135970601.cms
+    publisher: The Times of India
+    date: 2026-11-19
 open_questions:
   - No arrest or identified sender or recipient was reported in this account; who booked the parcels and who was to receive them in Delhi remained under investigation.
 ---
@@ -119,9 +123,9 @@ Company near Dhoom Manikpur village, stores parcels sent through a local
 delivery company. [@1,6] The two packets had been booked in Odisha for delivery in
 Delhi and bore a Delhi address. [@1,2,5,6,8,9,10,11] The packages had arrived at the warehouse on Thursday and were to be sent to Delhi the next day. [@7] Police reached the warehouse after the
 packets aroused suspicion, had both packets examined, and confirmed they
-contained ganja. [@1,6] DCP Central Noida Dr Praveen Ranjan Singh said a field unit and a forensic team were called to the warehouse, scanned both packets and confirmed they contained ganja. [@9] The ganja was concealed between layers of books inside the two packages and was detected during an X-ray scan. [@3,7]
+contained ganja. [@1,6] DCP Central Noida Dr Praveen Ranjan Singh said a field unit and a forensic team were called to the warehouse, scanned both packets and confirmed they contained ganja. [@9] The ganja was concealed between layers of books inside the two packages and was detected during an X-ray scan. [@3,7,12]
 
-Together the two packets yielded about 20 kg of ganja. [@1,5,6,8] Police put the
+Together the two packets yielded about 20 kg of ganja. [@1,5,6,8,12] Police put the
 estimated market value of the seized ganja at about 10 lakh rupees. [@1,2,4,5,6,7,8,9,10,11] Police
 took the ganja into custody and began investigating the case. [@1,5,8,9,10,11] Police said a case is being registered against both the sender and the recipient of the consignment. [@3,7]
 
