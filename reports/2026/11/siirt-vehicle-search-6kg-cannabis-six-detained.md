@@ -70,6 +70,11 @@ sources:
     publisher: Mersin Haber
     date: 2026-11-18
     language: tr
+  - title: 'Siirt’te 6 kilogram esrar ele geçirildi: 6 kişi gözaltına alındı'
+    url: https://www.msn.com/tr-tr/haber/turkiye/siirt-te-6-kilogram-esrar-ele-ge%C3%A7irildi-6-ki%C5%9Fi-g%C3%B6zalt%C4%B1na-al%C4%B1nd%C4%B1/ar-AA2hIgjB
+    publisher: MSN / İhlas Haber Ajansı (İHA)
+    date: 2026-11-18
+    language: tr
 open_questions:
   - The reports give no separate date for the stop and search; 18 November 2026 is the publication date and stands in for the incident date.
   - The material is described only as esrar; the reports do not say whether it was herbal cannabis or pressed resin.
@@ -83,16 +88,16 @@ open_questions:
 The operation was run by teams of the Siirt İl Emniyet Müdürlüğü Narkotik
 Suçlarla Mücadele Şube Müdürlüğü, the provincial police directorate's unit for
 combating narcotics crime, as part of work against drug use and trafficking.
-[@1,5,6] Officers had been following the car on suspicion of drug trafficking before
+[@1,5,6,7] Officers had been following the car on suspicion of drug trafficking before
 they stopped and searched it. [@4] The search was carried out with İnşa, a
 narcotics detection dog. [@1] Officers seized six kilograms of esrar, the
-everyday Turkish term for cannabis, from the vehicle. [@2,5,6]
+everyday Turkish term for cannabis, from the vehicle. [@2,5,6,7]
 
 Six suspects were detained over the seizure, one of them a foreign national.
-[@1,5,6] Legal proceedings were started against the suspects who had been in the
+[@1,5,6,7] Legal proceedings were started against the suspects who had been in the
 car. [@4]
 
 After questioning and processing at the police station, the six were sent to the
-judicial authorities. [@4,6] Their procedures at the prosecutor's office were
+judicial authorities. [@4,6,7] Their procedures at the prosecutor's office were
 continuing. [@1] The operation was directed at drug trafficking in Siirt. [@3]
 The work was conducted across the city to prevent drug use and trafficking. [@4]
