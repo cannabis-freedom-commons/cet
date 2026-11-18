@@ -87,6 +87,16 @@ sources:
     publisher: Kasargodvartha
     date: 2026-11-18
     language: ml
+  - title: 'एएसपी की प्रेमी जोड़े को गांजे में फंसाने की धमकी: तीन पुलिस अफसर होटल में घुसे, ₹50 हजार मांगे; वीडियो आने पर टीआई सस्पेंड'
+    url: https://www.bhaskar.com/amp/local/mp/news/seoni-police-extortion-video-asp-deepak-mishra-hotel-owner-controversy-139718372.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-18
+    language: hi
+  - title: इनके बैग में गांजा रखो और फंसा दो... होटल में ठहरे बालिग कपल को ASP ने धमकाया, हिडन कैमरे में कैद हुई करतूत| MP Viral News
+    url: https://nedricknews.com/seoni-police-viral-video-mp-asp-deepak-mishra/
+    publisher: Nedrick News
+    date: 2026-11-18
+    language: hi
 open_questions:
     - No account says whether any ganja was found or produced at the hotel, or whether a case was registered against the couple.
     - 'It is not established who was to bring the ganja: The Hindu and Free Press Journal describe Mr. Mishra telling his own police staff, while India Today and Brut say he asked hotel staff.'
@@ -99,7 +109,7 @@ open_questions:
     - NDTV names the hotel owner Sanju Sanodiya, while other accounts of the same event call him Sanjay Sanodiya, and the correct spelling is not established.
     - The officer's recorded instruction is reported as 'plant some ganja on the boy' and as keeping ganja in the couple's bag; the exact wording of the CCTV audio is not settled.
     - 'Sources differ on the sixth suspended officer: ANI names constable Krishna Parte and describes Salman Khan as the Additional SP''s gunman and Naveen Tiwari as his driver, while another account names Krishna Tiwari as the gunman and Salman Khan as the driver; the correct names and roles are not settled.'
-    - 'Sources differ on when the hotel footage went viral: ANI says 17 November, while another account describes it circulating widely on 18 November; the first date is not established.'
+    - No finding on the authenticity of the recording has been published; police said the recorder would be examined, and Mr. Mishra has called the footage AI-generated and fake.
 ---
 
 Six Madhya Pradesh police officers, including an Additional Superintendent of
@@ -113,13 +123,13 @@ Deepak Mishra, Seoni SDOP Chanchlesh Markam, Kotwali station in-charge Inspector
 Satish Tiwari, Head Constable Naveen Tiwari, and the Additional SP's driver
 Salman Khan and gunman Krishna Tiwari. [@1] Jabalpur Zone Inspector General
 Promod Verma said the presence of all six was confirmed in an initial inquiry.
-[@1] Verma said four personnel — the Seoni police station in-charge, a head constable, and the Additional SP's driver and gunman — had been suspended by his office, with action against the other officers under way. [@8] Director General of Police Kailash Makwana said a detailed inquiry had been ordered and that a proposal to suspend Mishra and Markam had been sent to the state government. [@10] Seoni SP Krishna Lalchandani ordered the inquiry after the footage surfaced, and Satish Tiwari was attached to the police lines, an administrative measure that does not establish guilt. [@4,6,9]
+[@1] Verma said four personnel — the Seoni police station in-charge, a head constable, and the Additional SP's driver and gunman — had been suspended by his office, with action against the other officers under way. [@8] Director General of Police Kailash Makwana said a detailed inquiry had been ordered and that a proposal to suspend Mishra and Markam had been sent to the state government. [@10] Seoni SP Krishna Lalchandani ordered the inquiry after the footage surfaced, and Satish Tiwari was attached to the police lines, an administrative measure that does not establish guilt. [@4,6,9,13]
 
 In the footage the couple tell the officers they are adults, of the same caste
-and planning to marry. [@2,4,5,6,7,9,10,11] The woman was asked to unlock her phone; when she
-refused, Mishra suggested planting ganja in the man's bag. [@3,4,5,6,7,9,10,11] Mishra is heard
+and planning to marry. [@2,4,5,6,7,9,10,11,12] The woman was asked to unlock her phone; when she
+refused, Mishra suggested planting ganja in the man's bag. [@3,4,5,6,7,9,10,11,12] Mishra is heard
 saying the officers would not call the couple's parents but would keep ganja in
-their bag. [@1] The footage also shows an officer reprimanding the couple for going out together without informing their parents. [@10] Under India's NDPS Act, a small quantity of cannabis carries up to a year in prison and a ₹10,000 fine. [@9]
+their bag. [@1] Additional SP Deepak Mishra denied the footage, calling it AI-generated and fake, and ended the call when a reporter said the Inspector General had sought a report. [@12] The footage also shows an officer reprimanding the couple for going out together without informing their parents. [@10] Under India's NDPS Act, a small quantity of cannabis carries up to a year in prison and a ₹10,000 fine. [@9]
 
 Mr. Verma called the conduct objectionable and said Chhindwara Deputy IG Rakesh
 Kumar Singh had been asked to file an interim report that evening and a final
@@ -127,7 +137,7 @@ report the next day. [@1] The Chief Minister said indiscipline and misconduct in
 police uniform were unacceptable and promised strict action under a
 zero-tolerance policy. [@1,8,10] Hotel owner Sanjay Sanodiya accused Inspector Satish
 Tiwari and SDOP Markam of extorting ₹50,000 a month and said the search was
-conducted after he could not meet the demand. [@1] The confrontation took place at the Sidarth Hotel. [@5,9] The hotel is on Babariya Road in Seoni. [@7] The hotel owner also named Traffic Inspector Vijay Baghel among the officers he accused of demanding monthly payments. [@4,5,9] The hotel owner said he had released the viral video on social media himself to expose the police. [@5,6,9,11] Mr. Verma said he had spoken
+conducted after he could not meet the demand. [@1] The confrontation took place at the Sidarth Hotel. [@5,9,12] The hotel is on Babariya Road in Seoni. [@7,13] The hotel owner also named Traffic Inspector Vijay Baghel among the officers he accused of demanding monthly payments. [@4,5,9] The hotel owner said he had released the viral video on social media himself to expose the police. [@5,6,9,11] He said he then installed a hidden camera and that, though officers seized one recorder, a second survived holding the footage. [@12] The hotel owner said officers seized the hotel's CCTV recorders each time they visited, leaving him without evidence of what they did. [@12] Mr. Verma said he had spoken
 to the hotel owner and taken his allegations into cognisance. [@1] The Free
 Press Journal reported earlier the same day that an investigation was under way
 into the roles of the city SP and the Additional SP. [@3] Investigators were also to examine whether anyone attempted to fabricate evidence. [@4,9] Police officials said the digital video recorder footage would be examined to establish the authenticity of the recording and the circumstances of the hotel visit. [@6,9]
