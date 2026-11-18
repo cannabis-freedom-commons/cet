@@ -69,15 +69,28 @@ sources:
     publisher: Deniz Haber
     date: 2026-11-19
     language: tr
+  - title: İzmir’de Yabancı Bayraklı Yelkenlide 266 Kilogram Skunk Ele Geçirildi
+    url: https://tekha.com.tr/izmirde-yabanci-bayrakli-yelkenlide-266-kilogram-skunk-ele-gecirildi
+    publisher: TEKHA (Tek Haber Ajansı)
+    date: 2026-11-18
+    language: tr
+  - title: İzmir açıklarında dev operasyon! Yabancı bayraklı teknede narkotik köpeğiyle 266 kilo skunk ele geçirildi
+    url: https://tgrthaber.com/gundem/izmir-aciklarinda-dev-operasyon-yabanci-bayrakli-teknede-narkotik-kopegiyle-266-kilo-3372145
+    publisher: TGRT Haber
+    date: 2026-11-18
+    language: tr
+open_questions:
+  - The ministry did not say when the boat was stopped, what flag it flew, where it had come from or where it was bound.
+  - No arrests, detentions or charges were reported, and no suspect had been identified.
 ---
 
 Turkey's Interior Ministry said Coast Guard units patrolling Bodrumiçi Cove, in
 the Urla district of İzmir province on the Aegean coast, judged a
-foreign-flagged sailing boat suspicious during inspections in the cove. [@1,4,5,6,7]
+foreign-flagged sailing boat suspicious during inspections in the cove. [@1,4,5,6,7,8]
 Personnel of the Coast Guard's Aegean Sea Regional Command and of the İzmir
 Provincial Gendarmerie Command searched the boat, with a narcotics detector dog
-taking part. [@1,4,5,6,7] Officers seized 266 kilograms of skunk, a cannabis product, on
-board. [@1,4,5,6,7]
+taking part. [@1,4,5,6,7,8] Officers seized 266 kilograms of skunk, a cannabis product, on
+board. [@1,4,5,6,7,8] The 266 kilograms of skunk were hidden in various compartments of the boat. [@9]
 
 The ministry announced the seizure in a written statement and congratulated the
 two commands and everyone who took part in the operation. [@1] No arrests were
