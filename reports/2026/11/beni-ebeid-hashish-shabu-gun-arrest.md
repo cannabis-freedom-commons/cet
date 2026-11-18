@@ -41,29 +41,33 @@ sources:
     publisher: يوليو
     date: 2026-11-18
     language: ar
+  - title: بحوزته كوكتيل مخدرات.. ضبط عنصر إجرامي بتهمة الإتجار في المواد المخدرة بالدقهلية
+    url: https://www.almasryalyoum.com/news/details/4413822
+    publisher: Almasry Alyoum
+    date: 2026-11-18
+    language: ar
 open_questions:
-  - No date is given for the security campaign or the arrest; 18 November 2026 is the article's publication date and is used as the incident date.
-  - No weight or value was reported for the 10 pieces of hashish, so the cannabis quantity cannot be expressed in kilograms.
-  - No amount was given for the cash found with the man, nor a value for the seized drugs.
-  - No trial date or further court outcome was reported after the four-day detention order.
-  - The account rests on a single local outlet; no separate police statement or independent report of this arrest was located.
+    - No date is given for the security campaign or the arrest; 18 November 2026 is the article's publication date and is used as the incident date.
+    - No weight or value was reported for the 10 pieces of hashish, so the cannabis quantity cannot be expressed in kilograms.
+    - No amount was given for the cash found with the man, nor a value for the seized drugs.
+    - No trial date or further court outcome was reported after the four-day detention order.
+    - The accounts reproduce the same Dakahlia security statement and are not independent reporting.
 ---
 
 Security forces in Dakahlia Governorate arrested a 42-year-old man on suspicion
 of trafficking in drugs and possessing firearms and ammunition without a
-licence. [@1] The campaign targeted his criminal activity in Beni Ebeid markaz,
+licence. [@1,2] The campaign targeted his criminal activity in Beni Ebeid markaz,
 where officers found a variety of drugs, a firearm and ammunition with him. [@1]
 After legal procedures and permission from the Public Prosecution, a security
 force led by Lieutenant Colonel Ahmed Hassan, head of the centre's
 investigations, carried out the arrest. [@1] The man was identified as Luay M.
 A. Sh., a 42-year-old resident of El-Salahat village with previous criminal
-records in theft, drugs and possession of firearms and ammunition. [@1]
+records in theft, drugs and possession of firearms and ammunition. [@1,2]
 
 A search of the man found a firearm and live ammunition, 10 pieces of hashish
 and 50 bags of shabu (methamphetamine), along with cash, a mobile phone and a
-motorcycle with no number plates. [@1] The shabu, the firearm and the ammunition
+motorcycle with no number plates. [@1,2] The shabu, the firearm and the ammunition
 are not part of the cannabis figures reported here. [@1] Officers impounded the
 seizures and drew up report number 7803 of Beni Ebeid felonies for 2026. [@1]
 The man was referred to the Public Prosecution, which ordered four days'
 detention pending investigations. [@1]
-

@@ -51,27 +51,31 @@ sources:
     publisher: Besraha
     date: 2026-11-18
     language: ar
+  - title: بحوزته كوكتيل مخدرات.. ضبط عنصر إجرامي بتهمة الإتجار في المواد المخدرة بالدقهلية
+    url: https://www.almasryalyoum.com/news/details/4413822
+    publisher: Almasry Alyoum
+    date: 2026-11-18
+    language: ar
 open_questions:
-  - No date is given for the arrest or search; 18 November 2026 is the publication date of the accounts and is used as the incident date.
-  - No weight or value was published for the 10 pieces of hashish, so no kilogram figure can be given.
-  - The 50 bags of shabu, a methamphetamine, are not cannabis and are excluded from the figures; no weight was given for them either.
-  - No amount was given for the cash seized with the drugs.
-  - The suspect's initials differ between accounts (L. M. A. Sh. in Egypt Telegraph, L. M. A. M. in Sada Elbalad), and no plea was reported.
-  - The prosecution ordered four days' detention pending investigation; no charge sheet or court outcome was reported.
-  - The three accounts reproduce the same Dakahlia security statement and are not independent reporting.
+    - No date is given for the arrest or search; 18 November 2026 is the publication date of the accounts and is used as the incident date.
+    - No weight or value was published for the 10 pieces of hashish, so no kilogram figure can be given.
+    - The 50 bags of shabu, a methamphetamine, are not cannabis and are excluded from the figures; no weight was given for them either.
+    - No amount was given for the cash seized with the drugs.
+    - The suspect's initials differ between accounts (L. M. A. Sh. in Egypt Telegraph, L. M. A. M. in Sada Elbalad), and no plea was reported.
+    - The prosecution ordered four days' detention pending investigation; no charge sheet or court outcome was reported.
+    - The four accounts reproduce the same Dakahlia security statement and are not independent reporting.
 ---
 
 Police in Beni Ubaid, a district in Egypt's Dakahlia governorate, arrested a
 42-year-old man from al-Salahat village who they said was selling drugs in the
-area. [@1] Detectives from the Beni Ubaid police station acted on information
+area. [@1,4] Detectives from the Beni Ubaid police station acted on information
 about his dealing and obtained a public prosecution warrant to arrest and search
-him. [@1] The search turned up 10 pieces of hashish and 50 bags of shabu, a
+him. [@1,4] The search turned up 10 pieces of hashish and 50 bags of shabu, a
 methamphetamine, along with a firearm, live ammunition, cash, a mobile phone and
-a motorcycle without plates. [@1] Police said he had previously been accused in
-cases involving theft, drugs, firearms and ammunition. [@2]
+a motorcycle without plates. [@1,4] Police said he had previously been accused in
+cases involving theft, drugs, firearms and ammunition. [@2,4]
 
 The public prosecution ordered him held for four days pending investigation on
 suspicion of drug trafficking and of possessing an unlicensed firearm and
 ammunition. [@3] Police recorded the case as No. 7803 of 2026 for Beni Ubaid and
 kept the seized items. [@1]
-
