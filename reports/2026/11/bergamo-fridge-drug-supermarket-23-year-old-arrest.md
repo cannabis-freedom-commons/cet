@@ -138,6 +138,11 @@ sources:
     publisher: Il Corriere Nazionale
     date: 2026-11-15
     language: it
+  - title: 'Bergamo, supermercato della droga in casa: sequestrati 15 chili di hashish e marijuana'
+    url: https://lamilano.it/cronaca/bergamo-supermercato-della-droga-in-casa-sequestrati-15-chili-di-hashish-e-marijuana/
+    publisher: La Milano
+    date: 2026-11-17
+    language: it
 media:
   - kind: video
     url: https://primabergamo.it/cronaca/in-casa-aveva-un-vero-e-proprio-supermercato-della-droga-23enne-arrestato-dalla-polizia-di-bergamo/
@@ -154,28 +159,38 @@ media:
     media_url: https://ilgiornalepopolare.it/wp-content/uploads/2026/11/Polizia-di-Stato-Bergamo-20261114-IlGiornalePopolare-.jpg.webp
     publisher: POP - Il Giornale Popolare
     caption: 'Three views of the seizure published with the report: the fridge with sealed labelled jars, a thermal bag, and packaged drugs with cash seized in the Bergamo home.'
+  - kind: video
+    url: https://lamilano.it/cronaca/bergamo-supermercato-della-droga-in-casa-sequestrati-15-chili-di-hashish-e-marijuana/
+    media_url: https://vz-42c4432b-d02.b-cdn.net/d38acd55-7ffb-411e-a30b-662c7d90d69a/playlist.m3u8
+    publisher: La Milano
+    caption: La Milano's news video reporting the Bergamo home 'drug supermarket', the 15 kg of hashish and marijuana seized and the arrest of the 23-year-old.
+  - kind: photo
+    url: https://lamilano.it/cronaca/bergamo-supermercato-della-droga-in-casa-sequestrati-15-chili-di-hashish-e-marijuana/
+    media_url: https://lamilano.it/wp-content/uploads/2026/11/videoframe_1829-750x430.png?v=1794926061
+    publisher: La Milano
+    caption: Still frame from the La Milano video on the Bergamo home drug seizure and the arrest of the 23-year-old.
 open_questions:
     - The Reporteri.net article gives no separate date for the arrest; 10 November 2026 comes from the police statement already cited in the report.
     - The 15 kilograms is reported only as hashish and marijuana combined, with no split between the two.
 ---
 
 Bergamo State Police investigators from the Squadra Mobile arrested a
-23-year-old on 10 November in Bergamo. [@1,4,5,9,10,15,16,18] A second account describes the
+23-year-old on 10 November in Bergamo. [@1,4,5,9,10,15,16,18,20] A second account describes the
 23-year-old as an Italian of Albanian origin. [@2,4,6,9,10,13,17,19] He was arrested for
-possession of narcotics with intent to deal. [@1,8,17] The arrest was later validated
+possession of narcotics with intent to deal. [@1,8,17,20] The arrest was later validated
 by the judicial authority, which ordered a restrictive precautionary measure
-against him. [@1,6,10,17,19]
+against him. [@1,6,10,17,19,20]
 
 Officers found about 15 kilograms of hashish and marijuana in a home used as a
-drug storage place. [@1,4,6,7,9,10,11,12,14,15,18,19] A fridge and thermal bags had been turned into
+drug storage place. [@1,4,6,7,9,10,11,12,14,15,18,19,20] A fridge and thermal bags had been turned into
 containers for keeping the drugs, evidently to limit the smell and make
-detection harder. [@1,9,10,17,19] Different hashish varieties were divided by type into
+detection harder. [@1,9,10,17,19,20] Different hashish varieties were divided by type into
 individually sealed, labelled jars arranged in order inside the fridge like a
-supermarket display. [@1,4,5,8,9,10,11,12,14,15,16,17,18] Officers also found numerous vaporizers used for
-taking drug extracts through e-cigarettes. [@1,4,6,11,12,14,15,17]
+supermarket display. [@1,4,5,8,9,10,11,12,14,15,16,17,18,20] Officers also found numerous vaporizers used for
+taking drug extracts through e-cigarettes. [@1,4,6,11,12,14,15,17,20]
 
 They seized more than 10,000 euros in cash believed to be proceeds of dealing,
-and all the material found was placed under seizure. [@1,4,6,10,13,15,16,17] Police said the
+and all the material found was placed under seizure. [@1,4,6,10,13,15,16,17,20] Police said the
 operation removed a large quantity of drugs from the market and stopped an
 organised possession and distribution activity run in a particularly structured
 way. [@1] The LaPresse account carried by Il Sole 24 Ore gives the same core
