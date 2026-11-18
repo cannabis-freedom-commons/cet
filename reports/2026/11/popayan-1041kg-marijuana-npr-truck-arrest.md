@@ -65,6 +65,11 @@ media:
     media_url: https://www.elinformador.com.co/images/stories/redes_sociales/2026/11-noviembre/17%20incautacion.jpg#joomlaImage://local-images/stories/redes_sociales/2026/11-noviembre/17%20incautacion.jpg?width=600&height=400
     publisher: El Informador
     caption: 'Seized marijuana from the NPR truck intercepted in rural Popayán, in an Army handout. Photo: Ejército Nacional de Colombia'
+  - kind: photo
+    url: https://elexpreso.co/hoy/incautan-mas-de-una-tonelada-de-marihuana-de-las-disidencias-de-las-farc-en-popayan-con-destino-a-brasil/
+    media_url: https://elexpreso.co/wp-content/uploads/2026/11/incautan-mas-de-una-tonelada-de-marihuana-de-las-disidencias-de-las-farc-en-popayan-con-destino-a-brasil-popaya-ejercito-nacionan-1200x675.jpg
+    publisher: El Expreso
+    caption: 'Army handout photo of the Popayan marijuana seizure published with the report. Photo: Ejército Nacional'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ce879e9c1618959a5c25dd958e5283e1
@@ -150,21 +155,26 @@ sources:
     publisher: Seguimiento
     date: 2026-11-17
     language: es
+  - title: Incautan más de una tonelada de marihuana de las disidencias de las Farc en Popayán con destino a Brasil - El Expreso
+    url: https://elexpreso.co/hoy/incautan-mas-de-una-tonelada-de-marihuana-de-las-disidencias-de-las-farc-en-popayan-con-destino-a-brasil/
+    publisher: El Expreso
+    date: 2026-11-17
+    language: es
 ---
 
 Troops of Anti-Narcotics Battalion No. 2 carried out a ground interdiction
 against a motor vehicle in a rural area of Popayán, Cauca. [@1,7,10,11,13,14] Officers found
 1,041 kilograms of marijuana hidden inside an NPR-type truck during the check.
-[@1,3,4,5,6,7,8,9,10,11,12,13,14,16] The load was hidden beneath the floor of the truck and in internal compartments of the vehicle. [@11,13,16] The driver ignored the stop signal and fled, prompting a motorized pursuit until troops intercepted the vehicle. [@6] Troops at a 29th Brigade road checkpoint detected the suspicious van-type truck and signalled it to stop. [@6] Officers arrested the driver of the vehicle at the scene. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15,16] The seized
+[@1,3,4,5,6,7,8,9,10,11,12,13,14,16,17] The load was hidden beneath the floor of the truck and in internal compartments of the vehicle. [@11,13,16] The driver ignored the stop signal and fled, prompting a motorized pursuit until troops intercepted the vehicle. [@6] Troops at a 29th Brigade road checkpoint detected the suspicious van-type truck and signalled it to stop. [@6] Officers arrested the driver of the vehicle at the scene. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17] The seized
 load, the immobilized vehicle and the detained man were placed at the disposal
 of the judicial authorities for prosecution for alleged drug trafficking,
 manufacture or possession. [@2,3,11]
 
 Military intelligence linked the load to the Dagoberto Ramos structure of the
-FARC dissidents. [@2,3,4,5,6,7,8,9,10,11,13,15,16] The structure was linked to alias 'Iván Mordisco'. [@15] Intelligence indicated the drug was first bound for Puerto
-Asís, Putumayo. [@1,3,4,5,6,7,8,9,10,11,12,13,16] From Puerto Asís the load was to be moved by river launches
-toward Brazil. [@1,3,4,5,6,7,8,9,10,11,12,13]
+FARC dissidents. [@2,3,4,5,6,7,8,9,10,11,13,15,16,17] The structure was linked to alias 'Iván Mordisco'. [@15] Intelligence indicated the drug was first bound for Puerto
+Asís, Putumayo. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17] From Puerto Asís the load was to be moved by river launches
+toward Brazil. [@1,3,4,5,6,7,8,9,10,11,12,13,17]
 
 Authorities estimated the seizure equalled about 52,050 doses for illegal
 markets. [@1,4,5,7,8,9,10,11,12,13,16] The Army put the economic impact on that structure at about 1,050
-million pesos. [@2,7,8,9,10,11,12,13,15,16] Major Hernán Soto Quintero, second commander of Anti-Narcotics Battalion No. 2, said the seized substance formed part of the armed group's illicit finances. [@11]
+million pesos. [@2,7,8,9,10,11,12,13,15,16,17] Major Hernán Soto Quintero, second commander of Anti-Narcotics Battalion No. 2, said the seized substance formed part of the armed group's illicit finances. [@11]
