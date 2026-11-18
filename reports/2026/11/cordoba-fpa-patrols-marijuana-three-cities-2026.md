@@ -62,6 +62,11 @@ sources:
     publisher: Telediario Digital
     date: 2026-11-18
     language: es
+  - title: 'Allanamiento por drogas en San Francisco: un detenido y secuestro de marihuana'
+    url: https://www.lavozdesanjusto.com.ar/allanamiento-por-drogas-en-san-francisco-un-detenido-y-secuestro-de-marihuana
+    publisher: La Voz de San Justo
+    date: 2026-11-18
+    language: es
 open_questions:
   - No date is given for the individual checks; the prosecutors' release of 18 November 2026 says they took place during that week, and 18 November stands in as the incident date.
   - No weight, dose count or value was published for any of the marijuana seizures, so no cannabis quantity is recorded.
@@ -102,7 +107,7 @@ The patrols were carried out by the FPA's Special Interventions Company and
 covered Córdoba capital and some 20 towns, among them San Francisco, Río Cuarto,
 Oncativo, Santa Eufemia, Ausonia, Chazón, La Laguna, Etruria, Monte Cristo,
 Piquillín, Las Varillas, Alicia, El Fortín, Marcos Juárez, Villa María,
-Unquillo, Cruz Alta, Los Surgentes, Inriville and Mendiolaza. [@1,5,6] The
+Unquillo, Cruz Alta, Los Surgentes, Inriville and Mendiolaza. [@1,5,6,7] The
 deployment formed part of the provincial Strategic Plan against Drug
 Trafficking, intended to reinforce checks and prevention in different areas of
 the province. [@1,4,5] The provincial authorities reported the seizures in Río Cuarto, Unquillo and San Francisco as separate operations carried out at the same time. [@4] The prosecutors involved ordered the substances seized and
