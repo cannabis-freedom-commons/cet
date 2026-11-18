@@ -54,26 +54,37 @@ sources:
     publisher: GazetaWeb
     date: 2026-11-17
     language: pt
+  - title: Homem é preso com mais de 13 kg de maconha, duas armas e pássaros silvestres em residência na Serraria
+    url: https://www.cadaminuto.com.br/noticia/2026/11/18/homem-e-preso-com-mais-de-13-kg-de-maconha-duas-armas-e-passaros-silvestres-em-residencia-na-serraria
+    publisher: Cadaminuto
+    date: 2026-11-18
+    language: pt
+  - title: Homem é preso com mais de 13 kg de maconha, duas armas e aves silvestres na Serraria, em Maceió
+    url: https://francesnews.com.br/post/2026/11/18/46481-homem-e-preso-com-mais-de-13-kg-de-maconha-duas-armas-e-aves-silvestres-na-serraria-em-maceio
+    publisher: Francês News
+    date: 2026-11-18
+    language: pt
 open_questions:
     - No information was published about the species of the seven birds or the origin of the firearms and the drugs.
     - The man was not named, and no formal charge, custody ruling or court outcome was reported beyond the flagrante booking.
     - The published accounts give the weight as 13.4 kg and approximately 13.45 kg; the report uses 13.4 kg, and no value estimate or laboratory confirmation was published.
     - No victim names, case numbers, charges or custody ruling for the alleged three homicides and faction membership were published.
+    - The unit that carried out the operation is given as the Força Tática of the 12th Military Police Battalion in one account and as teams of the 13th Battalion in two others.
 ---
 
 Police arrested a man on the night of Tuesday 17 November 2026 in the Serraria
-neighbourhood of Maceió, in the state of Alagoas. [@1] The arrest was carried out by the Força Tática unit of the 12th Military Police Battalion on the night of Tuesday 17 November 2026. [@2] Police went to the house after two reports that a member of the Tudo Neutro (TDN) faction suspected of involvement in three killings was keeping wild birds in cages there. [@2] The initial suspicion
+neighbourhood of Maceió, in the state of Alagoas. [@1,3] The arrest was carried out by the Força Tática unit of the 12th Military Police Battalion on the night of Tuesday 17 November 2026. [@2] Police went to the house after two reports that a member of the Tudo Neutro (TDN) faction suspected of involvement in three killings was keeping wild birds in cages there. [@2] The initial suspicion
 involved possible crimes of drug trafficking, illegal possession of firearms and
-trade in wild animals. [@1]
+trade in wild animals. [@1,3] Officers saw further cages, a precision scale and plastic bags with unidentified contents inside the house, and noticed a smell of marijuana, before entering to search it. [@3]
 
 The occurrence was registered at about 20:00. [@1] The material was found inside
-a residence, where there were also precision scales used to weigh drugs. [@1,2]
+a residence, where there were also precision scales used to weigh drugs. [@1,2,4]
 Inside the property, police found 13,4 kilograms (13.4 kg) of maconha, a
-.38-calibre revolver and a .40-calibre pistol. [@1,2] The suspect admitted owning the drugs and firearms found in the residence. [@2] Alongside them, officers
+.38-calibre revolver and a .40-calibre pistol. [@1,2,4] The suspect admitted owning the drugs and firearms found in the residence. [@2] Alongside them, officers
 seized six rounds of ammunition, two precision scales and seven birds kept in
-cages. [@1]
+cages. [@1,3]
 
 The presence of the animals drew particular attention because there were cages
-both in the external area and inside the residence. [@1,2] The man was taken to
+both in the external area and inside the residence. [@1,2,3] The man was taken to
 the Central de Flagrantes, where he was booked in flagrante, and the seven birds
-were also collected. [@1,2]
+were also collected. [@1,2,3]
