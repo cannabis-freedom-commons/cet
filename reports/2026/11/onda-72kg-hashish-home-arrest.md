@@ -47,6 +47,11 @@ media:
     media_url: https://castellonaldia.elmundo.es/binrepository/1064x473/177c0/710d473/none/291842500/FXMS/captura-de-pantalla-2026-11-18-130608_381-6575389_20261118121725.jpg
     publisher: Castellón al Día (El Mundo)
     caption: 'Hashish seized in a home in Onda, in the Guardia Civil handout published with the article. Photo: Guardia Civil'
+  - kind: photo
+    url: https://www.elperiodicomediterraneo.com/caso-abierto/sucesos-en-castellon/2026/11/18/pillado-72-kilos-hachis-casa-136572361.html
+    media_url: https://estaticos-cdn.prensaiberica.es/clip/84faf19d-4e45-425d-8140-dadf6335a519_16-9-discover-aspect-ratio_default_0_x377y85.webp
+    publisher: El Periódico Mediterráneo
+    caption: 'Hashish slabs seized from the Onda home, in the Guardia Civil handout published with the article. Photo: Guardia Civil'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 5295e61c87f40eca30906432212e0168
@@ -77,22 +82,23 @@ sources:
     publisher: Cadena SER
     date: 2026-11-18
     language: es
-open_questions:
-    - No date is given for the search or the arrest; 18 November 2026 is the date of publication and stands in for the incident date.
-    - No street value for the hashish and no laboratory confirmation of the substance were published.
-    - Beyond the order holding him in provisional prison, no plea or further court outcome has been reported.
+  - title: Pillado con 72 kilos de hachís en su casa de Onda
+    url: https://www.elperiodicomediterraneo.com/caso-abierto/sucesos-en-castellon/2026/11/18/pillado-72-kilos-hachis-casa-136572361.html
+    publisher: El Periódico Mediterráneo
+    date: 2026-11-18
+    language: es
 ---
 
 Guardia Civil officers arrested a 49-year-old man in Onda, in the province of
-Castellón, on suspicion of a crime against public health. [@1,4,5] The arrest
+Castellón, on suspicion of a crime against public health. [@1,4,5,6] The arrest
 followed a search of a home in the town where officers found 72 kilograms of
-hashish. [@2,4,5]
+hashish. [@2,4,5,6]
 
 During the search officers also seized 4,400 euros in cash, several mobile
-phones and two vehicles. [@1,4,5] The operation was carried out by the Guardia
+phones and two vehicles. [@1,4,5,6] The operation was carried out by the Guardia
 Civil's Onda unit within its investigations into drug trafficking. [@1,5] The
-force said the hashish was believed to be intended for distribution. [@1,4,5]
+force said the hashish was believed to be intended for distribution. [@1,4,5,6]
 
 The man was brought before the civil and investigation section of the Tribunal
-de Instancia of Nules, court number 5. [@3,5] The court ordered him held in
-provisional prison while the case is investigated. [@2,4,5]
+de Instancia of Nules, court number 5. [@3,5,6] The court ordered him held in
+provisional prison while the case is investigated. [@2,4,5,6]
