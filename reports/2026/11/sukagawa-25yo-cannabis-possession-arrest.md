@@ -48,11 +48,16 @@ sources:
     publisher: dmenuニュース（NTTドコモ）
     date: 2026-11-18
     language: ja
+  - title: 須賀川市で会社員(25)の男を大麻所持容疑で逮捕・福島 - エキサイトニュース
+    url: http://www.excite.co.jp/news/article/fct_1495572570244661947/
+    publisher: エキサイトニュース
+    date: 2026-11-18
+    language: ja
 ---
 
 Sukagawa police emergency-arrested a 25-year-old company employee living in
 Sukagawa on the night of 17 November on suspicion of possessing cannabis in
-violation of the Narcotics and Psychotropics Control Act. [@1,2] The man is
+violation of the Narcotics and Psychotropics Control Act. [@1,2,3] The man is
 alleged to have possessed about 0.87 grams of cannabis, which is designated as a
 narcotic, at his home at around 18:20 on 17 November. [@1,2]
 
