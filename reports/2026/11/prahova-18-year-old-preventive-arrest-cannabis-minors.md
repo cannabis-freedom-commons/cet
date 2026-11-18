@@ -52,6 +52,11 @@ sources:
     publisher: ZIUA de Constanța
     date: 2026-11-18
     language: ro
+  - title: Tânăr de 18 ani, arestat pentru trafic de droguri în Prahova. Ar fi vândut stupefiante inclusiv minorilor
+    url: https://www.observatorulph.ro/eveniment/2804427-tanar-de-18-ani-arestat-pentru-trafic-de-droguri-in-prahova-ar-fi-vandut-stupefiante-inclusiv-minorilor
+    publisher: Observatorul Prahovean
+    date: 2026-11-18
+    language: ro
 open_questions:
     - No weight or quantity was published for the cannabis he was found carrying, the cannabis sold, or the other drugs.
     - The account does not say on what date the Prahova Tribunal ordered the 30-day preventive arrest.
@@ -63,19 +68,19 @@ open_questions:
 ---
 
 An 18-year-old was placed in preventive detention in a case of risk and
-high-risk drug trafficking. [@1,3] The case is run by prosecutors of DIICOT
+high-risk drug trafficking. [@1,3,4] The case is run by prosecutors of DIICOT
 Ploiești, Romania's organised crime and terrorism prosecution directorate, and
-officers of the Ploiești organised-crime brigade, BCCO. [@1,3] Investigators say
+officers of the Ploiești organised-crime brigade, BCCO. [@1,3,4] Investigators say
 that between May and November 2026 he obtained, kept, gave away and sold
 cannabis and crystalline substances of the high-risk drug category, including to
-minors, for 50 to 200 lei. [@1,3]
+minors, for 50 to 200 lei. [@1,3,4]
 
 Some of the drugs given to minors were made available at a private party he
-organised at his home. [@1,3] A mobile gendarmerie squad from Ploiești found him
-carrying a quantity of cannabis. [@1,3] A search of his home found and removed an
+organised at his home. [@1,3,4] A mobile gendarmerie squad from Ploiești found him
+carrying a quantity of cannabis. [@1,3,4] A search of his home found and removed an
 electronic scale, a grinder and other objects bearing traces of THC, 4-CMC and
-ketamine. [@1,3]
+ketamine. [@1,3,4]
 
-DIICOT prosecutors detained him on 14 November 2026. [@2,3] The
+DIICOT prosecutors detained him on 14 November 2026. [@2,3,4] The
 rights-and-freedoms judge at the Prahova Tribunal ordered his preventive arrest
-for 30 days. [@1,3] Ploiești mobile gendarmes supported the operation. [@1,3]
+for 30 days. [@1,3,4] Ploiești mobile gendarmes supported the operation. [@1,3,4]
