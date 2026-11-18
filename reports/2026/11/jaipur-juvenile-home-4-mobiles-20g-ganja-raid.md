@@ -69,19 +69,28 @@ sources:
     publisher: Samachar Nama
     date: 2026-11-17
     language: hi
+  - title: संप्रेक्षण गृह में तलाशी के दौरान मिला गांजा, मोबाइल और नशे का सामान, पुलिस ने किया जब्त
+    url: https://dainiknavajyoti.com/rajasthan/jaipur/ganja-found-during-search-in-observation-house-mobile-and-drug/article-171982
+    publisher: Dainik Navajyoti
+    date: 2026-11-18
+    language: hi
+open_questions:
+  - Dainik Navajyoti gives the ganja recovered as 21 grams 94 milligrams, while the accounts already cited reported 20 grams; the report keeps the earlier figure.
+  - Dainik Navajyoti records the case under section 42 of the Rajasthan Prisons (Amendment) Act 2015, while the accounts already cited said a Juvenile Justice Act case; which provisions were applied is unresolved.
+  - No arrest or detention over the ganja and phones found inside the home was reported.
 ---
 
 Jaipur police's Commissionerate Special Team searched the juvenile correction
-home in Sethi Colony in the Transport Nagar police station area. [@2,4] The raid was carried out on the instructions of Jaipur Police Commissioner Sachin Mittal. [@4] The action
+home in Sethi Colony in the Transport Nagar police station area. [@2,4,5] The raid was carried out on the instructions of Jaipur Police Commissioner Sachin Mittal. [@4] The action
 followed complaints about juveniles using mobile phones inside the home. [@1]
 Police said they had input that some juveniles in the home were in contact with
 major gangsters who were drawing minors into gangs. [@2,3]
 
 Officers searching two rooms of the home found 20 grams of ganja along with four
-mobile phones and four charging adapters. [@2,3,4] About 50 CST personnel in teams
+mobile phones and four charging adapters. [@2,3,4] Officers also seized a ganja-smoking chilam pipe, two empty rolling-paper covers, a lighter, a cigarette packet holding one cigarette and a broken earphone lead. [@5] About 50 CST personnel in teams
 searched every corner of the home after a confidential tip. [@1,3,4] Police were
 registering a case at Transport Nagar police station under provisions of the
-NDPS Act and the Juvenile Justice Act. [@1,3,4]
+NDPS Act and the Juvenile Justice Act. [@1,3,4] Police registered the case at Transport Nagar police station as number 282/2026, under section 8/20 of the NDPS Act and section 42 of the Rajasthan Prisons (Amendment) Act 2015. [@5]
 
 Police said they are investigating how the banned phones and drugs reached
 inside despite tight security and who is part of the network. [@1,4] The home
