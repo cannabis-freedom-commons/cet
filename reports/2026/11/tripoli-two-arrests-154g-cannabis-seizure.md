@@ -46,20 +46,25 @@ sources:
     publisher: Flynews
     date: 2026-11-17
     language: el
-open_questions:
-  - The exact local community within the municipality of Tripoli was not named.
-  - The cannabis was described only as found in their possession; no laboratory confirmation was reported.
-  - No charges, detention measure or court outcome were reported.
+  - title: Τέσσερις συλλήψεις σε Αρκαδία και Κορινθία για κάνναβη, κροτίδες και ένταλμα
+    url: https://www.anagnostis.org/2026/11/17/tesseris-syllipseis-se-arkadia-kai-korinthia-gia-kannavi-krotides-kai-entalma/
+    publisher: Anagnostis
+    date: 2026-11-17
+    language: el
+  - title: Συνελήφθησαν δύο άτομα για κατοχή κάνναβης σε περιοχή της Τρίπολης
+    url: https://www.pna.gr/arcadia/dimos-tripolis/292338-%CF%83%CF%85%CE%BD%CE%B5%CE%BB%CE%AE%CF%86%CE%B8%CE%B7%CF%83%CE%B1%CE%BD-%CE%B4%CF%8D%CE%BF-%CE%AC%CF%84%CE%BF%CE%BC%CE%B1-%CE%B3%CE%B9%CE%B1-%CE%BA%CE%B1%CF%84%CE%BF%CF%87%CE%AE-%CE%BA%CE%AC%CE%BD
+    publisher: Πελοποννησιακό Πρακτορείο Ειδήσεων
+    date: 2026-11-17
+    language: el
 ---
 
 On the afternoon of 16 November 2026, officers of the Arcadia Crime Prevention
 and Suppression Team (O.P.K.E.) arrested two Greek nationals, aged 20 and 24, in
-a local community of the municipality of Tripoli. [@1]
+a local community of the municipality of Tripoli. [@1,3]
 
 The 20-year-old was found with 9.6 grams of processed cannabis and the
 24-year-old with 5.8 grams of unprocessed cannabis, and both quantities were
-seized. [@2]
+seized. [@2,3]
 
 The Tripoli Department for the Prosecution and Investigation of Crimes is
-conducting the preliminary investigation. [@1]
-
+conducting the preliminary investigation. [@1,4]
