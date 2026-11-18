@@ -48,6 +48,11 @@ sources:
     publisher: Metro Riau
     date: 2026-11-18
     language: id
+  - title: Ribuan Pil Ekstasi dan 3,8 Kg Sabu Dimusnahkan Kejari Pekanbaru dari 875 Perkara Inkrah
+    url: https://www.riauin.com/read-53622-2026-11-18-ribuan-pil-ekstasi-dan-38-kg-sabu-dimusnahkan-kejari-pekanbaru-dari-875-perkara-inkrah.html
+    publisher: Riauin.com
+    date: 2026-11-18
+    language: id
 open_questions:
     - No breakdown is given of how many of the 748 narcotics cases involved ganja, and no defendants, verdicts or sentences for the underlying cases were reported.
     - No original seizure dates or places for the ganja evidence are given; 18 November 2026 is the destruction date.
@@ -59,18 +64,18 @@ open_questions:
 ---
 
 The Pekanbaru prosecutor's office destroyed evidence from 875 criminal cases on
-18 November 2026. [@1,2] Of these, 748 were narcotics cases whose evidence
+18 November 2026. [@1,2,3] The cases whose evidence was destroyed were uncovered during January to June 2026. [@3] Of these, 748 were narcotics cases whose evidence
 included sabu-sabu, ganja, ecstasy and heroin. [@1,2] Besides the narcotics cases,
 the destruction covered 91 cases against persons and property (Oharda). [@1,2]
 
 The destruction took place in the yard of the prosecutor's office on Jalan
-Jenderal Sudirman No. 295. [@1,2] The destroyed narcotics evidence comprised
+Jenderal Sudirman No. 295. [@1,2,3] The destroyed narcotics evidence comprised
 3,812.81 grams of sabu-sabu, 965 grams of ganja, 1,692 ecstasy pills weighing
-47.74 grams, 16.9 grams of heroin and 11 liquid cartridges. [@1,2] Officers also
+47.74 grams, 16.9 grams of heroin and 11 liquid cartridges. [@1,2,3] Officers also
 destroyed drug-related equipment, including bongs, digital scales and plastic
 wrapping. [@1,2]
 
-The destroyed evidence came from cases that had final legal force. [@1,2] The
+The destroyed evidence came from cases that had final legal force. [@1,2,3] The
 narcotics evidence was the remainder left after material had been set aside for
 court proof and forensic laboratory testing. [@1] Chief prosecutor Marlambson
 Carel Williams said through evidence-management head Adhit Thya Febricar that
