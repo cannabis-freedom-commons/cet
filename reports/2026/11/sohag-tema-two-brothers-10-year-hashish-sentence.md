@@ -60,27 +60,31 @@ sources:
     publisher: القاهرة 24 (via نبض)
     date: 2026-11-17
     language: ar
+  - title: السجن 10 سنوات وغرامة 100 ألف جنيه لشقيقين بتهمة الاتجار في الحشيش وحيازة بنادق آلية بسوهاج
+    url: https://www.cairo24.com/2531136
+    publisher: القاهرة 24
+    date: 2026-11-17
+    language: ar
 open_questions:
-  - No weight, value or number of hashish pieces was published; the drugs were described only as quantities divided into pieces and prepared for sale.
-  - Neither account states the date of the verdict; 17 November 2026, the publication date of both, is used as the incident date.
-  - The brothers were identified only by the initials M. A. and A. A.; no ages, full names or occupations were given.
-  - No appeal, challenge or later court outcome was reported.
-  - Youm7 and the Cairo24 account reposted on Nabd reproduce the same court and police account, so they are not independent reporting.
+    - No weight, value or number of hashish pieces was published; the drugs were described only as quantities divided into pieces and prepared for sale.
+    - No account states the date of the verdict; 17 November 2026, the publication date of the reports, is used as the incident date.
+    - The brothers were identified only by the initials M. A. and A. A.; no ages, full names or occupations were given.
+    - No appeal, challenge or later court outcome was reported.
+    - The Youm7, Cairo24 and other accounts reproduce the same court and police account, so they are not independent reporting of the verdict.
 ---
 
 Sohag Criminal Court sentenced two brothers to 10 years in prison each and fined
 each 100,000 Egyptian pounds after convicting them of drug trafficking and of
 holding firearms and ammunition without a licence in the Tema district, north of
-Sohag Governorate. [@1] The case began when information reached the
+Sohag Governorate. [@1,3] The case began when information reached the
 investigations unit of Tema police station that the brothers, identified only as
 M. A. and A. A. and living in Kom Ashfaw village, were running a
 drug-trafficking operation and kept unlicensed guns to protect it. [@1] Another
 account of the case identified the substance as hashish and the weapons as
-automatic rifles. [@2]
+automatic rifles. [@2,3]
 
 A security operation targeted the brothers, arrested them and found quantities
 of hashish divided into pieces and prepared for sale, along with automatic
-rifles and the ammunition used with them. [@1] After the legal procedures were
+rifles and the ammunition used with them. [@1] A chemistry laboratory report confirmed that the seized samples contained the drug hashish. [@3] After the legal procedures were
 completed the two were referred to Sohag Criminal Court, which reviewed the case
 file and handed down the sentences. [@1]
-
