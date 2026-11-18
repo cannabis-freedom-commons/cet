@@ -96,17 +96,16 @@ sources:
     publisher: Паралел 43
     date: 2026-11-18
     language: bg
-open_questions:
-    - The article gives no separate date for the hearing that ordered the remand; 18 November 2026 is its publication date.
-    - The 34-year-old's custody order is subject to appeal to the Varna Court of Appeal and no appeal or final ruling was reported.
-    - No weight was published for the small amounts of methamphetamine and cocaine found in the flat, and they are excluded from the cannabis figures.
-    - The earlier police account put the dried marijuana at nearly 15 kilograms while the prosecution's statement gives 15,085 grams for the same find.
-    - Only initials were released for the 34-year-old, and no plea was reported.
+  - title: Варненец, отглеждал марихуана с цел разпространение, бе арестуван
+    url: https://www.varna24.bg/novini/varna/Varnenec-otglezhdal-marihuana-s-cel-razprostranenie-be-arestuvan-3058493
+    publisher: Varna24.bg
+    date: 2026-11-18
+    language: bg
 ---
 
 Police in Varna detained two men after finding two high-tech cannabis
 greenhouses in the city and in Aksakovo municipality. [@1,5,6] The two detained men
-were aged 34 and 33. [@3] The 34-year-old, identified only as D. V., is charged with possession of high-risk narcotics for distribution and with growing cannabis plants. [@7] The 34-year-old was caught around 17:00 while tending
+were aged 34 and 33. [@3] The 34-year-old, identified only as D. V., is charged with possession of high-risk narcotics for distribution and with growing cannabis plants. [@7,8] The 34-year-old was caught around 17:00 while tending
 cannabis plants in the first greenhouse. [@1] The 33-year-old, known to police,
 was found tending cannabis plants in a hall in the industrial zone of a village
 in Aksakovo municipality. [@1] That second operation took place at the end of
@@ -116,15 +115,15 @@ and solid drugs were seized. [@4,5] Pre-trial proceedings were opened in both
 cases. [@2,5,6]
 
 In the Varna greenhouse, officers found cannabis plants at various growth stages
-and nearly 15 kilograms of dried plant material that reacted as marijuana. [@1,5,7] Fifteen of the plants were in the mass-flowering stage when officers seized them in the flat. [@7]
-Cocaine and methamphetamine were also seized there. [@1,5,6,7] At the Aksakovo hall,
+and nearly 15 kilograms of dried plant material that reacted as marijuana. [@1,5,7] Fifteen of the plants were in the mass-flowering stage when officers seized them in the flat. [@7,8]
+Cocaine and methamphetamine were also seized there. [@1,5,6,7,8] At the Aksakovo hall,
 police also seized about half a kilogram of methamphetamine and roughly half a
 kilogram of 6-monoacetylmorphine, an electronic scale and many empty bags for
 portioning drugs. [@1,5,6]
 
 The first crop was grown in specially equipped hydroponic tents, with a separate
-area used for drying and processing the produce. [@1,5] The flat was equipped and adapted as a greenhouse for growing cannabis plants and processing ripe plants. [@7] The Aksakovo hall was
+area used for drying and processing the produce. [@1,5] The flat was equipped and adapted as a greenhouse for growing cannabis plants and processing ripe plants. [@7,8] The Aksakovo hall was
 fitted with climate and irrigation systems and had a separate drying room. [@1,5,6]
 Materials from the first case were reported to the district prosecutor's office.
 [@1] The 33-year-old was ordered held on remand, the strictest measure
-available. [@1] The custody order can be appealed to the Varna Court of Appeal. [@7] Varna District Court granted the district prosecution's request and ordered the 34-year-old held in custody, the strictest pre-trial measure, after he had been held for up to 72 hours by the supervising prosecutor's order. [@7]
+available. [@1] The custody order can be appealed to the Varna Court of Appeal. [@7,8] Varna District Court granted the district prosecution's request and ordered the 34-year-old held in custody, the strictest pre-trial measure, after he had been held for up to 72 hours by the supervising prosecutor's order. [@7,8]
