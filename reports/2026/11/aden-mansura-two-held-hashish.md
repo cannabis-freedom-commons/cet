@@ -44,6 +44,11 @@ sources:
     publisher: صحيفة عدن الغد
     date: 2026-11-17
     language: ar
+  - title: ضبط مروجين وبحوزتهما كمية من الحشيش المخدر في المنصورة بعدن
+    url: https://www.alayyam.info/news/ATORVHFL-XQ7AJT-25DE
+    publisher: صحيفة الأيام
+    date: 2026-11-18
+    language: ar
 open_questions:
   - No weight was given for the five pieces of hashish; only a piece count was reported.
   - The operation has no separate stated date; 17 November 2026 is the publication date and is used as the incident date.
@@ -52,9 +57,9 @@ open_questions:
 ---
 
 Aden police's Anti-Drug Directorate, working with the National Security Forces,
-detained two suspects in Al-Mansura district, Aden. [@1] The two were found
+detained two suspects in Al-Mansura district, Aden. [@1,3] The two were found
 carrying five pieces of hashish that had been prepared for promotion and
-distribution. [@1]
+distribution. [@1,3]
 
 Colonel Mayas Al-Ja'dani said the arrest came amid continuing security successes
 achieved by the Anti-Drug Directorate. [@2] He said the directorate's plan was
@@ -62,11 +67,10 @@ aimed at pursuing those involved in drug cases and confronting anyone who sought
 to disrupt social security or target young people and the future of generations.
 [@1] The seizures were secured, the necessary legal procedures against the
 accused were completed, and the case file was handed to the Security and
-Investigation Prosecution. [@2]
+Investigation Prosecution. [@2,3]
 
 Al-Ja'dani said the campaign against drug traffickers and promoters would
 continue. [@1] He said they would not hesitate with anyone who sought to target
 Aden's youth with what he called this dangerous scourge, and that protecting
 society and saving generations was a responsibility that allowed no leniency.
 [@2]
-
