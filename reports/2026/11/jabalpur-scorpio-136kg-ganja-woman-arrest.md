@@ -72,6 +72,11 @@ sources:
     publisher: AIMA Media
     date: 2026-11-17
     language: hi
+  - title: मध्यप्रदेश के जबलपुर में वाहन से 68 लाख रुपये मूल्य का गांजा बरामद – ThePrint Hindi
+    url: https://hindi.theprint.in/india/ganja-worth-rs-68-lakh-recovered-from-a-vehicle-in-jabalpur-madhya-pradesh/1060442/?amp=
+    publisher: ThePrint Hindi
+    date: 2026-11-18
+    language: hi
 open_questions:
     - No court outcome, charge-sheet or trial date was reported; the woman was sent to jail and the Scorpio's driver remained unidentified.
     - Police said they were still tracing the Scorpio, the source of the ganja and the wider trafficking network when these reports were published.
@@ -92,5 +97,5 @@ trafficking and seized more than 137 kilograms of the drug in two separate
 cases. [@1] The operation was ordered by Jabalpur Superintendent of Police Sampat Upadhyay and guided by additional superintendents. [@2] Bhedaghat police recovered 136 kilograms 84 grams of ganja from a
 Scorpio with no number plate. [@1,2,3,6] Police found a number plate reading UP 57 CC 7869 inside the Scorpio. [@6] Police registered a case against the unknown Scorpio driver under sections 8/20 of the NDPS Act and went on to trace the vehicle and the trafficking network. [@2,4,5] The ganja was packed in 12 packets wrapped in khaki tape in the Scorpio's boot. [@2,4,6]
 
-The Scorpio was parked beside a canal near Chaukital village. [@1,2,4] The vehicle was black and unnumbered and parked on an unpaved road close to the Chowkital-Lamheta turn within the Bhedaghat police station area. [@4,5] Bhedaghat police station in-charge Kamlesh Chauria said a window glass behind the rear seat was broken and the rear-left tyre of the vehicle was punctured. [@4,5] The ganja was
-described as worth 68 lakh rupees (6.8 million). [@1] Police estimated the Scorpio's load at 68 lakh 42 thousand rupees, describing it as an international-market value. [@3,4]
+The Scorpio was parked beside a canal near Chaukital village. [@1,2,4] The vehicle was black and unnumbered and parked on an unpaved road close to the Chowkital-Lamheta turn within the Bhedaghat police station area. [@4,5,7] Bhedaghat police station in-charge Kamlesh Chauria said a window glass behind the rear seat was broken and the rear-left tyre of the vehicle was punctured. [@4,5,7] The ganja was
+described as worth 68 lakh rupees (6.8 million). [@1,7] Police estimated the Scorpio's load at 68 lakh 42 thousand rupees, describing it as an international-market value. [@3,4]
