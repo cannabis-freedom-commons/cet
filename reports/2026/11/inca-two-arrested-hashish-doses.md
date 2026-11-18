@@ -53,26 +53,31 @@ sources:
     publisher: Diario de Mallorca
     date: 2026-11-17
     language: es
+  - title: La Guardia Civil sorprende a 2 jóvenes en Inca con dosis de hachís preparadas para la venta
+    url: https://www.diariodemarratxi.com/la-guardia-civil-sorprende-a-2-jovenes-en-inca-con-dosis-de-hachis-preparadas-para-la-venta/
+    publisher: Diario de Marratxí
+    date: 2026-11-17
+    language: es
 ---
 
 Guardia Civil officers detained a 19-year-old man and a minor in Inca, Mallorca,
-on suspicion of carrying several quantities of hashish prepared for sale. [@1,3]
+on suspicion of carrying several quantities of hashish prepared for sale. [@1,3,4]
 The two detainees were aged 19 and 17, Última Hora reported. [@2] The older
-detainee was of Maghrebi origin and the minor was of Spanish nationality. [@2]
+detainee was of Maghrebi origin and the minor was of Spanish nationality. [@2,4]
 The incident happened about 23:00 on 11 November, when officers were called to
 calle Pou de Lluch after a strong smell of marijuana was noticed in the area.
-[@2,3] The Guardia Civil said the incident occurred about 23:00 the previous
+[@2,3,4] The Guardia Civil said the incident occurred about 23:00 the previous
 Wednesday, after a strong smell of marijuana was reported around calle Pou de
 Lluch where two people were consuming drugs in public. [@1]
 
 In a press statement the Guardia Civil said officers identified both people and
 inspected their belongings. [@1] Officers found several distinct doses of
 hashish intended for sale, cash split into notes and coins of various values and
-several mobile phones. [@2] Among the belongings officers found distinct doses
+several mobile phones. [@2,4] Among the belongings officers found distinct doses
 of hashish for sale, cash divided into notes and coins of various values and
 several mobile phones. [@1,3]
 
 Both were detained for a crime against public health, and the proceedings were
-sent to the competent judicial authority together with the detainees. [@1,3] The
+sent to the competent judicial authority together with the detainees. [@1,3,4] The
 pair were detained for a public-health offence and the case was placed before
 the competent judicial authority along with the detainees. [@2]
