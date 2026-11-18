@@ -204,17 +204,25 @@ sources:
     publisher: Ege Alternatif Gazetesi
     date: 2026-11-15
     language: tr
+  - title: تونسية ورفيقها يتخذان من مطار محمد الخامس الدولي معبرا لتهريب المخدرات نحو تركيا (…) وفضيحة المراقبة تتكرر في الدارالبيضاء
+    url: https://alakhbaralmaghribiya.ma/news/27521
+    publisher: الأخبار المغربية
+    date: 2026-11-18
+    language: ar
+open_questions:
+    - No court outcome or detention decision after the two were referred to the Gaziosmanpaşa prosecution was reported.
+    - The Moroccan article's account that the consignment passed undetected through every checkpoint at Casablanca's Mohammed V airport is its own reporting; no Moroccan police or airport statement on the departure checks was cited.
 ---
 
 Istanbul narcotics teams detained two Tunisian nationals, Najla Ben Abdallah and
-Montassar Mosbehı, in an operation at Istanbul Airport. [@1,4,5,6,8,10,12,13,14,17,18,19,20,22] The two suspects
+Montassar Mosbehı, in an operation at Istanbul Airport. [@1,4,5,6,8,10,12,13,14,17,18,19,20,22,26] The two suspects
 were stopped after arriving on a flight from Casablanca, Morocco, on 14
-November, and were described in one account as two women passengers. [@3,15,16,23] The
+November, and were described in one account as two women passengers. [@3,15,16,23] The Moroccan outlet reported that the consignment passed through all checkpoints at Casablanca's Mohammed V airport undetected and the pair boarded the flight, with the arrest made in Turkey rather than Morocco. [@26] The
 operation was run by the Istanbul police narcotics division as part of work
 against drug manufacturing and trafficking, monitoring incoming passengers. [@3,6,15,16]
 
 Officers found a total of 13 kilograms 512 grams of esrar, reported as cannabis,
-hidden in the suspects' luggage. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25] Of that total, 12 kilograms 226 grams were
+hidden in the suspects' luggage. [@1,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26] Of that total, 12 kilograms 226 grams were
 concealed in 73 cans and 1 kilogram 286 grams in the soles of four shoes. [@3,15,16]
 
 The search was carried out under a search order obtained from the Gaziosmanpaşa
