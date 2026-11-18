@@ -54,22 +54,27 @@ sources:
     publisher: Habertürk Yerel Haberler
     date: 2026-11-18
     language: tr
+  - title: Jandarmadan uyuşturucu operasyonu; 120 kök skunk bitkisi ele geçirildi
+    url: https://www.dha.com.tr/amp/yerel-haberler/izmir/bornova/jandarmadan-uyusturucu-operasyonu-120-kok-skun-2983903
+    publisher: DHA
+    date: 2026-11-18
+    language: tr
 open_questions:
   - No separate date is given for the raid, the detention or the remand; 18 November 2026 is the publication and update date of the agency account and is used as the incident date.
   - The suspect is identified only by the initials U.C.A.; his age, full name and occupation were not reported.
   - No formal charge, indictment or court outcome beyond the magistrate's order remanding him was reported.
   - No valuation of the seized plants or skunk was published.
   - The account is a single Anadolu Ajansı report republished without editorial change by Habertürk; no independent second source was found.
+  - DHA reported that U.C.A.'s gendarmerie processing was still continuing at the time of its account, while the account already cited in the report says a magistrate remanded him in custody; the remand account is used for the case stage.
 ---
 
 Provincial gendarmerie teams in İzmir raided the home of a man identified only
-as U.C.A. in İnönü Mahallesi, a neighbourhood of Bornova district. [@1] He was
+as U.C.A. in İnönü Mahallesi, a neighbourhood of Bornova district. [@1,2] He was
 suspected of growing cannabis illegally at the property. [@1] Officers said they
 had established that he was cultivating cannabis using a climate-control method
-before searching the house. [@1] After his detention U.C.A. was taken before a
+before searching the house. [@1] Officers found that parts of the house had been converted into a greenhouse with special climate-control systems. [@2] After his detention U.C.A. was taken before a
 magistrate, who ordered him remanded in custody. [@1]
 
 The search recovered 120 cannabis plants and 50 grams of skunk, a cannabis
-variety. [@1] Officers also seized a sensitive scale and the climate-control
-materials used to grow the plants, the gendarmerie said. [@1]
-
+variety. [@1,2] Officers also seized a sensitive scale and the climate-control
+materials used to grow the plants, the gendarmerie said. [@1,2]
