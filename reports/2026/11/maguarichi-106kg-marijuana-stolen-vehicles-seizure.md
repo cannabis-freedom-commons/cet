@@ -124,6 +124,11 @@ sources:
     publisher: El Orbe
     date: 2026-11-17
     language: es
+  - title: Aseguran más de 106 kilogramos de marihuana en Maguarichi
+    url: https://segundoasegundo.com/aseguran-mas-de-106-kilogramos-de-marihuana-en-maguarichi/
+    publisher: Segundo a Segundo
+    date: 2026-11-16
+    language: es
 media:
   - kind: photo
     url: https://www.nmas.com.mx/chihuahua/seguridad/aseguran-marihuana-cartuchos-y-vehiculos-robados-en-maguarichi-chihuahua/
@@ -160,27 +165,25 @@ media:
     media_url: https://www.borderreport.com/wp-content/uploads/sites/28/2026/11/WhatsApp-Image-2026-11-16-at-8.30.32-AM.jpeg?resize=960,720
     publisher: Valley Central / Border Report
     caption: 'Chihuahua state police display suspected marijuana, ammunition and two vehicles recovered near Maguarichi, one reported stolen in the United States. Photo: SSPE'
-open_questions:
-    - The SSPE statement did not report any arrests or specify when the seizure occurred.
 ---
 
 Chihuahua state police (SSPE) seized about 106.4 kilograms of marijuana,
 ammunition, magazines and two stolen vehicles on the road to Maguarichi, at the
-San Vicente junction. [@1,4,6,7,8,9,10,11,12,13,14,15,19] Agents found 10 transparent packages of dry green
-herb similar to marijuana at the spot. [@1,5,6,7,8,9,10,11,13,14,15,16,17,18,19] The packages weighed approximately
-106.4 kilograms. [@1,8,9,10,11,16,17,18,19]
+San Vicente junction. [@1,4,6,7,8,9,10,11,12,13,14,15,19,20] Agents found 10 transparent packages of dry green
+herb similar to marijuana at the spot. [@1,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20] The packages weighed approximately
+106.4 kilograms. [@1,8,9,10,11,16,17,18,19,20]
 
 Officers also seized three magazines, two metal and one plastic, and 364 live
-cartridges. [@1,8,9,10,11,14,15,16,17,19] Of the cartridges, 340 were 7.62x51 calibre in two ammunition
-belts and 24 were 7.62x39 calibre. [@1,7,13,19] In the same operation they found two
+cartridges. [@1,8,9,10,11,14,15,16,17,19,20] Of the cartridges, 340 were 7.62x51 calibre in two ammunition
+belts and 24 were 7.62x39 calibre. [@1,7,13,19,20] In the same operation they found two
 stolen vehicles: a 2022 Mitsubishi L200 pickup reported stolen in Sonora since
 April 2022, and a 2021 Hyundai Kona reported stolen in the United States since
-June 2023. [@1,6,8,9,11,14,16,18,19]
+June 2023. [@1,6,8,9,11,14,16,18,19,20]
 
 The drugs, magazines, ammunition and vehicles were handed over to the competent
-authorities for further investigation. [@1,6,8,9,10,12,14,15,17,19] The SSPE, headed by secretary Luis
+authorities for further investigation. [@1,6,8,9,10,12,14,15,17,19,20] The SSPE, headed by secretary Luis
 Aguirre, said it maintains preventive patrols and surveillance in the region to
-detect crime and reinforce security in rural areas. [@1]
+detect crime and reinforce security in rural areas. [@1,20]
 
 Net Noticias confirms the same SSPE operation on the road to Maguarichi at the
 San Vicente junction involving the marijuana, ammunition, magazines and two
