@@ -58,32 +58,41 @@ sources:
     url: https://ca.news.yahoo.com/charges-against-six-men-7-164412669.html
     publisher: Yahoo News Canada
     date: 2026-11-17
+  - title: Charges dropped against six men accused over £7.1m cannabis factory at former school
+    url: https://uk.news.yahoo.com/charges-dropped-against-six-men-151812158.html
+    publisher: Yahoo News UK
+    date: 2026-11-17
 media:
   - kind: photo
     url: https://ca.news.yahoo.com/charges-against-six-men-7-164412669.html
     media_url: https://s.yimg.com/lo/mysterio/api/cfeda4eb84e38aca1fd7474a130cd20c9bba1da1f71e0980c38dbe359d27af77/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd99e0cad6fee8962ade4dd674ce5cac0.jpg
     publisher: Yahoo News Canada
     caption: 'A hearing in the case was held at the High Court in Glasgow in July. Photo: Getty Images'
+  - kind: photo
+    url: https://uk.news.yahoo.com/charges-dropped-against-six-men-151812158.html
+    media_url: https://s.yimg.com/lo/mysterio/api/9b1a0bcb94270859d7b8b7fc772bdc37ce347a52bf12ce8ca5ca6ddd3737d593/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fherald_scotland_359%2Fd88283a0ce714dbbd8e100556012bb1c.jpg
+    publisher: Yahoo News UK
+    caption: 'Image published with the report that six Vietnamese men accused over the cannabis factory at the former Wick High School had charges dropped. Photo: Colin Mearns'
 ---
 
 Charges were dropped against six Vietnamese men accused of involvement in a
-large cannabis factory at a derelict school. [@1,2,3] The six were Thong Vo, 38,
+large cannabis factory at a derelict school. [@1,2,3,4] The six were Thong Vo, 38,
 Chinh Nguyen, 44, Diep Van Le, 47, Trung Nguyen, 35, Pham Quoc Anh, 23, and Nam
-Viet Le, 23. [@1,2,3] They were accused of taking part in the production and supply
-of the class B drug between 1 July 2025 and 1 February 2026. [@1,3]
+Viet Le, 23. [@1,2,3,4] They were accused of taking part in the production and supply
+of the class B drug between 1 July 2025 and 1 February 2026. [@1,3,4]
 
 Police said that at the time of the search they found cannabis at the former
-Wick High School in the Highlands with an estimated street value of £7.1m. [@1,2,3]
+Wick High School in the Highlands with an estimated street value of £7.1m. [@1,2,3,4]
 The case had been called for a hearing in July at the High Court in Glasgow.
-[@1,2,3] Lawyers for the group, other than Ho's legal team, had entered not guilty
-pleas. [@1,2,3] A special defence of coercion was lodged on behalf of each of the
-six. [@1,2,3]
+[@1,2,3,4] Lawyers for the group, other than Ho's legal team, had entered not guilty
+pleas. [@1,2,3,4] A special defence of coercion was lodged on behalf of each of the
+six. [@1,2,3,4]
 
 At the summer hearing the court was told that inquiries were under way through
 the Home Office National Referral Mechanism into whether any of the six might be
-victims of human trafficking. [@1,2,3] A nine-day trial had been set to begin in
-October 2027. [@1,2,3] A spokesperson for the Crown Office and Procurator Fiscal
+victims of human trafficking. [@1,2,3,4] A nine-day trial had been set to begin in
+October 2027. [@1,2,3,4] A spokesperson for the Crown Office and Procurator Fiscal
 Service said Crown Counsel decided there should be no further criminal
 proceedings at this time after full and careful consideration of the facts and
-circumstances of the case. [@1,2,3] The Crown reserved the right to proceed in the
-future should further evidence become available. [@1,2,3]
+circumstances of the case. [@1,2,3,4] The Crown reserved the right to proceed in the
+future should further evidence become available. [@1,2,3,4]
