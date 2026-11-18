@@ -57,25 +57,23 @@ sources:
     publisher: Nachrichten.jetzt
     date: 2026-11-17
     language: de
-open_questions:
-  - The cannabis weight was given only as about 130 grams (rund/ca. 130 Gramm); no exact measured weight was published.
-  - No number of plants and no value for the cannabis were published.
-  - About 10 grams of cocaine and drug-containing mushrooms were also seized; the cocaine is a separate substance and is excluded from the cannabis figure, and no weight was stated for the mushrooms.
-  - No trial date, plea or final court outcome was reported; the prosecutor ordered the man reported while he remained at liberty.
-  - All accounts derive from the Upper Austria police press release and are not independent reporting.
+  - title: 'Hausdurchsuchung in Wels: Polizei findet Drogen und Waffe'
+    url: https://www.msn.com/de-at/nachrichten/chronik/hausdurchsuchung-in-wels-polizei-findet-drogen-und-waffe/ar-AA2hDW4N
+    publisher: MSN (kurier.at)
+    date: 2026-11-17
+    language: de
 ---
 
 Police in Wels searched the apartment of a 20-year-old man on 13 November 2026
-on suspicion of drug trafficking. [@1] The ordered house search was carried out
+on suspicion of drug trafficking. [@1,4] The ordered house search was carried out
 by the Wels criminal investigation unit together with officers from the Upper
 Austria state criminal police office and the Ried police dog inspection. [@2]
 
 Officers found about 130 grams of cannabis herb, described as Cannabiskraut, in
 the flat, along with about 10 grams of cocaine, drug-containing mushrooms and a
-Schreckschusspistole, a starter pistol that fires blank rounds. [@1] They also
+Schreckschusspistole, a starter pistol that fires blank rounds. [@1,4] They also
 seized the man's mobile phone as suspected evidence. [@1]
 
 The Wels prosecutor's office ordered that the man be reported while he remained
 at liberty, a step known as Anzeige auf freiem Fuß, and a temporary weapons ban
-was imposed on him. [@3]
-
+was imposed on him. [@3,4]
