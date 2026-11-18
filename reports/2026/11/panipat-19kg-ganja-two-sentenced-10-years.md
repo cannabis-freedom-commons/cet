@@ -52,16 +52,21 @@ sources:
     url: https://timesofindia.indiatimes.com/city/gurgaon/family-depends-on-us-2-men-seek-leniency-over-elderly-parents-children-court-gives-10-years-for-19kg-ganja/articleshow/135967036.cms
     publisher: The Times of India
     date: 2026-11-18
+  - title: Panipat News:गांजा तस्करी के दो दोषियों को 10-10 साल का कारावास
+    url: https://www.amarujala.com/haryana/panipat/two-convicted-of-cannabis-trafficking-sentenced-to-10-years-in-prison-each-panipat-news-c-244-1-pnp1001-167829-2026-11-19
+    publisher: Amar Ujala
+    date: 2026-11-19
+    language: hi
 open_questions:
-  - No date for the original seizure or arrest was given; November 17 is the conviction date and November 18 the sentence date.
-  - No laboratory confirmation for the 19kg of ganja was reported.
-  - No information on appeal or time already spent in custody was reported.
+    - No laboratory confirmation for the 19kg of ganja was reported.
+    - No information on appeal or time already spent in custody was reported.
+    - The court's reasons for acquitting the third accused, Rahul of Jhajjar, are reported only as a lack of sufficient evidence.
 ---
 
 A Panipat court awarded 10 years’ rigorous imprisonment to two men convicted of
-possessing 19kg of ganja. [@1] Additional sessions judge (Fast Track Court)
+possessing 19kg of ganja. [@1,2] Additional sessions judge (Fast Track Court)
 Yogesh Chaudhry imposed a fine of Rs 1 lakh each on Gaurav, 32, of Basini
-village, and Sushil, 38, of Kheri village. [@1] The two were convicted on
+village, and Sushil, 38, of Kheri village. [@1,2] A third accused, Rahul of Jhajjar, was acquitted for lack of sufficient evidence. [@2] The two were convicted on
 November 17 under Section 20(b)(ii)(B) of the Narcotic Drugs and Psychotropic
 Substances (NDPS) Act, 1985, and the court pronounced its order on the quantum
 of sentence on November 18. [@1] Gaurav’s lawyer Virender Malik said his father
@@ -70,10 +75,10 @@ depended on him. [@1] Malik added that Gaurav had no previous criminal
 antecedents and was a first-time offender. [@1] Sushil’s lawyer Sagar Arora said
 his client was unmarried, his parents were elderly and unwell, he was his
 family’s sole breadwinner, had no previous criminal record and sought probation.
-[@1]
+[@1] The defence raised a 22-day delay in the forensic report and the absence of an independent witness, and the court treated the delay as an administrative process. [@2]
 
 The prosecution said the two were found in joint possession of 19kg of ganja
-recovered from a Maruti Swift car bearing registration number HR-21K-4315. [@1]
+recovered from a Maruti Swift car bearing registration number HR-21K-4315. [@1,2] Police arrested Gaurav and Sushil, both residents of Jind district, and Rahul of Jhajjar in the case. [@2] The 19 kg of ganja was recovered on 6 January 2021, when Matlauda police station officers stopped a Swift car near the railway crossing close to Bikaner Sweets and found it in a plastic sack on the back seat, under the supervision of gazetted officer Dr Manik Panwar. [@2]
 The court noted the vehicle was being used to transport the contraband and the
 accused had no licence or permit authorising its possession. [@1] Both were
 awarded one year’s simple imprisonment in case of default in payment of the
@@ -86,4 +91,3 @@ maintain public confidence, and personal and financial circumstances could not
 dilute the seriousness of the offence. [@1] Considering the quantity and
 seriousness, it awarded both convicts the maximum 10-year imprisonment under the
 provision and declined their pleas for probation. [@1]
-
