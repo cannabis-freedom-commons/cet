@@ -117,6 +117,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-17
     language: hi
+  - title: गाड़ी से मिले 41.50 किलो गांजे का मुख्य सप्लायर गिरफ्तार:सीकर में होनी थी डिलीवरी, पुलिस आरोपियों के गिरोह की तलाश में जुटी
+    url: https://janmanasshekhawati.com/news/264100/
+    publisher: Janmanas Shekhawati
+    date: 2026-11-17
+    language: hi
 open_questions:
     - No separate date was given for Vikas Kumar's arrest; 17 November 2026 is the publication date.
     - The new report rounds the seizure to 41.50 kg while earlier detailed reports totalled 41.510 kg.
@@ -124,12 +129,13 @@ open_questions:
     - No plea, detention measure or court outcome for Vikas Kumar was reported.
     - The account of the second arrest rests on a single Bhaskar report attributed to Dadia SHO Sanjay Punia.
     - The mastermind and wider supply network had not been identified.
+    - One account says Balara police station officers recovered the 41.50 kg of ganja from the Swift car, while other reports credit a Rajasthan Police CID Crime Branch special team with the interception and arrest.
 ---
 
 Officers of the Rajasthan Police CID Crime Branch special team arrested Rakesh
 Kumar of Khirod in Jhunjhunu after stopping a Swift car in the Balara
 police-station area of Sikar district. [@2,3,4,5,6,7] The operation was carried out on the instructions of Rajasthan Police Director General of Police Rajiv Kumar Sharma. [@5] Additional Director General of Police (Crime) Bipin Kumar Pandey said the CID Crime Branch team was collecting intelligence in the Sikar and Fatehpur areas. [@4] The action took place late on
-Wednesday 11 November 2026. [@2,3,5] A tip said the Swift car, registration RJ 18 CF
+Wednesday 11 November 2026. [@2,3,5,10] A tip said the Swift car, registration RJ 18 CF
 2905, was carrying suspicious goods from Sikar through Laxmangarh toward
 Jhunjhunu. [@2,3,5,6,7] When officers tried to stop the car coming from the Laxmangarh
 side, the driver swerved and tried to flee, then locked the doors and tried to
@@ -142,11 +148,11 @@ Police estimated the consignment's value on the international market at about 21
 lakh rupees. [@1,3,4,5,7]
 
 Police registered a case under the NDPS Act at Balara police station in Sikar
-district and arrested Rakesh Kumar. [@2,3,4,5] Further investigation was assigned to
+district and arrested Rakesh Kumar. [@2,3,4,5,10] Further investigation was assigned to
 Dadia station house officer Sanjay Punia. [@2,3,4,5] Kumar told officers the ganja and
 the car belonged to his companion Vikas Kumar Dhinwa of Sevapura in Khirod, who
 he said had left the car a short distance earlier and told him to phone once he
 had gone ahead. [@2,3,4,5] Police said Dhinwa was involved in the narcotics trade on a
 large scale, and they were searching for him and investigating the trafficking
-network. [@2,3] Police said Vikas had taken up ganja supply work only a few months earlier and that they were tracing the full supply network and its mastermind. [@8,9] Preliminary questioning indicated that the accused were to supply the ganja in Sikar. [@8,9] Police later arrested main supplier Vikas Kumar, son of Ramkumar Dhinwa of Seva Nagar in Khirod, on an informant's tip. [@8,9] Police were also trying to establish where the ganja had come from
+network. [@2,3] Police said Vikas had taken up ganja supply work only a few months earlier and that they were tracing the full supply network and its mastermind. [@8,9,10] Preliminary questioning indicated that the accused were to supply the ganja in Sikar. [@8,9,10] Police later arrested main supplier Vikas Kumar, son of Ramkumar Dhinwa of Seva Nagar in Khirod, on an informant's tip. [@8,9,10] Police were also trying to establish where the ganja had come from
 and who it was to be supplied to. [@1]
