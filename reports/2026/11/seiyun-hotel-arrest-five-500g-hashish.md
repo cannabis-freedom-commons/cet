@@ -50,30 +50,26 @@ sources:
     publisher: باب نيوز
     date: 2026-11-18
     language: ar
-open_questions:
-  - No date is given for the raid or the arrests; 18 November 2026, when both accounts were published, stands in for the incident date.
-  - The hashish weight is given as about 500 grams, not an exact measure, and no value estimate was published.
-  - The substance in the ten narcotic pills is not named.
-  - The shabu, between 10 and 13 grams, is not cannabis and is excluded from the cannabis weight.
-  - Neither account names the hotel or the suspects, and no charges, detention order or court date were reported.
-  - It is not stated whether the five are accused of selling the hashish or of holding it for their own use.
-  - Both accounts reproduce the same security-forces statement, so they are not independent reporting.
+  - title: شرطة سيئون تضبط عصابة من 5 أشخاص بحوزتهم مواد مخدرة | الخلاصة نت
+    url: https://www.khlaasa.net/1533745
+    publisher: الخلاصة نت
+    date: 2026-11-18
+    language: ar
 ---
 
 Seiyun district police, working with the tourism police, arrested five people
-inside one of the city's hotels. [@1] The force said the group was caught after
+inside one of the city's hotels. [@1,3] The force said the group was caught after
 investigators received information about them and followed their movements. [@1]
 
 Police said the accused had about 500 grams of hashish, cannabis resin, in their
-possession. [@1] The search also turned up ten narcotic pills. [@1] Officers
+possession. [@1,3] The search also turned up ten narcotic pills. [@1] Officers
 further found between 10 and 13 grams of shabu, a methamphetamine-type drug,
 which is not counted in the cannabis figures. [@1]
 
 The five were detained and the drugs recorded as seized, with legal procedures
-to be completed before their referral to the judicial authorities. [@1] Bab
+to be completed before their referral to the judicial authorities. [@1,3] Bab
 News, which carried the same account from the security forces' moral guidance
 and public relations department, said they were to be handed to the competent
 authorities. [@2] The statement said the operation was part of continuing
 efforts by Seiyun district police, with other security bodies, against drug
 crime and to protect the community. [@2]
-
