@@ -87,26 +87,24 @@ sources:
     publisher: День за днем
     date: 2026-11-16
     language: uk
-open_questions:
-    - No separate date for the sentencing hearing was published; 16 November 2026, the date of the court press-service report and publication, stands in for the incident date.
-    - The 403 plants were described as sown and grown for personal use, while the 2,168.06 grams were described as cannabis seized at the residence; how the harvested plants relate to the seized cannabis was not explained.
-    - The quantity of plants harvested between April and September was described only as undetermined.
-    - No arrest, detention or custody details were reported.
-    - The verdict had not entered into legal force and could be appealed; no appeal or enforcement outcome was reported.
-    - The account of the sentence rests on the court's press service as reported by one outlet; the written judgment was not published.
+  - title: На Хмельниччині судили військовослужбовця, який вирощував коноплю та зберігав канабіс
+    url: https://ngp-ua.info/2026/11/92062
+    publisher: Незалежний громадський портал
+    date: 2026-11-17
+    language: uk
 ---
 
 A 33-year-old man in Shepetivka will stand trial on suspicion of illegally
 growing narcotic plants on a large scale. [@1,2,3,4,5,6,7] Police investigators said he had
-sown a sizable plot with cannabis at his home and yard. [@1] In early April 2026 the man, then in military service, sowed at least 403 cannabis plants to grow for his own use and made cannabis from part of the plants. [@8]
+sown a sizable plot with cannabis at his home and yard. [@1] In early April 2026 the man, then in military service, sowed at least 403 cannabis plants to grow for his own use and made cannabis from part of the plants. [@8,9]
 
 During an authorised search, officers found more than 400 bushes growing in the
 open and dried narcotic-containing plants in the attic of the house. [@1,2,3,4,5,6,7] Police
-seized the more than 400 cannabis bushes and the dried plants from him. [@1,2,6] Between April and September he also harvested an undetermined number of cannabis plants and made cannabis from them, and police seized 2,168.06 grams of cannabis at his residence. [@8]
+seized the more than 400 cannabis bushes and the dried plants from him. [@1,2,6] Between April and September he also harvested an undetermined number of cannabis plants and made cannabis from them, and police seized 2,168.06 grams of cannabis at his residence. [@8,9]
 Forensic examination confirmed that the seized material is cannabis. [@1,2,3,4,5,6,7]
 
 Investigators completed the pre-trial investigation and sent an indictment to
-court under Part 2 of Article 310 of Ukraine's Criminal Code. [@1,2,3,5,6,7] The court found the man guilty under two articles of Ukraine's Criminal Code. [@8] The man faces
-serious punishment if convicted, with no verdict yet reported. [@1] As of 16 November the verdict had not entered into legal force and could be appealed. [@8] At the hearing he fully admitted guilt and repented, and the court set a one-year probation period with statutory duties and ordered him to reimburse over 5,700 hryvnias to the state for expert examinations. [@8] It sentenced the local resident to three years' imprisonment for unlawfully growing cannabis and making cannabis, releasing him from serving the term with probation for one year. [@8]
+court under Part 2 of Article 310 of Ukraine's Criminal Code. [@1,2,3,5,6,7] The court found the man guilty under two articles of Ukraine's Criminal Code. [@8,9] The man faces
+serious punishment if convicted, with no verdict yet reported. [@1] As of 16 November the verdict had not entered into legal force and could be appealed. [@8] At the hearing he fully admitted guilt and repented, and the court set a one-year probation period with statutory duties and ordered him to reimburse over 5,700 hryvnias to the state for expert examinations. [@8,9] It sentenced the local resident to three years' imprisonment for unlawfully growing cannabis and making cannabis, releasing him from serving the term with probation for one year. [@8,9]
 
 The man was caught in September. [@2,4,5,6] Investigators from the Shepetivka District Police Department, under the procedural guidance of the prosecutor’s office, completed the pretrial investigation and submitted the indictment to the court. [@2,4,5,6]
