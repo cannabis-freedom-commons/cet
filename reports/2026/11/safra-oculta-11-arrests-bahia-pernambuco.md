@@ -159,20 +159,25 @@ sources:
     publisher: Boca News
     date: 2026-11-17
     language: pt
+  - title: Operação Safra Oculta termina com 13 presos, roça de maconha erradicada, fuzil apreendido e bens bloqueados
+    url: https://politicaaoponto.com.br/operacao-safra-oculta-termina-com-13-presos-roca-de-maconha-erradicada-fuzil-apreendido-e-bens-bloqueados/
+    publisher: Política ao Ponto
+    date: 2026-11-17
+    language: pt
 ---
 
 Eleven people suspected of belonging to a criminal organisation involved in
 illegal cannabis cultivation in northeastern Brazil were arrested on the morning
 of 17 November 2026 during Operation Safra Oculta, launched by federal and state
-security forces in Bahia and Pernambuco. [@1,6,7,8,9,10,14,15] The final tally from Operation Safra Oculta reached 13 arrests, with the last two arrests made in Garanhuns, Pernambuco. [@11,13,16] Investigators suspect the targets
+security forces in Bahia and Pernambuco. [@1,6,7,8,9,10,14,15] The final tally from Operation Safra Oculta reached 13 arrests, with the last two arrests made in Garanhuns, Pernambuco. [@11,13,16,17] Investigators suspect the targets
 of financing and producing the drug and of hiding assets and money through
 individuals and companies. [@1,6,8,9,13,16] The concealment allegedly used legal entities, including fuel-sector establishments. [@7,10]
 
 Sixteen temporary arrest warrants and 25 search and seizure warrants were issued
 for the operation. [@3,5,7,10,12,15] Arrest and search warrants were served in Salvador,
 Abaré and Senhor do Bonfim in Bahia, and in Petrolina, Belém do São Francisco,
-Carnaubeira da Penha, Ibimirim and Recife in Pernambuco. [@1,4,6,7,12,13,15,16] Officers seized a
-rifle, a pistol, magazines, ammunition, mobile phones and documents. [@1,4,6,8,9,11,13,14,16]
+Carnaubeira da Penha, Ibimirim and Recife in Pernambuco. [@1,4,6,7,12,13,15,16,17] Officers seized a
+rifle, a pistol, magazines, ammunition, mobile phones and documents. [@1,4,6,8,9,11,13,14,16,17]
 Searches also turned up mobile phones, cash and vehicles. [@3,15] Officers also seized 50,000 reais in cash. [@11,13,16] Police also
 worked to eradicate a large cannabis plantation in Belém de São Francisco,
 Pernambuco, linked to one of the suspects. [@3,4,5,6,7,9,10,11,12,13,14,15,16] As part of the operation, CIPE/Caatinga and BOPE/PMBA eradicated a Cannabis sativa plantation of about 5,200 plants in the municipality of Ibó, Pernambuco. [@5,12] One target, a woman living in
