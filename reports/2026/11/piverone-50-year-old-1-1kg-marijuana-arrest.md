@@ -78,6 +78,11 @@ sources:
     publisher: Unione Monregalese
     date: 2026-11-17
     language: it
+  - title: Un chilogrammo di marijuana e infusioni alcoliche di cannabis, uomo arrestato nel Torinese
+    url: https://www.ansa.it/amp/piemonte/notizie/2026/11/17/un-chilo-di-marijuana-e-infusioni-alcoliche-di-cannabis-uomo-arrestato-nel-torinese_c9d7982e-3d9a-469a-8e9f-1f2379565567.html
+    publisher: ANSA.it
+    date: 2026-11-17
+    language: it
 media:
   - kind: photo
     url: https://www.rainews.it/amp/tgr/piemonte/articoli/2026/11/barattoli-etichette-e-in-infusi-a-piverone-scoperta-la-droga-gran-riserva-cfea69c2-64dd-4031-a614-35106d6f0101.html
@@ -96,19 +101,19 @@ open_questions:
 
 Carabinieri officers from the Ivrea mobile radio section, assisted by colleagues
 from Azeglio, arrested a 50-year-old unemployed Piverone resident on accusations
-of possessing drugs for dealing purposes. [@1,3,4,5,6] Officers stopped the man at Ivrea
+of possessing drugs for dealing purposes. [@1,3,4,5,6,8] Officers stopped the man at Ivrea
 railway station after noticing him moving suspiciously along the tracks. [@1,2,3,4,5,6] The operation began in the morning, when Carabinieri noticed the man moving suspiciously in the station area. [@5]
 When asked for identification, the man appeared agitated and nervous and tried
-to hide a small container in his jacket pocket. [@1,2,3,4,5,7]
+to hide a small container in his jacket pocket. [@1,2,3,4,5,7,8]
 
 The subsequent search recovered a glass jar containing several grams of
 marijuana and 170 euros in cash from his wallet. [@1,4,5] The jar recovered in the personal search contained 3 grams of marijuana. [@2,5] As is standard practice,
 officers then extended the checks to his home in Piverone. [@1,3] There they found
 a large stock of drugs, partly already divided into glass jars and containers
-labelled by type and quality. [@1,5,7]
+labelled by type and quality. [@1,5,7,8]
 
 In total officers recovered and seized over 1.1 kilograms of marijuana, three
 bottles of marijuana infusing in presumably alcoholic substances, one small
-bottle of cannabis tincture, six grams of hashish and a precision scale. [@1,2,3,4,5,6] The precision scale carried residues of the narcotic substance. [@4]
+bottle of cannabis tincture, six grams of hashish and a precision scale. [@1,2,3,4,5,6,8] The precision scale carried residues of the narcotic substance. [@4]
 The man was arrested and taken to prison on the orders of the Ivrea prosecutor's
-office. [@1,2,3,4,5,7] The arrest was validated and the man was transferred to Ivrea prison after the validation. [@3]
+office. [@1,2,3,4,5,7,8] The arrest was validated and the man was transferred to Ivrea prison after the validation. [@3]
