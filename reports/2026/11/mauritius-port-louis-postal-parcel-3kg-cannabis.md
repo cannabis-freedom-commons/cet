@@ -72,6 +72,11 @@ sources:
     publisher: L'Express
     date: 2026-11-18
     language: fr
+  - title: 'À Pailles : 3,1 kg de cannabis saisis, deux suspects dont le fils d’un policier arrêtés'
+    url: https://ionnews.mu/a-pailles-31-kg-de-cannabis-saisis-deux-suspects-dont-le-fils-dun-policier-arretes/
+    publisher: IONNEWS
+    date: 2026-11-18
+    language: fr
 open_questions:
     - 'Accounts differ on when the parcel was intercepted: Le Mauricien dates it to 11 November, while L''Express dates it to 13 November, when a parcel that had arrived the previous day was opened.'
     - L'Express puts the cannabis at 3.1 kg and Rs 6 million, while Le Mauricien and the earlier Defimedia report give Rs 5 million and three kilograms.
@@ -89,14 +94,14 @@ recipient, a resident of Phoenix, was caught through a controlled delivery
 operation — in which officers kept the parcel under surveillance as it moved
 toward its destination — run by the Anti-Drug and Smuggling Unit (ADSU), the
 country's anti-drug police unit. [@1,2] He is the son of an assistant
-superintendent of police assigned to the Special Supporting Unit (SSU). [@1] Noorah was arrested at 11:22 on Monday 16 November. [@3] The recipient was named as Muhammad Yasaar Ibne Noorah, 30, a Mauritian who lives and works in England. [@2] A
-second suspect was also arrested in the course of the same investigation. [@1,2] The two men remained in detention while the investigation continued. [@2] The second man was named as Fawzaan Hossenbaccus, 22, a maintenance worker living in Mont-Goût, Pamplemousses. [@3]
+superintendent of police assigned to the Special Supporting Unit (SSU). [@1] Noorah was arrested at 11:22 on Monday 16 November. [@3,4] The recipient was named as Muhammad Yasaar Ibne Noorah, 30, a Mauritian who lives and works in England. [@2] A
+second suspect was also arrested in the course of the same investigation. [@1,2] The two men remained in detention while the investigation continued. [@2] The second man was named as Fawzaan Hossenbaccus, 22, a maintenance worker living in Mont-Goût, Pamplemousses. [@3,4]
 
 The seizure was carried out by the Customs Anti-Narcotics Section (CANS) of the
 Mauritius Revenue Authority (MRA), the authority's customs drug-enforcement arm,
 which put an estimated value of Rs 5 million on the cannabis. [@1] The parcel
-had come from England. [@1] The drug was concealed in five cardboard boxes
+had come from England. [@1,4] The drug was concealed in five cardboard boxes
 declared as containing spices. [@1] Both men's phones, including an iPhone 18 Pro Max and a SIM card with an international number seized from Noorah, were to be analysed. [@2] Police searched both suspects' homes and found nothing incriminating. [@2] The parcel, declared to contain spices, carried a fictitious addressee name, but the address was Noorah's home in Phoenix. [@2]
 
 Both men were due to be brought before the Port-Louis court on Tuesday on a
-provisional charge of importing drugs. [@1] Both face a provisional charge of importing cannabis with a trafficking averment. [@3] The two men were brought before the Port-Louis court on 17 November, where police objected to their release on bail. [@3]
+provisional charge of importing drugs. [@1] Both face a provisional charge of importing cannabis with a trafficking averment. [@3,4] The two men were brought before the Port-Louis court on 17 November, where police objected to their release on bail. [@3,4]
