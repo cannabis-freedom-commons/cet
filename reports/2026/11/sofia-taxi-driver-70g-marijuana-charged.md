@@ -96,21 +96,26 @@ sources:
     publisher: DUNAVMOST.com
     date: 2026-11-18
     language: bg
+  - title: Задържаха 64-годишен таксиметров шофьор с положителен тест за наркотици в
+    url: https://novini247.com/novini/zadarjaha-64-godishen-taksimetrov-shofyor-s-polojitelen-test-za-narkotitsi-v_11406653.html
+    publisher: Новини 24/7
+    date: 2026-11-18
+    language: bg
 ---
 
 Sofia police detained a 64-year-old taxi driver after his drug test came back
-positive; he was caught on Monday in a taxi he was driving in Sofia. [@1,2,4] Officers stopped the taxi he was driving for a check on Dimitar Manov Street after establishing his identity. [@2,3,4,5] The stop was made by detectives from the Fourth District Police Directorate. [@3] The specialised police operation took place on the evening of 16 November 2026, after police received information that the man was distributing drugs in the capital. [@2,3,4] In the
+positive; he was caught on Monday in a taxi he was driving in Sofia. [@1,2,4,6] Officers stopped the taxi he was driving for a check on Dimitar Manov Street after establishing his identity. [@2,3,4,5] The stop was made by detectives from the Fourth District Police Directorate. [@3] The specialised police operation took place on the evening of 16 November 2026, after police received information that the man was distributing drugs in the capital. [@2,3,4] In the
 taxi he kept nearly 40 ecstasy tablets, 16 packets of marijuana, a large
 quantity of crystals, powdered amphetamine, and 570 euros and 100 US dollars.
-[@1,2,3,4,5] He also carried another packet containing about 10 grams of marijuana on
-his person. [@1,2,3,4,5]
+[@1,2,3,4,5,6] He also carried another packet containing about 10 grams of marijuana on
+his person. [@1,2,3,4,5,6]
 
 An expert assessment put the seized narcotics at nearly 500 grams of
 methamphetamine, nearly 70 grams of marijuana, over 11 grams of ecstasy and more
-than 9 grams of amphetamine. [@1,2,3,4,5]
+than 9 grams of amphetamine. [@1,2,3,4,5,6]
 
 The detainee was already known to police and had a prior conviction, and the
-Sofia City Prosecutor's Office has brought charges against him. [@1,2,3,4] The pre-trial proceedings were opened under the Penal Code articles on narcotics and on driving after drug use. [@4] He had first been held under a police measure of up to 24 hours. [@2,3,4] The results
-of his blood test were still awaited. [@1,3,4] He was held for up to 72 hours while
+Sofia City Prosecutor's Office has brought charges against him. [@1,2,3,4,6] The pre-trial proceedings were opened under the Penal Code articles on narcotics and on driving after drug use. [@4] He had first been held under a police measure of up to 24 hours. [@2,3,4] The results
+of his blood test were still awaited. [@1,3,4,6] He was held for up to 72 hours while
 pre-trial proceedings were opened, and the prosecution planned to ask the Sofia
-City Court on Thursday to remand him in custody. [@1,2]
+City Court on Thursday to remand him in custody. [@1,2,6]
