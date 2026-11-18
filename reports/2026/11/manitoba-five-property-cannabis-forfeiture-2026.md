@@ -49,6 +49,10 @@ sources:
     url: https://www.cp24.com/news/canada/2026/11/17/manitoba-seeks-forfeiture-of-5-properties-in-alleged-cannabis-mortgage-fraud-scheme/
     publisher: CP24
     date: 2026-11-17
+  - title: Manitoba seeks forfeiture of 5 properties in alleged cannabis, mortgage fraud scheme
+    url: https://www.ctvnews.ca/winnipeg/article/manitoba-seeks-to-forfeit-5-properties-tied-to-alleged-illegal-cannabis-grow-ops/
+    publisher: CTV News
+    date: 2026-11-17
 open_questions:
   - The statement of claim was filed "last week" without a stated date; 13 November 2026, when Justice Brian Bowman granted the interim order, is used as the incident date.
   - The search warrants were executed in December 2024, well before the forfeiture claim, and no exact raid dates were published.
@@ -68,9 +72,9 @@ of claim, filed in the Court of King's Bench of Manitoba, says the RCMP received
 information in April 2022 that medical cannabis and illicit tobacco were being
 sold from Health Canada-approved production sites in the province. [@1] The RCMP
 investigation was named Project Defund and used surveillance, production orders
-and warrants, the claim says. [@1] The properties are two in Winnipeg's Maples
+and warrants, the claim says. [@1,2] The properties are two in Winnipeg's Maples
 neighbourhood, one in South Pointe, and one each in the rural municipalities of
-Brokenhead and Piney. [@1] The claim says police identified a network of people
+Brokenhead and Piney. [@1,2] The claim says police identified a network of people
 who gave falsified information to financial institutions to obtain mortgages and
 used the money to buy the properties. [@1] In one case a defendant said he was
 an assistant manager earning $48,000 a year when his only legitimate income was
@@ -83,22 +87,21 @@ cannabis on the black market, using the proceeds to pay mortgages and buy more
 properties, the province alleges. [@1]
 
 At the RM of Piney property police observed about 3,200 plants, above the 1,677
-the licences allowed for personal use. [@1] Business records found at that
-property referenced cannabis sales above $320,000 a year. [@1] Police executed
-search warrants at four of the properties in December 2024. [@1] In the
+the licences allowed for personal use. [@1,2] Business records found at that
+property referenced cannabis sales above $320,000 a year. [@1] The claim says the RM of Piney council approved a conditional use and variance order in 2021 permitting medical cannabis production at the property, but not for commercial use. [@2] Police executed
+search warrants at four of the properties in December 2024. [@1,2] In the
 basements of two Winnipeg properties officers found a fully operational cannabis
 grow operation with hundreds of plants. [@1] At the Brokenhead property, hydro
 consumption was significantly higher than normal usage and consistent with a
-large-scale cannabis grow operation, the claim says. [@1] Officers found
+large-scale cannabis grow operation, the claim says. [@1] The claim says police seized cellphones from some of the properties and found conversations and photographs about the production and trafficking of cannabis and contraband cigarettes. [@2] Officers found
 cannabis and contraband cigarettes, including approximately 22 pounds (about 10
-kilograms) of cannabis bud at the RM of Piney property. [@1]
+kilograms) of cannabis bud at the RM of Piney property. [@1,2] At one property, police found handwritten lists of customer names and currency amounts, the claim says. [@2] The claim also notes an absence of signs of personal cannabis use, such as rolling papers, bongs and pipes, at some of the properties. [@2]
 
 Seven people are named as defendants, along with financial institutions that
-hold registered interests in the mortgages. [@1] The claim alleges falsifying an
+hold registered interests in the mortgages. [@1,2] The claim alleges falsifying an
 employment record, possession of cannabis for the purpose of distributing, and
-selling cannabis without authorization. [@1] On 13 November 2026 Court of King's
+selling cannabis without authorization. [@1,2] On 13 November 2026 Court of King's
 Bench Justice Brian Bowman granted an interim order barring anyone from selling
-the five properties for 60 days or until the court orders otherwise. [@1] No
+the five properties for 60 days or until the court orders otherwise. [@1,2] No
 statement of defence had been filed and the claims had not been proven in court.
 [@1]
-
