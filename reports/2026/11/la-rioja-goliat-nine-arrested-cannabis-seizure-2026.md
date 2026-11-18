@@ -63,10 +63,14 @@ sources:
     publisher: Teleprensa
     date: 2026-11-17
     language: es
+  - title: 'Golpe al narcotráfico: nueve detenidos y 32,5 kilos de speed incautados'
+    url: https://www.larioja.com/la-rioja/golpe-narcotrafico-nueve-detenidos-20261117105639-nt.html
+    publisher: La Rioja
+    date: 2026-11-17
+    language: es
 open_questions:
-  - Whether the three prison entries were pre-trial detention or sentences was not reported.
-  - No separate date was given for the searches; 17 November 2026 is the presentation and publication date and stands in for the incident date.
-  - The combined illicit-market value of about one million euros covers all drugs together and cannot be assigned to cannabis.
+    - No separate date was given for the searches; 17 November 2026 is the presentation and publication date and stands in for the incident date.
+    - The combined illicit-market value of about one million euros covers all drugs together and cannot be assigned to cannabis.
 media:
   - kind: photo
     url: https://cadenaser.com/rioja/2026/11/17/32-kilos-de-speed-incautados-y-9-detenidos-en-una-operacion-antidroga-de-policia-nacional-en-la-rioja-radio-rioja/
@@ -108,20 +112,30 @@ media:
     media_url: https://cadenaser.com/resizer/v2/MDV4TSERS5HHNAKJBK5V22SFNM.JPEG?auth=2ea24ce9e903143fe63395d1fc31fb54ea84cde8394df64758f3c46e194fdf77&quality=70&width=768&height=576&smart=true
     publisher: Cadena SER
     caption: 'Police handout photo of the Operación Goliat seizure published with the report. Photo: Policía Nacional'
+  - kind: photo
+    url: https://www.larioja.com/la-rioja/golpe-narcotrafico-nueve-detenidos-20261117105639-nt.html
+    media_url: https://s1.ppllstatics.com/larioja/www/multimedia/local/2026/11/17/IMG-20261117-WA0006-RagFqZSwI4TZNPlRDhMta7N-1200x840@La%20Rioja.jpg
+    publisher: La Rioja
+    caption: 'The government delegate standing in front of part of the seized drugs and cutting substances at the presentation of the Operación Goliat results. Photo: Justo Rodríguez'
+  - kind: photo
+    url: https://www.larioja.com/la-rioja/golpe-narcotrafico-nueve-detenidos-20261117105639-nt.html
+    media_url: https://s3.ppllstatics.com/larioja/www/multimedia/local/2026/11/17/golpe-narcos%20(5)-U202162400954zJE--680x476@La%20Rioja.jpeg
+    publisher: La Rioja
+    caption: A photograph of the Operación Goliat drugs seizure, published in La Rioja's gallery of images from the operation.
 ---
 
 National Police officers in La Rioja detained nine people in Operation Goliat on
-suspicion of drug trafficking. [@2,3,4] Those detained were aged between 40 and 55. [@4] One of those detained was also accused of alleged illegal possession of weapons over a 9 mm firearm and two boxes of ammunition. [@3,4] The 9 mm firearm had been reported stolen from a local police officer, police said. [@4] Three of those detained have entered prison.
-[@1,3,4]
+suspicion of drug trafficking. [@2,3,4,5] Those detained were aged between 40 and 55. [@4,5] One of those detained was also accused of alleged illegal possession of weapons over a 9 mm firearm and two boxes of ammunition. [@3,4] The 9 mm firearm had been reported stolen from a local police officer, police said. [@4,5] Three of those detained have entered prison.
+[@1,3,4] The three detained who entered prison were being held in pre-trial detention. [@5]
 
 Officers dismantled two drug-cutting laboratories in Logroño and Islallana. [@1,4]
 The operation involved six court-authorised searches in Logroño, Villamediana de
-Iregua, Islallana, Alberite and Murillo de Río Leza. [@2,3,4] In the searches
+Iregua, Islallana, Alberite and Murillo de Río Leza. [@2,3,4,5] In the searches
 officers seized 1,323.3 grams of marijuana and 297.5 grams of hashish, alongside
-32,500 grams of speed and 287.90 grams of cocaine. [@2,3,4] Police said the seized drugs could have reached a market value of about one million euros. [@4]
+32,500 grams of speed and 287.90 grams of cocaine. [@2,3,4] Police said the seized drugs could have reached a market value of about one million euros. [@4,5]
 
 Officers also seized more than 25,000 euros in cash, a firearm, 88 cartridges,
 six precision scales, a marijuana peeling machine and a vacuum-packing machine.
 [@2,3,4] The investigation began in July after Logroño local police passed
 information about a person allegedly making and selling synthetic drugs in the
-city. [@2,3,4]
+city. [@2,3,4,5]
