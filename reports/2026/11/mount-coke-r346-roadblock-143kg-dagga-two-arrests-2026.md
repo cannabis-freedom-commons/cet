@@ -54,6 +54,10 @@ sources:
     url: https://x.com/SAPoliceService/status/2122762142591914312
     publisher: SA Police Service
     date: 2026-11-17
+  - title: Dagga Worth R1.4 Million Seized Near Qonce, Two Arrested
+    url: https://www.komani.co.za/dagga-worth-r1-4-million-seized-near-qonce-two-arrested/
+    publisher: Komani News
+    date: 2026-11-18
 open_questions:
   - Algoa FM says the bust happened on Monday morning while the police statement gives Tuesday 17 November 2026 at about 10:00; the report uses the police date, which matches the calendar.
   - The weight is reported only as over 143 kg and the value only as a police estimate of about R1.4 million, so neither is an exact measured figure.
@@ -62,17 +66,16 @@ open_questions:
 ---
 
 SAPS Punzana members were conducting a roadblock on the R346 near Mount Coke,
-outside Qonce. [@2] At about 10:00 on 17 November 2026 officers stopped a grey
-Peugeot for inspection. [@2] Officers arrested two foreign national men aged 30
-and 31 in the vehicle. [@2] Police spokesperson Captain Mluleki Mbi announced
+outside Qonce. [@2,3] At about 10:00 on 17 November 2026 officers stopped a grey
+Peugeot for inspection. [@2,3] Officers arrested two foreign national men aged 30
+and 31 in the vehicle. [@2,3] Police spokesperson Captain Mluleki Mbi announced
 the bust. [@1] The two men face charges of possession and dealing in drugs and
 were expected to appear before the Zwelitsha Magistrate's Court on 19 November
-2026. [@2]
+2026. [@2,3]
 
 Officers found six long bags full of dagga weighing over 143 kg inside the
-vehicle. [@2] Police put the estimated street value at about R1.4 million. [@1]
-Police seized the vehicle used in the offence. [@2]
+vehicle. [@2,3] Police put the estimated street value at about R1.4 million. [@1,3]
+Police seized the vehicle used in the offence. [@2,3]
 
 Police described the seizure as part of ongoing efforts to clamp down on drug
-trafficking during the festive season. [@2]
-
+trafficking during the festive season. [@2,3]
