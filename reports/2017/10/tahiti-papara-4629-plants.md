@@ -53,27 +53,32 @@ sources:
     publisher: Outre-mer La 1ère
     date: 2017-10-31
     language: fr
+  - title: Tahiti. Des milliers de plants de cannabis découverts dans une forêt
+    url: https://www.ouest-france.fr/societe/drogue/tahiti-des-milliers-de-plants-de-cannabis-decouverts-dans-une-foret-5351808
+    publisher: Ouest-France
+    date: 2017-11-01
+    language: fr
 open_questions:
-  - No arrests, detentions, suspects or growers are named in either account.
-  - The 3,000 sq m area is reported as approximate, so the 0.3-hectare figure is a direct conversion of that estimate.
-  - No cannabis weight was published, so no kilograms are recorded; the 800,000-euro figure is the gendarmes' resale estimate.
-  - The 15,000 plants in 15 days and 30,000 plants per year figures describe the wider crackdown and annual total, not this seizure, and are excluded from figures.
+    - No arrests, detentions, suspects or growers are named in any of the accounts.
+    - The 3,000 sq m area is reported as approximate, so the 0.3-hectare figure is a direct conversion of that estimate.
+    - No cannabis weight was published, so no kilograms are recorded; the 800,000-euro figure is the gendarmes' resale estimate.
+    - The 15,000 plants in 15 days and 30,000 plants per year figures describe the wider crackdown and annual total, not this seizure, and are excluded from figures.
+    - The ten years in prison and 7.5 million euro fine are the maximum penalties growers face, not a sentence given in this case, and no court proceedings were reported.
 ---
 
 On 27 October 2017, gendarmes of the Papara brigade in the Windward Islands
 gendarmerie company carried out a narcotics search in a wooded mountainside
 area. [@2] In a forest in the commune of Papara, in western Tahiti, they found a
-cannabis plantation covering about 3,000 square metres (0.3 hectares). [@1] The
+cannabis plantation covering about 3,000 square metres (0.3 hectares). [@1,3] The
 operation drew on substantial personnel and equipment deployed on the ground.
 [@1]
 
-Officers counted 4,629 cannabis plants growing at the site. [@2] The gendarmes
+Officers counted 4,629 cannabis plants growing at the site. [@2,3] The gendarmes
 destroyed all of the plants together with the growing infrastructure found at
 the site. [@2] The gendarmes estimated the cannabis, known locally in French
 Polynesia as pakalolo, would have been worth more than 800,000 euros at resale.
-[@1]
+[@1,3]
 
-Growers of such plantations face ten years in prison. [@1] The find belonged to
+Growers of such plantations face ten years in prison. [@1] The maximum fine growers face is 7.5 million euros. [@3] The find belonged to
 a wider gendarmerie crackdown in which about 15,000 plants were seized and
-destroyed in 15 days, compared with about 30,000 in a usual year. [@1]
-
+destroyed in 15 days, compared with about 30,000 in a usual year. [@1,3]
