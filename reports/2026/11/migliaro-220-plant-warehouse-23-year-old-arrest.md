@@ -41,6 +41,11 @@ media:
     media_url: https://citynews-ferraratoday.stgy.ovh/~media/original-hi/66159301556048/la-serra-di-marijuana-scoperta-dai-carabinieri.jpg
     publisher: FerraraToday
     caption: The indoor marijuana greenhouse found by Carabinieri in the Migliaro warehouse.
+  - kind: photo
+    url: https://www.gazzettadimodena.it/speciale/2026/11/18/news/migliaro-il-black-out-svela-una-serra-di-marijuana-sequestrate-220-piante-e-arrestato-un-23enne-1.100944183
+    media_url: https://api-sites-prd.saegroup.abinsula.com/api/media/image/contentid/policy:1.100944182:1795014954/Piante%20sequestrate.jpg?f=detail_558&h=720&w=1280&$p$f$h$w=afb9df9
+    publisher: Gazzetta di Modena
+    caption: Cannabis plants seized from the Migliaro warehouse, published with the Gazzetta di Modena report.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7a70126656a714d118dbad7f02ab75b3
@@ -56,29 +61,29 @@ sources:
     publisher: FerraraToday
     date: 2026-11-18
     language: it
-open_questions:
-  - The plants were described as marijuana about 40 centimetres tall, with no laboratory test result reported.
-  - No dried-cannabis weight or street-value estimate was published.
-  - Only the suspect's age and homeless status were given; no name, plea or later trial outcome was reported.
+  - title: 'Migliaro, il black-out svela una serra di marijuana: sequestrate 220 piante e arrestato un 23enne'
+    url: https://www.gazzettadimodena.it/speciale/2026/11/18/news/migliaro-il-black-out-svela-una-serra-di-marijuana-sequestrate-220-piante-e-arrestato-un-23enne-1.100944183
+    publisher: Gazzetta di Modena
+    date: 2026-11-18
+    language: it
 ---
 
 A power blackout caused by abnormal energy absorption led to the discovery of an
-illegal marijuana greenhouse at Migliaro, in the Ferrara area. [@1] Carabinieri
+illegal marijuana greenhouse at Migliaro, in the Ferrara area. [@1,3] Carabinieri
 arrested a 23-year-old homeless man at a warehouse in Migliaro on the evening of
 Monday 16 November 2026. [@2] Officers went to the warehouse in Migliaro after a
 reported blackout linked to abnormal and excessive electricity consumption
 there. [@2] Suspicious of a strong smell from the building, officers entered the
 shed and found a hand-built indoor greenhouse with lighting, irrigation and
-forced ventilation. [@1]
+forced ventilation. [@1,3]
 
 The grow consisted of 220 marijuana plants about 40 centimetres tall, served by
-lighting, irrigation and forced-ventilation equipment. [@2] Officers found the
-23-year-old, who has no fixed address, sleeping inside the building. [@1] The
+lighting, irrigation and forced-ventilation equipment. [@2,3] Officers found the
+23-year-old, who has no fixed address, sleeping inside the building. [@1,3] The
 young man immediately admitted that the material found was his. [@2]
 
-Officers catalogued and seized all the plants and the growing equipment. [@1] By
+Officers catalogued and seized all the plants and the growing equipment. [@1,3] By
 order of the Ferrara judicial authority, he was held in the cells of the
 Portomaggiore Carabinieri company pending a validation hearing. [@2] On the
 morning of Wednesday 18 November, the Ferrara court validated the arrest and
-banned him from living in the Ferrara province. [@2]
-
+banned him from living in the Ferrara province. [@2,3]
