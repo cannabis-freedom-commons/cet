@@ -104,28 +104,41 @@ sources:
     publisher: Bhaskar Hindi
     date: 2026-11-18
     language: hi
+  - title: 'Noida News: ट्रक से डेढ़ करोड़ का गांजा मिला, दो तस्कर गिरफ्तार'
+    url: https://www.livehindustan.com/ncr/noida/story-greater-noida-177-kg-of-ganja-seized-two-arrested-201795011765276.html
+    publisher: Live Hindustan
+    date: 2026-11-18
+    language: hi
+  - title: 1.5 करोड़ रुपए का 177 किलो गांजा बरामद, दो तस्कर गिरफ्तार, ओडिशा से गुरुग्राम ले जाया जा रहा था
+    url: https://punjabkesari.com/india-news/1-5-crore-rupaye-ka-177-kilo-ganja-baramad-do-taskar-girftar-odisha-se-gurugram-le-jaya-ja-raha-tha
+    publisher: Punjab Kesari
+    date: 2026-11-18
+    language: hi
+open_questions:
+    - 'Accounts differ on the quantity: the Amar Ujala headline gives 117 kg, while the police accounts give 177 kg 790 g; the report uses the police figure.'
+    - No charge sheet, court appearance or outcome of the investigation has been reported.
 ---
 
 A joint Badalpur police and Anti-Narcotics Task Force team arrested two men in
-Greater Noida on suspicion of ganja smuggling. [@1,4,5,6,7,8,9,10,12] The teams intercepted the
-men's truck in front of Ambedkar Park and arrested its two occupants. [@2,4,6,7,10,11,12]
+Greater Noida on suspicion of ganja smuggling. [@1,4,5,6,7,8,9,10,12,13] The teams intercepted the
+men's truck in front of Ambedkar Park and arrested its two occupants. [@2,4,6,7,10,11,12,13]
 Police identified the two as Irfan, son of Basir, and Asif, son of Sagir, both
 residents of Sancholi village under Sohna police station in Gurugram, Haryana.
-[@2,4,7,10,12] Police gave their ages as 31 and 20. [@6,7] Both men had studied only up to the eighth class, police said. [@7] Irfan owned the truck and was driving it while Asif worked as its helper,
+[@2,4,7,10,12,14] Police gave their ages as 31 and 20. [@6,7] Both men had studied only up to the eighth class, police said. [@7] Irfan owned the truck and was driving it while Asif worked as its helper,
 and both had previously been jailed in connection with an NDPS case in Assam.
 [@2,4,6,7,11]
 
 Officers seized 177 kg 790 grams of cannabis from the truck, which police valued
-at about Rs 1.5 crore. [@2,4,5,6,7,8,9,11,12] The cannabis was hidden in a specially designed
+at about Rs 1.5 crore. [@2,4,5,6,7,8,9,11,12,13] The cannabis was hidden in a specially designed
 cavity beneath the truck near the toolbox that was built to look like a diesel
-tank. [@2,4,5,6,7,8,9,10,11,12] A second account likewise describes a concealed compartment inside
+tank. [@2,4,5,6,7,8,9,10,11,12,14] A second account likewise describes a concealed compartment inside
 the truck designed like a diesel tank to move the consignment without attracting
 suspicion. [@3] The accused said they had brought the cannabis from Odisha and
 were transporting it to Gurugram for delivery on the Eastern Peripheral
-Expressway. [@2,4,5,6,7,9,10,11,12] The two were paid 150,000 to 200,000 rupees per trip to deliver ganja to Gurugram or elsewhere. [@10] The truck had GPS fitted, which the intended recipient used to track it. [@10] Police said the consignment had been brought from Phulbani in Odisha. [@5,9] Police also seized the truck used for the transport, bearing
+Expressway. [@2,4,5,6,7,9,10,11,12,14] Police said the consignment was to be supplied in Delhi and that the truck's load was to be handed over on the Eastern Peripheral Expressway to another man who would take it to Delhi. [@13] The two were paid 150,000 to 200,000 rupees per trip to deliver ganja to Gurugram or elsewhere. [@10] The truck had GPS fitted, which the intended recipient used to track it. [@10] Police said the consignment had been brought from Phulbani in Odisha. [@5,9] Police also seized the truck used for the transport, bearing
 registration number HR38AB2007. [@2,4,5]
 
 The joint operation was based on local and manual intelligence about a cannabis
-consignment being moved through the area. [@2,4,6,7] Badalpur police registered FIR
+consignment being moved through the area. [@2,4,6,7,13] Badalpur police registered FIR
 367/2026 under Sections 8, 20 and 60 of the NDPS Act and continued questioning
 to trace the supply chain. [@2,4] Both were sent to jail after questioning as police traced others linked to the smuggling. [@10] DCP Central Noida Praveen Ranjan Singh gave the details of the arrests at a press conference at the Central District police headquarters. [@4,7] The operation was carried out under the supervision of Additional DCP Swatantra Kumar Singh. [@4]
