@@ -53,6 +53,11 @@ sources:
     publisher: الاستاد الاخباري
     date: 2026-11-18
     language: ar
+  - title: القبض على خمسة مهربين يمنيين وإثيوبيين بحوزتهم كميات كبيرة من القات والحشيش في جازان وعسير
+    url: https://alsaudi.news/local/1811/124562/
+    publisher: السعودية الإخبارية
+    date: 2026-11-18
+    language: ar
 open_questions:
     - No date is given for the interception or the arrest; 18 November 2026 is the date of the announcements and of publication, and is used as the incident date.
     - The 41 kilograms are described as hashish; no laboratory confirmation or value estimate was published.
@@ -62,13 +67,13 @@ open_questions:
 ---
 
 Border Guard land patrols in the Al-Raboah sector of Asir region intercepted an
-attempt to smuggle hashish. [@1,3] The patrols arrested a man who was in the
-kingdom in violation of the border security law, an Ethiopian national. [@1,3] He
-was carrying 41 kilograms of the drug, the Border Guard said. [@1,3]
+attempt to smuggle hashish. [@1,3,4] The patrols arrested a man who was in the
+kingdom in violation of the border security law, an Ethiopian national. [@1,3,4] He
+was carrying 41 kilograms of the drug, the Border Guard said. [@1,3,4]
 
 The Border Guard said initial legal procedures had been completed against the
 arrested man and that he was referred with the seizures to the competent
-authority. [@1,3] The Saudi news site Ajel reported the same Al-Raboah arrest of
+authority. [@1,3,4] The Saudi news site Ajel reported the same Al-Raboah arrest of
 an Ethiopian national with 41 kilograms of hashish and said he and the seizures
 were handed to the competent authority. [@2]
 
