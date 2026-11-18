@@ -56,27 +56,31 @@ sources:
     publisher: AgrinioNews
     date: 2026-11-18
     language: el
+  - title: 'Αγρίνιο: Είχε πάνω από ένα κιλό κάνναβης στο σπίτι του και συνελήφθη'
+    url: https://pelop.gr/agrinio-eiche-pano-apo-ena-kilo-kannavis-sto-spiti-tou-kai-synelifthi/
+    publisher: Pelop.gr
+    date: 2026-11-18
+    language: el
 open_questions:
-  - The subheading totals the cannabis at 1,154 grams, while the body itemises 4.9 grams on the man and 1,150 grams at home (1,154.9 grams); the figure uses 1,154 grams.
-  - Only one source was found for this arrest, and it reproduces a police announcement.
-  - No name, age or nationality was published for the man.
-  - No charge sheet, custody decision or court outcome was reported; the man was to be taken before the prosecutor.
-  - The 0.4 grams of cocaine seized in the same search is a separate substance and is excluded from the cannabis figures.
+    - The subheading totals the cannabis at 1,154 grams, while the body itemises 4.9 grams on the man and 1,150 grams at home (1,154.9 grams); the figure uses 1,154 grams.
+    - Both published accounts reproduce the same Agrinio police announcement, so they are not independent reporting.
+    - No name, age or nationality was published for the man.
+    - No charge sheet, custody decision or court outcome was reported; the man was to be taken before the prosecutor.
+    - The 0.4 grams of cocaine seized in the same search is a separate substance and is excluded from the cannabis figures.
 ---
 
 Police in Agrinio arrested a man on Wednesday 18 November 2026 and opened a
-felony case file against him for drug trafficking. [@1] The arrest was made by
+felony case file against him for drug trafficking. [@1,2] The arrest was made by
 officers of the Drug Enforcement Department of the Agrinio crime investigation
 sub-directorate. [@1]
 
-Acting on information, officers found the suspect near his home. [@1] A body
+Acting on information, officers found the suspect near his home. [@1,2] A body
 search found a package containing 4.9 grams of cannabis buds, known locally as
-φούντες, which was seized and led to his arrest. [@1] A search of his home found
+φούντες, which was seized and led to his arrest. [@1,2] A search of his home found
 a further 1,150 grams of cannabis buds in six packages, along with 0.4 grams of
 cocaine, an electronic precision scale with drug residues and a roll of film.
-[@1] The article's subheading puts the total cannabis seized at 1,154 grams.
+[@1,2] The article's subheading puts the total cannabis seized at 1,154 grams.
 [@1]
 
 The arrested man was to be taken before the prosecutor of first instance for
-Aitoloakarnania. [@1]
-
+Aitoloakarnania. [@1,2]
