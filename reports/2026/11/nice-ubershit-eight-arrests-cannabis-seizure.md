@@ -52,17 +52,28 @@ sources:
     publisher: Nice-Matin
     date: 2026-11-17
     language: fr
+  - title: 'Livraison de drogue à domicile : 71 kilos de cannabis saisis, sept personnes déférées devant la justice à Nice'
+    url: https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/uber-shit-a-nice-71-kilos-de-cannabis-saisis-sept-personnes-deferees-devant-la-justice-3451524.html
+    publisher: France 3 Provence-Alpes-Côte d'Azur
+    date: 2026-11-18
+    language: fr
+  - title: 'Trafic de cannabis à Nice : 71 kilos saisis et sept personnes présentées à la justice'
+    url: https://policeetrealites.com/2026/11/18/trafic-de-cannabis-a-nice-71-kilos-saisis-et-sept-personnes-presentees-a-la-justice/
+    publisher: Police & Réalités
+    date: 2026-11-18
+    language: fr
 open_questions:
-  - The itemised cannabis quantities (51 kg and 15 kg of resin plus 5 kg of herb) total 71 kg; the headline rounds this to 'more than 70 kg'.
-  - The 15 kg found in several homes is not restated by substance; it follows the mention of cannabis resin and is counted as resin here.
-  - 'No court outcome was reported: the seven suspects were due before the Nice courts on 18 November 2026.'
-  - The 36 g of cocaine seized in the same searches is not included in the cannabis figures.
-  - The suspects were not named, and no value estimate for the seized cannabis was published.
-  - The account rests on the Nice prosecutor's statement as relayed by Nice-Matin; no separate account of this operation was available.
+    - The itemised cannabis quantities (51 kg and 15 kg of resin plus 5 kg of herb) total 71 kg; the headline rounds this to 'more than 70 kg'.
+    - The 15 kg found in several homes is not restated by substance; it follows the mention of cannabis resin and is counted as resin here.
+    - 'No court outcome was reported: the seven suspects were due before the Nice courts on 18 November 2026.'
+    - The 36 g of cocaine seized in the same searches is not included in the cannabis figures.
+    - The suspects were not named, and no value estimate for the seized cannabis was published.
+    - The accounts follow the Nice prosecutor's statement of 17 November 2026; no reporting independent of the investigation was available.
+    - The storage box at La Trinité is placed north of Nice by the new accounts and on the city's eastern outskirts by Nice-Matin; the reports agree it is in a neighbouring commune.
 ---
 
 Police in Nice detained eight people on 16 November 2026 while investigating
-drug deliveries to customers' homes. [@1] The operation followed six months of
+drug deliveries to customers' homes. [@1,2] The operation followed six months of
 investigation into a drug-trafficking network using the 'Ubershit' home-delivery
 model. [@1] Nice prosecutor Damien Martinelli said the inquiry began in May 2026
 under the prosecutor's specialised unit for drug trafficking via home delivery.
@@ -72,15 +83,14 @@ Nice-Ouest. [@1] Seven of those detained were due before the Nice court on
 Wednesday, while the eighth was quickly cleared. [@1]
 
 Searches took officers to the eastern outskirts of Nice, where 51 kg of cannabis
-resin was seized from a storage box at La Trinité. [@1] A further 15 kg was
+resin was seized from a storage box at La Trinité. [@1,3] A further 15 kg was
 found in several homes, with 5 kg of cannabis herb and 36 g of cocaine,
-according to the prosecutor. [@1] Officers also seized 50,000 euros in cash and
-a vehicle. [@1]
+according to the prosecutor. [@1,3] Officers also seized 50,000 euros in cash and
+a vehicle. [@1,3]
 
 Martinelli said some suspects admitted at least a minimal role while others
-contested the case and refused to give their phone unlock codes. [@1] Six men
+contested the case and refused to give their phone unlock codes. [@1,3] Six men
 and one woman aged 22 to 36, nearly all born in Nice, were due to be referred to
 court on Wednesday. [@1] Five were expected before the correctional court for an
-immediate appearance and two for a pre-trial plea procedure known as CRPC. [@1]
-Three of the suspects had prior convictions for drug trafficking. [@1]
-
+immediate appearance and two for a pre-trial plea procedure known as CRPC. [@1,3]
+Three of the suspects had prior convictions for drug trafficking. [@1,3]
