@@ -71,6 +71,10 @@ sources:
     url: https://www.yahoo.com/news/articles/joint-operation-finds-guns-cash-221524339.html
     publisher: WREG
     date: 2026-11-17
+  - title: 26 handguns.... - Memphis Police Department est.1827 | Facebook
+    url: https://www.facebook.com/mpd1827/posts/26-handguns-switches-46-pounds-of-marijuana-other-illegal-drugs-taken-off-memphi/1591523293007054/
+    publisher: Memphis Police Department est.1827
+    date: 2026-11-17
 open_questions:
   - 16 November 2026 is inferred from the reports that the search happened on a Monday and both outlets published on 17 November 2026; no calendar date for the search was stated.
   - The edibles were described only as nearly six pounds, so the 2.72 kg edibles portion and the combined 23.59 kg total are approximate.
@@ -90,16 +94,15 @@ Office and U.S. Marshals, and a woman found inside was detained. [@2]
 
 Officers recovered 26 handguns, including three fitted with machine gun
 conversion devices, three of them reported stolen, plus four additional
-conversion devices. [@2] Officers seized 46 pounds of marijuana from the
-Bartlett home. [@2] Officers also seized nearly six pounds of marijuana edibles,
+conversion devices. [@2,3] Officers seized 46 pounds of marijuana from the
+Bartlett home. [@2,3] Officers also seized nearly six pounds of marijuana edibles,
 alongside pills, suspected psilocybin mushrooms and promethazine that are not
 counted in the cannabis figures. [@1] Officers seized $11,012 in cash said to be
 tied to criminal activity, as well as phones, scales and packaging. [@2]
 
-Jones and the woman were taken into custody for further investigation. [@1] The
+Jones and the woman were taken into custody for further investigation. [@1,3] The
 woman told investigators that Jones stayed at the residence and sold marijuana
 and said none of the drugs or guns were hers. [@1] Jones was charged with
 possession of marijuana with intent to manufacture, deliver or sell, alongside
 firearm, other-drug and paraphernalia counts. [@2] Jones’ bond was set at
 $100,000. [@1]
-
