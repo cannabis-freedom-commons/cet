@@ -64,15 +64,20 @@ sources:
     publisher: DHA
     date: 2026-11-18
     language: tr
+  - title: İzmir’de yabancı bayraklı tekneden 266 kilo skunk çıktı!
+    url: https://www.denizhaber.net/izmirde-yabanci-bayrakli-tekneden-266-kilo-skunk-cikti-haber-127035.htm
+    publisher: Deniz Haber
+    date: 2026-11-19
+    language: tr
 ---
 
 Turkey's Interior Ministry said Coast Guard units patrolling Bodrumiçi Cove, in
 the Urla district of İzmir province on the Aegean coast, judged a
-foreign-flagged sailing boat suspicious during inspections in the cove. [@1,4,5,6]
+foreign-flagged sailing boat suspicious during inspections in the cove. [@1,4,5,6,7]
 Personnel of the Coast Guard's Aegean Sea Regional Command and of the İzmir
 Provincial Gendarmerie Command searched the boat, with a narcotics detector dog
-taking part. [@1,4,5,6] Officers seized 266 kilograms of skunk, a cannabis product, on
-board. [@1,4,5,6]
+taking part. [@1,4,5,6,7] Officers seized 266 kilograms of skunk, a cannabis product, on
+board. [@1,4,5,6,7]
 
 The ministry announced the seizure in a written statement and congratulated the
 two commands and everyone who took part in the operation. [@1] No arrests were
