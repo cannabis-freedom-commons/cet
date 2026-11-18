@@ -76,6 +76,11 @@ sources:
     publisher: El Deporte Conquense
     date: 2026-11-17
     language: es
+  - title: Detenido en la provincia de Cuenca cuando portaba 200 gramos de hachís y 10 de marihuana en su vehículo
+    url: https://torrijostoday.com/castilla-la-mancha/detenido-en-la-provincia-de-cuenca-cuando-portaba-200-gramos-de-hachis-y-10-de-marihuana-en-su-vehiculo/
+    publisher: Torrijos Today
+    date: 2026-11-17
+    language: es
 open_questions:
     - La Razón reported 50 grams of marijuana while ABC and the other local outlets reported about 10 grams; the report uses about 10 grams.
     - No separate date is given for the checkpoint operation; 17 November 2026 is the publication date and is used as the incident date.
@@ -84,17 +89,17 @@ open_questions:
 
 The Guardia Civil in Cuenca, acting in its tasked surveillance of the province's
 main roads and protection of public safety, detained a 50-year-old man for an
-alleged offence against public health in the form of drug trafficking. [@1,2,3,4,5,6,7] The
+alleged offence against public health in the form of drug trafficking. [@1,2,3,4,5,6,7,8] The
 events occurred during a police deployment on a public road in the natural
 district of La Alcarria in Cuenca province, carried out by officers from the
-Guardia Civil post in Cañaveras. [@1,2,3,4,5,6,7]
+Guardia Civil post in Cañaveras. [@1,2,3,4,5,6,7,8]
 
 During the operation officers identified the driver and searched a vehicle that
 had aroused their suspicion. [@1,2,5,6] Inside a suitcase in the boot officers found
-more than 200 grams of hashish and about 10 grams of marijuana. [@1,2,3,4,5,6,7] The
+more than 200 grams of hashish and about 10 grams of marijuana. [@1,2,3,4,5,6,7,8] The
 discovery led officers to seize the drugs and arrest the man for the acts under
 investigation. [@1,2,5,6]
 
 The detainee was placed, together with the case papers drawn up and the seized
 items, at the disposal of the Civil and Investigation Section of the duty Court
-of Instance in Cuenca. [@1,2,3,4,5,6,7]
+of Instance in Cuenca. [@1,2,3,4,5,6,7,8]
