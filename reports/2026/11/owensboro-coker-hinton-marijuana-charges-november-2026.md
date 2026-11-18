@@ -38,6 +38,11 @@ media:
     media_url: https://gray-wfie-prod.gtv-cdn.com/resizer/v2/TS4DBKDKO5FSPORV3HH2XIMYMA.png?auth=3568661d979c749ac0bc41c573d263d8e613ae9b0aa104884551c28084452585&width=980&height=551&smart=true
     publisher: WFIE/14News
     caption: 'Mugshots of Tehryon T. Coker Sr. and Khalil D. “K.D.” Hinton, the two men arrested. Photo: Daviess County Sheriff''s Office'
+  - kind: photo
+    url: https://www.tristatehomepage.com/news/local-news/daviess-county/owensboro-news/daviess-county-detectives-bust-synthetic-marijuana-operation/
+    media_url: https://www.tristatehomepage.com/wp-content/uploads/sites/92/2026/11/image_93ee23.png?resize=876,653
+    publisher: Eyewitness News (WEHT/WTVW)
+    caption: 'Sheriff''s Office handout photo published with the report on the two Owensboro searches and the charges against Coker and Hinton. Photo: Daviess County Sheriff''s Office'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: c09928e9c04e8ebb8103957a1e54e7b9
@@ -51,6 +56,10 @@ sources:
     url: https://www.14news.com/2026/11/18/guns-drugs-cash-seized-owensboro-spice-investigation/
     publisher: WFIE/14News
     date: 2026-11-18
+  - title: Daviess County detectives bust synthetic marijuana operation
+    url: https://www.tristatehomepage.com/news/local-news/daviess-county/owensboro-news/daviess-county-detectives-bust-synthetic-marijuana-operation/
+    publisher: Eyewitness News (WEHT/WTVW)
+    date: 2026-11-18
 open_questions:
   - No weight, plant count, area or street value for cannabis was published; the 'large amount of cash' was not given a figure.
   - The sources do not say when the alleged marijuana trafficking and possession occurred; 17 November 2026 is the date of the searches and arrests.
@@ -59,21 +68,20 @@ open_questions:
 ---
 
 Tehryon T. Coker Sr. and Khalil D. “K.D.” Hinton were arrested during the
-investigation. [@2] Detectives and patrol deputies executed search warrants
+investigation. [@2,3] Detectives and patrol deputies executed search warrants
 around 1:50 p.m. Nov. 17 at a residence in the 700 block of Deer Trail belonging
 to Coker and a residence in the 2300 block of Clarke Drive associated with
-Hinton. [@1] The investigation had been under way for several months. [@1]
+Hinton. [@1,3] The investigation had been under way for several months. [@1,3]
 
 Hinton was charged with trafficking in marijuana, first offense, firearm
-enhanced. [@1] Coker was charged with possession of marijuana, firearm enhanced.
-[@1] Hinton was also charged with trafficking in synthetic drugs, first offense,
-firearm enhanced. [@1]
+enhanced. [@1,3] Coker was charged with possession of marijuana, firearm enhanced.
+[@1,3] Hinton was also charged with trafficking in synthetic drugs, first offense,
+firearm enhanced. [@1,3] Both Coker and Hinton were booked into the Daviess County Detention Center. [@3]
 
 Items seized during the searches included baggies, digital scales, chemicals
 believed to be used in manufacturing, imported leaf products, four handguns, a
-ballistic vest, ammunition, four vehicles and a large amount of cash. [@1] One
+ballistic vest, ammunition, four vehicles and a large amount of cash. [@1,3] One
 handgun had been reported stolen from Muhlenberg County and another had a
 defaced serial number. [@1] The DCSO Special Investigations Unit said it was
 continuing the investigation and anticipated additional search warrants and
 charges. [@1]
-
