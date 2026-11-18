@@ -43,6 +43,21 @@ media:
     media_url: https://s1.tvp.pl/images2/1/c/f/uid_1cff4aec0d5043539990a374257bd9a2_width_900_play_0_pos_0_gs_0_height_506.jpg
     publisher: TVP3 Łódź
     caption: 'The detained man, in a police handout published with the arrest report. Photo: KPP w Pabianicach'
+  - kind: photo
+    url: https://www.nowezyciepabianic.pl/2026/11/18/narkotyki-w-samochodzie-i-mieszkaniu/
+    media_url: https://www.nowezyciepabianic.pl/wp-content/uploads/2026/11/policja-narkotyki-3-768x576.jpg
+    publisher: Nowe Życie Pabianic
+    caption: 'Police handout photo of the seized bags of plant material and white substance. Photo: Policja'
+  - kind: photo
+    url: https://www.nowezyciepabianic.pl/2026/11/18/narkotyki-w-samochodzie-i-mieszkaniu/
+    media_url: https://www.nowezyciepabianic.pl/wp-content/uploads/2026/11/policja-narkotyki-2-1-768x576.jpg
+    publisher: Nowe Życie Pabianic
+    caption: 'Police handout photo of the seized drugs laid out after the search. Photo: Policja'
+  - kind: photo
+    url: https://www.nowezyciepabianic.pl/2026/11/18/narkotyki-w-samochodzie-i-mieszkaniu/
+    media_url: https://www.nowezyciepabianic.pl/wp-content/uploads/2026/11/policja-narkotyki-1-1.jpg
+    publisher: Nowe Życie Pabianic
+    caption: 'Police handout photo of the seized substances from the Konstantynów Łódzki case. Photo: Policja'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 7ee2f80062be6c37d95b478c91445ffe
@@ -63,6 +78,11 @@ sources:
     publisher: PabianiceInfo.pl
     date: 2026-11-18
     language: pl
+  - title: Narkotyki w samochodzie i mieszkaniu
+    url: https://www.nowezyciepabianic.pl/2026/11/18/narkotyki-w-samochodzie-i-mieszkaniu/
+    publisher: Nowe Życie Pabianic
+    date: 2026-11-18
+    language: pl
 open_questions:
   - 'The weights are approximate: the car samples are given as over 58 and over 53 grams, the flat samples as over 2 and nearly 59 grams; the marijuana total of over 60 grams sums the two plant-material figures.'
   - The combined figure of over 170 grams covers both marijuana and amphetamine, so it is not used as a cannabis weight.
@@ -75,21 +95,20 @@ open_questions:
 
 Police in Konstantynów Łódzki stopped a 28-year-old Volkswagen driver just after
 17:00 on 14 November 2026 on suspicion that he was carrying forbidden
-substances. [@2] The 28-year-old was charged with possession of a significant
-quantity of narcotic substances. [@1]
+substances. [@2,4] The 28-year-old was charged with possession of a significant
+quantity of narcotic substances. [@1,4]
 
 Under the passenger seat officers found two sealed bags, one holding over 58
 grams of dried plant material and the other over 53 grams of a white substance,
 which preliminary tests identified as marijuana and amphetamine respectively.
-[@1] A search of the 28-year-old's home uncovered a further over 2 grams of
+[@1,4] A search of the 28-year-old's home uncovered a further over 2 grams of
 plant material and nearly 59 grams of white substance, split into small portions
 in ziplock bags, and preliminary tests there also indicated prohibited drugs.
-[@1] Together the two plant-material samples amount to over 60 grams of
+[@1,4] Together the two plant-material samples amount to over 60 grams of
 marijuana, while police put the combined haul of marijuana and amphetamine at
 more than 170 grams. [@1]
 
 Officers also took a blood sample and seized the driver's licence while they
 checked whether he had been driving under the influence of psychotropic
-substances. [@1] Possession of a significant quantity of narcotics carries a
+substances. [@1,4] Possession of a significant quantity of narcotics carries a
 sentence of up to 10 years in prison. [@3]
-
