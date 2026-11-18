@@ -67,6 +67,11 @@ sources:
     publisher: Hey Haber
     date: 2026-11-17
     language: tr
+  - title: 'Bilecik’te skunk operasyonu: 4 şüpheli tutuklandı'
+    url: https://www.aksiyon.com.tr/bilecik-te-skunk-operasyonu-4-supheli-tutuklandi-396290
+    publisher: Aksiyon
+    date: 2026-11-17
+    language: tr
 media:
   - kind: photo
     url: https://heyhaber.com/bilecik-te-16-kilo-155-gram-skunk-ele-gecirildi-4-kisi-tutuklandi
@@ -77,16 +82,16 @@ media:
 
 Bilecik provincial police's anti-narcotics branch, the Narcotic Crimes Combating
 Branch, carried out the operation on Sunday 15 November 2026, searching two
-vehicles it had identified and four suspects. [@1,4] Officers searched both the
+vehicles it had identified and four suspects. [@1,4,6] Officers searched both the
 cars and the four suspects themselves, and seized a total of 16 kilograms 155
-grams (16,155 grams) of skunk. [@1,4,5] Anadolu Ajansı reported that the two cars
+grams (16,155 grams) of skunk. [@1,4,5,6] Anadolu Ajansı reported that the two cars
 were searched in the city centre of Bilecik. [@2]
 
 The four suspects were held at the police station for processing and then
-brought before a court, which remanded them in custody. [@1,4] The court remanded
+brought before a court, which remanded them in custody. [@1,4,6] The court remanded
 them on charges of buying, accepting or possessing drugs for personal use and of
-manufacturing and trading drugs. [@1,4,5] The İhlas News Agency reported that the
-four were then taken to Bilecik M Type Closed Prison. [@3,5]
+manufacturing and trading drugs. [@1,4,5,6] The İhlas News Agency reported that the
+four were then taken to Bilecik M Type Closed Prison. [@3,5,6]
 
 Bilecik police said the operation was part of their continuing work to prevent
 the trading and use of drugs in the province. [@1]
