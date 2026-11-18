@@ -65,6 +65,11 @@ sources:
     url: https://www.thenewsminute.com/story/kerala/203-kg-ganja-worth-over-rs-1-cr-seized-t-puram-murder-accused-among-arrested-133660
     publisher: The News Minute
     date: 2020-09-22
+  - title: ജീവപര്യന്തത്തിനു പിന്നാലെ 14 വർഷം കഠിനതടവും; രഞ്ജിത്ത് വധക്കേസ് പ്രതിക്ക് കഞ്ചാവ് കേസിലും ശിക്ഷ
+    url: https://www.manoramaonline.com/news/latest-news/2026/11/18/mannanthala-ranjith-murder-case-convict-gets-14-years-in-ganja-case.html
+    publisher: Malayala Manorama Online
+    date: 2026-11-18
+    language: ml
 open_questions:
   - No date is given for the verdict itself; 18 November 2026 is the publication date of the court report and is used as the sentencing date.
   - Malayala Manorama dates the seizure to 22 September 2021, while The News Minute reported it on 22 September 2020.
@@ -72,24 +77,24 @@ open_questions:
   - The verdict report does not name the offences or the provisions under which the three were convicted.
   - No information was published on whether the three will appeal or what sentence the acquitted accused could have faced.
   - The verdict lists five accused in all, while The News Minute reported three arrests in 2020, so it is not clear when the other two were added to the case.
+  - The article does not say whether the 14-year term runs after, or alongside, the life sentence he received in the Mannanthala Ranjith murder case.
 ---
 
 The First Additional Sessions Court in Thiruvananthapuram sentenced three men to
 14 years' rigorous imprisonment each and a fine of one lakh rupees each in a 206
 kg ganja case. [@1] Judge K.P. Anilkumar of the First Additional Sessions Court
-passed the sentence. [@1] The three convicted were 38, 44 and 36 years old. [@1]
+passed the sentence. [@1,3] The three convicted were 38, 44 and 36 years old. [@1] One of the three convicted, Suresh, is the twelfth accused in the Mannanthala Ranjith murder case, in which he was sentenced to life imprisonment the same day. [@3]
 The court acquitted the fourth and fifth accused, finding them not guilty. [@1]
 Each convict must serve one more year in prison if the fine is not paid. [@1]
 
 Excise officers blocked the cars in which the accused were travelling near Orion
-Plaza at Balaramapuram and arrested them. [@1] Officers seized 206 kg of ganja
+Plaza at Balaramapuram and arrested them. [@1,3] Officers seized 206 kg of ganja
 from the two cars. [@1] Malayala Manorama dates the seizure to 22 September
 2021. [@1] The excise team caught the men at 7.10 am as they moved the ganja in
-two Innova cars, the report says. [@1] The News Minute reported the seizure on
+two Innova cars, the report says. [@1,3] The News Minute reported the seizure on
 22 September 2020, saying the State Excise Enforcement Squad had that Tuesday
 seized 203 kg of ganja smuggled from Andhra Pradesh to Kerala. [@2] It said the
 ganja had been carried from Andhra Pradesh to Kerala via Bengaluru. [@2] Three
 men were arrested at the time, it reported. [@2] The two Innova cars used to
 transport the drugs were taken into custody. [@2] Special public prosecutor B.L.
 Manesh and advocate J. Praveena appeared for the prosecution. [@1]
-
