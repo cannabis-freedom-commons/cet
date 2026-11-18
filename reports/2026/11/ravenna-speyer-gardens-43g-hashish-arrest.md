@@ -52,32 +52,48 @@ sources:
     publisher: Corriere Romagna
     date: 2026-11-18
     language: it
+  - title: 'Pizzicato durante la cessione di droga, sequestrati droga e hashish: 25enne finisce in manette'
+    url: https://www.ravennatoday.it/cronaca/arresto-spaccio-giardini-speyer-droga.html
+    publisher: RavennaToday
+    date: 2026-11-18
+    language: it
+  - title: Spaccio ai Giardini Speyer, arrestato 25enne con hashish e cocaina
+    url: https://www.ravennanotizie.it/2026/11/18/spaccio-ai-giardini-speyer-arrestato-25enne-con-hashish-e-cocaina/629528/
+    publisher: RavennaNotizie
+    date: 2026-11-18
+    language: it
 open_questions:
-  - The hashish is given only as about 43 grams; no exact measured weight was reported.
-  - No weight is given for the dose of cocaine, which is excluded from the cannabis figures.
-  - The incident date of 16 November 2026 is derived from "lunedì scorso" in articles published on 18 November 2026; no calendar date is printed.
-  - No plea, trial outcome or sentence from the direct trial was reported.
-  - The hashish is described as suspected narcotic without laboratory confirmation, and the man as the presumed perpetrator.
-  - No estimate of the drugs' value was published.
-  - The youth who received the packet had not been identified in the reporting.
-  - Both accounts reproduce the same Carabinieri statement and are not independent reporting.
+    - The hashish is given only as about 43 grams; no exact measured weight was reported.
+    - No weight is given for the dose of cocaine, which is excluded from the cannabis figures.
+    - The incident date of 16 November 2026 is derived from "lunedì scorso" in articles published on 18 November 2026; no calendar date is printed.
+    - No plea, trial outcome or sentence from the direct trial was reported.
+    - The hashish is described as suspected narcotic without laboratory confirmation, and the man as the presumed perpetrator.
+    - No estimate of the drugs' value was published.
+    - The youth who received the packet had not been identified in the reporting.
+    - The accounts of the arrest reproduce the same Carabinieri statement and are not independent reporting.
+    - The photo of the seizure shows cash along with the drugs, but no sum of money seized was reported.
+media:
+  - kind: photo
+    url: https://www.ravennatoday.it/cronaca/arresto-spaccio-giardini-speyer-droga.html
+    media_url: https://citynews-ravennatoday.stgy.ovh/~media/horizontal-hi/6219779489163/carabinieri-sequestro-droga-speyer-2.jpg
+    publisher: RavennaToday
+    caption: 'Packets of drugs and cash seized by the Carabinieri in the operation at the Speyer gardens, in the photo published with the report of the arrest. Photo: Carabinieri'
 ---
 
 Carabinieri from the Ravenna via Alberoni station arrested a 25-year-old foreign
 national already known to police in the Speyer gardens area on Monday 16
-November 2026. [@2] The station was running a service specifically aimed at
-preventing and repressing drug offences. [@2] Officers saw him hand a packet to
-a youth who was still being identified. [@2] He tried to flee when he saw the
-Carabinieri but was caught and stopped. [@2]
+November 2026. [@2,3] The station was running a service specifically aimed at
+preventing and repressing drug offences. [@2,3] Officers saw him hand a packet to
+a youth who was still being identified. [@2,4] He tried to flee when he saw the
+Carabinieri but was caught and stopped. [@2,3]
 
 A personal search found about 43 grams of hashish and one dose of cocaine, and
-all the material was seized. [@1] He was taken to the barracks, declared under
+all the material was seized. [@1,3] Cash was seized along with the drugs, and no amount of money was reported. [@3] He was taken to the barracks, declared under
 arrest and held in the security rooms awaiting a direct trial (rito
 direttissimo, the fast-track procedure). [@1] On the morning of 17 November a
-judge of the Tribunal of Ravenna validated the arrest. [@1]
+judge of the Tribunal of Ravenna validated the arrest. [@1,4]
 
 The Carabinieri described him as the suspected person responsible for detention
 and dealing of narcotics. [@1] The Corriere Romagna account of the same
 Carabinieri statement gives the suspected offence as production, trafficking and
 detention for the purpose of dealing. [@2]
-
