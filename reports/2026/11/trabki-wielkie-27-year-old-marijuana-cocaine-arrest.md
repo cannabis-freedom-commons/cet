@@ -49,28 +49,32 @@ sources:
     publisher: Komenda Powiatowa Policji w Pruszczu Gdańskim
     date: 2026-11-17
     language: pl
+  - title: 27-latek zatrzymany z kokainą i marihuaną. Wpadł podczas policyjnego patrolu
+    url: https://naszpruszcz.pl/pl/723_na-sygnale/32578_27-latek-zatrzymany-z-kokaina-i-marihuana-wpadl-podczas-policyjnego-patrolu.html
+    publisher: naszpruszcz.pl
+    date: 2026-11-17
+    language: pl
 open_questions:
-  - No weight or quantity was given for the marijuana or the cocaine, so the amount seized cannot be stated.
-  - The specific locality within gmina Trąbki Wielkie where the stop took place is not named.
-  - No court outcome or trial date was reported; the case had reached the stage of a formal charge.
-  - The account comes solely from the police announcement; no independent reporting of the event was found.
-  - The source first calls the man a pedestrian but then says officers stopped a car, so the precise circumstances of the stop are unclear.
+    - No weight or quantity was given for the marijuana or the cocaine, so the amount seized cannot be stated.
+    - The specific locality within gmina Trąbki Wielkie where the stop took place is not named.
+    - No court outcome or trial date was reported; the case had reached the stage of a formal charge.
+    - The accounts come from the same police announcement; the naszpruszcz.pl page republishes that statement and is not independent reporting.
+    - The source first calls the man a pedestrian but then says officers stopped a car, so the precise circumstances of the stop are unclear.
 ---
 
 Police in Trąbki Wielkie and Pszczółki detained a 27-year-old man who was
-carrying cocaine and marijuana. [@1] The encounter began on the afternoon of
+carrying cocaine and marijuana. [@1,2] The encounter began on the afternoon of
 Sunday 15 November 2026, while officers were patrolling a locality of gmina
 Trąbki Wielkie and noticed a pedestrian behaving nervously at the sight of their
-patrol car. [@1]
+patrol car. [@1,2]
 
 During the resulting conversation officers smelled a characteristic odour of
-marijuana from the 27-year-old. [@1] A further search found a small package of
+marijuana from the 27-year-old. [@1,2] A further search found a small package of
 dried plant material and a white powder on the gmina resident, which officers
-preliminarily identified as marijuana and cocaine. [@1] The seized drugs were
+preliminarily identified as marijuana and cocaine. [@1,2] The seized drugs were
 sent for specialist testing and an expert confirmed the officers' preliminary
-findings. [@1]
+findings. [@1,2]
 
 The evidence allowed investigators to charge the 27-year-old with possessing
-narcotic substances. [@1] That offence is punishable by up to three years'
-imprisonment. [@1]
-
+narcotic substances. [@1,2] That offence is punishable by up to three years'
+imprisonment. [@1,2]
