@@ -87,6 +87,11 @@ sources:
     publisher: GZT
     date: 2026-11-17
     language: tr
+  - title: 'Bilecik''te uyuşturucu operasyonu: 16 kilo skunk ele geçirildi'
+    url: https://www.iscihaber.net/yerel-haberler/bilecikte-uyusturucu-operasyonu-16-kilo-skunk-ele-gecirildi/282814
+    publisher: İşçi Haber
+    date: 2026-11-17
+    language: tr
 media:
   - kind: photo
     url: https://heyhaber.com/bilecik-te-16-kilo-155-gram-skunk-ele-gecirildi-4-kisi-tutuklandi
@@ -103,20 +108,22 @@ media:
     media_url: https://img.piri.net/piri/upload/3/2026/11/17/2a809169-9086361f-01b5-435d-b988-406c78ab8b5f.webp
     publisher: GZT
     caption: 'IHA photo published with the GZT account, captioned ''Bilecik''te araçlarında uyuşturucu bulunan 4 zanlı tutuklandı.'' Photo: IHA'
+open_questions:
+  - 'Accounts differ slightly on where the cars were stopped: Anadolu Ajansı reported a search in Bilecik city centre, while this account describes checks on vehicles entering the city.'
 ---
 
 Bilecik provincial police's anti-narcotics branch, the Narcotic Crimes Combating
 Branch, carried out the operation on Sunday 15 November 2026, searching two
 vehicles it had identified and four suspects. [@1,4,6] Officers searched both the
 cars and the four suspects themselves, and seized a total of 16 kilograms 155
-grams (16,155 grams) of skunk. [@1,4,5,6,7,8,9] Anadolu Ajansı reported that the two cars
+grams (16,155 grams) of skunk. [@1,4,5,6,7,8,9,10] Anadolu Ajansı reported that the two cars
 were searched in the city centre of Bilecik. [@2,9]
 
 The four suspects were held at the police station for processing and then
-brought before a court, which remanded them in custody. [@1,4,6,7,8,9] The court remanded
+brought before a court, which remanded them in custody. [@1,4,6,7,8,9,10] The court remanded
 them on charges of buying, accepting or possessing drugs for personal use and of
-manufacturing and trading drugs. [@1,4,5,6] The İhlas News Agency reported that the
-four were then taken to Bilecik M Type Closed Prison. [@3,5,6]
+manufacturing and trading drugs. [@1,4,5,6,10] The İhlas News Agency reported that the
+four were then taken to Bilecik M Type Closed Prison. [@3,5,6,10]
 
 Bilecik police said the operation was part of their continuing work to prevent
-the trading and use of drugs in the province. [@1]
+the trading and use of drugs in the province. [@1,10]
