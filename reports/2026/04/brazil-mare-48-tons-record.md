@@ -74,6 +74,10 @@ sources:
     publisher: RSM - Revista Sociedade Militar
     date: 2026-11-16
     language: pt
+  - title: Sniffer dog honoured with statue after finding 48 TONNES of cannabis
+    url: https://needtoknow.co.uk/2026/11/17/sniffer-dog-honoured-with-statue/
+    publisher: Need To Know
+    date: 2026-11-17
 media:
   - kind: photo
     url: https://www.cnnbrasil.com.br/nacional/sudeste/rj/48-toneladas-de-maconha-pm-do-rio-faz-maior-apreensao-de-drogas-do-brasil/
@@ -85,6 +89,36 @@ media:
     media_url: https://imagenes.elpais.com/resizer/v2/T2DB2VPBNJBLJGUKDR4YVLW5GQ.jpg?auth=204e6bbb35d9544763d3481aa6428246bcb2d4ebb751341bdb286f2b1f689254&width=1200
     publisher: El País
     caption: 'The seized marijuana load displayed in Rio de Janeiro on Wednesday 8 April 2026, in the photo published with the El País report. Photo: Ricardo Moraes/Reuters'
+  - kind: photo
+    url: https://needtoknow.co.uk/2026/11/17/sniffer-dog-honoured-with-statue/
+    media_url: https://needtoknow.co.uk/wp-content/uploads/2026/11/hero-sniffer-dog-who-uncovered-48-tonnes-of-cannabis-in-largest-ever-d-featured-1536x864.webp
+    publisher: Need To Know
+    caption: Hulk the Belgian Malinois sniffer dog with police officers and their dogs in front of seized cannabis bricks.
+  - kind: photo
+    url: https://needtoknow.co.uk/2026/11/17/sniffer-dog-honoured-with-statue/
+    media_url: https://needtoknow.co.uk/wp-content/uploads/2026/11/hero-sniffer-dog-who-uncovered-48-tonnes-of-cannabis-in-largest-ever-d-2.webp
+    publisher: Need To Know
+    caption: 'Hulk, the sniffer dog, in front of his statue at the Dog Action Battalion headquarters. Photo: Jam Press/Polícia Militar do Estado do Rio de Janeiro'
+  - kind: photo
+    url: https://needtoknow.co.uk/2026/11/17/sniffer-dog-honoured-with-statue/
+    media_url: https://needtoknow.co.uk/wp-content/uploads/2026/11/hero-sniffer-dog-who-uncovered-48-tonnes-of-cannabis-in-largest-ever-d-3-768x637.webp
+    publisher: Need To Know
+    caption: 'Hulk, the Belgian Malinois sniffer dog that found the bunker. Photo: Jam Press/Polícia Militar do Estado do Rio de Janeiro'
+  - kind: photo
+    url: https://needtoknow.co.uk/2026/11/17/sniffer-dog-honoured-with-statue/
+    media_url: https://needtoknow.co.uk/wp-content/uploads/2026/11/hero-sniffer-dog-who-uncovered-48-tonnes-of-cannabis-in-largest-ever-d-4-1024x576.webp
+    publisher: Need To Know
+    caption: 'Firearms and weapons seized during the Maré operation. Photo: Jam Press/Polícia Militar do Estado do Rio de Janeiro'
+  - kind: photo
+    url: https://needtoknow.co.uk/2026/11/17/sniffer-dog-honoured-with-statue/
+    media_url: https://needtoknow.co.uk/wp-content/uploads/2026/11/hero-sniffer-dog-who-uncovered-48-tonnes-of-cannabis-in-largest-ever-d-5-1024x576.webp
+    publisher: Need To Know
+    caption: 'Firearms and weapons seized during the Maré operation. Photo: Jam Press/Polícia Militar do Estado do Rio de Janeiro'
+  - kind: video
+    url: https://needtoknow.co.uk/2026/11/17/sniffer-dog-honoured-with-statue/
+    media_url: https://needtoknow.co.uk/wp-content/uploads/2026/11/hero-sniffer-dog-who-uncovered-48-tonnes-of-cannabis-in-largest-ever-d-1.mp4
+    publisher: Need To Know
+    caption: Footage of sniffer dog Hulk and the record cannabis seizure. Jam Press/Polícia Militar do Estado do Rio de Janeiro
 open_questions:
   - Accounts differ on whether the Maré operation took place on 7 or 8 April 2026.
 ---
@@ -92,17 +126,17 @@ open_questions:
 At least 48 tons of marijuana worth around R$50 million wholesale were seized
 in a Military Police operation in the Parque União and Nova Holanda
 communities of Complexo da Maré, Rio de Janeiro, on Tuesday, April 7, 2026 —
-the largest drug seizure in the country's history. [@1,3,5,6,7]
+the largest drug seizure in the country's history. [@1,3,5,6,7,8]
 
 More than 250 officers with armored vehicles and aircraft took part in the
 raid targeting criminal groups and vehicle and cargo robberies. [@1] Sniffer
 dogs from the BAC battalion located the stockpile in a bunker on a
 construction site: more than 24,000 tablets of about two kilograms each,
-hauled out in cargo trucks. [@1,6] Lieutenant Colonel Luciano Pedro Barbosa da Silva, commander of the Canine Operations Battalion, said a dog's sense of smell is 100,000 times more powerful than a human's and that Hulk's behaviour made officers suspect something was wrong. [@4] Hulk alerted officers to a sealed cistern covered with concrete that hid the entrance to the bunker. [@4,7] The dog that found the stockpile was Hulk, a four-year-old Belgian shepherd of the Canine Operations Battalion. [@4,6,7]
+hauled out in cargo trucks. [@1,6,8] Lieutenant Colonel Luciano Pedro Barbosa da Silva, commander of the Canine Operations Battalion, said a dog's sense of smell is 100,000 times more powerful than a human's and that Hulk's behaviour made officers suspect something was wrong. [@4] Hulk alerted officers to a sealed cistern covered with concrete that hid the entrance to the bunker. [@4,7,8] The dog that found the stockpile was Hulk, a four-year-old Belgian shepherd of the Canine Operations Battalion. [@4,6,7,8] Hulk also became the first animal to receive the Tiradentes Medal, the highest honour awarded by the Legislative Assembly of the State of Rio de Janeiro. [@8] Hulk was later honoured with a statue at the headquarters of the Military Police's Dog Action Battalion in Olaria. [@8]
 
 Officers also seized five rifles, four pistols, lança-perfume flasks and
 about 200 liters of production material, and recovered 26 stolen vehicles —
-nine cars and 17 motorcycles. [@1,4,5] After the shooting stopped, officers found a man suspected of taking part in the attack, seized a fifth rifle with him and took him to Hospital de Bonsucesso, where he remained under custody. [@3,5] During the removal, a BOPE team was attacked by armed criminals and a confrontation followed. [@3] One man was arrested and taken with all
+nine cars and 17 motorcycles. [@1,4,5,8] After the shooting stopped, officers found a man suspected of taking part in the attack, seized a fifth rifle with him and took him to Hospital de Bonsucesso, where he remained under custody. [@3,5] During the removal, a BOPE team was attacked by armed criminals and a confrontation followed. [@3] One man was arrested and taken with all
 the material to the 21st precinct in Bonsucesso; police also found a container
 used to store drugs in a warehouse near Avenida Brasil in Nova Holanda. [@1,4]
 
