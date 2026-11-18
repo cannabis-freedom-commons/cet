@@ -50,14 +50,15 @@ sources:
     url: https://www.siasat.com/snapchat-orders-crypto-payments-eagle-force-busts-ganja-network-3580539/
     publisher: The Siasat Daily
     date: 2026-11-18
-open_questions:
-    - The force reported the ganja (1,240 grams) and OG Kush (16.59 grams) separately, and this report totals them at about 1.257 kg of cannabis.
-    - No value estimate for the seized cannabis was published.
-    - The figure of 800–900 consumers is what the accused disclosed to police, not a verified customer count.
-    - The alleged main supplier, Shaik Farahan of Mumbai, was absconding and had not been arrested.
-    - No charge sheet, plea or court outcome was reported after the three were produced for judicial remand.
-    - Police said the RedotPay wallet examination was continuing, so whether the roughly 150 transactions are cannabis proceeds is not established.
-    - No laboratory confirmation of the seized ganja and OG Kush was reported.
+  - title: 'Hyderabad Drug Racket Busted: 3 Arrested for Supplying OG Kush via Snapchat Using Cryptocurrency - NTV Telugu'
+    url: https://ntvtelugu.com/crime-stories/hyderabad-drug-racket-busted-3-arrested-for-supplying-og-kush-via-snapchat-using-cryptocurrency-1036426.html
+    publisher: NTV Telugu
+    date: 2026-11-18
+    language: te
+  - title: Three arrested as Telangana’s EAGLE Force busts Snapchat-based drug network in Hyderabad
+    url: https://thehindu.com/news/cities/Hyderabad/three-arrested-as-telanganas-eagle-force-busts-drug-network-in-hyderabad/article71715376.ece
+    publisher: The Hindu
+    date: 2026-11-18
 media:
   - kind: photo
     url: https://www.siasat.com/snapchat-orders-crypto-payments-eagle-force-busts-ganja-network-3580539/
@@ -67,22 +68,22 @@ media:
 ---
 
 Telangana's EAGLE Force arrested three people in Hyderabad and seized 1.24 kg of
-ganja, 16.59 grams of OG Kush, three mobile phones and a car. [@1,2] The arrested
+ganja, 16.59 grams of OG Kush, three mobile phones and a car. [@1,2,3] The arrested
 men were Mohammed Idres Kaleem, 28, Syed Abbas Husaini, 30, and Mohammed Sheikh,
-23. [@1,2] Idres and Abbas allegedly managed the Snapchat accounts and handled customer orders, while Sheikh, a cab driver, delivered the contraband to customers at different locations in the city. [@2] The operation followed information that ganja and OG Kush were being
+23. [@1,2,4] Idres and Abbas allegedly managed the Snapchat accounts and handled customer orders, while Sheikh, a cab driver, delivered the contraband to customers at different locations in the city. [@2] The operation followed information that ganja and OG Kush were being
 moved in a white Maruti Tour H3 car on 15 November. [@1] Officers intercepted
 the car at about 6.35 pm as the three returned from Lanco Hills towards JA Royal
-Suites in Shirdi Sai Nagar, Manikonda. [@1] A search of the car found 1,240
+Suites in Shirdi Sai Nagar, Manikonda. [@1,3] The white Maruti Tour H3 car bore registration TG 07 Y 2937 and was stopped with help from the CLUES team. [@3] A search of the car found 1,240
 grams of ganja, 16.59 grams of OG Kush, a ganja crusher and three mobile phones,
 and the car was seized. [@1,2]
 
 Police said the men ran Snapchat accounts named ‘OGdude420’ and ‘Dude OG 420’ to
-take orders and coordinate deliveries. [@1,2] After the first account was blocked,
+take orders and coordinate deliveries. [@1,2,4] After the first account was blocked,
 they created a new one under the name 'Dude OG 420' and carried on, police said.
 [@1] Their disclosures indicated they had supplied OG Kush to about 800–900
-consumers through online contacts, according to police. [@1,2] An analysis of the
+consumers through online contacts, according to police. [@1,2,3] An analysis of the
 wallet history found about 150 cryptocurrency transactions involving around 60
-consumers. [@1] An examination of Abbas’ mobile phone also revealed a RedotPay account with an option to deposit USDT cryptocurrency through the BNB Smart Chain network. [@2] Idres reportedly operated a cryptocurrency account for transactions involving the purchase and sale of OG Kush. [@2] Police identified Mumbai resident Shaik Farahan as the alleged
+consumers. [@1] An examination of Abbas’ mobile phone also revealed a RedotPay account with an option to deposit USDT cryptocurrency through the BNB Smart Chain network. [@2] Police linked the RedotPay USDT wallet to a Hong Kong-based crypto platform and said 11 users who sent money to it and another suspected peddler had been identified. [@3] Idres reportedly operated a cryptocurrency account for transactions involving the purchase and sale of OG Kush. [@2] Police identified Mumbai resident Shaik Farahan as the alleged
 main supplier of ganja and OG Kush to the network. [@1] Idres allegedly repacked the drugs into small sachets of about five grams each and handed them over to Sheikh for delivery. [@2] Idres and Sheikh allegedly procured bulk quantities of ganja and OG Kush from supplier Shaik Farahan, based in Mumbai, and transported the contraband to Hyderabad by bus. [@2] Farahan was absconding
 and police were trying to trace and arrest him. [@1]
 
@@ -90,7 +91,7 @@ A case was registered under sections 8(c), 20(b)(ii)(B), 27A and 29 of the NDPS
 Act. [@1] The three were produced before a court for judicial remand after their
 arrest at 11:30 pm on 15 November. [@1] Police said Idres and Abbas had been
 arrested in an OG Kush consignment case registered by the Narcotics Control
-Bureau in Bengaluru in 2021–22. [@1] Idres was detained at Rajiv Gandhi
+Bureau in Bengaluru in 2021–22. [@1] Cases against Idres were also registered at Charminar, Balapur, Golconda and Mehdipatnam police stations. [@3] Idres and Abbas spent 15 days in jail in the 2021-22 Bengaluru NCB OG Kush case. [@3] Idres was detained at Rajiv Gandhi
 International Airport on 24 December 2025 over a case registered by Balapur
 police. [@1] He was held in Cherlapally Central Prison for about 73 days and
 released on bail on 8 March 2026. [@1]
