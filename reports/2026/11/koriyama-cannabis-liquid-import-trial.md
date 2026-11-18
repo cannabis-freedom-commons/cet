@@ -61,36 +61,43 @@ sources:
     publisher: 福島民報
     date: 2026-07-29
     language: ja
+  - title: 大麻リキッド密輸入、起訴内容認める　郡山の31歳被告、初公判
+    url: https://www.minyu-net.com/news/detail/2026111907320057402
+    publisher: 福島民友新聞
+    date: 2026-11-19
+    language: ja
+  - title: 大麻リキッド密輸入、起訴内容認める　郡山の31歳被告、初公判
+    url: https://www.47news.jp/15252664.html
+    publisher: 47NEWS
+    date: 2026-11-19
+    language: ja
 open_questions:
-  - The court that held the first hearing, and where it sits, was not named.
-  - The 2,570-gram quantity and 25-million-yen value were published at the July 2026 arrest stage and were not repeated at the first hearing.
-  - The liquid is described only as cannabis liquid; no THC concentration or laboratory analysis was reported.
-  - Only Rei Hayakawa's case is reported; the charges and any trial or sentence for his brother Naoya are not known.
-  - No details of the defence's suspended-sentence request were reported.
-  - The judgment is scheduled for 7 January 2027; the outcome is not yet known.
-  - It is not known whether Rei Hayakawa was in custody or on bail during the trial.
-  - The 25 million yen is described as the street value at the time of the arrest, not the price paid for the imports.
-  - The exact end date of the import period is given only as more than two months from October 2025.
-  - The overseas suppliers and how the brothers were recruited are not known.
-  - 'Left out, as its quotation was not found in ふくしまNEWS KFB福島放送: Police said he and his younger brother Naoya, then 26, were suspected of importing about 2,570 grams of cannabis liquid from the United States and Britain in 13 air-cargo shipments, with a street value of about 25 million yen.'
-  - Left out products, as its quotation was not found in ふくしまNEWS KFB福島放送.
+    - The 2,570-gram quantity and 25-million-yen value were published at the July 2026 arrest stage and were not repeated at the first hearing.
+    - The liquid is described only as cannabis liquid; no THC concentration or laboratory analysis was reported.
+    - Only Rei Hayakawa's case is reported; the charges and any trial or sentence for his brother Naoya are not known.
+    - The judgment is scheduled for 7 January 2027; the outcome is not yet known.
+    - It is not known whether Rei Hayakawa was in custody or on bail during the trial.
+    - The 25 million yen is described as the street value at the time of the arrest, not the price paid for the imports.
+    - The exact end date of the import period is given only as more than two months from October 2025.
+    - The overseas suppliers and how the brothers were recruited are not known.
+    - The Fukushima Minyu report gives the defendant's age as 31, while the earlier account gives 30.
+    - The prosecutors' account does not say whether any family member was investigated or charged.
 ---
 
 Prosecutors asked the court to sentence Rei Hayakawa, 30, a construction worker
 from Koriyama, to eight years in prison and a two-million-yen fine for importing
-cannabis liquid for profit. [@1] They said he received part of the imported
+cannabis liquid for profit. [@1] Prosecutors also asked for the cannabis liquid to be confiscated, and the hearing was concluded the same day. [@5] They said he received part of the imported
 liquid as a reward and sent most of it to locations he was instructed to use,
-and called his role important. [@1] Hayakawa admitted the charges at his first
-hearing on 18 November 2026. [@1] His lawyers asked for a suspended sentence.
-[@1] The court is due to deliver judgment on 7 January 2027. [@1]
+and called his role important. [@1] In their closing argument, prosecutors called the conduct habitual and malicious, saying he had drawn in family members who knew nothing, and that his responsibility was heavy. [@5] Hayakawa admitted the charges at his first
+hearing on 18 November 2026. [@1,5] The first hearing was held at the Koriyama branch of the district court, with Judge Yoji Shimoyama presiding. [@6] His lawyers asked for a suspended sentence.
+[@1,5] The court is due to deliver judgment on 7 January 2027. [@1,5]
 
 Hayakawa was charged over imports carried out for profit over more than two
-months from October 2025. [@1] The liquid was hidden in materials and candles,
+months from October 2025. [@1] Prosecutors said he began using cannabis around April 2024 while troubled by his relationship with his wife and by debts, and gradually became involved in selling and smuggling cannabis. [@5] The liquid was hidden in materials and candles,
 police said. [@3] Some deliveries were addressed to places including Tamura city
 and Miharu town, in the area covered by the Tamura police station, investigators
-said. [@2]
+said. [@2] They said he used a false name to receive the cannabis liquid at his parents' home and forwarded it to domestic dealers, acting as a relay. [@5]
 
 The Onahama branch of Yokohama Customs accused the brothers of trying to smuggle
 2,570 grams of cannabis liquid from the United States and Britain in violation
 of the Customs Act, the Fukushima Minpo reported. [@4]
-
