@@ -64,6 +64,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-17
     language: hi
+  - title: 'मऊगंज न्यूज: हनुमना पुलिस की बड़ी कार्रवाई: लावारिस बोरी से 2.40 लाख का गांजा जब्त | Major action by Hanumana police: Ganja worth Rs 2.40 lakh seized from an abandoned sack'
+    url: https://www.bhaskarhindi.com/mauganj/major-action-by-hanumana-police-ganja-worth-rs-240-lakh-seized-from-an-abandoned-sack-1393208
+    publisher: दैनिक भास्कर हिन्दी (Dainik Bhaskar Hindi)
+    date: 2026-11-17
+    language: hi
 ---
 
 Bike riders hit a girl at about 8 pm in Pratapganj, in the Hanumana police
@@ -76,19 +81,18 @@ girl's condition. [@1]
 Villagers who searched the bag found 26 bundles of ganja, the Hindi term for
 cannabis, each weighing about one kilogram, Raj Express reported. [@1] Dainik
 Bhaskar reported, citing police, that after weighing the material at the station
-officers recorded 24 kilograms 620 grams of ganja. [@2] Police valued the ganja
-at about 240,620 rupees. [@2]
+officers recorded 24 kilograms 620 grams of ganja. [@2,3] Police valued the ganja
+at about 240,620 rupees. [@2,3]
 
 Police received a Dial-112 call on the night of 16 November 2026 reporting that
 illegal material was being carried in the area, and Hanumana station officers
-went to the spot. [@2] Officers found the black bag on the roadside about 100
+went to the spot. [@2] At the press conference the additional superintendent said early talk of fleeing or an accident had surfaced, but Dial-112 had mainly received information about drug transport. [@3] Officers found the black bag on the roadside about 100
 metres from the Pratapganj crossroads, one end open and the ganja inside wrapped
 in several khaki-coloured packets, and took it back to the station. [@2] A case
 was registered at Hanumana station under crime number 552/26 against an unknown
 accused under sections 8/20(b)/25 of the NDPS Act, India's Narcotic Drugs and
-Psychotropic Substances Act. [@2] Additional Superintendent of Police Shashikant
+Psychotropic Substances Act. [@2,3] Additional Superintendent of Police Shashikant
 Sarayam told a press conference on Tuesday evening that the action was part of
 Operation Prahar-2.0 against the illegal drug trade. [@2] Police said they were
 also gathering information on the source of the ganja and the people carrying
 it. [@1]
-
