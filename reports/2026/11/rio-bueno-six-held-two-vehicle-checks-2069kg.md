@@ -56,6 +56,11 @@ sources:
     publisher: NoticiasRioBueno.com
     date: 2026-11-18
     language: es
+  - title: Carabineros detiene a seis personas e incauta marihuana en Río Bueno
+    url: https://www.diariofutrono.cl/noticia/actualidad/2026/11/carabineros-detiene-a-seis-personas-e-incauta-marihuana-en-rio-bueno
+    publisher: Diario Futrono
+    date: 2026-11-18
+    language: es
 open_questions:
   - No street value was published for the 2 kg 69 g of marijuana.
   - The two accounts reproduce the same Carabineros statement by Major Juan Cáceres, so they are not independent reporting.
@@ -65,17 +70,17 @@ open_questions:
 ---
 
 Carabineros from the Diumén post, part of Río Bueno's Fourth Commissary,
-detained six people in two anti-drug procedures on the Ruta T-85. [@1] The first
+detained six people in two anti-drug procedures on the Ruta T-85. [@1,3] The first
 check took place at about 01:30 at the Cachillahue junction, where officers
-found 1 kg 59 g of marijuana in a vehicle and detained its two occupants. [@1]
+found 1 kg 59 g of marijuana in a vehicle and detained its two occupants. [@1,3]
 An hour later in the Pindaco sector, four occupants of a car were arrested after
-officers found 1 kg 10 g of the same substance. [@1] One of the detainees, a
+officers found 1 kg 10 g of the same substance. [@1,3] One of the detainees, a
 17-year-old girl, handed over a revolver and three unspent .38-calibre rounds
-and was also detained for illegal possession of a firearm. [@1] Specialist OS7
+and was also detained for illegal possession of a firearm. [@1,3] Specialist OS7
 officers confirmed by field test that the marijuana seized came to 2 kg 69 g.
-[@1] On the duty prosecutor's instruction the six accused were taken to a
+[@1,3] On the duty prosecutor's instruction the six accused were taken to a
 detention-control hearing that morning, and the seizure of the vehicles, the
-weapon and the ammunition was ordered. [@1] The Río Bueno commissioner, Major
+weapon and the ammunition was ordered. [@1,3] The Río Bueno commissioner, Major
 Juan Cáceres, said Carabineros would keep reinforcing preventive patrols and
 operations on the commune's roads. [@1]
 
@@ -87,4 +92,3 @@ firearm found in one of them. [@2] The Public Prosecutor's Office called in the
 OS7 unit from Valdivia to carry out the field test on the drug. [@2] Cáceres
 said Carabineros would work day and night to stop people trafficking illicit
 substances in the commune. [@2]
-
