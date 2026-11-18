@@ -42,29 +42,30 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-17
     language: hi
+  - title: घर के आंगन में उगा रखे थे गांजे के 38 पौधे, पुलिस ने दबिश देकर आरोपी को किया गिरफ्तार, 27 किलो 350 ग्राम गांजा जब्त
+    url: https://yashbharat.co.in/%E0%A4%98%E0%A4%B0-%E0%A4%95%E0%A5%87-%E0%A4%86%E0%A4%82%E0%A4%97%E0%A4%A8-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%89%E0%A4%97%E0%A4%BE-%E0%A4%B0%E0%A4%96%E0%A5%87-%E0%A4%A5%E0%A5%87-%E0%A4%97%E0%A4%BE/
+    publisher: Yash Bharat
+    date: 2026-11-17
+    language: hi
 open_questions:
-  - No separate date for the raid was given, so 17 November 2026, the publication date, stands in for the incident date.
-  - The accessible text breaks off mid-sentence on the estimated price (about 2 ...), so no value figure is recorded.
-  - The page URL slug names Ganesh Singh, but the readable body names no suspect, so no name is reported.
-  - No charges, detention measure, plea or court outcome were stated in the accessible text.
-  - The 27.35 kg is the stated combined weight of the 38 plants as seized, with no split between plant material and dried product.
-  - The account rests on a single opened source; no second outlet account of this raid was found.
+    - No separate date for the raid was given, so 17 November 2026, the publication date, stands in for the incident date.
+    - The 27.35 kg is the stated combined weight of the 38 plants as seized, with no split between plant material and dried product.
+    - No plea or court outcome beyond remand to judicial custody in Panna district jail was reported.
 ---
 
 Police in Panna district arrested one person on the allegation that he was
 growing ganja plants in the courtyard of his house in Banhari Khurd village, an
-area covered by the Ajaygarh police station. [@1] The arrest followed a police
+area covered by the Ajaygarh police station. [@1,2] Police identified the arrested cultivator as Banhari Khurd resident Ganesh Singh, son of Aman Singh. [@2] The arrest followed a police
 raid on the house in Banhari Khurd village in Panna, directed against the
 alleged home cultivation of ganja. [@1]
 
 During the search of the house, officers seized 38 ganja plants found on the
 residential premises. [@1] Police recorded the combined weight of the 38 seized
-plants as 27 kilograms and 350 grams, or 27.35 kilograms. [@1] The seized plants
+plants as 27 kilograms and 350 grams, or 27.35 kilograms. [@1,2] Police put the estimated market value of the seized ganja at about 2 lakh rupees. [@2] The seized plants
 were the alleged courtyard crop grown by the arrested person at his own home.
 [@1]
 
 The Ajaygarh police handled the raid and the seizure as one enforcement
-operation in Panna district. [@1] The operation combined the arrest of the
+operation in Panna district. [@1] Police registered crime number 615/26 under Sections 8/20 of the NDPS Act against Ganesh Singh and sent him to judicial custody in Panna district jail after production in court. [@2] The operation combined the arrest of the
 cultivator with the seizure of the standing plants and their recorded weight.
 [@1]
-
