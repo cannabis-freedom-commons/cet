@@ -62,33 +62,43 @@ sources:
     publisher: Newsflash24
     date: 2026-11-18
     language: de
+  - title: Schüsse auf Taxi - Polizei nimmt Verdächtigen fest
+    url: https://www.welt.de/regionales/hamburg/article6afdb3494d1895cf2a8efd7f/schuesse-auf-taxi-polizei-nimmt-verdaechtigen-fest.html
+    publisher: WELT
+    date: 2026-11-18
+    language: de
+  - title: 'Nach Schüssen auf Taxi: Polizei verhaftet 26-Jährigen'
+    url: https://www.ndr.de/nachrichten/hamburg/nach-schuessen-auf-taxi-polizei-verhaftet-26-jaehrigen,kurzehh-4934.html
+    publisher: NDR.de
+    date: 2026-11-18
+    language: de
 open_questions:
-  - 17 November 2026 is inferred as the raid date from the police statement's references to yesterday and Tuesday morning relative to its 18 November publication.
-  - The marijuana amount is approximate, stated as just under 1.1 kilograms, with no purity or laboratory confirmation reported.
-  - The 7.1 kilograms of heroin, 4.5 kilograms of cocaine and 2.5 kilograms of cutting agent from the same search are described in the text but excluded from the cannabis figures.
-  - No plea or further court outcome beyond the arrest and pre-trial detention orders was reported.
-  - Apart from the agency statement, the available accounts largely reproduce the same police information rather than reporting independently.
+    - 17 November 2026 is inferred as the raid date from the police statement's references to yesterday and Tuesday morning relative to its 18 November publication.
+    - The marijuana amount is approximate, stated as just under 1.1 kilograms, with no purity or laboratory confirmation reported.
+    - The 7.1 kilograms of heroin, 4.5 kilograms of cocaine and 2.5 kilograms of cutting agent from the same search are described in the text but excluded from the cannabis figures.
+    - No plea or further court outcome beyond the arrest and pre-trial detention orders was reported.
+    - Apart from the agency statement, the available accounts largely reproduce the same police information rather than reporting independently.
+    - WELT's dpa account says the 24-year-old was taken into pre-trial detention for drug possession, while the police statement gives no offence for him beyond the drugs found in an apartment attributed to him.
 ---
 
 Officers from Hamburg's state criminal police and Magdeburg police arrested the
 26-year-old suspect on the morning of 17 November in his apartment in Hamburg's
 Lurup district. [@2] Officers also found a 24-year-old Turkish national in the
 apartment and provisionally arrested him in connection with a Schenefeld
-apartment attributed to him. [@2] The 26-year-old is strongly suspected of
+apartment attributed to him. [@2,5] The 26-year-old is strongly suspected of
 shooting at a taxi driver after a dispute, with investigators searching several
-apartments and finding drugs by the kilogram. [@1]
+apartments and finding drugs by the kilogram. [@1,5]
 
 The then 31-year-old driver had let the man and four companions out on
 Budapester Strasse before the stranger fired repeatedly at the taxi, leaving the
 driver uninjured. [@4] In the Schenefeld apartment attributed to the
 24-year-old, officers found around 7.1 kilograms of heroin, about 4.5 kilograms
 of cocaine, just under 1.1 kilograms of marijuana and almost 2.5 kilograms of
-cutting agent. [@2] In the remaining searches officers seized around 3,300 euros
-in suspected deal money, a brass knuckle and other potential evidence. [@2]
+cutting agent. [@2,5] In the remaining searches officers seized around 3,300 euros
+in suspected deal money, a brass knuckle and other potential evidence. [@2,5]
 Officers searched four premises in Hamburg and one each in Schenefeld and
-Magdeburg on Tuesday morning. [@3]
+Magdeburg on Tuesday morning. [@3,6]
 
 The 26-year-old was served an arrest warrant on suspicion of attempted murder.
 [@2] A judge also issued a pre-trial detention order against the 24-year-old.
-[@4] Joint investigations by the prosecution authorities are continuing. [@2]
-
+[@4] The 24-year-old was taken into pre-trial detention on suspicion of drug possession. [@5] Joint investigations by the prosecution authorities are continuing. [@2]
