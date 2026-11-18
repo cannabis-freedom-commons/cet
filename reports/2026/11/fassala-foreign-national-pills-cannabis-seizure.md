@@ -56,6 +56,11 @@ sources:
     publisher: صحراء ميديا
     date: 2026-11-18
     language: ar
+  - title: 'Mauritanie : saisie de 3 780 comprimés psychotropes et de cannabis'
+    url: https://fr.saharamedias.net/mauritanie-saisie-de-3-780-comprimes-psychotropes-et-de-cannabis/
+    publisher: Saharamedias FR
+    date: 2026-11-18
+    language: fr
 open_questions:
   - No separate date for the operation was given; 17 November 2026, the publication date, stands in for the incident date.
   - No weight or description was published for the cannabis, so no cannabis quantity is recorded.
@@ -66,11 +71,11 @@ open_questions:
 
 Officers of the National Gendarmerie centre at Agoueinkara, under the Fassala
 brigade, stopped a foreign national and seized drugs and psychoactive substances
-found in his possession. [@4,5] The operation was carried out by the Gendarmerie
+found in his possession. [@4,5,6] The operation was carried out by the Gendarmerie
 centre at Agoueinkara under the Fassala brigade. [@2]
 
 The search yielded 3,780 hallucinogenic pills, an unspecified quantity of
-cannabis and a bottle of alcohol. [@1,5] According to a Gendarmerie statement
+cannabis and a bottle of alcohol. [@1,5,6] According to a Gendarmerie statement
 issued on Tuesday evening, the haul was 3,780 hallucinogenic pills and a
 quantity of cannabis. [@3]
 
