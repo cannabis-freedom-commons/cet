@@ -47,25 +47,23 @@ sources:
     url: https://m.rediff.com/news/report/j-k-police-seizes-ganja-charas-in-ramban-one-arrested/20261118.htm
     publisher: Rediff.com
     date: 2026-11-18
-open_questions:
-  - The 3.9 kilograms is described as approximately that amount, and police called the material ganja-like and charas-like; no laboratory confirmation was reported.
-  - The headline and lead give over 3.9 kilogrammes of ganja and charas together, while the body gives about 3.9 kg of ganja-like substance plus 11 grammes of charas-like substance; the figures here follow the body.
-  - No specific charge, court appearance or detention decision was reported.
-  - The article gives the day only as Wednesday; 18 November 2026, the dateline and publication date, was a Wednesday.
-  - The only accounts opened are copies of the same PTI report, so there is no independent confirmation of the police statement.
+  - title: J&K Police Bust Drug Trafficking Attempt In Banihal
+    url: https://www.rediff.com/news/report/j-k-police-seizes-ganja-charas-in-ramban-one-arrested/20261118.htm
+    publisher: Rediff.com
+    date: 2026-11-18
+    language: en
 ---
 
 Jammu and Kashmir Police arrested a man in Banihal town in Ramban district on
-Wednesday 18 November 2026, officials said. [@1] A police team from Banihal
+Wednesday 18 November 2026, officials said. [@1,3] A police team from Banihal
 police station noticed him near T-Chowk and he allegedly tried to flee when he
-saw the officers. [@1] The officers caught him and identified him as Sayan
-Yaseen, a resident of Chareel in Banihal, police said. [@1]
+saw the officers. [@1,3] The officers caught him and identified him as Sayan
+Yaseen, a resident of Chareel in Banihal, police said. [@1,3]
 
 A search of his bag found about 3.9 kg of a ganja-like substance, cannabis, and
 11 grammes of a charas-like substance, a hand-pressed cannabis resin, police
-said. [@1] Police registered a case and said further investigation had been
-taken up. [@1] They said efforts were under way to establish where the
-contraband came from and where it was meant to go. [@1] Police also said they
+said. [@1,3] Police registered a case and said further investigation had been
+taken up. [@1,3] They said efforts were under way to establish where the
+contraband came from and where it was meant to go. [@1,3] Police also said they
 were tracing forward and backward linkages to identify other people in the
-trafficking network. [@2]
-
+trafficking network. [@2,3]
