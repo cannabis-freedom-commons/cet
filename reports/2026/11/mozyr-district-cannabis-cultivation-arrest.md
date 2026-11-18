@@ -50,6 +50,11 @@ sources:
     publisher: Гомельская правда
     date: 2026-11-17
     language: ru
+  - title: Житель Мозырского района культивировал на даче коноплю, возбуждено уголовное дело
+    url: https://belta.by/socium/view/zhitel-mozyrskogo-rajona-kultiviroval-na-dache-konoplju-vozbuzhdeno-ugolovnoe-delo-811225-2026/
+    publisher: BELTA
+    date: 2026-11-17
+    language: ru
 open_questions:
   - The article gives no date for the detention, search or seizure; 17 November 2026 is its publication date and is used as the incident date.
   - The substance weight is given as 'almost 500 grams', so the 0.5 kg figure is approximate.
@@ -61,18 +66,17 @@ open_questions:
 
 Operatives of the Gomel region narcocontrol unit detained a 42-year-old man in
 the Mozyr district of Belarus, where he was growing prohibited plants on his own
-dacha, a country cottage and garden plot. [@1] The account cited the internal
+dacha, a country cottage and garden plot. [@1,2] The account cited the internal
 affairs directorate (УГАИ УВД) of the Gomel regional executive committee as its
 source. [@1] Investigators established that the man had sown and cultivated the
-narcotic-containing plants himself. [@1]
+narcotic-containing plants himself. [@1,2]
 
 During the inspection of the dacha, law enforcement officers found and seized
-one cut cannabis bush, which the owner of the plot was drying. [@1] An expert
+one cut cannabis bush, which the owner of the plot was drying. [@1,2] An expert
 examination found the plant contained a particularly dangerous psychotropic
 component, and the weight of the ready-to-use substance reached almost 500 grams
-(about 0.5 kilograms). [@1]
+(about 0.5 kilograms). [@1,2]
 
 Criminal cases were opened against him for illegal drug sales and for sowing and
-growing prohibited crops. [@1] He faces a penalty of up to five years in prison.
-[@1]
-
+growing prohibited crops. [@1,2] He faces a penalty of up to five years in prison.
+[@1,2]
