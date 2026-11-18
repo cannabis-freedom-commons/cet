@@ -1,36 +1,35 @@
 ---
 code: PEPH26
 added_at: "2026-11-17T10:24:01.933554Z"
-date: 2026-11-16
+date: 2026-11-18
 country: in
 place: Puzhal Central Prison, Chennai, Tamil Nadu
 coordinates: [13.1678, 80.2046]
 precision: locality
 type: arrest
 also: [seizure]
-title: Prison nursing aide held over 313 g ganja at Puzhal jail
-summary: >-
-  Police arrested Puzhal Central Prison-2 nursing assistant C. K. Kanagaraj after a parcel hidden in his underwear yielded about 313 grams of ganja. A case was registered under the NDPS Act as police traced the parcel's suppliers and intended prisoner recipient.
+title: Three held over 313 g ganja smuggling at Puzhal jail
+summary: Police arrested Puzhal prison nursing assistant Kanagaraj with about 313 grams of ganja meant for prisoners, then arrested two women who allegedly supplied him. The women were identified as a prisoner's wife and a relative and were held at the prison gate on 18 November 2026.
 figures:
-  arrested: 1
-  kg_seized: 0.313
+    arrested: 3
+    kg_seized: 0.313
 details:
-  agency_types: [police]
-  products:
-    - {product: flower, kg: 0.313}
-  activity: [smuggling]
-  setting: [prison]
-  case_stage: investigation
-  date_precision: approximate
-  region: Tamil Nadu
+    agency_types: [police]
+    products:
+        - {product: flower, kg: 0.313}
+    activity: [smuggling]
+    setting: [prison]
+    case_stage: investigation
+    date_precision: exact
+    region: Tamil Nadu
 data_sources:
-  details.activity: [2]
-  details.agency_types: [2]
-  details.case_stage: [2]
-  details.products: [2]
-  details.setting: [2]
-  figures.arrested: [2]
-  figures.kg_seized: [2]
+    details.activity: [6]
+    details.agency_types: [6]
+    details.case_stage: [6]
+    details.products: [6]
+    details.setting: [6]
+    figures.arrested: [6]
+    figures.kg_seized: [6]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2d478dcd8da70beccdfba905481d55bb
@@ -61,10 +60,16 @@ sources:
     publisher: Hindu Tamil Thisai
     date: 2026-11-18
     language: ta
+  - title: புழல் சிறை மருத்துவ உதவியாளருக்கு கஞ்சா விநியோகித்த 2 பெண்கள் கைது
+    url: https://www.dinamalar.com/news/tamil-nadu-district-news-chennai/2-women-distribute-cannabis-to-puzhal-jail-medical-assistant-arrested/4379727
+    publisher: Dinamalar
+    date: 2026-11-18
+    language: ta
 open_questions:
-    - The white powder reported in other accounts is not mentioned in this account, so its nature remains unidentified.
-    - Accounts differ on whether the parcel was meant for prisoners in Block 4 generally or a specific cell, so the exact intended recipient is unconfirmed.
-    - One account describes a single unidentified person handing the parcel to Kanagaraj near the Kavangarai bus stop, while another describes two women on a blue scooter.
+    - The new account reports 18 grams of cocaine powder while earlier accounts reported 28 grams of white powder, so the weight and nature of the non-cannabis powder remain unconfirmed.
+    - The lead gives the two women's ages as 28 and 30 while the body identifies them as 38 and 20, so their ages remain uncertain.
+    - No court outcome, detention measure or plea for the two women was reported, and police questioning was continuing.
+    - The identification of Kumari and Sadhana as suppliers, the intended recipient Sethuraman and the 10,000-rupee bribe allegation rest on this single follow-up account.
 ---
 
 Kanagaraj worked as a nursing assistant at Puzhal Central Prison in Chennai and
@@ -87,4 +92,4 @@ Drugs and Psychotropic Substances Act. [@2,3]
 
 Police arrested Kanagaraj for attempting to smuggle drugs into the prison and
 are continuing to question him. [@2,3,4,5] He was produced in court and then lodged as a prisoner in the same Puzhal prison where he had worked. [@3] Police are also investigating who the two
-women were and which prisoner was to receive the parcel. [@2]
+women were and which prisoner was to receive the parcel. [@2] Police arrested Kumari and Sadhana on the morning of 18 November as they stood at the entrance of Puzhal prison and continued questioning them. [@6] The intended recipient was 40-year-old Sethuraman of Mylapore Rotary Nagar, who had been lodged in the prison two months earlier after arrest by Periyamedu police in a drug case. [@6] Kanagaraj had obtained the drugs from Sethuraman's wife Kumari, 38, and relative Sadhana, 20, and had taken a 10,000-rupee bribe to deliver them to Sethuraman. [@6]
