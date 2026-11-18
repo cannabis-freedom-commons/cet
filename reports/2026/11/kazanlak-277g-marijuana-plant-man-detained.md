@@ -62,13 +62,11 @@ sources:
     publisher: Kazanlak.com
     date: 2026-11-17
     language: bg
-open_questions:
-  - The search took place in premises described only as a "помещение" (a room or premises); the sources do not say whether it was a flat, a house or another building.
-  - No value estimate for the seized marijuana was published.
-  - The sources report no charge brought against the man beyond the opening of a pre-trial proceeding, and no plea or court outcome.
-  - The sources do not say how or where the single hemp plant was being kept or grown.
-  - The Bulgarian wording "растение от рода на конопа" describes a plant of the hemp genus; no laboratory confirmation of the species was reported.
-  - The accounts from the Interior Ministry, Bulgarian National Radio and Kazanlak.com reproduce the same Stara Zagora police statement and are not independent reporting.
+  - title: 36-годишен мъж е задържан при специализирана полицейска операция срещу престъпления,
+    url: https://novini247.com/novini/36-godishen-maj-e-zadarjan-pri-spetsializirana-politseyska-operatsiya-sreshtu-prestapleniya_11402671.html
+    publisher: Новини 24/7
+    date: 2026-11-17
+    language: bg
 ---
 
 Police officers from the Kazanlak district police department searched a premises
@@ -78,11 +76,10 @@ the Interior Ministry's Stara Zagora directorate said. [@2] The premises were
 occupied by a 36-year-old man, the directorate said. [@2]
 
 Officers found and seized 277.52 grams of marijuana and one plant of the hemp
-genus inside the premises. [@2] Bulgarian National Radio's Stara Zagora station
+genus inside the premises. [@2,4] Bulgarian National Radio's Stara Zagora station
 reported the same seizure, describing more than 277 grams of marijuana and one
 hemp plant. [@1]
 
-The man was detained for up to 24 hours. [@2] The directorate said it had opened
+The man was detained for up to 24 hours. [@2,4] The directorate said it had opened
 a pre-trial proceeding under article 354a, paragraph 3, item 1, first sentence,
-of the Criminal Code. [@3]
-
+of the Criminal Code. [@3,4]
