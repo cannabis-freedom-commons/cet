@@ -121,23 +121,28 @@ sources:
     publisher: eju.tv
     date: 2026-11-15
     language: es
+  - title: FELCN interviene 15 viveros de plantaciones y destruye siete toneladas de marihuana en Potosí
+    url: https://lavozdetarija.com/2026/11/15/felcn-interviene-15-viveros-de-plantaciones-y-destruye-siete-toneladas-de-marihuana-en-potosi/
+    publisher: La Voz de Tarija
+    date: 2026-11-15
+    language: es
 ---
 
 FELCN officers destroyed and incinerated seven tons of natural-state marijuana
 after intervening in 15 nursery sites in Machacamarca, in the municipality of
-Chayanta, Rafael Bustillo province, Potosí. [@1,5,6,7,8,10] The operation was carried out
-under the order called Escudo Verde. [@1,5,7,8,9,10] The intervention targeted facilities
+Chayanta, Rafael Bustillo province, Potosí. [@1,5,6,7,8,10,11] The operation was carried out
+under the order called Escudo Verde. [@1,5,7,8,9,10,11] The intervention targeted facilities
 used to grow marijuana. [@1,9] The anti-drug operation took place in the community
-of Machacamarca under the jurisdiction of the municipality of Chayanta. [@3,5,6,8] The
+of Machacamarca under the jurisdiction of the municipality of Chayanta. [@3,5,6,8,11] The
 order contemplated control actions in spaces used for planting marijuana,
 according to the FELCN report. [@2] Officers eliminated the seized crops by
 incineration, and the plants reached two metres in height. [@2]
 
 Anti-drug agents identified the 15 spaces as sites for the illegal cultivation
-of a controlled substance, as reported by the Bolivian Information Agency. [@4]
+of a controlled substance, as reported by the Bolivian Information Agency. [@4,11]
 Police estimated that the operation caused economic damage of 1,053,000,000 US
-dollars to drug-trafficking activities. [@1,5,7,8,10] FELCN described the operation as a
+dollars to drug-trafficking activities. [@1,5,7,8,10,11] FELCN described the operation as a
 blow to marijuana production in Potosí. [@1] FELCN said it will keep carrying
 out interdiction operations against the production and trafficking of controlled
-substances. [@1,7,8] FELCN communicated that it will continue this kind of
+substances. [@1,7,8,11] FELCN communicated that it will continue this kind of
 operation, according to the report disseminated on 15 November. [@4]
