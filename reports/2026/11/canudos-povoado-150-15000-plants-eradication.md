@@ -1,0 +1,100 @@
+---
+code: R1SR67
+added_at: "2026-11-18T13:31:58.24601Z"
+date: 2026-11-17
+country: br
+place: Povoado 150, rural Canudos, Bahia
+coordinates: [-9.897, -39.027]
+precision: district
+type: eradication
+also: [raid]
+title: 15,000 cannabis plants burned in rural Canudos; no arrests reported
+summary: >-
+  Civil and Military Police in Bahia found and burned about 15,000 cannabis plants at Povoado 150 in rural Canudos on 17 November 2026, using drones to locate the crop. Officers also destroyed sleeping quarters and an irrigation system, and said they were still looking for those responsible.
+figures:
+  arrested: 0
+  plants_destroyed: 15000
+details:
+  agencies: [Polícia Civil da Bahia, Polícia Militar da Bahia, Secretaria da Segurança Pública da Bahia]
+  agency_types: [police]
+  products:
+    - {product: plants, plants: 15000}
+  activity: [cultivation]
+  setting: [field]
+  environment: [outdoor]
+  case_stage: investigation
+  date_precision: exact
+  region: Bahia
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [2]
+  details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [2]
+  figures.plants_destroyed: [1]
+media:
+  - kind: photo
+    url: https://www.ba.gov.br/ssp/noticias/2026-11/90674/policias-civil-e-militar-erradicam-15-mil-pes-de-maconha-na-zona-rural-de
+    media_url: https://www.ba.gov.br/ssp/sites/site-ssp/files/2026-11/WhatsApp%20Image%202026-11-18%20at%2006.00.00.jpeg
+    publisher: Secretaria da Segurança Pública da Bahia
+    caption: 'Police handout photo published with the SSP-BA statement on the cannabis plantation eradicated at Povoado 150 in rural Canudos. Photo: Divulgação SSP'
+  - kind: photo
+    url: https://www.acordacidade.com.br/policia/policia-erradica-15-mil-pes-de-maconha-em-plantacao-na-zona-rural-de-canudos/
+    media_url: https://uploads.acordacidade.com.br/2026/11/plantacao-de-maconha--1000x680.webp
+    publisher: Acorda Cidade
+    caption: 'Cannabis plantation in rural Canudos, in the SSP-BA handout published with the report on the eradication. Photo: Divulgação/SSP-BA'
+  - kind: photo
+    url: https://www.bnews.com.br/noticias/policia/roca-com-15-mil-pes-de-maconha-e-descoberta-durante-cerco-em-cidade-da-bahia.html
+    media_url: https://www.bnews.com.br/media/uploads/2026/11/plantacao-maconha.jpeg
+    publisher: BNews
+    caption: 'Cannabis plants at the plantation eradicated in rural Canudos, in one of the SSP-BA handout photos published with the Bnews report. Photo: Divulgação SSP'
+status: verified
+created_by_model: swancloud/deepseek-v4.1-flash#max
+submission: 1b161bc133a41703fad6b7129e8a8e05
+tags: [canudos, bahia, maconha, erradicacao, ssp-ba]
+sources:
+  - title: Polícia erradica 15 mil pés de maconha em plantação na zona rural de Canudos
+    url: https://www.acordacidade.com.br/policia/policia-erradica-15-mil-pes-de-maconha-em-plantacao-na-zona-rural-de-canudos/
+    publisher: Acorda Cidade
+    date: 2026-11-18
+    language: pt
+  - title: Polícias Civil e Militar erradicam 15 mil pés de maconha em Canudos
+    url: https://www.ba.gov.br/ssp/noticias/2026-11/90674/policias-civil-e-militar-erradicam-15-mil-pes-de-maconha-na-zona-rural-de
+    publisher: Secretaria da Segurança Pública da Bahia
+    date: 2026-11-18
+    language: pt
+  - title: Roça com 15 mil pés de maconha é descoberta durante cerco em cidade da Bahia
+    url: https://www.bnews.com.br/noticias/policia/roca-com-15-mil-pes-de-maconha-e-descoberta-durante-cerco-em-cidade-da-bahia.html
+    publisher: BNews
+    date: 2026-11-18
+    language: pt
+  - title: Polícia erradica 15 mil pés de maconha em plantação na zona rural de Canudos
+    url: https://www.chicosabetudo.com.br/policia/policia-erradica-15-mil-pes-de-maconha-em-plantacao-na-zona-rural-de-canudos-1126
+    publisher: ChicoSabeTudo
+    date: 2026-11-18
+    language: pt
+open_questions:
+  - No weight, area in hectares or street value was given for the plantation.
+  - No one was arrested and the sources do not say whether anyone was found at the site.
+  - The precise location of Povoado 150 and the size of the plantation are not described.
+  - Whether this plantation is connected to the group targeted in Operation Safra Oculta in Bahia and Pernambuco the same day is not stated.
+  - The four accounts reproduce the same SSP-BA statement and are not independent reporting.
+---
+
+Civil and Military Police in Bahia found and destroyed a cannabis plantation in
+rural Canudos on Tuesday 17 November 2026. [@1] The plantation was at a place
+known as Povoado 150 and was found after intelligence work by the state security
+forces. [@1] No one was arrested at the site, and the Civil and Military Police
+said inquiries were continuing to identify and arrest those responsible. [@2]
+
+Officers used drones to find the crop and reach the clearing, then uprooted and
+burned the plants. [@1] The security secretariat said the state forces found
+15,000 cannabis plants at the site. [@2] Officers also destroyed sleeping
+quarters and an irrigation system used to keep the plantation running. [@3]
+
+The operation was part of integrated police action against drug trafficking and
+criminal factions in the region. [@4]
+
