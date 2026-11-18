@@ -123,23 +123,33 @@ sources:
     publisher: المصدر تونس
     date: 2026-11-11
     language: ar
+  - title: 'المحمدية: كشف وفاق إجرامي وحجز كوكايين وآلاف الأقراص المخدرة'
+    url: https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1536475/%D8%A7%D9%84%D9%85%D8%AD%D9%85%D8%AF%D9%8A%D8%A9-%D9%83%D8%B4%D9%81-%D9%88%D9%81%D8%A7%D9%82-%D8%A5%D8%AC%D8%B1%D8%A7%D9%85%D9%8A-%D9%88%D8%AD%D8%AC%D8%B2-%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86-%D9%88%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A9
+    publisher: Mosaique FM
+    date: 2026-11-11
+    language: ar
+open_questions:
+    - No weight was published for the Indian hemp seized in Mohamedia.
+    - The nearly 7,000 tablets were described only as being of various kinds, were not identified by substance and are excluded from the cannabis figures.
+    - The date of the Mohamedia operation was not stated; 11 November 2026 is the date of the security source's account and of publication.
+    - No charges, pleas or court outcome were reported for the two men and the woman.
 ---
 
 National Guard officers in Mohamedia arrested two men and a woman after
-uncovering what a security source called a criminal agreement. [@1,4,5,8,9,10,11,12,13,15,16,17] The Research
+uncovering what a security source called a criminal agreement. [@1,4,5,8,9,10,11,12,13,15,16,17,18] The Research
 and Inspection Brigade of the National Guard region in Mohamedia, in the Ben
-Arous district of the National Guard, carried out the operation. [@1,10,11,12,14,16] A security
+Arous district of the National Guard, carried out the operation. [@1,10,11,12,14,16,18] A security
 source gave the account to the Tunis Afrique Presse agency, and outlets
 published it on Wednesday 11 November 2026. [@1,9,11,12]
 
 Officers seized about 7,000 drug tablets of various kinds, a quantity of cocaine
 and a quantity of Indian hemp, the term used for cannabis, during the same
-operation. [@1,4,6,8,9,10,11,12,13,15,16,17] They also seized Tunisian currency approaching 25,000 dinars,
-the security source said. [@1,4,7,8,9,10,11,12,14,15,16,17] Nessma, also citing the Tunis Afrique Presse
+operation. [@1,4,6,8,9,10,11,12,13,15,16,17,18] They also seized Tunisian currency approaching 25,000 dinars,
+the security source said. [@1,4,7,8,9,10,11,12,14,15,16,17,18] Nessma, also citing the Tunis Afrique Presse
 agency, reported the same Mohamedia seizure of about 7,000 tablets, cocaine and
 Indian hemp, plus cash approaching 25,000 dinars. [@3]
 
 The public prosecutor's representative in Ben Arous reviewed the file and
-ordered that legal procedures be taken against the three. [@1,4,7,8,9,10,11,12,13,15,16,17] In a separate operation, an Algerian national described as particularly dangerous and involved in drug trafficking was also arrested. [@15,17] The National Guard's central anti-drug brigade at El Aouina carried out the arrest after intelligence and field investigation work. [@15,17] The Algerian security services had issued several wanted notices for him. [@15] The targeted operation took place in Sahloul, in Sousse governorate. [@15,17] Al Chourouk,
+ordered that legal procedures be taken against the three. [@1,4,7,8,9,10,11,12,13,15,16,17,18] In a separate operation, an Algerian national described as particularly dangerous and involved in drug trafficking was also arrested. [@15,17] The National Guard's central anti-drug brigade at El Aouina carried out the arrest after intelligence and field investigation work. [@15,17] The Algerian security services had issued several wanted notices for him. [@15] The targeted operation took place in Sahloul, in Sousse governorate. [@15,17] Al Chourouk,
 citing the Tunis Afrique Presse agency, published the same account that day,
 including the arrest of two men and a woman and the seizure of Indian hemp. [@2]
