@@ -67,25 +67,29 @@ sources:
     publisher: L'Indépendant
     date: 2026-11-17
     language: fr
+  - title: 'Il déclare transporter de l’huile d’olive : une cargaison à près d’un million d’euros saisie sur l’autoroute A9'
+    url: https://actu.fr/occitanie/sigean_11379/il-declare-transporter-de-l-huile-d-olive-une-cargaison-a-pres-d-un-million-d-euros-saisie-sur-l-autoroute-a9_65067799.html
+    publisher: actu.fr
+    date: 2026-11-17
+    language: fr
 open_questions:
-  - The headline rounds the quantity to 94 kg while the body gives 94.175 kg; no weighing certificate was published.
-  - No court, specific charge or judge was named in the accessible account of the 13 November hearing.
-  - No independent account of this seizure and sentence beyond the customs-sourced article was available.
-  - Nothing was reported about an appeal or the outcome of any further proceedings.
+    - The headline rounds the quantity to 94 kg while the body gives 94.175 kg; no weighing certificate was published.
+    - No court, specific charge or judge was named; the hearing was reported only as a comparution immédiate (immediate court appearance).
+    - Both published accounts derive from the Perpignan customs service, so no independent account of the seizure and sentence was available.
+    - Nothing was reported about an appeal or the outcome of any further proceedings.
 ---
 
 Officers from the interior surveillance brigade of Narbonne customs, part of
 France's Douane Française service, carried out a drug seizure on 7 November 2026
 at the Sigean rest area on the A9 motorway in the Aude department of southern
-France. [@1] Narbonne customs officers said they seized 94.175 kilograms of
+France. [@1,2] Narbonne customs officers said they seized 94.175 kilograms of
 cannabis herb, the dried plant material known in French as herbe de cannabis, at
-that location. [@1] The cannabis was hidden in a truck registered in Romania.
-[@1] The driver had declared that he was transporting olive oil. [@1]
+that location. [@1,2] The cannabis was hidden in a truck registered in Romania.
+[@1,2] Officers found sachets of cannabis hidden under the hatch of the trailer's porte-bobine, the reel holder. [@2] The driver had declared that he was transporting olive oil. [@1,2] The driver was immediately placed in customs detention, taken to the brigade offices and, on the prosecutor's instruction, handed to the Perpignan office of the anti-narcotics service OFAST. [@2] A customs drug-detection dog marked the side of the load during the search, according to the Perpignan regional customs directorate. [@2]
 
 Customs estimated the value of the drugs on the illicit market at 941,750 euros,
-an estimate made by the customs service itself. [@1] A final weighing
+an estimate made by the customs service itself. [@1,2] A final weighing
 established the total quantity of cannabis herb at 94.175 kilograms. [@1]
 
 The driver was tried on 13 November 2026 and sentenced to two years in prison
-and a fine of 164,800 euros. [@1]
-
+and a fine of 164,800 euros. [@1,2] The sentence also included a two-year ban from French territory. [@2] The hearing was a comparution immédiate, an immediate court appearance, and the driver was kept in detention. [@2]
