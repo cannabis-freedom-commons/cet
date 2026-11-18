@@ -90,6 +90,11 @@ sources:
     publisher: بوابة مولانا
     date: 2026-11-17
     language: ar
+  - title: المؤبد لعامل بتهمة الاتجار في 36 كيلو حشيش بالإسكندرية - بوابة الأهرام
+    url: https://gate.ahram.org.eg/News/5986499.aspx
+    publisher: بوابة الأهرام
+    date: 2026-11-17
+    language: ar
 open_questions:
     - No date is given for the ruling; 17 November 2026, the date of publication, stands in for it.
     - The accounts of the ruling reproduce the same court and prosecution statement and are not independent reporting.
@@ -97,9 +102,9 @@ open_questions:
 ---
 
 The Alexandria Criminal Appeals Court sentenced a worker identified only as
-H.Kh.M. to life imprisonment for trafficking in narcotic drugs. [@1,2,3,4,6,7,8] The court
+H.Kh.M. to life imprisonment for trafficking in narcotic drugs. [@1,2,3,4,6,7,8,9] The court
 fined him 100,000 Egyptian pounds, ordered the confiscation of the drugs and
-ordered him to pay the criminal costs. [@1,2,3,4,6,7,8] The ruling panel was headed by
+ordered him to pay the criminal costs. [@1,2,3,4,6,7,8,9] The ruling panel was headed by
 Counsellor Mohamed Abdel Hamid El-Khouly, with members Tarek Mohamed Haridi,
 Khaled Mohamed Abdel Fattah and Ahmed Mokhtar Abdel Hai, and clerk Mahmoud
 Mostafa. [@1,2,4,7,8]
@@ -107,10 +112,10 @@ Mostafa. [@1,2,4,7,8]
 The case was registered as No. 3704 of 2026, Second Ameriya felonies, after the
 Alexandria Security Directorate received a notice from General Administration
 for Drug Control officers that the defendant had been caught with hashish in the
-district. [@1,2,3,4,6,7,8] Investigators said the worker was engaged in trafficking narcotic
+district. [@1,2,3,4,6,7,8,9] Investigators said the worker was engaged in trafficking narcotic
 drugs, and a prosecution warrant was obtained before officers carried out the
 arrest. [@1,3,6,7,8] At the arrest he was holding two bags of hashish slabs, one
-weighing 18.110 kilograms and the other weighing 18.100 kilograms. [@1,3,5,6,7,8] Each of the two bags held 750 hashish slabs. [@3,4,5,6,7] Officers
+weighing 18.110 kilograms and the other weighing 18.100 kilograms. [@1,3,5,6,7,8,9] Each of the two bags held 750 hashish slabs. [@3,4,5,6,7] Officers
 also found cash and a mobile phone on his person during the search. [@1,2,3,4,5,6,7,8]
 
 Police drew up a report on the incident and the prosecution referred the
