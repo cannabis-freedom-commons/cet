@@ -69,6 +69,11 @@ sources:
     publisher: Süddeutsche Zeitung
     date: 2026-11-17
     language: de
+  - title: Scheunenbrand bei Bösdorf enthüllt dreistöckige Cannabisplantage – Unbekannter flieht vom Gelände | mdr.de
+    url: https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/boerde/bei-brand-entdeckt,cannabis-plantage-112.html
+    publisher: MDR
+    date: 2026-11-17
+    language: de
 open_questions:
   - No arrests were reported, and the man seen leaving the adjoining house had not been found when the police statement was issued.
   - The police give about 2,000 plants found at the site, part of them burnt; no separate figure for plants destroyed by the fire or taken away afterwards was published.
@@ -85,18 +90,17 @@ police in Haldensleben, dpa reported. [@4] The fire brigades of Oebisfelde and
 Bösdorf were alerted at 13:23. [@1] The fire service stopped the flames
 spreading to neighbouring houses. [@3] No one was injured. [@3] Witnesses saw a
 man leave the adjoining house in a hurry, and a search of the area with a police
-helicopter found no trace of him. [@2]
+helicopter found no trace of him. [@2,5]
 
 Inside the burnt barn police found a cannabis plantation run on three levels.
-[@2] About 2,000 plants stood at the site, and part of them burned in the fire,
-the Börde police division said. [@2] Police put the property damage at about
-60,000 euros. [@4]
+[@2,5] About 2,000 plants stood at the site, and part of them burned in the fire,
+the Börde police division said. [@2,5] Police put the property damage at about
+60,000 euros. [@4,5]
 
 Investigators assumed a technical defect in the power lines caused the fire.
 [@2] Police were examining whether the plantation had anything to do with the
 fire. [@3] Police opened an investigation for a violation of the
-Konsumcannabisgesetz, Germany's cannabis act. [@2] Officers would visit the site
+Konsumcannabisgesetz, Germany's cannabis act. [@2,5] Officers would visit the site
 again in the coming days, police said. [@2] Police were investigating whether
 the man who fled was involved in starting the fire, and asked witnesses to come
 forward. [@2]
-
