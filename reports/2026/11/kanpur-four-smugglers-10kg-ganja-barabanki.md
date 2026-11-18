@@ -42,6 +42,11 @@ media:
     media_url: https://www.youtube.com/watch?v=1XtydHc
     publisher: Amar Ujala
     caption: Amar Ujala video reporting the arrest of the four interstate smugglers and the seizure of 10 kg of ganja and 127 g of smack.
+  - kind: photo
+    url: https://www.jagran.com/uttar-pradesh/kanpur-city-four-smugglers-arrested-for-heroin-trafficking-in-kanpur-40440560.html
+    media_url: https://www.jagranimages.com/images/2026/11/18/template/image/Four-smugglers-arrested-for-heroin-trafficking-in-Kanpur-1794996542187_v.webp
+    publisher: Dainik Jagran
+    caption: 'Four accused in the Kanpur ganja and smack smuggling case after their arrest, in a photo published with the Jagran report. Photo: Dainik Jagran'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 029043776c06bf8bf656396702b8f73f
@@ -57,18 +62,23 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-18
     language: hi
+  - title: कानपुर में स्मैक तस्करी के लिए यूज करते थे ये कोड वर्ड, चार तस्कर गिरफ्तार
+    url: https://www.jagran.com/uttar-pradesh/kanpur-city-four-smugglers-arrested-for-heroin-trafficking-in-kanpur-40440560.html
+    publisher: Dainik Jagran
+    date: 2026-11-18
+    language: hi
 open_questions:
-  - The articles give no separate date for the arrests; 18 November 2026, the publication date of both accounts, is used as the incident date.
-  - No formal charges, court outcome or detention details were reported; police said the network was still under investigation.
-  - The 127 grams of smack seized with the ganja is a different substance and is excluded from the cannabis weight; no value estimate for the ganja was published.
-  - Both accounts come from the same Amar Ujala newsroom, so they are not independent reporting.
-  - No laboratory confirmation that the seized plant material was cannabis was reported.
-  - The gang is called interstate, but all named places, Barabanki, Kanpur, Gorakhpur and Faizabad, are in Uttar Pradesh and no crossing of a state border is described.
+    - Jagran says the arrests were made late on Tuesday night; the report uses 18 November 2026, the publication date of the first accounts, as the incident date.
+    - No formal charges, court outcome or detention details were reported; police said the network was still under investigation.
+    - The 127 grams of smack seized with the ganja is a different substance and is excluded from the cannabis weight; no value estimate for the ganja was published.
+    - The Amar Ujala and Jagran accounts both reproduce the same Kanpur police briefing, so they are not independent reporting.
+    - No laboratory confirmation that the seized plant material was cannabis was reported.
+    - The gang is called interstate, but the named places, including Barabanki, Kanpur, Gorakhpur, Faizabad/Ayodhya and Prayagraj, are all in Uttar Pradesh; no crossing of a state border is described.
 ---
 
 Kanpur police arrested four people they described as an interstate
 drug-trafficking gang and seized 10 kilograms of ganja and 127 grams of smack.
-[@1] Among those held was Ashu Sonkar, alias Allahabadi, a resident of
+[@1,3] The arrests were made by Bajariya police late on Tuesday night. [@3] Among those held was Ashu Sonkar, alias Allahabadi, a resident of
 Colonelganj in Bajariya, who brought the drugs from Barabanki and supplied them
 across the city. [@1] The other three were Manna of Sudhia Mau in Barabanki's
 Ramnagar police-station area, and Ramchandra and Masood of Jaitpur. [@1]
@@ -77,12 +87,11 @@ he sent consignments there. [@1]
 
 Police said the group carried the consignment from Barabanki and supplied
 Kanpur, Gorakhpur and Faizabad. [@2] Police said Sonkar delivered the drugs to
-areas including Bidhur, Baradevi and Chunniganj. [@1] The traffickers used
-'kapda' (cloth) as a code word for smack and called one gram 'one metre'. [@1]
+areas including Bidhur, Baradevi and Chunniganj. [@1] Sonkar also supplied Saket Nagar, Barra and Naubasta Machharia, police said. [@3] The traffickers used
+'kapda' (cloth) as a code word for smack and called one gram 'one metre'. [@1,3]
 They made 12 to 14 packets from each gram and sold each for 300 rupees or more.
-[@1]
+[@1,3]
 
 Payment was collected through community service centres, with QR codes sent to
-buyers. [@1] Police were investigating the suspects' inward and outward networks
-to trace the source and destinations of the consignments. [@1]
-
+buyers. [@1,3] Police were investigating the suspects' inward and outward networks
+to trace the source and destinations of the consignments. [@1,3]
