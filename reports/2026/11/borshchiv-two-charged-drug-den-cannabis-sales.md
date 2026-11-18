@@ -71,6 +71,11 @@ sources:
     publisher: Gazeta1
     date: 2026-11-18
     language: uk
+  - title: На Борщівщині двоє чоловіків облаштували наркопритон
+    url: https://galas.te.ua/2026/11/na-borshchivshchyni-dvoie-cholovikiv-oblashtuvaly-narkopryton/
+    publisher: ГАЛАС
+    date: 2026-11-18
+    language: uk
 open_questions:
   - No separate date is given for the searches or the detentions; 18 November 2026 is the date of the police statement and of publication and stands in for the incident date.
   - The packets held crushed plant material described only as preliminarily cannabis, and no weight, value or expert confirmation was reported.
@@ -84,17 +89,16 @@ open_questions:
 Police investigators in Ternopil Oblast notified two residents of the Borshchiv
 community that they were suspected of providing a place for illegal drug use and
 of selling banned substances. [@1] Both are 31-year-old men who set up a drug
-den in a farm building on the grounds of a local household. [@1] Officers of the
+den in a farm building on the grounds of a local household. [@1,4] Officers of the
 Borshchiv police department opened the case after receiving information that
 suspicious people were regularly gathering at one of the households. [@3] Police
 documented more than ten occasions on which the premises were provided for drug
-use. [@1] They also established that one of the two men sold cannabis. [@1]
+use. [@1,4] They also established that one of the two men sold cannabis. [@1,4]
 
 Both men were notified of suspicion under Part 2 of Article 317 of Ukraine's
 Criminal Code, which covers organising or maintaining a place for illegal drug
-use. [@1] One of them additionally faces Part 1 of Article 307, illegal sale of
-narcotic drugs. [@1] Both were detained under Article 615 of the Criminal
-Procedure Code, the wartime procedure for holding detainees. [@2] A pre-trial
+use. [@1,4] One of them additionally faces Part 1 of Article 307, illegal sale of
+narcotic drugs. [@1,4] Both were detained under Article 615 of the Criminal
+Procedure Code, the wartime procedure for holding detainees. [@2,4] A pre-trial
 detention measure was still being decided when the police statement was
-published. [@1] The charges carry up to eight years in prison. [@1]
-
+published. [@1] The charges carry up to eight years in prison. [@1,4]
