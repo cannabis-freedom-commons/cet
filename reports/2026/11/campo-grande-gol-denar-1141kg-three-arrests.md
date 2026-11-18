@@ -111,6 +111,11 @@ sources:
     publisher: A Crítica de Campo Grande
     date: 2026-11-18
     language: pt
+  - title: Gol abandonado e imóvel alugado escondiam 1,1 tonelada de maconha em Campo Grande
+    url: https://folhams.com.br/2026/11/18/policia-apreende-1-tonelada-maconha-campo-grande-tres-presos/
+    publisher: Folha MS
+    date: 2026-11-18
+    language: pt
 open_questions:
     - No formal charge, custody decision or court outcome was reported; the case remained with Denar at the investigation stage.
     - The origin and intended destination of the cannabis were not established, and police said they would investigate them further.
@@ -123,27 +128,27 @@ open_questions:
 
 Civil police in Campo Grande arrested three men — Joilson Pereira Leite, Igor
 Oliveira Pereira and Mateus Silva Alves — at the end of an operation by the
-Denar narcotics unit. [@1,2,6] The operation ran from the night of Monday 16
-November into the early afternoon of Tuesday 17 November 2026. [@1,2,3,4,5,6,8] The three
-were taken to Denar for judicial police procedures. [@1,4,5,6,7,8]
+Denar narcotics unit. [@1,2,6,9] The operation ran from the night of Monday 16
+November into the early afternoon of Tuesday 17 November 2026. [@1,2,3,4,5,6,8,9] The three
+were taken to Denar for judicial police procedures. [@1,4,5,6,7,8,9]
 
 The investigation began after police noticed a Volkswagen Gol with apparently
-false number plates and signs of involvement in drug transport. [@1,2,3,7] The Gol was
+false number plates and signs of involvement in drug transport. [@1,2,3,7,9] The Gol was
 found abandoned in vegetation at the side of a highway after running out of
-fuel, still carrying 488.8 kg of cannabis in 493 tablets. [@1,2,3,4,5,6,7,8] Police stopped a
+fuel, still carrying 488.8 kg of cannabis in 493 tablets. [@1,2,3,4,5,6,7,8,9] Police stopped a
 Chevrolet Astra carrying two men, one of them Igor Oliveira Pereira. [@1,2,3,8] Igor
 admitted taking part in the criminal activity and gave police information about
-other people and vehicles involved. [@1,2] The information led police to Mateus
+other people and vehicles involved. [@1,2,9] The information led police to Mateus
 Silva Alves, identified as responsible for a Chevrolet Onix used to support the
-drug transport. [@1,2,3,8] At a residence linked to Mateus, police found 166 grams of
-cannabis and the keys to a property he had rented. [@1,2,3,6] Mateus had rented a
-property in the Universitário neighbourhood of Campo Grande. [@1,2,6,7,8] At that
-address officers found a further 652.8 kg of stored cannabis. [@1,2,5,6,7,8] The two loads
-took the total seizure past 1.1 tonnes of cannabis. [@1,2,4,5,7,8]
+drug transport. [@1,2,3,8,9] At a residence linked to Mateus, police found 166 grams of
+cannabis and the keys to a property he had rented. [@1,2,3,6,9] Mateus had rented a
+property in the Universitário neighbourhood of Campo Grande. [@1,2,6,7,8,9] At that
+address officers found a further 652.8 kg of stored cannabis. [@1,2,5,6,7,8,9] The two loads
+took the total seizure past 1.1 tonnes of cannabis. [@1,2,4,5,7,8,9] Besides the cannabis, investigators collected vehicles and other objects considered relevant to the continuing investigation. [@9]
 
 The action formed part of Operation Protetor de Fronteiras e Divisas, run by
 Brazil's Ministry of Justice, and targeted a structure suspected of transporting
-and storing drugs from the region bordering Paraguay. [@1,3,5,6,7,8] Other narcotic
+and storing drugs from the region bordering Paraguay. [@1,3,5,6,7,8,9] Other narcotic
 substances found at the property appeared to investigators to relate to a
-separate occurrence. [@1,2,4,6,8] Police said the work was not finished and that the
+separate occurrence. [@1,2,4,6,8,9] Police said the work was not finished and that the
 origin and destination of the drugs remained unclear. [@1,6]
