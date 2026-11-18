@@ -69,6 +69,11 @@ sources:
     publisher: G1
     date: 2026-11-18
     language: pt
+  - title: Homem é preso com Hilux carregada com 205 kg de skunk em MT
+    url: https://www.midiajur.com.br/geral/homem-e-preso-com-hilux-carregada-com-205-kg-de-skunk-em-mt/89351
+    publisher: Midia Jur
+    date: 2026-11-18
+    language: pt
 open_questions:
   - No laboratory confirmation that the material was cannabis was reported; police described it as a substance resembling skunk.
   - Skunk is a street name for a potent form of cannabis; no potency or THC content was given.
@@ -79,18 +84,17 @@ open_questions:
 
 Military Police officers from the Força Tática tactical unit stopped a white
 Toyota Hilux on BR-174 in Juína, Mato Grosso, on the night of 17 November 2026.
-[@2] They arrested the 41-year-old driver in the act for drug trafficking. [@1]
+[@2,4] The officers were from the Força Tática of the 8th Regional Command. [@4] They arrested the 41-year-old driver in the act for drug trafficking. [@1,4]
 In the truck bed officers found 194 large packages of material resembling skunk,
 a strong cannabis known in Brazil as supermaconha, weighing 205 kilograms in
-total. [@2]
+total. [@2,4]
 
 The Military Police said the Federal Highway Police (PRF) had alerted it to the
 Hilux as it headed towards Juína, after PRF officers failed to stop the vehicle
-because of mechanical problems. [@2] The driver told officers he had left Rolim
-de Moura, in Rondônia, and was bound for Várzea Grande. [@2] He said he would be
-paid a sum of money for transporting the drug. [@3] The Military Police put the
+because of mechanical problems. [@2,4] The driver told officers he had left Rolim
+de Moura, in Rondônia, and was bound for Várzea Grande. [@2,4] He said he would be
+paid a sum of money for transporting the drug. [@3,4] The Military Police put the
 loss to crime at 778,000 reais. [@2]
 
 The man was taken to the Juína police station with the seized drug for the
-record and further measures. [@1]
-
+record and further measures. [@1,4]
