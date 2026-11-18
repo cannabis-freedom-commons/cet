@@ -96,30 +96,39 @@ sources:
     publisher: Virgilio Notizie
     date: 2026-11-17
     language: it
+  - title: 'Scoperta nel Catanzareseuna piantagione di cannabis: tre arresti. Sequestrati 20 chili di marijuana'
+    url: https://www.esperia.tv/notizie/cronaca/1580/scoperta-nel-catanzareseuna-piantagione-di-cannabis-tre-arresti-sequestrati-20-chili-di-marijuana
+    publisher: Esperia Tv
+    date: 2026-11-17
+    language: it
+open_questions:
+    - The marijuana amount is given as about 20 kilograms, not an exact measured weight.
+    - The nature and function of the pen-like device found in the lorry were not established, and the results of the ballistic tests were not reported.
+    - No plea or court outcome beyond the pre-trial detention order of 12 October 2026 was reported.
 ---
 
 Carabinieri of the Sellia Marina company, supported by the Cacciatori 'Calabria'
 helicopter squadron, discovered a cannabis plantation hidden in dense vegetation
-in an impervious agricultural area of Marcedusa, in Catanzaro province. [@1,6,7] The
-operation was launched on 9 October 2026 during a territory patrol. [@4] Inside
-the plot officers surprised three people cutting and processing the plants. [@1,7]
+in an impervious agricultural area of Marcedusa, in Catanzaro province. [@1,6,7,8] The
+operation was launched on 9 October 2026 during a territory patrol. [@4,8] Inside
+the plot officers surprised three people cutting and processing the plants. [@1,7,8]
 The three suspects were arrested in flagrante and taken to Catanzaro prison.
-[@1,6] The investigation and the operation were carried out by the Carabinieri together with the public prosecutor's office at the court of Catanzaro. [@6] The investigating judge validated the arrests on 12 October 2026 and
-ordered pre-trial detention in prison. [@2] A 21-year-old was reported at
+[@1,6,8] The investigation and the operation were carried out by the Carabinieri together with the public prosecutor's office at the court of Catanzaro. [@6] The investigating judge validated the arrests on 12 October 2026 and
+ordered pre-trial detention in prison. [@2,8] A 21-year-old was reported at
 liberty to the Catanzaro prosecutor for possession of narcotics for trafficking
 after about 21 grams of marijuana and a precision scale were found in his car.
-[@1,7]
+[@1,7,8]
 
 The cultivated area had an autonomous irrigation system. [@1,7] Officers found 27
 cannabis stalks about 2.5 metres tall and a drying area where the substance was
-already ready for packaging. [@1,7] Police seized about 20 kilograms of marijuana
-that had already been harvested. [@1,7]
+already ready for packaging. [@1,7,8] Police seized about 20 kilograms of marijuana
+that had already been harvested. [@1,7,8]
 
 Follow-up searches involving the Botricello and Mesoraca carabinieri stations
 covered people, vehicles and homes in the provinces of Catanzaro and Crotone.
-[@5,7] In a lorry used by one of the suspects officers found a snap device
-resembling a 'pen pistol', which was to undergo ballistic tests. [@1,7] More than
-15,700 euros in cash was seized from the homes searched. [@1,7] The plantation was
+[@5,7,8] In a lorry used by one of the suspects officers found a snap device
+resembling a 'pen pistol', which was to undergo ballistic tests. [@1,7,8] More than
+15,700 euros in cash was seized from the homes searched. [@1,7,8] The plantation was
 dismantled and the plants, the drug material and the cultivation and drying
-equipment were seized. [@1,7] The case remained at the preliminary investigation
+equipment were seized. [@1,7,8] The case remained at the preliminary investigation
 stage. [@3]
