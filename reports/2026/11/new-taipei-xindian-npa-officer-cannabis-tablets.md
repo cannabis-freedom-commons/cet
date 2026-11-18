@@ -103,11 +103,16 @@ sources:
     publisher: ETtoday新聞雲
     date: 2026-11-18
     language: zh
-open_questions:
-    - The account gives no separate cannabis weight; the cannabis tablets, ketamine and cathinone powder together weighed more than 10 grams.
-    - The drugs were identified by field test; no laboratory confirmation was reported.
-    - The time of the motel inspection is given as about 10 p.m. in some accounts and about 11 p.m. (23:00) in the ETtoday report.
-    - Sources give the arrested specialist's age as 45 or 46.
+  - title: 警政署又爆警官持毒！資訊室技正「被自己人活逮」 火速免職、記兩大過 | 太報 | LINE TODAY
+    url: https://today.line.me/tw/v3/article/1DPaP98
+    publisher: 太報
+    date: 2026-11-18
+    language: zh
+  - title: 快訊／三線一星警官汽車旅館持毒被抓　警政署火速記2大過免職
+    url: https://news.tvbs.com.tw/local/4052526
+    publisher: TVBS新聞網
+    date: 2026-11-18
+    language: zh
 ---
 
 Kuo Wen-cheng, 46, a technical specialist in the National Police Agency's
@@ -117,21 +122,21 @@ out an expanded inspection during the nationwide anti-gang sweep when they
 entered his room at about 10 p.m. and found him holding cannabis tablets, a
 category 2 drug. [@1,7] The inspection was carried out by officers from the precinct's Jiangling police station (江陵所), who were checking a motel on Baoqiao Road late that night. [@9,13] Kuo admitted using cannabis when officers found him with it in the motel room. [@8] He was at a party at a motel on Baoqiao Road and other men
 were in the room. [@1,7] Kuo appeared dazed when officers found him in the room. [@12] Police took Kuo and a male friend back for questioning.
-[@6,9,11] Kuo had previously served in the agency's traffic section and its
+[@6,9,11,14] Kuo had previously served in the agency's traffic section and its
 inspectorate and was transferred to the information office this year. [@1,7]
 
 Officers seized cannabis tablets, listed as a category 2 drug, and ketamine, a
 category 3 drug, and arrested him. [@2,12] Officers found several suspected drug powders and tablets on the two men, and field tests reacted for cannabis, cathinone and ketamine. [@9,13] FTNN reported that the cannabis was in
-pills containing cannabis, found with ketamine and cathinone. [@6,11] The cannabis tablets, ketamine and cathinone powder together weighed more than 10 grams. [@9,13] China Times
+pills containing cannabis, found with ketamine and cathinone. [@6,11,14,15] The cannabis tablets, ketamine and cathinone powder together weighed more than 10 grams. [@9,13] China Times
 reported that Kuo and a friend were found with cannabis, ketamine and cathinone.
 [@4] The officers did not recognise him as a senior officer at the time; he
 later went to the agency's inspectorate and admitted his involvement, which is
-how the case became public. [@5,10,12] The case was sent to the Taipei District
-Prosecutors Office under the Narcotics Hazard Prevention Act. [@2,11,12] Kuo was taken to the Taipei District Prosecutors Office for questioning in the early hours of 14 November. [@9,13] Prosecutors
+how the case became public. [@5,10,12,14] The case was sent to the Taipei District
+Prosecutors Office under the Narcotics Hazard Prevention Act. [@2,11,12,14] Kuo was taken to the Taipei District Prosecutors Office for questioning in the early hours of 14 November. [@9,13] Prosecutors
 released him on NT$30,000 bail after questioning. [@4]
 
 The agency held an emergency personnel review on 14 November and dismissed Kuo
 with two major demerits. [@2,8,9,12,13] It said supervisors would also be held accountable
-for inadequate assessment and oversight. [@1,7,8,11,12] ETtoday reported that it was the
+for inadequate assessment and oversight. [@1,7,8,11,12,14] ETtoday reported that it was the
 second drug case involving a mid-ranking or senior National Police Agency
 officer this year. [@3]
