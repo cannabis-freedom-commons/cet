@@ -47,9 +47,14 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-04
     language: hi
+  - title: 'भोपाल में ऑपरेशन नार्कोस का बड़ा एक्शन: RPF ने ट्रेनों से 7 लाख से अधिक का गांजा किया जब्त, मध्य प्रदेश और हरियाणा के 3 तस्कर गिरफ्तार'
+    url: https://rajexpress.com/madhya-pradesh-news/bhopal-railway-station-rpf-operation-narcos-ganja-seized-three-arrested
+    publisher: Raj Express
+    date: 2026-11-18
+    language: hi
 open_questions:
-  - Only one accessible source for this event was found after searching in English and Hindi.
-  - No court outcome was reported; the case stood at the stage of an offence being registered and legal proceedings started.
+    - No court outcome was reported; the case stood at the stage of an offence being registered and legal proceedings started.
+    - One account places the arrest at Itarsi's Nagpur outer as the accused got off the Samata Express, while local reports place it beyond Teen Puliya near the Nagpur-Mumbai railway track.
 ---
 
 A joint team of Itarsi police in Narmadapuram district and the RPF, the railway
@@ -58,16 +63,16 @@ illegal drugs. [@1] Officers caught the accused on 4 November on the basis of
 information received from an informer. [@1] The accused was identified as
 35-year-old Ramkumar Thakur, son of Sannu Thakur, a resident of Padrai village
 under Bankhedi police station in Narmadapuram district. [@1,2] He was caught
-beyond Teen Puliya, near the Nagpur-Mumbai railway track. [@1,2]
+beyond Teen Puliya, near the Nagpur-Mumbai railway track. [@1,2] The accused was caught as he got off a general coach of the Samata Express at Itarsi, where he had travelled with the ganja. [@3]
 
 Police recovered 8 kg 400 grams of illegal ganja, the local name for cannabis,
-from his possession during the same operation. [@1,2] The ganja was kept in a
+from his possession during the same operation. [@1,2,3] The ganja was kept in a
 black backpack carried by the accused. [@1,2] Police said he had been looking for
 an opportunity to sell it. [@1,2] Police estimated its value on the international
-market at about 150,000 rupees. [@1]
+market at about 150,000 rupees. [@1,3]
 
 Police registered an offence against the accused and started the formal legal
-process. [@1,2] Officers and staff of Itarsi police station and the RPF played an
+process. [@1,2] The action was part of the RPF's Operation Narcos drive against drug trafficking through trains and railway premises. [@3] Officers and staff of Itarsi police station and the RPF played an
 important role in the whole operation. [@1]
 
 Police registered crime number 1085/2026 against the accused under sections 8/20 of the NDPS Act. [@2] The police team that reached the spot was led by station in-charge Inspector Saurabh Pandey. [@2]

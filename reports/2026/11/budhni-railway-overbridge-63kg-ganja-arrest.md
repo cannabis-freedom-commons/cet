@@ -61,19 +61,27 @@ sources:
     url: https://www.pradeshprakash.com/article/budni-men-hariyana-se-ganja-bechne-aya-tha-aropi
     publisher: प्रदेश प्रकाश
     language: hi
+  - title: 'भोपाल में ऑपरेशन नार्कोस का बड़ा एक्शन: RPF ने ट्रेनों से 7 लाख से अधिक का गांजा किया जब्त, मध्य प्रदेश और हरियाणा के 3 तस्कर गिरफ्तार'
+    url: https://rajexpress.com/madhya-pradesh-news/bhopal-railway-station-rpf-operation-narcos-ganja-seized-three-arrested
+    publisher: Raj Express
+    date: 2026-11-18
+    language: hi
+open_questions:
+    - No court outcome was reported; the case was at the charge stage after the arrest.
+    - Police accounts describe a trap under the Budhni railway overbridge, while the RPF roundup describes a suspect who fled from the Gondwana Express near Budhni station.
 ---
 
 Budhni police arrested a 43-year-old man from Karnal district, Haryana, who
-police said was waiting under the Budhni railway overbridge to sell ganja. [@1]
+police said was waiting under the Budhni railway overbridge to sell ganja. [@1] In the RPF account the suspect threw his bag and ran when his train slowed near Budhni station, and officers chased him and caught him with local police. [@3] The RPF roundup dates the Budhni arrest to 6 November. [@3]
 The man told police he lives in Gondar village in Nissing police-station area of
 Karnal district, Haryana. [@1,2] In questioning the man gave his name as Sunil Kumar. [@2] Officers searched him and recovered 6.304
 kilograms of ganja, which police estimated to be worth about three lakh rupees.
-[@1,2]
+[@1,2,3]
 
 Budhni sub-divisional police officer Ravi Sharma said police received a tip that
 a man was sitting by the railway track under the overbridge with ganja, and that
 station house officer Sunil Thakur took a team that surrounded and caught him.
-[@1] The Railway Protection Force post at Itarsi also played an important role in the action alongside Budni police. [@2] The action was carried out by a joint team of the police and the Railway Protection Force. [@2] The arrest came under a district-wide drive against drug smuggling and sale
+[@1] The Railway Protection Force post at Itarsi also played an important role in the action alongside Budni police. [@2] The arrest was part of Operation Narcos, the RPF drive against drug trafficking through trains and railway premises. [@3] The action was carried out by a joint team of the police and the Railway Protection Force. [@2] The arrest came under a district-wide drive against drug smuggling and sale
 run on the orders of the police headquarters and led by Sehore superintendent of
 police Sonakshi Saxena, with additional superintendent Prashant Chaube and
 Budhni sub-divisional officer Ravi Sharma guiding it. [@1]

@@ -55,32 +55,37 @@ sources:
     publisher: palpalindia
     date: 2026-11-17
     language: hi
+  - title: 'भोपाल में ऑपरेशन नार्कोस का बड़ा एक्शन: RPF ने ट्रेनों से 7 लाख से अधिक का गांजा किया जब्त, मध्य प्रदेश और हरियाणा के 3 तस्कर गिरफ्तार'
+    url: https://rajexpress.com/madhya-pradesh-news/bhopal-railway-station-rpf-operation-narcos-ganja-seized-three-arrested
+    publisher: Raj Express
+    date: 2026-11-18
+    language: hi
 open_questions:
-  - No names, ages or home districts of the three accused were published.
-  - No charges, NDPS sections or court outcome were reported.
-  - No laboratory confirmation of the seized ganja was reported.
-  - The whole account of the combined total rests on a single outlet report; no agency statement or second outlet for the three-day total was found.
-  - The 8.4 kg Itarsi seizure and the 6.304 kg Budhni seizure were separately reported with different value estimates from this roundup total.
+    - No ages of the three accused were published in either account.
+    - No laboratory confirmation of the seized ganja was reported.
+    - No court outcome or detention measure was reported; the accounts say NDPS cases were registered at the police stations concerned.
+    - Both accounts of the three-day total are outlet reports; no RPF statement on the combined figure was opened.
+    - The 10.93 kg seizure near Narmadapuram on 5 November has no separate local report, so the man arrested there is identified only in the roundup accounts.
+    - The accounts do not say whether the three seizures belonged to one network or whether the three accused knew each other.
 ---
 
-RPF Post Itarsi arrested three accused during the three-day operation. [@1] The
+RPF Post Itarsi arrested three accused during the three-day operation. [@1,2] The third was Sunil Kumar, a resident of Karnal in Haryana. [@2] The second was Raju, a resident of Panchkula in Haryana. [@2] One of the three was Ramkumar Thakur, a resident of Narmadapuram. [@2] The
 operation ran from 4 to 6 November 2026 around Itarsi, Narmadapuram and Budhni
 stations. [@1]
 
 RPF Post Itarsi seized a total of 25.634 kilograms of ganja in three separate
-actions over three days. [@1] RPF seized 8.4 kilograms of ganja on 4 November
+actions over three days. [@1,2] RPF seized 8.4 kilograms of ganja on 4 November
 from an accused who got off the Samata Express at the Itarsi-Nagpur outer. [@1]
 Officers seized 10.93 kilograms near Narmadapuram station on 5 November and
 6.304 kilograms from an accused who got off the Gondwana Express near Budhni
-station on 6 November. [@1] Police estimated the total value of the seized ganja
-at 723,250 rupees. [@1]
+station on 6 November. [@1] On 6 November, when the train slowed near Budhni, the suspect threw his bag and ran, and RPF officers chased him and caught him with local police. [@2] The action near Narmadapuram station on 5 November was also based on information that ganja was being carried in the general coach of the Samata Express. [@2] Police estimated the total value of the seized ganja
+at 723,250 rupees. [@1,2]
 
 The seizures were made under Operation Narcos, the RPF drive against drug
 trafficking through the railways across the three divisions of West Central
 Railway. [@1] The operation was conducted under the guidance of the Principal
 Chief Security Commissioner and the leadership of senior divisional security
-commissioners. [@1] RPF Post Itarsi acted with the Crime Intelligence Branch
-Bhopal, the Special Intelligence Branch and local police. [@1] West Central
+commissioners. [@1] The drive was run under Senior Divisional Security Commissioner Dr Abhishek. [@2] RPF Inspector Manish Pandey led the Itarsi RPF post team in the three actions. [@2] RPF Post Itarsi acted with the Crime Intelligence Branch
+Bhopal, the Special Intelligence Branch and local police. [@1] RPF prepared dossiers on the three for future monitoring. [@2] A check of the three on the ICJS portal found no previous criminal record. [@2] Cases were registered at the police stations concerned under section 8/20 of the NDPS Act. [@2] West Central
 Railway officials said the drive against drug trafficking and other illegal
 activity in railway premises will continue in all three divisions. [@1]
-
