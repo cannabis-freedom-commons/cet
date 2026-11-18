@@ -43,34 +43,39 @@ sources:
     publisher: Tunisie Telegraph
     date: 2026-11-18
     language: ar
+  - title: 'عاجل: إيقاف 3 أشخاص بينهم لاعب كرة يد محترف بالخارج في قضية مخدرات بسيدي حسين'
+    url: https://www.tuniscope.com/ar/article/444966/arabe/actu-arabe/tunisie-crime-drigue-handball-tunisie-541114
+    publisher: Tuniscope
+    date: 2026-11-18
+    language: ar
 open_questions:
-  - No separate date for the operation or arrests was reported; 18 November 2026 is the publication date and stands in for the incident date.
-  - The quantity of cannabis was given only as a number of slabs of Indian hemp, with no weight, plant count or value published.
-  - The material was described as slabs of Indian hemp without saying whether it was resin or herb, and no laboratory confirmation was reported.
-  - The suspects were identified only by origin and occupation; the handball player's name and clubs were not disclosed.
-  - No formal charges or court outcome beyond the prosecutor's custody order were reported.
-  - The roles of each suspect in the alleged network remain under investigation.
+    - No separate date for the operation or arrests was reported; 18 November 2026 is the publication date and stands in for the incident date.
+    - The quantity of cannabis was given only as a number of slabs of Indian hemp, with no weight, plant count or value published.
+    - The material was described as slabs of Indian hemp without saying whether it was resin or herb, and no laboratory confirmation was reported.
+    - The suspects were identified only by origin and occupation; the handball player's name and clubs were not disclosed.
+    - No formal charges or court outcome beyond the prosecutor's custody order were reported.
+    - The roles of each suspect in the alleged network remain under investigation.
+    - Tuniscope credits its account to Jawhara FM radio and Tunisie Telegraph published the same statement, so the details rest on one official account rather than independent reporting.
 ---
 
 Security investigations into a drug-trafficking case in Tunis identified three
 suspects, among them a professional Tunisian handball player who had played for
-Tunisian and Arab clubs before turning professional in Europe. [@1] The public
+Tunisian and Arab clubs before turning professional in Europe. [@1,2] The public
 prosecutor at the Tunis 2 Initial Instance Court authorised holding the three
 after security information raised suspicion that a young man from the Sidi
-Hussein area was involved in promoting narcotic substances. [@1]
+Hussein area was involved in promoting narcotic substances. [@1,2]
 
 Agents of the Sidi Hussein El Sijoumi national security district put the suspect
 under surveillance after intensive inquiries into his movements and caught him
-in a car carrying several slabs of Indian hemp (cannabis). [@1] Further
+in a car carrying several slabs of Indian hemp (cannabis). [@1,2] Further
 inquiries led to the arrest of two other young men suspected of belonging to the
 same network, one of them a professional handball player in a European country
 who had played for several Tunisian teams and had professional spells in Arab
-countries. [@1]
+countries. [@1,2]
 
 On the basis of the initial findings the three were ordered held in custody
 pending investigation while inquiries continued to identify other possible
-members of the network and the role of each. [@1] All parties were expected to
+members of the network and the role of each. [@1,2] All parties were expected to
 be referred to the courts for the necessary legal decisions. [@1] The account
 withheld the player's name and clubs and gave neither the exact quantity of
 drugs seized nor the roles assigned to each suspect. [@1]
-
