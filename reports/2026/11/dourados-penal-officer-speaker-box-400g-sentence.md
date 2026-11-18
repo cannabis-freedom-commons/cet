@@ -57,47 +57,48 @@ sources:
     publisher: Campo Grande News
     date: 2026-11-16
     language: pt
+  - title: Policial penal condenado por tráfico em Dourados terá pena de prisão substituída
+    url: https://acritica.net/policia/policial-penal-condenado-dourados/
+    publisher: A Crítica de Campo Grande
+    date: 2026-11-17
+    language: pt
 open_questions:
-  - The 400 grams is an approximate figure, and no laboratory confirmation was reported.
-  - 15 March is given without a year; 2026 is inferred from publication in November 2026.
-  - The sentence was signed on Friday the 13th; 13 November 2026 is inferred from the 16 November 2026 publication.
-  - No value estimate for the seized marijuana was published.
-  - The monetary size of the 176 day-fines and the minimum-wage payment was not stated.
-  - Whether the officer remains in his post or faces administrative discipline was not reported.
-  - The conviction is at first instance and the outcome of any appeal is not known.
-  - The whole account rests on a single outlet's reporting of the sentence.
+    - The 400 grams is an approximate figure, and no laboratory confirmation was reported.
+    - No value estimate for the seized marijuana was published.
+    - The monetary size of the 176 day-fines and the minimum-wage payment was not stated.
+    - Whether the officer remains in his post or faces administrative discipline was not reported.
+    - The conviction is at first instance and the outcome of any appeal is not known.
 ---
 
 Penal officer Leandro de Oliveira Silva, 46, was convicted of drug trafficking
-and illegal possession of a permitted-use firearm. [@1] Judge Marcel Goulart
+and illegal possession of a permitted-use firearm. [@1,2] Judge Marcel Goulart
 Vieira of Dourados' 2nd Criminal Court signed the sentence on Friday the 13th.
-[@1] The court imposed 3 years and 8 months of reclusion plus 176 day-fines.
-[@1] The judge set an initial open regime for the sentence. [@1] The custodial
-sentence was replaced by community service and payment of one minimum wage. [@1]
-The judge authorised the convicted officer to appeal in freedom. [@1] The
-conviction is at first instance and remains subject to appeal. [@1]
+[@1,2] The court imposed 3 years and 8 months of reclusion plus 176 day-fines.
+[@1,2] The judge set an initial open regime for the sentence. [@1,2] The custodial
+sentence was replaced by community service and payment of one minimum wage. [@1,2]
+The judge authorised the convicted officer to appeal in freedom. [@1,2] The
+conviction is at first instance and remains subject to appeal. [@1,2]
 
 The arrest took place on 15 March, when military police stopped him in a Honda
-City near Praça do Cinquentenário in Dourados. [@1] Officers found about 400
-grams of marijuana hidden in a portable speaker box. [@1] Police also found 30
-.38-calibre bullets inside the equipment. [@1] The case was based on a denúncia
-by the Mato Grosso do Sul prosecution (MPMS) accusing him of both crimes. [@1]
+City near Praça do Cinquentenário in Dourados. [@1,2] Officers found about 400
+grams of marijuana hidden in a portable speaker box. [@1,2] Police also found 30
+.38-calibre bullets inside the equipment. [@1,2] The case was based on a denúncia
+by the Mato Grosso do Sul prosecution (MPMS) accusing him of both crimes. [@1,2]
 The sentence ordered forfeiture of seized values and objects linked to the
 crimes and authorised destruction of the drug. [@1]
 
 He worked in the prison's videoconference sector handling remote court hearings
-for detainees. [@1] The prison agency confirmed he had been monitored by the
-penitentiary intelligence unit (GISP). [@1] The suspicion was that he carried
+for detainees. [@1,2] The officer worked at the Penitenciária Estadual de Dourados (PED). [@2] The prison agency confirmed he had been monitored by the
+penitentiary intelligence unit (GISP). [@1,2] The suspicion was that he carried
 drugs into the penitentiary, possibly serving a criminal organisation. [@1] A
 day before the arrest, Federal Highway Police officers stopped him as he
 returned from Ponta Porã but found nothing irregular. [@1] During the
-proceedings he denied knowing the illicit materials were in the vehicle. [@1]
+proceedings he denied knowing the illicit materials were in the vehicle. [@1,2]
 His defence said the objects belonged to third parties and challenged the
-legality of the stop and the preservation of evidence. [@1] The judge rejected
-those arguments, finding the officers had concrete reasons for the check. [@1]
+legality of the stop and the preservation of evidence. [@1,2] The judge rejected
+those arguments, finding the officers had concrete reasons for the check. [@1] The judge said the way the drugs and ammunition were hidden showed the officer knew they were there. [@2]
 The judge found insufficient evidence that he belonged to a criminal
 organisation or was habitually involved in crime. [@1] The court applied the
 privileged-trafficking reduction, cutting the trafficking penalty from five
-years to one year and eight months. [@1] For the firearm offence he received two
-years in prison. [@1]
-
+years to one year and eight months. [@1,2] For the firearm offence he received two
+years in prison. [@1,2]
