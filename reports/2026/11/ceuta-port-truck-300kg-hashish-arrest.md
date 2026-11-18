@@ -97,10 +97,20 @@ sources:
     publisher: ديزاد نيوز-Dznews
     date: 2026-11-15
     language: ar
+  - title: حجز 300 كلغ من الحشيش القادم من المغرب وأزيد من 9 آلاف لتر من الوقود لشبكات التهريب
+    url: https://www.aps.dz/monde/monde/mwhr3fhp-%D8%AD%D8%AC%D8%B2-300-%D9%83%D9%84%D8%BA-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%88%D8%A7%D9%94%D8%B2%D9%8A%D8%AF-%D9%85%D9%86-9-%D8%A7%D9%93%D9%84%D8%A7%D9%81-%D9%84%D8%AA%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%87%D8%B1%D9%8A%D8%A8
+    publisher: وكالة الأنباء الجزائرية
+    date: 2026-11-15
+    language: ar
+open_questions:
+    - Police gave no official weight for the hashish; the 300 kilograms is an initial estimate, and the load was taken away for official weighing.
+    - No formal charge, plea or court outcome beyond the pre-trial detention order was reported.
+    - The Algerian Press Service account cites El Faro de Ceuta and reproduces that reporting rather than adding an independent account.
+    - The same APS article reports two separate Spanish customs operations in the Strait of Gibraltar that seized 451 containers of fuel and led to six detentions over supplying drug-smuggling speedboats; those operations involved no cannabis and are not covered here.
 ---
 
 Spain's UDYCO drug unit arrested a truck driver at the port of Ceuta carrying a
-stash of hashish hidden in a sophisticated false bottom. [@3,4,5,6,9,10] Officers
+stash of hashish hidden in a sophisticated false bottom. [@3,4,5,6,9,10,11] Officers
 intercepted the truck on the port road at the Muelle de Poniente and searched it
 with support from the UPR prevention unit and the canine group. [@3] They found
 the hashish and detained the driver, showing him the drugs found in the vehicle
@@ -108,12 +118,12 @@ he was driving. [@2]
 
 The truck appeared empty and was heading toward boarding for Spain when a
 specialist drugs dog alerted, prompting an exhaustive hours-long search inside
-and outside the vehicle. [@2,7,10] After the hours-long detailed inspection, officers
-found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6,7,9,10]
+and outside the vehicle. [@2,7,10,11] After the hours-long detailed inspection, officers
+found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6,7,9,10,11]
 Officers recovered numerous bags of hashish from the trailer's false bottom,
 with first estimates putting the haul above 300 kilograms although police gave
 no official weight. [@3] The submitted account describes the seizure as about
-300 kilograms of hashish arriving from Morocco. [@1,5,6,7,9,10]
+300 kilograms of hashish arriving from Morocco. [@1,5,6,7,9,10,11]
 
 The handcuffed driver was taken to police headquarters and placed under
 investigation for an offence against public health. [@2] A judge ordered the driver held in pre-trial detention on Sunday after he was presented to the court. [@8] Police link the
