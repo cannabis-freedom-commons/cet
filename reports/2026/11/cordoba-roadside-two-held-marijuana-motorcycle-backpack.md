@@ -52,19 +52,25 @@ sources:
     publisher: Chicanoticias
     date: 2026-11-17
     language: es
+  - title: Hallan marihuana en un morral durante un control vial en Córdoba - RÍO NOTICIAS
+    url: https://rionoticias.co/hallan-marihuana-en-un-morral-durante-un-control-vial-en-cordoba/
+    publisher: RÍO NOTICIAS
+    date: 2026-11-17
+    language: es
 open_questions:
   - No weight was reported for the marijuana package seized in this stop.
   - No exact road, municipality or checkpoint location was named; 17 November 2026 is the publication date and stands in for the incident date.
   - Neither man was named and no charge, plea or court outcome beyond referral to the Fiscalía was reported.
   - El Heraldo gives the 2026 Córdoba marijuana total as 755.346 grams while Chicanoticias gives it as more than 755 kilograms; those cumulative totals are not this seizure and are left out of the figures.
+  - Río Noticias states the official report does not say whether the two people were captured, while the existing account cites El Heraldo that the two were placed at the disposal of the Fiscalía.
 ---
 
 Officers of the National Police Transit and Transport Section stopped two men
-travelling on a motorcycle on roads in the department of Córdoba. [@1] Ello se
+travelling on a motorcycle on roads in the department of Córdoba. [@1,3] Ello se
 produjo durante un procedimiento policial realizado a dos ciudadanos que se
 movilizaban en una motocicleta. [@1] During search and verification activities,
 officers inspected a backpack and found a package containing marijuana,
-preventing it from being carried further along the road corridor. [@1] The two
+preventing it from being carried further along the road corridor. [@1,3] The two
 detainees were placed at the disposal of the Fiscalía to answer for the
 attributed offence. [@1]
 
@@ -78,4 +84,3 @@ emergency line 123. [@1]
 El Heraldo reported 666 arrests for carrying drugs so far this year in Córdoba,
 up 53% on the same period last year. [@1] Chicanoticias reported that the amount
 seized in this roadside stop has not been specified. [@2]
-
