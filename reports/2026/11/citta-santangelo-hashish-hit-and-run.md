@@ -68,6 +68,11 @@ sources:
     publisher: il Centro
     date: 2026-11-17
     language: it
+  - title: بحيازته الحشيش.. القبض على مصري صدم 3 لاعبين بسيارته في إيطاليا وفر هاربًا!
+    url: https://www.365scores.com/ar/news/magazine/%D8%A8%D8%AD%D9%8A%D8%A7%D8%B2%D8%AA%D9%87-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%B5%D8%B1%D9%8A-%D8%B5%D8%AF%D9%85-3-%D9%84%D8%A7%D8%B9/
+    publisher: 365Scores
+    date: 2026-11-18
+    language: ar
 open_questions:
   - Il Messaggero gives the hashish as 2.5 grams, while Abruzzo Speciale and il Centro say only a few grams; the precise figure is used here.
   - No value is given for the hashish, and it is not stated whether the drug was seized or where it was found.
@@ -83,16 +88,15 @@ Matrino, Città Sant'Angelo, and he fled on foot. [@3] One of the two passengers
 was reported to judicial authorities for possession of 2.5 grams of hashish.
 [@2] Both passengers, also Egyptian, were reported for failing to assist the
 injured, and one was also reported over what another account called a few grams
-of hashish. [@4] The two companions faced a charge of failing to give
+of hashish. [@4,5] The two companions faced a charge of failing to give
 assistance, with one also accused of possessing hashish. [@1]
 
 The driver tested positive for cannabinoids in a drug test, a circumstance
-treated as an aggravating factor. [@3] Three injured men were taken by ambulance
+treated as an aggravating factor. [@3,5] Three injured men were taken by ambulance
 to hospital in Pescara. [@2] Mattia Dell'Elice of Silvi Castrum remained in
 intensive care after delicate head surgery. [@3]
 
 The collision happened around midnight on a Friday after the players had spent
 the earlier part of the evening at the Pin Palace and moved on to a pub. [@3]
 Investigating judge Francesco Marino at Pescara confirmed the arrest but
-rejected the prosecutor's request for prison. [@3]
-
+rejected the prosecutor's request for prison. [@3,5] The prosecutor had also cited the car's lack of valid insurance among the grounds for seeking prison. [@5]
