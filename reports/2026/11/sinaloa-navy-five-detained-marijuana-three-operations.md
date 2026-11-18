@@ -72,28 +72,26 @@ sources:
     publisher: Noroeste
     date: 2026-11-18
     language: es
-open_questions:
-    - No weight was published for the bags and packages seized, so no cannabis quantity is recorded.
-    - The reports give no combined count of the bags and packages beyond two bags from the cargo vehicle, one more near Nuevo Santo Grande and several more seized from the motorcyclists.
-    - No detention was reported in the cargo-vehicle inspection; the five detainees are accounted for as the three arrested near Nuevo Santo Grande and the two intercepted motorcyclists.
-    - No names, charges or court outcome were reported; the case was placed before the prosecutor for investigation.
-    - 'The three accounts do not agree on timing: this one describes the third detention as a deterrence and surveillance patrol without saying whether it happened at the same time as the other two operations.'
-    - The Fourth Naval Region statement gave no location for the cargo-vehicle inspection or for the third operation, in which the two motorcyclists were detained.
+  - title: Marina detiene a cinco personas y asegura presunta marihuana en Sinaloa - ADN Informativo MX
+    url: https://adnportal.mx/marina-detiene-a-cinco-personas-y-asegura-presunta-marihuana-en-sinaloa/
+    publisher: ADN Informativo MX
+    date: 2026-11-18
+    language: es
 ---
 
 On 18 November 2026, Mexico's Navy, acting through the Fourth Naval Region,
 detained five alleged offenders and seized bags of suspected marijuana and
-vehicles in three operations in Sinaloa. [@1,3,4] In the port city of Mazatlán,
+vehicles in three operations in Sinaloa. [@1,3,4,5] In the port city of Mazatlán,
 Naval Port Protection Unit officers stopped a cargo vehicle during a routine
 preventive inspection. [@1,3] With the support of a trained naval detection dog,
-the officers found two bags of dry herb identical to marijuana. [@1,3,4] Near the
+the officers found two bags of dry herb identical to marijuana. [@1,3,4,5] Near the
 village of Nuevo Santo Grande in Elota municipality, armed-forces personnel
 arrested three people and seized another bag of dry herb with the properties of
-the drug during land surveillance patrols. [@1,3,4]
+the drug during land surveillance patrols. [@1,3,4,5]
 
 In a third simultaneous sweep in the state, naval personnel intercepted two men,
 taking them into custody with two motorcycles and more packages of suspected
-marijuana. [@1,3] Three of the detainees were located during patrols near Nuevo
+marijuana. [@1,3,5] Three of the detainees were located during patrols near Nuevo
 Santo Grande in Elota. [@2] In the third encounter, two men were detained and
 two motorcycles and more bags of marijuana-like dry herb were seized. [@2,4]
 
