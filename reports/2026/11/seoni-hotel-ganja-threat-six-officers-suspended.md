@@ -119,6 +119,11 @@ sources:
     publisher: rtvnewsnetwork
     date: 2026-11-18
     language: te
+  - title: 'Watch: సిగ్గుండాలి.. పోలీస్ అధికారి ఇలాంటి పనులా చేసేది ?? వీడియో వైరల్ !!!'
+    url: https://tv9telugu.com/national/madhya-pradesh-police-viral-video-on-planting-ganja-in-mans-bag-to-file-false-case-aginst-him-1961297.html
+    publisher: TV9 Telugu
+    date: 2026-11-18
+    language: te
 open_questions:
     - The traffic inspector accused of demanding monthly payments is named Vijay Tiwari in the IANS account and Vijay Baghel in other reports.
     - Accounts differ on whether the Additional SP told hotel staff or his own police team to arrange the cannabis.
@@ -140,7 +145,7 @@ Deepak Mishra, Seoni SDOP Chanchlesh Markam, Kotwali station in-charge Inspector
 Satish Tiwari, Head Constable Naveen Tiwari, and the Additional SP's driver
 Salman Khan and gunman Krishna Tiwari. [@1,14,15] Jabalpur Zone Inspector General
 Promod Verma said the presence of all six was confirmed in an initial inquiry.
-[@1] Jabalpur Inspector General Pramod Verma had already ordered an inquiry against the Additional SP and the SDOP before the suspensions were announced. [@17] Verma said four personnel — the Seoni police station in-charge, a head constable, and the Additional SP's driver and gunman — had been suspended by his office, with action against the other officers under way. [@8] Director General of Police Kailash Makwana said a detailed inquiry had been ordered and that a proposal to suspend Mishra and Markam had been sent to the state government. [@10,14] Seoni SP Krishna Lalchandani ordered the inquiry after the footage surfaced, and Satish Tiwari was attached to the police lines, an administrative measure that does not establish guilt. [@4,6,9,13,18]
+[@1] Jabalpur Inspector General Pramod Verma had already ordered an inquiry against the Additional SP and the SDOP before the suspensions were announced. [@17] Verma said four personnel — the Seoni police station in-charge, a head constable, and the Additional SP's driver and gunman — had been suspended by his office, with action against the other officers under way. [@8] Director General of Police Kailash Makwana said a detailed inquiry had been ordered and that a proposal to suspend Mishra and Markam had been sent to the state government. [@10,14] Seoni SP Krishna Lalchandani ordered the inquiry after the footage surfaced, and Satish Tiwari was attached to the police lines, an administrative measure that does not establish guilt. [@4,6,9,13,18,19]
 
 In the footage the couple tell the officers they are adults, of the same caste
 and planning to marry. [@2,4,5,6,7,9,10,11,12] The woman was asked to unlock her phone; when she
@@ -157,4 +162,4 @@ Tiwari and SDOP Markam of extorting ₹50,000 a month and said the search was
 conducted after he could not meet the demand. [@1,14,16,18] He alleged he paid Rs 20,000 to Inspector Tiwari in October while the demands continued. [@14,16] Sanodia said police searched the hotel on three consecutive days, 7, 8 and 9 October, after he refused to pay. [@14,16] Sanodiya also alleged that Yash Meshram, to whom he had rented out the hotel, was assaulted by police personnel in October over the alleged payment dispute. [@16] The confrontation took place at the Sidarth Hotel. [@5,9,12] The hotel is on Babariya Road in Seoni. [@7,13,14,16] Sanodia said the couple had checked in at the hotel on 13 November. [@14] The hotel owner also named Traffic Inspector Vijay Baghel among the officers he accused of demanding monthly payments. [@4,5,9] The hotel owner said he had released the viral video on social media himself to expose the police. [@5,6,9,11] He said he then installed a hidden camera and that, though officers seized one recorder, a second survived holding the footage. [@12,14,16] The hotel owner said officers seized the hotel's CCTV recorders each time they visited, leaving him without evidence of what they did. [@12] Mr. Verma said he had spoken
 to the hotel owner and taken his allegations into cognisance. [@1] The Free
 Press Journal reported earlier the same day that an investigation was under way
-into the roles of the city SP and the Additional SP. [@3] Investigators were also to examine whether anyone attempted to fabricate evidence. [@4,9] Police officials said the digital video recorder footage would be examined to establish the authenticity of the recording and the circumstances of the hotel visit. [@6,9]
+into the roles of the city SP and the Additional SP. [@3] Investigators were also to examine whether anyone attempted to fabricate evidence. [@4,9] Police officials said the digital video recorder footage would be examined to establish the authenticity of the recording and the circumstances of the hotel visit. [@6,9,19]
