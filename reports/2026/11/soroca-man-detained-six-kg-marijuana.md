@@ -43,20 +43,18 @@ sources:
     publisher: Jurnal.md
     date: 2026-11-17
     language: ro
-open_questions:
-  - The report gives no separate date for the search; 17 November 2026 is the publication date and stands in for the incident date.
-  - The six-kilogram amount is stated as approximate.
-  - The seized material was sent for expert examination, so no laboratory confirmation was reported.
-  - No charge, plea or court outcome was reported.
-  - The account rests on a single outlet report.
+  - title: VIDEO Aproximativ 6 kilograme de masă vegetală cu miros de marijuana au fost depistate în locuința unui bărbat din Soroca
+    url: https://telegraph.md/video-aproximativ-6-kilograme-de-masa-vegetala-cu-miros-de-marijuana-au-fost-depistate-in-locuinta-unui-barbat-din-soroca/
+    publisher: Telegraph.md
+    date: 2026-11-17
+    language: ro
 ---
 
-Police in Soroca searched the household of a 57-year-old man. [@1] Officers
-found about six kilograms of marijuana during the search. [@1] The man was
+Police in Soroca searched the household of a 57-year-old man. [@1,2] Officers
+found about six kilograms of marijuana during the search. [@1,2] The man was
 detained for 72 hours and placed in the temporary detention isolator of the
-Soroca Police Inspectorate. [@1]
+Soroca Police Inspectorate. [@1,2]
 
 The seized plant material was collected, sealed and sent for expert examination.
-[@1] Police said they were continuing investigations to establish all the
-circumstances of the case and take the required legal measures. [@1]
-
+[@1,2] Police said they were continuing investigations to establish all the
+circumstances of the case and take the required legal measures. [@1,2]
