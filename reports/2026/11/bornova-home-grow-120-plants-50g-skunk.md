@@ -59,6 +59,11 @@ sources:
     publisher: DHA
     date: 2026-11-18
     language: tr
+  - title: Bornova'da evinde kenevir yetiştiren şüpheli tutuklandı - İzmir Haberleri
+    url: https://www.milliyet.com.tr/yerel-haberler/izmir/bornovada-evinde-kenevir-yetistiren-supheli-tu-7702957
+    publisher: Milliyet
+    date: 2026-11-18
+    language: tr
 open_questions:
   - No separate date is given for the raid, the detention or the remand; 18 November 2026 is the publication and update date of the agency account and is used as the incident date.
   - The suspect is identified only by the initials U.C.A.; his age, full name and occupation were not reported.
@@ -69,12 +74,12 @@ open_questions:
 ---
 
 Provincial gendarmerie teams in İzmir raided the home of a man identified only
-as U.C.A. in İnönü Mahallesi, a neighbourhood of Bornova district. [@1,2] He was
-suspected of growing cannabis illegally at the property. [@1] Officers said they
+as U.C.A. in İnönü Mahallesi, a neighbourhood of Bornova district. [@1,2,3] He was
+suspected of growing cannabis illegally at the property. [@1,3] Officers said they
 had established that he was cultivating cannabis using a climate-control method
 before searching the house. [@1] Officers found that parts of the house had been converted into a greenhouse with special climate-control systems. [@2] After his detention U.C.A. was taken before a
-magistrate, who ordered him remanded in custody. [@1]
+magistrate, who ordered him remanded in custody. [@1,3]
 
 The search recovered 120 cannabis plants and 50 grams of skunk, a cannabis
-variety. [@1,2] Officers also seized a sensitive scale and the climate-control
-materials used to grow the plants, the gendarmerie said. [@1,2]
+variety. [@1,2,3] Officers also seized a sensitive scale and the climate-control
+materials used to grow the plants, the gendarmerie said. [@1,2,3]
