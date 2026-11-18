@@ -64,6 +64,10 @@ sources:
     publisher: Jagran
     date: 2026-11-17
     language: hi
+  - title: Drugs worth Rs 2.43 crore, luxury watch seized at Delhi airport, 2 passengers arrested
+    url: https://www.tribuneindia.com/news/delhi/drugs-worth-rs-2-43-crore-luxury-watch-seized-at-delhi-airport-2-passengers-arrested/
+    publisher: The Tribune
+    date: 2026-11-17
 open_questions:
     - The Live Hindustan headline gives the ganja value as Rs 24.34 lakh and the Jagran headline as about Rs 2.5 crore, while the body accounts put it at about Rs 2.43 crore; the report uses Rs 2.43 crore.
     - No name, age or nationality for the arrested Bangkok passenger was published; PTI identifies him only as a male passenger.
@@ -72,20 +76,21 @@ open_questions:
     - Live Hindustan and Jagran place the Bangkok passenger's arrival on 10 November and the arrest on 11 November, while PTI says he arrived on 11 November; 11 November is used as the incident date at the latest step.
     - Live Hindustan presents the ganja recovery as the first of two cases, while PTI and Jagran present the luxury-watch case first and the ganja case second.
     - The accounts attribute their details to customs statements rather than independent reporting.
+    - Accounts differ on whether the Bangkok passenger arrived on 10 or 11 November 2026.
 ---
 
 Customs at Delhi's Indira Gandhi International (IGI) Airport presented the ganja
 recovery as the first of two separate smuggling cases detected at the airport.
-[@1] Customs officers at Terminal 3 of Delhi's IGI Airport stopped a Bangkok
+[@1,5] Customs officers at Terminal 3 of Delhi's IGI Airport stopped a Bangkok
 passenger who had arrived on a Thai Airways flight on 10 November after flagging
-him as suspicious at the green channel and searched his baggage. [@1,4] The flight number was TG-331. [@4] The
+him as suspicious at the green channel and searched his baggage. [@1,4] The flight number was TG-331. [@4,5] The
 passenger was arrested on 11 November under the NDPS Act. [@1] Both passengers
-in the two cases were arrested. [@1]
+in the two cases were arrested. [@1,5]
 
 Officers found seven polythene pouches concealed in the passenger's yellow
 trolley bag. [@1,2,3,4] Testing confirmed the pouches held ganja. [@1,2,3,4] The ganja was hydroponically grown. [@4] Its total net
-weight was 6,955 grams. [@1,2,3,4] Customs put its estimated value at about Rs 2.43
-crore. [@1,2,3,4] Officers also seized the concealment and packing material used for
+weight was 6,955 grams. [@1,2,3,4,5] Customs put its estimated value at about Rs 2.43
+crore. [@1,2,3,4,5] Officers also seized the concealment and packing material used for
 the ganja. [@1,2,3,4]
 
 Customs said its investigation in the cases was continuing. [@1,4] The same report
