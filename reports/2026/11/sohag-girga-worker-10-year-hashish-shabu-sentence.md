@@ -48,26 +48,25 @@ sources:
     publisher: Cairo24
     date: 2026-11-18
     language: ar
-open_questions:
-  - No quantity was published for the hashish, so no cannabis weight is recorded, and the methamphetamine is excluded from cannabis figures.
-  - No separate date for the verdict hearing was given; 18 November 2026 is the publication date of both reports and is used as the incident date.
-  - The defendant was identified only by initials, and no age, arrest date, fine or court costs were reported.
-  - No appeal or later court outcome was reported.
+  - title: المشدد 10 سنوات لعامل بتهمة حيازة الشابو والحشيش في سوهاج
+    url: https://www.iqraa.news/231993/%D8%A7%D9%84%D9%85%D8%B4%D8%AF%D8%AF-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84%D8%B9%D8%A7%D9%85%D9%84-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AD%D9%8A%D8%A7%D8%B2%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8%D9%88/
+    publisher: إقرأ نيوز
+    date: 2026-11-18
+    language: ar
 ---
 
 The Sohag Criminal Court sentenced a worker to 10 years of rigorous imprisonment
 for possessing narcotic substances for personal use in the Girga markaz district
-of Sohag Governorate. [@1] The defendant was identified only by the initials A.
+of Sohag Governorate. [@1,3] The defendant was identified only by the initials A.
 Kh. and possessed two narcotic substances, methamphetamine and hashish, for the
-purpose of use. [@1] The second account names the methamphetamine as shabu and
+purpose of use. [@1,3] The second account names the methamphetamine as shabu and
 confirms that both it and the hashish were possessed for use in violation of the
 law. [@2]
 
 The case dates to November 2025, when the public prosecution charged the worker
 with possessing the two substances for use outside the cases permitted by law.
-[@1] After investigations were completed, the case was referred to the Sohag
+[@1,3] After investigations were completed, the case was referred to the Sohag
 Criminal Court, which reviewed the case file before issuing its 10-year verdict.
-[@1] A second account of the verdict confirms the same court, the same 10-year
+[@1,3] A second account of the verdict confirms the same court, the same 10-year
 rigorous-imprisonment term, the same possession-for-use charge and the same
 Girga venue. [@2]
-
