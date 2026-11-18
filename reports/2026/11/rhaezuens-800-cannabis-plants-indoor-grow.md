@@ -43,6 +43,11 @@ media:
     media_url: https://polizei.news/wp-content/uploads/2026/11/2026-11-18-Rhaezuens-Indoor-Hanfplantage__w_1600__h_0.jpg
     publisher: Polizei.news
     caption: 'The indoor cannabis plantation in Rhäzüns, in the handout photo published with the Graubünden cantonal police statement. Photo: Kantonspolizei Graubünden'
+  - kind: photo
+    url: https://www.tio.ch/svizzera/cronaca/1963625/canapa-piantagione-grigioni-piante-32enne
+    media_url: https://media.tio.ch/files/domains/tio.ch/images/4cc3/f_-canapa-piantagione-grigioni-piante-32enne-1oxdo.jpg?v=1
+    publisher: Ticinonline (Tio.ch)
+    caption: 'The indoor cannabis plantation found in the Rhäzüns flat and cellar, in a handout credited to the Graubünden cantonal police. Photo: Polizia cantonale Grigioni.'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: ca9e26d00e88dbffd5719fc362470417
@@ -92,26 +97,23 @@ sources:
     publisher: TVS tvsvizzera.it
     date: 2026-11-18
     language: it
-open_questions:
-    - The plantation was found in mid-November 2026, but no source gives the exact day; 18 November 2026, the date of the cantonal police statement, stands in as the incident date.
-    - No arrest or detention was reported, and the statement does not say whether the 32-year-old was detained, questioned or released.
-    - The plants are described only as cannabis; no laboratory confirmation, THC content or plant stage was reported.
-    - No weight, street value or number of cultivation rooms was published, and the count is given only as about 800 plants.
-    - No charge has been filed and no court date or plea was reported; the case was at the investigation stage.
-    - Every account reproduces the same Graubünden cantonal police statement, so no independent reporting of the search exists.
-    - Whether the flat and the cellar were in the same building is not stated.
+  - title: Aveva trasformato casa sua in una piantagione di canapa - Ticinonline
+    url: https://www.tio.ch/svizzera/cronaca/1963625/canapa-piantagione-grigioni-piante-32enne
+    publisher: Ticinonline
+    date: 2026-11-18
+    language: it
 ---
 
 Graubünden cantonal police and the cantonal prosecutor's office found the indoor
-plantation in Rhäzüns in mid-November 2026. [@1,5,6,8,9] The alleged operator is a
+plantation in Rhäzüns in mid-November 2026. [@1,5,6,8,9,10] The alleged operator is a
 32-year-old German who ran the grow in his own apartment and in the basement.
-[@3,5,7,8,9] The Graubünden cantonal police announced the find in a statement. [@4]
+[@3,5,7,8,9,10] The Graubünden cantonal police announced the find in a statement. [@4]
 
 Officers seized about 800 cannabis plants, which the authorities intend to
-destroy. [@3,5,6,8,9] The police said they had taken the cannabis away and now planned
+destroy. [@3,5,6,8,9,10] The police said they had taken the cannabis away and now planned
 to destroy it. [@1]
 
-The German man faces charges for violations of the Narcotics Act. [@1,5,6,8,9] He must
+The German man faces charges for violations of the Narcotics Act. [@1,5,6,8,9,10] He must
 answer before the courts for offences against the narcotics law. [@2] The case
 came from joint investigations by the cantonal police and the cantonal
 prosecutor's office. [@4]
