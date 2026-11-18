@@ -43,20 +43,20 @@ sources:
     publisher: 中テレNEWS NNN
     date: 2026-11-18
     language: ja
-open_questions:
-  - The suspect was identified only as a 25-year-old company employee; no name was published.
-  - Whether the man admitted or denied the allegation was not reported.
-  - No laboratory confirmation, charge, detention outcome or court result was reported.
+  - title: 須賀川市で会社員(25)の男を大麻所持容疑で逮捕・福島（福島中央テレビニュース）｜ｄメニューニュース（NTTドコモ）
+    url: https://topics.smt.docomo.ne.jp/article/fct/region/fct-2026111801599734
+    publisher: dmenuニュース（NTTドコモ）
+    date: 2026-11-18
+    language: ja
 ---
 
 Sukagawa police emergency-arrested a 25-year-old company employee living in
 Sukagawa on the night of 17 November on suspicion of possessing cannabis in
-violation of the Narcotics and Psychotropics Control Act. [@1] The man is
+violation of the Narcotics and Psychotropics Control Act. [@1,2] The man is
 alleged to have possessed about 0.87 grams of cannabis, which is designated as a
-narcotic, at his home at around 18:20 on 17 November. [@1]
+narcotic, at his home at around 18:20 on 17 November. [@1,2]
 
 His involvement came to light during an investigation, after which police
-emergency-arrested him at Sukagawa Police Station at 22:29 on 17 November. [@1]
+emergency-arrested him at Sukagawa Police Station at 22:29 on 17 November. [@1,2]
 Police are investigating the detailed circumstances of the case and the route
-through which he obtained the cannabis. [@1]
-
+through which he obtained the cannabis. [@1,2]
