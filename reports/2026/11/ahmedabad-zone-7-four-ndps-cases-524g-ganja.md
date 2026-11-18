@@ -52,6 +52,11 @@ sources:
     url: https://english.punjabkesari.com/india/four-ndps-cases-in-one-night-gujarat-police-nab-five-seize-narcotics-worth-lakhs
     publisher: English Punjab Kesari (IANS)
     date: 2026-11-18
+  - title: 'गुजरात पुलिस ने पांच लोगों को पकड़ा, लाखों रुपए के नशीले पदार्थ जब्त किए | Gujarat Police nab five people, seize narcotics worth lakhs (Photo: IANS)'
+    url: https://www.bhaskarhindi.com/other/hindi-four-ndps-cases-in-one-night-gujarat-police-nab-five-seize-narcotics-worth-lakhs-20261118214927-1393850
+    publisher: Bhaskar Hindi
+    date: 2026-11-18
+    language: hi
 open_questions:
   - No total value was given for the 524 grams of ganja; the two cases were valued separately at Rs 21,350 for 427 grams and Rs 4,850 for 97 grams.
   - The Daijiworld account and the IANS copies on Prokerala and Punjab Kesari carry the same text and figures, so they are not independent accounts of the operation.
@@ -64,9 +69,9 @@ open_questions:
 Ahmedabad City Police's Zone-7 teams registered four cases under the Narcotic
 Drugs and Psychotropic Substances (NDPS) Act in a single night and arrested five
 people, seizing 549 bottles of prohibited cough syrup and 524 grams of ganja.
-[@1] The operation was carried out by Zone-7 police on 18 November 2026 under
+[@1,4] The operation was carried out by Zone-7 police on 18 November 2026 under
 the 'No Drugs in Ahmedabad City' campaign, which aims to curb the sale and
-supply of narcotic substances and prevent drug addiction among youngsters. [@1]
+supply of narcotic substances and prevent drug addiction among youngsters. [@1,4]
 Deputy Commissioner of Police (Zone-7) Shivam Verma said a special NDPS drive
 was launched across the zone after directions to strengthen human intelligence
 and informant networks so that drug suppliers and peddlers could be identified.
@@ -78,9 +83,9 @@ divisions, inspectors from all Zone-7 police stations and the Local Crime Branch
 and combing operations. [@1] Three of the four cases were detected by the LCB
 team and one was registered by Vejalpur police. [@2] Vejalpur police arrested
 Mehrab Khan alias Mehtab Khan Ayub Khan Pathan, 28, with 427 grams of ganja that
-police valued at Rs 21,350. [@1] Vasna police registered the fourth case and
+police valued at Rs 21,350. [@1,4] Vasna police registered the fourth case and
 arrested Irshadali alias Shah Rukh Asmatali Saiyed, 37, with 97 grams of ganja
-worth Rs 4,850. [@1] In the Vasna case police also seized Rs 2,657 in cash, a
+worth Rs 4,850. [@1,4] In the Vasna case police also seized Rs 2,657 in cash, a
 black plastic bag and a black hoodie jacket, and put the total value of the
 seized property at Rs 7,507. [@1]
 
@@ -93,4 +98,3 @@ NDPS Act, 1985, and the Vejalpur cough syrup case also includes Section 283 of
 the Bharatiya Nyaya Sanhita. [@1] Police described the operation as part of the
 city force's ongoing campaign to identify and take action against narcotics
 suppliers and street-level peddlers. [@1]
-
