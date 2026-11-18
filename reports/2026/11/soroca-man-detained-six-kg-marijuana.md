@@ -48,13 +48,24 @@ sources:
     publisher: Telegraph.md
     date: 2026-11-17
     language: ro
+  - title: VIDEO Aproape șase kilograme de presupusă marijuana, descoperite la Soroca. Un bărbat a ajuns la izolator
+    url: https://nordnews.md/stiri-locale/aproape-sase-kilograme-de-presupusa-marijuana-descoperite-la-soroca/
+    publisher: NordNews
+    date: 2026-11-17
+    language: ro
+media:
+  - kind: photo
+    url: https://nordnews.md/stiri-locale/aproape-sase-kilograme-de-presupusa-marijuana-descoperite-la-soroca/
+    media_url: https://nordnews.md/wp-content/uploads/2026/11/1794902330043-3j4e5mnt312.webp
+    publisher: NordNews
+    caption: 'Seized plant material from the Soroca home search. Screenshot: Poliția RM / FB'
 ---
 
-Police in Soroca searched the household of a 57-year-old man. [@1,2] Officers
-found about six kilograms of marijuana during the search. [@1,2] The man was
+Police in Soroca searched the household of a 57-year-old man. [@1,2,3] Officers
+found about six kilograms of marijuana during the search. [@1,2,3] The man was
 detained for 72 hours and placed in the temporary detention isolator of the
-Soroca Police Inspectorate. [@1,2]
+Soroca Police Inspectorate. [@1,2,3]
 
 The seized plant material was collected, sealed and sent for expert examination.
-[@1,2] Police said they were continuing investigations to establish all the
-circumstances of the case and take the required legal measures. [@1,2]
+[@1,2,3] Police said they were continuing investigations to establish all the
+circumstances of the case and take the required legal measures. [@1,2,3]
