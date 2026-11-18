@@ -62,27 +62,31 @@ sources:
     publisher: Bilecik Yarın Gazetesi
     date: 2026-11-17
     language: tr
-open_questions:
-  - No street value for the skunk was published.
-  - The 15 November 2026 date for the search comes from the Bilecik Haber account; the Anadolu Ajansı and İhlas News Agency reports give no separate date and appeared after the court hearing.
-  - The substance is called skunk in two accounts and only a narcotic substance in the Anadolu Ajansı report; no laboratory confirmation was reported.
-  - The four suspects were not named, and no plea, trial date or sentence was reported.
-  - The accounts do not say where the cars were going or where the skunk came from.
-  - The four were charged collectively with both possession for use and manufacturing and trading; which suspect faces which offence is not stated.
+  - title: Bilecik’te 16 kilo 155 gram skunk ele geçirildi, 4 kişi tutuklandı - hey Haber
+    url: https://heyhaber.com/bilecik-te-16-kilo-155-gram-skunk-ele-gecirildi-4-kisi-tutuklandi
+    publisher: Hey Haber
+    date: 2026-11-17
+    language: tr
+media:
+  - kind: photo
+    url: https://heyhaber.com/bilecik-te-16-kilo-155-gram-skunk-ele-gecirildi-4-kisi-tutuklandi
+    media_url: https://heyhaber.com/_next/image?url=https%3A%2F%2Fheyhaber.com%2Fuploads%2Fbilecik-te-16-kilo-155-gram-skunk-ele-gecirildi-4-kisi-tutuklandi-kart-f8ea4d0c.webp&w=828&q=50
+    publisher: Hey Haber
+    caption: Seized skunk displayed in front of the narcotics branch sign from the Bilecik seizure.
 ---
 
 Bilecik provincial police's anti-narcotics branch, the Narcotic Crimes Combating
 Branch, carried out the operation on Sunday 15 November 2026, searching two
 vehicles it had identified and four suspects. [@1,4] Officers searched both the
 cars and the four suspects themselves, and seized a total of 16 kilograms 155
-grams (16,155 grams) of skunk. [@1,4] Anadolu Ajansı reported that the two cars
+grams (16,155 grams) of skunk. [@1,4,5] Anadolu Ajansı reported that the two cars
 were searched in the city centre of Bilecik. [@2]
 
 The four suspects were held at the police station for processing and then
 brought before a court, which remanded them in custody. [@1,4] The court remanded
 them on charges of buying, accepting or possessing drugs for personal use and of
-manufacturing and trading drugs. [@1,4] The İhlas News Agency reported that the
-four were then taken to Bilecik M Type Closed Prison. [@3]
+manufacturing and trading drugs. [@1,4,5] The İhlas News Agency reported that the
+four were then taken to Bilecik M Type Closed Prison. [@3,5]
 
 Bilecik police said the operation was part of their continuing work to prevent
 the trading and use of drugs in the province. [@1]
