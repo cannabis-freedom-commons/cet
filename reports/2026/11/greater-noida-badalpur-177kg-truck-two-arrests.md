@@ -114,31 +114,41 @@ sources:
     publisher: Punjab Kesari
     date: 2026-11-18
     language: hi
+  - title: 2 arrested with 178 kg ganja in concealed truck compartment
+    url: https://www.millenniumpost.in/delhi/2-arrested-with-178-kg-ganja-in-concealed-truck-compartment-683781
+    publisher: MillenniumPost
+    date: 2026-11-18
 open_questions:
-    - 'Accounts differ on the quantity: the Amar Ujala headline gives 117 kg, while the police accounts give 177 kg 790 g; the report uses the police figure.'
-    - No charge sheet, court appearance or outcome of the investigation has been reported.
+    - 'Accounts differ on the quantity: the Amar Ujala headline gives 117 kg, while police accounts give 177 kg 790 g and the Millennium Post account rounds this to about 178 kg; the report uses the police figure.'
+    - No charge sheet or trial outcome has been reported; the only court step recorded is the production of the two men before a court for remand.
+media:
+  - kind: photo
+    url: https://www.millenniumpost.in/delhi/2-arrested-with-178-kg-ganja-in-concealed-truck-compartment-683781
+    media_url: https://www.millenniumpost.in/h-upload/2026/11/18/1067816-83fc1f09-6a3b-4a40-b8bc-1b532b4f8bd4.webp
+    publisher: MillenniumPost
+    caption: The two arrested men with Badalpur police officers behind bags of the seized ganja in front of the Badalpur police station.
 ---
 
 A joint Badalpur police and Anti-Narcotics Task Force team arrested two men in
-Greater Noida on suspicion of ganja smuggling. [@1,4,5,6,7,8,9,10,12,13] The teams intercepted the
-men's truck in front of Ambedkar Park and arrested its two occupants. [@2,4,6,7,10,11,12,13]
+Greater Noida on suspicion of ganja smuggling. [@1,4,5,6,7,8,9,10,12,13,15] The teams intercepted the
+men's truck in front of Ambedkar Park and arrested its two occupants. [@2,4,6,7,10,11,12,13,15]
 Police identified the two as Irfan, son of Basir, and Asif, son of Sagir, both
 residents of Sancholi village under Sohna police station in Gurugram, Haryana.
-[@2,4,7,10,12,14] Police gave their ages as 31 and 20. [@6,7] Both men had studied only up to the eighth class, police said. [@7] Irfan owned the truck and was driving it while Asif worked as its helper,
+[@2,4,7,10,12,14,15] Police gave their ages as 31 and 20. [@6,7,15] Both men had studied only up to the eighth class, police said. [@7] Irfan owned the truck and was driving it while Asif worked as its helper,
 and both had previously been jailed in connection with an NDPS case in Assam.
-[@2,4,6,7,11]
+[@2,4,6,7,11,15]
 
 Officers seized 177 kg 790 grams of cannabis from the truck, which police valued
 at about Rs 1.5 crore. [@2,4,5,6,7,8,9,11,12,13] The cannabis was hidden in a specially designed
 cavity beneath the truck near the toolbox that was built to look like a diesel
-tank. [@2,4,5,6,7,8,9,10,11,12,14] A second account likewise describes a concealed compartment inside
+tank. [@2,4,5,6,7,8,9,10,11,12,14,15] A second account likewise describes a concealed compartment inside
 the truck designed like a diesel tank to move the consignment without attracting
 suspicion. [@3] The accused said they had brought the cannabis from Odisha and
 were transporting it to Gurugram for delivery on the Eastern Peripheral
-Expressway. [@2,4,5,6,7,9,10,11,12,14] Police said the consignment was to be supplied in Delhi and that the truck's load was to be handed over on the Eastern Peripheral Expressway to another man who would take it to Delhi. [@13] The two were paid 150,000 to 200,000 rupees per trip to deliver ganja to Gurugram or elsewhere. [@10] The truck had GPS fitted, which the intended recipient used to track it. [@10] Police said the consignment had been brought from Phulbani in Odisha. [@5,9] Police also seized the truck used for the transport, bearing
+Expressway. [@2,4,5,6,7,9,10,11,12,14,15] Police said the consignment was to be supplied in Delhi and that the truck's load was to be handed over on the Eastern Peripheral Expressway to another man who would take it to Delhi. [@13] The two were paid 150,000 to 200,000 rupees per trip to deliver ganja to Gurugram or elsewhere. [@10] The truck had GPS fitted, which the intended recipient used to track it. [@10] Police said the consignment had been brought from Phulbani in Odisha. [@5,9] Police also seized the truck used for the transport, bearing
 registration number HR38AB2007. [@2,4,5]
 
 The joint operation was based on local and manual intelligence about a cannabis
 consignment being moved through the area. [@2,4,6,7,13] Badalpur police registered FIR
 367/2026 under Sections 8, 20 and 60 of the NDPS Act and continued questioning
-to trace the supply chain. [@2,4] Both were sent to jail after questioning as police traced others linked to the smuggling. [@10] DCP Central Noida Praveen Ranjan Singh gave the details of the arrests at a press conference at the Central District police headquarters. [@4,7] The operation was carried out under the supervision of Additional DCP Swatantra Kumar Singh. [@4]
+to trace the supply chain. [@2,4,15] Both were sent to jail after questioning as police traced others linked to the smuggling. [@10] Both men were produced before a court for remand proceedings. [@15] DCP Central Noida Praveen Ranjan Singh gave the details of the arrests at a press conference at the Central District police headquarters. [@4,7] The operation was carried out under the supervision of Additional DCP Swatantra Kumar Singh. [@4]
