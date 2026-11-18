@@ -30,15 +30,19 @@ sources:
     url: https://www.bbc.com/news/10559429
     publisher: BBC News
     date: 2010-07-08
+  - title: Fugitive Gary Robb is jailed in drug case
+    url: https://www.gazettelive.co.uk/news/local-news/fugitive-gary-robb-jailed-drug-3701701
+    publisher: Teesside Live
+    date: 2013-05-13
 open_questions:
   - No separate weight or count for the cannabis was published; the £15,000 seizure total covers ecstasy, amphetamine and cannabis together, so no cannabis quantity or value is recorded.
   - 8 July 2010 is used as the sentencing date from the BBC report published that day; the Northern Echo report published 9 July 2010 describes the jailing as the previous night.
 ---
 
 Former nightclub boss Gary Robb, 47, was jailed for five years at Teesside Crown
-Court. [@1] He had admitted two charges of permitting premises to be used for
+Court. [@1,3] He had admitted two charges of permitting premises to be used for
 the supply of ecstasy, amphetamine and cannabis between May 1994 and February
-1996. [@1] The investigation began with undercover operations at the former
+1996. [@1,3] The investigation began with undercover operations at the former
 Colosseum nightclub in Norton Road, Stockton. [@1]
 
 He went on trial in September 1997 but skipped bail and fled to the Turkish
@@ -51,7 +55,6 @@ club was raided by drugs officers in 1996. [@2] He was deported in January 2009
 and pleaded guilty at Teesside Crown Court. [@2]
 
 He will serve half of the five-year sentence, with 525 days already spent in
-custody deducted, meaning he could leave prison in about a year. [@1] The court
+custody deducted, meaning he could leave prison in about a year. [@1,3] The court
 heard he would serve only about a year in prison because of time already spent
 in custody. [@2]
-
