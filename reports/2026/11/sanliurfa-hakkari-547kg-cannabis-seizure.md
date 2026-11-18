@@ -95,6 +95,11 @@ sources:
     publisher: وكالة نيو ترك بوست الاخبارية
     date: 2026-11-16
     language: ar
+  - title: 'Şanlıurfa ve Hakkâri’de Uyuşturucu Operasyonu: 566 Kilogram Madde Ele Geçirildi'
+    url: https://afyonses.com/sanliurfa-ve-hakk-ri-de-uyusturucu-operasyonu_-566-kilogram-madde-ele-gecirildi,h23482
+    publisher: afyonses.com
+    date: 2026-11-17
+    language: tr
 open_questions:
   - Different accounts give the methamphetamine portion as 9 kg or 19 kg, while agreeing on 566 kg in total with 370 kg of skunk and 177 kg of esrar.
 media:
@@ -107,17 +112,17 @@ media:
 
 Gendarmerie forces carried out narcotics operations in Şanlıurfa and Hakkari
 provinces, and a statement from the Interior Ministry said a total of 566
-kilograms of drugs was seized in those operations. [@1,2,3,4,5,6,9,10,11,12,13] The operations were
+kilograms of drugs was seized in those operations. [@1,2,3,4,5,6,9,10,11,12,13,14] The operations were
 coordinated by the Gendarmerie General Command's department for combating
 narcotics crime, working in cooperation with the Siverek and Yüksekova chief
-public prosecutor's offices. [@1,2,4,5,7,8,9,10,11,12] The provincial gendarmerie teams carried out the operations after intelligence work. [@5,13] Teams from the Şanlıurfa and Hakkari
+public prosecutor's offices. [@1,2,4,5,7,8,9,10,11,12,14] The provincial gendarmerie teams carried out the operations after intelligence work. [@5,13] Teams from the Şanlıurfa and Hakkari
 provincial gendarmerie commands conducted the operations against people
 manufacturing narcotics, achieving what the report describes as a significant
-success. [@1,2]
+success. [@1,2,14]
 
 Officers seized a total of 370 kilograms of skunk, 177 kilograms of esrar and 19
 kilograms of methamphetamine, together with an unspecified quantity of materials
-used to make other drugs. [@1,2,3,4,5,7,8,9,10,11,12,13] The skunk and esrar form the cannabis portion of
+used to make other drugs. [@1,2,3,4,5,7,8,9,10,11,12,13,14] The skunk and esrar form the cannabis portion of
 the seizure, while the methamphetamine is a separate non-cannabis drug that is
 not counted in the cannabis total. [@1]
 
