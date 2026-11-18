@@ -57,6 +57,11 @@ sources:
     publisher: Carlos Paz Vivo
     date: 2026-11-18
     language: es
+  - title: 'Operativos antidrogas en Río Cuarto y otras localidades: secuestraron cocaína y marihuana'
+    url: https://www.telediariodigital.com.ar/post/operativos-antidrogas-en-r%C3%ADo-cuarto-y-otras-localidades
+    publisher: Telediario Digital
+    date: 2026-11-18
+    language: es
 open_questions:
   - No date is given for the individual checks; the prosecutors' release of 18 November 2026 says they took place during that week, and 18 November stands in as the incident date.
   - No weight, dose count or value was published for any of the marijuana seizures, so no cannabis quantity is recorded.
@@ -86,9 +91,9 @@ media:
 
 Córdoba's anti-narcotics force, the Fuerza Policial Antinarcotráfico (FPA),
 seized several doses of cocaine and marijuana from two adults in two procedures
-in Río Cuarto during preventive checks in different parts of the city. [@1,4,5]
+in Río Cuarto during preventive checks in different parts of the city. [@1,4,5,6]
 Officers also seized several doses of marijuana from two adult men, one in
-Unquillo and one in San Francisco. [@1,4,5] Radiocanal put the Río Cuarto seizures
+Unquillo and one in San Francisco. [@1,4,5,6] Radiocanal put the Río Cuarto seizures
 at two adults and said the marijuana in Unquillo was seized from another adult
 man. [@2] Radio Estación reported that officers stopped an adult man in the
 street in San Francisco and seized several doses of marijuana from him. [@3]
@@ -97,8 +102,8 @@ The patrols were carried out by the FPA's Special Interventions Company and
 covered Córdoba capital and some 20 towns, among them San Francisco, Río Cuarto,
 Oncativo, Santa Eufemia, Ausonia, Chazón, La Laguna, Etruria, Monte Cristo,
 Piquillín, Las Varillas, Alicia, El Fortín, Marcos Juárez, Villa María,
-Unquillo, Cruz Alta, Los Surgentes, Inriville and Mendiolaza. [@1,5] The
+Unquillo, Cruz Alta, Los Surgentes, Inriville and Mendiolaza. [@1,5,6] The
 deployment formed part of the provincial Strategic Plan against Drug
 Trafficking, intended to reinforce checks and prevention in different areas of
 the province. [@1,4,5] The provincial authorities reported the seizures in Río Cuarto, Unquillo and San Francisco as separate operations carried out at the same time. [@4] The prosecutors involved ordered the substances seized and
-the corresponding case files drawn up. [@1,4,5]
+the corresponding case files drawn up. [@1,4,5,6]
