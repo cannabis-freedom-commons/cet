@@ -61,6 +61,11 @@ media:
     media_url: https://www.radioportalsudoeste.com.br/wp-content/uploads/2026/11/Policias-Civil-e-Militar-erradicam-15-mil-pes-de-maconha-na-zona-rural-de-Canudos-1024x781.jpeg
     publisher: Rádio Portal Sudoeste 104,3 FM
     caption: 'Cannabis plantation eradicated in rural Canudos, in the SSP-BA handout published with the report. Photo: Divulgação/SSP'
+  - kind: photo
+    url: https://www.bahianoticias.com.br/municipios/noticia/53425-operacao-policial-erradica-15-mil-pes-de-maconha-no-norte-da-bahia
+    media_url: https://www.bahianoticias.com.br/fotos/municipios_noticias/53425/IMAGEM_NOTICIA_9.jpg?checksum=1795002891
+    publisher: Bahia Notícias
+    caption: 'Cannabis plantation in rural Canudos, in the PM-BA handout published with the Bahia Notícias report on the eradication. Photo: Divulgação/PM-BA'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 1b161bc133a41703fad6b7129e8a8e05
@@ -96,6 +101,11 @@ sources:
     publisher: Rádio Portal Sudoeste 104,3 FM
     date: 2026-11-18
     language: pt
+  - title: Operação policial erradica 15 mil pés de maconha no Norte da Bahia
+    url: https://www.bahianoticias.com.br/municipios/noticia/53425-operacao-policial-erradica-15-mil-pes-de-maconha-no-norte-da-bahia
+    publisher: Bahia Notícias
+    date: 2026-11-18
+    language: pt
 open_questions:
     - No weight, area in hectares or street value was given for the plantation.
     - No one was arrested and the sources do not say whether anyone was found at the site.
@@ -105,15 +115,15 @@ open_questions:
 ---
 
 Civil and Military Police in Bahia found and destroyed a cannabis plantation in
-rural Canudos on Tuesday 17 November 2026. [@1,5,6] The plantation was at a place
+rural Canudos on Tuesday 17 November 2026. [@1,5,6,7] The plantation was at a place
 known as Povoado 150 and was found after intelligence work by the state security
-forces. [@1,5,6] No one was arrested at the site, and the Civil and Military Police
-said inquiries were continuing to identify and arrest those responsible. [@2,5]
+forces. [@1,5,6,7] No one was arrested at the site, and the Civil and Military Police
+said inquiries were continuing to identify and arrest those responsible. [@2,5,7]
 
 Officers used drones to find the crop and reach the clearing, then uprooted and
-burned the plants. [@1,5,6] The security secretariat said the state forces found
-15,000 cannabis plants at the site. [@2,5,6] Officers also destroyed sleeping
-quarters and an irrigation system used to keep the plantation running. [@3,5,6]
+burned the plants. [@1,5,6,7] The security secretariat said the state forces found
+15,000 cannabis plants at the site. [@2,5,6,7] Officers also destroyed sleeping
+quarters and an irrigation system used to keep the plantation running. [@3,5,6,7]
 
 The operation was part of integrated police action against drug trafficking and
 criminal factions in the region. [@4]
