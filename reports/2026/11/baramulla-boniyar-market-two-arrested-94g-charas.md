@@ -48,28 +48,32 @@ sources:
     url: https://kimskashmir.com/two-drug-peddlers-held-with-94-grams-of-charas-like-substance-in-baramulla/
     publisher: Kashmir Independent Media Service
     date: 2026-11-16
+  - title: 2 held with charas-like substance
+    url: https://www.dailyexcelsior.com/2-held-with-charas-like-substance-2/
+    publisher: Daily Excelsior
+    date: 2026-11-17
+    language: en
 open_questions:
-  - The substance was described only as a charas-like substance, with no laboratory confirmation reported.
-  - No court appearance, plea or custody outcome was reported; the case stood at investigation with FIR registration only.
-  - The report gives no time of day for the naka checking; 16 November 2026 is the Monday of the stop and of publication.
-  - The account rests on a single outlet report of the police statement; no second independent account was found.
+    - The substance was described only as a charas-like substance, with no laboratory confirmation reported.
+    - No court appearance, plea or custody outcome was reported; the case stood at investigation with FIR registration only.
+    - The report gives no time of day for the naka checking; 16 November 2026 is the Monday of the stop and of publication.
+    - The Daily Excelsior and Kashmir Independent Media Service accounts both reproduce the same police spokesperson's statement, so they are not independent of each other.
 ---
 
 Police in Baramulla arrested two alleged drug peddlers during naka checking at
-Boniyar Market in Baramulla district on Monday. [@1] A police party intercepted
+Boniyar Market in Baramulla district on Monday. [@1,2] A police party intercepted
 a suspicious electric auto bearing registration number JK04K-5774 as it moved
-towards Baramulla during the check. [@1] The driver was identified as Irfan
+towards Baramulla during the check. [@1,2] The driver was identified as Irfan
 Ahmad Sheikh, son of Mushtaq Ahmad Sheikh, a resident of Deewan Bagh in
-Baramulla. [@1] The passenger was identified as Sajad Ahmad Sheikh, son of Abdul
-Ahad Sheikh, a resident of Sangri Colony in Baramulla. [@1]
+Baramulla. [@1,2] The passenger was identified as Sajad Ahmad Sheikh, son of Abdul
+Ahad Sheikh, a resident of Sangri Colony in Baramulla. [@1,2]
 
 Officers recovered five packets containing charas-like substance, wrapped in
-corn husk, from the driver. [@1] Officers recovered four packets of the same
-substance from the passenger. [@1] Police put the total quantity of the
-recovered substance at 94 grams. [@1]
+corn husk, from the driver. [@1,2] Officers recovered four packets of the same
+substance from the passenger. [@1,2] Police put the total quantity of the
+recovered substance at 94 grams. [@1,2]
 
 Police registered FIR No. 46/2026 under Sections 8/20-29 of the NDPS Act at
-Police Station Boniyar. [@1] Police said further investigation would establish
+Police Station Boniyar. [@1,2] Police said further investigation would establish
 the source and intended destination of the contraband and identify others
 involved in the illegal trade. [@1]
-
