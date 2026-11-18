@@ -46,25 +46,30 @@ status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kibungan, benguet, pdea, buy-bust]
 open_questions:
-  - The map marks Kibungan town; Sitio Baloc in Poblacion was not separately geolocated in the geographic sources checked.
-  - No second outlet could be opened for this operation; the account below is the only one verified.
-  - The suspect was unnamed and the filing of charges was still pending.
+    - The map marks Kibungan town; Sitio Baloc in Poblacion was not separately geolocated in the geographic sources checked.
+    - The suspect was unnamed and the filing of charges was still pending.
+    - The Tribune's preliminary figures of approximately 20 kilograms and P2.4 million differ from the later lab-confirmed 19.88 kilograms worth P2,385,244.80; the report uses the lab-confirmed figures.
+    - The operation began late on 22 October and ended early on 23 October; 22 October is retained as the incident date for the start of the overnight operation.
 sources:
   - title: 19.88 KILOS OF MARIJUANA WORTH ₱2.38 MILLION SEIZED IN BENGUET
     url: https://www.thelostories.com/post/19-88-kilos-of-marijuana-worth-2-38-million-seized-in-benguet
     publisher: The LOStories
     date: 2026-10-28
     language: en
+  - title: Over P2M in dried marijuana seized in Benguet drug bust
+    url: https://tribune.net.ph/2026/10/23/over-p2m-in-dried-marijuana-seized-in-benguet-drug-bust
+    publisher: Daily Tribune
+    date: 2026-10-23
 ---
 
 Authorities seized 19.88 kilograms of suspected marijuana worth
 P2,385,244.80 during a late-night buy-bust operation in Kibungan, Benguet,
-on 22 October, after arresting a 22-year-old farmer. [@1]
+on 22 October, after arresting a 22-year-old farmer. [@1,2] The joint anti-drug operation began late Thursday, October 22, and ended early Friday, October 23. [@2] Authorities also confiscated the suspect's mobile phone and P500,000 in buy-bust and boodle money used in the operation. [@2]
 
 PDEA-CAR released lab-examination results confirming the weight and value
 of the marijuana, packed in 20 tightly wrapped bundles of leaves, stalks
 and fruiting tops — refining the initial estimate of about P2.4 million.
 [@1] The operation in Sitio Baloc, Barangay Poblacion, was led by the
 PDEA-CAR Regional Special Enforcement Team with other PDEA units and
-Benguet police. [@1] The suspect was held while charges under Republic Act
-9165 were pursued; he retains the presumption of innocence. [@1]
+Benguet police. [@1,2] The other participants were the PDEA Baguio-Benguet Provincial Unit, the Benguet Police Drug Enforcement Unit and the Kibungan Municipal Police Station. [@2] The suspect was held while charges under Republic Act
+9165 were pursued; he retains the presumption of innocence. [@1,2]
