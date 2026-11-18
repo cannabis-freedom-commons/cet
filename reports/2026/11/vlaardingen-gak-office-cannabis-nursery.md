@@ -1,0 +1,87 @@
+---
+code: PEXM6M
+added_at: "2026-11-18T13:53:28.170164Z"
+date: 2026-11-17
+country: nl
+place: Industrieweg, Vlaardingen
+coordinates: [51.9125, 4.3417]
+precision: locality
+type: raid
+also: [seizure]
+title: Large cannabis nursery dismantled in former GAK office in Vlaardingen
+summary: >-
+  A very large, professionally equipped cannabis nursery on the eighth floor of the former GAK office building on Industrieweg in Vlaardingen was dismantled on the night of 17-18 November 2026. Plants, fans, transformers, wiring and kilos of potting soil were lowered through a service-lift shaft and removed in a container; no plant count or arrest was reported.
+figures:
+  sites: 1
+details:
+  products:
+    - {product: plants}
+  activity: [cultivation]
+  setting: [building]
+  environment: [indoor]
+  date_precision: exact
+  region: South Holland
+data_sources:
+  details.activity: [2]
+  details.environment: [2]
+  details.products: [3]
+  details.setting: [1]
+  figures.sites: [1]
+media:
+  - kind: photo
+    url: https://www.rodi.nl/vlaardingen/112-nieuws/123644/grote-hennepkwekerij-op-achtste-verdieping-van-voormalig-gak-kantoor-in-vlaardingen-ontmanteld
+    media_url: https://images.pubble.cloud/worker/webp/default/840/148581/47c4eadf/content/2026/11/81361fe9-33aa-405c-abec-ff4f00d46294
+    publisher: Rodi Vlaardingen
+    caption: 'Scene at the former GAK office on Industrieweg in Vlaardingen during the dismantling of the cannabis nursery. Photo: FlashphotoNL'
+status: verified
+created_by_model: swancloud/deepseek-v4.1-flash#max
+submission: fa412bfb09bc1ea6b6eb5c0d1adeada1
+tags: [vlaardingen, hennepkwekerij, zuid-holland, gak-kantoor]
+sources:
+  - title: Grote hennepkwekerij op achtste verdieping van voormalig GAK-kantoor in Vlaardingen ontmanteld
+    url: https://www.rodi.nl/vlaardingen/112-nieuws/123644/grote-hennepkwekerij-op-achtste-verdieping-van-voormalig-gak-kantoor-in-vlaardingen-ontmanteld
+    publisher: Rodi Vlaardingen
+    date: 2026-11-18
+    language: nl
+  - title: Grote hennepkwekerij ontmanteld in oud kantoorpand
+    url: https://www.flashphoto.nl/article.php?id=12392&slug=grote-hennepkwekerij-ontmanteld-in-oud-kantoorpand
+    publisher: FlashphotoNL
+    date: 2026-11-17
+    language: nl
+  - title: Zeer grote hennepkwekerij ontmanteld in voormalig UWV-kantoorpand Vlaardingen
+    url: https://ditistwee.nl/nieuws/26692/zeer-grote-hennepkwekerij-ontmanteld-in-voormalig-uwv-kantoorpand-vlaardingen
+    publisher: Dit is Twee
+    date: 2026-11-18
+    language: nl
+  - title: Grote hennepkwekerij ontmanteld in voormalig GAK-kantoor aan Industrieweg
+    url: https://vlaardingen24.nl/artikel/grote-hennepkwekerij-ontmanteld-in-voormalig-gak-kantoor-aan-industrieweg
+    publisher: Vlaardingen24
+    date: 2026-11-18
+    language: nl
+open_questions:
+  - No figure for the number of cannabis plants in the nursery was published.
+  - No weight or estimated value for the plants or the growing equipment was published.
+  - It is not known whether anyone was arrested, charged or identified over the nursery.
+  - The accounts reproduce the same Flashphoto press-bureau report and do not say which authority carried out the dismantling.
+  - How the nursery was discovered and how long it had been operating were not reported.
+  - The dismantling began on the evening of Tuesday 17 November and continued into 18 November, so the event spans both dates.
+  - The text gives a number of plants ("2026. Plants") but the figures have no plants_destroyed; check whether it belongs there.
+---
+
+A very large cannabis nursery was dismantled on the evening of Tuesday 17
+November 2026 in the former GAK office building on Industrieweg in Vlaardingen.
+[@2] The nursery occupied the eighth floor of the nine-storey building. [@1] The
+clearance ran from Tuesday evening into the night of Wednesday 18 November. [@3]
+
+Beside the cannabis plants, those clearing the building found large snail-cage
+fans, transformers, wiring and kilos of potting soil. [@3] The material was
+passed down the shaft of a service lift, caught on the first floor and thrown
+through an opened window into a container to be taken away. [@1] Those involved
+described the nursery as very professionally set up. [@2]
+
+The nine-storey building was formerly used by the GAK, later the UWV and the
+municipal service Stadswerk. [@4] In recent years the building served as a joint
+knowledge, innovation and training centre for the food industry. [@1] The
+building stands next to the De Elementen homeless shelter and the Food
+Innovation Academy. [@3]
+
