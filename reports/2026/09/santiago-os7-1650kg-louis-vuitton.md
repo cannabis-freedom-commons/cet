@@ -38,8 +38,10 @@ data_sources:
 status: verified
 tags: [os7, fiscalia-supraterritorial, santiago]
 open_questions:
-  - The exact address where the monitored delivery ended in the Metropolitan Region was not published.
-  - The $18 billion figure is the authorities' street-value estimate for the seized cannabis.
+    - The exact address where the monitored delivery ended in the Metropolitan Region was not published.
+    - The $18 billion figure is the authorities' street-value estimate for the seized cannabis.
+    - La Tercera reports more than 1.6 tonnes and quotes the security minister on "1,600 kilos", while other accounts put the haul near 1,650 kg; no separate measured weight was published.
+    - La Tercera mostly describes the load as "droga" and only the security minister's remark calls it marijuana, and no breakdown by substance was published.
 sources:
   - title: 'Con paquetes "Louis Vuitton": cae banda narco e incautan 1.6 toneladas de marihuana destinada a la RM'
     url: https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/10/con-paquetes-louis-vuitton-cae-banda-narco-e-incautan-1-6-toneladas-de-marihuana-destinada-a-la-rm.shtml
@@ -51,6 +53,11 @@ sources:
     url: https://www.cnnchile.com/pais/operativo-permitio-incautar-mas-de-16-toneladas-de-marihuana-que-era-trasladada-a-la-rm-hay-cuatro-detenidos/
     archived: https://web.archive.org/web/20260913005457/https://www.cnnchile.com/pais/operativo-permitio-incautar-mas-de-16-toneladas-de-marihuana-que-era-trasladada-a-la-rm-hay-cuatro-detenidos/
     publisher: CNN Chile
+    date: 2026-09-10
+    language: es
+  - title: Cuatro detenidos y más de 1,6 toneladas de droga incautada deja importante operativo policial
+    url: https://www.latercera.com/nacional/noticia/cuatro-detenidos-y-mas-de-16-toneladas-de-droga-incautada-deja-importante-operativo-policial/
+    publisher: La Tercera
     date: 2026-09-10
     language: es
 media:
@@ -65,15 +72,15 @@ media:
 At a 10 September 2026 press conference, Carabineros director general Marcelo Araya and Supraterritorial
 prosecutor Miguel Ángel Orellana described an OS7 operation with the specialised prosecutor's office
 that seized more than 1,600 kilograms of marijuana bound for sale in the Santiago Metropolitan Region
-during Fiestas Patrias. [@1,2]
+during Fiestas Patrias. [@1,2,3] The load was carried in a truck from the north of the country, the authorities said. [@3]
 
 Security minister Martín Arrau put the haul near 1,650 kilograms of cannabis sativa and said
-authorities valued it at more than 18 billion Chilean pesos on the illicit market. [@1,2] Some of the
+authorities valued it at more than 18 billion Chilean pesos on the illicit market. [@1,2,3] Arrau also said many of Chile's frontier complexes in the north have no scanners and that the level of inspection is insufficient. [@3] Some of the
 packages bore Louis Vuitton logos. [@1]
 
 Orellana said residual leads from earlier cases pointed to a large consignment entering through the
-Antofagasta region and heading south. [@1,2] OS7 used special techniques for an intelligent highway
+Antofagasta region and heading south. [@1,2,3] Orellana said everything indicated the drugs had entered from Bolivia, but that the people who direct, administer, finance or receive them are not Bolivian. [@3] OS7 used special techniques for an intelligent highway
 follow rather than an immediate full stop, then arrested transporters, “spearhead” escort teams and a
-person linked to financing. [@1,2]
+person linked to financing. [@1,2,3]
 
-Four foreign nationals were detained: two Venezuelans and two Colombians. [@1,2]
+Four foreign nationals were detained: two Venezuelans and two Colombians. [@1,2,3]
