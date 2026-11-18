@@ -60,6 +60,11 @@ sources:
     publisher: Raj Express
     date: 2026-11-18
     language: hi
+  - title: 'आरपीएफ इटारसी की बड़ी कार्रवाई: ‘ऑपरेशन नार्कोस’ के तहत तीन दिन में 25 किलो से अधिक गांजा जब्त, तीन गिरफ्तार'
+    url: https://narmadanchal.com/major-action-by-rpf-itarsi-over-25-kg-of-ganja-cannabis-seized-in-three-days-under-operation-narcos-three-arrested/
+    publisher: Narmadanchal.com
+    date: 2026-11-18
+    language: hi
 open_questions:
     - No ages of the three accused were published in either account.
     - No laboratory confirmation of the seized ganja was reported.
@@ -69,17 +74,17 @@ open_questions:
     - The accounts do not say whether the three seizures belonged to one network or whether the three accused knew each other.
 ---
 
-RPF Post Itarsi arrested three accused during the three-day operation. [@1,2] The third was Sunil Kumar, a resident of Karnal in Haryana. [@2] The second was Raju, a resident of Panchkula in Haryana. [@2] One of the three was Ramkumar Thakur, a resident of Narmadapuram. [@2] The
+RPF Post Itarsi arrested three accused during the three-day operation. [@1,2,3] The third was Sunil Kumar, a resident of Karnal in Haryana. [@2,3] The second was Raju, a resident of Panchkula in Haryana. [@2,3] One of the three was Ramkumar Thakur, a resident of Narmadapuram. [@2,3] The
 operation ran from 4 to 6 November 2026 around Itarsi, Narmadapuram and Budhni
-stations. [@1]
+stations. [@1,3]
 
 RPF Post Itarsi seized a total of 25.634 kilograms of ganja in three separate
-actions over three days. [@1,2] RPF seized 8.4 kilograms of ganja on 4 November
+actions over three days. [@1,2,3] RPF seized 8.4 kilograms of ganja on 4 November
 from an accused who got off the Samata Express at the Itarsi-Nagpur outer. [@1]
 Officers seized 10.93 kilograms near Narmadapuram station on 5 November and
 6.304 kilograms from an accused who got off the Gondwana Express near Budhni
 station on 6 November. [@1] On 6 November, when the train slowed near Budhni, the suspect threw his bag and ran, and RPF officers chased him and caught him with local police. [@2] The action near Narmadapuram station on 5 November was also based on information that ganja was being carried in the general coach of the Samata Express. [@2] Police estimated the total value of the seized ganja
-at 723,250 rupees. [@1,2]
+at 723,250 rupees. [@1,2,3]
 
 The seizures were made under Operation Narcos, the RPF drive against drug
 trafficking through the railways across the three divisions of West Central
