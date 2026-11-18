@@ -51,6 +51,11 @@ sources:
     publisher: VocalTV
     date: 2026-11-18
     language: hi
+  - title: 'Supaul News: सुपौल : भारत-नेपाल सीमा पर एसएसबी की बड़ी कार्रवाई, 126 किलो गांजा बरामद, Supaul Hindi News - Hindustan'
+    url: https://www.livehindustan.com/bihar/supaul/story-ssb-seizes-126-kg-of-cannabis-near-india-nepal-border-smugglers-escape-201795014166528.html
+    publisher: Hindustan
+    date: 2026-11-18
+    language: hi
 open_questions:
   - No calendar date is given for the seizure itself; 18 November 2026 is the publication date and the dateline of both accounts and is used as the incident date.
   - The smugglers escaped in the Scorpio and no arrest, vehicle recovery, NDPS case number, charges or court outcome was reported.
@@ -61,19 +66,18 @@ open_questions:
 
 Soldiers of the 45th Battalion of the Sashastra Seema Bal (SSB) at Veerpur
 seized 126 kilograms of ganja near Fatehpur on the India-Nepal border in Supaul
-district, Bihar. [@2] The smugglers were carrying the ganja in a Scorpio and
+district, Bihar. [@2,3] The smugglers were carrying the ganja in a Scorpio and
 drove away at speed under cover of darkness when the soldiers tried to stop
-them. [@1]
+them. [@1,3]
 
 A joint patrol from the battalion headquarters at Veerpur and the Fatehpur
 border post was on routine patrol and surveillance when it spotted the
-suspicious Scorpio near border pillar 204/02. [@1] Soldiers searched the scene
+suspicious Scorpio near border pillar 204/02. [@1,3] Soldiers searched the scene
 and the surrounding area and found four plastic bags holding about 126 kilograms
-of ganja. [@1] After completing the seizure and sealing formalities, the SSB
-handed the ganja to the Veerpur police station for further legal action. [@2]
+of ganja. [@1,3] After completing the seizure and sealing formalities, the SSB
+handed the ganja to the Veerpur police station for further legal action. [@2,3]
 
 The battalion commandant said the force maintained constant vigilance against
 illegal activity and smuggling on the India-Nepal border and was working to
 strengthen border security. [@2] He said coordinated action with other agencies
 would continue. [@2]
-
