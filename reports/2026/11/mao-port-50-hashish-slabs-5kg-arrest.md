@@ -51,6 +51,11 @@ media:
     media_url: https://menorcaaldia.com/index.php?image=img_6afc5cae23df82.62526748.avif
     publisher: Menorca al Dia
     caption: 'The hashish material seized at the port of Maó, published with the local report of the arrest. Photo: Menorca al Dia'
+  - kind: photo
+    url: https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenido-hombre-intentaba-introducir-50-136547695.html
+    media_url: https://estaticos-cdn.prensaiberica.es/clip/32717419-5c2b-4ded-8177-d6e024b82311_16-9-aspect-ratio_default_1532438.webp
+    publisher: Diario de Mallorca
+    caption: 'Seized hashish slabs laid out in front of a Guardia Civil backdrop, with a sign reading 5 kilograms. Photo: Guardia Civil'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2188b656fa49f3a0c010a2216a8bf94c
@@ -76,6 +81,11 @@ sources:
     publisher: Menorca - Es diari
     date: 2026-11-17
     language: es
+  - title: Detenido un hombre que intentaba introducir 50 placas de hachís en Menorca
+    url: https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenido-hombre-intentaba-introducir-50-136547695.html
+    publisher: Diario de Mallorca
+    date: 2026-11-17
+    language: es
 open_questions:
     - Europa Press dates the control to last Saturday, which would be 14 November 2026, while Menorca - Es diari and Menorca al Dia give Friday 13 November 2026; this report uses the 13 November date.
     - The weight is stated as a total or approximate five kilograms rather than an exact measured weight, and no value estimate or laboratory confirmation was reported.
@@ -83,18 +93,18 @@ open_questions:
 ---
 
 The Guardia Civil detained a 29-year-old man of Ecuadorian origin at the port of
-Maó as the alleged perpetrator of a drug-trafficking offence. [@1] The check was
+Maó as the alleged perpetrator of a drug-trafficking offence. [@1,5] The check was
 carried out by the Guardia Civil Fiscal and Borders detachment in the
 disembarkation area of the port facilities, coinciding with the arrival of a
-vessel from Barcelona. [@1] The control that led to the arrest took place on 13
+vessel from Barcelona. [@1,5] The control that led to the arrest took place on 13
 November 2026 in the disembarkation area of the port facilities at Maó. [@2,3]
 
 Officers identified the man and inspected his luggage, seizing 50 slabs of
-hashish with a total weight of five kilograms. [@1,3] The man was disembarking
+hashish with a total weight of five kilograms. [@1,3,5] The man was disembarking
 from a ferry from Barcelona with the five kilograms of hashish in his luggage,
 which he allegedly intended to bring into Menorca. [@2]
 
 After the seizure he was arrested and placed at the disposal of the judicial
 authority as the alleged perpetrator of an offence against public health. [@2] After testifying, he was released provisionally while the proceedings continue towards trial. [@4]
 The Guardia Civil Judicial Police team in Maó is continuing the investigation
-and has not ruled out further arrests in the coming days. [@1]
+and has not ruled out further arrests in the coming days. [@1,5]
