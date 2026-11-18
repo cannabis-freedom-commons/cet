@@ -56,6 +56,11 @@ sources:
     publisher: Burgas24
     date: 2026-11-18
     language: bg
+  - title: Задържаха 32-годишна жена с около 10 грама марихуана в Бургас
+    url: https://burgasmedia.com/news/zadarzhaha-32-godishna-zhena-s-okolo-10-grama-marihuana-v-burgas
+    publisher: BurgasMedia
+    date: 2026-11-18
+    language: bg
 open_questions:
   - No specific criminal charge or legal article was stated; police said only that fast-track proceedings were opened.
   - No court outcome or detention beyond the initial 24-hour order was reported.
@@ -65,15 +70,14 @@ open_questions:
 ---
 
 Burgas police detained a 32-year-old woman on suspicion of possessing about 10
-grams of marijuana. [@3] Officers said she was already known to the Interior
+grams of marijuana. [@3,5] Officers said she was already known to the Interior
 Ministry and that this was not her first time in custody. [@4] The check was
 made at about 12:50 on 17 November 2026 by officers of the Fourth Regional
-Directorate – Burgas. [@2]
+Directorate – Burgas. [@2,5]
 
 During the check officers found and seized dry green plant material with a total
-weight of about 10 grams. [@2] The substance was identified as marijuana. [@1]
-The woman was held for up to 24 hours. [@2]
+weight of about 10 grams. [@2] The substance was identified as marijuana. [@1,5]
+The woman was held for up to 24 hours. [@2,5]
 
 Police opened fast-track proceedings and said the work to establish the
 circumstances continued. [@1]
-
