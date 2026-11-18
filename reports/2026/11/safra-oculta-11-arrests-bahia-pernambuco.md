@@ -139,12 +139,17 @@ sources:
     publisher: Itamaraju Notícias
     date: 2026-11-17
     language: pt
+  - title: Operação localiza plantação de maconha na divisa entre Bahia e Pernambuco
+    url: https://www.acordacidade.com.br/policia/operacao-localiza-plantacao-de-maconha-na-divisa-entre-bahia-e-pernambuco/
+    publisher: Acorda Cidade
+    date: 2026-11-17
+    language: pt
 ---
 
 Eleven people suspected of belonging to a criminal organisation involved in
 illegal cannabis cultivation in northeastern Brazil were arrested on the morning
 of 17 November 2026 during Operation Safra Oculta, launched by federal and state
-security forces in Bahia and Pernambuco. [@1,6,7,8,9,10] The final tally from Operation Safra Oculta reached 13 arrests, with the last two arrests made in Garanhuns, Pernambuco. [@11,13] Investigators suspect the targets
+security forces in Bahia and Pernambuco. [@1,6,7,8,9,10,14] The final tally from Operation Safra Oculta reached 13 arrests, with the last two arrests made in Garanhuns, Pernambuco. [@11,13] Investigators suspect the targets
 of financing and producing the drug and of hiding assets and money through
 individuals and companies. [@1,6,8,9,13] The concealment allegedly used legal entities, including fuel-sector establishments. [@7,10]
 
@@ -152,17 +157,17 @@ Sixteen temporary arrest warrants and 25 search and seizure warrants were issued
 for the operation. [@3,5,7,10,12] Arrest and search warrants were served in Salvador,
 Abaré and Senhor do Bonfim in Bahia, and in Petrolina, Belém do São Francisco,
 Carnaubeira da Penha, Ibimirim and Recife in Pernambuco. [@1,4,6,7,12,13] Officers seized a
-rifle, a pistol, magazines, ammunition, mobile phones and documents. [@1,4,6,8,9,11,13]
+rifle, a pistol, magazines, ammunition, mobile phones and documents. [@1,4,6,8,9,11,13,14]
 Searches also turned up mobile phones, cash and vehicles. [@3] Officers also seized 50,000 reais in cash. [@11,13] Police also
 worked to eradicate a large cannabis plantation in Belém de São Francisco,
-Pernambuco, linked to one of the suspects. [@3,4,5,6,7,9,10,11,12,13] As part of the operation, CIPE/Caatinga and BOPE/PMBA eradicated a Cannabis sativa plantation of about 5,200 plants in the municipality of Ibó, Pernambuco. [@5,12] One target, a woman living in
+Pernambuco, linked to one of the suspects. [@3,4,5,6,7,9,10,11,12,13,14] As part of the operation, CIPE/Caatinga and BOPE/PMBA eradicated a Cannabis sativa plantation of about 5,200 plants in the municipality of Ibó, Pernambuco. [@5,12] One target, a woman living in
 Senhor do Bonfim in northern Bahia, was investigated for moving more than 1
 million reais through bank accounts linked to the scheme. [@1,4,8] At one address
 officers seized mobile phones and documents that will undergo forensic
 examination, and took a man to the Federal Police station in Juazeiro, northern
 Bahia. [@1] Investigations identified more than 116 million reais in financial
 transactions attributed to the group. [@1,4,5,6,7,8,10,11,12,13] A court ordered the freezing and
-seizure of assets and funds up to a limit of 300 million reais. [@2,4,6,8,9]
+seizure of assets and funds up to a limit of 300 million reais. [@2,4,6,8,9,14]
 
 The operation was coordinated by the Federal Police through its Base Carcará in
 Petrolina, with teams from the Federal Police delegation in Juazeiro, the
