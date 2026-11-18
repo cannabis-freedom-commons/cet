@@ -57,20 +57,25 @@ sources:
     publisher: Prospect
     date: 2026-11-17
     language: ru
+  - title: У жителя Саратовской области изъяли более 2 килограммов конопли
+    url: https://sarnovosti.ru/news/u-zhitelya-saratovskoy-oblasti-izyali-bolee-2-kilogrammov-konopli/
+    publisher: СарНовости
+    date: 2026-11-17
+    language: ru
 open_questions:
-    - No date is given for the search or the seizure; 17 November 2026 is the publication date of all three accounts and stands in for the incident date.
+    - No date is given for the search or the seizure; 17 November 2026 is the publication date of all four accounts and stands in for the incident date.
     - The amount is stated only as more than 2.5 kilograms, with no exact weight, plant count or value estimate published.
     - The material was described as parts of cannabis plants, with no laboratory confirmation reported.
-    - No article of the criminal code or specific charge was stated, and no court outcome has been reported.
-    - All three accounts reproduce the same Saratov regional Interior Ministry statement, with the new page crediting news.sarbc.ru, and are not independent reporting.
+    - No court outcome has been reported.
+    - All four accounts reproduce the same Saratov regional Interior Ministry statement and are not independent reporting.
     - The address or district of the household within Novouzensk was not published.
 ---
 
 Police in Novouzensk seized more than 2.5 kilograms of cannabis from a
-32-year-old resident of the town. [@1,3] The regional Interior Ministry
+32-year-old resident of the town. [@1,3,4] The regional Interior Ministry
 directorate for Saratov Oblast reported the seizure. [@1] Officers found parts
-of the cannabis plants in the outbuildings of the man's household. [@2,3]
+of the cannabis plants in the outbuildings of the man's household. [@2,3,4]
 
 According to preliminary information, the man kept the cannabis for personal
-use. [@2,3] A criminal case was opened over the seizure. [@2,3] The suspect was
-placed under a written undertaking not to leave and to behave properly. [@2,3]
+use. [@2,3,4] A criminal case was opened over the seizure. [@2,3] The case was opened under part 2 of article 228 of the Russian Criminal Code, covering illegal drug possession in a large amount. [@4] The suspect was
+placed under a written undertaking not to leave and to behave properly. [@2,3,4]
