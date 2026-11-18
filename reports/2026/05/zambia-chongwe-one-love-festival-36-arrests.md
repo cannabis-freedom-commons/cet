@@ -49,6 +49,10 @@ sources:
     url: https://diggers.news/local/2026/05/13/dec-nabs-36-drug-traffickers-at-jah-night-musical-concert/
     publisher: News Diggers
     date: 2026-05-13
+  - title: Scones, cakes laced with high-grade cannabis
+    url: https://znbc.co.zm/?p=12984
+    publisher: ZNBC
+    date: 2026-05-13
 open_questions:
   - No separate date was given for the operation; 13 May 2026 is the date of the DEC statement and of publication and stands in for the incident date.
   - The cannabis amount is given only as more than four kilograms, alongside unspecified other illicit drugs, so it is not an exact measured weight.
@@ -57,12 +61,18 @@ open_questions:
   - None of the 36 suspects was named, and no charge, plea or court outcome was reported beyond the arrest.
   - The opened accounts reproduce the same DEC statement and are not independent reporting.
   - No estimate of the value of the seized drugs was published.
+media:
+  - kind: photo
+    url: https://znbc.co.zm/?p=12984
+    media_url: https://znbc.co.zm/wp-content/uploads/2026/05/DEC-JAH-NIGHT-CONCERT-1-300x225.jpg
+    publisher: ZNBC
+    caption: Trays of baked goods, including scones and cakes, and packaged items, displayed in the image published with the ZNBC report on the Jah Night concert operation; no credit was given.
 ---
 
 The Drug Enforcement Commission, in a joint operation with Zambia Police,
 arrested 36 people at a music festival in Chongwe District, the commission said
-on Wednesday. [@1] The event was the One Love Reggae Festival, also billed as
-the “Jah Night Musical Concert”, held at Silverest. [@1] The commission
+on Wednesday. [@1,3] The event was the One Love Reggae Festival, also billed as
+the “Jah Night Musical Concert”, held at Silverest. [@1,3] The festival took place at the Mika Convention Centre in the Silverest area. [@3] The commission
 announced the arrests in a statement by its deputy public relations officer,
 Theresa Mawere. [@1]
 
@@ -70,16 +80,15 @@ News Diggers reported that the operation was run by the commission's Lusaka
 Province office together with the Zambia Police Service. [@2] DEC said the
 suspects were trafficking more than four kilograms of high-grade cannabis and
 other illicit drugs, contrary to Section 15 of the Narcotic Drugs and
-Psychotropic Substances Act No. 35 of 2021. [@1] Officers found cannabis
-concealed in pre-packs and sachets. [@1] They also seized scones and cakes laced
+Psychotropic Substances Act No. 35 of 2021. [@1,3] Officers found cannabis
+concealed in pre-packs and sachets. [@1,3] They also seized scones and cakes laced
 with cannabis that DEC said were intended for distribution to patrons. [@1]
 Several bottles of Benylin with codeine, a controlled medicine the commission
 described as commonly abused for recreational purposes, were confiscated in the
-same operation. [@1]
+same operation. [@1,3]
 
 DEC said public entertainment events should not be used as platforms for drug
 trafficking and abuse, warning that such activities threaten public health,
-safety and national security, especially among young people. [@1] The commission
+safety and national security, especially among young people. [@1,3] The commission
 said it would keep intensifying operations against drug-related crime nationwide
 and work with other law enforcement agencies and the public. [@1]
-
