@@ -82,23 +82,38 @@ sources:
     publisher: Bilecik Haber
     date: 2026-11-17
     language: tr
+  - title: Bilecik'te iki araçta 16 kilo 155 gram skunk ele geçirildi, 4 şüpheli tutuklandı
+    url: https://www.gzt.com/gundem/bilecikte-16-kilo-155-gram-skunk-ele-gecirildi-4279521
+    publisher: GZT
+    date: 2026-11-17
+    language: tr
 media:
   - kind: photo
     url: https://heyhaber.com/bilecik-te-16-kilo-155-gram-skunk-ele-gecirildi-4-kisi-tutuklandi
     media_url: https://heyhaber.com/_next/image?url=https%3A%2F%2Fheyhaber.com%2Fuploads%2Fbilecik-te-16-kilo-155-gram-skunk-ele-gecirildi-4-kisi-tutuklandi-kart-f8ea4d0c.webp&w=828&q=50
     publisher: Hey Haber
     caption: Seized skunk displayed in front of the narcotics branch sign from the Bilecik seizure.
+  - kind: photo
+    url: https://www.gzt.com/gundem/bilecikte-16-kilo-155-gram-skunk-ele-gecirildi-4279521
+    media_url: https://img.piri.net/piri/upload/3/2026/11/17/5fb0e7cc-6ebcfd64-edac-452c-b857-33198754b592.webp
+    publisher: GZT
+    caption: 'IHA photo published with the GZT account of the Bilecik operation, captioned ''Bilecik''te araçlarında uyuşturucu bulunan 4 zanlı tutuklandı. Aramalar sonucu 16 kilo 155 gram uyuşturucu madde ele geçirildi.'' Photo: IHA'
+  - kind: photo
+    url: https://www.gzt.com/gundem/bilecikte-16-kilo-155-gram-skunk-ele-gecirildi-4279521
+    media_url: https://img.piri.net/piri/upload/3/2026/11/17/2a809169-9086361f-01b5-435d-b988-406c78ab8b5f.webp
+    publisher: GZT
+    caption: 'IHA photo published with the GZT account, captioned ''Bilecik''te araçlarında uyuşturucu bulunan 4 zanlı tutuklandı.'' Photo: IHA'
 ---
 
 Bilecik provincial police's anti-narcotics branch, the Narcotic Crimes Combating
 Branch, carried out the operation on Sunday 15 November 2026, searching two
 vehicles it had identified and four suspects. [@1,4,6] Officers searched both the
 cars and the four suspects themselves, and seized a total of 16 kilograms 155
-grams (16,155 grams) of skunk. [@1,4,5,6,7,8] Anadolu Ajansı reported that the two cars
-were searched in the city centre of Bilecik. [@2]
+grams (16,155 grams) of skunk. [@1,4,5,6,7,8,9] Anadolu Ajansı reported that the two cars
+were searched in the city centre of Bilecik. [@2,9]
 
 The four suspects were held at the police station for processing and then
-brought before a court, which remanded them in custody. [@1,4,6,7,8] The court remanded
+brought before a court, which remanded them in custody. [@1,4,6,7,8,9] The court remanded
 them on charges of buying, accepting or possessing drugs for personal use and of
 manufacturing and trading drugs. [@1,4,5,6] The İhlas News Agency reported that the
 four were then taken to Bilecik M Type Closed Prison. [@3,5,6]
