@@ -79,6 +79,11 @@ sources:
     publisher: Royal Bulletin
     date: 2026-11-18
     language: hi
+  - title: ग्रेटर नोएडात दीड कोटींचा गांजा जप्त, दोघांना अतक
+    url: https://www.instagram.com/reel/Df4xbQPJgjX/
+    publisher: Instagram / policenamaa
+    date: 2026-11-18
+    language: mr
 open_questions:
   - No separate time of day for the interception was reported; 18 November 2026 is the date of the operation and publication and is used as the incident date.
   - The submitted Bhaskar account rounds the seizure to 177 kg while detailed accounts give 177 kg 790 grams; the report uses the precise 177.79 kg figure.
@@ -88,7 +93,7 @@ open_questions:
 ---
 
 A joint Badalpur police and Anti-Narcotics Task Force team arrested two men in
-Greater Noida on suspicion of ganja smuggling. [@1,4,5,6,7] The teams intercepted the
+Greater Noida on suspicion of ganja smuggling. [@1,4,5,6,7,8] The teams intercepted the
 men's truck in front of Ambedkar Park and arrested its two occupants. [@2,4,6,7]
 Police identified the two as Irfan, son of Basir, and Asif, son of Sagir, both
 residents of Sancholi village under Sohna police station in Gurugram, Haryana.
@@ -97,9 +102,9 @@ and both had previously been jailed in connection with an NDPS case in Assam.
 [@2,4,6,7]
 
 Officers seized 177 kg 790 grams of cannabis from the truck, which police valued
-at about Rs 1.5 crore. [@2,4,5,6,7] The cannabis was hidden in a specially designed
+at about Rs 1.5 crore. [@2,4,5,6,7,8] The cannabis was hidden in a specially designed
 cavity beneath the truck near the toolbox that was built to look like a diesel
-tank. [@2,4,5,6,7] A second account likewise describes a concealed compartment inside
+tank. [@2,4,5,6,7,8] A second account likewise describes a concealed compartment inside
 the truck designed like a diesel tank to move the consignment without attracting
 suspicion. [@3] The accused said they had brought the cannabis from Odisha and
 were transporting it to Gurugram for delivery on the Eastern Peripheral
