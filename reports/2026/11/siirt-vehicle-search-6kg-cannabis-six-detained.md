@@ -75,6 +75,11 @@ sources:
     publisher: MSN / İhlas Haber Ajansı (İHA)
     date: 2026-11-18
     language: tr
+  - title: Siirt'te narkotik köpeğinin izlediği araçta 6 kilogram esrar ele geçirildi
+    url: https://www.haberport.com/haber/siirtte-narkotik-kopeginin-izledigi-aracta-6-kilogram-esrar-ele-gecirildi/71954
+    publisher: Haberport
+    date: 2026-11-18
+    language: tr
 open_questions:
   - The reports give no separate date for the stop and search; 18 November 2026 is the publication date and stands in for the incident date.
   - The material is described only as esrar; the reports do not say whether it was herbal cannabis or pressed resin.
@@ -83,21 +88,27 @@ open_questions:
   - The reports do not say where in Siirt province the car was stopped or where it was travelling from or to.
   - DHA says the car was stopped because officers were suspicious of it, while the İhlas Haber Ajansı account says police had been following it; the difference is not explained.
   - All the opened accounts reproduce the same DHA or İhlas Haber Ajansı text, so they are not independent reporting.
+media:
+  - kind: photo
+    url: https://www.haberport.com/haber/siirtte-narkotik-kopeginin-izledigi-aracta-6-kilogram-esrar-ele-gecirildi/71954
+    media_url: https://cdn.haberport.com/uploads/1280/images/news/0b67e0b2-9fcf-4e1a-9a66-d4970c9525ac.jpg
+    publisher: Haberport
+    caption: 'Photo captioned ''ELE GEÇİRİLENLER'' (the seized items), published with the Haberport account of the 6 kg cannabis seizure in Siirt. Photo: Haberport'
 ---
 
 The operation was run by teams of the Siirt İl Emniyet Müdürlüğü Narkotik
 Suçlarla Mücadele Şube Müdürlüğü, the provincial police directorate's unit for
 combating narcotics crime, as part of work against drug use and trafficking.
-[@1,5,6,7] Officers had been following the car on suspicion of drug trafficking before
+[@1,5,6,7,8] Officers had been following the car on suspicion of drug trafficking before
 they stopped and searched it. [@4] The search was carried out with İnşa, a
 narcotics detection dog. [@1] Officers seized six kilograms of esrar, the
-everyday Turkish term for cannabis, from the vehicle. [@2,5,6,7]
+everyday Turkish term for cannabis, from the vehicle. [@2,5,6,7,8]
 
 Six suspects were detained over the seizure, one of them a foreign national.
-[@1,5,6,7] Legal proceedings were started against the suspects who had been in the
+[@1,5,6,7,8] Legal proceedings were started against the suspects who had been in the
 car. [@4]
 
 After questioning and processing at the police station, the six were sent to the
-judicial authorities. [@4,6,7] Their procedures at the prosecutor's office were
+judicial authorities. [@4,6,7,8] Their procedures at the prosecutor's office were
 continuing. [@1] The operation was directed at drug trafficking in Siirt. [@3]
 The work was conducted across the city to prevent drug use and trafficking. [@4]
