@@ -57,25 +57,30 @@ sources:
     publisher: SWI swissinfo.ch
     date: 2026-11-18
     language: ar
+  - title: Saisie d’une grande quantité de comprimés psychotropes et de cocaïne
+    url: https://www.nessma.tv/fr/nationale/actu/saisie-dune-grande-quantite-de-comprimes-psychotropes-et-de-cocaine/601638
+    publisher: Nessma
+    date: 2026-11-18
+    language: fr
 open_questions:
     - The operation's exact day is not stated; 17 November 2026 is the Tuesday before the Reuters account's 18 November publication, and matches the date given with the first outlet's photos.
     - 'No names or number of suspects were reported, and the accounts differ on the gang: the Reuters account says members of the network were detained in the city, while the Libyan accounts said inquiries to identify the gang were continuing.'
     - The accounts rest on the same anti-drugs administration statement and are not independent reporting.
     - The accounts attribute the orders behind the operation to different authorities.
     - The 4,162,682 pills and 11 kilograms of cocaine from the same seizure are excluded from the cannabis figures because they are not cannabis.
-    - The Reuters account gives the cocaine and hashish as one 29-kilogram total, so the split of 18 kilograms of hashish and 11 kilograms of cocaine rests on the two Libyan outlets.
+    - The Reuters account gives the cocaine and hashish as one 29-kilogram total, so the split of 18 kilograms of hashish and 11 kilograms of cocaine rests on the Libyan outlets that state it separately.
 ---
 
 The Derna branch of Libya's General Administration for Combating Drugs and
 Psychotropic Substances carried out a security operation south of Gate 200 in
-the city of Derna. [@1] The seized drugs were pictured and dated to Tuesday 17
+the city of Derna. [@1,4] The seized drugs were pictured and dated to Tuesday 17
 November 2026 in Derna, in material credited to the anti-drugs administration.
-[@1] Officers seized 18 kilograms of hashish in the operation. [@1] Photos published by the administration with its statement showed quantities of hashish alongside boxes and clear bags holding white pills. [@3]
+[@1] Officers seized 18 kilograms of hashish in the operation. [@1,4] Photos published by the administration with its statement showed quantities of hashish alongside boxes and clear bags holding white pills. [@3]
 
 The same haul also included 4,162,682 narcotic pills described as Captagon,
-ecstasy, tramadol and Tamol. [@1] Officers also seized 11 kilograms of cocaine
+ecstasy, tramadol and Tamol. [@1,4] Officers also seized 11 kilograms of cocaine
 alongside the hashish and pills, which is not counted in the cannabis figures.
-[@1] A Reuters account of the seizure put the haul at more than four million narcotic pills and 29 kilograms of cocaine and hashish together. [@3] The head of the anti-drugs administration, Maj. Gen. Ahmed Al-Shamikh, gave
+[@1,4] A Reuters account of the seizure put the haul at more than four million narcotic pills and 29 kilograms of cocaine and hashish together. [@3] The head of the anti-drugs administration, Maj. Gen. Ahmed Al-Shamikh, gave
 the same breakdown of 4,162,682 pills plus 18 kilograms of hashish and 11
 kilograms of cocaine in the second account. [@2] The same account quoted the administration's director, Maj. Gen. Ahmed Al-Shamikh, saying in a video statement released late on 17 November that the authorities would not be lenient with anyone who sought to tamper with the security of young Libyans or the country's future. [@3] The first account said the
 operation implemented instructions from the administration's director to
@@ -85,5 +90,5 @@ deputy commander-in-chief of the armed forces and the interior minister to
 redouble efforts against drugs and pursue their traders and promoters. [@2]
 
 The seized materials were sealed as evidence and the necessary legal measures
-were taken. [@1] Inquiries were continuing under Public Prosecution supervision
-to identify the members of the gang involved. [@1] The administration's statement also said members of the criminal network had been detained in the city. [@3]
+were taken. [@1,4] Inquiries were continuing under Public Prosecution supervision
+to identify the members of the gang involved. [@1,4] The administration's statement also said members of the criminal network had been detained in the city. [@3]
