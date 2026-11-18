@@ -56,22 +56,28 @@ sources:
     publisher: Dinamani
     date: 2026-11-17
     language: ta
+  - title: புழல் சிறைக்குள் கஞ்சா கடத்திய செவிலியர் உதவியாளர் கைது
+    url: https://www.hindutamil.in/amp/story/news/crime/nursing-assistant-arrested-for-smuggling-ganja-into-puzhal-prison
+    publisher: Hindu Tamil Thisai
+    date: 2026-11-18
+    language: ta
 open_questions:
-  - The white powder reported in other accounts is not mentioned in this account, so its nature remains unidentified.
-  - Accounts differ on whether the parcel was meant for prisoners in Block 4 generally or a specific cell, so the exact intended recipient is unconfirmed.
+    - The white powder reported in other accounts is not mentioned in this account, so its nature remains unidentified.
+    - Accounts differ on whether the parcel was meant for prisoners in Block 4 generally or a specific cell, so the exact intended recipient is unconfirmed.
+    - One account describes a single unidentified person handing the parcel to Kanagaraj near the Kavangarai bus stop, while another describes two women on a blue scooter.
 ---
 
 Kanagaraj worked as a nursing assistant at Puzhal Central Prison in Chennai and
 was stopped for a check by security police as he tried to enter through the main
-entrance yesterday evening. [@1,3] During the routine check at about 6:25 pm at
+entrance yesterday evening. [@1,3,5] During the routine check at about 6:25 pm at
 the prison's main entrance, staff found a parcel concealed in his underwear.
-[@2,4] APC News Tamil identifies him as 51-year-old C. K. Kanagaraj of the Puzhal
+[@2,4,5] APC News Tamil identifies him as 51-year-old C. K. Kanagaraj of the Puzhal
 prison staff quarters, working as a male nursing assistant at Puzhal Central
 Prison-2. [@2,4]
 
 Search of the parcel recovered about 313 grams of ganja, 28 grams of white
 powder wrapped in black tape, a kumkum packet and a sandalwood perfume bottle.
-[@2,4] Kanagaraj told investigators that two unidentified women on a blue scooter
+[@2,4,5] Kanagaraj told investigators that two unidentified women on a blue scooter
 gave him the parcel near the Kavangarai bus stop at about 6 pm. [@2]
 
 He said the women asked him to hand the parcel to the prisoner in Block No. 4,
@@ -80,5 +86,5 @@ Arulkumaran, the M3 Puzhal police station registered a case under the Narcotic
 Drugs and Psychotropic Substances Act. [@2,3]
 
 Police arrested Kanagaraj for attempting to smuggle drugs into the prison and
-are continuing to question him. [@2,3,4] He was produced in court and then lodged as a prisoner in the same Puzhal prison where he had worked. [@3] Police are also investigating who the two
+are continuing to question him. [@2,3,4,5] He was produced in court and then lodged as a prisoner in the same Puzhal prison where he had worked. [@3] Police are also investigating who the two
 women were and which prisoner was to receive the parcel. [@2]
