@@ -118,6 +118,11 @@ sources:
     publisher: Diario Córdoba
     date: 2026-11-18
     language: es
+  - title: Un investigado tras localizar en La Carlota una plantación con más de 100 kilos de marihuana
+    url: https://www.cordobahoy.es/provincia/investigado-localizar-carlota-plantacion-mas-100-kilos-marihuana/20261118175455205952.html
+    publisher: Córdoba Hoy
+    date: 2026-11-18
+    language: es
 open_questions:
     - The Guardia Civil statement gives only October 2026 for the discovery; no exact date for the checks or the uprooting of the plants was published.
     - No charge, detention or court outcome was reported; the identified person was recorded as under investigation only.
@@ -125,19 +130,19 @@ open_questions:
 
 The Guardia Civil, with the help of La Carlota local police, investigated one
 person as the alleged perpetrator of a public-health offence for cultivating and
-producing drugs. [@1,4,5,6,7,8,9] In October 2026, officers from the La Victoria and La
+producing drugs. [@1,4,5,6,7,8,9,10] In October 2026, officers from the La Victoria and La
 Carlota posts were called in by the local police after a strong smell of
-marijuana was noticed near several homes in the town. [@1,3,4,5,6,7,8,9]
+marijuana was noticed near several homes in the town. [@1,3,4,5,6,7,8,9,10]
 
 After checks and inspections of nearby land, officers found the marijuana
 plantation growing on open rustic land with no fence or other barrier to access.
-[@1,4,5,6,7,8,9] The plot held 16 marijuana plants, 14 of them in an advanced state of
+[@1,4,5,6,7,8,9,10] The plot held 16 marijuana plants, 14 of them in an advanced state of
 flowering, reaching 1.70 metres tall and fitted with a drip-irrigation system
-ensuring a constant water supply. [@1,3,4,5,6,7,8] Officers dismantled the plantation, with
-the freshly cut plants weighing 104 kilograms when green. [@2,3,4,5,6,7,8]
+ensuring a constant water supply. [@1,3,4,5,6,7,8,10] Officers dismantled the plantation, with
+the freshly cut plants weighing 104 kilograms when green. [@2,3,4,5,6,7,8,10]
 
 Following inquiries, the Guardia Civil identified the person allegedly
 responsible for the plot and recorded them as under investigation for
-cultivation and production of drugs. [@1,3,4,5,6,7,8] The proceedings were sent to the
+cultivation and production of drugs. [@1,3,4,5,6,7,8,10] The proceedings were sent to the
 competent judicial authority, with the seized plants held at the court's
-disposal for later analysis and destruction. [@1,3,4,5,6,7,8,9]
+disposal for later analysis and destruction. [@1,3,4,5,6,7,8,9,10]
