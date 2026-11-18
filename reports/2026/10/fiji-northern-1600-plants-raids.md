@@ -51,6 +51,10 @@ sources:
     url: https://fijisun.com.fj/news/nation/more-than-1600-suspected-marijuana-plants-found-in-northern-raids
     publisher: Fiji Sun
     date: 2026-10-29
+  - title: Suspected drug farms uncovered by police
+    url: https://www.fbcnews.com.fj/news/suspected-drug-farms-uncovered-by-police/
+    publisher: FBC News
+    date: 2026-10-29
 media:
   - kind: photo
     url: https://www.fijivillage.com/news/more-than-1-600-suspected-marijuana-plants-discovered-in-northern-division-police-continue-nationwide-drug-operations-e28fff/
@@ -62,17 +66,22 @@ media:
     media_url: https://images.fijisun.com.fj/media/221a9416-0c65-4417-ad78-db94271d0877?w=1080&q=75
     publisher: Fiji Sun
     caption: Suspected marijuana plants found in the Vesivuru farming area in Lea.
+  - kind: photo
+    url: https://www.fbcnews.com.fj/news/suspected-drug-farms-uncovered-by-police/
+    media_url: https://www.fbcnews.com.fj/wp-content/uploads/2026/10/MARIWANA-.png
+    publisher: FBC News
+    caption: 'Police handout photo of marijuana published with the FBC report on the Northern Division farms. Photo: Fiji Police Force Facebook'
 ---
 
 More than 1,600 plants believed to be marijuana were discovered in two farming
 areas in the Northern Division as police continued operations across Fiji's
-five policing divisions. [@1,2]
+five policing divisions. [@1,2,3]
 
 A farm with more than 1,500 plants was found earlier in the week in the
 Vesivuru farming area in Lea. [@1,2] In a separate mop-up exercise at
 Nawi, a Tukavesi team found another farm with more than 100 plants; a
 38-year-old man believed to be the owner was arrested and taken into
-custody. [@1,2]
+custody. [@1,2,3]
 
 The same operations roundup also recorded hotel-room drugs handed in at Labasa,
 cash and distribution equipment seized with two arrests at Sabeto in the
