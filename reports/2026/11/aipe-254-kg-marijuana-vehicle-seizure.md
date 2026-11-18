@@ -64,6 +64,11 @@ sources:
     publisher: Diario del Sur
     date: 2026-11-18
     language: es
+  - title: Incautados 254 kilogramos de marihuana en la vía Neiva–Castilla, en el municipio de Aipe
+    url: http://diariodelcauca.com.co/noticias/incautados-254-kilogramos-de-marihuana-en-la-via-neiva-castilla-en-el-municipio-de-aipe
+    publisher: Diario del Cauca
+    date: 2026-11-18
+    language: es
 media:
   - kind: photo
     url: https://diariodelhuila.com/incautaron-254-kilos-de-marihuana-en-un-vehiculo-en-aipe-huila/
@@ -79,17 +84,17 @@ after the driver of the vehicle that was carrying the substance evaded a police
 control and escaped on foot. [@1,2] The procedure was carried out on the
 Neiva-Castilla road, at the height of the municipality's urban area, where
 officers of the Police's Traffic and Transport Section were patrolling when they
-noticed a grey car whose driver reacted suspiciously. [@1,2] According to the
+noticed a grey car whose driver reacted suspiciously. [@1,2,3] According to the
 police report, the man accelerated and ignored the stop signal, then set off
-fleeing through several streets of Aipe. [@1,2] The pursuit ended in a dead end,
-where the driver got out of the car and fled on foot into a forested area. [@1,2]
+fleeing through several streets of Aipe. [@1,2,3] The pursuit ended in a dead end,
+where the driver got out of the car and fled on foot into a forested area. [@1,2,3]
 
 Officers inspected the vehicle and found 94 packages wrapped in vinyl (vinipel);
 40 were covered in black material and 54 in transparent plastic, and inside was
 a plant substance with characteristics similar to marijuana, weighing 254
-kilograms in total. [@1,2] In addition to the load, the Police also seized the car
-used to transport it. [@1,2] Both the vehicle and the seized substance were placed
+kilograms in total. [@1,2,3] In addition to the load, the Police also seized the car
+used to transport it. [@1,2,3] Both the vehicle and the seized substance were placed
 at the disposal of the Prosecutor's Office in Aipe, which will carry out the
-corresponding judicial proceedings. [@1,2] For the time being the authorities did
+corresponding judicial proceedings. [@1,2,3] For the time being the authorities did
 not report the capture of the driver, who escaped during the operation, and no
 details were known about the load's origin or its destination. [@1]
