@@ -35,9 +35,6 @@ data_sources:
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [samoa, faleolo, airport, trafficking]
-open_questions:
-  - "The map marks Faleolo airport; the source does not give the precise inspection location."
-  - The man's identity and whether charges followed the detention were not reported.
 sources:
   - title: Samoa authorities detain NZ passport holder following marijuana seizure at Faleolo International Airport
     url: https://www.rnz.co.nz/news/pacific/586643/samoa-authorities-detain-nz-passport-holder-following-marijuana-seizure-at-faleolo-international-airport
@@ -53,6 +50,10 @@ sources:
     url: https://islandsbusiness.com/news-break/samoa-authorities-detain-nz-passport-holder-in-airport-marijuana-seizure/
     publisher: Islands Business
     date: 2026-02-13
+  - title: Fiji Airways passenger caught with drugs in Samoa
+    url: https://fijisun.com.fj/news/nation/fiji-airways-passenger-caught-with-drugs-in-samoa
+    publisher: Fiji Sun
+    date: 2026-02-12
 media:
   - kind: photo
     url: https://www.rnz.co.nz/news/pacific/586643/samoa-authorities-detain-nz-passport-holder-following-marijuana-seizure-at-faleolo-international-airport
@@ -63,15 +64,15 @@ media:
 
 A 43-year-old Samoan national holding a New Zealand passport was detained in
 Apia after being found with 90 grams of marijuana and drug paraphernalia at
-Faleolo International Airport on February 12, 2026. [@1,3][@2]
+Faleolo International Airport on February 12, 2026. [@1,3,4][@2]
 
 The man, who resides in Australia, arrived on a Fiji Airways flight and was
 intercepted during routine border clearance; officers found six bottles
 containing marijuana along with a cannabis grinder and rolling papers in his
-possession. [@1,3][@2]
+possession. [@1,3,4][@2]
 
 The Ministry of Customs and Samoa Police said in a joint statement that the
 items were detected during standard screening by frontline officers and seized
-under the Customs Act and Narcotics Act. [@1] The man was held in custody for
+under the Customs Act and Narcotics Act. [@1,4] The man was held in custody for
 further investigation and questioning as authorities warned travellers that
-importing illicit drugs carries severe penalties under local law. [@1,3][@2]
+importing illicit drugs carries severe penalties under local law. [@1,3,4][@2]
