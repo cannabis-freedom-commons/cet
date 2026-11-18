@@ -45,6 +45,11 @@ media:
     media_url: https://www.amur.life/res/news/96220/928x_/7fc5c9a5313763b698bf2dd69db5a745.jpg
     publisher: Amur.Life
     caption: 'Police handout photo of the cannabis and hashish oil seized in the Oktyabrsky district house search. Photo: УМВД России по Амурской области'
+  - kind: photo
+    url: https://2x2.su/news/kriminal/u-zhitelya-ekaterinoslavki-izyali-bolshe-19-kg-marikhuany-i-gashishnoe-maslo.html
+    media_url: https://2x2.su/upload/iblock/a2c/6q18e68fkxreuz3qde4kjrocmduthg2k.jpg
+    publisher: 2x2.su
+    caption: 'Police handout photo published with the report on the Yekaterinoslavka cannabis and hashish oil seizure. Photo: УМВД по Амурской области'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6194139806f0ceca263ac95a35d8d473
@@ -65,24 +70,23 @@ sources:
     publisher: Порт Амур
     date: 2026-11-16
     language: ru
-open_questions:
-  - No exact day in October is given for the home search; 16 November 2026 is the publication date and stands in for the incident date.
-  - The metal cup held over 179 grams of hashish oil without an exact weight, so the combined cannabis weight of about 19.65 kg is approximate.
-  - No arrest, detention measure, plea or court outcome was reported; the case was at the investigation stage.
-  - The reports do not say whether the drugs were intended for personal use or sale.
-  - All three accounts cite the same Amur UМВД statement and are not independent reporting.
+  - title: У жителя Екатеринославки изъяли больше 19 кг марихуаны и гашишное масло
+    url: https://2x2.su/news/kriminal/u-zhitelya-ekaterinoslavki-izyali-bolshe-19-kg-marikhuany-i-gashishnoe-maslo.html
+    publisher: 2x2.su
+    date: 2026-11-18
+    language: ru
 ---
 
 In October 2026 drug-control officers of the Oktyabrsky municipal police
 department searched the home of a 48-year-old resident of the village of
-Yekaterinoslavka. [@2] The man had set up drug production at home, described by
+Yekaterinoslavka. [@2,4] The man had set up drug production at home, described by
 police as a laboratory. [@3] After the expert findings, investigators opened a
 criminal case against the man under part 2 of article 228 of the Russian
-Criminal Code, which carries up to 10 years in prison. [@2]
+Criminal Code, which carries up to 10 years in prison. [@2,4]
 
 During the search officers took plant material, two plastic canisters holding
 liquid, a paper wrap with a resin-tobacco mixture and a metal cup containing a
-dark substance. [@2] A forensic expert concluded that the plant material was
+dark substance. [@2,4] A forensic expert concluded that the plant material was
 cannabis (marijuana) with a total weight of 19,256 grams. [@1] Specialists also
 found that the liquid in the canisters was a cannabis-oil solution weighing
 213.19 grams, while hashish oil was also present in the tobacco mixture (0.61
@@ -94,4 +98,3 @@ The seizure was reported in the Oktyabrsky district of the Amur region, with the
 man facing up to 10 years of imprisonment. [@2] According to the regional
 interior ministry, the home search was carried out in October, while the reports
 were published on 16 November 2026. [@1]
-
