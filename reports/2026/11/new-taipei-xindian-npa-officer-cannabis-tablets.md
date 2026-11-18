@@ -73,6 +73,14 @@ sources:
     publisher: Yahoo新聞
     date: 2026-11-18
     language: zh
+  - title: 快訊／警政署再爆涉毒醜聞! 2線4警官摩鐵呼麻...火速記2大過免職
+    url: https://www.msn.com/zh-tw/news/other/%E5%BF%AB%E8%A8%8A-%E8%AD%A6%E6%94%BF%E7%BD%B2%E5%86%8D%E7%88%86%E6%B6%89%E6%AF%92%E9%86%9C%E8%81%9E-2%E7%B7%9A4%E8%AD%A6%E5%AE%98%E6%91%A9%E9%90%B5%E5%91%BC%E9%BA%BB%E7%81%AB%E9%80%9F%E8%A8%982%E5%A4%A7%E9%81%8E%E5%85%8D%E8%81%B7/ar-AA2hG8Aa
+    publisher: MSN (ETtoday新聞雲)
+    date: 2026-11-18
+    language: zh
+open_questions:
+    - No weight or quantity for the cannabis tablets seized from the motel room was published.
+    - Accounts differ on whether Kuo reported the incident to the National Police Agency's information office or to its inspectorate after the arrest.
 ---
 
 Kuo Wen-cheng, 46, a technical specialist in the National Police Agency's
@@ -80,7 +88,7 @@ information office, was arrested on the night of 13 November 2026 in a motel in
 Xindian District, New Taipei City. [@1,7] Xindian Precinct officers were carrying
 out an expanded inspection during the nationwide anti-gang sweep when they
 entered his room at about 10 p.m. and found him holding cannabis tablets, a
-category 2 drug. [@1,7] He was at a party at a motel on Baoqiao Road and other men
+category 2 drug. [@1,7] Kuo admitted using cannabis when officers found him with it in the motel room. [@8] He was at a party at a motel on Baoqiao Road and other men
 were in the room. [@1,7] Police took Kuo and a male friend back for questioning.
 [@6] Kuo had previously served in the agency's traffic section and its
 inspectorate and was transferred to the information office this year. [@1,7]
@@ -96,7 +104,7 @@ Prosecutors Office under the Narcotics Hazard Prevention Act. [@2] Prosecutors
 released him on NT$30,000 bail after questioning. [@4]
 
 The agency held an emergency personnel review on 14 November and dismissed Kuo
-with two major demerits. [@2] It said supervisors would also be held accountable
-for inadequate assessment and oversight. [@1,7] ETtoday reported that it was the
+with two major demerits. [@2,8] It said supervisors would also be held accountable
+for inadequate assessment and oversight. [@1,7,8] ETtoday reported that it was the
 second drug case involving a mid-ranking or senior National Police Agency
 officer this year. [@3]
