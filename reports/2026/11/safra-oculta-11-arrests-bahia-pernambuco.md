@@ -44,6 +44,11 @@ media:
     media_url: https://s2-g1.glbimg.com/z-McfzXEu21rVvVprDobhLvOHFQ=/0x0:1600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/d/DP11cSSJ2NEGLyQIj7Zg/operacao-safra-oculta-4-.jpeg
     publisher: G1
     caption: 'A rifle, a pistol, magazines, ammunition, mobile phones and documents seized during Operation Safra Oculta. Photo: Márcia Santana/Ascom SSP'
+  - kind: photo
+    url: https://agora1.info/policia/operao-mira-grupo-ligado-ao-cultivo-de-maconha-prende-11-suspeitos-e-bloqueia-r-300-milhes-na-bahia-e-pernambuco
+    media_url: https://cdn.agora1.info/midia/2026/11/17/1794927814508_plantaaao-maconha_resized.webp
+    publisher: Agora1
+    caption: 'Cannabis plantation shown with the Operation Safra Oculta report. Photo: Márcia Santana/Ascom SSP'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 05f0a9c6fde348293b111e3917448077
@@ -84,6 +89,11 @@ sources:
     publisher: Polícia Federal
     date: 2026-11-17
     language: pt
+  - title: Operação mira grupo ligado ao cultivo de maconha, prende 11 suspeitos e bloqueia R$ 300 milhões
+    url: https://agora1.info/policia/operao-mira-grupo-ligado-ao-cultivo-de-maconha-prende-11-suspeitos-e-bloqueia-r-300-milhes-na-bahia-e-pernambuco
+    publisher: Agora1
+    date: 2026-11-17
+    language: pt
 open_questions:
     - No weight of cannabis seized was published for this operation; the approximately 5,200 plants reported by CIPE/Caatinga are an approximation for the Ibó plantation.
     - The number of properties searched is not given; the reported figures are 25 search and seizure warrants but 11 arrests.
@@ -98,25 +108,25 @@ open_questions:
 Eleven people suspected of belonging to a criminal organisation involved in
 illegal cannabis cultivation in northeastern Brazil were arrested on the morning
 of 17 November 2026 during Operation Safra Oculta, launched by federal and state
-security forces in Bahia and Pernambuco. [@1,6,7] Investigators suspect the targets
+security forces in Bahia and Pernambuco. [@1,6,7,8] Investigators suspect the targets
 of financing and producing the drug and of hiding assets and money through
-individuals and companies. [@1,6] The concealment allegedly used legal entities, including fuel-sector establishments. [@7]
+individuals and companies. [@1,6,8] The concealment allegedly used legal entities, including fuel-sector establishments. [@7]
 
 Sixteen temporary arrest warrants and 25 search and seizure warrants were issued
 for the operation. [@3,5,7] Arrest and search warrants were served in Salvador,
 Abaré and Senhor do Bonfim in Bahia, and in Petrolina, Belém do São Francisco,
 Carnaubeira da Penha, Ibimirim and Recife in Pernambuco. [@1,4,6,7] Officers seized a
-rifle, a pistol, magazines, ammunition, mobile phones and documents. [@1,4,6]
+rifle, a pistol, magazines, ammunition, mobile phones and documents. [@1,4,6,8]
 Searches also turned up mobile phones, cash and vehicles. [@3] Police also
 worked to eradicate a large cannabis plantation in Belém de São Francisco,
 Pernambuco, linked to one of the suspects. [@3,4,5,6,7] As part of the operation, CIPE/Caatinga and BOPE/PMBA eradicated a Cannabis sativa plantation of about 5,200 plants in the municipality of Ibó, Pernambuco. [@5] One target, a woman living in
 Senhor do Bonfim in northern Bahia, was investigated for moving more than 1
-million reais through bank accounts linked to the scheme. [@1,4] At one address
+million reais through bank accounts linked to the scheme. [@1,4,8] At one address
 officers seized mobile phones and documents that will undergo forensic
 examination, and took a man to the Federal Police station in Juazeiro, northern
 Bahia. [@1] Investigations identified more than 116 million reais in financial
-transactions attributed to the group. [@1,4,5,6,7] A court ordered the freezing and
-seizure of assets and funds up to a limit of 300 million reais. [@2,4,6]
+transactions attributed to the group. [@1,4,5,6,7,8] A court ordered the freezing and
+seizure of assets and funds up to a limit of 300 million reais. [@2,4,6,8]
 
 The operation was coordinated by the Federal Police through its Base Carcará in
 Petrolina, with teams from the Federal Police delegation in Juazeiro, the
