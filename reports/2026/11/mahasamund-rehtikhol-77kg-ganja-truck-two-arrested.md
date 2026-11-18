@@ -66,11 +66,22 @@ sources:
     publisher: Dainik Hawk
     date: 2026-11-18
     language: hi
+  - title: 'महासमुंद में गांजे की बड़ी खेप पकड़ी गई : पुलिस ने महाराष्ट्र के दो तस्कर किए गिरफ्तार, 48.95 लाख का माल जब्त - Haribhoomi'
+    url: https://www.haribhoomi.com/state-local/chhattishgarh/news/mahasamund-ganja-seized-two-smugglers-arrested-police-team-ndps-act-122426
+    publisher: Haribhoomi
+    date: 2026-11-18
+    language: hi
+media:
+  - kind: photo
+    url: https://www.haribhoomi.com/state-local/chhattishgarh/news/mahasamund-ganja-seized-two-smugglers-arrested-police-team-ndps-act-122426
+    media_url: https://img.haribhoomi.com/uploadimage/library/16_9/16_9_5/_Accused_with_seized_cannabis_1795009920.webp
+    publisher: Haribhoomi
+    caption: 'Accused with the seized cannabis from the Mahasamund truck seizure. Photo: Haribhoomi'
 ---
 
 Officers of the Anti-Narcotic Task Force and Singhoda police station seized
 77.620 kilograms of ganja from a goods truck in Mahasamund district,
-Chhattisgarh, under Operation Nishchay. [@1,2,3,4] Police arrested two Maharashtra
+Chhattisgarh, under Operation Nishchay. [@1,2,3,4,5] Police arrested two Maharashtra
 residents in the case. [@1,2,3,4] The first was Ganesh Shinde, 35, a resident of Awadi
 in the Mohad police station area of Solapur district, Maharashtra. [@1,2,4] The
 second was Raviraj Balu Sudke, 19, a resident of Bhikvadi Adgaon in the Vitta
@@ -78,17 +89,17 @@ police station area of Sangli district, Maharashtra. [@1,2,4]
 
 Police acted on a tip received on 18 November 2026 that smugglers were bringing
 ganja from Odisha into Chhattisgarh in a truck with the registration MH 45 AE
-9708. [@1,2,4] The two teams blocked National Highway 53 near Rehtikhol village and
+9708. [@1,2,4,5] The truck was described as an ochre-coloured Eicher Mazda Pro 3019. [@5] The two teams blocked National Highway 53 near Rehtikhol village and
 stopped the truck matching the informer's description. [@1,2,3,4] A search of the
 truck's cargo body found the ganja in three sacks. [@1,2,3,4] The men told police they
 had loaded the ganja in Sonpur district of Odisha and were taking it to Solapur
-district in Maharashtra. [@1,2,3,4]
+district in Maharashtra. [@1,2,3,4,5]
 
 Police valued the ganja at 38.81 lakh rupees. [@1,2,3,4] They put the truck used for
 the smuggling at 10 lakh rupees and the two mobile phones at 14,000 rupees. [@1,2,4]
 The total seized property was worth 48.95 lakh rupees. [@1,2,3,4] Police registered
 crime number 142/2026 at Singhoda police station against both men under section
-20(B)(II)(C) of the NDPS Act. [@1,2,4] Police said they were questioning the two
+20(B)(II)(C) of the NDPS Act. [@1,2,4,5] Police said they were questioning the two
 about the source of the ganja and the people buying it. [@1] Police said they
 were also examining the whole network behind the smuggling to reach others
 involved in the trade. [@1,2,4]
