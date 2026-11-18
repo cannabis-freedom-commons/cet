@@ -72,21 +72,26 @@ sources:
     publisher: برس بي
     date: 2026-11-11
     language: ar
+  - title: السعودية تنفذ حكم إعدام بحق إثيوبيين بتهمة تهريب المخدرات
+    url: https://ekhbary24.com/article/59486
+    publisher: إخباري 24 نيوز
+    date: 2026-11-17
+    language: ar
 open_questions:
   - Ajel illustrates the execution announcement with a July 2026 Interior Ministry logo graphic, so no photo of this Asir case is listed.
 ---
 
 Saudi Arabia's Interior Ministry announced the execution of two Ethiopian
 nationals in the Asir region after convicting them of smuggling amphetamine
-pills and hashish into the kingdom. [@1,4,5,6,7] The ministry named the two men as
+pills and hashish into the kingdom. [@1,4,5,6,7,8] The ministry named the two men as
 Mebrahtu Segay Sadiq Erha and Zenebu Segay Asbha Qasasaw, both Ethiopian
-nationals. [@2,3,4,5,6,7] Both men were arrested after being suspected of involvement in
-drug smuggling. [@1,4,5,6]
+nationals. [@2,3,4,5,6,7,8] Both men were arrested after being suspected of involvement in
+drug smuggling. [@1,4,5,6,8]
 
 The ministry said investigations proved the two men's involvement and that the
 competent court sentenced them to death as a discretionary taazir punishment.
-[@1,3,6] The death sentences became final after appeal and confirmation by the
-Supreme Court, and a royal order was then issued to carry them out. [@1,3,4,5,6] The
+[@1,3,6,8] The death sentences became final after appeal and confirmation by the
+Supreme Court, and a royal order was then issued to carry them out. [@1,3,4,5,6,8] The
 execution was carried out on Wednesday, 1 Jumada al-Akhirah 1448 AH,
 corresponding to 11 November 2026, in the Asir region. [@1,3,6]
 
@@ -94,4 +99,4 @@ The hashish is the cannabis component of the conviction, while the amphetamine
 tablets are excluded from the cannabis figures. [@1] The ministry said the
 sentences formed part of the kingdom's effort to protect citizens and residents
 from drugs and to impose the strictest penalties on traffickers and dealers.
-[@1,3,5,6] The ministry statement was carried by the official Saudi Press Agency (SPA). [@4]
+[@1,3,5,6] The ministry statement was carried by the official Saudi Press Agency (SPA). [@4,8]
