@@ -48,12 +48,28 @@ sources:
     publisher: Attica Online
     date: 2026-11-16
     language: el
+  - title: 'Κιλκίς: Έκρυβε σε μαντρί σχεδόν δύο κιλά κάνναβη (βίντεο)'
+    url: https://www.voria.gr/article/kilkis-ekrybe-se-mantri-shedon-dyo-kila-kannabi-binteo
+    publisher: Voria.gr
+    date: 2026-11-17
+    language: el
+  - title: 'Κιλκίς: Έκρυβε στο στάβλο ποσότητες ναρκωτικών'
+    url: https://www.ertnews.gr/ert3/kilkis-ekryve-sto-stavlo-posotites-narkotikon/
+    publisher: ertnews.gr
+    date: 2026-11-17
+    language: el
 open_questions:
-  - The exact locality within the Kilkis area where the house and sheepfold are located was not reported.
-  - The 1,981-gram total was reported as a gross weight, and the 2.317 kg total is the sum of the two reported seizure amounts.
-  - No laboratory confirmation for the suspected cannabis was reported.
-  - No charge, detention measure or court outcome was reported.
-  - Both accounts reproduce the same police announcement and are not independent reporting.
+    - The exact locality within the Kilkis area where the house and sheepfold are located was not reported.
+    - 'Accounts give different seizure breakdowns: Voria.gr and ERT report one 226-gram package at the home, 1,725 grams in 10 sheepfold packages and 366 grams of half-green cannabis hung out to dry, while Attica Online gives 11 packages of 1,981 grams gross weight and 336 grams of half-green cannabis; both sets sum to 2,317 grams.'
+    - No laboratory confirmation for the suspected cannabis was reported.
+    - The arrested man was brought before the Kilkis Magistrates' Prosecutor, but no formal charge, detention measure or court outcome was reported.
+    - All four accounts reproduce the same police announcement and are not independent reporting.
+media:
+  - kind: video
+    url: https://www.voria.gr/article/kilkis-ekrybe-se-mantri-shedon-dyo-kila-kannabi-binteo
+    media_url: https://www.facebook.com/reel/1130353396429069/
+    publisher: Voria.gr
+    caption: Video embedded with the Voria.gr report on the Kilkis house-and-sheepfold cannabis seizure.
 ---
 
 Police in Kilkis arrested a 57-year-old man on the afternoon of Monday 16
@@ -71,5 +87,4 @@ Authorities announced the arrest of the 57-year-old man that afternoon in
 Kilkis, linking it to the significant quantity of raw cannabis found in his
 house and sheepfold. [@2] The arrest and the house-and-sheepfold searches were
 reported as one drug-enforcement operation carried out in Kilkis on the
-afternoon of 16 November. [@2]
-
+afternoon of 16 November. [@2,3,4] The arrested man was taken before the Kilkis Magistrates' Prosecutor with the case file compiled against him. [@3]
