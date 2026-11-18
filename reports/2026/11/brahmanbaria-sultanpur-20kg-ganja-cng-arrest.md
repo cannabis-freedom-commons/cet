@@ -54,32 +54,31 @@ sources:
     publisher: Torrongo News
     date: 2026-11-17
     language: bn
-open_questions:
-  - The two accounts reproduce the same SRB-9 press release, so they are not independent reporting.
-  - One account says officers were preparing to file a case; the other says a case was filed under the Narcotics Control Act, 2018, and no court outcome was reported.
-  - The seized material was described only as ganja, with no laboratory confirmation or value estimate reported.
-  - Whether this 20 kg seizure is counted in the SRB's 640 kg national total for the week is not stated.
+  - title: ব্রাহ্মণবাড়িয়ায় ২০ কেজি গাঁজাসহ মাদক কারবারি গ্রেপ্তার, সিএনজি জব্দ
+    url: https://sorejominbarta.com/country/article/67009
+    publisher: Sorejomin Barta
+    date: 2026-11-17
+    language: bn
 ---
 
 Special Response Battalion-9 (SRB-9) officers arrested a man in Brahmanbaria and
 seized 20 kg of ganja along with an old green CNG auto-rickshaw used to
-transport the drugs. [@1] The detainee was Azahan, 38, son of the late Bajlu Mia
-of Betbaria village in Brahmanbaria Sadar upazila. [@2] A joint team of SRB-9,
+transport the drugs. [@1,3] The detainee was Azahan, 38, son of the late Bajlu Mia
+of Betbaria village in Brahmanbaria Sadar upazila. [@2,3] A joint team of SRB-9,
 CPC-1 and Brahmanbaria acted on a tip at about 19:10 on 16 November that traders
 were carrying drugs towards Brahmanbaria town from Akhaura via the Chinair
-bypass road in a green CNG. [@2]
+bypass road in a green CNG. [@2,3]
 
 Officers set up a checkpost on the paved road in front of Ichak Hossain's house
-in Sultanpur Eastpara, Sadar upazila. [@1] When the driver was signalled to stop
+in Sultanpur Eastpara, Sadar upazila. [@1,3] When the driver was signalled to stop
 he tried to make a U-turn and flee, but team members caught him, and he
 confessed during questioning that he held ganja, prompting a search of the
-vehicle. [@1] The search found eight bundles — four beneath the driver's seat
+vehicle. [@1,3] The search found eight bundles — four beneath the driver's seat
 and four beneath the rear seat — wrapped in blue polythene and khaki-coloured
-tape, holding 20 kg of ganja. [@1]
+tape, holding 20 kg of ganja. [@1,3]
 
 In preliminary questioning Azahan told SRB-9 that he had collected the ganja
 from border areas of the district and kept it intending to sell it. [@1] A case
 was filed under the Narcotics Control Act, 2018, and the suspect and the seized
 CNG were handed over to Brahmanbaria Sadar police station; SRB-9 said its
-operations against drugs would continue. [@2]
-
+operations against drugs would continue. [@2,3]
