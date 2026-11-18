@@ -87,15 +87,25 @@ sources:
     publisher: إخباري 24 نيوز
     date: 2026-11-17
     language: ar
+  - title: ضبط تاجر مخدرات بحوزته 135 فرش حشيش وسلاح ناري بالمرج
+    url: https://ekhbary24.com/article/60826
+    publisher: إخباري 24 نيوز
+    date: 2026-11-18
+    language: ar
+open_questions:
+    - No weight was published in most accounts of the 135 hashish slabs; the 13-kilogram figure comes from a single outlet.
+    - No trial date or verdict was reported after the defendant was referred to the criminal court.
+    - The arrest reports give no date for the arrest itself; the earliest account of it was published on 7 November 2026.
+    - All accounts reproduce the same Cairo security directorate statement, so they are not independent reporting.
 ---
 
 Cairo detectives arrested a man in the Marg police station district in Cairo on
-suspicion of trading in narcotic drugs. [@1] Officers seized 13 kilograms of
+suspicion of trading in narcotic drugs. [@1,9] Officers seized 13 kilograms of
 hashish from him, together with a shotgun, firearm cartridges and an amount of
 money. [@1]
 
 Marg investigators had received information that a criminal suspect was storing
-drugs and preparing to sell hashish in the area. [@1] Marg police station officers received information that the man had taken a den to run his hashish trafficking inside the station's district, and a research and verification team confirmed the tip. [@5,8] Cairo
+drugs and preparing to sell hashish in the area. [@1] Marg police station officers received information that the man had taken a den to run his hashish trafficking inside the station's district, and a research and verification team confirmed the tip. [@5,8,9] Cairo
 criminal-investigations director Alaa Beshendy was notified of the tip by Marg
 investigations chief Mohamed El-Madawy. [@1] After legal procedures were
 completed, officers set a security ambush that caught the suspect inside the
@@ -107,4 +117,4 @@ Officers completed the required legal procedures and notified Cairo security
 chief Mohamed Youssef, who referred the case to the Public Prosecution to
 conduct the investigation. [@1]
 
-The seized hashish was 135 individual pieces, seized together with a mobile phone in addition to the shotgun, cartridges and cash. [@2,5,6,8] When confronted, the defendant said he did not work alone and named an associate who cut and packed the drugs, guiding officers to that person's location. [@6] Cairo investigators have now referred the unemployed defendant, held with 135 pieces of hashish in the Marg district, to criminal trial for sale to his customers. [@3,7,8] The El Marg prosecution referred him on charges of drug trafficking and unlicensed possession of a firearm and ammunition. [@4,5]
+The seized hashish was 135 individual pieces, seized together with a mobile phone in addition to the shotgun, cartridges and cash. [@2,5,6,8,9] When confronted, the defendant said he did not work alone and named an associate who cut and packed the drugs, guiding officers to that person's location. [@6] Cairo investigators have now referred the unemployed defendant, held with 135 pieces of hashish in the Marg district, to criminal trial for sale to his customers. [@3,7,8] The El Marg prosecution referred him on charges of drug trafficking and unlicensed possession of a firearm and ammunition. [@4,5]
