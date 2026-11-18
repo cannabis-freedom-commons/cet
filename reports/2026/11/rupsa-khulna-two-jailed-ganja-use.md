@@ -48,6 +48,11 @@ sources:
     url: https://tob.news/two-jailed-for-3-months-in-khulna-anti-narcotics-drive/
     publisher: Times of Bangladesh
     date: 2026-11-17
+  - title: খুলনায় মাদকবিরোধী অভিযানে দুইজনের তিন মাসের কারাদণ্ড
+    url: https://www.dhakatoday.com/news/94393/%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A6%A3%E0%A7%8D%E0%A6%A1
+    publisher: dhakaToday.com
+    date: 2026-11-17
+    language: bn
 open_questions:
   - No cannabis quantity or seizure weight was published for this consumption case.
   - No laboratory confirmation of the cannabis was reported.
@@ -55,19 +60,18 @@ open_questions:
 ---
 
 An SRB-6 anti-drug drive in Rupsa, Khulna detained two people on allegations of
-consuming ganja. [@1] The two detainees were Md Hossain Sheikh and Tamim Sheikh,
-both from Chhotokhajura village under Fakirhat Upazila in Bagerhat. [@2]
+consuming ganja. [@1,3] The two detainees were Md Hossain Sheikh and Tamim Sheikh,
+both from Chhotokhajura village under Fakirhat Upazila in Bagerhat. [@2,3]
 
 The operation took place at 8:05 pm on Monday 16 November in the area adjacent
-to Jabusa village under No. 3 Naihati Union of Rupsa Upazila. [@2] A patrol team
+to Jabusa village under No. 3 Naihati Union of Rupsa Upazila. [@2,3] A patrol team
 of SRB-6 Headquarters Company carried out the drive led by Executive Magistrate
-Mahmud Husain Raju. [@2] During the drive, Md Hossain Sheikh and Tamim Sheikh
+Mahmud Husain Raju. [@2,3] During the drive, Md Hossain Sheikh and Tamim Sheikh
 were detained for consuming cannabis in violation of Section 9(1)(c) of the
-Narcotics Control Act, 2018. [@2]
+Narcotics Control Act, 2018. [@2,3]
 
 A mobile court led by the executive magistrate then sentenced each of them to
-three months of simple imprisonment and fined each Tk200. [@2] SRB-6 said it
+three months of simple imprisonment and fined each Tk200. [@2,3] SRB-6 said it
 conducts regular anti-drug drives to implement the government's declared
 zero-tolerance policy and that the headquarters company's drives would continue.
-[@1]
-
+[@1,3]
