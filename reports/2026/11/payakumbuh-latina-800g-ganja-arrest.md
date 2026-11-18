@@ -45,18 +45,29 @@ sources:
     publisher: Salingka Media
     date: 2026-11-18
     language: id
+  - title: Kedapatan Simpan Ganja dan Sabu, Pemuda di Payakumbuh Hanya Bisa Tertunduk Saat Ditangkap Polisi
+    url: https://padang.tribunnews.com/sumatera-barat/180755/kedapatan-simpan-ganja-dan-sabu-pemuda-di-payakumbuh-hanya-bisa-tertunduk-saat-ditangkap-polisi
+    publisher: TribunPadang.com
+    date: 2026-11-18
+    language: id
 open_questions:
-  - The 800-gram cannabis figure is the gross weight stated by police; no net weight or laboratory confirmation was reported.
-  - The 0.44 grams of sabu (methamphetamine) from the same search is excluded from the cannabis figures.
-  - Only the initial charge was reported; no plea, trial date or court outcome was given, and the 15 years is the maximum penalty the charge carries rather than a sentence.
-  - Only one outlet reporting the Payakumbuh police statement was found for this event, so the account is not independently corroborated.
-  - The source spells the neighbourhood both 'Parit Muko Aia' and 'Parik Muko Aia'; the report uses the first spelling.
+    - The 800-gram cannabis figure is the gross weight stated by police; no net weight or laboratory confirmation was reported.
+    - The 0.44 grams of sabu (methamphetamine) from the same search is excluded from the cannabis figures.
+    - Only the initial charge was reported; no plea, trial date or court outcome was given, and the 15 years is the maximum penalty the charge carries rather than a sentence.
+    - Both accounts reproduce the same Payakumbuh police statement and are not independent reporting.
+    - The source spells the neighbourhood both 'Parit Muko Aia' and 'Parik Muko Aia'; the report uses the first spelling.
+media:
+  - kind: photo
+    url: https://padang.tribunnews.com/sumatera-barat/180755/kedapatan-simpan-ganja-dan-sabu-pemuda-di-payakumbuh-hanya-bisa-tertunduk-saat-ditangkap-polisi
+    media_url: https://asset-2.tribunnews.com/padang/foto/bank/images/Kasus-narkoba-jenis-sabu-dan-ganja-18112026.jpg
+    publisher: TribunPadang.com
+    caption: 'Seized cannabis, sabu and other items laid out after the Payakumbuh arrest. Photo: Polres Payakumbuh'
 ---
 
 Payakumbuh district police's drug squad arrested a man identified only as AH,
-27, at about 00:30 WIB on Wednesday 18 November 2026. [@1] Officers stopped him
+27, at about 00:30 WIB on Wednesday 18 November 2026. [@1,2] Officers stopped him
 in Kelurahan Parit Muko Aia, Kecamatan Latina, Payakumbuh, as he rode a
-motorcycle. [@1] The arrest followed surveillance of AH's activity, with
+motorcycle. [@1,2] The arrest followed surveillance of AH's activity, with
 officers stopping the vehicle he was using for a search. [@1] Payakumbuh police
 chief AKBP Irwan Andeta, through drug squad head AKP Gusmanto, confirmed the
 arrest. [@1]
@@ -64,16 +75,15 @@ arrest. [@1]
 During the roadside search, witnessed by residents and passers-by, officers
 found one package of cannabis. [@1] AH said the packet of cannabis found by
 officers belonged to him. [@1] A follow-up search at AH's house in the same
-kelurahan found three more cannabis packets in different wrappings. [@1]
+kelurahan found three more cannabis packets in different wrappings. [@1] At his house the three cannabis packets comprised one wrapped in yellow plastic, one in plastic marked Buckle Scarves and one tied with black plastic cord. [@2]
 Officers also found one packet of sabu, the local name for methamphetamine, at
 the house. [@1] Drug squad head AKP Gusmanto said the total cannabis seized had
-a gross weight of 800 grams, while the sabu weighed 0.44 grams gross. [@1]
+a gross weight of 800 grams, while the sabu weighed 0.44 grams gross. [@1,2]
 Police also took two digital scales, a knife, scissors and other items from the
-house. [@1]
+house. [@1] The sabu was wrapped in clear plastic and the scales taken included one digital scale and one marked Housen. [@2]
 
 AH was charged under Article 114(1) in conjunction with Article 111(1) of
 Indonesia's 2009 Narcotics Law and Article 609(1)a of the 2023 Criminal Code.
-[@1] Under the stated charge he faces a maximum sentence of 15 years in prison.
+[@1,2] Under the stated charge he faces a maximum sentence of 15 years in prison.
 [@1] AH and the seized evidence were secured at Payakumbuh district police
 headquarters while investigators continued examining the case. [@1]
-
