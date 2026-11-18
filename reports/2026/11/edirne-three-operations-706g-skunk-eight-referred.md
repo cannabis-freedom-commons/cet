@@ -55,6 +55,11 @@ sources:
     publisher: Habertürk
     date: 2026-11-18
     language: tr
+  - title: 'Edirne''de uyuşturucu operasyonlarında 706 gramdan fazla skunk ele geçirildi: 8 şüpheli adliyeye sevk edildi - Asayiş - Adana Haber'
+    url: https://www.adanamasasi.com/edirne-de-uyusturucu-operasyonlarinda-706-gramdan-fazla-skunk-ele-gecirildi-8-supheli-adliyeye-sevk-edildi/838140/
+    publisher: Adana Haber (İHA)
+    date: 2026-11-18
+    language: tr
 open_questions:
   - The 34.12 grams of methamphetamine and 28 pills seized in the same searches are excluded from the cannabis total.
   - The 0.94 grams of cannabis seeds are recorded as a seed product and excluded from the 0.73613 kg cannabis total, which covers skunk and esrar only.
@@ -67,22 +72,21 @@ open_questions:
 
 Edirne Provincial Police narcotics teams carried out three separate operations
 across the city between 11 and 16 November 2026 to prevent drug use and
-trafficking. [@2] During the operations, officers searched the homes, workplaces
-and vehicles used by the suspects. [@1] Police completed judicial procedures for
-eight suspects and referred them to the judicial authorities. [@1] Police said
+trafficking. [@2,3] During the operations, officers searched the homes, workplaces
+and vehicles used by the suspects. [@1,3] Police completed judicial procedures for
+eight suspects and referred them to the judicial authorities. [@1,3] Police said
 searches of the suspects' premises produced evidence related to drug
 trafficking. [@1]
 
-In the three operations, officers seized a total of 706.55 grams of skunk. [@1]
-In the same searches, officers seized 29.58 grams of esrar. [@1] Officers also
+In the three operations, officers seized a total of 706.55 grams of skunk. [@1,3]
+In the same searches, officers seized 29.58 grams of esrar. [@1,3] Officers also
 found 0.94 grams of cannabis seeds and three rooted cannabis plants kept in
-pots. [@1] Officers seized four precision scales, two blenders, four grinding
+pots. [@1,3] Officers seized four precision scales, two blenders, four grinding
 implements and two smoking implements, along with extensive climate-control
 materials, agricultural chemicals and fertilizers assessed as cannabis-growing
-equipment. [@1]
+equipment. [@1,3]
 
 The same searches yielded 34.12 grams of methamphetamine and 28 drug pills,
-which are excluded from the cannabis total. [@2] Officers also seized 790 euros,
+which are excluded from the cannabis total. [@2,3] Officers also seized 790 euros,
 170 dollars and 79,460 Turkish lira assessed as proceeds of drug trafficking.
-[@1]
-
+[@1,3]
