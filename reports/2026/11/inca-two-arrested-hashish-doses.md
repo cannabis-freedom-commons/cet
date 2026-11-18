@@ -48,20 +48,20 @@ sources:
     publisher: Última Hora
     date: 2026-11-17
     language: es
-open_questions:
-  - No weight, number of doses or value for the hashish was reported.
-  - Nothing was reported on whether the two were charged or what happened after they were placed before the judicial authority.
-  - One account dates the incident only as 'last Wednesday' around 23:00; the other gives the calendar date as 11 November 2026.
-  - Both accounts reproduce the same Guardia Civil press statement and are not independent reporting.
+  - title: Detenidos un joven y un menor por traficar con hachís en Inca
+    url: https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/17/detenidos-joven-menor-traficar-hachis-136553071.html
+    publisher: Diario de Mallorca
+    date: 2026-11-17
+    language: es
 ---
 
 Guardia Civil officers detained a 19-year-old man and a minor in Inca, Mallorca,
-on suspicion of carrying several quantities of hashish prepared for sale. [@1]
+on suspicion of carrying several quantities of hashish prepared for sale. [@1,3]
 The two detainees were aged 19 and 17, Última Hora reported. [@2] The older
 detainee was of Maghrebi origin and the minor was of Spanish nationality. [@2]
 The incident happened about 23:00 on 11 November, when officers were called to
 calle Pou de Lluch after a strong smell of marijuana was noticed in the area.
-[@2] The Guardia Civil said the incident occurred about 23:00 the previous
+[@2,3] The Guardia Civil said the incident occurred about 23:00 the previous
 Wednesday, after a strong smell of marijuana was reported around calle Pou de
 Lluch where two people were consuming drugs in public. [@1]
 
@@ -70,10 +70,9 @@ inspected their belongings. [@1] Officers found several distinct doses of
 hashish intended for sale, cash split into notes and coins of various values and
 several mobile phones. [@2] Among the belongings officers found distinct doses
 of hashish for sale, cash divided into notes and coins of various values and
-several mobile phones. [@1]
+several mobile phones. [@1,3]
 
 Both were detained for a crime against public health, and the proceedings were
-sent to the competent judicial authority together with the detainees. [@1] The
+sent to the competent judicial authority together with the detainees. [@1,3] The
 pair were detained for a public-health offence and the case was placed before
 the competent judicial authority along with the detainees. [@2]
-
