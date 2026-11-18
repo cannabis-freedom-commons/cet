@@ -48,20 +48,26 @@ sources:
     publisher: Channel 24
     date: 2026-11-18
     language: bn
+  - title: মোহাম্মদপুর থেকে রুয়েটের সাবেক ছাত্রলীগ নেতা গ্রেপ্তার
+    url: https://www.dhakapost.com/national/499064
+    publisher: Dhaka Post
+    date: 2026-11-18
+    language: bn
 open_questions:
   - The cannabis amount was given only as one puria, with no weight, so no kilogram figure is recorded.
   - The 14 bottles of codeine-phosphate cough syrup are not counted in cannabis figures.
   - No laboratory confirmation that the seized puria was cannabis was reported.
   - No charges, detention measure or court outcome were reported; police said legal action was in process.
   - Both accounts reproduce police and police-station information and are not independent reporting.
+  - Dhaka Post reported 15 bottles of cough syrup seized, while other accounts of the arrest said 14.
 ---
 
 Police arrested Md. Golam Rabbani Shamim, 38, in an operation in Mohammadpur,
-Dhaka. [@2,3] Officers detained him at about 8:10 pm on 18 November 2026 on the
-second floor of house 19, Road 3, B Block, Naboday Housing. [@1] The arrested
+Dhaka. [@2,3,4] Officers detained him at about 8:10 pm on 18 November 2026 on the
+second floor of house 19, Road 3, B Block, Naboday Housing. [@1,4] The arrested
 man is a member of the Awami League central science and technology affairs
 committee and a former general secretary of the Selim Hall Chhatra League at
-RUET. [@2,3] Additional Police Commissioner of the Mohammadpur Zone, Jewel Rana,
+RUET. [@2,3,4] Additional Police Commissioner of the Mohammadpur Zone, Jewel Rana,
 confirmed the arrest the same night. [@1]
 
 Police said officers seized 14 bottles of Winctrex cough syrup containing
@@ -71,5 +77,5 @@ reported 14 bottles of cough syrup and one puria of ganja seized. [@2,3]
 
 Police said he had remained in contact with central Awami League leaders by
 mobile phone and was staying in the area to create an unstable situation in
-Dhaka and to run the party’s procession activities. [@1,3] Police said further
-legal action against him was in process. [@1,3]
+Dhaka and to run the party’s procession activities. [@1,3,4] Police said further
+legal action against him was in process. [@1,3,4]
