@@ -68,17 +68,33 @@ sources:
     publisher: pellanews.gr
     date: 2026-11-17
     language: el
+  - title: 'Κιλκίς: Αποκαλυπτικό βίντεο με την κρυψώνα ναρκωτικών σε στάβλο – Πάνω από 2 κιλά κάνναβης κατασχέθηκαν'
+    url: https://lawandorder.gr/kilkis-apokalyptiko-vinteo-me-tin-krypsona-narkotikon-se-stavlo-pano-apo-2-kila-kannavis-kataschethikan/
+    publisher: Lawandorder.gr
+    date: 2026-11-17
+    language: el
 media:
   - kind: video
     url: https://www.voria.gr/article/kilkis-ekrybe-se-mantri-shedon-dyo-kila-kannabi-binteo
     media_url: https://www.facebook.com/reel/1130353396429069/
     publisher: Voria.gr
     caption: Video embedded with the Voria.gr report on the Kilkis house-and-sheepfold cannabis seizure.
+  - kind: video
+    url: https://lawandorder.gr/kilkis-apokalyptiko-vinteo-me-tin-krypsona-narkotikon-se-stavlo-pano-apo-2-kila-kannavis-kataschethikan/
+    media_url: https://lawandorder.gr/wp-content/uploads/2026/11/aqm-svrlbyuuvs2smkmchi-bnyguhwaup7tyrfsir9mrstha9cjbf0lqbcl8abjwquq5qtwfopcvzvriiol9x_og5tieduzlzm505ejpma-1.mp4
+    publisher: Lawandorder.gr
+    caption: Video published with the Law & Order report showing the hiding place and the police searches at the house and sheepfold in Kilkis.
+open_questions:
+    - The exact locality within the Kilkis area where the house and sheepfold are located was not reported.
+    - No laboratory confirmation that the seized plant material was cannabis was reported.
+    - 'The accounts split the 2,317 grams differently: 1,981 grams in 11 packages plus 336 grams of half-green cannabis in one, and 226 grams in the house, 1,725 grams in 10 packages at the sheepfold plus 366 grams of half-green cannabis in the other.'
+    - No charge, detention measure or court outcome was reported.
+    - All accounts reproduce the same Hellenic Police announcement and are not independent reporting.
 ---
 
 Police in Kilkis arrested a 57-year-old man on the afternoon of Monday 16
 November 2026 in an area of Kilkis, after a search of his house and a sheepfold
-uncovered raw cannabis. [@1,5] The officers who carried out the
+uncovered raw cannabis. [@1,5,7] The sheepfold, where the larger quantity of the cannabis was found, stands in the yard of the man's house. [@7] The officers who carried out the
 house-and-sheepfold search belonged to the Drug Enforcement Team of the Kilkis
 Department for Prosecution and Investigation of Crimes. [@1]
 
@@ -91,4 +107,4 @@ Authorities announced the arrest of the 57-year-old man that afternoon in
 Kilkis, linking it to the significant quantity of raw cannabis found in his
 house and sheepfold. [@2] The arrest and the house-and-sheepfold searches were
 reported as one drug-enforcement operation carried out in Kilkis on the
-afternoon of 16 November. [@2,3,4] The arrested man was taken before the Kilkis Magistrates' Prosecutor with the case file compiled against him. [@3,5,6]
+afternoon of 16 November. [@2,3,4] The arrested man was taken before the Kilkis Magistrates' Prosecutor with the case file compiled against him. [@3,5,6,7]
