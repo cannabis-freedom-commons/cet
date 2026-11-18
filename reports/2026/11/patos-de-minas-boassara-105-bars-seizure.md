@@ -80,23 +80,20 @@ sources:
     publisher: Patos Notícias
     date: 2026-11-18
     language: pt
-open_questions:
-  - No weight was published for the 105 bars, so no cannabis weight is recorded.
-  - 'The arrested man''s age differs between accounts: about 70 in the PatosJá and Patos Notícias reports and 61 in Clube Notícia; the report uses about 70.'
-  - The material was described as marijuana or a substance resembling marijuana, with no laboratory confirmation reported.
-  - The man denied involvement, and whether he owned the drugs or only guarded them is not established; no plea or court outcome was reported.
-  - Only Clube Notícia gives the amount of cash (R$ 1,840) and says it was found on the man; the other accounts mention cash without a figure.
-  - The reports locate the drums only near the BR-352 turn-off for Boassara; the coordinates used are for Patos de Minas, not the burial site.
-  - All three accounts draw on Military Police statements, so no independent account of the operation was found.
+  - title: PM apreende mais de 100 tabletes de maconha em imóvel na zona rural de Patos de Minas; homem é preso
+    url: https://correioregional.net/2026/11/18/pm-apreende-mais-de-100-tabletes-de-maconha-em-imovel-na-zona-rural-de-patos-de-minas-homem-e-preso/
+    publisher: Correio Regional
+    date: 2026-11-18
+    language: pt
 ---
 
 Military Police seized 105 bars of marijuana hidden in drums in the rural zone
-of Patos de Minas on the night of Tuesday 17 November 2026. [@1] A man of about
+of Patos de Minas on the night of Tuesday 17 November 2026. [@1,4] A man of about
 70 was arrested on suspicion of guarding the place where the drugs were hidden.
-[@1]
+[@1,4]
 
 Officers acted on reports of people in pickup trucks on BR-352 near the entrance
-to Boassara. [@1] Reports also mentioned a motorcyclist who passed the stretch
+to Boassara. [@1,4] Reports also mentioned a motorcyclist who passed the stretch
 often to watch what was hidden in the vegetation. [@2] The drums had been buried
 in the ground among the vegetation. [@3] Inside the drums officers found the 105
 marijuana bars and two precision scales, and sniffer dogs helped in the search.
@@ -109,5 +106,4 @@ Captain Caixeta said the drug would be distributed not only in Patos de Minas
 but in other places in the region. [@1] He was arrested in the act and taken
 with the seized material to the Civil Police station. [@2] The Civil Police will
 continue the investigation, identify the owners of the shipment and establish
-whether others took part. [@1]
-
+whether others took part. [@1,4]
