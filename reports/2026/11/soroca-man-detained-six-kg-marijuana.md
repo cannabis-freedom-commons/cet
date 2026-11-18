@@ -53,19 +53,35 @@ sources:
     publisher: NordNews
     date: 2026-11-17
     language: ro
+  - title: VIDEO // Aproximativ șase kilograme de marijuana, descoperite la domiciliul unui bărbat din Soroca. Suspectul, reținut
+    url: https://www.deschide.md/video-aproximativ-sase-kilograme-de-marijuana-descoperite-la-domiciliul-unui-barbat-din-soroca-suspectul-retinut
+    publisher: Deschide.md
+    date: 2026-11-17
+    language: ro
 media:
   - kind: photo
     url: https://nordnews.md/stiri-locale/aproape-sase-kilograme-de-presupusa-marijuana-descoperite-la-soroca/
     media_url: https://nordnews.md/wp-content/uploads/2026/11/1794902330043-3j4e5mnt312.webp
     publisher: NordNews
     caption: 'Seized plant material from the Soroca home search. Screenshot: Poliția RM / FB'
+  - kind: video
+    url: https://www.deschide.md/video-aproximativ-sase-kilograme-de-marijuana-descoperite-la-domiciliul-unui-barbat-din-soroca-suspectul-retinut
+    media_url: https://www.facebook.com/reel/1152863744392910/
+    publisher: Deschide.md
+    caption: 'Facebook video embedded in the Deschide.md report of the Soroca search and the discovery of the marijuana. Credit: Poliția RM / FB'
+open_questions:
+    - The report gives no separate date for the search; 17 November 2026 is the publication date and stands in for the incident date.
+    - The six-kilogram amount is stated as approximate; the exact quantity was still to be determined by the expert examination.
+    - The seized material was sent for expert examination, so no laboratory confirmation was reported.
+    - No charge, plea or court outcome was reported.
+    - All four accounts (Jurnal.md, Telegraph.md, NordNews and Deschide.md) present the same Soroca police information and are not independent reporting.
 ---
 
-Police in Soroca searched the household of a 57-year-old man. [@1,2,3] Officers
-found about six kilograms of marijuana during the search. [@1,2,3] The man was
+Police in Soroca searched the household of a 57-year-old man. [@1,2,3,4] Officers
+found about six kilograms of marijuana during the search. [@1,2,3,4] The man was
 detained for 72 hours and placed in the temporary detention isolator of the
-Soroca Police Inspectorate. [@1,2,3]
+Soroca Police Inspectorate. [@1,2,3,4]
 
 The seized plant material was collected, sealed and sent for expert examination.
-[@1,2,3] Police said they were continuing investigations to establish all the
-circumstances of the case and take the required legal measures. [@1,2,3]
+[@1,2,3,4] Police said they were continuing investigations to establish all the
+circumstances of the case and take the required legal measures. [@1,2,3,4] Police did not say whether the man is suspected of cultivating, keeping or trafficking the drugs. [@3]
