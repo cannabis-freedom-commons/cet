@@ -69,15 +69,20 @@ sources:
     publisher: The Moorabool News
     date: 2026-11-17
     language: en
+  - title: 'Drone footage: Police uncover 3,700 cannabis plants growing in plain sight in Romsey. Credit Media Mode'
+    url: https://www.heraldsun.com.au/news/victoria/bogged-stolen-truck-leads-victoria-police-to-27m-cannabis-plantation-in-toolern-vale/video/5e926eea3184e26edde00e1dbdf6c66a
+    publisher: Herald Sun
+    date: 2026-11-17
+    language: en
 ---
 
 No arrests have been made in connection with the Romsey discovery, and
 investigations remain ongoing. [@1,4] Police uncovered the Romsey crop, with drone
-footage showing officers uncovering plants growing outdoors in plain sight. [@1,3]
+footage showing officers uncovering plants growing outdoors in plain sight. [@1,3,5]
 
 The seizure took place at a rural property in Romsey, around 40 kilometres to
 the north, on Thursday, November 12. [@1,4] Police uncovered approximately 3,700
-cannabis plants of various sizes growing outdoors in plain sight. [@1,3,4] The
+cannabis plants of various sizes growing outdoors in plain sight. [@1,3,4,5] The
 seized plants weighed a combined 620 kilograms. [@2,4]
 
 Detective Sergeant Ben Shawyer of the Macedon Crime Investigation Unit stressed
