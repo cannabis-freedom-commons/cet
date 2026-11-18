@@ -63,12 +63,11 @@ sources:
     publisher: cretaone.gr
     date: 2026-11-17
     language: el
-open_questions:
-    - The exact locality within the Kilkis area where the house and sheepfold are located was not reported.
-    - 'Accounts give different seizure breakdowns: Voria.gr and ERT report one 226-gram package at the home, 1,725 grams in 10 sheepfold packages and 366 grams of half-green cannabis hung out to dry, while Attica Online gives 11 packages of 1,981 grams gross weight and 336 grams of half-green cannabis; both sets sum to 2,317 grams.'
-    - No laboratory confirmation for the suspected cannabis was reported.
-    - The arrested man was brought before the Kilkis Magistrates' Prosecutor, but no formal charge, detention measure or court outcome was reported.
-    - All four accounts reproduce the same police announcement and are not independent reporting.
+  - title: Συνελήφθη ένα άτομο σε περιοχή του Κιλκίς για παράβαση της νομοθεσίας για τα ναρκωτικά
+    url: https://www.pellanews.gr/sinelifthi-ena-atomo-se-periokhi-toy-kilkis-ghia-paravasi-tis-nomothesias-ghia-ta-narkotika-205755
+    publisher: pellanews.gr
+    date: 2026-11-17
+    language: el
 media:
   - kind: video
     url: https://www.voria.gr/article/kilkis-ekrybe-se-mantri-shedon-dyo-kila-kannabi-binteo
@@ -92,4 +91,4 @@ Authorities announced the arrest of the 57-year-old man that afternoon in
 Kilkis, linking it to the significant quantity of raw cannabis found in his
 house and sheepfold. [@2] The arrest and the house-and-sheepfold searches were
 reported as one drug-enforcement operation carried out in Kilkis on the
-afternoon of 16 November. [@2,3,4] The arrested man was taken before the Kilkis Magistrates' Prosecutor with the case file compiled against him. [@3,5]
+afternoon of 16 November. [@2,3,4] The arrested man was taken before the Kilkis Magistrates' Prosecutor with the case file compiled against him. [@3,5,6]
