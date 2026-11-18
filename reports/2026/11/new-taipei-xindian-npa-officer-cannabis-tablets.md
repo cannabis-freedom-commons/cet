@@ -93,35 +93,35 @@ sources:
     publisher: FTNN 新聞網
     date: 2026-11-18
     language: zh
-open_questions:
-    - The drugs seized — cannabis tablets, ketamine and cathinone powder — were reported together as weighing more than 10 grams, with no separate weight for the cannabis tablets.
-    - Accounts differ on whether Kuo reported the incident to the National Police Agency's information office or to its inspectorate after the arrest.
-    - The motel inspection is timed at about 10 p.m. in some accounts and at about 11 p.m. in ETtoday's long-form account.
-    - Kuo's age is given as 46 in some accounts and as 45 in ETtoday's long-form account.
+  - title: 掃黑最諷刺一幕！2線4星警官摩鐵開毒趴被逮　記兩大過火速免職
+    url: https://www.mirrormedia.mg/story/20261118edi079
+    publisher: 鏡週刊 Mirror Media
+    date: 2026-11-18
+    language: zh
 ---
 
 Kuo Wen-cheng, 46, a technical specialist in the National Police Agency's
 information office, was arrested on the night of 13 November 2026 in a motel in
-Xindian District, New Taipei City. [@1,7,11] Xindian Precinct officers were carrying
+Xindian District, New Taipei City. [@1,7,11,12] Xindian Precinct officers were carrying
 out an expanded inspection during the nationwide anti-gang sweep when they
 entered his room at about 10 p.m. and found him holding cannabis tablets, a
 category 2 drug. [@1,7] The inspection was carried out by officers from the precinct's Jiangling police station (江陵所), who were checking a motel on Baoqiao Road late that night. [@9] Kuo admitted using cannabis when officers found him with it in the motel room. [@8] He was at a party at a motel on Baoqiao Road and other men
-were in the room. [@1,7] Police took Kuo and a male friend back for questioning.
+were in the room. [@1,7] Kuo appeared dazed when officers found him in the room. [@12] Police took Kuo and a male friend back for questioning.
 [@6,9,11] Kuo had previously served in the agency's traffic section and its
 inspectorate and was transferred to the information office this year. [@1,7]
 
 Officers seized cannabis tablets, listed as a category 2 drug, and ketamine, a
-category 3 drug, and arrested him. [@2] Officers found several suspected drug powders and tablets on the two men, and field tests reacted for cannabis, cathinone and ketamine. [@9] FTNN reported that the cannabis was in
+category 3 drug, and arrested him. [@2,12] Officers found several suspected drug powders and tablets on the two men, and field tests reacted for cannabis, cathinone and ketamine. [@9] FTNN reported that the cannabis was in
 pills containing cannabis, found with ketamine and cathinone. [@6,11] The cannabis tablets, ketamine and cathinone powder together weighed more than 10 grams. [@9] China Times
 reported that Kuo and a friend were found with cannabis, ketamine and cathinone.
 [@4] The officers did not recognise him as a senior officer at the time; he
 later went to the agency's inspectorate and admitted his involvement, which is
-how the case became public. [@5,10] The case was sent to the Taipei District
-Prosecutors Office under the Narcotics Hazard Prevention Act. [@2,11] Kuo was taken to the Taipei District Prosecutors Office for questioning in the early hours of 14 November. [@9] Prosecutors
+how the case became public. [@5,10,12] The case was sent to the Taipei District
+Prosecutors Office under the Narcotics Hazard Prevention Act. [@2,11,12] Kuo was taken to the Taipei District Prosecutors Office for questioning in the early hours of 14 November. [@9] Prosecutors
 released him on NT$30,000 bail after questioning. [@4]
 
 The agency held an emergency personnel review on 14 November and dismissed Kuo
-with two major demerits. [@2,8,9] It said supervisors would also be held accountable
-for inadequate assessment and oversight. [@1,7,8,11] ETtoday reported that it was the
+with two major demerits. [@2,8,9,12] It said supervisors would also be held accountable
+for inadequate assessment and oversight. [@1,7,8,11,12] ETtoday reported that it was the
 second drug case involving a mid-ranking or senior National Police Agency
 officer this year. [@3]
