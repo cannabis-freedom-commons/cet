@@ -118,10 +118,16 @@ sources:
     publisher: 民視新聞網 (LINE TODAY)
     date: 2026-11-18
     language: zh
+  - title: 警政署3線1警官涉毒！北檢諭知3萬元交保
+    url: https://www.mirrormedia.mg/external/setn_1941336
+    publisher: 鏡週刊 Mirror Media
+    date: 2026-11-18
+    language: zh
 open_questions:
     - No separate weight was published for the cannabis tablets; the reported total of more than 10 grams covers the cannabis, ketamine and cathinone together.
     - No court outcome was reported after the NT$30,000 bail; the case was at the investigation stage.
     - The second man taken from the motel room was not publicly identified and no charge against him was reported.
+    - Accounts differ on Kuo's rank, describing him as either two-line four-star or three-line one-star.
 ---
 
 Kuo Wen-cheng, 46, a technical specialist in the National Police Agency's
@@ -130,8 +136,8 @@ Xindian District, New Taipei City. [@1,7,11,12] Kuo held the police rank of two-
 out an expanded inspection during the nationwide anti-gang sweep when they
 entered his room at about 10 p.m. and found him holding cannabis tablets, a
 category 2 drug. [@1,7,16] The inspection was carried out by officers from the precinct's Jiangling police station (江陵所), who were checking a motel on Baoqiao Road late that night. [@9,13] Kuo admitted using cannabis when officers found him with it in the motel room. [@8] He was at a party at a motel on Baoqiao Road and other men
-were in the room. [@1,7] Kuo appeared dazed when officers found him in the room. [@12] Police took Kuo and a male friend back for questioning.
-[@6,9,11,14] Kuo had previously served in the agency's traffic section and its
+were in the room. [@1,7] Kuo appeared dazed when officers found him in the room. [@12] Both men were handcuffed at the motel when police arrested them. [@17] Police took Kuo and a male friend back for questioning.
+[@6,9,11,14,17] Kuo had previously served in the agency's traffic section and its
 inspectorate and was transferred to the information office this year. [@1,7]
 
 Officers seized cannabis tablets, listed as a category 2 drug, and ketamine, a
@@ -140,12 +146,12 @@ pills containing cannabis, found with ketamine and cathinone. [@6,11,14,15] The 
 reported that Kuo and a friend were found with cannabis, ketamine and cathinone.
 [@4] The officers did not recognise him as a senior officer at the time; he
 later went to the agency's inspectorate and admitted his involvement, which is
-how the case became public. [@5,10,12,14,16] The case was sent to the Taipei District
+how the case became public. [@5,10,12,14,16,17] The case was sent to the Taipei District
 Prosecutors Office under the Narcotics Hazard Prevention Act. [@2,11,12,14,16] Kuo was taken to the Taipei District Prosecutors Office for questioning in the early hours of 14 November. [@9,13] Prosecutors
-released him on NT$30,000 bail after questioning. [@4]
+released him on NT$30,000 bail after questioning. [@4,17]
 
 The agency held an emergency personnel review on 14 November and dismissed Kuo
 with two major demerits. [@2,8,9,12,13,16] It said supervisors would also be held accountable
-for inadequate assessment and oversight. [@1,7,8,11,12,14,16] ETtoday reported that it was the
+for inadequate assessment and oversight. [@1,7,8,11,12,14,16,17] ETtoday reported that it was the
 second drug case involving a mid-ranking or senior National Police Agency
 officer this year. [@3]
