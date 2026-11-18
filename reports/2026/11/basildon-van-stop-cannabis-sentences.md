@@ -66,9 +66,14 @@ sources:
     url: https://www.edp24.co.uk/news/26729183.norwich-cannabis-dealers-pham-trung-hieu-vo-trong-jailed/
     publisher: Eastern Daily Press
     date: 2026-11-14
+  - title: Norfolk cannabis dealers jailed after M25 traffic stop revealed drug shipment
+    url: https://uk.news.yahoo.com/norfolk-cannabis-dealers-jailed-m25-130000568.html
+    publisher: Yahoo News UK
+    date: 2026-11-14
 open_questions:
     - 'The stop and search date differs between accounts: the Echo says the van was spotted on February 24 while the Eastern Daily Press says the cannabis was found when the van was searched on February 26; the report uses February 24.'
     - No weight, plant count or street value for the cannabis was published in any of the accounts.
+    - 'The accounts differ on where the van was stopped: the Eastern Daily Press places the traffic stop at junction 29 of the M25, while the Echo says officers followed the van to Gardiners Lane North in Basildon before pulling it over.'
 ---
 
 Three drug dealers have been sentenced for peddling cannabis in south Essex
@@ -77,20 +82,20 @@ at Basildon Crown Court on Monday (November 2), where two were jailed but one
 walked free. [@1] All three had been charged with possessing a Class B drug with
 intent to supply, to which they initially pleaded not guilty. [@1] Judge Richard
 Conley jailed Back's two co-defendants. [@1,2] Trung, 45, of no fixed abode in
-Norwich, was sentenced to 36 months. [@1,3] Vo-Trong, 38, also of no fixed abode
-in Norwich, was handed 25 months. [@1,3] He was sentenced to 14 months in prison,
-suspended for 18 months. [@1,2,3]
+Norwich, was sentenced to 36 months. [@1,3,4] Vo-Trong, 38, also of no fixed abode
+in Norwich, was handed 25 months. [@1,3,4] He was sentenced to 14 months in prison,
+suspended for 18 months. [@1,2,3,4]
 
 Lewis Back, Pham Trung and Hieu Vo-Trong were travelling in a white Ford Transit
 which Essex Police spotted at junction 29 of the M25, entering the A127 towards
-Southend on February 24. [@1,2] Officers believed it was being driven without
-insurance. [@1,2,3] They followed it to Gardiners Lane North in Basildon, where it
+Southend on February 24. [@1,2,4] Officers believed it was being driven without
+insurance. [@1,2,3,4] They followed it to Gardiners Lane North in Basildon, where it
 was pulled over and searched. [@1] The occupants were found to be carrying
 cannabis. [@1]
 
 Back and Vo-Trong later changed their pleas to guilty while Trung took his
 chance with a jury and was convicted, meaning he lost any deduction to his
 sentence. [@1,2] Back, 32, of London Road in Sevenoaks, Kent, who had been driving
-the van, also pleaded guilty to simple possession of cannabis resin. [@1,3] The
+the van, also pleaded guilty to simple possession of cannabis resin. [@1,3,4] The
 driving offence for which he was initially pulled over was ultimately abandoned.
-[@1,2,3]
+[@1,2,3,4]
