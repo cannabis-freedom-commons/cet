@@ -42,19 +42,23 @@ sources:
     publisher: Thanthi TV
     date: 2026-11-18
     language: ta
+  - title: கஞ்சா கடத்திய 5 போ் கைது
+    url: https://www.dinamani.com/amp/story/all-editions/edition-chennai/chennai/2026/Nov/18/%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF-5-%E0%AE%AA%E0%AF%87%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81-2
+    publisher: தினமணி (Dinamani)
+    date: 2026-11-18
+    language: ta
 open_questions:
-  - No date for the seizure was given; 18 November 2026 is the publication date and stands in for the incident date.
-  - Police did not say whether anyone was arrested, detained or charged.
-  - No value was given for the two kilograms, and the account does not say whether the cannabis was hydroponic or outdoor-grown.
-  - The amount and currency of the foreign money seized, and the place in Ennore where the cannabis was found, were not published.
-  - The account names no police station, unit or officer, and reports no court or prosecution step.
-  - The case rests on a single Thanthi TV news item; no police statement or second outlet was found.
-  - '"High-grade" is the outlet''s description of the drug; no laboratory test result was reported.'
+    - No date for the vehicle check or the arrests was given; 18 November 2026 is the publication date of both accounts and stands in for the incident date.
+    - The lead gives the quantity as two kilograms while the text gives about 2.6 with the unit abbreviated as கி; the report keeps two kilograms.
+    - No value was given for the cannabis, and the accounts do not say whether it was hydroponic or outdoor-grown.
+    - The sum described as 12 lakh in British pound notes is not explained; it is unclear whether the figure is in rupees or in pounds.
+    - The accounts name no police station, unit or officer and quote no police statement; no charges, court step or detention measure was reported for the five arrested.
+    - The accounts do not say why men from Ilaiyankudi in Sivagangai district, far from Chennai, were in the car or how they are linked to the Ennore area.
+    - High-grade is the outlets' description of the drug; no laboratory test result was reported.
 ---
 
 Police in Ennore, a locality in north Chennai, seized two kilograms of
-high-grade cannabis. [@1] The cannabis was said to have been intended for
-smuggling out of the country. [@1]
+high-grade cannabis. [@1,2] Police stopped a luxury car coming from Chennai towards Minjur in the Ennore area and found the cannabis when they checked the vehicle. [@2] The cannabis was said to have been intended for
+smuggling out of the country. [@1,2] The account says the cannabis and the Indian and British money were to be taken to Malaysia. [@2]
 
-Foreign money was also seized in the same operation, the account says. [@1]
-
+Foreign money was also seized in the same operation, the account says. [@1,2] Five men from Ilaiyankudi in Sivagangai district, aged between 19 and 29, were arrested in the case. [@2] Officers also seized 6.42 lakh rupees and British pound notes put at a further 12 lakh rupees, both suspected of being linked to hawala, together with silk sarees and medicines. [@2]
