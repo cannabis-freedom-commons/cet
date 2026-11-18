@@ -62,6 +62,10 @@ sources:
     url: https://localnews.ie/courts/report/wicklow-man-faces-trial-over-50-000-cannabis-haul-intercepted-in-controlled-deli-cnam-ae4c4d6a
     publisher: LocalNews.ie / The Wicklow People
     date: 2026-07-25
+  - title: Wicklow man sent forward for trial following seizure of more than €50k worth of cannabis
+    url: https://www.crimeworld.com/courts/wicklow-man-sent-forward-for-trial-following-seizure-of-more-than-50k-worth-of-cannabis/a/164731255.html
+    publisher: Crime World
+    date: 2026-11-18
 open_questions:
   - The report gives no date for the District Court hearing at which the book of evidence was served and the alibi warning given, so 10 November 2026, the Circuit Court appearance it reports, is used as the incident date.
   - The court report says the controlled delivery involved more than €50,000 worth of cannabis, while the Garda statement valued the two seizures of 16 February 2026 at about €105,000; the accounts do not reconcile the two figures.
@@ -75,19 +79,19 @@ open_questions:
 
 Aaron Moorehouse, of Copper Beach Grove, Bray, appeared before Bray District
 Court charged with one count of possession of cannabis for the purpose of sale
-or supply. [@1] A book of evidence was served on him. [@1] Judge David Kennedy
+or supply. [@1,5] A book of evidence was served on him. [@1,5] Judge David Kennedy
 issued an alibi warning, telling him that he must notify the prosecution within
-14 days of the hearing if he intended to rely on an alibi at trial. [@1] Judge
+14 days of the hearing if he intended to rely on an alibi at trial. [@1,5] Judge
 Kennedy declined jurisdiction and sent him forward for trial at Wicklow Circuit
 Criminal Court, which has greater sentencing powers. [@4]
 
 The charge alleges that on 16 February 2026, at his home address, he had
-cannabis in his possession. [@1] Garda Sergeant Mick Canavan told the court that
+cannabis in his possession. [@1,5] Garda Sergeant Mick Canavan told the court that
 he was arrested as part of a controlled delivery involving more than €50,000
-worth of cannabis. [@1] The investigation followed an intelligence-led operation
+worth of cannabis. [@1,5] The investigation followed an intelligence-led operation
 involving the Revenue Customs Service, the Garda National Organised Crime
 Bureau, the Bray Drugs Unit and detective branches from several jurisdictions
-across Wicklow. [@1] In its statement on the operation, the Garda press office
+across Wicklow. [@1,5] In its statement on the operation, the Garda press office
 said the Revenue Customs Service had seized about 5.75 kg of herbal cannabis in
 two separate seizures in County Wicklow, with an estimated value of about
 €105,000. [@2] Gardaí said the seizures came from a joint operation by the Garda
@@ -101,5 +105,4 @@ Court on 10 March 2026. [@3]
 He was told to inform his solicitor of the proceedings, as the withdrawal of
 criminal legal aid services meant his legal representatives could not act. [@4]
 He appeared before Wicklow Circuit Criminal Court on 10 November 2026, when his
-case was adjourned to the Circuit Court call over in early January. [@1]
-
+case was adjourned to the Circuit Court call over in early January. [@1,5]
