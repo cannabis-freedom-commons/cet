@@ -51,6 +51,10 @@ sources:
     publisher: Głos Szczeciński (gs24.pl)
     date: 2026-11-17
     language: pl
+  - title: Ponad 90 gramów haszyszu zabezpieczonych przez szczecińskich policjantów - Komenda Miejska Policji w Szczecinie - Portal polskiej Policji
+    url: https://szczecin.policja.gov.pl/szm/dzialania-policji/aktualnosci/90005,Ponad-90-gramow-haszyszu-zabezpieczonych-przez-szczecinskich-policjantow.html
+    publisher: Komenda Miejska Policji w Szczecinie
+    language: pl
 open_questions:
   - The quantity is reported only as 'more than 90 grams' or 'exceeding 90 grams', not an exact measured weight; 0.09 kg is the stated threshold.
   - The article gives no separate date for the operation; 17 November 2026 is its publication date and is used as the incident date.
@@ -60,19 +64,18 @@ open_questions:
 ---
 
 Szczecin police carried out an operation against drug crime in Stargard County,
-in Poland's West Pomeranian Voivodeship. [@1] Officers from the Drug Crime
+in Poland's West Pomeranian Voivodeship. [@1,2] Officers from the Drug Crime
 Fighting Unit of the Szczecin City Police Command detained a man suspected of
-possessing narcotic substances. [@1] The man heard charges under Poland's law on
+possessing narcotic substances. [@1,2] The man heard charges under Poland's law on
 counteracting drug addiction, and a court, acting on investigators' application,
-ordered him held on remand for three months. [@1]
+ordered him held on remand for three months. [@1,2]
 
 During a check the officers found and secured hashish with a total mass
-exceeding 90 grams. [@1] Police said the drugs were secured as material evidence
-in the ongoing proceedings. [@1]
+exceeding 90 grams. [@1,2] Police said the drugs were secured as material evidence
+in the ongoing proceedings. [@1,2]
 
 Further examination of the case is being handled by the Stargard County Police
-Command, where the procedural steps concerning the detainee are under way. [@1]
+Command, where the procedural steps concerning the detainee are under way. [@1,2]
 Police said effective action against drug crime requires cooperation between
 different units and sustained action against those involved in illegal trade and
 possession of drugs. [@1]
-
