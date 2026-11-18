@@ -57,6 +57,11 @@ media:
     media_url: https://almashhadalaraby.com/photos/6afd6e5840b32.jpeg
     publisher: المشهد العربي
     caption: Quantities of hashish, boxes and clear bags of white pills seized in the Derna operation, in a photo the anti-drugs administration published with its statement and used as the lead image of this account.
+  - kind: photo
+    url: https://kataeb.org/articles/4-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D9%82%D8%B1%D8%B5-%D9%85%D8%AE%D8%AF%D8%B1-%D9%8829-%D9%83%D9%84%D8%BA-%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D8%B5%D8%A7%D8%A8%D8%A9
+    media_url: https://api.kataeb.org/storage/new-website/Divers/876519114911.jpg
+    publisher: Kataeb.org
+    caption: Boxes of pill packets and clear bags of white tablets from the Derna seizure, in the lead photo published with the article, one of the images the anti-drugs administration released with its statement.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7026da21e7b3b5604517fdb70f6f7a84
@@ -141,13 +146,23 @@ sources:
     publisher: المشهد العربي
     date: 2026-11-18
     language: ar
+  - title: 4 ملايين قرص مخدّر و29 كلغ كوكايين... وتوقيف العصابة!
+    url: https://kataeb.org/articles/4-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D9%82%D8%B1%D8%B5-%D9%85%D8%AE%D8%AF%D8%B1-%D9%8829-%D9%83%D9%84%D8%BA-%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D8%B5%D8%A7%D8%A8%D8%A9
+    publisher: Kataeb.org
+    date: 2026-11-18
+    language: ar
+open_questions:
+    - No count of the people detained in Derna was published.
+    - The hashish weight rests on the local Libyan accounts' 18 kilograms; the wire accounts give 29 kilograms of cocaine and hashish together without a breakdown.
+    - The more than four million pills and the 11 kilograms of cocaine from the same haul are not counted in the cannabis figures.
+    - No charge, plea or court outcome was reported; inquiries were continuing when the seizure was announced.
 ---
 
 The Derna branch of Libya's General Administration for Combating Drugs and
 Psychotropic Substances carried out a security operation south of Gate 200 in
 the city of Derna. [@1,4,13] The seized drugs were pictured and dated to Tuesday 17
 November 2026 in Derna, in material credited to the anti-drugs administration.
-[@1,11] Officers seized 18 kilograms of hashish in the operation. [@1,4,13] Photos published by the administration with its statement showed quantities of hashish alongside boxes and clear bags holding white pills. [@3,5,7,8,9,10,11,12,15,16]
+[@1,11] Officers seized 18 kilograms of hashish in the operation. [@1,4,13] Photos published by the administration with its statement showed quantities of hashish alongside boxes and clear bags holding white pills. [@3,5,7,8,9,10,11,12,15,16,17]
 
 The same haul also included 4,162,682 narcotic pills described as Captagon,
 ecstasy, tramadol and Tamol. [@1,4,13] Officers also seized 11 kilograms of cocaine
@@ -163,4 +178,4 @@ redouble efforts against drugs and pursue their traders and promoters. [@2]
 
 The seized materials were sealed as evidence and the necessary legal measures
 were taken. [@1,4,13] Inquiries were continuing under Public Prosecution supervision
-to identify the members of the gang involved. [@1,4,13] The authorities were questioning the detained network members to establish its foreign links and who was behind its financing. [@6] The administration's statement also said members of the criminal network had been detained in the city. [@3,5,6,7,8,9,10,11,12,14,15,16]
+to identify the members of the gang involved. [@1,4,13] The authorities were questioning the detained network members to establish its foreign links and who was behind its financing. [@6] The administration's statement also said members of the criminal network had been detained in the city. [@3,5,6,7,8,9,10,11,12,14,15,16,17]
