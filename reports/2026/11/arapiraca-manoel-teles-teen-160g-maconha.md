@@ -75,6 +75,11 @@ sources:
     publisher: 7Segundos
     date: 2026-11-18
     language: pt
+  - title: Adolescente é apreendido com 49 pinos de cocaína e 80 porções de maconha em Arapiraca (AL)
+    url: https://francesnews.com.br/post/2026/11/18/46491-adolescente-e-apreendido-com-49-pinos-de-cocaina-e-80-porcoes-de-maconha-em-arapiraca-al
+    publisher: Francês News
+    date: 2026-11-18
+    language: pt
 open_questions:
   - 7Segundos describes the suspect as a man arrested in flagrante rather than a 17-year-old apprehended for an infraction; this report uses the age and status given by the other accounts.
   - No laboratory confirmation that the seized material was marijuana and cocaine was reported.
@@ -89,22 +94,21 @@ open_questions:
 Military Police apprehended a 17-year-old boy on the night of Tuesday 17
 November 2026 at a house on Rua Manoel Caetano de Farias in the Manoel Teles
 neighbourhood of Arapiraca, on suspicion of an infraction analogous to drug
-trafficking. [@4] Officers of the 3rd Military Police Battalion went to the
+trafficking. [@4,6] Officers of the 3rd Military Police Battalion went to the
 address after a tip-off that drugs were sold there and that people and vehicles
-were coming and going. [@5] When he saw the patrol cars, the boy ran inside,
+were coming and going. [@5,6] When he saw the patrol cars, the boy ran inside,
 dropping packets of marijuana on the ground, and tried to get rid of more drugs
-in the toilet. [@4] The officers had to force the front door of the house to get
+in the toilet. [@4,6] The officers had to force the front door of the house to get
 in. [@1]
 
 Inside, they recovered the plastic bag from the toilet and confirmed it held
 portions of marijuana and cocaine. [@1] He told officers the rest was hidden
 under the bed in the house's only bedroom, where they found more drugs and
-small-denomination banknotes. [@1] A sniffer dog swept the whole house but found
+small-denomination banknotes. [@1,6] A sniffer dog swept the whole house but found
 no other illicit material. [@1] In all, officers seized 160 grams of marijuana
 in 80 portions, 77 small and three larger, and 42 grams of cocaine in 49 tubes.
-[@2] They also seized R$134 in cash, a saw knife and a tablet. [@1]
+[@2,6] They also seized R$134 in cash, a saw knife and a tablet. [@1,6]
 
 The boy admitted that he owned all the material found. [@1] He and the seized
 items were taken to the Central de Polícia, where he was registered for an
-infraction analogous to drug trafficking. [@3]
-
+infraction analogous to drug trafficking. [@3,6]
