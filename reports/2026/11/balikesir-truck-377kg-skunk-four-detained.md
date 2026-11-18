@@ -81,25 +81,23 @@ sources:
     publisher: Haberler.com
     date: 2026-11-18
     language: tr
-open_questions:
-  - The reports place the stop only in the Balıkesir city centre (il merkezi) and give no street, neighbourhood or time of day.
-  - Whether the four were released, remanded or charged after police custody, and any later court decision, were not reported.
-  - The load is described as skunk/esrar and esrar without any laboratory confirmation being reported.
-  - No estimated street value was published for the 377.2 kilograms.
-  - All three accounts restate the same Balıkesir provincial police directorate statement, so their figures are not independent of one another.
-  - The truck's route, origin and destination, and whether it carried other items, were not reported.
+  - title: Kamyonetin kasasında 377 kilo esrar ele geçirildi; 4 gözaltı
+    url: https://yerel-haberler.haberturk.com/balikesir-haberleri/kamyonetin-kasasinda-377-kilo-esrar-ele-gecirildi-4-gozalti-119526041
+    publisher: Habertürk Yerel Haberler
+    date: 2026-11-18
+    language: tr
 ---
 
 Balıkesir provincial police narcotics branch teams stopped and searched a pickup
-truck in the Balıkesir city centre on 18 November 2026. [@1,4,5,6] Four suspects were
-detained on suspicion of manufacturing and trading narcotic substances. [@1,4,5,6]
+truck in the Balıkesir city centre on 18 November 2026. [@1,4,5,6,7] Four suspects were
+detained on suspicion of manufacturing and trading narcotic substances. [@1,4,5,6,7]
 
-Officers found 377 kilograms 200 grams of skunk, or esrar, in the vehicle. [@1,4,5,6]
-The search was carried out with the narcotics detection dog YAŞA. [@2,4,6] The
+Officers found 377 kilograms 200 grams of skunk, or esrar, in the vehicle. [@1,4,5,6,7]
+The search was carried out with the narcotics detection dog YAŞA. [@2,4,6,7] The
 cannabis was found in the truck's cargo bed, which officers searched with the
 dog Yaşa. [@3]
 
 Police had established through intelligence work that drugs would be carried in
 the truck, and the driver did not obey the order to stop, so officers pursued
-and stopped him. [@3,5] Police assessed that the drugs had been prepared to be put
+and stopped him. [@3,5,7] Police assessed that the drugs had been prepared to be put
 on the market illegally. [@1]
