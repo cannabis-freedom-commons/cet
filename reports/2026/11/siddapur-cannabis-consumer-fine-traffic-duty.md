@@ -74,16 +74,23 @@ sources:
     url: https://kodaguexpress.com/article/kodagu-court-directs-cannabis-offender-to-assist-traffic-pol
     publisher: The Kodagu Express
     date: 2026-11-17
+  - title: 'Karnataka: Court turns cannabis penalty into public service'
+    url: https://www.siasat.com/karnataka-court-turns-cannabis-penalty-into-public-service-3579247/amp/
+    publisher: The Siasat Daily
+    date: 2026-11-17
+open_questions:
+  - The new account spells the man's name Aseem while the report uses Asim; whether this is a transliteration difference is unclear.
+  - The new account places Siddapur town in Somwarpet taluk while the report places it in Virajpet subdivision; the two descriptions are not reconciled.
 ---
 
 A local court in Karnataka convicted Asim, a resident of Siddapur in Virajpet
 subdivision of Kodagu district, for consuming cannabis. [@1,2,3,4,5] The court fined him
-Rs 5,000 and ordered community service as a joint punishment. [@1,2,3,4,5,6] He avoided
+Rs 5,000 and ordered community service as a joint punishment. [@1,2,3,4,5,6,7] He avoided
 imprisonment. [@1]
 
 On November 15, Asim reported for traffic duty in Siddapur town under police
-supervision as his community service. [@1,2,4,5,6] He spent the day regulating vehicles
-and managing pedestrians. [@1,2,4,5,6]
+supervision as his community service. [@1,2,4,5,6,7] He spent the day regulating vehicles
+and managing pedestrians. [@1,2,4,5,6,7]
 
 The court chose community service alongside the fine rather than imprisonment so
 that the offender would understand his social responsibilities through public
