@@ -89,6 +89,11 @@ sources:
     publisher: Diyarbakır Söz
     date: 2026-11-16
     language: tr
+  - title: Diyarbakır'da 38 kilo esrar ele geçirildi - Bursa Hakimiyet
+    url: https://www.bursahakimiyet.com.tr/gundem/diyarbakir-da-38-kilo-esrar-ele-gecirildi-1753184
+    publisher: Bursa Hakimiyet
+    date: 2026-11-16
+    language: tr
 media:
   - kind: photo
     url: https://www.canligaste.com/diyarbakir-da-38-kilo-261-gram-esrar-ve-538-kok-kenevir-ele-gecirildi/950697/
@@ -99,16 +104,16 @@ media:
 
 Diyarbakır İl Jandarma Komutanlığı, the Diyarbakir provincial gendarmerie
 command, coordinated a series of anti-drug operations through its Narkotik
-Suçlarla Mücadele Şube Müdürlüğü, the narcotics-crimes branch. [@1,2,3,4,6,8,9,11] The
+Suçlarla Mücadele Şube Müdürlüğü, the narcotics-crimes branch. [@1,2,3,4,6,8,9,11,12] The
 operations covered the provincial centre and districts within the gendarmerie's
 area of responsibility. [@1,2,8,9] They were directed at people accused of trading,
 transporting and using narcotic substances. [@1,2,8,9,10] Fifteen separate incidents were
-recorded during the operations. [@1,3,5,6,9,11] DHA reported that the operations had been organized over the previous week. [@5] Legal proceedings were opened against five
-suspects in connection with those incidents. [@1,2,3,4,6,7,8,9,10,11]
+recorded during the operations. [@1,3,5,6,9,11,12] DHA reported that the operations had been organized over the previous week. [@5] Legal proceedings were opened against five
+suspects in connection with those incidents. [@1,2,3,4,6,7,8,9,10,11,12]
 
 Teams seized 38 kilograms 261 grams of esrar, the Turkish word for cannabis.
-[@1,2,3,4,6,7,8,9,10,11] Teams also seized 538 kök kenevir, literally cannabis roots, the term
-Turkish enforcement reporting uses for cannabis plants. [@1,2,3,4,6,7,8,9,10,11] The gendarmerie
+[@1,2,3,4,6,7,8,9,10,11,12] Teams also seized 538 kök kenevir, literally cannabis roots, the term
+Turkish enforcement reporting uses for cannabis plants. [@1,2,3,4,6,7,8,9,10,11,12] The gendarmerie
 reported both the esrar weight and the cannabis-root count as the outcome of the
 coordinated operations. [@1]
 
