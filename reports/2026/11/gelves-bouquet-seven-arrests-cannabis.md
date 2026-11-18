@@ -62,30 +62,32 @@ sources:
     publisher: Digital Sevilla
     date: 2026-11-18
     language: es
-open_questions:
-  - No separate date is given for the operation or the arrests; 18 November 2026 is the publication date and is used as the incident date.
-  - ABC's headline summary gives 9,200 euros while its body and the other outlets give 9,225 euros; the body figure is used.
-  - The hashish and marihuana were described as such without any laboratory confirmation being reported.
-  - No formal charges, trial date or court outcome were reported beyond the detainees being placed at the judicial authority's disposal.
-  - Cocaine, MDMA, pregabalin, tramadol and Viagra seized in the same operation are excluded from the cannabis figures.
-  - The accounts reproduce the same Guardia Civil statement about operation Bouquet rather than independent reporting.
+  - title: Desarticulan en Gelves una organización que traficaba con hachís, cocaína y viagra
+    url: https://www.abc.es/sevilla/provincia/aljarafe/desarticulan-gelves-organizacion-traficaba-hachis-cocaina-viagra-20261118134218-nts.html
+    publisher: Diario ABC
+    date: 2026-11-18
+    language: es
+  - title: Detenidas siete personas en la desarticulación de una organización dedicada a la venta de drogas en Gelves (Sevilla)
+    url: https://europapress.es/andalucia/sevilla-00357/noticia-detenidas-siete-personas-desarticulacion-organizacion-dedicada-venta-drogas-gelves-sevilla-20261118112918.html
+    publisher: Europa Press
+    date: 2026-11-18
+    language: es
 ---
 
 Guardia Civil officers arrested seven people in Gelves, in Seville province, on
 suspicion of drug trafficking and belonging to a criminal organisation, and
-placed them before the judicial authority. [@3] The organisation was dedicated
+placed them before the judicial authority. [@3,4] The organisation was dedicated
 to selling narcotic substances in the town, among them hashish, cocaine and
-Viagra. [@1] The investigation, named operation Bouquet, was started by the
+Viagra. [@1,4] The investigation, named operation Bouquet, was started by the
 investigation unit of the Guardia Civil post at San Juan de Aznalfarache after
-residents raised alarm about increased drug sales. [@3]
+residents raised alarm about increased drug sales. [@3,5]
 
 Officers first identified and detained the suspected ringleader, who was
 carrying 30 grams of hashish, five grams of cocaine and a large amount of cash.
-[@2] With support from the GRS number 2 reserve group and the USECIC of the
+[@2,4] With support from the GRS number 2 reserve group and the USECIC of the
 Seville command, the Guardia Civil carried out eight simultaneous searches of
-properties in Gelves. [@3] Inside the properties officers seized 231 grams of
+properties in Gelves. [@3,5] Inside the properties officers seized 231 grams of
 hashish, 275 grams of marihuana and 189 grams of cocaine, along with MDMA,
-pregabalin, tramadol and Viagra. [@1] Officers also seized 9,225 euros in cash,
+pregabalin, tramadol and Viagra. [@1,4] Officers also seized 9,225 euros in cash,
 scales, cutting knives, several pieces of gold and nine high-end watches whose
-legitimate origin they could not confirm. [@1]
-
+legitimate origin they could not confirm. [@1,4]
