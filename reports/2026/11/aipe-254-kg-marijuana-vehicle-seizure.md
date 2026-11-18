@@ -59,19 +59,11 @@ sources:
     publisher: Diario del Huila
     date: '2026-11-13'
     language: es
-open_questions:
-  - >-
-    No separate date for the seizure was published; 13 November 2026, the article's publication
-    date, is used as the incident date.
-  - >-
-    No one was arrested; the driver abandoned the car and fled on foot, and no charges or court
-    outcome were reported.
-  - >-
-    The substance is described only as a plant material with characteristics similar to marijuana,
-    with no laboratory confirmation reported.
-  - No figure for the value of the seizure was published.
-  - No details were given on the origin of the load or its destination.
-  - Whether the driver was later identified or captured is not known.
+  - title: Incautados 254 kilogramos de marihuana en la vía Neiva–Castilla, en el municipio de Aipe
+    url: https://www.diariodelsur.com.co/noticias/incautados-254-kilogramos-de-marihuana-en-la-via-neiva-castilla-en-el-municipio-de-aipe
+    publisher: Diario del Sur
+    date: 2026-11-18
+    language: es
 media:
   - kind: photo
     url: https://diariodelhuila.com/incautaron-254-kilos-de-marihuana-en-un-vehiculo-en-aipe-huila/
@@ -84,20 +76,20 @@ media:
 
 A load of 254 kilograms of marijuana was seized in Aipe, in the north of Huila,
 after the driver of the vehicle that was carrying the substance evaded a police
-control and escaped on foot. [@1] The procedure was carried out on the
+control and escaped on foot. [@1,2] The procedure was carried out on the
 Neiva-Castilla road, at the height of the municipality's urban area, where
 officers of the Police's Traffic and Transport Section were patrolling when they
-noticed a grey car whose driver reacted suspiciously. [@1] According to the
+noticed a grey car whose driver reacted suspiciously. [@1,2] According to the
 police report, the man accelerated and ignored the stop signal, then set off
-fleeing through several streets of Aipe. [@1] The pursuit ended in a dead end,
-where the driver got out of the car and fled on foot into a forested area. [@1]
+fleeing through several streets of Aipe. [@1,2] The pursuit ended in a dead end,
+where the driver got out of the car and fled on foot into a forested area. [@1,2]
 
 Officers inspected the vehicle and found 94 packages wrapped in vinyl (vinipel);
 40 were covered in black material and 54 in transparent plastic, and inside was
 a plant substance with characteristics similar to marijuana, weighing 254
-kilograms in total. [@1] In addition to the load, the Police also seized the car
-used to transport it. [@1] Both the vehicle and the seized substance were placed
+kilograms in total. [@1,2] In addition to the load, the Police also seized the car
+used to transport it. [@1,2] Both the vehicle and the seized substance were placed
 at the disposal of the Prosecutor's Office in Aipe, which will carry out the
-corresponding judicial proceedings. [@1] For the time being the authorities did
+corresponding judicial proceedings. [@1,2] For the time being the authorities did
 not report the capture of the driver, who escaped during the operation, and no
 details were known about the load's origin or its destination. [@1]
