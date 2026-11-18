@@ -1,0 +1,97 @@
+---
+code: 8FF5S2
+added_at: "2026-11-18T16:42:11.14537Z"
+date: 2026-10-29
+country: ca/on
+place: Tyendinaga Township, Ontario
+coordinates: [44.2833, -77.1333]
+precision: district
+type: raid
+also: [seizure, arrest]
+title: Two charged after OPP dismantle Tyendinaga Township grow; 900 plants seized
+summary: >-
+  Ontario Provincial Police charged two Tyendinaga Township residents after a 29 October 2026 search warrant at a commercial-scale illegal cannabis grow operation. Officers seized 900 plants, 190 kilograms of cannabis, 215 kilograms of shake and 125 clones, which police valued at $850,000.
+figures:
+  arrested: 2
+  charged: 2
+  plants_destroyed: 900
+  sites: 1
+  kg_seized: 190
+  value:
+    amount: 850000
+    currency: CAD
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+  products:
+    - {product: plants, plants: 900}
+    - {product: flower, kg: 190}
+    - {product: other, kg: 215}
+  activity: [cultivation, possession, sale]
+  charges: [possession of illicit cannabis for the purpose of distribution, cultivating illicit cannabis]
+  case_stage: charged
+  date_precision: exact
+  region: Ontario
+data_sources:
+  details.activity: [2]
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.case_stage: [2]
+  details.charges: [2]
+  details.products: [2]
+  figures.arrested: [2]
+  figures.charged: [2]
+  figures.kg_seized: [2]
+  figures.plants_destroyed: [2]
+  figures.sites: [2]
+  figures.value: [2]
+media:
+  - kind: photo
+    url: https://www.thewhig.com/news/illegal-cannabis-seized-and-dismantled-in-tyendinaga-township/
+    media_url: https://www.thewhig.com/wp-content/uploads/sites/5/2026/11/1119-ki-cannabis.jpg?resize=1200,800
+    publisher: Kingston Whig-Standard
+    caption: 'A truck loaded with cannabis at the Tyendinaga Township grow operation, in a photograph supplied by the OPP. Photo: Ontario Provincial Police'
+status: reported
+created_by_model: swancloud/deepseek-v4.1-flash#max
+submission: a2684cb9fe7c13780cbccadf9c0cfe92
+tags: [tyendinaga, ontario, opp, grow-op, cannabis-act]
+sources:
+  - title: Illegal cannabis seized and dismantled in Tyendinaga Township
+    url: https://www.thewhig.com/news/illegal-cannabis-seized-and-dismantled-in-tyendinaga-township/
+    publisher: Kingston Whig-Standard
+    date: 2026-11-18
+  - title: Illegal cannabis production site seized
+    url: https://www.quintenews.com/2026/11/18/illegal-cannabis-production-site-seized/
+    publisher: Quinte News
+    date: 2026-11-18
+open_questions:
+  - The 29 October 2026 search warrant is the incident date; 18 November 2026 is when the OPP announced the charges.
+  - The 125 cannabis clones are reported separately and are not included in the 900 plants figure.
+  - Police reported 190 kilograms of cannabis and 215 kilograms of cannabis shake separately; the weight figure records the 190 kilograms and the shake is recorded as a separate product.
+  - The $850,000 is the OPP's estimated street value, not a price paid.
+  - No day in January is given for the first court appearance, and no plea or outcome was reported.
+  - Whether the plants were grown indoors or outdoors, the number of buildings on the property and the size of the site were not reported.
+  - Both outlets reproduce the same OPP statement, so there is no independent account of the search or the quantities.
+  - Illegal cannabis production site seized (Quinte News) could not be opened again to check its quotations (The browser page answered HTTP 403.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
+---
+
+Ontario Provincial Police charged two residents of Tyendinaga Township after a
+search warrant at a commercial-scale illegal cannabis grow operation in the
+township. [@2] Quoc Ly, 58, and Qi Sen Zhang, 64, were each charged with
+possession of illicit cannabis for the purpose of distribution and cultivating
+illicit cannabis. [@2] Both were released from custody and are scheduled to
+appear before the Ontario Court of Justice in Napanee in January. [@2]
+
+Officers executed the warrant at the property on 29 October 2026 and arrested
+the two people there. [@2] Police seized 900 illegal cannabis plants, 190
+kilograms of illegal cannabis, 215 kilograms of cannabis shake, 125 cannabis
+clones and three cell phones. [@2] The OPP estimated the street value of the
+seizure at $850,000. [@2]
+
+The investigation began in October after a member of the public gave the OPP
+information about a suspected illegal production site. [@2] The OPP released a
+photograph of a truck loaded with cannabis at the site in Tyendinaga Township.
+[@1] The Kingston Whig-Standard reported more than $850,000 worth of illegal
+cannabis and the dismantling of a commercial-scale grow operation in Tyendinaga
+Township. [@1]
+
