@@ -41,6 +41,26 @@ media:
     media_url: https://scontent-prg1-1.xx.fbcdn.net/v/t39.99422-6/914740514_29187475264245481_7961032791961177776_n.png?stp=dst-jpg_tt6&cstp=mx1200x800&ctp=s1200x800&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=mBDCLYEWBwgQ7kNvwEXuUxf&_nc_oc=Adrfy17uEFFUQYT0NnxomHY8N6IVGCZz4O2-M0V33Ua8MASrNqZBpi6mTYSljmEect4&_nc_zt=14&_nc_ht=scontent-prg1-1.xx&_nc_gid=V5lxXDeZR0BFfo_Jc0tqFQ&_nc_ss=7a289&oh=00_AQSRAmSNk-F4TPTOglDiT0CYChWKnatVn0yvWY2WR8OX-w&oe=6B038B61
     publisher: Philippine News Agency
     caption: 'PDEA personnel from Regional Offices 11 and 12 prepare confiscated illegal drugs and related contraband for destruction at the joint disposal in Davao City on 18 November 2026. Photo: PNA / Robinson Niñal Jr.'
+  - kind: photo
+    url: https://www.facebook.com/pnagovph/posts/the-philippine-drug-enforcement-agency-davao-region-burns-more-than-php14-millio/1564218039087978/
+    media_url: https://scontent-prg1-1.xx.fbcdn.net/v/t39.99422-6/912908665_1487264369982617_7025917427788080430_n.png?stp=dst-jpg_tt6&cstp=mx1800x1201&ctp=p960x960&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=l957YkqPq20Q7kNvwHfAfBz&_nc_oc=Adol02fhxzTh_nhm8svQlWgD7sTAnIJ7ydZqJzqGuiTBUivwJnimNwnoqyapeZojpI0&_nc_zt=14&_nc_ht=scontent-prg1-1.xx&_nc_gid=PIp3nvaFgpLz2hGzpzanqQ&_nc_ss=7a289&oh=00_AQT9ZwUTNEzrcH-eeIVLG9owgaRI9rLb7_deLZLfoLjUpQ&oe=6B039FD3
+    publisher: Philippine News Agency
+    caption: PNA photo by Robinson Niñal Jr. of the PDEA Regions 11 and 12 destruction of confiscated drugs and expired medicines in Davao City on 18 November 2026.
+  - kind: photo
+    url: https://www.facebook.com/pnagovph/posts/the-philippine-drug-enforcement-agency-davao-region-burns-more-than-php14-millio/1564218039087978/
+    media_url: https://scontent-prg1-1.xx.fbcdn.net/v/t39.99422-6/913363026_1009650454916132_2294501599590591661_n.png?stp=dst-jpg_tt6&cstp=mx1800x1202&ctp=p960x960&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zmQVnH80aFQQ7kNvwEJkAeR&_nc_oc=AdrE-PQh_L7io_T6ET_ALNZcgEtBH9P7NnPM8-e_tBTebGU8m9x8SBlov7gGvt0Erp4&_nc_zt=14&_nc_ht=scontent-prg1-1.xx&_nc_gid=PIp3nvaFgpLz2hGzpzanqQ&_nc_ss=7a289&oh=00_AQT9nOBZqSL4GizU1lJyj-BzqfJCeLLxbhCKNdSj_FbzEw&oe=6B03A4B7
+    publisher: Philippine News Agency
+    caption: PNA photo by Robinson Niñal Jr. of the PDEA Regions 11 and 12 destruction of confiscated drugs and expired medicines in Davao City on 18 November 2026.
+  - kind: photo
+    url: https://www.facebook.com/pnagovph/posts/the-philippine-drug-enforcement-agency-davao-region-burns-more-than-php14-millio/1564218039087978/
+    media_url: https://scontent-prg1-1.xx.fbcdn.net/v/t39.99422-6/914802975_1462307039170934_935898228113953514_n.png?stp=dst-jpg_tt6&cstp=mx1800x1198&ctp=p960x960&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ti81O2NVDSMQ7kNvwEES3ic&_nc_oc=AdqkbSXpLqcxtAIdooukesuJLLtyTuCocUnIzDZ7c36AP6DigcV2rjlsuAH1cQTdLtk&_nc_zt=14&_nc_ht=scontent-prg1-1.xx&_nc_gid=PIp3nvaFgpLz2hGzpzanqQ&_nc_ss=7a289&oh=00_AQQ5ubkCAIwJ1mEeDHgJ0PIxG37Icqv8AFN-vNfmJsmajw&oe=6B039530
+    publisher: Philippine News Agency
+    caption: PNA photo by Robinson Niñal Jr. of the PDEA Regions 11 and 12 destruction of confiscated drugs and expired medicines in Davao City on 18 November 2026.
+  - kind: photo
+    url: https://www.facebook.com/pnagovph/posts/the-philippine-drug-enforcement-agency-davao-region-burns-more-than-php14-millio/1564218039087978/
+    media_url: https://scontent-prg1-1.xx.fbcdn.net/v/t39.99422-6/908442602_3271806283019590_4766371841874717673_n.png?stp=dst-jpg_tt6&cstp=mx1800x1198&ctp=p960x960&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=_XGwRsarAqYQ7kNvwFSjaUj&_nc_oc=Adq-8h_ZsjQHQX-eIbC6l2tkf1YIfvI-v3CcXdj7XnWhtBp9hr1ogauqknb_9i0qDQE&_nc_zt=14&_nc_ht=scontent-prg1-1.xx&_nc_gid=PIp3nvaFgpLz2hGzpzanqQ&_nc_ss=7a289&oh=00_AQRurYLByKws-OzU7Sj6eOr5nJlOBHJshq9gL_3xF-0gTQ&oe=6B0398D6
+    publisher: Philippine News Agency
+    caption: PNA photo by Robinson Niñal Jr. of the PDEA Regions 11 and 12 destruction of confiscated drugs and expired medicines in Davao City on 18 November 2026.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 30b128099ef7b83ab8ca650e58164740
@@ -58,20 +78,18 @@ sources:
     url: https://brigadanews.ph/pdea-destroys-%E2%82%B114-million-in-illegal-drugs-from-regions-11-and-12
     publisher: Brigada News Philippines
     date: 2026-11-18
-open_questions:
-  - Region 12's marijuana was not quantified in the Philippine News Agency account; the 102.9583-gram figure comes from Brigada News, which also gives the exact weights and values for both regions.
-  - The 24.66-kilogram total and the PHP2,959,353.65 cannabis value are the sums of the two regional figures reported; PDEA's combined PHP14,082,162.72 covers methamphetamine, ecstasy and expired medicines as well.
-  - Whether the 10 marijuana plants were counted within the 24,558.3221 grams of marijuana from Region 11 is not stated.
-  - The destroyed material is described only as marijuana, with no report of laboratory confirmation or of what form it took.
-  - The arrests, charges and court cases behind the destroyed marijuana were not reported.
-  - The cannabis values are PDEA's own figures, not independently reported market prices.
+  - title: The Philippine Drug Enforcement... - Philippine News Agency | Facebook
+    url: https://www.facebook.com/pnagovph/posts/the-philippine-drug-enforcement-agency-davao-region-burns-more-than-php14-millio/1564218039087978/
+    publisher: Philippine News Agency
+    date: 2026-11-18
+    language: en
 ---
 
 The Philippine Drug Enforcement Agency's Davao (PDEA-11) and Soccsksargen
 (PDEA-12) regional offices jointly destroyed seized, confiscated and surrendered
-illegal drugs in Davao City during Drug Abuse Prevention and Control Week. [@1]
+illegal drugs in Davao City during Drug Abuse Prevention and Control Week. [@1,4]
 The destruction was held at about 9 a.m. on Wednesday 18 November 2026 at
-Cosmopolitan Funeral Homes on J. Camus Extension in Davao City. [@3] PDEA-11
+Cosmopolitan Funeral Homes on J. Camus Extension in Davao City. [@3,4] PDEA-11
 regional director Benjamin Gaspi and PDEA-12 regional director Charlene
 Magdurulang led the activity. [@2]
 
@@ -92,4 +110,3 @@ Attorney's Office, local government, civil society and the media. [@1] Gaspi
 said the open burning answers suspicions that confiscated drugs might return to
 the streets. [@1] Magdurulang said the joint activity showed that PDEA's
 regional offices can cooperate across regions. [@2]
-
