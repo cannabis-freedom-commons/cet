@@ -58,6 +58,16 @@ media:
     media_url: https://gray-wmctv-prod.gtv-cdn.com/resizer/v2/FFSTQLK5HVEP5OSOBGI6ST227Y.jpg?auth=19002a9e133597978486f06bfec5fafb1fd2d3f0f45ddae7cfdb832e478d055c&width=1300&height=730&smart=true
     publisher: WMC Action News 5
     caption: 'Third view of the firearms and drugs seized from the Bartlett home, in Memphis Police handout footage. Photo: Memphis Police via WMC Action News 5'
+  - kind: photo
+    url: https://www.memphispolice.org/news/26-handguns-machine-gun-conversion-devices-and-40-pounds-of-marijuana-seized-in-joint-operation/
+    media_url: https://www.memphispolice.org/wp-content/uploads/2026/11/Social-Media-Frames-14-300x251.png
+    publisher: Memphis Police Department
+    caption: 'Firearms, magazines and packaged items spread across a room during the Bristol Park Circle search, with a police K-9. Photo: Memphis Police Department'
+  - kind: photo
+    url: https://www.memphispolice.org/news/26-handguns-machine-gun-conversion-devices-and-40-pounds-of-marijuana-seized-in-joint-operation/
+    media_url: https://www.memphispolice.org/wp-content/uploads/2026/11/Social-Media-Frames-15-300x251.png
+    publisher: Memphis Police Department
+    caption: 'Tables of seized handguns, rifles, plant-like material and packaged contraband from the residence search. Photo: Memphis Police Department'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7520975ce366d3e24b89869e818449ca
@@ -79,6 +89,10 @@ sources:
     url: https://talknwesttn.com/joint-operation-casey-jones-yes-casey-jones-arrested-handguns-machine-gun-devices-marijuana-seized/
     publisher: Talk-N West TN
     date: 2026-11-17
+  - title: 26 Handguns, Machine Gun Conversion Devices, and 40 Pounds of Marijuana Seized in Joint Operation
+    url: https://www.memphispolice.org/news/26-handguns-machine-gun-conversion-devices-and-40-pounds-of-marijuana-seized-in-joint-operation/
+    publisher: Memphis Police Department
+    date: 2026-11-18
 open_questions:
     - The edibles were described only as nearly six pounds, so the 2.72 kg edibles portion and the combined 23.59 kg total are approximate.
     - The 105 pills, suspected psilocybin mushrooms and promethazine from the same search are excluded from the cannabis figures.
@@ -89,24 +103,24 @@ open_questions:
 ---
 
 At 2:30 p.m. on Monday, detectives responded to a weapon law violation in the
-8800 block of Bristol Park Circle in Bartlett. [@1] The follow-up investigation that located Jones was conducted on 16 November 2026 by the U.S. Marshals Two Rivers Violent Fugitive Task Force. [@4] U.S. Marshals executed a
+8800 block of Bristol Park Circle in Bartlett. [@1] The follow-up investigation that located Jones was conducted on 16 November 2026 by the U.S. Marshals Two Rivers Violent Fugitive Task Force. [@4,5] Jones had active state and federal arrest warrants at the time for aggravated assault, petition to revoke a suspended sentence, unlawful possession of a machine gun and unlawful shipment, transfer or possession of a firearm by a felon. [@5] U.S. Marshals executed a
 search warrant for 25-year-old Casey Jones at a home in the 8800 block of
-Bristol Park Circle in Bartlett. [@1] The U.S. Marshals searched the residence
+Bristol Park Circle in Bartlett. [@1] MPD's Gang Unit obtained the search warrant for the residence. [@5] The U.S. Marshals searched the residence
 alongside the Memphis Metro Crime Suppression Team and found Jones inside a
 closet. [@1] Jones was arrested at the home by the Shelby County Sheriff's
-Office and U.S. Marshals, and a woman found inside was detained. [@2] K-9 Marko, a dual-purpose apprehension and narcotics K-9 with the Shelby County Sheriff's Office assigned to the U.S. Marshals Service, assisted in Jones's apprehension. [@4]
+Office and U.S. Marshals, and a woman found inside was detained. [@2] K-9 Marko, a dual-purpose apprehension and narcotics K-9 with the Shelby County Sheriff's Office assigned to the U.S. Marshals Service, assisted in Jones's apprehension. [@4,5]
 
 Officers recovered 26 handguns, including three fitted with machine gun
 conversion devices, three of them reported stolen, plus four additional
-conversion devices. [@2,3,4] Officers seized 46 pounds of marijuana from the
-Bartlett home. [@2,3,4] Officers also seized nearly six pounds of marijuana edibles,
+conversion devices. [@2,3,4,5] Officers seized 46 pounds of marijuana from the
+Bartlett home. [@2,3,4,5] Officers also seized nearly six pounds of marijuana edibles,
 alongside pills, suspected psilocybin mushrooms and promethazine that are not
 counted in the cannabis figures. [@1] Officers seized $11,012 in cash said to be
-tied to criminal activity, as well as phones, scales and packaging. [@2,4]
+tied to criminal activity, as well as phones, scales and packaging. [@2,4,5]
 
 Jones and the woman were taken into custody for further investigation. [@1,3] The
 woman told investigators that Jones stayed at the residence and sold marijuana
 and said none of the drugs or guns were hers. [@1] Jones was charged with
 possession of marijuana with intent to manufacture, deliver or sell, alongside
-firearm, other-drug and paraphernalia counts. [@2,4] Jones’ bond was set at
+firearm, other-drug and paraphernalia counts. [@2,4,5] Jones’ bond was set at
 $100,000. [@1]
