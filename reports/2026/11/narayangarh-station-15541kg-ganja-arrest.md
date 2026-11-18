@@ -58,13 +58,18 @@ sources:
     publisher: Biplabi Sabyasachi
     date: 2026-11-17
     language: bn
+  - title: প্যাসেঞ্জার ট্রেনে উদ্ধার প্রায় ৫০ লক্ষ টাকার গাঁজা, ধৃত ৩
+    url: https://eisamay.com/west-bengal-news/midnapore-news/police-rescued-fifty-lakhs-rupees-drugs-and-arrested-three-people-at-kharagpur/200568269.cms
+    publisher: Eisamay Online
+    date: 2026-11-18
+    language: bn
 open_questions:
     - The recovered material was described only as suspected ganja; no laboratory confirmation was reported.
-    - No value estimate for the seized ganja was published.
+    - No separate value estimate for the seized 15.541 kg was published.
     - The source and intended destination of the consignment beyond the Soro-to-Swarupnagar journey were still under investigation.
     - The Janta Se Rishta and Vocal TV pages both reproduce the same Hindusthan Samachar wire account, so they are not fully independent reporting; the submitted agency page itself could only be read for its headline behind a paywall.
-    - The Bengali account gives the seized ganja as about 12 kg, while the Hindi wire accounts give 15.541 kg weighed in 15 packets; the report keeps the weighed figure.
-    - The Bengali account names the arrested man Hafizul Rahman and his village Amdia, while the Hindi wire accounts give Hafizul Mandal and Amudia.
+    - The Biplabi Sabyasachi account gives the seized ganja as about 12 kg and names the man Hafizul Rahman of Amdia, while the Hindi wire accounts and Eisamay give 15.541 kg or about 15.5 kg in 15 packets and Hafizul Mandal of Amudia; the report keeps the weighed figure.
+    - Eisamay reports a tip about a ganja carrier at Tuesday noon, while the Hindi wire account puts the interception at about 9:15 that morning; no exact sequence of the tip, the stop and the 12:35 pm seizure was published.
 media:
   - kind: video
     url: https://biplabisabyasachi.com/narayangarh-station-train-ganja-seized/
@@ -76,14 +81,14 @@ media:
 Kharagpur Government Railway Police arrested one person with 15.541 kg of ganja
 at a railway station on 17 November 2026. [@1] Police identified the arrested
 man as 33-year-old Hafizul Mandal, a resident of Amudia village in the
-Swarupnagar police-station area of North 24 Parganas district. [@2] GRP
+Swarupnagar police-station area of North 24 Parganas district. [@2,5] GRP
 personnel stopped Mandal at about 9:15 on Tuesday morning during checks at
 Narayangarh railway station while he was travelling from Soro toward
-Swarupnagar. [@2] The ganja was allegedly being carried on the Bhadrak-Howrah Bagajatin Express, and the suspect drew the attention of GRP and RPF officers during a routine search of the train. [@4]
+Swarupnagar. [@2] The ganja was allegedly being carried on the Bhadrak-Howrah Bagajatin Express, and the suspect drew the attention of GRP and RPF officers during a routine search of the train. [@4,5]
 
 Officers searched his luggage in the presence of a gazetted officer and
 recovered 15 packets of suspected ganja from two bags he was carrying, weighing
-15.541 kg in total. [@2] Police seized the recovered ganja between 12:35 pm and
+15.541 kg in total. [@2,5] Police seized the recovered ganja between 12:35 pm and
 1:15 pm following legal procedure, and a case was being registered under the
 NDPS Act, India's narcotics law. [@3]
 
