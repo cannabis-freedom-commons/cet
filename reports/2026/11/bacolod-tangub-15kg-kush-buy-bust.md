@@ -76,6 +76,11 @@ sources:
     url: https://negrosnowdaily.com/police-seize-p18-million-in-high-grade-marijuana/
     publisher: Negros Now Daily
     date: 2026-11-18
+  - title: Police seized 15 kilograms of suspected high-grade marijuana, or kush, valued at an estimated PHP 18 million
+    url: https://www.facebook.com/DailyGuardianPH/photos/police-seized-15-kilograms-of-suspected-high-grade-marijuana-or-kush-valued-at-a/1586464750176969/
+    publisher: Daily Guardian
+    date: 2026-11-18
+    language: en
 ---
 
 Officers of the Bacolod City Police Office City Drug Enforcement Unit arrested a
@@ -89,7 +94,7 @@ suspect. [@1,6] The suspect is detained at Police Station 8 and faces complaints
 Officers recovered 32 factory-sealed transparent plastic bags containing
 marijuana kush, of which two bags were seized as buy-bust items and 30 bags were
 later found in the suspect's possession. [@1,6] Police put the haul at about 15
-kilograms of kush valued at PHP18 million. [@1,2,3,5,6] The Philippine Drug Enforcement Agency’s standard drug price for marijuana was PHP 1,200 per gram. [@5] The undercover officer bought
+kilograms of kush valued at PHP18 million. [@1,2,3,5,6,7] The Philippine Drug Enforcement Agency’s standard drug price for marijuana was PHP 1,200 per gram. [@5] The undercover officer bought
 the buy-bust items from the suspect using two PHP1,000 bills. [@1,5,6] Bacolod City Police director Col. Eugene Rebadomia said users of high-grade marijuana kush are mostly people in the upper-income bracket. [@3,4]
 
 City drug enforcement chief Lt. Col. Roberto Indiape said the items were being
