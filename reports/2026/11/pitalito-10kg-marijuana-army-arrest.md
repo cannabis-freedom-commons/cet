@@ -55,28 +55,32 @@ sources:
     publisher: Neiva Estéreo
     date: 2026-11-18
     language: es
+  - title: Novena Brigada golpea las economías ilícitas, con incautación de marihuana en Pitalito, Huila | Ejército Nacional de Colombia
+    url: https://www.ejercito.mil.co/novena-brigada-golpea-las-economias-ilicitas-con-incautacion-de-marihuana-en-pitalito-huila
+    publisher: Ejército Nacional de Colombia
+    date: 2026-11-18
+    language: es
 open_questions:
-  - No date is given for the operation; 18 November 2026 is the publication date and is used as the incident date.
-  - The weight is given as about 10 kilograms; no exact weight or laboratory confirmation was reported.
-  - The 15 million pesos is the Army's estimate, reported by Neiva Estéreo, not an independently assessed market value.
-  - No charge, plea, detention measure or court outcome was reported; the man was held for the alleged offence.
-  - The account rests on the Army statement as reproduced by Neiva Estéreo; no independent outlet's report was found.
-  - It is not stated whether the seized motorcycle was the vehicle the arrested man was using.
+    - No date is given for the operation; 18 November 2026 is the date of the Army statement and is used as the incident date.
+    - The weight is given as about 10 kilograms, with no exact measurement or laboratory confirmation reported.
+    - The 15 million pesos is the Army's own estimate of the economic impact, not an independently assessed market value.
+    - No charge, plea, detention measure or court outcome was reported; the man was held for the alleged offence.
+    - The account comes from the Army's own statement, which Neiva Estéreo reproduced; no independent account of the operation was found.
+    - It is not stated whether the seized motorcycle was the vehicle the arrested man was using.
 ---
 
 Soldiers of the Light Infantry Battalion No. 27 Magdalena, part of the Ninth
 Brigade, took part in the operation in the vereda El Cedro, corregimiento de
-Bruselas, Pitalito, Huila, together with the National Police. [@1] The operation
+Bruselas, Pitalito, Huila, together with the National Police. [@1,2] The operation
 against drug trafficking seized about 10 kilograms of marijuana in the rural
-area of Pitalito, Huila. [@1] One man was arrested in flagrante. [@1] The
+area of Pitalito, Huila. [@1,2] One man was arrested in flagrante. [@1,2] The
 authorities arrested him on suspicion of trafficking, manufacturing or
-possessing narcotics. [@1] They also seized a motorcycle that would be related
-to the case. [@1] The arrested man and the seized items were handed to the
-competent authorities for judicial proceedings. [@1]
+possessing narcotics. [@1,2] They also seized a motorcycle that would be related
+to the case. [@1,2] The arrested man and the seized items were handed to the
+competent authorities for judicial proceedings. [@1,2]
 
-The Army said the load would be worth close to 15 million pesos. [@1] It said
+The Army said the load would be worth close to 15 million pesos. [@1,2] It said
 the result represented an economic impact of close to 15 million pesos for the
-residual organized armed group Comandos de Frontera. [@1] The Ninth Brigade said
+residual organized armed group Comandos de Frontera. [@1,2] The Ninth Brigade said
 it would continue operations with the National Police to stop the transport and
-sale of drugs on the roads and rural areas of Huila. [@1]
-
+sale of drugs on the roads and rural areas of Huila. [@1,2]
