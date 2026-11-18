@@ -47,6 +47,11 @@ sources:
     publisher: Radio Estación 102.5
     date: 2026-11-18
     language: es
+  - title: Secuestraron cocaína y marihuana en Río Cuarto, Unquillo y San Francisco
+    url: https://cordoba.mitelefe.com/cordoba/secuestraron-cocaina-y-marihuana-en-rio-cuarto-unquillo-y-san-francisco-pid2572485
+    publisher: Telefe Córdoba
+    date: 2026-11-18
+    language: es
 open_questions:
   - No date is given for the individual checks; the prosecutors' release of 18 November 2026 says they took place during that week, and 18 November stands in as the incident date.
   - No weight, dose count or value was published for any of the marijuana seizures, so no cannabis quantity is recorded.
@@ -55,13 +60,30 @@ open_questions:
   - The release reports two adult men for Unquillo and San Francisco together and does not say how many doses were found at each place.
   - Names, ages and nationalities of the four adults were not released.
   - The two local accounts reproduce the provincial prosecutors' release rather than independent reporting, and the FPA's own statement was not located.
+  - 'The reach of the patrols differs between accounts: Telefe Córdoba says more than fifteen towns in the interior of the province, while the prosecutors'' release cited in the report names about 20 towns alongside the provincial capital.'
+media:
+  - kind: photo
+    url: https://cordoba.mitelefe.com/cordoba/secuestraron-cocaina-y-marihuana-en-rio-cuarto-unquillo-y-san-francisco-pid2572485
+    media_url: https://cordoba.mitelefe.com/media/cache/webp_16x9_1080/2026/11/Secuestraron-cocaina-y-marihuana-en-Rio-Cuarto-Unquillo-y-San-Francisco-1-6afd900dc9d95.webp
+    publisher: Telefe Córdoba
+    caption: Two FPA patrol pickups parked on a dirt road, with a circular inset of FPA officers holding a detained man, the lead image of the Telefe Córdoba account of the checks in Río Cuarto, Unquillo and San Francisco.
+  - kind: photo
+    url: https://cordoba.mitelefe.com/cordoba/secuestraron-cocaina-y-marihuana-en-rio-cuarto-unquillo-y-san-francisco-pid2572485
+    media_url: https://cordoba.mitelefe.com/images/secuestraron-cocaina-y-marihuana-en-rio-cuarto-unquillo-y-san-francisco-2-6afd90065fb46.jpg
+    publisher: Telefe Córdoba
+    caption: FPA officers in tactical vests detaining a man in a white T-shirt beside a patrol pickup during the preventive checks, in a photo published with the report.
+  - kind: photo
+    url: https://cordoba.mitelefe.com/cordoba/secuestraron-cocaina-y-marihuana-en-rio-cuarto-unquillo-y-san-francisco-pid2572485
+    media_url: https://cordoba.mitelefe.com/images/secuestraron-cocaina-y-marihuana-en-rio-cuarto-unquillo-y-san-francisco-3-6afd900bc3e00.jpg
+    publisher: Telefe Córdoba
+    caption: FPA officers standing over detained men on a residential street with a patrol vehicle behind them, in a photo published with the report.
 ---
 
 Córdoba's anti-narcotics force, the Fuerza Policial Antinarcotráfico (FPA),
 seized several doses of cocaine and marijuana from two adults in two procedures
-in Río Cuarto during preventive checks in different parts of the city. [@1]
+in Río Cuarto during preventive checks in different parts of the city. [@1,4]
 Officers also seized several doses of marijuana from two adult men, one in
-Unquillo and one in San Francisco. [@1] Radiocanal put the Río Cuarto seizures
+Unquillo and one in San Francisco. [@1,4] Radiocanal put the Río Cuarto seizures
 at two adults and said the marijuana in Unquillo was seized from another adult
 man. [@2] Radio Estación reported that officers stopped an adult man in the
 street in San Francisco and seized several doses of marijuana from him. [@3]
@@ -73,6 +95,5 @@ Piquillín, Las Varillas, Alicia, El Fortín, Marcos Juárez, Villa María,
 Unquillo, Cruz Alta, Los Surgentes, Inriville and Mendiolaza. [@1] The
 deployment formed part of the provincial Strategic Plan against Drug
 Trafficking, intended to reinforce checks and prevention in different areas of
-the province. [@1] The prosecutors involved ordered the substances seized and
-the corresponding case files drawn up. [@1]
-
+the province. [@1,4] The provincial authorities reported the seizures in Río Cuarto, Unquillo and San Francisco as separate operations carried out at the same time. [@4] The prosecutors involved ordered the substances seized and
+the corresponding case files drawn up. [@1,4]
