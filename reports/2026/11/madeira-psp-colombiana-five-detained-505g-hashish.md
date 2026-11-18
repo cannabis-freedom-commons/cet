@@ -76,14 +76,11 @@ sources:
     publisher: RTP Madeira
     date: 2026-11-17
     language: pt
-open_questions:
-    - The PSP statement gives 15 of the 31 search warrants as domiciliary, while the Lusa copy carried by Observador says 14; the police statement figure is used.
-    - The hashish haul is stated precisely as 505.46 grams in the PSP statement, while RTP rounds it to 500 grams and Lusa says more than 500 grams; the precise figure is recorded.
-    - The 352.75 grams of an unidentified product sold as cocaine and the 400 ecstasy pills are not cannabis and are excluded from the cannabis figures.
-    - The Public Prosecutor's Office announcement of 17 November 2026 does not state the date of the first judicial interrogations; 17 November is the date of the announcement and of publication.
-    - The Public Prosecutor's Office statement mentions only two detainees going through judicial questioning; the current legal status of the other three detainees is not reported.
-    - The detainees were identified only by age range and nationality, with no names published.
-    - The operation's dates, 12 and 13 November 2026, come from the police statement as reported by DNOTICIAS; the RTP article of 14 November gives no separate date for the operation.
+  - title: Prisão preventiva para detido na Madeira por tráfico de droga
+    url: https://www.cmjornal.pt/portugal/amp/prisao-preventiva-para-detido-na-madeira-por-trafico-de-droga
+    publisher: Correio da Manhã
+    date: 2026-11-17
+    language: pt
 ---
 
 The Public Security Police (PSP) dismantled a drug trafficking network that had
@@ -92,7 +89,7 @@ acted in Madeira for at least two years, in an operation carried out on 12 and
 operation, named Colombiana, ran on Thursday and Friday in Funchal and Santa
 Cruz, the PSP's Regional Command said in a statement. [@3,5] Five people were
 detained, men aged 21 to 41 from Portugal and South American countries, and
-seven other suspects were identified. [@1] The Public Prosecutor's Office confirmed that five arrests were made in flagrante for drug trafficking and possession of a prohibited weapon. [@5] The operation served 31 search and
+seven other suspects were identified. [@1] The Public Prosecutor's Office confirmed that five arrests were made in flagrante for drug trafficking and possession of a prohibited weapon. [@5,8] The operation served 31 search and
 seizure warrants, 15 of them at homes, the police said. [@4]
 
 Seizures included 505.46 grams of hashish, 400 ecstasy pills weighing 216.13
@@ -108,4 +105,4 @@ According to the police, the group imported recreational drugs from other
 European countries and sold them mainly at night in the region's nightlife
 venues. [@1] Two of the five detainees were released on an identity and
 residence term (TIR) while the other three remain detained pending their first
-judicial questioning. [@2] The same suspect allegedly sold the drugs to other distribution networks as well as directly to consumers. [@7] The man placed in pre-trial detention is suspected of negotiating the purchase of several kilograms of cocaine, hashish, liamba, ecstasy and MDMA from people in mainland Portugal and abroad, sent to Madeira by post, the Public Prosecutor's Office said. [@7] Two of the detainees were presented for their first judicial questioning: one was placed in pre-trial detention and the other was ordered to report daily to the police station of his residence area and barred from contacting certain people and frequenting certain places. [@5]
+judicial questioning. [@2] The same suspect allegedly sold the drugs to other distribution networks as well as directly to consumers. [@7,8] The man placed in pre-trial detention is suspected of negotiating the purchase of several kilograms of cocaine, hashish, liamba, ecstasy and MDMA from people in mainland Portugal and abroad, sent to Madeira by post, the Public Prosecutor's Office said. [@7,8] Two of the detainees were presented for their first judicial questioning: one was placed in pre-trial detention and the other was ordered to report daily to the police station of his residence area and barred from contacting certain people and frequenting certain places. [@5,8]
