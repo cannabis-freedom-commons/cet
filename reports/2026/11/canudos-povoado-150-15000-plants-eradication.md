@@ -121,22 +121,29 @@ sources:
     publisher: Muita Informação com Osvaldo Lyra
     date: 2026-11-18
     language: pt
+  - title: Polícia destrói 15 mil pés de maconha em Canudos
+    url: https://noticias.r7.com/bahia/policia-destroi-15-mil-pes-de-maconha-em-canudos-18112026/
+    publisher: R7
+    date: 2026-11-18
+    language: pt
 open_questions:
     - No weight, area in hectares or street value was given for the plantation.
-    - No one was arrested and the sources do not say whether anyone was found at the site.
+    - No one was arrested and no suspect has been named; police said those responsible for the plantation were not found during the operation.
     - The precise location of Povoado 150 and the size of the plantation are not described.
+    - R7 gives the total as more than 15,000 plants, while the SSP-BA statement gave 15,000; the report uses 15,000.
+    - R7 places the operation in a difficult-to-access area near the centre of Canudos and does not name Povoado 150, while the other accounts place the plantation at Povoado 150.
     - Whether this plantation is connected to the group targeted in Operation Safra Oculta in Bahia and Pernambuco the same day is not stated.
-    - The accounts reproduce the same SSP-BA statement and are not independent reporting.
+    - The accounts reproduce the same SSP-BA statement and are not independent reporting; R7 attributes its version only to the security forces.
 ---
 
 Civil and Military Police in Bahia found and destroyed a cannabis plantation in
-rural Canudos on Tuesday 17 November 2026. [@1,5,6,7,8,9,10] The plantation was at a place
+rural Canudos on Tuesday 17 November 2026. [@1,5,6,7,8,9,10,11] The plantation was at a place
 known as Povoado 150 and was found after intelligence work by the state security
-forces. [@1,5,6,7,8,9,10] No one was arrested at the site, and the Civil and Military Police
-said inquiries were continuing to identify and arrest those responsible. [@2,5,7,9]
+forces. [@1,5,6,7,8,9,10] The operation took place in an area of difficult access close to the centre of the municipality. [@11] No one was arrested at the site, and the Civil and Military Police
+said inquiries were continuing to identify and arrest those responsible. [@2,5,7,9,11]
 
 Officers used drones to find the crop and reach the clearing, then uprooted and
-burned the plants. [@1,5,6,7,8,9,10] The security secretariat said the state forces found
+burned the plants. [@1,5,6,7,8,9,10,11] The security secretariat said the state forces found
 15,000 cannabis plants at the site. [@2,5,6,7,9,10] Officers also destroyed sleeping
 quarters and an irrigation system used to keep the plantation running. [@3,5,6,7,8,9,10]
 
