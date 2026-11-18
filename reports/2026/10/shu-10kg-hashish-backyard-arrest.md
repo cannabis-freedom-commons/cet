@@ -47,31 +47,33 @@ sources:
     publisher: Elordainfo.kz
     date: 2026-10-05
     language: ru
+  - title: Более 10 кг гашиша изъяли полицейские в Жамбылской области
+    url: https://www.gov.kz/org/qriim/press/news/details/1305055?directionId=56&lang=ru
+    publisher: GOV.KZ / Ministry of Internal Affairs of Kazakhstan
+    date: 2026-10-05
+    language: ru
 open_questions:
-  - The reports give no separate date for the search and detention; 5 October 2026 is the publication date and is used as the incident date.
-  - The suspect's full name was not published.
-  - No charges, court ruling or further outcome were reported; the pre-trial investigation was described as under way.
-  - The direct Polisia.kz police statement could not be opened after a timeout, so both used accounts cite the Zhambyl regional police department through intermediaries.
-  - Other incidents mentioned in the same Kazinform article, including a Taraz seizure of 12 kg 30 g of marijuana and 388.96 g of hashish, a 21-tonne campaign total and 120 kg of caches, are separate events left out of this report.
-  - The Elordainfo page embeds an Instagram post from the Zhambyl police, but no direct video file address could be recovered, so no video entry is included.
+    - The reports give no separate date for the search and detention; 5 October 2026 is the publication date and is used as the incident date.
+    - The suspect's full name was not published.
+    - No charges, court ruling or further outcome were reported; the pre-trial investigation was described as under way.
+    - Other incidents mentioned in the same Kazinform article, including a Taraz seizure of 12 kg 30 g of marijuana and 388.96 g of hashish, a 21-tonne campaign total and 120 kg of caches, are separate events left out of this report.
 ---
 
 Police detained a 39-year-old resident of the city of Shu in Zhambyl Region.
-[@2] The man is suspected of unlawfully storing drugs on an especially large
-scale without intent to sell. [@1] The detention was carried out within the
-Qarasora-2026 and Darmek preventive operations. [@1] During a search of a
-residential house, officers found the drugs in the backyard. [@1]
+[@2,3] The man is suspected of unlawfully storing drugs on an especially large
+scale without intent to sell. [@1,3] The detention was carried out within the
+Qarasora-2026 and Darmek preventive operations. [@1,3] During a search of a
+residential house, officers found the drugs in the backyard. [@1,3]
 
 Police said officers found and seized 10 kg 108 g of hashish in the backyard of
-the dwelling. [@1] Elordainfo put the same seizure at 10 kilograms 108 grams of
+the dwelling. [@1,3] Elordainfo put the same seizure at 10 kilograms 108 grams of
 hashish found in the backyard of the house. [@2] A pre-trial investigation was
 opened into the storage of narcotics on an especially large scale without intent
-to sell. [@2] The suspect was placed in a temporary detention facility. [@1]
+to sell. [@2,3] The suspect was placed in a temporary detention facility. [@1,3]
 
 The operation involved Interior Ministry anti-drug police and the Zhambyl
-regional police department together with KNB officers in Shu district. [@1] The
+regional police department together with KNB officers in Shu district. [@1,3] The
 units involved were the Interior Ministry's committee against drug crime and
 Zhambyl counter-narcotics divisions, working with the KNB department for Shu
-district. [@2] SOBR special-purpose officers of the Kyzylorda regional police
-department provided force support. [@1]
-
+district. [@2,3] SOBR special-purpose officers of the Kyzylorda regional police
+department provided force support. [@1,3]
