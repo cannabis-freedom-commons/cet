@@ -74,17 +74,15 @@ tags:
   - record-haul
   - customs
 open_questions:
-  - The AFP report gave a value of at least €15 million. Customs Today reported €20 million.
-  - >-
-    The Tournai prosecutor confirmed Hambli’s arrest on a European warrant but did not confirm its
-    link to the seizure at the time.
-  - >-
-    The seizure was announced on 18 October 2015. Accounts place it on 17 October or overnight on
-    17–18 October.
-  - Whether any of the defendants appealed the Bordeaux judgment was not established.
-  - The RTBF account describes the October 2015 seizure as a single truck holding six tonnes of hashish intercepted at Saint Ghislain in Belgium, which differs from the 7.1-tonne Paris vans recorded here; it is unclear whether that Belgian account refers to the same seizure.
-  - No court outcome of the pretrial detention or the new charges against Hambli was reported.
-  - 'Left out, as its quotation was not found in RTBF: This was the first time a Belgian detainee was taken directly into France, under article 21 of the Tournai police-collaboration accords.'
+    - The AFP report gave a value of at least €15 million. Customs Today reported €20 million.
+    - The Tournai prosecutor confirmed Hambli's arrest on a European warrant but did not confirm its link to the seizure at the time.
+    - The seizure was announced on 18 October 2015. Accounts place it on 17 October or overnight on 17–18 October.
+    - Whether any of the defendants appealed the Bordeaux judgment was not established.
+    - The six tonnes delivered in Belgium days after the Paris find are not included in the 7.1-tonne figure, which covers the Paris seizure only.
+    - The 40-tonne consignment described by the co-defendant at the hearing is his own account and is not part of any recorded figure.
+    - No court outcome of the pretrial detention or the new charges against Hambli was reported.
+    - Hambli was detained in Morocco and absent from the trial; it was not reported whether he was tried in absentia or how the 20-year sentence would be enforced.
+    - The Belgian delivery is described in different terms by RTBF and at the trial, and it was not established whether it is the Saint-Ghislain seizure RTBF reported.
 sources:
   - title: Police in Paris seize seven tonnes of cannabis from parked vans
     url: https://www.jamaicaobserver.com/2015/10/18/police-in-paris-seize-seven-tonnes-of-cannabis-from-parked-vans/
@@ -119,6 +117,11 @@ sources:
     publisher: Ouest-France
     date: 2016-04-06
     language: fr
+  - title: 'Saisie record de drogue : à la barre, l''ex-«homme à tout faire» charge son commanditaire'
+    url: https://www.europe1.fr/police-justice/saisie-record-de-drogue-a-la-barre-lex-homme-a-tout-faire-charge-son-commanditaire-910777
+    publisher: Europe 1
+    date: 2026-03-09
+    language: fr
 also: [seizure, arrest, sentence]
 media:
   - kind: photo
@@ -136,8 +139,8 @@ media:
     caption: 'The vans in which 7 tonnes of cannabis were seized in Paris. Photo: AFP'
 ---
 
-On 31 March 2026, a Bordeaux court sentenced former French anti-drug chief François Thierry to a one-year suspended prison term for complicity in drug trafficking and destruction of evidence. [@5] The court sentenced Sofiane Hambli, whom it identified as the organiser, to 20 years in prison and his brother Hakim to five years. [@5] Sofiane Hambli was detained in Morocco and was absent from the trial. [@5]
+On 31 March 2026, a Bordeaux court sentenced former French anti-drug chief François Thierry to a one-year suspended prison term for complicity in drug trafficking and destruction of evidence. [@5] The court sentenced Sofiane Hambli, whom it identified as the organiser, to 20 years in prison and his brother Hakim to five years. [@5] Sofiane Hambli was detained in Morocco and was absent from the trial. [@5,7] He said he had not known the shipment was a police-monitored delivery and that the cannabis belonged, in his account, to a consignment of about 40 tonnes. [@7] The defendant said he had been Hambli's cellmate before working for him and was paid €2,500 a month. [@7] At the Bordeaux hearing on 9 March 2026, the 49-year-old co-defendant nicknamed Grincheux, who presents himself as Hambli's former odd-job man, told the court that Hambli was the main organiser and that "he is the one who runs everything, who knows the quantities". [@7]
 
-The case began in October 2015 when French customs seized 7.1 tonnes of cannabis resin from three hire vans parked on Boulevard Exelmans in Paris. [@1,2,4,5] A resident had noticed the vans sitting for more than a week, and officers found a fourth van empty nearby. [@1] The resin was packed in blocks in the boots of the vans, and investigators said it had come from Morocco, probably via Spain. [@1,2] Customs put its value at no less than €15 million, while Customs Today and France 24 reported €20 million. [@1,2,4] President François Hollande visited the customs investigators to congratulate them. [@1,2] No one was arrested during the seizure, but customs said investigators would use DNA and fingerprints found in the vans. [@1]
+The case began in October 2015 when French customs seized 7.1 tonnes of cannabis resin from three hire vans parked on Boulevard Exelmans in Paris. [@1,2,4,5] A co-defendant was arrested in a six-tonne cannabis delivery in Belgium a few days after the discovery of seven tonnes on Boulevard Exelmans in October 2015. [@7] A resident had noticed the vans sitting for more than a week, and officers found a fourth van empty nearby. [@1] The resin was packed in blocks in the boots of the vans, and investigators said it had come from Morocco, probably via Spain. [@1,2] Customs put its value at no less than €15 million, while Customs Today and France 24 reported €20 million. [@1,2,4] President François Hollande visited the customs investigators to congratulate them. [@1,2] No one was arrested during the seizure, but customs said investigators would use DNA and fingerprints found in the vans. [@1]
 
 Belgian police arrested Sofiane Hambli in Ghent on 22 February 2016 under a European warrant issued by a Paris investigating judge. [@3] He was held pending transfer, and French reporting linked the arrest to the October seizure. [@3] The Tournai prosecutor's spokesperson Frédéric Bariseau said Hambli had exhausted all possible appeals against the transfer. [@6] That evening Hambli was charged with drug trafficking and organized-group drug import and placed in pretrial detention. [@6] On 5 April 2016, GIGN gendarmes flew to Bruges prison in Belgium and took Hambli by helicopter into France. [@6] The Bordeaux court later found that Thierry had obstructed other investigators after losing track of the consignment in France and withheld a phone he used to communicate with Hambli. [@5]
