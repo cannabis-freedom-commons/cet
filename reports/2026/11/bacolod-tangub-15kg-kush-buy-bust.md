@@ -68,24 +68,30 @@ sources:
     publisher: The Manila Times
     date: 2026-11-18
     language: en
+  - title: Bacolod police seize PHP 18 million suspected marijuana | Daily Guardian
+    url: https://www.dailyguardian.com.ph/blog/bacolod-police-seize-php-18-million-suspected-marijuana
+    publisher: Daily Guardian
+    date: 2026-11-18
+open_questions:
+  - 'Accounts differ on the suspect''s prior record: one account reports a previous theft case in southern Negros, while other coverage reported previous imprisonment in an illegal-drugs case.'
 ---
 
 Officers of the Bacolod City Police Office City Drug Enforcement Unit arrested a
 lone 29-year-old suspect known only by the alias “Tol” in a buy-bust at a
 residence in Barangay Tangub, Bacolod City, at noon on Tuesday, Nov. 17, 2026.
-[@1,2,3] Police identified the arrested suspect as a high-value individual listed in the local anti-drug abuse database. [@2] Records showed that alias “Tol” had previously been imprisoned in a case related to illegal drugs. [@3,4] City police director Col. Eugene Rebadomia said the unit caught up with the
-suspect after five to six months of monitoring. [@1,3] Police said the suspect did not stay in one place and allegedly had several people helping him move and deliver the drugs. [@3,4] Charges for violation of
+[@1,2,3] The suspect is a resident of southern Negros Occidental. [@5] Police identified the arrested suspect as a high-value individual listed in the local anti-drug abuse database. [@2,5] Records showed that alias “Tol” had previously been imprisoned in a case related to illegal drugs. [@3,4] City police director Col. Eugene Rebadomia said the unit caught up with the
+suspect after five to six months of monitoring. [@1,3] Police said the suspect did not stay in one place and allegedly had several people helping him move and deliver the drugs. [@3,4] The suspect allegedly moved from place to place for transactions that reportedly targeted young people and young adults. [@5] Charges for violation of
 the Comprehensive Dangerous Drugs Act of 2002 were being prepared against the
-suspect. [@1] The suspect will face charges under Sections 5 and 11 of Republic Act 9165. [@2]
+suspect. [@1] The suspect is detained at Police Station 8 and faces complaints for the alleged sale and illegal possession of dangerous drugs. [@5] The suspect will face charges under Sections 5 and 11 of Republic Act 9165. [@2]
 
 Officers recovered 32 factory-sealed transparent plastic bags containing
 marijuana kush, of which two bags were seized as buy-bust items and 30 bags were
 later found in the suspect's possession. [@1] Police put the haul at about 15
-kilograms of kush valued at PHP18 million. [@1,2,3] The undercover officer bought
-the buy-bust items from the suspect using two PHP1,000 bills. [@1] Bacolod City Police director Col. Eugene Rebadomia said users of high-grade marijuana kush are mostly people in the upper-income bracket. [@3,4]
+kilograms of kush valued at PHP18 million. [@1,2,3,5] The Philippine Drug Enforcement Agency’s standard drug price for marijuana was PHP 1,200 per gram. [@5] The undercover officer bought
+the buy-bust items from the suspect using two PHP1,000 bills. [@1,5] Bacolod City Police director Col. Eugene Rebadomia said users of high-grade marijuana kush are mostly people in the upper-income bracket. [@3,4]
 
 City drug enforcement chief Lt. Col. Roberto Indiape said the items were being
 supplied not only in Bacolod but also in neighboring Iloilo through courier
 service. [@1,3,4] The suspect allegedly admitted to distributing illegal drugs. [@3,4] He said the supply came from Thailand for distribution in Bacolod
 and other parts of the Philippines, that the suspect could have big-time
-companions, and that investigation was continuing. [@1,3,4]
+companions, and that investigation was continuing. [@1,3,4] A courier company released the shipment to a rider for delivery on Tuesday. [@5] The shipment from Thailand arrived in Bacolod on Monday night. [@5]
