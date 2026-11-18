@@ -56,34 +56,37 @@ sources:
     publisher: ANTARA News Jawa Timur
     date: 2026-11-18
     language: id
+  - title: Polisi Bongkar Peredaran Sabu dan Ganja di Lereng Gunung Semeru, Dua Pria Ditangkap
+    url: https://jatim.suara.com/read/2026/11/18/225051/polisi-bongkar-peredaran-sabu-dan-ganja-di-lereng-gunung-semeru-dua-pria-ditangkap
+    publisher: SuaraJatim.id
+    date: 2026-11-18
+    language: id
 open_questions:
-  - No date for the arrests was given; 18 November 2026 is the date of the police statement and of publication, and is used as the incident date.
-  - The 52.31 grams is a gross weight that includes packaging; no net weight or laboratory confirmation was reported.
-  - The 6.47 grams of methamphetamine is excluded from the cannabis figures.
-  - No estimate of the cannabis's value was published.
-  - The reports do not say whether the two men worked at the welding workshop where they were arrested.
-  - No plea, prosecution file or court date was reported; police said the investigation was continuing.
-  - Both accounts reproduce the same Lumajang police statement, so they are not independent reporting.
+    - The 52.31 grams is a gross weight that includes packaging; no net weight or laboratory confirmation was reported.
+    - The 6.47 grams of methamphetamine is excluded from the cannabis figures.
+    - No estimate of the cannabis's value was published.
+    - The accounts do not say whether the two men worked at the welding workshop where they were arrested.
+    - No plea, prosecution file or court date was reported; police said the investigation was continuing.
+    - The three accounts reproduce the same Lumajang police statement, so they are not independent reporting.
 ---
 
 The narcotics unit of Lumajang district police arrested two men on suspicion of
-trafficking methamphetamine and cannabis in Lumajang regency, East Java. [@1] AR
+trafficking methamphetamine and cannabis in Lumajang regency, East Java. [@1,3] Police said the arrests took place on Wednesday 18 November 2026. [@3] AR
 (37) and HI (47) were arrested at a welding workshop in Kandangtepus village,
 Senduro district, after officers followed up a tip from residents about drug
-dealing at the premises. [@1] AR is from Pagowan village in Pasrujambe district
+dealing at the premises. [@1,3] AR is from Pagowan village in Pasrujambe district
 and HI from Sarikemuning village in Senduro district. [@1] Police said AR told
 them he obtained the cannabis from HI, and officers then tracked HI down and
-searched him. [@2]
+searched him. [@2,3]
 
 Officers seized 52.31 grams of cannabis and 6.47 grams of methamphetamine, both
-gross weights, from the two men. [@1] They also took a silver digital scale, Rp
-15,000 in cash and Rp 200,000 that police believe came from drug sales. [@1] A
+gross weights, from the two men. [@1,3] They also took a silver digital scale, Rp
+15,000 in cash and Rp 200,000 that police believe came from drug sales. [@1,3] A
 black Yamaha Vega motorcycle without a licence plate, which belonged to HI, was
-also seized. [@1]
+also seized. [@1,3]
 
 Both suspects and the evidence were taken to Lumajang district police
-headquarters for examination and further legal proceedings. [@1] Police said
+headquarters for examination and further legal proceedings. [@1,3] Police said
 both men were accused of narcotics trafficking and possession under Law 35/2009,
-articles 114(1) and 111(1), which carry up to 20 years in prison or life. [@2]
+articles 114(1) and 111(1), which carry up to 20 years in prison or life. [@2,3]
 Police said the investigation was continuing. [@1]
-
