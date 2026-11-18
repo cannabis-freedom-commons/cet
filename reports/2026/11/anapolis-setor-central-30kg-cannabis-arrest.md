@@ -47,6 +47,11 @@ media:
     media_url: https://portal6.com.br/wp-content/uploads/2026/11/drogas.webp
     publisher: Portal 6
     caption: 'Seized drugs laid out after the Anápolis operation. Photo: Divulgação/PCGO'
+  - kind: photo
+    url: https://www.g5news.com.br/policia/homem-que-transportava-65-kg-de-drogas-bate-em-viatura-durante-tentativa-de-fuga
+    media_url: https://i.g5news.com.br/9375e2b6-7b4f-4a5b-8ee4-56b1789bf1d9/2026/11/colagem-3-0abea3-1024.webp
+    publisher: G5News
+    caption: 'Collage captioned ''Perseguição, batida e prisão'' showing the pursuit, the crash and the arrest from the Anápolis operation, published with the Civil Police handout. Photo: PCGO/Divulgação'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4f48f26f57d92fa0cb7432f26514714d
@@ -72,6 +77,11 @@ sources:
     publisher: Contexto
     date: 2026-11-16
     language: pt
+  - title: Fuga termina em batida com viaturas e apreensão de 65 kg de drogas em Anápolis
+    url: https://www.g5news.com.br/policia/homem-que-transportava-65-kg-de-drogas-bate-em-viatura-durante-tentativa-de-fuga
+    publisher: G5News
+    date: 2026-11-17
+    language: pt
 open_questions:
   - The two hashish portions had no published weight, so only the 30 kg of marijuana and skunk is counted as cannabis.
   - The 240 tablets were described only as resembling ecstasy, with no laboratory confirmation reported.
@@ -83,21 +93,21 @@ open_questions:
 ---
 
 A man was arrested in flagrante on Sunday 15 November 2026 in Anápolis on
-suspicion of drug trafficking. [@1,4] The investigation began after an anonymous
+suspicion of drug trafficking. [@1,4,5] The investigation began after an anonymous
 tip said the suspect was moving drugs by car and storing drugs at his home. [@1,4]
 Officers found the car near Setor Central, ordered it to stop, and the driver
 fled at high speed. [@1,4] While trying to escape, the suspect hit police vehicles
 and struck the gate of a condominium in Vila Fabril where he tried to enter.
-[@3,4]
+[@3,4,5]
 
 Police said the seizure comprised 20 kg of Colômbia Gold marijuana, 10 kg of
-skunk, 20 kg of crack and 15 kg of cocaine. [@1,4] Officers also seized 240
-tablets resembling ecstasy and two portions of hashish. [@1] The 240 tablets were yellow pineapple-shaped tablets found in a styrofoam box in the boot of the vehicle, alongside other drugs. [@4] A precision scale
-and the vehicle used by the suspect were also seized. [@1] During searches at the suspect's residence in Setor Central, officers seized further drugs and a precision scale. [@4] Police put the
+skunk, 20 kg of crack and 15 kg of cocaine. [@1,4,5] Officers also seized 240
+tablets resembling ecstasy and two portions of hashish. [@1,5] The two hashish portions were of the dry type. [@5] The 240 tablets were yellow pineapple-shaped tablets found in a styrofoam box in the boot of the vehicle, alongside other drugs. [@4] A precision scale
+and the vehicle used by the suspect were also seized. [@1,5] During searches at the suspect's residence in Setor Central, officers seized further drugs and a precision scale. [@4,5] Police put the
 estimated loss to drug trafficking at more than 800,000 reais. [@2]
 
 The operation was carried out by the Grupo Especial de Investigação Criminal
 (GEIC) and the Grupo Especial de Repressão a Narcóticos (GENARC). [@2] The man
 was taken to the GEIC/GENARC headquarters and held in flagrante for drug
-trafficking, disobeying a lawful stop order and dangerous driving. [@2] The
+trafficking, disobeying a lawful stop order and dangerous driving. [@2,5] The
 seized material was sent for the investigation procedures. [@1]
