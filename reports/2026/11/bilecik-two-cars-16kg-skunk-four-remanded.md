@@ -57,6 +57,11 @@ sources:
     publisher: Habertürk Yerel Haberler
     date: 2026-11-17
     language: tr
+  - title: Bilecik’te 16 Kilo Skunk Ele Geçirildi!
+    url: https://www.yarin11.com/bilecikte-16-kilo-skunk-ele-gecirildi
+    publisher: Bilecik Yarın Gazetesi
+    date: 2026-11-17
+    language: tr
 open_questions:
   - No street value for the skunk was published.
   - The 15 November 2026 date for the search comes from the Bilecik Haber account; the Anadolu Ajansı and İhlas News Agency reports give no separate date and appeared after the court hearing.
@@ -68,17 +73,16 @@ open_questions:
 
 Bilecik provincial police's anti-narcotics branch, the Narcotic Crimes Combating
 Branch, carried out the operation on Sunday 15 November 2026, searching two
-vehicles it had identified and four suspects. [@1] Officers searched both the
+vehicles it had identified and four suspects. [@1,4] Officers searched both the
 cars and the four suspects themselves, and seized a total of 16 kilograms 155
-grams (16,155 grams) of skunk. [@1] Anadolu Ajansı reported that the two cars
+grams (16,155 grams) of skunk. [@1,4] Anadolu Ajansı reported that the two cars
 were searched in the city centre of Bilecik. [@2]
 
 The four suspects were held at the police station for processing and then
-brought before a court, which remanded them in custody. [@1] The court remanded
+brought before a court, which remanded them in custody. [@1,4] The court remanded
 them on charges of buying, accepting or possessing drugs for personal use and of
-manufacturing and trading drugs. [@1] The İhlas News Agency reported that the
+manufacturing and trading drugs. [@1,4] The İhlas News Agency reported that the
 four were then taken to Bilecik M Type Closed Prison. [@3]
 
 Bilecik police said the operation was part of their continuing work to prevent
 the trading and use of drugs in the province. [@1]
-
