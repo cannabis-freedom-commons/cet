@@ -1,44 +1,43 @@
 ---
 code: 469F8N
 added_at: "2026-11-14T21:40:38.479657Z"
-date: 2026-11-14
+date: 2026-11-18
 country: in
 place: Platform 1, Gaya Junction, Gaya, Bihar
 coordinates: [24.803, 85.003]
 precision: locality
 type: arrest
 also: [seizure]
-title: 22-year-old woman held with 12.756 kg ganja at Gaya Junction
-summary: >-
-  A joint RPF-GRP team arrested 22-year-old Chhoti Kumari with 12.756 kg of ganja in 12 bundles on platform 1 at Gaya Junction on 14 November 2026. The ganja, valued at about Rs637,800, was being carried from Sambalpur in Odisha to Sasaram in Bihar, and an NDPS case was registered with the Gaya GRP.
+title: Woman held with 12.756 kg ganja at Gaya Junction; alleged receiver arrested
+summary: A joint RPF-GRP team arrested 22-year-old Chhoti Kumari with 12.756 kg of ganja on platform 1 at Gaya Junction and registered an NDPS case with the GRP. Three days after the woman's arrest, railway police arrested the man she named as the receiver of the consignment, in his village in Rohtas district.
 figures:
-  arrested: 1
-  kg_seized: 12.756
-  value:
-    amount: 637800
-    currency: INR
+    arrested: 2
+    kg_seized: 12.756
+    value:
+        amount: 637800
+        currency: INR
 details:
-  agencies: [Railway Protection Force (RPF), Government Railway Police (GRP)]
-  agency_types: [police]
-  products:
-    - {product: flower, kg: 12.756}
-  activity: [trafficking]
-  setting: [vehicle]
-  charges: [possession of ganja under sections 8/20(b)(ii)B of the NDPS Act]
-  case_stage: investigation
-  date_precision: exact
-  region: Bihar
+    agencies: [Railway Protection Force (RPF), Government Railway Police (GRP)]
+    agency_types: [police]
+    products:
+        - {product: flower, kg: 12.756}
+    activity: [trafficking]
+    setting: [vehicle]
+    charges: [possession of ganja under sections 8/20(b)(ii)B of the NDPS Act]
+    case_stage: investigation
+    date_precision: exact
+    region: Bihar
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.charges: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
-  figures.value: [1]
+    details.activity: [14]
+    details.agencies: [14]
+    details.agency_types: [14]
+    details.case_stage: [14]
+    details.charges: [1]
+    details.products: [14]
+    details.setting: [1]
+    figures.arrested: [14]
+    figures.kg_seized: [14]
+    figures.value: [1]
 media:
   - kind: photo
     url: https://www.bhaskar.com/g/local/bihar/gayaji/news/gaya-junction-rpf-grp-arrest-woman-ganja-smuggling-139683082.html
@@ -55,6 +54,11 @@ media:
     media_url: https://cdn.news4nation.com/Cloud/news/coverimage/14Nov2026/a1126e7d-6d84-4fa6-bf1a-b976dfece674.jpg?width=732
     publisher: News4Nation
     caption: 'The woman arrested at Gaya Junction in the reported ganja seizure. Photo: Reporter'
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/bihar/gaya/main-accused-arrested-cannabis-case
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/18/1795013414491/sizes/18gya_72_18112026_18-37e61c-hero.webp
+    publisher: Prabhat Khabar
+    caption: 'The man arrested in Rohtas district over the Gaya Junction ganja consignment, with the railway police team that held him. Photo: Prabhat Khabar Network'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7468bebf678109f62494606834b86c9e
@@ -124,6 +128,15 @@ sources:
     publisher: AIMA Media
     date: 2026-11-15
     language: hi
+  - title: गांजा तस्कर का साथी गिरफ्तार, 6.37 लाख का माल बरामद
+    url: https://www.prabhatkhabar.com/state/bihar/gaya/main-accused-arrested-cannabis-case
+    publisher: Prabhat Khabar
+    date: 2026-11-18
+    language: hi
+open_questions:
+    - This account dates the 12.756 kg recovery to 15 November 2026, while the report gives 14 November from the first coverage.
+    - No charge sheet, detention order or court date was reported for either of the two people arrested.
+    - Police did not say what role they allege the arrested man played beyond receiving the consignment, or whether more arrests are expected.
 ---
 
 A joint RPF and GRP team arrested 22-year-old Chhoti Kumari with 12.756 kg of
@@ -131,7 +144,7 @@ ganja on platform 1 at Gaya Junction on the morning of 14 November 2026. [@1,3,4
 She was travelling in the general coach of the Dhanbad-Shakurbasti Express when
 the team searched her bag after a tip-off about train number 03639. [@1,3,4,5,6,7,8] She was
 identified as the daughter of Gopal Kahar of Sonadih village, Kargahar police
-station area, Rohtas district. [@1,3,5,8,10]
+station area, Rohtas district. [@1,3,5,8,10,14]
 
 She told police she had received the ganja at Sambalpur in Odisha and was
 carrying it to Sasaram in Bihar for money. [@1,3,4,5,6,7,8,9,10,11,12,13] The search of her bag found 12
@@ -145,4 +158,4 @@ seizure, the RPF team handed the seized ganja and the arrested woman to GRP
 police station Gaya. [@1,3,5,6,7,8,9,12] GRP Gaya registered case number 285/26 dated 14
 November 2026 on the written complaint of RPF Sub-Inspector Dhirendra Kumar.
 [@1,3,4,5,8] The case was registered under sections 8/20(b)(ii)B of the NDPS Act, with
-further legal action and investigation to be done by the GRP. [@1,3,7,11]
+further legal action and investigation to be done by the GRP. [@1,3,7,11] Railway DSP Gulshan Kumar said the arrested man was being questioned to establish where the ganja came from and who supplied it, and that investigators were examining the roles of others in the trade. [@14] She told officers she brought the ganja and had it received by the man in Bandhapa village. [@14] Police said they arrested him after questioning the woman, on her identification, during raids on different villages in Rohtas district. [@14] Railway police arrested Rishi Baba, also known as Vimlesh Tiwari, of Bandhapa village in the Akaudhi Gola police-station area of Rohtas district, on Wednesday 18 November 2026. [@14]
