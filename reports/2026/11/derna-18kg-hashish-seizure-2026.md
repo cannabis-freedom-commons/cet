@@ -52,6 +52,11 @@ media:
     media_url: https://www.alaraby.com/sites/default/files/styles/social_large/public/2026-11/6565598.png?h=d0fa991d&itok=dI5KwXhs
     publisher: التلفزيون العربي
     caption: 'The quantity of drugs seized in the Derna operation, in a photo published with the article. Photo: General Administration for Drug Control / Libyan News Agency'
+  - kind: photo
+    url: https://almashhadalaraby.com/amp/593668
+    media_url: https://almashhadalaraby.com/photos/6afd6e5840b32.jpeg
+    publisher: المشهد العربي
+    caption: Quantities of hashish, boxes and clear bags of white pills seized in the Derna operation, in a photo the anti-drugs administration published with its statement and used as the lead image of this account.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7026da21e7b3b5604517fdb70f6f7a84
@@ -102,20 +107,25 @@ sources:
     publisher: التلفزيون العربي
     date: 2026-11-18
     language: ar
+  - title: 'مسؤولون: ضبط كوكايين وملايين الحبوب المخدرة في شرق ليبيا'
+    url: https://almashhadalaraby.com/amp/593668
+    publisher: المشهد العربي
+    date: 2026-11-18
+    language: ar
 ---
 
 The Derna branch of Libya's General Administration for Combating Drugs and
 Psychotropic Substances carried out a security operation south of Gate 200 in
 the city of Derna. [@1,4] The seized drugs were pictured and dated to Tuesday 17
 November 2026 in Derna, in material credited to the anti-drugs administration.
-[@1] Officers seized 18 kilograms of hashish in the operation. [@1,4] Photos published by the administration with its statement showed quantities of hashish alongside boxes and clear bags holding white pills. [@3,5,7,8,9]
+[@1] Officers seized 18 kilograms of hashish in the operation. [@1,4] Photos published by the administration with its statement showed quantities of hashish alongside boxes and clear bags holding white pills. [@3,5,7,8,9,10]
 
 The same haul also included 4,162,682 narcotic pills described as Captagon,
 ecstasy, tramadol and Tamol. [@1,4] Officers also seized 11 kilograms of cocaine
 alongside the hashish and pills, which is not counted in the cannabis figures.
-[@1,4] A Reuters account of the seizure put the haul at more than four million narcotic pills and 29 kilograms of cocaine and hashish together. [@3,5,9] The head of the anti-drugs administration, Maj. Gen. Ahmed Al-Shamikh, gave
+[@1,4] A Reuters account of the seizure put the haul at more than four million narcotic pills and 29 kilograms of cocaine and hashish together. [@3,5,9,10] The head of the anti-drugs administration, Maj. Gen. Ahmed Al-Shamikh, gave
 the same breakdown of 4,162,682 pills plus 18 kilograms of hashish and 11
-kilograms of cocaine in the second account. [@2] The same account quoted the administration's director, Maj. Gen. Ahmed Al-Shamikh, saying in a video statement released late on 17 November that the authorities would not be lenient with anyone who sought to tamper with the security of young Libyans or the country's future. [@3,5,6,7,8] The first account said the
+kilograms of cocaine in the second account. [@2] The same account quoted the administration's director, Maj. Gen. Ahmed Al-Shamikh, saying in a video statement released late on 17 November that the authorities would not be lenient with anyone who sought to tamper with the security of young Libyans or the country's future. [@3,5,6,7,8,10] The first account said the
 operation implemented instructions from the administration's director to
 intensify anti-drug efforts and pursue dealers and promoters. [@1] The second
 account instead described the operation as implementing instructions from the
@@ -124,4 +134,4 @@ redouble efforts against drugs and pursue their traders and promoters. [@2]
 
 The seized materials were sealed as evidence and the necessary legal measures
 were taken. [@1,4] Inquiries were continuing under Public Prosecution supervision
-to identify the members of the gang involved. [@1,4] The authorities were questioning the detained network members to establish its foreign links and who was behind its financing. [@6] The administration's statement also said members of the criminal network had been detained in the city. [@3,5,6,7,8,9]
+to identify the members of the gang involved. [@1,4] The authorities were questioning the detained network members to establish its foreign links and who was behind its financing. [@6] The administration's statement also said members of the criminal network had been detained in the city. [@3,5,6,7,8,9,10]
