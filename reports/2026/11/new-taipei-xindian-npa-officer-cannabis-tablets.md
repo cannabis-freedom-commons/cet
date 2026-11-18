@@ -78,9 +78,21 @@ sources:
     publisher: MSN (ETtoday新聞雲)
     date: 2026-11-18
     language: zh
+  - title: 獨／警政署警官玩很大! 2男摩鐵開房...大麻+K他命+卡西酮3毒助興
+    url: https://www.msn.com/zh-tw/news/other/%E7%8D%A8-%E8%AD%A6%E6%94%BF%E7%BD%B2%E8%AD%A6%E5%AE%98%E7%8E%A9%E5%BE%88%E5%A4%A7-2%E7%94%B7%E6%91%A9%E9%90%B5%E9%96%8B%E6%88%BF%E5%A4%A7%E9%BA%BB-k%E4%BB%96%E5%91%BD-%E5%8D%A1%E8%A5%BF%E9%85%AE3%E6%AF%92%E5%8A%A9%E8%88%88/ar-AA2hGtBv
+    publisher: ETtoday新聞雲 (via MSN)
+    date: 2026-11-18
+    language: zh
+  - title: 警政署又爆警官持毒！ 資訊室技正摩鐵遭逮 火速記兩大過免職
+    url: https://news.ltn.com.tw/news/Taipei/breakingnews/5645188
+    publisher: 自由時報
+    date: 2026-11-18
+    language: zh
 open_questions:
-    - No weight or quantity for the cannabis tablets seized from the motel room was published.
+    - The drugs seized — cannabis tablets, ketamine and cathinone powder — were reported together as weighing more than 10 grams, with no separate weight for the cannabis tablets.
     - Accounts differ on whether Kuo reported the incident to the National Police Agency's information office or to its inspectorate after the arrest.
+    - The motel inspection is timed at about 10 p.m. in some accounts and at about 11 p.m. in ETtoday's long-form account.
+    - Kuo's age is given as 46 in some accounts and as 45 in ETtoday's long-form account.
 ---
 
 Kuo Wen-cheng, 46, a technical specialist in the National Police Agency's
@@ -88,23 +100,23 @@ information office, was arrested on the night of 13 November 2026 in a motel in
 Xindian District, New Taipei City. [@1,7] Xindian Precinct officers were carrying
 out an expanded inspection during the nationwide anti-gang sweep when they
 entered his room at about 10 p.m. and found him holding cannabis tablets, a
-category 2 drug. [@1,7] Kuo admitted using cannabis when officers found him with it in the motel room. [@8] He was at a party at a motel on Baoqiao Road and other men
+category 2 drug. [@1,7] The inspection was carried out by officers from the precinct's Jiangling police station (江陵所), who were checking a motel on Baoqiao Road late that night. [@9] Kuo admitted using cannabis when officers found him with it in the motel room. [@8] He was at a party at a motel on Baoqiao Road and other men
 were in the room. [@1,7] Police took Kuo and a male friend back for questioning.
-[@6] Kuo had previously served in the agency's traffic section and its
+[@6,9] Kuo had previously served in the agency's traffic section and its
 inspectorate and was transferred to the information office this year. [@1,7]
 
 Officers seized cannabis tablets, listed as a category 2 drug, and ketamine, a
-category 3 drug, and arrested him. [@2] FTNN reported that the cannabis was in
-pills containing cannabis, found with ketamine and cathinone. [@6] China Times
+category 3 drug, and arrested him. [@2] Officers found several suspected drug powders and tablets on the two men, and field tests reacted for cannabis, cathinone and ketamine. [@9] FTNN reported that the cannabis was in
+pills containing cannabis, found with ketamine and cathinone. [@6] The cannabis tablets, ketamine and cathinone powder together weighed more than 10 grams. [@9] China Times
 reported that Kuo and a friend were found with cannabis, ketamine and cathinone.
 [@4] The officers did not recognise him as a senior officer at the time; he
 later went to the agency's inspectorate and admitted his involvement, which is
-how the case became public. [@5] The case was sent to the Taipei District
-Prosecutors Office under the Narcotics Hazard Prevention Act. [@2] Prosecutors
+how the case became public. [@5,10] The case was sent to the Taipei District
+Prosecutors Office under the Narcotics Hazard Prevention Act. [@2] Kuo was taken to the Taipei District Prosecutors Office for questioning in the early hours of 14 November. [@9] Prosecutors
 released him on NT$30,000 bail after questioning. [@4]
 
 The agency held an emergency personnel review on 14 November and dismissed Kuo
-with two major demerits. [@2,8] It said supervisors would also be held accountable
+with two major demerits. [@2,8,9] It said supervisors would also be held accountable
 for inadequate assessment and oversight. [@1,7,8] ETtoday reported that it was the
 second drug case involving a mid-ranking or senior National Police Agency
 officer this year. [@3]
