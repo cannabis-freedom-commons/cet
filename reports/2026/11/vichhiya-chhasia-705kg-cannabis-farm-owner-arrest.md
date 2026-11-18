@@ -68,12 +68,18 @@ sources:
     publisher: ETV Bharat
     date: 2026-11-18
     language: gu
+  - title: 'Rajkot News: રાજકોટમાં 3.52 કરોડનો ગાંજો ઝડપાયો, વાડીમાં જ ચાલતું હતું નશાનું સામ્રાજ્ય'
+    url: https://www.gujaratfirst.com/rajkot/rajkot-rural-sog-seizes-705-kg-ganja-worth-3-52-crore-vinchiya/354104/
+    publisher: Gujarat First
+    date: 2026-11-18
+    language: gu
 open_questions:
     - The exact date of the raid was not reported; 18 November 2026 is the publication date of the reports and is used as the incident date.
     - Accounts give slightly different weights, from 705.409 kg to 705.490 kg, and the value of 3.52 crore rupees is a police estimate; no laboratory confirmation was reported.
     - No count of individual cannabis plants was published.
     - No charge sheet, trial or court outcome was reported; the case remained under investigation.
     - Police had not established how long the cultivation had run, where the seed came from or who the cannabis was meant for.
+    - Gujarat First places the farm in "Zarda village" of Vinchiya taluka, while other accounts place it in the Zarda area on the edge of Chhasia village; the report uses Chhasia village.
 media:
   - kind: photo
     url: https://www.etvbharat.com/gu/state/rajkot-705-kg-of-cannabis-worth-rs-3-dot-52-crore-seized-from-a-farm-in-vinchhiya-gjs26111804697
@@ -84,12 +90,12 @@ media:
 
 Rajkot Special Operation Group officers raided a field in Chhasia village,
 Vinchiya taluka, Rajkot district, and seized about 705 kilograms of green
-cannabis plants. [@1,2,3,4] The cannabis plants had been left along the edge of the field to dry, police said. [@3,5] The cannabis plants had been grown among pigeon pea and maize in the same field, according to the police account. [@5] One person was arrested in connection with the
-cultivation. [@1,2,3,4] The arrested man was the owner of the field, Savshibhai Bachubhai Mithapara, aged 55. [@3,5]
+cannabis plants. [@1,2,3,4,6] The cannabis plants had been left along the edge of the field to dry, police said. [@3,5] The cannabis plants had been grown among pigeon pea and maize in the same field, according to the police account. [@5] One person was arrested in connection with the
+cultivation. [@1,2,3,4,6] The arrested man was the owner of the field, Savshibhai Bachubhai Mithapara, aged 55. [@3,5]
 
-The seized cannabis was estimated to be worth 3.52 crore rupees. [@1,2,3,5] Police
+The seized cannabis was estimated to be worth 3.52 crore rupees. [@1,2,3,5,6] Police
 acted against the accused under the Narcotic Drugs and Psychotropic Substances
-(NDPS) Act. [@1,2,3,5] The search was carried out under the guidance of the Rajkot Range inspector general of police and the district police chief. [@3]
+(NDPS) Act. [@1,2,3,5,6] The search was carried out under the guidance of the Rajkot Range inspector general of police and the district police chief. [@3]
 
 Investigators were examining whether a wider network was involved in the illegal
 cultivation. [@1,2,3,5]
