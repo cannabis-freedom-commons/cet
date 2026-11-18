@@ -46,31 +46,35 @@ sources:
     publisher: Arminfo
     date: 2026-09-08
     language: ru
+  - title: В Армении арестованы три человека, пытавшиеся сбыть 5 кг наркотиков
+    url: https://news.am/ru/news/1060237
+    publisher: NEWS.am
+    date: 2026-09-08
+    language: ru
 open_questions:
-  - The article gives no separate date for the smuggling or the stash detention, so 8 September 2026 is the publication and report date used as the incident date.
-  - The reported quantity is approximate at about 5 kg, so the recorded 5 kg is an approximate figure.
-  - The precise location of the drug stash was not named beyond the Yerevan detention, so Yerevan is used as the place.
-  - The identity, nationality and procedural status of the foreign citizen alleged to have smuggled the marijuana were not reported.
-  - No value, packaging count beyond parcels, or names or ages of the three detainees were published.
-  - Only one accessible source for this event was found after searching in Russian and English.
-  - A similar Armenia case over a Telegram-linked 5 kg marijuana pickup involved two suspects and an indictment completed on 21 August 2026 and is treated as a different event left out of this report.
+    - The article gives no separate date for the smuggling or the stash detention, so 8 September 2026 is the publication and report date used as the incident date.
+    - The reported quantity is approximate at about 5 kg, so the recorded 5 kg is an approximate figure.
+    - The precise location of the drug stash was not named beyond the Yerevan detention, so Yerevan is used as the place.
+    - The identity, nationality and procedural status of the foreign citizen alleged to have smuggled the marijuana were not reported.
+    - No value, packaging count beyond parcels, or names or ages of the three detainees were published.
+    - A similar Armenia case over a Telegram-linked 5 kg marijuana pickup involved two suspects and an indictment completed on 21 August 2026 and is treated as a different event left out of this report.
 ---
 
 Three residents of Yerevan were detained at the moment they collected parcels
-from a drug stash. [@1,2] Investigators working jointly with police officers had
-established the location of the hidden drugs before the detention. [@1,2] All
+from a drug stash. [@1,2,3] Investigators working jointly with police officers had
+established the location of the hidden drugs before the detention. [@1,2,3] All
 three detainees were placed under arrest, and the preliminary investigation is
-continuing. [@1,2] The detention was reported from Yerevan on 8 September. [@1]
+continuing. [@1,2,3] The detention was reported from Yerevan on 8 September. [@1]
 
 The case concerns about 5 kg of marijuana that, according to investigators, a
-foreign citizen smuggled into Armenia. [@1,2] The Investigative Committee
+foreign citizen smuggled into Armenia. [@1,2,3] The Investigative Committee
 described the consignment as marijuana in an especially large amount. [@1] The
 three face public criminal prosecution under point 2 of part 3 of Article 393 of
-Armenia's Criminal Code. [@1,2] That provision covers unlawful trafficking of
+Armenia's Criminal Code. [@1,2,3] That provision covers unlawful trafficking of
 narcotics in an especially large amount for sale or attempted unlawful sale.
-[@1,2]
+[@1,2,3]
 
 The account was issued through the press service of the republic's Investigative
-Committee. [@1] The account carries the standard notice that a suspect is
+Committee. [@1,3] The account carries the standard notice that a suspect is
 presumed innocent until guilt is proved by a final court judgment under
 Armenia's criminal-procedure rules. [@1]
