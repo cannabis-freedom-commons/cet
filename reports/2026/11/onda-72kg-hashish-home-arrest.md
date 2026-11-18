@@ -67,25 +67,23 @@ sources:
     publisher: Europa Press
     date: 2026-11-18
     language: es
-open_questions:
-  - No date was published for the search or the arrest; 18 November 2026, the date of the Guardia Civil statement and of publication, is used as the incident date.
-  - The 72 kilograms are described as hashish; no laboratory confirmation or count of packages was published.
-  - No street value for the 72 kilograms was published.
-  - The suspect's name or initials were not released, and no plea or trial date was reported.
-  - The outlets reproduce the same Guardia Civil statement, so their accounts are not independent reporting.
+  - title: A prisión un detenido con 72 kilos de hachís en Onda
+    url: https://www.castelloninformacion.com/detenido-hombre-49-anos-onda-tras-intervenir-guardia-civil-72-kilos-hachis-vivienda/
+    publisher: Castellon Información
+    date: 2026-11-18
+    language: es
 ---
 
 Guardia Civil officers arrested a 49-year-old man in Onda, in the province of
-Castellón, on suspicion of a crime against public health. [@1] The arrest
+Castellón, on suspicion of a crime against public health. [@1,4] The arrest
 followed a search of a home in the town where officers found 72 kilograms of
-hashish. [@2]
+hashish. [@2,4]
 
 During the search officers also seized 4,400 euros in cash, several mobile
-phones and two vehicles. [@1] The operation was carried out by the Guardia
+phones and two vehicles. [@1,4] The operation was carried out by the Guardia
 Civil's Onda unit within its investigations into drug trafficking. [@1] The
-force said the hashish was believed to be intended for distribution. [@1]
+force said the hashish was believed to be intended for distribution. [@1,4]
 
 The man was brought before the civil and investigation section of the Tribunal
 de Instancia of Nules, court number 5. [@3] The court ordered him held in
-provisional prison while the case is investigated. [@2]
-
+provisional prison while the case is investigated. [@2,4]
