@@ -54,6 +54,11 @@ sources:
     publisher: قناة الرشيد الفضائية (Alrasheed Media)
     date: 2026-11-17
     language: ar
+  - title: الاطاحة بـ6 متهمين وضبط كميات من المواد المخدرة في بغداد
+    url: https://www.alsumaria.tv/news/localnews/581587/%D8%A7%D9%84%D8%A7%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D9%806-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%88%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF
+    publisher: السومرية نيوز (Alsumaria News)
+    date: 2026-11-17
+    language: ar
 open_questions:
     - The statement names no neighbourhood or premises in Karkh where either operation took place.
     - No charges, detention order or court outcome were reported for the six suspects.
@@ -63,9 +68,9 @@ open_questions:
 
 Iraq's General Directorate for Drug Affairs said detachments of its Karkh Drug
 Affairs Directorate carried out two separate security operations in Baghdad on
-Tuesday, 17 November 2026. [@1,3,4] The General Directorate said the first operation
+Tuesday, 17 November 2026. [@1,3,4,5] The General Directorate said the first operation
 led to the arrest of four suspects and the seizure of 1 kilogram and 350 grams
-of marijuana, along with tools used for consumption. [@1,3,4] In a second operation, detachments seized 5,280 capsules of Lyrica and arrested two suspects; that psychotropic seizure is not counted in the cannabis figures here. [@4] A statement from the
+of marijuana, along with tools used for consumption. [@1,3,4,5] In a second operation, detachments seized 5,280 capsules of Lyrica and arrested two suspects; that psychotropic seizure is not counted in the cannabis figures here. [@4,5] A statement from the
 Karkh Police Command quoted by 964media gave the same figures for the marijuana
 operation and the four arrests. [@2]
 
