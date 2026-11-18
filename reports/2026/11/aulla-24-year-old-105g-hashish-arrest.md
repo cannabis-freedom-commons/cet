@@ -63,26 +63,35 @@ sources:
     publisher: Città della Spezia
     date: 2026-11-18
     language: it
+  - title: 'MASSA: AULLA, ARRESTATO 24ENNE PER DROGA, SEQUESTRATI COCAINA E HASHISH'
+    url: https://www.carabinieri.it/in-vostro-aiuto/informazioni/news/2026/11/18/new0-20261118094500-1913775
+    publisher: Arma dei Carabinieri
+    date: 2026-11-18
+    language: it
+  - title: Vede Cc e fugge, arrestato con hashish e 22 dosi di cocaina ad Aulla
+    url: https://www.ansa.it/amp/toscana/notizie/2026/11/18/vede-cc-e-fugge-arrestato-con-hashish-e-22-dosi-di-cocaina-ad-aulla_56cf094c-bf30-45d4-bdd2-7b885f73e29b.html
+    publisher: ANSA
+    date: 2026-11-18
+    language: it
 open_questions:
     - The article reports a combined figure of more than 120 grams of drugs, which includes the cocaine; only the hashish weight is counted as cannabis here.
     - The hashish weights are given as approximate (about 98 grams and seven grams at the home), and no value estimate was published.
     - The man's name was not released; only his age and Moroccan nationality were reported.
     - No trial date, plea or outcome of the giudizio direttissimo has been reported; only the validation of the arrest is known.
-    - The arrest date is given as 8 November 2026 in earlier reports, while Città della Spezia says only that it happened 'nei giorni scorsi' (in recent days) before its 18 November 2026 publication.
 ---
 
 Carabinieri from the Aulla station arrested a 24-year-old Moroccan man in the
-town on 8 November 2026 on suspicion of possessing drugs for sale. [@1,3] He
+town on 8 November 2026 on suspicion of possessing drugs for sale. [@1,3,4] He
 abandoned his motorcycle and ran off on foot when the officers approached to
-check it, and a second patrol surrounded and stopped him. [@1,2]
+check it, and a second patrol surrounded and stopped him. [@1,2,5]
 
 A search of the man and the motorcycle found about 15 grams of cocaine already
-divided into 22 doses, a quantity excluded from the cannabis figures. [@1,2,3] About
+divided into 22 doses, a quantity excluded from the cannabis figures. [@1,2,3,5] About
 98 grams of hashish and packaging material were hidden in the storage
 compartment under the motorcycle's seat, and a search of his home found another
-seven grams of hashish. [@1,2,3]
+seven grams of hashish. [@1,2,3,5]
 
 A judge at the court of Massa validated the arrest and ordered the 24-year-old
-released while he awaits trial. [@1,2,3] The case proceeded by giudizio direttissimo, Italy's expedited direct-trial procedure. [@3] The operation was part of checks organised
+released while he awaits trial. [@1,2,3,5] The case proceeded by giudizio direttissimo, Italy's expedited direct-trial procedure. [@3] The operation was part of checks organised
 by the Carabinieri company of Pontremoli against drug dealing and petty crime in
 the main centres of the Lunigiana. [@1,2]
