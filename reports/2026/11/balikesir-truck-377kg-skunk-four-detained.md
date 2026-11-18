@@ -41,6 +41,11 @@ media:
     media_url: https://www.mersinhaber.com/cropp/1200x675/Depo/haber/852980/org/852980.webp
     publisher: Mersin Haber
     caption: Bales of seized narcotics laid out in front of a Balıkesir police board with a narcotics dog, in the photo published with the report of the 377 kg 200 g seizure. No photo credit given.
+  - kind: video
+    url: https://www.haberler.com/3-sayfa/balikesir-de-durdurulan-kamyonette-377-kilo-200-20439670-haberi/
+    media_url: https://izle.haberler.com/2026/11/18/balikesir-de-durdurulan-kamyonette-377-kilo-2-5470-20439670.mp4
+    publisher: Haberler.com / İhlas Haber Ajansı
+    caption: News video published with the İhlas Haber Ajansı report of the 377 kg 200 g skunk seizure from a stopped pickup truck in Balıkesir.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: e82d6336715e38a11ce8ac0d3ddbdeb3
@@ -71,6 +76,11 @@ sources:
     publisher: Hürriyet
     date: 2026-11-18
     language: tr
+  - title: Balıkesir'de durdurulan kamyonette 377 kilo 200 gram skunk ele geçirildi
+    url: https://www.haberler.com/3-sayfa/balikesir-de-durdurulan-kamyonette-377-kilo-200-20439670-haberi/
+    publisher: Haberler.com
+    date: 2026-11-18
+    language: tr
 open_questions:
   - The reports place the stop only in the Balıkesir city centre (il merkezi) and give no street, neighbourhood or time of day.
   - Whether the four were released, remanded or charged after police custody, and any later court decision, were not reported.
@@ -81,11 +91,11 @@ open_questions:
 ---
 
 Balıkesir provincial police narcotics branch teams stopped and searched a pickup
-truck in the Balıkesir city centre on 18 November 2026. [@1,4,5] Four suspects were
-detained on suspicion of manufacturing and trading narcotic substances. [@1,4,5]
+truck in the Balıkesir city centre on 18 November 2026. [@1,4,5,6] Four suspects were
+detained on suspicion of manufacturing and trading narcotic substances. [@1,4,5,6]
 
-Officers found 377 kilograms 200 grams of skunk, or esrar, in the vehicle. [@1,4,5]
-The search was carried out with the narcotics detection dog YAŞA. [@2,4] The
+Officers found 377 kilograms 200 grams of skunk, or esrar, in the vehicle. [@1,4,5,6]
+The search was carried out with the narcotics detection dog YAŞA. [@2,4,6] The
 cannabis was found in the truck's cargo bed, which officers searched with the
 dog Yaşa. [@3]
 
