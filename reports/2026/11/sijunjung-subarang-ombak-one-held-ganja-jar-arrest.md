@@ -46,38 +46,48 @@ sources:
     publisher: Integritas Media
     date: 2026-11-16
     language: id
-open_questions:
-    - No weight was published for the suspected ganja in the jar, so no cannabis quantity is recorded.
-    - The material was described only as suspected ganja; no laboratory confirmation was reported.
-    - No plea, detention measure or court outcome was reported; the case stood at investigation.
-    - The accounts rest on outlets citing the Sijunjung police statement, with no independent second source opened.
+  - title: Laporan Warga Berujung Penangkapan Pemuda Pembawa Ganja di Sijunjung
+    url: https://rri.co.id/padang/hukum/hukum/2904097/laporan-warga-berujung-penangkapan-pemuda-pembawa-ganja-di-sijunjung
+    publisher: RRI.co.id
+    date: 2026-11-18
+    language: id
 media:
   - kind: photo
     url: https://www.integritasmedia.com/2026/11/mahasiswa-asal-padang-panjang-ditangkap.html
     media_url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOmMs5gGf4X3k8erBaZpip0_DFaLHGggPB8DRwRBBlPlb8FVOHrOvqlbFbcMAgWePPjH6NghdhzxmqiJb_SjNo35ghcLtZgzXw66yc9eJPcolQLRX2mjVZ-V7HahCLF3lK4vmjsygGWKV2hxyDnGLhoI8_KO0dh5EyaD1hEwXsowKbCTjb27yor00IfF2/s320-rw/20261117_143026.jpg
     publisher: Integritas Media
     caption: 'Suspect FA with an inset of public-relations chief AKP Syafrinaldi. Photo: Humas Polres Sijunjung'
+  - kind: photo
+    url: https://rri.co.id/padang/hukum/hukum/2904097/laporan-warga-berujung-penangkapan-pemuda-pembawa-ganja-di-sijunjung
+    media_url: https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/padang/thumbs/full_file_6afc63adafc188.81788004.webp
+    publisher: RRI.co.id
+    caption: 'The suspect secured at Sijunjung police headquarters on 16 November 2026. Photo: Polres Sijunjung'
+  - kind: video
+    url: https://rri.co.id/padang/hukum/hukum/2904097/laporan-warga-berujung-penangkapan-pemuda-pembawa-ganja-di-sijunjung
+    media_url: https://gnetwork.b-cdn.net/studio_backend/rri_hukum_uploader/rri_hukum_uploader-1794964666.905153.mp4?token=KdEkb32kSmF8aOmmE-VDTAHwA5Fq3QDXrD2z1xJsktw&expires=1794983549
+    publisher: RRI.co.id
+    caption: RRI news video published with the report on the Sijunjung ganja arrest.
 ---
 
 Sijunjung district narcotics investigators arrested a 22-year-old man identified
 by the initials FA, called Faris, at a hut in Jorong Subarang Ombak, Nagari
-Muaro, Sijunjung, on 16 November 2026 at about 08.00 WIB. [@1,2] The man was a resident of Padang Panjang City and was a student. [@2] Officers said the
+Muaro, Sijunjung, on 16 November 2026 at about 08.00 WIB. [@1,2,3] The man was a resident of Padang Panjang City and was a student. [@2] Officers said the
 case began with a community tip received at about 07.30 WIB that a man was
 conducting a suspected ganja transaction at the location. [@1,2] They followed up
 by going to the scene, found a man matching the description from the tip, and
-secured him. [@1]
+secured him. [@1,3]
 
 When questioned, the man admitted keeping a Sosis-brand jar suspected to contain
 ganja, a pack of white cigarette papers and a black Vivo Y50 mobile phone inside
 a grey bag. [@1,2] Officers then searched his body, clothing and belongings in
 front of the hamlet head, Linmas members and local residents, and recovered the
-items he had admitted owning. [@1] The seized evidence was listed as the grey
+items he had admitted owning. [@1,3] The seized evidence was listed as the grey
 bag, the Sosis jar of suspected ganja, the cigarette papers and the black Vivo
 Y50 phone. [@1]
 
 The suspect and all the evidence were taken to Sijunjung police headquarters for
-investigation and further examination. [@1] Police applied Article 114 paragraph
+investigation and further examination. [@1,3] Police applied Article 114 paragraph
 (1) in conjunction with Article 111 paragraph (1) of the 2009 Narcotics Law, in
-conjunction with the 2026 Criminal Penalty Adjustment Law. [@1] Sijunjung police
+conjunction with the 2026 Criminal Penalty Adjustment Law. [@1,3] Sijunjung police
 chief AKBP Willian Harbensyah confirmed the case through Polres Sijunjung
 public-relations chief AKP Syafrinaldi. [@1]
