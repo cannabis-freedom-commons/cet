@@ -57,6 +57,11 @@ sources:
     publisher: Start News
     date: 2026-11-18
     language: id
+  - title: Polres Padangsidimpuan tangkap empat terduga pengedar ganja, sita 374 gram barang bukti - ANTARA News Sumatera Utara
+    url: https://sumut.antaranews.com/berita/677819/polres-padangsidimpuan-tangkap-empat-terduga-pengedar-ganja-sita-374-gram-barang-bukti
+    publisher: ANTARA News Sumatera Utara
+    date: 2026-11-18
+    language: id
 open_questions:
   - 'Accounts differ on the total weight: ANTARA and Signal24 reported 374.45 grams, while StartNews reported 372.54 grams, which equals the sum of the four separately listed amounts (53.69, 27.76, 291.03 and 0.06 grams); the report uses 374.45 grams.'
   - ANTARA was published on 18 November 2026 and tied the narcotics chief's statement to that date, while Signal24 and StartNews date the arrests to 17 November 2026, which is used as the incident date.
@@ -67,29 +72,28 @@ open_questions:
 ---
 
 Padangsidimpuan's narcotics investigation unit arrested four men suspected of
-dealing ganja at three locations in the city. [@1] The arrests were made on
+dealing ganja at three locations in the city. [@1,4] The arrests were made on
 Tuesday 17 November 2026. [@2] The four were identified as IMS (51), HS (35),
 IAS (37) and INS (53). [@2] Police said three of them, HS, IAS and INS, were
-repeat offenders. [@1]
+repeat offenders. [@1,4]
 
 The case began with a public tip about a suspected ganja transaction in a cocoa
 plantation in Desa Partihaman Saroha, Kelurahan Sirappak, Padangsidimpuan
 Hutaimbaru. [@2] Around 11:00 WIB officers arrested IMS in the plantation with
 53.69 grams of ganja in a red plastic bag and a white Oppo phone. [@2] Under
-initial questioning IMS said he obtained the ganja from HS. [@1] Police arrested
+initial questioning IMS said he obtained the ganja from HS. [@1,4] Police arrested
 HS around 12:00 WIB in Desa Partihaman Saroha and seized 27.76 grams from him,
 along with a phone and a trail motorcycle without a number plate. [@2] The
 investigation then led to the house of IAS in Kelurahan Losung Batu,
-Padangsidimpuan Utara, where officers secured IAS and INS around 14:00 WIB. [@1]
+Padangsidimpuan Utara, where officers secured IAS and INS around 14:00 WIB. [@1,4]
 At that house police found 291.03 grams of ganja in a black plastic bag in the
 kitchen and a 0.06-gram packet in front of INS, together with phones, a black
 bag and a scale. [@2]
 
-Police gave the total weight of the seized ganja as 374.45 grams. [@1] Another
+Police gave the total weight of the seized ganja as 374.45 grams. [@1,4] Another
 account reported the seized total as 372.54 grams. [@3] Narcotics chief AKP Juli
 Purwono said the arrests followed a public tip and came over about three hours.
 [@3] All four suspects and the seized evidence were taken to the Padangsidimpuan
-police station for further legal processing. [@1] Purwono urged residents to
+police station for further legal processing. [@1,4] Purwono urged residents to
 report suspected drug activity at a nearby police station or through the 110
-call centre. [@1]
-
+call centre. [@1,4]
