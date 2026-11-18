@@ -65,6 +65,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-18
     language: hi
+  - title: 'CG: 22 किलोग्राम गांजा तस्करी में तीन दोषियों को 20-20 साल की सजा, छह लाख रुपये का आर्थिक जुर्माना भी'
+    url: https://raigarhtopnews.com/three-convicts-sentenced-to-20-years-each-for-smuggling/
+    publisher: raigarhtopnews.com
+    date: 2026-11-18
+    language: hi
 open_questions:
     - No forensic laboratory confirmation of the seized ganja was reported.
     - No appeal or further court outcome was reported.
@@ -73,19 +78,19 @@ open_questions:
 
 The special NDPS court in Raipur sentenced three accused to 20 years of rigorous
 imprisonment each in a 22 kg ganja smuggling case from the Fingeshwar police
-station area of Gariaband district. [@1,2] Special Judge Shailesh Sharma delivered
+station area of Gariaband district. [@1,2,4] Special Judge Shailesh Sharma delivered
 the verdict on 17 November 2026. [@1,3] The court also fined each of the three
 200,000 rupees, with six additional months of rigorous imprisonment if the fine
-is not paid. [@1,2] Four people had been made accused in the case, of whom Bisesar
-Singh has died and the remaining three were convicted. [@1,2] Bisesar Singh died while the case was on trial. [@2] The three convicted
+is not paid. [@1,2,4] Four people had been made accused in the case, of whom Bisesar
+Singh has died and the remaining three were convicted. [@1,2,4] Bisesar Singh died while the case was on trial. [@2] The three convicted
 are Santosh Suna (30), Aniket Shinde (27) and Palash alias Bunty Patil (24).
-[@1,2] Suna is a resident of Balangir district in Odisha, while Shinde and Patil
-are residents of Maharashtra. [@1,3]
+[@1,2,4] Suna is a resident of Balangir district in Odisha, while Shinde and Patil
+are residents of Maharashtra. [@1,3,4]
 
 According to the verdict, police stopped a four-wheeler carrying four people at
 about 5:40 pm on 9 January 2025 at Gram Sorid Mod on the Jogi Dabri main road.
 [@1,3] The four occupants were identified as Santosh Suna, Bisesar Singh, Palash
-alias Bunty Patil and Aniket Shinde. [@1,2] A search of the vehicle recovered
+alias Bunty Patil and Aniket Shinde. [@1,2,4] A search of the vehicle recovered
 ganja in four sacks weighing 22 kg in total, with 6 kg, 5 kg, 6 kg and 5 kg
 attributed to Suna, Singh, Patil and Shinde respectively. [@1,2] Police seized the
 ganja, the vehicle and the accused's mobile phones, and registered the case at
@@ -93,6 +98,6 @@ Fingeshwar police station as crime number 12/2025 under section 20(b)(ii)(C) of
 the NDPS Act. [@1,3]
 
 The court issued sentence warrants against the three and ordered that they be
-sent to Central Jail Raipur. [@1,2] The court ordered that the period the accused
+sent to Central Jail Raipur. [@1,2,4] The court ordered that the period the accused
 spent in judicial custody from 10 January 2025 to 17 November 2026 be set off
-against their sentences. [@1,2]
+against their sentences. [@1,2,4]
