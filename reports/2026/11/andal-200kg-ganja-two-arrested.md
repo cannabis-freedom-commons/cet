@@ -48,20 +48,25 @@ sources:
     publisher: Bengal Mirror
     date: 2026-11-17
     language: bn
+  - title: Andal में 200 KG गांजा जब्त, Police ने दो तस्करों को किया गिरफ्तार
+    url: https://www.hindusthanpost.com/special/200-kg-of-ganja-seized-in-andal-two-smugglers-arrested-by-police/
+    publisher: Hindusthan Post
+    date: 2026-11-17
+    language: hi
 ---
 
 Acting on a tip-off, a Detective Department team of the Asansol-Durgapur Police
 Commissionerate ran a search operation in the Andal police-station area on
-Monday night. [@1,2] Acting on the tip-off, the team raided Baktarnagar Road in
-the Top Line area and stopped a pickup van. [@1,2] Two people were detained during
-the operation. [@1] The two detainees were subsequently arrested. [@1,2]
+Monday night. [@1,2,3] Acting on the tip-off, the team raided Baktarnagar Road in
+the Top Line area and stopped a pickup van. [@1,2,3] Two people were detained during
+the operation. [@1] The two detainees were subsequently arrested. [@1,2,3]
 
-Officers recovered and seized about 200 kilograms of ganja from them. [@1,2]
+Officers recovered and seized about 200 kilograms of ganja from them. [@1,2,3]
 Officers also seized a Bolero pickup van, some cash and three mobile phones.
-[@1,2] The preliminary inquiry suggests the ganja had been brought from Odisha.
-[@1,2] It was being transported for supply to Asansol and other areas. [@1,2]
+[@1,2,3] The preliminary inquiry suggests the ganja had been brought from Odisha.
+[@1,2,3] It was being transported for supply to Asansol and other areas. [@1,2,3]
 
-A case has been registered over the ganja recovery. [@1,2] Further investigation
+A case has been registered over the ganja recovery. [@1,2,3] Further investigation
 is continuing to identify the larger trafficking gang behind the consignment and
 others involved in it. [@1] The Asansol-Durgapur Police Commissionerate said its
 drive against narcotics smuggling and the illegal drug trade will continue in
