@@ -51,6 +51,16 @@ media:
     media_url: https://www.thewhig.com/wp-content/uploads/sites/5/2026/11/1119-ki-cannabis.jpg?resize=1200,800
     publisher: Kingston Whig-Standard
     caption: 'A truck loaded with cannabis at the Tyendinaga Township grow operation, in a photograph supplied by the OPP. Photo: Ontario Provincial Police'
+  - kind: photo
+    url: https://www.mybancroftnow.com/75223/news/municipal-news/hastings-county/two-face-charges-after-850k-cannabis-bust-last-month/
+    media_url: https://i0.wp.com/www.mybancroftnow.com/wp-content/uploads/2026/11/Illegal-Cannabis-e1795018610310.jpg?w=1392&quality=89&ssl=1
+    publisher: My Bancroft Now
+    caption: 'OPP handout photograph published with the report on the dismantled Tyendinaga Township grow operation, captioned only ''(Photo submitted by OPP)''. Photo: Ontario Provincial Police'
+  - kind: photo
+    url: https://www.mybancroftnow.com/75223/news/municipal-news/hastings-county/two-face-charges-after-850k-cannabis-bust-last-month/
+    media_url: https://i0.wp.com/www.mybancroftnow.com/wp-content/uploads/2026/11/Aerial-View.jpg?resize=696%2C522&quality=89&ssl=1
+    publisher: My Bancroft Now
+    caption: 'Aerial photograph published as an OPP handout with the report on the dismantled Tyendinaga Township grow operation. Photo: Ontario Provincial Police'
 status: reported
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: a2684cb9fe7c13780cbccadf9c0cfe92
@@ -64,34 +74,38 @@ sources:
     url: https://www.quintenews.com/2026/11/18/illegal-cannabis-production-site-seized/
     publisher: Quinte News
     date: 2026-11-18
+  - title: Two face charges after major grow-op dismantled in Tyendinaga
+    url: https://www.mybancroftnow.com/75223/news/municipal-news/hastings-county/two-face-charges-after-850k-cannabis-bust-last-month/
+    publisher: My Bancroft Now
+    date: 2026-11-18
 open_questions:
-  - The 29 October 2026 search warrant is the incident date; 18 November 2026 is when the OPP announced the charges.
-  - The 125 cannabis clones are reported separately and are not included in the 900 plants figure.
-  - Police reported 190 kilograms of cannabis and 215 kilograms of cannabis shake separately; the weight figure records the 190 kilograms and the shake is recorded as a separate product.
-  - The $850,000 is the OPP's estimated street value, not a price paid.
-  - No day in January is given for the first court appearance, and no plea or outcome was reported.
-  - Whether the plants were grown indoors or outdoors, the number of buildings on the property and the size of the site were not reported.
-  - Both outlets reproduce the same OPP statement, so there is no independent account of the search or the quantities.
-  - Illegal cannabis production site seized (Quinte News) could not be opened again to check its quotations (The browser page answered HTTP 403.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
+    - The 29 October 2026 search warrant is the incident date; 18 November 2026 is when the OPP announced the charges.
+    - The 125 cannabis clones are reported separately and are not included in the 900 plants figure.
+    - Police reported 190 kilograms of cannabis and 215 kilograms of cannabis shake separately; the weight figure records the 190 kilograms and the shake is recorded as a separate product.
+    - The $850,000 is the OPP's estimated street value, not a price paid.
+    - No day in January is given for the first court appearance, and no plea or outcome was reported.
+    - Whether the plants were grown indoors or outdoors, the number of buildings on the property and the size of the site were not reported.
+    - The outlets carry the same OPP statement, so there is no independent account of the search or the quantities.
+    - One account gives the second accused's age as 64, while another gives the two residents' ages as 58 and 60 without naming them.
+    - Illegal cannabis production site seized (Quinte News) could not be opened again to check its quotations (The browser page answered HTTP 403.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
 ---
 
 Ontario Provincial Police charged two residents of Tyendinaga Township after a
 search warrant at a commercial-scale illegal cannabis grow operation in the
-township. [@2] Quoc Ly, 58, and Qi Sen Zhang, 64, were each charged with
+township. [@2,3] Quoc Ly, 58, and Qi Sen Zhang, 64, were each charged with
 possession of illicit cannabis for the purpose of distribution and cultivating
-illicit cannabis. [@2] Both were released from custody and are scheduled to
-appear before the Ontario Court of Justice in Napanee in January. [@2]
+illicit cannabis. [@2,3] Both were released from custody and are scheduled to
+appear before the Ontario Court of Justice in Napanee in January. [@2,3]
 
 Officers executed the warrant at the property on 29 October 2026 and arrested
-the two people there. [@2] Police seized 900 illegal cannabis plants, 190
+the two people there. [@2] The search was carried out by officers from the Lennox and Addington County OPP detachment and the provincial police's joint forces cannabis enforcement team and emergency response teams. [@3] Police seized 900 illegal cannabis plants, 190
 kilograms of illegal cannabis, 215 kilograms of cannabis shake, 125 cannabis
 clones and three cell phones. [@2] The OPP estimated the street value of the
 seizure at $850,000. [@2]
 
 The investigation began in October after a member of the public gave the OPP
-information about a suspected illegal production site. [@2] The OPP released a
+information about a suspected illegal production site. [@2,3] The OPP released a
 photograph of a truck loaded with cannabis at the site in Tyendinaga Township.
 [@1] The Kingston Whig-Standard reported more than $850,000 worth of illegal
 cannabis and the dismantling of a commercial-scale grow operation in Tyendinaga
 Township. [@1]
-
