@@ -63,6 +63,11 @@ sources:
     publisher: i24NEWS
     date: 2026-11-18
     language: en
+  - title: 'דובונים במאנץ'': השוטרים תפסו עשרות ק"ג סמים בתוך הסוכריות הפופולריות'
+    url: https://www.i24news.co.il/news/news/criminal/artc-c2c75782
+    publisher: i24NEWS
+    date: 2026-11-18
+    language: he
 open_questions:
     - The 50 kg figure is a combined weight for cannabis, ecstasy and hashish, with no separate weight given for the cannabis component.
     - The operation was dated only to 'earlier this week'; 18 November 2026 is the publication date and is used as the incident date.
@@ -72,20 +77,20 @@ open_questions:
 ---
 
 Police in Rishon LeZion arrested a man in his 40s from the city and took him in
-for questioning. [@1,3] The suspect was held on suspicion of involvement in
+for questioning. [@1,3,4] The suspect was held on suspicion of involvement in
 operating the apartment and distributing the drugs. [@2] Detectives from the
 crime-fighting unit at the Rishon LeZion station in the Shapla district exposed
 the apartment at the beginning of the week. [@2] A dedicated room in the flat
 was used, police said, to prepare, weigh, package and distribute suspected
-dangerous drugs. [@1,3] Among the items were cannabis candies, sweets containing
+dangerous drugs. [@1,3,4] Among the items were cannabis candies, sweets containing
 cannabis, which police said were intended for distribution alongside the other
 material. [@2]
 
 Officers seized more than 50 kilograms of suspected drugs of different kinds,
-which police listed as cannabis, ecstasy and hashish. [@1,3] All the seized
+which police listed as cannabis, ecstasy and hashish. [@1,3,4] All the seized
 material was transferred to the Israel Police forensic identification
-laboratories for further evidence extraction. [@1,3]
+laboratories for further evidence extraction. [@1,3,4]
 
 A court granted the police request and extended the suspect's detention until 19
 November 2026, with the case expected to reach the Central District police
-prosecution unit for an indictment in the coming days. [@1,3]
+prosecution unit for an indictment in the coming days. [@1,3,4]
