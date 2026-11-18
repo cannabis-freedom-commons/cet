@@ -69,21 +69,27 @@ sources:
     url: https://www.thenorthernecho.co.uk/news/26733524.toddler-layla-hatch-died-drinking-milk-laced-cocaine
     publisher: The Northern Echo
     date: 2026-11-16
+  - title: 'Eltern in Haft: Mädchen (2) mit Kokainfläschchen getötet'
+    url: https://www.bild.de/news/ausland/eltern-in-haft-maedchen-2-mit-kokainflaeschchen-getoetet-6afd4a33a883f861e5330174
+    publisher: BILD
+    date: 2026-11-18
+    language: de
 open_questions:
   - No weight, value or quantity was published for the cannabis found at the Billingham home; it was described only as a substantial amount.
   - Laylah Hatch's death was attributed to cocaine in her milk, not to cannabis, so no cannabis-related death figure is recorded.
   - The Mirror/AOL report and Teesside Live give Mathie's sentence as 13 years, while the Northern Echo court report gives 13 years and nine months; the more precise court figure is used.
   - The sentences cover child cruelty, Class A drug supply, cannabis supply and, for Mathie, violent disorder together, so no portion can be attributed to the cannabis offence alone.
   - Prosecutors could not establish how the cocaine entered Laylah's cup or whether it was deliberately added to her milk.
+  - Bild describes Mathie as Laylah's father, while Cleveland Police and the British court reports describe him as Hatch's boyfriend.
 ---
 
 Jodie Hatch, 23, and Dale Mathie, 30, were charged with child cruelty and drug
 offences after two-year-old Laylah Hatch died in hospital. [@1] Laylah was found
 unresponsive after emergency services were called to an address in Billingham,
-County Durham, in April 2024. [@1] She was rushed to hospital and pronounced
+County Durham, in April 2024. [@1] Laylah died on 10 April 2024, the date Cleveland Police gave for the emergency call about her. [@4] She was rushed to hospital and pronounced
 dead despite the efforts of medics. [@1] Cleveland Police officers searching the
 home after Laylah's death uncovered a substantial amount of cannabis and cocaine
-that was within reaching distance of a toddler. [@2] A separate search of
+that was within reaching distance of a toddler. [@2,4] A separate search of
 another address linked to Mathie found other illicit drugs. [@1]
 
 At Teesside Crown Court, prosecutor Richard Wright KC said Mathie was at all
@@ -92,7 +98,7 @@ times a drug dealer who sold cannabis sweets, cannabis bush and amphetamine.
 flat. [@3] Days before Laylah's death she ate a cannabis sweet that knocked her
 out for 17 hours. [@3] Both pleaded guilty to possession with intent to supply a
 Class A drug and Hatch also admitted being concerned in the supply of a Class B
-drug. [@1] Hatch admitted a charge of being concerned in the supply of cannabis.
+drug. [@1] The pair changed their pleas to guilty on the third day of their trial. [@4] Hatch admitted a charge of being concerned in the supply of cannabis.
 [@3] Mathie admitted possessing cocaine, amphetamine and cannabis with intent to
 supply. [@3]
 
@@ -101,4 +107,3 @@ Judge Francis Laird KC, the Recorder of Middlesbrough, jailed Hatch for five
 years and four months and Mathie for 13 years and nine months. [@3] Mathie was
 also sentenced for a separate charge of violent disorder following an assault in
 Billingham in September 2025. [@1]
-
