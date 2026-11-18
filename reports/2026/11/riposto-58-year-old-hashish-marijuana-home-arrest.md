@@ -59,6 +59,11 @@ sources:
     publisher: Quotidiano di Sicilia (QdS)
     date: 2026-11-17
     language: it
+  - title: 'Hashish e marijuana nascosti tra cucina e garage: arrestato 58enne grazie al cane "Ciro" - Amica News'
+    url: https://www.radioamica.it/hashish-e-marijuana-nascosti-tra-cucina-e-garage-arrestato-58enne-grazie-al-cane-ciro/
+    publisher: Amica News
+    date: 2026-11-17
+    language: it
 open_questions:
   - The exact day of the search and arrest is not stated; 17 November 2026, the publication date, stands in as the incident date.
   - The substances were described as hashish and marijuana by the Carabinieri, and no laboratory confirmation was reported.
@@ -68,18 +73,17 @@ open_questions:
 ---
 
 Carabinieri of the Riposto station arrested a 58-year-old local man with a
-criminal record on suspicion of possessing drugs with intent to sell them. [@1]
+criminal record on suspicion of possessing drugs with intent to sell them. [@1,3] The late-morning operation was conducted by Carabinieri of the Riposto station with support from the Nicolosi dog unit. [@3]
 
 In the kitchen of the man's house officers recovered 33.44 grams of hashish and
 8.16 grams of marijuana, along with a working precision scale still covered in a
-resinous substance, found in a drawer of a hallway cabinet. [@1] The search was
+resinous substance, found in a drawer of a hallway cabinet. [@1,3] The search was
 extended to the car at the 58-year-old's disposal and the garage attached to the
 house, where officers found further confirmation of the investigative
 hypothesis. [@2] There the dog Ciro immediately signalled the presence of drugs
 on a cabinet inside the garage; in a gap built at the top of the cabinet, closed
 in a glass jar, the Carabinieri recovered another 64 grams of hashish and 19
-grams of marijuana. [@1]
+grams of marijuana. [@1,3]
 
 Everything found and illegally held was seized and the 58-year-old was handed
-over to the judicial authority, which validated the arrest measure. [@1]
-
+over to the judicial authority, which validated the arrest measure. [@1,3]
