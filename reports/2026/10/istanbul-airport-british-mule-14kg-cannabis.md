@@ -69,6 +69,11 @@ sources:
     url: https://www.thesun.co.uk/news/40907756/autistic-twin-groomed-drug-smuggling-turkish-prison/
     publisher: The Sun
     date: 2026-11-07
+  - title: اعتقال بريطاني في تركيا بعد ضبط 14 كيلوغراماً من الحشيش.. ويقول إن تهديده بدأ بعرض عطلة مجانية
+    url: https://turkey-breaking.com/news/2026/11/17/%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%B6%D8%A8%D8%B7-14-%D9%83%D9%8A%D9%84%D9%88%D8%BA/
+    publisher: تركيا عاجل
+    date: 2026-11-17
+    language: ar
 open_questions:
   - Türkiye Today gives the quantity as 14 kg (30.86 pounds) while The Sun says about 15 kg worth £250,000; the report uses 14 kg.
   - No formal charge, trial date or verdict was reported; the case was at the pre-trial detention stage with laboratory and digital forensic work continuing.
@@ -78,31 +83,30 @@ open_questions:
 
 A 33-year-old British man with autism, Louis Malletier, was held in custody in
 Istanbul after customs officers at Istanbul Airport found 14 kilograms (30.86
-pounds) of cannabis in a suitcase registered in his name. [@1] Official
+pounds) of cannabis in a suitcase registered in his name. [@1,3] Official
 documents seen by the outlet say Malletier, who changed his name in recent
 years, claimed he was coerced into acting as a drug mule under threat of death
-by an organised criminal syndicate. [@1]
+by an organised criminal syndicate. [@1] He said the people contacted him through the encrypted messaging app Signal after obtaining his personal details and booked his flights and accommodation. [@3] He said a stranger approached him outside a shop in London with an offer of a free holiday, that people later came to his address and threatened him, and that they asked him to take a suitcase on the trip. [@3]
 
 His journey ended on the morning of 15 October, when he flew Thai Airways flight
 TG900 from Bangkok to Istanbul for a connecting Turkish Airlines flight to
-Malaga, Spain. [@1] At about 7 a.m., customs officers at Istanbul Airport's
+Malaga, Spain. [@1,3] He said he first travelled from Britain to Malaysia, where he spent eight days, before moving on to Thailand as instructed. [@3] The onward flight from Istanbul to Malaga was Turkish Airlines flight TK1303. [@3] At about 7 a.m., customs officers at Istanbul Airport's
 smuggling and intelligence division flagged an unmarked 19-kilogram pink
 suitcase registered to him, and a narcotics dog named Aja reacted strongly after
-its X-ray scan. [@1] On the instruction of the Gaziosmanpaşa Public Prosecutor,
+its X-ray scan. [@1,3] On the instruction of the Gaziosmanpaşa Public Prosecutor,
 officers intercepted him in the transit area and found 13 vacuum-sealed bags of
-green plant matter identified as cannabis. [@1]
+green plant matter identified as cannabis. [@1,3]
 
 In his official statement Malletier said that in Thailand he was given a
 prepared suitcase, which he did not open and did not know the contents of, and
 that he was not to be paid. [@1] His lawyer, Aziz Emre Yilmaz, said Malletier
 was autistic with additional support needs and asked Turkey's Institute of
 Forensic Medicine to assess his criminal responsibility and for steps to return
-him home. [@1] The Gaziosmanpaşa 4th Criminal Court of Peace ordered that
-Malletier be remanded in custody pending trial. [@1] The judge cited the volume
+him home. [@1,3] Medical records from a clinic in Perivale in Britain, dated June 2026, recorded diagnoses of attention deficit hyperactivity disorder in 2005, learning difficulties in 2008 and autism spectrum disorder in 2021. [@3] The Gaziosmanpaşa 4th Criminal Court of Peace ordered that
+Malletier be remanded in custody pending trial. [@1,3] The judge cited the volume
 of the seizures, ongoing laboratory and digital forensic work and the flight
 risk of a foreign national, and Malletier remains jailed in Istanbul's Maltepe
-district. [@1] Britain's Sun reported the quantity as about 15 kg of cannabis
+district. [@1,3] Britain's Sun reported the quantity as about 15 kg of cannabis
 worth £250,000 in the suitcase. [@2] His family in the UK launched a media and
 fundraising campaign, and his twin brother Conor Colegate said his learning
-disabilities had been maliciously exploited. [@1]
-
+disabilities had been maliciously exploited. [@1,3]
