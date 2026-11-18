@@ -47,30 +47,35 @@ sources:
     publisher: Horizons
     date: 2026-11-17
     language: fr
+  - title: 一周内查获超过100万粒精神类药物
+    url: https://www.aps.dz/cn/algerie/actualite-nationale/mwm0askq-%E4%B8%80%E5%91%A8%E5%86%85%E6%9F%A5%E8%8E%B7%E8%B6%85%E8%BF%87100%E4%B8%87%E7%B2%92%E7%B2%BE%E7%A5%9E%E7%B1%BB%E8%8D%AF%E7%89%A9
+    publisher: Algérie Presse Service (APS)
+    date: 2026-11-18
+    language: zh
 open_questions:
     - The bilan gives only national totals and does not say where in Algeria the seizures took place or how many separate operations were involved.
     - No arrests, charges or court outcomes were reported in connection with the week's seizures.
-    - The 1,104,236 psychotropic tablets are a separate substance category and are not counted as cannabis here.
-    - The kif traité is stated as 5.2 kilograms, while an earlier reading of the same bilan reported 5.2 tonnes; the kilogram figure is used here.
+    - The 1,104,236 psychotropic tablets are a separate substance category and are not counted as cannabis.
+    - The kif traité weight is given as 5.2 kilograms in the customs communiqué, while one outlet headline reported 5.2 tonnes; the exact quantity seized is unresolved.
     - No street value was published for the kif traité seized during the week.
 ---
 
 Algeria's Directorate General of Customs published a bilan of its
 anti-drug-trafficking and psychotropic-substance activities covering the week
-from 8 to 14 November 2026. [@1,2] According to the overall bilan, the operations
+from 8 to 14 November 2026. [@1,2,4] According to the overall bilan, the operations
 carried out during that period led to the seizure of 5.2 tonnes of kif traité
-and 1,104,236 psychotropic tablets. [@1] The customs statement gave the weight of kif traité seized that week as 5.2 kilograms, and the psychotropic tablets as 1,104,236. [@3]
+and 1,104,236 psychotropic tablets. [@1] The customs statement gave the weight of kif traité seized that week as 5.2 kilograms, and the psychotropic tablets as 1,104,236. [@3,4]
 
 Customs said the results came from the continuous efforts of its brigades, both
 in their own operational interventions and in operations coordinated with the
-various security services. [@1,2] The Directorate said the results reflected the
+various security services. [@1,2,4] The Directorate said the results reflected the
 scale of field efforts by customs, the operational vigilance of its brigades and
 the importance of coordinating with security partners against illicit drug and
-psychotropic trafficking networks. [@1,2]
+psychotropic trafficking networks. [@1,2,4]
 
 Through the bilan, customs said it would continue mobilising its human and
 operational resources and strengthen coordination with its security partners.
-[@1,2] It said this was intended to help protect public health, fight organised
+[@1,2,4] It said this was intended to help protect public health, fight organised
 crime and contribute to preserving the security of society. [@1,2]
 
 The bilan was presented as part of customs' mission to protect public health and
