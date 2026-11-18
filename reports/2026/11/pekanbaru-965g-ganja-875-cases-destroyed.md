@@ -38,6 +38,11 @@ media:
     media_url: https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/pekanbaru/thumbs/full_file_6afd2b2457e898.15790217.webp
     publisher: RRI Pekanbaru
     caption: 'Evidence from the 875 cases set out for destruction in the yard of the Pekanbaru prosecutor''s office on 18 November 2026. Photo: Santi Yunas/RRI Pekanbaru'
+  - kind: photo
+    url: https://www.detik.com/sumut/hukum-dan-kriminal/d-8758971/kejari-pekanbaru-musnahkan-barang-bukti-875-perkara-narkotika-terbanyak
+    media_url: https://awsimages.detik.net.id/community/media/visual/2026/11/18/pemusnahan-barang-bukti-di-kejari-pekanbaru-dok-kejari-pekanbaru-1795000605835_169.jpeg?w=700&q=90
+    publisher: detikSumut
+    caption: 'Evidence set out for destruction at the Pekanbaru prosecutor''s office on 18 November 2026, in the office''s handout photo published with the DetikSumut report. Photo: Kejari Pekanbaru'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: d57e0cbfb37721c0e70d8b7dc937ae36
@@ -68,6 +73,11 @@ sources:
     publisher: RRI.co.id
     date: 2026-11-18
     language: id
+  - title: Kejari Pekanbaru Musnahkan Barang Bukti 875 Perkara, Narkotika Terbanyak
+    url: https://www.detik.com/sumut/hukum-dan-kriminal/d-8758971/kejari-pekanbaru-musnahkan-barang-bukti-875-perkara-narkotika-terbanyak
+    publisher: detikSumut
+    date: 2026-11-18
+    language: id
 open_questions:
     - No breakdown is given of how many of the 748 narcotics cases involved ganja, and no defendants, verdicts or sentences for the underlying cases were reported.
     - No original seizure dates or places for the ganja evidence are given; 18 November 2026 is the destruction date.
@@ -79,24 +89,24 @@ open_questions:
 ---
 
 The Pekanbaru prosecutor's office destroyed evidence from 875 criminal cases on
-18 November 2026. [@1,2,3,4,5] The cases whose evidence was destroyed were uncovered during January to June 2026. [@3] Of these, 748 were narcotics cases whose evidence
-included sabu-sabu, ganja, ecstasy and heroin. [@1,2,4,5] Besides the narcotics cases,
-the destruction covered 91 cases against persons and property (Oharda). [@1,2,5] A further 36 cases fell under the state security and public order (Kamnegtibum) and general criminal (TPUL) category, including gambling, sexual offence, electronic information, consumer-protection and forgery cases. [@5]
+18 November 2026. [@1,2,3,4,5,6] The cases whose evidence was destroyed were uncovered during January to June 2026. [@3] Of these, 748 were narcotics cases whose evidence
+included sabu-sabu, ganja, ecstasy and heroin. [@1,2,4,5,6] Besides the narcotics cases,
+the destruction covered 91 cases against persons and property (Oharda). [@1,2,5,6] A further 36 cases fell under the state security and public order (Kamnegtibum) and general criminal (TPUL) category, including gambling, sexual offence, electronic information, consumer-protection and forgery cases. [@5,6]
 
 The destruction took place in the yard of the prosecutor's office on Jalan
 Jenderal Sudirman No. 295. [@1,2,3,4,5] The destroyed narcotics evidence comprised
 3,812.81 grams of sabu-sabu, 965 grams of ganja, 1,692 ecstasy pills weighing
-47.74 grams, 16.9 grams of heroin and 11 liquid cartridges. [@1,2,3,4,5] Officers also
+47.74 grams, 16.9 grams of heroin and 11 liquid cartridges. [@1,2,3,4,5,6] Officers also
 destroyed drug-related equipment, including bongs, digital scales and plastic
 wrapping. [@1,2,4]
 
-The destroyed evidence came from cases that had final legal force. [@1,2,3,4] The
+The destroyed evidence came from cases that had final legal force. [@1,2,3,4,6] The
 narcotics evidence was the remainder left after material had been set aside for
-court proof and forensic laboratory testing. [@1,5] Chief prosecutor Marlambson
+court proof and forensic laboratory testing. [@1,5,6] Chief prosecutor Marlambson
 Carel Williams said through evidence-management head Adhit Thya Febricar that
 the destruction was part of the prosecutor's duty to manage and clear case
 evidence. [@1,2] Most of the principal drug evidence had already been destroyed by
-investigators at the investigation stage. [@1,5] Officers used methods including
+investigators at the investigation stage. [@1,5,6] Officers used methods including
 dissolving evidence in chemical cleaner, burning, cutting with a grinding wheel
 and crushing. [@1,2,4,5] The destruction was carried out under the Attorney General's
 Regulation No. 9 of 2011 on evidence destruction. [@1,2,5]
