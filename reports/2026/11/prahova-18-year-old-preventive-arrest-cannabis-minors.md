@@ -47,31 +47,35 @@ sources:
     publisher: Actualitatea Prahoveană
     date: 2026-11-18
     language: ro
+  - title: Trafic de droguri de risc și mare risc, inclusiv către minori! Un inculpat de 18 ani, reținut de DIICOT
+    url: https://www.ziuaconstanta.ro/stiri/actualitate/trafic-de-droguri-de-risc-si-mare-risc-inclusiv-catre-minori-un-inculpat-de-18-ani-retinut-de-diicot-960935.html
+    publisher: ZIUA de Constanța
+    date: 2026-11-18
+    language: ro
 open_questions:
-  - No weight or quantity was published for the cannabis he was found carrying, the cannabis sold, or the other drugs.
-  - The account does not say on what date the Prahova Tribunal ordered the 30-day preventive arrest.
-  - The case mixes cannabis with 4-CMC and ketamine, which are not cannabis; no per-substance quantity was given for any of them.
-  - No plea or further court outcome was reported beyond the preventive-arrest order.
-  - The number of minors who received drugs and the number of buyers was not reported.
-  - The suspect was identified only by his age; no name was published.
-  - The Prahova county police statement was distributed through Agerpres and both accounts reproduce it, so they are not independent reporting.
+    - No weight or quantity was published for the cannabis he was found carrying, the cannabis sold, or the other drugs.
+    - The account does not say on what date the Prahova Tribunal ordered the 30-day preventive arrest.
+    - The case mixes cannabis with 4-CMC and ketamine, which are not cannabis; no per-substance quantity was given for any of them.
+    - No plea or further court outcome was reported beyond the preventive-arrest order.
+    - The number of minors who received drugs and the number of buyers was not reported.
+    - The suspect was identified only by his age; no name was published.
+    - The outlets reproduce the same DIICOT statement, so they are not independent reporting of the arrest.
 ---
 
 An 18-year-old was placed in preventive detention in a case of risk and
-high-risk drug trafficking. [@1] The case is run by prosecutors of DIICOT
+high-risk drug trafficking. [@1,3] The case is run by prosecutors of DIICOT
 Ploiești, Romania's organised crime and terrorism prosecution directorate, and
-officers of the Ploiești organised-crime brigade, BCCO. [@1] Investigators say
+officers of the Ploiești organised-crime brigade, BCCO. [@1,3] Investigators say
 that between May and November 2026 he obtained, kept, gave away and sold
 cannabis and crystalline substances of the high-risk drug category, including to
-minors, for 50 to 200 lei. [@1]
+minors, for 50 to 200 lei. [@1,3]
 
 Some of the drugs given to minors were made available at a private party he
-organised at his home. [@1] A mobile gendarmerie squad from Ploiești found him
-carrying a quantity of cannabis. [@1] A search of his home found and removed an
+organised at his home. [@1,3] A mobile gendarmerie squad from Ploiești found him
+carrying a quantity of cannabis. [@1,3] A search of his home found and removed an
 electronic scale, a grinder and other objects bearing traces of THC, 4-CMC and
-ketamine. [@1]
+ketamine. [@1,3]
 
-DIICOT prosecutors detained him on 14 November 2026. [@2] The
+DIICOT prosecutors detained him on 14 November 2026. [@2,3] The
 rights-and-freedoms judge at the Prahova Tribunal ordered his preventive arrest
-for 30 days. [@1] Ploiești mobile gendarmes supported the operation. [@1]
-
+for 30 days. [@1,3] Ploiești mobile gendarmes supported the operation. [@1,3]
