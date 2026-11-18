@@ -74,6 +74,10 @@ sources:
     url: https://www.yahoo.com/news/world/articles/charges-against-six-men-7-164412669.html
     publisher: Yahoo News
     date: 2026-11-17
+  - title: Six men accused of running £7m cannabis factory in former Scots school have charges DROPPED
+    url: https://www.thescottishsun.co.uk/news/17081214/cannabis-farm-wick-high-case-dropped/
+    publisher: The Scottish Sun
+    date: 2026-11-17
 media:
   - kind: photo
     url: https://ca.news.yahoo.com/charges-against-six-men-7-164412669.html
@@ -95,22 +99,20 @@ media:
     media_url: https://www.johnogroat-journal.co.uk/_media/img/750x0/04R1X2YDIE7AC0HMNS6G.jpg
     publisher: John O'Groat Journal
     caption: 'Police vehicles stationed around the abandoned, derelict former high school in Wick after the January raid. Picture: DGS'
-open_questions:
-    - Earlier reports named 'Ho's legal team' as the one that did not enter a not guilty plea, while the John O'Groat Journal names Vo's legal team; Vo is one of the six defendants.
 ---
 
 Charges were dropped against six Vietnamese men accused of involvement in a
-large cannabis factory at a derelict school. [@1,2,3,4,5,6,7] The six were Thong Vo, 38,
+large cannabis factory at a derelict school. [@1,2,3,4,5,6,7,8] The six were Thong Vo, 38,
 Chinh Nguyen, 44, Diep Van Le, 47, Trung Nguyen, 35, Pham Quoc Anh, 23, and Nam
-Viet Le, 23. [@1,2,3,4,5,6] They were accused of taking part in the production and supply
+Viet Le, 23. [@1,2,3,4,5,6,8] They were accused of taking part in the production and supply
 of the class B drug between 1 July 2025 and 1 February 2026. [@1,3,4,5,6]
 
 Police said that at the time of the search they found cannabis at the former
-Wick High School in the Highlands with an estimated street value of £7.1m. [@1,2,3,4,5,6,7] Police acting on intelligence raided the former school building in January and later revealed that nearly 6000 cannabis plants as well as dried cannabis had been discovered inside. [@5]
+Wick High School in the Highlands with an estimated street value of £7.1m. [@1,2,3,4,5,6,7] Police Scotland put the seizure at more than 5,900 plants worth £6.7 million plus dried cannabis with a potential street value of £456,000. [@8] Police acting on intelligence raided the former school building in January and later revealed that nearly 6000 cannabis plants as well as dried cannabis had been discovered inside. [@5]
 The case had been called for a hearing in July at the High Court in Glasgow.
-[@1,2,3,4,5,6] Lawyers for the group, other than Ho's legal team, had entered not guilty
+[@1,2,3,4,5,6,8] Lawyers for the group, other than Ho's legal team, had entered not guilty
 pleas. [@1,2,3,4,6] A special defence of coercion was lodged on behalf of each of the
-six. [@1,2,3,4,5,6]
+six. [@1,2,3,4,5,6,8]
 
 At the summer hearing the court was told that inquiries were under way through
 the Home Office National Referral Mechanism into whether any of the six might be
@@ -118,5 +120,5 @@ victims of human trafficking. [@1,2,3,4,5,6] A nine-day trial had been set to be
 October 2027. [@1,2,3,4,5,6] A spokesperson for the Crown Office and Procurator Fiscal
 Service said Crown Counsel decided there should be no further criminal
 proceedings at this time after full and careful consideration of the facts and
-circumstances of the case. [@1,2,3,4,5,6] The Crown reserved the right to proceed in the
-future should further evidence become available. [@1,2,3,4,5,6,7]
+circumstances of the case. [@1,2,3,4,5,6,8] The Crown reserved the right to proceed in the
+future should further evidence become available. [@1,2,3,4,5,6,7,8]
