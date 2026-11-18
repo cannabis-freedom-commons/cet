@@ -77,31 +77,36 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-18
     language: hi
+  - title: Four arrested for trafficking narcotics; 127 gm of smack and 10kg of ganja seized
+    url: https://timesofindia.indiatimes.com/city/kanpur/four-arrested-for-trafficking-narcotics-127-gm-of-smack-and-10kg-of-ganja-seized/articleshow/135969272.cms
+    publisher: The Times of India
+    date: 2026-11-18
 open_questions:
     - Jagran says the arrests were made late on Tuesday night; the report uses 18 November 2026, the publication date of the first accounts, as the incident date.
     - No formal charges, court outcome or detention details were reported; police said the network was still under investigation.
     - The 127 grams of smack seized with the ganja is a different substance and is excluded from the cannabis weight; no value estimate for the ganja was published.
-    - The Amar Ujala, Jagran and Dainik Bhaskar accounts all reproduce the same Kanpur police briefing, so they are not independent reporting.
+    - The Amar Ujala, Jagran, Dainik Bhaskar and Times of India accounts all reproduce the same Kanpur police briefing, so they are not independent reporting.
     - No laboratory confirmation that the seized plant material was cannabis was reported.
     - The gang is called interstate by Amar Ujala and Jagran but inter-district by Dainik Bhaskar; the named places, including Barabanki, Kanpur, Gorakhpur, Faizabad/Ayodhya and Prayagraj, are all in Uttar Pradesh, and no crossing of a state border is described.
+    - The Times of India gives two of the accused's names as Munna and Maqsood, where the Hindi reports gave Manna and Masood, and puts one delivery area as Bithoor rather than Bidhur.
 ---
 
 Kanpur police arrested four people they described as an interstate
 drug-trafficking gang and seized 10 kilograms of ganja and 127 grams of smack.
-[@1,3,4] The arrests were made by Bajariya police late on Tuesday night. [@3] Among those held was Ashu Sonkar, alias Allahabadi, a resident of
+[@1,3,4,5] The arrests were made by Bajariya police late on Tuesday night. [@3] Among those held was Ashu Sonkar, alias Allahabadi, a resident of
 Colonelganj in Bajariya, who brought the drugs from Barabanki and supplied them
-across the city. [@1] The other three were Manna of Sudhia Mau in Barabanki's
-Ramnagar police-station area, and Ramchandra and Masood of Jaitpur. [@1]
+across the city. [@1,5] The other three were Manna of Sudhia Mau in Barabanki's
+Ramnagar police-station area, and Ramchandra and Masood of Jaitpur. [@1,5]
 Ramchandra's network reached Gorakhpur, Faizabad and neighbouring districts, and
-he sent consignments there. [@1]
+he sent consignments there. [@1,5]
 
 Police said the group carried the consignment from Barabanki and supplied
 Kanpur, Gorakhpur and Faizabad. [@2] Police said Sonkar delivered the drugs to
-areas including Bidhur, Baradevi and Chunniganj. [@1] Sonkar also supplied Saket Nagar, Barra and Naubasta Machharia, police said. [@3] The traffickers used
-'kapda' (cloth) as a code word for smack and called one gram 'one metre'. [@1,3,4]
+areas including Bidhur, Baradevi and Chunniganj. [@1,5] Sonkar also supplied Saket Nagar, Barra and Naubasta Machharia, police said. [@3] The traffickers used
+'kapda' (cloth) as a code word for smack and called one gram 'one metre'. [@1,3,4,5]
 They made 12 to 14 packets from each gram and sold each for 300 rupees or more.
-[@1,3]
+[@1,3,5]
 
 Payment was collected through community service centres, with QR codes sent to
-buyers. [@1,3] Police were investigating the suspects' inward and outward networks
-to trace the source and destinations of the consignments. [@1,3]
+buyers. [@1,3,5] Police were investigating the suspects' inward and outward networks
+to trace the source and destinations of the consignments. [@1,3,5]
