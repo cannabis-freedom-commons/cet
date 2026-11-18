@@ -47,6 +47,11 @@ media:
     media_url: https://media.defimedia.info/sites/default/files/styles/wide/public/2026-11/canabis16112026.jpg.avif?itok=EJ-ZtZnH
     publisher: Defimedia.info
     caption: 'Photograph of the cannabis published with the report on the seizure from the postal parcel at the Port Louis port. Photo: Defimedia.info'
+  - kind: photo
+    url: https://lexpress.mu/s/le-fils-dun-policier-parmi-les-suspects-dune-importation-de-31-kg-de-cannabis-564861
+    media_url: https://lexpress.mu/storage/articles/P4KRQiGScrXGpE5gepNKnKWn4pIN91bCTZG6cmfv.jpg
+    publisher: L'Express
+    caption: 'Muhammad Yasaar Ibne Noorah arriving at the Port-Louis court on 17 November 2026, as published with L''Express''s report on the case. Photo: L''Express'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: d25eb0fdede14a80c4e6f69ff9ab041f
@@ -57,12 +62,25 @@ sources:
     publisher: Defimedia.info
     date: 2026-11-16
     language: fr
+  - title: 'RS 5 M DE CANNABIS SAISIS : Un Mauricien vivant en Angleterre et son présumé complice en détention'
+    url: https://www.lemauricien.com/le-mauricien/rs-5-m-de-cannabis-saisis-un-mauricien-vivant-en-angleterre-et-son-presume-complice-en-detention/723553/
+    publisher: Le Mauricien
+    date: 2026-11-18
+    language: fr
+  - title: Le fils d'un policier parmi les suspects d'une importation de 3,1 kg de cannabis
+    url: https://lexpress.mu/s/le-fils-dun-policier-parmi-les-suspects-dune-importation-de-31-kg-de-cannabis-564861
+    publisher: L'Express
+    date: 2026-11-18
+    language: fr
 open_questions:
-  - The report gives no separate date for the seizure or the arrests; 16 November 2026 is its publication date and is used as the incident date, with the court appearance due the following day.
-  - The account rests on a single Defimedia report, and no independent source confirming the seizure, the two arrests or the court case could be opened.
-  - Neither suspect was named, and no plea or court outcome was reported, as the Port-Louis appearance was still pending.
-  - The Rs 5 million is an estimated value given without any explanation of how it was calculated.
-  - The second suspect's identity, address and role in the case were not described.
+    - 'Accounts differ on when the parcel was intercepted: Le Mauricien dates it to 11 November, while L''Express dates it to 13 November, when a parcel that had arrived the previous day was opened.'
+    - L'Express puts the cannabis at 3.1 kg and Rs 6 million, while Le Mauricien and the earlier Defimedia report give Rs 5 million and three kilograms.
+    - The interception is placed at the FedEx depot in Pailles by Le Mauricien and L'Express, and at the port of Port Louis in the Defimedia account the report was first based on.
+    - The charge is reported as a provisional count of drug trafficking in Le Mauricien and as provisional importation of cannabis with a trafficking averment against both men in L'Express.
+    - No plea, bail decision or trial date was reported after the 17 November court appearance.
+    - Neither account explains how the estimated street value was calculated.
+    - Whether the sender or any accomplices in England have been identified was not reported.
+    - Le Mauricien gives no weight for the cannabis seized, only its estimated value.
 ---
 
 Two men were arrested in Mauritius after a postal parcel containing three
@@ -70,16 +88,15 @@ kilograms of cannabis was intercepted at the port of Port Louis. [@1] The
 recipient, a resident of Phoenix, was caught through a controlled delivery
 operation — in which officers kept the parcel under surveillance as it moved
 toward its destination — run by the Anti-Drug and Smuggling Unit (ADSU), the
-country's anti-drug police unit. [@1] He is the son of an assistant
-superintendent of police assigned to the Special Supporting Unit (SSU). [@1] A
-second suspect was also arrested in the course of the same investigation. [@1]
+country's anti-drug police unit. [@1,2] He is the son of an assistant
+superintendent of police assigned to the Special Supporting Unit (SSU). [@1] Noorah was arrested at 11:22 on Monday 16 November. [@3] The recipient was named as Muhammad Yasaar Ibne Noorah, 30, a Mauritian who lives and works in England. [@2] A
+second suspect was also arrested in the course of the same investigation. [@1,2] The two men remained in detention while the investigation continued. [@2] The second man was named as Fawzaan Hossenbaccus, 22, a maintenance worker living in Mont-Goût, Pamplemousses. [@3]
 
 The seizure was carried out by the Customs Anti-Narcotics Section (CANS) of the
 Mauritius Revenue Authority (MRA), the authority's customs drug-enforcement arm,
 which put an estimated value of Rs 5 million on the cannabis. [@1] The parcel
 had come from England. [@1] The drug was concealed in five cardboard boxes
-declared as containing spices. [@1]
+declared as containing spices. [@1] Both men's phones, including an iPhone 18 Pro Max and a SIM card with an international number seized from Noorah, were to be analysed. [@2] Police searched both suspects' homes and found nothing incriminating. [@2] The parcel, declared to contain spices, carried a fictitious addressee name, but the address was Noorah's home in Phoenix. [@2]
 
 Both men were due to be brought before the Port-Louis court on Tuesday on a
-provisional charge of importing drugs. [@1]
-
+provisional charge of importing drugs. [@1] Both face a provisional charge of importing cannabis with a trafficking averment. [@3] The two men were brought before the Port-Louis court on 17 November, where police objected to their release on bail. [@3]
