@@ -46,6 +46,11 @@ sources:
     publisher: Almasry Alyoum
     date: 2026-11-18
     language: ar
+  - title: ضبط عنصر جنائي بحوزته مخدرات وأسلحة نارية في الدقهلية - إقرأ نيوز
+    url: https://www.iqraa.news/234249/%D8%B6%D8%A8%D8%B7-%D8%B9%D9%86%D8%B5%D8%B1-%D8%AC%D9%86%D8%A7%D8%A6%D9%8A-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D9%86%D8%A7/
+    publisher: Iqraa News
+    date: 2026-11-18
+    language: ar
 open_questions:
     - No date is given for the security campaign or the arrest; 18 November 2026 is the article's publication date and is used as the incident date.
     - No weight or value was reported for the 10 pieces of hashish, so the cannabis quantity cannot be expressed in kilograms.
@@ -56,17 +61,17 @@ open_questions:
 
 Security forces in Dakahlia Governorate arrested a 42-year-old man on suspicion
 of trafficking in drugs and possessing firearms and ammunition without a
-licence. [@1,2] The campaign targeted his criminal activity in Beni Ebeid markaz,
+licence. [@1,2,3] The campaign targeted his criminal activity in Beni Ebeid markaz,
 where officers found a variety of drugs, a firearm and ammunition with him. [@1]
 After legal procedures and permission from the Public Prosecution, a security
 force led by Lieutenant Colonel Ahmed Hassan, head of the centre's
 investigations, carried out the arrest. [@1] The man was identified as Luay M.
 A. Sh., a 42-year-old resident of El-Salahat village with previous criminal
-records in theft, drugs and possession of firearms and ammunition. [@1,2]
+records in theft, drugs and possession of firearms and ammunition. [@1,2,3]
 
 A search of the man found a firearm and live ammunition, 10 pieces of hashish
 and 50 bags of shabu (methamphetamine), along with cash, a mobile phone and a
-motorcycle with no number plates. [@1,2] The shabu, the firearm and the ammunition
+motorcycle with no number plates. [@1,2,3] The shabu, the firearm and the ammunition
 are not part of the cannabis figures reported here. [@1] Officers impounded the
 seizures and drew up report number 7803 of Beni Ebeid felonies for 2026. [@1]
 The man was referred to the Public Prosecution, which ordered four days'
