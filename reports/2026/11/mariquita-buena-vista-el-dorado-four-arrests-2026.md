@@ -51,31 +51,35 @@ sources:
     publisher: Tolima7dias.com.co
     date: 2026-11-17
     language: es
+  - title: 'Cuatro capturados por tráfico de drogas en Mariquita, Tolima: incautaron Tussi, marihuana y base de cocaína - PYC Noticias'
+    url: https://canalpyc.com/cuatro-capturados-por-trafico-de-drogas-en-mariquita-tolima-incautaron-tussi-marihuana-y-base-de-cocaina/
+    publisher: PYC Noticias
+    date: 2026-11-17
+    language: es
 open_questions:
-  - No separate date for the three procedures was given; 17 November 2026 is the publication date and stands in for the incident date.
-  - The marijuana was reported by weight at seizure, with no laboratory confirmation reported.
-  - The 20 grams of coca base and 5.8 grams of Tussi seized in the same procedures are excluded from the cannabis figures.
-  - No names were released for the four detainees and no court outcome beyond the pending hearings was reported.
-  - The whole account rests on a single outlet's report of police information, with no independent account located.
+    - No separate date for the three procedures was given; 17 November 2026 is the publication date and stands in for the incident date.
+    - The marijuana was reported by weight at seizure, with no laboratory confirmation reported.
+    - The 20 grams of coca base and 5.8 grams of Tussi seized in the same procedures are excluded from the cannabis figures.
+    - No names were released for the four detainees and no court outcome beyond the pending hearings was reported.
+    - Both accounts reproduce police information and are not independent reporting.
 ---
 
 Police captured four people in flagrante in three separate procedures in the El
-Dorado and Buena Vista neighbourhoods of Mariquita, Tolima. [@1] The procedures
+Dorado and Buena Vista neighbourhoods of Mariquita, Tolima. [@1,2] The procedures
 were carried out in recent hours by officers of the municipality's Police
 Station. [@1]
 
 Officers seized 75 plastic bags of illicit substances in total: 225 grams of
 marijuana, 20 grams of coca base and 5.8 grams of Tussi, described as a
-synthetic drug. [@1] In the first Buena Vista case, police captured two men aged
-18 and 38 and seized 37 bags holding 185 grams of marijuana. [@1] In the second
+synthetic drug. [@1,2] In the first Buena Vista case, police captured two men aged
+18 and 38 and seized 37 bags holding 185 grams of marijuana. [@1,2] In the second
 Buena Vista case, a 22-year-old man was captured at about 7:50 p.m. carrying
 nine bags with 40 grams of marijuana and 23 bags with 20 grams of coca base.
-[@1] In El Dorado, a man was captured at about 11:45 p.m. on a public road with
-six bags holding 5.8 grams of Tussi, and police gave no age for him. [@1]
+[@1,2] In El Dorado, a man was captured at about 11:45 p.m. on a public road with
+six bags holding 5.8 grams of Tussi, and police gave no age for him. [@1,2]
 
 The four detainees and the substances were placed at the disposal of the
 Attorney General's Office, and the detainees were attending virtual hearings at
-which a judge will decide their legal situation. [@1] Tolima Police commander
+which a judge will decide their legal situation. [@1,2] Tolima Police commander
 Colonel Ferney Martín Romero said the institution was maintaining its
-operational actions against local drug trafficking in the department. [@1]
-
+operational actions against local drug trafficking in the department. [@1,2]
