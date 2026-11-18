@@ -72,6 +72,11 @@ sources:
     publisher: الراي
     date: 2026-11-17
     language: ar
+  - title: ضبط أكثر من 2 كيلو ماريغوانا وحشيش وشبو و250 ورقة مشبعة بالكيمكال و250 كبسولة لاريكا
+    url: https://www.alanba.com.kw/1385484
+    publisher: جريدة الأنباء الكويتية
+    date: 2026-11-17
+    language: ar
 open_questions:
     - No separate date is given for the arrests; 17 November 2026 is the date of the Interior Ministry statement and of publication and is used as the incident date.
     - The 510 grams of shabu, 250 sheets of 'chemical' and 250 Lyrica capsules are other substances and are excluded from the cannabis weight; whether 'chemical' is a synthetic cannabinoid is not stated.
@@ -85,22 +90,37 @@ media:
     media_url: https://kuwaitnews.com/wp-content/uploads/2026/11/moi-arrest5.jpg
     publisher: كويت نيوز
     caption: The article's lead photo, captioned 'من الموقوفين' (of the detainees), published with the report on the four arrests in the three cases; no photo credit given.
+  - kind: photo
+    url: https://www.alanba.com.kw/1385484
+    media_url: https://media.alanba.com.kw/articlefiles/2026/11/1385484-1.jpg?w=600
+    publisher: جريدة الأنباء الكويتية
+    caption: 'First of three gallery photos published with the Al-Anbaa report on the three Kuwait drug-control cases, captioned with the seized items: over 2 kg of marijuana and hashish, shabu, 250 ''chemical'' sheets and 250 Lyrica capsules. No photo credit given.'
+  - kind: photo
+    url: https://www.alanba.com.kw/1385484
+    media_url: https://media.alanba.com.kw/articlefiles/2026/11/1385484-2.jpg?w=600
+    publisher: جريدة الأنباء الكويتية
+    caption: 'Second of three gallery photos published with the Al-Anbaa report on the three Kuwait drug-control cases, captioned with the seized items: over 2 kg of marijuana and hashish, shabu, 250 ''chemical'' sheets and 250 Lyrica capsules. No photo credit given.'
+  - kind: photo
+    url: https://www.alanba.com.kw/1385484
+    media_url: https://media.alanba.com.kw/articlefiles/2026/11/1385484-3.jpg?w=600
+    publisher: جريدة الأنباء الكويتية
+    caption: 'Third of three gallery photos published with the Al-Anbaa report on the three Kuwait drug-control cases, captioned with the seized items: over 2 kg of marijuana and hashish, shabu, 250 ''chemical'' sheets and 250 Lyrica capsules. No photo credit given.'
 ---
 
 Kuwait's Criminal Security Sector, acting through the General Administration for
 Drug Control, arrested four suspects of Asian nationalities in three separate
-cases, the Interior Ministry said. [@1,3,4,6,7] The ministry said the men held narcotic
+cases, the Interior Ministry said. [@1,3,4,6,7,8] The ministry said the men held narcotic
 and psychotropic substances with intent to traffic and use them, as part of
-continuing security campaigns against drugs. [@2,3,5,7] In one of the cases, officers
+continuing security campaigns against drugs. [@2,3,5,7,8] In one of the cases, officers
 arrested a Bangladeshi national in the Farwaniya area and established that a
-person living outside Kuwait was supplying him with the material. [@1,3,5,7]
+person living outside Kuwait was supplying him with the material. [@1,3,5,7,8]
 
 The ministry put the combined seizures in the three cases at 1.5 kilograms of
-marijuana and 150 grams of hashish, 1.65 kilograms of cannabis in total. [@1,3,4,6,7]
+marijuana and 150 grams of hashish, 1.65 kilograms of cannabis in total. [@1,3,4,6,7,8]
 Alongside these, officers seized 510 grams of shabu (crystal methamphetamine),
 250 sheets soaked in a synthetic substance known locally as 'chemical', and 250
 capsules of the prescription drug Lyrica, together with three sensitive scales
-and empty packaging bags. [@1,3,5,7]
+and empty packaging bags. [@1,3,5,7,8]
 
 The four suspects and all seized items were referred to the competent authority
-for the necessary legal action, the ministry said. [@2,3,4,6,7]
+for the necessary legal action, the ministry said. [@2,3,4,6,7,8]
