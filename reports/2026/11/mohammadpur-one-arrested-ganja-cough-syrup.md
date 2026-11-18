@@ -78,6 +78,11 @@ sources:
     publisher: Dhakamail
     date: 2026-11-19
     language: bn
+  - title: ছাত্রলীগের সাবেক কেন্দ্রীয় নেতা গোলাম রব্বানী গ্রেফতার
+    url: https://dhakamail.com/politics/343954
+    publisher: Dhaka Mail
+    date: 2026-11-19
+    language: bn
 open_questions:
   - The cannabis amount was given only as one puria, with no weight, so no kilogram figure is recorded.
   - The 14 bottles of codeine-phosphate cough syrup are not counted in cannabis figures.
@@ -96,7 +101,7 @@ media:
 ---
 
 Police arrested Md. Golam Rabbani Shamim, 38, in an operation in Mohammadpur,
-Dhaka. [@2,3,4,5,6,7,8,9] Officers detained him at about 8:10 pm on 18 November 2026 on the
+Dhaka. [@2,3,4,5,6,7,8,9,10] Officers detained him at about 8:10 pm on 18 November 2026 on the
 second floor of house 19, Road 3, B Block, Naboday Housing. [@1,4,5] The arrested
 man is a member of the Awami League central science and technology affairs
 committee and a former general secretary of the Selim Hall Chhatra League at
@@ -106,9 +111,9 @@ confirmed the arrest the same night. [@1,5]
 Police said officers seized 14 bottles of Winctrex cough syrup containing
 codeine phosphate and triprolidine hydrochloride and one puria of ganja from
 him. [@1,5,6] Mohammadpur police said the raid followed secret information and also
-reported 14 bottles of cough syrup and one puria of ganja seized. [@2,3,7,8,9]
+reported 14 bottles of cough syrup and one puria of ganja seized. [@2,3,7,8,9,10]
 
 Police said he had remained in contact with central Awami League leaders by
 mobile phone and was staying in the area to create an unstable situation in
 Dhaka and to run the party’s procession activities. [@1,3,4,5,6,7,9] Police said further
-legal action against him was in process. [@1,3,4,5,6,7,9]
+legal action against him was in process. [@1,3,4,5,6,7,9,10]
