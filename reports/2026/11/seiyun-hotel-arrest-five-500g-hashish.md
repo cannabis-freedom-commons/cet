@@ -55,21 +55,31 @@ sources:
     publisher: الخلاصة نت
     date: 2026-11-18
     language: ar
+  - title: حضرموت.. ضبط متهمين بحيازة المخدرات في سيئون
+    url: https://almahriah.net/top-news/%D8%AD%D8%B6%D8%B1%D9%85%D9%88%D8%AA-%D8%B6%D8%A8%D8%B7-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D8%AD%D9%8A%D8%A7%D8%B2%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B3%D9%8A%D8%A6%D9%88%D9%86
+    publisher: المهرية نت
+    date: 2026-11-18
+    language: ar
+  - title: شرطة سيئون تضبط خمسة أشخاص بحوزتهم مخدرات داخل أحد الفنادق
+    url: https://hunaden.com/news89945.html
+    publisher: هنا عدن
+    date: 2026-11-18
+    language: ar
 ---
 
 Seiyun district police, working with the tourism police, arrested five people
-inside one of the city's hotels. [@1,3] The force said the group was caught after
-investigators received information about them and followed their movements. [@1]
+inside one of the city's hotels. [@1,3,4,5] Police said the five were suspected of involvement in both possessing and promoting narcotic substances. [@4] The force said the group was caught after
+investigators received information about them and followed their movements. [@1,4]
 
 Police said the accused had about 500 grams of hashish, cannabis resin, in their
-possession. [@1,3] The search also turned up ten narcotic pills. [@1] Officers
+possession. [@1,3,4,5] The search also turned up ten narcotic pills. [@1,4] Officers
 further found between 10 and 13 grams of shabu, a methamphetamine-type drug,
-which is not counted in the cannabis figures. [@1]
+which is not counted in the cannabis figures. [@1,4]
 
 The five were detained and the drugs recorded as seized, with legal procedures
-to be completed before their referral to the judicial authorities. [@1,3] Bab
+to be completed before their referral to the judicial authorities. [@1,3,4] Bab
 News, which carried the same account from the security forces' moral guidance
 and public relations department, said they were to be handed to the competent
 authorities. [@2] The statement said the operation was part of continuing
 efforts by Seiyun district police, with other security bodies, against drug
-crime and to protect the community. [@2]
+crime and to protect the community. [@2,4]
