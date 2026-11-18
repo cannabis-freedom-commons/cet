@@ -42,6 +42,26 @@ media:
     media_url: https://assets.debate.com.mx/__export/1795023519777/sites/debate/img/2026/11/18/mazatlan-2.jpg_868175433.jpg
     publisher: El Debate
     caption: 'Federal seizure of weapons, 30 kilos of marijuana, cocaine and three stolen cars in Sábalo Country. Photo: Cortesía'
+  - kind: photo
+    url: https://losnoticieristas.com/policiaca/2026/11/aseguran-armamento-droga-y-tres-vehiculos-robados-durante-operativo-en-sabalo-country-en-mazatlan-sinaloa-1168554/
+    media_url: https://losnoticieristas.com/wp-content/uploads/2026/11/aseguramiento-sabalo-country-mazatlan.jpg
+    publisher: Los Noticieristas
+    caption: 'Lead photo of the seizure of weapons, drugs and three stolen vehicles in Sábalo Country, Mazatlán. Photo: Cortesía.'
+  - kind: photo
+    url: https://losnoticieristas.com/policiaca/2026/11/aseguran-armamento-droga-y-tres-vehiculos-robados-durante-operativo-en-sabalo-country-en-mazatlan-sinaloa-1168554/
+    media_url: https://losnoticieristas.com/wp-content/uploads/2026/11/aseguramiento-sabalo-country-mazatlan-1-1-300x224.jpg
+    publisher: Los Noticieristas
+    caption: 'Photo of the items secured in the Sábalo Country, Mazatlán operation. Photo: Cortesía.'
+  - kind: photo
+    url: https://losnoticieristas.com/policiaca/2026/11/aseguran-armamento-droga-y-tres-vehiculos-robados-durante-operativo-en-sabalo-country-en-mazatlan-sinaloa-1168554/
+    media_url: https://losnoticieristas.com/wp-content/uploads/2026/11/aseguramiento-sabalo-country-mazatlan-.jpg
+    publisher: Los Noticieristas
+    caption: 'Gallery photo from the Sábalo Country, Mazatlán arms-and-drugs seizure. Photo: Cortesía.'
+  - kind: photo
+    url: https://losnoticieristas.com/policiaca/2026/11/aseguran-armamento-droga-y-tres-vehiculos-robados-durante-operativo-en-sabalo-country-en-mazatlan-sinaloa-1168554/
+    media_url: https://losnoticieristas.com/wp-content/uploads/2026/11/aseguramiento-sabalo-country-mazatlan-1.jpg
+    publisher: Los Noticieristas
+    caption: 'Gallery photo from the Sábalo Country, Mazatlán arms-and-drugs seizure. Photo: Cortesía.'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 78f7a0d272f616ce96168e62053404de
@@ -57,11 +77,17 @@ sources:
     publisher: Línea Directa
     date: 2026-11-17
     language: es
+  - title: Aseguran armamento, droga y tres vehículos robados durante operativo en Sabalo Country en Mazatlán, Sinaloa
+    url: https://losnoticieristas.com/policiaca/2026/11/aseguran-armamento-droga-y-tres-vehiculos-robados-durante-operativo-en-sabalo-country-en-mazatlan-sinaloa-1168554/
+    publisher: Los Noticieristas
+    date: 2026-11-18
+    language: es
 open_questions:
-  - No weight was published for the 781 marijuana doses or the 432 cocaine doses, so only the 30 kilograms are counted as cannabis.
-  - The contents of the 67 seized vaping devices were not described, so they are not counted as cannabis.
-  - No value estimate was published for the seized drugs, weapons or vehicles.
-  - The 17 November 2026 date is the Tuesday of the afternoon operation reported on 17 November, with federal results published on 18 November.
+    - No weight was published for the 781 marijuana doses or the 432 cocaine doses, so only the 30 kilograms are counted as cannabis.
+    - The contents of the 67 seized vaping devices were not described, so they are not counted as cannabis.
+    - No value estimate was published for the seized drugs, weapons or vehicles.
+    - The 17 November 2026 date is the Tuesday of the afternoon operation reported on 17 November, with federal results published on 18 November.
+    - The Los Noticieristas account names the state Attorney General's Office (Fiscalía General del Estado) as the National Guard's partner, while the earlier accounts describe federal authorities; which prosecutor's office handled the case is not settled.
 ---
 
 Federal forces carried out an operation on the afternoon of Tuesday 17 November
@@ -69,18 +95,17 @@ Federal forces carried out an operation on the afternoon of Tuesday 17 November
 neighbourhood of Mazatlán. [@2] Agents reviewed apartments in the tower and
 inspected vehicles parked in its parking area. [@2] The mobilization involved
 elements of the National Guard and the Attorney General's Office, whose results
-were disclosed the following Wednesday. [@1] No detentions had been officially
+were disclosed the following Wednesday. [@1,3] No detentions had been officially
 confirmed at the time of reporting. [@2]
 
-Officers seized 30 kilograms of marijuana. [@1] The seizure also included 781
-marijuana doses. [@1] Officers also seized 432 cocaine doses. [@1] Officers also
-seized 67 vaping devices. [@1] Among the items seized were a long gun, a short
-gun, three magazines and 110 cartridges. [@1] Three vehicles with stolen-vehicle
-reports were seized. [@1] The vehicles were two grey Toyota Siennas and a white
+Officers seized 30 kilograms of marijuana. [@1,3] The seizure also included 781
+marijuana doses. [@1,3] Officers also seized 432 cocaine doses. [@1,3] Officers also
+seized 67 vaping devices. [@1,3] Among the items seized were a long gun, a short
+gun, three magazines and 110 cartridges. [@1,3] Three vehicles with stolen-vehicle
+reports were seized. [@1,3] The vehicles were two grey Toyota Siennas and a white
 Chevrolet Tornado, which were towed to an official impound lot. [@2]
 
 All of the seized drugs, weapons and vehicles were placed at the disposal of the
 federal ministerial authorities, which opened investigations to determine their
-origin. [@1] Investigators were still trying to establish whether any people
+origin. [@1,3] Investigators were still trying to establish whether any people
 were linked to the seizure. [@1]
-
