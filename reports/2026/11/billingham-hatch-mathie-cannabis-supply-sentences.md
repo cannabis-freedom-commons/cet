@@ -74,22 +74,28 @@ sources:
     publisher: BILD
     date: 2026-11-18
     language: de
+  - title: 'Britse peuter (2) sterft door cocaïne in melkflesje: moeder en haar partner veroordeeld na schuldbekentenis'
+    url: https://www.hln.be/buitenland/britse-peuter-2-sterft-door-cocaine-in-melkflesje-moeder-en-haar-partner-veroordeeld-na-schuldbekentenis~a899d9fc/
+    publisher: HLN
+    date: 2026-11-18
+    language: nl
 open_questions:
-  - No weight, value or quantity was published for the cannabis found at the Billingham home; it was described only as a substantial amount.
-  - Laylah Hatch's death was attributed to cocaine in her milk, not to cannabis, so no cannabis-related death figure is recorded.
-  - The Mirror/AOL report and Teesside Live give Mathie's sentence as 13 years, while the Northern Echo court report gives 13 years and nine months; the more precise court figure is used.
-  - The sentences cover child cruelty, Class A drug supply, cannabis supply and, for Mathie, violent disorder together, so no portion can be attributed to the cannabis offence alone.
-  - Prosecutors could not establish how the cocaine entered Laylah's cup or whether it was deliberately added to her milk.
-  - Bild describes Mathie as Laylah's father, while Cleveland Police and the British court reports describe him as Hatch's boyfriend.
+    - No weight, value or quantity was published for the cannabis found at the Billingham home; it was described only as a substantial amount.
+    - Laylah Hatch's death was attributed to cocaine in her milk, not to cannabis, so no cannabis-related death figure is recorded.
+    - The Mirror/AOL report and Teesside Live give Mathie's sentence as 13 years, while the Northern Echo court report gives 13 years and nine months; the more precise court figure is used.
+    - The sentences cover child cruelty, Class A drug supply, cannabis supply and, for Mathie, violent disorder together, so no portion can be attributed to the cannabis offence alone.
+    - Prosecutors could not establish how the cocaine entered Laylah's cup or whether it was deliberately added to her milk.
+    - Bild describes Mathie as Laylah's father, while Cleveland Police and the British court reports describe him as Hatch's boyfriend.
+    - Hatch's age is given as 22 by HLN and the BBC and as 23 by the account the report's opening sentence follows, and the difference is unresolved.
 ---
 
 Jodie Hatch, 23, and Dale Mathie, 30, were charged with child cruelty and drug
 offences after two-year-old Laylah Hatch died in hospital. [@1] Laylah was found
 unresponsive after emergency services were called to an address in Billingham,
-County Durham, in April 2024. [@1] Laylah died on 10 April 2024, the date Cleveland Police gave for the emergency call about her. [@4] She was rushed to hospital and pronounced
-dead despite the efforts of medics. [@1] Cleveland Police officers searching the
+County Durham, in April 2024. [@1] Laylah died on 10 April 2024, the date Cleveland Police gave for the emergency call about her. [@4] Police arrested the couple after treating Laylah's death as suspicious. [@5] She was rushed to hospital and pronounced
+dead despite the efforts of medics. [@1] Detectives found traces of cocaine in Laylah's milk bottle, stomach, blood and hair. [@5] Cleveland Police officers searching the
 home after Laylah's death uncovered a substantial amount of cannabis and cocaine
-that was within reaching distance of a toddler. [@2,4] A separate search of
+that was within reaching distance of a toddler. [@2,4,5] Det Ch Insp Chris Pringle said the cocaine levels found in Laylah's body could have been fatal to an adult, let alone a small child. [@5] A separate search of
 another address linked to Mathie found other illicit drugs. [@1]
 
 At Teesside Crown Court, prosecutor Richard Wright KC said Mathie was at all
@@ -98,7 +104,7 @@ times a drug dealer who sold cannabis sweets, cannabis bush and amphetamine.
 flat. [@3] Days before Laylah's death she ate a cannabis sweet that knocked her
 out for 17 hours. [@3] Both pleaded guilty to possession with intent to supply a
 Class A drug and Hatch also admitted being concerned in the supply of a Class B
-drug. [@1] The pair changed their pleas to guilty on the third day of their trial. [@4] Hatch admitted a charge of being concerned in the supply of cannabis.
+drug. [@1] The pair changed their pleas to guilty on the third day of their trial. [@4,5] Hatch admitted a charge of being concerned in the supply of cannabis.
 [@3] Mathie admitted possessing cocaine, amphetamine and cannabis with intent to
 supply. [@3]
 
