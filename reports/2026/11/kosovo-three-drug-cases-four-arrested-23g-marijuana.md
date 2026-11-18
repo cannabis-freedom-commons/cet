@@ -52,6 +52,11 @@ sources:
     publisher: KoSSev
     date: 2026-11-18
     language: ro
+  - title: Drie locaties, vier arrestaties en de volledige 27,5 gram drugs in beslag genomen
+    url: https://kossev.info/nl/tri-lokacije-cetiri-hapsenja-i-citavih-275-grama-droge-zaplenjeno/
+    publisher: KoSSev
+    date: 2026-11-18
+    language: nl
 open_questions:
     - The marijuana and cocaine are described only as substances suspected to be of those kinds, with no laboratory confirmation published.
     - The 27.5-gram total includes 3.6 grams of cocaine; the cannabis figure of 23.9 grams covers only the Pristina and Obiliq cases.
@@ -61,27 +66,27 @@ open_questions:
     - Only the day is known, taken from 'yesterday' relative to the 18 November 2026 publication; no times were published.
     - The quantity of drugs seized in the separate Pristina follow-up, in which another suspect was arrested and three cars were seized, was not published.
     - The 22 arrests and 17 detentions in the daily report cover all offences, not only drug cases.
-    - The Chinese, English and Romanian accounts are all KoSSev versions of the Kosovo Police daily report, so they are not independent reporting, and the police statement itself was not opened.
+    - The Chinese, English, Romanian and Dutch accounts are all KoSSev versions of the Kosovo Police daily report, so they are not independent reporting, and the police statement itself was not opened.
     - The places within Pristina, Obiliq and Doganović where the men were found were not described.
 ---
 
 Kosovo Police recorded three separate drug cases during the previous day, 17
-November 2026. [@2] Four people were arrested across the three cases. [@2,3] The
-smallest amount was one gram of marijuana found on a man in Pristina. [@2,3] A gun
+November 2026. [@2,4] Four people were arrested across the three cases. [@2,3,4] The
+smallest amount was one gram of marijuana found on a man in Pristina. [@2,3,4] A gun
 with six bullets was found with the drugs, and he was interrogated and then
-detained on the prosecutor's decision. [@2,3]
+detained on the prosecutor's decision. [@2,3,4]
 
 In Obiliq (Obilić) police arrested two men and seized a total of 22.9 grams of a
-substance suspected to be marijuana from them. [@2,3] Both were detained. [@2,3]
+substance suspected to be marijuana from them. [@2,3,4] Both were detained. [@2,3,4]
 
 In Doganović near Kaçanik a man was found with 3.6 grams of a substance
-suspected to be cocaine. [@2,3] He was released after the hearing and the
-proceedings continue in the regular procedure. [@2,3] Together the three cases
-produced 27.5 grams of narcotics, the police said. [@1,3] The marijuana from the
-Pristina and Obiliq cases makes up 23.9 grams of that total. [@2]
+suspected to be cocaine. [@2,3,4] He was released after the hearing and the
+proceedings continue in the regular procedure. [@2,3,4] Together the three cases
+produced 27.5 grams of narcotics, the police said. [@1,3,4] The marijuana from the
+Pristina and Obiliq cases makes up 23.9 grams of that total. [@2,4]
 
 In Pristina the same day police arrested another suspect in an earlier narcotics
-investigation and seized three cars. [@2,3] The quantity of drugs in that case was
-not specified, so it was not included in the 27.5 grams. [@2,3] Kosovo Police's
+investigation and seized three cars. [@2,3,4] The quantity of drugs in that case was
+not specified, so it was not included in the 27.5 grams. [@2,3,4] Kosovo Police's
 daily report for the day recorded 22 arrests across Kosovo, 17 of them detained,
-for all crimes. [@2,3]
+for all crimes. [@2,3,4]
