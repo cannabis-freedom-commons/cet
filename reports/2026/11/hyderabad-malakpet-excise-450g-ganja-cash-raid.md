@@ -56,36 +56,51 @@ sources:
     publisher: Navadisha
     date: 2026-11-18
     language: te
+  - title: మలక్‌పేటలో గంజాయి కలకలం.. ఇంట్లో లక్షల నగదు
+    url: https://prabhanews.com/cannabis-stir-in-malakpet-lakhs-in-cash-found-in-a-house/
+    publisher: Andhra Prabha
+    date: 2026-11-18
+    language: te
 open_questions:
-  - No separate date for the raid was given; 18 November 2026 is the publication date of the accounts and stands in for the incident date.
-  - None of the accounts says whether Arun Karar was arrested, detained or released after questioning.
-  - No charge, remand or court outcome was reported.
-  - The 450 grams was described as ganja with no laboratory confirmation reported.
-  - No estimated value was published for the 450 grams of ganja.
-  - The Telugu reports describe one weighing machine and packing covers, while Hyderabad Mail reports two digital weighing machines, polythene covers and mobile phones.
-  - The Telugu reports say Karar ran a vegetable business in Ghansi Bazar, while Hyderabad Mail says he supplies canteen services to labourers.
-  - The name is spelt Arun Karar in two accounts and Arun Kharar in Navadisha.
-  - All three accounts appear to draw on the same excise briefing; no statement from the excise department itself was found.
-  - Whether the ₹7.59 lakh came from ganja sales or from hawala dealings was still under investigation.
+    - No separate date for the raid was given; 18 November 2026 is the publication date of the accounts and stands in for the incident date.
+    - None of the accounts says whether Arun Karar was arrested, detained or released after questioning.
+    - No charge, remand or court outcome was reported.
+    - The 450 grams was described as ganja with no laboratory confirmation reported.
+    - No estimated value was published for the 450 grams of ganja.
+    - Andhra Prabha and Hyderabad Mail report two digital weighing machines with packing covers and mobile phones, while the other Telugu accounts describe one weighing machine and packing covers.
+    - The Telugu accounts say Karar ran a vegetable business in Ghansi Bazar, while Hyderabad Mail and Andhra Prabha say he runs a canteen for local labourers.
+    - The name is spelt Arun Karar in most accounts and Arun Kharar in Navadisha.
+    - All the accounts, including Andhra Prabha, appear to draw on the same excise briefing; no statement from the excise department itself was found.
+    - Whether the ₹7.59 lakh came from ganja sales or from hawala dealings was still under investigation.
+media:
+  - kind: photo
+    url: https://prabhanews.com/cannabis-stir-in-malakpet-lakhs-in-cash-found-in-a-house/
+    media_url: https://cdn.prabhanews.com/wp-content/uploads/2026/11/18184620/05-18-768x432.jpg
+    publisher: Andhra Prabha
+    caption: Lead photograph of the Andhra Prabha report, published under the line 'bundles of notes in the house of a man from West Bengal'; the page gives no caption or credit for the image.
+  - kind: video
+    url: https://prabhanews.com/cannabis-stir-in-malakpet-lakhs-in-cash-found-in-a-house/
+    media_url: https://cdn.prabhanews.com/wp-content/uploads/2026/11/18183838/WhatsApp-Video-2026-11-18-at-4.46.15-PM.mp4
+    publisher: Andhra Prabha
+    caption: Portrait video file published with the Andhra Prabha report of the raid, a WhatsApp clip from the day of publication; the page gives no caption or credit.
 ---
 
 Excise police searched a house in Mehendi Galli, Gansi Bazaar, Malakpet,
-Hyderabad, acting on information that ganja was being sold there. [@2] Officers
-seized 450 grams of ganja and ₹7.59 lakh in cash during the raid. [@2] The house
-belonged to Arun Karar, a native of West Bengal. [@2] Karar came to Hyderabad
+Hyderabad, acting on information that ganja was being sold there. [@2,4] Officers
+seized 450 grams of ganja and ₹7.59 lakh in cash during the raid. [@2,4] The house
+belonged to Arun Karar, a native of West Bengal. [@2,4] Karar came to Hyderabad
 from Howrah two years earlier, police found. [@1] He ran a vegetable business in
 Ghansi Bazar and, the inquiry found, sold ganja behind that business. [@1]
 Excise officials found he supplied ganja only to customers he knew. [@1]
 
 Officers found 76 bundles of ₹500 notes, each holding ₹10,000, in the house.
 [@3] They also seized two digital weighing machines, polythene covers and mobile
-phones. [@2] Excise Superintendent Vijay Bhaskar Goud said Karar supplies
+phones. [@2,4] Excise Superintendent Vijay Bhaskar Goud said Karar supplies
 canteen services to labourers working in the area. [@2] Goud said the seized
-ganja and cash were handed over to the Malakpet Excise Station. [@2]
+ganja and cash were handed over to the Malakpet Excise Station. [@2,4] The checks at the house were led by Malakpet Excise Circle Inspector Narender, with sub-inspector Fatima and other staff taking part in the raid. [@4]
 
 Officials questioned Karar about the source of the cash and whether it had been
-earned through ganja sales. [@2] He gave no satisfactory answer, and officials
-are conducting a detailed inquiry. [@2] Investigators are examining whether the
+earned through ganja sales. [@2,4] He gave no satisfactory answer, and officials
+are conducting a detailed inquiry. [@2,4] Investigators are examining whether the
 cash is linked to a hawala network. [@1] They are also checking who supplied
 Karar with ganja and who his customers were. [@1]
-
