@@ -26,28 +26,30 @@ sources:
     url: https://brighterkashmir.com/four-drug-peddlers-arrested-in-anantnag-kupwara
     publisher: Brighter Kashmir
     date: 2026-11-18
+  - title: 4 drug-peddlers arrested - Daily Excelsior
+    url: https://www.dailyexcelsior.com/4-drug-peddlers-arrested-4/amp/?utm=relatedarticles
+    publisher: Daily Excelsior
+    date: 2026-11-18
 open_questions:
-  - The charas weights are police field figures with no laboratory confirmation reported, and the 10-gram recovery is stated as approximate.
-  - The 80-gram heroin-like substance from the Kupwara check is described only as heroin-like and is excluded from the cannabis figures.
-  - 17 November 2026 is the Srinagar dateline of the report, published on 18 November 2026, with no separate time given for the checks.
-  - No custody decisions, charges beyond registration of cases, or court outcomes were reported.
-  - The account rests on a single opened report with no second account found.
+    - The charas weights are police field figures with no laboratory confirmation reported, and the 10-gram recovery is stated as approximate.
+    - The 80-gram heroin-like substance from the Kupwara check is described only as heroin-like and is excluded from the cannabis figures.
+    - 17 November 2026 is the Srinagar dateline of the report, published on 18 November 2026, with no separate time given for the checks.
+    - No custody decisions, charges beyond registration of cases, or court outcomes were reported.
 ---
 
 Police arrested four alleged drug peddlers in separate operations in Anantnag
-and Kupwara on 17 November 2026. [@1] A Police Post Janglatmandi party
+and Kupwara on 17 November 2026. [@1,2] A Police Post Janglatmandi party
 apprehended Owais Ibrahim Sofi of Acchabal during naka checking. [@1] A Police
 Station Dooru party apprehended Sabzar Ahmad Sheikh of Nowgam in another
 operation. [@1] A PS Karnah party apprehended Showkat Ahmad Sheikh of Bakhaya
 and Saddam Khan of Tangdhar Naad Karnah during dynamic naka checking in Kupwara.
 [@1]
 
-Officers recovered 646 grams of charas from Sofi. [@1] Officers recovered
-approximately 10 grams of charas from Sheikh. [@1] Officers recovered
+Officers recovered 646 grams of charas from Sofi. [@1,2] Officers recovered
+approximately 10 grams of charas from Sheikh. [@1,2] Officers recovered
 approximately 80 grams of a heroin-like substance from the two Kupwara men,
-which is not counted in the cannabis figures. [@1]
+which is not counted in the cannabis figures. [@1,2]
 
 Cases under relevant sections of law were registered at the respective police
 stations, with further investigation underway into the source and possible links
-of the contraband. [@1]
-
+of the contraband. [@1,2]
