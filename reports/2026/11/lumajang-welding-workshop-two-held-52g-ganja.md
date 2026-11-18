@@ -71,25 +71,31 @@ sources:
     publisher: RRI.co.id
     date: 2026-11-18
     language: id
+  - title: Polisi Ringkus Dua Pengedar Senduro, Sita 6,47 Gram Sabu dan Ganja
+    url: https://memorandum.disway.id/amp/175037/polisi-ringkus-dua-pengedar-senduro-sita-647-gram-sabu-dan-ganja
+    publisher: Memorandum.co.id
+    date: 2026-11-18
+    language: id
 open_questions:
   - No figure for the value of the 52.31 grams of ganja was published.
   - The 6.47 grams of methamphetamine seized alongside the ganja is excluded from the cannabis figures.
+  - It is unclear whether the arrests at the welding workshop occurred on the night of 12 November 2026 or on 18 November 2026.
 ---
 
 The narcotics unit of Lumajang district police arrested two men on suspicion of
-trafficking methamphetamine and cannabis in Lumajang regency, East Java. [@1,3,4,5] Police said the arrests took place on Wednesday 18 November 2026. [@3] AR
+trafficking methamphetamine and cannabis in Lumajang regency, East Java. [@1,3,4,5,6] Police said the arrests took place on Wednesday 18 November 2026. [@3] AR
 (37) and HI (47) were arrested at a welding workshop in Kandangtepus village,
 Senduro district, after officers followed up a tip from residents about drug
-dealing at the premises. [@1,3,5] AR is from Pagowan village in Pasrujambe district
+dealing at the premises. [@1,3,5,6] AR is from Pagowan village in Pasrujambe district
 and HI from Sarikemuning village in Senduro district. [@1,5] Police said AR told
 them he obtained the cannabis from HI, and officers then tracked HI down and
 searched him. [@2,3]
 
 Officers seized 52.31 grams of cannabis and 6.47 grams of methamphetamine, both
-gross weights, from the two men. [@1,3,4,5] They also took a silver digital scale, Rp
-15,000 in cash and Rp 200,000 that police believe came from drug sales. [@1,3,4,5] A
+gross weights, from the two men. [@1,3,4,5,6] They also took a silver digital scale, Rp
+15,000 in cash and Rp 200,000 that police believe came from drug sales. [@1,3,4,5,6] A
 black Yamaha Vega motorcycle without a licence plate, which belonged to HI, was
-also seized. [@1,3,4,5]
+also seized. [@1,3,4,5,6]
 
 Both suspects and the evidence were taken to Lumajang district police
 headquarters for examination and further legal proceedings. [@1,3,5] Police said
