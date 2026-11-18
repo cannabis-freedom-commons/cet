@@ -124,6 +124,11 @@ sources:
     publisher: Informe Baiano
     date: 2026-11-17
     language: pt
+  - title: CIPE/CAATINGA atua na Operação Safra Oculta e erradica plantação com 5.200 pés de maconha em Ibó-PE – Blog do Didi Galvão
+    url: https://didigalvao.com.br/cipe-caatinga-atua-na-operacao-safra-oculta-e-erradica-plantacao-com-5-200-pes-de-maconha-em-ibo-pe/
+    publisher: Blog do Didi Galvão
+    date: 2026-11-17
+    language: pt
 open_questions:
     - Earlier accounts report 11 arrests while this account reports 13, with the last two in Garanhuns, Pernambuco; the report retains 11 pending confirmation of the final tally.
 ---
@@ -136,19 +141,19 @@ of financing and producing the drug and of hiding assets and money through
 individuals and companies. [@1,6,8,9] The concealment allegedly used legal entities, including fuel-sector establishments. [@7,10]
 
 Sixteen temporary arrest warrants and 25 search and seizure warrants were issued
-for the operation. [@3,5,7,10] Arrest and search warrants were served in Salvador,
+for the operation. [@3,5,7,10,12] Arrest and search warrants were served in Salvador,
 Abaré and Senhor do Bonfim in Bahia, and in Petrolina, Belém do São Francisco,
-Carnaubeira da Penha, Ibimirim and Recife in Pernambuco. [@1,4,6,7] Officers seized a
+Carnaubeira da Penha, Ibimirim and Recife in Pernambuco. [@1,4,6,7,12] Officers seized a
 rifle, a pistol, magazines, ammunition, mobile phones and documents. [@1,4,6,8,9,11]
 Searches also turned up mobile phones, cash and vehicles. [@3] Officers also seized 50,000 reais in cash. [@11] Police also
 worked to eradicate a large cannabis plantation in Belém de São Francisco,
-Pernambuco, linked to one of the suspects. [@3,4,5,6,7,9,10,11] As part of the operation, CIPE/Caatinga and BOPE/PMBA eradicated a Cannabis sativa plantation of about 5,200 plants in the municipality of Ibó, Pernambuco. [@5] One target, a woman living in
+Pernambuco, linked to one of the suspects. [@3,4,5,6,7,9,10,11,12] As part of the operation, CIPE/Caatinga and BOPE/PMBA eradicated a Cannabis sativa plantation of about 5,200 plants in the municipality of Ibó, Pernambuco. [@5,12] One target, a woman living in
 Senhor do Bonfim in northern Bahia, was investigated for moving more than 1
 million reais through bank accounts linked to the scheme. [@1,4,8] At one address
 officers seized mobile phones and documents that will undergo forensic
 examination, and took a man to the Federal Police station in Juazeiro, northern
 Bahia. [@1] Investigations identified more than 116 million reais in financial
-transactions attributed to the group. [@1,4,5,6,7,8,10,11] A court ordered the freezing and
+transactions attributed to the group. [@1,4,5,6,7,8,10,11,12] A court ordered the freezing and
 seizure of assets and funds up to a limit of 300 million reais. [@2,4,6,8,9]
 
 The operation was coordinated by the Federal Police through its Base Carcará in
