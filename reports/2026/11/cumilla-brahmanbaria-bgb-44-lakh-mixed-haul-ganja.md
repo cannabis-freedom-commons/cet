@@ -50,32 +50,42 @@ sources:
     publisher: Face The People
     date: 2026-11-18
     language: bn
+  - title: সীমান্তে মাদকসহ ৪৪ লাখ টাকার চোরাই পণ্য জব্দ
+    url: https://www.kalbela.com/country-news/351333
+    publisher: Kalbela
+    date: 2026-11-18
+    language: bn
 open_questions:
-  - No weight, packet count or separate value was given for the ganja in the mixed haul, so no cannabis quantity is recorded.
-  - The 4,426,390-taka estimate covers fireworks, cattle, food, household goods, liquor and beer as well as the ganja, and cannot be separated into a cannabis value.
-  - The accounts do not say which of the six outposts recovered the ganja, or what the person detained was held with.
-  - 18 November 2026 is the date of the battalion's press release and of publication; the accounts give no separate date for the drives.
-  - No charge, case filing or court outcome was reported for the person detained.
-  - Neither account names the person detained or says whether he was suspected of carrying the ganja or other goods.
-  - Both reports reproduce the same Sultanpur Battalion press release and are not independent reporting.
+    - No weight, packet count or separate value was given for the ganja in the mixed haul, so no cannabis quantity is recorded.
+    - The 4,426,390-taka estimate covers fireworks, cattle, food, household goods, liquor and beer as well as the ganja, and cannot be separated into a cannabis value.
+    - The accounts do not say which of the six outposts recovered the ganja, or what the person detained was held with.
+    - 18 November 2026 is the date of the battalion's press release and of publication; the accounts give no separate date for the drives.
+    - No charge, case filing or court outcome was reported for the person detained.
+    - None of the accounts names the person detained or says whether he was suspected of carrying the ganja or other goods.
+    - Kalbela, NewsNow24 and Face The People all reproduce the same Sultanpur Battalion press release and are not independent reporting.
+media:
+  - kind: photo
+    url: https://www.kalbela.com/country-news/351333
+    media_url: https://www.kalbela.com/assets/news_photos/2026/11/18/image_351333_1794999954.png
+    publisher: Kalbela
+    caption: 'Seized smuggled goods from the Sultanpur Battalion''s drives on the Cumilla-Brahmanbaria border, captioned as a BGB handout. Photo: courtesy of Border Guard Bangladesh'
 ---
 
 Patrols of Border Guard Bangladesh's Sultanpur Battalion (60 BGB) seized
 smuggled goods worth an estimated 4,426,390 taka (44 lakh 26 thousand 390) in
-separate drives on the Brahmanbaria and Cumilla border. [@1] One person was
-detained in the drives. [@1] The battalion announced the results in a press
-release issued on Wednesday 18 November 2026. [@1]
+separate drives on the Brahmanbaria and Cumilla border. [@1,3] One person was
+detained in the drives. [@1,3] The battalion announced the results in a press
+release issued on Wednesday 18 November 2026. [@1,3]
 
 Patrol teams from the Akhaura, Chandidar and Moinpur outposts in Akhaura and
 Kasba upazilas of Brahmanbaria and the Saldanadi, Shashidal and Shankuchail
 outposts in Brahmanpara and Burichang upazilas of Cumilla worked their own
-stretches of the border. [@1] Among the goods seized were Indian illegal
+stretches of the border. [@1,3] The battalion said the patrols acted on specific intelligence information. [@3] Among the goods seized were Indian illegal
 fireworks, locks, cattle, olive oil, soap, vaseline, biscuits, ganja, liquor and
-beer. [@1] The battalion put one estimated market value of 4,426,390 taka on the
-whole consignment rather than on the cannabis alone. [@2]
+beer. [@1,3] The battalion put one estimated market value of 4,426,390 taka on the
+whole consignment rather than on the cannabis alone. [@2,3]
 
 BGB said its operations and intelligence work to protect the border and stop
 illegal entry, trafficking of women and children, drugs and smuggling would
-continue. [@1] A second report, by Face The People, listed the same six border
+continue. [@1,3] A second report, by Face The People, listed the same six border
 outposts and the same mix of fireworks, cattle, food, liquor and ganja. [@2]
-
