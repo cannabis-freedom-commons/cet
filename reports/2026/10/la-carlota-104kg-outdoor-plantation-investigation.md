@@ -48,6 +48,11 @@ media:
     media_url: https://static.grupojoly.com/clip/1e1c8aa0-3ced-465f-82a8-af42bb5dfabe_source-aspect-ratio_1600w_0.jpg
     publisher: El Día de Córdoba
     caption: 'Dismantled marijuana crop in La Carlota. Photo: El Día'
+  - kind: photo
+    url: https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20261118/investigado-cultivar-marihuana-cielo-abierto-carlota_482525.html
+    media_url: https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/11/18/6afdc645e6eff.r_d.1000-1030-6000.jpeg.webp
+    publisher: El Debate
+    caption: 'Marijuana plants growing in the open plot in La Carlota that the Guardia Civil dismantled. Photo: La Voz'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2e642393d00e1d2a5e12d57bdda2b230
@@ -68,28 +73,28 @@ sources:
     publisher: Europa Press
     date: 2026-11-18
     language: es
-open_questions:
-  - The sources place the discovery and dismantling in October 2026 without giving a day; 15 October is used as a stand-in date.
-  - No arrest or detention was reported; the suspect was recorded as investigated and no identity details were published.
-  - The 104 kg figure is the weight of freshly cut green plants, not a dried weight, and no value estimate was published.
-  - No court outcome, charge sheet detail or plea was reported beyond referral of the proceedings to the judicial authority.
+  - title: Investigado por cultivar marihuana a cielo abierto en La Carlota
+    url: https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20261118/investigado-cultivar-marihuana-cielo-abierto-carlota_482525.html
+    publisher: El Debate
+    date: 2026-11-18
+    language: es
 ---
 
 The Guardia Civil, with the help of La Carlota local police, investigated one
 person as the alleged perpetrator of a public-health offence for cultivating and
-producing drugs. [@1] In October 2026, officers from the La Victoria and La
+producing drugs. [@1,4] In October 2026, officers from the La Victoria and La
 Carlota posts were called in by the local police after a strong smell of
-marijuana was noticed near several homes in the town. [@1,3]
+marijuana was noticed near several homes in the town. [@1,3,4]
 
 After checks and inspections of nearby land, officers found the marijuana
 plantation growing on open rustic land with no fence or other barrier to access.
-[@1] The plot held 16 marijuana plants, 14 of them in an advanced state of
+[@1,4] The plot held 16 marijuana plants, 14 of them in an advanced state of
 flowering, reaching 1.70 metres tall and fitted with a drip-irrigation system
-ensuring a constant water supply. [@1,3] Officers dismantled the plantation, with
-the freshly cut plants weighing 104 kilograms when green. [@2,3]
+ensuring a constant water supply. [@1,3,4] Officers dismantled the plantation, with
+the freshly cut plants weighing 104 kilograms when green. [@2,3,4]
 
 Following inquiries, the Guardia Civil identified the person allegedly
 responsible for the plot and recorded them as under investigation for
-cultivation and production of drugs. [@1,3] The proceedings were sent to the
+cultivation and production of drugs. [@1,3,4] The proceedings were sent to the
 competent judicial authority, with the seized plants held at the court's
-disposal for later analysis and destruction. [@1,3]
+disposal for later analysis and destruction. [@1,3,4]
