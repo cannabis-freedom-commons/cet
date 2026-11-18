@@ -65,6 +65,11 @@ media:
     media_url: https://s.lebanondebate.com/storage/attachments/900/PNL13112026152853_03_252686.jpg/r/2400/PNL13112026152853_03_252686.jpg
     publisher: Lebanon Debate
     caption: Lebanese Army photos of the Hermel-Baalbek cannabis destruction operation published with the Lebanon Debate report.
+  - kind: photo
+    url: https://elsiyasa.com/article/436458
+    media_url: https://elsiyasa.com/uploads/4339465957926-11-132f064c8b656dde2b57ef817caf27cc521b65762f.jpg
+    publisher: Elsiyasa
+    caption: Marijuana plants growing inside a greenhouse at one of the destroyed sites in the Hermel-Baalbek operation, in the image published with the army statement.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 08d73bb130b4c56e86d3600fb107ae88
@@ -183,22 +188,31 @@ sources:
     publisher: Lebanon24
     date: 2026-11-13
     language: ar
+  - title: من سهل مرجحين إلى بوداي... الجيش يُتلف 215 طنًا من الحشيشة والماريجوانا
+    url: https://elsiyasa.com/article/436458
+    publisher: Elsiyasa
+    date: 2026-11-13
+    language: ar
+open_questions:
+    - The army gave 215 tonnes as a combined figure for hashish and marijuana, with no separate weight for each.
+    - No area cleared and no count of the greenhouses, tents or farms destroyed was published.
+    - The army said searches to arrest those involved were continuing; no arrests, charges or court steps have been reported.
 ---
 
 The Lebanese Army announced the destruction of 215 tonnes of cannabis and
 marijuana in the Hermel and Baalbek regions during a three-day operation against
-drug trafficking. [@1,4,12,14,15,18,19,20,22,23] The 13 November date was the publication date of the army statement, not the date of a single operation lasting one day. [@20] The army said the operation was part of security
-follow-up to combat narcotics and pursue people undermining security. [@1,3,11,12,13,14] The statement announcing the destructions was issued by Army Command – Guidance Directorate. [@12]
+drug trafficking. [@1,4,12,14,15,18,19,20,22,23,24] The 13 November date was the publication date of the army statement, not the date of a single operation lasting one day. [@20] The army said the operation was part of security
+follow-up to combat narcotics and pursue people undermining security. [@1,3,11,12,13,14,24] The statement announcing the destructions was issued by Army Command – Guidance Directorate. [@12,24]
 
 One army unit destroyed 200 tonnes of cannabis resin and marijuana, along with
 agricultural greenhouses and planted land, in the Marjehin plain area of Hermel
-over three days. [@1,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23] The three-day period described the Marjhin intervention, not necessarily all of the operations. [@20] Another unit raided several farms in the Boudai area of
+over three days. [@1,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24] The three-day period described the Marjhin intervention, not necessarily all of the operations. [@20] Another unit raided several farms in the Boudai area of
 Baalbek, destroying 15 tonnes of cannabis and a greenhouse planted with
-marijuana. [@1,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23] In Boudai the unit seized machines used to manufacture the
-drugs. [@1,3,7,8,9,10,11,12,13,14,16,18,19,20,22]
+marijuana. [@1,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24] In Boudai the unit seized machines used to manufacture the
+drugs. [@1,3,7,8,9,10,11,12,13,14,16,18,19,20,22,24]
 
 Annahar corroborated the same account, reporting 200 tonnes destroyed with
 greenhouses and planted land in the Marjehin plain of Hermel and 15 tonnes with
 a marijuana tent and manufacturing machines seized in Boudai, Baalbek. [@2] The
 seized items were handed over to the authorities, and searches were continuing
-to arrest the people involved, with no arrests reported. [@1,3,5,7,8,9,10,11,12,13,14,18,19,20,23]
+to arrest the people involved, with no arrests reported. [@1,3,5,7,8,9,10,11,12,13,14,18,19,20,23,24]
