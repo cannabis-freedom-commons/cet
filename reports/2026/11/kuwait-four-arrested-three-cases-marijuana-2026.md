@@ -52,6 +52,16 @@ sources:
     publisher: الوطن الإلكترونية
     date: 2026-11-17
     language: ar
+  - title: 'الداخلية: ضبط 4 متهمين في 3 قضايا للاتجار بالمواد المخدرة والمؤثرات العقلية وتعاطيها'
+    url: https://kuwaitnews.com/138939/
+    publisher: كويت نيوز
+    date: 2026-11-17
+    language: ar
+  - title: '«الداخلية»: ضبط 4 آسيويين في 3 قضايا بحوزتهم مواد مخدرة للاتجار والتعاطي'
+    url: https://www.aljarida.com/article/150839
+    publisher: جريدة الجريدة
+    date: 2026-11-17
+    language: ar
 open_questions:
   - No separate date is given for the arrests; 17 November 2026 is the date of the Interior Ministry statement and of publication and is used as the incident date.
   - The 510 grams of shabu, 250 sheets of 'chemical' and 250 Lyrica capsules are other substances and are excluded from the cannabis weight; whether 'chemical' is a synthetic cannabinoid is not stated.
@@ -59,22 +69,28 @@ open_questions:
   - Neither account gives the nationalities of the other three suspects or reports charges or a court outcome; the cases were referred to the competent authority.
   - Both opened accounts reproduce the same Interior Ministry statement, so they are not independent reporting.
   - Farwaniya is named only for the case involving the Bangladeshi suspect; the locations of the other two cases are not given.
+media:
+  - kind: photo
+    url: https://kuwaitnews.com/138939/
+    media_url: https://kuwaitnews.com/wp-content/uploads/2026/11/moi-arrest5.jpg
+    publisher: كويت نيوز
+    caption: The article's lead photo, captioned 'من الموقوفين' (of the detainees), published with the report on the four arrests in the three cases; no photo credit given.
 ---
 
 Kuwait's Criminal Security Sector, acting through the General Administration for
 Drug Control, arrested four suspects of Asian nationalities in three separate
-cases, the Interior Ministry said. [@1,3] The ministry said the men held narcotic
+cases, the Interior Ministry said. [@1,3,4] The ministry said the men held narcotic
 and psychotropic substances with intent to traffic and use them, as part of
-continuing security campaigns against drugs. [@2,3] In one of the cases, officers
+continuing security campaigns against drugs. [@2,3,5] In one of the cases, officers
 arrested a Bangladeshi national in the Farwaniya area and established that a
-person living outside Kuwait was supplying him with the material. [@1,3]
+person living outside Kuwait was supplying him with the material. [@1,3,5]
 
 The ministry put the combined seizures in the three cases at 1.5 kilograms of
-marijuana and 150 grams of hashish, 1.65 kilograms of cannabis in total. [@1,3]
+marijuana and 150 grams of hashish, 1.65 kilograms of cannabis in total. [@1,3,4]
 Alongside these, officers seized 510 grams of shabu (crystal methamphetamine),
 250 sheets soaked in a synthetic substance known locally as 'chemical', and 250
 capsules of the prescription drug Lyrica, together with three sensitive scales
-and empty packaging bags. [@1,3]
+and empty packaging bags. [@1,3,5]
 
 The four suspects and all seized items were referred to the competent authority
-for the necessary legal action, the ministry said. [@2,3]
+for the necessary legal action, the ministry said. [@2,3,4]
