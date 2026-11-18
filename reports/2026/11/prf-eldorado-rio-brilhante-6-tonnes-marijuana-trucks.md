@@ -54,6 +54,11 @@ media:
     media_url: https://cdn.idest.com.br/noticia/2026/11/e2f4e0e5-038a-4f95-94c2-8e0eead7b2c1.webp
     publisher: Idest
     caption: 'PRF handout photo published with the Idest account of the two truck seizures in Eldorado and Rio Brilhante. Photo: Divulgação PRF'
+  - kind: photo
+    url: https://www.caaraponews.com.br/noticia/175123/prf-apreende-mais-de-6-toneladas-de-maconha-em-duas-ocorrencias-g1
+    media_url: https://www.caaraponews.com.br/userfiles/uploads/imagens/materias/2026/11/original/8b6ba067-81f3-4a12-b278-05687a924163.jpg
+    publisher: Caarapó News
+    caption: 'PRF handout photo of the marijuana seized in the two Eldorado and Rio Brilhante truck stops, published with the Caarapó News account. Photo: PRF'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a8e9db903d6820cbbd09a9512544f613
@@ -99,9 +104,11 @@ sources:
     publisher: Idest
     date: 2026-11-17
     language: pt
-open_questions:
-    - No court outcome, charges or detention measure beyond the referral of both cases to the Civil Police was reported.
-    - The 9.1 kilograms of skunk is included in the cannabis total rather than counted separately.
+  - title: PRF apreende mais de 6 toneladas de maconha em duas ocorrências | G1
+    url: https://www.caaraponews.com.br/noticia/175123/prf-apreende-mais-de-6-toneladas-de-maconha-em-duas-ocorrencias-g1
+    publisher: Caarapó News
+    date: 2026-11-17
+    language: pt
 ---
 
 The Federal Highway Police seized 6,048 kilograms of marijuana in two stops in
@@ -109,16 +116,16 @@ Mato Grosso do Sul on Monday 16 November 2026. [@2,4,5,6,7,8] The police said bo
 followed the force's own risk-analysis work. [@2,4,5,7,8] In Eldorado, officers
 supported by the Military Police found 2,670 kilograms of marijuana hidden in a
 truckload of charcoal that had been loaded in Sete Quedas and was bound for
-Maringá in Paraná. [@2,5,6,7,8] In Eldorado the inspection was carried out as part of
+Maringá in Paraná. [@2,5,6,7,8,9] In Eldorado the inspection was carried out as part of
 the integrated Operation Piracema enforcement with the Environmental Military
-Police. [@3]
+Police. [@3,9]
 
 The Eldorado driver claimed not to know the drug was in the vehicle, and he was
-arrested and sent with the drug and the truck to the Eldorado Civil Police. [@2,4,5,6,7,8] Both drivers were arrested in the Eldorado and Rio Brilhante stops. [@6]
+arrested and sent with the drug and the truck to the Eldorado Civil Police. [@2,4,5,6,7,8,9] Both drivers were arrested in the Eldorado and Rio Brilhante stops. [@6]
 In Rio Brilhante, the driver of the second truck admitted he had collected the
 vehicle already loaded with the drugs in Itaporã and was taking them to São
-Paulo. [@2,4,5,6,7,8] Officers in Rio Brilhante found 3,378 kilograms of marijuana and 9.1
-kilograms of skunk hidden in the truck's cargo compartment. [@2,4,5,6,7,8] That case was
-referred to the Rio Brilhante Civil Police. [@2,4,5,7,8] The Eldorado seizure accounted
+Paulo. [@2,4,5,6,7,8,9] Officers in Rio Brilhante found 3,378 kilograms of marijuana and 9.1
+kilograms of skunk hidden in the truck's cargo compartment. [@2,4,5,6,7,8,9] That case was
+referred to the Rio Brilhante Civil Police. [@2,4,5,7,8,9] The Eldorado seizure accounted
 for 2,670 kilograms hidden in the charcoal load, and the Rio Brilhante seizure
 made up the rest of the roughly six-tonne total. [@1]
