@@ -47,19 +47,18 @@ sources:
     publisher: पब्लिक प्रेस
     date: 2026-11-18
     language: ne
-open_questions:
-  - The article gives no separate date for the arrests; 18 November 2026 is its publication date and is used as the incident date.
-  - No quantity, value or plant count was published for the marijuana, and the reports do not say which of those arrested had it.
-  - The reports give no names, ages or formal charges for any of the 21, and no court outcome was reported.
-  - The three accounts reproduce the same Nepal Police Central Police Newsroom statement and are not independent reporting.
+  - title: 21 arrested with narcotics in 10 districts
+    url: https://english.onlinekhabar.com/21-arrested-with-narcotics-in-10-districts.html
+    publisher: OnlineKhabar English News
+    date: 2026-11-18
 ---
 
 Police on regular patrol arrested 21 people across Nepal on charges of
-possessing illegal drugs. [@1] The Nepal Police Central Police Newsroom said one
+possessing illegal drugs. [@1,4] The Nepal Police Central Police Newsroom said one
 person each was arrested in Lalitpur, Bardia, Dang, Kailali, Jhapa and
-Makawanpur districts. [@1] Four people each were arrested in Kanchanpur and
-Sunsari districts and three in Morang. [@1] A further four were arrested in
-Chitwan, police stated. [@1]
+Makawanpur districts. [@1,4] Four people each were arrested in Kanchanpur and
+Sunsari districts and three in Morang. [@1,4] A further four were arrested in
+Chitwan, police stated. [@1,4]
 
 The 10 districts named were Bardiya, Kanchanpur, Sunsari, Dang, Kailali, Jhapa,
 Makawanpur, Chitwan, Lalitpur and Morang. [@3] The largest group, four people,
@@ -69,8 +68,7 @@ Two were arrested in Laljhadi Rural Municipality-6, Kanchanpur, and two more
 elsewhere in that municipality, with one held in Gulariya-11, Bardiya. [@3]
 
 Police seized brown heroin, marijuana and prescription medicines including
-tramadol from those arrested. [@1] Tramadol, which can only be bought on a
+tramadol from those arrested. [@1,4] Tramadol, which can only be bought on a
 doctor's prescription, was among the medicines taken. [@2] Ganja, the Nepali
 word for marijuana, was among the drugs recovered. [@3] Police said further
 investigation into those arrested was under way. [@3]
-
