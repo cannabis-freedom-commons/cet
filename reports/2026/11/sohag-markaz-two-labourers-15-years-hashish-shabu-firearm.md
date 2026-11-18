@@ -53,6 +53,11 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-18
     language: ar
+  - title: أحكام مشددة بحق 3 متهمين بالاتجار في الشابو والحشيش بسوهاج.. السجن من 3 إلى 15 عامًا
+    url: https://www.dostor.org/5782716
+    publisher: جريدة الدستور
+    date: 2026-11-18
+    language: ar
 open_questions:
   - No separate date was given for the verdict or the hearing; 18 November 2026, the publication date of both accounts, is used as the incident date.
   - No weight, purity, street value or fine for the hashish was reported, and the drug is identified only as hashish.
@@ -61,12 +66,13 @@ open_questions:
   - No appeal or further court step was reported after the ruling.
   - Both accounts reproduce the same court report in near-identical wording, so they are not independent reporting.
   - Another Sohag Criminal Court ruling reported the same day in the same markaz gave one defendant 15 years and another three for hashish and an unlicensed Turkish shotgun; the different initials, ages and charges point to a separate case, but the reports do not say so.
+  - The headline says three defendants and the lead mentions separate cases in Sohag, Tama and Jazirat Shandawil, but the body details only the same two defendants, so the third person and the other districts cannot be recorded from this page.
 ---
 
 The Sohag Criminal Court sentenced two men to 15 years in prison for trafficking
-hashish and shabu, the Egyptian street name for methamphetamine. [@1] Both were
+hashish and shabu, the Egyptian street name for methamphetamine. [@1,3] Both were
 also sentenced to three years for possessing a firearm without a licence in the
-same ruling in the Sohag markaz. [@1] The two defendants were described as
+same ruling in the Sohag markaz. [@1,3] The two defendants were described as
 labourers and named only by their initials. [@1]
 
 Prosecutors charged them with trafficking hashish and shabu on a wide scale in
@@ -74,8 +80,7 @@ the markaz, a district around an Egyptian town, and with promoting the drugs to
 users and to "people of taste", a local term for habitual takers. [@1] The
 charges also included holding a firearm without a licence. [@1] The case dates
 to 2026; the two men were arrested, admitted the offence when confronted, and
-were referred to the criminal court, which issued the ruling. [@1]
+were referred to the criminal court, which issued the ruling. [@1,3]
 
 Al-Dostor reported the same ruling, the same charges and the same defendants'
 initials, dating the case to 2026 in the Sohag markaz. [@2]
-
