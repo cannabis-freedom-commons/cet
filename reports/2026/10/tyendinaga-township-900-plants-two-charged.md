@@ -66,6 +66,11 @@ media:
     media_url: https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/11/Screenshot-2026-11-18-120401.png?quality=90&strip=all&w=564&h=423&type=webp&sig=PM-Is-DUqxzrQO0jjkirXw
     publisher: Toronto Sun
     caption: 'Aerial view of the illegal cannabis grow operation in Tyendinaga Township dismantled by the OPP. Photo: Ontario Provincial Police'
+  - kind: photo
+    url: https://guelph.ctvnews.ca/ottawa/article/opp-seize-850000-in-illegal-cannabis-from-grow-op-in-tyendinaga-township/
+    media_url: https://www.ctvnews.ca/resizer/v2/V6B66IQ5PBAHLFBXZXNAAZD5QI.png?auth=b8d36d0e4603c9f5edaff5d472609b907e9ad6077f2d906fee834f455b2e98dd&width=1440&height=810
+    publisher: CTV News
+    caption: 'Cannabis seized in the 29 October 2026 OPP raid on the Tyendinaga Township grow operation, in a police handout photograph. Photo: Ontario Provincial Police'
 status: reported
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: a2684cb9fe7c13780cbccadf9c0cfe92
@@ -103,6 +108,10 @@ sources:
     url: https://torontosun.com/news/provincial/illegal-weed-grow-op-bust-belleville-opp
     publisher: Toronto Sun
     date: 2026-11-18
+  - title: OPP seize $850,000 in illegal cannabis from grow op in Tyendinaga Township
+    url: https://guelph.ctvnews.ca/ottawa/article/opp-seize-850000-in-illegal-cannabis-from-grow-op-in-tyendinaga-township/
+    publisher: CTV News
+    date: 2026-11-18
 open_questions:
     - The 29 October 2026 search warrant is the incident date; 18 November 2026 is when the OPP announced the charges.
     - The 125 cannabis clones are reported separately and are not included in the 900 plants figure.
@@ -122,13 +131,13 @@ illicit cannabis. [@2,3,6,8] Both were released from custody and are scheduled t
 appear before the Ontario Court of Justice in Napanee in January. [@2,3,6,8] The first appearance is set for 26 January. [@8]
 
 Officers executed the warrant at the property on 29 October 2026 and arrested
-the two people there. [@2,4,6,8] The property is on Shannon Road in Tyendinaga Township. [@6] The search was carried out by officers from the Lennox and Addington County OPP detachment and the provincial police's joint forces cannabis enforcement team and emergency response teams. [@3,5,6] Police seized 900 illegal cannabis plants, 190
+the two people there. [@2,4,6,8,9] The property is on Shannon Road in Tyendinaga Township. [@6] The search was carried out by officers from the Lennox and Addington County OPP detachment and the provincial police's joint forces cannabis enforcement team and emergency response teams. [@3,5,6] Police seized 900 illegal cannabis plants, 190
 kilograms of illegal cannabis, 215 kilograms of cannabis shake, 125 cannabis
-clones and three cell phones. [@2,4,6,8] The OPP estimated the street value of the
-seizure at $850,000. [@2,4,5,6,7,8]
+clones and three cell phones. [@2,4,6,8,9] The OPP estimated the street value of the
+seizure at $850,000. [@2,4,5,6,7,8,9]
 
 The investigation began in October after a member of the public gave the OPP
-information about a suspected illegal production site. [@2,3,4,5,6,8] The OPP released a
+information about a suspected illegal production site. [@2,3,4,5,6,8,9] The OPP released a
 photograph of a truck loaded with cannabis at the site in Tyendinaga Township.
 [@1] The Kingston Whig-Standard reported more than $850,000 worth of illegal
 cannabis and the dismantling of a commercial-scale grow operation in Tyendinaga
