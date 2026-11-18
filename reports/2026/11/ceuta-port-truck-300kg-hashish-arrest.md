@@ -102,15 +102,32 @@ sources:
     publisher: وكالة الأنباء الجزائرية
     date: 2026-11-15
     language: ar
+  - title: إسبانيا تحقق في احتمال وجود نفق ثالث لتهريب الحشيش بسبتة
+    url: https://tanjanews.com/193216.html
+    publisher: مجلة طنجة نيوز
+    date: 2026-11-18
+    language: ar
+  - title: ¿Puede haber un tercer narcotúnel en Ceuta? La Policía Nacional lo investiga
+    url: https://elfarodeceuta.es/actualidad/sucesos/puede-haber-tercer-narcotunel-ceuta-policia-nacional-investiga/
+    publisher: El Faro de Ceuta
+    date: 2026-11-18
+    language: es
+  - title: Investigan una nave comercial en Ceuta ante el posible hallazgo de otro narcotúnel
+    url: https://infobae.com/espana/agencias/2026/11/18/investigan-una-nave-comercial-en-ceuta-ante-el-posible-hallazgo-de-otro-narcotunel
+    publisher: Infobae
+    date: 2026-11-18
+    language: es
 open_questions:
     - Police gave no official weight for the hashish; the 300 kilograms is an initial estimate, and the load was taken away for official weighing.
     - No formal charge, plea or court outcome beyond the pre-trial detention order was reported.
     - The Algerian Press Service account cites El Faro de Ceuta and reproduces that reporting rather than adding an independent account.
     - The same APS article reports two separate Spanish customs operations in the Strait of Gibraltar that seized 451 containers of fuel and led to six detentions over supplying drug-smuggling speedboats; those operations involved no cannabis and are not covered here.
+    - The 18 November accounts report a UDYCO-GOIT inspection of a Tarajal warehouse for double-bottom tools but give no seizure, finding or sealing outcome, and announce no new tunnel discovery.
+    - The new accounts report no additional detentions beyond the truck driver and say the warehouse operation remains under summary secrecy with the device still open.
 ---
 
 Spain's UDYCO drug unit arrested a truck driver at the port of Ceuta carrying a
-stash of hashish hidden in a sophisticated false bottom. [@3,4,5,6,9,10,11] Officers
+stash of hashish hidden in a sophisticated false bottom. [@3,4,5,6,9,10,11,12] Officers
 intercepted the truck on the port road at the Muelle de Poniente and searched it
 with support from the UPR prevention unit and the canine group. [@3] They found
 the hashish and detained the driver, showing him the drugs found in the vehicle
@@ -119,13 +136,13 @@ he was driving. [@2]
 The truck appeared empty and was heading toward boarding for Spain when a
 specialist drugs dog alerted, prompting an exhaustive hours-long search inside
 and outside the vehicle. [@2,7,10,11] After the hours-long detailed inspection, officers
-found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6,7,9,10,11]
+found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6,7,9,10,11] The intercepted truck had unloaded animal feed and was returning with several sacks of hashish when UDYCO stopped it at the port, one of several trucks that had left Ceuta and were intercepted elsewhere in Spain. [@13]
 Officers recovered numerous bags of hashish from the trailer's false bottom,
 with first estimates putting the haul above 300 kilograms although police gave
 no official weight. [@3] The submitted account describes the seizure as about
 300 kilograms of hashish arriving from Morocco. [@1,5,6,7,9,10,11]
 
 The handcuffed driver was taken to police headquarters and placed under
-investigation for an offence against public health. [@2] A judge ordered the driver held in pre-trial detention on Sunday after he was presented to the court. [@8] Police link the
+investigation for an offence against public health. [@2] A judge ordered the driver held in pre-trial detention on Sunday after he was presented to the court. [@8,13] The warehouse operation was prepared and coordinated from Madrid and remains under summary secrecy under the National Court. [@14] Police link the
 operation to open UDYCO investigations into groups moving hashish from Ceuta to
-mainland Spain in heavy vehicles with hidden compartments. [@3] Investigators suspect larger loads and heavy vehicles hidden in stash houses used to store hashish, known locally as zulos. [@8]
+mainland Spain in heavy vehicles with hidden compartments. [@3] On Wednesday, UDYCO officers carried out an operation in a warehouse in the Tarajal industrial estate over a possible third drug tunnel. [@14] Investigators suspect larger loads and heavy vehicles hidden in stash houses used to store hashish, known locally as zulos. [@8] Investigators are trying to establish whether the hashish reached the trucks through intermediate caches or directly through a possible third tunnel, and police have announced no new tunnel discovery and no additional detentions. [@12] In the warehouse the technical-intervention unit searched for tools and equipment suspected of being used to fit trucks with secret double-floor caches for hiding drugs. [@12]
