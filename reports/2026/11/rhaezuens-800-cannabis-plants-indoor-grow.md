@@ -126,6 +126,11 @@ sources:
     publisher: Corriere del Ticino
     date: 2026-11-18
     language: it
+  - title: Indoor-Hanfplantage in Rhäzüns GR ausgehoben
+    url: https://www.watson.ch/schweiz/polizeirapport/719541220-indoor-hanfplantage-in-rhaezuens-gr-ausgehoben
+    publisher: watson.ch
+    date: 2026-11-18
+    language: de
 open_questions:
     - The police statement gives only mid-November for the find; 18 November 2026 is the date of the statement and is used as the incident date.
     - The statement does not say whether the 32-year-old was arrested, detained or released pending proceedings.
@@ -133,7 +138,7 @@ open_questions:
 ---
 
 Graubünden cantonal police and the cantonal prosecutor's office found the indoor
-plantation in Rhäzüns in mid-November 2026. [@1,5,6,8,9,10,11,12,13,14,15] The alleged operator is a
+plantation in Rhäzüns in mid-November 2026. [@1,5,6,8,9,10,11,12,13,14,15,16] The alleged operator is a
 32-year-old German who ran the grow in his own apartment and in the basement.
 [@3,5,6,7,8,9,10,11,13,14,15] The Graubünden cantonal police announced the find in a statement. [@4]
 
@@ -141,7 +146,7 @@ Officers seized about 800 cannabis plants, which the authorities intend to
 destroy. [@3,5,6,8,9,10,11,13,14,15] The police said they had taken the cannabis away and now planned
 to destroy it. [@1]
 
-The German man faces charges for violations of the Narcotics Act. [@1,5,6,8,9,10,11,12,13,14,15] He must
+The German man faces charges for violations of the Narcotics Act. [@1,5,6,8,9,10,11,12,13,14,15,16] He must
 answer before the courts for offences against the narcotics law. [@2] The case
 came from joint investigations by the cantonal police and the cantonal
-prosecutor's office. [@4,11]
+prosecutor's office. [@4,11,16]
