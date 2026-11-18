@@ -96,6 +96,11 @@ sources:
     publisher: PATRIS.GR
     date: 2026-11-18
     language: el
+  - title: 'Αεροδρόμιο «Ελευθέριος Βενιζέλος»: Συνελήφθη 28χρονος με περισσότερα από 35 κιλά κάνναβης στις αποσκευές του'
+    url: https://www.verginanews.gr/aerodromio-eleftherios-venizelos-synelifthi-28chronos-me-perissotera-apo-35-kila-kannavis-stis-aposkeves-tou/
+    publisher: Βεργίνα Τηλεόραση
+    date: 2026-11-18
+    language: el
 open_questions:
     - The 35 kilograms and 300 grams is the gross weight of the 23 packages, not a measured net weight of the drug.
     - No charge, plea or detention decision was reported; the man was taken to the prosecutor, and Athens Voice says the case has passed to the judicial process.
@@ -107,15 +112,15 @@ open_questions:
 ---
 
 Officers of the narcotics unit at Athens International Airport arrested a
-28-year-old Lithuanian man after a check on his arrival in Greece. [@2,4,5,8] The operation on Tuesday 17 November 2026 was run by officers of the Drug Enforcement Subdirectorate of the Directorate for Organized Crime. [@7] Zougla reported that officers identified him during targeted checks at the airport's narcotics department, after cross-checks, data analysis and profiling. [@6] He was
+28-year-old Lithuanian man after a check on his arrival in Greece. [@2,4,5,8] The operation on Tuesday 17 November 2026 was run by officers of the Drug Enforcement Subdirectorate of the Directorate for Organized Crime. [@7,9] Zougla reported that officers identified him during targeted checks at the airport's narcotics department, after cross-checks, data analysis and profiling. [@6] He was
 stopped in the airport's arrivals area after checks by the Hellenic Police,
 known in Greece as EL.AS. [@1,7] He had landed the previous day, 17 November 2026,
 on a flight from Bangkok via Doha. [@3,4,5,8]
 
 His luggage held 23 packages of raw cannabis from hydroponic cultivation, the
-drug Greek police call skunk. [@2,4,5,7,8] He had hidden them in his suitcases. [@1] The
-packages had a total gross weight of 35 kilograms and 300 grams. [@2,4,5,7,8] Police put
+drug Greek police call skunk. [@2,4,5,7,8,9] He had hidden them in his suitcases. [@1] The
+packages had a total gross weight of 35 kilograms and 300 grams. [@2,4,5,7,8,9] Police put
 the quantity at more than 35 kilograms. [@3,7] Officers also seized a mobile phone
-and the two suitcases used to carry the drug. [@2,4,5,7,8]
+and the two suitcases used to carry the drug. [@2,4,5,7,8,9]
 
-The arrested man was taken to the prosecutor. [@3,4,5,7,8]
+The arrested man was taken to the prosecutor. [@3,4,5,7,8,9]
