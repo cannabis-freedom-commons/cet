@@ -71,6 +71,11 @@ sources:
     url: https://hurumende.com/two-ganja-farmers-arrested-in-chimanimani/
     publisher: Hurumende
     date: '2026-10-28'
+  - title: Zimbabweans React After Two Men Are Arrested Over 770 Dagga Plants In Chimanimani
+    url: https://iharare.com/zimbabweans-react-after-two-men-are-arrested-over-770-dagga-plants-in-chimanimani/
+    publisher: iHarare News
+    date: 2026-10-28
+    archived: https://web.archive.org/web/20261029114719id_/https://iharare.com/zimbabweans-react-after-two-men-are-arrested-over-770-dagga-plants-in-chimanimani/
 media:
   - kind: photo
     url: https://www.263chat.com/73-year-old-arrested-over-770-dagga-plants-hidden-in-maize-field/
@@ -102,14 +107,15 @@ open_questions:
   - The reports do not say whether the 770 plants were destroyed or kept as evidence.
   - No court date or formal charge sheet was reported.
   - Both accounts rest on the police statement; no independent reporting was found.
+  - iHarare says processed dagga was also recovered, while the account already cited describes 800 grams of unprocessed dagga in a plastic bag at one suspect's homestead; the two descriptions may refer to the same material.
 ---
 
 Two Chimanimani villagers were arrested after police discovered 770 dagga plants growing
-alongside maize crops in their fields in Ruwaka Village under Chief Mutambara. [@3,2,1,5]
+alongside maize crops in their fields in Ruwaka Village under Chief Mutambara. [@1,2,3,5,6]
 
 Lovemore Zambasira (73) and Liberty Maunganidze (38) were arrested on Monday 26 October
 2026 following a tip-off received a day earlier; national police spokesperson
-Commissioner Paul Nyathi confirmed the arrests. [@3,2] Officers travelled about 30 km to
+Commissioner Paul Nyathi confirmed the arrests. [@2,3,6] Officers travelled about 30 km to
 the village, arriving at the homesteads at about 4:30am; the two led officers to their
 fields, where 690 plants were found in Zambasira's field and 80 in Maunganidze's. [@3]
 
@@ -117,6 +123,6 @@ A search at Zambasira's homestead also uncovered 800 grams of unprocessed dagga 
 plastic bag in his bedroom; the plants were uprooted and the case went to the CID Drugs
 section in Mutare. [@3] The two are accused of unlawful possession, growing or use of
 dangerous drugs under Section 157(1)(c) of the Criminal Law (Codification and Reform)
-Act. [@3,2]
+Act. [@3,2] The arrests prompted calls on social media for dagga to be legalised and commercialised, with users arguing that farmers should be allowed to grow it legally and earn a living from the crop. [@6]
 
 The Herald published photographs of the recovered plants and the two men with a police officer. [@4]
