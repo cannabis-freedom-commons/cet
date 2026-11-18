@@ -65,10 +65,15 @@ sources:
     publisher: Goody Feed
     url: https://goodyfeed.com/3-men-arrested-for-largest-drug-haul-in-14-yrs-s1-7m-worth-of-drugs-were-seized/
     date: 2021-03-19
+  - title: CNB seizes 20.5kg of cannabis - largest haul in about 14 years
+    url: https://www.straitstimes.com/singapore/courts-crime/cnb-seizes-205kg-of-cannabis-largest-haul-in-about-14-years
+    publisher: The Straits Times
+    date: 2021-03-19
+    language: en
 ---
 
-Central Narcotics Bureau officers arrested three Singaporean men, aged 27 to 33, in a two-day operation on 16 and 17 March 2021 on suspicion of drug-related offences. [@1,2] On the evening of 16 March officers intercepted a car near Kempas Road and arrested two of the men, finding packets of Ice and Ecstasy tablets in the vehicle. [@1]
+Central Narcotics Bureau officers arrested three Singaporean men, aged 27 to 33, in a two-day operation on 16 and 17 March 2021 on suspicion of drug-related offences. [@1,2,3] On the evening of 16 March officers intercepted a car near Kempas Road and arrested two of the men, finding packets of Ice and Ecstasy tablets in the vehicle. [@1,3]
 
-The 33-year-old was then taken to his residence near McNair Road, where officers searched the unit and seized 20 bundles with about 20,509 grams of cannabis from the storeroom, along with about 8,296 grams of heroin, 5,014 grams of Ice, Ecstasy tablets and Erimin-5 tablets. [@1] A third man, aged 30, was arrested near McNair Road the next afternoon. [@1]
+The 33-year-old was then taken to his residence near McNair Road, where officers searched the unit and seized 20 bundles with about 20,509 grams of cannabis from the storeroom, along with about 8,296 grams of heroin, 5,014 grams of Ice, Ecstasy tablets and Erimin-5 tablets. [@1,3] A third man, aged 30, was arrested near McNair Road the next afternoon. [@1,3]
 
-The cannabis haul was the bureau's largest in about 14 years, and the drugs seized altogether were estimated to be worth close to S$1.7 million. [@1,2] The bureau said the total amount could have fed 2,930 cannabis abusers for a week. [@1]
+The cannabis haul was the bureau's largest in about 14 years, and the drugs seized altogether were estimated to be worth close to S$1.7 million. [@1,2,3] The haul was the largest since 2007, when the agency recovered about 20.6 kg of cannabis. [@3] The bureau said the total amount could have fed 2,930 cannabis abusers for a week. [@1,3]
