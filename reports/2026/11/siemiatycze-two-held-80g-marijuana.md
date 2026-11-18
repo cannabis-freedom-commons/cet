@@ -68,6 +68,11 @@ sources:
     publisher: Kurier Podlaski
     date: 2026-11-17
     language: pl
+  - title: Podlaska kronika 997. Nietrzeźwa za kierownicą ciężarówki
+    url: https://e-grajewo.pl/wiadomosc,podlaska-kronika-997.-nietrzezwa-za-kierownica-ciezarowki,61978.html
+    publisher: e-Grajewo.pl
+    date: 2026-11-17
+    language: pl
 open_questions:
   - The sources give no separate date for the basement checks and arrests; 17 November 2026 is the date of the police statement and of the publications and is used as the incident date.
   - The quantity was reported only as 'nearly 80 grams' of marijuana, with no exact measured weight.
@@ -84,11 +89,10 @@ apartment blocks across Siemiatycze when they spotted two men known to them;
 during the check their attention was drawn to items on a shelf — a jar of
 marijuana, two electronic scales, ziplock bags and a grinder for dried cannabis.
 [@2] Police detained both men and then searched their flats, where officers said
-they found further drugs, seizing nearly 80 grams of marijuana in total. [@4]
+they found further drugs, seizing nearly 80 grams of marijuana in total. [@4,5]
 
 The 36- and 42-year-olds heard charges of possessing narcotic substances and of
 possessing devices used for the unlawful processing or alteration of narcotics.
 [@2] The younger man was additionally charged with possessing a significant
 quantity of drugs, an offence carrying a penalty of up to 10 years'
-imprisonment. [@3]
-
+imprisonment. [@3,5]
