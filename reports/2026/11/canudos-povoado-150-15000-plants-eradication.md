@@ -106,6 +106,11 @@ sources:
     publisher: Bahia Notícias
     date: 2026-11-18
     language: pt
+  - title: Polícia erradica plantação com 15 mil pés de maconha no interior da Bahia
+    url: https://www.faroldabahia.com.br/noticia/policia-erradica-plantacao-com-15-mil-pes-de-maconha-no-interior-da-bahia
+    publisher: Farol da Bahia
+    date: 2026-11-18
+    language: pt
 open_questions:
     - No weight, area in hectares or street value was given for the plantation.
     - No one was arrested and the sources do not say whether anyone was found at the site.
@@ -115,15 +120,15 @@ open_questions:
 ---
 
 Civil and Military Police in Bahia found and destroyed a cannabis plantation in
-rural Canudos on Tuesday 17 November 2026. [@1,5,6,7] The plantation was at a place
+rural Canudos on Tuesday 17 November 2026. [@1,5,6,7,8] The plantation was at a place
 known as Povoado 150 and was found after intelligence work by the state security
-forces. [@1,5,6,7] No one was arrested at the site, and the Civil and Military Police
+forces. [@1,5,6,7,8] No one was arrested at the site, and the Civil and Military Police
 said inquiries were continuing to identify and arrest those responsible. [@2,5,7]
 
 Officers used drones to find the crop and reach the clearing, then uprooted and
-burned the plants. [@1,5,6,7] The security secretariat said the state forces found
+burned the plants. [@1,5,6,7,8] The security secretariat said the state forces found
 15,000 cannabis plants at the site. [@2,5,6,7] Officers also destroyed sleeping
-quarters and an irrigation system used to keep the plantation running. [@3,5,6,7]
+quarters and an irrigation system used to keep the plantation running. [@3,5,6,7,8]
 
 The operation was part of integrated police action against drug trafficking and
-criminal factions in the region. [@4]
+criminal factions in the region. [@4,8]
