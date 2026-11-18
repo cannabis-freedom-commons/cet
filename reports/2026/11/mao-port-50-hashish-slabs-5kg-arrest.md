@@ -86,6 +86,11 @@ sources:
     publisher: Diario de Mallorca
     date: 2026-11-17
     language: es
+  - title: Ecuatoriano es detenido en España con cinco kilos de hachís en su equipaje
+    url: https://www.eldiario.ec/seguridad/ecuatoriano-es-detenido-en-espana-con-cinco-kilos-de-hachis-en-su-equipaje-17112026/
+    publisher: El Diario
+    date: 2026-11-17
+    language: es
 open_questions:
     - Europa Press dates the control to last Saturday, which would be 14 November 2026, while Menorca - Es diari and Menorca al Dia give Friday 13 November 2026; this report uses the 13 November date.
     - The weight is stated as a total or approximate five kilograms rather than an exact measured weight, and no value estimate or laboratory confirmation was reported.
@@ -93,18 +98,18 @@ open_questions:
 ---
 
 The Guardia Civil detained a 29-year-old man of Ecuadorian origin at the port of
-Maó as the alleged perpetrator of a drug-trafficking offence. [@1,5] The check was
+Maó as the alleged perpetrator of a drug-trafficking offence. [@1,5,6] The check was
 carried out by the Guardia Civil Fiscal and Borders detachment in the
 disembarkation area of the port facilities, coinciding with the arrival of a
-vessel from Barcelona. [@1,5] The control that led to the arrest took place on 13
+vessel from Barcelona. [@1,5,6] The control that led to the arrest took place on 13
 November 2026 in the disembarkation area of the port facilities at Maó. [@2,3]
 
 Officers identified the man and inspected his luggage, seizing 50 slabs of
-hashish with a total weight of five kilograms. [@1,3,5] The man was disembarking
+hashish with a total weight of five kilograms. [@1,3,5,6] The man was disembarking
 from a ferry from Barcelona with the five kilograms of hashish in his luggage,
-which he allegedly intended to bring into Menorca. [@2]
+which he allegedly intended to bring into Menorca. [@2,6]
 
 After the seizure he was arrested and placed at the disposal of the judicial
-authority as the alleged perpetrator of an offence against public health. [@2] After testifying, he was released provisionally while the proceedings continue towards trial. [@4]
+authority as the alleged perpetrator of an offence against public health. [@2,6] After testifying, he was released provisionally while the proceedings continue towards trial. [@4]
 The Guardia Civil Judicial Police team in Maó is continuing the investigation
-and has not ruled out further arrests in the coming days. [@1,5]
+and has not ruled out further arrests in the coming days. [@1,5,6]
