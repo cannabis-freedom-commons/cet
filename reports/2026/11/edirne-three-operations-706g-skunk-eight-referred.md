@@ -60,25 +60,22 @@ sources:
     publisher: Adana Haber (İHA)
     date: 2026-11-18
     language: tr
-open_questions:
-  - The 34.12 grams of methamphetamine and 28 pills seized in the same searches are excluded from the cannabis total.
-  - The 0.94 grams of cannabis seeds are recorded as a seed product and excluded from the 0.73613 kg cannabis total, which covers skunk and esrar only.
-  - Cash of 790 euros, 170 dollars and 79,460 lira was reported but cannot be represented in the single-amount cash figure, so it is kept in the text only.
-  - 16 November 2026 is the end of the stated 11-16 November operation period and stands in for the incident date; 18 November 2026 is the publication date.
-  - No names, ages, charges, detention measures or court outcomes beyond referral to judicial authorities were reported.
-  - Skunk is recorded as herbal flower and esrar as hashish, following the tracker's treatment of mixed Turkish skunk-esrar seizures.
-  - No laboratory confirmation for the suspected drugs was reported.
+  - title: Edirne'de Yapılan Uyuşturucu Operasyonlarında 706 Gram Skunk Ele Geçirildi
+    url: https://www.mersinhaber.com/haber-edirnede-yapilan-uyusturucu-operasyonlarinda-706-gram-skunk-ele-gecirildi/852937
+    publisher: Mersin Haber
+    date: 2026-11-18
+    language: tr
 ---
 
 Edirne Provincial Police narcotics teams carried out three separate operations
 across the city between 11 and 16 November 2026 to prevent drug use and
 trafficking. [@2,3] During the operations, officers searched the homes, workplaces
-and vehicles used by the suspects. [@1,3] Police completed judicial procedures for
-eight suspects and referred them to the judicial authorities. [@1,3] Police said
+and vehicles used by the suspects. [@1,3,4] Police completed judicial procedures for
+eight suspects and referred them to the judicial authorities. [@1,3,4] Police said
 searches of the suspects' premises produced evidence related to drug
 trafficking. [@1]
 
-In the three operations, officers seized a total of 706.55 grams of skunk. [@1,3]
+In the three operations, officers seized a total of 706.55 grams of skunk. [@1,3,4]
 In the same searches, officers seized 29.58 grams of esrar. [@1,3] Officers also
 found 0.94 grams of cannabis seeds and three rooted cannabis plants kept in
 pots. [@1,3] Officers seized four precision scales, two blenders, four grinding
