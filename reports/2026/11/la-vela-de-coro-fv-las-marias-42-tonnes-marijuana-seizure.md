@@ -76,27 +76,34 @@ sources:
     publisher: El Diario de Guayana
     date: 2026-11-17
     language: es
+  - title: 'Golpe al narco en Falcón: caen 4 toneladas de marihuana'
+    url: https://curadas.com/2026/11/17/comando-sur-incauta-cuatro-toneladas-marihuana-falcon/
+    publisher: CURADAS
+    date: 2026-11-17
+    language: es
 media:
   - kind: photo
     url: https://www.elnacional.com/2026/11/comando-sur-de-ee-uu-confirma-incautacion-de-mas-de-cuatro-toneladas-de-marihuana-cerca-de-falcon/
     media_url: https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/11/16184503/HXRPYKpWAAAeiLC.jpg
     publisher: EL NACIONAL
     caption: 'Photograph of the marijuana seized from F/V Las Marias, which JIATF South said amounted to 9,261 lbs. Photo: X @jiatfs'
+open_questions:
+    - The exact port of departure of F/V Las Marías and the identities of the four detained were still under investigation.
 ---
 
 An international anti-drug operation intercepted a vessel near La Vela de Coro
 in Falcon state carrying more than four tonnes of marijuana with four people on
-board, as reported by the United States Joint Interagency Task Force South. [@1,2,3,4,5,7]
+board, as reported by the United States Joint Interagency Task Force South. [@1,2,3,4,5,7,9]
 The target was the fishing vessel F/V Las Marias, spotted by a Netherlands
 maritime patrol aircraft while sailing in Caribbean waters off the Venezuelan
-coast. [@1,2,3,4,5,6,7,8] After the sighting, an interceptor unit of the Royal Netherlands
-Navy took control of the vessel and detained the four people on board. [@1,2,3,4,5,6,7,8]
+coast. [@1,2,3,4,5,6,7,8,9] After the sighting, an interceptor unit of the Royal Netherlands
+Navy took control of the vessel and detained the four people on board. [@1,2,3,4,5,6,7,8,9]
 
 Authorities seized 9,261 pounds of marijuana, about 4.2 tonnes, during the
-operation. [@1,2,4,5,6,7,8] Another 1,764 pounds, about 800 kilograms, could not be
-recovered because of safety concerns during the intervention. [@1,2,3,4,5,6,7,8] The total
+operation. [@1,2,4,5,6,7,8,9] Another 1,764 pounds, about 800 kilograms, could not be
+recovered because of safety concerns during the intervention. [@1,2,3,4,5,6,7,8,9] The total
 reported load was about five tonnes of marijuana, counting both the seized drugs
-and the drugs that could not be recovered. [@1,5,7]
+and the drugs that could not be recovered. [@1,5,7,9]
 
 The United States Southern Command acknowledged the operation and stressed
 international cooperation against drug trafficking in the region. [@1,3,5,7] SOUTHCOM
