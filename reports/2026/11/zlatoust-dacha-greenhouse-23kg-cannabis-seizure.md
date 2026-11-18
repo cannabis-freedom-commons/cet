@@ -51,13 +51,11 @@ sources:
     publisher: Урал-пресс-информ
     date: 2026-11-16
     language: ru
-open_questions:
-    - The article gives no calendar date for the search or the seizure; 15 November 2026 is inferred as the publication date from relative labels and is used as the incident date.
-    - No number of plants was reported, only weights, so no plant figure is recorded.
-    - The weights are approximate as stated (more than 200 grams, about 2.1 kilograms, more than 2.3 kilograms).
-    - The sale allegation is preliminary police information, not a confirmed sale.
-    - No forensic confirmation, court outcome or plea was reported; the case was at the investigation stage.
-    - Only one account, reproducing the regional police statement, could be opened.
+  - title: Загородная лаборатория. Челябинец устроил плантацию конопли на даче под Златоустом
+    url: https://zrg74.ru/proisshestviya/item/44685-zagorodnaja-laboratorija-cheljabinec-ustroil-plantaciju-konopli-na-dache-pod-zlatoustom.html
+    publisher: Златоустовский рабочий
+    date: 2026-11-17
+    language: ru
 media:
   - kind: photo
     url: https://uralpress.ru/news/zhitel-chelyabinska-zaderzhan-za-kultivirovanie-konopli-na-dachnom-uchastke-v-zlatouste-2026
@@ -68,17 +66,17 @@ media:
 
 A 45-year-old resident of Zlatoust set up a cannabis plantation at his dacha.
 [@1] The 45-year-old man was detained in Zlatoust. [@2] He cultivated the banned plant in a greenhouse on the property until police
-intervened in the operation. [@1,2] The investigative department of the Zlatoust
+intervened in the operation. [@1,2,3] The investigative department of the Zlatoust
 OMVD, the town Interior Ministry department, opened a criminal case against him
 for illegal drug trafficking. [@1] Under that case, he may face up to ten years
 in prison and a fine of up to 500,000 rubles. [@1]
 
 During a search of the property, law enforcement officers seized goods that had
 been prepared for sale. [@1,2] Those goods included more than 200 grams of ready
-cannabis packed in plastic bags. [@1,2] Officers also seized about 2.1 kilograms
-of cannabis plants and their parts from the same search. [@1] The roughly 2.1 kilograms consisted of about 1,700 grams of drug-containing plants and more than 400 grams of parts of those plants. [@2] Police gave the
-combined weight of everything seized as more than 2.3 kilograms. [@1,2]
+cannabis packed in plastic bags. [@1,2,3] Officers also seized about 2.1 kilograms
+of cannabis plants and their parts from the same search. [@1] The roughly 2.1 kilograms consisted of about 1,700 grams of drug-containing plants and more than 400 grams of parts of those plants. [@2,3] Police gave the
+combined weight of everything seized as more than 2.3 kilograms. [@1,2,3]
 
 According to preliminary police information, the man had planned to sell the
-cannabis products in the region. [@1,2] The regional police headquarters provided
+cannabis products in the region. [@1,2,3] The regional police headquarters provided
 the seizure total and the alleged regional sales plan. [@1]
