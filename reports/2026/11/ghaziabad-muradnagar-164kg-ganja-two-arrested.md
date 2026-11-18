@@ -62,6 +62,11 @@ media:
     media_url: https://royalbulletin.in/media-webp/1200/2026-11/screenshot-2026-11-17-151927.png
     publisher: Royal Bulletin
     caption: The ganja consignment recovered from the cantor during checking in Muradnagar, in the photograph published with the Royal Bulletin report.
+  - kind: photo
+    url: https://www.amarujala.com/delhi-ncr/ghaziabad/cannabis-smuggled-under-the-guise-of-transport-ghaziabad-news-c-30-gbd1013-1024180-2026-11-17
+    media_url: https://staticimg.amarujala.com/assets/images/4cplus/2026/11/17/garafatara-gaja-tasakara-savatha_ab4ca3575ae05738028da02d1b283464.jpeg?w=674&dpr=2.0&q=80
+    publisher: Amar Ujala
+    caption: 'Arrested ganja smugglers, in the photograph published with the Amar Ujala report. Photo: Samvad'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: db0bdcd0a422b90afd9a7b0cca4f3dbc
@@ -102,6 +107,14 @@ sources:
     publisher: Royal Bulletin
     date: 2026-11-17
     language: hi
+  - title: 'Ghaziabad News: ट्रांसपोर्ट की आड़ में गांजे की तस्करी, एप पर होती थी डील, दो गिरफ्तार - Cannabis Smuggled Under The Guise Of Transport; - Ghaziabad News'
+    url: https://www.amarujala.com/delhi-ncr/ghaziabad/cannabis-smuggled-under-the-guise-of-transport-ghaziabad-news-c-30-gbd1013-1024180-2026-11-17
+    publisher: Amar Ujala
+    date: 2026-11-17
+    language: hi
+open_questions:
+    - 'Accounts differ on the estimated street value: most reports put it at about Rs 80 lakh, while this Amar Ujala article says about Rs 84 lakh.'
+    - This account says six other gang members were identified and three teams were formed to arrest them, while another report says about 23 other people were named in questioning.
 ---
 
 Ghaziabad crime branch and Muradnagar police arrested two alleged ganja
@@ -112,7 +125,7 @@ identified the two as Praveen Tyagi of Bhaneda, now living in Keshav Kunj
 Colony, Modinagar, and Arun Sharma of Jatauli, Kankarkheda, Meerut. [@1,2,3,5,6] Police gave Praveen Tyagi's age as 53 and Arun Sharma's as 52. [@5]
 
 Officers seized about 164 kg of illegal ganja from their possession along with
-the Eicher canter used for smuggling. [@1,2,3,4,5,6,7] Police estimated the seized ganja's
+the Eicher canter used for smuggling. [@1,2,3,4,5,6,7,8] Police estimated the seized ganja's
 value at about Rs 80 lakh. [@1,2,3,4,5,6,7] A case was registered against them at Muradnagar
 police station under the NDPS Act and further legal action was under way. [@1,5] Police said Praveen Tyagi already had Excise Act and NDPS Act cases registered against him, while Arun Sharma had Excise Act and fraud cases at Kankar Kheda police station in Meerut. [@3]
 
@@ -122,4 +135,4 @@ After liquor smuggling brought little profit, the pair had smuggled ganja for
 eight months through Arvind alias Bhura, dealing with local smugglers in Odisha
 and Visakhapatnam to supply NCR and western Uttar Pradesh. [@1,2,4,5,6] Police said the ganja was brought hidden among other goods along different routes. [@5,6] About 100 kg of ganja passed through the network in the month before the arrest, and police formed a team to act against others named in questioning. [@2,4,5,6] Police said about 23 other people, including Arvind alias Bhura, were named in questioning as part of the trafficking network. [@7] Police said the trade brought about Rs 3,000 in profit per kilogram of ganja. [@2,7] Praveen had
 bought the Eicher canter in his friend Yogendra's name with both paying its
-instalments, and the pair used an app to talk to each other. [@1,5,6] Police said the Eicher canter had been used to move ganja for the past six months. [@5] The two talked to each other on the Zangi app and used false names to conceal their identity. [@2,4,5,7]
+instalments, and the pair used an app to talk to each other. [@1,5,6] Police said the Eicher canter had been used to move ganja for the past six months. [@5] The two talked to each other on the Zangi app and used false names to conceal their identity. [@2,4,5,7,8] Police said the gang used code words in its chats: the Shilavati variety grown in Andhra Pradesh and Odisha was written as 'Sushila', while Odisha Gold and other varieties were written as 'Ghas'. [@8]
