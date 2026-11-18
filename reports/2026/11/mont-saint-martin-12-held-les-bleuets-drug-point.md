@@ -70,6 +70,11 @@ sources:
     publisher: RTL Luxembourg
     date: 2026-11-16
     language: fr
+  - title: RAID, BRI, hélicoptère... Des moyens massifs pour démanteler ce "point de deal historique" en Lorraine
+    url: https://actu.fr/grand-est/mont-saint-martin_54382/raid-bri-helicoptere-des-moyens-massifs-pour-demanteler-ce-point-de-deal-historique-en-lorraine_65069375.html
+    publisher: actu.fr (Lorraine Actu)
+    date: 2026-11-18
+    language: fr
 open_questions:
   - No formal charges, plea or court outcome had been reported; the 12 remained in police custody while the investigation continued.
   - The cannabis weight was given only as more than 2 kg, with no exact measured weight or laboratory confirmation published.
@@ -78,10 +83,10 @@ open_questions:
 ---
 
 Police in Meurthe-et-Moselle arrested 12 people on Monday 16 November 2026 on
-suspicion of organising drug trafficking at a shopping centre. [@1] The 12 were
+suspicion of organising drug trafficking at a shopping centre. [@1,5] The 12 were
 taken at their homes in three communes of the Longwy area. [@3] The target was a
 long-standing dealing point at the Les Bleuets shopping centre in the
-Val-Saint-Martin neighbourhood of Mont-Saint-Martin. [@1] All 12 suspects were
+Val-Saint-Martin neighbourhood of Mont-Saint-Martin. [@1,5] All 12 suspects were
 placed in police custody after the arrests. [@2]
 
 Investigators seized more than 2 kg of cannabis, 20,000 euros in cash, five
@@ -98,4 +103,3 @@ police station. [@3] Custody in trafficking cases can be extended to 96 hours
 and more than 20 judicial police officers remained on the enquiry. [@1]
 Prosecutors said they would decide on further steps after custody and already
 spoke of a strong signal. [@4]
-
