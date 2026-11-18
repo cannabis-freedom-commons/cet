@@ -80,15 +80,19 @@ sources:
     url: https://www.hellorayo.co.uk/hits-radio/beds-bucks-herts/news/borehamwood-cannabis-setup-dismantled
     publisher: Hits Radio (Bucks, Beds & Herts)
     date: 2026-11-17
+  - title: Borehamwood cannabis factory worth around £50,000 uncovered
+    url: https://www.whtimes.co.uk/news/26738737.borehamwood-cannabis-factory-worth-around-50-000-uncovered/
+    publisher: Welwyn Hatfield Times
+    date: 2026-11-17
 ---
 
 Officers from the Operational Support Group raided a property on Hartforde Road
-in Borehamwood on Wednesday, November 4. [@1,3,4,5] The officers found five rooms in
-the property being used to grow cannabis. [@1,3,4,5] The house had been made to look
-like a normal home, with several of its outside windows altered. [@2,3,4,5]
+in Borehamwood on Wednesday, November 4. [@1,3,4,5,6] The officers found five rooms in
+the property being used to grow cannabis. [@1,3,4,5,6] The house had been made to look
+like a normal home, with several of its outside windows altered. [@2,3,4,5,6]
 
 Police estimated the street value of the cannabis grown at the property at
-£50,000. [@1,4,5] Inspector Paul Costello of the Operational Support Group said
+£50,000. [@1,4,5,6] Inspector Paul Costello of the Operational Support Group said
 cannabis factories present a significant danger to those living near them
 because they can be a serious fire hazard. [@1,4,5] He said such factories are often
 controlled by organised crime groups linked to violence, modern day slavery and
