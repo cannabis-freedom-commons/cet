@@ -43,6 +43,11 @@ media:
     media_url: https://region.center/source/Ivanovo/2026/11/17/photo_2026-11-17_14-23-28.jpg
     publisher: Ивановские новости
     caption: 'Lead photograph published with the report on the cannabis bushes found on the Furmanovsky District plot. Photo: UMVD of Russia for Ivanovo Oblast'
+  - kind: photo
+    url: https://news1ivanovo.ru/obschestvo/v-furmanovskom-raione-u-47-letnego-ogorodnika-izyali-bolee-25-kg-konopli
+    media_url: https://news1ivanovo.ru/storage/9cae2c10e75cba1d9a3db02c135f19835ff0674d-large.webp
+    publisher: News1Ivanovo
+    caption: 'Police handout photo published with the report on the 11 cannabis bushes seized from a Furmanovsky District plot. Photo: 37.мвд.рф (Ivanovo Oblast police).'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 6bd838ccb621b30cac3057c0d05e52ef
@@ -62,6 +67,11 @@ sources:
     publisher: Ivanovonews.ru
     date: 2026-11-17
     language: ru
+  - title: В Фурмановском районе у 47-летнего огородника изъяли более 2,5 кг конопли
+    url: https://news1ivanovo.ru/obschestvo/v-furmanovskom-raione-u-47-letnego-ogorodnika-izyali-bolee-25-kg-konopli
+    publisher: News1Ivanovo
+    date: 2026-11-17
+    language: ru
 open_questions:
   - No separate date is given for the plot check, seizure and detention; 17 November 2026 is the publication date of all three accounts and is used as the incident date.
   - The weight is stated only as more than 2.5 kg, so the recorded figure is 2.5 kg.
@@ -72,21 +82,20 @@ open_questions:
 ---
 
 Police in the Furmanovsky District of Ivanovo Oblast detained a 47-year-old
-local resident suspected of growing cannabis on his plot. [@2] Criminal
+local resident suspected of growing cannabis on his plot. [@2,4] Criminal
 investigation officers of the Furmanovsky District police had received
-information that the man was growing cannabis on his plot. [@1]
+information that the man was growing cannabis on his plot. [@1,4]
 
 Officers checked the plot and found 11 bushes of a narcotic-containing plant
 with a total weight of more than 2.5 kg, the press service of the Interior
-Ministry directorate for Ivanovo Oblast said. [@1] The plot was in the suspect's
-use, and officers seized the 11 bushes when they examined it. [@2] The man grew
+Ministry directorate for Ivanovo Oblast said. [@1,4] The plot was in the suspect's
+use, and officers seized the 11 bushes when they examined it. [@2,4] The man grew
 the cannabis on his own plot and police seized 11 bushes, the banned substance
 weighing more than 2.5 kg in total, according to the Ivanovo Oblast police press
 service. [@3]
 
 A criminal case was opened under part 2 of Article 228 of the Russian Criminal
 Code, covering the illegal acquisition, storage and transportation of narcotic
-drugs on a large scale. [@1] That provision provides for liability for illegal
+drugs on a large scale. [@1,4] That provision provides for liability for illegal
 acquisition, storage, transportation, manufacture and processing of narcotic
-drugs and plants containing them. [@2]
-
+drugs and plants containing them. [@2,4] The sanction of that article provides for a lengthy prison term. [@4]
