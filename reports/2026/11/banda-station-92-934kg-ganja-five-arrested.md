@@ -43,6 +43,11 @@ media:
     media_url: https://staticimg.amarujala.com/assets/images/2026/11/18/kanpur_a99eac48ce6be4776cb0e975edb2a265.jpeg?w=674&dpr=2.0&q=80
     publisher: Amar Ujala
     caption: 'The five accused in police custody after the ganja seizure at Banda railway station. Photo: Amar Ujala'
+  - kind: video
+    url: https://www.bhaskar.com/amp/local/uttar-pradesh/banda/news/banda-railway-station-ganja-smuggling-arrest-up-police-139728307.html
+    media_url: https://videos.bhaskarassets.com/2026/11/18/9be7b74f-bbdb-476e-8e0b-2069bebb30c6_1795016857457/mp4/v360.mp4
+    publisher: Dainik Bhaskar
+    caption: 'News video published with the Dainik Bhaskar report on the 92.934 kg ganja seizure at Banda railway station. Video: Dainik Bhaskar'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 38ab78cb2f31168b43666118c8e31cbd
@@ -53,34 +58,40 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-18
     language: hi
+  - title: बांदा स्टेशन पर 5 गांजा तस्कर गिरफ्तार,:46 लाख का 83 पैकेट में 92 किलो गांजा मिला, 8 ट्रॉली बैग लेकर पहुंचे थे आरोपी
+    url: https://www.bhaskar.com/amp/local/uttar-pradesh/banda/news/banda-railway-station-ganja-smuggling-arrest-up-police-139728307.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-18
+    language: hi
 open_questions:
-  - The account rests on a single Amar Ujala report; no second outlet, police statement or court record was available to confirm it.
-  - The article gives the value as about 46.46 lakh rupees but does not say whose estimate it is or how it was calculated.
-  - No charge sections are named; the report records only that a first information report was filed at the GRP police station.
-  - The seized material was described as ganja; no laboratory confirmation or field-kit test result was reported.
-  - The route from Raipur and the intended handover at Ghatampur come from what the accused told police; the article names no buyer or organiser.
-  - The article does not say whether the five were produced before a court or remanded to custody.
-  - Whether the train had started from Raipur or the consignment was loaded elsewhere in Chhattisgarh is not stated.
+    - 'The time of the interception differs between accounts: the earlier report gave 1 pm, while Dainik Bhaskar says the Betwa Express reached platform 1 at about 6 pm and the five were questioned as they got off.'
+    - The estimated value is given as about 46.46 lakh rupees in one account and as 46 lakh 46 thousand 700 rupees in the Dainik Bhaskar report, which attributes it to police but does not explain the calculation.
+    - Madhu Pandey's address in Chhattisgarh's Durg district is given as Dhamdha in one account and as the Kumhari area in another.
+    - No charge sections are named beyond the Narcotic Drugs and Psychotropic Substances Act, and no court outcome has been reported.
+    - The five were being taken before a court, but whether they were remanded to custody is not reported.
+    - The seized material was described as ganja; no laboratory confirmation or field-kit test result was reported.
+    - The route from Raipur and the intended supply at Ghatampur come from what the accused told police; no buyer or organiser is named.
+    - Whether the consignment was loaded in Raipur itself or elsewhere in Chhattisgarh is not stated.
+    - Ages are given for the accused in one account only; Dainik Bhaskar names them without ages.
 ---
 
 A joint team of the Railway Protection Force, the Government Railway Police and
 the Crime Wing in Jhansi arrested five interstate ganja smugglers at Banda
-railway station on Wednesday, 18 November 2026. [@1] Two of the five were men
+railway station on Wednesday, 18 November 2026. [@1,2] Two of the five were men
 and three were women. [@1] The five were Anand Nagayach (26) and his wife Neha
 (24) of Nivahon village in Lalitpur, Atul Soni (40) and his wife Meenakshi (34)
 of Rajendra Nagar in Orai, and Madhu Pandey (20) of Dhamdha in Chhattisgarh's
-Durg district. [@1]
+Durg district. [@1,2] Atul Soni's temporary address was given as the Barra area of Kanpur. [@2]
 
 The team, led by RPF inspector Suruchi Dwivedi, was checking the station under
-Operation Narcos. [@1] Acting on information from the Crime Wing in Jhansi,
+Operation Narcos. [@1] The operation was carried out on the instructions of Vipul Kumar Srivastava, superintendent of police for the Jhansi railway division, and under the supervision of deputy superintendent Salim Khan, with the GRP station in-charge Harinath Singh and the RPF station in-charge Suruchi Dwivedi in the team. [@2] Acting on information from the Crime Wing in Jhansi,
 officers searched the A-1 coach of train 18203, the Betwa Express, and caught
 all five with the ganja in front of the RMS post office on platform 1 at 1 pm.
 [@1] Officers seized 92.934 kg of ganja that had been hidden in eight trolleys
-and bags. [@1] Police valued the ganja at about 46.46 lakh rupees. [@1]
+and bags. [@1] The ganja was packed in 83 packets wrapped in khaki tape inside the eight trolley bags. [@2] Police valued the ganja at about 46.46 lakh rupees. [@1]
 
 The accused told police they had brought the ganja from Raipur in Chhattisgarh
 and were taking it to Ghatampur in Kanpur, where they were to hand the
-consignment to an unidentified person. [@1] Police seized the ganja and
+consignment to an unidentified person. [@1,2] Police said they were gathering information on the accused's criminal history and on the smuggling network. [@2] Police seized the ganja and
 registered a first information report against all five at the GRP police
-station. [@1]
-
+station. [@1] A case was registered against all five under the Narcotic Drugs and Psychotropic Substances Act, and steps were taken to produce them before a court. [@2]
