@@ -106,6 +106,10 @@ sources:
     archived: https://web.archive.org/web/20241208215614/https://ccguide.org/news/shownewsarticle.php?articleid=12609
     publisher: International Herald Tribune (via Cannabis Campaigners' Guide)
     date: '2007-06-12'
+  - title: Ghanaian To Die In Singapore If found Guilty...
+    url: https://www.modernghana.com/news/133634/ghanaian-to-die-in-singapore-if-found-guilty.html
+    publisher: Modern Ghana
+    date: 2007-04-10
 ---
 
 Chijioke Stephen Obioha, a 38-year-old Nigerian, was hanged on 18 November 2016 at Changi Prison
@@ -128,7 +132,7 @@ Court convicted and sentenced him after a 21-day trial. [@4,5] He had come to Si
 try out for a football club, and narcotics officers arrested him following a surveillance
 operation. [@4,5] He was not hired and stayed as a middleman for electronics dealers; his immigration pass expired in January 2007. [@4,5]
 
-Contemporary accounts described a wider April operation involving more than 20 kilograms of cannabis, valued at about S$410,000. [@8] The 2007 account said a 21-year-old Zambian woman arrived from Johannesburg with fourteen one-kilogram packets in her luggage. [@8] A June report identified her as Daka Guinea, accused of handing the drugs to Obioha at a hotel; both appeared in court that June. [@9] Early accounts called Obioha a 20-year-old Ghanaian, conflicting with the later official identification. [@4,5,6]
+Contemporary accounts described a wider April operation involving more than 20 kilograms of cannabis, valued at about S$410,000. [@8,10] The 2007 account said a 21-year-old Zambian woman arrived from Johannesburg with fourteen one-kilogram packets in her luggage. [@8] A June report identified her as Daka Guinea, accused of handing the drugs to Obioha at a hotel; both appeared in court that June. [@9] Early accounts called Obioha a 20-year-old Ghanaian, conflicting with the later official identification. [@4,5,6]
 
 ## Re-sentencing and final appeals
 
