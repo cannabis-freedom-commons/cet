@@ -60,6 +60,10 @@ sources:
     url: https://theobserverpost.com/plant-some-ganja-on-the-boy-madhya-pradesh-cop-caught-on-video-allegedly-asking-colleagues-to-plant-ganja-on-man-at-hotel/
     publisher: The Observer Post
     date: 2026-11-18
+  - title: 'Plant Some Ganja On The Boy: The Fearful Saga Of The Indian Police Force!'
+    url: https://www.inventiva.co.in/stories/plant-some-ganja-on-the-boy-the-fearful-saga-of-the-indian-police-force/
+    publisher: Inventiva
+    date: 2026-11-18
 open_questions:
     - No account says whether any ganja was found or produced at the hotel, or whether a case was registered against the couple.
     - 'It is not established who was to bring the ganja: The Hindu and Free Press Journal describe Mr. Mishra telling his own police staff, while India Today and Brut say he asked hotel staff.'
@@ -70,6 +74,7 @@ open_questions:
     - The date of the hotel search rests on the 13 November date shown with the clip; 18 November is the date the suspensions were ordered.
     - Mr. Markam's rank is given as SDOP by The Hindu, SDPO by India Today and city SP by the Free Press Journal.
     - NDTV names the hotel owner Sanju Sanodiya, while other accounts of the same event call him Sanjay Sanodiya, and the correct spelling is not established.
+    - The officer's recorded instruction is reported as 'plant some ganja on the boy' and as keeping ganja in the couple's bag; the exact wording of the CCTV audio is not settled.
 ---
 
 Six Madhya Pradesh police officers, including an Additional Superintendent of
@@ -78,7 +83,7 @@ November 2026 over threats to plant marijuana on a young couple during a search
 at a private hotel in Seoni. [@1,5] Chief Minister Mohan Yadav ordered the
 suspensions after CCTV footage from the hotel lobby circulated widely that day.
 [@1] The clip was dated 13 November 2026 and, according to India Today, was
-recorded during the confrontation at the hotel. [@2] The six were Additional SP
+recorded during the confrontation at the hotel. [@2,7] The six were Additional SP
 Deepak Mishra, Seoni SDOP Chanchlesh Markam, Kotwali station in-charge Inspector
 Satish Tiwari, Head Constable Naveen Tiwari, and the Additional SP's driver
 Salman Khan and gunman Krishna Tiwari. [@1] Jabalpur Zone Inspector General
@@ -86,8 +91,8 @@ Promod Verma said the presence of all six was confirmed in an initial inquiry.
 [@1] Seoni SP Krishna Lalchandani ordered the inquiry after the footage surfaced, and Satish Tiwari was attached to the police lines, an administrative measure that does not establish guilt. [@4,6]
 
 In the footage the couple tell the officers they are adults, of the same caste
-and planning to marry. [@2,4,5,6] The woman was asked to unlock her phone; when she
-refused, Mishra suggested planting ganja in the man's bag. [@3,4,5,6] Mishra is heard
+and planning to marry. [@2,4,5,6,7] The woman was asked to unlock her phone; when she
+refused, Mishra suggested planting ganja in the man's bag. [@3,4,5,6,7] Mishra is heard
 saying the officers would not call the couple's parents but would keep ganja in
 their bag. [@1]
 
@@ -97,7 +102,7 @@ report the next day. [@1] The Chief Minister said indiscipline and misconduct in
 police uniform were unacceptable and promised strict action under a
 zero-tolerance policy. [@1] Hotel owner Sanjay Sanodiya accused Inspector Satish
 Tiwari and SDOP Markam of extorting ₹50,000 a month and said the search was
-conducted after he could not meet the demand. [@1] The confrontation took place at the Sidarth Hotel. [@5] The hotel owner also named Traffic Inspector Vijay Baghel among the officers he accused of demanding monthly payments. [@4,5] The hotel owner said he had released the viral video on social media himself to expose the police. [@5,6] Mr. Verma said he had spoken
+conducted after he could not meet the demand. [@1] The confrontation took place at the Sidarth Hotel. [@5] The hotel is on Babariya Road in Seoni. [@7] The hotel owner also named Traffic Inspector Vijay Baghel among the officers he accused of demanding monthly payments. [@4,5] The hotel owner said he had released the viral video on social media himself to expose the police. [@5,6] Mr. Verma said he had spoken
 to the hotel owner and taken his allegations into cognisance. [@1] The Free
 Press Journal reported earlier the same day that an investigation was under way
 into the roles of the city SP and the Additional SP. [@3] Investigators were also to examine whether anyone attempted to fabricate evidence. [@4] Police officials said the digital video recorder footage would be examined to establish the authenticity of the recording and the circumstances of the hotel visit. [@6]
