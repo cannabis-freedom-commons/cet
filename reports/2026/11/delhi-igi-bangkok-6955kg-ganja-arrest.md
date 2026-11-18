@@ -59,31 +59,36 @@ sources:
     publisher: Rediff.com
     date: 2026-11-17
     language: en
+  - title: IGI एयरपोर्ट पर कस्टम का बड़ा एक्शन, 94 लाख की लग्जरी घड़ी और ढाई करोड़ का गांजा बरामद, दो यात्री गिरफ्तार
+    url: https://www.jagran.com/delhi/new-delhi-city-igi-airport-customs-seize-luxury-watch-ganja-from-passengers-40439971.html
+    publisher: Jagran
+    date: 2026-11-17
+    language: hi
 open_questions:
-    - The Live Hindustan headline gives the ganja value as Rs 24.34 lakh, while its body and the PTI account both put it at about Rs 2.43 crore; the report uses Rs 2.43 crore.
-    - No name, age, nationality or flight number for the arrested Bangkok passenger was published; PTI identifies him only as a male passenger.
+    - The Live Hindustan headline gives the ganja value as Rs 24.34 lakh and the Jagran headline as about Rs 2.5 crore, while the body accounts put it at about Rs 2.43 crore; the report uses Rs 2.43 crore.
+    - No name, age or nationality for the arrested Bangkok passenger was published; PTI identifies him only as a male passenger.
     - The substance was reported to have tested positive for ganja/marijuana, but the test method and any laboratory confirmation were not given.
     - No remand, charge sheet or court outcome beyond the NDPS arrest was reported.
-    - Live Hindustan places the Bangkok passenger's arrival on 10 November and the arrest on 11 November, while PTI says he arrived on 11 November; 11 November is used as the incident date at the latest step.
-    - Live Hindustan presents the ganja recovery as the first of two cases, while PTI presents the luxury-watch case first and the ganja case second.
-    - Both accounts attribute their details to customs statements rather than independent reporting.
+    - Live Hindustan and Jagran place the Bangkok passenger's arrival on 10 November and the arrest on 11 November, while PTI says he arrived on 11 November; 11 November is used as the incident date at the latest step.
+    - Live Hindustan presents the ganja recovery as the first of two cases, while PTI and Jagran present the luxury-watch case first and the ganja case second.
+    - The accounts attribute their details to customs statements rather than independent reporting.
 ---
 
 Customs at Delhi's Indira Gandhi International (IGI) Airport presented the ganja
 recovery as the first of two separate smuggling cases detected at the airport.
 [@1] Customs officers at Terminal 3 of Delhi's IGI Airport stopped a Bangkok
 passenger who had arrived on a Thai Airways flight on 10 November after flagging
-him as suspicious at the green channel and searched his baggage. [@1] The
+him as suspicious at the green channel and searched his baggage. [@1,4] The flight number was TG-331. [@4] The
 passenger was arrested on 11 November under the NDPS Act. [@1] Both passengers
 in the two cases were arrested. [@1]
 
 Officers found seven polythene pouches concealed in the passenger's yellow
-trolley bag. [@1,2,3] Testing confirmed the pouches held ganja. [@1,2,3] Its total net
-weight was 6,955 grams. [@1,2,3] Customs put its estimated value at about Rs 2.43
-crore. [@1,2,3] Officers also seized the concealment and packing material used for
-the ganja. [@1,2,3]
+trolley bag. [@1,2,3,4] Testing confirmed the pouches held ganja. [@1,2,3,4] The ganja was hydroponically grown. [@4] Its total net
+weight was 6,955 grams. [@1,2,3,4] Customs put its estimated value at about Rs 2.43
+crore. [@1,2,3,4] Officers also seized the concealment and packing material used for
+the ganja. [@1,2,3,4]
 
-Customs said its investigation in the cases was continuing. [@1] The same report
+Customs said its investigation in the cases was continuing. [@1,4] The same report
 separately describes a used luxury Patek Philippe Aquanaut watch said to be
 worth Rs 94 lakh recovered from an Indian passenger who arrived from Dubai, a
-non-cannabis case left out of these cannabis figures. [@1]
+non-cannabis case left out of these cannabis figures. [@1,4]
