@@ -1,0 +1,113 @@
+---
+code: TW9SA4
+added_at: "2026-11-18T17:27:44.605193Z"
+date: 2026-11-17
+country: br
+place: Boassara, rural zone of Patos de Minas, Minas Gerais
+coordinates: [-18.5789, -46.5181]
+precision: locality
+type: seizure
+also: [arrest]
+title: Military Police seize 105 marijuana bars in buried drums near Patos de Minas
+summary: >-
+  Military Police in Patos de Minas seized 105 bars of marijuana hidden in drums buried in woods beside BR-352 on the night of 17 November 2026 and arrested a man of about 70 accused of guarding the stash. Police also seized cash and precision scales, and the Civil Police are investigating who owned the shipment.
+figures:
+  arrested: 1
+  sites: 4
+  cash:
+    amount: 1840
+    currency: BRL
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+  activity: [trafficking]
+  setting: [forest, home]
+  charges: [drug trafficking]
+  case_stage: investigation
+  date_precision: exact
+  region: Minas Gerais
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [2]
+  details.charges: [2]
+  details.products: [1]
+  details.setting: [2]
+  figures.arrested: [1]
+  figures.cash: [2]
+  figures.sites: [2]
+media:
+  - kind: photo
+    url: https://www.patosja.com.br/Policiais/policia-militar-apreende-105-barras-de-maconha-escondidas-em-toneis-na-zona-rural-de-patos-de-minas
+    media_url: https://img.patosja.com.br/1795001858976.webp
+    publisher: PatosJá
+    caption: 'Marijuana bricks, banknotes and precision scales laid out on a table in front of a Military Police of Minas Gerais backdrop, in the photo published with the PatosJá report of the seizure. Photo: Polícia Militar'
+  - kind: photo
+    url: https://patosnoticias.com.br/pm-apreende-105-barras-de-maconha-enterradas-em-mata-na-br-352/
+    media_url: https://patosnoticias.com.br/wp-content/uploads/2026/11/apreensao-maconha-1-9d20-cut.webp
+    publisher: Patos Notícias
+    caption: 'One of the photos of the marijuana seized near Boassara, published with the Patos Notícias report of the operation. Photo: Polícia Militar'
+  - kind: photo
+    url: https://patosnoticias.com.br/pm-apreende-105-barras-de-maconha-enterradas-em-mata-na-br-352/
+    media_url: https://patosnoticias.com.br/wp-content/uploads/2026/11/apreensao-maconha-2-32fb-cut.webp
+    publisher: Patos Notícias
+    caption: 'One of the photos of the marijuana seized near Boassara, published with the Patos Notícias report of the operation. Photo: Polícia Militar'
+  - kind: photo
+    url: https://patosnoticias.com.br/pm-apreende-105-barras-de-maconha-enterradas-em-mata-na-br-352/
+    media_url: https://patosnoticias.com.br/wp-content/uploads/2026/11/apreensao-maconha-3-2a4c-cut.webp
+    publisher: Patos Notícias
+    caption: 'One of the photos of the marijuana seized near Boassara, published with the Patos Notícias report of the operation. Photo: Polícia Militar'
+status: verified
+created_by_model: swancloud/deepseek-v4.1-flash#max
+submission: 45f9c51c2673ee1207abf3a6032747e4
+tags: [patos-de-minas, minas-gerais, alto-paranaiba, maconha, br-352]
+sources:
+  - title: Polícia Militar apreende 105 barras de maconha escondidas em tonéis na zona rural de Patos de Minas
+    url: https://www.patosja.com.br/Policiais/policia-militar-apreende-105-barras-de-maconha-escondidas-em-toneis-na-zona-rural-de-patos-de-minas
+    publisher: PatosJá
+    date: 2026-11-18
+    language: pt
+  - title: Polícia Militar apreende mais de 100 tabletes de maconha em residência na comunidade de Boassara
+    url: https://clubenoticia.com.br/policia-militar-apreende-mais-de-100-tabletes-de-maconha-em-residencia-na-comunidade-de-boassara/
+    publisher: Clube Notícia
+    date: 2026-11-17
+    language: pt
+  - title: PM apreende 105 barras de maconha enterradas em mata na BR-352
+    url: https://patosnoticias.com.br/pm-apreende-105-barras-de-maconha-enterradas-em-mata-na-br-352/
+    publisher: Patos Notícias
+    date: 2026-11-18
+    language: pt
+open_questions:
+  - No weight was published for the 105 bars, so no cannabis weight is recorded.
+  - 'The arrested man''s age differs between accounts: about 70 in the PatosJá and Patos Notícias reports and 61 in Clube Notícia; the report uses about 70.'
+  - The material was described as marijuana or a substance resembling marijuana, with no laboratory confirmation reported.
+  - The man denied involvement, and whether he owned the drugs or only guarded them is not established; no plea or court outcome was reported.
+  - Only Clube Notícia gives the amount of cash (R$ 1,840) and says it was found on the man; the other accounts mention cash without a figure.
+  - The reports locate the drums only near the BR-352 turn-off for Boassara; the coordinates used are for Patos de Minas, not the burial site.
+  - All three accounts draw on Military Police statements, so no independent account of the operation was found.
+---
+
+Military Police seized 105 bars of marijuana hidden in drums in the rural zone
+of Patos de Minas on the night of Tuesday 17 November 2026. [@1] A man of about
+70 was arrested on suspicion of guarding the place where the drugs were hidden.
+[@1]
+
+Officers acted on reports of people in pickup trucks on BR-352 near the entrance
+to Boassara. [@1] Reports also mentioned a motorcyclist who passed the stretch
+often to watch what was hidden in the vegetation. [@2] The drums had been buried
+in the ground among the vegetation. [@3] Inside the drums officers found the 105
+marijuana bars and two precision scales, and sniffer dogs helped in the search.
+[@2] The man was found at a house near the site, and a search of him turned up a
+small marijuana tablet, R$ 1,840 in cash and a mobile phone. [@2] He denied
+knowing about or having any involvement with the material found in the woods.
+[@2]
+
+Captain Caixeta said the drug would be distributed not only in Patos de Minas
+but in other places in the region. [@1] He was arrested in the act and taken
+with the seized material to the Civil Police station. [@2] The Civil Police will
+continue the investigation, identify the owners of the shipment and establish
+whether others took part. [@1]
+
