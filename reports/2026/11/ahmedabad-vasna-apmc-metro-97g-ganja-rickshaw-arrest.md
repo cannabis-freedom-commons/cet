@@ -42,13 +42,15 @@ sources:
     url: https://english.gujaratsamachar.com/news/ahmedabad/transit-hub-drug-trade-hit-as-ahmedabad-police-arrest-rickshaw-driver-with-ganja-at-vasna-apmc-metro-station-66830366026
     publisher: Gujarat Samachar
     date: 2026-11-18
+  - title: Five arrested as Ahmedabad Police seize 549 cough syrup bottles, ganja
+    url: https://www.daijiworld.com/news/newsDisplay?newsID=1335671
+    publisher: Daijiworld.com
+    date: 2026-11-18
 open_questions:
-  - No separate date is given for the raid; 18 November 2026 is the publication date and is used as the incident date.
-  - The Rs 7,507 is the total value police assigned to all confiscated items, including cash, so no cannabis-only value is recorded.
-  - Only one accessible source was found for this arrest, with no independent second account opened.
-  - No formal charges, case number or court outcome were reported; the case was at the arrest and interrogation stage.
-  - The substance was identified as ganja by a preliminary Forensic Science Laboratory field test; no laboratory result was reported.
-  - The supplier and the local buyers police are seeking were not identified at the time of reporting.
+    - The Daijiworld account and the IANS copies of the arrest reproduce the same wire text, so they are not independent accounts.
+    - No formal charges, case number or court outcome were reported; the case was at the arrest and interrogation stage.
+    - The substance was identified as ganja by a preliminary Forensic Science Laboratory field test; no laboratory result was reported.
+    - The supplier and the local buyers police are seeking were not identified at the time of reporting.
 ---
 
 A joint team of Vasna Police and the Local Crime Branch (LCB) Zone-7 squad
@@ -58,7 +60,7 @@ beneath the APMC Metro Station in Ahmedabad's Vasna area. [@1] Saiyed, a
 resident of Fatehwadi in Vejalpur, was apprehended during a targeted raid. [@1]
 
 Police seized 97 grams of ganja along with cash, putting the total value of the
-confiscated items at Rs 7,507. [@1] The operation followed a tip-off that a man
+confiscated items at Rs 7,507. [@1] Police valued the 97 grams of ganja at Rs 4,850, the rest of the Rs 7,507 total being Rs 2,657 in cash. [@2] The operation followed a tip-off that a man
 in a brown jacket was loitering near the station with cannabis intended for
 retail street sales, and the squad mounted surveillance before raiding the spot
 beneath the station. [@1] During the search officers recovered a black plastic
@@ -70,5 +72,4 @@ after which police placed Saiyed under formal arrest. [@1]
 Preliminary questioning indicated that Saiyed works as an auto-rickshaw driver
 and is also a habitual consumer of ganja. [@1] Police began searching for the
 supplier who provided the ganja and the local customers to whom he had been
-selling it in small quantities. [@1]
-
+selling it in small quantities. [@1] The arrest was part of a Zone-7 police NDPS drive on 18 November 2026 under the 'No Drugs in Ahmedabad City' campaign, in which Ahmedabad City Police registered four cases and seized 427 grams of ganja in a separate Vejalpur case. [@2]
