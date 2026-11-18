@@ -84,20 +84,24 @@ sources:
     url: https://www.whtimes.co.uk/news/26738737.borehamwood-cannabis-factory-worth-around-50-000-uncovered/
     publisher: Welwyn Hatfield Times
     date: 2026-11-17
+  - title: £50,000 cannabis factory discovered inside Borehamwood house as police uncover five growing rooms
+    url: https://uknip.co.uk/news/uk/uk-news/borehamwood-cannabis-factory-hartforde-road-police-raid-2/
+    publisher: UK News in Pictures (UKNIP)
+    date: 2026-11-18
 ---
 
 Officers from the Operational Support Group raided a property on Hartforde Road
-in Borehamwood on Wednesday, November 4. [@1,3,4,5,6] The officers found five rooms in
-the property being used to grow cannabis. [@1,3,4,5,6] The house had been made to look
-like a normal home, with several of its outside windows altered. [@2,3,4,5,6]
+in Borehamwood on Wednesday, November 4. [@1,3,4,5,6,7] The officers found five rooms in
+the property being used to grow cannabis. [@1,3,4,5,6,7] The house had been made to look
+like a normal home, with several of its outside windows altered. [@2,3,4,5,6,7]
 
 Police estimated the street value of the cannabis grown at the property at
-£50,000. [@1,4,5,6] Inspector Paul Costello of the Operational Support Group said
+£50,000. [@1,4,5,6,7] Inspector Paul Costello of the Operational Support Group said
 cannabis factories present a significant danger to those living near them
 because they can be a serious fire hazard. [@1,4,5] He said such factories are often
 controlled by organised crime groups linked to violence, modern day slavery and
-human trafficking. [@1,4,5]
+human trafficking. [@1,4,5,7] Inspector Costello asked residents to report suspicious activity such as large amounts of plant pots, soil, chemicals, lights or heating equipment being taken into a property. [@7]
 
 Police said they were still working to identify and find those responsible for
-the cannabis factory. [@1,3,4,5] Police asked anyone with information to contact them
-quoting crime reference 41/106091/26. [@1,3,4]
+the cannabis factory. [@1,3,4,5,7] Police said no arrests had been announced in connection with the discovery. [@7] Police asked anyone with information to contact them
+quoting crime reference 41/106091/26. [@1,3,4,7]
