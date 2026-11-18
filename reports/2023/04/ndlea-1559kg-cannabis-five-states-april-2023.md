@@ -59,32 +59,36 @@ sources:
     url: https://punchng.com/ndlea-arrests-surinamese-with-9-9kg-cocaine-concealed-in-condoms/
     publisher: Punch Newspapers
     date: 2023-04-09
+  - title: Surinamese Man Arrested At PH Airport With 9.9kg Cocaine Concealed In Condoms
+    url: https://www.channelstv.com/2023/04/09/surinamese-man-arrested-at-ph-airport-with-9-9kg-cocaine-concealed-in-condoms/
+    publisher: Channels Television
+    date: 2023-04-09
 ---
 
 Officers of the National Drug Law Enforcement Agency arrested Nura Ibrahim, 40,
 and Habibu Sadiq, 38, with 120 blocks of cannabis weighing 148.7kg along the
-Zaria-Kano road in Kano on 2 April 2023. [@1,5] In Lagos, officers recovered at
+Zaria-Kano road in Kano on 2 April 2023. [@1,5,6] In Lagos, officers recovered at
 least 418.5kg of cannabis and a Sienna space bus used to convey it from the
-Patey drug hub on Lagos Island on 6 April. [@1,5] Officers arrested Azi Solomon at
+Patey drug hub on Lagos Island on 6 April. [@1,5,6] Officers arrested Azi Solomon at
 Ojota garage the same day while he was attempting to move 23kg of cannabis to
-another state. [@1,5] In Taraba, officers seized 40.9kg of cannabis from Haruna
-Adamu, 32, and Salisu Ibrahim, 30. [@3]
+another state. [@1,5,6] In Taraba, officers seized 40.9kg of cannabis from Haruna
+Adamu, 32, and Salisu Ibrahim, 30. [@3,6]
 
 At Tincan seaport in Lagos, NDLEA officers intercepted 110 parcels of Colorado,
 a strain of cannabis, weighing 55kg hidden in container MSCU 4972769 from
-Toronto via Montreal in Canada, which held five used vehicles. [@1] The illicit
+Toronto via Montreal in Canada, which held five used vehicles. [@1,6] The illicit
 consignment was discovered in the container bearing five units of used vehicles
 during a joint examination of the cargo by NDLEA and other port stakeholders.
-[@1] Officers recovered 205.6kg of cannabis from the home of a fleeing suspect
-in the Gida Dubu area of Bauchi metropolis. [@4] The Sokoto State command also
+[@1,6] Officers recovered 205.6kg of cannabis from the home of a fleeing suspect
+in the Gida Dubu area of Bauchi metropolis. [@4,6] The Sokoto State command also
 received 667.6kg of cannabis seized by Customs officers along the Illela-Niger
-Republic border. [@1] The NDLEA said these seizures totalled 1,559.3kg of
+Republic border. [@1,6] The NDLEA said these seizures totalled 1,559.3kg of
 cannabis seized during interdiction operations in five states in the past week.
-[@1,5]
+[@1,5,6]
 
 The cannabis seizures were announced in the same 9 April NDLEA statement that
 reported the arrest of Surinamese man Dadda Lorenzo Harvy Albert with 117
 parcels of cocaine at Port Harcourt International Airport, a separate cocaine
-case not counted here. [@1] NDLEA Chairman Brig. Gen. Mohamed Buba Marwa
+case not counted here. [@1,6] NDLEA Chairman Brig. Gen. Mohamed Buba Marwa
 commended officers in Port Harcourt, Tincan, Kano, Lagos, Imo, Taraba, Bauchi
-and Sokoto commands for the operations. [@2]
+and Sokoto commands for the operations. [@2,6]
