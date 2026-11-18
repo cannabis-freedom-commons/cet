@@ -66,12 +66,11 @@ sources:
     publisher: HCH
     date: 2026-11-16
     language: es
-open_questions:
-    - No separate date for the interception was given; 16 November 2026 is the publication date and is used as the incident date.
-    - The reported 800 kilograms that could not be recovered are not counted in the seized-quantity figure, and their fate was not explained beyond safety concerns.
-    - The four detained people were not identified by name, nationality, charge or court status.
-    - No exact position at sea was given beyond Caribbean waters near La Vela de Coro and the Venezuelan coast.
-    - Both published accounts derive from the same JIATF South and SOUTHCOM statements rather than independent reporting.
+  - title: Comando Sur de EE. UU. y aliados incautan más de cuatro toneladas de droga en aguas del Caribe cerca de Falcón
+    url: https://confirmado.com.ve/comando-sur-de-ee-uu-y-aliados-incautan-mas-de-cuatro-toneladas-de-droga-en-aguas-del-caribe-cerca-de-falcon/
+    publisher: Confirmado
+    date: 2026-11-17
+    language: es
 media:
   - kind: photo
     url: https://www.elnacional.com/2026/11/comando-sur-de-ee-uu-confirma-incautacion-de-mas-de-cuatro-toneladas-de-marihuana-cerca-de-falcon/
@@ -82,22 +81,22 @@ media:
 
 An international anti-drug operation intercepted a vessel near La Vela de Coro
 in Falcon state carrying more than four tonnes of marijuana with four people on
-board, as reported by the United States Joint Interagency Task Force South. [@1,2,3,4,5]
+board, as reported by the United States Joint Interagency Task Force South. [@1,2,3,4,5,7]
 The target was the fishing vessel F/V Las Marias, spotted by a Netherlands
 maritime patrol aircraft while sailing in Caribbean waters off the Venezuelan
-coast. [@1,2,3,4,5,6] After the sighting, an interceptor unit of the Royal Netherlands
-Navy took control of the vessel and detained the four people on board. [@1,2,3,4,5,6]
+coast. [@1,2,3,4,5,6,7] After the sighting, an interceptor unit of the Royal Netherlands
+Navy took control of the vessel and detained the four people on board. [@1,2,3,4,5,6,7]
 
 Authorities seized 9,261 pounds of marijuana, about 4.2 tonnes, during the
-operation. [@1,2,4,5,6] Another 1,764 pounds, about 800 kilograms, could not be
-recovered because of safety concerns during the intervention. [@1,2,3,4,5,6] The total
+operation. [@1,2,4,5,6,7] Another 1,764 pounds, about 800 kilograms, could not be
+recovered because of safety concerns during the intervention. [@1,2,3,4,5,6,7] The total
 reported load was about five tonnes of marijuana, counting both the seized drugs
-and the drugs that could not be recovered. [@1,5]
+and the drugs that could not be recovered. [@1,5,7]
 
 The United States Southern Command acknowledged the operation and stressed
-international cooperation against drug trafficking in the region. [@1,3,5] SOUTHCOM
+international cooperation against drug trafficking in the region. [@1,3,5,7] SOUTHCOM
 said it was working with partners to dismantle narco-terrorist networks across
 the Caribbean in a message on its official X account. [@1,5] JIATF South said its
 detection and surveillance work supports Southern Command-led operations to
 identify, disrupt and dismantle drug-trafficking networks in the Caribbean and
-the Eastern Pacific. [@1,5]
+the Eastern Pacific. [@1,5,7]
