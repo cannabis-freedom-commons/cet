@@ -69,6 +69,10 @@ sources:
     url: https://dayton247now.com/news/local/man-sentenced-after-admitting-to-killing-veteran-during-cincinnati-drug-buy-college-hill-ceantae-stevens-danias-weaver-marijuana
     publisher: Dayton 24/7 Now
     date: 2026-11-17
+  - title: Man sentenced after admitting to killing veteran during Cincinnati drug buy
+    url: https://dayton247now.com/news/local/gallery/man-sentenced-after-admitting-to-killing-veteran-during-cincinnati-drug-buy-college-hill-ceantae-stevens-danias-weaver-marijuana?photo=1
+    publisher: Dayton 24/7 Now
+    date: 2026-11-17
 ---
 
 Ceantae Stevens, 25, was sentenced Monday to 12 to 17.5 years in prison. [@1,3] He
@@ -76,8 +80,8 @@ pleaded guilty as his trial was set to begin. [@1,3] Stevens was already in pris
 serving a sentence on unrelated charges. [@1]
 
 Danias Weaver, 23, was shot and killed inside his car on Llanfair Avenue in
-College Hill in the middle of the afternoon on 14 October 2024. [@1,3] Weaver had
-served in the Army until a few months before his death. [@1] According to court
+College Hill in the middle of the afternoon on 14 October 2024. [@1,3,4] Weaver had
+served in the Army until a few months before his death. [@1,4] According to court
 papers, Stevens and another person set up a marijuana sale with Weaver. [@1,3]
 When they met, they shot Weaver and took his gun. [@1,3] The accomplice was
 unidentified in the court papers. [@1,3]
