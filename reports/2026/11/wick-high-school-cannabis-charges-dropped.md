@@ -62,6 +62,10 @@ sources:
     url: https://uk.news.yahoo.com/charges-dropped-against-six-men-151812158.html
     publisher: Yahoo News UK
     date: 2026-11-17
+  - title: Case against six Vietnamese men dropped over £7m cannabis factory at former Wick High School property
+    url: https://www.johnogroat-journal.co.uk/news/case-against-six-vietnamese-men-dropped-over-7m-cannabis-fa-450412/
+    publisher: John O'Groat Journal
+    date: 2026-11-17
 media:
   - kind: photo
     url: https://ca.news.yahoo.com/charges-against-six-men-7-164412669.html
@@ -73,26 +77,38 @@ media:
     media_url: https://s.yimg.com/lo/mysterio/api/9b1a0bcb94270859d7b8b7fc772bdc37ce347a52bf12ce8ca5ca6ddd3737d593/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fherald_scotland_359%2Fd88283a0ce714dbbd8e100556012bb1c.jpg
     publisher: Yahoo News UK
     caption: 'Image published with the report that six Vietnamese men accused over the cannabis factory at the former Wick High School had charges dropped. Photo: Colin Mearns'
+  - kind: photo
+    url: https://www.johnogroat-journal.co.uk/news/case-against-six-vietnamese-men-dropped-over-7m-cannabis-fa-450412/
+    media_url: https://www.johnogroat-journal.co.uk/_media/img/750x0/OUEIEQUX3K17OVHFNT5M.jpg
+    publisher: John O'Groat Journal
+    caption: 'The former Wick High School, raided by police in January when a large quantity of cannabis was discovered. Picture: DGS'
+  - kind: photo
+    url: https://www.johnogroat-journal.co.uk/news/case-against-six-vietnamese-men-dropped-over-7m-cannabis-fa-450412/
+    media_url: https://www.johnogroat-journal.co.uk/_media/img/750x0/04R1X2YDIE7AC0HMNS6G.jpg
+    publisher: John O'Groat Journal
+    caption: 'Police vehicles stationed around the abandoned, derelict former high school in Wick after the January raid. Picture: DGS'
+open_questions:
+    - Earlier reports named 'Ho's legal team' as the one that did not enter a not guilty plea, while the John O'Groat Journal names Vo's legal team; Vo is one of the six defendants.
 ---
 
 Charges were dropped against six Vietnamese men accused of involvement in a
-large cannabis factory at a derelict school. [@1,2,3,4] The six were Thong Vo, 38,
+large cannabis factory at a derelict school. [@1,2,3,4,5] The six were Thong Vo, 38,
 Chinh Nguyen, 44, Diep Van Le, 47, Trung Nguyen, 35, Pham Quoc Anh, 23, and Nam
-Viet Le, 23. [@1,2,3,4] They were accused of taking part in the production and supply
-of the class B drug between 1 July 2025 and 1 February 2026. [@1,3,4]
+Viet Le, 23. [@1,2,3,4,5] They were accused of taking part in the production and supply
+of the class B drug between 1 July 2025 and 1 February 2026. [@1,3,4,5]
 
 Police said that at the time of the search they found cannabis at the former
-Wick High School in the Highlands with an estimated street value of £7.1m. [@1,2,3,4]
+Wick High School in the Highlands with an estimated street value of £7.1m. [@1,2,3,4,5] Police acting on intelligence raided the former school building in January and later revealed that nearly 6000 cannabis plants as well as dried cannabis had been discovered inside. [@5]
 The case had been called for a hearing in July at the High Court in Glasgow.
-[@1,2,3,4] Lawyers for the group, other than Ho's legal team, had entered not guilty
+[@1,2,3,4,5] Lawyers for the group, other than Ho's legal team, had entered not guilty
 pleas. [@1,2,3,4] A special defence of coercion was lodged on behalf of each of the
-six. [@1,2,3,4]
+six. [@1,2,3,4,5]
 
 At the summer hearing the court was told that inquiries were under way through
 the Home Office National Referral Mechanism into whether any of the six might be
-victims of human trafficking. [@1,2,3,4] A nine-day trial had been set to begin in
-October 2027. [@1,2,3,4] A spokesperson for the Crown Office and Procurator Fiscal
+victims of human trafficking. [@1,2,3,4,5] A nine-day trial had been set to begin in
+October 2027. [@1,2,3,4,5] A spokesperson for the Crown Office and Procurator Fiscal
 Service said Crown Counsel decided there should be no further criminal
 proceedings at this time after full and careful consideration of the facts and
-circumstances of the case. [@1,2,3,4] The Crown reserved the right to proceed in the
-future should further evidence become available. [@1,2,3,4]
+circumstances of the case. [@1,2,3,4,5] The Crown reserved the right to proceed in the
+future should further evidence become available. [@1,2,3,4,5]
