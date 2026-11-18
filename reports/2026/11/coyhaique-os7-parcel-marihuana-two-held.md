@@ -49,29 +49,34 @@ sources:
     publisher: Diario El Divisadero
     date: 2026-11-17
     language: es
+  - title: 'Tráfico de drogas en Coyhaique: Carabineros del OS7 y la Fiscalía decomisan más de $140 millones en encomienda de droga enviada a la región de Aysén'
+    url: https://g5noticias.cl/2026/11/18/trafico-de-drogas-en-coyhaique-carabineros-del-os7-y-la-fiscalia-decomisan-mas-de-140-millones-en-encomienda-de-droga-enviada-a-la-region-de-aysen/
+    publisher: G5noticias
+    date: 2026-11-18
+    language: es
 open_questions:
-  - No separate date is given for the interception or the arrests; 17 November 2026 is the article's publication date and is used as the incident date.
-  - 'No separate weight for the marihuana was published: the reported total exceeds eight kilograms and includes 4.68 kilograms of cocaine, so no cannabis weight is recorded.'
-  - The headline values the whole seizure at 150 million pesos, while the body cites a police estimate above 100 million pesos in total, with the marihuana alone above 50 million pesos.
-  - The dose figures of about 6,000 for marihuana and 9,000 for cocaine are estimates, and the overall estimate of about 16,000 doses does not match their sum.
-  - The two detained men are not named, and no trial date, plea or sentence was reported beyond the 90-day preventive detention order.
-  - The account rests on one outlet's report of a Carabineros and Public Prosecutor's Office briefing; no independent account of this specific operation was found.
-  - The text gives a weight ("4.68 kg") but the figures have no kg_seized; check whether it belongs there.
+    - No separate date is given for the interception or the arrests; 17 November 2026 is the publication date of the first report and stands in as the incident date, while the detentions were reported as having happened in the hours before publication.
+    - The marihuana weight is given only as more than 3 kilograms of prepared marihuana, with no exact weight and no laboratory confirmation.
+    - 'The reported valuations differ: the first outlet''s headline gives 150 million pesos for the whole seizure and its body more than 100 million, with the marihuana alone above 50 million, while the 18 November account puts the whole eight kilograms at more than 140 million pesos.'
+    - 'The dose estimates differ: about 6,000 marihuana doses and 9,000 cocaine doses with an overall estimate of about 16,000, against close to 15,000 doses in the 18 November account.'
+    - The two detained men are not named, and no trial date, plea or sentence has been reported beyond the 90-day preventive detention order.
+    - The origin of the drugs is still under investigation; Carabineros said it probably came from the north of the country.
+    - The accounts rest on the Carabineros and Public Prosecutor's Office briefing on the same operation; no independent reporting of the interception itself was found.
 ---
 
 Carabineros' OS7 section detained two adult Chilean men with homes in Coyhaique
 after intercepting a parcel carrying drugs sent by courier toward the Aysén
-Region, and both were later formalized on drug-trafficking charges. [@1]
+Region, and both were later formalized on drug-trafficking charges. [@1,2]
 Authorities presented the operation at the First Police Station in Coyhaique,
 where Carabineros and the Public Prosecutor's Office gave details of a
 coordinated investigation that stopped the drugs reaching their final
 destination. [@1] Prosecutor Fernando Pino said both men were placed at the
 disposal of the Juzgado de Garantía, where a formalization hearing was held and
-preventive detention was ordered for a 90-day investigation. [@1]
+preventive detention was ordered for a 90-day investigation. [@1,2] One of the two accused had a previous record for robbery in an uninhabited place. [@2]
 
 According to the police, the parcel held 4 kilograms 680 grams of cocaine
 hydrochloride as well as marihuana, making a combined seizure of more than eight
-kilograms of illicit substances. [@1] The Fiscalía said the drugs could yield
+kilograms of illicit substances. [@1,2] The marihuana in the parcel was described as prepared marihuana and weighed more than 3 kilograms. [@2] The Fiscalía said the drugs could yield
 about 6,000 doses of marihuana and 9,000 of cocaine, though the authorities also
 gave an overall estimate of close to 16,000 doses. [@1] The prosecutor said the
 police valuation exceeded 100 million pesos, with the cocaine worth close to
@@ -80,11 +85,10 @@ that figure and the marihuana valued at more than 50 million pesos. [@1]
 The drugs were detected by the sniffer dog Gárdena in an investigation led by
 the regional prosecutor's office to identify suppliers and possible members of a
 network bringing illicit substances into Patagonia through courier services.
-[@1] Pino said OS7 halted a large parcel before it entered the region and that
+[@1,2] Pino said OS7 halted a large parcel before it entered the region and that
 officers under the drugs law captured the two men who were to receive it. [@1]
 He said the quantity, amounting to several thousand doses and about 100 million
 pesos in small-scale sales, indicated the drugs were intended for distribution
 across the region. [@1] Colonel Juan Abarca, prefect of Carabineros in Aysén,
 called it the largest Carabineros seizure of the year and said the case was
-being studied as part of regional crime patterns. [@1]
-
+being studied as part of regional crime patterns. [@1,2] He said the investigation remained open to establish whether more members of the network exist. [@2] Abarca said the origin of the drugs was under investigation but probably lay in the north of the country. [@2]
