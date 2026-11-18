@@ -94,6 +94,11 @@ sources:
     publisher: Gazete İlk Sayfa
     date: 2026-11-16
     language: tr
+  - title: 'Ankara''da narkotik operasyonu: 12 kilo 800 gram esrar ele geçirildi'
+    url: https://www.duzcetv.com/asayis-ulusal-haberleri/265023--ankarada-narkotik-operasyonu-12-kilo-800-gram-esrar-ele-gecirildi
+    publisher: Düzce TV
+    date: 2026-11-17
+    language: tr
 media:
   - kind: video
     url: https://www.haberler.com/amp/ankara-yenimahalle-de-12-kilo-800-gram-esrar-ele-20432981-haberi/
@@ -114,14 +119,14 @@ media:
 
 Ankara anti-narcotics police carried out an operation in the Yenimahalle
 district on 15 November 2026 under the coordination of the Ankara Chief Public
-Prosecutor's Office. [@3,4,6,7,8,10,11] Officers seized 12 kilograms 800 grams of cannabis
-(esrar) in the operation. [@2,4,5,6,7,8,9,10,11]
+Prosecutor's Office. [@3,4,6,7,8,10,11,12] Officers seized 12 kilograms 800 grams of cannabis
+(esrar) in the operation. [@2,4,5,6,7,8,9,10,11,12]
 
 Officers also seized three precision scales, drug-packaging materials and 9,050
-Turkish lira in cash. [@2,4,5,6,7,8,9,10,11] One suspect was caught during the Yenimahalle
-operation. [@1,4,5,6,7,9,11]
+Turkish lira in cash. [@2,4,5,6,7,8,9,10,11,12] One suspect was caught during the Yenimahalle
+operation. [@1,4,5,6,7,9,11,12]
 
 The suspect was detained on suspicion of manufacturing and trading narcotic or
-stimulant drugs. [@2,4,5,6,7,8,9,10,11] Judicial proceedings against the suspect were continuing.
-[@3,4,5,6,7,8,9,11] Ankara police said their work against people trading drugs would continue
-with determination. [@3]
+stimulant drugs. [@2,4,5,6,7,8,9,10,11,12] Judicial proceedings against the suspect were continuing.
+[@3,4,5,6,7,8,9,11,12] Ankara police said their work against people trading drugs would continue
+with determination. [@3,12]
