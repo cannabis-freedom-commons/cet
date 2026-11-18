@@ -65,26 +65,25 @@ sources:
     publisher: القاهرة 24
     date: 2026-11-17
     language: ar
-open_questions:
-    - No weight, value or number of hashish pieces was published; the drugs were described only as quantities divided into pieces and prepared for sale.
-    - No account states the date of the verdict; 17 November 2026, the publication date of the reports, is used as the incident date.
-    - The brothers were identified only by the initials M. A. and A. A.; no ages, full names or occupations were given.
-    - No appeal, challenge or later court outcome was reported.
-    - The Youm7, Cairo24 and other accounts reproduce the same court and police account, so they are not independent reporting of the verdict.
+  - title: السجن 10 سنوات وغرامة 100 ألف جنيه لشقيقين بتهمة الاتجار في الحشيش وحيازة بنادق آلية بسوهاج
+    url: https://www.iqraa.news/230830/%D8%A7%D9%84%D8%B3%D8%AC%D9%86-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-100-%D8%A3%D9%84%D9%81-%D8%AC%D9%86%D9%8A%D9%87-%D9%84%D8%B4%D9%82%D9%8A%D9%82%D9%8A%D9%86-%D8%A8/
+    publisher: إقرأ نيوز
+    date: 2026-11-17
+    language: ar
 ---
 
 Sohag Criminal Court sentenced two brothers to 10 years in prison each and fined
 each 100,000 Egyptian pounds after convicting them of drug trafficking and of
 holding firearms and ammunition without a licence in the Tema district, north of
-Sohag Governorate. [@1,3] The case began when information reached the
+Sohag Governorate. [@1,3,4] The verdict was issued under counsellor Mohamed El-Amir Mohamed Abu Kreisha, with counsellors Ahmed Nabil Tolba and Ahmed Mustafa Abu Sahli, and court secretaries Mohamed El-Arabi and Ali Hussein. [@4] The case began when information reached the
 investigations unit of Tema police station that the brothers, identified only as
 M. A. and A. A. and living in Kom Ashfaw village, were running a
-drug-trafficking operation and kept unlicensed guns to protect it. [@1] Another
+drug-trafficking operation and kept unlicensed guns to protect it. [@1,4] Another
 account of the case identified the substance as hashish and the weapons as
 automatic rifles. [@2,3]
 
 A security operation targeted the brothers, arrested them and found quantities
 of hashish divided into pieces and prepared for sale, along with automatic
-rifles and the ammunition used with them. [@1] A chemistry laboratory report confirmed that the seized samples contained the drug hashish. [@3] After the legal procedures were
+rifles and the ammunition used with them. [@1,4] A chemistry laboratory report confirmed that the seized samples contained the drug hashish. [@3,4] After the legal procedures were
 completed the two were referred to Sohag Criminal Court, which reviewed the case
 file and handed down the sentences. [@1]
