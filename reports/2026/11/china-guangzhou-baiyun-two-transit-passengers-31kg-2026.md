@@ -93,6 +93,11 @@ sources:
     publisher: 观察者网
     date: 2026-11-17
     language: zh
+  - title: 广州海关披露：刚查了20多公斤大麻，又查了30多公斤大麻
+    url: https://m.sohu.com/a/1102730785_162758?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
+    publisher: 搜狐网（光明网）
+    date: 2026-11-17
+    language: zh
 media:
   - kind: photo
     url: https://finance.sina.cn/2026-11-17/detail-iniyyzyp7716496.d.html?vt=4
@@ -104,20 +109,23 @@ media:
     media_url: https://k.sinaimg.cn/n/sinakd20261117s/200/w640h360/20261117/2045-e19345117962500e91a008d9e5a36155.jpg/w700d1q75cms.jpg?by=cms_fixed_width
     publisher: 手机新浪网 (观察者网)
     caption: 'Customs handout photo of the opened suitcase with vacuum-packed cannabis from the 13 November seizure at Guangzhou Baiyun airport. Photo: 海关发布 / 观察者网'
+open_questions:
+    - No arrest, charge or court outcome was reported for the two transit passengers.
+    - No date is given for the interception; customs described it as recent and 17 November 2026 is the date of the announcement.
 ---
 
 Guangzhou Baiyun Airport Customs officers screening international transit
 passengers found the luggage X-ray images of two travellers abnormal in
-succession. [@1,2,3,4,5,6,7,8,9,10,11,12] Officers intercepted the two travellers and inspected their
-suitcases. [@1,2,3,4,5,7,8,10,12] The suitcases each held brown-green plant material packed in
+succession. [@1,2,3,4,5,6,7,8,9,10,11,12,13] Officers intercepted the two travellers and inspected their
+suitcases. [@1,2,3,4,5,7,8,10,12,13] The suitcases each held brown-green plant material packed in
 plastic bags that gave off a strong pungent smell when the packaging was opened.
-[@1,2,3,4,6,7,9,10,12]
+[@1,2,3,4,6,7,9,10,12,13]
 
 A technical institution tested the material and confirmed it was cannabis
-weighing 31.787 kilograms in total. [@1,2,3,4,5,6,7,8,9,10,12] Customs announced the seizure on 17
+weighing 31.787 kilograms in total. [@1,2,3,4,5,6,7,8,9,10,12,13] Customs announced the seizure on 17
 November 2026, describing the interception as recent and placing it at the
 passenger-inspection channel of Guangzhou Baiyun Airport. [@1,2,7,10,11,12]
 
 Customs reminded the public that smuggling, selling, transporting or
 manufacturing drugs carries criminal liability in China regardless of quantity.
-[@1,10,11]
+[@1,10,11,13]
