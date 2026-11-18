@@ -58,6 +58,11 @@ sources:
     publisher: Sabah
     date: 2026-11-17
     language: tr
+  - title: Elazığ'daki uyuşturucu operasyonlarında 15 tutuklama
+    url: https://www.saraymedya.com/haber/elazig-daki-uyusturucu-operasyonlarinda-15-tutuklama_325183/
+    publisher: Saray Medya
+    date: 2026-11-17
+    language: tr
 open_questions:
   - The 20-day sweep has no stated start or end dates; 17 November 2026 is the publication and police-statement date and stands in for the incident date.
   - DHA rounded the esrar to 27 grams and the synthetic cannabinoid to 428 grams, while İHA gave 27.17 grams and 428.71 grams; 77 grams of cannabis is used here.
@@ -74,14 +79,14 @@ jailed and 5 were released under judicial control. [@1,3]
 
 The work was coordinated by the Elazığ chief public prosecutor's office and
 carried out by the provincial police directorate's narcotics-crimes and
-public-order branches. [@1,3] Searches seized 50 grams of skunk, a high-potency
+public-order branches. [@1,3,4] Searches seized 50 grams of skunk, a high-potency
 herbal cannabis preparation, and 27 grams of esrar, about 77 grams of cannabis
-in total. [@1,3] The same seizures yielded 1,925 synthetic pharmaceutical pills,
+in total. [@1,3,4] The same seizures yielded 1,925 synthetic pharmaceutical pills,
 428 grams of synthetic cannabinoid, 115 grams of methamphetamine, 81 grams of
 cocaine, 10 grams of synthetic-cannabinoid raw material and four precision
 scales, none of which is counted as cannabis here. [@1,3]
 
 The İHA account put the esrar at 27.17 grams and the synthetic cannabinoid at
 428.71 grams, with 81.25 grams of cocaine and 115.47 grams of methamphetamine.
-[@2] It also confirmed that 15 suspects were jailed for drug trafficking, 5 were
-placed under judicial control and 120 were processed for drug use. [@2]
+[@2,4] It also confirmed that 15 suspects were jailed for drug trafficking, 5 were
+placed under judicial control and 120 were processed for drug use. [@2,4]
