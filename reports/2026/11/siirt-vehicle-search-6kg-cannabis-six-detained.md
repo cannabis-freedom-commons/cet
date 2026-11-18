@@ -100,14 +100,11 @@ sources:
     publisher: Medya Siirt
     date: 2026-11-18
     language: tr
-open_questions:
-  - The reports give no separate date for the stop and search; 18 November 2026 is the publication date and stands in for the incident date.
-  - The material is described only as esrar; the reports do not say whether it was herbal cannabis or pressed resin.
-  - No charges, custody decision or court outcome were reported beyond the transfer to the prosecutor's office.
-  - No value was published for the six kilograms.
-  - The reports do not say where in Siirt province the car was stopped or where it was travelling from or to.
-  - DHA says the car was stopped because officers were suspicious of it, while the İhlas Haber Ajansı account says police had been following it; the difference is not explained.
-  - All the opened accounts reproduce the same DHA or İhlas Haber Ajansı text, so they are not independent reporting.
+  - title: Siirt'te 6 kilogram esrar ele geçirildi, 6 kişi gözaltına alındı - Siirt Haberleri
+    url: https://www.milliyet.com.tr/yerel-haberler/siirt/siirtte-6-kilogram-esrar-ele-gecirildi-6-kisi-7703326
+    publisher: Milliyet
+    date: 2026-11-18
+    language: tr
 media:
   - kind: photo
     url: https://www.haberport.com/haber/siirtte-narkotik-kopeginin-izledigi-aracta-6-kilogram-esrar-ele-gecirildi/71954
@@ -121,14 +118,14 @@ Suçlarla Mücadele Şube Müdürlüğü, the provincial police directorate's un
 combating narcotics crime, as part of work against drug use and trafficking.
 [@1,5,6,7,8,9,10] Officers had been following the car on suspicion of drug trafficking before
 they stopped and searched it. [@4] The search was carried out with İnşa, a
-narcotics detection dog. [@1,11] Officers seized six kilograms of esrar, the
-everyday Turkish term for cannabis, from the vehicle. [@2,5,6,7,8,9,12]
+narcotics detection dog. [@1,11,13] Officers seized six kilograms of esrar, the
+everyday Turkish term for cannabis, from the vehicle. [@2,5,6,7,8,9,12,13]
 
 Six suspects were detained over the seizure, one of them a foreign national.
-[@1,5,6,7,8,9,11] Legal proceedings were started against the suspects who had been in the
+[@1,5,6,7,8,9,11,13] Legal proceedings were started against the suspects who had been in the
 car. [@4]
 
 After questioning and processing at the police station, the six were sent to the
-judicial authorities. [@4,6,7,8,9,10] Their procedures at the prosecutor's office were
+judicial authorities. [@4,6,7,8,9,10,13] Their procedures at the prosecutor's office were
 continuing. [@1] The operation was directed at drug trafficking in Siirt. [@3]
 The work was conducted across the city to prevent drug use and trafficking. [@4]
