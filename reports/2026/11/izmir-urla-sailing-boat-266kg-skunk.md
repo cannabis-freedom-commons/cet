@@ -59,20 +59,25 @@ sources:
     publisher: Son Kale İzmir
     date: 2026-11-18
     language: tr
+  - title: Yabancı bayraklı teknede 266 kilo skunk ele geçirildi - Güncel Gündem Haberleri
+    url: https://www.dha.com.tr/gundem/yabanci-bayrakli-teknede-266-kilo-skunk-ele-gecirildi-2984230
+    publisher: DHA
+    date: 2026-11-18
+    language: tr
 ---
 
 Turkey's Interior Ministry said Coast Guard units patrolling Bodrumiçi Cove, in
 the Urla district of İzmir province on the Aegean coast, judged a
-foreign-flagged sailing boat suspicious during inspections in the cove. [@1,4,5]
+foreign-flagged sailing boat suspicious during inspections in the cove. [@1,4,5,6]
 Personnel of the Coast Guard's Aegean Sea Regional Command and of the İzmir
 Provincial Gendarmerie Command searched the boat, with a narcotics detector dog
-taking part. [@1,4,5] Officers seized 266 kilograms of skunk, a cannabis product, on
-board. [@1,4,5]
+taking part. [@1,4,5,6] Officers seized 266 kilograms of skunk, a cannabis product, on
+board. [@1,4,5,6]
 
 The ministry announced the seizure in a written statement and congratulated the
 two commands and everyone who took part in the operation. [@1] No arrests were
 reported, and the DHA news agency said work was continuing to catch the
-suspects. [@2,4] The ministry said its fight against drugs, which it said targets
+suspects. [@2,4,6] The ministry said its fight against drugs, which it said targets
 young people's future, was being carried on with the police and gendarmerie on
 land and with the Coast Guard at sea. [@3,5] It called that sea area the 'Blue
 Homeland', Turkey's term for its maritime domain. [@3]
