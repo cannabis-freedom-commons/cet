@@ -110,27 +110,36 @@ sources:
     publisher: Hürriyet
     date: 2026-11-18
     language: tr
+  - title: Siirt'te operasyonda 6 kilo esrar ele geçirildi, 6 şüpheli adliyeye sevk edildi
+    url: https://www.sondakika.com/guncel/haber-siirt-te-operasyonda-6-kilo-esrar-ele-gecirildi-6--20440598/
+    publisher: Son Dakika
+    date: 2026-11-18
+    language: tr
 media:
   - kind: photo
     url: https://www.haberport.com/haber/siirtte-narkotik-kopeginin-izledigi-aracta-6-kilogram-esrar-ele-gecirildi/71954
     media_url: https://cdn.haberport.com/uploads/1280/images/news/0b67e0b2-9fcf-4e1a-9a66-d4970c9525ac.jpg
     publisher: Haberport
     caption: 'Photo captioned ''ELE GEÇİRİLENLER'' (the seized items), published with the Haberport account of the 6 kg cannabis seizure in Siirt. Photo: Haberport'
+open_questions:
+    - The accounts give no separate date for the vehicle stop; 18 November 2026 is the date of the governor's statement and of publication.
+    - The reports do not say whether the six suspects were charged, remanded in custody or released after being sent to the prosecutor's office.
+    - No value estimate for the six kilograms of cannabis was published.
 ---
 
 The operation was run by teams of the Siirt İl Emniyet Müdürlüğü Narkotik
 Suçlarla Mücadele Şube Müdürlüğü, the provincial police directorate's unit for
 combating narcotics crime, as part of work against drug use and trafficking.
-[@1,5,6,7,8,9,10] Officers had been following the car on suspicion of drug trafficking before
+[@1,5,6,7,8,9,10,15] The seizure was announced in a statement from the Siirt Governor's Office. [@15] Officers had been following the car on suspicion of drug trafficking before
 they stopped and searched it. [@4] The search was carried out with İnşa, a
-narcotics detection dog. [@1,11,13,14] Officers seized six kilograms of esrar, the
-everyday Turkish term for cannabis, from the vehicle. [@2,5,6,7,8,9,12,13,14]
+narcotics detection dog. [@1,11,13,14,15] Officers seized six kilograms of esrar, the
+everyday Turkish term for cannabis, from the vehicle. [@2,5,6,7,8,9,12,13,14,15]
 
 Six suspects were detained over the seizure, one of them a foreign national.
-[@1,5,6,7,8,9,11,13,14] Legal proceedings were started against the suspects who had been in the
+[@1,5,6,7,8,9,11,13,14,15] Legal proceedings were started against the suspects who had been in the
 car. [@4]
 
 After questioning and processing at the police station, the six were sent to the
-judicial authorities. [@4,6,7,8,9,10,13,14] Their procedures at the prosecutor's office were
+judicial authorities. [@4,6,7,8,9,10,13,14,15] Their procedures at the prosecutor's office were
 continuing. [@1] The operation was directed at drug trafficking in Siirt. [@3]
 The work was conducted across the city to prevent drug use and trafficking. [@4]
