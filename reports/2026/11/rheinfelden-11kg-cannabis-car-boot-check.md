@@ -89,19 +89,29 @@ sources:
     publisher: Les Dernières Nouvelles d'Alsace
     date: 2026-11-12
     language: fr
+  - title: Zoll findet in Rheinfelden elf Kilo Cannabis im Kofferraum - Rheinfelden / Schweiz - Badische Zeitung
+    url: https://www.badische-zeitung.de/zoll-findet-in-rheinfelden-elf-kilo-cannabis-im-kofferraum
+    publisher: Badische Zeitung
+    date: 2026-11-11
+    language: de
+open_questions:
+    - No charge, detention measure or court outcome was reported after the case was handed to the Aargau cantonal police.
+    - Some accounts give Saturday morning rather than Sunday, 8 November 2026, for the check; the report uses the Sunday date given in the body of the reports and in the customs statement.
+    - The weight is given as about eleven kilograms rather than an exact measured figure.
+    - The street-sale value of about 110,000 francs is the customs agency's own estimate.
 ---
 
 Shortly after 2:30 a.m. on Sunday, 8 November 2026, officers of the Federal
 Office for Customs and Border Security stopped a car with Swiss registration
-plates in the area of the Rheinfelden motorway border crossing in Aargau. [@1,6,7,11]
-The car was driven by a 22-year-old Moroccan national. [@1,3,5,6,7,8] He could not produce
+plates in the area of the Rheinfelden motorway border crossing in Aargau. [@1,6,7,11,12]
+The car was driven by a 22-year-old Moroccan national. [@1,3,5,6,7,8,12] The driver was heading from Switzerland into Germany when customs officers stopped him. [@12] He could not produce
 a driving licence during the check, and further inquiries showed that he was
-prohibited from driving motor vehicles. [@1,5,6,7,9]
+prohibited from driving motor vehicles. [@1,5,6,7,9,12]
 
 During the subsequent search of the vehicle, officers found ten vacuum-sealed
-packages containing cannabis in the boot. [@1,3,5,6,7,9] The drugs had been hidden in shopping bags. [@3] The seized cannabis weighed about
-eleven kilograms in total. [@1,3,5,6,7,10,11] The agency put the street-sale value of the drugs at about 110,000 francs. [@4,6] The customs agency handed the case to the Aargau
-cantonal police for further handling. [@2,3,5,6,7,8]
+packages containing cannabis in the boot. [@1,3,5,6,7,9,12] The drugs had been hidden in shopping bags. [@3] The seized cannabis weighed about
+eleven kilograms in total. [@1,3,5,6,7,10,11,12] The agency put the street-sale value of the drugs at about 110,000 francs. [@4,6] The customs agency handed the case to the Aargau
+cantonal police for further handling. [@2,3,5,6,7,8,12]
 
 The Federal Office for Customs and Border Security is the Swiss agency
 responsible for border security and for checking goods, people and means of
