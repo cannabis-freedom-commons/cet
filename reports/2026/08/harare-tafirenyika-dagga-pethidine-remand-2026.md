@@ -51,36 +51,31 @@ sources:
     url: https://allafrica.com/stories/202608210078.html
     publisher: AllAfrica / New Zimbabwe (London)
     date: 2026-08-21
-open_questions:
-    - The five rolls of dagga were not weighed, so no cannabis weight is recorded.
-    - The US$204 valuation covers all the drugs seized, not the dagga alone.
-    - The charge as first put was unlawfully dealing in dangerous drugs; the pair now face unlawful possession of pethidine for dealing and possession of unregistered medicines.
-    - Tafirenyika has not been tried on the drugs charges; only the State's allegations from court papers are reported.
-    - She was denied bail on 13 August and was later taken into custody again over a separate money-laundering case, which is not covered here.
-    - No date is reported for the pair's release from custody or for the next court appearance.
-    - Bail was allowed by consent, and the ruling reported gives no further reasons.
-    - The account rests on New Zimbabwe's reporting distributed by AllAfrica; no independent account of the bail ruling was found.
+  - title: Mnangagwa’s daughter in law in court after police drugs raid
+    url: https://www.zimlive.com/mnangagwas-daughter-in-law-in-court-after-police-drugs-raid/
+    publisher: ZimLive
+    date: 2026-08-06
 ---
 
 Kelsea Tadiwa Tafirenyika, 22, the second wife of Collins Mnangagwa, a son of
 President Emmerson Mnangagwa, was remanded in custody after appearing before a
 Harare magistrate on Wednesday 5 August 2026 on a charge of dealing in dangerous
-drugs. [@2] The two are charged with unlawful possession of pethidine for the purpose of dealing and unlawful possession of unregistered medicines. [@3] Her co-accused is her uncle, Isaac Arab Jessub. [@3] Detectives from the CID Drugs and Narcotics unit raided her
+drugs. [@2,4] The two are charged with unlawful possession of pethidine for the purpose of dealing and unlawful possession of unregistered medicines. [@3] Her co-accused is her uncle, Isaac Arab Jessub. [@3] Detectives from the CID Drugs and Narcotics unit raided her
 Greystone Park home in Harare the previous night, acting on information that she
-was selling pethidine there. [@1,3] Court papers say officers found her in her
+was selling pethidine there. [@1,3,4] Court papers say officers found her in her
 bedroom counting ampoules and then recovered more drugs from drawers in the
 room. [@1]
 
 Police found five rolls of dagga in Tafirenyika's vehicle during the raid, among
-pethidine and morphine that the State valued at US$204. [@1,3] The State says
+pethidine and morphine that the State valued at US$204. [@1,3,4] The five rolls of dagga were concealed in the driver's armrest of her white Lamborghini, according to the court papers. [@4] The State says
 officers seized 154 ampoules of pethidine, 50 ampoules of morphine sulphate and
 five rolls of dagga. [@1] Tafirenyika denies the allegations. [@3] Prosecutors opposed her release, and the magistrate
-remanded her in custody to Thursday for a bail hearing. [@1]
+remanded her in custody to Thursday for a bail hearing. [@1,4]
 
 Investigating officer Detective Sergeant Neverd Charuma told the court that
 police had not yet arrested the trafficker who supplied her, so bail would
-jeopardise the investigation. [@1] Police also argued that she was a flight risk
+jeopardise the investigation. [@1,4] Police also argued that she was a flight risk
 because some of the pethidine found on her, Verpat brand, was made for sale in
-foreign markets. [@1] The State argued that the seriousness of the offence and
+foreign markets. [@1,4] The State argued that the seriousness of the offence and
 the likelihood of a lengthy custodial sentence raised the risk that she would
-abscond. [@1] Each was ordered to pay US$1,000 bail and to surrender their passports, report to police fortnightly and remain at their stated addresses; Tafirenyika reports to Borrowdale Police Station and Jessub to Hatfield. [@3] The High Court allowed the appeal by consent on Thursday 20 August 2026, and Justice Pisirayi Kwenda set aside the magistrate's 13 August decision refusing them bail. [@3]
+abscond. [@1,4] Each was ordered to pay US$1,000 bail and to surrender their passports, report to police fortnightly and remain at their stated addresses; Tafirenyika reports to Borrowdale Police Station and Jessub to Hatfield. [@3] The High Court allowed the appeal by consent on Thursday 20 August 2026, and Justice Pisirayi Kwenda set aside the magistrate's 13 August decision refusing them bail. [@3]
