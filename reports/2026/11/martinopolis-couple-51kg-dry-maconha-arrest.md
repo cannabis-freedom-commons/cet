@@ -62,6 +62,11 @@ media:
     media_url: https://www.imparcial.com.br//assets/images/galeria/1795001166.jpeg
     publisher: Blog do Toninho
     caption: Cardboard box covered with clothing and holding 50 packages of dry marijuana, found on the car's front passenger floor, in the photo published with the O Imparcial account of the Martinópolis seizure.
+  - kind: photo
+    url: https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/18/casal-e-preso-com-5-kg-de-derivado-potente-de-maconha-em-rodovia-em-martinopolis.ghtml
+    media_url: https://s2-g1.glbimg.com/W8YmsTUbn6FDQBFSb-P-25C3Pz0=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/S/Tc1WPmTMSWS1rJUgjMpg/pp-droga.jpeg
+    publisher: G1
+    caption: 'Packages of dry marijuana seized from the couple''s car on the Rodovia Assis Chateaubriand in Martinópolis. Photo: Polícia Rodoviária/Reprodução'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 15ad29b7385ae895a7e0a8e2d7b080ab
@@ -77,25 +82,26 @@ sources:
     publisher: Blog do Toninho
     date: 2026-11-18
     language: pt
-open_questions:
-    - No formal charge, custody decision or court outcome was reported; both occupants remained at the disposal of the courts.
-    - The material was described by police only as maconha do tipo dry, with no laboratory confirmation reported.
-    - The account rests on local outlets relaying the same highway police occurrence, with no police statement published directly.
+  - title: Casal é preso com 5 kg de derivado potente de maconha em rodovia em Martinópolis
+    url: https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/18/casal-e-preso-com-5-kg-de-derivado-potente-de-maconha-em-rodovia-em-martinopolis.ghtml
+    publisher: G1
+    date: 2026-11-18
+    language: pt
 ---
 
 Highway police arrested a 29-year-old man and a 20-year-old woman on suspicion
 of drug trafficking in Martinópolis, São Paulo, on the afternoon of Tuesday 17
-November 2026. [@1,2] The occurrence was recorded at about 15:30 during Operação
+November 2026. [@1,2,3] The occurrence was recorded at about 15:30 during Operação
 Impacto, a highway police operation. [@1] A TOR (Tático Ostensivo Rodoviário)
 team stopped their Fiat Mobi, which carried number plates from Goiânia, Goiás.
-[@1,2] The stop was made at km 400 of the SP-425 in Martinópolis. [@2]
+[@1,2] The stop was made at km 400 of the SP-425 in Martinópolis. [@2,3]
 
 During the inspection officers found a cardboard box covered with clothes on the
-front floor on the passenger side of the car. [@1,2] Inside were two packages
+front floor on the passenger side of the car. [@1,2,3] Inside were two packages
 containing 50 wrappers of maconha do tipo dry, a dried form of marijuana,
-weighing 5.1 kg in total. [@1,2] Police estimated the seizure had cost drug
+weighing 5.1 kg in total. [@1,2,3] Police estimated the seizure had cost drug
 trafficking 357,000 reais. [@1,2]
 
 The case was presented at the Civil Police station in Martinópolis, where the
 drug and the car were seized. [@1,2] Neither of the two occupants had a criminal
-record. [@1,2] They were arrested and remained at the disposal of the courts. [@1,2]
+record. [@1,2,3] They were arrested and remained at the disposal of the courts. [@1,2,3]
