@@ -58,6 +58,11 @@ sources:
     publisher: Cadena SER
     date: 2026-11-17
     language: es
+  - title: Nueve detenidos e incautados 32,5 kilos de speed en una operación antidroga en La Rioja
+    url: https://www.teleprensa.com/nacional-3/nueve-detenidos-incautados-325-kilos-speed-operacion-antidroga-rioja/202611171002312559615.html
+    publisher: Teleprensa
+    date: 2026-11-17
+    language: es
 open_questions:
   - Whether the three prison entries were pre-trial detention or sentences was not reported.
   - No separate date was given for the searches; 17 November 2026 is the presentation and publication date and stands in for the incident date.
@@ -106,17 +111,17 @@ media:
 ---
 
 National Police officers in La Rioja detained nine people in Operation Goliat on
-suspicion of drug trafficking. [@2,3] One of those detained was also accused of alleged illegal possession of weapons over a 9 mm firearm and two boxes of ammunition. [@3] Three of those detained have entered prison.
-[@1,3]
+suspicion of drug trafficking. [@2,3,4] Those detained were aged between 40 and 55. [@4] One of those detained was also accused of alleged illegal possession of weapons over a 9 mm firearm and two boxes of ammunition. [@3,4] The 9 mm firearm had been reported stolen from a local police officer, police said. [@4] Three of those detained have entered prison.
+[@1,3,4]
 
-Officers dismantled two drug-cutting laboratories in Logroño and Islallana. [@1]
+Officers dismantled two drug-cutting laboratories in Logroño and Islallana. [@1,4]
 The operation involved six court-authorised searches in Logroño, Villamediana de
-Iregua, Islallana, Alberite and Murillo de Río Leza. [@2,3] In the searches
+Iregua, Islallana, Alberite and Murillo de Río Leza. [@2,3,4] In the searches
 officers seized 1,323.3 grams of marijuana and 297.5 grams of hashish, alongside
-32,500 grams of speed and 287.90 grams of cocaine. [@2,3]
+32,500 grams of speed and 287.90 grams of cocaine. [@2,3,4] Police said the seized drugs could have reached a market value of about one million euros. [@4]
 
 Officers also seized more than 25,000 euros in cash, a firearm, 88 cartridges,
 six precision scales, a marijuana peeling machine and a vacuum-packing machine.
-[@2,3] The investigation began in July after Logroño local police passed
+[@2,3,4] The investigation began in July after Logroño local police passed
 information about a person allegedly making and selling synthetic drugs in the
-city. [@2,3]
+city. [@2,3,4]
