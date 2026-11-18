@@ -1,0 +1,93 @@
+---
+code: 3QPGRZ
+added_at: "2026-11-18T16:01:25.171189Z"
+date: 2026-11-18
+country: ch
+place: Rhäzüns, Graubünden
+coordinates: [46.8, 9.4]
+precision: locality
+type: seizure
+also: [raid]
+title: Police seize 800 cannabis plants from flat and cellar in Rhäzüns
+summary: >-
+  Graubünden cantonal police and the cantonal prosecutor's office found an indoor cannabis plantation in a flat and in the cellar in Rhäzüns in mid-November 2026. About 800 cannabis plants were seized for destruction, and the alleged operator, a 32-year-old German, faces proceedings under the Narcotics Act.
+figures:
+  plants_destroyed: 800
+  plants_seized: 800
+details:
+  agencies: [Kantonspolizei Graubünden, Staatsanwaltschaft Graubünden]
+  agency_types: [police, prosecutor]
+  products:
+    - {product: plants, plants: 800}
+  activity: [cultivation]
+  setting: [home]
+  environment: [indoor]
+  charges: [violations of the Narcotics Act]
+  case_stage: investigation
+  date_precision: publication
+  region: Graubünden
+data_sources:
+  details.activity: [4]
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.case_stage: [2]
+  details.charges: [1]
+  details.environment: [3]
+  details.products: [3]
+  details.setting: [3]
+  figures.plants_destroyed: [3]
+  figures.plants_seized: [3]
+media:
+  - kind: photo
+    url: https://polizei.news/2026/11/18/deutscher-betreibt-hanfplantage-in-wohnung-und-keller-rund-800-pflanzen-sichergestellt/
+    media_url: https://polizei.news/wp-content/uploads/2026/11/2026-11-18-Rhaezuens-Indoor-Hanfplantage__w_1600__h_0.jpg
+    publisher: Polizei.news
+    caption: 'The indoor cannabis plantation in Rhäzüns, in the handout photo published with the Graubünden cantonal police statement. Photo: Kantonspolizei Graubünden'
+status: verified
+created_by_model: swancloud/deepseek-v4.1-flash#max
+submission: ca9e26d00e88dbffd5719fc362470417
+tags: [rhaezuens, graubuenden, indoor-grow, kantonspolizei]
+sources:
+  - title: Police Seize 800 Cannabis Plants in Rhäzüns
+    url: https://www.bluewin.ch/en/news/police-seize-800-cannabis-plants-in-rhazuns-li.3678248
+    publisher: blue News
+    date: 2026-11-18
+  - title: Polizei stellt 800 Hanfpflanzen in Rhäzüns sicher
+    url: https://www.swissinfo.ch/ger/polizei-stellt-800-hanfpflanzen-in-rh%C3%A4z%C3%BCns-sicher/92401640
+    publisher: SWI swissinfo.ch
+    date: 2026-11-18
+    language: de
+  - title: Deutscher betreibt Hanfplantage in Wohnung und Keller – rund 800 Pflanzen sichergestellt
+    url: https://polizei.news/2026/11/18/deutscher-betreibt-hanfplantage-in-wohnung-und-keller-rund-800-pflanzen-sichergestellt/
+    publisher: Polizei.news
+    date: 2026-11-18
+    language: de
+  - title: Piantagione di cannabis a Rhäzüns, sequestrate circa 800 piante
+    url: https://www.ticinonews.ch/svizzera/piantagione-di-cannabis-a-rhazuns-sequestrate-circa-800-piante-446887
+    publisher: TicinoNews
+    date: 2026-11-18
+    language: it
+open_questions:
+  - The plantation was found in mid-November 2026, but no source gives the exact day; 18 November 2026, the date of the cantonal police statement, stands in as the incident date.
+  - No arrest or detention was reported, and the statement does not say whether the 32-year-old was detained, questioned or released.
+  - The plants are described only as cannabis; no laboratory confirmation, THC content or plant stage was reported.
+  - No weight, street value or number of cultivation rooms was published, and the count is given only as about 800 plants.
+  - No charge has been filed and no court date or plea was reported; the case was at the investigation stage.
+  - All four accounts reproduce the same Graubünden cantonal police statement, so no independent reporting of the search exists.
+  - Whether the flat and the cellar were in the same building is not stated.
+---
+
+Graubünden cantonal police and the cantonal prosecutor's office found the indoor
+plantation in Rhäzüns in mid-November 2026. [@1] The alleged operator is a
+32-year-old German who ran the grow in his own apartment and in the basement.
+[@3] The Graubünden cantonal police announced the find in a statement. [@4]
+
+Officers seized about 800 cannabis plants, which the authorities intend to
+destroy. [@3] The police said they had taken the cannabis away and now planned
+to destroy it. [@1]
+
+The German man faces charges for violations of the Narcotics Act. [@1] He must
+answer before the courts for offences against the narcotics law. [@2] The case
+came from joint investigations by the cantonal police and the cantonal
+prosecutor's office. [@4]
+
