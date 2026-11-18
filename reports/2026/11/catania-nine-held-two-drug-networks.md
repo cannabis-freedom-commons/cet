@@ -50,6 +50,11 @@ sources:
     publisher: HLN
     date: 2026-11-18
     language: nl
+  - title: 'Beruchte Siciliaanse drugsbende opgerold: criminelen zochten cocaïneroute via Nederland'
+    url: https://www.pzc.nl/buitenland/beruchte-siciliaanse-drugsbende-opgerold-criminelen-zochten-cocaineroute-via-nederland~a320a83d/
+    publisher: PZC.nl
+    date: 2026-11-18
+    language: nl
 open_questions:
     - No weight, dose count or price for the marijuana and hashish sold at Campo di Mare was published, so the report carries no cannabis quantity.
     - The operation targeted two groups investigated mainly for cocaine trafficking, and no charge or measure limited to cannabis was reported.
@@ -60,30 +65,31 @@ open_questions:
     - No plea or statement from the suspects or their lawyers was reported.
     - The accounts rest on the Catania police statement and its Italian rewrites, so they are not independent reporting.
     - The 30,000-euro-a-kilogram purchase price comes from the gangs' intercepted conversations, and the Gioia Tauro seizures it followed are given without a date or quantity.
+    - The Dutch account says another eight suspects were to be questioned in the coming days but does not say what they are accused of or whether they were formally charged.
 ---
 
 Police in Catania executed a precautionary custody order against nine people
 accused of belonging to two drug-trafficking groups, taking eight of them to
-prison and placing one under house arrest. [@2] Catania's district prosecutor's
+prison and placing one under house arrest. [@2] Another eight suspects were to be questioned in the coming days. [@4] Catania's district prosecutor's
 office ordered the operation and the measures were issued by the preliminary
 investigation judge at the city's court. [@2]
 
 Italian police say the two gangs they dismantled traded cocaine, crack,
-marijuana and hashish day and night in Sicily. [@1,3] Investigators say the second
+marijuana and hashish day and night in Sicily. [@1,3,4] Investigators say the second
 group ran a dealing square at Campo di Mare, in an apartment near via Musino and
 via Mendotto and in a caravan used as a depot. [@2] That dealing square sold
 cocaine, crack, marijuana and hashish without interruption, according to the
 investigation. [@2] Sales and home deliveries were handled by young people,
 including a minor who fetched the doses from hiding places and served customers.
 [@2] In wiretapped conversations the gangs compared deliveries from Calabria
-with smuggling routes through the Netherlands and Spain. [@1,3]
+with smuggling routes through the Netherlands and Spain. [@1,3,4]
 
 A police raid in May 2024 seized large quantities of drugs and material for
 packaging doses, but investigators say dealing resumed the next day after a new
 delivery arrived. [@2] Prosecutors also obtained the preventive seizure of a
 villa with a swimming pool in San Giovanni Galermo. [@2] The group's leader had
-bought the villa in 2021 for 100,000 euros. [@1,3] It was later renovated at a
+bought the villa in 2021 for 100,000 euros. [@1,3,4] It was later renovated at a
 cost of 1.5 million euros, which police suspect was paid entirely with drug
-proceeds. [@1,3]
+proceeds. [@1,3,4]
 
-In the intercepted conversations the gangs spoke of a purchase price of 30,000 euros a kilogram, and the price rose sharply after police seized large consignments of drugs at the port of Gioia Tauro. [@3] The drugs were sold in Siracusa, Caltanissetta and Canicattì. [@3] In the same conversations the gangs praised Albanian drug networks for the speed of their deliveries. [@3]
+In the intercepted conversations the gangs spoke of a purchase price of 30,000 euros a kilogram, and the price rose sharply after police seized large consignments of drugs at the port of Gioia Tauro. [@3,4] The drugs were sold in Siracusa, Caltanissetta and Canicattì. [@3,4] In the same conversations the gangs praised Albanian drug networks for the speed of their deliveries. [@3,4]
