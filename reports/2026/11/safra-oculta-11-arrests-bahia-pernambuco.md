@@ -74,6 +74,21 @@ media:
     media_url: https://ivanmaldonado.com.br/wp-content/uploads/2026/11/plantacao-de-maconha-2-1024x576.jpg.webp
     publisher: Ivan Maldonado Notícias
     caption: 'Illegal cannabis cultivation area with an irrigation system during Operation Safra Oculta. Photo: Polícia Federal'
+  - kind: photo
+    url: https://glomes.com.br/operacao-policial-mira-cultivo-de-maconha-na-bahia-e-pernambuco-e-resulta-em-13-prisoes/
+    media_url: https://glomes.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-17-at-09.59.37.jpeg
+    publisher: Grupo Lomes de Comunicação
+    caption: 'Police handout published with the report on Operation Safra Oculta in Bahia and Pernambuco. Photo: Divulgação/SSP-BA'
+  - kind: video
+    url: https://glomes.com.br/operacao-policial-mira-cultivo-de-maconha-na-bahia-e-pernambuco-e-resulta-em-13-prisoes/
+    media_url: https://glomes.com.br/wp-content/uploads/2026/11/WhatsApp-Video-2026-11-17-at-17.19.48.mp4?_=1
+    publisher: Grupo Lomes de Comunicação
+    caption: Video published with the report on Operation Safra Oculta in Bahia and Pernambuco.
+  - kind: video
+    url: https://glomes.com.br/operacao-policial-mira-cultivo-de-maconha-na-bahia-e-pernambuco-e-resulta-em-13-prisoes/
+    media_url: https://glomes.com.br/wp-content/uploads/2026/11/WhatsApp-Video-2026-11-17-at-17.19.49.mp4?_=2
+    publisher: Grupo Lomes de Comunicação
+    caption: Video published with the report on Operation Safra Oculta in Bahia and Pernambuco.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 05f0a9c6fde348293b111e3917448077
@@ -174,29 +189,34 @@ sources:
     publisher: Boca News
     date: 2026-11-17
     language: pt
+  - title: Operação policial mira cultivo de maconha na Bahia e Pernambuco e resulta em 13 prisões
+    url: https://glomes.com.br/operacao-policial-mira-cultivo-de-maconha-na-bahia-e-pernambuco-e-resulta-em-13-prisoes/
+    publisher: Grupo Lomes de Comunicação
+    date: 2026-11-17
+    language: pt
 ---
 
 Eleven people suspected of belonging to a criminal organisation involved in
 illegal cannabis cultivation in northeastern Brazil were arrested on the morning
 of 17 November 2026 during Operation Safra Oculta, launched by federal and state
-security forces in Bahia and Pernambuco. [@1,6,7,8,9,10,14,15,18,19] The final tally from Operation Safra Oculta reached 13 arrests, with the last two arrests made in Garanhuns, Pernambuco. [@11,13,16,17] Investigators suspect the targets
+security forces in Bahia and Pernambuco. [@1,6,7,8,9,10,14,15,18,19] The final tally from Operation Safra Oculta reached 13 arrests, with the last two arrests made in Garanhuns, Pernambuco. [@11,13,16,17,20] Investigators suspect the targets
 of financing and producing the drug and of hiding assets and money through
 individuals and companies. [@1,6,8,9,13,16,18,19] The concealment allegedly used legal entities, including fuel-sector establishments. [@7,10]
 
 Sixteen temporary arrest warrants and 25 search and seizure warrants were issued
 for the operation. [@3,5,7,10,12,15] Arrest and search warrants were served in Salvador,
 Abaré and Senhor do Bonfim in Bahia, and in Petrolina, Belém do São Francisco,
-Carnaubeira da Penha, Ibimirim and Recife in Pernambuco. [@1,4,6,7,12,13,15,16,17] Officers seized a
-rifle, a pistol, magazines, ammunition, mobile phones and documents. [@1,4,6,8,9,11,13,14,16,17,18,19]
-Searches also turned up mobile phones, cash and vehicles. [@3,15] Officers also seized 50,000 reais in cash. [@11,13,16] Police also
+Carnaubeira da Penha, Ibimirim and Recife in Pernambuco. [@1,4,6,7,12,13,15,16,17,20] Officers seized a
+rifle, a pistol, magazines, ammunition, mobile phones and documents. [@1,4,6,8,9,11,13,14,16,17,18,19,20]
+Searches also turned up mobile phones, cash and vehicles. [@3,15] Officers also seized 50,000 reais in cash. [@11,13,16,20] Police also
 worked to eradicate a large cannabis plantation in Belém de São Francisco,
-Pernambuco, linked to one of the suspects. [@3,4,5,6,7,9,10,11,12,13,14,15,16] As part of the operation, CIPE/Caatinga and BOPE/PMBA eradicated a Cannabis sativa plantation of about 5,200 plants in the municipality of Ibó, Pernambuco. [@5,12] One target, a woman living in
+Pernambuco, linked to one of the suspects. [@3,4,5,6,7,9,10,11,12,13,14,15,16,20] As part of the operation, CIPE/Caatinga and BOPE/PMBA eradicated a Cannabis sativa plantation of about 5,200 plants in the municipality of Ibó, Pernambuco. [@5,12] One target, a woman living in
 Senhor do Bonfim in northern Bahia, was investigated for moving more than 1
 million reais through bank accounts linked to the scheme. [@1,4,8,18,19] At one address
 officers seized mobile phones and documents that will undergo forensic
 examination, and took a man to the Federal Police station in Juazeiro, northern
 Bahia. [@1] Investigations identified more than 116 million reais in financial
-transactions attributed to the group. [@1,4,5,6,7,8,10,11,12,13,15,16,18,19] A court ordered the freezing and
+transactions attributed to the group. [@1,4,5,6,7,8,10,11,12,13,15,16,18,19,20] A court ordered the freezing and
 seizure of assets and funds up to a limit of 300 million reais. [@2,4,6,8,9,14]
 
 The operation was coordinated by the Federal Police through its Base Carcará in
@@ -205,7 +225,7 @@ integrated anti-organised-crime forces (FICCOs) of Bahia and Pernambuco and
 military police units from both states. [@2,19] The operation was supported by CIPE-Caatinga/BA, the 6th Battalion of the Bahia Military Police, the FICCOs of Bahia and Pernambuco, BAPTN/FICCO/PE, BEPI/PE and the 92nd Independent Company of the Military Police. [@10] The Federal Police said the
 suspects could be charged, according to each person's role, with drug
 trafficking, association for trafficking, financing of drug trafficking, money
-laundering and criminal organisation. [@1,7,10,13,15,16] Considering the maximum penalties for
+laundering and criminal organisation. [@1,7,10,13,15,16,20] Considering the maximum penalties for
 the offences investigated, a conviction could carry sentences of up to 63 years
-in prison. [@1,11,13,16] The security forces said investigations continue to identify
+in prison. [@1,11,13,16,20] The security forces said investigations continue to identify
 others involved and to trace the group's financial resources. [@1]
