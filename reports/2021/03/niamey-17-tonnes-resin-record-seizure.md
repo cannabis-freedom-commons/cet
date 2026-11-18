@@ -92,6 +92,11 @@ sources:
     publisher: Afreepress
     date: 2021-03-23
     language: fr
+  - title: 'Niger: saisie inédite de 17 tonnes de résine de cannabis en provenance du Liban | Le360 Afrique'
+    url: https://afrique.le360.ma/autres-pays/politique/2021/03/06/33754-niger-saisie-inedite-de-17-tonnes-de-resine-de-cannabis-en-provenance-du-liban-33754/
+    publisher: Le360 Afrique
+    date: 2021-03-06
+    language: fr
 open_questions:
   - The thirteen suspects arrested in Niger were not named, accounts differ on how precisely they locate the arrests, and no court outcomes were reported.
   - A later analysis reported claims that some resin returned to traffickers, while the anti-drug office said the haul was incinerated on 24 April 2021.
@@ -100,6 +105,7 @@ open_questions:
   - The accounts from lematin.ch, 20 minutes and VOA Afrique on 6 March carry the same AFP dispatch.
   - Accounts attribute the statement that this was the first known drug shipment from Lebanon to either Interior Minister Alkache Alhada or anti-drug agency spokesman Adili Toro.
   - Seven arrests in Togo were reported without names, charges or court outcomes.
+  - Different published conversions give the 20 billion CFA franc valuation as more than 30.4 million euros and as more than 34 million euros.
 media:
   - kind: photo
     url: https://www.lsi-africa.com/fr/actualite-africaine/niger-saisie-cannabis-.html
@@ -118,9 +124,9 @@ A later analysis reported claims from its contacts that part of the shipment was
 
 The drugs left Beirut in a container carried by an Indian company to the port of Lomé, where they were loaded onto a Beninese-registered truck bound for Niamey. [@4,6,8] The drugs were packed in fruit cartons and were to be repackaged in a purpose-built and equipped warehouse in Niamey’s Plateau quarter. [@4]
 
-The resin was brought to Niamey concealed in a Beninese-registered tanker presented as carrying hydrocarbons. [@7,9] The resin was packed in watertight packaging, with each of thousands of small packets bearing a specific recipient's name. [@7,9]
+The resin was brought to Niamey concealed in a Beninese-registered tanker presented as carrying hydrocarbons. [@7,9,11] The resin was packed in watertight packaging, with each of thousands of small packets bearing a specific recipient's name. [@7,9,11]
 
-Interior Minister Alkache Alhada told a press presentation that nearly 20 billion CFA francs of resin had been seized in a Niamey warehouse. [@8] The drugs are valued at 20 billion CFA francs, which the article put at more than 34 million euros. [@8,9] The material was seized on 2 March in a district on the outskirts of Niamey. [@8,9]
+Interior Minister Alkache Alhada told a press presentation that nearly 20 billion CFA francs of resin had been seized in a Niamey warehouse. [@8,11] The drugs are valued at 20 billion CFA francs, which the article put at more than 34 million euros. [@8,9] The material was seized on 2 March in a district on the outskirts of Niamey. [@8,9,11]
 
 The shipment travelled from Lebanon to the Togolese port of Lomé through an Indian company. [@9]
 
