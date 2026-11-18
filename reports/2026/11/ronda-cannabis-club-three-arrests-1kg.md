@@ -63,40 +63,44 @@ sources:
     publisher: Radio Ronda
     date: 2026-11-18
     language: es
+  - title: 'Cae un ''coffee shop'' en Ronda que traficaba droga: hay tres detenidos de 25 a 29 años'
+    url: https://www.malagahoy.es/malaga/desmantelan-coffee-shop-ronda-traficaba-malaga_0_2008532004.html
+    publisher: Málaga Hoy
+    date: 2026-11-18
+    language: es
 open_questions:
-  - No separate date was published for the search or the arrests; 18 November 2026 is the publication date of both accounts and stands in for the incident date.
-  - The hashish and marijuana are described as such by the National Police; no laboratory confirmation was reported.
-  - No plea, court appearance or detention decision was reported, and the case was at the investigation stage.
-  - Police also seized doses from clients outside the premises, but no total for those doses was published and only the search seizure is counted here.
-  - Both accounts reproduce the same National Police statement, so the figures and the account of how the club operated are not independently corroborated.
-  - The roles of the three detainees are described only as those who managed the club, with no further identification.
-  - No estimate of the value of the drugs was published.
-  - The number of clients, and how many of them were minors, was not quantified.
+    - No separate date was published for the search or the arrests; 18 November 2026 is the publication date of the accounts and stands in for the incident date.
+    - The hashish and marijuana are described as such by the National Police; no laboratory confirmation was reported.
+    - No plea, court appearance or detention decision was reported, and the case was at the investigation stage.
+    - Police also seized doses from clients outside the premises, but no total for those doses was published and only the search seizure is counted here.
+    - The accounts reproduce the same National Police statement, so the figures and the account of how the club operated are not independently corroborated.
+    - The roles of the three detainees are described only as those who managed the club, with no further identification.
+    - No estimate of the value of the drugs was published.
+    - The number of clients, and how many of them were minors, was not quantified.
 ---
 
 Spain's National Police arrested three people aged 25, 28 and 29 in Ronda, in
 Málaga province, on suspicion of drug trafficking after dismantling an
-association that allegedly used its premises to sell drugs. [@1] The premises
+association that allegedly used its premises to sell drugs. [@1,3] The premises
 apparently ran as a cannabis consumption club and was allegedly used to conceal
-a profit-making drug distribution business. [@1] Police said the activity
-reached a wide clientele that allegedly included minors. [@1] The investigation
+a profit-making drug distribution business. [@1,3] Police said the activity
+reached a wide clientele that allegedly included minors. [@1,3] The investigation
 was run by officers of the Local Operational Group at the National Police
 station in Ronda, with the Citizen Attention Group and Forensic Police, and the
-Ronda Local Police also took part. [@1]
+Ronda Local Police also took part. [@1,3]
 
 Officers watched the premises, which had surveillance cameras and a double entry
 door, and saw some clients stay only a few minutes and leave with doses of drugs
-while others stayed longer to consume inside. [@1] Police identified several
+while others stayed longer to consume inside. [@1,3] The premises stood at street level in the centre of the city. [@3] Police identified several
 clients as they left and seized doses of hashish and marijuana from them,
-drawing up drug seizure reports. [@1] With judicial authorisation, officers
+drawing up drug seizure reports. [@1,3] With judicial authorisation, officers
 entered and searched the premises and seized 470 grams of hashish and 740 grams
-of marijuana in various containers and formats. [@1] They also seized 130 euros
+of marijuana in various containers and formats. [@1,3] They also seized 130 euros
 in cash and equipment allegedly used to prepare and distribute the drugs,
-including a scale, cutting knives and pieces of plastic. [@1]
+including a scale, cutting knives and pieces of plastic. [@1,3]
 
 One of those in charge was arrested during the search and police later arrested
-two more people allegedly linked to the activity, all aged 25, 28 and 29. [@2]
+two more people allegedly linked to the activity, all aged 25, 28 and 29. [@2,3]
 The operation shut the sales point and the premises was closed preventively.
-[@1] According to the National Police, the activity at the premises had caused
-numerous complaints among residents of Ronda's town centre. [@1]
-
+[@1,3] According to the National Police, the activity at the premises had caused
+numerous complaints among residents of Ronda's town centre. [@1,3]
