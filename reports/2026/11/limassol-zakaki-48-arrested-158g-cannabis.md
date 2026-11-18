@@ -78,6 +78,11 @@ sources:
     publisher: Πολίτης
     date: 2026-11-18
     language: el
+  - title: Πάνω από 1,4 κιλά ναρκωτικών στη Λεμεσό – Συνελήφθη 48χρονος (Φωτογραφίες)
+    url: https://simerini.sigmalive.com/article/2026/11/18/pano-apo-14-kila-narkotikon-ste-lemeso-sunelephthe-48khronos-photographies/
+    publisher: Σημερινή
+    date: 2026-11-18
+    language: el
 open_questions:
   - The Cyprus Police statement gave the suspect's age as 28, while the newspapers reported 48; this report uses 48.
   - The 1.42-kilogram figure is a combined total for six drugs and cannot be split into cannabis and other substances beyond the 158 grams of cannabis reported.
@@ -88,27 +93,26 @@ open_questions:
 ---
 
 Police in Limassol arrested a 48-year-old man after finding six different drugs
-in his car, on his person and at his flat. [@1] The operation ran on Tuesday 17
+in his car, on his person and at his flat. [@1,5] The operation ran on Tuesday 17
 November 2026 and was carried out by the drug squad (YKAN), the serious crime
 directorate (DAOE) and the customs investigation service (YPEE), which
 Greek-language reports nickname the "Cyprus FBI". [@4] Officers stopped his car
-for inspection in the Zakaki area of Limassol at about 3.40pm. [@1] A backpack
+for inspection in the Zakaki area of Limassol at about 3.40pm. [@1,5] A backpack
 in the car held about 101 grams of cannabis, and another 27 grams was hidden
-behind the dashboard glove compartment. [@1] A search of his person found
+behind the dashboard glove compartment. [@1,5] A search of his person found
 cocaine, ketamine, ecstasy, MDMA and mephedrone, plus €80 and a mobile phone.
 [@2]
 
 Officers then searched the flat where he lived in Limassol and found further
 drugs. [@1] The flat held about 839 grams of ketamine, 150 grams of mephedrone,
 95 grams of MDMA, 60 grams of ecstasy tablets, 30 grams of cannabis and 10 grams
-of cocaine. [@4] Police also found two precision scales and a large number of
-zip-lock bags there, and seized €900. [@4] The searches produced 158 grams of
+of cocaine. [@4,5] Police also found two precision scales and a large number of
+zip-lock bags there, and seized €900. [@4,5] The searches produced 158 grams of
 cannabis in all. [@4] The whole haul came to about 1.42 kilograms of six drugs
 and €980 in cash. [@1]
 
 The 48-year-old was first arrested for a flagrant offence and later re-arrested
-under a court warrant. [@1] He is being investigated for conspiracy to commit a
+under a court warrant. [@1,5] He is being investigated for conspiracy to commit a
 felony, illegal possession of drugs, possession with intent to supply, use of
-Class A and Class B controlled substances, and money laundering. [@4] The
-Limassol branch of DAOE-YKAN is continuing the investigation. [@3]
-
+Class A and Class B controlled substances, and money laundering. [@4,5] The
+Limassol branch of DAOE-YKAN is continuing the investigation. [@3,5]
