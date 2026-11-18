@@ -125,11 +125,21 @@ sources:
     publisher: ПІК
     date: 2026-11-17
     language: uk
+  - title: 'Іноземець організував нарколабораторію на Прикарпатті: вилучили канабісу на понад 750 тисяч гривень (ФОТО)'
+    url: https://firtka.if.ua/view/inozemets-organizuvav-narkolaboratoriiu-na-prikarpatti-viluchili-kanabisu-na-ponad-750-tisiach-griven-foto
+    publisher: Агенція новин Фіртка
+    date: 2026-11-17
+    language: uk
+  - title: 'На Прикарпатті поліція викрила нарколабораторію, організовану іноземцем: вилучено канабісу на понад 750 тис. грн'
+    url: https://npu.gov.ua/news/na-prykarpatti-politsiia-vykryla-narkolaboratoriiu-orhanizovanu-inozemtsem-vylucheno-kanabisu-na-ponad-750-tys-hrn
+    publisher: Національна поліція України
+    date: 2026-11-17
+    language: uk
 ---
 
 Police in Ivano-Frankivsk region detained a 47-year-old foreigner and a local
 resident who, investigators say, set up a cannabis-growing laboratory and sold
-cannabis in the region. [@1,4,5,6,7,8,9] The older suspect is a 47-year-old Czech citizen who had lived temporarily in a suburban village near Ivano-Frankivsk, and his accomplice is a 24-year-old local man. [@5] The foreigner arrived in Ukraine at the end of 2024
+cannabis in the region. [@1,4,5,6,7,8,9,10] The older suspect is a 47-year-old Czech citizen who had lived temporarily in a suburban village near Ivano-Frankivsk, and his accomplice is a 24-year-old local man. [@5] The foreigner arrived in Ukraine at the end of 2024
 and settled in the region, coordinating the operation and controlling the money,
 while his accomplice bought seeds and equipment and tended the crops. [@1,4,6,7,9]
 
@@ -141,9 +151,9 @@ stash drops or during meetings with buyers. [@1,4,6,7,9] The men dried and proce
 
 On 13 November officers of the strategic investigations department, police
 investigators, SBU officers and KORD special forces searched six homes and
-vehicles of the suspects. [@1,6,7,8,9] They seized more than 1.5 kg of cannabis, growing
+vehicles of the suspects. [@1,6,7,8,9,11] They seized more than 1.5 kg of cannabis, growing
 equipment, 144,000 hryvnias and 3,400 dollars in cash, phones, computers, draft
-notes and a car. [@1,4,5,6,7,8,9] The operation also involved KORD special forces, a
+notes and a car. [@1,4,5,6,7,8,9,11] The operation also involved KORD special forces, a
 special-purpose police company and the regional police's rapid response group.
 [@2]
 
@@ -151,5 +161,5 @@ Both suspects were notified of suspicion of illegal manufacture and sale of
 drugs, sowing cannabis and maintaining a drug laboratory (Part 2 of Articles
 307, 310 and 317 of the Criminal Code) and face up to 10 years in prison. [@1,4,5,6,7]
 The court ordered both held in custody with the option of bail of 266,240
-hryvnias each. [@1,4,6,7,8,9] Investigators are working to establish other people who may
+hryvnias each. [@1,4,6,7,8,9,10] Investigators are working to establish other people who may
 have been involved in the operation. [@3,4,5,6,7,9]
