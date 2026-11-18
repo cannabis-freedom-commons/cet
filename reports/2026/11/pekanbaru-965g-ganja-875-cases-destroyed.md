@@ -33,6 +33,11 @@ media:
     media_url: https://www.riauonline.co.id/foto/bank/images2/Kejari-pekanbaru-musnahkan-narkoba.jpg
     publisher: RiauOnline
     caption: 'Drug evidence being destroyed at the Pekanbaru prosecutor''s office on 18 November 2026. Photo: Rahmadi Dwi Putra/Riau Online'
+  - kind: photo
+    url: https://rri.co.id/pekanbaru/hukum/hukum/2905367/kejari-pekanbaru-barang-bukti-dari-875-perkara
+    media_url: https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/pekanbaru/thumbs/full_file_6afd2b2457e898.15790217.webp
+    publisher: RRI Pekanbaru
+    caption: 'Evidence from the 875 cases set out for destruction in the yard of the Pekanbaru prosecutor''s office on 18 November 2026. Photo: Santi Yunas/RRI Pekanbaru'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: d57e0cbfb37721c0e70d8b7dc937ae36
@@ -58,35 +63,40 @@ sources:
     publisher: Singgalang Riau
     date: 2026-11-18
     language: id
+  - title: Kejari Pekanbaru Barang Bukti dari 875 Perkara
+    url: https://rri.co.id/pekanbaru/hukum/hukum/2905367/kejari-pekanbaru-barang-bukti-dari-875-perkara
+    publisher: RRI.co.id
+    date: 2026-11-18
+    language: id
 open_questions:
     - No breakdown is given of how many of the 748 narcotics cases involved ganja, and no defendants, verdicts or sentences for the underlying cases were reported.
     - No original seizure dates or places for the ganja evidence are given; 18 November 2026 is the destruction date.
     - The 965 grams is stated as ganja, with no net weight or laboratory confirmation reported.
     - The sabu-sabu, ecstasy, heroin and liquid cartridges destroyed in the same exercise are non-cannabis evidence excluded from the cannabis figure.
     - The RiauOnline photo caption calls the destruction Tuesday (Selasa) while the article datelines and bodies call 18 November 2026 Wednesday (Rabu); the body's Wednesday is used.
-    - A separate destruction of 11 cases on 10 November 2026 at a PT Multi Persada Servis site in Siak is a different event left out here.
-    - Both the RiauOnline and Metro Riau accounts reproduce the same Pekanbaru prosecutor's statement, so the second outlet corroborates the event but is not an independent investigation.
+    - A separate destruction of evidence from 11 cases at a PT Multi Persada Servis site in Siak, involving computers, cigarettes, fertiliser and sewing machines, is a different event left out here; accounts date it 10 November and 17 November 2026.
+    - The RiauOnline, Metro Riau and RRI accounts all reproduce the same Pekanbaru prosecutor's statement, so the outlets corroborate the event but are not independent investigations.
 ---
 
 The Pekanbaru prosecutor's office destroyed evidence from 875 criminal cases on
-18 November 2026. [@1,2,3,4] The cases whose evidence was destroyed were uncovered during January to June 2026. [@3] Of these, 748 were narcotics cases whose evidence
-included sabu-sabu, ganja, ecstasy and heroin. [@1,2,4] Besides the narcotics cases,
-the destruction covered 91 cases against persons and property (Oharda). [@1,2]
+18 November 2026. [@1,2,3,4,5] The cases whose evidence was destroyed were uncovered during January to June 2026. [@3] Of these, 748 were narcotics cases whose evidence
+included sabu-sabu, ganja, ecstasy and heroin. [@1,2,4,5] Besides the narcotics cases,
+the destruction covered 91 cases against persons and property (Oharda). [@1,2,5] A further 36 cases fell under the state security and public order (Kamnegtibum) and general criminal (TPUL) category, including gambling, sexual offence, electronic information, consumer-protection and forgery cases. [@5]
 
 The destruction took place in the yard of the prosecutor's office on Jalan
-Jenderal Sudirman No. 295. [@1,2,3,4] The destroyed narcotics evidence comprised
+Jenderal Sudirman No. 295. [@1,2,3,4,5] The destroyed narcotics evidence comprised
 3,812.81 grams of sabu-sabu, 965 grams of ganja, 1,692 ecstasy pills weighing
-47.74 grams, 16.9 grams of heroin and 11 liquid cartridges. [@1,2,3,4] Officers also
+47.74 grams, 16.9 grams of heroin and 11 liquid cartridges. [@1,2,3,4,5] Officers also
 destroyed drug-related equipment, including bongs, digital scales and plastic
 wrapping. [@1,2,4]
 
 The destroyed evidence came from cases that had final legal force. [@1,2,3,4] The
 narcotics evidence was the remainder left after material had been set aside for
-court proof and forensic laboratory testing. [@1] Chief prosecutor Marlambson
+court proof and forensic laboratory testing. [@1,5] Chief prosecutor Marlambson
 Carel Williams said through evidence-management head Adhit Thya Febricar that
 the destruction was part of the prosecutor's duty to manage and clear case
 evidence. [@1,2] Most of the principal drug evidence had already been destroyed by
-investigators at the investigation stage. [@1] Officers used methods including
+investigators at the investigation stage. [@1,5] Officers used methods including
 dissolving evidence in chemical cleaner, burning, cutting with a grinding wheel
-and crushing. [@1,2,4] The destruction was carried out under the Attorney General's
-Regulation No. 9 of 2011 on evidence destruction. [@1,2]
+and crushing. [@1,2,4,5] The destruction was carried out under the Attorney General's
+Regulation No. 9 of 2011 on evidence destruction. [@1,2,5]
