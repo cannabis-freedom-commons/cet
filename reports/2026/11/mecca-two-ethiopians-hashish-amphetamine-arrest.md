@@ -43,35 +43,39 @@ sources:
     publisher: صحيفة صدى الإلكترونية
     date: 2026-11-18
     language: ar
+  - title: إطاحة بمروجين للحشيش والإميثامفيتامين في مكة المكرمة
+    url: https://alsaudi.news/local/1811/124740/
+    publisher: السعودية الإخبارية
+    date: 2026-11-18
+    language: ar
 open_questions:
-  - No date is given for the arrest; 18 November 2026 is the publication date of both accounts and is used as the incident date.
-  - No weight, quantity or value was published for the hashish, the stimulant or the regulated tablets, so no cannabis quantity is recorded.
-  - Ajel names the stimulant as methamphetamine while Sada names amphetamine; the hashish accusation and the two arrests are common to both accounts.
-  - The accounts place the arrests only in the Mecca region and do not say where in it the men were stopped or how the drugs were being promoted.
-  - No charges, court date or outcome were reported beyond referral to the competent authority.
-  - The men were identified only as Ethiopian nationals in breach of the border-security system; no names, ages or residency details were released.
-  - Both accounts reproduce the same brief Mujahideen announcement, so the account rests on a single official statement.
+    - No date is given for the arrest; 18 November 2026 is the publication date of the accounts and is used as the incident date.
+    - No weight, quantity or value was published for the hashish, the stimulant or the regulated tablets, so no cannabis quantity is recorded.
+    - Ajel and Saudi News name the stimulant as methamphetamine while Sada names amphetamine; the hashish accusation and the two arrests are common to all accounts.
+    - The accounts place the arrests only in the Mecca region and do not say where in it the men were stopped or how the drugs were being promoted.
+    - No charges, court date or outcome were reported beyond referral to the competent authority.
+    - The men were identified only as Ethiopian nationals in breach of the border-security system; no names, ages or residency details were released.
+    - All three accounts reproduce the same brief Mujahideen announcement on X, so the account rests on a single official statement.
 ---
 
 Patrols of the General Directorate of Mujahideen in the Mecca region arrested
-two Ethiopian nationals who were in breach of the border-security system. [@1]
+two Ethiopian nationals who were in breach of the border-security system. [@1,3]
 The directorate accused the two of promoting hashish and methamphetamine, which
 it described as narcotic substances, and tablets subject to regulation of
-medical circulation. [@1] The hashish named in the announcement is the cannabis
+medical circulation. [@1,3] The hashish named in the announcement is the cannabis
 element of this mixed case, while the stimulant and the regulated tablets are
 not counted in the cannabis figures. [@1]
 
 The directorate said on its account on the X platform that the two were stopped,
 that the statutory procedures were taken against them and that they were
-referred to the competent authority. [@1] The Saudi outlet Sada, reporting the
+referred to the competent authority. [@1,3] The Saudi outlet Sada, reporting the
 same arrests, named the second substance as amphetamine rather than
 methamphetamine and said the men were referred to the competent authority to
 complete the procedures. [@2]
 
 Security authorities asked the public to report information about drug smuggling
 or promotion on the 911 line in the Mecca, Medina, Riyadh and Eastern Province
-regions. [@1] In the rest of the kingdom reports can be made on 999 and 994, and
+regions. [@1,3] In the rest of the kingdom reports can be made on 999 and 994, and
 the General Directorate of Narcotics Control's 995 number and 995@gdnc.gov.sa
-email also take reports. [@1] The authorities said all reports would be handled
-in strict confidence and without any liability for the informant. [@1]
-
+email also take reports. [@1,3] The authorities said all reports would be handled
+in strict confidence and without any liability for the informant. [@1,3]
