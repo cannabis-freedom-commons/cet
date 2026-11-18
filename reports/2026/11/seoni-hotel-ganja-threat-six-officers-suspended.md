@@ -105,12 +105,24 @@ sources:
     url: https://amp.scroll.in/latest/1097164/mp-six-police-officers-suspended-for-threatening-to-plant-marijuana-on-couple
     publisher: Scroll.in
     date: 2026-11-18
+  - title: Six Madhya Pradesh police personnel suspended over alleged threat to plant cannabis on young hotel guest
+    url: https://www.edexlive.com/news/six-madhya-pradesh-police-personnel-suspended-over-alleged-threat-to-plant-cannabis-on-young-hotel-guest
+    publisher: EdexLive
+    date: 2026-11-18
+    language: en
+open_questions:
+    - The traffic inspector accused of demanding monthly payments is named Vijay Tiwari in the IANS account and Vijay Baghel in other reports.
+    - Accounts differ on whether the Additional SP told hotel staff or his own police team to arrange the cannabis.
+    - The recording is described both as hotel CCTV footage and as video from a hidden camera installed by the owner after police removed an earlier recorder.
+    - No outcome of the departmental inquiry or disciplinary proceedings against the six suspended officers has been reported.
+    - The extortion and assault allegations against the officers had not been established by any investigation as reported.
+    - No cannabis was actually seized or planted; the material was only the subject of a threat.
 ---
 
 Six Madhya Pradesh police officers, including an Additional Superintendent of
 Police, a sub-divisional police officer and an inspector, were suspended on 18
 November 2026 over threats to plant marijuana on a young couple during a search
-at a private hotel in Seoni. [@1,5,8,10,14,15] Chief Minister Mohan Yadav ordered the
+at a private hotel in Seoni. [@1,5,8,10,14,15,16] Chief Minister Mohan Yadav ordered the
 suspensions after CCTV footage from the hotel lobby circulated widely that day.
 [@1,8] The clip was dated 13 November 2026 and, according to India Today, was
 recorded during the confrontation at the hotel. [@2,7,10,11] The six were Additional SP
@@ -132,7 +144,7 @@ report the next day. [@1] The Chief Minister said indiscipline and misconduct in
 police uniform were unacceptable and promised strict action under a
 zero-tolerance policy. [@1,8,10,14,15] Hotel owner Sanjay Sanodiya accused Inspector Satish
 Tiwari and SDOP Markam of extorting ₹50,000 a month and said the search was
-conducted after he could not meet the demand. [@1,14] He alleged he paid Rs 20,000 to Inspector Tiwari in October while the demands continued. [@14] Sanodia said police searched the hotel on three consecutive days, 7, 8 and 9 October, after he refused to pay. [@14] The confrontation took place at the Sidarth Hotel. [@5,9,12] The hotel is on Babariya Road in Seoni. [@7,13,14] Sanodia said the couple had checked in at the hotel on 13 November. [@14] The hotel owner also named Traffic Inspector Vijay Baghel among the officers he accused of demanding monthly payments. [@4,5,9] The hotel owner said he had released the viral video on social media himself to expose the police. [@5,6,9,11] He said he then installed a hidden camera and that, though officers seized one recorder, a second survived holding the footage. [@12,14] The hotel owner said officers seized the hotel's CCTV recorders each time they visited, leaving him without evidence of what they did. [@12] Mr. Verma said he had spoken
+conducted after he could not meet the demand. [@1,14,16] He alleged he paid Rs 20,000 to Inspector Tiwari in October while the demands continued. [@14,16] Sanodia said police searched the hotel on three consecutive days, 7, 8 and 9 October, after he refused to pay. [@14,16] Sanodiya also alleged that Yash Meshram, to whom he had rented out the hotel, was assaulted by police personnel in October over the alleged payment dispute. [@16] The confrontation took place at the Sidarth Hotel. [@5,9,12] The hotel is on Babariya Road in Seoni. [@7,13,14,16] Sanodia said the couple had checked in at the hotel on 13 November. [@14] The hotel owner also named Traffic Inspector Vijay Baghel among the officers he accused of demanding monthly payments. [@4,5,9] The hotel owner said he had released the viral video on social media himself to expose the police. [@5,6,9,11] He said he then installed a hidden camera and that, though officers seized one recorder, a second survived holding the footage. [@12,14,16] The hotel owner said officers seized the hotel's CCTV recorders each time they visited, leaving him without evidence of what they did. [@12] Mr. Verma said he had spoken
 to the hotel owner and taken his allegations into cognisance. [@1] The Free
 Press Journal reported earlier the same day that an investigation was under way
 into the roles of the city SP and the Additional SP. [@3] Investigators were also to examine whether anyone attempted to fabricate evidence. [@4,9] Police officials said the digital video recorder footage would be examined to establish the authenticity of the recording and the circumstances of the hotel visit. [@6,9]
