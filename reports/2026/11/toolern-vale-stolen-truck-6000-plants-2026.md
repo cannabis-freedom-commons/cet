@@ -53,34 +53,40 @@ sources:
     publisher: The Moorabool News
     date: 2026-11-17
     language: en
-open_questions:
-    - The crop was estimated at 6,000 to 8,000 plants and the figures use the lower confirmed bound of 6,000.
-    - The $27 million is an approximate police street-value estimate, not a measured sale amount.
-    - No figure for the weight of the Toolern Vale plants was published.
-    - No one was named, charged or described, and no court outcome was reported.
-    - Both accounts republish Victoria Police public-release material with named detective quotes, so they are not independent reporting.
-    - The same page describes a separate cannabis seizure at Romsey on 12 November 2026, involving about 3,700 plants weighing 620 kilograms, which is a different event left out here.
-    - The combined figure of more than 11,700 plants worth around $40 million across both investigations is left out because it mixes the two events.
-    - No detail was given about the electronic devices or how electricity was allegedly bypassed.
-    - No laboratory confirmation of the plants was reported; destruction was to follow forensic examination by botanists.
+  - title: Truck theft leads to discovery of large-scale cannabis operation valued at $27 million
+    url: https://www.news24.com.au/national/crime/truck-theft-leads-to-discovery-of-largescale-cannabis-operation-valued-at-27-million/news-story/99e304387c9df6ebaab1add2c0c96c20
+    publisher: News24
+    date: 2026-11-18
+    language: en
+media:
+  - kind: photo
+    url: https://www.news24.com.au/national/crime/truck-theft-leads-to-discovery-of-largescale-cannabis-operation-valued-at-27-million/news-story/99e304387c9df6ebaab1add2c0c96c20
+    media_url: https://content.api.news/v3/images/bin/43ac05fd2798db998542126b84dec1ff?width=1024
+    publisher: News24
+    caption: 'A stolen truck led police to two large-scale cannabis operations in Victoria. Picture: Victoria Police'
+  - kind: photo
+    url: https://www.news24.com.au/national/crime/truck-theft-leads-to-discovery-of-largescale-cannabis-operation-valued-at-27-million/news-story/99e304387c9df6ebaab1add2c0c96c20
+    media_url: https://content.api.news/v3/images/bin/a511251de53d5a63d6a963557fdb4481?width=150
+    publisher: News24
+    caption: 'Police investigated whether the stolen truck had been driven to the Toolern Vale property in an attempt to steal cannabis from the crop. Picture: Victoria Police'
 ---
 
 Detectives from the Melton Crime Investigation Unit followed a stolen truck to a
 rural property in Toolern Vale on Monday afternoon [@1,2] Officers found the truck
-bogged and abandoned at the address [@1,2] No arrests have been made and the
-investigation remains ongoing [@1,2]
+bogged and abandoned at the address [@1,2,3] No arrests have been made and the
+investigation remains ongoing [@1,2,3]
 
 At the property officers uncovered a sophisticated cannabis cultivation
-operation spread across five large greenhouses [@1,2] Police obtained a search
-warrant and began dismantling a crop of 6,000 to 8,000 mature plants [@1,2] Police
-put the crop's estimated street value at approximately $27 million [@1,2] Officers
+operation spread across five large greenhouses [@1,2,3] Police obtained a search
+warrant and began dismantling a crop of 6,000 to 8,000 mature plants [@1,2,3] Police
+put the crop's estimated street value at approximately $27 million [@1,2,3] Officers
 also seized electronic devices and items allegedly used to bypass electricity
-[@1,2] Police said all of the plants will be destroyed following forensic
-examination by botanists [@1,2]
+[@1,2,3] Police said all of the plants will be destroyed following forensic
+examination by botanists [@1,2,3]
 
 Police are investigating whether the stolen truck had been driven to the
-property in an attempt to steal cannabis from the crop [@1,2] The Botany Unit,
+property in an attempt to steal cannabis from the crop [@1,2,3] The Botany Unit,
 Crime Scene Services and other trained detectives from across the division
 assisted in the operation [@1] Detective Senior Sergeant Nick Di-Mieri said what
 began as a stolen vehicle investigation quickly led detectives to a
-sophisticated operation containing more than 6,000 plants [@1,2]
+sophisticated operation containing more than 6,000 plants [@1,2,3]
