@@ -70,20 +70,25 @@ sources:
     publisher: إقرأ نيوز
     date: 2026-11-17
     language: ar
+  - title: جنايات سوهاج تعاقب تاجري مخدرات بالسجن 10 سنوات وغرامة 100 ألف جنيه
+    url: https://www.dostor.org/5781240
+    publisher: جريدة الدستور
+    date: 2026-11-17
+    language: ar
 ---
 
 Sohag Criminal Court sentenced two brothers to 10 years in prison each and fined
 each 100,000 Egyptian pounds after convicting them of drug trafficking and of
 holding firearms and ammunition without a licence in the Tema district, north of
-Sohag Governorate. [@1,3,4] The verdict was issued under counsellor Mohamed El-Amir Mohamed Abu Kreisha, with counsellors Ahmed Nabil Tolba and Ahmed Mustafa Abu Sahli, and court secretaries Mohamed El-Arabi and Ali Hussein. [@4] The case began when information reached the
+Sohag Governorate. [@1,3,4,5] The verdict was issued under counsellor Mohamed El-Amir Mohamed Abu Kreisha, with counsellors Ahmed Nabil Tolba and Ahmed Mustafa Abu Sahli, and court secretaries Mohamed El-Arabi and Ali Hussein. [@4,5] The case began when information reached the
 investigations unit of Tema police station that the brothers, identified only as
 M. A. and A. A. and living in Kom Ashfaw village, were running a
-drug-trafficking operation and kept unlicensed guns to protect it. [@1,4] Another
+drug-trafficking operation and kept unlicensed guns to protect it. [@1,4,5] Another
 account of the case identified the substance as hashish and the weapons as
 automatic rifles. [@2,3]
 
 A security operation targeted the brothers, arrested them and found quantities
 of hashish divided into pieces and prepared for sale, along with automatic
-rifles and the ammunition used with them. [@1,4] A chemistry laboratory report confirmed that the seized samples contained the drug hashish. [@3,4] After the legal procedures were
+rifles and the ammunition used with them. [@1,4,5] A chemistry laboratory report confirmed that the seized samples contained the drug hashish. [@3,4] After the legal procedures were
 completed the two were referred to Sohag Criminal Court, which reviewed the case
 file and handed down the sentences. [@1]
