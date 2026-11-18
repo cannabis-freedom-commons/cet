@@ -41,6 +41,11 @@ sources:
     publisher: Narayanganj Times
     date: 2026-11-17
     language: bn
+  - title: সিদ্ধিরগঞ্জে পুলিশের অভিযানে মাদকসহ ১২ জন গ্রেপ্তার
+    url: https://www.pressnarayanganj24.net/city-outside/news/47655
+    publisher: Press Narayanganj
+    date: 2026-11-17
+    language: bn
 open_questions:
   - The 50 yaba tablets seized in the same operation are excluded from the cannabis figures.
   - The report does not say how the 250 grams of ganja and 50 yaba tablets were divided among the three drug traders.
@@ -51,11 +56,11 @@ open_questions:
 
 Siddhirganj Thana police arrested 12 accused in a special operation in
 Siddhirganj, Narayanganj, recovering 50 yaba tablets and 250 grams of ganja.
-[@1] The operation was carried out on Tuesday, 17 November, in different areas
-under Siddhirganj police station. [@1]
+[@1,2] The operation was carried out on Tuesday, 17 November, in different areas
+under Siddhirganj police station. [@1,2]
 
 The three drug traders held were identified as 37-year-old Md Wasim, 27-year-old
-Mithun Hossain and 33-year-old Nazim. [@1] Police recovered 50 pieces of yaba
+Mithun Hossain and 33-year-old Nazim. [@1,2] Police recovered 50 pieces of yaba
 tablets and 250 grams of ganja from the three drug traders. [@1] The other nine
 comprised two accused in anti-terrorism cases, two facing summary trial, three
 accused of preparing for robbery, one accused in another case and one wanted on
@@ -65,5 +70,4 @@ Shanto, Amin, Shuvo, Imon, Nazmul, Sohel Hossain and Faisal Mia, aged 20 to 39.
 
 After completing legal procedures against those arrested, police sent them to
 court on Tuesday. [@1] Siddhirganj Thana police said their operations to
-suppress drugs and all kinds of crime would continue. [@1]
-
+suppress drugs and all kinds of crime would continue. [@1,2]
