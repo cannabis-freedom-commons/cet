@@ -60,36 +60,35 @@ sources:
     publisher: Gündem Kıbrıs
     date: 2026-11-17
     language: tr
-open_questions:
-  - Neither account gives a separate date for the sentencing; 17 November 2026 is the publication date of both and stands in for the incident date.
-  - The SigmaLive account says he entered the north through the Mia Milia crossing, while the Turkish Cypriot account says he entered through the Metehan (Agios Dometios) crossing; both place the arrest near the Agios Dometios crossing in the Kermiya quarter.
-  - Six of the eight kilograms he admitted transporting had already been distributed, so only the two kilograms seized at the arrest are counted in the cannabis figures.
-  - The reports do not say whether the sentence was appealed.
+  - title: Nikolaidis Jailed for Seven Years Over 8kg Drug Imports
+    url: https://www.kibrispostasi.com/c140-DAILY_NEWS/n620159-nikolaidis-jailed-for-seven-years-over-8kg-drug-imports
+    publisher: Kıbrıs Postası
+    date: 2026-11-17
+    language: en
 ---
 
 The Assize Court in Turkish-held Lefkoşa sentenced Ioannis Nikolaidis, a
 21-year-old Greek national caught with two kilograms of cannabis in operation
-Anka, to seven years in prison. [@2] The court’s president, Ayşen Toroslu, read
+Anka, to seven years in prison. [@2,3] The court’s president, Ayşen Toroslu, read
 out the decision of the panel of senior judge Çiğdem Güzeler and judge Engin
 Atıcı. [@2]
 
 On 5 December 2025 officers of the Narcotics and Smuggling Prevention
 Directorate caught him in the Kermiya quarter of Lefkoşa as he left a black bag
 between containers, after entering the north through the Metehan (Agios
-Dometios) crossing. [@2] The bag held two kilograms of cannabis. [@2] He told
+Dometios) crossing. [@2] The bag held two kilograms of cannabis. [@2,3] He told
 investigators he had carried the drugs into the occupied north at the direction
-of a person in the free areas of the island. [@1]
+of a person in the free areas of the island. [@1,3]
 
 He admitted four earlier cannabis deliveries totalling six kilograms, which had
-then been distributed inside the occupied areas. [@1] Between August and
+then been distributed inside the occupied areas. [@1,3] Between August and
 December 2025 five trips in all brought eight kilograms of cannabis into the
 north. [@1] Two kilograms were seized at his arrest and the remaining six had
 already gone to the market. [@1] He said he was paid 300 euros for each trip.
-[@1] The court found him guilty in the three cases he faced. [@2]
+[@1,3] The court found him guilty in the three cases he faced. [@2]
 
 The court treated the aim of financial gain as an aggravating factor. [@1] It
 noted that he acted as a courier, not the organiser, and weighed his age, clean
 record and cooperation with the police in his favour. [@2] A pending case before
 the Kyrenia Assize Court over 500 grams of drugs was also taken into account in
-fixing the sentence. [@1]
-
+fixing the sentence. [@1,3]
