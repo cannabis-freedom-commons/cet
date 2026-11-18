@@ -12,8 +12,8 @@ title: Two held in Cukurova with 6.04 kg of suspected cannabis
 summary: >-
   Narcotics teams detained two suspects in Cukurova village on 14 November 2026 and seized about 6.04 kg of material believed to be cannabis. A judge ordered the pair held in police custody for three days while the exhibits go for analysis and a third person is sought.
 figures:
-  arrested: 2
-  kg_seized: 6.04
+    arrested: 2
+    kg_seized: 6.04
 details:
   agencies: [Narkotik ve Kaçakçılığı Önleme Müdürlüğü]
   agency_types: [anti-narcotics, police]
@@ -25,14 +25,14 @@ details:
   date_precision: exact
   region: Lefkoşa
 data_sources:
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.charges: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1, 2]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [1]
+    details.charges: [1]
+    details.products: [1]
+    details.setting: [1]
+    figures.arrested: [8]
+    figures.kg_seized: [8]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: eb5826f5d40db6371f83e1d92c19c1b1
@@ -67,24 +67,45 @@ sources:
     url: https://www.kibrispostasi.com/c140-DAILY_NEWS/n620035-nearly-6-kilograms-of-cannabis-seized-in-cukurova-drug-operation
     publisher: Kıbrıs Postası
     date: 2026-11-16
+  - title: Suspects Caught with 6kg of Drugs Remanded for Eight Days
+    url: https://www.kibrispostasi.com/c140-DAILY_NEWS/n620281-suspects-caught-with-6kg-of-drugs-remanded-for-eight-days
+    publisher: Kıbrıs Postası
+    date: 2026-11-18
+  - title: Çukurova’daki 6 kiloluk uyuşturucu operasyonunda zanlılara 8 gün tutukluluk
+    url: https://yenibakisgazetesi.com/cukurovadaki-6-kiloluk-uyusturucu-operasyonunda-zanlilara-8-gun-tutukluluk/
+    publisher: Yeni Bakış Gazetesi
+    date: 2026-11-18
+    language: tr
+  - title: 'ÇUKUROVA''DA 6 KİLOYU AŞAN UYUŞTURUCU OPERASYONU: 2 ZANLIYA 8 GÜN TUTUKLULUK!'
+    url: https://www.topuzgazetesi.com/dur-ihtarina-uymadi-polis-uyari-atesi-acti
+    publisher: Topuz Gazetesi
+    date: 2026-11-18
+    language: tr
+open_questions:
+    - No charge, plea or later court outcome was reported; the case remained at the investigation stage after the 18 November 2026 custody order.
+    - The material was described only as believed to be cannabis and was sent for laboratory analysis; no confirmation was reported.
+    - The 6 kg 20 g came from the drop point and a further 20 g from a friend's vehicle, and the combined total is given as about 6 kg 40 g.
+    - The suspects are identified by initials in the English report and by full name in the Turkish-language accounts.
+    - No estimate of the value of the seized cannabis was published.
+    - No date or quantity was reported for the four earlier drug drops in 2026, for which the pair were said to have been paid €1,000.
 ---
 
 Narcotics and Anti-Smuggling Directorate teams carried out a joint operation in
-Cukurova village at about 23:15 on 14 November 2026. [@1,5,6] The operation was carried out jointly by the Narcotics and Anti-Smuggling Directorate and teams of the Crime Prevention Branch of the Lefkoşa Police Directorate. [@4] Police detained Celal
+Cukurova village at about 23:15 on 14 November 2026. [@1,5,6,7] Police Sergeant Fezile Kesat told the court that police received information that drugs had been placed at a spot in Çukurova village at about 23:15 and began a stakeout later that day. [@7] The operation was carried out jointly by the Narcotics and Anti-Smuggling Directorate and teams of the Crime Prevention Branch of the Lefkoşa Police Directorate. [@4] Police detained Celal
 Dogan and Ahmet Zaglul over unlawful taking, possession and supply of cannabis,
 described as Hintkeneviri, and laundering of crime proceeds, and brought them
-before the court. [@3,4,6] Judge Sevket Gazi ordered both suspects to remain in
-police custody for three days for investigation purposes. [@2,6]
+before the court. [@3,4,6,7] C.D. was caught with reasonable force as he collected the drugs and tried to flee, and A.Z. was arrested after failing to obey a stop order, when officers fired warning shots. [@7] Judge Sevket Gazi ordered both suspects to remain in
+police custody for three days for investigation purposes. [@2,6] On 18 November 2026 the pair were brought before the court again and Judge Gizem Erciyas ordered them held in police custody for a further eight days. [@9]
 
 Officers found about 6 kilograms 20 grams of material believed to be
 Indian-hemp-type cannabis in the possession of the two suspects and took it as
-evidence. [@2,4,5,6] On Dogan's indication, officers found about 20 grams more of
-suspected Indian-hemp-type cannabis in a friend's vehicle. [@2,6] Police said the
+evidence. [@2,4,5,6,8] On Dogan's indication, officers found about 20 grams more of
+suspected Indian-hemp-type cannabis in a friend's vehicle. [@2,6,7] With the second find, the total quantity seized in the investigation came to about 6 kilograms 40 grams. [@8] Police said the
 seized exhibits would be sent for analysis and that one other person believed to
-be connected with the matter was being sought. [@1,6]
+be connected with the matter was being sought. [@1,6,9] Police also said the suspects' mobile phones and MOBESE camera footage would be examined, and that the exhibits had been sent for analysis. [@7]
 
 Police told the court the investigation had found that during 2026 the suspects
 had left drugs in the same way at four different points and had received a total
-of 1,000 euros for doing so. [@1,6] Dogan stated that he had arranged over
+of 1,000 euros for doing so. [@1,6,7] Dogan stated that he had arranged over
 WhatsApp with a contact to collect the drugs and leave them at another stated
-location for financial gain. [@1]
+location for financial gain. [@1,7]
