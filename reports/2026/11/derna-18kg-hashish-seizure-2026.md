@@ -166,21 +166,21 @@ sources:
     publisher: المصدر تونس
     date: 2026-11-18
     language: ar
-open_questions:
-    - No count of the people detained in Derna was published.
-    - The hashish weight rests on the local Libyan accounts' 18 kilograms; the wire accounts give 29 kilograms of cocaine and hashish together without a breakdown.
-    - The more than four million pills and the 11 kilograms of cocaine from the same haul are not counted in the cannabis figures.
-    - No charge, plea or court outcome was reported; inquiries were continuing when the seizure was announced.
+  - title: ضربة لـ«شبكات المخدرات» في درنة.. تعرّف على تفاصيل العملية
+    url: https://www.eanlibya.com/%D8%B6%D8%B1%D8%A8%D8%A9-%D9%84%D9%80%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AF%D8%B1%D9%86%D8%A9-%D8%AA%D8%B9%D8%B1%D9%91%D9%81/
+    publisher: عين ليبيا
+    date: 2026-11-18
+    language: ar
 ---
 
 The Derna branch of Libya's General Administration for Combating Drugs and
 Psychotropic Substances carried out a security operation south of Gate 200 in
 the city of Derna. [@1,4,13,18] The seized drugs were pictured and dated to Tuesday 17
 November 2026 in Derna, in material credited to the anti-drugs administration.
-[@1,11] Officers seized 18 kilograms of hashish in the operation. [@1,4,13,18] Photos published by the administration with its statement showed quantities of hashish alongside boxes and clear bags holding white pills. [@3,5,7,8,9,10,11,12,15,16,17,19,20]
+[@1,11] Officers seized 18 kilograms of hashish in the operation. [@1,4,13,18,21] Photos published by the administration with its statement showed quantities of hashish alongside boxes and clear bags holding white pills. [@3,5,7,8,9,10,11,12,15,16,17,19,20]
 
 The same haul also included 4,162,682 narcotic pills described as Captagon,
-ecstasy, tramadol and Tamol. [@1,4,13,18] Officers also seized 11 kilograms of cocaine
+ecstasy, tramadol and Tamol. [@1,4,13,18,21] Officers also seized 11 kilograms of cocaine
 alongside the hashish and pills, which is not counted in the cannabis figures.
 [@1,4,13] A Reuters account of the seizure put the haul at more than four million narcotic pills and 29 kilograms of cocaine and hashish together. [@3,5,9,10,11,12,14,15,16,20] The head of the anti-drugs administration, Maj. Gen. Ahmed Al-Shamikh, gave
 the same breakdown of 4,162,682 pills plus 18 kilograms of hashish and 11
@@ -193,4 +193,4 @@ redouble efforts against drugs and pursue their traders and promoters. [@2]
 
 The seized materials were sealed as evidence and the necessary legal measures
 were taken. [@1,4,13] Inquiries were continuing under Public Prosecution supervision
-to identify the members of the gang involved. [@1,4,13] The authorities were questioning the detained network members to establish its foreign links and who was behind its financing. [@6] The administration's statement also said members of the criminal network had been detained in the city. [@3,5,6,7,8,9,10,11,12,14,15,16,17,19,20]
+to identify the members of the gang involved. [@1,4,13,21] The authorities were questioning the detained network members to establish its foreign links and who was behind its financing. [@6] The administration's statement also said members of the criminal network had been detained in the city. [@3,5,6,7,8,9,10,11,12,14,15,16,17,19,20]
