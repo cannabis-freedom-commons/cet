@@ -70,11 +70,16 @@ sources:
     url: https://www.ghanaweb.com/GhanaHomePage/africa/Notorious-Tanzanian-drug-trafficker-arrested-during-raid-in-Zambia-2020213
     publisher: GhanaWeb
     date: 2026-02-04
+  - title: DCEA speaks on arrested Tanzanian drug trafficker
+    url: https://dailynews.co.tz/dcea-speaks-on-arrested-tanzanian-drug-trafficker/
+    publisher: Daily News
+    date: 2026-02-07
 open_questions:
     - No separate weight was published for the cannabis seized from the two Zambians in Lusaka or the two Burundian nationals in Chirundu, so the 1,380.8 kg covers only the seizure linked to Muharram.
     - The 55 boxes of Benylin with codeine are a non-cannabis seizure in the same sweep and are excluded from cannabis figures.
     - The operations occurred on the Tuesday before the 4 February BBC report; 3 February 2026 is used as the incident date from the 3 February Zambian report of the DEC briefing that day.
     - No court outcome beyond detention and expected court appearance was reported.
+    - The DCEA gave no details of the accomplices it says it arrested in Tanzania before Muharram fled in 2023.
 ---
 
 Zambia's Drug Enforcement Commission arrested 40-year-old Tanzanian national
@@ -90,9 +95,9 @@ buckets. [@1,5,6] All seven suspects were detained in lawful custody to appear i
 court soon. [@1,5,6]
 
 Officers first intercepted a lorry in Lusaka's Lilayi area and seized 221.2 kg
-of cannabis hidden in the vehicle. [@1,5,6] A follow-up search of Muharram's Lilayi
+of cannabis hidden in the vehicle. [@1,5,6,7] A follow-up search of Muharram's Lilayi
 residence found another 1,159.6 kg of high-grade cannabis, bringing the total
-seizure linked to him to 1,380.8 kg. [@1,4,5,6] Officers also seized a Toyota Prado
+seizure linked to him to 1,380.8 kg. [@1,4,5,6,7] Officers also seized a Toyota Prado
 suspected to have been used in the offences. [@2] In the same sweep, officers
 arrested a Lusaka man for allegedly trafficking 55 boxes of Benylin with
 codeine, a non-cannabis seizure mentioned here only to explain the operation.
@@ -100,6 +105,6 @@ codeine, a non-cannabis seizure mentioned here only to explain the operation.
 
 Tanzania's Drug Control and Enforcement Authority said Muharram had fled to
 Zambia in 2023 after several associates were arrested in Tanzania and was
-tracked through joint intelligence sharing with Zambia. [@3] Under Zambian law,
+tracked through joint intelligence sharing with Zambia. [@3,7] Commissioner General Aretas Lyimo said Tanzania and Zambia have a memorandum of understanding on joint intelligence sharing and antinarcotics operations, which played a key role in the capture. [@7] After the arrest the authority said it was intensifying efforts to track down his associates, believed to be operating in South Africa, Dubai, Malawi, Kenya and other parts of the world. [@7] The DCEA said Muharram was also on its most wanted list and had been under close surveillance for a long time before fleeing Tanzania. [@7] Under Zambian law,
 marijuana is classed as a dangerous drug that is illegal to possess, with
 trafficking punishable by a fine or prison sentence. [@1,5]
