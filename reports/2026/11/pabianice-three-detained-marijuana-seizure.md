@@ -58,6 +58,11 @@ media:
     media_url: https://www.youtube.com/watch?v=IhGmVLvre9M
     publisher: Pabianice County Police Headquarters
     caption: Police video titled '32 kg substancji zabronionych' showing the substances seized in the Pabianice operation.
+  - kind: photo
+    url: https://www.fakt.pl/wydarzenia/polska/lodz/pabianice-policja-zabezpieczyla-ponad-30-kg-mefedronu-i-marihuany/2g5d37e
+    media_url: https://ocdn.eu/pulscms-transforms/1/PBik9kuTURBXy8yYWY4YWMyOS1hMWFkLTQyZjAtYWE2Zi1jOTA5NzhjMjUxNzUuanBlZ5KVAwAAzQSwzQKjkwXNA0jNAfreAAKhMAahMQE
+    publisher: Fakt
+    caption: 'Seized sports bags holding the drugs from the Pabianice operation. Photo: Policja Pabianice'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 10b25527074baf92984df4eeac523c40
@@ -82,6 +87,11 @@ sources:
     publisher: WP Info / Kryminałki.pl
     date: 2026-11-17
     language: pl
+  - title: Pabianice. Policja zabezpieczyła ponad 30 kg mefedronu i marihuany
+    url: https://www.fakt.pl/wydarzenia/polska/lodz/pabianice-policja-zabezpieczyla-ponad-30-kg-mefedronu-i-marihuany/2g5d37e
+    publisher: Fakt
+    date: 2026-11-17
+    language: pl
 open_questions:
   - The cannabis weights were given only as 'more than a kilogram' and 'more than 30 grams', so the recorded 1.03 kg is a minimum.
   - The dried plant material was only preliminarily identified as marijuana; laboratory confirmation of the substances' exact composition was pending.
@@ -93,19 +103,20 @@ open_questions:
   - The case was described as ongoing, with no trial date or final outcome reported.
   - All the opened accounts reproduce the same Pabianice police statement and are not independent reporting.
   - 'Left out, as its quotation was not found in Komenda Powiatowa Policji w Pabianicach: The 22-year-old was charged with possessing narcotic substances.'
+  - The Fakt account dates the operation to Friday 13 November in one passage but writes 13 October in another.
 ---
 
 Police in Pabianice detained three people — two men aged 26 and 33 and a
-22-year-old woman — during an operation against drug crime. [@2] The operation
-was carried out on Friday 13 November 2026. [@2] Both men were charged with
+22-year-old woman — during an operation against drug crime. [@2,5] The operation
+was carried out on Friday 13 November 2026. [@2,5] Both men were charged with
 possessing significant quantities of narcotic substances. [@2] On the
 prosecutor's application a court ordered the two men held in temporary
 detention. [@2] The men face up to 10 years in prison, while the woman faces up
 to three years. [@1]
 
 In the flat occupied by the 26-year-old, officers found more than a kilogram of
-dried plant material preliminarily identified as marijuana. [@2] In the
-33-year-old's flat they seized more than 30 grams of marijuana. [@2] The same
+dried plant material preliminarily identified as marijuana. [@2,5] In the
+33-year-old's flat they seized more than 30 grams of marijuana. [@2,5] The same
 flat also held more than 600 grams of mefedrone, a synthetic stimulant excluded
 from the cannabis figures. [@3] In the car police found two sports bags holding
 more than 30 kilograms of a substance preliminarily identified as mefedrone.
@@ -117,4 +128,3 @@ mefedrone. [@2] A search of the young woman's flat turned up further drugs. [@4]
 The officers acted on their own operational information that a Pabianice
 resident might be in possession of drugs. [@2] The exact composition of the
 seized substances was to be established by laboratory tests. [@2]
-
