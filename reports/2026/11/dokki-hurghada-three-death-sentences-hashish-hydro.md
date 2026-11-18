@@ -103,21 +103,36 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-17
     language: ar
+  - title: نهاية إمبراطورية "الحشيش والهيدرو"، الإعدام لـ 3 أشخاص في قضية "المخدرات الكبرى" بالدقي
+    url: https://www.vetogate.com/5772355
+    publisher: فيتو (Veto)
+    date: 2026-11-17
+    language: ar
+media:
+  - kind: photo
+    url: https://www.vetogate.com/5772355
+    media_url: https://cdn.vetogate.com/UploadCache/libfiles/601/0/800x450o/806.webp
+    publisher: فيتو (Veto)
+    caption: 'Photo captioned "محاكمة المتهم" (the defendant''s trial), published with Veto''s account of the Giza Criminal Court ruling. Photo: Veto'
+open_questions:
+    - No weight or value was given for the 2,208 hashish slabs and pieces or the 50 sacks of hydro cannabis, so no kilogram figure is recorded.
+    - No appeal against the death sentence, and no execution, has been reported.
+    - The reports give no date for the arrests, only 13 October 2025 as the date of the alleged offences.
 ---
 
 The Giza Criminal Court unanimously sentenced the three defendants to death by
-hanging. [@1,4,7,8,9,10,11,12] The court issued the ruling after receiving the religious opinion
-of the Mufti in the case. [@1,4,6,7,9,10,11,12] Presiding judge Abdel Aziz Mohamed Habib issued
+hanging. [@1,4,7,8,9,10,11,12,13] The court issued the ruling after receiving the religious opinion
+of the Mufti in the case. [@1,4,6,7,9,10,11,12,13] Presiding judge Abdel Aziz Mohamed Habib issued
 the ruling in case 12411 of 2025 for Dokki felonies. [@1,5,7,8] The case was also registered as 7337 of 2025 in the kulli register. [@10] The verdict was issued by Circuit 33 of the Giza Criminal Court. [@8] The three defendants
 were identified as Hussein A., a contractor, Mahmoud E., a contractor, and
-Shazly A., a worker. [@2,4,5,9,11,12]
+Shazly A., a worker. [@2,4,5,9,11,12,13]
 
 Prosecutors said that on 13 October 2025, in the Dokki district of Giza and
 Hurghada in the Red Sea, the men formed a gang led by the first defendant to
-trade and promote narcotic drugs. [@1,5,8,9,12] They were convicted of possessing hashish
+trade and promote narcotic drugs. [@1,5,8,9,12,13] They were convicted of possessing hashish
 and hydro cannabis plant with intent to traffic. [@1,5,6,8,9,11,12] When the first two defendants were arrested, the first had three mobile phones and 5,000 Egyptian pounds and the second a phone and 3,000 pounds. [@5,6,8,9,11,12] Searching the first
 defendant's car, forces found eight plastic sacks containing 1,154 slabs of
-hashish, a 12mm shotgun and seven live rounds. [@1,4,5,6,7,8,9,10,11,12] Prosecutors said the shotgun and ammunition were held without a licence to protect the gang's drug trade. [@12] The forensic laboratory found the seized shotgun complete, intact and fit for use, and the seven rounds compatible with it. [@10,11] The car also held 50,000 Egyptian pounds that investigators described as proceeds of sale. [@5,8,9,11,12] Searching the car the third
+hashish, a 12mm shotgun and seven live rounds. [@1,4,5,6,7,8,9,10,11,12] Prosecutors said the shotgun and ammunition were held without a licence to protect the gang's drug trade. [@12,13] The forensic laboratory found the seized shotgun complete, intact and fit for use, and the seven rounds compatible with it. [@10,11] The car also held 50,000 Egyptian pounds that investigators described as proceeds of sale. [@5,8,9,11,12] Searching the car the third
 defendant was using, forces found 12 plastic sacks with 1,054 large pieces of
 hashish and 50 sacks of hydro cannabis plant. [@1,4,5,6,7,8,9,10,11,12] The third defendant had two mobile phones and 1,500 Egyptian pounds when he was arrested. [@5,8,9,11,12]
 
