@@ -47,6 +47,11 @@ media:
     media_url: https://media24-dailysun-prod.web.arc-cdn.net/resizer/v2/MJNBVY3WNRBCFF62I2UACFMM34.jpeg?focal=1014%2C525&auth=7cbc71e94736c685baf4c9ff0a170ff1ef522fa652f6dd6fbd4f0c676d12d594&width=1600&height=900
     publisher: Daily Sun (SNL24)
     caption: 'Cannabis plants discovered growing inside the suspected drug laboratory in Douglasdale, where packaged cannabis was also found and two suspects were arrested. Photo: Lesiba Dikhoba'
+  - kind: photo
+    url: https://www.ewn.co.za/2026/11/18/due-process-must-be-adhered-to-regarding-the-use-sale-of-cannabis
+    media_url: https://media-cache.primedia-service.com/media/vthdis03/hydroponi-cannabis-lab.png?width=640&height=360&v=1dd774e2aefdca0&format=webp
+    publisher: EWN
+    caption: 'SAPS-supplied photograph of the hydroponic cannabis laboratory found in Douglasdale, published with EWN''s report. Photo: SAPS'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 7fabbf3d7dfc87c5f4f48e98f3ae9331
@@ -69,10 +74,19 @@ sources:
     publisher: Daily Sun (SNL24)
     date: 2026-11-17
     language: en
+  - title: Due process must be adhered to regarding the use & sale of cannabis, warn Gauteng cops
+    url: https://www.ewn.co.za/2026/11/18/due-process-must-be-adhered-to-regarding-the-use-sale-of-cannabis
+    publisher: EWN
+    date: 2026-11-18
+open_questions:
+    - No count of plants or weight of cannabis was reported from the Douglasdale laboratory.
+    - No court date, plea or outcome was reported for the two arrested men.
+    - The R2 million valuation is not tied to a weighed quantity of cannabis.
+    - It is not clear whether the owners had applied for a licence before the raid.
 ---
 
 Police arrested two suspects in Douglasdale, northern Johannesburg, after
-finding a hydroponic cannabis laboratory. [@1,4] An office had been set up inside the premises, which police said suggested the operation involved more than just growing cannabis. [@4] Officers found cannabis plants growing under controlled conditions and packaged cannabis at the property. [@4] The two suspects were described as white men. [@4] The two were detained at the
+finding a hydroponic cannabis laboratory. [@1,4] An office had been set up inside the premises, which police said suggested the operation involved more than just growing cannabis. [@4] Officers found cannabis plants growing under controlled conditions and packaged cannabis at the property. [@4] Inside the shop, officers found at least seven growing tents, a hydroponic laboratory, a seed vault, weighing machines and packaged cannabis, some of it pre-rolled. [@5] The two suspects were described as white men. [@4] The two men were allegedly the owners of the commercial cannabis production, which police said lacked certification. [@5] The two were detained at the
 scene and were to be charged with offences related to dealing and trafficking in
 drugs. [@1,3,4] The expected charges relate to dealing in drugs and drug trafficking under the Drugs and Drug Trafficking Act 140 of 1992. [@4]
 
