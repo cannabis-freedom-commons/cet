@@ -56,6 +56,10 @@ sources:
     url: https://www.wtrf.com/news/west-virginia-troopers-arrest-man-wanted-in-tennessee-during-traffic-stop/amp/
     publisher: WTRF
     date: 2026-11-17
+  - title: Man wanted on felony warrant arrested after traffic stop
+    url: https://www.wsaz.com/2026/11/17/man-wanted-felony-warrant-arrested-after-traffic-stop/
+    publisher: WSAZ
+    date: 2026-11-17
 open_questions:
   - No quantity, weight or estimated value for the marijuana seized from the vehicle was reported.
   - The highway is spelled 'McClellan Highway' in most accounts and 'McClelland Highway' in the WCHS TV report; this report uses 'McClellan Highway'.
@@ -63,21 +67,21 @@ open_questions:
   - Details of the Tennessee felony drug warrant that led to Halstead's arrest, including the underlying case and its outcome, were not reported.
   - The men were issued citations for possession rather than being arrested on the marijuana charge; only Halstead was taken into custody, on the out-of-state warrant.
   - All four accounts derive from the same West Virginia State Police news release rather than independent reporting.
+  - Accounts differ on Halstead's age, given as 26 in one account and 36 in another.
 ---
 
 Two men were cited for marijuana possession after a traffic stop in Lincoln
 County on Monday 16 November 2026, and one of them was also arrested on an
 outstanding felony warrant from Tennessee. [@3] Senior Trooper R.S. Clagg and
 Trooper A.S. Backus of the West Virginia State Police stopped a vehicle near the
-8000 block of McClellan Highway in Branchland, Lincoln County. [@4] During the
-stop the troopers found and seized marijuana from the vehicle. [@3] Charles Sly,
+8000 block of McClellan Highway in Branchland, Lincoln County. [@4,5] During the
+stop the troopers found and seized marijuana from the vehicle. [@3,5] Charles Sly,
 34, of West Hamlin, and Corey Halstead, 36, of Hamlin, were both cited for
 marijuana possession. [@1]
 
 West Virginia State Police said in a news release that Halstead, whose full name
 is Corey Paul Halstead, was wanted in Tennessee on a felony warrant with full
-extradition. [@2] He was arrested as a fugitive from justice and transported to
+extradition. [@2,5] He was arrested as a fugitive from justice and transported to
 the Western Regional Jail, where he remained held pending extradition to
-Tennessee. [@4] West Virginia State Police said the investigation into the stop
+Tennessee. [@4,5] West Virginia State Police said the investigation into the stop
 remains ongoing. [@3]
-
