@@ -56,6 +56,11 @@ media:
     media_url: https://nstatic.nova.bg/public/pics/anysize/1794997611.jpg
     publisher: Nova (nova.bg)
     caption: 'Narcotics seized from the Sofia taxi, in a police handout photo. Photo: СДВР'
+  - kind: photo
+    url: https://dariknews.bg/regioni/sofiia/taksi-pylno-s-droga-spipaha-64-godishen-shofior-s-metamfetamin-ekstazi-i-marihuana-v-sofiia-2472341
+    media_url: https://m.netinfo.bg/media/images/51414/51414499/991-ratio-kriminalisti-ot-stolichnoto-chetvyrto-ru-zadyrzhaha-shofior-na-taksi-pri.jpg
+    publisher: DarikNews.bg
+    caption: 'Sofia criminal police detaining the 64-year-old taxi driver in the drug operation, in a handout photo published with the DarikNews report. Photo: СДВР (Sofia Directorate of Internal Affairs)'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 886ae5e22a269c3011077b17f59f73b9
@@ -66,30 +71,33 @@ sources:
     publisher: Нова телевизия (nova.bg)
     date: 2026-11-18
     language: bg
+  - title: 'Такси, пълно с дрога: Спипаха 64-годишен шофьор с метамфетамин, екстази и марихуана в София'
+    url: https://dariknews.bg/regioni/sofiia/taksi-pylno-s-droga-spipaha-64-godishen-shofior-s-metamfetamin-ekstazi-i-marihuana-v-sofiia-2472341
+    publisher: DarikNews.bg
+    date: 2026-11-18
+    language: bg
 open_questions:
-  - The incident date is inferred from the word 'Monday' in a story published on Wednesday 18 November 2026; no explicit calendar date for the stop was given.
-  - The cannabis weight is given as 'nearly 70 grams' in an expert assessment and is recorded as 0.07 kg; it is not an exact measured figure.
-  - The report mentions 16 packets of marijuana in the taxi and a separate packet of about 10 grams on the driver, but does not explain how these relate to the expert's near-70-gram total.
-  - No value or separate weight breakdown for the marijuana packets themselves was published beyond the expert's single total.
-  - The cash comprised two currencies, 570 euros and 100 US dollars, which cannot be represented in the single-currency cash figure.
-  - Blood-test results were pending, and no court decision on the prosecution's remand request had been reported.
-  - The account rests on a single news report citing the Sofia City Prosecutor's Office and the Sofia police; no independent second account was available.
+    - The cannabis weight is given as 'nearly 70 grams' in an expert assessment and is recorded as 0.07 kg; it is not an exact measured figure.
+    - The report mentions 16 packets of marijuana in the taxi and a separate packet of about 10 grams on the driver, but does not explain how these relate to the expert's near-70-gram total.
+    - No value or separate weight breakdown for the marijuana packets themselves was published beyond the expert's single total.
+    - The cash comprised two currencies, 570 euros and 100 US dollars, which cannot be represented in the single-currency cash figure.
+    - Blood-test results were pending, and no court decision on the prosecution's remand request had been reported.
+    - Both accounts reproduce statements from the Sofia police and the Sofia City Prosecutor's Office and are not independent reporting.
 ---
 
 Sofia police detained a 64-year-old taxi driver after his drug test came back
-positive; he was caught on Monday in a taxi he was driving in Sofia. [@1] In the
+positive; he was caught on Monday in a taxi he was driving in Sofia. [@1,2] Officers stopped the taxi he was driving for a check on Dimitar Manov Street after establishing his identity. [@2] The specialised police operation took place on the evening of 16 November 2026, after police received information that the man was distributing drugs in the capital. [@2] In the
 taxi he kept nearly 40 ecstasy tablets, 16 packets of marijuana, a large
 quantity of crystals, powdered amphetamine, and 570 euros and 100 US dollars.
-[@1] He also carried another packet containing about 10 grams of marijuana on
-his person. [@1]
+[@1,2] He also carried another packet containing about 10 grams of marijuana on
+his person. [@1,2]
 
 An expert assessment put the seized narcotics at nearly 500 grams of
 methamphetamine, nearly 70 grams of marijuana, over 11 grams of ecstasy and more
-than 9 grams of amphetamine. [@1]
+than 9 grams of amphetamine. [@1,2]
 
 The detainee was already known to police and had a prior conviction, and the
-Sofia City Prosecutor's Office has brought charges against him. [@1] The results
+Sofia City Prosecutor's Office has brought charges against him. [@1,2] He had first been held under a police measure of up to 24 hours. [@2] The results
 of his blood test were still awaited. [@1] He was held for up to 72 hours while
 pre-trial proceedings were opened, and the prosecution planned to ask the Sofia
-City Court on Thursday to remand him in custody. [@1]
-
+City Court on Thursday to remand him in custody. [@1,2]
