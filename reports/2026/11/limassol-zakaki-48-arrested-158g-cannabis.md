@@ -92,17 +92,27 @@ sources:
     url: https://www.kiprinform.com/en/news/man-28-arrested-in-limassol-after-various-drugs-found-in-his-car-on-him-and-at-his-flat/
     publisher: Cyprus Inform
     date: 2026-11-18
+  - title: Israeli man allegedly recruited to run Limassol drugs ‘kiosk’ remanded
+    url: https://en.philenews.com/local/limassol-drugs-visitor-remanded-eight-days-recruiter-live/
+    publisher: Philenews
+    date: 2026-11-18
+  - title: 'Υπόθεση ναρκωτικών - Λεμεσός: Οκταήμερη κράτηση σε 28χρονο Ισραηλινό'
+    url: https://m.kathimerini.com.cy/gr/kypros/ypothesi-narkotikwn-lemesos-oktaimeri-kratisi-se-28xrono-israilino
+    publisher: Kathimerini.com.cy
+    date: 2026-11-18
+    language: el
 open_questions:
-  - The Cyprus Police statement gave the suspect's age as 28, while the newspapers reported 48; this report uses 48.
-  - The 1.42-kilogram figure is a combined total for six drugs and cannot be split into cannabis and other substances beyond the 158 grams of cannabis reported.
-  - The cannabis was seized as a drug product; no laboratory confirmation or split between herbal cannabis and other cannabis products was reported.
-  - No court appearance, remand order, plea or charge sheet was reported; the case was at the investigation stage.
-  - No estimated street value of the drugs was published.
-  - Most accounts reproduce the same police statement, so they are not independent reporting.
+    - 'Sources disagree on the suspect''s age and nationality: the police statement and both remand reports say a 28-year-old Israeli, while other newspapers reported a 48-year-old man.'
+    - The 1.42-kilogram figure is a combined total for six drugs and cannot be split into cannabis and other substances beyond the 158 grams of cannabis reported.
+    - The cannabis was seized as a drug product; no laboratory confirmation or split between herbal cannabis and other cannabis products was reported.
+    - No estimated street value of the drugs was published.
+    - Most accounts reproduce the same police statement, so they are not independent reporting.
+    - The suspect reportedly admitted the drugs in the car were his but denied any link to the flat, and no plea or trial outcome has been reported.
+    - The alleged recruiter, suppliers and recipients have not been identified, and the results of the scientific testing and mobile-phone examination have not been reported.
 ---
 
 Police in Limassol arrested a 48-year-old man after finding six different drugs
-in his car, on his person and at his flat. [@1,5] Police said the arrest followed the investigation of information about trafficking in various drugs. [@6] The operation ran on Tuesday 17
+in his car, on his person and at his flat. [@1,5] Police said the arrest followed the investigation of information about trafficking in various drugs. [@6,7] According to information under investigation, he was allegedly recruited, set up a dealing 'kiosk' and sold various drugs, and investigators are trying to trace his alleged recruiter, suppliers and recipients. [@8] The remand reports describe the suspect as a 28-year-old Israeli who had recently arrived in Cyprus as a visitor. [@8] The operation ran on Tuesday 17
 November 2026 and was carried out by the drug squad (YKAN), the serious crime
 directorate (DAOE) and the customs investigation service (YPEE), which
 Greek-language reports nickname the "Cyprus FBI". [@4] Officers stopped his car
@@ -113,15 +123,15 @@ cocaine, ketamine, ecstasy, MDMA and mephedrone, plus €80 and a mobile phone.
 [@2]
 
 Officers then searched the flat where he lived in Limassol and found further
-drugs. [@1,7] The flat held about 839 grams of ketamine, 150 grams of mephedrone,
+drugs. [@1,7,8] He reportedly admitted when arrested that the drugs found in his car were his, but denied any link to those found in the flat. [@8] The flat held about 839 grams of ketamine, 150 grams of mephedrone,
 95 grams of MDMA, 60 grams of ecstasy tablets, 30 grams of cannabis and 10 grams
-of cocaine. [@4,5] Police also found two precision scales and a large number of
-zip-lock bags there, and seized €900. [@4,5,6] The searches produced 158 grams of
+of cocaine. [@4,5,9] Police also found two precision scales and a large number of
+zip-lock bags there, and seized €900. [@4,5,6,8] The searches produced 158 grams of
 cannabis in all. [@4] The whole haul came to about 1.42 kilograms of six drugs
 and €980 in cash. [@1]
 
 The 48-year-old was first arrested for a flagrant offence and later re-arrested
 under a court warrant. [@1,5] He is being investigated for conspiracy to commit a
 felony, illegal possession of drugs, possession with intent to supply, use of
-Class A and Class B controlled substances, and money laundering. [@4,5,6,7] The
-Limassol branch of DAOE-YKAN is continuing the investigation. [@3,5,6,7]
+Class A and Class B controlled substances, and money laundering. [@3,4,5,6,7] The
+Limassol branch of DAOE-YKAN is continuing the investigation. [@3,5,6,7] The evidence is due to be sent for scientific and other testing, and a court order is expected to give police access to his mobile phone. [@8] Limassol District Court ordered his eight-day remand. [@9]
