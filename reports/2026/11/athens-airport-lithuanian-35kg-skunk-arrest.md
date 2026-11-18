@@ -61,6 +61,11 @@ sources:
     publisher: CNN Greece
     date: 2026-11-18
     language: el
+  - title: 'Αεροδρόμιο Αθηνών: συνελήφθη 28χρονος με 35 κιλά κάνναβης'
+    url: https://www.tomanifesto.gr/aerodromio-athinwn-sinelifthi-28khronos-me-35-kila-kannavis-260345
+    publisher: toManifesto.gr
+    date: 2026-11-18
+    language: el
 open_questions:
   - The 35 kilograms and 300 grams is the gross weight of the 23 packages, not a measured net weight of the drug.
   - No charge, plea or detention decision was reported; the man was taken to the prosecutor.
@@ -72,16 +77,15 @@ open_questions:
 ---
 
 Officers of the narcotics unit at Athens International Airport arrested a
-28-year-old Lithuanian man after a check on his arrival in Greece. [@2] He was
+28-year-old Lithuanian man after a check on his arrival in Greece. [@2,4] He was
 stopped in the airport's arrivals area after checks by the Hellenic Police,
 known in Greece as EL.AS. [@1] He had landed the previous day, 17 November 2026,
-on a flight from Bangkok via Doha. [@3]
+on a flight from Bangkok via Doha. [@3,4]
 
 His luggage held 23 packages of raw cannabis from hydroponic cultivation, the
-drug Greek police call skunk. [@2] He had hidden them in his suitcases. [@1] The
-packages had a total gross weight of 35 kilograms and 300 grams. [@2] Police put
+drug Greek police call skunk. [@2,4] He had hidden them in his suitcases. [@1] The
+packages had a total gross weight of 35 kilograms and 300 grams. [@2,4] Police put
 the quantity at more than 35 kilograms. [@3] Officers also seized a mobile phone
-and the two suitcases used to carry the drug. [@2]
+and the two suitcases used to carry the drug. [@2,4]
 
-The arrested man was taken to the prosecutor. [@3]
-
+The arrested man was taken to the prosecutor. [@3,4]
