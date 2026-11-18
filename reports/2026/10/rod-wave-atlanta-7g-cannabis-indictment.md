@@ -59,39 +59,35 @@ sources:
     url: https://www.fox5atlanta.com/news/police-rapper-rod-wave-had-firearm-suspected-drugs-during-atlanta-traffic-stop
     publisher: FOX 5 Atlanta
     date: 2025-11-12
-open_questions:
-  - The suspected marijuana was described only as about seven grams of suspected cannabis, with no laboratory confirmation reported.
-  - Rod Wave's indictment counts are possession of a Schedule II controlled substance (identified as oxycodone), reckless driving and possession of a firearm; no cannabis charge against him was listed in the indictment, and a separate cannabis possession charge against the passenger was not detailed in these accounts.
-  - No formal charge, court date or outcome was reported for the passenger Jamond Byner beyond his arrest and release.
-  - No trial date or verdict was reported beyond the not-guilty plea.
-  - A separate April 2025 burglary investigation involving vehicle searches and three firearms is a different case and is not covered here.
-  - The submitted French account is based on court documents obtained by Rolling Stone and Complex, so the accounts are not fully independent of one another.
+  - title: Rapper Rod Wave indicted on drug, weapon charges nearly 1 year after Atlanta arrest
+    url: https://www.msn.com/en-us/news/other/rapper-rod-wave-indicted-on-drug-weapon-charges-nearly-1-year-after-atlanta-arrest/ar-AA2hIucR
+    publisher: WTOC
+    date: 2026-11-18
 ---
 
 Rapper Rod Wave, whose legal name is Rodarius Green, was charged in Fulton
 County, Georgia, on 30 October 2026 with possession of a Schedule II controlled
 substance, reckless driving and possession of a firearm during a felony. [@3] A
 Fulton County grand jury formally indicted him, and the indictment was returned
-on 30 October and made public in November 2026. [@1] The 28-year-old has pleaded
+on 30 October and made public in November 2026. [@1,5] The 28-year-old has pleaded
 not guilty to all the charges. [@1] Rolling Stone reported that the indictment
 said he possessed Oxycodone and had a gun within arm's reach when he was pulled
 over on 7 November 2025. [@2]
 
 The case began with a traffic stop at about 7:25 p.m. on 7 November 2025 near
 Defoor Avenue NW and Taylor Street NW in Atlanta, where an officer said he
-smelled marijuana and found a firearm in Green's waistband. [@4] The officer
+smelled marijuana and found a firearm in Green's waistband. [@4,5] The officer
 said Green drove through a stop sign on Defoor Avenue NW at an estimated 45 mph
-in a 30 mph zone before being stopped in a QuikTrip parking lot. [@3] The
+in a 30 mph zone before being stopped in a QuikTrip parking lot. [@3,5] The
 officer reported seizing about seven grams of suspected marijuana and a bottle
 of purple liquid he believed was promethazine. [@3] At the time police charged
 him with reckless driving, possession of a Schedule II and a Schedule V
 controlled substance and possession of a firearm during a felony, and booked him
 into the Fulton County Sheriff's Office jail. [@4] His passenger, Jamond Byner,
 disputed the driving account and said the two were returning from a studio where
-people had been smoking. [@3] Byner was also arrested after allegedly admitting
+people had been smoking. [@3,5] Byner was also arrested after allegedly admitting
 he had a small amount of marijuana. [@3] Both men were released the next day,
 Rod Wave after paying 8,000 dollars bail. [@1]
 
 His lawyers said in a statement that the rapper had been unjustly profiled and
 unlawfully arrested. [@2]
-
