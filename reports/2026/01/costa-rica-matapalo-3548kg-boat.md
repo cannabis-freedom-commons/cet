@@ -52,17 +52,23 @@ sources:
     publisher: Infobae
     date: 2026-01-23
     language: es
+  - title: Costa Rica refuerza la lucha contra el narcotráfico con incautaciones y operativos conjuntos en 2026
+    url: https://www.infobae.com/costa-rica/2026/02/13/costa-rica-refuerza-la-lucha-contra-el-narcotrafico-con-incautaciones-y-operativos-conjuntos-en-2026/
+    publisher: Infobae
+    date: 2026-02-13
+    language: es
 open_questions:
   - La Nación says each of 6,452 packages weighed about 550 grams, totalling 3,548 kg; A.M. Costa Rica rounded to about 3,000 one-kilogram packages and Telediario's first tally spoke of more than two tonnes before the final weigh-in.
   - The detained men were identified only by the surnames Cortés, Vallecillo and Carvajal; given names were not published in the sources opened.
   - Pretrial detention hearings were pending; no conviction was reported.
   - Packages bore a turtle logo with Costa Rican and Colombian flags; Security told La Nación the mark does not necessarily identify one criminal group.
+  - The roundup places the Matapalo interception on 21 and 22 January, while La Nación dated it to the night of 20 January 2026.
 ---
 
 On the night of Tuesday 20 January 2026, Costa Rica's Drug Control Police, Coast Guard, special
 support unit and criminal intelligence directorate intercepted a fast boat roughly 40 nautical miles
 southwest of Cabo Matapalo on the southern Pacific coast, with help from a US patrol aircraft and
-the Drug Enforcement Administration. [@1,2]
+the Drug Enforcement Administration. [@1,2,3] The intercept operation also counted on support from the United States Southern Command. [@3]
 
 Inside the vessel, named Monarca CP01, officers found 6,452 packages of marijuana. [@1] La Nación
 reports that each package weighed about 550 grams, for a total of 3,548 kg valued at roughly
