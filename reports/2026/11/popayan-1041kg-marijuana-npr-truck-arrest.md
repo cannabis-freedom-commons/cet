@@ -70,6 +70,11 @@ media:
     media_url: https://elexpreso.co/wp-content/uploads/2026/11/incautan-mas-de-una-tonelada-de-marihuana-de-las-disidencias-de-las-farc-en-popayan-con-destino-a-brasil-popaya-ejercito-nacionan-1200x675.jpg
     publisher: El Expreso
     caption: 'Army handout photo of the Popayan marijuana seizure published with the report. Photo: Ejército Nacional'
+  - kind: video
+    url: https://www.infobae.com/video/colombia/cae-tonelada-de-marihuana-oculta-en-camion-que-iba-a-brasil/N5XpPynM/
+    media_url: https://cdn.jwplayer.com/videos/N5XpPynM-giSUPft0.mp4
+    publisher: Infobae
+    caption: Video report on the Army seizure of more than a tonne of marijuana in a truck in rural Popayán bound for Brazil.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ce879e9c1618959a5c25dd958e5283e1
@@ -165,6 +170,11 @@ sources:
     publisher: Diario del Cauca
     date: 2026-11-17
     language: es
+  - title: Cae tonelada de marihuana oculta en camión que iba a Brasil
+    url: https://www.infobae.com/video/colombia/cae-tonelada-de-marihuana-oculta-en-camion-que-iba-a-brasil/N5XpPynM/
+    publisher: Infobae
+    date: 2026-11-17
+    language: es
 ---
 
 Troops of Anti-Narcotics Battalion No. 2 carried out a ground interdiction
@@ -178,7 +188,7 @@ manufacture or possession. [@2,3,11]
 Military intelligence linked the load to the Dagoberto Ramos structure of the
 FARC dissidents. [@2,3,4,5,6,7,8,9,10,11,13,15,16,17,18] The structure was linked to alias 'Iván Mordisco'. [@15] Intelligence indicated the drug was first bound for Puerto
 Asís, Putumayo. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18] From Puerto Asís the load was to be moved by river launches
-toward Brazil. [@1,3,4,5,6,7,8,9,10,11,12,13,17]
+toward Brazil. [@1,3,4,5,6,7,8,9,10,11,12,13,17,19]
 
 Authorities estimated the seizure equalled about 52,050 doses for illegal
 markets. [@1,4,5,7,8,9,10,11,12,13,16,18] The Army put the economic impact on that structure at about 1,050
