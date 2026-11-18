@@ -105,17 +105,22 @@ sources:
     publisher: TV3
     date: 2026-11-17
     language: sl
+  - title: Policisti v Šentjerneju odkrili skoraj 400 sadik konoplje
+    url: https://telegraf.si/policisti-v-sentjerneju-odkrili-skoraj-400-sadik-konoplje/
+    publisher: Telegraf
+    date: 2026-11-18
+    language: sl
 ---
 
 Novo Mesto criminalists carried out a house search at the home of a 49-year-old
-suspect from Šentjernej under a court order. [@1,2,3,6,7,8,9,10] The 49-year-old suspect had
+suspect from Šentjernej under a court order. [@1,2,3,6,7,8,9,10,11] The 49-year-old suspect had
 grown 397 cannabis plants in a laboratory. [@1,4]
 
 During the search officers found a room adapted for growing illegal drugs, along
-with aids and equipment for cultivating marijuana. [@1,2,5,6,8,9,10] Police said the equipment seized alongside the plants allowed controlled growing conditions, from lighting to ventilation and irrigation. [@3] Inside they found and
-seized 397 cannabis plants, dried pieces of marijuana and growing aids. [@1,2,3,6,8,9,10]
+with aids and equipment for cultivating marijuana. [@1,2,5,6,8,9,10,11] Police said the equipment seized alongside the plants allowed controlled growing conditions, from lighting to ventilation and irrigation. [@3] Inside they found and
+seized 397 cannabis plants, dried pieces of marijuana and growing aids. [@1,2,3,6,8,9,10,11]
 
 The Novo Mesto police administration said criminalists were continuing the
 investigation into the suspected unauthorised production of and trafficking in
-prohibited drugs. [@1,2,3,6,9,10] They said a criminal complaint against the 49-year-old
-suspect would be filed with the competent state prosecutor. [@1,2,3,6,7,8,9,10]
+prohibited drugs. [@1,2,3,6,9,10,11] They said a criminal complaint against the 49-year-old
+suspect would be filed with the competent state prosecutor. [@1,2,3,6,7,8,9,10,11]
