@@ -110,6 +110,15 @@ sources:
     publisher: Telegraf
     date: 2026-11-18
     language: sl
+  - title: Policisti v Šentjerneju odkrili laboratorij s skoraj 400 sadikami konoplje
+    url: https://krizisce.si/zgodba/policisti-v-sentjerneju-odkrili-laboratorij-s-skoraj-400-sadikami-konoplje-19f4e47ef975e73a
+    publisher: Križišče
+    date: 2026-11-17
+    language: sl
+open_questions:
+    - No date is given for the house search; 17 November 2026 is the date of the police statement and of publication, and is used as the incident date.
+    - No weight was published for the dried cannabis seized in the search.
+    - The reports do not say whether the 49-year-old was detained; a criminal complaint was to be filed with the state prosecutor.
 ---
 
 Novo Mesto criminalists carried out a house search at the home of a 49-year-old
@@ -117,8 +126,8 @@ suspect from Šentjernej under a court order. [@1,2,3,6,7,8,9,10,11] The 49-year
 grown 397 cannabis plants in a laboratory. [@1,4]
 
 During the search officers found a room adapted for growing illegal drugs, along
-with aids and equipment for cultivating marijuana. [@1,2,5,6,8,9,10,11] Police said the equipment seized alongside the plants allowed controlled growing conditions, from lighting to ventilation and irrigation. [@3] Inside they found and
-seized 397 cannabis plants, dried pieces of marijuana and growing aids. [@1,2,3,6,8,9,10,11]
+with aids and equipment for cultivating marijuana. [@1,2,5,6,8,9,10,11,12] Police said the equipment seized alongside the plants allowed controlled growing conditions, from lighting to ventilation and irrigation. [@3] Inside they found and
+seized 397 cannabis plants, dried pieces of marijuana and growing aids. [@1,2,3,6,8,9,10,11,12]
 
 The Novo Mesto police administration said criminalists were continuing the
 investigation into the suspected unauthorised production of and trafficking in
