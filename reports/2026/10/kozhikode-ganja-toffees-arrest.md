@@ -41,21 +41,24 @@ sources:
     publisher: Dainik Jagran
     date: 2026-10-30
     language: hi
+  - title: Man held with cannabis-infused candies in Kozhikode
+    url: https://www.thehindu.com/news/national/kerala/man-held-with-cannabis-infused-candies-in-kozhikode/article71635599.ece
+    publisher: The Hindu
+    date: 2026-10-28
 open_questions:
-  - The article gives no separate date for the arrest; 30 October 2026 is its publication date, and the arrest may have happened earlier.
-  - Only one source, a Hindi-language report in Dainik Jagran, could be opened; no Kerala outlet or excise department statement on the case could be found.
-  - The 872 grams is the weight of the ganja-laced toffees, not of cannabis alone, and no separate cannabis weight was given.
-  - No charges, court proceedings or estimated value of the seizure were reported.
-  - Pintu is a nickname; his full name, his exact locality or village in Hapur district and his criminal record were not established.
-  - No photograph of the arrest or the seized toffees was published; the page's lead image is an uncaptioned illustrative picture of uniformed officers and is not listed as event media.
+    - Neither account gives a separate date for the arrest; The Hindu was published on 28 October 2026 and the Dainik Jagran report on 30 October 2026, so the arrest may have happened earlier.
+    - The 872 grams is the weight of the cannabis-infused candies or ganja-laced toffees, not of cannabis alone, and no separate cannabis weight was given.
+    - No charges, court proceedings or estimated value of the seizure were reported.
+    - Pintu is a nickname; his full name, exact locality or village in Hapur district and criminal record were not established.
+    - Neither page published a photograph of the arrest or the seized candies; the lead images on both pages are illustrative pictures and are not listed as event media.
 ---
 
 A special team of Kerala's Excise Department arrested Pintu in Kozhikode,
-Kerala. [@1] Officers recovered 872 grams of ganja-laced toffees from a secret
-compartment built under the scooter's seat. [@1] Pintu, 31, is from Hapur, where
+Kerala. [@1,2] Officers recovered 872 grams of ganja-laced toffees from a secret
+compartment built under the scooter's seat. [@1,2] Pintu, 31, is from Hapur, where
 the district police are now gathering information about him. [@1] Officers
 allege the toffees were meant to be delivered to students and small shopkeepers.
-[@1]
+[@1,2] Excise officials urged school authorities to strengthen inspections and monitoring to curb drug trafficking. [@2]
 
 Hapur police said they have no clear information about where in the district he
 lives or what his criminal history is. [@1] Kerala police have not yet given
@@ -70,4 +73,3 @@ that the gang's activity in Hapur has not been confirmed. [@1]
 
 Police said his identity and background can be examined further only after
 Kerala police provide official information. [@1]
-
