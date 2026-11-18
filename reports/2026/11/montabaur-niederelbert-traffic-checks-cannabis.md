@@ -49,6 +49,11 @@ sources:
     publisher: meinestadt.de
     date: 2026-11-17
     language: de
+  - title: Alkohol und Drogen im Straßenverkehr
+    url: https://www.rhein-zeitung.de/blaulicht/polizeimeldungen-kreis-altenkirchen/alkohol-und-drogen-im-strassenverkehr_arid-4170801.html
+    publisher: Rhein-Zeitung
+    date: 2026-11-17
+    language: de
 open_questions:
     - The press release gives no laboratory confirmation of blood-test results, so the level of cannabis or other drugs in the drivers' blood is unknown.
     - No cannabis or other drug quantity was reported seized; the cases rest on admitted use and roadside drug tests.
@@ -60,14 +65,14 @@ open_questions:
 Police in Montabaur and Niederelbert took road users off the road in traffic
 checks for driving under the influence of alcohol or drugs. [@1] On Sunday
 evening, 15 November 2026, police stopped an 18-year-old car driver in Staudter
-Straße, Montabaur, in a general traffic check. [@1,2] The 15 November traffic check in Staudter Straße was timed at 21:15. [@3] He said he had recently
+Straße, Montabaur, in a general traffic check. [@1,2,4] The 15 November traffic check in Staudter Straße was timed at 21:15. [@3] He said he had recently
 consumed marijuana, police found him influenced by drugs, banned him from
-continuing and took a blood sample. [@1,2,3] In the early hours of Tuesday 17
+continuing and took a blood sample. [@1,2,3,4] In the early hours of Tuesday 17
 November police checked a breakdown transporter with Croatian registration in
 Hauptstraße, Niederelbert, and its 46-year-old driver said he had run out of
-fuel. [@1,2] The Niederelbert stop on 17 November took place at 03:30. [@2] Police found drug-typical consumption signs and a drug test was
+fuel. [@1,2,4] The Niederelbert stop on 17 November took place at 03:30. [@2] Police found drug-typical consumption signs and a drug test was
 positive for amphetamines, cocaine and THC products; they took a blood sample
-and seized the licence. [@1,2,3]
+and seized the licence. [@1,2,3,4]
 
 A 44-year-old driver was spotted by a Polizeiinspektion Montabaur patrol in
 Werkstraße at 22:04 on Monday 16 November after going into a high kerb in a bend
