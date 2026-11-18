@@ -83,19 +83,25 @@ sources:
     publisher: Philippine News Agency
     date: 2026-11-18
     language: en
+  - title: PDEA XI incinerates ₱ 14.08-M in seized illegal drugs in Davao City
+    url: https://www.mindanaotimes.com.ph/pdea-xi-incinerates-%E2%82%B1-14-08-m-in-seized-illegal-drugs-in-davao-city/
+    publisher: Mindanao Times
+    date: 2026-11-18
+open_questions:
+  - The directors' assignments differ between accounts, with one naming both Gaspi and Magdurulang as PDEA XI directors and another identifying Magdurulang as the PDEA XII director.
 ---
 
 The Philippine Drug Enforcement Agency's Davao (PDEA-11) and Soccsksargen
 (PDEA-12) regional offices jointly destroyed seized, confiscated and surrendered
-illegal drugs in Davao City during Drug Abuse Prevention and Control Week. [@1,4]
+illegal drugs in Davao City during Drug Abuse Prevention and Control Week. [@1,4,5]
 The destruction was held at about 9 a.m. on Wednesday 18 November 2026 at
-Cosmopolitan Funeral Homes on J. Camus Extension in Davao City. [@3,4] PDEA-11
+Cosmopolitan Funeral Homes on J. Camus Extension in Davao City. [@3,4,5] PDEA-11
 regional director Benjamin Gaspi and PDEA-12 regional director Charlene
 Magdurulang led the activity. [@2]
 
 Region 11's destroyed items included 24,558.3221 grams of marijuana worth
-PHP2,946,998.65 and 10 marijuana plants valued at PHP2,000. [@3] Region 12 added
-102.9583 grams of marijuana worth PHP12,355. [@3] Together the burned cannabis
+PHP2,946,998.65 and 10 marijuana plants valued at PHP2,000. [@3,5] Region 12 added
+102.9583 grams of marijuana worth PHP12,355. [@3,5] Together the burned cannabis
 came to about 24.66 kilograms of marijuana and 10 plants, which PDEA valued at
 about PHP2.96 million. [@3] The same destruction burned 1,237.7760 grams of
 shabu from Region 11, which is not counted in the cannabis figures. [@3] Region
@@ -108,5 +114,5 @@ Tagum City Regional Trial Court executive judge Sharon Rose Saracin witnessed
 the destruction, with representatives of the Department of Justice, the Public
 Attorney's Office, local government, civil society and the media. [@1] Gaspi
 said the open burning answers suspicions that confiscated drugs might return to
-the streets. [@1] Magdurulang said the joint activity showed that PDEA's
+the streets. [@1] Gaspi said the destruction sends a strong message that the anti-drug campaign does not end with arrests and that confiscated evidence is accounted for and disposed of lawfully. [@5] Magdurulang said the joint activity showed that PDEA's
 regional offices can cooperate across regions. [@2]
