@@ -85,6 +85,11 @@ sources:
     publisher: صحيفة اخبارنا
     date: 2026-11-18
     language: ar
+  - title: الكويت تضبط 4 متهمين في قضايا للاتجار بالمواد المخدرة.. فيديو
+    url: https://slaati.com/2026/11/18/p2880927.html
+    publisher: صحيفة صدى الإلكترونية
+    date: 2026-11-18
+    language: ar
 media:
   - kind: photo
     url: https://kuwaitnews.com/138939/
@@ -106,15 +111,18 @@ media:
     media_url: https://media.alanba.com.kw/articlefiles/2026/11/1385484-3.jpg?w=600
     publisher: جريدة الأنباء الكويتية
     caption: 'Third of three gallery photos published with the Al-Anbaa report on the three Kuwait drug-control cases, captioned with the seized items: over 2 kg of marijuana and hashish, shabu, 250 ''chemical'' sheets and 250 Lyrica capsules. No photo credit given.'
+open_questions:
+    - The ministry's announcement gives the 1.5 kilograms of marijuana and 150 grams of hashish as a total for all three cases and does not say which case each came from.
+    - No charges, detention decisions or court dates were reported for the four suspects.
 ---
 
 Kuwait's Criminal Security Sector, acting through the General Administration for
 Drug Control, arrested four suspects of Asian nationalities in three separate
-cases, the Interior Ministry said. [@1,3,4,6,7,8,9,10] The ministry said the men held narcotic
+cases, the Interior Ministry said. [@1,3,4,6,7,8,9,10,11] The ministry said the men held narcotic
 and psychotropic substances with intent to traffic and use them, as part of
-continuing security campaigns against drugs. [@2,3,5,7,8,9,10] In one of the cases, officers
+continuing security campaigns against drugs. [@2,3,5,7,8,9,10,11] In one of the cases, officers
 arrested a Bangladeshi national in the Farwaniya area and established that a
-person living outside Kuwait was supplying him with the material. [@1,3,5,7,8,9,10]
+person living outside Kuwait was supplying him with the material. [@1,3,5,7,8,9,10,11]
 
 The ministry put the combined seizures in the three cases at 1.5 kilograms of
 marijuana and 150 grams of hashish, 1.65 kilograms of cannabis in total. [@1,3,4,6,7,8,9,10]
@@ -124,4 +132,4 @@ capsules of the prescription drug Lyrica, together with three sensitive scales
 and empty packaging bags. [@1,3,5,7,8,10]
 
 The four suspects and all seized items were referred to the competent authority
-for the necessary legal action, the ministry said. [@2,3,4,6,7,8,9,10]
+for the necessary legal action, the ministry said. [@2,3,4,6,7,8,9,10,11]
