@@ -73,6 +73,11 @@ sources:
     publisher: Gujarat First
     date: 2026-11-18
     language: gu
+  - title: વીંછિયાના છાસિયામાંથી 3.52 કરોડનો ગાંજો પકડાયો, વાડી માલિકની ધરપકડ, પ્રથમ વખત વાવેતર કર્યાનું રટણ
+    url: https://www.aajkaaldaily.com/news/Ganja-worth-3-crore-and-52-lakh-seized-in-chhasiya-village-of-Vinchhiya
+    publisher: Aajkaal Daily
+    date: 2026-11-18
+    language: gu
 open_questions:
     - The exact date of the raid was not reported; 18 November 2026 is the publication date of the reports and is used as the incident date.
     - Accounts give slightly different weights, from 705.409 kg to 705.490 kg, and the value of 3.52 crore rupees is a police estimate; no laboratory confirmation was reported.
@@ -90,12 +95,12 @@ media:
 
 Rajkot Special Operation Group officers raided a field in Chhasia village,
 Vinchiya taluka, Rajkot district, and seized about 705 kilograms of green
-cannabis plants. [@1,2,3,4,6] The cannabis plants had been left along the edge of the field to dry, police said. [@3,5] The cannabis plants had been grown among pigeon pea and maize in the same field, according to the police account. [@5] One person was arrested in connection with the
-cultivation. [@1,2,3,4,6] The arrested man was the owner of the field, Savshibhai Bachubhai Mithapara, aged 55. [@3,5]
+cannabis plants. [@1,2,3,4,6,7] The cannabis plants had been left along the edge of the field to dry, police said. [@3,5,7] The cannabis plants had been grown among pigeon pea and maize in the same field, according to the police account. [@5] One person was arrested in connection with the
+cultivation. [@1,2,3,4,6,7] The arrested man was the owner of the field, Savshibhai Bachubhai Mithapara, aged 55. [@3,5,7] The farmer told police he had cultivated cannabis for the first time. [@7]
 
-The seized cannabis was estimated to be worth 3.52 crore rupees. [@1,2,3,5,6] Police
+The seized cannabis was estimated to be worth 3.52 crore rupees. [@1,2,3,5,6,7] Police
 acted against the accused under the Narcotic Drugs and Psychotropic Substances
-(NDPS) Act. [@1,2,3,5,6] The search was carried out under the guidance of the Rajkot Range inspector general of police and the district police chief. [@3]
+(NDPS) Act. [@1,2,3,5,6,7] The search was carried out under the guidance of the Rajkot Range inspector general of police and the district police chief. [@3]
 
 Investigators were examining whether a wider network was involved in the illegal
 cultivation. [@1,2,3,5]
