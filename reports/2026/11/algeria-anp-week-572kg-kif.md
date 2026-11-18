@@ -57,6 +57,11 @@ sources:
     publisher: Algérie Presse Service
     date: 2026-11-18
     language: fr
+  - title: الجيش الجزائري يعلن مصادرة 5 قناطير قنب الهندي و47 كيلو كوكايين فى حملة
+    url: https://www.vetogate.com/5773291
+    publisher: فيتو (Vetogate)
+    date: 2026-11-18
+    language: ar
 open_questions:
   - The army says 32 narcotrafiquants were intercepted but does not say how many were arrested, charged or detained; the figure is recorded as arrested.
   - The 5 quintals and 72 kilograms (572 kg) is a total for several interceptions during the week, and no single date or place is given for them.
@@ -72,18 +77,17 @@ open_questions:
 
 Algeria's National People's Army (ANP) said its combined detachments, working
 with the different security services, intercepted 32 narcotrafiquants, or drug
-traffickers, in operations across the military regions. [@1] The operations ran
-from 11 to 17 November 2026. [@1] The state news agency APS reported that the
+traffickers, in operations across the military regions. [@1,3] The operations ran
+from 11 to 17 November 2026. [@1,3] The state news agency APS reported that the
 detachments foiled attempts to bring more than five quintals of kif traité,
 treated cannabis, from the Moroccan border during the same week. [@2]
 
 The army said the operations stopped attempts to introduce 5 quintals and 72
-kilograms (572 kg) of kif traité coming from the borders with Morocco. [@1] They
-also seized 47 kilograms of cocaine and 844,953 psychotropic tablets. [@1] The
+kilograms (572 kg) of kif traité coming from the borders with Morocco. [@1,3] They
+also seized 47 kilograms of cocaine and 844,953 psychotropic tablets. [@1,3] The
 cocaine and psychotropic tablets are not counted as cannabis here. [@1]
 
 The results are the army's weekly operational balance for a week of operations
-by units and detachments across the military regions, not a single raid. [@1]
+by units and detachments across the military regions, not a single raid. [@1,3]
 The balance presents the interceptions as part of continuing efforts against
 narcotrafficking in the country. [@1]
-
