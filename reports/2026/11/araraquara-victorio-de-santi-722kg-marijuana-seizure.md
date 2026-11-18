@@ -83,30 +83,30 @@ sources:
     publisher: g1 São Carlos e Araraquara
     date: 2026-11-17
     language: pt
-open_questions:
-  - Portal Morada says a red Fiat Argo was parked in front of the house and its driver fled as police approached, while g1 says a suspect inside the property escaped through the back; neither has been identified or located.
-  - g1 describes the 722 kg total as including portions of hashish, while the police statement counts only marijuana bricks and packages, so the exact composition of the seized total is uncertain.
-  - The account rests on the PMESP statement and reprints of it, and no arrests, charges or court outcome have been reported.
+  - title: PM apreende 722 kg de maconha apreendidos em Araraquara
+    url: https://policialpadrao.com.br/722-kg-de-maconha-apreendidos-em-araraquara-pm-apreende-em-imovel-deposito/
+    publisher: Policial Padrão
+    date: 2026-11-17
+    language: pt
 ---
 
 Military police officers from the 11th Battalion of Special Police Actions
 (BAEP), with support from the Canine Unit, seized more than 722 kg of marijuana
 on Tuesday 17 November 2026 at a property in the Victório De Santi Housing
-Complex in Araraquara, in the interior of São Paulo. [@1] The teams went to the
+Complex in Araraquara, in the interior of São Paulo. [@1,4] The teams went to the
 property after an anonymous report through the 181 hotline that the house was
 being used to store drugs and weapons. [@2]
 
 During the search officers located 750 bricks of marijuana, weighing 662.151 kg,
 and 94 packages of Colombian-type marijuana, weighing 60.16 kg, totaling 722.311
-kg. [@1] Officers also seized a .38 caliber revolver, four intact rounds of
+kg. [@1,4] Officers also seized a .38 caliber revolver, four intact rounds of
 ammunition, one spent cartridge, four precision scales, about six thousand empty
 plastic microtubes, six tubes of poppers, a Honda CG 125 motorcycle and a
-notebook with notes related to drug trafficking. [@1]
+notebook with notes related to drug trafficking. [@1,4]
 
 All the material was sent to the Central Police Station in Araraquara, where the
 incident was registered as drug trafficking by unknown authors; no arrests were
-made. [@1] A suspect who was in the property when police arrived fled through
+made. [@1,4] A suspect who was in the property when police arrived fled through
 the back and had not been located. [@3] The g1 account describes the 722 kg
 total as including portions of hashish alongside the common and Colombian-type
 marijuana. [@3]
-
