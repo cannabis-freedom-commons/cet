@@ -53,6 +53,11 @@ media:
     media_url: https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/11/18/6afdc645e6eff.r_d.1000-1030-6000.jpeg.webp
     publisher: El Debate
     caption: 'Marijuana plants growing in the open plot in La Carlota that the Guardia Civil dismantled. Photo: La Voz'
+  - kind: photo
+    url: https://www.abc.es/espana/andalucia/cordoba/100-kilos-marihuana-plantacion-ilegal-carlota-vecinos-20261118142446-nts.html
+    media_url: https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/18/FOTOGRAFIA%20I-RMVB9UxHlAZ0J1lQfyM4NmL-1200x840@diario_abc.jpg
+    publisher: ABC
+    caption: 'Marijuana plants growing on the open plot in La Carlota found by the Guardia Civil, in the photograph published with the ABC report. Photo: ABC'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2e642393d00e1d2a5e12d57bdda2b230
@@ -93,6 +98,11 @@ sources:
     publisher: El Confidencial
     date: 2026-11-18
     language: es
+  - title: 'Más de 100 kilos de marihuana en una plantación ilegal de La Carlota: los vecinos avisaron a la Guardia Civil por el olor'
+    url: https://www.abc.es/espana/andalucia/cordoba/100-kilos-marihuana-plantacion-ilegal-carlota-vecinos-20261118142446-nts.html
+    publisher: ABC
+    date: 2026-11-18
+    language: es
 open_questions:
     - The Guardia Civil statement gives only October 2026 for the discovery; no exact date for the checks or the uprooting of the plants was published.
     - No charge, detention or court outcome was reported; the identified person was recorded as under investigation only.
@@ -100,19 +110,19 @@ open_questions:
 
 The Guardia Civil, with the help of La Carlota local police, investigated one
 person as the alleged perpetrator of a public-health offence for cultivating and
-producing drugs. [@1,4,5,6,7] In October 2026, officers from the La Victoria and La
+producing drugs. [@1,4,5,6,7,8] In October 2026, officers from the La Victoria and La
 Carlota posts were called in by the local police after a strong smell of
-marijuana was noticed near several homes in the town. [@1,3,4,5,6,7]
+marijuana was noticed near several homes in the town. [@1,3,4,5,6,7,8]
 
 After checks and inspections of nearby land, officers found the marijuana
 plantation growing on open rustic land with no fence or other barrier to access.
-[@1,4,5,6,7] The plot held 16 marijuana plants, 14 of them in an advanced state of
+[@1,4,5,6,7,8] The plot held 16 marijuana plants, 14 of them in an advanced state of
 flowering, reaching 1.70 metres tall and fitted with a drip-irrigation system
-ensuring a constant water supply. [@1,3,4,5,6,7] Officers dismantled the plantation, with
-the freshly cut plants weighing 104 kilograms when green. [@2,3,4,5,6,7]
+ensuring a constant water supply. [@1,3,4,5,6,7,8] Officers dismantled the plantation, with
+the freshly cut plants weighing 104 kilograms when green. [@2,3,4,5,6,7,8]
 
 Following inquiries, the Guardia Civil identified the person allegedly
 responsible for the plot and recorded them as under investigation for
-cultivation and production of drugs. [@1,3,4,5,6,7] The proceedings were sent to the
+cultivation and production of drugs. [@1,3,4,5,6,7,8] The proceedings were sent to the
 competent judicial authority, with the seized plants held at the court's
-disposal for later analysis and destruction. [@1,3,4,5,6,7]
+disposal for later analysis and destruction. [@1,3,4,5,6,7,8]
