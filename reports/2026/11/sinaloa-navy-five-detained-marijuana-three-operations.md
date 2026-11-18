@@ -37,6 +37,16 @@ media:
     media_url: https://assets.debate.com.mx/__export/1795012960895/sites/debate/img/2026/11/18/detenidos-sinaloa-decomisos.jpg_1134481316.jpg
     publisher: El Debate Sinaloa
     caption: 'Detainees and seized packages from the Sinaloa operations. Photo: Cortesía'
+  - kind: photo
+    url: https://www.noroeste.com.mx/seguridad/asegura-marina-droga-y-motocicletas-detiene-a-cinco-personas-en-sinaloa-AF27443223
+    media_url: https://www.noroeste.com.mx/binrepository/768x576/0c0/768d512/none/12707/PGHL/whatsapp-image-2026-11-18-at-07-32_1-15045878_20261118082012.jpg
+    publisher: Noroeste
+    caption: 'Lead image on the Noroeste report of the five detentions and marijuana seizures in Sinaloa, credited with the other photos to Semar. Photo: Semar'
+  - kind: photo
+    url: https://www.noroeste.com.mx/seguridad/asegura-marina-droga-y-motocicletas-detiene-a-cinco-personas-en-sinaloa-AF27443223
+    media_url: https://www.noroeste.com.mx/binrepository/1600x1200/0c0/0d0/none/12707/VGYV/whatsapp-image-2026-11-18-at-07-32_1-15045887_20261118082137.jpg
+    publisher: Noroeste
+    caption: 'Semar handout photo from the Noroeste gallery on the three Sinaloa operations. Photo: Semar'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8f9b7e0ce4b93d853c1e40d59e7d87d2
@@ -57,31 +67,37 @@ sources:
     publisher: Noticiero Altavoz
     date: 2026-11-18
     language: es
+  - title: Asegura Marina droga y motocicletas; detiene a cinco personas en Sinaloa
+    url: https://www.noroeste.com.mx/seguridad/asegura-marina-droga-y-motocicletas-detiene-a-cinco-personas-en-sinaloa-AF27443223
+    publisher: Noroeste
+    date: 2026-11-18
+    language: es
 open_questions:
-  - No weight was published for the bags and packages seized, so no cannabis quantity is recorded.
-  - The reports give no combined count of the bags and packages beyond two bags from the cargo vehicle, one more near Nuevo Santo Grande and several more seized from the motorcyclists.
-  - No detention was reported in the cargo-vehicle inspection; the five detainees are accounted for as the three arrested near Nuevo Santo Grande and the two intercepted motorcyclists.
-  - No names, charges or court outcome were reported; the case was placed before the prosecutor for investigation.
-  - 'The three accounts do not agree on timing: this one describes the third detention as a deterrence and surveillance patrol without saying whether it happened at the same time as the other two operations.'
+    - No weight was published for the bags and packages seized, so no cannabis quantity is recorded.
+    - The reports give no combined count of the bags and packages beyond two bags from the cargo vehicle, one more near Nuevo Santo Grande and several more seized from the motorcyclists.
+    - No detention was reported in the cargo-vehicle inspection; the five detainees are accounted for as the three arrested near Nuevo Santo Grande and the two intercepted motorcyclists.
+    - No names, charges or court outcome were reported; the case was placed before the prosecutor for investigation.
+    - 'The three accounts do not agree on timing: this one describes the third detention as a deterrence and surveillance patrol without saying whether it happened at the same time as the other two operations.'
+    - The Fourth Naval Region statement gave no location for the cargo-vehicle inspection or for the third operation, in which the two motorcyclists were detained.
 ---
 
 On 18 November 2026, Mexico's Navy, acting through the Fourth Naval Region,
 detained five alleged offenders and seized bags of suspected marijuana and
-vehicles in three operations in Sinaloa. [@1,3] In the port city of Mazatlán,
+vehicles in three operations in Sinaloa. [@1,3,4] In the port city of Mazatlán,
 Naval Port Protection Unit officers stopped a cargo vehicle during a routine
 preventive inspection. [@1,3] With the support of a trained naval detection dog,
-the officers found two bags of dry herb identical to marijuana. [@1,3] Near the
+the officers found two bags of dry herb identical to marijuana. [@1,3,4] Near the
 village of Nuevo Santo Grande in Elota municipality, armed-forces personnel
 arrested three people and seized another bag of dry herb with the properties of
-the drug during land surveillance patrols. [@1,3]
+the drug during land surveillance patrols. [@1,3,4]
 
 In a third simultaneous sweep in the state, naval personnel intercepted two men,
 taking them into custody with two motorcycles and more packages of suspected
 marijuana. [@1,3] Three of the detainees were located during patrols near Nuevo
 Santo Grande in Elota. [@2] In the third encounter, two men were detained and
-two motorcycles and more bags of marijuana-like dry herb were seized. [@2]
+two motorcycles and more bags of marijuana-like dry herb were seized. [@2,4]
 
 Naval personnel read the five men their rights and transferred them and
-everything seized to the public prosecutor's office. [@1,3] The ministerial
+everything seized to the public prosecutor's office. [@1,3,4] The ministerial
 authorities took legal custody of the case to open and consolidate the
 respective investigation files. [@1]
