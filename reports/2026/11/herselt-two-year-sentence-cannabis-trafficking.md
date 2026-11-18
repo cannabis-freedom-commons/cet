@@ -57,30 +57,35 @@ sources:
     publisher: Nieuwsblad
     date: 2026-11-17
     language: nl
+  - title: Dertiger uit Herselt krijgt twee jaar cel voor handel in cannabis, cocaïne en MDMA
+    url: https://www.gva.be/regio/antwerpen/kempen/herselt/dertiger-uit-herselt-krijgt-twee-jaar-cel-voor-handel-in-cannabis-cocane-en-mdma/164660331.html
+    publisher: Gazet van Antwerpen
+    date: 2026-11-17
+    language: nl
 open_questions:
-  - The sentencing date is not stated; 17 November 2026 is the article's publication date and is used as the incident date. The arrest was on 28 December 2025.
-  - The report gives 1.78 kilograms of cannabis in the home and 67.4 grams in the backpack, totalling 1.8474 kilograms, while the headline says nearly two kilograms.
-  - The 10.4 grams of cocaine and 45.2 grams of MDMA found in the same search are excluded from the cannabis figures.
-  - The account rests on a single news report, with no separate court judgment or police statement and no word on an appeal.
+    - The sentencing date is not stated; 17 November 2026 is the article's publication date and is used as the incident date. The arrest was on 28 December 2025.
+    - The report gives 1.78 kilograms of cannabis in the home and 67.4 grams in the backpack, totalling 1.8474 kilograms, while the headline says nearly two kilograms.
+    - The 10.4 grams of cocaine and 45.2 grams of MDMA found in the same search are excluded from the cannabis figures.
+    - The account rests on a single news report, with no separate court judgment or police statement and no word on an appeal.
+    - The GVA and Nieuwsblad articles carry the same text by the same author, so they are not independent accounts.
 ---
 
 The correctional court in Turnhout sentenced a 36-year-old man from Herselt to
-two years in prison for selling cannabis, cocaine and MDMA. [@1] He kept nearly
-two kilograms of cannabis hidden in his home. [@1]
+two years in prison for selling cannabis, cocaine and MDMA. [@1,2] He kept nearly
+two kilograms of cannabis hidden in his home. [@1,2]
 
 Police tried to check the defendant, identified only as R.D.M., aged 36, at a
 bus stop in Herselt on 28 December 2025 because he was already known for drug
-offences; he ran off but officers arrested him. [@1] In his backpack officers
+offences; he ran off but officers arrested him. [@1,2] In his backpack officers
 found an envelope holding 3,540 euros, a small bag of 10.4 grams of cocaine and
-three bags containing 67.4 grams of cannabis in total. [@1] During a search of
+three bags containing 67.4 grams of cannabis in total. [@1,2] During a search of
 his home in Herselt inspectors found 1.78 kilograms of cannabis, 45.2 grams of
-MDMA, a precision scale and empty grip bags. [@1]
+MDMA, a precision scale and empty grip bags. [@1,2]
 
 Investigators who read his phone found drug-related messages, including ones in
 which he sold MDMA or ‘mollie’, photos of money and drugs, and seven videos from
-December 2025 showing him reaching into bags of cannabis. [@1] He had three
+December 2025 showing him reaching into bags of cannabis. [@1,2] He had three
 previous convictions, including for drug offences, and had cut off his ankle
 bracelet after his last conviction, when he was under electronic supervision.
-[@1] The court imposed an effective two-year prison sentence and a fine of 6,250
-euros. [@1]
-
+[@1,2] The court imposed an effective two-year prison sentence and a fine of 6,250
+euros. [@1,2]
