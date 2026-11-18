@@ -48,6 +48,21 @@ sources:
     publisher: Българска телеграфна агенция (БТА)
     date: 2026-11-18
     language: bg
+  - title: Двама души са задържани при полицейски проверки в Петричко за притежание на наркотици
+    url: https://utroruse.com/amp/1339947/
+    publisher: Утро Русе
+    date: 2026-11-18
+    language: bg
+  - title: 'Арести в Петричко: Мъж с канабис и дрогирана шофьорка с кокаин попаднаха в ареста'
+    url: https://eurocom.bg/2026/11/18/aresti-v-petrichko-mazh-s-kanabis-i-drogirana-shofyorka-s-kokain-popadnaha-v-aresta/
+    publisher: Евроком
+    date: 2026-11-18
+    language: bg
+  - title: Информационен бюлетин за 18.11.2026 г.
+    url: https://mvr.bg/blagoevgrad/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D0%BD-%D1%86%D0%B5%D0%BD%D1%82%D1%8A%D1%80/%D0%BF%D1%80%D0%B5%D1%81%D1%86%D0%B5%D0%BD%D1%82%D1%8A%D1%80/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D0%BD-%D0%B1%D1%8E%D0%BB%D0%B5%D1%82%D0%B8%D0%BD/145241
+    publisher: Областна дирекция на МВР - Благоевград
+    date: 2026-11-18
+    language: bg
 open_questions:
   - The material was described only as about 2.29 grams of grassy mass that tested positive in a field test; no laboratory confirmation of cannabis was reported.
   - The man was not named and no charge, plea or court outcome was reported; the case was at the pre-trial stage.
@@ -59,13 +74,12 @@ open_questions:
 
 The press centre of the Blagoevgrad regional police directorate said the
 detention came during police checks carried out in the Petrich area on 17
-November 2026. [@1] Criminal police officers from the Petrich regional police
+November 2026. [@1,3] Criminal police officers from the Petrich regional police
 department found a plastic bag containing about 2.29 grams of plant material
-when they checked a home in the village of Kolarovo. [@1] The home was lived in
-by a 25-year-old local resident. [@1] A field test carried out on the plant
-material gave a positive result for cannabis. [@2] Police gave the amount as
+when they checked a home in the village of Kolarovo. [@1,3] The home was lived in
+by a 25-year-old local resident. [@1,4] A field test carried out on the plant
+material gave a positive result for cannabis. [@2,5] Police gave the amount as
 about 2.29 grams rather than an exact measured weight. [@1]
 
-The man was detained for up to 24 hours. [@1] Pre-trial proceedings were opened
-over the case. [@2]
-
+The man was detained for up to 24 hours. [@1,5] Pre-trial proceedings were opened
+over the case. [@2,3]
