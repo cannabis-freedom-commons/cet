@@ -58,6 +58,16 @@ media:
     media_url: https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/18/FOTOGRAFIA%20I-RMVB9UxHlAZ0J1lQfyM4NmL-1200x840@diario_abc.jpg
     publisher: ABC
     caption: 'Marijuana plants growing on the open plot in La Carlota found by the Guardia Civil, in the photograph published with the ABC report. Photo: ABC'
+  - kind: photo
+    url: https://www.diariocordoba.com/cordoba/2026/11/18/guardia-civil-investiga-vecino-carlota-136579891.html
+    media_url: https://estaticos-cdn.prensaiberica.es/clip/f91a81e5-baf0-466f-8a2a-b7ecbd8d4fdb_16-9-discover-aspect-ratio_default_1532839.webp
+    publisher: Diario Córdoba
+    caption: 'Marijuana plantation dismantled by the Guardia Civil in La Carlota, in the photograph published with the Diario Córdoba report. Photo: Diario Córdoba'
+  - kind: photo
+    url: https://www.diariocordoba.com/cordoba/2026/11/18/guardia-civil-investiga-vecino-carlota-136579891.html
+    media_url: https://estaticos-cdn.prensaiberica.es/clip/b9bd0a37-7719-41f0-94ef-2a4d3dc5e546_source-aspect-ratio_640w_0_x750y666.webp
+    publisher: Diario Córdoba
+    caption: 'One of the marijuana plants seized by the Guardia Civil in La Carlota, in the photograph published with the Diario Córdoba report. Photo: Diario Córdoba'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2e642393d00e1d2a5e12d57bdda2b230
@@ -103,6 +113,11 @@ sources:
     publisher: ABC
     date: 2026-11-18
     language: es
+  - title: La Guardia Civil investiga a un vecino de La Carlota tras localizar 16 plantas de marihuana de hasta 1,70 metros en un terreno sin vallar
+    url: https://www.diariocordoba.com/cordoba/2026/11/18/guardia-civil-investiga-vecino-carlota-136579891.html
+    publisher: Diario Córdoba
+    date: 2026-11-18
+    language: es
 open_questions:
     - The Guardia Civil statement gives only October 2026 for the discovery; no exact date for the checks or the uprooting of the plants was published.
     - No charge, detention or court outcome was reported; the identified person was recorded as under investigation only.
@@ -110,13 +125,13 @@ open_questions:
 
 The Guardia Civil, with the help of La Carlota local police, investigated one
 person as the alleged perpetrator of a public-health offence for cultivating and
-producing drugs. [@1,4,5,6,7,8] In October 2026, officers from the La Victoria and La
+producing drugs. [@1,4,5,6,7,8,9] In October 2026, officers from the La Victoria and La
 Carlota posts were called in by the local police after a strong smell of
-marijuana was noticed near several homes in the town. [@1,3,4,5,6,7,8]
+marijuana was noticed near several homes in the town. [@1,3,4,5,6,7,8,9]
 
 After checks and inspections of nearby land, officers found the marijuana
 plantation growing on open rustic land with no fence or other barrier to access.
-[@1,4,5,6,7,8] The plot held 16 marijuana plants, 14 of them in an advanced state of
+[@1,4,5,6,7,8,9] The plot held 16 marijuana plants, 14 of them in an advanced state of
 flowering, reaching 1.70 metres tall and fitted with a drip-irrigation system
 ensuring a constant water supply. [@1,3,4,5,6,7,8] Officers dismantled the plantation, with
 the freshly cut plants weighing 104 kilograms when green. [@2,3,4,5,6,7,8]
@@ -125,4 +140,4 @@ Following inquiries, the Guardia Civil identified the person allegedly
 responsible for the plot and recorded them as under investigation for
 cultivation and production of drugs. [@1,3,4,5,6,7,8] The proceedings were sent to the
 competent judicial authority, with the seized plants held at the court's
-disposal for later analysis and destruction. [@1,3,4,5,6,7,8]
+disposal for later analysis and destruction. [@1,3,4,5,6,7,8,9]
