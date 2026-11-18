@@ -58,15 +58,16 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-17
     language: hi
-open_questions:
-  - The substance was described only as material resembling ganja; no laboratory confirmation was reported.
-  - No charge, court appearance or outcome beyond the registration of case 58/26 was reported.
-  - The alleged co-accused Vikas Kumar Pandey was not arrested, and no further action against him was reported.
+  - title: 6 किलो गांजे के साथ ओडिशा का युवक गिरफ्तार
+    url: https://www.bhaskar.com/amp/local/bihar/aurangabad/news/odisha-youth-arrested-with-6-kg-of-ganja-dbp-139719512.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-18
+    language: hi
 ---
 
 Officers of the Railway Protection Force, the state railway police and a Narcos
 team arrested one ganja smuggler in a joint operation at Nabinagar railway
-station. [@1] The man was identified as Kishan Kumar Kanhar, 35, a resident of
+station. [@1,2] The man was identified as Kishan Kumar Kanhar, 35, a resident of
 Tarapodoro village in the Phulbani Sadar police station area of Odisha's
 Kandhamal district. [@1]
 
@@ -78,14 +79,13 @@ six packets wrapped in khaki cello tape holding a substance resembling ganja
 with a total weight of 6.063 kilograms, and the team also seized a mobile phone.
 [@1]
 
-The seized ganja was estimated to be worth 303,150 rupees. [@1] During
+The seized ganja was estimated to be worth 303,150 rupees. [@1,2] During
 questioning Kanhar said he was carrying the ganja from Jharsuguda to Bhabhua
 Road. [@1] He said a man named Vikas Kumar Pandey had told him to deliver the
 ganja to a designated place. [@1] Police tried to catch the man whose number
 repeatedly called his mobile but could not arrest him. [@1] After the Nabinagar
 area officer Parikshit Kumar arrived, the search and seizure were completed with
-videography. [@1] RPF inspector Ram Vilas Ram seized the ganja and the mobile
+videography. [@1,2] RPF inspector Ram Vilas Ram seized the ganja and the mobile
 phone at 12:40 and arrested Kanhar at 12:50. [@1] A case numbered 58/26 was
 registered at the Sonnagar state railway police station on the inspector's
 written complaint. [@1]
-
