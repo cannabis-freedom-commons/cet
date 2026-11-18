@@ -87,18 +87,23 @@ sources:
     publisher: El Periódico Mediterráneo
     date: 2026-11-18
     language: es
+  - title: Prisión provisional para un hombre detenido en Onda tras intervenirle 72 kilos de hachís
+    url: https://www.ondacero.es/emisoras/comunidad-valenciana/castellon/noticias/prision-provisional-hombre-detenido-onda-intervenirle-72-kilos-hachis_202611186afda812f6b335433bb4a570.html
+    publisher: Onda Cero
+    date: 2026-11-18
+    language: es
 ---
 
 Guardia Civil officers arrested a 49-year-old man in Onda, in the province of
-Castellón, on suspicion of a crime against public health. [@1,4,5,6] The arrest
+Castellón, on suspicion of a crime against public health. [@1,4,5,6,7] The arrest
 followed a search of a home in the town where officers found 72 kilograms of
-hashish. [@2,4,5,6]
+hashish. [@2,4,5,6,7]
 
 During the search officers also seized 4,400 euros in cash, several mobile
-phones and two vehicles. [@1,4,5,6] The operation was carried out by the Guardia
-Civil's Onda unit within its investigations into drug trafficking. [@1,5] The
-force said the hashish was believed to be intended for distribution. [@1,4,5,6]
+phones and two vehicles. [@1,4,5,6,7] The operation was carried out by the Guardia
+Civil's Onda unit within its investigations into drug trafficking. [@1,5,7] The
+force said the hashish was believed to be intended for distribution. [@1,4,5,6,7]
 
 The man was brought before the civil and investigation section of the Tribunal
-de Instancia of Nules, court number 5. [@3,5,6] The court ordered him held in
-provisional prison while the case is investigated. [@2,4,5,6]
+de Instancia of Nules, court number 5. [@3,5,6,7] The court ordered him held in
+provisional prison while the case is investigated. [@2,4,5,6,7]
