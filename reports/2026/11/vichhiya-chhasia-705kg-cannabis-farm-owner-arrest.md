@@ -48,6 +48,11 @@ sources:
     url: https://english.loktej.com/article/34795/raid-on-illegal-cannabis-cultivation-in-vinchiya--rajkot--705-kilograms-of-cannabis-worth-%E2%82%B93-52-crores-seized
     publisher: Loktej English
     date: 2026-11-18
+  - title: राजकोट के विंछिया में गांजे की अवैध खेती का भंडाफोड़, 3.52 करोड़ रुपये का 705 किलो गांजा जब्त
+    url: https://www.loktej.com/article/154496/illegal-cultivation-of-ganja-busted-in-vinchhiya-of-rajkot-705
+    publisher: Loktej
+    date: 2026-11-18
+    language: hi
 open_questions:
   - The exact date of the raid was not reported; 18 November 2026 is the publication date and is used as the incident date.
   - The weight is given as approximately 705 kilograms and the value as an estimate of 3.52 crore rupees, with no laboratory confirmation reported.
@@ -57,13 +62,12 @@ open_questions:
 
 Rajkot Special Operation Group officers raided a field in Chhasia village,
 Vinchiya taluka, Rajkot district, and seized about 705 kilograms of green
-cannabis plants. [@1] One person was arrested in connection with the
-cultivation. [@1]
+cannabis plants. [@1,2] One person was arrested in connection with the
+cultivation. [@1,2]
 
-The seized cannabis was estimated to be worth 3.52 crore rupees. [@1] Police
+The seized cannabis was estimated to be worth 3.52 crore rupees. [@1,2] Police
 acted against the accused under the Narcotic Drugs and Psychotropic Substances
-(NDPS) Act. [@1]
+(NDPS) Act. [@1,2]
 
 Investigators were examining whether a wider network was involved in the illegal
-cultivation. [@1]
-
+cultivation. [@1,2]
