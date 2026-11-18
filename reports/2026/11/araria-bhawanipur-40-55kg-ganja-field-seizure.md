@@ -44,31 +44,42 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-17
     language: hi
+  - title: अररिया में भारत-नेपाल सीमा के पास खेत से 40.550 किलो गांजा बरामद, एसएसबी और पुलिस की संयुक्त कार्रवाई
+    url: https://www.prabhatkhabar.com/state/bihar/araria/ssb-police-seize-40kg-ganja-smuggler-absconding
+    publisher: Prabhat Khabar
+    date: 2026-11-17
+    language: hi
 open_questions:
   - The reports date the operation only as Tuesday; 17 November 2026, a Tuesday and the publication date, is used as the incident date.
   - It was not reported whether the trafficker who fled was later identified or arrested.
   - No estimate of the ganja's street value or laboratory confirmation of the seized substance was published.
   - The first information report number and the statutory sections invoked were not reported.
+  - 'Left out, as its quotation was not found in Prabhat Khabar: The field searched was close to border pillar 190/05.'
+media:
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/bihar/araria/ssb-police-seize-40kg-ganja-smuggler-absconding
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/17/1794921142765/sizes/17ara_m_16_17112026_69-222cfc-hero.webp
+    publisher: Prabhat Khabar
+    caption: 'Police officials showing the seized ganja. Photo: Prabhat Khabar Network'
 ---
 
 A joint team of the Sashastra Seema Bal, India's border guard, and Phulkaha
 police seized 40 kilograms 550 grams of ganja hidden in two sacks in a paddy
-field in Bhawanipur village, Narpatganj block, Araria district, Bihar. [@1] The
-trafficker fled from the spot during the operation. [@1] Dainik Bhaskar likewise
+field in Bhawanipur village, Narpatganj block, Araria district, Bihar. [@1,3] The
+trafficker fled from the spot during the operation. [@1,3] Dainik Bhaskar likewise
 reports that the joint team recovered 40 kg 550 g of ganja from the paddy field
 in Bhawanipur on Tuesday and that the trafficker got away. [@2]
 
 Acting on a secret tip, police cordoned off a field by the river in ward number
-three of Bhawanipur and searched it, finding the ganja in two sacks. [@1] The
+three of Bhawanipur and searched it, finding the ganja in two sacks. [@1,3] The
 field searched was close to border pillar 190/05. [@1] Dainik Bhaskar places the
 field about 3.5 kilometres inside Indian territory from border pillar 190/05.
 [@2] The raiding party was drawn from SSB's 56th Battalion at Bathnaha and from
-Phulkaha police station. [@2]
+Phulkaha police station. [@2] The joint team comprised four SSB jawans led by a sub-inspector (general) and four Bihar policemen including a sub-inspector, assembled after Fulka police contacted the SSB outer border post at 'I' Samvay. [@3]
 
 Officers prepared a seizure list for the recovered ganja and handed it over to
-Phulkaha police. [@1] Phulkaha station house officer Vikas Kumar Maurya said a
+Phulkaha police. [@1,3] Phulkaha station house officer Vikas Kumar Maurya said a
 first information report had been registered against the unknown trafficker and
-further action was under way. [@1] Maurya told Dainik Bhaskar that legal
+further action was under way. [@1,3] Maurya told Dainik Bhaskar that legal
 proceedings had begun and police were trying to identify and arrest those
 responsible. [@2]
-
