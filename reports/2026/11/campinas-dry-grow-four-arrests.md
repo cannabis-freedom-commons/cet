@@ -58,24 +58,32 @@ sources:
     publisher: Midiamax
     date: 2026-11-17
     language: pt
+  - title: '‘Supermaconha’: operação prende quatro suspeitos de produzir droga com alto THC'
+    url: https://vtvnews.com.br/noticias/policia/supermaconha-operacao-prisoes-campinas-regiao-lg/
+    publisher: VTV News
+    date: 2026-11-17
+    language: pt
+open_questions:
+    - No weight or count of the high-THC products seized, and no plant count, was reported.
+    - No decision on pre-trial detention or any charge against the four arrested was reported.
 ---
 
 Police in Campinas, Sumaré and Hortolândia arrested four people in flagrante
 during Operação Dry Grow, an operation against the production, distribution and
 sale of cannabis derivatives with a high concentration of THC, the compound
-responsible for the drug's psychoactive effects. [@1,3] Investigators said the
+responsible for the drug's psychoactive effects. [@1,3,4] The four arrests were made on Tuesday 17 November 2026. [@4] Investigators said the
 high-potency cannabis was not only manufactured but also sold and supplied to
-drug-selling points. [@2] They suspected that properties and companies formed
-part of the criminal group's structure. [@1]
+drug-selling points. [@2,4] They suspected that properties and companies formed
+part of the criminal group's structure. [@1,4]
 
 Officers served seven search and seizure warrants, four in Sumaré, two in
-Campinas and one in Hortolândia. [@1,3] The operation aimed to establish how the
-organisation worked and identify others involved. [@1]
+Campinas and one in Hortolândia. [@1,3,4] The operation aimed to establish how the
+organisation worked and identify others involved. [@1,4]
 
 The action was carried out by Ficco, the integrated force against organised
 crime, together with the Military Police's 1st Baep special-actions battalion
-and the Civil Police's Deinter 2. [@1] Ficco Campinas comprises the Federal
+and the Civil Police's Deinter 2. [@1,4] Ficco Campinas comprises the Federal
 Police, the Federal Highway Police, the Civil Police, the Military Police and
-Paulínia's municipal guard, with support from the prosecutors' Gaeco unit. [@1,3]
+Paulínia's municipal guard, with support from the prosecutors' Gaeco unit. [@1,3,4]
 A Federal Police handout showed seized packaging bearing the image of Colombian
 trafficker Pablo Escobar. [@1]
