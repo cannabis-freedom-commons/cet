@@ -52,6 +52,21 @@ media:
     media_url: https://www.hariansib.com/cdn/uploads/images/2026/11/_7567_46-Hari-Kerja--Polda-Sumut-Sita-30-34-Ton-Narkoba--1-311-Tersangka-dan-7-Bandar-Ditangkap.png
     publisher: Harian SIB
     caption: 'North Sumatra police chief Inspector General Sonny Irawan displays seized drug evidence at Polda Sumut headquarters in Medan on 16 November 2026. Photo: harianSIB.com/Tumpal Manik'
+  - kind: photo
+    url: https://mediahub.polri.go.id/in/image/detail/612584-46-hari-polda-sumut-tangkap-1311-tersangka-kasus-narkoba
+    media_url: https://mediahub.polri.go.id/_next/image?url=https%3A%2F%2Fmediahub.polri.go.id%2Fapi%2Fv2%2Fmedia%2Fdoc-viewer%2F1937554%3Fticket%3Dnull&w=3840&q=75
+    publisher: Mediahub Polri
+    caption: 'A photograph published by Indonesia''s police Mediahub with Polda Sumut''s statement announcing the 46-day drug-operation results in North Sumatra. Photo: Mediahub Polri / Polda Sumut'
+  - kind: photo
+    url: https://mediahub.polri.go.id/in/image/detail/612584-46-hari-polda-sumut-tangkap-1311-tersangka-kasus-narkoba
+    media_url: https://mediahub.polri.go.id/_next/image?url=https%3A%2F%2Fmediahub.polri.go.id%2Fapi%2Fv2%2Fmedia%2Fdoc-viewer%2F1937555%3Fticket%3Dnull&w=3840&q=75
+    publisher: Mediahub Polri
+    caption: 'A second photograph in the Mediahub Polri gallery published with the North Sumatra police statement on the 46-day drug crackdown. Photo: Mediahub Polri / Polda Sumut'
+  - kind: photo
+    url: https://mediahub.polri.go.id/in/image/detail/612584-46-hari-polda-sumut-tangkap-1311-tersangka-kasus-narkoba
+    media_url: https://mediahub.polri.go.id/_next/image?url=https%3A%2F%2Fmediahub.polri.go.id%2Fapi%2Fv2%2Fmedia%2Fdoc-viewer%2F1937556%3Fticket%3Dnull&w=3840&q=75
+    publisher: Mediahub Polri
+    caption: 'A third photograph in the Mediahub Polri gallery published with the North Sumatra police statement on the 46-day drug crackdown. Photo: Mediahub Polri / Polda Sumut'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 4d77dcb435f0c13e404f7e7e54e115ac
@@ -141,6 +156,11 @@ sources:
     publisher: LIDIK.ID
     date: 2026-11-17
     language: id
+  - title: 46 Hari Polda Sumut Tangkap 1.311 Tersangka Kasus Narkoba
+    url: https://mediahub.polri.go.id/in/image/detail/612584-46-hari-polda-sumut-tangkap-1311-tersangka-kasus-narkoba
+    publisher: Mediahub Polri
+    date: 2026-11-18
+    language: id
 open_questions:
   - Left out arrested, as no supporting quotation was given.
   - Left out kg seized, as no supporting quotation was given.
@@ -149,21 +169,21 @@ open_questions:
 
 North Sumatra police said they uncovered 981 drug cases involving 1,311 suspects
 and seized 30.34 tons of various drugs and 23,868 milliliters of
-narcotics-containing liquid over 46 days. [@1,2,4,5,8,9,10,11,12,13,16,17] Police said the enforcement
-operations ran from 1 October to 15 November 2026. [@1,2,3,5,6,7,8,9,10,11,14,15,16,17] In 1,019 operations officers uncovered 301 cases and detained 397 suspects. [@3,7,15,16] Polda Sumut also intensified Operation Sarang Narkoba during the same period. [@3,16] North Sumatra police
+narcotics-containing liquid over 46 days. [@1,2,4,5,8,9,10,11,12,13,16,17,18] Police said the enforcement
+operations ran from 1 October to 15 November 2026. [@1,2,3,5,6,7,8,9,10,11,14,15,16,17] In 1,019 operations officers uncovered 301 cases and detained 397 suspects. [@3,7,15,16,18] Polda Sumut also intensified Operation Sarang Narkoba during the same period. [@3,16,18] North Sumatra police
 chief Inspector General Sonny Irawan announced the results on 16 November 2026
 at the North Sumatra police headquarters in Medan. [@1,4,5,6,7,8,10,12,16,17]
 
 From those operations, police seized 172 kilograms of methamphetamine, 157
 kilograms of cannabis, 150,012 cannabis plants, 30,510 ecstasy pills and 23,868
-milliliters of narcotics-containing liquid. [@1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17] Those operations seized 84,685.11 grams of methamphetamine, 57,284.08 grams of cannabis, 14 cannabis plants, 321 ecstasy pills, 3,673 etomidate vapes and Rp645 million in cash. [@3,16] Police also seized Rp1.2
-billion in cash and detained seven suspects alleged to be dealers. [@1,3,4,5,6,8,9,10,11,13,14,15,16,17] The Rp1.2 billion seized is part of three money-laundering cases that police said remain under investigation. [@4] Officers also dismantled and burned 119 barracks or huts used for drug abuse and distribution. [@3,7,15,16] Officers also took a rehabilitative approach to 535 people who tested positive for drugs on urine tests but were found carrying no drug evidence. [@3,7,16] Police
+milliliters of narcotics-containing liquid. [@1,2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18] Those operations seized 84,685.11 grams of methamphetamine, 57,284.08 grams of cannabis, 14 cannabis plants, 321 ecstasy pills, 3,673 etomidate vapes and Rp645 million in cash. [@3,16,18] Police also seized Rp1.2
+billion in cash and detained seven suspects alleged to be dealers. [@1,3,4,5,6,8,9,10,11,13,14,15,16,17,18] The Rp1.2 billion seized is part of three money-laundering cases that police said remain under investigation. [@4] Officers also dismantled and burned 119 barracks or huts used for drug abuse and distribution. [@3,7,15,16,18] Officers also took a rehabilitative approach to 535 people who tested positive for drugs on urine tests but were found carrying no drug evidence. [@3,7,16,18] Police
 said the seized evidence was estimated to have saved 93,469,666 lives and was
-valued at Rp3.36 trillion. [@1,4,8,9,10,11,16,17]
+valued at Rp3.36 trillion. [@1,4,8,9,10,11,16,17,18]
 
 Sonny said the enforcement reflects the National Police commitment to
 eradicating drug abuse and illicit distribution while maintaining public
 security and order. [@1] He said drugs are not only a law-enforcement issue but
 also a threat to youth, security, public health and the future of the nation.
-[@1,9,17] Polda Sumut asked for support from all elements of society to help
+[@1,9,17,18] Polda Sumut asked for support from all elements of society to help
 eradicate narcotics in the region. [@1] Sonny said North Sumatra's rate of drug users and dealers is 1.7 people, which he cited as the reason for a joint crackdown. [@10,17]
