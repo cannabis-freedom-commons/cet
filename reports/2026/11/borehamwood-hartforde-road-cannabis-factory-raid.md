@@ -56,6 +56,11 @@ media:
     media_url: https://cdn.apollo.audio/one/media/6afc/5394/5e14/205c/e3d3/884e/4260a79d-16ef-4286-a1f6-e2b93afa169c%20(1).jpg?quality=80&format=jpg&crop=0,0,1080,1917&resize=crop&width=960
     publisher: Hits Radio (Bucks, Beds & Herts)
     caption: 'The £50,000 cannabis operation discovered and dismantled by Borehamwood police on Hartforde Road. Photo: Hertfordshire Constabulary'
+  - kind: photo
+    url: https://www.aol.com/articles/cannabis-farm-worth-50-000-053708000.html
+    media_url: https://hermes.media.transform.aol.com/fea73d31e1d6d51d49ca97ebcc32eb8127058b39/w_800,c_scale,f_avif,q_auto/https://hermes.media.static.aol.com/media/2026/11/18/fdceb501-faa4-3c4a-9cb0-fe4e6dd3268d/329fec8a-4c59-4bb3-8f19-dfd4ce1627dd.jpg
+    publisher: AOL
+    caption: 'One of the grow rooms in the Hartforde Road house, with cannabis plants and the wooden fixtures built around them, in the handout photo published with the police announcement. Photo: Hertfordshire Police'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6a6e44ee06e43a7ed44d2d7ee05d3194
@@ -88,19 +93,30 @@ sources:
     url: https://uknip.co.uk/news/uk/uk-news/borehamwood-cannabis-factory-hartforde-road-police-raid-2/
     publisher: UK News in Pictures (UKNIP)
     date: 2026-11-18
+  - title: Cannabis farm worth £50,000 dismantled by police
+    url: https://www.aol.com/articles/cannabis-farm-worth-50-000-053708000.html
+    publisher: AOL
+    date: 2026-11-18
+  - title: Cannabis farm worth £50,000 dismantled by police
+    url: https://www.bbc.com/news/articles/cqevrgvn12e4o
+    publisher: BBC News
+    date: 2026-11-18
+open_questions:
+    - No count of plants or weight of cannabis was published; police gave only an estimated street value of £50,000.
+    - No one was reported arrested over the farm, and it is not known whether anyone was later detained or charged.
 ---
 
 Officers from the Operational Support Group raided a property on Hartforde Road
-in Borehamwood on Wednesday, November 4. [@1,3,4,5,6,7] The officers found five rooms in
-the property being used to grow cannabis. [@1,3,4,5,6,7] The house had been made to look
-like a normal home, with several of its outside windows altered. [@2,3,4,5,6,7]
+in Borehamwood on Wednesday, November 4. [@1,3,4,5,6,7,8] The officers found five rooms in
+the property being used to grow cannabis. [@1,3,4,5,6,7,9] The house had been made to look
+like a normal home, with several of its outside windows altered. [@2,3,4,5,6,7,9]
 
 Police estimated the street value of the cannabis grown at the property at
-£50,000. [@1,4,5,6,7] Inspector Paul Costello of the Operational Support Group said
+£50,000. [@1,4,5,6,7,8] Inspector Paul Costello of the Operational Support Group said
 cannabis factories present a significant danger to those living near them
-because they can be a serious fire hazard. [@1,4,5] He said such factories are often
+because they can be a serious fire hazard. [@1,4,5,8] He said such factories are often
 controlled by organised crime groups linked to violence, modern day slavery and
-human trafficking. [@1,4,5,7] Inspector Costello asked residents to report suspicious activity such as large amounts of plant pots, soil, chemicals, lights or heating equipment being taken into a property. [@7]
+human trafficking. [@1,4,5,7,8] Inspector Costello asked residents to report suspicious activity such as large amounts of plant pots, soil, chemicals, lights or heating equipment being taken into a property. [@7,8]
 
 Police said they were still working to identify and find those responsible for
 the cannabis factory. [@1,3,4,5,7] Police said no arrests had been announced in connection with the discovery. [@7] Police asked anyone with information to contact them
