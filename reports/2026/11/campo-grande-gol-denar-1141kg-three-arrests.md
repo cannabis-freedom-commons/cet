@@ -101,6 +101,11 @@ sources:
     publisher: Idest
     date: 2026-11-17
     language: pt
+  - title: DENAR apreende 1,1 tonelada de maconha e prende três em MS
+    url: https://www.ivinoticias.com.br/noticia/169784/denar-apreende-11-tonelada-de-maconha-e-prende-tres-em-ms
+    publisher: IviNoticias
+    date: 2026-11-18
+    language: pt
 open_questions:
     - No formal charge, custody decision or court outcome was reported; the case remained with Denar at the investigation stage.
     - The origin and intended destination of the cannabis were not established, and police said they would investigate them further.
@@ -115,25 +120,25 @@ Civil police in Campo Grande arrested three men — Joilson Pereira Leite, Igor
 Oliveira Pereira and Mateus Silva Alves — at the end of an operation by the
 Denar narcotics unit. [@1,2,6] The operation ran from the night of Monday 16
 November into the early afternoon of Tuesday 17 November 2026. [@1,2,3,4,5,6] The three
-were taken to Denar for judicial police procedures. [@1,4,5,6]
+were taken to Denar for judicial police procedures. [@1,4,5,6,7]
 
 The investigation began after police noticed a Volkswagen Gol with apparently
-false number plates and signs of involvement in drug transport. [@1,2,3] The Gol was
+false number plates and signs of involvement in drug transport. [@1,2,3,7] The Gol was
 found abandoned in vegetation at the side of a highway after running out of
-fuel, still carrying 488.8 kg of cannabis in 493 tablets. [@1,2,3,4,5,6] Police stopped a
+fuel, still carrying 488.8 kg of cannabis in 493 tablets. [@1,2,3,4,5,6,7] Police stopped a
 Chevrolet Astra carrying two men, one of them Igor Oliveira Pereira. [@1,2,3] Igor
 admitted taking part in the criminal activity and gave police information about
 other people and vehicles involved. [@1,2] The information led police to Mateus
 Silva Alves, identified as responsible for a Chevrolet Onix used to support the
 drug transport. [@1,2,3] At a residence linked to Mateus, police found 166 grams of
 cannabis and the keys to a property he had rented. [@1,2,3,6] Mateus had rented a
-property in the Universitário neighbourhood of Campo Grande. [@1,2,6] At that
-address officers found a further 652.8 kg of stored cannabis. [@1,2,5,6] The two loads
-took the total seizure past 1.1 tonnes of cannabis. [@1,2,4,5]
+property in the Universitário neighbourhood of Campo Grande. [@1,2,6,7] At that
+address officers found a further 652.8 kg of stored cannabis. [@1,2,5,6,7] The two loads
+took the total seizure past 1.1 tonnes of cannabis. [@1,2,4,5,7]
 
 The action formed part of Operation Protetor de Fronteiras e Divisas, run by
 Brazil's Ministry of Justice, and targeted a structure suspected of transporting
-and storing drugs from the region bordering Paraguay. [@1,3,5,6] Other narcotic
+and storing drugs from the region bordering Paraguay. [@1,3,5,6,7] Other narcotic
 substances found at the property appeared to investigators to relate to a
 separate occurrence. [@1,2,4,6] Police said the work was not finished and that the
 origin and destination of the drugs remained unclear. [@1,6]
