@@ -77,6 +77,11 @@ sources:
     publisher: La Voz de San Justo
     date: 2026-11-18
     language: es
+  - title: La FPA realizó un allanamiento, secuestró marihuana y detuvo a un hombre en San Francisco
+    url: https://radiorafaela.com.ar/policiales/la-fpa-realizo-un-allanamiento-secuestro-marihuana-y-detuvo-a-un-hombre-en-san-francisco
+    publisher: Radio Rafaela
+    date: 2026-11-18
+    language: es
 open_questions:
   - No date is given for the check or the raid; 18 November 2026 is the publication date and the operation was reported as having taken place in the preceding hours.
   - No count of the cannabis plants and no weight or dose count for the marijuana was published, so no cannabis quantity is recorded.
@@ -86,20 +91,21 @@ open_questions:
   - El Periódico describes the doses seized at the house as fractioned and ready for sale, while the official statement calls them doses of cannabis sativa.
   - The accounts reproduce the same FPA and prosecutor's office statement and are not independent reporting.
   - The photographs published with the prosecutor's office statement carry no captions identifying what each shows.
+  - Radio Rafaela's standfirst describes operations at two homes in San Francisco, while its own text and the prosecutor's office statement describe one house search on calle Paraguay Norte after a street check.
 ---
 
 Córdoba's anti-narcotics force, the Fuerza Policial Antinarcotráfico (FPA),
 arrested an adult man during a preventive drug check on the 2700 block of calle
-Hermano Casalis in San Francisco. [@2,5,6] Officers searched the man and seized
-several doses of marijuana he was carrying. [@1,6] The checks were carried out by the FPA's Special Interventions Company. [@5,6]
+Hermano Casalis in San Francisco. [@2,5,6,7] Officers searched the man and seized
+several doses of marijuana he was carrying. [@1,6] The checks were carried out by the FPA's Special Interventions Company. [@5,6,7]
 
 Investigators then obtained a search warrant for a house on the 3600 block of
-calle Paraguay Norte. [@1,5,6] At the house, officers with detector dogs seized
+calle Paraguay Norte. [@1,5,6,7] At the house, officers with detector dogs seized
 several cannabis sativa plants at different stages of growth and fractioned
 doses of the same substance prepared for sale. [@1] The Córdoba public
 prosecutor's office said several plants and doses of cannabis sativa were seized
-in the search. [@2,5]
+in the search. [@2,5,7]
 
 By order of the San Francisco drug-trafficking prosecutor's office, the detainee
 and the evidence were transferred to judicial headquarters under the national
-narcotics law. [@3,5,6] The investigation continued after the transfer. [@4]
+narcotics law. [@3,5,6,7] The investigation continued after the transfer. [@4]
