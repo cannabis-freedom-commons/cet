@@ -48,6 +48,11 @@ sources:
     publisher: 澳門日報
     date: 2026-11-17
     language: zh
+  - title: 港漢行李藏大麻煙機場被截
+    url: https://www.macaodaily.com/content/202611/18/c517551.html
+    publisher: 澳門日報
+    date: 2026-11-18
+    language: zh
 open_questions:
   - The specific Southeast Asian country where the man travelled and obtained the cigarettes was not reported.
   - No court outcome beyond the transfer to the Public Prosecutions Office was reported.
@@ -55,19 +60,18 @@ open_questions:
 
 Macau's Judiciary Police stopped a 23-year-old Hong Kong man at Macau
 International Airport on 15 November 2026 as he arrived by flight from Southeast
-Asia and was going through immigration entry procedures. [@1] Officers searched
+Asia and was going through immigration entry procedures. [@1,3] Officers searched
 his luggage during the entry check and found two suspected cannabis cigarettes
 inside, weighing 1.02 grams and 0.69 grams for a combined total of 1.71 grams.
-[@1] The 23-year-old man, identified only by the surname Ho, told officers he
+[@1,3] The seized drugs were valued at 1,700 yuan. [@3] The 23-year-old man, identified only by the surname Ho, told officers he
 was unemployed, and officers arrested him at the scene. [@1] The stop took place
 at about 5 p.m. on 15 November, when Judiciary Police officers posted at the
 airport intercepted him as he entered Macau. [@2]
 
 Investigators found that Ho had smoked suspected cannabis cigarettes while
 travelling in Southeast Asia and had placed the leftover cigarettes in his
-suitcase to carry them into Macau. [@2] Judiciary Police laboratory testing of
+suitcase to carry them into Macau. [@2,3] Judiciary Police laboratory testing of
 the two seized cigarettes confirmed that they contained cannabis controlled in
-Macau. [@2] Police arrested and charged Ho over the two cigarettes, and
+Macau. [@2,3] Ho tested negative for the drug in a urine test. [@3] Police arrested and charged Ho over the two cigarettes, and
 transferred the case to the Public Prosecutions Office for further
-investigation. [@2]
-
+investigation. [@2] He was charged with unlawful consumption of narcotic drugs and psychotropic substances. [@3]
