@@ -52,18 +52,22 @@ sources:
     publisher: Rediff.com
     date: 2026-11-18
     language: en
+  - title: J&K Police Seizes Over 3.9 Kgs Of Ganja, Charas In Ramban, One Arrested - Daily Excelsior
+    url: https://www.dailyexcelsior.com/jk-police-seizes-over-3-9-kgs-of-ganja-charas-in-ramban-one-arrested/
+    publisher: Daily Excelsior
+    date: 2026-11-18
 ---
 
 Jammu and Kashmir Police arrested a man in Banihal town in Ramban district on
-Wednesday 18 November 2026, officials said. [@1,3] A police team from Banihal
+Wednesday 18 November 2026, officials said. [@1,3,4] A police team from Banihal
 police station noticed him near T-Chowk and he allegedly tried to flee when he
-saw the officers. [@1,3] The officers caught him and identified him as Sayan
-Yaseen, a resident of Chareel in Banihal, police said. [@1,3]
+saw the officers. [@1,3,4] The officers caught him and identified him as Sayan
+Yaseen, a resident of Chareel in Banihal, police said. [@1,3,4]
 
 A search of his bag found about 3.9 kg of a ganja-like substance, cannabis, and
 11 grammes of a charas-like substance, a hand-pressed cannabis resin, police
-said. [@1,3] Police registered a case and said further investigation had been
-taken up. [@1,3] They said efforts were under way to establish where the
+said. [@1,3,4] Police registered a case and said further investigation had been
+taken up. [@1,3,4] They said efforts were under way to establish where the
 contraband came from and where it was meant to go. [@1,3] Police also said they
 were tracing forward and backward linkages to identify other people in the
-trafficking network. [@2,3]
+trafficking network. [@2,3,4]
