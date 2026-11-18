@@ -49,6 +49,11 @@ sources:
     publisher: Bilozerka.info
     date: 2026-11-17
     language: uk
+  - title: Житель Білозерки отримав 6 років за збут канабісу та організацію “наркопритону”
+    url: https://khersonline.net/kriminal/zhytel-bilozerky-otrymav-6-rokiv-za-zbut-kanabisu/
+    publisher: Херсон Онлайн
+    date: 2026-11-17
+    language: uk
 open_questions:
   - No weight was published for the cannabis found in the search, so no cannabis quantity is recorded.
   - No separate date for the verdict was given; 17 November 2026, the date of the prosecutor's announcement and both publications, stands in for the incident date.
@@ -56,18 +61,18 @@ open_questions:
 ---
 
 A court sentenced a resident of the village of Bilozerka in Kherson Oblast to 6
-years and 3 months' imprisonment with confiscation of all property. [@1] The
+years and 3 months' imprisonment with confiscation of all property. [@1,3] The
 court found him guilty of selling cannabis and of fitting out a place on his own
-farmstead for its use. [@1] Prosecutors of the Oleshky District Prosecutor's
+farmstead for its use. [@1,3] Prosecutors of the Oleshky District Prosecutor's
 Office maintained the prosecution on charges of illegal acquisition, storage for
 sale and sale of drugs and provision of premises for illegal use. [@2]
 
 According to the prosecutor's office, during 2025 the man sold cannabis and
 fitted out an outbuilding on his property where his buyers could use the drug.
-[@1] Police documented the sales through controlled operative purchases. [@1] A
+[@1,3] Police documented the sales through controlled operative purchases. [@1,3] A
 search of his house found cannabis packed in dozens of paper wraps and plastic
 bags, which together with other evidence confirmed the drug was stored for sale.
-[@1]
+[@1,3]
 
 At trial the man partly admitted guilt, saying he had picked a wild hemp bush,
 dried, crushed and packed its leaves and tops, keeping the cannabis for himself
@@ -76,4 +81,3 @@ storage for sale and sale of a narcotic drug and of repeatedly providing
 premises for its illegal use. [@1] The convicted man will remain in custody
 until the verdict takes legal effect, and the verdict can still be appealed.
 [@2]
-
