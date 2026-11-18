@@ -67,6 +67,11 @@ sources:
     publisher: Libertà Sicilia
     date: 2026-11-18
     language: it
+  - title: Blitz antidroga a Catania, sequestrati 6,8 chili di marijuana e hashish
+    url: https://catania.gds.it/articoli/cronaca/2026/11/18/blitz-antidroga-a-catania-sequestrati-68-chili-di-marijuana-e-hashish-d23ce43c-e4ce-4969-909f-de6adf3893cd/
+    publisher: Giornale di Sicilia
+    date: 2026-11-18
+    language: it
 open_questions:
   - No date is given for the two searches or the arrests; 18 November 2026 is the publication date of the reports and is used as the incident date.
   - The drugs were described as marijuana and hashish; no laboratory confirmation was reported.
@@ -78,7 +83,7 @@ open_questions:
 ---
 
 Police in Catania arrested two men from the city, aged 23 and 61, on suspicion
-of possessing drugs for sale. [@2,4] The 23-year-old was stopped in the
+of possessing drugs for sale. [@2,4,5] The 23-year-old was stopped in the
 Ognina-Rotolo district after officers saw him leave his flat to meet a buyer,
 who fled at the sight of the patrols. [@1,4]
 
@@ -89,9 +94,9 @@ dealing accounts. [@1,4]
 
 In Picanello the 61-year-old was stopped as he opened a steel door on the
 stairway and a second armoured entrance to a fourth-floor attic used as a store.
-[@1,4] The attic was a fortified store behind double steel and armoured doors.
+[@1,4,5] The attic was a fortified store behind double steel and armoured doors.
 [@3,4] Inside police seized 6 kg of marijuana, in vacuum bags, jars, wrappers and
-127 ready doses, and five blocks of hashish weighing 500 grams in total. [@1,4]
-The two seizures amounted to more than 6.8 kg of marijuana and hashish. [@2,4] The
+127 ready doses, and five blocks of hashish weighing 500 grams in total. [@1,4,5]
+The two seizures amounted to more than 6.8 kg of marijuana and hashish. [@2,4,5] The
 duty prosecutor ordered both suspects taken to prison pending a validation
 hearing before the investigating judge. [@1,4]
