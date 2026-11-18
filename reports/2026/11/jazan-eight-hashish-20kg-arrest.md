@@ -63,6 +63,11 @@ sources:
     publisher: صحيفة صراحة الالكترونية
     date: 2026-11-17
     language: ar
+  - title: القبض على 5 أشخاص بتهمة ترويج الحشيش في جازان بينهم مخالفون إثيوبيون ويمنيون
+    url: https://www.5lejnews.com/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%87/363812/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-5-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%81%D9%8A/
+    publisher: خليج نيوز
+    date: 2026-11-17
+    language: ar
 open_questions:
     - The directorate's post gives eight people arrested while Ajel and Sabq reported five; the report uses the official figure of eight.
     - The outlets' description of the group, Ethiopian border-security violators, Yemeni residents and a citizen, does not add up to eight and no breakdown of the eight was published.
@@ -79,10 +84,10 @@ people in Jazan region and accused them of promoting 20 kilograms of hashish.
 [@1] The directorate announced the arrests in a post on its X account on 17
 November 2026. [@1] Ajel reported five arrests in Jazan region, describing the
 suspects as Ethiopian violators of the border security law, Yemeni residents and
-a Saudi citizen. [@2,4,5]
+a Saudi citizen. [@2,4,5,6]
 
 The directorate said the suspects were stopped, legal procedures were taken
-against them and they were referred to the Public Prosecution. [@2,5] Sabq
+against them and they were referred to the Public Prosecution. [@2,5,6] Sabq
 reported that five people were stopped, legal procedures were taken against them
 and they were referred to the Public Prosecution. [@3]
 
