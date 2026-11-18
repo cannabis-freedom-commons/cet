@@ -54,11 +54,16 @@ sources:
     publisher: BRUZZ
     date: 2026-11-10
     language: nl
+  - title: 'محاكمة عصابة Peterbos في بروكسل: تفاصيل تهريب المخدرات والأسلحة'
+    url: https://www.belg24.com/%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%A9-%D8%B9%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A8%D9%8A%D8%AA%D8%B1-%D8%A8%D9%88%D8%B3-%D8%A8%D8%B1%D9%88%D9%83%D8%B3%D9%84-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA/
+    publisher: بلجيكا 24 (Belg24)
+    date: 2026-11-17
+    language: ar
 open_questions:
-  - The exact number of adult defendants is reported as 45, with some outlets reporting 46; two minors were referred to a youth judge.
-  - The HLN account is behind a paywall and only its teaser could be read.
-  - No judgment has been rendered; the trial is expected to last several weeks with the prosecution case still to come.
-  - The cannabis weight, value or number of plants involved in the trafficking is not given in the opened accounts.
+    - The exact number of adult defendants is reported as 45, with some outlets reporting 46; two minors were referred to a youth judge.
+    - No judgment has been rendered; the trial is expected to last several weeks.
+    - The cannabis weight, value or number of plants involved in the trafficking is not given in the opened accounts.
+    - The cannabis plantation is known only from intercepted messages that prosecutors read as cultivation; no location, size or number of plants has been given and the court has not ruled on the allegation.
 ---
 
 On the second day of the Peterbos trial, concerning the drug war and shootings
@@ -69,14 +74,13 @@ court, more than forty defendants alleged to belong to the Peterbos drug gang
 from the eponymous district in Anderlecht are on trial in the coming weeks. [@2]
 The bulky case file covers not only the import, export and sale of cannabis and
 cocaine, but also the bloody turf war fought at the end of 2023 against a rival
-drug gang. [@2]
+drug gang. [@2] Prosecutors said the defendant Chakib M., known as Le Beauf, travelled frequently to Morocco on trips he described in his messages as business-related. [@5] Prosecutors said an 'agricultural project' referred to in intercepted messages was a cannabis plantation. [@5]
 
 45 defendants are prosecuted for offences ranging from attempted murder to drug
-trafficking. [@3] The Brussels prosecutor is pursuing the man in his thirties in
+trafficking. [@3,5] On 16 November 2026 the Brussels public prosecutor's office set out at a hearing the roles it attributes to several defendants close to the alleged leader known as Mara. [@5] The Brussels prosecutor is pursuing the man in his thirties in
 this trial for six attempted murders, together with a list of no fewer than 25
 other charges. [@2]
 
 Most of the defendants before the Brussels criminal court partly admitted their
 involvement, but in most cases said they did not know that shooting would follow
 or that these were attempted murders. [@4]
-
