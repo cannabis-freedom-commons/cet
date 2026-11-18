@@ -87,6 +87,11 @@ sources:
     publisher: Polizeiticker
     date: 2026-11-18
     language: de
+  - title: 'GR: trovata una piantagione indoor di canapa a Rhäzüns - TVS tvsvizzera.it'
+    url: https://www.tvsvizzera.it/tvs/gr%3A-trovata-una-piantagione-indoor-di-canapa-a-rh%C3%A4z%C3%BCns/92401697
+    publisher: TVS tvsvizzera.it
+    date: 2026-11-18
+    language: it
 open_questions:
     - The plantation was found in mid-November 2026, but no source gives the exact day; 18 November 2026, the date of the cantonal police statement, stands in as the incident date.
     - No arrest or detention was reported, and the statement does not say whether the 32-year-old was detained, questioned or released.
@@ -98,15 +103,15 @@ open_questions:
 ---
 
 Graubünden cantonal police and the cantonal prosecutor's office found the indoor
-plantation in Rhäzüns in mid-November 2026. [@1,5,6,8] The alleged operator is a
+plantation in Rhäzüns in mid-November 2026. [@1,5,6,8,9] The alleged operator is a
 32-year-old German who ran the grow in his own apartment and in the basement.
-[@3,5,7,8] The Graubünden cantonal police announced the find in a statement. [@4]
+[@3,5,7,8,9] The Graubünden cantonal police announced the find in a statement. [@4]
 
 Officers seized about 800 cannabis plants, which the authorities intend to
-destroy. [@3,5,6,8] The police said they had taken the cannabis away and now planned
+destroy. [@3,5,6,8,9] The police said they had taken the cannabis away and now planned
 to destroy it. [@1]
 
-The German man faces charges for violations of the Narcotics Act. [@1,5,6,8] He must
+The German man faces charges for violations of the Narcotics Act. [@1,5,6,8,9] He must
 answer before the courts for offences against the narcotics law. [@2] The case
 came from joint investigations by the cantonal police and the cantonal
 prosecutor's office. [@4]
