@@ -100,15 +100,26 @@ sources:
     url: https://africa.businessinsider.com/local/lifestyle/from-cannabis-possession-to-attempted-murder-another-mugabe-finds-himself-in-legal/3c29cpc
     publisher: Business Insider Africa
     date: 2026-02-24
+  - title: Robert Mugabe’s son arrested for cannabis possession, faces court in Harare
+    url: https://africa.businessinsider.com/local/lifestyle/robert-mugabes-son-arrested-for-cannabis-possession-faces-court-in-harare/zxt5c8g
+    publisher: Business Insider Africa
+    date: 2025-10-03
 open_questions:
-  - 'Accounts differ on the weight of cannabis: the police charge sheet cited 2 g and the lawyer said 0.02 g; the figures use the police weight of 2 g.'
-  - The Club of Mozambique and BBC accounts give no separate date for the October arrest beyond 'Wednesday'; it is given as 1 October 2025 in the text only as the Wednesday before the 2 October appearance.
-  - No outcome is reported for the five alleged syndicate members arrested with Mugabe, or for the ecstasy pills found with them.
-  - News24's article body could not be read past its subscriber prompt; only its opening paragraph and summary text were usable, so the bail conditions it mentions are not recorded.
-  - The EastAfrican gives no weight for the drugs found and no details of the charges, and says only that the arrest came the day before the Thursday appearance.
-  - The IOL report does not say when the bail hearing took place or whether bail was granted; it was published on 3 October with Mugabe still in custody.
-  - IOL places the stop on a "Tuesday night", while other accounts say he was arrested on Wednesday morning, 1 October 2025; the dates differ by a day.
-  - IOL describes a silver Honda Fit, while the BBC's account of the court documents describes the car only as black in relation to the sling bag.
+    - 'Accounts differ on the weight of cannabis: the police charge sheet cited 2 g and the lawyer said 0.02 g; the figures use the police weight of 2 g.'
+    - The Club of Mozambique and BBC accounts give no separate date for the October arrest beyond 'Wednesday'; it is given as 1 October 2025 in the text only as the Wednesday before the 2 October appearance.
+    - No outcome is reported for the five alleged syndicate members arrested with Mugabe, or for the ecstasy pills found with them.
+    - News24's article body could not be read past its subscriber prompt; only its opening paragraph and summary text were usable, so the bail conditions it mentions are not recorded.
+    - The EastAfrican gives no weight for the drugs found and no details of the charges, and says only that the arrest came the day before the Thursday appearance.
+    - The IOL report does not say when the bail hearing took place or whether bail was granted; it was published on 3 October with Mugabe still in custody.
+    - IOL places the stop on a "Tuesday night", while other accounts say he was arrested on Wednesday morning, 1 October 2025; the dates differ by a day.
+    - IOL describes a silver Honda Fit, while the BBC's account of the court documents describes the car only as black in relation to the sling bag.
+    - 'Accounts differ on how many people were arrested with Mugabe over the alleged syndicate: this outlet reports three, while other accounts say five.'
+media:
+  - kind: photo
+    url: https://africa.businessinsider.com/local/lifestyle/robert-mugabes-son-arrested-for-cannabis-possession-faces-court-in-harare/zxt5c8g
+    media_url: https://ocdn.eu/pulscms-transforms/1/eYBk9kpTURBXy9iZTM3NGM1ZDMyNThlMTdmNWQ1YzBjNmUwODE3NzZhMC5qcGeSlQMAE80Cis0BbZMFzQMWzQGu3gACoTAGoTEA
+    publisher: Business Insider Africa
+    caption: Robert Mugabe Jr, son of Zimbabwe's late president, leaving the Harare court after being charged with cannabis possession, in the photo published with this report.
 ---
 
 Robert Mugabe Jnr, 33, pleaded guilty to unlawful possession of drugs at the
@@ -127,12 +138,12 @@ the southern African name for cannabis. [@1]
 Mugabe was arrested in October and later released on $300 bail, and a warrant
 issued after he missed a routine remand date was cancelled before the trial.
 [@3] He had first appeared in court on 2 October and was remanded in custody
-pending a bail ruling. [@5,6,8,10] He was released on Friday after paying bail of $300.
-[@4] At that first appearance police said five people in a "syndicate linked to
+pending a bail ruling. [@5,6,8,10] When he appeared before the Harare Magistrates' Court, Mugabe Jr was dressed casually in joggers and a red cap, was not handcuffed, and walked into court while on his phone. [@12] He was released on Friday after paying bail of $300.
+[@4,12] At that first appearance police said five people in a "syndicate linked to
 him" had also been arrested and that they found 25 sachets of marijuana and six
 ecstasy pills. [@4,6]
 
-Police charged Mugabe over 2 g of cannabis with a street value of $30. [@4,11] His
+Police charged Mugabe over 2 g of cannabis with a street value of $30. [@4,11,12] His
 lawyer, Ashiel Mugiya, denied the charge and said the drugs came from a car
 carrying three other people, with only 0.02 g of cannabis found. [@4,6] The 13
 November ruling followed a warrant and missed hearing in a case that had drawn
