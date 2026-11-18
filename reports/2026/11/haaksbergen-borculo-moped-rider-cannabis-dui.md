@@ -44,22 +44,27 @@ sources:
     publisher: Rond Haaksbergen
     date: 2026-11-17
     language: nl
+  - title: Bromfietser (40) uit Borculo twee keer aangehouden vanwege het rijden onder invloed
+    url: https://www.nieuwsuitberkelland.nl/2026/11/bromfietser-40-uit-borculo-twee-keer-aangehouden-vanwege-het-rijden-onder-invloed/
+    publisher: Nieuws uit Berkelland
+    date: 2026-11-18
+    language: nl
 open_questions:
-  - The blood-test and laboratory results were not published, so the amount of cannabis involved was not established.
-  - No charge, court date or outcome was reported after either detention.
-  - Both published accounts derive from the Haaksbergen police, so they are not independent reporting.
+    - The blood-test and laboratory results were not published, so the amount of cannabis involved was not established.
+    - No charge, court date or outcome was reported after either detention.
+    - The published accounts all derive from the Haaksbergen police, so they are not independent reporting.
+    - The first check is described only as on the Enschedesestraat, without saying in which town it took place.
 ---
 
 Haaksbergen police detained a 40-year-old moped rider from Borculo on two
-consecutive days in November 2026 for driving under the influence of drugs. [@1]
+consecutive days in November 2026 for driving under the influence of drugs. [@1,3]
 On Friday 13 November officers checked him in the afternoon on the
-Enschedesestraat; he tested positive for cannabis use and was detained. [@1] A
+Enschedesestraat; he tested positive for cannabis use and was detained. [@1,3] A
 blood sample was taken at the police station in Goor, and later laboratory
-analysis was to establish how much drug he had actually used. [@1]
+analysis was to establish how much drug he had actually used. [@1,3]
 
 On Saturday 14 November police saw the same 40-year-old rider from Borculo
 riding again in the afternoon on the Eibergsestraat, one day after his first
-detention for drug-impaired driving. [@2] He was detained a second time after
-again testing positive for cannabis. [@2] Police said that if he was caught a
-third time his moped would be confiscated. [@1]
-
+detention for drug-impaired driving. [@2,3] He was detained a second time after
+again testing positive for cannabis. [@2,3] Police said that if he was caught a
+third time his moped would be confiscated. [@1,3]
