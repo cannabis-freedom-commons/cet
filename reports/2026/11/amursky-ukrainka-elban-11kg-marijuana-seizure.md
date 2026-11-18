@@ -1,7 +1,7 @@
 ---
 code: B475QQ
 added_at: "2026-11-06T05:02:05.947935Z"
-date: 2026-02-25
+date: 2026-11-18
 country: ru
 place: Amursky District, Khabarovsk Krai (Ukrainka village and Elban settlement)
 coordinates: [50.2228, 136.8979]
@@ -9,8 +9,7 @@ precision: district
 type: seizure
 also: [arrest, prosecution]
 title: More than 11 kg of marijuana seized from two men in Khabarovsk Krai
-summary: >-
-  Drug-control officers in Amursky district stopped a 23-year-old Ukrainka villager whose car held over 1 kg of marijuana and found about 10 kg dried in an Elban home attic. Both men said they gathered wild cannabis for personal use; investigators opened article 228(2) storage cases and placed the suspects under a written undertaking not to leave.
+summary: Drug-control officers in Amursky district stopped a 23-year-old Ukrainka villager whose car held marijuana and found about 10 kg dried in an Elban home attic. The investigation into the Ukrainka villager's storage case is now complete and his case has been sent to court, with the suspects under a written undertaking not to leave.
 figures:
   arrested: 1
   kg_seized: 11
@@ -58,6 +57,11 @@ sources:
     publisher: Рамблер/новости
     date: 2026-02-25
     language: ru
+  - title: Житель села Украинка задержан за хранение марихуаны — Новости Хабаровска и Хабаровского края | PROKHAB.RU
+    url: http://prokhab.ru/zhitel-sela-ukrainka-zaderzhan-za-hranenie-marihuany/
+    publisher: PROKHAB.RU
+    date: 2026-11-18
+    language: ru
 open_questions:
   - Police give no date for the car stop, the attic search or the detentions; 25 February 2026 is the publication date of the police statement and is used as the incident date.
   - Each weight is given only as more than a kilogram and about 10 kilograms, so the more than 11 kg total is the police's own rounded figure; no exact weights were published.
@@ -65,6 +69,9 @@ open_questions:
   - Neither man was named, and no number of plants, area or value was reported.
   - No court outcome or trial date is reported; the up to 10 years' imprisonment is the maximum penalty for the cited article, not a sentence.
   - The page carries seven press-service photographs with no descriptive captions, so what each image shows cannot be confirmed beyond the seizure report.
+  - No separate date is given for the completion of the investigation or the transfer to court; 18 November 2026 is the publication date of the new account.
+  - The new account's lead places the 1 kg 93 g in a cache near the man's house while its body describes the marijuana as found in the boot and interior of his car.
+  - The text gives a weight ("10 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 
 Drug-control officers of the Amursky district police department in Khabarovsk
@@ -73,7 +80,7 @@ drugs. [@1] In the first case police stopped a foreign car driven by a
 23-year-old resident of Ukrainka village. [@1] Officers found a white sack of
 green plant material in the boot and a black plastic bag with similar contents
 on the back seat. [@1] Examination established that the material was marijuana
-weighing more than one kilogram. [@1] The detained man admitted he had gathered
+weighing more than one kilogram. [@1] The later account gives the weight of the marijuana in the Ukrainka villager's case as about 1 kg 93 g. [@3] The detained man admitted he had gathered
 the drug in a forest in the autumn for his own use. [@1] By his account he hid
 the dope grass in his car from his wife. [@1]
 
@@ -92,5 +99,4 @@ leave and to behave properly. [@1] The Rambler relay of the police statement
 says the maximum penalty under that part of the article is up to 10 years of
 deprivation of liberty. [@2] The Rambler relay confirms officers opened storage
 cases against Amursky district residents after finding the white sack in the
-boot and the black bag on the back seat. [@2]
-
+boot and the black bag on the back seat. [@2] Investigators have completed the inquiry into the 23-year-old Ukrainka villager's marijuana-storage case and sent the materials to court. [@3]
