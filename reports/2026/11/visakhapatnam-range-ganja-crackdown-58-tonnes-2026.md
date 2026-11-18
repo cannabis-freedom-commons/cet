@@ -46,6 +46,10 @@ sources:
     publisher: Andhrajyothy
     date: 2026-11-18
     language: te
+  - title: '2,104 Repeat Ganja Offenders Under Surveillance in Visakha Range: IG'
+    url: https://news.hellovizag.in/2104-repeat-ganja-offenders-under-surveillance-in-visakha-range-ig
+    publisher: Hello Vizag
+    date: 2026-11-18
 open_questions:
     - The arrest total of 2,327 and the 58,134 kg ganja total are the sums of the static and dynamic checkpost figures; the article does not state a combined total or say whether the two checkpost categories counted the same people twice.
     - The article gives hashish oil weights of 15.06 kg and 43.10 kg separately from the ganja; these are recorded as a separate product and not added to the ganja total.
@@ -60,7 +64,7 @@ open_questions:
 Inspector-General of Police Gopinath Jatti said Visakhapatnam Range police
 opened history sheets against 2,104 people repeatedly involved in ganja offences
 and placed them under continuous surveillance as part of a crackdown on
-cultivation, transportation and sale. [@1,2] He presented the figures at the
+cultivation, transportation and sale. [@1,2,3] He presented the figures at the
 third-quarter State-level Joint Coordination Committee review meeting, held by
 video conference at the EAGLE office in Vijayawada on 17 November 2026. [@1] The review was chaired by Narcotics Control Bureau Southern Region Director R. Sudhakar and examined implementation of the central government's plan for a drug-free India by 2029. [@2]
 
@@ -75,6 +79,6 @@ ganja and frozen properties worth over 11 crore rupees in drug-related cases.
 Financial investigations were initiated to identify and seize assets acquired
 through drug trafficking. [@1] Police froze property worth 11,02,18,281 rupees
 belonging to 18 accused in 19 cases, while financial investigations were under
-way in another 200 NDPS cases. [@1,2] Under the Prevention of Illicit Traffic in
+way in another 200 NDPS cases. [@1,2,3] Under the Prevention of Illicit Traffic in
 Narcotic Drugs and Psychotropic Substances (PIT-NDPS) Act, detention proposals
-were submitted against 121 people, of whom 76 were sent to prison. [@1]
+were submitted against 121 people, of whom 76 were sent to prison. [@1,3]
