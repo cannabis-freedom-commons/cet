@@ -99,29 +99,30 @@ sources:
     publisher: Vocal TV
     date: 2026-11-18
     language: hi
-open_questions:
-  - The weight is reported as 117 kg in the headline and opening passage and as 177 kg in the detailed account of the search.
-  - The estimated value is reported as about Rs 2 crore in one account and about Rs 1.5 crore in other accounts for the same seizure.
-  - The opening paragraph gives the seizure as 170 kg 790 g while the body of the same article gives 177 kg 790 g; the report uses 177.79 kg.
+  - title: 1.5 करोड़ रुपए का 177 किलो गांजा बरामद, दो तस्कर गिरफ्तार, ओडिशा से गुरुग्राम ले जाया जा रहा था
+    url: https://www.bhaskarhindi.com/other/1-5-crore-rupaye-ka-177-kilo-ganja-baramad-do-taskar-girftar-odisha-se-gurugram-le-jaya-ja-raha-tha-1393625
+    publisher: Bhaskar Hindi
+    date: 2026-11-18
+    language: hi
 ---
 
 A joint Badalpur police and Anti-Narcotics Task Force team arrested two men in
-Greater Noida on suspicion of ganja smuggling. [@1,4,5,6,7,8,9,10] The teams intercepted the
-men's truck in front of Ambedkar Park and arrested its two occupants. [@2,4,6,7,10,11]
+Greater Noida on suspicion of ganja smuggling. [@1,4,5,6,7,8,9,10,12] The teams intercepted the
+men's truck in front of Ambedkar Park and arrested its two occupants. [@2,4,6,7,10,11,12]
 Police identified the two as Irfan, son of Basir, and Asif, son of Sagir, both
 residents of Sancholi village under Sohna police station in Gurugram, Haryana.
-[@2,4,7,10] Police gave their ages as 31 and 20. [@6,7] Both men had studied only up to the eighth class, police said. [@7] Irfan owned the truck and was driving it while Asif worked as its helper,
+[@2,4,7,10,12] Police gave their ages as 31 and 20. [@6,7] Both men had studied only up to the eighth class, police said. [@7] Irfan owned the truck and was driving it while Asif worked as its helper,
 and both had previously been jailed in connection with an NDPS case in Assam.
 [@2,4,6,7,11]
 
 Officers seized 177 kg 790 grams of cannabis from the truck, which police valued
-at about Rs 1.5 crore. [@2,4,5,6,7,8,9,11] The cannabis was hidden in a specially designed
+at about Rs 1.5 crore. [@2,4,5,6,7,8,9,11,12] The cannabis was hidden in a specially designed
 cavity beneath the truck near the toolbox that was built to look like a diesel
-tank. [@2,4,5,6,7,8,9,10,11] A second account likewise describes a concealed compartment inside
+tank. [@2,4,5,6,7,8,9,10,11,12] A second account likewise describes a concealed compartment inside
 the truck designed like a diesel tank to move the consignment without attracting
 suspicion. [@3] The accused said they had brought the cannabis from Odisha and
 were transporting it to Gurugram for delivery on the Eastern Peripheral
-Expressway. [@2,4,5,6,7,9,10,11] The two were paid 150,000 to 200,000 rupees per trip to deliver ganja to Gurugram or elsewhere. [@10] The truck had GPS fitted, which the intended recipient used to track it. [@10] Police said the consignment had been brought from Phulbani in Odisha. [@5,9] Police also seized the truck used for the transport, bearing
+Expressway. [@2,4,5,6,7,9,10,11,12] The two were paid 150,000 to 200,000 rupees per trip to deliver ganja to Gurugram or elsewhere. [@10] The truck had GPS fitted, which the intended recipient used to track it. [@10] Police said the consignment had been brought from Phulbani in Odisha. [@5,9] Police also seized the truck used for the transport, bearing
 registration number HR38AB2007. [@2,4,5]
 
 The joint operation was based on local and manual intelligence about a cannabis
