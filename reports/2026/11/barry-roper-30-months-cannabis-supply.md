@@ -62,19 +62,25 @@ sources:
     url: https://opencourtdata.uk/criminal/case/1182492117693588860
     publisher: Open Court Data UK
     date: 2026-11-06
+  - title: Uninsured driver was trafficking drugs
+    url: https://glamorganstar.co.uk/driver-was-trafficking-drugs/
+    publisher: Glamorgan Star Newspaper
+    date: 2026-11-18
 open_questions:
-  - The sentencing report gives no separate date for when the sentence was passed; 10 November 2026 is its publication date and stands in as the incident date, while the earlier report and court listing scheduled the sentencing hearing for 6 November 2026.
-  - No weight, plant count or estimated street value was published for the cannabis or the magic mushrooms, so no drug quantity is recorded.
-  - The 30-month prison term covers both the Class A magic mushroom and Class B cannabis supply offences, with no separate sentence breakdown published for the cannabis count.
-  - No arrest date, investigating police force or location of the drug sales was reported, and no details were published of the other matters on which Roper had been recalled to custody.
-  - Both news articles come from the same local newspaper, alongside the public court hearing listing; no police statement or second news outlet report of the sentencing was found.
+    - Neither outlet gives a separate date for the sentencing hearing; 10 November 2026, the date of the first report, stands in as the incident date, while the 6 November 2026 hearing was listed in advance.
+    - No weight or estimated street value was published for the cannabis or the magic mushrooms supplied between December 2025 and September 2026.
+    - The three grams of cannabis and cannabis resin reported were seized at the August 2025 traffic stop, months before the supply period began, so they are not a figure for the supply; the 2.5 grams of ketamine seized with them is not counted in the cannabis figures.
+    - The 30-month prison term covers both the magic mushroom and cannabis offences, with no separate sentence breakdown published for the cannabis count.
+    - No date for the supply arrest, investigating police force or location of the drug sales was reported, and no details were published of the other matters on which Roper had been recalled to custody.
+    - The Glamorgan Star report does not say how the motoring and drug-possession matters from the August 2025 stop were dealt with, beyond saying Roper pleaded guilty to four charges.
+    - No police statement on the sentencing was found.
 ---
 
 Callum Roper, 22, of Holton Road, Barry, was locked up for 30 months. [@1] The
 Barry drug dealer was jailed for trafficking offences involving the supply of
-magic mushrooms and cannabis. [@1] He admitted being concerned in the supply of
+magic mushrooms and cannabis. [@1,4] He admitted being concerned in the supply of
 the Class A and Class B drugs between 3 December 2025 and 14 September 2026.
-[@1] Recorder Dyfed Llion Thomas sent him to prison at Cardiff Crown Court. [@1]
+[@1,4] Recorder Dyfed Llion Thomas sent him to prison at Cardiff Crown Court. [@1,4] The same day, police seized 2.5 grams of ketamine and three grams of cannabis and cannabis resin from him. [@4] On 22 August 2025 police stopped Roper driving a Ford Focus on Severn Avenue, Barry, and found he was disqualified from driving at the time, meaning he also had no insurance. [@4]
 
 Roper had earlier indicated guilty pleas to being concerned in the supply of
 cannabis between 3 December 2025 and 14 September 2026. [@2] He also admitted
@@ -90,4 +96,3 @@ at Cardiff Crown Court. [@3] It identifies the matter under case reference
 62EN0922526. [@3] The scheduled hearing date is recorded as 6 November 2026.
 [@3] Court 13 before Mr Recorder D Thomas was assigned to the hearing. [@3] The
 Crown Prosecution Service was listed as prosecutor in the case. [@3]
-
