@@ -43,28 +43,32 @@ sources:
     publisher: NEWS.am
     date: 2026-11-18
     language: ru
+  - title: В Ереване задержали 20-летнюю женщину по подозрению в сбыте марихуаны
+    url: https://verelq.am/ru/node/179856
+    publisher: Verelq News
+    date: 2026-11-18
+    language: ru
 open_questions:
-  - The substance was identified as marijuana in the woman's own statement to police; no laboratory confirmation was reported.
-  - The weight of more than 25 grams covers only the 10 packages found on the woman; the three stashes found at the scene were not weighed.
-  - No charge, formal accusation or court outcome was reported; police said the circumstances were being clarified.
-  - The account rests on a single police press-service statement relayed by NEWS.am; no independent corroboration was found.
+    - The substance was identified as marijuana in the woman's own statement to police; no laboratory confirmation was reported.
+    - The weight of more than 25 grams covers only the 10 packages found on the woman; the three stashes found at the scene were not weighed.
+    - No charge, formal accusation or court outcome was reported; police said the circumstances were being clarified.
+    - The account rests on a single police press-service statement, carried separately by NEWS.am and Verelq; no independent reporting was found.
 ---
 
-Yerevan police detained a 20-year-old woman on suspicion of selling drugs. [@1]
+Yerevan police detained a 20-year-old woman on suspicion of selling drugs. [@1,2]
 The press service of Armenia's Interior Ministry police told NEWS.am that police
 had received operational information about her. [@1] According to the police
 press service, a resident of the city of Abovyan was acquiring drugs through the
 Telegram messaging app and selling them by placing them in hidden stashes, known
-locally as zakladki. [@1] On 13 November 2026 the 20-year-old was detained near
+locally as zakladki. [@1,2] On 13 November 2026 the 20-year-old was detained near
 garages adjoining Komitas Avenue in Yerevan and taken to the city's Arabkir
-police department. [@1]
+police department. [@1] She was detained at about 18:00 on the evening of 13 November 2026 by officers of the Main Directorate of Community Police working with colleagues from the Arabkir department. [@2]
 
 During a personal search officers found 10 packages wrapped in adhesive tape of
-different colours, with a combined weight of more than 25 grams. [@1] The woman
+different colours, with a combined weight of more than 25 grams. [@1,2] The woman
 said the packages contained marijuana that she had acquired in order to sell it.
-[@1] Three more stashes she had made were found at the scene of the incident.
-[@1]
+[@1,2] Three more stashes she had made were found at the scene of the incident.
+[@1,2]
 
-She was placed in a place of detention for suspects. [@1] The circumstances of
-the case were still being clarified at the time of the police statement. [@1]
-
+She was placed in a place of detention for suspects. [@1,2] The circumstances of
+the case were still being clarified at the time of the police statement. [@1] The case materials were sent to the Arabkir investigation department, police said. [@2]
