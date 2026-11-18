@@ -106,6 +106,11 @@ sources:
     publisher: El Faro Motril
     date: 2026-11-18
     language: es
+  - title: Desmantelan un cultivo de marihuana de más de tres toneladas en Vélez de Benaudalla y detienen a su propietario
+    url: https://www.granadaesnoticia.com/sucesos/desmantelan-un-cultivo-de-marihuana-de-mas-de-tres-toneladas-en-velez-de-benaudalla-y-detienen-a-su-propietario
+    publisher: Granada es Noticia
+    date: 2026-11-18
+    language: es
 open_questions:
   - The 87 kilograms refers to dried buds; the Guardia Civil's total of more than three tonnes covers the whole plants as well, so the two figures are not added together.
   - One syndicated version of the Europa Press story opened with more than 8,000 plants while its detailed account and the other Guardia Civil-based reports give 3,080; the report uses 3,080.
@@ -120,23 +125,23 @@ open_questions:
 
 The Guardia Civil and the Tax Agency's Customs Surveillance Service (Vigilancia
 Aduanera) ran a joint operation, Nazarí-Alcazaba 07, against illegal cannabis
-cultivation in Vélez de Benaudalla, in Granada province. [@2,6,7] The investigation
+cultivation in Vélez de Benaudalla, in Granada province. [@2,6,7,8] The investigation
 began six months earlier, after the Motril operational unit of Vigilancia
-Aduanera suspected marijuana crops in the area. [@4,6,7] Investigators found a
+Aduanera suspected marijuana crops in the area. [@4,6,7,8] Investigators found a
 greenhouse used for the full cycle of cultivation, drying and storage of the
-drug. [@3,6,7]
+drug. [@3,6,7,8]
 
 On 9 November 2026 officers searched the greenhouse, an equipment shed on the
-property and a house in the town, all owned by the same person. [@1,6,7] The
-greenhouse covered more than 78,000 square metres. [@1,6,7] Officers seized 3,080
+property and a house in the town, all owned by the same person. [@1,6,7,8] The
+greenhouse covered more than 78,000 square metres. [@1,6,7,8] Officers seized 3,080
 cannabis sativa plants, some up to two metres tall, and about 87 kilograms of
-dried buds. [@2,6,7] They also seized an air rifle. [@1,6,7] The whole of the marijuana
-seized weighed more than three tonnes, the Guardia Civil said. [@1,6,7]
+dried buds. [@2,6,7,8] They also seized an air rifle. [@1,6,7,8] The whole of the marijuana
+seized weighed more than three tonnes, the Guardia Civil said. [@1,6,7,8]
 
 The owner, a 47-year-old man, was arrested on suspicion of a crime against
-public health for cultivating and processing marijuana. [@1,6,7] He was placed
+public health for cultivating and processing marijuana. [@1,6,7,8] He was placed
 before the civil and instruction section of the Tribunal de Instancia in Motril,
-which was on duty. [@1,6,7] The operation was carried out by the ROCA team of the
+which was on duty. [@1,6,7,8] The operation was carried out by the ROCA team of the
 Guardia Civil's Motril company and officers of the Motril operational unit of
-Vigilancia Aduanera. [@5,6,7] The investigation remains open and officers are trying
-to identify other possible participants. [@5,6,7]
+Vigilancia Aduanera. [@5,6,7,8] The investigation remains open and officers are trying
+to identify other possible participants. [@5,6,7,8]
