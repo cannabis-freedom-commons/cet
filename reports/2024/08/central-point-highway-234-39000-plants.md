@@ -73,6 +73,11 @@ sources:
     url: https://nbc16.com/news/local/black-market-cannabis-grow-busted-in-so-oregon-39k-illegal-marijuana-plants-destroyed
     publisher: KMTR
     date: 2024-08-07
+  - title: Black-market cannabis grow busted in So. Oregon; 39k illegal marijuana plants destroyed
+    url: https://katu.com/news/local/black-market-cannabis-grow-busted-in-so-oregon-39k-illegal-marijuana-plants-destroyed
+    publisher: KATU
+    date: 2024-08-07
+    language: en
 open_questions:
   - The headline says the plants were destroyed, while the sheriff's office statement in the body says they were seized; this report uses the body's figure of about 39,000 plants seized.
   - The seven people are described only as detained, with charges referred to the district attorney; no names, specific charges, or court outcome are given.
@@ -84,32 +89,31 @@ open_questions:
 Illegal Marijuana Enforcement Team detectives detained seven people on the
 morning of 2 August 2024 while serving a search warrant at a black-market
 cannabis grow in the 5900 block of Highway 234 in rural Central Point, Jackson
-County. [@1] The Jackson County Sheriff's Office said the detectives seized
+County. [@1,3] The Jackson County Sheriff's Office said the detectives seized
 approximately 39,000 illegal marijuana plants, $3,000 in cash and two firearms.
-[@2] The office said there was no licence for cannabis growing, handling or
-processing at the location. [@1] Charges were referred to the Jackson County
-District Attorney's Office. [@1]
+[@2,3] The office said there was no licence for cannabis growing, handling or
+processing at the location. [@1,3] Charges were referred to the Jackson County
+District Attorney's Office. [@1,3]
 
 Jackson County sheriff's deputies and Oregon State Police troopers assisted the
-team. [@1] Jackson County Code Enforcement issued $64,000 in fines to the
+team. [@1,3] Jackson County Code Enforcement issued $64,000 in fines to the
 landowner and a known responsible party for solid waste, an unpermitted pole
 barn, unpermitted electrical installations and failure to obtain land-use
-approval for marijuana production. [@1] The solid-waste violations concerned
+approval for marijuana production. [@1,3] The solid-waste violations concerned
 plastic piping, sheeting and other material that had been burned and buried in
 April 2024. [@1] Jackson County Fire District 3 had gone to the same property on
 16 April 2024 after three large piles of prohibited material were set on fire.
-[@1] Code Enforcement had already cited the landowner for the waste before it
+[@1,3] Code Enforcement had already cited the landowner for the waste before it
 was buried and burned, then issued a second citation because ashes and residual
 material remained. [@1]
 
 The sheriff's office said the Oregon Water Resources Department would issue a
-notice of violation for unauthorized water taken from Snider Creek. [@1]
+notice of violation for unauthorized water taken from Snider Creek. [@1,3]
 Watermasters estimated that stopping the use saved roughly 1.5 million gallons
-because of the age of the plants. [@1] The Illegal Marijuana Enforcement Team,
+because of the age of the plants. [@1,3] The Illegal Marijuana Enforcement Team,
 funded by a grant from the Oregon Criminal Justice Commission, includes
 personnel from the sheriff's office, Homeland Security Investigations, Oregon
 State Police, the Medford Police Department and the district attorney's office.
 [@1] The team focuses on the black-market marijuana trade in the Rogue Valley.
-[@1] The sheriff's office said investigations were open and detectives were
-working additional leads. [@1]
-
+[@1,3] The sheriff's office said investigations were open and detectives were
+working additional leads. [@1,3]
