@@ -49,13 +49,23 @@ sources:
     publisher: الوكالة الوطنية العراقية للأنباء (NINANews)
     date: 2026-11-17
     language: ar
+  - title: مخدرات الكرخ تطيح بـ6 متهمين وتضبط كميات من المواد المخدرة بعملية نوعية في بغداد
+    url: https://www.alrasheedmedia.com/2026/11/17/713506/
+    publisher: قناة الرشيد الفضائية (Alrasheed Media)
+    date: 2026-11-17
+    language: ar
+open_questions:
+    - The statement names no neighbourhood or premises in Karkh where either operation took place.
+    - No charges, detention order or court outcome were reported for the six suspects.
+    - The 5,280 Lyrica capsules seized in the second operation are a psychotropic drug, not cannabis, and are excluded from the cannabis figures.
+    - All accounts reproduce the same Drug Affairs Directorate statement, so the figures rest on a single official source.
 ---
 
 Iraq's General Directorate for Drug Affairs said detachments of its Karkh Drug
 Affairs Directorate carried out two separate security operations in Baghdad on
-Tuesday, 17 November 2026. [@1,3] The General Directorate said the first operation
+Tuesday, 17 November 2026. [@1,3,4] The General Directorate said the first operation
 led to the arrest of four suspects and the seizure of 1 kilogram and 350 grams
-of marijuana, along with tools used for consumption. [@1,3] A statement from the
+of marijuana, along with tools used for consumption. [@1,3,4] In a second operation, detachments seized 5,280 capsules of Lyrica and arrested two suspects; that psychotropic seizure is not counted in the cannabis figures here. [@4] A statement from the
 Karkh Police Command quoted by 964media gave the same figures for the marijuana
 operation and the four arrests. [@2]
 
