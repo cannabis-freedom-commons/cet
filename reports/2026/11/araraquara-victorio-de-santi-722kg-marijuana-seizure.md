@@ -64,6 +64,21 @@ media:
     media_url: https://portalmorada.com.br/wp-content/uploads/2026/11/0263e4a8-9da3-4f5c-b5d1-947116089a85-450x800.jpg
     publisher: Portal Morada
     caption: 'Second PM handout photo of the drugs and materials seized in the Victório De Santi house. Photo: Divulgação PM'
+  - kind: photo
+    url: https://regiaoemdestake.com.br/baep-apreende-722-kg-maconha-revolver-araraquara/
+    media_url: https://regiaoemdestake.com.br/wp-content/uploads/2026/11/baep-araraquara-045e7c1e.webp
+    publisher: Região em Destake
+    caption: 'Police dog Kira in front of stacks of bales seized by BAEP in Araraquara. Photo: Polícia Militar.'
+  - kind: photo
+    url: https://regiaoemdestake.com.br/baep-apreende-722-kg-maconha-revolver-araraquara/
+    media_url: https://regiaoemdestake.com.br/wp-content/uploads/2026/11/baep-araraquara-d5656c17.webp
+    publisher: Região em Destake
+    caption: 'Seized bales displayed beside a Military Police vehicle and a motorcycle. Photo: Polícia Militar.'
+  - kind: video
+    url: https://regiaoemdestake.com.br/baep-apreende-722-kg-maconha-revolver-araraquara/
+    media_url: https://regiaoemdestake.com.br/wp-content/uploads/2026/11/canil-araraquara-baep-apreensao.mp4
+    publisher: Região em Destake
+    caption: Video of the 11th BAEP operation and seizure in Araraquara.
 status: verified
 created_by_model: swancloud/deepseek-v4-flash#xhigh
 submission: 8613591eaddd5bdd21cd7cfab8228e73
@@ -93,25 +108,32 @@ sources:
     publisher: Opina News
     date: 2026-11-17
     language: pt
+  - title: BAEP apreende 722 kg de maconha e revólver em Araraquara
+    url: https://regiaoemdestake.com.br/baep-apreende-722-kg-maconha-revolver-araraquara/
+    publisher: Região em Destake
+    date: 2026-11-18
+    language: pt
+open_questions:
+    - 'Accounts differ about the person who left as police arrived: this article describes a driver in front of the property who was not approached, whereas g1 reported a suspect who fled through the back and was not located.'
 ---
 
 Military police officers from the 11th Battalion of Special Police Actions
 (BAEP), with support from the Canine Unit, seized more than 722 kg of marijuana
 on Tuesday 17 November 2026 at a property in the Victório De Santi Housing
-Complex in Araraquara, in the interior of São Paulo. [@1,4,5] The teams went to the
+Complex in Araraquara, in the interior of São Paulo. [@1,4,5,6] The teams went to the
 property after an anonymous report through the 181 hotline that the house was
-being used to store drugs and weapons. [@2,5]
+being used to store drugs and weapons. [@2,5,6] The property was on Rua Mário Leite Carrijo, where the team arrived at about 10:30. [@6]
 
 During the search officers located 750 bricks of marijuana, weighing 662.151 kg,
 and 94 packages of Colombian-type marijuana, weighing 60.16 kg, totaling 722.311
-kg. [@1,4,5] Officers also seized a .38 caliber revolver, four intact rounds of
+kg. [@1,4,5,6] The search, assisted by the sniffer dog Kira, found the drugs in one of the rooms. [@6] Officers also seized a .38 caliber revolver, four intact rounds of
 ammunition, one spent cartridge, four precision scales, about six thousand empty
 plastic microtubes, six tubes of poppers, a Honda CG 125 motorcycle and a
-notebook with notes related to drug trafficking. [@1,4,5]
+notebook with notes related to drug trafficking. [@1,4,5,6]
 
 All the material was sent to the Central Police Station in Araraquara, where the
 incident was registered as drug trafficking by unknown authors; no arrests were
-made. [@1,4,5] A suspect who was in the property when police arrived fled through
+made. [@1,4,5,6] Forensic examiners attended the property. [@6] A suspect who was in the property when police arrived fled through
 the back and had not been located. [@3] The g1 account describes the 722 kg
 total as including portions of hashish alongside the common and Colombian-type
 marijuana. [@3]
