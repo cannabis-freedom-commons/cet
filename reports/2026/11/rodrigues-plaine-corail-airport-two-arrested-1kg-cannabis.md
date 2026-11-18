@@ -43,11 +43,18 @@ sources:
     publisher: IONNEWS
     date: 2026-11-16
     language: fr
+  - title: 'Rodrigues : Un homme et une femme pris avec du cannabis dans des sandales'
+    url: https://lexpress.mu/s/un-homme-et-une-femme-pris-avec-du-cannabis-dans-des-sandales-564869
+    publisher: lexpress.mu
+    date: 2026-11-18
+    language: fr
 open_questions:
-  - Only one original source could be found; the other versions located are reposts of the same report.
-  - The article gives no form for the cannabis, no value estimate and no laboratory confirmation.
-  - No charges, court appearance or outcome were reported; the investigation was continuing.
-  - The two people are identified only by age, occupation and place of residence, with no names released.
+    - The accounts give different times for the interception, about 19:25 and about 19:40.
+    - The accounts differ on the two suspects' ages, one giving 25 and 27 and another 27 for the pair.
+    - The kilogram is given as a gross weight of leaves suspected to be cannabis, with no laboratory confirmation and no value estimate.
+    - No charges, court appearance or outcome were reported; the investigation was continuing.
+    - Neither account says whether the pair were arriving on or leaving Rodrigues, and their flight and route are not given.
+    - No outcome was reported in the separate money-laundering inquiry over the Rs 725 seized.
 ---
 
 On the evening of Saturday 14 November 2026, at around 19:40, officers of the
@@ -56,7 +63,6 @@ first is a 25-year-old services coordinator residing at Camp Pintade; the second
 is a 27-year-old tele-agent living at Montagne Cabris Est. [@1]
 
 Both were stopped after officers found them in possession of one kilogram of
-cannabis. [@1] The two suspects were arrested and placed in cells. [@1]
+cannabis. [@1,2] Both kept silent when questioned after being informed of their rights. [@2] The cannabis was hidden in four pairs of Marina Rossi sandals, each packed in its own box, and a scanner showed suspect material under the soles. [@2] Acting on information, officers intercepted the pair at about 19:25 as they stood with their luggage and took them to ADSU premises for a search after they declined to give their identity. [@2] The two suspects were arrested and placed in cells. [@1]
 
-The investigation is continuing. [@1]
-
+The investigation is continuing. [@1,2] In a separate money-laundering procedure, Rs 725 found on one of the two was seized as suspected proceeds of drug trafficking. [@2]
