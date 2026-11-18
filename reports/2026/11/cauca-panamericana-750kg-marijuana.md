@@ -59,6 +59,11 @@ sources:
     publisher: Ejército Nacional de Colombia
     date: 2026-11-17
     language: es
+  - title: Incautan más de una tonelada de droga en el Cauca
+    url: http://diariodelcauca.com.co/noticias/incautan-mas-de-una-tonelada-de-droga-en-el-cauca
+    publisher: Diario del Cauca
+    date: 2026-11-17
+    language: es
 open_questions:
   - No calendar date is given for the four operations; Semana reported them on 16 November 2026, Diario del Sur published on 17 November and the army statement was updated that day, so 16 November is used as the incident date.
   - The army's approximately 1,048 kg total is a combined figure that includes 298 kg of cocaine hydrochloride, so it is not counted as cannabis; the cannabis total covers only the separately stated 250 kg and 500 kg of marijuana.
@@ -81,17 +86,16 @@ to Yumbo, Valle del Cauca, bound for Buenaventura. [@1]
 
 At kilometre 89 in Mercaderes, southern Cauca, troops seized 250 kilograms of
 marijuana and a private vehicle, affecting the finances of the Carlos Patiño
-structure, the army said. [@1] At kilometre 20 in Patía, troops and police found
+structure, the army said. [@1,4] At kilometre 20 in Patía, troops and police found
 500 kilograms of marijuana in another private vehicle linked to the same
-structure after the driver abandoned it and fled. [@1] Semana reported that the
+structure after the driver abandoned it and fled. [@1,4] Semana reported that the
 two hauls made three-quarters of a tonne of marijuana seized from the same
 criminal organisation. [@2] The army put the total across all four operations at
 about 1,048 kilograms of narcotics, a combined figure that also includes the
-cocaine. [@1]
+cocaine. [@1,4]
 
 Three people were captured in the sweep and vehicles were recovered or
 immobilised, the army said. [@3] The army said the deployment was intended to
 counter recent armed actions, weaken residual armed groups and protect civilians
 and people using the road in southwestern Colombia. [@1] The 29th Brigade said
 checkpoints and offensive operations on the corridor would continue. [@2]
-
