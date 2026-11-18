@@ -59,6 +59,11 @@ media:
     media_url: https://www.caaraponews.com.br/userfiles/uploads/imagens/materias/2026/11/original/8b6ba067-81f3-4a12-b278-05687a924163.jpg
     publisher: Caarapó News
     caption: 'PRF handout photo of the marijuana seized in the two Eldorado and Rio Brilhante truck stops, published with the Caarapó News account. Photo: PRF'
+  - kind: photo
+    url: https://www.maracajuspeed.com.br/noticia/caminhao-com-carvao-ilegal-escondia-2-67-toneladas-de-maconha-em-ms
+    media_url: https://www.maracajuspeed.com.br/uploads/news/2026/11/caminhao-com-carvao-ilegal-escondia-2-67-toneladas-de-maconha-em-ms-1794915129.jpg
+    publisher: Maracaju Speed
+    caption: 'Seized marijuana in the charcoal load from the Eldorado truck stop. Photo: Divulgação'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a8e9db903d6820cbbd09a9512544f613
@@ -109,6 +114,11 @@ sources:
     publisher: Caarapó News
     date: 2026-11-17
     language: pt
+  - title: Caminhão com carvão ilegal escondia 2,67 toneladas de maconha em MS
+    url: https://www.maracajuspeed.com.br/noticia/caminhao-com-carvao-ilegal-escondia-2-67-toneladas-de-maconha-em-ms
+    publisher: Maracaju Speed
+    date: 2026-11-17
+    language: pt
 ---
 
 The Federal Highway Police seized 6,048 kilograms of marijuana in two stops in
@@ -116,12 +126,12 @@ Mato Grosso do Sul on Monday 16 November 2026. [@2,4,5,6,7,8] The police said bo
 followed the force's own risk-analysis work. [@2,4,5,7,8] In Eldorado, officers
 supported by the Military Police found 2,670 kilograms of marijuana hidden in a
 truckload of charcoal that had been loaded in Sete Quedas and was bound for
-Maringá in Paraná. [@2,5,6,7,8,9] In Eldorado the inspection was carried out as part of
+Maringá in Paraná. [@2,5,6,7,8,9,10] The seizure was estimated to cost organised crime R$5.35 million. [@10] A detailed search found bundles of marijuana tablets wrapped in plastic in the bodywork, totalling approximately 2,670 kilograms on official weighing. [@10] The environmental violation drew a R$5,100 administrative fine at R$300 per cubic metre under Federal Decree 6,514/2008. [@10] The truck carried 16.34 cubic metres of charcoal loaded in Sete Quedas without the required Forest Origin Document. [@10] Officers stopped a Mercedes-Benz 2213 truck carrying charcoal to Maringá, Paraná, after noting the driver's nervousness and contradictions about the load's origin and route. [@10] In Eldorado the inspection was carried out as part of
 the integrated Operation Piracema enforcement with the Environmental Military
-Police. [@3,9]
+Police. [@3,9,10]
 
 The Eldorado driver claimed not to know the drug was in the vehicle, and he was
-arrested and sent with the drug and the truck to the Eldorado Civil Police. [@2,4,5,6,7,8,9] Both drivers were arrested in the Eldorado and Rio Brilhante stops. [@6]
+arrested and sent with the drug and the truck to the Eldorado Civil Police. [@2,4,5,6,7,8,9,10] Both drivers were arrested in the Eldorado and Rio Brilhante stops. [@6]
 In Rio Brilhante, the driver of the second truck admitted he had collected the
 vehicle already loaded with the drugs in Itaporã and was taking them to São
 Paulo. [@2,4,5,6,7,8,9] Officers in Rio Brilhante found 3,378 kilograms of marijuana and 9.1
