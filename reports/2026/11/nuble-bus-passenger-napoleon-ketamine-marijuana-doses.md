@@ -41,6 +41,11 @@ media:
     media_url: https://img.soy-chile.cl/Fotos/2026/11/18/file_20261118135121.jpg
     publisher: SoyChile
     caption: 'Evidence packages laid out on a table after the Ñuble roadside check, in the photo supplied with the SoyChile report. Photo: Cedida / SoyChile'
+  - kind: photo
+    url: https://radiocontacto.cl/2026/11/18/napoleon-lo-hizo-de-nuevo-can-detector-de-drogas-de-carabineros-de-os7-nuble-permitio-incautar-ketamina-y-marihuana-en-control-carretero-en-la-ruta-5-sur/
+    media_url: https://radiocontacto.cl/wp-content/uploads/2026/11/IMG-20261118-WA0019-780x470.webp
+    publisher: Radio Contacto 90.7 FM
+    caption: Evidence packages laid out on a table beneath a green 'Segunda Línea de Control' banner, in the photo published with the Radio Contacto account of the Ñuble bus check.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 5fb0a7070bc524f8e30500a3215a5e0a
@@ -56,6 +61,11 @@ sources:
     publisher: La Discusión
     date: 2026-11-18
     language: es
+  - title: 'Napoleón lo hizo de nuevo:  Can detector de drogas de Carabineros de OS7 Ñuble permitió incautar ketamina y marihuana en control carretero en la ruta 5 Sur'
+    url: https://radiocontacto.cl/2026/11/18/napoleon-lo-hizo-de-nuevo-can-detector-de-drogas-de-carabineros-de-os7-nuble-permitio-incautar-ketamina-y-marihuana-en-control-carretero-en-la-ruta-5-sur/
+    publisher: Radio Contacto 90.7 FM
+    date: 2026-11-18
+    language: es
 open_questions:
   - Police gave no separate weight or dose count for the marijuana; the figure of about 400 doses covers ketamine and marijuana together, so no cannabis weight is recorded.
   - No calendar date is given for the roadside check; 18 November 2026, the publication date, stands in for the incident date.
@@ -68,17 +78,16 @@ open_questions:
 
 Carabineros officers stopped an intercity bus on Ruta 5 Sur in the Ñuble region
 during the early hours, as part of the force's Segunda Línea de Control highway
-checks. [@1] The drug detection dog Napoleón and its handler alerted to
-controlled substances in the hand luggage and clothing of a passenger. [@1]
-Officers then detained the man, who has a criminal record. [@1]
+checks. [@1,3] The drug detection dog Napoleón and its handler alerted to
+controlled substances in the hand luggage and clothing of a passenger. [@1,3]
+Officers then detained the man, who has a criminal record. [@1,3]
 
 Police said the search yielded about 400 doses of ketamine and marijuana,
-counted together, and more than 70,000 pesos in cash. [@1] A second local
+counted together, and more than 70,000 pesos in cash. [@1,3] A second local
 account of the same operation reported the same seizure and detention. [@2]
 
 Ñuble prefect Colonel José Luis Villegas said the checks were planned and
-focused rather than random, and credited the work of the detector dogs. [@1]
+focused rather than random, and credited the work of the detector dogs. [@1,3]
 Villegas said drug trafficking remained a priority for Carabineros, especially
 against substances such as ketamine, which he said can cause serious harm to
-health. [@1]
-
+health. [@1,3]
