@@ -63,29 +63,42 @@ sources:
     publisher: Lokkio
     date: 2026-11-17
     language: it
+  - title: Oltre un chilo di marijuana in casa, arrestato 50enne di Piverone
+    url: https://lasentinella.it/uncategorized/2026/11/17/oltre-un-chilo-di-marijuana-in-casa-arrestato-50enne-di-piverone/
+    publisher: La Sentinella del Canavese
+    date: 2026-11-17
+    language: it
 media:
   - kind: photo
     url: https://www.rainews.it/amp/tgr/piemonte/articoli/2026/11/barattoli-etichette-e-in-infusi-a-piverone-scoperta-la-droga-gran-riserva-cfea69c2-64dd-4031-a614-35106d6f0101.html
     media_url: https://www.rainews.it/dl/img/2026/11/17/1794903816005_Carabinieri_droga.jpeg
     publisher: RaiNews (TGR Piemonte)
     caption: 'Two Carabinieri officers with the jars and packages of seized drugs recovered in the Piverone search. Photo: Carabinieri'
+  - kind: photo
+    url: https://lasentinella.it/uncategorized/2026/11/17/oltre-un-chilo-di-marijuana-in-casa-arrestato-50enne-di-piverone/
+    media_url: https://lasentinella.it/wp-content/uploads/2026/11/carabinieri.jpeg
+    publisher: La Sentinella del Canavese
+    caption: 'The drugs seized by Carabinieri in the Piverone case, in the photo published with the article. Photo: Carabinieri'
+open_questions:
+    - No precise date is given for the station check and arrest; the operation is described as having taken place 'nei giorni scorsi' (in recent days), and 15 November 2026 is used as the incident date.
+    - No plea or court outcome beyond the validation of the arrest was reported.
 ---
 
 Carabinieri officers from the Ivrea mobile radio section, assisted by colleagues
 from Azeglio, arrested a 50-year-old unemployed Piverone resident on accusations
-of possessing drugs for dealing purposes. [@1,3,4] Officers stopped the man at Ivrea
-railway station after noticing him moving suspiciously along the tracks. [@1,2,3,4]
+of possessing drugs for dealing purposes. [@1,3,4,5] Officers stopped the man at Ivrea
+railway station after noticing him moving suspiciously along the tracks. [@1,2,3,4,5] The operation began in the morning, when Carabinieri noticed the man moving suspiciously in the station area. [@5]
 When asked for identification, the man appeared agitated and nervous and tried
-to hide a small container in his jacket pocket. [@1,2,3,4]
+to hide a small container in his jacket pocket. [@1,2,3,4,5]
 
 The subsequent search recovered a glass jar containing several grams of
-marijuana and 170 euros in cash from his wallet. [@1,4] The jar recovered in the personal search contained 3 grams of marijuana. [@2] As is standard practice,
+marijuana and 170 euros in cash from his wallet. [@1,4,5] The jar recovered in the personal search contained 3 grams of marijuana. [@2,5] As is standard practice,
 officers then extended the checks to his home in Piverone. [@1,3] There they found
 a large stock of drugs, partly already divided into glass jars and containers
-labelled by type and quality. [@1]
+labelled by type and quality. [@1,5]
 
 In total officers recovered and seized over 1.1 kilograms of marijuana, three
 bottles of marijuana infusing in presumably alcoholic substances, one small
-bottle of cannabis tincture, six grams of hashish and a precision scale. [@1,2,3,4] The precision scale carried residues of the narcotic substance. [@4]
+bottle of cannabis tincture, six grams of hashish and a precision scale. [@1,2,3,4,5] The precision scale carried residues of the narcotic substance. [@4]
 The man was arrested and taken to prison on the orders of the Ivrea prosecutor's
-office. [@1,2,3,4] The arrest was validated and the man was transferred to Ivrea prison after the validation. [@3]
+office. [@1,2,3,4,5] The arrest was validated and the man was transferred to Ivrea prison after the validation. [@3]
