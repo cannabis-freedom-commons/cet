@@ -46,13 +46,18 @@ sources:
     publisher: صحيفة صراحة الالكترونية
     date: 2026-11-17
     language: ar
+  - title: القبض على مواطن ومقيمين إريتري وإثيوبي في الرياض بتهمة ترويج الحشيش المخدر وأقراص طبية تنظيمية – الاستاد الاخباري
+    url: https://www.alestad.com/158972/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%88%D9%85%D9%82%D9%8A%D9%85%D9%8A%D9%86-%D8%A5%D8%B1%D9%8A%D8%AA%D8%B1%D9%8A-%D9%88%D8%A5%D8%AB%D9%8A%D9%88%D8%A8/
+    publisher: الاستاد الاخباري
+    date: 2026-11-17
+    language: ar
 ---
 
 Saudi Arabia's General Directorate of Narcotics Control, the country's dedicated
 anti-drug agency, arrested four people in the Riyadh region: two Ethiopian
-residents, one Eritrean resident and one Saudi citizen. [@1,2] The four were
+residents, one Eritrean resident and one Saudi citizen. [@1,2,3] The four were
 accused of trafficking 39 kilograms of hashish, a cannabis resin, along with
-tablets subject to regulated pharmaceutical trading. [@1,2]
+tablets subject to regulated pharmaceutical trading. [@1,2,3]
 
 The suspects were detained, legal procedures were taken against them and they
 were referred to the public prosecutor. [@1,2] The security authorities urged
