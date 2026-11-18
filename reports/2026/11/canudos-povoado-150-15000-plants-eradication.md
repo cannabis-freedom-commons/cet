@@ -116,6 +116,11 @@ sources:
     publisher: Informe Baiano
     date: 2026-11-18
     language: pt
+  - title: Ação integrada das polícias Civil e Militar destrói plantio com 15 mil pés de maconha em Canudos
+    url: https://muitainformacao.com.br/policia/acao-integrada-das-policias-civil-e-militar-destroi-plantio-com-15-mil-pes-de-maconha-em-canudos/
+    publisher: Muita Informação com Osvaldo Lyra
+    date: 2026-11-18
+    language: pt
 open_questions:
     - No weight, area in hectares or street value was given for the plantation.
     - No one was arrested and the sources do not say whether anyone was found at the site.
@@ -125,15 +130,15 @@ open_questions:
 ---
 
 Civil and Military Police in Bahia found and destroyed a cannabis plantation in
-rural Canudos on Tuesday 17 November 2026. [@1,5,6,7,8,9] The plantation was at a place
+rural Canudos on Tuesday 17 November 2026. [@1,5,6,7,8,9,10] The plantation was at a place
 known as Povoado 150 and was found after intelligence work by the state security
-forces. [@1,5,6,7,8,9] No one was arrested at the site, and the Civil and Military Police
+forces. [@1,5,6,7,8,9,10] No one was arrested at the site, and the Civil and Military Police
 said inquiries were continuing to identify and arrest those responsible. [@2,5,7,9]
 
 Officers used drones to find the crop and reach the clearing, then uprooted and
-burned the plants. [@1,5,6,7,8,9] The security secretariat said the state forces found
-15,000 cannabis plants at the site. [@2,5,6,7,9] Officers also destroyed sleeping
-quarters and an irrigation system used to keep the plantation running. [@3,5,6,7,8,9]
+burned the plants. [@1,5,6,7,8,9,10] The security secretariat said the state forces found
+15,000 cannabis plants at the site. [@2,5,6,7,9,10] Officers also destroyed sleeping
+quarters and an irrigation system used to keep the plantation running. [@3,5,6,7,8,9,10]
 
 The operation was part of integrated police action against drug trafficking and
-criminal factions in the region. [@4,8,9]
+criminal factions in the region. [@4,8,9,10]
