@@ -67,6 +67,11 @@ sources:
     publisher: Harian SIB
     date: 2026-11-18
     language: id
+  - title: Kejari Sergai Musnahkan Barang Bukti 85 Perkara Inkracht, Ada Sabu, Ganja hingga Senpi
+    url: https://sumutpos.jawapos.com/amp/sumatera-utara/2611180022/kejari-sergai-musnahkan-barang-bukti-85-perkara-inkracht-ada-sabu-ganja-hingga-senpi
+    publisher: Sumut Pos
+    date: 2026-11-18
+    language: id
 open_questions:
     - The 85 cases included 36 narcotics cases, but the sources do not say how many involved ganja.
     - The 217 grams of sabu, the firearm, ammunition and other items destroyed alongside the ganja are not cannabis and are excluded from the cannabis figure.
@@ -86,7 +91,7 @@ violence cases, two indecent assault cases, one firearms possession case and two
 others. [@1,3,4] The destroyed evidence included 217 grams of sabu, 5,940.01 grams
 (almost six kilograms) of ganja, one firearm and five rounds of ammunition. [@1,3,4]
 Other items destroyed included egrek, bongs, mobile phones, Pyrex glass,
-matches, clothing, wood and other objects linked to the offences. [@1,3,4] A second
+matches, clothing, wood and other objects linked to the offences. [@1,3,4] The evidence was destroyed by burning, blending and cutting with an angle grinder, in view of the invited guests. [@5] A second
 account gives the same case breakdown of 36 narcotics, 26 theft, 11 assault,
 seven sexual-violence, two indecent-assault, one firearms and two other cases.
 [@2] Representatives of the Sei Rampah district court, Sergai and Tebing Tinggi
