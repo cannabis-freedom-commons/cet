@@ -37,32 +37,36 @@ sources:
     publisher: La Opinión de Málaga
     date: 2026-11-16
     language: es
+  - title: '"13 enganches ilegales cada día": en Málaga han robado 33 millones de kWh de electricidad en diez meses y las plantaciones de marihuana tienen mucho que ver'
+    url: https://www.xataka.com/magnet/13-enganches-ilegales-cada-dia-malaga-han-robado-33-millones-kwh-electricidad-diez-meses-plantaciones-marihuana-tienen-mucho-que-ver
+    publisher: Xataka
+    date: 2026-11-18
+    language: es
 open_questions:
-  - No arrests, charges, plant counts or drug weights were reported for the 43 installations.
-  - No breakdown by municipality or date for individual disconnections was published.
-  - The 4.5 million kWh and 14% share are e-distribución figures with no separate police seizure totals.
-  - 1 January to 31 October 2026 is used for the stated January to October reporting period.
-  - No separate police statement was opened; the account rests on the company balance as reported by one newspaper.
+    - No arrests, charges, plant counts or drug weights were reported for the 43 cannabis-linked installations.
+    - No breakdown by municipality or date for the individual disconnections was published.
+    - The 4.5 million kWh and 14% share are e-distribución estimates, with no separate police seizure totals.
+    - The exact start and end dates within the stated January-to-October 2026 period were not given.
+    - The account rests on e-distribución's own balance, re-reported by several outlets, with no independent police statement.
 ---
 
-e-distribución is Endesa's grid subsidiary. [@1] Between January and October, it
+e-distribución is Endesa's grid subsidiary. [@1,2] Between January and October, it
 dismantled 43 installations in homes and warehouses linked to these crops in
-operations with state security forces. [@1] The company estimated it
+operations with state security forces. [@1,2] The company estimated it
 disconnected about one plantation a week in the province during that period.
 [@1]
 
 In the same period it detected more than 3,900 electricity-supply frauds in
-Málaga province, an average of thirteen cases a day. [@1] Those 43 installations
+Málaga province, an average of thirteen cases a day. [@1,2] The fraudulent connections accounted for 33 million kWh of electricity, the consumption of more than 9,500 homes. [@2] Those 43 installations
 accounted for 4.5 million kWh of defrauded energy, 14% of the electricity stolen
-in Málaga. [@1] Each plantation used on average as much electricity as 80 homes.
-[@1] In some areas the concentration of such installations saturates the grid
+in Málaga. [@1,2] Each plantation used on average as much electricity as 80 homes.
+[@1,2] In some areas the concentration of such installations saturates the grid
 and temporarily leaves neighbours without supply. [@1]
 
 The company cited the 2026 European Drug Report, which puts Spain as the EU
-country accounting for 75% of cannabis-plant seizures. [@1] It also cited
+country accounting for 75% of cannabis-plant seizures. [@1,2] It also cited
 Interior Ministry warnings that transnational criminal organisations have
 settled in Spain to pursue this activity. [@1] Endesa welcomed the entry into
 force of Organic Law 1/2026, which adds a paragraph to article 255 of the Penal
 Code providing prison terms when electricity fraud supplies installations used
-for drug-trafficking offences. [@1]
-
+for drug-trafficking offences. [@1,2] The consumer group FACUA and the Con Málaga platform say the operations criminalise a whole neighbourhood, while Endesa says the risk of electrocution and fire justifies acting. [@2] The new provision is not retroactive, so acts committed before it are judged under the previous law. [@2] From 10 April 2026 the new article 255.3 imposes 6 to 18 months in prison, or a fine of 12 to 24 months, on anyone connecting illegally to supply installations used for drug-trafficking offences, whatever the amount involved. [@2]
