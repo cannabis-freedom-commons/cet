@@ -46,6 +46,11 @@ media:
     media_url: https://www.contramuro.com/wp-content/uploads/2026/11/cateos-en-morelia-personas-detenidas-narcomenudeo-780x519.jpeg
     publisher: Contramuro
     caption: 'FGE handout photo of the Morelia cateo operation published with the report on the four searches. Photo: FGE Michoacán'
+  - kind: photo
+    url: https://grupomarmor.com.mx/2026/11/17/fge-detiene-a-tres-personas-y-asegura-casi-5-kilos-de-marihuana-durante-cuatro-cateos-en-morelia/
+    media_url: https://grupomarmor.com.mx/storage/2026/11/cateos-fge-detenidos-drogas-marihuana-narcomenudeo-morelia-696x392.jpg
+    publisher: Grupo Marmor
+    caption: Security personnel guarding a perimeter during the narcomenudeo cateos in Morelia, Michoacán.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 676866c47822ea0ac7ad1cc42df7182d
@@ -66,6 +71,11 @@ sources:
     publisher: Agencia Esquema
     date: 2026-11-17
     language: es
+  - title: FGE detiene a tres personas y asegura casi 5 kilos de marihuana durante cuatro cateos en Morelia
+    url: https://grupomarmor.com.mx/2026/11/17/fge-detiene-a-tres-personas-y-asegura-casi-5-kilos-de-marihuana-durante-cuatro-cateos-en-morelia/
+    publisher: Grupo Marmor
+    date: 2026-11-17
+    language: es
 open_questions:
   - No separate date for the searches was published; 17 November 2026 is the publication date and is used as the incident date.
   - The 4.9 kilograms is stated as approximate, and no laboratory confirmation of the marijuana was reported.
@@ -78,26 +88,25 @@ open_questions:
 
 Michoacán state prosecutors, together with the National Guard, the Defence
 Ministry and Morelia police, executed four search warrants at different points
-across the state capital. [@1] The searches were carried out by the
+across the state capital. [@1,4] The searches were carried out by the
 street-dealing investigation and prosecution unit following investigations into
 possible health offences in the form of narcomenudeo. [@1] In a house in the
 Puerto de Buenavista neighbourhood officers detained Karol Fernando “N”, 21, and
-Audiel “N”, 48. [@1] In a second operation in the Bonanza housing development
-officers detained Juan Carlos “N”, 36, known as “Calaco”. [@3]
+Audiel “N”, 48. [@1,4] In a second operation in the Bonanza housing development
+officers detained Juan Carlos “N”, 36, known as “Calaco”. [@3,4]
 
 At the Puerto de Buenavista house officers seized about 4.9 kilograms of
 marijuana, as well as methamphetamine and a substance with the characteristics
-of cocaine. [@1] Officers also found 48 vaporisers with cannabis extract, seven
+of cocaine. [@1,4] Officers also found 48 vaporisers with cannabis extract, seven
 cans of gummies, digital scales, mobile phones and bags allegedly used to store
-narcotics. [@2] At the Bonanza house officers seized methamphetamine, marijuana,
+narcotics. [@2,4] At the Bonanza house officers seized methamphetamine, marijuana,
 a precision scale and other objects linked to the investigation. [@1] In another
 Puerto de Buenavista property officers found 10 wraps of methamphetamine, while
 in the Ignacio Zaragoza neighbourhood they seized 45 wraps of the same drug and
-a metal pipe. [@1]
+a metal pipe. [@1,4]
 
 The four searches took place in the Puerto de Buenavista and Ignacio Zaragoza
 neighbourhoods and the Bonanza development, ending with three detentions and
 almost five kilograms of drugs seized. [@2] The three detained people and
 everything seized were placed at the disposal of the Public Prosecutor, which
-will determine their legal situation. [@1]
-
+will determine their legal situation. [@1,4]
