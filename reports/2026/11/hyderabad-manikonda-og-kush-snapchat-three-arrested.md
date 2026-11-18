@@ -69,6 +69,11 @@ sources:
     publisher: Newspoint
     date: 2026-11-18
     language: en
+  - title: Telangana's EAGLE Force busts drug trafficking network, three held
+    url: https://theprint.in/india/telanganas-eagle-force-busts-drug-trafficking-network-three-held/3102284/
+    publisher: ThePrint
+    date: 2026-11-18
+    language: en
 media:
   - kind: photo
     url: https://www.siasat.com/snapchat-orders-crypto-payments-eagle-force-busts-ganja-network-3580539/
@@ -78,9 +83,9 @@ media:
 ---
 
 Telangana's EAGLE Force arrested three people in Hyderabad and seized 1.24 kg of
-ganja, 16.59 grams of OG Kush, three mobile phones and a car. [@1,2,3,5] The arrested
+ganja, 16.59 grams of OG Kush, three mobile phones and a car. [@1,2,3,5,7] The arrested
 men were Mohammed Idres Kaleem, 28, Syed Abbas Husaini, 30, and Mohammed Sheikh,
-23. [@1,2,4,6] Idres and Abbas allegedly managed the Snapchat accounts and handled customer orders, while Sheikh, a cab driver, delivered the contraband to customers at different locations in the city. [@2,6] The operation followed information that ganja and OG Kush were being
+23. [@1,2,4,6,7] Idres and Abbas allegedly managed the Snapchat accounts and handled customer orders, while Sheikh, a cab driver, delivered the contraband to customers at different locations in the city. [@2,6] The operation followed information that ganja and OG Kush were being
 moved in a white Maruti Tour H3 car on 15 November. [@1,6] Officers intercepted
 the car at about 6.35 pm as the three returned from Lanco Hills towards JA Royal
 Suites in Shirdi Sai Nagar, Manikonda. [@1,3,5] The white Maruti Tour H3 car bore registration TG 07 Y 2937 and was stopped with help from the CLUES team. [@3] A search of the car found 1,240
