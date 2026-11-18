@@ -48,11 +48,15 @@ sources:
     publisher: Jagarantripura.com
     date: 2026-11-18
     language: bn
+  - title: Nearly 30,000 cannabis plants destroyed at Jatrapur
+    url: https://tripurachronicle.in/local-news/nearly-30000-cannabis-plants-destroyed-at-jatrapur/
+    publisher: Tripura Chronicle
+    date: 2026-11-18
+    language: en
 open_questions:
-  - The count of about 30,000 plants is approximate and no separate measured weight, area cleared or value estimate was published.
-  - No arrests, charges, named suspects or court outcome were reported.
-  - 18 November 2026 is both the publication date and the Wednesday on which the operation reportedly began at 10 a.m.
-  - The whole account rests on a single outlet's report of the Jatrapur police statement; no second outlet or agency statement was found.
+    - The count of about 30,000 plants is approximate and no separate measured weight, area cleared or value estimate was published.
+    - No arrests, charges, named suspects or court outcome were reported.
+    - 18 November 2026 is both the publication date and the Wednesday on which the operation reportedly began at 10 a.m.
 ---
 
 Jatrapur police launched a strict drive against cannabis cultivation with
@@ -60,18 +64,17 @@ combing searches across forests in its station area starting Wednesday 18
 November 2026, in what was described as an open rather than covert operation.
 [@1] Officer-in-charge Partha Nath Bhowmik said the operation began at 10 a.m.
 on Wednesday and teams searched different areas through the day before returning
-to the station. [@1]
+to the station. [@1,2]
 
 Officers first searched the forest department's reserved forest east of
 Kalikrishnanagar gram panchayat, then the jungle east of Mundapara in Nidaya
-gram panchayat, and then the sanctuary-adjacent jungle further south. [@1] On
+gram panchayat, and then the sanctuary-adjacent jungle further south. [@1,2] On
 the first day, across those three separate areas, officers cut and destroyed
 about 30,000 cannabis plants that had been cultivated on 13 plots, according to
-the officer-in-charge. [@1]
+the officer-in-charge. [@1,2]
 
-Bhowmik said the drive against cannabis cultivation would continue. [@1] On the
+Bhowmik said the drive against cannabis cultivation would continue. [@1,2] On the
 instructions of senior police officials, police will keep identifying cannabis
-gardens in forests around Jatrapur and destroying them in the coming days. [@1]
+gardens in forests around Jatrapur and destroying them in the coming days. [@1,2]
 The first day's reported total came from the three-area sweep that opened the
 continuing operation. [@1]
-
