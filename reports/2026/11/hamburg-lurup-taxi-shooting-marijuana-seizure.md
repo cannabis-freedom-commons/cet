@@ -82,14 +82,11 @@ sources:
     publisher: SAT.1 Regional
     date: 2026-11-18
     language: de
-open_questions:
-    - 17 November 2026 is inferred as the raid date from the police statement's references to yesterday and Tuesday morning relative to its 18 November publication, while the Hamburger Morgenpost account dates the searches to Monday.
-    - The marijuana amount is approximate, stated as just under 1.1 kilograms, with no purity or laboratory confirmation reported.
-    - The 7.1 kilograms of heroin, 4.5 kilograms of cocaine and 2.5 kilograms of cutting agent from the same search are described in the text but excluded from the cannabis figures.
-    - No plea or further court outcome beyond the arrest and pre-trial detention orders was reported.
-    - Apart from the agency statement, the available accounts largely reproduce the same police information rather than reporting independently.
-    - WELT's dpa account says the 24-year-old was taken into pre-trial detention for drug possession, while the police statement gives no offence for him beyond the drugs found in an apartment attributed to him.
-    - The Hamburg police statement says the 3,300 euros in suspected deal money were seized in further searches, while the dpa accounts place the money in the Schenefeld apartment search.
+  - title: 'Drogenfund in Schenefeld: Heroin, Kokain und Marihuana entdeckt'
+    url: https://www.shz.de/lokales/pinneberg-schenefeld/artikel/drogenfund-in-schenefeld-heroin-kokain-und-marihuana-entdeckt-51768541
+    publisher: shz.de
+    date: 2026-11-18
+    language: de
 media:
   - kind: photo
     url: https://www.mopo.de/hamburg/polizei/taxi-schuesse-auf-st-pauli-polizei-fasst-verdaechtigen-26-und-findet-kiloweise-drogen/5093793
@@ -111,11 +108,11 @@ Budapester Strasse before the stranger fired repeatedly at the taxi, leaving the
 driver uninjured. [@4] In the Schenefeld apartment attributed to the
 24-year-old, officers found around 7.1 kilograms of heroin, about 4.5 kilograms
 of cocaine, just under 1.1 kilograms of marijuana and almost 2.5 kilograms of
-cutting agent. [@2,5,7,8] In the remaining searches officers seized around 3,300 euros
+cutting agent. [@2,5,7,8,9] In the remaining searches officers seized around 3,300 euros
 in suspected deal money, a brass knuckle and other potential evidence. [@2,5]
 Officers searched four premises in Hamburg and one each in Schenefeld and
 Magdeburg on Tuesday morning. [@3,6]
 
 The 26-year-old was served an arrest warrant on suspicion of attempted murder.
 [@2,7] A judge also issued a pre-trial detention order against the 24-year-old.
-[@4,7] The 24-year-old was taken into pre-trial detention on suspicion of drug possession. [@5,8] Joint investigations by the prosecution authorities are continuing. [@2]
+[@4,7,9] The 24-year-old was taken into pre-trial detention on suspicion of drug possession. [@5,8] Joint investigations by the prosecution authorities are continuing. [@2]
