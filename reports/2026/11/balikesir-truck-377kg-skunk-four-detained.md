@@ -96,18 +96,19 @@ sources:
     publisher: Yeni Şafak
     date: 2026-11-18
     language: tr
-open_questions:
-    - No value estimate for the 377 kilograms 200 grams was published.
-    - The material was described as esrar, also called skunk, without a reported laboratory confirmation.
-    - No plea, charge sheet or court outcome beyond the four detentions was reported.
+  - title: Balıkesir'de 377 kilo uyuşturucu ele geçirildi
+    url: https://www.yenimesaj.com.tr/balikesirde-377-kilo-uyusturucu-ele-gecirildi-H1621977.htm
+    publisher: Yeni Mesaj
+    date: 2026-11-18
+    language: tr
 ---
 
 Balıkesir provincial police narcotics branch teams stopped and searched a pickup
-truck in the Balıkesir city centre on 18 November 2026. [@1,4,5,6,7] Four suspects were
-detained on suspicion of manufacturing and trading narcotic substances. [@1,4,5,6,7,8]
+truck in the Balıkesir city centre on 18 November 2026. [@1,4,5,6,7,9] Four suspects were
+detained on suspicion of manufacturing and trading narcotic substances. [@1,4,5,6,7,8,9]
 
-Officers found 377 kilograms 200 grams of skunk, or esrar, in the vehicle. [@1,4,5,6,7,8]
-The search was carried out with the narcotics detection dog YAŞA. [@2,4,6,7,8] The
+Officers found 377 kilograms 200 grams of skunk, or esrar, in the vehicle. [@1,4,5,6,7,8,9]
+The search was carried out with the narcotics detection dog YAŞA. [@2,4,6,7,8,9] The
 cannabis was found in the truck's cargo bed, which officers searched with the
 dog Yaşa. [@3]
 
