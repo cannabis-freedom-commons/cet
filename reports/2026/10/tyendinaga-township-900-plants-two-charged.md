@@ -90,6 +90,10 @@ sources:
     url: https://quinteist.com/opp-report-850k-cannabis-grow-op-bust-in-tyendinaga/
     publisher: The Quinteist
     date: 2026-11-18
+  - title: Illegal cannabis production site dismantled in Tyendinaga Township
+    url: https://www.intelligencer.ca/news/illegal-cannabis-production-site-dismantled-in-tyendinaga-township/
+    publisher: Belleville Intelligencer
+    date: 2026-11-18
 open_questions:
     - The 29 October 2026 search warrant is the incident date; 18 November 2026 is when the OPP announced the charges.
     - The 125 cannabis clones are reported separately and are not included in the 900 plants figure.
@@ -103,7 +107,7 @@ open_questions:
 
 Ontario Provincial Police charged two residents of Tyendinaga Township after a
 search warrant at a commercial-scale illegal cannabis grow operation in the
-township. [@2,3,4,5] Quoc Ly, 58, and Qi Sen Zhang, 64, were each charged with
+township. [@2,3,4,5,7] Quoc Ly, 58, and Qi Sen Zhang, 64, were each charged with
 possession of illicit cannabis for the purpose of distribution and cultivating
 illicit cannabis. [@2,3,6] Both were released from custody and are scheduled to
 appear before the Ontario Court of Justice in Napanee in January. [@2,3,6]
@@ -112,7 +116,7 @@ Officers executed the warrant at the property on 29 October 2026 and arrested
 the two people there. [@2,4,6] The property is on Shannon Road in Tyendinaga Township. [@6] The search was carried out by officers from the Lennox and Addington County OPP detachment and the provincial police's joint forces cannabis enforcement team and emergency response teams. [@3,5,6] Police seized 900 illegal cannabis plants, 190
 kilograms of illegal cannabis, 215 kilograms of cannabis shake, 125 cannabis
 clones and three cell phones. [@2,4,6] The OPP estimated the street value of the
-seizure at $850,000. [@2,4,5,6]
+seizure at $850,000. [@2,4,5,6,7]
 
 The investigation began in October after a member of the public gave the OPP
 information about a suspected illegal production site. [@2,3,4,5,6] The OPP released a
