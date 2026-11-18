@@ -68,27 +68,22 @@ sources:
     publisher: FTNN新聞網（Yahoo新聞）
     date: 2026-11-18
     language: zh
-open_questions:
-  - 'Accounts differ on the hour of the raid: the submitted report says about 10 p.m. and an ETtoday account about 11 p.m.'
-  - No weight or quantity was published for the cannabis tablets, ketamine or cathinone.
-  - The ketamine and cathinone found in the same room are not cannabis and are excluded from the cannabis figures.
-  - The drug was described as cannabis tablets or pills (大麻錠), with no laboratory confirmation of their content reported.
-  - Sources differ on Kuo's rank, describing him as 2線4星 (two stripes, four stars) and as 3線1星 (three stripes, one star).
-  - Only Kuo's bail was reported; whether the other man taken in was charged, bailed or released is not stated.
-  - No charge, indictment or court hearing was reported; the case stood at the investigation stage with Kuo released on bail.
-  - The dismissal was an administrative decision by the National Police Agency, not a court sentence.
-  - The September case against inspectorate officer Yang Zong-da, mentioned as background, is a separate event and is not covered here.
+  - title: 警政署又爆警官持毒！摩鐵開趴遭自家人查獲大麻錠 慘遭免職
+    url: https://tw.news.yahoo.com/%E8%AD%A6%E6%94%BF%E7%BD%B2%E5%8F%88%E7%88%86%E8%AD%A6%E5%AE%98%E6%8C%81%E6%AF%92-%E6%91%A9%E9%90%B5%E9%96%8B%E8%B6%B4%E9%81%AD%E8%87%AA%E5%AE%B6%E4%BA%BA%E6%9F%A5%E7%8D%B2%E5%A4%A7%E9%BA%BB%E9%8C%A0-%E6%85%98%E9%81%AD%E5%85%8D%E8%81%B7-083800618.html
+    publisher: Yahoo新聞
+    date: 2026-11-18
+    language: zh
 ---
 
 Kuo Wen-cheng, 46, a technical specialist in the National Police Agency's
 information office, was arrested on the night of 13 November 2026 in a motel in
-Xindian District, New Taipei City. [@1] Xindian Precinct officers were carrying
+Xindian District, New Taipei City. [@1,7] Xindian Precinct officers were carrying
 out an expanded inspection during the nationwide anti-gang sweep when they
 entered his room at about 10 p.m. and found him holding cannabis tablets, a
-category 2 drug. [@1] He was at a party at a motel on Baoqiao Road and other men
-were in the room. [@1] Police took Kuo and a male friend back for questioning.
+category 2 drug. [@1,7] He was at a party at a motel on Baoqiao Road and other men
+were in the room. [@1,7] Police took Kuo and a male friend back for questioning.
 [@6] Kuo had previously served in the agency's traffic section and its
-inspectorate and was transferred to the information office this year. [@1]
+inspectorate and was transferred to the information office this year. [@1,7]
 
 Officers seized cannabis tablets, listed as a category 2 drug, and ketamine, a
 category 3 drug, and arrested him. [@2] FTNN reported that the cannabis was in
@@ -102,7 +97,6 @@ released him on NT$30,000 bail after questioning. [@4]
 
 The agency held an emergency personnel review on 14 November and dismissed Kuo
 with two major demerits. [@2] It said supervisors would also be held accountable
-for inadequate assessment and oversight. [@1] ETtoday reported that it was the
+for inadequate assessment and oversight. [@1,7] ETtoday reported that it was the
 second drug case involving a mid-ranking or senior National Police Agency
 officer this year. [@3]
-
