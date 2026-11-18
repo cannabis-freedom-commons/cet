@@ -39,6 +39,11 @@ media:
     media_url: https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2026/11/17/486250839-6223270d630b6affe246a5-1024x682.jpg
     publisher: Terra
     caption: 'Ficco/RS handout photo published with the report on Operation Jepokoi. Photo: Ficco/RS / Divulgação / Porto Alegre 24 horas'
+  - kind: photo
+    url: https://www.abcmais.com/regiao/quem-e-quem-da-quadrilha-que-trazia-toneladas-de-maconha-ao-vale-do-sinos/
+    media_url: https://midia.gruposinos.com.br/_midias/jpg/2026/11/17/800x500/1_operacao_pc-22968551.jpg
+    publisher: ABC+
+    caption: 'Police action on the morning of Operation Jepokoi. Photo: Isaías Rheinheimer/GES-Especial'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 605621fee38f17bc26db61576bbc7cd1
@@ -59,12 +64,18 @@ sources:
     publisher: ABC+
     date: 2026-11-17
     language: pt
+  - title: Quem é quem da quadrilha que trazia 4 toneladas por mês de maconha ao Vale do Sinos | abc+
+    url: https://www.abcmais.com/regiao/quem-e-quem-da-quadrilha-que-trazia-toneladas-de-maconha-ao-vale-do-sinos/
+    publisher: ABC+
+    date: 2026-11-17
+    language: pt
 open_questions:
-  - The 1,508 kg of marijuana was seized in related incidents over the course of the investigation, not necessarily on the 17 November operation day itself.
-  - 'The city lists differ: Terra and GZH include Taquara among the warrant locations, while ABC+ lists Portão instead and also reports vehicle-seizure orders.'
-  - No charges, identities beyond the fugitive-leader allegation, or court outcomes were reported.
-  - The four-tonnes-per-month movement figure is a Ficco/RS estimate, not a weighed seizure.
-  - One local account describes the structure as led by a couple and supplying several criminal groups rather than a single faction.
+    - The 1,508 kg of marijuana was seized in related incidents over the course of the investigation, not necessarily on the 17 November operation day itself.
+    - Earlier sources list Taquara among the warrant locations while ABC+ lists Portão instead; the new account says the alleged leader was already in Taquara prison and was served there, with field actions in Portão, Campo Bom, Novo Hamburgo, Sapiranga, Parobé, Nova Hartz, Seberi and Iraceminha, besides vehicle-seizure orders.
+    - 'Accounts differ on the number detained: earlier reporting says seven people were arrested, while the new account reports eight preventive-arrest warrants executed and one target remaining fugitive, plus two people placed on electronic monitoring.'
+    - The four-tonnes-per-month movement figure is an estimate, not a weighed seizure.
+    - The new account names nine people under preventive-arrest warrants and describes their alleged roles, but says police did not officially disclose names because of the abuse-of-authority law; no charges, pleas or court outcomes were reported.
+    - Earlier reporting describes supply to a single Vale do Sinos faction and a leader directing the scheme as a fugitive, while the new account describes a couple-led structure supplying several criminal groups and a leader already in custody with a prior international-trafficking conviction.
 ---
 
 The Força Integrada de Combate ao Crime Organizado in Rio Grande do Sul
@@ -72,21 +83,20 @@ The Força Integrada de Combate ao Crime Organizado in Rio Grande do Sul
 group accused of supplying large quantities of marijuana to a Vale do Sinos
 faction. [@2] Seven people were arrested during the operation. [@1] About 150
 officers were deployed to execute 12 search-and-seizure warrants, nine
-preventive arrest warrants and two electronic-monitoring measures. [@1]
+preventive arrest warrants and two electronic-monitoring measures. [@1,4]
 
 The warrants were executed in Taquara, Parobé, Campo Bom, Sapiranga, Nova Hartz,
 Novo Hamburgo and Seberi in Rio Grande do Sul, plus Iraceminha in Santa
-Catarina. [@1] Investigators say the group ran interstate drug transport from
+Catarina. [@1] The alleged leader was already held in Taquara prison and was served a new preventive-arrest warrant in his cell. [@4] Investigators say the group ran interstate drug transport from
 Paraguay to São Leopoldo, the faction's area of activity, under a suspected
 leader who has been a fugitive since 2019 but allegedly kept directing the
-scheme. [@1] Over the course of the investigation, 1,508 kg of marijuana were
+scheme. [@1] The marijuana was distributed to different criminal groups without an exclusive tie to a single faction. [@4] Over the course of the investigation, 1,508 kg of marijuana were
 seized in incidents linked to the group, and Ficco/RS estimates the network
-moved about four tonnes of the drug per month. [@1]
+moved about four tonnes of the drug per month. [@1,4] Three seizures during the investigation cost the group about one and a half tonnes of marijuana, after which it switched to smaller loads to reduce losses. [@4]
 
 During the operation officers also seized ammunition, a magazine, a tracker, a
 tracker detector and a bill counter. [@2] Ficco/RS brings together the Federal
 Police, the National Secretariat for Penal Policies, the Civil Police, the
 Brigada Militar and the Rio Grande do Sul Penal Police. [@1] The investigation
 behind the operation began in 2024 and ran into this year, mapping members and
-stages of the criminal structure. [@3]
-
+stages of the criminal structure. [@3] The investigation began in 2024 but found records of members of the structure acting since 2010. [@4]
