@@ -53,6 +53,16 @@ sources:
     archived: https://web.archive.org/web/20260911121209/https://www.zambiamonitor.com/businessman-kasolo-jailed-seven-years-for-trafficking-73-9kg-cannabis/
     publisher: Zambia Monitor
     date: 2026-09-11
+  - title: 'Lusaka Court: Kasolo Convicted Paying DEC Officers Zambia for Drug Scheme'
+    url: https://www.wansom.ai/briefly/news/kasolo-convicted-paying-dec-officers-zambia-bribery-drugs_7a922345-bdca-44bf-863a-748c823d3210
+    publisher: Briefly by Wansom AI
+    date: 2026-09-02
+    language: en
+  - title: Court convicts Kasolo for paying K60,000 to DEC officers
+    url: https://zambianobserver.com/court-convicts-kasolo-for-paying-k60000-to-dec-officers/
+    publisher: The Zambian Observer
+    date: 2026-09-02
+    language: en
 ---
 
 The Lusaka Magistrate's Court on Thursday, 10 September 2026 sentenced businessman Henry Kasolo — who
@@ -62,7 +72,7 @@ of cannabis, and corrupt practices. [@1,2]
 
 The case arose when two Thai nationals were arrested at Kenneth Kaunda International Airport with
 four suitcases holding 120 pieces of compressed cannabis; the court heard Kasolo later offered
-60,000 kwacha to a DEC officer to secure their release and move the consignment. [@1,2] The state
+60,000 kwacha to a DEC officer to secure their release and move the consignment. [@1,2,3] The two Thai nationals arrested with the consignment were convicted and sentenced to five years imprisonment each. [@4] A controlled delivery operation led to Kasolo's apprehension at Shakespeare Apartments. [@4] Of the K60,000, K40,000 was transferred electronically through Airtel Money and K20,000 was delivered in cash. [@4] The state
 could not produce a prior-conviction record and told the court "the accused person is a first
 offender". [@2] Resident Magistrate Webster
 Milumbe said the quantity of cannabis was an aggravating factor that required a deterrent sentence,
