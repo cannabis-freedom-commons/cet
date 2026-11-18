@@ -130,6 +130,11 @@ sources:
     publisher: CNN TÜRK
     date: 2026-11-18
     language: tr
+  - title: Siirt'te araçta 6 kilogram esrar ele geçirildi, 6 şüpheli gözaltına alındı - Son Dakika
+    url: https://www.sondakika.com/3-sayfa/haber-siirt-te-aracta-6-kilogram-esrar-ele-gecirildi-6-s-20440340/
+    publisher: Son Dakika
+    date: 2026-11-18
+    language: tr
 media:
   - kind: photo
     url: https://www.haberport.com/haber/siirtte-narkotik-kopeginin-izledigi-aracta-6-kilogram-esrar-ele-gecirildi/71954
@@ -141,16 +146,16 @@ media:
 The operation was run by teams of the Siirt İl Emniyet Müdürlüğü Narkotik
 Suçlarla Mücadele Şube Müdürlüğü, the provincial police directorate's unit for
 combating narcotics crime, as part of work against drug use and trafficking.
-[@1,5,6,7,8,9,10,15,16,17,18] The seizure was announced in a statement from the Siirt Governor's Office. [@15,16,17] Officers had been following the car on suspicion of drug trafficking before
+[@1,5,6,7,8,9,10,15,16,17,18,19] The seizure was announced in a statement from the Siirt Governor's Office. [@15,16,17] Officers had been following the car on suspicion of drug trafficking before
 they stopped and searched it. [@4] The search was carried out with İnşa, a
 narcotics detection dog. [@1,11,13,14,15,16,17,18] Officers seized six kilograms of esrar, the
-everyday Turkish term for cannabis, from the vehicle. [@2,5,6,7,8,9,12,13,14,15,16,17,18]
+everyday Turkish term for cannabis, from the vehicle. [@2,5,6,7,8,9,12,13,14,15,16,17,18,19]
 
 Six suspects were detained over the seizure, one of them a foreign national.
-[@1,5,6,7,8,9,11,13,14,15,16,17,18] Legal proceedings were started against the suspects who had been in the
+[@1,5,6,7,8,9,11,13,14,15,16,17,18,19] Legal proceedings were started against the suspects who had been in the
 car. [@4]
 
 After questioning and processing at the police station, the six were sent to the
-judicial authorities. [@4,6,7,8,9,10,13,14,15,16,17,18] Their procedures at the prosecutor's office were
+judicial authorities. [@4,6,7,8,9,10,13,14,15,16,17,18,19] Their procedures at the prosecutor's office were
 continuing. [@1,18] The operation was directed at drug trafficking in Siirt. [@3]
 The work was conducted across the city to prevent drug use and trafficking. [@4]
