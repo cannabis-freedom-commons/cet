@@ -61,29 +61,26 @@ sources:
     publisher: La Razón
     date: 2026-11-17
     language: es
-open_questions:
-    - No separate date is given for the checkpoint; 17 November 2026 is the publication date and is used as the incident date.
-    - The hashish was described as more than 200 grams and the marijuana as about 10 grams, so 0.21 kg is an approximate combined total, not an exact laboratory weight.
-    - The material was described as hashish and marijuana with no laboratory confirmation reported.
-    - No court outcome, detention measure or plea beyond placement at the court's disposal was reported.
-    - The exact road or municipality of the checkpoint within La Alcarria was not given.
-    - This republication headlines 50 grams of marijuana while its body says about 10 grams; the report follows the body text.
-    - Both accounts reproduce the same Guardia Civil account and are not independent reporting.
+  - title: Detenido un conductor en Cañaveras con más de 200 gramos de hachís y 10 de marihuana ocultos en una maleta
+    url: https://www.vocesdecuenca.com/provincia/detenido-un-conductor-en-canaveras-con-mas-de-200-gramos-de-hachis-y-10-de-marihuana-ocultos-en-una-maleta/
+    publisher: Voces de Cuenca
+    date: 2026-11-17
+    language: es
 ---
 
 The Guardia Civil in Cuenca, acting in its tasked surveillance of the province's
 main roads and protection of public safety, detained a 50-year-old man for an
-alleged offence against public health in the form of drug trafficking. [@1,2,3,4] The
+alleged offence against public health in the form of drug trafficking. [@1,2,3,4,5] The
 events occurred during a police deployment on a public road in the natural
 district of La Alcarria in Cuenca province, carried out by officers from the
-Guardia Civil post in Cañaveras. [@1,2,3,4]
+Guardia Civil post in Cañaveras. [@1,2,3,4,5]
 
 During the operation officers identified the driver and searched a vehicle that
-had aroused their suspicion. [@1,2] Inside a suitcase in the boot officers found
-more than 200 grams of hashish and about 10 grams of marijuana. [@1,2,3,4] The
+had aroused their suspicion. [@1,2,5] Inside a suitcase in the boot officers found
+more than 200 grams of hashish and about 10 grams of marijuana. [@1,2,3,4,5] The
 discovery led officers to seize the drugs and arrest the man for the acts under
-investigation. [@1,2]
+investigation. [@1,2,5]
 
 The detainee was placed, together with the case papers drawn up and the seized
 items, at the disposal of the Civil and Investigation Section of the duty Court
-of Instance in Cuenca. [@1,2,3,4]
+of Instance in Cuenca. [@1,2,3,4,5]
