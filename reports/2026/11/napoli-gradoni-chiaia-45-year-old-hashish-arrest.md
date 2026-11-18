@@ -73,33 +73,27 @@ sources:
     publisher: Teleclub Italia
     date: '2026-11-14'
     language: it
-open_questions:
-  - >-
-    The articles give no separate date for the night check around 23:00; 14 November 2026 is the
-    publication date and is used as the incident date.
-  - >-
-    No weight was published for the two hashish sticks, the bag sold to the minor or the dose he
-    handed over, so no cannabis weight is recorded.
-  - No court outcome beyond the arrest on dealing accusations was reported.
-  - >-
-    Il Gazzettino Vesuviano shows only a Carabinieri car door marked 112, and Teleclubitalia a night
-    plaza with a Carabinieri Clio and no hashish, so no event photo is listed.
+  - title: 'Napoli, durante un controllo 16enne dice ai Carabinieri che va a comprare hashish: arrestato lo spacciatore 45enne'
+    url: https://lamilano.it/napoli/napoli-durante-un-controllo-16enne-dice-ai-carabinieri-che-va-a-comprare-hashish-arrestato-lo-spacciatore-45enne/
+    publisher: La Milano
+    date: 2026-11-17
+    language: it
 ---
 
 Carabinieri of the Napoli Centro company arrested a suspected dealer in the
-Chiaia district of Naples. [@1] The man was identified as Francesco Terracciano,
+Chiaia district of Naples. [@1,3] The man was identified as Francesco Terracciano,
 a 45-year-old Neapolitan, who reportedly said “Mi avete beccato” when stopped.
 [@1] The 45-year-old was arrested on accusations of dealing narcotics, while the
-16-year-old was entrusted to a parent. [@1]
+16-year-old was entrusted to a parent. [@1,3]
 
 During a check at about 23:00 in via Monte di Dio, the 16-year-old told officers
 he was heading to the Gradoni di Chiaia to buy “due stecche di fumo”. [@1] After
 being reprimanded, officers discreetly followed him along via Giovanni Nicotera
-and vico Monteroduni to the Gradoni di Chiaia. [@1] Officers watched the boy
-approach the man and hand over a 20-euro note. [@1] In return he received a
-small bag and 10 euros in change. [@1]
+and vico Monteroduni to the Gradoni di Chiaia. [@1,3] Officers watched the boy
+approach the man and hand over a 20-euro note. [@1,3] In return he received a
+small bag and 10 euros in change. [@1,3]
 
 A search found two small sticks of hashish and 230 euros in cash on the man.
-[@1] Officers also seized a mobile telephone. [@1] Officers then reached the
+[@1,3] Officers also seized a mobile telephone. [@1,3] Officers then reached the
 16-year-old, who voluntarily handed over the hashish dose he had just bought,
-which was seized. [@2]
+which was seized. [@2,3]
