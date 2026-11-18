@@ -51,6 +51,11 @@ sources:
     publisher: Alwiam
     date: 2026-11-17
     language: ar
+  - title: الدرك يعلن ضبط 3780 قرصا مهلوسا وكمية من القنب الهندي قرب فصالة
+    url: https://saharamedias.net/268740/
+    publisher: صحراء ميديا
+    date: 2026-11-18
+    language: ar
 open_questions:
   - No separate date for the operation was given; 17 November 2026, the publication date, stands in for the incident date.
   - No weight or description was published for the cannabis, so no cannabis quantity is recorded.
@@ -61,14 +66,13 @@ open_questions:
 
 Officers of the National Gendarmerie centre at Agoueinkara, under the Fassala
 brigade, stopped a foreign national and seized drugs and psychoactive substances
-found in his possession. [@4] The operation was carried out by the Gendarmerie
+found in his possession. [@4,5] The operation was carried out by the Gendarmerie
 centre at Agoueinkara under the Fassala brigade. [@2]
 
 The search yielded 3,780 hallucinogenic pills, an unspecified quantity of
-cannabis and a bottle of alcohol. [@1] According to a Gendarmerie statement
+cannabis and a bottle of alcohol. [@1,5] According to a Gendarmerie statement
 issued on Tuesday evening, the haul was 3,780 hallucinogenic pills and a
 quantity of cannabis. [@3]
 
 The Gendarmerie presented the operation as part of its continuing effort against
 drug and psychoactive-substance trafficking. [@4]
-
