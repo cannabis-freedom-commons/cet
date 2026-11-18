@@ -52,6 +52,11 @@ sources:
     publisher: wpu24.pl
     date: 2026-11-17
     language: pl
+  - title: Blisko 130 gramów marihuany zabezpieczyli policjanci. 26-latek z zarzutami
+    url: https://eprzasnysz.pl/artykul/blisko-130-gramow-marihuany-n1880517
+    publisher: ePrzasnysz.pl
+    date: 2026-11-18
+    language: pl
 open_questions:
     - No separate date was given for the arrest and flat search; 16 November 2026 is the date of the prosecutor's supervision decision and is used as the incident date.
     - The year of the 16 November supervision decision is inferred as 2026 from the 17 November 2026 publication date.
@@ -59,23 +64,29 @@ open_questions:
     - The flat's location is not explicitly stated; it is described only as the flat of a Pułtusk resident.
     - No name was published beyond age and residence, and no plea or further court outcome beyond police supervision was reported.
     - Both accounts rest on the Maków Mazowiecki police statement, with no independent reporting found.
+media:
+  - kind: photo
+    url: https://eprzasnysz.pl/artykul/blisko-130-gramow-marihuany-n1880517
+    media_url: https://eprzasnysz.pl/static/files/gallery/162/1880517_1794988404.webp
+    publisher: ePrzasnysz.pl
+    caption: 'Handout photo credited to the Maków Mazowiecki District Police Command, published with the account of the seizure of almost 130 grams of marijuana from a Pułtusk resident''s flat. Photo: KPP Maków Maz.'
 ---
 
 Officers of the Criminal Division of the police in Maków Mazowiecki carried out
 the detention in this operation. [@1,2] The person detained in the operation is a
-26-year-old man residing in Pułtusk. [@1,2] Following the detention, the detained
+26-year-old man residing in Pułtusk. [@1,2,3] Following the detention, the detained
 man was placed in police detention. [@1,2]
 
 As part of the case, officers carried out a search of the flat used by the
-detained man. [@1,2] During that flat search, officers found and secured almost
-130 grams of marijuana. [@1,2] Evidence gathered by investigators in the case
+detained man. [@1,2,3] During that flat search, officers found and secured almost
+130 grams of marijuana. [@1,2,3] Evidence gathered by investigators in the case
 allowed serious criminal charges to be brought against him. [@1] One of those
 serious charges concerns the possession of intoxicating substances. [@1,2] Another
 of those serious charges concerns the distribution of those substances for the
-purpose of financial gain. [@1,2]
+purpose of financial gain. [@1,2,3]
 
 The action was the result of operational activities directed against the local
 drug market. [@1] On 16 November, the District Prosecutor in Przasnysz decided
-to place the suspect under police supervision. [@1,2] For the charged offences of
+to place the suspect under police supervision. [@1,2,3] For the charged offences of
 possession and distribution, the 26-year-old faces up to 10 years of
-imprisonment. [@1,2]
+imprisonment. [@1,2,3]
