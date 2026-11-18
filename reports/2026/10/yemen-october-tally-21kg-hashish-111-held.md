@@ -65,21 +65,30 @@ sources:
     publisher: عدن الغد
     date: 2026-11-14
     language: ar
+  - title: مكافحة المخدرات بالمحافظات تضبط 69 قضية وتلقي القبض على 111 متهماً خلال أكتوبر
+    url: https://www.adngad.net/news/898233
+    publisher: عدن الغد
+    date: 2026-11-14
+    language: ar
+open_questions:
+    - The monthly tally gives no date or place for any individual case; only the aggregate for October 2026 was published.
+    - The hashish weight is a national total and cannot be assigned to particular governorates, and the seizure statements do not separate the hashish from the 910 grams of shabu and 4,163 pills.
+    - No charges, pleas or court outcomes were reported for the 111 people held.
 ---
 
 The Interior Ministry's General Department for Combating Drugs said it recorded
 69 drug cases and arrested 111 suspects in several governorates during October.
-[@1,3,4,5,6] Of those held, 39 were accused of promotion, 49 of use and 23 in other
-categories. [@1,5,6] The 69 cases comprised 29 use cases, 26 promotion cases and 14
-in other categories. [@1,5,6] The second account says all 111 detainees were male
+[@1,3,4,5,6,7] Of those held, 39 were accused of promotion, 49 of use and 23 in other
+categories. [@1,5,6,7] The 69 cases comprised 29 use cases, 26 promotion cases and 14
+in other categories. [@1,5,6,7] The second account says all 111 detainees were male
 citizens. [@2]
 
-The operations seized 21 kilograms and 105 grams of hashish. [@1,3,4,5,6] In the same
+The operations seized 21 kilograms and 105 grams of hashish. [@1,3,4,5,6,7] In the same
 total officers also seized 910 grams of shabu and 4,163 narcotic pills, which
-are not counted in the cannabis figures. [@1,6]
+are not counted in the cannabis figures. [@1,6,7]
 
 Hadhramaut coast led with 26 cases and 40 arrests, followed by Aden with 24
-cases and 36 arrests. [@1,3,4,5,6] Hadhramaut valley recorded 13 cases and 27 arrests,
-and Lahj recorded 3 cases and 5 arrests. [@1,6] Taiz, Marib and Al-Dhalea each
-recorded one case and one arrest. [@1,6] Anti-drug director Brig. Abdullah Lahmadi
-said confronting drugs requires combined security and community efforts. [@1]
+cases and 36 arrests. [@1,3,4,5,6,7] Hadhramaut valley recorded 13 cases and 27 arrests,
+and Lahj recorded 3 cases and 5 arrests. [@1,6,7] Taiz, Marib and Al-Dhalea each
+recorded one case and one arrest. [@1,6,7] Anti-drug director Brig. Abdullah Lahmadi
+said confronting drugs requires combined security and community efforts. [@1,7]
