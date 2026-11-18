@@ -103,6 +103,11 @@ sources:
     publisher: 搜狐网（观察者网）
     date: 2026-11-17
     language: zh
+  - title: 60多斤！两个行李箱装满大麻！广州海关查获两名旅客携带毒品大麻_网易视频
+    url: https://www.163.com/v/video/VJB13EOQE.html
+    publisher: 网易视频 / 齐鲁频道
+    date: 2026-11-17
+    language: zh
 media:
   - kind: photo
     url: https://finance.sina.cn/2026-11-17/detail-iniyyzyp7716496.d.html?vt=4
@@ -114,17 +119,19 @@ media:
     media_url: https://k.sinaimg.cn/n/sinakd20261117s/200/w640h360/20261117/2045-e19345117962500e91a008d9e5a36155.jpg/w700d1q75cms.jpg?by=cms_fixed_width
     publisher: 手机新浪网 (观察者网)
     caption: 'Customs handout photo of the opened suitcase with vacuum-packed cannabis from the 13 November seizure at Guangzhou Baiyun airport. Photo: 海关发布 / 观察者网'
-open_questions:
-    - No arrest, charge or court outcome was reported for the two transit passengers.
-    - No date is given for the interception; customs described it as recent and 17 November 2026 is the date of the announcement.
+  - kind: video
+    url: https://www.163.com/v/video/VJB13EOQE.html
+    media_url: https://flv3.bn.netease.com/e6a796c2bbcb9d8a4da6b6470dd3f22ddc49b0cfa0ad6f44b68bd0a3437d5424a8038496d68ebafd4a70e295f3ea83a7eb3c22bfceae14eabeb3dbc2033a94a75265b672177cc494935819197e4a9f367d6539bfde7e6daafaf5726e050b6fee056d4bcf07c1e8aa17e9c9203f7e5628e0725398df7f7db2.m3u8
+    publisher: 网易视频 / 齐鲁频道
+    caption: Video posted by Qilu Channel on NetEase about Guangzhou Customs seizing two passengers carrying two suitcases filled with more than 60 jin of cannabis.
 ---
 
 Guangzhou Baiyun Airport Customs officers screening international transit
 passengers found the luggage X-ray images of two travellers abnormal in
 succession. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14] Officers intercepted the two travellers and inspected their
-suitcases. [@1,2,3,4,5,7,8,10,12,13,14] The suitcases each held brown-green plant material packed in
+suitcases. [@1,2,3,4,5,7,8,10,12,13,14,15] The suitcases each held brown-green plant material packed in
 plastic bags that gave off a strong pungent smell when the packaging was opened.
-[@1,2,3,4,6,7,9,10,12,13,14]
+[@1,2,3,4,6,7,9,10,12,13,14,15]
 
 A technical institution tested the material and confirmed it was cannabis
 weighing 31.787 kilograms in total. [@1,2,3,4,5,6,7,8,9,10,12,13,14] Customs announced the seizure on 17
