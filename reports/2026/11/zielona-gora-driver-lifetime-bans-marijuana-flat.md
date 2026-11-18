@@ -75,6 +75,11 @@ sources:
     publisher: NewsLubuski.pl
     date: 2026-11-18
     language: pl
+  - title: 'Zielona Góra: Wpadł za kierownicą mimo dwóch dożywotnich zakazów'
+    url: https://informacje.wp.pl/wiadomosci/zielona-gora-wpadl-za-kierownica-mimo-dwoch-dozywotnich-zakazow-7352333355870208a
+    publisher: WP Info
+    date: 2026-11-18
+    language: pl
 open_questions:
   - The sources give no date for the traffic stop, the search or the court's detention order; 18 November 2026 is the date of the police statement and of publication and stands in for the incident date.
   - No weight, quantity or value was reported for the marijuana or for the amphetamine, so no cannabis amount can be recorded.
@@ -87,22 +92,21 @@ open_questions:
 ---
 
 Police in Zielona Góra stopped a 31-year-old man driving a Volkswagen in a road
-check. [@2] A check of police databases showed that he was subject to two
-lifetime bans on driving any motor vehicle, both imposed by a court. [@2]
+check. [@2,4] A check of police databases showed that he was subject to two
+lifetime bans on driving any motor vehicle, both imposed by a court. [@2,4]
 Officers found a bag of white powder on him and a preliminary test indicated it
-was amphetamine. [@2] The officers went with him to his flat, where he became
-aggressive when they tried to enter and was restrained. [@2]
+was amphetamine. [@2,4] The officers went with him to his flat, where he became
+aggressive when they tried to enter and was restrained. [@2,4]
 
 A search of the flat found large quantities of intoxicating substances kept in
 zip bags, both plant material and white powder, and tests confirmed they were
-marijuana and amphetamine. [@2] A preliminary urine test showed marijuana,
+marijuana and amphetamine. [@2,4] A preliminary urine test showed marijuana,
 amphetamine, methamphetamine and several other substances, and blood was taken
-for laboratory tests. [@2]
+for laboratory tests. [@2,4] A police spokeswoman said officers suspected he had been driving under the influence of the substances found. [@4]
 
 He was charged with breaching the court driving bans and with possessing
 significant quantities of intoxicating substances, offences that carry up to 10
-years in prison. [@2] On the request of the Zielona Góra district prosecutor's
-office, a court ordered three months' pre-trial detention. [@1] The case is
+years in prison. [@2,4] On the request of the Zielona Góra district prosecutor's
+office, a court ordered three months' pre-trial detention. [@1,4] The case is
 being handled under the supervision of the Zielona Góra district prosecutor's
 office. [@3]
-
