@@ -109,29 +109,35 @@ sources:
     publisher: Europa Press
     date: 2026-11-18
     language: es
+  - title: Nueve detenidos en una operación con 3.400 plantas de marihuana intervenidas en Almería
+    url: https://www.noticiasdenavarra.com/sucesos/2026/11/18/nueve-detenidos-operacion-3-400-11771584.html
+    publisher: Diario de Noticias de Navarra
+    date: 2026-11-18
+    language: es
 open_questions:
     - The plant count is given as about 3,400 and the 200-kilogram weight as a first estimate made by the operation, not as final measured figures.
     - The 200 kilograms is the approximate combined weight of the drug seized, without separating dried plants, buds and hashish.
     - No plea, detention measure or court outcome was reported for the nine detainees.
+    - The Noticias de Navarra account places the operation from first thing on 'este martes' (Tuesday 17 November 2026), while the report dates the arrests to 18 November 2026.
 ---
 
 Spain's Policía Nacional arrested nine people on the morning of 18 November 2026
 in Los Almendros, a neighbourhood of Almería. [@1,4] All nine detainees were
 Spanish nationals. [@1,4] Officers entered and searched six homes in the
-neighbourhood that were being used to grow cannabis. [@1,4,5] The operation, named
+neighbourhood that were being used to grow cannabis. [@1,4,5,6] The operation, named
 Especia, was directed by Grupo 2 of the UDYCO Alborán, the drug and
 organised-crime unit of the Provincial Police Station in Almería. [@1] It formed
 part of the police station's response plan for barrios tensionados, a programme
-for high-tension neighbourhoods. [@2,5]
+for high-tension neighbourhoods. [@2,5,6]
 
-Police seized 3,400 marijuana plants. [@1,4,5] The Provincial Police Station put the
+Police seized 3,400 marijuana plants. [@1,4,5,6] The Provincial Police Station put the
 weight of the plants seized at about 200 kilograms. [@1,5] The haul included
-marijuana being dried, buds and hashish. [@1,5] The weight was a first estimate
-calculated by the operation itself. [@3,5] Officers also seized a short firearm, 9
+marijuana being dried, buds and hashish. [@1,5,6] The weight was a first estimate
+calculated by the operation itself. [@3,5,6] Officers also seized a short firearm, 9
 mm Parabellum ammunition and 4,000 euros in cash. [@1,4,5] They took away equipment
 used to grow the drug. [@1,5]
 
 Endesa technicians were brought in to disconnect the illegal hook-ups that
 supplied electricity to the grows, police sources said. [@1,5] The Policía Local,
 the city's municipal police, helped draw up demolition files for illegal
-constructions found during the operation. [@1,4,5]
+constructions found during the operation. [@1,4,5,6]
