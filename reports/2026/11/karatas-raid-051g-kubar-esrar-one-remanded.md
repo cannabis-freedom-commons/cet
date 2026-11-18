@@ -48,6 +48,11 @@ sources:
     publisher: Haber365
     date: 2026-11-18
     language: tr
+  - title: Adana Karataş'ta Yapılan Uyuşturucu Operasyonunda 852 Sentetik İlaç Ele Geçirildi
+    url: https://www.mersinhaber.com/haber-adana-karatasta-yapilan-uyusturucu-operasyonunda-852-sentetik-ilac-ele-gecirildi/852426
+    publisher: Mersin Haber
+    date: 2026-11-18
+    language: tr
 open_questions:
     - No separate date is given for the operation; 18 November 2026 is the articles' publication date and is used as the incident date.
     - The kubar esrar was recorded at the scene with no laboratory confirmation reported.
@@ -64,15 +69,15 @@ media:
 ---
 
 Adana provincial gendarmerie teams raided an address in Karataş district, Adana,
-acting on intelligence about drug trafficking. [@1,2] A suspect identified only as
-O.O. was detained at the residence and then remanded in custody by a court. [@1,2]
+acting on intelligence about drug trafficking. [@1,2,3] A suspect identified only as
+O.O. was detained at the residence and then remanded in custody by a court. [@1,2,3]
 
 At the address officers found 0.51 grams of kubar esrar, a compressed cannabis
 resin, alongside 1.15 grams of cocaine, 1.21 grams of heroin and 1.21 grams of
-an A-M substance. [@1,2] The search also turned up 852 synthetic drug units. [@1,2]
+an A-M substance. [@1,2,3] The search also turned up 852 synthetic drug units. [@1,2,3]
 Officers recorded the found material through a crime-scene examination and an
 official report. [@1] The search also found a motorcycle reported stolen from
-Kahramanmaraş on 3 November 2026, which was returned to its owner. [@1,2]
+Kahramanmaraş on 3 November 2026, which was returned to its owner. [@1,2,3]
 
 The gendarmerie said it would continue intelligence work against similar crimes
 and that the investigation was continuing. [@1]
