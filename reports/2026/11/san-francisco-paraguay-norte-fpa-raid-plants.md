@@ -42,6 +42,11 @@ media:
     media_url: https://www.mpfcordoba.gob.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-9.17.58-AM-3.jpeg
     publisher: Ministerio Público Fiscal de Córdoba
     caption: 'Photograph from the FPA operation in San Francisco published with the Córdoba public prosecutor''s office statement on the arrest and house raid. Photo: MPF Córdoba'
+  - kind: photo
+    url: https://eltiempodiario.com.ar/noticia/operativo-antidrogas-en-san-francisco-un-detenido-y-secuestro-de-marihuana-tras-un-allanamiento/5570
+    media_url: https://eltiempodiario.com.ar/images/foto/20261118170446.webp
+    publisher: El Tiempo Diario
+    caption: Lead photograph published with El Tiempo Diario's account of the FPA operation, captioned 'El hombre fue detenido y trasladado a sede policial' (the man was detained and taken to police headquarters).
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 179f125ced1e8248d980f935fe09846c
@@ -82,6 +87,11 @@ sources:
     publisher: Radio Rafaela
     date: 2026-11-18
     language: es
+  - title: 'Operativo antidrogas en San Francisco: un detenido y secuestro de marihuana tras un allanamiento'
+    url: https://eltiempodiario.com.ar/noticia/operativo-antidrogas-en-san-francisco-un-detenido-y-secuestro-de-marihuana-tras-un-allanamiento/5570
+    publisher: El Tiempo Diario
+    date: 2026-11-18
+    language: es
 open_questions:
   - No date is given for the check or the raid; 18 November 2026 is the publication date and the operation was reported as having taken place in the preceding hours.
   - No count of the cannabis plants and no weight or dose count for the marijuana was published, so no cannabis quantity is recorded.
@@ -96,11 +106,11 @@ open_questions:
 
 Córdoba's anti-narcotics force, the Fuerza Policial Antinarcotráfico (FPA),
 arrested an adult man during a preventive drug check on the 2700 block of calle
-Hermano Casalis in San Francisco. [@2,5,6,7] Officers searched the man and seized
-several doses of marijuana he was carrying. [@1,6] The checks were carried out by the FPA's Special Interventions Company. [@5,6,7]
+Hermano Casalis in San Francisco. [@2,5,6,7,8] Officers searched the man and seized
+several doses of marijuana he was carrying. [@1,6,8] The checks were carried out by the FPA's Special Interventions Company. [@5,6,7,8]
 
 Investigators then obtained a search warrant for a house on the 3600 block of
-calle Paraguay Norte. [@1,5,6,7] At the house, officers with detector dogs seized
+calle Paraguay Norte. [@1,5,6,7,8] At the house, officers with detector dogs seized
 several cannabis sativa plants at different stages of growth and fractioned
 doses of the same substance prepared for sale. [@1] The Córdoba public
 prosecutor's office said several plants and doses of cannabis sativa were seized
@@ -108,4 +118,4 @@ in the search. [@2,5,7]
 
 By order of the San Francisco drug-trafficking prosecutor's office, the detainee
 and the evidence were transferred to judicial headquarters under the national
-narcotics law. [@3,5,6,7] The investigation continued after the transfer. [@4]
+narcotics law. [@3,5,6,7,8] The investigation continued after the transfer. [@4]
