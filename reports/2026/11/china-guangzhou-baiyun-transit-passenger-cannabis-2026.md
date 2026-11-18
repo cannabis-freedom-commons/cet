@@ -141,16 +141,21 @@ sources:
     publisher: 大象新闻
     date: 2026-11-14
     language: zh
+  - title: 旅客带满满一箱味道刺鼻的褐绿色植物，被海关拦截：一查竟是40多斤大麻
+    url: https://www.msn.cn/zh-cn/news/other/%E6%97%85%E5%AE%A2%E5%B8%A6%E6%BB%A1%E6%BB%A1%E4%B8%80%E7%AE%B1%E5%91%B3%E9%81%93%E5%88%BA%E9%BC%BB%E7%9A%84%E8%A4%90%E7%BB%BF%E8%89%B2%E6%A4%8D%E7%89%A9-%E8%A2%AB%E6%B5%B7%E5%85%B3%E6%8B%A6%E6%88%AA-%E4%B8%80%E6%9F%A5%E7%AB%9F%E6%98%AF40%E5%A4%9A%E6%96%A4%E5%A4%A7%E9%BA%BB/ar-AA2hp2FX
+    publisher: MSN
+    date: 2026-11-14
+    language: zh
 ---
 
 Guangzhou customs seized 20.051 kg of cannabis in the passenger-inspection
 channel at Guangzhou Baiyun International Airport, according to a Guangzhou
-Customs notice. [@1,2,4,5,6,8,9,10,11,12,13,14,15,16,17] Baiyun airport customs officers were screening
+Customs notice. [@1,2,4,5,6,8,9,10,11,12,13,14,15,16,17,19] Baiyun airport customs officers were screening
 international transit passengers when one traveller's luggage X-ray image looked
-abnormal, and they stopped and searched that passenger. [@1,3,5,6,7,9,10,12,13,14,15,16,17] The suitcase held
+abnormal, and they stopped and searched that passenger. [@1,3,5,6,7,9,10,12,13,14,15,16,17,19] The suitcase held
 nothing but plastic-bag, vacuum-packed brown-green plant material that gave off
-a strong irritant smell when opened. [@1,2,3,5,6,7,9,10,12,13,14,15,17] A technical institution tested the
-material and confirmed it was cannabis weighing 20.051 kg. [@1,3,6,9,10,12,13,15,16,17]
+a strong irritant smell when opened. [@1,2,3,5,6,7,9,10,12,13,14,15,17,19] A technical institution tested the
+material and confirmed it was cannabis weighing 20.051 kg. [@1,3,6,9,10,12,13,15,16,17,19]
 
 The Chinese reports put the seizure at more than 40 jin, a traditional unit of
 about 500 grams. [@2,18] Customs reminded the public that smuggling, selling,
