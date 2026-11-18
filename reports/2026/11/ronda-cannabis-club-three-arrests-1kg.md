@@ -83,6 +83,10 @@ sources:
     publisher: Europa Press
     date: 2026-11-18
     language: es
+  - title: Ronda 'coffee shop' raid leads to three arrests for drug-trafficking offences
+    url: https://www.surinenglish.com/malaga/ronda/three-people-arrested-20261118000500-nt.html
+    publisher: Sur in English
+    date: 2026-11-18
 open_questions:
     - No date is given for the search or the arrests; 18 November 2026 is the date of the National Police statement and of publication.
     - No estimate of the seized drugs' street value was published.
@@ -91,26 +95,26 @@ open_questions:
 
 Spain's National Police arrested three people aged 25, 28 and 29 in Ronda, in
 Málaga province, on suspicion of drug trafficking after dismantling an
-association that allegedly used its premises to sell drugs. [@1,3,4,5] The premises
+association that allegedly used its premises to sell drugs. [@1,3,4,5,7] The premises
 apparently ran as a cannabis consumption club and was allegedly used to conceal
 a profit-making drug distribution business. [@1,3,4,5] Police said the activity
-reached a wide clientele that allegedly included minors. [@1,3,4,5] The investigation
+reached a wide clientele that allegedly included minors. [@1,3,4,5,7] The investigation
 was run by officers of the Local Operational Group at the National Police
 station in Ronda, with the Citizen Attention Group and Forensic Police, and the
 Ronda Local Police also took part. [@1,3,4]
 
 Officers watched the premises, which had surveillance cameras and a double entry
 door, and saw some clients stay only a few minutes and leave with doses of drugs
-while others stayed longer to consume inside. [@1,3,4] The premises stood at street level in the centre of the city. [@3,4] Police identified several
+while others stayed longer to consume inside. [@1,3,4] The premises stood at street level in the centre of the city. [@3,4,7] Police identified several
 clients as they left and seized doses of hashish and marijuana from them,
 drawing up drug seizure reports. [@1,3,4,5] With judicial authorisation, officers
 entered and searched the premises and seized 470 grams of hashish and 740 grams
-of marijuana in various containers and formats. [@1,3,4,5] They also seized 130 euros
+of marijuana in various containers and formats. [@1,3,4,5,7] They also seized 130 euros
 in cash and equipment allegedly used to prepare and distribute the drugs,
-including a scale, cutting knives and pieces of plastic. [@1,3,4,5]
+including a scale, cutting knives and pieces of plastic. [@1,3,4,5,7]
 
 One of those in charge was arrested during the search and police later arrested
-two more people allegedly linked to the activity, all aged 25, 28 and 29. [@2,3,4,5]
+two more people allegedly linked to the activity, all aged 25, 28 and 29. [@2,3,4,5,7]
 The operation shut the sales point and the premises was closed preventively.
-[@1,3,4,6] According to the National Police, the activity at the premises had caused
+[@1,3,4,6,7] According to the National Police, the activity at the premises had caused
 numerous complaints among residents of Ronda's town centre. [@1,3,4,5]
