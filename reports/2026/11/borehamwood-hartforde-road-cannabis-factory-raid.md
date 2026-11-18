@@ -61,6 +61,11 @@ media:
     media_url: https://hermes.media.transform.aol.com/fea73d31e1d6d51d49ca97ebcc32eb8127058b39/w_800,c_scale,f_avif,q_auto/https://hermes.media.static.aol.com/media/2026/11/18/fdceb501-faa4-3c4a-9cb0-fe4e6dd3268d/329fec8a-4c59-4bb3-8f19-dfd4ce1627dd.jpg
     publisher: AOL
     caption: 'One of the grow rooms in the Hartforde Road house, with cannabis plants and the wooden fixtures built around them, in the handout photo published with the police announcement. Photo: Hertfordshire Police'
+  - kind: photo
+    url: https://www.yahoo.com/news/world/articles/cannabis-farm-worth-50-000-053708844.html
+    media_url: https://s.yimg.com/lo/mysterio/api/0ad1cb048db257f772f1c132b53c0426736b3bcb340b0d5ce6773d96a242e42c/lightyear_networkapi/resizefill_w960_h540%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9997be8add4fe2daf247ce980ff86f5b.jpg
+    publisher: Yahoo News
+    caption: 'Cannabis plants growing inside the Hartforde Road house, captioned ''Cannabis plants were being cultivated in five rooms throughout the house, police said'', in the handout photo published with the police announcement. Photo: Hertfordshire Police'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6a6e44ee06e43a7ed44d2d7ee05d3194
@@ -101,6 +106,10 @@ sources:
     url: https://www.bbc.com/news/articles/cqevrgvn12e4o
     publisher: BBC News
     date: 2026-11-18
+  - title: Cannabis farm worth £50,000 dismantled by police
+    url: https://www.yahoo.com/news/world/articles/cannabis-farm-worth-50-000-053708844.html
+    publisher: Yahoo News
+    date: 2026-11-18
 open_questions:
     - No count of plants or weight of cannabis was published; police gave only an estimated street value of £50,000.
     - No one was reported arrested over the farm, and it is not known whether anyone was later detained or charged.
@@ -108,13 +117,13 @@ open_questions:
 
 Officers from the Operational Support Group raided a property on Hartforde Road
 in Borehamwood on Wednesday, November 4. [@1,3,4,5,6,7,8] The officers found five rooms in
-the property being used to grow cannabis. [@1,3,4,5,6,7,9] The house had been made to look
+the property being used to grow cannabis. [@1,3,4,5,6,7,9,10] The house had been made to look
 like a normal home, with several of its outside windows altered. [@2,3,4,5,6,7,9]
 
 Police estimated the street value of the cannabis grown at the property at
-£50,000. [@1,4,5,6,7,8] Inspector Paul Costello of the Operational Support Group said
+£50,000. [@1,4,5,6,7,8,10] Inspector Paul Costello of the Operational Support Group said
 cannabis factories present a significant danger to those living near them
-because they can be a serious fire hazard. [@1,4,5,8] He said such factories are often
+because they can be a serious fire hazard. [@1,4,5,8,10] He said such factories are often
 controlled by organised crime groups linked to violence, modern day slavery and
 human trafficking. [@1,4,5,7,8] Inspector Costello asked residents to report suspicious activity such as large amounts of plant pots, soil, chemicals, lights or heating equipment being taken into a property. [@7,8]
 
