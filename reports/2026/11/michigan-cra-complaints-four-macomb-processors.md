@@ -46,6 +46,10 @@ sources:
     url: https://mitechnews.com/news/marijuana-business/michigan-cannabis-regulators-target-four-processors-after-police-find-marijuana-at-unlicensed-facility/
     publisher: MITechNews
     date: 2026-11-17
+  - title: CRA files complaints against four Macomb County marijuana processors – Macomb Daily
+    url: https://www.macombdaily.com/2026/11/18/cra-files-complaints-against-four-macomb-county-marijuana-processors/
+    publisher: Macomb Daily
+    date: 2026-11-18
 open_questions:
   - The 364 pounds of marijuana was described as found during a CRA site visit and alleged in a complaint, not explicitly as seized; no laboratory confirmation was reported.
   - The distillate figures (a batch of more than 400,000 grams produced from 21 packages, and about 171,000 grams that could not be accounted for) are production and inventory amounts rather than seized cannabis, so they are excluded from the seizure weight.
@@ -57,24 +61,24 @@ open_questions:
 Michigan's Cannabis Regulatory Agency filed formal complaints against four
 licensed adult-use marijuana processors in Warren and Center Line, Macomb
 County, after state police found marijuana products bearing state tracking tags
-at an unlicensed hemp handler's facility. [@1] The agency announced the
+at an unlicensed hemp handler's facility. [@1,3] The agency announced the
 proceedings on 16 November 2026, following an investigation that began with a 7
 May police search. [@2]
 
 Michigan State Police executed a search warrant on 7 May 2026 at a hemp
 handler's facility that held no state marijuana licence, finding marijuana and
-products bearing tags from Metrc, the state's seed-to-sale tracking system. [@1]
+products bearing tags from Metrc, the state's seed-to-sale tracking system. [@1,3]
 All four complaints allege inaccurate entries in the state tracking system and
-violations involving written operating procedures and video surveillance. [@1]
+violations involving written operating procedures and video surveillance. [@1,3]
 At Dank Headquarters in Warren, products found by police were listed in Metrc as
 being at its facility, and the company could not provide requested surveillance
-footage. [@1] At IVP Holding in Warren, records showed 21 seized packages had
+footage. [@1] Dank Headquarters’ system for alerting staff to surveillance failures was inoperable. [@3] Dank Headquarters, LLC is located at 12828 E. Nine Mile Road in Warren. [@3] At IVP Holding in Warren, records showed 21 seized packages had
 been used to produce more than 400,000 grams of distillate, with discrepancies
-involving nine transfer manifests. [@1] At GrassRootsMI, trading as The Foundry
+involving nine transfer manifests. [@1] The complaint against IVP Holding also alleges a violation of the rule limiting processor transfers to other licensed marijuana businesses. [@3] IVP Holding, LLC is located at 1973 E. 10 Mile Road in Warren. [@3] At GrassRootsMI, trading as The Foundry
 Cannabis Co. in Center Line, agents could not account for about 171,000 grams of
-distillate linked to one inventory tag. [@1] At Misspres, trading as BAG N TAG
+distillate linked to one inventory tag. [@1] The complaint against GrassRootsMI also alleges a violation of the rule limiting processor transfers to other licensed marijuana businesses. [@3] Metrc records showed that infused pre-rolls and vape cartridges seized by MSP had been processed into distillate before the seizure. [@3] GrassRootsMI, LLC, doing business as The Foundry Cannabis Co., is located at 26352 Lawrence Ave. in Center Line. [@3] At Misspres, trading as BAG N TAG
 in Center Line, agents found 22 untagged bags holding approximately 364 pounds
-(about 165 kilograms) of marijuana during a site visit. [@1]
+(about 165 kilograms) of marijuana during a site visit. [@1] The complaint against Misspres also alleges violations involving product testing and laboratory access to a batch. [@3] Misspres, LLC, doing business as BAG N TAG LLC, is located at 26700 Liberal, Suite 2, in Center Line. [@3]
 
 Through the complaints the agency gave notice of its intent to impose fines or
 other sanctions on each licence, with possible sanctions including suspension,
@@ -84,4 +88,3 @@ agency said statements in the formal complaints are merely allegations. [@1] The
 CRA has not publicly identified the unlicensed hemp facility involved in the
 search. [@2] A CRA spokesperson said the agency was not speaking beyond the
 press release and formal complaints. [@2]
-
