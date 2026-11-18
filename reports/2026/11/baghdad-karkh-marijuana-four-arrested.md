@@ -44,25 +44,23 @@ sources:
     publisher: 964media
     date: 2026-11-17
     language: ar
-open_questions:
-  - The separate Lyrica operation announced in the same statement (5,280 capsules, two arrests) involved a non-cannabis drug and is excluded from the figures.
-  - Both opened articles reproduce the same Karkh Police Command statement, so they are not independent reporting.
-  - The seized material was described as marijuana and no laboratory confirmation was reported.
-  - No charges, detention measure or court outcome was reported for the four suspects.
-  - No value estimate, product breakdown or number of sites was published.
+  - title: بعمليات نوعية .. الاطاحة بستة متهمين وضبط كميات من المواد المخدرة والمؤثرات العقلية في بغداد
+    url: https://ninanews.com/website/News/Details?key=1326065
+    publisher: الوكالة الوطنية العراقية للأنباء (NINANews)
+    date: 2026-11-17
+    language: ar
 ---
 
 Iraq's General Directorate for Drug Affairs said detachments of its Karkh Drug
 Affairs Directorate carried out two separate security operations in Baghdad on
-Tuesday, 17 November 2026. [@1] The General Directorate said the first operation
+Tuesday, 17 November 2026. [@1,3] The General Directorate said the first operation
 led to the arrest of four suspects and the seizure of 1 kilogram and 350 grams
-of marijuana, along with tools used for consumption. [@1] A statement from the
+of marijuana, along with tools used for consumption. [@1,3] A statement from the
 Karkh Police Command quoted by 964media gave the same figures for the marijuana
 operation and the four arrests. [@2]
 
 964media quoted the command as saying the two operations were successive
 security strikes against drug-trafficking dens, based on field and intelligence
-work. [@2] The directorate said it would keep up its security duties to pursue
+work. [@2,3] The directorate said it would keep up its security duties to pursue
 those involved in trading, promoting and using narcotic substances, to dry up
 the sources of the problem and to protect society from its risks. [@1]
-
