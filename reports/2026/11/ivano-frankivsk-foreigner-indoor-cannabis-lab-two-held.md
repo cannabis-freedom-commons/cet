@@ -75,6 +75,11 @@ media:
     media_url: https://cdn4.suspilne.media/images/resize/1040x1.78/1db20515c8784548.jpg
     publisher: Suspilne Ivano-Frankivsk
     caption: 'Photo captioned as the detention of the suspects in the Ivano-Frankivsk region drug laboratory. Photo: Facebook/Ivano-Frankivsk regional prosecutor''s office, published with the Suspilne article'
+  - kind: photo
+    url: https://galka.if.ua/u-budynku-pid-frankivskom-vykryly-vyroshchuvannia-kanabisu-pidozriuiut-hromadianyna-chekhii-ta-frankivtsia/
+    media_url: https://static.galka.if.ua/app/uploads/2026/11/913052742_1145349694897891_2071985844732905231_n.jpg.webp
+    publisher: Galka.if.ua
+    caption: 'Lead image of the Galka.if.ua report on the cannabis-growing laboratory and the 13 November searches near Ivano-Frankivsk. Photo: National Police Department of Strategic Investigations / Ivano-Frankivsk regional prosecutor''s office via Galka.if.ua'
 status: verified
 created_by_model: swancloud/deepseek-v4-flash#xhigh
 submission: 08d0f11068b32e8301d21756c101112e
@@ -150,6 +155,11 @@ sources:
     publisher: News IO
     date: 2026-11-17
     language: uk
+  - title: 'У будинку під Франківськом викрили вирощування канабісу: підозрюють громадянина Чехії та франківця'
+    url: https://galka.if.ua/u-budynku-pid-frankivskom-vykryly-vyroshchuvannia-kanabisu-pidozriuiut-hromadianyna-chekhii-ta-frankivtsia/
+    publisher: Galka.if.ua
+    date: 2026-11-17
+    language: uk
 open_questions:
   - Published accounts give different seized cannabis amounts, from about 500 grams in containers plus packets to more than 1.5 kg.
   - Published accounts give different dates for when the foreign suspect settled near Ivano-Frankivsk, 2018 and late 2024.
@@ -158,7 +168,7 @@ open_questions:
 
 Police in Ivano-Frankivsk region detained a 47-year-old foreigner and a local
 resident who, investigators say, set up a cannabis-growing laboratory and sold
-cannabis in the region. [@1,4,5,6,7,8,9,10,12,13,14] The older suspect is a 47-year-old Czech citizen who had lived temporarily in a suburban village near Ivano-Frankivsk, and his accomplice is a 24-year-old local man. [@5,13,14] The foreigner arrived in Ukraine at the end of 2024
+cannabis in the region. [@1,4,5,6,7,8,9,10,12,13,14] The older suspect is a 47-year-old Czech citizen who had lived temporarily in a suburban village near Ivano-Frankivsk, and his accomplice is a 24-year-old local man. [@5,13,14,15] The foreigner arrived in Ukraine at the end of 2024
 and settled in the region, coordinating the operation and controlling the money,
 while his accomplice bought seeds and equipment and tended the crops. [@1,4,6,7,9,12]
 
@@ -166,13 +176,13 @@ The laboratory was set up on the second floor of a private house where one of
 the suspects lived, fitted with ventilation, lighting, heating, air conditioning
 and drip irrigation so cannabis could be grown all year round. [@1,4,5,6,8,12,13,14] The growing room was fully automated, with sodium lamps, thermometers, hygrometers and electric timers, and the first harvest came after two months. [@5,14] In late July 2026 the men bought special textile pots, fertilisers and hemp seeds, which they sowed and grew by the pasynkuvannia method. [@5,14] Dried
 cannabis was taken to a flat in Ivano-Frankivsk, from where it was sold through
-stash drops or during meetings with buyers. [@1,4,6,7,9,12] The men dried and processed the harvested buds and leaves into sale-ready cannabis, and in November 2026 the younger man was documented selling cannabis hand-to-hand to a local resident after taking part of it to his flat in the regional centre for storage and packing. [@5,13,14]
+stash drops or during meetings with buyers. [@1,4,6,7,9,12,15] The men dried and processed the harvested buds and leaves into sale-ready cannabis, and in November 2026 the younger man was documented selling cannabis hand-to-hand to a local resident after taking part of it to his flat in the regional centre for storage and packing. [@5,13,14]
 
 On 13 November officers of the strategic investigations department, police
 investigators, SBU officers and KORD special forces searched six homes and
-vehicles of the suspects. [@1,6,7,8,9,11,12] They seized more than 1.5 kg of cannabis, growing
+vehicles of the suspects. [@1,6,7,8,9,11,12,15] They seized more than 1.5 kg of cannabis, growing
 equipment, 144,000 hryvnias and 3,400 dollars in cash, phones, computers, draft
-notes and a car. [@1,4,5,6,7,8,9,11,12] The operation also involved KORD special forces, a
+notes and a car. [@1,4,5,6,7,8,9,11,12,15] The operation also involved KORD special forces, a
 special-purpose police company and the regional police's rapid response group.
 [@2,12]
 
@@ -181,4 +191,4 @@ drugs, sowing cannabis and maintaining a drug laboratory (Part 2 of Articles
 307, 310 and 317 of the Criminal Code) and face up to 10 years in prison. [@1,4,5,6,7,12,14]
 The court ordered both held in custody with the option of bail of 266,240
 hryvnias each. [@1,4,6,7,8,9,10,12,13] Investigators are working to establish other people who may
-have been involved in the operation. [@3,4,5,6,7,9,12]
+have been involved in the operation. [@3,4,5,6,7,9,12,15]
