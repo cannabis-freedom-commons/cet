@@ -38,6 +38,11 @@ media:
     media_url: https://www.rishon.news/wp-content/uploads/2026/11/IMG-20261118-WA0015-768x1024.jpg
     publisher: ראשון ניוז
     caption: 'Police handout image of the drugs and cannabis candies from the Rishon LeZion apartment, published with the report. Photo: Israel Police spokesperson.'
+  - kind: photo
+    url: https://www.i24news.tv/en/news/israel/society/artc-gummies-with-a-buzz-police-seize-dozens-of-kilograms-of-gummy-bear-candy-infused-with-drugs
+    media_url: https://cdn.i24news.tv/uploads/19/e7/7c/7c/b2/3d/be/eb/9b/1e/b2/9b/1a/d3/c2/00/19e77c7cb23dbeeb9b1eb29b1ad3c200.jpg?width=996&type=webp
+    publisher: i24NEWS
+    caption: 'Packaged drug candies and sweets found in the Rishon LeZion apartment, in the handout photo published with the report. Photo: Israel Police spokesperson'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 9fa8fd11dbd35307b4de6cfd77a84662
@@ -53,31 +58,34 @@ sources:
     publisher: מעריב
     date: 2026-11-18
     language: he
+  - title: 'Gummies with a buzz: Police seize dozens of kilograms of gummy bear candy infused with drugs'
+    url: https://www.i24news.tv/en/news/israel/society/artc-gummies-with-a-buzz-police-seize-dozens-of-kilograms-of-gummy-bear-candy-infused-with-drugs
+    publisher: i24NEWS
+    date: 2026-11-18
+    language: en
 open_questions:
-  - The 50 kg figure is a combined weight for cannabis, ecstasy and hashish, with no separate weight given for the cannabis component.
-  - The operation was dated only to 'the beginning of the week'; 18 November 2026 is the publication date and is used as the incident date.
-  - The substances were described as suspected drugs; no laboratory confirmation of their composition was reported.
-  - No indictment had been filed; police said the case would be passed to the Central District prosecution unit in the coming days.
-  - Both accounts reproduce the Israel Police spokesperson's statement rather than independent reporting.
-  - The text gives a weight ("50 kilograms") but the figures have no kg_seized; check whether it belongs there.
+    - The 50 kg figure is a combined weight for cannabis, ecstasy and hashish, with no separate weight given for the cannabis component.
+    - The operation was dated only to 'earlier this week'; 18 November 2026 is the publication date and is used as the incident date.
+    - The substances were described as suspected drugs; no laboratory confirmation of their composition was reported.
+    - No indictment had been filed; police said the case would be passed to the Central District prosecution unit in the coming days.
+    - The published accounts reproduce the Israel Police spokesperson's statement rather than independent reporting.
 ---
 
 Police in Rishon LeZion arrested a man in his 40s from the city and took him in
-for questioning. [@1] The suspect was held on suspicion of involvement in
+for questioning. [@1,3] The suspect was held on suspicion of involvement in
 operating the apartment and distributing the drugs. [@2] Detectives from the
 crime-fighting unit at the Rishon LeZion station in the Shapla district exposed
 the apartment at the beginning of the week. [@2] A dedicated room in the flat
 was used, police said, to prepare, weigh, package and distribute suspected
-dangerous drugs. [@1] Among the items were cannabis candies, sweets containing
+dangerous drugs. [@1,3] Among the items were cannabis candies, sweets containing
 cannabis, which police said were intended for distribution alongside the other
 material. [@2]
 
 Officers seized more than 50 kilograms of suspected drugs of different kinds,
-which police listed as cannabis, ecstasy and hashish. [@1] All the seized
+which police listed as cannabis, ecstasy and hashish. [@1,3] All the seized
 material was transferred to the Israel Police forensic identification
-laboratories for further evidence extraction. [@1]
+laboratories for further evidence extraction. [@1,3]
 
 A court granted the police request and extended the suspect's detention until 19
 November 2026, with the case expected to reach the Central District police
-prosecution unit for an indictment in the coming days. [@1]
-
+prosecution unit for an indictment in the coming days. [@1,3]
