@@ -75,6 +75,11 @@ sources:
     publisher: إقرأ نيوز
     date: 2026-11-12
     language: ar
+  - title: المشدد 3 سنوات وغرامة 100 ألف جنيه لمتهمين بتجارة الحشيش بسوهاج
+    url: https://ekhbary24.com/article/60883
+    publisher: إخباري 24 نيوز
+    date: 2026-11-18
+    language: ar
 open_questions:
     - No weight, estimated value or number of hashish pieces was reported; the seizure is described only as a quantity of hashish.
     - No date was published for the sentencing hearing itself; 12 November 2026 is the publication date of the accounts.
@@ -88,17 +93,17 @@ open_questions:
 The Sohag Appeals Criminal Court sentenced two men, identified only by the
 initials A. S. and M. G., to three years of aggravated imprisonment and fined
 each 50,000 Egyptian pounds for trafficking hashish in the First Police District
-of Sohag. [@1,2,3,4,5] The two defendants were identified in both accounts only by their
+of Sohag. [@1,2,3,4,5,6] The two defendants were identified in both accounts only by their
 initials, one of them described as a worker. [@2,5]
 
 The judgment was issued by a panel headed by Counsellor Khaled Abdel Ghaffar,
 with Counsellors Khaled Abdel Shakour and Osama Ali Farag as members and clerks
-Mohamed Abdel Hamid and Badr El-Din Kamal. [@1,2,5] The case dates to 2026, when
+Mohamed Abdel Hamid and Badr El-Din Kamal. [@1,2,5,6] The case dates to 2026, when
 detectives received information that the two men were trafficking hashish in the
-First Police District of Sohag. [@1,5] Security investigations found that the two men used the First Police District as the scene of their activity by promoting hashish to users. [@4] After the legal procedures and
+First Police District of Sohag. [@1,5,6] Security investigations found that the two men used the First Police District as the scene of their activity by promoting hashish to users. [@4] After the legal procedures and
 investigations were completed, police confirmed the information, which had come
 from a secret source, and arrested both men with a quantity of hashish that was
-prepared for sale. [@1,3,5]
+prepared for sale. [@1,3,5,6]
 
 Confronted with the results of the arrest and the investigations, both men
 admitted possessing the drugs with intent to traffic, and the case file was
