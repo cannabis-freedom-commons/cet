@@ -65,29 +65,26 @@ sources:
     url: https://www.fox19.com/2026/11/16/man-gets-minimum-12-years-plea-deal-shooting-that-killed-army-veteran/
     publisher: FOX19 (WXIX)
     date: 2026-11-16
-open_questions:
-  - The sentencing day was given only as Monday; 16 November 2026 is used as the incident date.
-  - Stevens's age was reported as both 25 and 23, with no explanation for the difference.
-  - The accomplice who was with Stevens during the shooting was not identified in the court papers.
-  - No quantity of marijuana was seized or stated; the deal is described only as a planned marijuana sale.
-  - The murder charge was amended to involuntary manslaughter as part of the plea, so there was no trial verdict.
+  - title: Man sentenced after admitting to killing veteran during Cincinnati drug buy
+    url: https://dayton247now.com/news/local/man-sentenced-after-admitting-to-killing-veteran-during-cincinnati-drug-buy-college-hill-ceantae-stevens-danias-weaver-marijuana
+    publisher: Dayton 24/7 Now
+    date: 2026-11-17
 ---
 
-Ceantae Stevens, 25, was sentenced Monday to 12 to 17.5 years in prison. [@1] He
-pleaded guilty as his trial was set to begin. [@1] Stevens was already in prison
+Ceantae Stevens, 25, was sentenced Monday to 12 to 17.5 years in prison. [@1,3] He
+pleaded guilty as his trial was set to begin. [@1,3] Stevens was already in prison
 serving a sentence on unrelated charges. [@1]
 
 Danias Weaver, 23, was shot and killed inside his car on Llanfair Avenue in
-College Hill in the middle of the afternoon on 14 October 2024. [@1] Weaver had
+College Hill in the middle of the afternoon on 14 October 2024. [@1,3] Weaver had
 served in the Army until a few months before his death. [@1] According to court
-papers, Stevens and another person set up a marijuana sale with Weaver. [@1]
-When they met, they shot Weaver and took his gun. [@1] The accomplice was
-unidentified in the court papers. [@1]
+papers, Stevens and another person set up a marijuana sale with Weaver. [@1,3]
+When they met, they shot Weaver and took his gun. [@1,3] The accomplice was
+unidentified in the court papers. [@1,3]
 
 Stevens was indicted on murder and felonious assault charges about a year later.
-[@1] In Hamilton County court he pleaded guilty to involuntary manslaughter and
+[@1,3] In Hamilton County court he pleaded guilty to involuntary manslaughter and
 a firearm specification in connection with Weaver's death. [@2] The murder
 charge was amended as part of the guilty plea. [@2] Weaver's mother and other
 relatives said the sentence was not enough. [@2] Stevens apologised to the
 family in court after they spoke. [@2]
-
