@@ -47,6 +47,11 @@ sources:
     publisher: كويتنا نيوز
     date: 2026-11-17
     language: ar
+  - title: 'الداخلية: ضبط ماريغوانا وحشيش وشبو و250 ورقة مشبعة بالكيمكال و250 كبسولة لاريكا'
+    url: http://alwatan.kuwait.tt/articledetails.aspx?id=837331&yearquarter=20264
+    publisher: الوطن الإلكترونية
+    date: 2026-11-17
+    language: ar
 open_questions:
   - No separate date is given for the arrests; 17 November 2026 is the date of the Interior Ministry statement and of publication and is used as the incident date.
   - The 510 grams of shabu, 250 sheets of 'chemical' and 250 Lyrica capsules are other substances and are excluded from the cannabis weight; whether 'chemical' is a synthetic cannabinoid is not stated.
@@ -58,19 +63,18 @@ open_questions:
 
 Kuwait's Criminal Security Sector, acting through the General Administration for
 Drug Control, arrested four suspects of Asian nationalities in three separate
-cases, the Interior Ministry said. [@1] The ministry said the men held narcotic
+cases, the Interior Ministry said. [@1,3] The ministry said the men held narcotic
 and psychotropic substances with intent to traffic and use them, as part of
-continuing security campaigns against drugs. [@2] In one of the cases, officers
+continuing security campaigns against drugs. [@2,3] In one of the cases, officers
 arrested a Bangladeshi national in the Farwaniya area and established that a
-person living outside Kuwait was supplying him with the material. [@1]
+person living outside Kuwait was supplying him with the material. [@1,3]
 
 The ministry put the combined seizures in the three cases at 1.5 kilograms of
-marijuana and 150 grams of hashish, 1.65 kilograms of cannabis in total. [@1]
+marijuana and 150 grams of hashish, 1.65 kilograms of cannabis in total. [@1,3]
 Alongside these, officers seized 510 grams of shabu (crystal methamphetamine),
 250 sheets soaked in a synthetic substance known locally as 'chemical', and 250
 capsules of the prescription drug Lyrica, together with three sensitive scales
-and empty packaging bags. [@1]
+and empty packaging bags. [@1,3]
 
 The four suspects and all seized items were referred to the competent authority
-for the necessary legal action, the ministry said. [@2]
-
+for the necessary legal action, the ministry said. [@2,3]
