@@ -79,22 +79,27 @@ sources:
     publisher: News24
     date: 2026-11-18
     language: en
+  - title: Almost $40 million worth of cannabis seized in Toolern Vale, Romsey
+    url: https://meltonmoorabool.starweekly.com.au/news/almost-40-million-worth-of-cannabis-seized-in-toolern-vale-romsey/
+    publisher: Melton & Moorabool Star Weekly
+    date: 2026-11-18
+    language: en
 ---
 
 No arrests have been made in connection with the Romsey discovery, and
-investigations remain ongoing. [@1,4,6] Police uncovered the Romsey crop, with drone
+investigations remain ongoing. [@1,4,6,7] Police uncovered the Romsey crop, with drone
 footage showing officers uncovering plants growing outdoors in plain sight. [@1,3,5]
 
 The seizure took place at a rural property in Romsey, around 40 kilometres to
-the north, on Thursday, November 12. [@1,4,6] Police uncovered approximately 3,700
-cannabis plants of various sizes growing outdoors in plain sight. [@1,3,4,5,6] The
-seized plants weighed a combined 620 kilograms. [@2,4,6]
+the north, on Thursday, November 12. [@1,4,6,7] Police uncovered approximately 3,700
+cannabis plants of various sizes growing outdoors in plain sight. [@1,3,4,5,6,7] The
+seized plants weighed a combined 620 kilograms. [@2,4,6,7]
 
 Detective Sergeant Ben Shawyer of the Macedon Crime Investigation Unit stressed
 that authorities are dedicated to combating cannabis cultivation operations.
 [@1] He said dismantling large-scale drug operations and preventing illicit
 drugs from reaching the community is a positive outcome for community safety.
-[@1,6] Police said the cultivation and trafficking of illicit drugs generates
+[@1,6,7] Police said the cultivation and trafficking of illicit drugs generates
 significant profits for organised crime groups and that police remain committed
-to disrupting this offending. [@1,6] Anyone with information about illicit drug
+to disrupting this offending. [@1,6,7] Anyone with information about illicit drug
 cultivation is urged to contact Crime Stoppers. [@1]

@@ -58,6 +58,16 @@ sources:
     publisher: News24
     date: 2026-11-18
     language: en
+  - title: Almost $40 million worth of cannabis seized in Toolern Vale, Romsey
+    url: https://starweekly.com.au/news/2026/11/18/almost-40-million-worth-of-cannabis-seized-in-toolern-vale-romsey/
+    publisher: Star Weekly
+    date: 2026-11-18
+    language: en
+  - title: Almost $40 million worth of cannabis seized in Toolern Vale, Romsey
+    url: https://meltonmoorabool.starweekly.com.au/news/almost-40-million-worth-of-cannabis-seized-in-toolern-vale-romsey/
+    publisher: Melton & Moorabool Star Weekly
+    date: 2026-11-18
+    language: en
 media:
   - kind: photo
     url: https://www.news24.com.au/national/crime/truck-theft-leads-to-discovery-of-largescale-cannabis-operation-valued-at-27-million/news-story/99e304387c9df6ebaab1add2c0c96c20
@@ -69,23 +79,28 @@ media:
     media_url: https://content.api.news/v3/images/bin/a511251de53d5a63d6a963557fdb4481?width=150
     publisher: News24
     caption: 'Police investigated whether the stolen truck had been driven to the Toolern Vale property in an attempt to steal cannabis from the crop. Picture: Victoria Police'
+  - kind: photo
+    url: https://starweekly.com.au/news/2026/11/18/almost-40-million-worth-of-cannabis-seized-in-toolern-vale-romsey/
+    media_url: https://starweekly.com.au/wp-content/uploads/2026/11/Policegen_206998_01-1-300x200-3.jpg
+    publisher: Star Weekly
+    caption: 'Police handout photo published with the report on the Toolern Vale and Romsey cannabis busts. Photo: Victoria Police via Pic Store (206998)'
 ---
 
 Detectives from the Melton Crime Investigation Unit followed a stolen truck to a
-rural property in Toolern Vale on Monday afternoon [@1,2] Officers found the truck
-bogged and abandoned at the address [@1,2,3] No arrests have been made and the
-investigation remains ongoing [@1,2,3]
+rural property in Toolern Vale on Monday afternoon [@1,2,4] Officers found the truck
+bogged and abandoned at the address [@1,2,3,5] No arrests have been made and the
+investigation remains ongoing [@1,2,3,5]
 
 At the property officers uncovered a sophisticated cannabis cultivation
-operation spread across five large greenhouses [@1,2,3] Police obtained a search
-warrant and began dismantling a crop of 6,000 to 8,000 mature plants [@1,2,3] Police
-put the crop's estimated street value at approximately $27 million [@1,2,3] Officers
+operation spread across five large greenhouses [@1,2,3,5] Police obtained a search
+warrant and began dismantling a crop of 6,000 to 8,000 mature plants [@1,2,3,5] Police
+put the crop's estimated street value at approximately $27 million [@1,2,3,5] Officers
 also seized electronic devices and items allegedly used to bypass electricity
-[@1,2,3] Police said all of the plants will be destroyed following forensic
-examination by botanists [@1,2,3]
+[@1,2,3,5] Police said all of the plants will be destroyed following forensic
+examination by botanists [@1,2,3,5]
 
 Police are investigating whether the stolen truck had been driven to the
-property in an attempt to steal cannabis from the crop [@1,2,3] The Botany Unit,
+property in an attempt to steal cannabis from the crop [@1,2,3,5] The Botany Unit,
 Crime Scene Services and other trained detectives from across the division
 assisted in the operation [@1] Detective Senior Sergeant Nick Di-Mieri said what
 began as a stolen vehicle investigation quickly led detectives to a
