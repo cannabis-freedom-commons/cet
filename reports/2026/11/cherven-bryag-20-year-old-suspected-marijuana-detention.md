@@ -39,28 +39,32 @@ sources:
     publisher: Pleven info
     date: 2026-11-18
     language: bg
+  - title: ЗАДЪРЖАХА 20-ГОДИШЕН С МАРИХУАНА В МЕСТНОСТТА „БУНДЖОВИЦА“ КРАЙ ЧЕРВЕН БРЯГ
+    url: https://plevenutre.bg/2026/11/18/652867-zadurzhaha_20_godishen_s_marihuana_v_mestnostta_bundzhovitsa_kray_cherven_bryag
+    publisher: Plevenutre.bg
+    date: 2026-11-18
+    language: bg
 open_questions:
-  - No weight was published for the herbal mass, so no cannabis quantity is recorded.
-  - The substance was described only as suspected marijuana for personal use, with laboratory examination still pending.
-  - The man was identified only by age, with no name or initials published.
-  - No outcome after the up-to-24-hour detention was reported.
-  - The account rests on a single report citing the Pleven police directorate, with no independent corroboration found.
+    - No weight was published for the herbal mass, so no cannabis quantity is recorded.
+    - The substance was described only as suspected marijuana for personal use, with laboratory examination still pending.
+    - The man was identified only by age, with no name or initials published.
+    - No outcome after the up-to-24-hour detention was reported.
+    - The accounts reproduce the same Pleven police directorate bulletin, so they are not independent reporting.
 ---
 
 Police stopped and checked a 20-year-old man on 17 November in the area of the
-Bundzhovitsa locality near the town of Cherven Bryag. [@1] During the check the
+Bundzhovitsa locality near the town of Cherven Bryag. [@1,2] During the check the
 man handed over a small polyethylene bag measuring 4 by 5 centimetres that held
-dry green herbal mass. [@1] The man told officers that the substance in the bag
-was marijuana intended for his own personal use. [@1] Officers detained the man
-for up to 24 hours under a police measure while the case was processed. [@1]
+dry green herbal mass. [@1,2] The man told officers that the substance in the bag
+was marijuana intended for his own personal use. [@1,2] Officers detained the man
+for up to 24 hours under a police measure while the case was processed. [@1,2]
 
 A physical-chemical expert examination was still pending to establish the type
-and composition of the herbal mass. [@1] Police notified the duty district
-prosecutor at the Pleven district prosecutor's office about the case. [@1] A
+and composition of the herbal mass. [@1,2] Police notified the duty district
+prosecutor at the Pleven district prosecutor's office about the case. [@1,2] A
 fast-track criminal proceeding was opened under Article 354a, paragraph 5 of the
-Criminal Code. [@1] An investigating officer from the Cherven Bryag district
-police department continued the work on the case. [@1]
+Criminal Code. [@1,2] An investigating officer from the Cherven Bryag district
+police department continued the work on the case. [@1,2]
 
 The Pleven regional directorate of the Interior Ministry reported the check and
 the detention. [@1]
-
