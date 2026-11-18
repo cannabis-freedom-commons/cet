@@ -122,21 +122,23 @@ sources:
     publisher: Royal Bulletin
     date: 2026-11-17
     language: hi
-open_questions:
-    - 'Accounts differ on the estimated street value: most reports put it at about Rs 80 lakh, while this Amar Ujala article says about Rs 84 lakh.'
-    - This account says six other gang members were identified and three teams were formed to arrest them, while another report says about 23 other people were named in questioning.
+  - title: गाजियाबाद में कैंटर से 164 किलो गांजा मिला:दो तस्कर गिरफ्तार; पूछताछ में 23 अन्य लोगों के नाम आए, कीमत करीब 80 लाख रुपये
+    url: https://www.bhaskar.com/local/uttar-pradesh/ghaziabad/news/ghaziabad-police-drug-bust-ganja-arrest-crime-branch-muradnagar-139715398.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-17
+    language: hi
 ---
 
 Ghaziabad crime branch and Muradnagar police arrested two alleged ganja
 smugglers during a check on the night of 16 November 2026 under Operation
-Prahar. [@1,2,3,4,5,6,7,9] Acting on an informer's tip, officers stopped an Eicher canter at
+Prahar. [@1,2,3,4,5,6,7,9,10] Acting on an informer's tip, officers stopped an Eicher canter at
 about 11 pm on the road from Kakda Pulia toward the Sonda Pul canal. [@1,2,3,5,6] Police
 identified the two as Praveen Tyagi of Bhaneda, now living in Keshav Kunj
 Colony, Modinagar, and Arun Sharma of Jatauli, Kankarkheda, Meerut. [@1,2,3,5,6,9] Police gave Praveen Tyagi's age as 53 and Arun Sharma's as 52. [@5]
 
 Officers seized about 164 kg of illegal ganja from their possession along with
 the Eicher canter used for smuggling. [@1,2,3,4,5,6,7,8,9] Police estimated the seized ganja's
-value at about Rs 80 lakh. [@1,2,3,4,5,6,7,9] A case was registered against them at Muradnagar
+value at about Rs 80 lakh. [@1,2,3,4,5,6,7,9,10] A case was registered against them at Muradnagar
 police station under the NDPS Act and further legal action was under way. [@1,5] Police said Praveen Tyagi already had Excise Act and NDPS Act cases registered against him, while Arun Sharma had Excise Act and fraud cases at Kankar Kheda police station in Meerut. [@3,9]
 
 Questioning found Arun runs a grocery shop in Jatauli, where he met Praveen
