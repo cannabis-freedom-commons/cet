@@ -26,6 +26,11 @@ media:
     media_url: https://th-i.thgim.com/public/incoming/jmx59w/article71714898.ece/alternates/LANDSCAPE_1200/Screenshot%202026-11-18%20123905.png
     publisher: The Hindu
     caption: 'Still from the hotel CCTV footage published with The Hindu''s report, captioned as showing Seoni Additional SP Deepak Mishra, Seoni City SP Chanchlesh Markam and Kotwali station in-charge Satish Tiwari during the confrontation. Photo: Special Arrangement'
+  - kind: photo
+    url: https://www.ndtv.com/india-news/plant-ganja-in-bag-cop-caught-on-camera-threatening-to-frame-couple-in-drug-case-12342067
+    media_url: https://c.ndtvimg.com/2026-11/9dugtf9o_mp-cop_625x300_18_November_26.jpg?im=FitAndFill,algorithm=dnn,width=773,height=435
+    publisher: NDTV
+    caption: 'Lead picture published with NDTV''s report on the Seoni hotel confrontation, captioned as showing the police raid on the hotel and the threat to the adult couple. Photo: NDTV'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 84979f1e5e9b66eec977674927fbeaac
@@ -47,6 +52,10 @@ sources:
     url: https://www.brut.media/in/articles/india/society/plant-marijuana-in-his-bag-mp-cop-allegedly-threatens-to-frame-adult-couple-after-they-refuse-to-call-parents
     publisher: Brut.
     date: 2026-11-18
+  - title: '"Plant Ganja In Bag": Cop Caught On Camera Threatening To Frame Couple In Drug Case'
+    url: https://www.ndtv.com/india-news/plant-ganja-in-bag-cop-caught-on-camera-threatening-to-frame-couple-in-drug-case-12342067
+    publisher: NDTV
+    date: 2026-11-18
 open_questions:
     - No account says whether any ganja was found or produced at the hotel, or whether a case was registered against the couple.
     - 'It is not established who was to bring the ganja: The Hindu and Free Press Journal describe Mr. Mishra telling his own police staff, while India Today and Brut say he asked hotel staff.'
@@ -56,12 +65,13 @@ open_questions:
     - No criminal case against the officers is reported, only a departmental inquiry whose result is not yet known.
     - The date of the hotel search rests on the 13 November date shown with the clip; 18 November is the date the suspensions were ordered.
     - Mr. Markam's rank is given as SDOP by The Hindu, SDPO by India Today and city SP by the Free Press Journal.
+    - NDTV names the hotel owner Sanju Sanodiya, while other accounts of the same event call him Sanjay Sanodiya, and the correct spelling is not established.
 ---
 
 Six Madhya Pradesh police officers, including an Additional Superintendent of
 Police, a sub-divisional police officer and an inspector, were suspended on 18
 November 2026 over threats to plant marijuana on a young couple during a search
-at a private hotel in Seoni. [@1] Chief Minister Mohan Yadav ordered the
+at a private hotel in Seoni. [@1,5] Chief Minister Mohan Yadav ordered the
 suspensions after CCTV footage from the hotel lobby circulated widely that day.
 [@1] The clip was dated 13 November 2026 and, according to India Today, was
 recorded during the confrontation at the hotel. [@2] The six were Additional SP
@@ -72,8 +82,8 @@ Promod Verma said the presence of all six was confirmed in an initial inquiry.
 [@1] Seoni SP Krishna Lalchandani ordered the inquiry after the footage surfaced, and Satish Tiwari was attached to the police lines, an administrative measure that does not establish guilt. [@4]
 
 In the footage the couple tell the officers they are adults, of the same caste
-and planning to marry. [@2,4] The woman was asked to unlock her phone; when she
-refused, Mishra suggested planting ganja in the man's bag. [@3,4] Mishra is heard
+and planning to marry. [@2,4,5] The woman was asked to unlock her phone; when she
+refused, Mishra suggested planting ganja in the man's bag. [@3,4,5] Mishra is heard
 saying the officers would not call the couple's parents but would keep ganja in
 their bag. [@1]
 
@@ -83,7 +93,7 @@ report the next day. [@1] The Chief Minister said indiscipline and misconduct in
 police uniform were unacceptable and promised strict action under a
 zero-tolerance policy. [@1] Hotel owner Sanjay Sanodiya accused Inspector Satish
 Tiwari and SDOP Markam of extorting ₹50,000 a month and said the search was
-conducted after he could not meet the demand. [@1] The hotel owner also named Traffic Inspector Vijay Baghel among the officers he accused of demanding monthly payments. [@4] Mr. Verma said he had spoken
+conducted after he could not meet the demand. [@1] The confrontation took place at the Sidarth Hotel. [@5] The hotel owner also named Traffic Inspector Vijay Baghel among the officers he accused of demanding monthly payments. [@4,5] The hotel owner said he had released the viral video on social media himself to expose the police. [@5] Mr. Verma said he had spoken
 to the hotel owner and taken his allegations into cognisance. [@1] The Free
 Press Journal reported earlier the same day that an investigation was under way
 into the roles of the city SP and the Additional SP. [@3] Investigators were also to examine whether anyone attempted to fabricate evidence. [@4]
