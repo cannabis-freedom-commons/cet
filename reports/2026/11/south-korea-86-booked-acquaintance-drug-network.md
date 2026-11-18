@@ -46,6 +46,11 @@ sources:
     publisher: 뉴시스
     date: 2026-11-17
     language: ko
+  - title: 연인·친구끼리 마약 거래 … 경찰, 86명 검거·29명 구속
+    url: https://www.newdaily.co.kr/site/data/html/2026/11/17/2026111750161.amp.html
+    publisher: 뉴데일리
+    date: 2026-11-17
+    language: ko
 open_questions:
   - The sources give no cannabis quantity and do not say how many of the 86 suspects dealt in cannabis rather than methamphetamine or LSD.
   - The 1.3 kg of methamphetamine seized, its 4.3 billion won value and the 127 million won of crime proceeds are methamphetamine and whole-case totals, not cannabis figures.
@@ -59,15 +64,15 @@ open_questions:
 
 Seoul Metropolitan Police Agency's drug crime investigation squad booked 86
 people for violating the Narcotics Control Act and detained 29 of them before
-sending them to prosecutors, it said on 17 November 2026. [@1] All 86 were sent
+sending them to prosecutors, it said on 17 November 2026. [@1,3] All 86 were sent
 to the Seoul Central District Prosecutors' Office. [@2] Forty-five of them,
 including a man in his 60s identified as A, are accused of selling or giving
 away methamphetamine, cannabis and LSD from July 2024 to September 2026 to
 lovers, friends, work colleagues and prison acquaintances at lodgings and homes
-across the country. [@1] The other 41 are accused of buying or receiving the
-drugs from them and using them. [@1] Thirty-five of the 86 had no previous drug
+across the country. [@1,3] The other 41 are accused of buying or receiving the
+drugs from them and using them. [@1,3] Those held included mid-sized company employees, department store sales staff, restaurant operators, construction site team leaders and delivery drivers. [@3] Thirty-five of the 86 had no previous drug
 record, about 40.7%, and 13 of those 35 were held on selling or supplying rather
-than use. [@1]
+than use. [@1,3]
 
 The investigation began with a tip about a methamphetamine buyer in January 2025
 and traced the network for about one year and ten months. [@1] Officers seized
@@ -85,4 +90,3 @@ colleagues urged them to try the drugs. [@1] Four cases involved using
 methamphetamine at home while children, from kindergarten to high-school age,
 were in another room. [@1] Police said they would keep tracking repeat sellers
 and the suppliers above them. [@1]
-
