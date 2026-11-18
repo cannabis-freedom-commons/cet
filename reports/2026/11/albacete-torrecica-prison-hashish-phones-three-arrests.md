@@ -53,32 +53,36 @@ sources:
     publisher: Surco CLM
     date: 2026-11-17
     language: es
+  - title: Tres detenidos por introducir estupefacientes y móviles en la prisión de Albacete
+    url: https://www.infobae.com/espana/agencias/2026/11/17/tres-detenidos-por-introducir-estupefacientes-y-moviles-en-la-prision-de-albacete/
+    publisher: Infobae
+    date: 2026-11-17
+    language: es
 open_questions:
-  - No date is given for the arrests or for the interception of the delivery; 17 November 2026, the date of the police statement and of publication, stands in for the incident date.
-  - The hashish and cocaine are described as substances seized in the operation; no laboratory confirmation or valuation was published.
-  - The one gram of cocaine seized is excluded from the cannabis figures.
-  - No charges, detention order or court step has been reported beyond the three men being placed at the judicial authority's disposal.
-  - The suspects' names and ages and the company employing the prison worker were not released, and it is not known whether the inmate faces a separate disciplinary process.
-  - The three accounts reproduce the same National Police statement and are not independent reporting.
-  - 'Left out, as its quotation was not found in Surco CLM: The investigation began in September 2026 after officers received information about the prison worker.'
+    - No date is given for the arrests or for the interception of the delivery; 17 November 2026, the date of the police statement and of publication, stands in for the incident date.
+    - The hashish and cocaine are described as substances seized in the operation; no laboratory confirmation or valuation was published.
+    - The one gram of cocaine seized is excluded from the cannabis figures.
+    - No charges, detention order or court step has been reported beyond the three men being placed at the judicial authority's disposal.
+    - The suspects' names and ages and the company employing the prison worker were not released, and it is not known whether the inmate faces a separate disciplinary process.
+    - The accounts reproduce the same National Police statement and are not independent reporting.
+    - The number of deliveries made before the one intercepted, and how long the scheme ran, were not reported.
 ---
 
 Spain's National Police arrested three men accused of bringing drugs and mobile
-phones into the La Torrecica prison in Albacete. [@1] One of them was a worker
+phones into the La Torrecica prison in Albacete. [@1,4] One of them was a worker
 at a company that provides services in the prison, who police say used his job
-to carry in the drugs and phones in exchange for payment. [@2] A second was an
+to carry in the drugs and phones in exchange for payment. [@2,4] The investigation began in September 2026, when police received information about the prison worker. [@4] A second was an
 inmate serving a sentence for offences against public health, who police say
-handed out the material inside the prison on request. [@2] The third was a man
+handed out the material inside the prison on request. [@2,4] The handovers took place when the worker and the inmate met inside one of the prison's spaces. [@4] The third was a man
 from a family clan known to police from several drug-trafficking investigations,
-described as the supplier. [@3]
+described as the supplier. [@3,4]
 
 Officers seized 65 grams of hashish, one gram of cocaine and two mobile phones
-that were to be distributed among inmates. [@1] Police said the operation cut an
+that were to be distributed among inmates. [@1,4] Police said the operation cut an
 important entry route for drugs into the Albacete prison. [@1]
 
 Police worked with the prison's security area and, with the Grupo de
 Intervención y Control Operativo and prison officers, mounted an operation that
-intercepted the next delivery before it reached its destination. [@2] The three
+intercepted the next delivery before it reached its destination. [@2,4] The three
 arrested men were placed at the disposal of the competent judicial authority.
 [@3]
-
