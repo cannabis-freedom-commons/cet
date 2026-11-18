@@ -54,11 +54,15 @@ sources:
     publisher: Eenadu
     date: 2026-11-17
     language: te
+  - title: Rajapet police arrest four for alleged ganja sale, seize 100 grams
+    url: https://telanganatoday.com/rajapet-police-arrest-four-for-alleged-ganja-sale-seize-100-grams
+    publisher: Telangana Today
+    date: 2026-11-18
 open_questions:
     - The arrests were reported as made on Tuesday and the accounts are datelined 17 November 2026; no separate calendar date or time for the operation was given.
     - The 100-gram figure is an approximate police estimate and no laboratory test of the material was reported.
     - No charges, remand decision or court outcome were reported after the arrests.
-    - Both accounts of the operation rest on the Rajapeta sub-inspector's statement, so there is no independent reporting of the arrests.
+    - All the accounts of the operation rest on the Rajapeta sub-inspector's statement, so there is no independent reporting of the arrests.
 ---
 
 Police in Rajapeta, Yadadri Bhuvanagiri district, Telangana, arrested four young
@@ -68,12 +72,12 @@ to 21 from Challur, Pamukunta, Venkatapuram and Basantapur villages, police
 said. [@1]
 
 Officers seized about 100 grams of ganja, a motorcycle and four mobile phones
-from the four men, according to police. [@1,2] The operation followed a tip that
+from the four men, according to police. [@1,2] A case was registered under the NDPS Act, police said. [@3] The operation followed a tip that
 four people were carrying ganja in the village outskirts, and sub-inspector
 Mohammad Takhiyuddin carried out the checks with his staff. [@1] Questioning the
 four suspects yielded the 100 grams of ganja, police said. [@1]
 
 During questioning the men said they had bought the ganja in Dhoolpet,
 Hyderabad, and brought it to Rajapeta mandal to consume and sell it, police
-said. [@1,2] The sub-inspector warned that police would act against ganja users as
+said. [@1,2,3] The sub-inspector warned that police would act against ganja users as
 well as sellers and urged young people to keep away from drugs. [@1]
