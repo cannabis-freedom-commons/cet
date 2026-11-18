@@ -47,6 +47,11 @@ media:
     media_url: https://www.jagranimages.com/images/2026/11/18/template/image/Four-smugglers-arrested-for-heroin-trafficking-in-Kanpur-1794996542187_v.webp
     publisher: Dainik Jagran
     caption: 'Four accused in the Kanpur ganja and smack smuggling case after their arrest, in a photo published with the Jagran report. Photo: Dainik Jagran'
+  - kind: photo
+    url: https://www.bhaskar.com/local/uttar-pradesh/kanpur/news/kanpur-smack-ganja-drug-smuggling-arrest-bajariya-police-139725199.html
+    media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/11/18/gifmagic_site_-_2026-11-18t161107_097_1794998474738.gif
+    publisher: Dainik Bhaskar
+    caption: 'A smuggler in Bajariya police custody, image published with the arrest report. Photo: Dainik Bhaskar'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 029043776c06bf8bf656396702b8f73f
@@ -67,18 +72,23 @@ sources:
     publisher: Dainik Jagran
     date: 2026-11-18
     language: hi
+  - title: Kanpur Drug Smuggling Racket Busted | 4 Arrested With Smack & Ganja
+    url: https://www.bhaskar.com/local/uttar-pradesh/kanpur/news/kanpur-smack-ganja-drug-smuggling-arrest-bajariya-police-139725199.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-18
+    language: hi
 open_questions:
     - Jagran says the arrests were made late on Tuesday night; the report uses 18 November 2026, the publication date of the first accounts, as the incident date.
     - No formal charges, court outcome or detention details were reported; police said the network was still under investigation.
     - The 127 grams of smack seized with the ganja is a different substance and is excluded from the cannabis weight; no value estimate for the ganja was published.
-    - The Amar Ujala and Jagran accounts both reproduce the same Kanpur police briefing, so they are not independent reporting.
+    - The Amar Ujala, Jagran and Dainik Bhaskar accounts all reproduce the same Kanpur police briefing, so they are not independent reporting.
     - No laboratory confirmation that the seized plant material was cannabis was reported.
-    - The gang is called interstate, but the named places, including Barabanki, Kanpur, Gorakhpur, Faizabad/Ayodhya and Prayagraj, are all in Uttar Pradesh; no crossing of a state border is described.
+    - The gang is called interstate by Amar Ujala and Jagran but inter-district by Dainik Bhaskar; the named places, including Barabanki, Kanpur, Gorakhpur, Faizabad/Ayodhya and Prayagraj, are all in Uttar Pradesh, and no crossing of a state border is described.
 ---
 
 Kanpur police arrested four people they described as an interstate
 drug-trafficking gang and seized 10 kilograms of ganja and 127 grams of smack.
-[@1,3] The arrests were made by Bajariya police late on Tuesday night. [@3] Among those held was Ashu Sonkar, alias Allahabadi, a resident of
+[@1,3,4] The arrests were made by Bajariya police late on Tuesday night. [@3] Among those held was Ashu Sonkar, alias Allahabadi, a resident of
 Colonelganj in Bajariya, who brought the drugs from Barabanki and supplied them
 across the city. [@1] The other three were Manna of Sudhia Mau in Barabanki's
 Ramnagar police-station area, and Ramchandra and Masood of Jaitpur. [@1]
@@ -88,7 +98,7 @@ he sent consignments there. [@1]
 Police said the group carried the consignment from Barabanki and supplied
 Kanpur, Gorakhpur and Faizabad. [@2] Police said Sonkar delivered the drugs to
 areas including Bidhur, Baradevi and Chunniganj. [@1] Sonkar also supplied Saket Nagar, Barra and Naubasta Machharia, police said. [@3] The traffickers used
-'kapda' (cloth) as a code word for smack and called one gram 'one metre'. [@1,3]
+'kapda' (cloth) as a code word for smack and called one gram 'one metre'. [@1,3,4]
 They made 12 to 14 packets from each gram and sold each for 300 rupees or more.
 [@1,3]
 
