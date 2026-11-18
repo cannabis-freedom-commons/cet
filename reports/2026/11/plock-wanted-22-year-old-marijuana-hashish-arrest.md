@@ -71,29 +71,32 @@ sources:
     publisher: Komenda Miejska Policji w Płocku
     date: 2026-11-18
     language: pl
+  - title: Mężczyzna powiązany z pseudokibicami zatrzymany. Co mu zarzucono?
+    url: https://petronews.pl/zatrzymano-mezczyzne-powiazanego-z-pseudokibicami-co-mu-zarzucono/
+    publisher: PetroNews
+    date: 2026-11-18
+    language: pl
 open_questions:
-  - The drugs are described only as over half a kilogram of marijuana and hashish in total, with no separate weights, so 0.5 kg is a lower bound.
-  - Police gave the value as nearly 27,000 złoty on the black market; no exact measured weight or independent valuation was published.
-  - The substances were identified as marijuana and hashish by police; no laboratory confirmation was reported.
-  - It is not reported whether the 22-year-old admitted the charge or what happened to the penalty he was originally wanted to serve.
-  - The court that ordered the detention and the prosecutor's office that requested it were not named.
-  - The Płock police statement is the only source of the account, and the media reports reproduce it without independent detail.
-  - Left out agency types, as its quotation was not found in Komenda Miejska Policji w Płocku.
+    - The drugs are described only as over half a kilogram of marijuana and hashish in total, with no separate weights, so 0.5 kg is a lower bound.
+    - Police gave the value as nearly 27,000 złoty on the black market; no exact measured weight or independent valuation was published.
+    - The substances were identified as marijuana and hashish by police; no laboratory confirmation was reported.
+    - It is not reported whether the 22-year-old admitted the charge or what happened to the penalty he was originally wanted to serve.
+    - The court that ordered the detention and the prosecutor's office that requested it were not named.
+    - The Płock police statement is the only source of the account, and the media reports, including PetroNews, reproduce it without independent detail.
 ---
 
 Płock city police arrested a 22-year-old man linked to the football hooligan
-scene, known in Poland as pseudokibice. [@3] He was wanted to serve a sentence
-imposed for not paying a fine for damage to property. [@3] Officers of the Płock
+scene, known in Poland as pseudokibice. [@3,4] He was wanted to serve a sentence
+imposed for not paying a fine for damage to property. [@3,4] Officers of the Płock
 command's football-hooligan unit and its department for crimes against life and
-health carried out the arrest. [@2] Officers went to his flat on 16 November
-2026 and searched it. [@3]
+health carried out the arrest. [@2,4] Officers went to his flat on 16 November
+2026 and searched it. [@3,4]
 
-The search turned up more than half a kilogram of marijuana and hashish. [@3]
+The search turned up more than half a kilogram of marijuana and hashish. [@3,4]
 Police estimated the black-market value of the drugs at nearly 27,000 złoty.
-[@3] The discovery widened the case to a suspected drug offence. [@1]
+[@3,4] The discovery widened the case to a suspected drug offence. [@1]
 
 He was charged with possession of a significant amount of intoxicating
-substances. [@1] At the prosecutor's request a court ordered him held in
-pre-trial detention for three months. [@3] Possession of a significant amount of
-drugs carries up to 10 years in prison. [@1]
-
+substances. [@1,4] Płock police spokeswoman Monika Jakubowska gave the account of the charge and the detention order. [@4] At the prosecutor's request a court ordered him held in
+pre-trial detention for three months. [@3,4] Possession of a significant amount of
+drugs carries up to 10 years in prison. [@1,4]
