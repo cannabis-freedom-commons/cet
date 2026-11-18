@@ -51,27 +51,31 @@ sources:
     publisher: Somoyer Konthosor
     date: 2026-11-18
     language: bn
+  - title: সুবর্ণচরে সাড়ে ৩ কেজি গাঁজাসহ গ্রেপ্তার ১
+    url: https://www.bd-bulletin.com/country/13433
+    publisher: Bangladesh Bulletine
+    date: 2026-11-18
+    language: bn
 open_questions:
-  - The 3.5 kg was described only as ganja with a police-estimated market value; no laboratory confirmation or weighing method was reported.
-  - No plea, bail decision or further court outcome after the production before the judicial court was reported.
-  - The full identities of the three absconding accused beyond the names and village given were not reported.
-  - The account rests on a single local outlet citing police sources, with no second independent report opened.
+    - The 3.5 kg was described only as ganja with a police-estimated market value; no laboratory confirmation or weighing method was reported.
+    - No plea, bail decision or further court outcome after the production before the judicial court was reported.
+    - The full identities of the three absconding accused beyond their names, ages and village given were not reported.
+    - Both accounts draw on police and case-record sources, so there is no independent account beyond the police version.
 ---
 
 Police arrested 59-year-old Md Ruhul Amin with 3.5 kg of ganja in the Charjabbar
-police station area of Subarnachar, Noakhali. [@1] Police filed a regular case
+police station area of Subarnachar, Noakhali. [@1,2] Police filed a regular case
 at the station showing three more people as absconding accused in the same
-incident. [@1] During preliminary questioning, the detained Ruhul Amin admitted
+incident. [@1,2] The three were identified as his son Md Miraj Uddin, 31, Md Nazim, 45, and Md Faruk, 55. [@2] During preliminary questioning, the detained Ruhul Amin admitted
 his own involvement in drug trading and named his son Miraz Uddin and two
 brothers from neighbouring Madhya Bagya village, Md Nazim and Faruk, as
 involved. [@1] Police filed a case under the Narcotics Control Act and produced
 the detained accused before a judicial court, Charjabbar police station
-officer-in-charge Rafiqul Hasan said. [@1]
+officer-in-charge Rafiqul Hasan said. [@1] A case was filed at Charjabbar police station under sections 19(a) and 41, read with schedule 36(1), of the Narcotics Control Act 2018, and operations were continuing to arrest the fugitives and recover drugs. [@2]
 
 A Charjabbar police team was on regular drug-recovery and warrant-execution duty
 on the night of Tuesday 17 November. [@1] Acting on a secret tip, the team
 raided Ruhul Amin's house in Uttar Bagya village of Charjabbar Union in the
 upazila. [@1] In the presence of local people, officers searched a wooden box in
 the accused's dwelling and recovered 3.5 kg of ganja wrapped in blue polythene,
-with an estimated market value of Tk 70,000. [@1]
-
+with an estimated market value of Tk 70,000. [@1] Officers found the ganja in four packets wrapped in light-blue polythene inside a locked wooden box in his dwelling. [@2]
