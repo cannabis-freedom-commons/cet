@@ -88,6 +88,10 @@ sources:
     publisher: Cyprus Inform
     date: 2026-11-18
     language: el
+  - title: Man, 28, arrested in Limassol after various drugs found in his car, on him and at his flat
+    url: https://www.kiprinform.com/en/news/man-28-arrested-in-limassol-after-various-drugs-found-in-his-car-on-him-and-at-his-flat/
+    publisher: Cyprus Inform
+    date: 2026-11-18
 open_questions:
   - The Cyprus Police statement gave the suspect's age as 28, while the newspapers reported 48; this report uses 48.
   - The 1.42-kilogram figure is a combined total for six drugs and cannot be split into cannabis and other substances beyond the 158 grams of cannabis reported.
@@ -102,14 +106,14 @@ in his car, on his person and at his flat. [@1,5] Police said the arrest followe
 November 2026 and was carried out by the drug squad (YKAN), the serious crime
 directorate (DAOE) and the customs investigation service (YPEE), which
 Greek-language reports nickname the "Cyprus FBI". [@4] Officers stopped his car
-for inspection in the Zakaki area of Limassol at about 3.40pm. [@1,5,6] A backpack
+for inspection in the Zakaki area of Limassol at about 3.40pm. [@1,5,6,7] A backpack
 in the car held about 101 grams of cannabis, and another 27 grams was hidden
-behind the dashboard glove compartment. [@1,5,6] A search of his person found
+behind the dashboard glove compartment. [@1,5,6,7] A search of his person found
 cocaine, ketamine, ecstasy, MDMA and mephedrone, plus €80 and a mobile phone.
 [@2]
 
 Officers then searched the flat where he lived in Limassol and found further
-drugs. [@1] The flat held about 839 grams of ketamine, 150 grams of mephedrone,
+drugs. [@1,7] The flat held about 839 grams of ketamine, 150 grams of mephedrone,
 95 grams of MDMA, 60 grams of ecstasy tablets, 30 grams of cannabis and 10 grams
 of cocaine. [@4,5] Police also found two precision scales and a large number of
 zip-lock bags there, and seized €900. [@4,5,6] The searches produced 158 grams of
@@ -119,5 +123,5 @@ and €980 in cash. [@1]
 The 48-year-old was first arrested for a flagrant offence and later re-arrested
 under a court warrant. [@1,5] He is being investigated for conspiracy to commit a
 felony, illegal possession of drugs, possession with intent to supply, use of
-Class A and Class B controlled substances, and money laundering. [@4,5,6] The
-Limassol branch of DAOE-YKAN is continuing the investigation. [@3,5,6]
+Class A and Class B controlled substances, and money laundering. [@4,5,6,7] The
+Limassol branch of DAOE-YKAN is continuing the investigation. [@3,5,6,7]
