@@ -61,6 +61,11 @@ sources:
     publisher: DHA (Demirören Haber Ajansı)
     date: 2026-11-18
     language: tr
+  - title: Balıkesir'de 377 kilo uyuşturucu ele geçirildi
+    url: https://www.adanamasasi.com/balikesir-de-377-kilo-uyusturucu-ele-gecirildi/838159/
+    publisher: Adana Haber
+    date: 2026-11-18
+    language: tr
 open_questions:
   - The reports place the stop only in the Balıkesir city centre (il merkezi) and give no street, neighbourhood or time of day.
   - Whether the four were released, remanded or charged after police custody, and any later court decision, were not reported.
@@ -71,11 +76,11 @@ open_questions:
 ---
 
 Balıkesir provincial police narcotics branch teams stopped and searched a pickup
-truck in the Balıkesir city centre on 18 November 2026. [@1] Four suspects were
-detained on suspicion of manufacturing and trading narcotic substances. [@1]
+truck in the Balıkesir city centre on 18 November 2026. [@1,4] Four suspects were
+detained on suspicion of manufacturing and trading narcotic substances. [@1,4]
 
-Officers found 377 kilograms 200 grams of skunk, or esrar, in the vehicle. [@1]
-The search was carried out with the narcotics detection dog YAŞA. [@2] The
+Officers found 377 kilograms 200 grams of skunk, or esrar, in the vehicle. [@1,4]
+The search was carried out with the narcotics detection dog YAŞA. [@2,4] The
 cannabis was found in the truck's cargo bed, which officers searched with the
 dog Yaşa. [@3]
 
@@ -83,4 +88,3 @@ Police had established through intelligence work that drugs would be carried in
 the truck, and the driver did not obey the order to stop, so officers pursued
 and stopped him. [@3] Police assessed that the drugs had been prepared to be put
 on the market illegally. [@1]
-
