@@ -54,35 +54,45 @@ sources:
     publisher: Correio do Lago
     date: 2026-11-17
     language: pt
+  - title: Polícia apreende quase 40 kg de maconha e ecstasy em casa e prende homem em Toledo
+    url: https://www.radiouniaodetoledo.com.br/noticia/9/487993/policia-apreende-quase-40-kg-de-maconha-e-ecstasy-em-casa-e-prende-homem-em-toledo
+    publisher: Rádio União de Toledo
+    date: 2026-11-17
+    language: pt
 open_questions:
   - The seized material was described as a substance similar to marijuana; no laboratory confirmation was reported.
   - No name was released for the 36-year-old suspect, and no plea or court outcome was reported after he was taken to the Toledo Civil Police station.
   - Gazeta de Toledo described 38½ tablets totalling 40.14 kg, while Correio do Lago gave 38 tablets of 39.6 kg plus a separate 540 g half tablet; both accounts reach the same total.
   - It was not stated whether the R$ 170 found at the shop was proceeds of drug sales.
   - The bulletin also reported six unrelated incidents in the region — a traffic-dispute shooting, threats, thefts and an assault — which are separate events and are not covered here.
+media:
+  - kind: video
+    url: https://www.radiouniaodetoledo.com.br/noticia/9/487993/policia-apreende-quase-40-kg-de-maconha-e-ecstasy-em-casa-e-prende-homem-em-toledo
+    media_url: https://www.dailymotion.com/video/xbxex2i
+    publisher: Catve
+    caption: 'Catve video report of the 16 November 2026 Toledo police operation, with the same title as the article (''Polícia apreende quase 40 kg de maconha e ecstasy em casa e prende homem em Toledo''), covering the seizure and the man''s arrest. Credit: Antonio Mendonça/Catve'
 ---
 
 A joint operation by Toledo's Civil Police with ROTAM military police support
 seized nearly 40 kg of marijuana and arrested a 36-year-old man in flagrante for
-drug trafficking. [@2] The occurrence was registered on the night of Monday 16
+drug trafficking. [@2,3] The occurrence was registered on the night of Monday 16
 November in the Vila Pioneiro area of Toledo. [@2] At a shop on Rua 25 de Julho,
 one of the brothers named in the investigation was caught packaging two portions
-of marijuana weighing 11 grams and tried to hide them under the counter. [@2]
+of marijuana weighing 11 grams and tried to hide them under the counter. [@2,3]
 The other two people stopped at the shop were identified as customers and
-released. [@1]
+released. [@1,3]
 
 Officers found 38½ tablets of a marijuana-like substance totalling 40.14 kg at
-the residence, along with 60 ecstasy-like tablets weighing 54 grams. [@1] The
+the residence, along with 60 ecstasy-like tablets weighing 54 grams. [@1,3] The
 residence total comprised 38 tablets weighing 39.6 kg plus a separate half
 tablet of 540 grams, and officers also took two precision scales, the ecstasy
 and drug-packaging materials. [@2] Two precision scales, a knife and plastic
 packaging used for portioning the drugs were also seized. [@1] Officers also
-found R$ 170 in cash at the shop. [@2]
+found R$ 170 in cash at the shop. [@2,3]
 
 The operation began after an anonymous tip about drugs stored at the back of a
 property on Rua Piratini, with the Civil Police's GDE unit supported by ROTAM.
-[@2] With the landowner's authorization, officers saw marijuana tablets through
+[@2,3] The owner of the property told officers the house was rented to two brothers known to police for drug-trafficking records. [@3] With the landowner's authorization, officers saw marijuana tablets through
 a window and, with no answer from residents, broke open the door of the
-furnished but empty house. [@2] The suspect and all seized material were taken
-to the Toledo Civil Police station for the applicable procedures. [@2]
-
+furnished but empty house. [@2,3] The suspect and all seized material were taken
+to the Toledo Civil Police station for the applicable procedures. [@2,3]
