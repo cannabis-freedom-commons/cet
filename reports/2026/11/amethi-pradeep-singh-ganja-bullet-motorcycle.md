@@ -57,19 +57,28 @@ sources:
     publisher: Hindusthan Samachar
     date: 2026-11-18
     language: hi
+  - title: ऑपरेशन चक्रव्यूह में 2.835 किलो गांजे के साथ युवक गिरफ्तार
+    url: https://vocaltv.in/crime/amethi-youth-arrested-with-caphp/cid19546596.htm
+    publisher: Vocal TV
+    date: 2026-11-18
+    language: hi
+  - title: 'अमेठी पुलिस का एक्स पोस्ट: ऑपरेशन चक्रव्यूह के तहत संग्रामपुर पुलिस द्वारा 02 किलो 835 ग्राम गांजा के साथ 01 अभियुक्त गिरफ्तार'
+    url: https://x.com/amethipolice/status/2122975134726422959
+    publisher: Amethi Police (X)
+    date: 2026-11-18
+    language: hi
 open_questions:
-  - 'Accounts differ on the weight: two give about three kilograms and one gives 2.835 kilograms.'
-  - The main accounts give no calendar date for the arrest, only 'late at night'; the third account says Wednesday, matching its 18 November 2026 publication date.
-  - The ganja was not reported as laboratory-tested and no value estimate was published.
-  - No charge sheet, court appearance or trial outcome was reported; police said only that proceedings to send him to jail had begun.
-  - The accounts variously attribute the arrest to Amethi police and to Sangrampur police.
+    - 'Accounts differ on the weight: two give about three kilograms while the Hindusthan Samachar report and the Amethi police post give 2.835 kilograms.'
+    - The ganja was not reported as laboratory-tested and no value estimate was published.
+    - No charge sheet, court appearance or trial outcome was reported; police said only that proceedings to send him to jail had begun.
+    - One report names the sub-inspector in the arresting team Saumya Kumar Agrawal and another Saumya Kumar Jaiswal.
 ---
 
 Amethi police arrested a drug smuggler, identified as Pradeep Singh, with about
 three kilograms of ganja and a bullet motorcycle. [@1] He is the son of Pramod
-Singh and a resident of Tala in Pratapgarh district. [@2] A third account gives
+Singh and a resident of Tala in Pratapgarh district. [@2] He was 22 years old. [@4] A third account gives
 the weight as 2.835 kilograms and says Sangrampur police made the arrest on
-Wednesday. [@3] Officers stopped him during a late-night check on the road by
+Wednesday. [@3,4] Amethi police said in a post on X on 18 November that Sangrampur police had seized 2 kg 835 g of ganja from one accused under Operation Chakravyuh. [@5] Officers stopped him during a late-night check on the road by
 the Shantanand Pujari Inter College in Mishrauli. [@2]
 
 The arrest was made under Operation Chakravyuh, a district campaign ordered by
@@ -80,5 +89,4 @@ delivered it. [@2] Officers seized the ganja and the motorcycle and registered a
 case under the NDPS Act, beginning proceedings to send him to jail. [@2] He
 already had earlier NDPS cases against him, and the arresting team included
 station in-charge Sanjay Singh and Tikramafi police chowki in-charge Saumya
-Kumar Agrawal. [@2]
-
+Kumar Agrawal. [@2] An NDPS case was registered against him at Kandhai police station in 2025, and another at Sangrampur police station in 2026. [@4]
