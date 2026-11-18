@@ -51,20 +51,25 @@ sources:
     publisher: Langenhagener News
     date: 2026-11-17
     language: de
+  - title: 'ICE-Zwangsbremsung nach Kiffen auf Zug-Klo: Duo leistet Widerstand gegen Polizei'
+    url: https://www.msn.com/de-de/nachrichten/other/ice-zwangsbremsung-nach-kiffen-auf-zug-klo-duo-leistet-widerstand-gegen-polizei/ar-AA2hF3Lo
+    publisher: HNA
+    date: 2026-11-17
+    language: de
 ---
 
 Two Tunisian nationals, aged 17 and 24, were arrested at Hannover Hauptbahnhof
 on the evening of 16 November 2026 after a fire alarm went off in the train.
 [@3] The pair had been smoking cannabis together in the toilet of an ICE from
-Göttingen to Hannover, which set off the alarm. [@2] Neither had a valid ticket.
+Göttingen to Hannover, which set off the alarm. [@2,4] Neither had a valid ticket.
 [@1]
 
 The smoke triggered a brief emergency brake on an open stretch of track, and the
-conductor notified the federal police. [@1] Once the train moved again, the two
+conductor notified the federal police. [@1,4] Once the train moved again, the two
 tried to run off at the Hannover main station to avoid a check, but officers
 from the Bundespolizeiinspektion Hannover stopped and arrested them. [@1] Both
 put up considerable resistance and had to be handcuffed and taken to the
-station. [@1]
+station. [@1,4]
 
 Inside the station the 17-year-old struck a federal officer in the chest and
 then spat in the direction of another. [@1] Another officer suffered a slight
@@ -75,4 +80,3 @@ measures were finished the two left the station, and the federal police opened
 investigations for obtaining services by deception, resistance, attacking
 law-enforcement officers and breaching the federal non-smoking protection act.
 [@1]
-
