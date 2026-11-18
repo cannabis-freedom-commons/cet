@@ -61,32 +61,30 @@ sources:
     publisher: РЕГИОНЫ.РУ
     date: 2026-11-17
     language: ru
-open_questions:
-  - No date is given for the detention; 17 November 2026, the publication date of both accounts, stands in for the incident date.
-  - The weight of the 13 seized plants and of the substance in the bags and wraps was not reported; only the about 800 grams found in the box and jars was confirmed by examination.
-  - The remaining seized material was still undergoing expert examination when the reports were published.
-  - Only the suspect's age was released; no name, plea or trial date was reported.
-  - Both accounts are based on the same Moscow region MVD press-service statement and are not independent reporting.
+  - title: В Сергиево-Посадском округе задержали 31-летнего жителя за выращивание конопли
+    url: https://newsroom24.ru/moskva/news/criminal/2026/news_376995/
+    publisher: Ньюсрум24
+    date: 2026-11-18
+    language: ru
 ---
 
 Police detained a 31-year-old local resident suspected of growing cannabis in a
 greenhouse on a garden plot in the village of Semenkovo and preparing to sell
-marijuana to acquaintances. [@1] According to Tatyana Petrova, head of the
+marijuana to acquaintances. [@1,3] According to Tatyana Petrova, head of the
 information directorate of the Moscow region police headquarters, the man bought
 seeds about six months earlier and, several months later, harvested part of the
 crop, dried and shredded the plants and stored the substance intending to sell
-it later. [@2]
+it later. [@2,3]
 
 Officers of the drug-control directorate of the Moscow region police
 headquarters, together with district police, located the man and detained him at
 his place of residence. [@2] During an inspection of the house, outbuildings and
 plot, police seized 13 plants resembling cannabis, as well as two bags, two
-metal jars, four wraps and a box of plant substance. [@1] An expert examination
+metal jars, four wraps and a box of plant substance. [@1,3] An expert examination
 found about 800 grams of marijuana in the box and the jars; the rest of the
-seized material was sent for further examination. [@1]
+seized material was sent for further examination. [@1,3]
 
 An investigator opened a criminal case over attempted illegal sale of narcotics
 under Part 3 of Article 30 and Part 4 of Article 228.1 of the Criminal Code, and
 the Sergiyev Posad city court ordered the suspect held in pretrial detention.
-[@1]
-
+[@1,3]
