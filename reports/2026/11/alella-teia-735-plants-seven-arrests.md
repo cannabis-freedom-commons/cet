@@ -91,6 +91,11 @@ sources:
     publisher: Capgròs
     date: 2026-11-17
     language: es
+  - title: Detenidas siete personas en dos plantaciones de marihuana en Alella y Teià con 735 plantas
+    url: https://www.msn.com/es-es/noticias/otras/detenidas-siete-personas-en-dos-plantaciones-de-marihuana-en-alella-y-tei%C3%A0-con-735-plantas/ar-AA2hGA6h
+    publisher: MSN
+    date: 2026-11-18
+    language: es
 open_questions:
     - The 500,000-euro figure is an illicit-market estimate for the buds, not a seized cash amount, and no estimator is named.
     - No laboratory confirmation of the seized plants or buds was reported.
@@ -99,26 +104,26 @@ open_questions:
 ---
 
 Mossos d'Esquadra officers from the Premià de Mar investigation unit arrested
-seven men aged 34 to 46 on 12 November 2026. [@1,3,4] The men were held as suspected
+seven men aged 34 to 46 on 12 November 2026. [@1,3,4,5] The men were held as suspected
 authors of offences against public health, electricity fraud and membership of a
-criminal group. [@1,3,4] The detainees were brought before the courts, and the
+criminal group. [@1,3,4,5] The detainees were brought before the courts, and the
 investigation remains open with further arrests not ruled out. [@2,3] The detainees were brought before the on-duty investigating court (juzgado de instrucción de guardia) of Mataró on 14 November 2026. [@4]
 
 In the Alella house officers found six rooms set up for indoor cannabis
 cultivation and seized 123.095 kilograms of buds ready for distribution. [@1,3,4] In
 the Teià house they found three rooms with flowering plantations and seized 735
 marijuana plants plus 59.630 kilograms of drying buds. [@2,3] In total the Mossos
-seized 182.725 kilograms of marijuana buds and the 735 plants. [@2,4] The report
+seized 182.725 kilograms of marijuana buds and the 735 plants. [@2,4,5] The report
 says the buds could exceed 500,000 euros on the illicit market. [@2,4] Officers
 later searched a flat in Badalona linked to the suspects and seized 10,000 euros
 in cash, police-interest documents, bank cards and ammunition of various
 calibres. [@2,3,4]
 
 The inquiry began in August 2026 after signs of indoor marijuana grows were
-detected at the two homes, one in Alella and one in Teià. [@1,3,4] Surveillance with
+detected at the two homes, one in Alella and one in Teià. [@1,3,4,5] Surveillance with
 Alella local police identified movements of people and vehicles and typical
 signs such as constantly running climate equipment and high electricity use.
-[@1] Checks with the supply company confirmed fraudulent connections to the
+[@1,5] Checks with the supply company confirmed fraudulent connections to the
 power grid in both houses, and officers later disconnected them to prevent fire,
 electrocution and further fraud. [@2,4] Investigators describe the group as
 structured and hierarchical, with separate roles for logistics, plantation
