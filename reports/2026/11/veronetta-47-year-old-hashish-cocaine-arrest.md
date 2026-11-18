@@ -56,6 +56,11 @@ sources:
     publisher: VeronaSera
     date: 2026-11-17
     language: it
+  - title: Per Veronetta con cocaina e hashish, 47enne arrestato per spaccio
+    url: https://www.virgilio.it/italia/verona/notizielocali/per_veronetta_con_cocaina_e_hashish_47enne_arrestato_per_spaccio-77636736.html
+    publisher: Virgilio.it
+    date: 2026-11-17
+    language: it
 open_questions:
   - The arrested man was identified only by age, nationality and domicile; no name was published.
   - The substances were described as cocaine and hashish as found; no laboratory confirmation was reported.
@@ -67,7 +72,7 @@ open_questions:
 Carabinieri of the Verona Company's operations and mobile radio unit arrested a
 47-year-old Tunisian man living in San Michele Extra in the Veronetta district
 on the evening of 16 November 2026 on suspicion of possessing drugs for dealing.
-[@1] Officers recognised the man while passing through Veronetta, where he was
+[@1,4] Officers recognised the man while passing through Veronetta, where he was
 known to police for specific previous offences, and his nervous manner at the
 sight of the patrol prompted a closer check. [@1] Telenuovo corroborates that
 the 47-year-old Tunisian man was arrested by Carabinieri in the same district on
@@ -87,4 +92,3 @@ and held in the security cells pending a fast-track hearing. [@1] On the morning
 of 17 November a Verona court judge validated the arrest and ordered him to
 reside in the municipality of Verona and to stay at his home during the night.
 [@1]
-
