@@ -58,6 +58,11 @@ media:
     media_url: https://static.emol.cl/emol50/Fotos/2026/11/17/file_20261117100548.jpg
     publisher: Emol
     caption: 'Seized evidence from the Inacaliri border drug case. Photo: Fiscalía de Antofagasta (Antofagasta Prosecutor''s Office).'
+  - kind: photo
+    url: https://eju.tv/2026/11/capturan-a-boliviano-en-chile-con-media-tonelada-de-droga-tras-persecucion-de-casi-50-kilometros/
+    media_url: https://eju.tv/wp-content/uploads/2026/11/boliviano-chile_101-18569705_20261116224051.webp
+    publisher: eju.tv
+    caption: 'Packages of the drugs seized from the pickup at the Inacaliri border post, published with the caption ''Este es el cargamento de droga incautado''. Photo: Unitel'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b85b8a5fc153c991c89a1eba10ecf52e
@@ -108,6 +113,19 @@ sources:
     publisher: Emol
     date: 2026-11-17
     language: es
+  - title: Capturan a boliviano en Chile con media tonelada de droga tras persecución de casi 50 kilómetros
+    url: https://eju.tv/2026/11/capturan-a-boliviano-en-chile-con-media-tonelada-de-droga-tras-persecucion-de-casi-50-kilometros/
+    publisher: eju.tv
+    date: 2026-11-16
+    language: es
+  - title: CARABINEROS DE FRONTERA INTERCEPTA 460 KILOS DE DROGA A MÁS DE 4 MIL METROS DE ALTURA SOBRE EL NIVEL DEL MAR
+    url: https://elamerica.cl/2026/11/16/carabineros-de-frontera-intercepta-460-kilos-de-droga-a-mas-de-4-mil-metros-de-altura-sobre-el-nivel-del-mar/
+    publisher: Diario El América
+    date: 2026-11-16
+    language: es
+open_questions:
+  - The Bolivian account places the pursuit in the Atacama border zone, while the Chilean accounts and this report place it near the Inacaliri post in Antofagasta's El Loa province.
+  - The submitted account gives the combined load as 494.3 kilos, while El Deber reports 494.5 kilos including the gross weight of the ketamine bottles.
 ---
 
 Carabineros officers from Retén Inacaliri were on preventive patrol about 20
@@ -122,14 +140,14 @@ fleeing on foot but was caught. [@2,5,6,7,8,9]
 
 Inspecting the cab and cargo area, officers found packages holding 395 kilos 100
 grams of processed marijuana, 45 kilos 100 grams of coca paste and 19 kilos 800
-grams of cocaine hydrochloride. [@1,5,6,7,8,9] Officers also seized 171 bottles of liquid
+grams of cocaine hydrochloride. [@1,5,6,7,8,9,11] Officers also seized 171 bottles of liquid
 ketamine with a reported gross weight of 34.5 kilos, plus the pickup truck and
-other items of investigative interest. [@1,5,6,7,9]
+other items of investigative interest. [@1,5,6,7,9,10]
 
-The detained driver was a 31-year-old Bolivian citizen. [@1,5,6,7,8,9] The Calama
+The detained driver was a 31-year-old Bolivian citizen. [@1,5,6,7,8,9,10] The Calama
 prosecutor's office formally charged him with illicit drug trafficking. [@2,6] The accused was formalized on Sunday before the Calama Guarantee Court for illicit drug trafficking under article 3 of Law 20,000. [@5] A
 court ordered preventive prison on grounds that his freedom endangered public
 safety and set a 120-day investigation period to establish who sent, financed
 and was to receive the load. [@1,5,6,8,9] The prosecution said the combined load
 amounted to about 1.2 million doses and described the mix of four substances in
-one truck as a catalogue rather than a single product. [@4,5,7,9]
+one truck as a catalogue rather than a single product. [@4,5,7,9,10] The head of the Carabineros Antofagasta zone, General Marco Gutiérrez Sepúlveda, said the interception came from permanent patrols and a systematic process of information analysis and intelligence. [@11]
