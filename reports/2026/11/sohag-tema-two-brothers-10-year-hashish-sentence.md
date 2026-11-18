@@ -75,20 +75,30 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-17
     language: ar
+  - title: السجن 10 سنوات وغرامة 100 ألف جنيه لشقيقين بتهمة الاتجار بالمخدرات وحيازة أسلحة بسوهاج
+    url: https://www.youm7.com/story/2026/11/18/%D8%A7%D9%84%D8%B3%D8%AC%D9%86-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-100-%D8%A3%D9%84%D9%81-%D8%AC%D9%86%D9%8A%D9%87-%D9%84%D8%B4%D9%82%D9%8A%D9%82%D9%8A%D9%86-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1/7622995
+    publisher: اليوم السابع
+    date: 2026-11-18
+    language: ar
+open_questions:
+    - No date is given for the verdict hearing; 17 November 2026, when the first accounts were published, stands in for the incident date.
+    - No weight or street value was published for the hashish seized from the brothers.
+    - No appeal or further court step was reported after the sentencing.
+    - The brothers are identified only by initials, and the reports appear to reproduce the same court and police account rather than independent reporting.
 ---
 
 Sohag Criminal Court sentenced two brothers to 10 years in prison each and fined
 each 100,000 Egyptian pounds after convicting them of drug trafficking and of
 holding firearms and ammunition without a licence in the Tema district, north of
-Sohag Governorate. [@1,3,4,5] The verdict was issued under counsellor Mohamed El-Amir Mohamed Abu Kreisha, with counsellors Ahmed Nabil Tolba and Ahmed Mustafa Abu Sahli, and court secretaries Mohamed El-Arabi and Ali Hussein. [@4,5] The case began when information reached the
+Sohag Governorate. [@1,3,4,5,6] The verdict was issued under counsellor Mohamed El-Amir Mohamed Abu Kreisha, with counsellors Ahmed Nabil Tolba and Ahmed Mustafa Abu Sahli, and court secretaries Mohamed El-Arabi and Ali Hussein. [@4,5,6] The case began when information reached the
 investigations unit of Tema police station that the brothers, identified only as
 M. A. and A. A. and living in Kom Ashfaw village, were running a
-drug-trafficking operation and kept unlicensed guns to protect it. [@1,4,5] Another
+drug-trafficking operation and kept unlicensed guns to protect it. [@1,4,5,6] Another
 account of the case identified the substance as hashish and the weapons as
 automatic rifles. [@2,3]
 
 A security operation targeted the brothers, arrested them and found quantities
 of hashish divided into pieces and prepared for sale, along with automatic
-rifles and the ammunition used with them. [@1,4,5] A chemistry laboratory report confirmed that the seized samples contained the drug hashish. [@3,4] After the legal procedures were
+rifles and the ammunition used with them. [@1,4,5,6] A chemistry laboratory report confirmed that the seized samples contained the drug hashish. [@3,4] After the legal procedures were
 completed the two were referred to Sohag Criminal Court, which reviewed the case
-file and handed down the sentences. [@1]
+file and handed down the sentences. [@1,6]
