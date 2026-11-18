@@ -39,6 +39,11 @@ media:
     media_url: https://www.alagoas24horas.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-07.47.49-e1794998965338.jpeg
     publisher: Alagoas 24 Horas
     caption: 'Photo of the items from the Serraria residence seizure published with the arrest report. Photo: Cortesia'
+  - kind: photo
+    url: https://www.alagoas24horas.com.br/1775432/homem-e-preso-com-quase-r-1-milhao-em-drogas-armas-e-animais-silvestres/
+    media_url: https://www.alagoas24horas.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-08.56.00-730x410.jpeg
+    publisher: Alagoas 24 Horas
+    caption: 'Seized drugs, firearms and caged birds from the Serraria residence, in the courtesy photo published with the arrest report. Photo: Cortesia'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 195f28cbf3e433f1ef2c5881e4c3ec97
@@ -64,27 +69,32 @@ sources:
     publisher: Francês News
     date: 2026-11-18
     language: pt
+  - title: Homem é preso com quase R$ 1 milhão em drogas, armas e animais silvestres
+    url: https://www.alagoas24horas.com.br/1775432/homem-e-preso-com-quase-r-1-milhao-em-drogas-armas-e-animais-silvestres/
+    publisher: Alagoas 24 Horas
+    date: 2026-11-18
+    language: pt
 open_questions:
     - No information was published about the species of the seven birds or the origin of the firearms and the drugs.
     - The man was not named, and no formal charge, custody ruling or court outcome was reported beyond the flagrante booking.
-    - The published accounts give the weight as 13.4 kg and approximately 13.45 kg; the report uses 13.4 kg, and no value estimate or laboratory confirmation was published.
+    - The published accounts give the weight as 13.4 kg and approximately 13.45 kg; the report uses 13.4 kg, and no laboratory confirmation was published.
     - No victim names, case numbers, charges or custody ruling for the alleged three homicides and faction membership were published.
     - The unit that carried out the operation is given as the Força Tática of the 12th Military Police Battalion in one account and as teams of the 13th Battalion in two others.
 ---
 
 Police arrested a man on the night of Tuesday 17 November 2026 in the Serraria
-neighbourhood of Maceió, in the state of Alagoas. [@1,3] The arrest was carried out by the Força Tática unit of the 12th Military Police Battalion on the night of Tuesday 17 November 2026. [@2] Police went to the house after two reports that a member of the Tudo Neutro (TDN) faction suspected of involvement in three killings was keeping wild birds in cages there. [@2] The initial suspicion
+neighbourhood of Maceió, in the state of Alagoas. [@1,3,5] The arrest was carried out by the Força Tática unit of the 12th Military Police Battalion on the night of Tuesday 17 November 2026. [@2] Police went to the house after two reports that a member of the Tudo Neutro (TDN) faction suspected of involvement in three killings was keeping wild birds in cages there. [@2] The initial suspicion
 involved possible crimes of drug trafficking, illegal possession of firearms and
 trade in wild animals. [@1,3] Officers saw further cages, a precision scale and plastic bags with unidentified contents inside the house, and noticed a smell of marijuana, before entering to search it. [@3]
 
 The occurrence was registered at about 20:00. [@1] The material was found inside
 a residence, where there were also precision scales used to weigh drugs. [@1,2,4]
 Inside the property, police found 13,4 kilograms (13.4 kg) of maconha, a
-.38-calibre revolver and a .40-calibre pistol. [@1,2,4] The suspect admitted owning the drugs and firearms found in the residence. [@2] Alongside them, officers
+.38-calibre revolver and a .40-calibre pistol. [@1,2,4,5] The suspect admitted owning the drugs and firearms found in the residence. [@2] Alongside them, officers
 seized six rounds of ammunition, two precision scales and seven birds kept in
-cages. [@1,3]
+cages. [@1,3,5] Authorities estimated the value of the drugs at R$940,000. [@5]
 
 The presence of the animals drew particular attention because there were cages
 both in the external area and inside the residence. [@1,2,3] The man was taken to
 the Central de Flagrantes, where he was booked in flagrante, and the seven birds
-were also collected. [@1,2,3]
+were also collected. [@1,2,3,5]
