@@ -44,6 +44,11 @@ sources:
     publisher: VirasoroVirtual
     date: 2026-11-18
     language: es
+  - title: La Policía secuestró plantas de marihuana tras un allanamiento
+    url: https://www.diarioellibertador.com.ar/la-policia-secuestro-plantas-de-marihuana-tras-un-allanamiento/
+    publisher: Diario El Libertador de Corrientes
+    date: 2026-11-18
+    language: es
 open_questions:
   - No arrests, suspects, charges or court outcome were reported.
   - No weight, size, cultivation details or value estimate for the 13 plants was published.
@@ -52,9 +57,9 @@ open_questions:
 
 On Wednesday 18 November 2026, the Corrientes police carried out a raid on a
 home in the town of San Roque where officers seized more than a dozen marijuana
-plants. [@1] The raided home is located at Desiderio Sosa street at number 700,
+plants. [@1,3] The search was carried out as part of an investigation into a suspected infringement of Argentina's narcomenudeo law, the offence covering small-scale drug sales, under the coordination of the prosecutor's unit handling the case. [@3] The raided home is located at Desiderio Sosa street at number 700,
 and the joint operation brought together the San Roque District police station,
-the Tactical Operational Group and Regional Unit II Goya. [@1] The search took
+the Tactical Operational Group and Regional Unit II Goya. [@1,3] The search took
 place in the early hours of that Wednesday with the involvement of special
 forces and with the intervention of the provincial judiciary. [@1]
 
@@ -66,5 +71,4 @@ in a positive way the presence of the prohibited substance. [@2]
 
 Following the positive test, officers carried out the formal seizure of the
 thirteen plants, which remained in the police station at the disposal of the
-competent judicial authority. [@1]
-
+competent judicial authority. [@1,3]
