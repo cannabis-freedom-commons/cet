@@ -160,11 +160,16 @@ sources:
     publisher: Clarín
     date: 2026-08-12
     language: es
+  - title: Incautaron 86,5 kg de marihuana en el micro de São Paulo - Mendoza Post
+    url: https://www.mendozapost.com/deportes/incautaron-86-5-kg-de-marihuana-en-el-micro-de-san-pablo-en-bolivia/
+    publisher: Mendoza Post
+    date: 2026-08-11
+    language: es
 ---
 
 Bolivian police stopped a coach of the company Buses Cosmos, hired to carry the São Paulo FC squad
 during its visit to Bolivia for a Copa Sudamericana match against Bolívar, and found about 86 kilos of
-marijuana hidden inside it. [@1,2,5,6,7,9,10,11,12,14,15,17,18,19,20,21,22] The coach was intercepted in Villa Tunari, a coca-producing zone in the central department of Cochabamba. [@19] One account gives 86.5 kilograms. [@12,14,15,16,18,20] Officers of
+marijuana hidden inside it. [@1,2,5,6,7,9,10,11,12,14,15,17,18,19,20,21,22,23] The coach was intercepted in Villa Tunari, a coca-producing zone in the central department of Cochabamba. [@19] One account gives 86.5 kilograms. [@12,14,15,16,18,20] Officers of
 UMOPAR, the Mobile Police Unit for Rural Areas [@5,8,9,10], found four bags of the drug in the coach
 [@2,3,5,6,8,9,10] at the Locotal control post on the road between Cochabamba and Santa Cruz.
 [@8,9,11,13]
@@ -177,14 +182,14 @@ insignia. [@3] Other accounts rely on the Brazilian journalist Gabriel Sá. [@9,
 ## The drivers
 
 The coach regularly ran between Santa Cruz de la Sierra and Cochabamba and had left Cochabamba for Santa
-Cruz, where the squad was staying. [@2,4] Its three drivers were detained. [@2,3,5,6,8,9,10,11,13,14,15,16,17,18,19,20,21,22] The three detained were described as people linked to the transport of the bus. [@14,18] Buses
+Cruz, where the squad was staying. [@2,4] Its three drivers were detained. [@2,3,5,6,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23] The three detained were described as people linked to the transport of the bus. [@14,18] Buses
 Cosmos said the police were investigating, that all responsibility lay with the drivers, and that it
-had provided another vehicle for the team. [@2,3,4,5,8,9,10,11,15,17,18,19,20] The authorities were investigating where
+had provided another vehicle for the team. [@2,3,4,5,8,9,10,11,15,17,18,19,20,23] The authorities were investigating where
 the marijuana came from and who was moving it. [@1,7,16,22]
 
 The São Paulo squad had not used the coach and had no contact with the men detained; it had been taken
 from the airport to its hotel on the night of 10 August in another coach of the same company, and
-learned of the case from local news. [@1,2,5,8,9,11,14,18,20,21] Mediotiempo said it had no information linking the
+learned of the case from local news. [@1,2,5,8,9,11,14,18,20,21,23] Mediotiempo said it had no information linking the
 club to the load [@1,6,7,11], and the team went on to La Paz to prepare for the match. [@1,2,4,7]
 
 Officers found 65 rectangular packages containing a greenish substance that tested as marijuana. [@19] The load was hidden in shopping bags. [@19]
