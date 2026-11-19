@@ -76,6 +76,11 @@ sources:
     publisher: Antenna Star
     date: 2026-11-19
     language: el
+  - title: Συνελήφθη άνδρας στο Αγρίνιο για διακίνηση ναρκωτικών – Είχε πάνω από 1,1 κιλό κάνναβης
+    url: https://sinidisi.gr/synelifthi-andras-sto-agrinio-gia-diakinisi-narkotikon-eiche-pano-apo-11-kilo-kannavis/
+    publisher: Συνείδηση
+    date: 2026-11-18
+    language: el
 open_questions:
     - 'The reports itemise the total differently: a subheading gives 1,154 grams, one account 4.9 grams on the man plus 1,150 grams at home, and another 4.9 grams plus home packages of 1,011 and 122 grams; the report keeps 1,154 grams.'
     - The published accounts reproduce the same Agrinio police announcement, so they are not independent reporting.
@@ -86,17 +91,17 @@ open_questions:
 ---
 
 Police in Agrinio arrested a man on Wednesday 18 November 2026 and opened a
-felony case file against him for drug trafficking. [@1,2,3,4] The man was 28 years old. [@3] The arrest was made by
+felony case file against him for drug trafficking. [@1,2,3,4,5] The man was 28 years old. [@3] The arrest was made by
 officers of the Drug Enforcement Department of the Agrinio crime investigation
-sub-directorate. [@1,4]
+sub-directorate. [@1,4,5]
 
-Acting on information, officers found the suspect near his home. [@1,2,4] A body
+Acting on information, officers found the suspect near his home. [@1,2,4,5] A body
 search found a package containing 4.9 grams of cannabis buds, known locally as
-φούντες, which was seized and led to his arrest. [@1,2,4] One account says the 4.9-gram package was found and seized on the man's moped during checks, rather than in a body search near his home. [@3] A search of his home found
+φούντες, which was seized and led to his arrest. [@1,2,4,5] One account says the 4.9-gram package was found and seized on the man's moped during checks, rather than in a body search near his home. [@3] A search of his home found
 a further 1,150 grams of cannabis buds in six packages, along with 0.4 grams of
 cocaine, an electronic precision scale with drug residues and a roll of film.
-[@1,2,4] In the home search officers also found four smaller packages of hashish of 4.3, 3, 1.7 and 0.4 grams, where the other accounts report 0.4 grams of cocaine. [@3] The article's subheading puts the total cannabis seized at 1,154 grams.
-[@1]
+[@1,2,4,5] In the home search officers also found four smaller packages of hashish of 4.3, 3, 1.7 and 0.4 grams, where the other accounts report 0.4 grams of cocaine. [@3] The article's subheading puts the total cannabis seized at 1,154 grams.
+[@1,5]
 
 The arrested man was to be taken before the prosecutor of first instance for
-Aitoloakarnania. [@1,2,3,4]
+Aitoloakarnania. [@1,2,3,4,5]
