@@ -56,6 +56,11 @@ sources:
     publisher: Radio Paulina
     date: 2026-11-18
     language: es
+  - title: 'Consumía dentro de vehículo: PDI detuvo a imputado por tráfico de drogas en sector costero de Arica'
+    url: https://www.soychile.cl/arica/policial/2026/11/18/973209/traficante-detenido-drogas.html
+    publisher: SoyChile
+    date: 2026-11-18
+    language: es
 open_questions:
   - The exact weight was not published; the reports say only that the cannabis weighed more than three kilograms.
   - No date is given for the detention or the searches; 18 November 2026 is the publication date and stands in for the incident date.
@@ -66,7 +71,7 @@ open_questions:
 ---
 
 PDI Arica detectives detained a Chilean man on suspicion of drug trafficking.
-[@1] The operation took place in Arica's coastal area, in an investigation
+[@1,3] The operation took place in Arica's coastal area, in an investigation
 coordinated with the prosecutor's office. [@1] The arresting detectives belonged
 to the MT0 unit of the PDI's criminal investigation brigade (Bicrim) in Arica.
 [@2] Officers checked the man while he sat in a vehicle smoking a handmade
@@ -74,15 +79,14 @@ cigarette. [@1] Subprefect Juan Huenchumán, head of the Bicrim, said the man ha
 been profiled and georeferenced on the city's coastal edge, at a drug sales
 point. [@2]
 
-In the car, detectives found eight plastic bags containing cannabis sativa. [@1]
+In the car, detectives found eight plastic bags containing cannabis sativa. [@1,3]
 A search of his home then found three more packages of the same substance and
 items intended for its distribution. [@1] In total, more than three kilograms of
-marijuana were taken out of circulation. [@1]
+marijuana were taken out of circulation. [@1,3]
 
 The prosecutor's office ordered the detained man placed before the guarantee
-court for a detention-control hearing and the formalisation of charges. [@1]
+court for a detention-control hearing and the formalisation of charges. [@1,3]
 Arica y Parinacota public security seremi Pedro Álvarez Ortega valued the
 operation and the coordination between the PDI and the Public Ministry. [@1]
 Álvarez said the investigation had allowed a drug sales point on Arica's coastal
 edge to be shut down. [@1]
-
