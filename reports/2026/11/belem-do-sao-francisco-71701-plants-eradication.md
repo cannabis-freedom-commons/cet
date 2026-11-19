@@ -60,6 +60,11 @@ sources:
     publisher: JETSS ENTRETENIMENTO
     date: 2026-11-19
     language: pt
+  - title: Polícia Militar destrói mais de 71 mil pés de maconha durante operação no Sertão de Pernambuco
+    url: https://portaldeprefeitura.com.br/policia/policia-militar-destroi-mais-de-71-mil-pes-de-maconha-durante-operacao/636260/
+    publisher: Portal de Prefeitura
+    date: 2026-11-19
+    language: pt
 open_questions:
   - No arrests, suspect identifications, charges or court outcomes were reported for this eradication.
   - No figure for the area of the four plots was published.
@@ -68,17 +73,17 @@ open_questions:
 
 Police officers destroyed and incinerated more than 71,000 cannabis plants
 during an eradication operation carried out on Wednesday 18 November in Belém do
-São Francisco, in the Sertão region of Pernambuco. [@1,3] The action was conducted
+São Francisco, in the Sertão region of Pernambuco. [@1,3,4] The action was conducted
 as part of Operation Carcará XX, which was launched by the 1st Independent
 Company of Military Police together with the Federal Police with the stated aim
-of combating drug trafficking. [@1,3]
+of combating drug trafficking. [@1,3,4]
 
 Officers located the cannabis plants after searches in the rural zone of the
 municipality during the operation, finding them distributed across four separate
-plots. [@1,3] Officers counted a total of 71,701 cannabis plants across the four
-plots, and those identified plants were destroyed during the operation. [@2,3]
+plots. [@1,3,4] Officers counted a total of 71,701 cannabis plants across the four
+plots, and those identified plants were destroyed during the operation. [@2,3,4]
 
 In the same operation officers also seized 8.7 kilograms of cannabis that had
-already been harvested and was described as ready for consumption. [@2,3] The
+already been harvested and was described as ready for consumption. [@2,3,4] The
 operation was reported as part of continuing ongoing integrated actions against
 the cultivation and commercialization of drugs in the Sertão of Pernambuco. [@2]
