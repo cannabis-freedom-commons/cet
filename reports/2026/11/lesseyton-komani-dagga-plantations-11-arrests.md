@@ -57,33 +57,34 @@ sources:
     url: https://www.komani.co.za/11-arrested-in-r1-2-million-dagga-bust-near-komani/
     publisher: Komani News
     date: 2026-11-18
+  - title: Hawks seize cannabis worth R900 000 in Komani raid
+    url: https://novanews.co.za/mthathaexpress/police-seized-cannabis-plants-40-kg-of-cannabis-and-cultivation-equipment-with-an-estimated-street-value-of-more-than-r900000/
+    publisher: Mthatha Express
+    date: 2026-11-19
 open_questions:
-  - No count of the cannabis plants found or destroyed was published; the unharvested plants were given only as an estimated value of more than R1 million.
-  - No area in hectares was reported for the three plantations.
-  - The account comes from one local outlet citing an unnamed operational report, with no SAPS statement or second outlet found to confirm the figures.
-  - The total estimated value above R1.2 million includes solar lights, generators and equipment as well as dagga, so it is not a drug value alone.
-  - No charges, court dates or outcomes were reported for the 11 suspects, whose ages, genders and home areas were also not given.
-  - Whether the unharvested plants were destroyed after the raid was not stated.
-  - The text gives a number of plants ("000, plus unharvested plants") but the figures have no plants_destroyed; check whether it belongs there.
+    - No area in hectares was reported for the three plantations.
+    - The first account put the total value above R1.2 million while the Hawks account puts the seized cannabis and equipment at more than R900,000; both figures are retained as stated.
+    - No charges, pleas or later court outcomes were reported beyond the expected first appearance before the Komani Magistrate’s Court.
+    - Whether the 908 cannabis plants were destroyed after seizure was not stated.
+    - No laboratory confirmation of the seized plants or processed cannabis was reported.
 ---
 
 Eleven suspects were arrested on the morning of Wednesday 18 November 2026 in an
 operation against dagga plantations, dagga being the South African term for
-cannabis, in the Lesseyton mountains near Komani, Eastern Cape. [@1] An
+cannabis, in the Lesseyton mountains near Komani, Eastern Cape. [@1,2] An
 operational report said the raid began shortly after 04:00 and involved several
 SAPS units and private security teams, with helicopter support. [@1] It followed
 intelligence gathered on an earlier helicopter reconnaissance flight flown with
-the assistance of Ken Clark. [@1]
+the assistance of Ken Clark. [@1] Police said they received intelligence on 16 November about a suspected plantation in a mountainous, forested area alongside a river in Lesseyton and carried out the coordinated operation in the early hours of 18 November. [@2]
 
 Three large plantations were found, with plants ranging from young seedlings to
-mature plants. [@1] The reported seizures included 40 kg of processed dagga
+mature plants. [@1] The Hawks put the total across the three sites at 908 cannabis plants, with 290 plants in the ground and 108 in pots at the first site and 50 plants at the second site. [@2] The reported seizures included 40 kg of processed dagga
 valued at R160,000. [@1] Officers also recovered solar lights and generators
-worth R50,000 and equipment worth R10,000. [@1] The unharvested plants were
+worth R50,000 and equipment worth R10,000. [@1] Alongside the cannabis, police seized solar panels, solar-powered lighting equipment, two generators, gardening implements, brush cutters, pangas, electrical cables and storage containers. [@2] The unharvested plants were
 estimated at more than R1 million. [@1] The total estimated value exceeded R1.2
-million. [@1]
+million. [@1] The Hawks put the estimated street value of the seized cannabis and equipment at more than R900,000. [@2]
 
 SAPS units from Komani, Cradock and Middelburg took part, assisted by Red Guard
 Security Tactical Response, QRRU Armed Reaction and helicopter support from Ken
-Clark. [@1] All 11 suspects were held at Komani police station. [@1] No court
-dates had been given for the 11. [@1]
-
+Clark. [@1] The operation was led by the Directorate for Priority Crime Investigation, also known as the Hawks, with various SAPS units and Red Guard Security. [@2] All 11 suspects were held at Komani police station. [@1] One of the 11 arrested was a Lesotho national, the suspects could not produce the required licences or authorisations to cultivate cannabis, and the alleged owner of the plantations was contacted. [@2] No court
+dates had been given for the 11. [@1] The 11 suspects, aged between 18 and 38, were expected to appear before the Komani Magistrate’s Court following the operation. [@2]
