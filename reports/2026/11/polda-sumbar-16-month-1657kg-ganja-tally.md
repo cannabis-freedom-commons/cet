@@ -63,29 +63,37 @@ sources:
     publisher: KlikPositif.com - Media Generasi Positif
     date: 2026-11-19
     language: id
+  - title: Konsisten Perangi Narkoba Selama 16 Bulan, Polda Sumbar Sita 1,6 Ton Ganja dan 99 Kg Sabu
+    url: https://mediahub.polri.go.id/in/polda/jawa-timur/image/detail/613871-konsisten-perangi-narkoba-selama-16-bulan-polda-sumbar-sita-16-ton-ganja-dan-99-kg-sabu
+    publisher: Divisi Humas Polri (Mediahub Polri)
+    date: 2026-11-19
+    language: id
 media:
   - kind: photo
     url: https://posmetropadang.co.id/konsisten-perangi-narkoba-selama-16-bulan-polda-sumbar-sita-16-ton-ganja-dan-99-kg-sabu-442554
     media_url: https://posmetropadang.co.id/wp-content/uploads/2026/11/16-ton-ganja-dan-99-Kg-sabu.jpg
     publisher: Posmetro Padang
     caption: 'Polda Sumbar public-relations chief Kombes Pol Susmelawati Rosya witnessing the testing of seized drugs due to be destroyed, in a photo published with the tally. Photo: Posmetro Padang'
+open_questions:
+  - The tally gives no breakdown of the 1,657.03 kilograms of ganja by case, district or supplier.
+  - The 1,981 cases cover all narcotics, so the number of them that involved cannabis is not stated.
 ---
 
 West Sumatra police handled 1,981 narcotics cases with 2,598 suspects from July
-2025 to 15 November 2026. [@1,4,5] The tally was the work of the provincial drug
+2025 to 15 November 2026. [@1,4,5,6] The tally was the work of the provincial drug
 directorate, Ditresnarkoba Polda Sumbar, with all district and city police in
-West Sumatra. [@1,4,5]
+West Sumatra. [@1,4,5,6]
 
 Police seized 1,657.03 kilograms of ganja, the Indonesian word for cannabis, in
-those cases. [@1,4,5] The same operation also seized 99.12 kilograms of sabu, 2,803
+those cases. [@1,4,5,6] The same operation also seized 99.12 kilograms of sabu, 2,803
 ecstasy pills and 24,453 other pills, which are not counted in the cannabis
-total. [@2,4,5]
+total. [@2,4,5,6]
 
 Drug director Kombes Pol Wedy Mahadi said the 1,981 cases and 2,598 suspects
 showed the force's seriousness and that officers keep acting, developing cases
-and tracing the networks behind distribution. [@3] He said officers work to
+and tracing the networks behind distribution. [@3,6] He said officers work to
 break the distribution chain and develop each case to uncover larger networks.
-[@1,5] Public-relations chief Kombes Pol Susmelawati Rosya said each seizure was a
+[@1,5,6] Public-relations chief Kombes Pol Susmelawati Rosya said each seizure was a
 step to protect the public and save West Sumatra's young generation from drugs.
-[@1,5] Police asked residents to report suspected drug abuse or trafficking in
-their neighbourhoods. [@2,5]
+[@1,5,6] Police asked residents to report suspected drug abuse or trafficking in
+their neighbourhoods. [@2,5,6]
