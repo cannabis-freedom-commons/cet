@@ -262,6 +262,10 @@ sources:
     url: https://newswav.com/article/singaporean-man-charged-with-trafficking-19kg-of-cannabis-at-ipoh-airport-A2611_31xZIf
     publisher: Sinar Daily, on Newswav
     date: 2026-11-19
+  - title: S’porean charged in M'sia for trafficking 19kg of cannabis at Ipoh airport, faces death penalty
+    url: https://mustsharenews.com/singaporean-death-penalty-cannabis/
+    publisher: MustShareNews
+    date: 2026-11-19
 media:
   - kind: photo
     url: https://www.malaymail.com/news/malaysia/2026/11/10/singaporean-lured-by-rm12685-job-offer-arrested-remanded-seven-days-over-rm15m-cannabis-haul-at-ipoh-airport/242670
@@ -328,7 +332,7 @@ media:
 Perak police arrested a 29-year-old unemployed Singaporean man at Sultan Azlan
 Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3,10,12,13,14,15,16,17,18,19,20,22,27,29,31,32] Auxiliary police at the
 check-in counter searched his baggage and found 36 plastic packages holding
-19,040g of dried marijuana flowers. [@1,3,6,8,9,10,11,12,14,15,17,19,21,29,31,45] The airport's own auxiliary police, Polis Bantuan Lapangan Terbang Sultan Azlan Shah (LTSAS), detected the attempt during the check-in counter inspection. [@17,25,29] Police found 36 transparent plastic packages containing dried cannabis flower in his zippered baggage, weighing 19.04 kg and valued at RM1.52 million. [@16,20,22,24,25,46] Police valued the cannabis at about
+19,040g of dried marijuana flowers. [@1,3,6,8,9,10,11,12,14,15,17,19,21,29,31,45] The airport's own auxiliary police, Polis Bantuan Lapangan Terbang Sultan Azlan Shah (LTSAS), detected the attempt during the check-in counter inspection. [@17,25,29] Police found 36 transparent plastic packages containing dried cannabis flower in his zippered baggage, weighing 19.04 kg and valued at RM1.52 million. [@16,20,22,24,25,46,49] Police valued the cannabis at about
 RM1.5 million. [@1,3,10,12,13,14,15,17,18,19,20,23,27,31] Perak police said the seizure was the second drug case they had cracked at Ipoh airport. [@19,31] The New Straits Times put the weight at 19.04kg and the
 value at RM1.52 million, an amount police said was enough to supply 47,900 drug
 users. [@2]
@@ -336,7 +340,7 @@ users. [@2]
 The man had flown from Singapore to Kuala Lumpur and travelled to Kajang, where
 police believe he collected the drugs before taking an e-hailing car to Ipoh,
 arriving on 7 November. [@1,3,6,16,19,27,29,31,32] Police said he was to fly from Ipoh to Singapore
-and then on to London to deliver the cannabis. [@1,3,6,7,8,9,11,12,14,16,17,18,19,20,21,23,24,25,26,27,28,29,31,32,44] He told police he had
+and then on to London to deliver the cannabis. [@1,3,6,7,8,9,11,12,14,16,17,18,19,20,21,23,24,25,26,27,28,29,31,32,44,49] He told police he had
 answered an online job offer promising good pay. [@1,3,7,14,16,19,21,22,25,26,31] Mohd Alwi said the suspect and the seized drugs were handed to the Perak police headquarters' narcotics investigation department for further investigation. [@19,25,26,29] Police said the offer was S$4,000 (about RM12,600) to carry luggage said to hold counterfeit luxury-branded goods to London. [@18,32] He was allegedly told that the luggage contained counterfeit branded goods and was offered more than RM12,500 for the delivery. [@20,24,27] The suspect told investigators he had not opened the suitcase, police said. [@32] Police said the offer was
 S$4,000 (about RM12,690), that the man was unemployed and that a urine screening
 found no drugs in his system. [@2,9,13,19] The syndicate lured recruits with offers of high pay to act as drug mules, hiding the drug in passengers' luggage for flights abroad to avoid detection. [@19,26,28,30]
@@ -345,7 +349,7 @@ Perak police chief Comm Datuk Mohd Alwi Zainal Abidin said syndicates
 increasingly use less busy airports such as Ipoh, which has one daily flight to
 Singapore, to traffic drugs abroad. [@2,3,5,10,11,16,18,19,27,32] The man was remanded for seven days
 from 9 November under Section 39B of the Dangerous Drugs Act 1952, which carries
-a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14,16,17,18,20,22,28,31] Deputy public prosecutor Ainin Sofiya Azlaini prosecuted, while counsel Sivahnanthan Ragava represented the accused. [@33,34,35,37,38,39,40,41] No bail was offered. [@33,34,37,38,39,40,41,42,43,45,46,47,48] The court fixed 26 February 2027 for mention of the chemistry report. [@33,34,36,37,38,39,40,41,42,43,44,45,46,47,48] Chen was accused of trafficking an estimated 19,040 grammes of cannabis under Section 39B(1)(a) of the Dangerous Drugs Act 1952. [@33,34,37,38,39,40,41,42] The charge was read in Mandarin before magistrate Norizan Riduan. [@33,34,37,38,40,41,45] The court recorded no plea because the case falls under the jurisdiction of the High Court. [@34,35,40,42,43,44,45,47,48] The accused was named as Chen Long and allegedly committed the offence at 6.20am at Baggage Machine A at the airport's check-in counter. [@33,34,35,37,38,39,40,41,43,45,46,47] A Singaporean man was charged at the Ipoh magistrate's court with trafficking 19.04kg of cannabis. [@33,34,35,37,38,39,40,41,42,43,47,48]
+a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14,16,17,18,20,22,28,31] Deputy public prosecutor Ainin Sofiya Azlaini prosecuted, while counsel Sivahnanthan Ragava represented the accused. [@33,34,35,37,38,39,40,41] No bail was offered. [@33,34,37,38,39,40,41,42,43,45,46,47,48,49] The court fixed 26 February 2027 for mention of the chemistry report. [@33,34,36,37,38,39,40,41,42,43,44,45,46,47,48,49] Chen was accused of trafficking an estimated 19,040 grammes of cannabis under Section 39B(1)(a) of the Dangerous Drugs Act 1952. [@33,34,37,38,39,40,41,42] The charge was read in Mandarin before magistrate Norizan Riduan. [@33,34,37,38,40,41,45,49] The court recorded no plea because the case falls under the jurisdiction of the High Court. [@34,35,40,42,43,44,45,47,48,49] The accused was named as Chen Long and allegedly committed the offence at 6.20am at Baggage Machine A at the airport's check-in counter. [@33,34,35,37,38,39,40,41,43,45,46,47,49] A Singaporean man was charged at the Ipoh magistrate's court with trafficking 19.04kg of cannabis. [@33,34,35,37,38,39,40,41,42,43,47,48,49]
 
 The man arrived in Ipoh on 7 November after picking up the load in Kajang and travelling by e-hailing car. [@3,5]
 
