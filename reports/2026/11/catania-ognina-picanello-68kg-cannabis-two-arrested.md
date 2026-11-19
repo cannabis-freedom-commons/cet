@@ -82,23 +82,28 @@ sources:
     publisher: NewSicilia
     date: 2026-11-18
     language: it
+  - title: Catania, blitz antidroga tra Ognina e Picanello sequestrati 6,8 kg tra marijuana e hashish
+    url: https://etnanews24.it/catania-blitz-antidroga-tra-ognina-e-picanello-sequestrati-68-kg-tra-marijuana-e-hashish/
+    publisher: Etna News 24
+    date: 2026-11-18
+    language: it
 ---
 
 Police in Catania arrested two men from the city, aged 23 and 61, on suspicion
-of possessing drugs for sale. [@2,4,5,6,7] The 23-year-old was stopped in the
+of possessing drugs for sale. [@2,4,5,6,7,8] The 23-year-old was stopped in the
 Ognina-Rotolo district after officers saw him leave his flat to meet a buyer,
 who fled at the sight of the patrols. [@1,4,6]
 
 He handed over 6 grams of marijuana kept in his jacket pocket. [@1,4,6,7] A search of
 his first-floor flat found another 264 grams of marijuana in 59 doses behind the
 kitchen sofa, with packaging material, cash and handwritten notes recording the
-dealing accounts. [@1,4,6,7]
+dealing accounts. [@1,4,6,7,8]
 
 In Picanello the 61-year-old was stopped as he opened a steel door on the
 stairway and a second armoured entrance to a fourth-floor attic used as a store.
-[@1,4,5,6,7] The attic was a fortified store behind double steel and armoured doors.
+[@1,4,5,6,7,8] The attic was a fortified store behind double steel and armoured doors.
 [@3,4,6] Inside police seized 6 kg of marijuana, in vacuum bags, jars, wrappers and
-127 ready doses, and five blocks of hashish weighing 500 grams in total. [@1,4,5,6]
-The two seizures amounted to more than 6.8 kg of marijuana and hashish. [@2,4,5,6,7] The
+127 ready doses, and five blocks of hashish weighing 500 grams in total. [@1,4,5,6,8]
+The two seizures amounted to more than 6.8 kg of marijuana and hashish. [@2,4,5,6,7,8] The
 duty prosecutor ordered both suspects taken to prison pending a validation
-hearing before the investigating judge. [@1,4,6,7]
+hearing before the investigating judge. [@1,4,6,7,8]
