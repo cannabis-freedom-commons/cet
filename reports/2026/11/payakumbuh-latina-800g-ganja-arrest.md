@@ -55,6 +55,11 @@ sources:
     publisher: TVRI Sumatera Barat
     date: 2026-11-18
     language: id
+  - title: Pengedar Narkoba di Kecamatan Latina Diringkus, 800 Gram Ganja dan 0,44 Gram Sabu Disita
+    url: https://posmetropadang.co.id/pengedar-narkoba-di-kecamatan-latina-diringkus-800-gram-ganja-dan-044-gram-sabu-disita-442550
+    publisher: Posmetro Padang
+    date: 2026-11-19
+    language: id
 media:
   - kind: photo
     url: https://padang.tribunnews.com/sumatera-barat/180755/kedapatan-simpan-ganja-dan-sabu-pemuda-di-payakumbuh-hanya-bisa-tertunduk-saat-ditangkap-polisi
@@ -69,25 +74,25 @@ media:
 ---
 
 Payakumbuh district police's drug squad arrested a man identified only as AH,
-27, at about 00:30 WIB on Wednesday 18 November 2026. [@1,2,3] Officers stopped him
+27, at about 00:30 WIB on Wednesday 18 November 2026. [@1,2,3,4] Officers stopped him
 in Kelurahan Parit Muko Aia, Kecamatan Latina, Payakumbuh, as he rode a
 motorcycle. [@1,2] The arrest followed surveillance of AH's activity, with
-officers stopping the vehicle he was using for a search. [@1] Payakumbuh police
+officers stopping the vehicle he was using for a search. [@1] AH had been a target of the operation for several weeks before his arrest. [@4] Payakumbuh police
 chief AKBP Irwan Andeta, through drug squad head AKP Gusmanto, confirmed the
 arrest. [@1]
 
 During the roadside search, witnessed by residents and passers-by, officers
-found one package of cannabis. [@1] AH said the packet of cannabis found by
+found one package of cannabis. [@1,4] AH said the packet of cannabis found by
 officers belonged to him. [@1] A follow-up search at AH's house in the same
 kelurahan found three more cannabis packets in different wrappings. [@1] At his house the three cannabis packets comprised one wrapped in yellow plastic, one in plastic marked Buckle Scarves and one tied with black plastic cord. [@2]
 Officers also found one packet of sabu, the local name for methamphetamine, at
 the house. [@1] Drug squad head AKP Gusmanto said the total cannabis seized had
-a gross weight of 800 grams, while the sabu weighed 0.44 grams gross. [@1,2,3]
+a gross weight of 800 grams, while the sabu weighed 0.44 grams gross. [@1,2,3,4]
 Police also took two digital scales, a knife, scissors and other items from the
 house. [@1] The sabu was wrapped in clear plastic and the scales taken included one digital scale and one marked Housen. [@2]
 
 AH was charged under Article 114(1) in conjunction with Article 111(1) of
 Indonesia's 2009 Narcotics Law and Article 609(1)a of the 2023 Criminal Code.
-[@1,2,3] Under the stated charge he faces a maximum sentence of 15 years in prison.
-[@1,3] AH and the seized evidence were secured at Payakumbuh district police
+[@1,2,3,4] Under the stated charge he faces a maximum sentence of 15 years in prison.
+[@1,3,4] AH and the seized evidence were secured at Payakumbuh district police
 headquarters while investigators continued examining the case. [@1]
