@@ -81,16 +81,21 @@ sources:
     publisher: جريدة الرياض
     date: 2026-11-19
     language: ar
+  - title: حرس الحدود يحبط تهريب (14) كيلوجرامًا من الحشيش و(4,000) قرص إمفيتامين في تبوك
+    url: https://www.sra7h.com/%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D9%8A%D8%AD%D8%A8%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-14-%D9%83%D9%8A%D9%84%D9%88%D8%AC%D8%B1%D8%A7%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%A7/
+    publisher: صحيفة صراحة الالكترونية
+    date: 2026-11-19
+    language: ar
 ---
 
 Saudi border guards' land patrols in the Haql sector of Tabuk region intercepted
-an attempt to smuggle 14 kilograms of hashish. [@1,4,5,6,7] Saudi border guards' land
+an attempt to smuggle 14 kilograms of hashish. [@1,4,5,6,7,8] Saudi border guards' land
 patrols in the Haql sector of Tabuk region intercepted an attempt to smuggle 14
-kilograms of hashish. [@3] The patrols also seized 4,000 amphetamine pills. [@1,5,6,7]
+kilograms of hashish. [@3] The patrols also seized 4,000 amphetamine pills. [@1,5,6,7,8]
 The patrols also seized 4,000 amphetamine pills. [@2] The Border Guards said
-initial legal procedures had been completed. [@1,5] The Border Guards said initial
+initial legal procedures had been completed. [@1,5,8] The Border Guards said initial
 legal procedures had been completed. [@2] The seizures were handed to the
-competent authority. [@1,5,7] The seizures were handed to the competent authority.
+competent authority. [@1,5,7,8] The seizures were handed to the competent authority.
 [@2]
 
 The Border Guards made the announcement in a statement posted on the X platform.
