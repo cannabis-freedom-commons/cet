@@ -2,19 +2,22 @@
 added_at_source: git
 added_at: "2026-11-01T05:27:25.000Z"
 code: MC7Z44
-date: 2026-11-12
+date: 2026-11-19
 country: ro
 place: Costinești, Constanța County
 coordinates: [43.951, 28.635]
 precision: locality
-type: prosecution
-also: [sentence]
-title: Wiz Khalifa heard by videoconference in Bucharest retrial of cannabis case
-summary: On 12 November 2026 the Bucharest Court of Appeal retried the DIICOT appeal in Wiz Khalifa's cannabis case, hearing the rapper by videoconference for 10 to 15 minutes. He admitted guilt, said he regretted the act, offered community service in Romania, and the court is expected to rule by the end of November.
+type: sentence
+also: [prosecution]
+title: Wiz Khalifa's 9-month prison term replaced by 9,600-lei fine on retrial
+summary: On 19 November 2026 the Bucharest Court of Appeal finally replaced Wiz Khalifa's nine-month prison sentence for cannabis possession with a 9,600-lei criminal fine. The retrial followed the annulment of the December 2025 Constanta sentence imposed after he smoked a cannabis cigarette on stage at the Beach Please festival in Costinesti.
 figures:
     charged: 1
     prison: 9 months
     kg_seized: 0.01853
+    fine:
+        amount: 9600
+        currency: RON
 created_by_model: cursor/composer-2.5
 details:
   activity: [trafficking, possession]
@@ -32,9 +35,10 @@ data_sources:
     details.products: [1, 2, 3, 14, 7, 16]
     details.sentence_types: [1, 2, 3, 14, 7, 16]
     details.setting: [1, 2, 3, 14, 7, 16]
-    figures.prison: [24]
+    figures.prison: [37]
     figures.charged: [25]
     figures.kg_seized: [24]
+    figures.fine: [37]
 status: verified
 tags: [costinesti, festival, appeal]
 sources:
@@ -211,6 +215,11 @@ sources:
     publisher: El Planteo
     date: 2026-11-17
     language: es
+  - title: Wiz Khalifa a scăpat definitiv de condamnarea la închisoare în România. Ce pedeapsă a primit în schimb rapperul american - HotNews.ro
+    url: https://hotnews.ro/wiz-khalifa-a-scapat-definitiv-de-condamnarea-la-inchisoare-in-romania-ce-pedeapsa-a-primit-in-schimb-rapperul-american-2408922
+    publisher: HotNews.ro
+    date: 2026-11-19
+    language: ro
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/c93wxp2p05xo
@@ -245,7 +254,7 @@ Judges said the public consumption at a youth festival normalised illegal drug u
 
 The charge was personal possession, not trafficking, under Law 143/2000. [@1,2]
 
-On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4,6,7,9] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5,6,7,9,10,11,12,14,15,16,17,18,19,20,21,22,23] The cancelled prison-execution warrant was No. 269 of 18 December 2025. [@22] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4,7,10,11,12,13,14,16,17,18,19,20,21,22,23,30,31,32] The retrial hearing went ahead on 12 November 2026, with Wiz Khalifa heard by videoconference from 16:00. [@24,27,28,32,33,34,35] The Bucharest Court of Appeal postponed the ruling for deliberation, pronouncement and drafting until 19 November 2026. [@28,35,36] State-advanced court costs remain on him. [@3,21]
+On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4,6,7,9] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5,6,7,9,10,11,12,14,15,16,17,18,19,20,21,22,23] The cancelled prison-execution warrant was No. 269 of 18 December 2025. [@22] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4,7,10,11,12,13,14,16,17,18,19,20,21,22,23,30,31,32] The retrial hearing went ahead on 12 November 2026, with Wiz Khalifa heard by videoconference from 16:00. [@24,27,28,32,33,34,35] The Bucharest Court of Appeal postponed the ruling for deliberation, pronouncement and drafting until 19 November 2026. [@28,35,36] On 19 November 2026, on retrial of the appeal, the Bucharest Court of Appeal ordered Wiz Khalifa to pay a 9,600-lei criminal fine, with the decision final, definitively replacing the prison sentence. [@37] State-advanced court costs remain on him. [@3,21]
 
 On 3 November the Bucharest Court of Appeal admitted Khalifa's contestation in annulment and set aside the Constanța Court of Appeal's penal decision of 18 December 2025. [@6,8,9,10,12,13,14,15,16,17,18,19,20,30,31,35,36] At Khalifa's request, the High Court of Cassation and Justice transferred the annulment file from the Constanța Court of Appeal to the Bucharest Court of Appeal for judgment. [@6,8,12,13,14,15,23,30,31]
 
