@@ -40,13 +40,11 @@ sources:
     publisher: تليجراف مصر
     date: 2026-11-19
     language: ar
-open_questions:
-    - No weight was published for the large piece of hashish, so no cannabis quantity is recorded.
-    - The visit search also found 52 tramadol pills and four mobile phones, which are not counted in the cannabis figures.
-    - No separate date was given for the prison visit; 19 November 2026 is the publication date and is used as the incident date.
-    - The wife was identified only by the initials M. S., with no age or other personal details reported.
-    - No court outcome was reported; the prosecution had taken over the investigation.
-    - The available accounts reproduce the same police findings, so there is no independent corroboration.
+  - title: أخفته داخل حقيبة طعام.. ضبط زوجة «إسلام كابونجا» أثناء محاولتها تهريب حشيش له داخل الحجز | المصري اليوم
+    url: https://www.almasryalyoum.com/news/details/4415047
+    publisher: المصري اليوم
+    date: 2026-11-19
+    language: ar
 ---
 
 Detectives at the October Correction Centre in Giza arrested M. S., the wife of
@@ -55,7 +53,7 @@ mahraganat singer Islam Kabonga, while she was visiting her detained husband.
 Maj. Gen. Hatem Hassan received a notification of the incident from Maj. Gen.
 Hany Shaarawy, deputy director of criminal investigations. [@1,2] She had brought
 visit goods for her husband, and officers searched those goods during the visit.
-[@1]
+[@1,5] The suspected drugs were hidden professionally inside a bag to evade monitoring. [@5]
 
 The search found four Nokia mobile phones, one large piece of hashish and 52
 tramadol pills. [@1,2,3,4] The seized phones were Nokia handsets, the hashish was
@@ -64,4 +62,4 @@ brought to her husband. [@1] When confronted, she admitted that she possessed
 the seized items in order to bring them in to her husband. [@1,2,4]
 
 Police filed a report on the incident after the arrest at the correction centre.
-[@1,3] The prosecution took over the investigation of the case. [@1,2,4] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3]
+[@1,3,5] The prosecution took over the investigation of the case. [@1,2,4] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5]
