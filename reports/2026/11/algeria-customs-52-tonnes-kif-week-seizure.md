@@ -57,31 +57,30 @@ sources:
     publisher: L'express DZ
     date: 2026-11-18
     language: fr
-open_questions:
-    - The bilan gives only national totals and does not say where in Algeria the seizures took place or how many separate operations were involved.
-    - No arrests, charges or court outcomes were reported in connection with the week's seizures.
-    - The 1,104,236 psychotropic tablets are a separate substance category and are not counted as cannabis.
-    - The kif traité weight is given as 5.2 kilograms in the customs communiqué, while one outlet headline reported 5.2 tonnes; the exact quantity seized is unresolved.
-    - No street value was published for the kif traité seized during the week.
+  - title: 'Douanes: saisie de plus d''un million de comprimés psychotropes en une semaine'
+    url: https://news.radioalgerie.dz/fr/node/99326
+    publisher: Radio Algérienne
+    date: 2026-11-18
+    language: fr
 ---
 
 Algeria's Directorate General of Customs published a bilan of its
 anti-drug-trafficking and psychotropic-substance activities covering the week
-from 8 to 14 November 2026. [@1,2,4,5] According to the overall bilan, the operations
+from 8 to 14 November 2026. [@1,2,4,5,6] According to the overall bilan, the operations
 carried out during that period led to the seizure of 5.2 tonnes of kif traité
-and 1,104,236 psychotropic tablets. [@1] The customs statement gave the weight of kif traité seized that week as 5.2 kilograms, and the psychotropic tablets as 1,104,236. [@3,4,5]
+and 1,104,236 psychotropic tablets. [@1] The customs statement gave the weight of kif traité seized that week as 5.2 kilograms, and the psychotropic tablets as 1,104,236. [@3,4,5,6]
 
 Customs said the results came from the continuous efforts of its brigades, both
 in their own operational interventions and in operations coordinated with the
-various security services. [@1,2,4,5] The Directorate said the results reflected the
+various security services. [@1,2,4,5,6] The Directorate said the results reflected the
 scale of field efforts by customs, the operational vigilance of its brigades and
 the importance of coordinating with security partners against illicit drug and
 psychotropic trafficking networks. [@1,2,4]
 
 Through the bilan, customs said it would continue mobilising its human and
 operational resources and strengthen coordination with its security partners.
-[@1,2,4] It said this was intended to help protect public health, fight organised
-crime and contribute to preserving the security of society. [@1,2]
+[@1,2,4,6] It said this was intended to help protect public health, fight organised
+crime and contribute to preserving the security of society. [@1,2,6]
 
 The bilan was presented as part of customs' mission to protect public health and
 combat the illicit trade in drugs and psychotropic substances. [@1,3]
