@@ -54,31 +54,36 @@ sources:
     publisher: Casteddu Online
     date: 2026-11-19
     language: it
+  - title: 卡波特拉：屋内查获超过一公斤可卡因，一名男子被捕。 | L'Unione Sarda
+    url: https://www.unionesarda.it/zh/%E6%92%92%E4%B8%81%E5%B2%9B/%E5%8D%A1%E6%B3%A2%E7%89%B9%E6%8B%89%E8%AD%A6%E6%96%B9%E5%9C%A8%E4%B8%80%E6%89%80%E6%88%BF%E5%AD%90%E9%87%8C%E5%8F%91%E7%8E%B0%E4%BA%86%E4%B8%80%E5%85%AC%E6%96%A4%E5%A4%9A%E5%8F%AF%E5%8D%A1%E5%9B%A0%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95-o2gd4cul
+    publisher: L'Unione Sarda
+    date: 2026-11-19
+    language: zh
 open_questions:
   - No separate date for the traffic check or searches was given; 19 November 2026 is the publication date and stands in for the incident date.
   - The man's identity, age and nationality were not reported.
   - The drugs were described as marijuana, hashish and cocaine with no laboratory confirmation reported.
   - The 1,160 grams of cocaine found at home and 4 grams found in doses are excluded from the cannabis figures; only the 86 grams of marijuana and 11 grams of hashish are counted.
   - Both accounts appear to reproduce the same Carabinieri account and are not independent reporting.
+  - The 11 grams in the package hidden in the clothing is described as marijuana in one account and as hashish in others.
 ---
 
 Carabinieri from the Capoterra station arrested a man on charges of possession
-of narcotics for the purpose of trafficking and resisting arrest. [@1] The
+of narcotics for the purpose of trafficking and resisting arrest. [@1,3] The
 operation began during a road-traffic control when the driver's suspicious
 behaviour led officers to carry out a personal search and then a home search.
-[@1] During the initial identification the man allegedly resisted, pushing
+[@1,3] During the initial identification the man allegedly resisted, pushing
 officers away while trying to discard a package hidden among his clothes. [@1]
 After completing the formal procedures, the man was taken to the Uta prison,
 where he remains at the disposal of the judicial authorities pending the
-validation hearing. [@1]
+validation hearing. [@1,3]
 
 Inside the residence officers found approximately 86 grams of marijuana and
 1,160 grams of cocaine, along with materials used to weigh and package
-narcotics. [@1] The package hidden in his clothes contained 11 grams of hashish
+narcotics. [@1,3] The package hidden in his clothes contained 11 grams of hashish
 and 4 grams of cocaine, already divided into 22 doses ready for sale. [@1]
 Officers seized all the drugs and completed the security operations. [@1]
 
 Carabinieri of the Capoterra station conducted the operation during targeted
 territorial control services aimed at preventing and repressing offences,
 arresting the man in flagrante. [@2]
-
