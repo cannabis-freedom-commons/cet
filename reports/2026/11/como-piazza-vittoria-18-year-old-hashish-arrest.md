@@ -68,28 +68,27 @@ sources:
     publisher: CiaoComo
     date: 2026-11-19
     language: it
-open_questions:
-  - The second amount is given only as about 100 grams, so the 203-gram total is approximate and the report uses the two stated amounts.
-  - The outcome of the fast-track trial scheduled for the morning of 19 November 2026 was not reported.
-  - No forensic-laboratory result beyond the police identification of the substance as hashish was reported.
-  - The local accounts all reproduce the same Questura statement, so they are not independent reports of the arrest.
+  - title: 'Como, 18enne fermato in un bar con hashish e 605 euro: arrestato dalla Polizia'
+    url: https://comocity.it/como-18enne-fermato-in-un-bar-con-hashish-e-605-euro-arrestato-dalla-polizia/
+    publisher: Como City
+    date: 2026-11-19
+    language: it
 ---
 
 An 18-year-old Italian resident of Como was arrested on the evening of 18
 November 2026 by State Police on suspicion of production, trafficking, sale and
 possession of drugs. [@1] He was already known to officers and was under a
 probation measure ordered by the Juvenile Court of Milan, and had a record
-including joint aggravated robbery. [@1] After the checks he was placed at the
+including joint aggravated robbery. [@1,5] After the checks he was placed at the
 disposal of the judicial authority to await a fast-track trial on the morning of
-19 November 2026. [@2]
+19 November 2026. [@2,5]
 
 Around 22:00 a patrol passing through Piazza Vittoria noticed the youth inside a
-bar and stopped him for identification and a check. [@4] The personal search
+bar and stopped him for identification and a check. [@4,5] The personal search
 found 103 grams of hashish, two smartphones and 605 euros in cash in mixed
-denominations. [@4] A further search at his home found about 100 grams more
-hashish and a precision scale for dividing doses. [@1]
+denominations. [@4,5] A further search at his home found about 100 grams more
+hashish and a precision scale for dividing doses. [@1,5]
 
 Officers took him to the questura for further checks including examinations by
-the forensic police. [@3] The stop was made during routine territorial control
+the forensic police. [@3,5] The stop was made during routine territorial control
 work aimed at prevention and public safety. [@2]
-
