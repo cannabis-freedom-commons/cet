@@ -65,6 +65,11 @@ sources:
     publisher: Diario del Sur
     date: 2026-11-19
     language: es
+  - title: Este fue el cargamento de droga incautada en El Tambo
+    url: http://diariodelcauca.com.co/noticias/este-fue-el-cargamento-de-droga-incautada-en-el-tambo
+    publisher: Diario del Cauca
+    date: 2026-11-19
+    language: es
 open_questions:
   - No separate date for the operation was given; 18 November 2026 is the publication date of the report and is used as the incident date.
   - The weight is given as more than 310 kilograms rather than an exact measured figure.
@@ -74,22 +79,22 @@ open_questions:
 ---
 
 Police in El Tambo, Nariño, carried out registration, control and verification
-checks on the main road linking El Tambo and Sandoná. [@1,3] They inspected a
+checks on the main road linking El Tambo and Sandoná. [@1,3,4] They inspected a
 private vehicle, found a marijuana cargo inside and arrested a man caught in the
-act, seizing the vehicle used to carry it. [@1,3] The Nariño police said one man
+act, seizing the vehicle used to carry it. [@1,3,4] The Nariño police said one man
 was captured in the act and the vehicle transporting the load was immobilised.
 [@2]
 
 The load amounted to more than 310 kilograms of marijuana and was believed to be
-headed for Ecuador. [@1,3] The operation was carried out by officers of El Tambo's
+headed for Ecuador. [@1,3,4] The operation was carried out by officers of El Tambo's
 community- and territory-oriented police service, supported by the criminal
-investigation section of the Nariño police department. [@1]
+investigation section of the Nariño police department. [@1,4]
 
 Preliminary information linked the shipment to the residual armed group known as
 the Franco Benavides structure (GAO-r) and to an Ecuadorian destination, which
-authorities said remained under investigation. [@1,3] The detainee was placed at
+authorities said remained under investigation. [@1,3,4] The detainee was placed at
 the disposal of the competent authority on suspicion of trafficking,
-manufacturing or carrying narcotics while judicial proceedings continued. [@1,3]
+manufacturing or carrying narcotics while judicial proceedings continued. [@1,3,4]
 Police said the seizure affected the logistics and illicit finances of criminal
 groups using Nariño's road corridors to move drugs to international markets.
-[@1]
+[@1,4]
