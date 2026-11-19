@@ -77,6 +77,11 @@ sources:
     publisher: IONNEWS
     date: 2026-11-18
     language: fr
+  - title: 'Saisie de 3,1 kg de cannabis : L’axe Royaume-Uni/Maurice : possible lien avec le réseau thaïlandais'
+    url: https://lexpress.mu/s/laxe-royaume-unimaurice-possible-lien-avec-le-reseau-thailandais-564895
+    publisher: L'Express
+    date: 2026-11-19
+    language: fr
 open_questions:
     - 'Accounts differ on when the parcel was intercepted: Le Mauricien dates it to 11 November, while L''Express dates it to 13 November, when a parcel that had arrived the previous day was opened.'
     - L'Express puts the cannabis at 3.1 kg and Rs 6 million, while Le Mauricien and the earlier Defimedia report give Rs 5 million and three kilograms.
@@ -86,6 +91,8 @@ open_questions:
     - Neither account explains how the estimated street value was calculated.
     - Whether the sender or any accomplices in England have been identified was not reported.
     - Le Mauricien gives no weight for the cannabis seized, only its estimated value.
+    - L'Express's 19 November account says the two men appeared before the Port-Louis court 'yesterday', 18 November, while its earlier report and Le Mauricien date the appearance and the police objection to bail to 17 November.
+    - Investigators have not said whether they have established any link between the parcel and the Thailand or Dreamer networks.
 ---
 
 Two men were arrested in Mauritius after a postal parcel containing three
@@ -100,8 +107,8 @@ second suspect was also arrested in the course of the same investigation. [@1,2]
 The seizure was carried out by the Customs Anti-Narcotics Section (CANS) of the
 Mauritius Revenue Authority (MRA), the authority's customs drug-enforcement arm,
 which put an estimated value of Rs 5 million on the cannabis. [@1] The parcel
-had come from England. [@1,4] The drug was concealed in five cardboard boxes
-declared as containing spices. [@1] Both men's phones, including an iPhone 18 Pro Max and a SIM card with an international number seized from Noorah, were to be analysed. [@2] Police searched both suspects' homes and found nothing incriminating. [@2] The parcel, declared to contain spices, carried a fictitious addressee name, but the address was Noorah's home in Phoenix. [@2]
+had come from England. [@1,4] The Anti-Drug and Smuggling Unit is to establish whether the parcel has links to networks suspected of operating between Thailand, Mauritius and Britain, with the Dreamer yacht case offered as a line of comparison. [@5] The interception was a joint operation by the Anti-Drug and Smuggling Unit, the Customs Anti-Narcotics Section and a representative of the courier FedEx. [@5] The drug was concealed in five cardboard boxes
+declared as containing spices. [@1] Investigators are to examine possible connections with people suspected of organising drug shipments between England and Mauritius. [@5] Both men's phones, including an iPhone 18 Pro Max and a SIM card with an international number seized from Noorah, were to be analysed. [@2] Investigators are to check Noorah's phone for communications with a detained suspected trafficker accused of directing some operations from his cell. [@5] Police searched both suspects' homes and found nothing incriminating. [@2] The parcel, declared to contain spices, carried a fictitious addressee name, but the address was Noorah's home in Phoenix. [@2]
 
 Both men were due to be brought before the Port-Louis court on Tuesday on a
-provisional charge of importing drugs. [@1] Both face a provisional charge of importing cannabis with a trafficking averment. [@3,4] The two men were brought before the Port-Louis court on 17 November, where police objected to their release on bail. [@3,4]
+provisional charge of importing drugs. [@1] Both face a provisional charge of importing cannabis with a trafficking averment. [@3,4] The two men were brought before the Port-Louis court on 17 November, where police objected to their release on bail. [@3,4,5]
