@@ -44,6 +44,11 @@ media:
     media_url: https://www.cypruspolicenews.com/wp-content/uploads/2026/11/%CE%A5%CE%9A%CE%91%CE%9D2-1024x1024.jpg
     publisher: Cyprus Police News
     caption: 'One of three pictures published with the Cyprus Police announcement of the Paphos parcel case, in which police say 1,979 grams of cannabis were found. Photo: Cyprus Police'
+  - kind: photo
+    url: https://kanali6.com.cy/schedon-dyo-kila-kannavis-se-paketo-dyo-syllipseis-stin-pafo/
+    media_url: https://kanali6.com.cy/wp-content/uploads/2026/11/%CE%A5%CE%9A%CE%91%CE%9D1-1-800x780-1.jpg
+    publisher: Kanali 6
+    caption: 'Lead photo of the Cyprus Police announcement of the Paphos parcel case, in which 1,979 grams of cannabis were found in a parcel collected from a delivery-company locker, published with the Kanali 6 account. Photo: Cyprus Police'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: f614ad2179594e08e2c467c10bd0bd0a
@@ -64,22 +69,29 @@ sources:
     publisher: Politis
     date: 2026-11-19
     language: el
+  - title: Σχεδόν δύο κιλά κάνναβης σε πακέτο – Δύο συλλήψεις στην Πάφο
+    url: https://kanali6.com.cy/schedon-dyo-kila-kannavis-se-paketo-dyo-syllipseis-stin-pafo/
+    publisher: Kanali 6
+    date: 2026-11-19
+    language: el
+open_questions:
+    - The police figure of 1,979 grams is a gross weight that includes the parcel's packaging; no net weight of the cannabis was published.
+    - The Kanali 6 account gives the shop products only as containing THC and CBD, without the police statement's split into eight CBD products and two containing THC.
 ---
 
 Police arrested a 32-year-old man and a 30-year-old woman in Paphos in an
-investigation into drugs imported into Cyprus. [@3] A parcel containing cannabis
-with a total gross weight of 1,979 grams was intercepted in Paphos. [@1] On 18
+investigation into drugs imported into Cyprus. [@3,4] A parcel containing cannabis
+with a total gross weight of 1,979 grams was intercepted in Paphos. [@1,4] On 18
 November 2026 the 32-year-old collected the parcel from a parcel-delivery
-company's locker in Paphos and was arrested for a flagrant offence. [@2]
+company's locker in Paphos and was arrested for a flagrant offence. [@2,4]
 Officers seized two mobile phones from him for further examination. [@1]
 
 An invoice inside the parcel was made out in the name of the 30-year-old woman,
-and the two jointly run a shop in Paphos. [@1] Police obtained arrest warrants
+and the two jointly run a shop in Paphos. [@1,4] Police obtained arrest warrants
 against both and a warrant to search the shop. [@1] In the shop officers seized
 as evidence eight products said to contain CBD, two products containing THC and
-15 electronic vaporizers suspected of being untaxed goods. [@1]
+15 electronic vaporizers suspected of being untaxed goods. [@1,4]
 
 Both were arrested under the arrest warrants and held in custody to facilitate
-the investigations. [@1] The Paphos branch of the anti-drug service YKAN is
+the investigations. [@1,4] The Paphos branch of the anti-drug service YKAN is
 investigating the case. [@1]
-
