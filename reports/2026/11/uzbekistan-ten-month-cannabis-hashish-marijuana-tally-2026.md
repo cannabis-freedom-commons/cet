@@ -59,6 +59,11 @@ sources:
     url: https://tafs.uz/en/2026/11/18/over-3-tonnes-of-prohibited-substances-seized-in-uzbekistan-in-10-months
     publisher: tafs uz
     date: 2026-11-18
+  - title: В Узбекистане за десять месяцев обнаружили 22 подпольные нарколаборатории
+    url: https://anhor.uz/ru/news/uzbekistan-narkolaboratorii-22
+    publisher: Anhor.uz
+    date: 2026-11-18
+    language: ru
 open_questions:
   - The tally covers January-October 2026 and was announced at a briefing around 17-18 November 2026; no single operation date is given.
   - The 3,116 kg total covers narcotic, psychotropic and potent substances of every kind, so only the separately stated hashish and marijuana weights are counted as cannabis.
@@ -72,23 +77,22 @@ open_questions:
 
 Uzbekistan's Agency for the Control of Narcotics and Firearms reported that law
 enforcement bodies detected 14,268 drug crimes and 1,585 administrative offences
-in the first 10 months of 2026. [@4] Sarvinoz Akhmedova, who heads the agency's
+in the first 10 months of 2026. [@4,5] Sarvinoz Akhmedova, who heads the agency's
 information service, gave the results at a briefing. [@3] Authorities held 9,519
 people liable for drug crimes over the period, including 3,151 young people, 713
-women and 106 minors. [@1] Another 151 foreign nationals were held liable and
+women and 106 minors. [@1,5] Another 151 foreign nationals were held liable and
 116.6 kg of narcotic substances was seized from them. [@1]
 
 Officers seized 3 tonnes 116 kg of narcotic, psychotropic and potent substances
-in the 10 months. [@4] Of the haul 1,532 kg was hashish and 545.9 kg marijuana,
+in the 10 months. [@4,5] Of the haul 1,532 kg was hashish and 545.9 kg marijuana,
 the only cannabis products the agency listed; the rest was 445.3 kg of opium,
 345.8 kg of potent substances, 93.8 kg of synthetic drugs and 153 kg of other
-substances, none of it counted as cannabis. [@1] The agency said selling drugs,
+substances, none of it counted as cannabis. [@1,5] The agency said selling drugs,
 keeping drugs for personal use, cultivation of prohibited plants, trade in
 potent substances and smuggling made up most of the recorded crimes. [@1]
 
 Officers found 22 underground drug laboratories across the country and took 62
 kg of narcotic and potent substances and 1 tonne 242 kg of precursors from them.
-[@1] Fifty-three people were detained in the cases of those laboratories. [@2]
+[@1,5] Fifty-three people were detained in the cases of those laboratories. [@2,5]
 Authorities blocked 20 online drug shops and 2,068 Telegram bots, channels,
-groups and chats with a combined audience of about 665,000 subscribers. [@1]
-
+groups and chats with a combined audience of about 665,000 subscribers. [@1,5]
