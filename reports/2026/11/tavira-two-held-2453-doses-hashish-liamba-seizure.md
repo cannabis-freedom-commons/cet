@@ -55,30 +55,28 @@ sources:
     publisher: Postal
     date: 2026-11-18
     language: pt
-open_questions:
-  - No weight in grams was published for the hashish and liamba doses, so no cannabis weight is recorded.
-  - The 29 ecstasy and 11 cocaine doses are not cannabis and are excluded from the cannabis figures.
-  - More than 200 euros in cash was reported without an exact amount, so no cash figure is recorded.
-  - The substances gave positive preliminary tests, but no laboratory confirmation was reported.
-  - Only the suspects' ages were released, and their respective roles were not distinguished.
-  - No further court outcome beyond daily police reporting was reported.
+  - title: PSP apreende mais de 2.450 doses de droga e detém dois homens em Tavira
+    url: https://sapo.pt/artigo/psp-apreende-mais-de-2-450-doses-de-droga-e-detem-dois-homens-em-tavira-6afede345fe32317ae401b0d
+    publisher: SAPO / Diário do Distrito
+    date: 2026-11-19
+    language: pt
 ---
 
 PSP officers from the Tavira Criminal Investigation Brigade detained two
-suspects aged 23 and 67 in Tavira on 16 November 2026. [@1,4] During a
+suspects aged 23 and 67 in Tavira on 16 November 2026. [@1,4,5] During a
 road-traffic check officers ordered a car to stop, and one occupant's
 nervousness and the characteristic smell of narcotics prompted a security
-search. [@1,4] Officers took both occupants to police premises, where preliminary
+search. [@1,4,5] Officers took both occupants to police premises, where preliminary
 tests on the substances tested positive for narcotics and both detentions were
 formalised. [@1,4] The two detainees were later brought before a court, which
-imposed daily reporting at the police station of their residential area. [@1,4] The court appearance was on Wednesday 18 November 2026. [@4]
+imposed daily reporting at the police station of their residential area. [@1,4,5] The court appearance was on Wednesday 18 November 2026. [@4]
 
 In the passenger's jacket officers found ecstasy, cocaine, liamba and hashish
-doses together with a precision scale. [@2,4] At the passenger's feet officers
+doses together with a precision scale. [@2,4,5] At the passenger's feet officers
 found a tape-wrapped bundle containing a significant quantity of hashish divided
-into several packages. [@1,4] A later house search seized more hashish and liamba
+into several packages. [@1,4,5] A later house search seized more hashish and liamba
 along with seven empty tape-wrapped packages identical to those found in the
 car. [@3,4] In total police reported 2,453 drug doses seized, comprising 2,376 of
-hashish, 37 of liamba, 29 of ecstasy and 11 of cocaine. [@3,4] Officers also
+hashish, 37 of liamba, 29 of ecstasy and 11 of cocaine. [@3,4,5] Officers also
 seized more than 200 euros in cash, a precision scale and material linked to
-packaging and sale of narcotics. [@2,4]
+packaging and sale of narcotics. [@2,4,5]
