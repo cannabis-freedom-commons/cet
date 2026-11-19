@@ -52,6 +52,10 @@ sources:
     url: https://www.malaymail.com/news/malaysia/2026/03/11/selangor-police-smash-two-drug-rings-seize-over-200kg-of-meth-and-ganja-worth-rm146m/212203
     publisher: Malay Mail
     date: 2026-03-11
+  - title: International drug trafficking syndicate smashed with the arrest of four, RM9.35mil worth of cannabis seized | The Star
+    url: https://www.thestar.com.my/news/nation/2026/03/11/international-drug-trafficking-syndicate-smashed-with-the-arrest-of-four-rm935mil-worth-of-cannabis-seized
+    publisher: The Star
+    date: 2026-03-11
 media:
   - kind: photo
     url: https://www.malaymail.com/news/malaysia/2026/03/11/selangor-police-smash-two-drug-rings-seize-over-200kg-of-meth-and-ganja-worth-rm146m/212203
@@ -66,17 +70,17 @@ media:
 ---
 
 Between 3 and 5 March 2026, Selangor narcotics officers arrested four foreign nationals and seized
-116.3 kg of cannabis buds in three linked raids. [@1,2] The first stop was at Kuala Lumpur
-International Airport on 3 March, where a man was held with 27.2 kg in a suitcase. [@1,2]
+116.3 kg of cannabis buds in three linked raids. [@1,2,3] The first stop was at Kuala Lumpur
+International Airport on 3 March, where a man was held with 27.2 kg in a suitcase. [@1,2,3]
 
 The next day police detained another man at Kota Warisan, Sepang, with 14.3 kg, and on 5 March
-arrested two more people at a Mont Kiara condominium with 74.8 kg in five suitcases. [@1,2]
+arrested two more people at a Mont Kiara condominium with 74.8 kg in five suitcases. [@1,2,3]
 Selangor police chief Datuk Shazeli Kahar said the buds were believed to come from a neighbouring
 country for transit to foreign markets, with a total value of RM9.35 million. [@1,2]
 
-All four entered Malaysia on social visit passes between late December 2025 and mid-February 2026. [@1]
+All four entered Malaysia on social visit passes between late December 2025 and mid-February 2026. [@1,3]
 They were remanded under Section 39B of the Dangerous Drugs Act 1952, which carries a mandatory death
 penalty or life imprisonment for trafficking. [@1] Officers also seized cars, watches and
-cryptocurrency holdings. [@1]
+cryptocurrency holdings. [@1,3]
 
 ---
