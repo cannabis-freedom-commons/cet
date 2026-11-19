@@ -56,15 +56,31 @@ sources:
     publisher: Samay 365
     date: 2026-11-19
     language: bn
+  - title: 'Sealdah Crime: শিয়ালদহে বিপুল গাঁজাসহ ধৃত ৪, নেপথ্যে বড় কোনো চক্র? পড়ুন বিস্তারিত | আরও আনন্দ - Aaro Ananda'
+    url: https://www.aaroananda.com/story/news/in-focus/four-arrested-with-forty-kg-ganja-near-sealdah-station/11029073
+    publisher: Aaro Ananda
+    date: 2026-11-19
+    language: bn
+  - title: Major Crackdown on Drug Trafficking | 41.182 kg of Ganja Seized, Four Arrested
+    url: https://x.com/KolkataPolice/status/2123308588869579131
+    publisher: Kolkata Police
+    date: 2026-11-19
 open_questions:
   - No charge, NDPS section, detention measure or court outcome was reported.
   - TheWall rounds the seizure to over 40 kg and the value to over 2,000,000 rupees; this report uses the precise 41.182 kg and 2,059,000 rupees given by Samay 365.
   - The Bhubaneswar origin and plan to supply Kolkata dealers rest on preliminary questioning and the police assessment; the route and intended recipients were still under investigation.
   - Whether laboratory confirmation of the suspected ganja was obtained was not reported.
+  - Accounts differ on whether the seized ganja weighed 40 kg or 41.182 kg, with values given as about Rs 20 lakh or Rs 2,059,000.
+media:
+  - kind: photo
+    url: https://www.aaroananda.com/story/news/in-focus/four-arrested-with-forty-kg-ganja-near-sealdah-station/11029073
+    media_url: https://www.aaroananda.com/cdn-cgi/image/width=1280,height=720,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/76653/1795080054615.jpg
+    publisher: Aaro Ananda
+    caption: Seized ganja presented as the haul recovered near Sealdah station.
 ---
 
 Kolkata Police arrested four people at Sealdah station on suspicion of cannabis
-smuggling. [@1] Two of the four people arrested were women. [@1] Police named
+smuggling. [@1,3] Two of the four people arrested were women. [@1,3] Police named
 the four as Rani Sardar (34), Baishakhi Biswas (32), Bishnupada Roy (52) and
 Narayan Banik (45). [@1] Rani is from South 24 Parganas, Baishakhi is from North
 24 Parganas, and Bishnupada and Narayan are both from Nadia district. [@1]
@@ -72,13 +88,12 @@ Narayan Banik (45). [@1] Rani is from South 24 Parganas, Baishakhi is from North
 Acting on a tip-off, officers of the Detective Department's Narcotic Cell
 carried out the operation in two phases on 18 November near Sealdah railway
 station and Smart Bazaar. [@2] Officers recovered 41.182 kg of suspected ganja
-packed in four trolley bags. [@2] Police put the estimated market value of the
+packed in four trolley bags. [@2,4] Police put the estimated market value of the
 drugs at 2,059,000 rupees. [@2] Officers also seized four mobile phones and
-1,264 rupees in cash. [@2]
+1,264 rupees in cash. [@2,4]
 
 Those questioned said the consignment had been brought from Bhubaneswar to be
 supplied to dealers across Kolkata. [@2] Police said the ganja had been brought
 for illegal sale in Kolkata. [@1] Investigators are examining whether a larger
 trafficking network is behind the consignment and whether others are involved.
 [@1]
-
