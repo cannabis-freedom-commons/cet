@@ -58,6 +58,11 @@ sources:
     publisher: Infobae
     date: 2026-11-17
     language: es
+  - title: La Policía Nacional detiene a tres personas que colaban droga y móviles en la prisión de 'La Torrecica' de Albacete
+    url: https://www.eldebate.com/espana/castilla-la-mancha/20261118/policia-nacional-detiene-tres-personas-colaban-droga-moviles-prision-torrecica-albacete_482527.html
+    publisher: El Debate
+    date: 2026-11-18
+    language: es
 open_questions:
     - No date is given for the arrests or for the interception of the delivery; 17 November 2026, the date of the police statement and of publication, stands in for the incident date.
     - The hashish and cocaine are described as substances seized in the operation; no laboratory confirmation or valuation was published.
@@ -69,16 +74,16 @@ open_questions:
 ---
 
 Spain's National Police arrested three men accused of bringing drugs and mobile
-phones into the La Torrecica prison in Albacete. [@1,4] One of them was a worker
+phones into the La Torrecica prison in Albacete. [@1,4,5] One of them was a worker
 at a company that provides services in the prison, who police say used his job
-to carry in the drugs and phones in exchange for payment. [@2,4] The investigation began in September 2026, when police received information about the prison worker. [@4] A second was an
+to carry in the drugs and phones in exchange for payment. [@2,4,5] The investigation began in September 2026, when police received information about the prison worker. [@4] A second was an
 inmate serving a sentence for offences against public health, who police say
 handed out the material inside the prison on request. [@2,4] The handovers took place when the worker and the inmate met inside one of the prison's spaces. [@4] The third was a man
 from a family clan known to police from several drug-trafficking investigations,
 described as the supplier. [@3,4]
 
 Officers seized 65 grams of hashish, one gram of cocaine and two mobile phones
-that were to be distributed among inmates. [@1,4] Police said the operation cut an
+that were to be distributed among inmates. [@1,4,5] Police said the operation cut an
 important entry route for drugs into the Albacete prison. [@1]
 
 Police worked with the prison's security area and, with the Grupo de
