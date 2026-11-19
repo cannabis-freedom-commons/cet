@@ -35,20 +35,25 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-19
     language: ar
+  - title: فحص 911 سائقا خلال حملات مرورية وضبط 37 حالة تعاطي للمواد المخدرة
+    url: https://gate.ahram.org.eg/News/5987803.aspx
+    publisher: بوابة الأهرام
+    date: 2026-11-19
+    language: ar
 open_questions:
-  - The account names no substance in the 37 nationwide or the five Regional Ring Road positive tests, so it is not established that any of them involved cannabis.
-  - No separate date for the campaign round is given; 19 November 2026 is the publication date and is used as the incident date.
-  - No driver names, governorate breakdown, charges or prosecution decisions were reported for the drivers who tested positive.
-  - The headline counts 42 drug-use cases, the sum of the 37 nationwide and five Regional Ring Road positives, while the body reports the two figures separately.
-  - The account is one outlet's report of the Interior Ministry figures; the ministry's own statement could not be opened, and no second outlet for this round was found.
+    - The accounts name no substance in the 37 nationwide or the five Regional Ring Road positive tests, so it is not established that any of them involved cannabis.
+    - No separate date for the campaign round is given; 19 November 2026 is the publication date and is used as the incident date.
+    - No driver names, governorate breakdown, charges or prosecution decisions were reported for the drivers who tested positive.
+    - The Youm7 headline counts 42 drug-use cases, the sum of the 37 nationwide and five Regional Ring Road positives, while the body reports the two figures separately.
+    - The accounts are two outlets' reports of the same Interior Ministry figures; the ministry's own statement could not be opened.
 ---
 
 Egypt's Interior Ministry continued traffic campaigns on all roads and main axes
-across the country. [@1] The campaigns recorded 103,526 varied traffic
+across the country. [@1,2] The campaigns recorded 103,526 varied traffic
 violations in 24 hours. [@1] The main offences were driving without licences,
 exceeding the prescribed speed, random parking, using a mobile phone while
 driving and breaching licence conditions. [@1] Officers tested 911 drivers, of
-whom 37 were positive for drug use. [@1]
+whom 37 were positive for drug use. [@1,2]
 
 A parallel traffic and discipline campaign in work zones along the Regional Ring
 Road recorded 481 varied traffic violations in 24 hours. [@1] Those violations
@@ -60,4 +65,3 @@ Police also detained seven wanted people with a total of 11 court rulings. [@1]
 The ministry said the necessary legal measures were taken over the recorded
 violations and cases. [@1] The Youm7 headline gives the combined total for the
 round as 42 drivers positive for drug use in 24 hours. [@1]
-
