@@ -50,23 +50,28 @@ sources:
     url: https://local21news.com/news/local/400lbs-of-marijuana-discovered-on-box-truck-in-lebanon-county-psp
     publisher: CBS 21 (WHP)
     date: 2025-02-16
+  - title: Approximately 400 pounds of marijuana found in Lebanon County; three arrested
+    url: https://www.fox43.com/article/news/local/lebanon-county/three-arrested-400-pounds-marijuana-found-lebanon-county/521-66bc2af0-37b3-4e36-9e8e-7092b539eb6f
+    publisher: FOX43
+    date: 2025-02-17
+    archived: https://web.archive.org/web/20250217145456id_/https://www.fox43.com/article/news/local/lebanon-county/three-arrested-400-pounds-marijuana-found-lebanon-county/521-66bc2af0-37b3-4e36-9e8e-7092b539eb6f
 open_questions:
-  - The 12 February 2025 inspection date comes from the CBS 21 (WHP) account; the submitted Daily Voice page only says authorities announced the case on Saturday, 15 February.
-  - The weight is the state police estimate of about 400 pounds; no exact measured weight was published.
-  - No street value was reported for the marijuana.
-  - The accounts give no court outcome; preliminary hearings were pending when they were published.
+    - The 12 February 2025 inspection date is reported by both CBS 21 (WHP) and Fox43; the Daily Voice page only says authorities announced the case on Saturday, 15 February.
+    - The weight is the state police estimate of about 400 pounds; no exact measured weight was published.
+    - No street value was reported for the marijuana.
+    - The accounts give no court outcome; preliminary hearings were pending when they were published.
+    - Fox43 gives the second man's residence as Jamaica, while the Daily Voice account says Kingston.
 ---
 
 Pennsylvania State Police arrested three men after an inspection of a box truck
 on Interstate 78 East in Bethel Township, Lebanon County, turned up two pallets
-of marijuana. [@1] The men were taken into custody after a Motor Carrier Safety
+of marijuana. [@1,3] The men were taken into custody after a Motor Carrier Safety
 Assistance Program inspection of a 2018 Hino box truck revealed the marijuana,
 police said. [@1] State police put the marijuana at about 400 pounds, roughly
-181 kg. [@2] The inspection on the interstate took place on 12 February 2025.
-[@2]
+181 kg. [@2,3] The inspection on the interstate took place on 12 February 2025.
+[@2,3]
 
 The three men were aged 25, 25 and 64 and lived in Wilkes-Barre, Kingston and
-the Dominican Republic respectively. [@1] All three were charged with possession
-with intent to deliver and conspiracy. [@1] They were taken to Lebanon County
+the Dominican Republic respectively. [@1] State Police identified the three as Kelvin Rodriguez-Olivo, Starly Francisco-Lendof and Alfonso Francisco Roman. [@3] All three were charged with possession
+with intent to deliver and conspiracy. [@1,3] They were taken to Lebanon County
 Central Booking, where preliminary hearings were pending. [@1]
-
