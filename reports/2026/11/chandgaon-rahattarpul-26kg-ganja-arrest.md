@@ -56,26 +56,26 @@ sources:
     publisher: Banglanews24
     date: 2026-11-19
     language: bn
-open_questions:
-    - The material was described as ganja with no laboratory confirmation reported.
-    - No charges, pleas or court outcome were reported; the case was handed to the thana police for further legal action.
-    - The 260,000-taka figure is the reported estimated market value, not a confirmed sale price.
-    - Both published accounts trace to the same SRB-7 press release and its spokesperson, so they are not independent reporting.
+  - title: চান্দগাঁওয়ে ২৬ কেজি গাঁজাসহ যুবক গ্রেপ্তার
+    url: https://chattolarkhabor.com/347891/%E0%A6%9A%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A7%A8%E0%A7%AC-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%97%E0%A6%BE%E0%A6%81/
+    publisher: Chattolar Khabor
+    date: 2026-11-19
+    language: bn
 ---
 
 Special Response Battalion (SRB) 7 arrested 35-year-old Md. Zahedul Alam with 26
-kg of ganja from a flat in Chandgaon in Chattogram city. [@1,2] The raid took
+kg of ganja from a flat in Chandgaon in Chattogram city. [@1,2,3] The raid took
 place at about 1:30 at night on 18 November on the second floor of a building in
-the Rahattarpul area. [@1,2] The arrested man is the son of Md. Manjur Alam of the
+the Rahattarpul area. [@1,2,3] The arrested man is the son of Md. Manjur Alam of the
 same area. [@1,2]
 
 SRB-7 said it had received secret information that ganja was stored in a
 second-floor room of Manjur Building west of Sona Pukur on Rahattarpul Jame
-Masjid lane, and detained Zahedul Alam in the resulting raid. [@1,2] SRB-7 said the information was that the ganja was being kept there for sale. [@2] Officers
+Masjid lane, and detained Zahedul Alam in the resulting raid. [@1,2,3] SRB-7 said the information was that the ganja was being kept there for sale. [@2] Officers
 later recovered the 26 kg of ganja from two white plastic sacks kept behind the
-bed in the flat's bedroom. [@1,2] SRB-7 put the estimated market value of the
+bed in the flat's bedroom. [@1,2,3] SRB-7 put the estimated market value of the
 seized ganja at 260,000 taka. [@1,2]
 
 SRB-7 announced the seizure and arrest in a press release on 19 November. [@1]
 The detained man and the recovered drugs were handed to the concerned thana
-police for further legal action. [@1,2]
+police for further legal action. [@1,2,3]
