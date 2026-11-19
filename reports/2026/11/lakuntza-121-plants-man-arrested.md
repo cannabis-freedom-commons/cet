@@ -48,6 +48,11 @@ media:
     media_url: https://imagenes.diariodenavarra.es/files/image_1920_1080/uploads/2026/11/19/6afed4e901eda.jpeg
     publisher: Diario de Navarra
     caption: 'Police handout images of the indoor marijuana plantation in Lakuntza. Photo: Policía Foral'
+  - kind: photo
+    url: https://www.noticiasdenavarra.com/sucesos/2026/11/19/desmantelada-plantacion-marihuana-121-plantas-11773786.html
+    media_url: https://estaticosgn-cdn.deia.eus/clip/e1044280-f593-4a4b-93ef-9ce08116b29e_16-9-discover-aspect-ratio_default_0.jpg
+    publisher: Noticias de Navarra
+    caption: 'Police agents bursting into the dwelling, with the marijuana plantation visible on the right, in the Lakuntza operation. Photo: Cedida / Policía Foral'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 53fabd1abf76a6e984bb820c563b3abf
@@ -78,26 +83,31 @@ sources:
     publisher: MSN
     date: 2026-11-19
     language: es
+  - title: '121 plantas de marihuana en una vivienda de Lakuntza: detenido un hombre de 35 años'
+    url: https://www.noticiasdenavarra.com/sucesos/2026/11/19/desmantelada-plantacion-marihuana-121-plantas-11773786.html
+    publisher: Diario de Noticias de Navarra
+    date: 2026-11-19
+    language: es
 ---
 
 Foral Police officers from the Alsasua prevention unit, supported by the
 Pamplona intervention group (GOI), detained a 35-year-old man this Wednesday as
 the alleged perpetrator of a crime against public health after dismantling an
-indoor marijuana plantation in a dwelling in Lakuntza. [@2,5] The detainee was
+indoor marijuana plantation in a dwelling in Lakuntza. [@2,5,6] The detainee was
 taken to the Foral Police central station in Pamplona for the preparation of
-proceedings and was subsequently placed at the disposal of the courts. [@1,5]
+proceedings and was subsequently placed at the disposal of the courts. [@1,5,6]
 
 The intervention took place on Wednesday 18 November. [@4] During the authorised
 intervention and search officers detained the flat's occupant and seized a total
 of 121 marijuana plants, two high-power extraction motors, special lamps,
-ventilators, sacks of fertiliser and numerous pots. [@1,5] Neighbours' complaints
+ventilators, sacks of fertiliser and numerous pots. [@1,5,6] Neighbours' complaints
 described a constant coming and going of people on brief visits, tool-handling
 noises and the habitual transport of large bags, both on foot and through the
-communal garage. [@3] The activity also generated intense marijuana and chemical
+communal garage. [@3,6] The activity also generated intense marijuana and chemical
 odours that filtered through the ventilation ducts, causing respiratory
-irritation, headaches and nausea among neighbours. [@1] After surveillance,
+irritation, headaches and nausea among neighbours. [@1,6] After surveillance,
 investigators confirmed the complaints and found that the apparently uninhabited
 property had anomalously very high electricity consumption in August and
 September, compatible with the irrigation and lighting systems of an indoor
-crop. [@1] With the evidence gathered, police sought and obtained a judicial
-entry and search order before carrying out the intervention. [@1]
+crop. [@1,6] With the evidence gathered, police sought and obtained a judicial
+entry and search order before carrying out the intervention. [@1,6]
