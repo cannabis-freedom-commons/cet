@@ -73,21 +73,16 @@ sources:
     publisher: Vocal TV
     date: 2026-11-18
     language: hi
-open_questions:
-    - 'The time of the interception differs between accounts: the earlier report gave 1 pm, while Dainik Bhaskar says the Betwa Express reached platform 1 at about 6 pm and the five were questioned as they got off.'
-    - The valuation is given as about 46.46 lakh rupees in one account and as exactly 46 lakh 46 thousand 700 rupees in two others, which attribute it to police but do not explain the calculation.
-    - Madhu Pandey's address in Chhattisgarh's Durg district is given as Dhamdha in one account and as the Kumhari area in another.
-    - No remand or custody decision following the court production, and no charge sheet, has been reported.
-    - The seized material was described as ganja; no laboratory confirmation or field-kit test result was reported.
-    - The route from Raipur comes from what the accused told police; Vocal TV says they sold the ganja in small quantities at different places, while Amar Ujala and Dainik Bhaskar report an intended handover at Ghatampur, and none names a buyer or organiser.
-    - Whether the consignment was loaded in Raipur itself or elsewhere in Chhattisgarh is not stated.
-    - Ages are given for the accused in one account only; Dainik Bhaskar names them without ages.
-    - 'The accounts name different leaders of the search: RPF station in-charge Suruchi Dwivedi in the report, inspector Omprakash of the RPF Crime Wing in one account, and GRP in-charge inspector Harinath Singh in the Vocal TV account.'
+  - title: Banda Station Ganja Seized | Betwa Express Drug Smuggling Arrest
+    url: https://www.bhaskar.com/local/uttar-pradesh/banda/paramai/news/banda-railway-station-betwa-express-ganja-smuggling-arrest-139738856.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-19
+    language: hi
 ---
 
 A joint team of the Railway Protection Force, the Government Railway Police and
 the Crime Wing in Jhansi arrested five interstate ganja smugglers at Banda
-railway station on Wednesday, 18 November 2026. [@1,2,3,4] Two of the five were men
+railway station on Wednesday, 18 November 2026. [@1,2,3,4,5] Two of the five were men
 and three were women. [@1,3,4] The five were Anand Nagayach (26) and his wife Neha
 (24) of Nivahon village in Lalitpur, Atul Soni (40) and his wife Meenakshi (34)
 of Rajendra Nagar in Orai, and Madhu Pandey (20) of Dhamdha in Chhattisgarh's
@@ -98,7 +93,7 @@ Operation Narcos. [@1] The operation was carried out on the instructions of Vipu
 officers searched the A-1 coach of train 18203, the Betwa Express, and caught
 all five with the ganja in front of the RMS post office on platform 1 at 1 pm.
 [@1] Officers seized 92.934 kg of ganja that had been hidden in eight trolleys
-and bags. [@1,3,4] The ganja was packed in 83 packets wrapped in khaki tape inside the eight trolley bags. [@2] Police valued the ganja at about 46.46 lakh rupees. [@1,3,4]
+and bags. [@1,3,4,5] The ganja was packed in 83 packets wrapped in khaki tape inside the eight trolley bags. [@2] Police valued the ganja at about 46.46 lakh rupees. [@1,3,4,5]
 
 The accused told police they had brought the ganja from Raipur in Chhattisgarh
 and were taking it to Ghatampur in Kanpur, where they were to hand the
