@@ -66,6 +66,16 @@ sources:
     publisher: ANSA
     date: 2026-11-18
     language: it
+  - title: Arrestato un 57enne sorpreso con 3,5 chili di cocaina, hashish,crack per un valore di 280mila Euro
+    url: https://www.tusinatinitaly.it/cronaca/arrestato-un-57enne-sorpreso-con-35-chili-di-cocaina-hashishcrack-per-un-valore-di-280mila-euro/61088/1
+    publisher: Tusinatinitaly.it
+    date: 2026-11-18
+    language: it
+  - title: 'Tre chili e mezzo di cocaina, armi e crack: arrestato 57enne di Altavilla Irpina'
+    url: https://www.itvonline.news/2026/11/18/tre-chili-e-mezzo-di-cocaina-armi-e-crack-arrestato-57enne-di-altavilla-irpina/
+    publisher: ITV Online
+    date: 2026-11-18
+    language: it
 open_questions:
   - No date is given for the blitz or the arrest; 18 November 2026 is the publication date of the accounts and stands in for the incident date.
   - The hashish is described only as hashish, with no laboratory confirmation and no separate value reported.
@@ -79,22 +89,21 @@ open_questions:
 
 Officers of the Mobile Squad of the Avellino police headquarters arrested a
 57-year-old man with previous convictions in flagrante delicto on suspicion of
-possessing drugs for trafficking. [@1] He is from Altavilla Irpina, in the
+possessing drugs for trafficking. [@1,5] He is from Altavilla Irpina, in the
 province of Avellino, and was arrested in a blitz at the end of investigations
-and stakeouts coordinated by the Avellino prosecutor's office. [@4]
+and stakeouts coordinated by the Avellino prosecutor's office. [@4,6]
 
 In the search officers seized 42 grams of hashish, 3.5 kilograms of cocaine and
 some doses of crack, as well as two pistols whose serial numbers had been
-erased, one of 9 mm and one of 6.35 mm, with ammunition. [@1] The cocaine was
+erased, one of 9 mm and one of 6.35 mm, with ammunition. [@1,5] The cocaine was
 kept in his home. [@4] The search, carried out with the support of the
 drug-detection dog unit of the Naples police headquarters, also turned up
-vacuum-packing material and precision scales. [@1] Investigators estimated that
+vacuum-packing material and precision scales. [@1,5] Investigators estimated that
 the substance seized, once divided into doses, would have yielded about 14,000
 doses worth more than 280,000 euros for sale. [@3]
 
 On the order of the duty prosecutor at the Avellino prosecutor's office, the man
 was taken to the city's Antimo Graziano prison to await the validation hearing.
-[@2] The prosecutor's office said the allegations were provisional, made during
+[@2,5] The prosecutor's office said the allegations were provisional, made during
 preliminary investigations and open to appeal, and that the suspect is presumed
 innocent until a final judgment. [@1]
-
