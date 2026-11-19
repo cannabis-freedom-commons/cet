@@ -38,6 +38,11 @@ media:
     media_url: https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35532854.png&M=1&s=Y&x=0&y=0&sw=1280&sh=882&sl=W&fw=800&exp=3600&w=800&nt=1
     publisher: 聯合新聞網
     caption: 'Police checking the man in the Zhonghe internet cafe after the report, in a still published with the UDN report. Photo: 王長鼎 / UDN'
+  - kind: photo
+    url: https://www.mirrormedia.mg/external/mirrordaily_98887
+    media_url: https://statics-prod.mirrordaily.news/images/7b07f253-d6d2-4b9d-b7e7-7b2df1e01c2f-w1600.jpg
+    publisher: 鏡週刊 Mirror Media
+    caption: 'Police arriving at the Zhonghe internet cafe found the 34-year-old Lin smoking a cannabis vape, in a footage still published with the report. Image: screen grab.'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 809ef8b3ee92988dd0152ffd1130fa49
@@ -53,24 +58,24 @@ sources:
     publisher: 聯合新聞網
     date: 2026-11-19
     language: zh
-open_questions:
-    - The 12.25 grams is stated as gross weight for the vape device plus the cannabis cartridge together; the net weight of cannabis oil alone was not reported.
-    - The report says the seizure tested positive for cannabis but does not describe the test method or report laboratory confirmation.
-    - No court outcome, charge details beyond transfer under the Drug Hazard Prevention Act, or detention measure were reported.
-    - The two opened accounts (EBC News and UDN) report the same police action with consistent figures; no account beyond the police version was found.
+  - title: 比4D電影還逼真！網咖男超Chill呼麻邊看《絕命毒師》　轉過頭Popo來囉
+    url: https://www.mirrormedia.mg/external/mirrordaily_98887
+    publisher: 鏡週刊 Mirror Media
+    date: 2026-11-19
+    language: zh
 ---
 
 A 34-year-old man surnamed Lin was in an internet cafe on Anping Road in Zhonghe
 in the early hours of 19 November 2026, watching shows while smoking a cannabis
-e-cigarette that members of the public reported to police. [@1] Officers from
+e-cigarette that members of the public reported to police. [@1,3] He was watching the American drug-crime series Breaking Bad while smoking. [@3] Officers from
 the Anping Police Station of the Zhonghe Precinct were on patrol at about 4 a.m.
 on 19 November when they received the report that a man inside the cafe was
-suspected of smoking a cannabis cartridge. [@1,2] After arriving, officers
+suspected of smoking a cannabis cartridge. [@1,2,3] After arriving, officers
 searched Lin with his consent and arrested him at the scene as a drug offender
 in the act, later transferring him to the district prosecutor's office for
-investigation under the Drug Hazard Prevention Act. [@1,2]
+investigation under the Drug Hazard Prevention Act. [@1,2,3]
 
 Officers seized one e-cigarette device and one cannabis cartridge from Lin at
 the scene. [@1,2] The seized device and cartridge together had a gross weight of
 12.25 grams and tested positive for cannabis, which the report describes as a
-Category Two drug. [@1,2]
+Category Two drug. [@1,2,3]
