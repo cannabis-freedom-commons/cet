@@ -47,6 +47,11 @@ media:
     media_url: https://images.assettype.com/tribune/2026-11-18/2a7ji17u/1000026396.jpg?w=720&auto=format&q=55&rect=0%2C169%2C1800%2C1013&h=405&fit=crop
     publisher: Daily Tribune
     caption: 'Evidence from the Banaue buy-bust seizure, in the PDEA Cordillera handout photo. Photo: Courtesy of PDEA Cordillera'
+  - kind: photo
+    url: https://newsinfo.inquirer.net/2344181/almost-p15m-worth-of-marijuana-bricks-seized-in-ifugao-buy-bust
+    media_url: https://newsinfo.inquirer.net/files/2026/11/ifugao-marijuana-19nov2026.jpg.avif
+    publisher: INQUIRER.net
+    caption: 'Police inventory of seized marijuana bricks placed inside sacks following the buy-bust operation in Banaue, Ifugao on Nov. 17, 2026. Photo: courtesy of PDEA'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fd6d27e81757d9109539a21d65fa0e6c
@@ -60,30 +65,28 @@ sources:
     url: https://baguio.bomboradyo.com/p14-64-million-a-gatad-ti-marijuana-nakumpiska-ti-pdea-ken-pnp-idiay-banaue-ifugao-maysa-a-drug-personality-nakemmeg-maysa-a-pick-up-truck-naimpound/
     publisher: Bombo Radyo Baguio
     date: 2026-11-18
-open_questions:
-  - The 122 kilograms was reported as an approximate weight and P14,640,000 as an estimated standard drug price, not an independently verified valuation.
-  - The material was described only as suspected dried marijuana leaves and fruiting tops, with no laboratory confirmation reported.
-  - No plea, charge-filing date or later court outcome was reported.
-  - Both accounts present the PDEA Cordillera account of the operation rather than independent inquiries.
+  - title: Almost P15M worth of marijuana bricks seized in Ifugao buy-bust
+    url: https://newsinfo.inquirer.net/2344181/almost-p15m-worth-of-marijuana-bricks-seized-in-ifugao-buy-bust
+    publisher: INQUIRER.net
+    date: 2026-11-20
 ---
 
 Joint anti-narcotics operatives arrested a 42-year-old farmer during a buy-bust
 operation in Barangay Viewpoint, Banaue, Ifugao. [@1] The operation took place
-on the night of 17 November 2026. [@1] Officers identified the suspect as alias
+on the night of 17 November 2026. [@1,3] Officers identified the suspect as alias
 Edmond, a 42-year-old farmer residing in Liwan West, Rizal, Kalinga Province.
-[@2] The suspect was detained at the PDEA Cordillera facility and faces a charge
+[@2,3] The suspect was detained at the PDEA Cordillera facility and faces a charge
 of sale of dangerous drugs under Section 5, Article II of Republic Act No. 9165.
 [@1] The operation was conducted jointly by the PDEA Ifugao Provincial Office,
 the PDEA Region 2-Nueva Vizcaya Provincial Office, the Ifugao Police Provincial
-Office-Drug Enforcement Unit and the Banaue Municipal Police Station. [@1]
+Office-Drug Enforcement Unit and the Banaue Municipal Police Station. [@1,3]
 
 Officers confiscated four sacks containing 118 bricks and four tubular forms of
 suspected dried marijuana leaves and fruiting tops weighing about 122 kilograms.
-[@1] The seized marijuana was given an estimated standard drug price of
-P14,640,000. [@2] Operatives also impounded a pickup truck allegedly used to
-transport the drugs across provincial borders. [@1]
+[@1,3] Three more sacks were discovered after the suspect's arrest. [@3] One of the sacks with 31 kilos of marijuana worth P3.7 million was the subject of the buy-bust operation. [@3] The seized marijuana was given an estimated standard drug price of
+P14,640,000. [@2,3] Operatives also impounded a pickup truck allegedly used to
+transport the drugs across provincial borders. [@1,3]
 
 PDEA Cordillera Regional Director Edgar T. Jubay commended the operating units,
 saying sustained interdiction and border security measures are needed to stop
 drug transit across regional boundaries. [@1]
-
