@@ -63,32 +63,29 @@ sources:
     publisher: MisionesOnline
     date: 2026-05-07
     language: es
-open_questions:
-  - The articles give no separate operation date; 7 May 2026 is the publication date of all three accounts and is used as the incident date.
-  - The sources say only that the weight exceeds a ton, so no exact kilogram figure is recorded.
-  - No arrests, charges or identified suspects were reported; the four occupants fled to Paraguay and the investigation was continuing.
-  - The government release calls the load droga and estupefacientes; the cannabis identification as pressed marijuana rests on La Nación and MisionesOnline.
-  - The value of more than 3,500 million pesos is the authorities' estimate for the seized load.
-  - The government page carries three embedded photos without captions or descriptive alt text, so only La Nación's captioned Prefectura handout photos are listed as media.
+  - title: 'Golpe al narcotráfico: Prefectura incautó una tonelada de droga en Misiones'
+    url: https://www.argentina.gob.ar/noticias/golpe-al-narcotrafico-prefectura-incauto-una-tonelada-de-droga-en-misiones
+    publisher: Argentina.gob.ar
+    date: 2026-05-07
+    language: es
 ---
 
 Prefectura Naval Argentina officers at an observation post detected two boats
 crossing from the Paraguayan coast to Argentina, each carrying two occupants and
-several bundles. [@1] The four occupants fled toward the neighbouring country in
+several bundles. [@1,4] The four occupants fled toward the neighbouring country in
 one boat when they noticed the force, abandoning 28 bundles on the shore and
-nine more inside the second boat. [@1]
+nine more inside the second boat. [@1,4]
 
 Officers counted 1,179 wrappers of narcotics in total, a load weighing more than
-a ton. [@1] The 37 bundles held 1,179 packs of pressed marijuana. [@2]
+a ton. [@1,4] The 37 bundles held 1,179 packs of pressed marijuana. [@2]
 Authorities valued the load at more than 3,500 million pesos on the illegal
-market. [@2]
+market. [@2,4]
 
 The operation took place at Puerto Fontini on the Paraná River at kilometre
-1,726 after intelligence indicated a possible drug entry from Paraguay. [@1] The
+1,726 after intelligence indicated a possible drug entry from Paraguay. [@1,4] The
 seizure of more than a ton of marijuana occurred in the Puerto Rico district at
 Puerto Fontini on the Paraná bank. [@3] The Federal Court and Federal
 Prosecutor's Office in Oberá took over the case and ordered seizure of the
-substance and further proceedings. [@1] Investigators moved the drugs under
+substance and further proceedings. [@1,4] Investigators moved the drugs under
 strict security for forensic examination while working to identify those
 responsible. [@2]
-
