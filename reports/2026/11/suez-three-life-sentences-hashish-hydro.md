@@ -58,25 +58,20 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-18
     language: ar
-open_questions:
-  - No weight or plant count was published for the hashish, cannabis plant or hydro seized, so the report gives no kilogram figure.
-  - The article gives no separate date for the verdict; 18 November 2026 is its own publication date and stands in for the incident date.
-  - The date of the arrest and seizure is not given; the case was registered as 2343 of 2025 at Suez and tried as 8161 of 2026, Ganayn felonies.
-  - The cash found in the truck is not quantified.
-  - The drugs were described as green plant material resembling the narcotic hydro plant and as rolls of hashish, with no laboratory confirmation or exact quantities reported.
-  - The confiscation order names two drug substances, hashish and cannabis plant, while the article elsewhere also lists hydro among what was seized.
-  - No appeal or final ruling was reported, and the life sentence is a first-instance criminal court judgment.
-  - The whole account rests on a single Youm7 report of the judgment.
-  - The article does not say how the hydro plant was produced or whether it was grown indoors.
+  - title: المؤبد لتشكيل عصابي حاول تهريب طن ونصف مخدرات في السويس | مصراوي
+    url: https://www.masrawy.com/news/news_regions/details/2026/11/19/3081134/%D8%A7%D9%84%D9%85%D8%A4%D8%A8%D8%AF-%D9%88%D8%AA%D8%BA%D8%B1%D9%8A%D9%85-3-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-1-5-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AC%D9%86%D9%8A%D9%87-%D8%A8%D8%B9%D8%AF-%D8%B6%D8%A8%D8%B7%D9%87%D9%85-%D8%A8%D8%B7%D9%86-%D9%88%D9%86%D8%B5%D9%81-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3-
+    publisher: مصراوي
+    date: 2026-11-19
+    language: ar
 ---
 
 The Suez Criminal Court sentenced three defendants to life imprisonment and
 fined each of them 500,000 Egyptian pounds in a case over a gang trafficking
-hashish, cannabis plant and hydro. [@1] The court convicted them of forming a
+hashish, cannabis plant and hydro. [@1,2] The court convicted them of forming a
 criminal gang, running it and joining it, and of possessing and trafficking
 narcotics including hashish, cannabis and hydro. [@1] The verdict was issued in
 case 8161 of 2026, Ganayn felonies, registered as 2343 of 2025 at Suez, by a
-panel headed by Counselor Ahmed Mohamed Morsi. [@1] The court ordered the
+panel headed by Counselor Ahmed Mohamed Morsi. [@1,2] The court ordered the
 confiscation of the seized hashish and cannabis plant and of the two vehicles
 used in the offence, a transport truck and a taxi, and made each defendant pay
 the criminal costs. [@1]
@@ -93,10 +88,9 @@ administration sent a force backed by central security units and plainclothes
 officers to arrest the men and seize the vehicles. [@1] Under the stone load,
 officers found black plastic sacks holding bags of green plant material
 resembling the narcotic hydro plant, rolls of hashish, cash and mobile phones
-used to contact customers. [@1]
+used to contact customers. [@1] The seized shipment weighed one ton of hydro and half a ton of hashish. [@2]
 
 The defendants admitted holding the drugs for trafficking, that the money came
 from their criminal activity and that the vehicles were used to move and
 distribute the drugs. [@1] The Suez general prosecution had referred the three
 to the criminal court on those charges before the trial. [@1]
-
