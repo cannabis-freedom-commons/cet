@@ -61,21 +61,31 @@ sources:
     publisher: Chattolar Khabor
     date: 2026-11-19
     language: bn
+  - title: চট্টগ্রামে ফ্ল্যাটে মিলল ২৬ কেজি গাঁজা, আটক ১
+    url: https://rajshahirsomoy.com/20683
+    publisher: Rajshahir Somoy
+    date: 2026-11-19
+    language: bn
+open_questions:
+    - 'Accounts differ on the date of the raid: Rajshahir Somoy places it at about 1:30 on Thursday 19 November 2026, while the other reports place it on 18 November.'
+    - The seized material was described as ganja without any reported laboratory confirmation.
+    - No charges, plea or court outcome were reported; the man and the drugs were handed to the local police for legal action.
+    - The 260,000-taka figure is SRB-7's estimated market value, not a confirmed sale price.
 ---
 
 Special Response Battalion (SRB) 7 arrested 35-year-old Md. Zahedul Alam with 26
-kg of ganja from a flat in Chandgaon in Chattogram city. [@1,2,3] The raid took
+kg of ganja from a flat in Chandgaon in Chattogram city. [@1,2,3,4] The raid took
 place at about 1:30 at night on 18 November on the second floor of a building in
 the Rahattarpul area. [@1,2,3] The arrested man is the son of Md. Manjur Alam of the
-same area. [@1,2]
+same area. [@1,2,4]
 
 SRB-7 said it had received secret information that ganja was stored in a
 second-floor room of Manjur Building west of Sona Pukur on Rahattarpul Jame
 Masjid lane, and detained Zahedul Alam in the resulting raid. [@1,2,3] SRB-7 said the information was that the ganja was being kept there for sale. [@2] Officers
 later recovered the 26 kg of ganja from two white plastic sacks kept behind the
-bed in the flat's bedroom. [@1,2,3] SRB-7 put the estimated market value of the
-seized ganja at 260,000 taka. [@1,2]
+bed in the flat's bedroom. [@1,2,3,4] SRB-7 put the estimated market value of the
+seized ganja at 260,000 taka. [@1,2,4]
 
 SRB-7 announced the seizure and arrest in a press release on 19 November. [@1]
 The detained man and the recovered drugs were handed to the concerned thana
-police for further legal action. [@1,2,3]
+police for further legal action. [@1,2,3,4]
