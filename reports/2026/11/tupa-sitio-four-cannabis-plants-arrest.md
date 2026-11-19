@@ -27,33 +27,37 @@ sources:
     publisher: Mais Tupã!
     date: 2026-11-18
     language: pt
+  - title: Homem é preso após agredir mulher e matar gato em sítio em Tupã
+    url: https://tupacity.com/noticia/24249/homem-e-preso-apos-agredir-mulher-e-matar-gato-em-sitio-em-tupa
+    publisher: TupãCity
+    date: 2026-11-18
+    language: pt
 open_questions:
-  - No weight was published for the small quantity of marijuana, so only the count of four plants is recorded.
-  - No count was published for the ammunition found.
-  - The empty containers described as used to pack cocaine were empty, and no cocaine weight is recorded.
-  - The police account does not say whether the .32-calibre revolver said to be with a brother-in-law was found.
-  - No name, age, charge or court outcome was published beyond confirmation of the arrest and seizure.
-  - The account rests on a single outlet reproducing the Military Police record; no second outlet was found.
+    - No weight was published for the small quantity of marijuana, so only the count of four plants is recorded.
+    - No count was published for the ammunition found.
+    - The empty containers described as used to pack cocaine were empty, and no cocaine weight is recorded.
+    - The police account does not say whether the .32-calibre revolver said to be with a brother-in-law was found.
+    - No name, age, charge or court outcome was published beyond confirmation of the arrest and seizure.
+    - Both Tupã outlets reproduce the same Military Police record, so they are not independent accounts of the arrest.
 ---
 
 A man was arrested on the night of Tuesday 17 November 2026 at a sitio on the
-municipal road linking Tupã to Varpa, after a domestic-violence incident. [@1]
+municipal road linking Tupã to Varpa, after a domestic-violence incident. [@1,2]
 Around midnight officers found the victim lying by the roadside near the sitio
-after she sought out the teams. [@1] At the house officers saw the man trying to
-leave by motorcycle. [@1] When he saw the patrol cars arrive he abandoned the
-motorcycle and tried to go inside the house, but was stopped. [@1] The couple's
-daughter, aged about five, was on the living-room sofa. [@1] The police record
-also says a cat was killed after the man hit it with a boot. [@1]
+after she sought out the teams. [@1,2] At the house officers saw the man trying to
+leave by motorcycle. [@1,2] When he saw the patrol cars arrive he abandoned the
+motorcycle and tried to go inside the house, but was stopped. [@1,2] The couple's
+daughter, aged about five, was on the living-room sofa. [@1,2] The police record
+also says a cat was killed after the man hit it with a boot. [@1,2]
 
 During the search police found a wooden bat described as used to assault and
-threaten the woman. [@1] Officers also found ammunition, a small quantity of
-marijuana, empty containers used to pack cocaine and a pistol replica. [@1] The
+threaten the woman. [@1,2] Officers also found ammunition, a small quantity of
+marijuana, empty containers used to pack cocaine and a pistol replica. [@1,2] The
 man said the seized materials were his and showed officers four cannabis plants
-beside the house. [@1] He also said he owned a .32-calibre revolver that he had
-left with a brother-in-law for cleaning. [@1] The police account does not say
-whether that revolver was found. [@1]
+beside the house. [@1,2] The plants were found under a mango tree, two grown directly in the soil and two in a pot. [@2] He also said he owned a .32-calibre revolver that he had
+left with a brother-in-law for cleaning. [@1,2] The police account does not say
+whether that revolver was found. [@1,2]
 
-The man was taken to the Tupã Central de Polícia Judiciária. [@1] The duty
+The man was taken to the Tupã Central de Polícia Judiciária. [@1,2] The duty
 delegate confirmed the arrest, ordered the materials seized and kept him at the
-disposal of the courts. [@1]
-
+disposal of the courts. [@1,2]
