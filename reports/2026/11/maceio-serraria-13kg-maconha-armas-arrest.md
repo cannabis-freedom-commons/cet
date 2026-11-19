@@ -94,28 +94,26 @@ sources:
     publisher: TNH1
     date: 2026-11-18
     language: pt
-open_questions:
-    - No information was published about the species of the seven birds or the origin of the firearms and the drugs.
-    - The man was not named, and no formal charge, custody ruling or court outcome was reported beyond the flagrante booking.
-    - The published accounts give the weight as 13.4 kg, approximately 13.45 kg, about 13.5 kg and 13 kg in the TNH1 video; the report uses 13.4 kg, and no laboratory confirmation was published.
-    - No victim names, case numbers, charges or custody ruling for the alleged three homicides and faction membership were published.
-    - The unit that carried out the operation is given as the Força Tática of the 12th Military Police Battalion in some accounts and as teams of the 13th Battalion in others.
-    - The drugs' value was reported as R$940,000 by one account and as R$941,500, calculated at R$70 per gram, by another; no independent valuation was published.
+  - title: Integrante de facção é preso com drogas avaliadas em quase R$ 1 milhão em Maceió
+    url: https://www.cadaminuto.com.br/noticia/2026/11/18/integrante-de-faccao-e-preso-com-drogas-avaliadas-em-quase-r-1-milhao-em-maceio
+    publisher: Cadaminuto
+    date: 2026-11-18
+    language: pt
 ---
 
 Police arrested a man on the night of Tuesday 17 November 2026 in the Serraria
-neighbourhood of Maceió, in the state of Alagoas. [@1,3,5,8] The arrest was carried out by the Força Tática unit of the 12th Military Police Battalion on the night of Tuesday 17 November 2026. [@2,6,7] Police went to the house after two reports that a member of the Tudo Neutro (TDN) faction suspected of involvement in three killings was keeping wild birds in cages there. [@2,6,7] The initial suspicion
+neighbourhood of Maceió, in the state of Alagoas. [@1,3,5,8] The arrest was carried out by the Força Tática unit of the 12th Military Police Battalion on the night of Tuesday 17 November 2026. [@2,6,7] Police went to the house after two reports that a member of the Tudo Neutro (TDN) faction suspected of involvement in three killings was keeping wild birds in cages there. [@2,6,7,9] The initial suspicion
 involved possible crimes of drug trafficking, illegal possession of firearms and
 trade in wild animals. [@1,3] Officers saw further cages, a precision scale and plastic bags with unidentified contents inside the house, and noticed a smell of marijuana, before entering to search it. [@3,7]
 
 The occurrence was registered at about 20:00. [@1] The material was found inside
 a residence, where there were also precision scales used to weigh drugs. [@1,2,4]
 Inside the property, police found 13,4 kilograms (13.4 kg) of maconha, a
-.38-calibre revolver and a .40-calibre pistol. [@1,2,4,5,7,8] The .40-calibre pistol seized was a PT940 model. [@7] The suspect admitted owning the drugs and firearms found in the residence. [@2,6,7] Alongside them, officers
+.38-calibre revolver and a .40-calibre pistol. [@1,2,4,5,7,8,9] The .40-calibre pistol seized was a PT940 model. [@7] The suspect admitted owning the drugs and firearms found in the residence. [@2,6,7,9] Alongside them, officers
 seized six rounds of ammunition, two precision scales and seven birds kept in
-cages. [@1,3,5] Authorities estimated the value of the drugs at R$940,000. [@5] The state Public Security Secretariat valued the marijuana at R$70 a gram, putting the seizure at R$941,500. [@7]
+cages. [@1,3,5] Authorities estimated the value of the drugs at R$940,000. [@5] The state Public Security Secretariat valued the marijuana at R$70 a gram, putting the seizure at R$941,500. [@7,9]
 
 The presence of the animals drew particular attention because there were cages
 both in the external area and inside the residence. [@1,2,3,6] The man was taken to
 the Central de Flagrantes, where he was booked in flagrante, and the seven birds
-were also collected. [@1,2,3,5,7]
+were also collected. [@1,2,3,5,7,9]
