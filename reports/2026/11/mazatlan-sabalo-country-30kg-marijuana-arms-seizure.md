@@ -87,6 +87,11 @@ sources:
     publisher: Noroeste
     date: 2026-11-18
     language: es
+  - title: Aseguran armas, droga y tres vehículos robados en Sábalo Country
+    url: https://www.meganoticias.mx/culiacan/noticia/aseguran-armas-droga-y-tres-veh%C3%ADculos-robados-en-s%C3%A1balo-country/790049
+    publisher: Meganoticias
+    date: 2026-11-18
+    language: es
 open_questions:
     - No weight was published for the 781 marijuana doses or the 432 cocaine doses, so only the 30 kilograms are counted as cannabis.
     - The contents of the 67 seized vaping devices were not described, so they are not counted as cannabis.
@@ -101,14 +106,14 @@ Federal forces carried out an operation on the afternoon of Tuesday 17 November
 neighbourhood of Mazatlán. [@2] Agents reviewed apartments in the tower and
 inspected vehicles parked in its parking area. [@2] The mobilization involved
 elements of the National Guard and the Attorney General's Office, whose results
-were disclosed the following Wednesday. [@1,3,4] No detentions had been officially
-confirmed at the time of reporting. [@2,4]
+were disclosed the following Wednesday. [@1,3,4] The figures were released by the federal Security Cabinet as part of its account of operations carried out on 17 November in several states. [@5] No detentions had been officially
+confirmed at the time of reporting. [@2,4,5]
 
-Officers seized 30 kilograms of marijuana. [@1,3,4] The seizure also included 781
-marijuana doses. [@1,3,4] Officers also seized 432 cocaine doses. [@1,3,4] Officers also
-seized 67 vaping devices. [@1,3,4] Among the items seized were a long gun, a short
-gun, three magazines and 110 cartridges. [@1,3,4] Three vehicles with stolen-vehicle
-reports were seized. [@1,3,4] The vehicles were two grey Toyota Siennas and a white
+Officers seized 30 kilograms of marijuana. [@1,3,4,5] The seizure also included 781
+marijuana doses. [@1,3,4,5] Officers also seized 432 cocaine doses. [@1,3,4,5] Officers also
+seized 67 vaping devices. [@1,3,4,5] Among the items seized were a long gun, a short
+gun, three magazines and 110 cartridges. [@1,3,4,5] Three vehicles with stolen-vehicle
+reports were seized. [@1,3,4,5] The vehicles were two grey Toyota Siennas and a white
 Chevrolet Tornado, which were towed to an official impound lot. [@2]
 
 All of the seized drugs, weapons and vehicles were placed at the disposal of the
