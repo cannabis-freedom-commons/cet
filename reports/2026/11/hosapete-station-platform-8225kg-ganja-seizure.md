@@ -37,6 +37,11 @@ sources:
     url: https://english.varthabharati.in/karnataka/8225-kg-of-dry-ganja-worth-rs-825-lakh-found-in-bag-on-hosapete-railway-station-platform-2291998
     publisher: Vartha Bharati
     date: 2026-11-19
+  - title: 'Video: હોસપેટેમાં 8.225 કિલો ગાંજો ઝડપાયો'
+    url: https://www.gstv.in/news/india/8225-kg-of-marijuana-seized-in-hospet
+    publisher: GSTV
+    date: 2026-11-19
+    language: gu
 open_questions:
   - No separate date was given for the search or the seizure, so 19 November 2026, the publication date, is used as the incident date.
   - No owner of the bag, suspect, or arrest was reported.
@@ -56,10 +61,9 @@ it for checking. [@1] The red bag contained five separate packets filled with
 dry ganja. [@1]
 
 Excise officials said the five packets together weighed 8.225 kilograms of dry
-ganja in total. [@1] They estimated the market worth of the seized consignment
+ganja in total. [@1,2] They estimated the market worth of the seized consignment
 at Rs 8.25 lakh, presenting the figure as the official assessed value of the
 drugs. [@1] Excise Sub-inspector H Veeramma registered a case under the Narcotic
 Drugs and Psychotropic Substances (NDPS) Act over the platform seizure. [@1] She
 then took up further investigation of the NDPS case arising from the seizure.
-[@1]
-
+[@1] Investigators were examining where the ganja had been brought from and where it was to be delivered. [@2]
