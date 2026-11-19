@@ -66,15 +66,36 @@ sources:
     publisher: Die Rheinpfalz
     date: 2026-11-13
     language: de
+  - title: Polizei entdeckt illegale Cannabisplantage in Kusel – Mann nach Fluchtversuch festgenommen
+    url: https://www.sr.de/sr/home/nachrichten/panorama/illegale_cannabisplantage_bei_kusel_entdeckt_100.html
+    publisher: Saarländischer Rundfunk
+    date: 2026-11-13
+    language: de
+  - title: 'POL-PPWP: Polizei hebt Cannabisplantage aus - eine Festnahme'
+    url: https://www.presseportal.de/blaulicht/pm/117683/6389992
+    publisher: Polizeipräsidium Westpfalz
+    date: 2026-11-13
+    language: de
+  - title: 'Cannabisplantage in Ulmet: Im Dorf hat offenbar niemand etwas bemerkt - Ulmet - DIE RHEINPFALZ'
+    url: https://www.rheinpfalz.de/lokal/kreis-kusel_artikel,-cannabisplantage-in-ulmet-im-dorf-hat-offenbar-niemand-etwas-bemerkt-_arid,5950065.html
+    publisher: DIE RHEINPFALZ
+    date: 2026-11-19
+    language: de
+media:
+  - kind: photo
+    url: https://www.rheinpfalz.de/lokal/kreis-kusel_artikel,-cannabisplantage-in-ulmet-im-dorf-hat-offenbar-niemand-etwas-bemerkt-_arid,5950065.html
+    media_url: https://www.rheinpfalz.de/cms_media/module_img/14289/7144641_1_articledetail_IMG_5463.jpg.webp
+    publisher: DIE RHEINPFALZ
+    caption: 'The hall near the Ulmet sports field where the XXL greenhouse was found, after the raid. Photo: Benjamin Ginkel'
 ---
 
 On the evening of 12 November 2026, special police units searched a hall in
 Verbandsgemeinde Kusel-Altenglan after a tip-off about a suspected illegal grow.
 [@1,3] A tip had led investigators to the suspected illegal cultivation site,
-according to police. [@1,4,5,6] Inside the hall, officers found an extensive cannabis
-plantation with more than 1,000 cannabis plants. [@1,3,4,5,6]
+according to police. [@1,4,5,6,7] Inside the hall, officers found an extensive cannabis
+plantation with more than 1,000 cannabis plants. [@1,3,4,5,6,8]
 
-During the search, a 40-year-old man tried to flee the hall. [@1,3,4,5,6] Officers
+During the search, a 40-year-old man tried to flee the hall. [@1,3,4,5,6,7] Officers
 stopped the escape and arrested the 40-year-old suspect. [@2,4,5] On Friday 13
 November, the suspect was brought before an investigating judge. [@1,3,5] The court
 ordered pre-trial detention for the suspect. [@2,3,4,5,6] He made no statement on the
@@ -84,5 +105,5 @@ Police note that cultivation on this scale remains prohibited in Germany despite
 the partial legalisation of cannabis. [@1] The police statement does not say
 what role the 40-year-old played in operating the plantation or whether others
 were involved. [@1] The exact location of the hall within the Verbandsgemeinde
-was not disclosed. [@1] The presumption of innocence applies to the suspect.
+was not disclosed. [@1] The hall stands near the sports field in Ulmet, where a hall-built XXL greenhouse was found and dismantled with THW support. [@9] The presumption of innocence applies to the suspect.
 [@1]
