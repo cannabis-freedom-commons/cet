@@ -108,6 +108,11 @@ sources:
     publisher: MTnews24
     date: 2026-11-18
     language: bn
+  - title: নিষিদ্ধ ছাত্রলীগের সাবেক রুয়েট সেক্রেটারি গ্রেপ্তার
+    url: https://rtvonline.com/education/campus/416715
+    publisher: RTV Online
+    date: 2026-11-19
+    language: bn
 media:
   - kind: photo
     url: https://www.jagonews24.com/national/news/1181141
@@ -126,15 +131,15 @@ Dhaka. [@2,3,4,5,6,7,8,9,10,11,12,13,15] Officers detained him at about 8:10 pm 
 second floor of house 19, Road 3, B Block, Naboday Housing. [@1,4,5] The arrested
 man is a member of the Awami League central science and technology affairs
 committee and a former general secretary of the Selim Hall Chhatra League at
-RUET. [@2,3,4,5,6,7,8,9,11,12,13,14,15] Additional Police Commissioner of the Mohammadpur Zone, Jewel Rana,
+RUET. [@2,3,4,5,6,7,8,9,11,12,13,14,15,16] His father was the late Mohammad Jahir Uddin and his ancestral home is in Sherpur district. [@16] Additional Police Commissioner of the Mohammadpur Zone, Jewel Rana,
 confirmed the arrest the same night. [@1,5]
 
 Police said officers seized 14 bottles of Winctrex cough syrup containing
 codeine phosphate and triprolidine hydrochloride and one puria of ganja from
 him. [@1,5,6] Mohammadpur police said the raid followed secret information and also
-reported 14 bottles of cough syrup and one puria of ganja seized. [@2,3,7,8,9,10,11,12,14,15]
+reported 14 bottles of cough syrup and one puria of ganja seized. [@2,3,7,8,9,10,11,12,14,15,16]
 
 Police said he had remained in contact with central Awami League leaders by
 mobile phone and was staying in the area to create an unstable situation in
-Dhaka and to run the party’s procession activities. [@1,3,4,5,6,7,9,11,12,13,14,15] Police said further
+Dhaka and to run the party’s procession activities. [@1,3,4,5,6,7,9,11,12,13,14,15,16] Police said further
 legal action against him was in process. [@1,3,4,5,6,7,9,10,11,12,13,15]
