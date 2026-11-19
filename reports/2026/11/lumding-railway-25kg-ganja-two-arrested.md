@@ -62,18 +62,16 @@ sources:
     publisher: Hindusthan Samachar
     date: 2026-11-19
     language: hi
-open_questions:
-  - No separate date is given for the search; 19 November 2026 is the date in the agency dateline and the day the operation was reported, and is used as the incident date.
-  - No value estimate, criminal charge or laboratory confirmation of the material as cannabis was reported.
-  - Nothing in the accounts says which of the two arrestees is the woman or whether any further suspects were identified.
-  - The three accounts are not independent, since Vocal TV credits Hindusthan Samachar and India Today NE relays the same police information.
-  - No detail was given on the intended destination of the consignment or how it was concealed on the train.
+  - title: Railway police seize 25 kg of cannabis at Assam's Lumding station, arrest two
+    url: https://www.msn.com/en-in/news/other/railway-police-seize-25-kg-of-cannabis-at-assams-lumding-station-arrest-two/ar-AA2hLg7u
+    publisher: MSN
+    date: 2026-11-19
 ---
 
 On 19 November 2026, railway police in Assam arrested two alleged smugglers,
 including a woman, at Lumding railway station and seized about 25 kg of ganja in
-a crackdown on drug trafficking. [@3,4] The two arrested were identified as
-Abhijit Dev and Anamika Dev, both residents of Agartala. [@2]
+a crackdown on drug trafficking. [@3,4,5] The two arrested were identified as
+Abhijit Dev and Anamika Dev, both residents of Agartala. [@2,5]
 
 Acting on a tip-off, a railway police team carried out the operation aboard the
 Agartala–Sealdah Kanchanjunga Express, searching the train and recovering
@@ -83,6 +81,6 @@ took two people into custody. [@1] The action formed part of a campaign against
 drug trafficking in Assam. [@1]
 
 Both accused were taken into custody, and a further investigation was under way
-to ascertain the details of the smuggling operation. [@2] Police said they were
+to ascertain the details of the smuggling operation. [@2,5] Police said they were
 tracing other members of the suspected drug trafficking network, identifying the
 source of the contraband and establishing the wider links of the racket. [@3]
