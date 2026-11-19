@@ -67,6 +67,11 @@ sources:
     publisher: Salernonotizie.it
     date: 2026-11-18
     language: it
+  - title: 'Salerno, 24enne arrestato per spaccio: sequestrati 100g hashish'
+    url: https://www.infocilento.it/salerno-24enne-arrestato-per-spaccio-sequestrati-100g-hashish/
+    publisher: InfoCilento
+    date: 2026-11-18
+    language: it
 open_questions:
   - The hashish is given as about 100 grams, not an exact measured weight.
   - Irno24 dates the arrest only to 'recent hours' before its 18 November publication; 16 November is used because SalernoToday, Occhi su Salerno and Salernonotizie give that date.
@@ -78,18 +83,17 @@ open_questions:
 ---
 
 Carabinieri from the Salerno Fratte station arrested a 24-year-old man in
-Salerno on 16 November 2026. [@5] He is under investigation for detenzione di
+Salerno on 16 November 2026. [@5,6] He is under investigation for detenzione di
 sostanza stupefacente ai fini di spaccio, the offence of possessing a narcotic
-substance for the purpose of dealing. [@2]
+substance for the purpose of dealing. [@2,6]
 
 A search of what the young man had at his disposal found about 100 grams of
-hashish, the resin form of cannabis. [@2] Officers also seized material for
-packaging the drug into doses. [@1] Along with the drug and packaging, they took
+hashish, the resin form of cannabis. [@2,6] Officers also seized material for
+packaging the drug into doses. [@1,6] Along with the drug and packaging, they took
 540 euros in cash, which they described as the likely proceeds of the illegal
-activity. [@3]
+activity. [@3,6]
 
 The operation fell within the Carabinieri's activity against drug dealing in the
 area, Occhi su Salerno reported. [@4] The accusations were made at the
 preliminary investigation stage, and the man's responsibility must still be
-established in court. [@4]
-
+established in court. [@4,6]
