@@ -66,6 +66,16 @@ media:
     media_url: https://d2qguj6kgh5ce1.cloudfront.net/wp-content/uploads/2026/11/3-10-1024x993.webp
     publisher: El Faro Motril
     caption: 'The marijuana plantation seized by the Guardia Civil and Vigilancia Aduanera in Vélez de Benaudalla, in the press-office image captioned ''Plantación incautada por las fuerzas de seguridad (Gabinete)''. Photo: Gabinete (Guardia Civil)'
+  - kind: photo
+    url: https://www.theolivepress.es/spain-news/2026/11/19/police-smash-huge-cannabis-farm-in-granada-province/
+    media_url: https://www.theolivepress.es/wp-content/uploads/2026/11/granada-marijuana-farm.jpg
+    publisher: Olive Press News Spain
+    caption: 'Officers search the huge greenhouse in Granada province on November 9, in the handout photo published with the Olive Press account. Photo: Guardia Civil/Agencia Tributaria.'
+  - kind: video
+    url: https://www.theolivepress.es/spain-news/2026/11/19/police-smash-huge-cannabis-farm-in-granada-province/
+    media_url: https://www.youtube.com/embed/SA-nRyCBjwo
+    publisher: Olive Press News Spain
+    caption: Raid footage showing officers moving through thickets of cannabis plants while searching the Velez de Benaudalla greenhouse.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 4cfdd09de28013e4405eb67bdc2e73e4
@@ -111,6 +121,10 @@ sources:
     publisher: Granada es Noticia
     date: 2026-11-18
     language: es
+  - title: 'WATCH: POLICE SMASH SPRAWLING 78,000-SQUARE-METRE CANNABIS FARM WITH 3,000 PLANTS IN MAJOR GRANADA DRUGS BUST'
+    url: https://www.theolivepress.es/spain-news/2026/11/19/police-smash-huge-cannabis-farm-in-granada-province/
+    publisher: Olive Press News Spain
+    date: 2026-11-19
 open_questions:
   - The 87 kilograms refers to dried buds; the Guardia Civil's total of more than three tonnes covers the whole plants as well, so the two figures are not added together.
   - One syndicated version of the Europa Press story opened with more than 8,000 plants while its detailed account and the other Guardia Civil-based reports give 3,080; the report uses 3,080.
@@ -127,21 +141,21 @@ The Guardia Civil and the Tax Agency's Customs Surveillance Service (Vigilancia
 Aduanera) ran a joint operation, Nazarí-Alcazaba 07, against illegal cannabis
 cultivation in Vélez de Benaudalla, in Granada province. [@2,6,7,8] The investigation
 began six months earlier, after the Motril operational unit of Vigilancia
-Aduanera suspected marijuana crops in the area. [@4,6,7,8] Investigators found a
+Aduanera suspected marijuana crops in the area. [@4,6,7,8,9] Investigators found a
 greenhouse used for the full cycle of cultivation, drying and storage of the
-drug. [@3,6,7,8]
+drug. [@3,6,7,8,9]
 
 On 9 November 2026 officers searched the greenhouse, an equipment shed on the
-property and a house in the town, all owned by the same person. [@1,6,7,8] The
-greenhouse covered more than 78,000 square metres. [@1,6,7,8] Officers seized 3,080
+property and a house in the town, all owned by the same person. [@1,6,7,8,9] The
+greenhouse covered more than 78,000 square metres. [@1,6,7,8,9] Officers seized 3,080
 cannabis sativa plants, some up to two metres tall, and about 87 kilograms of
-dried buds. [@2,6,7,8] They also seized an air rifle. [@1,6,7,8] The whole of the marijuana
-seized weighed more than three tonnes, the Guardia Civil said. [@1,6,7,8]
+dried buds. [@2,6,7,8,9] They also seized an air rifle. [@1,6,7,8,9] The whole of the marijuana
+seized weighed more than three tonnes, the Guardia Civil said. [@1,6,7,8,9]
 
 The owner, a 47-year-old man, was arrested on suspicion of a crime against
-public health for cultivating and processing marijuana. [@1,6,7,8] He was placed
+public health for cultivating and processing marijuana. [@1,6,7,8,9] He was placed
 before the civil and instruction section of the Tribunal de Instancia in Motril,
-which was on duty. [@1,6,7,8] The operation was carried out by the ROCA team of the
+which was on duty. [@1,6,7,8,9] The operation was carried out by the ROCA team of the
 Guardia Civil's Motril company and officers of the Motril operational unit of
 Vigilancia Aduanera. [@5,6,7,8] The investigation remains open and officers are trying
-to identify other possible participants. [@5,6,7,8]
+to identify other possible participants. [@5,6,7,8,9]
