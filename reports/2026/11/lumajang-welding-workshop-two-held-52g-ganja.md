@@ -86,10 +86,11 @@ sources:
     publisher: DetikNews.id
     date: 2026-11-19
     language: id
-open_questions:
-  - No figure for the value of the 52.31 grams of ganja was published.
-  - The 6.47 grams of methamphetamine seized alongside the ganja is excluded from the cannabis figures.
-  - It is unclear whether the arrests at the welding workshop occurred on the night of 12 November 2026 or on 18 November 2026.
+  - title: Polisi Tangkap Dua Pria Diduga Pengedar Sabu-Sabu dan Ganja di Lereng Semeru
+    url: https://jatim.jpnn.com/kriminal/50332/polisi-tangkap-dua-pria-diduga-pengedar-sabu-sabu-dan-ganja-di-lereng-semeru?page=2
+    publisher: JPNN.com Jatim
+    date: 2026-11-19
+    language: id
 ---
 
 The narcotics unit of Lumajang district police arrested two men on suspicion of
@@ -102,13 +103,13 @@ them he obtained the cannabis from HI, and officers then tracked HI down and
 searched him. [@2,3,7,8]
 
 Officers seized 52.31 grams of cannabis and 6.47 grams of methamphetamine, both
-gross weights, from the two men. [@1,3,4,5,6,7,8] They also took a silver digital scale, Rp
-15,000 in cash and Rp 200,000 that police believe came from drug sales. [@1,3,4,5,6,8] A
+gross weights, from the two men. [@1,3,4,5,6,7,8,9] They also took a silver digital scale, Rp
+15,000 in cash and Rp 200,000 that police believe came from drug sales. [@1,3,4,5,6,8,9] A
 black Yamaha Vega motorcycle without a licence plate, which belonged to HI, was
-also seized. [@1,3,4,5,6,8]
+also seized. [@1,3,4,5,6,8,9]
 
 Both suspects and the evidence were taken to Lumajang district police
 headquarters for examination and further legal proceedings. [@1,3,5,8] Police said
 both men were accused of narcotics trafficking and possession under Law 35/2009,
-articles 114(1) and 111(1), which carry up to 20 years in prison or life. [@2,3,8]
+articles 114(1) and 111(1), which carry up to 20 years in prison or life. [@2,3,8,9]
 Police said the investigation was continuing. [@1,5]
