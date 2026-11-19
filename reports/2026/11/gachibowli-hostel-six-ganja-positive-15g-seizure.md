@@ -50,29 +50,28 @@ sources:
     publisher: Mana Telangana
     date: 2026-11-19
     language: te
-open_questions:
-    - No formal arrest was stated; the six were handed over to Madhapur Police, so no arrested figure is recorded.
-    - The quantity of pre-rolled cones seized was not given.
-    - No charge sections, pleas or court outcome were reported.
-    - Only first names and ages were published for the six residents.
-    - Whether the three identified alleged suppliers were arrested or charged was not reported.
+  - title: Six test positive for marijuana at Gachibowli men's PG hostel in Telangana Eagle Force raid
+    url: https://telanganatoday.com/six-test-positive-for-marijuana-at-gachibowli-mens-pg-hostel-in-telangana-eagle-force-raid
+    publisher: Telangana Today
+    date: 2026-11-19
+    language: en
 ---
 
 The EAGLE Force carried out a surprise raid at a men's paying-guest hostel in
-Gachibowli, Hyderabad on Thursday, November 19. [@1,2] The team raided Hari Hara
+Gachibowli, Hyderabad on Thursday, November 19. [@1,2,4] The team raided Hari Hara
 Gyaneshwara Men's PG Hostel at Siddiq Nagar in Gachibowli, within Madhapur
-Police Station limits. [@1] Eight residents underwent urine screening, and six
-tested positive for THC, the psychoactive compound in ganja. [@1,2] The six were
+Police Station limits. [@1,4] Eight residents underwent urine screening, and six
+tested positive for THC, the psychoactive compound in ganja. [@1,2,4] The six were
 Jayanth aged 23, Naveen aged 28, Sathish aged 24, Prasanth aged 24, Sidharth
 aged 23 and Nidhin aged 24, with three working as Amazon delivery personnel, two
 as software engineers and one as a pharmacist. [@1] The six residents were
-handed over to Madhapur Police for further legal action. [@1]
+handed over to Madhapur Police for further legal action. [@1,4]
 
 Officers recovered around five grams of ganja from Naveen and another 10 grams
 from Jayanth. [@1,3] The operation seized 15 grams of ganja and pre-rolled cones,
-and three suspected suppliers were identified. [@1,2] Residents allegedly procured
+and three suspected suppliers were identified. [@1,2,4] Residents allegedly procured
 the drug from Babulu Thakur alias Bablu, Thapan and Krishna, paying Rs 600 for a
-five-gram packet. [@1]
+five-gram packet. [@1,4]
 
 Officials are examining information that outsiders visited the hostel late at
 night and allegedly consumed ganja with residents. [@1] The EAGLE team
