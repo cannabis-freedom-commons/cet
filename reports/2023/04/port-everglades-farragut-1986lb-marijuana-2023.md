@@ -64,6 +64,10 @@ sources:
     url: https://www.news.uscg.mil/Press-Releases/Article/3353796/uss-farragut-coast-guard-offloads-more-than-69-million-in-illegal-narcotics/
     publisher: United States Coast Guard News
     date: 2023-04-05
+  - title: $69 million worth of cocaine and marijuana seized at sea
+    url: https://foxchattanooga.com/news/nation-world/69-million-worth-of-cocaine-and-marijuana-seized-at-sea-us-coast-guard-port-everglades-fort-lauderdale-florida
+    publisher: Fox Chattanooga
+    date: 2023-04-06
 open_questions:
   - The $69 million valuation covers cocaine and marijuana together and cannot be separated into a marijuana-only value, so it is kept in the text and omitted from figures.
   - The cocaine quantity is mentioned only as context and excluded from cannabis figures.
@@ -75,10 +79,10 @@ open_questions:
 ---
 
 The U.S. Coast Guard offloaded more than $69 million worth of cocaine and
-marijuana at Port Everglades, Florida, on Tuesday 4 April 2023. [@1] The haul
+marijuana at Port Everglades, Florida, on Tuesday 4 April 2023. [@1,4] The haul
 came from the interdiction of four go-fast smuggling boats by the destroyer USS
-Farragut. [@1] The crew seized 1,986 pounds of marijuana, about 901 kilograms of
-cannabis, alongside 2,314 kilograms of cocaine. [@1] The Coast Guard put the
+Farragut. [@1,4] The crew seized 1,986 pounds of marijuana, about 901 kilograms of
+cannabis, alongside 2,314 kilograms of cocaine. [@1,4] The Coast Guard put the
 combined value of the cocaine and marijuana at $69 million, not a marijuana-only
 figure. [@1]
 
@@ -98,4 +102,3 @@ law enforcement phase of counter-smuggling operations in the Eastern Pacific is
 conducted under the authority of the Eleventh Coast Guard District,
 headquartered in Alameda, California, and the boardings are led by Coast Guard
 members. [@3] CBS12 reported the offload took place on 4 April 2023. [@2]
-
