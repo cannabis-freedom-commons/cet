@@ -41,6 +41,11 @@ sources:
     publisher: SIPSE.com
     date: 2026-11-18
     language: es
+  - title: Cae hombre con presunta marihuana durante operativo en Cancún
+    url: https://depeso.com/quintana-roo/cancun/cae-hombre-con-presunta-marihuana-durante-operativo-en-cancun/
+    publisher: DePeso
+    date: 2026-11-18
+    language: es
 open_questions:
   - No weight, dose count or value was published for the suspected marijuana, only that it was several small bags.
   - The herb was described as green and dry with characteristics similar to marijuana; no laboratory confirmation was reported.
@@ -53,7 +58,7 @@ open_questions:
 Police detained a 38-year-old man in Supermanzana 516, Cancún, on suspicion of
 health crimes in the form of narcomenudeo, small-scale drug dealing, after
 finding several small bags of green, dry herb with characteristics similar to
-marijuana. [@1] The detention of Eulises “N” took place on 18 November 2026 as
+marijuana. [@1,2] The detention of Eulises “N” took place on 18 November 2026 as
 part of Operativo Blindaje Cancún, a security strategy to combat crime and
 reinforce surveillance in Benito Juárez municipality. [@1] According to the
 official report, officers inspected the man during the intervention and secured
@@ -61,16 +66,15 @@ the bags containing the suspected drug. [@1]
 
 Cancún police acted with the Secretariat of National Defence, the Secretariat of
 the Navy, the National Guard and agents of the state prosecutor's office
-(Fiscalía General del Estado). [@1] The intervention is part of joint
+(Fiscalía General del Estado). [@1,2] The intervention is part of joint
 deployments by security agencies in Cancún to detect and address possible
 narcomenudeo activity. [@1] Authorities did not publish how much suspected
 marijuana was seized or the specific circumstances of the detention. [@1]
 
 The man was taken and placed at the disposal of the Fiscalía Especializada en
 Combate al Delito de Narcomenudeo, the state's specialised narcomenudeo
-prosecutor, with the substances found in the inspection. [@1] The prosecutor's
+prosecutor, with the substances found in the inspection. [@1,2] The prosecutor's
 office will build the investigation file, carry out the corresponding inquiries
 and determine his legal situation under legal procedure. [@1] He is considered
 innocent until a judicial authority declares his responsibility in a sentence.
 [@1]
-
