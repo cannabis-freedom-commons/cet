@@ -76,29 +76,31 @@ sources:
     publisher: Las Provincias
     date: 2026-11-19
     language: es
-open_questions:
-  - No dried weight or value for the 244 plants was reported, and no laboratory confirmation of the plants as cannabis was mentioned.
-  - No court outcome, trial date or detention measure was reported after the case was handed to the investigating court in Sueca.
+  - title: La Guardia Civil desmantela una plantación de 244 plantas de marihuana en la vivienda de una pareja en Tavernes (Valencia)
+    url: https://www.20minutos.es/comunidad-valenciana/valencia/guardia-civil-desmantela-una-plantacion-244-plantas-marihuana-vivienda-una-pareja-tavernes-valencia_7063061_0.html
+    publisher: 20minutos
+    date: 2026-11-19
+    language: es
 ---
 
 Guardia Civil detained a man and a woman in Tavernes de la Valldigna, in
-Valencia province, over a marijuana plantation inside their home. [@2,3] The two
+Valencia province, over a marijuana plantation inside their home. [@2,3,4] The two
 residents, both 32-year-old Spanish nationals, were imputed with a public-health
 offence for cultivating marijuana and another for defrauding the electricity
-supply. [@2,3]
+supply. [@2,3,4]
 
 Investigators had learned in September that marijuana might be grown at a home
-in Tavernes de la Valldigna. [@1] Surveillance identified a couple with three
+in Tavernes de la Valldigna. [@1,4] Surveillance identified a couple with three
 children, with no known work or stable pattern of coming and going. [@1,3] Checks
 from elevated positions showed many air-conditioning units, and officers smelled
 strong marijuana when certain doors were opened. [@1,3] An electricity-company
 technician found an illegal hook-up and a reading of 40 amps, where a house of
 that size would normally draw about 5. [@1,3] On 5 November an entry and search
-was authorised and officers found 244 marijuana plants inside the home. [@1,3]
+was authorised and officers found 244 marijuana plants inside the home. [@1,3,4]
 They also found sophisticated growing equipment with filters that eliminated
 outside odours and about 950 euros in notes hidden in an envelope behind a
-cupboard. [@1,3]
+cupboard. [@1,3,4]
 
 The investigation was carried out by agents of the Guardia Civil post in
 Tavernes de la Valldigna and the case was sent to an investigating court in
-Sueca. [@2,3]
+Sueca. [@2,3,4]
