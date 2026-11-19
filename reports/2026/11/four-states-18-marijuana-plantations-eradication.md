@@ -138,12 +138,17 @@ sources:
     publisher: NVI Noticias
     date: 2026-11-16
     language: es
+  - title: Desmantelan más de 20 plantíos de mariguana y amapola en regiones de Durango, Chihuahua y Sinaloa
+    url: https://www.infobae.com/mexico/2026/11/19/desmantelan-mas-de-20-plantios-de-mariguana-y-amapola-en-regiones-de-durango-chihuahua-y-sinaloa/
+    publisher: Infobae
+    date: 2026-11-18
+    language: es
 open_questions:
   - The per-crop areas newly reported (3.46 hectares of poppy and 0.83 hectares of marijuana) add up to 4.29 hectares, less than the 4.9-hectare total given for the same operation, with no explanation reported.
 ---
 
 The operations were carried out on 13 November 2026 through ground and air
-reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6,7,9,10,11,13,14,15,16] Soldiers
+reconnaissance patrols in Chihuahua, Oaxaca, Durango and Sinaloa. [@3,6,7,9,10,11,13,14,15,16,17] Soldiers
 of the Mexican Army and Air Force located and destroyed 38 drug plantations in
 four states as part of operations against narcotics production. [@3,4,5,6,8,9,10,11,12,13,14,16] The crops were destroyed by incineration and aerial fumigation. [@12] Of the 38
 plantations, 20 were poppy crops and 18 were marijuana crops, together covering
@@ -156,6 +161,6 @@ destroying the crops at 6,020,000 pesos. [@3,4,5,6,7,8,9,10,11,13,14,15,16] The 
 operation on 14 November through its official channels. [@2]
 
 No arrests linked to the plantations and no criminal groups allegedly
-responsible for them were reported. [@2] The authorities did not say how many of
+responsible for them were reported. [@2,17] The authorities did not say how many of
 the plantations were destroyed in each state or how the area was divided between
 them. [@2,11,15]
