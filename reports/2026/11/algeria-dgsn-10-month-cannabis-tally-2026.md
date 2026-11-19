@@ -75,6 +75,11 @@ sources:
     publisher: أوراس
     date: 2026-11-14
     language: ar
+  - title: 'وزير الداخلية الجزائري معقبا على خطاب الرئيس تبون: نتعرض لهجمات متعددة من دول في الجوار لزعزعة استقرارنا'
+    url: https://www.alquds.co.uk/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%85%D8%B9%D9%82%D8%A8%D8%A7-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7%D8%A7%D8%A8/comment-page-3/
+    publisher: القدس العربي
+    date: 2026-11-16
+    language: ar
 media:
   - kind: photo
     url: https://www.elkhabar.com/societe/%D8%AD%D8%AC%D8%B2-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AE%D9%84%D8%A7%D9%84-10-%D8%A3%D8%B4%D9%87%D8%B1-276196
@@ -92,9 +97,9 @@ cadres chaired by Ibrahim Murad, the Minister of State for the Interior and
 Local Communities. [@1,4] El Massa reports that the meeting took place at the Higher Police School Ali Tounsi in Algiers, where Ibrahim Murad opened the national guidance meeting of senior National Security cadres. [@5]
 
 Badaoui announced that the police seized more than 5 tonnes and 800 kg of
-cannabis, or 5.8 tonnes, between 1 January and 31 October 2026. [@1,3,5,6,7,8] The same
+cannabis, or 5.8 tonnes, between 1 January and 31 October 2026. [@1,3,5,6,7,8,9] The same
 ten-month haul included more than 874 kg of cocaine and about 31 million
-psychotropic tablets, which are not counted as cannabis. [@1,5,7,8] A second outlet
+psychotropic tablets, which are not counted as cannabis. [@1,5,7,8,9] A second outlet
 gives the same ten-month seizure totals: more than 874 kg of cocaine, more than
 5 tonnes and 800 kg of cannabis and about 31 million psychotropic tablets. [@2]
 
