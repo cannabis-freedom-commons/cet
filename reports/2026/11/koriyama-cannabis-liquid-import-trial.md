@@ -71,6 +71,11 @@ sources:
     publisher: 47NEWS
     date: 2026-11-19
     language: ja
+  - title: 起訴内容認める　大麻リキッド密輸事件の初公判
+    url: https://www.minpo.jp/articles/-/278457
+    publisher: 福島民報デジタル
+    date: 2026-11-19
+    language: ja
 open_questions:
     - The 2,570-gram quantity and 25-million-yen value were published at the July 2026 arrest stage and were not repeated at the first hearing.
     - The liquid is described only as cannabis liquid; no THC concentration or laboratory analysis was reported.
@@ -89,7 +94,7 @@ from Koriyama, to eight years in prison and a two-million-yen fine for importing
 cannabis liquid for profit. [@1] Prosecutors also asked for the cannabis liquid to be confiscated, and the hearing was concluded the same day. [@5] They said he received part of the imported
 liquid as a reward and sent most of it to locations he was instructed to use,
 and called his role important. [@1] In their closing argument, prosecutors called the conduct habitual and malicious, saying he had drawn in family members who knew nothing, and that his responsibility was heavy. [@5] Hayakawa admitted the charges at his first
-hearing on 18 November 2026. [@1,5] The first hearing was held at the Koriyama branch of the district court, with Judge Yoji Shimoyama presiding. [@6] His lawyers asked for a suspended sentence.
+hearing on 18 November 2026. [@1,5,7] The first hearing was held at the Koriyama branch of the district court, with Judge Yoji Shimoyama presiding. [@6] His lawyers asked for a suspended sentence.
 [@1,5] The court is due to deliver judgment on 7 January 2027. [@1,5]
 
 Hayakawa was charged over imports carried out for profit over more than two
