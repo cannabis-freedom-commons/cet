@@ -51,27 +51,31 @@ sources:
     publisher: Jagonews24.com
     date: 2026-11-19
     language: bn
+  - title: ২৬ কেজি গাঁজাসহ যুবক গ্রেপ্তার
+    url: https://www.banglanews24.com/daily-chittagong/news/bd/1694510.details
+    publisher: Banglanews24
+    date: 2026-11-19
+    language: bn
 open_questions:
-  - The whole account rests on a single Jagonews24 report of the SRB-7 press release, with no second outlet account found.
-  - The material was described as ganja with no laboratory confirmation reported.
-  - No charges, pleas or court outcome were reported; the case was handed to the thana police for further legal action.
-  - The 260,000-taka figure is the reported estimated market value, not a confirmed sale price.
+    - The material was described as ganja with no laboratory confirmation reported.
+    - No charges, pleas or court outcome were reported; the case was handed to the thana police for further legal action.
+    - The 260,000-taka figure is the reported estimated market value, not a confirmed sale price.
+    - Both published accounts trace to the same SRB-7 press release and its spokesperson, so they are not independent reporting.
 ---
 
 Special Response Battalion (SRB) 7 arrested 35-year-old Md. Zahedul Alam with 26
-kg of ganja from a flat in Chandgaon in Chattogram city. [@1] The raid took
+kg of ganja from a flat in Chandgaon in Chattogram city. [@1,2] The raid took
 place at about 1:30 at night on 18 November on the second floor of a building in
-the Rahattarpul area. [@1] The arrested man is the son of Md. Manjur Alam of the
-same area. [@1]
+the Rahattarpul area. [@1,2] The arrested man is the son of Md. Manjur Alam of the
+same area. [@1,2]
 
 SRB-7 said it had received secret information that ganja was stored in a
 second-floor room of Manjur Building west of Sona Pukur on Rahattarpul Jame
-Masjid lane, and detained Zahedul Alam in the resulting raid. [@1] Officers
+Masjid lane, and detained Zahedul Alam in the resulting raid. [@1,2] SRB-7 said the information was that the ganja was being kept there for sale. [@2] Officers
 later recovered the 26 kg of ganja from two white plastic sacks kept behind the
-bed in the flat's bedroom. [@1] SRB-7 put the estimated market value of the
-seized ganja at 260,000 taka. [@1]
+bed in the flat's bedroom. [@1,2] SRB-7 put the estimated market value of the
+seized ganja at 260,000 taka. [@1,2]
 
 SRB-7 announced the seizure and arrest in a press release on 19 November. [@1]
 The detained man and the recovered drugs were handed to the concerned thana
-police for further legal action. [@1]
-
+police for further legal action. [@1,2]
