@@ -35,6 +35,11 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-19
     language: ar
+  - title: '"جايباله حشيش وترامادول".. ضبط زوجة إسلام كابونجا أثناء زيارتها له بالسجن - تليجراف مصر'
+    url: https://www.egypttelegraph.com/article/297463/%D8%AC%D8%A7%D9%8A%D8%A8%D8%A7%D9%84%D9%87-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A7%D8%AF%D9%88%D9%84-%D8%B6%D8%A8%D8%B7-%D8%B2%D9%88%D8%AC%D8%A9-%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%83%D8%A7%D8%A8%D9%88%D9%86%D8%AC%D8%A7
+    publisher: تليجراف مصر
+    date: 2026-11-19
+    language: ar
 open_questions:
     - No weight was published for the large piece of hashish, so no cannabis quantity is recorded.
     - The visit search also found 52 tramadol pills and four mobile phones, which are not counted in the cannabis figures.
@@ -46,17 +51,17 @@ open_questions:
 
 Detectives at the October Correction Centre in Giza arrested M. S., the wife of
 mahraganat singer Islam Kabonga, while she was visiting her detained husband.
-[@1,2,3] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3] The Giza security directorate said Assistant Minister for Giza Security
+[@1,2,3,4] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3] The Giza security directorate said Assistant Minister for Giza Security
 Maj. Gen. Hatem Hassan received a notification of the incident from Maj. Gen.
 Hany Shaarawy, deputy director of criminal investigations. [@1,2] She had brought
 visit goods for her husband, and officers searched those goods during the visit.
 [@1]
 
 The search found four Nokia mobile phones, one large piece of hashish and 52
-tramadol pills. [@1,2,3] The seized phones were Nokia handsets, the hashish was
+tramadol pills. [@1,2,3,4] The seized phones were Nokia handsets, the hashish was
 described as a large piece and the tramadol as narcotic pills intended to be
 brought to her husband. [@1] When confronted, she admitted that she possessed
-the seized items in order to bring them in to her husband. [@1,2]
+the seized items in order to bring them in to her husband. [@1,2,4]
 
 Police filed a report on the incident after the arrest at the correction centre.
-[@1,3] The prosecution took over the investigation of the case. [@1,2] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3]
+[@1,3] The prosecution took over the investigation of the case. [@1,2,4] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3]
