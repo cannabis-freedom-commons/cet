@@ -59,6 +59,11 @@ sources:
     publisher: BR104
     date: 2026-11-11
     language: pt
+  - title: Polícia Militar destrói mais de 71 mil pés de maconha no Sertão de Pernambuco
+    url: https://www.jetss.com.br/policia-militar-destroi-mais-de-71-mil-pes-de-maconha-no-sertao-de-pernambuco/
+    publisher: JETSS ENTRETENIMENTO
+    date: 2026-11-19
+    language: pt
 open_questions:
     - The cannabis weight is reported as approximately 165 grams, with no laboratory confirmation published.
     - The PCC membership rests on what the suspect told police, with no independent confirmation reported.
@@ -72,17 +77,17 @@ A 26-year-old man was arrested in flagrante for drug trafficking and illegal
 firearm possession on Monday 9 November 2026 in Caruaru, in the Agreste of
 Pernambuco. [@1] Police identified him as Ediocleiton Edson Santos Lopes, known
 as "João Cleiton", and the Civil Police point to him as one of the main
-suppliers of crack and flower-type cannabis in the municipality. [@1] The arrest
+suppliers of crack and flower-type cannabis in the municipality. [@1,4] The arrest
 was carried out by teams of the 7ª Delegacia de Repressão ao Narcotráfico
 (DPRN/DENARC), the Civil Police narcotics unit, which had been investigating his
 drug dealing in the city. [@2]
 
 During the operation officers found about 165 grams of flower-type cannabis and
-a .380 calibre pistol with its serial number scraped off. [@1,3] The pistol was an IMBEL .380 and was loaded and ready for use. [@3] They also seized
+a .380 calibre pistol with its serial number scraped off. [@1,3,4] The pistol was an IMBEL .380 and was loaded and ready for use. [@3] They also seized
 two magazines, ten rounds of ammunition, two notebooks with drug-trafficking
 accounting notes and a mobile phone. [@2,3] According to the police, the suspect
 told officers he belongs to the Primeiro Comando da Capital (PCC), a criminal
-faction, and said he received its baptism in Rio de Janeiro. [@1]
+faction, and said he received its baptism in Rio de Janeiro. [@1,4]
 
 According to the judicial decision that authorised the arrest warrant,
 Ediocleiton was a fugitive from the prison system and was already being
