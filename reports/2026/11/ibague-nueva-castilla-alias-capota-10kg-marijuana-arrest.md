@@ -53,29 +53,28 @@ sources:
     publisher: Tolima7dias.com.co
     date: 2026-11-19
     language: es
-open_questions:
-  - No separate date for the arrest was published; 19 November 2026 is the publication date of all three reports and stands in for the incident date.
-  - The amount was reported only as approximately 10 kilos or about 10,000 grams, not an exact measured weight.
-  - The reports describe the substance as marijuana with no laboratory confirmation reported.
-  - No cannabis-specific charge or plea was reported beyond detention and referral to the Fiscalía while the case proceeds.
+  - title: Capturan en Ibagué a alias ‘Capota’ con 10 kilos de marihuana en Nueva Castilla
+    url: https://www.ecosdelcombeima.com/judicial/nota-198036-capturan-en-ibague-alias-capota-con-10-kilos-de-marihuana-en-nueva-castilla
+    publisher: Ecos del Combeima
+    date: 2026-11-19
+    language: es
 ---
 
 In Ibagué, officers of the Metropolitan Police detained a 35-year-old man known
 as alias ‘Capota’ in the Nueva Castilla neighbourhood while he was carrying
-close to 10 kilos of marijuana in a bag. [@2] Officers from surveillance patrol
+close to 10 kilos of marijuana in a bag. [@2,4] Officers from surveillance patrol
 23 of the CAI Jardín stopped him at Calle 123 with Carrera 4 during routine
-checks and verifications of people. [@1] He tried to flee when he noticed the
+checks and verifications of people. [@1,4] He tried to flee when he noticed the
 officers but was intercepted a few metres away. [@1]
 
 During the search officers found about 10 kilograms of marijuana inside the bag,
-which they seized and placed under chain of custody. [@1] A background check
+which they seized and placed under chain of custody. [@1,4] A background check
 showed he had an outstanding judicial order for aggravated homicide and for
-manufacture, trafficking and possession of firearms or ammunition. [@1]
+manufacture, trafficking and possession of firearms or ammunition. [@1,4]
 
 The detainee and the seized substance were placed at the disposal of the
-Attorney General’s Office. [@1] A guarantees judge later imposed pretrial
+Attorney General’s Office. [@1,4] A guarantees judge later imposed pretrial
 detention in a prison facility while the criminal case against him continues.
 [@2] The operation was carried out by members of surveillance patrol 23 of the
 CAI Jardín, as reported by Major Arnold Leyton Mopan, commander of the North
 Police Station. [@3]
-
