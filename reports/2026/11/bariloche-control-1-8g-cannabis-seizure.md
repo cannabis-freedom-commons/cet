@@ -54,6 +54,11 @@ sources:
     publisher: Gobierno de Río Negro
     date: 2026-11-18
     language: es
+  - title: Secuestraron cocaína en pleno centro y detuvieron a un hombre por hurto
+    url: https://www.barilocheopina.com/noticias/2026/11/19/97533-secuestraron-cocaina-en-pleno-centro-y-detuvieron-a-un-hombre-por-hurto
+    publisher: BarilocheOpina
+    date: 2026-11-19
+    language: es
 open_questions:
   - ANBariloche dates the control to Tuesday night, 17 November 2026, while El Cordillerano calls it Wednesday night; the provincial bulletin published 18 November gives only the 21:10 start time. 18 November is used as the incident date.
   - No one was reported arrested or charged in the drug seizure, and no court outcome was given.
@@ -64,18 +69,17 @@ open_questions:
 A nighttime police control in central Bariloche ended with the seizure of
 cocaine and marijuana. [@1] The procedure began around 21:10 when officers of
 Comisaría 2° patrolling the Moreno and Morales area identified two men
-travelling in a Ford Fiesta through the zone. [@1] The substances were found
-among the belongings of one of the occupants of the car. [@1]
+travelling in a Ford Fiesta through the zone. [@1,4] The substances were found
+among the belongings of one of the occupants of the car. [@1,4]
 
 During a preventive pat-down the officers noticed bulges in one man's pockets,
 and on inspecting them found two wrappings of suspicious substances, at which
 point they called the Toxicomanía unit to perform field tests. [@1] The field
-tests confirmed 1.8 grams of cannabis and 14.4 grams of cocaine. [@1] Seven
+tests confirmed 1.8 grams of cannabis and 14.4 grams of cocaine. [@1,4] Seven
 pills that were also examined returned negative results for the substances being
-sought. [@1]
+sought. [@1,4]
 
 With the intervention of the federal judicial authority, officers requested a
 warrant to search the Ford Fiesta. [@3] The Ford Fiesta inspection yielded no
-further items of interest. [@2] The substances were formally seized and
+further items of interest. [@2,4] The substances were formally seized and
 proceedings were opened with federal court involvement. [@2]
-
