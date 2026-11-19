@@ -64,13 +64,24 @@ sources:
     publisher: Lagatar
     date: 2026-11-19
     language: hi
+  - title: 'गुमला: 18 किलो गांजा के साथ यूपी का युवक गिरफ्तार, एक सहयोगी फरार'
+    url: https://newswavejharkhand.com/gumla-18-kg-ganja-seized-up-youth-arrested-kharka-river/
+    publisher: Newswave Jharkhand
+    date: 2026-11-19
+    language: hi
+  - title: 'Gumla News: गुमला में 18 किलो गांजा के साथ उत्तर प्रदेश का युवक गिरफ्तार, पुलिस ने कार भी की जब्त'
+    url: https://thenewskhazana.com/jharkhand-2/gumla-news-69494/
+    publisher: The News Khazana
+    date: 2026-11-19
+    language: hi
 open_questions:
-  - The raid happened on the night before the 19 November publication at about 7:45 pm, so 18 November 2026 is used as the incident date and remains approximate.
-  - The 9 lakh rupee figure is the police estimate reported in the article, with no independent valuation.
-  - The material was described only as ganja in taped packets, with no laboratory confirmation reported.
-  - The absconding companion was not named and no further arrest was reported.
-  - No court outcome beyond registration of the NDPS case was reported.
-  - The Gwalior Express page credits Bhaskar and is not independent reporting.
+    - The raid happened on the night before the 19 November publication at about 7:45 pm, so 18 November 2026 is used as the incident date and remains approximate.
+    - The 9 lakh rupee figure is the police estimate reported in the article, with no independent valuation.
+    - The material was described only as ganja in taped packets, with no laboratory confirmation reported.
+    - The absconding companion was not named and no further arrest was reported.
+    - The arrested accused was sent to jail in judicial custody, but no plea, trial outcome or further court order was reported.
+    - The Gwalior Express page credits Bhaskar and is not independent reporting.
+    - It remains unclear whether the arrested Sapnavat resident is Anil Kumar or Prithvi Rana.
 media:
   - kind: photo
     url: https://lagatar.in/gumla-news-18-kg-of-ganja-seized-from-a-car-in-gumla
@@ -80,17 +91,17 @@ media:
 ---
 
 Police arrested Uttar Pradesh resident Prithvi Rana in Gumla. [@2,4] Police said
-one companion of Rana fled from the spot. [@2,4] Police registered case number
+one companion of Rana fled from the spot. [@2,4,6] Police registered case number
 444/26 at Gumla police station. [@2,4] Police booked the accused under the NDPS
 Act. [@2] Police identified Rana as a resident of Sapnavat village, Kapurpur,
 Hapur in Uttar Pradesh. [@2] Rana told interrogators that his companion had gone
-home. [@2] Police said raids were continuing to catch the companion. [@2]
+home. [@2] Police said raids were continuing to catch the companion. [@2] The arrested accused was sent to jail in judicial custody after completing the required legal process. [@6]
 
 Officers seized 18 kilograms of ganja from a car near the Kharka river in the
-Toto police station area. [@1,4] Police valued the seized ganja at about 9 lakh
-rupees. [@1,4] The team searched a white car. [@2,4] Officers found ganja with brown
+Toto police station area. [@1,4,5] Police valued the seized ganja at about 9 lakh
+rupees. [@1,4] The team searched a white car. [@2,4,5] Officers found ganja with brown
 tape inside a white plastic sack in the car's dickey. [@2] The ganja was packed
-as eighteen one-kilogram packets. [@2,4] The vehicle check followed information
+as eighteen one-kilogram packets. [@2,4,6] The vehicle check followed information
 received by the superintendent of police and took place at about 7:45 pm on the
 previous night. [@3] Gumla SDPO Suresh Prasad Yadav led the check with station
 house officer Dinesh Kumar's team. [@2]
