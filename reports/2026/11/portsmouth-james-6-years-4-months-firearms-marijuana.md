@@ -54,14 +54,18 @@ sources:
     url: https://gsmglobalnews.com/article/d20261117-gap1520-portsmouth1.html
     publisher: GSM Global
     date: 2026-11-17
+  - title: Portsmouth marijuana trafficker sentenced to more than 6 years in prison
+    url: https://www.msn.com/en-us/news/other/portsmouth-marijuana-trafficker-sentenced-to-more-than-6-years-in-prison/ar-AA2hNvMZ
+    publisher: MSN (WVEC-TV Norfolk)
+    date: 2026-11-19
 open_questions:
-  - No quantity of marijuana is given for the conspiracy, so no weight is recorded.
-  - No marijuana was reported seized in the case and the accounts give no dates for the drug distribution itself.
-  - The six-year-four-month term is one aggregate sentence for the firearms and drug counts; the accounts do not break it down by count.
-  - WAVY reports the term as 'over six years' while the U.S. Attorney's Office statement gives six years and four months; the precise figure is used.
-  - The accounts do not say whether James pleaded guilty or went to trial, or whether he will appeal.
-  - The sentencing is placed in Norfolk on the strength of the WAVY dateline; the accounts do not state the courtroom.
-  - The accounts do not report whether Isaiah Sincere Wilson has been sentenced in the connected case.
+    - No quantity of marijuana is given for the conspiracy, so no weight is recorded.
+    - No marijuana was reported seized in the case and the accounts give no dates for the drug distribution itself.
+    - The six-year-four-month term is one aggregate sentence for the firearms and drug counts; the accounts do not break it down by count.
+    - WAVY reports the term as 'over six years' while the U.S. Attorney's Office statement gives six years and four months; the precise figure is used.
+    - The accounts do not say whether James pleaded guilty or went to trial, or whether he will appeal.
+    - The sentencing is placed in Norfolk on the strength of the WAVY dateline; the accounts do not state the courtroom.
+    - The new MSN/WVEC account reports that Wilson was convicted and previously sentenced in May 2026 for straw purchasing firearms, but its account ends mid-sentence and gives no sentence length or further detail, so the full disposition of Wilson's case remains unconfirmed.
 ---
 
 Dyron Antonio James II, 24, of Portsmouth, Virginia, was sentenced on 17
@@ -71,19 +75,18 @@ and conspiracy to distribute a controlled substance. [@2] U.S. District Judge
 Elizabeth W. Hanes imposed the sentence. [@3]
 
 Court documents described James as a marijuana dealer and the supplier of
-marijuana to Isaiah Sincere Wilson. [@1] From June 2023 to April 2025, James and
+marijuana to Isaiah Sincere Wilson. [@1,4] Isiah Sincere Wilson was convicted and previously sentenced in May 2026 for straw purchasing firearms. [@4] From June 2023 to April 2025, James and
 Wilson bought or attempted to buy numerous guns for third parties, including
 while James was under indictment on state firearms and drug charges of which he
-was convicted. [@1]
+was convicted. [@1,4]
 
 Prosecutors said six instances of gun violence were attributable to four of the
-firearms purchased by James and Wilson. [@3] One was used in a shooting into an
+firearms purchased by James and Wilson. [@3,4] One was used in a shooting into an
 occupied dwelling on 12 May 2024, in which several apartments were struck and
-officers recovered 23 shell casings outside the building. [@3] Another was
+officers recovered 23 shell casings outside the building. [@3,4] Another was
 recovered after a 27 December 2023 incident in which a group of individuals shot
 into a vehicle in an apparent act of gang violence. [@3]
 
 First Assistant U.S. Attorney Theophani K. Stamos and ATF Special Agent in
 Charge Anthony A. Spotswood announced the sentence. [@3] Assistant U.S. Attorney
 Clayton D. LaForge prosecuted the case, No. 2:26-cr-64. [@3]
-
