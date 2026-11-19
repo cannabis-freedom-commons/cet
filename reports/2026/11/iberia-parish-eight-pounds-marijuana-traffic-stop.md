@@ -55,6 +55,9 @@ sources:
     url: https://www.klfy.com/local/iberia-parish/drug-arrest-leads-to-eight-pounds-of-marijuana-seized/amp/
     publisher: KLFY.com
     date: 2026-11-18
+  - title: Louisiana drug arrest leads to 8 pounds of narcotics seized
+    url: https://www.msn.com/en-us/news/other/louisiana-drug-arrest-leads-to-8-pounds-of-narcotics-seized/ar-AA2hMr1n
+    publisher: MSN
 open_questions:
   - The report lists a $75,000 bond for the possession count and $2,500 for the paraphernalia count, but also says no information on Landry's bond had been released.
   - The material was described only as marijuana, with no laboratory confirmation reported, and the amount is given as approximately eight pounds, converted here to 3.63 kilograms.
@@ -66,18 +69,17 @@ open_questions:
 
 Iberia Parish sheriff's deputies were investigating illegal drug activity when
 they stopped a vehicle near the intersection of Highway 88 and West Admiral
-Doyle Drive in Iberia Parish, Louisiana, on 17 November 2026. [@1] The driver
-was identified as Kenneth Landry Jr. [@1] During the stop deputies reported
+Doyle Drive in Iberia Parish, Louisiana, on 17 November 2026. [@1,3] The driver
+was identified as Kenneth Landry Jr. [@1,3] During the stop deputies reported
 smelling marijuana from the vehicle, and a K-9 later detected the presence of
-narcotics. [@1]
+narcotics. [@1,3]
 
 A search of the vehicle led investigators to a large package holding seven
 vacuum-sealed bags with approximately eight pounds (3.63 kilograms) of
-marijuana, the Iberia Parish Sheriff's Office said. [@1] Deputies arrested
+marijuana, the Iberia Parish Sheriff's Office said. [@1,3] Deputies arrested
 Landry and booked him into the Iberia Parish Jail. [@1] He was booked on
 possession with intent to distribute a Schedule I drug. [@2] The jail list also
 included a distribution of drug paraphernalia charge and a
 driver-must-be-licensed violation. [@1] The list attached a $75,000 bond to the
 possession count and $2,500 to the paraphernalia count, although the same report
 said no information on Landry's bond had been released. [@1]
-
