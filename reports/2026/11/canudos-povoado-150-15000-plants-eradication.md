@@ -141,6 +141,11 @@ sources:
     publisher: Ilhéus Eventos
     date: 2026-11-18
     language: pt
+  - title: Polícias Civil e Militar erradicam 15 mil pés de maconha na Bahia
+    url: https://www.agorasudoeste.com.br/noticias/canudos/policias-civil-e-militar-erradicam-15-mil-pes-de-maconha-na-bahia
+    publisher: Agora Sudoeste
+    date: 2026-11-19
+    language: pt
 open_questions:
     - No suspect has been named, and no one was found at the site; police said those responsible were not located during the operation.
     - The precise location of Povoado 150 is not described beyond the name; the Euclides da Cunha portal places it at Setor II do Povoado Núcleo II - 150, a designation the other accounts do not use.
@@ -153,15 +158,15 @@ open_questions:
 ---
 
 Civil and Military Police in Bahia found and destroyed a cannabis plantation in
-rural Canudos on Tuesday 17 November 2026. [@1,5,6,7,8,9,10,11,14] The plantation was at a place
+rural Canudos on Tuesday 17 November 2026. [@1,5,6,7,8,9,10,11,14,15] The plantation was at a place
 known as Povoado 150 and was found after intelligence work by the state security
-forces. [@1,5,6,7,8,9,10] The operation began with a tip-off confirmed by the Civil Police's investigation service. [@12] The operation took place in an area of difficult access close to the centre of the municipality. [@11] No one was arrested at the site, and the Civil and Military Police
+forces. [@1,5,6,7,8,9,10,15] The operation began with a tip-off confirmed by the Civil Police's investigation service. [@12] The operation took place in an area of difficult access close to the centre of the municipality. [@11] No one was arrested at the site, and the Civil and Military Police
 said inquiries were continuing to identify and arrest those responsible. [@2,5,7,9,11,12,13]
 
 Officers used drones to find the crop and reach the clearing, then uprooted and
-burned the plants. [@1,5,6,7,8,9,10,11,13,14] After forensic examination by the Technical Police Department (DPT), all the material was burned at the site. [@12] The security secretariat said the state forces found
-15,000 cannabis plants at the site. [@2,5,6,7,9,10,14] At the site officers also found about 1,500 kilograms of dried cannabis ready for sale, the Civil Police said. [@12] Officers also destroyed sleeping
-quarters and an irrigation system used to keep the plantation running. [@3,5,6,7,8,9,10,13,14] The Civil Police estimated the loss to the criminal group at about 10 million reais. [@12] Officers found camps with structures for drying and pressing the drug and several agricultural implements used in the cultivation. [@12]
+burned the plants. [@1,5,6,7,8,9,10,11,13,14,15] After forensic examination by the Technical Police Department (DPT), all the material was burned at the site. [@12] The security secretariat said the state forces found
+15,000 cannabis plants at the site. [@2,5,6,7,9,10,14,15] At the site officers also found about 1,500 kilograms of dried cannabis ready for sale, the Civil Police said. [@12] Officers also destroyed sleeping
+quarters and an irrigation system used to keep the plantation running. [@3,5,6,7,8,9,10,13,14,15] The Civil Police estimated the loss to the criminal group at about 10 million reais. [@12] Officers found camps with structures for drying and pressing the drug and several agricultural implements used in the cultivation. [@12]
 
 The operation was part of integrated police action against drug trafficking and
 criminal factions in the region. [@4,8,9,10]
