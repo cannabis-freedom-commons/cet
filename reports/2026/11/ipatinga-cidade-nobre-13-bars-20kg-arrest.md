@@ -56,23 +56,30 @@ sources:
     publisher: Portal Diário do Aço
     date: 2026-11-17
     language: pt
+  - title: Homem é preso com 13 barras de maconha dentro de carro em Ipatinga no Vale do Aço
+    url: https://asnoticiasonline.com.br/2026/11/18/homem-e-preso-com-13-barras-de-maconha-dentro-de-carro-em-ipatinga/
+    publisher: As Notícias Online
+    date: 2026-11-18
+    language: pt
 open_questions:
-  - The weight was given as approximately 20 kilograms rather than an exact measured figure, and individual bars were said to weigh about 1.2, 1.3 and 1.5 kilograms.
-  - No monetary value was published for the seized marijuana.
-  - No court charge, plea or case outcome was reported; the driver was booked at a police station and was to answer for drug trafficking.
-  - The motorcyclist who was to collect the drugs and the man in the black Volkswagen Gol were not identified or reported arrested.
-  - The account of the stop and seizure comes from one news outlet reporting Military Police Sergeant Jason's version of events.
-  - The driver was identified only by the initials J.E.C.; no full name was published.
+    - The weight was given as approximately 20 kilograms rather than an exact measured figure, and individual bars were said to weigh about 1.2, 1.3 and 1.5 kilograms.
+    - No monetary value was published for the seized marijuana.
+    - No court charge, plea or case outcome was reported; the driver was booked at a police station and was to answer for drug trafficking.
+    - The motorcyclist who was to collect the drugs and the man in the black Volkswagen Gol were not identified or reported arrested.
+    - The accounts of the stop and seizure come from news outlets reporting the Military Police version of events; no statement from the Military Police itself was opened.
+    - The driver was identified only by the initials J.E.C.; no full name was published.
+    - The two accounts place the stop on different streets, Rua Vila Lobos and Rua Pablo Picasso, and neither address is otherwise confirmed.
+    - 'The driver''s statement is reported differently: one account has a motorcyclist collecting the drugs, the other that he was hired to take a package to Cidade Nobre and did not know what the box contained.'
 ---
 
 The driver, a resident of Timóteo, was arrested in flagrante by Military Police
 on suspicion of drug trafficking. [@1] He was identified as J.E.C., 38, and the
-stop took place on Rua Vila Lobos. [@1] The approach came after the driver
+stop took place on Rua Vila Lobos. [@1] The stop took place at about 1pm. [@2] The approach came after the driver
 entered a street the wrong way when he saw the officers, prompting a pursuit.
-[@1]
+[@1,2]
 
 Officers of the Motorcycle Patrol (Motopatrulha) of the 138th Military Police
-Company seized 13 bars of marijuana in a silver Ford Fiesta sedan. [@1] The
+Company seized 13 bars of marijuana in a silver Ford Fiesta sedan. [@1,2] The bars were found in a box in the boot of the car. [@2] The
 Military Police said the 13 bars together weighed about 20 kilograms. [@1] The
 bars varied in size and weight, some weighing about 1.2, 1.3 and 1.5 kilograms.
 [@1]
@@ -83,6 +90,5 @@ motorcyclist would collect the drugs in Ipatinga and that the load had been
 delivered by a man driving a black Volkswagen Gol. [@1] Sergeant Jason of the
 Military Police called the account highly implausible and said the man was
 arrested and taken to the police station. [@1] He was booked at the police
-station and is answering charges of drug trafficking. [@1] Sergeant Jason said
+station and is answering charges of drug trafficking. [@1,2] The car was seized and taken to an accredited impound lot. [@2] Sergeant Jason said
 the man had prior police records in Timóteo, but nothing of note. [@1]
-
