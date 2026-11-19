@@ -69,6 +69,11 @@ sources:
     publisher: La Tribuna de Albacete
     date: 2026-11-19
     language: es
+  - title: Desmantelan una plantación con 9 kilos de marihuana en una terraza de una vivienda de Albacete
+    url: https://www.elconfidencial.com/espana/2026-11-19/detenido-plantacion-marihuana-albacete-1tna-1tps_4468274/
+    publisher: El Confidencial
+    date: 2026-11-19
+    language: es
 open_questions:
   - No calendar day is given for the entry and search; it followed increased smell in late October, so 19 November 2026, the publication date, stands in for the incident date.
   - The marijuana weight is given only as almost nine kilos, not an exact measured total.
@@ -80,19 +85,18 @@ open_questions:
 
 The National Police dismantled a marijuana plantation on the terrace of a flat
 in Albacete's Hospital neighbourhood and arrested the man living there as the
-suspected author of a crime against public health. [@3] The inquiry began in
+suspected author of a crime against public health. [@3,5] The inquiry began in
 September, when neighbours told the National Police that a strong smell of
-marijuana in the building's communal areas was spreading into their homes. [@2]
+marijuana in the building's communal areas was spreading into their homes. [@2,5]
 In late October officers found the smell had grown stronger, a sign the plants
 had been cut and were drying, and after obtaining judicial authorisation they
-entered and searched the flat under investigation. [@1]
+entered and searched the flat under investigation. [@1,5]
 
 The search yielded almost nine kilos of marijuana and 32 freshly cut plants that
 were drying, along with 52 pots with cut stems and numerous bags of fertiliser.
-[@4] Much of the marijuana was stored in glass jars sorted by quality and year,
+[@4,5] Much of the marijuana was stored in glass jars sorted by quality and year,
 and officers also seized 67 grams of hallucinogenic mushrooms, a precision scale
-and 1,000 euros in cash. [@1]
+and 1,000 euros in cash. [@1,5]
 
 After the search officers arrested the occupant, who is accused of a crime
-against public health for cultivation and possession of marijuana. [@2]
-
+against public health for cultivation and possession of marijuana. [@2,5]
