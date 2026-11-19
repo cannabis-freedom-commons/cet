@@ -45,21 +45,31 @@ sources:
     publisher: المصري اليوم
     date: 2026-11-19
     language: ar
+  - title: زوجة إسلام كابونجا تسقط متلبسة في السجن بـ"حشيش وترامادول وهواتف نوكيا
+    url: https://www.almjhar.com/ar-sy/NewsView/144/312634/%d8%b2%d9%88%d8%ac%d8%a9_%d8%a5%d8%b3%d9%84%d8%a7%d9%85_%d9%83%d8%a7%d8%a8%d9%88%d9%86%d8%ac%d8%a7_%d8%aa%d8%b3%d9%82%d8%b7_%d9%85%d8%aa%d9%84%d8%a8%d8%b3%d8%a9_%d9%81%d9%8a_%d8%a7%d9%84%d8%b3%d8%ac%d9%86_%d8%a8%d9%80_%d8%ad%d8%b4%d9%8a%d8%b4_%d9%88%d8%aa%d8%b1%d8%a7%d9%85%d8%a7%d8%af%d9%88%d9%84_%d9%88%d9%87%d9%88%d8%a7%d8%aa%d9%81_%d9%86%d9%88%d9%83%d9%8a%d8%a7.aspx
+    publisher: تحت المجهر
+    date: 2026-11-19
+    language: ar
+open_questions:
+  - It is unclear whether she admitted possessing the seized items or denied knowledge and said a driver gave her the bag.
+  - No weight or measured size for the hashish piece was published.
+  - It is unclear whether the driver said to have provided the bag was detained or charged.
+  - No plea, detention measure or court outcome beyond the prosecution investigation was reported.
 ---
 
 Detectives at the October Correction Centre in Giza arrested M. S., the wife of
 mahraganat singer Islam Kabonga, while she was visiting her detained husband.
-[@1,2,3,4] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3] The Giza security directorate said Assistant Minister for Giza Security
+[@1,2,3,4,6] The suspect was identified as M. S., born in 1999. [@6] She is known on social media by the nickname Umm Eshq. [@6] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3] Her husband was serving a six-month sentence in case 5568 of 2026 for economic misdemeanours in Agouza over incitement to violence. [@6] The Giza security directorate said Assistant Minister for Giza Security
 Maj. Gen. Hatem Hassan received a notification of the incident from Maj. Gen.
 Hany Shaarawy, deputy director of criminal investigations. [@1,2] She had brought
 visit goods for her husband, and officers searched those goods during the visit.
 [@1,5] The suspected drugs were hidden professionally inside a bag to evade monitoring. [@5]
 
 The search found four Nokia mobile phones, one large piece of hashish and 52
-tramadol pills. [@1,2,3,4] The seized phones were Nokia handsets, the hashish was
+tramadol pills. [@1,2,3,4,6] The seized phones were Nokia handsets, the hashish was
 described as a large piece and the tramadol as narcotic pills intended to be
-brought to her husband. [@1] When confronted, she admitted that she possessed
-the seized items in order to bring them in to her husband. [@1,2,4]
+brought to her husband. [@1] The four seized Nokia phones were small Afreto models without cameras or SIM cards. [@6] When confronted, she admitted that she possessed
+the seized items in order to bring them in to her husband. [@1,2,4] In this account she denied knowing about the seized items and said she had received the bag from a 29-year-old driver named Khalil from al-Warraq to take to her husband for use in prison. [@6]
 
 Police filed a report on the incident after the arrest at the correction centre.
-[@1,3,5] The prosecution took over the investigation of the case. [@1,2,4] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5]
+[@1,3,5] The prosecution took over the investigation of the case. [@1,2,4,6] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5]
