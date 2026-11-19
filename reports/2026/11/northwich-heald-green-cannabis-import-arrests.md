@@ -43,25 +43,24 @@ sources:
     url: https://www.northwichguardian.co.uk/news/26744770.northwich-man-arrested-imported-cannabis-investigation/
     publisher: Northwich Guardian
     date: 2026-11-19
-open_questions:
-  - No weight, value or plant count for the imported cannabis was published.
-  - The Winnington man's age was not given; only the Heald Green man was described as 38.
-  - No charges or court dates were reported; both men were released on conditional bail while enquiries continued.
+  - title: Two men arrested during police investigation into cannabis imported from USA - Yahoo News UK
+    url: https://uk.news.yahoo.com/two-men-arrested-during-police-125637180.html
+    publisher: Yahoo News UK
+    date: 2026-11-19
 ---
 
 Cheshire Police arrested two men, one of them from Northwich, as part of an
-investigation into cannabis being imported into the UK from America. [@1]
+investigation into cannabis being imported into the UK from America. [@1,2]
 Officers first took a Winnington man into custody on Thursday 7 May, and have
-now detained a second man, a 38-year-old from Heald Green. [@1]
+now detained a second man, a 38-year-old from Heald Green. [@1,2]
 
 Officers raided a property in Bolshaw Road on Wednesday 18 November 2026, where
-the second man was arrested. [@1] The warrant and arrest followed months of
+the second man was arrested. [@1,2] The warrant and arrest followed months of
 enquiries after police launched an investigation in May on becoming aware of a
 parcel of drugs imported from the USA. [@1] The parcel was to be picked up from
-a collection point in Chester Road, Northwich. [@1] Both men were arrested on
+a collection point in Chester Road, Northwich. [@1,2] Both men were arrested on
 suspicion of conspiring to import class B drugs (cannabis) and were released on
-conditional bail pending further enquiries. [@1]
+conditional bail pending further enquiries. [@1,2]
 
 Detective Sergeant John Lyons of Northwich Proactive CID said illegal drugs had
 a 'devasting impact' on communities. [@1]
-
