@@ -60,6 +60,11 @@ sources:
     publisher: Tribun Medan
     date: 2026-11-19
     language: id
+  - title: 37 kg ganja di jok motor pakai kardus, kurir narkoba remaja 16 tahun ditangkap Polres Madina
+    url: https://www.msn.com/id-id/berita/other/37-kg-ganja-di-jok-motor-pakai-kardus-kurir-narkoba-remaja-16-tahun-ditangkap-polres-madina/ar-AA2hKXAF
+    publisher: Tribun-Medan.com
+    date: 2026-11-19
+    language: id
 media:
   - kind: photo
     url: https://medan.tribunnews.com/medan-terkini/1820467/naik-motor-bawa-kardus-berisi-37-kg-ganja-kering-2-kurir-narkoba-diringkus-polres-madina
@@ -73,16 +78,16 @@ Polres Madina drug squad raided a narcotics den in Siaga-paga, Panyabungan, on
 the night of Saturday 14 November 2026. [@1,3] The operation followed reports from
 residents who were uneasy about suspicious activity in the area. [@1] The team
 acted on information about a grey Honda PCX motorcycle with plate BA 5911 AAW
-ridden by two men. [@1,2,4] The motorcycle was suspected of carrying two cartons of
+ridden by two men. [@1,2,4,5] The motorcycle was suspected of carrying two cartons of
 ganja after passing through Aek Banir village, so officers moved to the
 Panyabungan-Sipagapaga route. [@1,3] In front of the Sipagapaga swimming pool,
 officers intercepted the matching vehicle and overpowered the two riders at the
-scene. [@1,2,4] The two couriers were identified only as FH, aged 16, and VA, aged 18, both from Padang in West Sumatra. [@2,4]
+scene. [@1,2,4] The two couriers were identified only as FH, aged 16, and VA, aged 18, both from Padang in West Sumatra. [@2,4,5]
 
 A search witnessed by local residents found two yellow cartons holding 32 bales
 of ganja, with 5 more bales in the motorcycle seat compartment, 37 bales in
 total. [@1,2,3,4] An initial weighing put the gross weight of the ganja at 37,172
-grams. [@1,2,3,4] Officers also seized two Redmi mobile phones and the motorcycle with
+grams. [@1,2,3,4,5] Officers also seized two Redmi mobile phones and the motorcycle with
 its registration document. [@1]
 
 After the arrest, both suspects were taken to a local hospital for laboratory
