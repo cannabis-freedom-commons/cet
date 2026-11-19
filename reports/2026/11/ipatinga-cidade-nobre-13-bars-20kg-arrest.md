@@ -61,6 +61,11 @@ sources:
     publisher: As Notícias Online
     date: 2026-11-18
     language: pt
+  - title: Com 13 barras de maconha no carro, motorista de aplicativo é preso em Ipatinga - Vale 24 Horas
+    url: https://vale24horas.com.br/noticia/16057/com-13-barras-de-maconha-no-carro-motorista-aplicativo-e-preso-em-ipatinga
+    publisher: Vale 24 Horas
+    date: 2026-11-19
+    language: pt
 open_questions:
     - The weight was given as approximately 20 kilograms rather than an exact measured figure, and individual bars were said to weigh about 1.2, 1.3 and 1.5 kilograms.
     - No monetary value was published for the seized marijuana.
@@ -70,16 +75,18 @@ open_questions:
     - The driver was identified only by the initials J.E.C.; no full name was published.
     - The two accounts place the stop on different streets, Rua Vila Lobos and Rua Pablo Picasso, and neither address is otherwise confirmed.
     - 'The driver''s statement is reported differently: one account has a motorcyclist collecting the drugs, the other that he was hired to take a package to Cidade Nobre and did not know what the box contained.'
+    - The stop is placed on both Rua Vila Lobos and Rua Pablo Picasso in Cidade Nobre, with no confirmed address.
+    - Accounts differ on what the driver said, from being hired to carry an unknown package to Cidade Nobre to a motorcyclist collecting drugs delivered by a man in a black Gol.
 ---
 
 The driver, a resident of Timóteo, was arrested in flagrante by Military Police
 on suspicion of drug trafficking. [@1] He was identified as J.E.C., 38, and the
 stop took place on Rua Vila Lobos. [@1] The stop took place at about 1pm. [@2] The approach came after the driver
 entered a street the wrong way when he saw the officers, prompting a pursuit.
-[@1,2]
+[@1,2,3]
 
 Officers of the Motorcycle Patrol (Motopatrulha) of the 138th Military Police
-Company seized 13 bars of marijuana in a silver Ford Fiesta sedan. [@1,2] The bars were found in a box in the boot of the car. [@2] The
+Company seized 13 bars of marijuana in a silver Ford Fiesta sedan. [@1,2] The bars were found in a box in the boot of the car. [@2,3] The
 Military Police said the 13 bars together weighed about 20 kilograms. [@1] The
 bars varied in size and weight, some weighing about 1.2, 1.3 and 1.5 kilograms.
 [@1]
@@ -90,5 +97,5 @@ motorcyclist would collect the drugs in Ipatinga and that the load had been
 delivered by a man driving a black Volkswagen Gol. [@1] Sergeant Jason of the
 Military Police called the account highly implausible and said the man was
 arrested and taken to the police station. [@1] He was booked at the police
-station and is answering charges of drug trafficking. [@1,2] The car was seized and taken to an accredited impound lot. [@2] Sergeant Jason said
+station and is answering charges of drug trafficking. [@1,2,3] The car was seized and taken to an accredited impound lot. [@2,3] Sergeant Jason said
 the man had prior police records in Timóteo, but nothing of note. [@1]
