@@ -41,6 +41,11 @@ sources:
     publisher: اليوم السابع (Youm7)
     date: 2026-11-19
     language: ar
+  - title: ضبط 4 أشخاص بحوزتهم مواد مخدرة وأدوات تعاطٍ في سوهاج - إقرأ نيوز
+    url: https://www.iqraa.news/238087/%D8%B6%D8%A8%D8%B7-4-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85-%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%AE%D8%AF%D8%B1%D8%A9-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D8%AA%D8%B9/
+    publisher: إقرأ نيوز
+    date: 2026-11-19
+    language: ar
 open_questions:
   - No weights, plant counts or monetary values were published for the hashish or the other drugs.
   - The article gives no separate date for the campaign; 19 November 2026 is its publication date and is used as the incident date.
@@ -49,14 +54,14 @@ open_questions:
 ---
 
 Police in Taha, a town in Sohag Governorate, arrested four people in a security
-campaign against drug trafficking in the district. [@1] The first suspect,
+campaign against drug trafficking in the district. [@1,2] The first suspect,
 identified only as A.Kh., 58, was stopped near the Muslim cemetery in the Sahel
 Taha area and found with a quantity of hashish, a sum of money and a mobile
-phone. [@1]
+phone. [@1,2]
 
 The campaign also led to the arrest of M.A., 29, A.M.M., 48, and M.F., 37, found
 with a quantity of shabu (methamphetamine), scissors, a katar tool and lamps
-used for drug consumption, plus money and a mobile phone. [@1]
+used for drug consumption, plus money and a mobile phone. [@1,2]
 
 The campaign was led by Major Abdullah Abu Aqeel, head of Taha police
 investigations, with Captains Ahmed Abu Suhub, Hytham Abdel Hamid and Mohamed
@@ -64,5 +69,4 @@ al-Balki, following directives from Assistant Interior Minister Ashraf Abdel
 Malek, Sohag's security director, to intensify drives against drug dealers. [@1]
 After the four arrests, police secured the drugs, tools, money and mobile phones
 and took the legal steps needed before referring the suspects to the competent
-authorities. [@1]
-
+authorities. [@1,2]
