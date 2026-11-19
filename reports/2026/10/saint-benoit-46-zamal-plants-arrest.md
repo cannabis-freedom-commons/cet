@@ -72,6 +72,11 @@ sources:
     publisher: Clicanoo
     date: 2026-11-06
     language: fr
+  - title: 'Saint-Benoît : lors d''une perquisition, les gendarmes saisissent des armes et du cannabis'
+    url: https://imazpress.com/faits-divers/saint-benoit-lors-d-une-perquisition-les-gendarmes-saisissent-des-armes-et-du-cannabis
+    publisher: Imaz Press Réunion
+    date: 2026-10-05
+    language: fr
 open_questions:
   - La 1ère reports more than 300 euros while Free Dom reports 305 euros; the report uses the detailed 305-euro figure.
   - The man's name and age were not published.
@@ -86,15 +91,15 @@ open_questions:
 
 On 3 October 2026, gendarmes from the Saint-Benoît community of brigades took a
 Saint-Benoît resident into custody in an inquiry into armed violence committed
-the previous day. [@2,3] Officers searched the man's home as part of that
+the previous day. [@2,3,5] Officers searched the man's home as part of that
 investigation and found a greenhouse fitted out to hold dozens of cannabis
 plants. [@1,4] Réunion outlets refer to the seized cannabis as zamal. [@1]
 
 Officers seized 29 potted cannabis plants and 17 freshly cut plants, 46 plants
-in total. [@1] They also seized 5.9 kg of cannabis in various forms. [@2] They
+in total. [@1,5] They also seized 5.9 kg of cannabis in various forms. [@2,5] They
 also seized indoor-growing equipment, including a UV lamp and an air extractor.
-[@2,4] They seized two rifles fitted with scopes, one pump-action shotgun and 411
-rounds of various calibres. [@1] Officers also found 305 euros in cash. [@2]
+[@2,4,5] They seized two rifles fitted with scopes, one pump-action shotgun and 411
+rounds of various calibres. [@1,5] Officers also found 305 euros in cash. [@2,5]
 
 The man will have to answer for the trafficking before the courts. [@1,4] The
 gendarmerie recalled that cannabis remains a narcotic whose possession, offer or
