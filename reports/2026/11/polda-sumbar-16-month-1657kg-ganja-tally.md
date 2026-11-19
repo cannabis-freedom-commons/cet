@@ -58,6 +58,11 @@ sources:
     publisher: Posmetro Padang
     date: 2026-11-19
     language: id
+  - title: Polda Sumbar Sita 1,6 Ton Ganja dan 99 Kg Sabu, Ribuan Kasus Narkoba Terungkap
+    url: https://klikpositif.com/polda-sumbar-sita-16-ton-ganja-dan-99-kg-sabu-ribuan-kasus-narkoba-terungkap/
+    publisher: KlikPositif.com - Media Generasi Positif
+    date: 2026-11-19
+    language: id
 media:
   - kind: photo
     url: https://posmetropadang.co.id/konsisten-perangi-narkoba-selama-16-bulan-polda-sumbar-sita-16-ton-ganja-dan-99-kg-sabu-442554
@@ -67,20 +72,20 @@ media:
 ---
 
 West Sumatra police handled 1,981 narcotics cases with 2,598 suspects from July
-2025 to 15 November 2026. [@1,4] The tally was the work of the provincial drug
+2025 to 15 November 2026. [@1,4,5] The tally was the work of the provincial drug
 directorate, Ditresnarkoba Polda Sumbar, with all district and city police in
-West Sumatra. [@1,4]
+West Sumatra. [@1,4,5]
 
 Police seized 1,657.03 kilograms of ganja, the Indonesian word for cannabis, in
-those cases. [@1,4] The same operation also seized 99.12 kilograms of sabu, 2,803
+those cases. [@1,4,5] The same operation also seized 99.12 kilograms of sabu, 2,803
 ecstasy pills and 24,453 other pills, which are not counted in the cannabis
-total. [@2,4]
+total. [@2,4,5]
 
 Drug director Kombes Pol Wedy Mahadi said the 1,981 cases and 2,598 suspects
 showed the force's seriousness and that officers keep acting, developing cases
 and tracing the networks behind distribution. [@3] He said officers work to
 break the distribution chain and develop each case to uncover larger networks.
-[@1] Public-relations chief Kombes Pol Susmelawati Rosya said each seizure was a
+[@1,5] Public-relations chief Kombes Pol Susmelawati Rosya said each seizure was a
 step to protect the public and save West Sumatra's young generation from drugs.
-[@1] Police asked residents to report suspected drug abuse or trafficking in
-their neighbourhoods. [@2]
+[@1,5] Police asked residents to report suspected drug abuse or trafficking in
+their neighbourhoods. [@2,5]
