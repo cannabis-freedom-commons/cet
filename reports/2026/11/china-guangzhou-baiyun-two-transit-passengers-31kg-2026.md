@@ -108,6 +108,11 @@ sources:
     publisher: 网易视频 / 齐鲁频道
     date: 2026-11-17
     language: zh
+  - title: 刚查了20多公斤大麻，又查了30多公斤大麻
+    url: https://news.qq.com/rain/a/20261119A062JJ00
+    publisher: 腾讯新闻（中国禁毒）
+    date: 2026-11-19
+    language: zh
 media:
   - kind: photo
     url: https://finance.sina.cn/2026-11-17/detail-iniyyzyp7716496.d.html?vt=4
@@ -124,20 +129,24 @@ media:
     media_url: https://flv3.bn.netease.com/e6a796c2bbcb9d8a4da6b6470dd3f22ddc49b0cfa0ad6f44b68bd0a3437d5424a8038496d68ebafd4a70e295f3ea83a7eb3c22bfceae14eabeb3dbc2033a94a75265b672177cc494935819197e4a9f367d6539bfde7e6daafaf5726e050b6fee056d4bcf07c1e8aa17e9c9203f7e5628e0725398df7f7db2.m3u8
     publisher: 网易视频 / 齐鲁频道
     caption: Video posted by Qilu Channel on NetEase about Guangzhou Customs seizing two passengers carrying two suitcases filled with more than 60 jin of cannabis.
+open_questions:
+    - No date was published for the interception beyond 'recently'; 17 November 2026 is the date Customs announced the seizure.
+    - No separate weight was published for each of the two passengers' suitcases; 31.787 kilograms is the combined total.
+    - No arrest, charge or court outcome for the two passengers was reported.
 ---
 
 Guangzhou Baiyun Airport Customs officers screening international transit
 passengers found the luggage X-ray images of two travellers abnormal in
-succession. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14] Officers intercepted the two travellers and inspected their
+succession. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,16] Officers intercepted the two travellers and inspected their
 suitcases. [@1,2,3,4,5,7,8,10,12,13,14,15] The suitcases each held brown-green plant material packed in
 plastic bags that gave off a strong pungent smell when the packaging was opened.
-[@1,2,3,4,6,7,9,10,12,13,14,15]
+[@1,2,3,4,6,7,9,10,12,13,14,15,16]
 
 A technical institution tested the material and confirmed it was cannabis
-weighing 31.787 kilograms in total. [@1,2,3,4,5,6,7,8,9,10,12,13,14] Customs announced the seizure on 17
+weighing 31.787 kilograms in total. [@1,2,3,4,5,6,7,8,9,10,12,13,14,16] Customs announced the seizure on 17
 November 2026, describing the interception as recent and placing it at the
 passenger-inspection channel of Guangzhou Baiyun Airport. [@1,2,7,10,11,12,14]
 
 Customs reminded the public that smuggling, selling, transporting or
 manufacturing drugs carries criminal liability in China regardless of quantity.
-[@1,10,11,13]
+[@1,10,11,13,16]
