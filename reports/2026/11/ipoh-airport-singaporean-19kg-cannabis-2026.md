@@ -1,46 +1,47 @@
 ---
 code: AG2BFH
 added_at: "2026-11-10T03:19:20.916628Z"
-date: 2026-11-08
+date: 2026-11-19
 country: my
 place: Sultan Azlan Shah Airport, Ipoh, Perak
 coordinates: [4.5679, 101.0918]
 precision: exact
-type: arrest
-also: [seizure]
-title: Singaporean held at Ipoh airport with 19 kg of cannabis bound for London
-summary: >-
-  Perak police arrested a 29-year-old Singaporean at Sultan Azlan Shah Airport in Ipoh on 8 November 2026 after 36 packages holding 19.04 kg of cannabis were found in his check-in baggage. Police valued the drug at about RM1.52 million and said the man was a drug mule promised S$4,000 to carry it to London; he was remanded for seven days under Section 39B of the Dangerous Drugs Act 1952.
+type: prosecution
+also: [seizure, arrest]
+title: Singaporean charged with trafficking 19.04kg of cannabis at Ipoh airport
+summary: Chen Long, a Singaporean man, was charged at Ipoh magistrate's court with trafficking 19.04kg of cannabis seized from his baggage at Sultan Azlan Shah Airport on 8 November 2026. The charge was read in Mandarin, no bail was offered and the court fixed 26 February 2027 for mention of the chemistry report; if convicted he faces death or life imprisonment and at least 12 strokes of the rotan.
 figures:
-  arrested: 1
-  kg_seized: 19.04
-  value:
-    amount: 1520000
-    currency: MYR
+    arrested: 1
+    kg_seized: 19.04
+    value:
+        amount: 1520000
+        currency: MYR
+    charged: 1
 details:
-  agencies: ['Royal Malaysia Police, Perak contingent']
-  agency_types: [police]
-  products:
-    - {product: flower, kg: 19.04}
-  activity: [smuggling]
-  setting: [airport]
-  charges: [trafficking under Section 39B of the Dangerous Drugs Act 1952]
-  case_stage: investigation
-  date_precision: exact
-  region: Perak
-  route: {from: [my], to: [gb]}
+    agencies: ['Royal Malaysia Police, Perak contingent']
+    agency_types: [police]
+    products:
+        - {product: flower, kg: 19.04}
+    activity: [smuggling]
+    setting: [airport]
+    charges: ['trafficking 19,040 grammes of cannabis under Section 39B(1)(a) of the Dangerous Drugs Act 1952']
+    case_stage: charged
+    date_precision: publication
+    region: Perak
+    route: {from: [my], to: [gb]}
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [2]
-  details.case_stage: [2]
-  details.charges: [1]
-  details.products: [1]
-  details.route: [2]
-  details.setting: [2]
-  figures.arrested: [1]
-  figures.kg_seized: [2]
-  figures.value: [2]
+    details.activity: [1]
+    details.agencies: [1]
+    details.agency_types: [2]
+    details.case_stage: [33]
+    details.charges: [33]
+    details.products: [1]
+    details.route: [2]
+    details.setting: [2]
+    figures.arrested: [1]
+    figures.kg_seized: [33]
+    figures.value: [2]
+    figures.charged: [33]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 61ca1544fa16082b5bb106bf860c3da9
@@ -188,16 +189,22 @@ sources:
     url: https://www.therakyatpost.com/news/malaysia/2026/11/12/singaporean-arrives-at-ipoh-airport-with-rm1-52-million-of-cannabis/
     publisher: The Rakyat Post
     date: 2026-11-12
+  - title: Singaporean charged with trafficking over 19kg of cannabis
+    url: https://www.nst.com.my/news/nation/2026/11/1581119/singaporean-charged-trafficking-over-19kg-cannabis
+    publisher: New Straits Times (NST Online)
+    date: 2026-11-19
+    language: en
 open_questions:
     - The sources disagree on the value of the cannabis, from about RM1.5 million to RM1.52 million; the report uses the RM1.52 million figure and the Straits Times' S$473,000 conversion.
     - 'The sources disagree on the man''s lodging in Kajang: some say he stayed at a hotel there, others that he collected the drugs from a supplier; they agree he picked up the load in Kajang on 7 November.'
     - The sources disagree on whether the seven-day remand began on 8 or 9 November, and where it ends; the report's text says 9 November.
     - It is not known how the syndicate intended to move the drugs on from Singapore to London, or why the flight transited there.
-    - The material is described as dried cannabis flower or buds; no laboratory confirmation was reported.
+    - The material is described as dried cannabis flower or buds; no laboratory confirmation was reported, and the court fixed 26 February 2027 for mention of the chemistry report.
     - The promised wage is given variously as S$4,000 (about RM12,600 to RM12,690) and more than RM12,500; no wage amount is recorded in the figures.
     - Reports describe the seizure as the second or the second largest drug case at Ipoh airport this year, after a 1 September 2026 arrest there of a foreign man with 26.2 kg of cannabis buds under Op Tebuan; that is a separate event not covered here.
-    - No count of other suspects in the Kajang syndicate was published, and no charge or court step beyond the remand has been reported.
+    - No count of other suspects in the Kajang syndicate was published.
     - Mothership converts the RM1.52 million valuation to S$480,500, a different conversion from the S$473,000 conversion already recorded.
+    - The charge article gives no explicit date for the court appearance; 19 November 2026, its publication date, is used as the incident date.
 media:
   - kind: photo
     url: https://www.malaymail.com/news/malaysia/2026/11/10/singaporean-lured-by-rm12685-job-offer-arrested-remanded-seven-days-over-rm15m-cannabis-haul-at-ipoh-airport/242670
@@ -239,6 +246,11 @@ media:
     media_url: https://apicms.thestar.com.my/uploads/images/2026/11/11/thumbs/700/4205777.webp
     publisher: The Star
     caption: 'Perak police chief Commissioner Datuk Mohd Alwi Zainal Abidin (centre) shows the seized cannabis at a press conference on the Sultan Azlan Shah Airport seizure. Photo: Ronnie Chin / The Star'
+  - kind: photo
+    url: https://www.nst.com.my/news/nation/2026/11/1581119/singaporean-charged-trafficking-over-19kg-cannabis
+    media_url: https://storage.googleapis.com/origin-awsassets.nst.com.my/images/articles/98681DB877A7A5740A14543873261D0B_low.jpg
+    publisher: New Straits Times
+    caption: 'A Singaporean man was charged at the magistrate''s court in Ipoh with trafficking 19.04kg of cannabis at Sultan Azlan Shah Airport on 8 November. Photo: NSTP/L. Manimaran'
 ---
 
 Perak police arrested a 29-year-old unemployed Singaporean man at Sultan Azlan
@@ -261,11 +273,11 @@ Perak police chief Comm Datuk Mohd Alwi Zainal Abidin said syndicates
 increasingly use less busy airports such as Ipoh, which has one daily flight to
 Singapore, to traffic drugs abroad. [@2,3,5,10,11,16,18,19,27,32] The man was remanded for seven days
 from 9 November under Section 39B of the Dangerous Drugs Act 1952, which carries
-a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14,16,17,18,20,22,28,31]
+a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14,16,17,18,20,22,28,31] Deputy public prosecutor Ainin Sofiya Azlaini prosecuted, while counsel Sivahnanthan Ragava represented the accused. [@33] No bail was offered. [@33] The court fixed 26 February 2027 for mention of the chemistry report. [@33] Chen was accused of trafficking an estimated 19,040 grammes of cannabis under Section 39B(1)(a) of the Dangerous Drugs Act 1952. [@33] The charge was read in Mandarin before magistrate Norizan Riduan. [@33] The accused was named as Chen Long and allegedly committed the offence at 6.20am at Baggage Machine A at the airport's check-in counter. [@33] A Singaporean man was charged at the Ipoh magistrate's court with trafficking 19.04kg of cannabis. [@33]
 
 The man arrived in Ipoh on 7 November after picking up the load in Kajang and travelling by e-hailing car. [@3,5]
 
-The job offer was made through a website promising payment to carry luggage said to hold counterfeit luxury-branded goods to London. [@4,6,8,9,11,13,17,19,23,28,29,30] Mohd Alwi said the syndicate targeted less busy airports, with the drugs to be sent as cargo after clearing customs and forwarded to their destination. [@4] A urine screening found no drugs in his system and he had no previous criminal record. [@4,7,11,13,17,19,20,21,22,27,28,29,30,32] The case is being investigated under Section 39B of the Dangerous Drugs Act 1952, which on conviction carries the death penalty or life imprisonment and at least 12 strokes of whipping. [@4,23,25,32] Mohd Alwi said the drugs seized could have been used by about 47,900 addicts. [@4,9,11,19,29,32]
+The job offer was made through a website promising payment to carry luggage said to hold counterfeit luxury-branded goods to London. [@4,6,8,9,11,13,17,19,23,28,29,30] Mohd Alwi said the syndicate targeted less busy airports, with the drugs to be sent as cargo after clearing customs and forwarded to their destination. [@4] A urine screening found no drugs in his system and he had no previous criminal record. [@4,7,11,13,17,19,20,21,22,27,28,29,30,32] The case is being investigated under Section 39B of the Dangerous Drugs Act 1952, which on conviction carries the death penalty or life imprisonment and at least 12 strokes of whipping. [@4,23,25,32,33] Mohd Alwi said the drugs seized could have been used by about 47,900 addicts. [@4,9,11,19,29,32]
 
 Police chief Mohd Alwi said the suspect had been tricked by a syndicate into thinking he was carrying counterfeit luxury-branded goods, and that the 36 packets of suspected cannabis flower were found in a Caggioni-branded zippered suitcase. [@5] Mohd Alwi said the suspect and the seized items were handed to the Perak Narcotics Criminal Investigation Department for investigation, and that the seizure followed intelligence-gathering and cooperation from members of the public. [@5]
 
