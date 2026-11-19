@@ -76,16 +76,21 @@ sources:
     publisher: الاستاد الاخباري
     date: 2026-11-19
     language: ar
+  - title: حرس الحدود يحبط تهريب حشيش وإمفيتامين بقطاع حقل
+    url: https://www.alriyadh.com/2215871
+    publisher: جريدة الرياض
+    date: 2026-11-19
+    language: ar
 ---
 
 Saudi border guards' land patrols in the Haql sector of Tabuk region intercepted
-an attempt to smuggle 14 kilograms of hashish. [@1,4,5,6] Saudi border guards' land
+an attempt to smuggle 14 kilograms of hashish. [@1,4,5,6,7] Saudi border guards' land
 patrols in the Haql sector of Tabuk region intercepted an attempt to smuggle 14
-kilograms of hashish. [@3] The patrols also seized 4,000 amphetamine pills. [@1,5,6]
+kilograms of hashish. [@3] The patrols also seized 4,000 amphetamine pills. [@1,5,6,7]
 The patrols also seized 4,000 amphetamine pills. [@2] The Border Guards said
 initial legal procedures had been completed. [@1,5] The Border Guards said initial
 legal procedures had been completed. [@2] The seizures were handed to the
-competent authority. [@1,5] The seizures were handed to the competent authority.
+competent authority. [@1,5,7] The seizures were handed to the competent authority.
 [@2]
 
 The Border Guards made the announcement in a statement posted on the X platform.
