@@ -39,6 +39,11 @@ media:
     media_url: https://www.ivinoticias.com.br/userfiles/uploads/imagens/materias/2026/11/original/f41cbc9c-b1ca-4efb-b1d3-2e0e60762d33_1.jpeg
     publisher: Site Ivinoticias
     caption: 'Marijuana seized by the Força Tática in a house in Nova Andradina, published with the Military Police handout and captioned ''Drogas apreendidas pela Força Tática''. Photo: Divulgação'
+  - kind: photo
+    url: https://www.radiojotafm.com.br/ivinhema/2026/11/18/jovem-e-preso-com-mais-de-1-kg-de-maconha.html
+    media_url: https://cdn1.radiojotafm.com.br/Folder/2026/11/acf1fbcc-4309-4257-9df0-01f5506125af/conversions/whatsapp-image-2026-11-18-at-094742-small.webp
+    publisher: REDE JOTA FM
+    caption: 'Seized marijuana from the Nova Andradina house search, in the Military Police handout photo. Photo: Polícia Militar de Mato Grosso do Sul, 8º Batalhão de Polícia Militar'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 0724a9331fd4a0f769163a6765390fb2
@@ -59,6 +64,11 @@ sources:
     publisher: Jornal da Nova
     date: 2026-11-18
     language: pt
+  - title: Jovem é preso com mais de 1 kg de maconha em Nova Andradina
+    url: https://www.radiojotafm.com.br/ivinhema/2026/11/18/jovem-e-preso-com-mais-de-1-kg-de-maconha.html
+    publisher: REDE JOTA FM
+    date: 2026-11-18
+    language: pt
 open_questions:
   - No charge, plea or court decision was reported, and it is unclear whether the man was arrested in flagrante or only taken to the station for questioning.
   - All three accounts reproduce the same Military Police statement and are not independent reporting.
@@ -69,20 +79,19 @@ open_questions:
 ---
 
 A 21-year-old man was taken to the Civil Police station in Nova Andradina, in
-the state of Mato Grosso do Sul, on the night of Tuesday 17 November 2026. [@1]
+the state of Mato Grosso do Sul, on the night of Tuesday 17 November 2026. [@1,4]
 The Military Police detained him on suspicion of drug trafficking and said the
 Tactical Force (Força Tática) of its 8th Battalion seized 1.138 kilograms of a
 substance analogous to marijuana. [@3] Officers on patrol received a report of
-drug sales at a house in the São Vicente de Paulo neighbourhood. [@2] Relatives
-at the address let the officers in. [@1]
+drug sales at a house in the São Vicente de Paulo neighbourhood. [@2,4] Relatives
+at the address let the officers in. [@1,4]
 
 The young man told the officers that drugs were stored in different parts of the
 house. [@1] In a backpack, police found a tablet of marijuana and a precision
-scale. [@1] More portions of the drug were in a plastic container inside the
-refrigerator. [@1] Part of it was already divided into smaller amounts, which
+scale. [@1,4] More portions of the drug were in a plastic container inside the
+refrigerator. [@1,4] Part of it was already divided into smaller amounts, which
 the Military Police said indicated it was meant for sale. [@1]
 
-Forensic weighing put the marijuana seized at 1.138 kilograms. [@1] Officers
+Forensic weighing put the marijuana seized at 1.138 kilograms. [@1,4] Officers
 also collected the precision scale. [@1] The man and the material were taken to
 the Civil Police station for the legal procedures. [@1]
-
