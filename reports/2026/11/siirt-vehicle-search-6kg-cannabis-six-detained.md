@@ -140,27 +140,35 @@ sources:
     publisher: Milliyet
     date: 2026-11-18
     language: tr
+  - title: ضبط 6 كغ حشيش في سيرت
+    url: https://newturkpost.com/news/136892-%D8%B3%D9%8A%D8%B1%D8%AA-%D8%B6%D8%A8%D8%B7-6-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7%D8%AA-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D9%81-6-%D9%85%D8%B4%D8%AA%D8%A8%D9%87-%D8%A8%D9%87%D9%85
+    publisher: وكالة نيو ترك بوست الاخبارية
+    date: 2026-11-19
+    language: ar
 media:
   - kind: photo
     url: https://www.haberport.com/haber/siirtte-narkotik-kopeginin-izledigi-aracta-6-kilogram-esrar-ele-gecirildi/71954
     media_url: https://cdn.haberport.com/uploads/1280/images/news/0b67e0b2-9fcf-4e1a-9a66-d4970c9525ac.jpg
     publisher: Haberport
     caption: 'Photo captioned ''ELE GEÇİRİLENLER'' (the seized items), published with the Haberport account of the 6 kg cannabis seizure in Siirt. Photo: Haberport'
+open_questions:
+    - No separate date was given for the stop and search; 18 November 2026, when the police statement was published, stands in for the incident date.
+    - No detention decision, charge, plea or court outcome was reported; the case was at the investigation stage.
 ---
 
 The operation was run by teams of the Siirt İl Emniyet Müdürlüğü Narkotik
 Suçlarla Mücadele Şube Müdürlüğü, the provincial police directorate's unit for
 combating narcotics crime, as part of work against drug use and trafficking.
-[@1,5,6,7,8,9,10,15,16,17,18,19] The seizure was announced in a statement from the Siirt Governor's Office. [@15,16,17] Officers had been following the car on suspicion of drug trafficking before
+[@1,5,6,7,8,9,10,15,16,17,18,19] The seizure was announced in a statement from the Siirt Governor's Office. [@15,16,17,21] Officers had been following the car on suspicion of drug trafficking before
 they stopped and searched it. [@4] The search was carried out with İnşa, a
-narcotics detection dog. [@1,11,13,14,15,16,17,18,20] Officers seized six kilograms of esrar, the
-everyday Turkish term for cannabis, from the vehicle. [@2,5,6,7,8,9,12,13,14,15,16,17,18,19,20]
+narcotics detection dog. [@1,11,13,14,15,16,17,18,20,21] Officers seized six kilograms of esrar, the
+everyday Turkish term for cannabis, from the vehicle. [@2,5,6,7,8,9,12,13,14,15,16,17,18,19,20,21]
 
 Six suspects were detained over the seizure, one of them a foreign national.
-[@1,5,6,7,8,9,11,13,14,15,16,17,18,19,20] Legal proceedings were started against the suspects who had been in the
+[@1,5,6,7,8,9,11,13,14,15,16,17,18,19,20,21] Legal proceedings were started against the suspects who had been in the
 car. [@4]
 
 After questioning and processing at the police station, the six were sent to the
-judicial authorities. [@4,6,7,8,9,10,13,14,15,16,17,18,19,20] Their procedures at the prosecutor's office were
+judicial authorities. [@4,6,7,8,9,10,13,14,15,16,17,18,19,20,21] Their procedures at the prosecutor's office were
 continuing. [@1,18] The operation was directed at drug trafficking in Siirt. [@3]
 The work was conducted across the city to prevent drug use and trafficking. [@4]
