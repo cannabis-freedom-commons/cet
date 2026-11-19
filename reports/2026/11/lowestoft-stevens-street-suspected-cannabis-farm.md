@@ -38,19 +38,22 @@ sources:
     url: https://www.lowestoftjournal.co.uk/news/26742204.police-uncover-cannabis-farm-stevens-street-lowestoft/
     publisher: Lowestoft Journal
     date: 2026-11-18
+  - title: Police uncover cannabis farm in Stevens Street, Lowestoft
+    url: https://www.eadt.co.uk/news/26742204.police-uncover-cannabis-farm-stevens-street-lowestoft/
+    publisher: East Anglian Daily Times
+    date: 2026-11-18
 open_questions:
-  - No figure for the number of plants, weight, area cleared or value was published.
-  - No suspects were named and no charges were reported.
-  - 18 November 2026 is the publication date; it is used as the incident date because the farm was said to have been found on Wednesday afternoon.
-  - Both accounts reproduce the same Suffolk Constabulary statement and are not independent reporting.
-  - It was not reported whether any plants or equipment had been removed from the property.
+    - No figure for the number of plants, weight, area cleared or value was published.
+    - No suspects were named and no charges were reported.
+    - 18 November 2026 is the publication date; it is used as the incident date because the farm was said to have been found on Wednesday afternoon.
+    - All accounts reproduce the same Suffolk Constabulary statement and are not independent reporting.
+    - It was not reported whether any plants or equipment had been removed from the property.
 ---
 
 Suffolk Constabulary officers discovered a suspected cannabis farm in Lowestoft
-on Wednesday afternoon. [@1] The force had yet to make any arrests in connection
-with the incident. [@1] Enquiries were ongoing. [@2]
+on Wednesday afternoon. [@1,3] The force had yet to make any arrests in connection
+with the incident. [@1,3] Enquiries were ongoing. [@2,3]
 
-The farm was on Stevens Street in Lowestoft. [@1] Police and engineers were on
-the scene on the residential road. [@2] Engineers from UK Power Networks were
-assisting officers on Stevens Street. [@2]
-
+The farm was on Stevens Street in Lowestoft. [@1,3] Police and engineers were on
+the scene on the residential road. [@2,3] Engineers from UK Power Networks were
+assisting officers on Stevens Street. [@2,3]
