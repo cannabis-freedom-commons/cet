@@ -91,6 +91,11 @@ sources:
     publisher: مدار الساعة
     date: 2026-11-19
     language: ar
+  - title: الأردن.. ضبط 13 تاجر مخدرات بمداهمات بمناطق مختلفة - المشهد
+    url: https://www.almashhad.com/article/773112298002792-News/275047056685260-%D8%B5%D9%88%D8%B1-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B7%D9%8A%D8%AD-%D8%A8%D9%8013-%D8%AA%D8%A7%D8%AC%D8%B1%D8%A7-%D8%A8%D9%85%D8%AF%D8%A7%D9%87%D9%85%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86/
+    publisher: قناة ومنصة المشهد
+    date: 2026-11-19
+    language: ar
 media:
   - kind: photo
     url: https://petra.gov.jo/en/news/anti-narcotics-department-takes-down-13-drug-dealers-in-multi-area-operations
@@ -101,9 +106,9 @@ media:
 
 Jordan’s Anti-Narcotics Department officers toppled 13 drug dealers while
 handling a number of trafficking cases over the previous few days, the Public
-Security Directorate spokesperson said. [@1,4,5,6,8,9,10,11] The spokesperson said all of the
+Security Directorate spokesperson said. [@1,4,5,6,8,9,10,11,12] The spokesperson said all of the
 cases involved trafficking, including four cases in the Capital Governorate.
-[@2,4,6,8,9,10]
+[@2,4,6,8,9,10,12]
 
 In the largest capital case officers raided and arrested three dealers and
 seized 15 kilograms of marijuana, five slabs of hashish and 250 grams of crystal
@@ -116,10 +121,10 @@ seized six slabs of hashish and a firearm. [@3,4,8,10]
 
 In al-Ruwaished officers tracked two active dealers, arrested one after
 intercepting their vehicle while the other fled and remains sought, and found
-26,000 narcotic pills inside the vehicle. [@1,4,6,8,10] On the desert road officers
+26,000 narcotic pills inside the vehicle. [@1,4,6,8,10,12] On the desert road officers
 raided a vehicle carrying three people heading for the capital, arrested all
 three and found one kilogram of crystal methamphetamine and two firearms inside.
-[@1,4,6,8,10] In Ma’an officers raided a drug dealer and seized 22 slabs of hashish from
+[@1,4,6,8,10,12] In Ma’an officers raided a drug dealer and seized 22 slabs of hashish from
 him. [@3,4,6,8,9,10,11] In the Southern Jordan Valley officers located and raided a dangerous
 fugitive wanted for cooperation with regional drug-smuggling and trafficking
-networks and arrested him. [@3,4,8,10]
+networks and arrested him. [@3,4,8,10,12]
