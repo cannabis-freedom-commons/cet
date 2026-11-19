@@ -49,6 +49,11 @@ sources:
     url: https://hoodline.com/2026/03/lutherville-timonium-pot-bust-136-pound-haul-lands-local-man-with-kingpin-charge/
     publisher: Hoodline
     date: 2026-03-31
+  - title: 136-pound cannabis raid leads to Baltimore County kingpin indictment
+    url: https://www.baltimoresun.com/2026/03/31/136-pound-marijuana-raid-leads-to-baltimore-county-kingpin-indictment/
+    publisher: The Baltimore Sun
+    date: 2026-03-31
+    archived: https://web.archive.org/web/20260415133049id_/https://www.baltimoresun.com/2026/03/31/136-pound-marijuana-raid-leads-to-baltimore-county-kingpin-indictment/
 open_questions:
   - The body text says more than 130 pounds while the headlines give 136 pounds; the report converts the headline figure of 136 pounds to about 61.69 kg.
   - The raid date of March 12 is inferred because release on March 13 was described as a day after the raid and arrest.
@@ -65,7 +70,7 @@ Christopher Robert Jordan. [@1] Jordan was arrested in the March 12 raid and
 released on recognizance on March 13. [@1]
 
 Police found more than 130 pounds of marijuana and cannabis products in his
-home, an amount headlined as 136 pounds. [@1] The indictment lists two felonies,
+home, an amount headlined as 136 pounds. [@1,3] Investigators believe Jordan was regularly importing marijuana flower and THC concentrates from Pennsylvania and Colorado. [@3] The indictment lists two felonies,
 including the drug-kingpin charge, and three misdemeanors involving possession
 and the alleged intent to distribute. [@1] A second account likewise said
 officers carrying out the March search in Lutherville-Timonium uncovered more
@@ -76,4 +81,3 @@ least restrictive way to provide appropriate resources to a defendant while
 ensuring public safety. [@1] Arora cited the non-violent nature of the case and
 his client’s dated criminal history as factors behind Jordan’s pretrial release.
 [@1] Arora said he was unable to comment on the accusations. [@1]
-
