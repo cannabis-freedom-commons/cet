@@ -117,32 +117,27 @@ sources:
     publisher: UL Lawyers
     date: 2026-11-18
     language: en
-open_questions:
-    - The 29 October 2026 search warrant is the incident date; 18 November 2026 is when the OPP announced the charges.
-    - The 125 cannabis clones are reported separately and are not included in the 900 plants figure.
-    - Police reported 190 kilograms of cannabis and 215 kilograms of cannabis shake separately; the weight figure records the 190 kilograms and the shake is recorded as a separate product.
-    - The $850,000 is the OPP's estimated street value, not a price paid.
-    - The first court appearance is set for 26 January, but no account gives its year; one outlet printed a year before the raid took place.
-    - Whether the plants were grown indoors or outdoors, the number of buildings on the property and the size of the site were not reported.
-    - The outlets carry the same OPP statement, so there is no independent account of the search or the quantities.
-    - One account gives the second accused's age as 64, while another gives the two residents' ages as 58 and 60 without naming them.
+  - title: Two charged after $850K illegal cannabis seizure in Tyendinaga Township - Kingston Daily
+    url: https://www.kingstondaily.ca/news/the-kingston-top-3/two-charged-after-850k-illegal-cannabis-seizure-in-tyendinaga-township/
+    publisher: Kingston Daily
+    date: 2026-11-19
 ---
 
 Ontario Provincial Police charged two residents of Tyendinaga Township after a
 search warrant at a commercial-scale illegal cannabis grow operation in the
-township. [@2,3,4,5,7,8,10] Quoc Ly, 58, and Qi Sen Zhang, 64, were each charged with
+township. [@2,3,4,5,7,8,10,11] Quoc Ly, 58, and Qi Sen Zhang, 64, were each charged with
 possession of illicit cannabis for the purpose of distribution and cultivating
-illicit cannabis. [@2,3,6,8] Both were released from custody and are scheduled to
+illicit cannabis. [@2,3,6,8,11] Both were released from custody and are scheduled to
 appear before the Ontario Court of Justice in Napanee in January. [@2,3,6,8,10] The first appearance is set for 26 January. [@8]
 
 Officers executed the warrant at the property on 29 October 2026 and arrested
 the two people there. [@2,4,6,8,9,10] The property is on Shannon Road in Tyendinaga Township. [@6] The search was carried out by officers from the Lennox and Addington County OPP detachment and the provincial police's joint forces cannabis enforcement team and emergency response teams. [@3,5,6,10] Police seized 900 illegal cannabis plants, 190
 kilograms of illegal cannabis, 215 kilograms of cannabis shake, 125 cannabis
-clones and three cell phones. [@2,4,6,8,9,10] The OPP estimated the street value of the
-seizure at $850,000. [@2,4,5,6,7,8,9,10]
+clones and three cell phones. [@2,4,6,8,9,10,11] The OPP estimated the street value of the
+seizure at $850,000. [@2,4,5,6,7,8,9,10,11]
 
 The investigation began in October after a member of the public gave the OPP
-information about a suspected illegal production site. [@2,3,4,5,6,8,9,10] The OPP released a
+information about a suspected illegal production site. [@2,3,4,5,6,8,9,10,11] The OPP released a
 photograph of a truck loaded with cannabis at the site in Tyendinaga Township.
 [@1] The Kingston Whig-Standard reported more than $850,000 worth of illegal
 cannabis and the dismantling of a commercial-scale grow operation in Tyendinaga
