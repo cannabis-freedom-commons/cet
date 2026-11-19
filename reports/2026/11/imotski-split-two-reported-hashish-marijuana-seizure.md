@@ -63,6 +63,11 @@ sources:
     publisher: Dalmacija News
     date: 2026-11-19
     language: hr
+  - title: 'Zwei junge Männer aus Imotski und Splitund ein Verdächtiger im Drogenhandel: Die Polizei beschlagnahmte Haschisch und Marihuana bei ihnen.'
+    url: https://www.portal.hr/de/novosti/hr/115914-dvojica-mladica-imotskog-splita-osumnjicena-dilanje-droge
+    publisher: Portal.hr
+    date: 2026-11-19
+    language: de
 open_questions:
   - No separate date was given for the searches or investigations; 19 November 2026 is the publication date and stands in for the event.
   - No arrest or detention was reported; the accounts say only that criminal complaints will be filed.
@@ -74,7 +79,7 @@ open_questions:
 
 Officers from the Imotski Border Police Station completed a criminal
 investigation into a 26-year-old man from the Lovrec area on reasonable
-suspicion of unauthorised production and trafficking of drugs. [@1] Police said
+suspicion of unauthorised production and trafficking of drugs. [@1,5] Police said
 a criminal complaint will be filed against the 26-year-old with the competent
 state attorney. [@2] Officers of the 2nd Police Station in Split completed a
 criminal investigation into a 19-year-old man on reasonable suspicion of the
@@ -82,12 +87,11 @@ same drug offence. [@1] Police said criminal charges will also be filed against
 the 19-year-old with the competent state attorney's office. [@1]
 
 A search of the 26-year-old's home found two plastic wrappers with a total of
-170.26 grams of hashish, which were seized. [@1] Officers found and seized
-205.61 grams of marijuana from the 19-year-old. [@2] Officers also seized money
-and two precision scales from the 19-year-old. [@3]
+170.26 grams of hashish, which were seized. [@1,5] Officers found and seized
+205.61 grams of marijuana from the 19-year-old. [@2,5] Officers also seized money
+and two precision scales from the 19-year-old. [@3,5]
 
 Split-Dalmatia police reported the two cases together as finds of 170.26 grams
 of hashish and 205.61 grams of marijuana in the Imotski and Split areas. [@2]
 The two investigations were described as two separate inquiries yielding more
 than 375 grams of drugs in total. [@4]
-
