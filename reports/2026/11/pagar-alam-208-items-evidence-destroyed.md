@@ -30,30 +30,65 @@ sources:
     publisher: Seputar Empat Lawang
     date: 2026-11-19
     language: id
+  - title: Wawako Bertha dan Kajari Ira Musnahkan Sabu, Ganja Hingga Sajam Hasil Perkara Januari-Oktober 2026 - ISBCenter.com
+    url: https://www.isbcenter.com/wawako-bertha-dan-kajari-ira-musnahkan-sabu-ganja-hingga-sajam-hasil-perkara-januari-oktober-2026/
+    publisher: ISBCenter.com
+    date: 2026-11-19
+    language: id
+  - title: Kajari Musnahkan 208 Barang Bukti, Tegaskan Transparansi, Sabu Diblender dan Ganja Dibakar
+    url: https://www.ketik.com/pagar-alam/daerah/kajari-musnahkan-208-barang-bukti-tegaskan-transparansi-sabu-diblender-dan-ganja-dibakar
+    publisher: Ketik.com
+    date: 2026-11-19
+    language: id
+  - title: Kejari-Polres Pagar Alam Musnahkan Barang Bukti 63 Perkara Pidana
+    url: https://www.jpnn.com/news/kejari-polres-pagar-alam-musnahkan-barang-bukti-63-perkara-pidana
+    publisher: JPNN.com
+    date: 2026-11-19
+    language: id
+  - title: Kapolres Pagar Alam Hadiri Pemusnahan Barang Bukti di Kejari
+    url: https://www.aliansinews.id/baca/id/Bj5M80/kapolres-pagar-alam-hadiri-pemusnahan-barang-bukti-di-kejari
+    publisher: AliansiNews
+    date: 2026-11-19
+    language: id
 open_questions:
-  - No weight was published for the ganja or sabu destroyed, so no cannabis quantity can be recorded.
-  - No breakdown was given of how many of the underlying cases involved ganja, and no defendants, verdicts or sentences for those cases were reported.
-  - No seizure dates or places for the underlying ganja cases were given; January to October 2026 is the case-handling period and 19 November 2026 is the destruction date.
-  - The sabu-sabu, sharp weapons, phones, clothing and other objects destroyed in the same exercise are not cannabis and are excluded from any cannabis figure.
-  - The account rests on the prosecutor's statement carried by a single local outlet, with no independent reporting of the destruction found.
+    - How the 4,239.64 grams of ganja was divided among the underlying cases, and how many of the 49 narcotics cases involved ganja, was not reported.
+    - No defendants, verdicts or sentences for the underlying cases were reported.
+    - No seizure dates or places for the underlying ganja cases were given; January to October 2026 is the case-handling period and 19 November 2026 is the destruction date.
+    - The sabu-sabu, ecstasy, sharp weapons, phones, clothing and other objects destroyed in the same exercise are not cannabis and are excluded from any cannabis figure.
+    - The accounts all derive from prosecutor and police statements carried by local and national outlets, with no independent verification beyond those official accounts.
+media:
+  - kind: photo
+    url: https://www.jpnn.com/news/kejari-polres-pagar-alam-musnahkan-barang-bukti-63-perkara-pidana
+    media_url: https://cloud.jpnn.com/photo/arsip/normal/2026/11/19/pemusnahan-barang-bukti-foto-dokumen-kejari-pagar-alam-xr17u-80ik.jpg
+    publisher: JPNN.com
+    caption: 'Seized evidence from the 63 Pagar Alam cases laid out before destruction. Photo: Dokumentasi Kejari Pagar Alam'
+  - kind: photo
+    url: https://www.aliansinews.id/baca/id/Bj5M80/kapolres-pagar-alam-hadiri-pemusnahan-barang-bukti-di-kejari
+    media_url: https://cdn.aliansinews.id/files/images/full/261119apo.jpg
+    publisher: AliansiNews
+    caption: The Pagar Alam police chief and district attorney at the evidence destruction in the district attorney's office yard
+  - kind: photo
+    url: https://www.ketik.com/pagar-alam/daerah/kajari-musnahkan-208-barang-bukti-tegaskan-transparansi-sabu-diblender-dan-ganja-dibakar
+    media_url: https://ketik-assets.s3-id-jkt-1.kilatstorage.id/upload/b4xflw_ketik_barang-bukti-jajaran-unsur-forkompimda-k.webp
+    publisher: Ketik.com
+    caption: Pagar Alam Forkopimda officials at the destruction of final-case evidence in the prosecutor's office yard
 ---
 
 The Pagar Alam prosecutor's office destroyed 208 items of evidence from general
-criminal cases that had final legal force on Thursday 19 November 2026. [@1] The
+criminal cases that had final legal force on Thursday 19 November 2026. [@1,2] The
 destruction took place in the yard of the Pagar Alam prosecutor's office using
 different methods for each type of evidence. [@1] Sabu-sabu was destroyed with a
 blender, ganja was burned, and sharp weapons were cut so they could no longer be
-used. [@1]
+used. [@1,3]
 
 The destroyed evidence also included mobile phones, car keys, clothing and other
-objects connected to the criminal cases. [@1] Chief prosecutor Ira Febriana said
+objects connected to the criminal cases. [@1] The narcotics evidence included 4,239.64 grams of ganja alongside 322.02 grams of methamphetamine and 17 ecstasy pills. [@4] Chief prosecutor Ira Febriana said
 the 208 items came from handling general criminal cases during January to
-October 2026 and had all obtained final legal force. [@1]
+October 2026 and had all obtained final legal force. [@1] The 208 items came from 63 cases, comprising 49 narcotics cases, 11 cases involving persons and property and three cases involving state security and public order. [@4]
 
 The exercise was attended by Pagar Alam deputy mayor Bertha, Pagar Alam police
 chief Adam Purbantoro, chief prosecutor Ira Febriana, the head of the Pagar Alam
 detention facility, the Pagar Alam anti-narcotics agency head and local
-government officials. [@1] The office presented the exercise as transparency and
+government officials. [@1,5] The office presented the exercise as transparency and
 accountability in completing evidence handling after cases received final court
 decisions. [@1]
-
