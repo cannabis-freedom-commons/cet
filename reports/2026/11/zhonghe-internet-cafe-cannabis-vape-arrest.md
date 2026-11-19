@@ -53,6 +53,11 @@ media:
     media_url: https://news-images.tvbs.com.tw/api/v1/image/01a1f211-95c9-7198-b9f6-7cec2e27fd59.jpg?t=16x9&wp=r,t&c=0,198,778,636&w=1200&h=675
     publisher: TVBS新聞網
     caption: 'The 34-year-old Lin being lifted from his seat and searched in the Zhonghe internet cafe, in the still published with the TVBS report under the caption 男子將大麻電子煙藏網咖椅墊，遭警架起搜身. Photo: TVBS'
+  - kind: video
+    url: https://video.udn.com/news/1332541
+    media_url: https://video.udn.com/play/news/1332541?autoplay=1&muted=1&playsinline=1
+    publisher: 聯合影音
+    caption: 'UDN video report on the police check at the Zhonghe internet cafe after the cannabis-vaping report. Video: 聯合影音 / 王長鼎'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 809ef8b3ee92988dd0152ffd1130fa49
@@ -103,6 +108,11 @@ sources:
     publisher: MSN (TVBS News)
     date: 2026-11-19
     language: zh
+  - title: 影／打網咖竟公然吸食大麻 警獲報火速查緝送辦 | 時事 | 聯合影音
+    url: https://video.udn.com/news/1332541
+    publisher: 聯合影音
+    date: 2026-11-19
+    language: zh
 open_questions:
     - The 12.25 grams recorded for this case is the gross weight of the device and cartridge together, so the weight of the cannabis oil alone is not known.
     - The cartridge was identified by a field drug screening test; no laboratory confirmation has been reported.
@@ -115,12 +125,12 @@ in the early hours of 19 November 2026, watching shows while smoking a cannabis
 e-cigarette that members of the public reported to police. [@1,3,4,5,6,7,8] Lin works as a security guard and had begun an eight-hour session at the internet cafe that morning. [@5,7] He was watching the American drug-crime series Breaking Bad while smoking. [@3,8] Officers from
 the Anping Police Station of the Zhonghe Precinct were on patrol at about 4 a.m.
 on 19 November when they received the report that a man inside the cafe was
-suspected of smoking a cannabis cartridge. [@1,2,3,4,6] When officers approached him, Lin played dumb and said he had not used drugs, before the search found the device and cartridge. [@5,7,9] When officers questioned him further, Lin kept leaning down and reaching toward his buttocks to hide the device, and officers then lifted him up and searched the seat and his person. [@8] After arriving, officers
+suspected of smoking a cannabis cartridge. [@1,2,3,4,6,10] When officers approached him, Lin played dumb and said he had not used drugs, before the search found the device and cartridge. [@5,7,9] When officers questioned him further, Lin kept leaning down and reaching toward his buttocks to hide the device, and officers then lifted him up and searched the seat and his person. [@8] After arriving, officers
 searched Lin with his consent and arrested him at the scene as a drug offender
 in the act, later transferring him to the district prosecutor's office for
-investigation under the Drug Hazard Prevention Act. [@1,2,3,4,6]
+investigation under the Drug Hazard Prevention Act. [@1,2,3,4,6,10]
 
 Officers seized one e-cigarette device and one cannabis cartridge from Lin at
-the scene. [@1,2,4,5,6,7,8] During questioning Lin said he had paid NT$2,000 to a person he met online for the cannabis oil but had forgotten who the seller was. [@5,7] The seized device and cartridge together had a gross weight of
+the scene. [@1,2,4,5,6,7,8,10] During questioning Lin said he had paid NT$2,000 to a person he met online for the cannabis oil but had forgotten who the seller was. [@5,7] The seized device and cartridge together had a gross weight of
 12.25 grams and tested positive for cannabis, which the report describes as a
-Category Two drug. [@1,2,3,4,6] Police said the source of the drug was still under investigation. [@6]
+Category Two drug. [@1,2,3,4,6,10] Police said the source of the drug was still under investigation. [@6]
