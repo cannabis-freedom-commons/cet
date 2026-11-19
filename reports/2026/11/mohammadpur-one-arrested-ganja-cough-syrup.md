@@ -88,37 +88,38 @@ sources:
     publisher: Asia Post
     date: 2026-11-18
     language: bn
-open_questions:
-  - The cannabis amount was given only as one puria, with no weight, so no kilogram figure is recorded.
-  - The 14 bottles of codeine-phosphate cough syrup are not counted in cannabis figures.
-  - No laboratory confirmation that the seized puria was cannabis was reported.
-  - No charges, detention measure or court outcome were reported; police said legal action was in process.
-  - Both accounts reproduce police and police-station information and are not independent reporting.
-  - Dhaka Post reported 15 bottles of cough syrup seized, while other accounts of the arrest said 14.
-  - The Mohammadpur zone officer is described as additional deputy commissioner (ADC) in the Jagonews24 account and as additional police commissioner in the report; the exact rank is unclear.
-  - 'The exact minute of the arrest is unclear: the raid began at about 8:10 pm and the arrest followed a few minutes later, at about 8:15 pm.'
+  - title: ছাত্রলীগের সাবেক কেন্দ্রীয় নেতা গোলাম রব্বানী গ্রেপ্তার
+    url: https://www.czn24.com/crime/cjkmr5qfkmy8
+    publisher: CZN24 (সিটিজেন জার্নাল২৪)
+    date: 2026-11-19
+    language: bn
 media:
   - kind: photo
     url: https://www.jagonews24.com/national/news/1181141
     media_url: https://cdn.jagonews24.com/media/imgAllNew/BG/2023March/salim-mwmf1fgdmkb0kuv-20261118235407.jpg?w=1080
     publisher: Jagonews24
     caption: 'Published photo captioned as the arrested Awami League leader Md. Golam Rabbani Shamim. Photo: Dhaka Metropolitan Police (DMP)'
+  - kind: photo
+    url: https://www.czn24.com/crime/cjkmr5qfkmy8
+    media_url: https://cjimages.czn24.com/original_images/CznNewsLab92a3362c-7043-49c1-9a73-c865dc62a9ed.jpg
+    publisher: CZN24 (সিটিজেন জার্নাল২৪)
+    caption: Published photo identified as the arrested man, former Chhatra League leader Md. Golam Rabbani Shamim.
 ---
 
 Police arrested Md. Golam Rabbani Shamim, 38, in an operation in Mohammadpur,
-Dhaka. [@2,3,4,5,6,7,8,9,10,11] Officers detained him at about 8:10 pm on 18 November 2026 on the
+Dhaka. [@2,3,4,5,6,7,8,9,10,11,12] Officers detained him at about 8:10 pm on 18 November 2026 on the
 second floor of house 19, Road 3, B Block, Naboday Housing. [@1,4,5] The arrested
 man is a member of the Awami League central science and technology affairs
 committee and a former general secretary of the Selim Hall Chhatra League at
-RUET. [@2,3,4,5,6,7,8,9,11] Additional Police Commissioner of the Mohammadpur Zone, Jewel Rana,
+RUET. [@2,3,4,5,6,7,8,9,11,12] Additional Police Commissioner of the Mohammadpur Zone, Jewel Rana,
 confirmed the arrest the same night. [@1,5]
 
 Police said officers seized 14 bottles of Winctrex cough syrup containing
 codeine phosphate and triprolidine hydrochloride and one puria of ganja from
 him. [@1,5,6] Mohammadpur police said the raid followed secret information and also
-reported 14 bottles of cough syrup and one puria of ganja seized. [@2,3,7,8,9,10,11]
+reported 14 bottles of cough syrup and one puria of ganja seized. [@2,3,7,8,9,10,11,12]
 
 Police said he had remained in contact with central Awami League leaders by
 mobile phone and was staying in the area to create an unstable situation in
-Dhaka and to run the party’s procession activities. [@1,3,4,5,6,7,9,11] Police said further
-legal action against him was in process. [@1,3,4,5,6,7,9,10,11]
+Dhaka and to run the party’s procession activities. [@1,3,4,5,6,7,9,11,12] Police said further
+legal action against him was in process. [@1,3,4,5,6,7,9,10,11,12]
