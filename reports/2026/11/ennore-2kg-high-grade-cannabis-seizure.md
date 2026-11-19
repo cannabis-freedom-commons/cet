@@ -57,6 +57,11 @@ sources:
     publisher: DT Next
     date: 2026-11-19
     language: en
+  - title: '9,700 இங்கிலாந்து பவுண்டு கரன்சி நோட்டுகள், 2.6 கிலோ உயர்ரக கஞ்சா பறிமுதல்: 5 இளைஞர்கள் கைது'
+    url: https://www.hindutamil.in/news/crime/9700-british-pounds-26-kg-high-grade-ganja-seized
+    publisher: Hindu Tamil Thisai
+    date: 2026-11-19
+    language: ta
 open_questions:
     - No firm calendar date is given for the vehicle stop or the arrests; the accounts place a tip-off on a Tuesday and were published on 18 and 19 November 2026.
     - One account puts the cannabis at two kilograms while the others give about 2.6 kilograms; the report keeps two kilograms.
@@ -66,7 +71,7 @@ open_questions:
 ---
 
 Police in Ennore, a locality in north Chennai, seized two kilograms of
-high-grade cannabis. [@1,2] Police stopped a luxury car coming from Chennai towards Minjur in the Ennore area and found the cannabis when they checked the vehicle. [@2,3] Police received a tip-off about movement of narcotics in Ennore police limits on Tuesday and intensified vehicle checks. [@3] The cannabis was said to have been intended for
+high-grade cannabis. [@1,2] Police stopped a luxury car coming from Chennai towards Minjur in the Ennore area and found the cannabis when they checked the vehicle. [@2,3] The vehicle checks were carried out at the check post at the Athipattu bridge junction in Ponneri. [@4] Police received a tip-off about movement of narcotics in Ennore police limits on Tuesday and intensified vehicle checks. [@3,4] The cannabis was said to have been intended for
 smuggling out of the country. [@1,2] The account says the cannabis and the Indian and British money were to be taken to Malaysia. [@2,3] The five-member group planned to travel by road to Bengaluru, from where three were to board a flight to Malaysia. [@3]
 
-Foreign money was also seized in the same operation, the account says. [@1,2] Five men from Ilaiyankudi in Sivagangai district, aged between 19 and 29, were arrested in the case. [@2,3] Ali sublet the work to three friends — Abubakkar Siddiq, 21, and Usama Bahadur, 24, from the same town, and Mohammed Ismail, 19, of Tiruchy — who were to travel to Malaysia. [@3] Ali was a ‘kuruvi’ — a human courier hired by smugglers — whose passport had been revoked in 2023 for alleged sea-turtle smuggling. [@3] The mastermind was S Ashik Ali, 29, of Ilayangudi in Sivaganga. [@3] Officers also seized 6.42 lakh rupees and British pound notes put at a further 12 lakh rupees, both suspected of being linked to hawala, together with silk sarees and medicines. [@2,3] Ali sourced the ganja from Odisha and hid it with the cash in the group's check-in baggage; an accomplice, Mohammed Sheik Abdullah, 22, was also arrested, and all the accused were produced before a magistrate and remanded in judicial custody. [@3]
+Foreign money was also seized in the same operation, the account says. [@1,2] The cash, medicines and ganja were found in five suitcases and two shoulder bags in the car. [@4] Five men from Ilaiyankudi in Sivagangai district, aged between 19 and 29, were arrested in the case. [@2,3,4] Ali sublet the work to three friends — Abubakkar Siddiq, 21, and Usama Bahadur, 24, from the same town, and Mohammed Ismail, 19, of Tiruchy — who were to travel to Malaysia. [@3] Ali was a ‘kuruvi’ — a human courier hired by smugglers — whose passport had been revoked in 2023 for alleged sea-turtle smuggling. [@3] The mastermind was S Ashik Ali, 29, of Ilayangudi in Sivaganga. [@3] Aashik Ali, 29, Abubacker Siddique, 21, and Usama Badurur Rahman, 24, were from Ilayangudi; Mohamed Ismail, 19, was from Tiruchi-Uraiyur and Sheikh Abdullah, 22, from Thanjavur. [@4] Officers also seized 6.42 lakh rupees and British pound notes put at a further 12 lakh rupees, both suspected of being linked to hawala, together with silk sarees and medicines. [@2,3,4] The British notes numbered 9,700 pounds, and three passports were seized as well. [@4] Ali sourced the ganja from Odisha and hid it with the cash in the group's check-in baggage; an accomplice, Mohammed Sheik Abdullah, 22, was also arrested, and all the accused were produced before a magistrate and remanded in judicial custody. [@3]
