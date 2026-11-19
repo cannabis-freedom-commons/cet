@@ -56,6 +56,11 @@ sources:
     publisher: صدى الإخبارية
     date: 2026-11-19
     language: ar
+  - title: إحباط تهريب 14 كيلوجراما من الحشيش في تبوك ..اخبار محلية
+    url: https://arabic.pressbee.net/show11129278.html?title=%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-14-%D9%83%D9%8A%D9%84%D9%88%D8%AC%D8%B1%D8%A7%D9%85%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%81%D9%8A-%D8%AA%D8%A8%D9%88%D9%83
+    publisher: برس بي
+    date: 2026-11-19
+    language: ar
 open_questions:
   - No separate date is given for the interception; 19 November 2026 is the publication date and is used as the incident date.
   - No arrests, suspects or vehicle details were reported in connection with the seizure.
@@ -64,7 +69,7 @@ open_questions:
 ---
 
 Saudi border guards' land patrols in the Haql sector of Tabuk region intercepted
-an attempt to smuggle 14 kilograms of hashish. [@1] Saudi border guards' land
+an attempt to smuggle 14 kilograms of hashish. [@1,4] Saudi border guards' land
 patrols in the Haql sector of Tabuk region intercepted an attempt to smuggle 14
 kilograms of hashish. [@3] The patrols also seized 4,000 amphetamine pills. [@1]
 The patrols also seized 4,000 amphetamine pills. [@2] The Border Guards said
@@ -78,4 +83,3 @@ The Border Guards made the announcement in a statement posted on the X platform.
 information about drug smuggling or promotion. [@1] The published tip lines were
 911 in Mecca, Medina, Riyadh and the Eastern Province, 999 and 994 in other
 regions, and 995 for the General Directorate of Narcotics Control. [@1]
-
