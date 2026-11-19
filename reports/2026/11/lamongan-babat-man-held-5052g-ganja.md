@@ -90,6 +90,11 @@ sources:
     publisher: beritajatim.com
     date: 2026-11-19
     language: id
+  - title: Polisi Ringkus Pengedar Ganja di Lamongan, Sita Barang Bukti 50,52 Gram
+    url: https://memorandum.disway.id/lamongan/read/175119/polisi-ringkus-pengedar-ganja-di-lamongan-sita-barang-bukti-5052-gram
+    publisher: memorandum.co.id
+    date: 2026-11-19
+    language: id
 media:
   - kind: photo
     url: https://surabaya.tribunnews.com/jawa-timur/1954867/polisi-gerebek-rumah-di-babat-lamongan-puluhan-gram-ganja-disita
@@ -106,22 +111,27 @@ media:
     media_url: https://cdnmedia.beritajatim.com/images/2026/11/Narkoba-Lamongan.webp
     publisher: beritajatim.com
     caption: 'Seized cannabis and related packaging and a mobile phone from the Babat case laid out for documentation. Photo: BeritaJatim.com'
+  - kind: photo
+    url: https://memorandum.disway.id/lamongan/read/175119/polisi-ringkus-pengedar-ganja-di-lamongan-sita-barang-bukti-5052-gram
+    media_url: https://memorandum.disway.id/upload/de1da42b3cd313794ce5e48f7ba28a75.jpg
+    publisher: memorandum.co.id
+    caption: 'ISR (26) after detention by Satresnarkoba officers in Babat, Lamongan, in the handout photo published with the seizure account. Photo: memorandum.co.id'
 ---
 
 Lamongan narcotics officers detained a 26-year-old man identified only as ISR, a
-resident of Babat district, over alleged distribution of cannabis. [@1,2,6,7,8,9,10] The suspect was recorded as a student on his identity card and was detained without significant resistance during the search of the house. [@5,6] The
+resident of Babat district, over alleged distribution of cannabis. [@1,2,6,7,8,9,10,11] The suspect was recorded as a student on his identity card and was detained without significant resistance during the search of the house. [@5,6] The
 operation took place on Monday 16 November at about 17.30 local time at a house
-in Patihan village in Babat, Lamongan. [@1,3,6,7,8,9,10] Officers acted after an
+in Patihan village in Babat, Lamongan. [@1,3,6,7,8,9,10,11] Officers acted after an
 investigation, going to the location and searching the suspect. [@1,2,7]
 
 The search recovered one plastic clip containing cannabis with a net weight of
-about 50.52 grams. [@1,2,6,7,8,9,10] Officers also seized a silver plastic wrapper, a brown
+about 50.52 grams. [@1,2,6,7,8,9,10,11] Officers also seized a silver plastic wrapper, a brown
 box, a black plastic bag, a plastic bag containing cannabis residue and a red
-mobile phone. [@1,2,9,10] The seized mobile phone was an iPhone 13. [@7] Police said the suspect was accused under Article 114
+mobile phone. [@1,2,9,10,11] The seized mobile phone was an iPhone 13. [@7] Police said the suspect was accused under Article 114
 paragraph (1) or Article 111 paragraph (1) of Law Number 35 of 2009 on Narcotics
-in conjunction with Law Number 1 of 2026 on sentencing adjustments. [@1,3,6,7,8,9]
+in conjunction with Law Number 1 of 2026 on sentencing adjustments. [@1,3,6,7,8,9,11]
 
 The suspect and all the evidence were held at Lamongan police headquarters for
-investigation and further case development. [@1,4,6,7,8,9,10] Lamongan police said they
+investigation and further case development. [@1,4,6,7,8,9,10,11] Lamongan police said they
 remain committed to eradicating drug distribution and urged residents to help
 keep their neighbourhoods free of drug abuse. [@1,4]
