@@ -58,6 +58,11 @@ sources:
     url: https://www.ewn.co.za/2026/11/19/police-uncover-cannabis-lab-in-alberton
     publisher: EWN
     date: 2026-11-19
+  - title: Two arrested after suspected cannabis cultivation operation uncovered in Alberton
+    url: https://iol.co.za/sundayindependent/news/2026-11-19-two-arrested-after-suspected-cannabis-cultivation-operation-uncovered-in-alberton/
+    publisher: IOL
+    date: 2026-11-19
+    language: en
 open_questions:
     - No exact figure for the number of plants or the weight of the dried cannabis was published; EWN gives only dozens of plants.
     - No names, charges, pleas or court dates for the two suspects were reported.
@@ -69,21 +74,21 @@ open_questions:
 
 Two people were arrested after police uncovered a suspected cannabis cultivation
 and dealing operation at a residential property in Maybury Park, Alberton, on 19
-November 2026. [@1,2] The suspects, aged 42 and 43, were arrested during an
+November 2026. [@1,2,3] The suspects, aged 42 and 43, were arrested during an
 intelligence-driven operation by the Ekurhuleni Metro Police, working with the
 South African Police Service West Rand K9 Unit and the Directorate for Priority
-Crime Investigation. [@1] The operation began at around 6am after police
+Crime Investigation. [@1,3] The operation began at around 6am after police
 received information that the household was allegedly cultivating and selling
-cannabis. [@1] Officers obtained a search warrant before entering the property
-in Lepelhout Street. [@1]
+cannabis. [@1,3] Officers obtained a search warrant before entering the property
+in Lepelhout Street. [@1,3]
 
 In the yard, officers found numerous cannabis plants growing in growing bags
 alongside large quantities of dried cannabis stored in plastic containers and
-tubs. [@1] Officers also found several pre-rolled and packaged cannabis products
+tubs. [@1,3] Officers also found several pre-rolled and packaged cannabis products
 bearing different strain labels and various bottles and jars containing
-cannabis-related products on the premises. [@1,2] The cultivation and equipment were valued at over R3 million. [@2] Further searches inside the
+cannabis-related products on the premises. [@1,2,3] The cultivation and equipment were valued at over R3 million. [@2] Further searches inside the
 property led to the discovery of suspected hallucinogenic mushroom substances,
-which police said would be subjected to further investigation. [@1,2] Two suspects believed to be the owners were investigated for allegedly selling psychedelic mushrooms. [@2]
+which police said would be subjected to further investigation. [@1,2,3] Two suspects believed to be the owners were investigated for allegedly selling psychedelic mushrooms. [@2]
 
-The two suspects were detained at Alberton Police Station. [@1] Investigations
-were ongoing. [@1]
+The two suspects were detained at Alberton Police Station. [@1,3] Investigations
+were ongoing. [@1,3]
