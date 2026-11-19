@@ -67,6 +67,11 @@ sources:
     publisher: VareseNews
     date: 2026-11-17
     language: it
+  - title: 'Como, droga nei locker: oltre un chilo e mezzo di hashish e marijuana sequestrati'
+    url: https://lamilano.it/como/como-droga-nei-locker-oltre-un-chilo-e-mezzo-di-hashish-e-marijuana-sequestrati/
+    publisher: La Milano
+    date: 2026-11-19
+    language: it
 open_questions:
     - No separate date for the seizure was published; the parcel sat in the locker for more than two days before officers opened it, so the seizure happened before the 17 November 2026 publication date, which stands in for the incident date.
     - No arrests were reported; the seizure was formally made against unknown persons and no court outcome is known.
@@ -75,19 +80,19 @@ open_questions:
 ---
 
 The Guardia di Finanza in Como intercepted a postal parcel that could be
-collected with a code from an automatic locker at Appiano Gentile. [@1,4] The locker stood beside a service station in Appiano Gentile. [@4] The
+collected with a code from an automatic locker at Appiano Gentile. [@1,4,5] The locker stood beside a service station in Appiano Gentile. [@4,5] The
 Olgiate Comasco unit had flagged the parcel through risk analysis of postal
-shipments arriving from Barcelona. [@1,4] To identify the real recipient, officers
+shipments arriving from Barcelona. [@1,4,5] To identify the real recipient, officers
 kept the locker and the surrounding area under continuous monitoring. [@1,4]
-Nobody came to collect the parcel. [@1,4]
+Nobody came to collect the parcel. [@1,4,5]
 
 After more than two days, sniffer dogs Kobe and C4 confirmed the investigators’
-suspicions about the parcel. [@1,4] The sniffer-dog unit that checked the parcel came from the Guardia di Finanza group at Ponte Chiasso. [@4] With clearance from the duty prosecutor,
-officers seized the parcel’s contents against unknown persons. [@1,4] The parcel
+suspicions about the parcel. [@1,4,5] The sniffer-dog unit that checked the parcel came from the Guardia di Finanza group at Ponte Chiasso. [@4,5] With clearance from the duty prosecutor,
+officers seized the parcel’s contents against unknown persons. [@1,4,5] The parcel
 held 1,409 grams of hashish and 62 grams of marijuana, a total of 1,471 grams.
-[@2,4] Some of the sealed bars were printed and disguised to look like real
-chocolate bars. [@3,4]
+[@2,4,5] Some of the sealed bars were printed and disguised to look like real
+chocolate bars. [@3,4,5]
 
 The delivery slip bore an almost certainly invented name meant to get past the
-carrier’s formal checks. [@1,4] The criminal case is in the
+carrier’s formal checks. [@1,4,5] The criminal case is in the
 preliminary-investigation phase against unknown persons. [@2,4] The Guardia di Finanza said the case confirmed a shift in dealing methods towards virtual marketplaces, fictitious identities and locker deliveries, with the unlock code sent to the buyer only after payment. [@4]
