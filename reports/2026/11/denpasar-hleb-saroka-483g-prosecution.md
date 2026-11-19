@@ -86,6 +86,11 @@ sources:
     publisher: detikBali
     date: 2026-11-03
     language: id
+  - title: Беларуса с кокаином и марихуаной задержали на Бали. Ему может грозить пожизненное заключение — REFORM.news
+    url: https://reform.news/belarusa-s-kokainom-i-marihuanoj-zaderzhali-na-bali-emu-mozhet-grozit-pozhiznennoe-zakljuchenie/
+    publisher: Reform.news
+    date: 2026-04-07
+    language: ru
 open_questions:
   - The nine-year prison term and Rp100 million fine are the prosecutor's demand; no verdict or sentence has been reported, with a defence plea expected at the next hearing.
   - Radar Badung reports the fine's subsidiary as one year's imprisonment, while NusaBali reports 60 days if the fine is unpaid, with payment within one month; the report follows the subsidiary account but omits it from figures because no sentence has been imposed.
@@ -94,6 +99,8 @@ open_questions:
   - 'Left out, as its quotation was not found in NusaBali: Belarusian national Hleb Saroka, 30, faced a demand hearing at the Denpasar District Court on 3 November 2026.'
   - 'Left out, as its quotation was not found in NusaBali: On 6 April 2026 Saroka came to a hotel reception in Jimbaran, Kuta Selatan, Badung at about 19.00 WITA to collect a package left there through witness Ali.'
   - 'Left out, as its quotation was not found in NusaBali: His counsel said the foreign national has no family or friends assisting him in Indonesia and was confused about what steps to take.'
+  - The amounts were reported as 483 grams of marijuana and 33 grams of cocaine and also as 483.5 grams net of cannabis and 33.69 grams net of cocaine after forensic weighing.
+  - No separate date for the arrest was given; 7 April 2026 is the publication date.
 ---
 
 Prosecutor Finna Wulandari demanded nine years' imprisonment for him. [@1,3,4,5,6] The
@@ -104,14 +111,14 @@ Officers searching the package found seven packs of dried leaves suspected to be
 cannabis. [@2,3] Officers searching his lodging found a small clip plastic of
 white powder containing cocaine inside his Adidas shoe. [@2] Weighing recorded
 483.5 grams net (525.8 grams gross) of cannabis and 33.69 grams net (34.56 grams
-gross) of cocaine. [@2,4,5] Bali Police forensic laboratory tests confirmed the
+gross) of cocaine. [@2,4,5] Police believed the drugs were intended for sale in Bali. [@7] Bali Police forensic laboratory tests confirmed the
 dried leaf, stem and seed samples contained cannabis listed as Category I
 narcotics. [@2]
 
 Prosecutors said that about two weeks before the arrest a man named Egor, still
-wanted, contacted Saroka to say he would send a package. [@2,4] Denpasar police
+wanted, contacted Saroka to say he would send a package. [@2,4,7] The cannabis parcel came from Switzerland and he ordered it in a local resident's name, asking for it to be taken from the post office and left at a hotel. [@7] Denpasar police
 officers acting on a public tip about a suspicious package secured Saroka when
-he came to take it. [@2] His urine tested positive for Ecgonine Methyl Ester, a
+he came to take it. [@2,7] He told police he received the cocaine from a Georgian acquaintance and had hidden the drugs in clothing in his suitcase when entering Indonesia. [@7] His urine tested positive for Ecgonine Methyl Ester, a
 metabolite of cocaine. [@2]
 
 The demand hearing was presided over by judge I Wayan Suarta. [@5,6]
