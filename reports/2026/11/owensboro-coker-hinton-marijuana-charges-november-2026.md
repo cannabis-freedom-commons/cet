@@ -60,28 +60,27 @@ sources:
     url: https://www.tristatehomepage.com/news/local-news/daviess-county/owensboro-news/daviess-county-detectives-bust-synthetic-marijuana-operation/
     publisher: Eyewitness News (WEHT/WTVW)
     date: 2026-11-18
-open_questions:
-  - No weight, plant count, area or street value for cannabis was published; the 'large amount of cash' was not given a figure.
-  - The sources do not say when the alleged marijuana trafficking and possession occurred; 17 November 2026 is the date of the searches and arrests.
-  - No laboratory confirmation was reported for the 'imported leaf products', which may be material used with the synthetic drugs; no cannabis quantity is derived from them.
-  - No court date, plea or outcome beyond the filing of charges was reported; the Sheriff's Office said further warrants and charges were anticipated.
+  - title: Searches lead to discovery of alleged synthetic marijuana operation in Daviess County
+    url: https://www.wnky.com/searches-lead-to-discovery-of-alleged-synthetic-marijuana-operation-in-daviess-county/
+    publisher: WNKY News 40 Television
+    date: 2026-11-19
 ---
 
 Tehryon T. Coker Sr. and Khalil D. “K.D.” Hinton were arrested during the
-investigation. [@2,3] Detectives and patrol deputies executed search warrants
+investigation. [@2,3,4] Detectives and patrol deputies executed search warrants
 around 1:50 p.m. Nov. 17 at a residence in the 700 block of Deer Trail belonging
 to Coker and a residence in the 2300 block of Clarke Drive associated with
-Hinton. [@1,3] The investigation had been under way for several months. [@1,3]
+Hinton. [@1,3,4] The investigation had been under way for several months. [@1,3,4]
 
 Hinton was charged with trafficking in marijuana, first offense, firearm
-enhanced. [@1,3] Coker was charged with possession of marijuana, firearm enhanced.
-[@1,3] Hinton was also charged with trafficking in synthetic drugs, first offense,
-firearm enhanced. [@1,3] Both Coker and Hinton were booked into the Daviess County Detention Center. [@3]
+enhanced. [@1,3,4] Coker was charged with possession of marijuana, firearm enhanced.
+[@1,3,4] Hinton was also charged with trafficking in synthetic drugs, first offense,
+firearm enhanced. [@1,3,4] Both Coker and Hinton were booked into the Daviess County Detention Center. [@3,4]
 
 Items seized during the searches included baggies, digital scales, chemicals
 believed to be used in manufacturing, imported leaf products, four handguns, a
-ballistic vest, ammunition, four vehicles and a large amount of cash. [@1,3] One
+ballistic vest, ammunition, four vehicles and a large amount of cash. [@1,3,4] One
 handgun had been reported stolen from Muhlenberg County and another had a
 defaced serial number. [@1] The DCSO Special Investigations Unit said it was
 continuing the investigation and anticipated additional search warrants and
-charges. [@1]
+charges. [@1,4]
