@@ -87,14 +87,11 @@ sources:
     publisher: Telenuova
     date: 2026-11-18
     language: it
-open_questions:
-  - The hashish is given as about 100 grams, not an exact measured weight.
-  - Irno24 dates the arrest only to 'recent hours' before its 18 November publication; 16 November is used because SalernoToday, Occhi su Salerno and Salernonotizie give that date.
-  - The reports do not say where the search took place or whose premises it covered.
-  - No estimate of the hashish's value was published.
-  - The man was named only by his age, and no plea, detention measure or court date was reported.
-  - The reports do not say whether this is the same 24-year-old whom the same station arrested on 10 November with about 45 grams of hashish, eight .380 bullets and 1,135 euros.
-  - The outlets appear to reproduce the same Carabinieri statement, so they are not independent accounts.
+  - title: 'Salerno. Spaccio di hashish: arrestato 24enne'
+    url: https://www.battipaglia1929.it/2026/11/19/salerno-spaccio-di-hashish-arrestato-24enne/
+    publisher: Battipaglia 1929
+    date: 2026-11-19
+    language: it
 media:
   - kind: photo
     url: https://www.lacittadisalerno.it/cronaca/salerno-24enne-arrestato-per-spaccio-trovati-100-grammi-di-hashish-e-540-euro-in-contanti-m0pf16q1
@@ -104,15 +101,15 @@ media:
 ---
 
 Carabinieri from the Salerno Fratte station arrested a 24-year-old man in
-Salerno on 16 November 2026. [@5,6,7,8,9] He is under investigation for detenzione di
+Salerno on 16 November 2026. [@5,6,7,8,9,10] He is under investigation for detenzione di
 sostanza stupefacente ai fini di spaccio, the offence of possessing a narcotic
-substance for the purpose of dealing. [@2,6,7,8]
+substance for the purpose of dealing. [@2,6,7,8,10]
 
 A search of what the young man had at his disposal found about 100 grams of
-hashish, the resin form of cannabis. [@2,6,7,8,9] Officers also seized material for
-packaging the drug into doses. [@1,6,7,8] Along with the drug and packaging, they took
+hashish, the resin form of cannabis. [@2,6,7,8,9,10] Officers also seized material for
+packaging the drug into doses. [@1,6,7,8,10] Along with the drug and packaging, they took
 540 euros in cash, which they described as the likely proceeds of the illegal
-activity. [@3,6,7,8,9]
+activity. [@3,6,7,8,9,10]
 
 The operation fell within the Carabinieri's activity against drug dealing in the
 area, Occhi su Salerno reported. [@4] The accusations were made at the
