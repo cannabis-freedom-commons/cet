@@ -112,12 +112,22 @@ sources:
     publisher: B.Z.
     date: 2026-11-19
     language: de
+  - title: 'Drogenfund am BER: Zoll entdeckt 40 Kilo Cannabis in zwei Koffern'
+    url: https://www.bz-berlin.de/berlin/drogenfund-am-ber-zoll-entdeckt-40-kilo-cannabis-in-zwei-koffern-6afec80e4d1895cf2a8f0e4b
+    publisher: B.Z. / bz-berlin.de
+    date: 2026-11-19
+    language: de
 media:
   - kind: photo
     url: https://www.berliner-zeitung.de/article/cannabis-am-ber-zoll-findet-40-kilogramm-in-zwei-gepaeckstuecken-10614031
     media_url: https://berliner-zeitung-msp-prod.imgix.net/2026/11/19/06f2474e-1c9b-439c-ae93-ac8d2621282c.jpg?rect=0%2C55%2C2048%2C1365&w=1024&auto=format
     publisher: Berliner Zeitung
     caption: 'Customs sniffer dog Inge''s October find of 16 kg cannabis in luggage at BER. Photo: Hauptzollamt Potsdam'
+  - kind: photo
+    url: https://www.bz-berlin.de/berlin/drogenfund-am-ber-zoll-entdeckt-40-kilo-cannabis-in-zwei-koffern-6afec80e4d1895cf2a8f0e4b
+    media_url: https://images.bz-berlin.de/6afec80e4d1895cf2a8f0e4b/b85a51093e504e0a86b93ba2acf23ac9,18020ed9?w=992
+    publisher: B.Z. / bz-berlin.de
+    caption: 'Photo published with the report of the 40 kg cannabis seizure at BER airport. Photo: Uli Deck/dpa'
 ---
 
 Two travellers are facing criminal proceedings on suspicion of smuggling in
@@ -126,14 +136,14 @@ Brandenburg Airport. [@1,4,9,12] The Zollfahndungsamt Berlin-Brandenburg has tak
 the further investigations. [@1,4,12]
 
 On 2 November customs officers at the airport found 40 kilograms of cannabis
-spread over two pieces of luggage. [@2,3,4,5,6,7,8,9,10,12,13] The man had arrived on a flight from Zurich, a customs spokeswoman said. [@3,5,6,7,8,9,11,13,14,15] Officers of the Hauptzollamt Potsdam had
-already spotted irregularities during the X-ray screening. [@2,4,9,10,12,15] When the luggage
+spread over two pieces of luggage. [@2,3,4,5,6,7,8,9,10,12,13] The man had arrived on a flight from Zurich, a customs spokeswoman said. [@3,5,6,7,8,9,11,13,14,15,16] Officers of the Hauptzollamt Potsdam had
+already spotted irregularities during the X-ray screening. [@2,4,9,10,12,15,16] When the luggage
 was opened officers found only vacuum-sealed bags with a green-brown substance.
-[@1,3,4,5,7,9,10,13,14,15] A drug test subsequently carried out for cannabis was positive. [@1,3,4,5,6,7,8,9,10,13,14,15]
+[@1,3,4,5,7,9,10,13,14,15,16] A drug test subsequently carried out for cannabis was positive. [@1,3,4,5,6,7,8,9,10,13,14,15,16]
 
 In mid-October customs sniffer dog Inge detected 16 kilograms of cannabis in the
-luggage of a Malaysian man who had arrived via Madrid. [@1,3,4,9,12,13,15] The traveller said
-the suitcases belonged to a friend. [@1,3,4,5,6,7,8,9,11,13,15] Officers seized a total of eight
+luggage of a Malaysian man who had arrived via Madrid. [@1,3,4,9,12,13,15,16] The traveller said
+the suitcases belonged to a friend. [@1,3,4,5,6,7,8,9,11,13,15,16] Officers seized a total of eight
 double-vacuumed plastic bags containing cannabis. [@1,4,12] In total the two cases
 account for 56 kilograms of cannabis seized from travellers' luggage at the
 airport. [@1]
