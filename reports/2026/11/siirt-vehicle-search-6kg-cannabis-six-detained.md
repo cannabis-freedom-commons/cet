@@ -155,12 +155,22 @@ sources:
     publisher: Gazete Vatan
     date: 2026-11-18
     language: tr
+  - title: Siirt'te 6 kilogram esrar ele geçirildi, 6 şüpheli gözaltına alındı
+    url: https://ilkha.com/video-gallery/siirtte-6-kilogram-esrar-ele-gecirildi-6-supheli-gozaltina-alindi-576685
+    publisher: İlke Haber Ajansı (İLKHA)
+    date: 2026-11-18
+    language: tr
 media:
   - kind: photo
     url: https://www.haberport.com/haber/siirtte-narkotik-kopeginin-izledigi-aracta-6-kilogram-esrar-ele-gecirildi/71954
     media_url: https://cdn.haberport.com/uploads/1280/images/news/0b67e0b2-9fcf-4e1a-9a66-d4970c9525ac.jpg
     publisher: Haberport
     caption: 'Photo captioned ''ELE GEÇİRİLENLER'' (the seized items), published with the Haberport account of the 6 kg cannabis seizure in Siirt. Photo: Haberport'
+  - kind: video
+    url: https://ilkha.com/video-gallery/siirtte-6-kilogram-esrar-ele-gecirildi-6-supheli-gozaltina-alindi-576685
+    media_url: https://www.youtube.com/watch?v=U3-mVoWVkp4
+    publisher: İlke Haber Ajansı (İLKHA)
+    caption: 'İLKHA video report on the Siirt operation in which police found six kilograms of cannabis in a car and detained six suspects. Video: İlke Haber Ajansı (İLKHA)'
 open_questions:
     - No separate date was given for the stop and search; 18 November 2026, when the police statement was published, stands in for the incident date.
     - No detention decision, charge, plea or court outcome was reported; the case was at the investigation stage.
@@ -172,10 +182,10 @@ combating narcotics crime, as part of work against drug use and trafficking.
 [@1,5,6,7,8,9,10,15,16,17,18,19,22,23] The seizure was announced in a statement from the Siirt Governor's Office. [@15,16,17,21] Officers had been following the car on suspicion of drug trafficking before
 they stopped and searched it. [@4] The search was carried out with İnşa, a
 narcotics detection dog. [@1,11,13,14,15,16,17,18,20,21,22,23] Officers seized six kilograms of esrar, the
-everyday Turkish term for cannabis, from the vehicle. [@2,5,6,7,8,9,12,13,14,15,16,17,18,19,20,21,22,23]
+everyday Turkish term for cannabis, from the vehicle. [@2,5,6,7,8,9,12,13,14,15,16,17,18,19,20,21,22,23,24]
 
 Six suspects were detained over the seizure, one of them a foreign national.
-[@1,5,6,7,8,9,11,13,14,15,16,17,18,19,20,21,22,23] Legal proceedings were started against the suspects who had been in the
+[@1,5,6,7,8,9,11,13,14,15,16,17,18,19,20,21,22,23,24] Legal proceedings were started against the suspects who had been in the
 car. [@4]
 
 After questioning and processing at the police station, the six were sent to the
