@@ -68,6 +68,11 @@ sources:
     url: https://www.socialnews.xyz/2026/11/19/gujarat-woman-among-two-arrested-in-drug-raids-rs-53-51-lakh-cash-seized/
     publisher: Social News XYZ
     date: 2026-11-19
+  - title: 'गुजरात ड्रग्स के खिलाफ छापेमारी में महिला समेत दो लोग गिरफ्तार, 53.51 लाख रुपए नकद जब्त | Gujarat: Woman among two arrested in drug raids; Rs 53.51 lakh cash seized (Photo: IANS)'
+    url: https://www.bhaskarhindi.com/other/hindi-gujarat-woman-among-two-arrested-in-drug-raids-rs-5351-lakh-cash-seized-20261119192935-1394329
+    publisher: Bhaskar Hindi
+    date: 2026-11-19
+    language: hi
 open_questions:
   - No separate date was given for the raids; 19 November 2026 is the publication date and stands in for the incident date, described only as a single night.
   - 'Sources differ on how many remain wanted: one says the husband alone is wanted, another says two accused including a man and a woman are yet to be caught, naming Sunitaben Chhara separately.'
@@ -91,12 +96,12 @@ Deepak Rathod, while her husband Deepak Rathod was declared wanted. [@1]
 Officers searching the Sarkhej residence recovered 2 kilograms and 174 grams of
 ganja alongside Rs 53.51 lakh in cash kept in a safe. [@1] Officers also
 recovered 28 plastic and zip bags and Rs 53,51,100 in cash from the premises.
-[@2,4,5] Police put the total value of the Sarkhej seizure at Rs 54,59,800,
-including the cash. [@2,4,5]
+[@2,4,5,6] Police put the total value of the Sarkhej seizure at Rs 54,59,800,
+including the cash. [@2,4,5,6]
 
 Police registered two cases under the Narcotic Drugs and Psychotropic Substances
-Act during the single-night Zone-7 special drive. [@2,4,5] Officials said the Income
+Act during the single-night Zone-7 special drive. [@2,4,5,6] Officials said the Income
 Tax Department and the Enforcement Directorate may be approached to trace the
-source of the cash. [@2,4,5] Police said they will examine the accused’s assets,
+source of the cash. [@2,4,5,6] Police said they will examine the accused’s assets,
 with possible property seizure and demolition of illegal structures linked to
 the trade. [@2,5]
