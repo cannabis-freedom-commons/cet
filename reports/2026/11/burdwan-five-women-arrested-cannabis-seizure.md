@@ -69,28 +69,39 @@ sources:
     publisher: News18 Bengali
     date: 2026-11-19
     language: bn
+  - title: बर्दवान में गांजा तस्करी का भंडाफोड़, 19 किलो 200 ग्राम गांजे के साथ 5 महिलाएं गिरफ्तार - India TV Hindi
+    url: https://www.indiatv.in/west-bengal/bardhaman-cannabis-smuggling-racket-busted-5-women-arrested-2026-11-19-1255162
+    publisher: India TV Hindi
+    date: 2026-11-19
+    language: hi
+  - title: কার্জনগেট চত্বরে টোটোয় ব্যাগ ভর্তি গাঁজা, আটক ৫ মহিলা
+    url: https://www.theanchorbengal.com/five-women-detained-with-cannabis-in-bardhaman-toto/
+    publisher: The Anchor Bengal
+    date: 2026-11-18
+    language: bn
 open_questions:
     - The cannabis weight is given as about 19.2 kg by IANS, Prokerala, News18 Bengali and Focus Bengal but as about 11 kg by UNI, and no weight is recorded in the figures.
     - UNI described the four women from Odisha as Bhubaneswar residents, while police sources quoted by News18 Bengali and Focus Bengal placed them in the Pirangi police-station area of Kandhamal district.
     - No ages were published for the five women, and only the UNI account mentioned that one of them had a child with her.
     - The five were to be produced before the Burdwan district court on 19 November 2026; no charges, remand order or later court outcome was reported.
     - The seized cannabis was valued only at several lakh rupees; no precise figure was published.
+    - The interception spot is variously described as Curzon Gate crossing, behind Sanskriti Lokmanch opposite the district police office, and the Hawkers Market area near the Court Compound.
 ---
 
 Burdwan Police arrested five women in Burdwan town, West Bengal, in connection
-with a cannabis seizure on Wednesday, 18 November 2026. [@1,3,4] The women were
+with a cannabis seizure on Wednesday, 18 November 2026. [@1,3,4,6] The women were
 intercepted in the Hawkers Market area near the Court Compound in Burdwan town.
-[@2,3,5] Four of them got off at the Nawabhat bus stand and rode a toto, a battery-powered three-wheeler, to the Court Compound area. [@4] Personnel from Burdwan Police Station carried out the interception after
-receiving secret information. [@2,5] Executive magistrate Bhabesh Chandra Pal was present when officers searched the bags the women were carrying. [@5] One of those arrested was a mother who had a
+[@2,3,5] Officers stopped a suspicious toto in the Curzon Gate area and found sacks and bags full of ganja in the women's bags. [@7] Four of them got off at the Nawabhat bus stand and rode a toto, a battery-powered three-wheeler, to the Court Compound area. [@4] Personnel from Burdwan Police Station carried out the interception after
+receiving secret information. [@2,5,6] Executive magistrate Bhabesh Chandra Pal was present when officers searched the bags the women were carrying. [@5] One of those arrested was a mother who had a
 child with her at the time of the arrest. [@2]
 
 Four of those arrested were described as residents of Bhubaneswar, while the
 fifth woman was from the Lakshmipur Math area of Burdwan town. [@2] Police named the four women from Odisha as Chandrika Kahar, Mini Mallick, Hemlata Digol and Malti Digol, all residents of the Pirangi police-station area of Kandhamal district, and the Burdwan woman as Rehena Begum. [@5] Police said
 the cannabis allegedly possessed by the women had been trafficked into Burdwan
-from Odisha. [@2,5] Police said the seized cannabis was worth several lakh rupees on the market. [@5] According to police, the four women from Odisha had come to
+from Odisha. [@2,5] Police suspect the women are part of an organised ganja-trafficking gang that moves consignments in small vehicles and totos. [@6] Police said the seized cannabis was worth several lakh rupees on the market. [@5] According to police, the four women from Odisha had come to
 Burdwan to hand over the contraband narcotic substance to the local Burdwan
-woman. [@2,4]
+woman. [@2,4] Investigators are questioning the women to trace where the ganja came from and in which parts of Bardhaman city or nearby areas it was to be supplied. [@6]
 
 An IANS photo caption published with the gallery described the seizure as
-approximately 19.2 kg of cannabis. [@1,3] A separate UNI summary of the same
+approximately 19.2 kg of cannabis. [@1,3] Officers weighed the seized ganja at the scene and recorded a total of 19.2 kilograms. [@6] A separate UNI summary of the same
 interception reported the amount involved as around 11 kg of cannabis. [@2] Burdwan Police Station registered a case under sections of the Narcotic Drugs and Psychotropic Substances Act, and the five were to be produced before the Burdwan district court on 19 November 2026. [@5]
