@@ -116,6 +116,10 @@ sources:
     publisher: وكالة أنباء سرايا الإخبارية (سرايا)
     date: 2026-11-19
     language: ar
+  - title: Jordanian Police Arrest 13 Drug Traffickers in Raids
+    url: https://www.jordannews.jo/Section-109/News/Jordanian-Police-Arrest-13-Drug-Traffickers-in-Raids-59132
+    publisher: Jordan News
+    date: 2026-11-19
 media:
   - kind: photo
     url: https://petra.gov.jo/en/news/anti-narcotics-department-takes-down-13-drug-dealers-in-multi-area-operations
@@ -126,13 +130,13 @@ media:
 
 Jordan’s Anti-Narcotics Department officers toppled 13 drug dealers while
 handling a number of trafficking cases over the previous few days, the Public
-Security Directorate spokesperson said. [@1,4,5,6,8,9,10,11,12,13,14,15,16] The spokesperson said all of the
+Security Directorate spokesperson said. [@1,4,5,6,8,9,10,11,12,13,14,15,16,17] The spokesperson said all of the
 cases involved trafficking, including four cases in the Capital Governorate.
-[@2,4,6,8,9,10,12,16]
+[@2,4,6,8,9,10,12,16,17]
 
 In the largest capital case officers raided and arrested three dealers and
 seized 15 kilograms of marijuana, five slabs of hashish and 250 grams of crystal
-methamphetamine from them. [@2,4,5,7,8,9,10,11,13,14,15,16] In a second capital case officers raided another
+methamphetamine from them. [@2,4,5,7,8,9,10,11,13,14,15,16,17] In a second capital case officers raided another
 dealer inside his vehicle while he was moving drugs for sale and seized 24 slabs
 of hashish from him. [@3,4,6,8,10,16] In a third capital case officers raided two dealers
 inside a vehicle and seized six slabs of hashish from them. [@2,4,8,10,16] In the last
