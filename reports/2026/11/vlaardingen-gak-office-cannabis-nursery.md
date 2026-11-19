@@ -38,6 +38,11 @@ media:
     media_url: https://images.ad.nl/ZGlvLzI4MDQ2NzMwNy9maXQtd2lkdGgvNjc2/verdachte-vondst-in-vlaardingen
     publisher: AD.nl
     caption: 'Scene of the suspicious find in Vlaardingen during the dismantling of the cannabis nursery. Photo: Carlo ter Ellen'
+  - kind: photo
+    url: https://www.ad.nl/vlaardingen/zorgen-na-ontdekking-hennepkwekerij-in-oude-gak-gebouw-in-vlaardingen~af173aec/
+    media_url: https://images.ad.nl/ZGlvLzI4MDUyNjUwMi9maXQtd2lkdGgvNjI4/het-pand-waar-vroeger-het-gak-en-later-het-uwv-was-gevestigd-in-vlaardingen-en-waar-deze-week-een-hennepkwekerij-is-aangetroffen
+    publisher: AD.nl
+    caption: 'The former GAK and later UWV office building in Vlaardingen where a cannabis nursery was found this week. Photo: Privéfoto'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: fa412bfb09bc1ea6b6eb5c0d1adeada1
@@ -68,28 +73,32 @@ sources:
     publisher: AD.nl
     date: 2026-11-18
     language: nl
+  - title: Zorgen na ontdekking hennepkwekerij in oude GAK-gebouw in Vlaardingen
+    url: https://www.ad.nl/vlaardingen/zorgen-na-ontdekking-hennepkwekerij-in-oude-gak-gebouw-in-vlaardingen~af173aec/
+    publisher: AD.nl
+    date: 2026-11-19
+    language: nl
 open_questions:
-    - No figure for the number of cannabis plants in the nursery was published.
     - No weight or estimated value for the plants or the growing equipment was published.
     - No one had been arrested at the time of the AD publication on 18 November 2026; whether anyone was later charged or identified remains unknown.
     - The AD account attributes the information to a Rotterdam police unit spokesperson, while the earlier accounts reproduced the same Flashphoto press-bureau report without naming the authority carrying out the dismantling.
     - How the nursery was discovered and how long it had been operating were not reported.
-    - The dismantling began on the evening of Tuesday 17 November and continued into 18 November, so the event spans both dates.
+    - The dismantling began on the evening of Tuesday 17 November and continued into the night of Wednesday 18 November, so the event spans both dates.
 ---
 
 A very large cannabis nursery was dismantled on the evening of Tuesday 17
 November 2026 in the former GAK office building on Industrieweg in Vlaardingen.
-[@2,5] A Rotterdam police unit spokesperson said the materials found were means used to set up and build a cannabis nursery. [@5] The nursery occupied the eighth floor of the nine-storey building. [@1,5] The
+[@2,5,6] During the raid, 1,453 cannabis plants were found and seized. [@6] A Rotterdam police unit spokesperson said the materials found were means used to set up and build a cannabis nursery. [@5] The nursery occupied the eighth floor of the nine-storey building. [@1,5] The
 clearance ran from Tuesday evening into the night of Wednesday 18 November. [@3] Police secured and removed all the materials found and were still considering whether to conduct further investigation into the find. [@5] No one had been arrested at the time of publication. [@5]
 
 Beside the cannabis plants, those clearing the building found large snail-cage
-fans, transformers, wiring and kilos of potting soil. [@3] The material was
+fans, transformers, wiring and kilos of potting soil. [@3,6] The material was
 passed down the shaft of a service lift, caught on the first floor and thrown
 through an opened window into a container to be taken away. [@1] Those involved
 described the nursery as very professionally set up. [@2]
 
 The nine-storey building was formerly used by the GAK, later the UWV and the
-municipal service Stadswerk. [@4] In recent years the building served as a joint
+municipal service Stadswerk. [@4] The nine-storey building was not owned by the municipality; it was sold at the end of 2019 to bakery-ingredients producer Royal Steensma BV of Leeuwarden, taken over by Dawn Foods in 2024. [@6] In recent years the building served as a joint
 knowledge, innovation and training centre for the food industry. [@1] The
 building stands next to the De Elementen homeless shelter and the Food
-Innovation Academy. [@3]
+Innovation Academy. [@3] The CDA sought clarification from mayor Frederik Zevenbergen over the discovery. [@6]
