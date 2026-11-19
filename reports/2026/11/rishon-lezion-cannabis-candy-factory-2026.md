@@ -68,16 +68,21 @@ sources:
     publisher: i24NEWS
     date: 2026-11-18
     language: he
+  - title: 'Not so sweet: Israeli man arrested for production, distribution of drugs, cannabis gummy bears'
+    url: https://www.msn.com/en-ca/news/other/not-so-sweet-israeli-man-arrested-for-production-distribution-of-drugs-cannabis-gummy-bears/ar-AA2hK6FQ
+    publisher: MSN / The Jerusalem Post
+    language: en
 open_questions:
     - The 50 kg figure is a combined weight for cannabis, ecstasy and hashish, with no separate weight given for the cannabis component.
     - The operation was dated only to 'earlier this week'; 18 November 2026 is the publication date and is used as the incident date.
     - The substances were described as suspected drugs; no laboratory confirmation of their composition was reported.
     - No indictment had been filed; police said the case would be passed to the Central District prosecution unit in the coming days.
     - The published accounts reproduce the Israel Police spokesperson's statement rather than independent reporting.
+    - 'Left out, as its quotation was not found in The Jerusalem Post: A court granted the police request and extended the suspect''s detention until 19 November 2026, with the case expected to reach the Central District police prosecution unit for an indictment in the coming days.'
 ---
 
 Police in Rishon LeZion arrested a man in his 40s from the city and took him in
-for questioning. [@1,3,4] The suspect was held on suspicion of involvement in
+for questioning. [@1,3,4,5] Israel Police announced the arrest on Wednesday. [@5] The suspect was held on suspicion of involvement in
 operating the apartment and distributing the drugs. [@2] Detectives from the
 crime-fighting unit at the Rishon LeZion station in the Shapla district exposed
 the apartment at the beginning of the week. [@2] A dedicated room in the flat
@@ -87,10 +92,10 @@ cannabis, which police said were intended for distribution alongside the other
 material. [@2]
 
 Officers seized more than 50 kilograms of suspected drugs of different kinds,
-which police listed as cannabis, ecstasy and hashish. [@1,3,4] All the seized
+which police listed as cannabis, ecstasy and hashish. [@1,3,4,5] All the seized
 material was transferred to the Israel Police forensic identification
 laboratories for further evidence extraction. [@1,3,4]
 
 A court granted the police request and extended the suspect's detention until 19
 November 2026, with the case expected to reach the Central District police
-prosecution unit for an indictment in the coming days. [@1,3,4]
+prosecution unit for an indictment in the coming days. [@1,3,4] Police said the extension let them hold the suspect for twice the period they may normally keep a detainee. [@5]
