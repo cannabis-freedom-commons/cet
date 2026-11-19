@@ -58,6 +58,11 @@ media:
     media_url: https://www.nowezyciepabianic.pl/wp-content/uploads/2026/11/policja-narkotyki-1-1.jpg
     publisher: Nowe Życie Pabianic
     caption: 'Police handout photo of the seized substances from the Konstantynów Łódzki case. Photo: Policja'
+  - kind: photo
+    url: https://tuzgierz.pl/lodzkie/28-latkek-z-woj-lodzkiego-wpadl-podczas-kontroli-narkotyki-byly-pod-fotelem-pasazera/gSRGA74rltrTCEtahhH1
+    media_url: https://static.tuzgierz.pl/tulodz/articles/image/59b1d3ef-4af8-4bfb-b89c-4eec3c0f610c
+    publisher: TuZgierz.pl
+    caption: 'Police handout photo of the drugs seized from the car and flat in the Konstantynów Łódzki case, captioned ''Narkotyki były pod fotelem pasażera''. Photo: łódzka policja'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 7ee2f80062be6c37d95b478c91445ffe
@@ -88,32 +93,37 @@ sources:
     publisher: Kryminalki.pl
     date: 2026-11-18
     language: pl
+  - title: 28-latkek z woj. łódzkiego wpadł podczas kontroli. Narkotyki były pod fotelem pasażera
+    url: https://tuzgierz.pl/lodzkie/28-latkek-z-woj-lodzkiego-wpadl-podczas-kontroli-narkotyki-byly-pod-fotelem-pasazera/gSRGA74rltrTCEtahhH1
+    publisher: TuZgierz.pl
+    date: 2026-11-18
+    language: pl
 open_questions:
-  - 'The weights are approximate: the car samples are given as over 58 and over 53 grams, the flat samples as over 2 and nearly 59 grams; the marijuana total of over 60 grams sums the two plant-material figures.'
-  - The combined figure of over 170 grams covers both marijuana and amphetamine, so it is not used as a cannabis weight.
-  - Only preliminary field tests were reported; no laboratory confirmation of the substances was published.
-  - The 2-gram flat sample was described only as plant material and confirmed as a prohibited substance, without being identified again specifically as marijuana.
-  - The suspect is named only as a 28-year-old; no name, plea or court outcome was reported.
-  - The suspected drug-driving matter was not charged; a blood test was pending and the licence was seized.
-  - The submitted report and the two other accounts all reproduce the same Pabianice police statement, so they are not independent reporting.
+    - 'The weights are approximate: the car samples are given as over 58 and over 53 grams, the flat samples as over 2 and nearly 59 grams; the marijuana total of over 60 grams sums the two plant-material figures.'
+    - The combined figure of over 170 grams covers both marijuana and amphetamine, so it is not used as a cannabis weight.
+    - Only preliminary field tests were reported; no laboratory confirmation of the substances was published.
+    - The 2-gram flat sample was described only as plant material and confirmed as a prohibited substance, without being identified again specifically as marijuana.
+    - The suspect is named only as a 28-year-old; no name, plea or court outcome was reported.
+    - The suspected drug-driving matter was not charged; a blood test was pending and the licence was seized.
+    - All the accounts, including this one, reproduce the same Pabianice police statement, so they are not independent reporting.
 ---
 
 Police in Konstantynów Łódzki stopped a 28-year-old Volkswagen driver just after
 17:00 on 14 November 2026 on suspicion that he was carrying forbidden
-substances. [@2,4,5] The 28-year-old was charged with possession of a significant
-quantity of narcotic substances. [@1,4,5]
+substances. [@2,4,5,6] The officers who made the stop were from the patrol and intervention unit of the Konstantynów Łódzki police station. [@6] The 28-year-old was charged with possession of a significant
+quantity of narcotic substances. [@1,4,5,6]
 
 Under the passenger seat officers found two sealed bags, one holding over 58
 grams of dried plant material and the other over 53 grams of a white substance,
 which preliminary tests identified as marijuana and amphetamine respectively.
-[@1,4,5] A search of the 28-year-old's home uncovered a further over 2 grams of
+[@1,4,5,6] A search of the 28-year-old's home uncovered a further over 2 grams of
 plant material and nearly 59 grams of white substance, split into small portions
 in ziplock bags, and preliminary tests there also indicated prohibited drugs.
-[@1,4,5] Together the two plant-material samples amount to over 60 grams of
+[@1,4,5,6] Together the two plant-material samples amount to over 60 grams of
 marijuana, while police put the combined haul of marijuana and amphetamine at
-more than 170 grams. [@1]
+more than 170 grams. [@1,6]
 
 Officers also took a blood sample and seized the driver's licence while they
 checked whether he had been driving under the influence of psychotropic
-substances. [@1,4,5] Possession of a significant quantity of narcotics carries a
+substances. [@1,4,5,6] Possession of a significant quantity of narcotics carries a
 sentence of up to 10 years in prison. [@3]
