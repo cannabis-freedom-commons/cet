@@ -65,22 +65,27 @@ sources:
     publisher: FrosinoneToday
     date: 2026-11-19
     language: it
+  - title: 'Artena, arrestato 49enne per droga: sequestrati oltre 100 grammi di cocaina e marijuana'
+    url: https://montiprenestini.info/artena-arrestato-49enne-per-droga-sequestrati-oltre-100-grammi-di-cocaina-e-marijuana/
+    publisher: Monti Prenestini
+    date: 2026-11-18
+    language: it
 ---
 
 Carabinieri from the Artena station arrested a 49-year-old local man, already
-known to police, in the town centre on the morning of 18 November 2026. [@1,4] He
+known to police, in the town centre on the morning of 18 November 2026. [@1,4,5] He
 was accused of detenzione di sostanze stupefacenti ai fini di spaccio, Italian
-for possession of drugs for the purpose of dealing. [@3] Officers searched him
-and his home. [@1,4]
+for possession of drugs for the purpose of dealing. [@3,5] Officers searched him
+and his home. [@1,4,5]
 
-In the search they seized 107 grams of cocaine and 9 grams of marijuana. [@1,4]
+In the search they seized 107 grams of cocaine and 9 grams of marijuana. [@1,4,5]
 They also seized a counterfeit 50-euro note and a mobile phone they believe was
-used to handle dealing contacts. [@1,4] The Carabinieri said the drugs, divided
+used to handle dealing contacts. [@1,4,5] The Carabinieri said the drugs, divided
 into doses, would have supplied dealing in the area. [@2]
 
 The 49-year-old was placed under house arrest at his home, at the disposal of
-the courts pending a validation hearing. [@1,4] The arrest was part of a wider
+the courts pending a validation hearing. [@1,4,5] The arrest was part of a wider
 territory-control strategy run by the Rome provincial Carabinieri command and
-the Colleferro company with the Velletri prosecutor's office. [@1,4] The case is
+the Colleferro company with the Velletri prosecutor's office. [@1,4,5] The case is
 at the preliminary investigation stage and the suspect is presumed innocent
-until a final judgment. [@1]
+until a final judgment. [@1,5]
