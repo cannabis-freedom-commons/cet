@@ -43,6 +43,11 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/11/19/73a580d9-8ae4-44cf-bfb0-438ed6bd264b_1795082890904.jpg
     publisher: Dainik Bhaskar
     caption: A group of police personnel and the seized material in front of Pahadi police station, in the photograph published with the report.
+  - kind: photo
+    url: https://hindi.dynamitenews.com/uttar-pradesh/chitrakoot-police-ganja-smuggling-three-arrested-8-kg-ganja-recovered/amp
+    media_url: https://s3.ap-south-1.amazonaws.com/static.dynamitenews.com/wp-content/uploads/sites/2/2026/11/ganja.jpg
+    publisher: Dynamite News Hindi
+    caption: Seized ganja bag described as the bag used to conceal the ganja, published with the Dynamite News report on the Chitrakoot seizure.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 35c291f84fde1356b1e78f51609b7cf2
@@ -53,23 +58,26 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-19
     language: hi
+  - title: चित्रकूट में नशे के सौदागरों की पुलिस ने तोड़ी कमर – Hindi Dynamite News
+    url: https://hindi.dynamitenews.com/uttar-pradesh/chitrakoot-police-ganja-smuggling-three-arrested-8-kg-ganja-recovered/amp
+    publisher: Dynamite News Hindi
+    date: 2026-11-19
+    language: hi
 open_questions:
-  - The article gives no separate date for the operation; 19 November 2026 is its publication date and is used as the incident date.
-  - No names or ages for the three suspects were given in the published account.
-  - No court appearance, formal charge or laboratory confirmation of the seized material was reported.
-  - The published account rests on a single news outlet's report, with no separate police statement or independent confirmation available.
+    - The articles give no separate date for the operation; 19 November 2026 is their publication date and is used as the incident date.
+    - No ages, plea, court appearance or laboratory confirmation of the seized material was reported.
+    - Both accounts reproduce the police version with no independent confirmation beyond the official statements.
 ---
 
 A joint team of the Pahadi police station and the Special Operations Group
 (SOG), a special unit of the Uttar Pradesh Police, arrested three people in
-Chitrakoot on suspicion of ganja smuggling. [@1] The three were described as
-residents of Kaushambi and Chitrakoot districts. [@1] The Special Operations
+Chitrakoot on suspicion of ganja smuggling. [@1,2] The three were described as
+residents of Kaushambi and Chitrakoot districts. [@1,2] Police identified the three as Sonu Kumar Maurya of Mandaur in Mau police station area of Chitrakoot district, and Kuldeep Tripathi and Brijesh Rajput of Charai in Paschim Sharira police station area of Kaushambi district. [@2] The Special Operations
 Group worked alongside the local Pahadi station team in the operation. [@1]
 
 Police said they seized 8 kilograms 48 grams (8.048 kg) of ganja, a cannabis
-product, from the three at the time of the arrest. [@1] Officers also impounded
-the Bolero vehicle they said had been used in the smuggling. [@1]
+product, from the three at the time of the arrest. [@1,2] Officers also impounded
+the Bolero vehicle they said had been used in the smuggling. [@1,2] Police gave the seized Bolero's registration number as UP96N9642. [@2] Police registered case number 236/2026 at Pahadi police station under sections 8/20 of the NDPS Act and seized the Bolero under section 207 of the Motor Vehicles Act. [@2]
 
 The police station concerned is in Pahadi, in the Rajapur area of Chitrakoot
 district, Uttar Pradesh. [@1]
-
