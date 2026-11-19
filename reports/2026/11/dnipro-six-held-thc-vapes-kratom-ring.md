@@ -56,6 +56,11 @@ sources:
     publisher: Espreso Zahid
     date: 2026-11-19
     language: uk
+  - title: تم الكشف عن شبكة دولية لتهريب المخدرات في مقاطعة لفيف ومصادرة أكثر من طن من المواد المخدرة
+    url: https://ua.news/ar/ukraine/na-lvivshchini-vikrili-transnatsionalnii-kanal-zbutu-narkotikiv-ta-viluchili-ponad-tonnu-rechovin
+    publisher: UA.NEWS
+    date: 2026-11-19
+    language: ar
 open_questions:
   - No separate date for the searches or arrests was published; 19 November 2026 is the publication date and stands in for the incident date.
   - The number of searches is reported as 15 in two accounts and 27 in two others, so no search count is used in figures.
@@ -69,23 +74,22 @@ open_questions:
 
 Lviv regional police with colleagues from Luhansk region dismantled a
 transnational drug smuggling and distribution network whose monthly turnover
-exceeded 11 million hryvnias. [@2] The group was six residents of Dnipropetrovsk
+exceeded 11 million hryvnias. [@2,5] The group was six residents of Dnipropetrovsk
 region aged 19 to 34 who set up wholesale shipments of kratom and e-cigarettes
 containing THC from EU countries to Ukraine. [@2] They sold through Telegram
 channels, taking payment in cryptocurrency and bank cards issued to front men
-and using two logistics-company employees for deliveries. [@1]
+and using two logistics-company employees for deliveries. [@1,5]
 
 For storage and packing the men rented an office and five garage units in
-Dnipro, which police describe as warehouses and packing stations. [@1] More than
+Dnipro, which police describe as warehouses and packing stations. [@1,5] More than
 a ton of kratom passed through those premises each month, and the group later
 focused on wholesale buyers taking at least 5 kg. [@4] During the searches
 officers seized 320 smoking devices containing THC and 79 cartridges containing
-THC. [@3] In the same searches police also seized about a ton of kratom-like
+THC. [@3,5] In the same searches police also seized about a ton of kratom-like
 substance and 500 cans of liquid containing kratom, plus packing equipment and
 records, which are not counted in the cannabis figures. [@4]
 
 All six men were notified of suspicion under Part 3 of Article 307 of Ukraine's
-Criminal Code for large-scale trafficking by prior conspiracy. [@4] The offence
+Criminal Code for large-scale trafficking by prior conspiracy. [@4,5] The offence
 carries up to 12 years in prison with confiscation of property. [@3] At the
 prosecution's request the court placed all six in custody without bail. [@4]
-
