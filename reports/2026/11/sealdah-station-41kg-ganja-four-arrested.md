@@ -69,6 +69,11 @@ sources:
     url: https://www.msn.com/en-in/news/India/four-arrested-in-major-crackdown-on-drug-trafficking-in-kolkata-41-kg-ganja-seized/ar-AA2hLGP6
     publisher: The Statesman
     date: 2026-11-19
+  - title: Several kilograms of cannabis valued at over 20 lakh rupees seized in the Sealdah station area
+    url: https://www.aajkaal.in/kolkata/several-kilograms-of-cannabis-valued-at-over-20-lakh-rupees-seized-in-the-sealdah-station-area-521174
+    publisher: Aajkaal
+    date: 2026-11-19
+    language: bn
 open_questions:
   - No charge, NDPS section, detention measure or court outcome was reported.
   - TheWall rounds the seizure to over 40 kg and the value to over 2,000,000 rupees; this report uses the precise 41.182 kg and 2,059,000 rupees given by Samay 365.
@@ -84,20 +89,20 @@ media:
 ---
 
 Kolkata Police arrested four people at Sealdah station on suspicion of cannabis
-smuggling. [@1,3,5] Two of the four people arrested were women. [@1,3] Police named
+smuggling. [@1,3,5] Two of the four people arrested were women. [@1,3,6] Police named
 the four as Rani Sardar (34), Baishakhi Biswas (32), Bishnupada Roy (52) and
 Narayan Banik (45). [@1] Rani is from South 24 Parganas, Baishakhi is from North
-24 Parganas, and Bishnupada and Narayan are both from Nadia district. [@1]
+24 Parganas, and Bishnupada and Narayan are both from Nadia district. [@1,6]
 
 Acting on a tip-off, officers of the Detective Department's Narcotic Cell
 carried out the operation in two phases on 18 November near Sealdah railway
-station and Smart Bazaar. [@2] Officers recovered 41.182 kg of suspected ganja
-packed in four trolley bags. [@2,4] Police put the estimated market value of the
-drugs at 2,059,000 rupees. [@2,5] Officers also seized four mobile phones and
+station and Smart Bazaar. [@2,6] Officers recovered 41.182 kg of suspected ganja
+packed in four trolley bags. [@2,4,6] Police put the estimated market value of the
+drugs at 2,059,000 rupees. [@2,5,6] Officers also seized four mobile phones and
 1,264 rupees in cash. [@2,4,5]
 
 Those questioned said the consignment had been brought from Bhubaneswar to be
 supplied to dealers across Kolkata. [@2,5] Police said the ganja had been brought
-for illegal sale in Kolkata. [@1] Investigators are examining whether a larger
+for illegal sale in Kolkata. [@1,6] Investigators are examining whether a larger
 trafficking network is behind the consignment and whether others are involved.
-[@1]
+[@1,6]
