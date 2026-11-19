@@ -45,6 +45,11 @@ media:
     media_url: https://www.ba.gov.br/policiacivil/sites/site-pcba/files/2026-11/WhatsApp%20Image%202026-11-18%20at%2009.04.05%20%282%29.jpeg
     publisher: Polícia Civil do Estado da Bahia
     caption: 'Second image published in the gallery of the Bahia Civil Police statement on the Aequus operation against the two cannabis greenhouses in Planaltino. Photo: Ascom-PCBA / Polícia Civil da Bahia'
+  - kind: photo
+    url: https://www.bahianoticias.com.br/amp/municipios/noticia/53427-operacao-contra-trafico-de-drogas-prende-dupla-e-desarticula-estufas-de-maconha-na-bahia
+    media_url: https://www.bahianoticias.com.br/fotos/municipios_noticias/53427/mg/a%C3%A7%C3%A3o%20em%20planaltino%202..jpg
+    publisher: Bahia Notícias
+    caption: 'Civil Police photo from the Aequus action in Planaltino, published as ''ação em planaltino 2'' with Bahia Notícias'' report on the two cannabis greenhouses dismantled there. Photo: Divulgação / Polícia Civil'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 4ada41007040b0649aa9084b7447a89c
@@ -75,6 +80,11 @@ sources:
     publisher: Agora Sudoeste
     date: 2026-11-18
     language: pt
+  - title: Operação contra tráfico de drogas prende dupla e desarticula estufas de maconha na Bahia
+    url: https://www.bahianoticias.com.br/amp/municipios/noticia/53427-operacao-contra-trafico-de-drogas-prende-dupla-e-desarticula-estufas-de-maconha-na-bahia
+    publisher: Bahia Notícias
+    date: 2026-11-18
+    language: pt
 open_questions:
     - No count of plants and no weight or value for the cannabis seized was published; the drugs were described by type only.
     - Police did not say which of the two men was arrested in Planaltino and which in Maracás.
@@ -82,24 +92,25 @@ open_questions:
     - The men were not named, and no court charge, plea or outcome beyond the flagrante booking was reported.
     - MDMA, LSD and ecstasy seized in the same searches are not counted in this report's cannabis figures.
     - The news accounts all reproduce the Bahia Civil Police statement, so the account rests on the police version alone.
+    - Bahia Notícias lists ICE among the drugs seized without saying what it is; the description of ICE as a cannabis extract comes from the police statement cited in the report.
 ---
 
 Two men aged 25 and 28 were arrested on the morning of Wednesday 18 November
 2026 in Operação AEQUUS, an operation by the Bahia Civil Police against
 skunk-type cannabis cultivation and drug trafficking in Planaltino, Maracás and
-Jequié, in south-west Bahia. [@1,4,5] Officers served two preventive arrest
+Jequié, in south-west Bahia. [@1,4,5,6] Officers served two preventive arrest
 warrants, one in Planaltino and one in Maracás, and four search-and-seizure
-warrants in the same municipalities. [@1,4,5] During the searches police dismantled
+warrants in the same municipalities. [@1,4,5,6] During the searches police dismantled
 two cannabis greenhouses in Planaltino, one installed indoors and the other in
-an outdoor area. [@1,4,5]
+an outdoor area. [@1,4,5,6]
 
 At the site they seized plants and several drugs, including portions of skunk,
 other varieties of marijuana, ICE (a cannabis extract), MDMA, LSD microdots and
-ecstasy. [@1,4,5] Officers also seized four precision scales, four mobile phones and
-a notebook. [@3,4,5]
+ecstasy. [@1,4,5,6] Officers also seized four precision scales, four mobile phones and
+a notebook. [@3,4,5,6]
 
 The investigation began in July 2026 and identified members of a criminal group,
-their division of tasks and the way they worked. [@1,4,5] According to the Civil
+their division of tasks and the way they worked. [@1,4,5,6] According to the Civil
 Police, the suspects kept greenhouses for growing marijuana and used social
 media to offer the drugs for sale. [@1,5] Investigators also found that the group
 sold different types of drugs, including marijuana, hashish and synthetic
@@ -107,11 +118,11 @@ substances, with intermediaries carrying and delivering the products. [@1,4,5]
 
 The two men were taken to a police unit, where the preventive arrest warrants
 were served and they were also booked in flagrante. [@1,5] They are being
-investigated for drug trafficking and criminal association for trafficking. [@1,5]
+investigated for drug trafficking and criminal association for trafficking. [@1,5,6]
 After the legal procedures the suspects remained in custody and at the disposal
-of the courts. [@1,4,5] The operation was carried out by the 11th Drug Enforcement
+of the courts. [@1,4,5,6] The operation was carried out by the 11th Drug Enforcement
 Precinct of Jequié, a unit linked to the state anti-narcotics department Denarc.
-[@2,5] The operation counted on the support of the territorial police stations of Jequié and Jaguaquara, the Jequié women's police station (Deam), the Jequié theft and robbery unit (DRFR) and the tactical support group Gatti/Central, all units of the 9th regional interior police coordination (9ª Coorpin) in Jequié. [@4,5] Aequus is part of Operação Narke VII, coordinated nationally by the Justice
+[@2,5,6] The operation counted on the support of the territorial police stations of Jequié and Jaguaquara, the Jequié women's police station (Deam), the Jequié theft and robbery unit (DRFR) and the tactical support group Gatti/Central, all units of the 9th regional interior police coordination (9ª Coorpin) in Jequié. [@4,5] Aequus is part of Operação Narke VII, coordinated nationally by the Justice
 and Public Security Ministry through its directorate of integrated operations
 and intelligence within the Renarc network of specialised units, and of the
-Bahia Civil Police's Operação Malhas da Lei. [@2]
+Bahia Civil Police's Operação Malhas da Lei. [@2,6]
