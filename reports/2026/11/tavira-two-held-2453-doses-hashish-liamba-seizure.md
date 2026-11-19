@@ -60,23 +60,34 @@ sources:
     publisher: SAPO / Diário do Distrito
     date: 2026-11-19
     language: pt
+  - title: Tribunal liberta dois traficantes de droga, detidos por agentes da PSP em Tavira, numa viatura e em busca domiciliária
+    url: https://litoralgarve.pt/tribunal-liberta-dois-traficantes-de-droga-detidos-por-agentes-da-psp-em-tavira-numa-viatura-e-em-busca-domiciliaria/
+    publisher: Litoralgarve
+    date: 2026-11-19
+    language: pt
+media:
+  - kind: photo
+    url: https://litoralgarve.pt/tribunal-liberta-dois-traficantes-de-droga-detidos-por-agentes-da-psp-em-tavira-numa-viatura-e-em-busca-domiciliaria/
+    media_url: https://litoralgarve.pt/wp-content/uploads/2026/11/Foto-Tavira-PSP-apreensao-de-droga-e-dinheiro.jpg
+    publisher: Litoralgarve
+    caption: Seized drugs, precision scale and cash laid out from the Tavira seizure.
 ---
 
 PSP officers from the Tavira Criminal Investigation Brigade detained two
-suspects aged 23 and 67 in Tavira on 16 November 2026. [@1,4,5] During a
+suspects aged 23 and 67 in Tavira on 16 November 2026. [@1,4,5,6] During a
 road-traffic check officers ordered a car to stop, and one occupant's
 nervousness and the characteristic smell of narcotics prompted a security
-search. [@1,4,5] Officers took both occupants to police premises, where preliminary
+search. [@1,4,5,6] Officers took both occupants to police premises, where preliminary
 tests on the substances tested positive for narcotics and both detentions were
 formalised. [@1,4] The two detainees were later brought before a court, which
-imposed daily reporting at the police station of their residential area. [@1,4,5] The court appearance was on Wednesday 18 November 2026. [@4]
+imposed daily reporting at the police station of their residential area. [@1,4,5,6] The court appearance was on Wednesday 18 November 2026. [@4]
 
 In the passenger's jacket officers found ecstasy, cocaine, liamba and hashish
 doses together with a precision scale. [@2,4,5] At the passenger's feet officers
 found a tape-wrapped bundle containing a significant quantity of hashish divided
 into several packages. [@1,4,5] A later house search seized more hashish and liamba
 along with seven empty tape-wrapped packages identical to those found in the
-car. [@3,4] In total police reported 2,453 drug doses seized, comprising 2,376 of
-hashish, 37 of liamba, 29 of ecstasy and 11 of cocaine. [@3,4,5] Officers also
+car. [@3,4,6] In total police reported 2,453 drug doses seized, comprising 2,376 of
+hashish, 37 of liamba, 29 of ecstasy and 11 of cocaine. [@3,4,5,6] Officers also
 seized more than 200 euros in cash, a precision scale and material linked to
 packaging and sale of narcotics. [@2,4,5]
