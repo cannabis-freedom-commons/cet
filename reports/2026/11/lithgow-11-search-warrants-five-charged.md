@@ -64,6 +64,31 @@ media:
     media_url: https://content.api.news/v3/images/bin/3a03ccb61c558596cb3719831bf8c451?width=150
     publisher: News24
     caption: 'Drugs seized in the Lithgow operation, including ethylamphetamine, heroin, cocaine and fentanyl. Photo: NSW Police'
+  - kind: photo
+    url: https://thenightly.com.au/australia/gun-seized-police-pursuit-as-five-charged-over-alleged-illicit-drug-supply-operation-in-lithgow-c-23185099
+    media_url: https://images.thenightly.com.au/publication/C-23185099/0ec18fd65aecf10eefa84fb8f40222f8992cd063-16x9-x1y0w2446h1376.webp?imwidth=1656
+    publisher: The Nightly
+    caption: 'Alleged stash of drugs and a handgun uncovered in raids across Lithgow. Photo: Supplied NSW Police'
+  - kind: photo
+    url: https://thenightly.com.au/australia/gun-seized-police-pursuit-as-five-charged-over-alleged-illicit-drug-supply-operation-in-lithgow-c-23185099
+    media_url: https://images.thenightly.com.au/publication/C-23185099/c91d021300995746ea63ebdf1783e9ae5e96435a.webp?imwidth=1656
+    publisher: The Nightly
+    caption: 'A functional handgun disguised as a mobile phone found during a search of a Lithgow home. Photo: NSW Police'
+  - kind: photo
+    url: https://thenightly.com.au/australia/gun-seized-police-pursuit-as-five-charged-over-alleged-illicit-drug-supply-operation-in-lithgow-c-23185099
+    media_url: https://images.thenightly.com.au/publication/C-23185099/387effbab4b0958c62b756c74187bda8ada6fdd5-16x9-x0y0w1920h1080.webp?imwidth=1656
+    publisher: The Nightly
+    caption: 'Over 1kg of cannabis seized as part of the five arrests. Photo: NSW Police'
+  - kind: photo
+    url: https://thenightly.com.au/australia/gun-seized-police-pursuit-as-five-charged-over-alleged-illicit-drug-supply-operation-in-lithgow-c-23185099
+    media_url: https://images.thenightly.com.au/publication/C-23185099/78aef12f15c4e6166769481125d23d75efd6aada.webp?imwidth=1656
+    publisher: The Nightly
+    caption: 'Large quantities of cash and valuables seized in the search warrants. Photo: NSW Police'
+  - kind: photo
+    url: https://thenightly.com.au/australia/gun-seized-police-pursuit-as-five-charged-over-alleged-illicit-drug-supply-operation-in-lithgow-c-23185099
+    media_url: https://images.thenightly.com.au/publication/C-23185099/653952293db81bdaf866a48c8c718b147bdf1280.jpg?imwidth=810
+    publisher: The Nightly
+    caption: 'A massive stash of drugs uncovered as part of raids across Lithgow. Photo: NSW Police'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 8a36c93d1df8503bd8a04ab6cfc56459
@@ -77,15 +102,10 @@ sources:
     url: https://www.miragenews.com/five-charged-in-chifley-drug-supply-1780083/
     publisher: Mirage News
     date: 2026-11-19
-open_questions:
-  - The four cannabis quantities are approximate (about 300 g, almost 20 g, almost 200 g and about 1 kg); the 1.52 kg total is their sum and no overall measured weight was published.
-  - The reports describe the cannabis as cannabis and cannabis leaf without a laboratory confirmation or a product breakdown for the first two homes.
-  - The heroin, methylamphetamine, GHB, cocaine and fentanyl seized in the same searches are excluded from the cannabis figures.
-  - No outcome was reported for the bail appearances at Bail Division Court 4 on 19 November 2026.
-  - The reports do not say what the other search warrants found or whether anyone was charged from them.
-  - All five people are identified only by age and sex, and no pleas or court outcomes were reported.
-  - The News24 article and the Mirage News release reproduce the same NSW Police statement, so the account rests on the police version; no independent reporting was found.
-  - The 44-year-old's charges are listed in full, but the release does not say which of the drugs found in his vehicle support each supply count.
+  - title: Gun seized, police pursuit as five charged over alleged illicit drug supply operation in Lithgow
+    url: https://thenightly.com.au/australia/gun-seized-police-pursuit-as-five-charged-over-alleged-illicit-drug-supply-operation-in-lithgow-c-23185099
+    publisher: The Nightly
+    date: 2026-11-19
 ---
 
 Five people were charged after NSW Police executed 11 search warrants across
@@ -97,27 +117,26 @@ alleged prohibited drug supply in the Lithgow area. [@2]
 
 At about 7am detectives searched two homes at the same time. [@2] Police
 arrested two occupants at one of the properties, a 38-year-old woman and a
-48-year-old man. [@2] At the home officers allegedly seized heroin, about 300 g
+48-year-old man. [@2,3] At the home officers allegedly seized heroin, about 300 g
 of cannabis, 300 g of GHB, drug paraphernalia and a working handgun disguised as
-a mobile phone. [@2] The pair were charged with nine offences between them,
+a mobile phone. [@2,3] The pair were charged with nine offences between them,
 including supplying a prohibited drug above the indictable and below the
 commercial quantity and participating in a criminal group. [@1] A third person,
 a 44-year-old man, left the property despite directions to stay. [@2]
 
 The occupant of the second home, a 49-year-old man, was arrested after police
-allegedly found methylamphetamine and almost 20 g of cannabis there. [@2]
+allegedly found methylamphetamine and almost 20 g of cannabis there. [@2,3]
 Another 49-year-old man was arrested at about 8am after a search allegedly
 uncovered almost 200 g of cannabis leaf, electronic scales and electronic
 devices. [@2] He was given conditional bail to appear at Lithgow Local Court on
-10 December 2026. [@2]
+10 December 2026. [@2,3]
 
 The 44-year-old was found by police about 2.30pm on the Castlereagh Highway at
 Ilford. [@2] Police say he refused to stop and drove at pursuing officers,
 ramming a police vehicle. [@2] He was arrested at a police roadblock at Crudine
 Road and Warrangunia Road, Ilford. [@2] A search of the vehicle allegedly found
 about 1 kg of cannabis, heroin, fentanyl and cocaine, and more than $2,800 in
-cash. [@2] He was taken to Bathurst Base Hospital under police guard for
+cash. [@2,3] He was taken to Bathurst Base Hospital under police guard for
 assessment. [@2] He was charged with offences including supplying cannabis above
 the indictable and below the commercial quantity. [@2] Four of the five were
 refused bail to appear at Bail Division Court 4 on 19 November 2026. [@1]
-
