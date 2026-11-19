@@ -69,22 +69,26 @@ sources:
     publisher: Yahoo News (KOIN Portland)
     date: 2026-11-19
     language: en
+  - title: Canby Police’s look into illegal marijuana grow operation straddles 3 counties
+    url: https://youroregonnews.com/2026/11/18/canby-polices-look-into-illegal-marijuana-grow-operation-straddles-3-counties/
+    publisher: Your Oregon News
+    date: 2026-11-18
 ---
 
 Canby police interviewed five suspects in connection with an illegal marijuana
 grow operation and the case was to be sent to the Clackamas County District
-Attorney's Office for prosecution. [@2,3] Canby police told KOIN 6 News they
+Attorney's Office for prosecution. [@2,3,4] Canby police told KOIN 6 News they
 opened the investigation after a complaint about a grow operation outside the
 city and executed two search warrants. [@1,3] Canby Police said the warrants
 covered the original complaint site, two other locations in Clackamas County,
-two in Multnomah County and one in Yamhill County. [@2]
+two in Multnomah County and one in Yamhill County. [@2,4]
 
 Investigators seized approximately 2,000 marijuana plants, approximately 140
 pounds (about 63.5 kilograms) of processed marijuana, eight firearms, two
 firearm suppressors, $191,384 in cash, two luxury watches and approximately
-$20,000 in gold. [@2]
+$20,000 in gold. [@2,4]
 
 The Canby Police Department was assisted by the Clackamas County Interagency
 Task Force, the Clackamas County SWAT team and the Yamhill County Street Crimes
-and Narcotics team. [@2] Police said workers at illegal grow operations are
+and Narcotics team. [@2,4] Police said workers at illegal grow operations are
 often victims of human trafficking and live in squalid conditions. [@2]
