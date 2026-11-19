@@ -48,6 +48,11 @@ sources:
     publisher: CÔNG AN THÀNH PHỐ CẦN THƠ
     date: 2026-11-19
     language: vi
+  - title: Phát hiện 2 vụ mua bán, tàng trữ trái phép ma túy - Báo Cần Thơ Online
+    url: https://baocantho.com.vn/phat-hien-2-vu-mua-ban-tang-tru-trai-phep-ma-tuy-a221856.html
+    publisher: Báo Cần Thơ
+    date: 2026-11-19
+    language: vi
 open_questions:
   - No weight, plant count or value was published for the suspected cannabis seized from the room or the parcel, so no cannabis quantity is recorded.
   - The dried herbs were described only as suspected cannabis with no laboratory confirmation reported.
@@ -62,19 +67,18 @@ cases involving illegal storage and trafficking. [@1] The other reported case
 involved Le Hoang Tuan, from whose home police said they seized two plastic
 tubes of suspected meth crystals and drug-use tools. [@1] Police found Vo Thao
 Vi, born in 2003 and temporarily living in Yen Trung area of Cai Rang, on
-suspicion of illegal cannabis trading. [@1]
+suspicion of illegal cannabis trading. [@1,2]
 
 Vi admitted using the Telegram app to buy dried cannabis and then dividing it
-into small portions to resell to others. [@1] Deals were agreed over social
+into small portions to resell to others. [@1,2] Deals were agreed over social
 media, the goods were sent by delivery service and payment was made by bank
-transfer. [@1] An emergency search of Vi's rented room seized a quantity of
-dried herbs suspected to be cannabis along with related objects and means. [@1]
+transfer. [@1,2] An emergency search of Vi's rented room seized a quantity of
+dried herbs suspected to be cannabis along with related objects and means. [@1,2]
 
 Working with Phu Quoi Commune Police in Vinh Long province, officers identified
 Ta Chan Hung, born in 2008 and living in Phu Quoi commune, as connected to Vi's
 cannabis sales. [@1] Officers seized a parcel containing dried herbs suspected
-to be cannabis in connection with Hung. [@1] Hung admitted ordering cannabis
-through Telegram and receiving it by delivery service. [@1] Rapid tests showed
-both Vi and Hung were positive for drugs. [@1] The cases were still under
+to be cannabis in connection with Hung. [@1,2] Hung admitted ordering cannabis
+through Telegram and receiving it by delivery service. [@1,2] Rapid tests showed
+both Vi and Hung were positive for drugs. [@1,2] The cases were still under
 investigation for clarification and handling under the law. [@1]
-
