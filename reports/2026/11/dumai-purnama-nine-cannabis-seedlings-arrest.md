@@ -81,12 +81,11 @@ sources:
     publisher: RiauOnline
     date: 2026-11-19
     language: id
-open_questions:
-    - No weight was reported for the nine cannabis seedlings; they were counted only as nine stalks.
-    - The 16.29 grams seized was methamphetamine (sabu), not cannabis, and is excluded from the cannabis figures.
-    - The nine plants were described only as suspected cannabis seedlings, with no laboratory confirmation reported.
-    - No court outcome, plea or next step was reported; the suspect and evidence were taken to the Dumai police station for processing.
-    - All accounts reproduce the same Dumai police statement and are not independent reporting.
+  - title: Nyaris Kabur saat Digerebek, Pria 43 Tahun di Dumai Ditangkap Polisi
+    url: https://www.ingatlah.com/baca/70395/nyaris-kabur-saat-digerebek-pria-43-tahun-di-dumai-ditangkap-polisi/
+    publisher: Ingatlah.com
+    date: 2026-11-19
+    language: id
 media:
   - kind: photo
     url: https://riauaktual.com/news/detail/124464/polisi-tangkap-pria-di-dumai-15-paket-sabu-dan-9-batang-bibit-ganja-disita
@@ -97,15 +96,15 @@ media:
 
 Dumai police narcotics officers arrested one man, identified as MZ alias P, aged
 43, from Kelurahan Purnama in Kecamatan Dumai Barat on suspicion of drug
-offences. [@1,4,5,6,7] The arrest was made at about 19:44 WIB on Tuesday 17 November
+offences. [@1,4,5,6,7,8] The arrest was made at about 19:44 WIB on Tuesday 17 November
 2026 at a house on Jalan Daeng Tuagek Gang Rahmat in Kelurahan Purnama, Kota
-Dumai. [@1,4,5,6] Kasat Resnarkoba AKP Gus Purwantoro said officers investigated after
+Dumai. [@1,4,5,6,8] Kasat Resnarkoba AKP Gus Purwantoro said officers investigated after
 receiving information from residents and that the suspect tried to flee when
 they arrived. [@1,4] Kasi Humas Polres Dumai AKP Zaini Waluyo said the case started with information from residents in early November about suspected methamphetamine sales at the suspect's house. [@6]
 
 In the yard of the house, officers found nine stalks suspected to be cannabis
-seedlings or young plants. [@3,4,5,6,7] In the bedroom, officers found a white wallet on
-the floor containing 15 packets of suspected methamphetamine. [@1] Police gave
+seedlings or young plants. [@3,4,5,6,7,8] In the bedroom, officers found a white wallet on
+the floor containing 15 packets of suspected methamphetamine. [@1,8] Police gave
 the gross weight of the methamphetamine as 16.29 grams, a figure that is not
 counted as cannabis. [@1,4,5,6,7] Officers also found a digital scale and press
 scissors, which they said were used to support drug distribution. [@1,7] They also
@@ -115,6 +114,6 @@ the items were in his control. [@1,4]
 
 A urine test showed the suspect positive for methamphetamine and for
 tetrahydrocannabinol (THC). [@1,4,5,6,7] The suspect and the seized items were taken to
-the Dumai police station for further legal processing. [@1,4,7] He was charged under
+the Dumai police station for further legal processing. [@1,4,7,8] He was charged under
 Articles 114(2) and 111(1) of Indonesia's 2009 Narcotics Law, among other
 provisions. [@2,4] Police said he was charged under the 2009 Narcotics Law together with the 2026 law adjusting criminal penalties and provisions of the Criminal Code. [@6] Police said he could also be charged under Article 609(2)(a) of Indonesia's Criminal Code. [@4]
