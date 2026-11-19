@@ -56,6 +56,11 @@ media:
     media_url: https://files.bewezy.com/thumbs/800/394/3b8e691269c2d9316680ddeb017e3e7f/9f299c4a2edca76cbb8d9ec396e4eb17/noticia-duas-imagens-2026-11-18t091718-327.jpg
     publisher: Ponto Norte Joinville
     caption: 'PRF handout photo published with the report on the 155 kg marijuana seizure on the BR-101 in Barra Velha. Photo: PRF/Divulgação'
+  - kind: photo
+    url: https://cbntotal.com.br/cidades/mais-de-150-quilos-de-maconha-sao-apreendidas-no-litoral-norte-de-santa-catarina/
+    media_url: https://cbntotal.com.br/wp-content/uploads/2026/11/droga-770x433.jpg.webp
+    publisher: CBN Total
+    caption: 'PRF handout photo published with the CBN Total report on the two arrests and 155 kg marijuana seizure in Barra Velha. Photo: PRF/Divulgação'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d6f2b5b5c0bc87e818f1a27a74a64b39
@@ -91,27 +96,27 @@ sources:
     publisher: Visor Notícias
     date: 2026-11-18
     language: pt
-open_questions:
-  - The first account rounds the seizure to about 150 kg while later accounts give 155 kg; this report uses 155 kg.
-  - No names were published for the two men, only their ages of 19 and 20.
-  - No plea, detention decision or court outcome was reported beyond referral to the Civil Police for drug trafficking.
-  - The exact time of the stop was reported only as Tuesday night; 17 November is the Tuesday before the 18 November publications and is named explicitly in one account.
+  - title: Mais de 150 quilos de maconha são apreendidas no Litoral Norte de Santa Catarina
+    url: https://cbntotal.com.br/cidades/mais-de-150-quilos-de-maconha-sao-apreendidas-no-litoral-norte-de-santa-catarina/
+    publisher: CBN Total
+    date: 2026-11-18
+    language: pt
 ---
 
 On the night of 17 November 2026, Federal Highway Police officers arrested two
 young men on the BR-101 in Barra Velha in northern Santa Catarina during a
 highway inspection. [@2,4,5,6] Those in the car were the 20-year-old driver and his
-19-year-old passenger. [@2,4,5,6] Both were arrested in flagrante and taken to the
-Civil Police station to face drug charges. [@3,4,5]
+19-year-old passenger. [@2,4,5,6,7] Both were arrested in flagrante and taken to the
+Civil Police station to face drug charges. [@3,4,5,7]
 
 Officers had stopped a Hyundai HB20 with Florianopolis registration plates to
-carry out the inspection. [@1,4,5,6] During the inspection they found numerous pressed
+carry out the inspection. [@1,4,5,6,7] During the inspection they found numerous pressed
 marijuana tablets hidden in different parts of the car, distributed across the
-back seat, the floor and the boot. [@2,4,5,6] The seized load weighed 155 kilograms of
-marijuana. [@2,4,5,6] An initial account rounded the amount to about 150 kilograms.
+back seat, the floor and the boot. [@2,4,5,6,7] The seized load weighed 155 kilograms of
+marijuana. [@2,4,5,6,7] An initial account rounded the amount to about 150 kilograms.
 [@1]
 
 Police said the pair will answer for drug trafficking, which carries five to 15
-years in prison. [@3,4,5,6] The offence also carries a fine in addition to the prison
+years in prison. [@3,4,5,6,7] The offence also carries a fine in addition to the prison
 term. [@2] A lawyer for one of the men said the defence was travelling from
 Greater Florianopolis to Barra Velha to file for his release. [@2]
