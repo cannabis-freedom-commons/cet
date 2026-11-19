@@ -53,6 +53,11 @@ sources:
     publisher: Granada Hoy
     date: 2026-11-18
     language: es
+  - title: La Policía Nacional desmantela una plantación de 600 plantas de marihuana en Granada y arresta a su responsable
+    url: https://www.motrildigital.news/la-policia-nacional-desmantela-una-plantacion-de-600-plantas-de-marihuana-en-granada-y-arresta-a-su-responsable
+    publisher: Motril Digital
+    date: 2026-11-18
+    language: es
 open_questions:
   - No separate date was published for the search; 18 November 2026 is the publication date of all accounts and is used as the incident date.
   - No dried weight, yield or street value was published; only the count of about 600 plants about 20 cm tall.
@@ -64,19 +69,18 @@ open_questions:
 
 National Police officers in Granada dismantled an indoor marijuana plantation
 inside a flat in the capital's Norte district, where they found nearly 600
-plants in a room set up for vegetative growth. [@4] A 34-year-old man with
+plants in a room set up for vegetative growth. [@4,5] A 34-year-old man with
 numerous police antecedents was detained as the alleged author of drug
-trafficking and electricity fraud. [@3] The detained man had already been placed
-at the disposal of the judicial authority following the operation. [@3]
+trafficking and electricity fraud. [@3,5] The detained man had already been placed
+at the disposal of the judicial authority following the operation. [@3,5]
 
 The search was carried out at midday under the so-called Plan Norte in a home in
-a neighbourhood of blocks in the Norte district. [@4] Inside the inspected flat
+a neighbourhood of blocks in the Norte district. [@4,5] Inside the inspected flat
 officers found a room fully fitted for the vegetative development of cannabis
 sativa plants. [@4] The room was equipped for intensive cultivation with
 lighting, aeration and ventilation systems suited to promoting vegetative
-growth. [@2]
+growth. [@2,5]
 
 Officers seized nearly 600 marijuana specimens in the flat, each with a size of
-about 20 centimetres. [@1] The flat where the 600-plant grow was found had no
-registered electricity supply at the time of the search. [@4]
-
+about 20 centimetres. [@1,5] The flat where the 600-plant grow was found had no
+registered electricity supply at the time of the search. [@4,5]
