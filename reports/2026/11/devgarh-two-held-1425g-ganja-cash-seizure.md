@@ -55,24 +55,23 @@ sources:
     publisher: Pratahkal
     date: 2026-11-19
     language: hi
-open_questions:
-  - No separate date for the raid was given; 19 November 2026 is the publication date and stands in for the incident date.
-  - The 1.425 kg was described as ganja with no laboratory confirmation reported.
-  - No charges, pleas or court outcome were reported; the case was at the questioning and further-investigation stage.
-  - The whole account rests on a single outlet with no independent corroboration found.
+  - title: देवगढ़ में गांजा सप्लायर और खरीदार गिरफ्तार:1.425 किलो गांजा, 4.15 लाख रुपए नकद, बाइक जब्त; ऑपरेशन त्रिनेत्र के तहत कार्रवाई
+    url: https://www.bhaskar.com/local/rajasthan/rajsamand/barar/news/rajsamand-devgarh-police-ganja-smuggling-arrest-operation-trinetra-139737230.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-19
+    language: hi
 ---
 
 Police in Devgarh in Rajsamand district arrested two people in an action against
-ganja smuggling. [@1] Acting on an informant's tip, police kept watch in the
+ganja smuggling. [@1,2] The action was carried out under Operation Trinetra. [@2] Acting on an informant's tip, police kept watch in the
 Rampuria area and caught both the ganja supplier and the buyer. [@1] The
 arrested men were identified as Dalpatsingh and Binnu alias Vijaydas. [@1]
 
-Officers recovered a total of 1 kg 425 g of ganja from the accused. [@1] Police
-also seized 415,050 rupees said to have been earned through smuggling. [@1]
-Police also seized the motorcycle allegedly used to transport the ganja. [@1]
+Officers recovered a total of 1 kg 425 g of ganja from the accused. [@1,2] Police
+also seized 415,050 rupees said to have been earned through smuggling. [@1,2]
+Police also seized the motorcycle allegedly used to transport the ganja. [@1,2]
 
 Police are questioning both men about ganja buying and selling and the smuggling
 network. [@1] Further investigation in the case is being carried out by Bhim
 police, which is pursuing the network linked to the supplier and buyer arrests.
 [@1]
-
