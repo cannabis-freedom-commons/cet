@@ -64,18 +64,22 @@ sources:
     publisher: NTD
     date: 2026-11-17
     language: en
+  - title: California EPIC Reports 2026 Cannabis Enforcement Totals
+    url: https://cannabisaficionado.com/california-epic-2026-cannabis-enforcement-report/
+    publisher: Cannabis Aficionado
+    date: 2026-11-18
 ---
 
 On November 16, 2026 Attorney General Rob Bonta announced that the Eradication
 and Prevention of Illicit Cannabis (EPIC) program eradicated nearly one million
 illegally cultivated cannabis plants and made 221 arrests across 22 California
-counties in 2026. [@2,4,5,6,7,8] The results came from the state's Eradication and
+counties in 2026. [@2,4,5,6,7,8,9] The results came from the state's Eradication and
 Prevention of Illicit Cannabis (EPIC) program, which brings together local,
-state and federal law enforcement agencies. [@1,4,6]
+state and federal law enforcement agencies. [@1,4,6,9]
 
 EPIC teams operating in Northern, Central, and Southern California conducted 655
 operations, recovered 158 weapons, and removed infrastructure including dams,
-water lines, and containers of toxic chemicals. [@2,4,5,6] Officials reported
+water lines, and containers of toxic chemicals. [@2,4,5,6,9] Officials reported
 discovering several dangerous pesticides and chemicals at illegal grow sites,
 including carbofuran, methyl parathion, aluminum phosphate and zinc phosphide.
 [@1] Carbofuran, an insecticide effectively banned in the United States, can
