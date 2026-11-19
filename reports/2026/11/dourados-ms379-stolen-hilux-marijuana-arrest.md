@@ -69,10 +69,17 @@ sources:
     publisher: TáNaMídia Naviraí
     date: 2026-11-19
     language: pt
+  - title: PRF intercepta caminhonete furtada e apreende mais de duas toneladas de maconha
+    url: https://www.capitaldopantanal.com.br/policia/2026/11/19/prf-intercepta-caminhonete-furtada-e-apreende-mais-de-duas-toneladas-de-maconha.html
+    publisher: Capital do Pantanal
+    date: 2026-11-19
+    language: pt
 open_questions:
     - Whether the driver was charged, his plea or his custody status beyond being held at the disposal of justice were not reported.
     - It is unclear whether the intended destination was Dourados or São Vicente (SP), with the Ponta Porã origin resting only on the driver's statement to police.
     - The four accounts, including this one via Dourados News, repeat the same PRF account, so they are not independent reporting.
+    - The new account rounds the seizure to 2,004 kilos while the report records 2,004.65 kilos from a later weighing; the report's figure is retained.
+    - The new account gives no age or name for the driver and does not mention shots at the tyres or the reported R$ 5,000 payment, so those details rest on the earlier accounts.
 ---
 
 Federal highway police (PRF) arrested a 25-year-old man from Ponta Porã in the
@@ -80,11 +87,11 @@ morning of 18 November 2026 on the MS-379, the highway linking Dourados and
 Laguna Carapã in Mato Grosso do Sul. [@1,4] A later account identified the driver as Luis Fernando. [@4] The team was returning from Laguna
 Carapã and was running a stop-and-search on the highway when the driver of the
 Hilux drew attention as the patrol car approached. [@1] The driver refused to
-open the door and accelerated the pickup to escape. [@1,4] Officers fired at the
+open the door and accelerated the pickup to escape. [@1,4,5] Officers fired at the
 tyres to stop the vehicle before approaching it. [@1,4]
 
 The man told police he was to receive R$ 5,000 to transport the drug from Ponta
-Porã to Dourados. [@3] The load was marijuana. [@1,4] It had not been weighed when
+Porã to Dourados. [@3,5] The load was marijuana. [@1,4,5] It had not been weighed when
 the first accounts were published. [@2] A later account put the weighed total at 2,004.65 kg of marijuana. [@4] The Hilux had a theft report from 11 May
-2026 in São Vicente, on the São Paulo coast. [@1,4] The driver, the drug and the
-pickup were taken to the Depac, the community police station in Dourados. [@1,4]
+2026 in São Vicente, on the São Paulo coast. [@1,4,5] The driver, the drug and the
+pickup were taken to the Depac, the community police station in Dourados. [@1,4,5]
