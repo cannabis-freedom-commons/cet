@@ -44,6 +44,11 @@ sources:
     publisher: 47NEWS
     date: 2026-11-19
     language: ja
+  - title: パトロール中の警察官が気付いた理由 大麻所持疑いで少年を逮捕 うるま署 沖縄（琉球新報）
+    url: https://topics.smt.docomo.ne.jp/amp/article/ryukyu/region/ryukyu-20261119050011
+    publisher: dmenuニュース
+    date: 2026-11-19
+    language: ja
 open_questions:
     - Police did not say whether the boy admits or denies the allegation.
     - No charge, prosecutor referral or court outcome was reported; the case was at the arrest stage.
@@ -54,10 +59,10 @@ open_questions:
 
 Uruma Police Station announced on 16 November 2026 that it had arrested a
 19-year-old boy in flagrante delicto on suspicion of possessing cannabis under
-the Narcotics Control Act. [@1] The boy, who gave his occupation as a store
-clerk and lives in Nanjo City, was arrested on 13 November. [@1,2] Officers on patrol noticed his car stopped well beyond a stop line, and found the cannabis when they questioned him, police said. [@1] The newspaper
+the Narcotics Control Act. [@1,3] The boy, who gave his occupation as a store
+clerk and lives in Nanjo City, was arrested on 13 November. [@1,2,3] Officers on patrol noticed his car stopped well beyond a stop line, and found the cannabis when they questioned him, police said. [@1,3] The newspaper
 described him as a shōnen, the term Japanese police use for a juvenile, and gave
 his age as 19. [@1]
 
 Police allege that at about 2:40 am on 13 November he possessed cannabis plant
-fragments on a street in Uruma City. [@1] The cannabis plant fragments weighed 0.94 grams, according to the police account. [@1]
+fragments on a street in Uruma City. [@1,3] The cannabis plant fragments weighed 0.94 grams, according to the police account. [@1,3]
