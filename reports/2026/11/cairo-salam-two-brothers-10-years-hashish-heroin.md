@@ -59,6 +59,11 @@ sources:
     publisher: بوابة مولانا
     date: 2026-11-18
     language: ar
+  - title: حيثيات السجن 10 سنوات لشقيقين تخصصا في ترويج المخدرات بالسلام
+    url: https://www.vetogate.com/5773648
+    publisher: فيتو
+    date: 2026-11-19
+    language: ar
 open_questions:
     - The account gives no date for the verdict or the arrest; 18 November 2026, the publication date, is used as the incident date.
     - The two brothers are not named, and no ages, occupations or full charge sheet were published.
@@ -69,18 +74,18 @@ open_questions:
 ---
 
 Cairo Criminal Court sentenced two brothers to 10 years of aggravated
-imprisonment. [@1,2] Both brothers received the same 10-year term. [@1,3] The court
+imprisonment. [@1,2,4] Both brothers received the same 10-year term. [@1,3] The court
 convicted both of possessing hashish and heroin in the Al-Salam police-station
-district. [@1,2,3] Cairo Security Directorate officers arrested the brothers. [@1,2]
+district. [@1,2,3,4] The court said it based its conviction on the case officer's testimony about his investigations and the arrests, the drugs found in the search, and the defendants' statements about the seized drugs and money. [@4] Cairo Security Directorate officers arrested the brothers. [@1,2]
 Police said the pair held hashish and heroin for trafficking. [@1,2] The arrests
 followed information and investigations by the Al-Salam investigations unit.
 [@1,2] The unit said the two men, who lived in the district, held the drugs for
 sale. [@1]
 
 After taking the required legal steps, officers arrested the brothers where they
-were in their home area. [@1,2] Officers found 200 grams of hashish in their
-possession. [@1,2,3] The same search turned up three rolls of heroin and a sum of
-money. [@1,2,3] The 200 grams of hashish is the cannabis component of the case; the
+were in their home area. [@1,2,4] Officers found 200 grams of hashish in their
+possession. [@1,2,3,4] The same search turned up three rolls of heroin and a sum of
+money. [@1,2,3,4] The 200 grams of hashish is the cannabis component of the case; the
 three heroin rolls are not counted in the cannabis figures. [@1] When
 confronted, the two admitted the money was proceeds of their criminal activity.
 [@1] Police said the legal measures required in the case were taken. [@1]
