@@ -64,23 +64,33 @@ sources:
     publisher: CagliariToday
     date: 2026-11-19
     language: it
+  - title: 'CAGLIARI: SORPRESO CON OLTRE 1 KG DI COCAINA E MARIJUANA IN CASA, ARRESTATO'
+    url: https://www.carabinieri.it/in-vostro-aiuto/informazioni/news/2026/11/19/new0-20261119084400-1913977
+    publisher: Carabinieri
+    date: 2026-11-19
+    language: it
+  - title: 'Capoterra, oltre un chilo di cocaina in casa: arrestato un uomo'
+    url: https://www.unionesarda.it/news-sardegna/provincia-cagliari/capoterra-oltre-un-chilo-di-cocaina-in-casa-arrestato-un-uomo-q4zwzm6x
+    publisher: L'Unione Sarda
+    date: 2026-11-19
+    language: it
 ---
 
 Carabinieri from the Capoterra station arrested a man on charges of possession
-of narcotics for the purpose of trafficking and resisting arrest. [@1,3,4] The
+of narcotics for the purpose of trafficking and resisting arrest. [@1,3,4,5] The
 operation began during a road-traffic control when the driver's suspicious
 behaviour led officers to carry out a personal search and then a home search.
-[@1,3,4] During the initial identification the man allegedly resisted, pushing
-officers away while trying to discard a package hidden among his clothes. [@1,4]
+[@1,3,4,6] During the initial identification the man allegedly resisted, pushing
+officers away while trying to discard a package hidden among his clothes. [@1,4,6]
 After completing the formal procedures, the man was taken to the Uta prison,
 where he remains at the disposal of the judicial authorities pending the
-validation hearing. [@1,3,4]
+validation hearing. [@1,3,4,6]
 
 Inside the residence officers found approximately 86 grams of marijuana and
 1,160 grams of cocaine, along with materials used to weigh and package
-narcotics. [@1,3,4] The package hidden in his clothes contained 11 grams of hashish
-and 4 grams of cocaine, already divided into 22 doses ready for sale. [@1,4]
-Officers seized all the drugs and completed the security operations. [@1]
+narcotics. [@1,3,4,6] The package hidden in his clothes contained 11 grams of hashish
+and 4 grams of cocaine, already divided into 22 doses ready for sale. [@1,4,5]
+Officers seized all the drugs and completed the security operations. [@1,6]
 
 Carabinieri of the Capoterra station conducted the operation during targeted
 territorial control services aimed at preventing and repressing offences,
