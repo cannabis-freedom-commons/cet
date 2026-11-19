@@ -57,34 +57,27 @@ sources:
     url: https://wisevoter.com/world/us/ca/2026/11/18/sacramento-sheriff-arrests-eight-marijuana-trafficking-raids
     publisher: Wisevoter
     date: 2026-11-18
-open_questions:
-  - The sheriff's office gave no breakdown of the 19 locations between California and Oregon or by county.
-  - No plant count, cultivation area or estimated value was published.
-  - The marijuana is reported only as 30,000 pounds seized or destroyed, with no split between the two.
-  - The 3,675 pounds of illegal pesticides are not included in the cannabis figures.
-  - The names, ages and custody status of the eight arrested were not published.
-  - No formal charge or court step has been reported; the sheriff's office said further arrests and charges were possible.
-  - It was not stated whether the CHP-served warrant on Bear Canyon Road in Humboldt County the same day was one of the 19 locations.
-  - The figures come from the sheriff's office statement as reproduced by FOX40 and an aggregator, and were not independently confirmed.
-  - The article does not say what kind of premises were raided, such as grows, warehouses or homes, or where in each state they were.
+  - title: 'Sacramento County Drug Bust: 30,000 Pounds of Marijuana Seized'
+    url: https://hoodline.com/2026/11/sacramento-sheriff-s-raid-nets-30-000-pounds-of-pot-eight-arrests-across-two-states/
+    publisher: Hoodline
+    date: 2026-11-18
 ---
 
 The Sacramento County Sheriff's Office led a multi-agency operation that
 targeted a suspected large-scale drug trafficking organization, officials said.
-[@1] On 9 November 2026, law enforcement officers raided 19 locations across
-California and Oregon, the sheriff's office said. [@1] Eight people were
-arrested in the raids. [@1]
+[@1,3] On 9 November 2026, law enforcement officers raided 19 locations across
+California and Oregon, the sheriff's office said. [@1,3] Eight people were
+arrested in the raids. [@1,3]
 
 Officers seized or destroyed 30,000 pounds of illegal marijuana, about 13.6
-tonnes. [@1] They also recovered 3,675 pounds of illegal pesticides from the
-raided sites. [@1] Firearms, cash and other assets were seized as well, the
-sheriff's office said. [@1] The arrest and seizure figures are totals for all 19
+tonnes. [@1,3] They also recovered 3,675 pounds of illegal pesticides from the
+raided sites. [@1,3] Firearms, cash and other assets were seized as well, the
+sheriff's office said. [@1,3] The arrest and seizure figures are totals for all 19
 locations in both states. [@1]
 
 The sheriff's office's Regional Enforcement of All Crimes Team (REACT) led the
 operation, with support from the El Dorado and Siskiyou County sheriff's offices
 and the Jackson County Sheriff's Department in Oregon. [@2] The sheriff's office
-said the investigation remains ongoing. [@1] Authorities did not disclose the
+said the investigation remains ongoing. [@1,3] Authorities did not disclose the
 charges against the eight and said further arrests and charges were possible.
 [@2]
-
