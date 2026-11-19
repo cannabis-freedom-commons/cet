@@ -43,31 +43,25 @@ sources:
     publisher: 産経ニュース
     date: 2026-11-19
     language: ja
-open_questions:
-  - No weight or plant count was published for the suspected cannabis; the article gives only about 70 bags.
-  - The article gives no date for the arrest or for the find at the home; 19 November 2026, its publication date, stands in for the incident date.
-  - The dried material was described only as believed to be cannabis, with no laboratory confirmation reported.
-  - The arrest was over theft; no charge over cannabis, and no detention or court decision, was reported.
-  - Whether the cannabis was held for personal use or for sale was not reported.
-  - The home is identified only as being in Adachi Ward, Tokyo, with no address.
-  - No individual amounts or victims were given for the nine snatchings, only total losses of about 400,000 yen.
-  - No value estimate was published for the cannabis.
-  - The account rests on a single Sankei Shimbun article; no second outlet's report of the arrest was found.
+  - title: 雷門の路上でひったくり、容疑の18歳男逮捕 自宅からは大麻も見つかる 警視庁（産経ニュース）｜ｄメニューニュース（NTTドコモ）
+    url: https://topics.smt.docomo.ne.jp/amp/article/sankei/nation/sankei-_affairs_crime_LEMPTUG6NNL3TONZAX3ROLHQHQ
+    publisher: dmenuニュース（NTTドコモ）
+    date: 2026-11-19
+    language: ja
 ---
 
 The Metropolitan Police Department's Investigation Division 3 arrested an
 18-year-old man from Adachi Ward, Tokyo, whose occupation it did not give, on
-suspicion of snatching a bag from a woman who was walking in the street. [@1]
+suspicion of snatching a bag from a woman who was walking in the street. [@1,2]
 The man has remained silent under questioning. [@1] About 70 bags of dried plant
 material believed to be cannabis were found at his home, and investigators are
 proceeding with the case on suspicion of violating the Cannabis Control Act.
-[@1]
+[@1,2]
 
 Police say he rode a moped up behind a woman in her 80s who was walking near
 Kaminarimon in Taito Ward on the evening of 3 October and took the bag she was
-carrying, which held about 200,000 yen in cash. [@1] The woman was not injured.
+carrying, which held about 200,000 yen in cash. [@1,2] The woman was not injured.
 [@1] Investigators believe he was involved in nine bag-snatchings between late
-September and mid-October, in which about 400,000 yen was taken in total. [@1]
+September and mid-October, in which about 400,000 yen was taken in total. [@1,2]
 They also believe he used credit cards stolen in the thefts to buy cigarettes
 and food. [@1]
-
