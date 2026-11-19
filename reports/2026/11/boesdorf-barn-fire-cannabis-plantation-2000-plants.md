@@ -74,20 +74,18 @@ sources:
     publisher: MDR
     date: 2026-11-17
     language: de
-open_questions:
-  - No arrests were reported, and the man seen leaving the adjoining house had not been found when the police statement was issued.
-  - The police give about 2,000 plants found at the site, part of them burnt; no separate figure for plants destroyed by the fire or taken away afterwards was published.
-  - No cannabis weight or street value was published; the 60,000 euro figure is the fire damage estimated by police.
-  - Whether the presumed defect in the power lines was connected to the plantation was still to be examined, police said.
-  - The police did not say whether the man who fled was the operator of the plantation.
-  - The investigation was opened against unknown persons, and no charge against a named suspect was reported.
+  - title: 'Großbrand entlarvt Anbau: Cannabisplantage mit rund 2.000 Pflanzen entdeckt (mit vielen Fotos)'
+    url: https://www.volksstimme.de/lokal/oebisfelde/grossbrand-cannabisplantage-feuerwehrpolizei-hubschrauber-4357776
+    publisher: Volksstimme
+    date: 2026-11-18
+    language: de
 ---
 
 A fire broke out in a barn on Miesterhorster Straße in Bösdorf, in the Börde
-district of Saxony-Anhalt, on the afternoon of 16 November 2026. [@1] The barn
+district of Saxony-Anhalt, on the afternoon of 16 November 2026. [@1,6] The barn
 was part of a complex of several homes. [@2] Residents reported the fire to
 police in Haldensleben, dpa reported. [@4] The fire brigades of Oebisfelde and
-Bösdorf were alerted at 13:23. [@1] The fire service stopped the flames
+Bösdorf were alerted at 13:23. [@1,6] The fire service stopped the flames
 spreading to neighbouring houses. [@3] No one was injured. [@3] Witnesses saw a
 man leave the adjoining house in a hurry, and a search of the area with a police
 helicopter found no trace of him. [@2,5]
