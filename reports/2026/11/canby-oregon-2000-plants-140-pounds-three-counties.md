@@ -51,6 +51,16 @@ media:
     media_url: https://heraldpioneer.com/wp-content/uploads/sites/38/2026/11/Marijuana20grow201.jpg?w=1024
     publisher: Herald Pioneer
     caption: 'Weapons, luxury watches and cash seized by Canby Police in the investigation. Photo: Canby Police.'
+  - kind: photo
+    url: https://www.kptv.com/2026/11/19/marijuana-guns-gold-cash-found-during-illegal-grow-investigation-near-canby/
+    media_url: https://gray-kptv-prod.gtv-cdn.com/resizer/v2/DQYKGTFKZZCTZP74DHVV22SD3I.jpg?auth=393bd3326477f0835f8c896eff8ebdba7330d76f57cc1cebb2c5677576ff7ef0&width=1300&height=975&smart=true
+    publisher: KPTV
+    caption: 'Marijuana plants seized at the illegal grow site near Canby, in the police handout photo. Photo: Canby Police Department'
+  - kind: photo
+    url: https://www.kptv.com/2026/11/19/marijuana-guns-gold-cash-found-during-illegal-grow-investigation-near-canby/
+    media_url: https://gray-kptv-prod.gtv-cdn.com/resizer/v2/43NMWAKJ5ZGF3FSH3GW4JOROMM.jpg?auth=d6221905e7dcf5a059beaf5a50357e92ce82ced53b2207bfd6134c645cb2c06b&width=1300&height=975&smart=true
+    publisher: KPTV
+    caption: 'Cash and firearms seized in the Canby-area investigation, in the police handout photo. Photo: Canby Police Department'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 5fba401e79e0cde1a143387615343658
@@ -73,20 +83,24 @@ sources:
     url: https://youroregonnews.com/2026/11/18/canby-polices-look-into-illegal-marijuana-grow-operation-straddles-3-counties/
     publisher: Your Oregon News
     date: 2026-11-18
+  - title: Marijuana, guns, gold, cash found during ‘illegal’ grow investigation near Canby
+    url: https://www.kptv.com/2026/11/19/marijuana-guns-gold-cash-found-during-illegal-grow-investigation-near-canby/
+    publisher: KPTV
+    date: 2026-11-19
 ---
 
 Canby police interviewed five suspects in connection with an illegal marijuana
 grow operation and the case was to be sent to the Clackamas County District
-Attorney's Office for prosecution. [@2,3,4] Canby police told KOIN 6 News they
+Attorney's Office for prosecution. [@2,3,4,5] Canby police told KOIN 6 News they
 opened the investigation after a complaint about a grow operation outside the
-city and executed two search warrants. [@1,3] Canby Police said the warrants
+city and executed two search warrants. [@1,3,5] Canby Police said the warrants
 covered the original complaint site, two other locations in Clackamas County,
-two in Multnomah County and one in Yamhill County. [@2,4]
+two in Multnomah County and one in Yamhill County. [@2,4,5]
 
 Investigators seized approximately 2,000 marijuana plants, approximately 140
 pounds (about 63.5 kilograms) of processed marijuana, eight firearms, two
 firearm suppressors, $191,384 in cash, two luxury watches and approximately
-$20,000 in gold. [@2,4]
+$20,000 in gold. [@2,4,5]
 
 The Canby Police Department was assisted by the Clackamas County Interagency
 Task Force, the Clackamas County SWAT team and the Yamhill County Street Crimes
