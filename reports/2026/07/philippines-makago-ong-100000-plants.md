@@ -52,8 +52,19 @@ sources:
     publisher: Bombo Radyo Baguio
     date: 2026-07-13
     language: ilo
+  - title: P20M worth of marijuana destroyed in Mountain Province raid
+    url: https://tribune.net.ph/2026/07/13/p20m-worth-of-marijuana-destroyed-in-mountain-province-raid
+    publisher: Daily Tribune
+    date: 2026-07-13
+    language: en
+media:
+  - kind: photo
+    url: https://tribune.net.ph/2026/07/13/p20m-worth-of-marijuana-destroyed-in-mountain-province-raid
+    media_url: https://images.assettype.com/tribune/2026-07-13/tcei9zke/1000022531.jpg?w=720&auto=format&q=55&rect=0%2C0%2C1600%2C900&h=405&fit=crop
+    publisher: Daily Tribune
+    caption: 'PDEA Cordillera handout photo published with the report of the marijuana plantation destroyed at Mount Makago-ong in the two-day Mountain Province operation. Photo: PDEA Cordillera'
 ---
 
-An anti-drug team uprooted and burned an estimated 100,000 fully grown marijuana plants over a two-day operation on 11–12 July 2026. [@1,2] The plantation was on Mount Makago-ong in Barangay Saclit, near the boundary between Sadanga, Mountain Province, and Tinglayan, Kalinga. [@1,2] Authorities estimated the crop's street value at ₱20 million and the area at about 10,000 square metres, or one hectare. [@1,2]
+An anti-drug team uprooted and burned an estimated 100,000 fully grown marijuana plants over a two-day operation on 11–12 July 2026. [@1,2,3] The plantation was on Mount Makago-ong in Barangay Saclit, near the boundary between Sadanga, Mountain Province, and Tinglayan, Kalinga. [@1,2,3] Authorities estimated the crop's street value at ₱20 million and the area at about 10,000 square metres, or one hectare. [@1,2]
 
-The Daily Tribune said no suspect was arrested and investigators were working to identify landowners and cultivators. [@1] Bombo likewise reported no arrests and ongoing efforts to find those responsible. [@2] The operation involved PDEA's Mountain Province office, the Mountain Province Police Provincial Office, its Provincial Drug Enforcement Unit, Sadanga Municipal Police Station, the provincial intelligence unit and the 2nd Provincial Mobile Force Company. [@1,2] The Daily Tribune photograph is credited to PDEA Cordillera, but its direct image address was not available from the opened story. [@1]
+The Daily Tribune said no suspect was arrested and investigators were working to identify landowners and cultivators. [@1,3] Bombo likewise reported no arrests and ongoing efforts to find those responsible. [@2] The operation involved PDEA's Mountain Province office, the Mountain Province Police Provincial Office, its Provincial Drug Enforcement Unit, Sadanga Municipal Police Station, the provincial intelligence unit and the 2nd Provincial Mobile Force Company. [@1,2,3] The Daily Tribune photograph is credited to PDEA Cordillera, but its direct image address was not available from the opened story. [@1]
