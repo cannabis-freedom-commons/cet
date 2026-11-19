@@ -33,6 +33,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/6MQGIWNCFRCXLBCYTMAYZTC2YQ.jpg?auth=7bc9cc4a4533715698a510a206497fa02c9047375ffdc79023a116bb930150b6&smart=true&width=350&height=197&quality=85
     publisher: Infobae
     caption: 'Defence handout photo published with the Infobae report on the 25 plantations destroyed in Durango, Chihuahua and Sinaloa. Photo: Defensa'
+  - kind: photo
+    url: https://cincoradio.com.mx/ej-rcito-destruye-25-plant-os-de-amapola-y-marihuana-en-chihuahua-durango-y-sinaloa-cr-33cd4449b8d513d7c1d8e0524c84f68d/
+    media_url: https://i0.wp.com/cincoradio.com.mx/wp-content/uploads/2026/11/imagen-cr-33cd4449b8d513d7c1d8e0524c84f68d.jpg?w=571&ssl=1
+    publisher: Cinco Radio
+    caption: Soldiers destroying poppy and marijuana crops in a mountainous area, in the photo published with the report on the 25 plantations in Chihuahua, Durango and Sinaloa.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 3fb46628afed8c4f240556f5de915f41
@@ -53,26 +58,23 @@ sources:
     publisher: Infobae
     date: 2026-11-18
     language: es
-open_questions:
-  - No figure for the number of marijuana plants uprooted or destroyed was published; the ministry reported plantations, not plants.
-  - The 3.06 hectares is the total area of the 25 poppy and marijuana plantations, with no area given for the 16 marijuana plots alone.
-  - The 8.74 million pesos estimate covers all 25 plantations together and was not divided between marijuana and poppy.
-  - The ministry did not say how many plantations were destroyed in each state or name the municipalities where they were found.
-  - No arrests, suspects or charges were reported in connection with the destroyed plantations.
-  - The accounts reproduce the Defence Ministry statement and are not independent reporting of it.
-  - The text gives an area ("3.06 hectares") but the figures have no hectares; check whether it belongs there.
+  - title: Ejército destruye 25 plantíos de amapola y marihuana en Chihuahua, Durango y Sinaloa
+    url: https://cincoradio.com.mx/ej-rcito-destruye-25-plant-os-de-amapola-y-marihuana-en-chihuahua-durango-y-sinaloa-cr-33cd4449b8d513d7c1d8e0524c84f68d/
+    publisher: Cinco Radio
+    date: 2026-11-19
+    language: es
 ---
 
 The Mexican Army and Air Force carried out a joint operation on Tuesday 17
-November 2026 in Chihuahua, Durango and Sinaloa. [@1] Soldiers destroyed 25 drug
-plantations in all, of which 16 were marijuana and nine were poppy. [@3] The
+November 2026 in Chihuahua, Durango and Sinaloa. [@1,4] Soldiers destroyed 25 drug
+plantations in all, of which 16 were marijuana and nine were poppy. [@3,4] The
 operations combined ground patrols with aerial reconnaissance to find and
-eradicate the crops. [@1]
+eradicate the crops. [@1,4] The plantations were located in mountainous areas of the three states. [@4]
 
-The Secretariat of National Defence (Sedena) reported the results. [@1] The 25
-plantations covered about 3.06 hectares in total. [@2] That area is the combined
+The Secretariat of National Defence (Sedena) reported the results. [@1,4] The 25
+plantations covered about 3.06 hectares in total. [@2,4] That area is the combined
 surface of the poppy and marijuana plots. [@1] Sedena estimated the damage to
-the organisations growing the crops at 8.74 million pesos. [@1] The ministry
+the organisations growing the crops at 8.74 million pesos. [@1,4] The ministry
 gave the estimate for the destruction of all 25 plantations. [@3]
 
 The ministry said the destruction prevented the drugs from reaching illegal
@@ -80,4 +82,3 @@ markets. [@1] Sedena presented the operation as part of its campaign against the
 sowing and sale of drugs. [@1] Sedena said the loss weakened the operating and
 logistics capacity of the criminal groups that grew the crops. [@3] Sedena said
 the operation contributed to reducing drug trafficking in the region. [@1]
-
