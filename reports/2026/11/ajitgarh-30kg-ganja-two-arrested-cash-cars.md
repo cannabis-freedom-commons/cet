@@ -59,26 +59,38 @@ sources:
     publisher: Vocal TV
     date: 2026-11-17
     language: hi
+  - title: 'Operation Anti-Venom: गांजा तस्करी के खिलाफ पुलिस की सख्त कार्रवाई, दो गिरफ्तार | Breaking News'
+    url: https://rajasthan.ndtv.in/videos/operation-anti-venom-police-take-strict-action-against-ganja-smuggling-two-arrested-1194357
+    publisher: NDTV Rajasthan
+    date: 2026-11-19
+    language: hi
 media:
   - kind: photo
     url: https://vocaltv.in/crime/operation-antivenom-ganja-php/cid19543229.htm
     media_url: https://vocaltv.in/static/c1e/client/111914/migrated/85e3280f2b2ba187cbe21576848aa0bc.jpg
     publisher: Vocal TV
     caption: 'Photo on the Vocal TV report of the Operation Antivenom ganja seizure and arrests in Ajitgarh, captioned ''Operation Antivenom: those trafficking ganja in a luxury car arrested''. No photographer credited.'
+  - kind: video
+    url: https://rajasthan.ndtv.in/videos/operation-anti-venom-police-take-strict-action-against-ganja-smuggling-two-arrested-1194357
+    media_url: https://ndtvod.pc.cdn.bitgravity.com/23372/ndtv/nasha_raj__602854_338182_5000.mp4
+    publisher: NDTV Rajasthan
+    caption: NDTV Rajasthan news video reporting the Operation Anti-Venom ganja seizure and the two arrests in Ajitgarh.
+open_questions:
+    - 'Accounts differ on the cash seized: this NDTV video and ETV Bharat report Rs 3.35 lakh (3,35,000), while another NDTV video reports Rs 33 lakh; the report''s cash figure retains Rs 33 lakh.'
 ---
 
 In Rajasthan, Jaipur Rural Police carried out a major operation against drug
 traffickers operating in its range. [@1] The operation was conducted on the
 directions of Jaipur Range IG Rahul Prakash as a joint action. [@1] The Jaipur
 Range cyber team, the District Special Team and Ajitgarh police took part
-together in the Ajitgarh action against the traffickers. [@1,2,3] The consignment was brought to a point near Hathideh village on the Shahpura-Ajitgarh road. [@3] Officers arrested
-two alleged drug traffickers during the operation. [@1,2,3] The syndicate supplied ganja to Jaipur Rural, Kotputli-Behror and Alwar districts. [@3] Preliminary inquiry identified Udaipuriya Mod resident Kanha Meena as the syndicate's mastermind, against whom several drug-trafficking cases were already registered. [@2,3] The two arrested men were identified as Rajendra Sharma of Pachlangi in Jhunjhunu and Pradeep Singh of Narayanpur in Kotputli-Behror. [@2,3]
+together in the Ajitgarh action against the traffickers. [@1,2,3,4] The joint action was carried out under 'Operation Anti-Venom', a campaign against the drug network in Rajasthan. [@4] The consignment was brought to a point near Hathideh village on the Shahpura-Ajitgarh road. [@3] Officers arrested
+two alleged drug traffickers during the operation. [@1,2,3,4] The syndicate supplied ganja to Jaipur Rural, Kotputli-Behror and Alwar districts. [@3] Preliminary inquiry identified Udaipuriya Mod resident Kanha Meena as the syndicate's mastermind, against whom several drug-trafficking cases were already registered. [@2,3] The two arrested men were identified as Rajendra Sharma of Pachlangi in Jhunjhunu and Pradeep Singh of Narayanpur in Kotputli-Behror. [@2,3]
 
-Officers recovered 30 kg 700 g of ganja during the joint operation. [@1,2,3] Police
-put the value of the seized ganja at about 15 lakh rupees. [@1,2,3] The same account
+Officers recovered 30 kg 700 g of ganja during the joint operation. [@1,2,3,4] Police
+put the value of the seized ganja at about 15 lakh rupees. [@1,2,3,4] The same account
 reports 33 lakh rupees in cash alongside the 30 kg of ganja. [@1] Officers also
 seized luxury vehicles connected to the traffickers, whose number was not
-stated. [@1] A case under the NDPS Act was registered at Ajitgarh police station in Sikar district and investigation was continuing. [@2,3] IG Rahul Prakash said a section relating to organised crime was added to the case after investigators found the gang had trafficked drugs in an organised way. [@3] The team seized one luxury car and one jeep along with 3.35 lakh rupees in cash. [@2,3] Pradeep Singh took advance payment for supplies and used his jeep, presenting it as a passenger vehicle to stay clear of police surveillance. [@3]
+stated. [@1] A case under the NDPS Act was registered at Ajitgarh police station in Sikar district and investigation was continuing. [@2,3] IG Rahul Prakash said a section relating to organised crime was added to the case after investigators found the gang had trafficked drugs in an organised way. [@3] The team seized one luxury car and one jeep along with 3.35 lakh rupees in cash. [@2,3,4] The jeep was a Mahindra DI model. [@4] Pradeep Singh took advance payment for supplies and used his jeep, presenting it as a passenger vehicle to stay clear of police surveillance. [@3]
 
 The account identifies the seizing units as the range cyber team, the DST and
 Ajitgarh police rather than any other agency. [@1] The case was presented as two
