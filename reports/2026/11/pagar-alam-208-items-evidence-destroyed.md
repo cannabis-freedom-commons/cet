@@ -65,6 +65,11 @@ sources:
     publisher: Suara Publik
     date: 2026-11-19
     language: id
+  - title: Kejari Pagaralam Musnahkan 4,5 Kg Narkotika dari 63 Perkara, Ada 322 Gram Shabu dan 4,2 Kg Ganja
+    url: https://sumselupdate.com/kejari-pagaralam-musnahkan-45-kg-narkotika-dari-63-perkara-ada-322-gram-shabu-dan-42-kg-ganja/
+    publisher: Sumselupdate.com
+    date: 2026-11-19
+    language: id
 open_questions:
     - How the 4,239.64 grams of ganja was divided among the underlying cases, and how many of the 49 narcotics cases involved ganja, was not reported.
     - No defendants, verdicts or sentences for the underlying cases were reported.
@@ -92,19 +97,24 @@ media:
     media_url: https://suarapublik.id/wp-content/uploads/2026/11/IMG-20261119-WA0014-800x600.jpg
     publisher: Suara Publik
     caption: 'Evidence destruction in the Pagar Alam jurisdiction. Photo: Suara Publik'
+  - kind: photo
+    url: https://sumselupdate.com/kejari-pagaralam-musnahkan-45-kg-narkotika-dari-63-perkara-ada-322-gram-shabu-dan-42-kg-ganja/
+    media_url: https://is3.cloudhost.id/su-img/2026/11/WhatsApp-Image-2026-11-19-at-15.34.01.jpeg
+    publisher: Sumselupdate.com
+    caption: 'Chief prosecutor Ira Febrina with deputy mayor Bertha and police chief Adam Purbantoro during the destruction of 208 items from 63 cases in the Kejari yard. Photo: Istimewa/Sumselupdate.com'
 ---
 
 The Pagar Alam prosecutor's office destroyed 208 items of evidence from general
-criminal cases that had final legal force on Thursday 19 November 2026. [@1,2,6] The
+criminal cases that had final legal force on Thursday 19 November 2026. [@1,2,6,9] The
 destruction took place in the yard of the Pagar Alam prosecutor's office using
 different methods for each type of evidence. [@1] Sabu-sabu was destroyed with a
 blender, ganja was burned, and sharp weapons were cut so they could no longer be
 used. [@1,3]
 
 The destroyed evidence also included mobile phones, car keys, clothing and other
-objects connected to the criminal cases. [@1,7] The narcotics evidence included 4,239.64 grams of ganja alongside 322.02 grams of methamphetamine and 17 ecstasy pills. [@4,6] Chief prosecutor Ira Febriana said
+objects connected to the criminal cases. [@1,7] The narcotics evidence included 4,239.64 grams of ganja alongside 322.02 grams of methamphetamine and 17 ecstasy pills. [@4,6,7] Chief prosecutor Ira Febriana said
 the 208 items came from handling general criminal cases during January to
-October 2026 and had all obtained final legal force. [@1] The 208 items came from 63 cases, comprising 49 narcotics cases, 11 cases involving persons and property and three cases involving state security and public order. [@4,6]
+October 2026 and had all obtained final legal force. [@1] The 208 items came from 63 cases, comprising 49 narcotics cases, 11 cases involving persons and property and three cases involving state security and public order. [@4,6,7]
 
 The exercise was attended by Pagar Alam deputy mayor Bertha, Pagar Alam police
 chief Adam Purbantoro, chief prosecutor Ira Febriana, the head of the Pagar Alam
