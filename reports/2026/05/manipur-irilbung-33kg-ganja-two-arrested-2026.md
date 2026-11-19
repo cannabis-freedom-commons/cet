@@ -48,6 +48,10 @@ sources:
     url: https://newire.in/articles/manipur-police-seize-narcotics-and-arrest-four-in-statewide-raids
     publisher: NEWire
     date: 2026-05-21
+  - title: Manipur police seize over 2 kg suspected brown sugar, arrest Myanmar national
+    url: https://www.indiatodayne.in/manipur/story/manipur-police-seize-over-2-kg-suspected-brown-sugar-arrest-myanmar-national-1395055-2026-05-21
+    publisher: India Today NE
+    date: 2026-05-21
 open_questions:
   - No separate time of day for the Irilbung check was published; 20 May 2026 is Wednesday before the 21 May 2026 publication and is used as the incident date.
   - The 3.3 kg was described as suspected raw ganja with no laboratory confirmation reported.
@@ -57,22 +61,21 @@ open_questions:
 ---
 
 Manipur Police arrested two men at the Irilbung Police Station check gate in
-Imphal East district. [@1] The two were identified as Yambem Sudhir Singh alias
+Imphal East district. [@1,3] The two were identified as Yambem Sudhir Singh alias
 Sadananda, 20, of Lourembam Mamang Leikai in Thoubal district, and Thongam
-Bishal Singh alias Amujao, 26, of Taobungkhok in Imphal West district. [@1] The
+Bishal Singh alias Amujao, 26, of Taobungkhok in Imphal West district. [@1,3] The
 arrests occurred on 20 May 2026 during two separate operations in Imphal East
 and Churachandpur districts. [@2]
 
-Police recovered 3.3 kg of raw ganja from their possession. [@1] Police also
+Police recovered 3.3 kg of raw ganja from their possession. [@1,3] Police also
 seized one Honda Activa scooter, one Stunner motorcycle and two mobile phones
-from the pair. [@2]
+from the pair. [@2] The Honda Activa bore registration number MN06SH7426 and the Stunner motorcycle bore registration number MN01Y6799. [@3]
 
 In a separate operation, police arrested two other people including a Myanmar
 national at Singngat along NH-102B under Singngat Police Station in
-Churachandpur district. [@1] Officers seized 55 soap cases containing suspected
+Churachandpur district. [@1,3] Officers seized 55 soap cases containing suspected
 brown sugar weighing approximately 2.127 kg and a Kenbo bike from that pair,
 which is excluded from the cannabis figures. [@1] Police registered two cases
 and handed the arrested people and seized items to the respective police
 stations for further legal proceedings. [@1] Police said investigations continue
 to determine the origin and intended destination of the drugs. [@2]
-
