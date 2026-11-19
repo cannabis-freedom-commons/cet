@@ -62,6 +62,11 @@ sources:
     publisher: Lo Strillone TV
     date: 2026-11-18
     language: it
+  - title: 'Contrôle routier à Caserte : arrestation pour détention de stupéfiants'
+    url: https://www.ilmattino.it/fr/controle_routier_a_caserte_arrestation_pour_detention_de_stupefiants-9897900.html
+    publisher: Il Mattino
+    date: 2026-11-18
+    language: fr
 open_questions:
   - No street or exact time of the check was published; the accounts place it in the late afternoon of 17 November 2026.
   - The hashish weight is given as about 29 grams and the cocaine as about 12 grams, not exact measured figures.
@@ -76,16 +81,16 @@ open_questions:
 
 Carabinieri of the Nucleo Investigativo of the Caserta provincial command,
 supported by the Nucleo Radiomobile, stopped two men during a road check. [@1,4]
-The check took place in the late afternoon of 17 November 2026. [@3,4] Officers
+The check took place in the late afternoon of 17 November 2026. [@3,4,5] Officers
 became suspicious of the two men's behaviour and carried out personal and
 vehicle searches. [@1,4] The 20-year-old was found with 21 doses of cocaine and
 six doses of hashish. [@1,4] The drugs were found on the 20-year-old's person during the searches. [@4] The cocaine weighed about 12 grams and the hashish
-about 29 grams. [@1,4] The drugs were already divided into doses. [@1,4] All the
+about 29 grams. [@1,4,5] The drugs were already divided into doses. [@1,4] All the
 material recovered was seized for further checks. [@1,4] The 20-year-old, a
 resident of Caserta province, was arrested in flagrante on suspicion of drug
-possession. [@1,4] Both men were already known to the forces of order. [@1,4] A
+possession. [@1,4] Both men were already known to the forces of order. [@1,4,5] A
 42-year-old man, also resident in Caserta province, was reported at liberty to
-the judicial authority. [@1,4]
+the judicial authority. [@1,4,5]
 
 After the formalities the 20-year-old was taken to the Santa Maria Capua Vetere
 prison, at the disposal of the judicial authority. [@1,4] A second account gives
