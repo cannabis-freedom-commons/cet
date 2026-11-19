@@ -39,21 +39,25 @@ sources:
     publisher: 琉球新報
     date: 2026-11-19
     language: ja
+  - title: パトロール中の警察官が気付いた理由　大麻所持疑いで少年を逮捕　うるま署　沖縄
+    url: https://www.47news.jp/15253519.html
+    publisher: 47NEWS
+    date: 2026-11-19
+    language: ja
 open_questions:
-  - The article is behind a subscription paywall and only its opening paragraph was readable, so the weight or amount of the cannabis plant fragments was not published.
-  - Police did not say whether the boy admits or denies the allegation.
-  - No charge, prosecutor referral or court outcome was reported; the case was at the arrest stage.
-  - Police released only the boy's age, occupation and city of residence, identifying him only as a juvenile.
-  - The account rests on a single article, a police-announcement brief; no second outlet reporting the same arrest was found.
+    - Police did not say whether the boy admits or denies the allegation.
+    - No charge, prosecutor referral or court outcome was reported; the case was at the arrest stage.
+    - Police released only the boy's age, occupation and city of residence, identifying him only as a juvenile.
+    - 47NEWS republishes the Ryukyu Shimpo article, so the account rests on one police-announcement report rather than independent reporting.
+    - The article does not say whether police are investigating where the cannabis came from.
 ---
 
 Uruma Police Station announced on 16 November 2026 that it had arrested a
 19-year-old boy in flagrante delicto on suspicion of possessing cannabis under
 the Narcotics Control Act. [@1] The boy, who gave his occupation as a store
-clerk and lives in Nanjo City, was arrested on 13 November. [@1] The newspaper
+clerk and lives in Nanjo City, was arrested on 13 November. [@1,2] Officers on patrol noticed his car stopped well beyond a stop line, and found the cannabis when they questioned him, police said. [@1] The newspaper
 described him as a shōnen, the term Japanese police use for a juvenile, and gave
 his age as 19. [@1]
 
 Police allege that at about 2:40 am on 13 November he possessed cannabis plant
-fragments on a street in Uruma City. [@1]
-
+fragments on a street in Uruma City. [@1] The cannabis plant fragments weighed 0.94 grams, according to the police account. [@1]
