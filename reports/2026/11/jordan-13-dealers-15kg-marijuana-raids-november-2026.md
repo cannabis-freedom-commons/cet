@@ -53,6 +53,11 @@ sources:
     publisher: قناة المملكة
     date: 2026-11-19
     language: ar
+  - title: 'الأمن: ضبط 13 تاجرا للمخدرات- تفاصيل'
+    url: https://nesan.net/?id=365294
+    publisher: Nesan News (نيسان)
+    date: 2026-11-19
+    language: ar
 open_questions:
   - No separate date for the raids was given; 19 November 2026 is the publication date and the casework was described as running over the preceding days.
   - Hashish was reported only in kaff slabs with no weight, so the 15 kg figure covers marijuana only.
@@ -64,26 +69,25 @@ open_questions:
 
 Jordan’s Anti-Narcotics Department officers toppled 13 drug dealers while
 handling a number of trafficking cases over the previous few days, the Public
-Security Directorate spokesperson said. [@1] The spokesperson said all of the
+Security Directorate spokesperson said. [@1,4] The spokesperson said all of the
 cases involved trafficking, including four cases in the Capital Governorate.
-[@2]
+[@2,4]
 
 In the largest capital case officers raided and arrested three dealers and
 seized 15 kilograms of marijuana, five slabs of hashish and 250 grams of crystal
-methamphetamine from them. [@2] In a second capital case officers raided another
+methamphetamine from them. [@2,4] In a second capital case officers raided another
 dealer inside his vehicle while he was moving drugs for sale and seized 24 slabs
-of hashish from him. [@3] In a third capital case officers raided two dealers
-inside a vehicle and seized six slabs of hashish from them. [@2] In the last
+of hashish from him. [@3,4] In a third capital case officers raided two dealers
+inside a vehicle and seized six slabs of hashish from them. [@2,4] In the last
 capital case officers raided a flat used to hide drugs, arrested its dealer and
-seized six slabs of hashish and a firearm. [@3]
+seized six slabs of hashish and a firearm. [@3,4]
 
 In al-Ruwaished officers tracked two active dealers, arrested one after
 intercepting their vehicle while the other fled and remains sought, and found
-26,000 narcotic pills inside the vehicle. [@1] On the desert road officers
+26,000 narcotic pills inside the vehicle. [@1,4] On the desert road officers
 raided a vehicle carrying three people heading for the capital, arrested all
 three and found one kilogram of crystal methamphetamine and two firearms inside.
-[@1] In Ma’an officers raided a drug dealer and seized 22 slabs of hashish from
-him. [@3] In the Southern Jordan Valley officers located and raided a dangerous
+[@1,4] In Ma’an officers raided a drug dealer and seized 22 slabs of hashish from
+him. [@3,4] In the Southern Jordan Valley officers located and raided a dangerous
 fugitive wanted for cooperation with regional drug-smuggling and trafficking
-networks and arrested him. [@3]
-
+networks and arrested him. [@3,4]
