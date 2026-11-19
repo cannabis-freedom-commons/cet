@@ -43,6 +43,11 @@ sources:
     publisher: Ouest-France
     date: 2026-11-18
     language: fr
+  - title: 'Il conduisait sous l’empire du cannabis mais assure que « c’était du CBD » : la justice le condamne dans la Manche'
+    url: https://saint-lo.maville.com/actu/actudet_-il-conduisait-sous-l-empire-du-cannabis-mais-assure-que-c-etait-du-cbd-la-justice-le-condamne-dans-la-manche_fil-7575144_actu.Htm
+    publisher: Saint-Lô.maville.com
+    date: 2026-11-18
+    language: fr
 open_questions:
   - No amount was published for the fine imposed on the driver.
   - The saliva test result was reported only as positive for cannabis, with no THC level given.
@@ -58,15 +63,14 @@ A 50-year-old man from Saint-Lô was cited to appear at the single-judge hearing
 of the criminal court in Coutances on Tuesday 17 November 2026, on a charge of
 driving under the influence of narcotics, in this case cannabis. [@1] He had
 been stopped in Saint-Lô, in the Manche department, on 3 September 2026, when a
-saliva test showed that he was driving under the influence of cannabis. [@1] At
-the hearing the man maintained that he smoked only CBD. [@1]
+saliva test showed that he was driving under the influence of cannabis. [@1,2] At
+the hearing the man maintained that he smoked only CBD. [@1,2]
 
 The substitute prosecutor told the court that a driver who smokes CBD regularly,
-or shortly before a police check, can exceed the legal THC threshold. [@1] The
+or shortly before a police check, can exceed the legal THC threshold. [@1,2] The
 magistrate raised the point in relation to the offence the defendant was charged
 with. [@1]
 
-The court in Coutances convicted the man on 17 November 2026. [@1] He was
+The court in Coutances convicted the man on 17 November 2026. [@1,2] He was
 sentenced to a road-safety awareness course, the suspension of his driving
-licence for one year and a fine. [@1]
-
+licence for one year and a fine. [@1,2]
