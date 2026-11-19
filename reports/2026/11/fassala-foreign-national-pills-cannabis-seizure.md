@@ -71,17 +71,35 @@ sources:
     publisher: Cridem
     date: 2026-11-18
     language: fr
+  - title: الدرك يضبط آلاف الأقراص المهلوسة وكمية من القنب الهندي بالحوض الشرقي
+    url: https://www.thawabit.net/%D8%A7%D9%84%D8%AF%D8%B1%D9%83-%D9%8A%D8%B6%D8%A8%D8%B7-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D9%84%D9%85%D9%87%D9%84%D9%88%D8%B3%D8%A9-%D9%88%D9%83%D9%85%D9%8A/
+    publisher: الثوابت الموريتاني
+    date: 2026-11-19
+    language: ar
+  - title: Gendarmerie seizes 3,780 hallucinogenic pills in Hodh Ech Chargui
+    url: https://eng.madar.mr/maghreb/mauritania/mauritania-gendarmerie-seizes-3780-hallucinogenic-pills-hodh-chargui-editor-20261118/
+    publisher: Madar
+    date: 2026-11-18
+    language: en
+media:
+  - kind: photo
+    url: https://eng.madar.mr/maghreb/mauritania/mauritania-gendarmerie-seizes-3780-hallucinogenic-pills-hodh-chargui-editor-20261118/
+    media_url: https://eng.madar.mr/api/karna/media/image?job=d8374d4fb3ea90600bb79c9134ce6f19e404edd58b7cd489e88a3b1b1e3a9b25&width=640
+    publisher: Madar
+    caption: 'Pill blister packs seized by the gendarmerie in Hodh Ech Chargui, published with the Madar report on the Fassala-area operation. Photo: National Gendarmerie'
+open_questions:
+    - 'Accounts differ on the day of the gendarmerie statement: the report''s earlier sources place it on Tuesday evening, while Thawabit dates it to Wednesday; the precise day of the operation is not independently established.'
 ---
 
 Officers of the National Gendarmerie centre at Agoueinkara, under the Fassala
 brigade, stopped a foreign national and seized drugs and psychoactive substances
-found in his possession. [@4,5,6,7,8] The operation was carried out by the Gendarmerie
-centre at Agoueinkara under the Fassala brigade. [@2,7]
+found in his possession. [@4,5,6,7,8,9] The operation was carried out by the Gendarmerie
+centre at Agoueinkara under the Fassala brigade. [@2,7,9,10]
 
 The search yielded 3,780 hallucinogenic pills, an unspecified quantity of
-cannabis and a bottle of alcohol. [@1,5,6,7,8] According to a Gendarmerie statement
+cannabis and a bottle of alcohol. [@1,5,6,7,8,9,10] According to a Gendarmerie statement
 issued on Tuesday evening, the haul was 3,780 hallucinogenic pills and a
 quantity of cannabis. [@3]
 
 The Gendarmerie presented the operation as part of its continuing effort against
-drug and psychoactive-substance trafficking. [@4]
+drug and psychoactive-substance trafficking. [@4,9]
