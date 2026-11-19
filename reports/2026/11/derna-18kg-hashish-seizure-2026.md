@@ -62,6 +62,11 @@ media:
     media_url: https://api.kataeb.org/storage/new-website/Divers/876519114911.jpg
     publisher: Kataeb.org
     caption: Boxes of pill packets and clear bags of white tablets from the Derna seizure, in the lead photo published with the article, one of the images the anti-drugs administration released with its statement.
+  - kind: photo
+    url: https://www.lebanonon.com/news/449388
+    media_url: https://www.lebanonon.com/upload/PHTYALOPAW.jpg
+    publisher: Lebanon ON
+    caption: Boxes, sacks and clear plastic bags of seized pills and hashish from the Derna operation, in the lead photo published with the article.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7026da21e7b3b5604517fdb70f6f7a84
@@ -176,24 +181,25 @@ sources:
     publisher: موقع الحصري
     date: 2026-11-18
     language: ar
-open_questions:
-    - No street value was stated for the 18 kilograms of hashish or the rest of the haul.
-    - One account says members of the network were detained in Derna, while the Libyan News Agency text cited here said inquiries were still under way to identify them.
-    - No laboratory confirmation of the hashish was reported.
+  - title: ضبط أكثر من 4 ملايين قرص مخدر في شرق ليبيا
+    url: https://www.lebanonon.com/news/449388
+    publisher: Lebanon ON
+    date: 2026-11-18
+    language: ar
 ---
 
 The Derna branch of Libya's General Administration for Combating Drugs and
 Psychotropic Substances carried out a security operation south of Gate 200 in
 the city of Derna. [@1,4,13,18,22] The seized drugs were pictured and dated to Tuesday 17
 November 2026 in Derna, in material credited to the anti-drugs administration.
-[@1,11] Officers seized 18 kilograms of hashish in the operation. [@1,4,13,18,21,22] Photos published by the administration with its statement showed quantities of hashish alongside boxes and clear bags holding white pills. [@3,5,7,8,9,10,11,12,15,16,17,19,20]
+[@1,11] Officers seized 18 kilograms of hashish in the operation. [@1,4,13,18,21,22] Photos published by the administration with its statement showed quantities of hashish alongside boxes and clear bags holding white pills. [@3,5,7,8,9,10,11,12,15,16,17,19,20,23]
 
 The same haul also included 4,162,682 narcotic pills described as Captagon,
 ecstasy, tramadol and Tamol. [@1,4,13,18,21,22] Officers also seized 11 kilograms of cocaine
 alongside the hashish and pills, which is not counted in the cannabis figures.
-[@1,4,13,22] A Reuters account of the seizure put the haul at more than four million narcotic pills and 29 kilograms of cocaine and hashish together. [@3,5,9,10,11,12,14,15,16,20] The head of the anti-drugs administration, Maj. Gen. Ahmed Al-Shamikh, gave
+[@1,4,13,22] A Reuters account of the seizure put the haul at more than four million narcotic pills and 29 kilograms of cocaine and hashish together. [@3,5,9,10,11,12,14,15,16,20,23] The head of the anti-drugs administration, Maj. Gen. Ahmed Al-Shamikh, gave
 the same breakdown of 4,162,682 pills plus 18 kilograms of hashish and 11
-kilograms of cocaine in the second account. [@2] The same account quoted the administration's director, Maj. Gen. Ahmed Al-Shamikh, saying in a video statement released late on 17 November that the authorities would not be lenient with anyone who sought to tamper with the security of young Libyans or the country's future. [@3,5,6,7,8,10,12,14,15,19,20] The first account said the
+kilograms of cocaine in the second account. [@2] The same account quoted the administration's director, Maj. Gen. Ahmed Al-Shamikh, saying in a video statement released late on 17 November that the authorities would not be lenient with anyone who sought to tamper with the security of young Libyans or the country's future. [@3,5,6,7,8,10,12,14,15,19,20,23] The first account said the
 operation implemented instructions from the administration's director to
 intensify anti-drug efforts and pursue dealers and promoters. [@1,13] The second
 account instead described the operation as implementing instructions from the
@@ -202,4 +208,4 @@ redouble efforts against drugs and pursue their traders and promoters. [@2] The 
 
 The seized materials were sealed as evidence and the necessary legal measures
 were taken. [@1,4,13,22] Inquiries were continuing under Public Prosecution supervision
-to identify the members of the gang involved. [@1,4,13,21,22] The authorities were questioning the detained network members to establish its foreign links and who was behind its financing. [@6] The administration's statement also said members of the criminal network had been detained in the city. [@3,5,6,7,8,9,10,11,12,14,15,16,17,19,20]
+to identify the members of the gang involved. [@1,4,13,21,22] The authorities were questioning the detained network members to establish its foreign links and who was behind its financing. [@6] The administration's statement also said members of the criminal network had been detained in the city. [@3,5,6,7,8,9,10,11,12,14,15,16,17,19,20,23]
