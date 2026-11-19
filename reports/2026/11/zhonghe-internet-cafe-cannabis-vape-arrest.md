@@ -48,6 +48,11 @@ media:
     media_url: https://cdn2.ettoday.net/images/9022/d9022580.jpg
     publisher: ETtoday新聞雲
     caption: 'Officers at the Zhonghe internet cafe where the 34-year-old Lin was found watching a drama series and vaping a cannabis cartridge, in a still published with the ETtoday report. Photo: 陳以昇 / ETtoday (翻攝)'
+  - kind: photo
+    url: https://news.tvbs.com.tw/local/4052866
+    media_url: https://news-images.tvbs.com.tw/api/v1/image/01a1f211-95c9-7198-b9f6-7cec2e27fd59.jpg?t=16x9&wp=r,t&c=0,198,778,636&w=1200&h=675
+    publisher: TVBS新聞網
+    caption: 'The 34-year-old Lin being lifted from his seat and searched in the Zhonghe internet cafe, in the still published with the TVBS report under the caption 男子將大麻電子煙藏網咖椅墊，遭警架起搜身. Photo: TVBS'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 809ef8b3ee92988dd0152ffd1130fa49
@@ -88,19 +93,34 @@ sources:
     publisher: 自由時報電子報
     date: 2026-11-19
     language: zh
+  - title: 看《絕命毒師》太入戲？網咖內吸毒 男子大麻煙彈藏屁股下 遭警架起搜出
+    url: https://news.tvbs.com.tw/local/4052866
+    publisher: TVBS新聞網
+    date: 2026-11-19
+    language: zh
+  - title: 看《絕命毒師》太入戲？網咖內吸毒 男子大麻煙彈藏屁股下 遭警架起搜出
+    url: https://www.msn.com/zh-tw/news/other/%E7%9C%8B-%E7%B5%95%E5%91%BD%E6%AF%92%E5%B8%AB-%E5%A4%AA%E5%85%A5%E6%88%B2-%E7%B6%B2%E5%92%96%E5%85%A7%E5%90%B8%E6%AF%92-%E7%94%B7%E5%AD%90%E5%A4%A7%E9%BA%BB%E7%85%99%E5%BD%88%E8%97%8F%E5%B1%81%E8%82%A1%E4%B8%8B-%E9%81%AD%E8%AD%A6%E6%9E%B6%E8%B5%B7%E6%90%9C%E5%87%BA/ar-AA2hKfCj
+    publisher: MSN (TVBS News)
+    date: 2026-11-19
+    language: zh
+open_questions:
+    - The 12.25 grams recorded for this case is the gross weight of the device and cartridge together, so the weight of the cannabis oil alone is not known.
+    - The cartridge was identified by a field drug screening test; no laboratory confirmation has been reported.
+    - No charge, plea or court outcome has been reported for the man arrested at the internet cafe.
+    - TVBS reports that officers lifted Lin from his seat to search him after he kept leaning down, while other accounts in the report say he was searched with his consent; the sources differ on how the search proceeded.
 ---
 
 A 34-year-old man surnamed Lin was in an internet cafe on Anping Road in Zhonghe
 in the early hours of 19 November 2026, watching shows while smoking a cannabis
-e-cigarette that members of the public reported to police. [@1,3,4,5,6,7] Lin works as a security guard and had begun an eight-hour session at the internet cafe that morning. [@5,7] He was watching the American drug-crime series Breaking Bad while smoking. [@3] Officers from
+e-cigarette that members of the public reported to police. [@1,3,4,5,6,7,8] Lin works as a security guard and had begun an eight-hour session at the internet cafe that morning. [@5,7] He was watching the American drug-crime series Breaking Bad while smoking. [@3,8] Officers from
 the Anping Police Station of the Zhonghe Precinct were on patrol at about 4 a.m.
 on 19 November when they received the report that a man inside the cafe was
-suspected of smoking a cannabis cartridge. [@1,2,3,4,6] When officers approached him, Lin played dumb and said he had not used drugs, before the search found the device and cartridge. [@5,7] After arriving, officers
+suspected of smoking a cannabis cartridge. [@1,2,3,4,6] When officers approached him, Lin played dumb and said he had not used drugs, before the search found the device and cartridge. [@5,7,9] When officers questioned him further, Lin kept leaning down and reaching toward his buttocks to hide the device, and officers then lifted him up and searched the seat and his person. [@8] After arriving, officers
 searched Lin with his consent and arrested him at the scene as a drug offender
 in the act, later transferring him to the district prosecutor's office for
 investigation under the Drug Hazard Prevention Act. [@1,2,3,4,6]
 
 Officers seized one e-cigarette device and one cannabis cartridge from Lin at
-the scene. [@1,2,4,5,6,7] During questioning Lin said he had paid NT$2,000 to a person he met online for the cannabis oil but had forgotten who the seller was. [@5,7] The seized device and cartridge together had a gross weight of
+the scene. [@1,2,4,5,6,7,8] During questioning Lin said he had paid NT$2,000 to a person he met online for the cannabis oil but had forgotten who the seller was. [@5,7] The seized device and cartridge together had a gross weight of
 12.25 grams and tested positive for cannabis, which the report describes as a
 Category Two drug. [@1,2,3,4,6] Police said the source of the drug was still under investigation. [@6]
