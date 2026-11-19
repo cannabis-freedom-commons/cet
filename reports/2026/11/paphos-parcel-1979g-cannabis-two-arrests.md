@@ -74,24 +74,28 @@ sources:
     publisher: Kanali 6
     date: 2026-11-19
     language: el
+  - title: Two kilos of cannabis seized in Paphos
+    url: https://cyprus-mail.com/2026/11/19/two-kilos-of-cannabis-seized-in-paphos
+    publisher: Cyprus Mail
+    date: 2026-11-19
 open_questions:
     - The police figure of 1,979 grams is a gross weight that includes the parcel's packaging; no net weight of the cannabis was published.
     - The Kanali 6 account gives the shop products only as containing THC and CBD, without the police statement's split into eight CBD products and two containing THC.
 ---
 
 Police arrested a 32-year-old man and a 30-year-old woman in Paphos in an
-investigation into drugs imported into Cyprus. [@3,4] A parcel containing cannabis
-with a total gross weight of 1,979 grams was intercepted in Paphos. [@1,4] On 18
+investigation into drugs imported into Cyprus. [@3,4,5] A parcel containing cannabis
+with a total gross weight of 1,979 grams was intercepted in Paphos. [@1,4,5] On 18
 November 2026 the 32-year-old collected the parcel from a parcel-delivery
 company's locker in Paphos and was arrested for a flagrant offence. [@2,4]
-Officers seized two mobile phones from him for further examination. [@1]
+Officers seized two mobile phones from him for further examination. [@1,5]
 
 An invoice inside the parcel was made out in the name of the 30-year-old woman,
-and the two jointly run a shop in Paphos. [@1,4] Police obtained arrest warrants
-against both and a warrant to search the shop. [@1] In the shop officers seized
+and the two jointly run a shop in Paphos. [@1,4,5] Police obtained arrest warrants
+against both and a warrant to search the shop. [@1,5] In the shop officers seized
 as evidence eight products said to contain CBD, two products containing THC and
-15 electronic vaporizers suspected of being untaxed goods. [@1,4]
+15 electronic vaporizers suspected of being untaxed goods. [@1,4,5]
 
 Both were arrested under the arrest warrants and held in custody to facilitate
-the investigations. [@1,4] The Paphos branch of the anti-drug service YKAN is
+the investigations. [@1,4,5] The Paphos branch of the anti-drug service YKAN is
 investigating the case. [@1]
