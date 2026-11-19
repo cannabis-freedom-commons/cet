@@ -49,24 +49,27 @@ sources:
     publisher: EraNova.bg
     date: 2026-11-19
     language: bg
-open_questions:
-  - The amounts are stated only as about 2 grams in each check and about 4 grams in total, with no exact measured weight reported.
-  - The marijuana was described as dry green plant matter identified as marijuana, including by field testing, with no laboratory confirmation reported.
-  - No detention was explicitly reported for the 17-year-old, so only the 34-year-old is counted as arrested.
-  - No court outcome beyond the fast-track proceedings against the 34-year-old man was reported.
-  - The local accounts all draw on the same ODMVR Burgas police statement, so they are not independent reporting.
-  - The submitted bulletin also reports drink-driving, traffic accidents and a theft in Burgas Province; those are different events left out of this cannabis report.
+  - title: Полицията в Бургас задържа двама с по около 2 грама марихуана
+    url: https://burgasmedia.com/amp/news/policiyata-v-burgas-zadarzha-dvama-s-po-okolo-2-grama-marihuana
+    publisher: BurgasMedia
+    date: 2026-11-19
+    language: bg
+  - title: Полицията в Бургас залови двама с по 2 грама марихуана
+    url: https://burgasonline.bg/news/policiyata-v-burgas-zalovi-dvama-s-po-2-grama-marihuana-4876news.html
+    publisher: Бургас Онлайн
+    date: 2026-11-19
+    language: bg
 ---
 
 Police in Burgas carried out two separate checks on 18 November 2026, stopping a
-17-year-old youth and a 34-year-old man. [@1] The youth was checked near Block
+17-year-old youth and a 34-year-old man. [@1,4] The youth was checked near Block
 61 in the Izgrev housing complex, where officers found three joints with a total
-weight of about 2 grams. [@1] During the second check on Gladston Street, the
+weight of about 2 grams. [@1,4] The youth was checked at about 14:00. [@4] During the second check on Gladston Street, the
 older man tried to discard the drug by throwing a bag of dry green plant matter
-to the ground when he saw the officers. [@3] He was detained for up to 24 hours
+to the ground when he saw the officers. [@3,4] He was detained for up to 24 hours
 and fast-track proceedings were opened against him. [@3]
 
-The discarded bag was found to contain about 2 grams of marijuana. [@3] In
+The discarded bag was found to contain about 2 grams of marijuana. [@3,5] In
 total, police found and seized about 4 grams of marijuana across the two checks.
 [@1] Officers described the teenager's rolls as inflorescences of dry green
 plant matter identified as marijuana. [@2]
@@ -74,4 +77,3 @@ plant matter identified as marijuana. [@2]
 Both checks were made by officers of the same Burgas directorate, with the
 second check recorded on Gladston Street No 125. [@3] Police said work on the
 cases was continuing. [@1]
-
