@@ -71,6 +71,11 @@ sources:
     publisher: Eska
     date: 2026-11-19
     language: pl
+  - title: CBŚP przejęło 34 kilogramy marihuany. Podejrzany 41-latek przepakowywał towar w magazynie
+    url: https://informacje.wp.pl/wiadomosci/cbsp-przejelo-34-kilogramy-marihuany-podejrzany-41-latek-przepakowywal-towar-w-magazynie-7352620926306304a
+    publisher: WP Info
+    date: 2026-11-19
+    language: pl
 open_questions:
   - The police date the operation only to the second half of October 2026; no exact day was published.
   - No estimate of the marihuana's value or of the weight of the individual packages was published.
@@ -79,14 +84,14 @@ open_questions:
 ---
 
 Officers of CBŚP's Elbląg division detained a 41-year-old man on a recreational
-plot in Ostróda County as he packed cartons into a passenger car. [@1] Inside
-the car were 20 vacuum-packed packages of marihuana. [@1] A further search of a
+plot in Ostróda County as he packed cartons into a passenger car. [@1,3] Inside
+the car were 20 vacuum-packed packages of marihuana. [@1,3] A further search of a
 recreational building, a garage and another vehicle found 14 more packages of
-the drug. [@1] Police took the man to the District Prosecutor's Office in
-Ostróda, where he was formally charged. [@1] On the prosecution's application
-the District Court in Ostróda ordered his temporary arrest. [@1]
+the drug. [@1,3] Police took the man to the District Prosecutor's Office in
+Ostróda, where he was formally charged. [@1,3] On the prosecution's application
+the District Court in Ostróda ordered his temporary arrest. [@1,3]
 
-In total the officers secured 34 kilograms of ready dried marihuana. [@1] They
+In total the officers secured 34 kilograms of ready dried marihuana. [@1,3] They
 also recovered items indicating the use of camouflage methods and preparation of
 the drugs for distribution on a wide scale. [@1]
 
@@ -97,4 +102,3 @@ the drugs were stored on the property before further distribution. [@2] The man
 was known to have contacts with the football hooligan milieu of an Elbląg sports
 club. [@1] The case remains open as investigators seek to establish all the
 circumstances and identify any others involved. [@1]
-
