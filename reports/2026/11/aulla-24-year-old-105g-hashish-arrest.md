@@ -78,6 +78,11 @@ sources:
     publisher: Versiliatoday
     date: 2026-11-18
     language: it
+  - title: 'Controllato in sella alla moto addosso ha cocaina e hashish: arrestato'
+    url: https://corrieretoscano.it/massa-carrara/cronaca/controllato-in-sella-alla-moto-addosso-ha-cocaina-e-hashish-arrestato/
+    publisher: Corriere Toscano
+    date: 2026-11-18
+    language: it
 open_questions:
     - The article reports a combined figure of more than 120 grams of drugs, which includes the cocaine; only the hashish weight is counted as cannabis here.
     - The hashish weights are given as approximate (about 98 grams and seven grams at the home), and no value estimate was published.
@@ -86,17 +91,17 @@ open_questions:
 ---
 
 Carabinieri from the Aulla station arrested a 24-year-old Moroccan man in the
-town on 8 November 2026 on suspicion of possessing drugs for sale. [@1,3,4,6] He
+town on 8 November 2026 on suspicion of possessing drugs for sale. [@1,3,4,6,7] He
 abandoned his motorcycle and ran off on foot when the officers approached to
-check it, and a second patrol surrounded and stopped him. [@1,2,5,6]
+check it, and a second patrol surrounded and stopped him. [@1,2,5,6,7]
 
 A search of the man and the motorcycle found about 15 grams of cocaine already
-divided into 22 doses, a quantity excluded from the cannabis figures. [@1,2,3,5,6] About
+divided into 22 doses, a quantity excluded from the cannabis figures. [@1,2,3,5,6,7] About
 98 grams of hashish and packaging material were hidden in the storage
 compartment under the motorcycle's seat, and a search of his home found another
-seven grams of hashish. [@1,2,3,5,6]
+seven grams of hashish. [@1,2,3,5,6,7]
 
 A judge at the court of Massa validated the arrest and ordered the 24-year-old
-released while he awaits trial. [@1,2,3,5,6] The case proceeded by giudizio direttissimo, Italy's expedited direct-trial procedure. [@3] The operation was part of checks organised
+released while he awaits trial. [@1,2,3,5,6,7] The case proceeded by giudizio direttissimo, Italy's expedited direct-trial procedure. [@3] The operation was part of checks organised
 by the Carabinieri company of Pontremoli against drug dealing and petty crime in
 the main centres of the Lunigiana. [@1,2]
