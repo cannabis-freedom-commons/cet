@@ -1,0 +1,89 @@
+---
+code: 7XN2FX
+added_at: "2026-11-19T08:34:33.383967Z"
+date: 2026-11-19
+country: jo
+place: Amman, al-Ruwaished, Ma'an and Southern Jordan Valley, Jordan
+coordinates: [31.9516, 35.924]
+precision: country
+type: raid
+also: [arrest, seizure]
+title: 13 dealers held in Jordan raids; 15 kg marijuana seized
+summary: >-
+  Jordan's Anti-Narcotics Department said officers toppled 13 drug dealers in trafficking raids in Amman, Ruwaished, Ma'an and the Southern Jordan Valley. Officers seized 15 kilograms of marijuana alongside dozens of hashish slabs, crystal meth, pills and firearms.
+figures:
+  arrested: 13
+  kg_seized: 15
+details:
+  agencies: [Jordan Anti-Narcotics Department, Public Security Directorate]
+  agency_types: [anti-narcotics, police]
+  products:
+    - {product: flower, kg: 15}
+  activity: [trafficking]
+  setting: [vehicle, home]
+  case_stage: investigation
+  date_precision: publication
+  region: Amman
+data_sources:
+  details.activity: [2]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [2]
+  details.products: [2]
+  details.setting: [3]
+  figures.arrested: [1]
+  figures.kg_seized: [2]
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: 553186a1528cbfa08c343f4ba1e1a51b
+tags: [jordan, hashish, amman, anti-narcotics, marijuana]
+sources:
+  - title: الأردن.. سقوط 13 تاجر مخدرات في مداهمات أمنية وضبط كميات كبيرة
+    url: https://www.khaberni.com/news/868527-%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86-%D8%B3%D9%82%D9%88%D8%B7-13-%D8%AA%D8%A7%D8%AC%D8%B1-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%AF%D8%A7%D9%87%D9%85%D8%A7%D8%AA-%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D9%88%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9
+    publisher: خبرني
+    date: 2026-11-19
+    language: ar
+  - title: مكافحة المخدرات تطيح بـ 13 تاجراً للمخدرات بمداهمات في مختلف مناطق المملكة
+    url: https://petra.gov.jo/ar/news/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B7%D9%8A%D8%AD-%D8%A8-13-%D8%AA%D8%A7%D8%AC%D8%B1%D8%A7-%D9%84%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D9%85%D8%AF%D8%A7%D9%87%D9%85%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9
+    publisher: وكالة الأنباء الأردنية (بترا)
+    date: 2026-11-19
+    language: ar
+  - title: مكافحة المخدرات تطيح بـ13 تاجرا بمداهمات في مختلف مناطق المملكة
+    url: https://almamlakatv.com/ar/news/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B7%D9%8A%D8%AD-%D8%A8%D9%8013-%D8%AA%D8%A7%D8%AC%D8%B1%D8%A7-%D8%A8%D9%85%D8%AF%D8%A7%D9%87%D9%85%D8%A7%D8%AA-%D9%81%D9%8A-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9
+    publisher: قناة المملكة
+    date: 2026-11-19
+    language: ar
+open_questions:
+  - No separate date for the raids was given; 19 November 2026 is the publication date and the casework was described as running over the preceding days.
+  - Hashish was reported only in kaff slabs with no weight, so the 15 kg figure covers marijuana only.
+  - The arrest total is ambiguous because one Ruwaished suspect fled while the statement still reports 13 dealers toppled.
+  - No names, charges, pleas or court outcomes were reported.
+  - The crystal methamphetamine, narcotic pills and firearms were excluded from cannabis figures.
+  - The three accounts reproduce the same Public Security Directorate statement, so they are not independent reporting.
+---
+
+Jordan’s Anti-Narcotics Department officers toppled 13 drug dealers while
+handling a number of trafficking cases over the previous few days, the Public
+Security Directorate spokesperson said. [@1] The spokesperson said all of the
+cases involved trafficking, including four cases in the Capital Governorate.
+[@2]
+
+In the largest capital case officers raided and arrested three dealers and
+seized 15 kilograms of marijuana, five slabs of hashish and 250 grams of crystal
+methamphetamine from them. [@2] In a second capital case officers raided another
+dealer inside his vehicle while he was moving drugs for sale and seized 24 slabs
+of hashish from him. [@3] In a third capital case officers raided two dealers
+inside a vehicle and seized six slabs of hashish from them. [@2] In the last
+capital case officers raided a flat used to hide drugs, arrested its dealer and
+seized six slabs of hashish and a firearm. [@3]
+
+In al-Ruwaished officers tracked two active dealers, arrested one after
+intercepting their vehicle while the other fled and remains sought, and found
+26,000 narcotic pills inside the vehicle. [@1] On the desert road officers
+raided a vehicle carrying three people heading for the capital, arrested all
+three and found one kilogram of crystal methamphetamine and two firearms inside.
+[@1] In Ma’an officers raided a drug dealer and seized 22 slabs of hashish from
+him. [@3] In the Southern Jordan Valley officers located and raided a dangerous
+fugitive wanted for cooperation with regional drug-smuggling and trafficking
+networks and arrested him. [@3]
+
