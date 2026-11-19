@@ -57,6 +57,11 @@ sources:
     publisher: Tribun-Papua.com
     date: 2026-11-19
     language: id
+  - title: Polres Nabire Musnahkan 168,45 Gram Ganja, Satu Tersangka Ditahan - Mitrapol
+    url: https://mitrapol.com/2026/11/19/polres-nabire-musnahkan-16845-gram-ganja-satu-tersangka-ditahan/
+    publisher: Mitrapol
+    date: 2026-11-19
+    language: id
 open_questions:
   - The report is dated at the 19 November 2026 press-release destruction, the latest step; the street seizure occurred on 6 November 2026.
   - Two people were first held but only FFH (30) was named as a suspect; the other person's identity and status beyond witness examination were not reported.
@@ -70,30 +75,35 @@ media:
     media_url: https://asset.tribunnews.com/-uxF-WPNIarBr7lERLRIpD3TZKk=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/papua/foto/bank/originals/Polres-Nabire-memusnahkan-barang-bukti-narkotika-jenis-ganja-Kamis-19112026.jpg
     publisher: Tribun-Papua.com
     caption: 'Police destroying the 167.85 grams of ganja evidence at Polres Nabire on 19 November 2026. Photo: Tribun-Papua.com/Calvin Louis Erari'
+  - kind: photo
+    url: https://mitrapol.com/2026/11/19/polres-nabire-musnahkan-16845-gram-ganja-satu-tersangka-ditahan/
+    media_url: https://mitrapol.com/wp-content/uploads/2026/11/polres-nabire-musnahkan-168-45-gram-ganja.jpg
+    publisher: Mitrapol
+    caption: 'Polres Nabire officers destroying the seized ganja evidence at the press event on 19 November 2026. Photo: Polres Nabire via Mitrapol'
 ---
 
 On 6 November 2026 at about 18.00 WIT, Satresnarkoba Polres Nabire acted against
 two people on Jalan RE Martadinata in Nabarua, Nabire, during an anti-narcotics
-operation. [@2,3] Officers first held the two suspected people, then named
+operation. [@2,3,4] Officers first held the two suspected people, then named
 30-year-old FFH as the suspect while the other person was examined as a witness.
-[@2] When officers tried to stop the pair's vehicle in front of SMP Negeri 5
+[@2,4] When officers tried to stop the pair's vehicle in front of SMP Negeri 5
 Nabire, the pair released a dog they had brought, which held up the chase. [@2]
 While fleeing, the pair allegedly discarded a bag suspected of holding narcotics
 near the Ruko Momoyo U-turn. [@2] Other officers kept chasing the pair and
 detained both in front of Toko Venus. [@2,3]
 
 Officers brought both back to the disposal site and found six medium-sized
-plastic packs of suspected ganja inside the black backpack. [@2,3] The National
-Police forensic laboratory in Jayapura put the net weight at 168.45 grams. [@2,3]
+plastic packs of suspected ganja inside the black backpack. [@2,3,4] The National
+Police forensic laboratory in Jayapura put the net weight at 168.45 grams. [@2,3,4]
 Investigators kept 0.10 grams for laboratory testing and 0.50 grams for trial
-evidence, destroying the remaining 167.85 grams during the investigation. [@2,3]
+evidence, destroying the remaining 167.85 grams during the investigation. [@2,3,4]
 Polres Nabire destroyed 167.85 grams of ganja evidence. [@1] The destruction on
 19 November 2026 in front of the Satresnarkoba room was led by police chief AKBP
 Samuel D Tatiratu. [@1,3] Police also seized a black bag marked HALO and a black
 plastic bag used to store the evidence. [@2]
 
 Police believe the ganja was brought from Jayapura to Nabire aboard the KM
-Dorolonda for personal use and for distribution in the Nabire police area. [@2,3]
+Dorolonda for personal use and for distribution in the Nabire police area. [@2,3,4]
 The press event was attended by prosecutor and court representatives,
-investigators and journalists. [@2,3] It ended with the destruction as a show of
+investigators and journalists. [@2,3,4] It ended with the destruction as a show of
 transparency and commitment against drug trafficking in Nabire. [@2]
