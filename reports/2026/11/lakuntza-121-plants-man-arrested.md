@@ -73,23 +73,24 @@ sources:
     publisher: Navarra.com
     date: 2026-11-19
     language: es
-open_questions:
-  - No weight for any harvested cannabis or street-value estimate was published; only the 121 plants were counted.
-  - The man was identified only as a 35-year-old resident, with no name, plea or later court outcome reported.
-  - All outlets reproduce the same Foral Police statement, so the accounts are not independent reporting.
+  - title: Policía Foral desmantela una plantación indoor de marihuana en Lacuntza y detiene a un varón de 35 años
+    url: https://www.msn.com/es-es/noticias/espana/polic%C3%ADa-foral-desmantela-una-plantaci%C3%B3n-indoor-de-marihuana-en-lacuntza-y-detiene-a-un-var%C3%B3n-de-35-a%C3%B1os/ar-AA2hMcGy
+    publisher: MSN
+    date: 2026-11-19
+    language: es
 ---
 
 Foral Police officers from the Alsasua prevention unit, supported by the
 Pamplona intervention group (GOI), detained a 35-year-old man this Wednesday as
 the alleged perpetrator of a crime against public health after dismantling an
-indoor marijuana plantation in a dwelling in Lakuntza. [@2] The detainee was
+indoor marijuana plantation in a dwelling in Lakuntza. [@2,5] The detainee was
 taken to the Foral Police central station in Pamplona for the preparation of
-proceedings and was subsequently placed at the disposal of the courts. [@1]
+proceedings and was subsequently placed at the disposal of the courts. [@1,5]
 
 The intervention took place on Wednesday 18 November. [@4] During the authorised
 intervention and search officers detained the flat's occupant and seized a total
 of 121 marijuana plants, two high-power extraction motors, special lamps,
-ventilators, sacks of fertiliser and numerous pots. [@1] Neighbours' complaints
+ventilators, sacks of fertiliser and numerous pots. [@1,5] Neighbours' complaints
 described a constant coming and going of people on brief visits, tool-handling
 noises and the habitual transport of large bags, both on foot and through the
 communal garage. [@3] The activity also generated intense marijuana and chemical
@@ -100,4 +101,3 @@ property had anomalously very high electricity consumption in August and
 September, compatible with the irrigation and lighting systems of an indoor
 crop. [@1] With the evidence gathered, police sought and obtained a judicial
 entry and search order before carrying out the intervention. [@1]
-
