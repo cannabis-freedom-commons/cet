@@ -54,25 +54,30 @@ sources:
     publisher: EnQuete+
     date: 2026-11-19
     language: fr
+  - title: 'Mbour : 79 kg de chanvre indien saisis et deux chauffeurs de taxi déférés au parquet - Dakar92'
+    url: https://dakar92.com/mbour-79-kg-de-chanvre-indien-saisis-et-deux-chauffeurs-de-taxi-deferes-au-parquet/
+    publisher: Dakar92
+    date: 2026-11-19
+    language: fr
 ---
 
 The Urban Security unit of the Mbour central police station seized Indian hemp
-in the ONCAD district on 14 November 2026. [@1,2,3] The operation in the ONCAD
+in the ONCAD district on 14 November 2026. [@1,2,3,5] The operation in the ONCAD
 district recovered 79 kilogrammes of drugs and led to the arrest of two people
 described as involved in the case. [@1,2,3] Both suspects are taxi drivers who were
-referred to the public prosecutor at the Mbour High Court. [@1,2] Police said the two were suspected of possessing, offering and selling Indian hemp. [@2]
+referred to the public prosecutor at the Mbour High Court. [@1,2,5] Police said the two were suspected of possessing, offering and selling Indian hemp. [@2]
 
 The case began with a surveillance patrol in the ONCAD sector. [@1] Officers
 spotted a vehicle whose behaviour seemed suspicious to them. [@1] After
 following it, officers stopped the vehicle at the district bridge. [@1] Its
 driver immediately abandoned the car and fled, leaving his mobile phone behind.
 [@1,3,4] A search of the vehicle uncovered three bags carefully covered in plastic
-holding a total of 79 kg of Indian hemp. [@1,3,4]
+holding a total of 79 kg of Indian hemp. [@1,3,4,5]
 
 After answering the driver’s constantly ringing phone, officers posed as the
-driver to arrange a handover at the ONCAD bridge. [@1,2,4] The trap led to the
+driver to arrange a handover at the ONCAD bridge. [@1,2,4,5] The trap led to the
 arrest of the people who came to collect the parcel. [@1,4] Later technical
 examination of their mobile phones allegedly showed regular contacts with the
-driver who is still at large. [@1,4] Both suspects were placed in custody and then
+driver who is still at large. [@1,4,5] Both suspects were placed in custody and then
 referred to the prosecutor on 16 November 2026. [@1,3,4] The main driver involved in
 transporting the drugs remains wanted. [@1]
