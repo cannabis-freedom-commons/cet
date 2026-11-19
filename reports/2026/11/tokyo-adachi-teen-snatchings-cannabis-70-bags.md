@@ -58,6 +58,11 @@ sources:
     publisher: TBS NEWS DIG
     date: 2026-11-19
     language: ja
+  - title: 盗んだバイクで東京・足立区 台東区などでひったくり繰り返したとみられる18歳の男を逮捕 自宅からは大麻とみられる乾燥植物約70袋も発見 警視庁（TBS NEWS DIG）｜ｄメニューニュース（NTTドコモ）
+    url: https://topics.smt.docomo.ne.jp/article/tbs/nation/tbs-3098213
+    publisher: dmenuニュース（NTTドコモ）
+    date: 2026-11-19
+    language: ja
 ---
 
 The Metropolitan Police Department's Investigation Division 3 arrested an
@@ -66,12 +71,12 @@ suspicion of snatching a bag from a woman who was walking in the street. [@1,2,3
 The man has remained silent under questioning. [@1,4] About 70 bags of dried plant
 material believed to be cannabis were found at his home, and investigators are
 proceeding with the case on suspicion of violating the Cannabis Control Act.
-[@1,2,4]
+[@1,2,4,5]
 
 Police say he rode a moped up behind a woman in her 80s who was walking near
 Kaminarimon in Taito Ward on the evening of 3 October and took the bag she was
-carrying, which held about 200,000 yen in cash. [@1,2] The moped was believed to have been stolen, and security-camera investigation led to the man. [@4] The woman was not injured.
+carrying, which held about 200,000 yen in cash. [@1,2] The moped was believed to have been stolen, and security-camera investigation led to the man. [@4,5] The woman was not injured.
 [@1] Investigators believe he was involved in nine bag-snatchings between late
-September and mid-October, in which about 400,000 yen was taken in total. [@1,2] The nine linked thefts from late September to last month in Taito, Katsushika and elsewhere involved the same blue moped, which police treat as his work. [@4]
+September and mid-October, in which about 400,000 yen was taken in total. [@1,2] The nine linked thefts from late September to last month in Taito, Katsushika and elsewhere involved the same blue moped, which police treat as his work. [@4,5]
 They also believe he used credit cards stolen in the thefts to buy cigarettes
 and food. [@1]
