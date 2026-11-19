@@ -76,6 +76,10 @@ sources:
     url: https://www.longisland.com/news/11-19-26/scpd-huntington-station-store-employee-arrested-for-selling-cannabis-products.html
     publisher: LongIsland.com
     date: 2026-11-19
+  - title: 'Huntington Station Store Employee Arrested In Cannabis Sales Probe: Police'
+    url: https://patch.com/new-york/huntington/amp/35243703/huntington-station-store-employee-arrested-in-cannabis-sales-probe-police
+    publisher: Huntington, NY Patch
+    date: 2026-11-19
 open_questions:
     - No weight was published for the seized marijuana or THC vapes.
     - No amount was published for the seized cash.
@@ -87,17 +91,17 @@ open_questions:
 ---
 
 Police arrested Issac Algahmi, a 24-year-old Bronx man employed at Joe Joe
-Convenience Store at 212 Depot Road in Huntington Station, on November 18. [@1,3,4,5]
+Convenience Store at 212 Depot Road in Huntington Station, on November 18. [@1,3,4,5,6]
 He was charged with sale of cannabis without a license, criminal possession of
 cannabis in the third degree and criminally using drug paraphernalia in the
 second degree, all misdemeanors, as well as unlawful sale of cannabis, a
-violation. [@2,5] He was issued a desk appearance ticket to appear in First
-District Court in Central Islip at a later date. [@1,5]
+violation. [@2,5,6] He was issued a desk appearance ticket to appear in First
+District Court in Central Islip at a later date. [@1,5,6]
 
 Second Precinct Investigative Unit officers executed a search warrant at the
-store following complaints from the community. [@1,3,4,5] During the search,
+store following complaints from the community. [@1,3,4,5,6] During the search,
 investigators seized marijuana, THC marijuana vapes, large quantities of
-flavored vape products, and cash. [@1,3,4,5]
+flavored vape products, and cash. [@1,3,4,5,6]
 
 The business was also found with cigarettes without a valid New York State
 retail dealer certificate of registration for cigarettes and tobacco products.
