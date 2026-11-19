@@ -41,26 +41,31 @@ sources:
     url: https://www.enca.com/news-top-stories/hawks-police-dismantle-dagga-plant-magaliesburg/
     publisher: eNCA
     date: 2026-11-18
+  - title: Hawks make R12 million dagga bust in North West
+    url: https://www.sabcnews.com/sabcnews/1179320-2/
+    publisher: SABC News
+    date: 2026-11-18
+    language: en
 open_questions:
-  - The 18 November 2026 date is the publication date of the report; no separate date is given for when the operation or arrest took place.
-  - No weight of seized cannabis, number of plants or area cleared was published for the Magaliesburg plant.
-  - The R12 million is an estimate given in the news item, not an independently established valuation.
-  - No name, charge, court appearance or case outcome was reported for the person arrested.
-  - It is unclear whether the 'dagga plant' was a single growing site or a larger facility; the premises are not described.
-  - The separate Douglasdale cannabis lab operation earlier that week, with two arrests and an estimated R2 million value, is a different event and is not covered here.
+    - The 18 November 2026 date is the publication date of both reports; no separate date is given for when the operation or arrest took place.
+    - No weight of seized cannabis, number of plants or area cleared was published for the Magaliesburg plant.
+    - The R12 million is described as an estimated street value in the news reports, not an independently established valuation.
+    - No name, charge, court appearance or case outcome was reported for the person arrested.
+    - The premises are described only as a farm; it is unclear whether the dagga was found at a single growing site or across a larger area.
+    - SABC News places the farm in the North West province, while the earlier eNCA account placed Magaliesburg in Gauteng.
+    - The separate Douglasdale cannabis lab operation earlier that week, with two arrests and an estimated R2 million value, is a different event and is not covered here.
 ---
 
 Hawks and SAPS officers were dismantling a cannabis growing plant in
-Magaliesburg on 18 November 2026. [@1] One person was arrested in the operation.
-[@1]
+Magaliesburg on 18 November 2026. [@1] The dagga was found on a farm in the Magaliesberg area. [@3] One person was arrested in the operation.
+[@1,3]
 
 The Magaliesburg operation was described as the second dagga bust of the week.
 [@2]
 
-The plant was estimated to be worth R12 million. [@1]
+The plant was estimated to be worth R12 million. [@1,3]
 
 A separate police operation on Tuesday had uncovered a suspected cannabis lab in
-Douglasdale, Johannesburg. [@1]
+Douglasdale, Johannesburg. [@1,3]
 
 The dismantling was still under way when it was reported. [@2]
-

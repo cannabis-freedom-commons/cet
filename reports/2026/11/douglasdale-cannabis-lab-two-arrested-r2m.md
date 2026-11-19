@@ -78,6 +78,11 @@ sources:
     url: https://www.ewn.co.za/2026/11/18/due-process-must-be-adhered-to-regarding-the-use-sale-of-cannabis
     publisher: EWN
     date: 2026-11-18
+  - title: Hawks make R12 million dagga bust in North West
+    url: https://www.sabcnews.com/sabcnews/1179320-2/
+    publisher: SABC News
+    date: 2026-11-18
+    language: en
 open_questions:
     - No count of plants or weight of cannabis was reported from the Douglasdale laboratory.
     - No court date, plea or outcome was reported for the two arrested men.
@@ -88,12 +93,12 @@ open_questions:
 Police arrested two suspects in Douglasdale, northern Johannesburg, after
 finding a hydroponic cannabis laboratory. [@1,4] An office had been set up inside the premises, which police said suggested the operation involved more than just growing cannabis. [@4] Officers found cannabis plants growing under controlled conditions and packaged cannabis at the property. [@4] Inside the shop, officers found at least seven growing tents, a hydroponic laboratory, a seed vault, weighing machines and packaged cannabis, some of it pre-rolled. [@5] The two suspects were described as white men. [@4] The two men were allegedly the owners of the commercial cannabis production, which police said lacked certification. [@5] The two were detained at the
 scene and were to be charged with offences related to dealing and trafficking in
-drugs. [@1,3,4] The expected charges relate to dealing in drugs and drug trafficking under the Drugs and Drug Trafficking Act 140 of 1992. [@4]
+drugs. [@1,3,4,6] The expected charges relate to dealing in drugs and drug trafficking under the Drugs and Drug Trafficking Act 140 of 1992. [@4]
 
 Police put the value of the laboratory and its machinery at R2m. [@1,3,4] Gauteng
 Organised Crime Investigations' narcotics and tracing teams acted on
 intelligence about illegal activities in Douglasdale, police spokesperson Lt-Col
-Isaac Mudau said. [@1,3,4] The team applied for a search and seizure warrant, which
+Isaac Mudau said. [@1,3,4,6] The team applied for a search and seizure warrant, which
 a court granted and officers executed on Tuesday. [@1,3,4] That Tuesday was 17
 November 2026, the day Mudau confirmed the discovery and described the location
 as an active crime scene. [@2] Police said it was too early to confirm whether dangerous chemicals had been found because the scene was still active. [@4]
