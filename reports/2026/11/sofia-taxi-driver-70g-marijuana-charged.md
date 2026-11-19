@@ -66,6 +66,16 @@ media:
     media_url: https://www.dunavmost.com/snimka/202611/728_416/91c83b95572d49b3ba13a968e589c225.webp
     publisher: DUNAVMOST.com
     caption: 'Drugs found in the taxi, including ecstasy, marijuana and amphetamine, in the police handout photo. Photo: MVR'
+  - kind: photo
+    url: https://www.vesti.bg/bulgaria/zaloviha-taksimetrov-shofior-s-goliamo-kolichestvo-narkotici-v-sofiia-testyt-mu-za-droga-syshto-bil-polozhitelen-6276612
+    media_url: https://m.netinfo.bg/media/images/51414/51414510/655-402-zaloviha-taksimetrov-shofior-s-goliamo-kolichestvo-narkotici-v-sofiia.jpg
+    publisher: Vesti.bg
+    caption: 'Packages of ecstasy tablets from the taxi seizure, in a police handout photo. Photo: СДВР'
+  - kind: photo
+    url: https://www.vesti.bg/bulgaria/zaloviha-taksimetrov-shofior-s-goliamo-kolichestvo-narkotici-v-sofiia-testyt-mu-za-droga-syshto-bil-polozhitelen-6276612
+    media_url: https://m4.netinfo.bg/media/images/51414/51414509/655-402-zaloviha-taksimetrov-shofior-s-goliamo-kolichestvo-narkotici-v-sofiia.jpg
+    publisher: Vesti.bg
+    caption: 'Euro and US dollar banknotes found in the taxi, in a police handout photo. Photo: СДВР'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 886ae5e22a269c3011077b17f59f73b9
@@ -111,21 +121,30 @@ sources:
     publisher: Новини 24/7
     date: 2026-11-18
     language: bg
+  - title: Заловиха таксиметров шофьор с голямо количество наркотици в София, тестът му за дрога също бил положителен
+    url: https://www.vesti.bg/bulgaria/zaloviha-taksimetrov-shofior-s-goliamo-kolichestvo-narkotici-v-sofiia-testyt-mu-za-droga-syshto-bil-polozhitelen-6276612
+    publisher: Vesti.bg
+    date: 2026-11-18
+    language: bg
+open_questions:
+    - No outcome of the prosecution's request to remand the man in custody was reported.
+    - Whether the blood test confirmed drug use is not reported.
+    - The weighed quantity of marijuana was given only as nearly 70 grams in the expert assessment, with no precise figure published.
 ---
 
 Sofia police detained a 64-year-old taxi driver after his drug test came back
-positive; he was caught on Monday in a taxi he was driving in Sofia. [@1,2,4,6] Officers stopped the taxi he was driving for a check on Dimitar Manov Street after establishing his identity. [@2,3,4,5,8] The stop was made by detectives from the Fourth District Police Directorate. [@3] The specialised police operation took place on the evening of 16 November 2026, after police received information that the man was distributing drugs in the capital. [@2,3,4,8] In the
+positive; he was caught on Monday in a taxi he was driving in Sofia. [@1,2,4,6,9] Officers stopped the taxi he was driving for a check on Dimitar Manov Street after establishing his identity. [@2,3,4,5,8] The stop was made by detectives from the Fourth District Police Directorate. [@3] The specialised police operation took place on the evening of 16 November 2026, after police received information that the man was distributing drugs in the capital. [@2,3,4,8] In the
 taxi he kept nearly 40 ecstasy tablets, 16 packets of marijuana, a large
 quantity of crystals, powdered amphetamine, and 570 euros and 100 US dollars.
-[@1,2,3,4,5,6,7,8] He also carried another packet containing about 10 grams of marijuana on
-his person. [@1,2,3,4,5,6,7,8]
+[@1,2,3,4,5,6,7,8,9] He also carried another packet containing about 10 grams of marijuana on
+his person. [@1,2,3,4,5,6,7,8,9]
 
 An expert assessment put the seized narcotics at nearly 500 grams of
 methamphetamine, nearly 70 grams of marijuana, over 11 grams of ecstasy and more
-than 9 grams of amphetamine. [@1,2,3,4,5,6,8]
+than 9 grams of amphetamine. [@1,2,3,4,5,6,8,9]
 
 The detainee was already known to police and had a prior conviction, and the
-Sofia City Prosecutor's Office has brought charges against him. [@1,2,3,4,6] The pre-trial proceedings were opened under the Penal Code articles on narcotics and on driving after drug use. [@4,8] He had first been held under a police measure of up to 24 hours. [@2,3,4,8] The results
-of his blood test were still awaited. [@1,3,4,6,7,8] He was held for up to 72 hours while
+Sofia City Prosecutor's Office has brought charges against him. [@1,2,3,4,6,9] The pre-trial proceedings were opened under the Penal Code articles on narcotics and on driving after drug use. [@4,8] He had first been held under a police measure of up to 24 hours. [@2,3,4,8] The results
+of his blood test were still awaited. [@1,3,4,6,7,8,9] He was held for up to 72 hours while
 pre-trial proceedings were opened, and the prosecution planned to ask the Sofia
-City Court on Thursday to remand him in custody. [@1,2,6]
+City Court on Thursday to remand him in custody. [@1,2,6,9]
