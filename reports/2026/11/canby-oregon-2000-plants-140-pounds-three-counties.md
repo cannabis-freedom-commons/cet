@@ -64,19 +64,18 @@ sources:
     url: https://heraldpioneer.com/2026/11/18/canby-polices-look-into-illegal-marijuana-grow-operation-straddles-3-counties/
     publisher: Herald Pioneer
     date: 2026-11-18
-open_questions:
-  - Neither account gives a calendar date for the search warrants or the interviews; 18 November 2026, the publication date of the local report, is used as the incident date.
-  - The Canby police statement carried by KOIN mentions two executed search warrants, while the Canby Herald lists six locations across three counties; no site count is recorded.
-  - No one was reported arrested or charged; five suspects were interviewed and the case was referred to the Clackamas County District Attorney's Office for prosecution.
-  - Both accounts rest on the Canby Police Department's statement, so they are not independent reporting.
-  - The plant count and the processed-marijuana weight are given as approximate figures (about 2,000 plants and about 140 pounds), and no value estimate or laboratory confirmation was reported.
+  - title: Police seize marijuana, cash, gold while investigating illegal grow operation in Canby
+    url: https://www.yahoo.com/news/articles/police-seize-marijuana-cash-gold-033849286.html
+    publisher: Yahoo News (KOIN Portland)
+    date: 2026-11-19
+    language: en
 ---
 
 Canby police interviewed five suspects in connection with an illegal marijuana
 grow operation and the case was to be sent to the Clackamas County District
-Attorney's Office for prosecution. [@2] Canby police told KOIN 6 News they
+Attorney's Office for prosecution. [@2,3] Canby police told KOIN 6 News they
 opened the investigation after a complaint about a grow operation outside the
-city and executed two search warrants. [@1] Canby Police said the warrants
+city and executed two search warrants. [@1,3] Canby Police said the warrants
 covered the original complaint site, two other locations in Clackamas County,
 two in Multnomah County and one in Yamhill County. [@2]
 
@@ -89,4 +88,3 @@ The Canby Police Department was assisted by the Clackamas County Interagency
 Task Force, the Clackamas County SWAT team and the Yamhill County Street Crimes
 and Narcotics team. [@2] Police said workers at illegal grow operations are
 often victims of human trafficking and live in squalid conditions. [@2]
-
