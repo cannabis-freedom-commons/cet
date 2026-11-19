@@ -57,21 +57,27 @@ sources:
     publisher: Bhaskar Hindi
     date: 2026-11-18
     language: hi
+  - title: 4 drug cases in city busted
+    url: https://www.ahmedabadmirror.com/4-drug-cases-in-city-busted/81926168.html
+    publisher: Ahmedabad Mirror
+    date: 2026-11-19
 open_questions:
-  - No total value was given for the 524 grams of ganja; the two cases were valued separately at Rs 21,350 for 427 grams and Rs 4,850 for 97 grams.
-  - The Daijiworld account and the IANS copies on Prokerala and Punjab Kesari carry the same text and figures, so they are not independent accounts of the operation.
-  - The 549 bottles of prohibited cough syrup belong to the two non-cannabis cases and are not counted in the cannabis figures.
-  - No charges, case numbers or court outcomes were reported for the five arrested, and the case stage is the registration of four NDPS cases.
-  - No time is given for the individual arrests during the night, and the Vejalpur 427-gram arrest has no more precise location than the police station area.
-  - The material is described by police as ganja, with no laboratory confirmation reported.
+    - No total value was given for the 524 grams of ganja; the two cases were valued separately at Rs 21,350 for 427 grams and Rs 4,850 for 97 grams.
+    - The Daijiworld account and the IANS copies on Prokerala and Punjab Kesari carry the same text and figures, so they are not independent accounts of the operation.
+    - The 549 bottles of prohibited cough syrup belong to the two non-cannabis cases and are not counted in the cannabis figures.
+    - No charges, case numbers or court outcomes were reported for the five arrested, and the case stage is the registration of four NDPS cases.
+    - No time is given for the individual arrests during the night, and the Vejalpur 427-gram arrest has no more precise location than the police station area.
+    - The material is described by police as ganja, with no laboratory confirmation reported.
+    - The Ahmedabad Mirror says police registered an NDPS offence against the man found with 97 grams of ganja rather than reporting his arrest, while counting five arrests in all.
+    - The Rs 17,600 in cash reported in the Anandnagar cough-syrup case is separate from the Rs 2,657 cash figure recorded for the Vasna ganja case.
 ---
 
 Ahmedabad City Police's Zone-7 teams registered four cases under the Narcotic
 Drugs and Psychotropic Substances (NDPS) Act in a single night and arrested five
 people, seizing 549 bottles of prohibited cough syrup and 524 grams of ganja.
-[@1,4] The operation was carried out by Zone-7 police on 18 November 2026 under
+[@1,4,5] The operation was carried out by Zone-7 police on 18 November 2026 under
 the 'No Drugs in Ahmedabad City' campaign, which aims to curb the sale and
-supply of narcotic substances and prevent drug addiction among youngsters. [@1,4]
+supply of narcotic substances and prevent drug addiction among youngsters. [@1,4] City police chief Anupam Singh Gahlaut and Joint Commissioner of Police Neeraj Badgujar launched the 'No Drugs in Ahmedabad City' campaign. [@5]
 Deputy Commissioner of Police (Zone-7) Shivam Verma said a special NDPS drive
 was launched across the zone after directions to strengthen human intelligence
 and informant networks so that drug suppliers and peddlers could be identified.
@@ -91,9 +97,9 @@ seized property at Rs 7,507. [@1]
 
 The two remaining cases involved prohibited cough syrup: Anandnagar police
 arrested Pavan Soni, 32, and Mehbub Ibrahimabhai Khalifa, 34, with 480 sealed
-bottles valued at Rs 5.64 lakh. [@1] In the other, Vejalpur police arrested
+bottles valued at Rs 5.64 lakh. [@1,5] In the Anandnagar case police also seized four mobile phones, a car and Rs 17,600 in cash. [@5] In the other, Vejalpur police arrested
 Imran Mansuri, 48, and recovered 69 sealed bottles of cough syrup worth Rs
-81,178.50. [@3] The four cases were registered under various provisions of the
+81,178.50. [@3,5] The four cases were registered under various provisions of the
 NDPS Act, 1985, and the Vejalpur cough syrup case also includes Section 283 of
 the Bharatiya Nyaya Sanhita. [@1] Police described the operation as part of the
 city force's ongoing campaign to identify and take action against narcotics
