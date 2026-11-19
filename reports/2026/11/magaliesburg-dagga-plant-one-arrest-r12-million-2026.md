@@ -46,24 +46,50 @@ sources:
     publisher: SABC News
     date: 2026-11-18
     language: en
+  - title: One suspect arrested in R12 million cannabis lab bust at Maliesburg farm
+    url: https://thesouthafricanenquirer.com/article/one-suspect-arrested-in-r12-million-cannabis-lab-bust-at-maliesburg
+    publisher: The South African Enquirer
+    date: 2026-11-18
+  - title: R12M Cannabis Operation Uncovered on Magaliesburg Farm as Hawks Intensify Crackdown on Drug Syndicates - African Times News
+    url: https://www.atnews.co.za/r12m-cannabis-operation-uncovered-on-magaliesburg-farm-as-hawks-intensify-crackdown-on-drug-syndicates/
+    publisher: African Times News
+    date: 2026-11-19
 open_questions:
-    - The 18 November 2026 date is the publication date of both reports; no separate date is given for when the operation or arrest took place.
-    - No weight of seized cannabis, number of plants or area cleared was published for the Magaliesburg plant.
-    - The R12 million is described as an estimated street value in the news reports, not an independently established valuation.
-    - No name, charge, court appearance or case outcome was reported for the person arrested.
+    - No weight of seized cannabis, number of plants or area cleared was published for either the November 2025 search or the November 2026 arrest.
+    - The R12 million is described as an estimated street value, not an independently established valuation.
+    - The outcome of the 19 November 2026 appearance in the Krugersdorp Magistrates' Court was not reported.
     - The premises are described only as a farm; it is unclear whether the dagga was found at a single growing site or across a larger area.
-    - SABC News places the farm in the North West province, while the earlier eNCA account placed Magaliesburg in Gauteng.
-    - The separate Douglasdale cannabis lab operation earlier that week, with two arrests and an estimated R2 million value, is a different event and is not covered here.
+    - SABC News placed the farm in the North West province, while other accounts and the Krugersdorp court place it in Gauteng.
+    - The reports do not explain the year between the November 2025 search and the November 2026 arrest, beyond forensic testing of the plants.
+    - It is unclear whether the material seized in 2025 was laboratory-confirmed as cannabis; the reports say only that it was sent for testing.
+    - The reported equipment suggests an indoor, hydroponic cultivation, but the quoted police statement does not itself describe the facility as hydroponic.
+    - The page also describes the De Deur, Hekpoort and Douglasdale laboratories, which are separate events not covered here.
+media:
+  - kind: photo
+    url: https://www.atnews.co.za/r12m-cannabis-operation-uncovered-on-magaliesburg-farm-as-hawks-intensify-crackdown-on-drug-syndicates/
+    media_url: https://www.atnews.co.za/wp-content/uploads/2026/11/Magalies-Weed-3.jpg
+    publisher: African Times News
+    caption: 'SAPS handout photograph published with the report of the cannabis-growing operation uncovered on the Magaliesburg farm. Photo: SAPS'
+  - kind: photo
+    url: https://www.atnews.co.za/r12m-cannabis-operation-uncovered-on-magaliesburg-farm-as-hawks-intensify-crackdown-on-drug-syndicates/
+    media_url: https://www.atnews.co.za/wp-content/uploads/2026/11/Magalies-Weed-1.jpg
+    publisher: African Times News
+    caption: 'Cannabis plants seized on the Magaliesburg farm and sent to the Pretoria forensic laboratory, in a SAPS handout photograph. Photo: SAPS'
+  - kind: photo
+    url: https://www.atnews.co.za/r12m-cannabis-operation-uncovered-on-magaliesburg-farm-as-hawks-intensify-crackdown-on-drug-syndicates/
+    media_url: https://www.atnews.co.za/wp-content/uploads/2026/11/Magalies-Weed-2.jpg
+    publisher: African Times News
+    caption: 'Cultivation equipment confiscated at the farm, including a heavy-duty generator, fans, chemicals and humidifiers, in a SAPS handout photograph. Photo: SAPS'
 ---
 
 Hawks and SAPS officers were dismantling a cannabis growing plant in
-Magaliesburg on 18 November 2026. [@1] The dagga was found on a farm in the Magaliesberg area. [@3] One person was arrested in the operation.
-[@1,3]
+Magaliesburg on 18 November 2026. [@1] The dagga was found on a farm in the Magaliesberg area. [@3] Police confiscated a heavy-duty generator, fans, chemicals and humidifiers used in the cannabis cultivation. [@5] One person was arrested in the operation.
+[@1,3,5] He was due in the Krugersdorp Magistrates’ Court on 19 November 2026 on charges of dealing in dagga, possession of dagga and defeating the ends of justice. [@5] The cannabis plants seized then were sent to the Pretoria forensic laboratory for testing. [@5] Hawks investigators from the West Rand and Magaliesburg police first descended on the farm under a search warrant on 5 November 2025. [@5] The arrested man was 34 years old. [@5]
 
 The Magaliesburg operation was described as the second dagga bust of the week.
 [@2]
 
-The plant was estimated to be worth R12 million. [@1,3]
+The plant was estimated to be worth R12 million. [@1,3,4]
 
 A separate police operation on Tuesday had uncovered a suspected cannabis lab in
 Douglasdale, Johannesburg. [@1,3]
