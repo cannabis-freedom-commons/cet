@@ -51,17 +51,23 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-19
     language: hi
+  - title: 'Bhabua News: kaimur के कुदरा से 9.435 किलो गांजा बरामद, दो तस्कर गिरफ्तार, Bhabua Hindi News - Hindustan'
+    url: https://www.livehindustan.com/bihar/bhabua/story-kaimur-9-435-kg-of-cannabis-seized-in-kudra-two-arrested-201795099682671.amp.html
+    publisher: Hindustan
+    date: 2026-11-19
+    language: hi
 open_questions:
     - The operation spanned Wednesday night into the morning of 19 November 2026, with a tip at about 7 am and a press briefing on Thursday evening; the exact hour of the arrests was not stated.
     - The seized material weighing 9.435 kilograms was described as ganja-like substance, with no laboratory confirmation reported.
     - The 500,000 to 600,000 rupee figure is a police market-value estimate, not a confirmed transaction amount.
     - No detention order, plea or court outcome beyond registration of Kudra case number 544/26 under the NDPS Act and continuing legal action was reported.
     - The fuller identification, train route and case number rest on Dainik Bhaskar's two local editions of the same police briefing alongside the earlier Prabhat Khabar brief report.
+    - The Hindustan account values the seized ganja at about 450,000 rupees, while the accounts already cited value it at 500,000 to 600,000 rupees.
 ---
 
 In Kanadihara village under Kudra police station in Kaimur district, police
 raided on Wednesday night and arrested two alleged smugglers with about 10
-kilograms of ganja. [@1,2] The two had alighted at Kudra railway station and were caught at the bus stand under the Lalapur overbridge while preparing to take a bus to Kanadihara village. [@2] Police said the action was taken on the basis of secret
+kilograms of ganja. [@1,2,4] The two had alighted at Kudra railway station and were caught at the bus stand under the Lalapur overbridge while preparing to take a bus to Kanadihara village. [@2,4] Police said the action was taken on the basis of secret
 information and the two arrested accused are being questioned. [@1,2] The arrested men were identified as Manowar Siddiqui, about 40, and Jai Prakash Gupta, about 28, both residents of Kanadihara under Kudra police station in Kaimur district. [@2]
 
 Officers recovered about 10 kilograms of ganja during the search in Kanadihara
