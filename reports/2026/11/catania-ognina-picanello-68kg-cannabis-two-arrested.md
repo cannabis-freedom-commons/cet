@@ -77,31 +77,28 @@ sources:
     publisher: Free Press Online
     date: 2026-11-18
     language: it
-open_questions:
-  - No date is given for the two searches or the arrests; 18 November 2026 is the publication date of the reports and is used as the incident date.
-  - The drugs were described as marijuana and hashish; no laboratory confirmation was reported.
-  - The itemised amounts from the two premises add up to about 6.77 kilograms, while the overall total is given as more than 6.8 kilograms.
-  - No figure was given for the cash seized in the two homes.
-  - No plea, detention decision or outcome of the validation hearing before the investigating judge was reported.
-  - The buyer who fled in Ognina was not identified or arrested.
-  - No estimate of the drugs' street value was published.
+  - title: 'Blitz antidroga a Catania, scoperto un fortino blindato con oltre 6 chili di droga: due arresti tra Ognina e Picanello'
+    url: https://newsicilia.it/catania/cronaca/blitz-antidroga-a-catania-scoperto-un-fortino-blindato-con-oltre-6-chili-di-droga-due-arresti-tra-ognina-e-picanello/1125173/
+    publisher: NewSicilia
+    date: 2026-11-18
+    language: it
 ---
 
 Police in Catania arrested two men from the city, aged 23 and 61, on suspicion
-of possessing drugs for sale. [@2,4,5,6] The 23-year-old was stopped in the
+of possessing drugs for sale. [@2,4,5,6,7] The 23-year-old was stopped in the
 Ognina-Rotolo district after officers saw him leave his flat to meet a buyer,
 who fled at the sight of the patrols. [@1,4,6]
 
-He handed over 6 grams of marijuana kept in his jacket pocket. [@1,4,6] A search of
+He handed over 6 grams of marijuana kept in his jacket pocket. [@1,4,6,7] A search of
 his first-floor flat found another 264 grams of marijuana in 59 doses behind the
 kitchen sofa, with packaging material, cash and handwritten notes recording the
-dealing accounts. [@1,4,6]
+dealing accounts. [@1,4,6,7]
 
 In Picanello the 61-year-old was stopped as he opened a steel door on the
 stairway and a second armoured entrance to a fourth-floor attic used as a store.
-[@1,4,5,6] The attic was a fortified store behind double steel and armoured doors.
+[@1,4,5,6,7] The attic was a fortified store behind double steel and armoured doors.
 [@3,4,6] Inside police seized 6 kg of marijuana, in vacuum bags, jars, wrappers and
 127 ready doses, and five blocks of hashish weighing 500 grams in total. [@1,4,5,6]
-The two seizures amounted to more than 6.8 kg of marijuana and hashish. [@2,4,5,6] The
+The two seizures amounted to more than 6.8 kg of marijuana and hashish. [@2,4,5,6,7] The
 duty prosecutor ordered both suspects taken to prison pending a validation
-hearing before the investigating judge. [@1,4,6]
+hearing before the investigating judge. [@1,4,6,7]
