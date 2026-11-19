@@ -55,6 +55,11 @@ sources:
     publisher: NovaraToday
     date: 2026-11-18
     language: it
+  - title: 'Droga nel Vco, arrestati due uomini: tentano di disfarsi di un etto e mezzo di hashish durante un controllo'
+    url: https://www.ossolanews.it/2026/11/18/leggi-notizia/argomenti/cronaca-27/articolo/droga-nel-vco-arrestati-due-uomini-tentano-di-disfarsi-di-un-etto-e-mezzo-di-hashish-durante-un-co-1.html
+    publisher: OssolaNews.it
+    date: 2026-11-18
+    language: it
 open_questions:
   - La Stampa calls 17 November a Monday while Torino Cronaca and NovaraToday call it Tuesday 17 November; 17 November 2026 was a Tuesday, which is used here.
   - The amount is given only as un etto e mezzo, about 150 grams, with no exact measured weight or value estimate published.
@@ -64,20 +69,19 @@ open_questions:
 
 Police stopped a car entering the Verbano-Cusio-Ossola provincial territory on
 the evening of 17 November 2026 and arrested the two men aboard, aged 42 and 20.
-[@1] The 42-year-old lives in the Verbano-Cusio-Ossola area and the 20-year-old
+[@1,4] The 42-year-old lives in the Verbano-Cusio-Ossola area and the 20-year-old
 comes from the province of Varese, and both were already known to police for
 drug-related records. [@1] When the men saw the officers, the driver tried to
 get rid of a bag by throwing it out of the car window, and officers recovered
-the package. [@3]
+the package. [@3,4]
 
 Inside the recovered bag officers found un etto e mezzo, 150 grams, of hashish,
-which was seized. [@1] Both men were arrested in flagrante on suspicion of
+which was seized. [@1,4] Both men were arrested in flagrante on suspicion of
 unlawful production, trafficking and possession of narcotic substances. [@2] On
 the order of the duty public prosecutor, both men were placed under house
-arrest. [@1]
+arrest. [@1,4]
 
 The two were travelling by car and were intercepted by a Flying Squad patrol of
 the police headquarters as they entered the provincial territory. [@2] The
 intervention was part of territorial control activity by law-enforcement to
 counter trafficking and dealing in Verbano Cusio Ossola. [@1]
-
