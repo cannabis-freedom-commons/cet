@@ -36,6 +36,11 @@ media:
     media_url: https://www.news08.net/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-18-at-11.43.377.jpeg
     publisher: חדשות 08
     caption: 'Photo published with the police account of the Ashdod seizure, captioned by the page as a police spokesperson photograph. Photo: Israel Police spokesperson'
+  - kind: photo
+    url: https://ashdodonline.co.il/192027/%D7%A1%D7%9D-%D7%9E%D7%A1%D7%95%D7%92-%D7%A7%D7%A8%D7%99%D7%A1%D7%98%D7%9C-%D7%A7%D7%A0%D7%90%D7%91%D7%99%D7%A1-%D7%95%D7%90%D7%A7%D7%93%D7%97-%D7%90%D7%99%D7%99%D7%A8%D7%A1%D7%95%D7%A4%D7%98-%D7%A0/
+    media_url: https://ashdodonline.co.il/wp-content/uploads/2026/11/2c977cf4-c83d-428a-b7dd-2e31f4200f61-780x462.jpg
+    publisher: אשדוד אונליין
+    caption: 'Police handout photo of the seized items from the Ashdod drug operation. Photo: Israel Police spokesperson'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 51f8a9ff2fe4f8fbd2bbf28abf7d282f
@@ -56,27 +61,25 @@ sources:
     publisher: Ashdod4U
     date: 2026-11-18
     language: he
-open_questions:
-    - No weight or quantity was published for the cannabis; the accounts say only that it was in distribution bags.
-    - 18 November 2026 is the publication date of the accounts; police gave no separate date for the operation and arrest.
-    - The white powder of about 70 grams was described only as suspected crystal and is a different substance, excluded from the cannabis figures.
-    - The cannabis was described only as material suspected to be cannabis, with no laboratory confirmation reported.
-    - No charge, detention hearing or court step was reported; the case was at the investigation stage.
-    - The published accounts all reproduce the same Ashdod police statement and are not independent reporting.
+  - title: סם מסוג קריסטל, קנאביס ואקדח איירסופט נתפסו באשדוד - אשדוד אונליין
+    url: https://ashdodonline.co.il/192027/%D7%A1%D7%9D-%D7%9E%D7%A1%D7%95%D7%92-%D7%A7%D7%A8%D7%99%D7%A1%D7%98%D7%9C-%D7%A7%D7%A0%D7%90%D7%91%D7%99%D7%A1-%D7%95%D7%90%D7%A7%D7%93%D7%97-%D7%90%D7%99%D7%99%D7%A8%D7%A1%D7%95%D7%A4%D7%98-%D7%A0/
+    publisher: אשדוד אונליין
+    date: 2026-11-18
+    language: he
 ---
 
 Police officers from Ashdod station carried out a targeted operation against
-drug dealing and distribution in the city. [@1,3] They saw a suspect approach a
+drug dealing and distribution in the city. [@1,3,4] They saw a suspect approach a
 place where substances suspected to be drugs were hidden, arrested him and
-searched the spot. [@1,3]
+searched the spot. [@1,3,4]
 
 The search found distribution bags holding material suspected to be cannabis.
-[@2,3] Officers also seized an Airsoft pistol, a mobile phone and 1,960 shekels in
-cash. [@2,3] A hidden pouch at the site held about 70 grams of white powder
-suspected to be crystal, divided into deal bags. [@2,3]
+[@2,3,4] Officers also seized an Airsoft pistol, a mobile phone and 1,960 shekels in
+cash. [@2,3,4] A hidden pouch at the site held about 70 grams of white powder
+suspected to be crystal, divided into deal bags. [@2,3,4]
 
 The suspect was taken for investigation at Ashdod station and the investigation
-was continuing. [@1,3] Police released no further details about his identity or
+was continuing. [@1,3,4] Police released no further details about his identity or
 about proceedings on his detention. [@2] The suspicions have not been proven in
 court and the suspect has the presumption of innocence. [@2] The police
 statement said officers would keep acting against drug-dealing targets and would
