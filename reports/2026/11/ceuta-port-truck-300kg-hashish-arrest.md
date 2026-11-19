@@ -147,6 +147,11 @@ sources:
     publisher: بركة نيوز
     date: 2026-11-19
     language: ar
+  - title: نفق ثالث نحو سبتة.. المغرب أمام فضيحة جديدة لتهريب الحشيش
+    url: https://www.echoroukonline.com/%D9%86%D9%81%D9%82-%D8%AB%D8%A7%D9%84%D8%AB-%D9%86%D8%AD%D9%88-%D8%B3%D8%A8%D8%AA%D8%A9-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A3%D9%85%D8%A7%D9%85-%D9%81%D8%B6%D9%8A%D8%AD%D8%A9-%D8%AC%D8%AF
+    publisher: الشروق أونلاين
+    date: 2026-11-19
+    language: ar
 ---
 
 Spain's UDYCO drug unit arrested a truck driver at the port of Ceuta carrying a
@@ -159,7 +164,7 @@ he was driving. [@2]
 The truck appeared empty and was heading toward boarding for Spain when a
 specialist drugs dog alerted, prompting an exhaustive hours-long search inside
 and outside the vehicle. [@2,7,10,11] After the hours-long detailed inspection, officers
-found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6,7,9,10,11] The intercepted truck had unloaded animal feed and was returning with several sacks of hashish when UDYCO stopped it at the port, one of several trucks that had left Ceuta and were intercepted elsewhere in Spain. [@13,15,17,18,19,20]
+found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6,7,9,10,11] The intercepted truck had unloaded animal feed and was returning with several sacks of hashish when UDYCO stopped it at the port, one of several trucks that had left Ceuta and were intercepted elsewhere in Spain. [@13,15,17,18,19,20,21]
 Officers recovered numerous bags of hashish from the trailer's false bottom,
 with first estimates putting the haul above 300 kilograms although police gave
 no official weight. [@3] The submitted account describes the seizure as about
@@ -168,4 +173,4 @@ no official weight. [@3] The submitted account describes the seizure as about
 The handcuffed driver was taken to police headquarters and placed under
 investigation for an offence against public health. [@2] A judge ordered the driver held in pre-trial detention on Sunday after he was presented to the court. [@8,13,16] The warehouse operation was prepared and coordinated from Madrid and remains under summary secrecy under the National Court. [@14] Police link the
 operation to open UDYCO investigations into groups moving hashish from Ceuta to
-mainland Spain in heavy vehicles with hidden compartments. [@3,17,20] On Wednesday, UDYCO officers carried out an operation in a warehouse in the Tarajal industrial estate over a possible third drug tunnel. [@14,15,18] The investigation revives the hypothesis of a third hashish tunnel between Ceuta and Fnideq, after two earlier tunnels were found in the same area in operations named Ares and Hades. [@15,16,17,18,19,20] Investigators suspect larger loads and heavy vehicles hidden in stash houses used to store hashish, known locally as zulos. [@8] Investigators are trying to establish whether the hashish reached the trucks through intermediate caches or directly through a possible third tunnel, and police have announced no new tunnel discovery and no additional detentions. [@12,16] In the warehouse the technical-intervention unit searched for tools and equipment suspected of being used to fit trucks with secret double-floor caches for hiding drugs. [@12,15,16,17,18,19,20]
+mainland Spain in heavy vehicles with hidden compartments. [@3,17,20,21] On Wednesday, UDYCO officers carried out an operation in a warehouse in the Tarajal industrial estate over a possible third drug tunnel. [@14,15,18,21] The investigation revives the hypothesis of a third hashish tunnel between Ceuta and Fnideq, after two earlier tunnels were found in the same area in operations named Ares and Hades. [@15,16,17,18,19,20,21] Investigators suspect larger loads and heavy vehicles hidden in stash houses used to store hashish, known locally as zulos. [@8] Investigators are trying to establish whether the hashish reached the trucks through intermediate caches or directly through a possible third tunnel, and police have announced no new tunnel discovery and no additional detentions. [@12,16,21] In the warehouse the technical-intervention unit searched for tools and equipment suspected of being used to fit trucks with secret double-floor caches for hiding drugs. [@12,15,16,17,18,19,20,21]
