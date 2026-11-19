@@ -57,6 +57,11 @@ sources:
     url: https://english.hindusthansamachar.in/Encyc/2026/11/19/25-KG-MARIJUANA-SEIZED-AT-LUMD.php
     publisher: Hindusthan Samachar English
     date: 2026-11-19
+  - title: लामडिंग रेलवे स्टेशन पर 25 किलो गांजा जब्त, महिला समेत दो तस्कर गिरफ्तार - हिन्दुस्थान समाचार
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/19/ASSAM-LUMDING-RAILWAY-STATION-GANJA-SEIZED-SMUGGLE.php
+    publisher: Hindusthan Samachar
+    date: 2026-11-19
+    language: hi
 open_questions:
   - No separate date is given for the search; 19 November 2026 is the date in the agency dateline and the day the operation was reported, and is used as the incident date.
   - No value estimate, criminal charge or laboratory confirmation of the material as cannabis was reported.
@@ -67,7 +72,7 @@ open_questions:
 
 On 19 November 2026, railway police in Assam arrested two alleged smugglers,
 including a woman, at Lumding railway station and seized about 25 kg of ganja in
-a crackdown on drug trafficking. [@3] The two arrested were identified as
+a crackdown on drug trafficking. [@3,4] The two arrested were identified as
 Abhijit Dev and Anamika Dev, both residents of Agartala. [@2]
 
 Acting on a tip-off, a railway police team carried out the operation aboard the
@@ -81,4 +86,3 @@ Both accused were taken into custody, and a further investigation was under way
 to ascertain the details of the smuggling operation. [@2] Police said they were
 tracing other members of the suspected drug trafficking network, identifying the
 source of the contraband and establishing the wider links of the racket. [@3]
-
