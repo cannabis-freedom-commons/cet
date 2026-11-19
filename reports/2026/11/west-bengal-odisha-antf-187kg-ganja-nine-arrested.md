@@ -61,30 +61,27 @@ sources:
     publisher: AajTak
     date: 2026-11-19
     language: hi
-open_questions:
-  - No specific districts or raid locations in West Bengal and Odisha were named, only multiple districts of both states.
-  - No names or other identities of the nine arrested people or the three remaining accused were published.
-  - No breakdown of the 187 kg across the three cases or raid sites was reported.
-  - The 94 lakh rupee figure is an official estimated street value with no basis given.
-  - No charges, remand, pleas or court outcome were reported; the case remains under investigation.
-  - The accounts all rest on an ANTF West Bengal press brief and are not independent of it.
+  - title: পশ্চিমবঙ্গ এবং ওড়িশা জুড়ে টানা ছ’দিন চিরুনি তল্লাশি, ৯৪ লক্ষ টাকার গাঁজা উদ্ধার করল অ্যান্টি নারকোটিক্স টাস্ক ফোর্স
+    url: https://www.aajkaal.in/west-bengal/anti-narcotics-task-force-rescued-94-lakhs-drugs-after-six-days-of-raid-521137
+    publisher: Aajkaal
+    date: 2026-11-19
+    language: bn
 ---
 
 The Anti-Narcotics Task Force of West Bengal conducted coordinated raids across
 multiple districts of West Bengal and neighbouring Odisha between 14 and 19
 November 2026. [@2] The action broke up an inter-state ganja-trafficking
-syndicate after six days of continuous operations in parts of both states. [@1]
+syndicate after six days of continuous operations in parts of both states. [@1,5]
 The six-day operation under the Nasha Mukt Bharat Abhiyan led to the arrest of
-nine people. [@2] Three separate cases were registered in connection with the
-haul, with first information reports filed against 12 accused in total. [@2]
+nine people. [@2,5] Three separate cases were registered in connection with the
+haul, with first information reports filed against 12 accused in total. [@2,5]
 
-Officers seized 187 kg of ganja in the searches. [@3] Police put the estimated
-street value of the seized ganja at about 94 lakh rupees. [@2] Three accused
+Officers seized 187 kg of ganja in the searches. [@3,5] Police put the estimated
+street value of the seized ganja at about 94 lakh rupees. [@2,5] Three accused
 remain at large and agencies are searching for them. [@1]
 
 Investigators are now working to map the broader supply chain, including
 cultivation and dispatch hubs, transit routes, intended delivery points and
-other operatives linked to the syndicate. [@2] Police are questioning the
+other operatives linked to the syndicate. [@2,5] Police are questioning the
 arrested people to establish the roles of others connected to the trafficking
 network. [@4]
-
