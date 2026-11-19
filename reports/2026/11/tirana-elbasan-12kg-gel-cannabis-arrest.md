@@ -54,6 +54,10 @@ sources:
     publisher: Syri.net
     date: 2026-11-19
     language: sq
+  - title: Police Seize 12.1 kg of Gel-like Cannabis in Anti-Drug Operation, One Arrested
+    url: https://albaniandailynews.com/news/police-seize-12-1-kg-of-gel-like-cannabis-in-anti-drug-operation-one-arrested
+    publisher: Albania Daily News
+    date: 2026-11-19
 open_questions:
   - The cocaine found in the arrested man's apartment was reported only as a quantity, so no weight is recorded.
   - Both men were identified only by initials F.I. and M.V.; full names were not published.
@@ -72,14 +76,13 @@ pursuit police found that the car's movements were being monitored and secured
 by a vehicle driven by M.V., who was caught and handcuffed. [@3]
 
 A search of the vehicle abandoned by F.I. found 12.1 kg of suspected Cannabis
-Sativa in gelatinous form. [@2] Police said the gelatinous cannabis had been
-prepared to be sold in Albania. [@2] A search of the arrested man's apartment
+Sativa in gelatinous form. [@2,4] Police said the gelatinous cannabis had been
+prepared to be sold in Albania. [@2,4] A search of the arrested man's apartment
 found a quantity of suspected cocaine, which is not counted in the cannabis
-figures. [@1] The narcotics were seized together with 2 vehicles and 3 cell
-phones. [@1]
+figures. [@1,4] The narcotics were seized together with 2 vehicles and 3 cell
+phones. [@1,4]
 
 Work is under way to capture F.I. and, under the direction of the Prosecutor's
 Office, the investigation continues to identify and bring to criminal
 responsibility others who may have been involved. [@1] The procedural materials
 were referred to the Prosecutor's Office for further action. [@1]
-
