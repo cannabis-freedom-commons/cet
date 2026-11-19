@@ -61,6 +61,11 @@ sources:
     publisher: Wartaoke
     date: 2026-11-18
     language: id
+  - title: Kaget! Polisi Temukan Paket Sabu dan Bibit Ganja di Rumah Pria Dumai
+    url: https://www.liputanoke.com/read-72009-2026-11-19-kaget-polisi-temukan-paket-sabu-dan-bibit-ganja-di-rumah-pria-dumai.html
+    publisher: LiputanOke.com
+    date: 2026-11-19
+    language: id
 open_questions:
   - No weight was reported for the nine cannabis seedlings; they were counted only as nine stalks.
   - The 16.29 grams seized was methamphetamine (sabu), not cannabis, and is excluded from the cannabis figures.
@@ -71,25 +76,24 @@ open_questions:
 
 Dumai police narcotics officers arrested one man, identified as MZ alias P, aged
 43, from Kelurahan Purnama in Kecamatan Dumai Barat on suspicion of drug
-offences. [@1] The arrest was made at about 19:44 WIB on Tuesday 17 November
+offences. [@1,4] The arrest was made at about 19:44 WIB on Tuesday 17 November
 2026 at a house on Jalan Daeng Tuagek Gang Rahmat in Kelurahan Purnama, Kota
-Dumai. [@1] Kasat Resnarkoba AKP Gus Purwantoro said officers investigated after
+Dumai. [@1,4] Kasat Resnarkoba AKP Gus Purwantoro said officers investigated after
 receiving information from residents and that the suspect tried to flee when
-they arrived. [@1]
+they arrived. [@1,4]
 
 In the yard of the house, officers found nine stalks suspected to be cannabis
-seedlings or young plants. [@3] In the bedroom, officers found a white wallet on
+seedlings or young plants. [@3,4] In the bedroom, officers found a white wallet on
 the floor containing 15 packets of suspected methamphetamine. [@1] Police gave
 the gross weight of the methamphetamine as 16.29 grams, a figure that is not
-counted as cannabis. [@1] Officers also found a digital scale and press
+counted as cannabis. [@1,4] Officers also found a digital scale and press
 scissors, which they said were used to support drug distribution. [@1] They also
 seized a clear plastic block, a spoon made from a plastic pipette, a Samsung
 Android phone and 1.5 million rupiah in cash. [@1] The man acknowledged that all
-the items were in his control. [@1]
+the items were in his control. [@1,4]
 
 A urine test showed the suspect positive for methamphetamine and for
-tetrahydrocannabinol (THC). [@1] The suspect and the seized items were taken to
-the Dumai police station for further legal processing. [@1] He was charged under
+tetrahydrocannabinol (THC). [@1,4] The suspect and the seized items were taken to
+the Dumai police station for further legal processing. [@1,4] He was charged under
 Articles 114(2) and 111(1) of Indonesia's 2009 Narcotics Law, among other
-provisions. [@2]
-
+provisions. [@2,4] Police said he could also be charged under Article 609(2)(a) of Indonesia's Criminal Code. [@4]
