@@ -96,18 +96,11 @@ sources:
     publisher: State Customs Committee of the Republic of Belarus
     date: 2025-11-21
     language: ru
-open_questions:
-  - The reports give no separate date for the inspection, the finds or the detentions; 21 November 2025 is the publication date of the statements and is used as the incident date.
-  - The accounts do not say exactly how many people were detained in Belarus and how many in Russia, nor when each arrest took place during the joint operation.
-  - No street value and no weight per briquette were published, so the report records only the authorities' figure of about 136 kg.
-  - 'The age range of the suspects differs: Reform.news gives 37 to 40, the customs committee quotation gives 30 to 37.'
-  - The semi-trailer carried Latvian registration plates while the haulier and loading point are described as Polish; the relationship between the two is not explained.
-  - No court outcome was reported; the case stage is based on the criminal cases opened in November 2025.
-  - BelTA and the two opened outlets relay the customs committee's statement, so the accounts are not fully independent.
-  - The State Customs Committee's own news page shown in search results could not be opened and is not cited.
-  - The article gives no separate date for the inspection or the detentions; 21 November 2025 is its publication date.
-  - It does not say how many of the eight were detained in Belarus and how many in Russia, or when during the joint operation.
-  - It gives no street value and no weight per briquette.
+  - title: 136 кг гашиша пытались ввезти из Польши
+    url: https://newgrodno.by/auto/136-kg-gashisha-pytalis-vvezti-iz-polshi/
+    publisher: NewGrodno.By
+    date: 2025-11-21
+    language: ru
 ---
 
 Belarusian customs officers stopped about 136 kg of hashish entering the country
@@ -116,14 +109,14 @@ intended for distribution in Belarus and Russia. [@1] Eight people involved in
 the scheme were detained, including the customers behind the shipment. [@1]
 Those detained were Belarusians and Russians acting in prior conspiracy,
 arrested with their Russian counterparts in operations on the territory of both
-countries, Pozirk reported. [@2,4]
+countries, Pozirk reported. [@2,4,5]
 
 The truck, operated by a Polish haulier carrying alcohol, came into Belarus
 through the Kozlovichi border crossing with 320 briquettes of pressed hashish
-hidden in specially built compartments. [@1] The truck entered through the
+hidden in specially built compartments. [@1,5] The truck entered through the
 Kozlovichi border crossing. [@1] Brest customs officers sent it for scanning
 with an inspection system, and the scan showed an unusual dark patch in the
-lower area of a semi-trailer registered in Latvia. [@1,4] Dismantling exposed
+lower area of a semi-trailer registered in Latvia. [@1,4,5] Dismantling exposed
 hidden compartments built into the floor of the trailer's tool boxes, and
 forensic experts of the Brest Region State Forensic Examination Committee
 confirmed the contents were hashish. [@1,4]
@@ -132,7 +125,7 @@ Brest Customs opened a criminal case against the group under part 2 of article
 328-1 of the Belarusian Criminal Code, which covers moving narcotics across the
 customs border of the Eurasian Economic Union and Belarus. [@1,4] Russian
 authorities opened separate cases against some of the participants under
-conspiracy and drug-trafficking provisions of the Russian Criminal Code. [@1]
+conspiracy and drug-trafficking provisions of the Russian Criminal Code. [@1] Russia opened cases against some participants under part 3 of article 30, part 5 of article 228.1 and part 4 of article 229.1 of the Russian Criminal Code. [@5]
 The suspects could face up to 20 years in prison; Pozirk describes that as the
 penalty the case carries, not a sentence. [@2] Reform.news reported the detained
 Belarusians and Russians were aged between 37 and 40, while the customs
