@@ -45,32 +45,43 @@ sources:
     publisher: BC Noticias
     date: 2026-11-17
     language: es
+  - title: Más de 279 kilos de marihuana avaluados en $100 millones son incautados en la vía Manizales – Fresno
+    url: https://caracol.com.co/2026/11/19/mas-de-279-kilos-de-marihuana-avaluados-en-100-millones-son-incautados-en-la-via-manizales-fresno/
+    publisher: Caracol Radio
+    date: 2026-11-19
+    language: es
 open_questions:
   - No separate date is given for the operation; 17 November 2026 is the article's publication date and is used as the incident date.
   - The weight is given only as 'more than 279 kilograms' and the substance was identified preliminarily, with no exact weighed total or laboratory result published.
   - No charge, plea or court outcome was reported, and the suspect was identified only by his age of 32.
   - The article also reports citywide 2026 totals of more than 987 drug-trafficking arrests and about 1.5 tonnes of marijuana seized, which are annual statistics for a separate event and are not covered here.
+  - The Caracol account also mentions a separate seizure of more than half a tonne of marijuana in Chinchiná the previous week, which is a different event left out here.
+media:
+  - kind: photo
+    url: https://caracol.com.co/2026/11/19/mas-de-279-kilos-de-marihuana-avaluados-en-100-millones-son-incautados-en-la-via-manizales-fresno/
+    media_url: https://caracol.com.co/resizer/v2/VWMBPCLZGFFIRCHL5HWPPFKBGE.jpeg?auth=4d96e90a89953c86cc9409d2c1ee9dcbf227ceb7257ad0e71278a599ce9f35d9&quality=70&width=768&height=576&smart=true
+    publisher: Caracol Radio
+    caption: 'Police handout photo of the marijuana seizure on the Manizales-Fresno road. Photo: Policía Metropolitana de Manizales.'
 ---
 
 Police in Manizales, Colombia, arrested a 32-year-old man and impounded the
 private car carrying the drugs during an operation on the Puente La
-Libertad-Fresno road. [@1] The operation took place at kilometre 5 of the
+Libertad-Fresno road. [@1,2] The operation took place at kilometre 5 of the
 corridor, where officers were carrying out traffic prevention and control
 checks. [@1]
 
 During the inspection of the car, officers found 373 packages containing a
 substance preliminarily identified as marijuana using the homologated
-preliminary identification test (PIPH). [@1] The Metropolitan Police of
+preliminary identification test (PIPH). [@1,2] The Metropolitan Police of
 Manizales said the seizure amounted to more than 279 kilograms of marijuana.
-[@1] According to the authorities, the cargo was being transported from the
+[@1,2] According to the authorities, the cargo was being transported from the
 municipality of Corinto in Cauca department towards this part of the country.
-[@1]
+[@1,2]
 
 The commercial value of the cargo was put at more than 100 million pesos, money
-the police linked to illegal economies involved in drug trafficking. [@1] Police
+the police linked to illegal economies involved in drug trafficking. [@1,2] Police
 estimated the more than 279 kilograms corresponded to approximately 93,000
-doses. [@1] Colonel Mauricio Arley Herrera Luengas, commander of the
+doses. [@1,2] Colonel Mauricio Arley Herrera Luengas, commander of the
 Metropolitan Police of Manizales, said the seizure hit criminal finances and
 kept the drugs off the streets. [@1] The man, the drugs and the vehicle were
-handed to the competent judicial authority for further proceedings. [@1]
-
+handed to the competent judicial authority for further proceedings. [@1,2]
