@@ -86,6 +86,11 @@ sources:
     publisher: Ponto Norte Joinville
     date: 2026-11-18
     language: pt
+  - title: PRF encontra 155 quilos de maconha em carro na BR-101 e prende dois jovens em Barra Velha - Visor Notícias
+    url: https://visornoticias.com.br/prf-encontra-155-quilos-de-maconha-em-carro-na-br-101-e-prende-dois-jovens-em-barra-velha/
+    publisher: Visor Notícias
+    date: 2026-11-18
+    language: pt
 open_questions:
   - The first account rounds the seizure to about 150 kg while later accounts give 155 kg; this report uses 155 kg.
   - No names were published for the two men, only their ages of 19 and 20.
@@ -95,18 +100,18 @@ open_questions:
 
 On the night of 17 November 2026, Federal Highway Police officers arrested two
 young men on the BR-101 in Barra Velha in northern Santa Catarina during a
-highway inspection. [@2,4,5] Those in the car were the 20-year-old driver and his
-19-year-old passenger. [@2,4,5] Both were arrested in flagrante and taken to the
+highway inspection. [@2,4,5,6] Those in the car were the 20-year-old driver and his
+19-year-old passenger. [@2,4,5,6] Both were arrested in flagrante and taken to the
 Civil Police station to face drug charges. [@3,4,5]
 
 Officers had stopped a Hyundai HB20 with Florianopolis registration plates to
-carry out the inspection. [@1,4,5] During the inspection they found numerous pressed
+carry out the inspection. [@1,4,5,6] During the inspection they found numerous pressed
 marijuana tablets hidden in different parts of the car, distributed across the
-back seat, the floor and the boot. [@2,4,5] The seized load weighed 155 kilograms of
-marijuana. [@2,4,5] An initial account rounded the amount to about 150 kilograms.
+back seat, the floor and the boot. [@2,4,5,6] The seized load weighed 155 kilograms of
+marijuana. [@2,4,5,6] An initial account rounded the amount to about 150 kilograms.
 [@1]
 
 Police said the pair will answer for drug trafficking, which carries five to 15
-years in prison. [@3,4,5] The offence also carries a fine in addition to the prison
+years in prison. [@3,4,5,6] The offence also carries a fine in addition to the prison
 term. [@2] A lawyer for one of the men said the defence was travelling from
 Greater Florianopolis to Barra Velha to file for his release. [@2]
