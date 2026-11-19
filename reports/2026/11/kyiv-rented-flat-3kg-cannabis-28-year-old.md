@@ -47,6 +47,36 @@ media:
     media_url: https://kyiv.news/wp-content/uploads/yootheme/cache/fe/kyiv-kanabis-1-5-mln-orendovana-kvartyra-fed00087.avif
     publisher: Kyiv.news
     caption: 'Vacuum packets of cannabis on a table and in boxes in the rented apartment in Kyiv where about 3 kg was seized during the search. Photo: Kyiv City Prosecutor''s Office'
+  - kind: photo
+    url: https://kyivschina24.com/news/oblashtuvav-u-kvartyri-sklad-zaboronenyh-rechovyn-u-kyyevi-28-richnomu-cholovikovi-zagrozhuye-do-12-rokiv/
+    media_url: https://kyivschina24.com/wp-content/uploads/2026/11/gkjhnknlj.jpg
+    publisher: Київщина 24/7
+    caption: 'The seized drugs, used as the article''s lead image with the alt text ''наркотики'' (drugs), in the report on the Kyiv rented-apartment cannabis seizure. Photo: Kyiv City Prosecutor''s Office'
+  - kind: photo
+    url: https://kyivschina24.com/news/oblashtuvav-u-kvartyri-sklad-zaboronenyh-rechovyn-u-kyyevi-28-richnomu-cholovikovi-zagrozhuye-do-12-rokiv/
+    media_url: https://kyivschina24.com/wp-content/uploads/2026/11/photo_2026-11-19_13-56-52-1536x1086.jpg
+    publisher: Київщина 24/7
+    caption: 'Prosecutor''s-office handout photo published with the account of the Kyiv rented-apartment cannabis seizure. Photo: Kyiv City Prosecutor''s Office'
+  - kind: photo
+    url: https://kyivschina24.com/news/oblashtuvav-u-kvartyri-sklad-zaboronenyh-rechovyn-u-kyyevi-28-richnomu-cholovikovi-zagrozhuye-do-12-rokiv/
+    media_url: https://kyivschina24.com/wp-content/uploads/2026/11/photo_2026-11-19_13-57-06-1536x1086.jpg
+    publisher: Київщина 24/7
+    caption: 'Prosecutor''s-office handout photo published with the account of the Kyiv rented-apartment cannabis seizure. Photo: Kyiv City Prosecutor''s Office'
+  - kind: photo
+    url: https://kyivschina24.com/news/oblashtuvav-u-kvartyri-sklad-zaboronenyh-rechovyn-u-kyyevi-28-richnomu-cholovikovi-zagrozhuye-do-12-rokiv/
+    media_url: https://kyivschina24.com/wp-content/uploads/2026/11/photo_2026-11-19_13-57-02.jpg
+    publisher: Київщина 24/7
+    caption: 'Prosecutor''s-office handout photo published with the account of the Kyiv rented-apartment cannabis seizure. Photo: Kyiv City Prosecutor''s Office'
+  - kind: photo
+    url: https://kyivschina24.com/news/oblashtuvav-u-kvartyri-sklad-zaboronenyh-rechovyn-u-kyyevi-28-richnomu-cholovikovi-zagrozhuye-do-12-rokiv/
+    media_url: https://kyivschina24.com/wp-content/uploads/2026/11/photo_2026-11-19_13-56-59-1536x1086.jpg
+    publisher: Київщина 24/7
+    caption: 'Prosecutor''s-office handout photo published with the account of the Kyiv rented-apartment cannabis seizure. Photo: Kyiv City Prosecutor''s Office'
+  - kind: photo
+    url: https://kyivschina24.com/news/oblashtuvav-u-kvartyri-sklad-zaboronenyh-rechovyn-u-kyyevi-28-richnomu-cholovikovi-zagrozhuye-do-12-rokiv/
+    media_url: https://kyivschina24.com/wp-content/uploads/2026/11/photo_2026-11-19_13-56-55-1536x1086.jpg
+    publisher: Київщина 24/7
+    caption: 'Prosecutor''s-office handout photo published with the account of the Kyiv rented-apartment cannabis seizure. Photo: Kyiv City Prosecutor''s Office'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 37e98918418383a6a6297493999e2635
@@ -77,28 +107,28 @@ sources:
     publisher: UA.NEWS
     date: 2026-11-19
     language: cn
-open_questions:
-  - No date is given for the search or the charge; 19 November 2026, the date of the prosecutor's statement and the publications, is used as the incident date.
-  - The weight and value are the prosecutor's approximate figures (about 3 kg and about 1.5 million hryvnias); no exact measurement, laboratory confirmation or independent value estimate was reported.
-  - No court outcome beyond the pretrial detention order was reported, and the case had not gone to trial.
-  - The account rests on the Kyiv City Prosecutor's Office statement, which the news outlets reprinted; none of the accounts is independent reporting.
+  - title: 'Облаштував у квартирі склад заборонених речовин: у Києві 28-річному чоловікові загрожує до 12 років'
+    url: https://kyivschina24.com/news/oblashtuvav-u-kvartyri-sklad-zaboronenyh-rechovyn-u-kyyevi-28-richnomu-cholovikovi-zagrozhuye-do-12-rokiv/
+    publisher: Київщина 24/7
+    date: 2026-11-19
+    language: uk
 ---
 
 Kyiv City Prosecutor's Office charged a 28-year-old resident of Zaporizhzhia
 with illegally acquiring and possessing cannabis in especially large quantities
 with intent to sell, under part 3 of article 307 of the Criminal Code of
-Ukraine. [@1,4,5] Investigators said the man had set up a wholesale store in the
+Ukraine. [@1,4,5,6] Investigators said the man had set up a wholesale store in the
 rented apartment for prohibited substances, which he sold directly to customers
-hand to hand. [@2,4,5] A court ordered the suspect held in pretrial detention
-without bail. [@1,4,5]
+hand to hand. [@2,4,5,6] A court ordered the suspect held in pretrial detention
+without bail. [@1,4,5,6]
 
 Searches of the apartment found and seized about 3 kg of cannabis, along with
-equipment for grinding, weighing and packaging it. [@1,4,5] The prosecutor's office
+equipment for grinding, weighing and packaging it. [@1,4,5,6] The prosecutor's office
 put the value of the seized substances at about 1.5 million hryvnias at
-black-market prices. [@3,4,5]
+black-market prices. [@3,4,5,6]
 
 Procedural guidance came from the Shevchenkivskyi district prosecutor's office
 in Kyiv, and the pretrial investigation was conducted by investigators of the
 Shevchenkivskyi district police department of the National Police's Kyiv
 directorate. [@2] The charge carries a penalty of nine to 12 years' imprisonment
-with confiscation of property. [@2]
+with confiscation of property. [@2,6]
