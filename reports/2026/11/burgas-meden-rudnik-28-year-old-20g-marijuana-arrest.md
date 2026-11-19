@@ -56,18 +56,23 @@ sources:
     publisher: Днес България
     date: 2026-11-17
     language: bg
+  - title: Намериха три вида наркотици под седалките на кола в „Меден рудник“ в Бургас | BurgasMedia
+    url: https://burgasmedia.com/amp/news/nameriha-tri-vida-narkotici-pod-sedalkite-na-kola-v-meden-rudnik-v-burgas
+    publisher: BurgasMedia
+    date: 2026-11-18
+    language: bg
 ---
 
 Officers from the Fourth District police department in Burgas stopped a
 28-year-old man from Burgas for a check in the Meden Rudnik housing complex in
-the city. [@1] Police said officers found three kinds of drugs on the man during
+the city. [@1,5] The car was an Opel Corsa and the drugs were hidden under its seats. [@5] Police said officers found three kinds of drugs on the man during
 the check, and the man was described only by his age and city. [@1] The man was
-detained for up to 24 hours. [@1,4]
+detained for up to 24 hours. [@1,4,5]
 
-The check took place at about 13:30 on the previous day near Block 321. [@1,2,4] The roundup dated the checks to 16 November 2026. [@2]
+The check took place at about 13:30 on the previous day near Block 321. [@1,2,4,5] The roundup dated the checks to 16 November 2026. [@2]
 Officers found about 20 grams of marijuana on the man, with the amount reported
-as approximate. [@1,3,4] The same check also yielded 5 grams of amphetamine and 5
-grams of methamphetamine, which are excluded from the cannabis figures. [@1] The
-man refused to submit to alcohol and drug testing during the check. [@1,4]
+as approximate. [@1,3,4,5] The marijuana was in a foil ball and the other powders were in twists beside it. [@5] The same check also yielded 5 grams of amphetamine and 5
+grams of methamphetamine, which are excluded from the cannabis figures. [@1,5] Officers also searched the man's home in Meden Rudnik, but no drugs were found there. [@5] The
+man refused to submit to alcohol and drug testing during the check. [@1,4,5]
 
-The case was placed in fast-track proceedings. [@1,4]
+The case was placed in fast-track proceedings. [@1,4,5] A friend of the detained man claimed the drugs had been planted on him to implicate him. [@5]
