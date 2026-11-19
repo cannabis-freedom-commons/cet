@@ -42,21 +42,20 @@ sources:
     publisher: Presse Océan
     date: 2026-11-19
     language: fr
-open_questions:
-  - No weight was given for the cannabis, which was counted only as three sachets at arrest plus further unspecified sachets, so no cannabis weight is recorded.
-  - The six vials of cocaine at arrest and further cocaine vials found on search are excluded from the cannabis figures.
-  - The exact number of additional sachets and vials found during the body search was not specified.
-  - The suspect's identity, age and nationality were not reported and remained to be verified.
-  - No charge, court date or release decision was reported; custody was the latest step known.
+  - title: Il fait des signes à un automobiliste pour proposer de la drogue… et met du temps à comprendre qu'il s'agit de la Bac
+    url: https://www.ouest-france.fr/societe/faits-divers/il-fait-des-signes-a-un-automobiliste-pour-proposer-de-la-drogue-et-met-du-temps-a-comprendre-quil-sagit-de-la-bac-eb1959a4-e3fd-11f1-a3b1-0c6de532ce7d
+    publisher: Ouest-France
+    date: 2026-11-19
+    language: fr
 ---
 
 Plainclothes officers from the Nantes anti-crime brigade were on patrol in the
 Bellevue district of Nantes on the evening of Wednesday 18 November 2026, when a
-man approached them and offered them drugs. [@1] The brigade crew had been
+man approached them and offered them drugs. [@1,2] The brigade crew had been
 patrolling the neighbourhood in plain clothes. [@1] The encounter occurred at
-21:10, when a dealer accosted the brigade crew. [@1] When the seller realised he
+21:10, when a dealer accosted the brigade crew. [@1] The three people inside the vehicle saw a man on foot approaching and signalling to them. [@2] When the seller realised he
 was dealing with police officers, he tried to flee but was caught. [@1] Officers
-arrested the suspect at Place Mendès-France. [@1]
+arrested the suspect at Place Mendès-France. [@1,2]
 
 At the moment of the arrest he was carrying three sachets of cannabis and six
 vials of cocaine. [@1] A subsequent body search seized 110 euros in cash
@@ -67,4 +66,3 @@ cocaine. [@1]
 He was placed in police custody despite several attempts to resist. [@1] His
 identity still had to be verified because he was carrying no identity papers.
 [@1]
-
