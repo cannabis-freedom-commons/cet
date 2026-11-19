@@ -117,6 +117,11 @@ sources:
     publisher: Infobae
     date: 2026-11-18
     language: es
+  - title: اليوديكو تبحث عن نفق ثالث لتهريب المخدرات بين سبتة المحتلة والفنيدق
+    url: https://www.achkayen.com/709768/.html
+    publisher: Achkayen
+    date: 2026-11-18
+    language: ar
 open_questions:
     - Police gave no official weight for the hashish; the 300 kilograms is an initial estimate, and the load was taken away for official weighing.
     - No formal charge, plea or court outcome beyond the pre-trial detention order was reported.
@@ -136,7 +141,7 @@ he was driving. [@2]
 The truck appeared empty and was heading toward boarding for Spain when a
 specialist drugs dog alerted, prompting an exhaustive hours-long search inside
 and outside the vehicle. [@2,7,10,11] After the hours-long detailed inspection, officers
-found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6,7,9,10,11] The intercepted truck had unloaded animal feed and was returning with several sacks of hashish when UDYCO stopped it at the port, one of several trucks that had left Ceuta and were intercepted elsewhere in Spain. [@13]
+found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6,7,9,10,11] The intercepted truck had unloaded animal feed and was returning with several sacks of hashish when UDYCO stopped it at the port, one of several trucks that had left Ceuta and were intercepted elsewhere in Spain. [@13,15]
 Officers recovered numerous bags of hashish from the trailer's false bottom,
 with first estimates putting the haul above 300 kilograms although police gave
 no official weight. [@3] The submitted account describes the seizure as about
@@ -145,4 +150,4 @@ no official weight. [@3] The submitted account describes the seizure as about
 The handcuffed driver was taken to police headquarters and placed under
 investigation for an offence against public health. [@2] A judge ordered the driver held in pre-trial detention on Sunday after he was presented to the court. [@8,13] The warehouse operation was prepared and coordinated from Madrid and remains under summary secrecy under the National Court. [@14] Police link the
 operation to open UDYCO investigations into groups moving hashish from Ceuta to
-mainland Spain in heavy vehicles with hidden compartments. [@3] On Wednesday, UDYCO officers carried out an operation in a warehouse in the Tarajal industrial estate over a possible third drug tunnel. [@14] Investigators suspect larger loads and heavy vehicles hidden in stash houses used to store hashish, known locally as zulos. [@8] Investigators are trying to establish whether the hashish reached the trucks through intermediate caches or directly through a possible third tunnel, and police have announced no new tunnel discovery and no additional detentions. [@12] In the warehouse the technical-intervention unit searched for tools and equipment suspected of being used to fit trucks with secret double-floor caches for hiding drugs. [@12]
+mainland Spain in heavy vehicles with hidden compartments. [@3] On Wednesday, UDYCO officers carried out an operation in a warehouse in the Tarajal industrial estate over a possible third drug tunnel. [@14,15] The investigation revives the hypothesis of a third hashish tunnel between Ceuta and Fnideq, after two earlier tunnels were found in the same area in operations named Ares and Hades. [@15] Investigators suspect larger loads and heavy vehicles hidden in stash houses used to store hashish, known locally as zulos. [@8] Investigators are trying to establish whether the hashish reached the trucks through intermediate caches or directly through a possible third tunnel, and police have announced no new tunnel discovery and no additional detentions. [@12] In the warehouse the technical-intervention unit searched for tools and equipment suspected of being used to fit trucks with secret double-floor caches for hiding drugs. [@12,15]
