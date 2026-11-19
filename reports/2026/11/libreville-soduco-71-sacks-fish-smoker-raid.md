@@ -54,31 +54,38 @@ sources:
     publisher: Direct Infos Gabon
     date: 2026-11-16
     language: fr
+  - title: Gabon Seizes About US$305,000 of Cannabis
+    url: https://www.riotimesonline.com/libreville-cannabis-sheds-demolished-seizure/
+    publisher: The Rio Times
+    date: 2026-11-19
+    language: en
 open_questions:
-  - No number is given for the people arrested, so no arrest count is recorded.
-  - No weight is given for the 71 sacks, so no kilogram figure is recorded.
-  - No separate date is given for the raid; 15 November 2026 is the publication date of the first report and stands in for the incident date.
-  - The warehouse was only presented as belonging to a Nigerian national and the network remains alleged; no charge or court outcome was reported.
+    - No number is given for the people arrested, so no arrest count is recorded.
+    - No weight is given for the sacks, so no kilogram figure is recorded.
+    - No separate date is given for the raid; 15 November 2026 is the publication date of the first report and stands in for the incident date.
+    - The warehouse was only presented as belonging to a Nigerian national and the network remains alleged; no charge or court outcome was reported.
+    - Accounts give the sack count as 61 in two reports and about 71 in others, and the underlying figure was not settled.
+    - It is not clear whether the 182 million CFA francs value includes the 32 blocks of skunk.
 ---
 
 Around 4 a.m., a joint force of several intelligence services moved into the
 Kinguélé district of Libreville, then continued its operation in the Soduco
-fish-smoking zone. [@1] The operation followed tip-offs from residents and
-uncovered a suspected cannabis storage and distribution network. [@1] Officers
-arrested several people and seized large quantities of drugs. [@1]
+fish-smoking zone. [@1,4] The operation followed tip-offs from residents and
+uncovered a suspected cannabis storage and distribution network. [@1,4] Officers
+arrested several people and seized large quantities of drugs. [@1,4]
 
 At Soduco, investigators focused on a warehouse presented as belonging to a
 Nigerian national, behind whose apparent fish-smoking and fish-selling activity
 bundles of cannabis were allegedly grouped and stored. [@1] The force reported
-seizing a consignment of about 71 sacks of cannabis. [@1,3] The same seizure also included 32 carreaux of skunk alongside the 71 sacks of cannabis. [@3] It put the approximate
-value of the haul at 182 million CFA francs. [@1,3] The authorities brought in a
+seizing a consignment of about 71 sacks of cannabis. [@1,3] The same seizure also included 32 carreaux of skunk alongside the 71 sacks of cannabis. [@3,4] It put the approximate
+value of the haul at 182 million CFA francs. [@1,3,4] At roughly 597 CFA francs per US dollar, the haul was worth about US$305,000 on 19 November 2026. [@4] The authorities brought in a
 military engineering vehicle and progressively demolished the installations,
 exposing concealment spaces arranged under piles of wood and the smoking
-structures. [@1] The installations serving as logistics bases were then destroyed in the presence of the judicial authorities. [@3]
+structures. [@1,4] The installations serving as logistics bases were then destroyed in the presence of the judicial authorities. [@3]
 
 The operation mobilised the DGR, the anti-drug office OCLA, the DGSS and the
 immigration authority DGDI, whose role also covers clandestine immigration
-potentially linked to trafficking circuits. [@1] This account also names the DGCISM among the services mobilised, alongside the DGSS, the DGR, the DGDI and the anti-drug office. [@3] Investigators still have to
+potentially linked to trafficking circuits. [@1,4] This account also names the DGCISM among the services mobilised, alongside the DGSS, the DGR, the DGDI and the anti-drug office. [@3] Investigators still have to
 identify the full ramifications of the suspected network and bring those
 implicated before the courts. [@1] A second account confirms the same toll of
 about 71 sacks worth about 182 million FCFA, several arrests and destruction of
