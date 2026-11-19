@@ -60,6 +60,10 @@ sources:
     url: https://bhaskarenglish.in/local/gujarat/news/ahmedabad-police-bust-ganja-racket-thaltej-sarkhej-drug-seizure-139737802.html
     publisher: Bhaskar English
     date: 2026-11-19
+  - title: 'Gujarat: Woman among two arrested in drug raids; Rs 53.51 lakh cash seized'
+    url: https://www.thehawk.in/news/states-and-uts/gujarat/gujarat-woman-among-two-arrested-in-drug-raids-rs-5351-lakh-cash-seized
+    publisher: The Hawk
+    date: 2026-11-19
 open_questions:
   - No separate date was given for the raids; 19 November 2026 is the publication date and stands in for the incident date, described only as a single night.
   - 'Sources differ on how many remain wanted: one says the husband alone is wanted, another says two accused including a man and a woman are yet to be caught, naming Sunitaben Chhara separately.'
@@ -83,13 +87,12 @@ Deepak Rathod, while her husband Deepak Rathod was declared wanted. [@1]
 Officers searching the Sarkhej residence recovered 2 kilograms and 174 grams of
 ganja alongside Rs 53.51 lakh in cash kept in a safe. [@1] Officers also
 recovered 28 plastic and zip bags and Rs 53,51,100 in cash from the premises.
-[@2] Police put the total value of the Sarkhej seizure at Rs 54,59,800,
-including the cash. [@2]
+[@2,4] Police put the total value of the Sarkhej seizure at Rs 54,59,800,
+including the cash. [@2,4]
 
 Police registered two cases under the Narcotic Drugs and Psychotropic Substances
-Act during the single-night Zone-7 special drive. [@2] Officials said the Income
+Act during the single-night Zone-7 special drive. [@2,4] Officials said the Income
 Tax Department and the Enforcement Directorate may be approached to trace the
-source of the cash. [@2] Police said they will examine the accused’s assets,
+source of the cash. [@2,4] Police said they will examine the accused’s assets,
 with possible property seizure and demolition of illegal structures linked to
 the trade. [@2]
-
