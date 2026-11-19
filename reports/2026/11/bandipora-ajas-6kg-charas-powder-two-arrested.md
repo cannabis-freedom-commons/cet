@@ -42,6 +42,10 @@ sources:
     url: https://kimskashmir.com/two-drug-peddlers-arrested-with-6-kg-charas-powder-in-bandipora/
     publisher: Kashmir Independent Media Service
     date: 2026-11-19
+  - title: Bandipora Police Intensify Anti-Drug Drive; Three Arrested, Over 8.3 Kg Charas-Like Substance Recovered
+    url: https://www.knskashmir.com/bandipora-police-intensify-anti-drug-drive--three-arrested--over-8-3-kg-charas-like-substance-recovered-209278
+    publisher: KNS
+    date: 2026-11-19
 open_questions:
   - No laboratory confirmation that the substance was cannabis was reported; police described it only as charas powder.
   - No separate date for the arrest was given beyond 'Thursday'; 19 November 2026 is the article's publication date and is used as the incident date.
@@ -56,7 +60,7 @@ peddlers and recovered approximately six kilograms of charas powder during a
 naka checking (police checkpoint) operation in the Ajas area, officials said on
 Thursday. [@1] The two were identified as Altaf Ahmad Rather, son of Abdul Gani
 Rather, and Asif Ahmad Rather, son of Mohammad Shafi Rather, both residents of
-Ajas. [@1]
+Ajas. [@1,2]
 
 The naka party of Police Post Ajas intercepted two people moving suspiciously
 with bags from Sadunara towards Ajas at Pariwan. [@1] On noticing the police
@@ -66,6 +70,5 @@ substance identified as charas powder was recovered from their possession,
 officials said. [@1]
 
 Police registered FIR No. 246/2026 under Sections 8/20 of the NDPS Act at Police
-Station Sumbal and arrested both accused. [@1] Further investigation was under
+Station Sumbal and arrested both accused. [@1,2] Further investigation was under
 way, police said. [@1]
-
