@@ -59,26 +59,25 @@ sources:
     publisher: GoNews
     date: 2026-11-18
     language: it
-open_questions:
-  - The hashish amount was reported only as just over 3 grams, so 0.003 kg is an approximation rather than an exact weight.
-  - The man was identified only as a 26-year-old foreign citizen, with no nationality or name published.
-  - No laboratory confirmation of the hashish was reported.
-  - No outcome beyond validation of the arrest and the reporting obligation was reported.
+  - title: 'Fermato sul Lungarno con hashish e 200 euro: arrestato un 26enne'
+    url: https://www.ilcuoioindiretta.it/cronaca/2026/11/18/fermato-sul-lungarno-con-hashish-e-200-euro-arrestato-un-26enne/218880/
+    publisher: IlCuoioIndiretta
+    date: 2026-11-18
+    language: it
 ---
 
 Carabinieri arrested a 26-year-old foreign citizen on Lungarno Mediceo in Pisa
-for alleged possession of drugs for dealing. [@1] Radiomobile officers with
+for alleged possession of drugs for dealing. [@1,4] Radiomobile officers with
 colleagues from the Pisa station stopped the man while he was loitering in the
-area with a suspicious manner. [@2] The stop took place on the evening of Monday
+area with a suspicious manner. [@2,4] The stop took place on the evening of Monday
 16 November 2026 at about 20:40 during territorial controls against dealing in
-the historic centre. [@2]
+the historic centre. [@2,4]
 
 A personal search found just over 3 grams of hashish and 200 euro in cash, which
-investigators considered proceeds of dealing. [@1] Officers seized both the drug
-and the money. [@2]
+investigators considered proceeds of dealing. [@1,4] Officers seized both the drug
+and the money. [@2,4]
 
 On the duty prosecutor's order the man was held in the command's security cells
-awaiting a fast-track hearing. [@2] On the morning of Tuesday 17 November the
-arrest was validated. [@2] He was ordered to report to the judicial police three
-times a week. [@3]
-
+awaiting a fast-track hearing. [@2,4] On the morning of Tuesday 17 November the
+arrest was validated. [@2,4] He was ordered to report to the judicial police three
+times a week. [@3,4]
