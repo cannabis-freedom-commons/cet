@@ -105,6 +105,11 @@ sources:
     publisher: Sputnik Voz do Povo
     date: 2026-11-18
     language: pt
+  - title: Patos de Minas - PM apreende mais de 100 tabletes de maconha em residência na comunidade de Boassara - Tribuna Informa
+    url: https://tribunainforma.com.br/patos-de-minas-pm-apreende-mais-de-100-tabletes-de-maconha-em-residencia-na-comunidade-de-boassara/
+    publisher: Tribuna Informa
+    date: 2026-11-18
+    language: pt
 open_questions:
     - 'Reports differ on the suspect''s age: this account of the 15th Military Police Battalion gives 61, while PatosJá and Patos Notícias described him as about 70.'
     - This account places the seizure on the afternoon of 17 November 2026, while earlier reports describe the operation on the night of the same day.
@@ -118,17 +123,17 @@ of Patos de Minas on the night of Tuesday 17 November 2026. [@1,4] A man of abou
 [@1,4]
 
 Officers acted on reports of people in pickup trucks on BR-352 near the entrance
-to Boassara. [@1,4,5,6] Reports also mentioned a motorcyclist who passed the stretch
-often to watch what was hidden in the vegetation. [@2,5,7] The drums had been buried
-in the ground among the vegetation. [@3,5,6] Inside the drums officers found the 105
+to Boassara. [@1,4,5,6,9] Reports also mentioned a motorcyclist who passed the stretch
+often to watch what was hidden in the vegetation. [@2,5,7,9] The drums had been buried
+in the ground among the vegetation. [@3,5,6,9] Inside the drums officers found the 105
 marijuana bars and two precision scales, and sniffer dogs helped in the search.
-[@2,5,6] The man was found at a house near the site, and a search of him turned up a
-small marijuana tablet, R$ 1,840 in cash and a mobile phone. [@2,5,6] He denied
+[@2,5,6,9] The man was found at a house near the site, and a search of him turned up a
+small marijuana tablet, R$ 1,840 in cash and a mobile phone. [@2,5,6,9] He denied
 knowing about or having any involvement with the material found in the woods.
-[@2,5,6]
+[@2,5,6,9]
 
 Captain Caixeta said the drug would be distributed not only in Patos de Minas
 but in other places in the region. [@1] He was arrested in the act and taken
-with the seized material to the Civil Police station. [@2,8] The Civil Police will
+with the seized material to the Civil Police station. [@2,8,9] The Civil Police will
 continue the investigation, identify the owners of the shipment and establish
 whether others took part. [@1,4]
