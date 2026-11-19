@@ -59,11 +59,11 @@ sources:
     publisher: Agrajatra Pratidin
     date: 2026-11-19
     language: bn
-open_questions:
-    - No laboratory confirmation of the seized ganja was reported.
-    - No court outcome, plea or detention measure beyond handover to Sadar Model Thana and filing of the Narcotics Control Act case was reported.
-    - 'Accounts differ on the packaging: Eimattro described 16 jute-string bundles, while Sarabangla and Agrajatra Pratidin describe 16 plastic-twine bundles holding four khaki-tape-wrapped packets.'
-    - Eimattro, Sarabangla and Agrajatra Pratidin all reproduce the same SRB-5 CPC-1 press statement, so the reporting is not independent of that statement.
+  - title: চাঁপাইনবাবগঞ্জে ৭ কেজি গাঁজাসহ মাদক ব্যবসায়ী গ্রেপ্তার
+    url: https://nagorik.com/285629/
+    publisher: NAGORIK TV
+    date: 2026-11-19
+    language: bn
 media:
   - kind: photo
     url: https://sarabangla.net/bangladesh/post-1223342/
@@ -82,15 +82,15 @@ of ganja in Chapainawabganj Sadar Upazila. [@1,2,3] The arrested man was identif
 searching a battery-run auto-rickshaw. [@1]
 
 An SRB-5 team set up a checkpoint in the Amnura Dinagar Mor area of Jhilm Union
-and carried out the operation at around 11:45 am on Thursday. [@1,2] The temporary
+and carried out the operation at around 11:45 am on Thursday. [@1,2,4] The temporary
 checkpoint on the Chapainawabganj-Amnura road was set up on secret information
-that a drug consignment was being brought from the Rajshahi region. [@1,2,3] The consignment was said to be coming from the Tanore area of Rajshahi toward the Chapainawabganj railway station area. [@2,3]
+that a drug consignment was being brought from the Rajshahi region. [@1,2,3] The consignment was said to be coming from the Tanore area of Rajshahi toward the Chapainawabganj railway station area. [@2,3,4]
 Officers stopped a suspicious auto-rickshaw and questioned the driver about a
 plastic sack in the vehicle, and he gave incoherent answers. [@1,2,3] Opening the
 sack found a total of 7 kg of ganja wrapped in scotch tape inside 16 jute-string
-bundles, with an estimated market value of about 210,000 taka. [@1,2,3] The 7 kg was divided among four parcels wrapped in khaki-coloured tape, concealed inside the 16 bundles. [@3]
+bundles, with an estimated market value of about 210,000 taka. [@1,2,3] The 7 kg was divided among four parcels wrapped in khaki-coloured tape, concealed inside the 16 bundles. [@3,4]
 
 Officers seized the auto-rickshaw used in the incident and a mobile phone, and
-handed the arrested person and the seized evidence to Sadar Model Thana. [@1,2] The exhibits were formally seized at 12:35 pm in the presence of witnesses. [@3] The seized phone was a button mobile phone and the seized vehicle was a battery-run auto-van used for drug transport. [@2,3]
+handed the arrested person and the seized evidence to Sadar Model Thana. [@1,2] The exhibits were formally seized at 12:35 pm in the presence of witnesses. [@3] The seized phone was a button mobile phone and the seized vehicle was a battery-run auto-van used for drug transport. [@2,3,4]
 Law enforcers said a case under the Narcotics Control Act against him was in
-process. [@1] A regular case under the Narcotics Control Act has been filed against him. [@2,3]
+process. [@1] A regular case under the Narcotics Control Act has been filed against him. [@2,3,4]
