@@ -62,6 +62,16 @@ sources:
     publisher: 7PAGINAS
     date: 2026-11-17
     language: es
+  - title: La Cámara Federal ratificó la prisión preventiva del comisario Rosatelli por el cargamento de más de 1.300 kilos de marihuana
+    url: https://www.diariodebatepregon.com/provinciales/la-camara-federal-ratifico-la-prision-preventiva-del-comisario-rosatelli-por-el-cargamento-de-mas-de-1300-kilos-de-marihuana
+    publisher: Diario El Debate Pregón
+    date: 2026-11-18
+    language: es
+  - title: La confirmación del procesamiento del comisario Rosatelli se sostiene en el presunto “aporte logístico” dentro de “una maniobra organizada”
+    url: https://apfdigital.com.ar/noticias/2026/11/18/479652-la-confirmacion-del-procesamiento-del-comisario-rosatelli-se-sostiene-en-el-presunto-aporte-logistico-dentro-de-una-maniobra-organizada
+    publisher: APFDigital
+    date: 2026-11-18
+    language: es
 open_questions:
     - The outlets brand the seized van differently as Renault Jumper and Citroën Jumper, so the report uses only Jumper van.
     - Rounded figures of more than 1,300 kilos refer to the same 1,345-kilo La Paz seizure, which is the precise figure recorded.
@@ -86,7 +96,7 @@ detention of Commissioner Daniel Alejandro Rosatelli in the 19 August raids and
 five more arrests the next week. [@1,3]
 
 The investigation began on 13 February when police pursuing a Jumper van on
-rural roads in La Paz department seized 1,345 kilos of marijuana. [@2,3] Police
+rural roads in La Paz department seized 1,345 kilos of marijuana. [@2,3] The van had a changed licence plate and a standing seizure order for fraud, and its occupants abandoned it after a pursuit. [@5] Police
 say the load comprised 1,716 packages of marijuana abandoned in the van near La
 Paz city. [@2] During the Hasenkamp search officers seized about two million
 pesos, foreign currency, six mobile phones, a carbine, 19 calibre .22
@@ -98,7 +108,7 @@ Paraná under Judge Leandro Ríos. [@2]
 
 Rosatelli, a commissioner and lawyer processed with preventive detention over
 the van allegedly used for transport, remains detained while the federal chamber
-must decide his appeal. [@1] His defence says there is no direct evidence
+must decide his appeal. [@1] Rosatelli is processed as a co-author of drug transport aggravated by the organised involvement of three or more people, together with ideological falsification of a motor-vehicle document and an episode of serious injuries and coercive threats against an intermediary of the NGO Suma de Voluntades. [@5] His defence says there is no direct evidence
 linking him to the transport of the 1,345 kilos of marijuana. [@1] The defence
 rejects using his role in the November 2025 purchase and sale of a Jumper van to
 establish participation in the later drug transport. [@1] The defence also
@@ -106,4 +116,4 @@ disputes the phone-record interpretation, denies Rosatelli knew the fugitive and
 seeks revocation of the processing, detention and embargo or alternative
 measures. [@1] Dangerous Drugs chief Claudio Passadore declined further detail
 because of secrecy, while the federal investigation into responsibilities and
-transport organization continues. [@1] Investigators still could not access Rosatelli’s iPhone 17 Pro because the unlock pattern was not provided, and further electronic-device examinations remain pending while the investigation continues. [@4] The chamber treated the charge as alleged logistical support within a structure with distributed functions rather than personal participation in moving the drugs. [@4] Judges Cintia Gómez, Beatriz Aranguren and Mateo Busaniche found sufficient elements at this stage to sustain the criminal hypothesis put forward by federal judge Leandro Ríos. [@4] The ruling also ratified the processing of Martín Pelizzari, Claudio David Luna, Alan Josías Favieri and José Belén Favieri and kept the five accused in preventive detention in Penal Unit No. 1. [@4] The Federal Appeals Chamber of Paraná confirmed the processing of police commissioner and lawyer Daniel Alejandro Rosatelli in the investigation over the transport of 1,345 kilos of marijuana found on 13 February 2026 in a van after a pursuit in La Paz department. [@4]
+transport organization continues. [@1] Investigators still could not access Rosatelli’s iPhone 17 Pro because the unlock pattern was not provided, and further electronic-device examinations remain pending while the investigation continues. [@4] The chamber treated the charge as alleged logistical support within a structure with distributed functions rather than personal participation in moving the drugs. [@4] Judges Cintia Gómez, Beatriz Aranguren and Mateo Busaniche found sufficient elements at this stage to sustain the criminal hypothesis put forward by federal judge Leandro Ríos. [@4] The ruling also ratified the processing of Martín Pelizzari, Claudio David Luna, Alan Josías Favieri and José Belén Favieri and kept the five accused in preventive detention in Penal Unit No. 1. [@4,6] José Belén Favieri is processed for aggravated drug transport, use of a false plate and handling stolen property for profit, and has a prior record for drug dealing. [@5] Alan Josías Favieri is accused of acting as a lookout, driving a Toyota Hilux and warning about police checkpoints on the road. [@5] Investigators say Pelizzari coordinated the purchase of the van and that Luna acted as a front man in paying for it. [@5] The Federal Appeals Chamber of Paraná confirmed the processing of police commissioner and lawyer Daniel Alejandro Rosatelli in the investigation over the transport of 1,345 kilos of marijuana found on 13 February 2026 in a van after a pursuit in La Paz department. [@4,5] The chamber confirmed a resolution of 10 September 2026 that processed the five accused and ordered their preventive detention and the attachment of their assets. [@6]
