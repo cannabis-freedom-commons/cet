@@ -64,17 +64,22 @@ sources:
     url: https://tbrnewsmedia.com/employee-in-huntington-station-arrested-for-allegedly-selling-cannabis-products/
     publisher: TBR News Media
     date: 2026-11-18
+  - title: Convenience store worker arrested for cannabis sales in Huntington Station
+    url: https://westchester.news12.com/convenience-store-worker-arrested-for-cannabis-sales-in-huntington-station
+    publisher: News 12
+    date: 2026-11-19
 open_questions:
-  - No weight was published for the seized marijuana or THC vapes.
-  - No amount was published for the seized cash.
-  - No laboratory confirmation of the suspected marijuana was reported.
-  - The date of the scheduled First District Court appearance in Central Islip was not reported.
-  - No court outcome beyond the desk appearance ticket was reported.
-  - Both published accounts reproduce the Suffolk County police account and are not independent reporting.
+    - No weight was published for the seized marijuana or THC vapes.
+    - No amount was published for the seized cash.
+    - No laboratory confirmation of the suspected marijuana was reported.
+    - The date of the scheduled First District Court appearance in Central Islip was not reported.
+    - No court outcome beyond the desk appearance ticket was reported.
+    - All three published accounts reproduce the Suffolk County police account and are not independent reporting.
+    - The News 12 account refers to a separate 2025 search in which the store was closed and a different employee was arrested; that earlier event is not covered here.
 ---
 
 Police arrested Issac Algahmi, a 24-year-old Bronx man employed at Joe Joe
-Convenience Store at 212 Depot Road in Huntington Station, on November 18. [@1]
+Convenience Store at 212 Depot Road in Huntington Station, on November 18. [@1,3]
 He was charged with sale of cannabis without a license, criminal possession of
 cannabis in the third degree and criminally using drug paraphernalia in the
 second degree, all misdemeanors, as well as unlawful sale of cannabis, a
@@ -82,14 +87,13 @@ violation. [@2] He was issued a desk appearance ticket to appear in First
 District Court in Central Islip at a later date. [@1]
 
 Second Precinct Investigative Unit officers executed a search warrant at the
-store following complaints from the community. [@1] During the search,
+store following complaints from the community. [@1,3] During the search,
 investigators seized marijuana, THC marijuana vapes, large quantities of
-flavored vape products, and cash. [@1]
+flavored vape products, and cash. [@1,3]
 
 The business was also found with cigarettes without a valid New York State
 retail dealer certificate of registration for cigarettes and tobacco products.
-[@1] The New York State Department of Taxation and Finance was notified and will
+[@1,3] The New York State Department of Taxation and Finance was notified and will
 conduct a further investigation. [@1] The Town of Huntington fire marshal and
 ordinance inspector also issued several building and fire code violations to the
-business. [@1]
-
+business. [@1,3]
