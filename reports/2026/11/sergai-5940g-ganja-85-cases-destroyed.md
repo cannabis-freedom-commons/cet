@@ -112,18 +112,23 @@ sources:
     publisher: MedanBisnisDaily.com
     date: 2026-11-18
     language: id
+  - title: Kejari Sergai musnahkan sabu 217 gram dan ganja 5,9 kg
+    url: https://www.msn.com/id-id/berita/other/kejari-sergai-musnahkan-sabu-217-gram-dan-ganja-59-kg/ar-AA2hJso4
+    publisher: Metro 24 Jam
+    date: 2026-11-18
+    language: id
 ---
 
 The Serdang Bedagai prosecutor's office destroyed evidence from 85 criminal
-cases that had reached final legal force on 18 November 2026. [@1,3,4,6,7,8,9,10] The
+cases that had reached final legal force on 18 November 2026. [@1,3,4,6,7,8,9,10,11] The
 destruction took place in the yard of the Kejari Sergai office and was led by
 chief prosecutor Rahmad Isnaini, with the heads of evidence management and
 general crimes. [@1,3,4,6,9] It was attended by the head of asset recovery and evidence management, Rio Bataro Silalahi, and the head of general crimes, Berkat Manuel Harefa. [@4,6,8,9]
 
 The 85 cases comprised 36 narcotics cases, 26 thefts, 11 assaults, seven sexual
 violence cases, two indecent assault cases, one firearms possession case and two
-others. [@1,3,4,6,7,8,9,10] The destroyed evidence included 217 grams of sabu, 5,940.01 grams
-(almost six kilograms) of ganja, one firearm and five rounds of ammunition. [@1,3,4,6,7,8,9,10]
+others. [@1,3,4,6,7,8,9,10,11] The destroyed evidence included 217 grams of sabu, 5,940.01 grams
+(almost six kilograms) of ganja, one firearm and five rounds of ammunition. [@1,3,4,6,7,8,9,10,11]
 Other items destroyed included egrek, bongs, mobile phones, Pyrex glass,
 matches, clothing, wood and other objects linked to the offences. [@1,3,4,6,7,8,9] The evidence was destroyed by burning, blending and cutting with an angle grinder, in view of the invited guests. [@5] A second
 account gives the same case breakdown of 36 narcotics, 26 theft, 11 assault,
