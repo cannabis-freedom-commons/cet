@@ -72,6 +72,10 @@ sources:
     url: https://iol.co.za/news/crime-and-courts/2026-11-19-hawks-shut-down-r12-million-cannabis-hydroponic-lab-in-magaliesburg/
     publisher: IOL
     date: 2026-11-19
+  - title: Police uncovers R12 million cannabis hydroponic laboratory at Malmesbury farm
+    url: https://www.sanews.gov.za/south-africa/police-uncovers-r12-million-cannabis-hydroponic-laboratory-malmesbury-farm
+    publisher: SAnews
+    date: 2026-11-19
 media:
   - kind: photo
     url: https://www.atnews.co.za/r12m-cannabis-operation-uncovered-on-magaliesburg-farm-as-hawks-intensify-crackdown-on-drug-syndicates/
@@ -99,13 +103,13 @@ open_questions:
 ---
 
 Hawks and SAPS officers were dismantling a cannabis growing plant in
-Magaliesburg on 18 November 2026. [@1,7] The dagga was found on a farm in the Magaliesberg area. [@3,9] The hydroponic laboratory had tunnels leading into and out of the property, according to Mogale. [@8] Police confiscated a heavy-duty generator, fans, chemicals and humidifiers used in the cannabis cultivation. [@5,6,7,9] One person was arrested in the operation.
-[@1,3,5,6,8,9] He was due in the Krugersdorp Magistrates’ Court on 19 November 2026 on charges of dealing in dagga, possession of dagga and defeating the ends of justice. [@5,7] The cannabis plants seized then were sent to the Pretoria forensic laboratory for testing. [@5,6,7,9] Investigators verified that the plants were cannabis and not hemp, Mogale said. [@8] Hawks investigators from the West Rand and Magaliesburg police first descended on the farm under a search warrant on 5 November 2025. [@5,6] The arrested man was 34 years old. [@5,6,7,9]
+Magaliesburg on 18 November 2026. [@1,7] The dagga was found on a farm in the Magaliesberg area. [@3,9] The hydroponic laboratory had tunnels leading into and out of the property, according to Mogale. [@8] Police confiscated a heavy-duty generator, fans, chemicals and humidifiers used in the cannabis cultivation. [@5,6,7,9,10] One person was arrested in the operation.
+[@1,3,5,6,8,9] He was due in the Krugersdorp Magistrates’ Court on 19 November 2026 on charges of dealing in dagga, possession of dagga and defeating the ends of justice. [@5,7,10] The cannabis plants seized then were sent to the Pretoria forensic laboratory for testing. [@5,6,7,9,10] Investigators verified that the plants were cannabis and not hemp, Mogale said. [@8] Hawks investigators from the West Rand and Magaliesburg police first descended on the farm under a search warrant on 5 November 2025. [@5,6,10] The arrested man was 34 years old. [@5,6,7,9,10]
 
 The Magaliesburg operation was described as the second dagga bust of the week.
 [@2]
 
-The plant was estimated to be worth R12 million. [@1,3,4,6,7,8,9]
+The plant was estimated to be worth R12 million. [@1,3,4,6,7,8,9,10]
 
 A separate police operation on Tuesday had uncovered a suspected cannabis lab in
 Douglasdale, Johannesburg. [@1,3]
