@@ -1,7 +1,7 @@
 ---
 code: RKC9TV
 added_at: "2026-11-19T07:01:48.743453Z"
-date: 2026-11-18
+date: 2026-11-19
 country: cy
 place: Paphos
 coordinates: [34.7754, 32.4245]
@@ -12,9 +12,9 @@ title: Two arrested in Paphos over 1,979 g cannabis parcel
 summary: >-
   Police in Paphos arrested a 32-year-old man and a 30-year-old woman after intercepting a parcel holding 1,979 grams of cannabis sent to a parcel-delivery locker in the town. Officers also seized eight products said to contain CBD, two containing THC and 15 electronic vaporizers from the shop the two run together.
 figures:
-  arrested: 2
-  sites: 1
-  kg_seized: 1.979
+    arrested: 2
+    sites: 1
+    kg_seized: 1.979
 details:
   agency_types: [anti-narcotics, police]
   products:
@@ -25,14 +25,14 @@ details:
   date_precision: exact
   region: Paphos
 data_sources:
-  details.activity: [1, 3]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [3]
-  figures.kg_seized: [1]
-  figures.sites: [1]
+    details.activity: [1, 3]
+    details.agency_types: [1]
+    details.case_stage: [1]
+    details.products: [1]
+    details.setting: [1]
+    figures.arrested: [6]
+    figures.kg_seized: [6]
+    figures.sites: [1]
 media:
   - kind: photo
     url: https://www.cypruspolicenews.com/archives/62689
@@ -78,6 +78,10 @@ sources:
     url: https://cyprus-mail.com/2026/11/19/two-kilos-of-cannabis-seized-in-paphos
     publisher: Cyprus Mail
     date: 2026-11-19
+  - title: Two remanded over 2kg cannabis seizure in Paphos
+    url: https://cyprus-mail.com/2026/11/19/two-remanded-over-2kg-cannabis-seizure-in-paphos
+    publisher: Cyprus Mail
+    date: 2026-11-19
 open_questions:
     - The police figure of 1,979 grams is a gross weight that includes the parcel's packaging; no net weight of the cannabis was published.
     - The Kanali 6 account gives the shop products only as containing THC and CBD, without the police statement's split into eight CBD products and two containing THC.
@@ -97,5 +101,5 @@ as evidence eight products said to contain CBD, two products containing THC and
 15 electronic vaporizers suspected of being untaxed goods. [@1,4,5]
 
 Both were arrested under the arrest warrants and held in custody to facilitate
-the investigations. [@1,4,5] The Paphos branch of the anti-drug service YKAN is
+the investigations. [@1,4,5] Both suspects appeared before Paphos district court, which ordered their detention for eight days. [@6] The Paphos branch of the anti-drug service YKAN is
 investigating the case. [@1]
