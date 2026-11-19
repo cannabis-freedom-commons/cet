@@ -68,23 +68,24 @@ sources:
     publisher: LINE TODAY
     date: 2026-11-19
     language: zh
-open_questions:
-    - No charge, plea, detention decision or court outcome was reported; the case was at the prosecutor's investigation stage.
-    - 12.25 grams is the gross weight of the vape device and the cartridge together, not the weight of the cannabis oil alone.
-    - The cartridge was identified by a field test giving a positive cannabis reaction; no laboratory confirmation was reported.
+  - title: 網咖開台抽大麻吞雲吐霧 一見警上門秒裝傻仍被逮
+    url: https://news.ltn.com.tw/news/NewTaipei/breakingnews/5646194
+    publisher: 自由時報電子報
+    date: 2026-11-19
+    language: zh
 ---
 
 A 34-year-old man surnamed Lin was in an internet cafe on Anping Road in Zhonghe
 in the early hours of 19 November 2026, watching shows while smoking a cannabis
-e-cigarette that members of the public reported to police. [@1,3,4] He was watching the American drug-crime series Breaking Bad while smoking. [@3] Officers from
+e-cigarette that members of the public reported to police. [@1,3,4,5] Lin works as a security guard and had begun an eight-hour session at the internet cafe that morning. [@5] He was watching the American drug-crime series Breaking Bad while smoking. [@3] Officers from
 the Anping Police Station of the Zhonghe Precinct were on patrol at about 4 a.m.
 on 19 November when they received the report that a man inside the cafe was
-suspected of smoking a cannabis cartridge. [@1,2,3,4] After arriving, officers
+suspected of smoking a cannabis cartridge. [@1,2,3,4] When officers approached him, Lin played dumb and said he had not used drugs, before the search found the device and cartridge. [@5] After arriving, officers
 searched Lin with his consent and arrested him at the scene as a drug offender
 in the act, later transferring him to the district prosecutor's office for
 investigation under the Drug Hazard Prevention Act. [@1,2,3,4]
 
 Officers seized one e-cigarette device and one cannabis cartridge from Lin at
-the scene. [@1,2,4] The seized device and cartridge together had a gross weight of
+the scene. [@1,2,4,5] During questioning Lin said he had paid NT$2,000 to a person he met online for the cannabis oil but had forgotten who the seller was. [@5] The seized device and cartridge together had a gross weight of
 12.25 grams and tested positive for cannabis, which the report describes as a
 Category Two drug. [@1,2,3,4]
