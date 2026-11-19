@@ -52,6 +52,16 @@ media:
     media_url: https://www.northwichguardian.co.uk/resources/images/21740128/?type=mds-article-620
     publisher: Northwich Guardian
     caption: 'Cannabis found in a Winsford property, in Cheshire Police handout photos published with the report. Photo: Cheshire Police'
+  - kind: photo
+    url: https://www.cheshire-live.co.uk/news/chester-cheshire-news/police-drone-uncovers-huge-cannabis-34937433
+    media_url: https://i2-prod.cheshire-live.co.uk/article34937459.ece/ALTERNATES/s1023/0_fe2ba5b5eb674964b11a5f9a85efe9be.jpg
+    publisher: Cheshire Live
+    caption: 'Cannabis plants found in the Winsford property, in the Cheshire Police handout photo published with the report. Photo: Cheshire Police'
+  - kind: photo
+    url: https://www.cheshire-live.co.uk/news/chester-cheshire-news/police-drone-uncovers-huge-cannabis-34937433
+    media_url: https://i2-prod.cheshire-live.co.uk/article34937473.ece/ALTERNATES/s1200e/0_0158bbbd92d64ed1a85dcee2c0eaade2.jpg
+    publisher: Cheshire Live
+    caption: 'Further view of the cannabis farm found in the Winsford property, in the Cheshire Police handout photo published with the report. Photo: Cheshire Police'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 6775a5648d8a2f25f24930ff5cf2c1b9
@@ -65,24 +75,24 @@ sources:
     url: https://www.northwichguardian.co.uk/news/26745621.winsford-cannabis-farm-uncovered-police-drone/
     publisher: Northwich Guardian
     date: 2026-11-19
-open_questions:
-  - The plant count is given as 'around 90', so it is approximate and no exact figure was published.
-  - The psilocybin found alongside the plants is a class A drug other than cannabis and no quantity was reported for it, so it is excluded from the cannabis figures.
-  - No charge, court date or court outcome was reported; the man remained in police custody at the time of publication.
+  - title: Police drone uncovers huge cannabis farm in Winsford house as arrest made
+    url: https://www.cheshire-live.co.uk/news/chester-cheshire-news/police-drone-uncovers-huge-cannabis-34937433
+    publisher: Cheshire Live
+    date: 2026-11-19
 ---
 
 A 44-year-old man from Winsford was arrested at the scene of the grow on
 suspicion of cannabis cultivation and possession of class A drugs and held in
-police custody. [@1,2]
+police custody. [@1,2,3]
 
 Officers executed a warrant on Caerleon Close shortly before 8 am on Thursday,
-19 November 2026. [@1,2] The search found a cannabis farm with around 90 plants at
-various growth stages, along with the class A drug psilocybin. [@1,2]
-Investigators found the property's electricity had been illegally bypassed. [@1,2]
+19 November 2026. [@1,2,3] The search found a cannabis farm with around 90 plants at
+various growth stages, along with the class A drug psilocybin. [@1,2,3]
+Investigators found the property's electricity had been illegally bypassed. [@1,2,3]
 
 Cheshire Police said it shut down the cannabis farm following a tip-off from its
 Drone Unit. [@1] The warrant was issued after the Drone Unit spotted an unusual
-heat source while conducting a training exercise near Cheshire Police HQ. [@1,2]
+heat source while conducting a training exercise near Cheshire Police HQ. [@1,2,3]
 Police Constable Josh Smith of Northwich Local Policing Unit said the
 intelligence had allowed officers to remove a large quantity of illegal drugs
 from the streets of Winsford. [@1] Police urged residents to report suspected
