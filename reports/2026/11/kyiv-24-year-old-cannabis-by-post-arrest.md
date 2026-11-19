@@ -88,32 +88,41 @@ sources:
     publisher: Kyivshchyna Info
     date: 2026-11-16
     language: uk
+  - title: 'Канабіс на понад 600 тисяч гривень: жителя Київщини підозрюють у продажу наркотиків поштою'
+    url: https://internetua.com/kanabis-na-ponad-600-tisyacs-griven-jitelya-kiyivsxini-pidozruauat-u-prodaju-narkotikiv-poshtoua?utm_source=ukrnet_news
+    publisher: InternetUA
+    date: 2026-11-17
+    language: ru
+  - title: 'Збував наркотики поштою по всій Україні: столичні поліцейські затримали наркоділка із канабісом на понад 600 тис грн'
+    url: https://kyiv.npu.gov.ua/news/zbuvav-narkotyky-poshtoiu-po-vsii-ukraini-stolychni-politseiski-zatrymaly-narkodilka-iz-kanabisom-na-ponad-600-tys-hrn
+    publisher: Головне управління Національної поліції у місті Києві
+    date: 2026-11-16
+    language: uk
 open_questions:
-    - The article gives no separate date for the detention or search; 16 November 2026 is its publication date and is used as the incident date.
+    - No date is given for the detention or the search; 16 November 2026, the day Kyiv police published the case, is used as the incident date.
     - The cannabis weight is stated only as more than 1.6 kilograms and the cash only as about 240,000 hryvnias, so both are approximate and no laboratory confirmation was reported.
     - The suspect's home locality was not named beyond Kyiv Oblast, and his name was not published.
     - The police valuation of over 600,000 hryvnias is an official black-market estimate.
     - No court outcome or pretrial custody decision beyond the detention and notification of suspicion was reported.
-    - The account rests on two outlet articles citing Kyiv police; the police statement itself was not opened.
-    - The article mentions separate Brovary-district and 21-parcel cases, which are different events left out of this report.
+    - Other coverage of the police statement mentions separate Brovary-district and 21-parcel cases, which are different events left out of this report.
 ---
 
 Kyiv police detained a 24-year-old resident of Kyiv Oblast on suspicion of
-selling cannabis by post to various regions of Ukraine. [@1,2,3] According to
+selling cannabis by post to various regions of Ukraine. [@1,2,3,4] According to
 investigators, the man packaged cannabis at his home and found clients through
-messenger channels, then sent the orders by post after receiving them. [@1,2,3] The
+messenger channels, then sent the orders by post after receiving them. [@1,2,3,4] The
 man allegedly sent the goods by post to various regions of the country once
 orders came in. [@1]
 
 Officers of the Kyiv police drug-crime department together with investigators of
 the Dniprovskyi police department in Kyiv exposed and documented his activity.
-[@1,3] During a search of his home, police seized more than 1.6 kilograms of
+[@1,3,4] During a search of his home, police seized more than 1.6 kilograms of
 cannabis, which police valued at over 600,000 hryvnias at black-market prices.
-[@1,2,3] Officers also seized about 240,000 hryvnias in cash. [@1,2,3] Officers also
-seized mobile phones, bank cards and zip packets. [@1,3] Officers also seized a
-car and a motorcycle. [@1,3]
+[@1,2,3,5] Officers also seized about 240,000 hryvnias in cash. [@1,2,3,4] Officers also
+seized mobile phones, bank cards and zip packets. [@1,3,4] Officers also seized a
+car and a motorcycle. [@1,3,4]
 
 The man was detained under Article 208 of Ukraine's Criminal Procedure Code and
 notified of suspicion under Part 2 of Article 307 of the Criminal Code, unlawful
-storage of narcotics with intent to sell in large amounts. [@1,2,3] He faces up to
-10 years in prison with confiscation of property. [@1,2,3]
+storage of narcotics with intent to sell in large amounts. [@1,2,3,5] He faces up to
+10 years in prison with confiscation of property. [@1,2,3,5]
