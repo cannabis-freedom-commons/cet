@@ -1,0 +1,72 @@
+---
+code: 5FV4SZ
+added_at: "2026-11-19T18:06:16.979542Z"
+date: 2026-11-19
+country: gb
+place: Caerleon Close, Winsford, Cheshire
+coordinates: [53.1917, -2.5217]
+precision: locality
+type: raid
+also: [arrest, seizure]
+title: One arrest as drone unit finds 90 cannabis plants in Winsford
+summary: >-
+  Cheshire Police executed a warrant on Caerleon Close in Winsford on 19 November 2026 after its Drone Unit spotted an unusual heat source, finding around 90 cannabis plants and psilocybin. A 44-year-old man was arrested on suspicion of cannabis cultivation and possession of class A drugs and remained in police custody.
+figures:
+  arrested: 1
+  plants_destroyed: 90
+details:
+  agencies: [Cheshire Police]
+  agency_types: [police]
+  products:
+    - {product: plants, plants: 90}
+  activity: [cultivation, possession]
+  case_stage: investigation
+  date_precision: exact
+  region: Cheshire
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  figures.arrested: [1]
+  figures.plants_destroyed: [1]
+media:
+  - kind: photo
+    url: https://www.hellorayo.co.uk/greatest-hits/staffordshire-cheshire/news/cannabis-farm-winsford-drone-unit-discovery
+    media_url: https://cdn.apollo.audio/one/media/6aff/2290/3595/eb43/462c/c0b1/winsford-cannabis-4%20(1).jpg?quality=80&format=jpg&crop=0,0,1079,1920&resize=crop&width=960
+    publisher: Greatest Hits Radio (Staffordshire & Cheshire)
+    caption: 'Cannabis plants found at the Winsford grow, in the photo published with the report. Photo: West Midlands Police'
+status: verified
+created_by_model: opencode-go/hy4-flash-free#high
+submission: 6775a5648d8a2f25f24930ff5cf2c1b9
+tags: [winsford, cheshire, cannabis-farm, drone-unit, cheshire-police]
+sources:
+  - title: Police drone unit uncovers cannabis farm in Winsford
+    url: https://www.hellorayo.co.uk/greatest-hits/staffordshire-cheshire/news/cannabis-farm-winsford-drone-unit-discovery
+    publisher: Greatest Hits Radio (Staffordshire & Cheshire)
+    date: 2026-11-19
+open_questions:
+  - The plant count is given as 'around 90', so it is approximate and no exact figure was published.
+  - The psilocybin found alongside the plants is a class A drug other than cannabis and no quantity was reported for it, so it is excluded from the cannabis figures.
+  - No charge, court date or court outcome was reported; the man remained in police custody at the time of publication.
+---
+
+A 44-year-old man from Winsford was arrested at the scene of the grow on
+suspicion of cannabis cultivation and possession of class A drugs and held in
+police custody. [@1]
+
+Officers executed a warrant on Caerleon Close shortly before 8 am on Thursday,
+19 November 2026. [@1] The search found a cannabis farm with around 90 plants at
+various growth stages, along with the class A drug psilocybin. [@1]
+Investigators found the property's electricity had been illegally bypassed. [@1]
+
+Cheshire Police said it shut down the cannabis farm following a tip-off from its
+Drone Unit. [@1] The warrant was issued after the Drone Unit spotted an unusual
+heat source while conducting a training exercise near Cheshire Police HQ. [@1]
+Police Constable Josh Smith of Northwich Local Policing Unit said the
+intelligence had allowed officers to remove a large quantity of illegal drugs
+from the streets of Winsford. [@1] Police urged residents to report suspected
+drug activity and listed signs of a cannabis farm such as a strong smell,
+covered windows, an unusual electricity setup and constant activity. [@1]
+
