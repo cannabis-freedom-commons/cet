@@ -23,6 +23,11 @@ sources:
     url: https://www.guampdn.com/news/governor-might-pardon-convicts-in-marijuana-cases/article_093ca9ce-c043-11ec-9b62-9bb25aab97d6.html
     publisher: Pacific Daily News
     date: 2022-04-20
+  - title: CNMI governor open to helping marijuana convicts
+    url: https://www.guampdn.com/news/cnmi-governor-open-to-helping-marijuana-convicts/article_1e84a67c-c130-11ec-abf1-13f6683f51a4.html
+    publisher: Pacific Daily News
+    date: 2022-04-22
+    language: en
 open_questions:
   - No number of people who could be pardoned, or of past marijuana convictions on Guam, was published.
   - The governor announced that she would issue an executive order, but the sources available here do not report that it was issued or list anyone pardoned.
@@ -32,7 +37,7 @@ open_questions:
 
 Guam Gov. Lou Leon Guerrero announced plans to pardon people who were convicted
 of petty crimes or misdemeanors related to marijuana while it was still illegal
-on the island. [@1] She said in a video message that she was seriously looking
+on the island. [@1,3] She said in a video message that she was seriously looking
 at pardoning people convicted of misdemeanors or single crimes related to
 marijuana, and was discussing it with key stakeholders. [@1] She said several
 people who had made the mistake while marijuana was illegal were now having
@@ -51,4 +56,3 @@ Control Board. [@1]
 The Cannabis Control Board had given lawmakers the final proposed industry rules
 and regulations in late February, and lawmakers had until early June to change,
 adopt or reject them. [@2]
-

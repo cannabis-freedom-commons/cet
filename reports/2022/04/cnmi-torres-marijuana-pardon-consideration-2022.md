@@ -19,24 +19,35 @@ sources:
     url: https://www.postguam.com/news/local/cnmi-governor-also-weighing-marijuana-pardons/article_5d5ff9f0-c144-11ec-8c18-e3634ea05730.html
     publisher: The Guam Daily Post
     date: 2022-04-23
+  - title: CNMI governor open to helping marijuana convicts
+    url: https://www.guampdn.com/news/cnmi-governor-open-to-helping-marijuana-convicts/article_1e84a67c-c130-11ec-abf1-13f6683f51a4.html
+    publisher: Pacific Daily News
+    date: 2022-04-22
+    language: en
 open_questions:
-  - The article gives no exact date for the announcement; Thursday 21 April 2022, the week the article was published, is used as the incident date.
-  - No number of people who might be pardoned, expunged or have sentences commuted is reported.
-  - 'No decision, order or bill followed: Torres said the question was one to look into and discuss, so nothing is recorded as granted.'
-  - Only one opened source for the announcement was found; no CNMI government statement or local-language account could be opened.
+    - The article gives no exact date for the announcement; Thursday 21 April 2022, the week the article was published, is used as the incident date.
+    - No number of people who might be pardoned, expunged or have sentences commuted is reported.
+    - 'No decision, order or bill followed: Torres said the question was one to look into and discuss, so nothing is recorded as granted.'
+    - Both opened sources are Guam-based news outlets reporting the same speech; no CNMI government statement or account from a Northern Mariana Islands outlet was opened.
+media:
+  - kind: photo
+    url: https://www.guampdn.com/news/cnmi-governor-open-to-helping-marijuana-convicts/article_1e84a67c-c130-11ec-abf1-13f6683f51a4.html
+    media_url: https://bloximages.newyork1.vip.townnews.com/guampdn.com/content/tncms/assets/v3/editorial/a/8c/a8cb7586-c130-11ec-a4a1-cb43b9367c81/6260e673571d4.image.jpg?resize=990%2C743
+    publisher: Pacific Daily News
+    caption: 'CNMI Gov. Ralph Torres participating by video conference as guest speaker for the Rotary Club of Guam on 21 April 2022, when he said he was open to pardons for past marijuana convictions. Photo: Steve Limtiaco/PDN'
 ---
 
 Commonwealth of the Northern Mariana Islands Gov. Ralph Torres said on Thursday
 that he was considering granting pardons to people convicted of minor marijuana
-offences from when the plant was still illegal. [@1] Torres, speaking to the
+offences from when the plant was still illegal. [@1,2] Torres, speaking to the
 Rotary Club of Guam by online platform, said he had not pardoned anyone for such
-offences but that the question was something to look into. [@1]
+offences but that the question was something to look into. [@1,2]
 
 He said his preference was to review each record and, where cannabis was the
 only conviction, to sit down with the judicial branch and consider expunging it,
-pardoning it or commuting the sentence. [@1] Earlier that week Guam Gov. Lou
+pardoning it or commuting the sentence. [@1,2] Earlier that week Guam Gov. Lou
 Leon Guerrero had said she was considering pardoning people with past petty
-marijuana convictions now that cannabis is legal on Guam. [@1]
+marijuana convictions now that cannabis is legal on Guam. [@1,2]
 
 The Northern Mariana Islands legalised recreational and medicinal cannabis in
 2018, ahead of Guam, which legalised it in April 2019. [@1] Torres said the
@@ -44,4 +55,3 @@ islands' cannabis industry "continues to grow", with more commercial licences
 and "cannabis lodges". [@1] Asked whether crime had risen since legalisation,
 Torres said "no, not that I can claim that is direct relation between cannabis."
 [@1]
-
