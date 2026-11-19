@@ -41,6 +41,11 @@ media:
     media_url: https://lentv24.ru/media/videos/63438_1.mp4
     publisher: ЛенТВ24
     caption: 'Operational footage of the police detention and marijuana seizure in St Petersburg and Leningrad Oblast. Video: GU MVD of Russia for St Petersburg and Leningrad Oblast (max.ru/mvd78)'
+  - kind: photo
+    url: https://78.ru/news/2026-11-19/krupnuyu-partiyu-marihuani-nashli-v-treh-kvartirah-narkosbitchikov-v-peterburge
+    media_url: https://static.78.ru/images/uploads/media/2026/11/19/1795079549715.jpg
+    publisher: 78.ru
+    caption: 'Police handout photo of the seizure from the flats, published with the report. Photo: press service of the GU MVD for St Petersburg and Leningrad Oblast'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 9118e33b3fcae808aa9558a23bbf8911
@@ -61,31 +66,36 @@ sources:
     publisher: Фонтанка.ру
     date: 2026-11-19
     language: ru
-open_questions:
-  - No street value or price estimate for the seized marijuana was published.
-  - The material was described as marijuana by the police; no laboratory confirmation was reported.
-  - No court date or trial outcome was reported, and the case remained at the investigation stage.
+  - title: Полиция в Петербурге прошла по квартирам с теплицами и марихуаной в унитазе
+    url: https://47news.ru/articles/295929/
+    publisher: 47news
+    date: 2026-11-19
+    language: ru
+  - title: Крупную партию марихуаны нашли в трёх квартирах наркосбытчиков в Петербурге
+    url: https://78.ru/news/2026-11-19/krupnuyu-partiyu-marihuani-nashli-v-treh-kvartirah-narkosbitchikov-v-peterburge
+    publisher: 78.ru
+    date: 2026-11-19
+    language: ru
 ---
 
 Police in St. Petersburg and Leningrad Oblast detained a criminal group
 suspected of illegally selling marijuana on Wednesday 18 November 2026. [@1]
 Those detained were a 36-year-old supplier and two sellers aged 34 and 32, both
-previously convicted. [@1] The operation was part of a criminal case opened in
+previously convicted. [@1,4] The operation was part of a criminal case opened in
 October 2026. [@1]
 
 In the supplier's flat officers found 203 grams of marijuana, electronic scales
-and packaging material. [@1] At a second address used to cultivate the
+and packaging material. [@1,4] At a second address used to cultivate the
 drug-containing plant, officers found a further 191 grams of marijuana and
-growing equipment. [@1] In the sellers' flats officers seized a further 126
+growing equipment. [@1,4] In the sellers' flats officers seized a further 126
 grams of marijuana, scales and packaging materials, the regional MVD press
-service said. [@1] The regional MVD press service put the combined quantity at
-more than 500 grams. [@2] Fontanka reported that investigators from the MVD's
+service said. [@1,4] The regional MVD press service put the combined quantity at
+more than 500 grams. [@2,5] Fontanka reported that investigators from the MVD's
 criminal investigation unit and Vasileostrovsky district colleagues made the
 arrests, that the suspects tried to flush the drugs down a toilet and that
 operational footage was shown at police headquarters on 19 November. [@3]
 Fontanka reported a greenhouse at the second address used by the supplier. [@3]
 
 KP.RU reported that cases for attempted sale were opened against two of the
-suspects. [@2] Police said they were conducting measures to identify further
+suspects. [@2,4] Police said they were conducting measures to identify further
 episodes of criminal activity and possible accomplices. [@1]
-
