@@ -77,6 +77,11 @@ sources:
     publisher: Corriere della Calabria
     date: 2026-11-18
     language: it
+  - title: 'Catanzaro, mezzo chilo di hashish in casa nel quartiere Isonzo: arrestato un cinquantenne - Gazzetta del Sud'
+    url: https://catanzaro.gazzettadelsud.it/articoli/cronaca/2026/11/18/catanzaro-mezzo-chilo-di-hashish-in-casa-nel-quartiere-isonzo-arrestato-un-cinquantenne-0fd3216c-887f-48bd-af84-5e0b837c04e6/
+    publisher: Gazzetta del Sud
+    date: 2026-11-18
+    language: it
 open_questions:
     - The article says the arrest took place 'nei giorni scorsi' (in recent days), so no exact date was given; 18 November 2026 is the publication date and is used as the incident date.
     - The weight is given only as 'about 500 grams'; no precise measured weight or number of blocks (panetti) was reported.
@@ -91,11 +96,11 @@ flagrante during territorial checks aimed at countering drug dealing in urban
 areas. [@1,5,6,7] The man was already known to police for earlier drug-related
 judicial matters. [@1,5,7] After the arrest he was taken to the Ugo Caridi prison in
 Catanzaro. [@1,5,7] The investigating judge at the Tribunale di Catanzaro validated
-the arrest and ordered pretrial custody in prison. [@1,5,6,7]
+the arrest and ordered pretrial custody in prison. [@1,5,6,7,8]
 
 During a search of the suspect's home, officers found about 500 grams of
-hashish, already divided into blocks (panetti). [@1,5,6,7] The home searched was in
-the Isonzo neighbourhood of Catanzaro. [@4,5,6,7] He was found in possession of the
+hashish, already divided into blocks (panetti). [@1,5,6,7,8] The home searched was in
+the Isonzo neighbourhood of Catanzaro. [@4,5,6,7,8] He was found in possession of the
 drug during that domiciliary search. [@3] Investigators estimated the seized
 substance could have generated about 10,000 euros in illicit proceeds. [@1,5,6,7] That
 estimate was reported in the prosecutor's statement. [@2]
