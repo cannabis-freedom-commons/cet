@@ -53,23 +53,28 @@ sources:
     publisher: AyoSumbar.id
     date: 2026-11-18
     language: id
-open_questions:
-  - The 2,598 suspects cover all drug types in the 1,981 cases; how many were held in cannabis cases is not stated.
-  - The 99.12 kg of sabu, 2,803 ecstasy pills and 24,453 other pills are excluded from the cannabis figure; no cannabis-only suspect count was given.
-  - The operation start is given only as July 2025 with no day; 1 July 2025 is used as the period start.
-  - No breakdown by district police, charge, detention measure or court outcome was reported.
-  - All three accounts reproduce the same Polda Sumbar statement, so the figures rest on a single official account.
+  - title: Konsisten Perangi Narkoba Selama 16 Bulan, Polda Sumbar Sita 1,6 Ton Ganja dan 99 Kg Sabu
+    url: https://posmetropadang.co.id/konsisten-perangi-narkoba-selama-16-bulan-polda-sumbar-sita-16-ton-ganja-dan-99-kg-sabu-442554
+    publisher: Posmetro Padang
+    date: 2026-11-19
+    language: id
+media:
+  - kind: photo
+    url: https://posmetropadang.co.id/konsisten-perangi-narkoba-selama-16-bulan-polda-sumbar-sita-16-ton-ganja-dan-99-kg-sabu-442554
+    media_url: https://posmetropadang.co.id/wp-content/uploads/2026/11/16-ton-ganja-dan-99-Kg-sabu.jpg
+    publisher: Posmetro Padang
+    caption: 'Polda Sumbar public-relations chief Kombes Pol Susmelawati Rosya witnessing the testing of seized drugs due to be destroyed, in a photo published with the tally. Photo: Posmetro Padang'
 ---
 
 West Sumatra police handled 1,981 narcotics cases with 2,598 suspects from July
-2025 to 15 November 2026. [@1] The tally was the work of the provincial drug
+2025 to 15 November 2026. [@1,4] The tally was the work of the provincial drug
 directorate, Ditresnarkoba Polda Sumbar, with all district and city police in
-West Sumatra. [@1]
+West Sumatra. [@1,4]
 
 Police seized 1,657.03 kilograms of ganja, the Indonesian word for cannabis, in
-those cases. [@1] The same operation also seized 99.12 kilograms of sabu, 2,803
+those cases. [@1,4] The same operation also seized 99.12 kilograms of sabu, 2,803
 ecstasy pills and 24,453 other pills, which are not counted in the cannabis
-total. [@2]
+total. [@2,4]
 
 Drug director Kombes Pol Wedy Mahadi said the 1,981 cases and 2,598 suspects
 showed the force's seriousness and that officers keep acting, developing cases
@@ -79,4 +84,3 @@ break the distribution chain and develop each case to uncover larger networks.
 step to protect the public and save West Sumatra's young generation from drugs.
 [@1] Police asked residents to report suspected drug abuse or trafficking in
 their neighbourhoods. [@2]
-
