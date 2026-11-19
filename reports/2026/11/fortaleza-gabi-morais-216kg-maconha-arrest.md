@@ -43,20 +43,17 @@ sources:
     publisher: GCMais
     date: 2026-11-18
     language: pt
-open_questions:
-  - The marijuana seizure is dated only to June 2025; no day or precise discovery site was given for the 216 kg hidden in computer cabinets.
-  - The 216 kg figure was given as approximate, not as an exact measured weight.
-  - One passage dates the operations to Tuesday 19 November, while two others say Tuesday 17 November; 19 November 2026 was a Thursday, so 17 November is used.
-  - It was not stated whether Morais was among the 48 warrants or the single flagrante arrest, nor whether anyone was arrested at the time of the June 2025 seizure.
-  - No charges, plea or court outcome had been reported and the investigation was described as ongoing.
-  - No amount attributed specifically to Morais or details of the alleged financial movements were disclosed.
+  - title: 'Gabi Morais Arrested: Former Brazil International Held In Comando Vermelho Drug Gang Probe as £19.4 Million Assets Frozen'
+    url: https://sundayguardianlive.com/sports/gabi-morais-arrested-former-brazil-international-held-in-comando-vermelho-drug-gang-probe-as-19-4-million-assets-frozen-324584/
+    publisher: The Sunday Guardian
+    date: 2026-11-19
 ---
 
 Former Brazil national team midfielder Gabi Morais, 32, was arrested in
 Fortaleza on 17 November 2026 on suspicion of laundering money for the Comando
-Vermelho criminal faction. [@1] The arrest concluded an investigation that began
+Vermelho criminal faction. [@1,2] One business examined by investigators was a bar in the Lagamar neighbourhood, though authorities did not disclose full transaction details or any amount attributed to her. [@2] Her brother, João Paulo Carneiro de Morais, known as JP Lagamar, was also arrested and is suspected of holding an important position in the Fortaleza network, while their father, known as João Presinha, was identified as an alleged senior figure. [@2] The arrest concluded an investigation that began
 with the discovery of about 216 kilograms of marijuana hidden inside computer
-cabinets in June 2025. [@1] The case was one of a series of police operations
+cabinets in June 2025. [@1,2] The case was one of a series of police operations
 carried out simultaneously in Ceará, Paraíba and Pernambuco. [@1]
 
 The Civil Police's narcotics unit, the Delegacia de Narcóticos (Denarc),
@@ -67,8 +64,7 @@ storage method drew attention because electronic equipment was used as a hiding
 place to transport or package the drug. [@1]
 
 The arrests came in three operations launched simultaneously on 17 November.
-[@1] Officers executed 48 arrest warrants and made one arrest in flagrante. [@1]
+[@1,2] The three operations were named Liquidação, Correnteza and Deslocamentos Forçados. [@2] Officers executed 48 arrest warrants and made one arrest in flagrante. [@1] A court upheld Gabi’s detention on November 18 and her defence had not publicly responded at the time of reporting. [@2]
 The operations froze more than R$ 150 million in assets and funds linked to the
 people under investigation. [@1] Police said the suspected money laundering was
 distinct from any investigation into possessing or transporting narcotics. [@1]
-
