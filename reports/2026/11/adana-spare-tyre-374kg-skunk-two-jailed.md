@@ -43,6 +43,11 @@ sources:
     publisher: Akdeniz Gazetesi
     date: 2026-11-19
     language: tr
+  - title: 'Yedek lastik altına 3 kilo 740 gram skunk zulaladılar: 2 şüpheli tutuklandı'
+    url: https://www.medyagazete.com/haber/yedek-lastik-altina-3-kilo-740-gram-skunk-zulaladilar-2-supheli-tutuklandi
+    publisher: Medya Gazete
+    date: 2026-11-19
+    language: tr
 open_questions:
   - No separate date for the stop, search or arrests was given; 19 November 2026 is the publication date and stands in for the incident date.
   - The substance was described as skunk with no laboratory confirmation reported.
@@ -52,21 +57,20 @@ open_questions:
 ---
 
 Adana anti-narcotics police received information that İ.T. and H.B. would bring
-drugs into the city by road. [@1] Acting on the tip, officers followed the car
+drugs into the city by road. [@1,2] Acting on the tip, officers followed the car
 the suspects were travelling in. [@1] Officers stopped the car driven by İ.T.
-after following it for some time. [@1] The driver İ.T. and the passenger H.B.
-were taken into detention. [@1]
+after following it for some time. [@1,2] The driver İ.T. and the passenger H.B.
+were taken into detention. [@1,2]
 
 Officers carried out a detailed search of the car accompanied by narcotics
-detector dog Barbara. [@1] After Barbara reacted to the luggage compartment,
-officers concentrated their work there. [@1] Under the spare tyre in the boot,
+detector dog Barbara. [@1,2] After Barbara reacted to the luggage compartment,
+officers concentrated their work there. [@1,2] Under the spare tyre in the boot,
 officers found a total of 3 kilos 740 grams of skunk concealed in 3 specially
-hidden packs and seized the drugs. [@1] The drugs were confiscated and the two
+hidden packs and seized the drugs. [@1,2] The drugs were confiscated and the two
 suspects were taken to the police for questioning. [@1]
 
 In police questioning, İ.T. and H.B. did not accept the accusations against
 them. [@1] The suspects reportedly defended themselves by saying they had
-absolutely no knowledge of the drugs. [@1] After police procedures were
+absolutely no knowledge of the drugs. [@1,2] After police procedures were
 completed, the two suspects were referred to the courthouse. [@1] İ.T. and H.B.
-were remanded by the court and sent to prison. [@1]
-
+were remanded by the court and sent to prison. [@1,2]
