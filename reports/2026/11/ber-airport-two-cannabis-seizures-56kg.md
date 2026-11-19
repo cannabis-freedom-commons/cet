@@ -107,6 +107,11 @@ sources:
     publisher: rbb24
     date: 2026-11-19
     language: de
+  - title: Drogenfund am BER - Zoll entdeckt 40 Kilo Cannabis in zwei Koffern
+    url: https://www.msn.com/de-de/nachrichten/other/drogenfund-am-ber-zoll-entdeckt-40-kilo-cannabis-in-zwei-koffern/ar-AA2hMbMm
+    publisher: B.Z.
+    date: 2026-11-19
+    language: de
 media:
   - kind: photo
     url: https://www.berliner-zeitung.de/article/cannabis-am-ber-zoll-findet-40-kilogramm-in-zwei-gepaeckstuecken-10614031
@@ -121,14 +126,14 @@ Brandenburg Airport. [@1,4,9,12] The Zollfahndungsamt Berlin-Brandenburg has tak
 the further investigations. [@1,4,12]
 
 On 2 November customs officers at the airport found 40 kilograms of cannabis
-spread over two pieces of luggage. [@2,3,4,5,6,7,8,9,10,12,13] The man had arrived on a flight from Zurich, a customs spokeswoman said. [@3,5,6,7,8,9,11,13,14] Officers of the Hauptzollamt Potsdam had
-already spotted irregularities during the X-ray screening. [@2,4,9,10,12] When the luggage
+spread over two pieces of luggage. [@2,3,4,5,6,7,8,9,10,12,13] The man had arrived on a flight from Zurich, a customs spokeswoman said. [@3,5,6,7,8,9,11,13,14,15] Officers of the Hauptzollamt Potsdam had
+already spotted irregularities during the X-ray screening. [@2,4,9,10,12,15] When the luggage
 was opened officers found only vacuum-sealed bags with a green-brown substance.
-[@1,3,4,5,7,9,10,13,14] A drug test subsequently carried out for cannabis was positive. [@1,3,4,5,6,7,8,9,10,13,14]
+[@1,3,4,5,7,9,10,13,14,15] A drug test subsequently carried out for cannabis was positive. [@1,3,4,5,6,7,8,9,10,13,14,15]
 
 In mid-October customs sniffer dog Inge detected 16 kilograms of cannabis in the
-luggage of a Malaysian man who had arrived via Madrid. [@1,3,4,9,12,13] The traveller said
-the suitcases belonged to a friend. [@1,3,4,5,6,7,8,9,11,13] Officers seized a total of eight
+luggage of a Malaysian man who had arrived via Madrid. [@1,3,4,9,12,13,15] The traveller said
+the suitcases belonged to a friend. [@1,3,4,5,6,7,8,9,11,13,15] Officers seized a total of eight
 double-vacuumed plastic bags containing cannabis. [@1,4,12] In total the two cases
 account for 56 kilograms of cannabis seized from travellers' luggage at the
 airport. [@1]
