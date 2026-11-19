@@ -49,6 +49,11 @@ sources:
     publisher: Nieuws uit Berkelland
     date: 2026-11-18
     language: nl
+  - title: Bromfietser (40) uit Borculo twee keer aangehouden vanwege het rijden onder invloed
+    url: https://drimble.nl/regio/overijssel/enschede/108643860/bromfietser-40-uit-borculo-twee-keer-aangehouden-vanwege-het-rijden-onder-invloed.html
+    publisher: Drimble
+    date: 2026-11-18
+    language: nl
 open_questions:
     - The blood-test and laboratory results were not published, so the amount of cannabis involved was not established.
     - No charge, court date or outcome was reported after either detention.
@@ -57,9 +62,9 @@ open_questions:
 ---
 
 Haaksbergen police detained a 40-year-old moped rider from Borculo on two
-consecutive days in November 2026 for driving under the influence of drugs. [@1,3]
+consecutive days in November 2026 for driving under the influence of drugs. [@1,3,4]
 On Friday 13 November officers checked him in the afternoon on the
-Enschedesestraat; he tested positive for cannabis use and was detained. [@1,3] A
+Enschedesestraat; he tested positive for cannabis use and was detained. [@1,3,4] A
 blood sample was taken at the police station in Goor, and later laboratory
 analysis was to establish how much drug he had actually used. [@1,3]
 
