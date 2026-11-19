@@ -38,6 +38,11 @@ media:
     media_url: https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/11/Dagga.jpg
     publisher: SABC News
     caption: Compressed dagga in bags, in a photo credited to SAPS Facebook published with the report on the Magudu arrests.
+  - kind: photo
+    url: https://tabloidmedia.co.za/dagga-worth-nearly-r3-million-seized-in-two-operations/
+    media_url: https://tabloidmedia.co.za/wp-content/uploads/2026/11/1001998561.jpg
+    publisher: Tabloid Newspapers
+    caption: Wrapped bales of compressed dagga laid on grass, in the photo published with the report on the Magudu seizures.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 2241b1fc4bc598f6c133dafed06dca7c
@@ -47,12 +52,20 @@ sources:
     url: https://www.sabcnews.com/sabcnews/1179610-2/
     publisher: SABC News
     date: 2026-11-19
+  - title: Dagga worth nearly R3 million seized in two operations
+    url: https://tabloidmedia.co.za/dagga-worth-nearly-r3-million-seized-in-two-operations/
+    publisher: Tabloid Newspapers
+    date: 2026-11-19
+  - title: '[THREE SUSPECTS ARRESTED WITH R3 MILLION WORTH OF DAGGA IN MAGUDU]'
+    url: https://x.com/SAPoliceService/status/2123417736474661009
+    publisher: SA Police Service
+    date: 2026-11-19
 open_questions:
-  - The headline and lead report three suspects arrested, while police spokesperson Thenjiswa Ngcobo described the R69 vehicle as having two occupants, both arrested; the discrepancy is unresolved.
-  - The incident date of 18 November 2026 is inferred from the spokesperson’s reference to Wednesday in a report published on Thursday 19 November 2026.
-  - No weight was given for the 39 bales, so no kilogram figure is reported.
-  - No charge, plea or court outcome was reported; the suspects were only expected to appear before the Magudu Magistrate’s Court.
-  - The same report describes a separate same-day incident on the R66 near Okhozi Reserve involving eight bales of dagga worth R800,000; that is a different event left out here.
+    - The headline and lead report three suspects arrested, while police describe the R69 vehicle as having two occupants; the Tabloid and SAPS accounts indicate the third arrest was the driver in the separate R66 stop.
+    - No weight was given for the bales, so no kilogram figure is reported.
+    - No plea or court outcome was reported beyond the expected appearance on 19 November 2026 for possession and dealing in dagga.
+    - No laboratory confirmation of the seized material was reported.
+    - The same-day R66 seizure of eight bales valued at R800,000 is noted here but left out of this report's figures as a different event.
 ---
 
 Police in Magudu in northern KwaZulu-Natal arrested three suspects found with
@@ -62,11 +75,10 @@ R69. [@1]
 
 Provincial police spokesperson Thenjiswa Ngcobo said police received information
 on Wednesday about a vehicle allegedly transporting dagga along the R69 gravel
-road. [@1] The vehicle was searched and police recovered 39 bales of compressed
-dagga with an estimated street value of R2 million. [@1]
+road. [@1,2] The vehicle was searched and police recovered 39 bales of compressed
+dagga with an estimated street value of R2 million. [@1,2,3]
 
 Ngcobo said the vehicle had two occupants and that both were arrested, and the
-suspects were expected to appear before the Magudu Magistrate’s Court. [@1] A
+suspects were expected to appear before the Magudu Magistrate’s Court. [@1] The suspects are expected to appear before the Magudu Magistrate’s Court on Thursday, 19 November 2026 for possession and dealing in dagga. [@3] A
 separate incident the same day on the R66 near Okhozi Reserve yielded eight
-bales of compressed dagga valued at R800,000 and further arrests. [@1]
-
+bales of compressed dagga valued at R800,000 and further arrests. [@1,2]
