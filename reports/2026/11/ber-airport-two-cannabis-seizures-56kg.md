@@ -62,6 +62,11 @@ sources:
     publisher: DIE WELT
     date: 2026-11-19
     language: de
+  - title: 'Kriminalität: Zoll erwischt Mann am BER mit 40 Kilogramm Cannabis'
+    url: https://www.mz.de/panorama/zoll-erwischt-mann-am-ber-mit-40-kilogramm-cannabis-4358961
+    publisher: mz.de
+    date: 2026-11-19
+    language: de
 ---
 
 Two travellers are facing criminal proceedings on suspicion of smuggling in
@@ -70,14 +75,14 @@ Brandenburg Airport. [@1,4] The Zollfahndungsamt Berlin-Brandenburg has taken ov
 the further investigations. [@1,4]
 
 On 2 November customs officers at the airport found 40 kilograms of cannabis
-spread over two pieces of luggage. [@2,3,4,5] The man had arrived on a flight from Zurich, a customs spokeswoman said. [@3,5] Officers of the Hauptzollamt Potsdam had
+spread over two pieces of luggage. [@2,3,4,5,6] The man had arrived on a flight from Zurich, a customs spokeswoman said. [@3,5,6] Officers of the Hauptzollamt Potsdam had
 already spotted irregularities during the X-ray screening. [@2,4] When the luggage
 was opened officers found only vacuum-sealed bags with a green-brown substance.
-[@1,3,4,5] A drug test subsequently carried out for cannabis was positive. [@1,3,4,5]
+[@1,3,4,5] A drug test subsequently carried out for cannabis was positive. [@1,3,4,5,6]
 
 In mid-October customs sniffer dog Inge detected 16 kilograms of cannabis in the
 luggage of a Malaysian man who had arrived via Madrid. [@1,3,4] The traveller said
-the suitcases belonged to a friend. [@1,3,4,5] Officers seized a total of eight
+the suitcases belonged to a friend. [@1,3,4,5,6] Officers seized a total of eight
 double-vacuumed plastic bags containing cannabis. [@1,4] In total the two cases
 account for 56 kilograms of cannabis seized from travellers' luggage at the
 airport. [@1]
