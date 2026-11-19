@@ -72,30 +72,35 @@ sources:
     publisher: WeSud
     date: 2026-11-18
     language: it
+  - title: 'Catanzaro, mezzo chilo di hashish in casa: arrestato 50enne'
+    url: https://www.corrieredellacalabria.it/2026/11/18/catanzaro-mezzo-chilo-di-hashish-in-casa-arrestato-50enne/
+    publisher: Corriere della Calabria
+    date: 2026-11-18
+    language: it
 open_questions:
-  - The article says the arrest took place 'nei giorni scorsi' (in recent days), so no exact date was given; 18 November 2026 is the publication date and is used as the incident date.
-  - The weight is given only as 'about 500 grams'; no precise measured weight or number of blocks (panetti) was reported.
-  - The suspect is identified only as a 50-year-old Italian man known for earlier drug-related judicial matters; no name was published.
-  - No formal charge was stated and the case is at the preliminary investigation stage, so no court outcome or trial date is known.
-  - The 10,000 euro figure is an estimate of potential illicit proceeds, not a declaration of cash seized.
-  - All four accounts reproduce the same official Guardia di Finanza or prosecutor statement, so they are not independent reporting.
+    - The article says the arrest took place 'nei giorni scorsi' (in recent days), so no exact date was given; 18 November 2026 is the publication date and is used as the incident date.
+    - The weight is given only as 'about 500 grams'; no precise measured weight or number of blocks (panetti) was reported.
+    - The suspect is identified only as a 50-year-old Italian man known for earlier drug-related judicial matters; no name was published.
+    - No formal charge was stated and the case is at the preliminary investigation stage, so no court outcome or trial date is known.
+    - The 10,000 euro figure is an estimate of potential illicit proceeds, not a declaration of cash seized.
+    - The accounts reproduce the same official Guardia di Finanza or prosecutor statement, so they are not independent reporting.
 ---
 
 Guardia di Finanza officers in Catanzaro arrested a 50-year-old Italian man in
 flagrante during territorial checks aimed at countering drug dealing in urban
-areas. [@1,5,6] The man was already known to police for earlier drug-related
-judicial matters. [@1,5] After the arrest he was taken to the Ugo Caridi prison in
-Catanzaro. [@1,5] The investigating judge at the Tribunale di Catanzaro validated
-the arrest and ordered pretrial custody in prison. [@1,5,6]
+areas. [@1,5,6,7] The man was already known to police for earlier drug-related
+judicial matters. [@1,5,7] After the arrest he was taken to the Ugo Caridi prison in
+Catanzaro. [@1,5,7] The investigating judge at the Tribunale di Catanzaro validated
+the arrest and ordered pretrial custody in prison. [@1,5,6,7]
 
 During a search of the suspect's home, officers found about 500 grams of
-hashish, already divided into blocks (panetti). [@1,5,6] The home searched was in
-the Isonzo neighbourhood of Catanzaro. [@4,5,6] He was found in possession of the
+hashish, already divided into blocks (panetti). [@1,5,6,7] The home searched was in
+the Isonzo neighbourhood of Catanzaro. [@4,5,6,7] He was found in possession of the
 drug during that domiciliary search. [@3] Investigators estimated the seized
-substance could have generated about 10,000 euros in illicit proceeds. [@1,5,6] That
+substance could have generated about 10,000 euros in illicit proceeds. [@1,5,6,7] That
 estimate was reported in the prosecutor's statement. [@2]
 
 The operation was carried out by the Baschi Verdi of the Guardia di Finanza
 group in Catanzaro, with support from the canine unit of the rapid-deployment
-company in Lamezia Terme. [@1] The case is at the preliminary investigation
+company in Lamezia Terme. [@1,7] The case is at the preliminary investigation
 stage, with the suspect's responsibility to be established in court. [@1]
