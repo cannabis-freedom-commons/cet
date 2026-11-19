@@ -53,19 +53,16 @@ sources:
     publisher: Конкурент
     date: 2026-06-04
     language: uk
-open_questions:
-  - The verdict report names no one; the 38-year-old resident of Yakushiv in the June prosecution statement is taken to be the convicted man because the town, the sales period and the pending robbery case match, but this is not confirmed.
-  - 'No single total weight is stated: 33.49 grams is the sum of the two packets sold.'
-  - The verdict report says the eight years were imposed for the offences together without separating the term for the drug sales from the robbery.
-  - No value estimate for the cannabis or for the confiscated property was published.
-  - It is not reported whether he will appeal or whether the verdict has taken legal effect.
-  - Whether the cannabis from the two purchases was seized and destroyed is not stated.
-  - The robbery loss was given as 2,773.33 hryvnias although the wallet was said to hold 2,700, and the difference is not explained.
+  - title: 'Вкрав гаманець з грошима та збував канабіс: волинянин отримав 8 років тюрми'
+    url: https://www.volynpost.com/news/271812-vkrav-gamanec-z-groshyma-ta-zbuvav-kanabis-volynianyn-otrymav-8-rokiv-tyurmy
+    publisher: ВолиньPost
+    date: 2026-11-19
+    language: uk
 ---
 
 A man in Ratne, Volyn Oblast, was sentenced to eight years in prison with
 confiscation of property for twice selling cannabis and for a robbery in the
-town. [@1] The Ratne District Court of Volyn Oblast issued the verdict on 4
+town. [@1,3] The Ratne District Court of Volyn Oblast issued the verdict on 4
 November 2026. [@1] The Volyn Oblast Prosecutor's Office said in June 2026 that
 the accused was a 38-year-old resident of Yakushiv in Kovel district who sold
 cannabis several times in Ratne in February and March 2026, with a robbery case
@@ -78,7 +75,7 @@ hryvnias. [@1] Both sales were recorded during police test purchases. [@1] He
 pleaded guilty in court to the drug-sale episodes. [@1]
 
 The court found him guilty of robbery committed repeatedly under martial law and
-of illegal acquisition, storage with intent to sell and sale of narcotics. [@1]
+of illegal acquisition, storage with intent to sell and sale of narcotics. [@1,3]
 The robbery was of a wallet holding 2,700 hryvnias taken from an unlocked house
 on Shkilna Street in Ratne on 19 March 2026, and the court treated it as robbery
 because he fled after the owner noticed him. [@1] The court counted sincere
@@ -87,5 +84,4 @@ repeat offending as aggravating, and noted that he was out of work, poorly
 characterised at his address and has a minor child. [@1] He had an earlier
 robbery conviction, a Dnipro court having imposed four years in prison in
 December 2020. [@1] The court also ordered him to pay 8,468 hryvnias 30 kopiykas
-towards the cost of expert examinations. [@1]
-
+towards the cost of expert examinations. [@1] He will remain in custody until the verdict enters into legal force. [@3] He was detained shortly after the robbery and has remained in custody since. [@3]
