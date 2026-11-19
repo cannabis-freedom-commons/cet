@@ -106,6 +106,11 @@ sources:
     publisher: Voria.gr
     date: 2026-11-18
     language: el
+  - title: Συνελήφθη στο «Ελευθέριος Βενιζέλος» άνδρας με 35 κιλά ακατέργαστης κάνναβης
+    url: https://www.ioannina24.gr/%CE%B5%CE%B9%CE%B4%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B1-%CE%BA%CE%BF%CF%83%CE%BC%CE%BF%CF%82/%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7-%CE%BA%CF%8C%CF%83%CE%BC%CE%BF%CF%82/1653395-%CF%83%CF%85%CE%BD%CE%B5%CE%BB%CE%AE%CF%86%CE%B8%CE%B7-%CF%83%CF%84%CE%BF-%C2%AB%CE%B5%CE%BB%CE%B5%CF%85%CE%B8%CE%AD%CF%81%CE%B9%CE%BF%CF%82-%CE%B2%CE%B5%CE%BD%CE%B9%CE%B6%CE%AD%CE%BB%CE%BF%CF%82%C2%BB-%CE%AC%CE%BD%CE%B4%CF%81%CE%B1%CF%82-%CE%BC%CE%B5-35-%CE%BA%CE%B9%CE%BB%CE%AC-%CE%B1%CE%BA%CE%B1%CF%84%CE%AD%CF%81%CE%B3%CE%B1%CF%83%CF%84%CE%B7%CF%82-%CE%BA%CE%AC%CE%BD%CE%BD%CE%B1%CE%B2%CE%B7%CF%82
+    publisher: ioannina24.gr
+    date: 2026-11-18
+    language: el
 open_questions:
     - The 35 kilograms and 300 grams is the gross weight of the 23 packages, not a measured net weight of the drug.
     - No charge, plea or detention decision was reported; the man was taken to the prosecutor, and Athens Voice says the case has passed to the judicial process.
@@ -117,7 +122,7 @@ open_questions:
 ---
 
 Officers of the narcotics unit at Athens International Airport arrested a
-28-year-old Lithuanian man after a check on his arrival in Greece. [@2,4,5,8,10] The operation on Tuesday 17 November 2026 was run by officers of the Drug Enforcement Subdirectorate of the Directorate for Organized Crime. [@7,9] Zougla reported that officers identified him during targeted checks at the airport's narcotics department, after cross-checks, data analysis and profiling. [@6] He was
+28-year-old Lithuanian man after a check on his arrival in Greece. [@2,4,5,8,10,11] The operation on Tuesday 17 November 2026 was run by officers of the Drug Enforcement Subdirectorate of the Directorate for Organized Crime. [@7,9] Zougla reported that officers identified him during targeted checks at the airport's narcotics department, after cross-checks, data analysis and profiling. [@6] He was
 stopped in the airport's arrivals area after checks by the Hellenic Police,
 known in Greece as EL.AS. [@1,7] He had landed the previous day, 17 November 2026,
 on a flight from Bangkok via Doha. [@3,4,5,8,10]
