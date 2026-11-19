@@ -142,9 +142,11 @@ sources:
     publisher: وكالة الأنباء الجزائرية
     date: 2026-11-19
     language: ar
-open_questions:
-  - Whether a third tunnel has actually been discovered is unclear, with the headline stating discovery while the body describes only an investigation into a possible tunnel and Spanish police reporting no confirmed discovery or additional detentions.
-  - No weight was published for the hashish found in the port truck.
+  - title: الشرطة الإسبانية تحقق في نفق ثالث لتهريب الحشيش المغربي إلى سبتة - بركة نيوز
+    url: https://barakanews.dz/posts/alshrt-alasbany-thkk-fy-nfk-thalth-lthryb-alhshysh-almghrby-al-sbt
+    publisher: بركة نيوز
+    date: 2026-11-19
+    language: ar
 ---
 
 Spain's UDYCO drug unit arrested a truck driver at the port of Ceuta carrying a
@@ -157,7 +159,7 @@ he was driving. [@2]
 The truck appeared empty and was heading toward boarding for Spain when a
 specialist drugs dog alerted, prompting an exhaustive hours-long search inside
 and outside the vehicle. [@2,7,10,11] After the hours-long detailed inspection, officers
-found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6,7,9,10,11] The intercepted truck had unloaded animal feed and was returning with several sacks of hashish when UDYCO stopped it at the port, one of several trucks that had left Ceuta and were intercepted elsewhere in Spain. [@13,15,17,18,19]
+found a large number of bags full of hashish inside the truck's structure. [@1,4,5,6,7,9,10,11] The intercepted truck had unloaded animal feed and was returning with several sacks of hashish when UDYCO stopped it at the port, one of several trucks that had left Ceuta and were intercepted elsewhere in Spain. [@13,15,17,18,19,20]
 Officers recovered numerous bags of hashish from the trailer's false bottom,
 with first estimates putting the haul above 300 kilograms although police gave
 no official weight. [@3] The submitted account describes the seizure as about
@@ -166,4 +168,4 @@ no official weight. [@3] The submitted account describes the seizure as about
 The handcuffed driver was taken to police headquarters and placed under
 investigation for an offence against public health. [@2] A judge ordered the driver held in pre-trial detention on Sunday after he was presented to the court. [@8,13,16] The warehouse operation was prepared and coordinated from Madrid and remains under summary secrecy under the National Court. [@14] Police link the
 operation to open UDYCO investigations into groups moving hashish from Ceuta to
-mainland Spain in heavy vehicles with hidden compartments. [@3,17] On Wednesday, UDYCO officers carried out an operation in a warehouse in the Tarajal industrial estate over a possible third drug tunnel. [@14,15,18] The investigation revives the hypothesis of a third hashish tunnel between Ceuta and Fnideq, after two earlier tunnels were found in the same area in operations named Ares and Hades. [@15,16,17,18,19] Investigators suspect larger loads and heavy vehicles hidden in stash houses used to store hashish, known locally as zulos. [@8] Investigators are trying to establish whether the hashish reached the trucks through intermediate caches or directly through a possible third tunnel, and police have announced no new tunnel discovery and no additional detentions. [@12,16] In the warehouse the technical-intervention unit searched for tools and equipment suspected of being used to fit trucks with secret double-floor caches for hiding drugs. [@12,15,16,17,18,19]
+mainland Spain in heavy vehicles with hidden compartments. [@3,17,20] On Wednesday, UDYCO officers carried out an operation in a warehouse in the Tarajal industrial estate over a possible third drug tunnel. [@14,15,18] The investigation revives the hypothesis of a third hashish tunnel between Ceuta and Fnideq, after two earlier tunnels were found in the same area in operations named Ares and Hades. [@15,16,17,18,19,20] Investigators suspect larger loads and heavy vehicles hidden in stash houses used to store hashish, known locally as zulos. [@8] Investigators are trying to establish whether the hashish reached the trucks through intermediate caches or directly through a possible third tunnel, and police have announced no new tunnel discovery and no additional detentions. [@12,16] In the warehouse the technical-intervention unit searched for tools and equipment suspected of being used to fit trucks with secret double-floor caches for hiding drugs. [@12,15,16,17,18,19,20]
