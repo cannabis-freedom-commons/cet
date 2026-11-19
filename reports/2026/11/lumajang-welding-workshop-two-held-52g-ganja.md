@@ -76,6 +76,11 @@ sources:
     publisher: Memorandum.co.id
     date: 2026-11-18
     language: id
+  - title: Polisi Tangkap Dua Pria Diduga Pengedar Sabu-Sabu dan Ganja di Lereng Semeru - JPNN.com Jatim
+    url: https://jatim.jpnn.com/kriminal/50332/polisi-tangkap-dua-pria-diduga-pengedar-sabu-sabu-dan-ganja-di-lereng-semeru
+    publisher: JPNN.com Jatim
+    date: 2026-11-19
+    language: id
 open_questions:
   - No figure for the value of the 52.31 grams of ganja was published.
   - The 6.47 grams of methamphetamine seized alongside the ganja is excluded from the cannabis figures.
@@ -83,16 +88,16 @@ open_questions:
 ---
 
 The narcotics unit of Lumajang district police arrested two men on suspicion of
-trafficking methamphetamine and cannabis in Lumajang regency, East Java. [@1,3,4,5,6] Police said the arrests took place on Wednesday 18 November 2026. [@3] AR
+trafficking methamphetamine and cannabis in Lumajang regency, East Java. [@1,3,4,5,6,7] Police said the arrests took place on Wednesday 18 November 2026. [@3] AR
 (37) and HI (47) were arrested at a welding workshop in Kandangtepus village,
 Senduro district, after officers followed up a tip from residents about drug
-dealing at the premises. [@1,3,5,6] AR is from Pagowan village in Pasrujambe district
+dealing at the premises. [@1,3,5,6,7] AR is from Pagowan village in Pasrujambe district
 and HI from Sarikemuning village in Senduro district. [@1,5] Police said AR told
 them he obtained the cannabis from HI, and officers then tracked HI down and
-searched him. [@2,3]
+searched him. [@2,3,7]
 
 Officers seized 52.31 grams of cannabis and 6.47 grams of methamphetamine, both
-gross weights, from the two men. [@1,3,4,5,6] They also took a silver digital scale, Rp
+gross weights, from the two men. [@1,3,4,5,6,7] They also took a silver digital scale, Rp
 15,000 in cash and Rp 200,000 that police believe came from drug sales. [@1,3,4,5,6] A
 black Yamaha Vega motorcycle without a licence plate, which belonged to HI, was
 also seized. [@1,3,4,5,6]
