@@ -56,23 +56,18 @@ sources:
     url: https://haitiantimes.com/2021/07/02/trip-to-the-dominican-republic-turns-into-a-vacation-from-hell-weve-lost-everything/
     publisher: The Haitian Times
     date: 2021-07-02
-open_questions:
-  - CBS12 gives only the month of the August 2020 arrest; 2 August 2020 comes from The Haitian Times, and Travel Noire says the arrests came halfway through a trip that began in late July 2020.
-  - The weight of the marijuana comes only from the brothers' account relayed by Travel Noire, which says they allege a four-pound package was planted in the car; no official weight was published, so no kilogram figure is recorded.
-  - 'The marijuana has not been confirmed in a laboratory as cannabis in the opened accounts, and the package''s origin is contested: the mechanic and police account differs from the brothers'' account of a planted package.'
-  - CBS12 names the officer who said it was possible the drugs were in the car before the rental as Eduardo Pulinario, but no police statement or Dominican court record was opened.
-  - No court date or ruling on the trafficking charge is reported; the charges were not officially dropped and Lonelson Nalus remained in the Dominican Republic.
-  - Lonelson stayed behind and one of the brothers told Travel Noire the group also included an older brother and a friend who lives in the Dominican Republic, so the identities of all five detainees are not fully clear.
-  - The CBS12 article does not say when John and Lovensky's passports were returned or when they left the Dominican Republic beyond the Thursday of publication, 15 July 2021.
-  - No Dominican outlet account of the arrest or of the court handling was opened.
+  - title: Delray Beach brothers held in Dominican Republic prison proclaim their innocence
+    url: https://cbs12.com/news/local/three-delray-beach-brothers-held-in-dominican-republic-prison-proclaim-their-innocence
+    publisher: CBS12 (WPEC)
+    date: 2020-09-04
 ---
 
 John, Lovensky and Lonelson Nalus, brothers from Delray Beach, Florida, were
 arrested in Santo Domingo in August 2020 after a mechanic fixing their rental
 car said he found a package of marijuana in the engine compartment and accused
-them of drug trafficking. [@1] Police arrested all five men who had been
-travelling in the rental car, including the three brothers. [@1] All five were
-jailed, and the family says they were held for nearly a year. [@1] The Haitian
+them of drug trafficking. [@1,4] John Nalus was a star soccer player at Atlantic Community High School who had been due to start college on a full scholarship weeks before his arrest. [@4] Congresswoman Lois Frankel’s office said it was in touch with the United States Embassy in Santo Domingo about all three brothers. [@4] Lonelson Nalus is a United States citizen and the State Department confirmed it was aware of his arrest and in touch with him. [@4] Lovensky and John Nalus were born in Haiti and are permanent residents of the United States. [@4] The car was towed to a nearby rest stop, where a mechanic said he found a brick of marijuana wrapped in brown packaging in the engine compartment. [@4] The rental car carrying the five men broke down on a highway near Santo Domingo during a vacation. [@4] Police arrested all five men who had been
+travelling in the rental car, including the three brothers. [@1,4] Video showed at least three men who were not occupants of the car touching the package and at one point seemingly trying to walk away with it. [@4] At the rest stop, footage showed a heated argument involving the brothers, a tow-truck operator and two men who claimed they owned the car but whom the brothers said they did not recognize as the people they rented the car from. [@4] All five were
+jailed, and the family says they were held for nearly a year. [@1] Family friend and attorney Randy Kurtz said the offence carries a five-to-20-year penalty. [@4] The family said all five men had lawyers in the Dominican Republic, had a court date that Friday and faced three months of pretrial detention. [@4] The Haitian
 Times reported that three of the detained men were the brothers who live in
 Delray Beach and that the arrests took place on 2 August 2020. [@3]
 
@@ -87,7 +82,7 @@ videos of the arrest, the brothers repeatedly said the drugs were not theirs.
 [@1] A Dominican police officer, Eduardo Pulinario, confirmed to CBS12 News that
 a mechanic found the package of suspected drugs near the transmission and said
 it was possible the drugs had been in the engine compartment before the young
-men rented the car. [@1]
+men rented the car. [@1,4] Officer Pulinario added that he believed the mechanic had no motive to lie or plant the drugs. [@4]
 
 After months of rescheduled court dates, some of which prosecutors did not
 attend according to the family, a Dominican court returned the brothers'
@@ -99,4 +94,3 @@ the brothers to its website and placed the Dominican Republic on a list of
 countries wrongfully detaining Americans. [@1] John, who missed a college soccer
 scholarship while detained, said he did not regret the people he met and family
 he saw but regretted a trip of eight days that turned into a year. [@1]
-
