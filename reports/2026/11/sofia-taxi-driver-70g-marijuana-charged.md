@@ -146,6 +146,11 @@ sources:
     publisher: BurgasMedia
     date: 2026-11-18
     language: bg
+  - title: Таксиметров шофьор в София задържан с наркотици - Днес България
+    url: https://dnesbulgaria.com/%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2-%D1%88%D0%BE%D1%84%D1%8C%D0%BE%D1%80-%D1%81-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%BD-%D1%82%D0%B5%D1%81/
+    publisher: Днес България
+    date: 2026-11-18
+    language: bg
 open_questions:
     - No outcome of the prosecution's request to remand the man in custody was reported.
     - Whether the blood test confirmed drug use is not reported.
@@ -153,15 +158,15 @@ open_questions:
 ---
 
 Sofia police detained a 64-year-old taxi driver after his drug test came back
-positive; he was caught on Monday in a taxi he was driving in Sofia. [@1,2,4,6,9] Officers stopped the taxi he was driving for a check on Dimitar Manov Street after establishing his identity. [@2,3,4,5,8] The stop was made by detectives from the Fourth District Police Directorate. [@3] The specialised police operation took place on the evening of 16 November 2026, after police received information that the man was distributing drugs in the capital. [@2,3,4,8,10] In the
+positive; he was caught on Monday in a taxi he was driving in Sofia. [@1,2,4,6,9,12] Officers stopped the taxi he was driving for a check on Dimitar Manov Street after establishing his identity. [@2,3,4,5,8] The stop was made by detectives from the Fourth District Police Directorate. [@3] The specialised police operation took place on the evening of 16 November 2026, after police received information that the man was distributing drugs in the capital. [@2,3,4,8,10] In the
 taxi he kept nearly 40 ecstasy tablets, 16 packets of marijuana, a large
 quantity of crystals, powdered amphetamine, and 570 euros and 100 US dollars.
-[@1,2,3,4,5,6,7,8,9,11] He also carried another packet containing about 10 grams of marijuana on
-his person. [@1,2,3,4,5,6,7,8,9,11]
+[@1,2,3,4,5,6,7,8,9,11,12] He also carried another packet containing about 10 grams of marijuana on
+his person. [@1,2,3,4,5,6,7,8,9,11,12]
 
 An expert assessment put the seized narcotics at nearly 500 grams of
 methamphetamine, nearly 70 grams of marijuana, over 11 grams of ecstasy and more
-than 9 grams of amphetamine. [@1,2,3,4,5,6,8,9,10]
+than 9 grams of amphetamine. [@1,2,3,4,5,6,8,9,10,12]
 
 The detainee was already known to police and had a prior conviction, and the
 Sofia City Prosecutor's Office has brought charges against him. [@1,2,3,4,6,9] The pre-trial proceedings were opened under the Penal Code articles on narcotics and on driving after drug use. [@4,8] He had first been held under a police measure of up to 24 hours. [@2,3,4,8] The results
