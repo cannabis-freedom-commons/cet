@@ -53,6 +53,11 @@ media:
     media_url: https://vodstreaming01.video.globo.com/44/a2/d2/15230012_d22486be21dff6a91fd0354096f8f95d08fa87fc/15230012-360p_300k_h264-7619e960-c5c4-013f-331b-6a31df1af0c9.mp4
     publisher: G1
     caption: G1 ES video report on the seizure of more than 53 kilograms of marijuana sent through a transport company to Cachoeiro de Itapemirim.
+  - kind: photo
+    url: https://diaadiaes.com.br/pms-vao-a-transportadora-em-cachoeiro-e-encontram-53-quilos-de-maconha/
+    media_url: https://diaadiaes.com.br/wp-content/uploads/2026/11/apreensao-maconha-cachoeiro-1000x689.webp
+    publisher: Dia a Dia ES
+    caption: Police sniffer dog Kyara next to the seized marijuana tablets from the Cachoeiro freight-company seizure.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: e3c11ce75e945d29cf229e1568c65447
@@ -83,6 +88,11 @@ sources:
     publisher: G1
     date: 2026-11-18
     language: pt
+  - title: PMs vão a transportadora em Cachoeiro e encontram 53 quilos de maconha
+    url: https://diaadiaes.com.br/pms-vao-a-transportadora-em-cachoeiro-e-encontram-53-quilos-de-maconha/
+    publisher: Dia a Dia ES
+    date: 2026-11-19
+    language: pt
 open_questions:
     - The freight company was not named and no one was arrested, so who sent the parcels and who was to receive them is not known.
     - The weight is reported as approximately 53.335 kilograms, while other outlets give about 53.3 kilograms; the report uses 53.335.
@@ -93,22 +103,22 @@ open_questions:
 
 Teams of the Força Tática, the Military Police's tactical unit in the 9th
 Battalion, found about 53.335 kilograms of marijuana at a freight company in
-Cachoeiro de Itapemirim on Wednesday 18 November 2026. [@1,5] No one was arrested
-in the operation. [@3,5] Police had received information that people were using
+Cachoeiro de Itapemirim on Wednesday 18 November 2026. [@1,5,6] No one was arrested
+in the operation. [@3,5,6] Police had received information that people were using
 freight companies to send drugs from southern Brazil to Cachoeiro de Itapemirim.
-[@1,5]
+[@1,5,6]
 
 The marijuana was pressed into 67 tablets and hidden in three boxes sent through
-a transportadora, a freight and parcel company. [@1] The sniffer dog Kyara, of
-the battalion's K9 team, indicated the three suspect boxes. [@1,5] With the
+a transportadora, a freight and parcel company. [@1,6] The sniffer dog Kyara, of
+the battalion's K9 team, indicated the three suspect boxes. [@1,5,6] With the
 manager's authorisation the officers opened the parcels and found the 67
-tablets, which weighed about 53.335 kilograms. [@1,5] The company's name was not
+tablets, which weighed about 53.335 kilograms. [@1,5,6] The company's name was not
 released, at the company's own request. [@1]
 
 Officers then went to the address given on the parcels to try to identify the
-recipients. [@1] A resident there said he did not know the material and that the
-people named as addressees were not at the property. [@1,5] The marijuana was
-taken to the 7th Regional Police Station in Cachoeiro de Itapemirim. [@1,5] The Civil Police will investigate the case to identify the senders in southern Brazil and those responsible for receiving the drug in Espírito Santo. [@5]
+recipients. [@1,6] A resident there said he did not know the material and that the
+people named as addressees were not at the property. [@1,5,6] The marijuana was
+taken to the 7th Regional Police Station in Cachoeiro de Itapemirim. [@1,5,6] The Civil Police will investigate the case to identify the senders in southern Brazil and those responsible for receiving the drug in Espírito Santo. [@5]
 
 The 9th Battalion said the seizure was among the most significant it had made
 this year. [@1] The commander of the 9th Battalion, lieutenant-colonel Nério,
