@@ -46,6 +46,11 @@ sources:
     publisher: Visor Notícias
     date: 2026-11-18
     language: pt
+  - title: Polícia Militar combate tráfico de de drogas na modalidade disk entrega em Camboriú
+    url: https://www.noticiaja.com/noticia/policia-militar-combate-trafico-de-de-drogas-na-modalidade-disk-entrega-em-camboriu
+    publisher: Notícia Já
+    date: 2026-11-18
+    language: pt
 open_questions:
   - No date is given for the operation; 18 November 2026 is the publication date of both accounts and stands in for the incident date.
   - No weight was published for the two and a half tablets of marijuana, so no kilogram figure is recorded.
@@ -55,29 +60,39 @@ open_questions:
   - No charge, custody decision or court outcome was reported.
   - No laboratory confirmation of the seized substances was reported.
   - Both accounts reproduce the 12th Military Police Battalion's statement and are not independent reporting.
+media:
+  - kind: photo
+    url: https://www.noticiaja.com/noticia/policia-militar-combate-trafico-de-de-drogas-na-modalidade-disk-entrega-em-camboriu
+    media_url: https://www.noticiaja.com/uploads/images/2026/11/policia-militar-combate-trafico-de-de-drogas-na-modalidade-disk-entrega-em-camboriu.jpg
+    publisher: Notícia Já
+    caption: 'Marijuana tablets, cocaine packets and ecstasy pills from the house on Rua Monte Sião, laid out with a Military Police badge, in the battalion''s handout photo. Photo: Comunicação Social do 12º BPM'
+  - kind: video
+    url: https://www.noticiaja.com/noticia/policia-militar-combate-trafico-de-de-drogas-na-modalidade-disk-entrega-em-camboriu
+    media_url: https://www.noticiaja.com/uploads/medias/2026/11/post-kjbijnfp.mp4
+    publisher: Notícia Já
+    caption: 'The 12th Military Police Battalion''s video statement on the Monte Alegre operation and the drugs seized on Rua Monte Sião. Video: Comunicação Social do 12º BPM'
 ---
 
 Military police in Camboriú arrested a man and seized marijuana, cocaine and
 ecstasy after an operation against a motorcycle drug-delivery service in the
-Monte Alegre neighbourhood. [@1] The 12th Military Police Battalion handled the
+Monte Alegre neighbourhood. [@1,3] The 12th Military Police Battalion handled the
 case. [@1] Officers acted on information that drugs were being sold through a
-disk-entrega, a service that delivers orders by motorcycle. [@1] Police watched
+disk-entrega, a service that delivers orders by motorcycle. [@1,3] Police watched
 a man leave a house with a backpack and ride to Rua Monte Sião, where he handed
-two tablets of drugs to another person. [@2]
+two tablets of drugs to another person. [@2,3]
 
 The motorcyclist refused the order to stop and fled through the streets of the
-Monte Alegre neighbourhood. [@1] Police said he rode against traffic and
-performed dangerous manoeuvres during the chase. [@1] He returned to the house
+Monte Alegre neighbourhood. [@1,3] Police said he rode against traffic and
+performed dangerous manoeuvres during the chase. [@1,3] He returned to the house
 and ran into a wooded area behind the property, where other units and the Águia
-07 helicopter searched for him without success. [@2]
+07 helicopter searched for him without success. [@2,3]
 
 In the house on Rua Monte Sião police found two and a half tablets of marijuana,
 79 packets of cocaine and 25 ecstasy units, along with material used to divide
-and package the drugs. [@1] Police identified a second man involved in the case
+and package the drugs. [@1,3] Police identified a second man involved in the case
 and arrested him at his workplace, where he had gone after leaving the house.
-[@1] According to the battalion, the man admitted involvement in selling the
-drugs. [@2] Searches in the wooded area found traces of drugs and packaging that
-smelled of marijuana. [@1] The arrested man was taken to the Civil Police
+[@1,3] According to the battalion, the man admitted involvement in selling the
+drugs. [@2,3] Searches in the wooded area found traces of drugs and packaging that
+smelled of marijuana. [@1,2] The arrested man was taken to the Civil Police
 station with the seized material, and the motorcyclist had not been arrested
-when the battalion's account ended. [@1]
-
+when the battalion's account ended. [@1,3]
