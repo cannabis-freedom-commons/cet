@@ -92,17 +92,18 @@ sources:
     publisher: Andalucía Información
     date: 2026-11-18
     language: es
-open_questions:
-    - No date is given for the search or the arrests; 18 November 2026 is the date of the National Police statement and of publication.
-    - No estimate of the seized drugs' street value was published.
-    - No charges beyond the investigation stage or court outcome were reported.
+  - title: Tres detenidos tras desmantelar un 'club coffee shop' en Ronda en el que se traficaba con drogas
+    url: https://www.andaluciainformacion.es/ronda/tres-detenidos-desmantelar-asociacion-ronda-que-traficaba-drogas/202611181428483541005.html
+    publisher: Andalucía Información
+    date: 2026-11-18
+    language: es
 ---
 
 Spain's National Police arrested three people aged 25, 28 and 29 in Ronda, in
 Málaga province, on suspicion of drug trafficking after dismantling an
-association that allegedly used its premises to sell drugs. [@1,3,4,5,7,8] The premises
+association that allegedly used its premises to sell drugs. [@1,3,4,5,7,8,9] The premises
 apparently ran as a cannabis consumption club and was allegedly used to conceal
-a profit-making drug distribution business. [@1,3,4,5] Police said the activity
+a profit-making drug distribution business. [@1,3,4,5,9] Police said the activity
 reached a wide clientele that allegedly included minors. [@1,3,4,5,7] The investigation
 was run by officers of the Local Operational Group at the National Police
 station in Ronda, with the Citizen Attention Group and Forensic Police, and the
@@ -114,9 +115,9 @@ while others stayed longer to consume inside. [@1,3,4] The premises stood at str
 clients as they left and seized doses of hashish and marijuana from them,
 drawing up drug seizure reports. [@1,3,4,5] With judicial authorisation, officers
 entered and searched the premises and seized 470 grams of hashish and 740 grams
-of marijuana in various containers and formats. [@1,3,4,5,7,8] They also seized 130 euros
+of marijuana in various containers and formats. [@1,3,4,5,7,8,9] They also seized 130 euros
 in cash and equipment allegedly used to prepare and distribute the drugs,
-including a scale, cutting knives and pieces of plastic. [@1,3,4,5,7,8]
+including a scale, cutting knives and pieces of plastic. [@1,3,4,5,7,8,9]
 
 One of those in charge was arrested during the search and police later arrested
 two more people allegedly linked to the activity, all aged 25, 28 and 29. [@2,3,4,5,7,8]
