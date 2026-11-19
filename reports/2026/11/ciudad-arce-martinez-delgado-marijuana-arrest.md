@@ -66,25 +66,23 @@ sources:
     publisher: Diario La Página
     date: 2026-11-18
     language: es
-open_questions:
-  - No weight, number of portions or estimated value was published for the marijuana, so no cannabis quantity is recorded.
-  - The exact time of the night operation and the precise spot in Ciudad Arce were not given, so coordinates are for the district centre.
-  - No plea, detention measure or court outcome beyond referral to the Attorney General's Office and the competent court was reported.
-  - The same night-time roundup also reports the arrest of Juan José Jiménez Menéndez in La Libertad Oeste, which is a different event covered separately and left out here.
-  - Wider roundups report a third arrest, that of Kevin Mauricio Córdova Ávalos, which is a different event left out here.
-  - All four accounts reproduce the same PNC report, so they are not independent reporting.
+  - title: Detienen a joven con varias porciones de marihuana en una mochila en Atiquizaya
+    url: https://diario.elmundo.sv/nacionales/detienen-a-joven-con-varias-porciones-de-marihuana-en-una-mochila-en-atiquizaya
+    publisher: Diario El Mundo
+    date: 2026-11-19
+    language: es
 ---
 
 Officers of the National Civil Police (PNC) captured two men in separate
 procedures on the night of Tuesday 17 November in the department of La Libertad.
 [@1] One of those detained was 26-year-old Edgar Alexander Martínez Delgado,
 captured in the district of Ciudad Arce, La Libertad Centro, for alleged
-unlawful drug trafficking. [@2] The motorcyclist appeared nervous on observing
+unlawful drug trafficking. [@2,5] The motorcyclist appeared nervous on observing
 the officers and tried to escape aboard the motorcycle, but officers intercepted
 him before he achieved his objective. [@1]
 
 During the intervention officers seized marijuana, a mobile telephone and the
-motorcycle in which he was travelling. [@1] One account described the seized
+motorcycle in which he was travelling. [@1,5] One account described the seized
 marijuana as portions of marijuana. [@4] After the arrest he was to be placed at
 the disposal of the Attorney General's Office to be brought before the
 corresponding court to face justice for the alleged offence. [@2]
@@ -92,4 +90,3 @@ corresponding court to face justice for the alleged offence. [@2]
 The Ciudad Arce detention was reported subsequently during the same night-time
 operation. [@3] Police said both detentions would be referred for the offence of
 unlawful drug trafficking. [@1]
-
