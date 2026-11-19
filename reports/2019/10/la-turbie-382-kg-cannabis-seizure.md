@@ -68,6 +68,11 @@ sources:
     publisher: France 3 Provence-Alpes-Côte d'Azur
     date: 2019-10-23
     language: fr
+  - title: 'Alpes-Maritimes : les douanes offrent aux Restos du Cœur et à Montjoye les 300 rouleaux de papier cadeau et 4 000 sacs qui dissimulaient 382 kilos de cannabis saisis en 2019'
+    url: https://policeetrealites.com/2026/11/19/alpes-maritimes-les-douanes-offrent-aux-restos-du-coeur-et-a-montjoye-les-300-rouleaux-de-papier-cadeau-et-4-000-sacs-qui-dissimulaient-382-kilos-de-cannabis-saisis-en-2019/
+    publisher: Police & Réalités
+    date: 2026-11-19
+    language: fr
 open_questions:
     - Whether the seizure total was 382 kg or 383 kg is unclear from the differing figures.
     - The exact calendar day of the October 2019 seizure remains unconfirmed beyond a Monday seizure followed by a Wednesday conviction.
@@ -77,19 +82,19 @@ open_questions:
 
 In October 2019 customs officers at the La Turbie toll in Alpes-Maritimes
 stopped a truck carrying 382 kg of cannabis hidden under rolls of wrapping paper
-and gift bags. [@1,2] The seized cannabis was given a counter-value of 766 800. [@3] The seized drug was cannabis resin. [@2] The cannabis was hidden in a Spanish refrigerated truck.
+and gift bags. [@1,2,4] The seized cannabis was given a counter-value of 766 800. [@3] The seized drug was cannabis resin. [@2] The cannabis was hidden in a Spanish refrigerated truck.
 [@1] The truck was travelling from Spain toward Italy when checked by the Menton surveillance brigade. [@3] The driver first told the customs officers he had nothing to declare, but
 the transport documents listed bathtubs, churros paste, medical equipment,
 wrapping paper and gift bags. [@1]
 
 During a thorough search the sniffer dogs marked pallets placed beneath the gift
 bags, behind which were 11 « valises marocaines ». [@1] The cache was found with the help of sniffer dog Orson. [@2] The driver was convicted
-of transporting narcotic products. [@1] The driver was sentenced to five years in prison, a fine equal to the value of the goods, and confiscation of the cargo and the truck. [@3] The seizure also included 300 rolls of
-wrapping paper and more than 4,000 gift bags. [@1,2] The wrapping paper and gift
+of transporting narcotic products. [@1,4] The driver was sentenced to five years in prison, a fine equal to the value of the goods, and confiscation of the cargo and the truck. [@3] The seizure also included 300 rolls of
+wrapping paper and more than 4,000 gift bags. [@1,2,4] The wrapping paper and gift
 bags were described as cover goods meant to deceive the customs officers. [@1]
 
-The cover goods had remained in customs storage since the seizure. [@1] The rolls and pouches were new and protected under hermetic film that kept them from any contact with the drugs, so customs offered them to charities instead of paying for destruction. [@2] For the
+The cover goods had remained in customs storage since the seizure. [@1,4] The rolls and pouches were new and protected under hermetic film that kept them from any contact with the drugs, so customs offered them to charities instead of paying for destruction. [@2] For the
 2026 holiday season the customs administration gave the goods to the Restos du
-Cœur and the Montjoye association, both of which agreed. [@1,2] On 19 November
+Cœur and the Montjoye association, both of which agreed. [@1,2,4] On 19 November
 2026 the goods were handed over at a Restos du Cœur warehouse in
 Saint-Laurent-du-Var. [@1]
