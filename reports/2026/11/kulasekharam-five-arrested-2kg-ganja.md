@@ -45,25 +45,31 @@ sources:
     publisher: தினமணி
     date: 2026-11-18
     language: ta
+  - title: Five held with 2.50 kg ganja
+    url: https://www.thehindu.com/news/cities/Madurai/nivfive-held-with-250-kg-ganja-in-kulasekaram-police-limits/article71721027.ece
+    publisher: The Hindu
+    date: 2026-11-19
 open_questions:
   - The article dates the arrest only as 'Wednesday'; 18 November 2026 is inferred because that was the Wednesday of its publication date.
   - No case number, charge, remand or court outcome was reported; the five were questioned after their arrest.
   - No value estimate or laboratory confirmation of the ganja was published.
   - Only one outlet could be found reporting this arrest, so no independent account corroborates it.
+  - The weight of the seized ganja is given as both 2.05 kilograms and 2.50 kilograms, and the correct weight is unclear.
+  - The correct spellings of two suspects' names and native places are unclear, with variations including Mohammed Niban for Mohamed Rifan and Kollencode for Kollangode.
+  - It is unclear whether a motorcycle and an electronic weighing scale were seized alongside the ganja.
 ---
 
 Police near Kulashekharam in Kanyakumari district, Tamil Nadu, arrested five
 people, one of them a 19-year-old college student, on Wednesday after finding
-them in possession of ganja (cannabis). [@1] The patrol was led by Kulashekharam
+them in possession of ganja (cannabis). [@1,2] The patrol was led by Kulashekharam
 inspector Vetrivel Rajan and took place in the Pullathur area near Ponmanai.
 [@1] Officers searched the group after they were seen standing suspiciously at
-the spot and found 2 kg 50 g, or 2.05 kilograms, of ganja with them. [@1] Police
-seized the drug, arrested the five and questioned them. [@1]
+the spot and found 2 kg 50 g, or 2.05 kilograms, of ganja with them. [@1,2] Police
+seized the drug, arrested the five and questioned them. [@1] A case has been registered at Kulasekaram police station and further investigations are on. [@2]
 
 Those questioned were Satheesh, 26, a welding worker from Kollangode
 Semmankalavilai; Dharshin Raja, 19, of Cherukol Kadamanaanguzhi; Mohamed Rifan,
 19, of Kalvettanguzhi in the Kulashekharam police station area; Sujith Kumar,
 19, a college student from Theeppanchankalai in Ponmanai; and Abhijith, 27, an
-auto driver from Adaikkakuzhi. [@1] Officers also seized one motorcycle and an
+auto driver from Adaikkakuzhi. [@1,2] Officers also seized one motorcycle and an
 electronic weighing scale from them. [@1]
-
