@@ -85,6 +85,11 @@ sources:
     publisher: Bahia Notícias
     date: 2026-11-18
     language: pt
+  - title: Operação AEQUUS prende dois homens e desarticula estufas de maconha na Bahia
+    url: https://www.falavoce.com.br/noticias/11035-2026/11/18/operacao-aequus-prende-dois-homens-e-desarticula-estufas-de-maconha-na-bahia
+    publisher: Fala Você Notícias
+    date: 2026-11-18
+    language: pt
 open_questions:
     - No count of plants and no weight or value for the cannabis seized was published; the drugs were described by type only.
     - Police did not say which of the two men was arrested in Planaltino and which in Maracás.
@@ -98,19 +103,19 @@ open_questions:
 Two men aged 25 and 28 were arrested on the morning of Wednesday 18 November
 2026 in Operação AEQUUS, an operation by the Bahia Civil Police against
 skunk-type cannabis cultivation and drug trafficking in Planaltino, Maracás and
-Jequié, in south-west Bahia. [@1,4,5,6] Officers served two preventive arrest
+Jequié, in south-west Bahia. [@1,4,5,6,7] Officers served two preventive arrest
 warrants, one in Planaltino and one in Maracás, and four search-and-seizure
 warrants in the same municipalities. [@1,4,5,6] During the searches police dismantled
 two cannabis greenhouses in Planaltino, one installed indoors and the other in
-an outdoor area. [@1,4,5,6]
+an outdoor area. [@1,4,5,6,7]
 
 At the site they seized plants and several drugs, including portions of skunk,
 other varieties of marijuana, ICE (a cannabis extract), MDMA, LSD microdots and
-ecstasy. [@1,4,5,6] Officers also seized four precision scales, four mobile phones and
-a notebook. [@3,4,5,6]
+ecstasy. [@1,4,5,6,7] Officers also seized four precision scales, four mobile phones and
+a notebook. [@3,4,5,6,7]
 
 The investigation began in July 2026 and identified members of a criminal group,
-their division of tasks and the way they worked. [@1,4,5,6] According to the Civil
+their division of tasks and the way they worked. [@1,4,5,6,7] According to the Civil
 Police, the suspects kept greenhouses for growing marijuana and used social
 media to offer the drugs for sale. [@1,5] Investigators also found that the group
 sold different types of drugs, including marijuana, hashish and synthetic
@@ -118,11 +123,11 @@ substances, with intermediaries carrying and delivering the products. [@1,4,5]
 
 The two men were taken to a police unit, where the preventive arrest warrants
 were served and they were also booked in flagrante. [@1,5] They are being
-investigated for drug trafficking and criminal association for trafficking. [@1,5,6]
+investigated for drug trafficking and criminal association for trafficking. [@1,5,6,7]
 After the legal procedures the suspects remained in custody and at the disposal
 of the courts. [@1,4,5,6] The operation was carried out by the 11th Drug Enforcement
 Precinct of Jequié, a unit linked to the state anti-narcotics department Denarc.
 [@2,5,6] The operation counted on the support of the territorial police stations of Jequié and Jaguaquara, the Jequié women's police station (Deam), the Jequié theft and robbery unit (DRFR) and the tactical support group Gatti/Central, all units of the 9th regional interior police coordination (9ª Coorpin) in Jequié. [@4,5] Aequus is part of Operação Narke VII, coordinated nationally by the Justice
 and Public Security Ministry through its directorate of integrated operations
 and intelligence within the Renarc network of specialised units, and of the
-Bahia Civil Police's Operação Malhas da Lei. [@2,6]
+Bahia Civil Police's Operação Malhas da Lei. [@2,6,7]
