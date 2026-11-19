@@ -69,14 +69,10 @@ sources:
     url: https://timesofindia.indiatimes.com/city/chennai/two-women-arrested-for-supplying-drugs-to-puzhal-prison-inmate/articleshow/135968620.cms
     publisher: The Times of India
     date: 2026-11-18
-open_questions:
-    - One account reports 18 grams of cocaine powder while others reported 28 grams of white powder, so the weight and nature of the non-cannabis powder remain unconfirmed.
-    - The lead gives the two women's ages as 28 and 30 while the body identifies them as 38 and 20, so their ages remain uncertain.
-    - No plea, charge or trial date has been reported for Kanagaraj, Kumari or Sadhana.
-    - The Times of India gives Kanagaraj's age as 50 while the earlier Tamil accounts give 51.
-    - The Times of India reports 300 packets of ganja seized from Kanagaraj while the earlier accounts give about 313 grams; the packet count and the weight are not reconciled.
-    - The Times of India places the women's arrest on Tuesday 17 November, while the Dinamalar account places it on the morning of 18 November.
-    - The women's role as suppliers, the intended recipient and the ₹10,000 payment rest on police accounts repeated by local outlets; no court has tested them.
+  - title: Bid to smuggle drugs into Puzhal jail, two held
+    url: https://www.newindianexpress.com/cities/chennai/2026/Nov/19/bid-to-smuggle-drugs-into-puzhal-jail-two-held
+    publisher: The New Indian Express
+    date: 2026-11-19
 ---
 
 Kanagaraj worked as a nursing assistant at Puzhal Central Prison in Chennai and
@@ -85,11 +81,11 @@ entrance yesterday evening. [@1,3,5] During the routine check at about 6:25 pm a
 the prison's main entrance, staff found a parcel concealed in his underwear.
 [@2,4,5] APC News Tamil identifies him as 51-year-old C. K. Kanagaraj of the Puzhal
 prison staff quarters, working as a male nursing assistant at Puzhal Central
-Prison-2. [@2,4] Kanagaraj had been transferred from Coimbatore Central Prison to Puzhal six months before the arrest. [@7]
+Prison-2. [@2,4] Kanagaraj had been transferred from Coimbatore Central Prison to Puzhal six months before the arrest. [@7,8]
 
 Search of the parcel recovered about 313 grams of ganja, 28 grams of white
 powder wrapped in black tape, a kumkum packet and a sandalwood perfume bottle.
-[@2,4,5] Police valued the ganja seized from Kanagaraj at ₹2 lakh. [@7] Kanagaraj told investigators that two unidentified women on a blue scooter
+[@2,4,5] Police valued the ganja seized from Kanagaraj at ₹2 lakh. [@7,8] Kanagaraj told investigators that two unidentified women on a blue scooter
 gave him the parcel near the Kavangarai bus stop at about 6 pm. [@2]
 
 He said the women asked him to hand the parcel to the prisoner in Block No. 4,
@@ -98,5 +94,5 @@ Arulkumaran, the M3 Puzhal police station registered a case under the Narcotic
 Drugs and Psychotropic Substances Act. [@2,3]
 
 Police arrested Kanagaraj for attempting to smuggle drugs into the prison and
-are continuing to question him. [@2,3,4,5] He was produced in court and then lodged as a prisoner in the same Puzhal prison where he had worked. [@3] Police are also investigating who the two
-women were and which prisoner was to receive the parcel. [@2] Police arrested Kumari and Sadhana on the morning of 18 November as they stood at the entrance of Puzhal prison and continued questioning them. [@6] Kumari and Sadhana were produced before a magistrate in Chennai and remanded in judicial custody. [@7] The intended recipient was 40-year-old Sethuraman of Mylapore Rotary Nagar, who had been lodged in the prison two months earlier after arrest by Periyamedu police in a drug case. [@6,7] Kanagaraj had obtained the drugs from Sethuraman's wife Kumari, 38, and relative Sadhana, 20, and had taken a 10,000-rupee bribe to deliver them to Sethuraman. [@6,7] Sadhana and her husband paid Kanagaraj ₹10,000 to supply the drugs to Sethuraman. [@7]
+are continuing to question him. [@2,3,4,5,8] He was produced in court and then lodged as a prisoner in the same Puzhal prison where he had worked. [@3] Police are also investigating who the two
+women were and which prisoner was to receive the parcel. [@2] Police arrested Kumari and Sadhana on the morning of 18 November as they stood at the entrance of Puzhal prison and continued questioning them. [@6,8] Kumari and Sadhana were produced before a magistrate in Chennai and remanded in judicial custody. [@7,8] The intended recipient was 40-year-old Sethuraman of Mylapore Rotary Nagar, who had been lodged in the prison two months earlier after arrest by Periyamedu police in a drug case. [@6,7,8] Kumari had visited Sethuraman in prison. [@8] Kanagaraj had obtained the drugs from Sethuraman's wife Kumari, 38, and relative Sadhana, 20, and had taken a 10,000-rupee bribe to deliver them to Sethuraman. [@6,7] Sadhana and her husband paid Kanagaraj ₹10,000 to supply the drugs to Sethuraman. [@7,8]
