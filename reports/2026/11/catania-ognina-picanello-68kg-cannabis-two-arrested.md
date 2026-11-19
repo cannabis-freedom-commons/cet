@@ -72,6 +72,11 @@ sources:
     publisher: Giornale di Sicilia
     date: 2026-11-18
     language: it
+  - title: 'Maxi blitz antidroga tra Ognina e Picanello: due arresti e 6,8 kg sequestrati'
+    url: https://www.freepressonline.it/2026/11/18/maxi-blitz-antidroga-tra-ognina-e-picanello-due-arresti-e-68-kg-sequestrati/
+    publisher: Free Press Online
+    date: 2026-11-18
+    language: it
 open_questions:
   - No date is given for the two searches or the arrests; 18 November 2026 is the publication date of the reports and is used as the incident date.
   - The drugs were described as marijuana and hashish; no laboratory confirmation was reported.
@@ -83,20 +88,20 @@ open_questions:
 ---
 
 Police in Catania arrested two men from the city, aged 23 and 61, on suspicion
-of possessing drugs for sale. [@2,4,5] The 23-year-old was stopped in the
+of possessing drugs for sale. [@2,4,5,6] The 23-year-old was stopped in the
 Ognina-Rotolo district after officers saw him leave his flat to meet a buyer,
-who fled at the sight of the patrols. [@1,4]
+who fled at the sight of the patrols. [@1,4,6]
 
-He handed over 6 grams of marijuana kept in his jacket pocket. [@1,4] A search of
+He handed over 6 grams of marijuana kept in his jacket pocket. [@1,4,6] A search of
 his first-floor flat found another 264 grams of marijuana in 59 doses behind the
 kitchen sofa, with packaging material, cash and handwritten notes recording the
-dealing accounts. [@1,4]
+dealing accounts. [@1,4,6]
 
 In Picanello the 61-year-old was stopped as he opened a steel door on the
 stairway and a second armoured entrance to a fourth-floor attic used as a store.
-[@1,4,5] The attic was a fortified store behind double steel and armoured doors.
-[@3,4] Inside police seized 6 kg of marijuana, in vacuum bags, jars, wrappers and
-127 ready doses, and five blocks of hashish weighing 500 grams in total. [@1,4,5]
-The two seizures amounted to more than 6.8 kg of marijuana and hashish. [@2,4,5] The
+[@1,4,5,6] The attic was a fortified store behind double steel and armoured doors.
+[@3,4,6] Inside police seized 6 kg of marijuana, in vacuum bags, jars, wrappers and
+127 ready doses, and five blocks of hashish weighing 500 grams in total. [@1,4,5,6]
+The two seizures amounted to more than 6.8 kg of marijuana and hashish. [@2,4,5,6] The
 duty prosecutor ordered both suspects taken to prison pending a validation
-hearing before the investigating judge. [@1,4]
+hearing before the investigating judge. [@1,4,6]
