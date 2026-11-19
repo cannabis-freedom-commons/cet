@@ -55,6 +55,10 @@ sources:
     url: https://www.ktre.com/2026/10/01/nacogdoches-police-search-waterford-drive-home-yields-large-amount-marijuana-guns
     publisher: KTRE
     date: 2026-10-01
+  - title: Nacogdoches Police Department Executes Search Warrant
+    url: https://nacnewsnow.com/article/nacogdoches-police-department-executes-search-warrant
+    publisher: NacNewsNow
+    date: 2026-10-02
 open_questions:
   - No exact marijuana weight beyond more than 50 pounds was published, so 22.68 kg is the converted lower bound.
   - The controlled substances behind the two non-marijuana felony charges were not identified.
@@ -64,7 +68,7 @@ open_questions:
 ---
 
 Nacogdoches police raided a home in the 10 block of Waterford Drive in
-Nacogdoches around 7:30 a.m. on Thursday, 1 October 2026. [@1] Officers arrested
+Nacogdoches around 7:30 a.m. on Thursday, 1 October 2026. [@1,3] Officers arrested
 33-year-old Cameron Story at the home on three felony charges. [@1] He was
 charged with manufacture or delivery of a controlled substance, possession of
 more than 50 pounds of marijuana and felony possession of a controlled
@@ -72,9 +76,8 @@ substance, according to jail records. [@1] He remained held without bail on
 Friday after the Thursday drug bust at his home on Waterford Drive. [@1]
 
 Police said they seized a large amount of marijuana and firearms from the home.
-[@1] The marijuana amounted to more than 50 pounds (about 22.68 kilograms). [@1]
+[@1,3] The marijuana amounted to more than 50 pounds (about 22.68 kilograms). [@1]
 KTRE likewise reported that the search of the Waterford Drive residence yielded
 weapons and a large amount of marijuana. [@2] KTRE reported Story was being held
 on third-degree possession of marijuana. [@2] KTRE said police served the search
 warrant at 7:30 a.m. Thursday. [@2]
-
