@@ -19,6 +19,16 @@ media:
     media_url: https://www.customs.gov.by/upload/resize_cache/iblock/9db/1700_1135_273f073bcb5eafcd0170050e0e787c090/e8hluqpec26pthuan7seop1w0x1huo61.jpg
     publisher: State Customs Committee of Belarus
     caption: 'The hashish found in the gearbox housing of the vehicle arriving from Poland, in a photograph published by the State Customs Committee. Photo: State Customs Committee of Belarus'
+  - kind: photo
+    url: https://reform.news/belarusskaja-tamozhnja-nashla-v-korobke-peredach-2-kg-gashisha/
+    media_url: https://reform.news/wp-content/uploads/2026/07/photo_2026-07-11_10-45-08-2.jpg
+    publisher: REFORM.news
+    caption: 'The hashish concealed in the gearbox housing brought from Poland, in a customs handout photo. Photo: t.me/customs_bel'
+  - kind: photo
+    url: https://reform.news/belarusskaja-tamozhnja-nashla-v-korobke-peredach-2-kg-gashisha/
+    media_url: https://reform.news/wp-content/uploads/2026/07/photo_2026-07-11_10-45-07.jpg
+    publisher: REFORM.news
+    caption: 'The hashish concealed in the gearbox housing brought from Poland, in a customs handout photo. Photo: t.me/customs_bel'
 details:
   activity: [possession]
   agency_types: [customs]
@@ -68,30 +78,26 @@ sources:
     publisher: БЕЛТА
     date: 2026-07-11
     language: ru
-open_questions:
-  - No separate date for the interception is given; 11 July 2026 is the publication date and is used as the incident date.
-  - The weight is stated only as about 2 kg, so the exact weighed quantity is not known.
-  - No interception place beyond the Polish border is named, so only the country is recorded.
-  - The sources mention detainees in the plural but give no number held, so no arrested figure is recorded.
-  - It is not clear whether the two minors described as intended recipients faced any measures.
-  - Sources differ on whether the hiding place was a motorcycle gearbox casing or a car gearbox.
-  - No value was published for the hashish.
-  - No later charge, trial or sentence beyond the opened case was located.
+  - title: Беларусская таможня нашла в коробке передач 2 кг гашиша
+    url: https://reform.news/belarusskaja-tamozhnja-nashla-v-korobke-peredach-2-kg-gashisha/
+    publisher: REFORM.news
+    date: 2026-07-11
+    language: ru
 ---
 
 Officers of Belarus's Operational Customs seized about 2 kg of hashish brought
-into the country from Poland. [@1,5] The hashish had been hidden inside a gearbox
-housing. [@1,5] The couriers said they had taken the box from an unknown person in
+into the country from Poland. [@1,5,6] The hashish had been hidden inside a gearbox
+housing. [@1,5,6] The couriers said they had taken the box from an unknown person in
 the neighbouring country who asked them to pass goods for personal use to a man
-in Minsk, and claimed they did not know it contained drugs. [@2,5] Sputnik
+in Minsk, and claimed they did not know it contained drugs. [@2,5,6] Sputnik
 described the concealment as the casing of a gearbox for a motorcycle. [@3]
 Grodno Plus said the detainees claimed they did not know the contents and that
 the goods were for a man in Minsk. [@4]
 
 Investigators established that the intended recipients of the consignment were
-two minors. [@1,5] A criminal case was opened against one of the people who
+two minors. [@1,5,6] A criminal case was opened against one of the people who
 brought in the hashish under part 2 of article 328-1 of Belarus's Criminal Code.
-[@1,5] The article carries up to 10 years' imprisonment. [@1]
+[@1,5] The article carries up to 10 years' imprisonment. [@1,6]
 
 Operational Customs said further measures and urgent investigative actions were
-under way to identify all members of a transnational criminal group. [@1]
+under way to identify all members of a transnational criminal group. [@1,6]
