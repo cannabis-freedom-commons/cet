@@ -76,6 +76,16 @@ media:
     media_url: https://m4.netinfo.bg/media/images/51414/51414509/655-402-zaloviha-taksimetrov-shofior-s-goliamo-kolichestvo-narkotici-v-sofiia.jpg
     publisher: Vesti.bg
     caption: 'Euro and US dollar banknotes found in the taxi, in a police handout photo. Photo: СДВР'
+  - kind: photo
+    url: https://www.mvr.bg/press/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/94511
+    media_url: https://www.mvr.bg/upload/348173/20261118_112301.jpg?w=320
+    publisher: Министерство на вътрешните работи (МВР)
+    caption: 'Third police handout published with the Interior Ministry statement on the Sofia taxi drug seizure. Photo: МВР / СДВР'
+  - kind: photo
+    url: https://www.mvr.bg/press/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/94511
+    media_url: https://www.mvr.bg/upload/348174/20261118_112332.jpg?w=320
+    publisher: Министерство на вътрешните работи (МВР)
+    caption: 'Fourth police handout published with the Interior Ministry statement on the Sofia taxi drug seizure. Photo: МВР / СДВР'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 886ae5e22a269c3011077b17f59f73b9
@@ -126,6 +136,16 @@ sources:
     publisher: Vesti.bg
     date: 2026-11-18
     language: bg
+  - title: Криминалисти от столичното Четвърто РУ задържаха 64-годишен шофьор на такси при акция срещу наркоразпространението
+    url: https://www.mvr.bg/press/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/94511
+    publisher: Министерство на вътрешните работи (МВР)
+    date: 2026-11-18
+    language: bg
+  - title: 500 грама метамфетамин намериха в колата на таксиметров шофьор в София
+    url: https://burgasmedia.com/news/500-grama-metamfetamin-nameriha-v-kolata-na-taksimetrov-shofor-v-sofiya
+    publisher: BurgasMedia
+    date: 2026-11-18
+    language: bg
 open_questions:
     - No outcome of the prosecution's request to remand the man in custody was reported.
     - Whether the blood test confirmed drug use is not reported.
@@ -133,18 +153,18 @@ open_questions:
 ---
 
 Sofia police detained a 64-year-old taxi driver after his drug test came back
-positive; he was caught on Monday in a taxi he was driving in Sofia. [@1,2,4,6,9] Officers stopped the taxi he was driving for a check on Dimitar Manov Street after establishing his identity. [@2,3,4,5,8] The stop was made by detectives from the Fourth District Police Directorate. [@3] The specialised police operation took place on the evening of 16 November 2026, after police received information that the man was distributing drugs in the capital. [@2,3,4,8] In the
+positive; he was caught on Monday in a taxi he was driving in Sofia. [@1,2,4,6,9] Officers stopped the taxi he was driving for a check on Dimitar Manov Street after establishing his identity. [@2,3,4,5,8] The stop was made by detectives from the Fourth District Police Directorate. [@3] The specialised police operation took place on the evening of 16 November 2026, after police received information that the man was distributing drugs in the capital. [@2,3,4,8,10] In the
 taxi he kept nearly 40 ecstasy tablets, 16 packets of marijuana, a large
 quantity of crystals, powdered amphetamine, and 570 euros and 100 US dollars.
-[@1,2,3,4,5,6,7,8,9] He also carried another packet containing about 10 grams of marijuana on
-his person. [@1,2,3,4,5,6,7,8,9]
+[@1,2,3,4,5,6,7,8,9,11] He also carried another packet containing about 10 grams of marijuana on
+his person. [@1,2,3,4,5,6,7,8,9,11]
 
 An expert assessment put the seized narcotics at nearly 500 grams of
 methamphetamine, nearly 70 grams of marijuana, over 11 grams of ecstasy and more
-than 9 grams of amphetamine. [@1,2,3,4,5,6,8,9]
+than 9 grams of amphetamine. [@1,2,3,4,5,6,8,9,10]
 
 The detainee was already known to police and had a prior conviction, and the
 Sofia City Prosecutor's Office has brought charges against him. [@1,2,3,4,6,9] The pre-trial proceedings were opened under the Penal Code articles on narcotics and on driving after drug use. [@4,8] He had first been held under a police measure of up to 24 hours. [@2,3,4,8] The results
 of his blood test were still awaited. [@1,3,4,6,7,8,9] He was held for up to 72 hours while
 pre-trial proceedings were opened, and the prosecution planned to ask the Sofia
-City Court on Thursday to remand him in custody. [@1,2,6,9]
+City Court on Thursday to remand him in custody. [@1,2,6,9,11]
