@@ -64,6 +64,11 @@ sources:
     publisher: NAGORIK TV
     date: 2026-11-19
     language: bn
+  - title: চাঁপাইনবাবগঞ্জে ৭ কেজি গাঁজা উদ্ধার, ভ্যানসহ তারিফ আটক
+    url: https://www.ajkerbangladesh.com.bd/crime/2026/11/19/220284
+    publisher: Ajker Bangladesh
+    date: 2026-11-19
+    language: bn
 media:
   - kind: photo
     url: https://sarabangla.net/bangladesh/post-1223342/
@@ -75,22 +80,25 @@ media:
     media_url: https://www.agrajatrapratidin.com/media/imgAll/2026November/WhatsApp-Image-2026-11-19-at-74202-PM-2611191413.jpeg
     publisher: Agrajatra Pratidin
     caption: Lead image published with the report of the SRB-5 operation in which 7 kg of ganja was recovered at Amnura Dinagar Mor, Chapainawabganj.
+open_questions:
+    - 'Accounts give different times for the checkpoint and operation: the earlier reports place it at about 11:45 am, while Ajker Bangladesh says the checkpoint was set up at about 12:30 pm on 19 November.'
+    - Ajker Bangladesh describes four potlai (bundles) wrapped in khaki tape, whereas the earlier reports describe four khaki-taped parcels concealed inside 16 jute-string bundles.
 ---
 
 Special Response Battalion (SRB-5) detained one young man with a large quantity
-of ganja in Chapainawabganj Sadar Upazila. [@1,2,3] The arrested man was identified as 32-year-old Md. Tariq of Sateroroshia Chamagram in Shibganj, son of Md. Alam and Serina Khatun. [@2,3] The ganja was recovered by
-searching a battery-run auto-rickshaw. [@1]
+of ganja in Chapainawabganj Sadar Upazila. [@1,2,3,5] The arrested man was identified as 32-year-old Md. Tariq of Sateroroshia Chamagram in Shibganj, son of Md. Alam and Serina Khatun. [@2,3,5] The ganja was recovered by
+searching a battery-run auto-rickshaw. [@1,5]
 
 An SRB-5 team set up a checkpoint in the Amnura Dinagar Mor area of Jhilm Union
 and carried out the operation at around 11:45 am on Thursday. [@1,2,4] The temporary
 checkpoint on the Chapainawabganj-Amnura road was set up on secret information
-that a drug consignment was being brought from the Rajshahi region. [@1,2,3] The consignment was said to be coming from the Tanore area of Rajshahi toward the Chapainawabganj railway station area. [@2,3,4]
+that a drug consignment was being brought from the Rajshahi region. [@1,2,3,5] The consignment was said to be coming from the Tanore area of Rajshahi toward the Chapainawabganj railway station area. [@2,3,4,5]
 Officers stopped a suspicious auto-rickshaw and questioned the driver about a
 plastic sack in the vehicle, and he gave incoherent answers. [@1,2,3] Opening the
 sack found a total of 7 kg of ganja wrapped in scotch tape inside 16 jute-string
-bundles, with an estimated market value of about 210,000 taka. [@1,2,3] The 7 kg was divided among four parcels wrapped in khaki-coloured tape, concealed inside the 16 bundles. [@3,4]
+bundles, with an estimated market value of about 210,000 taka. [@1,2,3,5] The 7 kg was divided among four parcels wrapped in khaki-coloured tape, concealed inside the 16 bundles. [@3,4]
 
 Officers seized the auto-rickshaw used in the incident and a mobile phone, and
-handed the arrested person and the seized evidence to Sadar Model Thana. [@1,2] The exhibits were formally seized at 12:35 pm in the presence of witnesses. [@3] The seized phone was a button mobile phone and the seized vehicle was a battery-run auto-van used for drug transport. [@2,3,4]
+handed the arrested person and the seized evidence to Sadar Model Thana. [@1,2,5] The exhibits were formally seized at 12:35 pm in the presence of witnesses. [@3] The seized phone was a button mobile phone and the seized vehicle was a battery-run auto-van used for drug transport. [@2,3,4]
 Law enforcers said a case under the Narcotics Control Act against him was in
-process. [@1] A regular case under the Narcotics Control Act has been filed against him. [@2,3,4]
+process. [@1] A regular case under the Narcotics Control Act has been filed against him. [@2,3,4,5]
