@@ -51,6 +51,11 @@ media:
     media_url: https://www.flash.gr/image/ver_small/151/18112026nark2-300x294.webp?v=0
     publisher: Flash.gr
     caption: 'Second Hellenic Police handout photo published with the same Flash.gr report on the airport seizure. Photo: Hellenic Police (ΦΩΤΟ ΕΛΛΗΝΙΚΗ ΑΣΤΥΝΟΜΙΑ)'
+  - kind: photo
+    url: https://www.npress.gr/greece/synelifthi-28chronos-lithouanos-sto-eleftherios-venizelos-me-perissotera-apo-35-kila-kannavis-stis-aposkeves-tou/
+    media_url: https://www.npress.gr/wp-content/uploads/2026/11/narkwtika_el_ven_2.webp
+    publisher: Νpress.gr
+    caption: Lead image published with the Npress.gr report on the 35.3 kg cannabis seizure at Athens airport.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 0100fce1afaa50a701693d0109dd5c09
@@ -121,18 +126,26 @@ sources:
     publisher: Dikastiko.gr
     date: 2026-11-18
     language: el
+  - title: Συνελήφθη 28χρονος Λιθουανός στο «Ελευθέριος Βενιζέλος» με περισσότερα από 35 κιλά κάνναβης στις αποσκευές του
+    url: https://www.npress.gr/greece/synelifthi-28chronos-lithouanos-sto-eleftherios-venizelos-me-perissotera-apo-35-kila-kannavis-stis-aposkeves-tou/
+    publisher: Νpress.gr
+    date: 2026-11-18
+    language: el
+open_questions:
+    - No charge, plea or court outcome was reported; the arrested man was taken to the prosecutor.
+    - The 35 kilograms and 300 grams is given as the gross weight of the 23 packages, with no separate net weight or value estimate published.
 ---
 
 Officers of the narcotics unit at Athens International Airport arrested a
-28-year-old Lithuanian man after a check on his arrival in Greece. [@2,4,5,8,10,11,12,13] The operation on Tuesday 17 November 2026 was run by officers of the Drug Enforcement Subdirectorate of the Directorate for Organized Crime. [@7,9] Zougla reported that officers identified him during targeted checks at the airport's narcotics department, after cross-checks, data analysis and profiling. [@6,12] He was
+28-year-old Lithuanian man after a check on his arrival in Greece. [@2,4,5,8,10,11,12,13,14] The operation on Tuesday 17 November 2026 was run by officers of the Drug Enforcement Subdirectorate of the Directorate for Organized Crime. [@7,9] Zougla reported that officers identified him during targeted checks at the airport's narcotics department, after cross-checks, data analysis and profiling. [@6,12] He was
 stopped in the airport's arrivals area after checks by the Hellenic Police,
 known in Greece as EL.AS. [@1,7] He had landed the previous day, 17 November 2026,
-on a flight from Bangkok via Doha. [@3,4,5,8,10,13]
+on a flight from Bangkok via Doha. [@3,4,5,8,10,13,14]
 
 His luggage held 23 packages of raw cannabis from hydroponic cultivation, the
-drug Greek police call skunk. [@2,4,5,7,8,9,10,12,13] He had hidden them in his suitcases. [@1,12] The
-packages had a total gross weight of 35 kilograms and 300 grams. [@2,4,5,7,8,9,10,12,13] Police put
+drug Greek police call skunk. [@2,4,5,7,8,9,10,12,13,14] He had hidden them in his suitcases. [@1,12] The
+packages had a total gross weight of 35 kilograms and 300 grams. [@2,4,5,7,8,9,10,12,13,14] Police put
 the quantity at more than 35 kilograms. [@3,7,12] Officers also seized a mobile phone
-and the two suitcases used to carry the drug. [@2,4,5,7,8,9,10,12,13]
+and the two suitcases used to carry the drug. [@2,4,5,7,8,9,10,12,13,14]
 
-The arrested man was taken to the prosecutor. [@3,4,5,7,8,9,10,12,13]
+The arrested man was taken to the prosecutor. [@3,4,5,7,8,9,10,12,13,14]
