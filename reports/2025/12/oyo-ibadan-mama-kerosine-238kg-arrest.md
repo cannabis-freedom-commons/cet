@@ -46,6 +46,12 @@ sources:
     url: https://www.thecable.ng/ndlea-seizes-31-5kg-cocaine-in-lagos-arrests-22-indian-crew-members/
     publisher: TheCable
     date: 2026-01-04
+  - title: 'Apapa Drug Bust: NDLEA Detains MV Aruna Hulya, 22 Indian Crew'
+    url: https://shipsandports.com.ng/apapa-drug-bust-ndlea-detains-mv-aruna-hulya-22-indian-crew/
+    publisher: Ships & Ports
+    date: 2026-01-05
+open_questions:
+    - The same Ships & Ports page also describes the MV Aruna Hulya cocaine seizure and separate seizures in Lagos, Jigawa, Kwara and Borno, which are different events left out here.
 ---
 
 Operatives of the National Drug Law Enforcement Agency arrested wanted
@@ -53,13 +59,13 @@ Operatives of the National Drug Law Enforcement Agency arrested wanted
 illicit drug distributor in Ibadan. [@1] The agency described the 65-year-old
 grandmother as a major illicit drug distributor in Ibadan, the Oyo State
 capital. [@2] She was arrested with 35-year-old Olusanya Abosede at the
-Onireke/Elekuro area of Ibadan on 29 December 2025. [@1,3]
+Onireke/Elekuro area of Ibadan on 29 December 2025. [@1,3,4]
 
 The arrest was an intelligence-led operation that followed the seizure of 238.4
-kg of skunk, a strain of cannabis, linked to Ilori. [@1,3] The arrest was
+kg of skunk, a strain of cannabis, linked to Ilori. [@1,3,4] The arrest was
 disclosed in a press statement signed by Femi Babafemi, the NDLEA Director of
 Media and Advocacy, made public on Sunday 4 January 2026. [@1]
 
 NDLEA Chairman Brig. Gen. Mohamed Buba Marwa commended officers of the Oyo
 Command among others for the arrests and seizures and urged them to intensify
-the agency's drug control efforts. [@1,3]
+the agency's drug control efforts. [@1,3,4]
