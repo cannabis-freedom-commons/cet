@@ -56,6 +56,10 @@ sources:
     publisher: Sinjali
     date: 2026-11-17
     language: sq
+  - title: Three people face indictment after around 1.8 kilograms of heroin and cannabis were seized
+    url: https://albeu.com/english/three-people-face-indictment-after-around-1-8-kilograms-of-heroin-and-cannabis-were-seized/1104290/
+    publisher: Albeu.com
+    date: 2026-11-17
 open_questions:
   - No cannabis weight beyond the 12.69 grams is reported; the 1,780.13 grams of heroin found in the same case is excluded from the cannabis figures.
   - The indictment does not say whether the cannabis was part of the sale and distribution offences or was only found at B.(Sh) B.'s home.
@@ -68,13 +72,13 @@ open_questions:
 ---
 
 The Basic Prosecution Office in Prizren filed an indictment against three people
-suspected of selling and distributing narcotics. [@1] The defendants, identified
+suspected of selling and distributing narcotics. [@1,4] The defendants, identified
 only as R.B., A.R. and B.(Sh) B., have been in pre-trial detention since 23
-March 2026. [@1] Prosecutors suspect the three acted jointly and as members of a
+March 2026. [@1,4] Prosecutors suspect the three acted jointly and as members of a
 group selling and distributing large quantities of heroin in the village of
-Gjinoc, Suharekë. [@1] The indictment covers an unspecified period up to 23
+Gjinoc, Suharekë. [@1,4] The indictment covers an unspecified period up to 23
 March 2026. [@2] R.B. and B.(Sh) B. are also charged with unauthorised
-possession of firearms. [@1] The case prosecutor asked the court to find the
+possession of firearms. [@1,4] The case prosecutor asked the court to find the
 defendants guilty and sentence them under the law after a trial. [@1] The
 defendants are presumed innocent until a final court judgment. [@2]
 
@@ -94,11 +98,10 @@ net weight of 1,780.13 grams. [@1] Sinjali reported at the time that officers
 found two bags holding about a kilogram of suspected heroin hidden in an
 improvised compartment of a van. [@3] Searches of the defendants' properties
 also seized five firearms, including pistols, hunting rifles and an automatic
-firearm, and 549 bullets of various calibres. [@1]
+firearm, and 549 bullets of various calibres. [@1,4]
 
 The prosecution requested permanent confiscation of two vehicles, a Land Rover
 and a Mercedes GLE, mobile phones, electronic devices, cash, narcotics, firearms
-and ammunition. [@1] It proposed that the vehicles be sold through the Agency
+and ammunition. [@1,4] It proposed that the vehicles be sold through the Agency
 for the Administration of Seized and Confiscated Assets, with the proceeds going
-to Kosovo's budget. [@1]
-
+to Kosovo's budget. [@1,4]
