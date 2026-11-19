@@ -46,32 +46,41 @@ sources:
   - title: Jamal Arowosekila and Darrell Desuse caught in Surrey drug supply
     url: https://yourlocalguardian.co.uk/news/26744363.jamal-arowosekila-darrell-desuse-caught-surrey-drug-supply
     publisher: Your Local Guardian
+  - title: Two drug dealers sentenced to eight years behind bars in Elmbridge | News - Greatest Hits Radio (Surrey & East Hampshire)
+    url: https://www.hellorayo.co.uk/greatest-hits/surrey-east-hampshire/news/cocaine-drug-dealers-sentenced-in-elmbridge
+    publisher: Greatest Hits Radio (Surrey & East Hampshire)
+    date: 2026-11-19
 open_questions:
   - No weight, quantity or value for the cannabis was published, and the amount found in the car was not separated from the cocaine.
   - Arowosekila's three-year term covers possession of cannabis, supply of crack cocaine and heroin and two driving offences, so there is no cannabis-only sentence.
   - Desuse was sentenced only for cocaine and heroin supply; no cannabis charge was reported against him.
   - The vehicle stop is dated only to March 2026, with no day given.
   - Both accounts reproduce the same Surrey Police statement and are not independent reporting.
+media:
+  - kind: photo
+    url: https://www.hellorayo.co.uk/greatest-hits/surrey-east-hampshire/news/cocaine-drug-dealers-sentenced-in-elmbridge
+    media_url: https://cdn.apollo.audio/one/media/6afe/d87c/c0f6/cfce/7677/d5c4/hero-image%20(18).jpg?quality=80&format=jpg&ratio=16-9&width=960
+    publisher: Greatest Hits Radio (Surrey & East Hampshire)
+    caption: Jamal Arowosekila and Darrell Desuse pictured side by side.
 ---
 
 In March 2026 police stopped a vehicle carrying Jamal Arowosekila and Darrell
 Desuse in Walton-on-Thames, Surrey, on suspicion that it was linked to drug
-supply in the Elmbridge area. [@1] Both gave false names, and officers searching
-the car found nearly £1,000 in cash, cocaine and cannabis. [@2] Both were
+supply in the Elmbridge area. [@1,3] Both gave false names, and officers searching
+the car found nearly £1,000 in cash, cocaine and cannabis. [@2,3] Both were
 arrested and their true identities were confirmed while in custody. [@1]
 
 At Guildford Crown Court on Friday 6 November, Arowosekila, 27, of Hounslow, was
 sentenced to three years in prison after pleading guilty to being concerned in
 the supply of crack cocaine and heroin, possession of cannabis, driving without
-insurance and driving otherwise than in accordance with a licence. [@1] Desuse,
+insurance and driving otherwise than in accordance with a licence. [@1,3] Desuse,
 31, of Hounslow, was sentenced to three years and nine months for being
 concerned in the supply of cocaine and heroin, and received a further 15 months
 for breaching an active community behaviour order, giving a total of five years.
-[@1]
+[@1,3]
 
 A joint investigation by the force's Proactive Investigation Team, the county
 lines Centurion team and the Metropolitan Police's Op Orochi led to both men
-being charged with several offences. [@1] Searches of addresses linked to the
+being charged with several offences. [@1,3] Searches of addresses linked to the
 men found further evidence of drug supply, including digital scales, cash and
-additional mobile phones. [@2]
-
+additional mobile phones. [@2,3]
