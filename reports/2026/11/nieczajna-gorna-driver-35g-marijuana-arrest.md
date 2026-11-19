@@ -54,26 +54,25 @@ sources:
     publisher: Policja Małopolska
     date: 2026-11-19
     language: pl
-open_questions:
-  - No laboratory confirmation of the seized material as marijuana was reported beyond the police identification.
-  - The laboratory result of the blood test and whether drug-driving will be charged were not yet known.
-  - The exact time of the stop on 15 November 2026 was not given.
-  - The driver was identified only as a 24-year-old man; no court outcome was reported.
+  - title: 24-latek z marihuaną zatrzymany w Nieczajnie Górnej
+    url: https://tylkomalopolska.pl/24-latek-z-marihuana-zatrzymany-w-nieczajnie-gornej
+    publisher: tylkoMałopolska
+    date: 2026-11-19
+    language: pl
 ---
 
 On Sunday 15 November 2026, traffic police from the Dąbrowa Tarnowska unit
 stopped an Opel driver in Nieczajna Górna for exceeding the built-up-area speed
-limit by 17 km/h. [@2] Officers said the driver behaved nervously, prompting
+limit by 17 km/h. [@2,3] Officers said the driver behaved nervously, prompting
 them to check the vehicle more closely. [@1] The driver, a 24-year-old man, was
 detained. [@2]
 
 During the vehicle search officers found a joint and plant material in a foil
-bag. [@2] Police secured a total of 35 grams of marijuana. [@1] A preliminary
+bag. [@2,3] Police secured a total of 35 grams of marijuana. [@1,3] A preliminary
 drug test on the driver was positive, suggesting he may have been driving under
-the influence of drugs. [@2]
+the influence of drugs. [@2,3]
 
 Blood was taken from the man for laboratory tests to establish whether he was
-under the influence at the time of the check. [@2] He now faces court
+under the influence at the time of the check. [@2,3] He now faces court
 proceedings for drug possession and for possibly driving a motor vehicle under
-the influence of drugs or after their use. [@1]
-
+the influence of drugs or after their use. [@1,3]
