@@ -57,6 +57,10 @@ sources:
     url: https://www.winnipegfreepress.com/breakingnews/2026/11/18/group-exploited-medical-cannabis-licenses-to-supply-black-market-lawsuit-claims
     publisher: Winnipeg Free Press
     date: 2026-11-18
+  - title: Manitoba Seeks Forfeiture of Five Properties Linked to Alleged Cannabis Operations
+    url: https://ontariopost.ca/article/manitoba-seeks-forfeiture-of-five-properties-linked-to-alleged-cannabis-operations
+    publisher: The Ontario Post
+    date: 2026-11-18
 open_questions:
     - The statement of claim was filed "last week" without a stated date; 13 November 2026, when Justice Brian Bowman granted the interim order, is used as the incident date.
     - The searches took place in early December 2024, well before the forfeiture claim, and no exact raid dates were published.
@@ -71,16 +75,16 @@ open_questions:
 
 Manitoba's director of criminal property forfeiture has asked a court to forfeit
 five properties it says were used to produce cannabis for the black market,
-under Health Canada licences limited to personal medical use. [@1] The statement
+under Health Canada licences limited to personal medical use. [@1,4] The statement
 of claim, filed in the Court of King's Bench of Manitoba, says the RCMP received
 information in April 2022 that medical cannabis and illicit tobacco were being
-sold from Health Canada-approved production sites in the province. [@1,3] The RCMP
+sold from Health Canada-approved production sites in the province. [@1,3,4] The RCMP
 investigation was named Project Defund and used surveillance, production orders
 and warrants, the claim says. [@1,2] The properties are two in Winnipeg's Maples
 neighbourhood, one in South Pointe, and one each in the rural municipalities of
 Brokenhead and Piney. [@1,2] The claim says police identified a network of people
 who gave falsified information to financial institutions to obtain mortgages and
-used the money to buy the properties. [@1] In one case a defendant said he was
+used the money to buy the properties. [@1,4] In one case a defendant said he was
 an assistant manager earning $48,000 a year when his only legitimate income was
 Canada Pension Plan benefits, the claim says. [@1,3] The Malden Close bungalow was bought in 2017 for $309,000, the filing says. [@3] In another, a defendant gave
 paystubs and a T4 showing $149,999.98 a year at a Winnipeg meat processor where
@@ -106,6 +110,6 @@ hold registered interests in the mortgages. [@1,2,3] The defendants are Van Hung
 employment record, possession of cannabis for the purpose of distributing, and
 selling cannabis without authorization. [@1,2] On 13 November 2026 Court of King's
 Bench Justice Brian Bowman granted an interim order barring anyone from selling
-the five properties for 60 days or until the court orders otherwise. [@1,2] No
+the five properties for 60 days or until the court orders otherwise. [@1,2,4] No
 statement of defence had been filed and the claims had not been proven in court.
 [@1]
