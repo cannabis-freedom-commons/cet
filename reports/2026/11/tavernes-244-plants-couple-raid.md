@@ -51,6 +51,11 @@ media:
     media_url: https://img.europapress.es/fotoweb/fotonoticia_20261119093157_690.jpg
     publisher: Europa Press
     caption: 'Handout published with the report of the seizure of 244 marijuana plants at a home in Tavernes de la Valldigna. Photo: Guardia Civil'
+  - kind: photo
+    url: https://www.lasprovincias.es/sucesos/dos-detenidos-tener-244-plantas-marihuana-casa-20261119095950-nt.html
+    media_url: https://s1.ppllstatics.com/lasprovincias/www/multimedia/sucesos/2026/11/19/marihuana_tavernes_valencia_editada_foto_02-R3JkET34Eejhr2N7ZKY2LyK-1200x840@Las%20Provincias.jpg
+    publisher: Las Provincias
+    caption: 'Marijuana plants from the Tavernes de la Valldigna seizure, published with the Las Provincias report. Photo: Las Provincias (LP)'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 21210a07154a66423427e560f8b352dd
@@ -66,30 +71,34 @@ sources:
     publisher: Europa Press
     date: 2026-11-19
     language: es
+  - title: Dos detenidos por tener 244 plantas de marihuana en su casa de Tavernes de la Valldigna
+    url: https://www.lasprovincias.es/sucesos/dos-detenidos-tener-244-plantas-marihuana-casa-20261119095950-nt.html
+    publisher: Las Provincias
+    date: 2026-11-19
+    language: es
 open_questions:
   - No dried weight or value for the 244 plants was reported, and no laboratory confirmation of the plants as cannabis was mentioned.
   - No court outcome, trial date or detention measure was reported after the case was handed to the investigating court in Sueca.
 ---
 
 Guardia Civil detained a man and a woman in Tavernes de la Valldigna, in
-Valencia province, over a marijuana plantation inside their home. [@2] The two
+Valencia province, over a marijuana plantation inside their home. [@2,3] The two
 residents, both 32-year-old Spanish nationals, were imputed with a public-health
 offence for cultivating marijuana and another for defrauding the electricity
-supply. [@2]
+supply. [@2,3]
 
 Investigators had learned in September that marijuana might be grown at a home
 in Tavernes de la Valldigna. [@1] Surveillance identified a couple with three
-children, with no known work or stable pattern of coming and going. [@1] Checks
+children, with no known work or stable pattern of coming and going. [@1,3] Checks
 from elevated positions showed many air-conditioning units, and officers smelled
-strong marijuana when certain doors were opened. [@1] An electricity-company
+strong marijuana when certain doors were opened. [@1,3] An electricity-company
 technician found an illegal hook-up and a reading of 40 amps, where a house of
-that size would normally draw about 5. [@1] On 5 November an entry and search
-was authorised and officers found 244 marijuana plants inside the home. [@1]
+that size would normally draw about 5. [@1,3] On 5 November an entry and search
+was authorised and officers found 244 marijuana plants inside the home. [@1,3]
 They also found sophisticated growing equipment with filters that eliminated
 outside odours and about 950 euros in notes hidden in an envelope behind a
-cupboard. [@1]
+cupboard. [@1,3]
 
 The investigation was carried out by agents of the Guardia Civil post in
 Tavernes de la Valldigna and the case was sent to an investigating court in
-Sueca. [@2]
-
+Sueca. [@2,3]
