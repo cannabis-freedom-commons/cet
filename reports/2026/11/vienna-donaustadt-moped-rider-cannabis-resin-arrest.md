@@ -48,27 +48,33 @@ sources:
     publisher: Landespolizeidirektion Wien
     date: 2026-11-18
     language: de
+  - title: Nordmazedonier (18) ohne Führerschein auf gestohlenem Moped – Polizei findet Cannabis – Polizei.news
+    url: https://polizei.news/2026/11/18/nordmazedonier-18-ohne-fuehrerschein-auf-gestohlenem-moped-polizei-findet-cannabis/
+    publisher: Polizei.news
+    date: 2026-11-18
+    language: de
 open_questions:
   - No weight, purity or value was given for the cannabis resin seized from the moped's storage compartment.
   - The accounts give only the man's age, nationality and the district of the stop; no name, charge or court outcome was reported.
   - The police statement does not say whether the resin was intended for personal use or for sale.
   - The moped's registered owner and how the 18-year-old came to have the vehicle are not stated.
   - 16 November 2026 is the date police give for the 22:45 stop; both accounts were published two days later, on 18 November.
+  - 'The accounts disagree on the date: this one dates the stop to the evening of 17 November 2026, while the others give 22:45 on 16 November 2026.'
+  - This account describes the 18-year-old being taken to a police station for questioning but does not report a formal arrest, which the other accounts state.
 ---
 
 Vienna traffic police stopped a moped rider in the Wagramer Straße in
-Vienna-Donaustadt at 22:45 on 16 November 2026 during a patrol. [@1] The rider
+Vienna-Donaustadt at 22:45 on 16 November 2026 during a patrol. [@1] Officers stopped the moped because of the rider's conspicuous and unsafe riding. [@3] The rider
 was an 18-year-old North Macedonian national who could not identify himself and
-had no valid driving licence. [@2] He gave no plausible account of who owned the
+had no valid driving licence. [@2,3] He gave no plausible account of who owned the
 vehicle, and a check showed that its registered owner had reported the moped
-stolen in early October 2026. [@2]
+stolen in early October 2026. [@2,3]
 
 Officers noticed a strong smell of drugs coming from the storage compartment
-under the rider's seat. [@2] When they opened the compartment to search it, they
-found cannabis resin and seized it. [@2] The man was taken to a nearby police
-station for immediate questioning, where his identity was established. [@2]
+under the rider's seat. [@2,3] When they opened the compartment to search it, they
+found cannabis resin and seized it. [@2,3] The man was taken to a nearby police
+station for immediate questioning, where his identity was established. [@2,3]
 
 He was arrested and reported to the prosecutor. [@1] The report was made on
 suspicion of burglary theft, under the Narcotics Act (Suchtmittelgesetz) and for
-several traffic offences. [@2]
-
+several traffic offences. [@2,3]
