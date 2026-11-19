@@ -54,6 +54,11 @@ sources:
     publisher: G5noticias
     date: 2026-11-18
     language: es
+  - title: Fiscalía y OS7 incautan más de ocho kilos de droga en Aysén y dos imputados quedan en prisión preventiva
+    url: https://radio45sur.cl/2026/11/18/fiscalia-y-os7-incautan-mas-de-ocho-kilos-de-droga-en-aysen-y-dos-imputados-quedan-en-prision-preventiva/
+    publisher: Radio45Sur.cl
+    date: 2026-11-18
+    language: es
 open_questions:
     - No separate date is given for the interception or the arrests; 17 November 2026 is the publication date of the first report and stands in as the incident date, while the detentions were reported as having happened in the hours before publication.
     - The marihuana weight is given only as more than 3 kilograms of prepared marihuana, with no exact weight and no laboratory confirmation.
@@ -66,7 +71,7 @@ open_questions:
 
 Carabineros' OS7 section detained two adult Chilean men with homes in Coyhaique
 after intercepting a parcel carrying drugs sent by courier toward the Aysén
-Region, and both were later formalized on drug-trafficking charges. [@1,2]
+Region, and both were later formalized on drug-trafficking charges. [@1,2,3]
 Authorities presented the operation at the First Police Station in Coyhaique,
 where Carabineros and the Public Prosecutor's Office gave details of a
 coordinated investigation that stopped the drugs reaching their final
@@ -76,19 +81,19 @@ preventive detention was ordered for a 90-day investigation. [@1,2] One of the t
 
 According to the police, the parcel held 4 kilograms 680 grams of cocaine
 hydrochloride as well as marihuana, making a combined seizure of more than eight
-kilograms of illicit substances. [@1,2] The marihuana in the parcel was described as prepared marihuana and weighed more than 3 kilograms. [@2] The Fiscalía said the drugs could yield
+kilograms of illicit substances. [@1,2,3] The marihuana in the parcel was described as prepared marihuana and weighed more than 3 kilograms. [@2] The Fiscalía said the drugs could yield
 about 6,000 doses of marihuana and 9,000 of cocaine, though the authorities also
-gave an overall estimate of close to 16,000 doses. [@1] The prosecutor said the
+gave an overall estimate of close to 16,000 doses. [@1] Public Security seremi Jean Paul Zimmermann estimated that the substances were equivalent to about 16,000 doses, with an approximate value of 140 million pesos. [@3] The prosecutor said the
 police valuation exceeded 100 million pesos, with the cocaine worth close to
 that figure and the marihuana valued at more than 50 million pesos. [@1]
 
 The drugs were detected by the sniffer dog Gárdena in an investigation led by
 the regional prosecutor's office to identify suppliers and possible members of a
 network bringing illicit substances into Patagonia through courier services.
-[@1,2] Pino said OS7 halted a large parcel before it entered the region and that
+[@1,2] The operation was directed by the Criminal Analysis System (SAC) of the Aysén Regional Public Prosecutor's Office together with Carabineros' OS7 unit. [@3] Pino said OS7 halted a large parcel before it entered the region and that
 officers under the drugs law captured the two men who were to receive it. [@1]
 He said the quantity, amounting to several thousand doses and about 100 million
 pesos in small-scale sales, indicated the drugs were intended for distribution
 across the region. [@1] Colonel Juan Abarca, prefect of Carabineros in Aysén,
 called it the largest Carabineros seizure of the year and said the case was
-being studied as part of regional crime patterns. [@1,2] He said the investigation remained open to establish whether more members of the network exist. [@2] Abarca said the origin of the drugs was under investigation but probably lay in the north of the country. [@2]
+being studied as part of regional crime patterns. [@1,2,3] He said the investigation remained open to establish whether more members of the network exist. [@2] Abarca said the origin of the drugs was under investigation but probably lay in the north of the country. [@2]
