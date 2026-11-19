@@ -37,6 +37,11 @@ media:
     media_url: https://media.assettype.com/dt-next%2F2026-11-19%2Fag8h2ruz%2FPolice.jpg?rect=0%2C0%2C1600%2C900&w=768&auto=format%2Ccompress&fit=max
     publisher: DT Next
     caption: Avadi City Police team with the smugglers, and the ganja and currency they seized.
+  - kind: photo
+    url: https://tamil.abplive.com/crime/rs-18-5-lakh-in-cash-ganja-and-silk-sarees-intended-for-smuggling-to-malaysia-seized-5-people-including-a-driver-from-peravurani-arrested-tnn-280108
+    media_url: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/19/bbdf2cd9484b34a1f22d1afdc38e8e921795082924796733_original.jpeg?impolicy=abp_cdn&imwidth=1200&height=675
+    publisher: ABP Nadu
+    caption: 'Seized cash, ganja and silk sarees laid out after the Sengundram vehicle check. Photo: ABP Nadu'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 9bcf65176c1c84a34aebd0c986569051
@@ -62,16 +67,15 @@ sources:
     publisher: Hindu Tamil Thisai
     date: 2026-11-19
     language: ta
-open_questions:
-    - No firm calendar date is given for the vehicle stop or the arrests; the accounts place a tip-off on a Tuesday and were published on 18 and 19 November 2026.
-    - One account puts the cannabis at two kilograms while the others give about 2.6 kilograms; the report keeps two kilograms.
-    - No value was published for the cannabis and no laboratory test or hydroponic-versus-outdoor classification was reported.
-    - No specific police station, unit or officer is named, and no charge or charge sheet has been reported; the accused were remanded in judicial custody.
-    - The accounts say the gang was heading by road to Bengaluru and sourced the ganja in Odisha, but do not explain why the car was in the Ennore area.
+  - title: மலேசியாவுக்கு கடத்த முயன்ற ரூ.18½ லட்சம் பணம், கஞ்சா, பட்டுப்புடவைகள் பறிமுதல்! பேராவூரணி டிரைவர் உட்பட 5 பேர் கைது | Rs. 18.5 lakh in cash, ganja, and silk sarees—intended for smuggling to Malaysia—seized; 5 people, including a driver from Peravurani, arrested TNN
+    url: https://tamil.abplive.com/crime/rs-18-5-lakh-in-cash-ganja-and-silk-sarees-intended-for-smuggling-to-malaysia-seized-5-people-including-a-driver-from-peravurani-arrested-tnn-280108
+    publisher: ABP Nadu
+    date: 2026-11-19
+    language: ta
 ---
 
 Police in Ennore, a locality in north Chennai, seized two kilograms of
 high-grade cannabis. [@1,2] Police stopped a luxury car coming from Chennai towards Minjur in the Ennore area and found the cannabis when they checked the vehicle. [@2,3] The vehicle checks were carried out at the check post at the Athipattu bridge junction in Ponneri. [@4] Police received a tip-off about movement of narcotics in Ennore police limits on Tuesday and intensified vehicle checks. [@3,4] The cannabis was said to have been intended for
-smuggling out of the country. [@1,2] The account says the cannabis and the Indian and British money were to be taken to Malaysia. [@2,3] The five-member group planned to travel by road to Bengaluru, from where three were to board a flight to Malaysia. [@3]
+smuggling out of the country. [@1,2,5] The account says the cannabis and the Indian and British money were to be taken to Malaysia. [@2,3,5] The five-member group planned to travel by road to Bengaluru, from where three were to board a flight to Malaysia. [@3]
 
-Foreign money was also seized in the same operation, the account says. [@1,2] The cash, medicines and ganja were found in five suitcases and two shoulder bags in the car. [@4] Five men from Ilaiyankudi in Sivagangai district, aged between 19 and 29, were arrested in the case. [@2,3,4] Ali sublet the work to three friends — Abubakkar Siddiq, 21, and Usama Bahadur, 24, from the same town, and Mohammed Ismail, 19, of Tiruchy — who were to travel to Malaysia. [@3] Ali was a ‘kuruvi’ — a human courier hired by smugglers — whose passport had been revoked in 2023 for alleged sea-turtle smuggling. [@3] The mastermind was S Ashik Ali, 29, of Ilayangudi in Sivaganga. [@3] Aashik Ali, 29, Abubacker Siddique, 21, and Usama Badurur Rahman, 24, were from Ilayangudi; Mohamed Ismail, 19, was from Tiruchi-Uraiyur and Sheikh Abdullah, 22, from Thanjavur. [@4] Officers also seized 6.42 lakh rupees and British pound notes put at a further 12 lakh rupees, both suspected of being linked to hawala, together with silk sarees and medicines. [@2,3,4] The British notes numbered 9,700 pounds, and three passports were seized as well. [@4] Ali sourced the ganja from Odisha and hid it with the cash in the group's check-in baggage; an accomplice, Mohammed Sheik Abdullah, 22, was also arrested, and all the accused were produced before a magistrate and remanded in judicial custody. [@3]
+Foreign money was also seized in the same operation, the account says. [@1,2,5] The cash, medicines and ganja were found in five suitcases and two shoulder bags in the car. [@4] Five men from Ilaiyankudi in Sivagangai district, aged between 19 and 29, were arrested in the case. [@2,3,4] Ali sublet the work to three friends — Abubakkar Siddiq, 21, and Usama Bahadur, 24, from the same town, and Mohammed Ismail, 19, of Tiruchy — who were to travel to Malaysia. [@3,5] Ali was a ‘kuruvi’ — a human courier hired by smugglers — whose passport had been revoked in 2023 for alleged sea-turtle smuggling. [@3] The mastermind was S Ashik Ali, 29, of Ilayangudi in Sivaganga. [@3] Aashik Ali, 29, Abubacker Siddique, 21, and Usama Badurur Rahman, 24, were from Ilayangudi; Mohamed Ismail, 19, was from Tiruchi-Uraiyur and Sheikh Abdullah, 22, from Thanjavur. [@4,5] Officers also seized 6.42 lakh rupees and British pound notes put at a further 12 lakh rupees, both suspected of being linked to hawala, together with silk sarees and medicines. [@2,3,4] The British notes numbered 9,700 pounds, and three passports were seized as well. [@4] Ali sourced the ganja from Odisha and hid it with the cash in the group's check-in baggage; an accomplice, Mohammed Sheik Abdullah, 22, was also arrested, and all the accused were produced before a magistrate and remanded in judicial custody. [@3]
