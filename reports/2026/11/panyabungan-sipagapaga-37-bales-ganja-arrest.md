@@ -50,14 +50,11 @@ sources:
     publisher: Tribun Medan
     date: 2026-11-19
     language: id
-open_questions:
-    - The 37.172 grams is stated as a gross (brutto) initial weighing, so the net cannabis weight is unknown; one account rounds the figure to about 37.1 kilograms.
-    - The two suspects were identified only by the initials FH and VA, aged 16 and 18; their full names and the charges against them were not reported.
-    - The urine tests were reported only as positive for narcotics without naming the substances, and no laboratory confirmation of the seized ganja was reported.
-    - The seized motorcycle's registration document was in the name Hafizah, whose connection to the case is unexplained.
-    - The area is spelled Siaga-paga, Sipagapaga and Sipaga-paga across the accounts; Sipagapaga is used as the place name.
-    - No value estimate for the seized ganja was published.
-    - Police had not established where the ganja came from or where it was intended to be sent.
+  - title: Dua pria yang diduga menjadi kurir narkotika jenis ganja kering ditangkap petugas gabungan Badan Narkotika Nasional Kabupaten (BNNK) dan Satresnarkoba Polres Mandailing Natal (Madina), Sumatera Utara
+    url: https://www.facebook.com/medandailynews/photos/dua-pria-yang-diduga-menjadi-kurir-narkotika-jenis-ganja-kering-ditangkap-petuga/1609453894548536/
+    publisher: MEDAN DAILY
+    date: 2026-11-19
+    language: id
 media:
   - kind: photo
     url: https://medan.tribunnews.com/medan-terkini/1820467/naik-motor-bawa-kardus-berisi-37-kg-ganja-kering-2-kurir-narkoba-diringkus-polres-madina
@@ -68,19 +65,19 @@ media:
 
 A joint team from the Mandailing Natal narcotics agency (BNNK Madina) and the
 Polres Madina drug squad raided a narcotics den in Siaga-paga, Panyabungan, on
-the night of Saturday 14 November 2026. [@1] The operation followed reports from
+the night of Saturday 14 November 2026. [@1,3] The operation followed reports from
 residents who were uneasy about suspicious activity in the area. [@1] The team
 acted on information about a grey Honda PCX motorcycle with plate BA 5911 AAW
 ridden by two men. [@1,2] The motorcycle was suspected of carrying two cartons of
 ganja after passing through Aek Banir village, so officers moved to the
-Panyabungan-Sipagapaga route. [@1] In front of the Sipagapaga swimming pool,
+Panyabungan-Sipagapaga route. [@1,3] In front of the Sipagapaga swimming pool,
 officers intercepted the matching vehicle and overpowered the two riders at the
 scene. [@1,2] The two couriers were identified only as FH, aged 16, and VA, aged 18, both from Padang in West Sumatra. [@2]
 
 A search witnessed by local residents found two yellow cartons holding 32 bales
 of ganja, with 5 more bales in the motorcycle seat compartment, 37 bales in
-total. [@1,2] An initial weighing put the gross weight of the ganja at 37,172
-grams. [@1,2] Officers also seized two Redmi mobile phones and the motorcycle with
+total. [@1,2,3] An initial weighing put the gross weight of the ganja at 37,172
+grams. [@1,2,3] Officers also seized two Redmi mobile phones and the motorcycle with
 its registration document. [@1]
 
 After the arrest, both suspects were taken to a local hospital for laboratory
