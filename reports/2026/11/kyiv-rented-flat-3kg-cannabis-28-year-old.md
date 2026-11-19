@@ -112,6 +112,11 @@ sources:
     publisher: Київщина 24/7
     date: 2026-11-19
     language: uk
+  - title: عُثر في شقة مستأجرة في كييف على كمية من الحشيش تبلغ قيمتها 1.5 مليون هريفنا
+    url: https://ua.news/ar/capital/u-kiievi-v-orendovanii-kvartiri-viiavili-kanabis-na-1-5-mln-griven
+    publisher: UA.NEWS
+    date: 2026-11-19
+    language: ar
 ---
 
 Kyiv City Prosecutor's Office charged a 28-year-old resident of Zaporizhzhia
@@ -119,13 +124,13 @@ with illegally acquiring and possessing cannabis in especially large quantities
 with intent to sell, under part 3 of article 307 of the Criminal Code of
 Ukraine. [@1,4,5,6] Investigators said the man had set up a wholesale store in the
 rented apartment for prohibited substances, which he sold directly to customers
-hand to hand. [@2,4,5,6] A court ordered the suspect held in pretrial detention
-without bail. [@1,4,5,6]
+hand to hand. [@2,4,5,6,7] A court ordered the suspect held in pretrial detention
+without bail. [@1,4,5,6,7]
 
 Searches of the apartment found and seized about 3 kg of cannabis, along with
-equipment for grinding, weighing and packaging it. [@1,4,5,6] The prosecutor's office
+equipment for grinding, weighing and packaging it. [@1,4,5,6,7] The prosecutor's office
 put the value of the seized substances at about 1.5 million hryvnias at
-black-market prices. [@3,4,5,6]
+black-market prices. [@3,4,5,6,7]
 
 Procedural guidance came from the Shevchenkivskyi district prosecutor's office
 in Kyiv, and the pretrial investigation was conducted by investigators of the
