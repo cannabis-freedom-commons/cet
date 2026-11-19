@@ -72,37 +72,41 @@ sources:
     publisher: Etruria News
     date: 2026-11-18
     language: it
+  - title: 'Maxi blitz antidroga a Roma e sul litorale: 27 arresti dei Carabinieri, sequestrati droga e contanti.'
+    url: https://www.studio93.it/maxi-blitz-antidroga-a-roma-e-sul-litorale-27-arresti-dei-carabinieri-sequestrati-droga-e-contanti
+    publisher: Radio Studio 93
+    date: 2026-11-18
+    language: it
 open_questions:
-  - 'No single date is given for the checks: they took place over the days before the 18 November 2026 statements, which stand in for the incident date.'
-  - The 27 arrests cover every intervention in the activity, most of them over cocaine and crack, and the accounts do not say how many of the arrests involved cannabis.
-  - The cannabis weight is the sum of the amounts itemised for each intervention, several given as 'about' or 'more than', and the further hashish found at San Lorenzo was not weighed in the reports.
-  - No value estimate for the cannabis was published.
-  - The arrested people are not named beyond the fact of arrest, and no charges filed, pleas or court dates were reported.
-  - Whether the arrests validated by the judicial authority led to pre-trial detention or other measures was not reported.
-  - The Carabinieri release, the OstiaTV article and the Etruria News account reproduce the same provincial command statement, so they are not independent reporting.
-  - The Rome prosecutor's office coordination appears only in the Etruria News account, not in the Carabinieri release or the OstiaTV article.
+    - 'No single date is given for the checks: they took place over the days before the 18 November 2026 statements, which stand in for the incident date.'
+    - The 27 arrests cover every intervention in the activity, most of them over cocaine and crack, and the accounts do not say how many of the arrests involved cannabis.
+    - The cannabis weight is the sum of the amounts itemised for each intervention, several given as 'about' or 'more than', and the further hashish found at San Lorenzo was not weighed in the reports.
+    - No value estimate for the cannabis was published.
+    - The arrested people are not named beyond the fact of arrest, and no charges filed, pleas or court dates were reported.
+    - Whether the arrests validated by the judicial authority led to pre-trial detention or other measures was not reported.
+    - The Carabinieri release, the OstiaTV article, the Etruria News account and the Radio Studio 93 article reproduce the same provincial command statement, so they are not independent reporting.
 ---
 
 Carabinieri from the Rome provincial command arrested 27 people in several days
-of checks against drug dealing in Rome and on the Lazio coast. [@2] The 27 are
-suspected at various levels of possessing and supplying drugs for sale. [@1] The
+of checks against drug dealing in Rome and on the Lazio coast. [@2,4] The 27 are
+suspected at various levels of possessing and supplying drugs for sale. [@1,4] The
 checks used surveillance, road controls and searches of people, vehicles and
 homes. [@1] All 27 arrests were validated by the judicial authority, the
-Carabinieri said. [@2] The Carabinieri acted under the coordination of the Rome
-public prosecutor's office. [@3] The proceedings are at the preliminary
+Carabinieri said. [@2,4] The Carabinieri acted under the coordination of the Rome
+public prosecutor's office. [@3,4] The proceedings are at the preliminary
 investigation stage and the suspects are presumed innocent until a final
 conviction. [@1]
 
 At Ostia Antica the local Carabinieri station arrested a man found with about 27
-grams of hashish, a precision scale and packaging material. [@2] In the northern
+grams of hashish, a precision scale and packaging material. [@2,4] In the northern
 Talenti district a man was arrested with 37 grams of cocaine, 233 grams of
-hashish and 72 grams of marijuana. [@2] In via Ostuni, in the Quarticciolo area,
-a man was found with more than 23 grams of hashish. [@2] At largo Enea
+hashish and 72 grams of marijuana. [@2,4] In via Ostuni, in the Quarticciolo area,
+a man was found with more than 23 grams of hashish. [@2,4] At largo Enea
 Bortolotti a man was arrested with about 21 grams of cocaine, 3 grams of hashish
 and cash. [@2] In Torre Angela a man was found with about 29 grams of cocaine, 2
 grams of hashish and cash. [@2] In San Lorenzo two people were arrested after
 selling hashish and found with further quantities of the same drug, whose weight
-was not given. [@2]
+was not given. [@2,4]
 
 The itemised hashish seizures came to about 288 grams, alongside 72 grams of
 marijuana. [@2] The same checks also took large quantities of cocaine and crack
@@ -110,4 +114,3 @@ and thousands of euros in cash off the market, which are not counted in the
 cannabis figures here. [@3] The Carabinieri described the checks as part of the
 Rome provincial command's territory-control services against dealing in the city
 and on the coast. [@1]
-
