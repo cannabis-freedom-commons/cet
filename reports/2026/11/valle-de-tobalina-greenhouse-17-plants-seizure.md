@@ -71,6 +71,16 @@ sources:
     publisher: Diario de Burgos
     date: 2026-11-19
     language: es
+  - title: La Guardia Civil desmantela en la operación 'Delgadilla' una plantación de marihuana en un invernadero de Burgos
+    url: https://www.msn.com/es-es/noticias/otras/la-guardia-civil-desmantela-en-la-operaci%C3%B3n-delgadilla-una-plantaci%C3%B3n-de-marihuana-en-un-invernadero-de-burgos/ar-AA2hMdAd
+    publisher: MSN
+    date: 2026-11-19
+    language: es
+  - title: La Guardia Civil desmantela en la operación ‘Delgadilla’ una plantación de marihuana en un invernadero de Burgos
+    url: https://www.moncloa.com/2026/11/19/guardia-civil-operacion-delgadilla-marihuana-burgos-3470898/
+    publisher: Moncloa
+    date: 2026-11-19
+    language: es
 open_questions:
     - No separate date for the search was given; 19 November 2026 is the publication date and stands in for the incident date.
     - The searched dwelling has been located in Frías and in Valle de Tobalina, so the exact municipality is disputed.
@@ -80,13 +90,13 @@ open_questions:
 ---
 
 The Guardia Civil located a marijuana plantation inside a greenhouse in a
-locality in Valle de Tobalina, in the north of Burgos province. [@3] The action
+locality in Valle de Tobalina, in the north of Burgos province. [@3,5] The action
 was carried out under Operation Delgadilla, opened after officers of the Miranda
-de Ebro company learned of a possible unlawful crop in the area. [@2] After
+de Ebro company learned of a possible unlawful crop in the area. [@2,5] After
 identifying a dwelling with signs of the activity, officers searched it with the
 owner's authorisation and in his presence. [@1,4] A 34-year-old person was placed
 at judicial disposition as the alleged author of a public-health
-drug-trafficking offence in the form of cultivation. [@1,4] The investigated
+drug-trafficking offence in the form of cultivation. [@1,4,6] The investigated
 person, with the case papers, was placed at the disposition of the Villarcayo
 courts. [@1,4]
 
@@ -94,7 +104,7 @@ Inside the property officers found a 40-square-metre greenhouse with the 17
 plants rooted directly in the soil, staked and tended and in an advanced
 flowering state close to harvest. [@1,4] The seized plants were identified as Cannabis sativa. [@4] The operation ended with the seizure of
 the 17 cannabis plants, weighing 40 kilograms green, plus another 2 kilograms of
-already dry buds. [@1] During a more thorough inspection of the dwelling
+already dry buds. [@1,5] During a more thorough inspection of the dwelling
 officers also found the two kilograms of already dry marijuana buds, which were
 also seized. [@2,4] The seized material was handed over to the Health Area of the
 Government Subdelegation in Burgos. [@1,4]
