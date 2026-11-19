@@ -79,6 +79,11 @@ sources:
     publisher: TGRT Haber
     date: 2026-11-18
     language: tr
+  - title: 'İzmir Urla’da Sahil Güvenlik operasyonu: 266 kilogram skunk ele geçirildi'
+    url: https://www.afyonses.com/izmir-urla-da-sahil-guvenlik-operasyonu_-266-kilogram-skunk-ele-gecirildi,h23591
+    publisher: afyonses.com
+    date: 2026-11-19
+    language: tr
 open_questions:
   - The ministry did not say when the boat was stopped, what flag it flew, where it had come from or where it was bound.
   - No arrests, detentions or charges were reported, and no suspect had been identified.
@@ -86,16 +91,16 @@ open_questions:
 
 Turkey's Interior Ministry said Coast Guard units patrolling Bodrumiçi Cove, in
 the Urla district of İzmir province on the Aegean coast, judged a
-foreign-flagged sailing boat suspicious during inspections in the cove. [@1,4,5,6,7,8]
+foreign-flagged sailing boat suspicious during inspections in the cove. [@1,4,5,6,7,8,10]
 Personnel of the Coast Guard's Aegean Sea Regional Command and of the İzmir
 Provincial Gendarmerie Command searched the boat, with a narcotics detector dog
-taking part. [@1,4,5,6,7,8] Officers seized 266 kilograms of skunk, a cannabis product, on
-board. [@1,4,5,6,7,8] The 266 kilograms of skunk were hidden in various compartments of the boat. [@9]
+taking part. [@1,4,5,6,7,8,10] Officers seized 266 kilograms of skunk, a cannabis product, on
+board. [@1,4,5,6,7,8,10] The 266 kilograms of skunk were hidden in various compartments of the boat. [@9]
 
 The ministry announced the seizure in a written statement and congratulated the
-two commands and everyone who took part in the operation. [@1] No arrests were
+two commands and everyone who took part in the operation. [@1,10] No arrests were
 reported, and the DHA news agency said work was continuing to catch the
 suspects. [@2,4,6] The ministry said its fight against drugs, which it said targets
 young people's future, was being carried on with the police and gendarmerie on
-land and with the Coast Guard at sea. [@3,5] It called that sea area the 'Blue
+land and with the Coast Guard at sea. [@3,5,10] It called that sea area the 'Blue
 Homeland', Turkey's term for its maritime domain. [@3]
