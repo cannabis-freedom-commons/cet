@@ -44,6 +44,16 @@ sources:
     publisher: مصراوي
     date: 2026-11-16
     language: ar
+  - title: ضبط 3 تجار مخدرات وبحوزتهم شابو وهيروين وحشيش بقرية بهوت في نبروه - بوابة الأهرام
+    url: https://gate.ahram.org.eg/News/5986085.aspx
+    publisher: بوابة الأهرام
+    date: 2026-11-16
+    language: ar
+  - title: ضبط 3 أشخاص بحوزتهم مخدرات في قرية بهوت بالدقهلية
+    url: https://elzatonaa.com/news/36/%D8%B6%D8%A8%D8%B7-3-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8%D9%87%D9%88%D8%AA
+    publisher: الزتونة
+    date: 2026-11-16
+    language: ar
 open_questions:
     - No weight was given for the 4 slabs of hashish or the large hydro wrap, so no cannabis weight is recorded.
     - The report does not explain what hydro is, so only hashish is treated as the established cannabis component.
@@ -55,7 +65,7 @@ open_questions:
 Officers from the Nabaruh police investigation unit in Dakahlia arrested three
 unemployed men in Bahut village with mixed drugs including hashish, shabu,
 heroin and hydro, plus weapons and cash, before they could be sold to users.
-[@1,2] Dakahlia security officials said secret investigations led by the head of
+[@1,2,3] Dakahlia security officials said secret investigations led by the head of
 the Nabaruh station investigation unit found that three people were trading
 drugs in Bahut village. [@1,2] After obtaining prosecution permission, a security
 campaign led by the station investigation chief with officer Ibrahim Hammad
@@ -63,12 +73,12 @@ arrested the suspects with drugs and weapons. [@1,2]
 
 The first suspect, a Bahut resident, was held with 4 slabs of hashish, 83 bags
 of shabu, 46 wraps of heroin and a large wrap of hydro, as well as a firearm and
-cash. [@1,2] The second suspect, a 40-year-old Bahut resident, was held with 77
-bags of shabu, 31 wraps of heroin, cash and a dagger. [@1,2] The third suspect, a
+cash. [@1,2,3] The second suspect, a 40-year-old Bahut resident, was held with 77
+bags of shabu, 31 wraps of heroin, cash and a dagger. [@1,2,3] The third suspect, a
 37-year-old Bahut resident, was held with 51 bags of shabu, 12 wraps of heroin
-and cash. [@1,2]
+and cash. [@1,2,3]
 
 Confronted by officers, the three admitted possessing the drugs to trade to
 users, holding weapons to defend the trade, keeping the money as proceeds and
-using mobile phones to contact clients. [@1,2] Police filed the necessary report
-and notified the prosecution to open its investigation. [@1,2]
+using mobile phones to contact clients. [@1,2,3] Police filed the necessary report
+and notified the prosecution to open its investigation. [@1,2,4]
