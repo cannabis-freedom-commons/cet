@@ -53,29 +53,26 @@ sources:
     publisher: Balıklıgöl Haber
     date: 2026-11-19
     language: tr
-open_questions:
-  - No laboratory confirmation that the material was skunk was reported.
-  - No estimate of the street value of the 10.3 kilograms was published.
-  - The accounts do not name the neighbourhood or road in Eyyübiye where the car was stopped.
-  - No charge, plea or court decision was reported; the suspect was still being processed for the judicial authorities.
-  - 14 November 2026 is the date the gendarmerie received the information and began surveillance; the accounts do not separately date the stop, so that date is used for the incident.
-  - All three accounts reproduce the same governor's office and provincial gendarmerie statement, so they are not independent reporting.
+  - title: Şanlıurfa’da 10,3 kilo skunk ele geçirildi - Şanlıurfa Haberleri
+    url: https://www.sabah.com.tr/sanliurfa/2026/11/19/sanliurfada-103-kilo-skunk-ele-gecirildi
+    publisher: Sabah
+    date: 2026-11-19
+    language: tr
 ---
 
 Şanlıurfa gendarmerie teams detained one suspect and seized 10.3 kilograms of
-skunk in an operation in Eyyübiye district. [@3] The operation was run by the
+skunk in an operation in Eyyübiye district. [@3,4] The operation was run by the
 Şanlıurfa provincial gendarmerie command's narcotics crimes branch, the Narkotik
-Suçlarla Mücadele Şube Müdürlüğü. [@1] The gendarmerie acted on information
+Suçlarla Mücadele Şube Müdürlüğü. [@1,4] The gendarmerie acted on information
 received on 14 November 2026 that the suspect, identified as Z.A., would
 transport a large amount of drugs in his car. [@3] Officers put the suspect
 under physical surveillance the same day and caught him with his car in the
 Eyyübiye operation. [@2]
 
-A search of the car found 10 kilograms 300 grams of skunk. [@1]
+A search of the car found 10 kilograms 300 grams of skunk. [@1,4]
 
 The suspect was detained and procedures were under way to bring him before the
 judicial authorities. [@1] The detained suspect was taken to the gendarmerie for
 processing before being sent to the judicial authorities. [@2] The Şanlıurfa
 provincial gendarmerie command said its anti-narcotics operations and work would
 continue without interruption. [@3]
-
