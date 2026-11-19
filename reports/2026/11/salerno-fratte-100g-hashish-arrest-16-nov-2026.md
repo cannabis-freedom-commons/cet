@@ -72,6 +72,21 @@ sources:
     publisher: InfoCilento
     date: 2026-11-18
     language: it
+  - title: Spaccio in strada, 24enne arrestato dai carabinieri, trovati 100 grammi di hashish
+    url: https://www.lostrillone.tv/news/cronaca/534099/spaccio-in-strada-24enne-arrestato-dai-carabinieri-trovati-100-grammi-di-hashish.html
+    publisher: Lo Strillone TV
+    date: 2026-11-18
+    language: it
+  - title: 'Salerno, 24enne arrestato per spaccio: trovati 100 grammi di hashish e 540 euro in contanti'
+    url: https://www.lacittadisalerno.it/cronaca/salerno-24enne-arrestato-per-spaccio-trovati-100-grammi-di-hashish-e-540-euro-in-contanti-m0pf16q1
+    publisher: La Città di Salerno
+    date: 2026-11-18
+    language: it
+  - title: Salerno, 24enne arrestato con 100 grammi di hashish e 540 euro in contanti
+    url: https://www.telenuova.tv/2026/11/18/salerno-24enne-arrestato-con-100-grammi-di-hashish-e-540-euro-in-contanti/
+    publisher: Telenuova
+    date: 2026-11-18
+    language: it
 open_questions:
   - The hashish is given as about 100 grams, not an exact measured weight.
   - Irno24 dates the arrest only to 'recent hours' before its 18 November publication; 16 November is used because SalernoToday, Occhi su Salerno and Salernonotizie give that date.
@@ -80,20 +95,26 @@ open_questions:
   - The man was named only by his age, and no plea, detention measure or court date was reported.
   - The reports do not say whether this is the same 24-year-old whom the same station arrested on 10 November with about 45 grams of hashish, eight .380 bullets and 1,135 euros.
   - The outlets appear to reproduce the same Carabinieri statement, so they are not independent accounts.
+media:
+  - kind: photo
+    url: https://www.lacittadisalerno.it/cronaca/salerno-24enne-arrestato-per-spaccio-trovati-100-grammi-di-hashish-e-540-euro-in-contanti-m0pf16q1
+    media_url: https://images.lacittadisalerno.it/view/acePublic/alias/contentid/1v721ciiu9rfiq2rtzr/0/drogaesoldi-jpg.webp?f=3%3A2&q=0.75&w=3840
+    publisher: La Città di Salerno
+    caption: The seized hashish and cash laid out after the Fratte station arrest, captioned on the page 'Lo stupefacente e i contanti sequestarti'.
 ---
 
 Carabinieri from the Salerno Fratte station arrested a 24-year-old man in
-Salerno on 16 November 2026. [@5,6] He is under investigation for detenzione di
+Salerno on 16 November 2026. [@5,6,7,8,9] He is under investigation for detenzione di
 sostanza stupefacente ai fini di spaccio, the offence of possessing a narcotic
-substance for the purpose of dealing. [@2,6]
+substance for the purpose of dealing. [@2,6,7,8]
 
 A search of what the young man had at his disposal found about 100 grams of
-hashish, the resin form of cannabis. [@2,6] Officers also seized material for
-packaging the drug into doses. [@1,6] Along with the drug and packaging, they took
+hashish, the resin form of cannabis. [@2,6,7,8,9] Officers also seized material for
+packaging the drug into doses. [@1,6,7,8] Along with the drug and packaging, they took
 540 euros in cash, which they described as the likely proceeds of the illegal
-activity. [@3,6]
+activity. [@3,6,7,8,9]
 
 The operation fell within the Carabinieri's activity against drug dealing in the
 area, Occhi su Salerno reported. [@4] The accusations were made at the
 preliminary investigation stage, and the man's responsibility must still be
-established in court. [@4,6]
+established in court. [@4,6,7]
