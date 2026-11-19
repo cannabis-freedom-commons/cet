@@ -49,6 +49,11 @@ media:
     media_url: https://www.radiovaledominho.com/wp-content/uploads/2026/11/Viana-do-Castelo_Apreensao-12.jpg
     publisher: Rádio Vale do Minho
     caption: 'Seized doses, plant and cultivation material from the Ponte de Lima trafficking operation in the GNR handout photo. Photo: GNR divulgação'
+  - kind: photo
+    url: https://www.cmjornal.pt/portugal/amp/suspeitos-de-trafico-tinham-estufa-de-canabis-em-casa
+    media_url: https://cdn.cmjornal.pt/images/2026-11/img_932x621uu2026-11-19-09-29-06-2322547.jpg
+    publisher: Correio da Manhã
+    caption: 'Indoor cannabis greenhouse seized in a Ponte de Lima house in the GNR handout photo. Photo: GNR'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 23c28d618a8158acb72d7e39aeb8dd08
@@ -74,27 +79,33 @@ sources:
     publisher: Rádio Vale do Minho
     date: 2026-11-19
     language: pt
+  - title: Suspeitos de tráfico tinham estufa de canábis em casa
+    url: https://www.cmjornal.pt/portugal/amp/suspeitos-de-trafico-tinham-estufa-de-canabis-em-casa
+    publisher: Correio da Manhã
+    date: 2026-11-19
+    language: pt
 open_questions:
   - No weight in grams was published for the three hashish doses, so no cannabis weight is recorded.
   - No quantity or value was published for the cultivation products and electronic equipment beyond the tent, plant and phones.
   - No plea, coercive measure or court outcome beyond the arguido status and referral to the Ponte de Lima court was reported.
   - The cocaine doses are excluded from cannabis figures and no cocaine weight was given.
   - The outlets reproduce the same GNR statement and add no independent account of the searches.
+  - The Correio da Manhã seizure line reads '12 doses de haxixe, três de haxixe', duplicating hashish, while the GNR-based accounts record 12 cocaine doses and three hashish doses; the report keeps the official breakdown.
+  - 18 November 2026 is inferred from 'ontem' relative to the 19 November 2026 publication; no calendar date for the searches is stated.
 ---
 
 GNR officers from the Viana do Castelo territorial command, through the Arcos de
 Valdevez criminal investigation unit, detained two men aged 35 and 42 on 18
 November in the municipality of Ponte de Lima for suspected drug trafficking.
-[@1] The detentions followed a drug-trafficking investigation that had run for
+[@1] The home searches were carried out in Feitosa and Arcozelo, both in the municipality of Ponte de Lima. [@5] The detentions followed a drug-trafficking investigation that had run for
 about nine months and led to the execution of two home search warrants and two
-vehicle searches. [@1] The two detainees were made formal suspects and the facts
-were communicated to the Judicial Court of Ponte de Lima. [@4] The operation was
+vehicle searches. [@1,5] The two detainees were made formal suspects and the facts
+were communicated to the Judicial Court of Ponte de Lima. [@4] The two detainees were made formal suspects but will await the proceedings in liberty under the Ponte de Lima Public Prosecutor's Office. [@5] The operation was
 reinforced by the Intervention Detachment of the Viana do Castelo command and a
-dog team from the Braga command. [@1]
+dog team from the Braga command. [@1,5]
 
 Officers seized 12 doses of cocaine, three doses of hashish and one cannabis
 plant. [@2] They also seized an indoor cultivation tent, three mobile phones and
-assorted electronic equipment and products intended for growing drugs. [@3] The
+assorted electronic equipment and products intended for growing drugs. [@3,5] The
 cocaine doses are not counted as cannabis; only the hashish doses and the single
 plant form the cannabis component of this mixed seizure. [@2]
-
