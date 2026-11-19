@@ -40,22 +40,26 @@ sources:
     publisher: Periódico Zócalo
     date: 2026-11-18
     language: es
+  - title: Arrestan a pareja con droga
+    url: https://superchannel12.com/piedras-negras/arrestan-a-pareja-con-droga-711112
+    publisher: Super Channel 12
+    date: 2026-11-18
+    language: es
 ---
 
 A man and a woman were arrested in Piedras Negras, Coahuila, after police found
-doses of marijuana and crystal methamphetamine in their possession. [@1] The two
+doses of marijuana and crystal methamphetamine in their possession. [@1,2] The two
 were named as Zenaido “N”, 60, and San Juanita “N”, 58, in the anonymised form
-the newspaper published. [@1] They were detained in a Grand Marquis car on Niños
+the newspaper published. [@1,2] They were detained in a Grand Marquis car on Niños
 Héroes and de la Fuente streets in Villa de Fuente, a locality of Piedras
-Negras. [@1] Criminal Investigation Police officers made the arrest during a
-surveillance operation. [@1]
+Negras. [@1,2] Criminal Investigation Police officers made the arrest during a
+surveillance operation. [@1,2]
 
 Officers of the state prosecutor's office, the Fiscalía General del Estado,
-stopped the vehicle and searched it, and found the drugs inside. [@1] The couple
-are accused of possession of doses of crystal and marijuana. [@1] Considerable
+stopped the vehicle and searched it, and found the drugs inside. [@1,2] The couple
+are accused of possession of doses of crystal and marijuana. [@1,2] Considerable
 quantities of marijuana and crystal were seized, according to the information
-the newspaper had, which published no weight for either drug. [@1]
+the newspaper had, which published no weight for either drug. [@1,2]
 
 The amount did not reach the limit for the case to be handed to federal
-authorities. [@1]
-
+authorities. [@1,2]
