@@ -48,25 +48,27 @@ sources:
     url: https://www.heraldgoa.in/goa/mandrem-police-arrest-man-for-allegedly-growing-cannabis-at-arambol-rented-premises/496115/
     publisher: Herald Goa
     date: 2026-11-19
+  - title: Mumbai Man Arrested For Illegally Cultivating Cannabis At Arambol Guest House
+    url: https://goemkarponn.com/mumbai-man-arrested-for-illegally-cultivating-cannabis-at-arambol-guest-house/
+    publisher: Goemkarponn
+    date: 2026-11-19
 open_questions:
-  - No separate date for the arrest or seizure was given; 19 November 2026 is the publication date and stands in for the incident date.
-  - The plants were described only as allegedly cultivated cannabis, with no laboratory confirmation reported.
-  - No weight for the plants was published, only a police-estimated value of about Rs 3.60 lakh.
-  - No plea, custody detail or court outcome beyond registration of the case and ongoing investigation was reported.
-  - The account rests on a single opened report attributed to police; no second independent account could be opened.
+    - The plants were described only as allegedly cultivated cannabis, with no laboratory confirmation reported.
+    - No weight for the plants was published, only a police-estimated value of about Rs 3.60 lakh.
+    - No plea, custody outcome or court result beyond registration of the case and ongoing investigation was reported.
+    - Both opened accounts derive from the same police information and are not independent reporting.
 ---
 
 Mandrem Police in Pernem arrested 48-year-old Joel Joseph D’Souza for allegedly
-cultivating cannabis plants at a rented premises in Arambol. [@1] A case over
+cultivating cannabis plants at a rented premises in Arambol. [@1,2] Police identified him as originally from Malad West, Mumbai, Maharashtra. [@2] Police said the accused was interrogated and allegedly confessed, then was formally arrested at 4.23 am on 18 November 2026 after being told the grounds for arrest and his right to bail. [@2] A case over
 the alleged cultivation has been registered at Mandrem Police Station under
 Section 20(a)(i) of the Narcotic Drugs and Psychotropic Substances Act, 1985.
 [@1] The account was published on 19 November 2026 and gives no separate date
-for the arrest or the seizure. [@1]
+for the arrest or the seizure. [@1] Police conducted the raid between 1.30 am and 3.15 am on 18 November 2026, with PSI Pratik Garudi of Mandrem Police Station leading two panch witnesses and a police raiding team acting on specific information. [@2]
 
 According to police, nine cannabis plants were found growing in pots at the
-rented premises at Rocktop Guest House in Khalchawada, Arambol. [@1] Police
-estimated the nine potted plants to be worth approximately Rs 3.60 lakh. [@1]
+rented premises at Rocktop Guest House in Khalchawada, Arambol. [@1,2] Police
+estimated the nine potted plants to be worth approximately Rs 3.60 lakh. [@1,2]
 
 Further investigation was underway at the time of reporting, with no additional
 arrests, charges or court outcome described. [@1]
-
