@@ -55,23 +55,30 @@ sources:
     publisher: Telangana Today
     date: 2026-11-19
     language: en
+  - title: గచ్చిబౌలి పీజీ హాస్టల్‌లో డ్రగ్స్‌ కలకలం..
+    url: https://prabhanews.com/drugs-related-stir-at-a-pg-hostel-in-gachibowli/
+    publisher: Prabha News
+    date: 2026-11-19
+    language: te
+open_questions:
+  - The new source says those who tested positive and the seized ganja were handed to Madhapur police but that Gachibowli police registered the case, leaving which station is handling the case unclear.
 ---
 
 The EAGLE Force carried out a surprise raid at a men's paying-guest hostel in
 Gachibowli, Hyderabad on Thursday, November 19. [@1,2,4] The team raided Hari Hara
 Gyaneshwara Men's PG Hostel at Siddiq Nagar in Gachibowli, within Madhapur
-Police Station limits. [@1,4] Eight residents underwent urine screening, and six
-tested positive for THC, the psychoactive compound in ganja. [@1,2,4] The six were
+Police Station limits. [@1,4,5] Eight residents underwent urine screening, and six
+tested positive for THC, the psychoactive compound in ganja. [@1,2,4,5] The six were
 Jayanth aged 23, Naveen aged 28, Sathish aged 24, Prasanth aged 24, Sidharth
 aged 23 and Nidhin aged 24, with three working as Amazon delivery personnel, two
 as software engineers and one as a pharmacist. [@1] The six residents were
-handed over to Madhapur Police for further legal action. [@1,4]
+handed over to Madhapur Police for further legal action. [@1,4,5]
 
 Officers recovered around five grams of ganja from Naveen and another 10 grams
 from Jayanth. [@1,3] The operation seized 15 grams of ganja and pre-rolled cones,
-and three suspected suppliers were identified. [@1,2,4] Residents allegedly procured
+and three suspected suppliers were identified. [@1,2,4,5] Residents allegedly procured
 the drug from Babulu Thakur alias Bablu, Thapan and Krishna, paying Rs 600 for a
-five-gram packet. [@1,4]
+five-gram packet. [@1,4,5]
 
 Officials are examining information that outsiders visited the hostel late at
 night and allegedly consumed ganja with residents. [@1] The EAGLE team
