@@ -243,19 +243,11 @@ sources:
     url: https://www.zaobao.com.sg/en/news/sea/singaporean-charged-drug-trafficking-ipoh-faces-death-penalty-or-caning-if-convicted
     publisher: Zaobao English
     date: 2026-11-19
-open_questions:
-    - The sources disagree on the value of the cannabis, from about RM1.5 million to RM1.52 million; the report uses the RM1.52 million figure and the Straits Times' S$473,000 conversion.
-    - 'The sources disagree on the man''s lodging in Kajang: some say he stayed at a hotel there, others that he collected the drugs from a supplier; they agree he picked up the load in Kajang on 7 November.'
-    - The sources disagree on whether the seven-day remand began on 8 or 9 November, and where it ends; the report's text says 9 November.
-    - It is not known how the syndicate intended to move the drugs on from Singapore to London, or why the flight transited there.
-    - The material is described as dried cannabis flower or buds; no laboratory confirmation was reported, and the court fixed 26 February 2027 for mention of the chemistry report.
-    - The promised wage is given variously as S$4,000 (about RM12,600 to RM12,690) and more than RM12,500; no wage amount is recorded in the figures.
-    - Reports describe the seizure as the second or the second largest drug case at Ipoh airport this year, after a 1 September 2026 arrest there of a foreign man with 26.2 kg of cannabis buds under Op Tebuan; that is a separate event not covered here.
-    - No count of other suspects in the Kajang syndicate was published.
-    - Mothership converts the RM1.52 million valuation to S$480,500, a different conversion from the S$473,000 conversion already recorded.
-    - The charge article gives no explicit date for the court appearance; 19 November 2026, its publication date, is used as the incident date.
-    - The man's age is given as 29 in the reports of the arrest, 28 in the Malay Mail and NST accounts of the charge and 26 in the Free Malaysia Today account.
-    - Free Malaysia Today says the court set 26 February 2027 for a mention, while the Bernama account carried by Malay Mail says it was for submission of the chemistry report.
+  - title: 新加坡人怡保运毒被控 若罪成将面临死刑 | 联合早报
+    url: https://www.zaobao.com.sg/news/sea/story20261119-10025227
+    publisher: 联合早报
+    date: 2026-11-19
+    language: zh
 media:
   - kind: photo
     url: https://www.malaymail.com/news/malaysia/2026/11/10/singaporean-lured-by-rm12685-job-offer-arrested-remanded-seven-days-over-rm15m-cannabis-haul-at-ipoh-airport/242670
@@ -317,7 +309,7 @@ media:
 Perak police arrested a 29-year-old unemployed Singaporean man at Sultan Azlan
 Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3,10,12,13,14,15,16,17,18,19,20,22,27,29,31,32] Auxiliary police at the
 check-in counter searched his baggage and found 36 plastic packages holding
-19,040g of dried marijuana flowers. [@1,3,6,8,9,10,11,12,14,15,17,19,21,29,31] The airport's own auxiliary police, Polis Bantuan Lapangan Terbang Sultan Azlan Shah (LTSAS), detected the attempt during the check-in counter inspection. [@17,25,29] Police found 36 transparent plastic packages containing dried cannabis flower in his zippered baggage, weighing 19.04 kg and valued at RM1.52 million. [@16,20,22,24,25] Police valued the cannabis at about
+19,040g of dried marijuana flowers. [@1,3,6,8,9,10,11,12,14,15,17,19,21,29,31,45] The airport's own auxiliary police, Polis Bantuan Lapangan Terbang Sultan Azlan Shah (LTSAS), detected the attempt during the check-in counter inspection. [@17,25,29] Police found 36 transparent plastic packages containing dried cannabis flower in his zippered baggage, weighing 19.04 kg and valued at RM1.52 million. [@16,20,22,24,25] Police valued the cannabis at about
 RM1.5 million. [@1,3,10,12,13,14,15,17,18,19,20,23,27,31] Perak police said the seizure was the second drug case they had cracked at Ipoh airport. [@19,31] The New Straits Times put the weight at 19.04kg and the
 value at RM1.52 million, an amount police said was enough to supply 47,900 drug
 users. [@2]
@@ -334,7 +326,7 @@ Perak police chief Comm Datuk Mohd Alwi Zainal Abidin said syndicates
 increasingly use less busy airports such as Ipoh, which has one daily flight to
 Singapore, to traffic drugs abroad. [@2,3,5,10,11,16,18,19,27,32] The man was remanded for seven days
 from 9 November under Section 39B of the Dangerous Drugs Act 1952, which carries
-a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14,16,17,18,20,22,28,31] Deputy public prosecutor Ainin Sofiya Azlaini prosecuted, while counsel Sivahnanthan Ragava represented the accused. [@33,34,35,37,38,39,40,41] No bail was offered. [@33,34,37,38,39,40,41,42,43] The court fixed 26 February 2027 for mention of the chemistry report. [@33,34,36,37,38,39,40,41,42,43,44] Chen was accused of trafficking an estimated 19,040 grammes of cannabis under Section 39B(1)(a) of the Dangerous Drugs Act 1952. [@33,34,37,38,39,40,41,42] The charge was read in Mandarin before magistrate Norizan Riduan. [@33,34,37,38,40,41] The court recorded no plea because the case falls under the jurisdiction of the High Court. [@34,35,40,42,43,44] The accused was named as Chen Long and allegedly committed the offence at 6.20am at Baggage Machine A at the airport's check-in counter. [@33,34,35,37,38,39,40,41,43] A Singaporean man was charged at the Ipoh magistrate's court with trafficking 19.04kg of cannabis. [@33,34,35,37,38,39,40,41,42,43]
+a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14,16,17,18,20,22,28,31] Deputy public prosecutor Ainin Sofiya Azlaini prosecuted, while counsel Sivahnanthan Ragava represented the accused. [@33,34,35,37,38,39,40,41] No bail was offered. [@33,34,37,38,39,40,41,42,43,45] The court fixed 26 February 2027 for mention of the chemistry report. [@33,34,36,37,38,39,40,41,42,43,44,45] Chen was accused of trafficking an estimated 19,040 grammes of cannabis under Section 39B(1)(a) of the Dangerous Drugs Act 1952. [@33,34,37,38,39,40,41,42] The charge was read in Mandarin before magistrate Norizan Riduan. [@33,34,37,38,40,41,45] The court recorded no plea because the case falls under the jurisdiction of the High Court. [@34,35,40,42,43,44,45] The accused was named as Chen Long and allegedly committed the offence at 6.20am at Baggage Machine A at the airport's check-in counter. [@33,34,35,37,38,39,40,41,43,45] A Singaporean man was charged at the Ipoh magistrate's court with trafficking 19.04kg of cannabis. [@33,34,35,37,38,39,40,41,42,43]
 
 The man arrived in Ipoh on 7 November after picking up the load in Kajang and travelling by e-hailing car. [@3,5]
 
