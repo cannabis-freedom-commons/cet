@@ -59,29 +59,27 @@ sources:
     publisher: L'Unione Sarda
     date: 2026-11-19
     language: zh
-open_questions:
-  - No separate date for the traffic check or searches was given; 19 November 2026 is the publication date and stands in for the incident date.
-  - The man's identity, age and nationality were not reported.
-  - The drugs were described as marijuana, hashish and cocaine with no laboratory confirmation reported.
-  - The 1,160 grams of cocaine found at home and 4 grams found in doses are excluded from the cannabis figures; only the 86 grams of marijuana and 11 grams of hashish are counted.
-  - Both accounts appear to reproduce the same Carabinieri account and are not independent reporting.
-  - The 11 grams in the package hidden in the clothing is described as marijuana in one account and as hashish in others.
+  - title: 'Capoterra, in casa aveva oltre un chilo di cocaina: arrestato'
+    url: https://www.cagliaritoday.it/cronaca/capoterra-arresto-spaccio-cocaina-sequestro-carabinieri.html
+    publisher: CagliariToday
+    date: 2026-11-19
+    language: it
 ---
 
 Carabinieri from the Capoterra station arrested a man on charges of possession
-of narcotics for the purpose of trafficking and resisting arrest. [@1,3] The
+of narcotics for the purpose of trafficking and resisting arrest. [@1,3,4] The
 operation began during a road-traffic control when the driver's suspicious
 behaviour led officers to carry out a personal search and then a home search.
-[@1,3] During the initial identification the man allegedly resisted, pushing
-officers away while trying to discard a package hidden among his clothes. [@1]
+[@1,3,4] During the initial identification the man allegedly resisted, pushing
+officers away while trying to discard a package hidden among his clothes. [@1,4]
 After completing the formal procedures, the man was taken to the Uta prison,
 where he remains at the disposal of the judicial authorities pending the
-validation hearing. [@1,3]
+validation hearing. [@1,3,4]
 
 Inside the residence officers found approximately 86 grams of marijuana and
 1,160 grams of cocaine, along with materials used to weigh and package
-narcotics. [@1,3] The package hidden in his clothes contained 11 grams of hashish
-and 4 grams of cocaine, already divided into 22 doses ready for sale. [@1]
+narcotics. [@1,3,4] The package hidden in his clothes contained 11 grams of hashish
+and 4 grams of cocaine, already divided into 22 doses ready for sale. [@1,4]
 Officers seized all the drugs and completed the security operations. [@1]
 
 Carabinieri of the Capoterra station conducted the operation during targeted
