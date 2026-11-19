@@ -95,6 +95,11 @@ sources:
     url: https://katu.com/news/local/multi-county-illegal-grow-raid-nets-2000-marijuana-plants-guns-191k-cash-luxury-watches-gold-canby-clackamas-yamhill-multnomah-oregon
     publisher: KATU
     date: 2026-11-19
+  - title: Marijuana, guns, gold, cash found during ‘illegal’ grow investigation near Canby
+    url: https://www.azfamily.com/video/2026/11/19/marijuana-guns-gold-cash-found-during-illegal-grow-investigation-near-canby/
+    publisher: Arizona's Family (KPHO)
+    date: 2026-11-19
+    language: en
 ---
 
 Canby police interviewed five suspects in connection with an illegal marijuana
@@ -108,7 +113,7 @@ two in Multnomah County and one in Yamhill County. [@2,4,5,6]
 Investigators seized approximately 2,000 marijuana plants, approximately 140
 pounds (about 63.5 kilograms) of processed marijuana, eight firearms, two
 firearm suppressors, $191,384 in cash, two luxury watches and approximately
-$20,000 in gold. [@2,4,5,7]
+$20,000 in gold. [@2,4,5,7,8]
 
 The Canby Police Department was assisted by the Clackamas County Interagency
 Task Force, the Clackamas County SWAT team and the Yamhill County Street Crimes
