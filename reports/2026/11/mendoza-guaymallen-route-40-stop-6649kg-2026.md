@@ -103,11 +103,16 @@ sources:
     publisher: Tiempo de San Juan
     date: 2026-11-19
     language: es
+  - title: Gendarmería secuestró más de seis kilos de marihuana y desbarató un cultivo en Mendoza
+    url: https://www.8digital.com.ar/gendarmeria-secuestro-mas-de-seis-kilos-de-marihuana-y-desbarato-un-cultivo-en-mendoza/
+    publisher: 8 Digital
+    date: 2026-11-19
+    language: es
 ---
 
 Gendarmes of Escuadrón 64 “Mendoza” stopped a woman in a Renault Logan near the
 ISCAMEN plant-health post on National Route 40 in Lavalle department and found
-bags holding ziplock wrappings of plant material. [@1,2,3,5] Forensic checks confirmed
+bags holding ziplock wrappings of plant material. [@1,2,3,5,6] Forensic checks confirmed
 3 kilograms 795 grams of marijuana buds. [@1,2,3,4,5] The court ordered her detention
 and the seizure of the drug, two mobile phones and cash. [@1,2,3]
 
@@ -115,14 +120,14 @@ The Mendoza unit for complex crimes traced her address and obtained a search
 warrant for a property in Guaymallén department. [@1,2,3] Officers carried out the
 raid the day before the 18 November 2026 statement, on 17 November, supported by
 personnel and resources from Region X headquarters. [@1,3] In the house officers
-seized 16 marijuana plants and 2 kilograms 854 grams of cannabis. [@1,2,3,4,5] They also
+seized 16 marijuana plants and 2 kilograms 854 grams of cannabis. [@1,2,3,4,5,6] They also
 seized 22 closed boxes of fertiliser and 142 units of products used to grow and
 speed plant growth. [@1,2,3] Officers found five pipes of different sizes, a
 grinder, rolling papers, a tablet described as LCD, two precision scales and
 other items. [@1,2,3]
 
 Gendarmería said the two procedures together seized 6 kilograms 649 grams of
-marijuana, along with cultivation and storage material. [@1,2,3,4,5] The Federal
+marijuana, along with cultivation and storage material. [@1,2,3,4,5,6] The Federal
 Guarantees Court No. 2 of Mendoza ordered all the items seized and kept the
 woman in detention and incommunicado, with transfer to Penitentiary Unit No. 32
-under Law 23.737, Argentina’s narcotics law. [@1,2,3,4,5]
+under Law 23.737, Argentina’s narcotics law. [@1,2,3,4,5,6]
