@@ -49,25 +49,26 @@ sources:
     publisher: Diario El Libertador de Corrientes
     date: 2026-11-18
     language: es
-open_questions:
-  - No arrests, suspects, charges or court outcome were reported.
-  - No weight, size, cultivation details or value estimate for the 13 plants was published.
-  - The reports give the raid as early on the same Wednesday as publication, so 18 November 2026 is used as the incident date.
+  - title: 'CORRIENTES: Secuestraron Trece Plantas De Marihuana En Un Operativo Antidrogas – Noticias del paraná'
+    url: https://www.noticiasdelparana.com.ar/NuevaEdicion/2026/11/19/corrientes-secuestraron-trece-plantas-de-marihuana-en-un-operativo-antidrogas/
+    publisher: Noticias del parana
+    date: 2026-11-19
+    language: es
 ---
 
 On Wednesday 18 November 2026, the Corrientes police carried out a raid on a
 home in the town of San Roque where officers seized more than a dozen marijuana
-plants. [@1,3] The search was carried out as part of an investigation into a suspected infringement of Argentina's narcomenudeo law, the offence covering small-scale drug sales, under the coordination of the prosecutor's unit handling the case. [@3] The raided home is located at Desiderio Sosa street at number 700,
+plants. [@1,3,4] The search was carried out as part of an investigation into a suspected infringement of Argentina's narcomenudeo law, the offence covering small-scale drug sales, under the coordination of the prosecutor's unit handling the case. [@3] The raided home is located at Desiderio Sosa street at number 700,
 and the joint operation brought together the San Roque District police station,
-the Tactical Operational Group and Regional Unit II Goya. [@1,3] The search took
+the Tactical Operational Group and Regional Unit II Goya. [@1,3,4] The search took
 place in the early hours of that Wednesday with the involvement of special
-forces and with the intervention of the provincial judiciary. [@1]
+forces and with the intervention of the provincial judiciary. [@1,4]
 
 During the inspection of the home, officers found plants linked to a legal
 infraction and seized a total of thirteen plants with physical characteristics
 compatible with Cannabis Sativa marijuana. [@2] Specialist personnel then
 carried out the required orientative test on the seized plants, which confirmed
-in a positive way the presence of the prohibited substance. [@2]
+in a positive way the presence of the prohibited substance. [@2,4]
 
 Following the positive test, officers carried out the formal seizure of the
 thirteen plants, which remained in the police station at the disposal of the
