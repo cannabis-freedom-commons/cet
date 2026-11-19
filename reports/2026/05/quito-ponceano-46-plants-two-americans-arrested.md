@@ -39,6 +39,11 @@ media:
     media_url: https://imagenes.primicias.ec/files/content_image_simple_583_325/uploads/2026/05/27/6a170b8489495.jpeg
     publisher: Primicias
     caption: 'The marijuana plantation found inside the Ponceano property, north Quito, 27 May 2026. Photo: Fiscalía de Ecuador'
+  - kind: photo
+    url: https://www.elcomercio.com/actualidad/seguridad/capturan-estadounidenses-plantaban-marihuana-quito/
+    media_url: https://media.elcomercio.com/wp-content/uploads/2026/05/8ace8ccd04f6292a62bd4450f886f763-1024x768.jpg
+    publisher: El Comercio
+    caption: 'Marijuana plants found in two properties in Quito during the Ponceano operation. Photo: Policía Nacional via El Comercio'
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 433e4af76526236363404b6f2579e0e0
@@ -59,32 +64,37 @@ sources:
     publisher: Metro Ecuador
     date: 2026-05-28
     language: es
+  - title: Capturan a estadounidenses que plantaban marihuana en Quito - El Comercio
+    url: https://www.elcomercio.com/actualidad/seguridad/capturan-estadounidenses-plantaban-marihuana-quito/
+    publisher: El Comercio
+    date: 2026-05-28
+    language: es
 open_questions:
   - No source states the total weight of the marijuana seized, only 46 pots of plants, 6 jars of greenish vegetable matter and 12 plastic bags of marijuana.
   - No charges, detention order or court outcome is reported for either detainee, and it is not stated whether the United States has requested their extradition.
   - Primicias describes a single house in Ponceano while Metro Ecuador and El Universo report two properties raided.
   - 'The outlets give the names differently: Primicias uses Hamilton Sir and Guillermo Eguez, El Universo Sir Rossi H. A. and Octavio E., and Metro Ecuador the fuller Hamilton Andrew Sir Rossi and Eguez Guillermo Octavio.'
   - No monetary value for the plantation or the drug was published.
+  - El Comercio identifies the detainees only as Andrew H. and Guillermo E., a shorter form than the fuller names already recorded, so the exact full names remain unsettled.
 ---
 
 Police arrested two US citizens at a property in Ponceano, in northern Quito,
-that they ran as a marijuana growing, processing and sales centre. [@1]
+that they ran as a marijuana growing, processing and sales centre. [@1,4]
 Ecuadorian police identified the detainees as Hamilton Andrew Sir Rossi and
 Eguez Guillermo Octavio, both US nationals. [@3] Interior Minister John Reimberg
 said on X that both men were considered high-danger targets wanted by US
-justice. [@1]
+justice. [@1,4]
 
-Officers found 46 pots holding marijuana plants inside the property. [@2]
+Officers found 46 pots holding marijuana plants inside the property. [@2,4]
 Evidence collected included 6 jars of greenish vegetable matter, 12 plastic bags
 of marijuana, three bags of seeds, four digital scales, two laptops, a tablet
-and four mobile devices. [@2] Police also seized fraudulent identification
-documents that Reimberg said were used to stay in hiding inside Ecuador. [@1]
+and four mobile devices. [@2] Officers also seized a plastic-bag sealer. [@4] Officers also seized two containers of greenish plant matter. [@4] Police also seized fraudulent identification
+documents that Reimberg said were used to stay in hiding inside Ecuador. [@1,4]
 Officers raided two properties where the grow and processing operation was
-allegedly running. [@3]
+allegedly running. [@3,4]
 
 The operation was carried out on 27 May 2026 in Ponceano, in northern Quito.
-[@3] Police said the operation was run in coordination with the US Marshals
-Service. [@1] Both detainees face outstanding arrest warrants issued by North
+[@3,4] The operation was called Fénix 261. [@4] Police said the operation was run in coordination with the US Marshals
+Service. [@1,4] The Migration Undersecretariat, tactical groups, criminalistics units and the Attorney General's Office also took part in coordinating the operation. [@4] Both detainees face outstanding arrest warrants issued by North
 Carolina judicial authorities for drug trafficking, conspiracy to traffic drugs
-and illegal possession of firearms. [@1]
-
+and illegal possession of firearms. [@1,4] The two detainees were taken to the Flagrancy Unit and placed at the disposal of the competent authority for the corresponding legal procedure. [@4]
