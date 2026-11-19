@@ -44,6 +44,11 @@ sources:
     publisher: Politie
     date: 2026-11-13
     language: nl
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#117)
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-117/
+    publisher: CNNBS.nl
+    date: 2026-11-19
+    language: nl
 open_questions:
   - No arrest, detention, suspect identity, charge or court outcome was reported; the case was under investigation.
   - The reports do not say which garage box the cannabis was in, who rented or used it, or the exact measured weight beyond 7.5 kg.
@@ -57,9 +62,8 @@ Berkhoutplantsoen in Monnickendam. [@1] The cannabis was found in a garage box
 at that location. [@1]
 
 Sniffer dogs deployed through the municipality were used during the inspection.
-[@2] The inspection was aimed in part at tracing illegal fireworks. [@1] No
+[@2] The inspection was aimed in part at tracing illegal fireworks. [@1,3] No
 fireworks were found. [@1]
 
 Police are investigating the find and the possible involvement of a suspect.
-[@2] The suspected offence is dealing in soft drugs. [@2]
-
+[@2,3] The suspected offence is dealing in soft drugs. [@2,3]

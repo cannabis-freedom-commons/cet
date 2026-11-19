@@ -77,6 +77,11 @@ sources:
     publisher: Nieuwsblad
     date: 2026-11-16
     language: nl
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#117)
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-117/
+    publisher: CNNBS.nl
+    date: 2026-11-19
+    language: nl
 media:
   - kind: photo
     url: https://www.rtbf.be/article/pres-de-50-000-euros-saisis-apres-une-transaction-de-drogue-presumee-dans-les-marolles-11816213
@@ -105,8 +110,8 @@ away for questioning. [@1,2,4]
 Police said the man was already known for similar offences, after which
 detectives carried out a house search in the centre of Brussels. [@1,4] Officers
 found 49,475 euros in cash in various denominations and just over half a
-kilogram of cannabis resin. [@1,2,3,4,5,6,7] Officers also seized 57 grams of cannabis and
-0.77 grams of cocaine. [@1,2,3,4,5,6,7]
+kilogram of cannabis resin. [@1,2,3,4,5,6,7,8] Officers also seized 57 grams of cannabis and
+0.77 grams of cocaine. [@1,2,3,4,5,6,7,8]
 
 After questioning, the suspect was placed at the disposal of the prosecutor.
 [@1,2,3,4,5,6,7]

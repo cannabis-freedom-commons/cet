@@ -48,6 +48,11 @@ sources:
     publisher: Crime Nieuws
     date: 2026-11-12
     language: nl
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#117)
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-117/
+    publisher: CNNBS.nl
+    date: 2026-11-19
+    language: nl
 open_questions:
   - The check is dated to 11 November 2026 because the 12 November reports say it happened 'gisteren' (yesterday); no separate time of day was given.
   - The cannabis amount is approximate (about 500 grams / about half a kilo); no exact measured weight or laboratory confirmation was reported.
@@ -64,11 +69,10 @@ at high speed to evade the check. [@2] Officers nevertheless managed to force
 the car to stop at Duiven. [@2] The driving licence the driver showed at the
 check turned out to be forged. [@2]
 
-During the escape, a witness saw a black bag being thrown out of the car. [@2]
+During the escape, a witness saw a black bag being thrown out of the car. [@2,3]
 The bag was recovered and was found to contain about half a kilo of cannabis,
-described as about 500 grams. [@2] The recovered bag held approximately 500
+described as about 500 grams. [@2,3] The recovered bag held approximately 500
 grams of cannabis. [@1]
 
 Both men were then released carrying a summons. [@2] They must answer the
 suspicions at a later hearing before the police judge. [@2]
-

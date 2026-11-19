@@ -79,6 +79,11 @@ sources:
     publisher: MaltaToday
     date: 2026-11-11
     language: en
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#117)
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-117/
+    publisher: CNNBS.nl
+    date: 2026-11-19
+    language: nl
 media:
   - kind: photo
     url: https://timesofmalta.com/article/man-arrested-caught-150-cannabis-resin-capsules-stomach.1136876
@@ -91,8 +96,8 @@ open_questions:
 
 A 45-year-old Moroccan man was arrested at Malta International Airport after
 police found about 150 capsules containing suspected cannabis resin inside his
-stomach. [@1,2,3,4,5,6,9] The accused was named as Adim El Habib. [@9] Police put the capsules at roughly 1.5 kilograms of suspected
-cannabis resin, with an estimated street value of €30,000. [@1,2,4,5,6,7,8,9]
+stomach. [@1,2,3,4,5,6,9,10] The accused was named as Adim El Habib. [@9] Police put the capsules at roughly 1.5 kilograms of suspected
+cannabis resin, with an estimated street value of €30,000. [@1,2,4,5,6,7,8,9,10]
 
 Intelligence suggested the man, travelling from Morocco to Malta via Spain,
 could be part of an organised drug trafficking network. [@1,2,3,4,5,6] Officers checked
