@@ -58,24 +58,22 @@ sources:
     publisher: Nesan News (نيسان)
     date: 2026-11-19
     language: ar
-open_questions:
-  - No separate date for the raids was given; 19 November 2026 is the publication date and the casework was described as running over the preceding days.
-  - Hashish was reported only in kaff slabs with no weight, so the 15 kg figure covers marijuana only.
-  - The arrest total is ambiguous because one Ruwaished suspect fled while the statement still reports 13 dealers toppled.
-  - No names, charges, pleas or court outcomes were reported.
-  - The crystal methamphetamine, narcotic pills and firearms were excluded from cannabis figures.
-  - The three accounts reproduce the same Public Security Directorate statement, so they are not independent reporting.
+  - title: القبض على 13 تاجرا للمخدرات وضبط أسلحة ومواد مخدرة
+    url: https://ammannet.net/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-13-%D8%AA%D8%A7%D8%AC%D8%B1%D8%A7-%D9%84%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%B6%D8%A8%D8%B7-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D9%88%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%AE%D8%AF%D8%B1%D8%A9
+    publisher: موقع عمان نت
+    date: 2026-11-19
+    language: ar
 ---
 
 Jordan’s Anti-Narcotics Department officers toppled 13 drug dealers while
 handling a number of trafficking cases over the previous few days, the Public
-Security Directorate spokesperson said. [@1,4] The spokesperson said all of the
+Security Directorate spokesperson said. [@1,4,5] The spokesperson said all of the
 cases involved trafficking, including four cases in the Capital Governorate.
 [@2,4]
 
 In the largest capital case officers raided and arrested three dealers and
 seized 15 kilograms of marijuana, five slabs of hashish and 250 grams of crystal
-methamphetamine from them. [@2,4] In a second capital case officers raided another
+methamphetamine from them. [@2,4,5] In a second capital case officers raided another
 dealer inside his vehicle while he was moving drugs for sale and seized 24 slabs
 of hashish from him. [@3,4] In a third capital case officers raided two dealers
 inside a vehicle and seized six slabs of hashish from them. [@2,4] In the last
