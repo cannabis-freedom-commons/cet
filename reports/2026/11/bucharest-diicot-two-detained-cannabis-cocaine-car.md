@@ -60,6 +60,11 @@ sources:
     publisher: ProTV
     date: 2026-11-19
     language: ro
+  - title: В Букурещ задържаха двама млади мъже с 50 кг кокаин и 2,5 кг канабис | Новини.бг
+    url: https://novini.bg/article/2026111912152220692
+    publisher: Novini.bg
+    date: 2026-11-19
+    language: bg
 open_questions:
     - Both accounts reproduce the same DIICOT press release and are not independent reporting.
     - The outcome of the preventive-arrest application to the Bucharest Tribunal judge was not reported; the articles were published on 19 November, the day it was filed.
@@ -71,20 +76,20 @@ open_questions:
 ---
 
 DIICOT prosecutors in Bucharest detained two men, aged 22 and 33, on 19 November
-2026 on suspicion of risk and high-risk drug trafficking. [@1,2] The pair had been
+2026 on suspicion of risk and high-risk drug trafficking. [@1,2,3] The pair had been
 caught in flagrante in the Romanian capital the previous day, 18 November, while
 carrying 30 bags of cocaine and seven bags containing cannabis in the car they
-were travelling in. [@1,2] Half of the quantity was hidden in a car parked in the car park of a shopping centre. [@2]
+were travelling in. [@1,2,3] Half of the quantity was hidden in a car parked in the car park of a shopping centre. [@2]
 
 Most of the packages were hidden in a purpose-built compartment in the car
 floor, closed by an electronic locking system operated by a card. [@1,2] Officers
 later searched hotel rooms the men had rented and seized a further 17 packages
 of cocaine. [@1,2] The total amount taken out of circulation was 50 kilograms of
-cocaine and 2.5 kilograms of cannabis, according to DIICOT. [@1,2] DIICOT put the value of the total seizure at about 5 million euros. [@2]
+cocaine and 2.5 kilograms of cannabis, according to DIICOT. [@1,2,3] DIICOT put the value of the total seizure at about 5 million euros. [@2]
 
 On Thursday 19 November a judge for rights and freedoms at the Bucharest
 Tribunal was asked to order 30 days of preventive arrest for the two defendants.
-[@1,2] The judicial activity was carried out together with police from the
+[@1,2,3] The judicial activity was carried out together with police from the
 Directorate for Combating Organised Crime. [@1] It was supported by traffic
 police from the Bucharest General Police Directorate and by gendarmes from the
 Gendarmerie's Special Intervention Brigade and the Bucharest Gendarmerie General
