@@ -32,6 +32,11 @@ media:
     media_url: https://www.youtube.com/watch?v=hpqAKi4pBmk
     publisher: Thanthi TV
     caption: Thanthi TV video report on the seizure of 2 kg of high-grade cannabis in Ennore, published on 18 November 2026 with the headline asking whether the case is linked to international smuggling.
+  - kind: photo
+    url: https://www.dtnext.in/news/tamilnadu/tamil-nadu-wings-clipped-kuruvi-sublets-international-smuggling-contract-to-friends
+    media_url: https://media.assettype.com/dt-next%2F2026-11-19%2Fag8h2ruz%2FPolice.jpg?rect=0%2C0%2C1600%2C900&w=768&auto=format%2Ccompress&fit=max
+    publisher: DT Next
+    caption: Avadi City Police team with the smugglers, and the ganja and currency they seized.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 9bcf65176c1c84a34aebd0c986569051
@@ -47,18 +52,21 @@ sources:
     publisher: தினமணி (Dinamani)
     date: 2026-11-18
     language: ta
+  - title: 'Tamil Nadu: Wings clipped, kuruvi sublets International smuggling contract to friends'
+    url: https://www.dtnext.in/news/tamilnadu/tamil-nadu-wings-clipped-kuruvi-sublets-international-smuggling-contract-to-friends
+    publisher: DT Next
+    date: 2026-11-19
+    language: en
 open_questions:
-    - No date for the vehicle check or the arrests was given; 18 November 2026 is the publication date of both accounts and stands in for the incident date.
-    - The lead gives the quantity as two kilograms while the text gives about 2.6 with the unit abbreviated as கி; the report keeps two kilograms.
-    - No value was given for the cannabis, and the accounts do not say whether it was hydroponic or outdoor-grown.
-    - The sum described as 12 lakh in British pound notes is not explained; it is unclear whether the figure is in rupees or in pounds.
-    - The accounts name no police station, unit or officer and quote no police statement; no charges, court step or detention measure was reported for the five arrested.
-    - The accounts do not say why men from Ilaiyankudi in Sivagangai district, far from Chennai, were in the car or how they are linked to the Ennore area.
-    - High-grade is the outlets' description of the drug; no laboratory test result was reported.
+    - No firm calendar date is given for the vehicle stop or the arrests; the accounts place a tip-off on a Tuesday and were published on 18 and 19 November 2026.
+    - One account puts the cannabis at two kilograms while the others give about 2.6 kilograms; the report keeps two kilograms.
+    - No value was published for the cannabis and no laboratory test or hydroponic-versus-outdoor classification was reported.
+    - No specific police station, unit or officer is named, and no charge or charge sheet has been reported; the accused were remanded in judicial custody.
+    - The accounts say the gang was heading by road to Bengaluru and sourced the ganja in Odisha, but do not explain why the car was in the Ennore area.
 ---
 
 Police in Ennore, a locality in north Chennai, seized two kilograms of
-high-grade cannabis. [@1,2] Police stopped a luxury car coming from Chennai towards Minjur in the Ennore area and found the cannabis when they checked the vehicle. [@2] The cannabis was said to have been intended for
-smuggling out of the country. [@1,2] The account says the cannabis and the Indian and British money were to be taken to Malaysia. [@2]
+high-grade cannabis. [@1,2] Police stopped a luxury car coming from Chennai towards Minjur in the Ennore area and found the cannabis when they checked the vehicle. [@2,3] Police received a tip-off about movement of narcotics in Ennore police limits on Tuesday and intensified vehicle checks. [@3] The cannabis was said to have been intended for
+smuggling out of the country. [@1,2] The account says the cannabis and the Indian and British money were to be taken to Malaysia. [@2,3] The five-member group planned to travel by road to Bengaluru, from where three were to board a flight to Malaysia. [@3]
 
-Foreign money was also seized in the same operation, the account says. [@1,2] Five men from Ilaiyankudi in Sivagangai district, aged between 19 and 29, were arrested in the case. [@2] Officers also seized 6.42 lakh rupees and British pound notes put at a further 12 lakh rupees, both suspected of being linked to hawala, together with silk sarees and medicines. [@2]
+Foreign money was also seized in the same operation, the account says. [@1,2] Five men from Ilaiyankudi in Sivagangai district, aged between 19 and 29, were arrested in the case. [@2,3] Ali sublet the work to three friends — Abubakkar Siddiq, 21, and Usama Bahadur, 24, from the same town, and Mohammed Ismail, 19, of Tiruchy — who were to travel to Malaysia. [@3] Ali was a ‘kuruvi’ — a human courier hired by smugglers — whose passport had been revoked in 2023 for alleged sea-turtle smuggling. [@3] The mastermind was S Ashik Ali, 29, of Ilayangudi in Sivaganga. [@3] Officers also seized 6.42 lakh rupees and British pound notes put at a further 12 lakh rupees, both suspected of being linked to hawala, together with silk sarees and medicines. [@2,3] Ali sourced the ganja from Odisha and hid it with the cash in the group's check-in baggage; an accomplice, Mohammed Sheik Abdullah, 22, was also arrested, and all the accused were produced before a magistrate and remanded in judicial custody. [@3]
