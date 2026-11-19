@@ -58,6 +58,11 @@ sources:
     publisher: Перша електронна газета
     date: 2026-11-19
     language: uk
+  - title: Понад три кілограми канабісу вилучили у жителя Новоукраїнського району
+    url: https://cbn.com.ua/news/ponad-try-kilohramy-kanabisu-vyluchyly-u-zhytelia-novoukrainskoho-raionu
+    publisher: CBN
+    date: 2026-11-19
+    language: uk
 open_questions:
   - No separate date for the search or detention was given; 19 November 2026 is the publication date and is used as the incident date.
   - The weight was reported only as more than three kilograms; no exact measured figure or value estimate was published.
@@ -67,20 +72,19 @@ open_questions:
 ---
 
 In Kirovohrad Oblast, law enforcement identified a 47-year-old man suspected of
-selling narcotics in Novoukrainskyi district. [@1] The man was detained. [@1]
+selling narcotics in Novoukrainskyi district. [@1,2] The man was detained. [@1,2]
 During a search of the residence where he lived, officers seized more than three
-kilograms of cannabis, according to the police. [@1]
+kilograms of cannabis, according to the police. [@1,2]
 
 The National Police press service said criminal-police operatives carried out
 the operation with investigators from Police Department No. 1 in Mala Vyska.
-[@1] The district prosecutor's office provided procedural supervision for the
+[@1,2] The district prosecutor's office provided procedural supervision for the
 police operation. [@1] He was served with a suspicion notice under part 2 of
-Article 307 of the Criminal Code of Ukraine. [@1] That offence is unlawful
+Article 307 of the Criminal Code of Ukraine. [@1,2] That offence is unlawful
 production, manufacture, purchase and storage of narcotic substances with intent
 to sell. [@1]
 
 Under the article, the sanction provides for six to ten years' imprisonment with
-confiscation of property. [@1] No sentence has been imposed; the term is the
+confiscation of property. [@1,2] No sentence has been imposed; the term is the
 potential penalty attached to the charge. [@1] The pre-trial investigation into
 the case was still continuing at the time of publication. [@1]
-
