@@ -52,6 +52,11 @@ media:
     media_url: https://image.ondacero.es/clipping/cmsimages02/2026/11/19/C786FB07-CA30-4C54-AE8D-B55DB2097BD6/drogas-dinero-intervenidos-junto-utiles-preparacion-venta-directa-droga-diversas-armas_213.jpg?crop=4055,2283,x0,y85&width=890&height=501&format=avif&quality=65
     publisher: Onda Cero
     caption: Drugs and money seized with preparation tools and weapons from the Huesca Operation Chaplin searches.
+  - kind: photo
+    url: https://www.aragonplay.es/aragonnoticias/huesca/operacion-policial-cuatro-detenidos-perpetuo-socorro-permite-desarticular-punto-venta-hachis-distribuia-menores.html
+    media_url: https://imagenes.aragonplay.es/files/article_crop_1272_716/uploads/2026/11/19/6afef73bdaf2b.png
+    publisher: Aragón Play
+    caption: 'Drugs, money and weapons seized in the anti-drug operation in Huesca. Photo: Policía Nacional'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d38e8aff8511f29c8c12afc4a68cf5fe
@@ -72,40 +77,39 @@ sources:
     publisher: Onda Cero
     date: 2026-11-19
     language: es
-open_questions:
-  - The reports describe the 40-officer searches as taking place on the Wednesday before details were given on Thursday 19 November 2026, which is used as the incident date for the case's latest step.
-  - The 8.33 grams of cocaine seized alongside the hashish are excluded from the cannabis figures.
-  - The cash is reported only as about 2,000 euros, not an exact amount, and no value estimate for the drugs was published.
-  - No names, ages, pleas or later court outcome were reported beyond provisional prison for the two men and release for the two women.
-  - Both accounts reproduce the National Police account of Operation Chaplin, so they are not fully independent reporting.
+  - title: La operación policial con cuatro detenidos en el Perpetuo Socorro permite desarticular un punto de venta de hachís que distribuía a menores
+    url: https://www.aragonplay.es/aragonnoticias/huesca/operacion-policial-cuatro-detenidos-perpetuo-socorro-permite-desarticular-punto-venta-hachis-distribuia-menores.html
+    publisher: Aragón Play
+    date: 2026-11-19
+    language: es
 ---
 
 National Police arrested four people, two men and two women from the same
 family, for alleged continued drug trafficking in Huesca's Perpetuo Socorro
-neighbourhood, where they ran a hashish sales point that supplied minors. [@1,3]
+neighbourhood, where they ran a hashish sales point that supplied minors. [@1,3,4]
 The main suspects, a young man and his stepfather with police records for drug
 trafficking, had made selling their regular livelihood and were ordered into
 prison. [@1] The other two detainees, the mother and the young man's partner,
 knew of the criminal activity and were released. [@1] The two men entered prison
-while the judge released the two women. [@2]
+while the judge released the two women. [@2,4]
 
 Officers searched two homes used by the suspects and seized about 1,500 grams of
 hashish, 8.33 grams of cocaine and about 2,000 euros in cash, plus retail-ready
-doses, precision scales and preparation materials. [@1,3] The hashish was packed
+doses, precision scales and preparation materials. [@1,3,4] The hashish was packed
 in individual round pieces with labels resembling small commercial cheeses,
-hidden in a refrigerator's vegetable drawer among food. [@1,3] In the homes
+hidden in a refrigerator's vegetable drawer among food. [@1,3,4] In the homes
 officers also found a machete, an extendable baton, a personal defence spray and
-a shotgun. [@1,3] Police established the shotgun had been stolen from a home and
+a shotgun. [@1,3,4] Police established the shotgun had been stolen from a home and
 had reached the suspects as payment for drugs, which they sometimes accepted
 instead of cash. [@2] Investigators carried out two home searches in the
 properties from which the suspects operated. [@1] Forty officers took part in
-Operation Chaplin, the result of an investigation lasting more than a year. [@2]
+Operation Chaplin, the result of an investigation lasting more than a year. [@2,4]
 
 The year-long investigation documented sales to adult and underage buyers,
-including transactions near schools and venues frequented by young people. [@1,3]
+including transactions near schools and venues frequented by young people. [@1,3,4]
 The younger suspect centralised orders through instant-messaging apps, agreeing
 quantities and prices, while his stepfather made the handovers to limit street
 exposure. [@1] Officers also saw some transaction participants carrying
 concealed bladed weapons, increasing the risk. [@1] The four face alleged drug
 trafficking, unlawful weapons possession and receiving stolen goods, and
-Operation Chaplin ended with the two main detainees jailed. [@1]
+Operation Chaplin ended with the two main detainees jailed. [@1,4]
