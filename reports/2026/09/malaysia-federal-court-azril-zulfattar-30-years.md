@@ -38,11 +38,6 @@ data_sources:
   figures.prison: [1, 2]
 status: verified
 tags: [federal-court, putrajaya, seremban, drug-trafficking, appeal]
-open_questions:
-  - The reports do not say when the two must return to prison or whether they have sought a further review.
-  - Neither report gives a reaction from the men or their lawyers.
-  - The Federal Court's full written judgment was not published in the accounts opened.
-  - The same High Court also convicted both men of possessing 8.8 g of methamphetamine, a separate offence this report does not cover.
 sources:
   - title: Released earlier this year, Federal Court now orders two men back to jail for cannabis trafficking
     url: https://www.malaymail.com/news/malaysia/2026/09/28/released-earlier-this-year-federal-court-now-orders-two-men-back-to-jail-for-cannabis-trafficking/236898
@@ -54,12 +49,16 @@ sources:
     archived: https://web.archive.org/web/20261013231145/https://www.freemalaysiatoday.com/category/nation/2026/09/28/released-from-jail-2-men-now-face-30-year-terms-over-264g-cannabis
     publisher: Free Malaysia Today
     date: 2026-09-28
+  - title: Federal Court restores 30-year jail sentence for two freed men over cannabis trafficking
+    url: https://www.thestar.com.my/news/nation/2026/09/28/federal-court-restores-30-year-jail-sentence-for-two-freed-men-over-cannabis-trafficking
+    publisher: The Star
+    date: 2026-09-28
 ---
 
-Malaysia's Federal Court reinstated the trafficking convictions and 30-year prison sentences of two men who had been released earlier in 2026, ruling on 28 September that the prosecution had proved they trafficked 264.36 g of cannabis. [@1,2] The bench was chaired by Justice Rhodzariah Bujang, with Justices Lee Swee Seng and Ravinthran Paramaguru. [@1,2]
+Malaysia's Federal Court reinstated the trafficking convictions and 30-year prison sentences of two men who had been released earlier in 2026, ruling on 28 September that the prosecution had proved they trafficked 264.36 g of cannabis. [@1,2,3] The bench was chaired by Justice Rhodzariah Bujang, with Justices Lee Swee Seng and Ravinthran Paramaguru. [@1,2,3]
 
-Azril Azhar Ahmad, 50, a Grab driver, and Zulfattar Ridzuan, 44, a businessman, were arrested after police found the cannabis in a car at an industrial park in Seremban, Negeri Sembilan, on 26 September 2020. [@2] The High Court sentenced them to 30 years on 20 October 2023, with the term backdated to the arrest. [@1,2]
+Azril Azhar Ahmad, 50, a Grab driver, and Zulfattar Ridzuan, 44, a businessman, were arrested after police found the cannabis in a car at an industrial park in Seremban, Negeri Sembilan, on 26 September 2020. [@2,3] The High Court sentenced them to 30 years on 20 October 2023, with the term backdated to the arrest. [@1,2,3]
 
-In May 2025 the Court of Appeal substituted possession for trafficking and imposed eight years; the two were freed on 23 February 2026 after serving the reduced term. [@1,2] Justice Lee said the appellate court had misdirected itself: the amount was only marginally above the 200 g threshold that presumes trafficking, but there was overwhelming evidence of dealing, including a weighing scale, plastic packets, a penknife and grinders in the car. [@1,2]
+In May 2025 the Court of Appeal substituted possession for trafficking and imposed eight years; the two were freed on 23 February 2026 after serving the reduced term. [@1,2,3] Justice Lee said the appellate court had misdirected itself: the amount was only marginally above the 200 g threshold that presumes trafficking, but there was overwhelming evidence of dealing, including a weighing scale, plastic packets, a penknife and grinders in the car. [@1,2,3]
 
-Zulfattar must also serve 12 strokes of the rotan, while Azril is exempt because he is 50. [@1,2] Both were in court for the ruling. [@1,2]
+Zulfattar must also serve 12 strokes of the rotan, while Azril is exempt because he is 50. [@1,2,3] Both were in court for the ruling. [@1,2,3]
