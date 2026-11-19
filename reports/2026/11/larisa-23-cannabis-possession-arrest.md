@@ -41,19 +41,23 @@ sources:
     publisher: larissanet.gr
     date: 2026-11-18
     language: el
+  - title: Τρεις συλλήψεις στη Λάρισα για κάνναβη – Ένας ανήλικος ανάμεσα στους συλληφθέντες
+    url: https://thelarissapaper.gr/2026/11/18/treis-syllipseis-sti-larisa-gia-kannavi-enas-anilikos-anamesa-stous-syllifthentes/
+    publisher: The Larissa Paper
+    date: 2026-11-18
+    language: el
 open_questions:
-  - No charge, plea, detention decision or court date was reported; the case was at the arrest stage.
-  - The notice does not say where in Larisa the arrest happened or whether the 7.6 grams were for personal use or sale.
-  - No value estimate for the 7.6 grams was published.
-  - The cannabis was described as raw without laboratory confirmation.
-  - The account rests on a single short police-notice item in a local outlet; no police statement or second outlet was found.
+    - No charge, plea, detention decision or court date was reported; the case was at the arrest stage.
+    - The notice does not say where in Larisa the arrest happened or whether the 7.6 grams were for personal use or sale.
+    - No value estimate for the 7.6 grams was published.
+    - The cannabis was described as raw without laboratory confirmation.
+    - The accessible accounts reproduce the same Larissa police notice, so they are not independent reporting.
 ---
 
 A 23-year-old Greek man was arrested in Larisa on the afternoon of 17 November
-2026. [@1] Officers of the Larisa sub-directorate for drug enforcement and crime
+2026. [@1,2] Officers of the Larisa sub-directorate for drug enforcement and crime
 investigation made the arrest. [@1]
 
-Police said he was holding a single nylon package of raw cannabis. [@1] It
-weighed 7.6 grams and was confiscated. [@1] The cannabis was described as
+Police said he was holding a single nylon package of raw cannabis. [@1,2] It
+weighed 7.6 grams and was confiscated. [@1,2] The cannabis was described as
 akatergasti, raw or unprocessed plant material. [@1]
-

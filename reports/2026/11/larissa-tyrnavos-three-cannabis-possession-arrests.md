@@ -41,29 +41,32 @@ sources:
     publisher: kosmoslarissa.gr
     date: 2026-11-18
     language: el
+  - title: Τρεις συλλήψεις στη Λάρισα για κάνναβη – Ένας ανήλικος ανάμεσα στους συλληφθέντες
+    url: https://thelarissapaper.gr/2026/11/18/treis-syllipseis-sti-larisa-gia-kannavi-enas-anilikos-anamesa-stous-syllifthentes/
+    publisher: The Larissa Paper
+    date: 2026-11-18
+    language: el
 open_questions:
-  - No weight was published for the cannabis seized in Tyrnavos, described only as a small amount, so it is excluded from the cannabis total.
-  - No charges, custody decisions or court outcomes were reported for the three arrested people.
-  - The Larissa arrest date of 17 November 2026 is inferred from yesterday afternoon relative to the 18 November 2026 publication.
-  - No names were published for the arrested people, who were identified only by age and foreign or domestic status.
-  - Only one accessible outlet account of these arrests was opened after searches in Greek and English found no second report.
+    - No weight was published for the cannabis seized in Tyrnavos, described only as a small amount, so it is excluded from the cannabis total.
+    - No charges, custody decisions or court outcomes were reported for the three arrested people.
+    - No names were published for the arrested people, who were identified only by age and foreign or domestic status.
+    - Both accessible accounts reproduce the same Larissa police notices, so they are not independent reporting of the arrests.
 ---
 
 Officers of the Larissa Crime Prosecution and Investigation Subdirectorate
 arrested a 23-year-old in Larissa on the afternoon of 17 November 2026 for
-possessing cannabis. [@1] Officers of the Tyrnavos Prevention and Mediation Team
+possessing cannabis. [@1,2] The police notice described the 23-year-old arrested in Larissa as a Greek national. [@2] Officers of the Tyrnavos Prevention and Mediation Team
 arrested a 19-year-old foreign national and a Greek minor in an area of Tyrnavos
 in the early hours of 18 November 2026 after catching them possessing cannabis.
-[@1]
+[@1,2]
 
 The Larissa case involved a single nylon package containing 7.6 grams of
-unprocessed cannabis, which police seized. [@1] The Tyrnavos case involved a
+unprocessed cannabis, which police seized. [@1,2] The Tyrnavos case involved a
 single nylon package containing a small amount of unprocessed cannabis, which
-police also seized, with no weight published. [@1] The 7.6 grams equals 0.0076
+police also seized, with no weight published. [@1,2] The 7.6 grams equals 0.0076
 kilograms of cannabis flower seized in Larissa. [@1]
 
 The Larissa arrest was carried out by officers of the Larissa Crime Prosecution
 and Investigation Subdirectorate in the city. [@1] The Tyrnavos arrests were
 carried out by officers of the Tyrnavos Prevention and Mediation Team, known as
 O.P.DI. [@1] The two checks were reported together on 18 November 2026. [@1]
-
