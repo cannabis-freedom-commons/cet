@@ -70,20 +70,25 @@ sources:
     url: https://www.cenlanow.com/news/state-news/drug-arrest-leads-to-eight-pounds-of-marijuana-seized/
     publisher: CenLANow.com
     date: 2026-11-19
+  - title: Drug arrest leads to eight pounds of marijuana seized
+    url: https://wgno.com/news/drug-arrest-leads-to-eight-pounds-of-marijuana-seized/amp/
+    publisher: WGNO
+    date: 2026-11-19
+    language: en
 ---
 
 Iberia Parish sheriff's deputies were investigating illegal drug activity when
 they stopped a vehicle near the intersection of Highway 88 and West Admiral
-Doyle Drive in Iberia Parish, Louisiana, on 17 November 2026. [@1,3,4,5,6] The driver
-was identified as Kenneth Landry Jr. [@1,3,4,5,6] During the stop deputies reported
+Doyle Drive in Iberia Parish, Louisiana, on 17 November 2026. [@1,3,4,5,6,7] The driver
+was identified as Kenneth Landry Jr. [@1,3,4,5,6,7] During the stop deputies reported
 smelling marijuana from the vehicle, and a K-9 later detected the presence of
-narcotics. [@1,3,4,6]
+narcotics. [@1,3,4,6,7]
 
 A search of the vehicle led investigators to a large package holding seven
 vacuum-sealed bags with approximately eight pounds (3.63 kilograms) of
-marijuana, the Iberia Parish Sheriff's Office said. [@1,3,4,5,6] Deputies arrested
-Landry and booked him into the Iberia Parish Jail. [@1,4,5,6] He was booked on
-possession with intent to distribute a Schedule I drug. [@2,4,6] The jail list also
+marijuana, the Iberia Parish Sheriff's Office said. [@1,3,4,5,6,7] Deputies arrested
+Landry and booked him into the Iberia Parish Jail. [@1,4,5,6,7] He was booked on
+possession with intent to distribute a Schedule I drug. [@2,4,6,7] The jail list also
 included a distribution of drug paraphernalia charge and a
 driver-must-be-licensed violation. [@1,4] The list attached a $75,000 bond to the
 possession count and $2,500 to the paraphernalia count, although the same report
