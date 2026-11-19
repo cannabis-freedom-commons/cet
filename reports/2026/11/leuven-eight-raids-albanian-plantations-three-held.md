@@ -51,11 +51,11 @@ sources:
     publisher: GVA
     date: 2026-11-19
     language: nl
-open_questions:
-  - No exact plant count beyond more than 1,500 in Brasschaat was published, and no plant count was given for Jemappes.
-  - No weight for harvested cannabis and no amount for the seized cash were published.
-  - Only the suspects' ages and places of arrest were released, and the investigating judge's decision on arrest warrants was not yet reported.
-  - Whether any additional suspects are sought or charges have been filed is not yet reported.
+  - title: 'Cannabisplantage met 1.500 planten ontdekt in handelspand in Brasschaat: “Buren hadden al langer door dat er iets louche aan de hand was”'
+    url: https://www.hln.be/brasschaat/cannabisplantage-met-1-500-planten-ontdekt-in-handelspand-in-brasschaat-buren-hadden-al-langer-door-dat-er-iets-louche-aan-de-hand-was~ae0961c3/
+    publisher: HLN
+    date: 2026-11-19
+    language: nl
 media:
   - kind: photo
     url: https://www.gva.be/regio/antwerpen/regio-antwerpen/brasschaat/albanese-criminele-organisatie-opgerold-na-banale-verkeerscontrole-cannabisplantage-van-meer-dan-1.500-planten-aangetroffen/164817705.html
@@ -66,7 +66,7 @@ media:
 
 Federal police carried out eight searches on Thursday in Brasschaat, Bree,
 Jemappes, Jemeppe, Leuven, Liège, Schilde and Wommelgem in an investigation led
-by the Leuven Public Prosecutor’s Office. [@1,3] The inquiry began after officers
+by the Leuven Public Prosecutor’s Office. [@1,3,4] The inquiry began after officers
 stopped a rented vehicle during a traffic check and found empty heater
 packaging, blackout tape, grip-seal bags and sets of keys associated with
 plantation setup. [@1] The prosecution said a traffic check in Leuven in
@@ -76,11 +76,11 @@ suspected Albanian criminal organisation believed to specialise in setting up
 and operating professional cannabis plantations across Belgium. [@2] Officers
 arrested a 26-year-old man in Brasschaat, a 26-year-old man in Jemappes and a
 34-year-old man in Wommelgem. [@1,3] The three were questioned and were due to
-appear before an investigating judge to decide on possible arrest warrants. [@1]
+appear before an investigating judge to decide on possible arrest warrants. [@1,4]
 
 Professional cannabis plantations were found and dismantled in Brasschaat and
-Jemappes. [@1,3] The Brasschaat site alone held more than 1,500 cannabis plants.
-[@1,3] At other addresses detectives found traces of earlier plantations, and
+Jemappes. [@1,3] At the Brasschaat site the judicial laboratory carried out further examination and Civil Protection dismantled the installation, after which the plants were to be destroyed. [@4] The Brasschaat plantation was at Lage Kaart in a former commercial premises sold some time ago. [@4] The Brasschaat site alone held more than 1,500 cannabis plants.
+[@1,3,4] At other addresses detectives found traces of earlier plantations, and
 illegal electricity connections were found at several locations. [@1] Cash and
 equipment used for cannabis production were seized during the searches. [@1,3]
 
