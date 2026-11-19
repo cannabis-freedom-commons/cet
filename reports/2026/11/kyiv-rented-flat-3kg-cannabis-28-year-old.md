@@ -67,6 +67,11 @@ sources:
     publisher: UA.NEWS
     date: 2026-11-19
     language: uk
+  - title: Cannabis worth 1.5 million hryvnias was discovered in a rented apartment in Kyiv
+    url: https://ua.news/en/capital/u-kiievi-v-orendovanii-kvartiri-viiavili-kanabis-na-1-5-mln-griven
+    publisher: UA.NEWS
+    date: 2026-11-19
+    language: en
 open_questions:
   - No date is given for the search or the charge; 19 November 2026, the date of the prosecutor's statement and the publications, is used as the incident date.
   - The weight and value are the prosecutor's approximate figures (about 3 kg and about 1.5 million hryvnias); no exact measurement, laboratory confirmation or independent value estimate was reported.
@@ -77,19 +82,18 @@ open_questions:
 Kyiv City Prosecutor's Office charged a 28-year-old resident of Zaporizhzhia
 with illegally acquiring and possessing cannabis in especially large quantities
 with intent to sell, under part 3 of article 307 of the Criminal Code of
-Ukraine. [@1] Investigators said the man had set up a wholesale store in the
+Ukraine. [@1,4] Investigators said the man had set up a wholesale store in the
 rented apartment for prohibited substances, which he sold directly to customers
-hand to hand. [@2] A court ordered the suspect held in pretrial detention
-without bail. [@1]
+hand to hand. [@2,4] A court ordered the suspect held in pretrial detention
+without bail. [@1,4]
 
 Searches of the apartment found and seized about 3 kg of cannabis, along with
-equipment for grinding, weighing and packaging it. [@1] The prosecutor's office
+equipment for grinding, weighing and packaging it. [@1,4] The prosecutor's office
 put the value of the seized substances at about 1.5 million hryvnias at
-black-market prices. [@3]
+black-market prices. [@3,4]
 
 Procedural guidance came from the Shevchenkivskyi district prosecutor's office
 in Kyiv, and the pretrial investigation was conducted by investigators of the
 Shevchenkivskyi district police department of the National Police's Kyiv
 directorate. [@2] The charge carries a penalty of nine to 12 years' imprisonment
 with confiscation of property. [@2]
-
