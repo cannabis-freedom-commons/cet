@@ -63,13 +63,20 @@ sources:
     publisher: 福島民友新聞
     date: 2026-11-19
     language: ja
+  - title: 自宅に乾燥大麻所持疑い、須賀川の会社員逮捕
+    url: https://www.47news.jp/15252668.html
+    publisher: 47NEWS（福島民友新聞）
+    date: 2026-11-19
+    language: ja
+open_questions:
+  - No plea, charging decision or court outcome was reported.
 ---
 
 Sukagawa police emergency-arrested a 25-year-old company employee living in
 Sukagawa on the night of 17 November on suspicion of possessing cannabis in
-violation of the Narcotics and Psychotropics Control Act. [@1,2,3,4,5] The man is
+violation of the Narcotics and Psychotropics Control Act. [@1,2,3,4,5,6] The man is
 alleged to have possessed about 0.87 grams of cannabis, which is designated as a
-narcotic, at his home at around 18:20 on 17 November. [@1,2,4,5]
+narcotic, at his home at around 18:20 on 17 November. [@1,2,4,5,6]
 
 His involvement came to light during an investigation, after which police
 emergency-arrested him at Sukagawa Police Station at 22:29 on 17 November. [@1,2]
