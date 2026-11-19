@@ -133,20 +133,20 @@ sources:
     publisher: 三立新聞網
     date: 2026-11-18
     language: zh
-open_questions:
-    - No separate weight was published for the cannabis tablets; the reported total of more than 10 grams covers the cannabis, ketamine and cathinone together.
-    - No court outcome was reported after the NT$30,000 bail; the case was at the investigation stage.
-    - The second man taken from the motel room was not publicly identified and no charge against him was reported.
-    - Accounts differ on Kuo's rank, describing him as either two-line four-star or three-line one-star.
+  - title: 警政署再爆警官涉毒！2線4星技正摩鐵開房持毒遭自己人活逮 火速免職
+    url: https://tw.news.yahoo.com/%E8%AD%A6%E6%94%BF%E7%BD%B2%E5%86%8D%E7%88%86%E8%AD%A6%E5%AE%98%E6%B6%89%E6%AF%92-2%E7%B7%9A4%E6%98%9F%E6%8A%80%E6%AD%A3%E6%91%A9%E9%90%B5%E9%96%8B%E6%88%BF%E6%8C%81%E6%AF%92%E9%81%AD%E8%87%AA%E5%B7%B1%E4%BA%BA%E6%B4%BB%E9%80%AE-%E7%81%AB%E9%80%9F%E5%85%8D%E8%81%B7-073000982.html
+    publisher: Yahoo新聞
+    date: 2026-11-18
+    language: zh
 ---
 
 Kuo Wen-cheng, 46, a technical specialist in the National Police Agency's
 information office, was arrested on the night of 13 November 2026 in a motel in
-Xindian District, New Taipei City. [@1,7,11,12,18] Kuo held the police rank of two-line four-star (2線4星). [@13,16] Xindian Precinct officers were carrying
+Xindian District, New Taipei City. [@1,7,11,12,18] Kuo held the police rank of two-line four-star (2線4星). [@13,16,20] Xindian Precinct officers were carrying
 out an expanded inspection during the nationwide anti-gang sweep when they
 entered his room at about 10 p.m. and found him holding cannabis tablets, a
 category 2 drug. [@1,7,16] The inspection was carried out by officers from the precinct's Jiangling police station (江陵所), who were checking a motel on Baoqiao Road late that night. [@9,13] Kuo admitted using cannabis when officers found him with it in the motel room. [@8,18] He was at a party at a motel on Baoqiao Road and other men
-were in the room. [@1,7] Kuo appeared dazed when officers found him in the room. [@12] Both men were handcuffed at the motel when police arrested them. [@17,19] Police took Kuo and a male friend back for questioning.
+were in the room. [@1,7] Kuo appeared dazed when officers found him in the room. [@12,20] Both men were handcuffed at the motel when police arrested them. [@17,19] Police took Kuo and a male friend back for questioning.
 [@6,9,11,14,17,19] Kuo had previously served in the agency's traffic section and its
 inspectorate and was transferred to the information office this year. [@1,7]
 
@@ -156,12 +156,12 @@ pills containing cannabis, found with ketamine and cathinone. [@6,11,14,15] The 
 reported that Kuo and a friend were found with cannabis, ketamine and cathinone.
 [@4] The officers did not recognise him as a senior officer at the time; he
 later went to the agency's inspectorate and admitted his involvement, which is
-how the case became public. [@5,10,12,14,16,17,19] The case was sent to the Taipei District
-Prosecutors Office under the Narcotics Hazard Prevention Act. [@2,11,12,14,16,18] Kuo was taken to the Taipei District Prosecutors Office for questioning in the early hours of 14 November. [@9,13] Prosecutors
+how the case became public. [@5,10,12,14,16,17,19,20] The case was sent to the Taipei District
+Prosecutors Office under the Narcotics Hazard Prevention Act. [@2,11,12,14,16,18,20] Kuo was taken to the Taipei District Prosecutors Office for questioning in the early hours of 14 November. [@9,13] Prosecutors
 released him on NT$30,000 bail after questioning. [@4,17,19]
 
 The agency held an emergency personnel review on 14 November and dismissed Kuo
 with two major demerits. [@2,8,9,12,13,16,18] It said supervisors would also be held accountable
-for inadequate assessment and oversight. [@1,7,8,11,12,14,16,17,18,19] ETtoday reported that it was the
+for inadequate assessment and oversight. [@1,7,8,11,12,14,16,17,18,19,20] ETtoday reported that it was the
 second drug case involving a mid-ranking or senior National Police Agency
 officer this year. [@3]
