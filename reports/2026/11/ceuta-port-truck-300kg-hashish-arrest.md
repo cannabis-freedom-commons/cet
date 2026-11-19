@@ -122,6 +122,11 @@ sources:
     publisher: Achkayen
     date: 2026-11-18
     language: ar
+  - title: La Policía Nacional investiga la posible existencia de un tercer narcotúnel en Ceuta tras interceptar un camión con hachís
+    url: https://www.elperiodicodeceuta.es/la-policia-nacional-investiga-la-posible-existencia-de-un-tercer-narcotunel-en-ceuta-tras-interceptar-un-camion-con-hachis/
+    publisher: El Periódico de Ceuta
+    date: 2026-11-19
+    language: es
 open_questions:
     - Police gave no official weight for the hashish; the 300 kilograms is an initial estimate, and the load was taken away for official weighing.
     - No formal charge, plea or court outcome beyond the pre-trial detention order was reported.
@@ -148,6 +153,6 @@ no official weight. [@3] The submitted account describes the seizure as about
 300 kilograms of hashish arriving from Morocco. [@1,5,6,7,9,10,11]
 
 The handcuffed driver was taken to police headquarters and placed under
-investigation for an offence against public health. [@2] A judge ordered the driver held in pre-trial detention on Sunday after he was presented to the court. [@8,13] The warehouse operation was prepared and coordinated from Madrid and remains under summary secrecy under the National Court. [@14] Police link the
+investigation for an offence against public health. [@2] A judge ordered the driver held in pre-trial detention on Sunday after he was presented to the court. [@8,13,16] The warehouse operation was prepared and coordinated from Madrid and remains under summary secrecy under the National Court. [@14] Police link the
 operation to open UDYCO investigations into groups moving hashish from Ceuta to
-mainland Spain in heavy vehicles with hidden compartments. [@3] On Wednesday, UDYCO officers carried out an operation in a warehouse in the Tarajal industrial estate over a possible third drug tunnel. [@14,15] The investigation revives the hypothesis of a third hashish tunnel between Ceuta and Fnideq, after two earlier tunnels were found in the same area in operations named Ares and Hades. [@15] Investigators suspect larger loads and heavy vehicles hidden in stash houses used to store hashish, known locally as zulos. [@8] Investigators are trying to establish whether the hashish reached the trucks through intermediate caches or directly through a possible third tunnel, and police have announced no new tunnel discovery and no additional detentions. [@12] In the warehouse the technical-intervention unit searched for tools and equipment suspected of being used to fit trucks with secret double-floor caches for hiding drugs. [@12,15]
+mainland Spain in heavy vehicles with hidden compartments. [@3] On Wednesday, UDYCO officers carried out an operation in a warehouse in the Tarajal industrial estate over a possible third drug tunnel. [@14,15] The investigation revives the hypothesis of a third hashish tunnel between Ceuta and Fnideq, after two earlier tunnels were found in the same area in operations named Ares and Hades. [@15,16] Investigators suspect larger loads and heavy vehicles hidden in stash houses used to store hashish, known locally as zulos. [@8] Investigators are trying to establish whether the hashish reached the trucks through intermediate caches or directly through a possible third tunnel, and police have announced no new tunnel discovery and no additional detentions. [@12,16] In the warehouse the technical-intervention unit searched for tools and equipment suspected of being used to fit trucks with secret double-floor caches for hiding drugs. [@12,15,16]
