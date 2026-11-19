@@ -33,6 +33,11 @@ media:
     media_url: https://img.news.ebc.net.tw/EbcNews/news/2026/11/19/1795088299_53804.jpg
     publisher: 東森新聞
     caption: The seized cannabis vape cartridge laid out after the search, in footage stills published with the report.
+  - kind: photo
+    url: https://udn.com/news/story/7315/9888587
+    media_url: https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/19/35532854.png&M=1&s=Y&x=0&y=0&sw=1280&sh=882&sl=W&fw=800&exp=3600&w=800&nt=1
+    publisher: 聯合新聞網
+    caption: 'Police checking the man in the Zhonghe internet cafe after the report, in a still published with the UDN report. Photo: 王長鼎 / UDN'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 809ef8b3ee92988dd0152ffd1130fa49
@@ -43,11 +48,16 @@ sources:
     publisher: 東森新聞
     date: 2026-11-19
     language: zh
+  - title: 影／打網咖竟公然吸食大麻 警獲報火速查緝送辦
+    url: https://udn.com/news/story/7315/9888587
+    publisher: 聯合新聞網
+    date: 2026-11-19
+    language: zh
 open_questions:
-  - The 12.25 grams is stated as gross weight for the vape device plus the cannabis cartridge together; the net weight of cannabis oil alone was not reported.
-  - The report says the seizure tested positive for cannabis but does not describe the test method or report laboratory confirmation.
-  - No court outcome, charge details beyond transfer under the Drug Hazard Prevention Act, or detention measure were reported.
-  - The account rests on the single opened EBC News report; no second independent account was found.
+    - The 12.25 grams is stated as gross weight for the vape device plus the cannabis cartridge together; the net weight of cannabis oil alone was not reported.
+    - The report says the seizure tested positive for cannabis but does not describe the test method or report laboratory confirmation.
+    - No court outcome, charge details beyond transfer under the Drug Hazard Prevention Act, or detention measure were reported.
+    - The two opened accounts (EBC News and UDN) report the same police action with consistent figures; no account beyond the police version was found.
 ---
 
 A 34-year-old man surnamed Lin was in an internet cafe on Anping Road in Zhonghe
@@ -55,13 +65,12 @@ in the early hours of 19 November 2026, watching shows while smoking a cannabis
 e-cigarette that members of the public reported to police. [@1] Officers from
 the Anping Police Station of the Zhonghe Precinct were on patrol at about 4 a.m.
 on 19 November when they received the report that a man inside the cafe was
-suspected of smoking a cannabis cartridge. [@1] After arriving, officers
+suspected of smoking a cannabis cartridge. [@1,2] After arriving, officers
 searched Lin with his consent and arrested him at the scene as a drug offender
 in the act, later transferring him to the district prosecutor's office for
-investigation under the Drug Hazard Prevention Act. [@1]
+investigation under the Drug Hazard Prevention Act. [@1,2]
 
 Officers seized one e-cigarette device and one cannabis cartridge from Lin at
-the scene. [@1] The seized device and cartridge together had a gross weight of
+the scene. [@1,2] The seized device and cartridge together had a gross weight of
 12.25 grams and tested positive for cannabis, which the report describes as a
-Category Two drug. [@1]
-
+Category Two drug. [@1,2]
