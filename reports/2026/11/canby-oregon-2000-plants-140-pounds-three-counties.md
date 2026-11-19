@@ -61,6 +61,11 @@ media:
     media_url: https://gray-kptv-prod.gtv-cdn.com/resizer/v2/43NMWAKJ5ZGF3FSH3GW4JOROMM.jpg?auth=d6221905e7dcf5a059beaf5a50357e92ce82ced53b2207bfd6134c645cb2c06b&width=1300&height=975&smart=true
     publisher: KPTV
     caption: 'Cash and firearms seized in the Canby-area investigation, in the police handout photo. Photo: Canby Police Department'
+  - kind: photo
+    url: https://katu.com/news/local/gallery/multi-county-illegal-grow-raid-nets-2000-marijuana-plants-guns-191k-cash-luxury-watches-gold-canby-clackamas-yamhill-multnomah-oregon?photo=1
+    media_url: https://katu.com/resources/media/1d2b01c1-02f0-4f83-9161-86d2decf30cb-GrowOperationSearchWarrantImagescourtesyCanbyPolice.png
+    publisher: KATU
+    caption: 'Grow operation search-warrant images from the multi-county raid, in the Canby Police handout. Photo: Canby Police.'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 5fba401e79e0cde1a143387615343658
@@ -100,6 +105,10 @@ sources:
     publisher: Arizona's Family (KPHO)
     date: 2026-11-19
     language: en
+  - title: Multi-county illegal grow raid nets 2,000 marijuana plants, guns, $191K cash & more
+    url: https://katu.com/news/local/gallery/multi-county-illegal-grow-raid-nets-2000-marijuana-plants-guns-191k-cash-luxury-watches-gold-canby-clackamas-yamhill-multnomah-oregon?photo=1
+    publisher: KATU
+    date: 2026-11-19
 ---
 
 Canby police interviewed five suspects in connection with an illegal marijuana
@@ -108,12 +117,12 @@ Attorney's Office for prosecution. [@2,3,4,5,6] Canby police told KOIN 6 News th
 opened the investigation after a complaint about a grow operation outside the
 city and executed two search warrants. [@1,3,5] Canby Police said the warrants
 covered the original complaint site, two other locations in Clackamas County,
-two in Multnomah County and one in Yamhill County. [@2,4,5,6]
+two in Multnomah County and one in Yamhill County. [@2,4,5,6,9]
 
 Investigators seized approximately 2,000 marijuana plants, approximately 140
 pounds (about 63.5 kilograms) of processed marijuana, eight firearms, two
 firearm suppressors, $191,384 in cash, two luxury watches and approximately
-$20,000 in gold. [@2,4,5,7,8]
+$20,000 in gold. [@2,4,5,7,8,9]
 
 The Canby Police Department was assisted by the Clackamas County Interagency
 Task Force, the Clackamas County SWAT team and the Yamhill County Street Crimes
