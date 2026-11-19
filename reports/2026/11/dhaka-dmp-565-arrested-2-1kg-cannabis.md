@@ -56,6 +56,10 @@ sources:
     publisher: NTV Online
     date: 2026-11-18
     language: bn
+  - title: DMP arrests 565 in 24-hour drives across Dhaka
+    url: https://dailynewnation.com/news/871530
+    publisher: The New Nation
+    date: 2026-11-19
 open_questions:
   - The 565 arrests cover the whole 24-hour sweep across all alleged offences; how many were linked specifically to cannabis was not stated.
   - No arrested person was named and no charges or court outcomes were reported beyond the statement that legal proceedings are under way.
@@ -63,23 +67,24 @@ open_questions:
   - The DMP statement was issued and the article published on Wednesday 18 November 2026; the raids themselves are dated only as having taken place on Tuesday, placed at 17 November 2026.
   - The whole account reproduces a BDNews24 report carried by The Financial Express, so it rests on the DMP statement rather than independent reporting.
   - No street value or laboratory confirmation was published for the 2.1 kg of cannabis.
+  - The new account reports nine mobile phones recovered, while the account already cited in the report gives 11 mobile phones.
 ---
 
 Police in Dhaka arrested 565 people in a 24-hour drive across the capital,
 including 71 members of the Awami League and its student wing, the Bangladesh
-Chhatra League. [@1,3] The Dhaka Metropolitan Police (DMP) disclosed the figures
-in a statement on Wednesday. [@1,2,3] Of those arrested, 50 were from Ramna
+Chhatra League. [@1,3,5] The Dhaka Metropolitan Police (DMP) disclosed the figures
+in a statement on Wednesday. [@1,2,3,5] Of those arrested, 50 were from Ramna
 Division, 70 from Lalbagh, 91 from Wari, 58 from Motijheel, 68 from Tejgaon, 143
-from Mirpur, 29 from Gulshan and 55 from Uttara. [@1,2,3] Another person was
-arrested by the Detective Branch of police. [@1,2,3]
+from Mirpur, 29 from Gulshan and 55 from Uttara. [@1,2,3,5] Another person was
+arrested by the Detective Branch of police. [@1,2,3,5]
 
 During the operation police seized two unexploded crude bombs, fragments of six
 exploded crude bombs, 6,871 yaba pills, 2.1 kg of cannabis, 117 packets of
 heroin, nine bottles of Eskuf syrup, an autorickshaw, 29 torches, 1.75 litres of
-kerosene, 11 mobile phones and Tk 3,400 in cash. [@1,2,3] Police also seized an autorickshaw, 29 torches, 1.75 litres of kerosene, 11 mobile phones and Tk 3,400 in cash. [@2]
+kerosene, 11 mobile phones and Tk 3,400 in cash. [@1,2,3,5] Police also seized an autorickshaw, 29 torches, 1.75 litres of kerosene, 11 mobile phones and Tk 3,400 in cash. [@2]
 
 The raids were conducted across the jurisdictions of different police stations
 in Dhaka on Tuesday, leading to the arrests and recovery of the suspected
 explosives and drugs. [@1,3] The DMP said legal proceedings against those arrested
-are under way. [@1,2,3] Police filed 64 cases in connection with the drive. [@2,4] The activities of the Awami League remain banned, while the
+are under way. [@1,2,3] Police filed 64 cases in connection with the drive. [@2,4,5] The activities of the Awami League remain banned, while the
 Chhatra League faces an outright ban. [@1,3]
