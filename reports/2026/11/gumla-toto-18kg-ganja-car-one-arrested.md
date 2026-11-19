@@ -59,6 +59,11 @@ sources:
     publisher: Gwalior Express
     date: 2026-11-19
     language: hi
+  - title: 'Gumla News : गुमला में कार से 18 किलो गांजा बरामद, एक तस्कर गिरफ्तार'
+    url: https://lagatar.in/gumla-news-18-kg-of-ganja-seized-from-a-car-in-gumla
+    publisher: Lagatar
+    date: 2026-11-19
+    language: hi
 open_questions:
   - The raid happened on the night before the 19 November publication at about 7:45 pm, so 18 November 2026 is used as the incident date and remains approximate.
   - The 9 lakh rupee figure is the police estimate reported in the article, with no independent valuation.
@@ -66,24 +71,29 @@ open_questions:
   - The absconding companion was not named and no further arrest was reported.
   - No court outcome beyond registration of the NDPS case was reported.
   - The Gwalior Express page credits Bhaskar and is not independent reporting.
+media:
+  - kind: photo
+    url: https://lagatar.in/gumla-news-18-kg-of-ganja-seized-from-a-car-in-gumla
+    media_url: https://cdn.lagatar.in/assets/images/article/web_file_item_395f_19_11_2026_16_50_9.jpeg?aspect_ratio=16:9&width=800&quality=60&format=webp
+    publisher: Lagatar
+    caption: 'Police officer giving information about the arrested accused in the Gumla ganja seizure. Photo: Lagatar'
 ---
 
-Police arrested Uttar Pradesh resident Prithvi Rana in Gumla. [@2] Police said
-one companion of Rana fled from the spot. [@2] Police registered case number
-444/26 at Gumla police station. [@2] Police booked the accused under the NDPS
+Police arrested Uttar Pradesh resident Prithvi Rana in Gumla. [@2,4] Police said
+one companion of Rana fled from the spot. [@2,4] Police registered case number
+444/26 at Gumla police station. [@2,4] Police booked the accused under the NDPS
 Act. [@2] Police identified Rana as a resident of Sapnavat village, Kapurpur,
 Hapur in Uttar Pradesh. [@2] Rana told interrogators that his companion had gone
 home. [@2] Police said raids were continuing to catch the companion. [@2]
 
 Officers seized 18 kilograms of ganja from a car near the Kharka river in the
-Toto police station area. [@1] Police valued the seized ganja at about 9 lakh
-rupees. [@1] The team searched a white car. [@2] Officers found ganja with brown
+Toto police station area. [@1,4] Police valued the seized ganja at about 9 lakh
+rupees. [@1,4] The team searched a white car. [@2,4] Officers found ganja with brown
 tape inside a white plastic sack in the car's dickey. [@2] The ganja was packed
-as eighteen one-kilogram packets. [@2] The vehicle check followed information
+as eighteen one-kilogram packets. [@2,4] The vehicle check followed information
 received by the superintendent of police and took place at about 7:45 pm on the
 previous night. [@3] Gumla SDPO Suresh Prasad Yadav led the check with station
 house officer Dinesh Kumar's team. [@2]
 
 SDPO Yadav said the ganja was being brought from Odisha. [@2] Police said it was
 to be taken via Daltonganj in Palamu to Uttar Pradesh. [@2]
-
