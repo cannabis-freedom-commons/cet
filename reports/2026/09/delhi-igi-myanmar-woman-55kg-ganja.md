@@ -48,25 +48,23 @@ sources:
     url: https://themeghalayanexpress.com/myanmar-woman-held-with-5-5-kg-ganja-worth-nearly-rs-2-crore-at-delhi-airport/
     publisher: The Meghalayan Express
     date: 2026-09-15
-open_questions:
-  - The woman was not named in either account.
-  - No flight number was published.
-  - No court outcome beyond arrest under the NDPS Act was reported.
-  - Both published accounts reproduce the same PTI/official-statement text, so no independent detail beyond that statement is available.
+  - title: Myanmar woman held with 5.5 kg ganja worth nearly Rs 2 crore at Delhi airport
+    url: https://theprint.in/india/myanmar-woman-held-with-5-5-kg-ganja-worth-nearly-rs-2-crore-at-delhi-airport/3043191/
+    publisher: ThePrint
+    date: 2026-09-15
 ---
 
 Customs officers at Delhi's Indira Gandhi International Airport arrested a
 Myanmar woman for suspected ganja smuggling. [@1] The woman had arrived at
-Terminal-3 on September 11 on a flight from Bangkok. [@1] Customs officers
-intercepted her based on profiling after her arrival. [@1]
+Terminal-3 on September 11 on a flight from Bangkok. [@1,3] Customs officers
+intercepted her based on profiling after her arrival. [@1,3]
 
-Officers diverted her to the Green Channel for examination of her baggage. [@1]
+Officers diverted her to the Green Channel for examination of her baggage. [@1,3]
 Examination of her trolley bag recovered five polythene pouches containing
-suspected ganja. [@1] The recovered substance weighed 5.5 kg, which Customs
-valued at approximately Rs 1.93 crore. [@1]
+suspected ganja. [@1,3] The recovered substance weighed 5.5 kg, which Customs
+valued at approximately Rs 1.93 crore. [@1,3]
 
 A second outlet carrying the same official account confirms the 5.5 kg seizure
 from the Myanmar national at the airport. [@2] The case was brought under the
 Narcotic Drugs and Psychotropic Substances Act and the suspected ganja was
 seized. [@2]
-
