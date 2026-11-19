@@ -70,6 +70,11 @@ sources:
     publisher: Sumselupdate.com
     date: 2026-11-19
     language: id
+  - title: Sabu Dihancurkan Pakai Blender, Ganja Dibakar! Kejari Pagar Alam Musnahkan Ratusan Barang Bukti
+    url: https://sumeks.disway.id/amp/801840/sabu-dihancurkan-pakai-blender-ganja-dibakar-kejari-pagar-alam-musnahkan-ratusan-barang-bukti
+    publisher: SUMEKS.CO
+    date: 2026-11-19
+    language: id
 open_questions:
     - How the 4,239.64 grams of ganja was divided among the underlying cases, and how many of the 49 narcotics cases involved ganja, was not reported.
     - No defendants, verdicts or sentences for the underlying cases were reported.
@@ -105,16 +110,16 @@ media:
 ---
 
 The Pagar Alam prosecutor's office destroyed 208 items of evidence from general
-criminal cases that had final legal force on Thursday 19 November 2026. [@1,2,6,9] The
+criminal cases that had final legal force on Thursday 19 November 2026. [@1,2,6,9,10] The
 destruction took place in the yard of the Pagar Alam prosecutor's office using
-different methods for each type of evidence. [@1] Sabu-sabu was destroyed with a
+different methods for each type of evidence. [@1,10] Sabu-sabu was destroyed with a
 blender, ganja was burned, and sharp weapons were cut so they could no longer be
-used. [@1,3]
+used. [@1,3,10]
 
 The destroyed evidence also included mobile phones, car keys, clothing and other
-objects connected to the criminal cases. [@1,7] The narcotics evidence included 4,239.64 grams of ganja alongside 322.02 grams of methamphetamine and 17 ecstasy pills. [@4,6,7] Chief prosecutor Ira Febriana said
+objects connected to the criminal cases. [@1,7,10] The narcotics evidence included 4,239.64 grams of ganja alongside 322.02 grams of methamphetamine and 17 ecstasy pills. [@4,6,7] Chief prosecutor Ira Febriana said
 the 208 items came from handling general criminal cases during January to
-October 2026 and had all obtained final legal force. [@1] The 208 items came from 63 cases, comprising 49 narcotics cases, 11 cases involving persons and property and three cases involving state security and public order. [@4,6,7]
+October 2026 and had all obtained final legal force. [@1,10] The 208 items came from 63 cases, comprising 49 narcotics cases, 11 cases involving persons and property and three cases involving state security and public order. [@4,6,7]
 
 The exercise was attended by Pagar Alam deputy mayor Bertha, Pagar Alam police
 chief Adam Purbantoro, chief prosecutor Ira Febriana, the head of the Pagar Alam
