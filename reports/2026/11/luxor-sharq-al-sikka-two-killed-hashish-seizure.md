@@ -56,32 +56,37 @@ sources:
     publisher: يوليو
     date: 2026-11-18
     language: ar
+  - title: تفاصيل مصرع عنصرين خطرين في تبادل إطلاق نار مع الشرطة بالأقصر.. وضبط 44 كيلو شابو وحشيش
+    url: https://www.elwatannews.com/news/details/8399543
+    publisher: الوطن
+    date: 2026-11-19
+    language: ar
 open_questions:
-  - No weight was published for the hashish, hydro or other drugs seized in the Sharq al-Sikka den.
-  - The two dead men were not named and no ages or criminal records were published.
-  - Youm7 says the operation was in the evening while Cairo24 says afternoon; 18 November 2026 is used as the incident date.
-  - The Youm7 page also recaps a separate January 2026 arrest of a man with 5 kg of hashish in Nagaa al-Khataba, a different event left out here.
-  - No court outcome was reported; the bodies were placed under the competent authorities for investigation.
+    - The two dead men were not named and no ages or criminal records were published.
+    - Youm7 says the operation was in the evening while Cairo24 says afternoon; 18 November 2026 is used as the incident date.
+    - The Youm7 page also recaps a separate January 2026 arrest of a man with 5 kg of hashish in Nagaa al-Khataba, a different event left out here.
+    - No court outcome was reported; the bodies were placed under the competent authorities for investigation.
+    - The 9 kilograms of hashish formed part of a 44-kilogram mixed seizure valued at about 4 million Egyptian pounds; no separate value for the hashish was published.
+    - The 30 kilograms of shabu (methamphetamine) and 5 kilograms of hydro seized in the same raid are not counted as cannabis.
 ---
 
 Luxor Security Directorate police raided a drug den in Sharq al-Sikka in Luxor
-on 18 November 2026 to detain two outlaws accused of drug dealing. [@1] Cairo24
+on 18 November 2026 to detain two outlaws accused of drug dealing. [@1] The raid was carried out by the Interior Ministry's General Administration for Anti-Narcotics, Luxor branch, which targeted a criminal hotspot in Al-Baghula, east of the railway, within the Luxor police district. [@5] Cairo24
 said the two men died in the afternoon during an exchange of fire with police in
 Sharq al-Sikka under Luxor police station while being targeted for alleged
 trafficking in drugs and unlicensed firearms. [@2] Officers acted after a tip to
 the Luxor anti-narcotics office that two highly dangerous criminals were using
-the area as a den to promote drugs and hold firearms. [@2]
+the area as a den to promote drugs and hold firearms. [@2] Officers obtained the public prosecution's permission before launching the raid. [@5]
 
 The suspects fired first as the force arrived, and police returned fire under
 legal engagement rules, killing both at the scene without injuries among the
 officers. [@2] A search of the den found hashish, shabu and hydro plants plus
 firearms and ammunition of various calibres prepared for promotion and sale to
-customers in the governorate. [@2] Newsroom described the seizure as large
+customers in the governorate. [@2] Police said the raid seized 9 kilograms of hashish alongside 30 kilograms of shabu, or methamphetamine, and 5 kilograms of hydro, 44 kilograms of mixed drugs that they valued at about 4 million Egyptian pounds. [@5] Newsroom described the seizure as large
 quantities of drugs including hashish, shabu and hydro with firearms and
-ammunition. [@3]
+ammunition. [@3] Officers also seized an automatic rifle, a shotgun, 24 rounds of ammunition, two magazines, two precision scales, a sum of money and two mobile phones. [@5]
 
 Youlyou said initial information indicated the drugs were prepared for
 trafficking and promotion as part of the two men's criminal activity. [@4] The
 bodies were taken to the hospital morgue pending investigation by the competent
 authorities. [@2]
-
