@@ -62,6 +62,11 @@ sources:
     publisher: Pieria24
     date: 2026-11-18
     language: el
+  - title: Κάνναβη από την Αμερική στα Τρίκαλα με courier – Συνελήφθη 20χρονος - Trikala Online
+    url: https://www.trikalaonline.gr/trikala/%CE%BA%CE%AC%CE%BD%CE%BD%CE%B1%CE%B2%CE%B7-%CE%B1%CF%80%CF%8C-%CF%84%CE%B7%CE%BD-%CE%B1%CE%BC%CE%B5%CF%81%CE%B9%CE%BA%CE%AE-%CF%83%CF%84%CE%B1-%CF%84%CF%81%CE%AF%CE%BA%CE%B1%CE%BB%CE%B1-%CE%BC%CE%B5-c/
+    publisher: Trikala Online
+    date: 2026-11-18
+    language: el
 open_questions:
   - TrikalaNews dates the arrest to Tuesday 17 November 2026, while Kathimerini describes it as today at midday on its 18 November publication date; 17 November is used as the incident date.
   - The cannabis was described as raw cannabis in nine nylon packages, with no laboratory confirmation reported.
@@ -71,20 +76,20 @@ open_questions:
 ---
 
 Police in Trikala arrested a 20-year-old Greek man at midday for violations of
-drug legislation and forgery. [@1,4] Officers of the Trikala Narcotics Unit
+drug legislation and forgery. [@1,4,5] Officers of the Trikala Narcotics Unit
 located the 20-year-old, believed to be the parcel's recipient, at a spot in the
-city and arrested him during the operation. [@1] The 20-year-old was led to the
+city and arrested him during the operation. [@1,5] The 20-year-old was led to the
 Trikala misdemeanours prosecutor, while the Trikala prosecution and
 crime-detection unit conducted the preliminary inquiry. [@1,4]
 
 Customs officers from the anti-smuggling department of the Eastern Attica
 Customs Office had spotted the suspect parcel in a courier company's parcel
-storage warehouse. [@1,4] Police said the parcel had been sent from an area of the
+storage warehouse. [@1,4,5] Police said the parcel had been sent from an area of the
 United States with Trikala as its final destination and contained nine nylon
-packages of raw cannabis weighing 2 kilos 582 grams, plus clothing items. [@1]
+packages of raw cannabis weighing 2 kilos 582 grams, plus clothing items. [@1,5]
 After the drugs were found, a controlled delivery of the parcel was organised
 following a decision by the drug-enforcement coordination body and approval by
-the competent prosecutor. [@1,4] Officers identified and arrested the 20-year-old
+the competent prosecutor. [@1,4,5] Officers identified and arrested the 20-year-old
 as he collected the parcel. [@2]
 
 A lawful search of his home in the wider Trikala area uncovered a fake identity
