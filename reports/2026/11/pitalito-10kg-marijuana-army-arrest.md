@@ -60,6 +60,11 @@ sources:
     publisher: Ejército Nacional de Colombia
     date: 2026-11-18
     language: es
+  - title: DIEZ KILOS DE MARIHUANA FUERON INCAUTADOS EN BRUSELAS
+    url: http://diariodelcauca.com.co/noticias/diez-kilos-de-marihuana-fueron-incautados-en-bruselas
+    publisher: Diario del Cauca
+    date: 2026-11-19
+    language: es
 open_questions:
     - No date is given for the operation; 18 November 2026 is the date of the Army statement and is used as the incident date.
     - The weight is given as about 10 kilograms, with no exact measurement or laboratory confirmation reported.
@@ -73,14 +78,14 @@ Soldiers of the Light Infantry Battalion No. 27 Magdalena, part of the Ninth
 Brigade, took part in the operation in the vereda El Cedro, corregimiento de
 Bruselas, Pitalito, Huila, together with the National Police. [@1,2] The operation
 against drug trafficking seized about 10 kilograms of marijuana in the rural
-area of Pitalito, Huila. [@1,2] One man was arrested in flagrante. [@1,2] The
+area of Pitalito, Huila. [@1,2,3] One man was arrested in flagrante. [@1,2,3] The
 authorities arrested him on suspicion of trafficking, manufacturing or
 possessing narcotics. [@1,2] They also seized a motorcycle that would be related
-to the case. [@1,2] The arrested man and the seized items were handed to the
+to the case. [@1,2,3] The arrested man and the seized items were handed to the
 competent authorities for judicial proceedings. [@1,2]
 
 The Army said the load would be worth close to 15 million pesos. [@1,2] It said
 the result represented an economic impact of close to 15 million pesos for the
-residual organized armed group Comandos de Frontera. [@1,2] The Ninth Brigade said
+residual organized armed group Comandos de Frontera. [@1,2,3] The Ninth Brigade said
 it would continue operations with the National Police to stop the transport and
 sale of drugs on the roads and rural areas of Huila. [@1,2]
