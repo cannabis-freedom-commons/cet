@@ -52,27 +52,27 @@ sources:
     publisher: Der Tagesspiegel
     date: 2026-11-19
     language: de
-open_questions:
-    - The exact day of the mid-October seizure involving the Malaysian traveller was not given.
-    - No arrest, detention or personal details beyond the Malaysian man's nationality were reported for either case.
-    - The cannabis was described only as a green-brown substance testing positive for cannabis, with no laboratory confirmation reported.
-    - The tixio article and the ad-hoc-news copy reproduce the same Hauptzollamt Potsdam statement, so they are not independent reporting.
+  - title: Zoll stellt am BER 40 Kilogramm Cannabis sicher
+    url: https://www.nachrichten-heute.net/1789867-zoll-stellt-am-ber-40-kilogramm-cannabis-sicher.html
+    publisher: nachrichten-heute.net
+    date: 2026-11-19
+    language: de
 ---
 
 Two travellers are facing criminal proceedings on suspicion of smuggling in
 connection with the Consumer Cannabis Act after two cannabis seizures at Berlin
-Brandenburg Airport. [@1] The Zollfahndungsamt Berlin-Brandenburg has taken over
-the further investigations. [@1]
+Brandenburg Airport. [@1,4] The Zollfahndungsamt Berlin-Brandenburg has taken over
+the further investigations. [@1,4]
 
 On 2 November customs officers at the airport found 40 kilograms of cannabis
-spread over two pieces of luggage. [@2,3] The man had arrived on a flight from Zurich, a customs spokeswoman said. [@3] Officers of the Hauptzollamt Potsdam had
-already spotted irregularities during the X-ray screening. [@2] When the luggage
+spread over two pieces of luggage. [@2,3,4] The man had arrived on a flight from Zurich, a customs spokeswoman said. [@3] Officers of the Hauptzollamt Potsdam had
+already spotted irregularities during the X-ray screening. [@2,4] When the luggage
 was opened officers found only vacuum-sealed bags with a green-brown substance.
-[@1,3] A drug test subsequently carried out for cannabis was positive. [@1,3]
+[@1,3,4] A drug test subsequently carried out for cannabis was positive. [@1,3,4]
 
 In mid-October customs sniffer dog Inge detected 16 kilograms of cannabis in the
-luggage of a Malaysian man who had arrived via Madrid. [@1,3] The traveller said
-the suitcases belonged to a friend. [@1,3] Officers seized a total of eight
-double-vacuumed plastic bags containing cannabis. [@1] In total the two cases
+luggage of a Malaysian man who had arrived via Madrid. [@1,3,4] The traveller said
+the suitcases belonged to a friend. [@1,3,4] Officers seized a total of eight
+double-vacuumed plastic bags containing cannabis. [@1,4] In total the two cases
 account for 56 kilograms of cannabis seized from travellers' luggage at the
 airport. [@1]
