@@ -92,25 +92,32 @@ sources:
     publisher: Los Noticieristas
     date: 2026-11-18
     language: es
+  - title: Marina detiene a cinco presuntos infractores de la ley, además de asegurar presunta marihuana y vehículos en Sinaloa
+    url: https://www.puntualizando.com/marina-detiene-a-cinco-presuntos-infractores-de-la-ley-ademas-de-asegurar-presunta-marihuana-y-vehiculos-en-sinaloa/
+    publisher: Puntualizando.com
+    date: 2026-11-18
+    language: es
+open_questions:
+  - No weight was published for the bags of suspected marijuana.
 ---
 
 On 18 November 2026, Mexico's Navy, acting through the Fourth Naval Region,
 detained five alleged offenders and seized bags of suspected marijuana and
-vehicles in three operations in Sinaloa. [@1,3,4,5,6] In the port city of Mazatlán,
+vehicles in three operations in Sinaloa. [@1,3,4,5,6,7] In the port city of Mazatlán,
 Naval Port Protection Unit officers stopped a cargo vehicle during a routine
-preventive inspection. [@1,3,6] With the support of a trained naval detection dog,
-the officers found two bags of dry herb identical to marijuana. [@1,3,4,5,6] Near the
+preventive inspection. [@1,3,6,7] With the support of a trained naval detection dog,
+the officers found two bags of dry herb identical to marijuana. [@1,3,4,5,6,7] Near the
 village of Nuevo Santo Grande in Elota municipality, armed-forces personnel
 arrested three people and seized another bag of dry herb with the properties of
-the drug during land surveillance patrols. [@1,3,4,5,6]
+the drug during land surveillance patrols. [@1,3,4,5,6,7]
 
 In a third simultaneous sweep in the state, naval personnel intercepted two men,
 taking them into custody with two motorcycles and more packages of suspected
-marijuana. [@1,3,5,6] Three of the detainees were located during patrols near Nuevo
+marijuana. [@1,3,5,6,7] Three of the detainees were located during patrols near Nuevo
 Santo Grande in Elota. [@2] In the third encounter, two men were detained and
 two motorcycles and more bags of marijuana-like dry herb were seized. [@2,4]
 
 Naval personnel read the five men their rights and transferred them and
-everything seized to the public prosecutor's office. [@1,3,4,6] The ministerial
+everything seized to the public prosecutor's office. [@1,3,4,6,7] The ministerial
 authorities took legal custody of the case to open and consolidate the
 respective investigation files. [@1]
