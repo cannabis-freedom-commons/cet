@@ -46,6 +46,10 @@ sources:
     url: https://tvmnews.mt/en/news/three-men-jailed-after-admitting-drug-trafficking-charge/
     publisher: TVM News
     date: 2026-10-18
+  - title: Two flatmates jailed over possession of pink cocaine and other drugs
+    url: https://timesofmalta.com/article/jail-fine-two-flatmates-found-possession-drugs.1137352
+    publisher: Times of Malta
+    date: 2026-11-19
 open_questions:
   - No separate quantity or weight was given for the cannabis; the only stated weight, 25 grams of suspected cocaine found on Medina, is a different drug and is excluded from the cannabis figures.
   - 'The sources disagree on when sentence was passed: MaltaToday gives 29 October 2026, while TVM, published on 18 October, reported the sentences as already handed down at the 17 October arraignment.'
@@ -56,11 +60,11 @@ open_questions:
 Three Colombian men admitted in court to possession with intent to traffic
 several types of drugs and were handed prison sentences. [@2] Fredymar Rodriguez
 Camargo, 33, and Felipe Solano Pinzon, 29, were each sentenced to nine months in
-prison and fined €800 by Magistrate Nadia Helena Vella on 29 October 2026. [@1]
+prison and fined €800 by Magistrate Nadia Helena Vella on 29 October 2026. [@1,3] The nine-month prison terms and fines followed an agreement between the prosecution and the defence on the appropriate penalty. [@3]
 A third man, Julian Felipe Otalvarez Medina, 33, was arrested alongside them and
-sentenced in separate proceedings to one year in prison and a €1,000 fine. [@1]
+sentenced in separate proceedings to one year in prison and a €1,000 fine. [@1,3]
 All three admitted the charges, which concerned offences committed on 15 October
-2026, and were arraigned on 17 October, when they pleaded guilty. [@1]
+2026, and were arraigned on 17 October, when they pleaded guilty. [@1,3]
 
 Camargo pleaded guilty to aggravated possession of cannabis, MDMA, ketamine and
 pink cocaine in circumstances indicating the drugs were not intended exclusively
@@ -72,7 +76,7 @@ Officers followed Medina into a bar in St Julian's, where they arrested him.
 [@1] A search revealed 25 grams of suspected cocaine on Medina, along with
 mobile phones, a wallet and cash on his motorcycle. [@1] Police searched
 Medina's residence in San Ġwann, found Pinzon inside and seized substances
-including MDMA and LSD, and Camargo arrived while officers were there. [@1]
+including MDMA and LSD, and Camargo arrived while officers were there. [@1,3]
 
 In handing down the sentences, the court took into consideration the nature of
 the offences, the relatively small quantities of drugs found and the
@@ -81,4 +85,3 @@ clean criminal records. [@1] The court ordered that time already spent in
 preventive custody be deducted from the sentences and imposed an €800 fine. [@1]
 The court ordered the seized drugs destroyed once the judgements become final.
 [@1]
-
