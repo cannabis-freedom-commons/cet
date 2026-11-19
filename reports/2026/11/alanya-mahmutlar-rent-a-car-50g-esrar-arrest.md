@@ -57,6 +57,11 @@ sources:
     publisher: Mersin Haber
     date: 2026-11-19
     language: tr
+  - title: 'Alanya’da rent a car’a uyuşturucu operasyonu: 1 tutuklama'
+    url: https://www.msn.com/tr-tr/haber/turkiye/alanya-da-rent-a-car-a-uyu%C5%9Fturucu-operasyonu-1-tutuklama/ar-AA2hKN86
+    publisher: İHA / MSN
+    date: 2026-11-19
+    language: tr
 open_questions:
   - No date is given for the raid or the detention; 19 November 2026 is the publication date and stands in for the incident date.
   - The 70 grams of cocaine and the combined 120-gram drug total reported for the same search are excluded from the cannabis figures.
@@ -66,19 +71,18 @@ open_questions:
 
 Narcotics officers from the Alanya district police went to a rent-a-car business
 in Mahmutlar Mahallesi after learning that drugs were kept there and raided the
-premises. [@1] The operation was carried out under the coordination of the
-Alanya Chief Public Prosecutor's Office. [@2]
+premises. [@1,4] The operation was carried out under the coordination of the
+Alanya Chief Public Prosecutor's Office. [@2,4]
 
 In the search of the business officers seized 70 grams of cocaine and 50 grams
-of esrar, the Turkish term for cannabis, both described as ready for use. [@1]
+of esrar, the Turkish term for cannabis, both described as ready for use. [@1,4]
 Yeni Alanya put the drugs taken at the shop at 120 grams in total, counting the
 cocaine and the esrar together. [@2] A 44-year-old man identified only as A.S.,
 who was in the business during the raid, was detained and taken to the police
-station. [@1]
+station. [@1,4]
 
 After giving a statement to the anti-narcotics bureau he was taken to the
-courthouse, where the on-duty prosecutor questioned him. [@1] The on-duty court
+courthouse, where the on-duty prosecutor questioned him. [@1,4] The on-duty court
 granted the prosecution's detention request and jailed him on a charge of drug
-possession (uyuşturucu madde bulundurmak). [@1] He was sent to the Alanya L-type
-closed prison. [@3]
-
+possession (uyuşturucu madde bulundurmak). [@1,4] He was sent to the Alanya L-type
+closed prison. [@3,4]
