@@ -50,6 +50,11 @@ sources:
     publisher: تحت المجهر
     date: 2026-11-19
     language: ar
+  - title: حاولت تهريبه له في محبسه.. ضبط زوجة إسلام كابونجا بحوزتها حشيش وترامادول
+    url: https://www.elbalad.news/7187103
+    publisher: صدى البلد
+    date: 2026-11-19
+    language: ar
 open_questions:
   - It is unclear whether she admitted possessing the seized items or denied knowledge and said a driver gave her the bag.
   - No weight or measured size for the hashish piece was published.
@@ -66,10 +71,10 @@ visit goods for her husband, and officers searched those goods during the visit.
 [@1,5] The suspected drugs were hidden professionally inside a bag to evade monitoring. [@5]
 
 The search found four Nokia mobile phones, one large piece of hashish and 52
-tramadol pills. [@1,2,3,4,6] The seized phones were Nokia handsets, the hashish was
+tramadol pills. [@1,2,3,4,6,7] The seized phones were Nokia handsets, the hashish was
 described as a large piece and the tramadol as narcotic pills intended to be
 brought to her husband. [@1] The four seized Nokia phones were small Afreto models without cameras or SIM cards. [@6] When confronted, she admitted that she possessed
-the seized items in order to bring them in to her husband. [@1,2,4] In this account she denied knowing about the seized items and said she had received the bag from a 29-year-old driver named Khalil from al-Warraq to take to her husband for use in prison. [@6]
+the seized items in order to bring them in to her husband. [@1,2,4,7] In this account she denied knowing about the seized items and said she had received the bag from a 29-year-old driver named Khalil from al-Warraq to take to her husband for use in prison. [@6]
 
 Police filed a report on the incident after the arrest at the correction centre.
-[@1,3,5] The prosecution took over the investigation of the case. [@1,2,4,6] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5]
+[@1,3,5,7] The prosecution took over the investigation of the case. [@1,2,4,6,7] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5]
