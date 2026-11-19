@@ -53,21 +53,25 @@ sources:
     publisher: Guia Crissiumal
     date: 2026-11-19
     language: pt
+  - title: Dois homens são presos e 158 tabletes de maconha são apreendidos em Campo Novo
+    url: https://radioprogresso.com.br/dois-homens-sao-presos-e-158-tabletes-de-maconha-sao-apreendidos-em-campo-novo/
+    publisher: RPI - Rádio Progresso de Ijuí
+    date: 2026-11-19
+    language: pt
 open_questions:
-  - No names, ages or other identifiers were published for the two men arrested.
-  - No description was given of the two vehicles, the two smartphones or the products of foreign origin.
-  - No defence statements, charges beyond trafficking, or court outcome beyond transfer to the prison system were reported.
-  - The whole account rests on a single outlet report reproducing the 7th BPM communication; no second independent account was found.
+    - No names, ages or other identifiers were published for the two men arrested.
+    - No description was given of the two vehicles, the two smartphones or the products of foreign origin.
+    - No defence statements, charges beyond trafficking, or court outcome beyond transfer to the prison system were reported.
+    - Both accounts reproduce the 7th BPM communication office material, so they are not independent reporting beyond the police handout.
 ---
 
 In the early hours of 19 November 2026, the Campo Novo Brigada Militar and the
 Civil Police arrested two men for drug trafficking on BR-468 during Plano Tático
-Operacional actions. [@1] The two men were arrested in flagrante and, after the
-arrest report was drawn up, were taken to the prison system. [@1]
+Operacional actions. [@1,2] The two men were arrested in flagrante and, after the
+arrest report was drawn up, were taken to the prison system. [@1,2]
 
-Officers seized 158 marijuana tablets totalling 96.75 kilograms. [@1] Officers
-also seized two vehicles, two smartphones and products of foreign origin. [@1]
+Officers seized 158 marijuana tablets totalling 96.75 kilograms. [@1,2] Officers
+also seized two vehicles, two smartphones and products of foreign origin. [@1,2]
 
 Military police officers of the 7th BPM handled the incident. [@1] The account
-is credited to the 7th BPM social communication office. [@1]
-
+is credited to the 7th BPM social communication office. [@1,2]
