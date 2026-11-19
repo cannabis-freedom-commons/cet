@@ -47,6 +47,11 @@ sources:
     publisher: Fiji One News via CONVEN
     date: 2026-10-19
     language: en
+  - title: Four men arrested in Suva drug bust
+    url: https://www.fbcnews.com.fj/news/court/four-men-arrested-in-suva-drug-bust/
+    publisher: FBC News
+    date: 2026-10-19
+    language: en
 media:
   - kind: photo
     url: https://www.fijivillage.com/news/four-men-arrested-with-suspected-marijuana-at-narain-jetty-d13822/
@@ -61,12 +66,12 @@ media:
 ---
 
 Four men were arrested at Narain Jetty in Suva for alleged possession of
-illicit drugs on the night of October 18, 2026. [@1][@2]
+illicit drugs on the night of October 18, 2026. [@1,3][@2]
 
 A police team including K-9 units was deployed for routine checks on
-passengers arriving from the outer islands and their luggage. [@1][@2] The
+passengers arriving from the outer islands and their luggage. [@1,3][@2] The
 four were arrested after officers allegedly found them with dried leaves,
-green branches and sachets of dried leaves believed to be marijuana. [@1][@2]
+green branches and sachets of dried leaves believed to be marijuana. [@1,3][@2]
 
 The men remained in custody while the seized substances were sent for
-analysis, and investigations continued. [@1][@2]
+analysis, and investigations continued. [@1,3][@2]
