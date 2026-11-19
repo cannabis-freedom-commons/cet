@@ -64,24 +64,27 @@ sources:
     publisher: Ligado na Notícia
     date: 2026-11-18
     language: pt
+  - title: Motorista preso na MS-379 transportava 2 toneladas de maconha em caminhonete — TáNaMídia Naviraí
+    url: https://www.tanamidianavirai.com.br/noticia/66242/motorista-preso-na-ms-379-transportava-2-toneladas-de-maconha-em-caminhonete
+    publisher: TáNaMídia Naviraí
+    date: 2026-11-19
+    language: pt
 open_questions:
-  - No weighed total of the marijuana was published; the load was still being weighed, and Dourados Informa's expectation that it would reach three tonnes was an estimate, not a measurement.
-  - Whether the driver was charged, his plea or his custody status were not reported.
-  - The pick-up point in Ponta Porã and the delivery point in Dourados rest on the driver's statement to police; the origin of the marijuana was not established.
-  - The three accounts repeat one police account and the same photographs by the same photographer, so they are not independent reporting.
+    - Whether the driver was charged, his plea or his custody status beyond being held at the disposal of justice were not reported.
+    - It is unclear whether the intended destination was Dourados or São Vicente (SP), with the Ponta Porã origin resting only on the driver's statement to police.
+    - The four accounts, including this one via Dourados News, repeat the same PRF account, so they are not independent reporting.
 ---
 
 Federal highway police (PRF) arrested a 25-year-old man from Ponta Porã in the
 morning of 18 November 2026 on the MS-379, the highway linking Dourados and
-Laguna Carapã in Mato Grosso do Sul. [@1] The team was returning from Laguna
+Laguna Carapã in Mato Grosso do Sul. [@1,4] A later account identified the driver as Luis Fernando. [@4] The team was returning from Laguna
 Carapã and was running a stop-and-search on the highway when the driver of the
 Hilux drew attention as the patrol car approached. [@1] The driver refused to
-open the door and accelerated the pickup to escape. [@1] Officers fired at the
-tyres to stop the vehicle before approaching it. [@1]
+open the door and accelerated the pickup to escape. [@1,4] Officers fired at the
+tyres to stop the vehicle before approaching it. [@1,4]
 
 The man told police he was to receive R$ 5,000 to transport the drug from Ponta
-Porã to Dourados. [@3] The load was marijuana. [@1] It had not been weighed when
-the first accounts were published. [@2] The Hilux had a theft report from 11 May
-2026 in São Vicente, on the São Paulo coast. [@1] The driver, the drug and the
-pickup were taken to the Depac, the community police station in Dourados. [@1]
-
+Porã to Dourados. [@3] The load was marijuana. [@1,4] It had not been weighed when
+the first accounts were published. [@2] A later account put the weighed total at 2,004.65 kg of marijuana. [@4] The Hilux had a theft report from 11 May
+2026 in São Vicente, on the São Paulo coast. [@1,4] The driver, the drug and the
+pickup were taken to the Depac, the community police station in Dourados. [@1,4]
