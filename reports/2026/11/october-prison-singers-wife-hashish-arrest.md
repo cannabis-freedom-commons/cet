@@ -25,30 +25,34 @@ sources:
     publisher: نيوز رووم
     date: 2026-11-19
     language: ar
+  - title: إسلام كابونجا يواجه القبض على زوجته بحشيش وترامادول أثناء زيارته بالسجن
+    url: https://www.alestad.com/161456/%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%83%D8%A7%D8%A8%D9%88%D9%86%D8%AC%D8%A7-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B2%D9%88%D8%AC%D8%AA%D9%87-%D8%A8%D8%AD/
+    publisher: الاستاد الاخباري
+    date: 2026-11-19
+    language: ar
 open_questions:
-  - No weight was published for the large piece of hashish, so no cannabis quantity is recorded.
-  - The visit search also found 52 tramadol pills and four mobile phones, which are not counted in the cannabis figures.
-  - No separate date was given for the prison visit; 19 November 2026 is the publication date and is used as the incident date.
-  - The wife was identified only by the initials M. S., with no age or other personal details reported.
-  - No reason for her husband's detention at the October Correction Centre was reported.
-  - No court outcome was reported; the prosecution had taken over the investigation.
-  - The account rests on a single outlet with no independent corroboration found.
+    - No weight was published for the large piece of hashish, so no cannabis quantity is recorded.
+    - The visit search also found 52 tramadol pills and four mobile phones, which are not counted in the cannabis figures.
+    - No separate date was given for the prison visit; 19 November 2026 is the publication date and is used as the incident date.
+    - The wife was identified only by the initials M. S., with no age or other personal details reported.
+    - No reason for her husband's detention at the October Correction Centre was reported.
+    - No court outcome was reported; the prosecution had taken over the investigation.
+    - The available accounts reproduce the same police findings, so there is no independent corroboration.
 ---
 
 Detectives at the October Correction Centre in Giza arrested M. S., the wife of
 mahraganat singer Islam Kabonga, while she was visiting her detained husband.
-[@1] The Giza security directorate said Assistant Minister for Giza Security
+[@1,2] The Giza security directorate said Assistant Minister for Giza Security
 Maj. Gen. Hatem Hassan received a notification of the incident from Maj. Gen.
-Hany Shaarawy, deputy director of criminal investigations. [@1] She had brought
+Hany Shaarawy, deputy director of criminal investigations. [@1,2] She had brought
 visit goods for her husband, and officers searched those goods during the visit.
 [@1]
 
 The search found four Nokia mobile phones, one large piece of hashish and 52
-tramadol pills. [@1] The seized phones were Nokia handsets, the hashish was
+tramadol pills. [@1,2] The seized phones were Nokia handsets, the hashish was
 described as a large piece and the tramadol as narcotic pills intended to be
 brought to her husband. [@1] When confronted, she admitted that she possessed
-the seized items in order to bring them in to her husband. [@1]
+the seized items in order to bring them in to her husband. [@1,2]
 
 Police filed a report on the incident after the arrest at the correction centre.
-[@1] The prosecution took over the investigation of the case. [@1]
-
+[@1] The prosecution took over the investigation of the case. [@1,2]
