@@ -87,22 +87,30 @@ sources:
     url: https://www.kptv.com/2026/11/19/marijuana-guns-gold-cash-found-during-illegal-grow-investigation-near-canby/
     publisher: KPTV
     date: 2026-11-19
+  - title: Multi-county illegal grow raid nets 2,000 marijuana plants, guns, $191K cash & more
+    url: https://www.msn.com/en-us/news/other/multi-county-illegal-grow-raid-nets-2-000-marijuana-plants-guns-191k-cash-more/ar-AA2hNndE
+    publisher: MSN (KATU)
+    date: 2026-11-19
+  - title: Multi-county illegal grow raid nets 2,000 marijuana plants, guns, $191K cash & more
+    url: https://katu.com/news/local/multi-county-illegal-grow-raid-nets-2000-marijuana-plants-guns-191k-cash-luxury-watches-gold-canby-clackamas-yamhill-multnomah-oregon
+    publisher: KATU
+    date: 2026-11-19
 ---
 
 Canby police interviewed five suspects in connection with an illegal marijuana
 grow operation and the case was to be sent to the Clackamas County District
-Attorney's Office for prosecution. [@2,3,4,5] Canby police told KOIN 6 News they
+Attorney's Office for prosecution. [@2,3,4,5,6] Canby police told KOIN 6 News they
 opened the investigation after a complaint about a grow operation outside the
 city and executed two search warrants. [@1,3,5] Canby Police said the warrants
 covered the original complaint site, two other locations in Clackamas County,
-two in Multnomah County and one in Yamhill County. [@2,4,5]
+two in Multnomah County and one in Yamhill County. [@2,4,5,6]
 
 Investigators seized approximately 2,000 marijuana plants, approximately 140
 pounds (about 63.5 kilograms) of processed marijuana, eight firearms, two
 firearm suppressors, $191,384 in cash, two luxury watches and approximately
-$20,000 in gold. [@2,4,5]
+$20,000 in gold. [@2,4,5,7]
 
 The Canby Police Department was assisted by the Clackamas County Interagency
 Task Force, the Clackamas County SWAT team and the Yamhill County Street Crimes
-and Narcotics team. [@2,4] Police said workers at illegal grow operations are
+and Narcotics team. [@2,4,7] Police said workers at illegal grow operations are
 often victims of human trafficking and live in squalid conditions. [@2]
