@@ -54,6 +54,11 @@ sources:
     publisher: Mail.ru
     date: 2026-11-18
     language: ru
+  - title: В Калининградской области полиция изъяла 19 кг наркотиков и 220 кг растений
+    url: https://newsroom24.ru/kaliningrad/news/criminal/2026/news_377673/
+    publisher: Ньюсрум24
+    date: 2026-11-19
+    language: ru
 open_questions:
   - No separate date was given for the end of the operation or the seizures; 18 November 2026 is the publication date and stands in for the incident date.
   - The overall totals of more than 19 kg of plant-origin drugs and over 220 kg of drug-containing plants mix cannabis with other plant drugs and cannot be separated, so no cannabis kilogram figure is recorded.
@@ -67,19 +72,18 @@ open_questions:
 
 Police in Kaliningrad Oblast opened 28 criminal cases against 16 people during
 the interdepartmental preventive operation Mak-2026, with 17 cases for sale,
-nine for storage and two for illegal cultivation of drug-containing plants. [@1]
+nine for storage and two for illegal cultivation of drug-containing plants. [@1,3]
 Another 65 people were brought to administrative liability under articles 6.8
-and 6.9 of the Code of Administrative Offences. [@1] The regional interior
+and 6.9 of the Code of Administrative Offences. [@1,3] The regional interior
 ministry said the Mak-2026 operation has ended in the region. [@2]
 
 During the operation officers identified trafficking and cultivation offences
 involving drug-containing plants and blocked channels for drugs entering the
 region. [@1] Police described the discovery of two plots with illegally
 cultivated hemp in Svetlovsky urban district as one of the operation's
-significant results. [@1] On one plot officers seized 536 plants with a combined
-weight of 121.4 kg. [@1] On the other plot they seized another 415 plants
-weighing 27.3 kg. [@1]
+significant results. [@1,3] On one plot officers seized 536 plants with a combined
+weight of 121.4 kg. [@1,3] On the other plot they seized another 415 plants
+weighing 27.3 kg. [@1,3]
 
 Police said more than 19 kg of plant-origin drugs and over 220 kg of
-drug-containing plants and parts were taken out of illegal circulation. [@1]
-
+drug-containing plants and parts were taken out of illegal circulation. [@1,3]
