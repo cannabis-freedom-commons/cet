@@ -101,21 +101,32 @@ sources:
     publisher: ФАЙНЕ МІСТО ТЕРНОПІЛЬ
     date: 2026-11-18
     language: uk
+  - title: На Борщівщині викрили наркопритон - Все Про Все
+    url: https://v-p-v.com/ternopil-region/na-borshhivshhyni-vykryly-narkopryton/
+    publisher: Все Про Все
+    date: 2026-11-18
+    language: uk
+open_questions:
+    - No weight was published for the packets of crushed plant material seized in the search.
+    - The plant material was described as resembling cannabis; no laboratory confirmation was reported.
+    - No date was given for the search or the arrests; 18 November 2026, the date of the police statement, is used as the incident date.
+    - No decision on the pre-trial detention measure, plea or later court outcome was reported.
+    - The published accounts reproduce the same Ternopil Oblast police statement, so they are not independent reporting.
 ---
 
 Police investigators in Ternopil Oblast notified two residents of the Borshchiv
 community that they were suspected of providing a place for illegal drug use and
-of selling banned substances. [@1,6,7] Both are 31-year-old men who set up a drug
-den in a farm building on the grounds of a local household. [@1,4,5,6,7,8] Officers of the
+of selling banned substances. [@1,6,7,9] Both are 31-year-old men who set up a drug
+den in a farm building on the grounds of a local household. [@1,4,5,6,7,8,9] Officers of the
 Borshchiv police department opened the case after receiving information that
 suspicious people were regularly gathering at one of the households. [@3,6,7] Police
 documented more than ten occasions on which the premises were provided for drug
-use. [@1,4,5,6,8] They also established that one of the two men sold cannabis. [@1,4,5,6,7,8] During searches officers found devices for taking drugs and packets of a substance resembling cannabis. [@7,8]
+use. [@1,4,5,6,8,9] They also established that one of the two men sold cannabis. [@1,4,5,6,7,8,9] During searches officers found devices for taking drugs and packets of a substance resembling cannabis. [@7,8,9]
 
 Both men were notified of suspicion under Part 2 of Article 317 of Ukraine's
 Criminal Code, which covers organising or maintaining a place for illegal drug
-use. [@1,4,5,6,7,8] One of them additionally faces Part 1 of Article 307, illegal sale of
-narcotic drugs. [@1,4,5,6,7,8] Both were detained under Article 615 of the Criminal
+use. [@1,4,5,6,7,8,9] One of them additionally faces Part 1 of Article 307, illegal sale of
+narcotic drugs. [@1,4,5,6,7,8,9] Both were detained under Article 615 of the Criminal
 Procedure Code, the wartime procedure for holding detainees. [@2,4,5,6,7] A pre-trial
 detention measure was still being decided when the police statement was
-published. [@1,6] The charges carry up to eight years in prison. [@1,4,6,7,8]
+published. [@1,6,9] The charges carry up to eight years in prison. [@1,4,6,7,8,9]
