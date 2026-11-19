@@ -66,6 +66,11 @@ media:
     media_url: https://www.bahianoticias.com.br/fotos/municipios_noticias/53425/IMAGEM_NOTICIA_9.jpg?checksum=1795002891
     publisher: Bahia Notícias
     caption: 'Cannabis plantation in rural Canudos, in the PM-BA handout published with the Bahia Notícias report on the eradication. Photo: Divulgação/PM-BA'
+  - kind: video
+    url: https://noticias.r7.com/bahia/apreensao-de-15-mil-pes-de-maconha-shorts-19112026/
+    media_url: https://www.youtube.com/watch?v=kyq-C0oFVw4
+    publisher: R7 / Record Bahia
+    caption: 'Record Bahia news video short reporting the seizure of 15,000 cannabis plants in Bahia. Video: Record Bahia.'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 1b161bc133a41703fad6b7129e8a8e05
@@ -146,15 +151,11 @@ sources:
     publisher: Agora Sudoeste
     date: 2026-11-19
     language: pt
-open_questions:
-    - No suspect has been named, and no one was found at the site; police said those responsible were not located during the operation.
-    - The precise location of Povoado 150 is not described beyond the name; the Euclides da Cunha portal places it at Setor II do Povoado Núcleo II - 150, a designation the other accounts do not use.
-    - 'Plant counts differ: the SSP-BA statement said 15,000, R7 said more than 15,000, and the Euclides da Cunha portal reported about 30,000; the report uses 15,000.'
-    - R7 places the operation in an area of difficult access near the centre of Canudos and does not name Povoado 150, while the other accounts place the plantation there.
-    - The 1,500 kilograms of dried cannabis and the estimate of about 10 million reais in losses appear only in the Euclides da Cunha portal's account, credited to the Civil Police, and are absent from the SSP-BA statement.
-    - No area in hectares was given for the plantation.
-    - Whether this plantation is connected to the group targeted in Operation Safra Oculta in Bahia and Pernambuco the same day is not stated.
-    - The accounts reproduce the same police statements and are not independent reporting; the portal's version reproduces a Civil Police account of the same operation.
+  - title: 'Apreensão de 15 mil pés de maconha #shorts'
+    url: https://noticias.r7.com/bahia/apreensao-de-15-mil-pes-de-maconha-shorts-19112026/
+    publisher: R7 Notícias
+    date: 2026-11-19
+    language: pt
 ---
 
 Civil and Military Police in Bahia found and destroyed a cannabis plantation in
@@ -165,7 +166,7 @@ said inquiries were continuing to identify and arrest those responsible. [@2,5,7
 
 Officers used drones to find the crop and reach the clearing, then uprooted and
 burned the plants. [@1,5,6,7,8,9,10,11,13,14,15] After forensic examination by the Technical Police Department (DPT), all the material was burned at the site. [@12] The security secretariat said the state forces found
-15,000 cannabis plants at the site. [@2,5,6,7,9,10,14,15] At the site officers also found about 1,500 kilograms of dried cannabis ready for sale, the Civil Police said. [@12] Officers also destroyed sleeping
+15,000 cannabis plants at the site. [@2,5,6,7,9,10,14,15,16] At the site officers also found about 1,500 kilograms of dried cannabis ready for sale, the Civil Police said. [@12] Officers also destroyed sleeping
 quarters and an irrigation system used to keep the plantation running. [@3,5,6,7,8,9,10,13,14,15] The Civil Police estimated the loss to the criminal group at about 10 million reais. [@12] Officers found camps with structures for drying and pressing the drug and several agricultural implements used in the cultivation. [@12]
 
 The operation was part of integrated police action against drug trafficking and
