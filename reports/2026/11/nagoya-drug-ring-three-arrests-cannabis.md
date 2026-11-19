@@ -41,6 +41,11 @@ media:
     media_url: https://www.sakigake.jp/images/news-entry/AK20261119G00032_l.jpg
     publisher: 秋田魁新報電子版
     caption: 'Dried cannabis and stimulants seized by the Akita and Aichi prefectural police, in a police handout. Photo: Akita Prefectural Police'
+  - kind: photo
+    url: https://www.chunichi.co.jp/article/1341957?rct=aichi
+    media_url: https://static.chunichi.co.jp/image/article/size1/e/a/9/0/ea90ae06bd1de539c6cedad6eaa2d675_1.jpg
+    publisher: 中日新聞Web
+    caption: Seized MDMA tablets and dried cannabis displayed at the Nakamura Police Station in Nagoya.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: d6f1537d690ce2792298b2eebe41c7e9
@@ -61,6 +66,11 @@ sources:
     publisher: 47NEWS / 中日新聞
     date: 2026-11-19
     language: ja
+  - title: 麻薬密売グループの3人を愛知県警が再逮捕　所持や使用の疑い、薬物1億600万円相当を押収：中日新聞Web
+    url: https://www.chunichi.co.jp/article/1341957?rct=aichi
+    publisher: 中日新聞Web
+    date: 2026-11-19
+    language: ja
 open_questions:
   - No separate weight, plant count or value for the cannabis was published; the reported street value of about 100 million yen (106 million yen in the Chunichi account) covers the dried cannabis and stimulants together.
   - Chunichi described the 19 November action as a re-arrest; the earlier arrests and their charges were not described in the opened accounts.
@@ -71,7 +81,7 @@ open_questions:
 A joint investigation headquarters of the Akita and Aichi prefectural police
 arrested three members of a drug-trafficking group on 19 November 2026,
 including a 26-year-old company director from Meieki-minami in Nagoya's Nakamura
-ward, on suspicion of possessing illegal drugs for profit. [@1] Akita Asahi
+ward, on suspicion of possessing illegal drugs for profit. [@1,4] Akita Asahi
 Broadcasting reported that the three Aichi men in their twenties were suspected
 of holding cannabis and stimulants for sale inside an apartment building in
 Nagoya. [@2] The group was identified through statements by associates and
@@ -83,10 +93,9 @@ yen. [@1] The broadcaster put the combined street value of the seized drugs at
 about 100 million yen and said police had not disclosed whether the three
 admitted or denied the allegations. [@2] Chunichi, republished by 47news,
 reported the charges as possession for profit under both the Narcotics Control
-Law and the Stimulants Control Law. [@3]
+Law and the Stimulants Control Law. [@3,4]
 
 Akita police said they had previously busted seven purchasers of the group's
 drugs, for use under the same law. [@1] The broadcaster said those seven
 suspects, from inside and outside Akita prefecture, were apprehended over the
 one year to October. [@2]
-
