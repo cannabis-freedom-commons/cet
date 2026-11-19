@@ -72,16 +72,24 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-19
     language: hi
+  - title: स्कूटी से हेरोइन और चरस बरामद, नाकाबंदी देख भागने लगा; हिमाचल में भी दर्ज है मामला
+    url: https://www.bhaskar.com/local/punjab/pathankot/video/pathankot-drug-smuggler-arrested-madhopur-head-heroin-charas-seized-139732171.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-19
+    language: hi
+  - title: Pathankot Police Cracks Down on Drugs! Under Mission Nasha Mukt Punjab, Pathankot Police arrested 01 accused, recovered 225 gm of charas and 50 gm of heroin
+    url: https://x.com/PathankotPolice/status/2122997109377130578
+    publisher: Pathankot Police
+    date: 2026-11-18
 open_questions:
-  - No separate calendar date is given for the arrest; 19 November 2026 is the publication date, and the arrest was reported the same day.
-  - Police said they would present the accused in court and seek police remand, but no court appearance or remand decision was reported.
-  - The outcome of the earlier NDPS case at Nurpur police station in Himachal Pradesh was not reported.
-  - The substance was described as charas by the police; no laboratory confirmation was reported.
-  - Both the submitted video page and the linked text article are from Dainik Bhaskar, so no independent account of the arrest was found.
+    - No separate calendar date is given for the arrest; 19 November 2026 is the publication date, and the arrest was reported the same day.
+    - Police said they would present the accused in court and seek police remand, but no court appearance or remand decision was reported.
+    - The outcome of the earlier NDPS case at Nurpur police station in Himachal Pradesh was not reported.
+    - The substance was described as charas by the police; no laboratory confirmation was reported.
 ---
 
 Police in Pathankot arrested a scooter-riding drug smuggler and recovered heroin
-and charas from him, with a case also registered in Himachal Pradesh. [@1] The
+and charas from him, with a case also registered in Himachal Pradesh. [@1,3] The
 accused was identified as Vinod Kumar alias Latu of Anandpur in Pathankot, who
 already faced an NDPS case at Nurpur police station in Himachal Pradesh. [@2]
 DSP Rajesh Kakkar said ASI Naresh Kumar and Sujanpur station house officer Arun
@@ -90,10 +98,9 @@ checking vehicles at the canal head, a young man on a black Activa scooter tried
 to turn back and flee; the team surrounded and caught him. [@2]
 
 Police said they seized 225 grams of charas from the accused during the search.
-[@2] The same search yielded 50 grams of heroin, a mobile phone and 1,500 rupees
-in cash. [@2] Officers also took the Activa scooter into possession. [@2]
+[@2,4] The same search yielded 50 grams of heroin, a mobile phone and 1,500 rupees
+in cash. [@2,4] Officers also took the Activa scooter into possession. [@2]
 
 A case under the NDPS Act was registered at Sujanpur police station. [@2] Police
 said they would present him in court and seek remand to trace where the drugs
 came from and who they were to be supplied to. [@2]
-
