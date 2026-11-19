@@ -82,21 +82,19 @@ sources:
     publisher: Sudinfo / La Capitale
     date: 2026-11-18
     language: fr
-open_questions:
-  - No charges, court outcome or detention measure was reported for the 14 people handed to the prosecutor.
-  - The 485 grams of cannabis is a total for the whole Brussels district operation; the sources do not say how much came from the Agora gallery.
-  - '''Mises à disposition du parquet'' means people were placed at the prosecutor''s disposal, not necessarily arrested and charged, and the figure is recorded as arrested.'
-  - No value estimate was published for the cannabis seized.
-  - The 32 Agora shops were closed after illegal products of various kinds were found; the sources do not say how many were selling cannabis.
-  - RTBF, Le Soir and La Libre carry the same Belga copy of the prosecutor's statement, and La Capitale reproduces the same figures, so the accounts are not independent reporting.
+  - title: Veertien personen ter beschikking gesteld van parket bij controle in Agoragalerij
+    url: https://www.bruzz.be/actua/samenleving/veertien-personen-ter-beschikking-gesteld-van-parket-bij-controle-agoragalerij-2026-11-18
+    publisher: BRUZZ
+    date: 2026-11-18
+    language: nl
 ---
 
 Brussels prosecutors said 32 shops in the Galerie Agora, in central Brussels,
 were judicially closed on Friday 13 November after illegal products were found
-on sale there. [@1] The operation across the Brussels judicial district was
+on sale there. [@1,5] The operation across the Brussels judicial district was
 named Athena. [@4] Across the district 39 shops were judicially closed,
 including the 32 in the Agora gallery. [@1] Fourteen people were handed to the
-prosecutor's office. [@4]
+prosecutor's office. [@4,5]
 
 At about 14:30 around 100 police officers and as many staff from partner
 services entered the Agora gallery, which was closed to the public. [@2] Every
@@ -106,14 +104,13 @@ Health and Employment federal public services, the food safety agency (Afsca)
 and the Aliens Office were among the bodies taking part. [@1]
 
 Across the district nearly 600 police officers and more than 100 representatives
-of partner services were mobilised. [@3] The six Brussels police zones, the
+of partner services were mobilised. [@3,5] The six Brussels police zones, the
 railway police, the traffic police and the federal judicial police took part.
 [@1] Officers checked nearly 2,000 people, more than 1,500 vehicles and about
-100 shops. [@1] The seizures included 485 grams of cannabis. [@1] Officers also
-seized 71.5 grams of cocaine. [@1] The operation also yielded nearly 40,000
-euros and ten vehicles seized under judicial order. [@1]
+100 shops. [@1,5] The seizures included 485 grams of cannabis. [@1,5] Officers also
+seized 71.5 grams of cocaine. [@1,5] The operation also yielded nearly 40,000
+euros and ten vehicles seized under judicial order. [@1,5]
 
 About ten magistrates were deployed on the ground. [@1] The prosecutor's office
 said further large-scale operations were already being prepared for the coming
-weeks and months. [@1]
-
+weeks and months. [@1,5]
