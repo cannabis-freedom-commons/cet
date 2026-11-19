@@ -88,19 +88,24 @@ sources:
     publisher: Diario de Noticias de Navarra
     date: 2026-11-19
     language: es
+  - title: Detenido un hombre de 35 años por cultivar 121 plantas de marihuana en una vivienda de Lacunza/Lakuntza
+    url: https://pamplonatelevision.es/pamplona-television/detenido-un-hombre-de-35-anos-por-cultivar-121-plantas-de-marihuana-en-una-vivienda-de-lacunza-lakuntza/
+    publisher: Pamplona Televisión
+    date: 2026-11-19
+    language: es
 ---
 
 Foral Police officers from the Alsasua prevention unit, supported by the
 Pamplona intervention group (GOI), detained a 35-year-old man this Wednesday as
 the alleged perpetrator of a crime against public health after dismantling an
-indoor marijuana plantation in a dwelling in Lakuntza. [@2,5,6] The detainee was
+indoor marijuana plantation in a dwelling in Lakuntza. [@2,5,6,7] The detainee was
 taken to the Foral Police central station in Pamplona for the preparation of
-proceedings and was subsequently placed at the disposal of the courts. [@1,5,6]
+proceedings and was subsequently placed at the disposal of the courts. [@1,5,6,7]
 
 The intervention took place on Wednesday 18 November. [@4] During the authorised
 intervention and search officers detained the flat's occupant and seized a total
 of 121 marijuana plants, two high-power extraction motors, special lamps,
-ventilators, sacks of fertiliser and numerous pots. [@1,5,6] Neighbours' complaints
+ventilators, sacks of fertiliser and numerous pots. [@1,5,6,7] Neighbours' complaints
 described a constant coming and going of people on brief visits, tool-handling
 noises and the habitual transport of large bags, both on foot and through the
 communal garage. [@3,6] The activity also generated intense marijuana and chemical
