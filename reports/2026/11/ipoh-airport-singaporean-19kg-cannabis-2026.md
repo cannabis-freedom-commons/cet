@@ -226,6 +226,11 @@ sources:
     publisher: Sinar Harian
     date: 2026-11-19
     language: ms
+  - title: Singaporean charged with trafficking over 19kg of cannabis [WATCH]
+    url: https://www.nst.com.my/news/nation/2026/11/1581119/singaporean-charged-trafficking-over-19kg-cannabis-watch
+    publisher: New Straits Times
+    date: 2026-11-19
+    language: en
 open_questions:
     - The sources disagree on the value of the cannabis, from about RM1.5 million to RM1.52 million; the report uses the RM1.52 million figure and the Straits Times' S$473,000 conversion.
     - 'The sources disagree on the man''s lodging in Kajang: some say he stayed at a hotel there, others that he collected the drugs from a supplier; they agree he picked up the load in Kajang on 7 November.'
@@ -290,6 +295,11 @@ media:
     media_url: https://www.freemalaysiatoday.com/cdn-cgi/image/width=1080,quality=80,format=auto,fit=scale-down,metadata=none,sharpen=1,dpr=1,onerror=redirect/https://media.freemalaysiatoday.com/v3/2026/11/9accfdf3-57fb-4469-86d9-9fb5e696994d-chen-long-bernama-191126.jpg
     publisher: Free Malaysia Today
     caption: 'Singaporean Chen Long, charged with trafficking an estimated 19.04kg of cannabis at Sultan Azlan Shah Airport, in the Bernama photograph published with the report of his charge. Photo: Bernama'
+  - kind: video
+    url: https://www.nst.com.my/news/nation/2026/11/1581119/singaporean-charged-trafficking-over-19kg-cannabis-watch
+    media_url: https://www.youtube.com/watch?v=XiUV-vypYnI
+    publisher: New Straits Times
+    caption: NST video of the charge hearing, embedded at the top of the report and captioned 'Singaporean charged with trafficking over 19kg of cannabis' (0:49).
 ---
 
 Perak police arrested a 29-year-old unemployed Singaporean man at Sultan Azlan
@@ -312,7 +322,7 @@ Perak police chief Comm Datuk Mohd Alwi Zainal Abidin said syndicates
 increasingly use less busy airports such as Ipoh, which has one daily flight to
 Singapore, to traffic drugs abroad. [@2,3,5,10,11,16,18,19,27,32] The man was remanded for seven days
 from 9 November under Section 39B of the Dangerous Drugs Act 1952, which carries
-a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14,16,17,18,20,22,28,31] Deputy public prosecutor Ainin Sofiya Azlaini prosecuted, while counsel Sivahnanthan Ragava represented the accused. [@33,34,35,37,38,39,40] No bail was offered. [@33,34,37,38,39,40] The court fixed 26 February 2027 for mention of the chemistry report. [@33,34,36,37,38,39,40] Chen was accused of trafficking an estimated 19,040 grammes of cannabis under Section 39B(1)(a) of the Dangerous Drugs Act 1952. [@33,34,37,38,39,40] The charge was read in Mandarin before magistrate Norizan Riduan. [@33,34,37,38,40] The court recorded no plea because the case falls under the jurisdiction of the High Court. [@34,35,40] The accused was named as Chen Long and allegedly committed the offence at 6.20am at Baggage Machine A at the airport's check-in counter. [@33,34,35,37,38,39,40] A Singaporean man was charged at the Ipoh magistrate's court with trafficking 19.04kg of cannabis. [@33,34,35,37,38,39,40]
+a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14,16,17,18,20,22,28,31] Deputy public prosecutor Ainin Sofiya Azlaini prosecuted, while counsel Sivahnanthan Ragava represented the accused. [@33,34,35,37,38,39,40,41] No bail was offered. [@33,34,37,38,39,40,41] The court fixed 26 February 2027 for mention of the chemistry report. [@33,34,36,37,38,39,40,41] Chen was accused of trafficking an estimated 19,040 grammes of cannabis under Section 39B(1)(a) of the Dangerous Drugs Act 1952. [@33,34,37,38,39,40,41] The charge was read in Mandarin before magistrate Norizan Riduan. [@33,34,37,38,40,41] The court recorded no plea because the case falls under the jurisdiction of the High Court. [@34,35,40] The accused was named as Chen Long and allegedly committed the offence at 6.20am at Baggage Machine A at the airport's check-in counter. [@33,34,35,37,38,39,40,41] A Singaporean man was charged at the Ipoh magistrate's court with trafficking 19.04kg of cannabis. [@33,34,35,37,38,39,40,41]
 
 The man arrived in Ipoh on 7 November after picking up the load in Kajang and travelling by e-hailing car. [@3,5]
 
