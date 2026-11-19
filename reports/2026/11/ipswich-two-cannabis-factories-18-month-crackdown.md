@@ -47,6 +47,10 @@ sources:
     url: https://www.ipswichstar.co.uk/news/26738343.ipswich-brothels-cannabis-factories-shut-crackdown/
     publisher: Ipswich Star
     date: 2026-11-19
+  - title: Ipswich brothels and cannabis factories shut in crackdown
+    url: https://www.eadt.co.uk/news/26738343.ipswich-brothels-cannabis-factories-shut-crackdown/
+    publisher: East Anglian Daily Times
+    date: 2026-11-19
 open_questions:
   - No figure for the number of cannabis plants, weight, or area was published for the two factories.
   - No separate date was given for the factory closures; 19 November 2026 is the publication date and stands in for the incident date covering the 18-month initiative.
@@ -58,12 +62,12 @@ open_questions:
 
 Suffolk Constabulary arrested 257 people during the first 18 months of its
 Clear, Hold, Build initiative focused on parts of the Gipping and Westgate wards
-in Ipswich. [@1] Of those arrested, 43 were charged and 60 convictions were
-secured. [@1] Criminals targeted in the crackdown have been handed prison
-sentences totalling more than 100 years. [@1]
+in Ipswich. [@1,2] Of those arrested, 43 were charged and 60 convictions were
+secured. [@1,2] Criminals targeted in the crackdown have been handed prison
+sentences totalling more than 100 years. [@1,2]
 
 Officers found and closed two large cannabis factories, with the offenders
-subsequently charged. [@1] Officers seized 121 weapons, including knives,
+subsequently charged. [@1,2] Officers seized 121 weapons, including knives,
 crossbows and two imitation firearms, as well as 116 vehicles. [@1] Officers
 made a further 147 drug seizures and recovered £66,500 under the Proceeds of
 Crime Act, often referred to as POCA. [@1] Four brothels were shut, with
@@ -78,4 +82,3 @@ phase, with councils and other partners working to establish a sustainable,
 intelligence-led focus for the area. [@1] Earlier versions of the initiative
 were introduced in Felixstowe and Newmarket, where responsibility has now
 transferred to local Community Safety Partnerships. [@1]
-
