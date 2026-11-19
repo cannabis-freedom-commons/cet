@@ -87,16 +87,21 @@ sources:
     publisher: كويت نيوز (Q8News)
     date: 2026-11-16
     language: ar
+  - title: 61 مخالفاً ومطلوباً في قبضة «الداخلية»
+    url: https://www.alqabas.com/article/5972403-61-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A7-%D9%88%D9%85%D8%B7%D9%84%D9%88%D8%A8%D8%A7-%D9%81%D9%8A-%D9%82%D8%A8%D8%B6%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9/
+    publisher: جريدة القبس
+    date: 2026-11-16
+    language: ar
 ---
 
 Kuwait's Interior Ministry, through its Criminal Security Sector, seized 15
 people in 12 separate cases involving possession of narcotics and psychotropic
-substances for trafficking and use. [@1,2,3,4,5,6,7,8] The ministry said the people and
-seizures were referred to the competent authority for action. [@1,2,3,5,6,7,8]
+substances for trafficking and use. [@1,2,3,4,5,6,7,8,9] The ministry said the people and
+seizures were referred to the competent authority for action. [@1,2,3,5,6,7,8,9]
 
 The cannabis in the haul totalled 1.235 kilograms, comprising 1 kilogram of
-marijuana and 235 grams of hashish. [@1,2,3,4,5,6,7,8] Officers also seized 16 ampoules
-containing cannabis material, with no weight stated. [@1,2,5,7,8] The other seizures in
+marijuana and 235 grams of hashish. [@1,2,3,4,5,6,7,8,9] Officers also seized 16 ampoules
+containing cannabis material, with no weight stated. [@1,2,5,7,8,9] The other seizures in
 the haul included 1.011 kilograms of shabu, crystal methamphetamine, 123 sheets
 soaked in chemical material and 10 hair-oil bottles containing chemical
 material. [@1,4,8] The haul further included four Lyrica capsules, one gram of
@@ -105,6 +110,6 @@ heroin, one gram of cocaine and nine precision scales. [@1,8]
 In one case, coordinated with the General Administration of Customs, officers
 seized an Asian national after he received a shipment of hair-oil bottles
 containing chemical material, which he admitted bringing for trafficking in
-coordination with a person abroad. [@1,4,5,7] The suspect seized after receiving the hair-oil shipment was of Bangladeshi nationality. [@3,5,8] The Ahmadi governorate security
+coordination with a person abroad. [@1,4,5,7,9] The suspect seized after receiving the hair-oil shipment was of Bangladeshi nationality. [@3,5,8] The Ahmadi governorate security
 directorate also referred an Asian national seized in Mangaf with heroin, shabu
 and a sum of money. [@1,4,5,7] The suspect referred by the Ahmadi directorate after seizure in Mangaf was of Indian nationality. [@3,4,8]
