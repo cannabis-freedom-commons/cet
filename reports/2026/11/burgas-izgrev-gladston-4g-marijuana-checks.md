@@ -59,15 +59,20 @@ sources:
     publisher: Бургас Онлайн
     date: 2026-11-19
     language: bg
+  - title: 'ДВАМА С МАРИХУАНА В БУРГАС: 17-ГОДИШЕН Е СГАЩЕН В "ИЗГРЕВ", А 34-ГОДИШЕН ПРЪЧ ИЗХВЪРЛИ ДРОГАТА ПРЕД ПОЛИЦАИ - Днес България'
+    url: https://dnesbulgaria.com/%D0%B4%D0%B2%D0%B0%D0%BC%D0%B0-%D1%81-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%B2-%D0%B1%D1%83%D1%80%D0%B3%D0%B0%D1%81-17-%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD-%D0%B5-%D1%81/
+    publisher: Днес България
+    date: 2026-11-19
+    language: bg
 ---
 
 Police in Burgas carried out two separate checks on 18 November 2026, stopping a
-17-year-old youth and a 34-year-old man. [@1,4] The youth was checked near Block
+17-year-old youth and a 34-year-old man. [@1,4,6] The youth was checked near Block
 61 in the Izgrev housing complex, where officers found three joints with a total
-weight of about 2 grams. [@1,4] The youth was checked at about 14:00. [@4] During the second check on Gladston Street, the
+weight of about 2 grams. [@1,4,6] The youth was checked at about 14:00. [@4] During the second check on Gladston Street, the
 older man tried to discard the drug by throwing a bag of dry green plant matter
-to the ground when he saw the officers. [@3,4] He was detained for up to 24 hours
-and fast-track proceedings were opened against him. [@3]
+to the ground when he saw the officers. [@3,4,6] He was detained for up to 24 hours
+and fast-track proceedings were opened against him. [@3,6]
 
 The discarded bag was found to contain about 2 grams of marijuana. [@3,5] In
 total, police found and seized about 4 grams of marijuana across the two checks.
