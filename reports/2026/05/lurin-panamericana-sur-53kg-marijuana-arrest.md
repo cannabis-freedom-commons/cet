@@ -33,6 +33,16 @@ media:
     media_url: https://imgmedia.larepublica.pe/1000x590/larepublica/original/2026/05/01/69f4f8d5f8fee48252091479.webp
     publisher: La República
     caption: 'Image captioned as the detained men transporting 50 kilos of drug hidden in raffia sacks; La República labels it a composition. Image: Composición La República'
+  - kind: photo
+    url: https://www.infobae.com/peru/2026/05/03/fap-se-pronuncia-tras-arresto-de-suboficial-con-mas-de-50-kilos-de-droga-inicia-investigacion-y-promete-transparencia/
+    media_url: https://www.infobae.com/resizer/v2/HWG4M32OPJDIHMVZPYE4UAJJZU.jpg?auth=0f22286a2542df23e2b36e65434262b156e0e52fcea50f27df6946ec4c8c3071&smart=true&width=992&height=661&quality=85
+    publisher: Infobae
+    caption: Police with three detained men behind a table holding two large drug bundles and seized phones, PNP banner behind, at the Lurin seizure presentation.
+  - kind: photo
+    url: https://www.infobae.com/peru/2026/05/03/fap-se-pronuncia-tras-arresto-de-suboficial-con-mas-de-50-kilos-de-droga-inicia-investigacion-y-promete-transparencia/
+    media_url: https://www.infobae.com/resizer/v2/YC4VJGCFQBFM7DB6KLFNSWNVVI.jpg?auth=fee99a5bb6a22a5b869a9970e79f7ecd632529d00abf9be6559ec2938ed20afa&smart=true&width=350&height=233&quality=85
+    publisher: Infobae
+    caption: Seized drug bundles from the Lurin operation that netted over 53 kilos, in the Mininter handout photo.
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 30360a9f7d91aa98ea003983c8252734
@@ -43,30 +53,32 @@ sources:
     publisher: La República
     date: 2026-05-01
     language: es
-open_questions:
-  - The article gives no separate date for the operation; 1 May 2026 is its publication date and is used as the incident date.
-  - Only one source could be opened; no police or prosecution statement and no second outlet reporting the same intervention was found.
-  - The headline puts the load at more than 50 kilos while the text says around 53 kilograms, an approximate figure rather than a laboratory weight.
-  - The headline calls one detainee a former Air Force member while the text describes Efraín Conde Quispe as a serving second-class non-commissioned officer; the report follows the text.
-  - No charges, custody ruling or court outcome were reported, and the case was still with the Public Ministry.
-  - The page's only picture is caption-coded as a La República composition of the seized load, so it is linked as media with that caveat rather than treated as a documentary photograph.
+  - title: 'FAP se pronuncia tras arresto de suboficial con más de 50 kilos de droga: inicia investigación y promete transparencia - Infobae'
+    url: https://www.infobae.com/peru/2026/05/03/fap-se-pronuncia-tras-arresto-de-suboficial-con-mas-de-50-kilos-de-droga-inicia-investigacion-y-promete-transparencia/
+    publisher: Infobae
+    date: 2026-05-03
+    language: es
+  - title: PNP detuvo a un suboficial de la FAP y a un licenciado del Ejército con 53 kilos de droga en la Panamericana Sur
+    url: https://rpp.pe/lima/actualidad/pnp-detuvo-a-un-suboficial-de-la-fap-y-un-licenciado-del-ejercito-con-53-kilos-de-droga-en-la-panamericana-sur-noticia-1686499
+    publisher: RPP
+    date: 2026-04-30
+    language: es
 ---
 
 Officers of the Lurín police station broke up a group they called 'Los
 Traqueteros del Sur', suspected of offences against public health in the form of
 illicit drug trafficking. [@1] They detained Rolando Aquise Olarte, 41, Walter
-Arturo Acosta Vásquez, 32, and Efraín Conde Quispe, 29. [@1] Acosta Vásquez is
+Arturo Acosta Vásquez, 32, and Efraín Conde Quispe, 29. [@1] Conde Quispe said he had only been hired to do an app-based taxi service. [@3] Acosta Vásquez is
 described as a discharged member of the Army and Conde Quispe as a second-class
-non-commissioned officer of the Peruvian Air Force. [@1] The intervention took
+non-commissioned officer of the Peruvian Air Force. [@1,2] The intervention took
 place at kilometre 31 of the Panamericana Sur, south to north, near the Yanbal
-factory, during identity checks and crime-prevention work on that road. [@1]
+factory, during identity checks and crime-prevention work on that road. [@1,3]
 
 Officers saw two vehicles apparently transferring bundles in raffia sacks that
 gave off a strong smell of cannabis sativa (marijuana). [@1] A search of the
 vehicles found two raffia sacks holding about 53 kilograms of cannabis sativa.
-[@1] Officers seized four mobile phones as evidence. [@1] Police impounded a
+[@1,2] Authorities said the drug had left the Ayacucho region and was bound for Lima. [@2] Police valued the 53 kilograms at 70,000 soles, about 18,500 dollars. [@2] Officers seized four mobile phones as evidence. [@1] Police impounded a
 trailer and a car that they said had been used to carry the drug. [@1]
 
 The three detainees, the drug and the two vehicles were taken to the competent
-police station, where legal proceedings continue under the Public Ministry. [@1]
-
+police station, where legal proceedings continue under the Public Ministry. [@1] The three remained in police custody in preliminary proceedings while the PNP Antidrug Directorate gathered evidence and the Public Ministry weighed trafficking charges. [@2] The Air Force said it would cooperate with the justice system, ensure transparency and protect citizens' trust in the armed forces. [@2]
