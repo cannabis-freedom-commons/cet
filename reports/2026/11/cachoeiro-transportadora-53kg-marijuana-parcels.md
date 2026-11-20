@@ -58,6 +58,11 @@ media:
     media_url: https://diaadiaes.com.br/wp-content/uploads/2026/11/apreensao-maconha-cachoeiro-1000x689.webp
     publisher: Dia a Dia ES
     caption: Police sniffer dog Kyara next to the seized marijuana tablets from the Cachoeiro freight-company seizure.
+  - kind: photo
+    url: https://www.folhavitoria.com.br/policia/maconha-por-encomenda-policia-apreende-53-kg-de-droga-em-transportadora-no-es/
+    media_url: https://uploads.folhavitoria.com.br/imagens/2026/11/Maconha-por-encomenda-Policia-apreende-53-kg-de-droga-em-transportadora-no-ES.jpg
+    publisher: Folha Vitória
+    caption: 'Sniffer dog Kyara, who helped locate the three suspect boxes with marijuana at the Cachoeiro freight company. Photo: Polícia Militar'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: e3c11ce75e945d29cf229e1568c65447
@@ -93,32 +98,31 @@ sources:
     publisher: Dia a Dia ES
     date: 2026-11-19
     language: pt
-open_questions:
-    - The freight company was not named and no one was arrested, so who sent the parcels and who was to receive them is not known.
-    - The weight is reported as approximately 53.335 kilograms, while other outlets give about 53.3 kilograms; the report uses 53.335.
-    - No charge or court outcome was reported after the Civil Police took over the investigation.
-    - No street value for the load was published.
-    - The accounts reproduce the same Military Police statement, so they are not independent reporting of the seizure.
+  - title: Maconha por encomenda? Polícia apreende 53 kg de droga em transportadora no ES
+    url: https://www.folhavitoria.com.br/policia/maconha-por-encomenda-policia-apreende-53-kg-de-droga-em-transportadora-no-es/
+    publisher: Folha Vitória
+    date: 2026-11-19
+    language: pt
 ---
 
 Teams of the Força Tática, the Military Police's tactical unit in the 9th
 Battalion, found about 53.335 kilograms of marijuana at a freight company in
 Cachoeiro de Itapemirim on Wednesday 18 November 2026. [@1,5,6] No one was arrested
-in the operation. [@3,5,6] Police had received information that people were using
+in the operation. [@3,5,6,7] Police had received information that people were using
 freight companies to send drugs from southern Brazil to Cachoeiro de Itapemirim.
 [@1,5,6]
 
 The marijuana was pressed into 67 tablets and hidden in three boxes sent through
-a transportadora, a freight and parcel company. [@1,6] The sniffer dog Kyara, of
-the battalion's K9 team, indicated the three suspect boxes. [@1,5,6] With the
+a transportadora, a freight and parcel company. [@1,6,7] The sniffer dog Kyara, of
+the battalion's K9 team, indicated the three suspect boxes. [@1,5,6,7] With the
 manager's authorisation the officers opened the parcels and found the 67
 tablets, which weighed about 53.335 kilograms. [@1,5,6] The company's name was not
 released, at the company's own request. [@1]
 
 Officers then went to the address given on the parcels to try to identify the
-recipients. [@1,6] A resident there said he did not know the material and that the
-people named as addressees were not at the property. [@1,5,6] The marijuana was
-taken to the 7th Regional Police Station in Cachoeiro de Itapemirim. [@1,5,6] The Civil Police will investigate the case to identify the senders in southern Brazil and those responsible for receiving the drug in Espírito Santo. [@5]
+recipients. [@1,6,7] A resident there said he did not know the material and that the
+people named as addressees were not at the property. [@1,5,6,7] The marijuana was
+taken to the 7th Regional Police Station in Cachoeiro de Itapemirim. [@1,5,6] The Civil Police will investigate the case to identify the senders in southern Brazil and those responsible for receiving the drug in Espírito Santo. [@5] The Civil Police said a police inquiry will be opened by the Specialized Narcotics Precinct (Denarc) of Cachoeiro de Itapemirim to try to identify who sent the drugs and who was to receive them. [@7]
 
 The 9th Battalion said the seizure was among the most significant it had made
 this year. [@1] The commander of the 9th Battalion, lieutenant-colonel Nério,
