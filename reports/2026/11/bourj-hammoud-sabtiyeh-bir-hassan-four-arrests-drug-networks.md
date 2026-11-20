@@ -74,21 +74,26 @@ sources:
     publisher: سفير الشمال
     date: 2026-11-19
     language: ar
+  - title: تفكيك 3 شبكات لترويج المخدرات في بيروت وجبل لبنان.. إطلاق نار وإصابة أحد الموقوفين
+    url: https://www.lebanonon.com/news/449627
+    publisher: Lebanon ON
+    date: 2026-11-19
+    language: ar
 ---
 
 Lebanon's Internal Security Forces Information Branch arrested four members of
 three drug-dealing networks in ambushes and raids in Bourj Hammoud, Sabtiyeh and
-Bir Hassan on 3 and 10 November 2026. [@1,3,4,5,6] The detainees included two Syrians
+Bir Hassan on 3 and 10 November 2026. [@1,3,4,5,6,7] The detainees included two Syrians
 born in 2005 and 2008 and two Lebanese born in 1994 who had criminal records and
 outstanding drug warrants. [@1,3,5,6] During the arrests two of the men drew military
 pistols and fired at the patrol, which returned fire, wounding one man in the
-shoulder before he was taken to hospital. [@1,3,4,5,6]
+shoulder before he was taken to hospital. [@1,3,4,5,6,7]
 
 Officers searched the detainees, a Kia car, an unlicensed motorcycle and the
 house of one detainee in Bourj Hammoud. [@1] The searches found drugs packed in
 bags, boxes and plastic capsules, including cocaine, baz, hashish, marijuana,
 crystal meth and pills, plus three military pistols, rolling papers, empty bags
-and envelopes, mobile phones and cash. [@1,3,4,6] Police said the seized car and
+and envelopes, mobile phones and cash. [@1,3,4,6,7] Police said the seized car and
 motorcycle had been used in the dealing. [@2]
 
 The four men confessed to the accusations during questioning. [@1,3,5,6] They were
