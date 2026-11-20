@@ -46,6 +46,11 @@ media:
     media_url: https://img.europapress.es/fotoweb/fotonoticia_20261119131319_690.jpg
     publisher: Europa Press
     caption: 'Part of the seized material from the Valle de Tobalina greenhouse. Photo: Guardia Civil via Europa Press'
+  - kind: photo
+    url: https://www.elcorreo.com/miranda/agentes-miranda-ayudan-localizar-plantacion-marihuana-kilos-20261119143104-nt.html
+    media_url: https://s2.ppllstatics.com/elcorreo/www/multimedia/local/2026/11/19/Imagen2.jpg
+    publisher: El Correo
+    caption: 'The 17 cannabis plants from the Valle de Tobalina greenhouse, which weighed 40 kilograms green. Photo: E. C. / El Correo'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ab6ac5e906b036a0555d037fdb6137a4
@@ -86,24 +91,29 @@ sources:
     publisher: Radio Espinosa Merindades
     date: 2026-11-19
     language: es
+  - title: Agentes de Miranda ayudan a localizar una plantación de marihuana con 2 kilos de cogollos y 17 plantas
+    url: https://www.elcorreo.com/miranda/agentes-miranda-ayudan-localizar-plantacion-marihuana-kilos-20261119143104-nt.html
+    publisher: El Correo
+    date: 2026-11-19
+    language: es
 ---
 
 The Guardia Civil located a marijuana plantation inside a greenhouse in a
-locality in Valle de Tobalina, in the north of Burgos province. [@3,5] The action
+locality in Valle de Tobalina, in the north of Burgos province. [@3,5,8] The action
 was carried out under Operation Delgadilla, opened after officers of the Miranda
-de Ebro company learned of a possible unlawful crop in the area. [@2,5,7] After
+de Ebro company learned of a possible unlawful crop in the area. [@2,5,7,8] After
 identifying a dwelling with signs of the activity, officers searched it with the
-owner's authorisation and in his presence. [@1,4,7] A 34-year-old person was placed
+owner's authorisation and in his presence. [@1,4,7,8] A 34-year-old person was placed
 at judicial disposition as the alleged author of a public-health
-drug-trafficking offence in the form of cultivation. [@1,4,6] The investigated
+drug-trafficking offence in the form of cultivation. [@1,4,6,8] The investigated
 person, with the case papers, was placed at the disposition of the Villarcayo
-courts. [@1,4,7]
+courts. [@1,4,7,8]
 
 Inside the property officers found a 40-square-metre greenhouse with the 17
 plants rooted directly in the soil, staked and tended and in an advanced
 flowering state close to harvest. [@1,4,7] The seized plants were identified as Cannabis sativa. [@4] The operation ended with the seizure of
 the 17 cannabis plants, weighing 40 kilograms green, plus another 2 kilograms of
-already dry buds. [@1,5,7] During a more thorough inspection of the dwelling
+already dry buds. [@1,5,7,8] During a more thorough inspection of the dwelling
 officers also found the two kilograms of already dry marijuana buds, which were
-also seized. [@2,4] The seized material was handed over to the Health Area of the
-Government Subdelegation in Burgos. [@1,4]
+also seized. [@2,4,8] The seized material was handed over to the Health Area of the
+Government Subdelegation in Burgos. [@1,4,8]
