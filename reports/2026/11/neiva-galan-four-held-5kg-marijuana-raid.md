@@ -62,18 +62,17 @@ sources:
     publisher: Diario del Sur
     date: 2026-11-19
     language: es
-open_questions:
-  - No separate date for the raid was published; 17 November 2026, the publication date of the mayor's office and Caracol accounts, stands in for the incident date, while HSB republished the same details on 19 November.
-  - The marijuana amount is stated as approximately five kilos, not an exact measured weight, and no laboratory confirmation was reported.
-  - No weight was published for the 250 marijuana cigarettes, so they are not counted separately; the 20 grams of tusi and 20 grams of cocaine hydrochloride are excluded from the cannabis total.
-  - No amount was published for the cash seized as alleged proceeds.
-  - The accounts relay police, mayor's office and prosecution statements, with no independent witness account published.
+  - title: NARCOBODEGA CAÍDA INCAUTARON MARIHUANA, COCAÍNA, TUSI, SEIS CELULARES Y DINERO
+    url: http://diariodelcauca.com.co/noticias/narcobodega-caida-incautaron-marihuana-cocaina-tusi-seis-celulares-y-dinero
+    publisher: Diario del Cauca
+    date: 2026-11-19
+    language: es
 ---
 
 Police, the Technical Investigation Corps and the Army raided a house in barrio
 Galán in Neiva that investigators said was used to store, portion and sell
-drugs. [@1,4] The operation was part of the Plan Cazador strategy. [@2] Officers
-arrested three men aged 19, 32 and 56 and a 55-year-old woman in flagrante. [@1,4]
+drugs. [@1,4,5] The operation was part of the Plan Cazador strategy. [@2] Officers
+arrested three men aged 19, 32 and 56 and a 55-year-old woman in flagrante. [@1,4,5]
 Prosecutors later identified the four as María Ligia Lizcano Argote, José
 Alejandro Perdomo Casagua, Kevin Steven Rodríguez Sánchez and Daniel Fernando
 Bernal Silva. [@3] A prosecutor charged the four with trafficking, manufacture
@@ -81,9 +80,9 @@ or possession of narcotics. [@3] None accepted the charges and a judge ordered
 them held in prison pending trial. [@3]
 
 Officers seized about five kilograms of marijuana, including 250 dosed
-cigarettes allegedly prepared for distribution. [@1,4] They also seized 20 grams
+cigarettes allegedly prepared for distribution. [@1,4,5] They also seized 20 grams
 of tusi, 20 grams of cocaine hydrochloride, six mobile phones and cash that
-authorities said was allegedly proceeds from drug sales. [@1,4] Those detained and
+authorities said was allegedly proceeds from drug sales. [@1,4,5] Those detained and
 the seized items were placed at the disposal of the judicial authority for
 prosecution. [@1,4]
 
