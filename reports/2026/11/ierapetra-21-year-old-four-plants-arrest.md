@@ -50,6 +50,11 @@ sources:
     publisher: Φωνή Μαλεβιζίου
     date: 2026-11-19
     language: el
+  - title: 'Ιεράπετρα: Συνελήφθη 21χρονος για κατοχή ναρκωτικών – Εντοπίστηκαν τέσσερα φυτά κάνναβης'
+    url: https://www.neakriti.gr/kriti/lasithi/2212245_ierapetra-synelifthi-21hronos-gia-katohi-narkotikon-entopistikan-tessera-fyta
+    publisher: Neakriti
+    date: 2026-11-19
+    language: el
 open_questions:
   - The exact location within the Municipality of Ierapetra was not reported.
   - The plants were described only as cannabis plants, with no laboratory confirmation or weight reported.
@@ -59,19 +64,18 @@ open_questions:
 
 On Wednesday 18 November 2026, officers of the Ierapetra Crime Prosecution and
 Investigation Department arrested a 21-year-old man in an area of Ierapetra
-municipality for violations of drugs legislation. [@1] Police described the
+municipality for violations of drugs legislation. [@1,3] Police described the
 detained person as a 21-year-old Greek national accused of violations of
 narcotics-substances legislation. [@1]
 
 In the morning hours of the same day, officers of the same Ierapetra department
 carried out a search at the man's house in the municipal area. [@1] During that
-house search, officers found four cannabis plants and seized them. [@1] In the
+house search, officers found four cannabis plants and seized them. [@1,3] In the
 same search, officers also found and seized a precision scale kept at the house.
-[@2]
+[@2,3]
 
 The acting unit was the Ierapetra Crime Prosecution and Investigation
 Department, the local crime investigation service in Ierapetra. [@1] That same
 Ierapetra department has taken over the preliminary investigation into the drug
-case. [@2] The items police listed as found and seized at the residence were the
+case. [@2,3] The items police listed as found and seized at the residence were the
 four cannabis plants and the precision scale. [@1]
-
