@@ -65,34 +65,32 @@ sources:
     publisher: NOSTÁLGICA cl
     date: 2026-11-19
     language: es
-open_questions:
-  - No separate date is given for the road checks, the arrests or the detention hearing, so 19 November 2026, the publication date, stands in for the incident date.
-  - The 5.3 grams of cocaine hydrochloride from the same procedure are excluded from the cannabis figures.
-  - The police account reports 140 packages detected while the prosecutor is quoted as referring to 133 packages seized; the report keeps the 140-package check figure and the weighed 140.343 kg total.
-  - No names or ages beyond Colombian nationality were published, and no plea or trial outcome beyond preventive detention was reported.
-  - The 290,686-dose count and the 1,503,430,000-peso valuation are Carabineros estimates, not independently verified values.
+  - title: Carabineros detuvo a tres personas e incautó más de 140 kilos de marihuana avaluados en $1.503 millones
+    url: https://www.radioatacama.cl/regional/carabineros-detuvo-personas-incauto-140-kilos-marihuana-avaluados-1503-millones
+    publisher: Radioatacama.cl
+    date: 2026-11-19
+    language: es
 ---
 
 Carabineros detained three Colombian adults in Chañaral for drug trafficking and
 a Chañaral court placed all three in preventive detention. [@3] One detainee had
 an outstanding arrest warrant from the Antofagasta Guarantee Court for lesiones,
-while the other two had irregular migratory status in the country. [@2] The
+while the other two had irregular migratory status in the country. [@2,4] The
 Chañaral Guarantee Court granted preventive detention after finding their
 liberty a danger to public safety. [@3] The court set an 85-day investigation
 period during which the three will remain deprived of liberty. [@3]
 
 The case began with checks by the SIP of the 1st Chañaral police station on two
 vehicles, one at a service station and the other on Route 5 Norte, where
-officers found 140 packages containing marijuana. [@2] On the prosecution's
+officers found 140 packages containing marijuana. [@2,4] On the prosecution's
 instructions, Atacama OS7 specialists analysed mobile phones with UFED
 technology, reviewed security cameras and took statements to link the three to
 the transport. [@2] Officers seized 140 kilos 343 grams of marijuana and 5 grams
-300 milligrams of cocaine hydrochloride. [@2] Police counted the substances as
+300 milligrams of cocaine hydrochloride. [@2,4] Police counted the substances as
 290,686 doses with an appraised value of 1,503,430,000 pesos. [@1] Officers also
-seized five mobile phones and $107,000 in cash. [@1]
+seized five mobile phones and $107,000 in cash. [@1,4]
 
 Chañaral prosecutor Nicolás Meléndez Chacón said the three moved the drugs in a
 coordinated way in two vehicles and will be investigated for illicit drug
 trafficking as a criminal group. [@3] The prosecution brought the three before
 the Chañaral Guarantee Court, where it communicated charges against them. [@2]
-
