@@ -49,14 +49,14 @@ sources:
     archived: https://web.archive.org/web/20260711145153/https://www.royalgazette.com/court/news/article/20260604/american-admits-smuggling-cannabis/
     publisher: The Royal Gazette
     date: 2026-06-04
-open_questions:
-  - The Royal Gazette does not say how the cannabis was carried or whether anyone else was charged.
-  - In June he denied importing oxycodone and possessing it with intent to supply. By the sentence the Crown had dropped the importation count and he was sentenced for possessing the opioid.
-  - The street value of 133,620 dollars is the Crown's figure if the cannabis were sold by the gram. The currency is not named in the report.
-  - Both Royal Gazette stories use the same preview image, which is not a photograph of this case, so it is not listed.
+  - title: US national charged with drug trafficking and possession
+    url: https://www.royalgazette.com/court/news/article/20260421/us-national-charged-with-drug-trafficking-and-possession/
+    publisher: The Royal Gazette
+    date: 2026-04-21
+    language: en
 ---
 
-Magistrate Craig Attridge jailed Silamon Safi for two years on 7 October 2026 for importing cannabis into Bermuda and for having it with intent to supply. [@1] The Royal Gazette reported the next morning that Safi, 26, of California, had admitted the offences and that the cannabis weighed 1,336.2 grams, which the Crown valued at 133,620 dollars on the island if sold by the gram. [@1] The offences were committed on 18 April in St George's. [@1,2]
+Magistrate Craig Attridge jailed Silamon Safi for two years on 7 October 2026 for importing cannabis into Bermuda and for having it with intent to supply. [@1] The Royal Gazette reported the next morning that Safi, 26, of California, had admitted the offences and that the cannabis weighed 1,336.2 grams, which the Crown valued at 133,620 dollars on the island if sold by the gram. [@1] The offences were committed on 18 April in St George's. [@1,2] Senior magistrate Maxanne Anderson referred the case to the Supreme Court's June arraignments session and remanded him in custody. [@3] He was not required to enter a plea because the matter must be heard in the Supreme Court. [@3] Silamon Safi, 25, was charged with the importation of cannabis, possession of cannabis with intent to supply, the importation of oxycodone and possession of oxycodone with intent to supply. [@3]
 
 He also received three months for possessing oxycodone, to run at the same time, and a 300 dollar fine taken from cash he had on arrival. [@1] Time in custody since April was to be counted. [@1] Prosecutors did not proceed with a charge that he had imported the oxycodone. [@1]
 
