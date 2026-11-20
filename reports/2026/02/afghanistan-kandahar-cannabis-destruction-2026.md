@@ -33,6 +33,10 @@ sources:
     publisher: Xinhua
     url: https://english.news.cn/20260218/b52e50bb2dc844babf98d1ba0334a1db/c.html
     locator: 123 arrests in Kabul; 15 kg hashish recovered; 50,000 tablets seized in Jalalabad
+  - title: Afghanistan Expands Drug Crackdown From Kandahar to Kabul
+    url: https://themedialine.org/mideast-daily-news/afghanistan-expands-drug-crackdown-from-kandahar-to-kabul/
+    publisher: The Media Line
+    date: 2026-02-18
 ---
 
-Kandahar's anti-narcotics unit destroyed 993 kilograms of cannabis as part of more than 27 tonnes of drugs burned over five months in Arghandab district. The haul also included 2,766 kg of opium, 9.7 kg of methamphetamine and 1 kg of heroin. In Kabul, police arrested 123 people over a week and seized 15 kg of hashish, while 50,000 stimulant tablets were seized in Nangarhar. [@1,2]
+Kandahar's anti-narcotics unit destroyed 993 kilograms of cannabis as part of more than 27 tonnes of drugs burned over five months in Arghandab district. The haul also included 2,766 kg of opium, 9.7 kg of methamphetamine and 1 kg of heroin. In Kabul, police arrested 123 people over a week and seized 15 kg of hashish, while 50,000 stimulant tablets were seized in Nangarhar. [@1,2,3] In Kabul the sweep also recovered more than 2,000 intoxicating tablets alongside the hashish, opium and methamphetamine. [@2] Counter-narcotics police seized the 50,000 stimulant tablets in Jalalabad after acting on a tip and detained two suspects. [@3] Kandahar's Anti-Narcotics Unit had already destroyed 47,000 kilograms of assorted drugs under the same directive. [@3] Provincial police spokesperson Mullah Assadullah Jamshid gave the Kandahar breakdown. [@3] The Kandahar destruction took place in the Tora area of Arghandab district. [@3]
