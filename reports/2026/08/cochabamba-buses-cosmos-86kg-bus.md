@@ -180,14 +180,17 @@ sources:
     publisher: Todo Noticias
     date: 2026-08-11
     language: es
-open_questions:
-  - The amount was reported as both 86 kilos and 86.5 kilos.
-  - The precise checkpoint was described only as near Cochabamba.
+  - title: 'Controversia en Bolivia: Incautaron 86 kilos de marihuana en bus que debía transportar a Sao Paulo'
+    url: https://www.cooperativa.cl/noticias/deportes/futbol/copa-sudamericana/controversia-en-bolivia-incautaron-86-kilos-de-marihuana-en-bus-que/2026-08-11/220220.html
+    publisher: Cooperativa.cl
+    date: 2026-08-11
+    language: es
+    archived: https://web.archive.org/web/20260826005145id_/https://www.cooperativa.cl/noticias/deportes/futbol/copa-sudamericana/controversia-en-bolivia-incautaron-86-kilos-de-marihuana-en-bus-que/2026-08-11/220220.html
 ---
 
 Bolivian police stopped a coach of the company Buses Cosmos, hired to carry the São Paulo FC squad
 during its visit to Bolivia for a Copa Sudamericana match against Bolívar, and found about 86 kilos of
-marijuana hidden inside it. [@1,2,5,6,7,9,10,11,12,14,15,17,18,19,20,21,22,23,24] The coach was intercepted in Villa Tunari, a coca-producing zone in the central department of Cochabamba. [@19] One account gives 86.5 kilograms. [@12,14,15,16,18,20] Officers of
+marijuana hidden inside it. [@1,2,5,6,7,9,10,11,12,14,15,17,18,19,20,21,22,23,24,25] The coach was intercepted in Villa Tunari, a coca-producing zone in the central department of Cochabamba. [@19,25] One account gives 86.5 kilograms. [@12,14,15,16,18,20] Officers of
 UMOPAR, the Mobile Police Unit for Rural Areas [@5,8,9,10], found four bags of the drug in the coach
 [@2,3,5,6,8,9,10] at the Locotal control post on the road between Cochabamba and Santa Cruz.
 [@8,9,11,13]
