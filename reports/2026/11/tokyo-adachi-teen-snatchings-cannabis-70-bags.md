@@ -68,20 +68,25 @@ sources:
     publisher: dmenuニュース（NTTドコモ）
     date: 2026-11-19
     language: ja
+  - title: 雷門の路上でひったくり、容疑の18歳男逮捕 自宅からは大麻も見つかる 警視庁｜Infoseekニュース
+    url: https://news.infoseek.co.jp/amp/article/sankein__affairs_crime_LEMPTUG6NNL3TONZAX3ROLHQHQ/
+    publisher: Infoseekニュース
+    date: 2026-11-19
+    language: ja
 ---
 
 The Metropolitan Police Department's Investigation Division 3 arrested an
 18-year-old man from Adachi Ward, Tokyo, whose occupation it did not give, on
-suspicion of snatching a bag from a woman who was walking in the street. [@1,2,3,6]
-The man has remained silent under questioning. [@1,4,6] About 70 bags of dried plant
+suspicion of snatching a bag from a woman who was walking in the street. [@1,2,3,6,7]
+The man has remained silent under questioning. [@1,4,6,7] About 70 bags of dried plant
 material believed to be cannabis were found at his home, and investigators are
 proceeding with the case on suspicion of violating the Cannabis Control Act.
-[@1,2,4,5,6]
+[@1,2,4,5,6,7]
 
 Police say he rode a moped up behind a woman in her 80s who was walking near
 Kaminarimon in Taito Ward on the evening of 3 October and took the bag she was
-carrying, which held about 200,000 yen in cash. [@1,2,6] The moped was believed to have been stolen, and security-camera investigation led to the man. [@4,5] The woman was not injured.
-[@1,6] Investigators believe he was involved in nine bag-snatchings between late
-September and mid-October, in which about 400,000 yen was taken in total. [@1,2,6] The nine linked thefts from late September to last month in Taito, Katsushika and elsewhere involved the same blue moped, which police treat as his work. [@4,5]
+carrying, which held about 200,000 yen in cash. [@1,2,6,7] The moped was believed to have been stolen, and security-camera investigation led to the man. [@4,5] The woman was not injured.
+[@1,6,7] Investigators believe he was involved in nine bag-snatchings between late
+September and mid-October, in which about 400,000 yen was taken in total. [@1,2,6,7] The nine linked thefts from late September to last month in Taito, Katsushika and elsewhere involved the same blue moped, which police treat as his work. [@4,5]
 They also believe he used credit cards stolen in the thefts to buy cigarettes
-and food. [@1,6]
+and food. [@1,6,7]
