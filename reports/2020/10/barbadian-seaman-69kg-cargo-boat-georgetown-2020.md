@@ -51,6 +51,16 @@ media:
     media_url: https://guyanatimesgy.com/wp-content/uploads/2020/10/CANU-1-1-1024x680.jpg
     publisher: Guyana Times
     caption: Parcels of marijuana discovered by CANU officers aboard the Barbados-registered vessel at the GNIC Wharf.
+  - kind: photo
+    url: https://demerarawaves.com/2020/10/08/guyanese-drug-agents-seize-marijuana-aboard-barbados-registered-vessel/
+    media_url: https://demerarawaves.com/wp-content/uploads/2020/10/barbados-ganja-cv1-768x510.jpg
+    publisher: Demerara Waves Online News- Guyana
+    caption: Marijuana seized aboard the Barbados-registered cargo boat CV1.
+  - kind: photo
+    url: https://demerarawaves.com/2020/10/08/guyanese-drug-agents-seize-marijuana-aboard-barbados-registered-vessel/
+    media_url: https://demerarawaves.com/wp-content/uploads/2020/10/barbados-cv1-300x169.jpg
+    publisher: Demerara Waves Online News- Guyana
+    caption: The Barbados-registered cargo boat CV1, aboard which the marijuana was stashed in false compartments.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 589502b7c61b4fcc959cd66c8faf89af
@@ -68,12 +78,17 @@ sources:
     url: https://guyanatimesgy.com/barbadian-fined-51-9m-jailed-for-ganja-bust
     publisher: Guyana Times
     date: 2020-10-10
+  - title: Guyanese drug agents seize marijuana aboard Barbados-registered vessel
+    url: https://demerarawaves.com/2020/10/08/guyanese-drug-agents-seize-marijuana-aboard-barbados-registered-vessel/
+    publisher: Demerara Waves Online News- Guyana
+    date: 2020-10-09
 open_questions:
-  - The submitted Demerara Waves account says Forde was sentenced to four years, while Stabroek News and Guyana Times report three years; this report uses three years.
-  - The submitted account reports the fine as GYD$51 million, while Stabroek News and Guyana Times report $51.9 million; this report uses 51.9 million Guyana dollars.
-  - The submitted account says three Barbadians and three Guyanese were arrested, while Guyana Times and Stabroek News report two Barbadians and four Guyanese; this report uses two Barbadians and four Guyanese.
-  - The accounts name different magistrates for the sentencing hearing, with Guyana Times naming Chief Magistrate Ann Mclennan and Stabroek News naming Senior Magistrate Leron Daly.
-  - The incident date is the 9 October 2020 sentencing; the seizure occurred on 7 October 2020 after a first search on 6 October 2020.
+    - The submitted Demerara Waves account says Forde was sentenced to four years, while Stabroek News and Guyana Times report three years; this report uses three years.
+    - The submitted account reports the fine as GYD$51 million, while Stabroek News and Guyana Times report $51.9 million; this report uses 51.9 million Guyana dollars.
+    - The submitted account says three Barbadians and three Guyanese were arrested, while Guyana Times and Stabroek News report two Barbadians and four Guyanese; this report uses two Barbadians and four Guyanese.
+    - The accounts name different magistrates for the sentencing hearing, with Guyana Times naming Chief Magistrate Ann Mclennan and Stabroek News naming Senior Magistrate Leron Daly.
+    - The incident date is the 9 October 2020 sentencing; the seizure occurred on 7 October 2020 after a first search on 6 October 2020.
+    - Demerara Waves reported the seizure as 150 pounds, while later court accounts used 69.246 kg, described as 152 pounds; the report keeps 69.246 kg.
 ---
 
 Customs Anti-Narcotics Unit officers intercepted the Barbados-registered cargo
@@ -87,15 +102,14 @@ Hardat Monilall. [@2] The charges against the two absent crew members, Clyde
 Outridge and James Emptage, were also withdrawn. [@2]
 
 Officers found 71 parcels of marijuana weighing 69.246 kg, equivalent to 152
-pounds. [@3] The vessel was first searched on 6 October 2020 and again on 7
+pounds. [@3] Dried coconuts were also found aboard the vessel, which mostly transports agricultural produce. [@4] Head of CANU James Singh said no cocaine was found aboard the vessel. [@4] The vessel was first searched on 6 October 2020 and again on 7
 October 2020. [@3] The parcels were uncovered during the second search,
 concealed in a section of the vessel. [@3] The marijuana had been cemented in
 false compartments created during supposed extensive repairs while the vessel
-was in Guyana. [@1] The vessel was destined for Barbados and had been in Guyana
+was in Guyana. [@1] The vessel was about to leave Guyana when anti-drug agents searched it. [@4] The vessel was destined for Barbados and had been in Guyana
 for several weeks undergoing repairs while docked. [@2]
 
 The anti-narcotics agency described the seizure as part of an ongoing operation
-involving external agencies. [@1] The agency prosecutor said Welch had been
+involving external agencies. [@1,4] The agency prosecutor said Welch had been
 charged with aiding and abetting trafficking while the others faced trafficking
 charges. [@1]
-
