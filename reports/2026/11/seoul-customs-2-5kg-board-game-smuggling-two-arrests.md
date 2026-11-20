@@ -21,34 +21,47 @@ sources:
     publisher: 日刊 NTN(국세신문사)
     date: 2026-11-20
     language: ko
+  - title: '"장난감 배달하면 200만 원"... 고액알바 유혹에 대마초 밀수입 20대 검거'
+    url: https://www.msn.com/ko-kr/%EC%9D%8C%EC%8B%9D-%EB%B0%8F-%EC%9D%8C%EB%A3%8C/%EC%9D%BC%EB%B0%98/%EC%9E%A5%EB%82%9C%EA%B0%90-%EB%B0%B0%EB%8B%AC%ED%95%98%EB%A9%B4-200%EB%A7%8C-%EC%9B%90-%EA%B3%A0%EC%95%A1%EC%95%8C%EB%B0%94-%EC%9C%A0%ED%98%B9%EC%97%90-%EB%8C%80%EB%A7%88%EC%B4%88-%EB%B0%80%EC%88%98%EC%9E%85-20%EB%8C%80-%EA%B2%80%EA%B1%B0/ar-AA2hOJzA
+    publisher: Hankook Ilbo
+    date: 2026-11-20
+    language: ko
+  - title: ‘200만 원 고액 알바’ 유혹에…서울세관, 대마초 2.5㎏ 밀수 20대 2명 검거
+    url: https://munhwa.com/article/11632789
+    publisher: Munhwa Ilbo
+    date: 2026-11-20
+    language: ko
 open_questions:
-  - No separate arrest date is given, so 20 November 2026, the publication and announcement date, is used as the incident date.
-  - The article reports both smuggling in July and three smugglings from September 2025 to January 2026, and the relationship between the 2.5 kg total and those three acts is unclear.
-  - Only initials and ages were released for the two suspects, and no indictment, plea or court outcome was reported.
-  - The cannabis quantity is stated as a total of 2.5 kg with no breakdown by smuggling act and no value estimate.
-  - The whole account rests on a single opened outlet account of the Seoul Main Customs announcement.
-  - Left out arrested, as no supporting quotation was given.
-  - Left out kg seized, as no supporting quotation was given.
+    - No separate arrest date is given, so 20 November 2026, the publication and announcement date, is used as the incident date.
+    - The article reports both smuggling in July and three smugglings from September 2025 to January 2026, and the relationship between the 2.5 kg total and those three acts is unclear.
+    - Only initials and ages were released for the two suspects, and no indictment, plea or court outcome was reported.
+    - The cannabis quantity is stated as a total of 2.5 kg with no breakdown by smuggling act and no value estimate.
+media:
+  - kind: photo
+    url: https://www.msn.com/ko-kr/%EC%9D%8C%EC%8B%9D-%EB%B0%8F-%EC%9D%8C%EB%A3%8C/%EC%9D%BC%EB%B0%98/%EC%9E%A5%EB%82%9C%EA%B0%90-%EB%B0%B0%EB%8B%AC%ED%95%98%EB%A9%B4-200%EB%A7%8C-%EC%9B%90-%EA%B3%A0%EC%95%A1%EC%95%8C%EB%B0%94-%EC%9C%A0%ED%98%B9%EC%97%90-%EB%8C%80%EB%A7%88%EC%B4%88-%EB%B0%80%EC%88%98%EC%9E%85-20%EB%8C%80-%EA%B2%80%EA%B1%B0/ar-AA2hOJzA
+    media_url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hOpbf.img?w=455&h=460&m=4&q=94
+    publisher: Hankook Ilbo
+    caption: 'X-ray image of a toy concealing cannabis from the Seoul seizure. Photo: Korea Customs Service'
 ---
 
 Seoul Main Customs arrested 26-year-olds A and B, who oversaw the crime, for
 allegedly bringing a total of 2.5 kg of cannabis from the United States by air
-express cargo in July, for violating the Narcotics Control Act. [@1] B received
+express cargo in July, for violating the Narcotics Control Act. [@1,2] B received
 instructions via Telegram from an unidentified upper level, passed them to A and
-directed the crime overall. [@1] The pair took part after being offered about 2
+directed the crime overall. [@1,3] The pair took part after being offered about 2
 million won in virtual assets such as Bitcoin as illegal high-paying part-time
-work, dividing roles between them. [@1]
+work, dividing roles between them. [@1,2]
 
 The cannabis was hidden inside toys and board games and disguised as normal
-goods to evade X-ray inspection. [@1] After analysing recipient information,
+goods to evade X-ray inspection. [@1,3] After analysing recipient information,
 clearance records, X-ray images and past delivery history, customs first
 identified A as having smuggled cannabis three times by the same method from
-September 2025 to January 2026. [@1] Customs worked with the post office to
+September 2025 to January 2026. [@1,2] Customs worked with the post office to
 monitor deliveries in real time through controlled delivery and, despite a
 mid-route change of delivery address to evade investigators, tracked the
-suspects and arrested them at the moment the goods were directly received. [@1]
+suspects and arrested them at the moment the goods were directly received. [@1,2]
 To avoid tracking, A alternately used the left and right units of an
-acquaintance's apartment in Gangwon-do as parcel addresses. [@1] From the third
+acquaintance's apartment in Gangwon-do as parcel addresses. [@1,3] From the third
 crime, when the drug weight increased, he used an empty house near his workplace
 as the receiving address and intended to distribute the cannabis by burying it
 in remote hills as instructed via Telegram. [@1]
@@ -56,9 +69,9 @@ in remote hills as instructed via Telegram. [@1]
 Immediately after arrest A tried to destroy evidence by factory-resetting his
 smartphone and strongly denied the charges, but a home search recovered a
 property contract linked to the crime location and a soil-covered transplanting
-trowel hidden in the bedroom. [@1] Customs continued digital forensics and
+trowel hidden in the bedroom. [@1,2] Customs continued digital forensics and
 persistent tracking and also caught accomplice B, who had directed the crime
-from behind. [@1] Restoring A's phone revealed the address of an empty house in
+from behind. [@1,2] Restoring A's phone revealed the address of an empty house in
 Seoul where drugs were hidden, but A avoided detention once at the court's
 warrant hearing by claiming he had only received the delivery on another's
 behalf and shifting blame to the accomplice. [@1] The team obtained an arrest
@@ -66,4 +79,3 @@ warrant for B, located him through tracking and stakeout and arrested him
 urgently, and forensics on B's phone proved the trowel found at A's home was
 used to bury cannabis and revealed their joint Telegram chain from smuggling to
 receipt to transport to distribution. [@1]
-
