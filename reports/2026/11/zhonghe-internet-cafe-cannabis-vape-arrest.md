@@ -63,6 +63,16 @@ media:
     media_url: https://cdn.taisounds.com/newsimages/img/2026/1119/fce46bb35b524e518fad5595d5055720.jpg
     publisher: 太報 TaiSounds
     caption: Lin in the internet cafe watching a drama when caught smoking cannabis, in a reader-provided photo published with the report.
+  - kind: photo
+    url: https://www.mirrormedia.mg/external/setn_1942093
+    media_url: https://attach.setn.com/newsimages/2026/11/20/5795437-PH.jpg
+    publisher: 鏡週刊 Mirror Media
+    caption: 'Police arresting Lin at the Zhonghe internet cafe, in a screen grab published with the Sanli News report. Image: 翻攝畫面'
+  - kind: photo
+    url: https://www.mirrormedia.mg/external/setn_1942093
+    media_url: https://attach.setn.com/newsimages/2026/11/20/5795439-PH.jpg
+    publisher: 鏡週刊 Mirror Media
+    caption: 'The cannabis vape cartridge seized from Lin, in a screen grab published with the Sanli News report. Image: 翻攝畫面'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 809ef8b3ee92988dd0152ffd1130fa49
@@ -168,19 +178,24 @@ sources:
     publisher: LINE TODAY
     date: 2026-11-19
     language: zh
+  - title: 保全深夜網咖開台吸大麻 警到場逮人送辦
+    url: https://www.mirrormedia.mg/external/setn_1942093
+    publisher: 鏡週刊 Mirror Media
+    date: 2026-11-20
+    language: zh
 ---
 
 A 34-year-old man surnamed Lin was in an internet cafe on Anping Road in Zhonghe
 in the early hours of 19 November 2026, watching shows while smoking a cannabis
-e-cigarette that members of the public reported to police. [@1,3,4,5,6,7,8,11,13,14,15,16,17,18,19] Other customers at the internet cafe noticed the unusual smell and reported him to police. [@11,18] Lin works as a security guard and had begun an eight-hour session at the internet cafe that morning. [@5,7] He was watching the American drug-crime series Breaking Bad while smoking. [@3,8,12,20] Officers from
+e-cigarette that members of the public reported to police. [@1,3,4,5,6,7,8,11,13,14,15,16,17,18,19] Other customers at the internet cafe noticed the unusual smell and reported him to police. [@11,18] Lin works as a security guard and had begun an eight-hour session at the internet cafe that morning. [@5,7,21] He was watching the American drug-crime series Breaking Bad while smoking. [@3,8,12,20] Officers from
 the Anping Police Station of the Zhonghe Precinct were on patrol at about 4 a.m.
 on 19 November when they received the report that a man inside the cafe was
-suspected of smoking a cannabis cartridge. [@1,2,3,4,6,10,11,13,14,16,17,19] When officers approached him, Lin played dumb and said he had not used drugs, before the search found the device and cartridge. [@5,7,9] When officers questioned him further, Lin kept leaning down and reaching toward his buttocks to hide the device, and officers then lifted him up and searched the seat and his person. [@8,20] After arriving, officers
+suspected of smoking a cannabis cartridge. [@1,2,3,4,6,10,11,13,14,16,17,19] When officers approached him, Lin played dumb and said he had not used drugs, before the search found the device and cartridge. [@5,7,9,21] When officers questioned him further, Lin kept leaning down and reaching toward his buttocks to hide the device, and officers then lifted him up and searched the seat and his person. [@8,20] After arriving, officers
 searched Lin with his consent and arrested him at the scene as a drug offender
 in the act, later transferring him to the district prosecutor's office for
 investigation under the Drug Hazard Prevention Act. [@1,2,3,4,6,10,13,14,17,18,19]
 
 Officers seized one e-cigarette device and one cannabis cartridge from Lin at
-the scene. [@1,2,4,5,6,7,8,10,12,13,14,15,16,17,18,19,20] During questioning Lin said he had paid NT$2,000 to a person he met online for the cannabis oil but had forgotten who the seller was. [@5,7] The seized device and cartridge together had a gross weight of
+the scene. [@1,2,4,5,6,7,8,10,12,13,14,15,16,17,18,19,20,21] During questioning Lin said he had paid NT$2,000 to a person he met online for the cannabis oil but had forgotten who the seller was. [@5,7] The seized device and cartridge together had a gross weight of
 12.25 grams and tested positive for cannabis, which the report describes as a
 Category Two drug. [@1,2,3,4,6,10,11,17,18] Police used a drug test reagent for the preliminary check and, after the positive result, handcuffed Lin and took him back to the station for questioning. [@18] Police said the source of the drug was still under investigation. [@6]
