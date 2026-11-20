@@ -73,22 +73,27 @@ sources:
     publisher: Como City
     date: 2026-11-19
     language: it
+  - title: 'Como, controlli della Polizia sul territorio: arrestato un 18enne per spaccio, sequestrati hashish e contanti'
+    url: https://www.valtellinanews.it/como-controlli-della-polizia-sul-territorio-arrestato-un-18enne-per-spaccio-sequestrati-hashish-e-contanti/37673/
+    publisher: Valtellina news
+    date: 2026-11-19
+    language: it
 ---
 
 An 18-year-old Italian resident of Como was arrested on the evening of 18
 November 2026 by State Police on suspicion of production, trafficking, sale and
-possession of drugs. [@1] He was already known to officers and was under a
+possession of drugs. [@1,6] He was already known to officers and was under a
 probation measure ordered by the Juvenile Court of Milan, and had a record
-including joint aggravated robbery. [@1,5] After the checks he was placed at the
+including joint aggravated robbery. [@1,5,6] After the checks he was placed at the
 disposal of the judicial authority to await a fast-track trial on the morning of
-19 November 2026. [@2,5]
+19 November 2026. [@2,5,6]
 
 Around 22:00 a patrol passing through Piazza Vittoria noticed the youth inside a
-bar and stopped him for identification and a check. [@4,5] The personal search
+bar and stopped him for identification and a check. [@4,5,6] The personal search
 found 103 grams of hashish, two smartphones and 605 euros in cash in mixed
-denominations. [@4,5] A further search at his home found about 100 grams more
-hashish and a precision scale for dividing doses. [@1,5]
+denominations. [@4,5,6] A further search at his home found about 100 grams more
+hashish and a precision scale for dividing doses. [@1,5,6]
 
 Officers took him to the questura for further checks including examinations by
-the forensic police. [@3,5] The stop was made during routine territorial control
-work aimed at prevention and public safety. [@2]
+the forensic police. [@3,5,6] The stop was made during routine territorial control
+work aimed at prevention and public safety. [@2,6]
