@@ -42,6 +42,11 @@ media:
     media_url: https://elotroenfoque.mx/wp-content/uploads/2026/11/destruyen-droga-3-1024x683.jpeg
     publisher: El otro enfoque
     caption: Officials at the Guanajuato prosecutor's destruction session, with packages of seized drugs laid out on a table in front of them; published with El otro enfoque's report on the disposal.
+  - kind: photo
+    url: https://www.am.com.mx/guanajuato/2026/11/19/fiscalia-de-guanajuato-incinera-mas-de-una-tonelada-de-marihuana-metanfetamina-y-cocaina-1868337.html
+    media_url: https://i0.wp.com/s3-am-btat-server.s3.amazonaws.com/wp-content/uploads/2026/11/20261118_084555-scaled-e1795130612317.jpg
+    publisher: Periódico AM
+    caption: 'Photo published with AM''s report on the Guanajuato prosecutor''s destruction session, described as Guanajuato''s more than 4,700 kilos of narcotics destroyed in 2026. Photo: Catalina Reyes.'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 56667c87c3ef9b42ac6a3c1f0eeb86b8
@@ -57,36 +62,37 @@ sources:
     publisher: Enfoque Bajío
     date: 2026-11-18
     language: es
+  - title: Fiscalía de Guanajuato incinera más de una tonelada de marihuana, metanfetamina y cocaína
+    url: https://www.am.com.mx/guanajuato/2026/11/19/fiscalia-de-guanajuato-incinera-mas-de-una-tonelada-de-marihuana-metanfetamina-y-cocaina-1868337.html
+    publisher: Periódico AM
+    date: 2026-11-19
+    language: es
 open_questions:
-  - The prosecutor's office gave no municipality or venue for the November destruction session.
-  - No arrests, charges or court outcomes were reported for the investigations that produced the destroyed drugs.
-  - The dose figures are the prosecutor's own equivalence estimates, not measured counts.
-  - The headline 1.2 tonnes refers to all narcotics destroyed; only 1,201.5 kilograms of the batch was marijuana.
-  - The April and August sessions appear only in the 2026 cumulative total; their individual amounts were not published in these accounts.
-  - No value estimate was published for the destroyed marijuana.
-  - 'Left out, as its quotation was not found in Milenio: Guanajuato''s state prosecutor''s office destroyed 1,245 kilograms of seized narcotics on Wednesday 18 November 2026.'
-  - 'Left out, as its quotation was not found in Milenio: State prosecutor Gerardo Vázquez Alatriste said the session was the third of 2026 and the fourth since the institution began the practice.'
-  - 'Left out, as its quotation was not found in Milenio: He said clearing the stores lets the space be turned into institutional offices without extra budget.'
+    - The prosecutor's office gave no municipality or venue for the November destruction session.
+    - No arrests, charges or court outcomes were reported for the investigations that produced the destroyed drugs.
+    - The dose figures are the prosecutor's own equivalence estimates, not measured counts.
+    - The headline 1.2 tonnes refers to all narcotics destroyed; only 1,201.5 kilograms of the batch was marijuana.
+    - The April and August sessions appear only in the 2026 cumulative total; their individual amounts were not published in these accounts.
+    - No value estimate was published for the destroyed marijuana.
 ---
 
 Marijuana made up 1,201.5 kilograms of the batch, alongside 42.3 kilograms of
-methamphetamine and 1.17 kilograms of cocaine. [@1] The prosecutor's office
+methamphetamine and 1.17 kilograms of cocaine. [@1,3] The office destroyed 1,245 kilograms of seized narcotics in the session. [@3] The prosecutor's office
 counted the marijuana as the equivalent of 240,301 doses, and all the destroyed
-drugs together as 1,301,626 doses. [@1] The destroyed drugs came from different
+drugs together as 1,301,626 doses. [@1] The office counted the methamphetamine as 1,058,745 doses and the cocaine as 2,340 doses. [@3] The destroyed drugs came from different
 ministerial investigations and had already served their purpose as evidence.
-[@1]
+[@1] The office said its purpose is to guarantee that goods, objects and instruments linked to criminal activities do not return to the hands of those who used them to cause harm. [@3]
 
 The same session disposed of 132,019 items of evidence in 18,197 packages
 weighing 10.9 tonnes, including clothing, tools and electronic devices. [@1] The
 prosecutor's office also handed 2,101 firearms, 873 magazines and 7,676
-cartridges to the Defence Ministry (Sedena). [@1] The disposal is part of the
+cartridges to the Defence Ministry (Sedena). [@1,3] The disposal is part of the
 Bodegas Vacías ("Empty Warehouses") programme, which clears evidence that has
-finished its role in ministerial investigations out of prosecutors' stores. [@1]
+finished its role in ministerial investigations out of prosecutors' stores. [@1] Vázquez Alatriste said clearing the storage spaces lets them be used as institutional offices without increasing the public budget. [@3] State prosecutor Gerardo Vázquez Alatriste said the session was the third destruction event of 2026 and the fourth since the institutional practice began. [@3]
 
 After sessions in April, August and November, the office says it destroyed
-4,731.179 kilograms of narcotics in 2026. [@2] Of that 2026 total, 4,606
+4,731.179 kilograms of narcotics in 2026. [@2,3] Of that 2026 total, 4,606
 kilograms was marijuana and 114.4 kilograms methamphetamine. [@1] Government
 secretary Jorge Daniel Jiménez Lona said each destroyed narcotic represented
 doses that would no longer be available in Guanajuato's neighbourhoods and
 communities. [@1]
-
