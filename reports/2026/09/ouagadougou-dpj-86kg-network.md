@@ -35,13 +35,11 @@ status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [ouagadougou, dpj, network, gold-mines]
 open_questions:
-  - The number of arrested members and any charges were not reported.
-  - 'Left out, as its quotation was not found in Alwihda Info: The network bought its goods in a neighbouring country, moved them to the capital by public transport or private vehicle, stored them and sold to customers — with part of the cannabis destined for dealers at gold-mining sites including Boromo and Poura, Zantene, Sabce, Mogre and Bittou.'
-  - 'Left out, as its quotation was not found in Koaci: The Anti-Drug Unit of the Directorate of Judicial Police seized nearly 86 kg of cannabis along with adulterated beverages, contraband cigarettes and psychotropic packets; motorcycles, cash and other goods were also recovered in the arrests.'
-  - The Anadolu dispatch gives no separate date for the arrests or the seizure; 29 September 2026 is the date it was reported from official sources.
-  - The police did not name, and Anadolu did not report, the neighbouring country the drugs were supplied from.
-  - The number of people arrested, their charges and any court step are not reported.
-  - Anadolu's 86 kg figure repeats the police statement as stated ('près de 86 kilogrammes'), so it is not an independent measurement.
+    - The number of people arrested, their charges and any court step are not reported.
+    - 'Left out, as its quotation was not found in Koaci: The Anti-Drug Unit of the Directorate of Judicial Police seized nearly 86 kg of cannabis along with adulterated beverages, contraband cigarettes and psychotropic packets; motorcycles, cash and other goods were also recovered in the arrests.'
+    - The Anadolu dispatch gives no separate date for the arrests or the seizure; 29 September 2026 is the date it was reported from official sources.
+    - The police did not name, and Anadolu did not report, the neighbouring country the drugs were supplied from.
+    - Anadolu's 86 kg figure repeats the police statement as stated ('près de 86 kilogrammes'), so it is not an independent measurement.
 sources:
   - title: "86 kg of cannabis seized: Police crack down on a trafficking network in Ouagadougou"
     url: https://nouvellesafrique.com/en/86-kg-of-cannabis-seized%3B-police-crack-down-on-a-trafficking-network-in-Ouagadougou/
@@ -73,20 +71,31 @@ sources:
     publisher: Anadolu Agency
     date: 2026-09-29
     language: fr
+  - title: 'Ouagadougou : la police démantèle un réseau de trafic et saisit 86 kg de cannabis'
+    url: https://www.alwihdainfo.com/ouagadougou-la-police-demantele-un-reseau-de-trafic-et-saisit-86-kg-de-cannabis/
+    publisher: Alwihda Info
+    date: 2026-09-29
+    language: fr
+media:
+  - kind: photo
+    url: https://www.alwihdainfo.com/ouagadougou-la-police-demantele-un-reseau-de-trafic-et-saisit-86-kg-de-cannabis/
+    media_url: https://storage.ghost.io/c/c3/f0/c3f09db4-2ccd-4dca-90bb-45836ef771ee/content/images/size/w1200/2026/09/825330012_4505326066402168_606624883287688888_n.jpeg
+    publisher: Alwihda Info
+    caption: 'Police handout published with the announcement of the 86 kg cannabis seizure and network dismantling in Ouagadougou. Photo: Police Burkina Faso'
 ---
 
 The National Police announced on Tuesday 29 September 2026 the
 dismantling of a suspected network trafficking and selling drugs in
-Ouagadougou. [@1,3,5,6] [@2]
+Ouagadougou. [@1,3,5,6,7] [@2]
 
 The Anti-Drug Unit of the Directorate of Judicial Police seized nearly 86
 kg of cannabis along with adulterated beverages, contraband cigarettes
 and psychotropic packets; motorcycles, cash and other goods were also
-recovered in the arrests. [@1,3,6] [@2] The network bought its goods in a
+recovered in the arrests. [@1,3,6,7] [@2] The network bought its goods in a
 neighbouring country, moved them to the capital by public transport or
 private vehicle, stored them and sold to customers — with part of the
 cannabis destined for dealers at gold-mining sites including Boromo and
-Poura, Zantene, Sabce, Mogre and Bittou. [@1] [@2]
+Poura, Zantene, Sabce, Mogre and Bittou. [@1,7] [@2]
 
 Burkina Faso's regional judicial police for the Koulsé region carried out a seizure operation that took 575.15 kg of chanvre indien, the French term used for cannabis, off the market in Kaya and Ouagadougou. [@4]
 
