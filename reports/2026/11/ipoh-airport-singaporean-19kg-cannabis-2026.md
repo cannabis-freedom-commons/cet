@@ -271,6 +271,11 @@ sources:
     publisher: Kosmo Online, on Newswav
     date: 2026-11-19
     language: ms
+  - title: Warga SG berdepan hukuman mati di Malaysia atas tuduhan edar 19kg kanabis - BERITA Mediacorp
+    url: https://berita.mediacorp.sg/dunia/warga-sg-berdepan-hukuman-mati-di-malaysia-atas-tuduhan-edar-19kg-kanabis-1088591
+    publisher: BERITA Mediacorp
+    date: 2026-11-20
+    language: ms
 media:
   - kind: photo
     url: https://www.malaymail.com/news/malaysia/2026/11/10/singaporean-lured-by-rm12685-job-offer-arrested-remanded-seven-days-over-rm15m-cannabis-haul-at-ipoh-airport/242670
@@ -356,7 +361,7 @@ Perak police chief Comm Datuk Mohd Alwi Zainal Abidin said syndicates
 increasingly use less busy airports such as Ipoh, which has one daily flight to
 Singapore, to traffic drugs abroad. [@2,3,5,10,11,16,18,19,27,32] The man was remanded for seven days
 from 9 November under Section 39B of the Dangerous Drugs Act 1952, which carries
-a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14,16,17,18,20,22,28,31] Deputy public prosecutor Ainin Sofiya Azlaini prosecuted, while counsel Sivahnanthan Ragava represented the accused. [@33,34,35,37,38,39,40,41,50] No bail was offered. [@33,34,37,38,39,40,41,42,43,45,46,47,48,49] The court fixed 26 February 2027 for mention of the chemistry report. [@33,34,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50] Chen was accused of trafficking an estimated 19,040 grammes of cannabis under Section 39B(1)(a) of the Dangerous Drugs Act 1952. [@33,34,37,38,39,40,41,42,50] The charge was read in Mandarin before magistrate Norizan Riduan. [@33,34,37,38,40,41,45,49,50] The court recorded no plea because the case falls under the jurisdiction of the High Court. [@34,35,40,42,43,44,45,47,48,49,50] The accused was named as Chen Long and allegedly committed the offence at 6.20am at Baggage Machine A at the airport's check-in counter. [@33,34,35,37,38,39,40,41,43,45,46,47,49,50] A Singaporean man was charged at the Ipoh magistrate's court with trafficking 19.04kg of cannabis. [@33,34,35,37,38,39,40,41,42,43,47,48,49,50]
+a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14,16,17,18,20,22,28,31] Deputy public prosecutor Ainin Sofiya Azlaini prosecuted, while counsel Sivahnanthan Ragava represented the accused. [@33,34,35,37,38,39,40,41,50] No bail was offered. [@33,34,37,38,39,40,41,42,43,45,46,47,48,49,51] The court fixed 26 February 2027 for mention of the chemistry report. [@33,34,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51] Chen was accused of trafficking an estimated 19,040 grammes of cannabis under Section 39B(1)(a) of the Dangerous Drugs Act 1952. [@33,34,37,38,39,40,41,42,50,51] The charge was read in Mandarin before magistrate Norizan Riduan. [@33,34,37,38,40,41,45,49,50,51] The court recorded no plea because the case falls under the jurisdiction of the High Court. [@34,35,40,42,43,44,45,47,48,49,50,51] The accused was named as Chen Long and allegedly committed the offence at 6.20am at Baggage Machine A at the airport's check-in counter. [@33,34,35,37,38,39,40,41,43,45,46,47,49,50,51] A Singaporean man was charged at the Ipoh magistrate's court with trafficking 19.04kg of cannabis. [@33,34,35,37,38,39,40,41,42,43,47,48,49,50,51]
 
 The man arrived in Ipoh on 7 November after picking up the load in Kajang and travelling by e-hailing car. [@3,5]
 
