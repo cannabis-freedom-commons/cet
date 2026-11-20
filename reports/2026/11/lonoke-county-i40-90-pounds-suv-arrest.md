@@ -93,6 +93,10 @@ sources:
     url: https://www.msn.com/en-us/news/other/asp-traffic-stop-on-i-40-leads-to-arrest-seizure-of-nearly-90-pounds-of-marijuana/ar-AA2hzbvp
     publisher: MSN / KTHV-TV Little Rock
     date: 2026-11-16
+  - title: Tennessee man arrested
+    url: https://www.neatowncourier.com/news/tennessee-man-arrested-a80622c2
+    publisher: NEA Town Courier
+    date: 2026-11-19
 media:
   - kind: photo
     url: https://arkansasradio.com/2026/11/arkansas-state-police-90-pounds-marijuana-i40-carlisle/
@@ -118,7 +122,7 @@ was travelling from Oklahoma to Tennessee when he was stopped. [@2,3,6,9,10,11,1
 
 A search of the SUV found three large bags holding multiple vacuum-sealed
 packages of suspected marijuana. [@2,3,4,5,6,7,8,9,10,11,13] Police described the load as around 90
-pounds of illegal suspected marijuana, about 40.8 kilograms. [@2,6,8,9,10,12,13] The account is
+pounds of illegal suspected marijuana, about 40.8 kilograms. [@2,6,8,9,10,12,13,14] The account is
 datelined Carlisle, Arkansas, placing the stop area in Lonoke County on the
 interstate. [@2]
 
