@@ -95,6 +95,11 @@ sources:
     publisher: Aktual24
     date: 2026-11-19
     language: ro
+  - title: В Букурещ задържаха двама млади мъже с 50 кг кокаин и 2,5 кг канабис
+    url: https://delnik.bg/world/%D0%B2-%D0%B1%D1%83%D0%BA%D1%83%D1%80%D0%B5%D1%89-%D0%B7%D0%B0%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D1%85%D0%B0-%D0%B4%D0%B2%D0%B0%D0%BC%D0%B0-%D0%BC%D0%BB%D0%B0%D0%B4%D0%B8-%D0%BC%D1%8A%D0%B6%D0%B5-%D1%81-5/1239644/
+    publisher: Delnik.bg
+    date: 2026-11-19
+    language: bg
 ---
 
 DIICOT prosecutors in Bucharest detained two men, aged 22 and 33, on 19 November
@@ -104,15 +109,15 @@ carrying 30 bags of cocaine and seven bags containing cannabis in the car they
 were travelling in. [@1,2,3,4,5,6,7] Half of the quantity was hidden in a car parked in the car park of a shopping centre. [@2]
 
 Most of the packages were hidden in a purpose-built compartment in the car
-floor, closed by an electronic locking system operated by a card. [@1,2,4,5,6,7] Officers
+floor, closed by an electronic locking system operated by a card. [@1,2,4,5,6,7,8] Officers
 later searched hotel rooms the men had rented and seized a further 17 packages
-of cocaine. [@1,2,4,5,6,7] Investigators carried out five searches in the hotel rooms rented by the two men. [@5,7] The total amount taken out of circulation was 50 kilograms of
-cocaine and 2.5 kilograms of cannabis, according to DIICOT. [@1,2,3,4,5,6,7] DIICOT put the value of the total seizure at about 5 million euros. [@2]
+of cocaine. [@1,2,4,5,6,7,8] Investigators carried out five searches in the hotel rooms rented by the two men. [@5,7] The total amount taken out of circulation was 50 kilograms of
+cocaine and 2.5 kilograms of cannabis, according to DIICOT. [@1,2,3,4,5,6,7,8] DIICOT put the value of the total seizure at about 5 million euros. [@2]
 
 On Thursday 19 November a judge for rights and freedoms at the Bucharest
 Tribunal was asked to order 30 days of preventive arrest for the two defendants.
 [@1,2,3,4,5,6,7] The judicial activity was carried out together with police from the
-Directorate for Combating Organised Crime. [@1,4,7] It was supported by traffic
+Directorate for Combating Organised Crime. [@1,4,7,8] It was supported by traffic
 police from the Bucharest General Police Directorate and by gendarmes from the
 Gendarmerie's Special Intervention Brigade and the Bucharest Gendarmerie General
 Directorate. [@1,7]
