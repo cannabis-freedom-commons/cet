@@ -59,10 +59,15 @@ sources:
     publisher: KFB福島放送
     date: 2026-10-02
     language: ja
+  - title: 大麻所持の「トクリュウ」男に有罪判決 「依存性あるが更生意欲」拘禁刑1年・猶予3年 福島地裁 - エキサイトニュース
+    url: https://www.excite.co.jp/news/article/kfb_1496100064276791870/
+    publisher: エキサイトニュース
+    date: 2026-11-19
+    language: ja
 ---
 
 A member of a 'tokuryu' group in Fukushima City was given a suspended prison
-sentence after being convicted of possessing cannabis. [@1] The indictment said
+sentence after being convicted of possessing cannabis. [@1,3] The indictment said
 the defendant, 22-year-old Fukushima restaurant manager Daichi Chida, held about
 0.53 grams of dried plant pieces containing cannabis at his home in June 2026.
 [@2] At a first hearing on 2 October 2026 he admitted the charges. [@2]
@@ -73,5 +78,4 @@ that a repeat offence was a concern and that he should be punished severely.
 for a suspended sentence. [@1] Fukushima District Court judge Tamaki Shimada
 said the amount was not large but that affinity and dependence were present,
 while noting remorse and a desire to reform, and sentenced Chida to one year in
-prison suspended for three years. [@1]
-
+prison suspended for three years. [@1,3]
