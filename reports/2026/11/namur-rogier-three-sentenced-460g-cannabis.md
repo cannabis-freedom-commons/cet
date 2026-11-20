@@ -60,6 +60,11 @@ sources:
     publisher: L'Avenir
     date: 2026-10-22
     language: fr
+  - title: 'Opération antidrogue rue Rogier à Namur : trois jeunes hommes condamnés à 30 mois de prison avec sursis probatoire'
+    url: https://www.lavenir.net/regions/namur/namur/2026/11/19/operation-antidrogue-rue-rogier-a-namur-trois-jeunes-hommes-condamnes-a-30-mois-de-prison-avec-sursis-probatoire-FW55HU4KOVCSHFITHAPID3IFNA/
+    publisher: L'Avenir
+    date: 2026-11-19
+    language: fr
 open_questions:
   - The 30-month sentence was imposed for trafficking both cocaine and cannabis and cannot be attributed to the cannabis alone.
   - The two accounts give different cocaine weights from the Bouge search (126 grams in the DHnet account, 131.30 grams in L'Avenir); no cocaine weight is used in the cannabis figures.
@@ -69,26 +74,25 @@ open_questions:
 ---
 
 Namur's correctional tribunal sentenced three men born in the 2000s to 30 months
-in prison each, with a four-year probation period, for drug trafficking. [@1]
+in prison each, with a four-year probation period, for drug trafficking. [@1,3]
 The judgment was delivered on Thursday 19 November 2026 and concerned the sale
-of cocaine and cannabis. [@1] The three defendants had been held in custody
+of cocaine and cannabis. [@1,3] The three defendants had been held in custody
 since their arrest in June 2026, accused of possessing and selling drugs as part
 of a trafficking operation running since the start of the year. [@2] Prosecutors
-had requested four years in prison for each of the three men. [@1] At the bar
+had requested four years in prison for each of the three men. [@1,3] At the bar
 the first defendant admitted wrongdoing but said he had acted alone, the second
 admitted his fault while saying he distributed the drugs free of charge, and the
-third, who said he worked as a hairdresser, denied any role in the sale. [@1]
+third, who said he worked as a hairdresser, denied any role in the sale. [@1,3]
 
 The investigation opened on 17 March 2026 after reports of drug trafficking in
 front of the Best Fried Chicken fast-food restaurant in central Namur, at the
-corner of Rogier and Galliot streets. [@1] Police surveillance on 8 June
+corner of Rogier and Galliot streets. [@1,3] Police surveillance on 8 June
 observed suspicious behaviour, including exchanges with several people and
-individuals who seemed to be keeping watch. [@1] The three met regularly and
+individuals who seemed to be keeping watch. [@1,3] The three met regularly and
 travelled to Liège and the Netherlands to obtain drugs, and phone analysis
-revealed images appearing to show one of them making cocaine balls. [@1] During
+revealed images appearing to show one of them making cocaine balls. [@1,3] During
 a search on 15 June at one defendant's home in Bouge, police seized 460 grams of
 cannabis, along with 126 grams of cocaine, which is not counted in the cannabis
-figures. [@1]
+figures. [@1,3] Officers also found two precision scales and empty bags at the home during the search. [@3]
 
-The three convicts and their lawyer have 30 days to appeal the decision. [@1]
-
+The three convicts and their lawyer have 30 days to appeal the decision. [@1,3]
