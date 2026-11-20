@@ -58,23 +58,28 @@ sources:
     publisher: Ecos del Combeima
     date: 2026-11-19
     language: es
+  - title: Lo buscaban por homicidio y andaba cargado con 10 kilos de marihuana en Ibagué - El Irreverente
+    url: https://elirreverenteibague.com/lo-buscaban-por-homicidio-y-andaba-cargado-con-10-kilos-de-marihuana-en-ibague/
+    publisher: El Irreverente
+    date: 2026-11-19
+    language: es
 ---
 
 In Ibagué, officers of the Metropolitan Police detained a 35-year-old man known
 as alias ‘Capota’ in the Nueva Castilla neighbourhood while he was carrying
-close to 10 kilos of marijuana in a bag. [@2,4] Officers from surveillance patrol
+close to 10 kilos of marijuana in a bag. [@2,4,5] Officers from surveillance patrol
 23 of the CAI Jardín stopped him at Calle 123 with Carrera 4 during routine
-checks and verifications of people. [@1,4] He tried to flee when he noticed the
+checks and verifications of people. [@1,4,5] He tried to flee when he noticed the
 officers but was intercepted a few metres away. [@1]
 
 During the search officers found about 10 kilograms of marijuana inside the bag,
-which they seized and placed under chain of custody. [@1,4] A background check
+which they seized and placed under chain of custody. [@1,4,5] A background check
 showed he had an outstanding judicial order for aggravated homicide and for
-manufacture, trafficking and possession of firearms or ammunition. [@1,4]
+manufacture, trafficking and possession of firearms or ammunition. [@1,4,5]
 
 The detainee and the seized substance were placed at the disposal of the
-Attorney General’s Office. [@1,4] A guarantees judge later imposed pretrial
+Attorney General’s Office. [@1,4,5] A guarantees judge later imposed pretrial
 detention in a prison facility while the criminal case against him continues.
-[@2] The operation was carried out by members of surveillance patrol 23 of the
+[@2,5] The operation was carried out by members of surveillance patrol 23 of the
 CAI Jardín, as reported by Major Arnold Leyton Mopan, commander of the North
 Police Station. [@3]
