@@ -43,14 +43,21 @@ sources:
     url: https://www.msn.com/en-us/news/other/aden-holloway-to-play-for-alabama-basketball-for-first-time-since-marijuana-arrest/ar-AA2h4zGP
     publisher: MSN
     date: 2026-11-09
+  - title: Alabama's Aden Holloway, the Tide's No. 2 scorer, arrested on felony drug charge | AP News
+    url: https://apnews.com/article/aden-holloway-alabama-marijuana-arrest-89f891e293e02a7a57dfc28dbee3bf84
+    publisher: AP News
+    date: 2026-03-17
+  - title: Alabama's Aden Holloway begins 5-game ban following arrest
+    url: https://www.espn.com/mens-college-basketball/story/_/id/50137284/alabama-aden-holloway-begins-5-game-ban-following-arrest
+    publisher: ESPN
+    date: 2026-10-08
 open_questions:
     - The dismissal is reported through court documents obtained by The Tuscaloosa News; the court order itself was not opened.
-    - The article gives no day for the March arrest beyond the month, so the incident date is the 9 November publication date of the return.
     - The exact Alabama court that dismissed the charge is not named.
-    - No quantity of marijuana and no details of what the second-chance program required were published.
+    - No details of what the second-chance or pretrial diversion program required were published.
     - Jon Rothstein's report of coach Nate Oats's comments, cited by the article, was not opened as a separate source.
-    - The article states the charge was dismissed while describing the arrest only as possession of marijuana and failure to affix a tax stamp; it does not state the possession degree.
     - The article was published before the Oakland game, so Holloway's playing time in his return is not reported.
+    - The March arrest report gave the amount as more than a pound while the later ESPN account gives 2.1 pounds; the later figure is used for the quantity.
 media:
   - kind: photo
     url: https://www.msn.com/en-us/news/other/aden-holloway-to-play-for-alabama-basketball-for-first-time-since-marijuana-arrest/ar-AA2h4zGP
@@ -61,7 +68,7 @@ media:
 
 Alabama basketball guard Aden Holloway was arrested in March 2026 for possession
 of marijuana and failure to affix a tax stamp, before the men's NCAA tournament.
-[@1,3] His first-degree marijuana charge was dismissed, according to court
+[@1,3,4] Alabama suspended him indefinitely and removed him from campus pending a student conduct investigation. [@5] Holloway was arrested March 16, days before the NCAA tournament, after authorities said they found 2.1 pounds of marijuana in his Tuscaloosa apartment. [@5] Holloway was taken to the local jail shortly before 10 a.m. and was released before 11 a.m. on a $5,000 bond. [@4] Agents with the West Alabama Narcotics Task Force searched a residence near Alabama's campus and recovered more than a pound of marijuana, paraphernalia and cash. [@4] His first-degree marijuana charge was dismissed, according to court
 documents obtained by The Tuscaloosa News and reported on 28 September 2026.
 [@1]
 
