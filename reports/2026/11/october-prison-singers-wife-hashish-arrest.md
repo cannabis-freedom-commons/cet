@@ -75,21 +75,31 @@ sources:
     publisher: فيتو
     date: 2026-11-19
     language: ar
+  - title: كانت تهرب له مخدرات.. ضبط زوجة مطرب مصري شهير خلال زيارتها له في السجن ...لبنان
+    url: https://arabic.pressbee.net/show11130589.html
+    publisher: برس بي (Pressbee)
+    date: 2026-11-20
+    language: ar
+  - title: ضبط زوجة مطرب المهرجانات كابونجا أثناء محاولتها تهريب مخدرات لزوجها فى محبسه
+    url: https://www.youm7.com/story/2026/11/19/%D8%B6%D8%A8%D8%B7-%D8%B2%D9%88%D8%AC%D8%A9-%D9%85%D8%B7%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86%D8%A7%D8%AA-%D9%83%D8%A7%D8%A8%D9%88%D9%86%D8%AC%D8%A7-%D8%A3%D8%AB%D9%86%D8%A7%D8%A1-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%AA%D9%87%D8%A7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%84%D8%B2%D9%88%D8%AC%D9%87%D8%A7/7625235
+    publisher: اليوم السابع
+    date: 2026-11-19
+    language: ar
 ---
 
 Detectives at the October Correction Centre in Giza arrested M. S., the wife of
 mahraganat singer Islam Kabonga, while she was visiting her detained husband.
-[@1,2,3,4,6,8,9,10] The suspect was identified as M. S., born in 1999. [@6] She is known on social media by the nickname Umm Eshq. [@6] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3] Her husband was serving a six-month sentence in case 5568 of 2026 for economic misdemeanours in Agouza over incitement to violence. [@6] The Cairo Economic appeals court had upheld that six-month prison term plus a 100,000-pound fine on 28 September 2026. [@9] The Giza security directorate said Assistant Minister for Giza Security
+[@1,2,3,4,6,8,9,10,12] The suspect was identified as M. S., born in 1999. [@6] She is known on social media by the nickname Umm Eshq. [@6] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3,13] Her husband was serving a six-month sentence in case 5568 of 2026 for economic misdemeanours in Agouza over incitement to violence. [@6] The Cairo Economic appeals court had upheld that six-month prison term plus a 100,000-pound fine on 28 September 2026. [@9] The Giza security directorate said Assistant Minister for Giza Security
 Maj. Gen. Hatem Hassan received a notification of the incident from Maj. Gen.
 Hany Shaarawy, deputy director of criminal investigations. [@1,2] She had brought
 visit goods for her husband, and officers searched those goods during the visit.
 [@1,5,10,11] The suspected drugs were hidden professionally inside a bag to evade monitoring. [@5]
 
 The search found four Nokia mobile phones, one large piece of hashish and 52
-tramadol pills. [@1,2,3,4,6,7,8,9,10] The seized phones were Nokia handsets, the hashish was
+tramadol pills. [@1,2,3,4,6,7,8,9,10,12] The seized phones were Nokia handsets, the hashish was
 described as a large piece and the tramadol as narcotic pills intended to be
 brought to her husband. [@1] The four seized Nokia phones were small Afreto models without cameras or SIM cards. [@6] When confronted, she admitted that she possessed
-the seized items in order to bring them in to her husband. [@1,2,4,7,8,9] In this account she denied knowing about the seized items and said she had received the bag from a 29-year-old driver named Khalil from al-Warraq to take to her husband for use in prison. [@6]
+the seized items in order to bring them in to her husband. [@1,2,4,7,8,9] In this account she denied knowing about the seized items and said she had received the bag from a 29-year-old driver named Khalil from al-Warraq to take to her husband for use in prison. [@6,12]
 
 Police filed a report on the incident after the arrest at the correction centre.
-[@1,3,5,7] The prosecution took over the investigation of the case. [@1,2,4,6,7,8,9,10,11] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5]
+[@1,3,5,7] The seizure report was drafted on 18 November 2026. [@12] The prosecution took over the investigation of the case. [@1,2,4,6,7,8,9,10,11,12] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5]
