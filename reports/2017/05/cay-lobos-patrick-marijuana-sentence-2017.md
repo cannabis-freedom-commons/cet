@@ -56,11 +56,17 @@ sources:
     url: https://www.bahamaslocal.com/newsitem/175256/Anthony_Newbold.html
     publisher: Bahamas Local / The Nassau Guardian
     date: 2017-05-19
+  - title: $1 Million Marijuana drug bust, Jamaican & Bahamians arrested
+    url: https://magneticmediatv.com/2017/05/1-million-marijuana-drug-bust-jamaican-bahamians-arrested/
+    publisher: Magnetic Media
+    date: 2017-05-17
 open_questions:
   - The outcome of the two Bahamian defendants' trial is not reported.
   - The defence force initially described the weight as just over 1,000 pounds; the court account gives 1,452 pounds.
   - The map point marks Cay Lobos, not the vessel's exact interception location.
   - The currency of the reported value estimates was not specified.
+  - Magnetic Media's 17 May page described the boat as 18 feet and the load as exactly 1,000 pounds valued at $1 million, while the defence force account already cited put the boat at 28 feet and the weight at just over 1,000 pounds.
+  - That page also refers to a same-day Container Port drug find of half this quantity without identifying the seizure; it is not part of this interception.
 ---
 
 A Jamaican man was sentenced to four years in prison on 18 May 2017 after
@@ -76,10 +82,9 @@ marijuana, about 658.6 kilograms. [@3] The Royal Bahamas Defence Force
 intercepted the boat on 15 May during a patrol near Cay Lobos in the
 southwestern Bahamas. [@3] The defence force said its patrol craft HMBS Rolly
 Gray intercepted a 28-foot blue and white go-fast boat and its boarding team
-found suspected marijuana. [@2] The three men and the seized material were taken
+found suspected marijuana. [@2,4] The three men and the seized material were taken
 to New Providence and handed to the police drug enforcement unit. [@1]
 
 Patrick admitted transporting the drugs from Jamaica and said he had been
 promised $2,000. [@3] The defence force initially put the weight at just over
-1,000 pounds and estimated the street value at more than $1 million. [@1]
-
+1,000 pounds and estimated the street value at more than $1 million. [@1,4]
