@@ -47,6 +47,11 @@ sources:
     url: https://www.fbcnews.com.fj/news/ffarmer-arrested-after-marijuana-find/
     publisher: FBC News
     date: 2026-10-20
+  - title: More than 2,300 marijuana plants destroyed in Savusavu Raid
+    url: https://fijisun.com.fj/news/crime/more-than-2300-marijuana-plants-destroyed-in-savusavu-raid
+    publisher: Fiji Sun
+    date: 2026-10-20
+    language: en
 media:
   - kind: photo
     url: https://www.fijivillage.com/fashion/38-year-old-farmer-arrested-after-2-371-suspected-marijuana-plants-uprooted-in-savusavu-bf1610/
@@ -58,11 +63,16 @@ media:
     media_url: https://www.fijivillage.com/news_images/20261020094613_media_6ad68e6987e9b3_35544674.jpg
     publisher: fijivillage
     caption: "Standing plants photographed during the Savusavu raid. Photo: Fiji Police Drug Unit"
+  - kind: photo
+    url: https://fijisun.com.fj/news/crime/more-than-2300-marijuana-plants-destroyed-in-savusavu-raid
+    media_url: https://images.fijisun.com.fj/media/7ad9428a-8a69-46d5-92c3-50ecfc01ca91?w=1080&q=75
+    publisher: Fiji Sun
+    caption: 'Two farms in the Naruwai farming area uncovered during the Savusavu police operation. Photo: Police Media Cell'
 ---
 
 A Northern Division police operation team uprooted 1,351 suspected marijuana
 plants, 5 to 35 centimetres tall, from a first farm along the Naruwai farming
 area in Nanuca, Savusavu, and a further 1,020 plants, 5 centimetres to 3 metres
-tall, from a second farm. [@1,2] The 2,371 plants were allegedly being grown by a
+tall, from a second farm. [@1,2,3] The 2,371 plants were allegedly being grown by a
 38-year-old farmer from Drekeniwai Village, who was arrested in connection with
-the cultivation. [@1,2] Police investigations continue. [@1,2]
+the cultivation. [@1,2,3] Police investigations continue. [@1,2,3]
