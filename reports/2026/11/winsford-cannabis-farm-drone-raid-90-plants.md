@@ -62,6 +62,11 @@ media:
     media_url: https://i2-prod.cheshire-live.co.uk/article34937473.ece/ALTERNATES/s1200e/0_0158bbbd92d64ed1a85dcee2c0eaade2.jpg
     publisher: Cheshire Live
     caption: 'Further view of the cannabis farm found in the Winsford property, in the Cheshire Police handout photo published with the report. Photo: Cheshire Police'
+  - kind: video
+    url: https://www.silk1069.com/news/local-news/police-drone-unit-uncovers-cannabis-farm-in-winsford/
+    media_url: https://www.youtube.com/watch?v=pE-wYUoC0KQ
+    publisher: Cheshire's Silk 106.9
+    caption: Video titled "Winsford Drug Warrant", published with the report of the Caerleon Close cannabis-farm warrant.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 6775a5648d8a2f25f24930ff5cf2c1b9
@@ -79,22 +84,26 @@ sources:
     url: https://www.cheshire-live.co.uk/news/chester-cheshire-news/police-drone-uncovers-huge-cannabis-34937433
     publisher: Cheshire Live
     date: 2026-11-19
+  - title: Police drone unit uncovers cannabis farm in Winsford
+    url: https://www.silk1069.com/news/local-news/police-drone-unit-uncovers-cannabis-farm-in-winsford/
+    publisher: Cheshire's Silk 106.9
+    date: 2026-11-19
 ---
 
 A 44-year-old man from Winsford was arrested at the scene of the grow on
 suspicion of cannabis cultivation and possession of class A drugs and held in
-police custody. [@1,2,3]
+police custody. [@1,2,3,4]
 
 Officers executed a warrant on Caerleon Close shortly before 8 am on Thursday,
-19 November 2026. [@1,2,3] The search found a cannabis farm with around 90 plants at
-various growth stages, along with the class A drug psilocybin. [@1,2,3]
-Investigators found the property's electricity had been illegally bypassed. [@1,2,3]
+19 November 2026. [@1,2,3,4] The search found a cannabis farm with around 90 plants at
+various growth stages, along with the class A drug psilocybin. [@1,2,3,4]
+Investigators found the property's electricity had been illegally bypassed. [@1,2,3,4]
 
 Cheshire Police said it shut down the cannabis farm following a tip-off from its
-Drone Unit. [@1] The warrant was issued after the Drone Unit spotted an unusual
-heat source while conducting a training exercise near Cheshire Police HQ. [@1,2,3]
+Drone Unit. [@1,4] The warrant was issued after the Drone Unit spotted an unusual
+heat source while conducting a training exercise near Cheshire Police HQ. [@1,2,3,4]
 Police Constable Josh Smith of Northwich Local Policing Unit said the
 intelligence had allowed officers to remove a large quantity of illegal drugs
-from the streets of Winsford. [@1] Police urged residents to report suspected
+from the streets of Winsford. [@1,4] Police urged residents to report suspected
 drug activity and listed signs of a cannabis farm such as a strong smell,
-covered windows, an unusual electricity setup and constant activity. [@1]
+covered windows, an unusual electricity setup and constant activity. [@1,4]
