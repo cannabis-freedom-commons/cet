@@ -72,6 +72,11 @@ sources:
     publisher: RRI.co.id
     date: 2026-11-19
     language: id
+  - title: Kapolres Tatiratu Tegaskan Tak Ada Ruang bagi Narkotika di Wilayah Hukum Nabire
+    url: https://rri.co.id/nabire/hukum/kriminalitas/2908405/kapolres-tatiratu-tegaskan-tak-ada-ruang-bagi-narkotika-di-wilayah-hukum-nabire
+    publisher: RRI.co.id
+    date: 2026-11-19
+    language: id
 open_questions:
   - The report is dated at the 19 November 2026 press-release destruction, the latest step; the street seizure occurred on 6 November 2026.
   - Two people were first held but only FFH (30) was named as a suspect; the other person's identity and status beyond witness examination were not reported.
@@ -105,30 +110,40 @@ media:
     media_url: https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/misc/image/1795063426775834_1635e96f4f_file-6afe7e82bc24a556832827.webp
     publisher: RRI.co.id
     caption: Six packs of ganja evidence being placed in a burning drum and burned jointly by all parties as a show of anti-drug commitment.
+  - kind: photo
+    url: https://rri.co.id/nabire/hukum/kriminalitas/2908405/kapolres-tatiratu-tegaskan-tak-ada-ruang-bagi-narkotika-di-wilayah-hukum-nabire
+    media_url: https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/nabire/thumbs/full_file_6afe7c14963ff2.76920981.webp
+    publisher: RRI.co.id
+    caption: 'Nabire police chief AKBP Samuel Dominggus Tatiratu with Satresnarkoba officers and prosecutor and court representatives displaying the ganja evidence to journalists at the press conference outside the Satresnarkoba office on 19 November 2026. Photo: Dok Arnold/RRI Nabire.'
+  - kind: video
+    url: https://rri.co.id/nabire/hukum/kriminalitas/2908405/kapolres-tatiratu-tegaskan-tak-ada-ruang-bagi-narkotika-di-wilayah-hukum-nabire
+    media_url: https://gnetwork.b-cdn.net/studio_backend/rri_hukum_uploader/rri_hukum_uploader-1795137508.815817.mp4?token=Z4RmgQ4X5hnctm6OmI99cln2XeXzxfR_s9uB_9gb_6c&expires=1795165441
+    publisher: RRI.co.id
+    caption: RRI news video embedded with the report on the Nabire ganja case and the destruction of the evidence at the 19 November 2026 press conference.
 ---
 
 On 6 November 2026 at about 18.00 WIT, Satresnarkoba Polres Nabire acted against
 two people on Jalan RE Martadinata in Nabarua, Nabire, during an anti-narcotics
 operation. [@2,3,4,5] Officers first held the two suspected people, then named
 30-year-old FFH as the suspect while the other person was examined as a witness.
-[@2,4] When officers tried to stop the pair's vehicle in front of SMP Negeri 5
+[@2,4,7] When officers tried to stop the pair's vehicle in front of SMP Negeri 5
 Nabire, the pair released a dog they had brought, which held up the chase. [@2]
 While fleeing, the pair allegedly discarded a bag suspected of holding narcotics
 near the Ruko Momoyo U-turn. [@2] Other officers kept chasing the pair and
 detained both in front of Toko Venus. [@2,3]
 
 Officers brought both back to the disposal site and found six medium-sized
-plastic packs of suspected ganja inside the black backpack. [@2,3,4,5,6] The National
+plastic packs of suspected ganja inside the black backpack. [@2,3,4,5,6,7] The National
 Police forensic laboratory in Jayapura put the net weight at 168.45 grams. [@2,3,4]
 Investigators kept 0.10 grams for laboratory testing and 0.50 grams for trial
 evidence, destroying the remaining 167.85 grams during the investigation. [@2,3,4]
 Polres Nabire destroyed 167.85 grams of ganja evidence. [@1] The destruction on
 19 November 2026 in front of the Satresnarkoba room was led by police chief AKBP
-Samuel D Tatiratu. [@1,3,5,6] Police also seized a black bag marked HALO and a black
+Samuel D Tatiratu. [@1,3,5,6,7] Police also seized a black bag marked HALO and a black
 plastic bag used to store the evidence. [@2]
 
 Police believe the ganja was brought from Jayapura to Nabire aboard the KM
-Dorolonda for personal use and for distribution in the Nabire police area. [@2,3,4,5,6] F.F.H. was charged under Article 114 paragraph (1) or Article 111 paragraph (1) of Law Number 35 of 2009 on Narcotics in conjunction with the penalty adjustment provisions in Law Number 1 of 2026. [@5]
+Dorolonda for personal use and for distribution in the Nabire police area. [@2,3,4,5,6,7] F.F.H. was charged under Article 114 paragraph (1) or Article 111 paragraph (1) of Law Number 35 of 2009 on Narcotics in conjunction with the penalty adjustment provisions in Law Number 1 of 2026. [@5]
 The press event was attended by prosecutor and court representatives,
-investigators and journalists. [@2,3,4,5,6] It ended with the destruction as a show of
-transparency and commitment against drug trafficking in Nabire. [@2]
+investigators and journalists. [@2,3,4,5,6,7] It ended with the destruction as a show of
+transparency and commitment against drug trafficking in Nabire. [@2,7]
