@@ -86,20 +86,25 @@ sources:
     publisher: صحيفة صراحة الالكترونية
     date: 2026-11-19
     language: ar
+  - title: حرس الحدود يحبط تهريب 14 كيلو حشيش و4000 قرص إمفيتامين في قطاع حقل بتبوك
+    url: https://jeddah24.net/local/1911/105570/
+    publisher: جدة 24
+    date: 2026-11-19
+    language: ar
 ---
 
 Saudi border guards' land patrols in the Haql sector of Tabuk region intercepted
-an attempt to smuggle 14 kilograms of hashish. [@1,4,5,6,7,8] Saudi border guards' land
+an attempt to smuggle 14 kilograms of hashish. [@1,4,5,6,7,8,9] Saudi border guards' land
 patrols in the Haql sector of Tabuk region intercepted an attempt to smuggle 14
-kilograms of hashish. [@3] The patrols also seized 4,000 amphetamine pills. [@1,5,6,7,8]
+kilograms of hashish. [@3] The patrols also seized 4,000 amphetamine pills. [@1,5,6,7,8,9]
 The patrols also seized 4,000 amphetamine pills. [@2] The Border Guards said
-initial legal procedures had been completed. [@1,5,8] The Border Guards said initial
+initial legal procedures had been completed. [@1,5,8,9] The Border Guards said initial
 legal procedures had been completed. [@2] The seizures were handed to the
-competent authority. [@1,5,7,8] The seizures were handed to the competent authority.
+competent authority. [@1,5,7,8,9] The seizures were handed to the competent authority.
 [@2]
 
 The Border Guards made the announcement in a statement posted on the X platform.
-[@1,5,6] Security authorities called on citizens and residents to report any
-information about drug smuggling or promotion. [@1,5] The published tip lines were
+[@1,5,6,9] Security authorities called on citizens and residents to report any
+information about drug smuggling or promotion. [@1,5,9] The published tip lines were
 911 in Mecca, Medina, Riyadh and the Eastern Province, 999 and 994 in other
 regions, and 995 for the General Directorate of Narcotics Control. [@1,5]
