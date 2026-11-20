@@ -50,6 +50,11 @@ sources:
     url: https://today.rtl.lu/news/luxembourg/customs-check-uncovers-a-tonne-of-hash-and-126kg-of-marijuana-in-lorry-cargo-2292341
     publisher: RTL Today
     date: 2025-04-07
+  - title: Les douanes découvrent une énorme quantité de drogues dans un camion au Luxembourg
+    url: https://actu.fr/faits-divers/les-douanes-decouvrent-une-enorme-quantite-de-drogues-dans-un-camion-au-luxembourg_62513751.html
+    publisher: actu.fr
+    date: 2025-04-15
+    language: fr
 media:
   - kind: photo
     url: https://www.luxtimes.lu/luxembourg/luxembourg-customs-officials-seize-over-a-tonne-of-hashish/53554064.html
@@ -81,19 +86,24 @@ media:
     media_url: https://static-prod.rtl.lu/dims4/default/dc4fb06/2147483647/strip/true/crop/1920x1920+0+0/resize/1572x1572!/quality/90/?url=https%3A%2F%2Frtl-luxembourg-new-production-web.s3.eu-central-1.amazonaws.com%2Fbrightspot%2F94%2F88%2F16322b594c7b0e7f06f5dae69ced%2Fa87027d7a614f14f98164da7e46ca76f.jpeg
     publisher: RTL Today
     caption: 'Customs photograph of the lorry operation released with the seizure announcement. Photo: Administration des douanes et accises'
+  - kind: photo
+    url: https://actu.fr/faits-divers/les-douanes-decouvrent-une-enorme-quantite-de-drogues-dans-un-camion-au-luxembourg_62513751.html
+    media_url: https://static.actu.fr/uploads/2025/04/drogues-douanes-luxembourg-640x427.jpg
+    publisher: actu.fr
+    caption: 'Customs photograph of the more than one tonne of hashish and almost 130 kg of marijuana discovered in a lorry in Luxembourg. Photo: Administration des douanes et accises'
 ---
 
 The Luxembourg Administration of Customs and Excise stopped a truck in a
 roadside check and found 1,065 kg of hashish and 126 kg of marijuana inside.
-[@1,2,3,4] Pictures released by customs show that a scanner was used to examine the lorry cargo, which led to the swift discovery of the illegal goods. [@4] The agency announced the find on 7 April 2025, calling it the largest
+[@1,2,3,4,5] Pictures released by customs show that a scanner was used to examine the lorry cargo, which led to the swift discovery of the illegal goods. [@4] The agency announced the find on 7 April 2025, calling it the largest
 drug seizure in the country in recent years. [@1] The stop itself took place
 the previous week. [@1,2]
 
 ## Driver before the judge
 
 The 35-year-old lorry driver was arrested on the orders of the Luxembourg
-prosecutor's office. [@1,2,4] He was brought before an investigating judge and
-taken into custody while the investigation continues. [@1,4] The examining magistrate ordered further investigations into the case. [@4]
+prosecutor's office. [@1,2,4,5] He was brought before an investigating judge and
+taken into custody while the investigation continues. [@1,4,5] The examining magistrate ordered further investigations into the case. [@4]
 
 The haul dwarfs previous Luxembourg seizures: customs seized 403 kg of hashish
 and 73 kg of cannabis herb in the whole of 2023, itself then a record, and only
