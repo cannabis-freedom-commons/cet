@@ -90,24 +90,29 @@ sources:
     publisher: News.ro
     date: 2026-11-19
     language: ro
+  - title: Captură importantă de droguri în București. 50 de kilograme de cocaină și 2,5 kilograme de canabis, ascunse în podeaua unei mașini și în camere de hotel
+    url: https://www.aktual24.ro/captura-importanta-de-droguri-in-bucuresti-50-de-kilograme-de-cocaina-si-25-kilograme-de-canabis-ascunse-in-podeaua-unei-masini-si-in-camere-de-hotel/
+    publisher: Aktual24
+    date: 2026-11-19
+    language: ro
 ---
 
 DIICOT prosecutors in Bucharest detained two men, aged 22 and 33, on 19 November
-2026 on suspicion of risk and high-risk drug trafficking. [@1,2,3,4,5,6] The pair had been
+2026 on suspicion of risk and high-risk drug trafficking. [@1,2,3,4,5,6,7] The pair had been
 caught in flagrante in the Romanian capital the previous day, 18 November, while
 carrying 30 bags of cocaine and seven bags containing cannabis in the car they
-were travelling in. [@1,2,3,4,5,6] Half of the quantity was hidden in a car parked in the car park of a shopping centre. [@2]
+were travelling in. [@1,2,3,4,5,6,7] Half of the quantity was hidden in a car parked in the car park of a shopping centre. [@2]
 
 Most of the packages were hidden in a purpose-built compartment in the car
-floor, closed by an electronic locking system operated by a card. [@1,2,4,5,6] Officers
+floor, closed by an electronic locking system operated by a card. [@1,2,4,5,6,7] Officers
 later searched hotel rooms the men had rented and seized a further 17 packages
-of cocaine. [@1,2,4,5,6] Investigators carried out five searches in the hotel rooms rented by the two men. [@5] The total amount taken out of circulation was 50 kilograms of
-cocaine and 2.5 kilograms of cannabis, according to DIICOT. [@1,2,3,4,5,6] DIICOT put the value of the total seizure at about 5 million euros. [@2]
+of cocaine. [@1,2,4,5,6,7] Investigators carried out five searches in the hotel rooms rented by the two men. [@5,7] The total amount taken out of circulation was 50 kilograms of
+cocaine and 2.5 kilograms of cannabis, according to DIICOT. [@1,2,3,4,5,6,7] DIICOT put the value of the total seizure at about 5 million euros. [@2]
 
 On Thursday 19 November a judge for rights and freedoms at the Bucharest
 Tribunal was asked to order 30 days of preventive arrest for the two defendants.
-[@1,2,3,4,5,6] The judicial activity was carried out together with police from the
-Directorate for Combating Organised Crime. [@1,4] It was supported by traffic
+[@1,2,3,4,5,6,7] The judicial activity was carried out together with police from the
+Directorate for Combating Organised Crime. [@1,4,7] It was supported by traffic
 police from the Bucharest General Police Directorate and by gendarmes from the
 Gendarmerie's Special Intervention Brigade and the Bucharest Gendarmerie General
-Directorate. [@1]
+Directorate. [@1,7]
