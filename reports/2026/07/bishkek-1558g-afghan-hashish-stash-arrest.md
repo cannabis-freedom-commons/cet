@@ -40,25 +40,29 @@ sources:
     url: https://24.kg/english/380419_Drug_dealer_detained_in_Bishkek_with_Afghan_hashish/
     publisher: 24.KG
     date: 2026-07-02
+  - title: В Бишкеке задержан закладчик с 1,5 кг афганского гашиша
+    url: https://open.kg/news/incidents/107406-v-bishkeke-zaderzhan-zakladchik-s-15-kg-afganskogo-gashisha.html
+    publisher: open.kg
+    date: 2026-07-02
+    language: ru
 open_questions:
-  - The article first calls the detainee 19 and then calls the detainee 20; the report uses 19 for the detention and notes the second figure.
-  - The article gives no separate date for the detention; 2 July 2026 is its publication date and is used as the incident date.
-  - No forensic result, weight verification, value estimate or detention measure was reported beyond the seizure and the opened case.
-  - The article mentions a separate narcotics seizure from a citizen in Osh region during the same operation; that is a different event left out here.
-  - The account rests on a single opened source reproducing the Interior Ministry statement, with no independent second account found.
+    - The article first calls the detainee 19 and then calls the detainee 20; the report uses 19 for the detention and notes the second figure.
+    - The article gives no separate date for the detention; 2 July 2026 is its publication date and is used as the incident date.
+    - No forensic result, weight verification, value estimate or detention measure was reported beyond the seizure and the opened case.
+    - The article mentions a separate narcotics seizure from a citizen in Osh region during the same operation; that is a different event left out here.
+    - Two accounts have now been opened, but both reproduce the Interior Ministry press-service statement, so there is still no independent reporting; the detainee's age (19, then 20) and the Canal-Yantarny Bereg operation name appear only in the 24.kg account, not in the open.kg article.
 ---
 
 Officers from Kyrgyzstan's Drug Control Service detained a 19-year-old resident
 in Bishkek as part of the Canal-Yantarny Bereg anti-drug operation. [@1] He was
-suspected of distributing drugs through stashes in Bishkek. [@1] During the
+suspected of distributing drugs through stashes in Bishkek. [@1,2] During the
 investigation the detainee, described as aged 20, pointed officers to previously
 prepared stashes. [@1]
 
 Officers seized a total of 1,558 grams of Afghan hashish from those stashes.
-[@1] A criminal case was opened under Article 282 of Kyrgyzstan's Criminal Code,
-covering illegal production of narcotic drugs for the purpose of sale. [@1] The
-seized substance was sent for forensic chemical analysis. [@1]
+[@1,2] A criminal case was opened under Article 282 of Kyrgyzstan's Criminal Code,
+covering illegal production of narcotic drugs for the purpose of sale. [@1,2] The
+seized substance was sent for forensic chemical analysis. [@1,2]
 
 The ministry said investigative and operational-search measures were continuing
-to identify other people who may be involved. [@1]
-
+to identify other people who may be involved. [@1,2]
