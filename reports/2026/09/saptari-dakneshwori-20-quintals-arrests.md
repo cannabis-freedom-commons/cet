@@ -40,19 +40,23 @@ sources:
     url: https://english.ratopati.com/story/80001/1400-kg-of-marijuana-seized-from-saptari
     publisher: Ratopati
     date: 2026-09-20
+  - title: 2,000 kg of suspected marijuana seized in Saptari
+    url: https://thehimalayantimes.com/nepal/2000-kg-of-suspected-marijuana-seized-in-saptari
+    publisher: The Himalayan Times
+    date: 2026-09-20
 open_questions:
     - The report does not name the two people arrested or say whether they are the two homeowners, and no charges or court outcome are given.
     - The article's only photo is a generic arrest image from January 2025, so no event photo is recorded.
-    - 'Accounts of the Dakneshwori-6 search differ: one gives about 1400 kg in 56 sacks from Sada''s house and one person held, another 20 quintals in total from two houses and two arrests.'
-    - Accounts also differ on the timing and trigger of the search, describing either a 1:45 AM joint-team search after a special tip or a morning regular patrol.
+    - Accounts of the Dakneshwori-6 search differ on the per-house breakdown and total, giving about 1,400 kg in 56 sacks from one house with one person held, 56 plus 64 sacks totalling 20 quintals with two arrests, or 56 plus eight packets totalling 64 packets and an estimated 2,000 kg with two men held.
+    - Accounts differ on the timing and trigger of the search, describing a 1:45 AM joint-team search after a special tip, a morning regular patrol, or acting on a tip-off.
 ---
 
 A police team mobilised from the District Police Office in Saptari reached
 the homes of Bhola Sada and Mangal Mukhiya in Phattepur of Dakneshwori
-Municipality-6 on Sunday morning during a regular patrol. [@1,2] Officers
+Municipality-6 on Sunday morning during a regular patrol. [@1,2,3] Officers
 recovered 56 sacks of marijuana from Sada's home and 64 sacks from Mukhiya's
-home, a total of 20 quintals. [@1,2]
+home, a total of 20 quintals. [@1,2,3]
 
 Two people were arrested along with the drugs, according to the central
-police newsroom account carried by the outlet. [@1] The report gives no
+police newsroom account carried by the outlet. [@1,3] The report gives no
 charges, no court outcome, and no destination for the consignment. [@1] Police suspected the marijuana was being smuggled to India because the village is near the border. [@2]
