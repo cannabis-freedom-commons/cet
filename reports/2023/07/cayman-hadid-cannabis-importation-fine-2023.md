@@ -58,27 +58,30 @@ sources:
     url: https://www.latimes.com/entertainment-arts/story/2023-07-18/gigi-hadid-cayman-islands-marijuana-arrest-cannabis
     publisher: Los Angeles Times
     date: 2023-07-18
+  - title: Gigi Hadid Arrested and Pleads Guilty for Marijuana Possession in Cayman Islands, Fined $1,000
+    url: https://people.com/gigi-hadid-arrested-for-marijuana-possession-7562383
+    publisher: People.com
+    date: 2023-07-18
+    language: en
 open_questions:
-  - No weight or street value was published for the marijuana; the agency described it only as a small amount, seemingly for personal consumption.
-  - The BBC does not name the airport or terminal where the private jet arrived, so the place is given at island level.
-  - The fine was 1,000 Cayman Islands dollars, which the BBC equates with $1,200 and £920; the structured figure records the local currency amount.
-  - The case was not reported until 19 July 2023, eight days after the arrival and the court appearance.
-  - Only one opened source, the BBC page, covers this event; local Cayman accounts were not accessible.
+    - No weight or street value was published for the marijuana; the agency described it only as a small amount, seemingly for personal consumption.
+    - The fine was 1,000 Cayman Islands dollars, which the BBC equates with $1,200 and £920; the structured figure records the local currency amount, while People.com reported it simply as $1,000.
+    - The case was first reported on 18 July 2023, about a week after the arrival and court appearance.
 ---
 
 American model Gigi Hadid, 28, and her friend Leah McCarthy were detained in the
 Cayman Islands after their luggage was searched when they arrived on a private
-jet for a holiday on 10 July 2023. [@1,2,3] The Cayman Islands Customs and Border
+jet for a holiday on 10 July 2023. [@1,2,3,4] The other woman was identified as Leah Nicole McCarthy, another member of Hadid's group. [@4] They arrived at Owen Roberts International Airport in George Town, where Customs and Border Control officers put their bags through a scanner and searched them by hand. [@4] The Cayman Islands Customs and Border
 Control said the two were arrested for "the importation of marijuana and
-importation of utensils used for the consumption of marijuana". [@1,2,3] The agency
-said it was a small amount, seemingly for personal consumption. [@1,2]
+importation of utensils used for the consumption of marijuana". [@1,2,3,4] The agency
+said it was a small amount, seemingly for personal consumption. [@1,2,4]
 
 They were taken to a detention centre and released on bail, the local newspaper
-Cayman Marl Road reported. [@1] The pair appeared in the Cayman Islands summary
+Cayman Marl Road reported. [@1,4] The pair appeared in the Cayman Islands summary
 court two days later, where they were fined 1,000 Cayman Islands dollars
-($1,200; £920). [@1] They pleaded guilty in court and paid the fine, but no
-conviction was recorded. [@1,2,3]
+($1,200; £920). [@1,4] The courts confirmed the two were arraigned in George Town, but did not specify the charges. [@4] They pleaded guilty in court and paid the fine, but no
+conviction was recorded. [@1,2,3,4]
 
 Hadid's representative said the marijuana was purchased legally in New York
 "with a medical license", and that medical use has also been legal in Grand
-Cayman since 2017. [@1,2]
+Cayman since 2017. [@1,2,4]
