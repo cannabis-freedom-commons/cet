@@ -52,36 +52,41 @@ sources:
     publisher: Studio Kalangou
     date: 2018-06-22
     language: fr
+  - title: 'Niger: 3 tonnes de résine de cannabis saisies, un réseau de trafiquants démantelé'
+    url: http://news.aniamey.com/h/86113.html
+    publisher: aniamey.com
+    date: 2018-06-18
+    language: fr
 open_questions:
-  - The exact raid day is not separated from its press presentation; 15 June 2018 is used because BBC dates the interception to Friday before its 16 June publication.
-  - The seizure totalled three tonnes but the later incineration burned two and a half tonnes, leaving half a tonne unexplained, so only the seized three tonnes are recorded in figures.
-  - The twelve suspects are identified only by nationality with no names published.
-  - No charges, trial or court outcome beyond jailing were reported in the opened sources.
-  - Intelligence about ten tonnes entering Niamey and seven tonnes possibly still in the country or across borders is an unrecovered estimate, not a seizure, and is excluded from figures.
+    - The exact raid day is not separated from its press presentation; 15 June 2018 is used because BBC dates the interception to Friday before its 16 June publication.
+    - The seizure totalled three tonnes but the later incineration burned two and a half tonnes, leaving half a tonne unexplained, so only the seized three tonnes are recorded in figures.
+    - The twelve suspects are identified only by nationality with no names published.
+    - No charges, trial or court outcome beyond jailing were reported in the opened sources.
+    - Intelligence about ten tonnes entering Niamey and seven tonnes possibly still in the country or across borders is an unrecovered estimate, not a seizure, and is excluded from figures.
+    - The new account converts the three-billion-CFA-franc valuation to about 4,750,000 euros, while the report gives 4.5 million euros.
 ---
 
 Twelve people, including Nigeriens, Malians, Moroccans and Algerians, were
-arrested over the trafficking and jailed in the capital's prison. [@1] BBC
+arrested over the trafficking and jailed in the capital's prison. [@1,4] BBC
 corroborated that twelve people involved in the trafficking were arrested,
 naming Nigerien, Malian, Moroccan and Algerian nationalities. [@2] The detainees
 were held in the Koutoukale high-security prison in the capital. [@3]
 
-Police intercepted three tonnes of cannabis resin on Friday in Niamey. [@2]
+Police intercepted three tonnes of cannabis resin on Friday in Niamey. [@2,4]
 Authorities called it a record seizure of resin probably arriving from the
 Maghreb. [@1] Interior Minister Mohamed Bazoum presented the haul to the press
 and valued the three tonnes at three billion CFA francs (4.5 million euros).
-[@1] The drug was concealed in fruit and vegetable crates. [@1] Officers seized
+[@1,4] The haul was presented to the press in the drug-conditioning workshop in Niamey 2000 near the airport, before European and Maghreb diplomats. [@4] The drug was concealed in fruit and vegetable crates. [@1] Officers seized
 it in an assault on a garage of more than 3,000 square metres in the Niamey 2000
-district after surveillance by the central anti-drug office OCRTIS. [@3]
+district after surveillance by the central anti-drug office OCRTIS. [@3] Eight weeks of intense surveillance led to the arrests, as the traffickers were preparing to export the resin to Europe via the Maghreb. [@4]
 Intelligence services had learned since April that ten tonnes of cannabis had
 entered Niamey, but officers recovered only the three tonnes. [@1] Bazoum said
 the other seven tonnes were perhaps still on national territory or had already
 crossed the borders. [@1] Police said part of the resin was sold locally while
 most was camouflaged in cattle-feed bags for re-export to regional markets. [@1]
 
-Authorities described it as the first record drug seizure in Niger. [@3] On the
+Authorities described it as the first record drug seizure in Niger. [@3,4] On the
 morning of 22 June, authorities incinerated two and a half tonnes of the resin
 at the eastern exit of Niamey. [@3] Prosecutor Samna Chaibou said the burning
 was brought forward before the 26 June anti-drug day for security and health
 reasons, leaving the case to continue in court. [@3]
-
