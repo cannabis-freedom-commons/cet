@@ -35,17 +35,6 @@ data_sources:
     figures.charged: [1]
 status: verified
 tags: [krabi, foreign-business-act, cannazon]
-open_questions:
-  - No cannabis weight was published for this January search; a later March 2026 raid at the same company seized extracts separately.
-  - No photographs of the January raid were recovered from the opened articles.
-  - The Israeli owner's name is given as Mose Yamin in the Thai-based English accounts and only as M. in Ynetnews.
-  - Ynetnews and Khaosod English name different people as Krabi governor for the raid, and Ynetnews calls the provincial police chief Sukhsom Nakhonwilai while Khaosod and Thai PBS name Sukasem Nakornwilai.
-  - The DBD accounts give the post-restructuring foreign share as 59% in The Nation and Thai PBS and 59:41 in the Phuket Express reprint, while Khaosod and Ynetnews describe a 49:51 structure; the discrepancy is not explained by the sources.
-  - The Nation describes financial records it dates to 2026 while Thai PBS cites the 2567 (2024) accounts for the revenue and profit figures.
-  - Ynetnews reports that four additional Thais acting as front owners were still being sought at publication, but The Nation and Thai PBS say four were arrested on the raid day; the report cannot reconcile the two counts.
-  - No figure for the number of plants, the weight of cannabis or extracts, or a value estimate was published for this raid.
-  - No plea, charge sheet or court dates were published for the four arrested Thais or for the Israeli owner.
-  - The Ynetnews gallery pictures are credited only to Krabi Police and their captions only repeat the headline, so the pictures are listed as raid photos without confirming which room each shows.
 sources:
   - title: Krabi raids Israeli-run cannabis farm using Thai nominees
     url: https://www.khaosodenglish.com/news/2026/01/21/krabi-raids-israeli-run-cannabis-farm-using-thai-nominees/
@@ -74,6 +63,10 @@ sources:
     url: https://www.jpost.com/international/article-884360
     publisher: The Jerusalem Post
     date: 2026-01-24
+  - title: Israeli arrested at pot farm
+    url: https://www.bangkokpost.com/thailand/general/3180438/israeli-arrested-at-pot-farm
+    publisher: Bangkok Post
+    date: 2026-01-22
 media:
   - kind: photo
     url: https://www.ynetnews.com/article/rjzpct1l11g
@@ -103,7 +96,7 @@ Cannazon Co. Ltd. in Sai Thai, Mueang Krabi district, under Krabi Provincial Cou
 
 They detained the owner, Israeli national Mose Yamin, whom authorities accused of using Thai
 nominee shareholders to conceal foreign control of a restricted business under Thailand's Foreign
-Business Act. [@1,2,6]
+Business Act. [@1,2,6,7]
 
 Inside they found an indoor cannabis facility with controlled irrigation, lighting and temperature,
 processing equipment, alleged online sales and tourist visits, on-site consumption and cannabis
