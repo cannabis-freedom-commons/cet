@@ -75,23 +75,22 @@ sources:
     publisher: Diario del Sur
     date: 2026-11-19
     language: es
-open_questions:
-  - No separate date for the operation was given; 18 November 2026 is the publication date of the report and is used as the incident date.
-  - The weight is given as more than 310 kilograms rather than an exact measured figure.
-  - The link to the Franco Benavides residual armed group and the Ecuador destination were described as preliminary hypotheses under investigation.
-  - No court outcome or further judicial step was reported; the detainee was handed to the competent authority.
-  - Both accounts draw on the Nariño police statement credited by Nariño Hoy, so they are not independent reporting.
+  - title: Incautan más de 310 kilos de marihuana durante operativo en El Tambo, Nariño
+    url: https://www.diariodelsur.com.co/noticias/incautan-mas-de-310-kilos-de-marihuana-durante-operativo-en-el-tambo-narino
+    publisher: Diario del Sur
+    date: 2026-11-19
+    language: es
 ---
 
 Police in El Tambo, Nariño, carried out registration, control and verification
-checks on the main road linking El Tambo and Sandoná. [@1,3,4,5] They inspected a
+checks on the main road linking El Tambo and Sandoná. [@1,3,4,5,6] They inspected a
 private vehicle, found a marijuana cargo inside and arrested a man caught in the
 act, seizing the vehicle used to carry it. [@1,3,4,5] The Nariño police said one man
 was captured in the act and the vehicle transporting the load was immobilised.
 [@2]
 
 The load amounted to more than 310 kilograms of marijuana and was believed to be
-headed for Ecuador. [@1,3,4,5] The operation was carried out by officers of El Tambo's
+headed for Ecuador. [@1,3,4,5,6] The operation was carried out by officers of El Tambo's
 community- and territory-oriented police service, supported by the criminal
 investigation section of the Nariño police department. [@1,4]
 
