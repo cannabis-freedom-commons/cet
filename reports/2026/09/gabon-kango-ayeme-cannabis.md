@@ -49,6 +49,11 @@ sources:
     publisher: "L'Union"
     date: 2026-09-15
     language: fr
+  - title: 'Kango : 3 hectares de cannabis découverts dans une plantation clandestine'
+    url: https://gabonactu.com/blog/2026/09/11/kango-3-hectares-de-cannabis-decouverts-dans-une-plantation-clandestine/
+    publisher: Gabon Actu
+    date: 2026-09-11
+    language: fr
 media:
   - kind: photo
     url: https://agpgabon.ga/gabon-une-plantation-de-cannabis-de-300-m%c2%b2-demantelee-a-ayeme-bokoue/
@@ -60,22 +65,16 @@ media:
     media_url: https://www.union.sonapresse.com/sites/default/files/articles/Champ_Cannabis_Gabon_LUnion.webp
     publisher: "L'Union"
     caption: Illustration published with L'Union's report on the Kango-area eradication.
-open_questions:
-  - Some online outlets described the same plot as about three hectares; AGP and L'Union both put it at roughly 300 square metres and those figures are used here.
-  - Neither account gives a count of individual plants, only that several plants were mixed with banana and tobacco.
-  - L'Union identified the suspect only as R.B.T.; AGP did not publish his name.
-  - The suspect said the crop was for personal use; both reports note a prior conviction for reselling cannabis.
-  - The map uses Kango; Ayeme-Bokoue lies about 12 kilometres away in wooded country.
 ---
 
 On Friday 11 September 2026 gendarmes from the Kango road-traffic brigade dismantled a
 clandestine cannabis plantation at Ayeme-Bokoue village, about 12 kilometres from Kango in
-Estuaire province, Gabon's official press agency reported. [@1]
+Estuaire province, Gabon's official press agency reported. [@1,3]
 
 The Agence Gabonaise de Presse (AGP) said the plot hidden in woodland covered about 300
 square metres and held several cannabis plants among banana and tobacco. [@1] Officers
 arrested a 51-year-old man already known to the courts for similar offences; AGP said he
-claimed the plants were for his own use but admitted past sales. [@1]
+claimed the plants were for his own use but admitted past sales. [@1,3]
 
 L'Union reported the same operation, saying gendarmes seized and destroyed the harvest under
 standard procedures and that the suspect, identified only as R.B.T., faced possible
