@@ -49,19 +49,18 @@ sources:
     publisher: Gabonreview.com
     date: 2022-02-09
     language: fr
-open_questions:
-  - The reported one tonne is a round total with no laboratory weight, so 1,000 kg is the stated quantity.
-  - The 4 February 2022 arrest date comes from reports published on 9 and 10 February 2022.
-  - No trial date, charge sheet or court outcome beyond remand in preventive detention was published.
-  - The stated Libreville recipient is the suspects' account to police and remains unverified.
-  - Only French-language accounts of this event could be opened.
+  - title: Un congolais arrêté avec une tonne de cannabis au Gabon
+    url: https://www.journaldebrazza.com/https-www-journaldebrazza-com-wp-admin-post-phppost197468actionedit/
+    publisher: Journal de Brazza
+    date: 2022-02-10
+    language: fr
 ---
 
 Anti-drug police arrested Congolese national Jonathan Alandji at Franceville,
 Gabon, on 4 February 2022 with a tonne of cannabis resin he was preparing to
-send by train to Libreville. [@1] Alandji was arrested with Gabonese national
+send by train to Libreville. [@1,3] Alandji was arrested with Gabonese national
 Brel Tango, alias Kane, for allegedly trying to convey a tonne of cannabis resin
-to Libreville. [@1] After their arrest at Léconi, the two suspected traffickers
+to Libreville. [@1,3] After their arrest at Léconi, the two suspected traffickers
 were placed in preventive detention at the Franceville jail to await their
 hearing before a judge. [@2]
 
@@ -71,13 +70,12 @@ describes the seizure as five manioc-flour sacks concealing five cannabis
 packets with a combined weight of one tonne and bound for Libreville. [@2] The
 parcels, already packed for travel by train, were seized in the Mamadou district
 of Franceville after information was passed to the town’s anti-drug brigade.
-[@1] Police put the market value of the one-tonne load at 15 million FCFA. [@2]
+[@1,3] Police put the market value of the one-tonne load at 15 million FCFA. [@2]
 
 The two men were arrested at Léconi as they were preparing to withdraw toward
-Congo. [@1] The Gabonese suspect admitted responsibility and said it was his
+Congo. [@1,3] The Gabonese suspect admitted responsibility and said it was his
 sixth such load, while the Congolese suspect denied the allegations and said he
 was implicated only because the first accused lodged at his home. [@2] The pair
 told officers that the load seized in Mamadou was intended for a woman named
 Véronique Mpinga in Libreville, and they remained in the Haut-Ogooué capital’s
 central prison awaiting trial. [@2]
-
