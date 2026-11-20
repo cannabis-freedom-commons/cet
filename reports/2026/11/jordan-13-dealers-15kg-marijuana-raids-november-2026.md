@@ -120,6 +120,11 @@ sources:
     url: https://www.jordannews.jo/Section-109/News/Jordanian-Police-Arrest-13-Drug-Traffickers-in-Raids-59132
     publisher: Jordan News
     date: 2026-11-19
+  - title: مكافحة المخدرات تطيح ب 13 تاجراً للمخدرات بمداهمات في مختلف مناطق المملكة وتضبط بحوزتهم كمّيات كبيرة من المواد المخدرة القاتلة
+    url: https://nabaajordan.com/articles/514108
+    publisher: نبأ الأردن
+    date: 2026-11-19
+    language: ar
 media:
   - kind: photo
     url: https://petra.gov.jo/en/news/anti-narcotics-department-takes-down-13-drug-dealers-in-multi-area-operations
@@ -130,13 +135,13 @@ media:
 
 Jordan’s Anti-Narcotics Department officers toppled 13 drug dealers while
 handling a number of trafficking cases over the previous few days, the Public
-Security Directorate spokesperson said. [@1,4,5,6,8,9,10,11,12,13,14,15,16,17] The spokesperson said all of the
+Security Directorate spokesperson said. [@1,4,5,6,8,9,10,11,12,13,14,15,16,17,18] The spokesperson said all of the
 cases involved trafficking, including four cases in the Capital Governorate.
 [@2,4,6,8,9,10,12,16,17]
 
 In the largest capital case officers raided and arrested three dealers and
 seized 15 kilograms of marijuana, five slabs of hashish and 250 grams of crystal
-methamphetamine from them. [@2,4,5,7,8,9,10,11,13,14,15,16,17] In a second capital case officers raided another
+methamphetamine from them. [@2,4,5,7,8,9,10,11,13,14,15,16,17,18] In a second capital case officers raided another
 dealer inside his vehicle while he was moving drugs for sale and seized 24 slabs
 of hashish from him. [@3,4,6,8,10,16] In a third capital case officers raided two dealers
 inside a vehicle and seized six slabs of hashish from them. [@2,4,8,10,16] In the last
@@ -149,6 +154,6 @@ intercepting their vehicle while the other fled and remains sought, and found
 raided a vehicle carrying three people heading for the capital, arrested all
 three and found one kilogram of crystal methamphetamine and two firearms inside.
 [@1,4,6,8,10,12,14,15,16] In Ma’an officers raided a drug dealer and seized 22 slabs of hashish from
-him. [@3,4,6,8,9,10,11,13,14,15,16] In the Southern Jordan Valley officers located and raided a dangerous
+him. [@3,4,6,8,9,10,11,13,14,15,16,18] In the Southern Jordan Valley officers located and raided a dangerous
 fugitive wanted for cooperation with regional drug-smuggling and trafficking
 networks and arrested him. [@3,4,8,10,12,15,16]
