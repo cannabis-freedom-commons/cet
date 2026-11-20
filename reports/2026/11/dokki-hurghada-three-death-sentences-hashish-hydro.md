@@ -108,6 +108,11 @@ sources:
     publisher: فيتو (Veto)
     date: 2026-11-17
     language: ar
+  - title: الإعدام لثلاثة متهمين بقضية «المخدرات» - الأهرام اليومي
+    url: https://www.ahram.org.eg/Daily/News/205777/38/1036224/%D8%AD%D9%88%D8%A7%D8%AF%D8%AB/%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A9-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D9%82%D8%B6%D9%8A%D8%A9-%C2%AB%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA%C2%BB.aspx
+    publisher: الأهرام اليومي
+    date: 2026-11-20
+    language: ar
 media:
   - kind: photo
     url: https://www.vetogate.com/5772355
@@ -121,8 +126,8 @@ open_questions:
 ---
 
 The Giza Criminal Court unanimously sentenced the three defendants to death by
-hanging. [@1,4,7,8,9,10,11,12,13] The court issued the ruling after receiving the religious opinion
-of the Mufti in the case. [@1,4,6,7,9,10,11,12,13] Presiding judge Abdel Aziz Mohamed Habib issued
+hanging. [@1,4,7,8,9,10,11,12,13,14] The court issued the ruling after receiving the religious opinion
+of the Mufti in the case. [@1,4,6,7,9,10,11,12,13,14] Presiding judge Abdel Aziz Mohamed Habib issued
 the ruling in case 12411 of 2025 for Dokki felonies. [@1,5,7,8] The case was also registered as 7337 of 2025 in the kulli register. [@10] The verdict was issued by Circuit 33 of the Giza Criminal Court. [@8] The three defendants
 were identified as Hussein A., a contractor, Mahmoud E., a contractor, and
 Shazly A., a worker. [@2,4,5,9,11,12,13]
@@ -132,9 +137,9 @@ Hurghada in the Red Sea, the men formed a gang led by the first defendant to
 trade and promote narcotic drugs. [@1,5,8,9,12,13] They were convicted of possessing hashish
 and hydro cannabis plant with intent to traffic. [@1,5,6,8,9,11,12] When the first two defendants were arrested, the first had three mobile phones and 5,000 Egyptian pounds and the second a phone and 3,000 pounds. [@5,6,8,9,11,12] Searching the first
 defendant's car, forces found eight plastic sacks containing 1,154 slabs of
-hashish, a 12mm shotgun and seven live rounds. [@1,4,5,6,7,8,9,10,11,12] Prosecutors said the shotgun and ammunition were held without a licence to protect the gang's drug trade. [@12,13] The forensic laboratory found the seized shotgun complete, intact and fit for use, and the seven rounds compatible with it. [@10,11] The car also held 50,000 Egyptian pounds that investigators described as proceeds of sale. [@5,8,9,11,12] Searching the car the third
+hashish, a 12mm shotgun and seven live rounds. [@1,4,5,6,7,8,9,10,11,12,14] Prosecutors said the shotgun and ammunition were held without a licence to protect the gang's drug trade. [@12,13] The forensic laboratory found the seized shotgun complete, intact and fit for use, and the seven rounds compatible with it. [@10,11] The car also held 50,000 Egyptian pounds that investigators described as proceeds of sale. [@5,8,9,11,12] Searching the car the third
 defendant was using, forces found 12 plastic sacks with 1,054 large pieces of
-hashish and 50 sacks of hydro cannabis plant. [@1,4,5,6,7,8,9,10,11,12] The third defendant had two mobile phones and 1,500 Egyptian pounds when he was arrested. [@5,8,9,11,12]
+hashish and 50 sacks of hydro cannabis plant. [@1,4,5,6,7,8,9,10,11,12,14] The third defendant had two mobile phones and 1,500 Egyptian pounds when he was arrested. [@5,8,9,11,12]
 
 The chemical laboratory report confirmed the brown substance was scheduled
 hashish and the dry green plant parts were narcotic cannabis plant. [@1,6,8,9,11,12]
