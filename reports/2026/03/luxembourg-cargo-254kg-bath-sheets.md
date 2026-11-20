@@ -74,6 +74,11 @@ sources:
     publisher: L'Avenir
     date: 2026-04-03
     language: fr
+  - title: Un quart de tonne de cannabis découvert à l'aéroport de Luxembourg
+    url: https://www.lesfrontaliers.lu/detente/un-quart-de-tonne-de-cannabis-decouvert-a-laeroport-de-luxembourg/
+    publisher: Les Frontaliers
+    date: 2026-04-04
+    language: fr
 media:
   - kind: photo
     url: https://www.luxtimes.lu/luxembourg/why-luxembourg-airport-is-increasingly-becoming-a-hub-for-drug-smugglers/145125496.html
@@ -83,13 +88,13 @@ media:
 ---
 
 On 6 March 2026 customs officers at Luxembourg-Findel’s Cargo Center inspected
-air freight that had arrived from the United States and was bound for France. [@1,2,3,4,5,7]
+air freight that had arrived from the United States and was bound for France. [@1,2,3,4,5,7,8]
 The cargo was declared as bath sheets, but checks raised doubts about the
-contents. [@1,2,4]
+contents. [@1,2,4,8]
 
-Opening the shipment, agents seized 253.77 kilograms of cannabis. [@1,2,3,4] The
+Opening the shipment, agents seized 253.77 kilograms of cannabis. [@1,2,3,4,8] The
 Luxembourg prosecutor’s office said that, using an average illicit-market price
-per kilo, the drugs were worth about €1.5 million. [@1,2,3,4,7] A seizure record was
+per kilo, the drugs were worth about €1.5 million. [@1,2,3,4,7,8] A seizure record was
 sent to the prosecutor, which described the false textile declaration and
 packaging as deliberate evasion of customs controls. [@1,2,4,7]
 
@@ -97,4 +102,4 @@ The office announced the case on 3 April 2026, saying it could not comment earli
 because of operational needs, and that it was still deciding how the inquiry
 would proceed. [@1,2,4,7] No arrests were reported. [@1,2]
 
-The public prosecutor's office announced the drug seizure on 3 April and said it could not disclose it earlier “due to certain requirements”, without specifying further details. [@5] The prosecutor's release says the false textile declaration and the packaging showed the deliberate and organised character of the operation and the aim of evading customs controls. [@1] Tageblatt reported that the public prosecutor's office announced the find on Friday 3 April. [@6]
+The public prosecutor's office announced the drug seizure on 3 April and said it could not disclose it earlier “due to certain requirements”, without specifying further details. [@5] The prosecutor's release says the false textile declaration and the packaging showed the deliberate and organised character of the operation and the aim of evading customs controls. [@1,8] Tageblatt reported that the public prosecutor's office announced the find on Friday 3 April. [@6]
