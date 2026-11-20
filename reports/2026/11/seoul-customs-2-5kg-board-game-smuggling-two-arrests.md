@@ -31,40 +31,50 @@ sources:
     publisher: Munhwa Ilbo
     date: 2026-11-20
     language: ko
-open_questions:
-    - No separate arrest date is given, so 20 November 2026, the publication and announcement date, is used as the incident date.
-    - The article reports both smuggling in July and three smugglings from September 2025 to January 2026, and the relationship between the 2.5 kg total and those three acts is unclear.
-    - Only initials and ages were released for the two suspects, and no indictment, plea or court outcome was reported.
-    - The cannabis quantity is stated as a total of 2.5 kg with no breakdown by smuggling act and no value estimate.
+  - title: 불법 고액알바 꼬임에 대마초 5천명분 밀수입…20대들 적발
+    url: https://www.yna.co.kr/view/AKR20261120059600002
+    publisher: 연합뉴스
+    date: 2026-11-20
+    language: ko
 media:
   - kind: photo
     url: https://www.msn.com/ko-kr/%EC%9D%8C%EC%8B%9D-%EB%B0%8F-%EC%9D%8C%EB%A3%8C/%EC%9D%BC%EB%B0%98/%EC%9E%A5%EB%82%9C%EA%B0%90-%EB%B0%B0%EB%8B%AC%ED%95%98%EB%A9%B4-200%EB%A7%8C-%EC%9B%90-%EA%B3%A0%EC%95%A1%EC%95%8C%EB%B0%94-%EC%9C%A0%ED%98%B9%EC%97%90-%EB%8C%80%EB%A7%88%EC%B4%88-%EB%B0%80%EC%88%98%EC%9E%85-20%EB%8C%80-%EA%B2%80%EA%B1%B0/ar-AA2hOJzA
     media_url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hOpbf.img?w=455&h=460&m=4&q=94
     publisher: Hankook Ilbo
     caption: 'X-ray image of a toy concealing cannabis from the Seoul seizure. Photo: Korea Customs Service'
+  - kind: photo
+    url: https://www.yna.co.kr/view/AKR20261120059600002
+    media_url: https://img4.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120059600002_03_i_P4.jpg
+    publisher: 연합뉴스
+    caption: 'Cannabis from the smuggling case, shown as 5,000 people''s worth. Photo: Seoul Customs'
+  - kind: photo
+    url: https://www.yna.co.kr/view/AKR20261120059600002
+    media_url: https://img6.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120059600002_01_i_P4.jpg
+    publisher: 연합뉴스
+    caption: 'Items seized in the case, in a Seoul Customs handout. Photo: Seoul Customs'
 ---
 
 Seoul Main Customs arrested 26-year-olds A and B, who oversaw the crime, for
 allegedly bringing a total of 2.5 kg of cannabis from the United States by air
 express cargo in July, for violating the Narcotics Control Act. [@1,2] B received
 instructions via Telegram from an unidentified upper level, passed them to A and
-directed the crime overall. [@1,3] The pair took part after being offered about 2
+directed the crime overall. [@1,3,4] The pair took part after being offered about 2
 million won in virtual assets such as Bitcoin as illegal high-paying part-time
-work, dividing roles between them. [@1,2]
+work, dividing roles between them. [@1,2,4]
 
 The cannabis was hidden inside toys and board games and disguised as normal
-goods to evade X-ray inspection. [@1,3] After analysing recipient information,
+goods to evade X-ray inspection. [@1,3,4] At the usual 0.5 grams per dose, the customs service said the haul was enough for 5,000 people to use at once. [@4] After analysing recipient information,
 clearance records, X-ray images and past delivery history, customs first
 identified A as having smuggled cannabis three times by the same method from
-September 2025 to January 2026. [@1,2] Customs worked with the post office to
+September 2025 to January 2026. [@1,2,4] The first two parcels passed X-ray screening, but the last was detected because the declaration did not match the X-ray image. [@4] Customs worked with the post office to
 monitor deliveries in real time through controlled delivery and, despite a
 mid-route change of delivery address to evade investigators, tracked the
-suspects and arrested them at the moment the goods were directly received. [@1,2]
+suspects and arrested them at the moment the goods were directly received. [@1,2,4]
 To avoid tracking, A alternately used the left and right units of an
-acquaintance's apartment in Gangwon-do as parcel addresses. [@1,3] From the third
+acquaintance's apartment in Gangwon-do as parcel addresses. [@1,3,4] From the third
 crime, when the drug weight increased, he used an empty house near his workplace
 as the receiving address and intended to distribute the cannabis by burying it
-in remote hills as instructed via Telegram. [@1]
+in remote hills as instructed via Telegram. [@1,4]
 
 Immediately after arrest A tried to destroy evidence by factory-resetting his
 smartphone and strongly denied the charges, but a home search recovered a
@@ -78,4 +88,4 @@ behalf and shifting blame to the accomplice. [@1] The team obtained an arrest
 warrant for B, located him through tracking and stakeout and arrested him
 urgently, and forensics on B's phone proved the trowel found at A's home was
 used to bury cannabis and revealed their joint Telegram chain from smuggling to
-receipt to transport to distribution. [@1]
+receipt to transport to distribution. [@1] Yoon Cheong-woon, head of Seoul Customs' first investigation bureau, warned that more young people were being drawn into drug crimes by the lure of high-paying part-time work. [@4]
