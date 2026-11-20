@@ -51,17 +51,22 @@ sources:
     url: https://www.caribbeannationalweekly.com/posts/jamaican-woman-fined-in-barbados-after-pleading-guilty-to-cannabis-charges
     publisher: Caribbean National Weekly
     date: 2026-06-30
+  - title: Two Jamaican women arrested in Barbados
+    url: https://radiojamaicanewsonline.com/local/two-jamaican-women-arrested-in-barbados
+    publisher: RJR News
+    date: 2026-06-30
+    language: en
 open_questions:
-  - Whether the BDS$21,000 fine was paid or the 12-month prison alternative took effect is unknown.
-  - The interception point and circumstances of the seizure were not stated.
-  - Only one outlet account has been found so far.
-  - The supplied page image caption only repeats the headline, so no event photo confirmed to show the seizure is listed.
+    - Whether the BDS$21,000 fine was paid or the 12-month prison alternative took effect is unknown.
+    - The interception point and circumstances of the seizure were not stated.
+    - The available accounts, including the police statement and its reprints in several outlets, all derive from the Barbados Police Service announcement rather than independent reporting.
+    - The same police announcement also charged 57-year-old Judith Annmarie Brown over a separate 7.30 kg cannabis seizure; her case is not covered here.
 ---
 
-Doreen Veronica King is a 63-year-old Jamaican woman. [@1] Her listed address
-was #2 Wavel Ave, Kingston. [@1] The Barbados Police Service Narcotics Unit
+Doreen Veronica King is a 63-year-old Jamaican woman. [@1,2] Her listed address
+was #2 Wavel Ave, Kingston. [@1,2] The Barbados Police Service Narcotics Unit
 arrested and formally charged her over offences allegedly committed on 27 June
-2026. [@1] She was charged with possession of cannabis, possession with intent
+2026. [@1,2] She was charged with possession of cannabis, possession with intent
 to supply, trafficking and importation of cannabis. [@1] She appeared before
 Magistrate Keitha Ellis in the District 'B' Magistrates Court on 29 June 2026
 and pleaded guilty to the offences. [@1]
@@ -72,4 +77,3 @@ The court fined her BDS$21,000 forthwith. [@1] In default of payment, she faces
 Police said officers seized approximately 11.30 kilograms of suspected cannabis
 in the case. [@1] Police put the estimated street value of the seized cannabis
 at BDS$90,400. [@1]
-
