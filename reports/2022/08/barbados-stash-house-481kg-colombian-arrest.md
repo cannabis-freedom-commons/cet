@@ -42,6 +42,11 @@ media:
     media_url: https://newsday.co.tt/wp-content/uploads/2022/08/20656125.jpg
     publisher: Trinidad and Tobago Newsday
     caption: Seized packages of marijuana from the Barbados stash-house haul. Photo courtesy TTPS.
+  - kind: photo
+    url: http://www.guardian.co.tt/news/72m-in-ganja-seized-in-interisland-drug-bust-6.2.1529175.972dabb1ee
+    media_url: https://www.guardian.co.tt/image-3.3716787.202030.20220806234334.c5f62fb200?size=1024
+    publisher: Trinidad Guardian
+    caption: Marijuana seized in the inter-island bust, published with the Trinidad Guardian report of the raid.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f02dfae3f9537491d1609af16e5059b2
@@ -60,32 +65,30 @@ sources:
     url: https://www.cbc.bb/news/local-news/barbadian-police-confirm-arrest-during-drug-seizure/
     publisher: Caribbean Broadcasting Corporation
     date: 2022-08-08
-open_questions:
-  - The Newsday article places the raid and seizure on July 29, while the TTPS release and the Barbados police confirmation date the stash-house breach to August 2; the report uses August 2.
-  - The Newsday article says the suspects flew to Barbados in late June 2020, while the TTPS release says late June 2022; the report uses 2022.
-  - The exact stash-house location in Barbados, such as a parish or address, was not published.
-  - The arrested Colombian national was not named and no charges or court outcome were published.
-  - The $72,063,420 valuation is stated in Trinidad and Tobago dollars; the $21.2 million Barbadian valuation lacks a spelled-out currency unit, so only the TT-dollar value is recorded in figures.
+  - title: $72m in ganja seized in inter-island drug bust
+    url: http://www.guardian.co.tt/news/72m-in-ganja-seized-in-interisland-drug-bust-6.2.1529175.972dabb1ee
+    publisher: Trinidad Guardian
+    date: 2022-08-07
+    language: en
 ---
 
 Barbadian law enforcement breached a stash house in Barbados on 2 August 2022
-and arrested a Colombian national found there. [@2] The Barbados Police Service
+and arrested a Colombian national found there. [@2,4] The Barbados Police Service
 confirmed that the operation carried out on Tuesday 2 August 2022 resulted in a
 drug seizure and the arrest of a suspect. [@3] The Police Drug Squad carried out
 the operation by executing a search warrant at an establishment. [@3] A male
 suspect was taken into custody in the find, and the Colombian was arrested at
-the house while investigations continued. [@3]
+the house while investigations continued. [@3,4]
 
-Officers seized 481 kilogrammes of marijuana at the stash house. [@1] Police put
+Officers seized 481 kilogrammes of marijuana at the stash house. [@1,4] Police put
 the street value of the 481 kilogrammes at TT$72,063,420, reported as over $72
-million. [@2] The TTPS release also gave the cannabis a Barbadian value of $21.2
+million. [@2,4] The TTPS release also gave the cannabis a Barbadian value of $21.2
 million. [@2]
 
 Trinidad and Tobago intelligence officers had kept a suspected drug trafficker
 based in Central Trinidad with regional and international connections under
-surveillance since June 2020. [@1] The suspect and another man then boarded a
+surveillance since June 2020. [@1,4] The suspect and another man then boarded a
 flight to Barbados in late June 2022, and Trinidad police notified Barbadian law
-enforcement and asked for help. [@2] Police learned that a shipment of drugs
+enforcement and asked for help. [@2,4] Police learned that a shipment of drugs
 from Trinidad and Tobago had landed in Barbados on Friday 29 July 2022 and was
-stored at the stash house before the raid. [@2]
-
+stored at the stash house before the raid. [@2,4]
