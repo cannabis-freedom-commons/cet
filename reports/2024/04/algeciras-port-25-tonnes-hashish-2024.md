@@ -60,23 +60,28 @@ sources:
     publisher: Lurer.com
     date: 2024-04-26
     language: ru
+  - title: Spain seizes 25 tonnes of hashish hidden in truck
+    url: https://macaubusiness.com/spain-seizes-25-tonnes-of-hashish-hidden-in-truck/
+    publisher: Macau Business
+    date: 2024-04-27
+    language: en
 ---
 
 Spain's Customs Surveillance Service and the Civil Guard seized nearly 25,000 kg
-of hashish from a lorry at the port of Algeciras on 26 April 2024. [@1,2,3] The
+of hashish from a lorry at the port of Algeciras on 26 April 2024. [@1,2,3,4] The
 operation was a joint action by the Tax Agency's customs arm and the Civil
 Guard. [@1,2]
 
 The lorry had arrived from Morocco and was documented as carrying melons bound
-for Perpignan in France. [@1,2,3] Officers flagged it in the port's domestic
+for Perpignan in France. [@1,2,3,4] Officers flagged it in the port's domestic
 transport area after a canine-unit officer's drug-detection dog marked it as
-suspicious. [@1,2] Inside the trailer they found 22 wooden compartments packed
+suspicious. [@1,2,4] Inside the trailer they found 22 wooden compartments packed
 with bales of hashish alongside only a small quantity of the declared melons.
-[@1,2]
+[@1,2,4]
 
 The agency said the haul could have fetched about 50 million euros and called
 it the largest seizure of hashish in road transport since a 48-tonne seizure at
-Algeciras in 2015. [@1,2,3]
+Algeciras in 2015. [@1,2,3,4]
 
 The lorry driver was arrested on suspicion of an offence against public health
-and brought before the judicial authorities. [@1,2,3]
+and brought before the judicial authorities. [@1,2,3,4]
