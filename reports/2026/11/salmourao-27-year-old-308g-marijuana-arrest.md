@@ -57,27 +57,31 @@ sources:
     publisher: Ifronteira
     date: 2026-11-19
     language: pt
+  - title: Homem de 27 anos é preso por tráfico com drogas em carro e comércio em Salmourão
+    url: https://sentidohorario.com.br/homem-de-27-anos-e-preso-por-trafico-com-drogas-em-carro-e-comercio-em-salmourao/
+    publisher: Sentido Horário
+    date: 2026-11-19
+    language: pt
 open_questions:
-  - The account rests on a single local outlet reporting information passed on by the Civil Police; no independent account was found.
-  - No value estimate for the marijuana or the other seized substances was published.
-  - No charge sheet, plea or court outcome beyond the flagrante arrest was reported.
-  - The 12.54 grams is a combined figure for crack and cocaine, so no separate cocaine weight is given; the crack, cocaine and dry are excluded from the cannabis figures.
-  - The 40 portions of marijuana found in the car have no stated weight, so they cannot be separated from the 308.68-gram total.
+    - The account rests on two local outlets reporting information passed on by the Civil Police; no independent account was found.
+    - No value estimate for the marijuana or the other seized substances was published.
+    - No charge sheet, plea or court outcome beyond the flagrante arrest was reported.
+    - The 12.54 grams is a combined figure for crack and cocaine, so no separate cocaine weight is given; the crack, cocaine and dry are excluded from the cannabis figures.
+    - The 40 portions of marijuana found in the car have no stated weight, so they cannot be separated from the 308.68-gram total.
 ---
 
 A 27-year-old man was arrested for drug trafficking on Wednesday 18 November
-2026 in Salmourão, São Paulo. [@1] Civil Police said the occurrence was recorded
+2026 in Salmourão, São Paulo. [@1,2] Civil Police said the occurrence was recorded
 around 19:30, when military police on patrol saw a silver car make a sharp turn
 after noticing the approaching patrol car. [@1] Officers stopped the vehicle
 and, during the search, found 40 portions of marijuana along with a knife and
-scissors bearing traces of the same substance. [@1] The man was arrested in
+scissors bearing traces of the same substance. [@1,2] The man was arrested in
 flagrante and remained at the disposal of the courts. [@1]
 
 Police also found other substances at the suspect's commercial establishment:
-more portions of marijuana, crack, cocaine and a product called dry. [@1] In
+more portions of marijuana, crack, cocaine and a product called dry. [@1,2] In
 total, officers reported seizing 308.68 grams of marijuana, 12.54 grams of crack
 and cocaine combined and 3.90 grams of a product called dry, with only the
-marijuana counted in the cannabis figures. [@1] Police listed a mobile phone, a
+marijuana counted in the cannabis figures. [@1,2] Police listed a mobile phone, a
 knife, scissors with an orange handle, 50 reais and the car among the seized
-items. [@1]
-
+items. [@1,2]
