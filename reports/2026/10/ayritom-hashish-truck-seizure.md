@@ -37,6 +37,7 @@ open_questions:
   - "The old point was on the Afghan side of the border. The exact Ayritom inspection site was not established; the map uses a Surxondaryo regional reference point."
   - The two sources differ slightly on the driver's age (born in 1993 per Zamon, 34 per Tawazon); neither states whether he was arrested or charged.
   - The opium seized alongside the hashish is noted here for context; only the hashish is counted in the figures.
+  - Khaama Press treats 52.595 kilograms as the sum of 42.335 kg of hashish and 10.260 kg of opium, not as a total that includes packaging.
 sources:
   - title: Afg'onistondan kelgan yuk mashinasi tekshirildi — 52,5 kg narkotik topildi
     url: https://zamon.uz/uz/2026/10/03/afgonistondan-kelgan-yuk-mashinasi-tekshirildi-525-kg-narkotik-topildi
@@ -46,6 +47,17 @@ sources:
     url: https://tawazon.media/archives/11237
     publisher: Tawazon
     date: 2026-10-05
+  - title: Uzbekistan Seizes More Than 52 Kg of Drugs Smuggled From Afghanistan
+    url: https://www.khaama.com/uzbekistan-seizes-more-than-52-kg-of-drugs-smuggled-from-afghanistan/
+    publisher: Khaama Press
+    date: 2026-10-05
+    language: en
+media:
+  - kind: photo
+    url: https://www.khaama.com/uzbekistan-seizes-more-than-52-kg-of-drugs-smuggled-from-afghanistan/
+    media_url: https://www.khaama.com/wp-content/uploads/2026/10/Uzbekistan-siezed-drug-from-afghanistan-border.webp
+    publisher: Khaama Press
+    caption: Photo published with the Khaama Press report of drugs seized from a cargo truck at the Ayritom border post.
 ---
 
 Uzbek customs officers exposed an attempt to bring a large quantity of drugs from Afghanistan
@@ -53,16 +65,16 @@ into Uzbekistan through the Ayritom border post in Surxondaryo region, the press
 the Customs Committee chairman reported. [@1]
 
 At about 22:30 on 1 October 2026, an empty truck arriving from Afghanistan at the Ayritom
-post was put through customs control. [@1,2] A sniffer dog's alert on the vehicle aroused the
+post was put through customs control. [@1,2,3] A sniffer dog's alert on the vehicle aroused the
 suspicion of the customs officers, after which the truck — driven by a citizen of Termiz
 district born in 1993 — was put through in-depth customs inspection. [@1]
 
 Under the floor of the trailer, officers found 98 packages hidden away: 79 of them held
 42 kilograms 335 grams of hashish, and 19 held 10 kilograms 260 grams of opium, for a total
-of 52 kilograms 595 grams including packaging. [@1,2] The packages had been wrapped in four
+of 52 kilograms 595 grams including packaging. [@1,2,3] The packages had been wrapped in four
 layers of plastic, foil and tape to make them harder to detect by scanners and X-ray
-machines. [@2] Specialists estimated the haul at almost 340,000 doses. [@1]
+machines. [@2,3] Specialists estimated the haul at almost 340,000 doses. [@1,3]
 
 The seizure was made jointly by customs officers, Border Troops servicemen, and
-representatives of the State Security Service and internal affairs bodies. [@1,2] Procedural
-measures on the case were underway. [@1]
+representatives of the State Security Service and internal affairs bodies. [@1,2,3] Procedural
+measures on the case were underway. [@1,3]
