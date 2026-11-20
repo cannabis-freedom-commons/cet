@@ -40,6 +40,11 @@ sources:
     publisher: VRMG, de streekomroep voor de Noord-West Veluwe
     date: 2026-11-17
     language: nl
+  - title: 'Oldebroek: wijkagenten Christel, Evelien en Wim rippen oogst 1 wietplant'
+    url: https://www.cnnbs.nl/oldebroek-wijkagenten-christel-evelien-en-wim-rippen-oogst-van-1-wietplant/
+    publisher: CNNBS.nl
+    date: 2026-11-19
+    language: nl
 open_questions:
   - 16 November 2026 is inferred as the Monday before the 17 November 2026 publication; the article gives no calendar date for the visit and seizure.
   - No weight, value, or identity of the resident was published.
@@ -47,14 +52,13 @@ open_questions:
 ---
 
 Police went to Bloemstraat in Oldebroek on Monday 16 November 2026 after a
-report of nuisance odour and officers took a look at the location. [@1] After
+report of nuisance odour and officers took a look at the location. [@1] The report had been made to Meld Misdaad Anoniem, the Dutch anonymous crime-reporting service, by someone complaining of a cannabis smell in the neighbourhood. [@2] After
 the report of stench nuisance, officers went to take a look. [@1]
 
-In a shed they found one hemp plant hanging to dry. [@1] Officers found no large
+In a shed they found one hemp plant hanging to dry. [@1] The officers said they found a small quantity of dried hemp tops, which they seized. [@2] Officers found no large
 hemp nursery, only one plant whose hemp was almost ready for use. [@1] Police
 seized the hemp and will destroy it. [@1]
 
 The resident received only a warning. [@1] According to the local community
 officers, the hemp was not intended for trade. [@1] Police considered the matter
-settled and said there would be no further investigation. [@1]
-
+settled and said there would be no further investigation. [@1,2]
