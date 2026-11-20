@@ -20,6 +20,11 @@ media:
     media_url: https://cdnx.premiumread.com/?url=https://thehimalayantimes.com/thehimalayantimes/uploads/images/2025/12/14/44521.jpeg&w=800&q=100&f=webp
     publisher: The Himalayan Times
     caption: 'Photo published with The Himalayan Times report on the destruction of the cannabis crop at Pipal Damar in Sarlahi. Photo: Prabhat Kumar Jha'
+  - kind: photo
+    url: https://risingnepaldaily.com/news/72556
+    media_url: https://risingnepaldaily.com/storage/media/92462/ganja.jpg
+    publisher: The Rising Nepal
+    caption: Marijuana plants being destroyed in the field, published with the report on the Pipal Damar eradication.
 details:
   activity: [cultivation]
   agencies: [np-police]
@@ -63,6 +68,10 @@ sources:
     publisher: Kamalamai Khabar
     date: 2025-12-12
     language: ne
+  - title: Police seize marijuana planted at 3.5 bighas in Sarlahi
+    url: https://risingnepaldaily.com/news/72556
+    publisher: The Rising Nepal
+    date: 2025-12-13
 open_questions:
   - The area is given only in bighas, a traditional Nepali land measure; the hectare figure is a conversion of three and a half bighas at about 0.16 hectares each, not a measured area.
   - Kamalamai Khabar describes about four bighas cleared on the same day, while the police statement and other reports give three and a half bighas; this report uses the police figure.
@@ -70,14 +79,15 @@ open_questions:
   - The police count of about 18,500 plants is an estimate, and the accounts give no weight or value for the destroyed cannabis.
   - The Himalayan Times photograph is captioned only with the photographer's credit and is not confirmed to show the Pipal Damar plots specifically.
   - A later Sarlahi eradication in Lalbandi Municipality, reported on 22 December 2025 with more than 180,000 plants, is a separate event and is not covered here.
+  - The correct administrative style of the Ishworpur local unit at Pipal Damar and its ward numbering remain unresolved.
 ---
 
 A joint team of the Nepal Police and the Armed Police Force cut down about
 18,500 cannabis plants on roughly three and a half bighas of land in the Chure
-area near Pipal Damar in Ishworpur Municipality-12, Sarlahi. [@1] The team came
+area near Pipal Damar in Ishworpur Municipality-12, Sarlahi. [@1,5] The team came
 from the Area Police Office at Kesharganj and Armed Police Force Nepal No. 10
 Battalion. [@1] The Sarlahi District Police Office announced the destruction in
-a press release. [@2] The team reached the remote Chure slopes by way of the
+a press release. [@2,5] The team reached the remote Chure slopes by way of the
 Baanke Khola, near the Sindhuli district border. [@2]
 
 Deputy Superintendent of Police Saroj Rai, the District Police Office
@@ -89,11 +99,10 @@ completed on Friday, 26 Mangsir 2082, which fell on 12 December 2025. [@3]
 
 Few other crops grow well in the Chure belt, and Gorkhapatra reported that
 residents there have long grown cannabis for a substantial income even though
-Nepali law treats the crop as illegal. [@2] Ratopati reported that police said
+Nepali law treats the crop as illegal. [@2,5] Ratopati reported that police said
 they would tighten surveillance and keep acting against other hidden plantations
 and criminal activity in the area. [@3] Kamalamai Khabar, a Sindhuli-based
 outlet, reported an allegation by unnamed local people that police collect
 commissions over the eradication drives and are complicit in the trade. [@4]
 That outlet said the Friday destruction at Pipal Damar and other places cleared
 about four bighas, a slightly larger figure than the police count. [@4]
-
