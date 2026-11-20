@@ -51,15 +51,14 @@ sources:
     archived: https://web.archive.org/web/20250622105909/https://www.turkishminute.com/2025/05/19/turkey-destroys-30000-marijuana-plants-report/
     publisher: Turkish Minute
     date: 2025-05-19
-open_questions:
-  - The reports give no date for the raids, so 18 May 2025, the first publication date, stands in for the event.
-  - No arrests were reported and the interior ministry had not commented.
-  - Both outlets carry the same AFP dispatch, which cites the IHA news agency and Cumhuriyet; no separate account was found.
-  - A photo of the gardens on the Turkish Minute page is not tied to this raid, so it is not listed here.
+  - title: Turkey destroys 30,000 marijuana plants – report
+    url: https://globalnation.inquirer.net/277475/turkey-destroys-30000-marijuana-plants-report
+    publisher: INQUIRER.net
+    date: 2025-05-19
 ---
 
-Turkish drug enforcement agents and local police raided the Hevsel Gardens in Diyarbakır, in the mainly Kurdish southeast, in a joint sunrise operation with divers and boats backed by helicopters and drones. [@1,2] The gardens, a roughly 700-hectare terraced strip between the Diyarbakır fortress and the Tigris recognised as a UNESCO World Heritage site in 2015, cannot be entered by vehicles, so the growers had hidden the plants in tents and watered them from the river. [@1,2]
+Turkish drug enforcement agents and local police raided the Hevsel Gardens in Diyarbakır, in the mainly Kurdish southeast, in a joint sunrise operation with divers and boats backed by helicopters and drones. [@1,2,3] The gardens, a roughly 700-hectare terraced strip between the Diyarbakır fortress and the Tigris recognised as a UNESCO World Heritage site in 2015, cannot be entered by vehicles, so the growers had hidden the plants in tents and watered them from the river. [@1,2]
 
-Officers found thousands of cannabis plants at 31 locations and destroyed 30,000 of them. [@1,2] The reports say the crop could have yielded about 5.3 tonnes of cannabis worth roughly two billion Turkish lira, about 51 million dollars. [@1,2]
+Officers found thousands of cannabis plants at 31 locations and destroyed 30,000 of them. [@1,2] The reports say the crop could have yielded about 5.3 tonnes of cannabis worth roughly two billion Turkish lira, about 51 million dollars. [@1,2,3]
 
 The reports give no date for the raids and name no arrests, and the interior ministry had not commented. [@1,2]
