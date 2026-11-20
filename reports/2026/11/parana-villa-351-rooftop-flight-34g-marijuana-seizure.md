@@ -40,28 +40,33 @@ sources:
     publisher: Elonce.com
     date: 2026-11-19
     language: es
-open_questions:
-  - No arrest, identification, charge or court outcome was reported; the suspect was not located.
-  - The substances were identified only by field tests in the presence of witnesses, with no laboratory confirmation reported.
-  - The 6.2 grams of cocaine from the same bag are excluded from the cannabis figure, and the combined 40.6 grams is not counted as cannabis.
-  - The account rests on a single outlet report of the police statement, with no second independent account found.
+  - title: Secuestraron 62 envoltorios de droga tras la fuga de un sospechoso | LaGACETA online
+    url: https://lagacetaonline.com.ar/policiales/secuestraron-62-envoltorios-de-droga-tras-la-fuga-de-un-sospechoso/
+    publisher: LaGACETA online
+    date: 2026-11-19
+    language: es
+media:
+  - kind: photo
+    url: https://lagacetaonline.com.ar/policiales/secuestraron-62-envoltorios-de-droga-tras-la-fuga-de-un-sospechoso/
+    media_url: https://admin.lagacetaonline.com.ar/assets/8fd5bc0a-ae21-4a20-8f17-6a3af219b89e?width=780&format=webp&quality=78&fit=cover
+    publisher: LaGACETA online
+    caption: The drugs seized in Paraná, in a photo published with the report.
 ---
 
 On the evening of 18 November 2026 at about 21:30, officers of the Guardia
 Especial of Comisaría Sexta were on a foot patrol in Villa 351 in Paraná when
 they tried to identify a man, who immediately fled toward the railway tracks.
-[@1] According to the Paraná departmental headquarters, the man discarded an
+[@1,2] According to the Paraná departmental headquarters, the man discarded an
 object while escaping, jumped a wall and then moved across the roofs of
-precarious houses to evade the officers, who could not locate him. [@1]
+precarious houses to evade the officers, who could not locate him. [@1,2]
 
 After the flight, officers examined the discarded object and found a transparent
-bag containing numerous black and white packets. [@1] After the find, officers
+bag containing numerous black and white packets. [@1,2] After the find, officers
 called personnel of the División Drogas Peligrosas, who carried out field tests
-in the presence of witnesses that were positive for cocaine and marijuana. [@1]
+in the presence of witnesses that were positive for cocaine and marijuana. [@1,2]
 As a result of the procedure, police seized 30 cocaine packets with a total
 weight of 6.2 grams and 32 marijuana packets weighing 34.4 grams, together 62
-packets weighing 40.6 grams. [@1]
+packets weighing 40.6 grams. [@1,2]
 
 The seized drugs remained in custody as the result of the joint action by
-Comisaría Sexta officers and the División Drogas Peligrosas. [@1]
-
+Comisaría Sexta officers and the División Drogas Peligrosas. [@1,2]
