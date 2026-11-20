@@ -44,33 +44,36 @@ sources:
     publisher: RFI
     date: 2024-03-22
     language: fr
+  - title: Spain police bust gang running night flight ‘hash’copters
+    url: https://macaubusiness.com/spain-police-bust-gang-running-night-flight-hashcopters/
+    publisher: Macau Business
+    date: 2024-03-23
 open_questions:
-  - The article gives no separate date for the raids; 22 March 2024 is its publication date and is used as the incident date.
-  - No charges or court outcome were reported.
-  - Only one accessible source for this event was found after searching in English, French and Spanish.
-  - The report counts nine arrested plus one trafficker killed, following the article's opening total; the body does not state explicitly whether the dead man is separate from the five arrested at Chiclana.
+    - The intercepted flight was reported in the early hours of 15 January 2024; no separate date was given for the later arrests at Utrera, and 22 March 2024 remains the date of the police announcement used as the report date.
+    - No charges or court outcome were reported.
+    - The report counts nine arrested plus one trafficker killed; the accounts do not state explicitly whether the dead man is separate from the five arrested at Chiclana.
+    - This account also reports three vehicles seized at the ranch, which are not included in the report's vehicle count of two helicopters.
 ---
 
 Spain's Guardia Civil dismantled an organisation dedicated to moving large
 quantities of hashish by helicopter on low-altitude night flights between
-Morocco and Cádiz or Seville. [@1] Nine people were arrested, including two
-pilots described as experts in low-altitude night flights. [@1] One helicopter
-was intercepted at a property in Chiclana de la Frontera. [@1] Five people were
-arrested there. [@1] One trafficker was killed in a car crash while trying to
-flee at high speed. [@1] That trafficker was described as one of the network's
+Morocco and Cádiz or Seville. [@1,2] Nine people were arrested, including two
+pilots described as experts in low-altitude night flights. [@1,2] One helicopter
+was intercepted at a property in Chiclana de la Frontera. [@1,2] Five people were
+arrested there. [@1,2] Officers also seized three vehicles at the ranch. [@2] One trafficker was killed in a car crash while trying to
+flee at high speed. [@1,2] That trafficker was described as one of the network's
 most important leaders. [@1] Four other people were then arrested at Utrera,
-near Seville. [@1]
+near Seville. [@1,2]
 
 Inside the intercepted helicopter, officers found 30 bales containing a total of
-795 kilos of hashish. [@1] A second helicopter was also seized. [@1] That
+795 kilos of hashish. [@1,2] A second helicopter was also seized. [@1,2] That
 helicopter was still being fitted out for drug flights. [@1] The rear seats of
 both aircraft, bought in eastern European countries, had been removed to make
-room for the hashish. [@1]
+room for the hashish. [@1] Police said the modified helicopters could carry up to 900 kilograms of hashish per flight. [@2]
 
 Police tracking the traffickers followed one aircraft leaving the Cádiz area of
-Andalusia in the far south of Spain. [@1] It was flying very low and without
+Andalusia in the far south of Spain. [@1] Investigators spotted the helicopter taking off from a ranch near Cádiz in the early hours of 15 January and flying at low altitude without lights toward Morocco. [@2] It was flying very low and without
 lights toward Morocco. [@1] The Moroccan authorities detected the aircraft,
-which stayed only briefly before returning to Cádiz. [@1] The operations were
+which stayed only briefly before returning to Cádiz. [@1,2] The operations were
 carried out jointly with Morocco's royal gendarmerie. [@1] Spain's proximity to
 Morocco makes it the main gateway for hashish entering Europe. [@1]
-
