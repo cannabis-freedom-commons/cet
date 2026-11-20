@@ -95,6 +95,11 @@ sources:
     publisher: memorandum.co.id
     date: 2026-11-19
     language: id
+  - title: Polres Lamongan Tangkap Pengedar Ganja di Babat Beserta Barang Bukti Disita
+    url: https://www.xposetv.live/2026/11/polres-lamongan-tangkap-pengedar-ganja.html
+    publisher: XPOSE TV
+    date: 2026-11-20
+    language: id
 media:
   - kind: photo
     url: https://surabaya.tribunnews.com/jawa-timur/1954867/polisi-gerebek-rumah-di-babat-lamongan-puluhan-gram-ganja-disita
@@ -119,17 +124,17 @@ media:
 ---
 
 Lamongan narcotics officers detained a 26-year-old man identified only as ISR, a
-resident of Babat district, over alleged distribution of cannabis. [@1,2,6,7,8,9,10,11] The suspect was recorded as a student on his identity card and was detained without significant resistance during the search of the house. [@5,6] The
+resident of Babat district, over alleged distribution of cannabis. [@1,2,6,7,8,9,10,11,12] The suspect was recorded as a student on his identity card and was detained without significant resistance during the search of the house. [@5,6] The
 operation took place on Monday 16 November at about 17.30 local time at a house
-in Patihan village in Babat, Lamongan. [@1,3,6,7,8,9,10,11] Officers acted after an
+in Patihan village in Babat, Lamongan. [@1,3,6,7,8,9,10,11,12] Officers acted after an
 investigation, going to the location and searching the suspect. [@1,2,7]
 
 The search recovered one plastic clip containing cannabis with a net weight of
-about 50.52 grams. [@1,2,6,7,8,9,10,11] Officers also seized a silver plastic wrapper, a brown
+about 50.52 grams. [@1,2,6,7,8,9,10,11,12] Officers also seized a silver plastic wrapper, a brown
 box, a black plastic bag, a plastic bag containing cannabis residue and a red
 mobile phone. [@1,2,9,10,11] The seized mobile phone was an iPhone 13. [@7] Police said the suspect was accused under Article 114
 paragraph (1) or Article 111 paragraph (1) of Law Number 35 of 2009 on Narcotics
-in conjunction with Law Number 1 of 2026 on sentencing adjustments. [@1,3,6,7,8,9,11]
+in conjunction with Law Number 1 of 2026 on sentencing adjustments. [@1,3,6,7,8,9,11,12]
 
 The suspect and all the evidence were held at Lamongan police headquarters for
 investigation and further case development. [@1,4,6,7,8,9,10,11] Lamongan police said they
