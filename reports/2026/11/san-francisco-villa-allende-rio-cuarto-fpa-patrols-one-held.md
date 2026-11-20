@@ -68,6 +68,11 @@ sources:
     publisher: El Tiempo Diario
     date: 2026-11-19
     language: es
+  - title: Un detenido con cocaína, marihuana y balas en San Francisco tras controles de la FPA
+    url: https://cordoba.mitelefe.com/cordoba/un-detenido-con-cocaina-marihuana-y-balas-en-san-francisco-tras-controles-de-la-fpa-pid2572583
+    publisher: Telefe Córdoba
+    date: 2026-11-19
+    language: es
 open_questions:
   - No separate weight or count was published for the marijuana doses, so no cannabis quantity can be recorded.
   - No detention was reported for the men stopped in Villa Allende and Río Cuarto, only seizure and summary proceedings.
@@ -76,18 +81,18 @@ open_questions:
 Córdoba's Fuerza Policial Antinarcotráfico, the province's anti-drug police, ran
 preventive patrols and checks in interior cities under the Public Prosecutor's
 Strategic Plan against Drug Trafficking, ending with drug seizures and the
-detention of a man. [@2,4,5,6] The main check took place on Avenida Brigadier Bustos
+detention of a man. [@2,4,5,6,7] The main check took place on Avenida Brigadier Bustos
 at 1600 in San Francisco, where officers controlled and detained a 36-year-old
-man. [@1,4,5,6] Officers seized several doses of cocaine and marijuana, cash, a
+man. [@1,4,5,6,7] Officers seized several doses of cocaine and marijuana, cash, a
 motorcycle, .22-calibre cartridges and other items of interest from the man.
-[@3,4,5,6]
+[@3,4,5,6,7]
 
 In Villa Allende, officers seized several doses of cocaine and marijuana from an
-adult man during a preventive check on Calle López y Planes at 200. [@1,4,5,6] In Río
-Cuarto, officers seized doses of both substances in barrio Alberdi. [@1,4,5,6]
+adult man during a preventive check on Calle López y Planes at 200. [@1,4,5,6,7] In Río
+Cuarto, officers seized doses of both substances in barrio Alberdi. [@1,4,5,6,7]
 
 The man detained in San Francisco was placed at the disposal of that city's
 anti-drug-trafficking prosecutor, accused of an alleged violation of National
-Narcotics Law No. 23.737. [@2,4,5,6] In the Villa Allende and Río Cuarto cases, the
+Narcotics Law No. 23.737. [@2,4,5,6,7] In the Villa Allende and Río Cuarto cases, the
 intervening prosecutors ordered the substances seized and the corresponding
 proceedings drawn up. [@2,4,6]
