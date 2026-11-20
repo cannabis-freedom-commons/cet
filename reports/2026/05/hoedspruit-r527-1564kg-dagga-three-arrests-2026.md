@@ -78,10 +78,15 @@ sources:
     url: https://novanews.co.za/police-disrupts-major-drug-smuggling-route-in-hoedspruit-seizing-r11-million-worth-of-dagga/
     publisher: NovaNews
     date: 2026-06-02
+  - title: ESWATINI-LINKED R11 MILLION DAGGA HAUL SEIZED BY SA POLICE
+    url: https://eswatinipositivenews.online/eswatini-linked-r11-million-dagga-haul-seized-by-sa-police/
+    publisher: Eswatini Positive News
+    date: 2026-05-31
+    language: en
 ---
 
 Three suspects aged between 34 and 35 were arrested on charges of dealing in
-dagga. [@1] The National Prosecuting Authority named them as Sabelo Lawrance
+dagga. [@1,4] The National Prosecuting Authority named them as Sabelo Lawrance
 Banda, Njabulo Nsibande and Ishmael Malatjie when they appeared before the
 Hoedspruit Magistrate's Court on 1 June. [@3] They were charged with
 contravening Section 4 of the Drugs and Drug Trafficking Act. [@3] They remained
@@ -90,16 +95,15 @@ in custody until a further court appearance on 8 June. [@3]
 Members of Hoedspruit SAPS, working with Farm Watch, intercepted a Toyota
 Quantum taxi and a Hyundai sedan on the R527 near Snake Park at about 21:15 on
 Saturday 30 May, acting on information about a large quantity of drugs moving
-through the area. [@1] A search of the vehicles uncovered 130 bags of dagga.
-[@1] The prosecution said the dagga weighed about 1,564 kg and was valued at R11
+through the area. [@1,4] A search of the vehicles uncovered 130 bags of dagga.
+[@1,4] The prosecution said the dagga weighed about 1,564 kg and was valued at R11
 million. [@3] Police said preliminary investigations indicated the consignment
 originated in Eswatini and was being transported through Limpopo for
-distribution elsewhere in South Africa. [@1]
+distribution elsewhere in South Africa. [@1,4]
 
-The arrests were made under Operation Shanela II. [@1] The operation ran from
+The arrests were made under Operation Shanela II. [@1,4] The operation ran from
 the evening of 30 May into the early hours of 31 May. [@3] Limpopo police
 commissioner Lieutenant General Thembi Hadebe said the seizure had stopped a
 substantial quantity of drugs reaching communities and showed the value of
-partnerships with groups such as Farm Watch. [@1] The wider operation also made
-other arrests, including for public urination and for using dagga. [@2]
-
+partnerships with groups such as Farm Watch. [@1,4] The wider operation also made
+other arrests, including for public urination and for using dagga. [@2] The same operation also included patrols of three villages, ten farms, an airport, four banks and six ATMs. [@4]
