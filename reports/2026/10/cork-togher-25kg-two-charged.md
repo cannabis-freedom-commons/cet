@@ -53,19 +53,23 @@ sources:
     url: https://www.irishexaminer.com/news/courtandcrime/arid-41921140.html
     publisher: Irish Examiner
     date: 2026-10-07
+  - title: Two men (20s) to appear in court charged over suspected €350,000 cannabis seizure
+    url: https://www.irishtimes.com/ireland/2026/10/07/two-men-20s-to-appear-in-court-charged-over-suspected-350000-cannabis-seizure/
+    publisher: The Irish Times
+    date: 2026-10-07
+    language: en
 open_questions:
-  - The first report estimated the seizure at €350,000 while the court report put the value at €500,000; this report uses the later court figure.
-  - No exact weight was published; the court report says up to 25 kg, so no seized weight is recorded in figures.
-  - The drugs were described as suspected cannabis to be sent to Forensic Science Ireland for analysis; no result was reported.
-  - Both opened reports are from the Irish Examiner; no second outlet's account of the case was found.
+    - The first report estimated the seizure at €350,000 while the court report put the value at €500,000; this report uses the later court figure.
+    - No exact weight was published; the court report says up to 25 kg, so no seized weight is recorded in figures.
+    - The drugs were described as suspected cannabis to be sent to Forensic Science Ireland for analysis; no result was reported.
 ---
 
 Gardaí from the Cork City Divisional Drugs Unit, assisted by other local and
 regional units, searched a domestic residence in Togher, Cork, on the night of
 Monday 5 October 2026 under warrant, as part of an operation targeting the sale
 and supply of drugs. [@1] Two men in their twenties were arrested and taken to
-garda stations in the city. [@1] The search recovered suspected cannabis, which
-gardaí said would be forwarded to Forensic Science Ireland for analysis. [@1]
+garda stations in the city. [@1,3] The search recovered suspected cannabis, which
+gardaí said would be forwarded to Forensic Science Ireland for analysis. [@1,3]
 
 The men were identified in court as Lee Crinnion, 21, of Blackwater Grove,
 Togher, and Aaron Austin, 25, of Araglen Court, Togher. [@2] Detective Garda
