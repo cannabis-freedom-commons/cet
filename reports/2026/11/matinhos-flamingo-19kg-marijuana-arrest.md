@@ -46,6 +46,16 @@ media:
     media_url: https://imagens.bandab.com.br/file/bandab/2026/11/jovem-preso-drogas-litoral.mp4
     publisher: Banda B
     caption: 'Video of the drugs seized in the Matinhos operation. Credit: Divulgação/PCPR'
+  - kind: photo
+    url: https://www.policiacivil.pr.gov.br/Noticia/PCPR-e-PCSC-prendem-homem-por-trafico-de-drogas-e-apreendem-maconha-em-Matinhos
+    media_url: https://www.policiacivil.pr.gov.br/sites/default/arquivos_restritos/files/imagem/2026-11/b7d53a19-abde-45db-827b-6083b75f1d84.jpg
+    publisher: Polícia Civil do Paraná
+    caption: 'A PCPR handout photo in the gallery of the Matinhos drug-trafficking seizure. Photo: PCPR'
+  - kind: photo
+    url: https://www.policiacivil.pr.gov.br/Noticia/PCPR-e-PCSC-prendem-homem-por-trafico-de-drogas-e-apreendem-maconha-em-Matinhos
+    media_url: https://www.policiacivil.pr.gov.br/sites/default/arquivos_restritos/files/imagem/2026-11/7241aa05-076c-45e4-aef3-cd59e6d8af44.jpg
+    publisher: Polícia Civil do Paraná
+    caption: 'A second PCPR handout photo in the gallery of the Matinhos drug-trafficking seizure. Photo: PCPR'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ab11701fa24fdfbcb1abe817c783329e
@@ -56,33 +66,37 @@ sources:
     publisher: Banda B
     date: 2026-11-19
     language: pt
+  - title: PCPR e PCSC prendem homem por tráfico de drogas e apreendem maconha em Matinhos
+    url: https://www.policiacivil.pr.gov.br/Noticia/PCPR-e-PCSC-prendem-homem-por-trafico-de-drogas-e-apreendem-maconha-em-Matinhos
+    publisher: Polícia Civil do Paraná
+    date: 2026-11-19
+    language: pt
 open_questions:
-  - The 1.92 kg cannabis total adds the reported 1.543 kg in bricks and pieces and 377 grams in 96 portions; the lead describes it as almost two kilograms.
-  - The 26.7 grams of crack, 4.5 grams of cocaine in pins, 35 grams of base paste and 234 green pills are excluded from the cannabis figures because they are not cannabis.
-  - The nature of the 234 green pills with a marking was not identified.
-  - No laboratory confirmation for the marijuana, crack, cocaine or base paste was reported.
-  - The young man was not named and no custody decision or court outcome beyond detention at the Matinhos station was reported.
-  - The account rests on a single opened report reproducing the Civil Police handout; no second independent outlet was found.
+    - The 26.7 grams of crack, 4.5 grams of cocaine in pins, 35 grams of base paste and 234 green pills are excluded from the cannabis figures because they are not cannabis.
+    - The nature of the 234 green pills with a marking was not identified.
+    - No laboratory confirmation for the marijuana, crack, cocaine or base paste was reported.
+    - The young man was not named and no court outcome beyond his arrest was reported.
+    - The official PCPR statement says the man was sent to the prison system, while Banda B reported that he stayed in custody at the Matinhos police station, so his place of detention is unclear.
+    - The account rests on the Civil Police's own statement and an outlet reproducing its handout; no independent news outlet was found.
 ---
 
 Civil police arrested a 22-year-old man in flagrante for drug trafficking on the
-morning of 19 November 2026 in Matinhos on Paraná's coast. [@1] The operation
+morning of 19 November 2026 in Matinhos on Paraná's coast. [@1,2] The operation
 searched a residence in Balneário Flamingo, where officers seized almost two
-kilograms of marijuana along with crack, cocaine, base paste and 234 pills. [@1]
+kilograms of marijuana along with crack, cocaine, base paste and 234 pills. [@1,2]
 The search was carried out under a search-and-seizure warrant issued by the
-Regional Guarantees Court of the Mafra district in Santa Catarina. [@1]
+Regional Guarantees Court of the Mafra district in Santa Catarina. [@1,2]
 Investigators from the Matinhos police station supported the Criminal
 Investigation Division of São Bento do Sul in the operation. [@1]
 
 Officers first found two cocaine pins, one marijuana cigarette and a precision
 scale in the suspect's bedroom, with most of the drugs in a storeroom beside the
-residence. [@1] In total officers seized 1.543 kg of marijuana in bricks and
+residence. [@1,2] In total officers seized 1.543 kg of marijuana in bricks and
 larger pieces plus another 377 grams divided into 96 individually wrapped
 portions. [@1] The seizure also included 123 crack rocks weighing 26.7 grams, 16
-cocaine pins weighing 4.5 grams and a 35-gram portion of base paste. [@1]
+cocaine pins weighing 4.5 grams and a 35-gram portion of base paste. [@1,2]
 
 Police also found two packs with 234 green pills bearing a marking, and
-collected three precision scales, 31 silk packs and a mobile phone. [@1] The
+collected three precision scales, 31 silk packs and a mobile phone. [@1,2] The
 young man was taken to the Matinhos Civil Police station, where he remained in
 custody to answer for drug trafficking. [@1]
-
