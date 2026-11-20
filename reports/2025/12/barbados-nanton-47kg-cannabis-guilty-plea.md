@@ -46,25 +46,38 @@ sources:
     url: https://barbadostoday.bb/2025/12/09/nanton-pleads-guilty-to-cannabis-charges-granted-10000-bail/
     publisher: Barbados Today
     date: 2025-12-09
+  - title: 22-year-old woman charged with drug trafficking
+    url: https://barbadostoday.bb/2025/12/08/22-year-old-woman-charged-with-drug-trafficking/
+    publisher: Barbados Today
+    date: 2025-12-08
+    language: en
+  - title: Woman facing several cannabis-related charges
+    url: https://www.cbc.bb/news/local-news/woman-facing-several-cannabis-related-charges/
+    publisher: Caribbean Broadcasting Corporation
+    date: 2025-12-07
+    language: en
 open_questions:
-  - The court appearance on Monday is recorded as December 8, 2025, inferred from the December 9 publication date; the charged offences were committed on December 6.
-  - Dollar amounts are recorded as Barbadian dollars, as is standard in Barbados reporting, though the article writes only $37,600 and $10,000.
-  - The article does not describe where or how the 4.7 kg of suspected cannabis was found or seized.
-  - Whether the $10,000 bail was posted and what sentence follows the guilty plea is not yet reported; Nanton is due back in court on December 11, 2025.
-  - Only one outlet account of this case has been opened so far.
+    - The $10,000 bail is written only as a dollar amount in the plea report; the cannabis street value is stated as Barbadian dollars in the CBC account.
+    - The reports do not describe where or how the 4.7 kg of suspected cannabis was found or seized.
+    - Whether the $10,000 bail was posted and what sentence followed the guilty plea was not reported; Nanton was due back in court on December 11, 2025.
+media:
+  - kind: photo
+    url: https://barbadostoday.bb/2025/12/08/22-year-old-woman-charged-with-drug-trafficking/
+    media_url: https://barbadostoday.bb/wp-content/uploads/2025/12/Screenshot_20251208_094757_Docs-1.jpg
+    publisher: Barbados Today
+    caption: 'Police graphic of Cherisse Romona Nanton with the Barbados Police Service crest and a Charged banner, published with the charge report. Photo: Barbados Today / Barbados Police Service'
 ---
 
 Twenty-two-year-old Cherisse Romona Nanton of Bournes Land, Silver Sands, Christ
 Church and Baxters Road, St Michael pleaded guilty to multiple cannabis-related
 offences in the District ‘B’ Magistrates’ Court. [@1] Nanton was charged by the
 Barbados Police Service Narcotics Unit for offences committed on December 6.
-[@1] She appeared before Magistrate Douglas Frederick on Monday. [@1]
+[@1,2] Police said she was arrested and formally charged. [@2] She appeared before Magistrate Douglas Frederick on Monday. [@1]
 
 The charges were possession of cannabis, trafficking of cannabis, intent to
-supply cannabis and importation of cannabis. [@1] Police said the suspected
+supply cannabis and importation of cannabis. [@1,2] Police said the suspected
 cannabis seized weighed 4.7 kilograms, with an estimated street value of
-$37,600. [@1]
+$37,600. [@1,2,3]
 
 Nanton was granted $10,000 bail with one surety and is scheduled to return to
 court on Thursday, December 11, 2025. [@1]
-
