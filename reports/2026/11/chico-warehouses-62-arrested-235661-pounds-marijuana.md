@@ -1,0 +1,92 @@
+---
+code: 4D1WWB
+added_at: "2026-11-20T05:38:33.388317Z"
+date: 2026-11-17
+country: us/ca
+place: Contractors Lane, Chico, Butte County, California
+coordinates: [39.7285, -121.8375]
+precision: locality
+type: raid
+also: [arrest, seizure]
+title: 62 arrested as Chico warehouse raid nets 235,661 pounds of marijuana
+summary: >-
+  Butte County sheriff's detectives and federal and state agents arrested 62 people at industrial warehouses on Contractors Lane in Chico, California, on 17 November 2026, after finding 235,661 pounds of marijuana being processed under the cover of hemp processing. Detectives estimated the marijuana's street value at about $282.8 million.
+figures:
+  arrested: 62
+  kg_seized: 106894
+  value:
+    amount: 282793200
+    currency: USD
+details:
+  agencies: [Butte County Sheriff's Office, Butte Interagency Narcotics Task Force (BINTF), Bureau of Land Management, California Department of Cannabis Control]
+  agency_types: [police, anti-narcotics, other, regulator]
+  products:
+    - {product: flower, kg: 106894}
+  activity: [processing, possession]
+  setting: [building]
+  case_stage: investigation
+  date_precision: exact
+  region: Butte County, California
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [2]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
+media:
+  - kind: photo
+    url: https://krcrtv.com/news/local/62-arrested-as-raid-nets-235661-pounds-of-marijuana-at-chico-warehouses
+    media_url: https://krcrtv.com/resources/media2/16x9/2048/800/0x192/80/3bda113c-b551-448b-a3ad-61119e39b388-marijuanaseizure2111926.jpg
+    publisher: KRCR Chico-Redding
+    caption: 'Seized marijuana from the Chico warehouse raid, in a Butte County Sheriff''s Office handout published with the report. Photo: BCSO'
+  - kind: photo
+    url: https://krcrtv.com/news/local/62-arrested-as-raid-nets-235661-pounds-of-marijuana-at-chico-warehouses
+    media_url: https://krcrtv.com/resources/media2/16x9/2048/400/0x192/80/85392fc6-a7ad-4e1d-9e00-99c76e187f95-marijuanaseizure5111926.jpg
+    publisher: KRCR Chico-Redding
+    caption: 'Marijuana seized during the Butte County warehouse raid, in the BCSO photo gallery. Photo: BCSO'
+  - kind: photo
+    url: https://krcrtv.com/news/local/62-arrested-as-raid-nets-235661-pounds-of-marijuana-at-chico-warehouses
+    media_url: https://krcrtv.com/resources/media2/16x9/2048/400/0x192/80/ae0a53fd-c211-4e52-860d-5d3030b2604f-marijuanaseizure4111926.jpg
+    publisher: KRCR Chico-Redding
+    caption: 'Marijuana at the Chico warehouses during the raid, from the BCSO photo gallery. Photo: BCSO'
+  - kind: photo
+    url: https://krcrtv.com/news/local/62-arrested-as-raid-nets-235661-pounds-of-marijuana-at-chico-warehouses
+    media_url: https://krcrtv.com/resources/media2/16x9/2048/400/0x192/80/d378db2b-30ac-4fb2-ba10-ba33626e4659-marijuanaseizure3111926.jpg
+    publisher: KRCR Chico-Redding
+    caption: 'A law enforcement vehicle parked outside a building during the marijuana raid in Butte County on 19 November 2026. Photo: BCSO'
+status: verified
+created_by_model: opencode-go/hy4-flash-free#high
+submission: 4ec3f0c6094e3bc0450ae843b5ce8d8e
+tags: [chico, butte-county, california, warehouse-raid, marijuana-processing]
+sources:
+  - title: 62 arrested as raid nets 235,661 pounds of marijuana at Chico warehouses
+    url: https://www.msn.com/en-us/news/other/62-arrested-as-raid-nets-235-661-pounds-of-marijuana-at-chico-warehouses/ar-AA2hO2hN
+    publisher: MSN
+    date: 2026-11-19
+  - title: 62 arrested as raid nets 235,661 pounds of marijuana at Chico warehouses
+    url: https://krcrtv.com/news/local/62-arrested-as-raid-nets-235661-pounds-of-marijuana-at-chico-warehouses
+    publisher: KRCR Chico-Redding
+    date: 2026-11-19
+---
+
+Sixty-two people were arrested and booked into the Butte County Jail on 17
+November 2026. [@1] The raid targeted multiple industrial warehouses on
+Contractors Lane in Chico, California, under a search warrant obtained by the
+Butte County Sheriff's Office. [@2] The warrant was served on Tuesday, 17
+November 2026, by BCSO detectives from the Butte Interagency Narcotics Task
+Force, two Bureau of Land Management agents and a detective from the California
+Department of Cannabis Control. [@1]
+
+Detectives found 62 people at the warehouses and multiple warehouses containing
+marijuana in various stages of processing. [@1] Investigators said large
+quantities of marijuana were being processed at the warehouse using hemp
+processing as a cover. [@1] Testing found that the product was marijuana, not
+hemp. [@1] Detectives said about 235,661 pounds (roughly 106,894 kg) of
+marijuana were at the warehouses. [@1] They spent three days processing evidence
+and removing the marijuana, which detectives estimated had a street value of
+approximately $282,793,200. [@1]
+
