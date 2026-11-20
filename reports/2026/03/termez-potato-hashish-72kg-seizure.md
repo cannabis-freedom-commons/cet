@@ -58,6 +58,10 @@ sources:
     url: https://www.unodc.org/unodc/en/pccp/Webstories/officers-at-ayritom-border-post-in-uzbekistan-seize-over-260-kilograms-of-hashish.html
     publisher: UNODC
     date: 2026-04-08
+  - title: In Uzbekistan, the transit of hashish from Afghanistan to Russia disguised as potatoes was intercepted.
+    url: https://open.kg/en/news/in-the-world/84663-v-uzbekistane-presekli-tranzit-gashisha-iz-afganistana-v-rf-pod-vidom-kartoshki.html
+    publisher: Open.kg
+    date: 2026-03-25
 open_questions:
   - The accounts give no separate date for the interception itself; 24 March 2026 is the date of the State Security Service announcement and of publication.
   - The reports do not say whether the driver was formally detained or charged after the truck was inspected, and no court outcome has been reported.
@@ -73,16 +77,15 @@ a 25-year-old man from Termez district. [@1] The inspection was carried out
 jointly by Border Troops of the State Security Service and customs authorities.
 [@3]
 
-A detailed search found 72.3 kg of hashish concealed in the cargo. [@1] The
+A detailed search found 72.3 kg of hashish concealed in the cargo. [@1,5] The
 hashish had been shaped into 222 briquettes resembling potatoes in an apparent
-attempt to avoid detection. [@1] Border guards and customs officers in
+attempt to avoid detection. [@1,5] Border guards and customs officers in
 Uzbekistan stopped an attempted transit of hashish from Afghanistan toward
 Russia disguised as potatoes, as reported by the State Security Service press
-centre. [@2]
+centre. [@2,5]
 
 The truck had arrived from Afghanistan and the drugs were believed to be
-intended for onward trafficking to Russia. [@1] Officers documented the seized
-narcotics under established procedures and an investigation was under way. [@1]
+intended for onward trafficking to Russia. [@1,5] Officers documented the seized
+narcotics under established procedures and an investigation was under way. [@1,5]
 UNODC later described the same interception as a potato shipment that officers
 selected for inspection based on profiling and X-ray screening. [@4]
-
