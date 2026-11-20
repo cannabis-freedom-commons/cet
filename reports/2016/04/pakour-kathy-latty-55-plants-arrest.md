@@ -40,6 +40,11 @@ sources:
     publisher: Dakaractu
     date: 2016-04-27
     language: fr
+  - title: Trafic de cannabis à Kolda, deux armes à feu saisis et un sexagénaire arrêté
+    url: https://www.pressafrik.com/Trafic-de-cannabis-a-Kolda-deux-armes-a-feu-saisis-et-un-sexagenaire-arrete_a148994.html
+    publisher: Pressafrik
+    date: 2016-04-27
+    language: fr
 open_questions:
   - The sources give no weight for the 55 plants beyond the gendarmerie's approximate 3 kg of processed product, and no street value.
   - Dakaractu places Kathy Latty in the commune of Pakour, while Senego names the village Kathilaty in the commune of Paroumba; both describe the same Pakour gendarmerie operation.
@@ -53,16 +58,15 @@ open_questions:
 
 Gendarmes of the Pakour post arrested 60-year-old farmer S. F. on Tuesday 26
 April 2016 at Kathy Latty village in Pakour commune, in Senegal's Vélingara
-department. [@1] A search of his home found 55 cannabis plants and two firearms.
-[@1] Officers found the hemp field inside his compound at about 6 am that day,
+department. [@1,2] A search of his home found 55 cannabis plants and two firearms.
+[@1,2] Officers found the hemp field inside his compound at about 6 am that day,
 well kept and in the heart of the village. [@1] Kathy Latty is described as a
 village with many hemp growers and cannabis traffickers who supply the Kolda
 region and both Guinea-Bissau and Guinea-Conakry. [@1]
 
 A gendarmerie source said the officers seized 55 cannabis plants plus uprooted,
 dried plants and about 3 kilograms of finished, processed and packaged product.
-[@1] The two firearms were a hunting rifle and a hand-made pistol. [@1] The same
+[@1,2] The two firearms were a hunting rifle and a hand-made pistol. [@1,2] The same
 gendarmerie source said the investigations formed part of the fight against drug
 trafficking in the Pakour area, which borders Guinea-Bissau and Guinea-Conakry.
-[@1]
-
+[@1,2] The grower was placed in custody and was to be taken before the Kolda prosecutor on the Wednesday, then tried in the coming days. [@2]
