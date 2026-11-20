@@ -52,6 +52,10 @@ sources:
     publisher: LAmag
     date: 2026-02-18
     archived: https://web.archive.org/web/20260219131448id_/https://lamag.com/sports/lakers-center-deandre-ayton-allegedly-arrested-in-the-bahamas/
+  - title: 'Lakers news: Deandre Ayton faces tense airport moment in Bahamas before authorities release him | NBA News - The Times of India'
+    url: https://timesofindia.indiatimes.com/sports/nba/top-stories/lakers-news-deandre-ayton-faces-tense-airport-moment-in-bahamas-before-authorities-release-him/articleshow/128490293.cms
+    publisher: The Times of India
+    date: 2026-02-18
 open_questions:
   - No weight was published beyond a small and very small amount of suspected marijuana, so no cannabis weight is recorded.
   - The incident date of 17 February 2026 is the Tuesday before the article's Wednesday 18 February 2026 publication date.
@@ -68,23 +72,23 @@ open_questions:
 
 Los Angeles Lakers center Deandre Ayton was detained and quickly released on
 Tuesday at Lynden Pindling International Airport on suspicion of possessing a
-small amount of marijuana. [@1,2,4,5] He would have been returning to the United
-States from his native Bahamas as the All-Star break neared its end. [@1] The
+small amount of marijuana. [@1,2,4,5,6] He would have been returning to the United
+States from his native Bahamas as the All-Star break neared its end. [@1,6] The
 central division of the Royal Bahamas Police Force initially said he was
 searched after being spotted smoking marijuana at the airport. [@1,3]
 
 Reuters reported he was found with the drug, which remains illegal in the
 Bahamas. [@1] His lawyer Devard Francis said the suspected marijuana was
 actually in someone else's bag and that Ayton was never arrested or charged.
-[@1,2,3] Francis said investigators saw that the very small amount of marijuana was
+[@1,2,3,6] Francis said investigators saw that the very small amount of marijuana was
 not in Ayton's bag, completed their investigation and released him
-expeditiously. [@1,2,4] Ayton, a former No. 1 overall pick, is in his first season
-with the Lakers after signing a two-year deal worth 16.6 million dollars. [@1]
+expeditiously. [@1,2,4,6] Ayton, a former No. 1 overall pick, is in his first season
+with the Lakers after signing a two-year deal worth 16.6 million dollars. [@1,6]
 He entered the All-Star break averaging 13.2 points on 67.5 percent shooting
-with a team-high 8.5 rebounds per game. [@1]
+with a team-high 8.5 rebounds per game. [@1,6]
 
 The United States Embassy in the Bahamas warned travellers that drugs including marijuana are not allowed in the country and that possession could lead to arrest and imprisonment. [@2] The embassy said penalties for importation, purchase, possession or use of drugs in the Bahamas are far greater than in the United States and that all people aged 16 or older are tried as adults. [@2]
 
-Francis said Ayton was on his way back to Los Angeles to rejoin the Lakers before the second half of the NBA season began. [@3]
+Francis said Ayton was on his way back to Los Angeles to rejoin the Lakers before the second half of the NBA season began. [@3,6]
 
-Ayton was a native of the Bahamas and a member of its men's national basketball team, and marijuana remains illegal in the Bahamas. [@4]
+Ayton was a native of the Bahamas and a member of its men's national basketball team, and marijuana remains illegal in the Bahamas. [@4,6]
