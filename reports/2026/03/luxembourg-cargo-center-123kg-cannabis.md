@@ -58,15 +58,13 @@ sources:
     publisher: RTL Infos
     date: 2026-03-26
     language: fr
-open_questions:
-  - The interception is dated only as the beginning of March 2026. 26 March is the day the prosecutor announced it.
-  - The weight is "more than 123 kilograms" gross. No exact weight or street value was given.
-  - No sender, consignee or suspect was named, and no arrest was reported.
-  - The prosecutor said the cannabis was sealed and would be destroyed. RTL Today wrote that it had been destroyed. This report follows the prosecutor.
-  - Pictures with the news reports are labelled as illustrations, not photographs of this shipment.
-  - RTL Infos dates the seizure only to the beginning of March 2026, and reports no arrest, sender or consignee.
+  - title: 'Luxembourg : plus de 120 kg de cannabis cachés dans une cargaison de coussins'
+    url: https://actu.fr/faits-divers/luxembourg-plus-de-120-kg-de-cannabis-caches-dans-une-cargaison-de-coussins_64062383.html
+    publisher: actu.fr
+    date: 2026-03-27
+    language: fr
 ---
 
-Luxembourg customs, after targeting work, stopped an air shipment from the United States that was bound for France and arrived at the Cargo Center at Luxembourg Airport. [@1,2,3,4] The goods were declared as decorative cushions. [@1,2,3,4] Inside, officers found drugs and seized more than 123 kilograms gross of cannabis. [@1,2,3,4]
+Luxembourg customs, after targeting work, stopped an air shipment from the United States that was bound for France and arrived at the Cargo Center at Luxembourg Airport. [@1,2,3,4,5] The goods were declared as decorative cushions. [@1,2,3,4,5] Inside, officers found drugs and seized more than 123 kilograms gross of cannabis. [@1,2,3,4,5]
 
-The public prosecutor in Luxembourg said on 26 March 2026 that the French authorities were told at once. [@1,2,3] The cannabis was placed under seal and was to be destroyed under the rules in force. [@1,3] The prosecutor said a quantity of that size could only match structured, large-scale distribution and the means of organised networks. [@1,2,3] The statement names no one arrested. [@1]
+The public prosecutor in Luxembourg said on 26 March 2026 that the French authorities were told at once. [@1,2,3,5] The cannabis was placed under seal and was to be destroyed under the rules in force. [@1,3,5] The prosecutor said a quantity of that size could only match structured, large-scale distribution and the means of organised networks. [@1,2,3,5] The statement names no one arrested. [@1]
