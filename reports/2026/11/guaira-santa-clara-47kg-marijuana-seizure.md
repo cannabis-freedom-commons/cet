@@ -40,6 +40,11 @@ sources:
     publisher: Portal24
     date: 2026-11-18
     language: pt
+  - title: Guaíra - Policiais apreendem quase 50 quilos de maconha em porto clandestino
+    url: https://portalguaira.com/guaira-policiais-apreendem-quase-50-quilos-de-maconha-em-porto-clandestino
+    publisher: Portal Guaíra
+    date: 2026-11-19
+    language: pt
 open_questions:
   - The material was described as a substance similar to marijuana, with no laboratory confirmation reported.
   - The reported R$104,500 estimated loss covers the combined marijuana and cigarette seizure, so no cannabis-only value is recorded.
@@ -48,14 +53,14 @@ open_questions:
 
 Border Police Battalion officers and Federal Police maritime-unit agents
 monitored a clandestine port near the Santa Clara neighbourhood in Guaíra on 18
-November 2026 during Operation Protetor. [@1] Officers searched the area to try
-to find those responsible for the goods, but no suspect was found. [@1,3]
+November 2026 during Operation Protetor. [@1,4] Officers searched the area to try
+to find those responsible for the goods, but no suspect was found. [@1,3,4]
 
 During the search they found 47.25 kilograms of a substance similar to
-marijuana, along with 200 packs of cigarettes of foreign origin. [@1,3] All the
+marijuana, along with 200 packs of cigarettes of foreign origin. [@1,3,4] All the
 seized goods were taken to the Federal Police station in Guaíra for the
-applicable procedures. [@2,3] According to BPFRON, the seizure represents an
-estimated R$104,500 loss to crime. [@1]
+applicable procedures. [@2,3,4] According to BPFRON, the seizure represents an
+estimated R$104,500 loss to crime. [@1,4]
 
 The operation brought together BPFRON military police and NEPOM Federal Police
 agents to combat drug trafficking and smuggling on the Paraná border with
