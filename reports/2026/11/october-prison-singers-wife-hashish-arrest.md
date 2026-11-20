@@ -70,6 +70,11 @@ sources:
     publisher: المصير
     date: 2026-11-19
     language: ar
+  - title: 'أخبار الحوادث اليوم: التحفظ على زوجة إسلام كابونجا لمحاولتها تهريب حشيش له داخل محبسه.. الداخلية تكشف تفاصيل إصابة 28 طالبة بالاختناق في مدرسة بعين شمس'
+    url: https://www.vetogate.com/5774153
+    publisher: فيتو
+    date: 2026-11-19
+    language: ar
 ---
 
 Detectives at the October Correction Centre in Giza arrested M. S., the wife of
@@ -78,7 +83,7 @@ mahraganat singer Islam Kabonga, while she was visiting her detained husband.
 Maj. Gen. Hatem Hassan received a notification of the incident from Maj. Gen.
 Hany Shaarawy, deputy director of criminal investigations. [@1,2] She had brought
 visit goods for her husband, and officers searched those goods during the visit.
-[@1,5,10] The suspected drugs were hidden professionally inside a bag to evade monitoring. [@5]
+[@1,5,10,11] The suspected drugs were hidden professionally inside a bag to evade monitoring. [@5]
 
 The search found four Nokia mobile phones, one large piece of hashish and 52
 tramadol pills. [@1,2,3,4,6,7,8,9,10] The seized phones were Nokia handsets, the hashish was
@@ -87,4 +92,4 @@ brought to her husband. [@1] The four seized Nokia phones were small Afreto mode
 the seized items in order to bring them in to her husband. [@1,2,4,7,8,9] In this account she denied knowing about the seized items and said she had received the bag from a 29-year-old driver named Khalil from al-Warraq to take to her husband for use in prison. [@6]
 
 Police filed a report on the incident after the arrest at the correction centre.
-[@1,3,5,7] The prosecution took over the investigation of the case. [@1,2,4,6,7,8,9,10] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5]
+[@1,3,5,7] The prosecution took over the investigation of the case. [@1,2,4,6,7,8,9,10,11] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5]
