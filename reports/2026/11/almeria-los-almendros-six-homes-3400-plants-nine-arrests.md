@@ -124,25 +124,29 @@ sources:
     publisher: Noticias de Gipuzkoa
     date: 2026-11-18
     language: es
+  - title: Nine arrested in Almería and 3,400 cannabis plants seized in major anti-drug raid
+    url: https://www.todoalicante.es/english/nine-arrested-almeria-3-20261118081134-nt.html
+    publisher: TodoAlicante
+    date: 2026-11-18
 ---
 
 Spain's Policía Nacional arrested nine people on the morning of 18 November 2026
 in Los Almendros, a neighbourhood of Almería. [@1,4] All nine detainees were
-Spanish nationals. [@1,4] Officers entered and searched six homes in the
-neighbourhood that were being used to grow cannabis. [@1,4,5,6,7,8] The operation, named
+Spanish nationals. [@1,4,9] Officers entered and searched six homes in the
+neighbourhood that were being used to grow cannabis. [@1,4,5,6,7,8,9] The operation, named
 Especia, was directed by Grupo 2 of the UDYCO Alborán, the drug and
 organised-crime unit of the Provincial Police Station in Almería. [@1] It formed
 part of the police station's response plan for barrios tensionados, a programme
 for high-tension neighbourhoods. [@2,5,6,7]
 
-Police seized 3,400 marijuana plants. [@1,4,5,6,7,8] The Provincial Police Station put the
+Police seized 3,400 marijuana plants. [@1,4,5,6,7,8,9] The Provincial Police Station put the
 weight of the plants seized at about 200 kilograms. [@1,5,7,8] The haul included
-marijuana being dried, buds and hashish. [@1,5,6,7,8] The weight was a first estimate
+marijuana being dried, buds and hashish. [@1,5,6,7,8,9] The weight was a first estimate
 calculated by the operation itself. [@3,5,6] Officers also seized a short firearm, 9
-mm Parabellum ammunition and 4,000 euros in cash. [@1,4,5] They took away equipment
+mm Parabellum ammunition and 4,000 euros in cash. [@1,4,5,9] They took away equipment
 used to grow the drug. [@1,5,8]
 
 Endesa technicians were brought in to disconnect the illegal hook-ups that
-supplied electricity to the grows, police sources said. [@1,5] The Policía Local,
+supplied electricity to the grows, police sources said. [@1,5,9] The Policía Local,
 the city's municipal police, helped draw up demolition files for illegal
-constructions found during the operation. [@1,4,5,6,7,8]
+constructions found during the operation. [@1,4,5,6,7,8,9]
