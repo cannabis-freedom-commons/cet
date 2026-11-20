@@ -50,19 +50,29 @@ sources:
     url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313185&reg=48&lang=2
     publisher: Press Information Bureau
     date: 2026-09-21
+  - title: जननायक एक्सप्रेस में सफर करती दो नेपाली महिलाएं गिरफ्तार, तलाशी के दौरान जांघों पर बंधी मिली 12 पैकेट चरस
+    url: https://www.jagran.com/uttar-pradesh/gorakhpur-city-gorakhpur-2-nepali-women-arrested-with-6-kg-charas-on-train-40379587.html
+    publisher: Dainik Jagran
+    date: 2026-09-20
+    language: hi
+  - title: 6.078 Kg Charas Worth ₹6 Crore Seized in Gorakhpur
+    url: https://the420.in/gorakhpur-charas-seizure-nepali-women-jan-nayak-express/
+    publisher: The 420.in
+    date: 2026-09-21
 open_questions:
-  - The reports do not give a court or remand outcome for the two arrested women.
-  - The same news roundup reports a separate 10.9 kg charas recovery at Barabanki, recorded in its own report here.
+    - The reports do not give a court or remand outcome for the two arrested women.
+    - The same news roundup reports a separate 10.9 kg charas recovery at Barabanki, recorded in its own report here.
+    - The new account states the value as around Rs 6.078 crore while the report gives about Rs 6.07 crore.
 ---
 
 In the early hours of Sunday, DRI officers acting on intelligence about
 charas smuggling from Nepal intercepted two women passengers travelling on the
 Jan Nayak Express, which runs from Bihar to Ludhiana in Punjab, at Gorakhpur
-railway station. [@1,2] A personal search recovered 12 packets totalling
+railway station. [@1,2,3] The women were stopped because their movements appeared suspicious, and their nervousness during questioning prompted a detailed search. [@4] Both women were described as Nepalese nationals. [@4] A personal search recovered 12 packets totalling
 6.078 kg of charas, concealed in knee caps wrapped around their thighs and
-hidden under their sarees. [@1,2]
+hidden under their sarees. [@1,2,4]
 
 The substance tested positive for charas on a field-testing kit, and both
-passengers were arrested under the NDPS Act, 1985. [@1,2] The agency described
+passengers were arrested under the NDPS Act, 1985. [@1,2,4] The agency described
 the contraband as being of Nepalese origin and valued it at about Rs 6.07
-crore in the illicit drug market. [@1,2]
+crore in the illicit drug market. [@1,2,4]
