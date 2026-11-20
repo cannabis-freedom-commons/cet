@@ -73,43 +73,40 @@ sources:
     publisher: Gabon Media Time
     date: 2026-08-06
     language: fr
-open_questions:
-  - 'The sources disagree on the valuation: Gabonactu and Gabon Media Time report nearly 800 million CFA francs for the load, while the agency statement (AGP) gives nearly 80 million FCFA for the same 1.32 tonnes; the report uses the 800 million figure shared by two outlets and records the AGP figure in the text.'
-  - 'The sack count also differs: 65 sacks in Gabonactu and Gabon Media Time, 51 in the AGP statement, for the same weight.'
-  - The exact interception point is not named beyond Gabon's coastline; Libreville, where the relay, the local distribution and the remand are placed, is used as the location.
-  - It is unclear whether the six migrants found aboard the pirogue were detained or charged, so they are not counted in the arrest figures; a local outlet cautions that nothing published links them to transporting the cannabis.
-  - The precise charges brought against each suspect were not published, and the press described the group as held pending trial with no hearing yet held.
-  - Two inline photos on the Gabonactu page carry no caption or alt text confirming their content, and the Gabon Media Time and AGP pages offered no further distinct image of the seizure.
+  - title: 'Gabon : 800 millions de cannabis en provenance du Nigéria en pirogue captés par les services de police'
+    url: https://info241.com/gabon-800-millions-de-cannabis-en-provenance-du-nigeria-en-pirogue-captes-par-les-services,12272
+    publisher: Info241.com
+    date: 2026-08-05
+    language: fr
 ---
 
 A joint operation by Gabon's Central Anti-Drug Office (OCLAD), backed by the
 DGR, the DGDI and the DGSI, dismantled a cross-border network trafficking
-cannabis from Nigeria. [@2] Investigators seized 1 tonne and 320 kilogrammes
+cannabis from Nigeria. [@2,4] Investigators seized 1 tonne and 320 kilogrammes
 (1,320 kg) of cannabis packed in 65 sacks and valued at nearly 800 million CFA
-francs. [@1] The agency's statement put the 1.32 tonnes in 51 sacks at nearly 80
+francs. [@1,4] The agency's statement put the 1.32 tonnes in 51 sacks at nearly 80
 million CFA francs. [@2] Eight suspects of Nigerian, Beninese, Togolese and
 Gabonese nationality were arrested, or, as the agency put it, several people of
-different nationalities. [@1]
+different nationalities. [@1,4]
 
 Investigators found the cargo arrived by sea aboard a pirogue, a wooden fishing
-canoe, from Nigeria carrying the cannabis hidden among its load. [@1] The same
+canoe, from Nigeria carrying the cannabis hidden among its load. [@1,4] The same
 boat was carrying six irregular migrants, one man and five women of Nigerian,
-Togolese and Beninese nationality. [@2] Investigators suspect a vast
-cross-border criminal network whose main sponsors are based in Nigeria. [@2]
+Togolese and Beninese nationality. [@2,4] Investigators suspect a vast
+cross-border criminal network whose main sponsors are based in Nigeria. [@2,4]
 
 A Nigerian national presented as one of the couriers said he accepted the job
-for a promised 600,000 CFA francs "per trip". [@2] He admitted knowing the cargo
+for a promised 600,000 CFA francs "per trip". [@2,4] He admitted knowing the cargo
 was illegal, saying: "It was the money that pushed me to this. What mattered to
-me was the money." [@2] Investigators suspect a Beninese national of being the
+me was the money." [@2,4] Investigators suspect a Beninese national of being the
 network's main relay in Libreville; he says he was drawn in about six months ago
-and coerced after threats to lend his vehicle. [@1] A Gabonese suspect was
+and coerced after threats to lend his vehicle. [@1,4] A Gabonese suspect was
 presented as the local distributor, admitted selling cannabis for two years, and
-said the proceeds paid for hospital visits and medicine. [@2]
+said the proceeds paid for hospital visits and medicine. [@2,4]
 
 All the suspects were brought before the prosecutor and jailed at Libreville
-central prison on 3 August 2026. [@2] The court had not yet tried them; they
+central prison on 3 August 2026. [@2,4] The court had not yet tried them; they
 were held pending judgement, as the local press put it. [@3] The operation was
 part of repeated drives by specialised Gabonese services against drug routes
 between neighbouring countries and Gabon, and investigators were still working
 to identify the network's leaders and financiers. [@1]
-
