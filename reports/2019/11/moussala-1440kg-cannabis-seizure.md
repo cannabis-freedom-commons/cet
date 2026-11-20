@@ -43,28 +43,31 @@ sources:
     publisher: Afrik
     date: 2019-11-11
     language: fr
+  - title: 'CRIMINALITE TRANSFRONTALIERE ORGANISEE : 1 440 kg de chanvre indien saisis à Moussala | EnQuete+'
+    url: https://www.enqueteplus.com/content/criminalite-transfrontaliere-organisee-1-440-kg-de-chanvre-indien-saisis-%C3%A0-moussala
+    publisher: EnQuete+
+    date: 2019-11-11
+    language: fr
 open_questions:
-  - No arrests, identities, charges or court outcome were reported for this seizure.
-  - The 173 million FCFA figure is the customs service's estimated market value.
-  - Only one accessible source for this event was found, so corroboration was not possible.
-  - The same article also reports the stop of two trucks from Guinea-Bissau at Salikenye carrying food, wine, beer and phones, a separate non-cannabis event left out of this report.
+    - No arrests, identities, charges or court outcome were reported for this seizure.
+    - The 173 million FCFA figure is the customs service's estimated market value.
+    - The same article also reports the stop of two trucks from Guinea-Bissau at Salikenye carrying food, wine, beer and phones, a separate non-cannabis event left out of this report.
 ---
 
 In the night of 8 to 9 November 2019, officers of the Moussala commercial
 customs brigade in the Kedougou subdivision seized cannabis in an operation
-against drug trafficking and cross-border crime. [@1] The seizure took place at
+against drug trafficking and cross-border crime. [@1,2] The seizure took place at
 Moussala, a locality in Kedougou department in the Tambacounda region of
 south-eastern Senegal. [@1] Officers discovered the drug during a routine check
-of a trailer truck coming from Mali in the border zone. [@1] The cannabis was
+of a trailer truck coming from Mali in the border zone. [@1,2] The cannabis was
 hidden in a fitted cache in the floor of the vehicle, described by customs as a
 double bottom with very large storage capacity. [@1]
 
 The seizure totalled 1.44 tonnes of cannabis, with a market value estimated by
-customs at 173 million FCFA. [@1] The cannabis was packed as 72 bags of 20
-kilograms each loaded into the hiding place. [@1] On its outward journey the
+customs at 173 million FCFA. [@1,2] The cannabis was packed as 72 bags of 20
+kilograms each loaded into the hiding place. [@1,2] On its outward journey the
 truck had carried cement for delivery in Mali, and the traffickers loaded the
-cannabis for the return trip. [@1]
+cannabis for the return trip. [@1,2]
 
 Senegalese customs called it a record seizure, unmatched since the start of 2019
-and one of the largest in that part of the country for several years. [@1]
-
+and one of the largest in that part of the country for several years. [@1,2]
