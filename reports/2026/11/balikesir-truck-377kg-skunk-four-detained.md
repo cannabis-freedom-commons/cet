@@ -121,16 +121,19 @@ sources:
     publisher: وكالة نيو ترك بوست الاخبارية
     date: 2026-11-19
     language: ar
-open_questions:
-    - Haber Kenti says the part of the minivan where the cannabis was hidden and the vehicle's route were not disclosed, while other accounts place the drugs in the pickup truck's cargo bed.
+  - title: Balıkesir'de 377 kilo uyuşturucu ele geçirildi
+    url: https://www.bansesgazetesi.com/balikesir/balikesirde-377-kilo-uyusturucu-ele-gecirildi/
+    publisher: Bandırma Haber
+    date: 2026-11-19
+    language: tr
 ---
 
 Balıkesir provincial police narcotics branch teams stopped and searched a pickup
-truck in the Balıkesir city centre on 18 November 2026. [@1,4,5,6,7,9,10,12,13] Four suspects were
-detained on suspicion of manufacturing and trading narcotic substances. [@1,4,5,6,7,8,9,10,11,12,13] The four suspects were taken to the security centre for questioning. [@13]
+truck in the Balıkesir city centre on 18 November 2026. [@1,4,5,6,7,9,10,12,13,14] Four suspects were
+detained on suspicion of manufacturing and trading narcotic substances. [@1,4,5,6,7,8,9,10,11,12,13,14] The four suspects were taken to the security centre for questioning. [@13]
 
-Officers found 377 kilograms 200 grams of skunk, or esrar, in the vehicle. [@1,4,5,6,7,8,9,10,11,12,13]
-The search was carried out with the narcotics detection dog YAŞA. [@2,4,6,7,8,9,10,12,13] The
+Officers found 377 kilograms 200 grams of skunk, or esrar, in the vehicle. [@1,4,5,6,7,8,9,10,11,12,13,14]
+The search was carried out with the narcotics detection dog YAŞA. [@2,4,6,7,8,9,10,12,13,14] The
 cannabis was found in the truck's cargo bed, which officers searched with the
 dog Yaşa. [@3]
 
