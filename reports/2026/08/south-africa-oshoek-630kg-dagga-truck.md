@@ -23,6 +23,11 @@ media:
     media_url: https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/08/Dagga-bust-2-769x577.jpg
     publisher: SABC News
     caption: 'The truck with the seized bags of dagga at Oshoek. Photo: @SAPoliceService via SABC News.'
+  - kind: photo
+    url: https://eswatinipositivenews.online/630kg-dagga-worth-over-e4-million-seized-at-oshoek-border/
+    media_url: https://eswatinipositivenews.online/wp-content/uploads/2026/08/00-161.png
+    publisher: Eswatini Positive News
+    caption: 'A truck loaded with tyres and yellow-wrapped packages from the Oshoek dagga seizure, published with the article. Photo: Eswatini Positive News'
 details:
   activity: [possession]
   agencies: [za-saps]
@@ -60,28 +65,24 @@ sources:
     publisher: eNCA
     date: 2026-08-17
     language: en
-open_questions:
-  - The arrested driver's name, age and nationality were not published.
-  - No court date or outcome was reported beyond the expected first appearance on a charge of dealing in dagga.
-  - The 630 kg weight and R4 million value are approximate police estimates, not confirmed laboratory or audited figures.
-  - 'Left out, as its quotation was not found in The South African: Police estimate the consignment''s street value at more than R4 million.'
-  - 'Left out, as its quotation was not found in The South African: Investigators are tracing the consignment''s origin and destination and checking whether others were involved in the drug operation.'
-  - 'Left out, as its quotation was not found in The South African: Mpumalanga Provincial Commissioner Lieutenant General Apaphia Modise welcomed the arrest and seizure, saying the operation highlighted the importance of stronger law-enforcement efforts at the country''s borders.'
-  - The published street value of more than R4 million is a police estimate; eNCA gives no separate breakdown of it.
-  - No court date or outcome was reported in this account.
+  - title: 630KG DAGGA WORTH OVER E4 MILLION SEIZED AT OSHOEK BORDER
+    url: https://eswatinipositivenews.online/630kg-dagga-worth-over-e4-million-seized-at-oshoek-border/
+    publisher: Eswatini Positive News
+    date: 2026-08-17
+    language: en
 ---
 
 Mpumalanga police arrested a truck driver for possession of dagga, the South
 African term for cannabis, at the Oshoek Port of Entry on the border with the
 Kingdom of Eswatini. [@1,3] The arrest took place at about 1:30am on Monday, 17
 August 2026, on the South African arrival side from the Kingdom of Eswatini.
-[@2] The suspect was subsequently arrested and detained at Hartebeeskop SAPS.
-[@1] The suspect is expected to appear in court on a charge of dealing in dagga.
-[@2]
+[@2,4] The suspect was subsequently arrested and detained at Hartebeeskop SAPS.
+[@1,4] The suspect is expected to appear in court on a charge of dealing in dagga.
+[@2,4]
 
 During the search, police discovered 49 bags containing suspected dagga with a
-combined weight of approximately 630 kg. [@1,3] The seized truck, a Volvo horse
+combined weight of approximately 630 kg. [@1,3,4] Police estimated the consignment's street value at more than R4 million. [@4] The seized truck, a Volvo horse
 and trailer with Kingdom of Eswatini registration and reportedly belonging to a
-logistics company based in the Kingdom of Eswatini was also seized. [@1]
+logistics company based in the Kingdom of Eswatini was also seized. [@1,4]
 
 Mpumalanga police spokesperson Mpho Nonyane-Mpe said the search was carried out by officials on search duties, and that police were still establishing the consignment's origin and intended destination and whether other people were linked to the drug trade. [@3]
