@@ -41,22 +41,25 @@ sources:
     publisher: Кворум Силистра
     date: 2026-11-19
     language: bg
+  - title: 42-годишен е задържан с 11,4 грама канабис в Силистра – Новини Силистра
+    url: https://silistranews.net/2026/11/19/42-godishen-e-zadarzhan-s-11-4-grama-kanabis-v-silistra
+    publisher: Новини Силистра
+    date: 2026-11-19
+    language: bg
 open_questions:
-  - The man was identified only as a 42-year-old; no name was published.
-  - No precise location within Silistra for the police check was reported.
-  - No laboratory confirmation of the cannabis was reported.
-  - No charge or court outcome beyond the pre-trial procedure and 24-hour detention was reported.
-  - The account rests on a single outlet reproducing the Silistra police statement; no second account was found.
+    - The man was identified only as a 42-year-old; no name was published.
+    - No precise location within Silistra for the police check was reported.
+    - No laboratory confirmation of the cannabis was reported.
+    - No charge or court outcome beyond the pre-trial procedure and 24-hour detention was reported.
 ---
 
 Police detained a 42-year-old man for possession of a narcotic substance during
 a police check in Silistra on 18 November 2026, as reported by the Regional
-Directorate of the Interior Ministry. [@1] During the check officers found that
+Directorate of the Interior Ministry. [@1,2] During the check officers found that
 the man was holding 11.4 grams of cannabis, classified as a high-risk narcotic
-substance. [@1]
+substance. [@1,2]
 
-The drug was seized and the 42-year-old was detained for up to 24 hours. [@1] A
+The drug was seized and the 42-year-old was detained for up to 24 hours. [@1,2] A
 pre-trial procedure was opened at the Silistra district police administration.
-[@1] Work to clarify the circumstances continues under the direction of an
+[@1,2] Work to clarify the circumstances continues under the direction of an
 investigating police officer. [@1]
-
