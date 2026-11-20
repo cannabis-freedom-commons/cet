@@ -77,6 +77,11 @@ sources:
     publisher: Latina Oggi
     date: 2026-11-19
     language: it
+  - title: 'Sezze, droga in casa: 43enne e 18enne arrestati dai Carabinieri'
+    url: https://www.latinanews.eu/sezze-droga-in-casa-43enne-e-18enne-arrestati-dai-carabinieri/
+    publisher: Latina News
+    date: 2026-11-19
+    language: it
 open_questions:
   - The total of 84 grams is the sum of separately reported approximate amounts (about 3 g, 1 g and 75 g of marijuana and 5 g of hashish); the sources describe the quantities as approximate.
   - No laboratory confirmation of the substances was reported.
@@ -86,17 +91,16 @@ open_questions:
 
 Carabinieri in Sezze arrested a 43-year-old man and an 18-year-old on the
 morning of 18 November 2026, suspecting them of jointly possessing drugs for
-sale. [@2] The 43-year-old was already under house arrest for drug offences and
-the officers had come to his home for a routine compliance check. [@3]
+sale. [@2,5] The 43-year-old was already under house arrest for drug offences and
+the officers had come to his home for a routine compliance check. [@3,5]
 
 Inside the apartment they saw marijuana residue on the living-room table and a
 glass jar near the fireplace holding about three grams of the same substance.
-[@1] The 18-year-old, found in a bedroom, had five grams of hashish and one gram
-of marijuana. [@1] Under the mattress were about 75 grams of marijuana in 27
-small bags the carabinieri believed were meant for sale. [@1] A backpack beside
+[@1,5] The 18-year-old, found in a bedroom, had five grams of hashish and one gram
+of marijuana. [@1,5] Under the mattress were about 75 grams of marijuana in 27
+small bags the carabinieri believed were meant for sale. [@1,5] A backpack beside
 the bed held material for cutting and packaging the doses, including a
-vacuum-packing machine. [@3]
+vacuum-packing machine. [@3,5]
 
 Both were arrested and placed under house arrest at their homes pending an
-immediate trial, a giudizio direttissimo. [@4]
-
+immediate trial, a giudizio direttissimo. [@4,5]
