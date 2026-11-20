@@ -39,6 +39,11 @@ media:
     media_url: https://24kgr2.bemint.pro/assets/1794301226688-e9b87509-b2eb-4504-9394-b0bcb1f90745-gashishjpg-optimized.webp
     publisher: 24.kg
     caption: 'Photograph published with the report on the detention of a man with more than 5 kg of Afghan hashish in Osh Region. Photo: 24.kg'
+  - kind: photo
+    url: https://open.kg/en/news/incidents/136976-v-oshskoj-oblasti-izjali-krupnuju-partiju-afganskogo-gashisha.html
+    media_url: https://open.kg/uploads/posts/2026-11/1794371180-1xl.webp
+    publisher: Open.kg
+    caption: 'Lead image on the Open.kg report, showing the batch of Afghan hashish seized in Osh Region. Photo: www (credit as published on the page).'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 351fcc3bd71a60c248bc3948d0c70971
@@ -74,17 +79,21 @@ sources:
     publisher: Open.kg
     date: 2026-11-11
     language: ru
+  - title: A large batch of Afghan hashish seized in Osh region
+    url: https://open.kg/en/news/incidents/136976-v-oshskoj-oblasti-izjali-krupnuju-partiju-afganskogo-gashisha.html
+    publisher: Open.kg
+    date: 2026-11-11
 ---
 
 Officers of Kyrgyzstan's Service for Combating Illicit Drug Trafficking detained
-a man in Osh Region who is suspected of distributing drugs. [@1,2,3,4,5,6] Officers said
+a man in Osh Region who is suspected of distributing drugs. [@1,2,3,4,5,6,7] Officers said
 Afghan-origin hashish was found on the detainee, and they seized more than 5
-kilograms of it. [@1,2,3,4,5,6] The detainee was identified as citizen E.M., the exact weight seized was 5 kilograms 47 grams, and the drugs were sent for examination. [@5,6]
+kilograms of it. [@1,2,3,4,5,6,7] The detainee was identified as citizen E.M., the exact weight seized was 5 kilograms 47 grams, and the drugs were sent for examination. [@5,6,7]
 
 A criminal case was opened under article 282 of the Criminal Code, which covers
 illegal manufacture of narcotic drugs, psychotropic substances and their
-analogues for the purpose of sale. [@1,2,3,4,5,6]
+analogues for the purpose of sale. [@1,2,3,4,5,6,7]
 
 Operational and investigative measures were continuing, and police were working
 to identify other people who may have been involved and to establish the
-channels used to move the drugs. [@1,2,3,4,5,6]
+channels used to move the drugs. [@1,2,3,4,5,6,7]
