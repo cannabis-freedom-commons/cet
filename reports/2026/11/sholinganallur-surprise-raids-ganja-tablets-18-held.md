@@ -37,29 +37,33 @@ sources:
     url: https://www.thehindu.com/news/cities/chennai/surprise-raids-conducted-by-police-teams-in-sholinganallur-results-in-seize-of-ganja-and-narcotic-tablets/article71720474.ece/amp/
     publisher: The Hindu
     date: 2026-11-20
+  - title: 'தனியாா் விடுதிகளில் சோதனை: கஞ்சா, போதை மாத்திரைகள் பறிமுதல்'
+    url: https://www.dinamani.com/amp/story/all-editions/edition-chennai/chennai/2026/Nov/19/raids-at-private-lodgings-ganja-and-narcotic-pills-seized
+    publisher: தினமணி
+    date: 2026-11-19
+    language: ta
 open_questions:
-  - No weight or quantity was published for the ganja or the narcotic tablets seized.
-  - No count was published for the two-wheelers and four-wheelers seized.
-  - The arrest sentence reads as three history-sheeters plus 15 possessors, counted here as 18; it could conceivably mean 15 in total including the three.
-  - The article gives no separate date for the raids, so 20 November 2026, the publication date, stands in for the incident date.
-  - No names, charges, remand or court outcome were reported for the people arrested.
-  - The account rests on a single Hindu bureau report citing the Tambaram police; no second outlet account of this sweep was found.
+    - No count was published for the two-wheelers and four-wheelers seized.
+    - The arrest breakdown of three history-sheeters and 15 possessors comes from one account; the second account reported only a total of 18 arrests.
+    - Dinamani places the searches on a Thursday, which was 19 November 2026, while the report's 20 November date is the other outlet's publication date, so the incident date is not definitively fixed.
+    - No names, charges, remand or court outcome were reported for the people arrested.
+    - Dinamani reported 1,000 police including 162 officers, while The Hindu reported more than 160 police personnel; the two figures for the size of the force are not reconciled.
+    - Both accounts originate from information supplied by the Tambaram police commissionerate, so they are not independent corroboration of the operation's scale.
 ---
 
 During surprise raids across several places in Sholinganallur, police arrested
 three history-sheeters and 15 persons found in possession of narcotic items.
-[@1] Police personnel of Pallikaranai district under the Tambaram Police
+[@1,2] Police personnel of Pallikaranai district under the Tambaram Police
 Commissionerate organised the surprise enforcement operation in which ganja and
-narcotic tablets were seized. [@1] The Tambaram police said more than 160 police
-personnel split into 47 teams took part in the surprise raids. [@1] The 47 teams
+narcotic tablets were seized. [@1,2] The Tambaram police said more than 160 police
+personnel split into 47 teams took part in the surprise raids. [@1,2] The 47 teams
 were led by T. Eswaran, the Deputy Commissioner of Police for Pallikaranai
-district. [@1]
+district. [@1] Tambaram City Police Commissioner Najmul Hoda ordered the searches after receiving information that drugs were being used at lodgings in the southern Chennai suburbs. [@2]
 
 The teams searched more than 90 houses in various places, including the housing
-tenements in Kannagi Nagar of Sholinganallur. [@1] Kannagi Nagar's housing
+tenements in Kannagi Nagar of Sholinganallur. [@1,2] The named localities included Pallikaranai, Sholinganallur, Perumbakkam, Medavakkam, Kannagi Nagar and Semmancheri. [@2] Kannagi Nagar's housing
 tenements were specifically named among the various places where the more than
 90 houses were searched. [@1] Officers seized quantities of ganja and narcotic
-tablets during the Sholinganallur house searches. [@1] Officers also seized
+tablets during the Sholinganallur house searches. [@1,2] Police seized 4.25 kg of ganja and 119 narcotic tablets during the searches and registered nine cases in connection with the raid. [@2] Officers also seized
 two-wheelers and four-wheelers from the people found with the narcotic items in
 the same operation. [@1]
-
