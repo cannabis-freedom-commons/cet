@@ -47,29 +47,34 @@ sources:
     publisher: L'Unione Sarda German
     date: 2026-11-19
     language: de
+  - title: 'Hashish e smartphone a disposizione dei detenuti del carcere di Uta: operazione della polizia penitenziaria con il supporto dei cani antidroga'
+    url: https://www.sardiniapost.it/cronaca/hashish-e-smartphone-a-disposizione-dei-detenuti-del-carcere-di-uta-operazione-della-polizia-penitenziaria-con-il-supporto-dei-cani-antidroga/
+    publisher: Sardiniapost.it
+    date: 2026-11-19
+    language: it
 open_questions:
     - No weight was published for the about 150 doses of hashish, so no kilograms can be recorded.
     - No count was published for the several mobile phones, described only as diversi.
     - No separate date was given for the search; 19 November 2026 is the publication and announcement date and stands in for the incident.
     - No detainee was named and no arrest, charge or disciplinary outcome was reported.
-    - The Chinese edition describes the drug generically as cannabis while the Italian and German accounts specify hashish; the report uses hashish.
-    - The Italian and German accounts reproduce the same FNS CISL note and are not independent reporting beyond that statement.
+    - The Chinese edition describes the drug generically as cannabis while the Italian, German and Sardiniapost accounts specify hashish; the report uses hashish.
+    - The Italian, German and Sardiniapost accounts reproduce the same FNS CISL note and are not independent reporting beyond that statement.
 ---
 
 Penitentiary police searched inside the Cagliari-Uta prison, coordinated by the
 unit commander and his deputy, with support from the drug-dog unit based at the
-Nuoro-Badu 'e Carros prison. [@2,4] Officers seized about 150 doses of hashish and
-several mobile phones kept illegally in the cells. [@3,4] The Chinese edition
+Nuoro-Badu 'e Carros prison. [@2,4,5] Officers seized about 150 doses of hashish and
+several mobile phones kept illegally in the cells. [@3,4,5] The Chinese edition
 reported the same find as about 150 doses of cannabis and several phones inside
 the Cagliari-Uta prison. [@1]
 
-Drug-detection dog Leo's scent was decisive in locating the drugs. [@3,4] The FNS
+Drug-detection dog Leo's scent was decisive in locating the drugs. [@3,4,5] The FNS
 CISL union announced the seizure and praised the penitentiary-police operation
-supported by the Badu 'e Carros dog unit. [@3,4] The union called the seizure a
+supported by the Badu 'e Carros dog unit. [@3,4,5] The union called the seizure a
 hard blow to drug circulation and to unauthorised telephone contact with the
-outside. [@2,4]
+outside. [@2,4,5]
 
 The union said this was not the first discovery of drugs and phones in the
-facility and that repeated episodes show a persistent problem. [@2,4] It said
+facility and that repeated episodes show a persistent problem. [@2,4,5] It said
 control and seizure operations alone are not enough and prevention must be
-strengthened to block illicit inflow. [@2,4]
+strengthened to block illicit inflow. [@2,4,5]
