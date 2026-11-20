@@ -59,6 +59,11 @@ media:
     media_url: https://www.rosario3.com/__export/1786485519479/sites/rosario3/img/2026/08/11/micro_sao_paulo.jpg_815021171.jpg
     publisher: Rosario3
     caption: Bus linked to São Paulo FC after the team changed buses, published with the Rosario3 report of the marijuana seizure.
+  - kind: photo
+    url: https://www.eldiario.ec/mundo/bus-contratado-por-sao-paulo-fue-detenido-con-86-kilos-de-marihuana-11082026/
+    media_url: https://img.eldiario.ec/upload/2026/08/17161D524C434C6D14170F55564940761F121918534A43781D1E-1200x800.webp
+    publisher: El Diario
+    caption: 'Bolivian police seizure of 86 kilos of marijuana from the bus. Photo: social media via El Diario'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: da02da0fb25f46275ed9a2da12310038
@@ -196,11 +201,16 @@ sources:
     publisher: Rosario3
     date: 2026-08-11
     language: es
+  - title: Bus contratado por Sao Paulo fue detenido con 86 kilos de marihuana
+    url: https://www.eldiario.ec/mundo/bus-contratado-por-sao-paulo-fue-detenido-con-86-kilos-de-marihuana-11082026/
+    publisher: El Diario
+    date: 2026-08-11
+    language: es
 ---
 
 Bolivian police stopped a coach of the company Buses Cosmos, hired to carry the São Paulo FC squad
 during its visit to Bolivia for a Copa Sudamericana match against Bolívar, and found about 86 kilos of
-marijuana hidden inside it. [@1,2,5,6,7,9,10,11,12,14,15,17,18,19,20,21,22,23,24,25,26] The coach was intercepted in Villa Tunari, a coca-producing zone in the central department of Cochabamba. [@19,25] One account gives 86.5 kilograms. [@12,14,15,16,18,20,26] Officers of
+marijuana hidden inside it. [@1,2,5,6,7,9,10,11,12,14,15,17,18,19,20,21,22,23,24,25,26,27] The coach was intercepted in Villa Tunari, a coca-producing zone in the central department of Cochabamba. [@19,25] One account gives 86.5 kilograms. [@12,14,15,16,18,20,26] Officers of
 UMOPAR, the Mobile Police Unit for Rural Areas [@5,8,9,10], found four bags of the drug in the coach
 [@2,3,5,6,8,9,10] at the Locotal control post on the road between Cochabamba and Santa Cruz.
 [@8,9,11,13]
@@ -216,7 +226,7 @@ The coach regularly ran between Santa Cruz de la Sierra and Cochabamba and had l
 Cruz, where the squad was staying. [@2,4] Its three drivers were detained. [@2,3,5,6,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24] The three detained were described as people linked to the transport of the bus. [@14,18] Buses
 Cosmos said the police were investigating, that all responsibility lay with the drivers, and that it
 had provided another vehicle for the team. [@2,3,4,5,8,9,10,11,15,17,18,19,20,23,26] The authorities were investigating where
-the marijuana came from and who was moving it. [@1,7,16,22,24,26]
+the marijuana came from and who was moving it. [@1,7,16,22,24,26,27]
 
 The São Paulo squad had not used the coach and had no contact with the men detained; it had been taken
 from the airport to its hotel on the night of 10 August in another coach of the same company, and
