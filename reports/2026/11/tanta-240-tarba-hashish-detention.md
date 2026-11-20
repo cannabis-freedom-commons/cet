@@ -41,12 +41,17 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-19
     language: ar
+  - title: مباحث أول طنطا تضبط عاطلًا بحوزته 240 طربة حشيش
+    url: https://mwlana.com/details/333215/
+    publisher: بوابة مولانا
+    date: 2026-11-19
+    language: ar
 open_questions:
-  - The article gives no separate date for the arrest; 19 November 2026 is its publication date and is used as the incident date.
-  - No weight or street value was published for the 240 tarba of hashish, so no kilogram figure could be given.
-  - No charge, plea, court date or further outcome beyond the prosecution's detention order was reported.
-  - The same article reports a separate arms-and-drugs operation by El Mahalla El Kubra police, which is a different event and is not covered here.
-  - The account rests on a single opened source; no independent corroboration was found.
+    - The articles give no separate date for the arrest; 19 November 2026 is their publication date and is used as the incident date.
+    - No weight or street value was published for the 240 tarba of hashish, so no kilogram figure could be given.
+    - No charge, plea, court date or further outcome beyond the prosecution's detention order was reported.
+    - The Dostor article reports a separate arms-and-drugs operation by El Mahalla El Kubra police, which is a different event and is not covered here.
+    - Both the Dostor and Mowlana Gateway accounts reproduce the same police statement, so they are not independent reporting of the arrest.
 ---
 
 Tanta First Section Prosecution ordered the detention of an unemployed man
@@ -54,15 +59,14 @@ caught by police with a large quantity of hashish before he could distribute it
 to customers across Tanta. [@1] The suspect, a resident of the police precinct,
 was believed to have specialized in trafficking narcotic substances and to have
 used the highway area within the precinct as the scene of his illegal activity.
-[@1] The information came from the Tanta First Police Station investigations
+[@1,2] The information came from the Tanta First Police Station investigations
 unit, headed by Major Ahmed Al-Kafrawi with Captain Ziad Saif as his deputy.
-[@1]
+[@1,2]
 
 After legal formalities were completed and permission was obtained from the
 public prosecution, security forces set up several fixed and mobile checkpoints.
 [@1] The checkpoints led to the suspect being caught while he was in the highway
-area. [@1] A search of him found 240 tarba of hashish in his possession, tarba
-being a local term for pieces of the drug. [@1] Officers drew up a report on the
+area. [@1,2] A search of him found 240 tarba of hashish in his possession, tarba
+being a local term for pieces of the drug. [@1,2] Officers drew up a report on the
 incident and notified the prosecution, which issued the order for his detention.
 [@1]
-
