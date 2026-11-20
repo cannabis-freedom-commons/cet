@@ -81,30 +81,29 @@ sources:
     publisher: Moncloa
     date: 2026-11-19
     language: es
-open_questions:
-    - No separate date for the search was given; 19 November 2026 is the publication date and stands in for the incident date.
-    - The searched dwelling has been located in Frías and in Valle de Tobalina, so the exact municipality is disputed.
-    - The 40 kilograms is the reported green weight of the 17 plants; only the 2 kilograms of buds were reported dry.
-    - No plea, charge outcome or detention measure beyond placement at judicial disposition was reported.
-    - All accounts reproduce the Guardia Civil statement and are not independent reporting.
+  - title: La Guardia Civil desmantela una plantación de marihuana en un invernadero del Valle de Tobalina
+    url: https://radioespinosamerindades.es/sucesos/la-guardia-civil-desmantela-una-plantacion-de-marihuana-en-un-invernadero-del-valle-de-tobalina/
+    publisher: Radio Espinosa Merindades
+    date: 2026-11-19
+    language: es
 ---
 
 The Guardia Civil located a marijuana plantation inside a greenhouse in a
 locality in Valle de Tobalina, in the north of Burgos province. [@3,5] The action
 was carried out under Operation Delgadilla, opened after officers of the Miranda
-de Ebro company learned of a possible unlawful crop in the area. [@2,5] After
+de Ebro company learned of a possible unlawful crop in the area. [@2,5,7] After
 identifying a dwelling with signs of the activity, officers searched it with the
-owner's authorisation and in his presence. [@1,4] A 34-year-old person was placed
+owner's authorisation and in his presence. [@1,4,7] A 34-year-old person was placed
 at judicial disposition as the alleged author of a public-health
 drug-trafficking offence in the form of cultivation. [@1,4,6] The investigated
 person, with the case papers, was placed at the disposition of the Villarcayo
-courts. [@1,4]
+courts. [@1,4,7]
 
 Inside the property officers found a 40-square-metre greenhouse with the 17
 plants rooted directly in the soil, staked and tended and in an advanced
-flowering state close to harvest. [@1,4] The seized plants were identified as Cannabis sativa. [@4] The operation ended with the seizure of
+flowering state close to harvest. [@1,4,7] The seized plants were identified as Cannabis sativa. [@4] The operation ended with the seizure of
 the 17 cannabis plants, weighing 40 kilograms green, plus another 2 kilograms of
-already dry buds. [@1,5] During a more thorough inspection of the dwelling
+already dry buds. [@1,5,7] During a more thorough inspection of the dwelling
 officers also found the two kilograms of already dry marijuana buds, which were
 also seized. [@2,4] The seized material was handed over to the Health Area of the
 Government Subdelegation in Burgos. [@1,4]
