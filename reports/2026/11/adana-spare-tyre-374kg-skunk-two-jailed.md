@@ -63,6 +63,16 @@ sources:
     publisher: Milliyet
     date: 2026-11-19
     language: tr
+  - title: 'Yedek lastik altına 3 kilo 740 gram skunk zulaladılar: 2 şüpheli tutuklandı'
+    url: https://www.antalyahaberal.com/service/amp/yedek-lastik-altina-3-kilo-740-gram-skunk-zulaladilar-2-supheli-tutuklandi-114315h.htm
+    publisher: Antalya Haberal
+    date: 2026-11-19
+    language: tr
+  - title: Otomobilin yedek lastik bölümündeki uyuşturucuyu ‘Barbara’ buldu
+    url: https://www.dha.com.tr/yerel-haberler/adana/otomobilin-yedek-lastik-bolumundeki-uyusturucuy-2984478
+    publisher: DHA
+    date: 2026-11-19
+    language: tr
 media:
   - kind: video
     url: https://m.sabah.com.tr/video/yasam/yedek-lastik-altina-3-kilo-740-gram-skunk-zulaladilar-2-supheli-tutuklandi-video/amp
@@ -72,20 +82,20 @@ media:
 ---
 
 Adana anti-narcotics police received information that İ.T. and H.B. would bring
-drugs into the city by road. [@1,2,3] Acting on the tip, officers followed the car
+drugs into the city by road. [@1,2,3,6] Acting on the tip, officers followed the car
 the suspects were travelling in. [@1] Officers stopped the car driven by İ.T.
-after following it for some time. [@1,2,5] Officers had followed the car on the Tarsus-Adana-Gaziantep motorway and stopped it in Sarıçam. [@4] The driver İ.T. and the passenger H.B.
+after following it for some time. [@1,2,5] Officers had followed the car on the Tarsus-Adana-Gaziantep motorway and stopped it in Sarıçam. [@4,7] The driver İ.T. and the passenger H.B.
 were taken into detention. [@1,2] The driver İ.T. was 42 and the passenger H.B. was 38. [@4]
 
 Officers carried out a detailed search of the car accompanied by narcotics
 detector dog Barbara. [@1,2,3,5] After Barbara reacted to the luggage compartment,
 officers concentrated their work there. [@1,2] Under the spare tyre in the boot,
 officers found a total of 3 kilos 740 grams of skunk concealed in 3 specially
-hidden packs and seized the drugs. [@1,2,3,5] The drugs were confiscated and the two
+hidden packs and seized the drugs. [@1,2,3,5,6] The drugs were confiscated and the two
 suspects were taken to the police for questioning. [@1]
 
 In police questioning, İ.T. and H.B. did not accept the accusations against
 them. [@1] The suspects reportedly defended themselves by saying they had
 absolutely no knowledge of the drugs. [@1,2] After police procedures were
 completed, the two suspects were referred to the courthouse. [@1] İ.T. and H.B.
-were remanded by the court and sent to prison. [@1,2,3,5]
+were remanded by the court and sent to prison. [@1,2,3,5,7]
