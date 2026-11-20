@@ -66,20 +66,25 @@ sources:
     publisher: Новости Брянска
     date: 2026-11-19
     language: ru
+  - title: Полицейские заглянули в багажник брянца и нашли 1,6 кг конопли
+    url: https://riastrela.ru/p/236771/
+    publisher: РИА «Стрела»
+    date: 2026-11-19
+    language: ru
 ---
 
 A district court in Komarichi, Bryansk Oblast, convicted a 50-year-old woman and
 a 55-year-old man for storing banned substances for personal use. [@1] Both
 defendants fully admitted guilt and expressed remorse at trial. [@1,3] The court
 fined the woman 30,000 roubles. [@1,3] The court sentenced the man to 3 years and
-2 months of imprisonment, suspended with a 3-year probationary period. [@1,3] The
+2 months of imprisonment, suspended with a 3-year probationary period. [@1,3,4] The
 court also ordered the man's car used in the offence confiscated to state
-revenue. [@2,3]
+revenue. [@2,3,4]
 
 The woman had kept more than 34 grams of marijuana at her home. [@1,3] The man had
 collected 1.6 kilograms of wild-growing cannabis into a sack and kept it in the
 boot of his car. [@1,3] On 16 September 2026 he gathered cannabis plants totalling
 more than 1.6 kilograms and tried to carry them home for later personal use
-before police detained him on the way. [@2] Prosecutors said the man's case
+before police detained him on the way. [@2,4] Prosecutors said the man's case
 involved storage of drug-containing plants on a large scale. [@2] Neither
-verdict had entered into legal force at the time of reporting. [@1,3]
+verdict had entered into legal force at the time of reporting. [@1,3,4]
