@@ -79,13 +79,18 @@ sources:
     publisher: Infobae
     date: 2026-05-07
     language: es
+  - title: Fuerzas del orden de Perú y Brasil incautan cerca de 9 toneladas de droga y armamento | Agencia Andina
+    url: https://andina.pe/agencia/noticia-fuerzas-del-orden-peru-y-brasil-incautan-cerca-9-toneladas-droga-y-armamento-1074154.aspx
+    publisher: Agencia Andina
+    date: 2026-05-07
+    language: es
 ---
 
 Peruvian police and armed forces working with Brazilian troops seized a large
 marijuana consignment on the banks of the Yavarí river, in Peru's Loreto region,
 as part of a joint operation against drug trafficking in the Amazon triple
-border area. [@1,3,4] The joint deployment was named Operación Espejo Mayo 2026. [@4] Peru's defence ministry said about eight tonnes of marijuana
-were taken on 6 May, the second day of the operation. [@1,4] On 5 May, the first day, officers seized 985 kilograms of narcotics, destroyed a makeshift laboratory and removed chemicals, weapons and materials used by illegal organisations. [@4] The marijuana was
+border area. [@1,3,4,5] The joint deployment was named Operación Espejo Mayo 2026. [@4,5] Peru's defence ministry said about eight tonnes of marijuana
+were taken on 6 May, the second day of the operation. [@1,4,5] On 5 May, the first day, officers seized 985 kilograms of narcotics, destroyed a makeshift laboratory and removed chemicals, weapons and materials used by illegal organisations. [@4,5] The marijuana was
 found on the banks of the Javari, the river marking this stretch of the
 Brazil-Peru border, on Peruvian territory. [@2]
 
@@ -95,6 +100,6 @@ skunk-type marijuana. [@2,3] Soldiers also reported finding four .22 rifles, a
 ballistic vests with the load. [@2,3]
 
 Peruvian officers also destroyed a large drug laboratory and illegal camps
-during the operation, according to the defence ministry. [@1,4]
+during the operation, according to the defence ministry. [@1,4,5]
 
 The dismantled production camps were located at Quebrada Zacambú and the community of Limones. [@3] The camps had advanced infrastructure for drying and pressing creepy-type marijuana. [@3] A Brazilian Navy vessel moved the 14 tonnes to the headquarters for custody after the official weighing was completed. [@3] After binational protocols, the whole consignment was to be repatriated to Peru for final incineration under Dirandro surveillance. [@3]
