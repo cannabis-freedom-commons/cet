@@ -57,6 +57,10 @@ sources:
     publisher: CagliariToday
     date: 2026-11-19
     language: it
+  - title: 'A raid on Uta prison: cell phones and 150 doses of hashish seized.'
+    url: https://www.unionesarda.it/en/sardinia/a-raid-on-uta-prison-cell-phones-and-150-doses-of-hashish-seized-i215uxtg
+    publisher: L'Unione Sarda English
+    date: 2026-11-19
 open_questions:
     - No weight was published for the about 150 doses of hashish, so no kilograms can be recorded.
     - No count was published for the several mobile phones, described only as diversi.
@@ -68,12 +72,12 @@ open_questions:
 
 Penitentiary police searched inside the Cagliari-Uta prison, coordinated by the
 unit commander and his deputy, with support from the drug-dog unit based at the
-Nuoro-Badu 'e Carros prison. [@2,4,5,6] Officers seized about 150 doses of hashish and
-several mobile phones kept illegally in the cells. [@3,4,5,6] The Chinese edition
+Nuoro-Badu 'e Carros prison. [@2,4,5,6,7] Officers seized about 150 doses of hashish and
+several mobile phones kept illegally in the cells. [@3,4,5,6,7] The Chinese edition
 reported the same find as about 150 doses of cannabis and several phones inside
 the Cagliari-Uta prison. [@1]
 
-Drug-detection dog Leo's scent was decisive in locating the drugs. [@3,4,5,6] The FNS
+Drug-detection dog Leo's scent was decisive in locating the drugs. [@3,4,5,6,7] The FNS
 CISL union announced the seizure and praised the penitentiary-police operation
 supported by the Badu 'e Carros dog unit. [@3,4,5] The union called the seizure a
 hard blow to drug circulation and to unauthorised telephone contact with the
