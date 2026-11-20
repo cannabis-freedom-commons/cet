@@ -64,17 +64,22 @@ sources:
     publisher: Днес България
     date: 2026-11-19
     language: bg
+  - title: Burgas police detain two men with about 2g of cannabis each
+    url: https://burgasmedia.com/news/policiyata-v-burgas-zadarzha-dvama-s-po-okolo-2-grama-marihuana?lang=en
+    publisher: BurgasMedia
+    date: 2026-11-19
+    language: en
 ---
 
 Police in Burgas carried out two separate checks on 18 November 2026, stopping a
-17-year-old youth and a 34-year-old man. [@1,4,6] The youth was checked near Block
+17-year-old youth and a 34-year-old man. [@1,4,6,7] The youth was checked near Block
 61 in the Izgrev housing complex, where officers found three joints with a total
-weight of about 2 grams. [@1,4,6] The youth was checked at about 14:00. [@4] During the second check on Gladston Street, the
+weight of about 2 grams. [@1,4,6,7] The youth was checked at about 14:00. [@4,7] During the second check on Gladston Street, the
 older man tried to discard the drug by throwing a bag of dry green plant matter
-to the ground when he saw the officers. [@3,4,6] He was detained for up to 24 hours
+to the ground when he saw the officers. [@3,4,6,7] He was detained for up to 24 hours
 and fast-track proceedings were opened against him. [@3,6]
 
-The discarded bag was found to contain about 2 grams of marijuana. [@3,5] In
+The discarded bag was found to contain about 2 grams of marijuana. [@3,5,7] In
 total, police found and seized about 4 grams of marijuana across the two checks.
 [@1] Officers described the teenager's rolls as inflorescences of dry green
 plant matter identified as marijuana. [@2]
