@@ -54,13 +54,35 @@ sources:
     url: https://staging.thestandard.co.zw/southerneye/local/article/200042516/sa-police-intercept-r8m-zim-bound-dagga
     publisher: The Southern Eye
     date: 2025-06-02
+  - title: R8 million worth of dagga from Eswatini seized
+    url: https://www.citizen.co.za/news/south-africa/crime/r8-million-worth-of-dagga-from-eswatini-seized/
+    publisher: The Citizen
+    date: 2025-05-31
+    language: en
+    archived: https://web.archive.org/web/20250721190018id_/https://www.citizen.co.za/news/south-africa/crime/r8-million-worth-of-dagga-from-eswatini-seized/
 open_questions:
   - One outlet describes 41 bags while the police statement quoted elsewhere gives 42; this report uses the 851.85 kg weight both agree on.
   - The reports give no outcome of the Tzaneen court appearance.
+media:
+  - kind: photo
+    url: https://www.citizen.co.za/news/south-africa/crime/r8-million-worth-of-dagga-from-eswatini-seized/
+    media_url: https://media.citizen.co.za/wp-content/uploads/2025/05/dagga-car-limpopo.jpg
+    publisher: The Citizen
+    caption: 'A bakkie pulling a trailer filled with drugs, in a supplied photo published with the Mooketsi seizure report. Picture: Supplied'
+  - kind: photo
+    url: https://www.citizen.co.za/news/south-africa/crime/r8-million-worth-of-dagga-from-eswatini-seized/
+    media_url: https://media.citizen.co.za/wp-content/uploads/2025/05/dagga-seize-limpopo.jpg
+    publisher: The Citizen
+    caption: 'Supplied photo of the Limpopo dagga seizure published with the Mooketsi weighbridge report. Picture: Supplied'
+  - kind: photo
+    url: https://www.citizen.co.za/news/south-africa/crime/r8-million-worth-of-dagga-from-eswatini-seized/
+    media_url: https://media.citizen.co.za/wp-content/uploads/2025/05/Dagga-bags.jpg
+    publisher: The Citizen
+    caption: 'Supplied photo of bags of dagga from the Mooketsi seizure. Picture: Supplied'
 ---
 
-Acting on intelligence about a white Toyota Hilux bakkie suspected of moving dagga from Eswatini to the Vhembe district, Limpopo tracking and task teams spotted the vehicle towing a trailer on the R36 near the Mooketsi weighbridge at about 07:00 on 30 May 2025. [@1,2]
+Acting on intelligence about a white Toyota Hilux bakkie suspected of moving dagga from Eswatini to the Vhembe district, Limpopo tracking and task teams spotted the vehicle towing a trailer on the R36 near the Mooketsi weighbridge at about 07:00 on 30 May 2025. [@1,2,3]
 
-They stopped and searched the bakkie and found 42 bags of compressed dagga weighing 851.85 kilograms, with an estimated street value of R8 million. [@1] The bakkie and trailer were seized. [@1,2]
+They stopped and searched the bakkie and found 42 bags of compressed dagga weighing 851.85 kilograms, with an estimated street value of R8 million. [@1,3] The bakkie and trailer were seized. [@1,2]
 
-The 27-year-old driver, who could not account for the dagga, was arrested and was due to appear before the Tzaneen Magistrate's Court on 2 June 2025 on a drug-dealing charge. [@1,2]
+The 27-year-old driver, who could not account for the dagga, was arrested and was due to appear before the Tzaneen Magistrate's Court on 2 June 2025 on a drug-dealing charge. [@1,2,3]
