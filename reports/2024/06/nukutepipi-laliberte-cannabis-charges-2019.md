@@ -84,14 +84,11 @@ sources:
     publisher: La Presse
     date: 2024-06-05
     language: fr
-open_questions:
-    - No separate date for the 2019 custody was published; 13 November 2019 remains the investigation date and 4 June 2024 is the trial and sentencing date.
-    - Early reports gave about 20 plants; the trial record and Laliberté’s admission give 48 plants, which this updated report uses.
-    - No weight, drug value, cultivated area or destruction of the plants was published.
-    - The court retained only use and possession and acquitted the trafficking counts, whose exact scope was not detailed.
-    - Whether the appeal left open by the defence was filed and its outcome are not reported.
-    - Fines are stated in Pacific francs; euro and dollar equivalents differ between outlets and payment was not reported.
-    - The 134,000-dollar container price comes from the TNTV trial account alone.
+  - title: Guy Laliberté arrêté pour avoir cultivé du cannabis sur son île privée en Polynésie française
+    url: https://nightlife.ca/2019/11/13/guy-laliberte-arrete-pour-avoir-cultive-du-cannabis-sur-son-ile-privee-en-polynesie-francaise/
+    publisher: Nightlife.ca
+    date: 2019-11-13
+    language: fr
 media:
   - kind: photo
     url: https://www.tntvnews.pf/polynesie/tntv_news_une/guy-laliberte-condamne-a-2-millions-damende-pour-detention-en-usage-de-cannabis/
@@ -113,10 +110,10 @@ media:
 Guy Laliberté, the co-founder of the circus company Cirque du Soleil, was
 detained in French Polynesia over cannabis grown on his private island of
 Nukutepipi in the South Pacific. [@1] The billionaire Canadian turned himself in
-to police in French Polynesia and was due to appear in court on Wednesday. [@1]
+to police in French Polynesia and was due to appear in court on Wednesday. [@1,8]
 Papeete television reported that he was presented to an investigating judge at
 11.30 on Wednesday 13 November after spending Tuesday and the night in police
-custody over cannabis cultivation on his atoll. [@2]
+custody over cannabis cultivation on his atoll. [@2,8]
 
 The judge placed him under judicial investigation and released him under
 judicial supervision, and AFP reported he was formally charged with possession
@@ -127,10 +124,10 @@ reported that about 20 cannabis plants were growing in a fitted-out container
 locked with a keypad code on the atoll. [@2] The container had been bought at his request for 134,000 US dollars, and the 48 plants were a first trial that was never harvested. [@5] He admitted at the hearing that he had planted 48 paka plants in a container to ease pain linked to his former life as an acrobat. [@4] The case followed the earlier
 interception of the director of Laliberté's Nukutepipi residence, found in
 possession of cannabis with photographs of plants grown on the atoll on his
-phone. [@2,7]
+phone. [@2,7,8]
 
 Laliberté's company Lune Rouge said he was a medical cannabis user growing the
-plant for strictly personal use and denied any sale or trafficking. [@1] His
+plant for strictly personal use and denied any sale or trafficking. [@1,8] His
 lawyer, Yves Piriou, called the case a distressing banality and said the
 cannabis was for medical and personal consumption and nothing else. [@3] His lawyers said they did not rule out an appeal. [@5] AFP
 reported that under French law he faced up to 10 years in prison, though growers
