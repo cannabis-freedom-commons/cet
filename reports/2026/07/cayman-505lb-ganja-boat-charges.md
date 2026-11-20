@@ -70,6 +70,11 @@ sources:
     publisher: Cayman Compass
     date: 2026-07-28
     language: en
+  - title: Two arrested after coastguard picks up suspicious boat
+    url: https://caymannewsservice.com/2026/06/two-arrested-after-coastguard-picks-up-suspicious-boat/
+    publisher: Cayman News Service
+    date: 2026-06-01
+    language: en
 open_questions:
   - The men are not named in the police statement or the reports.
   - No outcome after the 29 July court appearance was reported.
@@ -79,8 +84,8 @@ open_questions:
 ---
 
 Coast Guard officers, guided by a police helicopter, intercepted a boat off Grand Cayman's southern
-coast just after midnight on Friday 29 May 2026. [@3] The helicopter crew had spotted the vessel
-behaving suspiciously, and the Coast Guard found numerous packages on board. [@2,3] Police said the
+coast just after midnight on Friday 29 May 2026. [@3,4] The helicopter crew had spotted the vessel
+behaving suspiciously, and the Coast Guard found numerous packages on board. [@2,3,4] Police said the
 packages held 505 pounds of ganja (about 229 kg), 10 kilograms of cocaine, less than a kilogram of
 ketamine and MDMA, and an unlicensed firearm with ammunition. [@1,2]
 
