@@ -44,19 +44,24 @@ sources:
     url: https://www.fijitimes.com.fj/nearly-8000-marijuana-plants-seized-in-northern-division-raid/
     publisher: The Fiji Times
     date: 2026-08-05
+  - title: Close to 8,000 plants believed to be marijuana seized in Northern Division raid
+    url: https://www.fijivillage.com/feature/close-to-8-000-plants-believed-to-be-marijuana-seized-in-northern-division-raid-a38569/
+    publisher: fijivillage
+    date: 2026-08-05
+    language: en
 media:
   - kind: photo
     url: https://fijisun.com.fj/news/nation/drone-community-tip-off-lead-to-8000-marijuana-plant-bust
     media_url: https://images.fijisun.com.fj/media/f5d1c0c6-57f5-495a-83d6-3bcc262bd6d2?q=75&w=1920
     publisher: Fiji Sun
     caption: Uprooted and standing plants pictured with the Fiji Sun report on the Bilobiloca seizure.
-open_questions:
-  - The operation date is not stated separately from the 5 August publication date.
-  - The reports do not say whether the seized plants were destroyed or give a weight, area or value.
-  - The later report says no suspect had been identified or arrested; no later court outcome was reported.
-  - The map point marks the Northern Division rather than the farming area's exact location.
+  - kind: photo
+    url: https://www.fijivillage.com/feature/close-to-8-000-plants-believed-to-be-marijuana-seized-in-northern-division-raid-a38569/
+    media_url: https://www.fijivillage.com/news_images/20260805081442_media_6a7247aa426f47_40058171.jpg
+    publisher: fijivillage
+    caption: 'Photo published with the fijivillage report on the Bilobiloca seizure, credited to the Fiji Police Force. Photo: Fiji Police Force'
 ---
 
-Fiji Police said a community tip led to a raid at the Bilobiloca farming area in the Northern Division, where a drone confirmed the cultivation site. [@1,3]
+Fiji Police said a community tip led to a raid at the Bilobiloca farming area in the Northern Division, where a drone confirmed the cultivation site. [@1,3,4]
 
-Close to 8,000 plants believed to be marijuana were seized. [@1,3] The Fiji Sun reported a week later that no suspects had been identified or arrested and that the investigation continued. [@2]
+Close to 8,000 plants believed to be marijuana were seized. [@1,3,4] The Fiji Sun reported a week later that no suspects had been identified or arrested and that the investigation continued. [@2]
