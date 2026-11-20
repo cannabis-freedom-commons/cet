@@ -38,6 +38,11 @@ media:
     media_url: https://analisisurbano.org/api/public/s3/wp-content/uploads/2026/11/au-8784a3cb-8b40-4c10-a6ec-34792512e727.jpg
     publisher: Análisis Urbano
     caption: 'Police photograph of the marijuana consignment seized from the freight truck. Photo: Policía de Colombia.'
+  - kind: photo
+    url: https://www.minuto30.com/en-antioquia-hallan-84-kilos-de-marihuana-enviados-como-encomienda-en-la-via-barbosa-cisneros/1732421/
+    media_url: https://staticprd.minuto30.com/wp-content/uploads/2026/11/11-antioquia-portada-768x432.webp
+    publisher: Minuto30
+    caption: 'Seized marijuana packages from the Barbosa-Cisneros seizure. Photo: Policia Antioquia'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 1974805a3b8f0422d7ed6f4233d41309
@@ -58,29 +63,33 @@ sources:
     publisher: Hora 13 Noticias
     date: 2026-11-19
     language: es
+  - title: En Antioquia hallan 8,4 kilos de marihuana enviados como encomienda en la vía Barbosa-Cisneros - Minuto30
+    url: https://www.minuto30.com/en-antioquia-hallan-84-kilos-de-marihuana-enviados-como-encomienda-en-la-via-barbosa-cisneros/1732421/
+    publisher: Minuto30
+    date: 2026-11-19
+    language: es
 open_questions:
-  - No weight or plant count for the seizure was published; the quantity is given only as 8,492 doses.
-  - No arrest in connection with the truck consignment was reported; the case was sent to the prosecutor to establish responsibility.
-  - The police figure of about 8 million pesos is an estimated street value, not a measured quantity or loss.
-  - No laboratory result confirming the material as marijuana was reported.
-  - The freight company, the sender and the intended destination were not identified.
-  - The same roundup also reported four arrests for false documents, a motorcyclist with a false licence, a 22-year-old held in Vegachi with 20 doses of cocaine, 50 of bazuco and 35 of marijuana, and a stabbing suspect in Amaga; these are separate incidents not covered here.
+    - The quantity is reported as 8,492 doses in the earlier sources but as 8,492 grams in Minuto30; whether the figure is a weight or a dose count, and the exact weight, remain unresolved.
+    - No arrest in connection with the truck consignment was reported; the case was sent to the prosecutor to establish responsibility.
+    - The police figure of about 8 million pesos is an estimated street value, not a measured quantity or loss.
+    - No laboratory result confirming the material as marijuana was reported.
+    - The freight company, the sender and the intended destination were not identified.
+    - The same roundup also reported four arrests for false documents, a motorcyclist with a false licence, a 22-year-old held in Vegachi with 20 doses of cocaine, 50 of bazuco and 35 of marijuana, and a stabbing suspect in Amaga; these are separate incidents not covered here.
 ---
 
 Antioquia police traffic and transport officers inspecting vehicles found 8,492
 doses of marijuana being carried as an encomienda, or courier parcel, inside a
-freight company's tractor-trailer. [@2] The interception took place on Wednesday
+freight company's tractor-trailer. [@2,4] The interception took place on Wednesday
 18 November 2026 at kilometre 19+700 of the Barbosa–Cisneros road in the Brasa
 Pan sector. [@2] The operation's largest anti-drug result was recorded at
 kilometre 19+700 in the Brasa Pan sector. [@3]
 
 Police valued the consignment at about 8 million pesos on the illegal market.
-[@1] The cargo was handed to the 41st local prosecutor's office in Santo
+[@1,4] The cargo was handed to the 41st local prosecutor's office in Santo
 Domingo, which must establish the shipment's origin, destination and who was
-responsible for dispatching or transporting it. [@1]
+responsible for dispatching or transporting it. [@1,4]
 
 Authorities said courier and freight companies were increasingly being used to
 move drugs hidden among legal goods, making it harder to identify senders. [@1]
 The find came during police checks on roads and in town centres across the
 Nordeste, Occidente and Suroeste of Antioquia between 17 and 18 November. [@1]
-
