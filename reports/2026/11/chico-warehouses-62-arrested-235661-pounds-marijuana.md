@@ -58,6 +58,11 @@ media:
     media_url: https://krcrtv.com/resources/media2/16x9/2048/400/0x192/80/d378db2b-30ac-4fb2-ba10-ba33626e4659-marijuanaseizure3111926.jpg
     publisher: KRCR Chico-Redding
     caption: 'A law enforcement vehicle parked outside a building during the marijuana raid in Butte County on 19 November 2026. Photo: BCSO'
+  - kind: photo
+    url: https://krcrtv.com/news/local/gallery/62-arrested-as-raid-nets-235661-pounds-of-marijuana-at-chico-warehouses?photo=1
+    media_url: https://krcrtv.com/resources/media/388ae6fa-d9f6-4087-a81a-0bf687b2f26d-marijuanaseizure111926.jpg
+    publisher: KRCR
+    caption: 'Stacked packaged material inside a building searched during the marijuana raid in Chico on Nov. 19, 2026. Photo: BCSO'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 4ec3f0c6094e3bc0450ae843b5ce8d8e
@@ -71,22 +76,29 @@ sources:
     url: https://krcrtv.com/news/local/62-arrested-as-raid-nets-235661-pounds-of-marijuana-at-chico-warehouses
     publisher: KRCR Chico-Redding
     date: 2026-11-19
+  - title: 62 arrested as raid nets 235,661 pounds of marijuana at Chico warehouses
+    url: https://krcrtv.com/news/local/gallery/62-arrested-as-raid-nets-235661-pounds-of-marijuana-at-chico-warehouses?photo=1
+    publisher: KRCR
+    date: 2026-11-19
+  - title: Chico warehouse bust results in 62 arrests and millions in seized drugs
+    url: https://yahoo.com/news/us/articles/chico-warehouse-bust-results-62-005141742.html
+    publisher: FOX40
+    date: 2026-11-20
 ---
 
 Sixty-two people were arrested and booked into the Butte County Jail on 17
-November 2026. [@1] The raid targeted multiple industrial warehouses on
+November 2026. [@1,4] The raid targeted multiple industrial warehouses on
 Contractors Lane in Chico, California, under a search warrant obtained by the
-Butte County Sheriff's Office. [@2] The warrant was served on Tuesday, 17
+Butte County Sheriff's Office. [@2,3] The warrant was served on Tuesday, 17
 November 2026, by BCSO detectives from the Butte Interagency Narcotics Task
 Force, two Bureau of Land Management agents and a detective from the California
 Department of Cannabis Control. [@1]
 
 Detectives found 62 people at the warehouses and multiple warehouses containing
-marijuana in various stages of processing. [@1] Investigators said large
+marijuana in various stages of processing. [@1,4] Investigators said large
 quantities of marijuana were being processed at the warehouse using hemp
 processing as a cover. [@1] Testing found that the product was marijuana, not
-hemp. [@1] Detectives said about 235,661 pounds (roughly 106,894 kg) of
-marijuana were at the warehouses. [@1] They spent three days processing evidence
+hemp. [@1,4] Detectives said about 235,661 pounds (roughly 106,894 kg) of
+marijuana were at the warehouses. [@1,4] They spent three days processing evidence
 and removing the marijuana, which detectives estimated had a street value of
-approximately $282,793,200. [@1]
-
+approximately $282,793,200. [@1,4]
