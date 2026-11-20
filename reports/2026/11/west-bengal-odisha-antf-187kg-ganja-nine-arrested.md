@@ -66,22 +66,33 @@ sources:
     publisher: Aajkaal
     date: 2026-11-19
     language: bn
+  - title: अंतरराज्यीय गांजा तस्करी गिरोह पर एएनटीएफ का शिकंजा
+    url: https://sanmarg.in/amp/story/kolkata_city/interstate-ganja-smuggling-racket-busted-by-bengal-stf
+    publisher: Sanmarg Hindi Daily
+    date: 2026-11-20
+    language: hi
+media:
+  - kind: photo
+    url: https://sanmarg.in/amp/story/kolkata_city/interstate-ganja-smuggling-racket-busted-by-bengal-stf
+    media_url: https://media.assettype.com/sanmarg%2F2026-11-19%2Fosap47v5%2Fstf-arrest.jpeg?w=640
+    publisher: Sanmarg
+    caption: Bengal task-force officers pictured with the arrested accused, published with the Sanmarg report on the 187 kg ganja seizure and nine arrests.
 ---
 
 The Anti-Narcotics Task Force of West Bengal conducted coordinated raids across
 multiple districts of West Bengal and neighbouring Odisha between 14 and 19
-November 2026. [@2] The action broke up an inter-state ganja-trafficking
+November 2026. [@2,6] The action broke up an inter-state ganja-trafficking
 syndicate after six days of continuous operations in parts of both states. [@1,5]
 The six-day operation under the Nasha Mukt Bharat Abhiyan led to the arrest of
-nine people. [@2,5] Three separate cases were registered in connection with the
-haul, with first information reports filed against 12 accused in total. [@2,5]
+nine people. [@2,5,6] Three separate cases were registered in connection with the
+haul, with first information reports filed against 12 accused in total. [@2,5,6]
 
-Officers seized 187 kg of ganja in the searches. [@3,5] Police put the estimated
-street value of the seized ganja at about 94 lakh rupees. [@2,5] Three accused
+Officers seized 187 kg of ganja in the searches. [@3,5,6] Police put the estimated
+street value of the seized ganja at about 94 lakh rupees. [@2,5,6] Three accused
 remain at large and agencies are searching for them. [@1]
 
 Investigators are now working to map the broader supply chain, including
 cultivation and dispatch hubs, transit routes, intended delivery points and
-other operatives linked to the syndicate. [@2,5] Police are questioning the
+other operatives linked to the syndicate. [@2,5,6] Police are questioning the
 arrested people to establish the roles of others connected to the trafficking
-network. [@4]
+network. [@4,6]
