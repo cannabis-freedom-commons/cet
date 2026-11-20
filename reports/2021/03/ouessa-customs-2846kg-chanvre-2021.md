@@ -56,38 +56,43 @@ sources:
     publisher: Ouaganews
     date: 2021-03-23
     language: fr
+  - title: 'Burkina Faso : Trois tonnes de cannabis saisies à Ouessa, piste d''une provenance ivoirienne'
+    url: https://www.koaci.com/article/2021/03/25/afrique/societe/burkina-faso-trois-tonnes-de-cannabis-saisies-a-ouessa-piste-dune-provenance-ivoirienne_149810.html
+    publisher: KOACI
+    date: 2021-03-25
+    language: fr
 open_questions:
-  - No source says whether the driver questioned at the check was detained, charged or released.
-  - The 284,615,000 CFA francs is the customs valuation of the entire consignment, medicines included, not a confirmed cannabis-only value.
-  - Burkina24 gives a single estimated weight of 1 kg for the chanvre indien and the medicines together, while Anadolu Ajansı gives 1 kg for the tramadol and diazepam alone; those medicines are excluded from every cannabis figure.
-  - The sources give no origin or intended destination for the cannabis.
-  - The separate Nako customs seizure of 11 March 2021, mentioned only as context, is not described here and may merit its own report.
+    - No source says whether the driver questioned at the check was detained, charged or released.
+    - The 284,615,000 CFA francs is the customs valuation of the entire consignment, medicines included, not a confirmed cannabis-only value.
+    - Burkina24 gives a single estimated weight of 1 kg for the chanvre indien and the medicines together, while Anadolu Ajansı gives 1 kg for the tramadol and diazepam alone; those medicines are excluded from every cannabis figure.
+    - KOACI suggested a Moroccan origin or an Ivorian route for the cannabis, but that is the outlet's reading rather than a customs finding, and no intended destination was reported.
+    - KOACI added an editorial note equating chanvre indien with hashish; the customs wording describes sacks and slabs of chanvre indien without a separate laboratory identification.
+    - The separate Nako customs seizure of 11 March 2021, mentioned only as context, is not described here and may merit its own report.
 ---
 
 Customs officers at the Ouessa customs office on Burkina Faso's border with
 Ghana seized 2,846 kilograms of chanvre indien, the French term used for
 cannabis, on 23 March 2021. [@1] The officers stopped a vehicle carrying a
-foreign registration plate whose driver was questioned at the check. [@1] The
+foreign registration plate whose driver was questioned at the check. [@1,4] The
 cannabis was packed in sacks and pressed slabs and hidden in a specially built
-cavity at the back of a forty-foot container that appeared empty. [@1] The
+cavity at the back of a forty-foot container that appeared empty. [@1,4] The
 driver pretended to be carrying nothing and invited the officers to keep
-searching, but they went on and found the hiding place. [@1] Ouaganews, drawing
+searching, but they went on and found the hiding place. [@1,4] Ouaganews, drawing
 on the customs communication service, reported that the cavity was reachable
 only through the container roof and was almost impossible to detect. [@3]
 
-Customs valued the seized merchandise at 284,615,000 CFA francs. [@1] Anadolu
+Customs valued the seized merchandise at 284,615,000 CFA francs. [@1,4] Anadolu
 Ajansı put the value of the whole seizure at 284,615,000 CFA francs, about
 500,000 US dollars, citing the customs communications directorate. [@2] The same
 consignment also carried amphetamines made up of tramadol and diazepam weighing
 an estimated 1 kg, which are not cannabis and are left out of the cannabis
-figures. [@2] Burkina24 described the load as chanvre indien together with
+figures. [@2,4] Burkina24 described the load as chanvre indien together with
 amphetamines such as tramadol and diazepam weighing an estimated 1 kg. [@1] The
 south-west regional customs directorate called it its second and largest drug
 seizure since the start of 2021, after a haul at the Nako customs post on 11
-March. [@3]
+March. [@3] The Director General of Customs congratulated the south-west regional customs director, Divisional Customs Inspector Éric Franck Joël Ouédraogo, the head of the Ouessa customs office, Central Customs Inspector Simon Tingueri, and the office's officers. [@4]
 
 Anadolu Ajansı likewise reported the customs directorate describing it as the
 largest drug seizure since the start of the year, in Ouessa in the south-west of
 the country on the Ghana border. [@2] No source reports a charge, court
 appearance or outcome for the driver questioned at the check. [@1]
-
