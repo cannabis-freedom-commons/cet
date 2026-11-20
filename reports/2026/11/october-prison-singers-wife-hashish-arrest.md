@@ -95,11 +95,16 @@ sources:
     publisher: قضية رأي عام
     date: 2026-11-19
     language: ar
+  - title: حشيش وتامول و4 هواتف.. تفاصيل المضبوطات بحوزة زوجة مطرب المهرجانات إسلام كابونجا | خاص
+    url: https://www.cairo24.com/2532426
+    publisher: القاهرة 24
+    date: 2026-11-19
+    language: ar
 ---
 
 Detectives at the October Correction Centre in Giza arrested M. S., the wife of
 mahraganat singer Islam Kabonga, while she was visiting her detained husband.
-[@1,2,3,4,6,8,9,10,12,14,15] The suspect was identified as M. S., born in 1999. [@6] She is known on social media by the nickname Umm Eshq. [@6] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3,13] Her husband was serving a six-month sentence in case 5568 of 2026 for economic misdemeanours in Agouza over incitement to violence. [@6] The Cairo Economic appeals court had upheld that six-month prison term plus a 100,000-pound fine on 28 September 2026. [@9] The Giza security directorate said Assistant Minister for Giza Security
+[@1,2,3,4,6,8,9,10,12,14,15,16] The suspect was identified as M. S., born in 1999. [@6,16] She is known on social media by the nickname Umm Eshq. [@6] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3,13] Her husband was serving a six-month sentence in case 5568 of 2026 for economic misdemeanours in Agouza over incitement to violence. [@6,16] The Cairo Economic appeals court had upheld that six-month prison term plus a 100,000-pound fine on 28 September 2026. [@9] The Giza security directorate said Assistant Minister for Giza Security
 Maj. Gen. Hatem Hassan received a notification of the incident from Maj. Gen.
 Hany Shaarawy, deputy director of criminal investigations. [@1,2] She had brought
 visit goods for her husband, and officers searched those goods during the visit.
@@ -108,8 +113,8 @@ visit goods for her husband, and officers searched those goods during the visit.
 The search found four Nokia mobile phones, one large piece of hashish and 52
 tramadol pills. [@1,2,3,4,6,7,8,9,10,12,14] The seized phones were Nokia handsets, the hashish was
 described as a large piece and the tramadol as narcotic pills intended to be
-brought to her husband. [@1] The four seized Nokia phones were small Afreto models without cameras or SIM cards. [@6] When confronted, she admitted that she possessed
-the seized items in order to bring them in to her husband. [@1,2,4,7,8,9,15] In this account she denied knowing about the seized items and said she had received the bag from a 29-year-old driver named Khalil from al-Warraq to take to her husband for use in prison. [@6,12]
+brought to her husband. [@1] The four seized Nokia phones were small Afreto models without cameras or SIM cards. [@6,16] When confronted, she admitted that she possessed
+the seized items in order to bring them in to her husband. [@1,2,4,7,8,9,15] In this account she denied knowing about the seized items and said she had received the bag from a 29-year-old driver named Khalil from al-Warraq to take to her husband for use in prison. [@6,12,16]
 
 Police filed a report on the incident after the arrest at the correction centre.
-[@1,3,5,7] The seizure report was drafted on 18 November 2026. [@12] The prosecution took over the investigation of the case. [@1,2,4,6,7,8,9,10,11,12,14,15] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5]
+[@1,3,5,7] Officers placed the pills in an empty yellow Merit cigarette pack and then placed all the seized items in a white envelope for presentation to the prosecution. [@16] The seizure report was drafted on 18 November 2026. [@12,16] The prosecution took over the investigation of the case. [@1,2,4,6,7,8,9,10,11,12,14,15] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5]
