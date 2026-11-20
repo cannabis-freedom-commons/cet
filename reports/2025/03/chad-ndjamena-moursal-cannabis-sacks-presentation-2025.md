@@ -52,6 +52,11 @@ sources:
     publisher: APAnews - Agence de Presse Africaine
     date: 2025-03-27
     language: fr
+  - title: 'Importante saisie de stupéfiants à Moursal : Un coup de filet contre le trafic de drogue au Tchad'
+    url: https://www.tachad.com/importante-saisie-de-stupefiants-a-moursal-un-coup-de-filet-contre-le-trafic-de-drogue-au-tchad/
+    publisher: tachad.com
+    date: 2025-03-28
+    language: fr
 open_questions:
   - No weight, package count beyond 'dozens of sacks', plant number or street value was published for the cannabis.
   - No arrests, charges or court date were reported in any of the three accounts.
@@ -64,20 +69,20 @@ open_questions:
 
 Chad's anti-narcotics directorate laid out drugs, adulterated alcohol and other
 banned goods before the authorities at its headquarters in Moursal, in the sixth
-arrondissement of N'Djamena, on Thursday 27 March 2025. [@1,4] Journal du Tchad
+arrondissement of N'Djamena, on Thursday 27 March 2025. [@1,4,5] Journal du Tchad
 reported that the ceremony was held in the presence of Bourma Hemchi
 Tchougoubou, a deputy director-general of police, and Zadadine Adoum, a deputy
 prosecutor for the Republic. [@2,4] Portail de la Renaissance du Tchad placed the
 ceremony at the same directorate in Moursal in N'Djamena's sixth arrondissement
 and said it was presided over by the deputy police chief, spelled there
-Tchougourou, and the prosecutor Zadadine Adoum. [@3]
+Tchougourou, and the prosecutor Zadadine Adoum. [@3,5]
 
 Officials displayed dozens of sacks filled with cannabis beside cartons of
 medicines diverted from their legal use, bottles of adulterated alcohol and
-sachets holding various other banned substances. [@1,4] Portail.td said the
+sachets holding various other banned substances. [@1,4,5] Portail.td said the
 operation was carried out with several security services and confiscated the
 same cannabis sacks, diverted medicines, adulterated alcohol and other banned
-substances. [@3] Portail.td reported that the haul came from a long
+substances. [@3,5] Portail.td reported that the haul came from a long
 investigation by the anti-narcotics directorate, backed by the country's
 different security services, and that it stopped an active criminal network in
 the city. [@3] No weight, plant count, package count beyond the dozens of sacks,
@@ -85,7 +90,7 @@ or street value was published for the cannabis. [@1]
 
 The authorities called on residents to cooperate by reporting any suspicious
 activity, saying the fight could be won only through greater vigilance and
-cooperation. [@1] Alwihda Info also reported that the authorities called on the
+cooperation. [@1,5] Alwihda Info also reported that the authorities called on the
 population to report suspicious activity. [@2] Neither the Alwihda Info account
 nor the two other outlets' accounts names an arrest, a suspect, a charge or a
 court date in connection with the presentation. [@3]
