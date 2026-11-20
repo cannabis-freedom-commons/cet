@@ -2,7 +2,7 @@
 import * as yaml from "js-yaml";
 import { apiCostParts, costParts, modelPlan } from "../../src/lib/model-cost.js";
 import { MODELS, apiPrice, standardModel } from "../../src/lib/models.js";
-import { aggregate, proseOf, trackerProse } from "../lib/prose-score.mjs";
+import { aggregate, entryKey, proseOf, sameModel, trackerKey, trackerProse } from "../lib/prose-score.mjs";
 
 const files = import.meta.glob("../results/*.json", { eager: true, import: "default" });
 const proseFiles = import.meta.glob("../results/prose/*.json", { eager: true, import: "default" });
@@ -181,6 +181,78 @@ export function variantRow(g, base) {
 
 // the variant's page address: "deepseek-v4.1-flash#max" → "deepseek-v4-1-flash-max"
 export const variantSlug = (key) => key.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+
+export const caseHref = (base, id) => `${base}benchmark/case/${id}/`;
+export const attemptId = (caseId, index) => `attempt-${caseId}-${index + 1}`;
+
+export function caseAnalysis(id, base) {
+  const current = new Set(sets().full[0]?.runs.map((run) => run.id));
+  const variants = new Map();
+  const attempts = [];
+  for (const run of runs) {
+    const item = run.cases.find((result) => result.id === id);
+    if (!item) continue;
+    const variant = variantOf(run);
+    if (!variants.has(variant.key)) variants.set(variant.key, { ...variant, runs: [], current: [] });
+    const group = variants.get(variant.key);
+    group.runs.push(run);
+    item.attempts.forEach((attempt, index) => {
+      const row = {
+        key: entryKey(id, run.id, index),
+        href: `${base}benchmark/${run.id}/#${attemptId(id, index)}`,
+        name: variant.name, subject: subjectLine(run), timestamp: run.started_at,
+        repeat: item.attempts.length > 1 ? index + 1 : null,
+        current: current.has(run.id),
+        attempt,
+      };
+      attempts.push(row);
+      if (row.current) group.current.push(row);
+    });
+  }
+
+  const models = [...variants.values()].map((group) => {
+    const scores = group.current.map(({ attempt }) => attempt.score).filter((value) => value != null);
+    return {
+      name: group.name,
+      href: group.current.length ? `${base}benchmark/model/${variantSlug(group.key)}/#case-${id}` : null,
+      score: scores.length ? scores.reduce((a, b) => a + b, 0) / scores.length : null,
+      low: scores.length > 1 ? Math.min(...scores) : null,
+      high: scores.length > 1 ? Math.max(...scores) : null,
+      pass: group.current.filter(({ attempt }) => attempt.verdict === "pass").length,
+      scored: scores.length,
+      count: group.current.length,
+      prose: proseOf(group.runs, prose, id),
+    };
+  }).sort((a, b) => (b.score ?? -1) - (a.score ?? -1) || (b.prose?.score ?? -1) - (a.prose?.score ?? -1) || a.name.localeCompare(b.name));
+
+  const notes = new Map();
+  for (const file of Object.values(proseFiles)) {
+    if (!file?.judge?.id) continue;
+    for (const round of file.rounds || []) {
+      if (round.case !== id || round.ranking.length < 2) continue;
+      for (const [key, note] of Object.entries(round.notes || {})) {
+        if (!note || sameModel(file.judge.model, round.models?.[key])) continue;
+        if (!notes.has(key)) notes.set(key, new Map());
+        const byJudge = notes.get(key);
+        if (!byJudge.has(file.judge.id)) byJudge.set(file.judge.id, new Set());
+        byJudge.get(file.judge.id).add(note);
+      }
+    }
+  }
+  const rating = (key) => {
+    const entry = prose.entries.get(key);
+    return entry && {
+      score: entry.score,
+      judges: Object.entries(entry.judges).map(([judge, value]) => ({ judge, score: value, notes: [...(notes.get(key)?.get(judge) ?? [])] })),
+    };
+  };
+  const texts = attempts.flatMap((row) => {
+    const result = rating(row.key);
+    return result ? [{ ...row, rating: result }] : [];
+  }).sort((a, b) => b.rating.score - a.rating.score);
+  attempts.sort((a, b) => Number(b.current) - Number(a.current) || (b.attempt.score ?? -1) - (a.attempt.score ?? -1) || a.name.localeCompare(b.name));
+  return { models, attempts, texts, reference: rating(trackerKey(id)) };
+}
 
 // the ranked runs (newest full set) pooled by variant, with every other run of the same variant
 export function rankedVariants() {

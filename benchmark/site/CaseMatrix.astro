@@ -1,8 +1,9 @@
 ---
 // One row a case, one column a run or variant (columns from data.js runRow/variantRow); each cell is
 // that column's score on the case and opens what was done.
-import { cases, FAMILIES, score, heat, tip } from "./data.js";
+import { cases, FAMILIES, caseHref, score, heat, tip } from "./data.js";
 const { columns } = Astro.props;
+const base = import.meta.env.BASE_URL;
 const byFamily = Object.keys(FAMILIES).map((family) => [family, cases.filter((item) => item.family === family)]);
 ---
 <div class="b-scroll" data-chart>
@@ -20,7 +21,7 @@ const byFamily = Object.keys(FAMILIES).map((family) => [family, cases.filter((it
           {list.map((item) => (
             <tr id={`case-${item.id}`}>
               <td class="case">
-                <span class="b-case-title">{item.title}</span>
+                <a class="b-case-title link" href={caseHref(base, item.id)}>{item.title}</a>
                 <span class="b-case-id">{item.id}</span>
                 <span class="b-tests">{(item.tests || []).map((t) => <span>{t}</span>)}</span>
               </td>

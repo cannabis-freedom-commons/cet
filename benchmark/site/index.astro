@@ -8,7 +8,7 @@ import Leaderboard from "./Leaderboard.astro";
 import Scatter from "./Scatter.astro";
 import HeatTable from "./HeatTable.astro";
 import CaseMatrix from "./CaseMatrix.astro";
-import { runs, cases, sets, FAMILIES, FAMILY_NOTE, CAPABILITIES, day, score, tokens, tip, modelName, subjectLine, rankedVariants, variantRow, usd, prose, trackerProseScore } from "./data.js";
+import { runs, cases, sets, FAMILIES, FAMILY_NOTE, CAPABILITIES, caseHref, day, score, tokens, tip, modelName, subjectLine, rankedVariants, variantRow, usd, prose, trackerProseScore } from "./data.js";
 const base = import.meta.env.BASE_URL;
 const { full, partial } = sets();
 const current = full[0];
@@ -93,7 +93,7 @@ const fullRuns = current?.runs.length ?? 0;
           <ol class="b-hbars">
             {hardest.map((entry) => (
               <li>
-                <a class="name" href={`#case-${entry.item.id}`} title={entry.item.title}>{entry.item.title}<small>{FAMILIES[entry.item.family].toLowerCase()}</small></a>
+                <a class="name" href={caseHref(base, entry.item.id)} title={entry.item.title}>{entry.item.title}<small>{FAMILIES[entry.item.family].toLowerCase()}</small></a>
                 <span class="b-meter" tabindex="0" data-tip={tip(entry.item.title, FAMILIES[entry.item.family], [["", "Mean score", score(entry.mean)], ["", "Models that pass", `${entry.pass} of ${entry.n}`]])}>
                   <span class="track"><i style={`width:${entry.mean}%`}></i></span><b>{score(entry.mean)}</b>
                 </span>
@@ -106,12 +106,13 @@ const fullRuns = current?.runs.length ?? 0;
 
         <HeatTable title="Where each model loses points" sub="scores by kind of case and by part of the report · the stronger the wash, the more was lost" rows={variants} />
 
-        <h2 id="cases">Case by case</h2>
-        <p class="note">One row a case, one column a model and variant, in ranked order. Each cell is the mean of its results on
-          that case and opens the model's page there.</p>
-        <CaseMatrix columns={variants} />
       </>
     )}
+
+    <h2 id="cases">Case by case</h2>
+    <p class="note">Open a case name for model results, prose ratings and individual attempts.
+      {variants.length > 0 && " Each score opens the model’s page at that case."}</p>
+    <CaseMatrix columns={variants} />
 
     {(older.length > 0 || partial.length > 0) && (
       <>

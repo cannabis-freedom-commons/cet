@@ -1,0 +1,177 @@
+---
+import Base from "../../src/layouts/Base.astro";
+import "./benchmark.css";
+import ReportProse from "./ReportProse.astro";
+import { cases, FAMILIES, caseAnalysis, day, heat, score } from "./data.js";
+import { trackerReport } from "../lib/prose.mjs";
+import protocol from "../protocol.json";
+
+export function getStaticPaths() {
+  return cases.map((item) => ({ params: { case: item.id }, props: { item } }));
+}
+
+const { item } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const { models, attempts, texts, reference } = caseAnalysis(item.id, base);
+const source = new URL(item.submit).hostname.replace(/^www\./, "");
+const outcomes = Object.entries(item.expect.outcome).filter(([, credit]) => credit === 1).map(([name]) => name.replaceAll("_", " "));
+const verdicts = { pass: "Pass", partial: "Partial", fail: "Fail", error: "Unfinished", skipped: "Skipped", spoiled: "Spoiled" };
+const reportLabel = (row) => `${row.subject} · ${day(row.timestamp)}${row.repeat ? ` · repeat ${row.repeat}` : ""}`;
+const ratedKeys = new Set(texts.map((row) => row.key));
+const rankedTexts = texts.map((row) => ({ name: row.name, label: reportLabel(row), report: row.attempt.report, href: row.href, rating: row.rating }));
+if (reference) {
+  const report = trackerReport(item, protocol.reports_commit, { repo: process.cwd(), fallback: false });
+  rankedTexts.push({ name: "Tracker’s published report", label: "Reference text", rating: reference, report });
+}
+rankedTexts.sort((a, b) => b.rating.score - a.rating.score);
+---
+<Base title={`${item.title} · research benchmark`} description={item.why} wide noindex>
+  <div class="bench">
+    <p class="crumbs"><a href={`${base}benchmark/`}>Research benchmark</a> / <a href={`${base}benchmark/#cases`}>Cases</a> / {item.id}</p>
+    <h1>{item.title}</h1>
+    <p class="lead">{item.why}</p>
+    <dl class="b-facts">
+      <div><dt>Case type</dt><dd>{FAMILIES[item.family]}</dd></div>
+      <div><dt>Full-credit decision</dt><dd>{outcomes.join(" or ")}</dd></div>
+      <div><dt>Submitted page</dt><dd><a class="link" href={item.submit}>{source}</a></dd></div>
+    </dl>
+    {!!item.tests?.length && <p class="b-tests">{item.tests.map((test) => <span>{test}</span>)}</p>}
+    {!!attempts.length && <nav class="b-case-nav" aria-label="On this page">
+      <a href="#models">Model results</a>
+      <a href="#prose">Prose ratings</a>
+      <a href="#attempts">Saved attempts</a>
+    </nav>}
+
+    <h2 id="models">Model results</h2>
+    {models.length ? (
+      <>
+        <p class="note">Research averages scored attempts from the latest comparable full runs. Prose averages judged texts
+          from all saved runs on this case. Both scores are out of 100. A dash means there’s no score for that measure.</p>
+        <div class="b-scroll">
+          <table class="b-table b-case-results" data-case-results aria-labelledby="models">
+            <thead><tr>
+              <th scope="col">Model and effort</th>
+              <th scope="col" class="n" aria-sort="descending"><span>Research</span><button type="button" hidden data-sort="research">Research</button></th>
+              <th scope="col" class="n"><span>Prose</span><button type="button" hidden data-sort="prose">Prose</button></th>
+              <th scope="col" class="n">Passed</th>
+              <th scope="col" class="n">Attempts</th>
+            </tr></thead>
+            <tbody>
+              {models.map((model) => (
+                <tr data-research={model.score ?? ""} data-prose={model.prose?.score ?? ""}>
+                  <td><span class="b-model">{model.href ? <a href={model.href}>{model.name}</a> : model.name}</span></td>
+                  <td class="n">
+                    <span class="b-case-value" style={heat(model.score)}>{score(model.score)}</span>
+                    {model.low != null && model.high !== model.low && <small class="b-sub">{score(model.low)}–{score(model.high)} range</small>}
+                  </td>
+                  <td class="n">
+                    <span>{score(model.prose?.score)}</span>
+                    {model.prose && <small class="b-sub">{model.prose.texts} {model.prose.texts === 1 ? "text" : "texts"} judged</small>}
+                  </td>
+                  <td class="n">{model.scored ? `${model.pass} / ${model.scored}` : "–"}</td>
+                  <td class="n">{model.count || "–"}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </>
+    ) : <p class="note">No saved runs have attempted this case yet.</p>}
+
+    <h2 id="prose">Prose ratings</h2>
+    {rankedTexts.length ? (
+      <>
+        <p class="note">Judges rank the texts blind on writing quality. A first-place text earns 100 and a last-place
+          text earns 0. Each judge has equal weight in a text’s score.</p>
+        <div class="b-scroll">
+          <table class="b-table b-prose-ratings" aria-labelledby="prose">
+            <thead><tr><th scope="col">Text</th><th scope="col" class="n">Prose</th><th scope="col">Judges</th></tr></thead>
+            <tbody>
+              {rankedTexts.map((row) => (
+                <>
+                  <tr class:list={{ "b-report-meta": row.report }}>
+                    <td>
+                      <span class="b-model">{row.href ? <a href={row.href}>{row.name}</a> : row.name}</span>
+                      <span class="b-sub">{row.label}</span>
+                      {!row.report && <span class="b-sub">Prose text unavailable</span>}
+                    </td>
+                    <td class="n">{score(row.rating.score)}</td>
+                    <td>
+                      <details class="b-judge-notes">
+                        <summary>{row.rating.judges.length} {row.rating.judges.length === 1 ? "judge" : "judges"}</summary>
+                        <ul>
+                          {row.rating.judges.map(({ judge, score: value, notes }) => (
+                            <li><b>{score(value)}</b> · {judge}{notes.map((note) => <span>{note}</span>)}</li>
+                          ))}
+                        </ul>
+                      </details>
+                    </td>
+                  </tr>
+                  {row.report && <tr class="b-report-row"><td colspan="3">
+                    <ReportProse report={row.report} label={row.href ? "The report it wrote" : "Tracker’s reference report"} />
+                  </td></tr>}
+                </>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </>
+    ) : <p class="note">No prose ratings are available for this case.</p>}
+
+    {!!attempts.length && (
+      <>
+        <h2 id="attempts">All saved attempts</h2>
+        <p class="note">Open an attempt to see what the model decided, which checks it passed, and any report it wrote.</p>
+        <div class="b-scroll">
+          <table class="b-table" aria-labelledby="attempts">
+            <thead><tr><th scope="col">Run</th><th scope="col">Set</th><th scope="col">Decision</th><th scope="col" class="n">Research</th><th scope="col">Verdict</th></tr></thead>
+            <tbody>
+              {attempts.map((row) => {
+                const report = row.attempt.report;
+                const showReport = (report?.body || report?.title) && !ratedKeys.has(row.key);
+                return <>
+                  <tr class:list={{ "b-report-meta": showReport }}>
+                    <td><span class="b-model"><a href={row.href}>{row.name}</a></span><span class="b-sub">{reportLabel(row)}</span></td>
+                    <td>{row.current ? "Latest full set" : "Other run"}</td>
+                    <td>{row.attempt.decision.got}</td>
+                    <td class="n">{score(row.attempt.score)}</td>
+                    <td>{verdicts[row.attempt.verdict] ?? row.attempt.verdict}</td>
+                  </tr>
+                  {showReport && <tr class="b-report-row"><td colspan="5"><ReportProse report={report} /></td></tr>}
+                </>;
+              })}
+            </tbody>
+          </table>
+        </div>
+      </>
+    )}
+  </div>
+</Base>
+<script>
+  const table = document.querySelector<HTMLTableElement>("[data-case-results]");
+  if (table) {
+    const body = table.tBodies[0];
+    const rows = [...body.rows];
+    const buttons = [...table.querySelectorAll<HTMLButtonElement>("[data-sort]")];
+    for (const button of buttons) {
+      button.previousElementSibling?.setAttribute("hidden", "");
+      button.hidden = false;
+      button.addEventListener("click", () => {
+        const key = button.dataset.sort!;
+        const heading = button.closest("th")!;
+        const ascending = heading.getAttribute("aria-sort") === "descending";
+        for (const other of table.querySelectorAll("[aria-sort]")) other.removeAttribute("aria-sort");
+        heading.setAttribute("aria-sort", ascending ? "ascending" : "descending");
+        const sorted = [...rows].sort((a, b) => {
+          const left = a.dataset[key];
+          const right = b.dataset[key];
+          if (left === right) return 0;
+          if (!left) return 1;
+          if (!right) return -1;
+          return (Number(left) - Number(right)) * (ascending ? 1 : -1);
+        });
+        body.append(...sorted);
+      });
+    }
+  }
+</script>

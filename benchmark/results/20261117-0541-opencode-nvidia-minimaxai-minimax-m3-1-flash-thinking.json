@@ -13,8 +13,8 @@
   "harness_version": "opencode v2.2.7"
  },
  "started_at": "2026-11-17T05:41:28.964Z",
- "finished_at": null,
- "complete": false,
+ "finished_at": "2026-11-17T21:43:57.740Z",
+ "complete": true,
  "repeat": 2,
  "concurrency": 2,
  "protocol": {
@@ -66,14 +66,14 @@
   "score": 40.2,
   "attempt_scores": [
    46.3,
-   36.8
+   35
   ],
   "cases": 41,
-  "attempts": 80,
+  "attempts": 82,
   "verdicts": {
    "pass": 33,
    "partial": 0,
-   "fail": 46,
+   "fail": 48,
    "error": 0,
    "skipped": 1,
    "spoiled": 0
@@ -128,11 +128,11 @@
   },
   "usage": {
    "minutes_per_case": 29.9,
-   "steps_per_case": 10.5,
-   "input_tokens": 6999328,
-   "output_tokens": 772472,
-   "reasoning_tokens": 617995,
-   "cache_read_tokens": 45026891,
+   "steps_per_case": 11,
+   "input_tokens": 7238293,
+   "output_tokens": 792543,
+   "reasoning_tokens": 644220,
+   "cache_read_tokens": 47227087,
    "cache_write_tokens": 0,
    "cost_usd": 0
   }
@@ -2636,6 +2636,107 @@
      },
      "score": 0,
      "verdict": "fail"
+    },
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 21:39 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1794,
+      "research_seconds": 1775,
+      "steps": 12,
+      "searches": 11,
+      "pages_opened": 9,
+      "runs": 1,
+      "input_tokens": 92400,
+      "output_tokens": 5948,
+      "reasoning_tokens": 12596,
+      "cache_read_tokens": 541685,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Linden 53,000 cannabis plants destroyed police Guyana",
+      "\"Yaruni Bend\" cannabis plants September 2026",
+      "\"10 pounds\" dried cannabis \"Linden\" Guyana police",
+      "\"Yaruni Bend\" 53,000 cannabis",
+      "53000 cannabis Linden",
+      "Yaruni Bend cannabis",
+      "Yaruni police cannabis 2026",
+      "site:guyanatimesgy.com Yaruni cannabis",
+      "site:newssourcegy.com Yaruni cannabis",
+      "Yaruni Bend Linden Guyana coordinates",
+      "Yaruni Bend Upper Demerara River Guyana map"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 9 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
     }
    ],
    "score": 0
@@ -4423,6 +4524,110 @@
       "expected": "new_event",
       "got": "no usable answer",
       "note": "it ran out of time after 30m0s and 12 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    },
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 21:43 UTC.",
+     "model_explanation": "",
+     "flags": [
+      "A web search returned the tracker's own pages (it was told to ignore them): https://tracker.cannabisfreedom.fyi/country/lk/"
+     ],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1764,
+      "steps": 18,
+      "searches": 12,
+      "pages_opened": 7,
+      "runs": 1,
+      "input_tokens": 146565,
+      "output_tokens": 14123,
+      "reasoning_tokens": 13629,
+      "cache_read_tokens": 1658511,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "\"5.96 kilograms\" hashish BIA Thai",
+      "\"Rs. 51 million\" hashish BIA",
+      "Thai Airways TG-307 hashish October 15 2026 Sri Lanka",
+      "BIA three Thai nationals hashish 5.96 kg",
+      "Negombo Magistrate three Thai nationals hashish October 15 2026 court",
+      "site:police.lk BIA hashish \"TG-307\" October 2026",
+      "\"three Thai nationals\" \"hashish\" \"Negombo Magistrate’s Court\"",
+      "Police Narcotics Bureau Sri Lanka 5 kg 96 grams hashish October 15 2026",
+      "\"5.96 kilograms of hashish\" court Negombo",
+      "\"5 kilograms and 96 grams\" hashish court Sri Lanka",
+      "Thai drivers hashish Negombo court BIA October 16 2026",
+      "Negombo Magistrate Thai hashish cosmetic containers remand October 2026"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 17 model steps"
      },
      "report": {
       "title": "",

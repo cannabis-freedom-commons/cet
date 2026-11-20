@@ -63,75 +63,75 @@
   "out-of-scope": "Out of scope"
  },
  "summary": {
-  "score": 23.3,
+  "score": 26.4,
   "attempt_scores": [
-   23.3
+   26.4
   ],
-  "cases": 25,
-  "attempts": 25,
+  "cases": 41,
+  "attempts": 41,
   "verdicts": {
-   "pass": 5,
+   "pass": 10,
    "partial": 1,
-   "fail": 19,
+   "fail": 30,
    "error": 0,
    "skipped": 0,
    "spoiled": 0
   },
   "families": {
    "new-event": {
-    "score": 6.9,
-    "cases": 12
+    "score": 4.6,
+    "cases": 18
    },
    "known-event": {
-    "score": 0,
-    "cases": 7
+    "score": 8.3,
+    "cases": 12
    },
    "out-of-scope": {
-    "score": 83.3,
-    "cases": 6
+    "score": 81.8,
+    "cases": 11
    }
   },
   "capabilities": {
    "recognised": {
-    "score": 8.3,
-    "cases": 12
+    "score": 5.6,
+    "cases": 18
    },
    "facts": {
-    "score": 8.3,
-    "cases": 12
+    "score": 5.6,
+    "cases": 18
    },
    "figures": {
-    "score": 8.3,
-    "cases": 12
+    "score": 5.6,
+    "cases": 18
    },
    "classification": {
-    "score": 8.3,
-    "cases": 12
+    "score": 5.6,
+    "cases": 18
    },
    "corroboration": {
-    "score": 4.5,
-    "cases": 11
+    "score": 3.3,
+    "cases": 15
    },
    "photos": {
     "score": 0,
-    "cases": 10
+    "cases": 12
    },
    "text": {
-    "score": 8.3,
-    "cases": 12
+    "score": 5.6,
+    "cases": 18
    },
    "grounding": {
-    "score": 8.3,
-    "cases": 12
+    "score": 5.6,
+    "cases": 18
    }
   },
   "usage": {
    "minutes_per_case": 29.9,
-   "steps_per_case": 3,
-   "input_tokens": 1739470,
-   "output_tokens": 31240,
-   "reasoning_tokens": 104832,
-   "cache_read_tokens": 1085248,
+   "steps_per_case": 4,
+   "input_tokens": 3332382,
+   "output_tokens": 72990,
+   "reasoning_tokens": 279682,
+   "cache_read_tokens": 3142016,
    "cache_write_tokens": 0,
    "cost_usd": 0
   }
@@ -596,6 +596,483 @@
    "score": 100
   },
   {
+   "id": "de-vapes-suspected-synthetic",
+   "title": "100 vapes with suspected synthetic cannabinoids on the A8",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "languages"
+   ],
+   "why": "German border police found 100 vapes they suspect contain synthetic cannabinoids; a lab report is still to come. There is no confirmed cannabis in the case, so nothing can be recorded as a cannabis seizure.",
+   "submit": "https://www.onetz.de/deutschland-welt/grenzpolizei-findet-100-verdaechtige-vapes-a8-id5562351.html",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 1
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "100 suspect vapes on the A8: a synthetic-cannabinoid case, out of scope",
+     "explanation": "Onetz reports that border police officers on the A8 in Upper Bavaria stopped a car near Bad Feilnbach (Rosenheim district) on 12 November 2026 and found 100 vapes that possibly contained dangerous synthetic cannabinoids, and that the 36-year-old driver was temporarily arrested. The police said an expert report was to establish whether the possible cannabis active ingredient THC in the e-cigarettes exceeded the permitted value, so no separate cannabis component of the event is established by the opened source. Under the substance scope, synthetic cannabinoids and their precursors are out of scope, and an event whose cannabis component cannot be established does not support a tracker report, so this is out of scope rather than a referral to the CFI history. No existing tracker report covers this vape seizure, and the page's only image is a symbolic illustration, so no media is listed.",
+     "model_explanation": "Onetz reports that border police officers on the A8 in Upper Bavaria stopped a car near Bad Feilnbach (Rosenheim district) on 12 November 2026 and found 100 vapes that possibly contained dangerous synthetic cannabinoids, and that the 36-year-old driver was temporarily arrested. The police said an expert report was to establish whether the possible cannabis active ingredient THC in the e-cigarettes exceeded the permitted value, so no separate cannabis component of the event is established by the opened source. Under the substance scope, synthetic cannabinoids and their precursors are out of scope, and an event whose cannabis component cannot be established does not support a tracker report, so this is out of scope rather than a referral to the CFI history. No existing tracker report covers this vape seizure, and the page's only image is a symbolic illustration, so no media is listed.",
+     "flags": [],
+     "usage": {
+      "seconds": 526,
+      "research_seconds": 475,
+      "steps": 3,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 56044,
+      "output_tokens": 1630,
+      "reasoning_tokens": 3932,
+      "cache_read_tokens": 27264,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant or insufficient_evidence",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "eg-badr-second-six-year-sentence",
+   "title": "A second six-year hashish sentence from the same court on the same day",
+   "family": "new-event",
+   "tests": [
+    "coverage",
+    "look-alike",
+    "classification",
+    "languages"
+   ],
+   "why": "On 1 November the New Cairo Criminal Court gave two six-year sentences for hashish in the Badr police district. The tracker has one: three men stopped in a car in March. This page is the other: a woman stopped at a checkpoint in April with 125 pieces of hashish. Same court, same day, same district, same sentence, different people. It needs its own report.",
+   "submit": "https://www.dostor.org/5760161",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "eg": 1
+    },
+    "date": {
+     "value": "2026-11-01"
+    },
+    "type": {
+     "sentence": 1,
+     "prosecution": 0.5
+    },
+    "place": {
+     "coordinates": [
+      30.136,
+      31.715
+     ],
+     "within_km": 60
+    },
+    "figures": {
+     "prison": {
+      "match": [
+       "6 years",
+       "six years",
+       "6-year",
+       "six-year"
+      ]
+     }
+    },
+    "figures_optional": [
+     "arrested",
+     "charged",
+     "sentenced",
+     "convicted",
+     "kg_seized"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "arrested",
+      "value": 3,
+      "why": "the three men of the other case"
+     },
+     {
+      "key": "charged",
+      "value": 3,
+      "why": "the three men of the other case"
+     },
+     {
+      "key": "sentenced",
+      "value": 3,
+      "why": "the three men of the other case"
+     },
+     {
+      "key": "kg_seized",
+      "value": 9.504,
+      "why": "the weight in the other case"
+     }
+    ],
+    "details": {
+     "sentence_types": [
+      "prison"
+     ],
+     "case_stage": [
+      "sentenced"
+     ],
+     "products": [
+      "hashish"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the defendant is a woman",
+      "any": [
+       "woman",
+       "female",
+       "\\bshe\\b",
+       "\\bher\\b"
+      ]
+     },
+     {
+      "say": "the 125 pieces of hashish",
+      "any": [
+       "125"
+      ]
+     },
+     {
+      "say": "when she was stopped (22 April)",
+      "any": [
+       "22 April",
+       "April 22"
+      ]
+     }
+    ],
+    "must_not_say": [
+     {
+      "say": "three defendants",
+      "any": [
+       "three (men|defendants|people)"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "strict": true,
+     "known": [
+      "dostor.org",
+      "almasryalyoum.com",
+      "youm7.com",
+      "elbalad.news",
+      "cairo24.com",
+      "shorouknews.com",
+      "elwatannews.com",
+      "masrawy.com",
+      "akhbarelyom.com"
+     ],
+     "markers": [
+      "عاملة",
+      "22 أبريل",
+      "125 قطعة",
+      "125"
+     ],
+     "markers_min": 2
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 02:42 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1766,
+      "steps": 7,
+      "searches": 1,
+      "pages_opened": 1,
+      "runs": 1,
+      "input_tokens": 144091,
+      "output_tokens": 4856,
+      "reasoning_tokens": 17301,
+      "cache_read_tokens": 54144,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "محكمة جنايات القاهرة الجديدة عاملة حيازة جوهر الحشيش بدر 6 سنوات"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 5 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "eg-sohag-death-sentences",
+   "title": "Three sentenced to death in a Sohag hashish case",
+   "family": "new-event",
+   "tests": [
+    "scope",
+    "classification",
+    "languages",
+    "corroboration"
+   ],
+   "why": "An Arabic court report. Death sentences for cannabis stay in the tracker (type \"sentence\") and are not sent to the Cannabis Freedom Index. The case dates from November 2025, the sentence from November 2026.",
+   "submit": "https://www.elbalad.news/7168342",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "eg": 1
+    },
+    "date": {
+     "value": "2026-11-04",
+     "tolerance_days": 1
+    },
+    "type": {
+     "sentence": 1,
+     "prosecution": 0.5
+    },
+    "place": {
+     "coordinates": [
+      26.697,
+      31.591
+     ],
+     "within_km": 70
+    },
+    "figures_optional": [
+     "prison",
+     "charged",
+     "sentenced",
+     "convicted",
+     "arrested",
+     "kg_seized"
+    ],
+    "details": {
+     "sentence_types": [
+      "death"
+     ],
+     "case_stage": [
+      "sentenced"
+     ],
+     "products": [
+      "hashish"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the death sentence",
+      "any": [
+       "death"
+      ]
+     },
+     {
+      "say": "three defendants",
+      "any": [
+       "three",
+       "\\b3\\b"
+      ]
+     },
+     {
+      "say": "it was hashish",
+      "any": [
+       "hashish"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "elbalad.news",
+      "youm7.com",
+      "cairo24.com",
+      "mwlana.com",
+      "iqraa.news",
+      "alraeesnews.com",
+      "dostor.org",
+      "aldawlanews.com",
+      "ahlmasrnews.com",
+      "ekhbary24.com",
+      "almasryalyoum.com",
+      "elwatannews.com",
+      "shorouknews.com",
+      "akhbarelyom.com",
+      "masrawy.com",
+      "gate.ahram.org.eg",
+      "vetogate.com",
+      "elfagr.org"
+     ],
+     "markers": [
+      "المراغة",
+      "الإعدام",
+      "سوهاج",
+      "الحشيش",
+      "مشرط"
+     ],
+     "markers_min": 3
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 03:12 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1793,
+      "research_seconds": 1775,
+      "steps": 9,
+      "searches": 1,
+      "pages_opened": 4,
+      "runs": 1,
+      "input_tokens": 215074,
+      "output_tokens": 13557,
+      "reasoning_tokens": 26240,
+      "cache_read_tokens": 508160,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "الإعدام شنقا 3 متهمين الحشيش سوهاج المراغة نوفمبر 2026"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 8 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
    "id": "es-cabanes-hashish-warehouse",
    "title": "8,025 kg of hashish in a Cabanes warehouse",
    "family": "new-event",
@@ -826,6 +1303,126 @@
        "checks": [],
        "weight": 10
       }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "es-ceuta-remand",
+   "title": "The driver is remanded: a later step in a case the tracker has",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "later-step",
+    "languages"
+   ],
+   "why": "The tracker has the arrest of a lorry driver at the port of Ceuta with about 300 kg of hashish in a hidden compartment. Two days later a judge ordered him held in prison until trial. This page reports that step. It is the same case moving on: the existing report is updated, no second report is written. The page's pictures are marked as archive images.",
+   "submit": "https://elfarodeceuta.es/actualidad/sucesos/prision-camionero-detenido-udyco-hachis/",
+   "expect": {
+    "outcome": {
+     "existing_case": 1,
+     "additional_source": 1,
+     "duplicate": 0.5
+    },
+    "existing_report": "ceuta-port-truck-300kg-hashish-arrest"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 03:44 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1667,
+      "steps": 6,
+      "searches": 2,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 113793,
+      "output_tokens": 933,
+      "reasoning_tokens": 30404,
+      "cache_read_tokens": 123456,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "camionero detenido UDYCO hachís Ceuta doble fondo puerto",
+      "Espectacular golpe antidroga UDYCO camionero camión hachís doble fondo El Faro Ceuta 13 noviembre"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "existing_case or additional_source → ceuta-port-truck-300kg-hashish-arrest",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 5 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "es-palma-later-announcement",
+   "title": "The police announcement of an operation the tracker has from a leak",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "later-step",
+    "mixed-substances",
+    "languages"
+   ],
+   "why": "On 7 November a Mallorca paper reported, from its own sources, at least three arrests and almost 50 kg of hashish sent by courier, found in a home in Marratxí with an air rifle. The tracker has that. A week later the National Police announced the finished operation: five arrested, 60 kg of hashish, the air rifle, two kilos of cocaine. Different numbers, a different town in the headline, and no mention of Marratxí, but the same operation; the paper's follow-up says so. In production this announcement was written up as a second report.",
+   "submit": "https://europapress.es/illes-balears/noticia-detienen-cinco-personas-operacion-antidroga-palma-les-intervienen-60-kilos-hachis-20261114170452.html",
+   "expect": {
+    "outcome": {
+     "existing_case": 1,
+     "additional_source": 1,
+     "duplicate": 0.5
+    },
+    "existing_report": "marratxi-three-arrests-50kg-hashish"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 23:51 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1795,
+      "research_seconds": 1698,
+      "steps": 4,
+      "searches": 1,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 65389,
+      "output_tokens": 606,
+      "reasoning_tokens": 3313,
+      "cache_read_tokens": 28800,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Palma 60 kilos hachís cinco detenidos Policía Nacional noviembre 2026"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "existing_case or additional_source → marratxi-three-arrests-50kg-hashish",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 3 model steps"
      },
      "score": 0,
      "verdict": "fail"
@@ -1735,6 +2332,366 @@
    "score": 0
   },
   {
+   "id": "in-agartala-same-platform",
+   "title": "A second seizure on the same Agartala platform the same day",
+   "family": "new-event",
+   "tests": [
+    "coverage",
+    "look-alike",
+    "figures",
+    "honesty"
+   ],
+   "why": "Railway police arrested a 19-year-old with 5.525 kg of ganja on platform 1 of Agartala station. The tracker already has another seizure from the same bench on the same platform on the same day by the same officers: two other men with 24.625 kg. Two events, written in near-identical words by the same outlet. The headline also says the ganja is worth 5 lakh rupees; the text says 2.5 lakh.",
+   "submit": "https://www.tripurastarnews.com/tripura-railway-police-seizes-05-525-kg-of-cannabis-worth-%E2%82%B95-lakh-with-1-drug-peddler-in-agartala-railway-station/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "in": 1
+    },
+    "date": {
+     "value": "2026-11-13"
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1
+    },
+    "place": {
+     "coordinates": [
+      23.7917,
+      91.2791
+     ],
+     "within_km": 30
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 5.525
+     },
+     "arrested": {
+      "value": 1
+     },
+     "value": {
+      "amount": 250000,
+      "currency": "INR"
+     }
+    },
+    "figures_optional": [
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 24.625,
+      "why": "the weight of the other seizure that day"
+     },
+     {
+      "key": "arrested",
+      "value": 2,
+      "why": "the two men of the other seizure"
+     },
+     {
+      "key": "value.amount",
+      "value": 500000,
+      "why": "the headline's figure",
+      "not the text's": null
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "the weight as stated",
+      "any": [
+       "5\\.525"
+      ]
+     },
+     {
+      "say": "it was on platform 1 of the station",
+      "any": [
+       "platform"
+      ]
+     },
+     {
+      "say": "whose valuation it is",
+      "any": [
+       "estimated",
+       "police (put|valued|said)",
+       "black-market",
+       "according to"
+      ]
+     }
+    ],
+    "must_not_say": [
+     {
+      "say": "two men were held",
+      "any": [
+       "two men",
+       "two people",
+       "both men"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 01:34 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1756,
+      "steps": 4,
+      "searches": 3,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 54005,
+      "output_tokens": 991,
+      "reasoning_tokens": 4869,
+      "cache_read_tokens": 60544,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Agartala railway police 5.525 kg ganja peddler arrested",
+      "\"Niraj Kumar\" Jehanabad ganja Agartala railway arrested",
+      "আগরতলা রেলস্টেশন ৫.৫২৫ কেজি গাঁজা উপড়েছে রেলওয়ে পুলিশ"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 3 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "in-manesar-roundup",
+   "title": "12 kg of cannabis in a traffic-police roundup",
+   "family": "new-event",
+   "tests": [
+    "extraction",
+    "photos",
+    "honesty"
+   ],
+   "why": "The cannabis seizure is one item in a roundup of a month of traffic-police work (stolen motorbikes, accident help, a school van). Only the Nainwal Cut seizure belongs in the report. The article's picture shows officers at a road, not this seizure, so no photo should be kept, and the article gives no date for the seizure.",
+   "submit": "https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-traffic-cops-recover-3-suspected-stolen-vehicles-seize-12kg-cannabis-in-30-days/articleshow/135725202.cms",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "in": 1
+    },
+    "date": {
+     "value": "2026-11-11",
+     "tolerance_days": 31,
+     "direction": "before"
+    },
+    "type": {
+     "seizure": 1,
+     "arrest": 1
+    },
+    "place": {
+     "coordinates": [
+      28.354,
+      76.938
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 12
+     }
+    },
+    "figures_optional": [
+     "arrested",
+     "vehicles"
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "where it happened (Nainwal Cut",
+      "Manesar)": null,
+      "any": [
+       "Nainwal"
+      ]
+     },
+     {
+      "say": "the suspects were handed to the local police station",
+      "any": [
+       "handed over",
+       "handed to"
+      ]
+     }
+    ],
+    "media": {
+     "none": true
+    },
+    "open_questions": [
+     {
+      "about": "the seizure has no date of its own",
+      "any": [
+       "date"
+      ]
+     }
+    ]
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 00:21 UTC.",
+     "model_explanation": "",
+     "flags": [
+      "A web search returned the tracker's own pages (it was told to ignore them): https://tracker.cannabisfreedom.fyi/?focus=burnett-siren-township-grow-three-sentenced-2026&range=all, https://tracker.cannabisfreedom.fyi/report/tonk-district-11-cases-56kg-ganja-10-arrested"
+     ],
+     "usage": {
+      "seconds": 1797,
+      "research_seconds": 1747,
+      "steps": 9,
+      "searches": 1,
+      "pages_opened": 2,
+      "runs": 1,
+      "input_tokens": 263399,
+      "output_tokens": 8467,
+      "reasoning_tokens": 13354,
+      "cache_read_tokens": 214208,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Manesar Nainwal Cut 12kg cannabis traffic police seizure"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 8 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
    "id": "in-pudukkottai-lakh",
    "title": "Two women held with 26 kg of ganja in Pudukkottai",
    "family": "new-event",
@@ -2013,6 +2970,62 @@
    "score": 0
   },
   {
+   "id": "it-castel-volturno-spanish-copy",
+   "title": "A Spanish-language copy of an Italian report",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "languages"
+   ],
+   "why": "Il Mattino's machine-translated Spanish page for its own Italian report of the Castel Volturno arrest, mostly behind a paywall. The tracker's report was written from Italian sources and speaks of 9.6 kg of cannabis; this teaser says \"more than 11 kilos\" of hashish, marijuana and cocaine. It is the same event.",
+   "submit": "https://www.ilmattino.it/AMP/es/incautacion_record_de_estupefacientes_en_la_costa_de_caserta-9889706.html",
+   "expect": {
+    "outcome": {
+     "duplicate": 1,
+     "additional_source": 1,
+     "existing_case": 0.5,
+     "insufficient_evidence": 0.5
+    },
+    "existing_report": "castel-volturno-31-year-old-96kg-cannabis-arrest"
+   },
+   "attempts": [
+    {
+     "status": "duplicate",
+     "outcome": "duplicate",
+     "model_outcome": "duplicate",
+     "report_slug": "castel-volturno-31-year-old-96kg-cannabis-arrest",
+     "existing_report": "castel-volturno-31-year-old-96kg-cannabis-arrest",
+     "decision_title": "Castel Volturno drug arrest already reported",
+     "explanation": "Il Mattino's Spanish AMP edition reports a state-police drug seizure in Castel Volturno, Caserta: officers of the Castel Volturno police station's investigation team, supported by dog units from Naples and Ladispoli, searched a 31-year-old man's home and arrested him for possession of narcotics with intent to traffic, seizing more than eleven kilograms of hashish, marijuana and cocaine before taking him to Santa Maria Capua Vetere prison. The existing report castel-volturno-31-year-old-96kg-cannabis-arrest already covers this same 13 November 2026 event, including the breakdown of about 6.2 kilograms of hashish, 3.4 kilograms of marijuana and 1.6 kilograms of cocaine and the same destination prison, and it already cites Il Mattino's own account of the arrest in its Italian, Spanish, French, English and German editions. The submitted page is the AMP version of that same Spanish article and adds no new fact, figure or independent account, so the event is recorded as a duplicate of the existing report.",
+     "model_explanation": "Il Mattino's Spanish AMP edition reports a state-police drug seizure in Castel Volturno, Caserta: officers of the Castel Volturno police station's investigation team, supported by dog units from Naples and Ladispoli, searched a 31-year-old man's home and arrested him for possession of narcotics with intent to traffic, seizing more than eleven kilograms of hashish, marijuana and cocaine before taking him to Santa Maria Capua Vetere prison. The existing report castel-volturno-31-year-old-96kg-cannabis-arrest already covers this same 13 November 2026 event, including the breakdown of about 6.2 kilograms of hashish, 3.4 kilograms of marijuana and 1.6 kilograms of cocaine and the same destination prison, and it already cites Il Mattino's own account of the arrest in its Italian, Spanish, French, English and German editions. The submitted page is the AMP version of that same Spanish article and adds no new fact, figure or independent account, so the event is recorded as a duplicate of the existing report.",
+     "flags": [],
+     "usage": {
+      "seconds": 733,
+      "research_seconds": 463,
+      "steps": 4,
+      "searches": 0,
+      "pages_opened": 1,
+      "runs": 1,
+      "input_tokens": 43267,
+      "output_tokens": 1292,
+      "reasoning_tokens": 10555,
+      "cache_read_tokens": 94592,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "duplicate or additional_source → castel-volturno-31-year-old-96kg-cannabis-arrest",
+      "got": "duplicate → castel-volturno-31-year-old-96kg-cannabis-arrest"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
    "id": "jp-cocaine-arrest-cannabis-past",
    "title": "A musician's cocaine arrest, with an old cannabis conviction as background",
    "family": "out-of-scope",
@@ -2049,6 +3062,59 @@
       "input_tokens": 103473,
       "output_tokens": 1003,
       "reasoning_tokens": 3871,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "kw-chemical-synthetic",
+   "title": "Three held in Kuwait over the drug known as \"chemical\"",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "terminology"
+   ],
+   "why": "\"Chemical\" is the Gulf street name for synthetic cannabinoids, sold as an oil and on soaked paper. The article says it is a synthetic drug and names no cannabis.",
+   "submit": "https://www.arabtimesonline.com/news/bangladeshi-and-two-nepalese-expats-arrested-in-kuwait-drug-crackdown/",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The page describes arrests involving only a synthetic drug (\"chemical\"), with no cannabis component mentioned.",
+     "model_explanation": "The page describes arrests involving only a synthetic drug (\"chemical\"), with no cannabis component mentioned.",
+     "flags": [],
+     "usage": {
+      "seconds": 61,
+      "research_seconds": 52,
+      "steps": 0,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 1343,
+      "output_tokens": 32,
+      "reasoning_tokens": 37,
       "cache_read_tokens": 0,
       "cache_write_tokens": 0,
       "cost_usd": 0
@@ -2560,6 +3626,120 @@
    "score": 0
   },
   {
+   "id": "mx-four-states-army-statement",
+   "title": "Another account of the army's 38 destroyed plots",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "mixed-substances"
+   ],
+   "why": "The Mexican army's statement on 38 plots destroyed in four states (20 poppy, 18 marijuana) is already recorded, under a title that speaks of 18 marijuana plots. This outlet leads with \"38 drug plots\". Same statement, same day, same event.",
+   "submit": "https://www.poresto.com/mexico/sucesos/2026/11/14/ejercito-destruye-plantios-droga-afectacion-supera-mdp.html",
+   "expect": {
+    "outcome": {
+     "duplicate": 1,
+     "additional_source": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "four-states-18-marijuana-plantations-eradication"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 02:04 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1770,
+      "steps": 8,
+      "searches": 1,
+      "pages_opened": 5,
+      "runs": 1,
+      "input_tokens": 136341,
+      "output_tokens": 907,
+      "reasoning_tokens": 12842,
+      "cache_read_tokens": 167168,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Sedena 38 plantíos mariguana amapola Chihuahua Oaxaca Durango Sinaloa noviembre 2026"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "duplicate or additional_source → four-states-18-marijuana-plantations-eradication",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 7 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "ng-rivers-mixed-totals",
+   "title": "Four months of NDLEA totals with no cannabis figure",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "mixed-substances",
+    "routing"
+   ],
+   "why": "A state command's briefing: 281 suspects and 316 kg of \"illicit substances\" in four months, split only into narcotics and psychotropics. Cannabis is named once, as a worry. Nothing here is one enforcement event, and no weight can be recorded as cannabis. Any rejection is right; a report that books 316 kg (or 288 kg) as cannabis is the failure.",
+   "submit": "https://newscentraltv.com/drug-dealers-recruit-children-for-trafficking-ndlea/",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "routed_to_cfi": 1,
+     "insufficient_evidence": 1
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 21:47 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1795,
+      "research_seconds": 1770,
+      "steps": 2,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 26948,
+      "output_tokens": 249,
+      "reasoning_tokens": 5399,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 0,
+      "expected": "not_relevant or routed_to_cfi or insufficient_evidence",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 1 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
    "id": "no-kristiansand-appeal",
    "title": "A Norwegian appeal ruling in a case the tracker has",
    "family": "known-event",
@@ -2606,6 +3786,65 @@
      "decision": {
       "score": 0,
       "expected": "additional_source or duplicate or existing_case → kristiansand-18-5kg-hash-sentence-halved",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 2 model steps"
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "pk-islamabad-foreign-outlet",
+   "title": "A Nigerian paper on arrests the tracker has from Pakistan",
+   "family": "known-event",
+   "tests": [
+    "coverage",
+    "mixed-substances"
+   ],
+   "why": "The Anti-Narcotics Force arrested 20 Nigerians in Islamabad and Rawalpindi; 750 g of \"weed\" was among mostly cocaine and methamphetamine. The tracker has the event from Pakistani sources. This account comes from a Nigerian outlet, with the country and angle that implies.",
+   "submit": "https://gazettengr.com/20-nigerians-arrested-in-pakistan-over-alleged-drug-trafficking/",
+   "expect": {
+    "outcome": {
+     "additional_source": 1,
+     "duplicate": 1,
+     "existing_case": 0.5
+    },
+    "existing_report": "islamabad-rawalpindi-20-arrested-750g-weed"
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 23:21 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1795,
+      "research_seconds": 1775,
+      "steps": 3,
+      "searches": 2,
+      "pages_opened": 1,
+      "runs": 1,
+      "input_tokens": 61982,
+      "output_tokens": 393,
+      "reasoning_tokens": 3659,
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "\"ANF\" 20 Nigerians arrested Pakistan drug trafficking 750 grams weed",
+      "Anti-Narcotics Force Nigerians arrested Rawalpindi Islamabad cocaine ice weed November 2026"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "additional_source or duplicate → islamabad-rawalpindi-20-arrested-750g-weed",
       "got": "no usable answer",
       "note": "it ran out of time after 30m0s and 2 model steps"
      },
@@ -2672,6 +3911,226 @@
    "score": 0
   },
   {
+   "id": "sa-asir-execution",
+   "title": "Three Ethiopians executed in Asir for smuggling hashish",
+   "family": "new-event",
+   "tests": [
+    "scope",
+    "coverage",
+    "classification",
+    "corroboration"
+   ],
+   "why": "An execution belongs in the tracker (type \"execution\"). The tracker already holds several other Asir executions of Ethiopians for hashish from the following weeks, so this one must be told apart from them and recorded as its own event, with its own count of three.",
+   "submit": "https://english.ajel.sa/saudi-arabia/dcs20ydm4",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "sa": 1
+    },
+    "date": {
+     "value": "2026-10-07",
+     "tolerance_days": 1
+    },
+    "type": {
+     "execution": 1
+    },
+    "place": {
+     "coordinates": [
+      19.1667,
+      43.1667
+     ],
+     "within_km": 300
+    },
+    "figures": {
+     "deaths": {
+      "value": 3
+     }
+    },
+    "figures_optional": [
+     "sentenced",
+     "convicted",
+     "arrested",
+     "charged"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "deaths",
+      "value": 5,
+      "why": "confused with the November executions of five"
+     },
+     {
+      "key": "deaths",
+      "value": 2,
+      "why": "confused with the November executions of two"
+     }
+    ],
+    "details": {
+     "sentence_types": [
+      "death"
+     ],
+     "case_stage": [
+      "executed"
+     ],
+     "products": [
+      "hashish"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "three people were executed",
+      "any": [
+       "three",
+       "\\b3\\b"
+      ]
+     },
+     {
+      "say": "they were Ethiopian nationals",
+      "any": [
+       "Ethiopian"
+      ]
+     },
+     {
+      "say": "who announced it",
+      "any": [
+       "interior ministry",
+       "ministry of interior",
+       "ministry"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "english.ajel.sa",
+      "ajel.sa",
+      "makkahpost.com",
+      "spa.gov.sa",
+      "okaz.com.sa",
+      "alriyadh.com",
+      "sabq.org",
+      "al-madina.com",
+      "aawsat.com",
+      "alwatan.com.sa",
+      "akhbaar24.argaam.com",
+      "alyaum.com",
+      "moi.gov.sa",
+      "reprieve.org",
+      "esohr.org"
+     ],
+     "strict": true,
+     "markers": [
+      "Qorzqor",
+      "Anbayeh",
+      "Akalu",
+      "Tekay",
+      "قورزقور",
+      "أنبايه",
+      "انبايه",
+      "أكالو",
+      "اكالو",
+      "تيكاي"
+     ],
+     "markers_min": 1
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 01:04 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1798,
+      "research_seconds": 1782,
+      "steps": 10,
+      "searches": 6,
+      "pages_opened": 4,
+      "runs": 1,
+      "input_tokens": 170160,
+      "output_tokens": 2346,
+      "reasoning_tokens": 24397,
+      "cache_read_tokens": 355008,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Saudi Arabia executes three Ethiopians hashish Asir October 2026 Interior Ministry",
+      "إعدام ثلاثة إثيوبيين تهريب الحشيش منطقة عسير وزارة الداخلية",
+      "\"Saudi Arabia\" execution Ethiopians hashish Asir \"October 7, 2026\"",
+      "Human Rights Watch Ethiopian migrants executed Saudi Arabia October 2026 hashish Asir",
+      "\"تنفيذ حكم القتل تعزيرًا\" ثلاثة إثيوبيين عسير الحشيش \"أكتوبر\" 2026 وكالة الأنباء السعودية",
+      "spa.gov.sa تنفيذ حكم القتل تعزيرًا إثيوبيين عسير الحشيش 7 أكتوبر 2026"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 9 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
    "id": "sn-kush-synthetic-name",
    "title": "44 pieces of \"Kush\" seized in Thiaroye",
    "family": "out-of-scope",
@@ -2718,6 +4177,288 @@
       "score": 1,
       "expected": "not_relevant",
       "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
+  },
+  {
+   "id": "th-bangkok-five-tonnes",
+   "title": "Five tonnes of cannabis in a Bang Khen house",
+   "family": "new-event",
+   "tests": [
+    "units",
+    "corroboration",
+    "photos",
+    "languages"
+   ],
+   "why": "A large raid reported in English and Thai. The submitted page is a rewrite published a day later; the raid itself was on 19 October. Tonnes become kilograms, and the five people held are one Vietnamese and four from Myanmar.",
+   "submit": "https://www.chiangraitimes.com/bangkok/bangkok-marijuana-seized/",
+   "expect": {
+    "outcome": {
+     "new_event": 1
+    },
+    "country": {
+     "th": 1
+    },
+    "date": {
+     "value": "2026-10-19",
+     "also": {
+      "2026-10-20": 0.5
+     }
+    },
+    "type": {
+     "raid": 1,
+     "seizure": 1,
+     "arrest": 0.5
+    },
+    "place": {
+     "coordinates": [
+      13.874,
+      100.596
+     ],
+     "within_km": 40
+    },
+    "figures": {
+     "kg_seized": {
+      "value": 5000,
+      "tolerance": 0.1
+     },
+     "arrested": {
+      "value": 5
+     }
+    },
+    "figures_optional": [
+     "charged",
+     "sites"
+    ],
+    "figures_forbidden": [
+     {
+      "key": "kg_seized",
+      "value": 5,
+      "why": "tonnes recorded as kilograms"
+     }
+    ],
+    "details": {
+     "products": [
+      "flower"
+     ],
+     "setting": [
+      "home"
+     ]
+    },
+    "mentions": [
+     {
+      "say": "five people were held",
+      "any": [
+       "five",
+       "\\b5\\b"
+      ]
+     },
+     {
+      "say": "it was in Bang Khen",
+      "any": [
+       "Bang ?Khen"
+      ]
+     },
+     {
+      "say": "who they were",
+      "any": [
+       "Vietnam",
+       "Myanmar",
+       "Burm"
+      ]
+     }
+    ],
+    "sources": {
+     "expect_independent": 2,
+     "known": [
+      "chiangraitimes.com",
+      "aseannow.com",
+      "bangkokpost.com",
+      "khaosod.co.th",
+      "khaosodenglish.com",
+      "thethaiger.com",
+      "nationthailand.com",
+      "pattayamail.com",
+      "thairath.co.th",
+      "matichon.co.th",
+      "dailynews.co.th",
+      "mgronline.com",
+      "thaipbs.or.th"
+     ],
+     "markers": [
+      "Bang Khen",
+      "บางเขน",
+      "Khu Bon",
+      "คู้บอน",
+      "five ton",
+      "5 ton",
+      "5 ตัน",
+      "ห้าตัน"
+     ]
+    },
+    "media": {
+     "min": 1,
+     "expect": [
+      "2026/10/1-22",
+      "bangkok-cannabis-2",
+      "bangkok-cannabis-3",
+      "c1_3340299"
+     ]
+    }
+   },
+   "attempts": [
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 22:38 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1797,
+      "research_seconds": 1689,
+      "steps": 11,
+      "searches": 8,
+      "pages_opened": 6,
+      "runs": 1,
+      "input_tokens": 132520,
+      "output_tokens": 1474,
+      "reasoning_tokens": 6638,
+      "cache_read_tokens": 245760,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Bangkok Bang Khen 5 tons marijuana Vietnamese Myanmar arrested luxury house",
+      "บังคมเห 5 ตัน กัญชา เวียดนาม พม่า ควบคุมบ้านเช่า ตำรวจตรวจยึด",
+      "\"Bang Khen\" cannabis warehouse raid October 2026 marijuana tonnes Bangkok police",
+      "Bangkok police seize 5 tons marijuana luxury home Vietnamese Myanmar workers October 2026",
+      "กัญชา 5 ตัน บ้านเช่า กรุงเทพ ยึด เวียดนาม พม่า ตุลาคม 2569",
+      "Bangkok five tons marijuana buds seized rental home",
+      "ยึดกัญชา 5 ตัน บางเขน บ้านเช่า ต่างด้าว",
+      "Bangkok marijuana raid 2026"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 10 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
+    }
+   ],
+   "score": 0
+  },
+  {
+   "id": "tj-annual-statistics",
+   "title": "Tajikistan's drug seizures for 2021",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "routing",
+    "languages"
+   ],
+   "why": "National totals for a whole year, in Russian, with hashish and cannabis among the figures. National statistics belong to the Cannabis Freedom Index; they are not one enforcement event.",
+   "submit": "https://asiaplus.news/2022/02/17/v-2021-godu-v-tadzhikistane-izyato-bolee-4-tonn-narkotikov/",
+   "expect": {
+    "outcome": {
+     "routed_to_cfi": 1,
+     "not_relevant": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "routed_to_cfi",
+     "outcome": "routed_to_cfi",
+     "model_outcome": "routed_to_cfi",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "Routed to CFI: Tajikistan 2021 national narcotics seizure statistics",
+     "explanation": "The submitted page is an Asia-Plus report of 17 February 2022 in which the head of Tajikistan's Drug Control Agency under the President, Major General Khabibullo Vokhidzoda, announced that law-enforcement bodies seized 4 tonnes 83 kg 274 g of narcotics across the country in 2021, which was 68.4% (1 t 658 kg 36 g) more than in 2020, with heroin seizures up 2.1 times and hashish up 2.3 times while opium and cannabis fell 24.7% and 10.4%. The piece is a national annual statistics summary: it names no single raid, seizure site, arrest or prosecution, gives no cannabis-specific weight, and splits the year's total only by agency. Under the editorial rules, national statistics and the overall picture (yearly figures, a crackdown announced as policy) belong in the Cannabis Freedom Index's history rather than the enforcement tracker, so this submission is routed to the CFI instead of becoming a tracker report. A search of the tracker, including the retired report aliases, found no report covering these 2021 Tajikistan seizure totals, so no merge or update applies. Follow-up for the CFI: the 2021 totals, the agency-by-agency breakdown and the 106 kg of psychotropic substances belong in Tajikistan's history entry rather than in a tracker figure.",
+     "model_explanation": "The submitted page is an Asia-Plus report of 17 February 2022 in which the head of Tajikistan's Drug Control Agency under the President, Major General Khabibullo Vokhidzoda, announced that law-enforcement bodies seized 4 tonnes 83 kg 274 g of narcotics across the country in 2021, which was 68.4% (1 t 658 kg 36 g) more than in 2020, with heroin seizures up 2.1 times and hashish up 2.3 times while opium and cannabis fell 24.7% and 10.4%. The piece is a national annual statistics summary: it names no single raid, seizure site, arrest or prosecution, gives no cannabis-specific weight, and splits the year's total only by agency. Under the editorial rules, national statistics and the overall picture (yearly figures, a crackdown announced as policy) belong in the Cannabis Freedom Index's history rather than the enforcement tracker, so this submission is routed to the CFI instead of becoming a tracker report. A search of the tracker, including the retired report aliases, found no report covering these 2021 Tajikistan seizure totals, so no merge or update applies. Follow-up for the CFI: the 2021 totals, the agency-by-agency breakdown and the 106 kg of psychotropic substances belong in Tajikistan's history entry rather than in a tracker figure.",
+     "flags": [],
+     "usage": {
+      "seconds": 773,
+      "research_seconds": 659,
+      "steps": 6,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 41646,
+      "output_tokens": 1440,
+      "reasoning_tokens": 3672,
+      "cache_read_tokens": 151616,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "routed_to_cfi",
+      "got": "routed to cfi"
      },
      "score": 100,
      "verdict": "pass"
@@ -2780,6 +4521,59 @@
     }
    ],
    "score": 0
+  },
+  {
+   "id": "tr-murder-hemp-field-motive",
+   "title": "A murder solved after 16 years, with a hemp field as the motive",
+   "family": "out-of-scope",
+   "tests": [
+    "scope",
+    "languages"
+   ],
+   "why": "A Turkish cold case: 17 people detained and one remanded for a 2010 killing, which grew out of a quarrel over someone entering a hemp field. The arrests are for murder. Cannabis is the background of the quarrel, not what anyone was arrested for.",
+   "submit": "https://haberton.com/16-yil-sonra-aydinlatilan-cinayetin-nedeni-kenevir-tarlasina-girdin-tartismasi/",
+   "expect": {
+    "outcome": {
+     "not_relevant": 1,
+     "insufficient_evidence": 0.5
+    }
+   },
+   "attempts": [
+    {
+     "status": "not_relevant",
+     "outcome": "not_relevant",
+     "model_outcome": "not_relevant",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "Solved murder case with cannabis motive, out of scope",
+     "explanation": "Haberton's article reports a homicide investigation, not a cannabis enforcement action. Gendarmerie Jasat teams held a simultaneous operation at eight addresses in Taşpınar Mahallesi, Mustafakemalpaşa (Bursa) on 11 November 2026 over the 2010 shooting of Mehmet Arıcan, detaining 17 people; one suspect, H.F., was remanded in custody and 16 were released. The article says the killing followed a feud over unauthorised entry into a cannabis field, but it reports no cannabis offence, no plants or cannabis products seized or destroyed and no enforcement against the field itself, so the event has no cannabis enforcement component and falls outside the tracker's substance scope. A tracker report would need a cannabis seizure, destruction, or an arrest for a cannabis offence.",
+     "model_explanation": "Haberton's article reports a homicide investigation, not a cannabis enforcement action. Gendarmerie Jasat teams held a simultaneous operation at eight addresses in Taşpınar Mahallesi, Mustafakemalpaşa (Bursa) on 11 November 2026 over the 2010 shooting of Mehmet Arıcan, detaining 17 people; one suspect, H.F., was remanded in custody and 16 were released. The article says the killing followed a feud over unauthorised entry into a cannabis field, but it reports no cannabis offence, no plants or cannabis products seized or destroyed and no enforcement against the field itself, so the event has no cannabis enforcement component and falls outside the tracker's substance scope. A tracker report would need a cannabis seizure, destruction, or an arrest for a cannabis offence.",
+     "flags": [],
+     "usage": {
+      "seconds": 1289,
+      "research_seconds": 1172,
+      "steps": 3,
+      "searches": 0,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 66910,
+      "output_tokens": 2577,
+      "reasoning_tokens": 8238,
+      "cache_read_tokens": 26048,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [],
+     "decision": {
+      "score": 1,
+      "expected": "not_relevant",
+      "got": "not relevant"
+     },
+     "score": 100,
+     "verdict": "pass"
+    }
+   ],
+   "score": 100
   },
   {
    "id": "ua-mykolaiv-sentence-same-day",

@@ -24,25 +24,25 @@ export function textOf(report) {
 
 // The tracker's published report on a case's event, as it was at the benchmark's fixed reports
 // commit (the version the cases hide), or as it is now if that commit lacks it.
-function trackerReport(item, commit) {
+export function trackerReport(item, commit, { repo = REPO, fallback = true } = {}) {
   const slug = item.setup?.hide?.[0];
   if (!slug) return null;
   let markdown = null;
   try {
-    const file = execFileSync("git", ["ls-tree", "-r", "--name-only", commit, "reports"], { cwd: REPO, encoding: "utf8", maxBuffer: 1 << 26 })
+    const file = execFileSync("git", ["ls-tree", "-r", "--name-only", commit, "reports"], { cwd: repo, encoding: "utf8", stdio: ["ignore", "pipe", "pipe"], maxBuffer: 1 << 26 })
       .split("\n").find((line) => line.endsWith(`/${slug}.md`));
-    if (file) markdown = execFileSync("git", ["show", `${commit}:${file}`], { cwd: REPO, encoding: "utf8", maxBuffer: 1 << 24 });
+    if (file) markdown = execFileSync("git", ["show", `${commit}:${file}`], { cwd: repo, encoding: "utf8", stdio: ["ignore", "pipe", "pipe"], maxBuffer: 1 << 24 });
   } catch {
-    // no such commit here: fall back to the working copy
+    // A shallow checkout may not contain the pinned commit.
   }
-  if (!markdown) {
-    const found = findFile(path.join(REPO, "reports"), `${slug}.md`);
+  if (!markdown && fallback) {
+    const found = findFile(path.join(repo, "reports"), `${slug}.md`);
     if (found) markdown = fs.readFileSync(found, "utf8");
   }
   const match = markdown?.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
   if (!match) return null;
   const meta = yaml.load(match[1]) || {};
-  return { title: meta.title, summary: meta.summary, body: match[2] };
+  return { ...meta, body: match[2] };
 }
 
 function findFile(dir, name) {

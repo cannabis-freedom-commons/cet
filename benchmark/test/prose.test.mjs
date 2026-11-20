@@ -31,6 +31,18 @@ test("each judge counts once, however many rounds it ran", () => {
   assert.equal(proseOf([run("nobody")], agg), null);
 });
 
+test("a case prose score uses only judged attempts from that case", () => {
+  const subject = run("runA");
+  subject.cases[0].attempts.push({ score: 90 });
+  subject.cases.push({ id: "c2", attempts: [{ score: 90 }] });
+  const other = entryKey("c2", subject.id, 0);
+  const agg = aggregate([judge("j", "claude-x", [[A, B, T], [trackerKey("c2"), other]])]);
+  assert.equal(proseOf([subject], agg).score, 50);
+  const detail = proseOf([subject], agg, "c1");
+  assert.deepEqual([detail.score, detail.cases, detail.texts], [100, 1, 1]);
+  assert.equal(proseOf([subject], agg, "unknown"), null);
+});
+
 test("a judge does not score its own model's texts", () => {
   assert.ok(sameModel("claude-opus-5-5", "swancloud/claude-opus-5-5"));
   assert.ok(!sameModel("claude-opus-5-5", "claude-haiku-5-5"));

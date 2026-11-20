@@ -13,8 +13,8 @@
   "harness_version": "opencode v2.2.7"
  },
  "started_at": "2026-11-17T10:22:00.551Z",
- "finished_at": null,
- "complete": false,
+ "finished_at": "2026-11-17T22:01:37.201Z",
+ "complete": true,
  "repeat": 3,
  "concurrency": 2,
  "protocol": {
@@ -63,25 +63,25 @@
   "out-of-scope": "Out of scope"
  },
  "summary": {
-  "score": 50.5,
+  "score": 50.8,
   "attempt_scores": [
    48.5,
    54.9,
-   49.2
+   48.7
   ],
   "cases": 41,
-  "attempts": 121,
+  "attempts": 123,
   "verdicts": {
    "pass": 46,
-   "partial": 20,
-   "fail": 52,
+   "partial": 21,
+   "fail": 53,
    "error": 0,
    "skipped": 0,
    "spoiled": 3
   },
   "families": {
    "new-event": {
-    "score": 27.9,
+    "score": 28.6,
     "cases": 18
    },
    "known-event": {
@@ -95,45 +95,45 @@
   },
   "capabilities": {
    "recognised": {
-    "score": 39.8,
+    "score": 40.7,
     "cases": 18
    },
    "facts": {
-    "score": 34.5,
+    "score": 35.4,
     "cases": 18
    },
    "figures": {
-    "score": 32.6,
+    "score": 33.5,
     "cases": 18
    },
    "classification": {
-    "score": 4.3,
+    "score": 4.8,
     "cases": 18
    },
    "corroboration": {
-    "score": 20.6,
+    "score": 21.1,
     "cases": 15
    },
    "photos": {
-    "score": 13.1,
+    "score": 13.3,
     "cases": 12
    },
    "text": {
-    "score": 35.5,
+    "score": 36.4,
     "cases": 18
    },
    "grounding": {
-    "score": 37.2,
+    "score": 38.1,
     "cases": 18
    }
   },
   "usage": {
-   "minutes_per_case": 7.5,
-   "steps_per_case": 28,
-   "input_tokens": 26135163,
-   "output_tokens": 2030166,
+   "minutes_per_case": 8.1,
+   "steps_per_case": 27,
+   "input_tokens": 28614821,
+   "output_tokens": 2049612,
    "reasoning_tokens": 0,
-   "cache_read_tokens": 153209936,
+   "cache_read_tokens": 154159600,
    "cache_write_tokens": 0,
    "cost_usd": 0
   }
@@ -3968,9 +3968,298 @@
      },
      "score": 0,
      "verdict": "fail"
+    },
+    {
+     "status": "committed",
+     "outcome": "new_event",
+     "model_outcome": "new_event",
+     "report_slug": "saint-lary-soulan-32-8kg-ukrainian-driver-sentence",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The report was committed to the local repository (7a170aa2192f). 1 of 1 new photos and videos got a thumbnail or poster. It is available in local development; pushing is separate.",
+     "model_explanation": "The submitted source reports a September 28, 2026 seizure of 32.8 kg of cannabis from a Ukrainian driver in Saint-Lary-Soulan, Hautes-Pyrénées, France. The driver was convicted by the Tarbes correctional court on October 1, 2026 and sentenced to 24 months imprisonment, a 10-year ban from French territory, and 131,605 euros in customs fines. This is a new enforcement event qualifying as a sentence report, focusing on the cannabis seizure (32.8 kg herbal cannabis) and the subsequent court outcome. No existing tracker report matches this specific case with these details (Ukrainian driver, 32.8 kg, 24-month sentence, Tarbes court, September 28 seizure).",
+     "flags": [
+      "A web search returned the tracker's own pages (it was told to ignore them): https://tracker.cannabisfreedom.fyi/report/sousse-port-400kg-cannabis-eight-detained, https://tracker.cannabisfreedom.fyi/report/le-boulou-495kg-resin-sentence, https://cannabisfreedom.fyi/, https://tracker.cannabisfreedom.fyi/report/germinal-dominica-go-fast-65kg-marijuana-2016, https://tracker.cannabisfreedom.fyi/?focus=asansol-south-1kg-ganja-two-arrested&range=all, https://tracker.cannabisfreedom.fyi/?focus=gadarwara-station-1436kg-ganja-three-arrested&range=all, https://cannabisfreedom.fyi/about, https://cannabisfreedom.fyi/country/fr"
+     ],
+     "usage": {
+      "seconds": 1136,
+      "research_seconds": 1093,
+      "steps": 26,
+      "searches": 15,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 1929540,
+      "output_tokens": 15358,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 800880,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "cannabis saisie Saint-Lary-Soulan 2026 douane France",
+      "site:cannabisfreedom.fyi Saint-Lary-Soulan cannabis 32.8 kg France",
+      "site:tracker.cannabisfreedom.fyi Saint-Lary-Soulan",
+      "site:tracker.cannabisfreedom.fyi fr cannabis seizure 2026",
+      "fr cannabis seizure douane 2026 site:tracker.cannabisfreedom.fyi",
+      "fr cannabis sentence 2026 tarbes tribunal correctionnel",
+      "fr cannabis 32.8 kg Saint-Lary-Soulan 2026 ukrainien",
+      "fr cannabis 32.8 kg arrest 2026 Saint-Lary-Soulan",
+      "site:tracker.cannabisfreedom.fyi 32.8 kg cannabis 2026",
+      "fr cannabis 32.8 kg arrest sentence 2026 Saint-Lary-Soulan",
+      "site:tracker.cannabisfreedom.fyi fr cannabis 2026 Saint-Lary",
+      "fr cannabis 32.8 kg arrest 2026 Saint-Lary-Soulan tracker",
+      "site:tracker.cannabisfreedom.fyi fr cannabis 2026 Saint-Lary",
+      "site:tracker.cannabisfreedom.fyi 32.8 kg 24 mois prison",
+      "Saint-Lary-Soulan coordinates latitude longitude"
+     ],
+     "decision": {
+      "score": 1,
+      "expected": "new_event",
+      "got": "new event"
+     },
+     "report": {
+      "title": "32.8 kg cannabis seized from Ukrainian driver sentenced by Tarbes court",
+      "summary": "A Ukrainian driver was arrested in Saint-Lary-Soulan on 28 September 2026 with 32.8 kg of cannabis hidden in a modified vehicle floor. He was sentenced by the Tarbes correctional court on 1 October 2026 to 24 months in prison, a 10-year French territory ban, and 131,605 euros in customs fines.",
+      "date": "2026-10-01",
+      "country": "fr",
+      "type": "sentence",
+      "also": [
+       "seizure",
+       "arrest"
+      ],
+      "place": "Saint-Lary-Soulan",
+      "coordinates": [
+       42.817,
+       0.317
+      ],
+      "figures": {
+       "arrested": 1,
+       "kg_seized": 32.8,
+       "prison": "24 months"
+      },
+      "details": {
+       "agencies": [
+        "fr-douane"
+       ],
+       "products": [
+        {
+         "product": "flower",
+         "kg": 32.8
+        }
+       ],
+       "activity": [
+        "trafficking"
+       ],
+       "setting": [
+        "vehicle"
+       ],
+       "charges": [
+        "transport of narcotics without regular documentation"
+       ],
+       "date_precision": "publication",
+       "region": "Hautes-Pyrénées"
+      },
+      "tags": [
+       "saint-lary-soulan",
+       "hautes-pyrenees",
+       "cannabis",
+       "sentence",
+       "douane"
+      ],
+      "sources": [
+       {
+        "url": "https://www.lasemainedespyrenees.fr/328-kilos-de-cannabis-saisis-a-saint-lary-soulan-un-chauffeur-ukrainien-condamne-a-tarbes/",
+        "title": "32,8 kilos de cannabis saisis à Saint-Lary-Soulan : un chauffeur ukrainien condamné à Tarbes",
+        "publisher": "La Semaine des Pyrénées",
+        "date": "2026-10-07",
+        "language": "fr"
+       }
+      ],
+      "media": [
+       {
+        "kind": "photo",
+        "url": "https://www.lasemainedespyrenees.fr/328-kilos-de-cannabis-saisis-a-saint-lary-soulan-un-chauffeur-ukrainien-condamne-a-tarbes/",
+        "media_url": "https://www.lasemainedespyrenees.fr/wp-content/uploads/2026/10/controle-routier-douane-chien-drogue-IMG_1015-600x400.jpg",
+        "caption": "Police image showing a customs operation in Saint-Lary-Soulan. Photo: La Semaine des Pyrénées"
+       }
+      ],
+      "open_questions": [
+       "The seizure occurred on 28 September 2026 and the court hearing on 1 October 2026; the report was published on 7 October 2026."
+      ],
+      "body": "A Ukrainian driver was arrested in Saint-Lary-Soulan on 28 September 2026 with\n32.8 kg of cannabis hidden in a modified vehicle floor. The driver was\nsentenced by the Tarbes correctional court on 1 October 2026 to 24 months in\nprison.\n\nThe driver received a customs fine of 131,200 euros for drug trafficking and an\nadditional 405 euros for money laundering.\n\nCannabis, cash and electronic devices were confiscated.\n\nPolice discovered the cannabis hidden in a modified vehicle compartment under\nthe floor.",
+      "words": 80
+     },
+     "dimensions": {
+      "facts": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Country",
+         "score": 1,
+         "expected": "fr",
+         "got": "fr"
+        },
+        {
+         "label": "Date of the event",
+         "score": 1,
+         "expected": "2026-10-01",
+         "got": "2026-10-01"
+        },
+        {
+         "label": "Kind of event",
+         "score": 1,
+         "expected": "sentence",
+         "got": "sentence + seizure + arrest"
+        },
+        {
+         "label": "Place on the map",
+         "score": 1,
+         "expected": "within 70 km of 42.8169, 0.322",
+         "got": "Saint-Lary-Soulan (0 km away)"
+        }
+       ],
+       "weight": 20
+      },
+      "figures": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "kg_seized",
+         "score": 1,
+         "expected": "32.8",
+         "got": "32.8"
+        },
+        {
+         "label": "prison",
+         "score": 1,
+         "expected": "2 years",
+         "got": "24 months"
+        }
+       ],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0.25,
+       "checks": [
+        {
+         "label": "case stage",
+         "score": 0,
+         "expected": "sentenced",
+         "got": "none"
+        },
+        {
+         "label": "sentence types",
+         "score": 0,
+         "expected": "prison",
+         "got": "none"
+        },
+        {
+         "label": "products",
+         "score": 1,
+         "expected": "flower",
+         "got": "flower"
+        },
+        {
+         "label": "agency types",
+         "score": 0,
+         "expected": "customs",
+         "got": "none"
+        }
+       ],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0.5,
+       "checks": [
+        {
+         "label": "Independent outlets on this event",
+         "score": 0.5,
+         "expected": "2 or more",
+         "got": "1"
+        },
+        {
+         "label": "La Semaine des Pyrénées",
+         "score": 1,
+         "expected": "a report of this event",
+         "got": "lasemainedespyrenees.fr: about this event"
+        }
+       ],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0.6,
+       "checks": [
+        {
+         "label": "Another picture (opens; not one of the known photos)",
+         "score": 0.6,
+         "expected": "a photo of the event",
+         "got": "https://www.lasemainedespyrenees.fr/wp-content/uploads/2026/10/controle-routier-douane-chien-drogue-IMG_1015-600x400.jpg",
+         "note": "Police image showing a customs operation in Saint-Lary-Soulan. Photo: La Semaine des Pyrénées"
+        }
+       ],
+       "weight": 10
+      },
+      "text": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Says the prison term",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says customs officers found it",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Says the ten-year ban from France",
+         "score": 1,
+         "expected": "in the text",
+         "got": "yes"
+        },
+        {
+         "label": "Title of 90 characters or fewer",
+         "score": 1,
+         "expected": "≤ 90",
+         "got": "71"
+        }
+       ],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 1,
+       "checks": [
+        {
+         "label": "Sentences whose quotation was found in the source",
+         "score": 1,
+         "expected": "5 of 5",
+         "got": "5 of 5"
+        },
+        {
+         "label": "Figures and details kept after the quotation check",
+         "score": 1,
+         "expected": "all",
+         "got": "all"
+        },
+        {
+         "label": "Status given by the service",
+         "score": 1,
+         "expected": "verified",
+         "got": "verified",
+         "info": true
+        }
+       ],
+       "weight": 10
+      }
+     },
+     "score": 81,
+     "verdict": "partial"
     }
    ],
-   "score": 0
+   "score": 27
   },
   {
    "id": "gy-yaruni-acres",
@@ -4979,9 +5268,101 @@
      },
      "score": 0,
      "verdict": "fail"
+    },
+    {
+     "status": "failed",
+     "outcome": "failed",
+     "model_outcome": "",
+     "report_slug": "",
+     "existing_report": "",
+     "decision_title": "",
+     "explanation": "The last attempt did not finish; it will be retried automatically around 21:42 UTC.",
+     "model_explanation": "",
+     "flags": [],
+     "usage": {
+      "seconds": 1796,
+      "research_seconds": 1775,
+      "steps": 22,
+      "searches": 2,
+      "pages_opened": 0,
+      "runs": 1,
+      "input_tokens": 550118,
+      "output_tokens": 4088,
+      "reasoning_tokens": 0,
+      "cache_read_tokens": 148784,
+      "cache_write_tokens": 0,
+      "cost_usd": 0
+     },
+     "searches": [
+      "Hong Kong Customs 9 kilograms cannabis buds November 2026",
+      "Hong Kong Customs seizes cannabis buds at airport 2026"
+     ],
+     "decision": {
+      "score": 0,
+      "expected": "new_event",
+      "got": "no usable answer",
+      "note": "it ran out of time after 30m0s and 20 model steps"
+     },
+     "report": {
+      "title": "",
+      "summary": "",
+      "date": "",
+      "country": "",
+      "type": "",
+      "also": [],
+      "place": "",
+      "coordinates": null,
+      "figures": {},
+      "details": {},
+      "tags": [],
+      "sources": [],
+      "media": [],
+      "open_questions": [],
+      "body": "",
+      "words": 0
+     },
+     "dimensions": {
+      "facts": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "figures": {
+       "score": 0,
+       "checks": [],
+       "weight": 20
+      },
+      "classification": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "corroboration": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "photos": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      },
+      "text": {
+       "score": 0,
+       "checks": [],
+       "weight": 15
+      },
+      "grounding": {
+       "score": 0,
+       "checks": [],
+       "weight": 10
+      }
+     },
+     "score": 0,
+     "verdict": "fail"
     }
    ],
-   "score": 41.3
+   "score": 27.5
   },
   {
    "id": "in-agartala-same-platform",

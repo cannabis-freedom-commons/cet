@@ -65,12 +65,13 @@ export function aggregate(files) {
 
 // A model's (or one run's) prose score: per case the mean of its judged texts, then the mean over
 // the cases where it wrote one. The same per judge, for the tooltip. null when nothing was judged.
-export function proseOf(runs, agg) {
+export function proseOf(runs, agg, caseId) {
   const perCase = new Map();
   let beats = 0;
   let vs = 0;
   for (const run of runs) {
     for (const item of run.cases || []) {
+      if (caseId && item.id !== caseId) continue;
       item.attempts.forEach((_, index) => {
         const entry = agg.entries.get(entryKey(item.id, run.id, index));
         if (!entry) return;
@@ -89,7 +90,8 @@ export function proseOf(runs, agg) {
     const value = caseMean((entry) => entry.judges[judge.id] ?? null);
     if (value != null) judges[judge.id] = round1(value);
   }
-  return { score: round1(caseMean((entry) => entry.score)), cases: perCase.size, judges, beats, vs };
+  const texts = [...perCase.values()].reduce((count, values) => count + values.length, 0);
+  return { score: round1(caseMean((entry) => entry.score)), cases: perCase.size, texts, judges, beats, vs };
 }
 
 // the tracker's own published texts, as a yardstick row

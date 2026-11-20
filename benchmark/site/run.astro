@@ -2,12 +2,14 @@
 // /benchmark/<run id>/: one run, case by case: what was expected, what the model did, every check.
 import Base from "../../src/layouts/Base.astro";
 import "./benchmark.css";
-import { runs, FAMILIES, CAPABILITIES, VERDICTS, setOf, day, score, tokens, heat, tip, verdictCounts, verdictOf, tokenSplit, costOf, costRows, usd, rankedVariants, variantOf, modelName as nameOf } from "./data.js";
+import ReportProse from "./ReportProse.astro";
+import { runs, cases, FAMILIES, CAPABILITIES, VERDICTS, attemptId, caseHref, setOf, day, score, tokens, heat, tip, verdictCounts, verdictOf, tokenSplit, costOf, costRows, usd, rankedVariants, variantOf, modelName as nameOf } from "./data.js";
 export function getStaticPaths() {
   return runs.map((run) => ({ params: { run: run.id }, props: { run } }));
 }
 const { run } = Astro.props;
 const base = import.meta.env.BASE_URL;
+const caseIds = new Set(cases.map((item) => item.id));
 const s = run.summary;
 const subject = run.subject;
 const modelName = nameOf(run);
@@ -17,7 +19,6 @@ const mark = (value) => (value >= 1 ? "✓" : value > 0 ? "~" : "✗");
 const markClass = (value) => (value >= 1 ? "b-pass" : value > 0 ? "b-part" : "b-fail");
 const minutes = (seconds) => (seconds == null ? "?" : seconds < 90 ? `${Math.round(seconds)} s` : `${(seconds / 60).toFixed(1)} min`);
 const host = (url) => { try { return new URL(url).hostname.replace(/^www\./, ""); } catch { return url; } };
-const kv = (object) => Object.entries(object || {}).map(([key, value]) => `${key}: ${typeof value === "object" ? JSON.stringify(value) : value}`).join(" · ");
 const verdictWord = { pass: "pass", partial: "partial", fail: "fail", error: "did not finish", skipped: "skipped", spoiled: "spoiled, not counted" };
 
 const ranked = run.full_set && run.complete;
@@ -123,9 +124,10 @@ const variant = rankedVariants().find((g) => g.key === variantOf(run).key);
               </summary>
               <div class="b-body">
                 <p class="b-why">{item.why}</p>
-                <p class="note">Submitted page: <a class="link" href={item.submit} target="_blank" rel="noopener noreferrer">{host(item.submit)}</a> · case <code>{item.id}</code></p>
+                <p class="note">Submitted page: <a class="link" href={item.submit} target="_blank" rel="noopener noreferrer">{host(item.submit)}</a>
+                  {caseIds.has(item.id) && <> · <a href={caseHref(base, item.id)}>Compare models on this case</a></>}</p>
                 {item.attempts.map((a, index) => (
-                  <div class="b-attempt">
+                  <div class="b-attempt" id={attemptId(item.id, index)}>
                     {item.attempts.length > 1 && <h4>Repeat {index + 1} · {score(a.score)} · {verdictWord[a.verdict]}</h4>}
                     <div class="b-decision">
                       <div><span>Expected</span>{a.decision.expected.replace(/_/g, " ")}</div>
@@ -156,21 +158,7 @@ const variant = rankedVariants().find((g) => g.key === variantOf(run).key);
                         {(d.notes || []).map((n) => <p class="note">{n}</p>)}
                       </div>
                     ))}
-                    {a.report && (a.report.body || a.report.title) && (
-                      <details class="b-report">
-                        <summary>The report it wrote: {a.report.title}</summary>
-                        <div>
-                          {a.report.summary && <p><em>{a.report.summary}</em></p>}
-                          {a.report.date && <p class="kv">{a.report.date} · {a.report.country} · {[a.report.type, ...(a.report.also || [])].join(" + ")} · {a.report.place}{a.report.coordinates ? ` [${a.report.coordinates.join(", ")}]` : ""}</p>}
-                          {a.report.figures && Object.keys(a.report.figures).length > 0 && <p class="kv">figures — {kv(a.report.figures)}</p>}
-                          {a.report.details && Object.keys(a.report.details).length > 0 && <p class="kv">details — {kv(a.report.details)}</p>}
-                          {(a.report.body || "").split(/\n{2,}/).filter(Boolean).map((p) => <p>{p}</p>)}
-                          {a.report.sources?.length > 0 && <><h6>Sources</h6><ul>{a.report.sources.map((src) => <li><a class="link" href={src.url} target="_blank" rel="noopener noreferrer">{src.title || src.url}</a> · {src.publisher}{src.date ? ` · ${src.date}` : ""}</li>)}</ul></>}
-                          {a.report.media?.length > 0 && <><h6>Photos and video</h6><ul>{a.report.media.map((m) => <li>{m.kind}: <a class="link" href={m.media_url || m.url} target="_blank" rel="noopener noreferrer">{host(m.media_url || m.url)}</a> · {m.caption}</li>)}</ul></>}
-                          {a.report.open_questions?.length > 0 && <><h6>Open questions</h6><ul>{a.report.open_questions.map((q) => <li>{q}</li>)}</ul></>}
-                        </div>
-                      </details>
-                    )}
+                    <ReportProse report={a.report} />
                     {a.searches?.length > 0 && <p class="b-usage">Searches: {a.searches.map((q) => `“${q}”`).join(" · ")}</p>}
                     <p class="b-usage">Tokens: {tokens(a.usage.input_tokens)} fresh in · {tokens(a.usage.cache_read_tokens)} cached · {tokens(a.usage.output_tokens)} out · {tokens(a.usage.reasoning_tokens)} reasoning{a.usage.cost_usd ? ` · $${a.usage.cost_usd.toFixed(4)}` : ""}</p>
                   </div>
@@ -185,10 +173,12 @@ const variant = rankedVariants().find((g) => g.key === variantOf(run).key);
 </Base>
 <script>
   import "../../src/scripts/chart-tooltip.js";
-  // a link to a case (#case-id) opens it
+  // Links can open the case itself or focus one specific attempt inside it.
   const open = () => {
-    const target = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
-    if (target instanceof HTMLDetailsElement) target.open = true;
+    const target = document.getElementById(location.hash.slice(1));
+    const details = target?.closest("details.b-case");
+    if (details instanceof HTMLDetailsElement) details.open = true;
+    if (target && target !== details && details) target.scrollIntoView();
   };
   open();
   addEventListener("hashchange", open);

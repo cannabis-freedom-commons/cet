@@ -82,7 +82,7 @@ const families = Object.keys(FAMILIES).filter((family) => row.families[family] !
     )}
 
     <h2 id="cases">Case by case</h2>
-    <p class="note">One row a case, one column a run. Each cell opens what that run did on the case.</p>
+    <p class="note">Open a case name to compare models and read prose ratings. Each run’s score opens its attempt details.</p>
     <CaseMatrix columns={[{ ...row, name: "pooled", sub: "all runs", href: `#runs`, caseHref: () => "#runs" }, ...runRows]} />
   </div>
 </Base>

@@ -1,0 +1,35 @@
+---
+import { safeHTTP } from "../../src/lib/submission-receipts.js";
+
+const { report, label = "The report it wrote" } = Astro.props;
+const date = (value) => value instanceof Date ? value.toISOString().slice(0, 10) : value;
+const fields = (value) => Object.entries(value).map(([key, item]) => `${key}: ${typeof item === "object" ? JSON.stringify(item) : item}`).join(" · ");
+---
+{report && (report.body || report.title) && (
+  <details class="b-report">
+    <summary>{label}{report.title && `: ${report.title}`}</summary>
+    <div>
+      {report.summary && <p><em>{report.summary}</em></p>}
+      {report.date && <p class="kv">{date(report.date)} · {report.country} · {[report.type, ...(report.also || [])].join(" + ")} · {report.place}{report.coordinates ? ` [${report.coordinates.join(", ")}]` : ""}</p>}
+      {report.figures && Object.keys(report.figures).length > 0 && <p class="kv">Figures · {fields(report.figures)}</p>}
+      {report.details && Object.keys(report.details).length > 0 && <p class="kv">Details · {fields(report.details)}</p>}
+      {(report.body || "").split(/\n{2,}/).filter((paragraph) => paragraph.trim()).map((paragraph) => <p>{paragraph}</p>)}
+      {report.sources?.length > 0 && (
+        <><h6>Sources</h6><ul>{report.sources.map((source) => {
+          const href = safeHTTP(source.url);
+          const title = source.title || source.url;
+          return <li>{href ? <a class="link" href={href} target="_blank" rel="noopener noreferrer">{title}</a> : title}
+            {source.publisher && ` · ${source.publisher}`}{source.date && ` · ${date(source.date)}`}</li>;
+        })}</ul></>
+      )}
+      {report.media?.length > 0 && (
+        <><h6>Photos and video</h6><ul>{report.media.map((media) => {
+          const href = safeHTTP(media.media_url) || safeHTTP(media.url);
+          return <li>{href ? <a class="link" href={href} target="_blank" rel="noopener noreferrer">{media.kind} · {new URL(href).hostname.replace(/^www\./, "")}</a> : media.kind}
+            {media.caption && ` · ${media.caption}`}</li>;
+        })}</ul></>
+      )}
+      {report.open_questions?.length > 0 && <><h6>Open questions</h6><ul>{report.open_questions.map((question) => <li>{question}</li>)}</ul></>}
+    </div>
+  </details>
+)}

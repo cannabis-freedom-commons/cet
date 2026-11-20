@@ -182,6 +182,25 @@
 .b-tests { display: inline-flex; flex-wrap: wrap; gap: 4px; margin-left: 6px; vertical-align: 1px; }
 .b-tests span { border: 1px solid var(--border); border-radius: 3px; padding: 0 5px; color: var(--text-2); font: 10.5px/1.6 var(--mono); }
 
+/* Case results and individual prose judgments */
+.b-case-nav { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-top: 18px; font-size: 14px; }
+.b-case-nav a { text-decoration: underline; text-underline-offset: 3px; }
+.b-case-results th:first-child { min-width: 148px; }
+.b-case-results th button { border: 0; padding: 0; background: transparent; color: inherit; font: inherit; text-transform: inherit; letter-spacing: inherit; cursor: pointer; }
+.b-case-results th button:hover { text-decoration: underline; text-underline-offset: 3px; }
+.b-case-results th[aria-sort="descending"] button::after { content: " ↓"; }
+.b-case-results th[aria-sort="ascending"] button::after { content: " ↑"; }
+.b-case-value { display: inline-block; min-width: 3em; text-align: center; padding: 2px 5px; border-radius: 3px; background: color-mix(in oklab, var(--b-heat) calc(var(--loss, 0) * .55%), transparent); }
+.b-report-meta > td { border-bottom: 0; }
+.b-report-row > td { padding-top: 0; }
+.b-report-row .b-report { margin-top: 0; overflow-wrap: anywhere; }
+.b-judge-notes { min-width: 9ch; color: var(--text-2); }
+.b-judge-notes summary { cursor: pointer; width: fit-content; }
+.b-judge-notes ul { margin: 8px 0 0; padding-left: 16px; max-width: 42ch; overflow-wrap: anywhere; }
+.b-judge-notes li + li { margin-top: 8px; }
+.b-judge-notes li span { display: block; }
+.b-attempt:target { scroll-margin-top: 80px; }
+
 /* check marks in the case details are icons, so they may wear the verdict colour */
 .b-pass { color: var(--b-pass); }
 .b-part { color: var(--b-part); }
