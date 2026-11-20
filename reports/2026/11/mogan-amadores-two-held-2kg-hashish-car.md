@@ -54,27 +54,31 @@ sources:
     publisher: Maspalomas Ahora
     date: 2026-11-19
     language: es
-open_questions:
-  - No names, ages or nationalities of the two men were published.
-  - The substance was described only as appearing to be hashish, with no laboratory confirmation reported.
-  - The two kilograms were reported as a round figure with no exact measured weight or breakdown of packages.
-  - No court appearance, charge sheet or later outcome was reported beyond detention for proceedings.
-  - Both accounts reproduce the Mogán Local Police statement, so they are not independent reporting.
+  - title: Un control de tráfico en Amadores acaba con dos detenidos y dos kilos de hachís ocultos en un coche
+    url: https://www.laprovincia.es/sucesos/sucesos-en-canarias/2026/11/19/control-trafico-amadores-acaba-detenidos-136624358.html
+    publisher: La Provincia - Diario de Las Palmas
+    date: 2026-11-19
+    language: es
+media:
+  - kind: photo
+    url: https://www.laprovincia.es/sucesos/sucesos-en-canarias/2026/11/19/control-trafico-amadores-acaba-detenidos-136624358.html
+    media_url: https://estaticos-cdn.prensaiberica.es/clip/6cc4d9e6-33e5-4132-8f56-f7f6655f75fd_16-9-discover-aspect-ratio_default_0_x605y233.webp
+    publisher: La Provincia
+    caption: 'Hashish and cash seized by Mogán Local Police during the Amadores traffic stop. Photo: La Provincia'
 ---
 
 Mogán Local Police arrested two men in Amadores, in the south of Gran Canaria,
 after finding two kilograms of hashish hidden in the car they were travelling
-in. [@1] The operation took place on 13 November 2026 during a preventive
-traffic control carried out with support from the canine unit. [@2]
+in. [@1,3] The operation took place on 13 November 2026 during a preventive
+traffic control carried out with support from the canine unit. [@2,3]
 
 Officers stopped the car and, during initial checks, found a small amount of
-what appeared to be hashish in the passenger-side area. [@1] When officers
+what appeared to be hashish in the passenger-side area. [@1,3] When officers
 called for the specialist dog to inspect the vehicle in depth, the passenger
-fled on foot but officers intercepted him a few minutes later. [@1] The dog's
+fled on foot but officers intercepted him a few minutes later. [@1,3] The dog's
 indication led officers to find the two kilograms of hashish inside the vehicle.
-[@2] Officers also seized 380 euros in notes of different denominations. [@1]
+[@2,3] Officers also seized 380 euros in notes of different denominations. [@1,3]
 
 Both men were detained as alleged perpetrators of a crime against public health.
-[@1] They were taken to police premises for the preparation of the corresponding
-proceedings. [@2]
-
+[@1,3] They were taken to police premises for the preparation of the corresponding
+proceedings. [@2,3]
