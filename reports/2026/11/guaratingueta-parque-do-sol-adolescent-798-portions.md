@@ -57,6 +57,16 @@ sources:
     publisher: PMESP Communication Portal
     date: 2026-11-19
     language: en
+  - title: Adolescente apreendido com quase 800 porções de drogas em Guaratinguetá
+    url: https://policialpadrao.com.br/adolescente-apreendido-com-quase-800-porcoes-de-drogas-em-guaratingueta-sp/
+    publisher: Policial Padrão
+    date: 2026-11-19
+    language: pt
+  - title: Adolescente é detido com quase oitocentas porções de entorpecentes em Guaratinguetá
+    url: https://fatopaulista.com.br/adolescente-apreendido-drogas-guaratingueta/
+    publisher: Fato Paulista
+    date: 2026-11-19
+    language: pt
 open_questions:
     - No weight was published for any drug, only portion counts, so no cannabis weight can be recorded.
     - No amount was given for the money seized with the drugs.
@@ -64,22 +74,23 @@ open_questions:
     - No age, name or further identifying details were published for the adolescent, and no charge or court outcome beyond remaining apprehended was reported.
     - A separate arrest of a man wanted for theft in the Santa Rita neighbourhood was described in the same police statement; that is a different event left out of this report.
     - The MEON, O Vale and PMESP accounts all reproduce the 23rd BPM/I police statement and are not independent reporting.
+    - One account dates the apprehension to Wednesday 18 November and another dates it to the afternoon of Thursday 19 November.
 ---
 
 Officers of ROCAM, the Rondas Ostensivas com Apoio de Motocicletas motorcycle
 unit of the 23rd Interior Military Police Battalion, apprehended an adolescent
-during a patrol in Parque do Sol in Guaratinguetá. [@1,3] The occurrence was
+during a patrol in Parque do Sol in Guaratinguetá. [@1,3,4] The occurrence was
 registered on Wednesday the 18th as an act analogous to drug trafficking and
 involved 798 varied drug portions seized in the neighbourhood. [@2,3] According to
 the Military Police, the youth was caught in a drug-trafficking situation with
 798 portions of drugs in his possession. [@1,3]
 
 During a patrol through the neighbourhood, ROCAM officers of the 23rd Interior
-Battalion approached the youth and found the drugs on him. [@2] Police said 468
-of the portions were cocaine. [@1,3] They listed 142 of the items as crack rocks.
-[@1,3] The seizure included 104 portions of maconha. [@1,3] Officers also reported
-79 portions of dry. [@1,3] Five portions were haxixe. [@1,3]
+Battalion approached the youth and found the drugs on him. [@2,4] Police said 468
+of the portions were cocaine. [@1,3,4] They listed 142 of the items as crack rocks.
+[@1,3] The seizure included 104 portions of maconha. [@1,3,5] Officers also reported
+79 portions of dry. [@1,3] Five portions were haxixe. [@1,3,5]
 
 Officers also seized money from the adolescent. [@1,3] In addition to the drugs,
 he was carrying an amount of money. [@2] He was taken to the police station,
-where he remained apprehended. [@1,3]
+where he remained apprehended. [@1,3,4]
