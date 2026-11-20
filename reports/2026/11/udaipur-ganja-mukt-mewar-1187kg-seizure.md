@@ -46,13 +46,11 @@ sources:
     publisher: Udaipur Times
     date: 2026-11-18
     language: hi
-open_questions:
-  - No arrests, names of accused, plant count or cultivated area were published.
-  - Five of the seven seizures carry no separate date; 18 November 2026 is the publication date and stands in for the incident date, while two seizures are dated 17 November.
-  - No court outcome, charge sheet, plea or detention measure was reported; the cases are at the registration stage.
-  - Property action under section 68F is described only as proposals to be prepared, with no amount seized.
-  - Drone and satellite surveys, hotspot destruction and eviction under Section 177 are described as decisions and future steps, not completed actions.
-  - The whole account rests on a single Udaipur Times report of police statements, with no independent second outlet found.
+  - title: जिले में ड्रोन-सैटेलाइट से होगी गांजे की खेती की निगरानी, तस्करों की संपत्ति भी होगी जब्त
+    url: https://www.bhaskar.com/local/rajasthan/udaipur/news/drones-and-satellites-will-be-used-to-monitor-cannabis-cultivation-in-the-district-and-smugglers39-property-will-also-be-confiscated-dbp-139729436.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-19
+    language: hi
 ---
 
 Udaipur police launched the ‘Ganja Mukt Mewar’ campaign to curb illegal cannabis
@@ -82,11 +80,10 @@ transport routes, joint police patrols and surprise raids. [@1]
 Police decided to use drones and satellite imagery to survey hidden cultivation
 in remote hills, forests and deserted areas, mark hotspots and destroy the crop
 with the forest and revenue departments, including eviction under Section 177 of
-the Rajasthan Tenancy Act 1955. [@1] Action will extend beyond cultivators to
+the Rajasthan Tenancy Act 1955. [@1,2] Action will extend beyond cultivators to
 the whole ganja network, with proposals to seize traffickers’ illegal property
 under section 68F of the NDPS Act and investigation of financial transactions
-from supplier to end buyer. [@1] Police will also run de-addiction awareness as
+from supplier to end buyer. [@1,2] Police will also run de-addiction awareness as
 ‘Nasha Chhodo, Jeevan Jodo’ through community meetings and schools, telling
 villagers that cannabis cultivation and trafficking can bring rigorous
 imprisonment of 10 years or more and a fine up to 200,000 rupees. [@1]
-
