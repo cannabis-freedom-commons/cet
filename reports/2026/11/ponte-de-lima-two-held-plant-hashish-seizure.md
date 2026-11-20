@@ -104,20 +104,25 @@ sources:
     publisher: Semanário Alto Minho
     date: 2026-11-19
     language: pt
+  - title: 'Norte: Dois homens detidos por tráfico de droga após investigação de nove meses'
+    url: https://famaradio.tv/pais/11/19/norte-dois-homens-detidos-por-trafico-de-droga-apos-investigacao-de-nove-meses/
+    publisher: Fama Rádio e Televisão
+    date: 2026-11-19
+    language: pt
 ---
 
 GNR officers from the Viana do Castelo territorial command, through the Arcos de
 Valdevez criminal investigation unit, detained two men aged 35 and 42 on 18
 November in the municipality of Ponte de Lima for suspected drug trafficking.
-[@1,6,8] The home searches were carried out in Feitosa and Arcozelo, both in the municipality of Ponte de Lima. [@5] The detentions followed a drug-trafficking investigation that had run for
+[@1,6,8,9] The home searches were carried out in Feitosa and Arcozelo, both in the municipality of Ponte de Lima. [@5] The detentions followed a drug-trafficking investigation that had run for
 about nine months and led to the execution of two home search warrants and two
-vehicle searches. [@1,5,6,7,8] The two detainees were made formal suspects and the facts
-were communicated to the Judicial Court of Ponte de Lima. [@4,6,7,8] The two detainees were made formal suspects but will await the proceedings in liberty under the Ponte de Lima Public Prosecutor's Office. [@5] The operation was
+vehicle searches. [@1,5,6,7,8,9] The two detainees were made formal suspects and the facts
+were communicated to the Judicial Court of Ponte de Lima. [@4,6,7,8,9] The two detainees were made formal suspects but will await the proceedings in liberty under the Ponte de Lima Public Prosecutor's Office. [@5] The operation was
 reinforced by the Intervention Detachment of the Viana do Castelo command and a
 dog team from the Braga command. [@1,5,8]
 
 Officers seized 12 doses of cocaine, three doses of hashish and one cannabis
-plant. [@2,6,7,8] They also seized an indoor cultivation tent, three mobile phones and
+plant. [@2,6,7,8,9] They also seized an indoor cultivation tent, three mobile phones and
 assorted electronic equipment and products intended for growing drugs. [@3,5,6,7,8] The
 cocaine doses are not counted as cannabis; only the hashish doses and the single
 plant form the cannabis component of this mixed seizure. [@2]
