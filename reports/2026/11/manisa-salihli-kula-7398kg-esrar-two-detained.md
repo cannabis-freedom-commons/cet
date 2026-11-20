@@ -53,6 +53,11 @@ sources:
     publisher: Muhalif
     date: 2026-11-19
     language: tr
+  - title: Manisa'daki 2 ilçede uyuşturucu operasyonu; 2 gözaltı
+    url: https://yerel-haberler.haberturk.com/manisa-haberleri/manisadaki-2-ilcede-uyusturucu-operasyonu-2-gozalti-119526631
+    publisher: Habertürk Yerel Haberler
+    date: 2026-11-19
+    language: tr
 open_questions:
   - The DHA account says the operations took place the previous day, implying 18 November 2026, while the IHA account dates them to 17 November; 19 November is the publication date.
   - The IHA-derived headline total is 74 kilos 980 grams while its breakdown of 980 grams plus 73 kilos supports 73 kilos 980 grams, which this report uses.
@@ -64,20 +69,20 @@ open_questions:
 ---
 
 Provincial gendarmerie teams mounted simultaneous anti-drug operations in
-Manisa's Salihli and Kula districts. [@1,3] The Salihli operation, coordinated by
+Manisa's Salihli and Kula districts. [@1,3,4] The Salihli operation, coordinated by
 the Salihli Chief Public Prosecutor's Office, found 980 grams of esrar in a bag
-next to five people gathered together. [@1] Four of the five people in Salihli
+next to five people gathered together. [@1,4] Four of the five people in Salihli
 were released after giving statements, while 31-year-old H.A. was detained to be
-referred to the courthouse. [@1] The Kula operation, coordinated by the Kula
+referred to the courthouse. [@1,4] The Kula operation, coordinated by the Kula
 Chief Public Prosecutor's Office, searched the home of 31-year-old H.K. acting
-on intelligence. [@1]
+on intelligence. [@1,4]
 
 That home search seized 73 kilograms of esrar together with three unlicensed
-hunting rifles, and H.K. was detained. [@1,3] Across the two operations the
+hunting rifles, and H.K. was detained. [@1,3,4] Across the two operations the
 gendarmerie seized a total of 73 kilograms 980 grams of esrar and detained two
-suspects. [@1] The gendarmerie account places the operations on the previous
+suspects. [@1,4] The gendarmerie account places the operations on the previous
 day, while a second account dates the same two operations to 17 November. [@2]
 
 Investigations into both incidents were reported to be continuing, with no
-charge or court outcome reported. [@1,3] The three rifles are non-cannabis items
+charge or court outcome reported. [@1,3,4] The three rifles are non-cannabis items
 and are excluded from the cannabis figures. [@1]
