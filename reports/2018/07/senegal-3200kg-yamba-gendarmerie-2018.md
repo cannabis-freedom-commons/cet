@@ -52,20 +52,26 @@ sources:
     publisher: SeneNews
     date: 2018-07-30
     language: fr
+  - title: Saisie record de 3,2 tonnes de chanvre indien par la gendarmerie sénégalaise
+    url: https://cridem.org/imprimable.php?article=714021
+    publisher: Cridem.org
+    date: 2018-07-31
+    language: fr
+  - title: 'Mbour : 3,2 tonnes de drogue saisies, trois personnes dont une femme arrêtées'
+    url: http://www.ndarinfo.com/Mbour-32-tonnes-de-drogue-saisies-trois-personnes-dont-une-femme-arretees_a22455.html
+    publisher: Ndarinfo
+    date: 2018-07-31
+    language: fr
 open_questions:
-  - The reports name no place for the seizure, so the report is placed at country level for Senegal.
-  - No number of suspects arrested or detained is given, only the weight seized.
-  - The article gives no separate date for the seizure or the end of the investigation; 30 July 2018 is its publication date.
-  - The figure of 3.2 tonnes comes from the national gendarmerie as relayed by Seneweb, and SeneNews credits Seneweb as its source.
-  - No court proceedings or outcome were reported.
-  - Only one outlet's account of the seizure could be opened, and no gendarmerie statement for it was found.
-  - The three photos are captioned only with the article title and credited to SeneNews, so they are not independently established to show the seized consignment.
-  - The same page reports a separate Thiès seizure of 3,000 kg, a different event left out of this report.
+    - The precise date of the raid is not stated; accounts place the operation on a Wednesday and the referral of the three suspects to the prosecutor on Monday 30 July 2018.
+    - No trial date or verdict was reported, and the gendarmerie said the investigation was continuing.
+    - The 3.2-tonne figure is the gendarmerie's own estimate relayed by several outlets and was not independently verified.
+    - The three photos are captioned only with the article title and credited to SeneNews, so they are not independently established to show the seized consignment.
+    - A separate Thiès seizure of 3,000 kg reported on the same pages is a different event and is not covered in this report.
 ---
 
 Senegal's national gendarmerie seized 3.2 tonnes, or 3,200 kg, of Indian hemp,
-locally called yamba, in an operation reported on 30 July 2018. [@1] The drug
+locally called yamba, in an operation reported on 30 July 2018. [@1,2] The seizure was made at Mbour in the region of Thiès. [@3] Three people, including a woman, were arrested during the operation. [@2] The drug
 seizure came at the end of a four-year investigation by the gendarmerie's
-research section. [@1] Senegal's national gendarmerie is the force that made the
+research section. [@1] The traffickers brought the drug in on trucks fitted with false walls, and the network was run by a foreigner with accomplices based in Mali who exported the drug to Mauritania. [@2] Senegal's national gendarmerie is the force that made the
 seizure. [@1]
-
