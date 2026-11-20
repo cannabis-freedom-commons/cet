@@ -44,6 +44,11 @@ sources:
     publisher: Dhaka Times
     date: 2026-11-19
     language: bn
+  - title: Govt deploys 98 BGB platoons in 7 districts amid arson, violence
+    url: https://today.thefinancialexpress.com.bd/first-page/govt-deploys-98-bgb-platoons-in-7-districts-amid-arson-violence-1795112753
+    publisher: The Financial Express
+    date: 2026-11-20
+    language: en
 open_questions:
   - The 537 arrests and 60 cases cover the whole 24-hour sweep across all alleged offences; how many were linked to cannabis was not stated.
   - One puriya (packet) of ganja was seized without a stated weight, so only the 10 kg 300 g is counted in the cannabis figure.
@@ -52,25 +57,25 @@ open_questions:
   - The DMP statement was issued on 19 November about raids on 18 November; no time is given for the raids.
   - No street value or laboratory confirmation was published for the ganja.
   - Both opened accounts reproduce the same DMP statement, so they are not independent reporting.
+  - One account gives 53 arrests in Lalbagh division while the report records 54; the overall total of 537 is unchanged in both.
 ---
 
 Dhaka Metropolitan Police arrested 537 people in its regular drives across the
-capital in 24 hours. [@1] The arrests were made in raids in different police
+capital in 24 hours. [@1,3] The arrests were made in raids in different police
 station areas of Dhaka on Wednesday 18 November 2026. [@2] Police filed 60 cases
-over the same period. [@1] The figures were announced on Thursday 19 November by
+over the same period. [@1,3] The figures were announced on Thursday 19 November by
 Additional Deputy Commissioner Niaz Mehdi of the DMP's Media and Public
 Relations Division. [@1]
 
 Mirpur division recorded the most arrests with 103, followed by Tejgaon with 91
-and Wari with 74. [@1] Gulshan recorded 66 arrests, Lalbagh 54, Uttara 46, and
+and Wari with 74. [@1,3] Gulshan recorded 66 arrests, Lalbagh 54, Uttara 46, and
 Ramna and Motijheel 43 each, while the Special Reserve Unit held seven and the
 Detective Branch 10. [@1]
 
-Officers seized 10 kg 300 g of ganja and one puriya, a packet, of ganja. [@1]
+Officers seized 10 kg 300 g of ganja and one puriya, a packet, of ganja. [@1,3]
 The same drives recovered 11,615 yaba pills, 2 kg 290 g of gunpowder, 2.2 g of
 heroin, four bottles of country liquor, four crude bombs and fragments of 13
-exploded bombs. [@1] Police also seized a truck, five motorcycles, 18 kg of
-copper wire and two mobile phones. [@1]
+exploded bombs. [@1,3] Police also seized a truck, five motorcycles, 18 kg of
+copper wire and two mobile phones. [@1,3]
 
 Legal proceedings against those arrested were under way, police said. [@1]
-
