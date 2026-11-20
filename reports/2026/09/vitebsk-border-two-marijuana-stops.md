@@ -55,6 +55,11 @@ sources:
     publisher: Чеснок
     date: 2026-09-26
     language: ru
+  - title: Витебские таможенники задержали беларуса с марихуаной в дезодоранте
+    url: https://reform.news/vitebskie-tamozhenniki-zaderzhali-belarusa-s-marihuanoj-v-dezodorante/
+    publisher: Reform.news
+    date: 2026-09-26
+    language: ru
 media:
   - kind: photo
     url: https://customs.gov.by/eng/news/vitebsk-customs-officers-stopped-two-attempts-to-import-marijuana-into-belarus-during-special-operat/
@@ -76,10 +81,25 @@ media:
     media_url: https://4esnok.by/wp-content/uploads/2026/09/GTK1-3-1024x682.jpg
     publisher: Чеснок
     caption: 'Customs handout photo published with the account of the two marijuana stops at the Belarus–Russia border. Photo: t.me/customs_bel'
+  - kind: photo
+    url: https://reform.news/vitebskie-tamozhenniki-zaderzhali-belarusa-s-marihuanoj-v-dezodorante/
+    media_url: https://reform.news/wp-content/uploads/2026/09/photo_2026-09-26_11-35-39-2.jpg
+    publisher: Reform.news
+    caption: 'Customs handout photograph published with the account of the two marijuana stops at the Belarus–Russia border. Photo: t.me/customs_bel'
+  - kind: photo
+    url: https://reform.news/vitebskie-tamozhenniki-zaderzhali-belarusa-s-marihuanoj-v-dezodorante/
+    media_url: https://reform.news/wp-content/uploads/2026/09/photo_2026-09-26_11-35-39.jpg
+    publisher: Reform.news
+    caption: 'Customs handout photograph published with the account of the two marijuana stops at the Belarus–Russia border. Photo: t.me/customs_bel'
+  - kind: photo
+    url: https://reform.news/vitebskie-tamozhenniki-zaderzhali-belarusa-s-marihuanoj-v-dezodorante/
+    media_url: https://reform.news/wp-content/uploads/2026/09/photo_2026-09-26_11-35-38.jpg
+    publisher: Reform.news
+    caption: 'Customs handout photograph published with the account of the two marijuana stops at the Belarus–Russia border. Photo: t.me/customs_bel'
 ---
 
-Vitebsk customs stopped two attempts to bring marijuana into Belarus during special operations on the Belarusian-Russian border, the State Customs Committee told Belta on 26 September 2026. [@1,3] Service dogs indicated the drugs in both cases. [@1,2,3,4]
+Vitebsk customs stopped two attempts to bring marijuana into Belarus during special operations on the Belarusian-Russian border, the State Customs Committee told Belta on 26 September 2026. [@1,3,5] Service dogs indicated the drugs in both cases. [@1,2,3,4,5]
 
-In the first, a 32-year-old Belarusian was driving a Ford Transit minibus. [@1,2,3,4] Officers found a foil-wrapped package of the substance on the passenger seat. [@1,2,3,4] In the second, a 29-year-old Belarusian driving an Opel Insignia had hidden a package in a deodorant bottle among his personal belongings. [@1,2,3,4]
+In the first, a 32-year-old Belarusian was driving a Ford Transit minibus. [@1,2,3,4,5] Officers found a foil-wrapped package of the substance on the passenger seat. [@1,2,3,4,5] In the second, a 29-year-old Belarusian driving an Opel Insignia had hidden a package in a deodorant bottle among his personal belongings. [@1,2,3,4,5]
 
-Specialists of the State Committee of Forensic Examinations in Vitebsk region confirmed that both substances were marijuana. [@1,2,3,4] Vitebsk Customs opened criminal cases against the two men. [@1,2,3,4] The offence allows up to seven years in prison. [@1,2,3,4] The English customs notice of the same stops is dated 28 September. [@2]
+Specialists of the State Committee of Forensic Examinations in Vitebsk region confirmed that both substances were marijuana. [@1,2,3,4,5] Vitebsk Customs opened criminal cases against the two men. [@1,2,3,4,5] The case was opened under part 1 of article 328-1 of the Criminal Code, covering the illegal movement of narcotics across the border. [@5] The offence allows up to seven years in prison. [@1,2,3,4,5] The English customs notice of the same stops is dated 28 September. [@2]
