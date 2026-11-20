@@ -53,6 +53,11 @@ media:
     media_url: https://gabonactu.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-06-at-14.26.30.jpeg
     publisher: Gabonactu
     caption: Second view of the operation against the cannabis network; the page gives no caption or credit.
+  - kind: photo
+    url: https://www.gabonreview.com/gabon-13-tonne-de-cannabis-interceptee-huit-suspects-ecroues/
+    media_url: https://www.gabonreview.com/wp-content/uploads/2026/08/cannabis.jpg
+    publisher: Gabonreview
+    caption: 'Suspects and the seized cannabis cargo from the Libreville interception. Photo: L''Union via Gabonreview.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fb4d37025f7020a85d36c4ebcdf7b5a6
@@ -78,34 +83,42 @@ sources:
     publisher: Info241.com
     date: 2026-08-05
     language: fr
+  - title: 'Gabon : 1,3 tonne de cannabis interceptée, huit suspects écroués'
+    url: https://www.gabonreview.com/gabon-13-tonne-de-cannabis-interceptee-huit-suspects-ecroues/
+    publisher: Gabonreview
+    date: 2026-08-13
+    language: fr
+open_questions:
+  - No separate date for the interception or detention was published; 13 August 2026 is the publication date.
+  - No precise measured weight beyond more than 1.3 tonnes was published in this account.
 ---
 
 A joint operation by Gabon's Central Anti-Drug Office (OCLAD), backed by the
 DGR, the DGDI and the DGSI, dismantled a cross-border network trafficking
-cannabis from Nigeria. [@2,4] Investigators seized 1 tonne and 320 kilogrammes
+cannabis from Nigeria. [@2,4,5] Investigators seized 1 tonne and 320 kilogrammes
 (1,320 kg) of cannabis packed in 65 sacks and valued at nearly 800 million CFA
-francs. [@1,4] The agency's statement put the 1.32 tonnes in 51 sacks at nearly 80
+francs. [@1,4,5] The agency's statement put the 1.32 tonnes in 51 sacks at nearly 80
 million CFA francs. [@2] Eight suspects of Nigerian, Beninese, Togolese and
 Gabonese nationality were arrested, or, as the agency put it, several people of
-different nationalities. [@1,4]
+different nationalities. [@1,4,5]
 
 Investigators found the cargo arrived by sea aboard a pirogue, a wooden fishing
-canoe, from Nigeria carrying the cannabis hidden among its load. [@1,4] The same
+canoe, from Nigeria carrying the cannabis hidden among its load. [@1,4,5] The same
 boat was carrying six irregular migrants, one man and five women of Nigerian,
-Togolese and Beninese nationality. [@2,4] Investigators suspect a vast
+Togolese and Beninese nationality. [@2,4,5] Investigators suspect a vast
 cross-border criminal network whose main sponsors are based in Nigeria. [@2,4]
 
 A Nigerian national presented as one of the couriers said he accepted the job
-for a promised 600,000 CFA francs "per trip". [@2,4] He admitted knowing the cargo
+for a promised 600,000 CFA francs "per trip". [@2,4,5] He admitted knowing the cargo
 was illegal, saying: "It was the money that pushed me to this. What mattered to
 me was the money." [@2,4] Investigators suspect a Beninese national of being the
 network's main relay in Libreville; he says he was drawn in about six months ago
-and coerced after threats to lend his vehicle. [@1,4] A Gabonese suspect was
+and coerced after threats to lend his vehicle. [@1,4,5] A Gabonese suspect was
 presented as the local distributor, admitted selling cannabis for two years, and
-said the proceeds paid for hospital visits and medicine. [@2,4]
+said the proceeds paid for hospital visits and medicine. [@2,4,5]
 
 All the suspects were brought before the prosecutor and jailed at Libreville
-central prison on 3 August 2026. [@2,4] The court had not yet tried them; they
+central prison on 3 August 2026. [@2,4,5] The court had not yet tried them; they
 were held pending judgement, as the local press put it. [@3] The operation was
 part of repeated drives by specialised Gabonese services against drug routes
 between neighbouring countries and Gabon, and investigators were still working
