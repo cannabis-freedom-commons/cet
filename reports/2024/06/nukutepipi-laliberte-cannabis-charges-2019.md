@@ -79,6 +79,11 @@ sources:
     publisher: Outre-mer La 1ère
     date: 2024-06-05
     language: fr
+  - title: Polynésie française | Guy Laliberté condamné à une amende pour détention et usage de cannabis
+    url: https://www.lapresse.ca/actualites/justice-et-faits-divers/2024-06-05/polynesie-francaise/guy-laliberte-condamne-a-une-amende-pour-detention-et-usage-de-cannabis.php
+    publisher: La Presse
+    date: 2024-06-05
+    language: fr
 open_questions:
     - No separate date for the 2019 custody was published; 13 November 2019 remains the investigation date and 4 June 2024 is the trial and sentencing date.
     - Early reports gave about 20 plants; the trial record and Laliberté’s admission give 48 plants, which this updated report uses.
@@ -115,14 +120,14 @@ custody over cannabis cultivation on his atoll. [@2]
 
 The judge placed him under judicial investigation and released him under
 judicial supervision, and AFP reported he was formally charged with possession
-and cultivation of narcotics. [@3] La 1ère specifies the fine as 2 million Pacific francs with the two employees getting 3 months suspended. [@6] The court acquitted him of the trafficking counts and convicted him only of cannabis use and possession, fining him 2 million francs. [@4] On 4 June 2024 Laliberté stood trial free with his former director general and former IT director before the Papeete correctional court. [@4] The supervision allowed him to leave for
+and cultivation of narcotics. [@3] La 1ère specifies the fine as 2 million Pacific francs with the two employees getting 3 months suspended. [@6] The court acquitted him of the trafficking counts and convicted him only of cannabis use and possession, fining him 2 million francs. [@4,7] On 4 June 2024 Laliberté stood trial free with his former director general and former IT director before the Papeete correctional court. [@4] The supervision allowed him to leave for
 Canada but required him to answer the judge's summons and to have no contact
 with another person also implicated in the case. [@2] Papeete television
 reported that about 20 cannabis plants were growing in a fitted-out container
 locked with a keypad code on the atoll. [@2] The container had been bought at his request for 134,000 US dollars, and the 48 plants were a first trial that was never harvested. [@5] He admitted at the hearing that he had planted 48 paka plants in a container to ease pain linked to his former life as an acrobat. [@4] The case followed the earlier
 interception of the director of Laliberté's Nukutepipi residence, found in
 possession of cannabis with photographs of plants grown on the atoll on his
-phone. [@2]
+phone. [@2,7]
 
 Laliberté's company Lune Rouge said he was a medical cannabis user growing the
 plant for strictly personal use and denied any sale or trafficking. [@1] His
@@ -135,4 +140,4 @@ quantities unless they are repeat offenders. [@3] The prosecutor had requested s
 An AFP report said his troubles followed the arrest the previous month of a
 worker on the atoll who was in possession of cannabis. [@3]
 
-The two former employees received three months’ suspended imprisonment and 200,000-franc fines. [@4] Laliberté said he makes oils and honey taken as infusions for principally medical use and never wanted to trade the crop. [@5]
+The two former employees received three months’ suspended imprisonment and 200,000-franc fines. [@4] Laliberté said he makes oils and honey taken as infusions for principally medical use and never wanted to trade the crop. [@5,7]
