@@ -69,6 +69,10 @@ sources:
     url: https://rudaw.net/english/categories/iraq/1079118
     publisher: Rudaw
     date: 2026-09-03
+  - title: Iraqi, Kurdish authorities dismantle ‘international’ drug ring, seize 260 kg of Captagon
+    url: https://www.rudaw.net/english/categories/iraq/1079134
+    publisher: Rudaw
+    date: 2026-09-04
 open_questions:
     - No district, town or address within Al-Sulaymaniyah province was named for the arrest.
     - No date was given for the arrest beyond Thursday, 3 September 2026, when the seizure was announced.
@@ -76,18 +80,20 @@ open_questions:
     - No name, age, nationality, formal charge, detention order or court outcome was reported for the arrested suspect.
     - The English accounts render the agency's name variously as the Directorate of Narcotics Control and the General Directorate of Narcotics Affairs.
     - The eight-month total of 304 local and 54 international dismantled networks cited by spokesperson Abbas al-Bahadli is lower than the six-month figure of 378 dismantled networks, including 59 international groups, reported in earlier Interior Ministry figures.
+    - Left out arrested, as no supporting quotation was given.
+    - Left out kg seized, as no supporting quotation was given.
 ---
 
 Iraqi security forces arrested a suspected drug dealer in Al-Sulaymaniyah
 province and seized three kilograms of narcotics from him, the Interior
 Ministry's Directorate of Narcotics Control said on Thursday, 3 September 2026.
 [@1,3,4] The haul included 2 kilograms of marijuana and 1 kilogram of magic
-mushrooms, the hallucinogenic fungus the ministry calls “magic mushroom”. [@1,3,4]
+mushrooms, the hallucinogenic fungus the ministry calls “magic mushroom”. [@1,3,4,5]
 Kirkuk narcotics officers carried out the operation in coordination with the
-Al-Sulaymaniyah anti-narcotics directorate. [@1,3,4] The Kirkuk narcotics
+Al-Sulaymaniyah anti-narcotics directorate. [@1,3,4,5] The Kirkuk narcotics
 directorate said its teams acted on intelligence, arrested one trafficker and
 displayed the 1 kilogram of magic mushrooms alongside 2 kilograms of marijuana
-in Al-Sulaymaniyah province. [@2] Spokesperson Abbas al-Bahadli said the seizure of the hallucinogenic mushrooms was the first of its kind in Iraq. [@4]
+in Al-Sulaymaniyah province. [@2] Spokesperson Abbas al-Bahadli said the seizure of the hallucinogenic mushrooms was the first of its kind in Iraq. [@4,5]
 
 The directorate said drug networks were “under control” and would find no safe
 haven however they renamed or reshaped their products. [@2,4]
@@ -96,4 +102,4 @@ In the first half of 2026, security forces dismantled 378 drug networks,
 including 59 international groups, and confiscated more than 1,977 kilograms of
 narcotics, according to the Interior Ministry. [@1] During the same period,
 Iraqi courts recorded 3,553 drug-related convictions, including 58 death
-sentences and 236 life terms. [@1] For the first eight months of 2026, Bahadli reported the previous week that authorities had confiscated 2 tons and 370 kilograms of narcotics. [@4] Over the same eight-month period, 4,644 people were sentenced on drug trafficking and use charges, including 69 to death and 267 to life imprisonment. [@4] Security forces also dismantled 304 local and 54 international networks over those eight months. [@4]
+sentences and 236 life terms. [@1] For the first eight months of 2026, Bahadli reported the previous week that authorities had confiscated 2 tons and 370 kilograms of narcotics. [@4,5] Over the same eight-month period, 4,644 people were sentenced on drug trafficking and use charges, including 69 to death and 267 to life imprisonment. [@4,5] Security forces also dismantled 304 local and 54 international networks over those eight months. [@4,5]
