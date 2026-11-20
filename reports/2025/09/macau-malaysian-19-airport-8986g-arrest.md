@@ -80,17 +80,14 @@ sources:
     url: https://www.macaupostdaily.com/news/26132
     publisher: The Macau Post Daily
     date: 2025-09-26
-open_questions:
-  - The Judiciary Police's 8,986.5 g total includes packaging; no net cannabis weight was reported, while news accounts round the haul to 8.9 kg.
-  - The sources do not say whether the 25 September courier was linked to the separate 28 September Macau airport case involving two Malaysian men and a Hong Kong man.
-  - No later court appearance or outcome is reported after his transfer to the Public Prosecutions Office.
-  - The suspect's full name was not published in these sources.
-  - The Macau Post Daily's press-briefing photo is credited to TDM and appears to be the same picture already listed in the report from other outlets.
-  - The article does not say when the airport briefing took place beyond calling it the previous night, and gives no further court step.
+  - title: Man arrested for trafficking cannabis buds to Macau
+    url: https://www.tdm.com.mo/en/news-detail/1132641?isvideo=&lang=en&shortvideo=0
+    publisher: TDM
+    date: 2025-09-26
 ---
 
 A 19-year-old Malaysian man was arrested in Macau on Thursday, 25 September
-2025. [@1,5] During flight screening, Judiciary Police identified a suspicious
+2025. [@1,5,6] During flight screening, Judiciary Police identified a suspicious
 passenger travelling from Thailand to Macau via South Korea. [@2] Officers
 suspected a passenger on the South Korea-to-Macau flight after assessing
 intelligence and intercepted him as he collected his luggage after the flight
@@ -98,12 +95,12 @@ landed at 2 p.m. [@3] They found 16 foil-wrapped packages of cannabis in his
 suitcase at Macau International Airport. [@1] Forensic examination confirmed the
 packages contained cannabis flowers and weighed approximately 8,986.5 grams
 including packaging. [@2] Judiciary Police valued the seizure at around MOP 9
-million. [@2,5]
+million. [@2,5,6]
 
 Police said a Malaysian drug-trafficking syndicate recruited him and that he
 received the suitcase in Bangkok before flying via South Korea to Macau. [@2,5] He
 planned to carry the cannabis onward to Hong Kong and was promised RM5,000 if he
-succeeded. [@2,5] He told police he worked as a maintenance worker and admitted he
+succeeded. [@2,5,6] He told police he worked as a maintenance worker and admitted he
 had been hired to carry out the task. [@4]
 
 Police were investigating the cannabis's origin and trying to identify others
