@@ -57,6 +57,11 @@ media:
     media_url: https://imagenes.aragonplay.es/files/article_crop_1272_716/uploads/2026/11/19/6afef73bdaf2b.png
     publisher: Aragón Play
     caption: 'Drugs, money and weapons seized in the anti-drug operation in Huesca. Photo: Policía Nacional'
+  - kind: video
+    url: https://www.diariodelaltoaragon.es/huesca/operacion-chaplin-desmantelan-huesca-un-punto-venta-hachis-gestionado-por-un-joven-su-padrastro-2070015-2.html
+    media_url: https://www.diariodelaltoaragon.es/videoplayer/49080/m/2070015
+    publisher: Diario del Alto Aragón
+    caption: Video showing the Operation Chaplin police action that dismantled the hashish sales point in Huesca's Perpetuo Socorro neighbourhood, managed by a young man and his stepfather.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d38e8aff8511f29c8c12afc4a68cf5fe
@@ -82,14 +87,21 @@ sources:
     publisher: Aragón Play
     date: 2026-11-19
     language: es
+  - title: 'Vídeo: Operación Chaplin: Desmantelan en Huesca un punto de venta de hachís gestionado por un joven y su padrastro'
+    url: https://www.diariodelaltoaragon.es/huesca/operacion-chaplin-desmantelan-huesca-un-punto-venta-hachis-gestionado-por-un-joven-su-padrastro-2070015-2.html
+    publisher: Diario del Alto Aragón
+    date: 2026-11-19
+    language: es
+open_questions:
+    - 'Accounts differ on the date: the operation and arrests are placed on Wednesday 18 November 2026, one day before the 19 November incident date used here, when the details were announced.'
 ---
 
 National Police arrested four people, two men and two women from the same
 family, for alleged continued drug trafficking in Huesca's Perpetuo Socorro
-neighbourhood, where they ran a hashish sales point that supplied minors. [@1,3,4]
+neighbourhood, where they ran a hashish sales point that supplied minors. [@1,3,4,5]
 The main suspects, a young man and his stepfather with police records for drug
 trafficking, had made selling their regular livelihood and were ordered into
-prison. [@1] The other two detainees, the mother and the young man's partner,
+prison. [@1,5] The other two detainees, the mother and the young man's partner,
 knew of the criminal activity and were released. [@1] The two men entered prison
 while the judge released the two women. [@2,4]
 
@@ -109,7 +121,7 @@ The year-long investigation documented sales to adult and underage buyers,
 including transactions near schools and venues frequented by young people. [@1,3,4]
 The younger suspect centralised orders through instant-messaging apps, agreeing
 quantities and prices, while his stepfather made the handovers to limit street
-exposure. [@1] Officers also saw some transaction participants carrying
+exposure. [@1,5] Officers also saw some transaction participants carrying
 concealed bladed weapons, increasing the risk. [@1] The four face alleged drug
 trafficking, unlawful weapons possession and receiving stolen goods, and
 Operation Chaplin ended with the two main detainees jailed. [@1,4]
