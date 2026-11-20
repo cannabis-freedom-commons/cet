@@ -46,17 +46,27 @@ sources:
     url: https://monseyscoop.com/three-brooklyn-men-arrested-after-state-police-discover-loaded-ghost-gun-and-eight-pounds-of-cannabis-during-thruway-traffic-stop-near-nyack/
     publisher: Monsey Scoop
     date: 2026-11-19
+  - title: '8 Pounds Of Marijuana, Ghost Gun Found During Traffic Stop On I-87 In Nyack: NYSP | Daily Voice'
+    url: https://dailyvoice.com/article/8-pounds-of-marijuana-ghost-gun-found-during-traffic-stop-on-i-87-in-rockland-county-nysp/
+    publisher: Daily Voice
+    date: 2026-11-19
 open_questions:
-  - The weight was reported only as approximately eight pounds of cannabis, with no exact measured figure or laboratory confirmation published.
-  - No value estimate for the cannabis was published.
-  - The outcome of the scheduled 20 November 2026 court appearance was not reported.
-  - The 18-year-old passenger was not named, and the precise point on the Thruway described as near Nyack was not specified.
-  - The account rests on a single local outlet reporting the State Police version; no independent reporting or State Police release was available.
+    - The weight was reported only as approximately eight pounds of cannabis, with no exact measured figure or laboratory confirmation published.
+    - No value estimate for the cannabis was published.
+    - The outcome of the scheduled 20 November 2026 court appearance was not reported.
+    - The 18-year-old passenger was not named, and the precise point on the Thruway described as near Nyack was not specified.
+    - The accounts rest on two local outlets reporting the State Police version; no State Police release itself was available and no independent account was reported.
+media:
+  - kind: photo
+    url: https://dailyvoice.com/article/8-pounds-of-marijuana-ghost-gun-found-during-traffic-stop-on-i-87-in-rockland-county-nysp/
+    media_url: https://edge.dailyvoice.com/upload/Screenshot_2026-11-19_at_2.08.41PM.png?width=1440
+    publisher: Daily Voice
+    caption: 'The unserialized loaded 9mm handgun found during the traffic stop, in the police handout photo. Photo: New York State Police'
 ---
 
 Three Brooklyn residents were arrested on the afternoon of Sunday, 15 November
 2026, after a New York State Police traffic stop on the New York State Thruway
-near Nyack. [@1] Troopers assigned to Troop T in Tarrytown stopped a 2014
+near Nyack. [@1,2] Troopers assigned to Troop T in Tarrytown stopped a 2014
 Infiniti sedan traveling northbound on I-87 shortly after 4:00 p.m. for vehicle
 and traffic law violations. [@1] The driver, Keyon Shakiel Williams, 20, of
 Brooklyn, was charged with second-degree criminal possession of cannabis
@@ -71,12 +81,11 @@ was a loaded 9mm handgun recovered with a loaded magazine. [@1]
 
 During the stop troopers found approximately eight pounds (about 3.63 kg) of
 cannabis, the unserialized loaded 9mm handgun, a loaded magazine and a
-fraudulent driver's license, State Police said. [@1] All three were taken to the
+fraudulent driver's license, State Police said. [@1,2] All three were taken to the
 State Police barracks in Tarrytown for processing and arraigned in Orangetown
-Town Court. [@1] After arraignment all three were remanded to Rockland County
+Town Court. [@1,2] After arraignment all three were remanded to Rockland County
 Jail, with bail set for each at 20,000 dollars cash, 50,000 dollars bond or
-100,000 dollars partially secured bond. [@1]
+100,000 dollars partially secured bond. [@1,2]
 
 The defendants are scheduled to return to Orangetown Town Court on Friday,
-November 20. [@1]
-
+November 20. [@1,2]
