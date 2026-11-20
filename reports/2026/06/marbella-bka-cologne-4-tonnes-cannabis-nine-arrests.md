@@ -59,6 +59,11 @@ sources:
     publisher: Polizei Köln
     date: 2026-06-22
     language: de
+  - title: 'Detenido un ''narco total'' en la Costa del Sol: lideraba un grupo que traficaba con marihuana al por mayor para financiar los envíos de cocaína desde Bolivia'
+    url: https://www.laopiniondemalaga.es/marbella/2026/08/21/detenido-narco-total-marbella-marihuana-cocaina-crack-anfetaminas-133539299.html
+    publisher: La Opinión de Málaga
+    date: 2026-08-21
+    language: es
 open_questions:
   - The Spanish ministry announced the results on 21 August 2026 but says the operational phase ran in June; 22 June 2026, the date of the Cologne police statement reporting raids on the morning of Monday 22 June, is used as the incident date.
   - The cannabis is described as four tonnes in one passage and more than four tonnes in another; 4,000 kilograms is recorded as the conservative stated figure.
@@ -71,25 +76,24 @@ Spain's National Police, working with Germany's BKA and Cologne police,
 dismantled a Marbella-based criminal organisation accused of moving large
 quantities of drugs internationally into Europe. [@1] The suspected leader was
 arrested in Marbella and was listed by Europol as a High Value Target after
-learning the trade working for another organisation with the same methods. [@1]
+learning the trade working for another organisation with the same methods. [@1] German authorities had linked the leader to a previous stash of 1.3 tonnes of marijuana from Spain. [@4]
 Eight other suspects were arrested in Germany, making nine detainees in total.
-[@1] A court ordered all nine into prison on suspected criminal organisation,
+[@1,4] A court ordered all nine into prison on suspected criminal organisation,
 drug trafficking and money laundering. [@1]
 
 The raids were carried out in June, with 35 searches: 31 in Germany, one in
-Austria and three in Marbella. [@1] Cologne police said officers struck on the
+Austria and three in Marbella. [@1,4] Cologne police said officers struck on the
 morning of Monday 22 June. [@3] Officers seized more than four tonnes of
-cannabis, recorded here as 4,000 kilograms. [@1] The searches also yielded
+cannabis, recorded here as 4,000 kilograms. [@1,4] The searches also yielded
 126,000 euros, five firearms, eight vehicles, 18 mobile phones, a clandestine
-laboratory and business documents. [@1]
+laboratory and business documents. [@1,4]
 
 The same searches also turned up about 27.5 kilos of cocaine, about 1.5 kilos of
 crack and 800 litres of amphetamine oil; only the cannabis is counted in this
 report's figures. [@2] Investigators said the network moved marijuana from
 Malaga province to other EU countries and used the monthly proceeds to finance
-seaborne cocaine shipments from Bolivia. [@1] Profits of more than 11 million
+seaborne cocaine shipments from Bolivia. [@1] The leader himself travelled frequently to Brazil to organise the cocaine shipments. [@4] Profits of more than 11 million
 euros were laundered through property, usually commercial premises. [@1] The
 investigation began in April through Spanish-German police cooperation into
 cocaine shipments from Bolivia and marijuana traffic from Malaga to EU
 countries. [@1]
-
