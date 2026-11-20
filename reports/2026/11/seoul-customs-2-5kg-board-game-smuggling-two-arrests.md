@@ -56,6 +56,11 @@ sources:
     publisher: 한국경제
     date: 2026-11-20
     language: ko
+  - title: '''건당 200만원'' 고액 알바에 대마 밀수 … 20대 2명 송치'
+    url: https://www.safetimes.co.kr/news/articleViewAmp.html?idxno=247734
+    publisher: 세이프타임즈
+    date: 2026-11-20
+    language: ko
 media:
   - kind: photo
     url: https://www.msn.com/ko-kr/%EC%9D%8C%EC%8B%9D-%EB%B0%8F-%EC%9D%8C%EB%A3%8C/%EC%9D%BC%EB%B0%98/%EC%9E%A5%EB%82%9C%EA%B0%90-%EB%B0%B0%EB%8B%AC%ED%95%98%EB%A9%B4-200%EB%A7%8C-%EC%9B%90-%EA%B3%A0%EC%95%A1%EC%95%8C%EB%B0%94-%EC%9C%A0%ED%98%B9%EC%97%90-%EB%8C%80%EB%A7%88%EC%B4%88-%EB%B0%80%EC%88%98%EC%9E%85-20%EB%8C%80-%EA%B2%80%EA%B1%B0/ar-AA2hOJzA
@@ -82,11 +87,15 @@ media:
     media_url: https://www.news21tongsin.co.kr/data/cheditor4/2611/942ddef5a4cad6b85d1c82d844c00f0b0aaf2ec1.jpg
     publisher: 뉴스21 통신
     caption: 'Seized smuggled cannabis evidence items from the Seoul case. Photo: Seoul Main Customs'
+open_questions:
+    - Safe Times says the two were transferred to prosecutors but does not say whether both remained in custody, while other accounts of the same announcement reported a custody transfer.
+    - Safe Times describes the payment as about 2 million won per job in Bitcoin or Tether, while the report states about 2 million won without saying it was per shipment.
+    - Safe Times dates the three imports from September 2025 to January 2026 and does not mention a July shipment, which other accounts of the same case include.
 ---
 
 Seoul Main Customs arrested 26-year-olds A and B, who oversaw the crime, for
 allegedly bringing a total of 2.5 kg of cannabis from the United States by air
-express cargo in July, for violating the Narcotics Control Act. [@1,2,5,7,8] B received
+express cargo in July, for violating the Narcotics Control Act. [@1,2,5,7,8] Seoul Main Customs said it had arrested the two and transferred them to prosecutors on suspicion of violating the Narcotics Control Act. [@9] B received
 instructions via Telegram from an unidentified upper level, passed them to A and
 directed the crime overall. [@1,3,4,5,7,8] The pair took part after being offered about 2
 million won in virtual assets such as Bitcoin as illegal high-paying part-time
@@ -96,12 +105,12 @@ The cannabis was hidden inside toys and board games and disguised as normal
 goods to evade X-ray inspection. [@1,3,4,5,6,7,8] At the usual 0.5 grams per dose, the customs service said the haul was enough for 5,000 people to use at once. [@4,8] After analysing recipient information,
 clearance records, X-ray images and past delivery history, customs first
 identified A as having smuggled cannabis three times by the same method from
-September 2025 to January 2026. [@1,2,4,6,7,8] The first two parcels passed X-ray screening, but the last was detected because the declaration did not match the X-ray image. [@4,8] Customs worked with the post office to
+September 2025 to January 2026. [@1,2,4,6,7,8] The first two parcels passed X-ray screening, but the last was detected because the declaration did not match the X-ray image. [@4,8,9] Customs worked with the post office to
 monitor deliveries in real time through controlled delivery and, despite a
 mid-route change of delivery address to evade investigators, tracked the
 suspects and arrested them at the moment the goods were directly received. [@1,2,4,5,6,7,8]
 To avoid tracking, A alternately used the left and right units of an
-acquaintance's apartment in Gangwon-do as parcel addresses. [@1,3,4,7,8] From the third
+acquaintance's apartment in Gangwon-do as parcel addresses. [@1,3,4,7,8,9] From the third
 crime, when the drug weight increased, he used an empty house near his workplace
 as the receiving address and intended to distribute the cannabis by burying it
 in remote hills as instructed via Telegram. [@1,4,7,8]
@@ -118,4 +127,4 @@ behalf and shifting blame to the accomplice. [@1] The team obtained an arrest
 warrant for B, located him through tracking and stakeout and arrested him
 urgently, and forensics on B's phone proved the trowel found at A's home was
 used to bury cannabis and revealed their joint Telegram chain from smuggling to
-receipt to transport to distribution. [@1] Yoon Cheong-woon, head of Seoul Customs' first investigation bureau, warned that more young people were being drawn into drug crimes by the lure of high-paying part-time work. [@4,8]
+receipt to transport to distribution. [@1] Yoon Cheong-woon, head of Seoul Customs' first investigation bureau, warned that more young people were being drawn into drug crimes by the lure of high-paying part-time work. [@4,8,9]
