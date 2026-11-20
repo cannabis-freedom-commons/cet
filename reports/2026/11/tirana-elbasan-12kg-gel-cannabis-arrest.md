@@ -58,31 +58,55 @@ sources:
     url: https://albaniandailynews.com/news/police-seize-12-1-kg-of-gel-like-cannabis-in-anti-drug-operation-one-arrested
     publisher: Albania Daily News
     date: 2026-11-19
+  - title: 12.1 kg of cannabis seized on the Tirana-Elbasan highway, one in handcuffs and one wanted
+    url: https://politiko.al/english/sekuestrohen-12-1-kg-kanabis-ne-autostraden-tirane-elbasan-nje-ne-pranga-dhe-nje-ne-kerkim-i565789
+    publisher: Politiko
+    date: 2026-11-19
+  - title: NAMES/ 12.1 kg of cannabis in gelatinous form seized, one in handcuffs, another wanted
+    url: https://www.balkanweb.com/en/12-1-kg-of-cannabis-in-gelatinous-form-seized--one-in-handcuffs--another-wanted/
+    publisher: BalkanWeb
+    date: 2026-11-19
+  - title: Kapen 12 kg kanabis xhelatinë në Tiranë, transportuesi i ikën policisë dhe braktis makinën! Në pranga bashkëpunëtori që ‘ruante’ rrugën (VIDEO+EMRAT)
+    url: https://shqiptarja.com/lajm/kapen-12-kg-kanabis-ne-forme-xhelatine-nw-tiranw-nje-ne-pranga-dhe-nje-ne-kerkim-emrat?r=pop5h
+    publisher: Shqiptarja.com
+    date: 2026-11-19
+    language: sq
 open_questions:
-  - The cocaine found in the arrested man's apartment was reported only as a quantity, so no weight is recorded.
-  - Both men were identified only by initials F.I. and M.V.; full names were not published.
-  - The cannabis was described as suspected Cannabis Sativa in gelatinous form, with no laboratory confirmation reported.
-  - All three accounts reproduce the same Tirana police statement, so they are not independent reporting.
-  - No court outcome, charge or detention measure beyond the flagrante arrest and referral to the Prosecutor's Office was reported.
+    - The cocaine found in the arrested man's apartment was reported only as a quantity, so no weight is recorded.
+    - The cannabis was described as suspected Cannabis Sativa in gelatinous form, with no laboratory confirmation reported.
+    - All accounts reproduce the same Tirana police statement, so they are not independent reporting.
+    - No court outcome, charge or detention measure beyond the flagrante arrest and referral to the Prosecutor's Office was reported.
+    - Shqiptarja reports that Vata had been arrested in August 2022 as an 18-year-old ordering cannabis by post from the United Kingdom; that separate case is left out here.
+media:
+  - kind: photo
+    url: https://shqiptarja.com/lajm/kapen-12-kg-kanabis-ne-forme-xhelatine-nw-tiranw-nje-ne-pranga-dhe-nje-ne-kerkim-emrat?r=pop5h
+    media_url: https://shqiptarja.com/uploads/ckeditor/6aff05d040016valixhe.JPG
+    publisher: Shqiptarja.com
+    caption: 'Suitcases where the drug was hidden, as captioned Valixhet ku ishte fshehur droga. Photo: Shqiptarja.com'
+  - kind: photo
+    url: https://shqiptarja.com/lajm/kapen-12-kg-kanabis-ne-forme-xhelatine-nw-tiranw-nje-ne-pranga-dhe-nje-ne-kerkim-emrat?r=pop5h
+    media_url: https://shqiptarja.com/uploads/ckeditor/6aff0606c55a0audi.JPG
+    publisher: Shqiptarja.com
+    caption: 'Luxury Audi used by the two men, as captioned Audi luksoz me të cilin lëviznin të rinjtë. Photo: Shqiptarja.com'
 ---
 
 Specialists of the Narcotics Investigation Section finalised the anti-drug
 operation codenamed Risia, declaring 22-year-old citizen F.I. wanted and
 arresting his peer citizen M.V. in flagrante delicto, both residents of
-Paskuqan. [@1] In the early morning hours of 19 November 2026 officers signalled
+Paskuqan. [@1] The wanted driver was identified as 22-year-old Flavio Ismalaj and the arrested accomplice as 22-year-old Mariglen Vata, both residents of Paskuqan. [@6] In the early morning hours of 19 November 2026 officers signalled
 the vehicle driven by F.I. to stop, but he disobeyed, drove on at high speed,
-abandoned the vehicle on the Tirana-Elbasan highway and fled. [@1] During the
+abandoned the vehicle on the Tirana-Elbasan highway and fled. [@1,5] During the
 pursuit police found that the car's movements were being monitored and secured
-by a vehicle driven by M.V., who was caught and handcuffed. [@3]
+by a vehicle driven by M.V., who was caught and handcuffed. [@3,5]
 
 A search of the vehicle abandoned by F.I. found 12.1 kg of suspected Cannabis
-Sativa in gelatinous form. [@2,4] Police said the gelatinous cannabis had been
+Sativa in gelatinous form. [@2,4,5] The cannabis was hidden in suitcases in the boot of a luxury Audi. [@7] Police said the gelatinous cannabis had been
 prepared to be sold in Albania. [@2,4] A search of the arrested man's apartment
 found a quantity of suspected cocaine, which is not counted in the cannabis
-figures. [@1,4] The narcotics were seized together with 2 vehicles and 3 cell
-phones. [@1,4]
+figures. [@1,4,5] The narcotics were seized together with 2 vehicles and 3 cell
+phones. [@1,4,5]
 
 Work is under way to capture F.I. and, under the direction of the Prosecutor's
 Office, the investigation continues to identify and bring to criminal
-responsibility others who may have been involved. [@1] The procedural materials
+responsibility others who may have been involved. [@1,5] The procedural materials
 were referred to the Prosecutor's Office for further action. [@1]
