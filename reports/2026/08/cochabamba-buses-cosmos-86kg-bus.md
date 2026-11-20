@@ -44,6 +44,16 @@ media:
     media_url: https://www.teletica.com/_next/image?url=https%3A%2F%2Fteletica-static.ray.media%2FFiles%2FSizes%2F2026%2F8%2F12%2Fautobs-del-sao-paulo-con-marihuana-decomisada_299895421_760x520.jpg&w=1920&q=75
     publisher: Teletica
     caption: 'Bus linked to São Paulo FC with seized marijuana packages laid out in front of it. Photo: Red Uno Bolivia via Teletica'
+  - kind: photo
+    url: https://tn.com.ar/deportes/futbol/2026/08/11/el-micro-contratado-para-el-plantel-de-san-pablo-fue-incautado-en-bolivia-detuvieron-a-tres-personas-con-86-kilos-de-marihuana/
+    media_url: https://tn.com.ar/resizer/v2/incautaron-el-micro-contratado-para-san-pablo-en-bolivia-y-detuvieron-a-tres-personas-por-llevar-86-kilos-de-marihuana-foto-reutersred-uno-bolivia-37FJO6BOQBEKRAV4YQJQETRYP4.jpg?auth=9c39c754d0fb5fb682cc175c34f1a31cc752691e4adc1c9121a00526457628b9&width=1440
+    publisher: Todo Noticias
+    caption: 'The seized Buses Cosmos coach linked to São Paulo FC after officers found 86 kilos of marijuana. Photo: Reuters/Red Uno Bolivia'
+  - kind: photo
+    url: https://tn.com.ar/deportes/futbol/2026/08/11/el-micro-contratado-para-el-plantel-de-san-pablo-fue-incautado-en-bolivia-detuvieron-a-tres-personas-con-86-kilos-de-marihuana/
+    media_url: https://tn.com.ar/resizer/v2/detuvieron-el-micro-que-iba-a-usar-san-pablo-en-bolivia-y-encontraron-86-kilos-de-marihuana-foto-red-uno-bolivia-JXLJQIRCBNFVLIK44SWRIP6BHI.webp?auth=86b00e7d6095ac2987eff38acea72e06e3fe888176d1c88c349f8b975e2a2606&width=1440
+    publisher: Todo Noticias
+    caption: 'The detained coach that was to carry São Paulo FC in Bolivia after 86 kilos of marijuana were found. Photo: Red Uno Bolivia'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: da02da0fb25f46275ed9a2da12310038
@@ -165,11 +175,19 @@ sources:
     publisher: Mendoza Post
     date: 2026-08-11
     language: es
+  - title: 'Copa Sudamericana: encontraron 86 kilos de marihuana en el micro que debía trasladar al plantel de San Pablo en Bolivia | TN'
+    url: https://tn.com.ar/deportes/futbol/2026/08/11/el-micro-contratado-para-el-plantel-de-san-pablo-fue-incautado-en-bolivia-detuvieron-a-tres-personas-con-86-kilos-de-marihuana/
+    publisher: Todo Noticias
+    date: 2026-08-11
+    language: es
+open_questions:
+  - The amount was reported as both 86 kilos and 86.5 kilos.
+  - The precise checkpoint was described only as near Cochabamba.
 ---
 
 Bolivian police stopped a coach of the company Buses Cosmos, hired to carry the São Paulo FC squad
 during its visit to Bolivia for a Copa Sudamericana match against Bolívar, and found about 86 kilos of
-marijuana hidden inside it. [@1,2,5,6,7,9,10,11,12,14,15,17,18,19,20,21,22,23] The coach was intercepted in Villa Tunari, a coca-producing zone in the central department of Cochabamba. [@19] One account gives 86.5 kilograms. [@12,14,15,16,18,20] Officers of
+marijuana hidden inside it. [@1,2,5,6,7,9,10,11,12,14,15,17,18,19,20,21,22,23,24] The coach was intercepted in Villa Tunari, a coca-producing zone in the central department of Cochabamba. [@19] One account gives 86.5 kilograms. [@12,14,15,16,18,20] Officers of
 UMOPAR, the Mobile Police Unit for Rural Areas [@5,8,9,10], found four bags of the drug in the coach
 [@2,3,5,6,8,9,10] at the Locotal control post on the road between Cochabamba and Santa Cruz.
 [@8,9,11,13]
@@ -182,10 +200,10 @@ insignia. [@3] Other accounts rely on the Brazilian journalist Gabriel Sá. [@9,
 ## The drivers
 
 The coach regularly ran between Santa Cruz de la Sierra and Cochabamba and had left Cochabamba for Santa
-Cruz, where the squad was staying. [@2,4] Its three drivers were detained. [@2,3,5,6,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23] The three detained were described as people linked to the transport of the bus. [@14,18] Buses
+Cruz, where the squad was staying. [@2,4] Its three drivers were detained. [@2,3,5,6,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24] The three detained were described as people linked to the transport of the bus. [@14,18] Buses
 Cosmos said the police were investigating, that all responsibility lay with the drivers, and that it
 had provided another vehicle for the team. [@2,3,4,5,8,9,10,11,15,17,18,19,20,23] The authorities were investigating where
-the marijuana came from and who was moving it. [@1,7,16,22]
+the marijuana came from and who was moving it. [@1,7,16,22,24]
 
 The São Paulo squad had not used the coach and had no contact with the men detained; it had been taken
 from the airport to its hotel on the night of 10 August in another coach of the same company, and
