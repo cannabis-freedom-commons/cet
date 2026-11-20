@@ -94,34 +94,39 @@ sources:
     publisher: Ceuta TV
     date: 2026-11-19
     language: es
+  - title: الشرطة الإسبانية تفكك وكراً للمخدرات وإيواء المهاجرين بسبتة وتحجز كيلوغراماً من الكوكايين وطنين من الحشيش - أريفينو.نت
+    url: https://www.ariffino.net/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D9%88-%D9%85%D8%AC%D8%AA%D9%85%D8%B9/%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%81%D9%83%D9%83-%D9%88%D9%83%D8%B1%D8%A7%D9%8B-%D9%84%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA
+    publisher: أريفينو.نت
+    date: 2026-11-19
+    language: ar
 open_questions:
-  - The almost one kilogram of cocaine and the doses of heroin found in the same search are other substances and are not counted in the cannabis figures.
-  - No exact count was published for the doses of cocaine and heroin prepared for sale.
-  - The two other people detained were held over immigration-law violations rather than drug offences, and no further detail about their cases was reported.
-  - The hashish quantity is described as approximately or almost two kilograms, not as an exact laboratory weight.
-  - No street value was published for the hashish.
-  - No formal charge, court appearance or outcome beyond the ongoing investigation by Juzgado Número Uno de Ceuta was reported.
-  - The 31.5 tonnes of hashish, 89 kilograms of cocaine and 63 detentions are UDYCO's cumulative 2026 totals for Ceuta, not figures for this single operation.
-  - The exact position of calle Este in the barriada del Príncipe is not given; neighbourhood-level coordinates are used.
+    - The almost one kilogram of cocaine and the doses of heroin found in the same search are other substances and are not counted in the cannabis figures.
+    - No exact count was published for the doses of cocaine and heroin prepared for sale.
+    - The two other people detained were held over immigration-law violations rather than drug offences, and no further detail about their cases was reported.
+    - The hashish quantity is described as approximately or almost two kilograms, not as an exact laboratory weight.
+    - No street value was published for the hashish.
+    - No formal charge, court appearance or outcome beyond the ongoing investigation by Juzgado Número Uno de Ceuta was reported.
+    - The 31.5 tonnes of hashish, 89 kilograms of cocaine and 63 detentions are UDYCO's cumulative 2026 totals for Ceuta, not figures for this single operation.
+    - The exact position of calle Este in the barriada del Príncipe is not given; neighbourhood-level coordinates are used.
+    - One headline gives the hashish amount as two tonnes while the detailed account gives two kilograms; the report uses two kilograms.
 ---
 
 Policía Nacional officers carried out a search of a dwelling on calle Este in
-the barriada del Príncipe in Ceuta early on Thursday 19 November 2026. [@2] The
+the barriada del Príncipe in Ceuta early on Thursday 19 November 2026. [@2,6] The
 operation was carried out by officers from UDYCO, the Drug and Organized Crime
 Unit, and UCRIF, the unit dealing with illegal immigration networks and document
-fraud. [@1] It ended with three detentions: the occupant of the dwelling on
+fraud. [@1,6] It ended with three detentions: the occupant of the dwelling on
 suspicion of drug trafficking and the other two for violating the Ley de
-Extranjería, Spain's immigration law. [@1] El Faro de Ceuta reported that the
+Extranjería, Spain's immigration law. [@1,6] El Faro de Ceuta reported that the
 occupant also sold drugs, coerced immigrants and hid them in the house, which it
-described as a 'casa patera'. [@3] The same outlet said the three people found
+described as a 'casa patera'. [@3,6] The same outlet said the three people found
 inside were the suspected seller and two Moroccan nationals. [@3] Ceuta
 Actualidad said the resident was accused of drug trafficking and of housing and
 coercing immigrants. [@2]
 
 Officers seized doses of cocaine and heroin prepared for sale, almost one
-kilogram of cocaine and two kilograms of hashish. [@1] Teleceuta reported the
+kilogram of cocaine and two kilograms of hashish. [@1,6] Teleceuta reported the
 same haul, describing the hashish weight as approximately two kilograms. [@4]
 
 Ceuta TV reported that the investigation was being led by the Juzgado Número Uno
 de Ceuta. [@5]
-
