@@ -19,6 +19,11 @@ media:
     media_url: https://i.em.com.br/b5wRBr1j4C4UVMoAHReG_1Ftj_k=/820x0/smart/imgsapp.em.com.br/app/noticia_127983242361/2020/06/22/1158847/20200622123325809048o.jpeg
     publisher: Estado de Minas
     caption: 'Civil Police handout photo published with the São Tomé das Letras ''gourmet'' cannabis operation report. Photo: Polícia Civil/Divulgação'
+  - kind: photo
+    url: https://www.otempo.com.br/cidades/policia-encontra-plantacao-de-maconha-equivalente-a-dez-campos-de-futebol-em-mg-1.2352005
+    media_url: https://www.otempo.com.br/adobe/dynamicmedia/deliver/dm-aid--284ee08b-78d7-47b6-8c27-c7b3ee3833b7/cidades-maconha-sao-tome-das-letras-1709419169.jpg?width=1200&quality=90&preferwebp=true
+    publisher: O TEMPO
+    caption: 'Plants shown in the suspects'' Instagram sales account used to advertise cannabis and skunk in São Tomé das Letras. Photo: Polícia Civil/Divulgação'
 details:
   activity: [trafficking, cultivation, sale]
   agency_types: [police]
@@ -52,18 +57,22 @@ sources:
     publisher: iG Último Segundo
     date: 2020-06-22
     language: pt
+  - title: Polícia encontra plantação de maconha equivalente a dez campos de futebol em MG
+    url: https://www.otempo.com.br/cidades/policia-encontra-plantacao-de-maconha-equivalente-a-dez-campos-de-futebol-em-mg-1.2352005
+    publisher: O TEMPO
+    date: 2020-06-22
+    language: pt
 open_questions:
-  - No exact number of plants, seized cannabis weight, or laboratory weight was published, so no plants_destroyed or kilograms are recorded.
-  - The stated 300 to 4,000 kg is only the police's potential pressed-marijuana yield from the plants, not a seized weight, and is therefore excluded from figures.
-  - 'The two accounts disagree on area: one says seized seeds could plant two football fields, the other says plantations measured ten football fields, so no hectares are recorded.'
-  - No total seizure value was published, only unit prices of R$30 to R$100 per gram, about R$30,000 to R$100,000 per kilo, and R$100 per seed.
-  - The 18 June 2020 date comes from the operation being described as last Thursday the 18th in reports published 22 June 2020.
-  - The legal status of the two other people taken to give statements was not reported.
-  - No charges, custody decision, or court outcome were reported beyond a statement that the pair could face 5 to 15 years.
-  - Both accounts reproduce the Civil Police version; no independent or agency-direct statement was opened.
-  - The handout photo's exact depicted contents are not described beyond the Civil Police credit, so the media caption stays general.
-  - The text gives a weight ("4,000 kg") but the figures have no kg_seized; check whether it belongs there.
-  - 'Left out, as its quotation was not found in iG Último Segundo: A second account described plantations found in the suspects'' houses as measuring the equivalent of ten football fields.'
+    - No exact number of plants, seized cannabis weight, or laboratory weight was published, so no plants_destroyed or kilograms are recorded.
+    - The stated 300 to 4,000 kg is only the police's potential pressed-marijuana yield from the plants, not a seized weight, and is therefore excluded from figures.
+    - Accounts give the area as seeds that could plant two football fields and standing plantations covering ten football fields; no hectares are recorded because the measures differ.
+    - No total seizure value was published, only unit prices of R$30 to R$100 per gram, about R$30,000 to R$100,000 per kilo, and R$100 per seed.
+    - The 18 June 2020 date comes from the operation being described as last Thursday the 18th in reports published 22 June 2020.
+    - The legal status of the two other people taken to give statements was not reported.
+    - No charges, custody decision, or court outcome were reported beyond a statement that the pair could face 5 to 15 years.
+    - All three accounts reproduce the Civil Police version; no independent or agency-direct statement was opened.
+    - The handout photo's exact depicted contents are not described beyond the Civil Police credit, so the media caption stays general.
+    - The text gives a weight ('4,000 kg') but the figures have no kg_seized; check whether it belongs there.
 ---
 
 The Civil Police's Second DENARC precinct dismantled a group running a branded
@@ -71,10 +80,10 @@ The Civil Police's Second DENARC precinct dismantled a group running a branded
 Letras. [@1] The group sold marijuana seeds through Instagram as if it were an
 online store. [@1] On Thursday 18 June 2020 officers arrested two 25-year-old
 men in flagrante at the place used for planting and for drying and crystallising
-the plant for sale. [@1] One suspect, a São Paulo native, had already been
+the plant for sale. [@1,3] Police found plantations equivalent to ten football fields in the suspects' houses. [@3] One suspect, a São Paulo native, had already been
 sentenced to more than seven years for drug trafficking, while the Minas Gerais
 accomplice had previously been arrested for cannabis cultivation and had a
-criminal case under way. [@1] Two other people who lived in another house on the
+criminal case under way. [@1] The lead investigator said one of the men had been imprisoned in São Paulo and was considered a sympathiser of the PCC prison gang. [@3] Investigators said the suspects had been active in the region for at least six months and both had prior records for cultivation and drug trafficking. [@3] Two other people who lived in another house on the
 same lot were taken to the station to give statements while police examined
 whether they were involved. [@1]
 
@@ -82,15 +91,14 @@ Police said the seized seeds could plant two football fields and the seized
 plants could produce 300 to 4,000 kg of pressed marijuana. [@1] The group grew
 more than 20 different seed types to make a purer, elite drug aimed at tourists
 from across Brazil. [@1] The drug sold for R$30 to R$100 per gram, averaging
-R$30,000 to R$100,000 per kilo, with each planting seed averaging R$100. [@1]
+R$30,000 to R$100,000 per kilo, with each planting seed averaging R$100. [@1] Investigators said the seeds came from Europe. [@3]
 
 The online advertisements included photos and a description of the quality of
-the drugs. [@2] The lead investigator said sales were not seeds alone but
-'gourmet' marijuana such as skunk with higher THC content. [@2] The suspects
+the drugs. [@2,3] The lead investigator said sales were not seeds alone but
+'gourmet' marijuana such as skunk with higher THC content. [@2,3] The suspects
 grew the drugs in nurseries set up inside their houses and ran a souvenir stall
-to identify interested tourists and offer them samples. [@2] Police said the
+to identify interested tourists and offer them samples. [@2,3] Police said the
 suspects' tactic was to carry only a small quantity if approached so they could
-claim to be users. [@2] The investigation lasted one month under delegate
+claim to be users. [@2,3] The investigation lasted one month under delegate
 Rodolpho Tadeu Machado, and police said inquiries continued to find other
-participants and similar groups. [@2]
-
+participants and similar groups. [@2,3]
