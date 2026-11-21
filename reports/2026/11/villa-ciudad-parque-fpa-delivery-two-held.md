@@ -66,6 +66,11 @@ sources:
     publisher: Ministerio Público Fiscal de Córdoba
     date: 2026-11-20
     language: es
+  - title: 'Vendían marihuana desde una despensa y repartían en localidades cercanas: dos detenidos'
+    url: https://canalc.com.ar/vendian-marihuana-desde-una-despensa-y-repartian-en-localidades-cercanas-dos-detenidos/
+    publisher: Canal C
+    date: 2026-11-20
+    language: es
 open_questions:
   - No date is given for the raid or the detentions; 20 November 2026, the date of the prosecutor's statement and of publication, is used as the incident date.
   - No count of marijuana doses or cannabis plants, no weight, no cash amount and no car model were published, and no street value was given.
@@ -77,17 +82,16 @@ open_questions:
 
 Officers of the Fuerza Policial Antinarcotráfico (FPA), Córdoba's anti-narcotics
 police, raided a home in Villa Ciudad Parque after a four-month investigation
-that began with anonymous complaints to the 0800-888-8080 line. [@1] The
+that began with anonymous complaints to the 0800-888-8080 line. [@1,3] The
 operation closed a drug sales point and detained two alleged narcomenudistas,
-street-level dealers, a man and a woman. [@2]
+street-level dealers, a man and a woman. [@2,3]
 
 The search took place at a house on Bulevar Los Reartes al 1500, where officers
 seized several doses of marijuana, cannabis sativa plants, a car, cash and items
-related to the illegal activity. [@2] According to the investigation, the pair
+related to the illegal activity. [@2,3] According to the investigation, the pair
 sold the substances from a small grocery store at the front of the raided house
-and also made deliveries to nearby towns. [@2]
+and also made deliveries to nearby towns. [@2,3]
 
 On the order of the Río Tercero anti-narcotics prosecutor's office, both were
 charged with possession of narcotics for sale and taken to court with the seized
-evidence under national drug law 23.737. [@1]
-
+evidence under national drug law 23.737. [@1,3]
