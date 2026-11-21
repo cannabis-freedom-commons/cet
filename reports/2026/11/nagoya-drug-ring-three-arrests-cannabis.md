@@ -46,6 +46,11 @@ media:
     media_url: https://static.chunichi.co.jp/image/article/size1/e/a/9/0/ea90ae06bd1de539c6cedad6eaa2d675_1.jpg
     publisher: 中日新聞Web
     caption: Seized MDMA tablets and dried cannabis displayed at the Nakamura Police Station in Nagoya.
+  - kind: video
+    url: https://www.nagoyatv.com/news/?id=038117
+    media_url: https://www.youtube.com/watch?v=GzEEHX4Afnw
+    publisher: メ～テレ（名古屋テレビ）
+    caption: メ～テレ's news clip on the arrest of the two men over drugs held in Nagoya apartments, published 19 November 2026 and embedded at the top of the article.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: d6f1537d690ce2792298b2eebe41c7e9
@@ -76,12 +81,17 @@ sources:
     publisher: 中京テレビNEWS NNN
     date: 2026-11-19
     language: ja
+  - title: 名古屋市内の集合住宅の部屋が密売の拠点か 違法薬物所持の疑いで男２人を逮捕 愛知県警
+    url: https://www.nagoyatv.com/news/?id=038117
+    publisher: メ～テレニュース（名古屋テレビ）
+    date: 2026-11-20
+    language: ja
 open_questions:
-  - No separate weight, plant count or value for the cannabis was published; the reported street value of about 100 million yen (106 million yen in the Chunichi account) covers the dried cannabis and stimulants together.
-  - Chunichi described the 19 November action as a re-arrest; the earlier arrests and their charges were not described in the opened accounts.
-  - Seven purchasers were reported busted by Akita police over the year to October; the sources do not say which drug they had bought, nor whether they were formally charged.
-  - Neither the suspects' admission or denial nor any court outcome was reported.
-  - It is unclear whether two or three men faced the possession-for-sale allegation, since the possession allegation names two men and the third arrest is described as cocaine use.
+    - No separate weight, plant count or value for the cannabis was published; the reported street value of about 100 million yen (about 106.76 million yen in the Nagoya TV account) covers the dried cannabis and stimulants together.
+    - Chunichi described the 19 November action as a re-arrest; the earlier arrests and their charges were not described in the opened accounts.
+    - Seven purchasers were reported busted by Akita police over the year to October; the sources do not say which drug they had bought, nor whether they were formally charged.
+    - Neither the suspects' admission or denial nor any court outcome was reported.
+    - Accounts differ on the group's customer base, given as about 300 people nationwide and as 300 or more.
 ---
 
 A joint investigation headquarters of the Akita and Aichi prefectural police
@@ -90,12 +100,12 @@ including a 26-year-old company director from Meieki-minami in Nagoya's Nakamura
 ward, on suspicion of possessing illegal drugs for profit. [@1,4,5] A 26-year-old man from Konan City believed to belong to the same group was arrested for using cocaine. [@5] Akita Asahi
 Broadcasting reported that the three Aichi men in their twenties were suspected
 of holding cannabis and stimulants for sale inside an apartment building in
-Nagoya. [@2,5] The possession allegations concerned rooms in Naka and Atsuta wards in January and February 2026. [@5] The group was identified through statements by associates and
+Nagoya. [@2,5] The possession allegations concerned rooms in Naka and Atsuta wards in January and February 2026. [@5,6] One man faced the allegation over the January flat in Naka ward and the other over the February flat in Atsuta ward. [@6] The group was identified through statements by associates and
 analysis of mobile phones during a joint investigation with Aichi police. [@2]
 
 Police searched an apartment building in Nagoya as a related site and seized
 dried cannabis and stimulants with a combined street value of about 100 million
-yen. [@1,5] The group allegedly recruited customers on social media and sent the drugs by post, operating from two apartment buildings. [@5] The broadcaster put the combined street value of the seized drugs at
+yen. [@1,5,6] The group allegedly recruited customers on social media and sent the drugs by post, operating from two apartment buildings. [@5] Police believe the group sold illegal drugs to about 300 customers across Japan and are investigating. [@6] The broadcaster put the combined street value of the seized drugs at
 about 100 million yen and said police had not disclosed whether the three
 admitted or denied the allegations. [@2] Chunichi, republished by 47news,
 reported the charges as possession for profit under both the Narcotics Control
