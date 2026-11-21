@@ -60,6 +60,16 @@ media:
     media_url: https://assets.reporteindigo.com/__export/1790714030137/sites/reporteindigo/img/2026/09/29/detienen_a_57_infractores_de_la_ley_en_chiapas_29_sep_2026_-4-.jpg_571791296.jpg
     publisher: Reporte Índigo
     caption: 'SSPC handout photo published with the caption "Operativos en Chiapas culminan en 57 infractores de la Ley Aprehendidos". Photo: SSPC'
+  - kind: photo
+    url: https://www.eluniversal.com.mx/nacion/detienen-en-chiapas-a-57-generadores-de-violencia-aseguran-mas-de-cinco-mil-dosis-de-droga-y-12-vehiculos/
+    media_url: https://www.eluniversal.com.mx/resizer/v2/B4EYM2DNKRGLPI3DPR7IWYWO2I.jpg?auth=fc8ab648e5ba743a8944538a37edfb63910ed8fa38b579b61b869e6156fe7999&smart=true&height=620
+    publisher: El Universal
+    caption: 'Security Cabinet handout photo published inside El Universal''s report on the 57 detentions in Chiapas. Photo: Gabinete de Seguridad de Chiapas (@GabSeguridadMX) via El Universal'
+  - kind: photo
+    url: https://www.eluniversal.com.mx/nacion/detienen-en-chiapas-a-57-generadores-de-violencia-aseguran-mas-de-cinco-mil-dosis-de-droga-y-12-vehiculos/
+    media_url: https://www.eluniversal.com.mx/resizer/v2/LELBVUE7S5AAPGXHUE5PBJHARA.jpg?auth=480cfc241e74041df90c57b4cc4b43d95a7d60de9da466d4dd967cd6861c2b37&smart=true&height=620
+    publisher: El Universal
+    caption: 'Security Cabinet handout photo published inside El Universal''s report on the 57 detentions in Chiapas. Photo: Gabinete de Seguridad de Chiapas (@GabSeguridadMX) via El Universal'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: eaa8f773864a93fb3d9dcd951cb94854
@@ -80,6 +90,11 @@ sources:
     publisher: Latinus
     date: 2026-09-29
     language: es
+  - title: Detienen en Chiapas a 57 generadores de violencia; aseguran más de cinco mil dosis de droga y 12 vehículos
+    url: https://www.eluniversal.com.mx/nacion/detienen-en-chiapas-a-57-generadores-de-violencia-aseguran-mas-de-cinco-mil-dosis-de-droga-y-12-vehiculos/
+    publisher: El Universal
+    date: 2026-09-29
+    language: es
 open_questions:
   - The 5,512 doses of drug are not identified by substance, and the 80 doses seized with the marijuana in El Paraíso are also unspecified, so only the 3 kg of marijuana is counted as cannabis.
   - The marijuana amount is given as approximately three kilograms, not a measured weight, and no value estimate was published.
@@ -93,13 +108,13 @@ open_questions:
 
 Federal and state security forces detained 57 people in operations in several
 Chiapas municipalities, the federal Security Cabinet said on 29 September 2026.
-[@1] The operations involved the army, the navy, the National Guard, the federal
+[@1,4] The operations involved the army, the navy, the National Guard, the federal
 and Chiapas state prosecutors, the federal security ministry and Chiapas's
 public security ministry. [@1] In Tuxtla Gutiérrez, 34 people were detained
 between 18 and 28 September in the investigation of a shooting in the Las
 Granjas neighbourhood. [@2] Also detained in Tuxtla Gutiérrez was José Edwin
 Wilberto Ventura Cerón, alias "El Muerto", a 37-year-old Salvadoran wanted in El
-Salvador on an arrest warrant for multiple homicides. [@1]
+Salvador on an arrest warrant for multiple homicides. [@1,4]
 
 In the El Paraíso neighbourhood of Tapachula, officers repelled an attack by
 armed civilians and detained four people. [@2] Officers seized from them three
@@ -118,4 +133,3 @@ magazines, 157 cartridges, 5,512 doses of drug and 12 vehicles. [@3] Those
 detained and everything seized were placed at the disposal of the Ministerio
 Público, the public prosecutor's office, which will decide their legal
 situation. [@1]
-
