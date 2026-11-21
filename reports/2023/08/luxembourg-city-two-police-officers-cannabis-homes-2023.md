@@ -59,6 +59,11 @@ sources:
     publisher: Virgule
     date: 2023-11-16
     language: fr
+  - title: Les policiers peuvent-ils fumer du cannabis?
+    url: https://www.virgule.lu/luxembourg/les-policiers-peuvent-ils-fumer-du-cannabis/2690878.html
+    publisher: Virgule
+    date: 2023-09-09
+    language: fr
 open_questions:
   - The officer accused of trafficking was suspected of having imported the drug from abroad, but no source names the country of origin.
   - No source gives the exact legal basis for the criminal investigation, the officers' ranks, ages or nationalities.
@@ -67,20 +72,20 @@ open_questions:
 ---
 
 Police watchdog IGP in August seized 14 and 26 grammes of cannabis,
-respectively, at the homes of two police officers. [@1] One of them was
+respectively, at the homes of two police officers. [@1,5] An investigation into alleged police violence put IGP onto the drug trail, and analysis of other officers' mobile phones raised suspicions that led to searches at the two officers' homes. [@5] One of them was
 suspected of being involved in drug trafficking, while for the other person it
-was presumed the drug was for personal use. [@1]
+was presumed the drug was for personal use. [@1,5]
 
 The two officers who had drugs seized at their homes have both been suspended
-and criminal investigations are ongoing. [@1] The officer who was found in
+and criminal investigations are ongoing. [@1,5] The officer who was found in
 possession of the larger quantity is suspected of importing and distributing the
-drug. [@1] The man worked at the Gare police station, and the second officer
-also worked there before he was transferred to the north of the country. [@1]
+drug. [@1,5] The man worked at the Gare police station, and the second officer
+also worked there before he was transferred to the north of the country. [@1,5]
 
 Since 21 July, growing four cannabis plants and consuming the yield in one's own
-home are allowed in Luxembourg, but the plants must be grown from seed. [@1] The
+home are allowed in Luxembourg, but the plants must be grown from seed. [@1,5] The
 police spokeswoman said that all members of the police force are prohibited from
-working under the influence of cannabis. [@1]
+working under the influence of cannabis. [@1,5]
 
 After the searches, the prosecutor's office said illegal quantities of cannabis
 had been found, according to Le Quotidien. [@2]
@@ -100,4 +105,3 @@ offences without further action, Virgule reported. [@4] Virgule reported that
 about 14 and 26 grams of cannabis had been seized in searches on 10 August. [@4]
 The interior security ministry lifted the suspension and both men were able to
 work again, according to Virgule. [@4]
-
