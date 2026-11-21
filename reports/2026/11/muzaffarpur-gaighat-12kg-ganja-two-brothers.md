@@ -56,6 +56,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-20
     language: hi
+  - title: 'Muzaffarpur News: गायघाट में 12.422 किलो गांजा के साथ दो धंधेबाज को गिरफ्तार, Muzaffarpur Hindi News - Hindustan'
+    url: https://www.livehindustan.com/bihar/muzaffarpur/story-police-seize-12-422-kg-of-cannabis-arrest-two-suspects-in-gayghat-201795191891234.amp.html
+    publisher: Live Hindustan
+    date: 2026-11-20
+    language: hi
 open_questions:
     - No date or time is given for the vehicle check and arrests; 20 November 2026, the day of the police press conference and of the court production, is used as the incident date.
     - The two accounts give different weights for the seizure, 12.422 kilograms in the Gaighat report and 12.292 kilograms in the account of the rural superintendent's press conference; the report uses 12.422 kilograms.
@@ -72,18 +77,18 @@ open_questions:
 ---
 
 Police in the Gaighat police-station area of Muzaffarpur district, Bihar, raided
-a spot near Bhusra Man and seized 12.422 kilograms of ganja. [@1] The press conference account gives the amount as 12.292 kilograms, found in a bag, and puts its value at more than 1.5 million rupees. [@3] The rural superintendent of police, Rajesh Singh Prabhakar, told a press conference on Friday 20 November 2026 that police had a tip on 19 November that people carrying a consignment of ganja would pass through. [@3] Officers
+a spot near Bhusra Man and seized 12.422 kilograms of ganja. [@1,5] The press conference account gives the amount as 12.292 kilograms, found in a bag, and puts its value at more than 1.5 million rupees. [@3] The rural superintendent of police, Rajesh Singh Prabhakar, told a press conference on Friday 20 November 2026 that police had a tip on 19 November that people carrying a consignment of ganja would pass through. [@3] Officers
 caught a young man and his minor younger brother at the spot. [@1] The rural superintendent said the two fled when they saw the police and were caught after a chase, with the ganja found in their bag. [@3] Gaighat police caught the two on a motorcycle during a vehicle check. [@4] The station
 house officer, Jayaprakash Gupta, said police had a tip that two men were
 standing with a consignment of ganja on a motorcycle near Bhusra Man. [@2]
 
 Police identified the two as brothers from Bharatnagar village. [@2] He had been named in a 2020 Benibad police-station case, 62/20, over buying and selling narcotics. [@3] The elder brother is described as a resident of the Benibad police-station area. [@3] Both were
 produced in court on Friday, 20 November 2026, and the elder brother was sent to
-jail while the minor was sent to a juvenile reform home (बाल सुधार गृह). [@2]
+jail while the minor was sent to a juvenile reform home (बाल सुधार गृह). [@2,5]
 
 The elder brother told officers in questioning that he had been called to
 deliver the consignment of ganja at Ramnagar Chowk and was paid 100 rupees for
-every kilogram. [@2] He also gave police the names of six other men involved in
-ganja trafficking, the station house officer said. [@2] The rural superintendent said seven people in all had been identified in the trafficking network, with one arrested and a minor detained, and five others identified on the elder brother's information still being sought. [@3] The officer said a first
+every kilogram. [@2,5] He also gave police the names of six other men involved in
+ganja trafficking, the station house officer said. [@2,5] The rural superintendent said seven people in all had been identified in the trafficking network, with one arrested and a minor detained, and five others identified on the elder brother's information still being sought. [@3] The officer said a first
 information report had been registered and that police were working to trace the
 trafficking network. [@2] The case was registered at Gaighat police station as case 342/26, and police said raids continued to catch the men who fled. [@3] Police said they suspect the consignment was brought from Nepal and was to be supplied in different areas of Muzaffarpur. [@3]
