@@ -20,6 +20,11 @@ media:
     media_url: https://repost.uz/storage/uploads/thumbnails/0-1785574504-Oleg-post-material-large.webp
     publisher: Repost.uz
     caption: 'State Security Service photo published with the report on the 11.7 kg hashish seizures in Namangan and Tashkent region. Photo: State Security Service (СГБ)'
+  - kind: video
+    url: https://podrobno.uz/cat/proisshestviya/pochti-12-kilogrammov-gashisha-izyali-v-dvukh-oblastyakh-uzbekistana-video/
+    media_url: https://t.me/uztubepodrobno/12070
+    publisher: Podrobno.uz
+    caption: Two-and-a-half-minute video report on the hashish seizures in Namangan and Tashkent region, embedded in the Podrobno.uz article from the outlet's Uztube Telegram channel.
 details:
   activity: [trafficking]
   agency_types: [police]
@@ -48,36 +53,40 @@ sources:
     publisher: UzDaily.uz
     date: 2026-08-02
     language: ru
+  - title: Почти 12 килограммов гашиша изъяли в двух областях Узбекистана. Видео
+    url: https://podrobno.uz/cat/proisshestviya/pochti-12-kilogrammov-gashisha-izyali-v-dvukh-oblastyakh-uzbekistana-video/
+    publisher: Podrobno.uz
+    date: 2026-08-01
+    language: ru
 open_questions:
-  - The article gives no separate date for the operation or the arrests; 1 August 2026 is its publication date and is used as the incident date.
-  - Only four detainees are clearly established, the Namangan dealer and the two Andijan residents, while the two arrested drug buyers' treatment is not stated separately.
-  - The article does not say how much hashish the Namangan dealer held, or how much of the 12 kg he supplied.
-  - The drug price of $9,900 and the cash seized ($9,200 and 18.4 million som) concern the Namangan purchases, but the article does not say what they correspond to.
-  - No charges beyond criminal cases being opened or any court outcome were reported.
-  - The Bekabad location indicates Tashkent region, but the precise place of the 977-gram pickup and arrest is not named.
-  - Only one accessible source, the state security service statement as reported by Repost.uz, could be found for this event.
-  - The page photo is credited only to the security service and its subject is not described, so it is not established as showing a specific part of this operation.
-  - UzDaily says the drugs were illegally brought in from a neighbouring state but does not name the country, so the origin of the hashish remains open.
-  - UzDaily repeats the same security-service statement as Repost.uz, so it is not independent reporting and gives no charges or court outcome.
-  - The article gives no separate date for the operation or arrests; 2 August 2026 is its publication date.
+    - No separate date is given for the operation or the arrests; 1 August 2026 is the publication date of the accounts and stands in for the incident date.
+    - The accounts do not state how many people were detained in total; the Namangan dealer, the two Andijan region residents and the Bekabad man are named, and the Nexia passenger was detained at the car check.
+    - The amount of hashish the Namangan dealer held, and how much of the total he supplied, was not reported.
+    - The $9,900 price and the cash seized ($9,200 and 18.4 million som) concern the Namangan purchase, but the accounts do not say what they correspond to.
+    - No charges beyond criminal cases being opened, and no court outcome, were reported.
+    - Bekabad is in Tashkent region, but the precise place of the 977-gram pickup and arrest is not named.
+    - The hashish is said to have been brought from a neighbouring state that is not named.
+    - Repost.uz, UzDaily.uz and Podrobno.uz reproduce the same security-service statement, so they are not independent reporting.
+    - The photo published with the Repost.uz report is credited only to the security service and its subject is not described.
+    - The Podrobno.uz article also reports a separate Fergana court sentence of 11 years over almost a kilogram of hashish, a different event not covered here.
 ---
 
 Security service officers in Namangan stopped a Nexia car and found 944 grams of
-hashish in a plastic bag carried by a passenger. [@1] The passenger was a man
-previously convicted of a drug-trafficking offence. [@1] A pre-investigation
+hashish in a plastic bag carried by a passenger. [@1,3] The passenger was a man
+previously convicted of a drug-trafficking offence. [@1,3] A pre-investigation
 check found he had bought the drugs for $9,900 from a Namangan-based dealer, who
-was detained in a security operation. [@1] At the dealer's arrest officers
-seized $9,200 and 18.4 million Uzbek som. [@1]
+was detained in a security operation. [@1,3] At the dealer's arrest officers
+seized $9,200 and 18.4 million Uzbek som. [@1,3]
 
 In a later stage of the operation officers stopped a Lacetti carrying two
 Andijan region residents who had been supplying the detained men and seized 9 kg
-801 grams of hashish from it. [@1] In Tashkent region officers detained a local
+801 grams of hashish from it. [@1,3] In Tashkent region officers detained a local
 man at the moment he collected 977 grams of hashish that drug couriers had
-earlier hidden as a stash in Bekabad. [@1] The State Security Service put the
+earlier hidden as a stash in Bekabad. [@1,3] The State Security Service put the
 two seizures in Namangan region and the Tashkent region find at almost 12 kg of
-hashish in total. [@1]
+hashish in total. [@1,3]
 
 Criminal cases were opened over both, and investigative actions were under way.
-[@1]
+[@1,3]
 
 Officers of the State Security Service, the Interior Ministry and the customs service ran a joint multi-stage operation that intercepted attempts to distribute a large consignment of drugs illegally brought into Uzbekistan from a neighbouring state. [@2] The two operations together yielded 11 kilograms 722 grams of hashish, the figure the report treats as its total. [@2] The Bekabad suspect was born in 1985, the two Andijan residents in 1987 and 1998, and the Namangan dealer who sold the 944 grams was born in 1982. [@2] The Nexia passenger was born in 1978. [@2]
