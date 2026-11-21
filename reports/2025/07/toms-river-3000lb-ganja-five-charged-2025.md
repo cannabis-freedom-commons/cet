@@ -59,30 +59,35 @@ sources:
     url: https://www.blackenterprise.com/jamaica-seize-pounds-marijuana/
     publisher: Black Enterprise
     date: 2025-07-23
+  - title: 'Haiti - Jamaica : Seizure of 1,360 kg of marijuana, 2 Haitians arrested'
+    url: https://www.haitilibre.com/en/news-45420-haiti-jamaica-seizure-of-1-360-kg-of-marijuana-2-haitians-arrested.html
+    publisher: HaitiLibre.com
+    date: 2025-07-27
 open_questions:
-  - The 3,000-pound figure converts to about 1,360.78 kg; the kilogram figure is a conversion, as the sources weighed the ganja in pounds.
-  - Sources give the value as $9.3 million and the Jamaica Constabulary Force states JM$9.3 million, which is recorded here as Jamaican dollars.
-  - Police year-to-date seizure totals in the reports are left out because they cover other seizures beyond this event.
-  - The outcome of the cases after the five men were charged was not reported in the opened sources.
+    - The 3,000-pound figure converts to about 1,360.78 kg; the kilogram figure is a conversion, as the sources weighed the ganja in pounds.
+    - Sources give the value as $9.3 million and the Jamaica Constabulary Force states JM$9.3 million, which is recorded here as Jamaican dollars.
+    - Police year-to-date seizure totals in the reports are left out because they cover other seizures beyond this event.
+    - The outcome of the cases after the five men were charged was not reported in the opened sources.
+    - No exact date is given for the charges against the three Jamaicans; HaitiLibre says only that they were charged earlier that week.
 ---
 
 On 18 July 2025 at about 9:00 pm, members of the Firearms and Narcotics
 Investigation Division Special Operations Team intercepted two motor vehicles in
-Toms River at the border of St Mary and St Andrew. [@2] One of the vehicles was
+Toms River at the border of St Mary and St Andrew. [@2,5] One of the vehicles was
 occupied by Wilson and the two Haitian nationals, while the other men occupied
 the other vehicle. [@1,4] All five men in the vehicles were arrested. [@1] The
 three were identified as 50-year-old Heron Brown, 30-year-old Wade Richards and
-28-year-old Delroy Wilson. [@1] Brown was described as a farmer and Richards as a vendor. [@4] Heron Brown, Wade Richards and Delroy Wilson
+28-year-old Delroy Wilson. [@1] Brown was described as a farmer and Richards as a vendor. [@4] Brown came from the Burton district of Saint Elizabeth, Richards from Thompson Pen in Saint Catherine and Wilson from Margarets Bay in Portland. [@5] Heron Brown, Wade Richards and Delroy Wilson
 were subsequently charged with two counts each of possession, dealing, taking
 steps preparatory to export and trafficking ganja, plus conspiracy to traffic
 ganja. [@1,4] The two Haitian nationals were later identified as 27-year-old
-Shelande Dorelien and 25-year-old Wisler Laveis. [@3] They were charged with
+Shelande Dorelien and 25-year-old Wisler Laveis. [@3] Dorelien was described as a marijuana dealer in Haiti and Laveis as from Les Cayes. [@5] They were charged with
 possession, dealing, taking steps preparatory to export and trafficking ganja,
-conspiracy to export ganja and illegal entry. [@3]
+conspiracy to export ganja and illegal entry. [@3] The two were formally charged on Friday 25 July 2025. [@5]
 
 Police described the seizure as more than 3,000 pounds of ganja. [@1,4] A search
-of the vehicles uncovered more than 350 parcels of ganja. [@1,4] Police put the
-estimated street value of the ganja at JM$9.3 million. [@2,4]
+of the vehicles uncovered more than 350 parcels of ganja. [@1,4,5] Police put the
+estimated street value of the ganja at JM$9.3 million. [@2,4,5]
 
 Police said the arrests came as the Jamaica Constabulary Force continued its
 clampdown on the illicit trade of guns for drugs. [@1] FNID director Patrae Rowe
