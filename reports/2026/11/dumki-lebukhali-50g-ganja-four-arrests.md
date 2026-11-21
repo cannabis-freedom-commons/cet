@@ -71,27 +71,32 @@ sources:
     publisher: Protidiner Sangbad
     date: 2026-11-21
     language: bn
+  - title: গাঁজা সেবনের সময় ছাত্রদল নেতাসহ চারজন আটক
+    url: https://muktokontho.org/news/82642/student-league-leader-detained-ganja
+    publisher: মুক্তকণ্ঠ
+    date: 2026-11-20
+    language: bn
 ---
 
 Police in Dumki upazila, Patuakhali, detained four people with ganja in a
-special anti-drug operation. [@1,4,5] The four were detained at about 10:30 pm on
+special anti-drug operation. [@1,4,5,6] The four were detained at about 10:30 pm on
 Thursday 19 November 2026 from an abandoned tin-shed house belonging to Jahangir
-Musulli in Ward 4 of Lebukhali Union. [@1,5] One of them was Imran Hossain, also
+Musulli in Ward 4 of Lebukhali Union. [@1,5,6] One of them was Imran Hossain, also
 known as Suman Molla, the senior vice-president of the Lebukhali Union unit of
 Chhatra Dal, the student wing of the Bangladesh Nationalist Party. [@1,5] The
 other three were Raihan Mridha, 26, Kuddus Khan alias Sohel and Hriday Majhi,
-21. [@1,4,5] Kuddus Khan alias Sohel was 30 years old. [@4]
+21. [@1,4,5,6] Kuddus Khan alias Sohel was 30 years old. [@4]
 
 Acting on a tip-off, police raided the house and the four tried to flee when
-they saw the officers, according to the police account. [@1,4,5] A search of Imran
-Hossain's trouser pocket recovered 50 grams of ganja. [@1,4,5] Amader Barishal gave
+they saw the officers, according to the police account. [@1,4,5,6] A search of Imran
+Hossain's trouser pocket recovered 50 grams of ganja. [@1,4,5,6] Amader Barishal gave
 Imran Hossain's age as 28. [@2] The same outlet reported that the four were
 detained while using drugs inside the abandoned house. [@2]
 
 Dumki police station officer-in-charge Selim Uddin said a case was filed at the
-station under the relevant sections of the Narcotics Control Act, 2018. [@1,4,5] The case was filed at Dumki police station on 20 November 2026 under Section 36(1) table 19(ka)/41 of the Narcotics Control Act, 2018. [@4]
+station under the relevant sections of the Narcotics Control Act, 2018. [@1,4,5,6] The case was filed at Dumki police station on 20 November 2026 under Section 36(1) table 19(ka)/41 of the Narcotics Control Act, 2018. [@4]
 Chakladar Golam Sarwar, convener of the Dumki upazila Chhatra Dal, said Imran
 Hossain had told him verbally that he had resigned from the upazila unit after
 the committee was announced, but that he had received no written application.
-[@1,5] The upazila unit has announced no decision on whether he still holds the
+[@1,5,6] The upazila unit has announced no decision on whether he still holds the
 post. [@3]
