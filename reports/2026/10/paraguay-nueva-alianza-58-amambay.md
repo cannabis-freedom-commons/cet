@@ -49,11 +49,6 @@ media:
     media_url: https://adnpy.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-24-at-074746.jpeg
     publisher: ADN Digital
     caption: Paraguayan and Brazilian agents at a marijuana production camp in Amambay during Nueva Alianza 58.
-open_questions:
-  - Operations covered many rural colonias; the map uses an Amambay department reference, not one plantation.
-  - No arrests were reported in these accounts of the phase.
-  - The 422,867 kg total combines harvested marijuana destroyed in camps with the agencies' estimate of the yield of eradicated fields.
-  - Mid-operation bulletins had lower totals for the first six days; this report uses the closing balance published on 23 October.
 sources:
   - title: PF e SENAD concluem 58ª fase da Operação Nova Aliança no Paraguai
     url: https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/pf-e-senad-concluem-58a-fase-da-operacao-nova-alianca-no-paraguai
@@ -65,21 +60,26 @@ sources:
     publisher: ADN Digital
     date: 2026-10-25
     language: es
+  - title: Destruyen más de 143 toneladas de marihuana en operación conjunta entre Paraguay y Brasil
+    url: https://www.infobae.com/america/agencias/2026/10/24/destruyen-mas-de-143-toneladas-de-marihuana-en-operacion-conjunta-entre-paraguay-y-brasil/
+    publisher: Infobae
+    date: 2026-10-24
+    language: es
 ---
 
 From 12 to 23 October 2026 Paraguay's National Anti-Drug Secretariat (SENAD) and Brazil's Federal
-Police completed the 58th phase of Operation Nueva Alianza in the department of Amambay. [@1,2]
+Police completed the 58th phase of Operation Nueva Alianza in the department of Amambay. [@1,2,3]
 Ground and air teams worked around Pedro Juan Caballero and Capitán Bado, including colonias such
 as Raúl Ocampos Rojas, Cumbre, Cerro Kuatiá, Cerro Cora'i, Umbú, Piray and Jaguarundi. [@2]
 
 SENAD said officers destroyed 149 production and storage camps, eradicated 93 hectares of cannabis
-mostly near harvest stage and burned 143,850 kg of chopped marijuana found in the camps. [@1,2]
+mostly near harvest stage and burned 143,850 kg of chopped marijuana found in the camps. [@1,2,3]
 Counting that processed drug and the potential yield of the cleared fields, the agencies put about
 422,867 kg of cannabis out of circulation and estimated the traffickers' loss at more than USD 63
-million. [@1,2]
+million. [@1,2,3]
 
 The operation also involved Paraguay's air force, the internal defence command (CODI) and the
-public prosecutor's office. [@1,2] Neither account reported an arrest. [@1,2]
+public prosecutor's office. [@1,2,3] Neither account reported an arrest. [@1,2]
 
 Nueva Alianza is a long-running Paraguay–Brazil campaign against cannabis grown in Amambay for
 export, chiefly to Brazil. [@1]
