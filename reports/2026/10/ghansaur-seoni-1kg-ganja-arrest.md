@@ -25,6 +25,16 @@ media:
     media_url: https://dainikyashonnati.com/storage/media/2026/10/img-20261031-wa0000-6ae4f472d29f6.webp
     publisher: Dainik Yashonnati
     caption: Photo published with the Ghansaur arrest report, captioned as the man held with 1.2 kg of ganja he sold in small packets.
+  - kind: photo
+    url: https://yashbharat.co.in/1-206-kg-of-ganja-cannabis-recovered-from-the-storage-compartment-of-a-motorcycle-the-accused-has-13-criminal-cases-registered-against-him/
+    media_url: https://yashbharat.co.in/wp-content/uploads/2026/11/IMG_3db0a8d0-bfc6-4013-a165-37b829a207cb.jpg
+    publisher: Yash Bharat
+    caption: Bundles of ganja and a handcuffed wrist in the two-part image published with the Yash Bharat report on the Ghansaur arrest.
+  - kind: video
+    url: https://yashbharat.co.in/1-206-kg-of-ganja-cannabis-recovered-from-the-storage-compartment-of-a-motorcycle-the-accused-has-13-criminal-cases-registered-against-him/
+    media_url: https://yashbharat.co.in/wp-content/uploads/2026/11/VID-20261120-WA0015.mp4?_=1
+    publisher: Yash Bharat
+    caption: Video published with the report; the article says police filmed the return of the 30,800 rupees to the suspect's wife.
 details:
   agency_types: [police]
   case_stage: investigation
@@ -53,33 +63,41 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-30
     language: hi
+  - title: मोटरसाइकिल की डिक्की से 1.206 किलो गांजा बरामद, आरोपी के 13 आपराधिक मामले दर्ज
+    url: https://yashbharat.co.in/1-206-kg-of-ganja-cannabis-recovered-from-the-storage-compartment-of-a-motorcycle-the-accused-has-13-criminal-cases-registered-against-him/
+    publisher: Yash Bharat
+    date: 2026-11-20
+    language: hi
 open_questions:
   - Dainik Yashonnati dates the tip and interception to 29 October 2026, while Dainik Bhaskar says the arrest was on Friday afternoon; the report uses Friday, 30 October 2026.
   - Dainik Bhaskar’s page ends before any later court step, so it is not known whether remand was granted or what happened next.
   - The two papers spell the station officer as L.S. Jharia and Laxman Jharia; both are treated as the same officer.
+  - Whether the 13 criminal cases counted against him include the present ganja case is not stated.
+  - The 30,800 rupees, his claim that it was his wife's and its return to her rest on the police's own account; no independent confirmation or case over the cash was reported.
 ---
 
 Ghansaur police in Seoni district, Madhya Pradesh, arrested a 32-year-old man on
 Friday afternoon after he tried to ride away from officers. [@2] He was
 identified as Aditya, also called Ajju and Ajay Yadav, son of the late Jamna
-Prasad Yadav, of Purani Basti in Ghansaur. [@1] A tip said he was bringing ganja
+Prasad Yadav, of Purani Basti in Ghansaur. [@1,3] A tip said he was bringing ganja
 on a motorcycle toward the Ghansaur–Mandla trijunction on the Samnapur road to
 sell it. [@1] Officers reached the spot, surrounded him and caught him when he
-tried to flee. [@2]
+tried to flee. [@2,3]
 
 A search found 1 kilogram 206 grams of ganja, which police valued at about
 20,000 rupees. [@1] Police said the seized ganja was worth about 20,000 rupees.
 [@1] They also seized the motorcycle used to carry the ganja; Dainik Yashonnati
 gave its registration as MP 22 MP 5429. [@1] He told police he bought the
 cannabis from an unknown person, packed it into small pudiya and sold the
-packets. [@2] Asked for lawful papers for the ganja, he could produce none. [@2]
+packets. [@2] Police said they made a video of the whole return of the money. [@3] Asked for lawful papers for the ganja, he could produce none. [@2] Officers also found 30,800 rupees in cash on him, which he said was his wife's; police called her to the station and returned the full amount. [@3]
 
 Police registered a case under sections 8 and 20 of the Narcotic Drugs and
 Psychotropic Substances Act, India’s main drug law, arrested him and produced
 him in court for judicial remand. [@1] Station house officer Inspector L.S.
 Jharia, whom Dainik Bhaskar names as Laxman Jharia, led the team, with
-sub-inspector Rukhsar Bano and several constables taking part. [@1] Dainik
+sub-inspector Rukhsar Bano and several constables taking part. [@1] Police said he was filing unnecessary complaints through his lawyer to pressure officers and avoid action, and that the complaints' allegations and their account had yet to be independently confirmed. [@3] Dainik
 Yashonnati said the action was directed by Superintendent of Police Krishna
 Lalchandani, Additional Superintendent Deepak Mishra and Ghansaur subdivisional
 police officer Reena Pandey. [@1]
 
+Police said 13 criminal cases had been registered against him, three of them involving ganja. [@3]
