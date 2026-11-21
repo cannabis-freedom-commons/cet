@@ -61,6 +61,10 @@ sources:
     url: https://www.foxcarolina.com/2026/10/07/deputies-nearly-300-thc-vapes-other-illegal-drugs-seized-during-upstate-search/
     publisher: FOX Carolina
     date: 2026-10-07
+  - title: 'Deputies: Nearly 300 THC vapes, other illegal drugs seized during Upstate search'
+    url: https://www.foxcarolina.com/video/2026/10/08/deputies-nearly-300-thc-vapes-other-illegal-drugs-seized-during-upstate-search/
+    publisher: FOX Carolina
+    date: 2026-10-08
 open_questions:
   - The article gives no separate date for the search; 7 October 2026 is its publication date and is used as the incident date.
   - No weight, liquid volume or THC content was published for the 281 THC vapes, so they are not counted in the cannabis weight.
@@ -72,7 +76,7 @@ open_questions:
 ---
 
 Greenville County sheriff's deputies searched a location on Brushy Creek Road in
-Taylors and reported three persons charged after illegal drugs were seized. [@1]
+Taylors and reported three persons charged after illegal drugs were seized. [@1,2]
 Corban Vander was charged with trafficking cocaine and marijuana, possession
 with intent to distribute THC and mushrooms, possession of a weapon during a
 violent crime and possession of a machine gun. [@1] Franklin Simpson was charged
@@ -80,11 +84,10 @@ with possession with intent to distribute marijuana along with possession of THC
 and cocaine. [@1] Amari Powers was charged with possession of marijuana. [@1]
 
 Deputies seized 281 THC vapes, 11.05 ounces of THC gummies and 8.79 pounds of
-marijuana from the Brushy Creek Road location. [@1] The search also recovered
+marijuana from the Brushy Creek Road location. [@1,2] The search also recovered
 cocaine, MDMA, mushrooms, LSD, controlled pills and fentanyl alongside the
 cannabis. [@1] Deputies also recovered $5,090 in cash, five firearms and seven
 additional firearm barrels or uppers. [@1]
 
 Deputies also listed five canisters of nitrous oxide among the seized items.
 [@1] The sheriff's office announcement was published on October 7, 2026. [@1]
-
