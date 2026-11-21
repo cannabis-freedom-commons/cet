@@ -64,20 +64,27 @@ sources:
     publisher: قناة صدى البلد
     date: 2026-11-19
     language: ar
+  - title: ضبط أحد الأشخاص بإدارة صفحة للترويج لبيع المواد المخدرة
+    url: https://www.dostor.org/5783856
+    publisher: جريدة الدستور
+    date: 2026-11-19
+    language: ar
+open_questions:
+    - This account names the suspect's district as First Obour (أول العبور) while other accounts of the same statement give First Shubra Al-Khaima (أول شبرا الخيمة); the report follows the majority of accounts.
 ---
 
 Security services in Qalyubia Governorate arrested one person accused of running
-a social-media page that advertised drugs for sale in return for money. [@1,3,4,5] The
+a social-media page that advertised drugs for sale in return for money. [@1,3,4,5,6] The
 General Administration for Combating Information Technology Crimes, working with
-the Public Security sector, uncovered the page. [@1,3,4,5] Investigations identified
+the Public Security sector, uncovered the page. [@1,3,4,5,6] Investigations identified
 the page's administrator as an unemployed man living in the first Shubra
 Al-Khaima police district of Qalyubia Governorate. [@2,3,4,5]
 
 Officers found a mobile phone on the suspect and said examining it revealed
-evidence of his criminal activity. [@1,3,4,5] Investigations showed he was not in
-possession of any drugs. [@1,3,4,5]
+evidence of his criminal activity. [@1,3,4,5,6] Investigations showed he was not in
+possession of any drugs. [@1,3,4,5,6]
 
 When confronted, he admitted creating and running the page to cheat people who
 wanted to buy drugs, taking their money transfers and then switching off his
-phone to avoid them. [@1,3,4,5] Police took the necessary legal measures and the
+phone to avoid them. [@1,3,4,5,6] Police took the necessary legal measures and the
 Public Prosecution took over the investigation. [@1,3]
