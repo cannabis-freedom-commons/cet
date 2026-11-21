@@ -85,6 +85,11 @@ media:
     media_url: https://image.seneweb.com/content/news/2026-10-04/69a87c4ad8812_9kbVbwmtkh.jpg
     publisher: Seneweb
     caption: Photograph published in Seneweb's gallery of the AIBD seizure; the outlet gives no individual caption.
+  - kind: photo
+    url: https://www.dakaractu.com/AIBD-289-plaques-de-haschich-saisies-la-mule-francaise-et-son-contact-senegalais-tombent-au-parking_a269723.html
+    media_url: https://www.dakaractu.com/photo/art/default/95081019-66595234.jpg?v=1772625470
+    publisher: Dakaractu
+    caption: 'Packaged slabs of hashish packed into a pink suitcase, in the lead photograph on Dakaractu''s account of the 289-plate AIBD seizure. Photo: Dakaractu'
 created_by_model: openai/gpt-6-luna#max
 details:
   activity: [processing]
@@ -118,27 +123,32 @@ sources:
     publisher: Seneweb
     date: 2026-03-04
     language: fr
+  - title: 'AIBD : 289 plaques de haschich saisies, la mule française et son contact sénégalais tombent au parking'
+    url: https://www.dakaractu.com/AIBD-289-plaques-de-haschich-saisies-la-mule-francaise-et-son-contact-senegalais-tombent-au-parking_a269723.html
+    publisher: Dakaractu
+    date: 2026-03-04
+    language: fr
 open_questions:
-  - The customs statement did not name the passenger or give her nationality beyond describing her as a foreign woman arriving from a Maghreb country.
-  - The reports do not say what charges were filed or what happened at the Mbour prosecutor's office.
-  - The 190 million CFA franc figure is the customs administration's own estimate.
-  - Seneweb's gallery runs to ten photographs without individual captions; APAnews published a separate photo that may duplicate one of them.
-  - Both reports carry the customs administration's account of the seizure.
+    - The customs statement described the passenger as a foreign woman arriving from a Maghreb country, while Libération said she was born in the Comoros and held a French passport.
+    - The suspected recipient's age is given as 45 in the customs account and 46 in Libération's.
+    - The hashish is valued at 190 million CFA francs by customs and at nearly 200 million in Libération's account.
+    - The reports do not say what charges were filed or what happened at the Mbour prosecutor's office.
+    - The exact origin of the hashish and the network behind it were not established in the published accounts.
 ---
 
 Customs officers at Senegal's Blaise Diagne International Airport (AIBD) seized
-289 plates of cannabis resin weighing 28.97 kg on 26 February 2026. [@1,2] The
+289 plates of cannabis resin weighing 28.97 kg on 26 February 2026. [@1,2,3] The
 tourism brigade of the airport customs subdivision, part of the western regional
-directorate, made the find at about 7pm. [@1,2]
+directorate, made the find at about 7pm. [@1,2,3]
 
 The drug was hidden in two suitcases belonging to a foreign woman arriving from a
-Maghreb country. [@1,2] Officers noticed suspicious signs when the bags passed
-through the scanner and found the plates when they opened them. [@1,2] Laboratory
+Maghreb country. [@1,2] Libération reported that she arrived at the Arrivals zone with three suitcases. [@3] Libération described the passenger as a 24-year-old woman travelling on a French passport. [@3] Officers noticed suspicious signs when the bags passed
+through the scanner and found the plates when they opened them. [@1,2,3] Laboratory
 tests by the scientific police confirmed the substance was hashish. [@1,2]
 
 The customs administration estimated the load's value at 190 million CFA francs.
 [@1,2] The passenger's questioning led to the arrest the same day of the suspected
-recipient, a 45-year-old Senegalese man. [@1,2]
+recipient, a 45-year-old Senegalese man. [@1,2] Libération reported that the suspect admitted the facts. [@3] The suspected recipient was arrested in the airport car park with the help of the airport anti-trafficking unit (CAAT). [@3]
 
 Both were handed to the prosecutor's office in Mbour, and the investigation
-continues. [@1,2]
+continues. [@1,2] The referral was for international drug trafficking. [@3] Both were held in police custody before being referred to the prosecutor. [@3]
