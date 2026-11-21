@@ -96,24 +96,29 @@ sources:
     publisher: El Correo
     date: 2026-11-19
     language: es
+  - title: Intervenidas 17 plantas de marihuana y dos kilos de cogollos en un invernadero de Valle de Tobalina (Burgos)
+    url: https://www.elconfidencial.com/espana/castilla-y-leon/2026-11-19/guardia-civil-desmantela-plantacion-marihuana-burgos-1tna-1tps_4468411/
+    publisher: elconfidencial.com
+    date: 2026-11-19
+    language: es
 ---
 
 The Guardia Civil located a marijuana plantation inside a greenhouse in a
-locality in Valle de Tobalina, in the north of Burgos province. [@3,5,8] The action
+locality in Valle de Tobalina, in the north of Burgos province. [@3,5,8,9] The action
 was carried out under Operation Delgadilla, opened after officers of the Miranda
-de Ebro company learned of a possible unlawful crop in the area. [@2,5,7,8] After
+de Ebro company learned of a possible unlawful crop in the area. [@2,5,7,8,9] After
 identifying a dwelling with signs of the activity, officers searched it with the
-owner's authorisation and in his presence. [@1,4,7,8] A 34-year-old person was placed
+owner's authorisation and in his presence. [@1,4,7,8,9] A 34-year-old person was placed
 at judicial disposition as the alleged author of a public-health
-drug-trafficking offence in the form of cultivation. [@1,4,6,8] The investigated
+drug-trafficking offence in the form of cultivation. [@1,4,6,8,9] The investigated
 person, with the case papers, was placed at the disposition of the Villarcayo
-courts. [@1,4,7,8]
+courts. [@1,4,7,8,9]
 
 Inside the property officers found a 40-square-metre greenhouse with the 17
 plants rooted directly in the soil, staked and tended and in an advanced
-flowering state close to harvest. [@1,4,7] The seized plants were identified as Cannabis sativa. [@4] The operation ended with the seizure of
+flowering state close to harvest. [@1,4,7,9] The seized plants were identified as Cannabis sativa. [@4] The operation ended with the seizure of
 the 17 cannabis plants, weighing 40 kilograms green, plus another 2 kilograms of
-already dry buds. [@1,5,7,8] During a more thorough inspection of the dwelling
+already dry buds. [@1,5,7,8,9] During a more thorough inspection of the dwelling
 officers also found the two kilograms of already dry marijuana buds, which were
-also seized. [@2,4,8] The seized material was handed over to the Health Area of the
-Government Subdelegation in Burgos. [@1,4,8]
+also seized. [@2,4,8,9] The seized material was handed over to the Health Area of the
+Government Subdelegation in Burgos. [@1,4,8,9]
