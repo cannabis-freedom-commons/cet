@@ -74,33 +74,37 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-21
     language: hi
+  - title: सारण के अमनौर में 115.930 किग्रा गांजा के साथ दो आरोपित गिरफ्तार
+    url: https://vocaltv.in/bihar/saran-two-accused-arrested-in-php/cid19557191.htm
+    publisher: Vocal TV
+    date: 2026-11-20
+    language: hi
 open_questions:
-  - No separate date is given for the vehicle check or the arrests; 20 November 2026, the date of the first reports, is used as the incident date.
-  - The cannabis is described as a ganja-like substance, with no laboratory confirmation reported.
-  - The first information report names four accused, but only two arrests were reported; the car's owner and one of the intended recipients had not been arrested in these accounts.
-  - No charge sheet, plea or court outcome was reported; the case was at the investigation stage.
-  - The figure of about 58 lakh rupees is Dainik Bhaskar's estimate of the illegal-market value, not an official valuation.
-  - The first Dainik Bhaskar report says the driver was detained and does not mention the second arrest, which the later Bhaskar and Prabhat Khabar accounts report.
-  - The accounts reproduce police statements; no independent witness account was published.
-  - Where in Motihari the ganja was bought, and who supplied it there, was not reported.
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: Dainik Bhaskar put the consignment''s value at about 58 lakh rupees on the international and illegal market.'
-  - Left out value, as its quotation was not found in Dainik Bhaskar.
+    - The cannabis is described as a ganja-like substance, with no laboratory confirmation reported.
+    - The first information report names four accused, but only two arrests were reported; the car's owner and one of the intended recipients had not been arrested in these accounts.
+    - No charge sheet, plea or court outcome was reported; the case was at the investigation stage.
+    - The figure of about 58 lakh rupees is Dainik Bhaskar's estimate of the illegal-market value, not an official valuation.
+    - The first Dainik Bhaskar report says the driver was detained and does not mention the second arrest, which the later Bhaskar and Prabhat Khabar accounts report.
+    - The accounts reproduce police statements; no independent witness account was published.
+    - Where in Motihari the ganja was bought, and who supplied it there, was not reported.
+    - One account says police raided a shop in Jhakhri, another that they searched the second man's home there.
+    - Accounts differ on the phones seized, one Samsung handset in the first reports and two mobile phones in the wire report.
 ---
 
 Amnaur police began checking vehicles at the Amnaur bazaar chowk in Saran
 district, Bihar, after a state-level tip from the Prohibition and State
 Narcotics Control Bureau in Patna and the Excise and Prohibition Department.
-[@3] Officers signalled a white Nexon to stop; its driver tried to speed away
-but was caught because of a traffic jam in the market. [@2] The driver was
+[@3] The vehicle check was carried out in the presence of a magistrate. [@4] Officers signalled a white Nexon to stop; its driver tried to speed away
+but was caught because of a traffic jam in the market. [@2] The car was coming from the Sonho side when officers signalled it to stop at about 4:35 pm. [@4] The driver was
 arrested, and after his disclosure police raided a shop in Jhakhri village and
-arrested a second man. [@2] Police registered a first information report against
+arrested a second man. [@2,4] Police registered a first information report against
 four people, including the car's registered owner, under NDPS Act sections for a
 commercial quantity. [@3]
 
 Officers found 21 packets of ganja packed in sacks and plastic in a hidden
 compartment built into the boot and under the rear seat. [@2] Weighed on a
 digital scale in the presence of the block development officer, the ganja, the
-local name for cannabis, came to 115 kg 930 g. [@2] The driver could produce no
+local name for cannabis, came to 115 kg 930 g. [@2,4] The driver could produce no
 documents to show the ganja was legal. [@2] Police also seized a Samsung mobile
 phone, 2,900 rupees in cash, an Aadhaar card and the car's registration
 certificate from him. [@1]
@@ -114,4 +118,3 @@ but the rear seat and boot were unusually thick with fresh welding, which led
 officers to the hidden compartment. [@3] He said the investigation's first aim
 was to break the inter-district syndicate's main supplier and its chain of local
 buyers. [@3]
-
