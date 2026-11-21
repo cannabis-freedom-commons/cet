@@ -56,33 +56,40 @@ sources:
     publisher: HLN
     date: 2026-11-19
     language: nl
+  - title: Eight house searches uncover cannabis plantations, two youths arrested after shoplifting in Izegem
+    url: https://www.indegazette.be/acht-huiszoekingen-leggen-cannabisplantages-bloot-twee-jongeren-aangehouden-na-winkeldiefstal-in-izegem/
+    publisher: indegazette.be
+    date: 2026-11-19
+    language: en
 media:
   - kind: photo
     url: https://www.gva.be/regio/antwerpen/regio-antwerpen/brasschaat/albanese-criminele-organisatie-opgerold-na-banale-verkeerscontrole-cannabisplantage-van-meer-dan-1.500-planten-aangetroffen/164817705.html
     media_url: https://prod-img.nieuwsblad.be/public/nieuws/43w6ga-in-brasschaat-werd-een-grote-actieve-cannabisplantage-opgerold./alternates/THREE_TWO_1620/In%20Brasschaat%20werd%20een%20grote%20actieve%20cannabisplantage%20opgerold.
     publisher: GVA
     caption: 'Active cannabis plantation dismantled in Brasschaat. Photo: Parket Leuven via GVA'
+open_questions:
+    - The article also reports two separate judicial dossiers — a theft investigation in Izegem and a 44-year-old Tienen man summonsed over attempted shoplifting and possession of cocaine, amphetamines and hashish — which are not part of this plantation operation.
 ---
 
 Federal police carried out eight searches on Thursday in Brasschaat, Bree,
 Jemappes, Jemeppe, Leuven, Liège, Schilde and Wommelgem in an investigation led
-by the Leuven Public Prosecutor’s Office. [@1,3,4] The inquiry began after officers
+by the Leuven Public Prosecutor’s Office. [@1,3,4,5] The inquiry began after officers
 stopped a rented vehicle during a traffic check and found empty heater
 packaging, blackout tape, grip-seal bags and sets of keys associated with
 plantation setup. [@1] The prosecution said a traffic check in Leuven in
 November 2025 prompted a large judicial investigation into the activities of an
-Albanian criminal organisation in Belgium. [@2] Investigators then mapped a
+Albanian criminal organisation in Belgium. [@2,5] Investigators then mapped a
 suspected Albanian criminal organisation believed to specialise in setting up
-and operating professional cannabis plantations across Belgium. [@2] Officers
+and operating professional cannabis plantations across Belgium. [@2,5] Officers
 arrested a 26-year-old man in Brasschaat, a 26-year-old man in Jemappes and a
-34-year-old man in Wommelgem. [@1,3] The three were questioned and were due to
-appear before an investigating judge to decide on possible arrest warrants. [@1,4]
+34-year-old man in Wommelgem. [@1,3,5] The three were questioned and were due to
+appear before an investigating judge to decide on possible arrest warrants. [@1,4,5]
 
 Professional cannabis plantations were found and dismantled in Brasschaat and
-Jemappes. [@1,3] At the Brasschaat site the judicial laboratory carried out further examination and Civil Protection dismantled the installation, after which the plants were to be destroyed. [@4] The Brasschaat plantation was at Lage Kaart in a former commercial premises sold some time ago. [@4] The Brasschaat site alone held more than 1,500 cannabis plants.
-[@1,3,4] At other addresses detectives found traces of earlier plantations, and
-illegal electricity connections were found at several locations. [@1] Cash and
-equipment used for cannabis production were seized during the searches. [@1,3]
+Jemappes. [@1,3,5] At the Brasschaat site the judicial laboratory carried out further examination and Civil Protection dismantled the installation, after which the plants were to be destroyed. [@4] The Brasschaat plantation was at Lage Kaart in a former commercial premises sold some time ago. [@4] The Brasschaat site alone held more than 1,500 cannabis plants.
+[@1,3,4,5] At other addresses detectives found traces of earlier plantations, and
+illegal electricity connections were found at several locations. [@1,5] Cash and
+equipment used for cannabis production were seized during the searches. [@1,3,5] Local police zones Voorkempen, Minos, Mons-Quévy and CARMA also took part in the operation. [@5] Forensic laboratories of the Federal Judicial Police in Limburg, Liège and Antwerp examined the plantations. [@5] The CSD Limburg drone team provided air support during the house searches. [@5] Drug- and money-detection dogs from DACH were used to find narcotics and cash. [@5]
 
 The Federal Judicial Police of Leuven is continuing the investigation under the
-investigating judge. [@2]
+investigating judge. [@2,5]
