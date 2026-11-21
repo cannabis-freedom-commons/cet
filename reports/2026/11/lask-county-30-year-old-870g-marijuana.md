@@ -72,6 +72,11 @@ sources:
     publisher: eZdunska.pl
     date: 2026-11-19
     language: pl
+  - title: Zobaczył policjantów i pozbył się telefonu. W mieszkaniu 30-latka znaleźli blisko 2 kg narkotyków
+    url: https://www.kryminalki.pl/artykul/37036,zobaczyl-policjantow-i-pozbyl-sie-telefonu-w-mieszkaniu-30-latka-znalezli-blisko-2-kg-narkotykow
+    publisher: kryminalki.pl
+    date: 2026-11-19
+    language: pl
 open_questions:
   - The marijuana figure is given as more than 870 grams, not an exact weight, so 0.87 kilograms is stored.
   - More than a kilogram of methamphetamine was seized in the same case and is not counted in the cannabis figures.
@@ -86,15 +91,15 @@ Officers of the criminal department of the Zduńska Wola County Police
 Headquarters detained a 30-year-old man who kept almost 2 kilograms of drugs
 where he lived. [@1] The Zduńska Wola criminal department had identified a
 person who might hold significant quantities of drugs. [@1] On 16 November 2026
-the officers went to a village in Łask County. [@1,2,3] When he saw the police, the
-man walked faster and threw his phone into a ditch. [@1,2,3] Officers checked his
-identity, secured the phone and found marijuana in his trouser pocket. [@1,2,3]
+the officers went to a village in Łask County. [@1,2,3,4] When he saw the police, the
+man walked faster and threw his phone into a ditch. [@1,2,3,4] Officers checked his
+identity, secured the phone and found marijuana in his trouser pocket. [@1,2,3,4]
 
 A search of his home turned up further drugs: in total more than 870 grams of
-marijuana and more than 1 kilogram of methamphetamine. [@1,2,3] The detained man, a
-30-year-old from Łask, had previously been convicted of drug offences. [@1]
+marijuana and more than 1 kilogram of methamphetamine. [@1,2,3,4] The detained man, a
+30-year-old from Łask, had previously been convicted of drug offences. [@1,4]
 
 He was charged with possession of significant quantities of intoxicating and
-psychotropic substances, which carries up to 10 years in prison. [@1,2,3] By
+psychotropic substances, which carries up to 10 years in prison. [@1,2,3,4] By
 decision of the District Court in Zduńska Wola he will spend the next three
-months in pre-trial detention. [@1,2,3]
+months in pre-trial detention. [@1,2,3,4]
