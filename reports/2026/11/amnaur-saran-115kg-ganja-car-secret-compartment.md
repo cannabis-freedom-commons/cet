@@ -89,6 +89,11 @@ sources:
     publisher: Sanjeevani Samachar
     date: 2026-11-20
     language: hi
+  - title: 'सारण की टॉप फोटोज : 1.15 क्विंटल गांजा बरामद, पीएम की सभा में आने के लिए बैठक की समेत सात साल बाद भी नहीं चालू हुआ शौचालय'
+    url: https://www.prabhatkhabar.com/state/bihar/saran/21-nov-2026-top-5-photos-of-saran
+    publisher: Prabhat Khabar
+    date: 2026-11-21
+    language: hi
 open_questions:
     - The cannabis is described as a ganja-like substance, with no laboratory confirmation reported.
     - The first information report names four accused, but only two arrests were reported; the car's owner and one of the intended recipients had not been arrested in these accounts.
@@ -105,17 +110,17 @@ open_questions:
 Amnaur police began checking vehicles at the Amnaur bazaar chowk in Saran
 district, Bihar, after a state-level tip from the Prohibition and State
 Narcotics Control Bureau in Patna and the Excise and Prohibition Department.
-[@3] The ganja seizure was one of several actions in a 24-hour special drive ordered across Saran district by Senior Superintendent of Police Roshan Kumar on 19 November 2026. [@5] The vehicle check was carried out in the presence of a magistrate. [@4] Officers signalled a white Nexon to stop; its driver tried to speed away
-but was caught because of a traffic jam in the market. [@2] The car was coming from the Sonho side when officers signalled it to stop at about 4:35 pm. [@4] The driver was
+[@3,6] The ganja seizure was one of several actions in a 24-hour special drive ordered across Saran district by Senior Superintendent of Police Roshan Kumar on 19 November 2026. [@5] The vehicle check was carried out in the presence of a magistrate. [@4] Officers signalled a white Nexon to stop; its driver tried to speed away
+but was caught because of a traffic jam in the market. [@2,6] The car was coming from the Sonho side when officers signalled it to stop at about 4:35 pm. [@4] The driver was
 arrested, and after his disclosure police raided a shop in Jhakhri village and
-arrested a second man. [@2,4,5] Police registered a first information report against
+arrested a second man. [@2,4,5,6] Police registered a first information report against
 four people, including the car's registered owner, under NDPS Act sections for a
 commercial quantity. [@3]
 
 Officers found 21 packets of ganja packed in sacks and plastic in a hidden
-compartment built into the boot and under the rear seat. [@2] Weighed on a
+compartment built into the boot and under the rear seat. [@2,6] Weighed on a
 digital scale in the presence of the block development officer, the ganja, the
-local name for cannabis, came to 115 kg 930 g. [@2,4,5] The driver could produce no
+local name for cannabis, came to 115 kg 930 g. [@2,4,5,6] The driver could produce no
 documents to show the ganja was legal. [@2] Police also seized a Samsung mobile
 phone, 2,900 rupees in cash, an Aadhaar card and the car's registration
 certificate from him. [@1,5]
