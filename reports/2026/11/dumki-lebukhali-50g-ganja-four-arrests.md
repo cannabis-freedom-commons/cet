@@ -61,6 +61,11 @@ sources:
     publisher: দৈনিক আমাদের পটুয়াখালী (Daily Amader Patuakhali)
     date: 2026-11-20
     language: bn
+  - title: দুমকিতে পরিত্যক্ত ঘরে পুলিশের অভিযান, গাঁজাসহ গ্রেপ্তার ৪
+    url: https://ajkerdarpon.com/news/88936
+    publisher: আজকের দর্পণ (Ajker Darpan)
+    date: 2026-11-20
+    language: bn
 open_questions:
   - No laboratory confirmation that the 50 grams was ganja was reported.
   - No court date, plea, bail or detention decision was reported after the case was filed at Dumki police station.
@@ -68,28 +73,28 @@ open_questions:
   - 'The outlets give different fathers'' names for Kuddus Khan alias Sohel: Kalam Mridha in the Desh TV report and Habib Khan in Amader Barishal.'
   - No street value for the 50 grams was published.
   - All three accounts reproduce the same Dumki police statement, so the official account rests on one source.
+  - The time of the raid is given as about 10 pm in one account and about 10:30 pm in others.
 ---
 
 Police in Dumki upazila, Patuakhali, detained four people with ganja in a
-special anti-drug operation. [@1] The four were detained at about 10:30 pm on
+special anti-drug operation. [@1,4] The four were detained at about 10:30 pm on
 Thursday 19 November 2026 from an abandoned tin-shed house belonging to Jahangir
 Musulli in Ward 4 of Lebukhali Union. [@1] One of them was Imran Hossain, also
 known as Suman Molla, the senior vice-president of the Lebukhali Union unit of
 Chhatra Dal, the student wing of the Bangladesh Nationalist Party. [@1] The
 other three were Raihan Mridha, 26, Kuddus Khan alias Sohel and Hriday Majhi,
-21. [@1]
+21. [@1,4] Kuddus Khan alias Sohel was 30 years old. [@4]
 
 Acting on a tip-off, police raided the house and the four tried to flee when
-they saw the officers, according to the police account. [@1] A search of Imran
-Hossain's trouser pocket recovered 50 grams of ganja. [@1] Amader Barishal gave
+they saw the officers, according to the police account. [@1,4] A search of Imran
+Hossain's trouser pocket recovered 50 grams of ganja. [@1,4] Amader Barishal gave
 Imran Hossain's age as 28. [@2] The same outlet reported that the four were
 detained while using drugs inside the abandoned house. [@2]
 
 Dumki police station officer-in-charge Selim Uddin said a case was filed at the
-station under the relevant sections of the Narcotics Control Act, 2018. [@1]
+station under the relevant sections of the Narcotics Control Act, 2018. [@1,4] The case was filed at Dumki police station on 20 November 2026 under Section 36(1) table 19(ka)/41 of the Narcotics Control Act, 2018. [@4]
 Chakladar Golam Sarwar, convener of the Dumki upazila Chhatra Dal, said Imran
 Hossain had told him verbally that he had resigned from the upazila unit after
 the committee was announced, but that he had received no written application.
 [@1] The upazila unit has announced no decision on whether he still holds the
 post. [@3]
-
