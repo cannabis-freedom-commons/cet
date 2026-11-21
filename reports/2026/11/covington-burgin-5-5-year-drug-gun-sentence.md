@@ -65,19 +65,23 @@ sources:
     url: https://hoodline.com/2026/11/covington-man-sentenced-to-5-5-years-on-federal-charges
     publisher: Hoodline
     date: 2026-11-16
+  - title: Skai Jackson's Baby Daddy Sentenced to 5 Years, 6 Months in Prison
+    url: https://www.tmz.com/2026/11/20/skai-jackson-baby-daddy-sentenced-to-prison/
+    publisher: TMZ
+    date: 2026-11-20
 open_questions:
-  - No weight for the seized marijuana was published, so no cannabis quantity is recorded.
-  - 13 November 2026 is used as the sentencing date because reports published 16 November 2026 say Burgin was sentenced on the preceding Friday.
-  - The plea-agreement account dates the stolen-vehicle tracing to July 2024 while the local report says the Hellcat was tracked to Latonia Lakes in April 2025; the report treats these as stages of one investigation.
-  - No breakdown of the 5.5-year term by count and no supervised-release term were reported in the opened sources.
-  - The account of Burgin buying the car for $5,000 and running from police rests on the single local report's reading of court papers.
+    - No weight for the seized marijuana was published, so no cannabis quantity is recorded.
+    - 13 November 2026 is used as the sentencing date because reports published 16 November 2026 say Burgin was sentenced on the preceding Friday.
+    - The plea-agreement account dates the stolen-vehicle tracing to July 2024 while the local report says the Hellcat was tracked to Latonia Lakes in April 2025; the report treats these as stages of one investigation.
+    - No breakdown of the 5.5-year term by count was reported.
+    - The account of Burgin buying the car for $5,000 and running from police rests on the single local report's reading of court papers.
 ---
 
 Deondre Burgin, 22, of Covington, Kentucky, was sentenced to 5.5 years in
-federal prison on drug, firearm and stolen-vehicle charges. [@3] Chief U.S.
+federal prison on drug, firearm and stolen-vehicle charges. [@3,4] Burgin was also set to be transferred to the Southern District of Ohio to face separate federal charges. [@4] Chief U.S.
 District Judge David Bunning imposed the sentence on Friday for possession with
 intent to distribute marijuana, possession of a firearm in furtherance of drug
-trafficking and receipt of a stolen motor vehicle. [@2]
+trafficking and receipt of a stolen motor vehicle. [@2,4] He was also ordered to pay a $300 special assessment and $20,000 in restitution and to forfeit a Glock handgun and its ammunition. [@4] After his release he will serve 5 years of supervised release with drug testing and must take part in a substance abuse or mental health treatment program. [@4]
 
 According to his plea agreement, law enforcement determined in July 2024 that a
 vehicle reported stolen in Cleveland, Ohio had been sold to a person in Kentucky
@@ -95,4 +99,3 @@ believe the drugs were for sale. [@1] Court papers said Burgin bought the car
 for $5,000 and admitted running from police. [@1] The FBI conducted the
 investigation and Assistant U.S. Attorney Kyle M. Winslow prosecuted the case
 for the United States. [@2]
-
