@@ -54,6 +54,11 @@ media:
     media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/20/1795180934612/sizes/20sar_m_40_20112026_24-76fe8f-hero.webp
     publisher: Prabhat Khabar
     caption: 'The seized ganja with the arrested smuggler, captioned "गिरफ्तार तस्कर के साथ जप्त गांजा". Photo: Prabhat Khabar Network'
+  - kind: photo
+    url: https://sanjeevanisamachar.com/saran-police-arrest-27-accused-seize-116-kg-ganja-liquor/
+    media_url: https://i0.wp.com/sanjeevanisamachar.com/wp-content/uploads/2026/11/Saran-Police-Action-2.jpeg?w=1280&ssl=1
+    publisher: Sanjeevani Samachar
+    caption: 'Photograph of the Saran district police action published with the roundup that reports the Amnaur ganja seizure. Photo: Sanjeevani Samachar.'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: f8d3510ed39ab94241226ce9bd02450e
@@ -79,6 +84,11 @@ sources:
     publisher: Vocal TV
     date: 2026-11-20
     language: hi
+  - title: सारण में नशे के कारोबार पर पुलिस का प्रहार, शराब के 5 कारोबारी समेत 27 गिरफ्तार
+    url: https://sanjeevanisamachar.com/saran-police-arrest-27-accused-seize-116-kg-ganja-liquor/
+    publisher: Sanjeevani Samachar
+    date: 2026-11-20
+    language: hi
 open_questions:
     - The cannabis is described as a ganja-like substance, with no laboratory confirmation reported.
     - The first information report names four accused, but only two arrests were reported; the car's owner and one of the intended recipients had not been arrested in these accounts.
@@ -89,25 +99,26 @@ open_questions:
     - Where in Motihari the ganja was bought, and who supplied it there, was not reported.
     - One account says police raided a shop in Jhakhri, another that they searched the second man's home there.
     - Accounts differ on the phones seized, one Samsung handset in the first reports and two mobile phones in the wire report.
+    - One account places the ganja seizure within a 24-hour district-wide special drive ordered on 19 November 2026, but does not name Amnaur or give a separate date for the vehicle check; the incident date used here remains the 20 November publication date.
 ---
 
 Amnaur police began checking vehicles at the Amnaur bazaar chowk in Saran
 district, Bihar, after a state-level tip from the Prohibition and State
 Narcotics Control Bureau in Patna and the Excise and Prohibition Department.
-[@3] The vehicle check was carried out in the presence of a magistrate. [@4] Officers signalled a white Nexon to stop; its driver tried to speed away
+[@3] The ganja seizure was one of several actions in a 24-hour special drive ordered across Saran district by Senior Superintendent of Police Roshan Kumar on 19 November 2026. [@5] The vehicle check was carried out in the presence of a magistrate. [@4] Officers signalled a white Nexon to stop; its driver tried to speed away
 but was caught because of a traffic jam in the market. [@2] The car was coming from the Sonho side when officers signalled it to stop at about 4:35 pm. [@4] The driver was
 arrested, and after his disclosure police raided a shop in Jhakhri village and
-arrested a second man. [@2,4] Police registered a first information report against
+arrested a second man. [@2,4,5] Police registered a first information report against
 four people, including the car's registered owner, under NDPS Act sections for a
 commercial quantity. [@3]
 
 Officers found 21 packets of ganja packed in sacks and plastic in a hidden
 compartment built into the boot and under the rear seat. [@2] Weighed on a
 digital scale in the presence of the block development officer, the ganja, the
-local name for cannabis, came to 115 kg 930 g. [@2,4] The driver could produce no
+local name for cannabis, came to 115 kg 930 g. [@2,4,5] The driver could produce no
 documents to show the ganja was legal. [@2] Police also seized a Samsung mobile
 phone, 2,900 rupees in cash, an Aadhaar card and the car's registration
-certificate from him. [@1]
+certificate from him. [@1,5]
 
 The driver told police the car's owner had bought the ganja in Motihari and
 given it to him to deliver. [@1] He said he was to hand it to a man in Vaishali
