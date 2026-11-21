@@ -68,28 +68,38 @@ sources:
     publisher: Gujarat Post
     date: 2026-11-20
     language: gu
+  - title: અસારવા રેલ્વે સ્ટેશન પાસેથી 13 કિલો ગાંજા સાથે ત્રણ ઝડપાયા:ઓડિશાથી ગાંજો મંગાવી કડી અને બુઢાસણમાં છૂટક વેચતા, મુખ્ય સપ્લાયર વોન્ટેડ
+    url: https://divyabhaskar.co.in/local/gujarat/ahmedabad/news/ahmedabad-asarva-railway-station-ganja-drug-bust-kadi-raid-139744948.html
+    publisher: Divya Bhaskar
+    date: 2026-11-20
+    language: gu
+  - title: અસારવા રેલવે સ્ટેશન પાસે રિક્ષામાંથી 13.62 કિલો ગાંજો ઝડપાયો, કડીના 3 શખસોની ધરપકડ, ઓરિસ્સાના સપ્લાયર સહિત 3 વોન્ટેડ
+    url: https://gujaratsamachar.com/news/ahmedabad/ganja-seized-from-a-rickshaw-near-asarwa-railway-station-3-people-arrested-for-links-3-wanted-including-supplier-from-odisha-65374825117
+    publisher: Gujarat Samachar
+    date: 2026-11-20
+    language: gu
 open_questions:
-  - No date is given for the interception or the arrests; 20 November 2026 is the publication date and stands in for the incident date.
-  - NavGujarat Samay and Gujarat Samachar give the ganja as 13 kg 622 g, while the Times of India gives 13.6 kg; the report uses 13.622 kg.
-  - The total value of the seizure is ₹7.96 lakh in NavGujarat Samay and Gujarat Samachar and about ₹8 lakh in the Times of India, while NavGujarat Samay also gives ₹7.69 lakh in the same article.
-  - Gujarat Samachar says the three mobile phones were worth ₹55,000, while the Times of India does not price the phones separately.
-  - No remand, charge hearing, plea or court outcome was reported; the case was at the investigation stage.
-  - The three men named as wanted, including the Odisha supplier Ganesh, had not been arrested and police said their identities were being verified.
-  - No laboratory confirmation of the seized substance was reported.
-  - NavGujarat Samay opens with a separate NCB raid on a drug-manufacturing factory in Sarkhej, a different event left out of this report.
-  - Gujarat Post puts the ganja's market value at Rs 6,61,100 and the total property seized at Rs 10,59,840, against Rs 6.81 lakh and Rs 7.96 lakh in the other accounts.
-  - Gujarat Post calls the police station Kotda and the landmark Ahlad Bakery, where the other accounts name Shaherkotda police station and Alka Bakery.
-  - Gujarat Post says the ganja was packed in two bags and does not report the seven packets or the plastic pouch in a jacket described by the other outlets.
-  - Gujarat Post also reports that Ahmedabad police summoned 951 people suspected in NDPS cases and that four NDPS cases were registered in one night in Zone-7; those are separate events left out of this report.
+    - No date is given for the interception or the arrests; 20 November 2026 is the publication date and stands in for the incident date.
+    - NavGujarat Samay and Gujarat Samachar give the ganja as 13 kg 622 g, while the Times of India gives 13.6 kg; the report uses 13.622 kg.
+    - The total value of the seizure is ₹7.96 lakh in NavGujarat Samay and Gujarat Samachar and about ₹8 lakh in the Times of India, while NavGujarat Samay also gives ₹7.69 lakh in the same article.
+    - Gujarat Samachar says the three mobile phones were worth ₹55,000, while the Times of India does not price the phones separately.
+    - No remand, charge hearing, plea or court outcome was reported; the case was at the investigation stage.
+    - 'The accounts disagree about the two couriers: the Times of India, NavGujarat Samay and both Gujarat Samachar editions say Nandkishor and Sumanta were wanted alongside supplier Ganesh, while Divya Bhaskar says the two couriers were rounded up with help from the railway local crime branch.'
+    - No laboratory confirmation of the seized substance was reported.
+    - NavGujarat Samay opens with a separate NCB raid on a drug-manufacturing factory in Sarkhej, a different event left out of this report.
+    - Gujarat Post puts the ganja's market value at Rs 6,61,100 and the total property seized at Rs 10,59,840, against Rs 6.81 lakh and Rs 7.96 lakh in the other accounts.
+    - Gujarat Post calls the police station Kotda and the landmark Ahlad Bakery, where the other accounts name Shaherkotda police station and Alka Bakery.
+    - Gujarat Post says the ganja was packed in two bags and does not report the seven packets or the plastic pouch in a jacket described by the other outlets.
+    - Gujarat Post also reports that Ahmedabad police summoned 951 people suspected in NDPS cases and that four NDPS cases were registered in one night in Zone-7; those are separate events left out of this report.
 ---
 
 Shaherkotda police in Ahmedabad arrested three men from Kadi and seized 13.6 kg
 of ganja from the auto-rickshaw they were travelling in near Asarwa railway
-station on Naroda Road. [@2] Police identified them as Munafkhan alias Bhayo
+station on Naroda Road. [@2,3] Police identified them as Munafkhan alias Bhayo
 Qureshi, 30, Husenkhan Pathan, 27, and the rickshaw driver Sarfaraz alias
 Shahrukh Sheikh, 36, all residents of Kadi in Mehsana district. [@2] Police said
 officers set up a watch near Alka Bakery just past Asarwa railway station and
-stopped the auto-rickshaw there. [@1,4]
+stopped the auto-rickshaw there. [@1,4,5]
 
 Officers found 13 kg 622 g of ganja, packed in seven packets in a bag, in the
 rickshaw. [@1,4] Police valued the ganja at ₹6.81 lakh and put the total value of
@@ -100,12 +110,12 @@ about ₹8 lakh. [@2] Gujarat Samachar said the ganja was hidden in seven packet
 inside two bags, with a plastic pouch concealed in a jacket. [@3]
 
 Police said questioning showed the men had been bringing ganja from Odisha for
-two months and selling it retail in Kadi GIDC and Budhasan GIDC. [@1] Munafkhan
+two months and selling it retail in Kadi GIDC and Budhasan GIDC. [@1,6] Munafkhan
 paid the supplier's man Nandkishor ₹75,000 online through PhonePe and ₹1 lakh in
 cash, police said. [@1] Two men from Odisha, Nandkishor and Sumanta, handed over
-the ganja on the Gomtipur side, police said. [@1] Police stopped the three on
+the ganja on the Gomtipur side, police said. [@1,5] Police stopped the three on
 their way back to Kadi just after they had dropped the two delivery agents at
 the railway station. [@3] Police named Ganesh, described as the Odisha supplier,
-Nand Kishore and Sumanta as wanted and said they were searching for them. [@2,4] Police formed separate teams to trace the three absconding accused. [@4] A
+Nand Kishore and Sumanta as wanted and said they were searching for them. [@2,4,6] Divya Bhaskar reported that Nandkishor and Sumanta were rounded up with the help of the railway police's local crime branch. [@5] Police formed separate teams to trace the three absconding accused. [@4] A
 case was registered at Shaherkotda police station under the Narcotic Drugs and
 Psychotropic Substances (NDPS) Act. [@2] Police described the raid as part of a campaign to make the city drug-free. [@4]
