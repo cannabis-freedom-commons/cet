@@ -79,23 +79,28 @@ sources:
     publisher: L'Unione Sarda German
     date: 2026-11-19
     language: de
+  - title: 'Капотерра: В доме обнаружено более килограмма кокаина; мужчина арестован.'
+    url: https://www.unionesarda.it/ru/%D1%81%D0%B0%D1%80%D0%B4%D0%B8%D0%BD%D0%B8%D1%8F/%D0%BA%D0%B0%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D1%80%D0%B0-%D0%B2-%D0%B4%D0%BE%D0%BC%D0%B5-%D0%BE%D0%B1%D0%BD%D0%B0%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%BE-%D0%B1%D0%BE%D0%BB%D0%B5%D0%B5-%D0%BA%D0%B8%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-%D0%BA%D0%BE%D0%BA%D0%B0%D0%B8%D0%BD%D0%B0-%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD%D0%B0-%D0%B0%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BD-wbvovcqg
+    publisher: L'Unione Sarda Russian
+    date: 2026-11-19
+    language: ru
 ---
 
 Carabinieri from the Capoterra station arrested a man on charges of possession
-of narcotics for the purpose of trafficking and resisting arrest. [@1,3,4,5,7] The
+of narcotics for the purpose of trafficking and resisting arrest. [@1,3,4,5,7,8] The
 operation began during a road-traffic control when the driver's suspicious
 behaviour led officers to carry out a personal search and then a home search.
-[@1,3,4,6,7] During the initial identification the man allegedly resisted, pushing
-officers away while trying to discard a package hidden among his clothes. [@1,4,6,7]
+[@1,3,4,6,7,8] During the initial identification the man allegedly resisted, pushing
+officers away while trying to discard a package hidden among his clothes. [@1,4,6,7,8]
 After completing the formal procedures, the man was taken to the Uta prison,
 where he remains at the disposal of the judicial authorities pending the
-validation hearing. [@1,3,4,6,7]
+validation hearing. [@1,3,4,6,7,8]
 
 Inside the residence officers found approximately 86 grams of marijuana and
 1,160 grams of cocaine, along with materials used to weigh and package
-narcotics. [@1,3,4,6,7] The package hidden in his clothes contained 11 grams of hashish
-and 4 grams of cocaine, already divided into 22 doses ready for sale. [@1,4,5,7]
-Officers seized all the drugs and completed the security operations. [@1,6,7]
+narcotics. [@1,3,4,6,7,8] The package hidden in his clothes contained 11 grams of hashish
+and 4 grams of cocaine, already divided into 22 doses ready for sale. [@1,4,5,7,8]
+Officers seized all the drugs and completed the security operations. [@1,6,7,8]
 
 Carabinieri of the Capoterra station conducted the operation during targeted
 territorial control services aimed at preventing and repressing offences,
