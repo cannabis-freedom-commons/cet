@@ -76,29 +76,32 @@ sources:
     url: https://www.gazetaexpress.com/en/svecla-for-the-silent-action--the-fight-against-drugs-is-unstoppable-and-uncompromising/
     publisher: Gazeta Express
     date: 2026-11-15
-open_questions:
-    - No separate weight was given for the marijuana seized alongside the cocaine.
+  - title: Former Kosovo minister detained in cocaine operation
+    url: https://fakti.bg/en/world/1101241-former-kosovo-minister-detained-in-cocaine-operation
+    publisher: Fakti.bg
+    date: 2026-11-16
+    language: en
 ---
 
 Kosovo Police arrested former culture minister Astrit Haraqija in Operation
 Silence in the Pristina region, an operation against a group suspected of
-trafficking and distributing narcotics. [@2,4,5,6,8] Six suspects were arrested in the
+trafficking and distributing narcotics. [@2,4,5,6,8,9] Six suspects were arrested in the
 raids on several locations and one person was released under regular procedure.
-[@1,3,4,5,6,7] Operation Silence was carried out on Saturday 14 November 2026. [@1,3,4] Every action in the operation was carried out in coordination with the Basic Prosecution Office in Pristina. [@7]
+[@1,3,4,5,6,7,9] Operation Silence was carried out on Saturday 14 November 2026. [@1,3,4,9] Every action in the operation was carried out in coordination with the Basic Prosecution Office in Pristina. [@7]
 Haraqija was interrogated over a drug offence and ordered held for 48 hours.
-[@1]
+[@1,9]
 
 His flat was searched after midnight, his telephones and some money were seized,
-and his lawyer said the search found nothing incriminating. [@1] Haraqija's lawyer Korab Bokshi confirmed the detention and said only telephones and money described as his children's savings were seized. [@4,5] His lawyer said
-they had appealed to the pre-trial judge to challenge the detention order. [@1] Bokshi said Haraqija has no connection to the offence or the other detainees and may have met some of them through political activity without knowing them personally. [@5]
+and his lawyer said the search found nothing incriminating. [@1] Haraqija's lawyer Korab Bokshi confirmed the detention and said only telephones and money described as his children's savings were seized. [@4,5,9] His lawyer said
+they had appealed to the pre-trial judge to challenge the detention order. [@1,9] Bokshi said Haraqija has no connection to the offence or the other detainees and may have met some of them through political activity without knowing them personally. [@5,9]
 The operation was carried out by the Directorate for the Investigation of
 Narcotics Trafficking with the Kosovo Intelligence Agency. [@2,3] Police seized
 about 1.6 kilograms of cocaine, plus other quantities of suspected narcotics
-including marijuana and suspected ecstasy tablets. [@1,5,6,7,8] Police put the total value of the drugs and seized assets at about 301,000 euros. [@3,7,8] Internal Affairs Minister Xhelal Sveçla welcomed the operation in a Facebook post and said the fight against drugs was continuous, unstoppable and uncompromising. [@8] Kosovo Police estimated that the seized cocaine had a street value of around 111,000 euros. [@7] Police also seized about
+including marijuana and suspected ecstasy tablets. [@1,5,6,7,8,9] Police put the total value of the drugs and seized assets at about 301,000 euros. [@3,7,8,9] Internal Affairs Minister Xhelal Sveçla welcomed the operation in a Facebook post and said the fight against drugs was continuous, unstoppable and uncompromising. [@8] Kosovo Police estimated that the seized cocaine had a street value of around 111,000 euros. [@7] Police also seized about
 16,000 euros in cash, six cars and mobile telephones and electronic and
-communications equipment. [@1,7] The seized cash was in euros, Swiss francs, British pounds, Canadian dollars and Albanian lek. [@3] The six seized cars included a Mercedes-Maybach, a Mercedes GLE, a Porsche, an Audi and a VW Tiguan. [@3]
+communications equipment. [@1,7] The seized cash was in euros, Swiss francs, British pounds, Canadian dollars and Albanian lek. [@3] The six seized cars included a Mercedes-Maybach, a Mercedes GLE, a Porsche, an Audi and a VW Tiguan. [@3,9]
 
 The seized evidence also included luxury Rolex and Franck Muller watches,
 jewellery, firearms, ammunition, knives, digital scales and drug packaging
-equipment. [@1,3] Haraqija had been Kosovo's minister of culture, youth and sport
-from 2004 to 2007 under Ramush Haradinaj. [@1]
+equipment. [@1,3,9] Haraqija had been Kosovo's minister of culture, youth and sport
+from 2004 to 2007 under Ramush Haradinaj. [@1] The investigation under Operation Silence was continuing and Kosovo authorities had not announced charges against any specific individuals. [@9]
