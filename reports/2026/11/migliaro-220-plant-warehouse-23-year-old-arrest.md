@@ -96,23 +96,24 @@ sources:
     publisher: Open
     date: 2026-11-20
     language: it
-open_questions:
-    - No weight or street value for the 220 seized plants was published.
-    - The suspect is identified only by his age, with no name or nationality given, and no trial date has been reported.
-    - The plants were described as marijuana; no laboratory confirmation was reported.
+  - title: Ferrara carabinieri intervengono dopo la segnalazione di un blackout e scoprono una serra con 220 piante di marijuana | arrestato 23enne
+    url: https://www.zazoom.it/2026-11-19/ferrara-carabinieri-intervengono-dopo-la-segnalazione-di-un-blackout-e-scoprono-una-serra-con-220-piante-di-marijuana-arrestato-23enne/19949829/
+    publisher: Zazoom Social News
+    date: 2026-11-19
+    language: it
 ---
 
 A power blackout caused by abnormal energy absorption led to the discovery of an
-illegal marijuana greenhouse at Migliaro, in the Ferrara area. [@1,3,4,6] Carabinieri
+illegal marijuana greenhouse at Migliaro, in the Ferrara area. [@1,3,4,6,8] Carabinieri
 arrested a 23-year-old homeless man at a warehouse in Migliaro on the evening of
-Monday 16 November 2026. [@2,5,7] Officers went to the warehouse in Migliaro after a
+Monday 16 November 2026. [@2,5,7,8] Officers went to the warehouse in Migliaro after a
 reported blackout linked to abnormal and excessive electricity consumption
 there. [@2,5,6] The Migliarino station intervened with colleagues from Ostellato and was later supported by Massa Fiscaglia personnel. [@4] Suspicious of a strong smell from the building, officers entered the
 shed and found a hand-built indoor greenhouse with lighting, irrigation and
 forced ventilation. [@1,3,5,6,7]
 
 The grow consisted of 220 marijuana plants about 40 centimetres tall, served by
-lighting, irrigation and forced-ventilation equipment. [@2,3,4,5,6,7] Officers found the
+lighting, irrigation and forced-ventilation equipment. [@2,3,4,5,6,7,8] Officers found the
 23-year-old, who has no fixed address, sleeping inside the building. [@1,3,4,5,6,7] The
 young man immediately admitted that the material found was his. [@2,4,5,6,7]
 
