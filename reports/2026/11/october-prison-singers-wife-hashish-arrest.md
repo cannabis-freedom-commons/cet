@@ -120,24 +120,32 @@ sources:
     publisher: مصر تايمز
     date: 2026-11-19
     language: ar
+  - title: تفاصيل القبض على زوجة إسلام كابونجا.. حشيش وأقراص مخدرة و4 هواتف محمولة
+    url: https://www.elbalad.news/7187742
+    publisher: صدى البلد
+    date: 2026-11-20
+    language: ar
 media:
   - kind: photo
     url: https://www.masrtimes.com/779443
     media_url: https://cdn.masrtimes.com/UploadCache/libfiles/92/0/800x450o/98.webp
     publisher: مصر تايمز
     caption: Photo captioned 'القبض على زوجة إسلام كابونجا' (Arrest of Islam Kabonga's wife), published with the account of her arrest with hashish during a prison visit.
+open_questions:
+    - No weight or value was given for the piece of hashish seized from the visitor.
+    - No charge or court outcome was reported for the visitor; the prosecution was investigating the case.
 ---
 
 Detectives at the October Correction Centre in Giza arrested M. S., the wife of
 mahraganat singer Islam Kabonga, while she was visiting her detained husband.
-[@1,2,3,4,6,8,9,10,12,14,15,16,17,18,19,20] The investigating authorities ordered that she be held for 24 hours pending the results of the criminal investigations. [@19] The suspect was identified as M. S., born in 1999. [@6,16,17] She is known on social media by the nickname Umm Eshq. [@6] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3,13] Her husband was serving a six-month sentence in case 5568 of 2026 for economic misdemeanours in Agouza over incitement to violence. [@6,16,17] The Cairo Economic appeals court had upheld that six-month prison term plus a 100,000-pound fine on 28 September 2026. [@9] The Giza security directorate said Assistant Minister for Giza Security
+[@1,2,3,4,6,8,9,10,12,14,15,16,17,18,19,20,21] The investigating authorities ordered that she be held for 24 hours pending the results of the criminal investigations. [@19] The suspect was identified as M. S., born in 1999. [@6,16,17] She is known on social media by the nickname Umm Eshq. [@6] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3,13,21] Her husband was serving a six-month sentence in case 5568 of 2026 for economic misdemeanours in Agouza over incitement to violence. [@6,16,17] The Cairo Economic appeals court had upheld that six-month prison term plus a 100,000-pound fine on 28 September 2026. [@9] The Giza security directorate said Assistant Minister for Giza Security
 Maj. Gen. Hatem Hassan received a notification of the incident from Maj. Gen.
 Hany Shaarawy, deputy director of criminal investigations. [@1,2] She had brought
 visit goods for her husband, and officers searched those goods during the visit.
 [@1,5,10,11,15] The suspected drugs were hidden professionally inside a bag to evade monitoring. [@5]
 
 The search found four Nokia mobile phones, one large piece of hashish and 52
-tramadol pills. [@1,2,3,4,6,7,8,9,10,12,14,17,18,19] The seized phones were Nokia handsets, the hashish was
+tramadol pills. [@1,2,3,4,6,7,8,9,10,12,14,17,18,19,21] The seized phones were Nokia handsets, the hashish was
 described as a large piece and the tramadol as narcotic pills intended to be
 brought to her husband. [@1] The four seized Nokia phones were small Afreto models without cameras or SIM cards. [@6,16,17] When confronted, she admitted that she possessed
 the seized items in order to bring them in to her husband. [@1,2,4,7,8,9,15,19] In this account she denied knowing about the seized items and said she had received the bag from a 29-year-old driver named Khalil from al-Warraq to take to her husband for use in prison. [@6,12,16,17]
