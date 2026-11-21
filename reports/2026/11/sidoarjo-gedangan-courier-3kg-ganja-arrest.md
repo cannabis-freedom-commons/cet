@@ -99,6 +99,11 @@ sources:
     publisher: KOMPAS.com
     date: 2026-11-20
     language: id
+  - title: Polresta Sidoarjo Tangkap Karyawan Pabrik, Diduga Jadi Kurir Ganja 3 Kilogram
+    url: https://mediaindonesia.com/nusantara/958629/polresta-sidoarjo-tangkap-karyawan-pabrik-diduga-jadi-kurir-ganja-3-kilogram
+    publisher: Media Indonesia
+    date: 2026-11-20
+    language: id
 open_questions:
     - The seized amount is reported as 'about 3 kilograms' (kurang lebih 3 kilogram); detikJatim and Kompas give it as 3,000 grams.
     - Police described four shipments since September 2026 totalling about 11 kilograms, but only the final 3 kilograms was seized; the earlier weights are not included in the seizure figure.
@@ -122,6 +127,11 @@ media:
     media_url: https://asset.kompas.com/crops/A5-L1X7YiDN42t2eTKxNfAn6Mf0=/0x0:0x0/1200x800/data/photo/2026/11/20/6b00089be130b.jpg
     publisher: KOMPAS.com
     caption: 'Suspect AT alias Acle being presented by Sidoarjo police after his arrest for receiving a 3 kg cannabis parcel in Gedangan. Photo: Jack Robby Damarjati/KOMPAS.com'
+  - kind: photo
+    url: https://mediaindonesia.com/nusantara/958629/polresta-sidoarjo-tangkap-karyawan-pabrik-diduga-jadi-kurir-ganja-3-kilogram
+    media_url: https://mediaindonesia.gumlet.io/news/2026/11/20/1795177481_3aebee6e5187ece4f370.jpg?w=700&dpr=1
+    publisher: Media Indonesia
+    caption: 'Photo published with the account of Polresta Sidoarjo stopping circulation of about 3 kilograms of cannabis. Photo: Hery Susetyo / Media Indonesia'
 ---
 
 Police in Sidoarjo, East Java, arrested AT alias Acle, a 29-year-old factory
@@ -132,12 +142,12 @@ The operation began with a public tip-off about a suspected drug transaction in
 Gedangan, police said. [@3,4,10,11] After surveillance, officers used a disguise to confirm the suspect's whereabouts and arrested him at a warung in the Keboananom area of Gedangan. [@8] Sidoarjo police chief AKBP Bobby Adimas Condroputra announced the arrest on 20 November 2026. [@6]
 
 Officers seized 3 kilograms of cannabis packed in a cardboard box and one mobile
-phone used for the transactions. [@3,6,7,8,10,11] The seized phone was a blue Samsung A07. [@10] Police also seized a blue Samsung A07 mobile phone. [@4] Police said the parcel was the fourth
+phone used for the transactions. [@3,6,7,8,10,11] The parcel seized on 16 November arrived through Lion Parcel under receipt number 11LP1794296872578 and was taken before it could be passed on. [@12] The seized phone was a blue Samsung A07. [@10] Police also seized a blue Samsung A07 mobile phone. [@4] Police said the parcel was the fourth
 delivery in a series since September 2026, with an accumulated 11 kilograms
-received across the four shipments. [@3,6,7,11] AT said he worked as an intermediary who picked up the parcels and left them at set points for others to collect, a method police call the 'sistem ranjau' (dead-drop system). [@11] The 16 November parcel of 3 kilograms arrived through the courier Lion Parcel and was seized before it could be redistributed. [@10] On 22 October 2026 he received about 4 kilograms, left about 1 kilogram at a set location, and handed about 3 kilograms to a person known as IYEK at his house on Bendot's instruction. [@10] In early October 2026 he received about another 2 kilograms and left it at a different spot in the same warehouse area. [@10] On the first delivery in early September 2026 he received about 2 kilograms of cannabis and left it in roadside bushes near the Tambak Sawah warehouse area in Waru. [@10] The final parcel arrived through Lion Parcel with tracking number 11LP1794296872578. [@5,6] A second delivery of about 2 kilograms followed in early October 2026, and a third on 22 October 2026 brought about 4 kilograms, of which about 1 kilogram was left at a drop point and 3 kilograms handed to a person identified as IYEK at the suspect's home. [@5,6,7] The first shipment, in early September 2026, was about 2 kilograms and was left in bushes by the road near the Tambak Sawah warehousing area in Waru district. [@5,6,7] AT allegedly acted on orders from a
+received across the four shipments. [@3,6,7,11] On 22 October 2026 he received 4 kilograms; 1 kilogram was left at a spot set by the controller and the remaining 3 kilograms were handed to a person known as Iyek at the suspect's house on Bendot's orders. [@12] On the second shipment, in early October 2026, he again received 2 kilograms and left it at a different point around the same warehouse area. [@12] On the first shipment, in early September 2026, he received about 2 kilograms of cannabis and left it in roadside bushes at the Tambak Sawah warehouse area in Waru district. [@12] AT said he worked as an intermediary who picked up the parcels and left them at set points for others to collect, a method police call the 'sistem ranjau' (dead-drop system). [@11] The 16 November parcel of 3 kilograms arrived through the courier Lion Parcel and was seized before it could be redistributed. [@10] On 22 October 2026 he received about 4 kilograms, left about 1 kilogram at a set location, and handed about 3 kilograms to a person known as IYEK at his house on Bendot's instruction. [@10] In early October 2026 he received about another 2 kilograms and left it at a different spot in the same warehouse area. [@10] On the first delivery in early September 2026 he received about 2 kilograms of cannabis and left it in roadside bushes near the Tambak Sawah warehouse area in Waru. [@10] The final parcel arrived through Lion Parcel with tracking number 11LP1794296872578. [@5,6] A second delivery of about 2 kilograms followed in early October 2026, and a third on 22 October 2026 brought about 4 kilograms, of which about 1 kilogram was left at a drop point and 3 kilograms handed to a person identified as IYEK at the suspect's home. [@5,6,7] The first shipment, in early September 2026, was about 2 kilograms and was left in bushes by the road near the Tambak Sawah warehousing area in Waru district. [@5,6,7] AT allegedly acted on orders from a
 controller known as Bendot, who is on a wanted list. [@3,6,11] Police said they were still working to establish his role and to trace the alleged controller and others in the network. [@7] Police put the
 economic value of the cannabis evidence at 120 million rupiah. [@4,9,10,11] The suspect was held in a cell at the Sidoarjo police headquarters for further examination and legal processing. [@8] Police estimated the case had saved about 20,000 people from potential drug abuse. [@4]
 
 He was charged under Article 114(2) or 111(2) of Indonesia's 2009 Narcotics Law,
-as adjusted by a 2026 law. [@2,5,6,10,11] The offence carries a maximum sentence of life
-imprisonment or the death penalty. [@2,6,10] AT is being held at the Sidoarjo police detention centre (Rumah Tahanan Polresta Sidoarjo). [@11]
+as adjusted by a 2026 law. [@2,5,6,10,11,12] The offence carries a maximum sentence of life
+imprisonment or the death penalty. [@2,6,10,12] AT is being held at the Sidoarjo police detention centre (Rumah Tahanan Polresta Sidoarjo). [@11]
