@@ -53,16 +53,21 @@ sources:
     publisher: بوابة مولانا
     date: 2026-11-14
     language: ar
+  - title: ضبط تاجر مخدرات بـ16 كيلو استروكس وحشيش وبندقية آلية في حلوان
+    url: https://ekhbary24.com/article/64804
+    publisher: إخباري 24 نيوز
+    date: 2026-11-21
+    language: ar
 ---
 
 Cairo security forces arrested a drug dealer in Helwan and found drugs and an
-automatic rifle with him. [@1] Helwan detectives stopped the man in the
-Al-Sharea Al-Gharbi area of Helwan while he was riding in a car. [@2,3] Officers
+automatic rifle with him. [@1,4] Helwan detectives stopped the man in the
+Al-Sharea Al-Gharbi area of Helwan while he was riding in a car. [@2,3,4] Officers
 found 6 kilograms of hashish and an automatic rifle inside the car, alongside 10
-kilograms of strox. [@2,3]
+kilograms of strox. [@2,3,4]
 
 Investigations said the suspect lives in Al-Saff city in Giza and was carrying
-the drugs in the car to sell to customers. [@2,3] When questioned, he admitted
+the drugs in the car to sell to customers. [@2,3,4] When questioned, he admitted
 possessing the seized drugs to trade in them and keeping the firearm to defend
 his activity. [@1] Officers filed the necessary report and the prosecution took
-over the investigation. [@1,3]
+over the investigation. [@1,3,4]
