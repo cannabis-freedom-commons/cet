@@ -65,6 +65,11 @@ sources:
     publisher: Portal de Prefeitura
     date: 2026-11-19
     language: pt
+  - title: Polícia erradica mais de 71 mil pés de maconha em operação na zona rural de Belém do São Francisco, em Pernambuco
+    url: https://cidadesnanet.com/portal/municipios/pernambuco/policia-erradica-mais-de-71-mil-pes-de-maconha-em-operacao-na-zona-rural-de-belem-do-sao-francisco-em-pernambuco/
+    publisher: Cidades na Net
+    date: 2026-11-20
+    language: pt
 open_questions:
   - No arrests, suspect identifications, charges or court outcomes were reported for this eradication.
   - No figure for the area of the four plots was published.
@@ -73,17 +78,17 @@ open_questions:
 
 Police officers destroyed and incinerated more than 71,000 cannabis plants
 during an eradication operation carried out on Wednesday 18 November in Belém do
-São Francisco, in the Sertão region of Pernambuco. [@1,3,4] The action was conducted
+São Francisco, in the Sertão region of Pernambuco. [@1,3,4,5] The action was conducted
 as part of Operation Carcará XX, which was launched by the 1st Independent
 Company of Military Police together with the Federal Police with the stated aim
-of combating drug trafficking. [@1,3,4]
+of combating drug trafficking. [@1,3,4,5]
 
 Officers located the cannabis plants after searches in the rural zone of the
 municipality during the operation, finding them distributed across four separate
-plots. [@1,3,4] Officers counted a total of 71,701 cannabis plants across the four
-plots, and those identified plants were destroyed during the operation. [@2,3,4]
+plots. [@1,3,4,5] Officers counted a total of 71,701 cannabis plants across the four
+plots, and those identified plants were destroyed during the operation. [@2,3,4,5]
 
 In the same operation officers also seized 8.7 kilograms of cannabis that had
-already been harvested and was described as ready for consumption. [@2,3,4] The
+already been harvested and was described as ready for consumption. [@2,3,4,5] The
 operation was reported as part of continuing ongoing integrated actions against
 the cultivation and commercialization of drugs in the Sertão of Pernambuco. [@2]
