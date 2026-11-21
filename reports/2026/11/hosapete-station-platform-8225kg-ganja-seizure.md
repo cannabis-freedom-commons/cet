@@ -42,28 +42,25 @@ sources:
     publisher: GSTV
     date: 2026-11-19
     language: gu
-open_questions:
-  - No separate date was given for the search or the seizure, so 19 November 2026, the publication date, is used as the incident date.
-  - No owner of the bag, suspect, or arrest was reported.
-  - No origin or intended destination of the consignment was reported.
-  - The Rs 8.25 lakh figure is the excise officials' estimate, not an independently verified market value.
-  - The material was described as dry ganja with no forensic laboratory confirmation reported.
-  - Only one account of this seizure was opened, so it rests on a single report with no independent corroboration.
+  - title: Excise and RPF seize 8.225 kg of dry ganja worth Rs 8.25 lakh at Vijayanagara
+    url: https://hospet.online/excise-and-rpf-seize-8-225-kg-of-dry-ganja-worth-rs-8-25-lakh-at-vijayanagara/
+    publisher: hospet.online
+    date: 2026-11-20
 ---
 
 Excise Department officials and Railway Protection Force (RPF) personnel held a
-joint search at Hosapete Railway Station to prevent drug smuggling. [@1] The
+joint search at Hosapete Railway Station to prevent drug smuggling. [@1,3] The
 checking team concentrated its work on Platform No. 1 of the station, where the
-subsequent seizure was made. [@1] The search was carried out with the assistance
+subsequent seizure was made. [@1,3] The search was carried out with the assistance
 of Alex, a police narcotics dog deployed to support the anti-smuggling check.
-[@1] During the search the officials found a red bag on the platform and opened
-it for checking. [@1] The red bag contained five separate packets filled with
-dry ganja. [@1]
+[@1,3] During the search the officials found a red bag on the platform and opened
+it for checking. [@1,3] The red bag contained five separate packets filled with
+dry ganja. [@1,3]
 
 Excise officials said the five packets together weighed 8.225 kilograms of dry
-ganja in total. [@1,2] They estimated the market worth of the seized consignment
+ganja in total. [@1,2,3] They estimated the market worth of the seized consignment
 at Rs 8.25 lakh, presenting the figure as the official assessed value of the
-drugs. [@1] Excise Sub-inspector H Veeramma registered a case under the Narcotic
-Drugs and Psychotropic Substances (NDPS) Act over the platform seizure. [@1] She
+drugs. [@1,3] Excise Sub-inspector H Veeramma registered a case under the Narcotic
+Drugs and Psychotropic Substances (NDPS) Act over the platform seizure. [@1,3] She
 then took up further investigation of the NDPS case arising from the seizure.
-[@1] Investigators were examining where the ganja had been brought from and where it was to be delivered. [@2]
+[@1,3] Investigators were examining where the ganja had been brought from and where it was to be delivered. [@2]
