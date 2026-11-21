@@ -40,34 +40,42 @@ sources:
     publisher: La Cuyabra Radio
     date: 2026-11-20
     language: es
+  - title: 'Cayeron en la terminal: viajaban en bus interdepartamental con más de 17 kilos de marihuana'
+    url: https://cronicadelquindio.com/judicial/cayeron-en-la-terminal-viajaban-en-bus-interdepartamental-con-mas-de-17-kilos-de-marihuana/
+    publisher: Crónica del Quindío
+    date: 2026-11-20
+    language: es
 open_questions:
-    - No separate date for the operation was published; 19 November 2026, the date of the first police post, is used as the incident date.
-    - The marijuana was described as 16 packages weighing more than 17 kilograms, with no laboratory confirmation or more precise weight reported.
-    - No names were published for the 19-year-old man or the 17-year-old girl, and no value estimate was given for the drug.
-    - The girl was placed under an aprehensión, a juvenile procedure distinct from arrest; what it involved and where she was taken were not reported.
-    - No detention measure, first appearance or court date was reported after both were placed at the disposal of the competent authorities.
-    - No reporting independent of the police account was found; both accounts rest on police information.
+    - No separate date for the operation was given; 19 November 2026, the publication date of the earliest account, is used as the incident date.
+    - The weight was reported as more than 17 kilograms of marijuana in 16 packages, with no laboratory confirmation; the recorded figure remains 17 kg.
+    - No names were reported for the adult or the teenager, though their ages were given as 19 and 17.
+    - The suspected offence was stated as tráfico, fabricación o porte de estupefacientes, but no detention measure or court outcome was reported and the case remains at the investigation stage.
 media:
   - kind: photo
     url: https://lacuyabraradio.com/2026/11/20/incautan-mas-de-17-kilos-de-marihuana-en-un-bus-interdepartamental-en-la-terminal-de-armenia/
     media_url: https://lacuyabraradio.com/wp-content/uploads/2026/11/incautan-mas-de-17-kilos-de-marihuana-en-un-bus-interdepartamental-en-la-terminal-de-armenia-la-cuyabra-radio.jpg
     publisher: La Cuyabra Radio
     caption: Police officers with a handcuffed young man behind packages of seized drugs at the terminal police station, in the photo published with the report.
+  - kind: photo
+    url: https://cronicadelquindio.com/judicial/cayeron-en-la-terminal-viajaban-en-bus-interdepartamental-con-mas-de-17-kilos-de-marihuana/
+    media_url: https://cronicadelquindio.com/wp-content/uploads/2026/11/Las-personas-aprehendidas-se-desplazaban-en-un-bus-interdepartamental-que-cubria-la-ruta-entre-las-ciudades-de-Cali-y-Bogota-1200x628.webp
+    publisher: Crónica del Quindío
+    caption: 'The interdepartmental bus on the Cali–Bogotá route in which the two people were travelling when the marijuana was found. Photo: Crónica del Quindío'
 ---
 
 Control operations led to the capture of an adult and the apprehension of a
-teenage girl who were transporting marijuana on an interdepartmental bus. [@1,2]
+teenage girl who were transporting marijuana on an interdepartmental bus. [@1,2,3]
 The two people detained in the bus case were one adult, reported as captured,
-and one adolescent girl, reported as apprehended. [@1,2] The adult was a 19-year-old man and the teenager a 17-year-old girl. [@2] The pair were accused of
-moving marijuana while travelling on a bus in service between departments. [@1,2]
+and one adolescent girl, reported as apprehended. [@1,2,3] The adult was a 19-year-old man and the teenager a 17-year-old girl. [@2,3] The pair were accused of
+moving marijuana while travelling on a bus in service between departments. [@1,2] The pair were placed at the disposal of the competent authority to answer for the suspected offence of tráfico, fabricación o porte de estupefacientes (trafficking, manufacture or possession of narcotics). [@3]
 
 Officers connected 17 kilos of drugs to the detentions carried out at the bus
-terminal. [@1,2] The 17-kilo amount was described as marijuana that had been
-carried on the interdepartmental bus. [@1,2] The marijuana was in 16 packages and weighed more than 17 kilos, according to the police report. [@2] The detentions took place at a bus
-terminal in the Eje Cafetero. [@1] The terminal was the Terminal de Transportes de Armenia, which the report calls the main land terminal in Quindío. [@2]
+terminal. [@1,2,3] The 17-kilo amount was described as marijuana that had been
+carried on the interdepartmental bus. [@1,2,3] The marijuana was found in 16 packages in the passengers' luggage. [@3] The marijuana was in 16 packages and weighed more than 17 kilos, according to the police report. [@2] The detentions took place at a bus
+terminal in the Eje Cafetero. [@1,3] The terminal was the Terminal de Transportes in Armenia, capital of Quindío. [@3] The terminal was the Terminal de Transportes de Armenia, which the report calls the main land terminal in Quindío. [@2]
 
 The Eje Cafetero terminal case involved a bus service of the interdepartmental
-network. [@1] The bus was on the Cali–Bogotá route. [@2] Police control work at the terminal focused on the bus and the
-passengers travelling in it. [@1,2] The adult remained in capture and the teenager
+network. [@1,3] The bus was on the route between Cali and Bogotá. [@3] The bus was on the Cali–Bogotá route. [@2] Police control work at the terminal focused on the bus and the
+passengers travelling in it. [@1,2] The operation was carried out by the Policía Nacional (National Police). [@3] The adult remained in capture and the teenager
 remained in apprehension as the reported outcome of the terminal check. [@1,2] Both were placed at the disposal of the competent authorities on suspicion of drug trafficking, manufacture or possession. [@2] The
 operation is dated to 19 November 2026. [@1]
