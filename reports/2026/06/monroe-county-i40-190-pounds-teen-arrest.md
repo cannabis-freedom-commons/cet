@@ -36,28 +36,37 @@ sources:
     publisher: FOX13 Memphis
     archived: https://web.archive.org/web/20260626112438id_/https://www.fox13memphis.com/news/17-year-old-arrested-over-150-pounds-of-marijuana-found-in-car-asp-says/article_7e985bf1-950f-454c-bdd1-0c48a390d70a.html
     date: 2026-06-23
+  - title: ASP SEIZES 190 POUNDS OF MARIJUANA DURING TRAFFIC STOP ON I-40
+    url: https://dps.arkansas.gov/news/asp-seizes-190-pounds-of-marijuana-during-traffic-stop-on-i-40/
+    publisher: Arkansas Department of Public Safety
+    date: 2026-06-23
 open_questions:
-  - The article gives no separate date for the traffic stop; 23 June 2026 is its publication date and is used as the incident date.
-  - The opening describes over 150 pounds while the body reports 190 pounds; the specific 190-pound figure is used for the cannabis quantity.
-  - Only one accessible source for this event was found after searching; no separate Arkansas State Police statement could be opened.
-  - No charges, juvenile proceedings or court outcome for the 17-year-old were reported.
+    - The FOX13 Memphis headline described over 150 pounds while its body and the Arkansas State Police release report 190 pounds; the 190-pound figure is used for the cannabis quantity.
+    - No charges, juvenile proceedings or court outcome for the 17-year-old were reported.
+    - The Arkansas State Police release gives no value estimate for the seized marijuana.
+    - The stop itself took place on Monday 22 June 2026, the day before the state police release was published on 23 June 2026.
+media:
+  - kind: photo
+    url: https://dps.arkansas.gov/news/asp-seizes-190-pounds-of-marijuana-during-traffic-stop-on-i-40/
+    media_url: https://media.ark.org/dps/I-40-Monroe-County-190-lbs.-Marijuana-Seizure-June-22-2026-600x480.jpg
+    publisher: Arkansas Department of Public Safety
+    caption: 'Arkansas State Police photo published with the department''s release, captioned in its file name as the 190-pound marijuana seizure on I-40 in Monroe County. Photo: Arkansas State Police'
 ---
 
 Arkansas State Police arrested a 17-year-old after officers found marijuana in a
-car on Interstate 40 in Arkansas. [@1] Arkansas State Police, abbreviated as
+car on Interstate 40 in Arkansas. [@1,2] The driver was a 17-year-old from Oklahoma City. [@2] Arkansas State Police, abbreviated as
 ASP, was the agency credited with reporting the arrest and seizure. [@1]
 Officers transported the teenager to the Brinkley Police Department immediately
-after the arrest. [@1] The suspect was then transported from Brinkley to the
-Craighead County Juvenile Detention Center for detention. [@1]
+after the arrest. [@1,2] The suspect was then transported from Brinkley to the
+Craighead County Juvenile Detention Center for detention. [@1,2]
 
 ASP troopers seized 190 pounds of marijuana, about 86.2 kilograms, during the
-traffic stop on Interstate 40. [@1] Troopers stopped a black Chevrolet
+traffic stop on Interstate 40. [@1,2] Troopers seized the marijuana in 190 one-pound bags. [@2] Troopers stopped a black Chevrolet
 Silverado, spelled Cheverolet in the report, on Interstate 40 in Monroe County
-around 6:00 a.m. [@1] Police said they stopped the vehicle for a traffic
-violation before searching it. [@1] While searching the vehicle, officers found
-the marijuana in the bed of the truck. [@1]
+around 6:00 a.m. [@1,2] The stop took place on Monday 22 June 2026 at the 217-mile marker of Interstate 40 in Monroe County. [@2] Police said they stopped the vehicle for a traffic
+violation before searching it. [@1,2] While searching the vehicle, officers found
+the marijuana in the bed of the truck. [@1,2]
 
 The report also describes the case as over 150 pounds of marijuana found in the
 car. [@1] The Interstate 40 stop in Monroe County was the only location named
 for the seizure and arrest. [@1]
-
