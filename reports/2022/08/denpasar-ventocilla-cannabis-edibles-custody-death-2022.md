@@ -44,21 +44,17 @@ sources:
     url: https://www.thecrimson.com/article/2022/8/26/peruvian-foreign-ministry-responds-to-allegations
     publisher: The Harvard Crimson
     date: 2022-08-26
-open_questions:
-  - No prosecution, charge or court outcome for the cannabis items was reported; Marallano was released and returned to Peru.
-  - The 231.65 grams of edibles is the weight of seized items suspected to contain marijuana, not a laboratory-tested cannabis weight.
-  - Whether the cannabis items belonged to Ventocilla or to Marallano, and what prescription medication the family referred to, was not established.
-  - 'The cause of death is disputed: police cite organ failure after unseized narcotics, the family alleges mistreatment and extortion, and no independent autopsy was permitted in Indonesia.'
-  - The family's statement and the Peruvian ministry's statement are reported indirectly through media; no separate Indonesian police statement could be opened.
-  - 'Left out, as its quotation was not found in The Harvard Crimson: A police spokesperson said the cause of death was a complete failure of body function leading to impaired kidney, liver and nervous-system function.'
-  - 'Left out, as its quotation was not found in The Harvard Crimson: Marallano was released and returned to Peru.'
-  - 'Left out, as its quotation was not found in The Harvard Crimson: The family said Indonesian officials have not allowed an independent autopsy, so the real cause of death remains unknown.'
+  - title: Un joven trans peruano muere en Bali tras ser detenido en el aeropuerto
+    url: https://elpais.com/internacional/2022-08-31/un-joven-trans-peruano-muere-en-bali-tras-ser-detenido-en-el-aeropuerto.html
+    publisher: El País
+    date: 2022-08-31
+    language: es
 ---
 
 Peruvian Rodrigo Ventocilla, a 32-year-old transgender activist studying at
 Harvard University, was detained at Bali's Denpasar-Ngurah airport on 6 August
-2022. [@1] His husband Sebastián Marallano arrived on a different flight and was
-also detained when he tried to help him. [@1] Peru's foreign ministry said
+2022. [@1] The couple had travelled to Indonesia for their honeymoon on 6 August 2022, on separate flights. [@3] His husband Sebastián Marallano arrived on a different flight and was
+also detained when he tried to help him. [@1] Ventocilla's lawyers and family said the problems began when police saw the difference between his gender identity and the details on his identity document. [@3] Peru's foreign ministry said
 Indonesian authorities reported that the detention followed the discovery in
 their luggage of items containing traces of cannabis and various products made
 from it. [@1]
@@ -78,4 +74,3 @@ known that Indonesia maintains a zero-tolerance policy on possession of drugs
 and drug products. [@1] Authorities seized several items suspected to contain
 marijuana from Ventocilla, including an herb grinder and edibles weighing 231.65
 grams, according to Bali police. [@2]
-
