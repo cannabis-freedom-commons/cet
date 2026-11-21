@@ -37,6 +37,11 @@ media:
     media_url: https://dmpnews.org/wp-content/uploads/2026/11/9-2.jpg
     publisher: DMP News (Dhaka Metropolitan Police)
     caption: 'Photo published with the Dhaka Metropolitan Police statement on the Special Response Unit operation and the 33 kg ganja seizure in Demra. Photo: Dhaka Metropolitan Police'
+  - kind: photo
+    url: https://www.dhakatimes24.com/2026/11/20/417544
+    media_url: https://img.dhakatimes24.com/assets/news_photos/2026/11/20/image-417544.jpg
+    publisher: Dhaka Times 24
+    caption: Lead photograph published with the Dhaka Times report on the four arrests and 33 kg ganja seizure in Demra and Banshal.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 2936e729600b682bd8b0b1672a519df4
@@ -52,6 +57,16 @@ sources:
     publisher: DMP News (Dhaka Metropolitan Police)
     date: 2026-11-20
     language: bn
+  - title: বংশালে ৩৩ কেজি গাঁজাসহ চার মাদক কারবারি গ্রেপ্তার
+    url: https://www.dhakatimes24.com/2026/11/20/417544
+    publisher: Dhaka Times 24
+    date: 2026-11-20
+    language: bn
+  - title: রাজধানীর ডেমরা এলাকা হইতে ৩৩ কেজি গাঁজাসহ চার মাদক কারবারিকে গ্রেফতার করেছে এসআরইউ
+    url: https://sorejominbarta.com/country/article/67214
+    publisher: Sorejomin Barta
+    date: 2026-11-20
+    language: bn
 open_questions:
   - The 33 kg was described only as ganja, with no laboratory confirmation reported.
   - Police did not say at which of the two locations the 33 kg of ganja was recovered.
@@ -64,18 +79,17 @@ open_questions:
 
 Dhaka Metropolitan Police's Special Response Unit (SRU) arrested four men
 described as drug traffickers with 33 kilograms of ganja in the Demra area of
-the capital. [@1] The DMP statement gave the four men's ages as 42, 29, 29 and
-20. [@2] The Special Response Unit is one of the specialised units of the Dhaka
+the capital. [@1,3] The DMP statement gave the four men's ages as 42, 29, 29 and
+20. [@2,3] The Special Response Unit is one of the specialised units of the Dhaka
 Metropolitan Police, which polices the capital. [@1]
 
 Officers arrested the first of the four at about 08:15 on Thursday in the Demra
-Staff Quarter area under Demra police station. [@1] The DMP statement dated that
+Staff Quarter area under Demra police station. [@1,4] The DMP statement dated that
 first raid to Thursday 19 November. [@2] Acting on information he gave, police
 arrested the other three at about 12:30 the same day in an area under Banshal
-police station. [@1] Officers recovered 33 kilograms of ganja from the four.
-[@1]
+police station. [@1,3] Officers recovered 33 kilograms of ganja from the four.
+[@1,3]
 
 The Dhaka Metropolitan Police media centre announced the arrests in a press
-release sent to the media on Friday 20 November. [@1] Police said legal action
-against the four was under way. [@2]
-
+release sent to the media on Friday 20 November. [@1,3] Police said legal action
+against the four was under way. [@2,3]
