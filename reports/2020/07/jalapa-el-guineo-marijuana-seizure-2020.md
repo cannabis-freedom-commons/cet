@@ -51,6 +51,11 @@ sources:
     publisher: El 19 Digital
     date: 2020-07-16
     language: es
+  - title: Incautación de marihuana y ocupación de semovientes
+    url: https://www.el19digital.com/articulos/ver/105307-incautacion-de-marihuana-y-ocupacion-de-semovientes
+    publisher: El 19 Digital
+    date: 2020-07-16
+    language: es
 open_questions:
   - Only the Army's own press note, republished by El 19 Digital, was found; no independent reporting or follow-up was located.
   - The note gives no charges, court steps or outcome for the detained man beyond his handover to the authorities.
@@ -61,19 +66,18 @@ open_questions:
 
 Nicaraguan Army troops detained a man carrying three packages of marijuana at
 the unauthorized crossing known as El Guineo, about 7 km northwest of the
-community of Teotecacinte in the municipality of Jalapa, Nueva Segovia. [@1] The
+community of Teotecacinte in the municipality of Jalapa, Nueva Segovia. [@1,2] The
 packages held 1,377 grams (about 1.38 kg) of marijuana, and the troops also took
-a motorcycle without documents and a mobile phone. [@1]
+a motorcycle without documents and a mobile phone. [@1,2]
 
 The operation was carried out on 14 July 2020 by the First Regional Military
 Command under the state strategy “Muro de Contención”, or Containment Wall,
-which targets state borders. [@1] The Army's press note names the detained
-Nicaraguan as Edwin Antonio Rivera López, aged 31. [@1] The man, the marijuana,
+which targets state borders. [@1,2] The Army's press note names the detained
+Nicaraguan as Edwin Antonio Rivera López, aged 31. [@1,2] The man, the marijuana,
 the money and the other items taken were handed over to the corresponding
-authorities; the note reports no charge or court step. [@1] The note puts the
-operation's strength at 25 soldiers. [@1]
+authorities; the note reports no charge or court step. [@1,2] The note puts the
+operation's strength at 25 soldiers. [@1,2]
 
 The same note also reports a separate action, in which the Sixth Regional
 Military Command took six head of livestock valued at 132,000 córdobas at
-Wamblancito, east of Wiwilí in Jinotega, and detained two men. [@1]
-
+Wamblancito, east of Wiwilí in Jinotega, and detained two men. [@1,2]
