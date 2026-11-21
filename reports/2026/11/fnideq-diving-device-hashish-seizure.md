@@ -48,23 +48,27 @@ sources:
     publisher: النهار المغربية
     date: 2026-11-19
     language: ar
+  - title: الفنيدق.. إحباط محاولة لتهريب الحشيش عبر البحر باستعمال معدات غوص
+    url: https://tanjanews.com/193298.html
+    publisher: مجلة طنجة نيوز
+    date: 2026-11-20
+    language: ar
 open_questions:
-  - No weight was published for the hashish seized in Fnideq, described only as a quantity or significant quantity.
-  - No separate date was given for the operation; 19 November 2026 is the publication date used as the incident date.
-  - No arrests, suspects or detention measures were reported; the reports say investigations to identify users are ongoing.
-  - The 60 to 90 kilograms per operation is a specialist's general estimate for the diver-smuggling method, not a weight for this seizure, and is excluded from figures.
-  - The 40,000 to 75,000 euro range is a general market price range for such diving devices, not a valuation of the seized device.
-  - The text gives a weight ("90 kilograms") but the figures have no kg_seized; check whether it belongs there.
+    - No weight was published for the hashish seized in Fnideq, described only as a shipment or a quantity.
+    - No arrests or detention measures were reported; the suspects escaped and investigations to identify them are ongoing.
+    - It was not reported how the suspects escaped, or whether any boat or vehicle was seized with the diving gear.
+    - The 60 to 90 kilograms per operation is a specialist's general estimate for the diver-smuggling method, not a weight for this seizure, and is excluded from figures.
+    - The 40,000 to 75,000 euro range is a general market price range for such diving devices, not a valuation of the seized device.
 ---
 
 Officers of the Fnideq judicial centre of the Royal Gendarmerie seized a
-professional underwater self-propulsion device and a quantity of hashish. [@1]
+professional underwater self-propulsion device and a quantity of hashish. [@1,3]
 The operation was conducted under the Tetouan regional and Mdiq-Fnideq
 provincial gendarmerie commands as part of surveillance of the kingdom's
-northern coasts against criminal exploitation of sea routes. [@2] Investigations
+northern coasts against criminal exploitation of sea routes. [@2,3] The gendarmerie stopped the attempt on Thursday 19 November 2026 as the hashish was being taken by sea toward the Spanish enclave of Ceuta. [@3] Investigations
 under the competent public prosecution are expected to establish the equipment's
 source, the identity of its users and any link to the network known as
-Al-Ghassasa. [@2]
+Al-Ghassasa. [@2] The gendarmerie said its inquiries were continuing to identify the suspects, arrest them and uncover the criminal network's other branches and the parties that provide its logistics for smuggling along the northern coasts. [@3] The suspects escaped and none was arrested. [@3]
 
 The device is a specialized professional diving apparatus that lets users travel
 underwater by electric propulsion and cover sea distances without traditional
@@ -82,4 +86,3 @@ stages of transport, allowing multiple sea means and routes that complicate
 security monitoring. [@2] A specialist estimated that divers using this method
 can move between 60 and 90 kilograms per operation, a general estimate for the
 method rather than a weight for this seizure. [@2]
-
