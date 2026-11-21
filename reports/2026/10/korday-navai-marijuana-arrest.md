@@ -150,16 +150,25 @@ sources:
     publisher: Мойка78
     date: 2026-10-15
     language: ru
+  - title: Рэпера Navai арестовали в Казахстане на два месяца по подозрению в контрабанде наркотиков
+    url: https://ura.news/news/1053136305
+    publisher: URA.RU
+    date: 2026-10-15
+    language: ru
 media:
   - kind: photo
     url: https://news.ru/culture/navai-arestovali-po-delu-o-kontrabande-narkotikov-v-kazahstane
     media_url: https://images.news.ru/2026/10/14/KdrW0hWfjBs0G4p8FWQe8w5hbMI5lYoQ9he9bFDe_780.jpg
     publisher: NEWS.ru
     caption: 'Portrait of the rapper Navai published with the report of his arrest in Kazakhstan. Photo: Pavel Kashaev/Global Look Press'
+  - kind: photo
+    url: https://ura.news/news/1053136305
+    media_url: https://cdn-img.ura.news/553/313/e36dc18e-69c2-4156-b41e-c19832b6da62/h4y3tm/M-760.1.5.webp
+    publisher: URA.RU
+    caption: 'Photo of Russian rapper Navai Bakirov published with the report of his arrest in Kazakhstan. Photo: Razmik Zakaryan / URA.RU'
 open_questions:
-  - The reported amount of marijuana differs between accounts, with both 2.5 g and 10 g reported.
-  - The type of the seized substance was not officially confirmed; accounts described marijuana or a plant-based drug.
-  - Kazakh police did not publish the numbers of the criminal-code articles or their parts under which the case was opened.
+    - The reported amount of marijuana differs between accounts, with both 2.5 g and 10 g reported.
+    - Some accounts date the detention of the two other people in the car to 14 October rather than 13 October.
 ---
 
 Police and border guards detained the Russian rapper Navai, real name Navai Bakirov, at the Korday
@@ -176,7 +185,7 @@ later released [@11,20], while investigators established who owned the substance
 Police opened a criminal case for attempted smuggling of narcotics [@1,7,10,11,17,21] under Article 286 of
 the Criminal Code, which allows up to five years in prison [@4]; the charges were reported as smuggling
 and unlawful transportation of narcotics without intent to sell. [@5,11,20] The Korday district court ordered
-him held in custody for two months. [@5,6,8,15,16,17,18,19,20,23] Questioned, he admitted buying the drugs in Bishkek
+him held in custody for two months. [@5,6,8,15,16,17,18,19,20,23,24] The Korday district court made that order on the morning of 15 October. [@24] Questioned, he admitted buying the drugs in Bishkek
 [@8,9,15,16,17,20] Navai said he knew that storing drugs was banned but had not expected the car to be searched. [@20], and Kyrgyzstan's border service opened an internal inquiry into how he crossed with
 them. [@8,17] On 20 October police said the case had been closed on non-rehabilitating grounds, citing a
 first offence and active remorse, and that he had been expelled from Kazakhstan. [@14,16]
@@ -184,10 +193,10 @@ first offence and active remorse, and that he had been expelled from Kazakhstan.
 ## The tour
 
 Navai had been due to perform on 14 October at the Zhaksylyk Ushkempirov Martial Arts Palace in Astana;
-the concert was cancelled for reported technical reasons [@1,3,4,5,7,11,15,20] and postponed indefinitely,
+the concert was cancelled for reported technical reasons [@1,3,4,5,7,11,15,20,24] and postponed indefinitely,
 with refunds for spectators. [@7,11,17] His tour had run since 9 July through Russia, Uzbekistan,
 Kyrgyzstan, Kazakhstan and Moldova, with a concert in Bishkek on 12 October [@7]; he had been in Tashkent
-shortly before. [@4] The Chisinau concert planned for 16 October was moved to 8 December. [@15]
+shortly before. [@4,24] The Chisinau concert planned for 16 October was moved to 8 December. [@15]
 
 His mother, Ainur Bakirova, said she did not believe he was involved and suggested the substance could
 have been planted, and that security staff had told her he would be released and pay a fine. [@2,11] His
