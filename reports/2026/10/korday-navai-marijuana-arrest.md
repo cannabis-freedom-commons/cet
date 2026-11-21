@@ -160,6 +160,11 @@ sources:
     publisher: Versia.ru
     date: 2026-10-15
     language: ru
+  - title: Российского рэпера Navai арестовали в Казахстане за наркотики
+    url: https://www.47news.ru/articles/294313/
+    publisher: 47news
+    date: 2026-10-15
+    language: ru
 media:
   - kind: photo
     url: https://news.ru/culture/navai-arestovali-po-delu-o-kontrabande-narkotikov-v-kazahstane
@@ -180,7 +185,7 @@ open_questions:
 
 Police and border guards detained the Russian rapper Navai, real name Navai Bakirov, at the Korday
 checkpoint as he entered Kazakhstan by car from Kyrgyzstan on 13 October 2026.
-[@1,3,4,5,7,9,10,11,12,15,17,21,22,23] Mash reported that shortly before the border check he moved into the driver's seat, replacing another person. [@25] The car searched at the checkpoint was a Mercedes-Benz with Kazakh plates. [@25] His manager and driver were with him. [@2,3,4,8,16,20] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20,22] A service dog named
+[@1,3,4,5,7,9,10,11,12,15,17,21,22,23] Navai was 30 years old. [@26] Mash reported that shortly before the border check he moved into the driver's seat, replacing another person. [@25] The car searched at the checkpoint was a Mercedes-Benz with Kazakh plates. [@25] His manager and driver were with him. [@2,3,4,8,16,20] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20,22] A service dog named
 Atlas reacted to the car, and officers found a narcotic substance in the pocket of the driver's seat
 [@1,3,4,6,7,9,11,13,18,21], along with a bag with rolling papers and a grinder. [@2,4,18] Journalist Mikhail
 Kozachkov wrote that it was 2.5 g of marijuana [@7,10,11,15,18,19]; Baza, citing checkpoint staff, claimed 10
@@ -203,7 +208,7 @@ Navai had been due to perform on 14 October at the Zhaksylyk Ushkempirov Martial
 the concert was cancelled for reported technical reasons [@1,3,4,5,7,11,15,20,24] and postponed indefinitely,
 with refunds for spectators. [@7,11,17] His tour had run since 9 July through Russia, Uzbekistan,
 Kyrgyzstan, Kazakhstan and Moldova, with a concert in Bishkek on 12 October [@7]; he had been in Tashkent
-shortly before. [@4,24] The Chisinau concert planned for 16 October was moved to 8 December. [@15]
+shortly before. [@4,24] The Chisinau concert planned for 16 October was moved to 8 December. [@15,26]
 
 His mother, Ainur Bakirova, said she did not believe he was involved and suggested the substance could
 have been planted, and that security staff had told her he would be released and pay a fine. [@2,11] His
