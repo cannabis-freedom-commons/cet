@@ -50,6 +50,11 @@ sources:
     publisher: Caracol Radio
     date: 2026-11-19
     language: es
+  - title: 'Tres departamentos bajo operativos contra el crimen: capturan a presunto sicario del Clan del Golfo y reportan otros hallazgos'
+    url: https://www.semana.com/nacion/articulo/tres-departamentos-bajo-operativos-contra-el-crimen-capturan-a-presunto-sicario-del-clan-del-golfo-y-reportan-otros-hallazgos/202638/
+    publisher: Semana
+    date: 2026-11-20
+    language: es
 open_questions:
   - No separate date is given for the operation; 17 November 2026 is the article's publication date and is used as the incident date.
   - The weight is given only as 'more than 279 kilograms' and the substance was identified preliminarily, with no exact weighed total or laboratory result published.
@@ -66,7 +71,7 @@ media:
 
 Police in Manizales, Colombia, arrested a 32-year-old man and impounded the
 private car carrying the drugs during an operation on the Puente La
-Libertad-Fresno road. [@1,2] The operation took place at kilometre 5 of the
+Libertad-Fresno road. [@1,2,3] The operation took place at kilometre 5 of the
 corridor, where officers were carrying out traffic prevention and control
 checks. [@1]
 
@@ -74,14 +79,14 @@ During the inspection of the car, officers found 373 packages containing a
 substance preliminarily identified as marijuana using the homologated
 preliminary identification test (PIPH). [@1,2] The Metropolitan Police of
 Manizales said the seizure amounted to more than 279 kilograms of marijuana.
-[@1,2] According to the authorities, the cargo was being transported from the
+[@1,2,3] According to the authorities, the cargo was being transported from the
 municipality of Corinto in Cauca department towards this part of the country.
-[@1,2]
+[@1,2,3]
 
 The commercial value of the cargo was put at more than 100 million pesos, money
-the police linked to illegal economies involved in drug trafficking. [@1,2] Police
+the police linked to illegal economies involved in drug trafficking. [@1,2,3] Police
 estimated the more than 279 kilograms corresponded to approximately 93,000
-doses. [@1,2] Colonel Mauricio Arley Herrera Luengas, commander of the
+doses. [@1,2,3] Colonel Mauricio Arley Herrera Luengas, commander of the
 Metropolitan Police of Manizales, said the seizure hit criminal finances and
 kept the drugs off the streets. [@1] The man, the drugs and the vehicle were
 handed to the competent judicial authority for further proceedings. [@1,2]
