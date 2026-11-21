@@ -222,7 +222,7 @@ func commitReportWithMedia(ctx context.Context, repo, cid string, d draftJob, me
 		_, _ = gitWithContext(rollbackCtx, append([]string{"reset", "--quiet", "HEAD", "--"}, paths...)...)
 		for _, path := range paths {
 			if data, ok := original[path]; ok {
-				_ = os.WriteFile(filepath.Join(repo, path), data, 0644)
+				_ = writePublicationReport(filepath.Join(repo, path), data)
 			} else {
 				_ = os.Remove(filepath.Join(repo, path))
 			}
@@ -231,11 +231,11 @@ func commitReportWithMedia(ctx context.Context, repo, cid string, d draftJob, me
 	if err = os.MkdirAll(filepath.Dir(filepath.Join(repo, d.Rel)), 0755); err != nil {
 		return "", "", err
 	}
-	if err = os.WriteFile(filepath.Join(repo, d.Rel), content, 0644); err != nil {
+	if err = writePublicationReport(filepath.Join(repo, d.Rel), content); err != nil {
 		return "", "", err
 	}
 	for rel, data := range updates {
-		if err = os.WriteFile(filepath.Join(repo, rel), data, 0644); err != nil {
+		if err = writePublicationReport(filepath.Join(repo, rel), data); err != nil {
 			rollback()
 			return "", "", err
 		}
@@ -293,6 +293,28 @@ func commitReportWithMedia(ctx context.Context, repo, cid string, d draftJob, me
 		return "", "", err
 	}
 	return strings.TrimSpace(string(sha)), note, nil
+}
+
+// Install the complete report atomically so concurrent coverage scans never see a
+// partial file, even if writing fails or the publisher is interrupted.
+func writePublicationReport(path string, content []byte) error {
+	tmp, err := os.CreateTemp(filepath.Dir(path), ".report-write-*")
+	if err != nil {
+		return err
+	}
+	defer os.Remove(tmp.Name())
+	if _, err := tmp.Write(content); err != nil {
+		_ = tmp.Close()
+		return err
+	}
+	if err := tmp.Chmod(0644); err != nil {
+		_ = tmp.Close()
+		return err
+	}
+	if err := tmp.Close(); err != nil {
+		return err
+	}
+	return os.Rename(tmp.Name(), path)
 }
 
 func commitTitle(d draftJob) string {
