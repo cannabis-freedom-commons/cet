@@ -70,6 +70,11 @@ sources:
     publisher: RTL Infos
     date: 2025-04-07
     language: fr
+  - title: Plus d'une tonne de drogues saisie au Luxembourg
+    url: https://www.virgule.lu/luxembourg/saisie-drogue-luxembourg/53532358.html
+    publisher: Virgule
+    date: 2025-04-07
+    language: fr
 media:
   - kind: photo
     url: https://www.luxtimes.lu/luxembourg/luxembourg-customs-officials-seize-over-a-tonne-of-hashish/53554064.html
@@ -120,19 +125,19 @@ open_questions:
 
 The Luxembourg Administration of Customs and Excise stopped a truck in a
 roadside check and found 1,065 kg of hashish and 126 kg of marijuana inside.
-[@1,2,3,4,5,6,8] Pictures released by customs show that a scanner was used to examine the lorry cargo, which led to the swift discovery of the illegal goods. [@4,8] The agency announced the find on 7 April 2025, calling it the largest
+[@1,2,3,4,5,6,8,9] Pictures released by customs show that a scanner was used to examine the lorry cargo, which led to the swift discovery of the illegal goods. [@4,8] The agency announced the find on 7 April 2025, calling it the largest
 drug seizure in the country in recent years. [@1] The stop itself took place
-the previous week. [@1,2,7,8]
+the previous week. [@1,2,7,8,9]
 
 ## Driver before the judge
 
 The 35-year-old lorry driver was arrested on the orders of the Luxembourg
-prosecutor's office. [@1,2,4,5,7,8] He was brought before an investigating judge and
-taken into custody while the investigation continues. [@1,4,5,6] The investigating judge issued an arrest warrant against the driver. [@7,8] The examining magistrate ordered further investigations into the case. [@4] Customs said it would release no further information because the investigation was at an early stage. [@7]
+prosecutor's office. [@1,2,4,5,7,8,9] He was brought before an investigating judge and
+taken into custody while the investigation continues. [@1,4,5,6,9] The investigating judge issued an arrest warrant against the driver. [@7,8] The examining magistrate ordered further investigations into the case. [@4] Customs said it would release no further information because the investigation was at an early stage. [@7]
 
 The haul dwarfs previous Luxembourg seizures: customs seized 403 kg of hashish
 and 73 kg of cannabis herb in the whole of 2023, itself then a record, and only
 347 kg of both substances combined between 2020 and 2022. [@1,6] The new find is
 more than three times the 2023 annual figure. [@1]
 
-The Luxembourg customs and excise agency announced the seizure on Monday, 7 April 2025, saying the truck had been stopped the previous week. [@3] The Customs and Excise Agency published a photograph of the packages of hashish recovered from the truck. [@3]
+The Luxembourg customs and excise agency announced the seizure on Monday, 7 April 2025, saying the truck had been stopped the previous week. [@3,9] The Customs and Excise Agency published a photograph of the packages of hashish recovered from the truck. [@3]
