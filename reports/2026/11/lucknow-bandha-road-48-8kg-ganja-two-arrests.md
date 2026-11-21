@@ -52,6 +52,16 @@ media:
     media_url: https://vocaltv.in/static/c1e/client/111914/migrated/3cd1d9d072babe61504c7186a301913e.jpg
     publisher: Vocal TV
     caption: Two detained men standing with police officers beside a red car and green sacks of seized ganja in Lucknow.
+  - kind: photo
+    url: https://bhaskardigital.com/major-breakthrough-in-operation-narco-hunt/
+    media_url: https://bhaskardigital.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-16.31.27-1.webp
+    publisher: Dainik Bhaskar
+    caption: 'Photo issued with the Lucknow Police account of the 19 November 2026 Bandha Road seizure, published in the Bhaskar Digital report. Photo: Lucknow Police handout via WhatsApp'
+  - kind: photo
+    url: https://bhaskardigital.com/major-breakthrough-in-operation-narco-hunt/
+    media_url: https://bhaskardigital.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-16.31.27.webp
+    publisher: Dainik Bhaskar
+    caption: 'Second photo issued with the same Lucknow Police account of the Bandha Road seizure, published in the Bhaskar Digital report. Photo: Lucknow Police handout via WhatsApp'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 0c0138f2c195db5c33ef27d58eb0e655
@@ -91,20 +101,28 @@ sources:
     publisher: Do Took Media
     date: 2026-11-20
     language: hi
+  - title: ऑपरेशन नार्को हंट में बड़ी कामयाबी, ओडिशा से गांजा लाकर लखनऊ में खपाने आए दो तस्कर गिरफ्तार कार से 48.80 किलो गांजा बरामद, कीमत करीब 25 लाख रुपये, अलीगंज में एनडीपीएस एक्ट के तहत मुकदमा दर्ज
+    url: https://bhaskardigital.com/major-breakthrough-in-operation-narco-hunt/
+    publisher: Dainik Bhaskar
+    date: 2026-11-20
+    language: hi
+open_questions:
+  - 'Estimates of the seized ganja''s value differ between accounts: about 25 lakh rupees in the Bhaskar Digital report and Rs 35 lakh in the Times of India, so no value is recorded.'
+  - No charge sheet, plea or court outcome has been reported; the case remained at the investigation stage.
 ---
 
 Police arrested two men on 19 November 2026 near the municipal corporation
-office on Bandha Road. [@3,7] The arrests were made by the Crime Branch of Lucknow
-Police. [@2,6,7] The operation was directed by the Aliganj ACP and the Aliganj station house officer, with the Lucknow crime branch in-charge and the Hazratganj station house officer also involved. [@5] Officers seized 48.80 kg of ganja from the men. [@1,6,7]
+office on Bandha Road. [@3,7] Police said they acted on a tip-off that two men who had brought ganja from Odisha were waiting in a red car near the municipal corporation office on Bandha Road. [@8] The arrests were made by the Crime Branch of Lucknow
+Police. [@2,6,7] The operation was directed by the Aliganj ACP and the Aliganj station house officer, with the Lucknow crime branch in-charge and the Hazratganj station house officer also involved. [@5] Officers seized 48.80 kg of ganja from the men. [@1,6,7,8]
 
-The cannabis was packed in 43 packets. [@1,6,7] The two men were aged 49 and 45,
-police said. [@2,7] Police identified the two as Prakash Dubey, a Prayagraj resident, and Jay Anand Mishra, who lives in the Awadh Vihar Yojana in Lucknow. [@6,7] Police said the men brought ganja from Odisha for supply in
-Lucknow and adjoining districts. [@2,6,7] Officers also found two mobile phones and
-540 rupees in cash. [@3,7] Police seized the red car used to transport the
-consignment. [@2,7] The car they were using carried a Jharkhand registration number. [@6] Police recovered the ganja from a Brezza car and took the vehicle into custody. [@4]
+The cannabis was packed in 43 packets. [@1,6,7,8] The two men were aged 49 and 45,
+police said. [@2,7,8] Police identified the two as Prakash Dubey, a Prayagraj resident, and Jay Anand Mishra, who lives in the Awadh Vihar Yojana in Lucknow. [@6,7] Police said the men brought ganja from Odisha for supply in
+Lucknow and adjoining districts. [@2,6,7,8] Officers also found two mobile phones and
+540 rupees in cash. [@3,7,8] Police seized the red car used to transport the
+consignment. [@2,7,8] The car they were using carried a Jharkhand registration number. [@6] The car's registration number was JH01CC9687. [@8] Police recovered the ganja from a Brezza car and took the vehicle into custody. [@4]
 
 An FIR was registered at Aliganj police station under Case No. 227/2026,
-invoking Sections 8 and 20 of the NDPS Act. [@2,7] The arrests are part of
+invoking Sections 8 and 20 of the NDPS Act. [@2,7,8] The arrests are part of
 Operation Narco Hunt, launched by the Lucknow Police Commissionerate under the
 Union Home Ministry's three-year Vision Document for 2026–2029. [@2] ADCP Crime
 Kiran Yadav said the Crime Branch was investigating the source of the cannabis,
