@@ -85,6 +85,11 @@ sources:
     publisher: Madero
     date: 2026-11-20
     language: es
+  - title: Operativo en Chañaral deja tres detenidos y una incautación de más de 140 kilo de marihuana
+    url: https://www.24horas.cl/regiones/zona-norte/atacama/operativo-en-chanaral-deja-tres-detenidos-y-una-incautacion-de-mas-de
+    publisher: 24horas
+    date: 2026-11-20
+    language: es
 media:
   - kind: photo
     url: https://www.emol.com/noticias/Nacional/2026/11/19/1217634/chanaral-extranjeros-trasladaban-kilos-marihuana.html
@@ -101,10 +106,11 @@ open_questions:
     - No ages or full names of the three detainees were published, and their individual roles in the transport are not described.
     - One account quotes the Chañaral prosecutor as saying 133 packages of marijuana were seized, while the police statement and the other outlets report 140 packages found in the two vehicles.
     - No plea, trial date or outcome beyond the communicated charges is reported; the case remains within the 85-day investigation period.
+    - 24 Horas describes a single vehicle stopped in a check on Route 5 Norte, while the Carabineros account describes two vehicles, one at a service station.
 ---
 
 Carabineros detained three Colombian adults in Chañaral for drug trafficking and
-a Chañaral court placed all three in preventive detention. [@3,5,6] One detainee had
+a Chañaral court placed all three in preventive detention. [@3,5,6,8] One detainee had
 an outstanding arrest warrant from the Antofagasta Guarantee Court for lesiones,
 while the other two had irregular migratory status in the country. [@2,4,5,6,7] The
 Chañaral Guarantee Court granted preventive detention after finding their
@@ -113,7 +119,7 @@ period during which the three will remain deprived of liberty. [@3,5,6,7]
 
 The case began with checks by the SIP of the 1st Chañaral police station on two
 vehicles, one at a service station and the other on Route 5 Norte, where
-officers found 140 packages containing marijuana. [@2,4,5,6,7] On the prosecution's
+officers found 140 packages containing marijuana. [@2,4,5,6,7,8] On the prosecution's
 instructions, Atacama OS7 specialists analysed mobile phones with UFED
 technology, reviewed security cameras and took statements to link the three to
 the transport. [@2,5,7] Officers seized 140 kilos 343 grams of marijuana and 5 grams
