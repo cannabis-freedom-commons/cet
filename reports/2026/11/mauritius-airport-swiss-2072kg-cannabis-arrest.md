@@ -76,6 +76,11 @@ sources:
     url: https://mauritius-news.com/article/swiss-man-caught-with-20kg-of-cannabis-at-mauritius-airport
     publisher: MauritiusNews
     date: 2026-11-20
+  - title: 'Schweizer auf Mauritius festgenommen: 20 Kilo Cannabis im Koffer'
+    url: https://www.20min.ch/story/drogenfund-am-flughafen-schweizer-mit-20-kilo-cannabis-auf-mauritius-festgenommen-103670733
+    publisher: 20 Minuten
+    date: 2026-11-20
+    language: de
 open_questions:
   - 'Accounts differ on the weight: IONNEWS and Radio One give 20.72 kg, while L''Express and Mauritius News round it to 20 kg; the more precise 20.72 kg is used.'
   - L'Express described the material only as cannabis; no breakdown into flower, resin or other form, and no laboratory confirmation, was reported.
@@ -86,22 +91,21 @@ open_questions:
 
 Officers of the Anti-Drug and Smuggling Unit (ADSU) arrested a 21-year-old Swiss
 man at Sir Seewoosagur Ramgoolam International Airport on 18 November 2026 as he
-arrived from Zurich. [@1] He had arrived on flight WK 070 from Zurich. [@2] He
+arrived from Zurich. [@1,5] He had arrived on flight WK 070 from Zurich. [@2] He
 was intercepted on arrival by the Customs Anti-Narcotics Section together with
-ADSU officers stationed at the airport. [@3] A search of his trolley bag found
+ADSU officers stationed at the airport. [@3,5] A search of his trolley bag found
 20 plastic bags containing 20.72 kg of cannabis. [@1] The market value of the
-consignment was estimated at about 36 million rupees. [@3]
+consignment was estimated at about 36 million rupees. [@3,5]
 
 ADSU investigators then staged a controlled delivery to identify the presumed
 local recipient, but the person expected to collect the drugs did not appear at
-the rendezvous. [@3] The man was placed in detention at the Line Barracks
+the rendezvous. [@3,5] The man was placed in detention at the Line Barracks
 centre. [@2]
 
 He was arrested for importing cannabis with presumption of trafficking, an
-offence carrying aggravating circumstances. [@2] The investigation was led by
+offence carrying aggravating circumstances. [@2] Switzerland's Federal Department of Foreign Affairs said it had no knowledge of the case when asked by 20 Minuten. [@5] The investigation was led by
 the airport ADSU under Superintendent Ghoora and Assistant Superintendent
 Goinden. [@3] Investigators continued to establish the circumstances of the
-importation and to identify possible accomplices in Mauritius. [@3] Plaisance,
+importation and to identify possible accomplices in Mauritius. [@3,5] Plaisance,
 in the southeast of the island near Mahebourg, is Mauritius's only international
 airport and a focus of customs anti-narcotics work. [@4]
-
