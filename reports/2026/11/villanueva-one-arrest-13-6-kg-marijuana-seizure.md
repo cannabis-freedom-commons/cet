@@ -46,29 +46,49 @@ sources:
     publisher: NotiControl
     date: 2026-11-19
     language: es
+  - title: 13 kilos de sustancias fueron incautados a un hombre durante operativo militar
+    url: https://www.eluniversal.com.co/sucesos/2026/11/20/13-kilos-de-sustancias-fueron-incautados-a-un-hombre-durante-operativo-militar/
+    publisher: El Universal
+    date: 2026-11-20
+    language: es
+  - title: Capturado con 13 kilos de marihuana en La Guajira
+    url: https://www.radiohoy.com/2026/11/20/capturado-con-13-kilos-de-marihuana-en-la-guajira/834704/
+    publisher: Radio Hoy
+    date: 2026-11-20
+    language: es
+  - title: Capturan a un hombre e incautan 13,6 kilogramos de marihuana en Villanueva, sur de La Guajira
+    url: https://guajiranews.com/destacadas/capturan-a-un-hombre-e-incautan-136-kilogramos-de-marihuana-en-villanueva-sur-de-la-guajira/
+    publisher: Guajira News
+    date: 2026-11-20
+    language: es
 open_questions:
-  - No separate date is given for the operation; 19 November 2026 is the publication date and is used as the incident date.
-  - The quantity is described as approximately 13.6 kilograms; the article's URL reads 136 kilos while its headline and text both give 13.6.
-  - The detainee's identity, the precise location within Villanueva and any charges or court outcome were not reported.
-  - No value estimate, number of packages, details of how the marihuana was carried, or laboratory confirmation of the substance were published.
-  - The only reporting found was the Diario del Norte account and a NotiControl page that is an AI-generated summary of that same article, so the event rests on a single original report.
+    - No separate date is given for the operation; 19 November 2026 is the publication date of the first reports and is used as the incident date.
+    - The quantity is described as approximately 13.6 kilograms; the article's URL reads 136 kilos while its headline and text both give 13.6.
+    - The detainee's identity and any charges or court outcome were not reported.
+    - No value estimate, number of packages, details of how the marihuana was carried, or laboratory confirmation of the substance were published.
+    - The several accounts reproduce the same army statement and are not independent reporting.
+media:
+  - kind: photo
+    url: https://www.eluniversal.com.co/sucesos/2026/11/20/13-kilos-de-sustancias-fueron-incautados-a-un-hombre-durante-operativo-militar/
+    media_url: https://www.eluniversal.com.co/resizer/v2/marihuan-en-villanueva-la-guajira-7TK4J52IV5DAFLNEHYEF4N73PA.jpg?auth=f0fbf4cc2ad1452f5cf4cdc39078bfa340d82f130bfaf2913c953102dad6d688&smart=true&width=1200&height=800&quality=70
+    publisher: El Universal
+    caption: Army handout photo published with the El Universal report of the 13.6-kilogram marijuana seizure in Villanueva, La Guajira; credited to the Colombian Army.
 ---
 
 Colombian Army troops carried out an operation in the municipality of
 Villanueva, La Guajira, as part of actions against drug trafficking in the
 department, arresting one person and seizing a considerable quantity of
-marihuana. [@1] The procedure was carried out by uniformed members of the
-Mechanized Cavalry Group No. 2 in coordination with the Guajira Police. [@2]
+marihuana. [@1,3] The procedure was carried out by uniformed members of the
+Mechanized Cavalry Group No. 2 in coordination with the Guajira Police. [@2,4] The operation took place in the sector of Valle Grande, in the municipality of Villanueva, in southern La Guajira. [@5]
 
 The operation resulted in the incautation of approximately 13.6 kilograms of
-marihuana, according to the army. [@1] The person detained and all the material
+marihuana, according to the army. [@1,3] The person detained and all the material
 seized were placed at the disposal of the competent authorities so that the
 corresponding judicialization process could begin and responsibilities could be
-determined. [@1]
+determined. [@1,5]
 
 According to the First Division of the Army, the result represented an
 affectation of illicit economies and added to the institutional actions against
 drug trafficking. [@1] The division said the operation served to weaken the
 financing sources of criminal structures and to strengthen security conditions
 in Villanueva and other sectors of the department. [@1]
-
