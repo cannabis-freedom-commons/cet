@@ -59,20 +59,25 @@ sources:
     publisher: قضية رأي عام
     date: 2026-11-19
     language: ar
+  - title: ضبط عاطل أنشأ صفحة وهمية لترويج المخدرات والنصب على راغبي الشراء بالقليوبية
+    url: https://elbaladtv.net/%D8%B6%D8%A8%D8%B7-%D8%B9%D8%A7%D8%B7%D9%84-%D8%A3%D9%86%D8%B4%D8%A3-%D8%B5%D9%81%D8%AD%D8%A9-%D9%88%D9%87%D9%85%D9%8A%D8%A9-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1
+    publisher: قناة صدى البلد
+    date: 2026-11-19
+    language: ar
 ---
 
 Security services in Qalyubia Governorate arrested one person accused of running
-a social-media page that advertised drugs for sale in return for money. [@1,3,4] The
+a social-media page that advertised drugs for sale in return for money. [@1,3,4,5] The
 General Administration for Combating Information Technology Crimes, working with
-the Public Security sector, uncovered the page. [@1,3,4] Investigations identified
+the Public Security sector, uncovered the page. [@1,3,4,5] Investigations identified
 the page's administrator as an unemployed man living in the first Shubra
-Al-Khaima police district of Qalyubia Governorate. [@2,3,4]
+Al-Khaima police district of Qalyubia Governorate. [@2,3,4,5]
 
 Officers found a mobile phone on the suspect and said examining it revealed
-evidence of his criminal activity. [@1,3,4] Investigations showed he was not in
-possession of any drugs. [@1,3,4]
+evidence of his criminal activity. [@1,3,4,5] Investigations showed he was not in
+possession of any drugs. [@1,3,4,5]
 
 When confronted, he admitted creating and running the page to cheat people who
 wanted to buy drugs, taking their money transfers and then switching off his
-phone to avoid them. [@1,3,4] Police took the necessary legal measures and the
+phone to avoid them. [@1,3,4,5] Police took the necessary legal measures and the
 Public Prosecution took over the investigation. [@1,3]
