@@ -51,30 +51,27 @@ sources:
     publisher: Presseportal / Polizei Duisburg
     date: 2026-11-20
     language: de
-open_questions:
-  - 'No exact weight was published: the police statement describes a higher three-digit number of grams and the WAZ report several hundred grams.'
-  - 'The accounts differ on how police reached the flat: WAZ says officers accompanied the 22-year-old to his home, while the police statement says he carried a key to the address and officers found nobody inside.'
-  - No charge has been reported; the case is at the investigation stage, with criminal investigation department 24 leading it.
-  - The suspect was identified only by age and Albanian nationality; no name or street address was published.
-  - No value estimate for the marijuana was published.
-  - No court date or further outcome beyond the pre-trial detention order was reported.
+  - title: 'Polizei-News Duisburg, 20.11.26: Dellviertel/Hochfeld - Fahrzeugkontrolle führt zu Cannabisfund'
+    url: https://www.msn.com/de-de/nachrichten/other/polizei-news-duisburg-201126-dellviertelhochfeld-fahrzeugkontrolle-f%C3%BChrt-zu-cannabisfund/ar-AA2hQSOG
+    publisher: news.de
+    date: 2026-11-20
+    language: de
 ---
 
 Police in Duisburg stopped a car carrying two men aged 22 and 38 on
-Paul-Esch-Straße in Hochfeld at about 15:45 on Wednesday 18 November 2026. [@1]
+Paul-Esch-Straße in Hochfeld at about 15:45 on Wednesday 18 November 2026. [@1,4]
 Officers took both to a police station to establish their identities, found that
 the 22-year-old was an Albanian national staying in Germany without permission,
-and let the 38-year-old go. [@1]
+and let the 38-year-old go. [@1,4]
 
 The younger man carried a key to a flat in Dellviertel, so officers went to the
-address to check his residence, and the key fitted. [@3] Nobody was in the flat
-when officers searched it, the police statement said. [@3] At the request of the
+address to check his residence, and the key fitted. [@3,4] Nobody was in the flat
+when officers searched it, the police statement said. [@3,4] At the request of the
 Duisburg public prosecutor's office, a judge at the Duisburg district court
-ordered the flat searched. [@3] In the flat officers found several hundred grams
-of marijuana and seized the drug and the man's mobile phone. [@1]
+ordered the flat searched. [@3,4] In the flat officers found several hundred grams
+of marijuana and seized the drug and the man's mobile phone. [@1,4]
 
 The 22-year-old was brought before a judge on Thursday 19 November and has been
-in pre-trial detention since. [@2] The judge at the Duisburg district court
-issued a pre-trial detention warrant at the prosecutor's request. [@3] The
-criminal investigation department 24 has taken over the investigation. [@3]
-
+in pre-trial detention since. [@2,4] The judge at the Duisburg district court
+issued a pre-trial detention warrant at the prosecutor's request. [@3,4] The
+criminal investigation department 24 has taken over the investigation. [@3,4]
