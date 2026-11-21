@@ -55,6 +55,11 @@ media:
     media_url: https://www.youtube.com/watch?v=b_ptnpkhtCo
     publisher: Mediafax
     caption: Video report on the Bucharest seizure of cocaine and cannabis hidden in a car floor compartment and hotel rooms.
+  - kind: video
+    url: https://www.romaniatv.net/captura-de-50-de-kilograme-de-cocaina-in-bucuresti-drogurile-erau-ascunse-intr-un-compartiment-secret-din-podeaua-unei-masini-video_9929419.html
+    media_url: https://www.facebook.com/reel/1660009828987433/
+    publisher: Romania TV
+    caption: Video report embedded in Romania TV's account of the 18 November Bucharest car-floor drug seizure.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: a39952936ee308e03f7e5a72a9f08ce2
@@ -105,26 +110,29 @@ sources:
     publisher: Новини 24/7
     date: 2026-11-19
     language: bg
-open_questions:
-  - Whether the Bucharest Tribunal granted the 30-day preventive arrest request was not reported.
+  - title: Captură de 50 de kilograme de cocaină în București. Drogurile erau ascunse într-un compartiment secret din podeaua unei mașini VIDEO
+    url: https://www.romaniatv.net/captura-de-50-de-kilograme-de-cocaina-in-bucuresti-drogurile-erau-ascunse-intr-un-compartiment-secret-din-podeaua-unei-masini-video_9929419.html
+    publisher: Romania TV
+    date: 2026-11-19
+    language: ro
 ---
 
 DIICOT prosecutors in Bucharest detained two men, aged 22 and 33, on 19 November
-2026 on suspicion of risk and high-risk drug trafficking. [@1,2,3,4,5,6,7] The pair had been
+2026 on suspicion of risk and high-risk drug trafficking. [@1,2,3,4,5,6,7,10] The pair had been
 caught in flagrante in the Romanian capital the previous day, 18 November, while
 carrying 30 bags of cocaine and seven bags containing cannabis in the car they
-were travelling in. [@1,2,3,4,5,6,7,9] Half of the quantity was hidden in a car parked in the car park of a shopping centre. [@2]
+were travelling in. [@1,2,3,4,5,6,7,9,10] Half of the quantity was hidden in a car parked in the car park of a shopping centre. [@2]
 
 Most of the packages were hidden in a purpose-built compartment in the car
-floor, closed by an electronic locking system operated by a card. [@1,2,4,5,6,7,8,9] Officers
+floor, closed by an electronic locking system operated by a card. [@1,2,4,5,6,7,8,9,10] Officers
 later searched hotel rooms the men had rented and seized a further 17 packages
-of cocaine. [@1,2,4,5,6,7,8,9] Investigators carried out five searches in the hotel rooms rented by the two men. [@5,7] The total amount taken out of circulation was 50 kilograms of
-cocaine and 2.5 kilograms of cannabis, according to DIICOT. [@1,2,3,4,5,6,7,8,9] DIICOT put the value of the total seizure at about 5 million euros. [@2]
+of cocaine. [@1,2,4,5,6,7,8,9,10] Investigators carried out five searches in the hotel rooms rented by the two men. [@5,7] The total amount taken out of circulation was 50 kilograms of
+cocaine and 2.5 kilograms of cannabis, according to DIICOT. [@1,2,3,4,5,6,7,8,9,10] DIICOT put the value of the total seizure at about 5 million euros. [@2]
 
 On Thursday 19 November a judge for rights and freedoms at the Bucharest
 Tribunal was asked to order 30 days of preventive arrest for the two defendants.
-[@1,2,3,4,5,6,7,9] The judicial activity was carried out together with police from the
-Directorate for Combating Organised Crime. [@1,4,7,8,9] It was supported by traffic
+[@1,2,3,4,5,6,7,9,10] The judicial activity was carried out together with police from the
+Directorate for Combating Organised Crime. [@1,4,7,8,9,10] It was supported by traffic
 police from the Bucharest General Police Directorate and by gendarmes from the
 Gendarmerie's Special Intervention Brigade and the Bucharest Gendarmerie General
 Directorate. [@1,7]
