@@ -54,34 +54,38 @@ sources:
     publisher: Divya Himachal
     date: 2026-11-21
     language: hi
+  - title: भुंतर में मकान से 9.64 ग्राम चरस और 61.72 लाख रुपये नकद बरामद - हिन्दुस्थान समाचार
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/20/crime-charas-seized-.php
+    publisher: हिन्दुस्थान समाचार (Hindusthan Samachar)
+    date: 2026-11-20
+    language: hi
 open_questions:
-  - 'The accounts differ on where the arrest happened: Himachal Dastak describes a raid on a residential house in Bhuntar, while Divya Himachal says the detection cell stopped the man during checking in Ward No. 3 of Chhoti Shamshi.'
-  - Divya Himachal gives the cash as 6,108,500 rupees of other cash and a total of 6,172,650 rupees; the report uses the total.
-  - No laboratory confirmation of the charas was reported.
-  - The man was not named in either account; only his age and village were published.
-  - No value estimate for the charas was published.
-  - No court appearance, detention order or plea was reported; the case is at the investigation stage.
-  - Both accounts rest on the same Kullu police information, so they are not independent reporting.
-  - Whether the cash came from drug trafficking is still under investigation.
+    - 'The accounts differ on where the arrest happened: Himachal Dastak and Hindusthan Samachar describe a raid on a residential house in Bhuntar, while Divya Himachal says the detection cell stopped the man during checking in Ward No. 3 of Chhoti Shamshi.'
+    - Divya Himachal gives the cash as 6,108,500 rupees of other cash and a total of 6,172,650 rupees; the report uses the total.
+    - No laboratory confirmation of the charas was reported.
+    - The man was not named in any account; only his age and village were published.
+    - No value estimate for the charas was published.
+    - No court appearance, detention order or plea was reported; the case is at the investigation stage.
+    - The three accounts rest on the same Kullu police information, so they are not independent reporting.
+    - Whether the cash came from drug trafficking is still under investigation.
 ---
 
 Kullu district police's detection cell raided a residential house in Bhuntar on
-19 November 2026 after a tip that illegal activity was being run there. [@1]
+19 November 2026 after a tip that illegal activity was being run there. [@1,3]
 Officers arrested a 53-year-old man from Chhoti Shamshi who was present in the
-house. [@1] The search turned up 9.64 grams of charas, a hand-made cannabis
-resin, and 6,172,650 rupees in cash, police said. [@1]
+house. [@1,3] The search turned up 9.64 grams of charas, a hand-made cannabis
+resin, and 6,172,650 rupees in cash, police said. [@1,3]
 
 A case was registered at Bhuntar police station under section 20 of the Narcotic
 Drugs and Psychotropic Substances (NDPS) Act, the provision covering cannabis.
-[@1] The case was formally registered on 20 November, the day after the search.
-[@1] Superintendent of Police Kullu Abhishek S said the arrested man was a
-habitual offender with several earlier NDPS cases against him. [@1] Police were
+[@1,3] The case was formally registered on 20 November, the day after the search.
+[@1,3] Superintendent of Police Kullu Abhishek S said the arrested man was a
+habitual offender with several earlier NDPS cases against him. [@1,3] Police were
 tracing the source of the cash and the man's financial dealings, including
 whether the money was linked to drug trafficking or a larger smuggling network.
-[@1]
+[@1,3]
 
 Divya Himachal reported that the detection cell stopped the man during checking
 in Ward No. 3 of Chhoti Shamshi on 19 November, not during a raid on a house in
 Bhuntar. [@2] Divya Himachal put the total cash at 6,172,650 rupees and said
 6,108,500 rupees of it was other cash recovered with him. [@2]
-
