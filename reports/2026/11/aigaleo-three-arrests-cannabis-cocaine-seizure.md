@@ -50,6 +50,11 @@ media:
     media_url: https://www.tanea.gr/app/uploads/2026/11/19112026nark2-1024x580.jpg
     publisher: ΤΑ ΝΕΑ
     caption: Seized packages of cannabis, an unarmoured body-armour vest carrier and euro banknotes laid out on the floor, in the photo published with the Aigaleo police account.
+  - kind: photo
+    url: https://www.alphatv.gr/koinonia/aigaleo-treis-sillipseis-gia-diakinisi-kannavi-se-sokolata/
+    media_url: https://www.alphatv.gr/wp-content/uploads/2026/11/alphatv-news-xrimata-narkotika-990x660.webp
+    publisher: AlphaTV
+    caption: 'Photograph published with the report on the Aigaleo drug seizure, credited to the Hellenic Police. Photo: Hellenic Police'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: c85904ff37e9cd2e4cf61dd5a82940d6
@@ -65,40 +70,55 @@ sources:
     publisher: Newsbomb.gr
     date: 2026-11-20
     language: el
+  - title: 'Αιγάλεω: Τρεις συλλήψεις για διακίνηση – Κάνναβη σε σοκολάτα'
+    url: https://www.alphatv.gr/koinonia/aigaleo-treis-sillipseis-gia-diakinisi-kannavi-se-sokolata/
+    publisher: AlphaTV
+    date: 2026-11-20
+    language: el
+  - title: 'Αιγάλεω: Κατασχέθηκαν πάνω από 7,5 κιλά ναρκωτικών ουσιών και 62.490 ευρώ - 3 συλλήψεις'
+    url: https://www.skai.gr/news/greece/aigaleo-katasxethikan-pano-apo-75-kila-narkotikon-ousion-kai-62490-eyro-3-syllipseis
+    publisher: SKAI
+    date: 2026-11-20
+    language: el
+  - title: 'Αιγάλεω: Διακινούσαν κοκαΐνη, skunk και «σοκολάτα» – 3 συλλήψεις'
+    url: https://www.naftemporiki.gr/society/2192020/aigaleo-diakinoysan-kokaini-skunk-kai-sokolata-3-syllipseis/
+    publisher: Naftemporiki
+    date: 2026-11-20
+    language: el
 open_questions:
-  - The statement describes the cannabis as hydroponically grown but reports no cultivation site, so no grow or laboratory was found.
-  - The 10 grams of skunk found on the 31-year-old appears to be included in the 5,592-gram total, but the police statement does not say so explicitly.
-  - No street value was published for the cannabis or the cocaine.
-  - Whether any of the three was charged, remanded or released after being taken to the prosecutor was not reported.
-  - Both accounts reproduce the same Hellenic Police statement, so they are not independent reporting.
+    - The statement describes the cannabis as hydroponically grown but reports no cultivation site, so no grow or laboratory was found.
+    - The 10 grams of skunk found on the 31-year-old appears to be included in the 5,592-gram total, but the police statement does not say so explicitly.
+    - No street value was published for the cannabis or the cocaine.
+    - Whether any of the three was charged, remanded or released after being taken to the prosecutor was not reported.
+    - All the accounts reproduce the same Hellenic Police statement, so they are not independent reporting.
+    - The AlphaTV article, published on 20 November, places the arrests 'yesterday afternoon' (19 November), one day later than the Wednesday 18 November date in the police statement carried by the other outlets; 18 November is used.
 ---
 
 Two men aged 34 and 31 and a 27-year-old woman were arrested in Aigaleo, Attica,
 on the afternoon of Wednesday 18 November 2026, after an investigation by the
 drug enforcement sub-directorate of the Hellenic Police's organised crime
-directorate. [@1] A case file was opened against them, as applicable to each,
+directorate. [@1,3,4] A case file was opened against them, as applicable to each,
 for trafficking, selling, buying and possessing drugs, violence against
-officials and breaches of the weapons law. [@2] Police said the group's activity
+officials and breaches of the weapons law. [@2,3] Police said the group's activity
 was confirmed through checks of their data and profiling. [@1]
 
 Officers found packages of 6.4 grams of cocaine and 10 grams of hydroponically
-grown cannabis, known in Greece as skunk, on the 31-year-old. [@1] Police said
+grown cannabis, known in Greece as skunk, on the 31-year-old. [@1,3] Police said
 the 34-year-old had supplied him with them shortly before, acting also for the
-27-year-old woman. [@1] A search of their home then found 1,520 grams of
+27-year-old woman. [@1,3] A search of their home then found 1,520 grams of
 cocaine, 5,582 grams of hydroponically grown cannabis and 400 grams of processed
-cannabis in the form of chocolate. [@1]
+cannabis in the form of chocolate. [@1,4]
 
 In total the searches yielded 5 kilograms and 592 grams of hydroponically grown
-cannabis (skunk). [@1] They also yielded 400 grams of processed cannabis in the
-form of chocolate. [@1] The same searches produced 1 kilogram and 526.4 grams of
-cocaine, which is not counted in the cannabis figures. [@1] Officers also seized
-62,490 euros in cash. [@2] They confiscated a car and a motorcycle. [@1]
+cannabis (skunk). [@1,3] They also yielded 400 grams of processed cannabis in the
+form of chocolate. [@1,3] The same searches produced 1 kilogram and 526.4 grams of
+cocaine, which is not counted in the cannabis figures. [@1,3] Officers also seized
+62,490 euros in cash. [@2,3] They confiscated a car and a motorcycle. [@1,3]
 
 Police said the 34-year-old tried to prevent the check, resisting and pushing
 the officers away with his hands and feet, and that he was carrying a
-knuckle-duster and a knife. [@1] The 34-year-old had previously come to the
+knuckle-duster and a knife. [@1,3] The 34-year-old had previously come to the
 authorities' attention over disobedience, an explosion, making and possessing
-explosives, and drug and sports-law offences. [@1] The 31-year-old had been
-charged before with causing bodily harm and with drug-law offences. [@1] The
-three were taken to the competent prosecutor's office. [@1]
-
+explosives, and drug and sports-law offences. [@1,5] The 31-year-old had been
+charged before with causing bodily harm and with drug-law offences. [@1,3] The
+three were taken to the competent prosecutor's office. [@1,3]
