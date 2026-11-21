@@ -67,6 +67,11 @@ sources:
     publisher: Seven Radio
     date: 2026-11-18
     language: fr
+  - title: 'Près de Nice : 71 kg de cannabis saisis, 8 interpellés'
+    url: https://www.nicemag.fr/article/8236/pres-de-nice-71-kg-de-cannabis-saisis-8-interpelles
+    publisher: Nice Mag
+    date: 2026-11-19
+    language: fr
 open_questions:
     - The itemised cannabis quantities (51 kg and 15 kg of resin plus 5 kg of herb) total 71 kg; the headline rounds this to 'more than 70 kg'.
     - The 15 kg found in several homes is not restated by substance; it follows the mention of cannabis resin and is counted as resin here.
@@ -79,24 +84,24 @@ open_questions:
 ---
 
 Police in Nice detained eight people on 16 November 2026 while investigating
-drug deliveries to customers' homes. [@1,2,4] The operation followed six months of
+drug deliveries to customers' homes. [@1,2,4,5] The operation followed six months of
 investigation into a drug-trafficking network using the 'Ubershit' home-delivery
-model. [@1] Nice prosecutor Damien Martinelli said the inquiry began in May 2026
+model. [@1,5] Nice prosecutor Damien Martinelli said the inquiry began in May 2026
 under the prosecutor's specialised unit for drug trafficking via home delivery.
-[@1] Nice's local judicial police service (SLPJ) moved at dawn with RAID
+[@1,5] Nice's local judicial police service (SLPJ) moved at dawn with RAID
 support, and the elite officers intervened at two targets in Nice-Nord and
 Nice-Ouest. [@1] Seven of those detained were due before the Nice court on
-Wednesday, while the eighth was quickly cleared. [@1] Seven of those arrested were presented to magistrates at the Nice judicial court on Wednesday 18 November. [@4]
+Wednesday, while the eighth was quickly cleared. [@1,5] Seven of those arrested were presented to magistrates at the Nice judicial court on Wednesday 18 November. [@4,5]
 
 Searches took officers to the eastern outskirts of Nice, where 51 kg of cannabis
-resin was seized from a storage box at La Trinité. [@1,3] A further 15 kg was
+resin was seized from a storage box at La Trinité. [@1,3,5] A further 15 kg was
 found in several homes, with 5 kg of cannabis herb and 36 g of cocaine,
-according to the prosecutor. [@1,3] Officers also seized 50,000 euros in cash and
-a vehicle. [@1,3] The 50,000 euros in cash were hidden in a car. [@4]
+according to the prosecutor. [@1,3,5] Officers also seized 50,000 euros in cash and
+a vehicle. [@1,3,5] The 50,000 euros in cash were hidden in a car. [@4]
 
 Martinelli said some suspects admitted at least a minimal role while others
 contested the case and refused to give their phone unlock codes. [@1,3,4] Six men
 and one woman aged 22 to 36, nearly all born in Nice, were due to be referred to
 court on Wednesday. [@1] Five were expected before the correctional court for an
-immediate appearance and two for a pre-trial plea procedure known as CRPC. [@1,3]
-Three of the suspects had prior convictions for drug trafficking. [@1,3]
+immediate appearance and two for a pre-trial plea procedure known as CRPC. [@1,3,5]
+Three of the suspects had prior convictions for drug trafficking. [@1,3,5]
