@@ -35,29 +35,39 @@ sources:
     publisher: La Patria Manizales
     date: 2026-11-19
     language: es
+  - title: Incautan Más De 17 Kilos De Marihuana En Un Bus Interdepartamental En La Terminal De Armenia
+    url: https://lacuyabraradio.com/2026/11/20/incautan-mas-de-17-kilos-de-marihuana-en-un-bus-interdepartamental-en-la-terminal-de-armenia/
+    publisher: La Cuyabra Radio
+    date: 2026-11-20
+    language: es
 open_questions:
-  - The opened capture gives no separate date for the operation; 19 November 2026 is the publication date used as the incident date.
-  - The exact city and name of the bus terminal in the Eje Cafetero were not specified.
-  - The 17-kilo total was labelled as drugs in the headline and as marijuana in the post text, with no laboratory confirmation or packaging breakdown reported.
-  - No names, bus route, origin or destination were reported for the adult or the teenager.
-  - No charges, detention measure or court outcome were reported; the case is recorded at the investigation stage.
-  - No independent corroboration beyond the La Patria Manizales account was available in the opened sources.
+    - No separate date for the operation was published; 19 November 2026, the date of the first police post, is used as the incident date.
+    - The marijuana was described as 16 packages weighing more than 17 kilograms, with no laboratory confirmation or more precise weight reported.
+    - No names were published for the 19-year-old man or the 17-year-old girl, and no value estimate was given for the drug.
+    - The girl was placed under an aprehensión, a juvenile procedure distinct from arrest; what it involved and where she was taken were not reported.
+    - No detention measure, first appearance or court date was reported after both were placed at the disposal of the competent authorities.
+    - No reporting independent of the police account was found; both accounts rest on police information.
+media:
+  - kind: photo
+    url: https://lacuyabraradio.com/2026/11/20/incautan-mas-de-17-kilos-de-marihuana-en-un-bus-interdepartamental-en-la-terminal-de-armenia/
+    media_url: https://lacuyabraradio.com/wp-content/uploads/2026/11/incautan-mas-de-17-kilos-de-marihuana-en-un-bus-interdepartamental-en-la-terminal-de-armenia-la-cuyabra-radio.jpg
+    publisher: La Cuyabra Radio
+    caption: Police officers with a handcuffed young man behind packages of seized drugs at the terminal police station, in the photo published with the report.
 ---
 
 Control operations led to the capture of an adult and the apprehension of a
-teenage girl who were transporting marijuana on an interdepartmental bus. [@1]
+teenage girl who were transporting marijuana on an interdepartmental bus. [@1,2]
 The two people detained in the bus case were one adult, reported as captured,
-and one adolescent girl, reported as apprehended. [@1] The pair were accused of
-moving marijuana while travelling on a bus in service between departments. [@1]
+and one adolescent girl, reported as apprehended. [@1,2] The adult was a 19-year-old man and the teenager a 17-year-old girl. [@2] The pair were accused of
+moving marijuana while travelling on a bus in service between departments. [@1,2]
 
 Officers connected 17 kilos of drugs to the detentions carried out at the bus
-terminal. [@1] The 17-kilo amount was described as marijuana that had been
-carried on the interdepartmental bus. [@1] The detentions took place at a bus
-terminal in the Eje Cafetero. [@1]
+terminal. [@1,2] The 17-kilo amount was described as marijuana that had been
+carried on the interdepartmental bus. [@1,2] The marijuana was in 16 packages and weighed more than 17 kilos, according to the police report. [@2] The detentions took place at a bus
+terminal in the Eje Cafetero. [@1] The terminal was the Terminal de Transportes de Armenia, which the report calls the main land terminal in Quindío. [@2]
 
 The Eje Cafetero terminal case involved a bus service of the interdepartmental
-network. [@1] Police control work at the terminal focused on the bus and the
-passengers travelling in it. [@1] The adult remained in capture and the teenager
-remained in apprehension as the reported outcome of the terminal check. [@1] The
+network. [@1] The bus was on the Cali–Bogotá route. [@2] Police control work at the terminal focused on the bus and the
+passengers travelling in it. [@1,2] The adult remained in capture and the teenager
+remained in apprehension as the reported outcome of the terminal check. [@1,2] Both were placed at the disposal of the competent authorities on suspicion of drug trafficking, manufacture or possession. [@2] The
 operation is dated to 19 November 2026. [@1]
-
