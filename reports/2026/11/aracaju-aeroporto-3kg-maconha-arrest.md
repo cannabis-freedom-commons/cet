@@ -39,6 +39,11 @@ media:
     media_url: https://img.dhost.cloud/HHsjRRryVb7r8Y8PPSZ1qK-DBIE=/966x632/smart/https://cdn.a8se.com/images/993e2/297c8a21d99165df91733c4c58f809388aa.jpg
     publisher: A8 Sergipe
     caption: 'Seized drugs from the Aeroporto case laid out for display, in the police handout photo. Photo: PMSE'
+  - kind: video
+    url: https://a8se.com/tv-atalaia/cidade-alerta/2026/11/19/246864-apreensao-de-3-kg-de-maconha-em-aracaju-e-prisao-por-fraude-em-curso-de-bombeiro-civil
+    media_url: https://www.youtube.com/watch?v=NCJAhBd6OE0
+    publisher: A8 Sergipe / TV Atalaia
+    caption: 'Cidade Alerta TV news segment reporting the 3 kg marijuana seizure in Aracaju. Video: TV Atalaia / A8 Sergipe'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 78e769a7ba14f34fca892435940ad4be
@@ -54,12 +59,11 @@ sources:
     publisher: Polícia Militar de Sergipe
     date: 2026-11-19
     language: pt
-open_questions:
-  - No exact weight was published; the amount was given only as more than three kilos of marijuana.
-  - The substance was described only as maconha with no laboratory confirmation reported.
-  - No name, age or other identifying details for the man or the woman were published.
-  - No charge, custody decision or court outcome beyond referral to the competent authorities was reported.
-  - The A8 report attributes its information to the PMSE, so the two accounts are not independent reporting.
+  - title: Apreensão de 3 kg de maconha em Aracaju e prisão por fraude em curso de bombeiro civil
+    url: https://a8se.com/tv-atalaia/cidade-alerta/2026/11/19/246864-apreensao-de-3-kg-de-maconha-em-aracaju-e-prisao-por-fraude-em-curso-de-bombeiro-civil
+    publisher: A8 Sergipe
+    date: 2026-11-19
+    language: pt
 ---
 
 On 18 November 2026, officers of the 13th Battalion of Military Police arrested
@@ -73,9 +77,8 @@ happened. [@1]
 During the response the woman told officers that a significant quantity of
 marijuana was kept inside the residence. [@1] She authorised the teams to enter
 the home and indicated the place where the drug was stored. [@1] In the
-operation officers seized more than three kilos of marijuana. [@2]
+operation officers seized more than three kilos of marijuana. [@2,3]
 
 The man, the woman and the seized material were taken to the police station.
 [@1] The military police said the parties and the seized material were referred
 to the competent authorities for the applicable legal procedures. [@2]
-
