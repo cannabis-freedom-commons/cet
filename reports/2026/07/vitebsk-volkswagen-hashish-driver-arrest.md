@@ -46,30 +46,40 @@ sources:
     publisher: Sputnik Беларусь
     date: 2026-08-05
     language: ru
+  - title: На белорусско-российской границе таможенники задержали водителя с гашишем
+    url: https://www.belnovosti.by/proisshestviya/na-belorussko-rossiyskoy-granice-tamozhenniki-zaderzhali-voditelya-s-gashishem
+    publisher: Белновости
+    date: 2026-08-05
+    language: ru
 open_questions:
-  - No weight for the hashish was published, so no kilograms can be recorded.
-  - The full names of the driver and passengers were not published, only the driver's age and nationality.
-  - No court outcome beyond the opened criminal case was reported.
-  - The exact border crossing was not named; the M1 highway border area is the most precise location given, so a regional Vitebsk pin is used.
-  - Both accounts relay the State Customs Committee version; no independent account of the search was opened.
+    - No weight for the hashish was published, so no kilograms can be recorded.
+    - The full names of the driver and passengers were not published, only the driver's age and nationality.
+    - No court outcome beyond the opened criminal case was reported.
+    - The exact border crossing was not named; the M1 highway border area is the most precise location given, so a regional Vitebsk pin is used.
+    - All accounts relay the State Customs Committee version; no independent account of the search was opened.
+media:
+  - kind: photo
+    url: https://www.belnovosti.by/proisshestviya/na-belorussko-rossiyskoy-granice-tamozhenniki-zaderzhali-voditelya-s-gashishem
+    media_url: https://www.belnovosti.by/sites/default/files/2026-08/avtomobil_2.webp
+    publisher: Белновости
+    caption: 'A car at customs, published with the State Customs Committee''s account of the Vitebsk customs stop. Photo: State Customs Committee of the Republic of Belarus'
 ---
 
-Vitebsk customs detained the driver of a stopped Volkswagen car. [@1] The driver
+Vitebsk customs detained the driver of a stopped Volkswagen car. [@1,3] The driver
 was a 40-year-old Belarusian travelling with two other young men as passengers.
-[@1] Officers found hashish, described as an especially dangerous drug, in the
-driver's personal belongings. [@1] Officers also found drug-use paraphernalia in
-the possession of one of the passengers. [@1] A criminal case was opened against
-the driver under part 1 of article 328-1 of the Criminal Code. [@1]
+[@1,3] Officers found hashish, described as an especially dangerous drug, in the
+driver's personal belongings. [@1,3] Officers also found drug-use paraphernalia in
+the possession of one of the passengers. [@1,3] A criminal case was opened against
+the driver under part 1 of article 328-1 of the Criminal Code. [@1,3]
 
 Officers stopped the Volkswagen, which was travelling from Russia, on 31 July
-during special measures on the Belarusian-Russian border. [@1] A service dog
-alerted officers to the car by adopting a signal pose. [@1] The stop took place
+during special measures on the Belarusian-Russian border. [@1,3] A service dog
+alerted officers to the car by adopting a signal pose. [@1,3] The stop took place
 on the M1 highway in the area of the border with Russia. [@2]
 
 Sputnik describes the article 328-1 charge as unlawful movement of drugs across
 the customs border. [@2] Customs said officers that day selectively stopped
 several other passenger cars while following up operational information about
-possible drug transport, but did not carry out customs checks on them. [@1] The
+possible drug transport, but did not carry out customs checks on them. [@1,3] The
 customs account responded to online reports claiming officers were thoroughly
 searching cars at the Russia border. [@2]
-
