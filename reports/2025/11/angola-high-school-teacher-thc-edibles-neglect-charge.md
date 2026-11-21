@@ -55,34 +55,35 @@ sources:
     url: https://cbsaustin.com/news/nation-world/students-eat-teacher-thc-edibles-gummies-marijuana-weed-indiana-high-school-cincinnati-classroom-police-investigation-high
     publisher: CBS Austin / WKRC
     date: 2025-11-16
+  - title: Teacher arrested after students allegedly ate her THC edibles at Indiana high school
+    url: https://local12.com/news/nation-world/students-eat-teacher-thc-edibles-gummies-marijuana-weed-indiana-high-school-cincinnati-classroom-police-investigation-high
+    publisher: Local 12 (WKRC)
+    date: 2025-11-16
 open_questions:
-  - 'The accounts disagree on the exact date of the incident: the WPTA report says the candy was consumed on Thursday, while the arrest was reported Friday, 14 November; the report dates the incident to 13 November 2025.'
-  - No weight, count or THC strength of the edibles was published, so no cannabis quantity is recorded.
-  - The students' ages were not published; only that they were at Angola High School.
-  - No court outcome beyond the bond and the ongoing Department of Child Services report was reported.
-  - 'Left out, as its quotation was not found in CBS Austin / WKRC: McGillem, 49, is from Reading, Michigan.'
-  - Left out activity, as its quotation was not found in CBS Austin / WKRC.
+    - 'The accounts disagree on the exact date of the incident: the WPTA report says the candy was consumed on Thursday, while the arrest was reported Friday, 14 November; the report dates the incident to 13 November 2025.'
+    - No weight, count or THC strength of the edibles was published, so no cannabis quantity is recorded.
+    - The students' ages were not published; only that they were at Angola High School.
+    - No court outcome beyond the bond and the ongoing Department of Child Services report was reported.
 ---
 
 On Thursday, November 13, two students at Angola High School in Angola, Indiana,
 unknowingly consumed THC candy that had been left out in their classroom during
-their last class period. [@1] Deputies determined the candy had been brought
+their last class period. [@1,4] Deputies determined the candy had been brought
 into the classroom by a teacher, later identified as 49-year-old Debra McGillem.
-[@1] Investigators also found additional food items suspected of containing THC
-in McGillem's possession. [@1] McGillem drove herself to the Steuben County
+[@1,4] Investigators also found additional food items suspected of containing THC
+in McGillem's possession. [@1,4] McGillem drove herself to the Steuben County
 Sheriff's Office, where detectives interviewed her and the two students and came
-to believe she had operated a vehicle while impaired. [@1]
+to believe she had operated a vehicle while impaired. [@1,4]
 
 She was arrested on Friday, November 14, and booked into the Steuben County Jail
 on charges that include neglect of a dependent, possession of a controlled
-substance on school property and operating a vehicle while intoxicated. [@1]
-McGillem, a language arts teacher at the school, was held on a $6,500 bond. [@3]
+substance on school property and operating a vehicle while intoxicated. [@1,4]
+McGillem, a language arts teacher at the school, was held on a $6,500 bond. [@3,4]
 McGillem faces two Level 6 felonies for neglect of a dependent and for
 possession of a controlled substance on school property, plus a Class C
-misdemeanor for operating a vehicle while intoxicated. [@3]
+misdemeanor for operating a vehicle while intoxicated. [@3,4]
 
 The district said it had initiated an internal investigation and that a report
 was made to the Indiana Department of Child Services. [@1] After the arrest was
 announced, some Angola High School students came to her defense on social media,
 with one describing her as the best teacher at the school. [@2]
-
