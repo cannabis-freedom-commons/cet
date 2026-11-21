@@ -64,27 +64,33 @@ sources:
     publisher: Новости Mail (Комсомольская правда)
     date: 2026-11-20
     language: ru
+  - title: В Балтийске задержан 19-летний закладчик с 55 граммами гашиша
+    url: https://kaliningradtoday.ru/crime/20208701/
+    publisher: KaliningradToday
+    date: 2026-11-20
+    language: ru
 open_questions:
-  - The submitted article gives only its 20 November 2026 publication date, while one corroborating account places the detention on 16 November.
-  - One account is headlined as a detention in Baltiysk, but its text, like the other reports, places the arrest on Palubnaya Street in Kaliningrad.
-  - No laboratory confirmation of the substance was reported; police described the contents as a plant-derived narcotic and the reports call it hashish.
-  - No trial date or court outcome was reported, and police were still identifying the youth's alleged accomplices.
-  - The 10-to-20-year figure is the statutory penalty range for the offence, not a sentence imposed by a court.
+    - One account is headlined as a detention in Baltiysk, but its text, like the other reports, places the arrest on Palubnaya Street in Kaliningrad.
+    - No laboratory confirmation of the substance was reported; police described the contents as a plant-derived narcotic and the reports call it hashish.
+    - No trial date or court outcome was reported, and police were still identifying the youth's alleged accomplices.
+    - The 10-to-20-year figure is the statutory penalty range for the offence, not a sentence imposed by a court.
+    - The number of accomplices and where the packages were to be placed were not reported.
+    - No street value was published for the hashish.
+    - Whether the suspect was remanded in custody or released was not reported.
 ---
 
 Police in Kaliningrad detained a 19-year-old resident of Yantarny, intercepting
 what they described as the sale of a large batch of hashish. [@1] The detention
-took place on 16 November on Palubnaya Street. [@3] During a personal search
-officers seized 71 packages of hashish from the youth. [@1]
+took place on 16 November on Palubnaya Street. [@3,5] During a personal search
+officers seized 71 packages of hashish from the youth. [@1,5]
 
-The packages had a total weight of 55.21 grams. [@4] Police said that quantity
-qualified as a large amount under Russian law. [@3] The regional UMVD press
+The packages had a total weight of 55.21 grams. [@4,5] Police said that quantity
+qualified as a large amount under Russian law. [@3,5] The regional UMVD press
 service said the packages contained a plant-derived narcotic. [@2] Investigators
 established that the youth was keeping the drug for sale over the internet and
-that he had accomplices whom police were identifying. [@1]
+that he had accomplices whom police were identifying. [@1,5]
 
 A criminal case was opened over the attempted illegal sale of narcotics in a
-large amount by a group of persons. [@3] The offence carries a statutory penalty
-of 10 to 20 years in prison. [@1] The investigation was continuing after the
-case was opened. [@2]
-
+large amount by a group of persons. [@3,5] The offence carries a statutory penalty
+of 10 to 20 years in prison. [@1,5] The investigation was continuing after the
+case was opened. [@2] Police were also checking whether the detainee was involved in other episodes. [@5]
