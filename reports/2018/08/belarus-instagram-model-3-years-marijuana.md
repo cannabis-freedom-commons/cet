@@ -67,6 +67,11 @@ sources:
     publisher: Otkrito.lv (jauns.lv)
     date: 2018-08-02
     language: ru
+  - title: Российскую Instagram-модель* осудили в Беларуси на три года за провоз марихуаны
+    url: https://www.thevoicemag.ru/lifestyle/news/01-08-2018/rossiyskuyu-instagram-model-osudili-v-belarusi-na-tri-goda-za-provoz-marihuany/
+    publisher: THE VOICEMAG
+    date: 2018-08-01
+    language: ru
 open_questions:
     - 'Accounts differ on the verdict date: the RT/UDF account and Ura.ru give 1 August 2018, while Sputnik, Mediazona and Otkrito.lv date the judgment to 31 July 2018; 1 August is used here.'
     - 'The quantity varies between accounts: one gram (RT/UDF), 1.14 grams (Sputnik and Ura.ru citing the Investigative Committee), at least 1.1 grams (Mediazona) and about 27 grams (Otkrito.lv); 1.14 grams is used.'
@@ -77,17 +82,17 @@ open_questions:
 Maria Khrestina, an Instagram blogger from Yekaterinburg, was sentenced to three
 years in a Belarusian prison for possessing and smuggling drugs. [@1] The Moscow
 District Court of Brest found her guilty under parts 1 of Articles 328 and 328-1
-and ordered the term served in a general-regime colony on 1 August. [@1] The court said it did not consider that she had planned to sell the marijuana, which is why it imposed a relatively short sentence. [@5] She and
+and ordered the term served in a general-regime colony on 1 August. [@1] The court said it did not consider that she had planned to sell the marijuana, which is why it imposed a relatively short sentence. [@5,6] She and
 her boyfriend Timur Dzhafarov were returning from a trip around Europe by car on
 5 May. [@1] Belarusian border guards detained her on 5 May at the Varshavsky
-most checkpoint on the Polish border. [@3]
+most checkpoint on the Polish border. [@3] A criminal case was opened against her for illegally moving narcotic drugs across the border of the Eurasian Economic Union. [@6]
 
 At the checkpoint a sniffer dog reacted to her bag and customs officers began
 searching her belongings. [@1] Inside a tin of loose tea labelled with a
 cannabis leaf they found a gram of marijuana. [@1] The Belarusian Investigative
 Committee said the drug weighed at least 1.14 grams and was hidden in her hand
-luggage. [@4] A medical examination confirmed that she had used drugs. [@3,5]
+luggage. [@4] A medical examination confirmed that she had used drugs. [@3,5,6]
 
 She had bought the tea at a tourist shop near Charles Bridge in Prague. [@1]
 Khrestina denied that she had intended to possess or carry drugs. [@1] The
-verdict was not final and could be appealed. [@2,5]
+verdict was not final and could be appealed. [@2,5,6]
