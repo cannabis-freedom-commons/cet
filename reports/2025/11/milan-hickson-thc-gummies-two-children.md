@@ -45,6 +45,11 @@ media:
     media_url: https://i.abcnewsfe.com/a/c727568b-e51b-4b3b-b7c4-9955e911a2e3/candice-hickson-ht-jt-251205_1764969283647_hpEmbed_17x14.jpg?w=750
     publisher: ABC News
     caption: Booking photo of Candice Hickson, released by the Tennessee District Attorney General Frederick H. Agee, 28th Judicial District, Gibson, Crockett and Haywood Counties, with the announcement of the charge.
+  - kind: photo
+    url: https://www.wlbt.com/2025/12/05/mom-arrested-after-young-children-eat-thc-gummies-leading-hospitalization-police-say/
+    media_url: https://gray-wlbt-prod.gtv-cdn.com/resizer/v2/FDWJ775UINDKVGRH7KVJDURB6I.png?auth=f728858f3994a18dbd75fa639dedd34b3d539c40613937dad323adf84e9cb3fd&width=1300&height=730&smart=true
+    publisher: WLBT
+    caption: 'Booking photo of Candice Hickson, whom authorities said was charged with child abuse and endangerment. Photo: Gibson County Sheriff''s Office'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c6b5e6ad91ec4af4dc3646b73f9d6c90
@@ -70,29 +75,27 @@ sources:
     url: https://www.wsmv.com/2025/12/05/mom-arrested-after-young-children-eat-thc-gummies-leading-hospitalization-police-say/
     publisher: WSMV
     date: 2025-12-05
-open_questions:
-  - No weight, count or THC content of the gummies eaten was published, so no cannabis quantity is recorded.
-  - ABC News says the children were under 8; Action News 5 and People give their ages as 2 and 4.
-  - No court outcome after the 16 December hearing was reported.
-  - The report does not say whether the child-abuse, neglect or endangerment counts are the same charge or separate counts.
-  - WBBJ's fuller account of the arrest affidavit, cited by People and WKRC, could not be reopened.
+  - title: Mom arrested after young children eat THC gummies, leading to hospitalization, police say
+    url: https://www.wlbt.com/2025/12/05/mom-arrested-after-young-children-eat-thc-gummies-leading-hospitalization-police-say/
+    publisher: WLBT
+    date: 2025-12-05
 ---
 
 A 43-year-old mother in Milan, Tennessee, was arrested and charged with child
 abuse, neglect and endangerment after her two children, aged 2 and 4, ate her
-THC gummies and were hospitalised. [@2,4] Candice Hickson, 43, was booked into the
+THC gummies and were hospitalised. [@2,4,6] Candice Hickson, 43, was booked into the
 Gibson County jail on 30 November, two days after the overdose. [@3]
 
 Deputies were called to a home in the 300 block of Trenton Milan Highway on 28
-November and found both children unresponsive. [@2,4,5] Hickson told deputies the
+November and found both children unresponsive. [@2,4,5,6] Hickson told deputies the
 children reached her THC gummies, which she kept in the bathroom, while she was
 in the bathroom, and she could not say how many they ate, according to an arrest
-warrant. [@2] The children were treated at Le Bonheur Children's Hospital in
-Memphis and released within 48 hours. [@1] The children were placed in the
+warrant. [@2,6] The children were treated at Le Bonheur Children's Hospital in
+Memphis and released within 48 hours. [@1,6] The children were placed in the
 custody of the Tennessee Department of Children's Services after their mother
 failed a drug test for methamphetamine, the district attorney general said. [@1]
 Hickson's bail was set at $25,000, and she was due back in Gibson County General
-Sessions court on 16 December with no attorney listed. [@1,4] Sheriff Paul Thomas said the THC gummies need to be treated as any other medication, locked up and out of reach of children. [@4,5]
+Sessions court on 16 December with no attorney listed. [@1,4,6] Sheriff Paul Thomas said the THC gummies need to be treated as any other medication, locked up and out of reach of children. [@4,5,6]
 
 THC hemp gummies are legal for adults 21 and older in Tennessee. [@1] District
 Attorney General Frederick Agee said his office would prosecute the case within
