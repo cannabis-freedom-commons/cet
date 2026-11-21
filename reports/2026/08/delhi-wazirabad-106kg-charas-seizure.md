@@ -73,16 +73,12 @@ sources:
     url: https://newsonair.gov.in/delhi-police-recovers-high-quality-charas-worth-%E2%82%B99-crore-arrest-3-nepalese-nationals/
     publisher: News On AIR
     date: 2026-07-03
-open_questions:
-  - July accounts gave the Kotla Mubarakpur seizure as about 8.59 kg, or over eight kilograms, while later police accounts gave 8.598 kg.
-  - July accounts said the accused took orders on WhatsApp; later accounts said orders were coordinated through social media including Telegram.
-  - A July account described Jyoti Pun Magar as the principal supplier and the two men as retail suppliers; later accounts described the June trio as street-level suppliers.
 ---
 
 Delhi Police's South District police dismantled part of an international charas
 network, arresting four Nepalese nationals. [@1,3] The operation began with a June
 29 recovery of 8.598 kg at a residence in Kotla Mubarakpur and the arrests of
-Bharat Thapa, 32, Govind Budha, 32, and Jyoti Pun Magar, 50. [@1,3,5] Police valued that June recovery at approximately Rs 9 crore in the international market. [@5] Police
+Bharat Thapa, 32, Govind Budha, 32, and Jyoti Pun Magar, 50. [@1,3,5] Police valued the 8.59 kg of charas recovered at Kotla Mubarakpur at approximately Rs 9 crore on the international market. [@5] Police valued that June recovery at approximately Rs 9 crore in the international market. [@5] Police
 registered an FIR under Sections 20, 25 and 29 of the NDPS Act at Kotla
 Mubarakpur police station over the June seizure. [@2,3] Interrogation, technical
 surveillance, financial analysis and local intelligence then led police to
@@ -99,10 +95,10 @@ recovered a mixing machine and packing material at the premises. [@1,3,4]
 
 Investigators said the network sourced charas through suppliers in Nepal,
 including the Kakri area of Rukum, and moved it toward Delhi through the Sonauli
-border by road to evade checks. [@1] Once in Delhi, the drugs were stored at
+border by road to evade checks. [@1,5] Once in Delhi, the drugs were stored at
 various locations and repacked into smaller packets, with orders coordinated
 through social media including Telegram, payments in cash and digital banking,
-and digital messages deleted after transactions. [@1] Police said the drugs were
+and digital messages deleted after transactions. [@1,5] Police said the drugs were
 moved by autorickshaws and bike taxis to distributors and customers, targeting
 areas with many young people and demand centres such as Wazirabad and Majnu Ka
 Tila, including outlets around pubs, bars and hotels. [@1,6] South District DCP
