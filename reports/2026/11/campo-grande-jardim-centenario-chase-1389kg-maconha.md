@@ -71,31 +71,28 @@ sources:
     publisher: Folha MS
     date: 2026-11-19
     language: pt
-open_questions:
-    - The Folha MS account dates the seizure and arrest to Wednesday 18 November 2026; none of the accounts gives separate dates for the blockade, the pursuit or the detention.
-    - The load was described in the Campo Grande News record as material with characteristics similar to marijuana and in the other accounts as tablets of maconha; no laboratory confirmation was reported.
-    - The Campo Grande News photo caption gives 1.3 tonnes in a rural area near Sidrolândia, its text gives 1,389.3 kilograms in Jardim Centenário and the other accounts give 1,389 kilograms; the 1,389.3 figure is used.
-    - No street value for the seized load was published.
-    - The record lists drug trafficking and receiving a vehicle as possible offences but gives no details of the receiving offence.
-    - No charge, custody decision or court outcome was reported; the driver, vehicle and drugs were taken to the Civil Police in the capital, but how long he was held was not stated.
-    - All three accounts relay police information about the same occurrence; no independent witness account of the pursuit was reported.
+  - title: Motorista é preso com mais de uma tonelada de maconha após perseguição em Sidrolândia - Jornal diadia
+    url: https://jornaldiadia.com.br/motorista-e-preso-com-mais-de-uma-tonelada-de-maconha-apos-perseguicao-em-sidrolandia/
+    publisher: Jornal diadia
+    date: 2026-11-19
+    language: pt
 ---
 
 Federal Highway Police officers arrested a driver after a pursuit that ended
 with the seizure of almost 1.4 tonnes of marijuana in the Jardim Centenário
-neighbourhood of Campo Grande, Mato Grosso do Sul. [@1,2,3,4] The PRF said the seizure happened on Wednesday 18 November 2026. [@3] The driver of a Fiat
+neighbourhood of Campo Grande, Mato Grosso do Sul. [@1,2,3,4,5] The PRF said the seizure happened on Wednesday 18 November 2026. [@3] The driver of a Fiat
 Strada had run a Federal Highway Police (PRF) blockade on the Sidrolândia road
-and tried to escape the officers. [@1,2,3,4] He abandoned the pickup on Rua
-Quero-Quero and ran into a wooded area, where the officers caught him. [@1] The
+and tried to escape the officers. [@1,2,3,4,5] He abandoned the pickup on Rua
+Quero-Quero and ran into a wooded area, where the officers caught him. [@1,5] The
 police record obtained by Campo Grande News says officers found and detained the
 man in the woods. [@1]
 
 Military police from the 10th Battalion joined the pursuit after a radio request
 for support, which mentioned a tactical follow-up at the entrance to
-Sidrolândia. [@1] The Military Police team stayed at the scene while PRF agents
+Sidrolândia. [@1,5] The Military Police team stayed at the scene while PRF agents
 entered the woods to look for the driver. [@1] A search of the Strada found a
 load of material with characteristics similar to marijuana, which the record put
-at 1,389.3 kilograms. [@1,3] The pickup's number plate had been tampered with.
+at 1,389.3 kilograms. [@1,3,5] The pickup's number plate had been tampered with.
 [@1,2,4] A second account reported that the pickup had a record of robbery or theft. [@2,3,4] The record lists drug trafficking and receiving a vehicle among the
 possible offences, but does not say whether the pickup had been reported stolen
 or robbed. [@1]
