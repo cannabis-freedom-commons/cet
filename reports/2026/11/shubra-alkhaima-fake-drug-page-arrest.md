@@ -49,27 +49,25 @@ sources:
     publisher: يوليو
     date: 2026-11-19
     language: ar
-open_questions:
-  - No source names the substance or substances advertised on the page, so no cannabis product is recorded; the case is a suspected online fraud offering drugs that were never delivered.
-  - 'The records end at the arrest and referral to the prosecution: no charge, detention order or court outcome is reported.'
-  - The sources give no separate date for the arrest; the reports appeared on 19 November 2026, which stands in as the incident date.
-  - No source states how many people paid money, how much was transferred or whether any of it was recovered.
-  - The suspect was not named and was described only as unemployed.
+  - title: ضبط عاطل أنشأ صفحة لبيع المخدرات والنصب على راغبي الشراء بالقليوبية | حوادث | الزمان
+    url: https://www.elzmannews.com/547992
+    publisher: الزمان
+    date: 2026-11-20
+    language: ar
 ---
 
 Security services in Qalyubia Governorate arrested one person accused of running
-a social-media page that advertised drugs for sale in return for money. [@1] The
+a social-media page that advertised drugs for sale in return for money. [@1,3] The
 General Administration for Combating Information Technology Crimes, working with
-the Public Security sector, uncovered the page. [@1] Investigations identified
+the Public Security sector, uncovered the page. [@1,3] Investigations identified
 the page's administrator as an unemployed man living in the first Shubra
-Al-Khaima police district of Qalyubia Governorate. [@2]
+Al-Khaima police district of Qalyubia Governorate. [@2,3]
 
 Officers found a mobile phone on the suspect and said examining it revealed
-evidence of his criminal activity. [@1] Investigations showed he was not in
-possession of any drugs. [@1]
+evidence of his criminal activity. [@1,3] Investigations showed he was not in
+possession of any drugs. [@1,3]
 
 When confronted, he admitted creating and running the page to cheat people who
 wanted to buy drugs, taking their money transfers and then switching off his
-phone to avoid them. [@1] Police took the necessary legal measures and the
-Public Prosecution took over the investigation. [@1]
-
+phone to avoid them. [@1,3] Police took the necessary legal measures and the
+Public Prosecution took over the investigation. [@1,3]
