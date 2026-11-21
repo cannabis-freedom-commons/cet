@@ -61,6 +61,11 @@ sources:
     publisher: Guajira News
     date: 2026-11-20
     language: es
+  - title: Capturado con 13 kilos de marihuana en La Guajira
+    url: https://hoydiariodelmagdalena.com.co/archivos/1314554/capturado-con-13-kilos-de-marihuana-en-la-guajira
+    publisher: Hoy Diario del Magdalena
+    date: 2026-11-20
+    language: es
 open_questions:
     - No separate date is given for the operation; 19 November 2026 is the publication date of the first reports and is used as the incident date.
     - The quantity is described as approximately 13.6 kilograms; the article's URL reads 136 kilos while its headline and text both give 13.6.
@@ -78,17 +83,17 @@ media:
 Colombian Army troops carried out an operation in the municipality of
 Villanueva, La Guajira, as part of actions against drug trafficking in the
 department, arresting one person and seizing a considerable quantity of
-marihuana. [@1,3] The procedure was carried out by uniformed members of the
-Mechanized Cavalry Group No. 2 in coordination with the Guajira Police. [@2,4] The operation took place in the sector of Valle Grande, in the municipality of Villanueva, in southern La Guajira. [@5]
+marihuana. [@1,3,6] The procedure was carried out by uniformed members of the
+Mechanized Cavalry Group No. 2 in coordination with the Guajira Police. [@2,4,6] The operation took place in the sector of Valle Grande, in the municipality of Villanueva, in southern La Guajira. [@5]
 
 The operation resulted in the incautation of approximately 13.6 kilograms of
-marihuana, according to the army. [@1,3] The person detained and all the material
+marihuana, according to the army. [@1,3,6] The person detained and all the material
 seized were placed at the disposal of the competent authorities so that the
 corresponding judicialization process could begin and responsibilities could be
-determined. [@1,5]
+determined. [@1,5,6]
 
 According to the First Division of the Army, the result represented an
 affectation of illicit economies and added to the institutional actions against
-drug trafficking. [@1] The division said the operation served to weaken the
+drug trafficking. [@1,6] The division said the operation served to weaken the
 financing sources of criminal structures and to strengthen security conditions
 in Villanueva and other sectors of the department. [@1]
