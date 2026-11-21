@@ -50,6 +50,11 @@ sources:
     publisher: نبض / صحيفة صراحة الإلكترونية
     date: 2026-11-20
     language: ar
+  - title: مكافحة المخدرات تضبط (6) مواطنين لترويج مواد مخدرة في (3) مناطق
+    url: https://naba-news.com/news/s/131542
+    publisher: صحيفة نبأ
+    date: 2026-11-20
+    language: ar
 open_questions:
   - No separate date was given for the arrests; 20 November 2026 is the publication date of the announcement and stands in for the incident date.
   - No weight, street value or number of packets was published for the hashish, so no cannabis quantity is recorded.
@@ -60,17 +65,16 @@ open_questions:
 
 Saudi Arabia's General Directorate for Drug Control said it arrested six
 citizens in Hail, Asir and the Eastern Province on suspicion of promoting drugs
-and tablets subject to medical-sale controls. [@1] The two people held in Hail
+and tablets subject to medical-sale controls. [@1,3] The two people held in Hail
 were caught promoting hashish, a cannabis resin, along with tablets subject to
-medical-sale controls. [@1] Three citizens were arrested in Asir for promoting
-1,048 of the regulated tablets, which are not a cannabis product. [@2] In the
+medical-sale controls. [@1,3] Three citizens were arrested in Asir for promoting
+1,048 of the regulated tablets, which are not a cannabis product. [@2,3] In the
 Eastern Province, one citizen was arrested for promoting amphetamine and
-hashish. [@1]
+hashish. [@1,3]
 
 The directorate said all the suspects were detained, the formal procedures
 against them were completed and they were referred to the Public Prosecution.
-[@1] It urged people to report drug smugglers and promoters on 995 or
+[@1,3] It urged people to report drug smugglers and promoters on 995 or
 995@gdnc.gov.sa, on 911 in Mecca, Medina, Riyadh and the Eastern Province, and
 on 999 in the rest of the kingdom, saying all reports would be treated in
 confidence. [@1]
-
