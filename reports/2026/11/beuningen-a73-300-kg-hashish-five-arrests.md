@@ -74,6 +74,11 @@ sources:
     publisher: Beuningen.nieuws.nl
     date: 2026-11-20
     language: nl
+  - title: Tilburgers opgepakt voor witwassen en drugsbezit, 300 kilo hasj gevonden
+    url: https://noordbrabant.headliner.nl/item/tilburgers-opgepakt-voor-witwassen-en-drugsbezit-300-kilo-hasj-gevonden-omroepbrabant-102236
+    publisher: Headliner.nl
+    date: 2026-11-20
+    language: nl
 open_questions:
   - The police described the find as 'ruim 300 kilo' (just over 300 kilograms); no exact measured weight was published.
   - 'Accounts disagree on the ages of the two men first arrested: the police statement and NOS give 20 and 22, while Omroep Brabant gives 18 and 19.'
@@ -82,18 +87,18 @@ open_questions:
 ---
 
 Dutch police arrested five men on suspicion of money laundering and drug
-possession. [@1,2,5] The five arrests were made on Thursday 19 November 2026. [@2,5]
+possession. [@1,2,5] The five arrests were made on Thursday 19 November 2026. [@2,5,6]
 The operation began around 20:00 when an automatic number-plate recognition
 alert flagged a vehicle, and after the driver ignored a stop sign a short chase
 ended on the A73 at Beuningen where the driver and passenger were arrested. [@2,5]
 The first two, a 20-year-old and a 22-year-old from Tilburg, were followed by
 three more arrests in Oosterhout: a 22-year-old with no fixed residence and two
 men aged 18 and 19 from Tilburg. [@2,5] Omroep Brabant reported that four of those
-held were from Tilburg and one had no fixed residence. [@4]
+held were from Tilburg and one had no fixed residence. [@4,6]
 
 Searching the vehicles in Oosterhout, officers found a hidden compartment in one
-of them holding over 300 kilograms of hashish, the police said. [@2,5] According
+of them holding over 300 kilograms of hashish, the police said. [@2,5,6] According
 to NOS, the lorry was taken under police escort to the station in Nijmegen,
 where officers opened parts of the roof and found a concealed space behind the
 cab from which dozens of bags were removed. [@3] The police said all five
-suspects remained in custody and were being questioned. [@2,4,5]
+suspects remained in custody and were being questioned. [@2,4,5,6]
