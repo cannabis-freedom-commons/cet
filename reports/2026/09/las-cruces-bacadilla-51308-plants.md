@@ -44,6 +44,8 @@ open_questions:
   - No area in square metres or hectares was published for the September fields.
   - No arrests or cultivator names were reported.
   - The pin is the town of Las Cruces; La Bacadilla and Cooperativa Ixmucané are not given separate coordinates.
+  - Infobae describes the two eradicated fields as both at Cooperativa Ixmucané, while the ministry account counts 12,908 plants at Ixmucané alongside 38,400 at La Bacadilla in the same operation.
+  - Infobae gives no separate date for the eradication; 20 September 2026 comes from the ministry and La Hora accounts, with 21 September 2026 being the publication date.
 sources:
   - title: Erradicación de cultivos de marihuana supera los Q25 millones
     url: https://mingob.gob.gt/erradicacion-de-cultivos-de-marihuana-supera-los-q25-millones/
@@ -56,6 +58,11 @@ sources:
     archived: https://web.archive.org/web/20261003093629/https://lahora.gt/nacionales/kgutierrez/2026/09/20/erradican-plantacion-de-marihuana-valorada-en-q25-6-millones/
     publisher: La Hora
     date: 2026-09-20
+    language: es
+  - title: Erradicaron dos campos con 12,908 matas de marihuana valuadas en USD 872,198 en Guatemala
+    url: https://www.infobae.com/guatemala/2026/09/21/erradicaron-dos-campos-con-12908-matas-de-marihuana-valuadas-en-usd-872198-en-guatemala/
+    publisher: Infobae
+    date: 2026-09-21
     language: es
 media:
   - kind: photo
@@ -70,16 +77,31 @@ media:
     media_url: https://lahora.gt/wp-content/uploads/sites/5/2026/09/marihuana.jpg
     publisher: La Hora (Mingob)
     caption: Anti-narcotics personnel in dense vegetation during Petén plantation operations.
+  - kind: photo
+    url: https://www.infobae.com/guatemala/2026/09/21/erradicaron-dos-campos-con-12908-matas-de-marihuana-valuadas-en-usd-872198-en-guatemala/
+    media_url: https://www.infobae.com/resizer/v2/HU7W3NQXHRFSBJ2IE6CXK36UVM.jpg?auth=8bc85d13a876af09a1692e8f6658126706863ff81b51fbe35323c93651b71bca&smart=true&width=992&height=551&quality=85
+    publisher: Infobae
+    caption: 'Handout photo published with the report of the two marijuana fields destroyed at Cooperativa Ixmucané, captioned as combined forces eradicating fields worth USD 872,198 in Petén. Photo: Ejército de Guatemala via Infobae'
+  - kind: photo
+    url: https://www.infobae.com/guatemala/2026/09/21/erradicaron-dos-campos-con-12908-matas-de-marihuana-valuadas-en-usd-872198-en-guatemala/
+    media_url: https://www.infobae.com/resizer/v2/FPNIENK2KZHIXBF7OCYWZ6CJTI.jpg?auth=bcc6fd6e352a2100bc4b39a2a3568ca0cf0d6d68c060ad1239164e0b2f354566&smart=true&width=350&height=194&quality=85
+    publisher: Infobae
+    caption: 'Another army handout photo from the same eradication at Cooperativa Ixmucané, Las Cruces, Petén. Photo: Ejército de Guatemala via Infobae'
+  - kind: photo
+    url: https://www.infobae.com/guatemala/2026/09/21/erradicaron-dos-campos-con-12908-matas-de-marihuana-valuadas-en-usd-872198-en-guatemala/
+    media_url: https://www.infobae.com/resizer/v2/RSMKWGWO3BFJVMUGU5IINYNMDQ.jpg?auth=7f2c7749d28daddf297963b4fd8458d7c51703d29c1598ec3e0d39d664c32069&smart=true&width=350&height=194&quality=85
+    publisher: Infobae
+    caption: 'Third army handout photo published with the Ixmucané eradication report, Las Cruces, Petén. Photo: Ejército de Guatemala via Infobae'
 ---
 
 On Sunday 20 September 2026, agents of SGAIA, the anti-narcotics analysis unit of Guatemala's
 national civil police, working with army soldiers, eradicated 51,308 marijuana plants in the
-municipality of Las Cruces, Petén. [@1,2] The Interior Ministry valued the plants at about
+municipality of Las Cruces, Petén. [@1,2] The operation brought in the army's Special Forces Brigade, SGAIA anti-narcotics police and Public Prosecutor's Office prosecutors, who collected evidence to establish possible responsibility. [@3] The Interior Ministry valued the plants at about
 25,654,000 quetzales. [@1,2]
 
 One site was caserío La Bacadilla, where 38,400 plants were destroyed; another was Cooperativa
-Ixmucané, where 12,908 plants were burned. [@1,2] The ministry said the plantations were in growth
+Ixmucané, where 12,908 plants were burned. [@1,2,3] The Ixmucané crop was found in two marijuana fields, which the troops eradicated and burned on the site. [@3] The ministry said the plantations were in growth
 and harvest stages. [@1]
 
 La Hora reported the same totals and said the army put the Ixmucané portion alone at at least
-6.45 million quetzales. [@2] Neither account named arrests. [@1,2]
+6.45 million quetzales. [@2,3] Neither account named arrests. [@1,2]
