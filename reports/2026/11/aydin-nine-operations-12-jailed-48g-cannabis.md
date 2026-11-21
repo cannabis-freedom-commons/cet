@@ -60,33 +60,38 @@ sources:
     publisher: İhlas Haber Ajansı (İHA)
     date: 2026-11-20
     language: tr
+  - title: 'Aydın''da 9 adrese operasyon: 12 kişi tutuklandı'
+    url: https://www.egealternatif.com/haber/aydin-da-9-adrese-operasyon-12-kisi-tutuklandi_102895/
+    publisher: Ege Alternatif Gazetesi
+    date: 2026-11-21
+    language: tr
 open_questions:
-  - The police statement gives no separate date for the arrests or the court appearances; 19 November 2026, the last day of the 11-19 November operation period, is used as the incident date.
-  - The 38 grams of esrar and 10 grams of skunk are not broken down by address, district or suspect.
-  - No value estimate was published for the cannabis seized.
-  - The esrar and skunk were listed as seized quantities, with no laboratory confirmation reported.
-  - The 30,738 synthetic pills, 154 grams of synthetic drug raw material and 43 grams of methamphetamine are excluded from the cannabis figures.
-  - The cash and weapons seized in the same searches cannot be attributed to the cannabis part of the operation.
-  - It is not known whether all 12 suspects were held over the cannabis as well as the other drugs, or whether an indictment has been filed.
-  - Both accounts reproduce the same Aydın provincial police statement, so they are not independent reporting.
+    - The police statement gives no separate date for the arrests or the court appearances; 19 November 2026, the last day of the 11-19 November operation period, is used as the incident date.
+    - The 38 grams of esrar and 10 grams of skunk are not broken down by address, district or suspect.
+    - No value estimate was published for the cannabis seized.
+    - The esrar and skunk were listed as seized quantities, with no laboratory confirmation reported.
+    - The 30,738 synthetic pills, 154 grams of synthetic drug raw material and 43 grams of methamphetamine are excluded from the cannabis figures.
+    - The cash and weapons seized in the same searches cannot be attributed to the cannabis part of the operation.
+    - It is not known whether all 12 suspects were held over the cannabis as well as the other drugs, or whether an indictment has been filed.
+    - The accounts reproduce the same Aydın provincial police statement, so they are not independent reporting.
+    - One account describes the nine raids as simultaneous (eş zamanlı) while others describe nine separate operations spread over 11 to 19 November 2026; the police statement does not resolve which description is right.
 ---
 
 Police in Aydın province carried out nine separate operations in the Efeler,
 İncirliova and Nazilli districts between 11 and 19 November 2026, the provincial
-police department's narcotics branch said. [@1] Officers arrested 12 suspects at
-the addresses they raided. [@1] The İhlas news agency reported that the
+police department's narcotics branch said. [@1,3] Officers arrested 12 suspects at
+the addresses they raided. [@1,3] The İhlas news agency reported that the
 operations targeted nine separate addresses. [@2] All 12 were jailed after being
-brought before a court. [@1]
+brought before a court. [@1,3]
 
 Searches of the suspects and their addresses found 38 grams of esrar, the
-Turkish word for cannabis, and 10 grams of skunk. [@1] The same searches seized
+Turkish word for cannabis, and 10 grams of skunk. [@1,3] The same searches seized
 30,738 synthetic pills, 154 grams of synthetic drug raw material and 43 grams of
-methamphetamine, which are not counted in the cannabis figures here. [@1]
+methamphetamine, which are not counted in the cannabis figures here. [@1,3]
 Officers also seized two handguns, two pump-action shotguns and two precision
 scales, and confiscated 120,470 Turkish lira in cash that police assessed as
-proceeds of crime. [@1]
+proceeds of crime. [@1,3]
 
 Proceedings were opened against the 12 under article 188 of the Turkish Penal
 Code, which covers manufacturing and trading narcotic or psychotropic
 substances. [@1]
-
