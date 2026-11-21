@@ -56,28 +56,41 @@ sources:
     publisher: RTV Online
     date: 2026-11-20
     language: bn
+  - title: চবির হলে অভিযান, কাঁচা গাঁজাসহ মাদক সেবনের সরঞ্জাম উদ্ধার
+    url: https://newsnow24.com/prio-chattogram/G5wuh917I2
+    publisher: NewsNow24
+    date: 2026-11-20
+    language: bn
 open_questions:
     - No weight or value for the ganja recovered from the room was published.
     - The hall administration described the eight as identified while consuming drugs and handled the matter as a university disciplinary issue; no formal charge or court outcome was reported.
     - The ganja, electronic cigarettes and beer were recovered together from one room, so no quantity can be attributed to cannabis alone and it is unclear how many of the eight had used ganja specifically.
     - Academic punishment was left to the university administration and no final decision was reported.
     - The students accused of pushing the tutors say they did not recognise the teachers, while the house tutor says they acted aggressively after the tutors identified themselves.
-    - 'Accounts differ on how the raid began: one says it followed student complaints, while another says the proctor''s office passed on a report of drug use in room 612.'
+    - 'Accounts differ on how the raid began: one says it followed student complaints, another says the proctor''s office passed on a report of drug use in room 612, and the assistant proctor told NewsNow24 it followed a tip-off.'
+    - The time of the raid is given as about 7pm in one account and around 7:30pm in NewsNow24.
+    - NewsNow24 lists raw ganja, foreign electronic cigarettes and cigarette butts among the items recovered but does not mention beer, which other accounts list.
+media:
+  - kind: photo
+    url: https://newsnow24.com/prio-chattogram/G5wuh917I2
+    media_url: https://backend.newsnow24.com/storage/photos/shares/news/2026/11/20/file_1795190282.jpg
+    publisher: NewsNow24
+    caption: Raw ganja and drug-use equipment recovered in the raid on room 612 of Shaheed Farhad Hossain Hall, published with the NewsNow24 report.
 ---
 
 Members of the hall administration and proctorial body at Chittagong University
 raided room 612 of C block in Shaheed Farhad Hossain Hall, acting on student
-complaints. [@1,3] The raid took place at about 7pm on Friday 20 November 2026. [@4] The operation took place on the evening of Friday 20 November
+complaints. [@1,3] The raid took place at about 7pm on Friday 20 November 2026. [@4,5] The operation took place on the evening of Friday 20 November
 2026 across rooms 612 and 104 of the hall's C block. [@2,3] The hall
 administration said the raid identified eight people, seven students and one
-guest, as consuming drugs in the room. [@2,3,4] Kanan said only one of the four students allotted seats in room 612 was present during the raid, that the other three were at home and that the present student called the others in. [@4] The eight were five students of Shaheed Farhad Hossain Hall, two students of Atish Dipankar Hall and a guest from Dhaka. [@4]
+guest, as consuming drugs in the room. [@2,3,4,5] Kanan said only one of the four students allotted seats in room 612 was present during the raid, that the other three were at home and that the present student called the others in. [@4] The eight were five students of Shaheed Farhad Hossain Hall, two students of Atish Dipankar Hall and a guest from Dhaka. [@4]
 
 Officers recovered ganja, electronic cigarettes, drug-use equipment and bottles
-of beer from one of the rooms, the hall administration said. [@1,3,4] Assistant
+of beer from one of the rooms, the hall administration said. [@1,3,4,5] Assistant
 proctor Nurul Hamid Kanan said raw ganja and electronic cigarettes were
-recovered and beer bottles were also found. [@2,3] Assistant proctor Nurul Hamid Kanan said the room had four tables but no books. [@4] The room was sealed and the
+recovered and beer bottles were also found. [@2,3,5] Assistant proctor Nurul Hamid Kanan said the room had four tables but no books. [@4] The room was sealed and the
 hall administration said it would cancel the residential seats of those
-involved. [@1,3] Kanan said a detailed report would go to the university's senior authorities and disciplinary committee, which would decide academic punishment and other measures. [@4] He said a notice on the cancelled seats would be issued on the next working day, Sunday, that other halls would be told about their students and that a full investigation committee of resident teachers would be formed. [@4] Proctor Faruk Alam said the hall had a zero-tolerance policy on drugs and that no place could be kept for drug users while ordinary students lacked seats. [@4] The identity cards of those present were seized after the room was sealed. [@4]
+involved. [@1,3,5] Kanan said a detailed report would go to the university's senior authorities and disciplinary committee, which would decide academic punishment and other measures. [@4,5] He said a notice on the cancelled seats would be issued on the next working day, Sunday, that other halls would be told about their students and that a full investigation committee of resident teachers would be formed. [@4] Proctor Faruk Alam said the hall had a zero-tolerance policy on drugs and that no place could be kept for drug users while ordinary students lacked seats. [@4] The identity cards of those present were seized after the room was sealed. [@4]
 
 During a search of another room in the same hall, two students were accused of
 pushing two house tutors. [@1,3] The two students accused of pushing the tutors were from the history department and the criminology and police science department. [@3] House tutor Bapparaj Hawlader said the two
