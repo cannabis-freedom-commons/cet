@@ -59,12 +59,18 @@ sources:
     url: https://informat.ro/en/current-affairs/two-men-from-timis-county-charged-with-cocaine-and-cannabis-trafficking-149203
     publisher: Informat.ro
     date: 2026-11-19
+  - title: Un tânăr din Timișoara ar fi câștigat aproape 2,8 milioane de lei din traficul de droguri. Ce au găsit procurorii DIICOT
+    url: https://www.gorjonline.ro/un-tanar-din-timisoara-ar-fi-castigat-aproape-28-milioane-de-lei-din-traficul-de-droguri-ce-au-gasit-procurorii-diicot/
+    publisher: GorjOnline
+    date: 2026-11-20
+    language: ro
 open_questions:
-  - The cannabis and cocaine weights were reported as approximate, with no laboratory confirmation stated.
-  - The 2,745,000 lei is the alleged combined proceeds from cocaine and cannabis sales; the cannabis share was not separated, and the 800 g of cocaine is excluded from cannabis figures.
-  - Only the suspects' ages of 28 and 31 were published, with no plea or later court outcome beyond the 19 November preventive measures reported.
-  - Both outlets reproduce the same DIICOT and IPJ Timis account of one operation rather than independent investigations.
-  - A linked mention of 50 kg of cocaine and 2.5 kg of cannabis in a car in Bucharest is a separate event left out here.
+    - The cannabis and cocaine weights were reported as approximate, with no laboratory confirmation stated.
+    - The 2,745,000 lei is the alleged combined proceeds from cocaine and cannabis sales; the cannabis share was not separated, and the 800 g of cocaine is excluded from cannabis figures.
+    - Only the suspects' ages of 28 and 31 were published, with no plea or later court outcome beyond the 19 November preventive measures reported.
+    - Both outlets reproduce the same DIICOT and IPJ Timis account of one operation rather than independent investigations.
+    - A linked mention of 50 kg of cocaine and 2.5 kg of cannabis in a car in Bucharest is a separate event left out here.
+    - Accounts alternately give the alleged proceeds as about 2,745,000 lei and about 2.8 million lei.
 ---
 
 Officers of the Timișoara Organised Crime Combat Brigade with prosecutors of the
@@ -72,21 +78,20 @@ DIICOT Timișoara Territorial Service investigated two people aged 28 and 31 for
 risk and high-risk drug trafficking, with money laundering in one case. [@2]
 DIICOT prosecutors ordered the detention of both suspects on 18 November 2026.
 [@2] On 19 November the Timiș Tribunal ordered 30-day preventive arrest for the
-28-year-old and 30-day house arrest for the 31-year-old. [@1]
+28-year-old and 30-day house arrest for the 31-year-old. [@1,4]
 
 The two men allegedly sold cocaine and cannabis in Timișoara between 2023 and
-June 2026. [@1] The 28-year-old allegedly repeatedly procured, held and sold
-cocaine and cannabis for 400 to 1,000 lei. [@1] Deals took place at his home or
-at buyers' addresses and payment was made mainly by online transfer. [@1] In the
+June 2026. [@1,4] The 28-year-old allegedly repeatedly procured, held and sold
+cocaine and cannabis for 400 to 1,000 lei. [@1,4] Deals took place at his home or
+at buyers' addresses and payment was made mainly by online transfer. [@1,4] In the
 period under investigation he allegedly received about 2,745,000 lei. [@1] When
 he temporarily left the country in March 2026 the 31-year-old allegedly took
-over selling cannabis and cocaine. [@2] Four home searches on 18 November found
+over selling cannabis and cocaine. [@2,4] Four home searches on 18 November found
 about 1 kg of cannabis and 800 g of cocaine ready for sale, plus grinders, items
 with substance traces, 77,000 lei, 1,000 euro, jewellery, a luxury watch and
-other evidence. [@1] Investigators seized two apartments and a bank account of
+other evidence. [@1,4] Investigators seized two apartments and a bank account of
 the 28-year-old and a luxury car valued at about 170,000 euro suspected to have
-been bought with drug money. [@3]
+been bought with drug money. [@3,4]
 
 The operation was supported by gendarmes of the Timișoara Mobile Gendarmerie
 Group. [@2]
-
