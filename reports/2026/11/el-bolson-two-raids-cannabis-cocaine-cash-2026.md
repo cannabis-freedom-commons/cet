@@ -53,6 +53,16 @@ media:
     media_url: https://canal12web.com/wp-content/uploads/2026/11/CANAL12WEB-2026-11-20T082508.446-1200x675.jpg
     publisher: Canal 12 Web
     caption: Close-up of a package marked 'Clorhidrato de cocaína' beside the shield of the División Drogas Peligrosas y Leyes Especiales Comarca Andina, from the El Bolsón raids, published with the Canal12 report.
+  - kind: photo
+    url: https://www.eqsnotas.com/policiales/desbarataron-un-punto-de-venta-de-drogas-que-abastecia-el-bolson-lago-puelo-y-el-hoyo
+    media_url: https://eqsnotas-assets.tadevel-cdn.com/6b002d18568e35bcbe7302b0/540.avif
+    publisher: EQSnotas
+    caption: 'A brick of cocaine hydrochloride seized in one of the El Bolsón raids beside a precision digital scale. Photo: Policía del Chubut'
+  - kind: photo
+    url: https://www.eqsnotas.com/policiales/desbarataron-un-punto-de-venta-de-drogas-que-abastecia-el-bolson-lago-puelo-y-el-hoyo
+    media_url: https://eqsnotas-assets.tadevel-cdn.com/6b002d63568e35bcbe730436/540.avif
+    publisher: EQSnotas
+    caption: 'Cannabis buds divided into portions and ready for sale, seized in the El Bolsón raids. Photo: Policía del Chubut'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 7d83e2eae7be1b7c941a04e1842e2565
@@ -73,6 +83,11 @@ sources:
     publisher: Diario Jornada
     date: 2026-11-20
     language: es
+  - title: 'Narcomenudeo en la Comarca Andina: secuestraron drogas, dinero y un revólver'
+    url: https://www.eqsnotas.com/policiales/desbarataron-un-punto-de-venta-de-drogas-que-abastecia-el-bolson-lago-puelo-y-el-hoyo
+    publisher: EQSnotas
+    date: 2026-11-20
+    language: es
 open_questions:
   - No weight was published for the cannabis, which was seized in wrappers together with cocaine, so no cannabis kilogram figure is recorded.
   - No count was given for the cannabis plants found in the two homes.
@@ -88,20 +103,19 @@ open_questions:
 Police of the Chubut force's dangerous drugs division for the Comarca Andina,
 based in El Hoyo, raided two homes in El Bolsón, Río Negro, on Thursday 19
 November 2026, under the supervision of the federal prosecutor's office in
-Esquel and with the duty criminal judge's authorisation. [@1] The searches were
+Esquel and with the duty criminal judge's authorisation. [@1,4] The searches were
 at homes on avenida Costanera, in barrio Luján, and on avenida Patagonia
-Argentina. [@1] Officers from the Esquel drugs unit, the Esquel infantry guard,
-the El Hoyo GRIM group and El Bolsón's 12th police station took part. [@1]
+Argentina. [@1,4] Officers from the Esquel drugs unit, the Esquel infantry guard,
+the El Hoyo GRIM group and El Bolsón's 12th police station took part. [@1,4]
 
-Officers seized wrappers of cannabis and portioned cocaine. [@1] They also found
-cannabis plants and a .38 revolver with five rounds of ammunition. [@2] Officers
-seized 300,000 pesos in cash. [@1]
+Officers seized wrappers of cannabis and portioned cocaine. [@1,4] They also found
+cannabis plants and a .38 revolver with five rounds of ammunition. [@2,4] Officers also seized precision digital scales and mobile phones of interest to the case. [@4] Officers
+seized 300,000 pesos in cash. [@1,4]
 
 Police identified the suspect as a 52-year-old man from Neuquén living in El
 Bolsón, and said he sold drugs at retail in El Bolsón, Lago Puelo and El Hoyo.
-[@1] He was charged under Law 23.737, Argentina's narcotics law. [@1] He was
+[@1,4] He was charged under Law 23.737, Argentina's narcotics law. [@1,4] He was
 also accused of an offence under article 189 bis of the penal code over the
-firearm seized in the raids. [@1] He was released with substitute measures at
+firearm seized in the raids. [@1,4] He was released with substitute measures at
 his home and remains at the disposal of the Esquel federal prosecutor's office
-while the case continues. [@3]
-
+while the case continues. [@3,4]
