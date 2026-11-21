@@ -92,17 +92,19 @@ sources:
     url: https://thestar.co.za/news/crime-and-courts/2025-10-08-aged-29-ex-kaizer-chiefs-star-abbas-amidu-arrested-in-zimbabwe-sparking-debate-over-his-age/
     publisher: The Star
     date: 2025-10-08
+  - title: Ex-Kaizer Chiefs Striker Brian Abbas Amidu and Kudzai Reuben Mhlanga Arrested in Zimbabwe's Massive Dagga Bust
+    url: https://centralnews.co.za/ex-kaizer-chiefs-striker-brian-abbas-amidu-and-kudzai-reuben-mhlanga-arrested-in-zimbabwes-massive-dagga-bust/
+    publisher: Central News
+    date: 2025-10-08
+    archived: https://web.archive.org/web/20251008134234id_/https://centralnews.co.za/ex-kaizer-chiefs-striker-brian-abbas-amidu-and-kudzai-reuben-mhlanga-arrested-in-zimbabwes-massive-dagga-bust/
 open_questions:
-  - Later court reporting described the haul as 780 kg worth about US$78,000, against the police figure of 750 kg worth USD 75,000 used here; the police figure is used because it is the official seizure account.
-  - One later court account dates the interception to 4 October 2025 while the police statement gives 3 October 2025; the police date is used.
-  - The sources vary the suspects' names and spellings (Tumai/Tumirai Matsika, Abbas/Abas/Brian Abbas Amidu; Kudzai/Reuben Mhlanga); the report uses the sentencing-report forms.
-  - The sentencing court is not named in the opened sources; only the 24 February 2026 sentencing date is reported.
-  - The arrest report also mentions a separate arrest of Prosper Mphofu with 60 kg of dagga at Trabablas Interchange; that is a different event left out here.
-  - This article's opening paragraph gives the haul as 780 kg, while the Zimbabwe Republic Police statement quoted further down gives 750 kg; the report uses the police figure.
-  - No source says when the bail hearing took place, whether the court gave reasons for refusing bail, or what it considered, other than that the pair would remain in custody pending trial.
-  - No weight for the drugs and no cannabis-specific identification beyond drugs and an illegal substance is given in this account.
-  - Valuations of about R1,3 million and about USD 75,000 (about R1.2 million) were reported for the same haul.
-  - Police gave his age as 29, while his reported age of 21 when he signed in 2012 would imply about 35 now.
+    - Later court reporting described the haul as 780 kg worth about US$78,000, while the police statement gives 750 kg worth USD 75,000; the report uses the police figure.
+    - One later court account dates the interception to 4 October 2025 while the police statement gives 3 October 2025; the report uses the police date.
+    - The sources give differing names and spellings for the two men (Tumai/Tumirai Matsika, Abbas/Abas/Brian Abbas Amidu; Kudzai/Reuben Mhlanga); the report uses the sentencing-report forms.
+    - The sentencing court is not named in the sources; only the 24 February 2026 sentencing date is reported.
+    - No account says when the bail hearing took place or whether the court gave reasons for refusing bail, other than that the pair remained in custody pending trial.
+    - Valuations of about R1,3 million and about USD 75,000 (about R1.2 million) were reported for the same haul.
+    - Police gave Amidu's age as 29, while his reported age of 21 when he signed in 2012 would imply about 35 now.
 ---
 
 Former Kaizer Chiefs and Black Leopards forward Abbas Amidu was sentenced to 12
@@ -117,14 +119,14 @@ State opposed release, calling him a flight risk while investigations continued.
 Police apprehended the pair, aged 29 and 41, on 3 October 2025 along the
 Kwekwe-Kadoma Highway in a silver Honda Shuttle, registration AGP 6776. [@3,8]
 Police said the two were found in possession of 750 kg of dagga in the vehicle,
-which police valued at USD 75,000. [@3,8] Detectives found the dagga in 75 packets wrapped in black plastic inside the silver Honda Shuttle. [@7]
+which police valued at USD 75,000. [@3,8,10] Detectives found the dagga in 75 packets wrapped in black plastic inside the silver Honda Shuttle. [@7]
 
 Amidu and his co-accused Kudzai (Reuben) Mhlanga were each sentenced to 12
 years' imprisonment after appearing in court for possession of the dagga haul,
 reported as worth about US$75,000 (about R1.2 million). [@1] Police announced
 the arrest, conviction and sentencing together, saying the two appeared in court
-on 24 February 2026 and were each sentenced to 12 years' imprisonment. [@1] Prosecutors described the seizure as one of the largest in the Midlands province that year, according to The Herald. [@7]
+on 24 February 2026 and were each sentenced to 12 years' imprisonment. [@1] Prosecutors described the seizure as one of the largest in the Midlands province that year, according to The Herald. [@7,10]
 
-The arrests followed a tip-off, after which detectives intercepted Amidu and Mhlanga just outside Kwekwe. [@4,6] Police said the car was stopped on the Kwekwe–Kadoma Highway near the Gokwe turn-off. [@9] The two are suspected of being part of a larger drug trafficking syndicate operating across several provinces in Zimbabwe. [@4]
+The arrests followed a tip-off, after which detectives intercepted Amidu and Mhlanga just outside Kwekwe. [@4,6,10] Police said the car was stopped on the Kwekwe–Kadoma Highway near the Gokwe turn-off. [@9] The two are suspected of being part of a larger drug trafficking syndicate operating across several provinces in Zimbabwe. [@4] Investigations continued to trace the source and intended destination of the consignment. [@10]
 
 The bail hearing was held in the Kwekwe Magistrates' Court, the same court where they later faced the dagga charge. [@5,6] Police alleged that Amidu used multiple aliases and had pending cases in Epworth and Harare under different identities to evade detection. [@5,9]
