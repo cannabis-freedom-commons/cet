@@ -80,18 +80,19 @@ open_questions:
     - The material was described by police as ganja; no laboratory confirmation was reported.
     - The value of about 400,500 rupees is the police estimate, not an independent valuation.
     - No plea or further court outcome beyond judicial remand was reported.
+    - This account rounds the seizure to 8 kg, while the report uses the precise police figure of 8.224 kg.
 ---
 
 Rajnandgaon police arrested two women from Maharashtra at Chichola bus stand on
 suspicion of ganja trafficking. [@1,3,5] The women were identified as 28-year-old
 Asha Sunil Kade of Borgaon in Beed district and 45-year-old Gauri Bhagwan Kale
-of Shirdi in Ahmednagar district. [@2,4,5] Police registered a case under Section
+of Shirdi in Ahmednagar district. [@2,3,4,5] Police registered a case under Section
 20(b) of the NDPS Act and a court sent both women to jail on judicial remand.
 [@2,4,5]
 
 Police said an informant reported on the night of 18 November that two women had
 arrived by bus from the Raipur side with ganja and were seeking buyers at the
-bus stand. [@2,4] Acting under the superintendent's direction, the Chichola
+bus stand. [@2,3,4] Acting under the superintendent's direction, the Chichola
 outpost team cordoned off the area around the bus stand and detained two women
 matching the description. [@1] A search of their joint possession found two
 backpacks holding plastic packets wrapped in khaki tape, with four packets
