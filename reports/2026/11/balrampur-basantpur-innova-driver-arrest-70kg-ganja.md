@@ -66,38 +66,45 @@ sources:
     publisher: VocalTV
     date: 2026-11-20
     language: hi
+  - title: 'गांजा तस्करी केस: 70 किलो से अधिक गांजे के साथ मुख्य आरोपी गिरफ्तार, फास्टैग से मिला सुराग'
+    url: https://news36live.com/?p=78388
+    publisher: News36Live
+    date: 2026-11-20
+    language: hi
+  - title: 35 लाख का गांजा छोड़कर भागा था तस्कर, फास्टैग से पुलिस पहुंची आरोपी तक, मुंबई से हुई गिरफ्तारी
+    url: https://vistaarnews.com/chhattisgarh/surguja/balrampur-police-seized-70-kg-ganja-from-innova-car-main-accused-arrested/
+    publisher: Vistaar News
+    date: 2026-11-20
+    language: hi
 open_questions:
-  - 'Accounts differ on the arrested man''s address: Amar Ujala calls him a native of Jalalpur Mafi in Mirzapur district, Uttar Pradesh, while CG Sandesh and VocalTV describe him as a Palghar, Maharashtra resident.'
-  - The reports do not say where the man was arrested or how long he was held for questioning before the formal arrest on 20 November 2026.
-  - No charge sheet, plea or court outcome beyond judicial remand has been reported.
-  - The 3,519,500-rupee figure is the police's estimate of the ganja's market value, not a sale price.
-  - The accounts reproduce the same Basantpur police statement, so they are not independent reporting.
-  - 'Left out, as its quotation was not found in Amar Ujala: Police gave his age as 43 and said he was a native of Jalalpur Mafi in Mirzapur district, Uttar Pradesh.'
-  - 'Left out, as its quotation was not found in VocalTV: Near Wadrafnagar on 22 September, a truck hit a tree, the car ahead braked suddenly and his Innova struck it from behind.'
+    - 'Accounts differ on the arrested man''s address: Amar Ujala calls him a native of Jalalpur Mafi in Mirzapur district, Uttar Pradesh, while other accounts, including this one, describe him as a Palghar, Maharashtra resident whose village is Mirzapur.'
+    - The reports do not say where the man was arrested or how long he was held for questioning before the formal arrest on 20 November 2026.
+    - No charge sheet, plea or outcome beyond judicial remand has been reported.
+    - The 3,519,500-rupee figure is the police's estimate of the ganja's market value, not a sale price.
+    - The accounts reproduce the same Basantpur police statement, so they are not independent reporting.
 ---
 
 Police in Basantpur, in Chhattisgarh's Balrampur district, arrested the driver
 accused of abandoning a car carrying 70.390 kg of ganja near Fulidumar village
-in September. [@1] Officers identified him from the Fastag fitted to the
-abandoned Innova and from other technical evidence, police said. [@2] He was
+in September. [@1,5] Officers identified him from the Fastag fitted to the
+abandoned Innova and from other technical evidence, police said. [@2,5] He was
 arrested on Friday 20 November 2026 and produced in court for judicial remand.
 [@4]
 
 The case began on 22 September 2026, when the Basantpur station house officer
 was told that an Innova (MH 04 DY 9471) had stood abandoned for some time on the
-road from Fulidumar towards Mahuwari. [@3] Officers opened the locked vehicle
-with a mechanic's help and searched it in front of witnesses. [@3] They found 18
+road from Fulidumar towards Mahuwari. [@3,5] Officers opened the locked vehicle
+with a mechanic's help and searched it in front of witnesses. [@3,5] They found 18
 packets wrapped in brown tape in the boot and 16 more in a green plastic bag;
-all 34 packets held ganja. [@3] The drug weighed 70.390 kg and police estimated
-its market value at 3,519,500 rupees. [@3] The Innova, put at about 1.5 million
-rupees, was also seized. [@3] A case was registered against the unknown driver
+all 34 packets held ganja. [@3,5] The drug weighed 70.390 kg and police estimated
+its market value at 3,519,500 rupees. [@3,6] The Innova, put at about 1.5 million
+rupees, was also seized. [@3,5] A case was registered against the unknown driver
 under section 20(b)(ii)(C) of the Narcotic Drugs and Psychotropic Substances
 Act, crime number 148/2026. [@4]
 
 According to police, the man said he had bought the Innova from someone in
-Mumbai without transferring it into his own name. [@2] He said he loaded the
+Mumbai without transferring it into his own name. [@2,5] He said he loaded the
 ganja at Sundargarh in Odisha in July 2026 and was taking it to Uttar Pradesh
-through Chhattisgarh. [@4] Fearing police at the Chhattisgarh–Uttar Pradesh
-border, he parked the car on a dirt track and fled with his companions. [@4]
-Police said they were still looking for the other suspects. [@2]
-
+through Chhattisgarh. [@4,5] He told police that near Wadrafnagar a truck had hit a tree, the car ahead braked suddenly and his Innova struck it, after which he drove off at speed. [@5] Fearing police at the Chhattisgarh–Uttar Pradesh
+border, he parked the car on a dirt track and fled with his companions. [@4,5]
+Police said they were still looking for the other suspects. [@2,5]
