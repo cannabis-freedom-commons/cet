@@ -58,15 +58,19 @@ sources:
     url: https://www.crimeworld.com/courts/fisherman-jailed-for-attempting-to-smuggle-more-than-400000-worth-of-drugs-through-airport/a/164693285.html
     publisher: Crime World
     date: 2026-11-17
+  - title: Wicklow fisherman jailed over €400,000 cannabis smuggling plot at Dublin Airport
+    url: https://www.independent.ie/county/wicklow/wicklow-fisherman-jailed-over-400000-cannabis-smuggling-plot-at-dublin-airport/a/164777365.html
+    publisher: Irish Independent
+    date: 2026-11-20
 open_questions:
-  - No separate date is given for the sentencing; 17 November 2026 is the article's publication date and is used as the incident date, with the sentence backdated to July.
-  - 'The article gives two valuations: a then estimated street value of €422,920 and a revised official estimate of about €296,000 after the per-kilo rate fell from €20,000 to €14,000.'
-  - The account rests on a single opened source; no second report of the sentencing was found.
-  - The flight's origin and the form of the cannabis were not stated.
+    - No separate date is given for the sentencing; 17 November 2026 is the article's publication date and is used as the incident date, with the sentence backdated to July.
+    - 'The article gives two valuations: a then estimated street value of €422,920 and a revised official estimate of about €296,000 after the per-kilo rate fell from €20,000 to €14,000.'
+    - The flight's origin and the form of the cannabis were not stated.
+    - The detailed account of the seizure, valuation and duress still rests on the single Crime World report; the Irish Independent's 20 November piece repeats only the core sentencing facts and adds no further detail.
 ---
 
 A Wicklow fisherman was jailed for three and a half years for attempting to
-smuggle more than €400,000 worth of cannabis through Dublin Airport. [@1] Seamus
+smuggle more than €400,000 worth of cannabis through Dublin Airport. [@1,2] Seamus
 Carroll, of Avondale Crescent, Arklow, Co Wicklow, pleaded guilty last May to
 importation of cannabis at Dublin airport on 25 October 2024. [@1] Dublin
 Circuit Criminal Court heard that the 35-year-old carried out the offence after
@@ -90,4 +94,3 @@ gain but to reduce a debt he had built up. [@1] Judge Sheahan backdated the
 sentence to July to take account of time spent in custody on remand. [@1]
 Carroll had two previous District Court convictions for drug dealing, from 2022
 and 2023, along with some public order convictions. [@1]
-
