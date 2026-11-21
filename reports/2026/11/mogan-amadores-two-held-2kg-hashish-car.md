@@ -64,6 +64,11 @@ sources:
     publisher: maspalomasnews.com
     date: 2026-11-19
     language: es
+  - title: Detenidos dos hombres con dos kilos de hachís en un coche en el sur de Gran Canaria
+    url: https://www.atlanticohoy.com/sociedad/detenidos-dos-hombres-con-dos-kilos-de-hachis-en-un-coche-en-el-sur-de-gran-canaria_1570310_102.html
+    publisher: Atlántico Hoy
+    date: 2026-11-19
+    language: es
 media:
   - kind: photo
     url: https://www.laprovincia.es/sucesos/sucesos-en-canarias/2026/11/19/control-trafico-amadores-acaba-detenidos-136624358.html
@@ -79,16 +84,16 @@ media:
 
 Mogán Local Police arrested two men in Amadores, in the south of Gran Canaria,
 after finding two kilograms of hashish hidden in the car they were travelling
-in. [@1,3,4] The operation took place on 13 November 2026 during a preventive
-traffic control carried out with support from the canine unit. [@2,3,4]
+in. [@1,3,4,5] The operation took place on 13 November 2026 during a preventive
+traffic control carried out with support from the canine unit. [@2,3,4,5]
 
 Officers stopped the car and, during initial checks, found a small amount of
-what appeared to be hashish in the passenger-side area. [@1,3,4] When officers
+what appeared to be hashish in the passenger-side area. [@1,3,4,5] When officers
 called for the specialist dog to inspect the vehicle in depth, the passenger
-fled on foot but officers intercepted him a few minutes later. [@1,3,4] The dog's
+fled on foot but officers intercepted him a few minutes later. [@1,3,4,5] The dog's
 indication led officers to find the two kilograms of hashish inside the vehicle.
-[@2,3,4] Officers also seized 380 euros in notes of different denominations. [@1,3,4]
+[@2,3,4,5] Officers also seized 380 euros in notes of different denominations. [@1,3,4,5]
 
 Both men were detained as alleged perpetrators of a crime against public health.
-[@1,3,4] They were taken to police premises for the preparation of the corresponding
-proceedings. [@2,3,4]
+[@1,3,4,5] They were taken to police premises for the preparation of the corresponding
+proceedings. [@2,3,4,5]
