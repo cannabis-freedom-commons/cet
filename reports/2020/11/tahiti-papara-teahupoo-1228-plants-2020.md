@@ -44,6 +44,11 @@ media:
     media_url: https://www.tntvnews.pf/tntv/wp-content/uploads/2020/11/paka-2611.png
     publisher: TNTV News
     caption: 'Gendarmerie handout photo of paka plants from the searches in Teahupoo, Vairao, Afaahiti and Papara. Photo: Gendarmerie nationale'
+  - kind: photo
+    url: https://www.tahiti-infos.com/Saisie-de-1-228-pieds-de-cannabis_a196293.html
+    media_url: https://www.tahiti-infos.com/photo/art/default/51838849-39696824.jpg?v=1606426635
+    publisher: Tahiti Infos
+    caption: Cannabis plants seized in the Teahupoo, Vairao, Afaahiti and Papara searches, published with the Tahiti Infos report of the 1,228-plant seizure.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 061e14d044ed8b510d15ee2481730404
@@ -65,30 +70,34 @@ sources:
     publisher: Outre-mer La 1ère
     date: 2020-11-26
     language: fr
+  - title: Saisie de 1 228 pieds de cannabis
+    url: https://www.tahiti-infos.com/Saisie-de-1-228-pieds-de-cannabis_a196293.html
+    publisher: Tahiti Infos
+    date: 2020-11-26
+    language: fr
 open_questions:
-  - Radio1 Tahiti's text gives the dried herb as 2 170 kg while its own headline says two kilos; TNTV prints 2,170 kg and Outre-mer La 1ère 2.1 kilos, and the report uses 2.170 kilograms.
-  - No arrests were reported; whether anyone was later detained, charged or tried over the plantations is not known.
-  - The number of plantations dismantled and the area they covered are not given.
-  - The 11 sticks prepared for resale are not weighed, so they are not counted in the 2.170 kilograms.
-  - The accounts reproduce the same gendarmerie communiqué and are not independent reporting.
-  - The plants are described as seedlings or in pots with no split between the two counts.
-  - No estimate of the value of the seized cannabis was published.
+    - Accounts give the dried herb as 2,170 kg (Radio1 text, TNTV), 2.1 kilos (Outre-mer La 1ère) and 2.2 kilograms in Tahiti Infos' lead with 2.17 in its body; the report uses 2.170 kilograms.
+    - No arrests were reported; whether anyone was later detained, charged or tried over the plantations is not known.
+    - The number of plantations dismantled and the area they covered are not given.
+    - The 11 sticks prepared for resale are not weighed, so they are not counted in the 2.170 kilograms.
+    - The accounts reproduce the same gendarmerie communiqué and are not independent reporting.
+    - The plants are described as seedlings or in pots with no split between the two counts.
+    - No estimate of the value of the seized cannabis was published.
 ---
 
 Gendarmes from the Papara and Taravao brigades, accompanied by DSI Sud
 personnel, dismantled several cannabis plantations at private homes during an
-operation on Tahiti and its peninsula. [@1] The raids took place on Tuesday 24
+operation on Tahiti and its peninsula. [@1,4] The raids took place on Tuesday 24
 November 2020. [@3] Searches were carried out in the communes of Teahupoo,
-Vairao, Afaahiti and Papara. [@1]
+Vairao, Afaahiti and Papara. [@1,4]
 
-The searches turned up 1,228 cannabis plants, as seedlings or in pots. [@1]
-Officers also seized 2.170 kilograms of dried cannabis herb. [@2] Officers took
-11 sticks prepared for resale and 48,000 CFP francs in cash. [@1] The
+The searches turned up 1,228 cannabis plants, as seedlings or in pots. [@1,4]
+Officers also seized 2.170 kilograms of dried cannabis herb. [@2,4] Officers took
+11 sticks prepared for resale and 48,000 CFP francs in cash. [@1,4] The
 gendarmerie said the plantations were at the homes of private residents and that
 the operation targeted drug trafficking and use. [@2] Local outlets call the
 plant paka, the name used for cannabis in French Polynesia. [@3]
 
-The seized drugs were destroyed by incineration, the gendarmerie said. [@1] No
+The seized drugs were destroyed by incineration, the gendarmerie said. [@1,4] No
 arrests were reported, and the gendarmerie said investigations were continuing
-to identify all the people involved. [@1]
-
+to identify all the people involved. [@1,4]
