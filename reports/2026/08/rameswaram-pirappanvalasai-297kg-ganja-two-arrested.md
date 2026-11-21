@@ -60,20 +60,17 @@ sources:
     url: https://www.aninews.in/news/national/general-news/tamil-nadu-290-kg-of-cannabis-headed-for-sri-lanka-seized-near-uchipuli-2-held20260807150404
     publisher: ANI
     date: 2026-08-07
-open_questions:
-  - 'Accounts differ on the hour: The Times of India said Friday morning, The Hindu Friday night, and ANI about 4:00 at dawn; 7 August 2026 is taken from ANI''s 7 August dateline and the Friday before the 8 August reports.'
-  - ANI reported about 290 kg, while The Times of India and The Hindu reported 297 kg, which is used here.
-  - Kalanjeeswaran's place is given as Mandapam by The Times of India and as Pillaimadam, or Pillai Math, by The Hindu and ANI.
-  - The Times of India said police were seeking seven others; The Hindu said several others, and none were named.
-  - No court outcome beyond registration of an NDPS case was reported.
-  - The superintendent's figures of 212 cases, about 670 kg of ganja and 1.8 kg of methamphetamine are district totals for the year, not this seizure.
+  - title: 290 Kg of Cannabis Headed for Sri Lanka Seized Near Rameswaram
+    url: https://www.deccanchronicle.com/southern-states/tamil-nadu/290-kg-of-cannabis-headed-for-sri-lanka-seized-near-rameswaram-1977368
+    publisher: Deccan Chronicle
+    date: 2026-08-07
 ---
 
 Uchipuli police arrested two men after a vehicle check near the Rameswaram coast
-in Ramanathapuram district on Friday morning. [@1] The men were Dinesh, alias
+in Ramanathapuram district on Friday morning. [@1,4] The men were Dinesh, alias
 Karuppu Dinesh, 24, from Aatrangarai, and Kalanjeeswaran, 22, from Mandapam.
 [@1] ANI named them as P. Dinesh, 24, of Attangara North Street, and S.
-Kalanjeeswaran, 22, of Pillai Math, next to Mandapam. [@3]
+Kalanjeeswaran, 22, of Pillai Math, next to Mandapam. [@3,4]
 
 Acting on a tip-off, a special police team intercepted a van near the
 Pirappanvalasai coast and seized 297 kg of ganja. [@1] The Hindu reported the
@@ -90,4 +87,3 @@ Substances Act. [@1] Chandeesh said further investigation was under way to trace
 and arrest seven others in the smuggling network. [@1] He later inspected the
 seized packages at the Ramanathapuram Armed Reserve campus. [@2] Police said the
 bank accounts and properties of the arrested men were being frozen. [@2]
-
