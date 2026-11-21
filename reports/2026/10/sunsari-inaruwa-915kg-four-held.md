@@ -52,6 +52,10 @@ sources:
     url: https://english.khabarhub.com/2026/18/572466/
     publisher: Khabarhub
     date: 2026-10-18
+  - title: Four people arrested with more than nine quintals cannabis
+    url: https://english.nepalnews.com/s/crime-news/four-people-arrested-with-more-than-nine-quintals-cannabis/
+    publisher: Nepal News
+    date: 2026-10-18
 media:
   - kind: photo
     url: https://www.theannapurnaexpress.com/story/68044/
@@ -62,13 +66,13 @@ media:
 ---
 
 District police in Sunsari arrested four men with 915.68 kg of cannabis after
-searching a house in Gyanodaya Tol, Inaruwa municipality-4. [@1,2,3]
+searching a house in Gyanodaya Tol, Inaruwa municipality-4. [@1,2,3,4]
 
 Assistant information officer Hemraj Oli of the Sunsari District Police Office
 said officers found the marijuana hidden at Bulbul Yadav's home near the Hanuman
-temple on the morning of 18 October 2026. [@1,2,3] Those held were Bulbul Yadav,
+temple on the morning of 18 October 2026. [@1,2,3,4] Those held were Bulbul Yadav,
 36, of Inaruwa-4, Santosh Yadav, 23, Ashish Yadav, 30, and Kundan Yadav, 22,
-of Duhabi municipality-10. [@1,2,3]
+of Duhabi municipality-10. [@1,2,3,4]
 
-Police also impounded a motorcycle in connection with the case. [@1,2,3] Oli said
+Police also impounded a motorcycle in connection with the case. [@1,2,3,4] Oli said
 a further investigation was continuing. [@2]
