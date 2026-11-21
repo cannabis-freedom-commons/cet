@@ -60,6 +60,11 @@ sources:
     publisher: İhlas Haber Ajansı
     date: 2026-11-20
     language: tr
+  - title: Yozgat'ta ev operasyonunda 1 kilo 267 gram esrar ele geçirildi, şüpheli tutuklandı
+    url: https://www.haberport.com/haber/yozgatta-ev-operasyonunda-1-kilo-267-gram-esrar-ele-gecirildi-supheli-tutuklandi/73406
+    publisher: Haberport
+    date: 2026-11-20
+    language: tr
 open_questions:
   - No date for the search, detention or remand was published; 20 November 2026 is the publication date of all three accounts and stands in for the incident date.
   - The material is described only as esrar, with no laboratory confirmation and no statement whether it was herbal cannabis or resin.
@@ -69,18 +74,18 @@ open_questions:
 ---
 
 Yozgat provincial police's anti-narcotics branch carried out an operation in the
-city centre as part of its work against drug sellers. [@2,4] Police said they had
+city centre as part of its work against drug sellers. [@2,4,5] Police said they had
 established that a man identified in reports only as L.K. kept drugs at his
-home. [@1,4] Officers carried out a judicial search at his home in the city
+home. [@1,4,5] Officers carried out a judicial search at his home in the city
 centre. [@3] Narcotics teams said they had reached the result through careful
 tracking and analysis. [@1]
 
 They seized 1 kilogram 267 grams of esrar, the everyday Turkish term for
-cannabis. [@2,4] One suspect was detained in connection with the seizure. [@3]
+cannabis. [@2,4,5] One suspect was detained in connection with the seizure. [@3,5]
 After processing at the police station he was taken to the courthouse. [@2] The
 provincial police directorate said the suspect was sent to the judicial
 authorities for manufacturing and trading narcotic or stimulant drugs, an
 offence under article 188 of the Turkish Penal Code. [@3] A judge remanded him
-in detention and he was taken to prison. [@3,4]
+in detention and he was taken to prison. [@3,4,5]
 
 The Yozgat police directorate said its work against drugs was continuing. [@3]
