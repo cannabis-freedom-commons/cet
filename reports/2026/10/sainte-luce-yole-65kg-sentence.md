@@ -60,6 +60,11 @@ sources:
     publisher: France-Antilles Martinique
     date: 2026-10-06
     language: fr
+  - title: 'Martinique : une yole interceptée en mer avec 69 kg de cannabis, deux hommes condamnés'
+    url: https://www.zayactu.org/martinique/martinique-une-yole-interceptee-en-mer-avec-69-kg-de-cannabis-deux-hommes-condamnes
+    publisher: ZayActu
+    date: 2026-10-05
+    language: fr
 open_questions:
   - The court accounts report 65 kilos of cannabis herb aboard the yole while the gendarmerie operational account reports 69 kilos plus the yole and 500 litres of fuel; the report records 65 kilos as the court figure.
   - The interception is dated to the night of 29 September in the court accounts and to the night of 28 to 29 September in the gendarmerie account.
@@ -83,14 +88,14 @@ The men had been intercepted at night on 29 September less than two kilometres
 off Sainte-Luce aboard a yole carrying 65 kilos of cannabis herb. [@1] Around 1
 a.m. the Marin naval brigade was patrolling at sea under the Scotopelia coastal
 defence mission. [@3,4] The Yemaya crew, reinforced by Annecy mobile gendarmes,
-detected the suspect boat and started searching with a projector. [@3] During
-the pursuit the yole's occupants threw part of the load overboard. [@3] Refusing
+detected the suspect boat and started searching with a projector. [@3,5] During
+the pursuit the yole's occupants threw part of the load overboard. [@3,5] Refusing
 control, the pilot repeatedly steered toward the gendarmerie launch, causing
-several impacts before the yole stopped. [@3] Gendarmes combed the area and
+several impacts before the yole stopped. [@3,5] Gendarmes combed the area and
 recovered several bales floating at the surface that proved to be cannabis herb.
-[@3]
+[@3,5]
 
 The gendarmerie put the operation's haul at 69 kilos of cannabis herb plus the
-yole and 500 litres of fuel. [@3,4] The Fort-de-France prosecutor assigned the
-investigation to the Marin research brigade. [@3] The seized property and
-equipment were confiscated. [@3]
+yole and 500 litres of fuel. [@3,4,5] The Fort-de-France prosecutor assigned the
+investigation to the Marin research brigade. [@3,5] The seized property and
+equipment were confiscated. [@3,5]
