@@ -80,6 +80,11 @@ sources:
     publisher: CNA
     date: 2026-11-19
     language: en
+  - title: 12 kg of Cannabis in Gel Form Seized, Drugs Intended for Distribution in Albania
+    url: https://albaniandailynews.com/news/12-kg-of-cannabis-in-gel-form-seized-drugs-intended-for-distribution-in-albania
+    publisher: Albania Daily News
+    date: 2026-11-20
+    language: en
 media:
   - kind: photo
     url: https://shqiptarja.com/lajm/kapen-12-kg-kanabis-ne-forme-xhelatine-nw-tiranw-nje-ne-pranga-dhe-nje-ne-kerkim-emrat?r=pop5h
@@ -91,23 +96,31 @@ media:
     media_url: https://shqiptarja.com/uploads/ckeditor/6aff0606c55a0audi.JPG
     publisher: Shqiptarja.com
     caption: 'Luxury Audi used by the two men, as captioned Audi luksoz me të cilin lëviznin të rinjtë. Photo: Shqiptarja.com'
+open_questions:
+    - The cocaine found in the arrested man's apartment was reported only as a quantity, so no weight is recorded.
+    - The cannabis was described as suspected Cannabis Sativa in gelatinous form, with no laboratory confirmation reported.
+    - All accounts reproduce the same Tirana police statement, so they are not independent reporting.
+    - No court outcome, charge or detention measure beyond the flagrante arrest and referral to the Prosecutor's Office was reported.
+    - Shqiptarja reports that Vata had been arrested in August 2022 as an 18-year-old ordering cannabis by post from the United Kingdom; that separate case is left out here.
+    - One account rounds the seized cannabis to 12 kg while the others give 12.1 kg; the 12.1 kg official figure is used.
+    - The origin of the narcotics in the United Kingdom was reported only as preliminary information and was not confirmed.
 ---
 
 Specialists of the Narcotics Investigation Section finalised the anti-drug
 operation codenamed Risia, declaring 22-year-old citizen F.I. wanted and
 arresting his peer citizen M.V. in flagrante delicto, both residents of
-Paskuqan. [@1,9] The wanted driver was identified as 22-year-old Flavio Ismalaj and the arrested accomplice as 22-year-old Mariglen Vata, both residents of Paskuqan. [@6] Police said both suspects had previous drug convictions and had recently been together in England, where they are suspected of involvement in drug trafficking. [@8] In the early morning hours of 19 November 2026 officers signalled
+Paskuqan. [@1,9,10] The wanted driver was identified as 22-year-old Flavio Ismalaj and the arrested accomplice as 22-year-old Mariglen Vata, both residents of Paskuqan. [@6] Police said both suspects had previous drug convictions and had recently been together in England, where they are suspected of involvement in drug trafficking. [@8] In the early morning hours of 19 November 2026 officers signalled
 the vehicle driven by F.I. to stop, but he disobeyed, drove on at high speed,
-abandoned the vehicle on the Tirana-Elbasan highway and fled. [@1,5,9] During the
+abandoned the vehicle on the Tirana-Elbasan highway and fled. [@1,5,9,10] During the
 pursuit police found that the car's movements were being monitored and secured
-by a vehicle driven by M.V., who was caught and handcuffed. [@3,5,9]
+by a vehicle driven by M.V., who was caught and handcuffed. [@3,5,9,10]
 
 A search of the vehicle abandoned by F.I. found 12.1 kg of suspected Cannabis
-Sativa in gelatinous form. [@2,4,5,9] Police sources suspect the more than 12 kilograms of gelatinous cannabis was sent by post from the United Kingdom, had a high THC content and was worth about 30,000 euros on the market. [@8] The cannabis was hidden in suitcases in the boot of a luxury Audi. [@7] In the two suitcases the drug was divided into about 500 packages, most holding small amounts and some 400 to 500 grams. [@8] Police said the gelatinous cannabis had been
-prepared to be sold in Albania. [@2,4] Police suspect the shipment was destined for Elbasan. [@8] A search of the arrested man's apartment
+Sativa in gelatinous form. [@2,4,5,9,10] Preliminary information suggested that the narcotics had been shipped from the United Kingdom through postal services. [@10] Police sources suspect the more than 12 kilograms of gelatinous cannabis was sent by post from the United Kingdom, had a high THC content and was worth about 30,000 euros on the market. [@8] The cannabis was hidden in suitcases in the boot of a luxury Audi. [@7] In the two suitcases the drug was divided into about 500 packages, most holding small amounts and some 400 to 500 grams. [@8] Police said the gelatinous cannabis had been
+prepared to be sold in Albania. [@2,4] The drugs' estimated street value was approximately €30,000, according to initial assessments. [@10] Police suspect the shipment was destined for Elbasan. [@8] A search of the arrested man's apartment
 found a quantity of suspected cocaine, which is not counted in the cannabis
-figures. [@1,4,5,9] The narcotics were seized together with 2 vehicles and 3 cell
-phones. [@1,4,5,9]
+figures. [@1,4,5,9,10] The narcotics were seized together with 2 vehicles and 3 cell
+phones. [@1,4,5,9,10]
 
 Work is under way to capture F.I. and, under the direction of the Prosecutor's
 Office, the investigation continues to identify and bring to criminal
