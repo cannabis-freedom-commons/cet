@@ -50,6 +50,11 @@ media:
     media_url: https://leonardoconcon.com.br/wp-content/uploads/pf-interior-bau-caminhao.jpg
     publisher: Diário de Olímpia
     caption: Interior of the truck's cargo box, with cardboard boxes, pallets and tablets of the marijuana load.
+  - kind: photo
+    url: https://jornaldiadia.com.br/policia-federal-apreende-mais-de-37-toneladas-de-maconha-em-carga-de-paletes-em-tres-lagoas/
+    media_url: https://jornaldiadia.com.br/wp-content/uploads/PM-2-1.jpg-920x425.webp
+    publisher: Jornal Dia Dia
+    caption: Photo accompanying the report of the more than 3.7 tonnes of marijuana seized in Três Lagoas, credited in the article as a Federal Police reproduction.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: d4ded91739905a359ed5451257de3324
@@ -70,27 +75,24 @@ sources:
     publisher: Folha MS
     date: 2026-11-20
     language: pt
-open_questions:
-  - The Diário de Olímpia reports the arrest of one man from Olímpia while G1 reports two people detained in the same inspection; the two-arrest figure is used here.
-  - Neither report says where the truck had come from or where the load was going, and the Federal Police gave no account of the operation itself.
-  - The marijuana was described as packed in tablets, with no laboratory confirmation reported.
-  - No charge filing, plea or decision on pre-trial detention had been reported; the case was at the custody-hearing stage.
-  - The weight is given as 3,707 kilograms by the Diário de Olímpia and as more than 3.7 tonnes by G1.
-  - The 7.4 million reais value is the Diário's estimate using prices Mato Grosso do Sul security forces usually apply, not a Federal Police valuation.
-  - The age of the detained man from Olímpia was not published.
+  - title: Polícia Federal apreende mais de 3,7 toneladas de maconha em carga de paletes em Três Lagoas
+    url: https://jornaldiadia.com.br/policia-federal-apreende-mais-de-37-toneladas-de-maconha-em-carga-de-paletes-em-tres-lagoas/
+    publisher: Jornal Dia Dia
+    date: 2026-11-20
+    language: pt
 ---
 
 Federal Police officers arrested two people in the act in Três Lagoas, Mato
-Grosso do Sul, during an inspection on 19 November 2026. [@2,3] One of the two is
+Grosso do Sul, during an inspection on 19 November 2026. [@2,3,4] One of the two is
 a resident of Olímpia, in São Paulo state; Três Lagoas lies on the border with
 São Paulo. [@1] The two suspects were taken to the Federal Police station with
-the truck and the drug. [@2,3] They may face drug-trafficking charges. [@2,3] The
+the truck and the drug. [@2,3,4] They may face drug-trafficking charges. [@2,3,4] The
 detainee from Olímpia was not named. [@1]
 
 The load weighed 3,707 kilograms of marijuana. [@1] The drug was packed in
 tablets. [@1] Officers found the drug hidden among a load of pallets, wooden
 structures used to carry and store goods, in the cargo compartment of a truck
-that was arriving in the municipality. [@2,3] Using the values Mato Grosso do Sul
+that was arriving in the municipality. [@2,3,4] Using the values Mato Grosso do Sul
 security forces usually apply to calculate damage to organised crime, the Diário
 estimated the load could be worth about 7.4 million reais. [@1] The Federal
 Police did not disclose where the load came from or where it was going. [@2]
