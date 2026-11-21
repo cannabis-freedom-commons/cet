@@ -59,6 +59,11 @@ sources:
     publisher: السومرية نيوز (Alsumaria News)
     date: 2026-11-17
     language: ar
+  - title: اعتقال 6 متهمين وضبط كميات من "الماريجوانا" و"الليريكا" المخدرة في بغداد
+    url: https://burathanews.com/news/HidByt3b
+    publisher: وكالة براثا الاخبارية
+    date: 2026-11-17
+    language: ar
 open_questions:
     - The statement names no neighbourhood or premises in Karkh where either operation took place.
     - No charges, detention order or court outcome were reported for the six suspects.
@@ -68,9 +73,9 @@ open_questions:
 
 Iraq's General Directorate for Drug Affairs said detachments of its Karkh Drug
 Affairs Directorate carried out two separate security operations in Baghdad on
-Tuesday, 17 November 2026. [@1,3,4,5] The General Directorate said the first operation
+Tuesday, 17 November 2026. [@1,3,4,5,6] The General Directorate said the first operation
 led to the arrest of four suspects and the seizure of 1 kilogram and 350 grams
-of marijuana, along with tools used for consumption. [@1,3,4,5] In a second operation, detachments seized 5,280 capsules of Lyrica and arrested two suspects; that psychotropic seizure is not counted in the cannabis figures here. [@4,5] A statement from the
+of marijuana, along with tools used for consumption. [@1,3,4,5,6] In a second operation, detachments seized 5,280 capsules of Lyrica and arrested two suspects; that psychotropic seizure is not counted in the cannabis figures here. [@4,5,6] A statement from the
 Karkh Police Command quoted by 964media gave the same figures for the marijuana
 operation and the four arrests. [@2]
 
@@ -78,4 +83,4 @@ operation and the four arrests. [@2]
 security strikes against drug-trafficking dens, based on field and intelligence
 work. [@2,3] The directorate said it would keep up its security duties to pursue
 those involved in trading, promoting and using narcotic substances, to dry up
-the sources of the problem and to protect society from its risks. [@1]
+the sources of the problem and to protect society from its risks. [@1,6]
