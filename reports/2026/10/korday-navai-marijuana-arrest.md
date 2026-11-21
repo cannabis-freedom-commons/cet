@@ -180,6 +180,16 @@ sources:
     publisher: amur.info
     date: 2026-10-15
     language: ru
+  - title: В Казахстане Navai задержали по подозрению в контрабанде наркотиков
+    url: https://ria.ru/20261014/navai-2124520643.html
+    publisher: РИА Новости
+    date: 2026-10-14
+    language: ru
+  - title: 'Задержание Navai на границе Казахстана: контрабанда марихуаны, отмена концерта в Астане и риск 8 лет лишения свободы'
+    url: https://kubanpress.ru/news/2026-10-14/sorvavshiysya-tur-i-ugolovnoe-delo-zaderzhanie-navai-na-kpp-korday-m-kontrabanda-5707353
+    publisher: KubanPress
+    date: 2026-10-14
+    language: ru
 media:
   - kind: photo
     url: https://news.ru/culture/navai-arestovali-po-delu-o-kontrabande-narkotikov-v-kazahstane
@@ -195,11 +205,14 @@ open_questions:
     - The reported amount of marijuana differs between accounts, with both 2.5 g and 10 g reported.
     - 'Accounts differ on how many people were detained: this source reports the rapper and three companions in the car, while the other accounts report two companions and three detained in total.'
     - 'The possible sentence differs between accounts: this source reports up to eight years in prison, while the report cites Article 286 allowing up to five years.'
+    - It is unclear whether three or four people were detained in the car at the checkpoint.
+    - The maximum penalty for the smuggling allegation is given as both five and eight years of imprisonment.
+    - It is unclear whether about 10 grams reported alongside 2.5 grams was a separate seizure or an alternative total for the same substance.
 ---
 
 Police and border guards detained the Russian rapper Navai, real name Navai Bakirov, at the Korday
 checkpoint as he entered Kazakhstan by car from Kyrgyzstan on 13 October 2026.
-[@1,3,4,5,7,9,10,11,12,15,17,21,22,23,27,28,29] Navai was 30 years old. [@26] Mash reported that shortly before the border check he moved into the driver's seat, replacing another person. [@25] The car searched at the checkpoint was a Mercedes-Benz with Kazakh plates. [@25] His manager and driver were with him. [@2,3,4,8,16,20,27] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20,22] A service dog named
+[@1,3,4,5,7,9,10,11,12,15,17,21,22,23,27,28,29,30] Navai was 30 years old. [@26] Mash reported that shortly before the border check he moved into the driver's seat, replacing another person. [@25] The car searched at the checkpoint was a Mercedes-Benz with Kazakh plates. [@25] His manager and driver were with him. [@2,3,4,8,16,20,27,31] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20,22] A service dog named
 Atlas reacted to the car, and officers found a narcotic substance in the pocket of the driver's seat
 [@1,3,4,6,7,9,11,13,18,21], along with a bag with rolling papers and a grinder. [@2,4,18] Journalist Mikhail
 Kozachkov wrote that it was 2.5 g of marijuana [@7,10,11,15,18,19]; Baza, citing checkpoint staff, claimed 10
