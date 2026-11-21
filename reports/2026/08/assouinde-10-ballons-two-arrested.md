@@ -49,15 +49,16 @@ sources:
     publisher: RTI Infos
     date: 2026-08-12
     language: fr
-open_questions:
-  - No weight was published for the ten ballons, so no kilogram figure is recorded.
-  - No valuation of the seized cannabis was published.
-  - No charges, custody decision or court outcome were reported beyond the planned judicial procedures.
-  - The detainees were named only by initials, so their full identities are unknown.
+  - title: 'Côte d''Ivoire : deux individus interpellés avec dix ballons de cannabis à Assouindé'
+    url: https://news.abidjan.net/photos/980108-cote-divoire-deux-individus-interpelles-avec-dix-ballons-de-cannabis-a-assouinde
+    publisher: Abidjan.net
+    date: 2026-08-12
+    language: fr
+    archived: https://web.archive.org/web/20260820152714id_/https://news.abidjan.net/photos/980108-cote-divoire-deux-individus-interpelles-avec-dix-ballons-de-cannabis-a-assouinde
 ---
 
 Police detained two men at the Assouindé checkpoint on 11 August 2026 after
-cannabis was found in the Yango transport vehicle carrying them. [@1] The men
+cannabis was found in the Yango transport vehicle carrying them. [@1,3] The men
 were identified only by the initials K.D.P., aged 26, and A.F.Y., aged 39. [@1]
 Officers of the Aboisso regional branch of the DPSD, the police drugs and
 narcotics directorate, made the arrests during a routine check at about 8:30
@@ -65,7 +66,7 @@ p.m. [@2] The officers were searching the Yango vehicle when they made the find.
 [@1]
 
 A search of the vehicle uncovered ten ballons of cannabis described as OD Kush
-quality concealed on board. [@1] Police described OD Kush as a cannabis variety
+quality concealed on board. [@1,3] Police described OD Kush as a cannabis variety
 in strong demand on the illicit market. [@2] The checkpoint is at Assouindé in
 the Sud-Comoé region. [@2]
 
@@ -74,4 +75,3 @@ security drive. [@1] Police presented the action as part of national efforts
 against narcotics trafficking and circulation, stepped up during the holiday
 period. [@1] The two suspects were to face the judicial procedures for
 drug-trafficking cases. [@2]
-
