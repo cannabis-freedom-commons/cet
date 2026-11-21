@@ -59,6 +59,11 @@ sources:
     publisher: ENNewsSV
     date: 2026-11-20
     language: es
+  - title: Capturan a dos sujetos con marihuana y cocaína en operativos realizados en Santa Ana y San Salvador
+    url: https://diariolahuella.com/capturan-a-dos-sujetos-con-marihuana-y-cocaina-en-operativos-realizados-en-santa-ana-y-san-salvador/
+    publisher: Diario La Huella
+    date: 2026-11-20
+    language: es
 open_questions:
   - No weight, number of portions beyond 'two large portions', or value was published for the marijuana or the cocaine.
   - The public report does not say which drug was seized in which of the two operations.
@@ -72,17 +77,16 @@ open_questions:
 The National Civil Police arrested two men suspected of selling drugs in two
 separate procedures in Santa Ana and San Salvador, Security Minister Gustavo
 Villatoro reported. [@1] Villatoro identified the detainees as Diego Alejandro
-Vanegas Castillo and José Alfredo Hernández Viana. [@1] Villatoro announced the
+Vanegas Castillo and José Alfredo Hernández Viana. [@1,4] Villatoro announced the
 detentions on the morning of Friday 20 November. [@3]
 
 The two operations took place between the night of Thursday 19 and the early
 hours of Friday 20 November. [@2] One operation was carried out on the highway
 connecting Santa Ana with Sonsonate, and the other in the department of San
-Salvador. [@2] During the procedures two large portions of marijuana and cocaine
-were seized from the two men, according to Villatoro. [@3] Police dog units (K9)
+Salvador. [@2,4] During the procedures two large portions of marijuana and cocaine
+were seized from the two men, according to Villatoro. [@3,4] Police dog units (K9)
 took part in both procedures and found the large marijuana and cocaine portions
 in the two men's possession. [@1]
 
 Both men remained in custody and were to be handed to the corresponding
 authorities to answer for the offences they are accused of. [@1]
-
