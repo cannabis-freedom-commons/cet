@@ -170,6 +170,11 @@ sources:
     publisher: Новые Известия
     date: 2026-10-15
     language: ru
+  - title: Рэпер Navai задержали на границе Казахстана с запрещенными веществами
+    url: https://tv.mail.ru/news/141279-repera-navai-zaderzhali-na-granice-kazahstana-s-zapreshennymi-veshestvami/
+    publisher: ТВ Mail
+    date: 2026-10-14
+    language: ru
 media:
   - kind: photo
     url: https://news.ru/culture/navai-arestovali-po-delu-o-kontrabande-narkotikov-v-kazahstane
@@ -182,16 +187,14 @@ media:
     publisher: URA.RU
     caption: 'Photo of Russian rapper Navai Bakirov published with the report of his arrest in Kazakhstan. Photo: Razmik Zakaryan / URA.RU'
 open_questions:
-    - Accounts disagree on the court that ordered the two-month detention, naming either the Korday district court or a Zhambyl Region court.
-    - 'The reported amount of marijuana differs between accounts: some give 2.5 g and others 10 g, with one account treating about 10 g in the manager''s bag as a separate find from 2.5 g in the driver''s seat.'
-    - The number of people in the car with Navai is reported as two companions by some accounts and three by others, who spell the director's name Rauf Gasanov rather than Rauf Gusanov.
-    - Some accounts place the stop, or the detention of the other people in the car, on 14 October or the night of 13–14 October rather than on 13 October.
-    - Whether the reported cannabinoid test results were officially confirmed remains unclear.
+    - The reported amount of marijuana differs between accounts, with both 2.5 g and 10 g reported.
+    - 'Accounts differ on how many people were detained: this source reports the rapper and three companions in the car, while the other accounts report two companions and three detained in total.'
+    - 'The possible sentence differs between accounts: this source reports up to eight years in prison, while the report cites Article 286 allowing up to five years.'
 ---
 
 Police and border guards detained the Russian rapper Navai, real name Navai Bakirov, at the Korday
 checkpoint as he entered Kazakhstan by car from Kyrgyzstan on 13 October 2026.
-[@1,3,4,5,7,9,10,11,12,15,17,21,22,23,27] Navai was 30 years old. [@26] Mash reported that shortly before the border check he moved into the driver's seat, replacing another person. [@25] The car searched at the checkpoint was a Mercedes-Benz with Kazakh plates. [@25] His manager and driver were with him. [@2,3,4,8,16,20,27] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20,22] A service dog named
+[@1,3,4,5,7,9,10,11,12,15,17,21,22,23,27,28] Navai was 30 years old. [@26] Mash reported that shortly before the border check he moved into the driver's seat, replacing another person. [@25] The car searched at the checkpoint was a Mercedes-Benz with Kazakh plates. [@25] His manager and driver were with him. [@2,3,4,8,16,20,27] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20,22] A service dog named
 Atlas reacted to the car, and officers found a narcotic substance in the pocket of the driver's seat
 [@1,3,4,6,7,9,11,13,18,21], along with a bag with rolling papers and a grinder. [@2,4,18] Journalist Mikhail
 Kozachkov wrote that it was 2.5 g of marijuana [@7,10,11,15,18,19]; Baza, citing checkpoint staff, claimed 10
@@ -200,7 +203,7 @@ later released [@11,20], while investigators established who owned the substance
 
 ## The case
 
-Police opened a criminal case for attempted smuggling of narcotics [@1,7,10,11,17,21] under Article 286 of
+Police opened a criminal case for attempted smuggling of narcotics [@1,7,10,11,17,21,28] under Article 286 of
 the Criminal Code, which allows up to five years in prison [@4]; the charges were reported as smuggling
 and unlawful transportation of narcotics without intent to sell. [@5,11,20] The Korday district court ordered
 him held in custody for two months. [@5,6,8,15,16,17,18,19,20,23,24,27] The Korday district court made that order on the morning of 15 October. [@24] Questioned, he admitted buying the drugs in Bishkek
@@ -211,7 +214,7 @@ first offence and active remorse, and that he had been expelled from Kazakhstan.
 ## The tour
 
 Navai had been due to perform on 14 October at the Zhaksylyk Ushkempirov Martial Arts Palace in Astana;
-the concert was cancelled for reported technical reasons [@1,3,4,5,7,11,15,20,24] and postponed indefinitely,
+the concert was cancelled for reported technical reasons [@1,3,4,5,7,11,15,20,24,28] and postponed indefinitely,
 with refunds for spectators. [@7,11,17] His tour had run since 9 July through Russia, Uzbekistan,
 Kyrgyzstan, Kazakhstan and Moldova, with a concert in Bishkek on 12 October [@7]; he had been in Tashkent
 shortly before. [@4,24] The Chisinau concert planned for 16 October was moved to 8 December. [@15,26]
