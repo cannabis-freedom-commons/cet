@@ -55,6 +55,16 @@ sources:
     publisher: actu.fr
     date: 2025-04-15
     language: fr
+  - title: 'Luxembourg: Plus d’une tonne de drogues saisies dans un camion'
+    url: https://www.lessentiel.lu/fr/story/luxembourg-plus-d-une-tonne-de-drogues-saisie-dans-un-camion-103320012
+    publisher: L'essentiel
+    date: 2025-04-07
+    language: fr
+  - title: Die Zollverwaltung hat erneut eine außergewöhnlich große Menge an Drogen sichergestellt
+    url: https://douanes.public.lu/fr/actualites/2025/saisie-avril-2025.html
+    publisher: Administration des douanes et accises
+    date: 2025-04-08
+    language: de
 media:
   - kind: photo
     url: https://www.luxtimes.lu/luxembourg/luxembourg-customs-officials-seize-over-a-tonne-of-hashish/53554064.html
@@ -91,23 +101,33 @@ media:
     media_url: https://static.actu.fr/uploads/2025/04/drogues-douanes-luxembourg-640x427.jpg
     publisher: actu.fr
     caption: 'Customs photograph of the more than one tonne of hashish and almost 130 kg of marijuana discovered in a lorry in Luxembourg. Photo: Administration des douanes et accises'
+  - kind: photo
+    url: https://www.lessentiel.lu/fr/story/luxembourg-plus-d-une-tonne-de-drogues-saisie-dans-un-camion-103320012
+    media_url: https://media.lessentiel.lu/18/image/2025/04/07/5d35c541-20b4-4a0a-8806-45dfef1b4b4b.jpeg?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C3500%2C3500&s=13ce3db2b49582927ecebebcada7a735
+    publisher: L'essentiel
+    caption: 'Customs handout photo of the hashish and marijuana found in the truck during the roadside check. Photo: Administration des douanes et accises'
+open_questions:
+    - The customs statement gives no exact date for the roadside check, saying only that it took place at the end of the week before the announcement.
+    - The place of the roadside check was not disclosed.
+    - The customs agency's own notice is dated 8 April 2025, while news outlets reported the announcement on 7 April; the report uses 7 April.
+    - No charge or court outcome has been reported beyond the driver's pre-trial detention.
 ---
 
 The Luxembourg Administration of Customs and Excise stopped a truck in a
 roadside check and found 1,065 kg of hashish and 126 kg of marijuana inside.
-[@1,2,3,4,5] Pictures released by customs show that a scanner was used to examine the lorry cargo, which led to the swift discovery of the illegal goods. [@4] The agency announced the find on 7 April 2025, calling it the largest
+[@1,2,3,4,5,6] Pictures released by customs show that a scanner was used to examine the lorry cargo, which led to the swift discovery of the illegal goods. [@4] The agency announced the find on 7 April 2025, calling it the largest
 drug seizure in the country in recent years. [@1] The stop itself took place
-the previous week. [@1,2]
+the previous week. [@1,2,7]
 
 ## Driver before the judge
 
 The 35-year-old lorry driver was arrested on the orders of the Luxembourg
-prosecutor's office. [@1,2,4,5] He was brought before an investigating judge and
-taken into custody while the investigation continues. [@1,4,5] The examining magistrate ordered further investigations into the case. [@4]
+prosecutor's office. [@1,2,4,5,7] He was brought before an investigating judge and
+taken into custody while the investigation continues. [@1,4,5,6] The investigating judge issued an arrest warrant against the driver. [@7] The examining magistrate ordered further investigations into the case. [@4] Customs said it would release no further information because the investigation was at an early stage. [@7]
 
 The haul dwarfs previous Luxembourg seizures: customs seized 403 kg of hashish
 and 73 kg of cannabis herb in the whole of 2023, itself then a record, and only
-347 kg of both substances combined between 2020 and 2022. [@1] The new find is
+347 kg of both substances combined between 2020 and 2022. [@1,6] The new find is
 more than three times the 2023 annual figure. [@1]
 
 The Luxembourg customs and excise agency announced the seizure on Monday, 7 April 2025, saying the truck had been stopped the previous week. [@3] The Customs and Excise Agency published a photograph of the packages of hashish recovered from the truck. [@3]
