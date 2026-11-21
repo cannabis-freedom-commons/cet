@@ -34,7 +34,8 @@ status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [assam-rifles, tripura, joint-operation]
 open_questions:
-  - No arrests were reported; police said they were working to identify the cultivators.
+    - No arrests were reported; police said they were working to identify the cultivators.
+    - The cleared area is given only as an approximate 20-25 acres of forest land; no precise measurement was published.
 sources:
   - title: Assam Rifles, Tripura Police destroy cannabis plantation of Rs 95 lakh
     url: https://tripurachronicle.in/local-news/assam-rifles-tripura-police-destroy-cannabis-plantation-of-rs-95-lakh/
@@ -45,13 +46,17 @@ sources:
     url: https://www.tripuraindia.in/update/index/assam-rifles-tripura-police-destroy-cannabis-plantation-of-rs-95-lakh
     publisher: Tripura India
     date: 2023-01-14
+  - title: Assam Rifles, Tripura Police destroy cannabis plantation worth Rs 95 lakh
+    url: https://www.indiatodayne.in/tripura/story/assam-rifles-tripura-police-destroy-cannabis-plantation-worth-rs-95-lakh-497734-2023-01-14
+    publisher: India Today North East
+    date: 2023-01-14
 ---
 
 Assam Rifles and Tripura Police destroyed about 100,000 cannabis plants
 growing on 20-25 acres of forest land at Sitakala Konaban, near the
-India-Bangladesh border in Sepahijala district. [@1,2]
+India-Bangladesh border in Sepahijala district. [@1,2,3]
 
 Acting on its own information, the Agartala battalion launched the joint
-operation with Madhupur police on Saturday 14 January 2023. [@1,2] The force
-valued the destroyed crop at about Rs 95 lakh. [@1,2] Police said they were
-working to find the cultivators; the accounts name no arrests. [@1]
+operation with Madhupur police on Saturday 14 January 2023. [@1,2,3] The force
+valued the destroyed crop at about Rs 95 lakh. [@1,2,3] Police said they were
+working to find the cultivators; the accounts name no arrests. [@1,3]
