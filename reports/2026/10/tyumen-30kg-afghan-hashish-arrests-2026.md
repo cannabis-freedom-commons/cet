@@ -60,11 +60,16 @@ sources:
     publisher: Caliber.az
     date: 2026-10-16
     language: ru
+  - title: '30 кг афганского гашиша: спецслужбы трех стран провели операцию'
+    url: https://dknews.kz/ru/v-mire/407994-30-kg-afganskogo-gashisha-specsluzhby-treh-stran
+    publisher: DKNews.kz
+    date: 2026-10-16
+    language: ru
 open_questions:
-    - No separate date is given for the detention and seizure; 16 October 2026, when the KNB announced the operation, stands in for the incident date.
-    - The two detained people were not named, and no charges, custody ruling or court outcome beyond the pretrial investigation were reported.
-    - The KNB gave no details of the route inside Central Asia, the border crossing points or how the hashish was transported.
-    - Other KNB results mentioned in the same coverage, including 44 drug-supply channels since the start of 2026 and three channels with 622 kg of drugs, are separate statistics left out of this report.
+    - The DKNews account gives no separate date for the detention and seizure; 16 October 2026 is the date of the KNB announcement and publication and is used as the incident date.
+    - The two detained people were not named, their citizenship and specific roles were not reported, and no charges, custody ruling or court outcome beyond the pretrial investigation were reported.
+    - The KNB did not disclose the consignment's full route, border-crossing points or transport method, so whether this load transited Kazakhstan cannot be confirmed.
+    - Other KNB results mentioned alongside this case, including earlier counts of channels and drugs seized and a separate operation in the Netherlands involving 30 kg of Afghan heroin, are separate statistics and events left out of this report.
 media:
   - kind: photo
     url: https://www.gov.kz/org/knb/press/news/details/1312360?lang=ru
@@ -76,24 +81,29 @@ media:
     media_url: https://www.gov.kz/uploads/2026/10/16/9af53c1fbaaf3b7853dfaba532176267ff13636a2ced760a21733245d10ddff7_640x480.jpg
     publisher: Комитет национальной безопасности Республики Казахстан
     caption: 'Second photograph published with the KNB statement on the Tyumen detention and hashish seizure. Photo: KNB press service'
+  - kind: photo
+    url: https://dknews.kz/ru/v-mire/407994-30-kg-afganskogo-gashisha-specsluzhby-treh-stran
+    media_url: https://dknews.kz/storage/news/2026-10/cd5fabc10b70bf941777303d0e29ec2c-1280px.webp
+    publisher: DKNews.kz
+    caption: 'KNB handout photograph published with the report on the Tyumen 30 kg hashish seizure. Photo: КНБ РК'
 ---
 
 Kazakhstan's Committee for National Security (KNB), the country's
 national-security agency, acted jointly with the special services of Russia and
 Uzbekistan to shut down an international narcotics-smuggling channel originating
-in Afghanistan. [@1,2,3] The channel used the so-called Northern route out of
-Afghanistan. [@1,2,4] Two people described as members of an international drug group
-were detained in Tyumen, Russia, as a result of the operation. [@1,2,4] Russian
+in Afghanistan. [@1,2,3,5] The channel used the so-called Northern route out of
+Afghanistan. [@1,2,4,5] The KNB did not disclose the consignment's full route, border-crossing points or transport method. [@5] Two people described as members of an international drug group
+were detained in Tyumen, Russia, as a result of the operation. [@1,2,4,5] Russian
 authorities opened a pretrial investigation into the case following the
-detentions and seizure. [@1,2,4]
+detentions and seizure. [@1,2,4,5]
 
 Officers searching the two detainees seized 30 kilograms of hashish described as
-Afghan hashish. [@1,2,4] The 30-kilogram weight refers only to the Afghan hashish
+Afghan hashish. [@1,2,4,5] The 30-kilogram weight refers only to the Afghan hashish
 taken from the detainees in Tyumen. [@1,2] The KNB estimated that the seized
 consignment could be worth about 300,000 United States dollars on the black
-market. [@1,2,4]
+market. [@1,2,4,5]
 
 The KNB said measures to counter international illicit drug trafficking are
-continuing. [@1,2,4] The operation is presented as joint work by the Kazakh, Russian
+continuing. [@1,2,4,5] The operation is presented as joint work by the Kazakh, Russian
 and Uzbek services against the Afghan channel. [@1,2] The arrests and seizure took
 place in Tyumen. [@1,2]
