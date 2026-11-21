@@ -63,41 +63,47 @@ sources:
     publisher: Funchal Notícias
     date: 2026-09-22
     language: pt
+  - title: PSP apanha "em flagrante" casal de traficantes a vender droga na Madeira
+    url: https://www.noticiasaominuto.com/pais/3055508/psp-apanha-em-flagrante-casal-de-traficantes-a-vender-droga-na-madeira
+    publisher: Notícias ao Minuto
+    date: 2026-09-22
+    language: pt
 open_questions:
   - No weight or value was published for the 461 hashish doses, so no cannabis kilogram figure is recorded.
   - The 147 doses of cocaine and the more than 17 grams of a product of undetermined nature are not counted as cannabis; the latter's composition was not identified.
   - No trial date or further court outcome was reported; the couple remained in preventive detention awaiting trial.
   - All three accounts reproduce the same PSP statement and are not independent reporting.
   - The detainees were identified only by age and nationality; no names were released.
+  - Left out arrested, as no supporting quotation was given.
 ---
 
 Police in Porto Santo, Madeira, detained a 36-year-old national of Guinea-Bissau
-in flagrante for drug trafficking during the night of 16 September 2026. [@1]
+in flagrante for drug trafficking during the night of 16 September 2026. [@1,4]
 Police in Porto Santo, Madeira, detained a 36-year-old national of Guinea-Bissau
 in flagrante for drug trafficking during the night of 16 September 2026. [@2]
 Police in Porto Santo, Madeira, detained a 36-year-old national of Guinea-Bissau
 in flagrante for drug trafficking during the night of 16 September 2026. [@3]
 Police said surveillance and investigative work led them to intercept a
 transaction between the suspect and a consumer, who confirmed he had bought the
-drug, prompting the arrest. [@1] Police said surveillance and investigative work
+drug, prompting the arrest. [@1,4] Police said surveillance and investigative work
 led them to intercept a transaction between the suspect and a consumer, who
 confirmed he had bought the drug, prompting the arrest. [@2] Police said
 surveillance and investigative work led them to intercept a transaction between
 the suspect and a consumer, who confirmed he had bought the drug, prompting the
 arrest. [@3] A search of the suspect's home found his 36-year-old partner, also
 from Guinea-Bissau and already a defendant in the same investigation, and she
-was detained too. [@1] A search of the suspect's home found his 36-year-old
+was detained too. [@1,4] A search of the suspect's home found his 36-year-old
 partner, also from Guinea-Bissau and already a defendant in the same
 investigation, and she was detained too. [@2] A search of the suspect's home
 found his 36-year-old partner, also from Guinea-Bissau and already a defendant
 in the same investigation, and she was detained too. [@3]
 
-During the search officers found 461 individual doses of hashish. [@1] During
+During the search officers found 461 individual doses of hashish. [@1,4] During
 the search officers found 461 individual doses of hashish. [@2] During the
 search officers found 461 individual doses of hashish. [@3] They also seized 147
 individual doses of cocaine, more than 17 grams of a product of undetermined
 nature, 170 euros in cash, a precision scale and two mobile phones belonging to
-the couple, the PSP said. [@1]
+the couple, the PSP said. [@1,4]
 
 Both detainees were taken to police facilities and appeared before the competent
 judicial authority for a first hearing on 21 September 2026. [@1] Both detainees
@@ -106,9 +112,8 @@ authority for a first hearing on 21 September 2026. [@2] Both detainees were
 taken to police facilities and appeared before the competent judicial authority
 for a first hearing on 21 September 2026. [@3] The court imposed preventive
 detention, the most severe precautionary measure, and the couple were
-transferred to Funchal prison to await trial. [@1] The court imposed preventive
+transferred to Funchal prison to await trial. [@1,4] The court imposed preventive
 detention, the most severe precautionary measure, and the couple were
 transferred to Funchal prison to await trial. [@2] The court imposed preventive
 detention, the most severe precautionary measure, and the couple were
 transferred to Funchal prison to await trial. [@3]
-
