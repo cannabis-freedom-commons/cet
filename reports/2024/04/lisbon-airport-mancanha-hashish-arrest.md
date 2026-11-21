@@ -66,15 +66,20 @@ sources:
     publisher: Observador
     date: 2026-03-07
     language: pt
+  - title: PR guineense lamenta detenção em Portugal do Procurador apanhado com droga
+    url: https://expressodasilhas.cv/mundo/2024/04/27/pr-guineense-lamenta-detencao-em-portugal-do-procurador-apanhado-com-droga/91192
+    publisher: Expresso das Ilhas
+    date: 2024-04-27
+    language: pt
 open_questions:
-  - RFI, citing unofficial information available to the Guinean prosecution, reported two kilograms of unspecified drugs, while Jornal de Noticias reported about 200 grams of hashish; the report records only the cannabis-specific 200 grams and does not count the two-kilogram figure as cannabis.
-  - The incident date of 21 April 2024 is inferred from the detention being described as last Sunday day 21 in an article published on 26 April 2024.
-  - No charges, custody ruling or court outcome were reported in the two April 2024 sources used; the case stood at detention, suspension and disciplinary inquiry.
-  - The 194.178-gram weight comes from a single publisher, the Observador; earlier reports described about 200 grams of hashish.
-  - The report gives 25 April 2024 for the council's preventive suspension but no date for the disciplinary decision that expelled him, beyond October 2024.
-  - The report says the ruling became final on the last working day of February 2026 without naming the date.
-  - The Observador does not report whether the Guinean authorities have responded to his request to be reinstated in the prosecution service.
-  - O magistrado da Guiné que foi absolvido de tráfico de droga (Observador) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
+    - RFI, citing unofficial information available to the Guinean prosecution, reported two kilograms of unspecified drugs, while Jornal de Noticias reported about 200 grams of hashish; the report records only the cannabis-specific 200 grams and does not count the two-kilogram figure as cannabis.
+    - The incident date of 21 April 2024 is inferred from the detention being described as last Sunday day 21 in an article published on 26 April 2024.
+    - No charges, custody ruling or court outcome were reported in the two April 2024 sources used; the case stood at detention, suspension and disciplinary inquiry.
+    - The 194.178-gram weight comes from a single publisher, the Observador; earlier reports described about 200 grams of hashish.
+    - The report gives 25 April 2024 for the council's preventive suspension but no date for the disciplinary decision that expelled him, beyond October 2024.
+    - The report says the ruling became final on the last working day of February 2026 without naming the date.
+    - The Observador does not report whether the Guinean authorities have responded to his request to be reinstated in the prosecution service.
+    - President Embaló said the case was being handled between the two countries' judiciaries but gave no detail of that contact.
 media:
   - kind: photo
     url: https://observador.pt/especiais/as-crencas-secretas-dos-illuminati-o-estranho-caso-do-procurador-guineense-apanhado-com-droga-e-absolvido-na-justica/
@@ -84,7 +89,7 @@ media:
 ---
 
 Guinea-Bissau prosecutor Eduardo Mancanha was detained at Lisbon Airport on
-Sunday 21 April 2024 while preparing to board a flight to Bissau. [@1]
+Sunday 21 April 2024 while preparing to board a flight to Bissau. [@1,5]
 Guinea-Bissau's Public Prosecution Service said he had about 200 grams of
 hashish, known in Portuguese as haxixe, in his luggage. [@1] The council
 statement said he had spent more than three years in Portugal on service leave
@@ -94,8 +99,8 @@ airport. [@2] He was in Portugal on leave to prepare a doctorate in law. [@2]
 
 The Superior Council of the Public Prosecution Service preventively suspended
 him, citing the gravity of the conduct under the prosecution magistrates'
-statutes. [@1] The council also opened disciplinary proceedings and named deputy
-prosecutor-general Quintino Inbequi to conduct the inquiry. [@1]
+statutes. [@1,5] The council also opened disciplinary proceedings and named deputy
+prosecutor-general Quintino Inbequi to conduct the inquiry. [@1] Embaló said the case was being handled between the Portuguese and Guinea-Bissau judiciaries, and that it was causing more stir in Guinea-Bissau than in Portugal. [@5] President Umaro Sissoco Embaló said he regretted that a magistrate had fallen into this situation, that whoever must judge cannot do so, and that he had been comforted by the council's statement. [@5]
 
 Guinea-Bissau's prosecution office said it had been informed through appropriate
 channels on Sunday the 21st of a magistrate's detention for alleged drug
