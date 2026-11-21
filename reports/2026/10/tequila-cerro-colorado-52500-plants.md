@@ -58,6 +58,11 @@ sources:
     publisher: Notisistema
     date: 2026-10-02
     language: es
+  - title: Destruyen 52 mil plantas de marihuana en Tequila
+    url: https://www.mural.com.mx/destruyen-52-mil-plantas-de-marihuana-en-tequila/ar3287366
+    publisher: MURAL
+    date: 2026-10-02
+    language: es
 open_questions:
   - The Secretaría de Seguridad gave no separate date for the patrol or the burn; 2 October 2026 is the day it announced the find and the date of publication.
   - The 52,500 figure is an estimate based on a density of about seven plants per square metre, not an exact count.
@@ -72,10 +77,10 @@ Jalisco state police officers found the plantation while on surveillance patrols
 in upland areas, tracks and delegations with the Defence Ministry and the
 National Guard. [@1] The plantation was in the Cerro Colorado area, about three
 kilometres from the village of San José de la Barranca in Tequila municipality.
-[@1] The property lies in the Valles region of Jalisco, the Secretaría de
+[@1,3] The property lies in the Valles region of Jalisco, the Secretaría de
 Seguridad said. [@1] The plot held an estimated 52,500 plants at a density of
 about seven per square metre, with an average height of 1.70 metres and the
-plants in active growth. [@1]
+plants in active growth. [@1,3]
 
 The Secretaría de Seguridad, Jalisco's state security ministry, said a federal
 public prosecutor ordered the crop destroyed by controlled burning. [@2]
@@ -83,4 +88,3 @@ Officers took representative samples and made a photographic record of the
 procedure before the burn. [@1] The ministry said the operation was at least the
 fifth marijuana plantation destroyed in Tequila since August. [@1] It put the
 total destroyed across the five operations at just over 600,000 plants. [@1]
-
