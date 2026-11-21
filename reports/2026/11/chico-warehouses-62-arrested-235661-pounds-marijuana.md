@@ -93,6 +93,14 @@ sources:
     url: https://local12.com/news/nation-world/62-people-arrested-investigators-seize-more-than-235000-pounds-marijuana-worth-282-million?teaserSource=trending
     publisher: WKRC (Local 12)
     date: 2026-11-20
+  - title: 62 arrested as investigators seize more than 235K pounds of marijuana worth $282M
+    url: https://local12.com/news/nation-world/62-people-arrested-investigators-seize-more-than-235000-pounds-marijuana-worth-282-million
+    publisher: WKRC (Local 12)
+    date: 2026-11-20
+  - title: 62 arrested as investigators seize more than 235K pounds of marijuana worth $282M
+    url: https://local12.com/news/nation-world/gallery/62-people-arrested-investigators-seize-more-than-235000-pounds-marijuana-worth-282-million?photo=3
+    publisher: WKRC (Local 12)
+    date: 2026-11-20
 open_questions:
   - The sheriff’s office described the operation as resulting in 62 arrests but did not say what charges, if any, the 62 people faced or where they were held.
   - The account does not say whether any of the people contacted at the warehouses were released without arrest.
@@ -102,16 +110,16 @@ open_questions:
 Sixty-two people were arrested and booked into the Butte County Jail on 17
 November 2026. [@1,4] Several of those arrested were from the Sacramento area. [@5] The raid targeted multiple industrial warehouses on
 Contractors Lane in Chico, California, under a search warrant obtained by the
-Butte County Sheriff's Office. [@2,3] The warrant was served on Tuesday, 17
+Butte County Sheriff's Office. [@2,3,7] The warrant was served on Tuesday, 17
 November 2026, by BCSO detectives from the Butte Interagency Narcotics Task
 Force, two Bureau of Land Management agents and a detective from the California
-Department of Cannabis Control. [@1,6] The investigation began earlier in 2026, when the sheriff’s office’s Special Enforcement Unit started assisting the Bureau of Land Management. [@6]
+Department of Cannabis Control. [@1,6,7] The investigation began earlier in 2026, when the sheriff’s office’s Special Enforcement Unit started assisting the Bureau of Land Management. [@6,7]
 
 Detectives found 62 people at the warehouses and multiple warehouses containing
-marijuana in various stages of processing. [@1,4,5,6] Investigators said large
+marijuana in various stages of processing. [@1,4,5,6,7] Investigators said large
 quantities of marijuana were being processed at the warehouse using hemp
-processing as a cover. [@1,6] Testing found that the product was marijuana, not
-hemp. [@1,4,6] Detectives said about 235,661 pounds (roughly 106,894 kg) of
-marijuana were at the warehouses. [@1,4,6] They spent three days processing evidence
+processing as a cover. [@1,6,8] Testing found that the product was marijuana, not
+hemp. [@1,4,6,7] Detectives said about 235,661 pounds (roughly 106,894 kg) of
+marijuana were at the warehouses. [@1,4,6,7] They spent three days processing evidence
 and removing the marijuana, which detectives estimated had a street value of
-approximately $282,793,200. [@1,4,6]
+approximately $282,793,200. [@1,4,6,7]
