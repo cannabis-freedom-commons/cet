@@ -106,26 +106,31 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-20
     language: hi
+  - title: 'Two smugglers arrested: Lucknow police seize 48.8 kg of ganja; probe interstate supply network'
+    url: https://www.msn.com/en-in/news/other/two-smugglers-arrested-lucknow-police-seize-48-8-kg-of-ganja-probe-interstate-supply-network/ar-AA2hQxNP
+    publisher: MSN / The Times of India
+    date: 2026-11-20
+    language: en
 open_questions:
   - 'Estimates of the seized ganja''s value differ between accounts: about 25 lakh rupees in the Bhaskar Digital report and Rs 35 lakh in the Times of India, so no value is recorded.'
   - No charge sheet, plea or court outcome has been reported; the case remained at the investigation stage.
 ---
 
 Police arrested two men on 19 November 2026 near the municipal corporation
-office on Bandha Road. [@3,7] Police said they acted on a tip-off that two men who had brought ganja from Odisha were waiting in a red car near the municipal corporation office on Bandha Road. [@8] The arrests were made by the Crime Branch of Lucknow
-Police. [@2,6,7] The operation was directed by the Aliganj ACP and the Aliganj station house officer, with the Lucknow crime branch in-charge and the Hazratganj station house officer also involved. [@5] Officers seized 48.80 kg of ganja from the men. [@1,6,7,8]
+office on Bandha Road. [@3,7] Police said they acted on a tip-off that two men who had brought ganja from Odisha were waiting in a red car near the municipal corporation office on Bandha Road. [@8,9] The arrests were made by the Crime Branch of Lucknow
+Police. [@2,6,7,9] The operation was directed by the Aliganj ACP and the Aliganj station house officer, with the Lucknow crime branch in-charge and the Hazratganj station house officer also involved. [@5] Officers seized 48.80 kg of ganja from the men. [@1,6,7,8,9]
 
-The cannabis was packed in 43 packets. [@1,6,7,8] The two men were aged 49 and 45,
-police said. [@2,7,8] Police identified the two as Prakash Dubey, a Prayagraj resident, and Jay Anand Mishra, who lives in the Awadh Vihar Yojana in Lucknow. [@6,7] Police said the men brought ganja from Odisha for supply in
-Lucknow and adjoining districts. [@2,6,7,8] Officers also found two mobile phones and
-540 rupees in cash. [@3,7,8] Police seized the red car used to transport the
-consignment. [@2,7,8] The car they were using carried a Jharkhand registration number. [@6] The car's registration number was JH01CC9687. [@8] Police recovered the ganja from a Brezza car and took the vehicle into custody. [@4]
+The cannabis was packed in 43 packets. [@1,6,7,8,9] The two men were aged 49 and 45,
+police said. [@2,7,8,9] Police identified the two as Prakash Dubey, a Prayagraj resident, and Jay Anand Mishra, who lives in the Awadh Vihar Yojana in Lucknow. [@6,7,9] Police said the men brought ganja from Odisha for supply in
+Lucknow and adjoining districts. [@2,6,7,8,9] Officers also found two mobile phones and
+540 rupees in cash. [@3,7,8,9] Police seized the red car used to transport the
+consignment. [@2,7,8,9] The car they were using carried a Jharkhand registration number. [@6] The car's registration number was JH01CC9687. [@8,9] Police recovered the ganja from a Brezza car and took the vehicle into custody. [@4]
 
 An FIR was registered at Aliganj police station under Case No. 227/2026,
-invoking Sections 8 and 20 of the NDPS Act. [@2,7,8] The arrests are part of
+invoking Sections 8 and 20 of the NDPS Act. [@2,7,8,9] The arrests are part of
 Operation Narco Hunt, launched by the Lucknow Police Commissionerate under the
-Union Home Ministry's three-year Vision Document for 2026–2029. [@2] ADCP Crime
+Union Home Ministry's three-year Vision Document for 2026–2029. [@2,9] ADCP Crime
 Kiran Yadav said the Crime Branch was investigating the source of the cannabis,
-the transport route, intended buyers and other members of the network. [@2] The
+the transport route, intended buyers and other members of the network. [@2,9] The
 campaign aims to trace narcotics from source through transport routes to local
 distribution and dismantle the syndicates behind it. [@2]
