@@ -74,6 +74,11 @@ sources:
     publisher: RCI
     date: 2025-12-12
     language: fr
+  - title: Plus de 650 pieds de cannabis découverts chez un particulier
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/plus-de-650-pieds-de-cannabis-decouverts-chez-un-particulier-1060597.php
+    publisher: France-Antilles Martinique
+    date: 2025-12-08
+    language: fr
 open_questions:
   - No figure for the cultivation area or the street value of the plants was published.
   - The reports give no weight for the 651 plants; the 230-gramme figure covers only the dried cannabis found in the house.
@@ -88,13 +93,13 @@ open_questions:
 ---
 
 Gendarmes of the Le Marin brigade went to a private home in the middle of
-Saturday 29 November 2025 and found cannabis plants drying in one room. [@1] The
+Saturday 29 November 2025 and found cannabis plants drying in one room. [@1,6] The
 gendarmes were enquiring into another matter when they made the seizure. [@2]
 Behind an enclosure holding about ten malinois-type dogs they found a greenhouse
 with several hundred cannabis plants. [@1]
 
 In total the gendarmes counted 651 cannabis plants and 230 grams of cannabis
-herb, the amount of dried cannabis recorded for this seizure. [@1] Inside the
+herb, the amount of dried cannabis recorded for this seizure. [@1,6] Inside the
 house they found a complete indoor growing set-up, including ultraviolet lamps
 and a ventilation system. [@1] Officers also seized two category C hunting
 rifles held illegally and more than 1,000 euros in cash. [@1] The gendarmes said
@@ -113,4 +118,3 @@ was opened at the request of the Fort-de-France prosecutor's office concerning
 the judo club volunteer. [@5] The Martinique judo league said the man held no
 federal diploma allowing him to teach judo and had never been recognised as a
 teacher by the league or the French federation. [@5]
-
