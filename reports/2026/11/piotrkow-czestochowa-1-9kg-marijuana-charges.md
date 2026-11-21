@@ -93,6 +93,11 @@ sources:
     publisher: lodzkie.info.pl
     date: 2026-11-19
     language: pl
+  - title: Interwencja na dworcu kolejowym w Piotrkowie. Służby w akcji
+    url: https://trybunalski.pl/wiadomosci/na-sygnale/interwencja-na-dworcu-kolejowym-w-piotrkowie-sluzby-w-akcji/CtdjKv9rO0Q6fek0SHAH
+    publisher: Trybunalski.pl
+    date: 2026-11-19
+    language: pl
 open_questions:
   - The Łódź police statement and most outlets give 'more than 1.9 kg' of marijuana, while the TuLodz headline says 'over 2 kg'; the report uses the police statement's 1.9 kg figure.
   - No count was published for the cannabis shrubs found at the man's home.
@@ -105,20 +110,19 @@ open_questions:
 
 On 15 November 2026 police from the Piotrków Trybunalski patrol-intervention
 unit were called to the railway station after a report of an aggressive
-passenger on a train from Katowice to Gdynia. [@2] The 29-year-old had been
+passenger on a train from Katowice to Gdynia. [@2,5] The 29-year-old had been
 insulting passengers and the train manager, disrupting order and ignoring
 orders. [@1] When the train arrived, officers found the train manager, who
 confirmed the report and pointed out the carriage where the 29-year-old was
 sitting. [@3] Officers decided to detain the man and smelled a strong odour
 characteristic of marijuana. [@2] A search of his backpack found a foil ziplock
-bag of dried plant material which tested positive for marijuana. [@4] He was
+bag of dried plant material which tested positive for marijuana. [@4,5] He was
 given fines totalling 1,100 zloty for the offences committed during the journey.
-[@2]
+[@2,5]
 
 Officers from the Kłomnice police station then searched the man's home in
-Częstochowa County. [@2] There they found cannabis shrubs and containers of
+Częstochowa County. [@2,5] There they found cannabis shrubs and containers of
 dried plant material. [@2] Police said the collaboration secured more than 1.9
-kilograms of marijuana in total. [@2] The man heard charges of possessing a
+kilograms of marijuana in total. [@2,5] The man heard charges of possessing a
 significant amount of drugs and illegally cultivating cannabis, carrying a
 possible sentence of up to 10 years in prison. [@1]
-
