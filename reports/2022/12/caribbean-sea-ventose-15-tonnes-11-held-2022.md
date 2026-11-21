@@ -52,33 +52,56 @@ sources:
     date: 2022-12-12
     language: es
     archived: https://web.archive.org/web/20260112201429id_/https://www.diariolasamericas.com/america-latina/francia-y-venezuela-incautan-15-toneladas-posible-droga-n5326666
-open_questions:
-  - No exact seizure coordinates were published, so the map point marks the southern Caribbean off Venezuela rather than a precise site.
-  - No names, ages, charges or court outcome for the 11 crew beyond handover and apprehension were reported.
-  - Venprensa headlines the haul as 1492 kilos while its text and French accounts say about 1,500 kg or 1.5 tonnes; the report uses 1500 kg.
-  - The 5-tonne 2022 total covers all narcotics intercepted by French Antilles forces, not cannabis alone.
-  - The drug is described only as presumed or suspected marijuana; no laboratory confirmation was reported.
-  - No charges, custody ruling or court outcome for the 11 crew were reported in this article.
-  - The article's 2022 cumulative totals of 43,352.963 kg in 7,293 procedures and 78 operations belong to national statistics, not to this seizure, and are left out.
+  - title: Une tonne et demie de cannabis saisie en mer des Caraïbes
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/une-tonne-et-demie-de-cannabis-saisie-en-mer-des-caraibes-914727.php
+    publisher: France-Antilles Martinique
+    date: 2022-12-12
+    language: fr
+media:
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/une-tonne-et-demie-de-cannabis-saisie-en-mer-des-caraibes-914727.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/63978ac575986b24d711ab57/width_1000-webp/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'Cannabis from the 1.5-tonne seizure by the Forces Armées aux Antilles in the Caribbean Sea. Photo: DR (supplied image).'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/une-tonne-et-demie-de-cannabis-saisie-en-mer-des-caraibes-914727.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/63978ac56f29706b737ee8c7/width_1000-webp/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'Cannabis from the 1.5-tonne seizure by the Forces Armées aux Antilles in the Caribbean Sea. Photo: DR (supplied image).'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/une-tonne-et-demie-de-cannabis-saisie-en-mer-des-caraibes-914727.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/63978ac66f29706b737ee8c8/width_1000-webp/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'Cannabis from the 1.5-tonne seizure by the Forces Armées aux Antilles in the Caribbean Sea. Photo: DR (supplied image).'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/une-tonne-et-demie-de-cannabis-saisie-en-mer-des-caraibes-914727.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/63978ac6b104b12ad42b9cc5/width_1000-webp/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'Cannabis from the 1.5-tonne seizure by the Forces Armées aux Antilles in the Caribbean Sea. Photo: DR (supplied image).'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/une-tonne-et-demie-de-cannabis-saisie-en-mer-des-caraibes-914727.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/63978ac7538eb0741544c524/width_1000-webp/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'Cannabis from the 1.5-tonne seizure by the Forces Armées aux Antilles in the Caribbean Sea. Photo: DR (supplied image).'
 ---
 
 The French Navy vessel Ventôse crew seized 1.5 tons of cannabis from a
-suspicious vessel in the Caribbean sea. [@1,4] The Forces Armées Aux Antilles
+suspicious vessel in the Caribbean sea. [@1,4,5] The Forces Armées Aux Antilles
 Facebook page said the seizure occurred on December 7, 2022. [@1] The French
 authorities handed the 11-member crew, the vessel, and the drugs over to
-Venezuelan law enforcement officials. [@1] The Venezuelan-flagged fishing boat
+Venezuelan law enforcement officials. [@1,5] The Venezuelan-flagged fishing boat
 El Lirico, registration ARSH-PE-0357, was intercepted 100 nautical miles inside
 the exclusive economic zone. [@3,4]
 
-According Monday’s Facebook post, 27 bundles tested positive for cannabis. [@1]
+According Monday’s Facebook post, 27 bundles tested positive for cannabis. [@1,5]
 The inspection found 27 sacks of suspected marijuana weighing about 1,500 kg,
 and 11 Venezuelan nationals aboard were apprehended. [@3,4] The transfer to a
 Venezuelan coast-guard patrol boat was made at sea on Saturday 10 December 50
 nautical miles north of the Venezuelan coast. [@2] The next day the 27 bales of
 cannabis, equivalent to 1.5 tonnes, were destroyed in the presence of a French
-delegation. [@2]
+delegation. [@2,5]
 
 The operation, the fruit of international cooperation, mobilized several
 intelligence bodies including the OFAST anti-drugs office and the Fort-de-France
 prosecutor. [@2] It was the 9th seizure of the year by French forces in the
-Caribbean, resulting in a total of 5 tons of narcotics intercepted in 2022. [@1]
+Caribbean, resulting in a total of 5 tons of narcotics intercepted in 2022. [@1,5]
