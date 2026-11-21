@@ -46,29 +46,34 @@ sources:
     publisher: Dainik Shiksha
     date: 2026-11-20
     language: bn
+  - title: চবির হলে মাদকবিরোধী অভিযান, ৮ জন শনাক্ত
+    url: https://www.ajkerpatrika.com/amp/bangladesh/chattogram/ajp858gusaz4r
+    publisher: Ajker Patrika
+    date: 2026-11-20
+    language: bn
 open_questions:
-  - No weight or value for the ganja recovered from the room was published.
-  - The hall administration described the eight as identified while consuming drugs and handled the matter as a university disciplinary issue; no formal charge or court outcome was reported.
-  - The ganja, electronic cigarettes and beer were recovered together from one room, so no quantity can be attributed to cannabis alone and it is unclear how many of the eight had used ganja specifically.
-  - Academic punishment was left to the university administration and no final decision was reported.
+    - No weight or value for the ganja recovered from the room was published.
+    - The hall administration described the eight as identified while consuming drugs and handled the matter as a university disciplinary issue; no formal charge or court outcome was reported.
+    - The ganja, electronic cigarettes and beer were recovered together from one room, so no quantity can be attributed to cannabis alone and it is unclear how many of the eight had used ganja specifically.
+    - Academic punishment was left to the university administration and no final decision was reported.
+    - The students accused of pushing the tutors say they did not recognise the teachers, while the house tutor says they acted aggressively after the tutors identified themselves.
 ---
 
 Members of the hall administration and proctorial body at Chittagong University
 raided room 612 of C block in Shaheed Farhad Hossain Hall, acting on student
-complaints. [@1] The operation took place on the evening of Friday 20 November
-2026 across rooms 612 and 104 of the hall's C block. [@2] The hall
+complaints. [@1,3] The operation took place on the evening of Friday 20 November
+2026 across rooms 612 and 104 of the hall's C block. [@2,3] The hall
 administration said the raid identified eight people, seven students and one
-guest, as consuming drugs in the room. [@2]
+guest, as consuming drugs in the room. [@2,3]
 
 Officers recovered ganja, electronic cigarettes, drug-use equipment and bottles
-of beer from one of the rooms, the hall administration said. [@1] Assistant
+of beer from one of the rooms, the hall administration said. [@1,3] Assistant
 proctor Nurul Hamid Kanan said raw ganja and electronic cigarettes were
-recovered and beer bottles were also found. [@2] The room was sealed and the
+recovered and beer bottles were also found. [@2,3] The room was sealed and the
 hall administration said it would cancel the residential seats of those
-involved. [@1]
+involved. [@1,3]
 
 During a search of another room in the same hall, two students were accused of
-pushing two house tutors. [@1] House tutor Bapparaj Hawlader said the two
+pushing two house tutors. [@1,3] The two students accused of pushing the tutors were from the history department and the criminology and police science department. [@3] House tutor Bapparaj Hawlader said the two
 students pushed him and a fellow tutor and acted aggressively even after the
-tutors identified themselves as teachers. [@1]
-
+tutors identified themselves as teachers. [@1,3] The accused students said they had not recognised the teachers and had blocked them from entering their room. [@3]
