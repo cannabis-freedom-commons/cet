@@ -63,6 +63,11 @@ sources:
     publisher: Alghero Eco
     date: 2026-11-19
     language: it
+  - title: 'Ai domiciliari con una pistola modificata, uno storditore elettrico, un machete lungo 60 centimetri e marijuana: arrestato'
+    url: https://www.sassaritoday.it/cronaca/porto-torres-arrestato-uomo-spaccio-armi-illegali.html
+    publisher: SassariToday
+    date: 2026-11-19
+    language: it
 open_questions:
   - The overnight operation spanned 13-14 November 2026; 14 November is used as the incident date.
   - No name or age for the arrested man was published.
@@ -72,18 +77,17 @@ open_questions:
 
 Carabinieri of the Radiomobile unit of the Porto Torres company arrested in the
 act a man who was already under house arrest during the night between Friday 13
-and Saturday 14 November 2026. [@3] The Carabinieri described him as strongly
+and Saturday 14 November 2026. [@3,4] The Carabinieri described him as strongly
 suspected of unlawful possession of a clandestine weapon and possession of drugs
-for the purpose of dealing. [@2]
+for the purpose of dealing. [@2,4]
 
 During a routine check at his home, his behaviour and a strong smell of
-marijuana prompted officers to carry out a thorough search of the dwelling. [@1]
+marijuana prompted officers to carry out a thorough search of the dwelling. [@1,4]
 In the search officers found a calibre-8 blank pistol without its red muzzle cap
-and with clear signs of work intended to make it usable. [@1] They also seized a
+and with clear signs of work intended to make it usable. [@1,4] They also seized a
 contact electric stun gun, a 60-centimetre machete, a container holding 25 grams
-of marijuana and a precision scale. [@1]
+of marijuana and a precision scale. [@1,4]
 
-Officers took the man to the Porto Torres company barracks for formalities. [@2]
+Officers took the man to the Porto Torres company barracks for formalities. [@2,4]
 Informed immediately, the judicial authority ordered his transfer to
-Sassari-Bancali prison, where he was to await a validation hearing. [@3]
-
+Sassari-Bancali prison, where he was to await a validation hearing. [@3,4]
