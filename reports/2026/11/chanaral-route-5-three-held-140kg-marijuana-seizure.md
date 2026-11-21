@@ -100,6 +100,11 @@ sources:
     publisher: HVA Radio
     date: 2026-11-19
     language: es
+  - title: 'Chañaral: detienen a tres colombianos e incautan más de 140 kilos de marihuana'
+    url: https://www.lanacion.cl/chanaral-detienen-a-tres-colombianos-e-incautan-mas-de-140-kilos-de-marihuana/
+    publisher: La Nación
+    date: 2026-11-20
+    language: es
 media:
   - kind: photo
     url: https://www.emol.com/noticias/Nacional/2026/11/19/1217634/chanaral-extranjeros-trasladaban-kilos-marihuana.html
@@ -116,33 +121,27 @@ media:
     media_url: https://mdstrm.com/embed/6b00b7c4bd87c0e15c9e25c8
     publisher: 24horas
     caption: 'Video of the Chañaral drug operation published with the 24 Horas report, whose player still is captioned ''Video Principal''. Video: 24 Horas'
-open_questions:
-    - No separate date is given for the vehicle checks, the arrests or the detention hearing; 19 November 2026, the publication date, stands in for the incident date.
-    - No ages or full names of the three detainees were published, and their individual roles in the transport are not described.
-    - One account quotes the Chañaral prosecutor as saying 133 packages of marijuana were seized, while the police statement and the other outlets report 140 packages found in the two vehicles.
-    - No plea, trial date or outcome beyond the communicated charges is reported; the case remains within the 85-day investigation period.
-    - 24 Horas describes a single vehicle stopped in a check on Route 5 Norte, while the Carabineros account describes two vehicles, one at a service station.
 ---
 
 Carabineros detained three Colombian adults in Chañaral for drug trafficking and
-a Chañaral court placed all three in preventive detention. [@3,5,6,8,9] One detainee had
+a Chañaral court placed all three in preventive detention. [@3,5,6,8,9,11] One detainee had
 an outstanding arrest warrant from the Antofagasta Guarantee Court for lesiones,
-while the other two had irregular migratory status in the country. [@2,4,5,6,7,10] The
+while the other two had irregular migratory status in the country. [@2,4,5,6,7,10,11] The
 Chañaral Guarantee Court granted preventive detention after finding their
 liberty a danger to public safety. [@3,7,10] The court set an 85-day investigation
-period during which the three will remain deprived of liberty. [@3,5,6,7,10]
+period during which the three will remain deprived of liberty. [@3,5,6,7,10,11]
 
 The case began with checks by the SIP of the 1st Chañaral police station on two
 vehicles, one at a service station and the other on Route 5 Norte, where
-officers found 140 packages containing marijuana. [@2,4,5,6,7,8,10] On the prosecution's
+officers found 140 packages containing marijuana. [@2,4,5,6,7,8,10,11] On the prosecution's
 instructions, Atacama OS7 specialists analysed mobile phones with UFED
 technology, reviewed security cameras and took statements to link the three to
-the transport. [@2,5,7,10] Officers seized 140 kilos 343 grams of marijuana and 5 grams
-300 milligrams of cocaine hydrochloride. [@2,4,5,6,7,10] Police counted the substances as
-290,686 doses with an appraised value of 1,503,430,000 pesos. [@1,5,6,7,10] Officers also
-seized five mobile phones and $107,000 in cash. [@1,4,5,6,7,10]
+the transport. [@2,5,7,10,11] Officers seized 140 kilos 343 grams of marijuana and 5 grams
+300 milligrams of cocaine hydrochloride. [@2,4,5,6,7,10,11] Police counted the substances as
+290,686 doses with an appraised value of 1,503,430,000 pesos. [@1,5,6,7,10,11] Officers also
+seized five mobile phones and $107,000 in cash. [@1,4,5,6,7,10,11]
 
 Chañaral prosecutor Nicolás Meléndez Chacón said the three moved the drugs in a
 coordinated way in two vehicles and will be investigated for illicit drug
-trafficking as a criminal group. [@3,6,7,10] The prosecution brought the three before
-the Chañaral Guarantee Court, where it communicated charges against them. [@2,5,6,10]
+trafficking as a criminal group. [@3,6,7,10,11] The prosecution brought the three before
+the Chañaral Guarantee Court, where it communicated charges against them. [@2,5,6,10,11]
