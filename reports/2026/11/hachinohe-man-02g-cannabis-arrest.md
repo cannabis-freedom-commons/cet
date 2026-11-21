@@ -50,19 +50,24 @@ sources:
     publisher: dメニューニュース / RAB青森放送
     date: 2026-11-20
     language: ja
+  - title: 大麻所持疑い、男逮捕／八戸署
+    url: https://www.daily-tohoku.news/archives/CNTS2026112001276
+    publisher: デーリー東北
+    date: 2026-11-20
+    language: ja
 open_questions:
-  - The 0.2 grams is an approximate amount (約0.2グラム), with no exact or laboratory-confirmed weight given.
-  - The arrest is dated only as having been made by 20 November 2026, the publication date; no exact arrest date is stated.
-  - The alleged possession took place on 16 September 2026, more than two months before the arrest was reported.
-  - No formal charge, court outcome or detention status was reported; the case was at the investigation stage.
-  - The account rests on RAB Aomori Broadcasting and its republications (the submitted NTV page and the dmenu reprint); no independent second outlet was found.
-  - The source does not say whether the man admitted or denied the allegation.
+    - The 0.2 grams is an approximate amount (約0.2グラム), with no exact or laboratory-confirmed weight given.
+    - Police dated the arrest to 4 November 2026 but announced it on 20 November; the reports do not explain the interval.
+    - The alleged possession took place on the morning of 16 September 2026, about seven weeks before the dated arrest.
+    - No formal charge, court outcome or detention status was reported; the case was at the investigation stage.
+    - The 0.2-gram figure and the detail that the cannabis was held at his home come from the RAB Aomori Broadcasting account; the Daily Tohoku report is truncated before those details.
+    - Neither report says whether the man admitted or denied the allegation.
 ---
 
 Hachinohe police in Aomori Prefecture arrested a 31-year-old unemployed man on
 suspicion of possessing about 0.2 grams of cannabis at his home. [@1] The
-suspect lives in Higashishirayamadai 4-chome, Hachinohe. [@2] Police said the
-alleged possession occurred on 16 September 2026. [@1]
+suspect lives in Higashishirayamadai 4-chome, Hachinohe. [@2,3] Police said the
+alleged possession occurred on 16 September 2026. [@1] The alleged possession took place at around 9:05 a.m. on 16 September 2026. [@3]
 
 The man was arrested on suspicion of violating Japan's Narcotics Control Law
 (麻薬取締法) by possessing the cannabis at home. [@1] Police gave the quantity as
@@ -70,5 +75,4 @@ about 0.2 grams, an approximate figure rather than an exact measured weight.
 [@2]
 
 The arrest was made by Hachinohe Police Station and reported as having been
-carried out by 20 November 2026. [@2]
-
+carried out by 20 November 2026. [@2] Police dated the arrest to 4 November 2026 and announced it on 20 November. [@3]
