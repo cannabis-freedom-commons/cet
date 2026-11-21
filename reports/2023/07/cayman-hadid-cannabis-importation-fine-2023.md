@@ -103,13 +103,18 @@ sources:
     publisher: Rolling Stone
     date: 2023-07-18
     language: en
+  - title: Gigi Hadid Reportedly Arrested for Marijuana Possession in Cayman Islands
+    url: https://www.vanityfair.com/style/2023/07/gigi-hadid-reportedly-arrested-for-marijuana-possession-in-cayman-islands
+    publisher: Vanity Fair
+    date: 2023-07-18
+    language: en
 open_questions:
     - Teen Vogue and The Washington Post reported the fine as $1,000 without stating the currency, while other accounts gave 1,000 Cayman Islands dollars.
 ---
 
 American model Gigi Hadid, 28, and her friend Leah McCarthy were detained in the
 Cayman Islands after their luggage was searched when they arrived on a private
-jet for a holiday on 10 July 2023. [@1,2,3,4,7,8,9,12] The other woman was identified as Leah Nicole McCarthy, another member of Hadid's group. [@4,9,10] Leah McCarthy was 29 at the time of the arrest. [@10] They arrived at Owen Roberts International Airport in George Town, where Customs and Border Control officers put their bags through a scanner and searched them by hand. [@4,7,9] The Cayman Islands Customs and Border
+jet for a holiday on 10 July 2023. [@1,2,3,4,7,8,9,12,14] The other woman was identified as Leah Nicole McCarthy, another member of Hadid's group. [@4,9,10] Leah McCarthy was 29 at the time of the arrest. [@10] They arrived at Owen Roberts International Airport in George Town, where Customs and Border Control officers put their bags through a scanner and searched them by hand. [@4,7,9] The Cayman Islands Customs and Border
 Control said the two were arrested for "the importation of marijuana and
 importation of utensils used for the consumption of marijuana". [@1,2,3,4,5,7,8] The agency
 said it was a small amount, seemingly for personal consumption. [@1,2,4,5,12]
