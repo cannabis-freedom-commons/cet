@@ -43,6 +43,16 @@ sources:
     publisher: الوطن
     date: 2026-11-20
     language: ar
+  - title: الداخلية تضبط 111 ألف مخالفة مرورية خلال 24 ساعة على مستوى الجمهورية
+    url: https://www.iqraa.news/240812/%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-111-%D8%A3%D9%84%D9%81-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A9-%D9%85%D8%B1%D9%88%D8%B1%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-24/
+    publisher: إقرأ نيوز
+    date: 2026-11-20
+    language: ar
+  - title: الداخلية تضبط 111365 مخالفة مرورية وتكشف تعاطي 40 سائقا للمخدرات خلال 24 ساعة
+    url: https://youm7.com/story/2026/11/20/%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-111365-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%A9-%D9%85%D8%B1%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D8%B9%D8%A7%D8%B7%D9%8A-40-%D8%B3%D8%A7%D8%A6%D9%82%D8%A7-%D9%84%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA/7625775
+    publisher: اليوم السابع
+    date: 2026-11-20
+    language: ar
 open_questions:
   - The accounts name no substance in the 34 nationwide or the six Regional Ring Road positive tests, so it is not established that any of them involved cannabis.
   - No separate date for the campaign round is given; 20 November 2026 is the publication date and is used as the incident date.
@@ -54,18 +64,17 @@ open_questions:
 ---
 
 Egypt's Interior Ministry kept up intensive traffic campaigns on roads and main
-axes across the country. [@2] The ministry said the campaigns aimed to enforce
+axes across the country. [@2,3] The ministry said the campaigns aimed to enforce
 traffic discipline and reduce accidents. [@2] The campaigns recorded 111,365
-traffic violations in 24 hours. [@1] The main offences were driving without
+traffic violations in 24 hours. [@1,3] The main offences were driving without
 licences, speeding, parking at random, using a mobile phone at the wheel and
-breaching licence conditions. [@1] Officers tested 937 drivers and 34 were
-positive for drug use. [@1] The ministry said police arrested 40 drivers for
-using drugs on the roads and main axes during the 24 hours. [@1]
+breaching licence conditions. [@1,3] Officers tested 937 drivers and 34 were
+positive for drug use. [@1,3] The ministry said police arrested 40 drivers for
+using drugs on the roads and main axes during the 24 hours. [@1,4]
 
 A parallel campaign in work zones along the Regional Ring Road recorded 498
-traffic violations. [@1] Officers tested 154 drivers there and six were positive
-for drug use. [@1] The campaign also arrested six people wanted under nine court
-rulings and held three vehicles for breaching traffic laws. [@1] The Interior
+traffic violations. [@1,3] The Regional Ring Road violations included carrying passengers against the law, breaching licence conditions and vehicles without the required security and durability standards. [@3] Officers tested 154 drivers there and six were positive
+for drug use. [@1,3] The campaign also arrested six people wanted under nine court
+rulings and held three vehicles for breaching traffic laws. [@1,3] The Interior
 Ministry said the necessary legal measures were taken over all recorded
-violations and cases. [@2]
-
+violations and cases. [@2,3]
