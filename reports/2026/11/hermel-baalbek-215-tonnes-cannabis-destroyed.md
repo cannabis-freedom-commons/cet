@@ -193,10 +193,16 @@ sources:
     publisher: Elsiyasa
     date: 2026-11-13
     language: ar
+  - title: الجيش اللبناني يضبط مستودع أسلحة بالضاحية الجنوبية ويدمر 215 طن مخدرات
+    url: https://ekhbary24.com/article/62891
+    publisher: إخباري 24
+    date: 2026-11-20
+    language: ar
 open_questions:
     - The army gave 215 tonnes as a combined figure for hashish and marijuana, with no separate weight for each.
     - No area cleared and no count of the greenhouses, tents or farms destroyed was published.
     - The army said searches to arrest those involved were continuing; no arrests, charges or court steps have been reported.
+    - Ekhbary 24 attributes all 215 tonnes to the Marjehin plain and then reports a further 15 tonnes destroyed in Boudai, unlike the army statement's split of 200 tonnes in Marjehin and 15 tonnes in Boudai that this report uses.
 ---
 
 The Lebanese Army announced the destruction of 215 tonnes of cannabis and
@@ -208,8 +214,8 @@ One army unit destroyed 200 tonnes of cannabis resin and marijuana, along with
 agricultural greenhouses and planted land, in the Marjehin plain area of Hermel
 over three days. [@1,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24] The three-day period described the Marjhin intervention, not necessarily all of the operations. [@20] Another unit raided several farms in the Boudai area of
 Baalbek, destroying 15 tonnes of cannabis and a greenhouse planted with
-marijuana. [@1,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24] In Boudai the unit seized machines used to manufacture the
-drugs. [@1,3,7,8,9,10,11,12,13,14,16,18,19,20,22,24]
+marijuana. [@1,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24,25] In Boudai the unit seized machines used to manufacture the
+drugs. [@1,3,7,8,9,10,11,12,13,14,16,18,19,20,22,24,25]
 
 Annahar corroborated the same account, reporting 200 tonnes destroyed with
 greenhouses and planted land in the Marjehin plain of Hermel and 15 tonnes with
