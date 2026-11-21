@@ -58,19 +58,26 @@ sources:
     publisher: Clic JM
     date: 2026-11-20
     language: pt
+  - title: Mais de 100 quilos de maconha são apreendidos pelo 29º BPM no interior de Ijuí
+    url: https://radiocidadesa.com.br/index.php?a=detail&id=27174&m=noticias
+    publisher: Radio Cidade SA
+    date: 2026-11-20
+    language: pt
 open_questions:
-  - 'The two accounts give different weights: Ijuí News reported more than 135 kilograms on 20 November, while Clic JM, also on 20 November, gave 155.2 kilograms in 209 bricks; the report uses 155.2 kilograms.'
-  - Ijuí News places the find near Sabeve on the ERS-522, while Clic JM names the locality as Linha 5 Oeste; the reports do not make clear how the two descriptions relate.
-  - Ijuí News says the suspect was taken to the DPPA in Ijuí, while Clic JM says the Delegacia de Polícia de Ijuí.
-  - The reports do not say whether the man arrested was the driver who fled the Federal Highway Police approach the previous evening.
-  - No street value for the marijuana and no laboratory confirmation were reported.
-  - The suspect's name, age and custody status were not published, and no charge, hearing or court outcome beyond the flagrante arrest is reported.
-  - Both accounts rest on the Brigada Militar's information about the operation, so the arrest is not independently reported.
+    - 'The reported weight varies between accounts: Ijuí News gave more than 135 kilograms, Radio Cidade SA more than 100 kilograms, and Clic JM 155.2 kilograms in 209 bricks; the report uses 155.2 kilograms.'
+    - Ijuí News places the find near Sabeve on the ERS-522, Clic JM names the locality as Linha 5 Oeste, and Radio Cidade SA says the car was heading toward Augusto Pestana; the accounts do not make clear how the descriptions relate.
+    - Ijuí News says the suspect was taken to the DPPA in Ijuí, Clic JM to the Delegacia de Polícia de Ijuí, and Radio Cidade SA to the Delegacia de Polícia Civil de Ijuí.
+    - 'The accounts differ on who attempted to stop the car on Thursday evening: Ijuí News names the Federal Highway Police, while Radio Cidade SA says only that it was a police approach.'
+    - The reports do not say whether the man arrested was the driver who fled the attempted approach the previous evening.
+    - No street value for the marijuana and no laboratory confirmation were reported.
+    - The suspect's name, age and custody status were not published, and no charge, hearing or court outcome beyond the flagrante arrest is reported.
+    - Radio Cidade SA says the drug was believed to come from the border region near Santa Rosa, but no source reports confirmation of its origin.
+    - All accounts rest on the Brigada Militar's information about the operation, so the arrest is not independently reported.
 ---
 
 Brigada Militar officers arrested a suspect in the interior of Ijuí on the
 morning of Friday 20 November 2026, after finding a suspicious vehicle near
-Sabeve on the ERS-522. [@1] The operation was carried out by Força Tática teams
+Sabeve on the ERS-522. [@1,3] Police located the car on the road toward Augusto Pestana, near Sabeve. [@3] The operation was carried out by Força Tática teams
 with the corporation's intelligence sector, after information that a car that
 had escaped a Federal Highway Police (PRF) roadblock on Thursday 19 November was
 moving in the region. [@2] Residents near Sabeve saw suspicious movement around
@@ -82,13 +89,12 @@ intercept the load. [@1] Officers found the car hidden in a wooded area and
 confirmed it had the same characteristics as the vehicle that had fled the PRF.
 [@1] Searches continued in the surrounding area, where the rest of the load was
 found hidden in woodland. [@1] In all, officers found 209 bricks of marijuana,
-some inside the car and others hidden in the vegetation nearby. [@2] The
+some inside the car and others hidden in the vegetation nearby. [@2] The drug was said to have come from the northwest border region, near Santa Rosa. [@3] The
 marijuana seized weighed 155.2 kilograms in total. [@2] An earlier account of
 the same seizure put the amount at more than 135 kilograms. [@1]
 
 The suspect, described as coming from the Porto Alegre metropolitan region, was
 taken with the load and the seized car to a police station in Ijuí for the
-flagrante record and legal procedures. [@2] Clic JM places the seizure in the
+flagrante record and legal procedures. [@2,3] The case was registered by delegate Maurício Possel at the civil police duty station. [@3] Clic JM places the seizure in the
 locality of Linha 5 Oeste, in the interior of Ijuí, while Ijuí News describes
 the find near Sabeve on the ERS-522. [@2]
-
