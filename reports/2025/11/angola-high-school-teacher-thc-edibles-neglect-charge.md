@@ -59,6 +59,10 @@ sources:
     url: https://local12.com/news/nation-world/students-eat-teacher-thc-edibles-gummies-marijuana-weed-indiana-high-school-cincinnati-classroom-police-investigation-high
     publisher: Local 12 (WKRC)
     date: 2025-11-16
+  - title: Angola High School teacher arrested after two students allegedly ate THC edibles she left in classroom
+    url: https://www.21alivenews.com/2025/11/15/angola-high-school-teacher-arrested-after-two-students-allegedly-ate-thc-edibles-she-left-classroom/
+    publisher: 21Alive (WPTA)
+    date: 2025-11-15
 open_questions:
     - 'The accounts disagree on the exact date of the incident: the WPTA report says the candy was consumed on Thursday, while the arrest was reported Friday, 14 November; the report dates the incident to 13 November 2025.'
     - No weight, count or THC strength of the edibles was published, so no cannabis quantity is recorded.
@@ -68,16 +72,16 @@ open_questions:
 
 On Thursday, November 13, two students at Angola High School in Angola, Indiana,
 unknowingly consumed THC candy that had been left out in their classroom during
-their last class period. [@1,4] Deputies determined the candy had been brought
+their last class period. [@1,4,5] Deputies determined the candy had been brought
 into the classroom by a teacher, later identified as 49-year-old Debra McGillem.
-[@1,4] Investigators also found additional food items suspected of containing THC
-in McGillem's possession. [@1,4] McGillem drove herself to the Steuben County
+[@1,4,5] McGillem lives in Reading, Michigan, the sheriff's office said. [@5] Investigators also found additional food items suspected of containing THC
+in McGillem's possession. [@1,4,5] McGillem drove herself to the Steuben County
 Sheriff's Office, where detectives interviewed her and the two students and came
-to believe she had operated a vehicle while impaired. [@1,4]
+to believe she had operated a vehicle while impaired. [@1,4,5]
 
 She was arrested on Friday, November 14, and booked into the Steuben County Jail
 on charges that include neglect of a dependent, possession of a controlled
-substance on school property and operating a vehicle while intoxicated. [@1,4]
+substance on school property and operating a vehicle while intoxicated. [@1,4,5]
 McGillem, a language arts teacher at the school, was held on a $6,500 bond. [@3,4]
 McGillem faces two Level 6 felonies for neglect of a dependent and for
 possession of a controlled substance on school property, plus a Class C
