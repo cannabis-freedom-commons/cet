@@ -62,26 +62,25 @@ sources:
     publisher: RTL Infos
     date: 2026-05-07
     language: fr
-open_questions:
-  - The prosecutor's release gives both 45.89 kilograms in its opening line and 45.86 kilograms as the final total; this report uses the final detailed total of 45.86 kilograms, also used by RTL Today.
-  - Actu.fr writes that six mattresses contained vacuum-sealed packs, while the prosecutor and RTL Today say two of the six did; this report follows the prosecutor.
-  - RTL Today describes the mattresses as feather mattresses while the prosecutor calls them spring mattresses.
-  - No arrest, suspect, charge, value or court outcome was reported.
-  - No cannabis-only valuation was published.
+  - title: Luxemburgo apreende 45 kg de canábis escondidos em colchões vindos de Los Angeles
+    url: https://www.contacto.lu/luxemburgo/luxemburgo-apreende-45-kg-de-canabis-escondidos-em-colchoes-vindos-de-los-angeles/151219181.html
+    publisher: Contacto
+    date: 2026-05-07
+    language: pt
 ---
 
 Customs officers at Luxembourg Airport's Cargo Center in Findel stopped a
 suspicious shipment after checking its documents. [@3,5] Officers placed the
 shipment under reinforced control after an in-depth inspection of its documents.
-[@2]
+[@2,6]
 
 The shipment was six spring mattresses sent from Los Angeles toward Germany.
-[@2,4,5] Officers found vacuum-sealed packets containing cannabis hidden inside two
-of the six mattresses. [@2,4,5] Officers seized a total of 45.86 kilograms of
-cannabis on the Luxembourg prosecutor's order. [@2,4,5] The seizure occurred on 8
-April 2026. [@3,4,5]
+[@2,4,5,6] Officers found vacuum-sealed packets containing cannabis hidden inside two
+of the six mattresses. [@2,4,5,6] Officers seized a total of 45.86 kilograms of
+cannabis on the Luxembourg prosecutor's order. [@2,4,5,6] The seizure occurred on 8
+April 2026. [@3,4,5,6]
 
 The prosecutor presented the find as a new seizure following recent drug
-discoveries at the same freight center. [@2,5] German authorities were notified of
-the discovery. [@1,4,5] The investigation was still continuing after the seizure.
-[@1,5]
+discoveries at the same freight center. [@2,5,6] German authorities were notified of
+the discovery. [@1,4,5,6] The investigation was still continuing after the seizure.
+[@1,5,6]
