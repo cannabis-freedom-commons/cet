@@ -64,6 +64,11 @@ media:
     media_url: https://www.instagram.com/reel/Df67F0AOqoO/
     publisher: Ceuta TV
     caption: Ceuta TV video report on the Policía Nacional operation in the barriada del Príncipe, embedded in its article on the calle Este search.
+  - kind: video
+    url: https://tanjanews.com/193275.html
+    media_url: https://www.youtube.com/watch?v=kp2JtHm1QAM
+    publisher: RTVCE
+    caption: 'RTVCE news video on the UDYCO search of the calle Este dwelling in the barriada del Príncipe, titled ''Intervienen dosis de cocaína y heroína preparadas para su venta en una vivienda del Príncipe'' and published with the Tanja News account of the raid. Credit: RTVCE'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 54ea3960ea016aedd6893d7c81d01b3f
@@ -99,6 +104,16 @@ sources:
     publisher: أريفينو.نت
     date: 2026-11-19
     language: ar
+  - title: الشرطة الإسبانية تحجز كوكايين وهيروين وحشيش داخل منزل بسبتة وتوقف ثلاثة أشخاص
+    url: https://tanjanews.com/193275.html
+    publisher: مجلة طنجة نيوز
+    date: 2026-11-20
+    language: ar
+  - title: La Policía Nacional interviene cocaína y heroína preparadas para su venta en una vivienda de El Príncipe
+    url: https://www.elpueblodeceuta.es/sec/sucesos/policia-nacional-interviene-cocaina-heroina_1_1199753.html
+    publisher: El Pueblo de Ceuta
+    date: 2026-11-19
+    language: es
 open_questions:
     - The almost one kilogram of cocaine and the doses of heroin found in the same search are other substances and are not counted in the cannabis figures.
     - No exact count was published for the doses of cocaine and heroin prepared for sale.
@@ -112,12 +127,12 @@ open_questions:
 ---
 
 Policía Nacional officers carried out a search of a dwelling on calle Este in
-the barriada del Príncipe in Ceuta early on Thursday 19 November 2026. [@2,6] The
+the barriada del Príncipe in Ceuta early on Thursday 19 November 2026. [@2,6,7] The
 operation was carried out by officers from UDYCO, the Drug and Organized Crime
 Unit, and UCRIF, the unit dealing with illegal immigration networks and document
-fraud. [@1,6] It ended with three detentions: the occupant of the dwelling on
+fraud. [@1,6,8] It ended with three detentions: the occupant of the dwelling on
 suspicion of drug trafficking and the other two for violating the Ley de
-Extranjería, Spain's immigration law. [@1,6] El Faro de Ceuta reported that the
+Extranjería, Spain's immigration law. [@1,6,7] El Faro de Ceuta reported that the
 occupant also sold drugs, coerced immigrants and hid them in the house, which it
 described as a 'casa patera'. [@3,6] The same outlet said the three people found
 inside were the suspected seller and two Moroccan nationals. [@3] Ceuta
@@ -125,7 +140,7 @@ Actualidad said the resident was accused of drug trafficking and of housing and
 coercing immigrants. [@2]
 
 Officers seized doses of cocaine and heroin prepared for sale, almost one
-kilogram of cocaine and two kilograms of hashish. [@1,6] Teleceuta reported the
+kilogram of cocaine and two kilograms of hashish. [@1,6,7] Teleceuta reported the
 same haul, describing the hashish weight as approximately two kilograms. [@4]
 
 Ceuta TV reported that the investigation was being led by the Juzgado Número Uno
