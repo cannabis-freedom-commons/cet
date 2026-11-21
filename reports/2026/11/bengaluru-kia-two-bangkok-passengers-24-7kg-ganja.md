@@ -60,6 +60,10 @@ sources:
     url: https://www.deccanherald.com/india/karnataka/bengaluru/customs-seizes-36-kg-of-hydroponic-ganja-at-kempegowda-international-airport-in-two-days-4226042
     publisher: Deccan Herald
     date: 2026-11-20
+  - title: Passenger held at Bengaluru airport with hydroponic ganja worth Rs 5.7 crore
+    url: https://www.msn.com/en-in/news/other/passenger-held-at-bengaluru-airport-with-hydroponic-ganja-worth-rs-57-crore/ar-AA2hQSnN
+    publisher: MSN
+    date: 2026-11-20
 open_questions:
   - 'Accounts of the two days differ: one reports three seizures totalling 35.9 kg worth Rs 12.56 crore, while two others report only two seizures totalling 24.7 kg worth Rs 8.64 crore.'
   - The identities, ages and nationalities of the two passengers were not disclosed.
@@ -69,11 +73,11 @@ open_questions:
 
 Bengaluru Customs arrested a passenger arriving from Bangkok at Kempegowda
 International Airport on 19 November 2026 and seized 16.3 kg of hydroponic
-ganja, valued at Rs 5.7 crore. [@1] The ganja was concealed to evade Customs
-detection and the passenger's identity was not disclosed. [@1] A second
+ganja, valued at Rs 5.7 crore. [@1,4] The ganja was concealed to evade Customs
+detection and the passenger's identity was not disclosed. [@1,4] A second
 passenger arriving from Bangkok was arrested on 18 November 2026 under the NDPS
-Act. [@1] Officers seized 8.4 kg of hydroponic ganja worth Rs 2.94 crore from
-that passenger's checked-in baggage. [@1]
+Act. [@1,4] Officers seized 8.4 kg of hydroponic ganja worth Rs 2.94 crore from
+that passenger's checked-in baggage. [@1,4]
 
 Together the two seizures weighed 24.7 kg and were valued at about Rs 8.64
 crore, officials said. [@2] Both passengers were arrested under the Narcotic
@@ -85,4 +89,3 @@ which officials said points to international drug trafficking routes into India.
 [@1] A fuller account of the same two days reported a third, separate seizure on
 19 November of 11.2 kg worth Rs 3.92 crore, which is not counted among the two
 passengers here. [@3]
-
