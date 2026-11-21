@@ -143,6 +143,10 @@ sources:
     publisher: CNN en Español
     date: 2026-04-28
     language: es
+  - title: 22 Buddhist monks arrested at airport for allegedly hiding 110kg of cannabis in luggage
+    url: https://thenationaldesk.com/news/americas-news-now/22-buddhist-monks-arrested-at-bandaranaike-airport-sri-lanka-for-allegedly-hiding-110kg-of-cannabis-in-luggage-illegal-drugs-kush-hashish-thailand-south-asian-nation
+    publisher: The National Desk
+    date: 2026-04-28
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cn4v4nzwj94o
@@ -164,6 +168,8 @@ media:
     media_url: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2272655605.jpg?c=original&q=w_860,c_fill/f_avif
     publisher: CNN
     caption: 'Sri Lankan monks arriving to appear before a court after their arrest in Negombo on 26 April 2026. Photo: Ishara S. Kodikara/AFP/Getty Images via CNN'
+open_questions:
+    - The accounts describe the haul as both kush and hashish without giving separate weights for the two.
 ---
 
 On the night of 25–26 April 2026 police arrested 22 Sri Lankan monks returning from Thailand at
@@ -178,12 +184,12 @@ Bureau's airport unit acted on intelligence [@4,5,10,12], and the monks were arr
 Each monk carried about 5 kg of kush, a particularly potent form of cannabis, behind false walls in
 identical luggage, among school supplies and sweets. [@2,3,6,8,9,10,11,13,15,16,17,18,19,20,23,26,27] Customs gave
 the total as 242 pounds [@3,6,9,10,11,13,15,16,17,20,23]; one account found about 112 kilograms. [@12] The
-government news portal put the value at over US$3.45 million (1.1 billion rupees). [@5,10,15,22,26,27]
+government news portal put the value at over US$3.45 million (1.1 billion rupees). [@5,10,15,22,26,27,28]
 
 The monks, aged 19 to 28 and mostly students from remote areas, had left for Thailand on 22 April on an
-all-expenses-paid four-day trip to Bangkok paid for by a sponsor. [@2,3,5,11,13,14,15,16,17,18,19,20,21,27] The monks were reportedly young men and based in Sri Lanka for higher education. [@26]
+all-expenses-paid four-day trip to Bangkok paid for by a sponsor. [@2,3,5,11,13,14,15,16,17,18,19,20,21,27] The monks were reportedly young men and based in Sri Lanka for higher education. [@26,28]
 Phones showed them enjoying the holiday in casual clothes. [@2,7] It was the first time monks had been
-arrested at the airport carrying drugs, the state-owned Daily News said. [@5,15,20,26,27]
+arrested at the airport carrying drugs, the state-owned Daily News said. [@5,15,20,26,27,28]
 
 ## The organisers
 
