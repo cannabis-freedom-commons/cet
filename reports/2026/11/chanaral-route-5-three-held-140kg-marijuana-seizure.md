@@ -70,27 +70,43 @@ sources:
     publisher: Radioatacama.cl
     date: 2026-11-19
     language: es
+  - title: 'Chañaral: Capturan a tres extranjeros mientras trasladaban más de 140 kilos de marihuana avaluados en $1.503 millones'
+    url: https://www.emol.com/noticias/Nacional/2026/11/19/1217634/chanaral-extranjeros-trasladaban-kilos-marihuana.html
+    publisher: Emol
+    date: 2026-11-20
+    language: es
+media:
+  - kind: photo
+    url: https://www.emol.com/noticias/Nacional/2026/11/19/1217634/chanaral-extranjeros-trasladaban-kilos-marihuana.html
+    media_url: https://static.emol.cl/emol50/Fotos/2026/11/19/file_20261119182753.jpg
+    publisher: Emol
+    caption: 'Marijuana packages seized in Chañaral, in the photo published with the Carabineros account and captioned "Parte de los paquetes incautados". Photo: Carabineros'
+open_questions:
+    - No separate date is given for the vehicle checks, the arrests or the detention hearing; 19 November 2026, the publication date, stands in for the incident date.
+    - No ages or full names of the three detainees were published, and their individual roles in the transport are not described.
+    - One account quotes the Chañaral prosecutor as saying 133 packages of marijuana were seized, while the police statement and the other outlets report 140 packages found in the two vehicles.
+    - No plea, trial date or outcome beyond the communicated charges is reported; the case remains within the 85-day investigation period.
 ---
 
 Carabineros detained three Colombian adults in Chañaral for drug trafficking and
-a Chañaral court placed all three in preventive detention. [@3] One detainee had
+a Chañaral court placed all three in preventive detention. [@3,5] One detainee had
 an outstanding arrest warrant from the Antofagasta Guarantee Court for lesiones,
-while the other two had irregular migratory status in the country. [@2,4] The
+while the other two had irregular migratory status in the country. [@2,4,5] The
 Chañaral Guarantee Court granted preventive detention after finding their
 liberty a danger to public safety. [@3] The court set an 85-day investigation
-period during which the three will remain deprived of liberty. [@3]
+period during which the three will remain deprived of liberty. [@3,5]
 
 The case began with checks by the SIP of the 1st Chañaral police station on two
 vehicles, one at a service station and the other on Route 5 Norte, where
-officers found 140 packages containing marijuana. [@2,4] On the prosecution's
+officers found 140 packages containing marijuana. [@2,4,5] On the prosecution's
 instructions, Atacama OS7 specialists analysed mobile phones with UFED
 technology, reviewed security cameras and took statements to link the three to
-the transport. [@2] Officers seized 140 kilos 343 grams of marijuana and 5 grams
-300 milligrams of cocaine hydrochloride. [@2,4] Police counted the substances as
-290,686 doses with an appraised value of 1,503,430,000 pesos. [@1] Officers also
-seized five mobile phones and $107,000 in cash. [@1,4]
+the transport. [@2,5] Officers seized 140 kilos 343 grams of marijuana and 5 grams
+300 milligrams of cocaine hydrochloride. [@2,4,5] Police counted the substances as
+290,686 doses with an appraised value of 1,503,430,000 pesos. [@1,5] Officers also
+seized five mobile phones and $107,000 in cash. [@1,4,5]
 
 Chañaral prosecutor Nicolás Meléndez Chacón said the three moved the drugs in a
 coordinated way in two vehicles and will be investigated for illicit drug
 trafficking as a criminal group. [@3] The prosecution brought the three before
-the Chañaral Guarantee Court, where it communicated charges against them. [@2]
+the Chañaral Guarantee Court, where it communicated charges against them. [@2,5]
