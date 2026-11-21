@@ -122,6 +122,11 @@ sources:
     publisher: Polizei.news
     date: 2026-11-20
     language: de
+  - title: Instagram post by rbb24 on the BER cannabis seizures
+    url: https://www.instagram.com/p/Df9uQ1gCGJi/
+    publisher: rbb24
+    date: 2026-11-20
+    language: de
 media:
   - kind: photo
     url: https://www.berliner-zeitung.de/article/cannabis-am-ber-zoll-findet-40-kilogramm-in-zwei-gepaeckstuecken-10614031
@@ -142,17 +147,17 @@ media:
 
 Two travellers are facing criminal proceedings on suspicion of smuggling in
 connection with the Consumer Cannabis Act after two cannabis seizures at Berlin
-Brandenburg Airport. [@1,4,9,12,17] The Zollfahndungsamt Berlin-Brandenburg has taken over
+Brandenburg Airport. [@1,4,9,12,17,18] The Zollfahndungsamt Berlin-Brandenburg has taken over
 the further investigations. [@1,4,12,17]
 
 On 2 November customs officers at the airport found 40 kilograms of cannabis
-spread over two pieces of luggage. [@2,3,4,5,6,7,8,9,10,12,13,17] The man had arrived on a flight from Zurich, a customs spokeswoman said. [@3,5,6,7,8,9,11,13,14,15,16] Officers of the Hauptzollamt Potsdam had
+spread over two pieces of luggage. [@2,3,4,5,6,7,8,9,10,12,13,17,18] The man had arrived on a flight from Zurich, a customs spokeswoman said. [@3,5,6,7,8,9,11,13,14,15,16,18] Officers of the Hauptzollamt Potsdam had
 already spotted irregularities during the X-ray screening. [@2,4,9,10,12,15,16,17] When the luggage
 was opened officers found only vacuum-sealed bags with a green-brown substance.
 [@1,3,4,5,7,9,10,13,14,15,16,17] A drug test subsequently carried out for cannabis was positive. [@1,3,4,5,6,7,8,9,10,13,14,15,16,17]
 
 In mid-October customs sniffer dog Inge detected 16 kilograms of cannabis in the
-luggage of a Malaysian man who had arrived via Madrid. [@1,3,4,9,12,13,15,16,17] The traveller said
+luggage of a Malaysian man who had arrived via Madrid. [@1,3,4,9,12,13,15,16,17,18] The traveller said
 the suitcases belonged to a friend. [@1,3,4,5,6,7,8,9,11,13,15,16,17] Officers seized a total of eight
 double-vacuumed plastic bags containing cannabis. [@1,4,12,17] In total the two cases
 account for 56 kilograms of cannabis seized from travellers' luggage at the
