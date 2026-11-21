@@ -53,6 +53,11 @@ sources:
     publisher: RMP Online News
     date: 2026-11-20
     language: bn
+  - title: রাজশাহী নগরীতে মা'দ'ক কারবারী সহ বিভিন্ন অ'প'রা'ধে গ্রে'ফ'তা'র ৩২
+    url: https://banglaralonews.com/5554268/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%A8%E0%A6%97%E0%A6%B0%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE'%E0%A6%A6'%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%B8%E0%A6%B8-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%85'%E0%A6%AA'%E0%A6%B0%E0%A6%BE'%E0%A6%A7%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87'%E0%A6%AB'%E0%A6%A4%E0%A6%BE'%E0%A6%B0-%E0%A7%A9%E0%A7%A8
+    publisher: BanglarAloNews
+    date: 2026-11-20
+    language: bn
 open_questions:
   - No laboratory confirmation of the ganja or estimate of its value was published.
   - The 2,000 taka was described as cash from drug sales generally and cannot be attributed specifically to the cannabis.
@@ -64,7 +69,7 @@ open_questions:
 
 Rajshahi Metropolitan Police's special team helped Rajpara thana police arrest
 two drug dealers, Mohammad Bishal, 20, and Mohammad Shakib, 21, in an operation
-at Lakshmipur ID Baghanpara on the night of 19 November 2026. [@1]
+at Lakshmipur ID Baghanpara on the night of 19 November 2026. [@1,2]
 
 From Bishal, officers recovered 2 grams of ganja, the local term for cannabis,
 that police said was kept for sale, along with 32 tapentadol tablets. [@1] They
@@ -76,4 +81,3 @@ Police said Bishal already had one drug case at Rajpara thana, while Shakib had
 two penal code cases at Boalia and Rajpara thanas and one drug case at Rajpara.
 [@1] Cases were filed against both men under the Narcotics Control Act at
 Rajpara thana, and they were sent to jail through the courts. [@1]
-

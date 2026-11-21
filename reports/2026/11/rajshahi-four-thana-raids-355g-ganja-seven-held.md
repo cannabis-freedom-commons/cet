@@ -58,23 +58,21 @@ sources:
     publisher: RMP Online News
     date: 2026-11-20
     language: bn
-open_questions:
-  - The Boalia thana arrest was made on the night of 18 November 2026 and the other three operations on 19 November, which is used as the incident date.
-  - The 355 grams of ganja was the only cannabis recovered in the seven arrests; the 107 tapentadol tablets and five yaba tablets are excluded from the cannabis figures.
-  - No estimate of the ganja's value was published.
-  - No laboratory confirmation of the ganja was described by either account.
-  - No plea, trial date or verdict was reported beyond the seven being sent to jail through the courts.
-  - The newspaper report and the police statement carry the same Rajshahi Metropolitan Police press release and are not independent accounts.
+  - title: রাজশাহী নগরীতে মা'দ'ক কারবারী সহ বিভিন্ন অ'প'রা'ধে গ্রে'ফ'তা'র ৩২
+    url: https://banglaralonews.com/5554268/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%A8%E0%A6%97%E0%A6%B0%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE'%E0%A6%A6'%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%B8%E0%A6%B8-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8-%E0%A6%85'%E0%A6%AA'%E0%A6%B0%E0%A6%BE'%E0%A6%A7%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87'%E0%A6%AB'%E0%A6%A4%E0%A6%BE'%E0%A6%B0-%E0%A7%A9%E0%A7%A8
+    publisher: BanglarAloNews
+    date: 2026-11-20
+    language: bn
 ---
 
 Rajshahi Metropolitan Police arrested seven people, including a woman, in
-separate anti-drug operations, the force said in its own statement. [@2]
+separate anti-drug operations, the force said in its own statement. [@2,3]
 Shahmakhdum, Chandrima and Rajpara thana police carried out the operations on
 Thursday 19 November 2026, and Boalia thana police on the night before,
 according to a statement issued from RMP headquarters on 20 November. [@1]
 Rajpara thana police arrested four men at Dingadoba Mozammel's Mor at about 6:45
 pm on 19 November. [@1] Officers seized 355 grams of ganja, two yaba tablets and
-two tapentadol tablets from the four. [@1] Police described one of the four,
+two tapentadol tablets from the four. [@1,3] Police described one of the four,
 Ismail Hossain alias Sabuj, 32, as a professional drug trader with four
 narcotics cases and one penal code case at Rajpara thana. [@1]
 
@@ -87,5 +85,4 @@ Shiroil at about 11:30 pm on 18 November and seized three yaba tablets from him.
 [@1]
 
 Separate cases were filed under the Narcotics Control Act at the relevant thanas
-and all seven were sent to jail through the courts. [@1]
-
+and all seven were sent to jail through the courts. [@1,3]
