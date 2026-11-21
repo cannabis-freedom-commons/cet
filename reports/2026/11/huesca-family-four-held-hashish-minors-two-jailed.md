@@ -67,6 +67,11 @@ media:
     media_url: https://estaticos-cdn.prensaiberica.es/clip/fe9c0392-f9e9-4805-a426-50b104442dc8_16-9-discover-aspect-ratio_default_1533373.jpg
     publisher: El Periódico de Aragón
     caption: Image published with the El Periódico de Aragón report on the dismantled hashish sales point in Perpetuo Socorro, captioned as the hashish camouflaged as small cheeses in the fridge.
+  - kind: photo
+    url: https://www.aragondigital.es/articulo/huesca/joven-padrastro-entre-detenidos-redada-antidroga-huesca-vendian-menores-cerca-colegios/202611191353271023027.html
+    media_url: https://www.aragondigital.es/asset/thumbnail,1280,720,center,center/media/aragondigital/images/2026/11/19/2026111913525733112.jpg
+    publisher: Aragón Digital
+    caption: 'Policía Nacional handout of the roughly 1,500 grams of hashish, 8.33 grams of cocaine, retail-ready doses and preparation tools seized in the Huesca Operation Chaplin searches. Photo: Policía Nacional'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d38e8aff8511f29c8c12afc4a68cf5fe
@@ -102,36 +107,41 @@ sources:
     publisher: El Periódico de Aragón
     date: 2026-11-19
     language: es
+  - title: 'Un joven y su padrastro, entre los detenidos en la redada antidroga de Huesca: vendían a menores cerca de colegios'
+    url: https://www.aragondigital.es/articulo/huesca/joven-padrastro-entre-detenidos-redada-antidroga-huesca-vendian-menores-cerca-colegios/202611191353271023027.html
+    publisher: Aragón Digital
+    date: 2026-11-19
+    language: es
 open_questions:
     - 'Accounts differ on the date: the operation and arrests are placed on Wednesday 18 November 2026, one day before the 19 November incident date used here, when the details were announced.'
 ---
 
 National Police arrested four people, two men and two women from the same
 family, for alleged continued drug trafficking in Huesca's Perpetuo Socorro
-neighbourhood, where they ran a hashish sales point that supplied minors. [@1,3,4,5,6]
+neighbourhood, where they ran a hashish sales point that supplied minors. [@1,3,4,5,6,7]
 The main suspects, a young man and his stepfather with police records for drug
 trafficking, had made selling their regular livelihood and were ordered into
-prison. [@1,5] The other two detainees, the mother and the young man's partner,
-knew of the criminal activity and were released. [@1,6] The two men entered prison
-while the judge released the two women. [@2,4,6]
+prison. [@1,5,7] The other two detainees, the mother and the young man's partner,
+knew of the criminal activity and were released. [@1,6,7] The two men entered prison
+while the judge released the two women. [@2,4,6,7]
 
 Officers searched two homes used by the suspects and seized about 1,500 grams of
 hashish, 8.33 grams of cocaine and about 2,000 euros in cash, plus retail-ready
-doses, precision scales and preparation materials. [@1,3,4,6] The hashish was packed
+doses, precision scales and preparation materials. [@1,3,4,6,7] The hashish was packed
 in individual round pieces with labels resembling small commercial cheeses,
-hidden in a refrigerator's vegetable drawer among food. [@1,3,4,6] In the homes
+hidden in a refrigerator's vegetable drawer among food. [@1,3,4,6,7] In the homes
 officers also found a machete, an extendable baton, a personal defence spray and
-a shotgun. [@1,3,4,6] Police established the shotgun had been stolen from a home and
+a shotgun. [@1,3,4,6,7] Police established the shotgun had been stolen from a home and
 had reached the suspects as payment for drugs, which they sometimes accepted
-instead of cash. [@2,6] Investigators carried out two home searches in the
-properties from which the suspects operated. [@1] Forty officers took part in
-Operation Chaplin, the result of an investigation lasting more than a year. [@2,4]
+instead of cash. [@2,6,7] Investigators carried out two home searches in the
+properties from which the suspects operated. [@1,7] Forty officers took part in
+Operation Chaplin, the result of an investigation lasting more than a year. [@2,4,7]
 
 The year-long investigation documented sales to adult and underage buyers,
-including transactions near schools and venues frequented by young people. [@1,3,4,6]
+including transactions near schools and venues frequented by young people. [@1,3,4,6,7]
 The younger suspect centralised orders through instant-messaging apps, agreeing
 quantities and prices, while his stepfather made the handovers to limit street
-exposure. [@1,5] Officers also saw some transaction participants carrying
-concealed bladed weapons, increasing the risk. [@1] The four face alleged drug
+exposure. [@1,5,7] Officers also saw some transaction participants carrying
+concealed bladed weapons, increasing the risk. [@1,7] The four face alleged drug
 trafficking, unlawful weapons possession and receiving stolen goods, and
-Operation Chaplin ended with the two main detainees jailed. [@1,4,6]
+Operation Chaplin ended with the two main detainees jailed. [@1,4,6,7]
