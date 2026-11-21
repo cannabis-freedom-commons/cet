@@ -46,25 +46,30 @@ sources:
     url: https://our.today/major-narcotics-and-contraband-seizure-in-hellshire
     publisher: Our Today
     date: 2026-03-24
+  - title: Police seize 70 bags of compressed ganja in Hellshire
+    url: https://www.jamaicaobserver.com/2026/03/23/police-seize-70-bags-compressed-ganja-hellshire/
+    publisher: Jamaica Observer
+    date: 2026-03-23
 open_questions:
-  - No precise total weight was published, only a police estimate of 30 to 50 pounds per bag, so no kilogram total is recorded.
-  - No suspects were identified and no charges or court outcome were reported.
+    - No precise total weight was published, only a police estimate of 30 to 50 pounds per bag, so no kilogram total is recorded.
+    - One account gives the seized bags' weight as between 30 and 50 pounds without saying whether that is per bag or in total.
+    - No street value was published for the ganja.
+    - No suspects were identified and no charges or court outcome were reported.
 ---
 
 Lawmen assigned to the Marine Division seized narcotics and associated
 contraband during an operation conducted in the coastal community of Hellshire
-on Monday, March 23, 2026. [@3] A targeted search in the community found
-approximately 70 knitted bags containing compressed ganja. [@1] Police estimated
+on Monday, March 23, 2026. [@3,4] A targeted search in the community found
+approximately 70 knitted bags containing compressed ganja. [@1,4] Police estimated
 each of the 70 bags to weigh between 30 and 50 pounds. [@2]
 
 The team also seized approximately 800 litres of mixed gasoline, along with
-several bags containing clothing and food items. [@1] No arrests were made in
-connection with the seizure. [@1] Police said investigations were ongoing, with
+several bags containing clothing and food items. [@1,4] No arrests were made in
+connection with the seizure. [@1,4] Police said investigations were ongoing, with
 intensified efforts to identify and apprehend those responsible for the
 contraband. [@2]
 
 Police said the items were believed to be linked to organised illegal activities
-being conducted along the coastline. [@1] Police described the seizure as a
+being conducted along the coastline. [@1,4] Police described the seizure as a
 major disruption to illegal trafficking activities, reinforcing their commitment
 to securing Jamaica's coastal borders. [@3]
-
