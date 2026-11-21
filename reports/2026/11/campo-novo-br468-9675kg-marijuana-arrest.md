@@ -78,15 +78,20 @@ sources:
     publisher: Rádio Alto Uruguai
     date: 2026-11-19
     language: pt
+  - title: Dois homens são presos e 96,75 kg de maconha apreendidos na BR-468, em Campo Novo
+    url: https://trespassosnews.com.br/policia/dois-homens-sao-presos-e-9675-kg-de-maconha-apreendidos-na-br-468-em-campo-novo/
+    publisher: Três Passos News
+    date: 2026-11-19
+    language: pt
 ---
 
 In the early hours of 19 November 2026, the Campo Novo Brigada Militar and the
 Civil Police arrested two men for drug trafficking on BR-468 during Plano Tático
-Operacional actions. [@1,2,3,4] The two men were arrested in flagrante and, after the
-arrest report was drawn up, were taken to the prison system. [@1,2,3,4]
+Operacional actions. [@1,2,3,4,5] The two men were arrested in flagrante and, after the
+arrest report was drawn up, were taken to the prison system. [@1,2,3,4,5]
 
-Officers seized 158 marijuana tablets totalling 96.75 kilograms. [@1,2,3,4] Officers
-also seized two vehicles, two smartphones and products of foreign origin. [@1,2,4]
+Officers seized 158 marijuana tablets totalling 96.75 kilograms. [@1,2,3,4,5] Officers
+also seized two vehicles, two smartphones and products of foreign origin. [@1,2,4,5]
 
-Military police officers of the 7th BPM handled the incident. [@1,4] The account
+Military police officers of the 7th BPM handled the incident. [@1,4,5] The account
 is credited to the 7th BPM social communication office. [@1,2]
