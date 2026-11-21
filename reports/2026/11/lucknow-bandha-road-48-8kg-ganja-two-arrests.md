@@ -47,6 +47,11 @@ media:
     media_url: https://media.assettype.com/navbharatlive%2F2026-11-20%2Fczt1lyqu%2Fganja-lakhnu.jpg?w=768&auto=format%2Ccompress&fit=max
     publisher: Navbharat Live
     caption: 'Cannabis seized in the Lucknow operation, in the photo published with the Navbharat Live report. Photo: Navbharat Live, via social media'
+  - kind: photo
+    url: https://vocaltv.in/crime/up-crime-sumggler-arrested-php/cid19555594.htm
+    media_url: https://vocaltv.in/static/c1e/client/111914/migrated/3cd1d9d072babe61504c7186a301913e.jpg
+    publisher: Vocal TV
+    caption: Two detained men standing with police officers beside a red car and green sacks of seized ganja in Lucknow.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 0c0138f2c195db5c33ef27d58eb0e655
@@ -76,24 +81,22 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-20
     language: hi
-open_questions:
-    - 'The value of the haul is disputed: Hindi-language reports put it at about 25 lakh rupees, while the Times of India gives 35 lakh; no value is recorded in the figures.'
-    - No charge-sheet, plea or court outcome was reported; the case was at the investigation stage.
-    - Police did not say where in Odisha the cannabis was procured or who the intended buyers were.
-    - The reports describe the material as ganja but do not say whether it was laboratory-confirmed.
-    - Dainik Bhaskar put the haul at about 50 kg and said official confirmation of the quantity was awaited, while the police figure used here is 48.80 kg.
-    - Dainik Bhaskar describes a joint Aliganj police and Crime Branch operation directed by the Aliganj ACP and station house officer, while the other accounts attribute the arrests to the Crime Branch.
+  - title: ओडिशा से गांजा लाकर लखनऊ में सप्लाई करने वाले दो तस्कर गिरफ्तार
+    url: https://vocaltv.in/crime/up-crime-sumggler-arrested-php/cid19555594.htm
+    publisher: Vocal TV
+    date: 2026-11-20
+    language: hi
 ---
 
 Police arrested two men on 19 November 2026 near the municipal corporation
 office on Bandha Road. [@3] The arrests were made by the Crime Branch of Lucknow
-Police. [@2] The operation was directed by the Aliganj ACP and the Aliganj station house officer, with the Lucknow crime branch in-charge and the Hazratganj station house officer also involved. [@5] Officers seized 48.80 kg of ganja from the men. [@1]
+Police. [@2,6] The operation was directed by the Aliganj ACP and the Aliganj station house officer, with the Lucknow crime branch in-charge and the Hazratganj station house officer also involved. [@5] Officers seized 48.80 kg of ganja from the men. [@1,6]
 
-The cannabis was packed in 43 packets. [@1] The two men were aged 49 and 45,
-police said. [@2] Police said the men brought ganja from Odisha for supply in
-Lucknow and adjoining districts. [@2] Officers also found two mobile phones and
+The cannabis was packed in 43 packets. [@1,6] The two men were aged 49 and 45,
+police said. [@2] Police identified the two as Prakash Dubey, a Prayagraj resident, and Jay Anand Mishra, who lives in the Awadh Vihar Yojana in Lucknow. [@6] Police said the men brought ganja from Odisha for supply in
+Lucknow and adjoining districts. [@2,6] Officers also found two mobile phones and
 540 rupees in cash. [@3] Police seized the red car used to transport the
-consignment. [@2] Police recovered the ganja from a Brezza car and took the vehicle into custody. [@4]
+consignment. [@2] The car they were using carried a Jharkhand registration number. [@6] Police recovered the ganja from a Brezza car and took the vehicle into custody. [@4]
 
 An FIR was registered at Aliganj police station under Case No. 227/2026,
 invoking Sections 8 and 20 of the NDPS Act. [@2] The arrests are part of
