@@ -47,6 +47,11 @@ sources:
     publisher: Polizeidirektion Kaiserslautern / Presseportal
     date: 2026-11-20
     language: de
+  - title: 'Polizei-News Kaiserslautern, 20.11.26: Personenkontrollen - Cannabis sichergestellt'
+    url: https://www.news.de/lokales/860205631/blaulicht-news-polizei-einsatz-kaiserslautern-20-11-26-verstoss-gegen-das-betaeubungsmittelgesetz-heute/1/
+    publisher: News.de
+    date: 2026-11-20
+    language: de
 open_questions:
   - The exact calendar date is inferred from the phrase 'Thursday midday' in a statement published on Friday 20 November 2026; 19 November 2026 is used.
   - No separate weight was given for the joint, so the 0.012 kg figure counts only the cannabis flowers.
@@ -56,19 +61,18 @@ open_questions:
 ---
 
 Police stopped a 24-year-old man during a foot patrol in the Stadtmitte, the
-central part of Kaiserslautern, at midday on Thursday 19 November 2026. [@1] The
+central part of Kaiserslautern, at midday on Thursday 19 November 2026. [@1,3] The
 officers stopped him because he was suspected of having drugs that had been
 obtained illegally. [@2] Right at the beginning of the check the man told the
 officers that he was carrying narcotics, and he handed them over to the patrol
-of his own accord. [@1]
+of his own accord. [@1,3]
 
 The material handed over was about 12 grams of cannabis flowers, known in German
-as Cannabisblüten, along with one joint. [@2] The 24-year-old told the officers
+as Cannabisblüten, along with one joint. [@2,3] The 24-year-old told the officers
 that he had bought the drugs only a short time before the stop from a person he
-did not know. [@1]
+did not know. [@1,3]
 
 Polizeidirektion Kaiserslautern, the local police directorate that released the
 account, said the suspected illegal purchase meant there was a suspicion of a
-breach of the Konsumcannabisgesetz, Germany's cannabis act. [@2] The man must
-now answer for the matter under criminal law, police said. [@1]
-
+breach of the Konsumcannabisgesetz, Germany's cannabis act. [@2,3] The man must
+now answer for the matter under criminal law, police said. [@1,3]
