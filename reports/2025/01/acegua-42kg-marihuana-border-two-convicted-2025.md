@@ -74,6 +74,11 @@ media:
     media_url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/styles/documento/public/imagenes/noticias/WhatsApp%20Image%202025-01-30%20at%209.09.42%20AM.jpeg?itok=VYVHZFLL
     publisher: Ministerio del Interior
     caption: 'The seizure site, captioned "Incautación en el lugar". Photo: Ministerio del Interior, Uruguay'
+  - kind: photo
+    url: https://mediospublicos.uy/incautan-mas-de-40-kilos-de-marihuana-en-acegua-en-un-operativo-binacional/
+    media_url: https://mediospublicos.uy/wp-content/uploads/2025/01/Imagen-de-WhatsApp-2025-01-30-a-las-09.29.56_62d16973-1076x670.jpg
+    publisher: Portal Medios Públicos
+    caption: WhatsApp image from the morning after the Aceguá raid, published as the lead photo of the Medios Públicos report; the page gives no caption or credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d9e458e85577d3e1f411ebe999c74a72
@@ -89,6 +94,11 @@ sources:
     publisher: La Voz de Melo
     date: 2025-01-30
     language: es
+  - title: Incautan más de 40 kilos de marihuana en Aceguá en un operativo binacional
+    url: https://mediospublicos.uy/incautan-mas-de-40-kilos-de-marihuana-en-acegua-en-un-operativo-binacional/
+    publisher: Portal Medios Públicos
+    date: 2025-01-30
+    language: es
 open_questions:
   - The sources give no weighed or street value of the drug; the 24,420 pesos is cash seized, not a drug valuation.
   - La Voz de Melo describes the initial find as 3 kilos and then more than 42 kilos, while the Interior Ministry gives 42.067 kilos as the total; the Ministry figure is used.
@@ -99,11 +109,11 @@ open_questions:
 ---
 
 Cerro Largo police seized 42.067 kilos of marijuana buds at the Brazilian border
-in an operation coordinated with Brazil's Civil Police. [@1]
+in an operation coordinated with Brazil's Civil Police. [@1,3]
 
 At 18:00 on 29 January the Cerro Largo police command was told by Brazil's Civil
 Police of a possible drug handover at the Aceguá border and of armed people
-possibly in the area. [@1] The departmental anti-drug brigade and the tactical
+possibly in the area. [@1] Brazilian police from Bagé had been watching a property in Uruguayan territory used to store the drug before it was sent to Brazil. [@3] The departmental anti-drug brigade and the tactical
 reserve group (GRT) set up surveillance and swept the area with drones. [@1]
 Officers found several nylon bags of marijuana buds inside a precarious
 sheet-metal building in open countryside. [@1] La Voz de Melo reported that two
@@ -118,8 +128,7 @@ offences of supplying narcotics, one of them attempted, and gave them two years
 and six months and three years in prison respectively. [@1]
 
 Brazilian officer Cristiano Ritta said the joint work with Uruguay prevented
-more than 80,000 portions of marijuana from reaching Brazil. [@2] La Voz de Melo
+more than 80,000 portions of marijuana from reaching Brazil. [@2,3] La Voz de Melo
 called the seizure the largest ever recorded in that border town. [@2] La Voz de
 Melo also reported that the seized material was sent to Melo and that the
 first-shift prosecutor's office was continuing the investigation. [@2]
-
