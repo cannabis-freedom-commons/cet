@@ -67,6 +67,11 @@ sources:
     publisher: Sangam Today
     date: 2026-11-19
     language: hi
+  - title: अल्मोड़ा में नशा तस्करों पर बड़ी कार्रवाई, 6.48 लाख रुपए के गांजे के साथ 2 गिरफ्तार
+    url: https://uttarakhand.punjabkesari.in/uttrakhand/news/two-smugglers-arrested-in-almora-with-25-920-kg-of-cannabis-2401271
+    publisher: Punjab Kesari
+    date: 2026-11-20
+    language: hi
 open_questions:
   - No laboratory confirmation that the seized material was cannabis was reported.
   - No charge sheet, court appearance or outcome beyond the registered NDPS case was reported.
@@ -74,19 +79,18 @@ open_questions:
 ---
 
 Police and the Special Operations Group arrested two people in Bhatrojkhan after
-seizing 25.92 kg of ganja from a car. [@1] The joint team was checking vehicles
+seizing 25.92 kg of ganja from a car. [@1,4] The joint team was checking vehicles
 on the Kumaria road from the Mohan police assistance post on 18 November 2026
-and stopped a Swift Desire car with registration UK 05 B 8787. [@2] Those
+and stopped a Swift Desire car with registration UK 05 B 8787. [@2] The Wednesday-night vehicle check on the Kumaria road was led by Bhatrojkhan station house officer Avnish Kumar and SOG in-charge Sunil Dhanik. [@4] Those
 arrested were Billa Singh, 34, of Rampur district in Uttar Pradesh, and Ashish
-Singh, 29, of Pauri Garhwal district. [@3]
+Singh, 29, of Pauri Garhwal district. [@3,4]
 
-Officers found the ganja in three bags inside the car. [@3] Police seized the
-car they said had been used for smuggling. [@2] Police put the ganja's estimated
-value at 6 lakh 48 thousand rupees (648,000). [@3]
+Officers found the ganja in three bags inside the car. [@3,4] Police seized the
+car they said had been used for smuggling. [@2,4] Police put the ganja's estimated
+value at 6 lakh 48 thousand rupees (648,000). [@3,4]
 
 A case was registered at Bhatrojkhan police station under sections 8, 20 and 60
-of the NDPS Act. [@3] Police said Billa Singh already had an earlier NDPS case
-at the Bhatrojkhan police station. [@2] Officers were questioning both men to
-trace the ganja smuggling network. [@2] The SSP gave a cash reward to the team
+of the NDPS Act. [@3,4] Police said Billa Singh already had an earlier NDPS case
+at the Bhatrojkhan police station. [@2,4] Officers were questioning both men to
+trace the ganja smuggling network. [@2] Almora senior superintendent of police Chandrashekhar Ghodke announced the case on Thursday and said the district was running an intensive vehicle-checking drive against drug smugglers. [@4] The SSP gave a cash reward to the team
 that made the seizure. [@2]
-
