@@ -65,6 +65,11 @@ sources:
     publisher: Araucanía Noticias
     date: 2026-11-19
     language: es
+  - title: 'Persecución en la Ruta 5 Sur termina con tres detenidos por tráfico de drogas: entre ellas iba una mujer embarazada'
+    url: https://www.adnradio.cl/2026/11/19/persecucion-en-la-ruta-5-sur-termina-con-tres-detenidos-por-trafico-de-drogas-entre-ellas-iba-una-mujer-esta-embarazada/
+    publisher: ADN Radio
+    date: 2026-11-19
+    language: es
 open_questions:
   - No separate date for the pursuit was published; 19 November 2026 is the publication date and stands in for the incident date.
   - The marijuana was described only as processed marijuana, with no laboratory confirmation reported.
@@ -75,20 +80,19 @@ open_questions:
 
 Carabineros of the OS-7 Araucanía unit arrested three adults after a police
 pursuit on Route 5 South at the commune of Perquenco, including a pregnant
-woman. [@1] All three detainees had prior criminal records. [@2] Officers were
+woman. [@1,4] All three detainees had prior criminal records. [@2,4] Officers were
 carrying out random checks near the Púa toll plaza when they tried to inspect
 the car carrying the three, but the driver accelerated and fled toward a rural
-sector. [@1] During the chase, one passenger got out of the moving vehicle and
+sector. [@1,4] During the chase, one passenger got out of the moving vehicle and
 threw several packages before officers intercepted him. [@1] The car continued
 to a rural road, where its occupants abandoned the vehicle and tried to escape
-on foot, but Carabineros caught all three. [@1]
+on foot, but Carabineros caught all three. [@1,4]
 
 The operation seized approximately 6 kilos 700 grams of processed marijuana,
-which police equated to 26,000 doses. [@1] Police valued the seized marijuana at
+which police equated to 26,000 doses. [@1,4] Police valued the seized marijuana at
 26 million pesos in the illicit market. [@1]
 
 The three detainees were placed at the disposal of the Lautaro Guarantee Court
-for their detention-control hearing. [@1] Regional public-security official Luis
+for their detention-control hearing. [@1,4] Regional public-security official Luis
 Calderón said the result showed that preventive controls and permanent police
 presence on the highways were essential to fighting drug trafficking. [@3]
-
