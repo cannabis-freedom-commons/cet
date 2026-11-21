@@ -88,22 +88,26 @@ sources:
     url: https://www.silk1069.com/news/local-news/police-drone-unit-uncovers-cannabis-farm-in-winsford/
     publisher: Cheshire's Silk 106.9
     date: 2026-11-19
+  - title: Winsford cannabis farm is uncovered by police drone
+    url: https://www.chesterstandard.co.uk/news/26745768.winsford-cannabis-farm-uncovered-police-drone/
+    publisher: Chester and District Standard
+    date: 2026-11-19
 ---
 
 A 44-year-old man from Winsford was arrested at the scene of the grow on
 suspicion of cannabis cultivation and possession of class A drugs and held in
-police custody. [@1,2,3,4]
+police custody. [@1,2,3,4,5]
 
 Officers executed a warrant on Caerleon Close shortly before 8 am on Thursday,
-19 November 2026. [@1,2,3,4] The search found a cannabis farm with around 90 plants at
-various growth stages, along with the class A drug psilocybin. [@1,2,3,4]
-Investigators found the property's electricity had been illegally bypassed. [@1,2,3,4]
+19 November 2026. [@1,2,3,4,5] The search found a cannabis farm with around 90 plants at
+various growth stages, along with the class A drug psilocybin. [@1,2,3,4,5]
+Investigators found the property's electricity had been illegally bypassed. [@1,2,3,4,5]
 
 Cheshire Police said it shut down the cannabis farm following a tip-off from its
-Drone Unit. [@1,4] The warrant was issued after the Drone Unit spotted an unusual
-heat source while conducting a training exercise near Cheshire Police HQ. [@1,2,3,4]
+Drone Unit. [@1,4,5] The warrant was issued after the Drone Unit spotted an unusual
+heat source while conducting a training exercise near Cheshire Police HQ. [@1,2,3,4,5]
 Police Constable Josh Smith of Northwich Local Policing Unit said the
 intelligence had allowed officers to remove a large quantity of illegal drugs
-from the streets of Winsford. [@1,4] Police urged residents to report suspected
+from the streets of Winsford. [@1,4,5] Police urged residents to report suspected
 drug activity and listed signs of a cannabis farm such as a strong smell,
 covered windows, an unusual electricity setup and constant activity. [@1,4]
