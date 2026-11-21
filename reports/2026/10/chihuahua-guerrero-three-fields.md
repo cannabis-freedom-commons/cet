@@ -35,10 +35,9 @@ status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [chihuahua, guerrero, sspe]
 open_questions:
-  - The 242 tonnes and 242,000 plants are the state police estimate. No independent count was published.
-  - El Diario says the three fields were destroyed. Net Noticias says the operation also destroyed the two drying areas. This report follows El Diario on what was explicitly destroyed.
-  - More than 14,100 drying plants, estimated at 14.1 tonnes, are not included in the figures above.
-  - No arrests were reported. The pin is the town of Guerrero. The fields were on tracks in hard-to-reach country, not at a named village.
+    - The 242 tonnes and 242,000 plants are the state police estimate. No independent count was published.
+    - More than 14,100 drying plants, estimated at 14.1 tonnes, are not included in the figures above, although the state police said the drying material was destroyed and burned with the fields.
+    - No arrests were reported. The pin is the town of Guerrero. The fields were on tracks in hard-to-reach country, not at a named village.
 sources:
   - title: Localiza y destruye SSPE 3 plantíos de marihuana en municipio de Guerrero
     url: https://www.eldiariodechihuahua.mx/estado/2026/oct/22/localiza-y-destruye-sspe-3-plantios-de-marihuana-en-municipio-de-guerrero-850502.html
@@ -48,6 +47,16 @@ sources:
   - title: Destruyen tres plantíos de marihuana en Guerrero
     url: https://netnoticias.mx/estatal/destruyen-tres-plantios-de-marihuana-en-guerrero
     publisher: Net Noticias
+    date: 2026-10-22
+    language: es
+  - title: Destruyen 3 plantíos de marihuana en Guerrero
+    url: https://diario.mx/estado/2026/oct/22/destruyen-3-plantios-de-marihuana-en-guerrero-1144800.html
+    publisher: El Diario
+    date: 2026-10-22
+    language: es
+  - title: Destruye SSPE tres plantíos de marihuana y zonas de secado en Guerrero.
+    url: https://www.lavozdechihuahua.com.mx/seguridad/destruye-sspe-tres-plantios-de-marihuana-y-zonas-de-secado-en-guerrero
+    publisher: La Voz de Chihuahua
     date: 2026-10-22
     language: es
 media:
@@ -78,15 +87,15 @@ media:
 
 On 21 October 2026, officers of the Chihuahua state public-security
 secretariat, patrolling tracks in hard-to-reach country with drones, found a
-cannabis field in the municipality of Guerrero. [@1,2] They then found two
-more fields and two drying areas. [@1,2]
+cannabis field in the municipality of Guerrero. [@1,2,3] They then found two
+more fields and two drying areas. [@1,2,3]
 
 The state police estimated that the three fields together covered 6.05
 hectares and held about 242,000 plants, which they put at about 242 tonnes.
-[@1,2] On the two drying lines, plants hung on 16 wire frames: more than
-14,100 plants, estimated at 14.1 tonnes. [@1,2] El Diario de Chihuahua says
+[@1,2,4] On the two drying lines, plants hung on 16 wire frames: more than
+14,100 plants, estimated at 14.1 tonnes. [@1,2,3] El Diario de Chihuahua says
 the fields were destroyed where they were found. [@1] Net Noticias says the
 operation ended with the destruction of the three fields and the two drying
-areas, and names Luis Aguirre as the head of the secretariat. [@2]
+areas, and names Luis Aguirre as the head of the secretariat. [@2] The public-security secretariat said the crops and the material secured in the drying areas were destroyed and incinerated where they were found. [@4]
 
 After the first field, the officers widened the search looking for whoever was responsible. [@1] The reports name no one arrested. [@1,2]
