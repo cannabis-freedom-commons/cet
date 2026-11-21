@@ -29,6 +29,16 @@ media:
     media_url: https://www.hoy.com.sv/wp-content/uploads/2026/03/image-283-768x1024.png
     publisher: Hoy.com.sv
     caption: 'Second photo from the same arrest operation after K9 Mimi detected the drugs. Photo: PNC / Gustavo Villatoro via Hoy'
+  - kind: photo
+    url: https://www.infobae.com/el-salvador/2026/03/31/autoridades-salvadorenas-confiscan-drogas-valoradas-en-usd-10788-en-operativo-fronterizo/
+    media_url: https://www.infobae.com/resizer/v2/6OEJOCHIXJAUZNLT3PLT3K4Y3Q.png?auth=1d47cce865f82095a6f1ae792a1bef11921032a87611f58ffb569e6879d303cb&smart=true&width=992&height=782&quality=85
+    publisher: Infobae
+    caption: 'K9 agent Mimi of the PNC canine unit detects drugs during a vehicle check, leading to the capture of Douglas Martínez Jiménez. Photo: Gustavo Villatoro via Infobae'
+  - kind: photo
+    url: https://www.infobae.com/el-salvador/2026/03/31/autoridades-salvadorenas-confiscan-drogas-valoradas-en-usd-10788-en-operativo-fronterizo/
+    media_url: https://www.infobae.com/resizer/v2/NY5HHJC6FBFDPMSTQXG52J2VVE.jpg?auth=5cce7b9f501b711b80a0175e6119246af7405538825867e1d2dc381bc51e7061&smart=true&width=350&height=263&quality=85
+    publisher: Infobae
+    caption: 'The suspect, Douglas Martínez Jiménez, who was to be prosecuted for illicit trafficking. Photo: Gustavo Villatoro via Infobae'
 details:
   activity: [trafficking]
   agency_types: [anti-narcotics]
@@ -74,31 +84,27 @@ sources:
     publisher: Diario El Salvador
     date: 2026-05-25
     language: es
-open_questions:
-  - No separate weight, portion count or laboratory result for the marijuana was published, so no cannabis kilograms can be recorded.
-  - The 10,788-dollar figure covers marijuana and cocaine together, so it is not counted as a cannabis value or seizure weight.
-  - The minister did not say where the seizure occurred; other accounts place it only at border controls, so country-centre coordinates are used.
-  - The accounts give no separate date for the detention beyond 31 March 2026, when the minister announced it.
-  - No charge filing, custody ruling or court outcome was published; the decades in prison are the possible penalty, not an imposed sentence.
-  - La Hora's collage image cannot be confirmed to show this seizure, so it is not listed; only the minister's operation photographs republished by Diario El Salvador and Hoy are listed.
-  - 'Left out, as its quotation was not found in Diario El Mundo: El Salvador''s National Civil Police detained Guatemalan national Douglas Martínez Jiménez in flagrante on the morning of Tuesday 31 March 2026.'
+  - title: Autoridades salvadoreñas confiscan drogas valoradas en USD 10,788 en operativo fronterizo
+    url: https://www.infobae.com/el-salvador/2026/03/31/autoridades-salvadorenas-confiscan-drogas-valoradas-en-usd-10788-en-operativo-fronterizo/
+    publisher: Infobae
+    date: 2026-03-31
+    language: es
 ---
 
 The arrest was made during reinforced controls at the country's border points.
-[@4] Officers found several large portions of marijuana and cocaine inside his
-vehicle. [@2]
+[@4,6] Officers found several large portions of marijuana and cocaine inside his
+vehicle. [@2,6]
 
 The find was credited to the K9 agent Mimi, who detected the concealed drugs.
-[@1] Security Minister Gustavo Villatoro said the coordinated work of the
+[@1,6] Security Minister Gustavo Villatoro said the coordinated work of the
 anti-narcotics units and the dog teams had been key to strengthening controls at
-the borders. [@4] Villatoro put the value of the seized marijuana and cocaine
+the borders. [@4,6] Villatoro put the value of the seized marijuana and cocaine
 together at 10,788 dollars, without separating the marijuana from the cocaine.
-[@4] The minister did not say where in the country the seizure occurred. [@3]
+[@4,6] The minister did not say where in the country the seizure occurred. [@3]
 
-The detainee faces proceedings for illicit drug trafficking in El Salvador. [@2]
+The detainee faces proceedings for illicit drug trafficking in El Salvador. [@2,6]
 That offence can carry a sentence of several decades of imprisonment in El
-Salvador. [@1] A later account of the K9 unit's caseload listed this 31 March
+Salvador. [@1,6] A later account of the K9 unit's caseload listed this 31 March
 capture among its interventions. [@5] Authorities presented the operation as
 part of the Plan Control Territorial strategy to combat drug trafficking and
 prevent illegal substances entering the country. [@4]
-
