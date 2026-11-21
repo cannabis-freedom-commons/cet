@@ -76,12 +76,19 @@ sources:
     publisher: 78.ru
     date: 2026-11-19
     language: ru
+  - title: Забитый марихуаной унитаз в квартире российского города попал на видео
+    url: https://lenta.news/news/2026/11/19/zabityy-marihuanoy-unitaz-v-kvartire-rossiyskogo-goroda-popal-na-video/
+    publisher: Lenta News
+    date: 2026-11-19
+    language: ru
+open_questions:
+    - Lenta News reported the seized quantity as about 600 grams, while the regional MVD's itemised figures of 203 g, 191 g and 126 g sum to 520 grams.
 ---
 
 Police in St. Petersburg and Leningrad Oblast detained a criminal group
 suspected of illegally selling marijuana on Wednesday 18 November 2026. [@1]
 Those detained were a 36-year-old supplier and two sellers aged 34 and 32, both
-previously convicted. [@1,4] The operation was part of a criminal case opened in
+previously convicted. [@1,4,6] The operation was part of a criminal case opened in
 October 2026. [@1]
 
 In the supplier's flat officers found 203 grams of marijuana, electronic scales
@@ -93,7 +100,7 @@ service said. [@1,4] The regional MVD press service put the combined quantity at
 more than 500 grams. [@2,5] Fontanka reported that investigators from the MVD's
 criminal investigation unit and Vasileostrovsky district colleagues made the
 arrests, that the suspects tried to flush the drugs down a toilet and that
-operational footage was shown at police headquarters on 19 November. [@3]
+operational footage was shown at police headquarters on 19 November. [@3] In the operational footage the three men confessed to storing and selling marijuana, with bushes of plants and a toilet clogged with grass shown. [@6]
 Fontanka reported a greenhouse at the second address used by the supplier. [@3]
 
 KP.RU reported that cases for attempted sale were opened against two of the
