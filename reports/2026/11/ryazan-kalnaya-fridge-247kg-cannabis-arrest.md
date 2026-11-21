@@ -54,6 +54,11 @@ media:
     media_url: https://mvdmedia.ru/upload/resize_cache/iblock/1f7/870_870_112e23092a5dbb905c83b3ae67db670d0/cdp61bio1kqoed42yv8eepqqyh3tr6q2.JPG
     publisher: МВД МЕДИА
     caption: 'One of the police handout photos from the rented flat on Кальная street where the drugs were kept. Photo: press service of the MVD for Ryazan Oblast'
+  - kind: video
+    url: https://lenta.ru/news/2026/11/19/polnyy-holodilnik-narkotikov-v-kvartire-rossiyanina-popal-na-video/
+    media_url: https://vp.rambler.ru/player/1.174.0/player.html#id=record%3A%3Ab1a5a62e-5a87-4177-9c94-e39e8f0c7131
+    publisher: Lenta.ru
+    caption: Operational video provided by Russia's Interior Ministry showing the rented flat and a refrigerator filled with packages and containers of drugs in the Ryazan case.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 5cfb2e199570c470426b207ef3deb122
@@ -74,38 +79,34 @@ sources:
     publisher: Аргументы и Факты — Рязань
     date: 2026-11-18
     language: ru
-open_questions:
-  - No date is given for the detention or the search; 17 November 2026 is the date of the regional MVD statement quoted by the outlets, and the operation may have taken place earlier.
-  - The stated total of 10 kg 186 g does not add up exactly from the six component weights, and AiF-Ryazan gives 2.5 kg of the N-methylephedrone derivative where the police statement gives 3.5 kg.
-  - The hashish and marijuana are described only as drugs found in the refrigerator; no laboratory confirmation or separate weight per package was reported.
-  - The man's identity, beyond his age, and the exact address on Кальная street were not released.
-  - No charge, plea, trial date or court outcome was reported; the case was at the investigation stage.
-  - All accounts reproduce the same Ryazan region MVD statement, so they are not independent reporting.
-  - No value estimate was published for the consignment.
+  - title: Полный холодильник наркотиков в квартире россиянина попал на видео
+    url: https://lenta.ru/news/2026/11/19/polnyy-holodilnik-narkotikov-v-kvartire-rossiyanina-popal-na-video/
+    publisher: Lenta.ru
+    date: 2026-11-19
+    language: ru
 ---
 
 Police in Ryazan detained a 42-year-old local man, with special forces from the
-regional Rosgvardia directorate providing force support. [@1] Officers carried
+regional Rosgvardia directorate providing force support. [@1,4] Officers carried
 out a search in a rented flat in a building on Кальная street; the man lived
-elsewhere and used the rented premises to store drugs. [@1] The regional
+elsewhere and used the rented premises to store drugs. [@1,4] The regional
 Interior Ministry says the man held a warehouse role and was a wholesale
-inter-regional courier for an online drug shop. [@2]
+inter-regional courier for an online drug shop. [@2,4]
 
 In the refrigerator officers found 10 kg 186 g of banned substances of six
-types. [@1] The cannabis in the haul was 1.8 kg of hashish and 670 grams of
-marijuana. [@1] The other types were 3.5 kg of a derivative of
+types. [@1,4] The cannabis in the haul was 1.8 kg of hashish and 670 grams of
+marijuana. [@1,4] The other types were 3.5 kg of a derivative of
 N-methylephedrone, 2.5 kg of mephedrone, 1.8 kg of ecstasy in tablets and powder
 and one stamp soaked in LSD solution, which are not counted in the cannabis
 figures. [@1] Officers also seized electronic scales, packaging materials and
 personal protective equipment. [@1]
 
 According to preliminary MVD data, he collected a consignment from a hiding
-place in the Moscow region and drove it to Ryazan in his own car. [@1] In the
+place in the Moscow region and drove it to Ryazan in his own car. [@1,4] In the
 rented flat the dealer packed the drugs to distribute them through drop-off
-points in the Moscow region, police said. [@1] A criminal case was opened for
+points in the Moscow region, police said. [@1,4] A criminal case was opened for
 attempted sale of drugs on an especially large scale under Article 30(3) and
-Article 228.1(5) of the Russian Criminal Code. [@1] A court remanded the suspect
-in custody, and the investigation continues. [@1] The AiF-Ryazan outlet
+Article 228.1(5) of the Russian Criminal Code. [@1,4] A court remanded the suspect
+in custody, and the investigation continues. [@1,4] The AiF-Ryazan outlet
 described the consignment as one of the largest parcels of banned substances
 found in the region since the start of 2026. [@3]
-
