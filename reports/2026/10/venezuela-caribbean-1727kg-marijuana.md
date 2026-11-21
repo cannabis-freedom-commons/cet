@@ -84,24 +84,33 @@ sources:
     publisher: La iguana TV
     date: 2026-10-16
     language: es
+  - title: 'Venezuela-Francia: Operativo conjunto incauta cerca de 3 mil kilos de droga en Mar Caribe - DiarioVea'
+    url: https://diariovea.com.ve/venezuela-y-francia-incautan-cerca-de-3-mil-kilos-de-droga-en-operativo-conjunto-en-el-mar-caribe/
+    publisher: DiarioVea
+    date: 2026-10-16
+    language: es
+  - title: Incautan 2.900 kilogramos de droga en el Mar Caribe
+    url: https://mippci.gob.ve/incautan-casi-3-toneladas-de-droga-en-el-mar-caribe
+    publisher: Ministerio del Poder Popular para Relaciones Interiores, Justicia y Paz (MIPPCI)
+    date: 2026-10-16
+    language: es
 open_questions:
     - The four people arrested are not named, and no exact position at sea is given.
-    - El Nacional’s picture is labelled an archive image; the Correo del Caroní pier photo of the mixed load is used instead.
-    - Radio Nacional de Venezuela led with a ministry comunicado graphic, not a photograph of the seizure.
+    - The marijuana weight comes from the interior ministry statement; the video account gives only the rounded 2.9 tonnes of cocaine and marijuana together.
     - The same seizure included 1,173.50 kg of cocaine, which is outside this report’s cannabis weight.
-    - El Universal's Facebook video gives only the rounded 2.9 tonnes of cocaine and marijuana together and does not separate the marijuana weight, which comes from the interior ministry statement as reported by Prensa Latina.
-    - The video does not say where in the Caribbean the boat was stopped or name the four detained people.
-    - The ministry's account describes French involvement as an exchange of intelligence, while French accounts say French forces stopped the Venezuelan vessel and handed it over.
+    - The ministry’s account describes the French role as an exchange of intelligence with the French navy, while French accounts say French forces stopped the Venezuelan vessel.
+    - The interior ministry’s own page rounds the load to 1,173 kg of cocaine and 1,727 kg of marijuana, while the fuller figures are 1,173.50 kg and 1,727.40 kg.
+    - No charge, detention measure or court outcome has been reported for the four detainees.
 ---
 
 Venezuela’s Ministry of Interior, Justice and Peace said four people were arrested in a maritime
-interdiction in the Caribbean. [@1,2,5,6,8] The Bolivarian National Guard’s special anti-drug unit UEA-45
-La Guaira, coastguard units of the Bolivarian Navy and the French navy took part. [@2,5,8] Radio
-Nacional de Venezuela published the ministry’s account on 16 October 2026. [@1]
+interdiction in the Caribbean. [@1,2,5,6,8,9] The Bolivarian National Guard’s special anti-drug unit UEA-45
+La Guaira, coastguard units of the Bolivarian Navy and the French navy took part. [@2,5,8,10] Radio
+Nacional de Venezuela published the ministry’s account on 16 October 2026. [@1] The interior ministry released the statement on its Instagram account on the night of Friday 16 October 2026. [@9]
 
 Officers seized 166 bales holding 4,152 cakes of drugs: 1,173.50 kilograms of cocaine and 1,727.40
-kilograms of marijuana, 2,900.90 kilograms in all. [@1,2,5,8] The people arrested and the drugs were
-placed at the disposal of the public prosecutor. [@1,2,5,8] The government thanked France for the naval
+kilograms of marijuana, 2,900.90 kilograms in all. [@1,2,5,8,9] The people arrested and the drugs were
+placed at the disposal of the public prosecutor. [@1,2,5,8,9] The government thanked France for the naval
 help. [@2,5,8] The reports do not name the four people or say where in the Caribbean the boat was
 stopped. [@1,2]
 
