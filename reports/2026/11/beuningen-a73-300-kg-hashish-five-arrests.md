@@ -72,7 +72,7 @@ open_questions:
 ---
 
 Dutch police arrested five men on suspicion of money laundering and drug
-possession. [@1] The five arrests were made on Thursday 19 November 2026. [@2]
+possession. [@1,2] The five arrests were made on Thursday 19 November 2026. [@2]
 The operation began around 20:00 when an automatic number-plate recognition
 alert flagged a vehicle, and after the driver ignored a stop sign a short chase
 ended on the A73 at Beuningen where the driver and passenger were arrested. [@2]
@@ -86,5 +86,4 @@ of them holding over 300 kilograms of hashish, the police said. [@2] According
 to NOS, the lorry was taken under police escort to the station in Nijmegen,
 where officers opened parts of the roof and found a concealed space behind the
 cab from which dozens of bags were removed. [@3] The police said all five
-suspects remained in custody and were being questioned. [@2]
-
+suspects remained in custody and were being questioned. [@2,4]
