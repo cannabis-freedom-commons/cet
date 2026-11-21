@@ -23,6 +23,11 @@ media:
     media_url: https://th-i.thgim.com/public/incoming/3andll/article71344970.ece/alternates/LANDSCAPE_1200/charas%20network%20seizure%20.jpeg
     publisher: The Hindu
     caption: 'Police display of the seized 106.250 kg of high-quality charas. Photo: Special Arrangement'
+  - kind: photo
+    url: https://www.newindianexpress.com/cities/delhi/2026/Jul/04/3-nepalis-held-for-selling-hash-in-delhi-85-kg-contraband-costs-over-rs-9-crore
+    media_url: https://cf-images.assettype.com/newindianexpress%2F2026-07-03%2F3ckld30a%2FNepalis.jpg?w=480&auto=format%2Ccompress&fit=max
+    publisher: The New Indian Express
+    caption: 'The three arrested Nepalese nationals in police custody after the Kotla Mubarakpur charas raid. Photo: The New Indian Express'
 details:
   agency_types: [police]
   case_stage: investigation
@@ -60,12 +65,24 @@ sources:
     url: https://www.newindianexpress.com/cities/delhi/2026/Aug/15/delhi-police-bust-indo-nepal-charas-syndicate-seize-106-kg-contraband-worth-rs-109-crore
     publisher: The New Indian Express
     date: 2026-08-15
+  - title: 3 Nepalis held for selling hash in Delhi, 8.5 kg contraband costs over Rs 9 crore
+    url: https://www.newindianexpress.com/cities/delhi/2026/Jul/04/3-nepalis-held-for-selling-hash-in-delhi-85-kg-contraband-costs-over-rs-9-crore
+    publisher: The New Indian Express
+    date: 2026-07-04
+  - title: Delhi Police recovers high-quality Charas worth ₹9 Crore; Arrest 3 Nepalese nationals
+    url: https://newsonair.gov.in/delhi-police-recovers-high-quality-charas-worth-%E2%82%B99-crore-arrest-3-nepalese-nationals/
+    publisher: News On AIR
+    date: 2026-07-03
+open_questions:
+  - July accounts gave the Kotla Mubarakpur seizure as about 8.59 kg, or over eight kilograms, while later police accounts gave 8.598 kg.
+  - July accounts said the accused took orders on WhatsApp; later accounts said orders were coordinated through social media including Telegram.
+  - A July account described Jyoti Pun Magar as the principal supplier and the two men as retail suppliers; later accounts described the June trio as street-level suppliers.
 ---
 
 Delhi Police's South District police dismantled part of an international charas
 network, arresting four Nepalese nationals. [@1,3] The operation began with a June
 29 recovery of 8.598 kg at a residence in Kotla Mubarakpur and the arrests of
-Bharat Thapa, 32, Govind Budha, 32, and Jyoti Pun Magar, 50. [@1,3] Police
+Bharat Thapa, 32, Govind Budha, 32, and Jyoti Pun Magar, 50. [@1,3,5] Police valued that June recovery at approximately Rs 9 crore in the international market. [@5] Police
 registered an FIR under Sections 20, 25 and 29 of the NDPS Act at Kotla
 Mubarakpur police station over the June seizure. [@2,3] Interrogation, technical
 surveillance, financial analysis and local intelligence then led police to
@@ -88,7 +105,7 @@ through social media including Telegram, payments in cash and digital banking,
 and digital messages deleted after transactions. [@1] Police said the drugs were
 moved by autorickshaws and bike taxis to distributors and customers, targeting
 areas with many young people and demand centres such as Wazirabad and Majnu Ka
-Tila, including outlets around pubs, bars and hotels. [@1] South District DCP
+Tila, including outlets around pubs, bars and hotels. [@1,6] South District DCP
 Anant Mittal said the syndicate had operated in Delhi for four to five years,
 and that Roshni had left for Nepal after the June arrests before returning
 believing the situation had settled and resuming operations. [@1] Police said
