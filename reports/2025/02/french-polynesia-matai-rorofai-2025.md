@@ -35,6 +35,11 @@ sources:
     publisher: Outre-mer La 1ère (Nouvelle-Calédonie La 1ère)
     date: 2025-02-19
     language: fr
+  - title: 'Opération antidrogue : 7 400 pieds de cannabis détruits et 45 arrestations en Polynésie française'
+    url: https://www.ouest-france.fr/societe/drogue/operation-antidrogue-7-400-pieds-de-cannabis-detruits-et-45-arrestations-en-polynesie-francaise-4842b394-edd0-11ef-ab5f-86b228b95af6
+    publisher: Ouest-France
+    date: 2025-02-18
+    language: fr
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/nouvellecaledonie/polynesie-plus-de-7-400-pieds-de-cannabis-saisis-lors-d-une-operation-anti-drogue-1562779.html
@@ -49,4 +54,4 @@ open_questions:
 
 A two-week operation across the territory ended with 7,419 cannabis plants destroyed, 17.2 kg of herb, 31.57 g of ice and 80 ecstasy tablets seized, and 15.7 million XFP in assets. Police implicated 395 people and held 45 in custody. It was an enforcement operation, not a change in the law. [@1]
 
-The operation was named Mata'i Rorofa'i and followed action taken in 2024 under the high commissioner and the public prosecutor. [@2] The gendarmerie said more than 23,000 cannabis plants were uprooted in French Polynesia in 2024, a third of the national seizures. [@2] The operation rested on five strands: disrupting dealing points, dismantling trafficking networks, controlling drug flows, destroying cannabis plantations and close surveillance of known sales sites. [@1] Gendarmerie patrols were concentrated in zones including Mahina and Arue, and further operations were planned later in the year. [@1] Tahiti Presse put the seized criminal assets at 15,719,779 Pacific francs, about 131,811 euros. [@1]
+The operation was named Mata'i Rorofa'i and followed action taken in 2024 under the high commissioner and the public prosecutor. [@2,3] The operation ran from 1 to 16 February 2025, and the gendarmerie gave the results to AFP on Tuesday 18 February. [@3] The gendarmerie said more than 23,000 cannabis plants were uprooted in French Polynesia in 2024, a third of the national seizures. [@2] The operation rested on five strands: disrupting dealing points, dismantling trafficking networks, controlling drug flows, destroying cannabis plantations and close surveillance of known sales sites. [@1] Gendarmerie patrols were concentrated in zones including Mahina and Arue, and further operations were planned later in the year. [@1] Tahiti Presse put the seized criminal assets at 15,719,779 Pacific francs, about 131,811 euros. [@1]
