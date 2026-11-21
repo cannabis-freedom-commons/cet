@@ -49,33 +49,28 @@ sources:
     url: https://stoke.nub.news/news/local-news/16-kilograms-of-suspected-drugs-seized-in-stoke-on-trent-leading-to-six-arrests-315532
     publisher: Stoke Nub News
     date: 2026-11-20
-open_questions:
-  - No separate weight was given for the cannabis; the approximately 16 kilograms is a combined figure for all the suspected drugs and is not counted as a cannabis quantity.
-  - The sources do not identify the class B drug one of the 24-year-olds was suspected of intending to supply.
-  - No charges, court appearances or names were reported; all six were still in custody for questioning.
-  - The submitted account lists a further 22-, 23- and 24-year-old alongside the four men and a 26-year-old, which reads as eight arrests; the account making clear that the 22-year-old and two of the four were additionally arrested over crack cocaine, giving six, is followed.
-  - No estimate of the value of the drugs seized was published.
-  - Both accounts reproduce the same Staffordshire Police statement, so they are not independent reporting.
-  - The text gives a weight ("16 kilograms") but the figures have no kg_seized; check whether it belongs there.
+  - title: Six arrested in Stoke-on-Trent after major drug seizure
+    url: https://www.hellorayo.co.uk/greatest-hits/staffordshire-cheshire/news/stoke-on-trent-six-arrested-drug-seizure
+    publisher: Greatest Hits Radio (Staffordshire & Cheshire)
+    date: 2026-11-20
 ---
 
 Staffordshire Police arrested six men following the seizure of approximately 16
-kilograms of suspected drugs in Stoke-on-Trent. [@1] As part of an investigation
+kilograms of suspected drugs in Stoke-on-Trent. [@1,3] As part of an investigation
 into drug supply, officers conducted searches on 19 November 2026 across nine
-houses and two cars. [@1] Four men aged 23, 24, 24 and 27, all from
+houses and two cars. [@1,3] Four men aged 23, 24, 24 and 27, all from
 Stoke-on-Trent, were arrested on suspicion of possession with intent to supply
-class A drugs, specifically cocaine. [@1] A 22-year-old, the 23-year-old and a
+class A drugs, specifically cocaine. [@1,3] A 22-year-old, the 23-year-old and a
 24-year-old were also arrested on suspicion of being concerned in the supply of
-crack cocaine. [@2] One of the 24-year-olds faced further suspicion of
-possession with intent to supply class B drugs. [@1] A 26-year-old was detained
-on suspicion of supplying class A drugs. [@1] All six remained in custody for
-questioning. [@1]
+crack cocaine. [@2,3] One of the 24-year-olds faced further suspicion of
+possession with intent to supply class B drugs. [@1,3] A 26-year-old was detained
+on suspicion of supplying class A drugs. [@1,3] All six remained in custody for
+questioning. [@1,3]
 
 Among the items seized were cannabis, cocaine, heroin and monkey dust, alongside
-£17,000 in cash. [@1]
+£17,000 in cash. [@1,3]
 
 The operation was part of ongoing efforts to disrupt drug supply in
-Stoke-on-Trent and throughout Staffordshire. [@1] Staffordshire Police said
+Stoke-on-Trent and throughout Staffordshire. [@1,3] Staffordshire Police said
 officers were working tirelessly to disrupt drug supply in Stoke-on-Trent and
 wider Staffordshire. [@2]
-
