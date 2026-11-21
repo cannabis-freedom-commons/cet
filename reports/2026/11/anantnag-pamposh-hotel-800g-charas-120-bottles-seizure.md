@@ -48,17 +48,15 @@ sources:
     url: https://www.dailyexcelsior.com/illicit-liquor-charas-seized-from-hotel-in-jks-anantnag
     publisher: Daily Excelsior
     date: 2026-11-20
-open_questions:
-    - No separate date for the raid was published; 19 November 2026 is the dateline and publication date used as the incident date.
-    - Greater Kashmir reported 800 grams of charas-like substance, while the police statement carried by PTI gave approximately 850 grams of charas powder; no measured weight was published.
-    - The cannabis material was described as charas or a charas-like substance, with no forensic confirmation reported.
-    - No arrests, detentions or court outcome were reported, although police said a case had been registered at Saddar Anantnag police station.
-    - No value estimate for the charas or the liquor was published.
+  - title: Anantnag Police Seize Illicit Liquor, Charas From Hotel In Major Raid
+    url: https://www.rediff.com/news/report/illicit-liquor-and-charas-seized-from-anantnag-hotel/20261120.htm
+    publisher: Rediff
+    date: 2026-11-20
 ---
 
 Anantnag Police raided Pamposh Hotel in the Lal Chowk area of Anantnag on 19
-November 2026. [@1] The hotel is operated by Sajad Ahmad Bhat, a resident of Aneldoor in Anantnag, the police spokesperson said. [@3] Police obtained a search warrant before raiding the hotel, acting on credible information. [@3] Officers recovered 120 bottles of alcohol along with a
-substance suspected to be charas from the hotel premises. [@1,4]
+November 2026. [@1] The hotel is operated by Sajad Ahmad Bhat, a resident of Aneldoor in Anantnag, the police spokesperson said. [@3,5] Police obtained a search warrant before raiding the hotel, acting on credible information. [@3,5] Officers recovered 120 bottles of alcohol along with a
+substance suspected to be charas from the hotel premises. [@1,4] The 120 bottles of liquor seized in the raid were Old Adventure Rum. [@5]
 
 Greater Kashmir reported the suspected charas-like substance in the same hotel
 raid as weighing 800 grams. [@2] The seizure was made during a police operation
@@ -71,4 +69,4 @@ Anantnag. [@1]
 The latest seizure came amid intensified efforts by Anantnag Police to address
 substance abuse and strengthen action against activities prohibited under law.
 [@1] Further details on case registration and whether anyone was detained or
-arrested were not immediately available. [@1] A case was registered at the Saddar Anantnag police station, and police said they were investigating the source and intended recipients of the contraband. [@4]
+arrested were not immediately available. [@1] A case was registered at the Saddar Anantnag police station, and police said they were investigating the source and intended recipients of the contraband. [@4,5]
