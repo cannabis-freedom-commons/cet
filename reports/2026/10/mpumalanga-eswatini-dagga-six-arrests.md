@@ -62,6 +62,10 @@ sources:
     url: https://www.citizen.co.za/highvelder-news/news-headlines/local-crime-news/2026/10/27/six-arrested-as-police-seize-dagga-worth-r2-million/
     publisher: Highvelder News / The Citizen
     date: 2026-10-27
+  - title: Dagga-dealing suspects arrested in Mpumalanga
+    url: https://truckandfreight.co.za/dagga-dealing-suspects-arrested-in-mpumalanga/
+    publisher: Truck and Freight Information Online
+    date: 2026-10-25
 media:
   - kind: photo
     url: https://www.citizen.co.za/highvelder-news/news-headlines/local-crime-news/2026/10/27/six-arrested-as-police-seize-dagga-worth-r2-million/
@@ -86,17 +90,17 @@ open_questions:
 On the evening of Friday 23 October, officers doing stop-and-searches on the
 N2 near the Commondale turn-off at Mahamba stopped a white Isuzu double-cab
 bakkie at about 9.40 p.m. and found 33 rolls of dagga weighing about 125.2 kg
-and valued at R750,000. [@1,2,3,4,5,6] Five Eswatini nationals aged 22 to 30 were
-arrested for dealing in dagga; the bakkie and the drug were seized. [@1,2,3,4,5,6]
+and valued at R750,000. [@1,2,3,4,5,6,7] Five Eswatini nationals aged 22 to 30 were
+arrested for dealing in dagga; the bakkie and the drug were seized. [@1,2,3,4,5,6,7]
 
 A day earlier, at about 5.20 a.m. on Thursday 22 October, police patrolling
 Voortrekker Street in Carolina spotted a grey Volkswagen Golf TSI with tinted
-windows and gave chase when it fled toward Wonderfontein Road. [@1,2,3,4,5,6] Officers
+windows and gave chase when it fled toward Wonderfontein Road. [@1,2,3,4,5,6,7] Officers
 intercepted it near the Belfast turn-off and found about 200 kg of dagga worth
-R1.2 million hidden inside. [@1,2,3,4,5,6] The Eswatini driver was arrested and
-charged with dealing in dagga, and the car and drugs were confiscated. [@1,2,3,4,5,6]
+R1.2 million hidden inside. [@1,2,3,4,5,6,7] The Eswatini driver was arrested and
+charged with dealing in dagga, and the car and drugs were confiscated. [@1,2,3,4,5,6,7]
 
 The six suspects were due in the Piet Retief and Carolina magistrates' courts.
-[@1,3,4,5,6] Mpumalanga commissioner Lieutenant General Apaphia Modise praised the
+[@1,3,4,5,6,7] Mpumalanga commissioner Lieutenant General Apaphia Modise praised the
 officers and said intelligence-driven patrols would continue under the Safer
-Festive Season operations. [@1,3,4,6]
+Festive Season operations. [@1,3,4,6,7]
