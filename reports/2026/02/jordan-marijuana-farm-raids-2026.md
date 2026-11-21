@@ -32,6 +32,17 @@ sources:
     locator: >-
       Published 2 February 2026; 35 arrests in 13 cases, three marijuana cultivation sites in
       Southern Shouneh, 5 kg marijuana, hashish blocks and firearms.
+  - title: Jordanian anti-drugs authorities arrest 35 suspects in nationwide raids
+    url: https://www.arabnews.com/middle-east/jordanian-anti-drugs-authorities-arrest-35-suspects-in-nationwide-raids-2631398
+    publisher: Arab News
+    date: 2026-02-01
+    language: en
+media:
+  - kind: photo
+    url: https://www.arabnews.com/middle-east/jordanian-anti-drugs-authorities-arrest-35-suspects-in-nationwide-raids-2631398
+    media_url: https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2026/02/proxy/4680924-1136424847.webp
+    publisher: Arab News
+    caption: 'Suspects linked to the 13 drugs-and-weapons cases, in a cropped image from the Jordanian police account. Photo: X / @Police_Jo'
 ---
 
-Police arrested 35 people in 13 drugs-and-weapons cases across Jordan in early February 2026. Raids on three marijuana-growing sites in Southern Shouneh led to two arrests, and in Amman officers detained four dealers with 5 kg of marijuana; they also seized hashish blocks, crystal meth and firearms in Ma'an, Zarqa, Ajloun and Ramtha. The Public Security Directorate said the operations were part of a wider campaign against trafficking and smuggling; Jordan and Syria had agreed in January 2025 to a joint security committee on border drug smuggling. [@1]
+Police arrested 35 people in 13 drugs-and-weapons cases across Jordan in early February 2026. Raids on three marijuana-growing sites in Southern Shouneh led to two arrests, and in Amman officers detained four dealers with 5 kg of marijuana; they also seized hashish blocks, crystal meth and firearms in Ma'an, Zarqa, Ajloun and Ramtha. Two other Amman cases yielded 14 blocks of hashish from two traffickers and six blocks from a dealer. [@2] The Public Security Directorate said the operations were part of a wider campaign against trafficking and smuggling; Jordan and Syria had agreed in January 2025 to a joint security committee on border drug smuggling. [@1,2]
