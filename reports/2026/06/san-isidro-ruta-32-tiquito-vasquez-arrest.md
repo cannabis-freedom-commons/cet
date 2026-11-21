@@ -45,6 +45,11 @@ media:
     media_url: https://www.lateja.cr/resizer/v2/B7K4XDARDVHPVC2ARAT5PDIBA.jpeg?smart=true&auth=d222b076fee082877b46cbc947ca82a7fa686496280651d577363dcbfacc10e2&width=768&height=576
     publisher: La Teja
     caption: 'Police photo of detained ex-boxer Bryan “Tiquito” Vásquez after the Ruta 32 stop in San Isidro de Heredia. Photo: courtesy via La Teja.'
+  - kind: photo
+    url: https://www.infobae.com/costa-rica/2026/06/08/exboxeador-costarricense-bryan-el-tiquito-vasquez-enfrenta-proceso-judicial-tras-ser-detenido-con-marihuana-y-dinero-en-efectivo/
+    media_url: https://www.infobae.com/resizer/v2/7LANQSDFK5CU5NSGAP6U45FPBQ.png?auth=73019a70b471a46de91eba33cfdfc2be608396d1771d1b1f5045c34853c70afa&smart=true&width=992&height=666&quality=85
+    publisher: Infobae
+    caption: 'Bryan “El Tiquito” Vásquez after his detention near the Ruta 32 toll in San Isidro de Heredia. Photo: Facebook Bryan “El Tiquito” Vásquez, via Infobae'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2777a0fa0d1e56f6d0d24bcba484fc97
@@ -65,30 +70,34 @@ sources:
     publisher: La República
     date: 2026-06-08
     language: es
+  - title: Exboxeador costarricense Bryan “El Tiquito” Vásquez enfrenta proceso judicial tras ser detenido con marihuana y dinero en efectivo
+    url: https://www.infobae.com/costa-rica/2026/06/08/exboxeador-costarricense-bryan-el-tiquito-vasquez-enfrenta-proceso-judicial-tras-ser-detenido-con-marihuana-y-dinero-en-efectivo/
+    publisher: Infobae
+    date: 2026-06-08
+    language: es
 open_questions:
-  - The seized cash totals ₡1,301,000 in La Teja and CR Hoy but ¢1,303,000 in La República; the report uses ₡1,301,000 as the police figure repeated by two accounts.
-  - The marijuana is described as apparent and no laboratory confirmation was reported.
-  - No separate detention date is given beyond the early hours of Sunday; 7 June 2026 is inferred from the 7 and 8 June publication dates.
-  - No court outcome beyond precautionary measures was reported, and the accounts do not say what measures, if any, apply to the second detainee surnamed Cascante.
-  - The origin of the cash and the circumstances of the alleged transport remain under investigation and were not detailed.
+    - The seized cash totals ₡1,301,000 in La Teja and CR Hoy but ¢1,303,000 in La República; the report uses ₡1,301,000 as the police figure repeated by two accounts.
+    - The marijuana is described as apparent and no laboratory confirmation was reported.
+    - No separate detention date is given beyond the early hours of Sunday; 7 June 2026 is inferred from the 7 and 8 June publication dates.
+    - No court outcome beyond precautionary measures was reported, and the specific measures applying to the second detainee surnamed Cascante Lobo were not set out.
+    - The origin of the cash and the circumstances of the alleged transport remain under investigation and were not detailed.
 ---
 
 Fuerza Pública officers in Heredia detained two men travelling in a vehicle on
-Ruta 32 during the early hours of Sunday 7 June 2026. [@1] The driver was
+Ruta 32 during the early hours of Sunday 7 June 2026. [@1,4] The driver was
 identified as former Costa Rican boxer Bryan “Tiquito” Vásquez and the passenger
-as a man surnamed Cascante. [@2] Vásquez was driving the vehicle and Cascante
+as a man surnamed Cascante. [@2,4] The companion was identified with the surnames Cascante Lobo. [@4] Vásquez was driving the vehicle and Cascante
 was travelling as his companion. [@1] Both men were placed at the disposal of
 the judicial authorities and taken to the Public Ministry to have their legal
 situation decided. [@2] Vásquez was later freed but remains under investigation
 with the case open in the Heredia prosecutor’s office. [@1] At the 8 June
 precautionary-measures hearing the court barred Vásquez from leaving the country
-while the investigation continues. [@3] He must also keep a fixed address and
-sign in every 15 days. [@3]
+while the investigation continues. [@3,4] The Heredia adjunct prosecutor's office had requested preventive detention for both men, but the criminal court instead set precautionary measures while the investigation continues under the Narcotics and Related Crimes Prosecutor's Office. [@4] He must also keep a fixed address and
+sign in every 15 days. [@3,4] The Heredia Criminal Court ordered both Vásquez and Cascante Lobo to comply strictly with the imposed precautionary measures until their criminal responsibility is determined. [@4]
 
 Officers seized 72.9 grams of apparent marijuana and ₡1,301,000 in cash during
-the vehicle inspection. [@1] The stop took place near the toll sector on Ruta 32
+the vehicle inspection. [@1,4] The stop took place near the toll sector on Ruta 32
 in San Isidro de Heredia. [@2] Police treated the case as suspected drug
-transportation. [@2] Costa Rican law sets no permitted quantity of marijuana, so
+transportation. [@2,4] The case was registered as 26-000527-1094-PE and was to be handled under the flagrancy procedure. [@4] Costa Rican law sets no permitted quantity of marijuana, so
 each case is assessed on whether the amount and circumstances suggest personal
 consumption or another purpose. [@1]
-
