@@ -89,6 +89,11 @@ sources:
     publisher: Nightlife.ca
     date: 2019-11-13
     language: fr
+  - title: 'Drogue : le milliardaire québécois, Guy Laliberté arrêté à Tahiti'
+    url: https://rezonodwes.com/2019/11/drogue-milliardaire-quebecois-guy-laliberte-arrete-a-tahiti/
+    publisher: Rezo Nòdwès
+    date: 2019-11-14
+    language: fr
 media:
   - kind: photo
     url: https://www.tntvnews.pf/polynesie/tntv_news_une/guy-laliberte-condamne-a-2-millions-damende-pour-detention-en-usage-de-cannabis/
@@ -109,8 +114,8 @@ media:
 
 Guy Laliberté, the co-founder of the circus company Cirque du Soleil, was
 detained in French Polynesia over cannabis grown on his private island of
-Nukutepipi in the South Pacific. [@1] The billionaire Canadian turned himself in
-to police in French Polynesia and was due to appear in court on Wednesday. [@1,8]
+Nukutepipi in the South Pacific. [@1,9] The billionaire Canadian turned himself in
+to police in French Polynesia and was due to appear in court on Wednesday. [@1,8,9]
 Papeete television reported that he was presented to an investigating judge at
 11.30 on Wednesday 13 November after spending Tuesday and the night in police
 custody over cannabis cultivation on his atoll. [@2,8]
@@ -124,10 +129,10 @@ reported that about 20 cannabis plants were growing in a fitted-out container
 locked with a keypad code on the atoll. [@2] The container had been bought at his request for 134,000 US dollars, and the 48 plants were a first trial that was never harvested. [@5] He admitted at the hearing that he had planted 48 paka plants in a container to ease pain linked to his former life as an acrobat. [@4] The case followed the earlier
 interception of the director of Laliberté's Nukutepipi residence, found in
 possession of cannabis with photographs of plants grown on the atoll on his
-phone. [@2,7,8]
+phone. [@2,7,8,9]
 
 Laliberté's company Lune Rouge said he was a medical cannabis user growing the
-plant for strictly personal use and denied any sale or trafficking. [@1,8] His
+plant for strictly personal use and denied any sale or trafficking. [@1,8,9] His
 lawyer, Yves Piriou, called the case a distressing banality and said the
 cannabis was for medical and personal consumption and nothing else. [@3] His lawyers said they did not rule out an appeal. [@5] AFP
 reported that under French law he faced up to 10 years in prison, though growers
