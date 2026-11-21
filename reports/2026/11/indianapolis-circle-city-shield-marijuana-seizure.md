@@ -57,6 +57,10 @@ sources:
     url: https://gsmglobalnews.com/article/d20261119-gap1150-circle1.html
     publisher: GSM Global
     date: 2026-11-19
+  - title: Indy nonprofit president among 35 arrested in sweeping gun, drug operation
+    url: https://eu.indystar.com/story/news/crime/2026/11/19/indy-nonprofit-president-among-35-arrested-in-sweeping-gun-drug-operation/92844680007/
+    publisher: Indianapolis Star
+    date: 2026-11-19
 open_questions:
   - 'Accounts gave different amounts for the marijuana: nearly 21 pounds (Indianapolis Star), about 20.5 pounds (WISH-TV) and 9,328 grams (U.S. Attorney''s Office); the gram figure is used here.'
   - The 35 arrests spanned 27 separate cases of alleged firearms, drug-trafficking and other conduct, so they cannot be attributed to the marijuana alone.
@@ -69,19 +73,18 @@ six-week operation in Indianapolis called Operation Circle City Shield, with
 U.S. Attorney Thomas Wheeler announcing the results on 19 November 2026. [@1]
 More than 400 officers from 15 agencies took part, including the ATF, FBI, DEA
 and U.S. Marshals Service alongside Indiana agencies, ATF Special Agent in
-Charge Jorge Rosendo said. [@1] James D. Phillips, a 43-year-old president of
-the nonprofits Jesus House and You Hurt We Help, was among the 35 arrested. [@1]
+Charge Jorge Rosendo said. [@1,4] James D. Phillips, a 43-year-old president of
+the nonprofits Jesus House and You Hurt We Help, was among the 35 arrested. [@1,4]
 
 Police said officers seized nearly 21 pounds of marijuana during the operation.
-[@1] The U.S. Attorney's Office for the Southern District of Indiana put the
+[@1,4] The U.S. Attorney's Office for the Southern District of Indiana put the
 marijuana at 9,328 grams, about 9.3 kilograms, and said the operation ran from 5
 October to 17 November 2026. [@3] WISH-TV reported the marijuana as about 20.5
 pounds. [@2]
 
 Charges included dealing controlled substances, trafficking firearms and illegal
 possession of machine guns, and 17 of those arrested had prior felony
-convictions, according to a news release. [@1] The same operation also yielded
+convictions, according to a news release. [@1,4] The same operation also yielded
 161 firearms, five of them stolen, 173 machinegun conversion devices, a 3-D
 printer and $300,000 in cash, alongside fentanyl, methamphetamine and cocaine.
 [@3]
-
