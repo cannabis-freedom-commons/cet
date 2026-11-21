@@ -50,6 +50,11 @@ media:
     media_url: https://imagenes.cope.es/files/webp_768_432/uploads/2026/11/20/6b002d109738b.png
     publisher: COPE
     caption: Effects seized from the driver in the joint Policía Nacional and Guardia Civil operation after the A-66 chase in Cáceres.
+  - kind: photo
+    url: https://www.elperiodicoextremadura.com/caceres-local/2026/11/20/detenido-caceres-huir-200-km-136655597.html
+    media_url: https://estaticos-cdn.prensaiberica.es/clip/f0b25410-1d12-445e-9fea-3628d671d1cf_16-9-discover-aspect-ratio_default_0_x512y256.webp
+    publisher: El Periódico Extremadura
+    caption: 'Money and hashish seized from the detainee after the A-66 chase in Cáceres. Photo: Guardia Civil'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 301ec157687d46cf0b7975dfe44836b4
@@ -70,35 +75,35 @@ sources:
     publisher: COPE
     date: 2026-11-20
     language: es
-open_questions:
-  - The saliva test result to determine whether the driver had consumed drugs was still pending.
-  - No formal charge, plea or court outcome was reported beyond the suspected offences and the case being placed before the judicial authority.
-  - Both opened accounts reproduce the same joint police press release rather than independent reporting, and the driver was identified only by his age of 29.
-  - No street value was published for the hashish; the weight was given as 1,041 grams and described as just over a kilo.
+  - title: SUCESO | Detenido en Cáceres tras huir a más de 200 km/h, circular en sentido contrario por la A-66 y llevar un kilo de hachís
+    url: https://www.elperiodicoextremadura.com/caceres-local/2026/11/20/detenido-caceres-huir-200-km-136655597.html
+    publisher: El Periódico Extremadura
+    date: 2026-11-20
+    language: es
 ---
 
 A 29-year-old man was detained in Cáceres, Spain, after a high-speed chase on
 the A-66 motorway in which he drove the wrong way and carried just over a kilo
-of hashish. [@1,3] The incident took place on 15 November 2026, when a Guardia
-Civil traffic patrol detected his car travelling at 157 km/h near Cáceres. [@1,3]
+of hashish. [@1,3,4] The incident took place on 15 November 2026, when a Guardia
+Civil traffic patrol detected his car travelling at 157 km/h near Cáceres. [@1,3,4]
 When officers signalled him to stop he ignored them and fled, reaching speeds
-above 200 km/h. [@1,3] During the pursuit he crossed temporary separators in a
+above 200 km/h. [@1,3,4] During the pursuit he crossed temporary separators in a
 roadworks zone with a 40 km/h limit and drove for about 1.5 kilometres against
-the traffic flow. [@1,3] He passed at least three vehicles whose drivers had to
-make evasive manoeuvres to avoid head-on collisions. [@1]
+the traffic flow. [@1,3,4] He passed at least three vehicles whose drivers had to
+make evasive manoeuvres to avoid head-on collisions. [@1,4]
 
 Inside the car officers found ten pressed packages holding 1,041 grams of
-hashish, along with 445 euros in cash and other effects. [@1,3] A wide deployment
+hashish, along with 445 euros in cash and other effects. [@1,3,4] A wide deployment
 of Guardia Civil patrols, directed and coordinated from the 062 control centre,
-was set up because of the seriousness of the incident. [@1,3] With help from the
+was set up because of the seriousness of the incident. [@1,3,4] With help from the
 Policía Nacional and the Cáceres local police, a Policía Nacional patrol
-intercepted the car at an entrance to the city and detained the driver. [@1,3] The
+intercepted the car at an entrance to the city and detained the driver. [@1,3,4] The
 stop was in the Aldea Moret district of Cáceres, according to Hoy. [@2]
 
 The man was detained on suspicion of reckless driving, serious disobedience,
 resisting officers, driving under the influence of drugs and a public-health
-offence of drug trafficking. [@1,3] A saliva test to identify drug influence was
-still pending. [@1,3] The case file, the drugs and the detainee were placed before
-the competent judicial authority in Cáceres. [@1,3] Hoy reports he was driving
+offence of drug trafficking. [@1,3,4] A saliva test to identify drug influence was
+still pending. [@1,3,4] The case file, the drugs and the detainee were placed before
+the competent judicial authority in Cáceres. [@1,3,4] Hoy reports he was driving
 northbound on the A-66 having come from Andalusia, where he lived in a province
 of the region. [@2]
