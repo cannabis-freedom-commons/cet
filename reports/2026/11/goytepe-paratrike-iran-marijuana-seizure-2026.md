@@ -58,22 +58,31 @@ sources:
     publisher: Axar.Az
     date: 2026-11-16
     language: ru
+  - title: 'From drones to paragliders: Azerbaijan’s border service reports drug smuggling by air from Iran'
+    url: https://jam-news.net/from-drones-to-paragliders-azerbaijans-border-service-reports-drug-smuggling-by-air-from-iran/
+    publisher: JAMnews
+    date: 2026-11-20
+open_questions:
+    - The border service gave the pilot's nationality but not his name, and has not said whether prosecutors have brought the case to court.
+    - No estimate of the value of the seized drugs was published.
+    - The 1.94 kg of opium and the 4,000 methadone tablets found on the same flight are not counted in the cannabis figures.
+    - The border service has not said who organised the flight from Iran or which group the detained pilot was linked to.
 ---
 
 Azerbaijani border guards stopped a paratrike that flew from Iran into
 Azerbaijan across the state border in the Goytepe Border Detachment area,
-neutralised the aircraft and detained the Iranian national piloting it. [@1,3] The
+neutralised the aircraft and detained the Iranian national piloting it. [@1,3,4] Border guards detained the paraglider pilot and seized the aircraft on 16 November 2026. [@4] The
 State Border Service said the paratrike was detected during border control after
 illegally crossing the border and was neutralised in operational-military
 measures. [@1]
 
 Officers seized 21 kg 210 g of narcotics in the inspection, including 19 kg 270
 g of marijuana and 1 kg 940 g of opium, plus 4,000 methadone M-40 tablets with
-psychotropic content. [@1,3] Azernews independently reported the same seizure as
+psychotropic content. [@1,3,4] Azernews independently reported the same seizure as
 21.21 kg of narcotics, including 19.27 kg of marijuana and 1.94 kg of opium with
 4,000 methadone tablets. [@2]
 
 The detained pilot, an Iranian national, was held on suspicion of violating
 Azerbaijan's state border. [@2,3] The border service said aircraft had repeatedly
 been used before to smuggle narcotics into Azerbaijan despite warnings, and
-pledged continued measures against such flights. [@2]
+pledged continued measures against such flights. [@2,4] The border service did not name the detained pilot and has not said whether prosecutors have brought his case to court. [@4]
