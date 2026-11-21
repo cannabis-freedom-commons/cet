@@ -57,23 +57,19 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-19
     language: hi
-open_questions:
-  - The article gives no separate calendar date for the raids beyond Thursday; 19 November 2026, the publication date, is used as the incident date.
-  - The account rests on a single outlet's report in its original and AMP versions; no independent second outlet account was found.
-  - No NDPS sections or other charges were stated, and no plea or court outcome beyond jail was reported.
-  - No value estimate for the seized ganja was published.
-  - The reported June recovery of 32 kg of ganja from the same house is background to this case and is not counted in this event's figures.
-  - The tip was dated 18 November 2026 and publication was on 19 November 2026, leaving the exact day of the searches unclear.
-  - The location of Chhotu Kumar's house and shop was described both as Shastri Chowk and as Riga village.
-  - No plea or further court outcome beyond action under the NDPS Act was reported.
+  - title: Ganja smuggling exposed in Shastri Chowk and Riga
+    url: https://www.bhaskar.com/amp/local/bihar/banka/news/ganja-smuggling-exposed-in-shastri-chowk-and-riga-dbp-139739759.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-20
+    language: hi
 ---
 
 Police raided premises at Shastri Chowk and Riga village in Banka's Town
-police-station area on Thursday in an operation against the ganja trade. [@1]
+police-station area on Thursday in an operation against the ganja trade. [@1,4]
 Police said they acted on a tip that ganja was being sold from a house and shop
 at Shastri Chowk, forming a special team on SP Amitesh Kumar's orders under
 Banka circle officer Pratyush. [@2,3] The arrested pair were identified as Rita
-Devi and Dharmendra Mandal, son of Sikandar Mandal of Riga village. [@2,3] Rita
+Devi and Dharmendra Mandal, son of Sikandar Mandal of Riga village. [@2,3,4] Rita
 Devi and Dharmendra Mandal were arrested and sent to jail, while Chhotu Kumar
 fled the scene and police registered a first information report against all
 three for further legal action. [@2] Police prepared a seizure list for the recovered ganja and cash and were taking legal action under the relevant sections of the NDPS Act. [@3]
@@ -81,7 +77,7 @@ three for further legal action. [@2] Police prepared a seizure list for the reco
 The two searches together yielded 6 kg 800 g of ganja, Rs 175,010 in cash and
 two Android mobile phones, and police arrested one woman and one man. [@2,3] At
 Shastri Chowk, officers searched the house of resident Rita Devi, wife of late
-Vijay Sah, and recovered 1 kg 500 g of ganja and Rs 5,150 in cash. [@2,3] Acting
+Vijay Sah, and recovered 1 kg 500 g of ganja and Rs 5,150 in cash. [@2,3,4] Acting
 on Rita Devi's information, police searched Chhotu Kumar's house and shop in
 Riga village, recovering 2 kg 100 g of ganja, Rs 91,360 in cash and two mobiles,
 plus another 3 kg 200 g of ganja and Rs 78,500 in cash from sacks in a second
