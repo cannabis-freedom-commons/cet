@@ -55,33 +55,37 @@ sources:
     publisher: Neiva Estéreo
     date: 2026-11-19
     language: es
+  - title: Incautan 40 kilos de marihuana en Neiva y capturan a dos personas
+    url: https://diariodelhuila.com/incautan-40-kilos-de-marihuana-en-neiva-y-capturan-a-dos-personas/
+    publisher: Diario del Huila
+    date: 2026-11-19
+    language: es
 open_questions:
-  - No separate date for the operation was given; 19 November 2026 is the publication date and stands in for the incident date.
-  - The 40 kilograms and 40,000 doses are approximate figures from preliminary information, with no laboratory confirmation reported.
-  - The names, ages and procedural situation of the two detainees beyond being placed at the disposal of the authorities were not reported.
-  - No court outcome, charge filing or detention measure beyond the announced proceedings was reported.
-  - The account rests on a single accessible outlet report; no second independent account was found.
+    - No separate date for the operation was given; 19 November 2026 is the publication date and stands in for the incident date.
+    - The 40 kilograms and 40,000 doses are approximate figures from preliminary information, with no laboratory confirmation reported.
+    - The names, ages and procedural situation of the two detainees beyond being placed at the disposal of the authorities were not reported.
+    - No court outcome, charge filing or detention measure beyond the announced proceedings was reported.
+    - Both accessible accounts reproduce the same official Army account and neither is an independent report; no other outlet was found.
 ---
 
 Army troops arrested two people in flagrante in Neiva, Huila, when they
 allegedly tried to move about 40 kilograms of marijuana onto a public-service
-vehicle. [@1] The operation was carried out by troops of the Army's Ninth
-Brigade, with support from the Sijín and the CTI. [@1] On the ground, the
+vehicle. [@1,2] The operation was carried out by troops of the Army's Ninth
+Brigade, with support from the Sijín and the CTI. [@1,2] On the ground, the
 procedure was handled by soldiers of Field Artillery Battalion No. 9 Tenerife,
 who surprised the two suspects as they apparently tried to load the shipment
-into a vehicle. [@1] According to preliminary information, the marijuana had
+into a vehicle. [@1,2] According to preliminary information, the marijuana had
 previously reached the Huila capital in a vehicle covering the Íquira–Neiva
-route. [@1]
+route. [@1,2]
 
 During the operation authorities seized approximately 40 kilograms of marijuana,
-described as equivalent to about 40,000 doses. [@1] Authorities estimated the
-commercial value of the shipment at 118,500,000 pesos. [@1] Authorities
+described as equivalent to about 40,000 doses. [@1,2] Authorities estimated the
+commercial value of the shipment at 118,500,000 pesos. [@1,2] Authorities
 presented the result as a blow to illegal economies that kept the drug from
-being distributed and sold on the streets. [@1]
+being distributed and sold on the streets. [@1,2]
 
 The detainees and the seized material were placed at the disposal of the
 competent authorities, which will pursue proceedings for alleged drug
-trafficking, manufacture or possession. [@1] The Ninth Brigade said it would
+trafficking, manufacture or possession. [@1,2] The Fiscalía will conduct the corresponding judicial proceedings for the alleged offence of trafficking, manufacture or possession of narcotics. [@2] The Ninth Brigade said it would
 continue coordinated operations with the police and judicial authorities against
-drug trafficking in Huila. [@1]
-
+drug trafficking in Huila. [@1,2]
