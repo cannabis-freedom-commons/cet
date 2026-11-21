@@ -67,20 +67,25 @@ sources:
     publisher: Sorejomin Barta
     date: 2026-11-20
     language: bn
+  - title: ৩৩ কেজি গাঁজাসহ চার মাদক কারবারিকে গ্রেপ্তার করেছে এসআরইউ
+    url: https://www.banglaedition.com/news/2026/11/20/275058
+    publisher: বাংলা এডিশন (Bangla Edition)
+    date: 2026-11-20
+    language: bn
 open_questions:
-  - The 33 kg was described only as ganja, with no laboratory confirmation reported.
-  - Police did not say at which of the two locations the 33 kg of ganja was recovered.
-  - No street value was published for the ganja.
-  - No charges were specified and no court outcome was reported; police said only that legal action was under way.
-  - Both accounts reproduce the same Dhaka Metropolitan Police press release and are not independent reporting.
-  - The statement did not say whether the four were remanded in custody or released on bail.
-  - The accounts call the four drug traffickers without describing the scale or route of their trade.
+    - The 33 kg was described only as ganja, with no laboratory confirmation reported.
+    - Police did not say at which of the two locations the 33 kg of ganja was recovered.
+    - No street value was published for the ganja.
+    - No charges were specified and no court outcome was reported; police said only that legal action was under way.
+    - The accounts reproduce the same Dhaka Metropolitan Police press release and are not independent reporting.
+    - The statement did not say whether the four were remanded in custody or released on bail.
+    - The accounts call the four drug traffickers without describing the scale or route of their trade.
 ---
 
 Dhaka Metropolitan Police's Special Response Unit (SRU) arrested four men
 described as drug traffickers with 33 kilograms of ganja in the Demra area of
-the capital. [@1,3] The DMP statement gave the four men's ages as 42, 29, 29 and
-20. [@2,3] The Special Response Unit is one of the specialised units of the Dhaka
+the capital. [@1,3,5] The DMP statement gave the four men's ages as 42, 29, 29 and
+20. [@2,3] The four were named as Anwar, Mohammad Aminul Islam, Md Sagar and Moni. [@5] The Special Response Unit is one of the specialised units of the Dhaka
 Metropolitan Police, which polices the capital. [@1]
 
 Officers arrested the first of the four at about 08:15 on Thursday in the Demra
@@ -88,8 +93,8 @@ Staff Quarter area under Demra police station. [@1,4] The DMP statement dated th
 first raid to Thursday 19 November. [@2] Acting on information he gave, police
 arrested the other three at about 12:30 the same day in an area under Banshal
 police station. [@1,3] Officers recovered 33 kilograms of ganja from the four.
-[@1,3]
+[@1,3,5]
 
 The Dhaka Metropolitan Police media centre announced the arrests in a press
 release sent to the media on Friday 20 November. [@1,3] Police said legal action
-against the four was under way. [@2,3]
+against the four was under way. [@2,3,5]
