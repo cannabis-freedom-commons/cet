@@ -115,11 +115,22 @@ sources:
     publisher: مصراوي
     date: 2026-11-20
     language: ar
+  - title: ضبط زوجة إسلام كابونجا بحوزتها حشيش وترامادول أثناء زيارتها له بالسجن
+    url: https://www.masrtimes.com/779443
+    publisher: مصر تايمز
+    date: 2026-11-19
+    language: ar
+media:
+  - kind: photo
+    url: https://www.masrtimes.com/779443
+    media_url: https://cdn.masrtimes.com/UploadCache/libfiles/92/0/800x450o/98.webp
+    publisher: مصر تايمز
+    caption: Photo captioned 'القبض على زوجة إسلام كابونجا' (Arrest of Islam Kabonga's wife), published with the account of her arrest with hashish during a prison visit.
 ---
 
 Detectives at the October Correction Centre in Giza arrested M. S., the wife of
 mahraganat singer Islam Kabonga, while she was visiting her detained husband.
-[@1,2,3,4,6,8,9,10,12,14,15,16,17,18,19] The investigating authorities ordered that she be held for 24 hours pending the results of the criminal investigations. [@19] The suspect was identified as M. S., born in 1999. [@6,16,17] She is known on social media by the nickname Umm Eshq. [@6] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3,13] Her husband was serving a six-month sentence in case 5568 of 2026 for economic misdemeanours in Agouza over incitement to violence. [@6,16,17] The Cairo Economic appeals court had upheld that six-month prison term plus a 100,000-pound fine on 28 September 2026. [@9] The Giza security directorate said Assistant Minister for Giza Security
+[@1,2,3,4,6,8,9,10,12,14,15,16,17,18,19,20] The investigating authorities ordered that she be held for 24 hours pending the results of the criminal investigations. [@19] The suspect was identified as M. S., born in 1999. [@6,16,17] She is known on social media by the nickname Umm Eshq. [@6] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3,13] Her husband was serving a six-month sentence in case 5568 of 2026 for economic misdemeanours in Agouza over incitement to violence. [@6,16,17] The Cairo Economic appeals court had upheld that six-month prison term plus a 100,000-pound fine on 28 September 2026. [@9] The Giza security directorate said Assistant Minister for Giza Security
 Maj. Gen. Hatem Hassan received a notification of the incident from Maj. Gen.
 Hany Shaarawy, deputy director of criminal investigations. [@1,2] She had brought
 visit goods for her husband, and officers searched those goods during the visit.
