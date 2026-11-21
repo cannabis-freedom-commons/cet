@@ -40,9 +40,6 @@ media:
     media_url: https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/10/05/51351.jpg
     publisher: The Himalayan Times
     caption: "Seized sacks and the truck at the Sunsari District Police Office (Santosh Kafle)."
-open_questions:
-  - The Himalayan Times says the sacks were hidden among cauliflower; 2daysBulletin says cabbage.
-  - The suspected trafficking route and any wider network involvement are still under investigation.
 sources:
   - title: 2,566kg marijuana seized from vegetable-laden truck in Sunsari
     url: https://thehimalayantimes.com/nepal/2566kg-marijuana-seized-from-vegetable-laden-truck-in-sunsari
@@ -56,15 +53,20 @@ sources:
     url: https://english.onlinekhabar.com/two-arrested-with-more-than-25-quintals-of-marijuana.html
     publisher: OnlineKhabar English News
     date: 2026-10-05
+  - title: Two arrested with more than 25 quintals of marijuana
+    url: https://english.nepalnews.com/s/crime-news/two-arrested-with-more-than-25-quintals-of-marijuana/
+    publisher: Nepal News
+    date: 2026-10-05
+    language: en
 ---
 
 Sunsari police seized around 2,566 kg of marijuana hidden in a vegetable-laden truck during a
 vehicle check at Sakhuwa Gachhi Chowk in Inaruwa Municipality-3 late on Sunday night.
-[@1,2,3] Officers found 83 sacks of marijuana concealed among sacks of vegetables in the truck,
-registration Na 7 Kha 1825, travelling west from eastern Nepal. [@1,2,3]
+[@1,2,3,4] Officers found 83 sacks of marijuana concealed among sacks of vegetables in the truck,
+registration Na 7 Kha 1825, travelling west from eastern Nepal. [@1,2,3,4]
 
 Driver Raju Rai, 33, of Shahidbhumi Rural Municipality-2 in Dhankuta, and his 18-year-old
 assistant Sandeep Rai were arrested while allegedly trying to transport the consignment.
-[@1,2] District police chief Pushparaj Malla said the truck, the marijuana and both suspects
+[@1,2,4] District police chief Pushparaj Malla said the truck, the marijuana and both suspects
 were in custody, with both suspects held at the Sunsari District Police Office as police
 probe the suspected trafficking route and possible involvement of others. [@1,2,3]
