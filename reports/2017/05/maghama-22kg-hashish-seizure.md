@@ -44,31 +44,41 @@ sources:
     publisher: Mauriweb
     date: 2017-05-19
     language: fr
+  - title: 'Maghama : Saisie de 22 kg de haschich'
+    url: https://cridem.org/C_Info.php?article=698209
+    publisher: Cridem
+    date: 2017-05-19
+    language: fr
 open_questions:
   - The article gives no separate date for the raid; 19 May 2017 is the publication date and is used as the incident date.
   - No names, ages or other identifying details for the five arrested people were published.
   - No court outcome was reported; the investigation was still under way pending referral to the Kaédi prosecutor.
   - No value, packaging details or additional seizure figures were published.
   - Only one distinct account was found, with the Cridem page reprinting the Mauriweb report, and no second independent outlet could be opened.
+media:
+  - kind: photo
+    url: https://cridem.org/C_Info.php?article=698209
+    media_url: https://cridem.org/media/photos/photo//Maghama_haschich_u_025.jpg
+    publisher: Cridem
+    caption: 'Lead image of the Cridem article, captioned ''Maghama : Saisie de 22 kg de haschich'', showing the hashish seizure reported in Maghama.'
 ---
 
 Officers of the Maghama commissariat, the local police station serving the town
 of Maghama in Gorgol Region, arrested five Mauritanian nationals linked to the
-hashish case. [@1] The five suspects remained under investigation while police
+hashish case. [@1,3] The five suspects remained under investigation while police
 prepared to transfer them to the public prosecutor in Kaédi for the next stage
-of the case. [@2] Police said the market garden where the concealed drug was
+of the case. [@2,3] Police said the market garden where the concealed drug was
 found was the property of one of the alleged traffickers behind the seized
-consignment. [@1]
+consignment. [@1,3]
 
 In the same enforcement action, the Maghama commissariat in Gorgol Region seized
-a total of 22 kilograms of hashish. [@2] The seized hashish was explicitly
+a total of 22 kilograms of hashish. [@2,3] The seized hashish was explicitly
 identified as cannabis resin, clarifying that the local term haschich refers to
-resin in this case. [@1] Officers found the full consignment hidden inside a
+resin in this case. [@1,3] Officers found the full consignment hidden inside a
 market garden, described in French as a jardin maraicher, situated on the bank
-of the river. [@2]
+of the river. [@2,3]
 
 Maghama is the town where the seizing police station is based, located within
 Gorgol Region where the enforcement action took place. [@1] Kaédi is the town
 whose prosecutor's office, called the parquet in French, was designated to
 receive the suspects once the police investigation allowed referral. [@2]
-
