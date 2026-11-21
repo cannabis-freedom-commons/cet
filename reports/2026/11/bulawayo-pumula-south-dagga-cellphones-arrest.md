@@ -6,33 +6,36 @@ country: zw
 place: Pumula South, Bulawayo
 coordinates: [-20.15, 28.58]
 precision: locality
-type: arrest
-also: [seizure]
+type: prosecution
+also: [seizure, arrest]
 title: Man arrested with 1.466 kg of dagga and 33 cellphones in Bulawayo
-summary: >-
-  Bulawayo police arrested Gracious Mpofu, 26, at his home in Pumula South on 16 November 2026 after a woman said she had traded a stolen cellphone for drugs, and seized dagga, crystal meth, 33 cellphones and other property. The dagga weighed 1.466 kg; police valued all the recovered property at US$3,800.
+summary: Bulawayo police arrested Gracious Mpofu, 26, at his home in Pumula South on 16 November 2026 after a woman said she had traded a stolen cellphone for drugs, and seized dagga, crystal meth, 33 cellphones and other property. He has since appeared at the Western Commonage Magistrates' Court charged with unlawful dealing in dangerous drugs and was remanded in custody to 1 December.
 figures:
-  arrested: 1
-  kg_seized: 1.466
+    arrested: 1
+    kg_seized: 1.466
+    charged: 1
 details:
-  agencies: [Zimbabwe Republic Police]
-  agency_types: [police]
-  products:
-    - {product: flower, kg: 1.466}
-  activity: [possession, sale]
-  setting: [home]
-  case_stage: investigation
-  date_precision: exact
-  region: Bulawayo
+    agencies: [Zimbabwe Republic Police, Western Commonage Magistrates' Court]
+    agency_types: [police, prosecutor, court]
+    products:
+        - {product: flower}
+    activity: [sale, possession]
+    setting: [home]
+    case_stage: charged
+    date_precision: exact
+    region: Bulawayo
+    charges: [unlawful dealing in dangerous drugs]
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
+    details.activity: [5]
+    details.agencies: [5]
+    details.agency_types: [5]
+    details.case_stage: [5]
+    details.products: [5]
+    details.setting: [5]
+    figures.arrested: [1]
+    figures.kg_seized: [1]
+    details.charges: [5]
+    figures.charged: [5]
 media:
   - kind: photo
     url: https://www.heraldonline.co.zw/man-found-with-drugs-33-cellphones-arrested-in-pumula-south/
@@ -110,15 +113,18 @@ sources:
     url: https://www.zimlive.com/man-found-with-33-suspected-stolen-phones-says-he-traded-them-for-drugs/
     publisher: Zimbabwe News Now (ZimLive)
     date: 2026-11-18
+  - title: Police recover ZWG71 280 worth of dangerous drugs at a Pumula South house
+    url: https://www.heraldonline.co.zw/police-recover-zwg71-280-worth-of-dangerous-drugs-at-a-pumula-south-house/
+    publisher: Chronicle (heraldonline.co.zw)
+    date: 2026-11-21
 open_questions:
-    - 'The dagga sachet counts differ: the Chronicle and ZimLive each reported 113 sachets plus three packets, while CITE reported 153 sachets plus two unmeasured bags.'
-    - CITE described two bags of dagga as unmeasured, so the 1.466 kg may not cover all the dagga recovered.
-    - The US$3,800 is the estimated value of all recovered property, including stolen cellphones and power banks, and cannot be assigned to the dagga alone.
-    - The crystal meth (methamphetamine) in the same search is not cannabis and is excluded from the cannabis figures.
-    - No plea or court outcome was reported; Mpofu was held at ZRP Donnington and was expected to appear in court on Wednesday to face charges of unlawful possession of dangerous drugs and possession of suspected stolen property.
-    - The woman arrested before Mpofu was now named as 21-year-old Nokuthula Ndebele, who allegedly stole a cellphone from her younger brother; no outcome for her case was reported.
-    - Both accounts are based on police statements and no laboratory confirmation of the substances was reported.
-    - Police said about 33 schoolgoing children exchanged stolen cellphones for drugs, matching the 33 cellphones recovered, but gave no details of those children and Mpofu denied selling drugs to schoolchildren.
+    - 'The dagga weight differs between accounts: police said 1.466 kg, while the prosecutor told the court 1,328 kg; the report uses the police figure.'
+    - Police said the substances were weighed at Belmont Post Office, while the court was told they were taken to the Bulawayo Post Office for weighing.
+    - 'The methamphetamine weight differs between accounts: police reported 0.114 grams and the prosecutor 100 grams.'
+    - The ZWG71,280 is the combined street value of the dagga, methamphetamine and methcathinone and cannot be assigned to the dagga alone; the methamphetamine and methcathinone are excluded from the cannabis figures.
+    - 'The dagga sachet counts differ: the Chronicle and the court account give 113 sachets plus three packets, while CITE reported 153 sachets plus two unmeasured bags, so the 1.466 kg may not cover all the dagga recovered.'
+    - The article gives no date for the court appearance, and no outcome was reported for the 1 December remand or any High Court bail application.
+    - No outcome was reported for the 21-year-old woman arrested before Mpofu, Nokuthula Ndebele, and no laboratory confirmation of the substances was reported.
 ---
 
 Gracious Mpofu, a 26-year-old man from Pumula South suburb in Bulawayo, was
@@ -131,15 +137,15 @@ Mpofu admitted exchanging it for a sachet of dagga. [@1,3,4] Mpofu denied sellin
 
 Further searches recovered 33 cellphones, 10 power banks, two digital scales, an
 okapi knife, 53 sachets and two large packets of crystal meth, and 113 sachets
-and three packets of dagga. [@1,3,4] The substances were weighed at Belmont Post
+and three packets of dagga. [@1,3,4] The search also recovered five sachets of methcathinone. [@5] The substances were weighed at Belmont Post
 Office in Mpofu’s presence, measuring 1.466 kilogrammes of dagga and 0.114 grams
 of crystal meth. [@1,3,4] A CITE account of the same police press conference
 reported 153 sachets of dagga and two further unmeasured bags, rather than the
 113 sachets and three packets in the Chronicle account. [@2] Police valued all
 the recovered property, including the stolen cellphones and power banks, at
-US$3,800. [@1,3,4]
+US$3,800. [@1,3,4] The prosecutor told the court the dagga weighed 1,328 kg, the methamphetamine 100 g and the methcathinone 12 g, and put the combined street value of the drugs at ZWG71,280. [@5]
 
-Mpofu was taken to ZRP Donnington and held there. [@1,3,4] Mpofu was expected to appear at the Western Commonage Magistrates’ Court on Wednesday. [@3] Mpofu was expected in court on Wednesday facing charges of unlawful possession of dangerous drugs and possession of suspected stolen property. [@4] At a press conference at
+Mpofu was taken to ZRP Donnington and held there. [@1,3,4] Mpofu was expected to appear at the Western Commonage Magistrates’ Court on Wednesday. [@3] Mpofu was expected in court on Wednesday facing charges of unlawful possession of dangerous drugs and possession of suspected stolen property. [@4] Mpofu appeared before Western Commonage regional magistrate Ms Sibonginkosi Mkandla charged with unlawful dealing in dangerous drugs. [@5] He was not asked to plead and was remanded in custody to 1 December, and was advised to apply for bail at the High Court. [@5] At a press conference at
 Donnington Police Station, Chief Superintendent Lawrence Zhou, officer
 commanding Bulawayo Suburban District, said police arrested Mpofu on Monday and
 recovered 33 cellphones, several power banks and various drugs. [@2] Bulawayo
