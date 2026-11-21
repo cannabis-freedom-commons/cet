@@ -69,6 +69,11 @@ sources:
     publisher: Médio Tejo
     date: 2026-06-15
     language: pt
+  - title: MP acusa rede internacional de tráfico que usava canábis medicinal como fachada
+    url: https://observador.pt/2026/06/15/mp-acusa-rede-internacional-de-trafico-que-usava-canabis-medicinal-como-fachada/
+    publisher: Observador
+    date: 2026-06-15
+    language: pt
 ---
 
 Portugal's Judicial Police ran Operation Erva Daninha, with about 300 inspectors, against a group
@@ -97,15 +102,15 @@ amphetamines, the largest such seizure in the country. [@1,4,7] The park's direc
 ## The accusation
 
 On 22 May prosecutors charged 24 defendants, 13 people and 11 companies, with criminal association for
-trafficking, aggravated narcotics trafficking, money laundering and document forgery. [@4,5,6,7] They
+trafficking, aggravated narcotics trafficking, money laundering and document forgery. [@4,5,6,7,8] They
 describe a network with great logistical and financial power, established in Portugal since 2021 [@4] and
 led by Dutch and Danish citizens who settled there in 2020. [@6] It allegedly bought companies with
 medical-cannabis licences and changed their officers repeatedly to hide its leaders, diverted cannabis to
 the European black market, made fraudulent exports to the Democratic Republic of Congo, Kenya and
 Guinea-Bissau, imported amphetamines for European laboratories, and forged licences, customs declarations
-and import certificates. [@4] Profits were allegedly shared through sham commission contracts, laundered
+and import certificates. [@4,8] Profits were allegedly shared through sham commission contracts, laundered
 through property, tourism and trading companies with Malaysian financiers, and passed through
-cryptoassets before returning to banks. [@4]
+cryptoassets before returning to banks. [@4,8]
 
 Through Smart Nature, whose legal representative Aldo Vidinha is named as a central figure, the group
 allegedly moved at least 6,751 kg of cannabis flower under a medical cover, and through Linnaeuspharma it
