@@ -76,6 +76,11 @@ sources:
     publisher: Andalucía Información
     date: 2026-11-20
     language: es
+  - title: Tribunales.- Absueltos por falta de pruebas dos condenados por el alijo de 1,7 toneladas de hachís en Huelva
+    url: https://www.msn.com/es-es/noticias/otras/tribunales-absueltos-por-falta-de-pruebas-dos-condenados-por-el-alijo-de-17-toneladas-de-hach%C3%ADs-en-huelva/ar-AA2hQUHz
+    publisher: MSN (Europa Press)
+    date: 2026-11-20
+    language: es
 open_questions:
   - The date of the TSJA judgment is not given; 20 November 2026, the date of the reports, stands in for it.
   - The judgment does not say whether it is final or whether a further appeal to the Supreme Court is possible.
@@ -89,12 +94,12 @@ The Andalusian High Court of Justice (TSJA) acquitted two men sentenced to four
 years and three years and nine months over the July 2019 landing of 1,767 kg of
 hashish in the Huelva estuary. [@1,4] The Huelva court had also fined each of them
 2.8 million euros. [@2,4] After the ruling, six of the 15 defendants must serve
-prison terms ranging from four years to three years and six months. [@2,4] The
+prison terms ranging from four years to three years and six months. [@2,4,5] The
 court concluded that the circumstances examined did not meet the evidential
-standard needed to rebut the two men's presumption of innocence. [@3,4]
+standard needed to rebut the two men's presumption of innocence. [@3,4,5]
 
 The case began with a Guardia Civil OCON Sur investigation in spring and summer
-2019 into a network trafficking drugs between Huelva, Cádiz and Málaga. [@1,4] An earlier strand of the investigation centred on a 12-metre rigid boat at the San Juan del Puerto industrial estate, linked to a separate landing of more than 418 kilograms of hashish at Manilva, Málaga. [@4]
+2019 into a network trafficking drugs between Huelva, Cádiz and Málaga. [@1,4,5] An earlier strand of the investigation centred on a 12-metre rigid boat at the San Juan del Puerto industrial estate, linked to a separate landing of more than 418 kilograms of hashish at Manilva, Málaga. [@4,5]
 Investigators traced a patera, a small open boat, taken from Algeciras to a
 finca in Gibraleón, Huelva, and launched at La Rábida. [@1,4] Customs Surveillance
 and the Guardia Civil's maritime service intercepted it in the Huelva estuary on
@@ -103,7 +108,7 @@ collected at sea, was valued at 2.8 million euros on the illegal market, and the
 three crew were detained. [@1]
 
 The Huelva Provincial Court convicted eight of the 15 defendants and acquitted
-seven at first instance. [@1] At first instance the Provincial Court acquitted two defendants whose only involvement was with that warehouse, finding their direct link to the landing unproven, and dismissed both a criminal-group charge and a smuggling charge. [@4] The first appellant, given four years with a
+seven at first instance. [@1,5] At first instance the Provincial Court acquitted two defendants whose only involvement was with that warehouse, finding their direct link to the landing unproven, and dismissed both a criminal-group charge and a smuggling charge. [@4,5] The first appellant, given four years with a
 recidivism aggravating factor, was convicted because the boat was hidden for
 four days on a finca in Gibraleón owned by his parents. [@1] The TSJA said no
 officer placed him at the finca and no communications of his with those who
