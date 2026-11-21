@@ -63,6 +63,11 @@ sources:
     publisher: Sinjali.com
     date: 2026-11-20
     language: sq
+  - title: 'Operación "Taslidža": Cuatro detenidos en Pristina y Gjakova; se incautaron unos 15 kilogramos de marihuana, cocaína, armas y dinero'
+    url: https://kossev.info/es/akcija-taslidze-cetvoro-uhapsenih-u-pristini-i-djakovici-zaplenjeno-oko-15-kilograma-marihuane-kokain-oruzje-i-novac/
+    publisher: KoSSev
+    date: 2026-11-20
+    language: es
 open_questions:
   - The accounts give no separate date for the operation; 20 November 2026 is the publication date and the date of Sveçla's statement.
   - The quantity of cocaine, the amount of cash and the type and number of weapons were not stated, and the cocaine is excluded from the cannabis figures.
@@ -72,13 +77,13 @@ open_questions:
 ---
 
 Kosovo police arrested four people suspected of drug trafficking in an operation
-codenamed Taslixhe. [@1] The operation was carried out at different locations in
+codenamed Taslixhe. [@1,5] The operation was carried out at different locations in
 Pristina and Gjakova, in coordination with the prosecutor's office. [@3]
-Interior Minister Xhelal Sveçla announced the arrests in a Facebook post. [@2]
+Interior Minister Xhelal Sveçla announced the arrests in a Facebook post. [@2,5]
 
-Officers seized about 15 kilograms of marijuana during the searches. [@4] They
+Officers seized about 15 kilograms of marijuana during the searches. [@4,5] They
 also seized an unspecified quantity of cocaine, cash, weapons and ammunition,
-mobile phones and two vehicles. [@2] The minister gave no quantity for the
+mobile phones and two vehicles. [@2,5] The minister gave no quantity for the
 cocaine, no cash amount and no type or number of weapons. [@1] The places
 searched and the identities of the four arrested were not published. [@1]
 
@@ -87,4 +92,3 @@ further about the suspected offences or the next steps in the case. [@1] Sveçla
 described the operation as part of the institutions' continuing fight against
 organised crime and drug trafficking. [@1] He said the security institutions
 would keep acting to guarantee the rule of law throughout Kosovo. [@2]
-
