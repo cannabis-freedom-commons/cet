@@ -48,6 +48,11 @@ media:
     media_url: https://cdn.sananews.sy/2025/11/photo_2025-11-30_21-40-52-scaled-1-1024x683.jpg
     publisher: Syrian Arab News Agency (SANA)
     caption: Hashish seized in the joint Syrian-Iraqi operation, as published by SANA.
+  - kind: photo
+    url: https://thenewregion.com/posts/3820
+    media_url: https://assets.thenewregion.com/posts/hd/1524339247.webp
+    publisher: The New Region
+    caption: 'Hashish confiscated in the joint Iraqi-Syrian operation of 30 November 2025, in the handout photo published with The New Region''s report. Photo: Syrian state media'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 35b20be17a07432aa2c505fb8900d534
@@ -65,24 +70,28 @@ sources:
     url: https://www.thenationalnews.com/news/mena/2025/12/01/iraq-and-syria-seize-drugs-in-joint-operation-to-break-smuggling-networks/
     publisher: The National
     date: 2025-12-01
+  - title: Syria, Iraq arrest two suspected drug traffickers in joint operation
+    url: https://thenewregion.com/posts/3820
+    publisher: The New Region
+    date: 2025-12-01
 open_questions:
-  - No precise seizure location within Syria was published, so the place is recorded as Syria at country precision.
-  - No separate date for the interception was published beyond the 30 November 2025 announcement; that date is used as the incident date.
-  - No names, charges or court outcome for the two suspects were reported.
-  - The three-year breakdown announced by the ministry on 25 November 2025 belongs to a separate announcement and is not part of this raid.
+    - One account places the joint operation in Damascus, while another describes only a unit from Iraq's narcotics directorate deploying into Syrian territory; no more precise site was published.
+    - No separate date for the interception was published beyond the 30 November 2025 announcement; that date is used as the incident date.
+    - No names, charges or court outcome for the two suspects were reported.
+    - The three-year breakdown announced by the ministry on 25 November 2025 belongs to a separate announcement and is not part of this raid.
 ---
 
 The Syrian Narcotics Directorate, working with Iraq's drugs directorate, foiled
 an attempt to smuggle 57 kilograms of hashish in a joint security operation
 announced on 30 November 2025. [@1] Two suspects were arrested during the
-operation. [@1] The seized narcotics were confiscated and those arrested were
-referred to the competent judicial authorities for legal procedures. [@1]
+operation. [@1,4] The joint operation was carried out in Damascus. [@4] The seized narcotics were confiscated and those arrested were
+referred to the competent judicial authorities for legal procedures. [@1,4]
 
 Iraqi intelligence teams acted on accurate intelligence and coordinated with
 Syria's drug control directorate before a unit from Iraq's narcotics directorate
 deployed into Syrian territory. [@2] Iraq's Interior Ministry described those
 held as two international drug traffickers carrying 57 kilograms of hashish they
-planned to bring into Iraqi territory. [@2] Iraq's Interior Ministry likewise
+planned to bring into Iraqi territory. [@2,4] Iraq's Interior Ministry likewise
 said two suspects were arrested in an operation in Syria as part of security and
 intelligence cooperation between the two countries. [@2,3] Those suspects were
 planning to smuggle hashish into Iraqi territory. [@2,3]
