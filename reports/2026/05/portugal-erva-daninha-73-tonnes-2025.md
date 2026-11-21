@@ -74,10 +74,19 @@ sources:
     publisher: Observador
     date: 2026-06-15
     language: pt
+  - title: 'Abrantes: Operação da PJ aconteceu em 2023, MP deduziu acusação a grupo que instalou laboratório de anfetaminas no Tagusvalley'
+    url: https://www.antenalivre.pt/saude/operacao-da-pj-aconteceu-em-2023-mp-deduziu-acusacao-a-grupo-que-instalou-laboratorio-de-anfetaminas-no-tagusvalley
+    publisher: Antena Livre
+    date: 2026-06-16
+    language: pt
+open_questions:
+    - The Antena Livre headline dates the Judicial Police operation to 2023, and the Tagusvalley director said the search came nine months after the company moved in during 2022, while other accounts date the nationwide Erva Daninha raids to May 2025; it is unclear whether these are separate phases.
+    - Expresso, as cited by Antena Livre, reported a first-phase seizure of about 1,200 kilograms of 3-CMC and 3-MMC, while the DCIAP figure used in this report is about one tonne of amphetamines; it is not clear whether these are the same seizure.
+    - Pedro Saraiva told Antena Livre the company applied to produce plastic polymers, while an earlier account said it proposed polymers for the aeronautical and aerospace industry.
 ---
 
 Portugal's Judicial Police ran Operation Erva Daninha, with about 300 inspectors, against a group
-accused of putting large quantities of cannabis on European and African markets. [@2,6,7] In the May 2025
+accused of putting large quantities of cannabis on European and African markets. [@2,6,7,9] Alongside the inspectors, the operation involved 48 experts, 24 Judicial Police security staff, six public prosecutors and three judges. [@9] In the May 2025
 raids officers executed 64 search warrants across mainland Portugal and Madeira, with further searches in
 Spain, Bulgaria and Cyprus, and detained five people, all reported as Portuguese. [@2] A 48-year-old man
 described as one of the leaders was detained in the Netherlands and extradited to Portugal, apparently on
@@ -97,12 +106,12 @@ Authorities suspect profits may have funded terrorism through informal money-tra
 
 Investigators seized about 1.78 tonnes of cannabis at premises in Sardoal and more than 3 tonnes of
 biomass and flower in warehouses. [@5] A laboratory dismantled in central Portugal yielded one tonne of
-amphetamines, the largest such seizure in the country. [@1,4,7] The park's director said Polyfarchemi had presented itself as intending to produce polymers for the aeronautical and aerospace industry, an area of research that interested the park. [@7] One of the network's companies, Polyfarchemi, was based at the Tagusvalley science and technology park in Abrantes, where a Judicial Police search less than a year after it moved in found an industrial laboratory producing amphetamines and transforming cocaine for export to Spain and the Netherlands. [@7]
+amphetamines, the largest such seizure in the country. [@1,4,7] Expresso reported that the investigation began in early 2022 with Spain's National Police and that a first phase seized about 1,200 kilograms of amphetamines identified as 3-CMC and 3-MMC. [@9] The park's director said Polyfarchemi had presented itself as intending to produce polymers for the aeronautical and aerospace industry, an area of research that interested the park. [@7] One of the network's companies, Polyfarchemi, was based at the Tagusvalley science and technology park in Abrantes, where a Judicial Police search less than a year after it moved in found an industrial laboratory producing amphetamines and transforming cocaine for export to Spain and the Netherlands. [@7,9] The accusation names Geert Caers, Reinier de Jong, Benny Falk and Michael Sorensen as the people who set up that laboratory, through a company they created in 2022 and installed in the Tagusvalley accelerator. [@9]
 
 ## The accusation
 
 On 22 May prosecutors charged 24 defendants, 13 people and 11 companies, with criminal association for
-trafficking, aggravated narcotics trafficking, money laundering and document forgery. [@4,5,6,7,8] They
+trafficking, aggravated narcotics trafficking, money laundering and document forgery. [@4,5,6,7,8,9] They
 describe a network with great logistical and financial power, established in Portugal since 2021 [@4] and
 led by Dutch and Danish citizens who settled there in 2020. [@6] It allegedly bought companies with
 medical-cannabis licences and changed their officers repeatedly to hide its leaders, diverted cannabis to
