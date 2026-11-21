@@ -56,16 +56,15 @@ sources:
     url: https://southernmarylandchronicle.com/2026/10/15/thomas-stone-student-charged-thc-vapes-john-hanson-middle/
     publisher: Southern Maryland Chronicle
     date: 2026-10-15
-open_questions:
-  - No weight, liquid volume or THC content was published for the vaping devices, so no cannabis kilograms are recorded.
-  - The reports give no separate date for the bookbag search beyond the investigation after Oct. 13, so Oct. 13 is used as the incident date.
-  - No court outcome beyond the school resource officer's charges was reported.
-  - Figures cover only the 16-year-old Thomas Stone High School student; the unrelated John Hanson Middle School vape recovery involved no announced charge and is not counted.
-  - The two sheriff's-office vehicle photos in the submitted gallery show agency cars, not this seizure, so only the seized-vape photo is listed.
+  - title: Charles County student charged after 30-plus THC vapes found, police say
+    url: https://www.baltimoresun.com/2026/10/18/charles-county-student-thc-vapes/
+    publisher: Baltimore Sun
+    date: 2026-10-18
+    archived: https://web.archive.org/web/20261105045655id_/https://www.baltimoresun.com/2026/10/18/charles-county-student-thc-vapes/
 ---
 
 A 16-year-old Thomas Stone High School student was charged after a search of the
-student's bookbag turned up more than 30 vaping devices containing THC. [@1] A
+student's bookbag turned up more than 30 vaping devices containing THC. [@1,4] A
 school resource officer charged the student with possession with intent to
 distribute drugs and possession of cannabis. [@1] The sheriff's office did not
 name the 16-year-old because the student is a juvenile. [@3] Both students also
@@ -80,8 +79,7 @@ the student. [@1]
 
 In an unrelated incident on Oct. 13, administrators at John Hanson Middle School
 learned that an 11-year-old student had a vaping device, which was recovered and
-tested positive for THC. [@1] The release did not announce charges against the
+tested positive for THC. [@1,4] The release did not announce charges against the
 younger student. [@1] The sheriff's office encouraged parents and guardians to
 speak with their children about the risks of unregulated vaping and THC
 products. [@2]
-
