@@ -66,22 +66,34 @@ sources:
     publisher: Inext
     date: 2026-11-20
     language: hi
+  - title: 'कार से करीब 50 किलो गांजा मिला: लखनऊ में अलीगंज पुलिस और क्राइम ब्रांच की कार्रवाई; अधिकारियों के निर्देशन में कार भी कब्जे में ली'
+    url: https://www.bhaskar.com/local/uttar-pradesh/lucknow/vivekanand-puri-ward-bada-chand-ganj/news/lucknow-aliganj-police-crime-branch-ganja-seizure-car-raid-139745396.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-20
+    language: hi
+  - title: 'कार से करीब 50 किलो गांजा मिला: लखनऊ में अलीगंज पुलिस और क्राइम ब्रांच की कार्रवाई; अधिकारियों के निर्देशन में कार भी कब्जे में ली'
+    url: https://www.bhaskar.com/amp/local/uttar-pradesh/lucknow/vivekanand-puri-ward-bada-chand-ganj/news/lucknow-aliganj-police-crime-branch-ganja-seizure-car-raid-139745396.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-20
+    language: hi
 open_questions:
-  - 'The value of the haul is disputed: Hindi-language reports put it at about 25 lakh rupees, while the Times of India gives 35 lakh; no value is recorded in the figures.'
-  - No charge-sheet, plea or court outcome was reported; the case was at the investigation stage.
-  - Police did not say where in Odisha the cannabis was procured or who the intended buyers were.
-  - The reports describe the material as ganja but do not say whether it was laboratory-confirmed.
+    - 'The value of the haul is disputed: Hindi-language reports put it at about 25 lakh rupees, while the Times of India gives 35 lakh; no value is recorded in the figures.'
+    - No charge-sheet, plea or court outcome was reported; the case was at the investigation stage.
+    - Police did not say where in Odisha the cannabis was procured or who the intended buyers were.
+    - The reports describe the material as ganja but do not say whether it was laboratory-confirmed.
+    - Dainik Bhaskar put the haul at about 50 kg and said official confirmation of the quantity was awaited, while the police figure used here is 48.80 kg.
+    - Dainik Bhaskar describes a joint Aliganj police and Crime Branch operation directed by the Aliganj ACP and station house officer, while the other accounts attribute the arrests to the Crime Branch.
 ---
 
 Police arrested two men on 19 November 2026 near the municipal corporation
 office on Bandha Road. [@3] The arrests were made by the Crime Branch of Lucknow
-Police. [@2] Officers seized 48.80 kg of ganja from the men. [@1]
+Police. [@2] The operation was directed by the Aliganj ACP and the Aliganj station house officer, with the Lucknow crime branch in-charge and the Hazratganj station house officer also involved. [@5] Officers seized 48.80 kg of ganja from the men. [@1]
 
 The cannabis was packed in 43 packets. [@1] The two men were aged 49 and 45,
 police said. [@2] Police said the men brought ganja from Odisha for supply in
 Lucknow and adjoining districts. [@2] Officers also found two mobile phones and
 540 rupees in cash. [@3] Police seized the red car used to transport the
-consignment. [@2]
+consignment. [@2] Police recovered the ganja from a Brezza car and took the vehicle into custody. [@4]
 
 An FIR was registered at Aliganj police station under Case No. 227/2026,
 invoking Sections 8 and 20 of the NDPS Act. [@2] The arrests are part of
@@ -91,4 +103,3 @@ Kiran Yadav said the Crime Branch was investigating the source of the cannabis,
 the transport route, intended buyers and other members of the network. [@2] The
 campaign aims to trace narcotics from source through transport routes to local
 distribution and dismantle the syndicates behind it. [@2]
-
