@@ -84,6 +84,11 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-19
     language: hi
+  - title: कार से पांच लाख का 18 किलो गांजा जब्त यूपी का तस्कर गिरफ्तार, साथी हुआ फरार
+    url: https://www.bhaskar.com/amp/local/jharkhand/gumla/news/18-kg-of-marijuana-worth-rs-5-lakh-seized-from-car-up-smuggler-arrested-partner-absconds-dbp-139740908.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-20
+    language: hi
 media:
   - kind: photo
     url: https://lagatar.in/gumla-news-18-kg-of-ganja-seized-from-a-car-in-gumla
@@ -95,23 +100,26 @@ media:
     media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/19/1795089795697/sizes/19gum_m_20_19112026_11-72eeb4-hero.webp
     publisher: Prabhat Khabar
     caption: 'The arrested accused and the station house officer giving information about the ganja seizure. Photo: Prabhat Khabar Network'
+open_questions:
+  - The submitted account valued the 18 kg at about 5 lakh rupees, at 25,000 to 30,000 rupees a kilogram, while the report's earlier source put the consignment at about 9 lakh rupees.
+  - One account said the car was being taken to Medininagar in Palamu, while the earlier report said the ganja was bound through Palamu for Uttar Pradesh.
 ---
 
-Police arrested Uttar Pradesh resident Prithvi Rana in Gumla. [@2,4,7,8] Police said
-one companion of Rana fled from the spot. [@2,4,6,7] Police registered case number
+Police arrested Uttar Pradesh resident Prithvi Rana in Gumla. [@2,4,7,8,9] Police said
+one companion of Rana fled from the spot. [@2,4,6,7,9] Police registered case number
 444/26 at Gumla police station. [@2,4] Police booked the accused under the NDPS
 Act. [@2] Police identified Rana as a resident of Sapnavat village, Kapurpur,
-Hapur in Uttar Pradesh. [@2,7] Rana told interrogators that his companion had gone
+Hapur in Uttar Pradesh. [@2,7] Police said Rana was a professional smuggler who had earlier been jailed in Uttar Pradesh in a ganja smuggling case. [@9] Rana told interrogators that his companion had gone
 home. [@2] Police said raids were continuing to catch the companion. [@2] The arrested accused was sent to jail in judicial custody after completing the required legal process. [@6,8]
 
 Officers seized 18 kilograms of ganja from a car near the Kharka river in the
-Toto police station area. [@1,4,5,7,8] Police valued the seized ganja at about 9 lakh
+Toto police station area. [@1,4,5,7,8,9] Police valued the seized ganja at about 9 lakh
 rupees. [@1,4,7,8] The team searched a white car. [@2,4,5] Police also seized the white car used in the smuggling, registered UP 80 CC 1369. [@7] Officers found ganja with brown
 tape inside a white plastic sack in the car's dickey. [@2,7] The ganja was packed
-as eighteen one-kilogram packets. [@2,4,6,7,8] The vehicle check followed information
+as eighteen one-kilogram packets. [@2,4,6,7,8,9] The vehicle check followed information
 received by the superintendent of police and took place at about 7:45 pm on the
 previous night. [@3,7] The station house officer said the superintendent of police, Harish bin Zaman, got the tip at about 6:40 pm on 18 November that ganja was being bought, sold and moved illegally in the Toto area. [@7] Gumla SDPO Suresh Prasad Yadav led the check with station
-house officer Dinesh Kumar's team. [@2]
+house officer Dinesh Kumar's team. [@2,9]
 
-SDPO Yadav said the ganja was being brought from Odisha. [@2] Police said it was
+SDPO Yadav said the ganja was being brought from Odisha. [@2] Rana told police they had collected the ganja at Rourkela in Odisha. [@9] Police said it was
 to be taken via Daltonganj in Palamu to Uttar Pradesh. [@2]
