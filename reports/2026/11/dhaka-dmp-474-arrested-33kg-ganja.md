@@ -44,6 +44,11 @@ sources:
     publisher: NTV Online
     date: 2026-11-20
     language: bn
+  - title: ডিএমপির অভিযানে গত ২৪ ঘণ্টায় গ্রেফতার ৪৭৪, মামলা ৪৮
+    url: https://dmpnews.org/%E0%A6%A1%E0%A6%BF%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%97%E0%A6%A4-%E0%A7%A8%E0%A7%AA-%E0%A6%98%E0%A6%A3%E0%A7%8D-142/
+    publisher: ডিএমপি নিউজ (DMP News)
+    date: 2026-11-20
+    language: bn
 open_questions:
   - The 474 arrests and 48 cases cover the whole 24-hour sweep across all alleged offences; how many were linked to cannabis was not stated.
   - The 33 kg 2 g ganja total appears to include the 33 kg that the DMP's Special Response Unit seized from four men in Demra and Banshal the same day, so it is not an additional quantity to that separate report.
@@ -55,19 +60,18 @@ open_questions:
 ---
 
 Dhaka Metropolitan Police arrested 474 people in 24 hours of regular drives
-across the capital and filed 48 cases. [@1] The raids took place on Thursday 19
-November 2026 in different police station areas of Dhaka. [@1] Additional Deputy
+across the capital and filed 48 cases. [@1,3] The raids took place on Thursday 19
+November 2026 in different police station areas of Dhaka. [@1,3] Additional Deputy
 Commissioner Niaz Mehdi of the DMP's Media and Public Relations Division gave
 the figures on Friday 20 November. [@2]
 
-Officers seized 33 kg 2 g of ganja during the drives. [@1] The same drives
+Officers seized 33 kg 2 g of ganja during the drives. [@1,3] The same drives
 recovered 5,720 yaba tablets and five bottles of country liquor, which are
-excluded from the cannabis figures. [@1] Police also seized two hand bombs,
+excluded from the cannabis figures. [@1,3] Police also seized two hand bombs,
 eight knives, two cleavers, a ramda and an auto-rickshaw, plus 111 mobile
-phones. [@1] One victim was rescued during the drives. [@1]
+phones. [@1,3] One victim was rescued during the drives. [@1,3]
 
 Mirpur division recorded the most arrests, with 103, followed by Tejgaon with
 63, Uttara with 53, Wari with 52, Lalbagh with 50, Gulshan with 48, Motijheel
-with 47, Ramna with 40 and the Detective Branch with 18. [@1] Police said legal
-proceedings against those arrested were under way. [@1]
-
+with 47, Ramna with 40 and the Detective Branch with 18. [@1,3] Police said legal
+proceedings against those arrested were under way. [@1,3]
