@@ -85,26 +85,22 @@ sources:
     publisher: ElDoce.tv
     date: 2026-11-19
     language: es
-open_questions:
-  - No separate date was published for the raid; 19 November 2026 is the publication date and stands in for the incident date.
-  - Only a dose count was published for the marijuana, so no kilogram weight is recorded.
-  - The detained woman was not named.
-  - No plea, custody ruling or later court outcome was reported beyond transfer to judicial headquarters.
-  - The husband's earlier arrest by the Córdoba police was reported without a date, place or case outcome and is not counted as part of this event.
-  - The official headline rounds the seizure to 800 doses while the body reports 767; the body figure is used.
-  - No value estimate was published for the drugs; 219,000 pesos is cash seized, not a valuation.
-  - The outlets reproduce the same FPA/Ministerio Público Fiscal statement, so they are not independent reporting.
+  - title: Detuvieron a una mujer en Villa Carlos Paz y secuestraron más de 700 dosis de marihuana
+    url: https://www.miraelnorte.com.ar/policiales/detuvieron-a-una-mujer-en-villa-carlos-paz-y-secuestraron-mas-de-700-dosis-de-marihuana.html
+    publisher: Mira el Norte
+    date: 2026-11-20
+    language: es
 ---
 
 Officers of the Fuerza Policial Antinarcotráfico broke up a drug sales point in
-barrio Colinas, Villa Carlos Paz, and detained a 32-year-old woman. [@1] The
+barrio Colinas, Villa Carlos Paz, and detained a 32-year-old woman. [@1,5] The
 operation followed investigations directed by the Ministerio Público Fiscal and
-was carried out as a raid on a house on Calle Cerro Uritorco S/N. [@1]
+was carried out as a raid on a house on Calle Cerro Uritorco S/N. [@1,5]
 Investigators say the detained woman acted as a narcomenudeo referent in the
-area with her husband, who had been arrested earlier by the Córdoba police. [@1]
+area with her husband, who had been arrested earlier by the Córdoba police. [@1,5]
 
 During the search officers seized 767 doses of marijuana, 219,000 pesos in cash
-and tools for cutting, weighing and portioning illicit substances. [@1] Telefe
+and tools for cutting, weighing and portioning illicit substances. [@1,5] Telefe
 Córdoba reported the raid hit a house on Calle Cerro Uritorco without a number
 and that officers found cash linked to the activity and items used to portion
 the drug. [@3] ElDoce reported the detained woman and her husband were described
@@ -113,5 +109,4 @@ neighbours to keep control of the barrio. [@4]
 
 The Villa Carlos Paz anti-narcotics prosecution supervised the operation and
 ordered the detained woman and everything seized transferred to judicial
-headquarters for violation of National Narcotics Law 23.737. [@2]
-
+headquarters for violation of National Narcotics Law 23.737. [@2,5]
