@@ -43,23 +43,27 @@ sources:
     publisher: Dinamalar
     date: 2026-11-19
     language: ta
+  - title: ரயிலில் கஞ்சா கடத்திய ஒடிஸா பெண் கைது
+    url: https://www.dinamani.com/all-editions/edition-coimbatore/tiruppur/2026/Nov/21/odisha-woman-arrested-for-smuggling-ganja-on-a-train
+    publisher: Dinamani
+    date: 2026-11-21
+    language: ta
 open_questions:
-  - No separate date is given for the patrol and arrest; 19 November 2026 is the article's publication and update date and is used as the incident date.
-  - The ganja was described only as a concealed three-kilogram quantity, with no laboratory confirmation reported.
-  - No charge, court production, plea or further case outcome was reported for the woman.
-  - The account rests on a single Dinamalar report and no independent second source was found.
-  - The woman's name and age are transliterated from the Tamil rendering.
+    - Neither account states a calendar date for the patrol and arrest; 19 November 2026 is used as the incident date, consistent with the Dinamani report placing the patrol on a Thursday before its 21 November publication.
+    - The ganja was described only as a concealed three-kilogram quantity, with no laboratory confirmation reported.
+    - A case was registered and the investigation was continuing, but no charge sheet, court production, plea or final outcome was reported for the woman.
+    - The Dinamani and Dinamalar reports describe the same arrest and appear to draw on the same police information rather than independent reporting.
+    - The woman's name and age are transliterated from the Tamil rendering, with a slight difference between the two accounts.
 ---
 
 Police in Tiruppur, Tamil Nadu, were carrying out monitoring to prevent the
-smuggling and sale of ganja, gutka and other intoxicants in the district. [@1]
+smuggling and sale of ganja, gutka and other intoxicants in the district. [@1,2]
 As part of that effort, Tiruppur North police were on patrol near the city's
-railway station. [@1] During the patrol, officers checked several passengers who
-had got off a train and were behaving in a suspicious manner. [@1]
+railway station. [@1,2] During the patrol, officers checked several passengers who
+had got off a train and were behaving in a suspicious manner. [@1,2]
 
 Among them was a 46-year-old woman from the state of Odisha, identified as
-Jeelela Kumar, whom officers questioned and whose belongings they searched. [@1]
+Jeelela Kumar, whom officers questioned and whose belongings they searched. [@1,2]
 The search established that she had concealed three kilograms of ganja and was
-carrying it away, and the police arrested her. [@1] Officers then seized the
-three kilograms of ganja, described as having been smuggled on the train. [@1]
-
+carrying it away, and the police arrested her. [@1,2] Officers then seized the
+three kilograms of ganja, described as having been smuggled on the train. [@1] In connection with the arrest, police registered a case and the investigation is continuing. [@2]
