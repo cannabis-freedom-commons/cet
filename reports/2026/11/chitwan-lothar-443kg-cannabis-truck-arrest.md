@@ -42,26 +42,29 @@ sources:
     url: https://myrepublica.nagariknetwork.com/news/two-indian-nationals-arrested-with-443-kg-of-cannabis-in-chitwan-17-17.html
     publisher: MyRepublica
     date: 2026-11-20
+  - title: 'Maharajganj News: भारतीय कंटेनर से गांजा बरामद, चालक और सहचालक गिरफ्तार'
+    url: https://www.amarujala.com/uttar-pradesh/maharajganj/the-plan-was-to-bring-it-into-india-via-the-sonauli-border-it-was-intercepted-by-police-during-a-check-in-chitwan-nepal-maharajganj-news-c-206-1-mhg1013-189633-2026-11-21
+    publisher: Amar Ujala
+    date: 2026-11-21
+    language: hi
 open_questions:
-  - No separate date is given for the vehicle inspection or arrests; 20 November 2026, the article's publication date and dateline, is used as the incident date.
-  - No charge, remand decision or court outcome was reported after the arrests; police said only that investigation continued.
-  - The load was described only as 443 kg of cannabis, with no laboratory confirmation or more specific product stated.
-  - The account rests on a single news report; no police statement or independent account was available to corroborate the figure.
+    - No charge, remand decision or court outcome was reported after the arrests; an FIR was registered and legal action was said to be under way.
+    - The load was described only as 443 kg of cannabis, with no laboratory confirmation or more specific product stated.
+    - Both news accounts give the same figures, names and details and appear to draw on the same police information, and the police statement itself was not available, so the figure lacks independent corroboration.
 ---
 
 Police arrested two Indian nationals in Chitwan after recovering 443 kilograms
-of cannabis concealed in a false compartment of an Indian container truck. [@1]
+of cannabis concealed in a false compartment of an Indian container truck. [@1,2]
 The arrests were made during a vehicle inspection at a police checkpoint in
-Lothar, Rapti Municipality-1, Chitwan. [@1] The driver was 24-year-old Satyam
-Kumar, a resident of Charkhaje in India's Vaishali district. [@1] The co-driver
-was 20-year-old Raunak Kumar, from Baban Ghat in the same district. [@1]
+Lothar, Rapti Municipality-1, Chitwan. [@1,2] The vehicle inspection took place on a Friday. [@2] The driver was 24-year-old Satyam
+Kumar, a resident of Charkhaje in India's Vaishali district. [@1,2] The co-driver
+was 20-year-old Raunak Kumar, from Baban Ghat in the same district. [@1,2]
 
 A joint police team from the Bhandara Area Police Office and the Lothar
 Temporary Police Post stopped the truck, which bore Indian registration number
 NL 0107792 and was travelling from Hetauda towards Chitwan. [@1] During the
 inspection officers found the 443 kilograms of cannabis hidden in a false
-compartment built into the cabin behind the driver's seat. [@1]
+compartment built into the cabin behind the driver's seat. [@1,2]
 
 Police said further investigation was under way into the alleged trafficking and
-trade of cannabis. [@1]
-
+trade of cannabis. [@1] The officer said an FIR was registered in the case and the necessary legal action was under way. [@2] Chitwan police DSP and information officer Chandra Bhushan Yadav said the two arrested Indian nationals were planning to take a ganja consignment into India. [@2]
