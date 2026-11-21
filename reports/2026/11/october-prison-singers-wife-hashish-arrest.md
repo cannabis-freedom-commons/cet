@@ -130,6 +130,11 @@ sources:
     publisher: مصراوي
     date: 2026-11-20
     language: ar
+  - title: «معرفش اللي جواها».. ننشر أقوال زوجة إسلام كابونجا في واقعة تهريب المخدرات
+    url: https://www.dostor.org/5784993
+    publisher: جريدة الدستور
+    date: 2026-11-20
+    language: ar
 media:
   - kind: photo
     url: https://www.masrtimes.com/779443
@@ -150,10 +155,10 @@ visit goods for her husband, and officers searched those goods during the visit.
 [@1,5,10,11,15] The suspected drugs were hidden professionally inside a bag to evade monitoring. [@5]
 
 The search found four Nokia mobile phones, one large piece of hashish and 52
-tramadol pills. [@1,2,3,4,6,7,8,9,10,12,14,17,18,19,21,22] The hashish was described as weighing about 2 grams. [@22] The seized phones were Nokia handsets, the hashish was
+tramadol pills. [@1,2,3,4,6,7,8,9,10,12,14,17,18,19,21,22,23] The hashish was described as weighing about 2 grams. [@22,23] The seized phones were Nokia handsets, the hashish was
 described as a large piece and the tramadol as narcotic pills intended to be
 brought to her husband. [@1] The four seized Nokia phones were small Afreto models without cameras or SIM cards. [@6,16,17] When confronted, she admitted that she possessed
 the seized items in order to bring them in to her husband. [@1,2,4,7,8,9,15,19] In this account she denied knowing about the seized items and said she had received the bag from a 29-year-old driver named Khalil from al-Warraq to take to her husband for use in prison. [@6,12,16,17,22]
 
 Police filed a report on the incident after the arrest at the correction centre.
-[@1,3,5,7] Officers placed the pills in an empty yellow Merit cigarette pack and then placed all the seized items in a white envelope for presentation to the prosecution. [@16,17] The seizure report was drafted on 18 November 2026. [@12,16,17] The prosecution took over the investigation of the case. [@1,2,4,6,7,8,9,10,11,12,14,15,18,19] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3,19] Investigators were asked to determine whether other people had helped prepare the seized items or facilitated the smuggling attempt. [@19,22] The prosecution ordered the four mobile phones impounded and sent to the technical authorities to examine their contents, call logs and messages. [@19,22] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5,19,22] The prosecution also asked to hear from the officials responsible for search and security procedures at the centre. [@19,22] The Giza investigation authorities then ordered her release on bail of 10,000 Egyptian pounds pending the investigations. [@22]
+[@1,3,5,7] Officers placed the pills in an empty yellow Merit cigarette pack and then placed all the seized items in a white envelope for presentation to the prosecution. [@16,17] The seizure report was drafted on 18 November 2026. [@12,16,17] The prosecution took over the investigation of the case. [@1,2,4,6,7,8,9,10,11,12,14,15,18,19] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3,19,23] Investigators were asked to determine whether other people had helped prepare the seized items or facilitated the smuggling attempt. [@19,22] The prosecution ordered the four mobile phones impounded and sent to the technical authorities to examine their contents, call logs and messages. [@19,22,23] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5,19,22] The prosecution also asked to hear from the officials responsible for search and security procedures at the centre. [@19,22] The Giza investigation authorities then ordered her release on bail of 10,000 Egyptian pounds pending the investigations. [@22,23]
