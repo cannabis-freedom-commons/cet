@@ -27,6 +27,12 @@ sources:
     locator: >-
       19 June 2025; 13 kg Hela; 10 kg Tapini; 5 May Air Sanga flight; National Airports Corporation
       and Seven Mile officers
+  - title: 600kg of fake cigarettes and cannabis destroyed
+    url: https://www.thenational.com.pg/600kg-of-fake-cigarettes-and-cannabis-destroyed/
+    publisher: The National
+    date: 2025-06-26
+open_questions:
+    - The June 2025 destruction account does not say which of the batches seized at the airport were among the exhibits burned.
 ---
 
-Police reported arresting a couple and a taxi driver from Hela with 13 kg of marijuana that had arrived from the Highlands, and finding about 10 kg left unattended after a flight from Tapini. They were also investigating more than eight bags that arrived on an Air Sanga flight in May and disappeared from the terminal with the help of airport and police officers. The deputy commissioner said some officers were involved and that airline, customs and security agencies needed to work together. [@1]
+Police reported arresting a couple and a taxi driver from Hela with 13 kg of marijuana that had arrived from the Highlands, and finding about 10 kg left unattended after a flight from Tapini. They were also investigating more than eight bags that arrived on an Air Sanga flight in May and disappeared from the terminal with the help of airport and police officers. The deputy commissioner said some officers were involved and that airline, customs and security agencies needed to work together. [@1] Some of the marijuana seized at Jackson International Airport after being left unattended was among the exhibits burned outside Port Moresby when the National Drugs and Vice Squad destroyed its cannabis holdings in June 2025, the officer in charge said. [@2]
