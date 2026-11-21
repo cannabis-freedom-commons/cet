@@ -53,32 +53,47 @@ sources:
     publisher: 뉴스1
     date: 2026-11-21
     language: ko
+  - title: '"저 사람 주머니에 대마 넣어"…지인 누명 씌우려던 60대 남성 집유'
+    url: https://www.mt.co.kr/index.php/society/2026/11/21/2026112109021113056
+    publisher: 머니투데이
+    date: 2026-11-21
+    language: ko
+  - title: 처벌목적 대마 지인 주머니에 넣도록 사주혐의 60대 집유
+    url: https://mobile.newsis.com/view/NISX20261121_0003877611
+    publisher: 뉴시스
+    date: 2026-11-21
+    language: ko
+  - title: “주머니에 대마 넣고 와라”…지인 누명 씌우려던 60대 집유
+    url: https://www.donga.com/news/Society/article/all/20261121/135064535/1
+    publisher: 동아일보
+    date: 2026-11-21
+    language: ko
 open_questions:
   - The article gives no separate date for the sentencing hearing; 21 November 2026 is the date the court announced the sentence and the article's publication date, and is used as the incident date.
   - The offence date is given only as early February 2026; no exact day is reported.
   - The defendant is identified only by the initial A and his age, 69; the two other people involved are identified only as B and C.
   - The report gives no value estimate for the 0.1 grams of cannabis.
   - Whether prosecutors appealed the suspended sentence is not reported.
+  - One account gives the defendant's age as 69, while the other two describe him only as a man in his 60s.
 ---
 
 A 69-year-old man who runs a game arcade in Chuncheon was given a suspended
 prison sentence for handing cannabis to another person to plant on an
-acquaintance. [@1] The Chuncheon District Court said on 21 November 2026 that
+acquaintance. [@1,2] The Chuncheon District Court said on 21 November 2026 that
 its Criminal Division 3, judge Park Dong-wook, sentenced the man, identified
-only as A, to eight months in prison suspended for two years. [@1] The court
-also ordered 120 hours of community service. [@1] He was tried on a charge of
-violating the Narcotics Control Act over cannabis. [@1]
+only as A, to eight months in prison suspended for two years. [@1,2] The court
+also ordered 120 hours of community service. [@1,3] He was tried on a charge of
+violating the Narcotics Control Act over cannabis. [@1,3]
 
 Early in February 2026 he handed a paper containing 0.1 grams of cannabis to a
-customer he knew as B, on the stairs of his arcade in Chuncheon. [@1]
+customer he knew as B, on the stairs of his arcade in Chuncheon. [@1,3]
 Investigators found he acted to have C, a man he had quarrelled with over money,
 criminally punished: he told B to put the cannabis in C's clothing pocket and
-then tried to report it to the 112 police emergency line. [@1]
+then tried to report it to the 112 police emergency line. [@1,3]
 
 At trial A admitted handing over the cannabis but denied that he meant to have C
-punished. [@1] The court rejected that claim, citing B's consistent statements
+punished. [@1,4] The court rejected that claim, citing B's consistent statements
 during the investigation that he received the cannabis from A with instructions
-to put it in C's pocket. [@1] The court said he handed over the cannabis to get
+to put it in C's pocket. [@1,2] The court said he handed over the cannabis to get
 C punished and that the offence was of poor quality in view of its motive,
-circumstances and method. [@1]
-
+circumstances and method. [@1,2]
