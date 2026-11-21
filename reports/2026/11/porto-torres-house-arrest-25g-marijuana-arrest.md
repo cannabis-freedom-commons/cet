@@ -68,26 +68,31 @@ sources:
     publisher: SassariToday
     date: 2026-11-19
     language: it
+  - title: 'Pistola modificata, machete e marijuana: arrestato a Porto Torres'
+    url: https://www.sassarioggi.it/porto-torres/pistola-modificata-machete-marijuana-arrestato-porto-torres-19-novembre-2026/
+    publisher: Sassari Oggi
+    date: 2026-11-19
+    language: it
 open_questions:
-  - The overnight operation spanned 13-14 November 2026; 14 November is used as the incident date.
-  - No name or age for the arrested man was published.
-  - No laboratory confirmation for the 25 grams described as marijuana was reported.
-  - No court outcome beyond transfer to Sassari-Bancali prison pending a validation hearing was reported.
+    - The overnight operation spanned 13-14 November 2026; 14 November is used as the incident date.
+    - No name or age for the arrested man was published.
+    - No laboratory confirmation for the 25 grams described as marijuana was reported.
+    - A validation hearing was described as scheduled for 19 November 2026, the day these accounts appeared, but no result of that hearing was reported.
 ---
 
 Carabinieri of the Radiomobile unit of the Porto Torres company arrested in the
 act a man who was already under house arrest during the night between Friday 13
 and Saturday 14 November 2026. [@3,4] The Carabinieri described him as strongly
 suspected of unlawful possession of a clandestine weapon and possession of drugs
-for the purpose of dealing. [@2,4]
+for the purpose of dealing. [@2,4,5]
 
 During a routine check at his home, his behaviour and a strong smell of
-marijuana prompted officers to carry out a thorough search of the dwelling. [@1,4]
+marijuana prompted officers to carry out a thorough search of the dwelling. [@1,4,5]
 In the search officers found a calibre-8 blank pistol without its red muzzle cap
-and with clear signs of work intended to make it usable. [@1,4] They also seized a
+and with clear signs of work intended to make it usable. [@1,4,5] They also seized a
 contact electric stun gun, a 60-centimetre machete, a container holding 25 grams
-of marijuana and a precision scale. [@1,4]
+of marijuana and a precision scale. [@1,4,5]
 
-Officers took the man to the Porto Torres company barracks for formalities. [@2,4]
+Officers took the man to the Porto Torres company barracks for formalities. [@2,4,5]
 Informed immediately, the judicial authority ordered his transfer to
-Sassari-Bancali prison, where he was to await a validation hearing. [@3,4]
+Sassari-Bancali prison, where he was to await a validation hearing. [@3,4,5]
