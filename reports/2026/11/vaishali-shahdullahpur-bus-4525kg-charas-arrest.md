@@ -58,33 +58,42 @@ sources:
     publisher: Dainik Jagran
     date: 2026-11-20
     language: hi
+  - title: बिहार बना ड्रग्स कॉरिडोर! नेपाल से पुणे ले जाई जा रही 4 करोड़ से ज्यादा की चरस DRI ने वैशाली में पकड़ी
+    url: https://navbharattimes.indiatimes.com/state/bihar/patna/dri-recovered-charas-worth-more-than-four-crore-rupees-in-vaishali/articleshow/136010109.cms
+    publisher: Navbharat Times
+    date: 2026-11-20
+    language: hi
 open_questions:
     - The year 2026 for the 18 November seizure is inferred from the 19 November 2026 publication; no calendar year is stated in the seizure account.
-    - No name, age, residence or plea was reported for the arrested man, and no remand or court outcome were reported.
-    - Officers identified the substance as charas with a field-testing kit; no laboratory confirmation was reported.
+    - No name, age, residence or plea was reported for the arrested man, and no remand or court outcome was reported.
+    - No laboratory confirmation of the suspected charas was reported.
     - The Rs 4.525 crore figure is the DRI's estimated illicit-market valuation, not an adjudicated value.
     - The reported bus registration BR-06-PC-8744 closely matches the bus registration in the separate 5 November Muzaffarpur seizure, but the reports give different dates, places, packet counts and weights, and no link between the two interceptions was stated.
-    - Dainik Jagran reported that three men were arrested, including the courier's handler and the gang's leader, while the other accounts confirmed one arrest; the report records the single confirmed arrest.
-    - Dainik Jagran placed the operation in Muzaffarpur district, while the other accounts placed the interception at Shahdullahpur in Vaishali district.
+media:
+  - kind: photo
+    url: https://navbharattimes.indiatimes.com/state/bihar/patna/dri-recovered-charas-worth-more-than-four-crore-rupees-in-vaishali/articleshow/136010109.cms
+    media_url: https://static.langimg.com/nbt/thumb/136012478/bihar-drugs-smuggling.jpg?imgsize=135292&width=700&height=394&resizemode=75
+    publisher: Navbharat Times
+    caption: The charas that DRI said it seized in Vaishali, published with the report under the caption 'डीआरआई ने जब्त की यही चरस'.
 ---
 
 Officers of the Directorate of Revenue Intelligence in Patna arrested a man in
 Vaishali district, Bihar, over an alleged operation smuggling charas from Nepal
-to Pune, Maharashtra. [@1,2] The operation was carried out jointly by the DRI and the Bihar Police Special Task Force. [@3] The DRI said the seizure was made on 18 November 2026
+to Pune, Maharashtra. [@1,2,4] The operation was carried out jointly by the DRI and the Bihar Police Special Task Force. [@3] The DRI said the seizure was made on 18 November 2026
 after intelligence that a gang was moving high-quality charas from Nepal to Pune
 via Hajipur for onward travel on the Supaul-Pune Express. [@1,2]
 
 Acting on the intelligence, a DRI team intercepted a bus bearing registration
 number BR-06-PC-8744 near Ram Udar Central School on NH 139W at Shahdullahpur in
-Vaishali district. [@1,2] During a search of the suspect's bag, officers recovered
-10 packets containing 4.525 kg of charas. [@1,2,3] The black substance in the packets was identified as charas with a field-testing kit. [@3] The DRI put the illicit-market
-value of the 4.525 kg at an estimated Rs 4.525 crore. [@1,2]
+Vaishali district. [@1,2,4] During a search of the suspect's bag, officers recovered
+10 packets containing 4.525 kg of charas. [@1,2,3,4] The black substance in the packets was identified as charas with a field-testing kit. [@3] The DRI put the illicit-market
+value of the 4.525 kg at an estimated Rs 4.525 crore. [@1,2,4]
 
 According to the DRI, the arrested man told investigators that the contraband
-had been smuggled from Nepal and was intended to be delivered in Pune. [@1] The
+had been smuggled from Nepal and was intended to be delivered in Pune. [@1,4] The
 suspected route reportedly involved transporting the drugs through Hajipur
-before onward movement by train on the Supaul-Pune Express. [@1] The charas was
+before onward movement by train on the Supaul-Pune Express. [@1,4] The charas was
 seized and the accused was arrested under provisions of the Narcotic Drugs and
-Psychotropic Substances Act, 1985. [@1,2] Further investigation was under way to
+Psychotropic Substances Act, 1985. [@1,2,4] Further investigation was under way to
 identify other members of the suspected smuggling network and establish the full
-chain of transportation and delivery. [@1,2,3]
+chain of transportation and delivery. [@1,2,3,4]
