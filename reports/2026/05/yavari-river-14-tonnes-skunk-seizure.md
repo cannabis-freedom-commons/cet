@@ -58,6 +58,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/D7APIWTCDJGMJAZN6NN47CSRFE.jpg?auth=4294920860aa67985ab131b6aee9b56114c34efd1aa76bd8ef4089445ab45351&smart=true&width=350&height=197&quality=85
     publisher: Infobae
     caption: 'The intervention in Mariscal Ramón Castilla that weakened the logistics of the criminal networks. Photo: Ministerio de Defensa del Perú'
+  - kind: photo
+    url: https://correodelsur.com/mundo/20260507/peru-y-brasil-incautan-nueve-toneladas-de-droga-en-operativo-conjunto-en-triple-frontera.html
+    media_url: https://cdn.correodelsur.com/img/contents/images_980/2026/05/07/3adf77b4-95f9-4df1-a871-84c9d9eedf48.jpg
+    publisher: Correo del Sur
+    caption: 'Handout photo distributed by Peru''s Joint Command of the Armed Forces with the announcement of the Yavarí river operation. Photo: @CCFFAA_PERU'
 sources:
   - title: Fuerzas del orden de Perú y Brasil incautan cerca de 9 toneladas de droga y armamento en la triple frontera
     url: https://www.gob.pe/institucion/mindef/noticias/1388552-fuerzas-del-orden-de-peru-y-brasil-incautan-cerca-de-9-toneladas-de-droga-y-armamento-en-la-triple-frontera
@@ -84,13 +89,20 @@ sources:
     publisher: Agencia Andina
     date: 2026-05-07
     language: es
+  - title: Perú y Brasil incautan nueve toneladas de droga en operativo conjunto en triple frontera
+    url: https://correodelsur.com/mundo/20260507/peru-y-brasil-incautan-nueve-toneladas-de-droga-en-operativo-conjunto-en-triple-frontera.html
+    publisher: Correo del Sur
+    date: 2026-05-07
+    language: es
+open_questions:
+    - No arrests were reported in the operation.
 ---
 
 Peruvian police and armed forces working with Brazilian troops seized a large
 marijuana consignment on the banks of the Yavarí river, in Peru's Loreto region,
 as part of a joint operation against drug trafficking in the Amazon triple
-border area. [@1,3,4,5] The joint deployment was named Operación Espejo Mayo 2026. [@4,5] Peru's defence ministry said about eight tonnes of marijuana
-were taken on 6 May, the second day of the operation. [@1,4,5] On 5 May, the first day, officers seized 985 kilograms of narcotics, destroyed a makeshift laboratory and removed chemicals, weapons and materials used by illegal organisations. [@4,5] The marijuana was
+border area. [@1,3,4,5] The joint deployment was named Operación Espejo Mayo 2026. [@4,5,6] Peru's defence sector coordinated the intervention through its Amazon Operational Command and the PUMA Unified Command with the National Police and its anti-drug directorate, the air force, the navy and Brazilian army units, state agency Andina reported. [@6] Peru's defence ministry said about eight tonnes of marijuana
+were taken on 6 May, the second day of the operation. [@1,4,5,6] On 5 May, the first day, officers seized 985 kilograms of narcotics, destroyed a makeshift laboratory and removed chemicals, weapons and materials used by illegal organisations. [@4,5,6] The marijuana was
 found on the banks of the Javari, the river marking this stretch of the
 Brazil-Peru border, on Peruvian territory. [@2]
 
@@ -100,6 +112,6 @@ skunk-type marijuana. [@2,3] Soldiers also reported finding four .22 rifles, a
 ballistic vests with the load. [@2,3]
 
 Peruvian officers also destroyed a large drug laboratory and illegal camps
-during the operation, according to the defence ministry. [@1,4,5]
+during the operation, according to the defence ministry. [@1,4,5,6]
 
 The dismantled production camps were located at Quebrada Zacambú and the community of Limones. [@3] The camps had advanced infrastructure for drying and pressing creepy-type marijuana. [@3] A Brazilian Navy vessel moved the 14 tonnes to the headquarters for custody after the official weighing was completed. [@3] After binational protocols, the whole consignment was to be repatriated to Peru for final incineration under Dirandro surveillance. [@3]
