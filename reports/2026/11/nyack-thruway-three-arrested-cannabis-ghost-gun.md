@@ -50,6 +50,10 @@ sources:
     url: https://dailyvoice.com/article/8-pounds-of-marijuana-ghost-gun-found-during-traffic-stop-on-i-87-in-rockland-county-nysp/
     publisher: Daily Voice
     date: 2026-11-19
+  - title: Three arrested on gun, drug charges in Nyack
+    url: https://www.newportdispatch.com/2026/11/19/three-arrested-on-gun-drug-charges-in-nyack/
+    publisher: Newport Dispatch
+    date: 2026-11-19
 open_questions:
     - The weight was reported only as approximately eight pounds of cannabis, with no exact measured figure or laboratory confirmation published.
     - No value estimate for the cannabis was published.
@@ -66,26 +70,26 @@ media:
 
 Three Brooklyn residents were arrested on the afternoon of Sunday, 15 November
 2026, after a New York State Police traffic stop on the New York State Thruway
-near Nyack. [@1,2] Troopers assigned to Troop T in Tarrytown stopped a 2014
+near Nyack. [@1,2,3] Troopers assigned to Troop T in Tarrytown stopped a 2014
 Infiniti sedan traveling northbound on I-87 shortly after 4:00 p.m. for vehicle
-and traffic law violations. [@1] The driver, Keyon Shakiel Williams, 20, of
+and traffic law violations. [@1,3] The driver, Keyon Shakiel Williams, 20, of
 Brooklyn, was charged with second-degree criminal possession of cannabis
 involving more than five pounds, second-degree criminal possession of a forged
 instrument, second-degree criminal possession of a loaded firearm and
 fourth-degree criminal possession of a ghost gun, along with traffic violations.
-[@1] Passengers Jeremiah Dorien Swaby, 19, and an 18-year-old man, both of
+[@1,3] Passengers Jeremiah Dorien Swaby, 19, and an 18-year-old man, both of
 Brooklyn, were each charged with second-degree criminal possession of cannabis,
 second-degree criminal possession of a loaded firearm and fourth-degree criminal
-possession of a ghost gun. [@1] A ghost gun is an unserialized firearm; here it
-was a loaded 9mm handgun recovered with a loaded magazine. [@1]
+possession of a ghost gun. [@1,3] A ghost gun is an unserialized firearm; here it
+was a loaded 9mm handgun recovered with a loaded magazine. [@1,3]
 
 During the stop troopers found approximately eight pounds (about 3.63 kg) of
 cannabis, the unserialized loaded 9mm handgun, a loaded magazine and a
-fraudulent driver's license, State Police said. [@1,2] All three were taken to the
+fraudulent driver's license, State Police said. [@1,2,3] All three were taken to the
 State Police barracks in Tarrytown for processing and arraigned in Orangetown
-Town Court. [@1,2] After arraignment all three were remanded to Rockland County
+Town Court. [@1,2,3] After arraignment all three were remanded to Rockland County
 Jail, with bail set for each at 20,000 dollars cash, 50,000 dollars bond or
-100,000 dollars partially secured bond. [@1,2]
+100,000 dollars partially secured bond. [@1,2,3]
 
 The defendants are scheduled to return to Orangetown Town Court on Friday,
-November 20. [@1,2]
+November 20. [@1,2,3]
