@@ -52,24 +52,25 @@ sources:
     publisher: APS - Agence de Presse Sénégalaise
     date: 2026-03-17
     language: fr
+  - title: 'Trafic de drogue à Sédhiou : 179 kg de chanvre indien saisis , un convoyeur arrêté'
+    url: https://www.dakaractu.com/Trafic-de-drogue-a-Sedhiou-179-kg-de-chanvre-indien-saisis--un-convoyeur-arrete_a270060.html
+    publisher: Dakaractu
+    date: 2026-03-16
+    language: fr
 open_questions:
-  - The two opened sources do not publish the suspect's name, age or nationality.
-  - No court outcome was reported; police said investigations were continuing to arrest the remaining network.
-  - The police communiqué cited by Pressafrik was not opened directly; only the two news accounts were read.
-  - The APS dispatch is dated 17 March and gives no separate date for the interception, so the 15 March incident date rests on the earlier sources.
-  - 'Left out, as its quotation was not found in APS - Agence de Presse Sénégalaise: The seizure comprised two sisal sacks holding 30 kg and four further sacks holding 149 kg.'
+    - No court outcome was reported; police said investigations were continuing to arrest the remaining network.
 ---
 
 On 15 March 2026, officers of Sédhiou's Regional Drugs Squad, a unit of OCRTIS,
 arrested a courier accused of moving cannabis between Senegal and Guinea-Bissau.
-[@1] The man was placed in custody at Sédhiou central police station for
+[@1] The man was identified as Matar Diamanka, 27, a resident of Bafatá in Guinea-Bissau. [@4] The man was placed in custody at Sédhiou central police station for
 criminal association, possession and international drug trafficking, and
 remained available to the courts. [@1] His shouts during the interception
 alerted his accomplices, who fled and abandoned their loads. [@1,3] Police said
 inquiries were continuing to dismantle the whole network. [@1]
 
 Officers seized a total of 179 kg of cannabis, described as the so-called green
-variety packed in one-kilogram bricks. [@2,3] The seizure comprised two sisal
+variety packed in one-kilogram bricks. [@2,3,4] The seizure comprised two sisal
 sacks holding 30 kg and four further sacks holding 149 kg. [@1] Officers also
 recovered bicycles abandoned with their loads by the fleeing couriers. [@2]
 
@@ -78,6 +79,6 @@ carry large quantities of cannabis between North Sindian in Senegal and Bafatá
 in Guinea-Bissau. [@1,3] Officers set up a covert surveillance stakeout in the
 Kamoya sector to intercept the convoy. [@2] Investigators said the consignment
 had come from North Sindian. [@2] The arrested man admitted acting as a courier
-for a sponsor in exchange for 150,000 FCFA on delivery. [@1,3]
+for a sponsor in exchange for 150,000 FCFA on delivery. [@1,3,4]
 
 Kamoya is a village located 5 km from Marsassoum. [@3] Officers seized three other bicycles with the loads abandoned by the fleeing couriers. [@3]
