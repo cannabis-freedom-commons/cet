@@ -41,6 +41,11 @@ media:
     media_url: https://bogota.gov.co/sites/default/files/styles/1050px/public/2026-11/escondian-27-kilos-de-droga-en-mercancia-de-aseo-aeropuerto-el-dorado.png
     publisher: Bogota.gov.co
     caption: 'Police officers and a sniffer dog with the marijuana seized at El Dorado airport, in the handout photo published with the Bogotá police statement. Photo: Policía de Bogotá'
+  - kind: photo
+    url: https://periodismopublico.com/hallan-mas-de-27-kilos-de-marihuana-escondidos-en-productos-de-aseo-en-el-dorado
+    media_url: https://periodismopublico.com/wp-content/uploads/2026/11/Hallan-mas-de-27-kilos-de-marihuana-escondidos-en-productos-de-aseo-en-El-Dorado.jpg
+    publisher: Periodismo Público
+    caption: 'Police handout photo published with the account of the 27 kg marijuana seizure at El Dorado airport. Photo: Policía Metropolitana de Bogotá'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 8ef9e23e8813de07264a68ae13fcbfdf
@@ -61,6 +66,11 @@ sources:
     publisher: Publimetro Colombia
     date: 2026-11-20
     language: es
+  - title: Hallan más de 27 kilos de marihuana escondidos en productos de aseo en El Dorado
+    url: https://periodismopublico.com/hallan-mas-de-27-kilos-de-marihuana-escondidos-en-productos-de-aseo-en-el-dorado
+    publisher: Periodismo Público
+    date: 2026-11-20
+    language: es
 open_questions:
   - No date is given for either airport inspection; 20 November 2026 is the publication date of the police statement and of its coverage, and is used as the incident date.
   - The cargo shipment's weight is given only as more than 27 kilograms; the recorded 27.215 kilograms combines it with the 215 grams found in the woman's shoes, which police reported as a separate seizure.
@@ -75,21 +85,20 @@ open_questions:
 
 Police at El Dorado international airport in Bogotá reported two marijuana
 seizures, one at the Puente Aéreo and one in the cargo warehouses for domestic
-shipments. [@1] At the Puente Aéreo they arrested a woman on suspicion of
-manufacturing, trafficking and possessing narcotics. [@1] Officers followed her
+shipments. [@1,4] At the Puente Aéreo they arrested a woman on suspicion of
+manufacturing, trafficking and possessing narcotics. [@1,4] Officers followed her
 on security cameras to the access filters and, after stopping and searching her,
-found 215 grams of marijuana hidden in the insoles of her shoes. [@1]
+found 215 grams of marijuana hidden in the insoles of her shoes. [@1,4]
 
 The airport police station said the shipment was found in the warehouses for
 domestic cargo and that the sniffer dog Jeico alerted officers during an
-inspection there. [@2] Inside boxes said to contain cleaning products, officers
+inspection there. [@2,4] Inside boxes said to contain cleaning products, officers
 found 20 packages holding more than 27 kilograms of marijuana addressed to
-Leticia. [@1] No one was reported arrested over the cargo shipment, and the
+Leticia. [@1,4] No one was reported arrested over the cargo shipment, and the
 investigation into it continued. [@3]
 
 The woman and the marijuana seized with her were left at the disposal of the
-competent authority. [@1] Publimetro reported that although both cases happened
+competent authority. [@1,4] Publimetro reported that although both cases happened
 in the same terminal, they were independent incidents. [@3] The Bogotá
 Metropolitan Police said it had seized more than 7 tonnes of marijuana in the
-city so far in 2026. [@1]
-
+city so far in 2026. [@1,4]
