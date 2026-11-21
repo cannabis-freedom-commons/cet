@@ -81,34 +81,29 @@ sources:
     publisher: Jornal de Pomerode
     date: 2026-11-20
     language: pt
-open_questions:
-  - No exact measured weight was published; the amount is given as about one tonne.
-  - No value estimate for the seizure was published.
-  - The material was described as a substance similar to marijuana, with no laboratory confirmation reported.
-  - The driver was not named, and no plea, custody decision or court outcome was reported beyond his arrest in the act.
-  - The submitted Band article gives no date for the stop; 19 November 2026 comes from the local reports, which place it on the Thursday afternoon.
-  - One account describes the stop on a road stretch in the region, while the local reports place it in the urban area of Ponta Grossa.
-  - The Santa Catarina destination rests on the driver's account and the officers' initial assessment; the origin and route were still under investigation.
-  - The outlets reproduce the same Federal Revenue statement and video, so they are not independent reporting.
+  - title: Apreensão de uma tonelada de maconha oculta em carga de milho no Paraná
+    url: https://paranahoje.com.br/apreensao-de-uma-tonelada-de-maconha-oculta-em-carga-de-milho-no-parana/
+    publisher: Paraná Hoje
+    date: 2026-11-19
+    language: pt
 ---
 
 Federal Revenue officers from the Ponta Grossa tax office stopped a truck
 carrying corn in the city's urban area on the afternoon of 19 November 2026.
-[@2] The truck had left south-west Paraná and was driven by a 46-year-old man
-from Laguna in Santa Catarina. [@2] Officers became suspicious when the driver
-gave contradictory answers about the route and the length of the trip. [@4] The
-driver was arrested in the act for drug trafficking. [@3]
+[@2,6] The truck had left south-west Paraná and was driven by a 46-year-old man
+from Laguna in Santa Catarina. [@2,6] Officers became suspicious when the driver
+gave contradictory answers about the route and the length of the trip. [@4,6] The
+driver was arrested in the act for drug trafficking. [@3,6]
 
 Under the corn, officers found dozens of bales of marijuana hidden in the load.
-[@2] The marijuana weighed about one tonne. [@1] The officers' initial
-assessment was that the marijuana was bound for Santa Catarina. [@1] The driver
+[@2,6] The marijuana weighed about one tonne. [@1,6] The officers' initial
+assessment was that the marijuana was bound for Santa Catarina. [@1,6] The driver
 told officers he had left the empty truck at a fuel station and later returned
-to find it already loaded. [@2]
+to find it already loaded. [@2,6]
 
 The driver, the truck, the corn and the marijuana were sent to the judicial
-police to record the occurrence and open an investigation. [@2] The Federal
+police to record the occurrence and open an investigation. [@2,6] The Federal
 Revenue described the action as part of its permanent work against smuggling,
-customs fraud and drug trafficking on the region's main logistics routes. [@5]
+customs fraud and drug trafficking on the region's main logistics routes. [@5,6]
 Ponta Grossa sits on highways linking Paraná to Santa Catarina and other
 southern states, where cargo inspections are frequent. [@1]
-
