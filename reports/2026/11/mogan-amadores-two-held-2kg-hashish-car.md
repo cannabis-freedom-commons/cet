@@ -59,26 +59,36 @@ sources:
     publisher: La Provincia - Diario de Las Palmas
     date: 2026-11-19
     language: es
+  - title: Dos detenidos en Amadores tras el hallazgo de dos kilos de hachís en un coche
+    url: https://maspalomasnews.com/dos-detenidos-en-amadores-tras-el-hallazgo-de-dos-kilos-de-hachis-en-un-coche/
+    publisher: maspalomasnews.com
+    date: 2026-11-19
+    language: es
 media:
   - kind: photo
     url: https://www.laprovincia.es/sucesos/sucesos-en-canarias/2026/11/19/control-trafico-amadores-acaba-detenidos-136624358.html
     media_url: https://estaticos-cdn.prensaiberica.es/clip/6cc4d9e6-33e5-4132-8f56-f7f6655f75fd_16-9-discover-aspect-ratio_default_0_x605y233.webp
     publisher: La Provincia
     caption: 'Hashish and cash seized by Mogán Local Police during the Amadores traffic stop. Photo: La Provincia'
+  - kind: photo
+    url: https://maspalomasnews.com/dos-detenidos-en-amadores-tras-el-hallazgo-de-dos-kilos-de-hachis-en-un-coche/
+    media_url: https://maspalomasnews.com/wp-content/uploads/2026/11/Hachis-y-dinero-intervenido-por-la-Policia-Local-de-Mogan-768x1024.jpeg
+    publisher: Maspalomas News
+    caption: 'Hashish and cash seized by Mogán Local Police during the Amadores traffic stop, in a handout published with the article. Photo: Policía Local de Mogán'
 ---
 
 Mogán Local Police arrested two men in Amadores, in the south of Gran Canaria,
 after finding two kilograms of hashish hidden in the car they were travelling
-in. [@1,3] The operation took place on 13 November 2026 during a preventive
-traffic control carried out with support from the canine unit. [@2,3]
+in. [@1,3,4] The operation took place on 13 November 2026 during a preventive
+traffic control carried out with support from the canine unit. [@2,3,4]
 
 Officers stopped the car and, during initial checks, found a small amount of
-what appeared to be hashish in the passenger-side area. [@1,3] When officers
+what appeared to be hashish in the passenger-side area. [@1,3,4] When officers
 called for the specialist dog to inspect the vehicle in depth, the passenger
-fled on foot but officers intercepted him a few minutes later. [@1,3] The dog's
+fled on foot but officers intercepted him a few minutes later. [@1,3,4] The dog's
 indication led officers to find the two kilograms of hashish inside the vehicle.
-[@2,3] Officers also seized 380 euros in notes of different denominations. [@1,3]
+[@2,3,4] Officers also seized 380 euros in notes of different denominations. [@1,3,4]
 
 Both men were detained as alleged perpetrators of a crime against public health.
-[@1,3] They were taken to police premises for the preparation of the corresponding
-proceedings. [@2,3]
+[@1,3,4] They were taken to police premises for the preparation of the corresponding
+proceedings. [@2,3,4]
