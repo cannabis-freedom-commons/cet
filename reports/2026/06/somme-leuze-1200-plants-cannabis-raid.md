@@ -38,6 +38,11 @@ media:
     media_url: https://api.brusselstimes.com/wp-content/uploads/2026/06/c425e3c1-b6bd-43e2-bfc5-7a47d3ba5382-1024x683.jpg
     publisher: The Brussels Times
     caption: 'Marijuana plants. Photo: QUINTERO / AFP (illustration)'
+  - kind: photo
+    url: https://www.lavenir.net/regions/namur/faitdivers/2026/06/15/somme-leuze-1200-plants-de-cannabis-saisis-trois-suspects-ecroues-2LPJIJ2HDJCKFH3TOVSAFHKFYM/
+    media_url: https://www.lavenir.net/resizer/v2/VREYII6Y4BGFLMWTRHJ2WRTRUM.jpeg?auth=e1af634a122bda3cc67ad810c93bdea5ebdf20a72d9507ebf397cb1398d36b25&width=768&height=512&quality=85&focal=1000%2C667
+    publisher: L'Avenir
+    caption: 'The cannabis plantation discovered in a house in Somme-Leuze on 11 June 2026. Photo: Zone de police Condroz-Famenne'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2f7b978c56e590163edacf838cd93e05
@@ -53,32 +58,33 @@ sources:
     publisher: Ministère public (om-mp.be)
     date: 2026-06-16
     language: fr
+  - title: 'Somme-Leuze : 1200 plants de cannabis saisis, trois suspects écroués'
+    url: https://www.lavenir.net/regions/namur/faitdivers/2026/06/15/somme-leuze-1200-plants-de-cannabis-saisis-trois-suspects-ecroues-2LPJIJ2HDJCKFH3TOVSAFHKFYM/
+    publisher: L'Avenir
+    date: 2026-06-15
+    language: fr
 open_questions:
-  - The prosecutor's statement names the raid on 11 June 2026, while the police account reported by Le Soir spoke only of an operation announced on Monday 15 June; the incident date used is the prosecutor's.
-  - No street, house or court file number in Somme-Leuze was published, so the map point is the town.
-  - No cannabis valuation and no field area were published.
-  - The three suspects were identified only by age and nationality; no names were published.
-  - No charges, plea or trial date were reported; the investigation was still continuing.
-  - No official police zone page for this operation could be opened; the prosecutor's statement is the closest agency source.
-  - 'Left out, as its quotation was not found in Le Soir: Police seized about 1,200 cannabis plants, a large part of them already harvested, and nearly 33.5 kg of cannabis ready for sale or for turning into resin.'
-  - 'Left out, as its quotation was not found in The Brussels Times: The Brussels Times reported the same seizure of around 1,200 plants and nearly 33.5 kg of marijuana, again saying the three suspects were placed under arrest.'
+    - No street, house or court file number in Somme-Leuze was published, so the map point is the town.
+    - No cannabis valuation and no field area were published.
+    - The three suspects were identified only by age and nationality; no names were published.
+    - No charges, plea or trial date were reported; the investigation was still continuing.
 ---
 
 Police raided a house in Somme-Leuze, in Namur Province, on Thursday 11 June
-2026 and found a cannabis plantation. [@2] Condroz-Famenne's local police
+2026 and found a cannabis plantation. [@2,3] Condroz-Famenne's local police
 carried out the operation with the specialised support unit of the Châtelet
-police zone. [@1] In the cellars, officers arrested two men who were processing
+police zone. [@1,3] In the cellars, officers arrested two men who were processing
 a harvest already under way. [@2] One was a 24-year-old Albanian national and
-the other a 40-year-old Kosovo national. [@2] That afternoon, Famenne-Ardenne
+the other a 40-year-old Kosovo national. [@2,3] That afternoon, Famenne-Ardenne
 police arrested the owner of the house, a Belgian man in his sixties, in
-Luxembourg Province. [@2] An investigating judge remanded all three suspects in
-pre-trial detention. [@2]
+Luxembourg Province. [@2,3] An investigating judge remanded all three suspects in
+pre-trial detention. [@2,3]
 
-Some of the plants were young shoots kept to start a new production. [@2]
-Officers also made a judicial seizure of fake weapons and a vehicle. [@2]
+Some of the plants were young shoots kept to start a new production. [@2] In total, about 1,200 plants were seized, including nearly 33.5 kg of cannabis that had already been harvested and was ready for sale. [@3]
+Officers also made a judicial seizure of fake weapons and a vehicle. [@2,3]
 
 The grow had electrical installations, ventilation, temperature control and the
-latest generation of lighting. [@1] The federal judicial police laboratory and a
+latest generation of lighting. [@1,3] The federal judicial police laboratory and a
 magistrate came to the site for the usual samples. [@2] Ores, the electricity
 grid operator, secured the site after illegal power hook-ups, reinforced with
 cabinets and transformers, put the network at risk. [@2] The civil protection
@@ -86,5 +92,4 @@ service of Crisnée brought its expertise to dismantle and neutralise the
 plantation. [@2]
 
 Condroz-Famenne police said the case is the third cannabis plantation dismantled
-on its territory in three years. [@1] The investigation is continuing. [@2]
-
+on its territory in three years. [@1,3] The investigation is continuing. [@2]
