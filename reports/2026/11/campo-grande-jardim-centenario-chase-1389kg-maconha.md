@@ -56,21 +56,25 @@ sources:
     publisher: Região News
     date: 2026-11-19
     language: pt
+  - title: PRF apreende mais de 3,3 toneladas de maconha em Mato Grosso do Sul
+    url: https://www.gov.br/prf/pt-br/noticias/nacionais/2026/novembro/prf-apreende-mais-de-3-3-toneladas-de-maconha-em-mato-grosso-do-sul
+    publisher: Polícia Rodoviária Federal
+    date: 2026-11-19
+    language: pt
 open_questions:
-    - No date is given for the blockade, the pursuit or the detention; 18 and 19 November 2026 are the publication dates of the two accounts and stand in for the incident date.
-    - The load was described in the Campo Grande News record as material with characteristics similar to marijuana and in the second account as tablets of maconha; no laboratory confirmation was reported.
-    - The Campo Grande News photo caption gives 1.3 tonnes in a rural area near Sidrolândia, its text gives 1,389.3 kilograms in Jardim Centenário and the second account gives 1,389 kilograms; the 1,389.3 figure is used.
+    - The load was described in the Campo Grande News record as material with characteristics similar to marijuana and in the other accounts as tablets of maconha; no laboratory confirmation was reported.
+    - The Campo Grande News photo caption gives 1.3 tonnes in a rural area near Sidrolândia, its text gives 1,389.3 kilograms in Jardim Centenário and the two later accounts give 1,389 kilograms; the 1,389.3 figure is used.
     - No street value for the seized load was published.
     - The record lists drug trafficking and receiving a vehicle as possible offences but gives no details of the receiving offence.
     - No charge, custody decision or court outcome was reported, and where the driver was held is not known.
-    - Both accounts relay police information about the same occurrence; no independent witness account of the pursuit was reported.
+    - All three accounts relay police information about the same occurrence; no independent witness account of the pursuit was reported.
 ---
 
 Federal Highway Police officers arrested a driver after a pursuit that ended
 with the seizure of almost 1.4 tonnes of marijuana in the Jardim Centenário
-neighbourhood of Campo Grande, Mato Grosso do Sul. [@1,2] The driver of a Fiat
+neighbourhood of Campo Grande, Mato Grosso do Sul. [@1,2,3] The PRF said the seizure happened on Wednesday 18 November 2026. [@3] The driver of a Fiat
 Strada had run a Federal Highway Police (PRF) blockade on the Sidrolândia road
-and tried to escape the officers. [@1,2] He abandoned the pickup on Rua
+and tried to escape the officers. [@1,2,3] He abandoned the pickup on Rua
 Quero-Quero and ran into a wooded area, where the officers caught him. [@1] The
 police record obtained by Campo Grande News says officers found and detained the
 man in the woods. [@1]
@@ -80,12 +84,12 @@ for support, which mentioned a tactical follow-up at the entrance to
 Sidrolândia. [@1] The Military Police team stayed at the scene while PRF agents
 entered the woods to look for the driver. [@1] A search of the Strada found a
 load of material with characteristics similar to marijuana, which the record put
-at 1,389.3 kilograms. [@1] The pickup's number plate had been tampered with.
-[@1,2] A second account reported that the pickup had a record of robbery or theft. [@2] The record lists drug trafficking and receiving a vehicle among the
+at 1,389.3 kilograms. [@1,3] The pickup's number plate had been tampered with.
+[@1,2] A second account reported that the pickup had a record of robbery or theft. [@2,3] The record lists drug trafficking and receiving a vehicle among the
 possible offences, but does not say whether the pickup had been reported stolen
 or robbed. [@1]
 
 The PRF took charge of the case and was responsible for sending the driver, the
-vehicle and the drug for the appropriate measures. [@1] The record does not say
+vehicle and the drug for the appropriate measures. [@1,3] The record does not say
 where the pickup set out from, where the load was bound, how long the driver
 fled or where he was held. [@1]
