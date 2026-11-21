@@ -55,29 +55,32 @@ sources:
     publisher: Cretalive
     date: 2026-11-20
     language: el
+  - title: 'Ηράκλειο: Συνελήφθησαν δύο άνδρες με σχεδόν οκτώ κιλά κάνναβη'
+    url: https://www.thitanews.gr/irakleio-synelifthisan-dyo-andres-me-schedon-okto-kila-kannavi/
+    publisher: Thita News
+    date: 2026-11-20
+    language: el
 open_questions:
-  - No court outcome, formal charge or detention decision was reported; the case was at the preliminary investigation stage when the accounts were published.
-  - The accounts describe the drug only as cannabis; no laboratory confirmation, packaging detail or value estimate was published.
-  - The 44-year-old's nationality was given only as a foreign national.
-  - The neighbourhood in the Municipality of Heraklion where the men were stopped was not named.
-  - Cretalive rounds the amount to 7.9 kilograms; the report uses the police statement's 7 kilograms and 984.8 grams.
-  - The Athens Voice, SKAI and Cretalive texts reproduce the same Heraklion police statement, so they are not independent reporting.
+    - No court outcome, formal charge or detention decision was reported; the case was at the preliminary investigation stage when the accounts were published.
+    - The accounts describe the drug only as cannabis; no laboratory confirmation, packaging detail or value estimate was published.
+    - The neighbourhood in the Municipality of Heraklion where the men were stopped was not named.
+    - Cretalive rounds the amount to 7.9 kilograms; the report uses the police statement's 7 kilograms and 984.8 grams.
+    - Athens Voice, SKAI, Cretalive and Thita News all reproduce the same Heraklion police statement, so they are not independent reporting.
 ---
 
 Police in Heraklion, Crete, arrested a 23-year-old and a 44-year-old on
-suspicion of possessing and trafficking drugs. [@1] The 23-year-old is a Greek
-national and the 44-year-old a foreign national. [@2] Officers stopped the two
+suspicion of possessing and trafficking drugs. [@1,4] The 23-year-old is a Greek
+national and the 44-year-old a foreign national. [@2,4] The 44-year-old is an Iraqi national. [@4] Officers stopped the two
 men in an area of the Municipality of Heraklion on the morning of Thursday 19
-November 2026, then searched them and their homes. [@1] The arrests came in a
+November 2026, then searched them and their homes. [@1] The two were arrested as they left a house in the city. [@4] The arrests came in a
 coordinated operation by the Heraklion Police Directorate against the
 possession, trade and trafficking of drugs. [@3]
 
 In their homes officers found and seized a total of 7 kilograms and 984.8 grams
-of cannabis and four precision scales. [@1] Cretalive reported the amount as 7.9
+of cannabis and four precision scales. [@1,4] Cretalive reported the amount as 7.9
 kilograms of cannabis. [@3] The two men were taken to the Heraklion prosecutor.
 [@3]
 
 The operation followed information developed by the drug enforcement department
-of the Heraklion crime investigation sub-directorate. [@2] That drug enforcement
+of the Heraklion crime investigation sub-directorate. [@2,4] That drug enforcement
 department is carrying out the preliminary investigation. [@1]
-
