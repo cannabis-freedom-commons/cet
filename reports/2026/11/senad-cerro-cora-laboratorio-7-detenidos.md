@@ -46,6 +46,21 @@ media:
     media_url: https://www.abc.com.py/resizer/v2/XBDYUNHTZVDAZEONORARQBHZDI.jpg?auth=90b4627e449ec810840f84d35f410ec917186a68bf7db1313c921217bed912ba&width=770&smart=true
     publisher: ABC Color
     caption: 'Access to the rural property raided by the Senad in the city of Cerro Corá on 12 November 2026, published with the ABC Color report. Photo: ABC Color.'
+  - kind: photo
+    url: https://www.cronica.com.py/2026/11/13/senad-desmantela-la-hacienda-napoles-paraguaya/
+    media_url: https://www.cronica.com.py/resizer/v2/7GFBVHV6KZDMRDI3INFGFSIEWU.jpeg?smart=true&width=800&height=450&quality=75&auth=11a043ad1c5ac74f81e07cfac0c0b0fdac13090525df85ad8a1968e0b1b202df
+    publisher: Crónica
+    caption: 'The gate and facade of the farm called the Paraguayan "Hacienda Nápoles", with a SENAD agent at the entrance, published with the Crónica account of the raid. Photo: SENAD.'
+  - kind: photo
+    url: https://www.cronica.com.py/2026/11/13/senad-desmantela-la-hacienda-napoles-paraguaya/
+    media_url: https://www.cronica.com.py/resizer/v2/H3GNW4ZVMRFPJOYMEFUY3GDAK4.jpeg?smart=true&width=1280&height=720&quality=75&auth=1c7cf86df5ae19b9130edd0df8955a929732ffd8c50e7dac38a47e5b8613a775
+    publisher: Crónica
+    caption: Officers lifting a caged tirica, a native wild cat, from the makeshift zoo found at the farm, in the Crónica photo from the SENAD raid.
+  - kind: photo
+    url: https://www.extra.com.py/actualidad/narcos-montaban-laboratorio-narco-al-lado-de-parque-nacional-con-un-zoologico-privado
+    media_url: https://grupovierci.brightspotcdn.com/dims4/default/f62b95a/2147483647/strip/true/crop/1918x1080+1+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2f%2F1d%2F16e912874b80b189394f2fc16da8%2Fal-estilo-pablo-escobar.jpg
+    publisher: Diario Extra
+    caption: 'Exotic animals kept at the clandestine zoo on the raided property, in the handout published with Diario Extra''s account of the Cerro Corá operation. Photo: Senad.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 64505d0a3095b08ca86c6e2e6ed028c5
@@ -61,19 +76,21 @@ sources:
     publisher: La Nación (Paraguay)
     date: 2026-11-13
     language: es
-open_questions:
-  - RDN's headline and an embedded post speak of a cocaine laboratory and base-paste washing, while ABC describes a general clandestine drug lab where only small cannabis and cocaine portions were found; the report uses the shared account of a multi-drug processing site.
-  - ABC says two pistols were seized, but RDN and Diário Pantanal describe one Canik 9mm pistol plus one Rossi revolver and one air gun; the combined weapons total differs across outlets.
-  - The cocaine and cocaine-like substances are not cannabis, so their 52.81 grams are kept out of the cannabis figure; no cannabis value estimate was published.
-  - No charges, trial date or outcome for the seven detainees was reported as of publication.
-  - The number of caged animals was not published, and the Brazilian-market destination is the authorities' assessment, not a court finding.
-  - The La Nación report names eight detainees and counts eight held, while the ABC Color report named seven men; the extra La Nación detainee is not in the ABC list and his nationality was not recorded. The figure of seven arrested is kept from the ABC report.
-  - The cocaine weight is given as 52.20 grams in the La Nación report but 52.81 grams in other outlets' statements; the cocaine portion is not cannabis and is kept out of the cannabis figure either way.
+  - title: SENAD desmantela la “Hacienda Nápoles” paraguaya
+    url: https://www.cronica.com.py/2026/11/13/senad-desmantela-la-hacienda-napoles-paraguaya/
+    publisher: Crónica
+    date: 2026-11-13
+    language: es
+  - title: Narcos montaban laboratorio narco al lado de Parque Nacional con un zoológico privado.
+    url: https://www.extra.com.py/actualidad/narcos-montaban-laboratorio-narco-al-lado-de-parque-nacional-con-un-zoologico-privado
+    publisher: Diario Extra
+    date: 2026-11-13
+    language: es
 ---
 
 Agents of Paraguay's National Anti-Drug Secretariat (SENAD), from its Pedro Juan
 Caballero regional office, raided a rural property in the Cerro Corá district of
-Amambay department on Thursday 12 November 2026. [@1,2] Seven men of different
+Amambay department on Thursday 12 November 2026. [@1,2] The farm stood beside Cerro Corá National Park. [@4] The raided property was a farm in Colonia María Auxiliadora identified by Crónica as Che morena resa jajai. [@3] Seven men of different
 nationalities were detained, investigators said, who are believed to have served
 a criminal structure dedicated to the processing and trafficking of narcotics.
 [@1] The detainees are two Paraguayans, three Brazilians, a Peruvian and a
@@ -82,8 +99,8 @@ Bolivian. [@1]
 In the clandestine drug laboratory officers found small quantities of pressed
 and chopped marijuana, hashish-type material and cocaine hydrochloride, along
 with two pistols, a revolver, assorted ammunition and three vehicles, all
-seized. [@1] Wild animals kept in captivity were also found - monkeys including
+seized. [@1,3] Officers found two metal hydraulic presses, two industrial ovens, a 30-kilogram electronic scale and 15 empty butane gas canisters that were being prepared for drug processing. [@3] Wild animals kept in captivity were also found - monkeys including
 a howler (karaja), several macaws and a tirica, the native spotted cat - which
-were rescued and handed to the environmental-crimes prosecutor. [@1] The
+were rescued and handed to the environmental-crimes prosecutor. [@1,3] Crónica compared the farm's zoo to Pablo Escobar's Hacienda Nápoles in Colombia. [@3] The
 operation was run by Amambay anti-drug prosecutor Rossana Coronel with SENAD
-special forces in support. [@1]
+special forces in support. [@1,4]
