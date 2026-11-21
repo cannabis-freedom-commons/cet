@@ -62,6 +62,11 @@ sources:
     publisher: Dakaractu
     date: 2026-11-20
     language: fr
+  - title: 'OCRTIS : neuf opérations antidrogue, des interpellations et d’importantes quantités de stupéfiants saisies'
+    url: https://www.lactuacho.com/ocrtis-neuf-operations-antidrogue-des-interpellations-et-dimportantes-quantites-de-stupefiants-saisies/
+    publisher: LACTUACHO.COM
+    date: 2026-11-20
+    language: fr
 open_questions:
   - One of the 13 arrests, of a woman in Dakar on 10 November, concerned 312 Tapentadol tablets rather than cannabis, and one Cité Damel arrest also involved MDMA, so no cannabis-only arrest count was published.
   - No weight was given for the two balls of hashish seized in Dakar or the nine képas seized at Ziguinchor, or for the 67 cornets seized in Diourbel, so only the weighed chanvre indien is recorded.
@@ -75,30 +80,29 @@ open_questions:
 Senegal's central anti-drug office, the Office central pour la répression du
 trafic illicite de stupéfiants (OCRTIS), said it carried out nine operations
 nationwide and arrested 13 people, seizing large quantities of drugs. [@1] The
-operations were spread over 10 to 17 November 2026. [@3] The regional narcotics
+operations were spread over 10 to 17 November 2026. [@3,4] The regional narcotics
 brigades (BRS) of Dakar, Sédhiou, Tambacounda, Diourbel, Fatick, Ziguinchor and
 Kolda were mobilised. [@1]
 
 The four weighed cannabis seizures came to 42.2 kilograms of chanvre indien, the
 term used in Senegal for cannabis. [@2] In Kolda, a man was arrested at Saré
-Bacary on 16 November as he was about to deliver 20 kg of chanvre indien. [@3] A
+Bacary on 16 November as he was about to deliver 20 kg of chanvre indien. [@3,4] A
 second man was arrested in Kolda the next evening with 1.2 kg and pursued for
-offering or supplying the drug. [@3] At Karang in Fatick, police stopped a
+offering or supplying the drug. [@3,4] At Karang in Fatick, police stopped a
 courier carrying a sisal bag with 17 kg of chanvre indien after a tip that he
-had just crossed into Gambia to stock up. [@3] In Sédhiou, a man was arrested at
+had just crossed into Gambia to stock up. [@3,4] In Sédhiou, a man was arrested at
 Bounghri on 15 November carrying 4 kg of green chanvre indien on his motorcycle
-and pursued for detention for internal trafficking. [@1] In the night of 15 to
+and pursued for detention for internal trafficking. [@1,4] In the night of 15 to
 16 November, the Tambacounda brigade uprooted and seized 44 cannabis plants at
 Ouly Madina, 73 km from Tambacounda, and arrested two people after a warning
-shot. [@3] In Diourbel, two men were held with 67 cornets of chanvre indien.
-[@1]
+shot. [@3,4] In Diourbel, two men were held with 67 cornets of chanvre indien.
+[@1,4]
 
 One of the 13 arrests was not over cannabis: on 10 November the Dakar brigade
-held a woman with 312 Tapentadol tablets, an opioid medicine. [@1] On 17
+held a woman with 312 Tapentadol tablets, an opioid medicine. [@1,4] On 17
 November three people were arrested at Cité Damel in Dakar with two balls of
-hashish and four of MDMA. [@1] At Ziguinchor, a man was taken into custody after
+hashish and four of MDMA. [@1,4] At Ziguinchor, a man was taken into custody after
 nine képas of hashish were found hidden in a meal meant for him at the prison,
-and police were looking for the suspected courier. [@1] Several suspects were
+and police were looking for the suspected courier. [@1,4] Several suspects were
 placed in police custody for the investigation, and the inquiries were
 continuing. [@2]
-
