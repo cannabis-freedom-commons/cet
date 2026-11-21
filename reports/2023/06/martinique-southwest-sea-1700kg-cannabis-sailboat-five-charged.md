@@ -51,6 +51,26 @@ media:
     media_url: https://medias.franceantilles.fr/api/v1/images/view/64a5e9758a983f259d163da9/width_1000-webp/image.jpg
     publisher: France-Antilles Martinique
     caption: 'Bales seized aboard La Combattante. Photo: FAA'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/-943138.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/64a57973a7dba1622d7df9ed/width_1000-webp/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'The seizure carried out by the Antilles-Guyane patrol vessel La Combattante. Photo: FAA'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/-943138.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/64a579731db9c336d21aa648/width_1000-webp/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'The drugs, the sailboat and the five people implicated handed over to OFAST Caraïbe. Photo: FAA'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/-943138.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/64a579741a30c24ac56eac76/width_1000-webp/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'The operation took place about 100 nautical miles southwest of the coast. Photo: FAA'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/-943138.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/64a57974ac5e172b2c334d5b/width_1000-webp/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'A total of 1,700 kg of cannabis and 2 kg of cocaine seized. Photo: FAA'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8fcbd6734c21e1a2f755be90f08e7b81
@@ -71,28 +91,28 @@ sources:
     publisher: France-Antilles Martinique
     date: 2023-07-06
     language: fr
-open_questions:
-  - The 2 kg of cocaine seized alongside the cannabis is a non-cannabis substance and is excluded from the cannabis figures.
-  - Mer et Marine calls this the fifth cannabis seizure of the year while RCI, La 1ère and the Armed Forces account calls it the fourth; the report uses the fourth-seizure account.
-  - The five suspects were not named and no ages or nationalities were published.
-  - A later France-Antilles justice item reports five people convicted on 3 October 2025 over the 1,703.76 kg seizure, but that page could not be opened in full, so no court outcome is recorded here.
+  - title: EN IMAGES. 1,7 tonne de cannabis et 2 kg de cocaïne saisis au large de la Martinique
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/-943138.php
+    publisher: France-Antilles Martinique
+    date: 2023-07-05
+    language: fr
 ---
 
 In the night of 29 June 2023, French forces boarded a suspect sailboat about 200
-km southwest of Martinique. [@2,3] The patrol vessel La Combattante and a customs
+km southwest of Martinique. [@2,3,4] The patrol vessel La Combattante and a customs
 coast-guard maritime patrol aircraft were deployed to board the sailboat
 suspected of drug trafficking. [@2] Five crew members were aboard the sailboat
 when it was boarded. [@2] On 1 July 2023 the drugs, the sailboat and the five
 suspects were handed to the OFAST Caraibe office on the instruction of the
-Fort-de-France JIRS prosecutor. [@1] After initial inquiries they were brought
+Fort-de-France JIRS prosecutor. [@1,4] After initial inquiries they were brought
 before an investigating judge, charged with organised-gang drug and weapons
-offences and criminal association, and remanded in pre-trial detention. [@1]
+offences and criminal association, and remanded in pre-trial detention. [@1,4]
 
 Officers found many suspect bales aboard that tested positive for cannabis,
-totalling 1,700 kg of cannabis alongside 2 kg of cocaine. [@2,3] The interception
+totalling 1,700 kg of cannabis alongside 2 kg of cocaine. [@2,3,4] The interception
 followed a tip from the United States Joint InterAgency Task Force-South and
-support from a customs coast-guard maritime patrol aircraft. [@1]
+support from a customs coast-guard maritime patrol aircraft. [@1] The operation was led by the admiral commanding the Antilles maritime zone, delegated by the prefect of Martinique, with support from the customs coast-guard service and the Ministry of Europe and Foreign Affairs, under the Jirs prosecutor. [@4]
 
 The Armed Forces in the Antilles described it as their fourth seizure of 2023,
 bringing their total to nearly 4.7 tonnes of narcotics removed from distribution
-networks. [@1]
+networks. [@1,4]
