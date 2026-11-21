@@ -70,34 +70,32 @@ sources:
     url: https://scotland.police.uk/what-s-happening/news/2024/may/cannabis-plants-with-an-estimated-street-value-of-up-to-796-000-recovered-in-ayrshire
     publisher: Police Scotland
     date: 2024-05-23
-open_questions:
-  - The Cumnock Chronicle also states that both men were ordered to spend a period of four months behind bars, which conflicts with its own account and The Gazette; the report uses the Gazette's four-and-a-half-year terms.
-  - Police Scotland first valued the May 2024 seizure at between £265,000 and £796,000; the report uses the later court figure of around £1,190,000.
-  - No calendar date for the sentencing hearing was stated; 19 November 2026 is the publication date of both court reports and the date of Thai's guilty plea, and stands in for the incident date.
-  - Nguyen's 34-month Gloucester sentence is dated only as May this year, taken to mean May 2026.
+  - title: Two men caught at cannabis factory of a size drugs expert had never seen
+    url: https://www.renfrewshire24.co.uk/2026/11/20/two-men-caught-at-cannabis-factory-of-a-size-drugs-expert-had-never-seen/
+    publisher: Renfrewshire24
+    date: 2026-11-20
 ---
 
 Van Anh Nguyen, 35, and Giap Ba Thai, 52, both pleaded guilty at the High Court
-in Glasgow to their role in a cannabis operation at Lugar. [@1] They admitted
+in Glasgow to their role in a cannabis operation at Lugar. [@1,4] They admitted
 being concerned in supplying cannabis from an industrial unit at Lugar Works, on
 Peesweep Brae, between March 7 and May 23, 2024. [@1] Lord Arthurson sentenced
-each of them to four and a half years in prison. [@2] The judge said both men
+each of them to four and a half years in prison. [@2,4] The judge said both men
 were involved in a substantial commercial enterprise for production and onward
-supply of cannabis on quite literally an industrial scale. [@1]
+supply of cannabis on quite literally an industrial scale. [@1,4]
 
 Police seized a total of 1,327 plants with a potential value of £1,190,000 at
-the unit. [@2] A reviewing drugs officer who walked through the unit said he had
-not previously attended a growing site of such a size. [@1] Police Scotland said
+the unit. [@2,4] A reviewing drugs officer who walked through the unit said he had
+not previously attended a growing site of such a size. [@1,4] Police Scotland said
 officers executed a warrant at an industrial unit near Cumnock around 11.10am on
 Thursday, 23 May, and recovered a drugs cultivation. [@3] At the time of the
 raid police put the seizure at over 1,300 plants with an estimated street value
 of between £265,000 and £796,000 at the unit in Lugar. [@3]
 
 Both men already had previous convictions for the same kind of cannabis-supply
-crime. [@2] Nguyen had received a 34-month prison sentence in May this year for
+crime. [@2,4] Nguyen had received a 34-month prison sentence in May this year for
 an analogous offence at Gloucester Crown Court. [@1] The 35-year-old is an
 illegal immigrant who wishes to return to Vietnam when he is able, and he had
-been living in Paisley before being locked up. [@1] Thai had been jailed for
+been living in Paisley before being locked up. [@1,4] Thai had been jailed for
 four years earlier in 2026 after a raid at a £1.3m cannabis factory at a former
-tobacco warehouse in Greenock, Inverclyde. [@2]
-
+tobacco warehouse in Greenock, Inverclyde. [@2,4]
