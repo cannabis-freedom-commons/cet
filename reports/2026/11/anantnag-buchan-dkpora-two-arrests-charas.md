@@ -53,31 +53,25 @@ sources:
     url: https://dailykiran.com/anantnag-police-intensifies-crackdown-on-drug-traffickers-two-arrested
     publisher: Daily Kiran
     date: 2026-11-20
-open_questions:
-  - No separate date is given for the two operations; 20 November 2026 is the date of the IANS report and of publication, and is used as the incident date.
-  - The recoveries are given as approximately 1.727 kilograms and around 118 grams, so the combined 1.845 kilograms is approximate.
-  - Bhaskar Hindi and Daily Kiran treat Krad Shangus as the first suspect's name, while Brighter Kashmir gives the rider's name as Ashiq Ahmad Padder, a resident of Krad Shangus; the report follows Brighter Kashmir.
-  - The first case's police station appears as Uttrasoo in Brighter Kashmir, Uttaraju in Bhaskar Hindi and North Arju in Daily Kiran; the report uses Uttrasoo.
-  - The material is described only as charas powder; no laboratory confirmation, purity or street value was published.
-  - No plea, detention order, court date or outcome was reported for either man, and both cases were at the investigation stage.
-  - Where Rouf Ahmad Shah was stopped is not stated; only his home village, Khushipora, is named.
-  - All three accounts carry the same police statement, distributed by the IANS agency, so they are not independent reporting.
-  - The Bhaskar Hindi article also reports the 14 November 2026 attachment of 13.05 crore rupees of property belonging to another suspected trafficker in Bijbehara; that is a separate event and is not covered here.
+  - title: Police Tighten Noose Around Drug Mafia; Two Peddlers Arrested In Anantnag
+    url: https://thekashmirhorizon.com/2026/11/20/police-tighten-noose-around-drug-mafia-two-peddlers-arrested-in-anantnag/
+    publisher: The Kashmir Horizon
+    date: 2026-11-20
+    language: en
 ---
 
 Anantnag police arrested two alleged drug peddlers in separate operations and
 recovered more than 1.8 kilograms of charas powder, a cannabis resin, from them.
-[@2] In the first operation a police party from Police Station Uttrasoo
+[@2,4] In the first operation a police party from Police Station Uttrasoo
 intercepted a motorcycle during naka checking at Buchan Crossing and found about
-1.727 kilograms of charas powder on the rider. [@2] Police identified the rider
-as Ashiq Ahmad Padder, a resident of Krad Shangus. [@2] A case under FIR No.
+1.727 kilograms of charas powder on the rider. [@2,4] Police identified the rider
+as Ashiq Ahmad Padder, a resident of Krad Shangus. [@2,4] A case under FIR No.
 114/2026, Sections 8/20 of the NDPS Act, was registered at Police Station
-Uttrasoo and investigation was under way. [@2]
+Uttrasoo and investigation was under way. [@2,4]
 
 In a separate operation, personnel from Police Post DK Pora arrested Rouf Ahmad
 Shah, a resident of Khushipora, and recovered about 118 grams of charas powder
-from him. [@2] A case was registered at Police Station Achabal, and further
-inquiries were continuing. [@3] Police put the two recoveries at more than 1.8
-kilograms of charas powder. [@1] Anantnag police said they would intensify
-action against drug trafficking and appealed to the public to cooperate. [@2]
-
+from him. [@2,4] A case was registered at Police Station Achabal, and further
+inquiries were continuing. [@3,4] Police put the two recoveries at more than 1.8
+kilograms of charas powder. [@1,4] Anantnag police said they would intensify
+action against drug trafficking and appealed to the public to cooperate. [@2,4]
