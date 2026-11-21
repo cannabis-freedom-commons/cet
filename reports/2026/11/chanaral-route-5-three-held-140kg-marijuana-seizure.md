@@ -80,6 +80,11 @@ sources:
     publisher: Diario Chañarcillo
     date: 2026-11-20
     language: es
+  - title: 'Un pasajero con cocaína oculta y 140 kilos de marihuana: así cayeron seis imputados por tráfico en Atacama - Madero'
+    url: https://madero.cl/un-pasajero-con-cocaina-oculta-y-140-kilos-de-marihuana-asi-cayeron-seis-imputados-por-trafico-en-atacama/
+    publisher: Madero
+    date: 2026-11-20
+    language: es
 media:
   - kind: photo
     url: https://www.emol.com/noticias/Nacional/2026/11/19/1217634/chanaral-extranjeros-trasladaban-kilos-marihuana.html
@@ -101,22 +106,22 @@ open_questions:
 Carabineros detained three Colombian adults in Chañaral for drug trafficking and
 a Chañaral court placed all three in preventive detention. [@3,5,6] One detainee had
 an outstanding arrest warrant from the Antofagasta Guarantee Court for lesiones,
-while the other two had irregular migratory status in the country. [@2,4,5,6] The
+while the other two had irregular migratory status in the country. [@2,4,5,6,7] The
 Chañaral Guarantee Court granted preventive detention after finding their
-liberty a danger to public safety. [@3] The court set an 85-day investigation
-period during which the three will remain deprived of liberty. [@3,5,6]
+liberty a danger to public safety. [@3,7] The court set an 85-day investigation
+period during which the three will remain deprived of liberty. [@3,5,6,7]
 
 The case began with checks by the SIP of the 1st Chañaral police station on two
 vehicles, one at a service station and the other on Route 5 Norte, where
-officers found 140 packages containing marijuana. [@2,4,5,6] On the prosecution's
+officers found 140 packages containing marijuana. [@2,4,5,6,7] On the prosecution's
 instructions, Atacama OS7 specialists analysed mobile phones with UFED
 technology, reviewed security cameras and took statements to link the three to
-the transport. [@2,5] Officers seized 140 kilos 343 grams of marijuana and 5 grams
-300 milligrams of cocaine hydrochloride. [@2,4,5,6] Police counted the substances as
-290,686 doses with an appraised value of 1,503,430,000 pesos. [@1,5,6] Officers also
-seized five mobile phones and $107,000 in cash. [@1,4,5,6]
+the transport. [@2,5,7] Officers seized 140 kilos 343 grams of marijuana and 5 grams
+300 milligrams of cocaine hydrochloride. [@2,4,5,6,7] Police counted the substances as
+290,686 doses with an appraised value of 1,503,430,000 pesos. [@1,5,6,7] Officers also
+seized five mobile phones and $107,000 in cash. [@1,4,5,6,7]
 
 Chañaral prosecutor Nicolás Meléndez Chacón said the three moved the drugs in a
 coordinated way in two vehicles and will be investigated for illicit drug
-trafficking as a criminal group. [@3,6] The prosecution brought the three before
+trafficking as a criminal group. [@3,6,7] The prosecution brought the three before
 the Chañaral Guarantee Court, where it communicated charges against them. [@2,5,6]
