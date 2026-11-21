@@ -50,30 +50,33 @@ sources:
     url: https://www.actionnews5.com/2026/08/10/man-charged-after-246-plants-believed-be-marijuana-found-during-search-warrant-authorities-say/
     publisher: Action News 5
     date: 2026-08-10
+  - title: 'Man arrested after suspected marijuana grow operation discovered in home: deputies'
+    url: https://wlos.com/news/nation-world/gary-crain-arrested-drug-charges-narcotics-team-search-warrant-hickory-grove-road-marijuana-plants-seized-schedule-controlled-substances-uv-grow-lights-paraphernalia-cultivation-maintaining-dwelling-police-investigation-evidence-cincinnati-law-enforcemen
+    publisher: WLOS
+    date: 2026-08-10
+    language: en
 open_questions:
-  - The opened reports say the search occurred on a Wednesday without giving a calendar date; 29 July 2026 is the Wednesday before the 1 August 2026 publication and is used as the incident date.
-  - The plants were described only as believed to be marijuana, with no laboratory confirmation reported.
-  - The suspected Schedule II and Schedule III substances were not identified by type or weight, so they are excluded from the cannabis figures.
-  - No court outcome beyond the charges was reported.
-  - The second outlet's page attributes photos to the Franklin County Sheriff's Office, but their direct media addresses were not recovered from the opened text, so they are not listed as media.
+    - The plants were described only as believed to be marijuana, with no laboratory confirmation reported.
+    - The suspected Schedule II and Schedule III substances were not identified by type or weight, so they are excluded from the cannabis figures.
+    - No court outcome beyond the charges was reported, and no date was given for the next court appearance.
 ---
 
 Franklin County sheriff's deputies arrested Gary Crain after searching his home
 on Hickory Grove Road in Huntland, Tennessee. [@1,3] He was charged with five
 offences, including manufacture, sale and delivery of a Schedule 6 controlled
-substance. [@2,3] The other charges were possession of a Schedule II substance,
+substance. [@2,3,4] The other charges were possession of a Schedule II substance,
 possession of a Schedule III substance, felony possession of drug paraphernalia
 and maintaining a dwelling for drug purposes. [@1]
 
 The Franklin County Sheriff's Office Narcotics Team carried out the search under
-a warrant at a home in the 1600 block of Hickory Grove Road. [@1] Both outlets
+a warrant at a home in the 1600 block of Hickory Grove Road. [@1,4] Both outlets
 say the search took place on a Wednesday in Huntland, which the sheriff's office
-attributes to its Narcotics Team. [@2] During the search deputies found 246
-plants believed to be marijuana. [@1,3] Deputies also found a substance believed
+attributes to its Narcotics Team. [@2] The search warrant was executed on 29 July 2026. [@4] During the search deputies found 246
+plants believed to be marijuana. [@1,3,4] Deputies also found a substance believed
 to be a Schedule II controlled substance and another believed to be a Schedule
-III controlled substance, with no type or weight given. [@2] They also seized
+III controlled substance, with no type or weight given. [@2,4] They also seized
 multiple UV grow lights and other items described as paraphernalia linked to the
-cultivation of marijuana. [@2,3]
+cultivation of marijuana. [@2,3,4]
 
 The sheriff's office said the investigation remains ongoing. [@2] The sheriff's
 office presented the plants and equipment as an indoor home grow operation, but
