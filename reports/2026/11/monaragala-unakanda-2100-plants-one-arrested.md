@@ -61,27 +61,36 @@ sources:
     url: https://www.newswire.lk/2026/11/20/2100-cannabis-plants-worth-rs-1-million-seized-in-monaragala/
     publisher: Newswire
     date: 2026-11-20
+  - title: 2,100 cannabis plants seized in Monaragala forest reserve
+    url: https://hirunews.lk/english/501822/2100-cannabis-plants-seized-in-monaragala-forest-reserve
+    publisher: Hiru News
+    date: 2026-11-20
 open_questions:
-  - No weight was reported for the 2,100 plants, and the value of about one million rupees is the Army's own estimate.
-  - The suspect was not named and no age, residence or other personal details were reported.
-  - No charges, court appearance or later outcome were reported; the case stood at the arrest stage.
-  - The reports say the plants were seized and taken into custody but do not say whether they were destroyed.
-  - The plants were described only as cannabis plants; no laboratory or botanical confirmation was reported.
-  - All four accounts reproduce the Sri Lanka Army's statement, so they are not independent reporting.
-  - The location of the plantation within the Unakanda reserve is not given, so the coordinates are for Monaragala district.
+    - No weight was reported for the 2,100 plants, and the value of about one million rupees is the Army's own estimate.
+    - The suspect was not named and no age, residence or other personal details were reported.
+    - No charges, court appearance or later outcome were reported; the case stood at the arrest stage.
+    - The reports say the plants were seized and taken into custody but do not say whether they were destroyed.
+    - The plants were described only as cannabis plants; no laboratory or botanical confirmation was reported.
+    - All accounts reproduce the Sri Lanka Army's statement, so they are not independent reporting.
+    - The location of the plantation within the Unakanda reserve is not given, so the coordinates are for Monaragala district.
+media:
+  - kind: photo
+    url: https://hirunews.lk/english/501822/2100-cannabis-plants-seized-in-monaragala-forest-reserve
+    media_url: https://cdn.hirunews.lk/Data/News_Images/202611/1795175894_6283973_hirunews.jpg
+    publisher: Hiru News
+    caption: The cannabis plants seized at the Unakanda Forest Reserve in Monaragala.
 ---
 
 Acting on information passed to it by Sri Lanka Army intelligence, the
 Monaragala Narcotics Unit carried out a raid in the Unakanda Forest Reserve in
-Monaragala on 19 November 2026. [@2] Cannabis had been planted illegally in the
+Monaragala on 19 November 2026. [@2,5] Cannabis had been planted illegally in the
 sanctuary area of the reserve. [@1] During the operation the officers found
-about 2,100 cannabis plants, each measuring about three feet in height. [@2]
+about 2,100 cannabis plants, each measuring about three feet in height. [@2,5]
 
-One suspect was arrested at the site of the plantation. [@1] All the cannabis
-plants were seized by the authorities. [@3] The Army estimated the value of the
-cultivation at about one million rupees. [@4]
+One suspect was arrested at the site of the plantation. [@1,5] All the cannabis
+plants were seized by the authorities. [@3,5] The Army estimated the value of the
+cultivation at about one million rupees. [@4,5]
 
 The Sri Lanka Army announced the raid the following day, on 20 November 2026.
 [@3] The operation was carried out together with officers of the Monaragala
 anti-narcotics unit after army intelligence received the information. [@1]
-
