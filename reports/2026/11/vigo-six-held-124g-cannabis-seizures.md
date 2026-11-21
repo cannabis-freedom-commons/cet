@@ -62,6 +62,11 @@ sources:
     publisher: Atlántico
     date: 2026-11-19
     language: es
+  - title: Media docena de detenidos y diversas drogas intervenidas en solo dos semanas, en operativos contra el 'menudeo' en Vigo
+    url: https://gcdiario.com/sucesos/616514-media-docena-de-detenidos-y-diversas-drogas-intervenidas-en-solo-dos-semanas-en-operativos-contra-el-menudeo-en-vigo/
+    publisher: GC Diario
+    date: 2026-11-19
+    language: es
 open_questions:
   - The cannabis total of about 124 grams is the sum of four separately stated seizures and not an official total; the official total of about 166 grams covers all drugs and is excluded from cannabis figures.
   - It is unclear whether 2.5 grams is the combined weight of cocaine and heroin in the second Coia seizure or cocaine alone plus an unstated amount of heroin.
@@ -69,32 +74,37 @@ open_questions:
   - No names, ages, pleas or court outcome were reported; the case is at the investigation stage.
   - All outlets reproduce the same National Police account, so they are not independent; one account says five operations and another says six interventions for the same six detentions.
   - Cash totalling 385 euros is the sum of four separately stated amounts.
+media:
+  - kind: photo
+    url: https://gcdiario.com/sucesos/616514-media-docena-de-detenidos-y-diversas-drogas-intervenidas-en-solo-dos-semanas-en-operativos-contra-el-menudeo-en-vigo/
+    media_url: https://gcdiario.com/wp-content/uploads/2026/11/20261119111333-696x804.jpg
+    publisher: GC Diario
+    caption: 'Drugs and money seized from a man detained in the Vigo parish of Beade on 13 November 2026. Photo: Policía Nacional'
 ---
 
 National Police detained six people in Vigo in early November 2026 in separate
-operations against street-level drug dealing. [@1] The operations ran between 2
+operations against street-level drug dealing. [@1,4] The operations ran between 2
 and 14 November in the Plaza de la Independencia, Coia, As Travesas, central
 Vigo and Beade. [@3]
 
 The first intervention took place on the afternoon of 2 November near the Plaza
 de la Independencia after a car ran a red light and almost hit a police car.
-[@3] Officers found 72 grams of hashish, two grams of marijuana and half a gram
-of cocaine on the driver and detained him. [@1] That night in a commercial zone
+[@3,4] Officers found 72 grams of hashish, two grams of marijuana and half a gram
+of cocaine on the driver and detained him. [@1,4] That night in a commercial zone
 in Coia, officers identified a group consuming drugs and found 34 grams of
-hashish on one of them, detaining him. [@1] On 3 November near schools in
+hashish on one of them, detaining him. [@1,4] On 3 November near schools in
 Traviesas, officers watched a man apparently consuming marijuana in a parked
 vehicle and seized 14 grams of hashish, 11 grams of cocaine and 100 euros in
-small bills, detaining him. [@1] That same day in Coia, an alleged seller was
+small bills, detaining him. [@1,4] That same day in Coia, an alleged seller was
 found with two grams of marijuana, 2.5 grams of cocaine and heroin and 130 euros
 and was detained, while the alleged buyer with half a gram of cocaine faced an
-administrative sanction. [@1]
+administrative sanction. [@1,4]
 
 Police said about 166 grams of different drugs were seized overall, including
 hashish, marijuana, cocaine, heroin and MDMA. [@3] In Beade on 13 November,
 officers found 35 heat-sealed wraps of powdered cocaine plus a container of rock
-cocaine weighing about 20 grams and 135 euros, detaining the man. [@3] In the
+cocaine weighing about 20 grams and 135 euros, detaining the man. [@3,4] In the
 early hours of 14 November in central Vigo, officers found seven grams of MDMA
 in grey pills marked with a Superman symbol and 20 euros on an alleged seller
-and detained him. [@2] The Beade detainee was held as an alleged perpetrator of
+and detained him. [@2,4] The Beade detainee was held as an alleged perpetrator of
 an offence against public health. [@1]
-
