@@ -73,6 +73,10 @@ sources:
     url: https://www.occrp.org/en/news/balkan-drug-cartel-cell-targeted-in-massive-international-crackdown
     publisher: OCCRP
     date: 2026-04-15
+  - title: Arrested leading member of the "Balkan cartel" in Montenegro
+    url: https://kossev.info/en/uhapsen-vodeci-clan-balkanskog-kartela-u-crnoj-gori/
+    publisher: KoSSev
+    date: 2026-04-15
 open_questions:
   - No city or town for the arrests was published; only Montenegro and Germany were named, so country precision is used.
   - No names, ages or other identifying details for the 12 suspects were published.
@@ -83,11 +87,11 @@ open_questions:
 ---
 
 On 15 April 2026 authorities in Montenegro, with support in Germany, carried out
-a large-scale operation targeting a significant cell of the Balkan Cartel. [@1]
+a large-scale operation targeting a significant cell of the Balkan Cartel. [@1,3]
 The action day led to the arrest of twelve suspects, four of them in Germany,
-including a high-value target apprehended in Montenegro. [@1] The suspects lived
+including a high-value target apprehended in Montenegro. [@1,3] The suspects lived
 in Montenegro and Germany and were believed to act as financiers, coordinators
-and logisticians within the organisation. [@1] After the sweep Montenegro's
+and logisticians within the organisation. [@1,3] After the sweep Montenegro's
 Higher State Prosecutor's Office filed criminal complaints against 10 people for
 criminal association, unauthorised drug distribution and illicit weapons trade.
 [@2] The suspects arrested in Montenegro were to be brought before a state
@@ -95,12 +99,12 @@ prosecutor within 24 hours for a decision on pre-trial detention. [@2]
 
 Montenegrin judicial authorities linked the suspects to trafficking of 2.7
 tonnes of cocaine and 1.5 tonnes of cannabis between October 2024 and April
-2026. [@1] Those drugs had been seized in 12 separate preceding operations
-across several EU and South American countries. [@1] Investigators said the
+2026. [@1,3] Those drugs had been seized in 12 separate preceding operations
+across several EU and South American countries. [@1,3] Investigators said the
 network used maritime and air routes, including shipping containers and other
-clandestine methods, to move the drugs. [@1] The network was also suspected of
+clandestine methods, to move the drugs. [@1,3] The network was also suspected of
 smuggling cannabis into the EU from and via Albania, Thailand and the United
-States. [@1]
+States. [@1,3]
 
 Approximately 100 police officers in Montenegro and Germany took part to execute
 arrests and conduct searches. [@1] Authorities in Austria and Spain also
@@ -109,4 +113,3 @@ supported the investigation into the large-scale cocaine-and-cannabis network.
 analytical support, plus funding for special equipment and operational needs.
 [@1] Europol later added an embedded video with footage from the arrests to its
 announcement on 15 April 2026. [@1]
-
