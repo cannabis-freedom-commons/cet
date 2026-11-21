@@ -58,29 +58,27 @@ sources:
     publisher: БрянскНОВОСТИ.RU
     date: 2026-11-19
     language: ru
-open_questions:
-  - No separate date is given for the search, seizure or detention; 19 November 2026 is the publication date of both accounts and is used as the incident date.
-  - The weight is stated only as more than 900 grams, not as an exact measured figure.
-  - The exact district where the wild cannabis was gathered is not named.
-  - No trial date or verdict was reported; the case was at the investigation stage with a measure of restraint in force.
-  - Both accounts reproduce the same Interior Ministry press release rather than independent reporting.
+  - title: В Трубчевске полицейские изъяли более 900 г частей конопли
+    url: https://novozybkov.su/%D0%B2-%D1%82%D1%80%D1%83%D0%B1%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%B5-%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B5-%D0%B8%D0%B7%D1%8A%D1%8F%D0%BB%D0%B8-%D0%B1%D0%BE%D0%BB%D0%B5/
+    publisher: Новозыбков.SU
+    date: 2026-11-19
+    language: ru
 ---
 
 Police in Trubchevsk, Bryansk Oblast, detained a 42-year-old local man with a
-previous conviction on suspicion of drug offences. [@2] Criminal investigation
+previous conviction on suspicion of drug offences. [@2,3] Criminal investigation
 officers made the detention, the Interior Ministry's regional press service
 said. [@1] Police said the man had gathered wild cannabis in one of the
-districts for his own use. [@2]
+districts for his own use. [@2,3]
 
 Officers found dried green plant parts in the attic of a garage on the man's
-personal plot. [@2] The Interior Ministry's Expert-Criminalistic Centre for
+personal plot. [@2,3] The Interior Ministry's Expert-Criminalistic Centre for
 Bryansk Oblast identified them as narcotic-containing cannabis with a total mass
-of more than 900 grams. [@2] The Bryansktoday account said police seized more
+of more than 900 grams. [@2,3] The Bryansktoday account said police seized more
 than 900 grams of prohibited substances from the garage attic. [@1] Its account
 said an examination established that the dried parts came from a
 narcotic-containing cannabis plant. [@1]
 
 A criminal case was opened under part 2 of Article 228 of the Russian Criminal
-Code. [@2] A measure of restraint was imposed: a written undertaking not to
-leave and to behave properly. [@2]
-
+Code. [@2,3] A measure of restraint was imposed: a written undertaking not to
+leave and to behave properly. [@2,3]
