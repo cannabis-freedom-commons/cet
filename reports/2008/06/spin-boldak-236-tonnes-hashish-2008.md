@@ -34,11 +34,11 @@ data_sources:
 status: verified
 tags: [unodc, nato, spin-boldak, taliban]
 open_questions:
-  - NATO and press accounts put the haul at 260 tons while the UNODC statement gives 236.8 tons; this report uses the UNODC figure.
-  - The discovery is dated to Monday 9 June in press accounts while the UNODC statement is dated 12 June.
-  - No arrests were reported in the opened sources.
-  - No photograph of the seizure with a recoverable direct image address was found in the opened sources.
-  - The same VOA page also reports a separate Interior Ministry account of more than 5,000 kilograms of opium seized in Helmand province, which is not part of this cannabis report.
+    - NATO and press accounts put the haul at 260 tons while the UNODC statement gives 236.8 tons; this report uses the UNODC figure.
+    - The discovery is dated to Monday 9 June in press accounts while the UNODC statement is dated 12 June.
+    - The Associated Press account says three men were arrested in the raid, while VOA reported multiple drug dealers, including some from Iran, held in the operation.
+    - No charges or court outcome for the men arrested was reported.
+    - The same roundup reports a separate Interior Ministry account of more than 5,000 kilograms of opium seized in Helmand province, which is not part of this cannabis report.
 sources:
   - title: UN drugs chief praises world's largest cannabis bust in Afghanistan
     url: https://news.un.org/en/story/2008/06/262622
@@ -56,12 +56,28 @@ sources:
     url: https://www.voanews.com/a/a-13-2008-06-11-voa30-66752832/562972.html
     publisher: Voice of America
     date: 2009-10-27
+  - title: Afghans' 260-ton hashish bust could be record
+    url: https://www.nbcnews.com/id/wbna25101074
+    publisher: NBC News
+    date: 2008-06-11
+    language: en
+  - title: Afghans seize 260 tonnes of hashish
+    url: https://www.theguardian.com/world/2008/jun/12/drugstrade.afghanistan
+    publisher: The Guardian
+    date: 2008-06-12
+    language: en
+media:
+  - kind: photo
+    url: https://www.nbcnews.com/id/wbna25101074
+    media_url: https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1000w,f_avif,q_auto:best/ap/da4ba112-c256-4418-bcdf-b07565ccbf16.jpg
+    publisher: NBC News
+    caption: 'Hashish burning in a trench in Kandahar province after Afghan police found the cache, in an undated handout photo released by Afghanistan''s Interior Ministry. Photo: Afghan Interior Ministry / AP'
 ---
 
 Afghan police found and destroyed a vast stash of hashish near Spin Boldak in Kandahar province, close to the Pakistan border, on Monday 9 June 2008.[@3,4] The cannabis resin was buried in trenches and bunkers in the desert, and the cache was so extensive that NATO aircraft were called in to bomb it.[@3,4]
 
-UNODC executive director Antonio Maria Costa congratulated Afghanistan's interior minister for the seizure of 236.8 tons of hashish with a potential wholesale value of $400 million, according to the NATO operation in the country.[@1,2,4] He called it a massive seizure and a major success for counter-narcotics in Afghanistan.[@1,2] NATO's International Security Assistance Force said the find seriously crippled the Taliban's ability to buy weapons, and its commander General David McKiernan said the Afghan National Police Special Task Force had proved its capability against the drug trade.[@3,4]
+UNODC executive director Antonio Maria Costa congratulated Afghanistan's interior minister for the seizure of 236.8 tons of hashish with a potential wholesale value of $400 million, according to the NATO operation in the country.[@1,2,4] NATO's International Security Assistance Force said the hashish would have netted the Taliban about $14 million in profit. [@6] He called it a massive seizure and a major success for counter-narcotics in Afghanistan.[@1,2] NATO's International Security Assistance Force said the find seriously crippled the Taliban's ability to buy weapons, and its commander General David McKiernan said the Afghan National Police Special Task Force had proved its capability against the drug trade.[@3,4,5]
 
 The same operation also turned up five tons of opium, which is not counted in this report's cannabis figures.[@3]
 
-The operation also resulted in the arrest of multiple drug dealers, including some from Iran. [@4]
+The operation also resulted in the arrest of multiple drug dealers, including some from Iran. [@4] Deputy Interior Minister Lieutenant General Abdul Hadi Khalid said three men were arrested in the raid when he announced the bust on Wednesday. [@5]
