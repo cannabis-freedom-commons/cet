@@ -73,6 +73,11 @@ sources:
     publisher: Aratu On
     date: 2018-08-01
     language: pt
+  - title: 'Campo Formoso: Cem mil pés de maconha e uma tonelada da mesma droga colhida são encontrados'
+    url: https://jornalgrandebahia.com.br/2018/08/campo-formoso-cem-mil-pes-de-maconha-e-uma-tonelada-da-mesma-droga-colhida-sao-encontrados/
+    publisher: Jornal Grande Bahia (JGB)
+    date: 2018-08-01
+    language: pt
 open_questions:
   - The 100,000 plants and one tonne are police figures from the Bahia Public Security Secretariat, with no laboratory confirmation or measured weight reported.
   - Neither account says whether the 100,000 plants were burned with the tonne of marijuana or left in place; both say only that the drug was incinerated.
@@ -84,18 +89,17 @@ open_questions:
 
 Military police from the 54th Independent Company (54ª CIPM) in Campo Formoso
 found a cannabis plantation in the São Tomé settlement, in the rural zone of
-Campo Formoso in northern Bahia, on Tuesday 31 July 2018. [@1] Officers went to
+Campo Formoso in northern Bahia, on Tuesday 31 July 2018. [@1,4] Officers went to
 the site after an anonymous tip that pointed to a cannabis plantation on a piece
-of land. [@1] At the plantation the officers were surprised by ten men who fired
-at them. [@1] One man, whom police called a drug trafficker and had not
+of land. [@1,4] At the plantation the officers were surprised by ten men who fired
+at them. [@1,4] One man, whom police called a drug trafficker and had not
 identified, was wounded in the confrontation and died; the rest escaped into the
-woods. [@1] The raid took place in the early afternoon. [@3] Campo Formoso lies
+woods. [@1,4] The raid took place in the early afternoon. [@3,4] Campo Formoso lies
 about 420 km from Salvador. [@3]
 
 The Bahia Public Security Secretariat said 100,000 cannabis plants and one tonne
-of marijuana ready for consumption were found. [@2] Officers also seized a car
-and a motorcycle at the smallholding. [@1] The secretariat identified the
-vehicles as an S10 pickup and a Bros motorcycle. [@2] Police burned the drug and
+of marijuana ready for consumption were found. [@2,4] Officers also seized a car
+and a motorcycle at the smallholding. [@1,4] The secretariat identified the
+vehicles as an S10 pickup and a Bros motorcycle. [@2,4] Police burned the drug and
 registered the case at the Campo Formoso police station, which is investigating.
-[@1]
-
+[@1,4]
