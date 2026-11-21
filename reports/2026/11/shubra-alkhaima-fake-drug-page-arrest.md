@@ -54,20 +54,25 @@ sources:
     publisher: الزمان
     date: 2026-11-20
     language: ar
+  - title: الداخلية تكشف حيلة أدمن صفحة تروّج لبيع المخدرات بالقليوبية.. يستدرج الضحايا لتحويل الأموال ثم يغلق هاتفه
+    url: https://www.publicopinioncase.com/98757
+    publisher: قضية رأي عام
+    date: 2026-11-19
+    language: ar
 ---
 
 Security services in Qalyubia Governorate arrested one person accused of running
-a social-media page that advertised drugs for sale in return for money. [@1,3] The
+a social-media page that advertised drugs for sale in return for money. [@1,3,4] The
 General Administration for Combating Information Technology Crimes, working with
-the Public Security sector, uncovered the page. [@1,3] Investigations identified
+the Public Security sector, uncovered the page. [@1,3,4] Investigations identified
 the page's administrator as an unemployed man living in the first Shubra
-Al-Khaima police district of Qalyubia Governorate. [@2,3]
+Al-Khaima police district of Qalyubia Governorate. [@2,3,4]
 
 Officers found a mobile phone on the suspect and said examining it revealed
-evidence of his criminal activity. [@1,3] Investigations showed he was not in
-possession of any drugs. [@1,3]
+evidence of his criminal activity. [@1,3,4] Investigations showed he was not in
+possession of any drugs. [@1,3,4]
 
 When confronted, he admitted creating and running the page to cheat people who
 wanted to buy drugs, taking their money transfers and then switching off his
-phone to avoid them. [@1,3] Police took the necessary legal measures and the
+phone to avoid them. [@1,3,4] Police took the necessary legal measures and the
 Public Prosecution took over the investigation. [@1,3]
