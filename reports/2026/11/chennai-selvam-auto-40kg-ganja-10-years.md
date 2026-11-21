@@ -71,6 +71,11 @@ sources:
   - title: Greater Chennai Police post on ganja smuggling conviction
     url: https://x.com/chennaipolice_/status/2123055820267245809
     publisher: Greater Chennai Police
+  - title: 'கஞ்சா கடத்தல்: ஆட்டோ ஓட்டுநருக்கு 10 ஆண்டுகள் சிறைத் தண்டனை'
+    url: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/20/%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%8B-%E0%AE%93%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%A8%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81-10-%E0%AE%86%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AF%88%E0%AE%A4%E0%AF%8D-%E0%AE%A4%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%A9%E0%AF%88
+    publisher: தினமணி
+    date: 2026-11-20
+    language: ta
 open_questions:
   - 'The sources differ on the sentencing date: ETV Bharat places the final hearing on 20 November 2026, the day it was published, while Dinamalar published its account of the verdict on 16 November 2026.'
   - Dinamalar dates the tip and arrest to 20 March 2023; the other accounts say only March 2023.
@@ -81,25 +86,24 @@ open_questions:
 
 A special court in Chennai sentenced an auto-rickshaw driver to 10 years'
 imprisonment and a fine of 1 lakh rupees after convicting him of smuggling 40 kg
-of ganja. [@1] The Greater Chennai Police said the man was convicted of
+of ganja. [@1,6] The Greater Chennai Police said the man was convicted of
 smuggling ganja in an auto-rickshaw in 2023 and sentenced to 10 years' rigorous
 imprisonment and a 1 lakh rupee fine. [@5] The driver was identified as Selvam,
-55, from the Kavangarai area of Sengundram in Chennai. [@1]
+55, from the Kavangarai area of Sengundram in Chennai. [@1,6]
 
 Police received a secret tip in March 2023 that Selvam was illegally carrying
-about 40 kg of ganja near the Santhome sports ground in Chennai. [@1] Officers
+about 40 kg of ganja near the Santhome sports ground in Chennai. [@1,6] Officers
 searched the area, intercepted his auto-rickshaw, seized the 40 kg of ganja
 hidden inside and arrested him. [@1] Two other accounts say the ganja was hidden
 in two bags in the auto. [@3] Police registered a case against him under the
 Narcotic Drugs and Psychotropic Substances Act. [@4]
 
 The case was heard at the First Additional Special Court for NDPS cases on the
-Madras High Court campus, before Judge S. Govindarajan. [@3] At the final
+Madras High Court campus, before Judge S. Govindarajan. [@3,6] At the final
 hearing, government special prosecutor K. Udayakumar argued that the two bags
 held 40 kg of ganja, that witnesses and evidence pointed to Selvam and that he
-should receive the maximum punishment. [@1] Selvam's lawyer argued he had no
-connection to the incident, was innocent and should be acquitted. [@4] Finding
+should receive the maximum punishment. [@1,6] Selvam's lawyer argued he had no
+connection to the incident, was innocent and should be acquitted. [@4,6] Finding
 the charges proved beyond doubt, the judge gave Selvam 10 years' rigorous
-imprisonment and a 1 lakh rupee fine. [@2] The court ordered three months'
+imprisonment and a 1 lakh rupee fine. [@2,6] The court ordered three months'
 additional imprisonment if the fine was not paid. [@2]
-
