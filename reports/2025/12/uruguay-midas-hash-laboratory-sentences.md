@@ -83,6 +83,12 @@ sources:
     publisher: Teledoce
     date: 2025-12-09
     language: es
+  - title: 'Incautación récord: casi 4.500 kg de marihuana hallados entre Canelones y San José'
+    url: https://www.carasycaretas.com.uy/politica/incautacion-record-casi-4500-kg-marihuana-hallados-canelones-y-san-jose-n90750
+    publisher: Caras y Caretas
+    date: 2025-12-09
+    language: es
+    archived: https://web.archive.org/web/20260119090207id_/https://www.carasycaretas.com.uy/politica/incautacion-record-casi-4500-kg-marihuana-hallados-canelones-y-san-jose-n90750
 media:
   - kind: photo
     url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/incautan-4400-kilos-droga-desmantelan-laboratorio-procesamiento-hachis
@@ -109,12 +115,17 @@ media:
     media_url: https://www.infobae.com/resizer/v2/AU3NUHOC5ZCTHDFK5WCBWGHPVY.jpeg?auth=7add342b1771fc5ead914b22c1baa5bdb8654bb0b5a4dffc0eeb03d76dee410d&smart=true&width=350&height=233&quality=85
     publisher: Infobae
     caption: 'Objects seized in the Operation Midas laboratory raids, laid out at the press briefing. Photo: Ministerio del Interior'
+  - kind: photo
+    url: https://www.carasycaretas.com.uy/politica/incautacion-record-casi-4500-kg-marihuana-hallados-canelones-y-san-jose-n90750
+    media_url: https://media.carasycaretas.com.uy/p/743c6a23dea945200cd632192d33de38/adjuntos/328/imagenes/000/183/0000183338/776x438/smart/aerea.jpeg
+    publisher: Caras y Caretas
+    caption: Sacks of marijuana seized in Operation Midas, captioned in the report as the loads taken in the operation.
 ---
 
 Uruguay's Operation Midas ended on 7 December 2025 with four search warrants at a chacra near Juan
 Soler in San José and three rural properties in Canelones. [@1,2,3,4,5] Police seized 4,433.65 kg of
 cannabis material and 46.52 kg of hashish resin from a clandestine processing laboratory, along
-with vehicles, steel towers and dry-ice packaging used in production. [@1,2,3,4,6]
+with vehicles, steel towers and dry-ice packaging used in production. [@1,2,3,4,6,7]
 
 Two Uruguayans and two Brazilians were detained; prosecutors said the hashish was destined for
 Brazil's illegal market. [@1,2,3,4,6] On 9 December the Interior Ministry reported abbreviated sentences:
