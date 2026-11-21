@@ -96,20 +96,25 @@ sources:
     publisher: WP Info
     date: 2026-11-19
     language: pl
+  - title: Był poszukiwany za niezapłaconą grzywnę. Teraz grozi mu 10 lat więzienia
+    url: https://miejskireporter.pl/byl-poszukiwany-za-niezaplacona-grzywne-teraz-grozi-mu-10-lat-wiezienia/
+    publisher: Miejski Reporter
+    date: 2026-11-19
+    language: pl
 ---
 
 Płock city police arrested a 22-year-old man linked to the football hooligan
-scene, known in Poland as pseudokibice. [@3,4,5,6] He was wanted to serve a sentence
-imposed for not paying a fine for damage to property. [@3,4,5,6] Officers of the Płock
+scene, known in Poland as pseudokibice. [@3,4,5,6,7] He was wanted to serve a sentence
+imposed for not paying a fine for damage to property. [@3,4,5,6,7] Officers of the Płock
 command's football-hooligan unit and its department for crimes against life and
-health carried out the arrest. [@2,4,5] Officers went to his flat on 16 November
-2026 and searched it. [@3,4,5,6]
+health carried out the arrest. [@2,4,5,7] Officers went to his flat on 16 November
+2026 and searched it. [@3,4,5,6,7]
 
-The search turned up more than half a kilogram of marijuana and hashish. [@3,4,5,6]
+The search turned up more than half a kilogram of marijuana and hashish. [@3,4,5,6,7]
 Police estimated the black-market value of the drugs at nearly 27,000 złoty.
-[@3,4,5,6] The discovery widened the case to a suspected drug offence. [@1]
+[@3,4,5,6,7] The discovery widened the case to a suspected drug offence. [@1]
 
 He was charged with possession of a significant amount of intoxicating
-substances. [@1,4,5,6] Płock police spokeswoman Monika Jakubowska gave the account of the charge and the detention order. [@4,5] At the prosecutor's request a court ordered him held in
-pre-trial detention for three months. [@3,4,5,6] Possession of a significant amount of
-drugs carries up to 10 years in prison. [@1,4,5,6]
+substances. [@1,4,5,6,7] Płock police spokeswoman Monika Jakubowska gave the account of the charge and the detention order. [@4,5] At the prosecutor's request a court ordered him held in
+pre-trial detention for three months. [@3,4,5,6,7] Possession of a significant amount of
+drugs carries up to 10 years in prison. [@1,4,5,6,7]
