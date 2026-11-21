@@ -47,6 +47,11 @@ media:
     media_url: https://www.koaci.com/assets/news/thumbnails/1500/2026/10/photo_1793011354.jpg
     publisher: KOACI
     caption: 'The woman arrested in the Issia raid, in a Koaci photograph published with the report of the seizure. Photo: Koaci'
+  - kind: photo
+    url: https://l-frii.com/cote-divoire-265-kg-de-cannabis-et-280-comprimes-saisis-a-issia-une-femme-interpellee/
+    media_url: https://i0.wp.com/l-frii.com/wp-content/uploads/2026/10/Cote-dIvoire-265-kg-de-cannabis-et-280-comprimes-saisis-a-Issia-une-femme-interpellee.webp?resize=1024%2C683&ssl=1
+    publisher: L-FRII
+    caption: 'The woman arrested in Issia shown with the cannabis and medicine tablets seized at her home, in the Police Secours photo published with the account of the raid. Photo: Police Secours'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: e1cb8ff73247b7a63838fea31d2f2797
@@ -72,6 +77,11 @@ sources:
     publisher: Akwaba News
     date: 2026-10-26
     language: fr
+  - title: 'Côte d’Ivoire : 2,65 kg de cannabis et 280 comprimés saisis à Issia, une femme interpellée'
+    url: https://l-frii.com/cote-divoire-265-kg-de-cannabis-et-280-comprimes-saisis-a-issia-une-femme-interpellee/
+    publisher: L-FRII
+    date: 2026-10-26
+    language: fr
 open_questions:
   - No charge, plea or court outcome was reported; the woman was in police custody while the investigation continued.
   - The KOACI headline says 313 tablets, while its text and the other outlets list 130 Tramaking and 150 Tapintadol tablets, 280 in all; the report uses 280.
@@ -82,28 +92,27 @@ open_questions:
 ---
 
 Officers of the Groupe de répression anti-drogue (GRAD) of Daloa arrested a
-37-year-old woman at her home in Issia. [@1] The raid took place at about 02:05
-in the night of Saturday 24 October 2026, in the Séreguhé district. [@1] The
+37-year-old woman at her home in Issia. [@1,5] The raid took place at about 02:05
+in the night of Saturday 24 October 2026, in the Séreguhé district. [@1,5] The
 woman was at home with her three children when officers arrived, following a tip
 that cannabis and Tramadol tablets were being sold from the house. [@1] She is a
 housewife who lives in the district and is identified by the initials N'K E.
 [@2]
 
 In a black bag officers found two balloons and 90 sachets of OG Kush cannabis
-weighing 2.65 kg in total. [@1] They also seized 130 Tramaking tablets, 150
+weighing 2.65 kg in total. [@1,5] They also seized 130 Tramaking tablets, 150
 Tapintadol tablets, 33 packs of OCB rolling papers and a KTM motorcycle; the
 tablets are medicines, not cannabis, and are not counted in the cannabis
-figures. [@1] Police estimated the total market value of the products and goods
-seized at 2 million CFA francs. [@1]
+figures. [@1,5] Police estimated the total market value of the products and goods
+seized at 2 million CFA francs. [@1,5]
 
 The operation was part of Opération Épervier Spécial, a police drive against
-drug trafficking. [@1] The woman was taken to the GRAD offices in Daloa and
-placed in garde à vue, French for police custody. [@1] The public prosecutor at
-the Issia court of first instance was informed of the operation. [@1]
+drug trafficking. [@1,5] The woman was taken to the GRAD offices in Daloa and
+placed in garde à vue, French for police custody. [@1,5] The public prosecutor at
+the Issia court of first instance was informed of the operation. [@1,5]
 Investigators were to establish where the cannabis came from and whether holding
 it was part of a wider distribution business. [@1] They were also to establish
-whether she acted alone or was linked to a wider distribution network. [@4] The
+whether she acted alone or was linked to a wider distribution network. [@4,5] The
 exact circumstances of the offences alleged against her were still to be
 established. [@3] She is presumed innocent until her guilt is established at
-law. [@1]
-
+law. [@1,5]
