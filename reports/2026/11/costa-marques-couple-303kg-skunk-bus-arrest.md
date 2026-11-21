@@ -68,31 +68,28 @@ sources:
     publisher: A Gazeta de Rondônia
     date: 2026-11-19
     language: pt
-open_questions:
-  - Police described the substance as similar to marijuana and known as skunk; no laboratory confirmation was reported.
-  - The 30.3 kg amount is given as approximate, and no separate official weighing was published.
-  - The couple's residence in Sinop, purchase in Bolivia and destination of Goiânia come from their own account to police and were not independently verified.
-  - No formal charge, custody decision or court outcome was reported beyond the arrest in flagrante and registration at the civil police station.
-  - The couple's names, ages and further identification were not released.
-  - Several outlets reproduce the same police account, so they are not independent reporting.
+  - title: Casal é preso com mais de 30 kg de skunk escondidos em malas perto da rodoviária
+    url: https://diariodaamazonia.com.br/noticia/5/455431/casal-e-preso-com-mais-de-30-kg-de-skunk-escondidos-em-malas-perto-da-rodoviaria
+    publisher: Diário da Amazônia
+    date: 2026-11-19
+    language: pt
 ---
 
 Rondônia military police arrested a couple in flagrante for drug trafficking
 near the bus terminal at Costa Marques on the morning of 18 November 2026,
-around 11:50. [@1] Officers said the pair became visibly nervous when they
+around 11:50. [@1,5] Officers said the pair became visibly nervous when they
 noticed the patrol car and hurried onto an intercity bus, prompting a stop
-inside the vehicle. [@2] Questioned about their bags, the two said they were
+inside the vehicle. [@2,5] Questioned about their bags, the two said they were
 carrying only clothes, but a search found several wrapped portions of the drug.
-[@3]
+[@3,5]
 
 Police seized approximately 30.3 kg of a substance described as similar to
-marijuana and known as skunk. [@1] The couple said they lived in Sinop, Mato
+marijuana and known as skunk. [@1,5] The couple said they lived in Sinop, Mato
 Grosso, had bought the load in Bolivia and intended to take it to Goiânia,
-Goiás. [@4] Officers also seized three mobile phones. [@1]
+Goiás. [@4,5] Officers also seized three mobile phones. [@1,5]
 
 The pair received a voice of arrest and were taken to the Costa Marques Civil
 Police station with the drug and the phones for the occurrence to be registered.
-[@2] Costa Marques lies in a border region of Rondônia. [@4] Police described
+[@2,5] Costa Marques lies in a border region of Rondônia. [@4] Police described
 the stop as part of preventive patrols against interstate and international drug
 trafficking in the border area. [@1]
-
