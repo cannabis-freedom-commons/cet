@@ -46,6 +46,11 @@ sources:
     publisher: Rim Now
     date: 2026-08-18
     language: fr
+  - title: 'Saisies de drogue et le démantèlement des réseaux criminels: la police et la gendarmerie multiplient les opérations'
+    url: http://www.cridem.org/C_Info.php?article=795969
+    publisher: Cridem
+    date: 2026-08-22
+    language: fr
 open_questions:
   - No separate date was given for the seizure; 17 August 2026 is the Monday of the police announcement in the weekly tally.
   - Neither account names the neighbouring country the food shipments came from, or the place in Mauritania where the hashish was found.
@@ -55,7 +60,7 @@ open_questions:
 
 Mauritanian police announced that they had seized 202 kilograms of hashish
 hidden in food shipments from a neighbouring country and arrested three suspects
-involved in the trafficking operation. [@1] The General Directorate of National
+involved in the trafficking operation. [@1,3] The General Directorate of National
 Security said the operation had dismantled a drug-trafficking network and that
 the three people were suspected of taking part in that group's operations across
 regions of the country. [@2] The same police account described the seized drug
@@ -72,4 +77,3 @@ The three suspects had been under surveillance, and the inquiry continued under
 the competent prosecutor so that the judicial steps could be completed. [@1] The
 directorate said the investigation was continuing under the competent prosecutor
 with a view to prosecution. [@2]
-
