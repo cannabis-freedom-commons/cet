@@ -47,6 +47,11 @@ media:
     media_url: https://www.aljazeera.com/wp-content/uploads/2021/09/WEB-MAP-MALAWI-LILONGWE.jpg?resize=770%2C513&quality=80
     publisher: Al Jazeera
     caption: 'Map of Malawi showing the capital Lilongwe, published with the account of the July 2022 protests that followed the sentence. Map: Al Jazeera'
+  - kind: photo
+    url: https://malawi24.com/2022/06/16/teen-arrested-in-blantyre-over-chamba/
+    media_url: https://malawi24.com/wp-content/uploads/2022/06/IMG_20220616_204641.webp
+    publisher: Malawi24
+    caption: 'Featured image published with the report of Mussa John''s arrest over 78 bags of chamba in Blantyre. Photo: Malawi24'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 43805a6be6108cff0f0b78f03648317d
@@ -68,6 +73,10 @@ sources:
     url: https://malawi24.com/2022/09/01/mussa-not-reduced-sentence-reduced-to-three-years/
     publisher: Malawi24
     date: 2022-09-01
+  - title: Teen arrested in Blantyre over Chamba
+    url: https://malawi24.com/2022/06/16/teen-arrested-in-blantyre-over-chamba/
+    publisher: Malawi24
+    date: 2022-06-16
 open_questions:
   - The arrest on 15 June 2022 and the sentencing on 24 June 2022 come from the Malawi Institute of Journalism account dated 24 June 2022; the senior magistrate is named Byson Masonga there and in Nation Online.
   - The first account says the drug weighed 134 kilograms; a later Malawi24 report describing the campaign for his release calls it 134 grams, an evident slip; the 134 kg figure is used.
@@ -85,7 +94,7 @@ A magistrate's court in Limbe, Blantyre, sentenced 19-year-old Mussa John to
 eight years in prison for illegally possessing Indian hemp, the local name for
 cannabis, weighing 134 kilograms. [@1] Limbe police detectives acting on a tip
 searched his house on 15 June 2022 and found 78 plastic bags of the drug, and he
-was arrested and charged with possessing Indian hemp without a licence. [@1] He
+was arrested and charged with possessing Indian hemp without a licence. [@1,5] Limbe Police detectives acting on a tip found the drug in his house in Kachere township in the city of Blantyre. [@5] He
 pleaded guilty to an offence under Regulation 4(a) of the Dangerous Drugs
 Regulations and the Dangerous Drugs Act, and Senior Resident Magistrate Byson
 Masonga sentenced him to eight years' imprisonment with hard labour. [@1] The
@@ -108,4 +117,3 @@ Supreme Court of Appeal. [@4] His sentence became the flashpoint for protests in
 Malawi in July 2022, when police in Lilongwe arrested 75 people, including human
 rights campaigners, during demonstrations against what they called selective
 justice by the judiciary. [@2]
-
