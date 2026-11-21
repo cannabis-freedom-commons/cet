@@ -48,12 +48,28 @@ sources:
     publisher: தினமணி
     date: 2026-11-18
     language: ta
+  - title: Three held with seven kg of ganja and machetes in Thoothukudi
+    url: https://www.thehindu.com/news/cities/Madurai/three-held-with-seven-kg-of-ganja-and-machetes-in-thoothukudi/article71724603.ece
+    publisher: The Hindu
+    date: 2026-11-20
+    language: en
+  - title: 'அதிரடி வேட்டை: 7 கிலோ கஞ்சாவுடன் 3 பேர் கைது!'
+    url: https://thenewsoutlook.in/news/crackdown-3-arrested-with-7-kg-cannabis-g9DfJXYqOeZokkBtTFtn.html
+    publisher: The News Outlook
+    date: 2026-11-19
+    language: ta
+  - title: தூத்துக்குடியில் 7 கிலோ கஞ்சா 3 அரிவாள்கள் பறிமுதல். 3 பேர் கைது
+    url: https://policenewsplus.in/%E0%AE%A4%E0%AF%82%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-7-%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8B-%E0%AE%95/
+    publisher: Police News Plus
+    date: 2026-11-20
+    language: ta
 open_questions:
-    - The six sickles are listed as seized property; neither account says what they were for or whether anyone was threatened.
-    - The ganja is described only as ganja carried in a bag, with no laboratory confirmation and no value estimate.
-    - No charge section, court appearance or detention measure was reported for the three, who were still being questioned.
-    - Daily Thanthi also lists a knife and three mobile phones among the seized items; the Dinamani account names only the ganja, six sickles and three two-wheelers.
-    - Both accounts give the same police version of the check, so no independent account of the arrests has been published.
+    - The six sickles are listed as seized property; neither the 18 November accounts nor the later briefs say what they were for or whether anyone was threatened.
+    - The ganja is described only as ganja, with no laboratory confirmation and no value estimate.
+    - One later account said the case was registered under the NDPS Act; no section number, court appearance or detention measure was reported.
+    - Daily Thanthi also lists a knife and three mobile phones among the seized items; the Dinamani account names only the ganja, six sickles and three two-wheelers. Later briefs instead name three machetes and ganja plants, with no count of the plants.
+    - The 18 November accounts and the later briefs disagree on the day, the place name, the weapons and the men's ages and addresses, so it is not clear whether the Roche Park stop is the same Beach Road check.
+    - No independent account beyond police versions has been published.
 ---
 
 Police in Thoothukudi arrested three young men after finding 7 kg of ganja, six
@@ -70,4 +86,4 @@ said all three had several cases registered at the station and were listed in
 its history sheet as offenders. [@1,2]
 
 Police registered a case over the seizure and were continuing the investigation.
-[@1]
+[@1,3,4] The case was registered under the NDPS Act. [@5]
