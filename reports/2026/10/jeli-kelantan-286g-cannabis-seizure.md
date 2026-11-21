@@ -77,43 +77,41 @@ sources:
     publisher: Sinar Harian
     date: 2026-11-05
     language: ms
+  - title: Customs Dept foils attempts to smuggle RM2.24m worth of drugs
+    url: https://thesun.my/news/malaysia-news/customs-dept-foils-attempts-to-smuggle-rm2-24m-worth-of-drugs/
+    publisher: The Sun Malaysia
+    date: 2026-11-04
 open_questions:
-  - The operation date is given only as 10 October 13 as “this year”; 2026 is inferred from the 4 November 2026 publication date.
-  - No suspect was arrested or named; the rider escaped and remains unidentified.
-  - No charges or court outcome were reported; the investigation was still under way.
-  - The article’s combined total of 44.787 kg and RM2,247,930 and the ketamine-only figures of 44.501 kg and RM2,225,050 are excluded from cannabis figures because they cover a separate non-cannabis seizure.
-  - The same article reports a separate 13 August ketamine seizure at a Sepang courier mail centre, left out here as a different event.
-  - Only one accessible source for this Jeli seizure was found after searching in Chinese, Malay and English.
-  - The Kosmo Online page image is captioned Gambar Hiasan, meaning illustrative image, so it adds no new photo of this seizure.
-  - The Malaysia Tribune page gives the Jeli cannabis as 0.28 kg and RM22,880, as do the earlier Kosmo and Guangming accounts; the report's existing 286 g figure is retained and the two are the same weight written differently.
-  - The article is written in Malay although the page's language metadata says en-US; its publication date is 5 November 2026, while the Jeli operation date is given only as 13 October.
-  - The article repeats that the rider escaped and no arrest or charge followed the Jeli seizure; it gives no information on the suspect's identity or on the investigation's outcome.
-  - Operation Mekong Dragon VII, named in this account for the 13 August Sepang ketamine seizure, has not previously been reported as the operation name for that case.
-  - 'Left out, as its quotation was not found in Sinar Harian: Both cases were taken to the North Port customs office and investigated under Section 39B of the Dangerous Drugs Act 1952.'
-  - The page's photos were published with captions for the combined two-operation announcement; none is separately captioned as showing only the 286 g of cannabis flower from Jeli.
-  - The report's text was already supported by this Sinar Harian article through its AMP address; this full address is a second URL for the same piece, and Newswav is a reprint of it.
+    - The amount is written as 286 g in earlier accounts and as 0.28 kg in the customs statement; the two describe the same weight.
+    - No suspect was arrested or named; the rider escaped and remains unidentified.
+    - No charges or court outcome were reported; the investigation was still under way.
+    - Only the day of the Jeli incident, 13 October, is given; the year 2026 is inferred from the 4 November 2026 announcement.
+    - The combined 44.78 kg and RM2.24 million figures cover both operations; the ketamine-only 44.5 kg and RM2.22 million from Sepang are excluded from the cannabis figures.
+    - The same announcement reported a separate 13 August ketamine seizure at a courier mail centre in Sepang, left out here as a different event.
+    - The 286 g was described as suspected cannabis buds, with no laboratory confirmation reported.
+    - No later arrest or development in the investigation was reported.
 ---
 
 Selangor Customs enforcement officers spotted an unregistered motorcycle with a
 suspicious rider in Jeli district, Kelantan, on 13 October 2026 and began
-tracking him. [@1,2,3,5] The rider accelerated and fled when he realised officers were
+tracking him. [@1,2,3,5,6] The rider accelerated and fled when he realised officers were
 following, leading to a chase in which officers kept up but the suspect escaped
-through narrow roads. [@1,2] While fleeing, the rider threw a green plastic
+through narrow roads. [@1,2,6] While fleeing, the rider threw a green plastic
 package onto the roadside. [@1,2]
 
 Officers recovered the package and found 286 grams of suspected cannabis flower
-inside. [@1,2,4,5] Customs estimated the 286 grams of suspected cannabis flower at
-RM22,880. [@1,2,3,4] Officers seized the exhibit and sent it to the North Port customs
-office for investigation. [@1,2]
+inside. [@1,2,4,5,6] Customs estimated the 286 grams of suspected cannabis flower at
+RM22,880. [@1,2,3,4,6] Officers seized the exhibit and sent it to the North Port customs
+office for investigation. [@1,2,6]
 
 Customs said the suspect appeared to have used the unregistered motorcycle
 deliberately to avoid detection and to make escape easier. [@1,3,4] The case is
 being investigated under Section 39B of the Dangerous Drugs Act 1952, which
 allows death or life imprisonment on conviction and at least 12 strokes of the
-cane if death is not imposed. [@1,2] No arrest was reported at the scene and the
-investigation was still under way with no court outcome announced. [@1]
+cane if death is not imposed. [@1,2,6] No arrest was reported at the scene and the
+investigation was still under way with no court outcome announced. [@1,6]
 
-Selangor Customs ran the Jeli motorcycle hunt under the operation name Shieldgate, separate from its courier-parcel operation in Sepang. [@3] Customs said the Jeli cannabis and the ketamine seized in the separate Sepang operation were taken together to the North Port customs office for further investigation under Section 39B of the Dangerous Drugs Act 1952. [@3]
+Selangor Customs ran the Jeli motorcycle hunt under the operation name Shieldgate, separate from its courier-parcel operation in Sepang. [@3,6] Customs said the Jeli cannabis and the ketamine seized in the separate Sepang operation were taken together to the North Port customs office for further investigation under Section 39B of the Dangerous Drugs Act 1952. [@3,6]
 
 Selangor Customs announced the Jeli seizure on 13 October 2026 together with a separate 44.501 kg ketamine seizure worth some RM2.22 million at a courier company's mail centre near Sepang on 13 August, under Operation Mekong Dragon VII. [@4]
 
