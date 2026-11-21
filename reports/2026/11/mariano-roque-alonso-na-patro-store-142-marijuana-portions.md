@@ -59,6 +59,11 @@ sources:
     publisher: Secretaría Nacional Antidrogas (SENAD)
     date: 2026-11-17
     language: es
+  - title: SENAD SACÓ DE CIRCULACIÓN MÁS DE 500 DOSIS DE DROGAS EN MARIANO ROQUE ALONSO
+    url: https://prensamercosur.org/2026/11/18/senad-saco-de-circulacion-mas-de-500-dosis-de-drogas-en-mariano-roque-alonso/
+    publisher: Prensa Mercosur
+    date: 2026-11-18
+    language: es
 open_questions:
   - No weight was published for the 142 marijuana portions, which are reported only as portions or “tocos”.
   - The 514-dose total covers coca paste, cocaine and marijuana together; only the 142 marijuana portions are treated as cannabis and the combined total is not attributed to it.
@@ -71,21 +76,20 @@ open_questions:
 SENAD special agents raided a neighbourhood grocery and warehouse used as a
 front for retail drug sales in Mariano Roque Alonso on Tuesday 17 November 2026.
 [@1] The premises, known as “Ña Patro”, is in the San Luis neighbourhood of the
-city. [@1] The owner, Lilian Patrocinia Pacheco, 53, known as “Ña Patro”, was
-detained there as the suspected person responsible for the drug sales. [@1] The
+city. [@1,3] The owner, Lilian Patrocinia Pacheco, 53, known as “Ña Patro”, was
+detained there as the suspected person responsible for the drug sales. [@1,3] The
 raid was carried out by SENAD's urban operations directorate under anti-drug
-prosecutor César Sosa. [@1] SENAD said the small shop served as a front for
-distributing illegal substances in the neighbourhood. [@2]
+prosecutor César Sosa. [@1,3] SENAD said the small shop served as a front for
+distributing illegal substances in the neighbourhood. [@2,3]
 
 Officers found 514 doses of drugs already portioned and ready for distribution
 inside the premises. [@1] About 350 of the doses were coca paste, known in
 Paraguay as chespi, and 22 were cocaine hydrochloride. [@1] The cannabis seized
-was 142 portions, or “tocos”, of marijuana. [@1] Officers also found cash, a
-mobile phone and a precision scale, SENAD said. [@2]
+was 142 portions, or “tocos”, of marijuana. [@1,3] Officers also found cash, a
+mobile phone and a precision scale, SENAD said. [@2,3]
 
 Officers went to the shop after a series of complaints that people from outside
 the neighbourhood were gathering there. [@1] By order of the prosecutor, the
 woman and all the evidence were sent to SENAD's operations base and left at the
 disposal of the courts. [@1] SENAD presented the case as part of a growing
-pattern in which small shops are used to cover drug sales. [@2]
-
+pattern in which small shops are used to cover drug sales. [@2,3]
