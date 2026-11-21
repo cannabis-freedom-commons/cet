@@ -86,20 +86,25 @@ sources:
     publisher: Vocal TV
     date: 2026-11-20
     language: hi
+  - title: 'लखनऊ : ओडिशा से गांजा की तस्करी कर ला रहे दो तस्कर गिरफ्तार,लाखों का अवैध गांजा बरामद।।||Lucknow: Two smugglers smuggling marijuana from Odisha arrested; illegal marijuana worth lakhs recovered.||'
+    url: https://www.dotookmedia.com/2026/11/lucknow-two-smugglers-smuggling.html
+    publisher: Do Took Media
+    date: 2026-11-20
+    language: hi
 ---
 
 Police arrested two men on 19 November 2026 near the municipal corporation
-office on Bandha Road. [@3] The arrests were made by the Crime Branch of Lucknow
-Police. [@2,6] The operation was directed by the Aliganj ACP and the Aliganj station house officer, with the Lucknow crime branch in-charge and the Hazratganj station house officer also involved. [@5] Officers seized 48.80 kg of ganja from the men. [@1,6]
+office on Bandha Road. [@3,7] The arrests were made by the Crime Branch of Lucknow
+Police. [@2,6,7] The operation was directed by the Aliganj ACP and the Aliganj station house officer, with the Lucknow crime branch in-charge and the Hazratganj station house officer also involved. [@5] Officers seized 48.80 kg of ganja from the men. [@1,6,7]
 
-The cannabis was packed in 43 packets. [@1,6] The two men were aged 49 and 45,
-police said. [@2] Police identified the two as Prakash Dubey, a Prayagraj resident, and Jay Anand Mishra, who lives in the Awadh Vihar Yojana in Lucknow. [@6] Police said the men brought ganja from Odisha for supply in
-Lucknow and adjoining districts. [@2,6] Officers also found two mobile phones and
-540 rupees in cash. [@3] Police seized the red car used to transport the
-consignment. [@2] The car they were using carried a Jharkhand registration number. [@6] Police recovered the ganja from a Brezza car and took the vehicle into custody. [@4]
+The cannabis was packed in 43 packets. [@1,6,7] The two men were aged 49 and 45,
+police said. [@2,7] Police identified the two as Prakash Dubey, a Prayagraj resident, and Jay Anand Mishra, who lives in the Awadh Vihar Yojana in Lucknow. [@6,7] Police said the men brought ganja from Odisha for supply in
+Lucknow and adjoining districts. [@2,6,7] Officers also found two mobile phones and
+540 rupees in cash. [@3,7] Police seized the red car used to transport the
+consignment. [@2,7] The car they were using carried a Jharkhand registration number. [@6] Police recovered the ganja from a Brezza car and took the vehicle into custody. [@4]
 
 An FIR was registered at Aliganj police station under Case No. 227/2026,
-invoking Sections 8 and 20 of the NDPS Act. [@2] The arrests are part of
+invoking Sections 8 and 20 of the NDPS Act. [@2,7] The arrests are part of
 Operation Narco Hunt, launched by the Lucknow Police Commissionerate under the
 Union Home Ministry's three-year Vision Document for 2026–2029. [@2] ADCP Crime
 Kiran Yadav said the Crime Branch was investigating the source of the cannabis,
