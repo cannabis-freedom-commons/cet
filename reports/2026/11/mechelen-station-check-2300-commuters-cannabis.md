@@ -60,30 +60,36 @@ sources:
     publisher: Nieuwsblad
     date: 2026-11-20
     language: nl
+  - title: Politie neemt airsoftwapens, drugs en steroiden in beslag bij controleactie aan station in Mechelen
+    url: https://www.hln.be/mechelen/politie-neemt-airsoftwapens-drugs-en-steroiden-in-beslag-bij-controleactie-aan-station-in-mechelen~ae807b50/
+    publisher: HLN
+    date: 2026-11-20
+    language: nl
 open_questions:
     - No single total for the cannabis was published; 61.62 grams is the sum of 55 grams seized at Nekkerspoel and 6.62 grams at the central station.
     - The cannabis is not described further, and no laboratory confirmation of the substance was reported.
     - Nearly 500 grams of mephedrone, 49.44 grams of methadone, steroids and the two airsoft weapons are excluded from the cannabis figures.
-    - The arrest concerned a breach of pre-trial detention, not a cannabis offence.
+    - The detentions did not concern cannabis offences; VRT NWS says the man taken to prison had breached his pre-trial detention, while HLN and RTV describe him as flagged in a judicial investigation or dossier.
     - The accounts do not say how many of the travellers found with drugs carried cannabis.
     - No charges or court outcomes were reported for the people stopped; their cases were recorded in official reports.
+    - HLN says the owner of the two airsoft weapons received one official report, while RTV says two people were caught with them.
 ---
 
 Police in the Rivierenland zone stopped more than 2,300 commuters at the
 stations of Mechelen and Nekkerspoel on the afternoon and evening of Thursday 19
-November 2026. [@2,3] Officers in uniform and in plain clothes checked travellers
+November 2026. [@2,3,4] Officers in uniform and in plain clothes checked travellers
 as they stepped off buses and trains, helped by federal police drug-dog handlers
 and Securail rail security staff. [@2] Dozens of travellers had drugs on them,
 some in user quantities and others suspected of dealing, said Dirk Van de Sande
 of the Rivierenland police zone. [@1] One traveller who had breached his
 pre-trial detention was arrested at the station and taken to prison. [@1]
 Another person wanted in a criminal case was taken to a police station for
-further investigation. [@2,3]
+further investigation. [@2,3,4]
 
 At Nekkerspoel, officers checked the passengers of 11 buses, a drug dog
 indicated three people and police drew up an official report for drug dealing.
-[@2,3] The 11 buses checked at Nekkerspoel carried more than 110 passengers. [@3] Police seized 55 grams of cannabis at Nekkerspoel and a further 6.62 grams
-at Mechelen central station, 61.62 grams in all. [@2] At the central station
+[@2,3,4] At Nekkerspoel two of the people checked were already known to police for earlier offences. [@4] The 11 buses checked at Nekkerspoel carried more than 110 passengers. [@3] Police seized 55 grams of cannabis at Nekkerspoel and a further 6.62 grams
+at Mechelen central station, 61.62 grams in all. [@2,4] At the central station
 about 2,200 commuters were checked and a drug dog indicated 51 people for
 further checks. [@2,3] At the central station 34 of those checked were already known to police for earlier offences. [@3] Officers at the central station also seized 6.62 grams of
 cannabis, 49.44 grams of methadone, 22 snorting tubes, 14 syringes and 27 empty
@@ -92,7 +98,7 @@ grip bags. [@2] The same checks turned up nearly half a kilogram of mephedrone,
 which is counted in the cannabis figures. [@2] Police recorded offences of drug
 possession, drug dealing, resisting officers and illegal weapons possession;
 seven people were reported for drug possession and two were caught with airsoft
-weapons. [@2] Three people were reported for failing to comply with conditions imposed on them. [@3]
+weapons. [@2] In all, two people were given official reports for drug dealing. [@4] Three people were reported for failing to comply with conditions imposed on them. [@3,4]
 
 The Rivierenland police zone carries out such checks regularly and says the
 results show they remain necessary. [@1] Dirk Van de Sande of the Rivierenland police zone said the checks aimed to tackle nuisance and drug crime on and around public transport. [@3] "It is actually regrettable that so
