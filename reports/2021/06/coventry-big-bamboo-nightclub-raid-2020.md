@@ -60,6 +60,21 @@ media:
     publisher: Metro
     caption: 'Part of the growing equipment, valued at around £150,000, found in
       the former nightclub. Photo: SWNS'
+  - kind: photo
+    url: https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57657020
+    media_url: https://ichef.bbci.co.uk/news/800/cpsprodpb/54B3/production/_119138612_compp.jpg.webp
+    publisher: BBC News
+    caption: 'Composite custody photographs of Adrian Lleshaj, Andi Cani and Cao Van Vu, who admitted producing a class B drug at Warwick Crown Court. Photo: NCA'
+  - kind: photo
+    url: https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57657020
+    media_url: https://ichef.bbci.co.uk/news/800/cpsprodpb/14626/production/_114949438_nca.jpg.webp
+    publisher: BBC News
+    caption: 'The 1,500-plant haul found over three floors at the former Bamboo nightclub in Coventry. Photo: NCA'
+  - kind: photo
+    url: https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57657020
+    media_url: https://ichef.bbci.co.uk/news/800/cpsprodpb/2687/production/_119136890_capture5.png.webp
+    publisher: BBC News
+    caption: 'Officers at a reinforced door inside the former nightclub, which they had to smash through to reach the grow. Photo: NCA'
 status: verified
 created_by_model: meta/muse-spark
 tags: [nca, nightclub, cannabis-factory]
@@ -82,6 +97,10 @@ sources:
     publisher: Sick Chirpse
     url: https://www.sickchirpse.com/big-bamboo-coventry-nightclub-cannabis-factory/
     date: 2021-06-30
+  - title: Trio jailed for cannabis farm in former Coventry nightclub
+    url: https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-57657020
+    publisher: BBC News
+    date: 2021-06-29
 open_questions:
   - The NCA's October 2020 release put the grow at around 1,000 plants; later
     NCA-based reporting put it at around 1,500, which this report uses.
@@ -90,21 +109,21 @@ open_questions:
 ---
 
 National Crime Agency officers raided a former nightclub on Trinity Street, Coventry,
-on Thursday 15 October 2020, smashing through several reinforced doors to reach the grow. [@1,2]
+on Thursday 15 October 2020, smashing through several reinforced doors to reach the grow. [@1,2,5] West Midlands Police worked with National Crime Agency officers on the raid. [@5]
 Inside they found around 1,500 cannabis plants spread across the building's three floors, which
-NCA experts valued at over £1 million. [@3,4] Officers also recovered sophisticated planting,
+NCA experts valued at over £1 million. [@3,4,5] Officers also recovered sophisticated planting,
 growing and irrigation equipment valued at around £150,000, and found the electricity supply
 bypassed with the equipment wired directly into the commercial supply from the street. [@3,4]
 
 Three men were arrested, two of them detained with the help of a West Midlands Police drone unit
 as they tried to hide on the building's roof. [@1,2,3] Albanian nationals Andi Cani, 24, and
 Adrian Lleshaj, 29, and Vietnamese national Cao Van Vu, 31, were all charged with producing a
-class B drug. [@1,2,3,4] Lleshaj was also wanted by Germany for robbery offences under a European
+class B drug. [@1,2,3,4] All three admitted producing a class B drug at Warwick Crown Court. [@5] Lleshaj was also wanted by Germany for robbery offences under a European
 Arrest Warrant. [@1,2]
 
 ## Sentenced in June 2021
 
 On Tuesday 29 June 2021 the three men were jailed: Vu for 40 months, Lleshaj for 35 months and
-Cani for 28 months. [@3,4] All three admitted having paid people smugglers to help them enter the
-UK illegally, and they face deportation after serving their terms. [@3,4] NCA Branch Commander
-Mick Pope called it the largest and most sophisticated cannabis factory the agency had ever seen. [@3,4]
+Cani for 28 months. [@3,4,5] All three admitted having paid people smugglers to help them enter the
+UK illegally, and they face deportation after serving their terms. [@3,4,5] All three were of no fixed address, the NCA said. [@5] NCA Branch Commander
+Mick Pope called it the largest and most sophisticated cannabis factory the agency had ever seen. [@3,4,5]
