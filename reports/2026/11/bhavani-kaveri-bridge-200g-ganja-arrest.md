@@ -45,18 +45,22 @@ sources:
     publisher: தினமணி (Dinamani)
     date: 2026-11-20
     language: ta
+  - title: '200 கிராம் கஞ்சா, பைக் பறிமுதல்: வாலிபர் கைது'
+    url: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/200-grams-of-ganja-bike-seized-youth-arrested/4382066
+    publisher: தினமலர் (Dinamalar)
+    date: 2026-11-21
+    language: ta
 open_questions:
-  - The report gives the arrest only as happening on a Friday; 20 November 2026 is inferred because that was the Friday of its publication date.
-  - No case number, charge, remand or court outcome was reported.
-  - No value was published for the ganja or the two-wheeler, and the vehicle is described only as a two-wheeler.
-  - The account rests on one news report; no police statement or independent account of this arrest was found.
-  - The ganja is not described as having been laboratory-tested.
+    - The report gives the arrest only as happening on a Friday; 20 November 2026 is inferred because that was the Friday of the reports' publication dates.
+    - No case number, charge, remand or court outcome was reported.
+    - No value was published for the ganja or the Pulsar motorcycle impounded.
+    - Both Tamil-language accounts describe the same Bhavani police action; no separate police statement was published.
+    - The ganja is not described as having been laboratory-tested.
 ---
 
 Bhavani police arrested Thirumalaikumar, 25, a son of Natarajan from Narayana
 Nagar in Kumarapalayam, during a surprise check near the new Kaveri bridge on
-Friday, 20 November 2026, saying he was involved in selling ganja. [@1]
+Friday, 20 November 2026, saying he was involved in selling ganja. [@1,2]
 
-Officers seized 200 grams of ganja from him. [@1] They also impounded the
-two-wheeler he had with him. [@1]
-
+Officers seized 200 grams of ganja from him. [@1,2] They also impounded the
+two-wheeler he had with him. [@1] The vehicle impounded by police was a Pulsar motorcycle. [@2]
