@@ -213,32 +213,27 @@ sources:
     publisher: Report.az
     date: 2026-11-03
     language: ru
-open_questions:
-  - The 87 kg cannabis total is the sum of the separately stated 27 kg of hashish and 60 kg of marijuana; the 22 kg of opium from the same operation is excluded from cannabis figures.
-  - The names, ages, detailed nationalities and procedural status of the five detained people were not published.
-  - No court outcome was reported; the pre-trial investigation was still under way when announced.
-  - Both accessible reports relay the same KNB statement and are not independent of each other.
-  - The exact location on the Caspian Sea and coastal area was not specified beyond Mangistau Region, so regional coordinates are used.
-  - The headline figure of almost 110 kg is the combined total of 22 kg of opium plus 27 kg of hashish plus 60 kg of marijuana; only the 87 kg hashish-plus-marijuana part counts as cannabis.
-  - The headline rounds the combined haul to 100 kg while the body gives 109 kg total; only the separately stated 27 kg of hashish and 60 kg of marijuana count as cannabis.
-  - The Caravan article also recalls a separate 10-year drug-smuggling sentence for an Iranian citizen in Aktau, which is a different event left out here.
-  - The same page also reports a separate 30 October 2026 detention of 10 people in Atyrau on extremism suspicion, a different event left out here.
+  - title: Троих иностранцев задержали с наркотиками в Каспийском море
+    url: https://kaztag.kz/ru/news/troikh-inostrantsev-zaderzhali-s-narkotikami-v-kaspiyskom-more
+    publisher: KazTAG
+    date: 2026-11-03
+    language: ru
 ---
 
 Kazakhstan's National Security Committee said an international drug channel
-operating in the Caspian Sea waters had been eliminated. [@2,3,4,5,8,9,10,11,12,13,14,15,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34] On 1 November, the
+operating in the Caspian Sea waters had been eliminated. [@2,3,4,5,8,9,10,11,12,13,14,15,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35] On 1 November, the
 Border Service together with the committee's Mangistau Region department
-detained three foreigners who tried to flee pursuit on a watercraft. [@2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34] Two
-Kazakh citizens were detained in the coastal area in the same operation. [@1,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]
+detained three foreigners who tried to flee pursuit on a watercraft. [@2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35] Two
+Kazakh citizens were detained in the coastal area in the same operation. [@1,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35]
 The committee presented the detentions on the water and on the coast as parts of
 the same operation. [@1]
 
-Officers seized 27 kg of hashish and 60 kg of marijuana in the operation. [@2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]
+Officers seized 27 kg of hashish and 60 kg of marijuana in the operation. [@2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35]
 The two cannabis seizures together amount to 87 kg of cannabis covered by this
 report. [@2] Officers also seized 22 kg of opium and a small fast boat alongside
-the cannabis. [@1,3,4,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,25,26,27,28,30,31,33,34]
+the cannabis. [@1,3,4,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,25,26,27,28,30,31,33,34,35]
 
-A pre-trial investigation was opened into the case. [@2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34] The committee said
+A pre-trial investigation was opened into the case. [@2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35] The committee said
 further information cannot be disclosed under part 1 of article 201 of the
 Criminal Procedure Code. [@2,15,33] The committee published the announcement on 3
 November 2026. [@2] The announcement was issued by the committee's press
