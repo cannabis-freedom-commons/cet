@@ -60,6 +60,10 @@ sources:
     url: https://www.revenue.ie/en/corporate/press-office/press-releases/2026/pr-112026-cannabis-shannon-airport.aspx
     publisher: Revenue
     date: 2026-11-20
+  - title: €364K Worth Of Cannabis Seized At Shannon Airport
+    url: https://www.clare.fm/news/e364k-worth-of-cannabis-seized-at-shannon-airport/
+    publisher: Clare FM
+    date: 2026-11-20
 open_questions:
   - No arrests, names or charges were reported, and Revenue said no further information was available.
   - The accounts describe shipments from the United States but do not say whether they were air cargo, mail or passenger luggage.
@@ -67,19 +71,18 @@ open_questions:
 ---
 
 Revenue Customs officers at Shannon Airport seized herbal cannabis on Friday 20
-November 2026 after routine operations at the airport. [@2] A spokesperson for
+November 2026 after routine operations at the airport. [@2,3] A spokesperson for
 Revenue confirmed that detector dog Brody assisted officers in making the
-seizure. [@1] The officers seized a total of 26 kilograms of herbal cannabis.
-[@1] Revenue estimated the value of that herbal cannabis at €364,000. [@1]
+seizure. [@1,3] The officers seized a total of 26 kilograms of herbal cannabis.
+[@1,3] Revenue estimated the value of that herbal cannabis at €364,000. [@1,3]
 Revenue said the drugs were illicit and had been found in the course of those
 routine checks. [@2]
 
 The illicit drugs were discovered in shipments that originated in the United
-States and were destined for addresses in the west of the country. [@2] The
+States and were destined for addresses in the west of the country. [@2,3] The
 spokesperson confirmed that no further information was available. [@1]
 Investigations into the seizure were ongoing. [@1] Revenue said the seizure
 formed part of its continuing operations targeting the importation of illegal
 drugs. [@1] Businesses and members of the public with any information regarding
 drug smuggling were asked to contact Revenue in confidence on the confidential
 telephone number 1800 295 295. [@1]
-
