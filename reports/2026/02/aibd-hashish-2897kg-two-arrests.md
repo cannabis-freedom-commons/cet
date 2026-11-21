@@ -128,27 +128,32 @@ sources:
     publisher: Dakaractu
     date: 2026-03-04
     language: fr
+  - title: 'Aéroport Blaise Diagne : deux individus interpellés avec près de 29kg de haschich'
+    url: https://www.pressafrik.com/Aeroport-Blaise-Diagne-deux-individus-interpelles-avec-pres-de-29kg-de-haschich_a302083.html
+    publisher: PressAfrik
+    date: 2026-03-04
+    language: fr
 open_questions:
-    - The customs statement described the passenger as a foreign woman arriving from a Maghreb country, while Libération said she was born in the Comoros and held a French passport.
+    - The customs statement described the passenger as a foreign woman arriving from a Maghreb country, while accounts drawing on Libération described a 24-year-old man born in the Comoros and holding a French passport.
     - The suspected recipient's age is given as 45 in the customs account and 46 in Libération's.
     - The hashish is valued at 190 million CFA francs by customs and at nearly 200 million in Libération's account.
-    - The reports do not say what charges were filed or what happened at the Mbour prosecutor's office.
+    - The reports do not say what happened at the Mbour prosecutor's office after the referral.
     - The exact origin of the hashish and the network behind it were not established in the published accounts.
 ---
 
 Customs officers at Senegal's Blaise Diagne International Airport (AIBD) seized
-289 plates of cannabis resin weighing 28.97 kg on 26 February 2026. [@1,2,3] The
+289 plates of cannabis resin weighing 28.97 kg on 26 February 2026. [@1,2,3,4] The
 tourism brigade of the airport customs subdivision, part of the western regional
 directorate, made the find at about 7pm. [@1,2,3]
 
 The drug was hidden in two suitcases belonging to a foreign woman arriving from a
-Maghreb country. [@1,2] Libération reported that she arrived at the Arrivals zone with three suitcases. [@3] Libération described the passenger as a 24-year-old woman travelling on a French passport. [@3] Officers noticed suspicious signs when the bags passed
+Maghreb country. [@1,2] Libération reported that she arrived at the Arrivals zone with three suitcases. [@3,4] Libération described the passenger as a 24-year-old woman travelling on a French passport. [@3] Officers noticed suspicious signs when the bags passed
 through the scanner and found the plates when they opened them. [@1,2,3] Laboratory
 tests by the scientific police confirmed the substance was hashish. [@1,2]
 
 The customs administration estimated the load's value at 190 million CFA francs.
 [@1,2] The passenger's questioning led to the arrest the same day of the suspected
-recipient, a 45-year-old Senegalese man. [@1,2] Libération reported that the suspect admitted the facts. [@3] The suspected recipient was arrested in the airport car park with the help of the airport anti-trafficking unit (CAAT). [@3]
+recipient, a 45-year-old Senegalese man. [@1,2] Libération reported that the suspect admitted the facts. [@3,4] The suspected recipient was arrested in the airport car park with the help of the airport anti-trafficking unit (CAAT). [@3,4]
 
 Both were handed to the prosecutor's office in Mbour, and the investigation
-continues. [@1,2] The referral was for international drug trafficking. [@3] Both were held in police custody before being referred to the prosecutor. [@3]
+continues. [@1,2] The referral was for international drug trafficking. [@3,4] Both were held in police custody before being referred to the prosecutor. [@3]
