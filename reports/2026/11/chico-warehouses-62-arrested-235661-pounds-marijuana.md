@@ -63,6 +63,11 @@ media:
     media_url: https://krcrtv.com/resources/media/388ae6fa-d9f6-4087-a81a-0bf687b2f26d-marijuanaseizure111926.jpg
     publisher: KRCR
     caption: 'Stacked packaged material inside a building searched during the marijuana raid in Chico on Nov. 19, 2026. Photo: BCSO'
+  - kind: photo
+    url: https://www.yahoo.com/news/us/articles/118-tons-marijuana-seized-62-194750373.html
+    media_url: https://s.yimg.com/lo/mysterio/api/ffe54b83b176f197e1786d9e891e6930e885100ede0b303eb0bad1c6c503545e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsacramento_bee_mcclatchy_569%2F17e4170846c8dc2757f24c31667372d6.jpg_up.jpg
+    publisher: Yahoo News (The Sacramento Bee)
+    caption: 'Butte County sheriff''s vehicles and trailers loaded with large containers inside a warehouse searched during the Chico marijuana processing investigation. Photo: Butte County Sheriff''s Office'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 4ec3f0c6094e3bc0450ae843b5ce8d8e
@@ -109,12 +114,16 @@ sources:
     url: https://www.cbsnews.com/sacramento/news/butte-county-marijuana-bust-62-arrests/
     publisher: CBS News (CBS Sacramento)
     date: 2026-11-20
+  - title: 118 tons of marijuana seized, 62 arrested in sprawling Northern California bust
+    url: https://www.yahoo.com/news/us/articles/118-tons-marijuana-seized-62-194750373.html
+    publisher: Yahoo News (The Sacramento Bee)
+    date: 2026-11-20
 open_questions:
     - No count was published of how many of the 62 people faced each of the listed charges, or whether any had been formally charged in court or released.
 ---
 
 Sixty-two people were arrested and booked into the Butte County Jail on 17
-November 2026. [@1,4,9,10] Those arrested ranged in age from 19 to 83. [@10] Several of those arrested were from the Sacramento area. [@5] Of the 62 people, 34 were from Yuba City, 14 from Sacramento, six from Chico, three from Live Oak, and one each from Woodland, Hamilton City, Elk Grove, Colusa and Olivehurst. [@10] The raid targeted multiple industrial warehouses on
+November 2026. [@1,4,9,10,11] Those arrested ranged in age from 19 to 83. [@10,11] Several of those arrested were from the Sacramento area. [@5] Of the 62 people, 34 were from Yuba City, 14 from Sacramento, six from Chico, three from Live Oak, and one each from Woodland, Hamilton City, Elk Grove, Colusa and Olivehurst. [@10] The raid targeted multiple industrial warehouses on
 Contractors Lane in Chico, California, under a search warrant obtained by the
 Butte County Sheriff's Office. [@2,3,7] The warrant was served on Tuesday, 17
 November 2026, by BCSO detectives from the Butte Interagency Narcotics Task
@@ -122,10 +131,10 @@ Force, two Bureau of Land Management agents and a detective from the California
 Department of Cannabis Control. [@1,6,7,9] The investigation began earlier in 2026, when the sheriff’s office’s Special Enforcement Unit started assisting the Bureau of Land Management. [@6,7]
 
 Detectives found 62 people at the warehouses and multiple warehouses containing
-marijuana in various stages of processing. [@1,4,5,6,7,10] Most were listed as facing charges of cultivating marijuana, several also faced charges of possessing marijuana for sale, and one was additionally charged with smuggling a controlled substance into a jail or prison and with possessing a controlled substance. [@10] Investigators said large
+marijuana in various stages of processing. [@1,4,5,6,7,10] Most were listed as facing charges of cultivating marijuana, several also faced charges of possessing marijuana for sale, and one was additionally charged with smuggling a controlled substance into a jail or prison and with possessing a controlled substance. [@10,11] Investigators said large
 quantities of marijuana were being processed at the warehouse using hemp
-processing as a cover. [@1,6,8,9,10] Testing found that the product was marijuana, not
-hemp. [@1,4,6,7,9] Detectives said about 235,661 pounds (roughly 106,894 kg) of
-marijuana were at the warehouses. [@1,4,6,7,9,10] They spent three days processing evidence
+processing as a cover. [@1,6,8,9,10,11] Testing found that the product was marijuana, not
+hemp. [@1,4,6,7,9,11] Detectives said about 235,661 pounds (roughly 106,894 kg) of
+marijuana were at the warehouses. [@1,4,6,7,9,10,11] They spent three days processing evidence
 and removing the marijuana, which detectives estimated had a street value of
-approximately $282,793,200. [@1,4,6,7,9,10] The sheriff's office said the investigation remained ongoing. [@9]
+approximately $282,793,200. [@1,4,6,7,9,10,11] The sheriff's office said the investigation remained ongoing. [@9]
