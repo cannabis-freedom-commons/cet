@@ -33,6 +33,11 @@ media:
     media_url: https://zonacero.com/sites/default/files/styles/1280_x_530_noticia_interna/public/2026-05/Incautaci%C3%B3n%20y%20capturado_0.jpg?h=eaa7b010&itok=9m-nzh6c
     publisher: ZONA CERO
     caption: 'Seized drug packages and the detained man. Photo: Ministerio del Interior de Venezuela via ZONA CERO'
+  - kind: photo
+    url: https://www.noticiasbarquisimeto.com/fuerzas-de-seguridad-mixtas-de-venezuela-incautan-mas-de-3-5-toneladas-de-droga-en-el-estado-apure/
+    media_url: https://i0.wp.com/www.noticiasbarquisimeto.com/wp-content/uploads/2026/05/image-457.png?fit=700%2C394&ssl=1
+    publisher: Noticias Barquisimeto
+    caption: 'Security personnel standing behind stacked packages of seized drugs, in the handout photo published with the account of the Pedro Camejo seizure. Photo: handout via Noticias Barquisimeto'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 54d295ea50b4526b5246cbbdee328e04
@@ -48,6 +53,11 @@ sources:
     publisher: Ministerio del Poder Popular para Relaciones Interiores, Justicia y Paz
     date: 2026-05-14
     language: es
+  - title: Fuerzas de seguridad mixtas de Venezuela incautan más de 3.5 toneladas de droga en el Estado Apure
+    url: https://www.noticiasbarquisimeto.com/fuerzas-de-seguridad-mixtas-de-venezuela-incautan-mas-de-3-5-toneladas-de-droga-en-el-estado-apure/
+    publisher: Noticias Barquisimeto
+    date: 2026-05-14
+    language: es
 open_questions:
   - No separate operation date is given; 14 May 2026 is the announcement and publication date and stands in for the incident date.
   - The 2,442.4 kg of cocaine hydrochloride and the 3,563 kg combined total are excluded from cannabis figures; only 1,120.6 kg of marijuana is recorded.
@@ -57,13 +67,12 @@ open_questions:
 
 Joint CICPC, Special Operations Group and Bolivarian National Guard teams seized
 drugs in Pedro Camejo municipality in Apure state, on the border with Colombia.
-[@1] Officers detained one man during the operation. [@1]
+[@1,3] Officers detained one man during the operation. [@1,3]
 
 Of the 3,563-kilogram total, 1,047 marijuana panels weighed 1,120.6 kilograms
-and 2,071 cocaine hydrochloride wraps weighed 2,442.4 kilograms. [@2] Officers
+and 2,071 cocaine hydrochloride wraps weighed 2,442.4 kilograms. [@2,3] Officers
 also destroyed a logistics centre (laboratory) together with 1,200 litres of
-fuel found at the site and an aircraft. [@2]
+fuel found at the site and an aircraft. [@2,3]
 
 The Interior Ministry said senior CICPC, GNB anti-drug and anti-trafficking
-officials supervised the procedure with prosecution representatives. [@2]
-
+officials supervised the procedure with prosecution representatives. [@2,3] The case was placed under the Public Ministry for the investigation. [@3]
