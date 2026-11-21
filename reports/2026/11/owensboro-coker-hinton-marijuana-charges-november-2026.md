@@ -64,23 +64,30 @@ sources:
     url: https://www.wnky.com/searches-lead-to-discovery-of-alleged-synthetic-marijuana-operation-in-daviess-county/
     publisher: WNKY News 40 Television
     date: 2026-11-19
+  - title: Two Owensboro men charged in synthetic marijuana operation
+    url: https://spectrumnews1.com/ky/louisville/news/2026/11/19/spice-bust
+    publisher: Spectrum News Kentucky
+    date: 2026-11-20
+open_questions:
+    - No weight, count or value was published for the marijuana the two men were charged over.
+    - The case is at the charge stage; no plea, court date or outcome has been reported.
 ---
 
 Tehryon T. Coker Sr. and Khalil D. “K.D.” Hinton were arrested during the
-investigation. [@2,3,4] Detectives and patrol deputies executed search warrants
+investigation. [@2,3,4] Coker is 27 and Hinton is 31. [@5] Detectives and patrol deputies executed search warrants
 around 1:50 p.m. Nov. 17 at a residence in the 700 block of Deer Trail belonging
 to Coker and a residence in the 2300 block of Clarke Drive associated with
-Hinton. [@1,3,4] The investigation had been under way for several months. [@1,3,4]
+Hinton. [@1,3,4,5] The investigation had been under way for several months. [@1,3,4,5] Sheriff Brad Youngman said the inquiry followed tips from the community. [@5]
 
 Hinton was charged with trafficking in marijuana, first offense, firearm
-enhanced. [@1,3,4] Coker was charged with possession of marijuana, firearm enhanced.
-[@1,3,4] Hinton was also charged with trafficking in synthetic drugs, first offense,
-firearm enhanced. [@1,3,4] Both Coker and Hinton were booked into the Daviess County Detention Center. [@3,4]
+enhanced. [@1,3,4,5] Coker was charged with possession of marijuana, firearm enhanced.
+[@1,3,4,5] Coker also faced a second-offense charge of possessing controlled substances, a charge of possessing a handgun by a convicted felon and a charge of receiving stolen property. [@5] Hinton was also charged with trafficking in synthetic drugs, first offense,
+firearm enhanced. [@1,3,4,5] Hinton also faced two counts of possession of a handgun by a convicted felon and a charge of possessing a defaced firearm. [@5] Both Coker and Hinton were booked into the Daviess County Detention Center. [@3,4,5]
 
 Items seized during the searches included baggies, digital scales, chemicals
 believed to be used in manufacturing, imported leaf products, four handguns, a
-ballistic vest, ammunition, four vehicles and a large amount of cash. [@1,3,4] One
+ballistic vest, ammunition, four vehicles and a large amount of cash. [@1,3,4,5] One
 handgun had been reported stolen from Muhlenberg County and another had a
-defaced serial number. [@1] The DCSO Special Investigations Unit said it was
+defaced serial number. [@1,5] The DCSO Special Investigations Unit said it was
 continuing the investigation and anticipated additional search warrants and
-charges. [@1,4]
+charges. [@1,4] Sheriff Brad Youngman said he expected more suspects as well, and that materials used in similar operations often come from outside the area, including California. [@5]
