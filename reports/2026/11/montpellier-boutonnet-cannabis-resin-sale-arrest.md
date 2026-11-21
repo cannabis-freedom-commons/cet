@@ -41,30 +41,39 @@ sources:
     publisher: Hérault Tribune
     date: 2026-11-19
     language: fr
+  - title: 'Il vendait du cannabis depuis son appartement donnant sur la rue à Montpellier : la police le surprend en pleine transaction'
+    url: https://www.midilibre.fr/2026/11/20/il-vendait-du-cannabis-depuis-son-appartement-donnant-sur-la-rue-a-montpellier-la-police-le-surprend-en-pleine-transaction-13661507.php
+    publisher: Midi Libre
+    date: 2026-11-20
+    language: fr
+  - title: 'Montpellier : un homme vendait du cannabis par la grille de son appartement, à Boutonnet'
+    url: https://toutmontpellier.fr/news/montpellier-un-homme-vendait-du-cannabis-par-la-grille-de-son-appartem
+    publisher: toutmontpellier.fr
+    date: 2026-11-20
+    language: fr
 open_questions:
-  - The lead gives the seller's age as 35 while the body gives 36.
-  - No quantity, weight or value of the cannabis resin was reported.
-  - The 53-year-old buyer was also taken to the police station, but whether he was arrested or charged, and his outcome, were not reported; only the seller is counted here.
-  - The outcome of the immediate appearance scheduled for 20 November 2026 is not in the article, which was published on 19 November.
-  - The claim that the resale went back to March 2024 rests on phone messages and the suspect's own admission, with no independent confirmation reported.
-  - The account comes from a single outlet and is credited only to 'La rédaction'.
+    - The seller's age is given as 35 in the Midi Libre and Hérault Tribune leads but as 36 in the Hérault Tribune body.
+    - No quantity, weight or value of the cannabis resin was reported.
+    - The 53-year-old buyer was also taken to the police station and described as apprehended, but whether he was arrested or charged, and his outcome, were not reported; only the seller is counted.
+    - The outcome of the immediate appearance scheduled for 20 November 2026 was not reported; Midi Libre was published that morning and toutmontpellier.fr said a decision was still pending.
+    - The claim that the resale went back to March 2024 rests on phone messages and the suspect's own admission, with no independent confirmation reported.
+    - The local accounts (Midi Libre, Hérault Tribune and toutmontpellier.fr) all relay the same police account; toutmontpellier.fr says it draws on several local media.
 ---
 
 A 35-year-old man was arrested on 18 November 2026 in the Boutonnet
 neighbourhood of Montpellier after municipal police spotted a suspected drug
-transaction. [@1] The exchange was seen in the morning by municipal officers
-conducting surveillance on rue du Faubourg-Boutonnet. [@1] The seller was in his
+transaction. [@1,2] The exchange was seen in the morning by municipal officers
+conducting surveillance on rue du Faubourg-Boutonnet. [@1,2] The seller was in his
 ground-floor home while the buyer, a 53-year-old man, waited on the pavement.
 [@1] Municipal officers stopped and checked the two men before requesting
-national police assistance. [@1] The buyer and the seller, described in the body
+national police assistance. [@1,2] The buyer and the seller, described in the body
 of the account as 36 years old, were taken to the central police station. [@1]
 
 The deal was conducted through a grille, which drew the municipal officers'
-attention. [@1] During questioning the man admitted selling cannabis resin
+attention. [@1,2] During questioning the man admitted selling cannabis resin
 (résine de cannabis, or hashish) to finance his own cocaine consumption. [@1]
 Messages found when investigators examined his phone suggested the resale
 activity went back to March 2024. [@1]
 
 The suspect was referred to the judicial authorities for an immediate appearance
-(comparution immédiate) scheduled for Friday 20 November 2026. [@1]
-
+(comparution immédiate) scheduled for Friday 20 November 2026. [@1,3]
