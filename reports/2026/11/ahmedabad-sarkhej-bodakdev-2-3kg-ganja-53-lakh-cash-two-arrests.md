@@ -73,12 +73,18 @@ sources:
     publisher: Bhaskar Hindi
     date: 2026-11-19
     language: hi
+  - title: સરખેજમાં ગાંજાનો ખેલ! મહિલાના ઘરેથી 2 કિલોથી વધુ ગાંજો અને રૂ.54 લાખ રોકડ મળી આવી, પતિ ફરાર
+    url: https://bombaysamachar.com/news/sarkhej-ganja-cash-woman-arrested-ahmedabad
+    publisher: Mumbai Samachar
+    date: 2026-11-20
+    language: gu
 open_questions:
   - No separate date was given for the raids; 19 November 2026 is the publication date and stands in for the incident date, described only as a single night.
   - 'Sources differ on how many remain wanted: one says the husband alone is wanted, another says two accused including a man and a woman are yet to be caught, naming Sunitaben Chhara separately.'
   - The first arrest is placed in Bodakdev police limits by two sources but described as near Malav Lake in Thaltej by the third; Thaltej and Bodakdev are treated as the same initial lead.
   - The ganja was described as seized material without reported laboratory confirmation, and police values of Rs 6,561 and Rs 1.08 lakh are official estimates.
   - No court outcome, plea or detention order beyond arrest was reported.
+  - The Gujarati account gives the haul as about 2.25 kg of ganja and about Rs 54 lakh in cash, against the police figures of 2.174 kg and Rs 53.51 lakh used in this report.
 ---
 
 Ahmedabad police ran simultaneous narcotics raids in Sarkhej and Bodakdev on
@@ -89,9 +95,9 @@ Ahmedabad. [@1] In the Bodakdev operation police apprehended 23-year-old Raju
 Mangaji Bhil, a Rajasthan native living near Sanand Chokdi in Sarkhej, with 131
 grams and 220 milligrams of ganja. [@1] Raju told investigators he had obtained
 the consignment from Sunita Rathod, who lives near Kailash Lake close to Sanyas
-Ashram in Sarkhej, leading to the follow-up raid. [@3] At the Sarkhej premises
+Ashram in Sarkhej, leading to the follow-up raid. [@3] The woman told police that the two of them supplied ganja to small drug suppliers in Ahmedabad, and officers began examining the roles of others in the network. [@7] At the Sarkhej premises
 near Kailash Talav close to Sanyas Ashram, police arrested 42-year-old Sunita
-Deepak Rathod, while her husband Deepak Rathod was declared wanted. [@1]
+Deepak Rathod, while her husband Deepak Rathod was declared wanted. [@1,7] Police said 45 cases had been registered against Sunita Rathod and about 20 against her husband since 2014, for assault and for selling liquor and drugs. [@7]
 
 Officers searching the Sarkhej residence recovered 2 kilograms and 174 grams of
 ganja alongside Rs 53.51 lakh in cash kept in a safe. [@1] Officers also
