@@ -38,33 +38,53 @@ sources:
     url: https://www.nbcbayarea.com/news/local/bowe-bergdahl-spotted-at-illicit-mendocino-county-pot-farm/1976877/
     publisher: NBC Bay Area
     date: 2015-07-23
+  - title: 'EXCLUSIVE: Clueless star Alicia Silverstone''s brother was arrested for growing marijuana after raid which caught up Afghanistan deserter Bowe Bergdahl'
+    url: https://www.dailymail.com/news/article-3176225/Clueless-star-Alicia-Silverstone-s-brother-arrested-marijuana-farm-raid-caught-Afghanistan-deserter-Bowe-Bergdahl.html
+    publisher: Daily Mail
+    date: 2015-07-27
+    language: en
 open_questions:
-  - 'The plant total varies between accounts: the sheriff said nearly 200, the Los Angeles Times reported 181 full-grown plants and a sheriff''s captain told Army Times about 180 mature outdoor plants; the report uses 181.'
-  - Only one arrest is reported, without the person's name, charges beyond marijuana cultivation, or court outcome.
-  - The sheriff's office gave no exact number of people detained at the house; the accounts speak of several people.
-  - The property is named only as a home on Tomki Road north of Redwood Valley, seven to nine miles from Ukiah; coordinates are for Redwood Valley, not the individual parcel.
+    - 'The plant total varies between accounts: the sheriff said nearly 200, the Los Angeles Times and the Daily Mail reported 181 full-grown plants, and a sheriff''s captain told Army Times about 180 mature outdoor plants; the report uses 181.'
+    - 'The accounts disagree on arrests at the raid: the earlier reports describe one arrest at the Tomki Road property, while the Daily Mail reports two of Bergdahl''s friends arrested there and David Silverstone arrested at the adjoining property, so the total number arrested is unclear.'
+    - No court outcome was reported for those arrested, including the two felony counts and the $25,000 bail reported for Silverstone.
+    - The properties are named only as a home or ranch on Tomki Road north of Redwood Valley and an adjoining parcel; coordinates are for Redwood Valley, not the individual parcels.
+media:
+  - kind: photo
+    url: https://www.dailymail.com/news/article-3176225/Clueless-star-Alicia-Silverstone-s-brother-arrested-marijuana-farm-raid-caught-Afghanistan-deserter-Bowe-Bergdahl.html
+    media_url: https://i.dailymail.co.uk/i/pix/2015/07/27/15/2AE09BE200000578-0-image-a-1_1438008100245.jpg
+    publisher: Daily Mail
+    caption: Arrest mugshots of David Silverstone, who faces two felony charges after the raid on his Redwood Valley farm.
+  - kind: photo
+    url: https://www.dailymail.com/news/article-3176225/Clueless-star-Alicia-Silverstone-s-brother-arrested-marijuana-farm-raid-caught-Afghanistan-deserter-Bowe-Bergdahl.html
+    media_url: https://i.dailymail.co.uk/i/pix/2015/07/27/15/2AD9733700000578-0-image-a-2_1438008114225.jpg
+    publisher: Daily Mail
+    caption: The farm in Redwood Valley where Bowe Bergdahl was found during the raid on it and Silverstone's neighbouring property.
+  - kind: photo
+    url: https://www.dailymail.com/news/article-3176225/Clueless-star-Alicia-Silverstone-s-brother-arrested-marijuana-farm-raid-caught-Afghanistan-deserter-Bowe-Bergdahl.html
+    media_url: https://i.dailymail.co.uk/i/pix/2015/07/27/15/2AD9736300000578-0-image-a-7_1438008415385.jpg
+    publisher: Daily Mail
+    caption: The remote property where Bowe Bergdahl was caught up as the alleged marijuana farms were raided.
 ---
 
 Mendocino County sheriff's deputies and other investigators served a search
 warrant on a marijuana grow at a home on Tomki Road, north of Redwood Valley, on
-the morning of Tuesday 21 July 2015. [@1] Army Sgt. Robert "Bowe" Bergdahl, on
+the morning of Tuesday 21 July 2015. [@1,5] Army Sgt. Robert "Bowe" Bergdahl, on
 authorised leave and visiting old friends there, was among the people detained
-during the raid. [@1] The sheriff's office said the investigation found no
+during the raid. [@1,5] The sheriff's office said the investigation found no
 evidence connecting Bergdahl to the grow, and he was released and returned to
-the Army. [@3] The sheriff's office delivered Bergdahl to Army personnel, and he
+the Army. [@3,5] The sheriff's office delivered Bergdahl to Army personnel, and he
 returned to his duty station at Fort Sam Houston in Texas the following day.
 [@3]
 
 Sheriff Allman said nearly 200 plants were found at the residence, and the Los
-Angeles Times reported deputies found 181 full-grown plants. [@1] Investigators
+Angeles Times reported deputies found 181 full-grown plants. [@1,5] Investigators
 said about 180 mature marijuana plants were growing outdoors on the property,
 which they believed was being cultivated for commercial benefit. [@3] Deputies
 arrested one person at the property on marijuana cultivation, according to
-sheriff's Capt. Greg Van Patten. [@2]
+sheriff's Capt. Greg Van Patten. [@2] David Silverstone, the 43-year-old brother of actress Alicia Silverstone, was arrested at the adjoining property, where he is a farmer. [@5] Booking information from the Mendocino County Sheriff's office said Silverstone was arrested by the Mendocino Major Crimes Task Force and his bail was set at $25,000. [@5] Silverstone was charged with two felony counts of cultivating and processing marijuana and possession of the drug for sale. [@5]
 
 NBC Bay Area reported that Bergdahl had arrived at the farm the previous Friday
 and that the Anderson Valley Advertiser first reported his presence at the raid.
 [@4] Army Times reported that Bergdahl was serving under charges of desertion
 and misbehaviour before the enemy at the time of the raid, and that his Article
 32 hearing was set for 17 September. [@3]
-
