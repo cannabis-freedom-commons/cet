@@ -103,26 +103,35 @@ sources:
     publisher: Pamplona Actual
     date: 2026-11-19
     language: es
+  - title: Policía Foral desmantela una plantación indoor de marihuana en Lacuntza y detiene a un varón de 35 años
+    url: https://www.elconfidencial.com/espana/2026-11-19/desmantelan-plantacion-indoor-marihuana-lacuntza-1tna-1tps_4468282/
+    publisher: El Confidencial
+    date: 2026-11-19
+    language: es
+open_questions:
+    - No figure for the weight or street value of the 121 plants was published.
+    - No charge sheet, plea or court outcome was reported after the detainee was placed at the disposal of the courts.
+    - All published accounts reproduce the same Foral Police statement, so none is independent reporting of the raid.
 ---
 
 Foral Police officers from the Alsasua prevention unit, supported by the
 Pamplona intervention group (GOI), detained a 35-year-old man this Wednesday as
 the alleged perpetrator of a crime against public health after dismantling an
-indoor marijuana plantation in a dwelling in Lakuntza. [@2,5,6,7,8,9] The detainee was
+indoor marijuana plantation in a dwelling in Lakuntza. [@2,5,6,7,8,9,10] The detainee was
 taken to the Foral Police central station in Pamplona for the preparation of
-proceedings and was subsequently placed at the disposal of the courts. [@1,5,6,7,8,9]
+proceedings and was subsequently placed at the disposal of the courts. [@1,5,6,7,8,9,10]
 
 The intervention took place on Wednesday 18 November. [@4] During the authorised
 intervention and search officers detained the flat's occupant and seized a total
 of 121 marijuana plants, two high-power extraction motors, special lamps,
-ventilators, sacks of fertiliser and numerous pots. [@1,5,6,7,8,9] Neighbours' complaints
+ventilators, sacks of fertiliser and numerous pots. [@1,5,6,7,8,9,10] Neighbours' complaints
 described a constant coming and going of people on brief visits, tool-handling
 noises and the habitual transport of large bags, both on foot and through the
-communal garage. [@3,6,8] The activity also generated intense marijuana and chemical
+communal garage. [@3,6,8,10] The activity also generated intense marijuana and chemical
 odours that filtered through the ventilation ducts, causing respiratory
-irritation, headaches and nausea among neighbours. [@1,6] After surveillance,
+irritation, headaches and nausea among neighbours. [@1,6,10] After surveillance,
 investigators confirmed the complaints and found that the apparently uninhabited
 property had anomalously very high electricity consumption in August and
 September, compatible with the irrigation and lighting systems of an indoor
-crop. [@1,6] With the evidence gathered, police sought and obtained a judicial
-entry and search order before carrying out the intervention. [@1,6]
+crop. [@1,6,10] With the evidence gathered, police sought and obtained a judicial
+entry and search order before carrying out the intervention. [@1,6,10]
