@@ -47,6 +47,11 @@ media:
     media_url: https://rudaw.net/_next/image?url=https%3A%2F%2Fimages.rudaw.net%2Fimages%2Fasset%2Fnews%2F20260903142146_News1.jpg_(1).jpeg&w=1920&q=75
     publisher: Rudaw
     caption: 'Screengrab published by Rudaw showing a bag of seized magic mushrooms from the joint operation in Sulaimani. Photo: Submitted/screengrab'
+  - kind: photo
+    url: https://thenewregion.com/posts/6413
+    media_url: https://assets.thenewregion.com/posts/hd/1306458981.webp
+    publisher: The New Region
+    caption: 'Screengrab published with The New Region''s report of the alleged drug trafficker arrested by security forces in Sulaimani on 3 September 2026. Photo: Screengrab'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d04c35aa1c2ea502c8ef6209f4866c80
@@ -73,6 +78,10 @@ sources:
     url: https://www.rudaw.net/english/categories/iraq/1079134
     publisher: Rudaw
     date: 2026-09-04
+  - title: Drug trafficker arrested in Sulaimani; 3 kgs of psilocybin, marijuana confiscated
+    url: https://thenewregion.com/posts/6413
+    publisher: The New Region
+    date: 2026-09-03
 open_questions:
     - No district, town or address within Al-Sulaymaniyah province was named for the arrest.
     - No date was given for the arrest beyond Thursday, 3 September 2026, when the seizure was announced.
@@ -80,23 +89,21 @@ open_questions:
     - No name, age, nationality, formal charge, detention order or court outcome was reported for the arrested suspect.
     - The English accounts render the agency's name variously as the Directorate of Narcotics Control and the General Directorate of Narcotics Affairs.
     - The eight-month total of 304 local and 54 international dismantled networks cited by spokesperson Abbas al-Bahadli is lower than the six-month figure of 378 dismantled networks, including 59 international groups, reported in earlier Interior Ministry figures.
-    - Left out arrested, as no supporting quotation was given.
-    - Left out kg seized, as no supporting quotation was given.
 ---
 
 Iraqi security forces arrested a suspected drug dealer in Al-Sulaymaniyah
 province and seized three kilograms of narcotics from him, the Interior
 Ministry's Directorate of Narcotics Control said on Thursday, 3 September 2026.
 [@1,3,4] The haul included 2 kilograms of marijuana and 1 kilogram of magic
-mushrooms, the hallucinogenic fungus the ministry calls “magic mushroom”. [@1,3,4,5]
+mushrooms, the hallucinogenic fungus the ministry calls “magic mushroom”. [@1,3,4,5,6]
 Kirkuk narcotics officers carried out the operation in coordination with the
-Al-Sulaymaniyah anti-narcotics directorate. [@1,3,4,5] The Kirkuk narcotics
+Al-Sulaymaniyah anti-narcotics directorate. [@1,3,4,5,6] The Kirkuk narcotics
 directorate said its teams acted on intelligence, arrested one trafficker and
 displayed the 1 kilogram of magic mushrooms alongside 2 kilograms of marijuana
 in Al-Sulaymaniyah province. [@2] Spokesperson Abbas al-Bahadli said the seizure of the hallucinogenic mushrooms was the first of its kind in Iraq. [@4,5]
 
 The directorate said drug networks were “under control” and would find no safe
-haven however they renamed or reshaped their products. [@2,4]
+haven however they renamed or reshaped their products. [@2,4] Prime Minister Ali al-Zaidi said Iraq was “waging a war” against corruption and drugs, with “no leniency or retreat in this battle”. [@6]
 
 In the first half of 2026, security forces dismantled 378 drug networks,
 including 59 international groups, and confiscated more than 1,977 kilograms of
