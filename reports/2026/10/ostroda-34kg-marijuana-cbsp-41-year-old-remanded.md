@@ -76,29 +76,35 @@ sources:
     publisher: WP Info
     date: 2026-11-19
     language: pl
+  - title: NA DZIAŁCE W GMINIE MIŁOMŁYN PRZECHOWYWANO 34 KG MARIHUANY. AKCJA CBŚP
+    url: https://www.ostrodanews.pl/news/112/na-dzialce-w-gminie-milomlyn-przechowywano-34-kg-marihuany-akcja-cbsp/
+    publisher: Ostróda News
+    date: 2026-11-20
+    language: pl
 open_questions:
-  - The police date the operation only to the second half of October 2026; no exact day was published.
-  - No estimate of the marihuana's value or of the weight of the individual packages was published.
-  - The specific charge against the man was not named beyond the inquiry into wholesale drug trafficking.
-  - No trial date or further court outcome was reported; the investigation was continuing.
+    - Only one local account gives a precise date, 23 October 2026, for the officers' entry; the police announcement placed the operation in the second half of October.
+    - No estimate of the marihuana's value or of the weight of the individual packages was published.
+    - The specific charge against the man was not named beyond the inquiry into wholesale drug trafficking.
+    - No trial date or further court outcome was reported; the investigation was continuing.
+    - The sources do not say where the 34 kilograms came from or how the man is alleged to have obtained them.
 ---
 
 Officers of CBŚP's Elbląg division detained a 41-year-old man on a recreational
-plot in Ostróda County as he packed cartons into a passenger car. [@1,3] Inside
-the car were 20 vacuum-packed packages of marihuana. [@1,3] A further search of a
+plot in Ostróda County as he packed cartons into a passenger car. [@1,3,4] The man lived in Elbląg. [@4] Inside
+the car were 20 vacuum-packed packages of marihuana. [@1,3,4] A further search of a
 recreational building, a garage and another vehicle found 14 more packages of
-the drug. [@1,3] Police took the man to the District Prosecutor's Office in
-Ostróda, where he was formally charged. [@1,3] On the prosecution's application
-the District Court in Ostróda ordered his temporary arrest. [@1,3]
+the drug. [@1,3,4] Police took the man to the District Prosecutor's Office in
+Ostróda, where he was formally charged. [@1,3,4] He faces two to twelve years in prison if convicted. [@4] On the prosecution's application
+the District Court in Ostróda ordered his temporary arrest. [@1,3,4] The court ordered him held in temporary custody for three months. [@4]
 
-In total the officers secured 34 kilograms of ready dried marihuana. [@1,3] They
+In total the officers secured 34 kilograms of ready dried marihuana. [@1,3,4] They
 also recovered items indicating the use of camouflage methods and preparation of
 the drugs for distribution on a wide scale. [@1]
 
 Information gathered by officers indicated the property could be used to store
-drugs before they were distributed further. [@1] Officers began verifying the
-information in the second half of October. [@1] The information indicated that
+drugs before they were distributed further. [@1,4] The plot was in Miłomłyn commune, Ostróda County. [@4] Officers began verifying the
+information in the second half of October. [@1] Officers entered the property on 23 October 2026. [@4] The information indicated that
 the drugs were stored on the property before further distribution. [@2] The man
 was known to have contacts with the football hooligan milieu of an Elbląg sports
-club. [@1] The case remains open as investigators seek to establish all the
-circumstances and identify any others involved. [@1]
+club. [@1,4] The case remains open as investigators seek to establish all the
+circumstances and identify any others involved. [@1,4]
