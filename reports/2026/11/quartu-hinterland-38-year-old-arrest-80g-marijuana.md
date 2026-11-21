@@ -58,29 +58,26 @@ sources:
     publisher: Casteddu Online
     date: 2026-11-20
     language: it
-open_questions:
-  - The marijuana is described only as about 80 grams; no laboratory confirmation of the substance was reported.
-  - The cocaine was counted in doses (almost 40), not by weight, so it is excluded from the cannabis figures.
-  - No street value was published for the marijuana or the cocaine.
-  - The sources place the man's home in the hinterland of Quartu Sant'Elena without naming the town where the search took place.
-  - The man is identified only by his age; no name, plea or court outcome was reported.
-  - The three accounts reproduce the same Carabinieri statement and are not independent reporting.
+  - title: 'Contrasto allo spaccio di stupefacenti: arrestato un uomo dai Carabinieri della compagnia di Quartu S.E. e sequestrate Cocaina, Marijuana e denaro contante.'
+    url: https://www.cronacaonline.it/index.php/2026/11/20/contrasto-allo-spaccio-di-stupefacenti-arrestato-un-uomo-dai-carabinieri-della-compagnia-di-quartu-s-e-e-sequestrate-cocaina-marijuana-e-denaro-contante/
+    publisher: CronacaOnline
+    date: 2026-11-20
+    language: it
 ---
 
 Carabinieri of the Quartu Sant'Elena company arrested a 38-year-old man who
 lives in the hinterland of Quartu Sant'Elena on suspicion of possessing drugs
-for sale. [@1] Officers searched his home after suspicions raised during
-observation and surveillance services. [@1] Inside the flat they found almost 40
+for sale. [@1,4] Officers searched his home after suspicions raised during
+observation and surveillance services. [@1,4] Inside the flat they found almost 40
 doses of cocaine already packaged for sale and about 80 grams of marijuana, and
-seized them. [@1]
+seized them. [@1,4]
 
 The search also turned up 250 euros in cash in mixed notes, which investigators
-linked to dealing, and equipment for weighing and packaging drugs. [@1] The
+linked to dealing, and equipment for weighing and packaging drugs. [@1,4] The
 Carabinieri said the arrest was part of their checks against drug dealing in the
-area of the Quartu Sant'Elena company. [@1]
+area of the Quartu Sant'Elena company. [@1,4]
 
 La Nuova Sardegna reported that the man was to be taken to court the next day
 for confirmation of the arrest and an immediate trial. [@2] Casteddu Online
 reported that the operation concluded an investigation aimed at shutting down
 local dealing and improving public safety. [@3]
-
