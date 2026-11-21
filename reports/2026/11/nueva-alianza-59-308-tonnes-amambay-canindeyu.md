@@ -68,6 +68,16 @@ sources:
     publisher: Diario HOY
     date: 2026-11-13
     language: es
+  - title: Paraguai lança sementes de árvores nativas sobre áreas devastadas pelo cultivo de maconha em Amambay após operações que retiraram mais de 422 toneladas da fronteira com o Brasil - RSM - Revista Sociedade Militar
+    url: https://www.sociedademilitar.com.br/2026/11/paraguai-lanca-sementes-de-arvores-nativas-sobre-areas-devastadas-pelo-cultivo-de-maconha-em-amambay-apos-operacoes-que-retiraram-mais-de-422-toneladas-da-fronteira-com-o-brasil-fplv.html
+    publisher: RSM - Revista Sociedade Militar
+    date: 2026-11-19
+    language: pt
+  - title: SENAD impulsa la recuperación de bosques afectados por cultivos ilícitos en Amambay
+    url: https://www.hoy.com.py/nacionales/2026/11/17/senad-impulsa-la-recuperacion-de-bosques-afectados-por-cultivos-ilicitos-en-amambay
+    publisher: Diario HOY
+    date: 2026-11-17
+    language: es
 media:
   - kind: photo
     url: https://www.adndigital.com.py/en-operativo-conjunto-destruyen-mas-de-300-toneladas-de-marihuana-en-casi-85-ha-de-cultivo/
@@ -82,6 +92,13 @@ media:
     media_url: https://img.dhost.cloud/KqWScVGSmb3knfGaEm_hrGB5oKE=/1280x720/smart/https://tdan.nyc3.digitaloceanspaces.com/images/5c382/0d6c5fc0d5f03fe371d869b6d8fa71fb218.jpg
     publisher: Tribuna do Sertão
     caption: 'Joint Brazil-Paraguay operation destroying marijuana and dismantling camps, as published with the phase 59 balance. Photo: Sputnik Brasil Telegram channel'
+  - kind: photo
+    url: https://www.sociedademilitar.com.br/2026/11/paraguai-lanca-sementes-de-arvores-nativas-sobre-areas-devastadas-pelo-cultivo-de-maconha-em-amambay-apos-operacoes-que-retiraram-mais-de-422-toneladas-da-fronteira-com-o-brasil-fplv.html
+    media_url: https://www.sociedademilitar.com.br/wp-content/uploads/2026/11/paraguai-operacao-restaurar-reflorestamento-amambay-maconha-940x529.jpg
+    publisher: RSM - Revista Sociedade Militar
+    caption: 'SENAD agents sowing native seeds in areas degraded by illegal marijuana cultivation in Amambay during the 10th Operation Restaurar. Photo: SENAD/Paraguay'
+open_questions:
+  - No separate date for the Restaurar sowing was published; 17 November 2026 is the date SENAD disclosed the 10th edition.
 ---
 
 Paraguay's Senad, with Brazil's Federal Police, finished phase 59 of Operation
@@ -97,12 +114,12 @@ damage to the criminal organisations, and that, beyond the eradicated
 plantations, 68 camps, 965 kg of cannabis seeds and 54,825 kg of cannabis ready
 for sale were destroyed. [@1,3,5] The interventions eradicated 84.5 hectares of
 marijuana plantations and dismantled 68 clandestine camps used by the criminal
-structures. [@2,4,5] According to SENAD's official balance, counting the processed
+structures. [@2,4,5,6] According to SENAD's official balance, counting the processed
 drug found during the operations and the production potential of the eradicated
 plantations, an estimated 308.3 tonnes of marijuana were removed from the
-regional market. [@2,4,5]
+regional market. [@2,4,5,6]
 
 The final day of the operation was carried out in the settlement of Pacola, in
 the Karapái district, where the close of the interventions was confirmed. [@1,3]
 The operation is part of the series of joint actions called Nueva Alianza, aimed
-at hitting marijuana production centres in the border area. [@1,3]
+at hitting marijuana production centres in the border area. [@1,3] The teams applied broadcast sowing known as al voleo, scattering native forest seeds supplied by INFONA directly on the ground. [@7] SENAD conducted the 10th Operation Restaurar in Amambay, sowing native tree seeds on areas devastated by illegal marijuana cultivation. [@6]
