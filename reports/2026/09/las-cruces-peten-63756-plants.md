@@ -54,16 +54,19 @@ sources:
     publisher: SGAIA, Policía Nacional Civil
     date: 2026-09-03
     language: es
+  - title: Agentes antinarcóticos de Guatemala erradicaron 63,756 matas de marihuana en Petén valoradas en USD 4.18 millones
+    url: https://www.infobae.com/guatemala/2026/09/03/agentes-antinarcoticos-de-guatemala-erradicaron-63756-matas-de-marihuana-en-peten-valoradas-en-usd-418-millones/
+    publisher: Infobae
+    date: 2026-09-03
+    language: es
 open_questions:
-  - No arrests, charges or identified growers were reported for this operation.
-  - No field size in hectares or square metres was published.
-  - Only the publication date and references to today and this Thursday 3 September are given, so 3 September 2026 is used as the incident date.
-  - The valuation is the police estimate, reported as Q31,878,000 and rounded by one source to more than Q31 million.
-  - National 2025 seizure totals and recent coca-eradication operations mentioned in the same articles are separate events left out of this report.
-  - 'Left out, as its quotation was not found in Infobae: The precise police valuation put the destroyed crop at 31,878,000 quetzales, about 4.18 million US dollars.'
-  - Prensa Libre's same Thursday bulletin reports a separate search in zona 1 of Retalhuleu where 55 vials of cocaine, 387 crack rocks and Q4,620 were seized; that is a different event left out here.
-  - The report's valuation remains the police estimate; neither new source gives an independent assessment.
-  - Prensa Libre does not name the caserío where the plants were found; the Ixmucané location comes only from the SGAIA statement.
+    - No arrests, charges or identified growers were reported for this operation.
+    - No field size in hectares or square metres was published.
+    - Only the announcement date of Thursday 3 September 2026 is given, so that date is used for the eradication.
+    - The valuation is the police estimate, reported as Q31,878,000 and rounded by one source to more than Q31 million.
+    - Coca-eradication operations in Petén and Alta Verapaz reported in the same bulletins are separate events left out of this report.
+    - Prensa Libre's same Thursday bulletin reports a separate search in zona 1 of Retalhuleu where 55 vials of cocaine, 387 crack rocks and Q4,620 were seized; that is a different event left out here.
+    - Prensa Libre does not name the caserío where the plants were found; the Ixmucané location comes only from the SGAIA statement.
 media:
   - kind: photo
     url: https://www.prensalibre.com/guatemala/justicia/localizan-y-destruyen-en-peten-una-plantacion-de-marihuana-con-avaluo-superior-a-q31-millones-breaking/
@@ -75,6 +78,11 @@ media:
     media_url: https://www.sgaia.gob.gt/wp-content/uploads/2026/09/Mar-Ixmucane.jpeg
     publisher: SGAIA, Policía Nacional Civil
     caption: 'Photo published by the anti-narcotics unit with its statement, headed Mar Ixmucane, of the cannabis eradication near Caserío Ixmucané. Photo: SGAIA/PNC'
+  - kind: video
+    url: https://www.infobae.com/guatemala/2026/09/03/agentes-antinarcoticos-de-guatemala-erradicaron-63756-matas-de-marihuana-en-peten-valoradas-en-usd-418-millones/
+    media_url: https://cdn.jwplayer.com/videos/5knWvN5m-KTKcXOwk.mp4
+    publisher: Infobae
+    caption: Video published with the article, captioned by Infobae as footage of a night-time anti-drug operation in which security-force members move through a field of tall cannabis plants with torches and cut them with tools.
 ---
 
 On 3 September 2026 Guatemala's security forces located and eradicated a
@@ -84,7 +92,7 @@ National Civil Police, carried out the operation with army soldiers in
 mountainous terrain. [@1,3] Officers pulled up the plants and incinerated them
 after finding the field in a difficult-to-access area during anti-drug patrols.
 [@2] Neither account reported arrests or named the suspected growers, and police
-did not say whether processing structures were found nearby. [@2]
+did not say whether processing structures were found nearby. [@2,5]
 
 Prensa Latina rounded the same operation to 63,000 plants worth more than 31
 million quetzales, just over four million dollars. [@1,3]
@@ -94,6 +102,6 @@ country, especially Petén, where areas used for drug crops have historically
 been identified. [@1] Anti-narcotics units described detecting and eradicating
 plantations as a key strategy to weaken the finances of groups that produce and
 distribute drugs. [@1] The PNC asked the public to report drug activity to
-police line 110, anti-narcotics line 1577 and Crime Stoppers line 1561. [@2]
+police line 110, anti-narcotics line 1577 and Crime Stoppers line 1561. [@2,5]
 
 The anti-narcotics unit's own statement places the plants in mountainous areas alongside Caserío Ixmucané, Las Cruces, Petén. [@4] The plants were in the harvest stage and were destroyed on the spot, according to SGAIA. [@4]
