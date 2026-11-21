@@ -45,26 +45,36 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-20
     language: hi
+  - title: शिवहर में जनता दरबार में एसपी ने सुनीं शिकायतें, गांजा तस्करी और नाबालिग की मौत के मामले में कार्रवाई
+    url: https://www.prabhatkhabar.com/state/bihar/sheohar/sp-janata-darbar-crowd-complaints-disposal/amp
+    publisher: Prabhat Khabar
+    date: 2026-11-20
+    language: hi
+  - title: हार्डवेयर दुकान में छापेमारी कर 24 ग्राम गांजा बरामद
+    url: https://bhaskar.com/local/bihar/shivahar/news/24-grams-of-marijuana-recovered-during-a-raid-at-a-hardware-store-dbp-139750912.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-21
+    language: hi
 open_questions:
-  - No date is stated for the raid itself; the tip and the first information report are both dated 19 November 2026, while the roundup says the district's police actions took place on Friday 20 November 2026.
-  - The 24 grams was described only as ganja; no laboratory confirmation was reported.
-  - The boy detained as in conflict with the law is not included in the arrest count, and his age and role were not reported.
-  - No plea, detention order or court outcome was reported; police said further legal action was under way.
-  - No value estimate for the 24 grams was published.
-  - The account rests on a single report, Prabhat Khabar's roundup of the superintendent's public grievance hearing.
-  - The same roundup reports a separate arrest over the death of a 13-year-old boy in the Puranhiya police station area; that is a different event and is left out here.
-  - The shop owner is named in the report as Kishori Rai; the case is identified only by first information report number 304/26.
+    - No date is stated for the raid itself; the tip and the first information report are both dated 19 November 2026, while the roundup says the district's police actions took place on Friday 20 November 2026.
+    - The 24 grams was described only as ganja; no laboratory confirmation was reported.
+    - The boy detained as in conflict with the law is not included in the arrest count, and his age and role were not reported.
+    - No plea, detention order or court outcome was reported; police said further legal action was under way.
+    - No value estimate for the 24 grams was published.
+    - Both accounts of the raid trace back to the same district police statement, and the Dainik Bhaskar version is a short rewrite that stops before the first information report details, so the account still rests on a single official statement.
+    - The same roundup reports a separate arrest over the death of a 13-year-old boy in the Puranhiya police station area; that is a different event and is left out here.
+    - The shop owner is named in the report as Kishori Rai; the case is identified only by first information report number 304/26.
 ---
 
 Police in Sheohar district, in the north Indian state of Bihar, received a tip
 on 19 November 2026 that ganja was being bought and sold under the cover of a
-hardware shop in Nyagaon Bazar. [@1] The raid was part of a campaign against
-drug trafficking, police said. [@1] Officers of the Shyampur Bhatahan police
+hardware shop in Nyagaon Bazar. [@1,3] The raid was part of a campaign against
+drug trafficking, police said. [@1,3] Officers of the Shyampur Bhatahan police
 station searched the shop after verifying the information and found 24 grams of
-ganja. [@1] They arrested the shop owner, Kishori Rai, son of the late Nanhpat
-Rai and a resident of Nyagaon. [@1] Police said he was arrested on a charge of
+ganja. [@1,2] They arrested the shop owner, Kishori Rai, son of the late Nanhpat
+Rai and a resident of Nyagaon. [@1,3] Police said he was arrested on a charge of
 selling ganja under the cover of the hardware shop. [@1] A boy in conflict with
-the law was also detained. [@1]
+the law was also detained. [@1,3]
 
 Police registered a first information report at the Shyampur Bhatahan police
 station, case number 304/26 dated 19 November 2026, under section 8/20(b)(ii)(A)
@@ -72,4 +82,3 @@ of the NDPS Act, India's Narcotic Drugs and Psychotropic Substances Act. [@1]
 Police said further legal action was under way. [@1] The district superintendent
 of police, Moh. Mohibullah Ansari, said the drive against the illegal drug trade
 would continue under a zero-tolerance policy. [@1]
-
