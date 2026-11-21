@@ -43,6 +43,11 @@ media:
     media_url: https://static.nmas.com.mx/Nmas/cms/decomiso-marihuana-guadalajara-seguridad-jalisco-620x620.jpg
     publisher: N+
     caption: 'Packaged marijuana from the Guadalajara courier-company seizure, in a photograph captioned ''La droga fue localizada ya empaquetada''. Photo: N+'
+  - kind: photo
+    url: https://jalisco.quadratin.com.mx/seguridad/aseguran-cerca-de-media-tonelada-marihuana-en-paqueteria-de-guadalajara/
+    media_url: https://jalisco.quadratin.com.mx/www/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-5.20.33-PM-1160x700.jpeg
+    publisher: Quadratín Jalisco
+    caption: 'Photograph published with the Jalisco state police account of the 400-kilogram marijuana seizure at the Guadalajara courier company. Photo: Policía de Jalisco'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 256a951911465ab7f57ce8bde3d15977
@@ -78,6 +83,11 @@ sources:
     publisher: N+
     date: 2026-11-20
     language: es
+  - title: Aseguran cerca de media tonelada marihuana en paquetería de Guadalajara
+    url: https://jalisco.quadratin.com.mx/seguridad/aseguran-cerca-de-media-tonelada-marihuana-en-paqueteria-de-guadalajara/
+    publisher: Quadratín Jalisco
+    date: 2026-11-20
+    language: es
 open_questions:
   - No separate date or time was given for the inspection; 20 November 2026 is the publication and dateline date and stands in for the incident date.
   - The weight is given as approximately 400 kilograms, not an exact weighing result.
@@ -92,15 +102,15 @@ open_questions:
 ---
 
 Jalisco state police seized about 400 kilograms of marijuana at a courier
-company in colonia Ferrocarril, Guadalajara. [@1] The company is at the
+company in colonia Ferrocarril, Guadalajara. [@1,7] The company is at the
 crossroads of avenida Doctor R. Michel and Privada Gabino Barrera. [@2]
 Employees of the courier firm called the 911 emergency line to report the
 packages. [@4] Officers of the vehicle recovery and identification squadron
-found 31 cardboard boxes matching the description in the tip. [@2] Inside the
+found 31 cardboard boxes matching the description in the tip. [@2,7] Inside the
 parcels were 558 blocks of plant material with the characteristics of marijuana.
-[@2] The load weighed about 400 kilograms in total. [@2]
+[@2,7] The load weighed about 400 kilograms in total. [@2]
 
-The inspection was carried out with canine teams from the K9 unit. [@2] Shipping
+The inspection was carried out with canine teams from the K9 unit. [@2,7] Shipping
 labels on the boxes said the shipment came from Tlaquepaque and was addressed to
 Monterrey, Nuevo León. [@3] The marijuana was already packaged and ready to be
 sent to another state. [@6] The parcels contained green plant material with the
@@ -108,5 +118,4 @@ characteristics of marijuana, weighing 400 kilograms in total. [@5]
 
 No detentions had been reported in the case. [@3] The cargo was handed to the
 federal prosecutor's office, which is to establish its origin, destination and
-those responsible. [@2]
-
+those responsible. [@2,7]
