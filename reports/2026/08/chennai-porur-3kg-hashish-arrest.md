@@ -54,6 +54,11 @@ sources:
     url: https://www.dtnext.in/news/chennai/ncb-chennai-zonal-unit-seizes-3-kg-hashish-bound-for-sri-lanka-woman-linked-to-sri-lankan-gangster-arrested
     publisher: DT Next
     date: 2026-08-24
+  - title: Sri Lankan gangster’s associate held with 3kg hashish
+    url: https://timesofindia.indiatimes.com/city/chennai/sri-lankan-gangsters-associate-held-with-3kg-hashish/articleshow/133475361.cms
+    publisher: The Times of India
+    date: 2026-08-24
+    language: en
 open_questions:
   - The article says the arrest happened on Monday and was published on 25 August 2026, so 24 August 2026 is used as the incident date.
   - No charges, custody ruling or court outcome were reported; the NCB investigation into the source, recipients and network was still under way.
@@ -64,19 +69,19 @@ open_questions:
 
 The NCB Chennai Zonal Unit intercepted Sivagamasundari and her husband
 Gurumurthy, residents of Madurai, as they were about to board a bus near the
-Porur toll plaza. [@1] The Narcotics Control Bureau arrested the Madurai-based
+Porur toll plaza. [@1,3] The Narcotics Control Bureau arrested the Madurai-based
 couple on Monday near the Porur toll plaza. [@1] Inquiry found that
 Sivagamasundari had close links with Angoda Lokka, the deceased Sri Lankan
-gangster and drug trafficker. [@1,2] Sivagamasundari had earlier been arrested by
+gangster and drug trafficker. [@1,2,3] Sivagamasundari had earlier been arrested by
 the CB-CID in a 2020 case over the alleged fabrication of identity and other
-supporting documents for Lokka and facilitating his illegal stay in India. [@1,2]
+supporting documents for Lokka and facilitating his illegal stay in India. [@1,2,3] After Lokka died in Coimbatore in July 2020, Sivagamasundari posed as his relative and submitted an Aadhaar card identifying him as Pradeep Singh while completing formalities for his postmortem. [@3]
 
 A subsequent search recovered 3 kg of hashish that was allegedly intended to be
 trafficked to Sri Lanka. [@1,2] The seized hashish was valued at around Rs 75
-lakh. [@1,2] Hashish is a concentrated form of cannabis resin containing the
+lakh. [@1,2,3] Hashish is a concentrated form of cannabis resin containing the
 psychoactive compound THC. [@1]
 
 Officers alleged the couple were attempting to smuggle the contraband to Sri
 Lanka. [@1] The NCB is now probing the source of the contraband, its intended
 recipients and the network allegedly involved in its transnational trafficking.
-[@1,2]
+[@1,2,3]
