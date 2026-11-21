@@ -48,6 +48,16 @@ media:
     media_url: https://kdvr.com/wp-content/uploads/sites/11/2026/07/748026215_998215036536943_8466255416653259820_n.jpg
     publisher: FOX31 Denver
     caption: 'Third sheriff''s office handout photo in the article''s slideshow of the Dutch Valley Road grow. Photo: Arapahoe County Sheriff''s Office'
+  - kind: photo
+    url: https://www.cbsnews.com/colorado/news/illegal-marijuana-grow-operation-colorado/
+    media_url: https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/15/defa9810-e8e3-4b0b-b682-fbf87c5f79df/thumbnail/620x830/75fb59468e280f28be8e3139dd8f071d/marijuana-grow-2.jpg
+    publisher: CBS Colorado
+    caption: Photograph of the illegal grow site published with the CBS Colorado report on the Dutch Valley Road bust, captioned 'Arapahoe County'.
+  - kind: photo
+    url: https://www.cbsnews.com/colorado/news/illegal-marijuana-grow-operation-colorado/
+    media_url: https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/15/831e3eb0-0d4c-4794-991d-097b2be0284c/thumbnail/620x349/7bad6b06b8dfd60ce2b1b420d07add1b/bust1.jpg
+    publisher: CBS Colorado
+    caption: Second photograph published with the CBS Colorado report on the Dutch Valley Road bust, captioned 'Arapahoe County'.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7d18fce18a8cc5d105986e109e42e35f
@@ -57,24 +67,26 @@ sources:
     url: https://kdvr.com/news/local/nearly-2k-marijuana-plants-seized-from-illegal-grow-operation/
     publisher: FOX31 Denver
     date: 2026-07-15
+  - title: SWAT teams on Colorado's Eastern Plains seize 1,900 marijuana plants at illegal grow house
+    url: https://www.cbsnews.com/colorado/news/illegal-marijuana-grow-operation-colorado/
+    publisher: CBS Colorado
+    date: 2026-07-15
 open_questions:
-  - No arrests or charges were reported in the opened account.
-  - No figure for the street value of the plants or the packaged marijuana was published.
-  - Only one accessible account from the sheriff's office press release was opened for this event; the press release itself was not opened.
-  - The article does not say whether the 1,900 plants were destroyed or kept as evidence, so they are recorded as seized plants in plants_destroyed.
-  - The article reports 40 pounds of packaged marijuana but no separate weight for the plants, so only the plants count is in the figures.
-  - The slideshow images are credited only to the Arapahoe County Sheriff's Office, with no separate captions describing what each one shows.
-  - The text gives a weight ("18.1 kilograms") but the figures have no kg_seized; check whether it belongs there.
+    - No arrests or charges were reported.
+    - No figure for the street value of the plants or the packaged marijuana was published.
+    - The sheriff's office statement itself was not opened; both accounts report what it announced.
+    - Neither account says whether the 1,900 plants were destroyed or kept as evidence, so they are recorded as seized plants in plants_destroyed.
+    - The 40 pounds of packaged marijuana, about 18 kilograms, is the only weight reported; no weight for the plants themselves was given.
+    - Whether the grow was linked to a wider cultivation operation is not known.
 ---
 
 Arapahoe County Sheriff's Office and Englewood Police Department teams served a
 search warrant on July 7 at a 20-acre property in the 100 block of Dutch Valley
-Road south of Bennett in unincorporated Arapahoe County. [@1]
+Road south of Bennett in unincorporated Arapahoe County. [@1] SWAT teams took part in the search of the 20-acre property. [@2]
 
 Because the property was not licensed for cultivation, the teams seized 1,900
-marijuana plants there, including 600 that were harvest-ready. [@1] They also
-found 40 pounds of packaged marijuana, about 18.1 kilograms. [@1]
+marijuana plants there, including 600 that were harvest-ready. [@1,2] They also
+found 40 pounds of packaged marijuana, about 18.1 kilograms. [@1,2]
 
 The sheriff's office announced the results of the search in a press release, and
-the account names no arrests. [@1]
-
+the account names no arrests. [@1] The Arapahoe County Sheriff's Office announced the details of the bust on Wednesday, July 15. [@2]
