@@ -43,11 +43,22 @@ sources:
     publisher: Daily Mail
     date: 2015-07-27
     language: en
+  - title: Alicia Silverstone's Brother Arrested in California Marijuana Raid
+    url: https://extratv.com/2015/07/27/alicia-silverstones-brother-arrested-in-california-marijuana-raid/
+    publisher: Extra
+    date: 2015-07-27
+  - title: “Clueless” actress’ brother allegedly caught in Redwood Valley marijuana raid
+    url: https://web.archive.org/web/20200414101053/https://www.ukiahdailyjournal.com/2015/07/28/clueless-actress-brother-allegedly-caught-in-redwood-valley-marijuana-raid/
+    publisher: The Ukiah Daily Journal
+    date: 2015-07-28
 open_questions:
-    - 'The plant total varies between accounts: the sheriff said nearly 200, the Los Angeles Times and the Daily Mail reported 181 full-grown plants, and a sheriff''s captain told Army Times about 180 mature outdoor plants; the report uses 181.'
-    - 'The accounts disagree on arrests at the raid: the earlier reports describe one arrest at the Tomki Road property, while the Daily Mail reports two of Bergdahl''s friends arrested there and David Silverstone arrested at the adjoining property, so the total number arrested is unclear.'
-    - No court outcome was reported for those arrested, including the two felony counts and the $25,000 bail reported for Silverstone.
-    - The properties are named only as a home or ranch on Tomki Road north of Redwood Valley and an adjoining parcel; coordinates are for Redwood Valley, not the individual parcels.
+    - 'The plant total varies between accounts: the sheriff said nearly 200 in some reports, the Los Angeles Times reported 181 full-grown plants, a sheriff''s captain told Army Times about 180 mature outdoor plants, and the Ukiah Daily Journal quoted Sheriff Allman as saying 181 large plants were located; the report uses 181.'
+    - No court outcome after the jail booking and release on bail was reported, and the district attorney's office had not yet received the investigation reports as of the 28 July 2015 account.
+    - The sheriff's office gave no exact number of people detained at the house; the accounts speak of several people.
+    - The property is named only as a home on Tomki Road north of Redwood Valley, seven to nine miles from Ukiah; coordinates are for Redwood Valley, not the individual parcel.
+    - Extra reported that deputies arrested Bergdahl; the sheriff said he was detained and not arrested.
+    - The sheriff's office could not confirm that David Silverstone is Alicia Silverstone's brother or that he owned the parcel.
+    - Accounts differ on whether Silverstone had already been charged or had only been booked on suspicion while the district attorney awaited the investigation reports.
 media:
   - kind: photo
     url: https://www.dailymail.com/news/article-3176225/Clueless-star-Alicia-Silverstone-s-brother-arrested-marijuana-farm-raid-caught-Afghanistan-deserter-Bowe-Bergdahl.html
@@ -68,7 +79,7 @@ media:
 
 Mendocino County sheriff's deputies and other investigators served a search
 warrant on a marijuana grow at a home on Tomki Road, north of Redwood Valley, on
-the morning of Tuesday 21 July 2015. [@1,5] Army Sgt. Robert "Bowe" Bergdahl, on
+the morning of Tuesday 21 July 2015. [@1,5] District Attorney spokesman Mike Geniella said Silverstone and Bergdahl were on adjoining properties off Tomki Road. [@7] The operation involved two neighboring properties in Redwood Valley. [@6] Army Sgt. Robert "Bowe" Bergdahl, on
 authorised leave and visiting old friends there, was among the people detained
 during the raid. [@1,5] The sheriff's office said the investigation found no
 evidence connecting Bergdahl to the grow, and he was released and returned to
@@ -77,11 +88,11 @@ returned to his duty station at Fort Sam Houston in Texas the following day.
 [@3]
 
 Sheriff Allman said nearly 200 plants were found at the residence, and the Los
-Angeles Times reported deputies found 181 full-grown plants. [@1,5] Investigators
+Angeles Times reported deputies found 181 full-grown plants. [@1,5] Sheriff Tom Allman said the Mendocino County Major Crimes Task Force and the County of Mendocino Marijuana Eradication Team served the search warrants and that 181 large marijuana plants were located. [@7] Investigators
 said about 180 mature marijuana plants were growing outdoors on the property,
 which they believed was being cultivated for commercial benefit. [@3] Deputies
 arrested one person at the property on marijuana cultivation, according to
-sheriff's Capt. Greg Van Patten. [@2] David Silverstone, the 43-year-old brother of actress Alicia Silverstone, was arrested at the adjoining property, where he is a farmer. [@5] Booking information from the Mendocino County Sheriff's office said Silverstone was arrested by the Mendocino Major Crimes Task Force and his bail was set at $25,000. [@5] Silverstone was charged with two felony counts of cultivating and processing marijuana and possession of the drug for sale. [@5]
+sheriff's Capt. Greg Van Patten. [@2] The district attorney's office had not yet received the investigation reports needed to file charges. [@7] David Silverstone, 43, was booked into the Mendocino County Jail on suspicion of marijuana cultivation and possession for sale and later released on $25,000 bail. [@7] David Silverstone, the 43-year-old brother of actress Alicia Silverstone, was arrested at the adjoining property, where he is a farmer. [@5] Booking information from the Mendocino County Sheriff's office said Silverstone was arrested by the Mendocino Major Crimes Task Force and his bail was set at $25,000. [@5] Silverstone was charged with two felony counts of cultivating and processing marijuana and possession of the drug for sale. [@5]
 
 NBC Bay Area reported that Bergdahl had arrived at the farm the previous Friday
 and that the Anderson Valley Advertiser first reported his presence at the raid.
