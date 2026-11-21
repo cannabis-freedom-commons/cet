@@ -88,10 +88,16 @@ sources:
     url: https://pagesix.com/2023/07/18/gigi-hadid-arrested-for-marijuana-possession-in-cayman-islands/
     publisher: Page Six
     date: 2023-07-18
+  - title: Gigi Hadid released after being arrested for marijuana in Cayman Islands
+    url: https://www.nbcnewyork.com/entertainment/entertainment-news/gigi-hadid-released-after-being-arrested-for-marijuana-in-cayman-islands/4515673/
+    publisher: NBC New York
+    date: 2023-07-18
+    language: en
 open_questions:
     - Teen Vogue reported the fine as $1,000 and did not state the currency, while other accounts gave 1,000 Cayman Islands dollars.
     - No weight or quantity for the cannabis was published; accounts describe only a small amount.
     - The Independent headline describes the offence as possession of cannabis, while its text and the authorities give the charges as importation of marijuana and a drug utensil.
+    - One account states the fine as $1,000 without naming the currency, while the figure used here is 1,000 Cayman Islands dollars.
 ---
 
 American model Gigi Hadid, 28, and her friend Leah McCarthy were detained in the
@@ -102,11 +108,11 @@ importation of utensils used for the consumption of marijuana". [@1,2,3,4,5,7,8]
 said it was a small amount, seemingly for personal consumption. [@1,2,4,5]
 
 They were taken to a detention centre and released on bail, the local newspaper
-Cayman Marl Road reported. [@1,4,5,6,7,9] They were taken to the Prisoner Detention Center. [@6,7,10] The pair appeared in the Cayman Islands summary
+Cayman Marl Road reported. [@1,4,5,6,7,9,11] They were taken to the Prisoner Detention Center. [@6,7,10] The pair appeared in the Cayman Islands summary
 court two days later, where they were fined 1,000 Cayman Islands dollars
 ($1,200; £920). [@1,4,9] The courts confirmed the two were arraigned in George Town, but did not specify the charges. [@4] They pleaded guilty in court and paid the fine, but no
 conviction was recorded. [@1,2,3,4,6,7,8,9]
 
 Hadid's representative said the marijuana was purchased legally in New York
 "with a medical license", and that medical use has also been legal in Grand
-Cayman since 2017. [@1,2,4,5,7,8,9]
+Cayman since 2017. [@1,2,4,5,7,8,9,11]
