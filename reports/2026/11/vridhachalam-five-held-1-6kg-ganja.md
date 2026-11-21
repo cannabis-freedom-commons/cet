@@ -47,29 +47,36 @@ sources:
     publisher: Dinamalar
     date: 2026-11-20
     language: ta
+  - title: 'கோயில் கூட்டத்தில் சிறுவனிடம் நகை பறிப்பு: பெண் கைது'
+    url: https://www.dinamani.com/amp/story/all-editions/edition-villupuram/cuddalore/2026/Nov/20/woman-arrested-for-snatching-jewelry-from-a-boy-in-a-temple-crowd
+    publisher: Dinamani
+    date: 2026-11-21
+    language: ta
 open_questions:
-  - Only one account of the arrests was found, a Dinamalar district brief, so the details rest on a single source.
-  - No charges, court production or further outcome for the five was reported.
-  - The ganja was not reported to have been laboratory-tested, and the weight and the 160,000-rupee value are police figures.
-  - The article does not say where the five obtained the ganja.
-  - The 17-year-old's name was not published, and it is not known whether he was dealt with under juvenile justice procedures.
-  - The article lists Bharathi as the son of a Rajadurai but does not say whether that is the 27-year-old accused of the same name.
+    - 'The two accounts name different officers: Dinamalar names Sub-Inspector Bhagyaraj of Karuveppilangurichi, Dinamani names Inspector Kirubalakshmi of the Vriddhachalam all-women police station.'
+    - The 21-year-old is Bharathi in Dinamalar and Pragly in Dinamani, and the 21-year-old Nivas/Nivash is from Melur near Thittakudi in one account and Marudathur in the other.
+    - Dinamalar dates the patrol to the evening of 20 November, while Dinamani says Thursday, 19 November, and was published on 21 November.
+    - Dinamani reports four adults arrested with the boy sent to an observation home, while Dinamalar says all five were arrested.
+    - The ganja was not reported to have been laboratory-tested, and the 160,000-rupee value is a police figure in the Dinamalar account.
+    - Dinamani reports court production and jailing of the four adults but gives no charge, case number or later outcome.
+    - The 17-year-old's name was not published; Dinamani says he was handed to an observation home in Cuddalore.
+    - Dinamalar lists Bharathi as the son of a Rajadurai but does not say whether that is the 27-year-old accused of the same name.
+    - Both accounts are short district briefs of the same police operation and may rely on the same police statement.
 ---
 
 Police near Vridhachalam in Cuddalore district, Tamil Nadu, arrested five
 people, including a 17-year-old boy, on suspicion of selling ganja, the local
-word for cannabis. [@1] The five were sitting near the bank of the big lake at
+word for cannabis. [@1,2] The five were sitting near the bank of the big lake at
 Rajendrapattinam when they saw Sub-Inspector Bhagyaraj of Karuveppilangurichi
 and other officers on patrol and ran. [@1] The patrol was on the evening of 20
 November 2026. [@1] Officers caught the five, questioned them and concluded they
-were selling ganja. [@1]
+were selling ganja. [@1,2] The ganja had been bought in Mumbai and brought back for sale. [@2]
 
 Police identified the adults as Rajadurai, 27, of Vettakudi; Nivas, 21, of Melur
 near Thittakudi; Bharathi, 21; and Naveen, 24. [@1] The fifth was a 17-year-old
 boy from Karmangudi. [@1] Officers seized 1.6 kilograms of ganja, which police
 valued at 160,000 rupees (1.6 lakh), and two Android phones, one of them an
-Apple mobile. [@1] Police registered a case and arrested all five. [@1]
+Apple mobile. [@1] Police registered a case and arrested all five. [@1] Four adults were produced in court and jailed, while the 17-year-old was handed over to an observation home in Cuddalore. [@2]
 
 Nivas, Naveen and Bharathi already faced cases of hoarding ganja at the
 Avinangudi and Vridhachalam police stations. [@1]
-
