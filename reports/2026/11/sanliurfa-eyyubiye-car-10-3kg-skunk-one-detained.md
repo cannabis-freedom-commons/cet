@@ -58,21 +58,26 @@ sources:
     publisher: Sabah
     date: 2026-11-19
     language: tr
+  - title: 'Şanlıurfa''da Zehir Sevkiyatına Jandarma İzin Vermedi: Araçta Ele Geçirildi'
+    url: https://www.urfadasin.com/sanliurfada-zehir-sevkiyatina-jandarma-izin-vermedi-aracta-ele-gecirildi
+    publisher: Urfadasın.com
+    date: 2026-11-19
+    language: tr
 ---
 
 Şanlıurfa gendarmerie teams detained one suspect and seized 10.3 kilograms of
 skunk in an operation in Eyyübiye district. [@3,4] The operation was run by the
 Şanlıurfa provincial gendarmerie command's narcotics crimes branch, the Narkotik
-Suçlarla Mücadele Şube Müdürlüğü. [@1,4] The gendarmerie acted on information
+Suçlarla Mücadele Şube Müdürlüğü. [@1,4,5] The gendarmerie acted on information
 received on 14 November 2026 that the suspect, identified as Z.A., would
 transport a large amount of drugs in his car. [@3] Officers put the suspect
 under physical surveillance the same day and caught him with his car in the
-Eyyübiye operation. [@2]
+Eyyübiye operation. [@2,5]
 
-A search of the car found 10 kilograms 300 grams of skunk. [@1,4]
+A search of the car found 10 kilograms 300 grams of skunk. [@1,4,5]
 
 The suspect was detained and procedures were under way to bring him before the
-judicial authorities. [@1] The detained suspect was taken to the gendarmerie for
+judicial authorities. [@1,5] The detained suspect was taken to the gendarmerie for
 processing before being sent to the judicial authorities. [@2] The Şanlıurfa
 provincial gendarmerie command said its anti-narcotics operations and work would
 continue without interruption. [@3]
