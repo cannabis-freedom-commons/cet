@@ -62,13 +62,18 @@ sources:
     publisher: Senego.com
     date: 2026-11-17
     language: fr
+  - title: 'Trafic de drogue: L''OCRTIS interpelle treize personnes lors d''opérations d''envergure nationale'
+    url: https://www.seneweb.com/fr/news/Societe/trafic-de-drogue-locrtis-interpelle-treize-personnes-lors-doperations-denvergure-nationale_n_999004203.html
+    publisher: Seneweb
+    date: 2026-11-20
+    language: fr
 open_questions:
     - The unit that carried out the arrest was identified as the Brigade de recherches spéciales (BRS) of Tambacounda by one account and as the regional drug squad (Brigade régionale des stupéfiants) by the others; it is unclear whether these are the same unit.
 ---
 
 Two brothers were arrested in the night of 15 to 16 November at Ouly Madina, 73
 kilometres from Tambacounda, where the regional drug squad found cannabis plants
-in a home and then in a nursery at the edge of the village. [@1,3,4] Police opened
+in a home and then in a nursery at the edge of the village. [@1,3,4] The raid was one of nine operations the OCRTIS ran nationwide that led to 13 arrests, the office said. [@5] Police opened
 checks after a tip naming Ibrahima Oualy as a suspected cannabis trafficker,
 reconnaissance pointed them to his home over a suspected cannabis grow, and an
 undercover officer bought four wraps before the squad moved in. [@1,2,3]
