@@ -68,6 +68,11 @@ sources:
     publisher: ТРК «ГРАД»
     date: 2026-11-19
     language: uk
+  - title: На Одещині наркокур'єрку засудили на шість років ув'язнення
+    url: https://nabludatel.od.ua/society/%D0%BD%D0%B0-%D0%BE%D0%B4%D0%B5%D1%89%D0%B8%D0%BD%D1%96-%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D0%BA%D1%83%D1%80%D1%94%D1%80%D0%BA%D1%83-%D0%B7%D0%B0%D1%81%D1%83%D0%B4%D0%B8%D0%BB%D0%B8-%D0%BD%D0%B0/
+    publisher: Наблюдатель
+    date: 2026-11-19
+    language: uk
 open_questions:
     - No date is given for the verdict; the incident date of 8 November 2026 is the publication date of the first report.
     - The main charge concerns the psychotropic substance PVP, not cannabis; the cannabis component is the cultivation of two bushes, making cannabis for her own use and the 0.387 g of cannabis extract.
@@ -84,7 +89,7 @@ media:
 
 The Bolhrad district court found a woman from the village of Zalyznyzhne guilty
 of acquiring, keeping and distributing the psychotropic substance PVP and
-sentenced her to six years in prison with confiscation of her property. [@1,2] The
+sentenced her to six years in prison with confiscation of her property. [@1,2,5] The
 court record says she agreed in November 2024, through Telegram with people she
 did not know, to receive consignments of PVP, place the wrapped doses in hiding
 places around Bolhrad and send the locations to the organisers, for 80 hryvnias
@@ -93,11 +98,11 @@ per hiding place. [@1]
 She received her first consignment of 18 wrapped doses on 1 November 2024 and
 later collected further consignments, keeping part of the substance for her own
 use and hiding the rest around the town. [@1] Police caught her in January,
-while she was placing another hiding place. [@1,2] Officers seized ten wrapped doses she had already left in hiding places and the mobile phone she used to contact the handler. [@2] The case also established that
+while she was placing another hiding place. [@1,2,5] Officers seized ten wrapped doses she had already left in hiding places and the mobile phone she used to contact the handler. [@2,5] The case also established that
 she grew cannabis herself for her own use and made cannabis from the plants, and
-that police found 0.387 grams of cannabis extract at her. [@1] Police found devices for taking drugs with residues of cannabis extract at her home during a search. [@3] She grew two cannabis bushes and made cannabis from them for her own use. [@2]
+that police found 0.387 grams of cannabis extract at her. [@1] Police found devices for taking drugs with residues of cannabis extract at her home during a search. [@3,5] She grew two cannabis bushes and made cannabis from them for her own use. [@2,5]
 
 In court she admitted her guilt in full and said she did it because of her
-difficult financial situation and her wish to earn money. [@1,2] The court
+difficult financial situation and her wish to earn money. [@1,2,5] The court
 convicted her and gave her six years in prison with confiscation of property.
-[@1] The charges were brought under part 1 of article 309 and part 2 of article 307 of the Criminal Code, covering making and keeping drugs without intent to sell and selling especially dangerous psychotropic substances. [@4] She was taken into custody until the verdict takes legal effect, and the first-instance decision can be appealed within 30 days of pronouncement. [@2] The court ordered the seized narcotic and psychotropic substances destroyed and the mobile phone confiscated to the state. [@2]
+[@1,5] The charges were brought under part 1 of article 309 and part 2 of article 307 of the Criminal Code, covering making and keeping drugs without intent to sell and selling especially dangerous psychotropic substances. [@4,5] She was taken into custody until the verdict takes legal effect, and the first-instance decision can be appealed within 30 days of pronouncement. [@2,5] The court ordered the seized narcotic and psychotropic substances destroyed and the mobile phone confiscated to the state. [@2,5]
