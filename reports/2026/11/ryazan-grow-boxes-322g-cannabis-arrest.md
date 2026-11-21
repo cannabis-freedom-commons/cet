@@ -53,32 +53,47 @@ sources:
     publisher: Рязанские ведомости
     date: 2026-11-20
     language: ru
+  - title: Под Рязанью 36-летний мужчина вырастил плантацию конопли
+    url: https://www.rzn.info/news/2026/11/20/pod-ryazanyu-36-letnij-muzhchina-vyrastil-plantaciyu-konopli-356929.html
+    publisher: RZN.info
+    date: 2026-11-20
+    language: ru
+  - title: На даче под Рязанью пышно зеленела конопля
+    url: https://rg62.info/2026/11/20/na-dache-pod-ryazanyu-pyshno-zelenela-konoplya/
+    publisher: RG62.iNFO
+    date: 2026-11-20
+    language: ru
 open_questions:
-  - No separate date for the search and detention was given; 20 November 2026 is the publication date and is used as the incident date.
-  - The 322 grams was called a finished narcotic; the headline calls it marijuana and the second account says it was made from cannabis leaves, while the 1.5 kilograms was described only as parts of the cannabis plant.
-  - No combined weight for the drug and plant material was given, and no value estimate was published.
-  - No court date, plea or outcome was reported; the case was at the investigation stage.
-  - The second account gives 27 containers of cannabis bushes and 21 of stems but no count of individual plants.
-  - Both accounts derive from the same regional Interior Ministry statement, so they are not independent reporting.
+    - No separate date for the search and detention was given; 20 November 2026 is the publication date and is used as the incident date.
+    - The 322 grams was called a finished narcotic; one account says it was marijuana made from cannabis leaves, while the 1.5 kilograms was described only as parts of the cannabis plant.
+    - No combined weight for the drug and plant material was given, and no value estimate was published.
+    - No court date, plea or outcome was reported; the case was at the investigation stage.
+    - RG62.iNFO says the man grew 27 cannabis bushes in the two boxes, while the other accounts describe 27 containers of cannabis bushes and 21 containers of stems; no count of plants seized or destroyed was published.
+    - The accounts all reproduce the same regional Interior Ministry statement, so they are not independent reporting.
+media:
+  - kind: photo
+    url: https://rg62.info/2026/11/20/na-dache-pod-ryazanyu-pyshno-zelenela-konoplya/
+    media_url: https://rg62.info/wp-content/uploads/2026/11/konoplya.jpg
+    publisher: RG62.iNFO
+    caption: 'Photo credited to the Ryazan Oblast Interior Ministry directorate, published with the RG62.iNFO account of the dacha cannabis grow. Photo: УМВД РФ по Рязанской области'
 ---
 
 Police in Ryazan detained a 36-year-old city resident on suspicion of growing
-drug-containing plants and storing banned substances. [@1] The regional Interior
+drug-containing plants and storing banned substances. [@1,3] The regional Interior
 Ministry directorate said the man had created the conditions at his private
-house in a gardening association in the Ryazan district. [@1] He had placed two
+house in a gardening association in the Ryazan district. [@1,4] He had placed two
 grow boxes fitted with daylight lamps and heat-retaining materials in the house
 and grew cannabis there. [@2]
 
 In total officers seized 322 grams of the finished drug and 1.5 kilograms of
-cannabis plant parts. [@1] The search turned up 27 containers of cannabis bushes
+cannabis plant parts. [@1,4] The search turned up 27 containers of cannabis bushes
 and 21 containers of cannabis stems, and he had stripped leaves from mature
-plants to make marijuana. [@2]
+plants to make marijuana. [@2,3]
 
 He had bought cannabis seeds, the equipment needed to cultivate them and
 fertiliser over the internet before setting up the grow boxes to grow the plants
-for his own consumption. [@1] Police opened two criminal cases, one for
+for his own consumption. [@1,3] Police opened two criminal cases, one for
 acquiring, manufacturing and storing narcotics on a large scale and the other
-for cultivating narcotic-containing plants on a large scale. [@1] The cases were
+for cultivating narcotic-containing plants on a large scale. [@1,4] The cases were
 opened at the Ryazansky department of internal affairs. [@2] He faces a maximum
-sentence of up to ten years in prison. [@1]
-
+sentence of up to ten years in prison. [@1,3]
