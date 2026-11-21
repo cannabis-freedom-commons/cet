@@ -21,6 +21,11 @@ media:
     media_url: https://kun.uz/_next/image?url=https%3A%2F%2Fstorage.kun.uz%2Fsource%2F12%2FseBDI9w7Je9a7YF3e79LvyXgOZyTFsYp.jpg&w=1080&q=75
     publisher: Kun.uz
     caption: 'Cannabis products seized from the suspects'' luggage at Phuket airport. Photo: Amarin TV'
+  - kind: photo
+    url: https://www.novostiphuketa.asia/grazhdane-uzbekistana-arestovany-v-aeroportu-phuketa-za-kontrabandu-narkotikov-23998.php
+    media_url: https://www.novostiphuketa.asia/photo/listing/2026/1782977727_1-org.jpg
+    publisher: Novosti Phuketa
+    caption: 'Cannabis products seized from the two Uzbeks'' luggage at Phuket International Airport, in the Sakhu Police handout published with the Russian-language account of The Phuket News report. Photo: The Phuket News / Sakhu Police'
 details:
   agency_types: [customs, police]
   case_stage: charged
@@ -52,25 +57,30 @@ sources:
     url: https://www.thephuketnews.com/uzbek-men-arrested-with-31-53kg-of-cannabis-at-phuket-airport-100801.php
     publisher: The Phuket News
     date: 2026-07-02
+  - title: Граждане Узбекистана арестованы в аэропорту Пхукета за контрабанду наркотиков
+    url: https://www.novostiphuketa.asia/grazhdane-uzbekistana-arestovany-v-aeroportu-phuketa-za-kontrabandu-narkotikov-23998.php
+    publisher: Novosti Phuketa
+    date: 2026-07-02
+    language: ru
 open_questions:
-  - The Phuket News reports more than 31 kilogrammes, about 31.53 kg, including 4.8 kg of resin for the second suspect, while Kun.uz details just over 26 kg; this report uses the shared 26.73 kg breakdown and notes the difference.
-  - The Phuket News reports weights as including packaging, so the net cannabis weight is not known.
-  - No court outcome was reported; the men were handed to Sakhu investigators and the case was still under way.
-  - The Phuket News page carries photos credited to Sakhu Police, but no direct image address could be recovered for them, so only the Kun.uz/Amarin TV photo is listed as media.
+    - The Phuket News reports more than 31 kilogrammes, about 31.53 kg, including 4.8 kg of resin for the second suspect, while Kun.uz details just over 26 kg; this report uses the shared 26.73 kg breakdown and notes the difference.
+    - The Phuket News reports weights as including packaging, so the net cannabis weight is not known.
+    - No court outcome was reported; the men were handed to Sakhu investigators and the case was still under way.
+    - The intended destination of the two men's flights was not disclosed.
 ---
 
 Thai customs officers detained two Uzbek citizens at Phuket International
 Airport after cannabis products were found in their luggage as they prepared to
-leave Thailand. [@1] Both detainees were 26 years old. [@1] The Phuket News
+leave Thailand. [@1,3] Both detainees were 26 years old. [@1,3] The Phuket News
 identified the first man as 26-year-old Uzbek national Nursayid Mukhiddinovich
 Mukhiddinov, found with dried flowers, resin and processed cannabis totalling
 about 15.9 kg including packaging. [@2] It identified the second man as
 26-year-old Uzbek national Bunyodboy Jalilboyevich Juraboev, found with dried
 flowers, resin and processed cannabis totalling about 15.63 kg including
 packaging. [@2] Both men admitted owning the suitcases and voluntarily opened
-them after X-ray screening flagged suspicious contents. [@2] Both men were
+them after X-ray screening flagged suspicious contents. [@2,3] Both men were
 charged with attempting to export goods without customs clearance under the 2017
-Customs Act plus narcotics and controlled-herb offences. [@2] The detainees and
+Customs Act plus narcotics and controlled-herb offences. [@2,3] The detainees and
 seized evidence were handed to investigators at Sakhu Police Station for further
 legal action. [@1]
 
@@ -85,4 +95,3 @@ Thai Customs said unlawful export of cannabis is a crime punishable by a fine of
 up to 30,000 baht per kilogram or imprisonment by court decision. [@1] Phuket
 authorities intend to tighten cannabis controls amid a rise in cases involving
 foreign tourists. [@1]
-
