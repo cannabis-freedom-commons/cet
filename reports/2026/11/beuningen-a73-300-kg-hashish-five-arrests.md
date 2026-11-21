@@ -39,6 +39,11 @@ media:
     media_url: https://sf-video.dpgmedia.net/18ad8260-f714-4ff5-bad0-f8a70a674acf-version-1795197229665/18ad8260-f714-4ff5-bad0-f8a70a674acf.m3u8
     publisher: PZC
     caption: News video about the A73 chase near Beuningen and the discovery of over 300 kg of hashish in a hidden vehicle compartment.
+  - kind: photo
+    url: https://beuningen.nieuws.nl/112/vijf-mannen-aangehouden-na-politieactie-op-a73-bij-beuningen-ruim-300-kilo-hasj-gevonden
+    media_url: https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/width:750/height:500/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/beuningen.nieuws.store/images/2026-11/heitink-20261120-politie-vindt-ruim-300-kilo-hasj-na-achtervolging-op-a73-beuningen-5-1-6b008a16030c1.jpg@webp
+    publisher: Beuningen.nieuws.nl
+    caption: 'Photo published with the report on the A73 chase near Beuningen and the hashish find. Photo: Persbureau Heitink'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: e1627e246f0bc31cc48d5f0862285bf6
@@ -64,6 +69,11 @@ sources:
     publisher: Omroep Brabant
     date: 2026-11-20
     language: nl
+  - title: Vijf mannen aangehouden na politieactie op A73 bij Beuningen, ruim 300 kilo hasj gevonden
+    url: https://beuningen.nieuws.nl/112/vijf-mannen-aangehouden-na-politieactie-op-a73-bij-beuningen-ruim-300-kilo-hasj-gevonden
+    publisher: Beuningen.nieuws.nl
+    date: 2026-11-20
+    language: nl
 open_questions:
   - The police described the find as 'ruim 300 kilo' (just over 300 kilograms); no exact measured weight was published.
   - 'Accounts disagree on the ages of the two men first arrested: the police statement and NOS give 20 and 22, while Omroep Brabant gives 18 and 19.'
@@ -72,18 +82,18 @@ open_questions:
 ---
 
 Dutch police arrested five men on suspicion of money laundering and drug
-possession. [@1,2] The five arrests were made on Thursday 19 November 2026. [@2]
+possession. [@1,2,5] The five arrests were made on Thursday 19 November 2026. [@2,5]
 The operation began around 20:00 when an automatic number-plate recognition
 alert flagged a vehicle, and after the driver ignored a stop sign a short chase
-ended on the A73 at Beuningen where the driver and passenger were arrested. [@2]
+ended on the A73 at Beuningen where the driver and passenger were arrested. [@2,5]
 The first two, a 20-year-old and a 22-year-old from Tilburg, were followed by
 three more arrests in Oosterhout: a 22-year-old with no fixed residence and two
-men aged 18 and 19 from Tilburg. [@2] Omroep Brabant reported that four of those
+men aged 18 and 19 from Tilburg. [@2,5] Omroep Brabant reported that four of those
 held were from Tilburg and one had no fixed residence. [@4]
 
 Searching the vehicles in Oosterhout, officers found a hidden compartment in one
-of them holding over 300 kilograms of hashish, the police said. [@2] According
+of them holding over 300 kilograms of hashish, the police said. [@2,5] According
 to NOS, the lorry was taken under police escort to the station in Nijmegen,
 where officers opened parts of the roof and found a concealed space behind the
 cab from which dozens of bags were removed. [@3] The police said all five
-suspects remained in custody and were being questioned. [@2,4]
+suspects remained in custody and were being questioned. [@2,4,5]
