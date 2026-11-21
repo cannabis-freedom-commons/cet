@@ -41,21 +41,41 @@ sources:
     publisher: بوابة الوسط
     date: 2026-11-19
     language: ar
+  - title: ضبط مائة كيلوغرام من مخدر الحشيش داخل منزل بمدينة أمساعد
+    url: https://lana.gov.ly/post.php?id=370411&lang=ar
+    publisher: وكالة الأنباء الليبية (وال)
+    date: 2026-11-19
+    language: ar
+  - title: ضبط 100 كيلوغرام من الحشيش داخل منزل في امساعد
+    url: https://alwasat.ly/news/485690
+    publisher: بوابة الوسط
+    date: 2026-11-20
+    language: ar
 open_questions:
-  - No separate date for the raid was given; 19 November 2026, the publication date, stands in for the incident date.
-  - The account refers to a single accused being questioned but does not state an arrest count or give a name, so no arrest figure is recorded.
-  - The 100 kilograms was reported as hashish with no packaging breakdown or laboratory confirmation stated.
-  - The account rests on a single report of an anti-drug agency Facebook statement.
+    - The account refers to a single accused being questioned but does not state an arrest count or give a name, so no arrest figure is recorded.
+    - The 100 kilograms was reported as hashish with no packaging breakdown or laboratory confirmation stated.
+    - The account rests on reprints of the anti-drug directorate's Facebook statement rather than independent reporting.
+media:
+  - kind: photo
+    url: https://alwasat.ly/news/485690
+    media_url: https://alwasat.ly/media/5d460702-f49a-4e72-a97c-f1840885c3fb
+    publisher: بوابة الوسط
+    caption: 'Hashish seized in the security raid in Musaid on 19 November 2026, in a handout photo published with the anti-narcotics directorate''s statement. Photo: General Directorate for Combating Drugs and Psychotropic Substances'
+  - kind: photo
+    url: https://alwasat.ly/news/485690
+    media_url: https://alwasat.ly/media/5f44c216-2626-406f-8626-37570e11fd56
+    publisher: بوابة الوسط
+    caption: 'Second handout photo of the hashish seized in the Musaid house raid of 19 November 2026, published with the anti-narcotics directorate''s statement. Photo: General Directorate for Combating Drugs and Psychotropic Substances'
 ---
 
 Officers of the General Directorate for Combating Drugs and Psychotropic
-Substances raided a house in the city of Musaid. [@1] The raid was carried out
+Substances raided a house in the city of Musaid. [@1,2] The raid took place on Thursday 19 November 2026. [@3] The raid was carried out
 by members of the directorate's Tobruk branch with permission from the Public
 Prosecution as part of efforts against drug trading. [@1] The directorate said
 the accused was undergoing questioning ahead of referral to the Public
-Prosecution for further legal procedures. [@1]
+Prosecution for further legal procedures. [@1,3]
 
-Officers seized 100 kilograms of hashish inside the house. [@1] The directorate
+Officers seized 100 kilograms of hashish inside the house. [@1,3] The directorate
 announced the operation in a statement posted on its Facebook page. [@1] The
 directorate said the operation was carried out on the instructions of its
 director, Maj. Gen. Ahmed Al-Shamkh. [@1] The directorate presented the raid as
@@ -67,4 +87,3 @@ country with neighbouring states and regional markets. [@1] It cited a United
 Nations Office on Drugs and Crime report for 2020 to 2024 describing Libya as a
 regional transit point for drugs including hashish, cocaine and synthetic drugs.
 [@1]
-
