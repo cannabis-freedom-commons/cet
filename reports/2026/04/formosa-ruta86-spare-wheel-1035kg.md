@@ -51,28 +51,30 @@ sources:
     publisher: Argentina.gob.ar (Ministerio de Seguridad Nacional, Gendarmería Nacional Argentina)
     date: 2026-04-29
     language: es
+  - title: Traficaban más de 10 kilos de marihuana ocultos en un rueda de una camioneta y fueron capturados en Formosa
+    url: https://www.infobae.com/sociedad/policiales/2026/04/30/traficaban-mas-de-10-kilos-de-marihuana-ocultos-en-un-rueda-de-una-camioneta-y-fueron-capturados-en-formosa/
+    publisher: Infobae
+    date: 2026-04-30
+    language: es
 open_questions:
-  - The release gives no separate date for the stop; 29 April 2026 is its publication date and is used as the incident date.
-  - Neither the release nor the news account names the three detainees or gives their ages.
-  - Kilometre 1,298 of Ruta Nacional 86 is not a named town, so the coordinates are a province-level point and the location is recorded with region precision.
-  - No street value for the 10.35 kg of cannabis was published.
-  - Neither account says whether the three men were charged or brought before a judge, or what bearing the 2019 warrant had on the case.
-  - The stop took place outside the town of Clorinda, whose Squadron 16 carried it out; the release does not say which municipality the checkpoint fell in.
-  - 'Left out, as its quotation was not found in Primero Chaco: Primero Chaco reported the same stop, naming the same place, the same three occupants and the same 10 kilos 350 grams of cannabis, and said the wanted man''s warrant dated from 2019.'
-  - 'Left out, as its quotation was not found in Primero Chaco: It also reported that one of the three detainees had been wanted on an arrest warrant since 2019.'
+    - Infobae places the operation in the week before its 30 April 2026 publication, while the Gendarmería release gives no separate date; 29 April 2026 remains the stand-in incident date.
+    - Neither the release nor the news accounts name the three detainees or give their ages.
+    - Kilometre 1,298 of Ruta Nacional 86 is not a named town, so the coordinates are a province-level point and the location is recorded with region precision.
+    - No street value for the 10.35 kg of cannabis was published.
+    - Neither account says whether the three men were charged or brought before a judge, or what bearing the 2019 warrant had on the case.
+    - The stop took place outside the town of Clorinda, whose Squadron 16 carried it out; the release does not say which municipality the checkpoint fell in.
 ---
 
 Gendarmes of Squadron 16 "Clorinda" stopped a pickup carrying three men at a
 surprise mobile checkpoint on Ruta Nacional 86 at kilometre 1,298, in Formosa
-province. [@1] The force's narcotics dog Dreyco reacted at the pickup's load bed
-and then positioned itself over the spare wheel. [@1] After the federal
+province. [@1,2] The force's narcotics dog Dreyco reacted at the pickup's load bed
+and then positioned itself over the spare wheel. [@1,2] After the federal
 prosecution unit in Formosa authorised it, officers scanned the tyre and saw
-amorphous packages resembling plant material. [@1] Three men were detained over
+amorphous packages resembling plant material. [@1,2] Three men were detained over
 the find, one of them already wanted on an active arrest warrant. [@1]
 
 Cutting the tyre open, the gendarmes removed 14 packages of different shapes and
-sizes holding cannabis sativa (marijuana). [@1] The packages weighed 10
-kilograms 350 grams. [@1] The arrest warrant against one of the three had been
-outstanding since 2019. [@1] The judge handling the case ordered the marijuana,
+sizes holding cannabis sativa (marijuana). [@1,2] The packages weighed 10
+kilograms 350 grams. [@1,2] The arrest warrant against one of the three had been
+outstanding since 2019. [@1,2] The judge handling the case ordered the marijuana,
 the pickup and four mobile phones seized, and ordered all three men held. [@1]
-
