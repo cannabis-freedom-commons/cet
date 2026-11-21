@@ -51,6 +51,10 @@ sources:
     url: https://www.deccanherald.com/india/5-indians-arrested-in-drug-trafficking-cases-in-nepal-4198947
     publisher: Deccan Herald
     date: 2026-10-28
+  - title: Ten arrested with illegal drugs across Nepal
+    url: https://english.nepalnews.com/s/crime-news/ten-arrested-with-illegal-drugs-across-nepal/
+    publisher: Nepal News
+    date: 2026-10-27
 media:
   - kind: photo
     url: https://english.ratopati.com/story/84754/two-indian-women-arrested-with-14-kg-of-thai-marijuana-at-airport
@@ -60,6 +64,7 @@ media:
 open_questions:
   - The new article does not give Batik Air flight number OD-182 or say the women are from Gujarat; those details rest on the existing sources.
   - The same article also reports the Koteshwor courier marijuana case, covered in a separate update, and a 322-gram brown-sugar arrest in Pharping, a non-cannabis event left out here.
+  - The Nepal Police statement dates the airport arrests to the night of Monday 26 October 2026, while this report uses 27 October 2026 from the first coverage.
 ---
 
 A Narcotics Control Bureau team arrested two Indian women at Tribhuvan
@@ -71,4 +76,4 @@ Kathmandu from Thailand via Malaysia on Batik Air flight OD-182. [@1,2,3]
 Bureau officers grew suspicious when they checked the pair after the flight's
 arrival, and Senior Superintendent Subash Bohora said an investigation was
 under way under the Narcotics Control Act. [@1] The pair were held outside the
-airport's arrival area. [@2]
+airport's arrival area. [@2,4]
