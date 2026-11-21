@@ -64,16 +64,17 @@ sources:
     publisher: Police & Réalités
     date: 2026-11-20
     language: fr
+  - title: La police démantèle un trafic de drogue après une overdose
+    url: https://toulouse7.com/2026/11/20/la-police-demantele-un-trafic-de-drogue-apres-une-overdose/
+    publisher: Toulouse7.com
+    date: 2026-11-20
+    language: fr
 open_questions:
-    - No breakdown of the 26 kilograms between herbal cannabis and resin was published; a photograph caption in La Dépêche du Midi refers to 29 kilograms while its article text and the other accounts give 26.
-    - Police did not report whether cocaine or any other drug was seized in the operation; the seizures described were cannabis, a handgun, ammunition and cash.
-    - The reports do not say whether the 49-year-old woman survived the overdose that started the investigation.
-    - The fifth person placed in police custody was not identified, and no charge, release or other outcome was reported for them.
-    - Police did not say where the cannabis and cash were found or how they were divided among the addresses searched.
-    - No full identities or ages were published beyond the 63-year-old suspect and the description of the other three as men in their thirties.
-    - The handgun was described as a Glock pistol by La Dépêche du Midi and only as a handgun by France 3 Occitanie; the quantity of ammunition was not given.
-    - The charges were described only as "trafic de stupéfiants"; the specific offences with which each man was charged were not listed.
-    - No trial date or further court hearing was reported, and all four men are presumed innocent.
+    - No breakdown of the 26 kilograms between herbal cannabis and resin was reported.
+    - No identities, ages or formal charges for the detainees were reported, and the outcome of their presentation to the judge was not given.
+    - Where the cash and drugs were found, and how they were divided among the suspects, was not reported.
+    - 'Accounts differ on the number detained: the police statement cited here says five people were placed in custody, while the original account reported four arrests.'
+    - No exact date was given for the operation; the custody was described only as early in the week before the 20 November publication.
 media:
   - kind: photo
     url: https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/trafic-de-drogue-une-overdose-un-nom-sur-un-sachet-un-reseau-demantele-et-26-kilos-de-cannabis-saisis-a-toulouse-3453264.html
@@ -85,11 +86,16 @@ media:
     media_url: https://images.ladepeche.fr/api/v1/images/view/6b004cc31f7b04b6660b2b5a/large/image.jpg?v=1
     publisher: ladepeche.fr
     caption: 'Cannabis, in herb and resin form, seized by investigators in the Toulouse operation, in the photograph published with La Dépêche du Midi''s report. Photo: Nathalie Saint-Affre / La Dépêche du Midi'
+  - kind: photo
+    url: https://toulouse7.com/2026/11/20/la-police-demantele-un-trafic-de-drogue-apres-une-overdose/
+    media_url: https://toulouse7.com/wp-content/uploads/2026/11/916615041_4565902293624731_4326930853443896090_n-750x375.jpeg
+    publisher: Toulouse7.com
+    caption: 'Cannabis seized by investigators in the Toulouse Papus drug-trafficking case. Photo: Police nationale de la Haute Garonne.'
 ---
 
 Four men were arrested in Toulouse on Monday 16 November 2026 during the
 dismantling of a drug-trafficking network that was active notably on Telegram.
-[@1,2,4] The investigation began in September 2025, when a 49-year-old woman overdosed after taking about ten grams of cocaine in two days. [@2] On one of the bags, investigators found the name of the network that had sold her the drug. [@2] Five people in total were placed in police custody at the start of the week, the Haute-Garonne national police said. [@2] Four men were indicted in Toulouse on Thursday 19 November 2026 on suspicion of drug trafficking. [@2] Three were placed in pre-trial detention; the fourth, aged 63, was left free under judicial supervision. [@2] The 63-year-old admitted during police custody that he had stored drugs at home as a "nourrice"; the three others, men in their thirties already known to police, mostly kept silent. [@2,4] Investigators from the Division de la criminalité territoriale (DCT)
+[@1,2,4] The operation followed an overdose and a long investigation, police said. [@5] Police said the network was based mainly in the Papus district, in the Mirail area of Toulouse. [@5] The investigation began in September 2025, when a 49-year-old woman overdosed after taking about ten grams of cocaine in two days. [@2] On one of the bags, investigators found the name of the network that had sold her the drug. [@2] Five people in total were placed in police custody at the start of the week, the Haute-Garonne national police said. [@2] Four men were indicted in Toulouse on Thursday 19 November 2026 on suspicion of drug trafficking. [@2] Three were placed in pre-trial detention; the fourth, aged 63, was left free under judicial supervision. [@2] The 63-year-old admitted during police custody that he had stored drugs at home as a "nourrice"; the three others, men in their thirties already known to police, mostly kept silent. [@2,4] Investigators from the Division de la criminalité territoriale (DCT)
 discovered a handwritten message when they arrived to arrest a man suspected of
 taking part in the Toulouse drug trafficking. [@1,4] Police traced the network to the Papus district in south-west Toulouse, where it was suspected of selling drugs mainly in the Toulouse area. [@2] Before fleeing, the man had
 left a sheet of paper on his door addressed to the police officers who were
@@ -98,6 +104,6 @@ officers not to break it, adding that they just had to push hard. [@1,2,4]
 
 In the operation, the police recovered drugs, money and weapons. [@1] The
 reported totals for the major sweep were 26 kilograms of cannabis, weapons and
-29,000 euros in cash. [@1,2,4] The handgun was a Glock pistol, seized with the cannabis and nearly 29,000 euros in cash, La Dépêche du Midi reported. [@3] The published photograph caption states that the
-officers did not recover cocaine. [@1] The four arrests and the seizures
-belonged to the same Toulouse sweep against the Telegram-active network. [@1]
+29,000 euros in cash. [@1,2,4,5] The weapons seized were a handgun and ammunition. [@5] The handgun was a Glock pistol, seized with the cannabis and nearly 29,000 euros in cash, La Dépêche du Midi reported. [@3] The published photograph caption states that the
+officers did not recover cocaine. [@1] No cocaine, synthetic drugs or opioids such as heroin or fentanyl were seized at that stage. [@5] The four arrests and the seizures
+belonged to the same Toulouse sweep against the Telegram-active network. [@1] Five people were placed in police custody early in the week and then presented to a judge, according to the police statement. [@5]
