@@ -55,6 +55,16 @@ sources:
     publisher: Meganoticias
     date: 2026-11-20
     language: es
+  - title: Fiscalía investiga intoxicación de niños con droga en Pucón
+    url: https://fmcentro.cl/2026/11/20/fiscalia-investiga-intoxicacion-de-ninos-con-droga-en-pucon/
+    publisher: Radio FM Centro Gorbea
+    date: 2026-11-20
+    language: es
+  - title: Tres niños hospitalizados por comer un paquete de ramitas con marihuana
+    url: https://www.msn.com/es-cl/noticias/other/tres-ni%C3%B1os-hospitalizados-por-comer-un-paquete-de-ramitas-con-marihuana/ar-AA2hRCJp
+    publisher: Cooperativa.cl (via MSN)
+    date: 2026-11-20
+    language: es
 open_questions:
     - No weight, dose or number of cannabis-laced snacks was reported, and the items Carabineros seized are not described.
     - Meganoticias placed the home in the comuna of Villarrica while the BioBioChile account reported the case from Pucón; the exact location of the home is not settled.
@@ -67,20 +77,20 @@ open_questions:
 
 Three children aged 2, 3 and 11 were taken from the hospital in Pucón to the
 hospital in Villarrica in the early hours of Thursday 19 November 2026 with
-symptoms of intoxication. [@1,3] The children had eaten ramitas, a savoury snack,
+symptoms of intoxication. [@1,3,4] The children had eaten ramitas, a savoury snack,
 from a packet in their home that contained cannabis among its ingredients,
-according to the Regional Prosecutor's Office of La Araucanía. [@1,3] Prosecutor
+according to the Regional Prosecutor's Office of La Araucanía. [@1,3,4] Prosecutor
 Cristián Voullieme said Carabineros of the Seventh Precinct in Villarrica
 reported the procedure after the children were taken to the local hospital for
 medical attention. [@1,3]
 
 According to the first findings of the investigation, the packet of ramitas had
 been left at the house so that it could later be taken to the Villarrica
-Penitentiary Centre. [@1,3] The Public Ministry is trying to establish how the
+Penitentiary Centre. [@1,3,5] The Public Ministry is trying to establish how the
 drug got inside the wrapper and whether the children's mother knew it contained
-marijuana. [@1,3]
+marijuana. [@1,3,5]
 
 After her detention the woman was released, while Carabineros seized various
-items of interest to the investigation. [@1,3] The prosecutor said the woman was released with an apercibimiento, a formal warning, while the investigation continued. [@3] The prosecutor's office said it was
+items of interest to the investigation. [@1,3,4] The prosecutor said the woman was released with an apercibimiento, a formal warning, while the investigation continued. [@3,5] The prosecutor's office said it was
 continuing inquiries to determine the origin of the substance and to establish
-any criminal responsibility. [@2] Investigators were also trying to establish who was responsible for taking the packet to the prison. [@3]
+any criminal responsibility. [@2,4] Investigators were also trying to establish who was responsible for taking the packet to the prison. [@3,5]
