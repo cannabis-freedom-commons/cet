@@ -49,32 +49,51 @@ sources:
     publisher: Napoli ZON
     date: 2026-11-19
     language: it
+  - title: 'Cimitile: sorpreso a cedere droga. Arrestato dalla Polizia di Stato.'
+    url: https://questure.poliziadistato.it/it/Napoli/articolo/36056b002b1b158d9169677177
+    publisher: Polizia di Stato – Questura di Napoli
+    date: 2026-11-19
+    language: it
+  - title: 'Cimitile (Na) – Sorpreso a cedere droga in auto: arrestato 28enne con cocaina e hashish'
+    url: https://irpiniattiva.news/cronaca/cimitile-na-sorpreso-a-cedere-droga-in-auto-arrestato-28enne-con-cocaina-e-hashish/
+    publisher: Irpinia Attiva
+    date: 2026-11-19
+    language: it
+  - title: Cimitile, arrestato pusher 28enne con cocaina e hashish
+    url: https://www.cronachedellacampania.it/2026/11/cimitile-arrestato-pusher-28enne-con-cocaina-e-hashish/
+    publisher: Cronache della Campania
+    date: 2026-11-19
+    language: it
 open_questions:
-  - The article gives the day only as 'martedì'; 17 November 2026, the Tuesday before its 19 November publication, is used as the incident date.
-  - The hashish is described as 'about 10 grams'; no exact weight, packaging count or laboratory confirmation was reported.
-  - The 40 wrappers of cocaine, about 14 grams, and the 375 euros in cash are excluded from the cannabis figures because the source presents them as cocaine and cocaine proceeds.
-  - The article does not say what substance the dose handed over in the street contained.
-  - No charge beyond the arrest, no detention measure and no court outcome were reported; the case was at the investigation stage.
-  - What happened to the person who handed over the banknote is not reported.
-  - Another outlet reported a similar arrest of a 30-year-old in Nola two days earlier, with 40 doses of cocaine, 350 euros and hashish in a bedside drawer; whether police described one operation or two separate arrests could not be established.
-  - The account comes from a single local outlet with no named official source, and no second report of this Cimitile arrest was found.
+    - The article gives the day only as 'martedì'; 17 November 2026, the Tuesday before its 19 November publication, is used as the incident date.
+    - The hashish is described as 'about 10 grams'; no exact weight, packaging count or laboratory confirmation was reported.
+    - The 40 wrappers of cocaine, about 14 grams, and the 375 euros in cash are excluded from the cannabis figures because the source presents them as cocaine and cocaine proceeds.
+    - The article does not say what substance the dose handed over in the street contained.
+    - No charge beyond the arrest, no detention measure and no court outcome were reported; the case was at the investigation stage.
+    - What happened to the person who handed over the banknote is not reported.
+    - Another outlet reported a similar arrest of a 30-year-old in Nola two days earlier, with 40 doses of cocaine, 350 euros and hashish in a bedside drawer; whether police described one operation or two separate arrests could not be established.
+media:
+  - kind: photo
+    url: https://www.cronachedellacampania.it/2026/11/cimitile-arrestato-pusher-28enne-con-cocaina-e-hashish/
+    media_url: https://www.cronachedellacampania.it/wp-content/uploads/2026/11/cimitile-arrestato-28enne-per-detenzione-ai-fini-di-spaccio-cocaina-e-hashish-sequestrati-durante-controllo-della-polizia-1536x1396.jpeg
+    publisher: Cronache della Campania
+    caption: Cocaine and hashish seized during the police check in Cimitile that led to the 28-year-old's arrest.
 ---
 
 State police in Cimitile, in the province of Naples, arrested a 28-year-old man
-on suspicion of illegal possession of drugs for dealing. [@1] The intervention
-took place on Tuesday on Via Nazionale delle Puglie in Cimitile. [@1] Officers
+on suspicion of illegal possession of drugs for dealing. [@1,2] The intervention
+took place on Tuesday on Via Nazionale delle Puglie in Cimitile. [@1,3] Officers
 from the Nola police station, on routine patrol, saw the driver hand something
-to another person in exchange for a banknote. [@1] They immediately moved in and
+to another person in exchange for a banknote. [@1,2] They immediately moved in and
 stopped the man. [@1]
 
 A search of the man found 40 wrappers of cocaine weighing about 14 grams and 375
-euros in cash in notes of different denominations. [@1] A further wrapper
-containing cocaine was found in the car he was using. [@1] Officers then
+euros in cash in notes of different denominations. [@1,4] A further wrapper
+containing cocaine was found in the car he was using. [@1,2] Officers then
 searched his home. [@1] There they found other quantities of drugs, in
-particular about 10 grams of hashish. [@1]
+particular about 10 grams of hashish. [@1,4]
 
 He was arrested by officers of the Nola police station for illegal possession of
 drugs for dealing. [@1] Police said the operation was part of patrol and
 prevention work against drug dealing in the area around Nola. [@1] They said the
 checks covered Cimitile and the other towns of the Nola area. [@1]
-
