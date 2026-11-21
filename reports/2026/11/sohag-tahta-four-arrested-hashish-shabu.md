@@ -46,22 +46,22 @@ sources:
     publisher: إقرأ نيوز
     date: 2026-11-19
     language: ar
-open_questions:
-  - No weights, plant counts or monetary values were published for the hashish or the other drugs.
-  - The article gives no separate date for the campaign; 19 November 2026 is its publication date and is used as the incident date.
-  - Only initials and ages were released for the four suspects, and no charge, plea or court outcome was reported.
-  - The account rests on a single police statement reported by one outlet, with no independent corroboration found.
+  - title: ضبط 4 أشخاص بحوزتهم مواد مخدرة وأدوات تعاطٍ في سوهاج
+    url: https://www.cairo24.com/2532233
+    publisher: القاهرة 24
+    date: 2026-11-19
+    language: ar
 ---
 
 Police in Taha, a town in Sohag Governorate, arrested four people in a security
-campaign against drug trafficking in the district. [@1,2] The first suspect,
+campaign against drug trafficking in the district. [@1,2,3] The first suspect,
 identified only as A.Kh., 58, was stopped near the Muslim cemetery in the Sahel
 Taha area and found with a quantity of hashish, a sum of money and a mobile
-phone. [@1,2]
+phone. [@1,2,3]
 
 The campaign also led to the arrest of M.A., 29, A.M.M., 48, and M.F., 37, found
 with a quantity of shabu (methamphetamine), scissors, a katar tool and lamps
-used for drug consumption, plus money and a mobile phone. [@1,2]
+used for drug consumption, plus money and a mobile phone. [@1,2,3]
 
 The campaign was led by Major Abdullah Abu Aqeel, head of Taha police
 investigations, with Captains Ahmed Abu Suhub, Hytham Abdel Hamid and Mohamed
@@ -69,4 +69,4 @@ al-Balki, following directives from Assistant Interior Minister Ashraf Abdel
 Malek, Sohag's security director, to intensify drives against drug dealers. [@1]
 After the four arrests, police secured the drugs, tools, money and mobile phones
 and took the legal steps needed before referring the suspects to the competent
-authorities. [@1,2]
+authorities. [@1,2,3]
