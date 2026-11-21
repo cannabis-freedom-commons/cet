@@ -47,16 +47,21 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-21
     language: hi
+  - title: Two Indian nationals arrested with 443 kg of marijuana in Chitwan
+    url: https://english.khabarhub.com/2026/21/576385/
+    publisher: Khabarhub
+    date: 2026-11-21
 open_questions:
     - No charge, remand decision or court outcome was reported after the arrests; an FIR was registered and legal action was said to be under way.
     - The load was described only as 443 kg of cannabis, with no laboratory confirmation or more specific product stated.
-    - Both news accounts give the same figures, names and details and appear to draw on the same police information, and the police statement itself was not available, so the figure lacks independent corroboration.
+    - The news accounts draw on the same police information, and the police statement itself was not available, so the 443 kg figure lacks independent corroboration.
+    - 'The accounts differ on names and places: the co-driver is called Raunak Kumar in the earlier reports and Rohan Kumar by Khabarhub, and the driver''s village is given as Charkhaje and Charbaje.'
 ---
 
 Police arrested two Indian nationals in Chitwan after recovering 443 kilograms
-of cannabis concealed in a false compartment of an Indian container truck. [@1,2]
+of cannabis concealed in a false compartment of an Indian container truck. [@1,2,3]
 The arrests were made during a vehicle inspection at a police checkpoint in
-Lothar, Rapti Municipality-1, Chitwan. [@1,2] The vehicle inspection took place on a Friday. [@2] The driver was 24-year-old Satyam
+Lothar, Rapti Municipality-1, Chitwan. [@1,2,3] The vehicle inspection took place on a Friday. [@2,3] The driver was 24-year-old Satyam
 Kumar, a resident of Charkhaje in India's Vaishali district. [@1,2] The co-driver
 was 20-year-old Raunak Kumar, from Baban Ghat in the same district. [@1,2]
 
@@ -64,7 +69,7 @@ A joint police team from the Bhandara Area Police Office and the Lothar
 Temporary Police Post stopped the truck, which bore Indian registration number
 NL 0107792 and was travelling from Hetauda towards Chitwan. [@1] During the
 inspection officers found the 443 kilograms of cannabis hidden in a false
-compartment built into the cabin behind the driver's seat. [@1,2]
+compartment built into the cabin behind the driver's seat. [@1,2,3]
 
 Police said further investigation was under way into the alleged trafficking and
-trade of cannabis. [@1] The officer said an FIR was registered in the case and the necessary legal action was under way. [@2] Chitwan police DSP and information officer Chandra Bhushan Yadav said the two arrested Indian nationals were planning to take a ganja consignment into India. [@2]
+trade of cannabis. [@1] Police said both suspects faced further investigation and legal proceedings under the Narcotic Drugs (Control) Act, 2033. [@3] The officer said an FIR was registered in the case and the necessary legal action was under way. [@2] Chitwan police DSP and information officer Chandra Bhushan Yadav said the two arrested Indian nationals were planning to take a ganja consignment into India. [@2]
