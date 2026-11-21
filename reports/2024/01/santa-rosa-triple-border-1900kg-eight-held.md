@@ -43,6 +43,21 @@ media:
     media_url: https://static.tvn-2.com/clip/ad6ad149-714d-4a9c-ab9a-18deef3b1272_16-9-aspect-ratio_1600w_0.webp
     publisher: Tvn Panamá
     caption: 'Photo published with the report on the seizure of more than a tonne of marijuana in Peru. Photo: AFP'
+  - kind: photo
+    url: https://www.infobae.com/colombia/2024/01/17/autoridades-en-colombia-peru-y-brasil-dieron-importante-golpe-a-los-grupos-criminales-de-la-region/
+    media_url: https://www.infobae.com/resizer/v2/Z47P74AFEFD75DTLHRJ5N6J2E4.png?auth=266edca626584b7a3b5a7c2514e68cbe9788fe1686b1252c5c1f342312632228&smart=true&width=992&height=676&quality=85
+    publisher: Infobae
+    caption: 'Fuerzas Militares handout published with the report on the tri-border operation, captioned ''Autoridades de Colombia, Perú y Brasil incautaron más de dos toneladas de marihuana''. Photo: Fuerzas Militares de Colombia'
+  - kind: photo
+    url: https://www.infobae.com/colombia/2024/01/17/autoridades-en-colombia-peru-y-brasil-dieron-importante-golpe-a-los-grupos-criminales-de-la-region/
+    media_url: https://www.infobae.com/resizer/v2/IDHLUCX5GFAJBLOTHKQDG3BZCA.jpeg?auth=516367ddafa5c37e3dacc6ec3b85d6191c1886594c2bd669e2d40e36acb8273d&smart=true&width=992&height=744&quality=85
+    publisher: Infobae
+    caption: 'Fuerzas Militares handout published with the report and captioned ''Siete colombianos y un brasileño fueron capturados en el operativo''. Photo: Fuerzas Militares de Colombia'
+  - kind: photo
+    url: https://www.infobae.com/colombia/2024/01/17/autoridades-en-colombia-peru-y-brasil-dieron-importante-golpe-a-los-grupos-criminales-de-la-region/
+    media_url: https://www.infobae.com/resizer/v2/FGDZIUZLVBHUHECU3UBNF7OOLQ.jpeg?auth=4cacd72e21828369d935eb08b37ceb1e26ec31ac04905de25ad42f907628ac74&smart=true&width=992&height=744&quality=85
+    publisher: Infobae
+    caption: 'Fuerzas Militares handout published with the report and captioned ''Fueron incautadas más de dos toneladas de marihuana en los operativos''. Photo: Fuerzas Militares de Colombia'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9120fb7fce6af45740fe856f7b0e4319
@@ -58,6 +73,11 @@ sources:
     publisher: Tvn Panamá
     date: 2024-01-15
     language: es
+  - title: Autoridades en Colombia, Perú y Brasil dieron importante golpe a los grupos criminales de la región
+    url: https://www.infobae.com/colombia/2024/01/17/autoridades-en-colombia-peru-y-brasil-dieron-importante-golpe-a-los-grupos-criminales-de-la-region/
+    publisher: Infobae
+    date: 2024-01-17
+    language: es
 open_questions:
     - 'The two accounts give different weights for the same 52 sacks: about 1.6 tonnes and 1,642 packages in the EFE/TVN account against about 1,900 kilograms in the armed forces statement, and the report keeps the statement figure.'
     - The EFE/TVN account was published on 15 January 2024 and says police posted the seizure on Saturday, pointing to 13 January, while the armed forces statement is dated 17 January, and no separate day for the operation was given.
@@ -68,24 +88,25 @@ open_questions:
     - The 250-kilogram seizure at Leticia and the 110-kilogram seizure at Vila Bittencourt reported in the same statement are separate events and are not part of this report's figures.
     - The armed forces photo carries no individual caption beyond the announcement title, so what the picture shows beyond illustrating the announcement could not be confirmed.
     - The type and quantity of the other drugs said to be stockpiled with the creepy marijuana were not specified and are excluded from the cannabis figures.
+    - The same article reports more than six tonnes of marijuana seized in Cauca in the first days of January 2024, mainly at Toribio and Caloto; those are separate operations not covered here.
 ---
 
 Colombian army, navy and aerospace units working with Peruvian police found 52
 sacks holding about 1,900 kilograms of marijuana at Santa Rosa, Peru, a few
 metres from the Brazil-Colombia-Peru triple border. [@1,2] The detention and seizure occurred in Yavari district, Mariscal Ramón Castilla province, Loreto. [@2] The 1,642 sealed packages bore images of the Colombian and Turkish flags and were buried in two rustic hidden structures. [@2] Authorities arrested
-eight people in the action, seven Colombians and one Brazilian. [@1,2] The detainees were identified as Colombians Flover Yardel Mera, José Danilo León, José Alfonso Guerra, Yon Edinson Tovar, Jorge Antonio León, Víctor Javier Guerra and Edwin Gonzáles, and Brazilian Delmario Chota. [@2] Those
+eight people in the action, seven Colombians and one Brazilian. [@1,2,3] The detainees were identified as Colombians Flover Yardel Mera, José Danilo León, José Alfonso Guerra, Yon Edinson Tovar, Jorge Antonio León, Víctor Javier Guerra and Edwin Gonzáles, and Brazilian Delmario Chota. [@2] Those
 detained allegedly included the structure's ringleader, described as the main
 organizer for moving drugs along illegal routes and hiding them in illegal
 depots on the triple border through alliances with criminal groups in
-neighbouring countries. [@1] The command attributed the find to
+neighbouring countries. [@1,3] The command attributed the find to
 military-intelligence sharing under a binational operation with Peru that had
 begun several months earlier. [@1] Peru's anti-drug directorate ran the interdiction in Loreto and attributed the load to the international organization Los Parces. [@2]
 
 Preliminary information said the load was bound for the streets of Brazil, and
 the forces said stopping it prevented distribution of a large number of doses.
-[@1,2] The seized material and the eight detainees were to answer to the
+[@1,2,3] The seized material and the eight detainees were to answer to the
 neighbouring country's authorities for drug trafficking. [@1] The same statement
 reported a separate second action in which 250 kilos were found in an illegal
-depot in Leticia, capital of Amazonas, where one person was captured. [@1] The
+depot in Leticia, capital of Amazonas, where one person was captured. [@1,3] The man arrested in Leticia was to answer for manufacturing and possessing narcotics. [@3] The second action was carried out under the armed forces' Strategic Joint Campaign Plan Ayacucho. [@3] The
 statement also reported 110 kilograms of marijuana found at Vila Bittencourt in
-Brazil's Amazonas state, on the Caqueta river on the border with Colombia. [@1]
+Brazil's Amazonas state, on the Caqueta river on the border with Colombia. [@1,3] The Vila Bittencourt operation followed several binational meetings between the two countries' authorities. [@3]
