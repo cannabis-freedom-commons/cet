@@ -68,8 +68,16 @@ sources:
     publisher: Le Quotidien
     date: 2026-03-26
     language: fr
+  - title: 'Cargo Center : 253 kilos de cannabis cachés dans des draps de bain'
+    url: https://www.lequotidien.lu/police-justice/cargo-center-253-kilos-de-cannabis-caches-dans-des-draps-de-bain/902428
+    publisher: Le Quotidien
+    date: 2026-04-03
+    language: fr
+open_questions:
+  - The exact date of the customs find is not given; 26 March 2026 is the date of the prosecutor's announcement, and the find itself is placed in early March.
+  - Le Quotidien describes the 123 kg as cannabis resin, while the report records herbal cannabis; the accounts do not agree on the form of the drug.
 ---
 
-Luxembourg customs, after targeting work, stopped an air shipment from the United States that was bound for France and arrived at the Cargo Center at Luxembourg Airport. [@1,2,3,4,5] The goods were declared as decorative cushions. [@1,2,3,4,5,6] Inside, officers found drugs and seized more than 123 kilograms gross of cannabis. [@1,2,3,4,5,6]
+Luxembourg customs, after targeting work, stopped an air shipment from the United States that was bound for France and arrived at the Cargo Center at Luxembourg Airport. [@1,2,3,4,5] The goods were declared as decorative cushions. [@1,2,3,4,5,6] Inside, officers found drugs and seized more than 123 kilograms gross of cannabis. [@1,2,3,4,5,6] The customs find was made in early March 2026, the prosecutor said. [@7]
 
 The public prosecutor in Luxembourg said on 26 March 2026 that the French authorities were told at once. [@1,2,3,5] The cannabis was placed under seal and was to be destroyed under the rules in force. [@1,3,5,6] The prosecutor said a quantity of that size could only match structured, large-scale distribution and the means of organised networks. [@1,2,3,5] The statement names no one arrested. [@1]
