@@ -52,6 +52,11 @@ media:
       A Gendarmería officer stands on stacked pressed-marijuana packages from
       the November 2024 truck seizure that is the subject of the Posadas trial;
       Diario 33 labels the image Archivo.
+  - kind: photo
+    url: https://www.infobae.com/sociedad/policiales/2024/11/13/luego-de-un-enfrentamiento-armado-gendarmeria-nacional-decomiso-mas-de-7-mil-kilos-de-marihuana-transportados-en-un-camion/
+    media_url: https://www.infobae.com/resizer/v2/C2FBKB52VBHZZP6MQCMHS4ESBM.jpg?auth=6c4d33c13a25cd8d0d2a7b754ef335cf03b76859fe39096dcf61c78f5874cec4&smart=true&width=992&height=489&quality=85
+    publisher: Infobae
+    caption: 'Gendarmería Nacional handout of the marijuana seized from the truck in Misiones. Photo: GNA'
 sources:
   - title: “Menos de ocho años de pena, acepto sin problemas”
     url: https://www.primeraedicion.com.ar/nota/101159544/menos-de-ocho-anos-de-pena-acepto-sin-problemas/
@@ -68,14 +73,21 @@ sources:
     publisher: El Territorio
     date: 2026-11-11
     language: es
+  - title: Luego de un enfrentamiento armado, Gendarmería Nacional decomisó más de 7 mil kilos de marihuana transportados en un camión
+    url: https://www.infobae.com/sociedad/policiales/2024/11/13/luego-de-un-enfrentamiento-armado-gendarmeria-nacional-decomiso-mas-de-7-mil-kilos-de-marihuana-transportados-en-un-camion/
+    publisher: Infobae
+    date: 2024-11-13
+    language: es
 open_questions:
-  - The accounts disagree on whether the truck was stopped in the early hours or the afternoon of 11 November 2024.
-  - Primera Edición names the Gendarmería unit as Escuadrón 8 “Concepción de la Sierra”, while Diario 33 and El Territorio call it Escuadrón 8 “Alto Uruguay”.
-  - Monteiro Correa's eight-year abbreviated agreement had not been ratified when the first hearing ended; it awaits the outcome of his co-defendant's trial.
-  - No verdict or sentence had been given when the hearing ended, and the trial was due to resume on 20 November 2026.
-  - No value was published for the 7,018 kg load.
-  - The accounts do not say whether the occupants of the Peugeot that fled were identified or arrested.
-  - It is not clear whether Camargo Dos Santos was offered an abbreviated agreement or what sentence the prosecution seeks for him.
+    - The accounts disagree on whether the truck was stopped in the early hours or the afternoon of 11 November 2024.
+    - Primera Edición names the Gendarmería unit as Escuadrón 8 “Concepción de la Sierra”, while Diario 33 and El Territorio call it Escuadrón 8 “Alto Uruguay”.
+    - Monteiro Correa's eight-year abbreviated agreement had not been ratified when the first hearing ended; it awaits the outcome of his co-defendant's trial.
+    - No verdict or sentence had been given when the hearing ended, and the trial was due to resume on 20 November 2026.
+    - No value was published for the 7,018 kg load.
+    - The accounts do not say whether the occupants of the Peugeot that fled were identified or arrested.
+    - It is not clear whether Camargo Dos Santos was offered an abbreviated agreement or what sentence the prosecution seeks for him.
+    - Contemporaneous reporting gave the load as 7,018 kilograms and 98 grams; the figure used here is the 7,018 kg stated at trial.
+    - The November 2024 account says the two drivers were caught at the roadside with a backpack of three packages and that the escort suspects escaped, while the trial account says the two accused were followed to Apóstoles and arrested there.
 ---
 
 Sander Camargo Dos Santos, a Brazilian citizen, went on trial at the Tribunal
@@ -90,16 +102,16 @@ Manuel Iglesias, with Iglesias sitting as a substitute. [@1] The trial resumes
 on 20 November with the first witnesses. [@1]
 
 Gendarmes stopped a white Volkswagen truck with a blue-tarped semi-trailer on
-Ruta Provincial 1 on 11 November 2024. [@1] A grey Peugeot 408 fled towards
+Ruta Provincial 1 on 11 November 2024. [@1] The driver and his companion were caught on the shoulder trying to flee with a backpack that held three packages of marijuana. [@4] The control was run by Sección San José of Escuadrón 8 Alto Uruguay. [@4] The stop was a fixed control at kilometre 5 of Ruta Provincial 1. [@4] A grey Peugeot 408 fled towards
 Apóstoles and its occupants fired at the gendarmes, who returned fire. [@1] The
 Peugeot was later found abandoned, without its driver, with several holes from
-gunfire. [@1] Officers followed the two men to Apóstoles and arrested them
+gunfire. [@1] The Posadas federal court and prosecutor's office ordered ballistic tests on the car, analysis of blood found inside it, seizure of the officers' weapons, and a search of local hospitals for anyone wounded. [@4] The escort vehicle was found abandoned on a secondary road near Azara. [@4] Officers followed the two men to Apóstoles and arrested them
 there. [@1] The trailer held 327 plastic bales with 8,806 blocks of pressed
-marijuana. [@1] A sniffer dog named León alerted officers to the load, which
-weighed 7,018 kg. [@1] The charge is possession of drugs for commercial sale,
+marijuana. [@1,4] A sniffer dog named León alerted officers to the load, which
+weighed 7,018 kg. [@1,4] The charge is possession of drugs for commercial sale,
 aggravated by the involvement of three or more people. [@1] Both accused are
 held in federal prisons, Monteiro Correa in Resistencia and Camargo Dos Santos
-in Marcos Paz, and joined the hearing by video link. [@1]
+in Marcos Paz, and joined the hearing by video link. [@1] The drivers had criminal records in Brazil. [@4]
 
 Monteiro Correa's agreement will be ratified after the trial of his co-defendant
 ends. [@1] Prosecutors say the two guarded the truck and its load with others
@@ -107,4 +119,3 @@ who have not been identified or arrested. [@2] The hearing was due to begin at
 8am. [@3] It was held at the court on Félix de Azara 2170 in Posadas. [@3]
 Prosecutor Pablo Ricardo Di Loreto and public defender Mariano Romero took part
 in the case. [@3]
-
