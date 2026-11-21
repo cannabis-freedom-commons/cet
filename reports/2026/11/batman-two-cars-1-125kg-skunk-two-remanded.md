@@ -59,6 +59,11 @@ sources:
     publisher: Habertürk
     date: 2026-11-19
     language: tr
+  - title: 'Batman’da uyuşturucu operasyonu: 2 kişi tutuklandı'
+    url: https://www.medyagazete.com/haber/batmanda-uyusturucu-operasyonu-2-kisi-tutuklandi
+    publisher: Medya Gazete
+    date: 2026-11-19
+    language: tr
 open_questions:
   - The reports do not break down how much skunk was found in each of the two cars or on which of the two operation dates.
   - DHA rounds the heroin to 15 grams while Batman Gazetesi and Habertürk give 15.14 grams; the report uses 15.14 grams and excludes all heroin from the cannabis figures.
@@ -68,13 +73,13 @@ open_questions:
 ---
 
 Batman anti-narcotics police stopped two cars on suspicion at the entrance to
-the city during separate operations carried out on 12 and 18 November 2026. [@3]
+the city during separate operations carried out on 12 and 18 November 2026. [@3,4]
 Officers detained three suspects in connection with the two vehicle searches
 and, after processing at the police station, referred them to the judicial
-authorities. [@1] A court remanded two of the suspects in custody and sent them
-to prison while releasing the third suspect under judicial control. [@2]
+authorities. [@1,4] A court remanded two of the suspects in custody and sent them
+to prison while releasing the third suspect under judicial control. [@2,4]
 
-Detailed searches of the two cars found 1 kilo 125 grams of skunk cannabis. [@2]
+Detailed searches of the two cars found 1 kilo 125 grams of skunk cannabis. [@2,4]
 In the same searches officers also found a total of 15.14 grams of heroin in two
 pieces and two synthetic pills described as Suboxone, which are excluded from
 the cannabis figures. [@1] The operations were carried out by teams of the
@@ -83,4 +88,3 @@ work to prevent drug trafficking. [@2]
 
 The Batman police directorate said its efforts to combat drugs in the province
 would continue after the two operations. [@1]
-
