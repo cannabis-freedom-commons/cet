@@ -46,31 +46,44 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-20
     language: hi
+  - title: मुजफ्फरपुर में 12.292 किलो गांजा के साथ तस्कर गिरफ्तार:नेपाल से गांजा की खेप लाकर जिले में सप्लाई की थी तैयारी, नाबालिग भी पकड़ा गया
+    url: https://www.bhaskar.com/amp/local/bihar/muzaffarpur/news/muzaffarpur-ganja-smuggling-arrest-nepal-border-police-raid-139748481.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-20
+    language: hi
+  - title: मुजफ्फरपुर में 12.292 किलो गांजा के साथ तस्कर गिरफ्तार:नेपाल से गांजा की खेप लाकर जिले में सप्लाई की थी तैयारी, नाबालिग भी पकड़ा गया
+    url: https://www.bhaskar.com/local/bihar/muzaffarpur/news/muzaffarpur-ganja-smuggling-arrest-nepal-border-police-raid-139748481.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-20
+    language: hi
 open_questions:
-  - No date or time is given for the raid itself; 20 November 2026, the day the two were produced in court and the publication date, is used as the incident date.
-  - The 12.422 kilograms is described only as ganja, with no laboratory confirmation and no value estimate published.
-  - The report names no offence sections or charges; it says only that a first information report was registered.
-  - No plea, detention order or later court outcome is reported beyond the remand after the court production.
-  - The whole account comes from one Dainik Bhaskar report, whose full text was read in its AMP version; no independent second outlet reported the seizure.
-  - The elder brother's account of being paid 100 rupees per kilogram to deliver the consignment, and the six names he gave police, are police questioning statements reported without independent confirmation.
-  - The age of the minor brother is not given.
-  - Bhusra Man is named only as a landmark near where the two were standing; the exact spot is not described.
+    - No date or time is given for the vehicle check and arrests; 20 November 2026, the day of the police press conference and of the court production, is used as the incident date.
+    - The two accounts give different weights for the seizure, 12.422 kilograms in the Gaighat report and 12.292 kilograms in the account of the rural superintendent's press conference; the report uses 12.422 kilograms.
+    - The accounts describe the detention differently, as a raid near Bhusra Man on a tip that two men were standing with a consignment and as a vehicle check in which two men on a motorcycle fled and were chased.
+    - The ganja is described only as ganja, with no laboratory confirmation reported.
+    - The value of more than 1.5 million rupees is a police estimate, not a measured market valuation.
+    - No offence sections or charges are reported; police give only the case numbers, Benibad 62/20 of 2020 against the elder brother and Gaighat 342/26 for this seizure.
+    - No plea, detention order or later court outcome is reported beyond the remand after the court production.
+    - The brothers' home is given as Bharatnagar village in one account and the elder brother is placed in the Benibad police-station area in the other.
+    - The Gaighat report says the elder brother named six other men, while the account of the press conference says five others were identified and seven people in all are suspected.
+    - The elder brother's account of being paid 100 rupees per kilogram to deliver the consignment, and the names he gave police, are police questioning statements reported without independent confirmation.
+    - The age of the minor brother is not given.
+    - Both accounts are Dainik Bhaskar reports, and no independent outlet has reported the seizure.
 ---
 
 Police in the Gaighat police-station area of Muzaffarpur district, Bihar, raided
-a spot near Bhusra Man and seized 12.422 kilograms of ganja. [@1] Officers
-caught a young man and his minor younger brother at the spot. [@1] The station
+a spot near Bhusra Man and seized 12.422 kilograms of ganja. [@1] The press conference account gives the amount as 12.292 kilograms, found in a bag, and puts its value at more than 1.5 million rupees. [@3] The rural superintendent of police, Rajesh Singh Prabhakar, told a press conference on Friday 20 November 2026 that police had a tip on 19 November that people carrying a consignment of ganja would pass through. [@3] Officers
+caught a young man and his minor younger brother at the spot. [@1] The rural superintendent said the two fled when they saw the police and were caught after a chase, with the ganja found in their bag. [@3] Gaighat police caught the two on a motorcycle during a vehicle check. [@4] The station
 house officer, Jayaprakash Gupta, said police had a tip that two men were
 standing with a consignment of ganja on a motorcycle near Bhusra Man. [@2]
 
-Police identified the two as brothers from Bharatnagar village. [@2] Both were
+Police identified the two as brothers from Bharatnagar village. [@2] He had been named in a 2020 Benibad police-station case, 62/20, over buying and selling narcotics. [@3] The elder brother is described as a resident of the Benibad police-station area. [@3] Both were
 produced in court on Friday, 20 November 2026, and the elder brother was sent to
 jail while the minor was sent to a juvenile reform home (बाल सुधार गृह). [@2]
 
 The elder brother told officers in questioning that he had been called to
 deliver the consignment of ganja at Ramnagar Chowk and was paid 100 rupees for
 every kilogram. [@2] He also gave police the names of six other men involved in
-ganja trafficking, the station house officer said. [@2] The officer said a first
+ganja trafficking, the station house officer said. [@2] The rural superintendent said seven people in all had been identified in the trafficking network, with one arrested and a minor detained, and five others identified on the elder brother's information still being sought. [@3] The officer said a first
 information report had been registered and that police were working to trace the
-trafficking network. [@2]
-
+trafficking network. [@2] The case was registered at Gaighat police station as case 342/26, and police said raids continued to catch the men who fled. [@3] Police said they suspect the consignment was brought from Nepal and was to be supplied in different areas of Muzaffarpur. [@3]
