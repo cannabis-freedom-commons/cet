@@ -41,32 +41,35 @@ sources:
     publisher: Infobae
     date: 2026-04-04
     language: es
+  - title: Incautan 35 libras de marihuana en el Aila durante operativo de inspección
+    url: https://acento.com.do/actualidad/incautan-35-libras-de-marihuana-en-el-aila-durante-operativo-de-inspeccion-9653131.html
+    publisher: Acento
+    date: 2026-04-03
+    language: es
 open_questions:
-  - The article gives no separate calendar date for the marijuana seizure; 4 April 2026 is its publication date and is used as the incident date.
-  - Only one accessible source for this event was opened; a second account or separate DNCD statement could not be opened.
-  - No detentions, sender or recipient names, charges or court outcome were reported; the investigation was still under way.
-  - The same article also reports a separate cocaine seizure of 12 sheets a day earlier at the same airport; that non-cannabis event is left out here and its weight is excluded from cannabis figures.
-  - No value for the seized marijuana was published.
-  - The page's second photo and second video show the separate cocaine seizure and are excluded; the remaining videos carry descriptions naming Elías Piña that do not establish they show this airport seizure, so no video entry is included.
+    - 'No separate calendar date is given for the seizure: Acento published its account late on 3 April 2026 and Infobae on 4 April, and the report uses 4 April as the incident date.'
+    - No detentions, sender or recipient names, charges or court outcome were reported; the investigation was still under way.
+    - The Infobae account also reports a separate cocaine seizure of 12 sheets a day earlier at the same airport; that non-cannabis event is left out here and its weight is excluded from cannabis figures.
+    - No value for the seized marijuana was published.
+    - Both the Infobae and Acento accounts reproduce the DNCD statement and are not independent reporting.
 ---
 
 No arrests were reported after the airport seizure, and the authorities opened
 an investigation to identify those behind the shipment and its international
 method. [@1] The controlled opening was carried out under the direction of the
-Public Ministry. [@1]
+Public Ministry. [@1,2]
 
 Agents of the DNCD and CESAC seized 35 pounds (about 15.88 kg) of marijuana
-during a cargo inspection at Las Américas International Airport. [@1] Officers
-found two full bags of the drug inside boxes lined with aluminium foil. [@1] The
+during a cargo inspection at Las Américas International Airport. [@1,2] Officers
+found two full bags of the drug inside boxes lined with aluminium foil. [@1,2] The
 two boxes had come from Montevideo, Uruguay, and were flagged after scanners
 showed irregular images. [@1] A sniffer dog signalled the presence of illicit
-substances inside the packages. [@1] Officers then opened both boxes and the
+substances inside the packages. [@1,2] Officers then opened both boxes and the
 DNCD reported the marijuana weighed a certified 35 pounds. [@1]
 
 The operation took place in a cargo depot in Boca Chica, Santo Domingo province.
 [@1] Shipping documents in the name of a supposed company showed the boxes were
 only transiting the Dominican Republic en route to Switzerland, as listed on the
-cargo manifest. [@1] The seizure came amid reinforced intelligence and control
+cargo manifest. [@1,2] The seizure came amid reinforced intelligence and control
 measures at airports, ports and borders ordered recently by DNCD president
 Vice-Admiral Jose M. Cabrera Ulloa for the high-traffic Holy Week period. [@1]
-
