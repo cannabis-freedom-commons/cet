@@ -72,6 +72,11 @@ sources:
     publisher: Neakriti
     date: 2026-11-19
     language: el
+  - title: 'Τρίκαλα: Δέμα από τις ΗΠΑ περιείχε 2,5 κιλά κάνναβης – Συνελήφθη 20χρονος'
+    url: https://www.newsbomb.gr/ellada/astynomiko-reportaz/story/1777641/trikala-dema-apo-tis-ipa-perieixe-2-5-kila-kannavis---synelifthi-20xronos
+    publisher: Newsbomb
+    date: 2026-11-19
+    language: el
 open_questions:
   - TrikalaNews dates the arrest to Tuesday 17 November 2026, while Kathimerini describes it as today at midday on its 18 November publication date; 17 November is used as the incident date.
   - The cannabis was described as raw cannabis in nine nylon packages, with no laboratory confirmation reported.
@@ -81,24 +86,24 @@ open_questions:
 ---
 
 Police in Trikala arrested a 20-year-old Greek man at midday for violations of
-drug legislation and forgery. [@1,4,5] Officers of the Trikala Narcotics Unit
+drug legislation and forgery. [@1,4,5,7] Officers of the Trikala Narcotics Unit
 located the 20-year-old, believed to be the parcel's recipient, at a spot in the
-city and arrested him during the operation. [@1,5,6] The 20-year-old was led to the
+city and arrested him during the operation. [@1,5,6,7] The 20-year-old was led to the
 Trikala misdemeanours prosecutor, while the Trikala prosecution and
 crime-detection unit conducted the preliminary inquiry. [@1,4]
 
 Customs officers from the anti-smuggling department of the Eastern Attica
 Customs Office had spotted the suspect parcel in a courier company's parcel
-storage warehouse. [@1,4,5] Police said the parcel had been sent from an area of the
+storage warehouse. [@1,4,5,7] Police said the parcel had been sent from an area of the
 United States with Trikala as its final destination and contained nine nylon
-packages of raw cannabis weighing 2 kilos 582 grams, plus clothing items. [@1,5,6]
+packages of raw cannabis weighing 2 kilos 582 grams, plus clothing items. [@1,5,6,7]
 After the drugs were found, a controlled delivery of the parcel was organised
 following a decision by the drug-enforcement coordination body and approval by
-the competent prosecutor. [@1,4,5,6] Officers identified and arrested the 20-year-old
+the competent prosecutor. [@1,4,5,6,7] Officers identified and arrested the 20-year-old
 as he collected the parcel. [@2]
 
 A lawful search of his home in the wider Trikala area uncovered a fake identity
-card. [@1] He also had a mobile phone and an ID-type photograph identical to the
+card. [@1,7] He also had a mobile phone and an ID-type photograph identical to the
 photograph on the fake document. [@1,6] Officers seized the parcel with the
 cannabis and clothing, the fake identity card, the mobile phone and the ID-type
 photograph. [@1,4] A case file was opened against the 20-year-old for
