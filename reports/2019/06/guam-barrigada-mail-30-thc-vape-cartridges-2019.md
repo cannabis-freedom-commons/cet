@@ -34,26 +34,24 @@ sources:
     url: https://eu.gosanangelo.com/story/news/local/2019/07/10/guam-news-30-vials-thc-vape-cartridges-seized-customs/1690652001/
     publisher: Standard-Times (Pacific Daily News)
     date: 2019-07-10
-open_questions:
-  - The filings describe the contents only as THC vape cartridges, with no laboratory confirmation of the substance reported.
-  - No weight was published for the 30 vials; the warrant gives only the mailed package's weight, six pounds, so no cannabis weight is recorded.
-  - The sender and the addressee are not named, and no arrest, charge or court appearance was reported.
-  - The whole account rests on a single Pacific Daily News story republished on the Standard-Times site; no independent reporting or court document could be opened.
-  - The application is dated only as filed on a Wednesday; 10 July 2019, the publication date, is used for the filing.
+  - title: 30 vials of THC vape cartridges seized
+    url: https://www.burlingtonfreepress.com/story/news/local/2019/07/10/guam-news-30-vials-thc-vape-cartridges-seized-customs/1690652001/
+    publisher: Burlington Free Press (Pacific Daily News)
+    date: 2019-07-10
+    language: en
 ---
 
 Federal authorities seized a package sent to Guam and confiscated 30 vials of
 THC vape cartridges, according to a search warrant application filed in the
-District Court of Guam. [@1] The package arrived at the U.S. Postal Service
-facility in Barrigada, a village in the centre of Guam, on 3 June 2019. [@1] A
+District Court of Guam. [@1,2] The package arrived at the U.S. Postal Service
+facility in Barrigada, a village in the centre of Guam, on 3 June 2019. [@1,2] A
 Guam Customs and Quarantine Agency drug detection dog named Cappy alerted other
-agents to narcotics in the package, the application states. [@1] The warrant was
-executed on 3 June, the day the package arrived. [@1]
+agents to narcotics in the package, the application states. [@1,2] The warrant was
+executed on 3 June, the day the package arrived. [@1,2]
 
 The package had been sent from Long Beach, California, to an address in Yigo, a
-village in the north of Guam, the search warrant states. [@1] The application
+village in the north of Guam, the search warrant states. [@1,2] The application
 was filed in the District Court of Guam on Wednesday 10 July 2019. [@1]
 
 Adults in Guam can grow and smoke marijuana legally, but the attorney general
-has said that mailing marijuana is prohibited. [@1]
-
+has said that mailing marijuana is prohibited. [@1,2]
