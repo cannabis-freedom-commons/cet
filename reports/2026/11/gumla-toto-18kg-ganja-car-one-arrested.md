@@ -89,6 +89,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-20
     language: hi
+  - title: 18 kg of marijuana worth Rs 5 lakh seized from car, UP smuggler arrested, partner absconds
+    url: https://www.bhaskar.com/local/jharkhand/gumla/news/18-kg-of-marijuana-worth-rs-5-lakh-seized-from-car-up-smuggler-arrested-partner-absconds-dbp-139740908.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-20
+    language: hi
 media:
   - kind: photo
     url: https://lagatar.in/gumla-news-18-kg-of-ganja-seized-from-a-car-in-gumla
@@ -103,17 +108,18 @@ media:
 open_questions:
   - The submitted account valued the 18 kg at about 5 lakh rupees, at 25,000 to 30,000 rupees a kilogram, while the report's earlier source put the consignment at about 9 lakh rupees.
   - One account said the car was being taken to Medininagar in Palamu, while the earlier report said the ganja was bound through Palamu for Uttar Pradesh.
+  - Accounts differ on the value of the seized ganja, given as Rs 5 lakh in one headline and about Rs 9 lakh in other reports.
 ---
 
 Police arrested Uttar Pradesh resident Prithvi Rana in Gumla. [@2,4,7,8,9] Police said
-one companion of Rana fled from the spot. [@2,4,6,7,9] Police registered case number
+one companion of Rana fled from the spot. [@2,4,6,7,9,10] Police registered case number
 444/26 at Gumla police station. [@2,4] Police booked the accused under the NDPS
 Act. [@2] Police identified Rana as a resident of Sapnavat village, Kapurpur,
 Hapur in Uttar Pradesh. [@2,7] Police said Rana was a professional smuggler who had earlier been jailed in Uttar Pradesh in a ganja smuggling case. [@9] Rana told interrogators that his companion had gone
 home. [@2] Police said raids were continuing to catch the companion. [@2] The arrested accused was sent to jail in judicial custody after completing the required legal process. [@6,8]
 
 Officers seized 18 kilograms of ganja from a car near the Kharka river in the
-Toto police station area. [@1,4,5,7,8,9] Police valued the seized ganja at about 9 lakh
+Toto police station area. [@1,4,5,7,8,9,10] Police valued the seized ganja at about 9 lakh
 rupees. [@1,4,7,8] The team searched a white car. [@2,4,5] Police also seized the white car used in the smuggling, registered UP 80 CC 1369. [@7] Officers found ganja with brown
 tape inside a white plastic sack in the car's dickey. [@2,7] The ganja was packed
 as eighteen one-kilogram packets. [@2,4,6,7,8,9] The vehicle check followed information
