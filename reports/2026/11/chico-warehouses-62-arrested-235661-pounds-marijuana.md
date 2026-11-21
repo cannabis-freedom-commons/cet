@@ -68,6 +68,11 @@ media:
     media_url: https://s.yimg.com/lo/mysterio/api/ffe54b83b176f197e1786d9e891e6930e885100ede0b303eb0bad1c6c503545e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsacramento_bee_mcclatchy_569%2F17e4170846c8dc2757f24c31667372d6.jpg_up.jpg
     publisher: Yahoo News (The Sacramento Bee)
     caption: 'Butte County sheriff''s vehicles and trailers loaded with large containers inside a warehouse searched during the Chico marijuana processing investigation. Photo: Butte County Sheriff''s Office'
+  - kind: photo
+    url: https://fox40.com/news/local-news/chico-california/chico-warehouse-bust-results-in-62-arrests-and-millions-in-seized-drugs/
+    media_url: https://fox40.com/wp-content/uploads/sites/13/2026/11/915241375_1681312510023377_2491258398101503429_n.jpg?w=900
+    publisher: FOX40
+    caption: 'A photo credited to the Butte County Sheriff''s Office, published with its account of the Chico warehouse marijuana raid. Photo: Butte County Sheriff''s Office.'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 4ec3f0c6094e3bc0450ae843b5ce8d8e
@@ -126,24 +131,26 @@ sources:
     url: https://www.msn.com/en-us/news/other/several-sacramento-area-residents-among-62-arrested-in-butte-county-marijuana-bust/ar-AA2hP1iY
     publisher: MSN
     date: 2026-11-20
-open_questions:
-    - No count was published of how many of the 62 people faced each of the listed charges, or whether any had been formally charged in court or released.
-    - The source does not say how many of the 62 arrested people were Sacramento-area residents.
+  - title: Chico warehouse operation processing illegal marijuana results in 62 arrests
+    url: https://fox40.com/news/local-news/chico-california/chico-warehouse-bust-results-in-62-arrests-and-millions-in-seized-drugs/
+    publisher: FOX40
+    date: 2026-11-20
+    language: en
 ---
 
 Sixty-two people were arrested and booked into the Butte County Jail on 17
-November 2026. [@1,4,9,10,11,12,13] Several of the arrested people were from the Sacramento area. [@13] Those arrested ranged in age from 19 to 83. [@10,11,12] Several of those arrested were from the Sacramento area. [@5] Of the 62 people, 34 were from Yuba City, 14 from Sacramento, six from Chico, three from Live Oak, and one each from Woodland, Hamilton City, Elk Grove, Colusa and Olivehurst. [@10] The raid targeted multiple industrial warehouses on
+November 2026. [@1,4,9,10,11,12,13,14] Several of the arrested people were from the Sacramento area. [@13] Those arrested ranged in age from 19 to 83. [@10,11,12] Several of those arrested were from the Sacramento area. [@5] Of the 62 people, 34 were from Yuba City, 14 from Sacramento, six from Chico, three from Live Oak, and one each from Woodland, Hamilton City, Elk Grove, Colusa and Olivehurst. [@10] The raid targeted multiple industrial warehouses on
 Contractors Lane in Chico, California, under a search warrant obtained by the
-Butte County Sheriff's Office. [@2,3,7,12,13] The warrant was served on Tuesday, 17
+Butte County Sheriff's Office. [@2,3,7,12,13,14] The warrant was served on Tuesday, 17
 November 2026, by BCSO detectives from the Butte Interagency Narcotics Task
 Force, two Bureau of Land Management agents and a detective from the California
 Department of Cannabis Control. [@1,6,7,9,12] The investigation began earlier in 2026, when the sheriff’s office’s Special Enforcement Unit started assisting the Bureau of Land Management. [@6,7]
 
 Detectives found 62 people at the warehouses and multiple warehouses containing
-marijuana in various stages of processing. [@1,4,5,6,7,10,13] Most were listed as facing charges of cultivating marijuana, several also faced charges of possessing marijuana for sale, and one was additionally charged with smuggling a controlled substance into a jail or prison and with possessing a controlled substance. [@10,11] Two of those arrested, both Chico residents, also faced allegations of possessing marijuana for sale. [@12] Investigators said large
+marijuana in various stages of processing. [@1,4,5,6,7,10,13,14] Most were listed as facing charges of cultivating marijuana, several also faced charges of possessing marijuana for sale, and one was additionally charged with smuggling a controlled substance into a jail or prison and with possessing a controlled substance. [@10,11] Two of those arrested, both Chico residents, also faced allegations of possessing marijuana for sale. [@12] Investigators said large
 quantities of marijuana were being processed at the warehouse using hemp
-processing as a cover. [@1,6,8,9,10,11,12,13] Testing found that the product was marijuana, not
-hemp. [@1,4,6,7,9,11,12] Detectives said about 235,661 pounds (roughly 106,894 kg) of
-marijuana were at the warehouses. [@1,4,6,7,9,10,11,12,13] They spent three days processing evidence
+processing as a cover. [@1,6,8,9,10,11,12,13,14] Testing found that the product was marijuana, not
+hemp. [@1,4,6,7,9,11,12,14] Detectives said about 235,661 pounds (roughly 106,894 kg) of
+marijuana were at the warehouses. [@1,4,6,7,9,10,11,12,13,14] They spent three days processing evidence
 and removing the marijuana, which detectives estimated had a street value of
-approximately $282,793,200. [@1,4,6,7,9,10,11,12,13] The sheriff's office said the investigation remained ongoing. [@9]
+approximately $282,793,200. [@1,4,6,7,9,10,11,12,13,14] The sheriff's office said the investigation remained ongoing. [@9]
