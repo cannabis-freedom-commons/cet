@@ -91,24 +91,33 @@ sources:
     publisher: Corriere di Bologna
     date: 2026-11-19
     language: it
+  - title: Fa una serra con 220 piante di marijuana e causa un black-out nel ferrarese. Arrestato 23enne
+    url: https://www.open.online/2026/11/20/serra-piante-marijuana-black-out-ferrarese-arrestato-23enne/
+    publisher: Open
+    date: 2026-11-20
+    language: it
+open_questions:
+    - No weight or street value for the 220 seized plants was published.
+    - The suspect is identified only by his age, with no name or nationality given, and no trial date has been reported.
+    - The plants were described as marijuana; no laboratory confirmation was reported.
 ---
 
 A power blackout caused by abnormal energy absorption led to the discovery of an
 illegal marijuana greenhouse at Migliaro, in the Ferrara area. [@1,3,4,6] Carabinieri
 arrested a 23-year-old homeless man at a warehouse in Migliaro on the evening of
-Monday 16 November 2026. [@2,5] Officers went to the warehouse in Migliaro after a
+Monday 16 November 2026. [@2,5,7] Officers went to the warehouse in Migliaro after a
 reported blackout linked to abnormal and excessive electricity consumption
 there. [@2,5,6] The Migliarino station intervened with colleagues from Ostellato and was later supported by Massa Fiscaglia personnel. [@4] Suspicious of a strong smell from the building, officers entered the
 shed and found a hand-built indoor greenhouse with lighting, irrigation and
-forced ventilation. [@1,3,5,6]
+forced ventilation. [@1,3,5,6,7]
 
 The grow consisted of 220 marijuana plants about 40 centimetres tall, served by
-lighting, irrigation and forced-ventilation equipment. [@2,3,4,5,6] Officers found the
-23-year-old, who has no fixed address, sleeping inside the building. [@1,3,4,5,6] The
-young man immediately admitted that the material found was his. [@2,4,5,6]
+lighting, irrigation and forced-ventilation equipment. [@2,3,4,5,6,7] Officers found the
+23-year-old, who has no fixed address, sleeping inside the building. [@1,3,4,5,6,7] The
+young man immediately admitted that the material found was his. [@2,4,5,6,7]
 
-Officers catalogued and seized all the plants and the growing equipment. [@1,3] By
+Officers catalogued and seized all the plants and the growing equipment. [@1,3,7] By
 order of the Ferrara judicial authority, he was held in the cells of the
 Portomaggiore Carabinieri company pending a validation hearing. [@2,5] On the
 morning of Wednesday 18 November, the Ferrara court validated the arrest and
-banned him from living in the Ferrara province. [@2,3,4,5,6]
+banned him from living in the Ferrara province. [@2,3,4,5,6,7]
