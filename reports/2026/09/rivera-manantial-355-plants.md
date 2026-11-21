@@ -37,22 +37,18 @@ status: reported
 created_by_model: spacexai/grok-4.7#medium
 tags: [rivera, operacion-manantial]
 open_questions:
-  - The rural plot is not named. The pin is the city of Rivera.
-  - The three people are identified only by age. No names were published.
-  - The reports say a judge ordered them held and taken to the prosecutor that afternoon. No charge or later outcome is given.
-  - The plants are described as seized. The reports do not say they were destroyed.
-  - A cocaine and coca-paste seizure in Artigas and Salto the previous week is a different investigation, left out here.
-  - Further aerial ministry photos of the same clearing remain without separate media_url entries after consolidation.
-  - Teledoce reports only short and long firearms, without the shotgun and pistol details of the ministry statement.
-  - Teledoce does not repeat the six-search count, the 4.732 kg of plant material or the vehicles seized.
-  - Subrayado's headline and lead give 369 cannabis plants, while the Interior Ministry's statements on both the raid and the convictions give 355; the reports do not explain the difference.
-  - Subrayado reports five bags holding almost five kilograms of marijuana, while the Interior Ministry gives 4.732 kg of plant material in five nylon bags; the ministry's measured figure is used.
-  - No date is given for the sentencing hearing itself; 11 September 2026, when the Interior Ministry announced the convictions, stands in for it.
-  - The sources do not say whether there is an appeal or how the prison terms are to be served, or whether the sentences are final.
-  - Telenoche gives the plant material as 4,732 gramos, which appears to be a unit error for the 4.732 kilograms it states in its summary; the kilogram figure is used.
-  - The earlier 2019 and 2020 plantations on the same estate involving the same suspect are not recorded as separate events and could not be checked against other sources here.
-  - The property is described only as a Cofusa forestry estate on Ruta 5 in Rivera department; no closer location is published, so the pin remains the city of Rivera.
-  - 'Operación Manantial: dos hombres fueron condenados por producción de marihuana en Rivera (Telenoche) could not be opened again to check its quotations (access challenge: Cloudflare blocked access to the article; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.'
+    - The rural plot is not named beyond a Cofusa forestry estate on Ruta 5 in Rivera department, so the pin remains the city of Rivera.
+    - The three people are identified only by age. No names were published.
+    - The plants are described as seized. The reports do not say they were destroyed.
+    - A cocaine and coca-paste seizure in Artigas and Salto the previous week is a different investigation, left out here.
+    - Teledoce reports only short and long firearms, without the shotgun and pistol details of the ministry statement.
+    - Teledoce does not repeat the six-search count, the 4.732 kg of plant material or the vehicles seized.
+    - Subrayado's 11 September headline and lead give 369 cannabis plants, while the Interior Ministry's statements on both the raid and the convictions give 355; the difference is not explained.
+    - Subrayado's 11 September account reports five bags holding almost five kilograms of marijuana, while the Interior Ministry gives 4.732 kg in five nylon bags; the ministry's measured figure is used.
+    - No date is given for the sentencing hearing itself; 11 September 2026, when the Interior Ministry announced the convictions, stands in for it.
+    - The sources do not say whether there is an appeal, how the prison terms are to be served, or whether the sentences are final.
+    - Telenoche gives the plant material as 4,732 gramos, apparently a unit error for the 4.732 kilograms it states in its summary; the kilogram figure is used.
+    - The earlier 2019 and 2020 plantations on the same estate involving the same suspect are not recorded as separate events and could not be checked against other sources here.
 sources:
   - title: Operación Manantial logra la desarticulación de grupo delictivo dedicado a la plantación de marihuana en Rivera
     url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/operacion-manantial-logra-desarticulacion-grupo-delictivo-dedicado-plantacion
@@ -91,6 +87,12 @@ sources:
     publisher: Telenoche
     date: 2026-09-10
     language: es
+  - title: Desarticulan organización que plantaba marihuana en campo de Rivera; incautan 355 plantas y hay tres detenidos
+    url: https://www.subrayado.com.uy/desarticulan-organizacion-que-plantaba-marihuana-campo-rivera-incautan-355-plantas-y-hay-tres-detenidos-n1017702
+    publisher: Subrayado
+    date: 2026-09-09
+    language: es
+    archived: https://web.archive.org/web/20261111225514id_/https://www.subrayado.com.uy/desarticulan-organizacion-que-plantaba-marihuana-campo-rivera-incautan-355-plantas-y-hay-tres-detenidos-n1017702
 media:
   - kind: photo
     url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/operacion-manantial-logra-desarticulacion-grupo-delictivo-dedicado-plantacion
@@ -107,13 +109,18 @@ media:
     media_url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/styles/documento/public/imagenes/noticias/WhatsApp%20Image%202026-09-09%20at%2014.42.57.jpeg
     publisher: Ministerio del Interior
     caption: "Rows of young plants under white mesh, with the sheeting pulled aside (Ministerio del Interior)."
+  - kind: photo
+    url: https://www.subrayado.com.uy/desarticulan-organizacion-que-plantaba-marihuana-campo-rivera-incautan-355-plantas-y-hay-tres-detenidos-n1017702
+    media_url: https://media.subrayado.com.uy/p/0a75a8f36e584d1a528b07e044adc1d4/adjuntos/230/imagenes/004/088/0004088872/658x425/smart/plantas-cannabis-campo-rivera.jpg
+    publisher: Subrayado
+    caption: 'Cannabis plants in the field in Rivera department where the Operation Manantial plantation was found. Photo: Subrayado'
 ---
 
-On the morning of Wednesday 9 September 2026, police arrested three people in Rivera and seized 355 cannabis plants. [@1,3,4,6] A 24-year-old man had no criminal record. [@1,3,6] A 32-year-old man and a 61-year-old woman did. [@1,3,5]
+On the morning of Wednesday 9 September 2026, police arrested three people in Rivera and seized 355 cannabis plants. [@1,3,4,6] A 24-year-old man had no criminal record. [@1,3,6,8] A 32-year-old man and a 61-year-old woman did. [@1,3,5,8]
 
-The raids were Operation Manantial, run by the national police investigations directorate through its northern region in Rivera. [@1] The special operations directorate, the police aviation directorate and the rural security brigade of the Rivera police took part, under a semi-specialised prosecutor in Rivera. [@1] Investigators had concluded that the people they were following had a large cannabis planting in a rural part of the department. [@1] They carried out six searches in the city of Rivera and in the countryside. [@1,3]
+The raids were Operation Manantial, run by the national police investigations directorate through its northern region in Rivera. [@1,8] The special operations directorate, the police aviation directorate and the rural security brigade of the Rivera police took part, under a semi-specialised prosecutor in Rivera. [@1,8] Investigators had concluded that the people they were following had a large cannabis planting in a rural part of the department. [@1] They carried out six searches in the city of Rivera and in the countryside. [@1,3,8]
 
-Officers seized 355 cannabis plants and five nylon bags of plant material weighing 4.732 kg in all. [@1,3,4] They also took a shotgun, a pistol with its numbers filed off, a chumbera, two pickup trucks and a motorcycle. [@1,3] From the growing site they took a gas cylinder, a thermometer, a machete, three mobile phones, soil fertiliser, 110 black pots and three bags of soil. [@1,3] A judge ordered the three held and brought to the prosecutor that afternoon. [@1]
+Officers seized 355 cannabis plants and five nylon bags of plant material weighing 4.732 kg in all. [@1,3,4,8] They also took a shotgun, a pistol with its numbers filed off, a chumbera, two pickup trucks and a motorcycle. [@1,3,8] From the growing site they took a gas cylinder, a thermometer, a machete, three mobile phones, soil fertiliser, 110 black pots and three bags of soil. [@1,3] A judge ordered the three held and brought to the prosecutor that afternoon. [@1]
 
 El Observador reported the same seizures and the same three people the next day, from the Interior Ministry. [@2,4] National police chief José Manuel Azambuya said the operation was in the same strategic line as a cocaine and coca-paste seizure in Artigas and Salto the week before, and that the two inquiries were separate. [@2]
 
