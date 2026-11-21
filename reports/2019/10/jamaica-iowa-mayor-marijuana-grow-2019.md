@@ -61,15 +61,18 @@ sources:
     url: https://www.kcrg.com/content/news/Former-Iowa-mayor-gets-probation-in-marijuana-case-563614491.html
     publisher: KCRG
     date: 2019-10-22
+  - title: Mayor of Jamaica, Iowa, gets probation after growing marijuana in her home; attorney hopes case furthers conversation on drug law reform
+    url: https://www.desmoinesregister.com/story/news/crime-and-courts/2019/10/21/iowa-crime-mayor-of-jamaica-iowa-gets-probation-after-growing-marijuana-in-her-home/4056919002/
+    publisher: The Des Moines Register
+    date: 2019-10-21
 open_questions:
-  - The opened sentencing reports say the sentence was delivered on a Friday and published on 22 October 2019, but do not state the exact day; the incident date is therefore approximate.
-  - The weight of the bagged marijuana is given only as a rough estimate of 4 to 5 ounces per bag across nine baggies, so 0.26 kg is used as a mid-range approximation.
-  - Whether the 18 seized plants were destroyed or retained as evidence is not reported; the tracker records seized plants under plants_destroyed.
-  - The Des Moines Register puts the visit at about 4:20 p.m. Wednesday, while Newsweek calls the day Thursday; other accounts give the arrest date as 16 January 2019, so the date is used with that discrepancy in mind.
-  - No street value estimate for the plants or the marijuana was published.
-  - The mayor's age of 50 and her husband's 58 differ from later accounts listing Randy Kennedy at 59; the contemporary report is used.
-  - 'Left out, as its quotation was not found in KCRG: Randy Kennedy also pleaded guilty and received 10 years in prison, suspended, plus two years'' probation.'
-  - Left out sentence types, as its quotation was not found in KCRG.
+    - The bagged marijuana was estimated only as roughly 4 to 5 ounces per bag across nine baggies, so 0.26 kg is a mid-range approximation.
+    - Whether the 18 seized plants were destroyed or kept as evidence is not reported; seized plants are recorded under plants_destroyed.
+    - The January accounts differ on the day of the search, which the Register put on a Wednesday and Newsweek on a Thursday; 16 January 2019 is used.
+    - No street value estimate for the plants or the marijuana was published.
+    - 'The Kennedys'' ages differ between accounts: 50 and 58 in the January coverage, 51 and 59 in the October sentencing report.'
+    - Sean Spellman said the couple grew the marijuana for personal use and were not distributors; whether prosecutors accepted that account is not reported.
+    - Whether the deferred judgment was completed and Kennedy's record cleared is not reported.
 ---
 
 Guthrie County sheriff's deputies went to the home of LaDonna Kennedy, 50, the
@@ -85,18 +88,19 @@ stamp. [@1] Both were also charged with knowingly keeping a dwelling for
 possessing or selling a controlled substance, an aggravated misdemeanor. [@1]
 Inside the house, deputies found 18 marijuana plants in various stages of growth
 spread over three growing areas, which the sheriff's office described as a
-marijuana-grow operation. [@1] Officers also took nine baggies estimated to hold
+marijuana-grow operation. [@1,4] Officers also took nine baggies estimated to hold
 roughly 4 to 5 ounces of marijuana, drug paraphernalia and an unlabelled bottle
 of 24 Lorazepam pills. [@1] An affidavit reviewed by Newsweek said the
 paraphernalia was used for marijuana growing, sorting and packaging. [@2]
 
 The Kennedys were held in the Guthrie County jail and released on their own
 recognizance after a magistrate appearance the next day, having first been held
-on more than $18,000 bond. [@1] Kennedy resigned as mayor after her arrest. [@3]
+on more than $18,000 bond. [@1] Kennedy resigned as mayor after her arrest. [@3,4]
 
 Guthrie County court records show Kennedy pleaded guilty and was sentenced in
 October 2019 to two years' probation under a deferred judgment, which can clear
-her record if she completes the probation. [@3] Jamaica is a Guthrie County town
+her record if she completes the probation. [@3,4] Their attorney, Sean Spellman, said the couple were not distributors and grew the marijuana for personal use rather than for money. [@4] The Register reported that Randy Kennedy, 59, received the same sentence as his wife earlier that month. [@4] Kennedy was sentenced on Friday 18 October 2019. [@4] Jamaica is a Guthrie County town
 of about 220 residents, and under Iowa law an elected city official convicted of
 a felony can be removed by a judge or a city council vote. [@1]
 
+Spellman said he hoped the case would highlight the need to reform Iowa's cannabis laws as surrounding states relaxed their rules. [@4]
