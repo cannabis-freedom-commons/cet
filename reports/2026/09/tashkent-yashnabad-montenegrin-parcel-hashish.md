@@ -59,15 +59,11 @@ sources:
     publisher: nuz.uz
     date: 2026-09-09
     language: ru
-open_questions:
-  - The accounts give no separate date for the detention or the searches; 9 September 2026 is the publication date and is used as the incident date.
-  - UzDaily.uz and yuz.uz place the post office in Yashnabad district, while Zamin.uz and nuz.uz place it in Yakkasaray district; the report uses Yashnabad.
-  - The parcel also held 3 kg of clephedrone and the flat 30 grams of Alfa-PVP, both synthetic drugs whose quantities are not counted as cannabis.
-  - The charge was not specified beyond the opening of a criminal case, and no court date or outcome has been reported.
-  - No value estimate for the seized drugs was published.
-  - The accounts rest on the same State Security Service statement republished by several outlets, so they are not independent reporting.
-  - No names were published; the man is identified only as a citizen of Montenegro born in 2001.
-  - The reports do not say whether anyone else, including the sender in Germany, was detained.
+  - title: В Узбекистане перехвачена отправленная из Германии по почте партия наркотиков
+    url: https://kun.uz/ru/news/2026/09/09/v-uzbekistane-perexvachena-otpravlennaya-iz-germanii-po-pochte-partiya-narkotikov
+    publisher: Kun.uz
+    date: 2026-09-09
+    language: ru
 ---
 
 Officers of the State Security Service and the Customs Committee detained a
@@ -79,11 +75,11 @@ yuz.uz reported the same district and the same 3 kg of clephedrone and 1 kg of
 hashish seized from the parcel. [@2]
 
 The stop and the inspection were carried out in the presence of attesting
-witnesses, under the Safe and Healthy Country preventive programme. [@1] The
+witnesses, under the Safe and Healthy Country preventive programme. [@1,5] The
 operation was run under the Safe and Healthy Country preventive programme. [@1]
 
 Inside the parcel, hidden among sports equipment, officers found 3 kg of
-clephedrone and 1 kg of hashish and seized both as material evidence. [@1]
+clephedrone and 1 kg of hashish and seized both as material evidence. [@1,5]
 Zamin.uz's English account says official data lists the material evidence seized
 from the parcel as clephedrone and hashish. [@3] Zamin.uz confirms the drugs
 were hidden among sports equipment in the parcel. [@3]
@@ -91,11 +87,10 @@ were hidden among sports equipment in the parcel. [@3]
 Officers then searched the man's temporary residence, where they found 11
 ready-made zakladki, the pre-packed hidden drops used to hand over drugs,
 holding 30 grams of the synthetic Alfa-PVP, together with zip-lock bags,
-electronic scales and other items. [@1] nuz.uz also reported 11 ready-made packs
+electronic scales and other items. [@1,5] nuz.uz also reported 11 ready-made packs
 of Alfa-PVP weighing 30 grams found at the man's home. [@4]
 
 A criminal case was opened against the man and investigative actions were still
-under way when the accounts were published. [@1] Two of the accounts, from
+under way when the accounts were published. [@1,5] Two of the accounts, from
 Zamin.uz and nuz.uz, place the post office in Yakkasaray district rather than
 Yashnabad. [@3] nuz.uz also places the post office in Yakkasaray district. [@4]
-
