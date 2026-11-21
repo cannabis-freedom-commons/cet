@@ -56,6 +56,11 @@ media:
     media_url: https://tp.com.pl/static/files/gallery/157/1880922_1795032277.webp
     publisher: Tygodnik Płocki
     caption: Marijuana and hashish being weighed, in the photo captioned 'Marihuana i haszysz w trakcie ważenia' published with the Tygodnik Płocki report on the 16 November 2026 seizure in Płock.
+  - kind: photo
+    url: https://informacje.wp.pl/wiadomosci/byl-poszukiwany-za-niezaplacona-grzywne-teraz-grozi-mu-10-lat-wiezienia-7352709396330528a
+    media_url: https://v.wpimg.pl/ZDdmNmE3dSUFDzheakh4MEZXbAQsEXZmEU90T2oKaXwcWHxValUzKAEfKx0qHT02ER0vGjUdKihLDD4EakVrawAEPR0pUiNrAQAsCCEcYnBVWysLIQp3clNffEBxAGJwSVUvDCYeOXMAXipaIwU7cwJUbBA
+    publisher: WP Info
+    caption: 'Bags of dried plant material and brown substances beside a bag and on electronic scales, published with the account of the drugs seized from the wanted 22-year-old in Płock. Photo: Fot. Licencjodawca (licensor).'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: aa85834bdef3180b8246332cca186d7a
@@ -86,27 +91,25 @@ sources:
     publisher: Tygodnik Płocki
     date: 2026-11-18
     language: pl
-open_questions:
-    - The drugs are described only as over half a kilogram of marijuana and hashish in total, with no separate weights, so 0.5 kg is a lower bound.
-    - Police gave the value as nearly 27,000 złoty on the black market; no exact measured weight or independent valuation was published.
-    - The substances were identified as marijuana and hashish by police; no laboratory confirmation was reported.
-    - It is not reported whether the 22-year-old admitted the charge or what happened to the penalty he was originally wanted to serve.
-    - The court that ordered the detention and the prosecutor's office that requested it were not named.
-    - The Płock police statement is the only source of the account, and the media reports, including PetroNews, reproduce it without independent detail.
+  - title: 'Płock: Był poszukiwany za niezapłaconą grzywnę. Teraz grozi mu 10 lat więzienia'
+    url: https://informacje.wp.pl/wiadomosci/byl-poszukiwany-za-niezaplacona-grzywne-teraz-grozi-mu-10-lat-wiezienia-7352709396330528a
+    publisher: WP Info
+    date: 2026-11-19
+    language: pl
 ---
 
 Płock city police arrested a 22-year-old man linked to the football hooligan
-scene, known in Poland as pseudokibice. [@3,4,5] He was wanted to serve a sentence
-imposed for not paying a fine for damage to property. [@3,4,5] Officers of the Płock
+scene, known in Poland as pseudokibice. [@3,4,5,6] He was wanted to serve a sentence
+imposed for not paying a fine for damage to property. [@3,4,5,6] Officers of the Płock
 command's football-hooligan unit and its department for crimes against life and
 health carried out the arrest. [@2,4,5] Officers went to his flat on 16 November
-2026 and searched it. [@3,4,5]
+2026 and searched it. [@3,4,5,6]
 
-The search turned up more than half a kilogram of marijuana and hashish. [@3,4,5]
+The search turned up more than half a kilogram of marijuana and hashish. [@3,4,5,6]
 Police estimated the black-market value of the drugs at nearly 27,000 złoty.
-[@3,4,5] The discovery widened the case to a suspected drug offence. [@1]
+[@3,4,5,6] The discovery widened the case to a suspected drug offence. [@1]
 
 He was charged with possession of a significant amount of intoxicating
-substances. [@1,4,5] Płock police spokeswoman Monika Jakubowska gave the account of the charge and the detention order. [@4,5] At the prosecutor's request a court ordered him held in
-pre-trial detention for three months. [@3,4,5] Possession of a significant amount of
-drugs carries up to 10 years in prison. [@1,4,5]
+substances. [@1,4,5,6] Płock police spokeswoman Monika Jakubowska gave the account of the charge and the detention order. [@4,5] At the prosecutor's request a court ordered him held in
+pre-trial detention for three months. [@3,4,5,6] Possession of a significant amount of
+drugs carries up to 10 years in prison. [@1,4,5,6]
