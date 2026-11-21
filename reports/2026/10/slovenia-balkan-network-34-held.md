@@ -66,6 +66,10 @@ sources:
     url: https://www.brusselstimes.com/2352529/europe-wide-drug-network-exposed-as-killings-linked-to-cross-border-arrests
     publisher: The Brussels Times
     date: 2026-10-08
+  - title: Europe-wide drug network exposed as killings linked to cross-border arrests
+    url: https://www.brusselstimes.com/eu-affairs/2352529/europe-wide-drug-network-exposed-as-killings-linked-to-cross-border-arrests
+    publisher: The Brussels Times
+    date: 2026-10-08
 media:
   - kind: photo
     url: https://www.occrp.org/en/news/nearly-50-arrested-as-police-target-western-balkan-drug-network
@@ -89,8 +93,8 @@ encrypted chats; over three tonnes of cannabis, 700 kg of cocaine and
 action day and 404 kg intercepted during the probe. [@1] [@2] A Ljubljana
 court remanded 13 suspects and put two under house arrest. [@1]
 
-Prosecutors expect to charge the suspects in connection with an unseized additional 2.5 metric tons of cannabis uncovered by decrypting intercepted SKY ECC communications. [@3,4] On the October 6 action day officers seized 51 kilograms of cannabis within 66 kilograms of narcotics that also included 15 kilograms of amphetamine, along with cash, jewelry and firearms. [@3,4,5]
+Prosecutors expect to charge the suspects in connection with an unseized additional 2.5 metric tons of cannabis uncovered by decrypting intercepted SKY ECC communications. [@3,4] On the October 6 action day officers seized 51 kilograms of cannabis within 66 kilograms of narcotics that also included 15 kilograms of amphetamine, along with cash, jewelry and firearms. [@3,4,5,6]
 
-The network used CryptCom in addition to SKY ECC to coordinate drug transports. [@4,5] The network recruited drivers mainly from Slovenia, Bosnia and Herzegovina and Bulgaria to move drugs alongside legitimate goods in trucks, vans and cars. [@4,5]
+The network used CryptCom in addition to SKY ECC to coordinate drug transports. [@4,5] The group included nationals of Bosnia and Herzegovina and Serbia, alongside suspects from Slovenia, Bulgaria, Turkey and the Netherlands. [@6] The network recruited drivers mainly from Slovenia, Bosnia and Herzegovina and Bulgaria to move drugs alongside legitimate goods in trucks, vans and cars. [@4,5,6]
 
-An attempted murder in Spain was uncovered during the investigation. [@5] Between February 2022 and September 2026, authorities seized 404 kg of cannabis in the investigation, alongside 253 kg of cocaine and other drugs. [@5]
+An attempted murder in Spain was uncovered during the investigation. [@5] Explosive devices, including hand grenades, were used in attacks that primarily targeted members of the group or their families, Europol said. [@6] Between February 2022 and September 2026, authorities seized 404 kg of cannabis in the investigation, alongside 253 kg of cocaine and other drugs. [@5,6]
