@@ -65,6 +65,11 @@ sources:
     publisher: g1
     date: 2026-11-19
     language: pt
+  - title: PF encontra mais de 3,7 toneladas de maconha escondidas em carga de paletes em MS | Folha MS
+    url: https://folhams.com.br/2026/11/20/pf-apreende-37-toneladas-maconha-caminhao-tres-lagoas/
+    publisher: Folha MS
+    date: 2026-11-20
+    language: pt
 open_questions:
   - The Diário de Olímpia reports the arrest of one man from Olímpia while G1 reports two people detained in the same inspection; the two-arrest figure is used here.
   - Neither report says where the truck had come from or where the load was going, and the Federal Police gave no account of the operation itself.
@@ -76,16 +81,16 @@ open_questions:
 ---
 
 Federal Police officers arrested two people in the act in Três Lagoas, Mato
-Grosso do Sul, during an inspection on 19 November 2026. [@2] One of the two is
+Grosso do Sul, during an inspection on 19 November 2026. [@2,3] One of the two is
 a resident of Olímpia, in São Paulo state; Três Lagoas lies on the border with
 São Paulo. [@1] The two suspects were taken to the Federal Police station with
-the truck and the drug. [@2] They may face drug-trafficking charges. [@2] The
+the truck and the drug. [@2,3] They may face drug-trafficking charges. [@2,3] The
 detainee from Olímpia was not named. [@1]
 
 The load weighed 3,707 kilograms of marijuana. [@1] The drug was packed in
 tablets. [@1] Officers found the drug hidden among a load of pallets, wooden
 structures used to carry and store goods, in the cargo compartment of a truck
-that was arriving in the municipality. [@2] Using the values Mato Grosso do Sul
+that was arriving in the municipality. [@2,3] Using the values Mato Grosso do Sul
 security forces usually apply to calculate damage to organised crime, the Diário
 estimated the load could be worth about 7.4 million reais. [@1] The Federal
 Police did not disclose where the load came from or where it was going. [@2]
@@ -102,4 +107,3 @@ investigation file and would not comment on the case. [@1] The lawyers said they
 would first seek the detainee's release from the Mato Grosso do Sul Court of
 Justice and, if refused, file habeas corpus at the Superior Court of Justice and
 if necessary at the Supreme Court. [@1]
-
