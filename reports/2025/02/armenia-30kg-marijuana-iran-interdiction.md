@@ -49,12 +49,17 @@ sources:
     publisher: Verelq News
     date: 2025-03-07
     language: ru
+  - title: Сотрудникам полиции удалось выявить и изъять 30 кг марихуаны, доставленной в Армению из Ирана
+    url: https://arminfo.info/full_news.php?id=89606
+    publisher: АрмИнфо (Arminfo)
+    date: 2025-03-07
+    language: ru
 open_questions:
-  - No place in Armenia is named, only the intended route from Iran, so the country centre is given with country precision.
-  - No arrests or charges were reported; police said they were still identifying those involved, so no arrested or charged figure is recorded.
-  - Both accounts relay the Interior Ministry statement; no separate official statement or independent investigation of the seizure was opened.
-  - Only two Russian-language accounts were opened; no Armenian-language report of this seizure was checked.
-  - 'Left out, as its quotation was not found in Verelq News: The tip reached the criminal-police anti-drug-trafficking department and an Investigative Committee department that handles drug-trafficking cases.'
+    - No place in Armenia is named, only the intended route from Iran, so the country centre is given with country precision.
+    - No arrests or charges were reported; police said they were still identifying those involved, so no arrested or charged figure is recorded.
+    - The accounts relay the same Interior Ministry statement; no separate official statement or independent investigation of the seizure was opened.
+    - Arminfo describes the load as already transported from Iran to Armenia, while the earlier accounts say it was being brought in or prepared for transport.
+    - The weight is given only as about 30 kilograms; no more precise measurement was published.
 ---
 
 Criminal police in Armenia seized about 30 kg of marijuana that was to be
@@ -63,16 +68,15 @@ received information that a large drug shipment was being prepared for transport
 from Iran to Armenia. [@1]
 
 After large-scale operational and investigative measures, officers found the 30
-kg of marijuana on 24 February 2025 and seized it. [@1] The seized marijuana was
-handed to the preliminary-investigation body on 24 February. [@2]
+kg of marijuana on 24 February 2025 and seized it. [@1,3] The seized marijuana was
+handed to the preliminary-investigation body on 24 February. [@2,3]
 
 The Interior Ministry said the seizure prevented an attempt to sell the drug in
-small portions in Armenia for about 450 million drams. [@1] The same value was
+small portions in Armenia for about 450 million drams. [@1,3] The same value was
 reported as about 450 million drams for sale in small quantities on Armenian
 territory. [@2]
 
 No arrests were named, with police saying only that measures were being taken to
 identify the people involved in the drug trade. [@1] Operational-search measures
 and investigative actions were under way to identify and trace those involved.
-[@2] A criminal case was opened and was continuing. [@1]
-
+[@2,3] A criminal case was opened and was continuing. [@1,3]
