@@ -190,6 +190,11 @@ sources:
     publisher: KubanPress
     date: 2026-10-14
     language: ru
+  - title: Рэпера Navai арестовали в Казахстане по делу о наркотиках
+    url: https://kazanfirst.ru/news/repera-navai-arestovali-v-kazahstane-po-delu-o-narkotikah
+    publisher: KazanFirst
+    date: 2026-10-15
+    language: ru
 media:
   - kind: photo
     url: https://news.ru/culture/navai-arestovali-po-delu-o-kontrabande-narkotikov-v-kazahstane
@@ -201,18 +206,11 @@ media:
     media_url: https://cdn-img.ura.news/553/313/e36dc18e-69c2-4156-b41e-c19832b6da62/h4y3tm/M-760.1.5.webp
     publisher: URA.RU
     caption: 'Photo of Russian rapper Navai Bakirov published with the report of his arrest in Kazakhstan. Photo: Razmik Zakaryan / URA.RU'
-open_questions:
-    - The reported amount of marijuana differs between accounts, with both 2.5 g and 10 g reported.
-    - 'Accounts differ on how many people were detained: this source reports the rapper and three companions in the car, while the other accounts report two companions and three detained in total.'
-    - 'The possible sentence differs between accounts: this source reports up to eight years in prison, while the report cites Article 286 allowing up to five years.'
-    - It is unclear whether three or four people were detained in the car at the checkpoint.
-    - The maximum penalty for the smuggling allegation is given as both five and eight years of imprisonment.
-    - It is unclear whether about 10 grams reported alongside 2.5 grams was a separate seizure or an alternative total for the same substance.
 ---
 
 Police and border guards detained the Russian rapper Navai, real name Navai Bakirov, at the Korday
 checkpoint as he entered Kazakhstan by car from Kyrgyzstan on 13 October 2026.
-[@1,3,4,5,7,9,10,11,12,15,17,21,22,23,27,28,29,30] Navai was 30 years old. [@26] Mash reported that shortly before the border check he moved into the driver's seat, replacing another person. [@25] The car searched at the checkpoint was a Mercedes-Benz with Kazakh plates. [@25] His manager and driver were with him. [@2,3,4,8,16,20,27,31] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20,22] A service dog named
+[@1,3,4,5,7,9,10,11,12,15,17,21,22,23,27,28,29,30,32] Navai was 30 years old. [@26] Mash reported that shortly before the border check he moved into the driver's seat, replacing another person. [@25] The car searched at the checkpoint was a Mercedes-Benz with Kazakh plates. [@25] His manager and driver were with him. [@2,3,4,8,16,20,27,31] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20,22] A service dog named
 Atlas reacted to the car, and officers found a narcotic substance in the pocket of the driver's seat
 [@1,3,4,6,7,9,11,13,18,21], along with a bag with rolling papers and a grinder. [@2,4,18] Journalist Mikhail
 Kozachkov wrote that it was 2.5 g of marijuana [@7,10,11,15,18,19]; Baza, citing checkpoint staff, claimed 10
@@ -224,7 +222,7 @@ later released [@11,20], while investigators established who owned the substance
 Police opened a criminal case for attempted smuggling of narcotics [@1,7,10,11,17,21,28] under Article 286 of
 the Criminal Code, which allows up to five years in prison [@4]; the charges were reported as smuggling
 and unlawful transportation of narcotics without intent to sell. [@5,11,20] The Korday district court ordered
-him held in custody for two months. [@5,6,8,15,16,17,18,19,20,23,24,27] The Korday district court made that order on the morning of 15 October. [@24] Questioned, he admitted buying the drugs in Bishkek
+him held in custody for two months. [@5,6,8,15,16,17,18,19,20,23,24,27,32] The Korday district court made that order on the morning of 15 October. [@24] Questioned, he admitted buying the drugs in Bishkek
 [@8,9,15,16,17,20,25,29] Navai said he knew that storing drugs was banned but had not expected the car to be searched. [@20,25], and Kyrgyzstan's border service opened an internal inquiry into how he crossed with
 them. [@8,17] On 20 October police said the case had been closed on non-rehabilitating grounds, citing a
 first offence and active remorse, and that he had been expelled from Kazakhstan. [@14,16]
