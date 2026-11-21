@@ -67,6 +67,11 @@ sources:
     url: https://www.info.gov.hk/gia/general/202611/20/P2026112000689.htm
     publisher: Hong Kong Government Information Services
     date: 2026-11-20
+  - title: 海關搗荃灣酒店房懷疑製毒工場　檢獲約24公斤懷疑大麻糖果　3人被捕
+    url: https://www.weekendhk.com/%e7%9f%9a%e7%9b%ae%e8%a9%b1%e9%a1%8c/%e6%b5%b7%e9%97%9c%e6%90%97%e8%8d%83%e7%81%a3%e9%85%92%e5%ba%97%e6%88%bf%e6%87%b7%e7%96%91%e8%a3%bd%e6%af%92%e5%b7%a5%e5%a0%b4-%e6%aa%a2%e7%8d%b2%e7%b4%8424%e5%85%ac%e6%96%a4%e6%87%b7%e7%96%91-3547073/
+    publisher: 新假期 WeekendHK
+    date: 2026-11-20
+    language: zh
 open_questions:
   - The 1,148 cannabis oil vape capsules have no published weight, so they are not included in the 7.3-kilogram cannabis figure.
   - The cannabis is described as suspected cannabis, with no laboratory confirmation reported.
@@ -74,6 +79,7 @@ open_questions:
   - The value is published as about $1.6 million, understood as Hong Kong dollars, with no breakdown by product.
   - No outcome of the 21 November 2026 Shatin Magistrates' Courts appearance was reported.
   - The account rests on the Customs statement, which the news article reproduces; no independent reporting was opened.
+  - Customs gave about 24 kilograms of candies for the hotel room and about 180 grams for the flat, and published no combined total for the candies.
 ---
 
 Hong Kong Customs shut down a suspected drug repacking distribution centre in
@@ -88,12 +94,11 @@ In a residential flat in Tuen Mun, officers found the 3.7 kilograms of buds, 332
 of the vape capsules, about 180 grams of cannabis-infused candies and drug
 packaging paraphernalia. [@1] In a hotel room in Tsuen Wan they found the 3.6
 kilograms of cannabis oil, the remaining 816 vape capsules, about 24 kilograms
-of candies and packaging and manufacturing equipment. [@1]
+of candies and packaging and manufacturing equipment. [@1,3] Customs said the gang mixed in differently flavoured oils to lower young people's guard, and that the candies looked like ordinary sweets and could easily be eaten by young children by mistake. [@3] Customs said the gang chose a hotel room with inconvenient transport and little foot traffic, did part of the work there, then moved the semi-finished products to the flat for packing, storage and distribution. [@3]
 
 A 23-year-old man and a 28-year-old woman were charged with two counts each of
-trafficking in a dangerous drug. [@2] A 33-year-old man was charged with two
+trafficking in a dangerous drug. [@2] Customs said the 23-year-old man arrested in the Tuen Mun flat was unemployed and the 28-year-old woman a cleaner. [@3] A 33-year-old man was charged with two
 counts of trafficking in a dangerous drug and one count of manufacture of a
-dangerous drug. [@2] The case was listed for Shatin Magistrates' Courts on 21
+dangerous drug. [@2] The two arrested men admitted receiving HK$20,000 a month as payment for trafficking, Customs said. [@3] The 33-year-old man, who rented the hotel room, said he was a construction worker. [@3] The case was listed for Shatin Magistrates' Courts on 21
 November 2026. [@1] Trafficking in a dangerous drug carries a maximum penalty of
 a HK$5 million fine and life imprisonment. [@1]
-
