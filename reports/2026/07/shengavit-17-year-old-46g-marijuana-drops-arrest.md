@@ -49,24 +49,28 @@ sources:
     publisher: Radar Armenia
     date: 2026-07-20
     language: ru
+  - title: 'Хранит, употребляет, сбывает: в Ереване задержан подросток с 26 свертками наркотиков'
+    url: https://golosarmenii.am/%D0%A5%D1%80%D0%B0%D0%BD%D0%B8%D1%82-%D1%83%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D1%8F%D0%B5%D1%82-%D1%81%D0%B1%D1%8B%D0%B2%D0%B0%D0%B5%D1%82-%D0%B2-%D0%95%D1%80%D0%B5%D0%B2%D0%B0%D0%BD%D0%B5/
+    publisher: Голос Армении
+    date: 2026-07-20
+    language: ru
 open_questions:
-  - The 29 parcels total the 26 found on the youth and the 3 recovered; the 46-gram figure is stated for the 26 parcels found on his person, with no separate weight for the other three.
-  - No charge, plea or court outcome is reported; preliminary investigation continues.
-  - The article gives no exact date beyond 7 July; the publication date is 20 July 2026.
-  - Only one accessible source (radar.am) was found for this event.
+    - The 29 parcels total the 26 found on the youth and the 3 recovered; the 46-gram figure is stated for the 26 parcels found on his person, with no separate weight for the other three.
+    - The 26 parcels are described as weighing 46 grams in total in one account and more than 46 grams in another.
+    - No charge, plea or court outcome is reported; preliminary investigation continues.
+    - The second account credits Sputnik Armenia and the Interior Ministry press service, so it may reproduce the same statement as the other account rather than independent reporting.
 ---
 
 Municipal police in Yerevan's Shengavit district received information that a
 17-year-old resident of Verrin Shengavit was illegally acquiring, storing,
-consuming and selling narcotics through parcel drops. [@1] The information was
+consuming and selling narcotics through parcel drops. [@1,2] The information was
 verified, and on 7 July at 19:30 the youth was detained on Garegin Nzhdeh street
-while he was burying a drug parcel and photographing the cache. [@1] A personal
+while he was burying a drug parcel and photographing the cache. [@1,2] A personal
 search found 26 parcels wrapped in colourful sticky tape and fitted with
-magnets, weighing over 46 grams in total. [@1] The youth said he had bought the
+magnets, weighing over 46 grams in total. [@1,2] The youth said he had bought the
 marijuana in the parcels through the Telegram app for resale, and that he had
-already buried and photographed three more parcels. [@1]
+already buried and photographed three more parcels. [@1,2]
 
 A criminal case was opened at the Shengavit district investigative department,
-during whose inspection the three buried parcels were also found. [@1] The
+during whose inspection the three buried parcels were also found. [@1,2] The
 preliminary investigation continues. [@1]
-
