@@ -62,27 +62,30 @@ sources:
     publisher: Imaz Press Réunion
     date: 2023-04-07
     language: fr
+  - title: 'Trafic de stupéfiants démantelé à St-Pierre : 32 kg de cannabis saisis par les forces de l''ordre'
+    url: https://www.linfo.re/la-reunion/societe/saint-pierre-un-trafic-de-stupefiants-demantele-32-kg-de-cannabis-saisis-par-les-forces-de-l-ordre
+    publisher: LINFO.re
+    date: 2023-04-07
+    language: fr
 open_questions:
-  - No source gives an exact date for the searches; 7 April 2023 is Imaz Press Réunion's publication date, and Réunion La 1ère reports the operation as having taken place "this week".
-  - The sources weigh the plants (32 kilograms of plants) but give no weight or street value for dried cannabis or resin, so no dried-cannabis quantity or value is recorded.
-  - No charge sheet, trial or court outcome has been reported; the case was at the police custody stage.
-  - The six suspects are not named and no ages were given, and the sources do not say how many suspects were later charged.
-  - The 32 kilograms is total plant material; no separate count of individual plants was published.
-  - No accessible statement from the police themselves was found; Zinfos974's article on the case returned an access error, so it is not cited.
-  - The text gives a number of plants ("32 kilograms of plants") but the figures have no plants_destroyed; check whether it belongs there.
+    - No street value for the cannabis was published; LINFO.re says 10.8 kg of the 32 kg was ready for resale but does not say whether that was dried flower or resin.
+    - No charge sheet, trial or court outcome has been reported; the case was at the police custody stage, with those held due to be brought before the Saint-Pierre tribunal.
+    - The six suspects are not named and no ages were given; the sources say two were minors and that a couple ran the operation, but do not say how many were later charged.
+    - The 32 kilograms is total plant material; no separate count of individual plants was published.
+    - No primary police statement was available; the accounts are second-hand reporting of what police said.
+    - 'The cash figures differ: Réunion La 1ère reported 26,000 euros in banknotes, while LINFO.re reported 90,000 euros of profit and 20,800 euros in cash hidden in a cassette in a planter.'
 ---
 
 Police in Saint-Pierre, Réunion, found an indoor room lit by lamps and dedicated
 entirely to growing cannabis plants at a family home this week, the National
-Police said. [@1] Officers seized 32 kilograms of plants during the searches.
-[@1] The suspects both grew the cannabis and sold it on. [@1]
+Police said. [@1] The operation took place on Monday 3 April in the ravine des Cabris neighbourhood of Saint-Pierre. [@3] Officers seized 32 kilograms of plants during the searches.
+[@1,3] Of the plants seized, 10.8 kilograms were ready for resale. [@3] The suspects both grew the cannabis and sold it on. [@1] The woman was in charge of production. [@3]
 
 Six people in total were placed in police custody in the case, Imaz Press
-Réunion reported. [@2] Officers also found 26,000 euros in banknotes at the
+Réunion reported. [@2,3] The couple was held for 96 hours, and four other people, including two minors, were also arrested. [@3] A couple was intercepted at two homes. [@3] Officers also found 26,000 euros in banknotes at the
 premises. [@1] A top-of-the-range car and a large-engined motorbike completed
-the list of finds. [@1] The raids took place at Saint-Pierre, the main town of
+the list of finds. [@1,3] The raids took place at Saint-Pierre, the main town of
 Réunion's south, and authorities described the operation as breaking up a small
 family "business". [@1] Imaz Press Réunion reported the same 32 kilograms of
 plants, the 26,000 euros, the car and the motorbike, and said the six suspects
 had been placed in police custody. [@2]
-
