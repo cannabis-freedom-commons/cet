@@ -84,10 +84,15 @@ sources:
     url: https://yahoo.com/news/us/articles/chico-warehouse-bust-results-62-005141742.html
     publisher: FOX40
     date: 2026-11-20
+  - title: 62 arrested in Butte County marijuana investigation
+    url: https://www.yahoo.com/news/videos/62-arrested-butte-county-marijuana-072211229.html
+    publisher: Yahoo News (KCRA - Sacramento)
+    date: 2026-11-20
+    language: en
 ---
 
 Sixty-two people were arrested and booked into the Butte County Jail on 17
-November 2026. [@1,4] The raid targeted multiple industrial warehouses on
+November 2026. [@1,4] Several of those arrested were from the Sacramento area. [@5] The raid targeted multiple industrial warehouses on
 Contractors Lane in Chico, California, under a search warrant obtained by the
 Butte County Sheriff's Office. [@2,3] The warrant was served on Tuesday, 17
 November 2026, by BCSO detectives from the Butte Interagency Narcotics Task
@@ -95,7 +100,7 @@ Force, two Bureau of Land Management agents and a detective from the California
 Department of Cannabis Control. [@1]
 
 Detectives found 62 people at the warehouses and multiple warehouses containing
-marijuana in various stages of processing. [@1,4] Investigators said large
+marijuana in various stages of processing. [@1,4,5] Investigators said large
 quantities of marijuana were being processed at the warehouse using hemp
 processing as a cover. [@1] Testing found that the product was marijuana, not
 hemp. [@1,4] Detectives said about 235,661 pounds (roughly 106,894 kg) of
