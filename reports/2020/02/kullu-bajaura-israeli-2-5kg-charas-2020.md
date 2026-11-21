@@ -55,6 +55,11 @@ media:
     media_url: https://devdiscourse.blob.core.windows.net/devnews/03_02_2020_05_08_51_3046346.jpg
     publisher: Devdiscourse / ANI
     caption: 'Photo published with the ANI report, captioned as the Kullu police arrest of the Israeli national with cannabis. Photo: ANI'
+  - kind: photo
+    url: https://timesofindia.indiatimes.com/city/shimla/israeli-national-conceals-2-5kg-charas-in-bowls-held/articleshow/73915747.cms
+    media_url: https://static.toiimg.com/thumb/msid-73925699,imgsize-519586,width-400,height-225,resizemode-72/73925699.jpg
+    publisher: The Times of India
+    caption: Specially designed bowls used to conceal the charas, captioned in the Times of India as the bowls used by Jerusalem-based Shaul Borov.
 status: verified
 created_by_model: swancloud/deepseek-v4-flash#xhigh
 submission: b9dab16f3b80f444fb05f0372cc2e370
@@ -76,23 +81,28 @@ sources:
     url: https://www.casemine.com/judgement/in/67493efc03739565b6f66b60
     publisher: CaseMine
     date: 2024-11-26
+  - title: 'Himachal Pradesh: Israeli national conceals 2.5kg charas in bowls, held'
+    url: https://timesofindia.indiatimes.com/city/shimla/israeli-national-conceals-2-5kg-charas-in-bowls-held/articleshow/73915747.cms
+    publisher: The Times of India
+    date: 2020-02-04
+    language: en
 open_questions:
-  - The 2.5 kg consignment was described as cannabis in the ANI report and as charas in the High Court judgment, and the trial court convicted him of possessing only 50 grams; the judgment does not explain the reduced quantity.
-  - The March 2023 trial judgment itself could not be opened; the conviction and sentence are known only from the High Court's December 2023 judgment.
-  - The arrest is dated only as the night before the 3 February 2020 report, so 2 February 2020 is inferred.
-  - No value estimate for the seized 2.5 kg was published.
-  - Whether he was released on bail before the 2023 trial is not established here; a 2020 bail order was not accessible.
-  - The ANI report and its Devdiscourse reprint carry the same Kullu police statement, so the arrest account rests on a single source.
-  - The 2024 order records only that the special leave petition was dismissed, not whether it was decided on the merits.
-  - What happened to the seized charas, and whether any further proceedings are pending, is not reported.
+    - The 2.5 kg consignment was described as cannabis in the ANI report and as charas in the High Court judgment, and the trial court convicted him of possessing only 50 grams; the judgment does not explain the reduced quantity.
+    - The March 2023 trial judgment itself could not be opened; the conviction and sentence are known only from the High Court's December 2023 judgment.
+    - The arrest is dated only as the night before the 3 February 2020 report and as 'Sunday night' in the 4 February 2020 Times of India report, so 2 February 2020 is inferred.
+    - No value estimate for the seized 2.5 kg was published.
+    - Whether he was released on bail before the 2023 trial is not established here; a 2020 bail order was not accessible.
+    - The ANI report, its Devdiscourse reprint and the Times of India account all draw on Kullu police statements, so the arrest account rests on the police version.
+    - The 2024 order records only that the special leave petition was dismissed, not whether it was decided on the merits.
+    - What happened to the seized charas, and whether any further proceedings are pending, is not reported.
 ---
 
 Kullu police arrested Israeli national Shaul Borov, 42, a resident of Jerusalem,
-with 2.5 kg of cannabis, superintendent Gaurav Singh said. [@1] He was stopped
+with 2.5 kg of cannabis, superintendent Gaurav Singh said. [@1,5] He rented a room at Vashisht village near Manali to prepare the consignment. [@5] He was stopped
 during checking at the TCP Bajaura check post, in a Delhi-bound private Volvo
-bus from Manali, the night before the 3 February 2020 report. [@1] Police said
-he had packed the cannabis in 10 bowls. [@2] Police said he was taking the
-consignment to Varanasi and had come to Kullu on a tourist visa. [@1] A case was
+bus from Manali, the night before the 3 February 2020 report. [@1,5] Police said
+he had packed the cannabis in 10 bowls. [@2,5] The bowls had a metallic copper inner layer and an outer shell of another material with designs. [@5] Police said he was taking the
+consignment to Varanasi and had come to Kullu on a tourist visa. [@1,5] A case was
 registered under the Narcotic Drugs and Psychotropic Substances Act, 1985. [@1]
 
 The state prosecuted him over 2.500 kg of charas, which it said was a commercial
@@ -113,4 +123,3 @@ hearing the state told the High Court that its special leave petition against
 the December 2023 judgment had been dismissed. [@4] The High Court then closed
 his petition, saying the state was free to act on permitting him to leave the
 country. [@4]
-
