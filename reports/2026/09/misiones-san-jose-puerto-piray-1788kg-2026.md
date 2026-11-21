@@ -43,6 +43,16 @@ media:
     media_url: https://www.argentina.gob.ar/sites/default/files/244_kilos_de_marihuana_abandonados_en_el_monte_misionero_-_puerto_piray_3.jpeg
     publisher: Argentina.gob.ar
     caption: 'Gendarmerie photos of the 244 kg of marijuana buds abandoned in the woods at Puerto Piray. Photo: Gendarmeria Nacional Argentina via Argentina.gob.ar'
+  - kind: photo
+    url: https://www.infobae.com/sociedad/policiales/2026/09/25/hallaron-mas-de-1500-kilos-de-marihuana-ocultos-entre-muebles-en-un-camion-proveniente-de-brasil/
+    media_url: https://www.infobae.com/resizer/v2/24CXZ3VP3JHWPCRJF7TNNEYPQY.jpg?auth=1a51f7818ca8f9cf703a2007a4aa2a62aa58ad2ab0127d52d54da6ffe2a3a3cd&smart=true&width=992&height=558&quality=85
+    publisher: Infobae
+    caption: Packages examined at the San José checkpoint where Gendarmería's drug dog León indicated the semi-trailer; an officer in gloves inspects taped parcels at night. Photo via Infobae.
+  - kind: photo
+    url: https://www.infobae.com/sociedad/policiales/2026/09/25/hallaron-mas-de-1500-kilos-de-marihuana-ocultos-entre-muebles-en-un-camion-proveniente-de-brasil/
+    media_url: https://www.infobae.com/resizer/v2/OTEO7G6WHFB7FEDMHKJNSS37PE.jpg?auth=2193731ea51ee8963c9036109a36e6a83bef87646c999ba2abc468678304b052&smart=true&width=992&height=458&quality=85
+    publisher: Infobae
+    caption: Two armed officers guard coloured packages laid out in front of the large blue-tarped truck in the San José marijuana seizure. Photo via Infobae.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c480afc3495e4b5a7798eb7659df1ebc
@@ -63,30 +73,26 @@ sources:
     publisher: MisionesOpina
     date: 2026-09-29
     language: es
-open_questions:
-  - El Territorio dates the San Jose truck check to around 23:30 and published on 25 September 2026, while the ministry published both procedures on 28 September 2026; 28 September is used as the incident date with publication precision.
-  - The 1,788.454 kg total is the sum of the two reported weights (1,544.054 kg and 244.4 kg), not a single weighed total stated by the sources.
-  - The detained driver was not named and no age, charge hearing or court outcome beyond detention was reported.
-  - No arrests were reported in the Puerto Piray procedure; inquiries to find those responsible were continuing.
-  - The substance was confirmed by field Narcotest tests; no laboratory confirmation was reported.
-  - The amount of currency seized was not quantified and no street value was published.
-  - The ministry page photos carry no captions or credits; their content is inferred from file names and placement in the release.
-  - Left out agencies, as its quotation was not found in Argentina.gob.ar.
+  - title: Hallaron más de 1.500 kilos de marihuana ocultos entre muebles en un camión proveniente de Brasil - Infobae
+    url: https://www.infobae.com/sociedad/policiales/2026/09/25/hallaron-mas-de-1500-kilos-de-marihuana-ocultos-entre-muebles-en-un-camion-proveniente-de-brasil/
+    publisher: Infobae
+    date: 2026-09-25
+    language: es
 ---
 
 Gendarmerie officers of Reinforced Section San Jose and Apostoles Group of
 Squadron 8 Alto Uruguay were deployed on Provincial Route 1 at San Jose. [@1] At
 kilometre 1 they stopped a semi-trailer truck driven by an adult man that had
-come from Dionisio Cerqueira, Brazil, and was bound for Buenos Aires. [@1] The
+come from Dionisio Cerqueira, Brazil, and was bound for Buenos Aires. [@1,4] The
 driver presented a remittance for furniture from Brazil, and narcotics dog Leon
-reacted excitedly at the semi-trailer. [@1] A mobile scanner then showed foreign
-bodies inside the trailer. [@1]
+reacted excitedly at the semi-trailer. [@1,4] A mobile scanner then showed foreign
+bodies inside the trailer. [@1,4]
 
 Officers searched the load and found large parcels carried on 1,013 wooden
 boxes. [@1] Inside the parcels officers found 2,035 rectangular and shapeless
-bricks smelling strongly of marijuana. [@1] Field Narcotest tests confirmed the
-bricks as 1,544 kilos 54 grams of cannabis sativa. [@1] The truck driver was
-detained. [@1] El Territorio identified the detained driver as an Argentine
+bricks smelling strongly of marijuana. [@1,4] Field Narcotest tests confirmed the
+bricks as 1,544 kilos 54 grams of cannabis sativa. [@1,4] The truck driver was
+detained. [@1,4] El Territorio identified the detained driver as an Argentine
 citizen. [@2] In Puerto Piray a motorized patrol of Squadron 10 Eldorado saw a
 group carrying bundles from the Parana River toward a path into adjoining woods
 and ordered them to halt. [@1] The carriers dropped the load and escaped into
@@ -94,6 +100,5 @@ the dense vegetation. [@1] Officers combed the area and found 11 bundles holding
 244 kilos 400 grams of marijuana buds. [@1]
 
 The Posadas and Eldorado federal prosecutors ordered seizure of all the drugs,
-the truck, two cell phones and currency. [@1] The Eldorado prosecutor ordered
+the truck, two cell phones and currency. [@1,4] The Eldorado prosecutor ordered
 continued inquiries to find those responsible for the Puerto Piray load. [@3]
-

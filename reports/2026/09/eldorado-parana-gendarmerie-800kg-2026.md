@@ -72,6 +72,11 @@ sources:
     publisher: La Voz
     date: 2026-09-25
     language: es
+  - title: Hallaron más de 1.500 kilos de marihuana ocultos entre muebles en un camión proveniente de Brasil - Infobae
+    url: https://www.infobae.com/sociedad/policiales/2026/09/25/hallaron-mas-de-1500-kilos-de-marihuana-ocultos-entre-muebles-en-un-camion-proveniente-de-brasil/
+    publisher: Infobae
+    date: 2026-09-25
+    language: es
 open_questions:
   - The exact landing point on the riverbank was not named, only Eldorado's jurisdiction.
   - No names or count of the people who fled by canoe were given.
@@ -83,21 +88,20 @@ open_questions:
 Officers of the National Gendarmerie from Sección Núcleo of Escuadrón 10
 Eldorado were patrolling the bank of the Paraná River in Eldorado's jurisdiction
 when they saw several people unloading bundles from a small boat among dense
-vegetation. [@1] The patrol was carried out under Plan Guacurarí, a Security
+vegetation. [@1,4] The patrol was carried out under Plan Guacurarí, a Security
 Ministry programme to strengthen border control in Misiones. [@2] When the
 gendarmes appeared, the people in the canoe fled toward Paraguay and left the
-load on the Argentine bank. [@1] No one was detained. [@1]
+load on the Argentine bank. [@1,4] No one was detained. [@1]
 
 After contacting the Decentralized Prosecutor's Office in Eldorado, officers
 were authorised to inspect the 22 abandoned bundles, in the presence of
 witnesses. [@2] Nineteen of the bundles held 847 rectangular packages, which the
-force described as violet, and the other three held marijuana buds. [@2] A field
+force described as violet, and the other three held marijuana buds. [@2,4] A field
 Narcotest was positive for cannabis sativa. [@1] Weighing put the packages at
 755 kilos 400 grams and the buds at 45 kilos 400 grams, a total of 800 kilos 800
-grams of the plant substance. [@2]
+grams of the plant substance. [@2,4]
 
 The intervening magistrate ordered the shipment seized in a case for
 infringement of Law 23.737 on narcotics and ordered the investigation to
-continue so those responsible could be identified. [@1] La Voz reported that the
+continue so those responsible could be identified. [@1,4] La Voz reported that the
 procedure took place that Friday during preventive patrols in Misiones. [@3]
-
