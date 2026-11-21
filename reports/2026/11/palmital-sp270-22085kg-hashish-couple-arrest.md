@@ -70,27 +70,34 @@ sources:
     publisher: Marília Notícia
     date: 2026-11-19
     language: pt
+  - title: Casal é preso com 22 quilos de haxixe em veículo na SP-270
+    url: https://jornaldamanhamarilia.com.br/policia/noticia/109942/2026/11/19/casal-e-preso-com-22-quilos-de-haxixe-em-veiculo-na-sp-270
+    publisher: Jornal da Manhã de Marília
+    date: 2026-11-19
+    language: pt
 open_questions:
     - The names and home towns of the two arrested were not published; only their ages (22 and 20) were reported.
     - The R$ 220,000 is a police estimate of the loss to drug trafficking, not a confirmed street price.
     - The hashish was identified by the highway police; no laboratory confirmation was reported.
     - No custody hearing, charge or court outcome beyond the arrest in flagrante was reported.
     - The accounts reproduce the same highway police statement, so they are not independent reporting.
+    - The new account dates the arrest to Wednesday 18 November while the report gives the morning of Tuesday 17 November.
+    - The new account says the pair were taken to a penitentiary in the region, while the earlier accounts say they were taken to the Central de Polícia Judiciária in Assis.
 ---
 
 Highway military police arrested two people on the morning of Tuesday 17
 November 2026 during a check at kilometre 413 of the Raposo Tavares highway
-(SP-270) in Palmital, in the Assis region of São Paulo state. [@2] Officers of
+(SP-270) in Palmital, in the Assis region of São Paulo state. [@2,5] Officers of
 the Tático Ostensivo Rodoviário (TOR), the military highway police's tactical
 patrol unit, stopped a GM Tracker occupied by a man and a woman at about 9:30 am
-during Operação Impacto. [@2,4] The driver was 22 years old and the female passenger was 20 years old. [@4]
+during Operação Impacto. [@2,4,5] The driver was 22 years old and the female passenger was 20 years old. [@4]
 
 In the vehicle the officers found 20 packets of hashish hidden inside the fuel
-tank, weighing 22.085 kilograms in total. [@1,4] The highway police estimated the
-seizure cost drug trafficking R$ 220,000. [@3,4]
+tank, weighing 22.085 kilograms in total. [@1,4,5] The highway police estimated the
+seizure cost drug trafficking R$ 220,000. [@3,4,5]
 
 Neither of the two occupants had a criminal record, the highway police said.
-[@1,4] The couple told police they had left Maringá in Paraná and were heading to Santos on the São Paulo coast. [@4] The two were arrested in flagrante on suspicion of drug trafficking and
+[@1,4] The couple told police they had left Maringá in Paraná and were heading to Santos on the São Paulo coast. [@4,5] The couple told officers they were acting as drug mules and would be paid to carry the drug. [@5] The two were arrested in flagrante on suspicion of drug trafficking and
 taken to the Central de Polícia Judiciária (CPJ) in Assis, where they remained
-in custody at the disposal of the courts. [@2,4] The case was presented to the
+in custody at the disposal of the courts. [@2,4,5] The pair were taken to a penitentiary in the region. [@5] The case was presented to the
 Civil Police, which is responsible for the investigation. [@2]
