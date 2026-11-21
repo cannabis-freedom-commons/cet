@@ -2,23 +2,22 @@
 added_at_source: git
 added_at: "2026-10-31T15:07:55.000Z"
 code: GN376B
-date: 2026-10-30
+date: 2026-11-19
 country: in
 place: Ghansaur–Mandla trijunction, Samnapur road, Ghansaur, Seoni
 coordinates: [22.65, 79.95]
 precision: locality
 type: arrest
 also: [seizure]
-title: Ghansaur police arrest one man with 1.2 kg of ganja
-summary: >-
-  Ghansaur police in Seoni arrested 32-year-old Aditya Yadav after stopping him on the Samnapur road with 1.206 kg of ganja. Officers valued it at about 20,000 rupees, seized his motorcycle and produced him in court under the NDPS Act.
+title: Youth challenges Ghansaur ganja arrest in High Court; 1.2 kg seized
+summary: Ghansaur police in Seoni arrested a youth with about 1.2 kg of ganja in October 2026 and filed a case under the NDPS Act. His family has petitioned the Madhya Pradesh High Court at Jabalpur, alleging police demanded one lakh rupees and staged the recovery.
 figures:
-  arrested: 1
-  charged: 1
-  kg_seized: 1.206
-  value:
-    amount: 20000
-    currency: INR
+    arrested: 1
+    charged: 1
+    kg_seized: 1.206
+    value:
+        amount: 20000
+        currency: INR
 media:
   - kind: photo
     url: https://dainikyashonnati.com/crime/used-sell-ganja-packets-arrested
@@ -42,12 +41,13 @@ details:
     - {product: flower}
   setting: [home]
 data_sources:
-  details.agency_types: [2, 1]
-  details.case_stage: [1, 2]
-  details.products: [1, 2]
-  details.setting: [2, 1]
-  figures.arrested: [2, 1]
-  figures.value: [1, 2]
+    details.agency_types: [2, 1]
+    details.case_stage: [1, 2]
+    details.products: [1, 2]
+    details.setting: [2, 1]
+    figures.arrested: [4]
+    figures.value: [1, 2]
+    figures.kg_seized: [4]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: a2e254cdbaa76098879ba2c77832d359
@@ -68,12 +68,25 @@ sources:
     publisher: Yash Bharat
     date: 2026-11-20
     language: hi
+  - title: 1 लाख रिश्वत नहीं दी तो गांजा केस में फंसाया! सिवनी पुलिस पर गंभीर आरोप
+    url: https://jantaserishta.com/local/madhya-pradesh/if-bribe-of-rs-1-lakh-was-not-given-then-he-was-implicated-in-ganja-case-serious-allegations-against-seoni-police-4932737
+    publisher: Janta Se Rishta
+    date: 2026-11-20
+    language: hi
+  - title: सिवनी पुलिस पर युवक को फर्जी गांजा केस में फंसाने का आरोप, हाईकोर्ट में दायर याचिका
+    url: https://www.etvbharat.com/hi/state/jabalpur-high-court-petition-filed-seoni-police-framed-youth-fake-ganja-case-mps26112004427
+    publisher: ETV Bharat
+    date: 2026-11-20
+    language: hi
 open_questions:
   - Dainik Yashonnati dates the tip and interception to 29 October 2026, while Dainik Bhaskar says the arrest was on Friday afternoon; the report uses Friday, 30 October 2026.
   - Dainik Bhaskar’s page ends before any later court step, so it is not known whether remand was granted or what happened next.
   - The two papers spell the station officer as L.S. Jharia and Laxman Jharia; both are treated as the same officer.
   - Whether the 13 criminal cases counted against him include the present ganja case is not stated.
   - The 30,800 rupees, his claim that it was his wife's and its return to her rest on the police's own account; no independent confirmation or case over the cash was reported.
+  - The fabrication, bribe-demand and CCTV-tampering claims are allegations in the writ petition; the police gave no detailed response and no court has ruled on them.
+  - No hearing date or interim order from the High Court on the petition had been confirmed.
+  - The ETV Bharat account gives the seized quantity as 1 kg 200 g while the petition and earlier reporting give 1 kg 206 g (1.206 kg), the figure retained in the report.
 ---
 
 Ghansaur police in Seoni district, Madhya Pradesh, arrested a 32-year-old man on
@@ -98,6 +111,6 @@ Jharia, whom Dainik Bhaskar names as Laxman Jharia, led the team, with
 sub-inspector Rukhsar Bano and several constables taking part. [@1] Police said he was filing unnecessary complaints through his lawyer to pressure officers and avoid action, and that the complaints' allegations and their account had yet to be independently confirmed. [@3] Dainik
 Yashonnati said the action was directed by Superintendent of Police Krishna
 Lalchandani, Additional Superintendent Deepak Mishra and Ghansaur subdivisional
-police officer Reena Pandey. [@1]
+police officer Reena Pandey. [@1] After his arrest the youth was produced in court, sent to judicial custody and was reported to be held in Seoni jail. [@4] The petition names Ghensaur police station in-charge Lakshman Jharia and alleges the family was pressured to withdraw a complaint made to the Chief Minister's helpline. [@5] The youth's wife gave electronic evidence on a pen drive to the Inspector General to explain the sequence of events. [@5] The petition claims CCTV cameras recorded police taking the youth away and that officers returned the next day in plain clothes and tried to delete the footage. [@5] The family alleges the youth was first taken from near his home and only afterwards was a ganja recovery case made out against him. [@4] Advocate Tomar said an officer threatened to frame his client in a false case unless he paid one lakh rupees. [@5] The petition alleges that Seoni police demanded one lakh rupees from the youth and, when he refused, framed him in a false ganja case and pressured his family to withdraw their complaint. [@5] The petition was filed through advocate Pramod Singh Tomar and asks the court to order an impartial investigation into the police action. [@4] A writ petition challenging the arrest was filed in the Madhya Pradesh High Court's Jabalpur bench on 19 November 2026. [@4]
 
 Police said 13 criminal cases had been registered against him, three of them involving ganja. [@3]
