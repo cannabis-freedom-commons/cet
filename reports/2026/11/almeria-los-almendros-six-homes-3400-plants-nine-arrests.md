@@ -79,6 +79,11 @@ media:
     media_url: https://img.europapress.es/fotoweb/fotonoticia_20261118152412_690.avif
     publisher: Europa Press
     caption: 'Part of the marijuana seized in Los Almendros, Almería, in a handout photo published with the Europa Press report. Photo: Policía Nacional'
+  - kind: photo
+    url: https://www.ondacero.es/emisoras/andalucia/almeria/noticias/operacion-antidroga-almendros-desmantela-60-enganches-ilegales-luz_202611196afeefc218c34d33accee4b4.html
+    media_url: https://image.ondacero.es/clipping/cmsimages02/2026/11/19/B2FE402B-C2FA-4BB9-8C04-9DF4F1C4E66E/operacion-antidroga-almendros-desmantela-60-enganches-ilegales-luz_214.jpg?crop=1600,900,x0,y154&width=955&height=537&format=avif&quality=65
+    publisher: Onda Cero
+    caption: 'The anti-drug operation in Los Almendros that dismantled 60 illegal power hook-ups. Photo: Policía Nacional'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 85ecbf2e9baaee6df34f493c7377c8aa
@@ -128,6 +133,11 @@ sources:
     url: https://www.todoalicante.es/english/nine-arrested-almeria-3-20261118081134-nt.html
     publisher: TodoAlicante
     date: 2026-11-18
+  - title: La operación antidroga en Los Almendros desmantela 60 enganches ilegales a la luz | Onda Cero Radio
+    url: https://www.ondacero.es/emisoras/andalucia/almeria/noticias/operacion-antidroga-almendros-desmantela-60-enganches-ilegales-luz_202611196afeefc218c34d33accee4b4.html
+    publisher: Onda Cero
+    date: 2026-11-19
+    language: es
 ---
 
 Spain's Policía Nacional arrested nine people on the morning of 18 November 2026
@@ -137,9 +147,9 @@ neighbourhood that were being used to grow cannabis. [@1,4,5,6,7,8,9] The operat
 Especia, was directed by Grupo 2 of the UDYCO Alborán, the drug and
 organised-crime unit of the Provincial Police Station in Almería. [@1] It formed
 part of the police station's response plan for barrios tensionados, a programme
-for high-tension neighbourhoods. [@2,5,6,7]
+for high-tension neighbourhoods. [@2,5,6,7,10]
 
-Police seized 3,400 marijuana plants. [@1,4,5,6,7,8,9] The Provincial Police Station put the
+Police seized 3,400 marijuana plants. [@1,4,5,6,7,8,9,10] The Provincial Police Station put the
 weight of the plants seized at about 200 kilograms. [@1,5,7,8] The haul included
 marijuana being dried, buds and hashish. [@1,5,6,7,8,9] The weight was a first estimate
 calculated by the operation itself. [@3,5,6] Officers also seized a short firearm, 9
@@ -147,6 +157,6 @@ mm Parabellum ammunition and 4,000 euros in cash. [@1,4,5,9] They took away equi
 used to grow the drug. [@1,5,8]
 
 Endesa technicians were brought in to disconnect the illegal hook-ups that
-supplied electricity to the grows, police sources said. [@1,5,9] The Policía Local,
+supplied electricity to the grows, police sources said. [@1,5,9] Officers detected and neutralised 60 illegal hook-ups to the power grid, and Endesa technicians removed about 60 metres of cable from fraudulent connections in Alegría and Albahaca streets. [@10] The Policía Local,
 the city's municipal police, helped draw up demolition files for illegal
-constructions found during the operation. [@1,4,5,6,7,8,9]
+constructions found during the operation. [@1,4,5,6,7,8,9,10]
