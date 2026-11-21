@@ -51,13 +51,16 @@ sources:
     url: https://www.espn.com/mens-college-basketball/story/_/id/50137284/alabama-aden-holloway-begins-5-game-ban-following-arrest
     publisher: ESPN
     date: 2026-10-08
+  - title: Alabama's Holloway had 2.1 pounds of pot when arrested, authorities say
+    url: https://apnews.com/article/alabama-aden-holloway-marijuana-ncaa-tournament-835aa5067c1b66325a9891b87d5a382a
+    publisher: AP News
+    date: 2026-03-18
 open_questions:
     - The dismissal is reported through court documents obtained by The Tuscaloosa News; the court order itself was not opened.
     - The exact Alabama court that dismissed the charge is not named.
     - No details of what the second-chance or pretrial diversion program required were published.
-    - Jon Rothstein's report of coach Nate Oats's comments, cited by the article, was not opened as a separate source.
     - The article was published before the Oakland game, so Holloway's playing time in his return is not reported.
-    - The March arrest report gave the amount as more than a pound while the later ESPN account gives 2.1 pounds; the later figure is used for the quantity.
+    - Court records gave the weight as 964 grams, about 2.1 pounds, just under Alabama's 2.2-pound trafficking threshold; no laboratory confirmation of the material was reported.
 media:
   - kind: photo
     url: https://www.msn.com/en-us/news/other/aden-holloway-to-play-for-alabama-basketball-for-first-time-since-marijuana-arrest/ar-AA2h4zGP
@@ -68,7 +71,7 @@ media:
 
 Alabama basketball guard Aden Holloway was arrested in March 2026 for possession
 of marijuana and failure to affix a tax stamp, before the men's NCAA tournament.
-[@1,3,4] Alabama suspended him indefinitely and removed him from campus pending a student conduct investigation. [@5] Holloway was arrested March 16, days before the NCAA tournament, after authorities said they found 2.1 pounds of marijuana in his Tuscaloosa apartment. [@5] Holloway was taken to the local jail shortly before 10 a.m. and was released before 11 a.m. on a $5,000 bond. [@4] Agents with the West Alabama Narcotics Task Force searched a residence near Alabama's campus and recovered more than a pound of marijuana, paraphernalia and cash. [@4] His first-degree marijuana charge was dismissed, according to court
+[@1,3,4] The first-degree marijuana possession count, not for personal use, is a Class C felony carrying up to 10 years in prison and a maximum fine of $15,000. [@6] Alabama suspended him indefinitely and removed him from campus pending a student conduct investigation. [@5] Coach Nate Oats said the Crimson Tide were preparing to play without Holloway in the opening round of the NCAA Tournament in Tampa, Florida. [@6] Holloway was arrested March 16, days before the NCAA tournament, after authorities said they found 2.1 pounds of marijuana in his Tuscaloosa apartment. [@5,6] Court records gave the total weight of marijuana found in the apartment as 964 grams, about 2.1 pounds and just under Alabama's 2.2-pound threshold for a drug trafficking charge. [@6] Holloway was taken to the local jail shortly before 10 a.m. and was released before 11 a.m. on a $5,000 bond. [@4] Agents with the West Alabama Narcotics Task Force searched a residence near Alabama's campus and recovered more than a pound of marijuana, paraphernalia and cash. [@4] Neff said Holloway had no criminal history and that a judge could give him probation if he pleaded out or went to trial. [@6] Holloway's attorney, Jason Neff, said there was no proof his client was selling the drugs. [@6] Holloway told the arresting officers that he wanted to remain silent but then said that he only smokes, according to the officer's statement. [@6] In his bedroom, agents found more marijuana in a backpack in a closet and in a suitcase, and a rolling tray with marijuana under the bed; in a spare bedroom they found a box of marijuana in a closet. [@6] Agents with the West Alabama Narcotics Task Force said Holloway met them at the door of a Tuscaloosa apartment and that they found loose marijuana and a vacuum-sealed bag of the drug in the living room. [@6] His first-degree marijuana charge was dismissed, according to court
 documents obtained by The Tuscaloosa News and reported on 28 September 2026.
 [@1]
 
