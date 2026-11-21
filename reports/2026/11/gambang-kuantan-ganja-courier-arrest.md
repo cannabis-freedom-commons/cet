@@ -53,22 +53,38 @@ sources:
     publisher: Sinar Harian
     date: 2026-11-19
     language: ms
+  - title: Polis tahan lelaki, rampas dadah bernilai lebih RM29,000
+    url: https://www.astroawani.com/video/polis-tahan-lelaki-rampas-dadah-bernilai-lebih-rm29000
+    publisher: Astro Awani
+    date: 2026-11-20
+    language: ms
+  - title: Police Arrest Man, Seize Drugs Worth Over RM29,000 In Kuantan
+    url: https://www.bernama.com/en/crime_courts/news.php?id=2636897
+    publisher: Bernama
+    date: 2026-11-19
 open_questions:
-  - The arrest is dated to the early hours of Tuesday 17 November 2026, inferred from the weekday reference in a report published on Thursday 19 November; no calendar date was stated.
-  - The RM29,223 figure is the police estimate for all the drugs seized together (ganja, heroin and yaba), while the headline attributes about RM29,000 to the ganja alone; no separate cannabis value was given.
-  - The material was described as ganja with no mention of laboratory confirmation.
-  - No charge, plea or court outcome was reported; the suspect was still under remand at publication.
-  - The account rests on a single police statement reported by one outlet, with no independent corroboration found.
+    - 'The arrest date is disputed: Sinar Harian places it in the early hours of Tuesday 17 November 2026, while Bernama and the Astro Awani video say Wednesday, which with Bernama''s 19 November publication date points to 18 November.'
+    - The RM29,223 figure is the police estimate for all the drugs seized together (ganja, heroin and yaba), while the headline attributes about RM29,000 to the ganja alone; no separate cannabis value was given.
+    - The ganja weight is given as 9.675 kg by Bernama but 9.6 kg by Sinar Harian; the report uses 9.6 kg.
+    - The material was described as ganja with no mention of laboratory confirmation.
+    - No charge, plea or court outcome was reported; the suspect was still under remand until 24 November at publication.
+    - Bernama, Sinar Harian and the Astro Awani video all reproduce the same Kuantan police statement, so they are not independent reporting.
+media:
+  - kind: video
+    url: https://www.astroawani.com/video/polis-tahan-lelaki-rampas-dadah-bernilai-lebih-rm29000
+    media_url: https://www.dailymotion.com/video/xby6242
+    publisher: Astro Awani
+    caption: Astro Awani news video reporting the detention of a man and the seizure of drugs worth RM29,223 at Jalan Gambang-Segamat in Kuantan.
 ---
 
 Police said the man used the route from Klang to Kuantan as a transit for drug
 deliveries. [@1] Police in Kuantan, Pahang, detained a 48-year-old man at about
-1.10 am on the roadside of Jalan Kuantan-Segamat near Gambang. [@1] A search of
+1.10 am on the roadside of Jalan Kuantan-Segamat near Gambang. [@1,2] The arrest was made by the Narcotics Criminal Investigation Department of the Pahang police contingent headquarters, acting on information and intelligence gathering. [@3] A search of
 the man and the vehicle he was driving led to the discovery of drugs that police
-valued at RM29,223. [@1]
+valued at RM29,223. [@1,2]
 
 The haul comprised 9.6 kilograms of ganja (cannabis), 3.48 grams of heroin and
-0.30 grams of yaba pills. [@1] Police estimated the supply could have been used
+0.30 grams of yaba pills. [@1,3] Police estimated the supply could have been used
 by 19,350 people had it reached the market. [@1] Officers also seized RM550 in
 cash, believed to be linked to criminal activity. [@1]
 
@@ -78,4 +94,3 @@ found he had eight previous records for drug and criminal offences. [@1] The
 case is being investigated under Section 39B of the Dangerous Drugs Act 1952 for
 trafficking and Section 15(1) for drug abuse. [@1] The suspect was remanded for
 seven days until 24 November. [@1]
-
