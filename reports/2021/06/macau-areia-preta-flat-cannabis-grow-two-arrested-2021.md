@@ -59,15 +59,22 @@ sources:
     url: https://macaupostdaily.com/news/11190
     publisher: The Macau Post Daily
     date: 2021-06-16
+  - title: Couple arrested for growing cannabis in high-end Areia Preta residence
+    url: https://macaubusiness.com/couple-arrested-for-growing-cannabis-in-high-end-areia-preta-residence/
+    publisher: Macau Business
+    date: 2021-06-15
+    language: en
 open_questions:
-  - The arrests are dated to 15 June 2021 because the article published on 16 June 2021 says they occurred yesterday.
-  - No weight was published for the seized plant or the cannabis oil, so no cannabis weight is recorded.
-  - No street value was published; police said the value and weight would be confirmed later.
-  - No court outcome beyond transfer to the Public Prosecutions Office was reported.
+    - The arrests are dated to 15 June 2021 because the article published on 16 June 2021 says they occurred yesterday.
+    - No weight was published for the seized plant or the cannabis oil, so no cannabis weight is recorded.
+    - No street value was published; police said the value and weight would be confirmed later.
+    - No court outcome beyond transfer to the Public Prosecutions Office was reported.
+    - 'Accounts differ on the man''s job: one calls him an executive casino host and another says he works in public relations.'
+    - One account says both suspects admitted buying the 10 seeds; the other says the man alone admitted the purchase.
 ---
 
 A Taiwanese man and a local woman were arrested separately yesterday for growing
-cannabis at their flat in La Marina on Rua Central da Areia Preta. [@1] The pair
+cannabis at their flat in La Marina on Rua Central da Areia Preta. [@1,2] The pair
 were a 35-year-old Taiwanese man surnamed Chung who said he works in public
 relations and a 29-year-old jobless local woman surnamed Fok. [@1] Officers put
 the duo under surveillance, then arrested Fok near their home while Chung was
@@ -75,12 +82,12 @@ arrested in a casino hotel in Cotai. [@1]
 
 PJ officers searched the flat and seized a cannabis plant, a portable
 greenhouse, a heating lamp, several bottles of liquid plant food, cannabis oil,
-a digital scale and some drug-taking paraphernalia. [@1] The seized cannabis
+a digital scale and some drug-taking paraphernalia. [@1,2] The seized cannabis
 plant was about 100 centimetres in height, and police said its weight and street
-market value would be confirmed later. [@1] Chung admitted buying 10 cannabis
+market value would be confirmed later. [@1,2] Chung admitted buying 10 cannabis
 seeds for 1,500 patacas from a man he did not know at a night entertainment
-venue in Zape about two months earlier. [@1] He then bought growing equipment
-online and started growing cannabis at home. [@1] Chung also admitted buying
+venue in Zape about two months earlier. [@1,2] He then bought growing equipment
+online and started growing cannabis at home. [@1,2] Chung also admitted buying
 cannabis seeds at the end of last year from one of the suspects in the Rua de
 Sacadura Cabral drug case. [@1]
 
@@ -92,4 +99,3 @@ of other possible suspects and the duo’s possible involvement in drug deals.
 [@1] The pair were transferred to the Public Prosecutions Office facing charges
 of illegal production of, and trafficking in narcotics and psychotropic
 substances as well as illegal possession of drug-taking paraphernalia. [@1]
-
