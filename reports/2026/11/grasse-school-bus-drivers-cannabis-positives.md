@@ -34,30 +34,32 @@ sources:
     publisher: actu.fr
     date: 2026-11-19
     language: fr
+  - title: Two school bus drivers test positive for cannabis during police checks near Grasse
+    url: https://www.rivieraradio.mc/article/two-school-bus-drivers-test-positive-for-cannabis-during-police-checks-near-gras-5HjdnKW_2/
+    publisher: Riviera Radio
+    date: 2026-11-20
 open_questions:
-  - No cannabis quantity was reported and no cannabis was seized; the cannabis component rests on roadside screenings reported as confirmed by complementary analyses.
-  - No arrest, custody measure or criminal charge was reported beyond immediate licence retention, so the case is treated as under investigation.
-  - Whether the prefecture later ordered a longer-term suspension was not reported.
-  - The two ages given, 42 and 58, were not matched to the two communes where the positives occurred.
-  - The cocaine screening at Vence was followed by a negative blood analysis, so it is excluded from the cannabis account.
-  - The whole account rests on a single opened article citing the gendarmerie and Nice-Matin; no second independent account was opened.
+    - No cannabis quantity was reported and no cannabis was seized; the cannabis component rests on roadside screenings reported as confirmed by complementary analyses.
+    - No arrest, custody measure or criminal charge was reported; the prosecutor's office was informed and criminal proceedings were described as possible.
+    - The two ages given, 42 and 58, were not matched to the two communes where the positives occurred.
+    - The cocaine screening at Vence was followed by a negative blood analysis, so it is excluded from the cannabis account.
+    - Whether the drivers appealed the suspensions or faced internal disciplinary measures was not reported.
 ---
 
 On 17 November 2026 the Grasse gendarmerie company carried out multiple controls
 at Peymeinade, Saint-Vallier de Thiey, Le Rouret, Roquefort-les-Pins and Vence
-on drivers doing school runs while transporting children. [@1] The operation
-checked 51 school bus drivers. [@1] Grasse company commander Mathieu Jarnigon
+on drivers doing school runs while transporting children. [@1,2] The checks ran from 7 am to 9 am and involved 36 officers from several local brigades, specialist units and reservists. [@2] The operation
+checked 51 school bus drivers. [@1,2] Grasse company commander Mathieu Jarnigon
 said the objective was primarily preventive, screening all school bus and
-shuttle drivers for alcohol and drugs. [@1]
+shuttle drivers for alcohol and drugs. [@1,2]
 
 At Saint-Vallier-de-Thiey and Roquefort-les-Pins, two tested drivers were
-positive for cannabis. [@1] Those results were confirmed by complementary
-analyses. [@1] The two drivers, aged 42 and 58, had their driving licences
-immediately retained for up to 72 hours. [@1] A longer-term suspension could
-later be ordered by the prefecture. [@1] Schoolgirls were aboard one driver’s
+positive for cannabis. [@1,2] Those results were confirmed by complementary
+analyses. [@1,2] The two drivers, aged 42 and 58, had their driving licences
+immediately retained for up to 72 hours. [@1,2] A longer-term suspension could
+later be ordered by the prefecture. [@1,2] The prefecture suspended the Saint-Vallier-de-Thiey driver's licence for 11 months and the Roquefort-les-Pins driver's for 10 months. [@2] Schoolgirls were aboard one driver’s
 bus when he was controlled, he was asked to leave the vehicle, and a third
-person took the wheel to continue the route. [@1]
+person took the wheel to continue the route. [@1,2] The public prosecutor's office and the drivers' employers were informed at that point, with possible criminal proceedings and internal disciplinary measures to follow. [@2]
 
 At Vence another driver screened positive for cocaine, but the follow-up blood
-analysis was negative. [@1]
-
+analysis was negative. [@1,2]
