@@ -78,13 +78,26 @@ sources:
     publisher: Mumbai Samachar
     date: 2026-11-20
     language: gu
+  - title: સરખેજમાંથી મહિલા પેડલર ઝડપાઇઃ ઘરમાંથી બે કિલો ગાંજો અને 53.51 લાખ રોકડા મળ્યા
+    url: https://navgujaratsamay.com/woman-drug-peddler-arrested-in-sarkhej-2-kg-of-ganja-and-5351-lakh-cash-seized/312850.html
+    publisher: NavGujarat Samay
+    date: 2026-11-20
+    language: gu
 open_questions:
-  - No separate date was given for the raids; 19 November 2026 is the publication date and stands in for the incident date, described only as a single night.
-  - 'Sources differ on how many remain wanted: one says the husband alone is wanted, another says two accused including a man and a woman are yet to be caught, naming Sunitaben Chhara separately.'
-  - The first arrest is placed in Bodakdev police limits by two sources but described as near Malav Lake in Thaltej by the third; Thaltej and Bodakdev are treated as the same initial lead.
-  - The ganja was described as seized material without reported laboratory confirmation, and police values of Rs 6,561 and Rs 1.08 lakh are official estimates.
-  - No court outcome, plea or detention order beyond arrest was reported.
-  - The Gujarati account gives the haul as about 2.25 kg of ganja and about Rs 54 lakh in cash, against the police figures of 2.174 kg and Rs 53.51 lakh used in this report.
+    - No separate date was given for the raids; 19 November 2026 is the publication date and stands in for the incident date, described only as a single night.
+    - 'Sources differ on how many remain wanted: one says the husband alone is wanted, another says two accused including a man and a woman are yet to be caught, naming Sunitaben Chhara separately.'
+    - The first arrest is placed in Bodakdev police limits by two sources but described as near Malav Lake in Thaltej by the third; Thaltej and Bodakdev are treated as the same initial lead.
+    - The ganja was described as seized material without reported laboratory confirmation, and police values put on it, including Rs 6,561 for the first seizure and Rs 1.08 lakh for the Sarkhej haul, are official estimates.
+    - No court outcome, plea or detention order beyond arrest was reported.
+    - The Gujarati account gives the haul as about 2.25 kg of ganja and about Rs 54 lakh in cash, against the police figures of 2.174 kg and Rs 53.51 lakh used in this report.
+    - 'The Gujarati accounts disagree on the couple''s past record: one says 45 cases against Sunita Rathod and about 20 against her husband since 2014, another says 48 against her and 24 against him.'
+    - One Gujarati account values the Sarkhej ganja at Rs 1 lakh in its lead and Rs 1.08 lakh in its body.
+media:
+  - kind: photo
+    url: https://navgujaratsamay.com/woman-drug-peddler-arrested-in-sarkhej-2-kg-of-ganja-and-5351-lakh-cash-seized/312850.html
+    media_url: https://media.navgujaratsamay.com/ngs-mig/uploads/mediaGallery/image/1795105126732.jpg-org
+    publisher: NavGujarat Samay
+    caption: Image published with the NavGujarat Samay report of the police raid on the woman peddler's house in Sarkhej, captioned as the seizure of 2 kg of ganja and Rs 53.51 lakh in cash.
 ---
 
 Ahmedabad police ran simultaneous narcotics raids in Sarkhej and Bodakdev on
@@ -97,10 +110,10 @@ grams and 220 milligrams of ganja. [@1] Raju told investigators he had obtained
 the consignment from Sunita Rathod, who lives near Kailash Lake close to Sanyas
 Ashram in Sarkhej, leading to the follow-up raid. [@3] The woman told police that the two of them supplied ganja to small drug suppliers in Ahmedabad, and officers began examining the roles of others in the network. [@7] At the Sarkhej premises
 near Kailash Talav close to Sanyas Ashram, police arrested 42-year-old Sunita
-Deepak Rathod, while her husband Deepak Rathod was declared wanted. [@1,7] Police said 45 cases had been registered against Sunita Rathod and about 20 against her husband since 2014, for assault and for selling liquor and drugs. [@7]
+Deepak Rathod, while her husband Deepak Rathod was declared wanted. [@1,7,8] Police said 45 cases had been registered against Sunita Rathod and about 20 against her husband since 2014, for assault and for selling liquor and drugs. [@7] Investigators said the ganja had been brought from Rajasthan. [@8]
 
 Officers searching the Sarkhej residence recovered 2 kilograms and 174 grams of
-ganja alongside Rs 53.51 lakh in cash kept in a safe. [@1] Officers also
+ganja alongside Rs 53.51 lakh in cash kept in a safe. [@1,8] Sunita Rathod gave no proper explanation for where the Rs 53.51 lakh in cash had come from, police said. [@8] Officers also
 recovered 28 plastic and zip bags and Rs 53,51,100 in cash from the premises.
 [@2,4,5,6] Police put the total value of the Sarkhej seizure at Rs 54,59,800,
 including the cash. [@2,4,5,6]
@@ -108,6 +121,6 @@ including the cash. [@2,4,5,6]
 Police registered two cases under the Narcotic Drugs and Psychotropic Substances
 Act during the single-night Zone-7 special drive. [@2,4,5,6] Officials said the Income
 Tax Department and the Enforcement Directorate may be approached to trace the
-source of the cash. [@2,4,5,6] Police said they will examine the accused’s assets,
+source of the cash. [@2,4,5,6,8] Police said they will examine the accused’s assets,
 with possible property seizure and demolition of illegal structures linked to
-the trade. [@2,5]
+the trade. [@2,5] Zone 7 Deputy Commissioner of Police Shivam Verma said a special team had been deployed on Sindhu Bhavan Road. [@8]
