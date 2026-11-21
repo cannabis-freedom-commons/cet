@@ -44,15 +44,20 @@ sources:
     publisher: Lake County News
     url: https://www.420magazine.com/community/threads/lake-county-takes-no-2-spot-for-marijuana-eradications-statewide.105580/
     date: 2009-11-07
+  - title: 'California Sheriff: “Part of me wants marijuana legalized”'
+    url: https://norml.org/blog/2009/12/03/california-sheriff-part-of-me-wants-marijuana-legalized/
+    publisher: NORML
+    date: 2009-12-03
 open_questions:
-  - The official biennial report puts 3.4 million of the plants on state and federal public land, while Lake County News reported 3.3 million; this report uses the official figure.
-  - The reports do not say whether the 111 arrested people were charged or convicted.
+    - The official biennial report puts 3.4 million of the plants on state and federal public land, while Lake County News reported 3.3 million; this report uses the official figure.
+    - The reports do not say whether the 111 arrested people were charged or convicted.
+    - NORML reported that CAMP hauled in 4.5 million plants in 2009, against the 4.4 million in the Attorney General's tally; this report keeps the official figure.
 ---
 
 The Campaign Against Marijuana Planting destroyed more than 4.4 million illegally grown
 cannabis plants during its 102-day 2009 season, up from 2.9 million in 2008, making it a
-record year of eradication. [@1,2] Officers conducted 665 raids across 41 of California's
-58 counties, made 111 arrests and seized 89 firearms. [@1,2]
+record year of eradication. [@1,2,3] Officers conducted 665 raids across 41 of California's
+58 counties, made 111 arrests and seized 89 firearms. [@1,2] CAMP buried the cannabis plants it confiscated in 2009 in undisclosed locations instead of burning them, digging holes about 10 feet deep, Sheriff’s Sergeant Wayne Hanson said. [@3]
 
 ## Public land and top counties
 
