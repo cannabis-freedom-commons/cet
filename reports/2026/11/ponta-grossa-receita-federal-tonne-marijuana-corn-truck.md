@@ -86,23 +86,28 @@ sources:
     publisher: Paraná Hoje
     date: 2026-11-19
     language: pt
+  - title: Carreta com milho escondia uma tonelada de maconha e motorista é preso em Ponta Grossa
+    url: https://folhadecuritiba.com.br/carreta-com-milho-escondia-uma-tonelada-de-maconha-e-motorista-e-preso-em-ponta-grossa/
+    publisher: Folha de Curitiba
+    date: 2026-11-20
+    language: pt
 ---
 
 Federal Revenue officers from the Ponta Grossa tax office stopped a truck
 carrying corn in the city's urban area on the afternoon of 19 November 2026.
-[@2,6] The truck had left south-west Paraná and was driven by a 46-year-old man
-from Laguna in Santa Catarina. [@2,6] Officers became suspicious when the driver
-gave contradictory answers about the route and the length of the trip. [@4,6] The
-driver was arrested in the act for drug trafficking. [@3,6]
+[@2,6,7] The truck had left south-west Paraná and was driven by a 46-year-old man
+from Laguna in Santa Catarina. [@2,6,7] Officers became suspicious when the driver
+gave contradictory answers about the route and the length of the trip. [@4,6,7] The
+driver was arrested in the act for drug trafficking. [@3,6,7]
 
 Under the corn, officers found dozens of bales of marijuana hidden in the load.
-[@2,6] The marijuana weighed about one tonne. [@1,6] The officers' initial
-assessment was that the marijuana was bound for Santa Catarina. [@1,6] The driver
+[@2,6,7] The marijuana weighed about one tonne. [@1,6,7] The officers' initial
+assessment was that the marijuana was bound for Santa Catarina. [@1,6,7] The driver
 told officers he had left the empty truck at a fuel station and later returned
-to find it already loaded. [@2,6]
+to find it already loaded. [@2,6,7]
 
 The driver, the truck, the corn and the marijuana were sent to the judicial
-police to record the occurrence and open an investigation. [@2,6] The Federal
+police to record the occurrence and open an investigation. [@2,6,7] The Federal
 Revenue described the action as part of its permanent work against smuggling,
 customs fraud and drug trafficking on the region's main logistics routes. [@5,6]
 Ponta Grossa sits on highways linking Paraná to Santa Catarina and other
