@@ -66,6 +66,10 @@ sources:
     url: https://www.wtap.com/2025/12/05/mom-arrested-after-young-children-eat-thc-gummies-leading-hospitalization-police-say/
     publisher: WTAP
     date: 2025-12-05
+  - title: Mom arrested after young children eat THC gummies, leading to hospitalization, police say
+    url: https://www.wsmv.com/2025/12/05/mom-arrested-after-young-children-eat-thc-gummies-leading-hospitalization-police-say/
+    publisher: WSMV
+    date: 2025-12-05
 open_questions:
   - No weight, count or THC content of the gummies eaten was published, so no cannabis quantity is recorded.
   - ABC News says the children were under 8; Action News 5 and People give their ages as 2 and 4.
@@ -80,7 +84,7 @@ THC gummies and were hospitalised. [@2,4] Candice Hickson, 43, was booked into t
 Gibson County jail on 30 November, two days after the overdose. [@3]
 
 Deputies were called to a home in the 300 block of Trenton Milan Highway on 28
-November and found both children unresponsive. [@2,4] Hickson told deputies the
+November and found both children unresponsive. [@2,4,5] Hickson told deputies the
 children reached her THC gummies, which she kept in the bathroom, while she was
 in the bathroom, and she could not say how many they ate, according to an arrest
 warrant. [@2] The children were treated at Le Bonheur Children's Hospital in
@@ -88,7 +92,7 @@ Memphis and released within 48 hours. [@1] The children were placed in the
 custody of the Tennessee Department of Children's Services after their mother
 failed a drug test for methamphetamine, the district attorney general said. [@1]
 Hickson's bail was set at $25,000, and she was due back in Gibson County General
-Sessions court on 16 December with no attorney listed. [@1,4] Sheriff Paul Thomas said the THC gummies need to be treated as any other medication, locked up and out of reach of children. [@4]
+Sessions court on 16 December with no attorney listed. [@1,4] Sheriff Paul Thomas said the THC gummies need to be treated as any other medication, locked up and out of reach of children. [@4,5]
 
 THC hemp gummies are legal for adults 21 and older in Tennessee. [@1] District
 Attorney General Frederick Agee said his office would prosecute the case within
