@@ -53,6 +53,11 @@ media:
     media_url: https://format.kr.ua/wp-content/uploads/2026/11/911774810_1448238380256126_7039702853701912369_n.jpg
     publisher: UKR.NET
     caption: 'A second police photo published with the report of the cannabis seizure from the 47-year-old man in Novoukrainskyi district. Photo: Kirovohrad Oblast Police'
+  - kind: photo
+    url: https://www.ukr.net/news/details/criminal/120584968.html
+    media_url: https://format.kr.ua/wp-content/uploads/2026/11/913709392_1424027513047965_3928521742169865105_n.jpg
+    publisher: UKR.NET / ФОРМАТ
+    caption: 'Police photo of the cannabis seized during the search of the 47-year-old man''s home in the Novoukrainskyi district. Photo: Kirovohrad Oblast Police'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 9fcab13cb5c887567df4397d4a0cbcc7
@@ -78,28 +83,38 @@ sources:
     publisher: UKR.NET (Формат)
     date: 2026-11-19
     language: uk
+  - title: На Кіровоградщині у 47-річного чоловіка вилучили понад 3 кг канабісу
+    url: https://www.ukr.net/news/details/criminal/120584968.html
+    publisher: UKR.NET / ФОРМАТ
+    date: 2026-11-19
+    language: uk
+  - title: 'Понад 3 кілограми канабісу вилучили поліцейські Кіровоградщини: зловмиснику повідомили про підозру'
+    url: https://kg.npu.gov.ua/news/ponad-3-kilohramy-kanabisu-vyluchyly-politseiski-kirovohradshchyny-zlovmysnyku-povidomyly-pro-pidozru
+    publisher: Головне gestion Національної поліції в Кіровоградській області
+    date: 2026-11-19
+    language: uk
 open_questions:
     - No separate date for the search or detention was given; 19 November 2026 is the publication date and is used as the incident date.
     - The weight was reported only as more than three kilograms; no exact measured figure or value estimate was published.
-    - All accounts reprint the same Kirovohrad Oblast police statement; no independent reporting or the original police statement was opened.
+    - All accounts derive from the same Kirovohrad Oblast police statement; no independent reporting was found.
     - No laboratory confirmation of the seized substance was reported.
     - No plea or final court outcome was reported; the pre-trial investigation was still under way.
 ---
 
 In Kirovohrad Oblast, law enforcement identified a 47-year-old man suspected of
-selling narcotics in Novoukrainskyi district. [@1,2,3] The man was detained. [@1,2,3]
+selling narcotics in Novoukrainskyi district. [@1,2,3,5] The man was detained. [@1,2,3,5]
 During a search of the residence where he lived, officers seized more than three
-kilograms of cannabis, according to the police. [@1,2,4]
+kilograms of cannabis, according to the police. [@1,2,4,5]
 
 The National Police press service said criminal-police operatives carried out
 the operation with investigators from Police Department No. 1 in Mala Vyska.
-[@1,2,3] The district prosecutor's office provided procedural supervision for the
-police operation. [@1,3] He was served with a suspicion notice under part 2 of
-Article 307 of the Criminal Code of Ukraine. [@1,2,3] That offence is unlawful
+[@1,2,3,6] The district prosecutor's office provided procedural supervision for the
+police operation. [@1,3,6] He was served with a suspicion notice under part 2 of
+Article 307 of the Criminal Code of Ukraine. [@1,2,3,5] That offence is unlawful
 production, manufacture, purchase and storage of narcotic substances with intent
-to sell. [@1,3]
+to sell. [@1,3,5]
 
 Under the article, the sanction provides for six to ten years' imprisonment with
-confiscation of property. [@1,2,3] No sentence has been imposed; the term is the
+confiscation of property. [@1,2,3,5] No sentence has been imposed; the term is the
 potential penalty attached to the charge. [@1] The pre-trial investigation into
-the case was still continuing at the time of publication. [@1,3]
+the case was still continuing at the time of publication. [@1,3,6]
