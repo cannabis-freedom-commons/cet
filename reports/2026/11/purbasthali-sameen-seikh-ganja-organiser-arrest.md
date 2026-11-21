@@ -66,6 +66,10 @@ sources:
     url: https://english.metrovaartha.com/news/kerala/keralam-key-ganja-smuggling-accused-arrested-in-west-bengal
     publisher: Metrovaartha
     date: 2026-11-20
+  - title: Bengal Man Arrested in Kerala Ganja Smuggling Case
+    url: https://newskarnataka.com/india/bengal-man-arrested-in-kerala-ganja-smuggling-case/20112026/
+    publisher: News Karnataka
+    date: 2026-11-20
 open_questions:
     - No calendar date is given for the arrest; 20 November 2026 is the date the police account was published, and one report says he was detained around midnight.
     - The 22.403 kilograms were seized at Palakkad Junction on 19 September 2026 and are not counted as a haul from this arrest.
@@ -77,10 +81,10 @@ open_questions:
 ---
 
 Palakkad Railway Police arrested Sameen Seikh, 27, in West Bengal as the alleged
-mastermind of a ganja smuggling network operating in Kerala. [@1,3,5,6] A special
+mastermind of a ganja smuggling network operating in Kerala. [@1,3,5,6,7] A special
 investigation team under Railway Superintendent P. B. Krishnakumar, led by
 Deputy Superintendent Manoj Parayatt and Inspector Prathap A, travelled to West
-Bengal and arrested him after discreet surveillance. [@1,4,5] Officers located his
+Bengal and arrested him after discreet surveillance. [@1,4,5,7] Officers located his
 hideout and house at Hameedpur in Purbasthali, Purba Bardhaman, and detained him
 around midnight after surrounding the place. [@2] Police said they had watched
 him for days, found the hideout and house, and subdued him around midnight by
@@ -88,11 +92,11 @@ surrounding the place. [@2]
 
 He is the first person charged in a case registered after police arrested two
 men with 22.403 kilograms of ganja at Palakkad Junction railway station on 19
-September 2026. [@1,4,5,6] Asim Seikh, 23, and Sahidul Mallik, 28, were allegedly
-transporting the ganja from West Bengal to Kerala by train via Chennai. [@1,4,5,6]
+September 2026. [@1,4,5,6,7] Asim Seikh, 23, and Sahidul Mallik, 28, were allegedly
+transporting the ganja from West Bengal to Kerala by train via Chennai. [@1,4,5,6,7]
 Masood Seikh, 28, another link in the network, had earlier been arrested in
-Kozhikode. [@1,4,5,6] Questioning of those suspects identified Sameen, a native of
-Purba Bardhaman district, as the organiser, police said. [@1,4,5,6] Police said he would be brought to Kerala and produced before the Palakkad Judicial First Class Magistrate Court after the required procedures. [@4,5,6]
+Kozhikode. [@1,4,5,6,7] Questioning of those suspects identified Sameen, a native of
+Purba Bardhaman district, as the organiser, police said. [@1,4,5,6,7] Police said he would be brought to Kerala and produced before the Palakkad Judicial First Class Magistrate Court after the required procedures. [@4,5,6,7]
 
 Police said Sameen had come to Kerala about 12 years earlier for construction
-work and had lived in Mahe and Thalassery. [@1,4,5,6] Police said he also has a previous case under the Narcotic Drugs and Psychotropic Substances Act registered at the Vazhakkad police station in Malappuram district. [@4,5,6] Police said he later used migrant workers to move ganja by train to Palakkad, Tirur and Kozhikode. [@4,5,6]
+work and had lived in Mahe and Thalassery. [@1,4,5,6,7] Police said he also has a previous case under the Narcotic Drugs and Psychotropic Substances Act registered at the Vazhakkad police station in Malappuram district. [@4,5,6,7] Police said he later used migrant workers to move ganja by train to Palakkad, Tirur and Kozhikode. [@4,5,6,7]
