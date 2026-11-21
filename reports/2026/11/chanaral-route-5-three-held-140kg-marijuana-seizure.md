@@ -105,6 +105,11 @@ sources:
     publisher: La Nación
     date: 2026-11-20
     language: es
+  - title: Carabineros detuvo a tres personas e incautó más de 140 kilos de marihuana
+    url: https://www.elzorronortino.cl/actualidad/carabineros-detuvo-a-tres-personas-e-incauto-mas-de-140-kilos-de-marihuana/
+    publisher: Medio digital El Zorro Nortino
+    date: 2026-11-19
+    language: es
 media:
   - kind: photo
     url: https://www.emol.com/noticias/Nacional/2026/11/19/1217634/chanaral-extranjeros-trasladaban-kilos-marihuana.html
@@ -121,14 +126,16 @@ media:
     media_url: https://mdstrm.com/embed/6b00b7c4bd87c0e15c9e25c8
     publisher: 24horas
     caption: 'Video of the Chañaral drug operation published with the 24 Horas report, whose player still is captioned ''Video Principal''. Video: 24 Horas'
+open_questions:
+  - It is unclear whether 140 or 133 packages were seized, since one passage gives 140 packages found in the vehicle checks and another gives 133 packages seized.
 ---
 
 Carabineros detained three Colombian adults in Chañaral for drug trafficking and
-a Chañaral court placed all three in preventive detention. [@3,5,6,8,9,11] One detainee had
+a Chañaral court placed all three in preventive detention. [@3,5,6,8,9,11,12] One detainee had
 an outstanding arrest warrant from the Antofagasta Guarantee Court for lesiones,
-while the other two had irregular migratory status in the country. [@2,4,5,6,7,10,11] The
+while the other two had irregular migratory status in the country. [@2,4,5,6,7,10,11,12] The
 Chañaral Guarantee Court granted preventive detention after finding their
-liberty a danger to public safety. [@3,7,10] The court set an 85-day investigation
+liberty a danger to public safety. [@3,7,10,12] The court set an 85-day investigation
 period during which the three will remain deprived of liberty. [@3,5,6,7,10,11]
 
 The case began with checks by the SIP of the 1st Chañaral police station on two
@@ -137,9 +144,9 @@ officers found 140 packages containing marijuana. [@2,4,5,6,7,8,10,11] On the pr
 instructions, Atacama OS7 specialists analysed mobile phones with UFED
 technology, reviewed security cameras and took statements to link the three to
 the transport. [@2,5,7,10,11] Officers seized 140 kilos 343 grams of marijuana and 5 grams
-300 milligrams of cocaine hydrochloride. [@2,4,5,6,7,10,11] Police counted the substances as
+300 milligrams of cocaine hydrochloride. [@2,4,5,6,7,10,11,12] Police counted the substances as
 290,686 doses with an appraised value of 1,503,430,000 pesos. [@1,5,6,7,10,11] Officers also
-seized five mobile phones and $107,000 in cash. [@1,4,5,6,7,10,11]
+seized five mobile phones and $107,000 in cash. [@1,4,5,6,7,10,11,12]
 
 Chañaral prosecutor Nicolás Meléndez Chacón said the three moved the drugs in a
 coordinated way in two vehicles and will be investigated for illicit drug
