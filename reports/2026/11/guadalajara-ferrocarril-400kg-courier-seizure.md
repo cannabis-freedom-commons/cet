@@ -1,0 +1,112 @@
+---
+code: AS5CYX
+added_at: "2026-11-21T07:08:58.809459Z"
+date: 2026-11-20
+country: mx
+place: Colonia Ferrocarril, Guadalajara, Jalisco
+coordinates: [20.6736, -103.344]
+precision: locality
+type: seizure
+title: About 400 kg of marijuana seized at a Guadalajara courier company
+summary: >-
+  Jalisco state police seized about 400 kilograms of marijuana packed in 31 boxes at a courier company in colonia Ferrocarril, Guadalajara, after employees reported the shipment to the 911 line. Shipping labels said the boxes came from Tlaquepaque and were addressed to Monterrey, Nuevo León; no detentions were reported and the cargo was handed to the federal prosecutor's office.
+figures:
+  sites: 1
+  kg_seized: 400
+details:
+  agencies: [Policía del Estado de Jalisco, mx-fgr]
+  agency_types: [police, prosecutor]
+  products:
+    - {product: flower, kg: 400}
+  activity: [trafficking]
+  setting: [mail]
+  case_stage: investigation
+  date_precision: publication
+  region: Jalisco
+data_sources:
+  details.activity: [6]
+  details.agencies: [2, 5]
+  details.agency_types: [2]
+  details.case_stage: [2]
+  details.products: [2]
+  details.setting: [1]
+  figures.kg_seized: [2]
+  figures.sites: [1]
+media:
+  - kind: photo
+    url: https://www.mural.com.mx/aseguran-31-cajas-con-mariguana-en-paqueteria-de-gdl/ar3318549
+    media_url: https://img.gruporeforma.com/imagenes/960x640/7/327/6326365.jpg
+    publisher: Mural
+    caption: 'The boxes of marijuana seized at the Guadalajara courier company, whose shipping labels said they came from Tlaquepaque and were addressed to Monterrey. Photo: Raúl Zepeda / Mural'
+  - kind: photo
+    url: https://www.nmas.com.mx/jalisco/seguridad/decomisan-mas-de-400-kilos-de-marihuana-en-empresa-de-paqueteria-en-guadalajara/
+    media_url: https://static.nmas.com.mx/Nmas/cms/decomiso-marihuana-guadalajara-seguridad-jalisco-620x620.jpg
+    publisher: N+
+    caption: 'Packaged marijuana from the Guadalajara courier-company seizure, in a photograph captioned ''La droga fue localizada ya empaquetada''. Photo: N+'
+status: verified
+created_by_model: swancloud/deepseek-v4.1-flash#max
+submission: 256a951911465ab7f57ce8bde3d15977
+tags: [guadalajara, jalisco, paqueteria, fgr, seizure]
+sources:
+  - title: Aseguran Más de 400 Kilos de Marihuana en Paquetería de Guadalajara
+    url: https://www.nmas.com.mx/jalisco/seguridad/aseguran-mas-de-400-kilos-de-marihuana-en-paqueteria-de-guadalajara/
+    publisher: N+
+    date: 2026-11-20
+    language: es
+  - title: Aseguran 400 kilos de marihuana en una paquetería de Guadalajara
+    url: https://www.ntrguadalajara.com/post.php?id_nota=252776
+    publisher: NTR Guadalajara
+    date: 2026-11-20
+    language: es
+  - title: Aseguran 400 kilos de mariguana en empresa de paquetería en Guadalajara
+    url: https://tribuna.com.mx/seguridad/2026/11/20/aseguran-400-kilos-de-mariguana-en-empresa-de-paqueteria-en-guadalajara_718344/
+    publisher: Tribuna
+    date: 2026-11-20
+    language: es
+  - title: Aseguran 31 cajas con mariguana en paquetería de GDL
+    url: https://www.mural.com.mx/aseguran-31-cajas-con-mariguana-en-paqueteria-de-gdl/ar3318549
+    publisher: Mural
+    date: 2026-11-20
+    language: es
+  - title: Aseguran 400 kilos de marihuana en empresa de paquetería de la colonia Ferrocarril, Guadalajara
+    url: https://www.gs-noticias.com/post/aseguran-400-kilos-de-marihuana-en-empresa-de-paqueter%C3%ADa-de-la-colonia-ferrocarril-guadalajara
+    publisher: GS Noticias
+    date: 2026-11-20
+    language: es
+  - title: Decomisan Más de 400 Kilos de Marihuana en Empresa de Paquetería en Guadalajara
+    url: https://www.nmas.com.mx/jalisco/seguridad/decomisan-mas-de-400-kilos-de-marihuana-en-empresa-de-paqueteria-en-guadalajara/
+    publisher: N+
+    date: 2026-11-20
+    language: es
+open_questions:
+  - No separate date or time was given for the inspection; 20 November 2026 is the publication and dateline date and stands in for the incident date.
+  - The weight is given as approximately 400 kilograms, not an exact weighing result.
+  - One account places the courier company in colonia San Carlos, while the others place it in colonia Ferrocarril at the same Dr. R. Michel and Gabino Barreda crossroads.
+  - Accounts differ on the tip-off line, giving the 911 emergency number in most and the 089 anonymous-report line in another.
+  - No arrests or detentions had been reported and no suspect was identified.
+  - The marijuana was described as plant material with the characteristics of marijuana; no laboratory confirmation was reported.
+  - The Tlaquepaque origin and Monterrey destination come from the shipping labels and had not been confirmed by investigators.
+  - The value of the load was not published.
+  - The 558 blocks are counted in one account only; others give the number of boxes and the total weight without a block count.
+  - All accounts reproduce the same state police account and are not independent reporting.
+---
+
+Jalisco state police seized about 400 kilograms of marijuana at a courier
+company in colonia Ferrocarril, Guadalajara. [@1] The company is at the
+crossroads of avenida Doctor R. Michel and Privada Gabino Barrera. [@2]
+Employees of the courier firm called the 911 emergency line to report the
+packages. [@4] Officers of the vehicle recovery and identification squadron
+found 31 cardboard boxes matching the description in the tip. [@2] Inside the
+parcels were 558 blocks of plant material with the characteristics of marijuana.
+[@2] The load weighed about 400 kilograms in total. [@2]
+
+The inspection was carried out with canine teams from the K9 unit. [@2] Shipping
+labels on the boxes said the shipment came from Tlaquepaque and was addressed to
+Monterrey, Nuevo León. [@3] The marijuana was already packaged and ready to be
+sent to another state. [@6] The parcels contained green plant material with the
+characteristics of marijuana, weighing 400 kilograms in total. [@5]
+
+No detentions had been reported in the case. [@3] The cargo was handed to the
+federal prosecutor's office, which is to establish its origin, destination and
+those responsible. [@2]
+
