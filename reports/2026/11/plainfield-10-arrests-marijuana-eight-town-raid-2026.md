@@ -60,6 +60,10 @@ sources:
     url: https://patch.com/new-jersey/westfield/plainfield-drug-probe-leads-10-arrests-guns-narcotics-seized
     publisher: Westfield, NJ Patch
     date: 2026-11-20
+  - title: New Brunswick Man Among 10 Arrested in Major Drug Bust
+    url: https://www.tapinto.net/towns/new-brunswick/sections/police-and-fire/articles/new-brunswick-man-among-10-arrested-in-major-drug-bust
+    publisher: TAPinto
+    date: 2026-11-20
 open_questions:
   - The marijuana weight is given only as more than 10 pounds, about 4.536 kg, with no more precise figure published.
   - The $40,000 in cash is described as more than, so the exact amount seized is not known.
@@ -72,29 +76,28 @@ open_questions:
 Ten people were arrested in a drug operation spanning eight New Jersey towns,
 authorities announced on 20 November 2026. [@1] Union County Prosecutor William
 A. Daniel said the arrests followed a long-term investigation into a drug
-distribution network operating mainly in Plainfield. [@1] On Wednesday 18
+distribution network operating mainly in Plainfield. [@1,3] On Wednesday 18
 November, officers executed 11 search warrants and multiple arrest warrants in
 Plainfield, Roselle, Rahway, Berkeley Heights, New Brunswick, Somerset, Hillside
-and Dunellen. [@1] The investigation was led by the Union County Prosecutor's
+and Dunellen. [@1,3] The investigation was led by the Union County Prosecutor's
 Office Intelligence and Narcotics Division, the FBI Newark Field Office, the DEA
 New York Enforcement Division and the Plainfield Police Department Narcotics
-Unit. [@1] More than 20 law enforcement agencies and specialized units assisted,
-including SWAT teams, K-9 units and federal task forces. [@1]
+Unit. [@1,3] More than 20 law enforcement agencies and specialized units assisted,
+including SWAT teams, K-9 units and federal task forces. [@1] Among the many law enforcement bodies involved were police departments in Plainfield, Roselle, Rahway, Elizabeth, Berkeley Heights and Springfield, sheriff's and prosecutors' offices, the New Jersey State Police and Homeland Security investigations. [@3]
 
 Authorities seized more than 10 pounds of suspected marijuana alongside more
 than 1.5 kilograms of suspected powder cocaine, more than 1,000 folds of
-suspected heroin, more than $40,000 in cash and three handguns. [@2] The raids
+suspected heroin, more than $40,000 in cash and three handguns. [@2,3] The raids
 also turned up equipment used to package drugs and operate a drug mill. [@1]
 
 Luis Camino, 44, of Plainfield, faced first-degree charges of leading a
 narcotics trafficking network, maintaining a drug production facility and
 possession with intent to distribute, plus weapons, conspiracy, drug possession
-and child endangerment counts. [@1] Julian Molina, 32, of New Brunswick, was
+and child endangerment counts. [@1,3] Julian Molina, 32, of New Brunswick, was
 charged with second-degree conspiracy, possession with intent to distribute
-drugs and marijuana distribution. [@1] Jesus Vega, 44, of Somerset, faced
+drugs and marijuana distribution. [@1,3] Molina also faced a fourth-degree charge of possessing more than 6 ounces of marijuana. [@3] Jesus Vega, 44, of Somerset, faced
 first-degree possession with intent to distribute, second-degree conspiracy and
-additional drug and marijuana offences. [@1] The charges against the group
+additional drug and marijuana offences. [@1] Jose Dilone, 51, of Hillside, and Maribel Zamudio, 39, of Dunellen, each faced a second-degree charge of conspiracy to distribute a controlled dangerous substance. [@3] Aneesha Rosado, 40, Jose Tirado, 41, and William Camino, 48, all of Plainfield, each faced a second-degree charge of conspiracy to distribute a controlled dangerous substance. [@3] Maritza Brackman, 65, of Berkeley Heights, and Michael Retamar-Torres, 51, of Rahway, each faced third-degree charges of conspiracy to possess and possession of controlled dangerous substances. [@3] The charges against the group
 ranged from conspiracy and possession offences to first-degree narcotics
 distribution counts. [@2] Daniel said the operation showed what agencies could
 achieve by pooling their resources and intelligence. [@1]
-
