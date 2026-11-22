@@ -91,30 +91,35 @@ sources:
     publisher: Dziennik Elbląski
     date: 2026-11-20
     language: pl
+  - title: Elblążanin hurtownikiem marihuany
+    url: https://www.portel.pl/prawo-i-porzadek/elblazanin-hurtownikiem-marihuany/151961
+    publisher: portEl.pl
+    date: 2026-11-20
+    language: pl
 open_questions:
     - No estimate of the marihuana's value or of the weight of the individual packages was published.
     - No trial date or further court outcome was reported; the investigation passed to the regional prosecutor's office in Elbląg on 3 November 2026 and was continuing.
     - The sources do not say where the 34 kilograms came from or how the man is alleged to have obtained them.
-    - 'Accounts describe the division of the 34 kg differently: the police statement counts 20 packages in the car and 14 in the building, garage and another vehicle, while the Elbląg daily puts 30 kg on the plot and 4 kg in the car.'
+    - 'Accounts describe the division of the 34 kg differently: the police statement counts 20 packages in the car and 14 in the building, garage and another vehicle, while the Elbląg daily and portEl.pl put 30 kg on the plot and 4 kg in the car.'
     - The precise date of 23 October 2026 comes from local reporting; the CBŚP announcement placed the operation in the second half of October.
 ---
 
 Officers of CBŚP's Elbląg division detained a 41-year-old man on a recreational
-plot in Ostróda County as he packed cartons into a passenger car. [@1,3,4] The man lived in Elbląg. [@4,5] Inside
-the car were 20 vacuum-packed packages of marihuana. [@1,3,4,5] A further search of a
+plot in Ostróda County as he packed cartons into a passenger car. [@1,3,4] The man lived in Elbląg. [@4,5,7] Inside
+the car were 20 vacuum-packed packages of marihuana. [@1,3,4,5,7] A further search of a
 recreational building, a garage and another vehicle found 14 more packages of
-the drug. [@1,3,4,5] Police took the man to the District Prosecutor's Office in
-Ostróda, where he was formally charged. [@1,3,4] He was charged with participation in the trafficking of a significant quantity of intoxicating substances. [@5,6] He faces two to twelve years in prison if convicted. [@4,5] On the prosecution's application
-the District Court in Ostróda ordered his temporary arrest. [@1,3,4] The court ordered him held in temporary custody for three months. [@4,5]
+the drug. [@1,3,4,5,7] Police took the man to the District Prosecutor's Office in
+Ostróda, where he was formally charged. [@1,3,4] He was charged with participation in the trafficking of a significant quantity of intoxicating substances. [@5,6,7] He faces two to twelve years in prison if convicted. [@4,5,7] On the prosecution's application
+the District Court in Ostróda ordered his temporary arrest. [@1,3,4] The court ordered him held in temporary custody for three months. [@4,5,7]
 
-In total the officers secured 34 kilograms of ready dried marihuana. [@1,3,4,5,6] They
+In total the officers secured 34 kilograms of ready dried marihuana. [@1,3,4,5,6,7] They
 also recovered items indicating the use of camouflage methods and preparation of
-the drugs for distribution on a wide scale. [@1]
+the drugs for distribution on a wide scale. [@1,7]
 
 Information gathered by officers indicated the property could be used to store
-drugs before they were distributed further. [@1,4,5] Officers learned of the plot while investigating a group dealing in wholesale drug trafficking in Elbląg County. [@6] The plot was in Miłomłyn commune, Ostróda County. [@4,5] Officers began verifying the
+drugs before they were distributed further. [@1,4,5,7] Officers learned of the plot while investigating a group dealing in wholesale drug trafficking in Elbląg County. [@6,7] The plot was in Miłomłyn commune, Ostróda County. [@4,5,7] Officers began verifying the
 information in the second half of October. [@1] Officers entered the property on 23 October 2026. [@4,6] The information indicated that
 the drugs were stored on the property before further distribution. [@2] The man
 was known to have contacts with the football hooligan milieu of an Elbląg sports
-club. [@1,4,5] The case remains open as investigators seek to establish all the
-circumstances and identify any others involved. [@1,4,5] On 3 November 2026 the regional prosecutor's office in Elbląg took over the investigation. [@6]
+club. [@1,4,5,7] The case remains open as investigators seek to establish all the
+circumstances and identify any others involved. [@1,4,5,7] On 3 November 2026 the regional prosecutor's office in Elbląg took over the investigation. [@6]
