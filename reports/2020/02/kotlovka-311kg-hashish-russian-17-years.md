@@ -92,11 +92,16 @@ sources:
     publisher: Reform.news
     date: 2019-05-03
     language: ru
+  - title: Изъятая на границе партия гашиша уменьшилась на 21 кг
+    url: https://reform.news/izjataja-na-granice-partija-gashisha-umenshilas-na-11-kg/
+    publisher: Reform.news
+    date: 2019-10-31
+    language: ru
 open_questions:
-  - Delfi's article body said more than 300 kg of hashish, while Interfax quoted the border committee as more than 311 kg and Reform.news, citing the committee, gave 311.12 kg; the report uses 311.12 kg.
-  - The driver's name was not published.
-  - No appeal or later outcome after the February 2020 sentence was reported.
-  - 26 February 2020 is the publication date of the sentence report; the hearing day itself was not stated.
+    - 'Accounts of the weight differ: Delfi reported more than 300 kg, Interfax quoted the border committee as more than 311 kg, Reform.news cited the committee''s 311.12 kg, and the Investigative Committee''s October 2019 account said more than 290 kg; the report uses 311.12 kg.'
+    - The driver's name was not published.
+    - No appeal or later outcome after the February 2020 sentence was reported.
+    - 26 February 2020 is the publication date of the sentence report; the hearing day itself was not stated.
 ---
 
 On 26 February 2020 the Grodno Regional Court sentenced a 46-year-old Russian
@@ -104,7 +109,7 @@ citizen to 17 years in prison for illegally moving narcotics across the border.
 [@3] The State Border Committee said he was found guilty and would serve the
 term in a correctional colony under a reinforced regime. [@3] He had been
 stopped in May 2019 at the Kotlovka checkpoint while entering Belarus from
-Lithuania. [@3]
+Lithuania. [@3,5]
 
 On 2 May 2019 border guards, using a service dog, checked his Russian-registered
 Citroen minibus on the green channel as he entered from Lithuania. [@2] An
@@ -112,15 +117,14 @@ in-depth search with customs officers found a false floor in the minibus holding
 bricks of a brown plant substance. [@2] An expert concluded that the substance
 was hashish, and the border committee said it weighed more than 311 kilograms.
 [@2] A later account citing the border committee said the hiding places held
-3,012 hashish tiles weighing 311.12 kilograms. [@3] The same May 2019
+3,012 hashish tiles weighing 311.12 kilograms. [@3,5] The same May 2019
 border-committee figure of 311.12 kilograms was given for the substance found
 under the false floor. [@4] The inquiry body of the Smorgon border group opened
-a criminal case under article 328-1 of the Criminal Code of Belarus. [@2] The
+a criminal case under article 328-1 of the Criminal Code of Belarus. [@2] The Investigative Committee reported that the investigation into the drug trafficking case had been completed. [@5] The
 driver was detained and placed in the temporary detention facility of the
 Smorgon border group. [@2] Belarusian border guards detained the Russian citizen
 on suspicion of drug smuggling after checking him at the Kotlovka checkpoint on
-2 May as he drove from Lithuania into Belarus. [@1]
+2 May as he drove from Lithuania into Belarus. [@1] The criminal case, brought under part 3 of article 328 and part 2 of article 328-1 of the Criminal Code of Belarus, was passed to a prosecutor for referral to court and the man was taken into custody. [@5]
 
 The trial began in November 2019. [@3] The border committee said the consignment
-was intended for the Russian market. [@3]
-
+was intended for the Russian market. [@3,5]
