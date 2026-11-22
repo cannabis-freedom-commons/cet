@@ -108,30 +108,33 @@ sources:
     publisher: TorrijosToday
     date: 2026-11-20
     language: es
-open_questions:
-    - One account describes the nine searches as carried out at two homes in the two municipalities, while four homes were found to contain cannabis plantations.
+  - title: Cinco detenidos y cuatro plantaciones de marihuana desmanteladas en Cuevas del Campo y Pozo Alcón
+    url: https://www.elconfidencial.com/espana/andalucia/2026-11-20/policia-desmantela-plantaciones-marihuana-baza-1tna-1tps_4469439/
+    publisher: elconfidencial.com
+    date: 2026-11-20
+    language: es
 ---
 
 Policía Nacional officers from the Baza commissariat in Granada arrested five
 people and dismantled four cannabis plantations inside homes in Pozo Alcón, in
-Jaén province, and Cuevas del Campo, in Granada province. [@1,5,6,7,8,9,10] The five detained
+Jaén province, and Cuevas del Campo, in Granada province. [@1,5,6,7,8,9,10,11] The five detained
 were three men and two women aged between 32 and 56, all with previous police
-records. [@1,4,5,7,8,9,10] Officers carried out nine searches in the early hours of Thursday
-19 November under an operation named Operación Carpintero. [@1,4,5,6,7,8,9,10]
+records. [@1,4,5,7,8,9,10,11] Officers carried out nine searches in the early hours of Thursday
+19 November under an operation named Operación Carpintero. [@1,4,5,6,7,8,9,10,11]
 
 In four of the homes searched police found rooms fitted out for cultivation with
-lighting, aeration and ventilation systems. [@1,4,5,6,7,8,9,10] They seized more than 1,700
+lighting, aeration and ventilation systems. [@1,4,5,6,7,8,9,10,11] They seized more than 1,700
 cannabis plants at different stages of growth, some of them in advanced
-flowering, distributed across the rooms. [@1,4,5,7,8,9,10] The same searches produced 800
+flowering, distributed across the rooms. [@1,4,5,7,8,9,10,11] The same searches produced 800
 grams of hashish, 50 grams of cocaine, jewellery, 1,500 euros in cash, three
 high-end vehicles, knives and air guns, ammunition, mobile phones, precision
-scales, vacuum-packing machines and body armour. [@1,4,5,7,8,9,10] Some of the homes had
-high-security doors that made it harder for officers to get in. [@1,4,5,7,8,9,10] During the
-searches police also found illegal connections to the electricity supply. [@1,4,5,7,8,9,10]
+scales, vacuum-packing machines and body armour. [@1,4,5,7,8,9,10,11] Some of the homes had
+high-security doors that made it harder for officers to get in. [@1,4,5,7,8,9,10,11] During the
+searches police also found illegal connections to the electricity supply. [@1,4,5,7,8,9,10,11]
 
 The five are being investigated for drug trafficking, membership of a criminal
-group and electricity fraud. [@1,4,5,7,8,9,10] The operation remained open and further
-arrests were not ruled out. [@3,5,6,7,8,9,10] Police had identified other people they had yet
+group and electricity fraud. [@1,4,5,7,8,9,10,11] The operation remained open and further
+arrests were not ruled out. [@3,5,6,7,8,9,10,11] Police had identified other people they had yet
 to detain, Hora Jaén reported. [@2,9] Officers from the local commissariat in Baza
 and the provincial commissariat in Granada, from judicial police and public
-security units, took part. [@1,4,5,7,8,9,10]
+security units, took part. [@1,4,5,7,8,9,10,11]
