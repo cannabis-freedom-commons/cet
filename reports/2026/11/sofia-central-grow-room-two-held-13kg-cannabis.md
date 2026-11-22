@@ -80,30 +80,26 @@ sources:
     publisher: Столица.bg
     date: 2026-11-20
     language: bg
-open_questions:
-    - The address is given only as in the central part of Sofia; no district or street is named.
-    - The 60 count is of pots with plants; the number of individual plants is not given.
-    - A small amount of cocaine was seized in the same raid and is not counted in the cannabis figures.
-    - The 28-year-old man was detained but no charge or detention measure was reported for him.
-    - No court decision on the woman's continued detention beyond the 72-hour measure is reported.
-    - No estimate of the drugs' value was published.
-    - Whether the address was a flat, a house or other premises is not stated.
-    - The statements and news reports all describe the same operation, so the account rests on one police statement.
+  - title: 'Разкриха наркооранжерия в центъра на София: Иззеха 60 саксии с канабис и килограми марихуана'
+    url: https://mediamall.info/news/razkriha-narkooranzheriya-v-centara-na-sofiya-izzeha-60-saksii-s-kanabis-i-kilogrami-marihuana-82281news.html
+    publisher: Mediamall
+    date: 2026-11-20
+    language: bg
 ---
 
 Police raided a cannabis grow room at an address in central Sofia on 18 November
-2026 and detained two people. [@1,3,4] The operation was run by officers of the
-Eighth District Police Department's crime-fighting section. [@2,4] Those detained
+2026 and detained two people. [@1,3,4,5] The operation was run by officers of the
+Eighth District Police Department's crime-fighting section. [@2,4,5] Those detained
 were a 28-year-old man, known to police and previously convicted, and a
-25-year-old woman. [@1,3,4] The Sofia City Prosecutor's Office charged the woman,
-who was held for up to 72 hours. [@1,3,4]
+25-year-old woman. [@1,3,4,5] The Sofia City Prosecutor's Office charged the woman,
+who was held for up to 72 hours. [@1,3,4,5]
 
 In the grow room officers seized 60 pots with plants and about 6 kg of green
 plant matter. [@2,3,4] They also took electronic scales, dehumidifiers, dryers,
 chemicals and the irrigation, ventilation and lighting equipment of the
-greenhouse. [@2,4] An expert report identified 13 kg of harvested marijuana buds,
+greenhouse. [@2,4,5] An expert report identified 13 kg of harvested marijuana buds,
 more than 3 kg of hemp and 6 kg of green leaf matter, as well as a small amount
-of cocaine. [@1,3,4] The ministry said the seized plant matter totalled more than 22 kg. [@4]
+of cocaine. [@1,3,4,5] The ministry said the seized plant matter totalled more than 22 kg. [@4]
 
 A pre-trial case was opened under Article 354a, paragraph 1, of the Criminal
 Code. [@1,3] The ministry said officers checked the address after receiving
