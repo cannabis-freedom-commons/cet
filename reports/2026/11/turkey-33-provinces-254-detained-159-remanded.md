@@ -71,25 +71,30 @@ sources:
     publisher: Sabah
     date: 2026-11-20
     language: tr
+  - title: '33 ilde uyuşturucu operasyonu: 159 kişi tutuklandı - Son Dakika Haberler'
+    url: https://www.hurriyet.com.tr/gundem/33-ilde-uyusturucu-operasyonu-159-kisi-tutuklandi-43384878
+    publisher: Hürriyet
+    date: 2026-11-20
+    language: tr
 ---
 
 Gendarmerie teams detained 254 suspects in operations against drug sellers and
 illegal cannabis cultivation in 33 provinces, the Interior Ministry said on 20
-November 2026. [@1,4,5,6,7] The operations were run by provincial gendarmerie commands
+November 2026. [@1,4,5,6,7,8] The operations were run by provincial gendarmerie commands
 under the Gendarmerie General Command's narcotics department and chief public
-prosecutors' offices. [@2,4,6,7] The ministry said 1,620 narcotics and public-order
+prosecutors' offices. [@2,4,6,7,8] The ministry said 1,620 narcotics and public-order
 teams and 8,105 personnel took part, with analysis and surveillance teams from
-its narcotics department. [@1,4,5,7]
+its narcotics department. [@1,4,5,7,8]
 
 The ministry said the suspects grew cannabis and skunk illegally to supply drug
 production, ran drug trafficking in an organised way and sold narcotics through
-social media and messaging apps. [@1,4,5,6,7] The operations targeted the offence of
-manufacturing and trading narcotic or psychotropic substances. [@2,7] Officers
+social media and messaging apps. [@1,4,5,6,7,8] The operations targeted the offence of
+manufacturing and trading narcotic or psychotropic substances. [@2,7,8] Officers
 seized 504 kilograms of narcotics and 104,056 drug pills, a combined figure the
-ministry did not break down by substance. [@2,4,5,6,7] Numerous cannabis and skunk
-plants were also destroyed, the ministry said. [@3,4,5,7]
+ministry did not break down by substance. [@2,4,5,6,7,8] Numerous cannabis and skunk
+plants were also destroyed, the ministry said. [@3,4,5,7,8]
 
 Of the 254 detained, 159 were arrested and remanded in custody, and judicial
-control measures were imposed on the other 95. [@1,4,5,6,7] The ministry's statement
+control measures were imposed on the other 95. [@1,4,5,6,7,8] The ministry's statement
 named the 33 provinces, among them Adana, Ankara, Diyarbakır, Hakkari, İstanbul,
 İzmir, Şanlıurfa, Şırnak, Tekirdağ and Van. [@2,7]
