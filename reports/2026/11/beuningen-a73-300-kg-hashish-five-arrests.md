@@ -104,6 +104,11 @@ sources:
     publisher: AD.nl
     date: 2026-11-20
     language: nl
+  - title: Politie neemt 300 kilo hasj in beslag na achtervolging bij Beuningen
+    url: https://www.dg.nl/video/productie/politie-neemt-300-kilo-hasj-in-beslag-na-achtervolging-bij-beuningen-15095800
+    publisher: Gelderlander.nl
+    date: 2026-11-20
+    language: nl
 open_questions:
     - The police described the find as 'ruim 300 kilo' (just over 300 kilograms); no exact measured weight was published.
     - 'The accounts place the search differently: the police said the hidden compartment was found in a vehicle in Oosterhout, while NOS reported the lorry was searched at the police station in Nijmegen.'
@@ -113,7 +118,7 @@ open_questions:
 ---
 
 Dutch police arrested five men on suspicion of money laundering and drug
-possession. [@1,2,5,7,8,9] The five arrests were made on Thursday 19 November 2026. [@2,5,6,7,8]
+possession. [@1,2,5,7,8,9,10] The five arrests were made on Thursday 19 November 2026. [@2,5,6,7,8]
 The operation began around 20:00 when an automatic number-plate recognition
 alert flagged a vehicle, and after the driver ignored a stop sign a short chase
 ended on the A73 at Beuningen where the driver and passenger were arrested. [@2,5,9]
@@ -123,7 +128,7 @@ men aged 18 and 19 from Tilburg. [@2,5,9] Omroep Brabant reported that four of t
 held were from Tilburg and one had no fixed residence. [@4,6,8]
 
 Searching the vehicles in Oosterhout, officers found a hidden compartment in one
-of them holding over 300 kilograms of hashish, the police said. [@2,5,6,7,8,9] According
+of them holding over 300 kilograms of hashish, the police said. [@2,5,6,7,8,9,10] According
 to NOS, the lorry was taken under police escort to the station in Nijmegen,
 where officers opened parts of the roof and found a concealed space behind the
 cab from which dozens of bags were removed. [@3] The police said all five
