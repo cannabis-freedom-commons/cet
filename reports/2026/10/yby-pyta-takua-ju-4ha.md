@@ -59,23 +59,33 @@ sources:
     publisher: ADN Digital
     date: 2026-10-29
     language: es
+  - title: Senad destruye plantaciones de marihuana en Yby Pytá
+    url: https://www.latribuna.com.py/sucesos/policiales/2026/10/29/senad-destruye-plantaciones-de-marihuana-en-saltos-del-guaira/
+    publisher: La Tribuna
+    date: 2026-10-29
+    language: es
 media:
   - kind: photo
     url: https://www.ultimahora.com/agentes-antidrogas-destruyen-12-toneladas-de-marihuana-en-colonia-indigena-de-canindeyu
     media_url: https://k2-prod-grupo-vierci.s3.us-east-1.amazonaws.com/brightspot/b9/f1/b77018f243cea0ccd71cbf5fb831/incautacion-en-yby-pyta.jpg
     publisher: Última Hora (SENAD)
     caption: SENAD agents destroying marijuana plants at the Takua Ju site, in a photograph released by the agency.
+  - kind: photo
+    url: https://www.latribuna.com.py/sucesos/policiales/2026/10/29/senad-destruye-plantaciones-de-marihuana-en-saltos-del-guaira/
+    media_url: https://www.latribuna.com.py/resizer/v2/PYKXMGRCWJD5TDLFGA4NNAOV34.jpg?smart=true&width=800&height=450&quality=75&auth=8ed97874597a3bfb0a3e325d45ef4b8f7132b1acb4a8b167d1bc93b4bc11c94e
+    publisher: La Tribuna
+    caption: The marijuana plantation destroyed at the Takua Ju site, in a photograph published with La Tribuna's report.
 ---
 
 Agents of Paraguay's anti-drug secretariat, SENAD, from the Salto del Guairá regional department,
 eradicated four hectares of illicit cannabis in the Indigenous colony Takua Ju, in the district of
-Yby Pytã, Canindeyú department. [@1,2,3] The agency said the cleared fields were equivalent to about
-12 tonnes of marijuana. [@1,2,3]
+Yby Pytã, Canindeyú department. [@1,2,3,4] The agency said the cleared fields were equivalent to about
+12 tonnes of marijuana. [@1,2,3,4]
 
 They also destroyed another 1,600 kilograms of marijuana that was drying, and dismantled a makeshift
-camp used to store tools and gear for the crop. [@1,2,3] Together the destroyed material comes to
-13,600 kilograms. [@1] SENAD estimated that selling that quantity on the Brazilian market would have
-brought more than USD 2 million to the criminal groups involved. [@1,2,3]
+camp used to store tools and gear for the crop. [@1,2,3,4] Together the destroyed material comes to
+13,600 kilograms. [@1,4] SENAD estimated that selling that quantity on the Brazilian market would have
+brought more than USD 2 million to the criminal groups involved. [@1,2,3,4]
 
-Prosecutor Juan Benegas accompanied the operation. [@1,2,3] Última Hora, citing SENAD, says no one
+Prosecutor Juan Benegas accompanied the operation. [@1,2,3,4] Última Hora, citing SENAD, says no one
 was found at the site and no arrests were made. [@2]
