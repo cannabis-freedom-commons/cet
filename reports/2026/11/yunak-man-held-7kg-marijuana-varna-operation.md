@@ -56,6 +56,11 @@ sources:
     publisher: 24 Часа
     date: 2026-11-21
     language: bg
+  - title: Задържаха мъж със 7 килограма марихуана край Варна
+    url: https://trafficnews.bg/krimi/zadarzhaha-mazh-sas-7-kilograma-marihuana-krai-varna-395650/
+    publisher: Trafficnews.bg
+    date: 2026-11-21
+    language: bg
 open_questions:
   - The operation as a whole detained 24 people, described by police as suspected of various ordinary crimes; the reports do not say how many of those detentions, besides the Yunak man, are drug-related.
   - The 7 kilograms is the police's approximate figure; no exact weight and no laboratory confirmation of the drug were published.
@@ -65,19 +70,18 @@ open_questions:
 ---
 
 Police in Bulgaria's Varna province detained a 50-year-old man in the village of
-Yunak on suspicion of growing and distributing marijuana. [@1] The detention
+Yunak on suspicion of growing and distributing marijuana. [@1,3] The detention
 came during a specialised one-day police operation against property crime and
-traffic offences across Varna province on 20 November 2026. [@1] The operation
+traffic offences across Varna province on 20 November 2026. [@1,3] The operation
 was run by the Varna regional police directorate. [@2]
 
 Searches of the man's home and his car turned up about 7 kilograms of marijuana,
-which criminal investigators seized. [@2] In the same operation officers checked
-207 people and 203 vehicles. [@1] Officers recorded 107 traffic violations, 47
-of them spotted by unmarked police cars, and issued 103 electronic fines. [@1]
+which criminal investigators seized. [@2,3] In the same operation officers checked
+207 people and 203 vehicles. [@1,3] Officers recorded 107 traffic violations, 47
+of them spotted by unmarked police cars, and issued 103 electronic fines. [@1,3]
 
 The case was one of two drug-distribution cases that the operation uncovered,
-and pre-trial proceedings were opened in both. [@1] The second, on the
+and pre-trial proceedings were opened in both. [@1,3] The second, on the
 Dalgopol–Sava road near the Asparuhovo turn-off, followed an investigation into
 methamphetamine distribution in the municipalities of Dalgopol and Dolni Chiflik
 and concerns a different substance. [@1]
-
