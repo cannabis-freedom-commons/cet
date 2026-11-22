@@ -39,6 +39,11 @@ sources:
     publisher: TBS NEWS DIG（東北放送）
     date: 2026-11-20
     language: ja
+  - title: １４歳の中学生が大麻所持の疑いで書類送検 「大麻を吸ったことは間違いない」と容疑認める〈仙台〉
+    url: https://topics.smt.docomo.ne.jp/article/oxtv/region/oxtv-32424?fm=latestnews
+    publisher: 仙台放送ＮＥＷＳ / dメニューニュース（NTTドコモ）
+    date: 2026-11-20
+    language: ja
 open_questions:
   - No separate date was given for the referral to prosecutors; 20 November 2026 is the publication date and stands in as the incident date, while the alleged use was around 6 September 2026.
   - The FNN headline calls the suspicion cannabis possession while its text and the TBS account describe cannabis use, and the two outlets name different drug-control statutes.
@@ -50,15 +55,14 @@ open_questions:
 A 14-year-old male middle school student who lives in Wakabayashi Ward in the
 city of Sendai was referred to the Sendai District Prosecutors Office on
 suspicion of violating drug-control law in connection with cannabis, according
-to police. [@1] The referral was made over suspicion that the student had used
-cannabis in September 2026. [@1] Police said the alleged use took place around 6
-September 2026 within Wakabayashi Ward. [@1] Questioned by officers, the student
+to police. [@1,3] The referral was made over suspicion that the student had used
+cannabis in September 2026. [@1,3] Police said the alleged use took place around 6
+September 2026 within Wakabayashi Ward. [@1,3] Questioned by officers, the student
 admitted the allegation, saying that there was no mistake about the fact that he
-had smoked cannabis. [@1]
+had smoked cannabis. [@1,3]
 
 The case came to the attention of police after a relative of the middle school
 student sought advice in early September. [@2] Officers investigating the case
 detected cannabis components in the student's urine. [@2] Police said they are
 continuing the investigation, including work to identify the route by which the
-student obtained the cannabis. [@1]
-
+student obtained the cannabis. [@1,3]
