@@ -78,19 +78,21 @@ sources:
     publisher: Neuquén al instante
     date: 2026-11-20
     language: es
-open_questions:
-  - The police statement gives the cannabis as 23.4 grams, while the prosecution account reported by two outlets gives 23.6 grams; the report uses the police figure.
-  - Six people were imputed according to the police statement, but charges were filed against four; the status of the other two is not reported.
-  - The reports do not say whether the 11 plants were taken away or uprooted and destroyed.
-  - No laboratory confirmation of the cannabis was reported; prosecutors said chemical tests on the seized substances were still pending.
-  - The 298.7 grams of cocaine, the cash and the vehicles come from the same operation and are excluded from the cannabis figures.
-  - 'Accounts differ on the number of homes searched: the provincial statement says five homes were identified as sales points, while prosecution reporting names three streets with sales points plus one property used for storage.'
-  - No value estimate for the cannabis was published.
-  - No plea or court outcome has been reported; the four were placed under house arrest while the prosecution has four months to finish its investigation.
+  - title: Detuvieron a cuatro personas y secuestraron drogas tras múltiples allanamientos en Senillosa
+    url: https://fuego24.com/provinciales/detuvieron-a-cuatro-personas-y-secuestraron-drogas-tras-multiples-allanamientos-en-senillosa/
+    publisher: Fuego 24
+    date: 2026-11-20
+    language: es
+media:
+  - kind: photo
+    url: https://fuego24.com/provinciales/detuvieron-a-cuatro-personas-y-secuestraron-drogas-tras-multiples-allanamientos-en-senillosa/
+    media_url: https://fuego24.com/wp-content/uploads/2026/11/md-VvuiP2-768x511.webp
+    publisher: Fuego 24
+    caption: 'Police officers lead a handcuffed detainee past police vehicles during the Senillosa raids. Photo: Fuego 24'
 ---
 
 Four people were arrested and two others were named as suspects in an
-investigation into drug sales in Senillosa. [@1] The raids were carried out on
+investigation into drug sales in Senillosa. [@1,6] The raids were carried out on
 Wednesday 18 November 2026. [@1] Six people in all were imputed, four of them
 detained, and two homes were ordered closed. [@1] Prosecutors charged four
 people with selling drugs from homes in the town. [@4] The charge is aggravated
@@ -100,22 +102,21 @@ addresses with electronic monitoring. [@3] The judge granted the requests and
 closed two properties, on Fulverto Alvial and Laprida streets, for four months.
 [@3]
 
-Officers seized 23.4 grams of marijuana and 11 cannabis plants. [@1] The same
+Officers seized 23.4 grams of marijuana and 11 cannabis plants. [@1,6] The same
 raids seized 298.7 grams of cocaine hydrochloride, which is not counted in the
 cannabis figures. [@1] Officers also seized 799,300 pesos in cash, eight mobile
-phones, a card terminal, a car and five motorcycles. [@1] Police found four
-precision scales, a homemade firearm and 26 cartridges. [@1]
+phones, a card terminal, a car and five motorcycles. [@1,6] Police found four
+precision scales, a homemade firearm and 26 cartridges. [@1,6]
 
 The sales points identified by investigators were on Laprida, Corrientes and
 Federico Cartés streets. [@3] The four were accused of selling from their homes
 and through delivery. [@3] Investigators linked five homes where drugs were
-sold, the provincial government said. [@2] A property on Fulverto Alvial street
+sold, the provincial government said. [@2,6] A property on Fulverto Alvial street
 was used to store drugs, money and vehicles, according to the investigation.
 [@3] The investigation began with anonymous complaints made through the
 prosecutor's QR code and the Neuquén Te Cuida app. [@3] The prosecution's case
 covers conduct from 20 May to 18 November 2026. [@3] 44 officers from the
 Antinarcóticos Department and the Cutral Co and Comarca divisions took part.
-[@5] The judge gave the prosecution four months to complete the investigation.
+[@5,6] The judge gave the prosecution four months to complete the investigation.
 [@3] The operation was run by the Dirección Antinarcóticos of the Neuquén police
 after a request from the Unidad Fiscal de Narcocriminalidad. [@1]
-
