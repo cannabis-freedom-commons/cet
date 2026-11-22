@@ -62,22 +62,27 @@ sources:
     url: https://e.vnexpress.net/news/news/crime/malaysian-police-seize-over-650-kg-of-cannabis-at-kuala-lumpur-airport-5090056.html
     publisher: VnExpress International
     date: 2026-06-25
+  - title: Police seize 650kg cannabis buds at KLIA, 38 arrested in drug trafficking probe
+    url: https://www.nst.com.my/news/nation/2026/06/1471501/police-seize-650kg-cannabis-buds-klia-38-arrested-drug-trafficking
+    publisher: New Straits Times
+    date: 2026-06-24
+    language: en
 open_questions:
-  - Police did not name the nationalities of the three foreign suspects beyond describing one as European; The Star gives the age of the first suspect only as in his thirties.
-  - The three operations were announced together at one press conference; the report is dated to the first arrest on 17 June.
-  - Underlying charges were not read out; police said only that the case is being investigated under Section 39B of the Dangerous Drugs Act 1952.
-  - No court stage, plea or bail outcome after the seven-day remand was reported.
-  - The Star gives the total value as RM13.73 million; the itemised values reported for each stop add up to about the same figure.
-  - No figure for the number of luggage pieces beyond those described at each stop was published.
-  - The 653.6 kg seized at KLIA from January to June 2026 and the 38 arrests with 28 charged that police cited are period totals and are left out of this event's figures.
+    - Police did not name the nationalities of the three foreign suspects beyond describing one as European; The Star gives the age of the first suspect only as in his thirties.
+    - The three operations were announced together at one press conference; the report is dated to the first arrest on 17 June.
+    - Underlying charges were not read out; police said only that the case is being investigated under Section 39B of the Dangerous Drugs Act 1952.
+    - No court stage, plea or bail outcome after the seven-day remand was reported.
+    - The Star gives the total value as RM13.73 million; the itemised values reported for each stop add up to about the same figure.
+    - The six suitcases and four sacks holding the 270 compressed blocks were not allocated to individual stops.
+    - The 653.6 kg seized at KLIA from January to June 2026 and the 38 arrests with 28 charged that police cited are period totals and are left out of this event's figures.
 ---
 
 Selangor police arrested four suspects, including one Malaysian, in three
 cannabis distribution operations between 17 and 22 June 2026, Selangor police
 chief Comm Datuk Shazeli Kahar said at a press conference at the contingent
-headquarters in Shah Alam on 24 June. [@1] Police seized 171.6 kg of suspected
+headquarters in Shah Alam on 24 June. [@1,4] Police seized 171.6 kg of suspected
 marijuana buds in the three operations, which they valued at about RM13.73
-million. [@1]
+million. [@1,4] Police seized 270 compressed blocks of cannabis buds found in six suitcases and four sacks recovered at the airport and the house. [@4]
 
 On 17 June officers flagged two pieces of luggage for scanning at Terminal 1 of
 Kuala Lumpur International Airport (KLIA) and arrested a foreign man in his
@@ -92,13 +97,12 @@ luggage, and about 34 kg of marijuana buds worth RM2.72 million were found. [@1]
 
 The operations took place around KLIA Terminal 1, a hotel in Bandar Enstek,
 Negeri Sembilan, and a house in Banting, Kuala Langat, believed to have been
-used as a cannabis storage facility. [@3] All four suspects were remanded for
+used as a cannabis storage facility. [@3,4] All four suspects were remanded for
 seven days and the case is being investigated under Section 39B of the Dangerous
-Drugs Act 1952, which covers trafficking. [@2]
+Drugs Act 1952, which covers trafficking. [@2,4]
 
 Shazeli said most cannabis buds came into Malaysia from several Southeast Asian
 countries before being flown on, especially to Europe, and that tighter checks
 at strategic gateways, particularly both KLIA terminals, had led to more
-seizures. [@2] The Star reported that all the arrested suspects had no prior
+seizures. [@2,4] The Star reported that all the arrested suspects had no prior
 police records. [@1]
-
