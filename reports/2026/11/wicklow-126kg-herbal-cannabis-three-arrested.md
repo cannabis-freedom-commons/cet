@@ -67,6 +67,10 @@ sources:
     publisher: localnews.ie
     date: 2025-10-15
     language: en
+  - title: Wicklow woman admits possessing €252,000 worth of cannabis for sale or supply
+    url: https://www.crimeworld.com/courts/wicklow-woman-admits-possessing-252000-worth-of-cannabis-for-sale-or-supply/a/164899070.html
+    publisher: Crime World
+    date: 2026-11-21
 media:
   - kind: photo
     url: https://www.independent.ie/county/wicklow/wicklow-woman-admits-possessing-252000-worth-of-cannabis-for-sale-or-supply/a/164595959.html
@@ -75,8 +79,8 @@ media:
     caption: 'The drugs seized. Photo: Darragh McCann'
 ---
 
-Gardaí and Revenue officers seized 12.6 kg of herbal cannabis with an estimated value of €252,000 in Co. Wicklow on Friday 3 October 2025, in an intelligence-led joint operation. [@1,2] The operation brought together the Garda National Drugs and Organised Crime Bureau, the Bray Drugs Unit, the Bray and Arklow District Detective Units and Revenue's Customs Service. [@1,2,3]
+Gardaí and Revenue officers seized 12.6 kg of herbal cannabis with an estimated value of €252,000 in Co. Wicklow on Friday 3 October 2025, in an intelligence-led joint operation. [@1,2] The operation brought together the Garda National Drugs and Organised Crime Bureau, the Bray Drugs Unit, the Bray and Arklow District Detective Units and Revenue's Customs Service. [@1,2,3,5]
 
-Revenue officers first seized about 6.6 kg of herbal cannabis worth an estimated €132,000, and a follow-up search recovered about 6 kg more, bringing the total to 12.6 kg valued at €252,000. [@1,2,3]
+Revenue officers first seized about 6.6 kg of herbal cannabis worth an estimated €132,000, and a follow-up search recovered about 6 kg more, bringing the total to 12.6 kg valued at €252,000. [@1,2,3,5]
 
-Gardaí arrested a man in his 20s and two women in their 20s and 50s, who were detained in Garda stations in Co. Wicklow under section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@1] Only Ms Keogh was charged following the operation, in which officers seized more than €250,000 worth of herbal cannabis on Friday, October 3. [@4] Judge Patrick Quinn adjourned the case until January 12 to fix a date for sentencing. [@3] A Section 15A charge applies where the drugs involved are valued at €13,000 or more and carries a mandatory minimum sentence of 10 years’ imprisonment. [@3] She admitted having cannabis for the purpose of sale or supply, contrary to Section 15A of the Misuse of Drugs Act. [@3] Kim Keogh (52), with an address at Murrell Drive, Inbhear Mór Park, Arklow, Co Wicklow, appeared at a sitting of Wicklow Circuit Criminal Court. [@3] Investigations were continuing. [@1]
+Gardaí arrested a man in his 20s and two women in their 20s and 50s, who were detained in Garda stations in Co. Wicklow under section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@1] Only Ms Keogh was charged following the operation, in which officers seized more than €250,000 worth of herbal cannabis on Friday, October 3. [@4] Judge Patrick Quinn adjourned the case until January 12 to fix a date for sentencing. [@3] A Section 15A charge applies where the drugs involved are valued at €13,000 or more and carries a mandatory minimum sentence of 10 years’ imprisonment. [@3] She admitted having cannabis for the purpose of sale or supply, contrary to Section 15A of the Misuse of Drugs Act. [@3,5] Senior counsel for Keogh, Paul Murray, told the court that she was extremely remorseful and regretted the situation she found herself in. [@5] Kim Keogh (52), with an address at Murrell Drive, Inbhear Mór Park, Arklow, Co Wicklow, appeared at a sitting of Wicklow Circuit Criminal Court. [@3] Investigations were continuing. [@1]
