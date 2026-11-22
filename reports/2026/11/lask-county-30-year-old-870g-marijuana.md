@@ -77,29 +77,26 @@ sources:
     publisher: kryminalki.pl
     date: 2026-11-19
     language: pl
-open_questions:
-  - The marijuana figure is given as more than 870 grams, not an exact weight, so 0.87 kilograms is stored.
-  - More than a kilogram of methamphetamine was seized in the same case and is not counted in the cannabis figures.
-  - Police did not name the village in Łask County where the man lived or was detained.
-  - The three-month detention is a pre-trial measure ordered by the court, not a sentence, and no trial outcome was reported.
-  - No value estimate for the drugs was published.
-  - The account rests on the Zduńska Wola police statement; no independent reporting of the detention was found.
-  - It was not reported whether the man admitted the charge or had a lawyer.
+  - title: Miał w domu blisko 2 kilogramy narkotyków. 30-latek z łaskiego zatrzymany przez kryminalnych ze Zduńskiej Woli trafił do aresztu
+    url: https://dzienniklodzki.pl/mial-w-domu-blisko-2-kilogramy-narkotykow-30-latek-z-laskiego-zatrzymany-przez-kryminalnych-ze-zdunskiej-woli-trafil-do-aresztu/ar/c1p2-29542643
+    publisher: Dziennik Łódzki
+    date: 2026-11-20
+    language: pl
 ---
 
 Officers of the criminal department of the Zduńska Wola County Police
 Headquarters detained a 30-year-old man who kept almost 2 kilograms of drugs
-where he lived. [@1] The Zduńska Wola criminal department had identified a
+where he lived. [@1,5] The Zduńska Wola criminal department had identified a
 person who might hold significant quantities of drugs. [@1] On 16 November 2026
 the officers went to a village in Łask County. [@1,2,3,4] When he saw the police, the
-man walked faster and threw his phone into a ditch. [@1,2,3,4] Officers checked his
-identity, secured the phone and found marijuana in his trouser pocket. [@1,2,3,4]
+man walked faster and threw his phone into a ditch. [@1,2,3,4,5] Officers checked his
+identity, secured the phone and found marijuana in his trouser pocket. [@1,2,3,4,5]
 
 A search of his home turned up further drugs: in total more than 870 grams of
-marijuana and more than 1 kilogram of methamphetamine. [@1,2,3,4] The detained man, a
-30-year-old from Łask, had previously been convicted of drug offences. [@1,4]
+marijuana and more than 1 kilogram of methamphetamine. [@1,2,3,4,5] The detained man, a
+30-year-old from Łask, had previously been convicted of drug offences. [@1,4,5]
 
 He was charged with possession of significant quantities of intoxicating and
-psychotropic substances, which carries up to 10 years in prison. [@1,2,3,4] By
+psychotropic substances, which carries up to 10 years in prison. [@1,2,3,4,5] By
 decision of the District Court in Zduńska Wola he will spend the next three
-months in pre-trial detention. [@1,2,3,4]
+months in pre-trial detention. [@1,2,3,4,5]
