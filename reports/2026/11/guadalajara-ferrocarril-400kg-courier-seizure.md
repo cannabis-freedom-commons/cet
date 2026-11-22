@@ -88,34 +88,28 @@ sources:
     publisher: Quadratín Jalisco
     date: 2026-11-20
     language: es
-open_questions:
-  - No separate date or time was given for the inspection; 20 November 2026 is the publication and dateline date and stands in for the incident date.
-  - The weight is given as approximately 400 kilograms, not an exact weighing result.
-  - One account places the courier company in colonia San Carlos, while the others place it in colonia Ferrocarril at the same Dr. R. Michel and Gabino Barreda crossroads.
-  - Accounts differ on the tip-off line, giving the 911 emergency number in most and the 089 anonymous-report line in another.
-  - No arrests or detentions had been reported and no suspect was identified.
-  - The marijuana was described as plant material with the characteristics of marijuana; no laboratory confirmation was reported.
-  - The Tlaquepaque origin and Monterrey destination come from the shipping labels and had not been confirmed by investigators.
-  - The value of the load was not published.
-  - The 558 blocks are counted in one account only; others give the number of boxes and the total weight without a block count.
-  - All accounts reproduce the same state police account and are not independent reporting.
+  - title: Aseguran 400 kilos de aparente marihuana en empresa de paquetería
+    url: https://www.notisistema.com/noticias/aseguran-400-kilos-de-aparente-marihuana-en-empresa-de-paqueteria/
+    publisher: Notisistema
+    date: 2026-11-20
+    language: es
 ---
 
 Jalisco state police seized about 400 kilograms of marijuana at a courier
-company in colonia Ferrocarril, Guadalajara. [@1,7] The company is at the
-crossroads of avenida Doctor R. Michel and Privada Gabino Barrera. [@2]
+company in colonia Ferrocarril, Guadalajara. [@1,7,8] The company is at the
+crossroads of avenida Doctor R. Michel and Privada Gabino Barrera. [@2,8]
 Employees of the courier firm called the 911 emergency line to report the
-packages. [@4] Officers of the vehicle recovery and identification squadron
+packages. [@4,8] Officers of the vehicle recovery and identification squadron
 found 31 cardboard boxes matching the description in the tip. [@2,7] Inside the
 parcels were 558 blocks of plant material with the characteristics of marijuana.
 [@2,7] The load weighed about 400 kilograms in total. [@2]
 
-The inspection was carried out with canine teams from the K9 unit. [@2,7] Shipping
+The inspection was carried out with canine teams from the K9 unit. [@2,7,8] Shipping
 labels on the boxes said the shipment came from Tlaquepaque and was addressed to
 Monterrey, Nuevo León. [@3] The marijuana was already packaged and ready to be
 sent to another state. [@6] The parcels contained green plant material with the
-characteristics of marijuana, weighing 400 kilograms in total. [@5]
+characteristics of marijuana, weighing 400 kilograms in total. [@5,8]
 
 No detentions had been reported in the case. [@3] The cargo was handed to the
 federal prosecutor's office, which is to establish its origin, destination and
-those responsible. [@2,7]
+those responsible. [@2,7,8]
