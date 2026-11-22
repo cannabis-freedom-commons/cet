@@ -125,6 +125,11 @@ sources:
     publisher: L'Officiel USA
     date: 2023-07-18
     language: en
+  - title: Gigi Hadid speaks out after she’s arrested for cannabis possession in Cayman Islands
+    url: https://www.independent.co.uk/life-style/gigi-hadid-arrested-cannabis-cayman-islands-b2377464.html
+    publisher: The Independent
+    date: 2023-07-18
+    language: en
 ---
 
 American model Gigi Hadid, 28, and her friend Leah McCarthy were detained in the
@@ -135,11 +140,11 @@ importation of utensils used for the consumption of marijuana". [@1,2,3,4,5,7,8,
 said it was a small amount, seemingly for personal consumption. [@1,2,4,5,12,15,17,18]
 
 They were taken to a detention centre and released on bail, the local newspaper
-Cayman Marl Road reported. [@1,4,5,6,7,9,11,12,13,17] They were taken to the Prisoner Detention Center. [@6,7,10,13,15] The pair appeared in the Cayman Islands summary
+Cayman Marl Road reported. [@1,4,5,6,7,9,11,12,13,17,19] They were taken to the Prisoner Detention Center. [@6,7,10,13,15] The pair appeared in the Cayman Islands summary
 court two days later, where they were fined 1,000 Cayman Islands dollars
-($1,200; £920). [@1,4,9,12,16,17,18] The courts confirmed the two were arraigned in George Town, but did not specify the charges. [@4] They pleaded guilty in court and paid the fine, but no
+($1,200; £920). [@1,4,9,12,16,17,18,19] The courts confirmed the two were arraigned in George Town, but did not specify the charges. [@4] They pleaded guilty in court and paid the fine, but no
 conviction was recorded. [@1,2,3,4,6,7,8,9,12,15,16,17,18]
 
 Hadid's representative said the marijuana was purchased legally in New York
 "with a medical license", and that medical use has also been legal in Grand
-Cayman since 2017. [@1,2,4,5,7,8,9,11,12,13,15,16,17,18]
+Cayman since 2017. [@1,2,4,5,7,8,9,11,12,13,15,16,17,18,19]
