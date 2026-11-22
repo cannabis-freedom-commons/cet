@@ -75,6 +75,11 @@ sources:
     publisher: Суспільне Миколаїв
     date: 2026-11-21
     language: uk
+  - title: На Миколаївщині у 26-річного чоловіка вилучили кілька кілограмів канабісу
+    url: https://www.nikpravda.com.ua/na-mykolayivshhyni-u-26-richnogo-cholovika-vyluchyly-kilka-kilogramiv-kanabisu/
+    publisher: Миколаївська Правда
+    date: 2026-11-21
+    language: uk
 open_questions:
   - No exact weight was published; police said only several kilograms of dried and ground cannabis, so no kilogram figure is recorded.
   - No separate date was given for the search; 21 November 2026 is the date of the police statement and the news reports and is used as the incident date.
@@ -85,20 +90,19 @@ open_questions:
 
 Police in Mykolaiv Oblast detained a 26-year-old resident of the Novoodesa
 community and notified him of suspicion of illegally acquiring and possessing
-narcotic drugs in especially large quantities, without intent to sell. [@1]
+narcotic drugs in especially large quantities, without intent to sell. [@1,4]
 Investigators and officers from Police Department No. 6 of the Mykolaiv District
 Police Directorate carried out an authorised search of his home after receiving
 operational information, under the procedural supervision of the Mykolaiv
 District Prosecutor's Office. [@2]
 
 During the search, officers seized dried and ground cannabis from a utility room
-at the home, which police described as several kilograms. [@1] The man kept
-ready-to-use cannabis in glass jars and dried cannabis in boxes and crates. [@2]
+at the home, which police described as several kilograms. [@1,4] The man kept
+ready-to-use cannabis in glass jars and dried cannabis in boxes and crates. [@2,4]
 Police detained him under Article 208 of the Criminal Procedure Code of Ukraine
 and investigators notified him of suspicion under Part 3 of Article 309 of the
-Criminal Code. [@1]
+Criminal Code. [@1,4]
 
-The offence carries a possible sentence of up to eight years in prison. [@3] A
+The offence carries a possible sentence of up to eight years in prison. [@3,4] A
 court was expected to decide on a preventive measure for the suspect soon, and
-the pre-trial investigation was ongoing. [@1]
-
+the pre-trial investigation was ongoing. [@1,4]
