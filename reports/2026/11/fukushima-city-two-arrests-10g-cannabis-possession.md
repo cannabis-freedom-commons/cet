@@ -64,21 +64,26 @@ sources:
     publisher: ｄメニューニュース（NTTドコモ）
     date: 2026-11-20
     language: ja
+  - title: 共謀し大麻を所持か、麻薬取締法違反で男2人を逮捕（みんゆうNET）｜ｄメニューニュース（NTTドコモ）
+    url: https://topics.smt.docomo.ne.jp/article/fminyu/region/fminyu-2026111917514457440
+    publisher: ｄメニューニュース（NTTドコモ）
+    date: 2026-11-20
+    language: ja
 ---
 
 On the morning of 19 November 2026, Fukushima Police Station arrested two
 self-employed men living in Fukushima city on suspicion of cannabis possession.
-[@1,2,3,4,5,6] One of those arrested is a 52-year-old man from Sasakino in Fukushima city.
+[@1,2,3,4,5,6,7] One of those arrested is a 52-year-old man from Sasakino in Fukushima city.
 [@1,3,5,6] The other person arrested is a 44-year-old man from Moriai in Fukushima
 city. [@1,6] Both arrests were brought on suspicion of violating the Narcotics
 Control Law for cannabis possession. [@1,5,6]
 
 Police allege that the two men acted in conspiracy together to jointly possess
 the cannabis. [@1,2,3,4,5,6] The cannabis at issue in the allegation was a single bag
-weighing about 10 grams. [@1,2,6] Police allege that the joint possession took place
-on 11 August 2026. [@1,6] Police allege that the place where the two held the bag
-was a building located inside Fukushima city. [@1,6] Police have not disclosed whether the two men admit the allegation. [@2,6]
+weighing about 10 grams. [@1,2,6,7] Police allege that the joint possession took place
+on 11 August 2026. [@1,6,7] Police allege that the place where the two held the bag
+was a building located inside Fukushima city. [@1,6] Police have not disclosed whether the two men admit the allegation. [@2,6,7]
 
 Police describe the two men as acquaintances who knew each other before the
-alleged possession. [@1,6] Police are now investigating the route by which the men
-obtained the cannabis and the purpose for which they held it. [@1,6]
+alleged possession. [@1,6,7] Police are now investigating the route by which the men
+obtained the cannabis and the purpose for which they held it. [@1,6,7]
