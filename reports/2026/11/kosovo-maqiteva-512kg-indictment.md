@@ -82,28 +82,33 @@ sources:
     publisher: KoSSev
     date: 2026-11-20
     language: zh
+  - title: 'Anklage gegen drei Männer wegen 512 Kilogramm Marihuana in Suva Reka: Neben den Drogen wurden auch eine Panzerabwehrrakete, ein Mörser und Gewehre gefunden'
+    url: https://kossev.info/de/optuznica-protiv-trojice-zbog-512-kilograma-marihuane-u-suvoj-reci-uz-drogu-pronadjeni-i-protivtenkovska-raketa-minobacac-i-puske/
+    publisher: KoSSev
+    date: 2026-11-20
+    language: de
 open_questions:
     - No separate date is given for the indictment; 20 November 2026 is the publication date of these reports and is used as the incident date.
     - The reports give no figure for the area under cultivation; the only areas stated are the two plots of 1,963 and 1,438 square metres that prosecutors want confiscated.
     - The German-language account describes the charge as aiding cultivation, while the Albanian reports say the three acted jointly as co-perpetrators.
     - The indictment covers cultivation from an unspecified start date until 16 September 2025; the reports do not say when the growing began.
     - No trial date, plea or possible sentence is reported.
-    - The reports do not say when the three were arrested or whether all have been held since the September 2025 discovery.
+    - One suspect surrendered on 28 March 2026 and detention was sought for the other two at the end of October 2026, but no arrest dates are given for those two.
     - The accounts reproduce the same Prizren prosecution announcement and are not independent reporting.
-    - '''Left out, as its quotation was not found in Bota Sot: Prosecutors also sought permanent confiscation of the two plots of 1,963 and 1,438 square metres, the house and stable, the drugs and cultivation equipment, the weapons and ammunition, mobile phones and a tractor with trailer.'''
+    - 'Left out, as its quotation was not found in Bota Sot: Prosecutors also sought permanent confiscation of the two plots of 1,963 and 1,438 square metres, the house and stable, the drugs and cultivation equipment, the weapons and ammunition, mobile phones and a tractor with trailer.'
 ---
 
 Kosovo's Basic Prosecution in Prizren has filed an indictment against three
 people over cannabis cultivation and sale in Maqitevë, a village in Suhareka
-municipality. [@3,5] All three were in pre-trial detention when the indictment was
-filed. [@1] They are charged with cultivating cannabis and with the unauthorised
+municipality. [@3,5,6] All three were in pre-trial detention when the indictment was
+filed. [@1] Prosecutors requested pre-trial detention for the other two suspects, MA and BA, at the end of October 2026. [@6] FN surrendered to Kosovo police on 28 March 2026, after which the Prizren prosecution sought his detention on suspicion of producing and distributing narcotics and illegal weapons possession. [@6] One of the three, identified as FN, was not available to law enforcement during the investigation. [@6] They are charged with cultivating cannabis and with the unauthorised
 purchase, possession, distribution and sale of narcotics. [@2] Each of the three
 is also charged separately with unauthorised possession of weapons. [@2]
 
 According to the indictment, from an unspecified date until 16 September 2025
 they cultivated cannabis on two plots in a mountainous area of Maqitevë, using a
 reservoir and drip irrigation. [@2] Officers found 512 kilograms of marijuana in
-a stable during checks on 16 September 2025. [@1,5] Kosovo police estimated the market value of the marijuana at about 750,000 euros at the time of the seizure. [@5] Prosecutors said the marijuana
+a stable during checks on 16 September 2025. [@1,5,6] Kosovo police estimated the market value of the marijuana at about 750,000 euros at the time of the seizure. [@5,6] Prosecutors said the marijuana
 was being dried and prepared for distribution and sale. [@3] Samples examined by
 the Kosovo Agency for Forensics tested positive for cannabis containing THC.
 [@4]
