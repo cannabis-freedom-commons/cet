@@ -46,6 +46,11 @@ media:
     media_url: https://diregional.com.br/files/2908442/07b724efb47b7f95ba513ff4762ae0c0/md
     publisher: Diário do Iguaçu
     caption: 'Packages of marijuana from the Chapecó seizure, in a second photo credited to PRF Oeste. Photo: PRF Oeste'
+  - kind: photo
+    url: https://oestescnoticias.com.br/oeste-noticias/policial/prf-apreende-mais-de-150-quilos-de-maconha-escondidos-em-carro-na-br-282-em-chapeco/
+    media_url: https://oestescnoticias.com.br/content/2026/11/262057041139-capturadetela20261120as185710-convertido.webp
+    publisher: Oeste SC Notícias
+    caption: 'Lead image published with the report on the 151.3 kg marijuana seizure on the BR-282 in Chapecó, credited to the Federal Highway Police. Photo: PRF'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: ba0c9781c00ca6230708093f76ce6053
@@ -66,6 +71,11 @@ sources:
     publisher: WH3
     date: 2026-11-20
     language: pt
+  - title: PRF apreende mais de 150 quilos de maconha escondidos em carro na BR-282, em Chapecó
+    url: https://oestescnoticias.com.br/oeste-noticias/policial/prf-apreende-mais-de-150-quilos-de-maconha-escondidos-em-carro-na-br-282-em-chapeco/
+    publisher: Oeste SC Notícias
+    date: 2026-11-21
+    language: pt
 open_questions:
   - The two occupants were not named, and no ages, nationalities or home towns were released.
   - The marijuana is described only as tablets of maconha; no split by product, potency or value was published.
@@ -76,20 +86,19 @@ open_questions:
 ---
 
 A man and a woman travelling in a car on the BR-282 in Chapecó were arrested in
-flagrante for drug trafficking on the morning of Friday 20 November 2026. [@1]
+flagrante for drug trafficking on the morning of Friday 20 November 2026. [@1,4]
 Federal Highway Police officers seized 151.3 kilograms of marijuana in the same
-stop, in western Santa Catarina. [@1]
+stop, in western Santa Catarina. [@1,4]
 
 The stop took place at about 8:30 at km 533 of the BR-282, when a patrol ordered
-a silver GM/Astra to pull over. [@1] The man and the woman told officers they
+a silver GM/Astra to pull over. [@1,4] The man and the woman told officers they
 had left Cascavel in Paraná and were heading for Xanxerê in Santa Catarina to
-visit a relative. [@1] The boot was blocked, and officers called in sniffer
-dogs, which indicated an illegal substance in the car. [@2] Looking through an
+visit a relative. [@1,4] The boot was blocked, and officers called in sniffer
+dogs, which indicated an illegal substance in the car. [@2,4] Looking through an
 opening in the backrest of the passenger seat, officers saw marijuana tablets
-and used tools to open the hidden compartment. [@1] The load weighed 151.3
+and used tools to open the hidden compartment. [@1,4] The load weighed 151.3
 kilograms after official weighing. [@1]
 
 The two were arrested at the scene and taken with the car and the drug to the
-Civil Police station in Chapecó. [@1] The police said the case would be
-investigated to establish where the load came from and where it was going. [@3]
-
+Civil Police station in Chapecó. [@1,4] The police said the case would be
+investigated to establish where the load came from and where it was going. [@3,4]
