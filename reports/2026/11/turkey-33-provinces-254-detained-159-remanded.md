@@ -66,34 +66,30 @@ sources:
     publisher: A Haber
     date: 2026-11-20
     language: tr
-open_questions:
-    - The ministry statement gives no date or date range for the operations; 20 November 2026 is the date of the statement and of publication and stands in as the incident date.
-    - The 504 kilograms of narcotics and 104,056 pills are combined totals the ministry did not break down by substance, so they are not counted as cannabis.
-    - The ministry said numerous cannabis and skunk plants were destroyed but gave no count, so no plant figure is recorded.
-    - The statement lists the 33 provinces but does not say how many operations, addresses or plots were involved in each.
-    - It is not said how the 95 people under judicial control are supervised or whether they remain under investigation.
-    - No suspect was named, and no charge under a specific article or court decision was reported.
-    - No value estimate for the drugs or the plants was published.
-    - The accounts, including the İhlas Haber Ajansı text, reproduce the Interior Ministry statement, so they corroborate rather than independently report the operations.
+  - title: 33 ilde uyuşturucu madde satıcılarına yönelik operasyon! 254 şüpheli yakalandı
+    url: https://www.sabah.com.tr/yasam/33-ilde-uyusturucu-madde-saticilarina-yonelik-operasyon-254-supheli-yakalandi-7705759
+    publisher: Sabah
+    date: 2026-11-20
+    language: tr
 ---
 
 Gendarmerie teams detained 254 suspects in operations against drug sellers and
 illegal cannabis cultivation in 33 provinces, the Interior Ministry said on 20
-November 2026. [@1,4,5,6] The operations were run by provincial gendarmerie commands
+November 2026. [@1,4,5,6,7] The operations were run by provincial gendarmerie commands
 under the Gendarmerie General Command's narcotics department and chief public
-prosecutors' offices. [@2,4,6] The ministry said 1,620 narcotics and public-order
+prosecutors' offices. [@2,4,6,7] The ministry said 1,620 narcotics and public-order
 teams and 8,105 personnel took part, with analysis and surveillance teams from
-its narcotics department. [@1,4,5]
+its narcotics department. [@1,4,5,7]
 
 The ministry said the suspects grew cannabis and skunk illegally to supply drug
 production, ran drug trafficking in an organised way and sold narcotics through
-social media and messaging apps. [@1,4,5,6] The operations targeted the offence of
-manufacturing and trading narcotic or psychotropic substances. [@2] Officers
+social media and messaging apps. [@1,4,5,6,7] The operations targeted the offence of
+manufacturing and trading narcotic or psychotropic substances. [@2,7] Officers
 seized 504 kilograms of narcotics and 104,056 drug pills, a combined figure the
-ministry did not break down by substance. [@2,4,5,6] Numerous cannabis and skunk
-plants were also destroyed, the ministry said. [@3,4,5]
+ministry did not break down by substance. [@2,4,5,6,7] Numerous cannabis and skunk
+plants were also destroyed, the ministry said. [@3,4,5,7]
 
 Of the 254 detained, 159 were arrested and remanded in custody, and judicial
-control measures were imposed on the other 95. [@1,4,5,6] The ministry's statement
+control measures were imposed on the other 95. [@1,4,5,6,7] The ministry's statement
 named the 33 provinces, among them Adana, Ankara, Diyarbakır, Hakkari, İstanbul,
-İzmir, Şanlıurfa, Şırnak, Tekirdağ and Van. [@2]
+İzmir, Şanlıurfa, Şırnak, Tekirdağ and Van. [@2,7]
