@@ -42,6 +42,11 @@ media:
     caption: >-
       Bundles from the Caribbean interdiction laid out on a pier with detainees and naval personnel
       after the Venezuela–France operation. Photo: Correo del Caroní
+  - kind: photo
+    url: https://contrapunto.com/global/europa/venezuela-confirma-operacion-con-francia-en-la-que-se-incautaron-29-toneladas-de-marihuana-y-cocaina/
+    media_url: https://estaticos.sfo2.digitaloceanspaces.com/estaticos/var/www/html/wp-content/uploads/2026/10/16214814/incautacion-de-droga-1068x801.jpeg
+    publisher: Contrapunto.com
+    caption: 'Drugs seized in the joint Venezuela-France Caribbean operation, shown after the interdiction. Photo: Contrapunto.com'
 sources:
   - title: Incautan más de 2.900 kilos de droga en el Mar Caribe
     url: https://rnv.gob.ve/venezuela-incautan-2900-kilos-droga-mar-caribe/
@@ -94,13 +99,11 @@ sources:
     publisher: Ministerio del Poder Popular para Relaciones Interiores, Justicia y Paz (MIPPCI)
     date: 2026-10-16
     language: es
-open_questions:
-    - The four people arrested are not named, and no exact position at sea is given.
-    - The marijuana weight comes from the interior ministry statement; the video account gives only the rounded 2.9 tonnes of cocaine and marijuana together.
-    - The same seizure included 1,173.50 kg of cocaine, which is outside this report’s cannabis weight.
-    - The ministry’s account describes the French role as an exchange of intelligence with the French navy, while French accounts say French forces stopped the Venezuelan vessel.
-    - The interior ministry’s own page rounds the load to 1,173 kg of cocaine and 1,727 kg of marijuana, while the fuller figures are 1,173.50 kg and 1,727.40 kg.
-    - No charge, detention measure or court outcome has been reported for the four detainees.
+  - title: Venezuela confirma operación con Francia en la que se incautaron 2,9 toneladas de marihuana y cocaína
+    url: https://contrapunto.com/global/europa/venezuela-confirma-operacion-con-francia-en-la-que-se-incautaron-29-toneladas-de-marihuana-y-cocaina/
+    publisher: Contrapunto.com
+    date: 2026-10-16
+    language: es
 ---
 
 Venezuela’s Ministry of Interior, Justice and Peace said four people were arrested in a maritime
@@ -111,7 +114,7 @@ Nacional de Venezuela published the ministry’s account on 16 October 2026. [@1
 Officers seized 166 bales holding 4,152 cakes of drugs: 1,173.50 kilograms of cocaine and 1,727.40
 kilograms of marijuana, 2,900.90 kilograms in all. [@1,2,5,8,9] The people arrested and the drugs were
 placed at the disposal of the public prosecutor. [@1,2,5,8,9] The government thanked France for the naval
-help. [@2,5,8] The reports do not name the four people or say where in the Caribbean the boat was
+help. [@2,5,8,11] The reports do not name the four people or say where in the Caribbean the boat was
 stopped. [@1,2]
 
 French accounts of the same interdiction say French forces stopped the Venezuelan fishing vessel
@@ -120,4 +123,4 @@ for legal proceedings. [@3,4] They describe three October operations in which Fr
 6.9 tonnes of cocaine and 1.7 tonnes of marijuana in total, with the Venezuelan boat's 166 bales
 holding both drugs. [@3,4]
 
-Deputy Minister Oliver Blanco confirmed the seized drugs were cocaine and marijuana and said the operation complied with international law. [@5,7]
+Deputy Minister Oliver Blanco confirmed the seized drugs were cocaine and marijuana and said the operation complied with international law. [@5,7,11] Blanco reaffirmed the importance of bilateral cooperation in the fight against transnational drug trafficking. [@11]
