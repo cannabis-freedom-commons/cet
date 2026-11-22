@@ -42,11 +42,16 @@ sources:
     publisher: Análisis Urbano
     date: 2026-11-19
     language: es
+  - title: 'De un bus a un taxi: así transportaban 28 kilos de marihuana en Neiva'
+    url: https://www.lanacion.com.co/de-un-bus-a-un-taxi-asi-transportaban-28-kilos-de-marihuana-en-neiva/
+    publisher: La Nación
+    date: 2026-11-21
+    language: es
 open_questions:
-  - No weight was given for the 79 packages of marijuana, so no kilogram figure is recorded.
-  - No laboratory confirmation that the substance was marijuana was reported.
-  - No estimate of the shipment's value or of its origin and destination was published.
-  - No outcome beyond the preventive detention order and the not-guilty pleas was reported.
+    - No laboratory confirmation that the substance was marijuana was reported.
+    - No origin or intended destination for the shipment was published.
+    - No outcome beyond the preventive detention order and the not-guilty pleas was reported.
+    - The 39,500 doses and the 56 million peso value are police estimates, not independently established figures.
 ---
 
 At the request of Colombia's Attorney General's Office, a control guarantees
@@ -56,13 +61,12 @@ were transporting marijuana along the roads of Neiva in the department of Huila.
 [@1] The events occurred on 12 November, when police and National Army officers
 were alerted to the presence of two men with a suspicious attitude in a public
 transport vehicle in the sector known as El Terminalito, on the road that
-connects Neiva with Aipe. [@1]
+connects Neiva with Aipe. [@1] The interception was carried out by the Criminal Investigation Section, in coordination with troops of the Ninth Tenerife Campaign Artillery Battalion, in Neiva's Comuna Uno. [@2]
 
 After stopping the vehicle for an inspection, the authorities found in the boot
 several sacks of plantain and coffee chaff in which 79 packages of marijuana
 were allegedly hidden, and the two men were caught in flagrante delicto during
-the procedure. [@1] A prosecutor from the Immediate Reaction Unit, or URI, of
+the procedure. [@1,2] Police said the marijuana in the 79 packages had a net weight of 28.220 kilograms, equivalent to about 39,500 doses with an estimated illegal-market value of 56 million pesos. [@2] A prosecutor from the Immediate Reaction Unit, or URI, of
 the Huila regional office subsequently charged the two men with the crime of
 trafficking, manufacturing or possessing narcotics. [@1] The defendants did not
-accept the charges. [@1]
-
+accept the charges. [@1,2]
