@@ -67,29 +67,33 @@ sources:
     url: https://www.bangkokpost.com/thailand/general/3358289/three-patong-cannabis-shops-raided
     publisher: Bangkok Post
     date: 2026-11-20
+  - title: 泰国突击搜查芭东大麻店
+    url: https://www.8world.com/southeast-asia/thailand-cracks-down-on-cannabis-shop-3346506
+    publisher: 8world
+    date: 2026-11-20
+    language: zh
 open_questions:
-  - No weight for the seized cannabis was published; the accounts give only a combined value for cannabis and related equipment.
-  - Neither account names the three shops or gives the number, names or ages of the people arrested beyond the operators of the two unlicensed shops.
-  - The value of more than 1.5 million baht is the officials' figure covering cannabis and equipment together, not a market valuation of the drug.
-  - Whether the provincial public health chief approved the 30-day licence suspension, and what charges or court outcome followed for the two arrested operators, was not reported.
-  - The Wochenblitz account credits the Bangkok Post, so the two reports are not independent of one another.
+    - No weight for the seized cannabis was published; the accounts give only a combined value for cannabis and related equipment.
+    - None of the accounts names the three shops or gives the number, names or ages of the people arrested beyond the operators of the two unlicensed shops.
+    - The value of more than 1.5 million baht is the officials' figure covering cannabis and equipment together, not a market valuation of the drug.
+    - Whether the provincial public health chief approved the 30-day licence suspension, and what charges or court outcome followed for the two arrested operators, was not reported.
+    - The Wochenblitz and 8world accounts both credit the Bangkok Post, so the reports are not independent of one another or of the Bangkok Post report already cited.
 ---
 
 Officials raided three cannabis shops in tambon Patong, Kathu district, Phuket,
-at about 5pm on 19 November 2026. [@2] Two of the shops were selling cannabis
+at about 5pm on 19 November 2026. [@2,3] Two of the shops were selling cannabis
 without permission and their operators were arrested and handed to Patong police
-for legal action. [@2] The third shop had breached its licence conditions by
+for legal action. [@2,3] The third shop had breached its licence conditions by
 failing to file reports required by law, and officials submitted a report to the
 provincial public health chief recommending a 30-day suspension of its licence.
-[@2] Cannabis and related equipment worth more than 1.5 million baht was seized
-in the raids. [@1]
+[@2,3] Cannabis and related equipment worth more than 1.5 million baht was seized
+in the raids. [@1,3]
 
 The inspection was carried out by the Phuket provincial administration's special
 task force with the provincial and Kathu district public health offices. [@2]
 The operation followed complaints from local residents about unlawful sales.
-[@1]
+[@1,3]
 
 Officials said the raids followed Interior Ministry and Phuket policy to crack
 down on cannabis shops, especially in major tourist areas, to prevent illegal
-trading and protect the province's tourism image. [@2]
-
+trading and protect the province's tourism image. [@2,3]
