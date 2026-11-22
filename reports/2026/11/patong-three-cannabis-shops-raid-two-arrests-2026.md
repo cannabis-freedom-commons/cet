@@ -53,6 +53,11 @@ media:
     media_url: https://static.bangkokpost.com/media/content/20261120/6310885.jpg
     publisher: Bangkok Post
     caption: Third photograph published with the Bangkok Post report of the Patong raids, credited to the Phuket provincial administration's special task force (ชุดปฏิบัติการพิเศษฝ่ายปกครองจังหวัดภูเก็ต).
+  - kind: photo
+    url: https://www.thephuketnews.com/officials-raid-patong-cannabis-shops-seize-b1-5mn-in-goods-102279.php
+    media_url: https://www.thephuketnews.com/photo/listing/2026/1795174958_1-org.jpg
+    publisher: The Phuket News
+    caption: Photograph published with the report of the Patong cannabis shop raids, credited to the Volunteer Defense Corps (OrSor), which took part in the operation.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 9d5ce1987896392d4bd4dcdcd3b8d68a
@@ -72,27 +77,25 @@ sources:
     publisher: 8world
     date: 2026-11-20
     language: zh
-open_questions:
-    - No weight for the seized cannabis was published; the accounts give only a combined value for cannabis and related equipment.
-    - None of the accounts names the three shops or gives the number, names or ages of the people arrested beyond the operators of the two unlicensed shops.
-    - The value of more than 1.5 million baht is the officials' figure covering cannabis and equipment together, not a market valuation of the drug.
-    - Whether the provincial public health chief approved the 30-day licence suspension, and what charges or court outcome followed for the two arrested operators, was not reported.
-    - The Wochenblitz and 8world accounts both credit the Bangkok Post, so the reports are not independent of one another or of the Bangkok Post report already cited.
+  - title: Officials raid Patong cannabis shops, seize B1.5mn in goods
+    url: https://www.thephuketnews.com/officials-raid-patong-cannabis-shops-seize-b1-5mn-in-goods-102279.php
+    publisher: The Phuket News
+    date: 2026-11-21
 ---
 
 Officials raided three cannabis shops in tambon Patong, Kathu district, Phuket,
 at about 5pm on 19 November 2026. [@2,3] Two of the shops were selling cannabis
 without permission and their operators were arrested and handed to Patong police
-for legal action. [@2,3] The third shop had breached its licence conditions by
+for legal action. [@2,3,4] The third shop had breached its licence conditions by
 failing to file reports required by law, and officials submitted a report to the
 provincial public health chief recommending a 30-day suspension of its licence.
-[@2,3] Cannabis and related equipment worth more than 1.5 million baht was seized
-in the raids. [@1,3]
+[@2,3,4] Cannabis and related equipment worth more than 1.5 million baht was seized
+in the raids. [@1,3,4]
 
 The inspection was carried out by the Phuket provincial administration's special
-task force with the provincial and Kathu district public health offices. [@2]
+task force with the provincial and Kathu district public health offices. [@2] The operation was led by Phuket Provincial Security Officer Akkara Suwatthikul and joined by personnel from the Volunteer Defense Corps (OrSor) as well as the provincial and Kathu district public health offices. [@4]
 The operation followed complaints from local residents about unlawful sales.
-[@1,3]
+[@1,3,4]
 
 Officials said the raids followed Interior Ministry and Phuket policy to crack
 down on cannabis shops, especially in major tourist areas, to prevent illegal
