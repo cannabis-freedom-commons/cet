@@ -43,30 +43,33 @@ sources:
     publisher: JRT NEWS NNN
     date: 2026-11-20
     language: ja
+  - title: 徳島県警、薬物密売グループ「京極」を摘発　首謀者ら6人逮捕
+    url: https://www.topics.or.jp/articles/-/1529187
+    publisher: 徳島新聞デジタル
+    date: 2026-11-21
+    language: ja
 open_questions:
-  - No weight or plant count for the cannabis was published, so no cannabis quantity is recorded.
-  - The estimated 12 million yen street value covers all the illegal drugs seized, cannabis and stimulants together, and cannot be attributed to cannabis alone.
-  - Only the man's age, occupation and ward of residence were released; police did not name him.
-  - The dates of the seven arrests are not given; the alleged offences ran from May to September 2025 and 20 November 2026 is the day police announced the investigation's conclusion.
-  - No trial date or court outcome was reported; police said the man had already been indicted.
-  - The article does not say how many other people were arrested or charged in the group.
-  - The account rests on a single report by the Tokushima broadcaster JRT; no second outlet's account was found.
-  - The article cites the Stimulants Control Act and other laws but does not specify which charges cover the cannabis offences.
+    - No weight or plant count for the cannabis was published, so no cannabis quantity is recorded.
+    - The estimated 12 million yen street value covers all the illegal drugs seized, cannabis and stimulants together, and cannot be attributed to cannabis alone.
+    - Only the man's age, occupation and ward of residence were released; police did not name him.
+    - The dates of the seven arrests are not given; the alleged offences ran from May to September 2025 and 20 November 2026 is the day police announced the investigation's conclusion.
+    - No trial date or court outcome was reported; police said the man had already been indicted.
+    - The headline reports six people including the mastermind arrested, but the article's body is paywalled, so it is unclear whether the six include the leader's seven separate arrests or how many of the six were charged.
+    - The article cites the Stimulants Control Act and other laws but does not specify which charges cover the cannabis offences.
 ---
 
 Tokushima prefectural police announced on 20 November 2026 that they had
 concluded their investigation into the drug-trafficking group Kyōgoku, working
-jointly with the Kagawa and Kochi prefectural police. [@1] The man arrested as
+jointly with the Kagawa and Kochi prefectural police. [@1] Six people including the group's mastermind were arrested. [@2] The man arrested as
 the leader of the group, which is known as Kyōgoku, is a 28-year-old unemployed
 resident of Nishikyo ward in Kyoto prefecture. [@1] Police said he conspired
 with dealers inside the group between May and September 2025. [@1] He moved
 between Tokushima, Kagawa and Kochi prefectures during that period, police said.
 [@1] He is suspected of possessing, using and selling cannabis and stimulants,
-among other offences cited under the Stimulants Control Act. [@1] He has been
+among other offences cited under the Stimulants Control Act. [@1,2] He has been
 arrested seven times in total over the course of the case. [@1]
 
 Police said the illegal drugs seized over the course of the investigation had an
 estimated street value of about 12 million yen at retail prices. [@1] The man
 has already been indicted. [@1] Police declined to say whether he admits the
 allegations. [@1]
-
