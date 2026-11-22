@@ -46,30 +46,34 @@ sources:
     publisher: La Réunion La 1ère
     date: 2026-08-27
     language: fr
+  - title: 'Maurice : un Réunionnais interpellé à sa descente de l''avion avec 224,6 grammes de cannabis et 1 630 feuilles de tabac à rouler'
+    url: https://www.linfo.re/ocean-indien/ile-maurice-rodrigues/maurice-un-reunionnais-interpelle-a-sa-descente-de-l-avion-avec-224-6-grammes-de-cannabis-et-1-630-feuilles-de-tabac-a-rouler
+    publisher: LINFO.re
+    date: 2026-08-28
+    language: fr
 open_questions:
-  - The whole account rests on a single opened source, Reunion La 1ère, which itself cites Défi Média; the original Défi Média report could not be opened.
-  - The article uses conditional wording throughout, so the arrest and seizure are reported as alleged rather than confirmed.
-  - No name was published for the arrested man beyond his age and Dyonisien origin.
-  - The flight the man arrived on and where he had travelled from were not reported.
-  - The cannabis was described without any reported laboratory confirmation.
-  - No court outcome beyond detention and an investigation for drug importation was reported.
-  - The 1,630 rolling papers are not cannabis and are excluded from the cannabis figures.
+    - Both opened accounts, La Réunion La 1ère and LINFO.re, cite the Mauritian outlet Défi Média; the original Défi Média report could not be opened.
+    - The accounts use attributed wording throughout, so the arrest and seizure are reported as alleged rather than confirmed.
+    - No name was published for the arrested man beyond his age and Dyonisien origin.
+    - The flight the man arrived on and where he had travelled from were not reported.
+    - The cannabis was described without any reported laboratory confirmation.
+    - No court outcome beyond detention and an investigation for drug importation was reported.
+    - The 1,630 rolling papers are not cannabis and are excluded from the cannabis figures.
 ---
 
 A Reunionnais man in his fifties was arrested by the Mauritian authorities on
-Wednesday 26 August 2026 at Plaisance airport in Mauritius. [@1] The man,
+Wednesday 26 August 2026 at Plaisance airport in Mauritius. [@1,2] The man,
 described in the report as a Dyonisien, was placed in detention on suspicion of
-drug importation. [@1] He is now the subject of an investigation into drug
+drug importation. [@1,2] He is now the subject of an investigation into drug
 importation into Mauritius. [@1]
 
-Officers checked him as he stepped off the aircraft on that Wednesday. [@1] The
+Officers checked him as he stepped off the aircraft on that Wednesday. [@1,2] The
 check was carried out by officers of the Anti-Drug and Smuggling Unit and of the
 Customs Anti-Narcotics Section. [@1] In his luggage the officers found two
 compressed plastic packages. [@1] The packages held 224.6 grams of cannabis, 16
-cannabis seeds and 1,630 tobacco rolling papers. [@1]
+cannabis seeds and 1,630 tobacco rolling papers. [@1,2]
 
 The 1,630 leaves were described as tobacco rolling papers rather than cannabis,
 so they are not counted in the cannabis weight. [@1] Reunion La 1ère attributed
 its account to reporting by Défi Média in Mauritius. [@1] The report was
 published on 27 August 2026, the day after the reported arrest. [@1]
-
