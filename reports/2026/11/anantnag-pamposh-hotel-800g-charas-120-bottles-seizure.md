@@ -52,11 +52,18 @@ sources:
     url: https://www.rediff.com/news/report/illicit-liquor-and-charas-seized-from-anantnag-hotel/20261120.htm
     publisher: Rediff
     date: 2026-11-20
+  - title: Illicit Liquor, Charas Seized From Hotel In J&K's Anantnag
+    url: https://www.dailyexcelsior.com/illicit-liquor-charas-seized-from-hotel-in-jks-anantnag/
+    publisher: Daily Excelsior
+    date: 2026-11-20
+    language: en
+open_questions:
+    - 'The weight of the suspected charas differed between accounts: Greater Kashmir reported 800 grams, while this Daily Excelsior account reported approximately 850 grams.'
 ---
 
 Anantnag Police raided Pamposh Hotel in the Lal Chowk area of Anantnag on 19
-November 2026. [@1] The hotel is operated by Sajad Ahmad Bhat, a resident of Aneldoor in Anantnag, the police spokesperson said. [@3,5] Police obtained a search warrant before raiding the hotel, acting on credible information. [@3,5] Officers recovered 120 bottles of alcohol along with a
-substance suspected to be charas from the hotel premises. [@1,4] The 120 bottles of liquor seized in the raid were Old Adventure Rum. [@5]
+November 2026. [@1] The hotel is operated by Sajad Ahmad Bhat, a resident of Aneldoor in Anantnag, the police spokesperson said. [@3,5,6] Police obtained a search warrant before raiding the hotel, acting on credible information. [@3,5,6] Officers recovered 120 bottles of alcohol along with a
+substance suspected to be charas from the hotel premises. [@1,4,6] The 120 bottles of liquor seized in the raid were Old Adventure Rum. [@5]
 
 Greater Kashmir reported the suspected charas-like substance in the same hotel
 raid as weighing 800 grams. [@2] The seizure was made during a police operation
@@ -69,4 +76,4 @@ Anantnag. [@1]
 The latest seizure came amid intensified efforts by Anantnag Police to address
 substance abuse and strengthen action against activities prohibited under law.
 [@1] Further details on case registration and whether anyone was detained or
-arrested were not immediately available. [@1] A case was registered at the Saddar Anantnag police station, and police said they were investigating the source and intended recipients of the contraband. [@4,5]
+arrested were not immediately available. [@1] A case was registered at the Saddar Anantnag police station, and police said they were investigating the source and intended recipients of the contraband. [@4,5,6]
