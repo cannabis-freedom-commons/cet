@@ -93,28 +93,27 @@ sources:
     publisher: Головне gestion Національної поліції в Кіровоградській області
     date: 2026-11-19
     language: uk
-open_questions:
-    - No separate date for the search or detention was given; 19 November 2026 is the publication date and is used as the incident date.
-    - The weight was reported only as more than three kilograms; no exact measured figure or value estimate was published.
-    - All accounts derive from the same Kirovohrad Oblast police statement; no independent reporting was found.
-    - No laboratory confirmation of the seized substance was reported.
-    - No plea or final court outcome was reported; the pre-trial investigation was still under way.
+  - title: 'Понад 3 кілограми канабісу вилучили поліцейські Кіровоградщини: зловмиснику повідомили про підозру'
+    url: https://ugorod.kr.ua/news-ponad-3-klogrami-kanabsu-viluchili-polcejsk-krovogradshhini-zlovmisniku-povdomili-pro-pdozru
+    publisher: Ранкове місто (ugorod.kr.ua)
+    date: 2026-11-20
+    language: uk
 ---
 
 In Kirovohrad Oblast, law enforcement identified a 47-year-old man suspected of
-selling narcotics in Novoukrainskyi district. [@1,2,3,5] The man was detained. [@1,2,3,5]
+selling narcotics in Novoukrainskyi district. [@1,2,3,5,7] The man was detained. [@1,2,3,5,7]
 During a search of the residence where he lived, officers seized more than three
-kilograms of cannabis, according to the police. [@1,2,4,5]
+kilograms of cannabis, according to the police. [@1,2,4,5,7]
 
 The National Police press service said criminal-police operatives carried out
 the operation with investigators from Police Department No. 1 in Mala Vyska.
-[@1,2,3,6] The district prosecutor's office provided procedural supervision for the
-police operation. [@1,3,6] He was served with a suspicion notice under part 2 of
-Article 307 of the Criminal Code of Ukraine. [@1,2,3,5] That offence is unlawful
+[@1,2,3,6,7] The district prosecutor's office provided procedural supervision for the
+police operation. [@1,3,6,7] He was served with a suspicion notice under part 2 of
+Article 307 of the Criminal Code of Ukraine. [@1,2,3,5,7] That offence is unlawful
 production, manufacture, purchase and storage of narcotic substances with intent
-to sell. [@1,3,5]
+to sell. [@1,3,5,7]
 
 Under the article, the sanction provides for six to ten years' imprisonment with
-confiscation of property. [@1,2,3,5] No sentence has been imposed; the term is the
+confiscation of property. [@1,2,3,5,7] No sentence has been imposed; the term is the
 potential penalty attached to the charge. [@1] The pre-trial investigation into
-the case was still continuing at the time of publication. [@1,3,6]
+the case was still continuing at the time of publication. [@1,3,6,7]
