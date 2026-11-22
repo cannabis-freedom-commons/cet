@@ -19,6 +19,11 @@ media:
     media_url: https://io.sb.by/storage01/iblock/bd7/bd747cef3f8509a9558f598219aa81aa/77a483289d8ccacf02cccd8f5d35c70a.jpg
     publisher: СБ. Беларусь сегодня
     caption: 'Frame from a State Border Committee of Belarus video of the search of the Dutch woman''s car at the Brest checkpoint. Photo: ГПК, via СБ. Беларусь сегодня'
+  - kind: photo
+    url: https://reform.news/grazhdanku-niderlandov-s-marihuanoj-zaderzhali-na-belarussko-polskoj-granice/
+    media_url: https://reform.news/wp-content/uploads/2026/07/pic_11-4.jpg
+    publisher: REFORM.news
+    caption: 'Screenshot of a State Border Committee of Belarus video of the search at the Brest checkpoint. Photo: State Border Committee of Belarus, via REFORM.news'
 details:
   activity: [trafficking]
   agency_types: [border-guard]
@@ -52,32 +57,35 @@ sources:
     publisher: Пограничный комитет Беларуси (Telegram)
     date: 2026-07-10
     language: ru
+  - title: Гражданку Нидерландов с марихуаной задержали на беларусско-польской границе
+    url: https://reform.news/grazhdanku-niderlandov-s-marihuanoj-zaderzhali-na-belarussko-polskoj-granice/
+    publisher: REFORM.news
+    date: 2026-07-10
+    language: ru
 open_questions:
-  - No weight or street value was published for the marijuana, so no cannabis quantity can be recorded.
-  - The woman is identified only by nationality and age; her name was not published.
-  - The article gives no exact time on 7 July for the stop, and the separate 'two attempts' event named on the page is left out of this report.
-  - The source does not say whether the six vials with CBD oil traces contained a controlled quantity or were treated as evidence of use.
-  - No custody decision, charge sheet or court stage beyond the two opened criminal cases was reported.
-  - The State Border Committee post also says similar cases occurred at the same checkpoint in early July without describing them.
-  - Only state sources, the border committee and an outlet citing its press service, were found for this detention.
-  - The Grinder, CBD vials and the 'aggressive behaviour' detail come from a single state account and were not independently reported.
-  - The page image is a frame from the border committee's video and is linked rather than copied, because the footage belongs to the Belarusian state.
-  - 'Марихуана и приборы для курения: брестские пограничники задержали иностранку с наркотиками (Пограничный комитет Беларуси (Telegram)) could not be opened again to check its quotations (the browser-rendered page has almost no readable article text (it may require a login, show an access challenge, or contain only media); archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.'
+    - No weight or street value was published for the marijuana, so no cannabis quantity can be recorded.
+    - The woman is identified only by nationality and age; her name was not published.
+    - The article gives no exact time on 7 July for the stop, and the separate 'two attempts' event named on the page is left out of this report.
+    - The source does not say whether the six vials with CBD oil traces contained a controlled quantity or were treated as evidence of use.
+    - No custody decision, charge sheet or court stage beyond the two opened criminal cases was reported.
+    - The State Border Committee post also says similar cases occurred at the same checkpoint in early July without describing them.
+    - Only state sources, the border committee and outlets citing its press service, were found for this detention.
+    - The grinder, CBD vials and the 'aggressive behaviour' detail come from a single state account and were not independently reported.
 ---
 
 On Tuesday, 7 July 2026, border guards at the Brest checkpoint stopped an
-attempt to bring drugs from Poland into Belarus. [@1] The woman detained at the
-crossing was a 55-year-old citizen of the Kingdom of the Netherlands. [@1]
+attempt to bring drugs from Poland into Belarus. [@1,3] The woman detained at the
+crossing was a 55-year-old citizen of the Kingdom of the Netherlands. [@1,3]
 Belarus's State Border Committee announced the detention through its press
-service. [@1]
+service. [@1,3]
 
 During the inspection of her car, soldiers found several packets of plant
-material, and forensic testing confirmed it was marijuana. [@1] A deeper search
+material, and forensic testing confirmed it was marijuana. [@1,3] A deeper search
 turned up two more packets of the same substance, a grinder and six glass vials
-with traces of CBD oil. [@1] During the investigation the woman behaved
-aggressively, and a medical examination confirmed she had used marijuana. [@1]
+with traces of CBD oil. [@1,3] During the investigation the woman behaved
+aggressively, and a medical examination confirmed she had used marijuana. [@1,3]
 She said she was travelling to Moscow to visit her daughter but could not give
-her daughter's exact address. [@1]
+her daughter's exact address. [@1,3]
 
 Criminal cases were opened under Part 1 of Article 328 of the Criminal Code,
 which covers illegal trafficking in drugs and psychotropic substances, and Part
@@ -87,4 +95,3 @@ Marijuana and smoking devices. [@2] That account lists the extra packets, the
 grinder and the six vials with CBD oil remains among the items found in the
 deeper search. [@2] The border committee said similar cases occurred at the same
 checkpoint in early July. [@2]
-
