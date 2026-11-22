@@ -63,6 +63,11 @@ sources:
     publisher: La Réunion La 1ère
     date: 2026-08-01
     language: fr
+  - title: 'Trafic allégué de cannabis Maurice–La Réunion : Les vieux fantômes qui reviennent avec les marées'
+    url: https://lexpress.mu/s/les-vieux-fantomes-qui-reviennent-avec-les-marees-561320
+    publisher: L'Express (Mauritius)
+    date: 2026-08-08
+    language: fr
 open_questions:
   - The court's reasoning on the CCTV evidence is reported by the press and attributed to the police; the full ruling was not opened.
   - The exact weight of the shipment is given as 155.7 kg, about 156 kg and 155 kilos across Mauritian reports.
@@ -85,7 +90,7 @@ averment of trafficking. [@1,4,5] His 21 days in police detention having expired
 
 Le Mauricien reported that Mittoo accepted the prosecution’s argument that the
 evidence gathered so far establishes a reasonable suspicion of Govind’s
-involvement. [@2] The prosecution cited a flight risk because he lived near the coast and a prior drug conviction from 2008. [@4] The court based its finding on CCTV images that police say
+involvement. [@2] The prosecution cited a flight risk because he lived near the coast and a prior drug conviction from 2008. [@4] That earlier conviction was for cannabis trafficking and carried one year's imprisonment plus a Rs 20,000 fine, and his appeal was rejected. [@6] The court based its finding on CCTV images that police say
 show Govind driving a man near the Paradis Hotel on 25 July. [@1] Police also
 said the car used, which belongs to his wife, held traces of plant material and
 a seed suspected to be cannabis. [@3] Cannabis plants and a liquid suspected to
