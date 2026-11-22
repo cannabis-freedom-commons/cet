@@ -30,11 +30,16 @@ sources:
     publisher: Notícias ao Minuto
     date: 2026-11-20
     language: pt
+  - title: Agressão a agente da PSP leva à descoberta de seis estufas de canábis no Barreiro
+    url: https://sapo.pt/artigo/agressao-a-agente-da-psp-leva-a-descoberta-de-seis-estufas-de-canabis-no-barreiro-6b008850b111ab45fff8e9d4
+    publisher: SAPO
+    date: 2026-11-20
+    language: pt
 open_questions:
-    - No date was published for the search or the detention; 19 November 2026, the date of the first account, is used as the incident date, but the Lusa brief published on 20 November says the PSP announced the detention that day.
+    - 'Accounts differ on the announcement date: one brief says the PSP announced the detention on 20 November, while another dates the detention itself to 19 November 2026.'
     - No count of cannabis plants was published, only six greenhouses and 32 seeds.
     - It is unclear whether the six estufas were six separate growing locations or six indoor tents or structures in one premises, so no site count is recorded.
-    - The amounts of cash and the exact values of the watches, ring and necklace were not published beyond thousands of euros for the watches.
+    - The exact values of the watches, ring and necklace were not published beyond thousands of euros for the watches.
     - The 7.70 grams of amphetamines and 7.70 grams of MDMA/ecstasy from the same search are excluded from the cannabis figures.
     - The 454.67 grams of liamba is recorded as the cannabis weight; whether it was all dried flower, and whether any plants were seized, was not stated.
     - No trial date or further court step was reported after the man was remanded in pre-trial detention.
@@ -42,14 +47,14 @@ open_questions:
 ---
 
 PSP officers detained a 29-year-old man in Barreiro on suspicion of drug
-trafficking and the manufacture and cultivation of narcotics. [@1,2] The suspect
+trafficking and the manufacture and cultivation of narcotics. [@1,2] The PSP dated the detention to 19 November. [@3] The suspect
 was also accused of mistreatment of companion animals and crimes against public
-authority. [@1,2] The animal found at the premises was sent to the Barreiro municipal kennel for assessment and treatment. [@2] Officers had gone to a warehouse in Barreiro after a complaint about noise and the suspect attacked one of them with a wooden stick, the PSP said. [@2]
+authority. [@1,2] The animal found at the premises was sent to the Barreiro municipal kennel for assessment and treatment. [@2,3] Officers had gone to a warehouse in Barreiro after a complaint about noise and the suspect attacked one of them with a wooden stick, the PSP said. [@2,3]
 
 The police intervention seized six greenhouses together with fans, LED lamps and
 controllers, as well as thermometers, fertilisers and other material intended
 for cultivation. [@1,2] Officers also seized liamba, amphetamines and cannabis of
-different varieties during the same operation. [@1,2] Officers weighed the liamba at 454.67 grams and also seized 32 cannabis seeds, 7.70 grams of amphetamines and 7.70 grams of MDMA/ecstasy. [@2] The seizure list also
+different varieties during the same operation. [@1,2] Officers weighed the liamba at 454.67 grams and also seized 32 cannabis seeds, 7.70 grams of amphetamines and 7.70 grams of MDMA/ecstasy. [@2,3] The seizure list also
 included a precision scale, a vacuum-sealing machine, four mobile phones, two
 knives and a cleaver bearing residues of narcotics. [@1]
 
@@ -57,5 +62,5 @@ Alongside cultivation equipment and drugs, officers seized money and luxury
 articles including two luxury watches, a Rolex and a Breitling described as
 valued in the thousands of euros. [@1] The police inventory also listed cash,
 the two Rolex and Breitling watches, a ring and a necklace among the seized
-items. [@1] The investigation was continuing after the detention and seizures.
-[@1] The man was held in pre-trial detention (prisão preventiva). [@2]
+items. [@1] The PSP put the cash seized at 405 euros. [@3] The investigation was continuing after the detention and seizures.
+[@1] The man was held in pre-trial detention (prisão preventiva). [@2,3]
