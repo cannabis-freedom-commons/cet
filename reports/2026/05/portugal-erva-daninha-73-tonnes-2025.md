@@ -79,14 +79,15 @@ sources:
     publisher: Antena Livre
     date: 2026-06-16
     language: pt
-open_questions:
-    - The Antena Livre headline dates the Judicial Police operation to 2023, and the Tagusvalley director said the search came nine months after the company moved in during 2022, while other accounts date the nationwide Erva Daninha raids to May 2025; it is unclear whether these are separate phases.
-    - Expresso, as cited by Antena Livre, reported a first-phase seizure of about 1,200 kilograms of 3-CMC and 3-MMC, while the DCIAP figure used in this report is about one tonne of amphetamines; it is not clear whether these are the same seizure.
-    - Pedro Saraiva told Antena Livre the company applied to produce plastic polymers, while an earlier account said it proposed polymers for the aeronautical and aerospace industry.
+  - title: Tra­fi­can­tes usam falhas no Infar­med para des­viar caná­bis medi­ci­nal para o mer­cado negro
+    url: https://www.pressreader.com/portugal/jornal-de-noticias/20260613/281479283109166
+    publisher: Jornal de Notícias (via PressReader)
+    date: 2026-06-13
+    language: pt
 ---
 
 Portugal's Judicial Police ran Operation Erva Daninha, with about 300 inspectors, against a group
-accused of putting large quantities of cannabis on European and African markets. [@2,6,7,9] Alongside the inspectors, the operation involved 48 experts, 24 Judicial Police security staff, six public prosecutors and three judges. [@9] In the May 2025
+accused of putting large quantities of cannabis on European and African markets. [@2,6,7,9,10] Alongside the inspectors, the operation involved 48 experts, 24 Judicial Police security staff, six public prosecutors and three judges. [@9] In the May 2025
 raids officers executed 64 search warrants across mainland Portugal and Madeira, with further searches in
 Spain, Bulgaria and Cyprus, and detained five people, all reported as Portuguese. [@2] A 48-year-old man
 described as one of the leaders was detained in the Netherlands and extradited to Portugal, apparently on
@@ -111,7 +112,7 @@ amphetamines, the largest such seizure in the country. [@1,4,7] Expresso reporte
 ## The accusation
 
 On 22 May prosecutors charged 24 defendants, 13 people and 11 companies, with criminal association for
-trafficking, aggravated narcotics trafficking, money laundering and document forgery. [@4,5,6,7,8,9] They
+trafficking, aggravated narcotics trafficking, money laundering and document forgery. [@4,5,6,7,8,9,10] They
 describe a network with great logistical and financial power, established in Portugal since 2021 [@4] and
 led by Dutch and Danish citizens who settled there in 2020. [@6] It allegedly bought companies with
 medical-cannabis licences and changed their officers repeatedly to hide its leaders, diverted cannabis to
@@ -123,12 +124,12 @@ cryptoassets before returning to banks. [@4,8]
 
 Through Smart Nature, whose legal representative Aldo Vidinha is named as a central figure, the group
 allegedly moved at least 6,751 kg of cannabis flower under a medical cover, and through Linnaeuspharma it
-bought Sofex — Farmacêutica, a medicines maker in Massamá, in 2021. [@6] Geert Caers allegedly moved more
+bought Sofex — Farmacêutica, a medicines maker in Massamá, in 2021. [@6,10] Geert Caers allegedly moved more
 than 30.4 million dollars in cryptoassets on Binance between 2019 and 2024; the indictment documents more
 than 11 million euros moved through 17 Malaysian front companies, and a forged Guinea-Bissau import
 certificate dated to expire on 30 February 2024 that passed Infarmed unnoticed. [@5] Until May 2025
 Infarmed had no systematic checks with authorities abroad to validate import certificates; it says it has
-since tightened control and inspection. [@6]
+since tightened control and inspection. [@6,10]
 
 Two individual defendants, including the man extradited from the Netherlands, are in pre-trial detention
 [@4,5], two are at large under European and international arrest warrants, and the rest await trial at
