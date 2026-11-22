@@ -73,26 +73,24 @@ sources:
     publisher: Newsflash24
     date: 2026-11-11
     language: de
-open_questions:
-    - No exact date for the check was given, only that it happened recently; 11 November 2026 is the publication date of the customs statement and is used as the incident date.
-    - The cannabis weights are approximate, about one kilogram of marijuana flowers and together about 200 grams of hashish.
-    - No identities, ages, charges or court outcome were reported beyond the arrest of two people and the opening of criminal proceedings.
-    - The customs office did not say whether the two people remained in custody after the provisional arrest.
-    - The accounts do not say where the car had come from or where the cannabis was being taken.
-    - The Newsflash24 account calls the two people only two persons and does not say they were men.
+  - title: Drugssmokkelaar gepakt met wiet en hasj na vluchtpoging op elektrische step bij Duitse grens
+    url: https://crime.headliner.nl/item/drugssmokkelaar-gepakt-met-wiet-en-hasj-na-vluchtpoging-op-elektrische-step-bij-duitse-grens-crimenieuws-32697
+    publisher: Crime-Nieuws.nl
+    date: 2026-11-20
+    language: nl
 ---
 
 Customs officers stopped two men in a car during a check in Hausmoning at the
 border with Austria. [@1] When the officers stopped the vehicle, the passenger
 tried to flee on an e-scooter that had been parked next to the car, planning to
-escape over the footbridge toward Austria. [@1,2,4,5] His intended escape route led
-over the footbridge toward Austria, but customs stopped him. [@1,5] The officers
-arrested both people and initiated criminal proceedings. [@1,3,4,5]
+escape over the footbridge toward Austria. [@1,2,4,5,6] His intended escape route led
+over the footbridge toward Austria, but customs stopped him. [@1,5,6] The officers
+arrested both people and initiated criminal proceedings. [@1,3,4,5,6]
 
 In the footwell on the passenger side, officers found a bag with about one
 kilogram of marijuana flowers and two blocks of hashish weighing together about
-200 grams. [@1,2,4,5] The passenger had additionally hidden 2800 euros in his shoes.
-[@1,2,4,5] The officers seized the drugs and the money. [@1,3,4,5]
+200 grams. [@1,2,4,5,6] The passenger had additionally hidden 2800 euros in his shoes.
+[@1,2,4,5,6] The officers seized the drugs and the money. [@1,3,4,5,6]
 
 A patrol of the Traunstein road-control unit carried out the check at Hausmoning
 in the municipality of Ainring directly at the Austrian border, as the Rosenheim
