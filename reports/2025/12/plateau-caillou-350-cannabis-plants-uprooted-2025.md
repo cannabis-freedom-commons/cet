@@ -43,6 +43,11 @@ media:
     media_url: https://la1ere.franceinfo.fr/image/9U_kUSfIhUB2zyb0EqTQmEKVx3w/186x0:772x586/320x320/filters:quality(80)/outremer%2F2025%2F12%2F22%2F600162465-1307427754744700-8879115533116904078-n-6948fcbf835fb358199637.jpg
     publisher: La 1ère
     caption: 'The uprooted zamal cannabis field at Plateau-Caillou. Photo: Gendarmerie nationale'
+  - kind: photo
+    url: https://www.linfo.re/la-reunion/faits-divers/saint-paul-350-pieds-de-zamal-saisis-par-les-gendarmes-a-plateau-caillou-1
+    media_url: https://www.linfo.re/public/images/2025/12/19/zamal-c107__178787_w-620.webp
+    publisher: LINFO.re
+    caption: 'Zamal (cannabis) plants seized at Plateau-Caillou. Photo: Gendarmerie de La Réunion'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 49fab19979cfe9dd8a1ccb50b3849416
@@ -58,16 +63,17 @@ sources:
     publisher: La 1ère
     date: 2025-12-22
     language: fr
-open_questions:
-  - No figure for the field's area or an estimate of its value was published.
-  - The exact count of gendarmes involved is not stated; one account describes about ten.
-  - No one was arrested in these accounts and no judicial follow-up had been reported; the case outcome is unknown.
+  - title: 'Saint-Paul : 350 pieds de zamal saisis par les gendarmes à Plateau Caillou'
+    url: https://www.linfo.re/la-reunion/faits-divers/saint-paul-350-pieds-de-zamal-saisis-par-les-gendarmes-a-plateau-caillou-1
+    publisher: LINFO.re
+    date: 2025-12-19
+    language: fr
 ---
 
 On 18 December 2025 gendarmes uprooted 350 cannabis plants from a field at
-Plateau-Caillou, in the highlands of Saint-Paul, Réunion. [@1] The uprooting was
+Plateau-Caillou, in the highlands of Saint-Paul, Réunion. [@1,3] The uprooting was
 made possible with the support of gendarmes mobiles from the 18/9 squadron of
-Chauny, deployed in support of the territorial units. [@1]
+Chauny, deployed in support of the territorial units. [@1,3]
 
 Following intelligence gathered by the community of brigades, a large cannabis
 plantation was found in a field, among banana plants and other fruit trees. [@2]
@@ -79,4 +85,3 @@ complementarity of its forces. [@1] No arrests were reported, and judicial
 follow-up had not been known at publication. [@2] Similar operations had been
 run in September in La Possession and Saint-Louis, where nearly 200 plants were
 uprooted. [@2]
-
