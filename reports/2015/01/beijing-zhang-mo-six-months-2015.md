@@ -67,14 +67,19 @@ sources:
     publisher: 澎湃新闻
     date: 2015-01-27
     language: zh
+  - title: 张国立捧15岁儿子出道，张默两次吸毒被判6个月，晚年沉默善后成最痛 - 360娱乐，你开心就好
+    url: https://yule.360.com/detail/5303487
+    publisher: 360娱乐
+    date: 2026-11-20
+    language: zh
 ---
 
 Actor Zhang Mo, the son of Chinese director and actor Zhang Guoli, was given six
 months in prison and a 5,000-yuan fine for sheltering others to use cannabis.
-[@2] The sentence was handed down on 27 January 2015. [@1] Zhang Mo was caught
+[@2,4] The sentence was handed down on 27 January 2015. [@1,4] Zhang Mo was caught
 by police on 29 July 2014 with two friends, and all three tested positive for
-cannabis. [@3] He admitted using cannabis and said he had let friends smoke it
-at his home or theirs on more than ten occasions. [@1]
+cannabis. [@3,4] He admitted using cannabis and said he had let friends smoke it
+at his home or theirs on more than ten occasions. [@1,4]
 
 Prosecutors said he had sheltered three people to use cannabis twice at his
 Beijing home between April and June 2014. [@3] Zhang Mo pleaded guilty in the
@@ -83,7 +88,6 @@ drugs. [@2] The Haidian branch of the Beijing Public Security Bureau sought his
 arrest on 28 August 2014, and prosecutors approved it on 4 September. [@3]
 
 It was his second drug case: in January 2012 he was caught using cannabis in
-Beijing's Shunyi district and given 13 days' administrative detention. [@2] The
+Beijing's Shunyi district and given 13 days' administrative detention. [@2,4] The
 case came during a 2014 crackdown on drug use among Chinese entertainers, in
 which Jackie Chan's son Jaycee Chan and singer Li Daihou were also caught. [@2]
-
