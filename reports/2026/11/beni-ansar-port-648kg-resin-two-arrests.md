@@ -61,16 +61,16 @@ sources:
     publisher: Le360
     date: 2026-11-21
     language: fr
-open_questions:
-  - The police statement did not say where the two cars had come from or where they were heading.
-  - One account describes the two cars as a private car and a touring car, while another calls both utility vehicles.
-  - No street value was published for the 648 kilograms of resin.
-  - The two drivers have not been named or formally charged, and no court appearance has been reported.
+  - title: 'الناظور: إجهاض تهريب أزيد من 600 كيلوغرام من الحشيش بميناء بني أنصار'
+    url: https://inews.ma/news/8809664
+    publisher: أخبار المغرب العاجلة (inews.ma)
+    date: 2026-11-21
+    language: ar
 ---
 
 Police and customs officers at Beni Ansar port in Nador foiled two separate
 attempts to move 648 kilograms of cannabis resin on Friday 20 November 2026.
-[@1] Officers arrested two Moroccan drivers after searching their two
+[@1,3] Officers arrested two Moroccan drivers after searching their two
 foreign-registered cars during joint border controls that afternoon. [@1] The
 competent prosecutor placed both drivers in police custody under a judicial
 investigation. [@2] Police said the investigation was meant to establish all the
@@ -78,7 +78,7 @@ circumstances of the two cases and uncover their national and international
 ramifications. [@1]
 
 The first search found 178 kilograms of resin hidden carefully inside a load of
-food. [@1] Officers arrested the driver of that car on suspicion of involvement
+food. [@1,3] Officers arrested the driver of that car on suspicion of involvement
 in an attempted international drug trafficking operation. [@1] The second search
 uncovered 470 kilograms of the same substance in another car and officers
 arrested its 43-year-old driver. [@1] The two seizures came to 648 kilograms of
@@ -87,4 +87,3 @@ cannabis resin in total. [@1]
 The police statement said security services at border posts had redoubled their
 efforts to defeat international trafficking networks for drugs and psychotropic
 substances. [@1]
-
