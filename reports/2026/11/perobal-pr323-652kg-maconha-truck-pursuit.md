@@ -47,6 +47,16 @@ media:
     media_url: https://uploads.oparana.com.br/2026/11/WhatsApp-Image-2026-11-20-at-16.57.07-1000x750.jpeg
     publisher: O Paraná - Jornal de Fato
     caption: 'The truck and seized marijuana on the PR-323 in Perobal, captioned as the end of the pursuit with the driver arrested and 652.6 kg of marijuana seized in the truck. Photo: PRF Guaíra'
+  - kind: photo
+    url: https://portalumuaramanews.com.br/2026/11/21/bpfron-e-prf-apreendem-652-quilos-de-maconha-em-caminhao-na-pr-323-em-perobal/
+    media_url: https://portalumuaramanews.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-06.53.02-1068x801.jpeg
+    publisher: Umuarama News
+    caption: Featured handout photo on the Umuarama News report of the 652.6 kg marijuana seizure on the PR-323 in Perobal.
+  - kind: video
+    url: https://portalumuaramanews.com.br/2026/11/21/bpfron-e-prf-apreendem-652-quilos-de-maconha-em-caminhao-na-pr-323-em-perobal/
+    media_url: https://portalumuaramanews.com.br/wp-content/uploads/2026/11/MACONHA.mp4?_=1
+    publisher: Umuarama News
+    caption: Video published with the Umuarama News report on the 652.6 kg marijuana seizure on the PR-323 in Perobal.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: e52918156e1317bad870e94f4bdda62d
@@ -67,31 +77,38 @@ sources:
     publisher: Tarobá
     date: 2026-11-20
     language: pt
+  - title: BPFRON e PRF apreendem 652 quilos de maconha em caminhão na PR-323, em Perobal
+    url: https://portalumuaramanews.com.br/2026/11/21/bpfron-e-prf-apreendem-652-quilos-de-maconha-em-caminhao-na-pr-323-em-perobal/
+    publisher: Umuarama News
+    date: 2026-11-21
+    language: pt
+open_questions:
+    - No custody decision, charge sheet or court outcome was reported after the driver was taken to the Civil Police station in Umuarama.
 ---
 
 Federal Highway Police officers and Paraná's Border Police Battalion (BPFRON)
 arrested a truck driver on the PR-323 in Perobal, in northwestern Paraná, on the
-morning of Friday 20 November 2026. [@1,3] The driver was 27 years old. [@2,3]
+morning of Friday 20 November 2026. [@1,3] The driver was 27 years old. [@2,3,4]
 Officers tried to stop a bitrem, a tractor unit with two semitrailers, near the
 turn-off for the Cedro district. [@1] The driver disobeyed, sped away, overtook
 where overtaking was forbidden and forced other drivers off the road to avoid
 head-on crashes. [@1,3] After about five kilometres he stopped the truck on the
-shoulder and ran into a pasture beside the highway. [@1,3] The PRF called BPFRON
+shoulder and ran into a pasture beside the highway. [@1,3,4] The PRF called BPFRON
 teams from Umuarama to help with the approach. [@1] Officers followed him and
-caught him about 500 metres from the truck. [@2,3]
+caught him about 500 metres from the truck. [@2,3,4]
 
 In the cab of the truck-tractor officers found dozens of bales of marijuana.
-[@1] The drug weighed 652.6 kilograms. [@1,3] Police seized a Volvo FH 460 tractor
-unit and two Noma semitrailers. [@2] The two semitrailers were loaded with
-sesame seeds. [@2,3] The operation began after PRF intelligence reported that a
+[@1] The drug weighed 652.6 kilograms. [@1,3,4] Police seized a Volvo FH 460 tractor
+unit and two Noma semitrailers. [@2,4] The two semitrailers were loaded with
+sesame seeds. [@2,3,4] The operation began after PRF intelligence reported that a
 Volvo truck had left Guaíra for the Umuarama region with a suspected illicit
-load. [@2,3] The BPFRON put the loss to organised crime at R$ 1,955,200. [@2]
+load. [@2,3,4] The BPFRON put the loss to organised crime at R$ 1,955,200. [@2,4]
 
 The driver told officers the drug had been loaded between Guaíra and Mundo Novo,
-in Mato Grosso do Sul, and was bound for Curitiba. [@2,3] He said he would receive
-R$ 30,000 for the transport. [@2,3] Mundo Novo lies in the border region with
+in Mato Grosso do Sul, and was bound for Curitiba. [@2,3,4] He said he would receive
+R$ 30,000 for the transport. [@2,3,4] Mundo Novo lies in the border region with
 Paraguay. [@1]
 
 He was arrested in flagrante for drug trafficking and dangerous driving. [@1]
 He, the truck and the drug were taken to the Civil Police station in Umuarama
-for legal procedures. [@1,3]
+for legal procedures. [@1,3,4]
