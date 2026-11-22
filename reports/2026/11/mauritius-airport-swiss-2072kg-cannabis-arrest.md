@@ -81,29 +81,28 @@ sources:
     publisher: 20 Minuten
     date: 2026-11-20
     language: de
-open_questions:
-  - 'Accounts differ on the weight: IONNEWS and Radio One give 20.72 kg, while L''Express and Mauritius News round it to 20 kg; the more precise 20.72 kg is used.'
-  - L'Express described the material only as cannabis; no breakdown into flower, resin or other form, and no laboratory confirmation, was reported.
-  - No formal charge, court appearance or outcome was reported; the case remained under investigation.
-  - The intended recipient of the controlled delivery did not appear, and no further suspects have been publicly named.
-  - A Swiss outlet converted L'Express's Rs 36 million estimate to about 647,000 Swiss francs; the rupee figure is used in the figures.
+  - title: 'TRAFIC DE DROGUE | Aéroport SSR : Un jeune Suisse arrêté avec 20,6 kg de drogue'
+    url: https://www.lemauricien.com/le-mauricien/trafic-de-drogue-aeroport-ssr-un-jeune-suisse-arrete-avec-206-kg-de-drogue/723773/
+    publisher: Le Mauricien
+    date: 2026-11-21
+    language: fr
 ---
 
 Officers of the Anti-Drug and Smuggling Unit (ADSU) arrested a 21-year-old Swiss
 man at Sir Seewoosagur Ramgoolam International Airport on 18 November 2026 as he
-arrived from Zurich. [@1,5] He had arrived on flight WK 070 from Zurich. [@2] He
+arrived from Zurich. [@1,5,6] He had arrived on flight WK 070 from Zurich. [@2] He
 was intercepted on arrival by the Customs Anti-Narcotics Section together with
-ADSU officers stationed at the airport. [@3,5] A search of his trolley bag found
-20 plastic bags containing 20.72 kg of cannabis. [@1] The market value of the
-consignment was estimated at about 36 million rupees. [@3,5]
+ADSU officers stationed at the airport. [@3,5,6] A search of his trolley bag found
+20 plastic bags containing 20.72 kg of cannabis. [@1,6] The market value of the
+consignment was estimated at about 36 million rupees. [@3,5,6]
 
 ADSU investigators then staged a controlled delivery to identify the presumed
 local recipient, but the person expected to collect the drugs did not appear at
-the rendezvous. [@3,5] The man was placed in detention at the Line Barracks
+the rendezvous. [@3,5,6] The controlled delivery was abandoned the following day. [@6] The man was placed in detention at the Line Barracks
 centre. [@2]
 
 He was arrested for importing cannabis with presumption of trafficking, an
-offence carrying aggravating circumstances. [@2] Switzerland's Federal Department of Foreign Affairs said it had no knowledge of the case when asked by 20 Minuten. [@5] The investigation was led by
+offence carrying aggravating circumstances. [@2] He remained in police custody on 21 November under a provisional charge of importing cannabis. [@6] Switzerland's Federal Department of Foreign Affairs said it had no knowledge of the case when asked by 20 Minuten. [@5] The investigation was led by
 the airport ADSU under Superintendent Ghoora and Assistant Superintendent
 Goinden. [@3] Investigators continued to establish the circumstances of the
 importation and to identify possible accomplices in Mauritius. [@3,5] Plaisance,
