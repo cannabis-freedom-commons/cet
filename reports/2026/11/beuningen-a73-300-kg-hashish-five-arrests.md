@@ -54,6 +54,11 @@ media:
     media_url: https://images.ad.nl/ZGlvLzI4MDU1Njg0NS9maXQtd2lkdGgvNjI4/een-agent-met-speciale-zakken-in-de-laadruimte
     publisher: AD.nl
     caption: 'An officer with special bags in the cargo hold during the vehicle search after the A73 chase. Photo: Heitink'
+  - kind: photo
+    url: https://www.gld.nl/nieuws/8550065/politie-vindt-ruim-300-kilo-hasj-in-verborgen-ruimte-voertuig-na-actie-op-a73
+    media_url: https://i.regiogroei.cloud/a480b788-f6f3-34ce-8ef7-781e5f14bd2e.jpg?width=1104&height=828&aspect_ratio=1104:828&cb=00bd0c2530647a09b463167069866583
+    publisher: Omroep Gelderland
+    caption: 'The police check on the A73 near Beuningen, where the box lorry was stopped after a short chase. Photo: Persbureau Heitink'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: e1627e246f0bc31cc48d5f0862285bf6
@@ -109,6 +114,16 @@ sources:
     publisher: Gelderlander.nl
     date: 2026-11-20
     language: nl
+  - title: Vijf verdachten opgepakt na achtervolging op A73 voor witwassen en drugsbezit, 300 kilo hasj gevonden in verborgen ruimte
+    url: https://drimble.nl/regio/gelderland/nijmegen/108663646/vijf-verdachten-opgepakt-na-achtervolging-op-a73-voor-witwassen-en-drugsbezit-300-kilo-hasj-gevonden-in-verborgen-ruimte.html
+    publisher: Drimble.nl
+    date: 2026-11-20
+    language: nl
+  - title: Politie vindt ruim 300 kilo hasj in verborgen ruimte voertuig na actie op A73
+    url: https://www.gld.nl/nieuws/8550065/politie-vindt-ruim-300-kilo-hasj-in-verborgen-ruimte-voertuig-na-actie-op-a73
+    publisher: Omroep Gelderland
+    date: 2026-11-20
+    language: nl
 open_questions:
     - The police described the find as 'ruim 300 kilo' (just over 300 kilograms); no exact measured weight was published.
     - 'The accounts place the search differently: the police said the hidden compartment was found in a vehicle in Oosterhout, while NOS reported the lorry was searched at the police station in Nijmegen.'
@@ -118,10 +133,10 @@ open_questions:
 ---
 
 Dutch police arrested five men on suspicion of money laundering and drug
-possession. [@1,2,5,7,8,9,10] The five arrests were made on Thursday 19 November 2026. [@2,5,6,7,8]
+possession. [@1,2,5,7,8,9,10,11] The five arrests were made on Thursday 19 November 2026. [@2,5,6,7,8]
 The operation began around 20:00 when an automatic number-plate recognition
 alert flagged a vehicle, and after the driver ignored a stop sign a short chase
-ended on the A73 at Beuningen where the driver and passenger were arrested. [@2,5,9]
+ended on the A73 at Beuningen where the driver and passenger were arrested. [@2,5,9,12]
 The first two, a 20-year-old and a 22-year-old from Tilburg, were followed by
 three more arrests in Oosterhout: a 22-year-old with no fixed residence and two
 men aged 18 and 19 from Tilburg. [@2,5,9] Omroep Brabant reported that four of those
@@ -132,4 +147,4 @@ of them holding over 300 kilograms of hashish, the police said. [@2,5,6,7,8,9,10
 to NOS, the lorry was taken under police escort to the station in Nijmegen,
 where officers opened parts of the roof and found a concealed space behind the
 cab from which dozens of bags were removed. [@3] The police said all five
-suspects remained in custody and were being questioned. [@2,4,5,6,9] Police also seized the vehicles and the drugs found during the searches. [@9]
+suspects remained in custody and were being questioned. [@2,4,5,6,9,12] Police also seized the vehicles and the drugs found during the searches. [@9]
