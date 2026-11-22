@@ -74,27 +74,25 @@ sources:
     url: https://www.sunugox.info/dakar-trafic-de-drogue-27-kg-de-haschich-2-kg-de-cocaine-1-kg-de-crack-et-plus-de-36-millions-de-francs-cfa-saisis-dans-un-appartement-a-la-cite-mbakiou/
     publisher: Sunugox
     language: fr
-open_questions:
-  - The commune or neighbourhood of Cité Mbakiou Faye is not named beyond Dakar, so the coordinates are for the city.
-  - The names, ages and nationalities of the two suspects were not released.
-  - No charges, court appearance, detention measure or outcome for the two suspects was reported.
-  - The accounts all relay the same gendarmerie communication division statement and are not independent reporting.
-  - No value estimate for the 27 kilograms of hashish was published.
+  - title: 'Cité Mbakiou Faye : la Brigade de recherches met la main sur plus de 30 kg de drogues'
+    url: https://senegaldirect.com/cite-mbakiou-faye-la-brigade-de-recherches-met-la-main-sur-plus-de-30-kg-de-drogues/
+    publisher: Senegal Direct
+    date: 2026-11-20
+    language: fr
 ---
 
 Gendarmes of the Brigade de recherches (BR) of Dakar arrested two people in an
-apartment in Cité Mbakiou Faye on Thursday 19 November 2026. [@1] The
+apartment in Cité Mbakiou Faye on Thursday 19 November 2026. [@1,5] The
 gendarmerie said the two were suspected of belonging to a large drug-trafficking
 network. [@1] Seneweb reported that the information came from Colonel Ibrahima
 Ndiaye, head of the gendarmerie's communication division. [@2]
 
 The search of the apartment found 27 kilograms of hashish, two kilograms of
-cocaine and one kilogram of crack. [@1] Officers also seized two private
+cocaine and one kilogram of crack. [@1,5] Officers also seized two private
 vehicles and 3,645,000 CFA francs in cash, which the gendarmerie described as
-the presumed proceeds of the trade. [@1] The three drugs weighed 30 kilograms in
-all; only the 27 kilograms of hashish are counted as cannabis here. [@3]
+the presumed proceeds of the trade. [@1,5] The three drugs weighed 30 kilograms in
+all; only the 27 kilograms of hashish are counted as cannabis here. [@3,5]
 
 The gendarmerie's communication division said the operation was part of its work
 against drug trafficking. [@4] No charges, court date or other judicial
 follow-up for the two detainees was reported. [@3]
-
