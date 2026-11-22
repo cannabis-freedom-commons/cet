@@ -44,27 +44,32 @@ sources:
     url: https://www.nampa.org/text/22753592
     publisher: NAMPA
     date: 2025-10-08
+  - title: Over 200 people arrested in one month for drug offences
+    url: https://observer24.com.na/over-200-people-arrested-in-one-month-for-drug-offences/
+    publisher: Windhoek Observer
+    date: 2025-10-09
+    language: en
 open_questions:
-  - The article gives no day for any of the operations; September 2025 is the period covered and 30 September 2025 is used as the incident date.
-  - No breakdown is published of where the drugs were seized, how the cannabis split between seizures and destroyed plants, or how much the haul was worth.
-  - No charges, court appearances or outcomes are reported for the 211 suspects.
-  - The Mandrax, cocaine powder and crack cocaine are noted for context and left out of all cannabis figures.
-  - The Namibian copy credits the wire agency NAMPA, and NAMPA's own page shows only a shortened preview behind a login, so the second source corroborates the headline figures rather than the full release.
-  - The article's lead photo is an uncredited WhatsApp upload captioned only with the headline and is not listed as media.
+    - The article gives no day for any of the operations; September 2025 is the period covered and 30 September 2025 is used as the incident date.
+    - No breakdown is published of where the drugs were seized, how the cannabis split between seizures and destroyed plants, or how much the haul was worth.
+    - No charges, court appearances or outcomes are reported for the 211 suspects.
+    - The Mandrax, cocaine powder and crack cocaine are noted for context and left out of all cannabis figures.
+    - The Namibian copy credits the wire agency NAMPA, and NAMPA's own page shows only a shortened preview behind a login, so the second source corroborates the headline figures rather than the full release.
+    - The article's lead photo is an uncredited WhatsApp upload captioned only with the headline and is not listed as media.
+    - The Windhoek Observer account gives 1.08 tonnes of cannabis and 1,037 Mandrax tablets, while the other reports give more than 1,085 kg and 1,035 tablets.
 ---
 
 The Namibian Police Force arrested 211 suspects in drug operations carried out
-across the country during September 2025. [@1] Of those arrested, 202 were
+across the country during September 2025. [@1,3] Of those arrested, 202 were
 Namibian nationals, and the rest were two Angolans, five Zambians, one Burundian
-and one Tanzanian. [@1]
+and one Tanzanian. [@1,3]
 
 Police deputy commissioner Kauna Shikwambi said the seizures included more than
 1 085 kilogrammes of cannabis, along with 1 035 Mandrax tablets, 33 grams of
-cocaine powder and 186.5 units of crack cocaine. [@1]
+cocaine powder and 186.5 units of crack cocaine. [@1,3]
 
 The national police press agency NAMPA reported the same figures from
 Shikwambi's release, describing them as the results of countrywide operations
 during September. [@2] Shikwambi said the force remained committed to combating
 drug-related crime and urged the public to report suspicious activity and to
 stand together against illicit drugs. [@1]
-
