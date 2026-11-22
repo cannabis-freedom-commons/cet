@@ -1,0 +1,88 @@
+---
+code: 9MZ8KN
+added_at: "2026-11-22T21:49:05.333733Z"
+date: 2026-11-21
+country: es
+place: Encinas Reales, Córdoba, Andalusia
+coordinates: [37.2734376, -4.4873319]
+precision: locality
+type: raid
+also: [seizure, arrest]
+title: One arrested as Guardia Civil finds 418 cannabis plants in Encinas Reales house
+summary: >-
+  Guardia Civil officers searched a house in Encinas Reales, Córdoba, and dismantled two indoor cannabis plantations of 418 plants in two rooms, arresting the person they identified as responsible. He was accused of a crime against public health for cultivating and processing drugs and of electricity fraud over an illegal connection to the power grid.
+figures:
+  arrested: 1
+  plants_destroyed: 418
+  sites: 2
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  products:
+    - {product: plants, plants: 418}
+  activity: [cultivation, processing]
+  setting: [home]
+  environment: [indoor]
+  charges: [delito contra la salud pública por cultivo y elaboración de drogas, defraudación de fluido eléctrico]
+  case_stage: investigation
+  date_precision: publication
+  region: Córdoba
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.environment: [1]
+  details.products: [1]
+  details.setting: [2]
+  figures.arrested: [1, 2]
+  figures.plants_destroyed: [2]
+  figures.sites: [1]
+media:
+  - kind: photo
+    url: https://www.diariocordoba.com/cordoba/2026/11/21/fuerte-olor-desata-sospechas-guardia-civil-encinas-reales-136691355.html
+    media_url: https://estaticos-cdn.prensaiberica.es/clip/9b29e039-edf8-4442-9c6d-bea9c138d68b_16-9-discover-aspect-ratio_default_0_x1000y500.webp
+    publisher: Diario Córdoba
+    caption: 'Marijuana plants inside the indoor plantation dismantled in a house in Encinas Reales. Photo: Guardia Civil'
+status: verified
+created_by_model: swancloud/deepseek-v4.1-flash#max
+submission: 82ad122dfb284f0b724d03b09d627d86
+tags: [encinas-reales, cordoba, indoor-grow, guardia-civil, spain]
+sources:
+  - title: 'Un "fuerte olor" desata las sospechas: la Guardia Civil desmantela una plantación de marihuana en una vivienda de Encinas Reales'
+    url: https://www.diariocordoba.com/cordoba/2026/11/21/fuerte-olor-desata-sospechas-guardia-civil-encinas-reales-136691355.html
+    publisher: Diario Córdoba
+    date: 2026-11-21
+    language: es
+  - title: La Guardia Civil detiene a una persona en Encinas Reales tras intervenir 418 plantas de marihuana en una vivienda
+    url: https://cordopolis.eldiario.es/cordoba-hoy/sucesos/guardia-civil-detiene-persona-encinas-reales-intervenir-418-plantas-marihuana-vivienda_1_13682392.html
+    publisher: Cordópolis
+    date: 2026-11-21
+    language: es
+open_questions:
+  - No date is given for the search itself; 21 November 2026 is the publication date of the accounts and that date stands in for the incident date.
+  - No weight or street value was published for the 418 plants.
+  - The detainee's age, identity and any court appearance were not reported.
+  - The plants had not been destroyed at the time of reporting; they were held for analysis before destruction.
+  - Both accounts reproduce the Guardia Civil press release and are not independent reporting.
+---
+
+The Guardia Civil arrested one person in Encinas Reales, a town in the Subbética
+of Córdoba province, on suspicion of cultivating and processing drugs. [@1] The
+investigation began in mid-September 2026, when officers learned that a strong
+smell of marijuana could be noticed near several houses in a neighbourhood of
+the town. [@2]
+
+Officers searched the house the smell came from and found two indoor marijuana
+plantations in two rooms fitted out for growing and drying the plants. [@1] The
+rooms had all the equipment needed to grow and dry the plants, the force said.
+[@1] In total officers seized 418 marijuana plants and dismantled both
+installations. [@2]
+
+The arrested person was accused of a crime against public health for cultivating
+and processing drugs and of electricity fraud, because the property had an
+illegal connection to the power grid. [@1] The case papers were sent to the
+competent judicial authority, and the seized plants were kept under judicial
+custody for analysis and later destruction. [@1]
+
