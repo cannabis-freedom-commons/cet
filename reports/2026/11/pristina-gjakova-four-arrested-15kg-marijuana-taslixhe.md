@@ -92,16 +92,29 @@ sources:
     publisher: Reporteri.net
     date: 2026-11-20
     language: sr
+  - title: Cinco personas fueron arrestadas en dos operativos policiales y se incautaron más de 14 kilogramos de marihuana y cocaína.
+    url: https://reporteri.net/es/noticias/Cinco-personas-fueron-arrestadas-en-dos-operativos-policiales-y-se-incautaron-m%C3%A1s-de-14-kilogramos-de-marihuana-y-coca%C3%ADna./
+    publisher: Reporteri.net
+    date: 2026-11-20
+    language: es
+  - title: Kosovo police seize 14.8 kg marijuana, cocaine and cash
+    url: https://europecrime.com/article/kosovo-police-seize-14kg-marijuana-cocaine
+    publisher: Europecrime
+    date: 2026-11-20
+open_questions:
+    - The police statement gives 14 kg 815 g of suspected marijuana, while Interior Minister Xhelal Sveçla's announcement rounded it to about 15 kilograms.
+    - The substance was described only as suspected marijuana, with no laboratory confirmation or net weight reported.
+    - No charges or court outcome beyond the 48-hour detention order were reported.
 ---
 
 Kosovo police arrested four people suspected of drug trafficking in an operation
-codenamed Taslixhe. [@1,5,6,7,8,9,10] The operation was carried out at different locations in
-Pristina and Gjakova, in coordination with the prosecutor's office. [@3,6,7,8,9,10]
+codenamed Taslixhe. [@1,5,6,7,8,9,10,11] The four suspects, identified only as SB, FB, NI and Gj.Z., were held for 48 hours on a prosecutor's order. [@11] The operation was carried out at different locations in
+Pristina and Gjakova, in coordination with the prosecutor's office. [@3,6,7,8,9,10,11] The first operation was carried out by investigators from the Pristina and Gjakova units of the Drug Trafficking Investigation Directorate, with the Rapid Response Unit and the Mutivoda Border Police. [@11]
 Interior Minister Xhelal Sveçla announced the arrests in a Facebook post. [@2,5,8,9]
 
-Officers seized about 15 kilograms of marijuana during the searches. [@4,5,6,7,8,9,10] They
+Officers seized about 15 kilograms of marijuana during the searches. [@4,5,6,7,8,9,10,11,12] They
 also seized an unspecified quantity of cocaine, cash, weapons and ammunition,
-mobile phones and two vehicles. [@2,5,6,7,8,9,10] The minister gave no quantity for the
+mobile phones and two vehicles. [@2,5,6,7,8,9,10] The police statement also listed two revolvers, 62 cartridges, 9,120 euros, 350 Swiss francs, two cars, four mobile phones and a digital scale. [@11] The minister gave no quantity for the
 cocaine, no cash amount and no type or number of weapons. [@1,8,9] The places
 searched and the identities of the four arrested were not published. [@1,9]
 
