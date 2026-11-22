@@ -115,6 +115,11 @@ sources:
     publisher: Kosovahaber.com
     date: 2026-11-21
     language: tr
+  - title: Quatre personnes arrêtées pour trafic de stupéfiants à Pristina, Gjakova et au poste-frontière de Mutivodë – plus de 14 kilogrammes de marijuana saisis
+    url: https://periskopi.com/fr/2026/11/arretees-trafic-stupefiants-pristina-gjakova-poste-frontiere-mutivode-14-kilogrammes-marijuana-saisis
+    publisher: Periskopi
+    date: 2026-11-21
+    language: fr
 open_questions:
     - The police statement gives 14 kg 815 g of suspected marijuana, while Interior Minister Xhelal Sveçla's announcement rounded it to about 15 kilograms.
     - The substance was described only as suspected marijuana, with no laboratory confirmation or net weight reported.
@@ -122,11 +127,11 @@ open_questions:
 ---
 
 Kosovo police arrested four people suspected of drug trafficking in an operation
-codenamed Taslixhe. [@1,5,6,7,8,9,10,11] The four suspects, identified only as SB, FB, NI and Gj.Z., were held for 48 hours on a prosecutor's order. [@11] The four people arrested were citizens of Kosovo. [@13,14] The operation was carried out at different locations in
-Pristina and Gjakova, in coordination with the prosecutor's office. [@3,6,7,8,9,10,11] The operation took place at noon in Pristina, Gjakova and at the Mutivoda border crossing. [@13,14] The police report dated the operation to 20 November 2026. [@14] The first operation was carried out by investigators from the Pristina and Gjakova units of the Drug Trafficking Investigation Directorate, with the Rapid Response Unit and the Mutivoda Border Police. [@11]
+codenamed Taslixhe. [@1,5,6,7,8,9,10,11] The four suspects, identified only as SB, FB, NI and Gj.Z., were held for 48 hours on a prosecutor's order. [@11] The four people arrested were citizens of Kosovo. [@13,14,16] The operation was carried out at different locations in
+Pristina and Gjakova, in coordination with the prosecutor's office. [@3,6,7,8,9,10,11] The operation took place at noon in Pristina, Gjakova and at the Mutivoda border crossing. [@13,14,16] The police report dated the operation to 20 November 2026. [@14] The police report located the Pristina search on Isa Kastrati street. [@14] The first operation was carried out by investigators from the Pristina and Gjakova units of the Drug Trafficking Investigation Directorate, with the Rapid Response Unit and the Mutivoda Border Police. [@11]
 Interior Minister Xhelal Sveçla announced the arrests in a Facebook post. [@2,5,8,9]
 
-Officers seized about 15 kilograms of marijuana during the searches. [@4,5,6,7,8,9,10,11,12] Police put the amount of marijuana seized at 14 kilograms and 815 grams. [@13,15] They
+Officers seized about 15 kilograms of marijuana during the searches. [@4,5,6,7,8,9,10,11,12] Police put the amount of marijuana seized at 14 kilograms and 815 grams. [@13,15,16] They
 also seized an unspecified quantity of cocaine, cash, weapons and ammunition,
 mobile phones and two vehicles. [@2,5,6,7,8,9,10] The police statement also listed two revolvers, 62 cartridges, 9,120 euros, 350 Swiss francs, two cars, four mobile phones and a digital scale. [@11] The minister gave no quantity for the
 cocaine, no cash amount and no type or number of weapons. [@1,8,9] The places
