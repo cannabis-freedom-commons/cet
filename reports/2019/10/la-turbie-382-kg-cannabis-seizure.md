@@ -48,6 +48,11 @@ media:
     media_url: https://france3-regions.franceinfo.fr/image/fsgYK094QC3QChr86SpZc4D5DFg/600x400/regions/2020/06/09/5edf8ca03e1a4_resized_part0000011-e1571833295196-4484463.jpg
     publisher: France 3
     caption: 'Resin packages in one of the truck crates from the La Turbie seizure. Photo: Douanes 06'
+  - kind: photo
+    url: https://www.nicemag.fr/article/8254/pres-de-nice-des-emballages-qui-cachaient-382-kg-de-cannabis-offerts-a-des-associations
+    media_url: https://www.nicemag.fr/media/images/thumb/1200x675_pres-de-nice-des-emballages-qui-cachaient-382-kg-de-cannabis-offerts-a-des-associations_6affdb288cfc8.jpg
+    publisher: Nice Mag
+    caption: Customs handing over the rolls of gift wrapping and bags that had concealed the cannabis to the Restos du Cœur and Montjoye charities.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: d62c42d172623d3e38d2b785d2885953
@@ -73,28 +78,28 @@ sources:
     publisher: Police & Réalités
     date: 2026-11-19
     language: fr
-open_questions:
-    - Whether the seizure total was 382 kg or 383 kg is unclear from the differing figures.
-    - The exact calendar day of the October 2019 seizure remains unconfirmed beyond a Monday seizure followed by a Wednesday conviction.
-    - The currency of the 766 800 counter-value and the amount of the fine were not stated.
-    - A separate 93 kg seizure on 2 October in a Romanian truck is a different event left out here.
+  - title: 'Près de Nice : des emballages qui cachaient 382 kg de cannabis offerts à des associations'
+    url: https://www.nicemag.fr/article/8254/pres-de-nice-des-emballages-qui-cachaient-382-kg-de-cannabis-offerts-a-des-associations
+    publisher: Nice Mag
+    date: 2026-11-20
+    language: fr
 ---
 
 In October 2019 customs officers at the La Turbie toll in Alpes-Maritimes
 stopped a truck carrying 382 kg of cannabis hidden under rolls of wrapping paper
-and gift bags. [@1,2,4] The seized cannabis was given a counter-value of 766 800. [@3] The seized drug was cannabis resin. [@2] The cannabis was hidden in a Spanish refrigerated truck.
+and gift bags. [@1,2,4,5] The seized cannabis was given a counter-value of 766 800. [@3] The seized drug was cannabis resin. [@2] The cannabis was hidden in a Spanish refrigerated truck.
 [@1] The truck was travelling from Spain toward Italy when checked by the Menton surveillance brigade. [@3] The driver first told the customs officers he had nothing to declare, but
 the transport documents listed bathtubs, churros paste, medical equipment,
 wrapping paper and gift bags. [@1]
 
 During a thorough search the sniffer dogs marked pallets placed beneath the gift
 bags, behind which were 11 « valises marocaines ». [@1] The cache was found with the help of sniffer dog Orson. [@2] The driver was convicted
-of transporting narcotic products. [@1,4] The driver was sentenced to five years in prison, a fine equal to the value of the goods, and confiscation of the cargo and the truck. [@3] The seizure also included 300 rolls of
-wrapping paper and more than 4,000 gift bags. [@1,2,4] The wrapping paper and gift
+of transporting narcotic products. [@1,4,5] The driver was sentenced to five years in prison, a fine equal to the value of the goods, and confiscation of the cargo and the truck. [@3] The seizure also included 300 rolls of
+wrapping paper and more than 4,000 gift bags. [@1,2,4,5] Some of the wrapping was decorated with characters from Star Wars and the Teenage Mutant Ninja Turtles. [@5] The wrapping paper and gift
 bags were described as cover goods meant to deceive the customs officers. [@1]
 
 The cover goods had remained in customs storage since the seizure. [@1,4] The rolls and pouches were new and protected under hermetic film that kept them from any contact with the drugs, so customs offered them to charities instead of paying for destruction. [@2] For the
 2026 holiday season the customs administration gave the goods to the Restos du
-Cœur and the Montjoye association, both of which agreed. [@1,2,4] On 19 November
+Cœur and the Montjoye association, both of which agreed. [@1,2,4,5] On 19 November
 2026 the goods were handed over at a Restos du Cœur warehouse in
 Saint-Laurent-du-Var. [@1]
