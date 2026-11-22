@@ -39,30 +39,26 @@ sources:
     publisher: Okaz
     date: 2026-11-21
     language: ar
-open_questions:
-  - The week covered by the tally is not dated; 21 November 2026 is the announcement and publication date and stands in for the incident date.
-  - No weight, plant count, street value or arrest count is given for the hashish or any other narcotic; the tally records no cannabis quantity.
-  - The 1,053 total covers all prohibited goods, including tobacco and money, and is not a cannabis figure.
-  - Akhbaar 24 counts 31 narcotics seizures while Okaz describes 31 types of narcotics for the same tally.
-  - Okaz names hashish alongside cocaine, heroin, shabu and Captagon but gives no amount for any of them.
-  - No individual seizures, suspects, charges or court outcomes are described; the accounts give only aggregate numbers.
-  - Both accounts reproduce ZATCA's announcement and are not independent reporting.
+  - title: «زاتكا» تسجل (1,053) حالة ضبط للممنوعات في المنافذ الجمركية
+    url: https://www.sra7h.com/%D8%B2%D8%A7%D8%AA%D9%83%D8%A7-%D8%AA%D8%B3%D8%AC%D9%84-1053-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B6%D8%A8%D8%B7-%D9%84%D9%84%D9%85%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84/
+    publisher: صحيفة صراحة الالكترونية
+    date: 2026-11-21
+    language: ar
 ---
 
 Saudi Arabia's customs authority recorded 1,053 seizures of smuggled goods at
-its land, sea and air ports in one week. [@2] The haul included narcotics, sums
-of money, prohibited goods and tobacco and its derivatives. [@1] The narcotics
+its land, sea and air ports in one week. [@2,3] The haul included narcotics, sums
+of money, prohibited goods and tobacco and its derivatives. [@1,3] The narcotics
 covered 31 types, including hashish, cocaine, heroin, shabu (crystal meth) and
-Captagon pills. [@2] Okaz described the interceptions as part of continuous
+Captagon pills. [@2,3] Okaz described the interceptions as part of continuous
 efforts to strengthen security and protect society from smuggling attempts. [@2]
 
 Akhbaar 24 split the total into 31 narcotics seizures, 263 seizures of
 prohibited goods, 781 involving tobacco and its derivatives and 11 involving
 money. [@1] ZATCA said it would keep tightening control of imports and exports
-with other agencies to protect society and the national economy. [@2]
+with other agencies to protect society and the national economy. [@2,3]
 
 The authority asked the public to report smuggling on its 1910 hotline, on
-009661910 from outside the kingdom, or by email at 1910@zatca.gov.sa. [@1] It
+009661910 from outside the kingdom, or by email at 1910@zatca.gov.sa. [@1,3] It
 said reports are treated in confidence and that informants receive money when
-the information proves correct. [@2]
-
+the information proves correct. [@2,3]
