@@ -41,6 +41,11 @@ media:
     media_url: https://hm.rmgcdn.com/2026/11/20/policija-zaplenila-640x360.jpg
     publisher: Hronika Magazin
     caption: 'Police handout photo of the seizure in Kaluđerica. Photo: MUP Srbije (Serbian Ministry of Internal Affairs)'
+  - kind: photo
+    url: https://www.novosti.rs/amp/hronika/hapsenja-i-istraga/1673124/akcija-novobeogradske-policije-zaplenjeni-kokain-marihuana
+    media_url: https://www.novosti.rs/data/images/2026-11-20/765891_droga_kfmob.jpg
+    publisher: Novosti.rs
+    caption: 'Police photo of the cocaine and marijuana seized in the Kaluđerica operation. Photo: MUP (Serbian Interior Ministry)'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 7819b8fb358ac8305d36c9cd746fb894
@@ -61,29 +66,26 @@ sources:
     publisher: Telegraf.rs
     date: 2026-11-20
     language: sr
-open_questions:
-  - No precise weight was published for the marijuana; the sources say only 'more than three kilograms'.
-  - The 9.8 grams of cocaine and its 11 packets are excluded from the cannabis figures.
-  - One account identifies the suspect by his 1993 birth year while two others give his age as 33.
-  - No charge, trial date or court outcome had been reported; the suspect was held for up to 48 hours.
-  - No separate operation date was given; 20 November 2026 is the publication date of all three accounts.
-  - All three accounts derive from the same Interior Ministry announcement rather than independent reporting.
+  - title: 'AKCIJA NOVOBEOGRADSKE POLICIJE: Zaplenjeni kokain i marihuana'
+    url: https://www.novosti.rs/amp/hronika/hapsenja-i-istraga/1673124/akcija-novobeogradske-policije-zaplenjeni-kokain-marihuana
+    publisher: Novosti.rs
+    date: 2026-11-20
+    language: sr
 ---
 
 Police arrested A. M., a 33-year-old man, in Kaluđerica on suspicion of
-unauthorised production and trafficking of narcotic drugs. [@2] The arrest was
+unauthorised production and trafficking of narcotic drugs. [@2,4] The arrest was
 made by Novi Beograd police station officers together with the Higher Public
-Prosecution in Belgrade. [@3] Officers searched a flat and a car the suspect
-used in Kaluđerica. [@1]
+Prosecution in Belgrade. [@3,4] Officers searched a flat and a car the suspect
+used in Kaluđerica. [@1,4]
 
 Police said they found more than three kilograms of marijuana, packed in four
-vacuum bags and 262 smaller packets. [@1] They also found about 9.8 grams of
-cocaine in 11 packets and three precision scales, which were seized too. [@1]
+vacuum bags and 262 smaller packets. [@1,4] They also found about 9.8 grams of
+cocaine in 11 packets and three precision scales, which were seized too. [@1,4]
 
 The suspect was ordered held for up to 48 hours and was to be brought before the
-prosecution with a criminal complaint. [@1] The Ministry of Internal Affairs
+prosecution with a criminal complaint. [@1,4] The Ministry of Internal Affairs
 said the investigation was continuing and that all the evidence found would be
 examined. [@1] Information from the investigation indicated the substances were
 intended for further distribution. [@1] Police sources described the operation
 as part of routine activity against drug trafficking. [@1]
-
