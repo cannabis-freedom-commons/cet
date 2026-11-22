@@ -47,6 +47,11 @@ media:
     media_url: https://clareherald.com/wp-content/uploads/2026/11/Shannon-201126-%E2%80%93-seized-herbal-cannabis.jpg
     publisher: The Clare Herald
     caption: 'Herbal cannabis seized at Shannon Airport on 20 November 2026. Photo: The Clare Herald / Revenue Customs'
+  - kind: photo
+    url: https://www.independent.ie/county/clare/cannabis-worth-over-360k-seized-at-shannon-airport/a/164877592.html
+    media_url: https://prod-img.independent.ie/public/incoming/z5w3qo-364000-worth-of-herbal-cannabis-has-been-seized./alternates/THREE_TWO_1620/%E2%82%AC364000%20worth%20of%20herbal%20cannabis%20has%20been%20seized.
+    publisher: Irish Independent
+    caption: 'Herbal cannabis worth €364,000 seized at Shannon Airport. Photo: Revenue'
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 9d7a55bfc541f9432704cba0c8952293
@@ -64,25 +69,25 @@ sources:
     url: https://www.clare.fm/news/e364k-worth-of-cannabis-seized-at-shannon-airport/
     publisher: Clare FM
     date: 2026-11-20
-open_questions:
-  - No arrests, names or charges were reported, and Revenue said no further information was available.
-  - The accounts describe shipments from the United States but do not say whether they were air cargo, mail or passenger luggage.
-  - The €364,000 figure is Revenue’s estimate, not an independently measured street value.
+  - title: Cannabis worth over €360k seized at Shannon Airport
+    url: https://www.independent.ie/county/clare/cannabis-worth-over-360k-seized-at-shannon-airport/a/164877592.html
+    publisher: Irish Independent
+    date: 2026-11-20
 ---
 
 Revenue Customs officers at Shannon Airport seized herbal cannabis on Friday 20
-November 2026 after routine operations at the airport. [@2,3] A spokesperson for
+November 2026 after routine operations at the airport. [@2,3,4] A spokesperson for
 Revenue confirmed that detector dog Brody assisted officers in making the
-seizure. [@1,3] The officers seized a total of 26 kilograms of herbal cannabis.
-[@1,3] Revenue estimated the value of that herbal cannabis at €364,000. [@1,3]
+seizure. [@1,3,4] The officers seized a total of 26 kilograms of herbal cannabis.
+[@1,3,4] Revenue estimated the value of that herbal cannabis at €364,000. [@1,3,4]
 Revenue said the drugs were illicit and had been found in the course of those
 routine checks. [@2]
 
 The illicit drugs were discovered in shipments that originated in the United
-States and were destined for addresses in the west of the country. [@2,3] The
+States and were destined for addresses in the west of the country. [@2,3,4] The
 spokesperson confirmed that no further information was available. [@1]
-Investigations into the seizure were ongoing. [@1] Revenue said the seizure
+Investigations into the seizure were ongoing. [@1,4] Revenue said the seizure
 formed part of its continuing operations targeting the importation of illegal
-drugs. [@1] Businesses and members of the public with any information regarding
+drugs. [@1,4] Businesses and members of the public with any information regarding
 drug smuggling were asked to contact Revenue in confidence on the confidential
 telephone number 1800 295 295. [@1]
