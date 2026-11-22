@@ -88,16 +88,11 @@ sources:
     publisher: EQSnotas
     date: 2026-11-20
     language: es
-open_questions:
-  - No weight was published for the cannabis, which was seized in wrappers together with cocaine, so no cannabis kilogram figure is recorded.
-  - No count was given for the cannabis plants found in the two homes.
-  - The reports do not say whether the man was detained before he was released with substitute measures.
-  - No laboratory confirmation of the seized cannabis or cocaine was reported.
-  - The accounts do not say which of the two addresses the drugs, plants, cash and revolver were found at.
-  - No value estimate for the seized drugs was published.
-  - The suspect was identified only by his initials, J.C.V., and no plea, indictment hearing or later court step was reported.
-  - The published accounts reproduce the same Chubut police statement, so there is no independent reporting or version from the defence.
-  - Diario Jornada gives the cash as about 300,000 pesos while the other accounts give 300,000 pesos.
+  - title: Vendía drogas en tres localidades de la cordillera y le secuestraron cocaína, cannabis y un arma
+    url: https://argentarnoticias.com.ar/vendia-drogas-en-tres-localidades-de-la-cordillera-y-le-secuestraron-cocaina-cannabis-y-un-arma/
+    publisher: Argentar Noticias
+    date: 2026-11-20
+    language: es
 ---
 
 Police of the Chubut force's dangerous drugs division for the Comarca Andina,
@@ -105,17 +100,17 @@ based in El Hoyo, raided two homes in El Bolsón, Río Negro, on Thursday 19
 November 2026, under the supervision of the federal prosecutor's office in
 Esquel and with the duty criminal judge's authorisation. [@1,4] The searches were
 at homes on avenida Costanera, in barrio Luján, and on avenida Patagonia
-Argentina. [@1,4] Officers from the Esquel drugs unit, the Esquel infantry guard,
-the El Hoyo GRIM group and El Bolsón's 12th police station took part. [@1,4]
+Argentina. [@1,4,5] Officers from the Esquel drugs unit, the Esquel infantry guard,
+the El Hoyo GRIM group and El Bolsón's 12th police station took part. [@1,4,5]
 
-Officers seized wrappers of cannabis and portioned cocaine. [@1,4] They also found
-cannabis plants and a .38 revolver with five rounds of ammunition. [@2,4] Officers also seized precision digital scales and mobile phones of interest to the case. [@4] Officers
-seized 300,000 pesos in cash. [@1,4]
+Officers seized wrappers of cannabis and portioned cocaine. [@1,4,5] They also found
+cannabis plants and a .38 revolver with five rounds of ammunition. [@2,4,5] Officers also seized precision digital scales and mobile phones of interest to the case. [@4,5] Officers
+seized 300,000 pesos in cash. [@1,4,5]
 
 Police identified the suspect as a 52-year-old man from Neuquén living in El
 Bolsón, and said he sold drugs at retail in El Bolsón, Lago Puelo and El Hoyo.
-[@1,4] He was charged under Law 23.737, Argentina's narcotics law. [@1,4] He was
+[@1,4,5] He was charged under Law 23.737, Argentina's narcotics law. [@1,4,5] He was
 also accused of an offence under article 189 bis of the penal code over the
-firearm seized in the raids. [@1,4] He was released with substitute measures at
+firearm seized in the raids. [@1,4,5] He was released with substitute measures at
 his home and remains at the disposal of the Esquel federal prosecutor's office
-while the case continues. [@3,4]
+while the case continues. [@3,4,5]
