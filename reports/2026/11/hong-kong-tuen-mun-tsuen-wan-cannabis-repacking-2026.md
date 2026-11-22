@@ -157,25 +157,32 @@ sources:
     publisher: Sing Tao Daily
     date: 2026-11-20
     language: zh
+  - title: 香港海關搗破製毒工場及毒品分銷中心並檢獲約一百六十萬元懷疑毒品
+    url: https://www.flamingwheels.online/html/20261121/158481.htm
+    publisher: 風火時報 (Flaming Wheels)
+    date: 2026-11-21
+    language: zh
+open_questions:
+    - What happened at the Shatin Magistrates' Courts hearing on 21 November 2026 is not reported in these accounts.
 ---
 
 Hong Kong Customs shut down a suspected drug repacking distribution centre in
 Tuen Mun and a suspected drug manufacturing centre in Tsuen Wan on 19 November
-2026. [@2,4,6,7,9,10,11,12] Officers seized about 3.7 kilograms of suspected cannabis buds, 3.6
+2026. [@2,4,6,7,9,10,11,12,13] Officers seized about 3.7 kilograms of suspected cannabis buds, 3.6
 kilograms of suspected cannabis oil, about 24 kilograms of cannabis-infused
-candies and 1,148 suspected cannabis oil vape capsules. [@1,4,5,6,8,9,10,11,12] Customs put the
-total estimated market value of the haul at about HK$1.6 million. [@2,4,5,6,8,9,10,11,12] Three
-people were arrested. [@2,4,5,6,9,10,11,12]
+candies and 1,148 suspected cannabis oil vape capsules. [@1,4,5,6,8,9,10,11,12,13] Customs put the
+total estimated market value of the haul at about HK$1.6 million. [@2,4,5,6,8,9,10,11,12,13] Three
+people were arrested. [@2,4,5,6,9,10,11,12,13]
 
 In a residential flat in Tuen Mun, officers found the 3.7 kilograms of buds, 332
 of the vape capsules, about 180 grams of cannabis-infused candies and drug
-packaging paraphernalia. [@1,5,6,8,9,10,11,12] Customs said it identified two target men through intelligence analysis, and that the 28-year-old woman was accompanying the 23-year-old man when officers took him to the Tuen Mun flat for the search. [@4,9,12] The 23-year-old man and the 28-year-old woman arrested in Tuen Mun were a couple. [@8,9] In a hotel room in Tsuen Wan they found the 3.6
+packaging paraphernalia. [@1,5,6,8,9,10,11,12,13] Customs said it identified two target men through intelligence analysis, and that the 28-year-old woman was accompanying the 23-year-old man when officers took him to the Tuen Mun flat for the search. [@4,9,12] The 23-year-old man and the 28-year-old woman arrested in Tuen Mun were a couple. [@8,9] In a hotel room in Tsuen Wan they found the 3.6
 kilograms of cannabis oil, the remaining 816 vape capsules, about 24 kilograms
-of candies and packaging and manufacturing equipment. [@1,3,5,6,8,9,10,11,12] The manufacturing and packaging equipment seized included syringes and induction cookers, alongside oils in different flavours. [@7] Customs said the gang mixed in differently flavoured oils to lower young people's guard, and that the candies looked like ordinary sweets and could easily be eaten by young children by mistake. [@3] Customs said the gang chose a hotel room with inconvenient transport and little foot traffic, did part of the work there, then moved the semi-finished products to the flat for packing, storage and distribution. [@3,6,12]
+of candies and packaging and manufacturing equipment. [@1,3,5,6,8,9,10,11,12,13] The manufacturing and packaging equipment seized included syringes and induction cookers, alongside oils in different flavours. [@7] Customs said the gang mixed in differently flavoured oils to lower young people's guard, and that the candies looked like ordinary sweets and could easily be eaten by young children by mistake. [@3] Customs said the gang chose a hotel room with inconvenient transport and little foot traffic, did part of the work there, then moved the semi-finished products to the flat for packing, storage and distribution. [@3,6,12]
 
 A 23-year-old man and a 28-year-old woman were charged with two counts each of
-trafficking in a dangerous drug. [@2,4,5,6,8,9,10,11,12] Customs said the 23-year-old man arrested in the Tuen Mun flat was unemployed and the 28-year-old woman a cleaner. [@3,9,12] A 33-year-old man was charged with two
+trafficking in a dangerous drug. [@2,4,5,6,8,9,10,11,12,13] Customs said the 23-year-old man arrested in the Tuen Mun flat was unemployed and the 28-year-old woman a cleaner. [@3,9,12] A 33-year-old man was charged with two
 counts of trafficking in a dangerous drug and one count of manufacture of a
-dangerous drug. [@2,4,5,6,7,9,10,11,12] The two arrested men admitted receiving HK$20,000 a month as payment for trafficking, Customs said. [@3,6,9,12] The 33-year-old man, who rented the hotel room, said he was a construction worker. [@3] The case was listed for Shatin Magistrates' Courts on 21
-November 2026. [@1,4,5,6,8,9,10,11,12] Trafficking in a dangerous drug carries a maximum penalty of
+dangerous drug. [@2,4,5,6,7,9,10,11,12,13] The two arrested men admitted receiving HK$20,000 a month as payment for trafficking, Customs said. [@3,6,9,12] The 33-year-old man, who rented the hotel room, said he was a construction worker. [@3] The case was listed for Shatin Magistrates' Courts on 21
+November 2026. [@1,4,5,6,8,9,10,11,12,13] Trafficking in a dangerous drug carries a maximum penalty of
 a HK$5 million fine and life imprisonment. [@1,5,9,10]
