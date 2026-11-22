@@ -47,6 +47,11 @@ media:
     media_url: https://cdn.botasot.info/botasot.info/images/2026/November/20/SADLAS1795191484.jpg?width=851&enlarge=1
     publisher: Bota Sot
     caption: A view of the Kosovo Police operation in Maqitevë, Suhareka, published with the indictment report.
+  - kind: photo
+    url: https://kossev.info/zh-CN/optuznica-protiv-trojice-zbog-512-kilograma-marihuane-u-suvoj-reci-uz-drogu-pronadjeni-i-protivtenkovska-raketa-minobacac-i-puske/
+    media_url: https://kossev.info/wp-content/uploads/2025/08/1-4.jpg
+    publisher: KoSSev
+    caption: 'Marijuana seized in the Suhareka case. Photo: Kosovo police.'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 6a9ecbab8aa3340a369aabcd74acf782
@@ -72,21 +77,25 @@ sources:
     publisher: Arbresh.info
     date: 2026-11-20
     language: sq
+  - title: 苏瓦雷卡警方查获512公斤大麻，并对三名男子提起诉讼：除毒品外，警方还查获了一枚反坦克导弹、一门迫击炮和几支步枪
+    url: https://kossev.info/zh-CN/optuznica-protiv-trojice-zbog-512-kilograma-marihuane-u-suvoj-reci-uz-drogu-pronadjeni-i-protivtenkovska-raketa-minobacac-i-puske/
+    publisher: KoSSev
+    date: 2026-11-20
+    language: zh
 open_questions:
-  - No separate date is given for the indictment; 20 November 2026 is the publication date of these reports and is used as the incident date.
-  - The reports give no figure for the area under cultivation; the only areas stated are the two plots of 1,963 and 1,438 square metres that prosecutors want confiscated.
-  - The German-language account describes the charge as aiding cultivation, while the Albanian reports say the three acted jointly as co-perpetrators.
-  - The indictment covers cultivation from an unspecified start date until 16 September 2025; the reports do not say when the growing began.
-  - No trial date, plea or possible sentence is reported.
-  - The reports do not say when the three were arrested or whether all have been held since the September 2025 discovery.
-  - No market value was given for the 512 kilograms.
-  - The accounts reproduce the same Prizren prosecution announcement and are not independent reporting.
-  - 'Left out, as its quotation was not found in Bota Sot: Prosecutors also sought permanent confiscation of the two plots of 1,963 and 1,438 square metres, the house and stable, the drugs and cultivation equipment, the weapons and ammunition, mobile phones and a tractor with trailer.'
+    - No separate date is given for the indictment; 20 November 2026 is the publication date of these reports and is used as the incident date.
+    - The reports give no figure for the area under cultivation; the only areas stated are the two plots of 1,963 and 1,438 square metres that prosecutors want confiscated.
+    - The German-language account describes the charge as aiding cultivation, while the Albanian reports say the three acted jointly as co-perpetrators.
+    - The indictment covers cultivation from an unspecified start date until 16 September 2025; the reports do not say when the growing began.
+    - No trial date, plea or possible sentence is reported.
+    - The reports do not say when the three were arrested or whether all have been held since the September 2025 discovery.
+    - The accounts reproduce the same Prizren prosecution announcement and are not independent reporting.
+    - '''Left out, as its quotation was not found in Bota Sot: Prosecutors also sought permanent confiscation of the two plots of 1,963 and 1,438 square metres, the house and stable, the drugs and cultivation equipment, the weapons and ammunition, mobile phones and a tractor with trailer.'''
 ---
 
 Kosovo's Basic Prosecution in Prizren has filed an indictment against three
 people over cannabis cultivation and sale in Maqitevë, a village in Suhareka
-municipality. [@3] All three were in pre-trial detention when the indictment was
+municipality. [@3,5] All three were in pre-trial detention when the indictment was
 filed. [@1] They are charged with cultivating cannabis and with the unauthorised
 purchase, possession, distribution and sale of narcotics. [@2] Each of the three
 is also charged separately with unauthorised possession of weapons. [@2]
@@ -94,12 +103,11 @@ is also charged separately with unauthorised possession of weapons. [@2]
 According to the indictment, from an unspecified date until 16 September 2025
 they cultivated cannabis on two plots in a mountainous area of Maqitevë, using a
 reservoir and drip irrigation. [@2] Officers found 512 kilograms of marijuana in
-a stable during checks on 16 September 2025. [@1] Prosecutors said the marijuana
+a stable during checks on 16 September 2025. [@1,5] Kosovo police estimated the market value of the marijuana at about 750,000 euros at the time of the seizure. [@5] Prosecutors said the marijuana
 was being dried and prepared for distribution and sale. [@3] Samples examined by
 the Kosovo Agency for Forensics tested positive for cannabis containing THC.
 [@4]
 
 During the searches, an anti-tank rocket, a hand mortar, a hunting rifle, a
-semi-automatic rifle and ammunition were also seized. [@1] The prosecutor asked
+semi-automatic rifle and ammunition were also seized. [@1,5] The prosecutor asked
 the court to find the three guilty and sentence them under the law. [@2]
-
