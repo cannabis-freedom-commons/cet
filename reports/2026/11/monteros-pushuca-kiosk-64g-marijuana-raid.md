@@ -64,6 +64,11 @@ sources:
     publisher: Monterizos
     date: 2026-11-17
     language: es
+  - title: 'Narcomenudeo en Monteros: fue allanado el kiosco de Pushuca y secuestraron cocaína, marihuana y elementos para fraccionarlas'
+    url: https://tucumandespierta.com/narcomenudeo-en-monteros-fue-allanado-el-kiosco-de-pushuca-y-secuestraron-cocaina-marihuana-y-elementos-para-fraccionarlas/
+    publisher: Tucumán Despierta
+    date: 2026-11-19
+    language: es
 open_questions:
   - No formal charge or court outcome was reported for either man; the case remained with the federal prosecutor.
   - Pepiyo was apprehended for alleged assault and resistance to authority rather than the drug offence.
@@ -73,33 +78,32 @@ open_questions:
 ---
 
 Police in Monteros, Tucumán, detained a 50-year-old man known as Pushuca during
-an operation against small-scale drug selling. [@1] A second man known as Pepiyo
+an operation against small-scale drug selling. [@1,3] A second man known as Pepiyo
 was apprehended at the same address for alleged assault and resistance to
-authority. [@1] The raid took place on Tuesday 17 November at a house in the
+authority. [@1,3] The raid took place on Tuesday 17 November at a house in the
 Villa Dominga neighbourhood, after an investigation by the Western Dangerous
-Drugs Directorate (Didrop) into suspected drug sales. [@1] Didrop Oeste led the
+Drugs Directorate (Didrop) into suspected drug sales. [@1,3] Didrop Oeste led the
 search, with officers from Didrop Bella Vista providing cover and perimeter
 security. [@1] Two people were involved in the raid at the pasaje 26 de Enero
 address, where drugs and items linked to the investigation were seized. [@2]
 
 Officers found 21 wrappers containing seven grams of cocaine and 62 packages of
-marijuana totalling 64 grams. [@1] They also seized one cannabis plant about 20
+marijuana totalling 64 grams. [@1,3] They also seized one cannabis plant about 20
 centimetres tall, two digital scales, two mobile phones and several spoons
-bearing cocaine residue. [@1] The haul also included substances suspected of
+bearing cocaine residue. [@1,3] The haul also included substances suspected of
 being used to cut or divide the drugs, material for making wrappers and cash
-whose amount was not specified. [@1] A pair of scissors with substance residue
+whose amount was not specified. [@1,3] A pair of scissors with substance residue
 and two spoons with material residue were also recovered. [@2]
 
 Officers entered the property at pasaje 26 de Enero 900 with a warrant from
-Federal Court No. 2 of Tucumán. [@1] The warrant was sought by the Federal
+Federal Court No. 2 of Tucumán. [@1,3] The warrant was sought by the Federal
 Prosecutor's Office No. 2, which had gathered evidence during the investigation.
 [@1] The prior investigation included surveillance of the house, audiovisual
-records and protected witnesses. [@1] An undercover agent also contributed
+records and protected witnesses. [@1,3] An undercover agent also contributed
 information that helped secure the judicial authorisation. [@1] Pushuca was held
 incommunicado at the disposal of the federal justice on suspicion of violating
-Argentina's National Narcotics Law 23.737. [@1] The case remains with the
+Argentina's National Narcotics Law 23.737. [@1,3] The case remains with the
 federal justice, which will assess the evidence and decide the next procedural
-steps for the two men. [@1] Investigators said analysis of the phones and other
+steps for the two men. [@1,3] Investigators said analysis of the phones and other
 seized items could show how far the activity extended and whether others were
 involved. [@1]
-
