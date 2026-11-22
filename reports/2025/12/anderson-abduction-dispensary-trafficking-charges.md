@@ -33,6 +33,11 @@ media:
     media_url: https://www.wspa.com/wp-content/uploads/sites/53/2025/12/Adbuction-Dispensary.png?resize=876,492
     publisher: WSPA 7NEWS
     caption: 'The exterior of the Abduction Dispensary storefront in Anderson County, South Carolina. Photo: WSPA'
+  - kind: photo
+    url: https://www.fitsnews.com/2026/04/24/upstate-attorney-indicted-booked-in-expanding-dispensary-trafficking-case/
+    media_url: https://www.fitsnews.com/wp-content/uploads/2026/04/ashaley-boatwright-640x1024.jpg
+    publisher: FITSNews
+    caption: 'Booking photo of Ashaley Boatwright, one of three people indicted in the Abduction Dispensary case, after his arrest on 23 April 2026. Photo: Anderson County Detention Center'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5524731d709d377f868d530524f60154
@@ -42,18 +47,28 @@ sources:
     url: https://www.wspa.com/news/local-news/upstate-dispensary-owners-charged-with-trafficking-marijuana/
     publisher: WSPA 7NEWS
     date: 2025-12-11
+  - title: South Carolina locations of Union business raided; Owner charged with trafficking
+    url: https://www.missourian.com/news/south-carolina-locations-of-union-business-raided-owner-charged-with-trafficking/article_33cb6217-be2e-4c9b-91b9-e5ffecaa95c2.html
+    publisher: The Missourian
+    date: 2026-05-14
+    archived: https://web.archive.org/web/20260523093827id_/https://www.missourian.com/news/south-carolina-locations-of-union-business-raided-owner-charged-with-trafficking/article_33cb6217-be2e-4c9b-91b9-e5ffecaa95c2.html
+  - title: Upstate Attorney Indicted, Booked in Expanding Dispensary Trafficking Case
+    url: https://www.fitsnews.com/2026/04/24/upstate-attorney-indicted-booked-in-expanding-dispensary-trafficking-case/
+    publisher: FITSNews
+    date: 2026-04-24
 open_questions:
-  - The report names neither the owners nor the manager and gives no count of the owners beyond the plural, so no arrested or charged figures are recorded.
-  - No weight, plant count, area, or value was published for the seized products.
-  - The second search is dated only as December 4, and 2025 is inferred from the July 31, 2025 date and the December 11, 2025 publication.
-  - The account says the owners and manager were charged but does not say whether anyone was arrested or detained.
-  - No plea, court date, or case outcome was reported.
-  - The legal threshold is reproduced as stated in the account, 0.03 percent Delta-9 THC, with no laboratory results or statute cited.
-  - The account rests on a single outlet report citing the Anderson Police Department, with no second account found.
+    - The store's manager is not named, and the accounts do not make clear which defendant held which role at the business.
+    - No weight, plant count, area, or value was published for the seized products.
+    - The second search is dated only as December 4, and 2025 is inferred from the July 31, 2025 date and the December 11, 2025 publication.
+    - The accounts say the owners and manager were charged but do not say whether anyone was arrested or detained.
+    - No plea or trial date has been reported; the case was before the statewide grand jury after the April 2026 indictment.
+    - The legal threshold is reproduced as stated in the account, 0.03 percent Delta-9 THC, with no laboratory results or statute cited.
+    - The indictment's 10 to 100 pound figure is the range in the trafficking charge, not a measured quantity of seized marijuana.
+    - No enforcement action against the business's two Franklin County, Missouri, locations is reported.
 ---
 
 The owners of a THC dispensary in Anderson, South Carolina, were charged with
-trafficking marijuana, according to the Anderson Police Department. [@1] The
+trafficking marijuana, according to the Anderson Police Department. [@1] Jesse Turner owns Abduction Dispensary, a business with two locations in Franklin County, Missouri. [@2] The
 manager of the same dispensary was charged with conspiracy to distribute. [@1]
 
 Police said officers executed a search warrant on July 31, 2025, at the
@@ -63,10 +78,9 @@ during that search containing Delta-9 THC levels that exceeded the
 state-mandated threshold of 0.03%. [@1] A joint investigation with the South
 Carolina Law Enforcement Division then followed after authorities said the store
 had continued its unlawful operations. [@1] Officers served another search
-warrant at the store on December 4. [@1]
+warrant at the store on December 4. [@1] Boatwright was separately charged with money laundering. [@3] A South Carolina state grand jury indicted Turner, Ashaley Boatwright and Mikell D. Fairey on 22 April 2026. [@3]
 
 Additional illegal items were reportedly seized during that second search. [@1]
 Officers said the products seized in the investigation either exceeded the legal
 0.03 percent limit or contained prohibited compounds such as raw marijuana plant
-material. [@1]
-
+material. [@1] Turner said his products skirt the legal definition of the drug and that his stores have operated within the law in Missouri and South Carolina. [@2]
