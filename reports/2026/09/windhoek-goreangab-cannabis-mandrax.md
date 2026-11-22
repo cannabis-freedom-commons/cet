@@ -33,8 +33,9 @@ status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [windhoek, mandrax]
 open_questions:
-  - The operation was reported on 13 September and the exact day was not stated; the report date is used. The Mandrax is noted for context and only cannabis is counted in the figures.
-  - No second outlet account was found; every fact above comes from the Mohale FM report of the Namibian police statement.
+    - The informante_news account dates the search to Saturday; with a 13 September post date that would be 12 September, so the exact day remains uncertain and the report keeps 13 September.
+    - The Mandrax is noted for context and only cannabis is counted in the figures.
+    - The informante_news post reproduces a news account credited to a staff reporter and NamPol photos, not independent reporting of the police statement.
 sources:
   - title: Namibia police seize drugs worth N$2.2m in Windhoek
     url: https://mohalefm.co.ls/namibia-police-seize-drugs-worth-n2-2m-in-windhoek/
@@ -44,13 +45,24 @@ sources:
     url: https://www.namibian.com.na/woman-arrested-for-drugs-worth-n2-2m-at-goreagab/
     publisher: The Namibian
     date: 2026-09-13
+  - title: Woman arrested in N$2.2 million drug bust
+    url: https://www.instagram.com/p/DdPJJ2EHC0q/
+    publisher: informante_news (Instagram)
+    date: 2026-09-13
+    language: en
+media:
+  - kind: photo
+    url: https://www.instagram.com/p/DdPJJ2EHC0q/
+    media_url: https://scontent-prg1-1.cdninstagram.com/v/t39.30808-6/808921884_1405328171809572_2020838773394568520_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4NTQ0NDQ1NDE5MTA4Mjc5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE3My5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=2uEYc7I5WbUQ7kNvwGCofb1&_nc_oc=Adrq3uHC26LgmfNYvBnZijyTRUy1RO7C3hIgTL1ZMC71QGumSWlJkAXEldqSE4pmahU&_nc_zt=23&_nc_ht=scontent-prg1-1.cdninstagram.com&_nc_gid=znWuze56OAqZ6o1jQTLG-w&_nc_ss=7aa8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTaoe3rVEAPWwkxrkz0T1j9XFhEJDPFoxRXnU_p70WMEw&oe=6B08E89C
+    publisher: informante_news
+    caption: 'NamPol photo of the suspected drugs seized at the Goreagab residence, posted with the arrest report. Photo: NamPol (Namibian police).'
 ---
 
 Namibian police arrested a 38-year-old woman after seizing suspected cannabis and Mandrax
-valued at more than N$2.2 million in Windhoek's Goreangab area. [@1,2]
+valued at more than N$2.2 million in Windhoek's Goreangab area. [@1,2,3]
 
 Police spokesperson Deputy Commissioner Kauna Shikwambi said officers recovered about
-10.2 kilograms of suspected cannabis and 17,717 Mandrax tablets in the operation. [@1,2] The
-suspect is expected to face charges related to dealing in drugs. [@1]
+10.2 kilograms of suspected cannabis and 17,717 Mandrax tablets in the operation. [@1,2,3] The
+suspect is expected to face charges related to dealing in drugs. [@1,3]
 
-The woman is facing charges under the Abuse of Dependency-Producing Substances and Rehabilitation Centres Act for allegedly dealing in prohibited dependency-producing substances, as well as a charge under the Prevention of Organised Crime Act. [@2]
+The woman is facing charges under the Abuse of Dependency-Producing Substances and Rehabilitation Centres Act for allegedly dealing in prohibited dependency-producing substances, as well as a charge under the Prevention of Organised Crime Act. [@2,3]
