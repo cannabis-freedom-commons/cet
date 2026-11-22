@@ -64,28 +64,31 @@ sources:
     publisher: Diário do Distrito
     date: 2026-11-20
     language: pt
+  - title: Comportamento suspeito na presença da GNR termina com apreensão de 38 plantas de canábis em Santiago do Cacém
+    url: https://sapo.pt/artigo/comportamento-suspeito-na-presenca-da-gnr-termina-com-apreensao-de-38-plantas-de-canabis-em-santiago-do-cacem-6b00835af92df73836205965
+    publisher: Diário do Distrito
+    date: 2026-11-20
+    language: pt
 open_questions:
-  - No weight in grams or kilograms was given for the 109.40 doses of dried cannabis, so only the plant count is recorded.
-  - The GNR did not say where in the municipality the man was stopped or where the plants and growing equipment were found.
-  - No street value was published for the seizure.
-  - The man was released after being made an arguido, and no charge, hearing date or court outcome was reported.
-  - The accounts are the GNR's own statement and two outlets reproducing it, so they are not independent reporting of the detention.
-  - 'Left out, as its quotation was not found in Guarda Nacional Republicana: The Guard also seized a greenhouse, a heating lamp, a thermometer, a plant-growth enhancer, a precision scale and 65 zip bags.'
+    - No weight in grams or kilograms was given for the 109.40 doses of dried cannabis, so only the plant count is recorded.
+    - The GNR did not say where in the municipality the man was stopped or where the plants and growing equipment were found.
+    - No street value was published for the seizure.
+    - The man was released after being made an arguido, and no charge, hearing date or court outcome was reported.
+    - The accounts are the GNR's own statement and outlets reproducing it, so they are not independent reporting of the detention.
 ---
 
 Officers of the criminal investigation unit of the GNR's Santiago do Cacém
 territorial detachment arrested a 42-year-old man in the municipality on
-Thursday 19 November 2026 on suspicion of drug trafficking. [@2] The Guard said
+Thursday 19 November 2026 on suspicion of drug trafficking. [@2,4] The Guard said
 the man behaved suspiciously when he saw the officers during police duties,
-which prompted them to approach him. [@2] The GNR's Setúbal territorial command
+which prompted them to approach him. [@2,4] The GNR's Setúbal territorial command
 announced the detention in a statement on Friday 20 November 2026. [@1]
 
 Officers seized 38 cannabis plants and 109.40 doses of cannabis leaves and
-flowering tops. [@3] The operation had the reinforcement of officers from the
-Cercal do Alentejo territorial post. [@2]
+flowering tops. [@3,4] Officers also seized a greenhouse, a heating lamp, a thermometer, a plant-growth enhancer, a precision scale and 65 hermetic bags. [@4] The operation had the reinforcement of officers from the
+Cercal do Alentejo territorial post. [@2,4]
 
 The detainee was made an arguido and subjected to a termo de identidade e
 residência, which requires him to keep the authorities informed of his address,
-and was later released. [@2] The facts were reported to the Judicial Court of
-Santiago do Cacém. [@3]
-
+and was later released. [@2,4] The facts were reported to the Judicial Court of
+Santiago do Cacém. [@3,4]
