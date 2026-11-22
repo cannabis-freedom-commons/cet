@@ -47,14 +47,18 @@ sources:
   - title: "Fight Against Drug Trafficking: Cameroon Gov't Destroys 62 Bags Of Cannabis Worth Cfa 400 Million"
     url: https://africafirstclub.com/read/fight-against-drug-trafficking-cameroon-gov-t-destroys-62-bags-of-cannabis-worth-cfa-400-million
     publisher: Africa First Club
+  - title: 'Yaoundé : plus d’une tonne de cannabis d’une valeur de près de 400 millions de FCFA détruite'
+    url: https://www.stopblablacam.com/societe/3107-12736-yaounde-plus-d-une-tonne-de-cannabis-d-une-valeur-de-pres-de-400-millions-de-fcfa-detruite
+    publisher: StopBlaBlaCam
+    date: 2024-07-31
+    language: fr
 open_questions:
-  - The reports do not say when or exactly where the 62 bags were seized, beyond the tracking from Bui Division.
-  - No charges, identities or court outcome for the five apprehended traffickers are reported.
-  - Photos on the source pages could not be verified as showing this destruction, so no photo is listed.
+    - The exact location within Yaounde where the 62 bags were seized on 2 July 2024 is not specified.
+    - No charges, identities or court outcome for the five apprehended traffickers are reported.
 ---
 
-On Tuesday 30 July 2024 the Minister of Territorial Administration, Paul Atanga Nji, supervised the public destruction of 62 bags of cannabis at the Nsam dump site in Yaounde. [@1,2,3] The cannabis weighed 1,614.8 kg and was estimated at about 400 million francs CFA. [@1,2,3] The minister was accompanied by the Centre Region governor, the Mfoundi divisional officer and subdivision heads, before the press. [@1,2]
+On Tuesday 30 July 2024 the Minister of Territorial Administration, Paul Atanga Nji, supervised the public destruction of 62 bags of cannabis at the Nsam dump site in Yaounde. [@1,2,3,4] The cannabis weighed 1,614.8 kg and was estimated at about 400 million francs CFA. [@1,2,3,4] The 62 bags had been seized in Yaounde on 2 July 2024 in an operation coordinated by the police intelligence services. [@4] The minister was accompanied by the Centre Region governor, the Mfoundi divisional officer and subdivision heads, before the press. [@1,2]
 
-Security and administrative officials had tracked the consignment from Bui Division in the North West region to Yaounde, uncovering a network that operates through Noun Division toward the Far North region. [@1,2] Five traffickers involved in the activity were apprehended. [@1]
+Security and administrative officials had tracked the consignment from Bui Division in the North West region to Yaounde, uncovering a network that operates through Noun Division toward the Far North region. [@1,2] Five traffickers involved in the activity were apprehended. [@1,4]
 
 Atanga Nji commended the joint collaboration of the forces of law and order and the administrative authorities, and urged them to step up the fight against drug trafficking and to block its routes. [@1,2] He said destroying the drugs publicly sent a strong message that the authorities were more determined than ever to eradicate the trafficking. [@2]
