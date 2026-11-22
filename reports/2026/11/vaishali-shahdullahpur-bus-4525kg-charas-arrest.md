@@ -63,12 +63,18 @@ sources:
     publisher: Navbharat Times
     date: 2026-11-20
     language: hi
+  - title: 'Muzaffarpur News: बस से 4.525 किलो चरस जब्त, तीन गिरफ्तार'
+    url: https://www.livehindustan.com/bihar/muzaffarpur/story-nepal-to-bihar-charas-smuggling-network-busted-dri-and-bihar-stf-arrest-three-201795265719816.html
+    publisher: Live Hindustan (हिन्दुस्तान)
+    date: 2026-11-21
+    language: hi
 open_questions:
     - The year 2026 for the 18 November seizure is inferred from the 19 November 2026 publication; no calendar year is stated in the seizure account.
-    - No name, age, residence or plea was reported for the arrested man, and no remand or court outcome was reported.
+    - No name, age, residence or plea was reported for the arrested men, and no remand or court outcome was reported.
     - No laboratory confirmation of the suspected charas was reported.
     - The Rs 4.525 crore figure is the DRI's estimated illicit-market valuation, not an adjudicated value.
     - The reported bus registration BR-06-PC-8744 closely matches the bus registration in the separate 5 November Muzaffarpur seizure, but the reports give different dates, places, packet counts and weights, and no link between the two interceptions was stated.
+    - 'Accounts differ on how many people were arrested: the first reports of the seizure said one man was held, while later Muzaffarpur reports said three, the carrier, his handler and the supplier described as the gang''s leader.'
 media:
   - kind: photo
     url: https://navbharattimes.indiatimes.com/state/bihar/patna/dri-recovered-charas-worth-more-than-four-crore-rupees-in-vaishali/articleshow/136010109.cms
@@ -79,14 +85,14 @@ media:
 
 Officers of the Directorate of Revenue Intelligence in Patna arrested a man in
 Vaishali district, Bihar, over an alleged operation smuggling charas from Nepal
-to Pune, Maharashtra. [@1,2,4] The operation was carried out jointly by the DRI and the Bihar Police Special Task Force. [@3] The DRI said the seizure was made on 18 November 2026
+to Pune, Maharashtra. [@1,2,4] The operation was carried out jointly by the DRI and the Bihar Police Special Task Force. [@3,5] The DRI said the seizure was made on 18 November 2026
 after intelligence that a gang was moving high-quality charas from Nepal to Pune
 via Hajipur for onward travel on the Supaul-Pune Express. [@1,2]
 
 Acting on the intelligence, a DRI team intercepted a bus bearing registration
 number BR-06-PC-8744 near Ram Udar Central School on NH 139W at Shahdullahpur in
 Vaishali district. [@1,2,4] During a search of the suspect's bag, officers recovered
-10 packets containing 4.525 kg of charas. [@1,2,3,4] The black substance in the packets was identified as charas with a field-testing kit. [@3] The DRI put the illicit-market
+10 packets containing 4.525 kg of charas. [@1,2,3,4,5] The black substance in the packets was identified as charas with a field-testing kit. [@3,5] The DRI and Bihar STF arrested three people: the carrier stopped on the bus, his handler and the supplier, whom the agencies described as the leader of the gang. [@5] The DRI put the illicit-market
 value of the 4.525 kg at an estimated Rs 4.525 crore. [@1,2,4]
 
 According to the DRI, the arrested man told investigators that the contraband
@@ -96,4 +102,4 @@ before onward movement by train on the Supaul-Pune Express. [@1,4] The charas wa
 seized and the accused was arrested under provisions of the Narcotic Drugs and
 Psychotropic Substances Act, 1985. [@1,2,4] Further investigation was under way to
 identify other members of the suspected smuggling network and establish the full
-chain of transportation and delivery. [@1,2,3,4]
+chain of transportation and delivery. [@1,2,3,4,5]
