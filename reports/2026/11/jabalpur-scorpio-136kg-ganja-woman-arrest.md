@@ -111,6 +111,15 @@ sources:
     publisher: MP Mirror
     date: 2026-11-18
     language: hi
+  - title: 'मध्यप्रदेश: नशे के खिलाफ पुलिस का बड़ा अभियान, तीन दिन में 1.27 करोड़ की ड्रग्स और वाहन जब्त'
+    url: https://www.haribhoomi.com/state-local/madhya-pradesh/news/mp-police-statewide-drug-action-1-27-crore-seizure-nine-districts-122737
+    publisher: Haribhoomi
+    date: 2026-11-20
+    language: hi
+  - title: थाना भेडाघाट अंतर्गत स्कार्पियो में लोड 136 किलो 84 ग्राम गांजा कीमती लगभग 68 लाख 42 हजार रुपए का एवं स्कार्पियो जप्त
+    url: https://jabalpur.mppolice.gov.in/%E0%A4%A5%E0%A4%BE%E0%A4%A8%E0%A4%BE-%E0%A4%AD%E0%A5%87%E0%A4%A1%E0%A4%BE%E0%A4%98%E0%A4%BE%E0%A4%9F-%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%A4-%E0%A4%B8%E0%A5%8D%E0%A4%95/
+    publisher: Jabalpur Police
+    language: hi
 media:
   - kind: photo
     url: https://vocaltv.in/crime/control-room-bns-police-mpphp/cid19543516.htm
@@ -123,10 +132,10 @@ open_questions:
     - Prabhasakshi gives the Ghamapur woman's haul as 1.7 kilograms, while other accounts give 1 kilogram 7 grams (1.007 kilograms).
 ---
 
-A woman was arrested in Ghamapur. [@1,2,10,11] The woman was also booked under the NDPS Act and sent to jail. [@3] Police said they were questioning the woman to uncover the broader network or gang involved. [@5,9] Ghamapur police seized 1 kilogram 7 grams of ganja worth about 50 thousand rupees from an almirah in her room. [@2,6,12] When police moved in, the woman tried to run away and was surrounded and caught. [@2,6,8,10,12] The woman was identified as Rita Kuchbandhiya of Lalmati Chandmari Testing Road, Ghamapur. [@2,6,8] Police said the woman made small packets of ganja to sell. [@11] Police gave her age as 40. [@10] Jabalpur police acted against ganja
+A woman was arrested in Ghamapur. [@1,2,10,11] The woman was also booked under the NDPS Act and sent to jail. [@3] Police said they were questioning the woman to uncover the broader network or gang involved. [@5,9] Ghamapur police seized 1 kilogram 7 grams of ganja worth about 50 thousand rupees from an almirah in her room. [@2,6,12,15] When police moved in, the woman tried to run away and was surrounded and caught. [@2,6,8,10,12] The woman was identified as Rita Kuchbandhiya of Lalmati Chandmari Testing Road, Ghamapur. [@2,6,8] Police said the woman made small packets of ganja to sell. [@11] Police gave her age as 40. [@10] Jabalpur police acted against ganja
 trafficking and seized more than 137 kilograms of the drug in two separate
-cases. [@1,10,12] The operation was ordered by Jabalpur Superintendent of Police Sampat Upadhyay and guided by additional superintendents. [@2] Bhedaghat police recovered 136 kilograms 84 grams of ganja from a
-Scorpio with no number plate. [@1,2,3,6,8,10,11,12] Police found a number plate reading UP 57 CC 7869 inside the Scorpio. [@6,8,11] Police registered a case against the unknown Scorpio driver under sections 8/20 of the NDPS Act and went on to trace the vehicle and the trafficking network. [@2,4,5,9,10] Police said the abandoned Scorpio may have belonged to a larger inter-state drug-trafficking network, and were trying to establish where the consignment was to be delivered. [@10] The ganja was packed in 12 packets wrapped in khaki tape in the Scorpio's boot. [@2,4,6,8,9,10,11,12,14]
+cases. [@1,10,12] The two Jabalpur operations were among the cases reported in a three-day statewide anti-drug drive in which police said drugs and vehicles worth about 1.27 crore rupees were seized across nine districts. [@15] The operation was ordered by Jabalpur Superintendent of Police Sampat Upadhyay and guided by additional superintendents. [@2] Bhedaghat police recovered 136 kilograms 84 grams of ganja from a
+Scorpio with no number plate. [@1,2,3,6,8,10,11,12,15] Police found a number plate reading UP 57 CC 7869 inside the Scorpio. [@6,8,11] Police registered a case against the unknown Scorpio driver under sections 8/20 of the NDPS Act and went on to trace the vehicle and the trafficking network. [@2,4,5,9,10,16] Police said the abandoned Scorpio may have belonged to a larger inter-state drug-trafficking network, and were trying to establish where the consignment was to be delivered. [@10] The ganja was packed in 12 packets wrapped in khaki tape in the Scorpio's boot. [@2,4,6,8,9,10,11,12,14]
 
 The Scorpio was parked beside a canal near Chaukital village. [@1,2,4,10,11,12] The vehicle was black and unnumbered and parked on an unpaved road close to the Chowkital-Lamheta turn within the Bhedaghat police station area. [@4,5,7,9,13] Bhedaghat police station in-charge Kamlesh Chauria said a window glass behind the rear seat was broken and the rear-left tyre of the vehicle was punctured. [@4,5,7,9,13] The ganja was
 described as worth 68 lakh rupees (6.8 million). [@1,7,9,11,13] Police estimated the Scorpio's load at 68 lakh 42 thousand rupees, describing it as an international-market value. [@3,4,9,12]
