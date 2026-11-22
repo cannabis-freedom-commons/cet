@@ -44,34 +44,35 @@ sources:
     publisher: Linfo.re
     date: 2018-06-09
     language: fr
+  - title: 'Saisie record de drogue: trois Mauriciens face à la justice à Mada'
+    url: https://lexpress.mu/s/article/333063/saisie-record-drogue-trois-mauriciens-face-justice-mada
+    publisher: lexpress.mu
+    date: 2018-06-11
+    language: fr
 open_questions:
-  - Le Mauricien places the arrests at Tamatave while Linfo.re places the night interception on the RN2 at Manjakandriana in a vehicle from Tamatave; the report uses Manjakandriana as the interception site.
-  - Le Mauricien reports three Mauritians arrested while Linfo.re reports nine arrested including six Malagasy; the report uses nine, the fuller account.
-  - The 115.7 kg cannabis figure is the sum of the separately stated 80.2 kg of cannabis and 35.5 kg of hashish; Linfo.re gives a different five-drug itemisation that is not used for figures.
-  - The reported Rs 519 million total covers cannabis, hashish and 25.5 kg of heroin together, so no cannabis-only value is recorded.
-  - No charges, court hearing or other outcome beyond the arrests was reported.
-  - 'Left out, as its quotation was not found in Linfo.re: The six other people arrested were Malagasy nationals, three men and three women.'
-  - 'Left out, as its quotation was not found in Linfo.re: The second account places the night-time interception on the RN2 at Manjakandriana, in a Mercedes Sprinter coming from Tamatave and bound for Nosy Be.'
-  - 'Left out, as its quotation was not found in Linfo.re: That account says the load was to be exported by sea to both Mauritius and Réunion.'
-  - 'Left out, as its quotation was not found in Linfo.re: Mauritian media estimated the haul at about 519 million Mauritian rupees, or 13 million euros.'
-  - 'Left out, as its quotation was not found in Linfo.re: The gendarmerie opened an inquiry to look for the traffickers’ alleged accomplices.'
+    - Le Mauricien places the arrests at Tamatave while Linfo.re places the night interception on the RN2 at Manjakandriana in a vehicle from Tamatave; the report uses Manjakandriana as the interception site.
+    - Le Mauricien and L'Express report three Mauritians arrested while Linfo.re reports nine arrested including six Malagasy; the report uses nine, the fuller account.
+    - The 115.7 kg cannabis figure is the sum of the separately stated 80.2 kg of cannabis and 35.5 kg of hashish; Linfo.re gives a different five-drug itemisation that is not used for figures.
+    - The reported Rs 519 million total covers cannabis, hashish and 25.5 kg of heroin together, so no cannabis-only value is recorded.
+    - No verdict or other outcome of the 11 June 2018 court appearance in Tana was reported, and the fate of the extradition request was not said.
 ---
 
 Malagasy customs arrested three Mauritian men aged 44, 38 and 22, living at Baie
 du Tombeau, Plaine Verte and Roche Bois, at Tamatave. [@1] A second account
 reports nine people arrested in the operation, including the three Mauritians.
-[@2] The three Mauritians had been closely monitored by the customs authorities
+[@2] A Mauritian customs officer travelled to Madagascar to negotiate with the Malagasy authorities and an extradition request was on the agenda. [@3] The three Mauritians were due to face justice in Tana, Madagascar, on Monday 11 June 2018 and were in detention. [@3] The three Mauritians had been closely monitored by the customs authorities
 of Mauritius, Réunion and Madagascar since March 2018. [@1]
 
 On 7 June 2018 Malagasy customs seized 80.2 kg of cannabis, 35.5 kg of hashish
-and 25.5 kg of heroin in Madagascar. [@1] The 141.2 kg haul was estimated at
-about Rs 519 million and was linked to three Mauritians. [@1] The suspects
+and 25.5 kg of heroin in Madagascar. [@1,3] The 141.2 kg haul was estimated at
+about Rs 519 million and was linked to three Mauritians. [@1,3] The suspects
 carried powdered heroin, hashish and compressed cannabis leaves in raffia bags.
-[@1] According to intelligence, they were heading toward Nosy Be to ship the
-drugs to Mauritius. [@1] The seizure followed several months of surveillance in
+[@1,3] According to intelligence, they were heading toward Nosy Be to ship the
+drugs to Mauritius. [@1,3] Authorities in Mauritius and Madagascar suspected the cargo was also destined for Réunion, and investigators believed the order had been placed by serving prisoners. [@3] The seizure followed several months of surveillance in
 a joint operation by the MRA and the customs services of Réunion and Madagascar.
-[@1]
+[@1,3]
 
 Madagascar’s customs director general called it the biggest seizure ever made in
 Madagascar and the East Africa region. [@2]
 
+A source close to the investigation said the drugs belonged to Curly Chowrimootoo, who was serving a 25-year prison term for drug trafficking. [@3]
