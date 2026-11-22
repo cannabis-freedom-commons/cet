@@ -38,6 +38,16 @@ media:
     media_url: https://i0.wp.com/cincoradio.com.mx/wp-content/uploads/2026/11/imagen-cr-33cd4449b8d513d7c1d8e0524c84f68d.jpg?w=571&ssl=1
     publisher: Cinco Radio
     caption: Soldiers destroying poppy and marijuana crops in a mountainous area, in the photo published with the report on the 25 plantations in Chihuahua, Durango and Sinaloa.
+  - kind: photo
+    url: https://www.infodefensa.com/texto-diario/mostrar/6101417/ejercito-fuerza-aerea-mexico-localizan-destruyen-25-cultivos-amapola-marihuana-tres-estados
+    media_url: https://www.infodefensa.com/images/showid2/8236062?w=1200&zc=4
+    publisher: Infodefensa
+    caption: A Bell 407GX helicopter of the Mexican Air Force during aerial fumigation operations, in a photo credited to Defensa de México.
+  - kind: photo
+    url: https://www.infodefensa.com/texto-diario/mostrar/6101417/ejercito-fuerza-aerea-mexico-localizan-destruyen-25-cultivos-amapola-marihuana-tres-estados
+    media_url: https://www.infodefensa.com/images/showid2/8236066?w=1200&zc=4
+    publisher: Infodefensa
+    caption: A Bell 407GX helicopter of the Mexican Air Force during fumigation operations, in a photo credited to Defensa de México.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 3fb46628afed8c4f240556f5de915f41
@@ -63,17 +73,22 @@ sources:
     publisher: Cinco Radio
     date: 2026-11-19
     language: es
+  - title: El Ejército y la Fuerza Aérea de México localizan y destruyen 25 cultivos de amapola y marihuana en tres estados
+    url: https://www.infodefensa.com/texto-diario/mostrar/6101417/ejercito-fuerza-aerea-mexico-localizan-destruyen-25-cultivos-amapola-marihuana-tres-estados
+    publisher: Infodefensa
+    date: 2026-11-21
+    language: es
 ---
 
 The Mexican Army and Air Force carried out a joint operation on Tuesday 17
-November 2026 in Chihuahua, Durango and Sinaloa. [@1,4] Soldiers destroyed 25 drug
-plantations in all, of which 16 were marijuana and nine were poppy. [@3,4] The
+November 2026 in Chihuahua, Durango and Sinaloa. [@1,4,5] The operation was carried out within the framework of Mexico's National Public Security Strategy. [@5] Soldiers destroyed 25 drug
+plantations in all, of which 16 were marijuana and nine were poppy. [@3,4,5] The
 operations combined ground patrols with aerial reconnaissance to find and
-eradicate the crops. [@1,4] The plantations were located in mountainous areas of the three states. [@4]
+eradicate the crops. [@1,4,5] The plantations were destroyed by incineration and aerial fumigation. [@5] The plantations were located in mountainous areas of the three states. [@4] For these tasks the Air Force used Bell 407GX helicopters. [@5]
 
 The Secretariat of National Defence (Sedena) reported the results. [@1,4] The 25
 plantations covered about 3.06 hectares in total. [@2,4] That area is the combined
-surface of the poppy and marijuana plots. [@1] Sedena estimated the damage to
+surface of the poppy and marijuana plots. [@1] The nine poppy plots covered 1.10 hectares and the 16 marijuana plots covered 1.96 hectares. [@5] Sedena estimated the damage to
 the organisations growing the crops at 8.74 million pesos. [@1,4] The ministry
 gave the estimate for the destruction of all 25 plantations. [@3]
 
