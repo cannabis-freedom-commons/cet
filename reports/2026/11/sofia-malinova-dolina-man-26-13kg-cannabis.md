@@ -58,6 +58,11 @@ media:
     media_url: https://www.mvr.bg/upload/348743/IMG_0625.jpeg?w=320
     publisher: Министерство на вътрешните работи
     caption: 'Bags of seized cannabis and other packaged drugs laid out after the searches in Sofia''s Malinova Dolina quarter. Photo: Ministry of Interior of Bulgaria'
+  - kind: photo
+    url: https://www.dunavmost.com/novini/zadarzhaha-dilar-s-4-vida-droga-v-sofiya
+    media_url: https://www.dunavmost.com/snimka/202611/728_416/02a56a32d4424292a488cec97bb487e0.webp
+    publisher: DUNAVMOST.com
+    caption: 'Interior Ministry handout photo published with the report, showing the drugs found in the flat and basement in Malinova Dolina. Photo: МВР'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 5949d634808ab4f42d82812bb426eb9a
@@ -73,35 +78,45 @@ sources:
     publisher: Министерство на вътрешните работи
     date: 2026-11-21
     language: bg
+  - title: Задържаха дилър с 4 вида дрога в София
+    url: https://www.dunavmost.com/novini/zadarzhaha-dilar-s-4-vida-droga-v-sofiya
+    publisher: DUNAVMOST.com
+    date: 2026-11-21
+    language: bg
+  - title: Над 1,3 кг марихуана и над 150 гр хашиш, кокаин и екстази са иззети при акция в София
+    url: https://focus-news.net/novini/regioni/Nad-1-3-kg-marihuana-i-nad-150-gr-hashish-kokain-i-ekstazi-sa-izzeti-pri-akciya-v-Sofiya-3059855
+    publisher: Фокус
+    date: 2026-11-21
+    language: bg
 open_questions:
-  - The marijuana and hashish are given as minimum weights (more than 1,333 grams and over 125 grams), so the exact totals are not known.
-  - 19 November 2026 is the date of the operation; the Interior Ministry's statement and the press reports were published on 21 November.
-  - No court decision on pre-trial detention, and no later step in the case, is reported.
-  - The cocaine and ecstasy seized in the same searches are not counted in the cannabis figures.
-  - The cash is described only as nearly 9,800 euros, so the exact sum is unknown.
-  - The man's identity, any previous convictions and the source of his drugs are not reported.
+    - The marijuana and hashish are given as minimum weights (more than 1,333 grams and over 125 grams), so the exact totals are not known.
+    - 19 November 2026 is the date of the operation; the Interior Ministry's statement and the press reports were published on 21 November.
+    - No court decision on pre-trial detention, and no later step in the case, is reported.
+    - The cocaine and ecstasy seized in the same searches are not counted in the cannabis figures.
+    - The cash is described only as nearly 9,800 euros, so the exact sum is unknown.
+    - The man's identity, any previous convictions and the source of his drugs are not reported.
+    - One outlet's headline put the hashish at over 150 grams, while the ministry figure and that same article's text give over 125 grams.
 ---
 
 A 26-year-old man was detained in a police operation in Sofia's Malinova Dolina
-quarter on 19 November 2026. [@1] The operation followed operational information
-about a man distributing drugs in Sofia. [@1] Criminal investigators detained
-him at about 15:30 on ulitsa Akademik Yordan Trifonov. [@1] A personal search
-found a bag of marijuana and a small sum of money on him. [@1] The operation was
+quarter on 19 November 2026. [@1,3] The operation followed operational information
+about a man distributing drugs in Sofia. [@1,3] Criminal investigators detained
+him at about 15:30 on ulitsa Akademik Yordan Trifonov. [@1,3] A personal search
+found a bag of marijuana and a small sum of money on him. [@1,3] The operation was
 run by officers of the Seventh district police department of the Sofia city
-police directorate (SDVR). [@2]
+police directorate (SDVR). [@2,3]
 
 In the flat he lived in, officers found six bags of loose plant matter, a bag
 with 10 tablets, a substance in lumps and powder, and a bag of resinous mass.
-[@1] They also seized an electronic scale, many empty sachets and nearly 9,800
-euros. [@1] In a cellar he used at the same address, investigators found more
+[@1,3] They also seized an electronic scale, many empty sachets and nearly 9,800
+euros. [@1,3] In a cellar he used at the same address, investigators found more
 drugs, including 20 tablets, pressed plant mass and bags with plant matter and
-traces of it. [@1]
+traces of it. [@1,3]
 
-An expert report put the seized marijuana at more than 1,333 grams. [@1] It put
-the hashish at more than 125 grams. [@1] The same report found 20.92 grams of
-cocaine. [@1] It also found more than 10 grams of ecstasy. [@1]
+An expert report put the seized marijuana at more than 1,333 grams. [@1,3] It put
+the hashish at more than 125 grams. [@1,4] The same report found 20.92 grams of
+cocaine. [@1,3] It also found more than 10 grams of ecstasy. [@1,3]
 
-A pre-trial case was opened under article 354a of the Penal Code. [@1] The files
+A pre-trial case was opened under article 354a of the Penal Code. [@1,3] The files
 were reported to the Sofia City Prosecution, which charged the 26-year-old under
-the same article. [@1] He was ordered held for up to 72 hours. [@1]
-
+the same article. [@1,3] He was ordered held for up to 72 hours. [@1,3]
