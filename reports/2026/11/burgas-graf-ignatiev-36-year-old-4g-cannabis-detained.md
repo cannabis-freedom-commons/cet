@@ -48,25 +48,24 @@ sources:
     publisher: Burgas24.bg
     date: 2026-11-20
     language: bg
-open_questions:
-  - No charges or court outcome were reported; officers of the First Police Station in Burgas were still working on the case.
-  - It was not reported what happened when the man's 24-hour detention ended.
-  - The about 2 grams of methamphetamine found with the cannabis are a separate substance and are excluded from the cannabis figures.
-  - The sources describe Graf Ignatiev variously as a boulevard and as a street.
+  - title: Двама задържани в Бургас - шофьор с 1,94 промила и мъж с наркотици
+    url: https://vburgas.bg/zadarzhani-burgas-alkohol-narkotitsi/
+    publisher: vBurgas.bg
+    date: 2026-11-20
+    language: bg
 ---
 
 Police in Burgas found about 4 grams of cannabis and about 2 grams of
 methamphetamine on a 36-year-old man during a night check on Graf Ignatiev
-Boulevard. [@1] The check took place at about 02:55 on Friday, 20 November 2026.
-[@1]
+Boulevard. [@1,3] The check took place at about 02:55 on Friday, 20 November 2026.
+[@1,3]
 
 Officers of the Specialized Police Forces sector of the Burgas Regional
 Directorate of the Ministry of Internal Affairs carried out the check on a
 36-year-old man with a criminal record from the village of Ruzhitsa in the Ruen
-municipality. [@2] They seized two packets of methamphetamine weighing about 2
-grams in total and a ball of cannabis weighing about 4 grams. [@2] The seized
+municipality. [@2,3] They seized two packets of methamphetamine weighing about 2
+grams in total and a ball of cannabis weighing about 4 grams. [@2,3] The seized
 cannabis was described as a lump of dry herbal mass weighing about 4 grams. [@1]
 The man was detained for up to 24 hours, according to the Burgas Regional
-Directorate of the Ministry of Internal Affairs. [@2] Officers of the First
-Police Station in Burgas continued work on the case. [@2]
-
+Directorate of the Ministry of Internal Affairs. [@2,3] Officers of the First
+Police Station in Burgas continued work on the case. [@2,3]
