@@ -42,6 +42,16 @@ media:
     media_url: https://citynews-cataniatoday.stgy.ovh/~media/horizontal-hi/45640883980471/blitz-antidroga-della-polizia-di-stato-tra-ognina-e-picanello-sequestrati-6-8-kg-di-marijuana-e-hashish-arrestati-due-pusher.jpg
     publisher: CataniaToday
     caption: 'Police handout captioned ''Foto inviata dalla questura'' and published with the report, showing packaged drugs and a cannabis plant laid out on a table after the Ognina and Picanello seizures. Photo: Questura di Catania'
+  - kind: photo
+    url: https://questure.poliziadistato.it/it/Catania/articolo/35096b0056e21a50c179611543
+    media_url: https://questure.poliziadistato.it/statics/49/blitz.jpg?art=1&lang=it
+    publisher: Questura di Catania
+    caption: 'Police image published with the Questura di Catania statement on the Ognina and Picanello drug blitz and two arrests. Photo: Questura di Catania'
+  - kind: video
+    url: https://questure.poliziadistato.it/it/Catania/articolo/35096b0056e21a50c179611543
+    media_url: https://www.youtube.com/watch?v=xPHJDLqXm-A
+    publisher: Questura di Catania
+    caption: 'Video embedded in the Questura di Catania statement about the Ognina and Picanello anti-drug operation. Video: Questura di Catania'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: e4cce93f327df94bd7191bdf17020861
@@ -87,23 +97,28 @@ sources:
     publisher: Etna News 24
     date: 2026-11-18
     language: it
+  - title: 'BLITZ ANTIDROGA DELLA POLIZIA DI STATO TRA OGNINA E PICANELLO: SEQUESTRATI 6,8 KG DI MARIJUANA E HASHISH, ARRESTATI DUE PUSHER'
+    url: https://questure.poliziadistato.it/it/Catania/articolo/35096b0056e21a50c179611543
+    publisher: Questura di Catania
+    date: 2026-11-20
+    language: it
 ---
 
 Police in Catania arrested two men from the city, aged 23 and 61, on suspicion
-of possessing drugs for sale. [@2,4,5,6,7,8] The 23-year-old was stopped in the
+of possessing drugs for sale. [@2,4,5,6,7,8,9] The 23-year-old was stopped in the
 Ognina-Rotolo district after officers saw him leave his flat to meet a buyer,
-who fled at the sight of the patrols. [@1,4,6]
+who fled at the sight of the patrols. [@1,4,6,9]
 
-He handed over 6 grams of marijuana kept in his jacket pocket. [@1,4,6,7] A search of
+He handed over 6 grams of marijuana kept in his jacket pocket. [@1,4,6,7,9] A search of
 his first-floor flat found another 264 grams of marijuana in 59 doses behind the
 kitchen sofa, with packaging material, cash and handwritten notes recording the
-dealing accounts. [@1,4,6,7,8]
+dealing accounts. [@1,4,6,7,8,9]
 
 In Picanello the 61-year-old was stopped as he opened a steel door on the
 stairway and a second armoured entrance to a fourth-floor attic used as a store.
-[@1,4,5,6,7,8] The attic was a fortified store behind double steel and armoured doors.
-[@3,4,6] Inside police seized 6 kg of marijuana, in vacuum bags, jars, wrappers and
-127 ready doses, and five blocks of hashish weighing 500 grams in total. [@1,4,5,6,8]
-The two seizures amounted to more than 6.8 kg of marijuana and hashish. [@2,4,5,6,7,8] The
+[@1,4,5,6,7,8,9] The attic was a fortified store behind double steel and armoured doors.
+[@3,4,6,9] Inside police seized 6 kg of marijuana, in vacuum bags, jars, wrappers and
+127 ready doses, and five blocks of hashish weighing 500 grams in total. [@1,4,5,6,8,9]
+The two seizures amounted to more than 6.8 kg of marijuana and hashish. [@2,4,5,6,7,8,9] The
 duty prosecutor ordered both suspects taken to prison pending a validation
-hearing before the investigating judge. [@1,4,6,7,8]
+hearing before the investigating judge. [@1,4,6,7,8,9]
