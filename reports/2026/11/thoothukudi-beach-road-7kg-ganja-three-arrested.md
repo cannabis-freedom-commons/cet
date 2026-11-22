@@ -63,6 +63,16 @@ sources:
     publisher: Police News Plus
     date: 2026-11-20
     language: ta
+  - title: 'தூத்துக்குடியில் 7 கிலோ கஞ்சா, 3 அரிவாள்கள் பறிமுதல்: 3 வாலிபர்கள் கைது'
+    url: https://www.dailythanthi.com/news/tamilnadu/7-kg-of-ganja-3-sickles-seized-in-thoothukudi-3-youths-arrested
+    publisher: Daily Thanthi
+    date: 2026-11-21
+    language: ta
+  - title: 'தூத்துக்குடி: ரோச்பார்க் பகுதியில் சட்டவிரோத விற்பனைக்காக கஞ்சா வைத்திருந்த 3 நபர்கள் கைது..!'
+    url: https://www.tamilanjal.in/2026/11/3_012118822.html
+    publisher: Tamil Anjal
+    date: 2026-11-20
+    language: ta
 open_questions:
     - The six sickles are listed as seized property; neither the 18 November accounts nor the later briefs say what they were for or whether anyone was threatened.
     - The ganja is described only as ganja, with no laboratory confirmation and no value estimate.
@@ -70,6 +80,12 @@ open_questions:
     - Daily Thanthi also lists a knife and three mobile phones among the seized items; the Dinamani account names only the ganja, six sickles and three two-wheelers. Later briefs instead name three machetes and ganja plants, with no count of the plants.
     - The 18 November accounts and the later briefs disagree on the day, the place name, the weapons and the men's ages and addresses, so it is not clear whether the Roche Park stop is the same Beach Road check.
     - No independent account beyond police versions has been published.
+media:
+  - kind: photo
+    url: https://www.dailythanthi.com/news/tamilnadu/7-kg-of-ganja-3-sickles-seized-in-thoothukudi-3-youths-arrested
+    media_url: https://media.assettype.com/dailythanthi%2F2026-11-21%2Fnggblz5l%2FUntitled-1.jpg?w=768&auto=format%2Ccompress&fit=max
+    publisher: Daily Thanthi
+    caption: 'The ganja, sickles and ganja plants seized and the three men arrested in the Thoothukudi case. Photo: Daily Thanthi'
 ---
 
 Police in Thoothukudi arrested three young men after finding 7 kg of ganja, six
@@ -86,4 +102,4 @@ said all three had several cases registered at the station and were listed in
 its history sheet as offenders. [@1,2]
 
 Police registered a case over the seizure and were continuing the investigation.
-[@1,3,4] The case was registered under the NDPS Act. [@5]
+[@1,3,4,6,7] The case was registered under the NDPS Act. [@5]
