@@ -45,6 +45,11 @@ media:
     media_url: https://citynews-modenatoday.stgy.ovh/~media/horizontal-hi/12207245073938/whatsapp-image-2026-11-21-at-09-54-39.jpeg
     publisher: ModenaToday
     caption: Lead image published with the report on the seizure of about 13 kg of marijuana and cultivation equipment in Prignano sulla Secchia.
+  - kind: photo
+    url: https://ilgiornalepopolare.it/aveva-in-casa-13-kg-di-marijuana-e-munizioni-arrestato-un-uomo/
+    media_url: https://ilgiornalepopolare.it/wp-content/uploads/2026/11/Guardia-di-Finanza-Modena-20261121-IlGiornalePopolare-1.jpg.webp
+    publisher: POP - Il Giornale Popolare
+    caption: 'Guardia di Finanza Modena handout photo published with the report on the Prignano sulla Secchia seizure of about 13 kg of marijuana. Photo: Guardia di Finanza Modena'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 27b9c68318fcbe9aa547d1384cfcbef7
@@ -70,26 +75,31 @@ sources:
     publisher: GrNet News Sicurezza e Difesa
     date: 2026-11-21
     language: it
+  - title: 'Aveva in casa 13 kg di marijuana e munizioni: arrestato un uomo'
+    url: https://ilgiornalepopolare.it/aveva-in-casa-13-kg-di-marijuana-e-munizioni-arrestato-un-uomo/
+    publisher: POP - Il Giornale Popolare
+    date: 2026-11-21
+    language: it
 open_questions:
-  - The sources date the arrest only as “in recent days”; 21 November 2026 is the publication date used as the incident date.
-  - No count of the marijuana plants found in the home was published.
-  - No value was given for the 13 kilograms of marijuana.
-  - The man's name and any charges or court outcome beyond the residence order were not reported.
+    - The sources date the arrest only as “in recent days”; a prosecutor's statement on the case is dated 20 November 2026, and 21 November 2026, the first publication date, is used as the incident date.
+    - No count of the marijuana plants found in the home was published.
+    - No value was given for the 13 kilograms of marijuana.
+    - The man's name was not published, and no outcome beyond the residence order is known.
+    - The published accounts reproduce the same Guardia di Finanza and Modena prosecutor's statement, so they are not independent reporting.
 ---
 
 Italian financial police arrested a man in Prignano sulla Secchia, near Modena,
 on suspicion of cultivating, producing and possessing drugs for sale, and
-reported him for unlawful possession of ammunition. [@1] Officers from the
+reported him for unlawful possession of ammunition. [@1,5] Officers from the
 Modena group of the Guardia di Finanza stopped the man's car in Prignano sulla
 Secchia and found two 30-06 calibre bullets, which he possessed without a gun
-licence. [@1] The Guardia di Finanza's drug dog and a canine unit from Sassuolo
-local police took part in the search of the suspect's home. [@2]
+licence. [@1,5] The Guardia di Finanza's drug dog and a canine unit from Sassuolo
+local police took part in the search of the suspect's home. [@2,5]
 
 Police seized about 13 kilograms of marijuana, 22 hunting cartridges, two 30-06
-bullets and 2,380 euros in cash. [@1] At the home officers found potted plants,
+bullets and 2,380 euros in cash. [@1,5] At the home officers found potted plants,
 lamps and ventilators used for cultivation, packaging material and sealed bags
-containing the drug, along with undeclared ammunition. [@3]
+containing the drug, along with undeclared ammunition. [@3,5]
 
 The investigating judge at the Modena tribunal validated the arrest and ordered
-the man to live in his municipality of residence. [@4]
-
+the man to live in his municipality of residence. [@4,5] The Modena public prosecutor's office announced the case in a statement dated 20 November 2026, signed by prosecutor Luca Masini. [@4]
