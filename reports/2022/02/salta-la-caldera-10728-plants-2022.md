@@ -58,6 +58,17 @@ sources:
     url: https://insightcrime.org/news/argentina-redraws-marijuana-maps-after-massive-seizure/
     publisher: InSight Crime
     date: 2022-02-18
+  - title: Argentina reconfigura mapas de marihuana tras incautación masiva
+    url: https://insightcrime.org/es/noticias/argentina-reconfigura-mapas-marihuana-incautacion-masiva/
+    publisher: InSight Crime
+    date: 2022-02-18
+    language: es
+media:
+  - kind: photo
+    url: https://insightcrime.org/es/noticias/argentina-reconfigura-mapas-marihuana-incautacion-masiva/
+    media_url: https://i0.wp.com/insightcrime.org/wp-content/uploads/2022/02/allanan_finca_con_plantacion_de_marihuana_gendarmeria-1.jpeg?w=350&quality=100&ssl=1
+    publisher: InSight Crime
+    caption: Argentine police inspect the terrain during the Gendarmerie raid on the marijuana plantation in Salta and Jujuy.
 ---
 
 Argentina's National Gendarmerie (GNA) raided a farm near La Caldera, Salta,
@@ -70,15 +81,15 @@ provincial route 122, where trees and jungle plants hid the crop [@1,2].
 
 The raids seized 7,205 seedlings, 1,008 germinating seedlings and 2,515
 plants up to two metres tall, 10,728 in total, plus 74.874 kg of cannabis in
-buds and packages and 389 grams of seeds [@1]. Officers also took drying
+buds and packages and 389 grams of seeds [@1,4]. Officers also took drying
 sheds, a pickup truck, a car, two motorcycles, two rifles and a revolver with
 ammunition, electronic devices, 1,015,380 Argentine pesos in cash and case
 documents [@1,2]. The plantation was described as looking like "a marijuana
-forest" and as the largest single discovery of marijuana in Argentina [@3].
+forest" and as the largest single discovery of marijuana in Argentina [@3] Federal prosecutor Eduardo Villalba, who led the investigation, told El Tribuno that this was the country's largest marijuana plantation operation and a warning that cultivation could take hold in Argentina. [@4].
 
 ## Two detained
 
 Two men were detained as the main people behind the operation, while two
 further people were reported as implicated in the case [@1]. The two detainees
 were charged with planting and growing marijuana but were not linked to a
-larger criminal group [@3].
+larger criminal group [@3,4].
