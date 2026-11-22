@@ -58,29 +58,31 @@ sources:
     publisher: kryminalki.pl
     date: 2026-11-20
     language: pl
-open_questions:
-  - The article gives no separate date for the search and arrest; 20 November 2026 is its publication date and is used as the incident date.
-  - The flat and garage are located only as being somewhere in the Suwałki county; no street or town was named.
-  - No street value or estimate was published for the 2.9 kg of marijuana.
-  - No further court step, trial date or outcome was reported; the man had only been charged.
-  - The three-year figure is the maximum penalty the charge could carry, not a sentence imposed.
-  - The account rests on a single police-sourced report (kryminalki.pl relaying KMP Suwałki); no independent reporting was found.
+  - title: Policyjny pies znalazł blisko 3 kilogramy marihuany
+    url: https://radio5.com.pl/2026/11/policyjny-pies-znalazl-blisko-3-kilogramy-marihuany/
+    publisher: Radio5
+    date: 2026-11-20
+    language: pl
+  - title: 37-latek w garażu ukrywał marihuanę
+    url: https://suwalki.policja.gov.pl/po3/informacje/aktualnosci/114703,37-latek-w-garazu-ukrywal-marihuane.html
+    publisher: KMP Suwałki
+    date: 2026-11-20
+    language: pl
 ---
 
 Police in Suwałki, in Poland's Podlaskie region, found marijuana in the flat and
-garage of a 37-year-old man living in the surrounding county. [@1] A police dog
-named Trawka sniffed out the drugs hidden in the garage. [@1] The man was
-detained and heard a charge of drug possession. [@1] He admitted during
-questioning that the drugs were his. [@1]
+garage of a 37-year-old man living in the surrounding county. [@1,2] A police dog
+named Trawka sniffed out the drugs hidden in the garage. [@1,2] The man was
+detained and heard a charge of drug possession. [@1,2] He admitted during
+questioning that the drugs were his. [@1,3]
 
 Kryminalni z Suwałk, the criminal investigation unit of the local police, had
 established that drugs might be in one of the flats in the county. During the
-search of the premises they found green dried plant material. [@1] A police dog
+search of the premises they found green dried plant material. [@1,2] A police dog
 named Trawka, trained to detect drugs, helped check the rooms and indicated the
 place where more substances were hidden in the garage. [@1] Officers secured a
 total of 2.9 kilograms of marijuana from the flat and garage, according to the
-police. [@1]
+police. [@1,3]
 
 Police said the possession charge carries a possible penalty of up to three
 years' imprisonment. [@1]
-
