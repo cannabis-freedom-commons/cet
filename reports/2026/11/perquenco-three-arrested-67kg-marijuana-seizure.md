@@ -70,29 +70,28 @@ sources:
     publisher: ADN Radio
     date: 2026-11-19
     language: es
-open_questions:
-  - No separate date for the pursuit was published; 19 November 2026 is the publication date and stands in for the incident date.
-  - The marijuana was described only as processed marijuana, with no laboratory confirmation reported.
-  - The 26,000-dose figure and the 26-million-peso valuation are police estimates.
-  - No detention outcome, charge details or plea beyond the pending detention-control hearing was reported.
-  - All three accounts reproduce the Carabineros account of the pursuit and seizure, so they are not independent reporting.
+  - title: Persecución por la Ruta 5 Sur termina con tres detenidos y 6,7 kilos de marihuana en Perquenco
+    url: https://www.tiempo21.cl/persecucion-por-la-ruta-5-sur-termina-con-tres-detenidos-y-67-kilos-de-marihuana-en-perquenco/
+    publisher: Tiempo21
+    date: 2026-11-19
+    language: es
 ---
 
 Carabineros of the OS-7 Araucanía unit arrested three adults after a police
 pursuit on Route 5 South at the commune of Perquenco, including a pregnant
-woman. [@1,4] All three detainees had prior criminal records. [@2,4] Officers were
+woman. [@1,4,5] All three detainees had prior criminal records. [@2,4,5] Officers were
 carrying out random checks near the Púa toll plaza when they tried to inspect
 the car carrying the three, but the driver accelerated and fled toward a rural
-sector. [@1,4] During the chase, one passenger got out of the moving vehicle and
-threw several packages before officers intercepted him. [@1] The car continued
+sector. [@1,4,5] During the chase, one passenger got out of the moving vehicle and
+threw several packages before officers intercepted him. [@1,5] The car continued
 to a rural road, where its occupants abandoned the vehicle and tried to escape
-on foot, but Carabineros caught all three. [@1,4]
+on foot, but Carabineros caught all three. [@1,4,5]
 
 The operation seized approximately 6 kilos 700 grams of processed marijuana,
-which police equated to 26,000 doses. [@1,4] Police valued the seized marijuana at
-26 million pesos in the illicit market. [@1]
+which police equated to 26,000 doses. [@1,4,5] Police valued the seized marijuana at
+26 million pesos in the illicit market. [@1,5]
 
 The three detainees were placed at the disposal of the Lautaro Guarantee Court
-for their detention-control hearing. [@1,4] Regional public-security official Luis
+for their detention-control hearing. [@1,4,5] Regional public-security official Luis
 Calderón said the result showed that preventive controls and permanent police
 presence on the highways were essential to fighting drug trafficking. [@3]
