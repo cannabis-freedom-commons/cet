@@ -85,6 +85,16 @@ sources:
     publisher: LINFO.re
     date: 2026-09-11
     language: fr
+  - title: 'À retenir ce soir : saisie record de drogue, Stop Vif interpelle la procureure, prof incarcéré pour viol, gel des APL et Tables gourmandes'
+    url: https://imazpress.com/toute-l-actu/-retenir-ce-soir-saisie-record-de-drogue-stop-vif-interpelle-la-procureure-prof-incarcere-pour-viol-gel-des-apl-et-tables-gourmandes
+    publisher: Imaz Press Réunion
+    date: 2026-09-21
+    language: fr
+  - title: Trois contrôles des douaniers de La Réunion totalisent plus de 200 kg de stupéfiants, dont 140 kg au rayon X
+    url: https://actuforcesdelordre.fr/2026/09/21/reunion-douanes-plus-200-kg-stupefiants-fret-rayon-x
+    publisher: Actu Forces de l'Ordre
+    date: 2026-09-21
+    language: fr
 open_questions:
   - The sources do not say whether the British woman or the Guianese man was charged, tried or sentenced.
   - The customs page is dated 15 September 2026, while Imaz Press dates the communiqué to 21 September 2026; the seizure dates of 9 and 10 September are consistent across sources.
@@ -119,13 +129,13 @@ media:
 ---
 
 Customs officers in Réunion seized 140 kg of cannabis herb from an air-cargo
-consignment on the Bangkok–Amsterdam route on 10 September 2026. [@1,8,9] Agents at
+consignment on the Bangkok–Amsterdam route on 10 September 2026. [@1,8,9,11,12] Agents at
 the Saint-Denis Aéroport customs office selected the consignment, which was in
 transit at Réunion. [@1,8] They targeted two pallets holding 40 cartons and
-X-rayed them. [@1,8,9] Behind consumer goods they found vacuum-sealed plastic bags
-hidden in black bubble wrap. [@1,8,9] In total they seized 258 bags of cannabis herb
-weighing 140 kg. [@1,8,9] Customs called it Réunion's first seizure of Thai cannabis
-herb from air freight in transit to Europe. [@1,8,9]
+X-rayed them. [@1,8,9,12] Behind consumer goods they found vacuum-sealed plastic bags
+hidden in black bubble wrap. [@1,8,9,12] In total they seized 258 bags of cannabis herb
+weighing 140 kg. [@1,8,9,12] Customs called it Réunion's first seizure of Thai cannabis
+herb from air freight in transit to Europe. [@1,8,9,11,12]
 
 Less than 24 hours earlier, officers intercepted 17 kg of Thai cannabis herb on
 a British woman who had flown via Chennai. [@1,9] She was placed in police custody
