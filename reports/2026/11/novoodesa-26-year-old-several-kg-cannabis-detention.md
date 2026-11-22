@@ -1,0 +1,104 @@
+---
+code: 8VV3DP
+added_at: "2026-11-22T20:09:44.129345Z"
+date: 2026-11-21
+country: ua
+place: Novoodesa community, Mykolaiv District, Mykolaiv Oblast
+coordinates: [47.3097, 31.7792]
+precision: district
+type: arrest
+also: [seizure, prosecution]
+title: Mykolaiv man, 26, detained over several kilograms of cannabis
+summary: >-
+  Police in Mykolaiv Oblast detained a 26-year-old resident of the Novoodesa community and notified him of suspicion of illegally acquiring and possessing several kilograms of dried and ground cannabis found in an outbuilding at his home. The charge carries a possible sentence of up to eight years in prison; a court was yet to decide on a preventive measure and no exact weight was published.
+figures:
+  arrested: 1
+  charged: 1
+details:
+  agencies: [Police Department No. 6 of the Mykolaiv District Police Directorate, Mykolaiv District Prosecutor's Office]
+  agency_types: [police, prosecutor, court]
+  products:
+    - {product: flower}
+  activity: [possession]
+  setting: [home]
+  charges: [illegal acquisition and possession of narcotic drugs in especially large quantities without intent to sell]
+  case_stage: charged
+  date_precision: publication
+  region: Mykolaiv Oblast
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.charged: [1]
+media:
+  - kind: photo
+    url: https://korabelov.info/en/2026/11/639156/a-resident-of-mykolaiv-oblast-kept-several-kilograms-of-cannabis-in-an-outbuilding/
+    media_url: https://korabelov.info/wp-content/uploads/2026/11/news-84efb5e97a6071a9a1cfd549-e79e6136047cb778-780x470.jpg
+    publisher: Новости Николаева cегодня
+    caption: Cannabis seized during a search at the residence of a resident of the Novoodesa community.
+  - kind: photo
+    url: https://suspilne.media/mykolaiv/1455790-u-mikolaivskomu-rajoni-zatrimali-pidozruvanogo-u-nezakonnomu-zberiganni-kanabisu/
+    media_url: https://cdn4.suspilne.media/slider/2026/11/21/24822_WasVlC4IZT.jpg
+    publisher: Суспільне Миколаїв
+    caption: 'Glass jars and a packet of cannabis seized in the search. Photo: Mykolaiv Oblast National Police'
+  - kind: photo
+    url: https://suspilne.media/mykolaiv/1455790-u-mikolaivskomu-rajoni-zatrimali-pidozruvanogo-u-nezakonnomu-zberiganni-kanabisu/
+    media_url: https://cdn4.suspilne.media/slider/2026/11/21/24822_PB4QJVD3d8.jpg
+    publisher: Суспільне Миколаїв
+    caption: 'Wooden boxes of dried cannabis seized in the search. Photo: Mykolaiv Oblast National Police'
+  - kind: photo
+    url: https://suspilne.media/mykolaiv/1455790-u-mikolaivskomu-rajoni-zatrimali-pidozruvanogo-u-nezakonnomu-zberiganni-kanabisu/
+    media_url: https://cdn4.suspilne.media/slider/2026/11/21/24822_hd5bwtZHCk.jpg
+    publisher: Суспільне Миколаїв
+    caption: 'A glass jar of cannabis seized in the search. Photo: Mykolaiv Oblast National Police'
+status: verified
+created_by_model: opencode-go/hy4-flash-free#high
+submission: 41bd44e063e1065344d655baa9dbcd3b
+tags: [mykolaiv, novoodesa, cannabis, article-309, possession]
+sources:
+  - title: A resident of Mykolaiv Oblast kept several kilograms of cannabis in an outbuilding
+    url: https://korabelov.info/en/2026/11/639156/a-resident-of-mykolaiv-oblast-kept-several-kilograms-of-cannabis-in-an-outbuilding/
+    publisher: Новости Николаева cегодня
+    date: 2026-11-21
+  - title: У Миколаївському районі поліцейські затримали підозрюваного у незаконному зберіганні канабісу в особливо великих розмірах
+    url: https://mk.npu.gov.ua/news/u-mykolaivskomu-raioni-politseiski-zatrymaly-pidozriuvanoho-u-nezakonnomu-zberihanni-kanabisu-v-osoblyvo-velykykh-rozmirakh
+    publisher: Головне управління Національної поліції в Миколаївській області
+    date: 2026-11-21
+    language: uk
+  - title: У Миколаївському районі затримали підозрюваного у незаконному зберіганні канабісу
+    url: https://suspilne.media/mykolaiv/1455790-u-mikolaivskomu-rajoni-zatrimali-pidozruvanogo-u-nezakonnomu-zberiganni-kanabisu/
+    publisher: Суспільне Миколаїв
+    date: 2026-11-21
+    language: uk
+open_questions:
+  - No exact weight was published; police said only several kilograms of dried and ground cannabis, so no kilogram figure is recorded.
+  - No separate date was given for the search; 21 November 2026 is the date of the police statement and the news reports and is used as the incident date.
+  - The court's decision on a preventive measure and the outcome of the pre-trial investigation had not been reported.
+  - The suspect was identified only as a 26-year-old resident of the Novoodesa community; no name was published.
+  - No value or official estimate for the cannabis was published.
+---
+
+Police in Mykolaiv Oblast detained a 26-year-old resident of the Novoodesa
+community and notified him of suspicion of illegally acquiring and possessing
+narcotic drugs in especially large quantities, without intent to sell. [@1]
+Investigators and officers from Police Department No. 6 of the Mykolaiv District
+Police Directorate carried out an authorised search of his home after receiving
+operational information, under the procedural supervision of the Mykolaiv
+District Prosecutor's Office. [@2]
+
+During the search, officers seized dried and ground cannabis from a utility room
+at the home, which police described as several kilograms. [@1] The man kept
+ready-to-use cannabis in glass jars and dried cannabis in boxes and crates. [@2]
+Police detained him under Article 208 of the Criminal Procedure Code of Ukraine
+and investigators notified him of suspicion under Part 3 of Article 309 of the
+Criminal Code. [@1]
+
+The offence carries a possible sentence of up to eight years in prison. [@3] A
+court was expected to decide on a preventive measure for the suspect soon, and
+the pre-trial investigation was ongoing. [@1]
+
