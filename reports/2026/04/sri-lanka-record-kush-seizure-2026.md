@@ -147,6 +147,11 @@ sources:
     url: https://thenationaldesk.com/news/americas-news-now/22-buddhist-monks-arrested-at-bandaranaike-airport-sri-lanka-for-allegedly-hiding-110kg-of-cannabis-in-luggage-illegal-drugs-kush-hashish-thailand-south-asian-nation
     publisher: The National Desk
     date: 2026-04-28
+  - title: '22 Sri Lankan monks arrested with 110kg cannabis after Thailand trip: ''They were finding peace,'' internet jokes'
+    url: https://www.moneycontrol.com/news/trends/22-sri-lankan-monks-arrested-with-110kg-cannabis-after-thailand-trip-they-were-finding-peace-internet-jokes-13901942.html
+    publisher: Moneycontrol
+    date: 2026-04-28
+    language: en
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cn4v4nzwj94o
@@ -168,13 +173,11 @@ media:
     media_url: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2272655605.jpg?c=original&q=w_860,c_fill/f_avif
     publisher: CNN
     caption: 'Sri Lankan monks arriving to appear before a court after their arrest in Negombo on 26 April 2026. Photo: Ishara S. Kodikara/AFP/Getty Images via CNN'
-open_questions:
-    - The accounts describe the haul as both kush and hashish without giving separate weights for the two.
 ---
 
 On the night of 25–26 April 2026 police arrested 22 Sri Lankan monks returning from Thailand at
 Bandaranaike International Airport with 110 kg of kush hidden in their luggage, valued at about US$3.5
-million; it was reported as the country's largest single cannabis seizure. [@1,23,24,26,27] The Police Narcotics
+million; it was reported as the country's largest single cannabis seizure. [@1,23,24,26,27,29] The Police Narcotics
 Bureau's airport unit acted on intelligence [@4,5,10,12], and the monks were arrested at about 10.10 pm.
 [@20] Customs called it the largest single detection of kush at the airport.
 [@3,6,7,9,11,12,13,14,16,17,19,20,23]
