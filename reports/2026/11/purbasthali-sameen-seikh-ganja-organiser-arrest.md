@@ -93,28 +93,34 @@ sources:
     publisher: Metro Vaartha
     date: 2026-11-20
     language: ml
+  - title: നാട്ടില്‍ കിടക്കക്കച്ചവടക്കാരന്‍, കേരളത്തില്‍ ലഹരിക്കടത്ത് തലവന്‍; സമീന്‍ ഷേഖ് പിടിയില്‍; പിടികൂടിയത് ബംഗാളില്‍നിന്ന്
+    url: https://janamtv.com/81069180/
+    publisher: Janam TV
+    date: 2026-11-20
+    language: ml
 open_questions:
-  - Central Chronicle names the arrested man Zameen Sheikh of Purvasthali, while earlier accounts used for this report name Sameen Seikh of Purbasthali; both give age 27 and the same Palakkad case and officers.
-  - This account gives the railway superintendent as B. Krishnakumar; the report records him as P. B. Krishnakumar.
+    - Central Chronicle names the arrested man Zameen Sheikh of Purvasthali, while earlier accounts used for this report name Sameen Seikh of Purbasthali; both give age 27 and the same Palakkad case and officers.
+    - This account gives the railway superintendent as B. Krishnakumar; the report records him as P. B. Krishnakumar.
+    - Janam TV rounds the September seizure to 22.40 kg, while the report uses 22.403 kg from the police statement.
 ---
 
 Palakkad Railway Police arrested Sameen Seikh, 27, in West Bengal as the alleged
-mastermind of a ganja smuggling network operating in Kerala. [@1,3,5,6,7,8,9,10,11,12] A special
+mastermind of a ganja smuggling network operating in Kerala. [@1,3,5,6,7,8,9,10,11,12,13] A special
 investigation team under Railway Superintendent P. B. Krishnakumar, led by
 Deputy Superintendent Manoj Parayatt and Inspector Prathap A, travelled to West
-Bengal and arrested him after discreet surveillance. [@1,4,5,7,8,9,10,12] ASI Shakkir V.M., Senior CPO Raman V., CPO Siju K. of the Palakkad Railway Police Station and RPF CPDS Constable Abdul Sathar were also part of the operation. [@10] Officers located his
+Bengal and arrested him after discreet surveillance. [@1,4,5,7,8,9,10,12,13] ASI Shakkir V.M., Senior CPO Raman V., CPO Siju K. of the Palakkad Railway Police Station and RPF CPDS Constable Abdul Sathar were also part of the operation. [@10] Officers located his
 hideout and house at Hameedpur in Purbasthali, Purba Bardhaman, and detained him
-around midnight after surrounding the place. [@2] Police said some violent villagers had been guarding the hideout where he was staying before officers surrounded it and took him into custody around midnight. [@11] Police said they had watched
+around midnight after surrounding the place. [@2,13] Police said some violent villagers had been guarding the hideout where he was staying before officers surrounded it and took him into custody around midnight. [@11,13] Police said they had watched
 him for days, found the hideout and house, and subdued him around midnight by
-surrounding the place. [@2]
+surrounding the place. [@2,13]
 
 He is the first person charged in a case registered after police arrested two
 men with 22.403 kilograms of ganja at Palakkad Junction railway station on 19
-September 2026. [@1,4,5,6,7,8,9,10,11,12] Asim Seikh, 23, and Sahidul Mallik, 28, were allegedly
-transporting the ganja from West Bengal to Kerala by train via Chennai. [@1,4,5,6,7,8,9,10,11,12]
+September 2026. [@1,4,5,6,7,8,9,10,11,12,13] Asim Seikh, 23, and Sahidul Mallik, 28, were allegedly
+transporting the ganja from West Bengal to Kerala by train via Chennai. [@1,4,5,6,7,8,9,10,11,12,13]
 Masood Seikh, 28, another link in the network, had earlier been arrested in
-Kozhikode. [@1,4,5,6,7,8,9,10,11,12] Questioning of those suspects identified Sameen, a native of
-Purba Bardhaman district, as the organiser, police said. [@1,4,5,6,7,8,9,10,11,12] Police said he would be brought to Kerala and produced before the Palakkad Judicial First Class Magistrate Court after the required procedures. [@4,5,6,7,8,9,10,12]
+Kozhikode. [@1,4,5,6,7,8,9,10,11,12,13] Questioning of those suspects identified Sameen, a native of
+Purba Bardhaman district, as the organiser, police said. [@1,4,5,6,7,8,9,10,11,12,13] Police said he would be brought to Kerala and produced before the Palakkad Judicial First Class Magistrate Court after the required procedures. [@4,5,6,7,8,9,10,12]
 
 Police said Sameen had come to Kerala about 12 years earlier for construction
-work and had lived in Mahe and Thalassery. [@1,4,5,6,7,8,9,10,11,12] Police said Seikh was known in his home town as a mattress trader. [@11] Police said he also has a previous case under the Narcotic Drugs and Psychotropic Substances Act registered at the Vazhakkad police station in Malappuram district. [@4,5,6,7,8,9,10,11,12] Police said he later used migrant workers to move ganja by train to Palakkad, Tirur and Kozhikode. [@4,5,6,7,8,9,10,12]
+work and had lived in Mahe and Thalassery. [@1,4,5,6,7,8,9,10,11,12,13] Police said Seikh was known in his home town as a mattress trader. [@11,13] Police said he also has a previous case under the Narcotic Drugs and Psychotropic Substances Act registered at the Vazhakkad police station in Malappuram district. [@4,5,6,7,8,9,10,11,12,13] Police said he later used migrant workers to move ganja by train to Palakkad, Tirur and Kozhikode. [@4,5,6,7,8,9,10,12]
