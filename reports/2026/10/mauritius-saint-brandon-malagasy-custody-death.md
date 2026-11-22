@@ -61,13 +61,30 @@ sources:
     publisher: Le Mauricien
     date: 2024-01-11
     language: fr
+  - title: '72 heures d’opération en haute mer - saisie record de Rs 510 millions de cannabis : dix arrestations'
+    url: https://defimedia.info/72-heures-doperation-en-haute-mer-saisie-record-de-rs-510-millions-de-cannabis-dix-arrestations
+    publisher: Defimedia
+    date: 2024-01-09
+    language: fr
 open_questions:
-  - The cause of death is not established; an autopsy was to be performed on 17 October 2026 and no result was reported.
-  - No exact January 2024 interception date is given; Le Mauricien places the Barracuda boarding on a Saturday at about 23:15 and ION News reports the weighing ended on Monday 8 January 2024.
-  - No information is given on how many of the other nine suspects remained in detention at Beau-Bassin in October 2026.
-  - ION News reports that the six Malagasy included one minor, while L'express names six adults without ages; the discrepancy is not resolved here.
-  - No committal, trial or verdict is reported for the 2024 case by the time of the death; the suspects were last said to have appeared only on provisional charges.
-  - The 333 kg figure is the weighed cannabis total from January 2024 and is context for his case, not a new seizure in October 2026.
+    - The cause of death is not established; an autopsy was to be performed on 17 October 2026 and no result was reported.
+    - No exact January 2024 interception date is given; Defimedia puts the high-seas operation on Sunday 7 January with the seizure in the night before Monday 8 January, Le Mauricien places the Barracuda boarding on a Saturday at about 23:15 and ION News reports the weighing ended on Monday 8 January 2024.
+    - No information is given on how many of the other nine suspects remained in detention at Beau-Bassin in October 2026.
+    - ION News reports that the six Malagasy included one minor, while L'express names six adults without ages; the discrepancy is not resolved here.
+    - No committal, trial or verdict is reported for the 2024 case by the time of the death; the suspects were last said to have appeared only on provisional charges.
+    - The 333 kg figure is the weighed cannabis total from January 2024 and is context for his case, not a new seizure in October 2026.
+    - Defimedia reports the haul as 340 kg worth Rs 510 million from a 72-hour operation, while the other 2024 accounts give a weighed 333 kg worth Rs 399.6 million from a 172-hour operation.
+media:
+  - kind: photo
+    url: https://defimedia.info/72-heures-doperation-en-haute-mer-saisie-record-de-rs-510-millions-de-cannabis-dix-arrestations
+    media_url: https://media.defimedia.info/sites/default/files/styles/wide/public/saisie_record_de_cannabis.jpg.avif?itok=nILtxHyL
+    publisher: Defimedia
+    caption: The record cannabis seizure from the January 2024 high-seas operation north of Mauritius.
+  - kind: photo
+    url: https://defimedia.info/72-heures-doperation-en-haute-mer-saisie-record-de-rs-510-millions-de-cannabis-dix-arrestations
+    media_url: https://media.defimedia.info/sites/default/files/inline-images/Saisie%20record%20de%20cannabis%201.jpg
+    publisher: Defimedia
+    caption: Cannabis seized in the record high-seas operation, published with the article.
 ---
 
 Luco Tony Malazafaly, a 49-year-old Malagasy man held at Beau-Bassin prison,
@@ -82,10 +99,10 @@ He was among six Malagasy nationals intercepted at sea in January 2024 aboard a
 boat carrying 333 kg of cannabis. [@2] Authorities opened an inquiry to shed
 light on the circumstances surrounding his death. [@2] After weighing by the
 Forensic Science Laboratory that ended late on Monday 8 January aboard CGS
-Barracuda, 333 kg of cannabis in 24 parcels was brought back to Mauritius. [@3]
+Barracuda, 333 kg of cannabis in 24 parcels was brought back to Mauritius. [@3,5] With no cell available aboard the CGS Barracuda, the six Malagasy were kept under police surveillance in a corner of the ship's dining room. [@5]
 The ADSU put the official value of the cannabis at Rs 399.6 million after
 weighing it without its packaging. [@3] A 172-hour operation led to the arrest
-of four Mauritians and six Malagasy nationals. [@3] The six Malagasy, said to
+of four Mauritians and six Malagasy nationals. [@3,5] The six Malagasy, said to
 come from Nosy Be and Beramanja in Madagascar, were named as Malazafaly, Jackely
 Scadiky, Jobila Richard, Aseta Marck Hero, Ismael Aboudou and Janosy Fernand.
 [@1] Four Mauritians suspected of helping to collect the cargo were also
@@ -95,14 +112,13 @@ January 2024 before being returned to detention. [@1]
 
 After several days of surveillance and intelligence-gathering, officers from the
 Force Crime Intelligence Unit, the Maritime Intelligence Cell and the coast
-guard intercepted the boat Hydra carrying six Malagasy nationals. [@1] The
+guard intercepted the boat Hydra carrying six Malagasy nationals. [@1,5] The
 patrol vessel Barracuda intercepted the unregistered boat north-west of
 Mauritius at about 23:15 on Saturday with 24 parcels of cannabis and 34 cans of
-fuel aboard. [@4] The previous evening, a boat carrying four Mauritians had been
+fuel aboard. [@4] A Dornier aircraft and two commando teams took part in the operation, which included a 12-hour chase off Pointe-aux-Canonniers. [@5] The previous evening, a boat carrying four Mauritians had been
 intercepted off Pointe-aux-Piments, and one of those aboard reportedly said they
-were going to collect a drug cargo from the high seas. [@4] The four Mauritians
+were going to collect a drug cargo from the high seas. [@4,5] Two naval commandos were wounded in the confrontation before the four Mauritians were subdued. [@5] The four Mauritians
 appeared in court on provisional charges of conspiracy to attempt to possess
-drugs and were remanded in police cells. [@3] The six Malagasy smugglers,
+drugs and were remanded in police cells. [@3,5] The six Malagasy smugglers,
 including one minor, appeared in court on provisional drug-importation charges
 and were remanded in police cells. [@3]
-
