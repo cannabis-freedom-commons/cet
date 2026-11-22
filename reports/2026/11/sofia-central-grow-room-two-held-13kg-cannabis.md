@@ -85,22 +85,27 @@ sources:
     publisher: Mediamall
     date: 2026-11-20
     language: bg
+  - title: 'Разбиханаркооранжерия в центъра на София: Иззеха килограми марихуана и задържаха двама души'
+    url: https://novinata.bg/krimi/razbiha-narkooranjeriq-v-centara-na-sofiq-izzeha-kilogrami-marihuana-i-zadarjaha-dvama-dushi/
+    publisher: Novinata.bg
+    date: 2026-11-21
+    language: bg
 ---
 
 Police raided a cannabis grow room at an address in central Sofia on 18 November
 2026 and detained two people. [@1,3,4,5] The operation was run by officers of the
-Eighth District Police Department's crime-fighting section. [@2,4,5] Those detained
+Eighth District Police Department's crime-fighting section. [@2,4,5,6] Those detained
 were a 28-year-old man, known to police and previously convicted, and a
-25-year-old woman. [@1,3,4,5] The Sofia City Prosecutor's Office charged the woman,
-who was held for up to 72 hours. [@1,3,4,5]
+25-year-old woman. [@1,3,4,5,6] The Sofia City Prosecutor's Office charged the woman,
+who was held for up to 72 hours. [@1,3,4,5,6]
 
 In the grow room officers seized 60 pots with plants and about 6 kg of green
-plant matter. [@2,3,4] They also took electronic scales, dehumidifiers, dryers,
+plant matter. [@2,3,4,6] They also took electronic scales, dehumidifiers, dryers,
 chemicals and the irrigation, ventilation and lighting equipment of the
-greenhouse. [@2,4,5] An expert report identified 13 kg of harvested marijuana buds,
+greenhouse. [@2,4,5,6] An expert report identified 13 kg of harvested marijuana buds,
 more than 3 kg of hemp and 6 kg of green leaf matter, as well as a small amount
-of cocaine. [@1,3,4,5] The ministry said the seized plant matter totalled more than 22 kg. [@4]
+of cocaine. [@1,3,4,5,6] The ministry said the seized plant matter totalled more than 22 kg. [@4]
 
 A pre-trial case was opened under Article 354a, paragraph 1, of the Criminal
-Code. [@1,3] The ministry said officers checked the address after receiving
-operational information. [@2,4]
+Code. [@1,3,6] The ministry said officers checked the address after receiving
+operational information. [@2,4,6]
