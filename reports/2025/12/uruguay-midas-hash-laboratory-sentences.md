@@ -42,16 +42,6 @@ data_sources:
   figures.prison: [1, 2]
 status: verified
 tags: [midas, hashish, canelones]
-open_questions:
-  - El Observador rounded the cannabis total to 4,500 kg; the Interior Ministry gave 4,433.650 kg.
-  - The defendants were not named in the government releases opened; only nationalities and roles were described.
-  - Two defendants received probation-style terms of 24 and 18 months rather than prison; the headline figure reflects the longest penitentiary term.
-  - Prensa Latina says three tonnes of marijuana were held at the San Jose site and more than three tonnes in Canelones, which together would exceed its own stated 4,500 kg total, so no site breakdown is added as a new figure.
-  - Infobae gives the cannabis seizure as 'más de 4.500 kilos' in its lead and 4.434 kilos in its body, while the report keeps the Interior Ministry's 4,433.65 kg.
-  - Infobae describes the laboratory site as a chacra near Juan Soler but does not state which of the four searched properties the Canelones ones were.
-  - 'The la diaria article is paywalled: only its opening paragraphs and a fragment citing the convicted person''s hemp company in Florida were readable, so the reported link between that industrial hemp business and the illegal hashish production could not be verified in full.'
-  - la diaria reports 4,500 kilos of plant material, the rounded figure the Interior Ministry and other outlets also used initially; the report keeps the final official count of 4,433.65 kg.
-  - Teledoce describes the detainees' explanation as their own account, and no report says whether investigators accepted it.
 sources:
   - title: Incautan más de 4.400 kilos de droga y desmantelan laboratorio de procesamiento de hachís
     url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/incautan-4400-kilos-droga-desmantelan-laboratorio-procesamiento-hachis
@@ -89,6 +79,11 @@ sources:
     date: 2025-12-09
     language: es
     archived: https://web.archive.org/web/20260119090207id_/https://www.carasycaretas.com.uy/politica/incautacion-record-casi-4500-kg-marihuana-hallados-canelones-y-san-jose-n90750
+  - title: La policía investiga posible producción de hachís en San José; hay cuatro detenidos
+    url: https://www.teledoce.com/telemundo/policiales/la-policia-investiga-posible-produccion-de-hachis-en-san-jose-hay-cuatro-detenidos/
+    publisher: Teledoce.com
+    date: 2025-12-08
+    language: es
 media:
   - kind: photo
     url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/incautan-4400-kilos-droga-desmantelan-laboratorio-procesamiento-hachis
@@ -140,4 +135,4 @@ imports through the Chuy border used for hashish production inputs. [@1,2,3,4]
 
 The Brazilian detainee who supervised production was studying biochemistry, Julio Sena, head of investigations at the National Police, said at a press conference on 9 December. [@4] Sena said investigators had found no indication so far linking Operation Midas to earlier hashish hauls, including 750 kg seized in three June operations thought to involve Brazil's First Capital Command. [@4]
 
-At the Juan Soler site police took 1,194.39 kg of marijuana in various forms and 46.52 kg of a viscous brown substance identified as cannabis resin, and in Canelones 3,192.74 kg of plant material. [@6] The four people detained at Juan Soler said they were making cannabis oil for purportedly therapeutic use rather than hashish, but had no state authorization. [@6] The presence of butane gas led investigators to the site and suggested the resin was extracted on the property rather than imported ready-made. [@6]
+At the Juan Soler site police took 1,194.39 kg of marijuana in various forms and 46.52 kg of a viscous brown substance identified as cannabis resin, and in Canelones 3,192.74 kg of plant material. [@6] The four people detained at Juan Soler said they were making cannabis oil for purportedly therapeutic use rather than hashish, but had no state authorization. [@6,8] The presence of butane gas led investigators to the site and suggested the resin was extracted on the property rather than imported ready-made. [@6,8]
