@@ -54,33 +54,37 @@ sources:
     publisher: MK Ulan-Ude
     date: 2026-11-20
     language: ru
+  - title: За два месяца в Бурятии возбуждено 43 уголовных дела по факту незаконного оборота наркотиков
+    url: https://www.infpol.ru/282055-za-dva-mesyatsa-v-buryatii-vozbuzhdeno-43-ugolovnykh-dela-po-faktu-nezakonnogo-oborota-narkotikov/
+    publisher: Информ Полис
+    date: 2026-11-21
+    language: ru
 open_questions:
-  - No exact day is given for the searches or the announcement; the operation is described only as running from August through October, and 31 October 2026 stands in for the end of that period. 20 November 2026 is the publication date.
-  - The account gives the 383 patches a combined area of more than 1 million hectares, almost the whole 1.3 million hectares surveyed. That conflicts with the August stage report of 254 patches covering more than 745 hectares, so the million-hectare figure is not used.
-  - The summary does not say how many of the 383 patches were actually destroyed, only that 180 destruction orders were issued, the same order count already reported for the August stage.
-  - The 178.5 grams found with the Kyakhtinsky district seizure is described only as another drug and is not included in the cannabis weight.
-  - The named seizures of 2.5 kg, about 12.5 kg and about 2.2 kg do not add up to the stated total of about 25 kg; the rest is not broken down.
-  - No names, pleas or court outcomes were reported, and the account rests on one outlet's rendering of the Interior Ministry statement.
+    - No exact day is given for the searches or the announcement, so 31 October 2026 stands in for the end of the August-to-October operation and the two accounts were published on 20 and 21 November 2026.
+    - The accounts give the 383 patches a combined area of more than 1 million hectares, which conflicts with the August stage report of 254 patches covering more than 745 hectares, so the million-hectare figure is not used.
+    - The accounts do not say how many of the 383 patches were destroyed, only that 180 destruction orders were issued, the same count reported for the August stage.
+    - One account describes the 178.5 grams found with the Kyakhtinsky district seizure only as another drug and excludes it from the cannabis weight, while the other identifies it as hashish oil.
+    - The named seizures of 2.5 kg, about 12.5 kg and about 2.2 kg do not add up to the stated total of about 25 kg, and the rest is not broken down.
+    - No names, pleas or court outcomes were reported, and both accounts render the same Interior Ministry statement rather than independent reporting.
 ---
 
 Police in Buryatia summed up the inter-agency operation Mak-2026, which ran from
-August through October 2026, the Interior Ministry for the republic said. [@1]
+August through October 2026, the Interior Ministry for the republic said. [@1,2]
 Over that period officers opened 43 criminal cases over illegal trafficking of
-drugs of plant origin. [@1]
+drugs of plant origin. [@1,2]
 
 A main line of the operation was finding and destroying wild hemp. [@1] Officers
 surveyed more than 1.3 million hectares of land and found 383 patches of
-narcotic plants. [@1] Landowners were issued 180 orders to destroy the hemp.
-[@1]
+narcotic plants. [@1,2] Landowners were issued 180 orders to destroy the hemp.
+[@1,2]
 
 A 66-year-old resident of the republic had 2.5 kilograms of plant drugs seized.
-[@1] In Kyakhtinsky district officers detained a 48-year-old man and found about
+[@1,2] In Kyakhtinsky district officers detained a 48-year-old man and found about
 12.5 kilograms of the same kind of plant material and 178.5 grams of another
-drug. [@1] About 2.2 kilograms more were seized from a 24-year-old resident of
-Ulan-Ude. [@1] Officers also drew up 58 administrative protocols, 56 of them for
-using banned substances without a medical purpose and two for storing them. [@1]
+drug. [@1,2] About 2.2 kilograms more were seized from a 24-year-old resident of
+Ulan-Ude. [@1,2] The Interior Ministry identified the plant material in the three named seizures as marijuana and the 178.5 grams found with the Kyakhtinsky district man as hashish oil. [@2] Officers also drew up 58 administrative protocols, 56 of them for
+using banned substances without a medical purpose and two for storing them. [@1,2]
 
 In all, the ministry said, about 25 kilograms of plant-origin narcotics were
-taken out of illegal circulation. [@1] Police worked with officials of the
+taken out of illegal circulation. [@1,2] Police worked with officials of the
 executive authorities and local government. [@1]
-
