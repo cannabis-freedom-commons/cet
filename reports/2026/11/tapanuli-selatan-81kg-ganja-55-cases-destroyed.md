@@ -62,26 +62,31 @@ sources:
     publisher: Start News
     date: 2026-11-21
     language: id
+  - title: Perang Melawan Narkoba! Kejari Tapsel Musnahkan 8,1 Kg Ganja dan Puluhan Gram Sabu
+    url: https://www.sumut24.co/news/288787/perang-melawan-narkoba-kejari-tapsel-musnahkan-81-kg-ganja-dan-puluhan-gram-sabu/
+    publisher: Sumut24.co
+    date: 2026-11-20
+    language: id
 ---
 
 The Tapanuli Selatan district prosecutor's office destroyed 8.1 kilograms of
 ganja and 76.45 grams of sabu held as evidence in 55 cases that had become
-final. [@1,2,3] The destruction was carried out on Thursday 19 November 2026 and was
+final. [@1,2,3,4] The destruction was carried out on Thursday 19 November 2026 and was
 witnessed by related agencies, including the Tapanuli Selatan district police.
-[@1,2,3] The 76.45 grams of sabu destroyed in the same exercise is a separate
+[@1,2,3,4] The 76.45 grams of sabu destroyed in the same exercise is a separate
 substance and is not counted in the cannabis figure. [@1]
 
 Tapanuli Selatan police chief Anton Santoso, speaking through narcotics unit
 head Philip Antonio Purba, said the police presence showed support for
-enforcement through to the destruction of evidence. [@1,3] Purba said drug
-enforcement does not stop at uncovering a case and holding a trial. [@1,2] He said
+enforcement through to the destruction of evidence. [@1,3,4] Purba said drug
+enforcement does not stop at uncovering a case and holding a trial. [@1,2,4] He said
 destroying the evidence ensured the legal process was completed and prevented
-the evidence from being misused. [@1] He said the police, prosecution and courts
-must keep their coordination at every stage of a case. [@1] Purba also called on
+the evidence from being misused. [@1,4] He said the police, prosecution and courts
+must keep their coordination at every stage of a case. [@1,4] Purba also called on
 residents to help prevent drug trafficking and to report suspicious activity in
-their neighbourhoods. [@1]
+their neighbourhoods. [@1,4]
 
 The prosecutor's office also destroyed evidence from other cases: seven assault
 cases (scissors and a hoe), four child-protection cases (clothing), three
 gambling cases (dream-interpretation books and playing cards) and 11 theft cases
-(wood, a screwdriver and pliers). [@1,2,3]
+(wood, a screwdriver and pliers). [@1,2,3,4]
