@@ -87,6 +87,11 @@ sources:
     publisher: KoSSev
     date: 2026-11-20
     language: de
+  - title: 'Suvareka''da 512 Kg Esrar Ele Geçirildi: Üç Kişi Hakkında İddianame'
+    url: https://kosovahaber.com/haber/suvarekada-512-kg-esrar-ele-gecirildi-uc-kisi-hakkinda-iddianame-109537
+    publisher: Kosovahaber.com
+    date: 2026-11-20
+    language: tr
 open_questions:
     - No separate date is given for the indictment; 20 November 2026 is the publication date of these reports and is used as the incident date.
     - The reports give no figure for the area under cultivation; the only areas stated are the two plots of 1,963 and 1,438 square metres that prosecutors want confiscated.
@@ -100,19 +105,19 @@ open_questions:
 
 Kosovo's Basic Prosecution in Prizren has filed an indictment against three
 people over cannabis cultivation and sale in Maqitevë, a village in Suhareka
-municipality. [@3,5,6] All three were in pre-trial detention when the indictment was
-filed. [@1] Prosecutors requested pre-trial detention for the other two suspects, MA and BA, at the end of October 2026. [@6] FN surrendered to Kosovo police on 28 March 2026, after which the Prizren prosecution sought his detention on suspicion of producing and distributing narcotics and illegal weapons possession. [@6] One of the three, identified as FN, was not available to law enforcement during the investigation. [@6] They are charged with cultivating cannabis and with the unauthorised
-purchase, possession, distribution and sale of narcotics. [@2] Each of the three
-is also charged separately with unauthorised possession of weapons. [@2]
+municipality. [@3,5,6,7] All three were in pre-trial detention when the indictment was
+filed. [@1,7] Prosecutors requested pre-trial detention for the other two suspects, MA and BA, at the end of October 2026. [@6] FN surrendered to Kosovo police on 28 March 2026, after which the Prizren prosecution sought his detention on suspicion of producing and distributing narcotics and illegal weapons possession. [@6] One of the three, identified as FN, was not available to law enforcement during the investigation. [@6] They are charged with cultivating cannabis and with the unauthorised
+purchase, possession, distribution and sale of narcotics. [@2,7] Each of the three
+is also charged separately with unauthorised possession of weapons. [@2,7]
 
 According to the indictment, from an unspecified date until 16 September 2025
 they cultivated cannabis on two plots in a mountainous area of Maqitevë, using a
-reservoir and drip irrigation. [@2] Officers found 512 kilograms of marijuana in
-a stable during checks on 16 September 2025. [@1,5,6] Kosovo police estimated the market value of the marijuana at about 750,000 euros at the time of the seizure. [@5,6] Prosecutors said the marijuana
-was being dried and prepared for distribution and sale. [@3] Samples examined by
+reservoir and drip irrigation. [@2,7] Officers found 512 kilograms of marijuana in
+a stable during checks on 16 September 2025. [@1,5,6,7] Kosovo police estimated the market value of the marijuana at about 750,000 euros at the time of the seizure. [@5,6] Prosecutors said the marijuana
+was being dried and prepared for distribution and sale. [@3,7] Samples examined by
 the Kosovo Agency for Forensics tested positive for cannabis containing THC.
 [@4]
 
 During the searches, an anti-tank rocket, a hand mortar, a hunting rifle, a
-semi-automatic rifle and ammunition were also seized. [@1,5] The prosecutor asked
-the court to find the three guilty and sentence them under the law. [@2]
+semi-automatic rifle and ammunition were also seized. [@1,5,7] The prosecutor asked
+the court to find the three guilty and sentence them under the law. [@2,7]
