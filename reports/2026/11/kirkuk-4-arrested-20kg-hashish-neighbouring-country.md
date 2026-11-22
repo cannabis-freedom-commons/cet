@@ -62,22 +62,17 @@ sources:
     publisher: Kurdistan24
     date: 2026-08-13
     language: ar
-open_questions:
-  - The articles give no separate date for the operation; 3 November 2026 is the publication date of both outlets and is used as the incident date.
-  - The neighbouring country where the arrests and seizure occurred was not named.
-  - The names, nationalities and legal status of the four arrested people, and any charges or court outcome, were not published.
-  - Both outlets reproduce the same narcotics-directorate statement, with no independent weighing or custody record published.
-  - A similar 20 kg seizure in a neighbouring country by the same Kirkuk directorate was reported on 13 August 2026, and a 20 kg seizure was mentioned in 2 November 2026 nine-ton coverage; the similar weight and unnamed country leave a possible overlap, but the 3 November accounts' four arrests and luring method distinguish this event.
-  - 'Left out, as its quotation was not found in السومرية: The directorate announced the intelligence operation on Tuesday as the work of Kirkuk narcotics detachments in a neighbouring state.'
-  - 'Left out, as its quotation was not found in السومرية: It said intelligence efforts to pursue trafficking networks and dismantle them continue inside Iraq and outside it.'
-  - The article gives only “Şu gün, 18:15” for its timestamp; 3 November 2026 from the page current date and matching outlets is used as the incident date, with no separate operation date given.
-  - The neighbouring country where the infiltration, arrests and seizure occurred was not named.
-  - The names, nationalities, charges and any court outcome for the four arrested people were not published.
-  - The submitted Rudaw page calls the seized material marijuana and attributes the statement to the interior ministry, while the Shafaq and Iraqi News Agency accounts of the same 13 August announcement call it hashish and attribute it to the Kirkuk directorate; the report keeps hashish and records the discrepancy.
-  - The Rudaw page gives no separate date for the operation and no arrests; 13 August 2026 is its publication date and the date of the ministry statement.
-  - The page does not name the neighbouring country or the suspects, charges or court outcome, and gives no independent weighing record.
-  - 'Left out, as its quotation was not found in شفق نيوز: In total, the force arrested all four members of the network and seized 20 kilograms of hashish.'
-  - Left out arrested, as its quotation was not found in شفق نيوز.
+  - title: International Drug Trafficking Ring Dismantled in Kirkuk, 20kg of Cannabis Seized
+    url: https://www.pukmedia.com/EN/Details/82383
+    publisher: PUKmedia
+    date: 2026-08-13
+    language: en
+media:
+  - kind: photo
+    url: https://www.pukmedia.com/EN/Details/82383
+    media_url: https://images.pukmedia.com/root/EN/81382026_71382026_71382026_13102647.jpg
+    publisher: PUKmedia
+    caption: The Directorate of Narcotics Affairs in Kirkuk seized 20 kilograms of cannabis.
 ---
 
 Kirkuk's narcotics affairs directorate, which belongs to the General Directorate
@@ -97,4 +92,4 @@ borders. [@1] It credited precise intelligence work and joint coordination,
 stressing that pursuing traffickers does not stop at the limits of geography and
 that the law reaches them wherever their activity extends. [@1]
 
-The Iraqi interior ministry said the operation was carried out in coordination with authorities in a neighbouring country. [@5] The ministry said the bust foiled the network's plans to move the substances and expand its activity. [@5] Kurdistan24 reported that the statement described intensive intelligence follow-up and high-level regional security coordination behind the operation. [@6]
+The Iraqi interior ministry said the operation was carried out in coordination with authorities in a neighbouring country. [@5,7] The ministry said the bust foiled the network's plans to move the substances and expand its activity. [@5,7] Kurdistan24 reported that the statement described intensive intelligence follow-up and high-level regional security coordination behind the operation. [@6]
