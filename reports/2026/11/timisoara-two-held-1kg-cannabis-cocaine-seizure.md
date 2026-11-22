@@ -45,6 +45,21 @@ media:
     media_url: https://www.paginadetimis.ro/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-09.03.38.jpeg
     publisher: Pagina de Timiș
     caption: 'Lead image of the Timișoara cocaine and cannabis dealer placed under preventive arrest, captioned ''Dealer de cocaină și canabis din Timișoara, arestat preventiv''. Photo: Pagina de Timiș'
+  - kind: video
+    url: https://stiridetimisoara.ro/trafic-droguri-timisoara-diicot-27-milioane-lei_85323.html
+    media_url: https://stiridetimisoara.ro/wp-content/uploads/2026/11/masina.mp4?_=1
+    publisher: Stiri de Timisoara
+    caption: Video published with the report showing the luxury car placed under seizure in the Timișoara drug case.
+  - kind: photo
+    url: https://stiridetimisoara.ro/trafic-droguri-timisoara-diicot-27-milioane-lei_85323.html
+    media_url: https://stiridetimisoara.ro/wp-content/uploads/2026/11/droguri-e1795158078964.jpeg
+    publisher: Stiri de Timisoara
+    caption: 'Lead photo of the drugs seized in the Timișoara DIICOT operation. Photo: Stiri de Timisoara'
+  - kind: photo
+    url: https://stiridetimisoara.ro/trafic-droguri-timisoara-diicot-27-milioane-lei_85323.html
+    media_url: https://stiridetimisoara.ro/wp-content/uploads/2026/11/droguri1.jpeg
+    publisher: Stiri de Timisoara
+    caption: 'Second photo of the drugs found during the Timișoara searches. Photo: Stiri de Timisoara'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0d16bb386f58bb96525f06b403993211
@@ -79,14 +94,11 @@ sources:
     publisher: Pagina de Timiș
     date: 2026-11-20
     language: ro
-open_questions:
-    - The cannabis and cocaine weights were reported as approximate, with no laboratory confirmation stated.
-    - The 2,745,000 lei is the alleged combined proceeds from cocaine and cannabis sales; the cannabis share was not separated, and the 800 g of cocaine is excluded from cannabis figures.
-    - Only the suspects' ages of 28 and 31 were published, with no names, plea or later court outcome beyond the 19 November preventive measures reported.
-    - The outlets reproduce the same DIICOT and IPJ Timiș account of one operation rather than independent investigations.
-    - A linked mention of 50 kg of cocaine and 2.5 kg of cannabis in a car in Bucharest is a separate event left out here.
-    - Accounts alternately give the alleged proceeds as about 2,745,000 lei and about 2.8 million lei.
-    - Pagina de Timiș cites its own information that the 28-year-old earned about 100,000 euro a month and more than one million euro in a year, much higher than the roughly 2,745,000 lei attributed to prosecutors.
+  - title: Canabis și cocaină de milioane, la Timișoara. Sechestru pe o mașină de lux și două apartamente
+    url: https://stiridetimisoara.ro/trafic-droguri-timisoara-diicot-27-milioane-lei_85323.html
+    publisher: Stiri de Timisoara
+    date: 2026-11-20
+    language: ro
 ---
 
 Officers of the Timișoara Organised Crime Combat Brigade with prosecutors of the
@@ -94,20 +106,20 @@ DIICOT Timișoara Territorial Service investigated two people aged 28 and 31 for
 risk and high-risk drug trafficking, with money laundering in one case. [@2] About a decade earlier he had been caught with a small quantity of drugs for personal use, and he came under investigation in 2025. [@6] The 28-year-old suspect was from Ghiroda. [@6]
 DIICOT prosecutors ordered the detention of both suspects on 18 November 2026.
 [@2] On 19 November the Timiș Tribunal ordered 30-day preventive arrest for the
-28-year-old and 30-day house arrest for the 31-year-old. [@1,4,5,6]
+28-year-old and 30-day house arrest for the 31-year-old. [@1,4,5,6,7]
 
 The two men allegedly sold cocaine and cannabis in Timișoara between 2023 and
 June 2026. [@1,4,5,6] The 28-year-old allegedly repeatedly procured, held and sold
 cocaine and cannabis for 400 to 1,000 lei. [@1,4] Deals took place at his home or
-at buyers' addresses and payment was made mainly by online transfer. [@1,4] He allegedly ran the sales from the home where he grew up, coordinating others through cameras he watched on his phone. [@6] In the
+at buyers' addresses and payment was made mainly by online transfer. [@1,4,7] He allegedly ran the sales from the home where he grew up, coordinating others through cameras he watched on his phone. [@6] In the
 period under investigation he allegedly received about 2,745,000 lei. [@1] When
 he temporarily left the country in March 2026 the 31-year-old allegedly took
-over selling cannabis and cocaine. [@2,4] Four home searches on 18 November found
+over selling cannabis and cocaine. [@2,4,7] Four home searches on 18 November found
 about 1 kg of cannabis and 800 g of cocaine ready for sale, plus grinders, items
 with substance traces, 77,000 lei, 1,000 euro, jewellery, a luxury watch and
-other evidence. [@1,4,5,6] Investigators seized two apartments and a bank account of
+other evidence. [@1,4,5,6,7] Investigators seized two apartments and a bank account of
 the 28-year-old and a luxury car valued at about 170,000 euro suspected to have
-been bought with drug money. [@3,4,5,6] Police also said more than 55,000 euros in bank accounts and jewellery worth over 10,000 euros were frozen. [@6]
+been bought with drug money. [@3,4,5,6,7] Police also said more than 55,000 euros in bank accounts and jewellery worth over 10,000 euros were frozen. [@6]
 
 The operation was supported by gendarmes of the Timișoara Mobile Gendarmerie
 Group. [@2]
