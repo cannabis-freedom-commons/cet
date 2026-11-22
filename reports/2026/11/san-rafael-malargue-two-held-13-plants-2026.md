@@ -61,6 +61,11 @@ sources:
     publisher: Ser y Hacer Malargüe
     date: 2026-11-20
     language: es
+  - title: Dos operativos en el sur mendocino dejaron detenidos y drogas secuestradas
+    url: https://mendozatoday.com.ar/policiales/dos-operativos-en-el-sur-mendocino-dejaron-detenidos-y-drogas-secuestradas/
+    publisher: Diario Mendoza Today
+    date: 2026-11-21
+    language: es
 open_questions:
   - No weight was published for the marijuana seized in either house, so the cannabis data records only the 13 plants.
   - The cocaine seized in the two raids is not counted in the cannabis figures, and no weight was published for it either.
@@ -72,27 +77,26 @@ open_questions:
 ---
 
 Two police operations against narcomenudeo, the retail sale of drugs, were
-carried out in San Rafael and Malargüe, in southern Mendoza province. [@1]
-Officers arrested two men, aged 31 and 23. [@1] The San Rafael raid took place
+carried out in San Rafael and Malargüe, in southern Mendoza province. [@1,5]
+Officers arrested two men, aged 31 and 23. [@1,5] The San Rafael raid took place
 on Wednesday 18 November 2026 at a house near the Portezuelo and Maza streets.
-[@1]
+[@1,5]
 
 Officers of the anti-narcotics unit seized compacted cocaine, a paper wrapper
 with cocaine residue, marijuana, mobile phones and 13 cannabis plants of
-different sizes. [@1] A 31-year-old man was identified as the alleged person
+different sizes. [@1,5] A 31-year-old man was identified as the alleged person
 responsible and was held at Comisaría 38 on the orders of the federal
-prosecutor's office. [@1] The Malargüe raid took place late the same day at a
-house near Avenida Roca and Bardas Blancas. [@4]
+prosecutor's office. [@1,5] The Malargüe raid took place late the same day at a
+house near Avenida Roca and Bardas Blancas. [@4,5]
 
 There investigators found wrappers with cocaine, marijuana buds and cigarettes,
 two precision scales, mobile phones, cards with cocaine residue and materials
-for packaging drugs. [@4] A 23-year-old tried to escape through an upstairs
+for packaging drugs. [@4,5] A 23-year-old tried to escape through an upstairs
 window and threw items into the street before officers caught him and took him
-to Comisaría 24. [@1] Both raids were run by the Policía de Mendoza's
-Departamento Lucha contra el Narcotráfico Zona Sur. [@3]
+to Comisaría 24. [@1,5] Both raids were run by the Policía de Mendoza's
+Departamento Lucha contra el Narcotráfico Zona Sur. [@3,5]
 
 On Friday 20 November both men were placed at the disposal of the Juzgado
 Federal de San Rafael. [@2] The court ordered the San Rafael detainee to remain
 in custody under house arrest. [@2] The Malargüe detainee was transferred to the
 Unidad de Detención Federal N° 32 in Mendoza city. [@1]
-
