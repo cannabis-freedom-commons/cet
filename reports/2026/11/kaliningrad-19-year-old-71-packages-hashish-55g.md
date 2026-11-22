@@ -69,6 +69,11 @@ sources:
     publisher: KaliningradToday
     date: 2026-11-20
     language: ru
+  - title: В Калининграде полицейские задержали наркосбытчика с крупной партией гашиша
+    url: https://newsroom24.ru/kaliningrad/news/criminal/2026/news_378656/
+    publisher: NewsRoom24
+    date: 2026-11-20
+    language: ru
 open_questions:
     - One account is headlined as a detention in Baltiysk, but its text, like the other reports, places the arrest on Palubnaya Street in Kaliningrad.
     - No laboratory confirmation of the substance was reported; police described the contents as a plant-derived narcotic and the reports call it hashish.
@@ -80,17 +85,17 @@ open_questions:
 ---
 
 Police in Kaliningrad detained a 19-year-old resident of Yantarny, intercepting
-what they described as the sale of a large batch of hashish. [@1] The detention
+what they described as the sale of a large batch of hashish. [@1,6] The detention
 took place on 16 November on Palubnaya Street. [@3,5] During a personal search
-officers seized 71 packages of hashish from the youth. [@1,5]
+officers seized 71 packages of hashish from the youth. [@1,5,6]
 
-The packages had a total weight of 55.21 grams. [@4,5] Police said that quantity
-qualified as a large amount under Russian law. [@3,5] The regional UMVD press
+The packages had a total weight of 55.21 grams. [@4,5,6] Police said that quantity
+qualified as a large amount under Russian law. [@3,5,6] The regional UMVD press
 service said the packages contained a plant-derived narcotic. [@2] Investigators
 established that the youth was keeping the drug for sale over the internet and
-that he had accomplices whom police were identifying. [@1,5]
+that he had accomplices whom police were identifying. [@1,5,6]
 
 A criminal case was opened over the attempted illegal sale of narcotics in a
-large amount by a group of persons. [@3,5] The offence carries a statutory penalty
-of 10 to 20 years in prison. [@1,5] The investigation was continuing after the
-case was opened. [@2] Police were also checking whether the detainee was involved in other episodes. [@5]
+large amount by a group of persons. [@3,5,6] The offence carries a statutory penalty
+of 10 to 20 years in prison. [@1,5,6] The investigation was continuing after the
+case was opened. [@2] Police were also checking whether the detainee was involved in other episodes. [@5,6]
