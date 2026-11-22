@@ -63,26 +63,32 @@ sources:
     publisher: Теплодар.biz.ua
     date: 2026-11-20
     language: uk
+  - title: У Рені чоловіка засудили до 9 років за зберігання понад 3 кг канабісу вдома
+    url: https://times.od.ua/u-reni-cholovika-zasudyly-do-9-rokiv-za-zberigannya-ponad-3-kg-kanabisu-vdoma/
+    publisher: Times.od.UA
+    date: 2026-11-20
+    language: uk
+open_questions:
+    - 'Accounts differ on the item holding drug residue found in the home: the original report calls it a sieve, while this account calls it a jar.'
 ---
 
 The Reni District Court jailed a local resident for nine years for keeping more
-than 3 kg of cannabis at home. [@1] He was sentenced under part 3 of Article 307
+than 3 kg of cannabis at home. [@1,4] He was sentenced under part 3 of Article 307
 of Ukraine's Criminal Code to nine years' imprisonment without confiscation of
-property. [@1] The court also ordered him to repay the state almost 26,000
-hryvnia for the cost of the examinations. [@1]
+property. [@1,4] The court also ordered him to repay the state almost 26,000
+hryvnia for the cost of the examinations. [@1,4]
 
 The investigation began in November 2025 after a report that a parcel smelling
 strongly of cannabis had been brought to a local branch of the Nova Poshta
-courier service. [@2] The court established that he had acquired and stored the
-cannabis between November 2025 and January 2026. [@3] In January police searched
+courier service. [@2,4] The court established that he had acquired and stored the
+cannabis between November 2025 and January 2026. [@3,4] In January police searched
 his home under a court order and found the drug, a sieve with residue,
 electronic scales and a mobile phone. [@1]
 
-A forensic examination confirmed that the seized material was cannabis. [@1] He
+A forensic examination confirmed that the seized material was cannabis. [@1,4] He
 pleaded not guilty, saying the substance was not his, and his defence lawyer
 challenged the legality of the search and the way the evidence was documented.
-[@1] The court found the evidence sufficient to establish guilt. [@1] In setting
+[@1,4] The court found the evidence sufficient to establish guilt. [@1,4] In setting
 the term the court found no mitigating or aggravating factors but noted he was
 registered with a narcologist and was raising two underage children whose mother
-had died. [@1]
-
+had died. [@1,4]
