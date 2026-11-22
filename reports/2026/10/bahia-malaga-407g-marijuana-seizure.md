@@ -63,6 +63,11 @@ sources:
     publisher: Noticias RCN
     date: 2026-10-16
     language: es
+  - title: La Armada interceptó en el Pacífico colombiano una lancha Go-Fast con 6.072 kilos de marihuana rumbo a Costa Rica
+    url: https://www.infobae.com/colombia/2026/10/17/la-armada-intercepto-en-el-pacifico-colombiano-una-lancha-go-fast-con-6072-kilos-de-marihuana-rumbo-a-costa-rica/
+    publisher: Infobae
+    date: 2026-10-17
+    language: es
 open_questions:
   - No separate date for the interception was published; 16 October 2026 is the article publication date used as the incident date.
   - The nearly 15 million dollar valuation covers cocaine and marijuana together and is therefore excluded from cannabis figures.
@@ -74,14 +79,15 @@ open_questions:
   - The same article describes a separate recent Pacific South seizure of 1,620 kg of cocaine and 51 kg of marijuana, left out here as a different event.
   - RCN states that the exact quantities were not specified in the initial report, so the 407 g marijuana figure and the cocaine split remain supported only by the Infobae account.
   - RCN describes the craft only as a clandestine boat or launch in Colombian Pacific waters and does not name Bahía Málaga jurisdiction or a Go Fast type, which remain from the earlier account.
+  - The Infobae account dates the cocaine interception to Thursday 15 October 2026, one day before the 16 October incident date used in this report.
 ---
 
 Pacific naval units intercepted a Go Fast boat, a fast smuggling launch, in
 waters under Bahía Málaga jurisdiction in Valle del Cauca and captured the three
 Colombian men aboard. [@1,2] The three crew members and the seized cargo were
-transferred to the Buenaventura Coast Guard station. [@1,2] The detainees were
+transferred to the Buenaventura Coast Guard station. [@1,2,3] The detainees were
 told their rights, placed at the disposal of the competent authorities, and must
-answer for alleged trafficking, manufacture or possession of narcotics. [@1,2]
+answer for alleged trafficking, manufacture or possession of narcotics. [@1,2,3]
 
 The operation used intelligence coordinated among Colombia's Navy, the National
 Police Anti-Narcotics Directorate and JIATFS, the United States Southern
@@ -95,7 +101,7 @@ more than 1.4 tonnes altogether. [@1]
 
 Authorities put the combined load's illicit value at nearly 15 million dollars
 to transnational crime finances. [@1] Authorities said the seizure prevented the
-circulation of 3.6 million doses of alkaloids. [@1] The Pacific Naval Force said
+circulation of 3.6 million doses of alkaloids. [@1,3] The Pacific Naval Force said
 the offensive seeks to limit use of the sea as a corridor, noting traffickers
 use fast boats from Colombia's coast toward Central America for onward movement.
 [@1] The Navy said it will maintain surveillance and interdiction in that area
