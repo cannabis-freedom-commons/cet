@@ -175,21 +175,28 @@ sources:
     url: https://ktla.com/news/california/62-arrested-282-million-worth-of-weed-seized-in-massive-raid-at-california-warehouses/amp/
     publisher: KTLA
     date: 2026-11-21
+  - title: '“235,000 Pounds At 400 Per Pound Is About 94 Million Not 280 Million”: Doubts Over 282 Million Dollar Chico Marijuana Bust'
+    url: https://www.theunionstar.com/235000-pounds-at-400-per-pound-is-about-94-million-not-280-million-doubts-over-282-million-dollar-chico-marijuana-bust/
+    publisher: The Union Star
+    date: 2026-11-21
+open_questions:
+  - Readers quoted by The Union Star disputed the sheriff’s office’s $282.8 million street-value estimate, calculating about $94 million at $400 a pound, and no independent valuation was published.
+  - No charging decision, court appearance or detention status has been reported for the 62 people arrested.
 ---
 
 Sixty-two people were arrested and booked into the Butte County Jail on 17
-November 2026. [@1,4,9,10,11,12,13,14,15] Several of the arrested people were from the Sacramento area. [@13] Those arrested ranged in age from 19 to 83. [@10,11,12,15] Several of those arrested were from the Sacramento area. [@5] Of the 62 people, 34 were from Yuba City, 14 from Sacramento, six from Chico, three from Live Oak, and one each from Woodland, Hamilton City, Elk Grove, Colusa and Olivehurst. [@10] The raid targeted multiple industrial warehouses on
+November 2026. [@1,4,9,10,11,12,13,14,15,16] Several of the arrested people were from the Sacramento area. [@13] Those arrested ranged in age from 19 to 83. [@10,11,12,15] Several of those arrested were from the Sacramento area. [@5] Of the 62 people, 34 were from Yuba City, 14 from Sacramento, six from Chico, three from Live Oak, and one each from Woodland, Hamilton City, Elk Grove, Colusa and Olivehurst. [@10] The raid targeted multiple industrial warehouses on
 Contractors Lane in Chico, California, under a search warrant obtained by the
 Butte County Sheriff's Office. [@2,3,7,12,13,14] The warrant was served on Tuesday, 17
 November 2026, by BCSO detectives from the Butte Interagency Narcotics Task
 Force, two Bureau of Land Management agents and a detective from the California
-Department of Cannabis Control. [@1,6,7,9,12,15] The investigation began earlier in 2026, when the sheriff’s office’s Special Enforcement Unit started assisting the Bureau of Land Management. [@6,7]
+Department of Cannabis Control. [@1,6,7,9,12,15,16] The investigation began earlier in 2026, when the sheriff’s office’s Special Enforcement Unit started assisting the Bureau of Land Management. [@6,7,16]
 
 Detectives found 62 people at the warehouses and multiple warehouses containing
 marijuana in various stages of processing. [@1,4,5,6,7,10,13,14] Most were listed as facing charges of cultivating marijuana, several also faced charges of possessing marijuana for sale, and one was additionally charged with smuggling a controlled substance into a jail or prison and with possessing a controlled substance. [@10,11] Two of those arrested, both Chico residents, also faced allegations of possessing marijuana for sale. [@12] Investigators said large
 quantities of marijuana were being processed at the warehouse using hemp
 processing as a cover. [@1,6,8,9,10,11,12,13,14,15] Testing found that the product was marijuana, not
-hemp. [@1,4,6,7,9,11,12,14,15] Detectives said about 235,661 pounds (roughly 106,894 kg) of
+hemp. [@1,4,6,7,9,11,12,14,15,16] Detectives said about 235,661 pounds (roughly 106,894 kg) of
 marijuana were at the warehouses. [@1,4,6,7,9,10,11,12,13,14,15] They spent three days processing evidence
 and removing the marijuana, which detectives estimated had a street value of
 approximately $282,793,200. [@1,4,6,7,9,10,11,12,13,14,15] The sheriff's office said the investigation remained ongoing. [@9,15]
