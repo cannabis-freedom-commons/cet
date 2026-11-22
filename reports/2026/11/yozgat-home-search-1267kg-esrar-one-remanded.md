@@ -65,27 +65,38 @@ sources:
     publisher: Haberport
     date: 2026-11-20
     language: tr
+  - title: Yozgat'ta düzenlenen operasyonda 1 kilo esrar ele geçirildi, 1 kişi tutuklandı.
+    url: https://www.mersinhaber.com/haber-yozgatta-duzenlenen-operasyonda-1-kilo-esrar-ele-gecirildi-1-kisi-tutuklandi/856070
+    publisher: Mersin Haber
+    date: 2026-11-20
+    language: tr
 open_questions:
   - No date for the search, detention or remand was published; 20 November 2026 is the publication date of all three accounts and stands in for the incident date.
   - The material is described only as esrar, with no laboratory confirmation and no statement whether it was herbal cannabis or resin.
   - No value estimate for the 1 kilogram 267 grams was published.
   - Only the initials L.K. were released, with no age, plea, indictment or trial date reported.
   - The three accounts reproduce the same Yozgat police statement, the Haberler.com text crediting the AA news agency, so they are not independent reporting.
+media:
+  - kind: photo
+    url: https://www.mersinhaber.com/haber-yozgatta-duzenlenen-operasyonda-1-kilo-esrar-ele-gecirildi-1-kisi-tutuklandi/856070
+    media_url: https://www.mersinhaber.com/cropp/1200x675/Depo/haber/856070/org/856070.webp
+    publisher: Mersin Haber
+    caption: 'Photo published with the Mersin Haber report, captioned as the 1 kg 267 g of esrar seized in the Yozgat operation and the suspect L.K. remanded. Photo: Mersin Haber / IHA'
 ---
 
 Yozgat provincial police's anti-narcotics branch carried out an operation in the
-city centre as part of its work against drug sellers. [@2,4,5] Police said they had
+city centre as part of its work against drug sellers. [@2,4,5,6] Police said they had
 established that a man identified in reports only as L.K. kept drugs at his
-home. [@1,4,5] Officers carried out a judicial search at his home in the city
-centre. [@3] Narcotics teams said they had reached the result through careful
+home. [@1,4,5,6] Officers carried out a judicial search at his home in the city
+centre. [@3,6] Narcotics teams said they had reached the result through careful
 tracking and analysis. [@1]
 
 They seized 1 kilogram 267 grams of esrar, the everyday Turkish term for
-cannabis. [@2,4,5] One suspect was detained in connection with the seizure. [@3,5]
+cannabis. [@2,4,5,6] One suspect was detained in connection with the seizure. [@3,5]
 After processing at the police station he was taken to the courthouse. [@2] The
 provincial police directorate said the suspect was sent to the judicial
 authorities for manufacturing and trading narcotic or stimulant drugs, an
 offence under article 188 of the Turkish Penal Code. [@3] A judge remanded him
-in detention and he was taken to prison. [@3,4,5]
+in detention and he was taken to prison. [@3,4,5,6]
 
 The Yozgat police directorate said its work against drugs was continuing. [@3]
