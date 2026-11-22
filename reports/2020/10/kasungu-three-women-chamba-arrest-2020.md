@@ -41,6 +41,11 @@ media:
     media_url: https://www.nyasatimes.com/wp-content/uploads/IMG-20201015-WA0023-450x600.jpg
     publisher: Nyasa Times
     caption: 'Two of the three women arrested at Kasungu with bags of cannabis sativa, in a handout photo published with the police account. Photo: Kasungu Police'
+  - kind: photo
+    url: https://malawi24.com/2020/10/15/three-women-arrested-over-chamba-in-kasungu/
+    media_url: https://malawi24.com/wp-content/uploads/2020/10/Women-chamba.webp
+    publisher: Malawi24
+    caption: The women arrested in Kasungu over bags of chamba (cannabis sativa), published with the Malawi24 account of the arrests.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2740c687f79dc87c4ce6cbee4cbccaf3
@@ -50,30 +55,33 @@ sources:
     url: https://www.nyasatimes.com/3-kasungu-women-arrested-over-chamba/
     publisher: Nyasa Times
     date: 2020-10-15
+  - title: Three women arrested over Chamba in Kasungu
+    url: https://malawi24.com/2020/10/15/three-women-arrested-over-chamba-in-kasungu/
+    publisher: Malawi24
+    date: 2020-10-15
+    language: en
 open_questions:
-  - The article gives the day only as a Tuesday; 13 October 2020 is used, the Tuesday before the 15 October publication date.
-  - No weight, value or plant count for the three bags was published.
-  - The charges are described only as being found in possession of cannabis sativa; no plea, court date or outcome is reported.
-  - The names and ages come from the police spokesperson; the article gives no further identification or addresses beyond the home villages.
-  - Only one account of the arrests could be opened; no independent outlet report or police statement was found in a search.
-  - The stop is spelled Chasazima in the spokesperson's quote and Chisazima in the following sentence; this report uses Chasazima.
-  - The women were carrying loose cannabis by vehicle, and the article does not say whether police alleged it was for sale or personal use.
+    - No weight, value or plant count for the three bags was published.
+    - The charges are described only as being found in possession of cannabis sativa; no plea, court date or outcome is reported.
+    - The women are identified only by name, age and home village, with no further address or identification given.
+    - Both accounts report the same version of the arrests and may derive from a single police statement rather than independent reporting.
+    - The stop is spelled Chasazima in one account and Chisazima in the other; this report uses Chasazima.
+    - The women were carrying loose cannabis by vehicle, and the accounts do not say whether police alleged it was for sale or personal use.
 ---
 
 Police in Kasungu arrested three women at two locations on the same day, a
 Tuesday, after each was allegedly found travelling with bags of cannabis sativa,
-known in Malawi as chamba or Indian hemp. [@1] Kasungu police spokesperson Harry
+known in Malawi as chamba or Indian hemp. [@1,2] Kasungu police spokesperson Harry
 Namwaza said detectives stopped the first two around midnight at Chasazima after
 a tip that they had boarded a vehicle from the direction of Mzimba towards
-Kasungu. [@1] He identified the two as 45-year-old Ireen Banda and Mercy
-Nyirenda, both from Mazwoka village in Mzimba district. [@1] At a police
+Kasungu. [@1,2] He identified the two as 45-year-old Ireen Banda and Mercy
+Nyirenda, both from Mazwoka village in Mzimba district. [@1,2] Mercy Nyirenda was 38 years old. [@2] At a police
 roadblock the officers searched the vehicle and found two bags full of loose
-cannabis sativa, and arrested both women on the spot. [@1]
+cannabis sativa, and arrested both women on the spot. [@1,2]
 
 The third, 35-year-old Jennifer Zulu of Zulu village, Traditional Authority
 Mkanda in Mchinji district, was arrested at the Kasungu Prison junction with a
-bag full of chamba. [@1] Namwaza said she was picked up after a member of the
+bag full of chamba. [@1,2] Namwaza said she was picked up after a member of the
 public told police she was in a lorry coming from the Chatoloma direction
-towards Kasungu. [@1] Police said the three would appear in court soon on
-charges of being found in possession of cannabis sativa. [@1]
-
+towards Kasungu. [@1,2] Police said the three would appear in court soon on
+charges of being found in possession of cannabis sativa. [@1,2]
