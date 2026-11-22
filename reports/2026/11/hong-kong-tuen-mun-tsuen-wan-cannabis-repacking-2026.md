@@ -74,6 +74,26 @@ media:
     media_url: https://dw-media.dotdotnews.com/dams/share/image/202611/20/6b0045cae4b0f8c5b41677bf_v1.jpg
     publisher: 點新聞 dotdotnews
     caption: 'The suspected cannabis buds, cannabis oil, cannabis-infused candies and vape capsules seized in the two raids. Photo: 林兆崙 / 大公文匯全媒體'
+  - kind: photo
+    url: https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20261120/s00001/1795185344707/%E6%B5%B7%E9%97%9C%E6%AA%A2160%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E5%8F%8A%E7%9B%B8%E9%97%9C%E8%A3%BD%E5%93%81-3%E4%BA%BA%E8%A2%AB%E6%8D%95%E6%A1%88%E4%BB%B6%E6%98%8E%E6%8F%90%E5%A0%82
+    media_url: https://fs.mingpao.com/ins/20261120/s00001/bdcc66f704f1145a7b2d30ccf9c732bf.jpg
+    publisher: 明報新聞網 Ming Pao
+    caption: 'One of the people arrested in the Tuen Mun and Tsuen Wan cannabis raids, published with the Ming Pao article. Photo: Ming Pao'
+  - kind: photo
+    url: https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20261120/s00001/1795185344707/%E6%B5%B7%E9%97%9C%E6%AA%A2160%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E5%8F%8A%E7%9B%B8%E9%97%9C%E8%A3%BD%E5%93%81-3%E4%BA%BA%E8%A2%AB%E6%8D%95%E6%A1%88%E4%BB%B6%E6%98%8E%E6%8F%90%E5%A0%82
+    media_url: https://fs.mingpao.com/ins/20261120/s00001/bdcc327cdf5682048f221653a02b31ad.jpg
+    publisher: 明報新聞網 Ming Pao
+    caption: 'Another of the people arrested in the Tuen Mun and Tsuen Wan cannabis raids, published with the Ming Pao article. Photo: Ming Pao'
+  - kind: photo
+    url: https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20261120/s00001/1795185344707/%E6%B5%B7%E9%97%9C%E6%AA%A2160%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E5%8F%8A%E7%9B%B8%E9%97%9C%E8%A3%BD%E5%93%81-3%E4%BA%BA%E8%A2%AB%E6%8D%95%E6%A1%88%E4%BB%B6%E6%98%8E%E6%8F%90%E5%A0%82
+    media_url: https://fs.mingpao.com/ins/20261120/s00001/bdcc42f7d830c40edcebf031e2af3080.jpg
+    publisher: 明報新聞網 Ming Pao
+    caption: 'Cannabis and related products seized in the Tuen Mun and Tsuen Wan raids, published with the Ming Pao article. Photo: Ming Pao'
+  - kind: photo
+    url: https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20261120/s00001/1795185344707/%E6%B5%B7%E9%97%9C%E6%AA%A2160%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E5%8F%8A%E7%9B%B8%E9%97%9C%E8%A3%BD%E5%93%81-3%E4%BA%BA%E8%A2%AB%E6%8D%95%E6%A1%88%E4%BB%B6%E6%98%8E%E6%8F%90%E5%A0%82
+    media_url: https://fs.mingpao.com/ins/20261120/s00001/bdcc5471c129ded0a825b018643a1bac.jpg
+    publisher: 明報新聞網 Ming Pao
+    caption: 'Cannabis and related products seized in the two raids, published with the Ming Pao article. Photo: Ming Pao'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 5622c457874abe4b457690dfe92b1981
@@ -127,25 +147,30 @@ sources:
     publisher: Hong Kong Government Information Services
     date: 2026-11-20
     language: zh
+  - title: 海關檢160萬元大麻及相關製品 3人被捕案件明提堂
+    url: https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20261120/s00001/1795185344707/%E6%B5%B7%E9%97%9C%E6%AA%A2160%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E5%8F%8A%E7%9B%B8%E9%97%9C%E8%A3%BD%E5%93%81-3%E4%BA%BA%E8%A2%AB%E6%8D%95%E6%A1%88%E4%BB%B6%E6%98%8E%E6%8F%90%E5%A0%82
+    publisher: 明報新聞網 Ming Pao
+    date: 2026-11-20
+    language: zh
 ---
 
 Hong Kong Customs shut down a suspected drug repacking distribution centre in
 Tuen Mun and a suspected drug manufacturing centre in Tsuen Wan on 19 November
-2026. [@2,4,6,7,9,10] Officers seized about 3.7 kilograms of suspected cannabis buds, 3.6
+2026. [@2,4,6,7,9,10,11] Officers seized about 3.7 kilograms of suspected cannabis buds, 3.6
 kilograms of suspected cannabis oil, about 24 kilograms of cannabis-infused
-candies and 1,148 suspected cannabis oil vape capsules. [@1,4,5,6,8,9,10] Customs put the
-total estimated market value of the haul at about HK$1.6 million. [@2,4,5,6,8,9,10] Three
-people were arrested. [@2,4,5,6,9,10]
+candies and 1,148 suspected cannabis oil vape capsules. [@1,4,5,6,8,9,10,11] Customs put the
+total estimated market value of the haul at about HK$1.6 million. [@2,4,5,6,8,9,10,11] Three
+people were arrested. [@2,4,5,6,9,10,11]
 
 In a residential flat in Tuen Mun, officers found the 3.7 kilograms of buds, 332
 of the vape capsules, about 180 grams of cannabis-infused candies and drug
-packaging paraphernalia. [@1,5,6,8,9,10] Customs said it identified two target men through intelligence analysis, and that the 28-year-old woman was accompanying the 23-year-old man when officers took him to the Tuen Mun flat for the search. [@4,9] The 23-year-old man and the 28-year-old woman arrested in Tuen Mun were a couple. [@8,9] In a hotel room in Tsuen Wan they found the 3.6
+packaging paraphernalia. [@1,5,6,8,9,10,11] Customs said it identified two target men through intelligence analysis, and that the 28-year-old woman was accompanying the 23-year-old man when officers took him to the Tuen Mun flat for the search. [@4,9] The 23-year-old man and the 28-year-old woman arrested in Tuen Mun were a couple. [@8,9] In a hotel room in Tsuen Wan they found the 3.6
 kilograms of cannabis oil, the remaining 816 vape capsules, about 24 kilograms
-of candies and packaging and manufacturing equipment. [@1,3,5,6,8,9,10] The manufacturing and packaging equipment seized included syringes and induction cookers, alongside oils in different flavours. [@7] Customs said the gang mixed in differently flavoured oils to lower young people's guard, and that the candies looked like ordinary sweets and could easily be eaten by young children by mistake. [@3] Customs said the gang chose a hotel room with inconvenient transport and little foot traffic, did part of the work there, then moved the semi-finished products to the flat for packing, storage and distribution. [@3,6]
+of candies and packaging and manufacturing equipment. [@1,3,5,6,8,9,10,11] The manufacturing and packaging equipment seized included syringes and induction cookers, alongside oils in different flavours. [@7] Customs said the gang mixed in differently flavoured oils to lower young people's guard, and that the candies looked like ordinary sweets and could easily be eaten by young children by mistake. [@3] Customs said the gang chose a hotel room with inconvenient transport and little foot traffic, did part of the work there, then moved the semi-finished products to the flat for packing, storage and distribution. [@3,6]
 
 A 23-year-old man and a 28-year-old woman were charged with two counts each of
-trafficking in a dangerous drug. [@2,4,5,6,8,9,10] Customs said the 23-year-old man arrested in the Tuen Mun flat was unemployed and the 28-year-old woman a cleaner. [@3,9] A 33-year-old man was charged with two
+trafficking in a dangerous drug. [@2,4,5,6,8,9,10,11] Customs said the 23-year-old man arrested in the Tuen Mun flat was unemployed and the 28-year-old woman a cleaner. [@3,9] A 33-year-old man was charged with two
 counts of trafficking in a dangerous drug and one count of manufacture of a
-dangerous drug. [@2,4,5,6,7,9,10] The two arrested men admitted receiving HK$20,000 a month as payment for trafficking, Customs said. [@3,6,9] The 33-year-old man, who rented the hotel room, said he was a construction worker. [@3] The case was listed for Shatin Magistrates' Courts on 21
-November 2026. [@1,4,5,6,8,9,10] Trafficking in a dangerous drug carries a maximum penalty of
+dangerous drug. [@2,4,5,6,7,9,10,11] The two arrested men admitted receiving HK$20,000 a month as payment for trafficking, Customs said. [@3,6,9] The 33-year-old man, who rented the hotel room, said he was a construction worker. [@3] The case was listed for Shatin Magistrates' Courts on 21
+November 2026. [@1,4,5,6,8,9,10,11] Trafficking in a dangerous drug carries a maximum penalty of
 a HK$5 million fine and life imprisonment. [@1,5,9,10]
