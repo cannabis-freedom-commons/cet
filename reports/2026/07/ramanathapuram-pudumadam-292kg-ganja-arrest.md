@@ -50,28 +50,29 @@ sources:
     url: https://www.dailymirror.lk/breaking-news/Police-seize-292-kg-of-ganja-headed-for-Sri-Lanka-arrest-three/108-347189
     publisher: Daily Mirror
     date: 2026-08-02
+  - title: 292kg ganja seized near Ramnad coast, 3 held
+    url: https://timesofindia.indiatimes.com/city/madurai/292kg-ganja-seized-near-ramnad-coast-3-held/articleshow/132774139.cms
+    publisher: The Times of India
+    date: 2026-07-31
+    language: en
 open_questions:
-  - The article gives no separate incident date; 31 July 2026 is its publication date and the check is described only as the early hours of Friday.
-  - Police gave the seizure value only as several crore rupees, so no exact value is recorded.
-  - The Rs 1 lakh per-kilogram price is an officer's account of the Sri Lankan street price, not a valuation of this seizure.
-  - The reported 7,660 kg seized since January, including heroin and methamphetamine, covers a different period and mixed narcotics and is excluded from this event's figures.
-  - No charges or court outcome were reported.
-  - No second account of this seizure could be opened.
-  - The Daily Mirror copy counts 146 parcels of 2 kg each, while DT Next counts 140 parcels for the same 292 kg; the existing 292 kg total and 140 parcels are retained.
-  - No charges, custody decision or court outcome is reported in this account either.
-  - Left out arrested, as no supporting quotation was given.
-  - Left out kg seized, as no supporting quotation was given.
+    - No separate incident date is given; 31 July 2026 is the publication date and the seizure is described only as occurring in the early hours of Friday, with surveillance reported at about 3.15am.
+    - Police gave the seizure value only as several crore rupees, so no exact value is recorded.
+    - The Rs 1 lakh per-kilogram price is an officer's account of the Sri Lankan street price, not a valuation of this seizure.
+    - The reported 7,660 kg seized since January, including heroin and methamphetamine, covers a different period and mixed narcotics and is excluded from this event's figures.
+    - No charges, custody decision or court outcome was reported; police said further investigation was under way.
+    - 'The parcel count differs: DT Next counts 140 parcels, while the Daily Mirror and the Times of India count 146 for the same 292 kg; the 292 kg total and the existing 140-parcel count are retained.'
 ---
 
 Tamil Nadu Q Branch police arrested three men during a vehicle check near
-Pudumadam in Ramanathapuram district in the early hours of Friday. [@1,2] The
+Pudumadam in Ramanathapuram district in the early hours of Friday. [@1,2,3] The
 arrested men were Thangaraj, Sekar and Senthilvelan, all from Thoothukudi
 district. [@1,2] Acting on a tip-off, police intercepted a van heading towards the
-Pudumadam coast near Uchipuli. [@1]
+Pudumadam coast near Uchipuli. [@1] The surveillance team was near the coast at about 3.15am when it stopped the vehicle. [@3]
 
 Officers found 140 parcels of ganja, cannabis, weighing 292 kg concealed beneath
 sacks of potatoes and other vegetables in the van. [@1] Police said the 292 kg
-consignment was allegedly meant to be smuggled to Sri Lanka. [@1,2] Preliminary
+consignment was allegedly meant to be smuggled to Sri Lanka. [@1,2,3] Preliminary
 investigation found the gang had sourced the ganja from Kerala and brought it to
 Ramanathapuram for onward smuggling to Sri Lanka by fibre boats in the early
 hours. [@1] Police estimated the seized contraband to be worth several crore
@@ -87,4 +88,4 @@ shifted to boats within minutes of reaching the coast. [@1] The officer said the
 Sri Lankan receivers would send a Sri Lankan Rs 50 note serial number over
 WhatsApp and verify it at sea before taking delivery of the consignment. [@1]
 
-The Q Branch police handed over the 292 kg of ganja and the three arrested persons to the Ramanathapuram Anti-Narcotics Intelligence Unit. [@2] During further inquiry, it was revealed that they had procured the ganja from a gang in Madurai and then loaded vegetables from the Paravai market. [@2] Based on a tip-off, a team led by Q Branch Inspector Jeevamani Dharmaraj, with head constables Rajendran, Senthilkumar, Raju and Raja, was conducting surveillance early Friday morning. [@2]
+The Q Branch police handed over the 292 kg of ganja and the three arrested persons to the Ramanathapuram Anti-Narcotics Intelligence Unit. [@2] During further inquiry, it was revealed that they had procured the ganja from a gang in Madurai and then loaded vegetables from the Paravai market. [@2,3] Based on a tip-off, a team led by Q Branch Inspector Jeevamani Dharmaraj, with head constables Rajendran, Senthilkumar, Raju and Raja, was conducting surveillance early Friday morning. [@2]
