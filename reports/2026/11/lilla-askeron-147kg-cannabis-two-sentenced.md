@@ -58,6 +58,11 @@ media:
     media_url: https://nyhetersto.se/wp-content/uploads/2026/11/20261106_15.jpg
     publisher: NYHETERsto
     caption: 'Cannabis plants found in the outbuilding grow on the property. Photo: Police preliminary investigation'
+  - kind: photo
+    url: https://www.svt.se/nyheter/lokalt/vast/stort-cannabisbeslag-mitt-i-skargardsidyllen-odlade-i-friggebod
+    media_url: https://www.svtstatic.se/image-news/992/1:1/0.5/0.5/a9cc6b96f0f37cd8f235577ad82dd53ffef105a79625091ba153392c1aaf02f2
+    publisher: SVT Nyheter
+    caption: 'The outbuilding grow of 16 cannabis plants and vacuum-packed cannabis in the adjacent cottage on Lilla Askerön. Photo: Police preliminary investigation'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 33960372dcf3895a6964eb09db527db5
@@ -78,18 +83,17 @@ sources:
     publisher: NYHETERsto
     date: 2026-11-06
     language: sv
-open_questions:
-  - The exact calendar day of the late-May raid was not stated; 19 November 2026 is the publication and sentencing date used for the incident date.
-  - The sentencing court was not named in the conviction report; the prosecution was at Uddevalla District Court.
-  - The 650 grams and 12.7 grams attributed to the tenant's own grow are not counted in the 147.5-kilogram total and are described without adding to the seized weight.
-  - The street value of more than ten million kronor is a police estimate.
-  - No forensic laboratory confirmation for the cannabis was reported.
+  - title: Stort cannabisbeslag mitt i skärgårdsidyllen – odlade i friggebod
+    url: https://www.svt.se/nyheter/lokalt/vast/stort-cannabisbeslag-mitt-i-skargardsidyllen-odlade-i-friggebod
+    publisher: SVT Nyheter
+    date: 2026-11-20
+    language: sv
 ---
 
 A 25-year-old man has been sentenced to six years in prison for the large
-cannabis haul found on northern Tjörn. [@2] The tenant of the house, a man in
+cannabis haul found on northern Tjörn. [@2,4] The 25-year-old was also ordered deported from Sweden for life. [@4] The tenant of the house, a man in
 his 50s, was sentenced to five months in prison for a separate smaller cannabis
-offence. [@2] The 25-year-old, an Albanian citizen, had come to Lilla Askerön to
+offence. [@2,4] The tenant admitted growing the plants but denied knowing about or handling the rest of the cannabis. [@4] The 25-year-old, an Albanian citizen, had come to Lilla Askerön to
 handle large quantities of drugs. [@1] A police surveillance operation put a
 stop to the operation. [@1]
 
@@ -97,7 +101,7 @@ Police had kept a house on northern Tjörn under surveillance on suspicion that
 large quantities of drugs were stored there. [@2] At about 18:00 officers saw a
 man load a cardboard box into a car and drive away. [@2] Police followed the car
 and stopped it on road 160 near Varekil on Orust. [@2] The box held almost ten
-kilograms of cannabis. [@2] A search of the house found large amounts of
+kilograms of cannabis. [@2,4] A search of the house found large amounts of
 packaged cannabis plus scales, plastic bags, tape and a vacuum machine. [@2] The
 combined seizure in the car and the house was 147.5 kilograms of cannabis. [@2]
 Police estimated the street value at more than ten million kronor. [@2]
@@ -105,8 +109,7 @@ Police estimated the street value at more than ten million kronor. [@2]
 Prosecutors said the 25-year-old acquired the cannabis to sell it. [@2]
 Alternative descriptions covered possession, storage and packaging. [@2]
 Officers also found several cannabis plants growing in an outbuilding on the
-property. [@2] The tenant was not charged over the 147.5-kilogram haul. [@2] Two
+property. [@2,4] The tenant was not charged over the 147.5-kilogram haul. [@2] Two
 men were prosecuted at Uddevalla District Court. [@3] The 25-year-old had been
 in custody since the late-May raid. [@3] The older man was released from
 detention in July pending the case. [@3]
-
