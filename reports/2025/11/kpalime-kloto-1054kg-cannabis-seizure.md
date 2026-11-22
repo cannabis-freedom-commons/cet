@@ -45,26 +45,43 @@ sources:
     publisher: 24 Heure Info
     date: 2025-11-20
     language: fr
-open_questions:
-    - The operation is reported as spanning 17 to 18 November 2025, so 18 November is used as the incident date.
-    - No charges, custody decision or court outcome were reported; the case was still with the competent brigade for investigation.
-    - No monetary value for the cannabis was published.
+  - title: 'Kloto : Plus d’une tonne de cannabis interceptée par la Gendarmerie nationale'
+    url: https://togoactualite.com/kloto-plus-dune-tonne-de-cannabis-interceptee-par-la-gendarmerie-nationale/
+    publisher: Togo Actualité
+    date: 2025-11-21
+    language: fr
+  - title: 'Togo : Une importante quantité de cannabis saisie dans la commune Kloto 1'
+    url: https://lavoixdelanation.tg/index.php/2025/11/21/togo-une-importante-quantite-de-cannabis-saisie-dans-la-commune-kloto-1/
+    publisher: La Voix de la Nation
+    date: 2025-11-21
+    language: fr
+  - title: 'Kloto : 1 124 pains de cannabis saisis par la Gendarmerie'
+    url: https://togomedia24.tg/2025/11/20/kloto-1-124-pains-de-cannabis-saisis-par-la-gendarmerie/
+    publisher: Togomedia24
+    date: 2025-11-20
+    language: fr
+media:
+  - kind: photo
+    url: https://togoactualite.com/kloto-plus-dune-tonne-de-cannabis-interceptee-par-la-gendarmerie-nationale/
+    media_url: https://togoactualite.com/wp-content/uploads/2025/11/saisie_canabis.jpg
+    publisher: Togo Actualité
+    caption: 'The cannabis seized during the Kloto 1 gendarmerie operation. Photo: Togo Actualité'
 ---
 
 Togolese National Gendarmerie officers on patrol in Kpalimé detained a resident
-identified only as E. Komlan. [@1,2] A search of his home found 1,054.6 kg of
-cannabis stored on the premises. [@1,2] The cannabis was carefully packaged in
-1,124 blocks that were intended for illegal export. [@1,2] The suspect and all of
+identified only as E. Komlan. [@1,2,3] A search of his home found 1,054.6 kg of
+cannabis stored on the premises. [@1,2,3] The cannabis was carefully packaged in
+1,124 blocks that were intended for illegal export. [@1,2,4] The suspect and all of
 the seized items were handed to the competent brigade so that the investigation
-could continue. [@1,2]
+could continue. [@1,2,4]
 
 During the same operation, officers also discovered a motorcycle without
-registration papers and a homemade hunting rifle. [@1,2] The presence of the
+registration papers and a homemade hunting rifle. [@1,2,5] The presence of the
 motorcycle and the weapon suggested the possible existence of a structured
 trafficking network. [@1]
 
 The operation took place in the commune of Kloto 1 in Kpalimé and unfolded
-between 17 and 18 November 2025. [@1,2] The National Gendarmerie presented the
+between 17 and 18 November 2025. [@1,2,3] The interventions took place in the localities of Atchavé and Agripatodzi, two axes considered sensitive for cross-border trafficking. [@3] The National Gendarmerie presented the
 haul as a major seizure of narcotics by its officers. [@1] It reminded the
 public of the dangers linked to drug trafficking and urged residents to report
-any suspicious activity to strengthen security in the region. [@1,2]
+any suspicious activity to strengthen security in the region. [@1,2,3]
