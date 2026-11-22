@@ -46,6 +46,11 @@ media:
     media_url: https://www.customs.gov.by/upload/resize_cache/iblock/f4c/1700_1133_173f073bcb5eafcd0170050e0e787c090/vvylw83vxtatbpqewwdyp2pn30s0rqxc.JPG
     publisher: Таможенные органы Республики Беларусь
     caption: Spare wheels and wrapped briquettes from the seizure, in photos published with the customs statement.
+  - kind: photo
+    url: https://belta.by/society/view/gtk-raskryl-podrobnosti-izjjatija-krupnejshej-v-istorii-suverennoj-belarusi-partii-narkotikov-648424-2024/
+    media_url: https://img.belta.by/images/storage/news/with_archive/2024/000022_1721203206_648424_big.jpg
+    publisher: БЕЛТА
+    caption: 'Wrapped drug briquettes bound with yellow tape beside a Belarusian customs emblem, in the customs committee handout published with the seizure announcement. Photo: ГТК'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7c82c33b389177998c2837f707cd000d
@@ -61,6 +66,11 @@ sources:
     publisher: Smartpress.by
     date: 2024-07-17
     language: ru
+  - title: ГТК раскрыл подробности изъятия крупнейшей в истории суверенной Беларуси партии наркотиков
+    url: https://belta.by/society/view/gtk-raskryl-podrobnosti-izjjatija-krupnejshej-v-istorii-suverennoj-belarusi-partii-narkotikov-648424-2024/
+    publisher: Белорусское телеграфное агентство (БЕЛТА)
+    date: 2024-07-17
+    language: ru
 open_questions:
   - The articles give 17 July 2024 as the publication and press-conference date and say the operation took place within a day shortly before; no separate seizure day is stated, so the publication date stands in for the incident date.
   - The combined 1,077 kg total and the almost 706 kg of 4-CMC psychotropic are excluded from cannabis figures under the substance scope because 4-CMC is synthetic; only the separately stated 372 kg of hashish is recorded as cannabis.
@@ -72,16 +82,16 @@ open_questions:
 Within a single day, Belarusian customs officers working jointly with the
 national drug-control service shut down a large trafficking channel moving
 prohibited substances from the European Union to Russia that had been organized
-by an international criminal group. [@1] Brest customs officers detected the
+by an international criminal group. [@1,3] Brest customs officers detected the
 first load during an in-depth inspection of a Polish-driven truck at the
 Kozlovichi checkpoint that was declared as carrying McDonald's products from
-Poland onward into Asia. [@1] Vitebsk customs officers detained a Belarusian man
+Poland onward into Asia. [@1,3] Vitebsk customs officers detained a Belarusian man
 as he tried to take hashish to Russia, after he dumped two similarly packed
 spare wheels holding 146 briquettes into a ravine and tried to flee toward
-Russian territory on learning the Pole had been caught. [@1] In Brest, officers
+Russian territory on learning the Pole had been caught. [@1] Vitebsk customs said the intercepted load weighed 188 kg of hashish. [@3] In Brest, officers
 working with the Brest police drug-control units detained an Armenia-born man as
 he tried to flee with eight similar spare wheels that had been stored in the
-garage of a Ukraine-born associate. [@1] Five people had been detained in the
+garage of a Ukraine-born associate. [@1,3] Five people had been detained in the
 case, the deputy interior minister told a press conference on 17 July. [@2]
 Brest Customs opened criminal cases against a group acting in prior conspiracy
 for unlawful movement of drugs and psychotropics across the EAEU customs border
@@ -103,5 +113,4 @@ The same operation also recovered 680 briquettes with almost 706 kg of the
 psychotropic 4-CMC from the eight wheels handled in Brest, a synthetic drug
 recorded here only as context and not as cannabis. [@1] Customs presented the
 combined 1,077 kg haul as the largest drug and psychotropic seizure in sovereign
-Belarus's history. [@1]
-
+Belarus's history. [@1,3]
