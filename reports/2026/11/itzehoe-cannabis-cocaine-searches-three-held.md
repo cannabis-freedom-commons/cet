@@ -39,6 +39,11 @@ media:
     media_url: https://images.noz-mhn.de/img/51740582/crop/cbase_16_9-w910-h511/2120029683/13700761/dsc-8824.avif
     publisher: shz.de
     caption: 'The search of a shisha shop in the upper Feldschmiede in Itzehoe, part of the operation against the local drug scene. Photo: Bjarne Rost'
+  - kind: photo
+    url: https://www.shz.de/lokales/itzehoe/artikel/itzehoe-manche-zahlen-sind-geheimsache-und-rohre-ein-hindernis-51773749
+    media_url: https://images.noz-mhn.de/img/51775544/crop/cbase_16_9-w910-h511/126931058/654763413/dsc-8820.avif
+    publisher: shz.de
+    caption: 'Customs and police officers during the drug raid in the upper Feldschmiede in Itzehoe. Photo: Bjarne Rost'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3b7319e2d98082e247e0c12bfc2fa4f2
@@ -63,6 +68,11 @@ sources:
     url: https://www.mopo.de/im-norden/schleswig-holstein/mann-fluechtet-bei-a7-kontrolle-dann-macht-die-polizei-brisante-funde/5084812
     publisher: Hamburger Morgenpost
     date: 2026-11-12
+    language: de
+  - title: 'Itzehoe: Manche Zahlen sind Geheimsache und Rohre ein Hindernis'
+    url: https://www.shz.de/lokales/itzehoe/artikel/itzehoe-manche-zahlen-sind-geheimsache-und-rohre-ein-hindernis-51773749
+    publisher: shz.de
+    date: 2026-11-21
     language: de
 ---
 
@@ -97,4 +107,4 @@ investigation department and the Itzehoe prosecutor's office were continuing.
 [@1,4] Local reporting described the operation as a strike against the Itzehoe
 drug scene in which kilos of cannabis and cocaine were secured. [@2] The search
 of a shisha shop in the upper Feldschmiede in Itzehoe was part of the operation.
-[@2]
+[@2,5]
