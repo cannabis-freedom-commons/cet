@@ -55,6 +55,11 @@ media:
     media_url: https://estaticos-cdn.prensaiberica.es/clip/f0b25410-1d12-445e-9fea-3628d671d1cf_16-9-discover-aspect-ratio_default_0_x512y256.webp
     publisher: El Periódico Extremadura
     caption: 'Money and hashish seized from the detainee after the A-66 chase in Cáceres. Photo: Guardia Civil'
+  - kind: photo
+    url: https://puntodeencuentronavalmoral.es/detenido-en-caceres-tras-huir-a-mas-de-200-km-h-y-circular-en-sentido-contrario-por-la-a-66/
+    media_url: https://puntodeencuentronavalmoral.es/wp-content/uploads/2026/11/detenido-caceres-hachis-dinero-reloj-tarjetas-sim.jpg
+    publisher: Punto de Encuentro Navalmoral
+    caption: 'Drugs, money and other effects seized from the driver''s vehicle in Cáceres after the A-66 chase. Photo: OPC Cáceres'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 301ec157687d46cf0b7975dfe44836b4
@@ -85,30 +90,35 @@ sources:
     publisher: La Portada de Extremadura
     date: 2026-11-20
     language: es
+  - title: Detenido en Cáceres tras huir a más de 200 km/h y circular en sentido contrario por la A-66
+    url: https://puntodeencuentronavalmoral.es/detenido-en-caceres-tras-huir-a-mas-de-200-km-h-y-circular-en-sentido-contrario-por-la-a-66/
+    publisher: Punto de Encuentro Navalmoral
+    date: 2026-11-20
+    language: es
 ---
 
 A 29-year-old man was detained in Cáceres, Spain, after a high-speed chase on
 the A-66 motorway in which he drove the wrong way and carried just over a kilo
-of hashish. [@1,3,4,5] The incident took place on 15 November 2026, when a Guardia
-Civil traffic patrol detected his car travelling at 157 km/h near Cáceres. [@1,3,4,5]
+of hashish. [@1,3,4,5,6] The incident took place on 15 November 2026, when a Guardia
+Civil traffic patrol detected his car travelling at 157 km/h near Cáceres. [@1,3,4,5,6]
 When officers signalled him to stop he ignored them and fled, reaching speeds
-above 200 km/h. [@1,3,4] During the pursuit he crossed temporary separators in a
+above 200 km/h. [@1,3,4,6] During the pursuit he crossed temporary separators in a
 roadworks zone with a 40 km/h limit and drove for about 1.5 kilometres against
-the traffic flow. [@1,3,4,5] He passed at least three vehicles whose drivers had to
-make evasive manoeuvres to avoid head-on collisions. [@1,4,5]
+the traffic flow. [@1,3,4,5,6] He passed at least three vehicles whose drivers had to
+make evasive manoeuvres to avoid head-on collisions. [@1,4,5,6]
 
 Inside the car officers found ten pressed packages holding 1,041 grams of
-hashish, along with 445 euros in cash and other effects. [@1,3,4,5] A wide deployment
+hashish, along with 445 euros in cash and other effects. [@1,3,4,5,6] A wide deployment
 of Guardia Civil patrols, directed and coordinated from the 062 control centre,
 was set up because of the seriousness of the incident. [@1,3,4,5] With help from the
 Policía Nacional and the Cáceres local police, a Policía Nacional patrol
-intercepted the car at an entrance to the city and detained the driver. [@1,3,4,5] The
+intercepted the car at an entrance to the city and detained the driver. [@1,3,4,5,6] The
 stop was in the Aldea Moret district of Cáceres, according to Hoy. [@2]
 
 The man was detained on suspicion of reckless driving, serious disobedience,
 resisting officers, driving under the influence of drugs and a public-health
-offence of drug trafficking. [@1,3,4,5] A saliva test to identify drug influence was
-still pending. [@1,3,4,5] The case file, the drugs and the detainee were placed before
-the competent judicial authority in Cáceres. [@1,3,4,5] Hoy reports he was driving
+offence of drug trafficking. [@1,3,4,5,6] A saliva test to identify drug influence was
+still pending. [@1,3,4,5,6] The case file, the drugs and the detainee were placed before
+the competent judicial authority in Cáceres. [@1,3,4,5,6] Hoy reports he was driving
 northbound on the A-66 having come from Andalusia, where he lived in a province
 of the region. [@2]
