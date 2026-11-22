@@ -52,6 +52,11 @@ sources:
     publisher: ElDoce
     date: 2026-11-21
     language: es
+  - title: Un control policial terminó con dos detenidos y el secuestro de marihuana
+    url: https://www.eldiariodecarlospaz.com.ar/sucesos/2026/11/21/un-control-policial-termino-con-dos-detenidos-y-el-secuestro-de-marihuana-264894.html
+    publisher: El Diario de Carlos Paz
+    date: 2026-11-21
+    language: es
 open_questions:
   - No weight was published for the 14 envelopes of marijuana, so no cannabis weight is recorded.
   - The cash is given only as 'more than 139,000 pesos'; the exact sum is not stated.
@@ -62,7 +67,7 @@ open_questions:
 
 Two adult men were detained on Friday in barrio Los Álamos, in the city of
 Córdoba, during a police check that ended with the seizure of drugs, cash and a
-vehicle. [@1] The operation took place on Friday afternoon on avenida Florencio
+vehicle. [@1,3] The operation took place on Friday afternoon on avenida Florencio
 Parravicini at number 3700. [@2] Officers carrying out a preventive patrol
 intercepted the Ford Focus in which the suspects were travelling. [@1] Police
 said the car had left barrio General Savio before uniformed officers decided to
@@ -70,10 +75,9 @@ check it. [@2]
 
 Inspecting the vehicle, officers found a jar holding 14 envelopes of picadura de
 marihuana, shredded marijuana for smoking, two metal grinders and more than
-139,000 pesos in cash. [@1] They also seized a mobile phone and the Ford Focus
+139,000 pesos in cash. [@1,3] They also seized a mobile phone and the Ford Focus
 itself. [@1] Police called on the Fuerza Policial Antinarcotráfico, the FPA
-anti-drug force, to help with the procedure. [@1]
+anti-drug force, to help with the procedure. [@1,3]
 
 The two men, both adults, remained detained and were placed with all the seized
-items at the disposal of the magistrate handling the case. [@1]
-
+items at the disposal of the magistrate handling the case. [@1,3]
