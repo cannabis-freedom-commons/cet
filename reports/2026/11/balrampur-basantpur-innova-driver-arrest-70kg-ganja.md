@@ -76,35 +76,40 @@ sources:
     publisher: Vistaar News
     date: 2026-11-20
     language: hi
-open_questions:
-    - 'Accounts differ on the arrested man''s address: Amar Ujala calls him a native of Jalalpur Mafi in Mirzapur district, Uttar Pradesh, while other accounts, including this one, describe him as a Palghar, Maharashtra resident whose village is Mirzapur.'
-    - The reports do not say where the man was arrested or how long he was held for questioning before the formal arrest on 20 November 2026.
-    - No charge sheet, plea or outcome beyond judicial remand has been reported.
-    - The 3,519,500-rupee figure is the police's estimate of the ganja's market value, not a sale price.
-    - The accounts reproduce the same Basantpur police statement, so they are not independent reporting.
+  - title: 'ओडिशा से यूपी जा रहा था 35 लाख का गांजा: सीजी में इनोवा छोड़ भागा तस्कर अब गिरफ्तार'
+    url: https://www.naidunia.com/chhattisgarh/ambikapur-cannabis-worth-35-lakh-was-being-transported-from-odisha-to-up-smuggler-now-arrested-8477859
+    publisher: Nai Dunia
+    date: 2026-11-20
+    language: hi
+media:
+  - kind: photo
+    url: https://www.naidunia.com/chhattisgarh/ambikapur-cannabis-worth-35-lakh-was-being-transported-from-odisha-to-up-smuggler-now-arrested-8477859
+    media_url: https://img.naidunia.com/naidunia/ndnimg/20112026/20_11_2026-jangatakar201126.webp
+    publisher: Nai Dunia
+    caption: Lead image published with the Nai Dunia report on the smuggler arrested after abandoning the Innova carrying 70 kg of ganja.
 ---
 
 Police in Basantpur, in Chhattisgarh's Balrampur district, arrested the driver
 accused of abandoning a car carrying 70.390 kg of ganja near Fulidumar village
-in September. [@1,5] Officers identified him from the Fastag fitted to the
-abandoned Innova and from other technical evidence, police said. [@2,5] He was
+in September. [@1,5,7] Officers identified him from the Fastag fitted to the
+abandoned Innova and from other technical evidence, police said. [@2,5,7] He was
 arrested on Friday 20 November 2026 and produced in court for judicial remand.
 [@4]
 
 The case began on 22 September 2026, when the Basantpur station house officer
 was told that an Innova (MH 04 DY 9471) had stood abandoned for some time on the
-road from Fulidumar towards Mahuwari. [@3,5] Officers opened the locked vehicle
-with a mechanic's help and searched it in front of witnesses. [@3,5] They found 18
+road from Fulidumar towards Mahuwari. [@3,5,7] Officers opened the locked vehicle
+with a mechanic's help and searched it in front of witnesses. [@3,5,7] They found 18
 packets wrapped in brown tape in the boot and 16 more in a green plastic bag;
-all 34 packets held ganja. [@3,5] The drug weighed 70.390 kg and police estimated
-its market value at 3,519,500 rupees. [@3,6] The Innova, put at about 1.5 million
+all 34 packets held ganja. [@3,5,7] The drug weighed 70.390 kg and police estimated
+its market value at 3,519,500 rupees. [@3,6,7] The Innova, put at about 1.5 million
 rupees, was also seized. [@3,5] A case was registered against the unknown driver
 under section 20(b)(ii)(C) of the Narcotic Drugs and Psychotropic Substances
-Act, crime number 148/2026. [@4]
+Act, crime number 148/2026. [@4,7]
 
 According to police, the man said he had bought the Innova from someone in
-Mumbai without transferring it into his own name. [@2,5] He said he loaded the
+Mumbai without transferring it into his own name. [@2,5,7] He said he loaded the
 ganja at Sundargarh in Odisha in July 2026 and was taking it to Uttar Pradesh
-through Chhattisgarh. [@4,5] He told police that near Wadrafnagar a truck had hit a tree, the car ahead braked suddenly and his Innova struck it, after which he drove off at speed. [@5] Fearing police at the Chhattisgarh–Uttar Pradesh
-border, he parked the car on a dirt track and fled with his companions. [@4,5]
-Police said they were still looking for the other suspects. [@2,5]
+through Chhattisgarh. [@4,5,7] He told police that near Wadrafnagar a truck had hit a tree, the car ahead braked suddenly and his Innova struck it, after which he drove off at speed. [@5,7] Fearing police at the Chhattisgarh–Uttar Pradesh
+border, he parked the car on a dirt track and fled with his companions. [@4,5,7]
+Police said they were still looking for the other suspects. [@2,5,7]
