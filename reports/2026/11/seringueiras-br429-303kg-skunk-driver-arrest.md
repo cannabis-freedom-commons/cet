@@ -59,36 +59,40 @@ sources:
     publisher: Folha de Vilhena
     date: 2026-11-20
     language: pt
+  - title: Motorista é preso com 303 kg de skunk na BR-429, em Seringueiras
+    url: https://amp.rondoniagora.com/policia/motorista-e-preso-com-303-kg-de-skunk-na-br-429-em-seringueiras
+    publisher: Jornal Rondoniagora
+    date: 2026-11-20
+    language: pt
 open_questions:
-  - 'The two accounts disagree on the weekday: the first says Friday (20) and the Civil Police statement says Thursday (20); both give 20 November 2026, which is used as the incident date.'
-  - One account gives the amount as 303 kg and the Civil Police as approximately 303 kg; no laboratory confirmation of the substance was reported.
-  - The driver's name, age and formal charge were not released, and no court outcome was reported.
-  - No separate count or value was published for the vehicle and other materials seized alongside the drug.
+    - 'The accounts disagree on the weekday: two news reports say Friday (20) and the Civil Police statement says Thursday (20); all give 20 November 2026, which is used as the incident date.'
+    - One account gives the amount as 303 kg and the Civil Police as approximately 303 kg; no laboratory confirmation of the substance was reported.
+    - The driver's name, age and formal charge were not released, and no court outcome was reported.
+    - No separate count or value was published for the vehicle and other materials seized alongside the drug.
 ---
 
 One man was arrested in flagrante on 20 November 2026 when police stopped a
 vehicle on the BR-429 near Seringueiras, Rondônia, and found skunk, a potent
-variety of marijuana. [@1] The seizure took place during the Sinergia – CRP II
+variety of marijuana. [@1,3] The seizure took place during the Sinergia – CRP II
 and Brasil contra o Crime Organizado – BPFRON operations, involving the Military
 Police through its 11th and 2nd Battalions, the Civil Police through Denarc, and
-the Federal Highway Police (PRF). [@1] The Civil Police of Rondônia said its
+the Federal Highway Police (PRF). [@1,3] The Civil Police of Rondônia said its
 contribution came through the 2nd Delegation for Combating Organised Crime
 (DRACO2) in a joint action with the Military Police and the PRF. [@2]
 
 The Military Police said the action began after residents reported a pickup
 travelling suspiciously on the BR-429, prompting teams to set up a roadblock
-near Seringueiras. [@1] When officers stopped a Fiat Strada, they found several
-bundles of a narcotic substance inside the vehicle. [@1] After weighing, the
-total was 303 kilograms of skunk-type marijuana. [@1] The Civil Police said
+near Seringueiras. [@1,3] When officers stopped a Fiat Strada, they found several
+bundles of a narcotic substance inside the vehicle. [@1,3] After weighing, the
+total was 303 kilograms of skunk-type marijuana. [@1,3] The Civil Police said
 intelligence and information-sharing between the forces led them to track a
 suspicious vehicle, and that the teams found several tablets of the drug carried
 in the body of a pickup truck. [@2]
 
 The driver received a voice of arrest and was taken to the competent authorities
-for legal proceedings. [@1] The Civil Police said the drug, the vehicle and
+for legal proceedings. [@1,3] The Civil Police said the drug, the vehicle and
 other seized materials were sent to the competent police unit, and that DRACO2
 would continue the investigation into the origin and destination of the drug and
 identify others involved. [@2] The security forces said they were continuing
 patrols in the region to locate further drug loads and identify and arrest other
-people involved in trafficking. [@1]
-
+people involved in trafficking. [@1,3]
