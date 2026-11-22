@@ -29,6 +29,10 @@ sources:
     publisher: Ministry of Legal Affairs, Guyana
     url: >-
       https://www.mola.gov.gy/post/illegal-for-police-to-lock-up-persons-for-small-amounts-of-ganja-nandlall
+  - title: Guyana Attorney General Directs Law Enforcement To Not Jail Cannabis Offenders
+    url: https://internationalcbc.com/guyana-attorney-general-directs-law-enforcement-to-not-jail-cannabis-offenders/
+    publisher: International Cannabis Business Conference
+    date: 2024-09-30
 ---
 
-After police in Matthew's Ridge held a man found with 4.2 g of marijuana, Attorney General Anil Nandlall said the detention misapplied the amended drug law. Because a court cannot impose prison for possessing up to 30 g, he said, the police cannot detain a person for it before trial and bail must be granted; they should charge the person and bring them before a magistrate. Up to 15 g means counselling, and 15 to 30 g may mean community service. [@1]
+After police in Matthew's Ridge held a man found with 4.2 g of marijuana, Attorney General Anil Nandlall said the detention misapplied the amended drug law. The statement also followed a separate report of police arresting and locking up a man allegedly found with 15 grams of marijuana. [@2] Because a court cannot impose prison for possessing up to 30 g, he said, the police cannot detain a person for it before trial and bail must be granted; they should charge the person and bring them before a magistrate. Up to 15 g means counselling, and 15 to 30 g may mean community service. [@1,2]
