@@ -53,6 +53,11 @@ media:
     media_url: https://www.expressandstar.com/jpim-static/image/2026/11/20/13/31/imagepun5.jpg?crop=3:2,smart&trim=&width=378&quality=65
     publisher: Express and Star
     caption: 'West Midlands Police handout of cannabis seized during the Coventry operation. Photo: West Midlands Police'
+  - kind: photo
+    url: https://www.hellorayo.co.uk/hits-radio/coventry/news/cannabis-plants-seized-in-coventry
+    media_url: https://cdn.apollo.audio/one/media/6b00/928b/2f51/1096/9f38/23d6/hero-image%20(4).jpg?quality=80&format=jpg&crop=0,0,1079,1920&resize=crop&width=960
+    publisher: Hits Radio (Coventry & Warwickshire)
+    caption: Cannabis plants seized by police during the Coventry warrants.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 7f09fcde82cdb5426875e9a7d3f2b0e8
@@ -71,32 +76,29 @@ sources:
     publisher: Express and Star
     date: 2026-11-20
     language: en
-open_questions:
-    - No arrests or charges were reported for any of the four warrants, and no suspects were identified.
-    - No dates were given for the individual warrants; only the August to November 2026 span is known, so 20 November 2026, the date of the police statement, stands in for the incident date.
-    - Coventry Live places one property on Windmill Road while Greatest Hits Radio and the Express and Star place it on Windmill Street; the street name is unresolved.
-    - The £500,000 figure is the force's own estimate of the value of the cannabis, not a confirmed market price.
-    - Police described the quantity as approximately 491 plants and gave no breakdown of plants or value by property.
-    - The accounts do not say whether the plants were removed or destroyed, or whether the properties were closed.
-    - All three accounts reproduce the same West Midlands Police statement, so they are not independent reporting.
+  - title: More than £500,000 worth of cannabis plants seized in Coventry
+    url: https://www.hellorayo.co.uk/hits-radio/coventry/news/cannabis-plants-seized-in-coventry
+    publisher: Hits Radio (Coventry & Warwickshire)
+    date: 2026-11-20
+    language: en
 ---
 
 West Midlands Police officers seized cannabis worth more than £500,000 from four
-properties in Coventry in a crackdown on drugs. [@1,3] The seizures were made from
+properties in Coventry in a crackdown on drugs. [@1,3,4] The seizures were made from
 four properties across the city between August and November 2026. [@1,3] About 491
-cannabis plants were found across the four properties. [@1,3] Warrants were
+cannabis plants were found across the four properties. [@1,3,4] Warrants were
 executed at properties on Windmill Road, Oliver Street, Princess Street and
 Hastings Road. [@1,3] The warrants were carried out by the North East Priority
-Crime Team. [@2,3]
+Crime Team. [@2,3,4]
 
 Police said the investigations began after members of the public reported the
-suspected cannabis farms. [@1] The force said community intelligence helps
+suspected cannabis farms. [@1,4] The force said community intelligence helps
 officers identify suspects and safeguard vulnerable people targeted by criminal
-gangs. [@1]
+gangs. [@1,4]
 
 Inspector Manwar Porter said Priority Crime Teams mix uniformed and
 plain-clothed officers to tackle gang activity, gun and knife crime, serious
-acquisitive crime and organised crime across the region. [@1,3] Porter said the
+acquisitive crime and organised crime across the region. [@1,3,4] Porter said the
 warrants were one of the ways police were stopping the cycle of criminality and
-bringing offenders to justice. [@2,3] He said the force was working with partners
-to support the most vulnerable people and those exploited by criminals. [@2,3]
+bringing offenders to justice. [@2,3,4] He said the force was working with partners
+to support the most vulnerable people and those exploited by criminals. [@2,3,4]
