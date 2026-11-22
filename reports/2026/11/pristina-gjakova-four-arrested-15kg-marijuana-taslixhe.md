@@ -105,6 +105,16 @@ sources:
     url: https://www.gazetaexpress.com/en/Four-people-arrested-for-narcotics-in-Pristina--Gjakove--and-over-14-kilograms-of-marijuana-confiscated-at-the-Mutivode-border-crossing/
     publisher: Gazeta Express
     date: 2026-11-21
+  - title: Policia konfiskon mbi 14 kilogramë marihuanë, arrestohen katër persona në tri lokacione
+    url: https://indeksonline.net/policia-konfiskon-mbi-14-kilograme-marihuane-arrestohen-kater-persona-ne-tri-lokacione/
+    publisher: Indeksonline
+    date: 2026-11-21
+    language: sq
+  - title: Uyuşturucu Operasyonunda 4 Gözaltı, 14 Kilogramdan Fazla Esrar Ele Geçirildi
+    url: https://kosovahaber.com/haber/uyusturucu-operasyonunda-4-gozalti-14-kilogramdan-fazla-esrar-ele-gecirildi-109555
+    publisher: Kosovahaber.com
+    date: 2026-11-21
+    language: tr
 open_questions:
     - The police statement gives 14 kg 815 g of suspected marijuana, while Interior Minister Xhelal Sveçla's announcement rounded it to about 15 kilograms.
     - The substance was described only as suspected marijuana, with no laboratory confirmation or net weight reported.
@@ -112,11 +122,11 @@ open_questions:
 ---
 
 Kosovo police arrested four people suspected of drug trafficking in an operation
-codenamed Taslixhe. [@1,5,6,7,8,9,10,11] The four suspects, identified only as SB, FB, NI and Gj.Z., were held for 48 hours on a prosecutor's order. [@11] The four people arrested were citizens of Kosovo. [@13] The operation was carried out at different locations in
-Pristina and Gjakova, in coordination with the prosecutor's office. [@3,6,7,8,9,10,11] The operation took place at noon in Pristina, Gjakova and at the Mutivoda border crossing. [@13] The first operation was carried out by investigators from the Pristina and Gjakova units of the Drug Trafficking Investigation Directorate, with the Rapid Response Unit and the Mutivoda Border Police. [@11]
+codenamed Taslixhe. [@1,5,6,7,8,9,10,11] The four suspects, identified only as SB, FB, NI and Gj.Z., were held for 48 hours on a prosecutor's order. [@11] The four people arrested were citizens of Kosovo. [@13,14] The operation was carried out at different locations in
+Pristina and Gjakova, in coordination with the prosecutor's office. [@3,6,7,8,9,10,11] The operation took place at noon in Pristina, Gjakova and at the Mutivoda border crossing. [@13,14] The police report dated the operation to 20 November 2026. [@14] The first operation was carried out by investigators from the Pristina and Gjakova units of the Drug Trafficking Investigation Directorate, with the Rapid Response Unit and the Mutivoda Border Police. [@11]
 Interior Minister Xhelal Sveçla announced the arrests in a Facebook post. [@2,5,8,9]
 
-Officers seized about 15 kilograms of marijuana during the searches. [@4,5,6,7,8,9,10,11,12] Police put the amount of marijuana seized at 14 kilograms and 815 grams. [@13] They
+Officers seized about 15 kilograms of marijuana during the searches. [@4,5,6,7,8,9,10,11,12] Police put the amount of marijuana seized at 14 kilograms and 815 grams. [@13,15] They
 also seized an unspecified quantity of cocaine, cash, weapons and ammunition,
 mobile phones and two vehicles. [@2,5,6,7,8,9,10] The police statement also listed two revolvers, 62 cartridges, 9,120 euros, 350 Swiss francs, two cars, four mobile phones and a digital scale. [@11] The minister gave no quantity for the
 cocaine, no cash amount and no type or number of weapons. [@1,8,9] The places
