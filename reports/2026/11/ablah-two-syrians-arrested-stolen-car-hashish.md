@@ -45,26 +45,30 @@ sources:
     url: https://isf.gov.lb/news/bekaa-investigation-detachment-arrests-two-suspects-and-recovers-a-stolen-car-in-less-than-48-hours-in-ablah/
     publisher: Internal Security Forces
     date: 2026-11-16
+  - title: قوى الأمن توقف سوريَّين بعد سرقة سيارة من مدينة بعلبك
+    url: https://cedarnews.net/alert/1154728/%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86-102/
+    publisher: Cedar News
+    date: 2026-11-16
+    language: ar
 open_questions:
-  - No weight was published for the seized hashish, so no cannabis quantity is recorded.
-  - The other seized substances were described only as suspected narcotics, with no identification or laboratory confirmation reported.
-  - No charges, pleas or court outcome for the cannabis seizure were reported.
-  - The Elnashra account reproduces the Internal Security Forces statement, so the two sources are not independent reporting.
+    - No weight was published for the seized hashish, so no cannabis quantity is recorded.
+    - The other seized substances were described only as suspected narcotics, with no identification or laboratory confirmation reported.
+    - No charges, pleas or court outcome for the cannabis seizure were reported.
+    - The Elnashra and Cedar News accounts both reproduce the Internal Security Forces statement, so the sources are not independent reporting.
 ---
 
 A Bekaa Investigation Detachment patrol identified and arrested two suspects in
 Ablah on 15 November 2026, less than 48 hours after a blue Rapid car was stolen
-from Baalbek. [@1] Officers found the stolen car in the suspects' possession.
-[@1] The Internal Security Forces said the arrests followed investigations by
-its Bekaa Investigation Detachment of the Regional Gendarmerie Unit. [@2]
+from Baalbek. [@1,3] Officers found the stolen car in the suspects' possession.
+[@1,3] The Internal Security Forces said the arrests followed investigations by
+its Bekaa Investigation Detachment of the Regional Gendarmerie Unit. [@2,3]
 
 The detainees are Syrian nationals H. A., born in 1971, and B. H., born in 1996.
-[@1] The first man was wanted under two search notices for motorcycle theft and
+[@1,3] The first man was wanted under two search notices for motorcycle theft and
 the second under a notice for car theft, and both had entered Lebanon
-clandestinely. [@1]
+clandestinely. [@1,3]
 
 A search of the men and the vehicle seized a quantity of hashish, other
-suspected narcotic substances and a mobile phone from the first suspect. [@1]
+suspected narcotic substances and a mobile phone from the first suspect. [@1,3]
 The two men, the seized items and the recovered car were handed to the competent
-unit for legal proceedings on the judiciary's instruction. [@1]
-
+unit for legal proceedings on the judiciary's instruction. [@1,3]
