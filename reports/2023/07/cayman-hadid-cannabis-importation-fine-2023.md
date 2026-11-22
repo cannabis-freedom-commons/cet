@@ -108,23 +108,27 @@ sources:
     publisher: Vanity Fair
     date: 2023-07-18
     language: en
+  - title: Gigi Hadid arrested, fined for marijuana possession in Cayman Islands
+    url: https://globalnews.ca/news/9840143/gigi-hadid-arrested-fined-marijuana-possession-cayman-islands/
+    publisher: Global News
+    date: 2023-07-18
 open_questions:
-    - Teen Vogue and The Washington Post reported the fine as $1,000 without stating the currency, while other accounts gave 1,000 Cayman Islands dollars.
+    - 'Accounts differ on the fine''s currency: most report 1,000 Cayman Islands dollars, Teen Vogue and The Washington Post reported $1,000 without specifying, and Global News reported US$1,000 (nearly C$1,300).'
 ---
 
 American model Gigi Hadid, 28, and her friend Leah McCarthy were detained in the
 Cayman Islands after their luggage was searched when they arrived on a private
-jet for a holiday on 10 July 2023. [@1,2,3,4,7,8,9,12,14] The other woman was identified as Leah Nicole McCarthy, another member of Hadid's group. [@4,9,10] Leah McCarthy was 29 at the time of the arrest. [@10] They arrived at Owen Roberts International Airport in George Town, where Customs and Border Control officers put their bags through a scanner and searched them by hand. [@4,7,9] The Cayman Islands Customs and Border
+jet for a holiday on 10 July 2023. [@1,2,3,4,7,8,9,12,14,15] The other woman was identified as Leah Nicole McCarthy, another member of Hadid's group. [@4,9,10] Leah McCarthy was 29 at the time of the arrest. [@10] They arrived at Owen Roberts International Airport in George Town, where Customs and Border Control officers put their bags through a scanner and searched them by hand. [@4,7,9] The Cayman Islands Customs and Border
 Control said the two were arrested for "the importation of marijuana and
-importation of utensils used for the consumption of marijuana". [@1,2,3,4,5,7,8] The agency
-said it was a small amount, seemingly for personal consumption. [@1,2,4,5,12]
+importation of utensils used for the consumption of marijuana". [@1,2,3,4,5,7,8,15] The agency
+said it was a small amount, seemingly for personal consumption. [@1,2,4,5,12,15]
 
 They were taken to a detention centre and released on bail, the local newspaper
-Cayman Marl Road reported. [@1,4,5,6,7,9,11,12,13] They were taken to the Prisoner Detention Center. [@6,7,10,13] The pair appeared in the Cayman Islands summary
+Cayman Marl Road reported. [@1,4,5,6,7,9,11,12,13] They were taken to the Prisoner Detention Center. [@6,7,10,13,15] The pair appeared in the Cayman Islands summary
 court two days later, where they were fined 1,000 Cayman Islands dollars
 ($1,200; £920). [@1,4,9,12] The courts confirmed the two were arraigned in George Town, but did not specify the charges. [@4] They pleaded guilty in court and paid the fine, but no
-conviction was recorded. [@1,2,3,4,6,7,8,9,12]
+conviction was recorded. [@1,2,3,4,6,7,8,9,12,15]
 
 Hadid's representative said the marijuana was purchased legally in New York
 "with a medical license", and that medical use has also been legal in Grand
-Cayman since 2017. [@1,2,4,5,7,8,9,11,12,13]
+Cayman since 2017. [@1,2,4,5,7,8,9,11,12,13,15]
