@@ -60,6 +60,16 @@ media:
     media_url: https://www.facebook.com/reel/1660009828987433/
     publisher: Romania TV
     caption: Video report embedded in Romania TV's account of the 18 November Bucharest car-floor drug seizure.
+  - kind: video
+    url: https://www.gandul.ro/video/politia-romana-pune-traficantii-de-droguri-la-regim-dupa-o-captura-importanta-minus-50-de-kilograme-intr-o-singura-zi-21070793/amp
+    media_url: https://www.facebook.com/reel/2672820279901301
+    publisher: Poliția Română
+    caption: 'Satirical video posted on Facebook by the Romanian Police about the Bucharest operation, in which an officer shows a bag of the seized drugs on a scale and the 5 million euro value appears on screen. Video: Poliția Română'
+  - kind: photo
+    url: https://www.gandul.ro/video/politia-romana-pune-traficantii-de-droguri-la-regim-dupa-o-captura-importanta-minus-50-de-kilograme-intr-o-singura-zi-21070793/amp
+    media_url: https://media.gandul.ro/oKUNtedtWFsYJBxoVmEurlYfYrw=/1280x720/smart/filters:contrast(5):format(webp):quality(80)/https%3A%2F%2Fwww.gandul.ro%2Fwp-content%2Fuploads%2F2026%2F11%2Fbefunky-collage-69-1280x717.jpg
+    publisher: Gândul
+    caption: 'Composite image taken from the Romanian Police video and published at the top of the report, showing the Bucharest seizure. Footage: Poliția Română'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: a39952936ee308e03f7e5a72a9f08ce2
@@ -115,6 +125,14 @@ sources:
     publisher: Romania TV
     date: 2026-11-19
     language: ro
+  - title: 'Poliția Română pune traficanții de droguri la „regim”, după o captură importantă: „Minus 50 de kilograme într-o singură zi”'
+    url: https://www.gandul.ro/video/politia-romana-pune-traficantii-de-droguri-la-regim-dupa-o-captura-importanta-minus-50-de-kilograme-intr-o-singura-zi-21070793/amp
+    publisher: Gândul
+    date: 2026-11-21
+    language: ro
+open_questions:
+    - Gândul dates the capture to Thursday 19 November, while DIICOT's statement places the flagrante on 18 November and the detention measure on 19 November.
+    - No ruling on DIICOT's request for 30 days of preventive arrest has been reported.
 ---
 
 DIICOT prosecutors in Bucharest detained two men, aged 22 and 33, on 19 November
@@ -124,10 +142,10 @@ carrying 30 bags of cocaine and seven bags containing cannabis in the car they
 were travelling in. [@1,2,3,4,5,6,7,9,10] Half of the quantity was hidden in a car parked in the car park of a shopping centre. [@2]
 
 Most of the packages were hidden in a purpose-built compartment in the car
-floor, closed by an electronic locking system operated by a card. [@1,2,4,5,6,7,8,9,10] Officers
+floor, closed by an electronic locking system operated by a card. [@1,2,4,5,6,7,8,9,10,11] Officers
 later searched hotel rooms the men had rented and seized a further 17 packages
 of cocaine. [@1,2,4,5,6,7,8,9,10] Investigators carried out five searches in the hotel rooms rented by the two men. [@5,7] The total amount taken out of circulation was 50 kilograms of
-cocaine and 2.5 kilograms of cannabis, according to DIICOT. [@1,2,3,4,5,6,7,8,9,10] DIICOT put the value of the total seizure at about 5 million euros. [@2]
+cocaine and 2.5 kilograms of cannabis, according to DIICOT. [@1,2,3,4,5,6,7,8,9,10,11] DIICOT put the value of the total seizure at about 5 million euros. [@2] The Romanian Police posted a satirical video on Facebook about the operation, in which officers tell traffickers they have a problem with 'extra kilos' and have therefore been put under 'closed regime'. [@11] In the video an officer says his anti-drug colleagues have 'patented a new weight-loss method, 50 kg in one day' as he shows a bag of the seized drugs on a scale. [@11]
 
 On Thursday 19 November a judge for rights and freedoms at the Bucharest
 Tribunal was asked to order 30 days of preventive arrest for the two defendants.
