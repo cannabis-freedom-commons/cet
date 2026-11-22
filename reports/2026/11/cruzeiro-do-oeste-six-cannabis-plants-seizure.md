@@ -65,30 +65,29 @@ sources:
     publisher: GoioNews
     date: 2026-11-18
     language: pt
-open_questions:
-    - The 23.49 grams is reported as the total for the seized drug, with no stated split between the six plants and the ready-to-use portion.
-    - The suspect was identified only as a 19-year-old man; no name was published.
-    - No charge, hearing or court outcome beyond the Termo Circunstanciado and referral to the competent authority was reported.
-    - All accessible outlet reports reproduce the Military Police account and are not independent reporting.
-    - The man was taken to the battalion headquarters for the TCIP booking and released, so no arrest figure is recorded.
+  - title: Polícia encontra seis pés de maconha em residência na região de Goioerê
+    url: https://goio.news/noticias/2419/55879/policia-encontra-seis-pes-de-maconha-em-residencia-na-regiao-de-goioere
+    publisher: GoioNews
+    date: 2026-11-20
+    language: pt
 ---
 
 A ROTAM team of the 7th Military Police Battalion seized six cannabis plants and
 a portion of the drug ready for consumption at a residence in central Cruzeiro
-do Oeste. [@1,2,3,4,5]
+do Oeste. [@1,2,3,4,5,6]
 
 Officers on patrol to check reports of illegal cannabis cultivation approached a
-man who was leaving the house. [@1,3,4,5] He was 19 years old. [@3] A personal search of the suspect found
-nothing illicit. [@1,5] When questioned, he admitted that he grew cannabis in the
-residence's yard and authorised the team to enter and check. [@1,2,4,5] The man was
+man who was leaving the house. [@1,3,4,5,6] He was 19 years old. [@3] A personal search of the suspect found
+nothing illicit. [@1,5,6] When questioned, he admitted that he grew cannabis in the
+residence's yard and authorised the team to enter and check. [@1,2,4,5,6] The man was
 taken to the 7th Military Police Battalion headquarters, where a Termo
-Circunstanciado de Infração Penal was drawn up. [@1,2,3,4,5] He was released after the
-procedures. [@1,2,4,5]
+Circunstanciado de Infração Penal was drawn up. [@1,2,3,4,5,6] He was released after the
+procedures. [@1,2,4,5,6]
 
 Searches of the property found six cannabis plants, plus a portion of the
-substance sitting on the living-room counter. [@1,2,3,4,5] The seized drug totalled
-23.49 grams. [@1,2,3,4,5] The cannabis plants and the portion were seized to be sent to
-the competent authority for the applicable legal steps. [@1,5]
+substance sitting on the living-room counter. [@1,2,3,4,5,6] The seized drug totalled
+23.49 grams. [@1,2,3,4,5,6] The cannabis plants and the portion were seized to be sent to
+the competent authority for the applicable legal steps. [@1,5,6]
 
 The occurrence was recorded in the early evening of Saturday the 14th, at about
-17:51. [@1,2,4,5]
+17:51. [@1,2,4,5,6]
