@@ -90,6 +90,10 @@ sources:
     publisher: Εφημερίδα των Συντακτών (efsyn.gr)
     date: 2026-11-20
     language: el
+  - title: 12χρονος οδηγούσε αυτοκίνητο με 407 γρ. κάνναβης – Συνελήφθη μαζί με 21χρονο | Star TV
+    url: https://www.star.gr/tv/psychagogia/protos-kafes-me-ti-zina/12hronos-odigouse-autokinito-me-407-gr-kannavis-sunelifthi-mazi-me-21hrono
+    publisher: Star TV
+    language: el
 media:
   - kind: photo
     url: https://www.efsyn.gr/ellada/1514105/kolonos-12hronos-odigoyse-ih-sto-opoio-vrethikan-407-grammaria-kannavis-synelifthi-kai-enas-21hronos/
@@ -102,15 +106,15 @@ On the evening of 16 November 2026, Direct Action patrol officers in Kolonos
 spotted two people moving by car, judged them suspicious and called on them to
 stop for a check. [@1,3,4,5,6,7,8,9,10] When the car was checked, officers found that the driver
 was a 12-year-old boy while the other occupant was a 21-year-old man riding as
-passenger. [@1,3,5,7,8,9] The two occupants, aged 12 and 21, were arrested for violating
+passenger. [@1,3,5,7,8,9,11] The two occupants, aged 12 and 21, were arrested for violating
 the legislation on addictive substances and were taken to the competent police
 station for a case file to be formed. [@1,6,7,8] The two detainees were brought to the
 Kolonos Crime Detection and Clearance Department, where a case file for
 violating narcotics legislation was opened against them. [@2,3,4,5,6,8,9]
 
 During the search inside the vehicle, officers found and seized 407 grams of raw
-cannabis together with a grinder. [@1,3,4,5,6,7,8,9,10] Police presented the seized material as
+cannabis together with a grinder. [@1,3,4,5,6,7,8,9,10,11] Police presented the seized material as
 407 grams of raw cannabis found inside the car, alongside the grinder. [@2] A
 separate case file was also opened against the 12-year-old's two parents for
-neglecting supervision of a minor. [@1,3,4,5,6,7,8,9,10] After the case files were formed, both
+neglecting supervision of a minor. [@1,3,4,5,6,7,8,9,10,11] After the case files were formed, both
 detainees were referred to the competent prosecutor. [@2,3,4,5,6,7,8,9]
