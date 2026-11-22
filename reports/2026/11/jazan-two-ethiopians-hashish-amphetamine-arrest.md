@@ -48,6 +48,11 @@ sources:
     publisher: صحيفة صدى الإلكترونية
     date: 2026-11-19
     language: ar
+  - title: القبض على مخالفين لترويجهما الحشيش والإمفيتامين بجازان ..اخبار محلية
+    url: https://arabic.pressbee.net/show11129438.html?title=%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%85%D8%AE%D8%A7%D9%84%D9%81%D9%8A%D9%86-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC%D9%87%D9%85%D8%A7-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D8%A7%D9%84%D8%A5%D9%85%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86-%D8%A8%D8%AC%D8%A7%D8%B2%D8%A7%D9%86
+    publisher: برس بي (Pressbee)
+    date: 2026-11-19
+    language: ar
 open_questions:
   - No date is given for the arrest; 19 November 2026 is the publication date and is used as the incident date.
   - No weight, quantity or value was published for the hashish or the amphetamine, so no cannabis weight is recorded.
@@ -59,11 +64,10 @@ open_questions:
 
 Patrols of the General Directorate of Mujahideen in Saudi Arabia's Jazan region
 arrested two Ethiopian nationals who were in breach of the border-security
-system. [@1] The directorate accused the two of promoting hashish and
-amphetamine, describing both as narcotic substances. [@1]
+system. [@1,2] The directorate accused the two of promoting hashish and
+amphetamine, describing both as narcotic substances. [@1,2]
 
 Hashish is the cannabis product named in this mixed case, while the amphetamine
 is excluded from the cannabis figures. [@1] The directorate said the two were
 stopped, that statutory procedures were taken against them and that they were
 referred to the competent authority. [@1]
-
