@@ -55,6 +55,11 @@ media:
     media_url: https://jornaldiadia.com.br/wp-content/uploads/PM-2-1.jpg-920x425.webp
     publisher: Jornal Dia Dia
     caption: Photo accompanying the report of the more than 3.7 tonnes of marijuana seized in Três Lagoas, credited in the article as a Federal Police reproduction.
+  - kind: photo
+    url: https://diarionline.com.br/?id=160187&s=noticia
+    media_url: https://diarionline.com.br/static/arquivo/2026-11/51b41e13-6f9c-47a3-9447-ba106172e8a7-dc1c.jpg
+    publisher: Diário Corumbaense
+    caption: 'Federal Police handout photo of the drug load intercepted when the truck arrived in Três Lagoas. Photo: Divulgação/Polícia Federal'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: d4ded91739905a359ed5451257de3324
@@ -85,19 +90,24 @@ sources:
     publisher: Midiamax
     date: 2026-11-20
     language: pt
+  - title: Dois são presos com 3,7 toneladas de maconha em Três Lagoas
+    url: https://diarionline.com.br/?id=160187&s=noticia
+    publisher: Diário Corumbaense
+    date: 2026-11-20
+    language: pt
 ---
 
 Federal Police officers arrested two people in the act in Três Lagoas, Mato
-Grosso do Sul, during an inspection on 19 November 2026. [@2,3,4,5] One of the two is
+Grosso do Sul, during an inspection on 19 November 2026. [@2,3,4,5,6] One of the two is
 a resident of Olímpia, in São Paulo state; Três Lagoas lies on the border with
 São Paulo. [@1] The two suspects were taken to the Federal Police station with
-the truck and the drug. [@2,3,4,5] They may face drug-trafficking charges. [@2,3,4,5] The
+the truck and the drug. [@2,3,4,5,6] They may face drug-trafficking charges. [@2,3,4,5] The investigation was continuing. [@6] The
 detainee from Olímpia was not named. [@1]
 
 The load weighed 3,707 kilograms of marijuana. [@1] The drug was packed in
 tablets. [@1] Officers found the drug hidden among a load of pallets, wooden
 structures used to carry and store goods, in the cargo compartment of a truck
-that was arriving in the municipality. [@2,3,4,5] Using the values Mato Grosso do Sul
+that was arriving in the municipality. [@2,3,4,5,6] Using the values Mato Grosso do Sul
 security forces usually apply to calculate damage to organised crime, the Diário
 estimated the load could be worth about 7.4 million reais. [@1] The Federal
 Police did not disclose where the load came from or where it was going. [@2]
