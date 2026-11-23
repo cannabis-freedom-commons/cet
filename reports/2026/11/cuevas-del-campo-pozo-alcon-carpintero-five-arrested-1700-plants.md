@@ -133,28 +133,36 @@ sources:
     publisher: Jaén Hoy
     date: 2026-11-20
     language: es
+  - title: Cinco detenidos y cuatro plantaciones de marihuana desmanteladas en Cuevas del Campo y Pozo Alcón
+    url: https://www.teleprensa.com/andalucia/granada/cinco-detenidos-cuatro-plantaciones-marihuana-desmanteladas-cuevas-campo-pozo-alcon/202611201457232563287.html
+    publisher: Teleprensa
+    date: 2026-11-20
+    language: es
+open_questions:
+    - No weight or value was published for the more than 1,700 cannabis plants, only a count.
+    - The operation was still open, and no charges, detention decision or court outcome had been reported.
 ---
 
 Policía Nacional officers from the Baza commissariat in Granada arrested five
 people and dismantled four cannabis plantations inside homes in Pozo Alcón, in
-Jaén province, and Cuevas del Campo, in Granada province. [@1,5,6,7,8,9,10,11,12,13,14] The five detained
+Jaén province, and Cuevas del Campo, in Granada province. [@1,5,6,7,8,9,10,11,12,13,14,15] The five detained
 were three men and two women aged between 32 and 56, all with previous police
-records. [@1,4,5,7,8,9,10,11,12,13,14] Officers carried out nine searches in the early hours of Thursday
-19 November under an operation named Operación Carpintero. [@1,4,5,6,7,8,9,10,11,12,13,14]
+records. [@1,4,5,7,8,9,10,11,12,13,14,15] Officers carried out nine searches in the early hours of Thursday
+19 November under an operation named Operación Carpintero. [@1,4,5,6,7,8,9,10,11,12,13,14,15]
 
 In four of the homes searched police found rooms fitted out for cultivation with
-lighting, aeration and ventilation systems. [@1,4,5,6,7,8,9,10,11,13,14] They seized more than 1,700
+lighting, aeration and ventilation systems. [@1,4,5,6,7,8,9,10,11,13,14,15] They seized more than 1,700
 cannabis plants at different stages of growth, some of them in advanced
-flowering, distributed across the rooms. [@1,4,5,7,8,9,10,11,12,13,14] The same searches produced 800
+flowering, distributed across the rooms. [@1,4,5,7,8,9,10,11,12,13,14,15] The same searches produced 800
 grams of hashish, 50 grams of cocaine, jewellery, 1,500 euros in cash, three
 high-end vehicles, knives and air guns, ammunition, mobile phones, precision
-scales, vacuum-packing machines and body armour. [@1,4,5,7,8,9,10,11,12,14] Some of the homes had
-high-security doors that made it harder for officers to get in. [@1,4,5,7,8,9,10,11,12,13,14] During the
-searches police also found illegal connections to the electricity supply. [@1,4,5,7,8,9,10,11,12,13,14]
+scales, vacuum-packing machines and body armour. [@1,4,5,7,8,9,10,11,12,14,15] Some of the homes had
+high-security doors that made it harder for officers to get in. [@1,4,5,7,8,9,10,11,12,13,14,15] During the
+searches police also found illegal connections to the electricity supply. [@1,4,5,7,8,9,10,11,12,13,14,15]
 
 The five are being investigated for drug trafficking, membership of a criminal
-group and electricity fraud. [@1,4,5,7,8,9,10,11,12] The operation remained open and further
-arrests were not ruled out. [@3,5,6,7,8,9,10,11,12,13,14] Police had identified other people they had yet
+group and electricity fraud. [@1,4,5,7,8,9,10,11,12,15] The operation remained open and further
+arrests were not ruled out. [@3,5,6,7,8,9,10,11,12,13,14,15] Police had identified other people they had yet
 to detain, Hora Jaén reported. [@2,9] Officers from the local commissariat in Baza
 and the provincial commissariat in Granada, from judicial police and public
-security units, took part. [@1,4,5,7,8,9,10,11,12,13,14]
+security units, took part. [@1,4,5,7,8,9,10,11,12,13,14,15]
