@@ -56,25 +56,27 @@ sources:
     url: https://timesofmalta.com/article/man-arrested-receiving-4kg-cannabis-parcel-post.1137454
     publisher: Times of Malta
     date: 2026-11-21
+  - title: €96,000 Worth Of Suspected Cannabis Seized After Arriving In Malta By Post
+    url: https://lovinmalta.com/news/e96000-worth-of-suspected-cannabis-seized-after-arriving-in-malta-by-post/
+    publisher: Lovin Malta
+    date: 2026-11-21
 open_questions:
-  - The 4kg was described only as suspected cannabis, with no laboratory confirmation reported.
-  - The date and origin of the intercepted package, and who sent it, were not reported.
-  - The specific charges and number of counts were not stated; the accused pleaded not guilty to the allegations.
-  - The €96,000 figure is the police's estimated street value, not a market valuation.
-  - No next hearing date or bail decision beyond the remand in custody was reported.
-  - 'Arrestat raġel wara li l-Pulizija interċettat pakkett bil-posta b’€96,000 f’kannabis (Illum) could not be opened again to check its quotations (ENOSPC: no space left on device, open ''/Users/tree/Projects/cannabis-freedom-index-tracker/backend/data/worker-jobs/sources/f88f1f4bbb7e86be2e6e592ff4817932/a8bb0baf9451acccd5023a639efadc84/page.html''; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
+    - The 4kg was described only as suspected cannabis, with no laboratory confirmation reported.
+    - The date and origin of the intercepted package, and who sent it, were not reported.
+    - The specific charges and number of counts were not stated; the accused pleaded not guilty to the allegations.
+    - The €96,000 figure is the police's estimated street value, not a market valuation.
+    - No next hearing date or bail decision beyond the remand in custody was reported.
 ---
 
 A 31-year-old man was arrested after police intercepted a package containing
-suspected cannabis sent by post. [@1] The package held approximately 4kg of
-suspected cannabis. [@1] The man, a Żejtun resident, was arrested in Wied
-il-Għajn after a controlled delivery operation. [@1] Police said the cannabis
+suspected cannabis sent by post. [@1,4] The man was described as Maltese. [@4] The package held approximately 4kg of
+suspected cannabis. [@1,4] The man, a Żejtun resident, was arrested in Wied
+il-Għajn after a controlled delivery operation. [@1,4] Police said the cannabis
 had an estimated street value of €96,000 and was intended for the local market.
-[@2] A search of his residence uncovered items related to drug use. [@1]
+[@2,4] A search of his residence uncovered items related to drug use. [@1,4]
 
-Magistrate Joe Mifsud is leading a magisterial inquiry into the case. [@1] He
+Magistrate Joe Mifsud is leading a magisterial inquiry into the case. [@1,4] He
 was arraigned in court on Saturday before Magistrate Antoine Agius Bonnici and
-pleaded not guilty. [@3] He was remanded in custody. [@3] Lawyer Matthew Xuereb
+pleaded not guilty. [@3,4] He was remanded in custody. [@3] Lawyer Matthew Xuereb
 appeared for the accused. [@3] Police said investigations into the alleged
-importation and trafficking were still ongoing. [@2]
-
+importation and trafficking were still ongoing. [@2,4]
