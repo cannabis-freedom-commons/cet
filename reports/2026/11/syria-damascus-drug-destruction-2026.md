@@ -95,6 +95,11 @@ sources:
     publisher: Al Bawaba
     date: 2026-11-22
     language: en
+  - title: سوريا تعدم 400 مليون حبة كبتاغون و12 طناً من الحشيش
+    url: https://www.albiladpress.com/news/2026/6614/arab-and-world/1032625.html
+    publisher: جريدة البلاد
+    date: 2026-11-22
+    language: ar
 open_questions:
   - The statements do not name the site of the destruction; the photographs published with them are captioned Damascus on 22 November 2026.
   - No count of cannabis plants was given; the 2.3 tonnes of cannabis plant is reported by weight only.
@@ -106,22 +111,22 @@ open_questions:
 
 Syria's Anti-Narcotics Directorate announced on Sunday 22 November 2026 that a
 joint committee of the interior, justice and health ministries had destroyed
-large quantities of narcotics and psychotropic substances. [@1,5,6] The drugs had been seized by security forces in successive operations. [@5,6,8] The quantities
+large quantities of narcotics and psychotropic substances. [@1,5,6,9] The drugs had been seized by security forces in successive operations. [@5,6,8,9] The quantities
 were destroyed in batches under approved legal and environmental procedures.
 [@4] The directorate described the destruction as reflecting integrated national
 efforts against drugs. [@2]
 
 The destroyed material included 12.2 tonnes of hashish and 2.3 tonnes of
-cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8] The same batches included
+cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9] The same batches included
 400 million Captagon pills, 6 kilograms of heroin and 5.4 million other narcotic
-pills, none of which is counted as cannabis. [@3,5,6,8] The directorate also destroyed
+pills, none of which is counted as cannabis. [@3,5,6,8,9] The directorate also destroyed
 equipment and chemicals used to smuggle, conceal, transport and manufacture the
-drugs. [@1,6,8]
+drugs. [@1,6,8,9]
 
 Interior Minister Anas Khattab said the quantities were among the largest
 destroyed since Bashar al-Assad's government fell in December 2024. [@4,7]
 Captagon production and trafficking grew during Syria's conflict, and under
 Assad the country became a main manufacturing and export centre for the pills,
-sent to the Gulf through Jordan and Lebanon. [@3] Since Assad's overthrow the
+sent to the Gulf through Jordan and Lebanon. [@3,9] Since Assad's overthrow the
 new authorities have repeatedly announced seizures and foiled smuggling of
-hashish and Captagon on the Lebanese and Jordanian borders. [@3,6]
+hashish and Captagon on the Lebanese and Jordanian borders. [@3,6,9]
