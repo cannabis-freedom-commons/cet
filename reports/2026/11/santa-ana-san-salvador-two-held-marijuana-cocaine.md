@@ -64,26 +64,31 @@ sources:
     publisher: Diario La Huella
     date: 2026-11-20
     language: es
+  - title: La policía detiene a dos hombres con marihuana y cocaína en distintos puntos de El Salvador
+    url: https://www.infobae.com/el-salvador/2026/11/21/la-policia-detiene-a-dos-hombres-con-marihuana-y-cocaina-en-distintos-puntos-de-el-salvador/
+    publisher: Infobae
+    date: 2026-11-21
+    language: es
 open_questions:
-  - No weight, number of portions beyond 'two large portions', or value was published for the marijuana or the cocaine.
-  - The public report does not say which drug was seized in which of the two operations.
-  - The two detentions were separate procedures in different departments, reported here as one event because the security ministry announced them together.
-  - No charge was specified beyond the offences the men are accused of, and no court appearance or detention ruling was reported.
-  - The ages of the two detainees and the exact time of each detention were not published.
-  - One detention was on the Santa Ana–Sonsonate highway and the other only in the department of San Salvador; the coordinates are for the department centre, not for either site.
-  - All three accounts reproduce Gustavo Villatoro's posts on X, which were not opened directly, so they are not independent reporting.
+    - No weight, number of portions beyond 'two large portions', or value was published for the marijuana or the cocaine.
+    - The public report does not say which drug was seized in which of the two operations.
+    - The two detentions were separate procedures in different departments, reported here as one event because the security ministry announced them together.
+    - No charge was specified beyond the offences the men are accused of, and no court appearance or detention ruling was reported.
+    - The ages of the two detainees and the exact time of each detention were not published.
+    - One detention was on the Santa Ana–Sonsonate highway and the other only in the department of San Salvador; the coordinates are for the department centre, not for either site.
+    - The accounts reproduce Gustavo Villatoro's posts on X, which were not opened directly, so they are not independent reporting.
 ---
 
 The National Civil Police arrested two men suspected of selling drugs in two
 separate procedures in Santa Ana and San Salvador, Security Minister Gustavo
 Villatoro reported. [@1] Villatoro identified the detainees as Diego Alejandro
-Vanegas Castillo and José Alfredo Hernández Viana. [@1,4] Villatoro announced the
+Vanegas Castillo and José Alfredo Hernández Viana. [@1,4,5] Villatoro announced the
 detentions on the morning of Friday 20 November. [@3]
 
 The two operations took place between the night of Thursday 19 and the early
 hours of Friday 20 November. [@2] One operation was carried out on the highway
 connecting Santa Ana with Sonsonate, and the other in the department of San
-Salvador. [@2,4] During the procedures two large portions of marijuana and cocaine
+Salvador. [@2,4,5] During the procedures two large portions of marijuana and cocaine
 were seized from the two men, according to Villatoro. [@3,4] Police dog units (K9)
 took part in both procedures and found the large marijuana and cocaine portions
 in the two men's possession. [@1]
