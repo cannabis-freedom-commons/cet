@@ -61,6 +61,11 @@ sources:
     publisher: g1
     date: 2026-11-21
     language: pt
+  - title: Dupla é presa com quase 10 kg de maconha e arma em Nossa Senhora do Socorro
+    url: https://a8se.com/noticias/policia/2026/11/22/246885-dupla-e-presa-com-quase-10-kg-de-maconha-e-arma-em-nossa-senhora-do-socorro
+    publisher: A8 Sergipe
+    date: 2026-11-22
+    language: pt
 open_questions:
   - The two suspects were not named and no ages were published.
   - No charges, custody decision or court outcome was reported; the case was registered at the Central de Flagrantes.
@@ -70,20 +75,19 @@ open_questions:
 
 Two men were arrested in the act on suspicion of drug trafficking and illegal
 possession of a firearm on the morning of Saturday 21 November 2026 at a house
-in Conjunto João Alves Filho, in Nossa Senhora do Socorro, Greater Aracaju. [@1]
+in Conjunto João Alves Filho, in Nossa Senhora do Socorro, Greater Aracaju. [@1,4]
 Officers of the Radio Patrol Police Battalion (BPRP) were patrolling the area
 when they received information about a disturbance and possible sale and
 consumption of drugs at a residence. [@1] On arriving, the officers found the
 two men on the porch apparently consuming cannabis, and through the window of
-one of the bedrooms they saw a box of cannabis tablets on the bed. [@1]
+one of the bedrooms they saw a box of cannabis tablets on the bed. [@1,4]
 
 In the search of the house officers found 7.6 kg of pressed maconha, 1.6 kg of
 flower-type maconha and seven grams of cocaine, within a total of about 9.2 kg
-of maconha seized. [@1] Officers also seized a .38 revolver, five intact rounds,
-a spent cartridge case of the same calibre and two mobile phones. [@3]
+of maconha seized. [@1,4] Officers also seized a .38 revolver, five intact rounds,
+a spent cartridge case of the same calibre and two mobile phones. [@3,4]
 
 One of the suspects said he owned the illicit material, while the other said he
-kept the objects at the house in exchange for payment. [@1] Both men were taken
+kept the objects at the house in exchange for payment. [@1,4] Both men were taken
 in the act to the Central de Flagrantes, the station where arrests in the act
-are registered, together with the seized material. [@2]
-
+are registered, together with the seized material. [@2,4]
