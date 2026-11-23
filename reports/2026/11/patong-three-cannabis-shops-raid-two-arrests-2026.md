@@ -81,19 +81,29 @@ sources:
     url: https://www.thephuketnews.com/officials-raid-patong-cannabis-shops-seize-b1-5mn-in-goods-102279.php
     publisher: The Phuket News
     date: 2026-11-21
+  - title: Three Patong cannabis shops raided; two operators arrested
+    url: https://rawai.com/three-patong-cannabis-shops-raided-two-operators-arrested
+    publisher: Rawai Phuket News
+    date: 2026-11-20
+    language: en
+open_questions:
+    - No weight, plant count or product breakdown was published for the seized cannabis; the only figure was a combined value of more than 1.5 million baht for cannabis and related equipment.
+    - No names, charges or court outcome were reported for the two arrested operators, who were handed to Patong police for legal action.
+    - It was not reported whether the recommended 30-day licence suspension was imposed.
+    - Most published accounts reproduce the same official statement of the raid, so the details rest largely on one official account.
 ---
 
 Officials raided three cannabis shops in tambon Patong, Kathu district, Phuket,
 at about 5pm on 19 November 2026. [@2,3] Two of the shops were selling cannabis
 without permission and their operators were arrested and handed to Patong police
-for legal action. [@2,3,4] The third shop had breached its licence conditions by
+for legal action. [@2,3,4,5] The third shop had breached its licence conditions by
 failing to file reports required by law, and officials submitted a report to the
 provincial public health chief recommending a 30-day suspension of its licence.
-[@2,3,4] Cannabis and related equipment worth more than 1.5 million baht was seized
-in the raids. [@1,3,4]
+[@2,3,4,5] Cannabis and related equipment worth more than 1.5 million baht was seized
+in the raids. [@1,3,4,5]
 
 The inspection was carried out by the Phuket provincial administration's special
-task force with the provincial and Kathu district public health offices. [@2] The operation was led by Phuket Provincial Security Officer Akkara Suwatthikul and joined by personnel from the Volunteer Defense Corps (OrSor) as well as the provincial and Kathu district public health offices. [@4]
+task force with the provincial and Kathu district public health offices. [@2,5] The operation was led by Phuket Provincial Security Officer Akkara Suwatthikul and joined by personnel from the Volunteer Defense Corps (OrSor) as well as the provincial and Kathu district public health offices. [@4]
 The operation followed complaints from local residents about unlawful sales.
 [@1,3,4]
 
