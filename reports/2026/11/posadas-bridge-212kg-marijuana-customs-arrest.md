@@ -72,6 +72,16 @@ media:
     media_url: https://virasorovirtual.sfo2.digitaloceanspaces.com/images/ca0d8cb44f18e2ba52491f208f6ddb95/orig-480.jpg
     publisher: VirasoroVirtual
     caption: A car with its doors and boot open surrounded by officers at the Posadas-Encarnación bridge inspection area, where the 212 kg of marijuana was found.
+  - kind: photo
+    url: https://revistacodigos.com/la-aduana-secuestro-mas-de-200-kilos/
+    media_url: https://revistacodigos.com/wp-content/uploads/2026/11/aduana-posadas-1.avif
+    publisher: Revista Códigos
+    caption: 'The interior of the car in which customs officers found the marijuana, with the dashboard area stripped and packages visible inside. Photo: Revista Códigos'
+  - kind: photo
+    url: https://revistacodigos.com/la-aduana-secuestro-mas-de-200-kilos/
+    media_url: https://revistacodigos.com/wp-content/uploads/2026/11/aduana-posadas.avif
+    publisher: Revista Códigos
+    caption: 'Customs officers around the car with its doors and bonnet open at the bridge inspection area where the 212 kg of marijuana was found. Photo: Revista Códigos'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 7c913afa32222d733e6e156dbc810436
@@ -107,14 +117,19 @@ sources:
     publisher: VirasoroVirtual
     date: 2026-11-22
     language: es
+  - title: La Aduana secuestró más de 200 kilos de marihuana en el puente internacional San Roque González
+    url: https://revistacodigos.com/la-aduana-secuestro-mas-de-200-kilos/
+    publisher: Revista Códigos
+    date: 2026-11-21
+    language: es
 ---
 
 Argentine customs officers seized 212 kilograms of marijuana from a car at the
-international bridge in Posadas, Misiones. [@1,5,6] The car was detained on the
+international bridge in Posadas, Misiones. [@1,5,6,7] The car was detained on the
 afternoon of Friday 20 November 2026 at the Argentine end of the
 Posadas-Encarnación bridge. [@3,5] Its driver, a 35-year-old Argentine, was
 arrested and placed at the disposal of the Unidad Fiscal Posadas, the federal
-prosecutor's office. [@3,5,6] He was bringing the load into Argentina from
+prosecutor's office. [@3,5,6,7] He was bringing the load into Argentina from
 Encarnación, Paraguay. [@4,5]
 
 The procedure began around 17:00 when a Chevrolet reached the migration control
@@ -127,3 +142,5 @@ presence of the packages in those compartments. [@1,5,6]
 Officers opened the hidden compartments with tools. [@3] Customs valued the load
 at nearly 832 million pesos. [@1,5,6] The case was opened as aggravated smuggling of
 narcotics. [@1,5] The car was seized together with the marijuana and held for the judicial case. [@6]
+
+The operation began at around 17:00 when División Aduana Posadas staff diverted the car to the inspection bays. [@7] Officers found brick-type packages under the bonnet, behind the dashboard and on the floor of the car, and scanner-truck images confirmed their presence there. [@7]
