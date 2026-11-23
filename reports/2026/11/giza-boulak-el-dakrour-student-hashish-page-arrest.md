@@ -53,6 +53,11 @@ sources:
     publisher: مصر تايمز
     date: 2026-11-22
     language: ar
+  - title: ضبط طالب يدير صفحة لترويج مخدر الحشيش عبر مواقع التواصل بالجيزة
+    url: https://www.aldawlanews.com/1391496
+    publisher: بوابة الدولة
+    date: 2026-11-22
+    language: ar
 open_questions:
   - No weight, value or laboratory confirmation was given for the hashish found with the student.
   - The article gives no separate date for the arrest; 22 November 2026 is the date of the Interior Ministry statement and of publication.
@@ -63,16 +68,15 @@ open_questions:
 
 Security services arrested a student in the Boulak El-Dakrour police station
 district of Giza governorate, accusing him of running a social media page that
-promoted the sale of drugs for money. [@1] The Interior Ministry said in a
+promoted the sale of drugs for money. [@1,4] The Interior Ministry said in a
 statement on Sunday that security services had spotted a person running a page
 on social media to promote the sale of drugs in exchange for money. [@1]
 Detectives identified the person running the page and arrested him after
-spotting the page being used to advertise drugs for sale. [@3]
+spotting the page being used to advertise drugs for sale. [@3,4]
 
 The man arrested was a student living in the Boulak El-Dakrour police station
 district of Giza. [@2] A mobile phone was found in his possession, and a check
 showed it contained evidence confirming his criminal activity, along with a
-quantity of hashish. [@1] Confronted with the findings, the suspect admitted
+quantity of hashish. [@1,4] Confronted with the findings, the suspect admitted
 creating and running the page to promote the sale of the drugs seized from him.
-[@1] The ministry said the necessary legal measures had been taken. [@1]
-
+[@1,4] The ministry said the necessary legal measures had been taken. [@1,4]
