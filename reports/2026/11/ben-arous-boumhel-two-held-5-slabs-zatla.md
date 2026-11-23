@@ -51,27 +51,30 @@ sources:
     publisher: La Presse de Tunisie
     date: 2026-11-21
     language: fr
+  - title: 'Ben Arous: Two drug dealers arrested, five cannabis bars seized'
+    url: https://www.nessma.tv/en/amp/tunisia/actu/ben-arous-two-drug-dealers-arrested-five-cannabis-bars-seized/602806
+    publisher: Nessma
+    date: 2026-11-21
 open_questions:
-  - No weight was given for the five slabs, so no kilogram figure is recorded.
-  - The two suspects were not named and no formal charge or court outcome was reported.
-  - All three accounts derive from a single Tunis Afrique Presse wire statement and are not independent reporting.
+    - No weight was given for the five slabs, so no kilogram figure is recorded.
+    - The two suspects were not named and no formal charge or court outcome was reported.
+    - All four accounts derive from a single Tunis Afrique Presse wire statement and are not independent reporting.
 ---
 
 The National Guard's research and investigation brigade in Ben Arous arrested
 two men suspected of promoting drugs in a residential neighbourhood of Boumhel
-on 21 November 2026. [@1] Officers laid an ambush after information that the two
+on 21 November 2026. [@1,4] Officers laid an ambush after information that the two
 frequented a residential area of Boumhel and caught them when they tried to
 flee, Al Chourouk reported. [@2]
 
 A search of the two men turned up five slabs of cannabis resin, known locally as
-zatla, and a car suspected of being used to transport the drugs. [@1] La Presse
+zatla, and a car suspected of being used to transport the drugs. [@1,4] La Presse
 de Tunisie likewise reported five plaquettes of cannabis (zatla) and a car
 believed to have served to carry the drugs. [@3]
 
-Both men confessed to the acts attributed to them during questioning. [@1] The
+Both men confessed to the acts attributed to them during questioning. [@1,4] The
 public prosecutor at the Ben Arous Primary Court authorised their detention on
-suspicion of promoting drugs. [@1] La Presse de Tunisie said their placement in
+suspicion of promoting drugs. [@1,4] La Presse de Tunisie said their placement in
 custody was ordered for suspicion of drug trafficking after the prosecution was
 consulted. [@3] Al Chourouk said the operation formed part of continuing
 security efforts against drug trafficking and promotion. [@2]
-
