@@ -50,36 +50,47 @@ sources:
     publisher: Nabd (2M.ma)
     date: 2026-11-22
     language: ar
+  - title: La Policía frustra en Tánger el tráfico internacional de 1,8 toneladas de hachís
+    url: https://es.le360.ma/sociedad/la-policia-frustra-en-tanger-el-trafico-internacional-de-18-toneladas-de-hachis_RVHVBHRZVZFOHBWRMUT2D3VL2E/
+    publisher: Le360
+    date: 2026-11-22
+    language: es
+  - title: 'Golpe al narcotráfico en Tánger: camuflaron una tonelada de hachís imitando calabazas y sandías'
+    url: https://elfarodeceuta.es/marruecos/golpe-narcotrafico-tanger-camuflaron-tonelada-hachis-imitando-calabazas-sandias/
+    publisher: El Faro de Ceuta
+    date: 2026-11-22
+    language: es
 open_questions:
-  - No street value was given for the 1,830 kg of hashish.
-  - The 107 kg found at the warehouse is described only as drugs, though it is counted in the 1,830 kg total of chira.
-  - The two sites are named only as areas on the outskirts of Tangier; their exact locations and what the Hjariyin site was used for are not stated.
-  - No charges, court date or detention decision beyond police custody were reported.
-  - Hjariyin and Boukdour have no fixed Latin spelling.
-  - Both accounts reproduce the same police statement and are not independent reporting.
+    - No street value was given for the 1,830 kg of hashish.
+    - The 107 kg found at the warehouse is described only as drugs, though it is counted in the 1,830 kg total of chira.
+    - The exact location of the Boukdour warehouse, and of the house in Al Hachriyin, is not given beyond the district names.
+    - Hjariyin and Boukdour have no fixed Latin spelling.
+    - No charges, court date or detention decision beyond police custody were reported.
+    - El Faro de Ceuta says the resin was hidden inside five refrigerated chambers, while the police statement counted six cooling units seized.
+    - El Faro de Ceuta describes a single operation at one house and does not mention the warehouse in Boukdour.
+    - All the accounts reproduce the same Moroccan police statement and are not independent reporting.
 ---
 
 Morocco's judicial police in Tangier, working with the General Directorate for
 Territorial Surveillance, broke up two drug-trafficking operations on the
 evening of Saturday 21 November 2026 and seized 1,830 kg of hashish intended for
-international smuggling. [@1] The 1,830 kg was chira, the Moroccan term for
+international smuggling. [@1,3] The 1,830 kg was chira, the Moroccan term for
 cannabis resin. [@1] Officers arrested two people, both caught during the first
-operation as they prepared an international smuggling run. [@1]
+operation as they prepared an international smuggling run. [@1,4]
 
 The first operation was in the mountainous Hjariyin area on the outskirts of
-Tangier. [@1] There police seized 1,723 kg of chira wrapped inside cooling
+Tangier. [@1,3] The raid was at a house in the village of Al Hachriyin, in the Gueznaia district outside Tangier, where the resin was hidden inside five refrigerated chambers. [@4] There police seized 1,723 kg of chira wrapped inside cooling
 equipment and hidden among quantities of agricultural produce, and took away a
-light vehicle, six coolers and packaging and wrapping material. [@1]
+light vehicle, six coolers and packaging and wrapping material. [@1,3] The suspects chilled the resin and moulded it to resemble fruit and vegetables, above all pumpkins and watermelons, to get the consignment past police checks. [@4]
 
 The second operation targeted a storage warehouse in the Boukdour area, also
-outside Tangier. [@1] Officers found 107 kg of drugs stored there while awaiting
+outside Tangier. [@1,3] Officers found 107 kg of drugs stored there while awaiting
 smuggling, along with three light vehicles, six refrigerated trailers, five
 trailers registered in Morocco, three forged foreign number plates and keys and
 equipment for grinding and forging the serial numbers of vehicle chassis. [@1]
 
 The prosecutor's office ordered a judicial investigation, and the two suspects
 were held in police custody while officers try to establish the network's
-connections and identify everyone involved at home and abroad. [@1] The 2M.ma
+connections and identify everyone involved at home and abroad. [@1,4] The 2M.ma
 news site reported the same haul: 1,723 kg in the mountainous area and 107 kg at
 the warehouse, out of a total of 1,830 kg. [@2]
-
