@@ -214,24 +214,29 @@ sources:
     publisher: WKRC (Local 12)
     date: 2026-11-20
     language: en
+  - title: Arrestan a 62 personas en California e incautan droga con un valor de más de $280 millones de dólares
+    url: https://www.sandiegored.com/noticia/arrestan-a-62-personas-en-california-e-incautan-droga-con-un-valor-de-mas-de-280-millones-de-dolares/
+    publisher: San Diego Red
+    date: 2026-11-21
+    language: es
 open_questions:
   - Readers quoted by The Union Star disputed the sheriff’s office’s $282.8 million street-value estimate, calculating about $94 million at $400 a pound, and no independent valuation was published.
   - No charging decision, court appearance or detention status has been reported for the 62 people arrested.
 ---
 
 Sixty-two people were arrested and booked into the Butte County Jail on 17
-November 2026. [@1,4,9,10,11,12,13,14,15,16] Several of the arrested people were from the Sacramento area. [@13] Those arrested ranged in age from 19 to 83. [@10,11,12,15] Several of those arrested were from the Sacramento area. [@5] Of the 62 people, 34 were from Yuba City, 14 from Sacramento, six from Chico, three from Live Oak, and one each from Woodland, Hamilton City, Elk Grove, Colusa and Olivehurst. [@10] The raid targeted multiple industrial warehouses on
+November 2026. [@1,4,9,10,11,12,13,14,15,16,18] Several of the arrested people were from the Sacramento area. [@13] Those arrested ranged in age from 19 to 83. [@10,11,12,15] Several of those arrested were from the Sacramento area. [@5] Of the 62 people, 34 were from Yuba City, 14 from Sacramento, six from Chico, three from Live Oak, and one each from Woodland, Hamilton City, Elk Grove, Colusa and Olivehurst. [@10] The raid targeted multiple industrial warehouses on
 Contractors Lane in Chico, California, under a search warrant obtained by the
-Butte County Sheriff's Office. [@2,3,7,12,13,14] The warrant was served on Tuesday, 17
+Butte County Sheriff's Office. [@2,3,7,12,13,14,18] The warrant was served on Tuesday, 17
 November 2026, by BCSO detectives from the Butte Interagency Narcotics Task
 Force, two Bureau of Land Management agents and a detective from the California
 Department of Cannabis Control. [@1,6,7,9,12,15,16] The investigation began earlier in 2026, when the sheriff’s office’s Special Enforcement Unit started assisting the Bureau of Land Management. [@6,7,16]
 
 Detectives found 62 people at the warehouses and multiple warehouses containing
-marijuana in various stages of processing. [@1,4,5,6,7,10,13,14] Most were listed as facing charges of cultivating marijuana, several also faced charges of possessing marijuana for sale, and one was additionally charged with smuggling a controlled substance into a jail or prison and with possessing a controlled substance. [@10,11] Two of those arrested, both Chico residents, also faced allegations of possessing marijuana for sale. [@12] Investigators said large
+marijuana in various stages of processing. [@1,4,5,6,7,10,13,14,18] Most were listed as facing charges of cultivating marijuana, several also faced charges of possessing marijuana for sale, and one was additionally charged with smuggling a controlled substance into a jail or prison and with possessing a controlled substance. [@10,11] Two of those arrested, both Chico residents, also faced allegations of possessing marijuana for sale. [@12] Investigators said large
 quantities of marijuana were being processed at the warehouse using hemp
-processing as a cover. [@1,6,8,9,10,11,12,13,14,15,17] Testing found that the product was marijuana, not
-hemp. [@1,4,6,7,9,11,12,14,15,16] Detectives said about 235,661 pounds (roughly 106,894 kg) of
-marijuana were at the warehouses. [@1,4,6,7,9,10,11,12,13,14,15,17] They spent three days processing evidence
+processing as a cover. [@1,6,8,9,10,11,12,13,14,15,17,18] Testing found that the product was marijuana, not
+hemp. [@1,4,6,7,9,11,12,14,15,16,18] Detectives said about 235,661 pounds (roughly 106,894 kg) of
+marijuana were at the warehouses. [@1,4,6,7,9,10,11,12,13,14,15,17,18] They spent three days processing evidence
 and removing the marijuana, which detectives estimated had a street value of
-approximately $282,793,200. [@1,4,6,7,9,10,11,12,13,14,15] The sheriff's office said the investigation remained ongoing. [@9,15]
+approximately $282,793,200. [@1,4,6,7,9,10,11,12,13,14,15,18] The sheriff's office said the investigation remained ongoing. [@9,15,18]
