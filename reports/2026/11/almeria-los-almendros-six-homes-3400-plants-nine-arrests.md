@@ -84,6 +84,11 @@ media:
     media_url: https://image.ondacero.es/clipping/cmsimages02/2026/11/19/B2FE402B-C2FA-4BB9-8C04-9DF4F1C4E66E/operacion-antidroga-almendros-desmantela-60-enganches-ilegales-luz_214.jpg?crop=1600,900,x0,y154&width=955&height=537&format=avif&quality=65
     publisher: Onda Cero
     caption: 'The anti-drug operation in Los Almendros that dismantled 60 illegal power hook-ups. Photo: Policía Nacional'
+  - kind: photo
+    url: https://www.lavozdealmeria.com/almeria/sucesos/709148/andalucia-almeria-sucesos-operacion-antidroga-almendros-acaba-60-enganches-irregulares-red-electrica.html
+    media_url: https://imagenes.lavozdealmeria.com/files/image_media_main_desktop/uploads/2026/11/19/6afebe463566c.jpeg
+    publisher: La Voz de Almería
+    caption: Police action against marijuana cultivation in the Los Almendros neighbourhood in Almería.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 85ecbf2e9baaee6df34f493c7377c8aa
@@ -138,25 +143,30 @@ sources:
     publisher: Onda Cero
     date: 2026-11-19
     language: es
+  - title: La operación antidroga en Los Almendros acaba con 60 enganches irregulares a la red eléctrica
+    url: https://www.lavozdealmeria.com/almeria/sucesos/709148/andalucia-almeria-sucesos-operacion-antidroga-almendros-acaba-60-enganches-irregulares-red-electrica.html
+    publisher: La Voz de Almería
+    date: 2026-11-19
+    language: es
 ---
 
 Spain's Policía Nacional arrested nine people on the morning of 18 November 2026
-in Los Almendros, a neighbourhood of Almería. [@1,4] All nine detainees were
+in Los Almendros, a neighbourhood of Almería. [@1,4] The nine detainees remained in police custody on 19 November while investigators completed the proceedings, before they were to be handed to the judicial authority. [@11] All nine detainees were
 Spanish nationals. [@1,4,9] Officers entered and searched six homes in the
-neighbourhood that were being used to grow cannabis. [@1,4,5,6,7,8,9] The operation, named
+neighbourhood that were being used to grow cannabis. [@1,4,5,6,7,8,9,11] The operation, named
 Especia, was directed by Grupo 2 of the UDYCO Alborán, the drug and
 organised-crime unit of the Provincial Police Station in Almería. [@1] It formed
 part of the police station's response plan for barrios tensionados, a programme
-for high-tension neighbourhoods. [@2,5,6,7,10]
+for high-tension neighbourhoods. [@2,5,6,7,10,11]
 
-Police seized 3,400 marijuana plants. [@1,4,5,6,7,8,9,10] The Provincial Police Station put the
+Police seized 3,400 marijuana plants. [@1,4,5,6,7,8,9,10,11] The Provincial Police Station put the
 weight of the plants seized at about 200 kilograms. [@1,5,7,8] The haul included
-marijuana being dried, buds and hashish. [@1,5,6,7,8,9] The weight was a first estimate
-calculated by the operation itself. [@3,5,6] Officers also seized a short firearm, 9
-mm Parabellum ammunition and 4,000 euros in cash. [@1,4,5,9] They took away equipment
-used to grow the drug. [@1,5,8]
+marijuana being dried, buds and hashish. [@1,5,6,7,8,9,11] The weight was a first estimate
+calculated by the operation itself. [@3,5,6,11] Officers also seized a short firearm, 9
+mm Parabellum ammunition and 4,000 euros in cash. [@1,4,5,9,11] They took away equipment
+used to grow the drug. [@1,5,8,11]
 
 Endesa technicians were brought in to disconnect the illegal hook-ups that
-supplied electricity to the grows, police sources said. [@1,5,9] Officers detected and neutralised 60 illegal hook-ups to the power grid, and Endesa technicians removed about 60 metres of cable from fraudulent connections in Alegría and Albahaca streets. [@10] The Policía Local,
+supplied electricity to the grows, police sources said. [@1,5,9,11] Officers detected and neutralised 60 illegal hook-ups to the power grid, and Endesa technicians removed about 60 metres of cable from fraudulent connections in Alegría and Albahaca streets. [@10,11] The Policía Local,
 the city's municipal police, helped draw up demolition files for illegal
-constructions found during the operation. [@1,4,5,6,7,8,9,10]
+constructions found during the operation. [@1,4,5,6,7,8,9,10,11]
