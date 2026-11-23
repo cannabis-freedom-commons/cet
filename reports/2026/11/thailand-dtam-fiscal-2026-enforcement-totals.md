@@ -49,6 +49,10 @@ sources:
     url: https://www.nationthailand.com/news/general/40073763
     publisher: The Nation
     date: 2026-11-21
+  - title: Thailand revoked 24 cannabis shop licences and suspended 105 during fiscal 2026
+    url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/thailand-revoked-24-cannabis-shop-licences-and-suspended-105-during-fiscal-2026
+    publisher: The Star
+    date: 2026-11-21
 open_questions:
   - The 10,584.9 kg is described as cannabis and related material; no breakdown by product or by case is given.
   - The figures cover the fiscal year from October 2025 to September 2026, and 21 November 2026 is the date of the announcement.
@@ -61,14 +65,14 @@ open_questions:
 
 Thailand's Department of Thai Traditional and Alternative Medicine revoked 24
 cannabis shop licences and suspended 105 in the 2026 fiscal year, which ran from
-October 2025 to September 2026. [@1] The department said its officers arrested
-and prosecuted 70 people over the year. [@2]
+October 2025 to September 2026. [@1,3] The department said its officers arrested
+and prosecuted 70 people over the year. [@2,3]
 
 Across 95 enforcement operations, officials seized or impounded 10,584.9 kg of
-cannabis and related material. [@2] The Medical Cannabis Division estimated the
-economic damage from the cases at 223.5 million baht. [@2] Bangkok has 1,710
-licensed cannabis premises, the most in the country. [@2] Officers had inspected
-1,437 of them, or 84.04%, and planned to check the remaining 273. [@1]
+cannabis and related material. [@2,3] The Medical Cannabis Division estimated the
+economic damage from the cases at 223.5 million baht. [@2,3] Bangkok has 1,710
+licensed cannabis premises, the most in the country. [@2,3] Officers had inspected
+1,437 of them, or 84.04%, and planned to check the remaining 273. [@1,3] On 16 September, the division checked six premises in Bangkok's Watthana district after residents raised concerns through the city's Traffy Fondue reporting platform, and said it would refer its findings to the licensing authority. [@3]
 
 The department said inspections would expand nationwide in fiscal 2027, checking
 whether businesses meet the conditions of their licences to sell or process
@@ -77,4 +81,3 @@ would get particular attention, along with public complaints needing follow-up.
 [@2] The Public Health Ministry says it aims to keep cannabis use within the
 legal framework for medical purposes, prevent misuse and protect public health.
 [@2]
-
