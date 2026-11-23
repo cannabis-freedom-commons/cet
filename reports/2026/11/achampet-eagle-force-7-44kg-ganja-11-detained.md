@@ -47,6 +47,11 @@ media:
     media_url: https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-499ccda9-4913-416c-af2f-033b4bb3d474.jpg
     publisher: Asianet Newsable
     caption: 'Photograph published with the ANI report on the EAGLE Force and Achampet police ganja bust. Photo: ANI'
+  - kind: photo
+    url: https://www.eenadu.net/telugu-news/districts/mahbubnagar-news/532/126212590
+    media_url: https://assets.eenadu.net/article_img/MBN%20211126%20-2A.webp
+    publisher: Eenadu
+    caption: 'Deputy superintendent of police Srinivas with the men detained in the Achampet ganja case. Photo: Eenadu'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 280aa1f120d10a80aee0f022ef6e5b2b
@@ -85,8 +90,14 @@ sources:
     publisher: V6 Velugu
     date: 2026-11-21
     language: te
+  - title: అక్రమార్కులకు పైకం..యువతకు మైకం
+    url: https://www.eenadu.net/telugu-news/districts/mahbubnagar-news/532/126212590
+    publisher: Eenadu
+    date: 2026-11-22
+    language: te
 open_questions:
-    - What happened to the Chhattisgarh case in which Rasool Basha was arrested with the earlier 16 kg consignment is not reported.
+    - Whether the earlier Chhattisgarh ganja case ended in a conviction after Rasool Basha's release from jail is not reported.
+    - Eenadu places Rasool Basha's earlier ganja arrest in Jharkhand, while police accounts of this arrest place it in Chhattisgarh.
     - One account gives the cash seized as about 21,000 rupees; the itemised seizure list gives 21,640 rupees.
 ---
 
@@ -96,9 +107,9 @@ superintendent of police said at a press conference on Saturday. [@4] The
 operation was carried out by EAGLE Force, Telangana's dedicated
 drug-law-enforcement unit, together with Achampet Town Police. [@2,3,5] The team had
 monitored the town for several months because of increasing ganja consumption
-among young people in Achampet and neighbouring villages. [@2] The surveillance was led by N. Buchaiah, a deputy superintendent of police with EAGLE Force's Regional Narcotics Control Cell in Mahabubnagar. [@6] The two sellers
+among young people in Achampet and neighbouring villages. [@2] Police said they had increased surveillance of ganja sales and supply and set up teams to identify and raid sale points. [@8] The two men had planned the sales together and aimed them at students and young people under 25. [@8] The surveillance was led by N. Buchaiah, a deputy superintendent of police with EAGLE Force's Regional Narcotics Control Cell in Mahabubnagar. [@6] The two sellers
 were identified as Md Rasool Basha, 26, and Puttasaga Rajesh, 26, taken into
-custody near the new bus stand. [@1,7]
+custody near the new bus stand. [@1,7,8] Rasool Basha had come out of jail about five months before this arrest and had gone back to selling ganja. [@8]
 
 Officers seized 7.440 kg of ganja, 21,640 rupees in cash, a Pulsar motorcycle,
 three mobile phones, a packing machine and a weighing machine, police said. [@1,7]
