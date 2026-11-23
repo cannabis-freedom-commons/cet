@@ -100,24 +100,25 @@ sources:
     publisher: جريدة البلاد
     date: 2026-11-22
     language: ar
+  - title: سوريا تعلن إتلاف كميات كبيرة من المخدرات بينها 400 مليون حبة كبتاغون
+    url: https://www.albayan.ae/news/middle-east/syria/1566841
+    publisher: البيان
+    date: 2026-11-22
+    language: ar
 open_questions:
-  - The statements do not name the site of the destruction; the photographs published with them are captioned Damascus on 22 November 2026.
-  - No count of cannabis plants was given; the 2.3 tonnes of cannabis plant is reported by weight only.
-  - The statement does not identify the 5.4 million additional narcotic pills by substance.
-  - The destruction was carried out in batches and the statements do not say whether it began before Sunday 22 November.
-  - No arrests, suspects, charges or court cases were reported with the destruction; the operations that produced the drugs are not dated or located.
-  - All accounts rest on the Anti-Narcotics Directorate's statement, carried by SANA and repeated by Asharq Al-Awsat and other outlets; no independent verification of the quantities was published.
+    - No figure was published for the value of the destroyed hashish or cannabis plant.
+    - The destroyed batches were said to have been seized in recent separate operations, and no breakdown by date or place was given.
 ---
 
 Syria's Anti-Narcotics Directorate announced on Sunday 22 November 2026 that a
 joint committee of the interior, justice and health ministries had destroyed
-large quantities of narcotics and psychotropic substances. [@1,5,6,9] The drugs had been seized by security forces in successive operations. [@5,6,8,9] The quantities
+large quantities of narcotics and psychotropic substances. [@1,5,6,9,10] The drugs had been seized by security forces in successive operations. [@5,6,8,9] The quantities
 were destroyed in batches under approved legal and environmental procedures.
 [@4] The directorate described the destruction as reflecting integrated national
 efforts against drugs. [@2]
 
 The destroyed material included 12.2 tonnes of hashish and 2.3 tonnes of
-cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9] The same batches included
+cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10] The same batches included
 400 million Captagon pills, 6 kilograms of heroin and 5.4 million other narcotic
 pills, none of which is counted as cannabis. [@3,5,6,8,9] The directorate also destroyed
 equipment and chemicals used to smuggle, conceal, transport and manufacture the
