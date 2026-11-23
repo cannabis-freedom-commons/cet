@@ -87,28 +87,33 @@ sources:
     publisher: Elonce.com
     date: 2026-08-09
     language: es
+  - title: Incautaron más de una tonelada de marihuana tras detectar una lancha que cruzó desde Paraguay
+    url: https://lagacetaonline.com.ar/policiales/incautaron-mas-de-una-tonelada-de-marihuana-tras-detectar-una-lancha-que-cruzo-desde-paraguay/
+    publisher: LaGACETA online
+    date: 2026-08-09
+    language: es
 ---
 
 Prefectura Naval Argentina officers seized 1,059 kilograms of marijuana in a
 procedure in the city of Posadas, a case under Argentina's narcotics law, Law
-23,737. [@1,4] The Security Ministry gave no arrest: the load alone was taken, and
+23,737. [@1,4,5] The Security Ministry gave no arrest: the load alone was taken, and
 the Federal Prosecutor's Office No. 2 in Posadas ordered it seized and held by
-the federal court. [@1,4]
+the federal court. [@1,4,5]
 
 The operation began in the early hours, when officers using a thermal camera
 detected a motorboat crossing from the Paraguayan bank toward Argentina and
 heading into the Arroyo Itaembé, a stream, at kilometre 1,567 of the Paraná
-River. [@1,4] Officers swept the area and found 40 bundles hidden in the
-vegetation holding packages consistent with narcotics. [@1,4] A field narcotics
-test at the Prefectura unit was positive for Cannabis sativa, marijuana. [@1,4]
+River. [@1,4,5] Officers swept the area and found 40 bundles hidden in the
+vegetation holding packages consistent with narcotics. [@1,4,5] A field narcotics
+test at the Prefectura unit was positive for Cannabis sativa, marijuana. [@1,4,5]
 
 The load held 31 bundles with 1,154 pressed bricks weighing 955.20 kilograms and
-nine bundles with 104 packages of buds weighing 104.50 kilograms. [@1,4] The
+nine bundles with 104 packages of buds weighing 104.50 kilograms. [@1,4,5] The
 authorities valued the marijuana at 3,306,267,000 pesos, using the ARCA customs
-reference valuation and the day's official dollar rate. [@1,4]
+reference valuation and the day's official dollar rate. [@1,4,5]
 
 El Territorio reported that Prefectura ran the operation under the
 border-control tasks set by the National Security Ministry and named it "A
-orillas del Itaembé". [@2] The Misiones outlet Noticias de la Calle reported the
+orillas del Itaembé". [@2,5] The Misiones outlet Noticias de la Calle reported the
 operation as starting "during the early hours of yesterday" in its account
 published on 9 August. [@3]
