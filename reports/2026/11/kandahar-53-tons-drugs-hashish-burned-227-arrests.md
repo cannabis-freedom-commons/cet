@@ -40,24 +40,27 @@ sources:
     url: https://english.news.cn/20261111/b2237cb5940742a1a0bc5cb9c50ee74e/c.html
     publisher: Xinhua
     date: 2026-11-11
+  - title: Afghan police seize nearly one ton of illegal drugs
+    url: https://www.socialnews.xyz/2026/11/22/afghan-police-seize-nearly-one-ton-of-illegal-drugs/
+    publisher: SocialNews.XYZ
+    date: 2026-11-22
 open_questions:
-  - No separate weight for the hashish within the 53-ton mixed total was published, so no cannabis quantity is recorded and the combined total is not counted as cannabis.
-  - The 227 arrests cover involvement in the overall drug trade during the period, not cannabis specifically.
-  - No court outcome, charges beyond involvement in the drug trade, or identities of those arrested were reported.
-  - Both accounts reproduce the same provincial police statement via Xinhua, so they are not independent reporting.
+    - No separate weight for the hashish within the 53-ton mixed total was published, so no cannabis quantity is recorded and the combined total is not counted as cannabis.
+    - The 227 arrests cover involvement in the overall drug trade during the period, not cannabis specifically.
+    - No court outcome, charges beyond involvement in the drug trade, or identities of those arrested were reported.
+    - All the accounts reproduce the same provincial police statement via Xinhua, so they are not independent reporting.
 ---
 
 Afghan authorities burned more than 53 tons of seized illegal drugs in Kandahar
 Province on 11 November 2026, according to provincial police spokesman Mullah
-Assadullah Jamshid. [@1] Police arrested 227 people on charges of involvement in
-the drug trade over the same three-month period. [@1]
+Assadullah Jamshid. [@1,3] Police arrested 227 people on charges of involvement in
+the drug trade over the same three-month period. [@1,3]
 
 The burned contraband included opium, heroin, methamphetamine and hashish, plus
-other substances and materials used in drug production. [@1] The drugs had been
+other substances and materials used in drug production. [@1,3] The drugs had been
 seized over the previous three months in operations across different districts.
-[@2]
+[@2,3]
 
 The drugs were publicly burned at a ceremony attended by government officials
-and tribal elders. [@1] Jamshid warned that strict action would be taken against
-anyone involved in producing or trafficking illegal drugs in the province. [@1]
-
+and tribal elders. [@1,3] Jamshid warned that strict action would be taken against
+anyone involved in producing or trafficking illegal drugs in the province. [@1,3]
