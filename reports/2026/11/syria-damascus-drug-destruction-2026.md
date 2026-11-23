@@ -1,0 +1,104 @@
+---
+code: 8K6WYV
+added_at: "2026-11-23T06:09:47.271761Z"
+date: 2026-11-22
+country: sy
+place: Damascus, Syria
+coordinates: [33.5138, 36.2765]
+precision: locality
+type: seizure
+title: Syria destroys 12.2 tonnes of hashish and 400 million Captagon pills
+summary: >-
+  Syria's Anti-Narcotics Directorate said a joint committee of three ministries destroyed 12.2 tonnes of hashish and 2.3 tonnes of cannabis plant on 22 November 2026. The same batch included 400 million Captagon pills and 6 kg of heroin, which the interior minister called one of the largest destructions since Assad's fall.
+figures:
+  kg_seized: 14500
+details:
+  agencies: [Syria's Anti-Narcotics Directorate]
+  agency_types: [anti-narcotics, other]
+  products:
+    - {product: hashish, kg: 12200}
+    - {product: plants, kg: 2300}
+  date_precision: exact
+  region: Damascus
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://sana.sy/locals/2641818/
+    media_url: https://cdn.sananews.sy/2026/11/photo_2_2026-11-22_11-06-43-860x573.jpg
+    publisher: الوكالة العربية السورية للأنباء (سانا)
+    caption: 'Anti-Narcotics Directorate officers destroying seized narcotics and psychotropic substances in Damascus on 22 November 2026. Photo: SANA'
+  - kind: photo
+    url: https://sana.sy/locals/2641818/
+    media_url: https://cdn.sananews.sy/2026/11/photo_10_2026-11-22_11-06-45.jpg
+    publisher: الوكالة العربية السورية للأنباء (سانا)
+    caption: 'Another photograph from the destruction of seized narcotics in Damascus on 22 November 2026. Photo: SANA'
+  - kind: photo
+    url: https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5344315-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%AA%D9%84%D8%A7%D9%81-%D8%A3%D9%83%D8%A8%D8%B1-%D9%83%D9%85%D9%8A%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D9%86%D8%B0-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF
+    media_url: https://static.srpcdigital.com/styles/1037xauto/public/2026-11/1888005.jpeg.webp?VersionId=mEcF5sgbTI3eGWKp5GDSQAhUWgaj5VFZ
+    publisher: الشرق الأوسط
+    caption: 'A worker of Syria''s Anti-Narcotics Directorate during the destruction of seized drugs, in a photograph published by the directorate. Photo: Anti-Narcotics Directorate via Asharq Al-Awsat'
+  - kind: photo
+    url: https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5344315-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%AA%D9%84%D8%A7%D9%81-%D8%A3%D9%83%D8%A8%D8%B1-%D9%83%D9%85%D9%8A%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D9%86%D8%B0-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF
+    media_url: https://static.srpcdigital.com/2026-11/1888006.jpeg?VersionId=olj6nN3_2dg7lQTtrCKDBtN95xUkkc62
+    publisher: الشرق الأوسط
+    caption: 'Some of the narcotics destroyed by Syria''s Anti-Narcotics Directorate on 22 November 2026. Photo: Anti-Narcotics Directorate via Asharq Al-Awsat'
+status: verified
+created_by_model: swancloud/deepseek-v4.1-flash#max
+submission: 58eedc046fa120c14fd1e1dffaf83932
+tags: [syria, damascus, hashish, captagon, drug-destruction]
+sources:
+  - title: سوريا تتلف 400 مليون حبة كبتاغون وأكثر من 12 طناً من الحشيش و6 كيلو هيروين ...الكويت
+    url: https://arabic.pressbee.net/show11135721.html?title=%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AA%D9%84%D9%81-400-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AD%D8%A8%D8%A9-%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%88%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-12-%D8%B7%D9%86%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%886-%D9%83%D9%8A%D9%84
+    publisher: برس بي
+    date: 2026-11-22
+    language: ar
+  - title: بإشراف لجنة مشتركة من عدة وزارات.. إتلاف كميات ضخمة من المواد المخدرة
+    url: https://sana.sy/locals/2641818/
+    publisher: الوكالة العربية السورية للأنباء (سانا)
+    date: 2026-11-22
+    language: ar
+  - title: سوريا تعلن إتلاف كميات كبيرة من المخدرات بينها 400 مليون حبة كبتاغون
+    url: https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5344247-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%AA%D9%84%D8%A7%D9%81-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86%D9%87%D8%A7-400-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AD%D8%A8%D8%A9
+    publisher: الشرق الأوسط
+    date: 2026-11-22
+    language: ar
+  - title: دمشق تعلن إتلاف أكبر كمية مخدرات منذ سقوط الأسد
+    url: https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5344315-%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%AA%D9%84%D8%A7%D9%81-%D8%A3%D9%83%D8%A8%D8%B1-%D9%83%D9%85%D9%8A%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D9%86%D8%B0-%D8%B3%D9%82%D9%88%D8%B7-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF
+    publisher: الشرق الأوسط
+    date: 2026-11-22
+    language: ar
+open_questions:
+  - The statements do not name the site of the destruction; the photographs published with them are captioned Damascus on 22 November 2026.
+  - No count of cannabis plants was given; the 2.3 tonnes of cannabis plant is reported by weight only.
+  - The statement does not identify the 5.4 million additional narcotic pills by substance.
+  - The destruction was carried out in batches and the statements do not say whether it began before Sunday 22 November.
+  - No arrests, suspects, charges or court cases were reported with the destruction; the operations that produced the drugs are not dated or located.
+  - All accounts rest on the Anti-Narcotics Directorate's statement, carried by SANA and repeated by Asharq Al-Awsat and other outlets; no independent verification of the quantities was published.
+---
+
+Syria's Anti-Narcotics Directorate announced on Sunday 22 November 2026 that a
+joint committee of the interior, justice and health ministries had destroyed
+large quantities of narcotics and psychotropic substances. [@1] The quantities
+were destroyed in batches under approved legal and environmental procedures.
+[@4] The directorate described the destruction as reflecting integrated national
+efforts against drugs. [@2]
+
+The destroyed material included 12.2 tonnes of hashish and 2.3 tonnes of
+cannabis plant, 14.5 tonnes of cannabis in all. [@1] The same batches included
+400 million Captagon pills, 6 kilograms of heroin and 5.4 million other narcotic
+pills, none of which is counted as cannabis. [@3] The directorate also destroyed
+equipment and chemicals used to smuggle, conceal, transport and manufacture the
+drugs. [@1]
+
+Interior Minister Anas Khattab said the quantities were among the largest
+destroyed since Bashar al-Assad's government fell in December 2024. [@4]
+Captagon production and trafficking grew during Syria's conflict, and under
+Assad the country became a main manufacturing and export centre for the pills,
+sent to the Gulf through Jordan and Lebanon. [@3] Since Assad's overthrow the
+new authorities have repeatedly announced seizures and foiled smuggling of
+hashish and Captagon on the Lebanese and Jordanian borders. [@3]
+
