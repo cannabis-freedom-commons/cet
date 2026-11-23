@@ -60,21 +60,26 @@ sources:
     publisher: Matin Libre
     date: 2026-10-02
     language: fr
+  - title: 'Bénin : un quinquagénaire interpellé avec 5,4 kg de cannabis présumé'
+    url: https://lanouvelletribune.info/2026/09/benin-un-quinquagenaire-interpelle-avec-54-kg-de-cannabis-presume/
+    publisher: La Nouvelle Tribune
+    date: 2026-09-30
+    language: fr
 ---
 
 Police from Cotonou's 11th arrondissement arrested a man in his 50s at about
 8 p.m. on 29 September 2026, as he came to collect a parcel at a transport
 company's office. Officers had received information about a suspicious
-delivery and waited for the intended recipient. [@1,2]
+delivery and waited for the intended recipient. [@1,2,3]
 
 The man arrived to collect a sack containing ten yellow-tape-wrapped bundles.
 When police opened the package, it held 5.4 kg of dried plant material that
 officers described as suspected cannabis. The reports give no laboratory
-identification. [@1,2]
+identification. [@1,2,3]
 
 During questioning, the man said the package had come from Balanka in Togo,
 passed through Bassila in Benin and was left with an intermediary for onward
-transport to Cotonou. [@1,2]
+transport to Cotonou. [@1,2,3] The suspect admitted his involvement in the transaction over the consignment, according to his statements to investigators. [@3]
 
 He was placed in police custody, and the seized material was handed to
-specialist Republican Police services while the investigation continued. [@1,2]
+specialist Republican Police services while the investigation continued. [@1,2,3] Investigators had not established the involvement of anyone else in the case. [@3]
