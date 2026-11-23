@@ -126,6 +126,11 @@ sources:
     archived: https://web.archive.org/web/20260313204452/https://www.occrp.org/en/news/record-40-tonne-cannabis-haul-found-in-north-macedonia
     publisher: OCCRP
     date: 2026-02-09
+  - title: Prosecutor's Office in Skopje also probe five-ton marijuana seizure in Serbia
+    url: https://europeanwesternbalkans.com/2026/02/03/prosecutors-office-in-skopje-also-probe-five-ton-marijuana-seizure-in-serbia/
+    publisher: European Western Balkans
+    date: 2026-02-03
+    language: en
 place: Konjuh, Kruševac
 coordinates:
   - 43.6432
@@ -153,39 +158,14 @@ media:
 tags:
   - krusevac
   - record
-open_questions:
-  - >-
-    News coverage dated 22 July refers to the indictment as filed on Tuesday, 21 July. The report uses
-    the date of the public announcement.
-  - >-
-    Two people were reported arrested at the time of the January seizure. By July four defendants were in
-    detention and a fifth had been arrested in Austria.
-  - >-
-    The alleged organiser’s surname is rendered as Mijajlovic or Mihailovic, and the Belgrade courier’s
-    as Mladenovski or Miladenovski.
-  - >-
-    The indictment refers to 8,832 kilograms procured, while the Macedonian plea deals describe 8,040
-    kilograms transported across five shipments. The destination of the cannabis beyond the roughly five
-    tonnes seized in Konjuh was not established.
-  - Accounts differ on the timing of the January transport that caught fire near Novi Sad.
-  - >-
-    It is unclear whether the roughly 100 kilograms taken to Belgrade were included in the Konjuh seizure
-    figure.
-  - >-
-    The outcome for the six defendants in the Serbian case, the fugitive’s whereabouts and the outcome of
-    the extradition request were not reported.
-  - >-
-    The police and government had not responded to the officers’ account of their reassignment in the
-    sources reviewed.
-  - >-
-    North Macedonia’s Interior Ministry did not identify the person arrested in Serbia or the Skopje
-    company in its February statement.
 ---
 
 Serbia’s organised-crime prosecutor announced indictments against six people on 22 July 2026, alleging they transported nearly five tonnes of cannabis from North Macedonia and stored and repackaged it at premises in Konjuh, near Kruševac. [@5,6,11] Four defendants were in custody, a fifth had been arrested in Austria pending an extradition request, and one was sought under arrest warrants. [@5]
 
-Police raided an agricultural business in Konjuh on 29 January and seized about five tonnes of marijuana, four assault rifles and an anti-tank rocket launcher. [@1,3,4,5,9] Interior Minister Ivica Dačić announced two arrests and estimated the drugs’ value at €7–10 million. [@1,3,12,13] Belgrade’s Higher Public Prosecutor said on 6 February that the Konjuh seizure grew out of its separate investigation into the [two-tonne seizure in Zemun](/report/serbia-zemun-cannabis-seizure-2025/) and questioned when the organised-crime prosecutor had become involved. [@2]
+Police raided an agricultural business in Konjuh on 29 January and seized about five tonnes of marijuana, four assault rifles and an anti-tank rocket launcher. [@1,3,4,5,9,14] Among those arrested was a local official of Serbia's ruling Serbian Progressive Party, on whose property the cannabis was discovered on 29 January. [@14] Interior Minister Ivica Dačić announced two arrests and estimated the drugs’ value at €7–10 million. [@1,3,12,13] Belgrade’s Higher Public Prosecutor said on 6 February that the Konjuh seizure grew out of its separate investigation into the [two-tonne seizure in Zemun](/report/serbia-zemun-cannabis-seizure-2025/) and questioned when the organised-crime prosecutor had become involved. [@2]
 
 Prosecutors allege the group used the licensed Skopje firm Alfapharm Group to conceal the shipment and procured 8,832 kilograms of dried cannabis from a supplier in Strumica in November 2025. [@5,7] They say the group used textile-export paperwork to move the cargo, and that police later arrested a courier who took about 100 kilograms from the warehouse to Belgrade. [@5,6,9] North Macedonia’s Interior Ministry said one person apprehended in Serbia was part of the ownership structure of a Skopje business under investigation. [@10,11]
 
 In related proceedings in Skopje, Dragan Stojanov and Aleksandar Ivanovski received prison terms of three years and six months and three years and eight months respectively. [@7] Their plea deals describe five transports totalling 8,040 kilograms. [@8] Ivanovski admitted setting one truck on fire. [@7] Officers later told the Serbian prime minister that 15 members of the Konjuh police team had been removed from their posts. [@9]
+
+The Skopje Prosecutor's Office opened a case and said concrete, targeted and coordinated measures were under way to establish North Macedonia's possible connection to the seizure. [@14] The North Macedonian Prosecutor's Office said it was informed a day after the Konjuh operation and reported intensive and continuous communication and an active exchange of information with Serbian institutions. [@14]
