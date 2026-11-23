@@ -63,27 +63,33 @@ sources:
     publisher: L'Unione Sarda
     date: 2026-11-21
     language: zh
+  - title: In cantina 700 grammi di cocaina e 200 di hashish, arrestato
+    url: https://www.ansa.it/sardegna/notizie/2026/11/21/in-cantina-700-grammi-di-cocaina-e-200-di-hashish-arrestato_977e517d-5f47-409c-b81c-8b835084205b.html
+    publisher: Agenzia ANSA
+    date: 2026-11-21
+    language: it
 open_questions:
-  - 'The hashish weight differs between accounts: L''Unione Sarda reports 220 grams, La Nuova Sardegna more than 240 grams in its text and 270 grams in its headline; the report uses 220 grams.'
-  - The suspect's age is given as 54 by L'Unione Sarda and by La Nuova Sardegna's headline, but as 56 in La Nuova Sardegna's text.
-  - La Nuova Sardegna places the check on the previous evening, implying 20 November 2026; L'Unione Sarda gives only its 21 November publication date.
-  - No court outcome beyond a validation hearing expected on Monday or Tuesday was reported.
+    - 'The hashish weight differs between accounts: L''Unione Sarda reports 220 grams, La Nuova Sardegna more than 240 grams in its text and 270 grams in its headline, and ANSA more than 200 grams; the report uses 220 grams.'
+    - The suspect's age is given as 54 by L'Unione Sarda and by La Nuova Sardegna's headline, but as 56 in La Nuova Sardegna's text and by ANSA.
+    - La Nuova Sardegna places the check on the previous evening, implying 20 November 2026; L'Unione Sarda gives only its 21 November publication date.
+    - ANSA places the street check in Cagliari's San Michele district, while other accounts place the stop in Is Mirrionis.
+    - No court outcome beyond a validation hearing expected on Monday or Tuesday was reported.
 ---
 
 A routine check by the Flying Falcons unit of Cagliari's state police mobile
 team led officers to one of the largest drug finds in the city in recent months.
-[@1,3] Diego Fiorillo, 54, was arrested. [@1,3] Officers stopped Fiorillo during an
+[@1,3,4] Diego Fiorillo, 54, was arrested. [@1,3] He was arrested on suspicion of possessing drugs for dealing. [@4] Officers stopped Fiorillo during an
 evening check in Is Mirrionis and said he appeared agitated and nervous. [@2] He
 admitted hiding a dose of cocaine in his underwear and handed over the packet
-voluntarily. [@1]
+voluntarily. [@1] The man told officers that a large quantity of drugs was kept inside the cellar. [@4]
 
 Officers seized 720 grams of cocaine and 220 grams of hashish from the garage in
-Is Mirrionis. [@1,3] His van held keys and a remote control for a cellar in Via
-Buggerru, documents for its use and 870 euros in cash. [@1,3] Inside the cellar
+Is Mirrionis. [@1,3,4] His van held keys and a remote control for a cellar in Via
+Buggerru, documents for its use and 870 euros in cash. [@1,3,4] Inside the cellar
 officers found numerous vacuum-packed cocaine portions, already sorted and
-individually labelled. [@1,3] The vacuum-packed cocaine was found in a safe, in cardboard boxes and on shelves. [@3] The cellar also held precision scales, a
+individually labelled. [@1,3] Some of the cocaine packages weighed more than 100 grams each. [@4] The vacuum-packed cocaine was found in a safe, in cardboard boxes and on shelves. [@3] The cellar also held precision scales, a
 vacuum-packing machine, bags, plastic offcuts and knives considered useful for
-drug dealing. [@2] La Nuova Sardegna reported more than 240 grams of hashish,
+drug dealing. [@2,4] La Nuova Sardegna reported more than 240 grams of hashish,
 divided into several blocks and fragments, some labelled by product quality.
 [@2]
 
