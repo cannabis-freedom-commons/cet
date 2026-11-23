@@ -42,6 +42,10 @@ sources:
     url: https://patch.com/california/los-angeles/15-39m-worth-cannabis-seized-illegal-la-grow-operation-state
     publisher: Patch
     date: 2024-07-01
+  - title: Sign Mocks CA Shoplifting Problem + Best BBQ + CA Caves On Junk Fees | Across California, CA Patch
+    url: https://patch.com/california/across-ca/sign-mocks-ca-shoplifting-problem-best-bbq-ca-caves-junk-fees
+    publisher: Patch
+    date: 2024-07-06
 open_questions:
   - Only one opened source, the Patch article, reports the seizure; no Department of Cannabis Control statement or second outlet account could be found and opened.
   - The article gives no number of arrests, charges or named suspects from the 25 June 2024 search, and no court outcome.
@@ -57,7 +61,7 @@ The department's Law Enforcement Division carried out the seizure on 25 June
 Officers executed a search warrant at the indoor cultivation site, which stood
 near a school. [@1] They seized 1,008 pounds (about 457 kg) of cannabis flower
 and 16,632 plants, a department spokesperson said. [@1] The department valued
-the cannabis at about $15.39 million. [@1]
+the cannabis at about $15.39 million. [@1,2]
 
 The spokesperson said the transformer attached to the building blew during the
 operation, putting the safety of the officers inside at risk. [@1] The Los
@@ -65,4 +69,3 @@ Angeles Department of Water and Power, the LA School Police Department and city
 fire and code enforcement officials assisted the cannabis officers. [@1] DWP
 disconnected the building's power and the LA Fire Department red-tagged the
 structure, officials said. [@1]
-
