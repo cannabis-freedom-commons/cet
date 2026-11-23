@@ -118,18 +118,21 @@ sources:
     publisher: Thai PBS
     date: 2026-11-22
     language: th
-open_questions:
-    - The Al Jazeera account describes three men arrested in the Guasave raid and gives no death toll, while other sources cited in the report put the total at eight arrested and eleven killed.
+  - title: 'El Chapo Isidro Arrest: డ్రగ్ మాఫియా డాన్ అరెస్టు.. మెక్సికోలో కార్టెల్ బీభత్సం!'
+    url: https://telugu.newsbytesapp.com/news/world/drug-mafia-boss-arrested-cartel-unleashes-terror-in-mexico/story
+    publisher: NewsBytes Telugu
+    date: 2026-11-22
+    language: te
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
 Isidro and listed among the FBI's Ten Most Wanted fugitives, in Guasave,
-Sinaloa, on Friday 20 November 2026. [@2,10,11,12] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11] He led the Beltran Leyva organisation,
+Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14] He led the Beltran Leyva organisation,
 allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12] The operation also
 detained his cousin German, alias Serafin, described as the group's
 second-in-command, and his brother-in-law Jose, its financial operator. [@6]
 Army and National Guard special forces carried out the arrest with US
-intelligence support. [@5,9,10,12,13]
+intelligence support. [@5,9,10,12,13,14]
 
 Eight people were arrested and seven suspected attackers were killed. [@6,12,13] Four
 soldiers travelling to reinforce security in Guasave were also killed, an
@@ -144,7 +147,7 @@ launcher, two hand grenades, ammunition, tactical equipment, drugs and cash.
 US prosecutors charged Meza Flores with leading a continuing criminal
 enterprise, narcoterrorism, money laundering and firearms offences, and with
 conspiracy to manufacture and distribute cocaine, methamphetamine, heroin,
-marijuana and fentanyl for importation into the United States. [@3,10] The FBI's
+marijuana and fentanyl for importation into the United States. [@3,10,14] The FBI's
 wanted notice for him charges conspiracy to distribute one thousand kilograms or
 more of marijuana for importation into the United States. [@4] The FBI said his
 organisation moved large quantities of heroin, methamphetamine, cocaine,
@@ -152,7 +155,7 @@ fentanyl and marijuana into the United States. [@1,12] The US Drug Enforcement A
 arrest warrant for organised crime and offences against health. [@5,10] He was also subject to an extradition order to the United States. [@10] The FBI
 added him to its Ten Most Wanted list on 4 February 2025 and the US State
 Department offered a reward of up to five million dollars for information
-leading to his capture. [@7,10,12]
+leading to his capture. [@7,10,12,14]
 
 After the arrest, Sinaloa reported gunfire, burning vehicles and road blockades,
 and a Pacific League baseball game in Guasave was suspended. [@6,9,10,12] An unverified video circulating overnight appeared to show the detained Meza Flores urging his associates to stand down, warning that children, women and innocent people could be put in harm's way. [@12] Harfuch wrote on X that the detentions were an important step toward restoring peace in Sinaloa. [@10] Security secretary Omar Garcia Harfuch said on Saturday that troops would remain in Sinaloa to protect residents. [@10] Sinaloa's public security agency urged residents to stay indoors, avoid the area and stay off the roads because federal personnel had been attacked in Guasave. [@10] The defence ministry said roadblocks were reported in four areas of Sinaloa after the arrests and security forces were sent to reopen roads. [@10] Meza Flores,
