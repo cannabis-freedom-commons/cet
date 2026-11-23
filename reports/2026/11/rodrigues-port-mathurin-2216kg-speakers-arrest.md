@@ -52,6 +52,11 @@ sources:
     publisher: Defimedia
     date: 2026-11-19
     language: fr
+  - title: 'Cannabis : une filière d’approvisionnement entre Maurice et Rodrigues'
+    url: https://defimedia.info/cannabis-une-filiere-dapprovisionnement-entre-maurice-et-rodrigues
+    publisher: Defimedia
+    date: 2026-11-22
+    language: fr
 open_questions:
     - The plant material was described as cannabis with no laboratory confirmation reported.
     - No court outcome beyond the provisional drug-dealing charge before the Port-Mathurin court was reported.
@@ -59,13 +64,14 @@ open_questions:
     - Sources give the seized weight as 2.2 kg or 2.216 kg.
     - Sources describe either two speakers or two pairs of speakers as dismantled.
     - Sources describe the packaging as either four sealed packets or two parcels each holding four sachets.
+    - 'The parcel''s sender is described differently: one account presents the arrested mason as its presumed sender, while others said a fisherman shipped the goods and paid the freight.'
     - The 12,800 rolling papers are the subject of a separate prohibited-articles case and are excluded from the cannabis figures.
 ---
 
 An Anti-Drug and Smuggling Unit operation uncovered 2.216 kg of cannabis hidden
 in speakers on Tuesday 17 November 2026 at the container park in Port-Mathurin,
 Rodrigues. [@1,2] The seizure led to the arrest of 41-year-old mason Joseph Jean
-Alex Ravina, who lives in Papayes. [@1,2] A 31-year-old fisherman living in
+Alex Ravina, who lives in Papayes. [@1,2,3] A 31-year-old fisherman living in
 Eau-Clair, who allegedly shipped the goods and paid the freight cost to
 Mauritius Shipping, was questioned and then released. [@1,2] Ravina alone was
 arrested for possession of cannabis intended for distribution on suspicion of
@@ -79,4 +85,4 @@ each holding four hermetically sealed sachets. [@1] Inside was a greenish plant
 substance suspected to be cannabis. [@1] The total seized drug was estimated at
 2.216 kg. [@1] The Anti-Drug and Smuggling Unit estimated the market value of the cannabis at Rs 3.5 million. [@2] Eight packets holding 12,800 rolling papers were also found in
 the same container, prompting a separate case for illegal possession of
-prohibited articles. [@1,2]
+prohibited articles. [@1,2,3]
