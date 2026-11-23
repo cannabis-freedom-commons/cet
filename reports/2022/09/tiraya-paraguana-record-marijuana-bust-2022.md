@@ -33,6 +33,11 @@ media:
     media_url: https://spanish.news.cn/20220906/1f7faf04040e454295bbaaf9c8471e5f/c7cfe472942e4985a3cbbf91b536ae5c.jpg
     publisher: Xinhua
     caption: 'Members of Venezuela''s Bolivarian National Armed Forces guarding the seized drug packages on a beach at Cabo San Román, Paraguaná Peninsula, on 5 September 2022. Photo: Xinhua/Marcos Salgado'
+  - kind: photo
+    url: https://diariodelosandes.com/venezuela-decomisa-casi-tres-toneladas-de-marihuana-el-mayor-alijo-en-diez-anos/
+    media_url: https://diariodelosandes.com/wp-content/uploads/2022/09/e41da4871a437ab266a370731cf4f32c4ca77503w-750x422.jpg
+    publisher: Diario de Los Andes
+    caption: 'Venezuelan soldiers with the seized marijuana, described as the largest haul in a decade, in Falcón state. Image: EFE (video capture).'
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [smuggling, trafficking]
@@ -73,14 +78,11 @@ sources:
     publisher: Xinhua (Spanish edition)
     date: 2022-09-06
     language: es
-open_questions:
-  - The 8 kg of cocaine found on the same boat is a non-cannabis amount excluded from the cannabis figures.
-  - The interception happened on 3 September and was announced on 5 September; 3 September is used as the incident date.
-  - No names, charges or court outcome for the twelve arrested men were reported.
-  - The Telemundo report repeats the Associated Press account and General Hernández's figures and reports no charges, names or court outcome for the twelve arrested men.
-  - The photo published with the Telemundo article is credited to Getty Images rather than to a Venezuelan military handout, so it cannot be assumed to be an official photograph of the seized load.
-  - Xinhua gives the marijuana load as 2,850 kg in 5,063 panelas, while the report's other sources give 2,857 kg; the report keeps 2,857 kg.
-  - 'Accounts of the same announcement differ on the year''s national drug seizures: Xinhua reports more than 36 tonnes seized in 2022 and a 26.16% rise on 2021, while the report''s other sources give 40.2 tonnes and 29.2%.'
+  - title: Venezuela decomisa casi tres toneladas de marihuana, el mayor alijo en diez años
+    url: https://diariodelosandes.com/venezuela-decomisa-casi-tres-toneladas-de-marihuana-el-mayor-alijo-en-diez-anos/
+    publisher: Diario de Los Andes (Agencia EFE)
+    date: 2022-09-05
+    language: es
 ---
 
 On 3 September 2022 Venezuela's armed forces intercepted an unmarked vessel off
@@ -88,13 +90,13 @@ the Caribbean coast carrying more than 3.1 US tons (2.8 metric tons) of
 marijuana and almost 18 pounds (8 kg) of cocaine, along with seven spare
 outboard motors, 33 large fuel containers and a satellite phone. [@1,2] The boat was first sighted 4.5 nautical miles north of the Puerto Escondido sector, in Cabo San Román, Falcón municipality. [@4] The
 boat had sailed from Colombia and was bound for the island of Martinique.
-[@1] Hernández said the crew had set out from Alta Guajira in Colombia and planned to pass Aruba, Curaçao and Bonaire before reaching Martinique. [@4]
+[@1,5] Hernández said the crew had set out from Alta Guajira in Colombia and planned to pass Aruba, Curaçao and Bonaire before reaching Martinique. [@4]
 
-Twelve Venezuelans travelling on the boat were arrested. [@1,2,3,4] General
+Twelve Venezuelans travelling on the boat were arrested. [@1,2,3,4] After FANB troops sighted the vessel, the crew were pursued and captured. [@5] General
 Domingo Hernández Lárez, head of the Operational Strategic Command of the
 armed forces, said they worked for the Colombia-based Cartel of the Guajira.
-[@1,2,4] The 2,857 kg of marijuana was displayed at a beachside camp in the
+[@1,2,4,5] The 2,857 kg of marijuana was displayed at a beachside camp in the
 village of Tiraya on the Paraguaná Peninsula, which the military called the
-most important marijuana stash found in the country since 2012. [@1,2,3] Hernández said the marijuana was packed in 121 bundles holding 5,063 blocks, known in Venezuela as panelas. [@4]
+most important marijuana stash found in the country since 2012. [@1,2,3,5] Hernández said the marijuana was packed in 121 bundles holding 5,063 blocks, known in Venezuela as panelas. [@4]
 
 The arrests and the seizure were part of special armed forces operations along Venezuela's border. [@3] Hernández said the military had disabled 305 aircraft since 2012, 27 of them in the current year. [@3,4] Hernández also said 40.2 tonnes of illegal drugs had been seized in Venezuela so far that year, 29.2% more than in the same period of the previous year. [@3]
