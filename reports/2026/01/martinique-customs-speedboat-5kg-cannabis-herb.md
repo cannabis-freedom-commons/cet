@@ -61,32 +61,36 @@ sources:
     publisher: France-Antilles Martinique
     date: 2026-02-06
     language: fr
+  - title: Saisie de plus 100 kg de cartouches de cigarettes et de 5 kg d’herbe de cannabis
+    url: https://antilla-martinique.com/saisie-de-plus-100-kg-de-cartouches-de-cigarettes-et-de-5-kg-dherbe-de-cannabis/
+    publisher: Antilla Martinique
+    date: 2026-02-06
+    language: fr
 open_questions:
-  - The sources give the interception date as 25 January 2026 but do not say whether it happened by day or night, or how far offshore.
-  - No figure for the number of people on board, and no arrests, charges or court outcome were reported for the cannabis.
-  - The cannabis weight is given only as 'more than 5 kg', not an exact measured figure.
-  - No cannabis value was published.
-  - The 105.8 kg figure covers cigarettes only and is not counted as a cannabis quantity.
-  - The three accessible accounts reproduce the same customs statement, and no separate customs press release could be opened.
-  - Coordinates are those of Fort-de-France as a regional centre; the exact boarding point at sea is not given.
+    - The sources give the interception date as 25 January 2026 but do not say whether it happened by day or night, or how far offshore.
+    - No figure for the number of people on board, and no arrests, charges or court outcome were reported for the cannabis.
+    - The cannabis weight is given only as 'more than 5 kg', not an exact measured figure.
+    - No cannabis value was published.
+    - The 105.8 kg figure covers cigarettes only and is not counted as a cannabis quantity.
+    - The accounts reproduce a prefecture communiqué issued about two weeks after the interception, so they are not independent reporting.
+    - Coordinates are those of Fort-de-France as a regional centre; the exact boarding point at sea is not given.
 ---
 
 French customs coastguard officers, backed by the French armed forces in the
 Antilles, stopped a speedboat on 25 January 2026 close to the Martinique coast.
-[@1] The boat had set out from Saint Lucia and was heading for Martinique when
+[@1,4] The boat had set out from Saint Lucia and was heading for Martinique when
 it was boarded close to the French coast. [@2]
 
 Escorted ashore and searched together with land-based customs officers, the boat
-was found carrying cartons of cigarettes hidden in plastic bags. [@1] The
+was found carrying cartons of cigarettes hidden in plastic bags. [@1,4] The
 cartons held more than 500 cartons of cigarettes weighing a total of 105.8 kg, a
 tobacco seizure that falls outside the tracker's cannabis scope. [@3]
 
 More than 5 kg of cannabis herb was also found hidden in the passengers'
-luggage. [@1] France-Antilles also reported five kilos of cannabis herb found
+luggage. [@1,4] France-Antilles also reported five kilos of cannabis herb found
 hidden in the luggage on board. [@3] The investigation was handed to the
-territorial directorate of the national police. [@2]
+territorial directorate of the national police. [@2,4]
 
 France-Antilles reported that the seizure continued the French customs service's
 work in the Antilles against goods arriving illegally on the French Caribbean
 islands. [@3]
-
