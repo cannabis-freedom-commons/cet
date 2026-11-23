@@ -50,6 +50,11 @@ media:
     media_url: https://ilgiornalepopolare.it/wp-content/uploads/2026/11/Guardia-di-Finanza-Modena-20261121-IlGiornalePopolare-1.jpg.webp
     publisher: POP - Il Giornale Popolare
     caption: 'Guardia di Finanza Modena handout photo published with the report on the Prignano sulla Secchia seizure of about 13 kg of marijuana. Photo: Guardia di Finanza Modena'
+  - kind: video
+    url: https://stream24.ilsole24ore.com/video/italia/modena-scoperta-serra-marijuana-sequestrati-13-chili/AJfFdEPC
+    media_url: https://stream24.ilsole24ore.com/embed/AJfFdEPC
+    publisher: Il Sole 24 ORE
+    caption: 'LaPresse video report on the discovery of the marijuana greenhouse in Prignano sulla Secchia and the seizure of about 13 kg, published by Il Sole 24 ORE. Video: LaPresse'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 27b9c68318fcbe9aa547d1384cfcbef7
@@ -80,24 +85,23 @@ sources:
     publisher: POP - Il Giornale Popolare
     date: 2026-11-21
     language: it
-open_questions:
-    - The sources date the arrest only as “in recent days”; a prosecutor's statement on the case is dated 20 November 2026, and 21 November 2026, the first publication date, is used as the incident date.
-    - No count of the marijuana plants found in the home was published.
-    - No value was given for the 13 kilograms of marijuana.
-    - The man's name was not published, and no outcome beyond the residence order is known.
-    - The published accounts reproduce the same Guardia di Finanza and Modena prosecutor's statement, so they are not independent reporting.
+  - title: 'Modena, scoperta una serra di marijuana: sequestrati 13 chili'
+    url: https://stream24.ilsole24ore.com/video/italia/modena-scoperta-serra-marijuana-sequestrati-13-chili/AJfFdEPC
+    publisher: Il Sole 24 ORE
+    date: 2026-11-22
+    language: it
 ---
 
 Italian financial police arrested a man in Prignano sulla Secchia, near Modena,
 on suspicion of cultivating, producing and possessing drugs for sale, and
-reported him for unlawful possession of ammunition. [@1,5] Officers from the
+reported him for unlawful possession of ammunition. [@1,5,6] Officers from the
 Modena group of the Guardia di Finanza stopped the man's car in Prignano sulla
 Secchia and found two 30-06 calibre bullets, which he possessed without a gun
 licence. [@1,5] The Guardia di Finanza's drug dog and a canine unit from Sassuolo
 local police took part in the search of the suspect's home. [@2,5]
 
 Police seized about 13 kilograms of marijuana, 22 hunting cartridges, two 30-06
-bullets and 2,380 euros in cash. [@1,5] At the home officers found potted plants,
+bullets and 2,380 euros in cash. [@1,5,6] At the home officers found potted plants,
 lamps and ventilators used for cultivation, packaging material and sealed bags
 containing the drug, along with undeclared ammunition. [@3,5]
 
