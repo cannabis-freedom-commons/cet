@@ -111,6 +111,11 @@ sources:
     publisher: SOHA
     date: 2026-11-22
     language: vi
+  - title: Lật tẩy chiêu giấu 20 kg cần sa trong xô bột giặt từ Thái Lan tuồn về Ninh Bình - Báo Nhà báo và Công luận
+    url: https://baomoi.com/lat-tay-chieu-giau-20-kg-can-sa-trong-xo-bot-giat-tu-thai-lan-tuon-ve-ninh-binh-c56573686.epi
+    publisher: Báo Nhà báo và Công luận
+    date: 2026-11-22
+    language: vi
 ---
 
 Police in Ninh Bình province arrested Lê Xuân Hưng, born in 1999, who comes from
@@ -120,13 +125,13 @@ trading narcotic substances and had completed that prison sentence on 29 April
 2024. [@1,3,4,5,6,7] The cannabis was supplied by a person living in Thailand, and Hưng received the shipments, hid and divided the drug and delivered it to buyers on the supplier's instructions, taking an agreed share of the money after each deal. [@6] At about 02:00 on 21 November 2026 the provincial drug crime
 investigation office, with the Ministry of Public Security's drug crime
 department, customs officers and provincial forensic officers, broke up a ring
-that took cannabis from Thailand to Ninh Bình for sale. [@1,3,5,7] The operation on 21 November 2026 was carried out with Nam Định Customs and the customs control team of the regional customs branch IV, alongside the Ministry of Public Security's drug crime department and provincial forensic officers. [@4] Officers seized 20
+that took cannabis from Thailand to Ninh Bình for sale. [@1,3,5,7,8] The operation on 21 November 2026 was carried out with Nam Định Customs and the customs control team of the regional customs branch IV, alongside the Ministry of Public Security's drug crime department and provincial forensic officers. [@4] Officers seized 20
 kg of cannabis that had been hidden inside buckets of imported Thai laundry
 detergent. [@1,3,4,5,7]
 
 Investigators said the cannabis was supplied by a person living in Thailand, and
 that Hưng received shipments from Thailand, stored them, divided them up and
-delivered them to buyers on that person's instructions. [@1,3,4,5,7] Hưng also received payment for making the deliveries, which he was to share with the others involved. [@5,7] The cannabis was
+delivered them to buyers on that person's instructions. [@1,3,4,5,7,8] The police said Hưng had one previous conviction for illegally trading narcotic drugs and had finished serving that prison sentence on 29 April 2024. [@8] Hưng also received payment for making the deliveries, which he was to share with the others involved. [@5,7] The cannabis was
 disguised inside imported laundry detergent buckets so that checks by the
 authorities would not find it. [@1,3,5]
 
