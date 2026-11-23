@@ -40,22 +40,37 @@ sources:
     publisher: Бумага
     date: 2025-12-16
     language: ru
+  - title: პოლიციამ ნარკოდანაშაულის ბრალდებით ხელვაჩაურში ბელარუსის ორი მოქალაქე დააკავა
+    url: https://mail.adjaratv.ge/article/161055
+    publisher: აჭარის ტელევიზია
+    date: 2025-12-16
+    language: ka
+  - title: Двух беларусов задержали в Грузии по подозрению в хранении наркотиков
+    url: https://reform.news/dvuh-belarusov-zaderzhali-v-gruzii-po-podozreniju-v-hranenii-narkotikov/
+    publisher: REFORM.news
+    date: 2025-12-16
+    language: ru
 open_questions:
-  - No separate date for the detention was given; 16 December 2025 is the article's publication date and is used as the incident date.
-  - No weight for the seized marijuana was published, only that it was packed in 100 packets, so no cannabis weight is recorded.
-  - The two detainees were identified only by nationality and ages; no names were published.
-  - No detention measure, plea or court outcome beyond the investigation was reported.
-  - The whole account rests on one outlet's report of the Interior Ministry statement.
+    - No separate date for the detention was given; 16 December 2025 is the article's publication date and is used as the incident date.
+    - The sources give the marijuana as up to half a kilogram; no exact weighed amount was published, so 0.5 kg is recorded as the stated upper limit.
+    - The two detainees were identified only by initials, nationality and birth years; no full names were published.
+    - No detention measure, plea or court outcome beyond the investigation was reported.
+    - The accounts rest on the Interior Ministry's statement, repeated by Georgian and Belarusian outlets.
+media:
+  - kind: video
+    url: https://reform.news/dvuh-belarusov-zaderzhali-v-gruzii-po-podozreniju-v-hranenii-narkotikov/
+    media_url: https://www.youtube.com/watch?v=qMm4g-eR-Bw
+    publisher: Ministry of Internal Affairs of Georgia
+    caption: 'Interior Ministry video on the drug seizure in Adjara, showing the operation and the seized items. Video: Ministry of Internal Affairs of Georgia'
 ---
 
 Georgia's Interior Ministry detained two Belarusian citizens, aged 22 and 20, in
-Khelvachauri, Adjara. [@1] The two were accused of illegal acquisition and
-storage of marijuana. [@1]
+Khelvachauri, Adjara. [@1,2] The two were accused of illegal acquisition and
+storage of marijuana. [@1,2]
 
 During a search of the defendants' home, officers seized dried marijuana
-packaged in 100 packets. [@1]
+packaged in 100 packets. [@1,3] The Interior Ministry put the amount at up to half a kilogram of dried marijuana. [@3]
 
 The investigation is proceeding under subparagraph (a) of parts 2 and 3 of
-Article 260 of Georgia's Criminal Code. [@1] That provision carries a prison
-term of up to 8 years. [@1]
-
+Article 260 of Georgia's Criminal Code. [@1,2] That provision carries a prison
+term of up to 8 years. [@1,3]
