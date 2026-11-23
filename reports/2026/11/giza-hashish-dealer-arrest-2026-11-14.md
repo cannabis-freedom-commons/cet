@@ -86,10 +86,17 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-16
     language: ar
+  - title: تجديد حبس تاجر حشيش ضبط بحوزته كمية من المخدرات فى الجيزة 15 يوما - اليوم السابع
+    url: https://www.youm7.com/7620244
+    publisher: اليوم السابع
+    date: 2026-11-16
+    language: ar
+open_questions:
+  - The article gives no separate date for the detention-renewal decision; 16 November 2026 is its publication date.
 ---
 
 Giza Security Directorate officers arrested a drug dealer found with a quantity
-of hashish before he could sell it to customers across the governorate. [@1,2,3,7]
+of hashish before he could sell it to customers across the governorate. [@1,2,3,7,8]
 Giza criminal investigators had received information that the man was trading in
 narcotics and promoting hashish to drug users while operating across several
 areas. [@1,2,3,6,7]
@@ -98,7 +105,7 @@ After completing the required legal procedures, detectives prepared an ambush
 and arrested the accused. [@1,3,7] Officers searching him found a quantity of
 hashish, cash said to be proceeds of sale and a mobile phone he used to contact
 customers. [@1,2,3,6,7] When confronted, he admitted possessing the drugs for sale and
-said the cash came from sales and the phone was for contacting customers. [@1,2,3,6,7]
+said the cash came from sales and the phone was for contacting customers. [@1,2,3,6,7] A judge of the competent misdemeanour court renewed the accused's detention for 15 days pending investigation. [@8]
 
 Police filed a report on the incident and referred the accused to the Public
 Prosecution, which took over the investigation. [@1,2,3] The Giza Public Prosecution ordered the dealer held for four days pending investigation. [@4] The misdemeanour court's detention judge renewed the drug trader's detention for 15 days pending investigation. [@5,6,7]
