@@ -191,16 +191,21 @@ sources:
     publisher: الديار
     date: 2026-11-18
     language: ar
+  - title: وصلت الرسالة
+    url: https://www.awras.com/%D9%88%D8%B5%D9%84%D8%AA-%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D8%A9/
+    publisher: أوراس
+    date: 2026-11-21
+    language: ar
 ---
 
 The Derna branch of Libya's General Administration for Combating Drugs and
 Psychotropic Substances carried out a security operation south of Gate 200 in
-the city of Derna. [@1,4,13,18,22] The seized drugs were pictured and dated to Tuesday 17
+the city of Derna. [@1,4,13,18,22,25] The seized drugs were pictured and dated to Tuesday 17
 November 2026 in Derna, in material credited to the anti-drugs administration.
 [@1,11] Officers seized 18 kilograms of hashish in the operation. [@1,4,13,18,21,22] Photos published by the administration with its statement showed quantities of hashish alongside boxes and clear bags holding white pills. [@3,5,7,8,9,10,11,12,15,16,17,19,20,23,24]
 
 The same haul also included 4,162,682 narcotic pills described as Captagon,
-ecstasy, tramadol and Tamol. [@1,4,13,18,21,22] Officers also seized 11 kilograms of cocaine
+ecstasy, tramadol and Tamol. [@1,4,13,18,21,22,25] Officers also seized 11 kilograms of cocaine
 alongside the hashish and pills, which is not counted in the cannabis figures.
 [@1,4,13,22] A Reuters account of the seizure put the haul at more than four million narcotic pills and 29 kilograms of cocaine and hashish together. [@3,5,9,10,11,12,14,15,16,20,23,24] The head of the anti-drugs administration, Maj. Gen. Ahmed Al-Shamikh, gave
 the same breakdown of 4,162,682 pills plus 18 kilograms of hashish and 11
@@ -213,4 +218,4 @@ redouble efforts against drugs and pursue their traders and promoters. [@2] The 
 
 The seized materials were sealed as evidence and the necessary legal measures
 were taken. [@1,4,13,22] Inquiries were continuing under Public Prosecution supervision
-to identify the members of the gang involved. [@1,4,13,21,22] The authorities were questioning the detained network members to establish its foreign links and who was behind its financing. [@6] The administration's statement also said members of the criminal network had been detained in the city. [@3,5,6,7,8,9,10,11,12,14,15,16,17,19,20,23,24]
+to identify the members of the gang involved. [@1,4,13,21,22] The authorities were questioning the detained network members to establish its foreign links and who was behind its financing. [@6] The administration's statement also said members of the criminal network had been detained in the city. [@3,5,6,7,8,9,10,11,12,14,15,16,17,19,20,23,24,25]
