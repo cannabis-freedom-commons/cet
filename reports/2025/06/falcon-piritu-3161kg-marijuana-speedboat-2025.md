@@ -38,6 +38,11 @@ media:
     media_url: https://diarioelregionaldelzulia.com/wp-content/uploads/2025/07/Droga-incautada-en-narcolancha-en-Piritu-de-Falcon-fue-de-5.601-panelas2.jpg
     publisher: Diario El Regional del Zulia
     caption: 'Marijuana packages laid out during the recount after the Píritu, Falcón seizure. Photo: Secretaría de Seguridad Ciudadana, Falcón'
+  - kind: photo
+    url: https://www.laradiodelsur.com.ve/autoridades-venezolanas-incautan-mas-de-3-4-toneladas-de-presunta-marihuana/
+    media_url: https://www.laradiodelsur.com.ve/wp-content/uploads/2025/06/1751311926318319503xg.webp
+    publisher: La Radio del Sur
+    caption: Suspected marijuana from the Apure and Falcón seizures announced by Venezuela's interior ministry.
 status: reported
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 793657d339d6a4f24558d2affc142bf3
@@ -63,29 +68,23 @@ sources:
     publisher: Correo del Caroní
     date: 2025-07-01
     language: es
-open_questions:
-  - No arrests were reported; the boat's crew escaped and authorities said investigations continued.
-  - Cabello put the Falcón haul at 3,171 kilograms while the interior ministry statement, AVN and Falcón reporting gave 3,161 kilograms; this report uses 3,161 kilograms.
-  - The material was described only as presunta marihuana, with no laboratory confirmation reported, although authorities said chemical analysis of the load was under way.
-  - The 3.4 tonnes reported for the weekend's two operations combine this Falcón load with a separate 300 kg seizure at Las Busacas, Puerto Páez municipality, Apure, a separate event not counted here.
-  - Cabello dated the seizures to 30 June, while the ministry statement said the operations took place the day before its publication and Falcón reporting placed this one on the night of Sunday 29 June; 29 June is used.
-  - The coastal place is named San José de Los Cayos in the ministry statement and San José de la Costa in Falcón reporting.
-  - No value estimate, charge or court outcome for the load was reported, and none of those on the boat was identified.
-  - Detentions and arms and explosives seizures that Cabello announced at the same press conference are separate events and are not covered here.
-  - Both accounts of the interception come from government statements, the interior ministry and Falcón's citizen-security secretariat; no independent reporting of the operation was found.
-  - Incautan cargamento de droga superior a tres toneladas en Falcón, Apure y Zulia (Agencia Venezolana de Noticias (AVN)) could not be opened again to check its quotations (Browser navigation failed.; archived fallback unavailable (Wayback snapshot is for a different source). No AI research was started); what it says is as the AI read it.
-  - Left out products, as its quotation was not found in Diario El Regional del Zulia.
+  - title: Autoridades venezolanas incautan más de 3.4 toneladas de presunta marihuana
+    url: https://www.laradiodelsur.com.ve/autoridades-venezolanas-incautan-mas-de-3-4-toneladas-de-presunta-marihuana/
+    publisher: La Radio del Sur
+    date: 2025-06-30
+    language: es
+    archived: https://web.archive.org/web/20251013021624id_/https://www.laradiodelsur.com.ve/autoridades-venezolanas-incautan-mas-de-3-4-toneladas-de-presunta-marihuana/
 ---
 
 Anti-drug units of the Bolivarian National Police intercepted a speedboat at San
-José de Los Cayos, in Píritu municipality, Falcón state. [@1] The operation took
+José de Los Cayos, in Píritu municipality, Falcón state. [@1,5] The operation took
 place on the night of Sunday 29 June 2025, in waters off the Falcón coast. [@2]
 The PNB teams came from its Aquatic Spaces Police Directorate and its Anti-Drug
 Directorate, within the government's Territorial Defensive System. [@2] The crew
-escaped and no arrests were reported. [@1] Officers recovered a 44-foot
-fibreglass launch, four 200-horsepower Yamaha outboards and a phone. [@1]
+escaped and no arrests were reported. [@1,5] Officers recovered a 44-foot
+fibreglass launch, four 200-horsepower Yamaha outboards and a phone. [@1,5]
 
-Police seized 107 bales of suspected marijuana weighing 3,161 kilograms. [@1]
+Police seized 107 bales of suspected marijuana weighing 3,161 kilograms. [@1,5]
 Falcón's citizen-security secretariat, which supervised the recount and chemical
 analysis, put the load at 5,601 panela packages and called it the state's
 second-largest seizure in ten years. [@2]
@@ -96,4 +95,3 @@ the operation was linked to a “conspiracy” he attributed to the opposition l
 by María Corina Machado. [@4] He said the seizures came from information taken
 from seized phones. [@4] Authorities said investigations continued to identify
 those involved in moving the loads. [@3]
-
