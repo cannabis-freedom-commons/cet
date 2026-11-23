@@ -56,31 +56,35 @@ sources:
     url: https://timesofindia.indiatimes.com/city/surat/hydroponic-ganja-worth-3-3cr-seized-in-navsari-four-held/articleshow/136081899.cms
     publisher: The Times of India
     date: 2026-11-23
+  - title: గుజరాత్‌లో రూ.3.25 కోట్ల విలువైన హైబ్రిడ్ గంజాయి
+    url: https://telugu.getlokalapp.com/amp/telangana-news/hybrid-cannabis-worth-rs-3-25-crore-seized-in-gujarat-17462282
+    publisher: Lokal Telugu
+    date: 2026-11-22
+    language: te
 open_questions:
-  - The report dates the operation only to 'Sunday', the day before its 23 November 2026 publication; 22 November 2026 is used as the incident date.
-  - The report does not say whether the two SUVs were seized or what charges were filed against the four.
-  - No court appearance, remand order or bail decision was reported for the four arrested.
-  - The Rs 3.3 crore figure is the police's estimate for the 9.4 kg; no basis for the valuation was published.
-  - Officials said only that a preliminary examination suggested the ganja may have been imported; no country of origin was identified.
-  - The nine other suspects were named but not arrested when the report was published.
+    - The report dates the operation only to 'Sunday', the day before its 23 November 2026 publication; 22 November 2026 is used as the incident date.
+    - The report does not say whether the two SUVs were seized or what charges were filed against the four.
+    - No court appearance, remand order or bail decision was reported for the four arrested.
+    - Accounts value the 9.4 kg of ganja at figures ranging from over Rs 3.25 crore to Rs 3.3 crore, with no basis for the valuation published.
+    - Officials said only that a preliminary examination suggested the ganja may have been imported; no country of origin was identified.
+    - The nine other suspects were named but not arrested when the report was published.
 ---
 
 Navsari police arrested four people after intercepting two SUVs near the Kharel
-flyover on National Highway 48 on Sunday. [@1] Officers seized 9.4 kg of
+flyover on National Highway 48 on Sunday. [@1,2] Officers seized 9.4 kg of
 hydroponic ganja, which police valued at Rs 3.3 crore. [@1] Police also seized
 seven mobile phones and Rs 33,779 in cash from the four. [@1] The arrested were
 identified as Pramod Pathak, Vishnu Singh, Premchand alias Rahul Yadav and Miket
 Patel. [@1]
 
 Police said the group had travelled to Vadodara to sell the consignment and was
-returning with the remaining stock when their vehicles were stopped. [@1]
+returning with the remaining stock when their vehicles were stopped. [@1,2]
 According to police, the accused dealt in large quantities of hydroponic ganja
 and supplied it to select buyers willing to pay high prices. [@1] Officials said
 a preliminary examination suggested the ganja may have been imported from
 abroad. [@1]
 
-Police suspect at least nine more people were involved in the network. [@1]
+Police suspect at least nine more people were involved in the network. [@1] Police said one of the wanted suspects was Ronnie, whom they believed to be in Bangkok. [@2]
 Efforts were under way to trace and arrest them. [@1] Police suspect the network
 was run from Vapi and Daman and had links with multiple suppliers and high-end
 buyers. [@1]
-
