@@ -40,6 +40,11 @@ media:
     media_url: https://s2-g1.glbimg.com/XzJtpM1QAc0FuoDdZHPL0dgc4-4=/0x0:1640x856/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/s/1OXz3sQqA8XYo4o0Klag/novo-projeto-43-.jpg
     publisher: G1
     caption: 'Cannabis eradication during Operation Carcará XX in Belém do São Francisco. Photo: Divulgação/1º CIPM'
+  - kind: photo
+    url: https://www.carlosbritto.com/operacao-conjunta-erradica-mais-de-70-mil-pes-de-maconha-em-belem-do-sf/
+    media_url: https://www.carlosbritto.com/wp-content/uploads/2026/11/maconha-erradicada-em-Belem-SF-768x407.jpg
+    publisher: Blog do Carlos Britto
+    caption: 'Cannabis plants eradicated in Belém do São Francisco, in a police handout published with the report. Photo: PMPE/divulgação'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1dcc64f062973c99d91f7089badee29c
@@ -75,6 +80,11 @@ sources:
     publisher: G1
     date: 2026-11-19
     language: pt
+  - title: Operação conjunta erradica mais de 70 mil pés de maconha em Belém do SF
+    url: https://www.carlosbritto.com/operacao-conjunta-erradica-mais-de-70-mil-pes-de-maconha-em-belem-do-sf/
+    publisher: Blog do Carlos Britto
+    date: 2026-11-21
+    language: pt
 open_questions:
   - No arrests, suspect identifications, charges or court outcomes were reported for this eradication.
   - No figure for the area of the four plots was published.
@@ -83,17 +93,17 @@ open_questions:
 
 Police officers destroyed and incinerated more than 71,000 cannabis plants
 during an eradication operation carried out on Wednesday 18 November in Belém do
-São Francisco, in the Sertão region of Pernambuco. [@1,3,4,5,6] The action was conducted
+São Francisco, in the Sertão region of Pernambuco. [@1,3,4,5,6,7] The action was conducted
 as part of Operation Carcará XX, which was launched by the 1st Independent
 Company of Military Police together with the Federal Police with the stated aim
-of combating drug trafficking. [@1,3,4,5]
+of combating drug trafficking. [@1,3,4,5,7]
 
 Officers located the cannabis plants after searches in the rural zone of the
 municipality during the operation, finding them distributed across four separate
-plots. [@1,3,4,5,6] Officers counted a total of 71,701 cannabis plants across the four
-plots, and those identified plants were destroyed during the operation. [@2,3,4,5]
+plots. [@1,3,4,5,6,7] Officers counted a total of 71,701 cannabis plants across the four
+plots, and those identified plants were destroyed during the operation. [@2,3,4,5,7]
 
 In the same operation officers also seized 8.7 kilograms of cannabis that had
-already been harvested and was described as ready for consumption. [@2,3,4,5,6] The
+already been harvested and was described as ready for consumption. [@2,3,4,5,6,7] The
 operation was reported as part of continuing ongoing integrated actions against
 the cultivation and commercialization of drugs in the Sertão of Pernambuco. [@2]
