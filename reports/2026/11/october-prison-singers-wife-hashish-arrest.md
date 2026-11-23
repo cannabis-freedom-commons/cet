@@ -215,6 +215,11 @@ sources:
     publisher: المصري اليوم
     date: 2026-11-20
     language: ar
+  - title: بعد ضبطها بالحشيش والترامادول.. إخلاء سبيل زوجة إسلام كابونجا بكفالة 10 آلاف جنيه - يوليو
+    url: https://www.youlyou.com/99037
+    publisher: يوليو
+    date: 2026-11-20
+    language: ar
 media:
   - kind: photo
     url: https://www.masrtimes.com/779443
@@ -231,21 +236,24 @@ media:
     media_url: https://media.egypttelegraph.com/ArticleUpload/2026/11/20/WhatsApp%20Image%202026-11-20%20at%202.06.33%20PM_2870_140740.jpeg
     publisher: تليجراف مصر
     caption: Photo obtained by Egypt Telegraph showing part of the seizures (drugs and mobile phones) found with Islam Kabonga's wife as she tried to bring them to him during a visit at the October Correction Centre.
+open_questions:
+  - The bail order is reported without a separate date for the decision; 20 November 2026 is the publication date of the accounts.
+  - No charge sheet or court date has been reported since her release on bail.
 ---
 
 Detectives at the October Correction Centre in Giza arrested M. S., the wife of
 mahraganat singer Islam Kabonga, while she was visiting her detained husband.
-[@1,2,3,4,6,8,9,10,12,14,15,16,17,18,19,20,21,24,26,27,28,29,30,31,32,34,35,36,37,38] The investigating authorities ordered that she be held for 24 hours pending the results of the criminal investigations. [@19,27] The suspect was identified as M. S., born in 1999. [@6,16,17,26,27] She is known on social media by the nickname Umm Eshq. [@6] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3,13,21,30,33] Her husband was serving a six-month sentence in case 5568 of 2026 for economic misdemeanours in Agouza over incitement to violence. [@6,16,17,27] The Cairo Economic appeals court had upheld that six-month prison term plus a 100,000-pound fine on 28 September 2026. [@9] The Giza security directorate said Assistant Minister for Giza Security
+[@1,2,3,4,6,8,9,10,12,14,15,16,17,18,19,20,21,24,26,27,28,29,30,31,32,34,35,36,37,38,40] The investigating authorities ordered that she be held for 24 hours pending the results of the criminal investigations. [@19,27] The suspect was identified as M. S., born in 1999. [@6,16,17,26,27] She is known on social media by the nickname Umm Eshq. [@6] Her husband was serving a prison sentence over accusations of inciting violence through his songs. [@3,13,21,30,33] Her husband was serving a six-month sentence in case 5568 of 2026 for economic misdemeanours in Agouza over incitement to violence. [@6,16,17,27] The Cairo Economic appeals court had upheld that six-month prison term plus a 100,000-pound fine on 28 September 2026. [@9] The Giza security directorate said Assistant Minister for Giza Security
 Maj. Gen. Hatem Hassan received a notification of the incident from Maj. Gen.
 Hany Shaarawy, deputy director of criminal investigations. [@1,2,35] She had brought
 visit goods for her husband, and officers searched those goods during the visit.
 [@1,5,10,11,15,27] The suspected drugs were hidden professionally inside a bag to evade monitoring. [@5]
 
 The search found four Nokia mobile phones, one large piece of hashish and 52
-tramadol pills. [@1,2,3,4,6,7,8,9,10,12,14,17,18,19,21,22,23,24,27,29,30,31,32,34,35,36,37,38] The hashish was described as weighing about 2 grams. [@22,23] The seized phones were Nokia handsets, the hashish was
+tramadol pills. [@1,2,3,4,6,7,8,9,10,12,14,17,18,19,21,22,23,24,27,29,30,31,32,34,35,36,37,38,40] The hashish was described as weighing about 2 grams. [@22,23] The seized phones were Nokia handsets, the hashish was
 described as a large piece and the tramadol as narcotic pills intended to be
 brought to her husband. [@1] The four seized Nokia phones were small Afreto models without cameras or SIM cards. [@6,16,17,27] When confronted, she admitted that she possessed
-the seized items in order to bring them in to her husband. [@1,2,4,7,8,9,15,19,24,29,32,35,37,38] In this account she denied knowing about the seized items and said she had received the bag from a 29-year-old driver named Khalil from al-Warraq to take to her husband for use in prison. [@6,12,16,17,22,26,27,28,39]
+the seized items in order to bring them in to her husband. [@1,2,4,7,8,9,15,19,24,29,32,35,37,38,40] In this account she denied knowing about the seized items and said she had received the bag from a 29-year-old driver named Khalil from al-Warraq to take to her husband for use in prison. [@6,12,16,17,22,26,27,28,39]
 
 Police filed a report on the incident after the arrest at the correction centre.
-[@1,3,5,7,29,33,36,37] Officers placed the pills in an empty yellow Merit cigarette pack and then placed all the seized items in a white envelope for presentation to the prosecution. [@16,17,27] The seizure report was drafted on 18 November 2026. [@12,16,17,26,27,28] The prosecution took over the investigation of the case. [@1,2,4,6,7,8,9,10,11,12,14,15,18,19,29,30,32,34,36,37,38] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3,19,23,31,38] The prosecution ordered the four seized Nokia phones referred to technical units to extract their contents and call and message records to identify the parties involved. [@31] Investigators were asked to determine whether other people had helped prepare the seized items or facilitated the smuggling attempt. [@19,22,38] The prosecution ordered the four mobile phones impounded and sent to the technical authorities to examine their contents, call logs and messages. [@19,22,23,24] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5,19,22,24,31,38] Investigators summoned the staff responsible for the search and security at the October correction centre to give statements on how the seized items were discovered. [@31,38] The prosecution also asked to hear from the officials responsible for search and security procedures at the centre. [@19,22] The Giza investigation authorities then ordered her release on bail of 10,000 Egyptian pounds pending the investigations. [@22,23,25,26,35,38,39]
+[@1,3,5,7,29,33,36,37] Officers placed the pills in an empty yellow Merit cigarette pack and then placed all the seized items in a white envelope for presentation to the prosecution. [@16,17,27] The seizure report was drafted on 18 November 2026. [@12,16,17,26,27,28] The prosecution took over the investigation of the case. [@1,2,4,6,7,8,9,10,11,12,14,15,18,19,29,30,32,34,36,37,38] The investigation includes keeping and examining the seized items, sending the drugs to the chemical laboratory to determine their type and nature, hearing the defendant's statements and requesting security investigations into the incident. [@3,19,23,31,38] The prosecution ordered the four seized Nokia phones referred to technical units to extract their contents and call and message records to identify the parties involved. [@31] Investigators were asked to determine whether other people had helped prepare the seized items or facilitated the smuggling attempt. [@19,22,38] The prosecution ordered the four mobile phones impounded and sent to the technical authorities to examine their contents, call logs and messages. [@19,22,23,24] Investigators were to confront the detained husband with the seizure to establish whether he knew of it or had agreed to it in advance. [@5,19,22,24,31,38] Investigators summoned the staff responsible for the search and security at the October correction centre to give statements on how the seized items were discovered. [@31,38] The prosecution also asked to hear from the officials responsible for search and security procedures at the centre. [@19,22] The Giza investigation authorities then ordered her release on bail of 10,000 Egyptian pounds pending the investigations. [@22,23,25,26,35,38,39,40]
