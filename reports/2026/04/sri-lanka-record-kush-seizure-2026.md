@@ -157,6 +157,11 @@ sources:
     publisher: TravelPulse
     date: 2026-04-27
     language: en
+  - title: Buddhist monks-in-training caught with 110kg of cannabis in Sri Lanka
+    url: https://www.france24.com/en/tv-shows/press-review/20260429-buddhist-monks-in-training-caught-with-110kg-of-cannabis-in-sri-lanka
+    publisher: France 24
+    date: 2026-04-29
+    language: en
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cn4v4nzwj94o
@@ -178,11 +183,13 @@ media:
     media_url: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2272655605.jpg?c=original&q=w_860,c_fill/f_avif
     publisher: CNN
     caption: 'Sri Lankan monks arriving to appear before a court after their arrest in Negombo on 26 April 2026. Photo: Ishara S. Kodikara/AFP/Getty Images via CNN'
+open_questions:
+  - 'Accounts differ on the length of the Thailand trip: most reporting describes a four-day holiday, while this press review says the monks were coming back from a five-day holiday in Bangkok.'
 ---
 
 On the night of 25–26 April 2026 police arrested 22 Sri Lankan monks returning from Thailand at
 Bandaranaike International Airport with 110 kg of kush hidden in their luggage, valued at about US$3.5
-million; it was reported as the country's largest single cannabis seizure. [@1,23,24,26,27,29,30] The Police Narcotics
+million; it was reported as the country's largest single cannabis seizure. [@1,23,24,26,27,29,30,31] The Police Narcotics
 Bureau's airport unit acted on intelligence [@4,5,10,12], and the monks were arrested at about 10.10 pm.
 [@20] Customs called it the largest single detection of kush at the airport.
 [@3,6,7,9,11,12,13,14,16,17,19,20,23]
@@ -190,7 +197,7 @@ Bureau's airport unit acted on intelligence [@4,5,10,12], and the monks were arr
 ## The luggage
 
 Each monk carried about 5 kg of kush, a particularly potent form of cannabis, behind false walls in
-identical luggage, among school supplies and sweets. [@2,3,6,8,9,10,11,13,15,16,17,18,19,20,23,26,27,30] Customs gave
+identical luggage, among school supplies and sweets. [@2,3,6,8,9,10,11,13,15,16,17,18,19,20,23,26,27,30,31] Customs gave
 the total as 242 pounds [@3,6,9,10,11,13,15,16,17,20,23]; one account found about 112 kilograms. [@12] The
 government news portal put the value at over US$3.45 million (1.1 billion rupees). [@5,10,15,22,26,27,28]
 
@@ -203,7 +210,7 @@ arrested at the airport carrying drugs, the state-owned Daily News said. [@5,15,
 
 A 23rd monk, believed to have organised the trip, was later arrested in a Colombo suburb; police said he
 had told the others the parcels were "a donation" and that a van would collect them, and that they
-potentially did not know what they were carrying. [@2,18] Other investigators said three monks from a
+potentially did not know what they were carrying. [@2,18,31] Other investigators said three monks from a
 temple in Jamburaliya may have recruited 19 others through Facebook, that an alleged mastermind had been
 arrested at Meegahamulla in Gampaha, and that the group might have run a similar trip with 12 monks
 before. [@12] Investigators said an earlier group of monks had brought narcotics to Sri Lanka on a previous trip and hidden them at a house in Athurugiriya, where the owner was arrested. [@24] Police later named the organiser as a monk, Amithananda Thera, arrested after hiding in a
