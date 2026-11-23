@@ -67,31 +67,36 @@ sources:
     publisher: Swatantra Prabhat
     date: 2026-11-20
     language: hi
+  - title: 'लखनऊ : शहीद पथ किनारे बाइक से बेच रहा था गांजा हुआ गिरफ्तार,गांजा बरामद।।Lucknow: A man selling marijuana from a bike on the side of Shaheed Path was arrested and marijuana was recovered.||'
+    url: https://www.dotookmedia.com/2026/11/lucknow-man-selling-marijuana-from-bike.html
+    publisher: Do Took Media
+    date: 2026-11-20
+    language: hi
 open_questions:
-  - 'Accounts differ on the next step: Tarun Mitra and Dainik Bhaskar say the accused was presented in court, while Swatantra Prabhat says he was sent for a medical examination.'
-  - The 2,500 rupees in cash, phone and keys seized at the scene appear in some accounts but not others.
-  - No trial date or case outcome was reported.
+    - 'Accounts differ on the next step: most reports say the accused was presented in court, while one says he was sent for a medical examination.'
+    - The 2,500 rupees in cash and the mobile phone are reported by more than one account, while a set of keys is not consistently reported.
+    - No trial date or case outcome has been reported.
+    - The earlier case at the Sushant Golf City police station was registered under BNS sections rather than the NDPS Act, so whether it involved drugs is not established.
 ---
 
 PGI police in Lucknow arrested a youth sitting on a service lane of Shaheed Path
-who was preparing to sell ganja. [@1] The man was identified as Ankit Gupta,
-about 24 years old, of Awas Vikas Colony in Barabanki district. [@1] Acting on a
+who was preparing to sell ganja. [@1,4] The man was identified as Ankit Gupta,
+about 24 years old, of Awas Vikas Colony in Barabanki district. [@1,4] Acting on a
 tip-off, sub-inspector Sumit Bansal of the Vrindavan police post and his team
 detained him on 20 November 2026 while checking suspicious people and vehicles
-near a sewage plant. [@1]
+near a sewage plant. [@1,4]
 
 A search of the youth's pocket and a black polythene bag hanging from the
-motorcycle's handlebar produced 1.370 kg (1 kg 370 g) of ganja. [@1] Police
-seized the Splendor motorcycle used to carry the ganja. [@1] Dainik Bhaskar
+motorcycle's handlebar produced 1.370 kg (1 kg 370 g) of ganja. [@1,4] Police
+seized the Splendor motorcycle used to carry the ganja. [@1,4] Dainik Bhaskar
 reported that officers also took 2,500 rupees in cash and a mobile phone from
-the scene. [@2] Police registered case 594/2026 under sections 8 and 20 of the
-NDPS Act at the PGI police station and presented the accused in court. [@1]
+the scene. [@2,4] Police registered case 594/2026 under sections 8 and 20 of the
+NDPS Act at the PGI police station and presented the accused in court. [@1,4]
 
 During questioning Gupta admitted that he sold ganja secretly for money and
-lived off the proceeds. [@1] Swatantra Prabhat reported that he told police he
+lived off the proceeds. [@1,4] Swatantra Prabhat reported that he told police he
 brought ganja consignments from Barabanki to the capital and sold them to buyers
 from the motorcycle. [@3] Police records showed an earlier case against him in
-2025 at Lucknow's Sushant Golf City police station. [@1] The operation was
+2025 at Lucknow's Sushant Golf City police station. [@1] That earlier case at the Sushant Golf City police station was registered under various sections of the BNS, India's criminal code. [@4] The operation was
 carried out under instructions from Lucknow police commissioner Tarun Gaba and
 other senior officers. [@1]
-
