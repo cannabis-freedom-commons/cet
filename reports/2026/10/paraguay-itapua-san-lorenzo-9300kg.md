@@ -71,6 +71,21 @@ media:
     media_url: https://www.latribuna.com.py/resizer/v2/BMG7PZBPJBDANIT4Z3ETYCMDCA.jpg?smart=true&width=800&height=450&quality=75&auth=2215d81220bc4044752182fa67abb1475b81294cca5cca362ed5cf26fdf0ed10
     publisher: La Tribuna
     caption: 'A parcel of the marijuana plantings that were destroyed in San Lorenzo. Photo: La Tribuna.'
+  - kind: photo
+    url: https://www.abc.com.py/policiales/2026/11/01/ftc-sur-destruye-cultivo-de-marihuana-y-campamento-narco-en-san-pedro-del-parana/
+    media_url: https://www.abc.com.py/resizer/v2/TQTASXRZHRFYXJKZ5EDJOTN7HI.jpg?auth=d379801eb6fcbd59cba11e8b35c599c70d0c5fe6ea116d0b5f1bb7da71030040&width=770&smart=true
+    publisher: ABC Color
+    caption: 'Members of FTC-Sur at the camp with three hectares of marijuana that they destroyed in San Pedro del Paraná. Photo: Gentileza, via ABC Color.'
+  - kind: photo
+    url: https://www.abc.com.py/policiales/2026/11/01/ftc-sur-destruye-cultivo-de-marihuana-y-campamento-narco-en-san-pedro-del-parana/
+    media_url: https://www.abc.com.py/resizer/v2/YUEMNLG4O5CHTGPLYOV6YYICUI.jpg?auth=0f3b8946a3f3758caceca3533ba49bc58895c64024fa65ecf368ab46b53fcb03&width=770&smart=true
+    publisher: ABC Color
+    caption: 'FTC-Sur officers who located the narco camp in San Pedro del Paraná. Photo: Gentileza, via ABC Color.'
+  - kind: photo
+    url: https://www.abc.com.py/policiales/2026/11/01/ftc-sur-destruye-cultivo-de-marihuana-y-campamento-narco-en-san-pedro-del-parana/
+    media_url: https://www.abc.com.py/resizer/v2/MVU5FPZOJ5FGLPURIEZYOOIHWI.jpg?auth=31c0e56caa7d1b39c0c9ccfcb8885c4151be70a0f1c30ae9326b3a510c01a695&width=770&smart=true
+    publisher: ABC Color
+    caption: 'The FTC at the camp it located and destroyed in San Pedro del Paraná. Photo: Gentileza, via ABC Color.'
 sources:
   - title: Eliminan marihuana por valor de USD 1.350.000 en Itapúa
     url: https://www.lanacion.com.py/pais_edicion_impresa/2026/11/01/eliminan-marihuana-por-valor-de-usd-1350000-en-itapua/
@@ -86,24 +101,29 @@ sources:
     publisher: La Tribuna
     date: 2026-11-01
     language: es
+  - title: FTC-Sur destruye cultivo de marihuana y campamento narco en San Pedro del Paraná
+    url: https://www.abc.com.py/policiales/2026/11/01/ftc-sur-destruye-cultivo-de-marihuana-y-campamento-narco-en-san-pedro-del-parana/
+    publisher: ABC Color
+    date: 2026-11-01
+    language: es
 ---
 
 The Joint Task Force South (FTC Sur), with soldiers from the Military
 Intelligence Battalion, destroyed illegal marijuana plantations in the San
 Lorenzo community of San Pedro del Paraná district, Itapúa, on 31 October 2026.
-[@1,2,3] The operation was carried out at the request of the Public Prosecutor's
-Office, under prosecutor Rocío Valdez of the specialised anti-drug unit. [@1,2]
+[@1,2,3,4] The operation was carried out at the request of the Public Prosecutor's
+Office, under prosecutor Rocío Valdez of the specialised anti-drug unit. [@1,2,4]
 
 Prosecutors are investigating a suspected criminal organisation that the
 operation's participants say was buying weapons with proceeds from drug
 trafficking. [@1,2]
 
 Officers destroyed three hectares of plants, a makeshift camp and 5 kg of
-seeds, and burned 300 kg of chopped marijuana stacked in bags. [@1,2,3] The total
+seeds, and burned 300 kg of chopped marijuana stacked in bags. [@1,2,3,4] The total
 destroyed was 9,300 kg of marijuana, the authorities said. [@1,2,3]
 
 They estimated the organisations would lose about USD 1,350,000 in sales on the
-foreign market. [@1,2]
+foreign market. [@1,2] Investigators believe those running the site were sending the marijuana to the Argentine market. [@4]
 
 The task force works under the Internal Defence Operations Command (CODI), which
 supports the Public Prosecutor's Office against organised crime. [@1] The
