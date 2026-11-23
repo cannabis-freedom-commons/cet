@@ -62,6 +62,11 @@ sources:
     publisher: Asianet News
     date: 2026-11-21
     language: ml
+  - title: കഞ്ചാവ് വിൽപ്പനയുടെ വിവരം പൊലീസിനെ അറിയിച്ചതിന്റെ പ്രതികാരം; യൂത്ത് കോൺഗ്രസ് നേതാവിന്റെ വീട്ടിൽ ലഹരിസംഘത്തിന്റെ അഴിഞ്ഞാട്ടം; അമ്മയ്ക്കും സഹോദരനും പരുക്ക്
+    url: https://newsthen.com/2026/11/21/306958.html
+    publisher: Newsthen
+    date: 2026-11-21
+    language: ml
 open_questions:
   - No cannabis quantity, seizure or cannabis case is reported in connection with the information Rinto gave to police.
   - 'The accounts differ on the arrest: Sathyam Online and Asianet said police chased and caught one accused, while Mathrubhumi said local people caught him and handed him to the police.'
@@ -74,22 +79,21 @@ open_questions:
 Rinto Puthuppally Valappil, 35, the Youth Congress president of the Trikkur
 mandalam in Thrissur district, was attacked at his house in Kallur, Pulluthi,
 together with his brother Rijo, 37, and their mother Maryes, 59. [@3] The attack
-took place at about 10 pm on Thursday 19 November 2026. [@3] Two men came by
+took place at about 10 pm on Thursday 19 November 2026. [@3,5] Two men came by
 autorickshaw and motorcycle, dragged Maryes outside and struck Rijo in the eye
-with a vehicle key and a heavy weight. [@1] Rinto was beaten on the road when he
+with a vehicle key and a heavy weight. [@1,5] Rinto was beaten on the road when he
 arrived, and neighbours who came at the family's cries made the attackers flee
-by autorickshaw, leaving their motorcycle behind. [@1]
+by autorickshaw, leaving their motorcycle behind. [@1,5]
 
 Rinto was injured on the ear and leg and Rijo seriously in the eye, and both
-were treated at a private hospital in Thrissur. [@1] Maryes, hurt on the hand,
+were treated at a private hospital in Thrissur. [@1,5] Maryes, hurt on the hand,
 was treated at Puthukkad taluk hospital and then returned home. [@1] Puthukkad
 police said the attack was in revenge for Rinto having told them months earlier
-that the accused were selling cannabis. [@4]
+that the accused were selling cannabis. [@4,5]
 
 One of the two accused, a neighbour, was chased and caught by police the same
-night. [@1] Mathrubhumi reported that local people caught one of the attackers
+night. [@1,5] Mathrubhumi reported that local people caught one of the attackers
 and handed him to the police. [@2] Police registered a case of house trespass
 and attempted murder against the attackers and were searching for the second
-accused. [@4] Rinto demanded strict legal action against the men who attacked
-his family. [@2]
-
+accused. [@4,5] Rinto demanded strict legal action against the men who attacked
+his family. [@2] Kodakara block panchayat member Jerome John and ward member Sajitha Rajeev demanded that drug gangs in the area be caught and that strong action be taken against those responsible for the attack. [@5]
