@@ -52,6 +52,11 @@ sources:
     publisher: Z 101 Digital
     date: 2026-07-09
     language: es
+  - title: En un mes, Ocoa suma más de 15,437 plantas de marihuana decomisadas
+    url: https://www.diariolibre.com/actualidad/nacional/2026/07/10/ocoa-suma-mas-de-15437-plantas-de-marihuana-decomisadas/3595248
+    publisher: Diario Libre
+    date: 2026-07-10
+    language: es
 open_questions:
   - No weight for the 45 plants was published; they were sent to the forensic institute for weighing and no result has been reported.
   - The amount of cash seized at the site was not specified.
@@ -63,20 +68,19 @@ open_questions:
 
 Agents of the Dominican National Directorate for Drug Control and the Public
 Ministry discovered an illegal marijuana plantation in the mountains of the Los
-Limoncillos community in San José de Ocoa. [@1] Two Haitian citizens linked to
-the crop were arrested and handed over to the judicial authorities. [@1]
+Limoncillos community in San José de Ocoa. [@1,3] Two Haitian citizens linked to
+the crop were arrested and handed over to the judicial authorities. [@1,3]
 
-The plantation held 45 marijuana plants. [@1] Air force helicopters, drones and
+The plantation held 45 marijuana plants. [@1,3] Air force helicopters, drones and
 specialized personnel located the crop north of the Los Limoncillos hills in a
-hard-to-reach area. [@2] Officers also found two incinerated nurseries, a
+hard-to-reach area. [@2,3] Officers also found two incinerated nurseries, a
 fumigation pump, tanks, a roll of shade mesh, two cell phones, cash and other
-germination equipment. [@1] The seized plants were sent under chain of custody
+germination equipment. [@1,3] The seized plants were sent under chain of custody
 to the National Institute of Forensic Sciences to determine the total weight of
 the crop. [@1] The 45 plants were taken to the forensic institute for analysis
 to establish their weight. [@2]
 
 The Public Ministry and the DNCD are investigating whether the crop is linked to
-other large marijuana plantations recently dismantled in the province. [@1]
+other large marijuana plantations recently dismantled in the province. [@1,3]
 Operational teams continue focused search and tracking near the places where
-plantations have been found in Ocoa. [@2]
-
+plantations have been found in Ocoa. [@2] The 45-plant crop was the latest in a series of mountain operations in San José de Ocoa that had seized 15,437 marijuana plants in under a month. [@3]
