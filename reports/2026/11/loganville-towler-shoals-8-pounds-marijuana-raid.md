@@ -61,6 +61,10 @@ sources:
     url: https://www.yahoo.com/news/articles/pounds-mushrooms-marijuana-five-guns-023405452.html
     publisher: Yahoo News
     date: 2026-11-21
+  - title: Man arrested after 8 pounds of marijuana, psilocybin mushrooms found during Walton County search
+    url: https://www.yahoo.com/news/articles/man-arrested-8-pounds-marijuana-024333568.html
+    publisher: Yahoo News
+    date: 2026-11-22
 open_questions:
   - Officials did not release Lewis' age or say when he is due in court.
   - The ages of the minors said to have been sold drugs were not specified.
@@ -70,22 +74,21 @@ open_questions:
 
 Damien Lewis was arrested on multiple felony drug distribution and firearm
 charges after Walton County Sheriff's Office deputies raided his Loganville home
-on Towler Shoals Drive on 20 November 2026. [@1] Deputies executed a search
+on Towler Shoals Drive on 20 November 2026. [@1,3] Deputies executed a search
 warrant at the home following information that Lewis had been selling illicit
-narcotics to minors, according to the sheriff's office. [@1]
+narcotics to minors, according to the sheriff's office. [@1,3]
 
 During the search investigators found approximately 8 pounds (about 3.63 kg) of
-marijuana, 2 pounds of psilocybin mushrooms and five firearms. [@1] Officials
+marijuana, 2 pounds of psilocybin mushrooms and five firearms. [@1,3] Officials
 also confiscated psilocybin candies, oxycodone pills and THC products in various
-forms. [@1] The psilocybin mushrooms and oxycodone are not counted in the
+forms. [@1,3] The psilocybin mushrooms and oxycodone are not counted in the
 cannabis figures. [@1] The sheriff's office described the narcotics raid as
 targeting drug sales to minors at the Towler Shoals Drive home in Loganville,
 Georgia, on 20 November 2026. [@2]
 
 Deputies charged Lewis with possession of marijuana with intent to distribute
-and possession of a firearm by a convicted felon. [@1] He also faces three
+and possession of a firearm by a convicted felon. [@1,3] He also faces three
 counts of possession of a Schedule I controlled substance with intent to
 distribute for THC products, psilocybin mushrooms and psilocybin products, plus
 possession of a Schedule II controlled substance with intent to distribute for
-oxycodone. [@1]
-
+oxycodone. [@1,3]
