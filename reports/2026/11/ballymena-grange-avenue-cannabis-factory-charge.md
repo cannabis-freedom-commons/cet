@@ -48,20 +48,23 @@ sources:
     url: https://www.msn.com/en-gb/news/other/man-due-in-court-following-discovery-of-ballymena-cannabis-factory/ar-AA2hPXuj
     publisher: NorthernIrelandWorld (via MSN)
     date: 2026-11-20
+  - title: Man due in court following discovery of Ballymena cannabis factory
+    url: https://www.northernirelandworld.com/news/crime/man-due-in-court-following-discovery-of-ballymena-cannabis-factory-9362944
+    publisher: NorthernIrelandWorld
+    date: 2026-11-20
 open_questions:
-  - No number of plants, weight of cannabis or value for the drugs found was published.
-  - The man's name was not released; he was described only as 29 years old.
-  - No plea, bail decision or outcome of the 20 November 2026 court appearance was reported.
-  - The exact premises in the Grange Avenue area were not identified.
-  - The three accounts reproduce the same Police Service of Northern Ireland statement and are not independent reporting.
-  - The NorthernIrelandWorld account, like the reports already cited, reproduces the Police Service of Northern Ireland statement and is not independent reporting.
+    - No number of plants, weight of cannabis or value for the drugs found was published.
+    - The man's name was not released; he was described only as 29 years old.
+    - No plea, bail decision or outcome of the 20 November 2026 court appearance was reported.
+    - The exact premises in the Grange Avenue area were not identified.
+    - The accounts, including the NorthernIrelandWorld article, reproduce the same Police Service of Northern Ireland statement and are not independent reporting.
 ---
 
 Police in Ballymena discovered a cannabis factory in the Grange Avenue area on
-Thursday 19 November 2026 and charged a man to court. [@2,4] The 29-year-old was
+Thursday 19 November 2026 and charged a man to court. [@2,4,5] The 29-year-old was
 charged with cultivating cannabis, possession of a Class B controlled drug and
-possession of a Class B controlled drug with intent to supply. [@1,4]
+possession of a Class B controlled drug with intent to supply. [@1,4,5]
 
 He was expected to appear before Coleraine Magistrates' Court on Friday 20
-November 2026. [@2,4] Police said all charges would be reviewed by the Public
+November 2026. [@2,4,5] Police said all charges would be reviewed by the Public
 Prosecution Service, as is usual procedure. [@3]
