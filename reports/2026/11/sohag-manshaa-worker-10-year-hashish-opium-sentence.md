@@ -56,6 +56,11 @@ sources:
     publisher: Cairo24
     date: 2026-11-21
     language: ar
+  - title: تجارة الحشيش والأفيون.. المشدد 10 سنوات لعامل زراعي في سوهاج - إقرأ نيوز
+    url: https://www.iqraa.news/244708/%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D8%A7%D9%84%D8%A3%D9%81%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B4%D8%AF%D8%AF-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84/
+    publisher: إقرأ نيوز
+    date: 2026-11-21
+    language: ar
 open_questions:
   - No weight or value was reported for the hashish or the opium, so no drug quantity is recorded.
   - The defendant is identified only by the initials H.A.; his age, plea and any appeal were not reported.
@@ -71,16 +76,15 @@ The Sohag Criminal Court sentenced a worker identified only by the initials H.A.
 to 10 years in prison on Saturday 21 November 2026 for trafficking hashish and
 narcotic substances in the Manshaa markaz. [@1] The court convicted him of
 trafficking in narcotic substances and of illegally keeping a firearm and
-ammunition in the Manshaa markaz, a district of Sohag Governorate. [@2] The
+ammunition in the Manshaa markaz, a district of Sohag Governorate. [@2,3] The
 charges named hashish and opium, which investigators said he possessed with
-intent to traffic. [@2]
+intent to traffic. [@2,3]
 
 Investigations also found that he kept an unlicensed, locally made shotgun and a
-live round for it. [@2] Detectives in Manshaa had received information that the
+live round for it. [@2,3] Detectives in Manshaa had received information that the
 man was trafficking hashish, and a secret source confirmed it after the legal
 procedures and investigations. [@1] Officers arrested him, and he confessed to
 trafficking hashish and narcotic substances. [@1]
 
 The case was referred to the Sohag Criminal Court, which issued the 10-year
-sentence. [@1] A panel headed by Judge Mohamed El-Leithy issued the ruling. [@2]
-
+sentence. [@1] A panel headed by Judge Mohamed El-Leithy issued the ruling. [@2,3]
