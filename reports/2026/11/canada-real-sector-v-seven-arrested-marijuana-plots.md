@@ -42,6 +42,11 @@ media:
     media_url: https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/21/Sin%20t%c3%adtulo-RmXYx9vTkTjOEeU7mRLOVZN-1200x840@diario_abc.jpg
     publisher: ABC
     caption: Guardia Civil officers during the operation in Rivas Vaciamadrid, as captioned by ABC.
+  - kind: photo
+    url: https://www.msn.com/es-es/noticias/otras/la-operaci%C3%B3n-guardia-civil-covibar-desmantela-un-clan-de-marihuana-en-dos-naves-de-la-ca%C3%B1ada-real-en-rivas/ar-AA2hW9i0
+    media_url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hVJXL.img?w=768&h=512&m=4&q=100
+    publisher: Moncloa.com (via MSN)
+    caption: The two warehouses in sector V of the Cañada Real, in the area adjoining the Covibar neighbourhood of Rivas Vaciamadrid, as captioned by Moncloa.com.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 24bc745e80a4cdbe2b220bc8fd5eaac2
@@ -67,21 +72,29 @@ sources:
     publisher: Moncloa.com (via MSN)
     date: 2026-11-21
     language: es
+  - title: La operación Guardia Civil Covibar desmantela un clan de marihuana en dos naves de la Cañada Real en Rivas
+    url: https://www.msn.com/es-es/noticias/otras/la-operaci%C3%B3n-guardia-civil-covibar-desmantela-un-clan-de-marihuana-en-dos-naves-de-la-ca%C3%B1ada-real-en-rivas/ar-AA2hW9i0
+    publisher: Moncloa.com (via MSN)
+    date: 2026-11-21
+    language: es
+open_questions:
+    - The Guardia Civil gave no figure for the weight of the drugs seized or the number of plants found.
+    - No outcome of the proceedings against the seven detainees has been reported beyond the provisional prison order for five of them.
 ---
 
 Guardia Civil officers arrested seven people on Monday 16 November 2026 in
 sector V of the Cañada Real, Madrid, as members of a criminal group selling
-drugs. [@2] The detainees are aged between 30 and 40 and were brought before a
+drugs. [@2,5] The detainees are aged between 30 and 40 and were brought before a
 court. [@1,4] ABC described the seven detainees as members of one family. [@3] The
 Guardia Civil said some of them were jailed and others released with charges.
-[@1] ABC reported that five of the seven entered provisional prison. [@3,4]
+[@1] ABC reported that five of the seven entered provisional prison. [@3,4,5]
 
 Officers searched two plots in the sector that were used as drug sales and
 consumption points run by a family clan. [@2] ABC described the two sites as
-warehouses (naves) in sector V of the Cañada Real. [@3,4] ABC said the area
+warehouses (naves) in sector V of the Cañada Real. [@3,4,5] ABC said the area
 adjoins the Covibar neighbourhood in Rivas Vaciamadrid. [@3,4] Inside, officers
 found various narcotics and a marijuana plantation with buds in the drying
-phase. [@2,4] They also seized three shotguns, 113 lottery tickets, fighting cocks
+phase. [@2,4,5] They also seized three shotguns, 113 lottery tickets, fighting cocks
 and a high-end vehicle. [@2] Buyers came to the two plots to buy the drug and
 consume it in a Rivas Vaciamadrid neighbourhood. [@1]
 
