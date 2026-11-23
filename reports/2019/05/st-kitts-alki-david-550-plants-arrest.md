@@ -49,6 +49,10 @@ sources:
     url: https://www.thestkittsnevisobserver.com/detained-cannabis-tycoon-offers-high-profits-but-questions-abound/
     publisher: The St Kitts Nevis Observer
     date: 2019-05-11
+  - title: Alki David, Coca-Cola Billionaire, Arrested With 5,000 Weed Plants
+    url: https://www.rollingstone.com/culture/culture-news/alki-david-coca-cola-cannabis-marijuana-arrest-835880/
+    publisher: Rolling Stone
+    date: 2019-05-15
 open_questions:
   - The widely repeated 5,000-plant and about $1.3 million figures differ from the DPP official 550-plant account; this report uses the official plant count and records no value because currency and attribution are unclear.
   - No weight was published for the 550 plants, so no kilograms are recorded.
@@ -56,6 +60,7 @@ open_questions:
   - No court outcome after the ordered 23 September 2019 appearance was reported in the opened sources.
   - Chase Ergen travelled with David but the cannabis charges named only David; any later custody of Ergen on non-cannabis allegations is not counted here.
   - The Vanity Fair page is paywalled beyond its update paragraph; fuller enforcement details come from the DPP statement via SKNVibes and the St Kitts Nevis Observer.
+  - Rolling Stone places the plane's landing in St Kitts on Saturday 11 May and David's arrest on a Monday, and says passengers were held for eight hours after landing, differing from the report's account of arrival on 7 May and arrest on 9 May.
 ---
 
 On 7 May 2019 a private jet carrying Alkiviades Alki David arrived at the Robert
@@ -66,7 +71,7 @@ custody for analysis. [@2] On the advice of the Director of Public Prosecutions,
 David was arrested on 9 May 2019. [@2] He was charged with possession of
 cannabis, possession with intent to supply, importation of cannabis and
 importation of a restricted item. [@2] He had landed with business partner Chase
-Ergen and actor Jonathan Rhys Meyers. [@1] Meyers was released without
+Ergen and actor Jonathan Rhys Meyers. [@1,4] Meyers' wife and his mother-in-law were also reportedly on the plane. [@4] Meyers was released without
 sustaining any charges. [@1] Police said David was arrested on May 9 and
 appeared in court the following day. [@3]
 
@@ -75,12 +80,11 @@ On arrival David had declared 550 plants as hemp in 11 crates of 50 plants each.
 Nevis drug law. [@2]
 
 David said he had come to build relationships with farmers to grow hemp for his
-Swissx business selling legal cannabis products abroad. [@3] A local lawyer said
+Swissx business selling legal cannabis products abroad. [@3,4] Through his legal team he said he had cleared up the situation with the authorities in St Kitts-Nevis and looked forward to continuing plans to develop the medicinal cannabis industry on the island. [@4] A local lawyer said
 the mere possession of the marijuana plant is illegal and THC content does not
 matter. [@3] He was first released on $30,000 cash bail with $50,000 in
 sureties, ordered to surrender travel documents and report daily to Frigate Bay
 police. [@3] On 14 May the court varied bail to EC$300,000 cash with EC$300,000
 in sureties and returned his travel documents. [@2] He was ordered to return to
-court on 23 September 2019. [@2] He then posted $300,000 bail before leaving the
-island on Tuesday. [@1]
-
+court on 23 September 2019. [@2,4] He then posted $300,000 bail before leaving the
+island on Tuesday. [@1,4]
