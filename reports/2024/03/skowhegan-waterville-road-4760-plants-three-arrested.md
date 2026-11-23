@@ -72,12 +72,17 @@ sources:
     url: https://wgme.com/news/local/trial-halted-after-maine-marijuana-grow-suspect-leaves-us-china-yao-bin-cheng
     publisher: WGME
     date: 2026-09-30
+  - title: Chinese man charged in connection with illegal grow flees United States
+    url: https://www.wabi.tv/2026/09/30/chinese-man-charged-connection-with-illegal-grow-flees-united-states/
+    publisher: WABI
+    date: 2026-09-30
 open_questions:
-  - 'The three defendants'' ages differ between accounts: WGME, Maine Public and the 2024 Morning Sentinel report give 61, 59 and 56, while the 2026 Morning Sentinel report gives 63, 57 and 59; the ages from the sheriff''s 2024 release are used.'
-  - The cash seized is described as suspected drug proceeds and given only as more than $7,000; the 2026 court report puts a forfeiture claim at $6,316 in cash.
-  - No weight of dried cannabis product was reported, and no value estimate for the plants was published.
-  - The sheriff's release does not say what each defendant's role was or where the cannabis was to be sold.
-  - No outcome is reported for Ying Xia Liao's case, which the 2026 Morning Sentinel report describes as still pending.
+    - 'The three defendants'' ages differ between accounts: WGME, Maine Public and the 2024 Morning Sentinel report give 61, 59 and 56, while the 2026 Morning Sentinel report gives 63, 57 and 59; the ages from the sheriff''s 2024 release are used.'
+    - The cash seized is described as suspected drug proceeds and given only as more than $7,000; the 2026 court report puts a forfeiture claim at $6,316 in cash.
+    - No weight of dried cannabis product was reported, and no value estimate for the plants was published.
+    - The sheriff's release does not say what each defendant's role was or where the cannabis was to be sold.
+    - No outcome is reported for Ying Xia Liao's case, which the 2026 Morning Sentinel report describes as still pending.
+    - WABI reported that more than 5,000 plants were seized, while the sheriff's 2024 statement put the count at 4,760; the report uses 4,760.
 ---
 
 Somerset County Sheriff's deputies executed a drug search warrant at a residence
@@ -108,6 +113,5 @@ guilty to a misdemeanour that was later dismissed under a deferred disposition
 agreement. [@4] Yao Bin Cheng's trial was called off in September 2026 after his
 lawyer told a judge he had returned to China and did not intend to come back,
 and the judge issued a no-bail arrest warrant and ordered forfeiture of his
-$10,000 cash bail. [@4] Cheng still faces felony drug trafficking and marijuana
-cultivation charges should he return to the United States. [@5]
-
+$10,000 cash bail. [@4,6] Cheng still faces felony drug trafficking and marijuana
+cultivation charges should he return to the United States. [@5,6]
