@@ -1,0 +1,113 @@
+---
+code: J1R7PS
+added_at: "2026-11-23T16:41:34.785116Z"
+date: 2026-11-22
+country: th
+place: Cherng Talay, Thalang district, Phuket
+coordinates: [7.9856, 98.2955]
+precision: locality
+type: raid
+also: [arrest, seizure, prosecution]
+title: Three held as Phuket raided cannabis shop selling during suspension
+summary: >-
+  Phuket officials raided a cannabis shop in Cherng Talay, Thalang district, early on 22 November 2026 and detained three employees for selling cannabis flowers while the shop's licence was suspended for 90 days. Officers seized high-quality cannabis flowers valued at more than 2 million baht and also found hash extract, out-of-hours alcohol sales and unlabelled cannabis food products.
+figures:
+  arrested: 3
+  charged: 3
+  sites: 1
+  value:
+    amount: 2000000
+    currency: THB
+details:
+  agencies: [Phuket provincial administration special task force, Phuket Provincial Public Health Office, Cherng Talay Police Station]
+  agency_types: [police, regulator]
+  products:
+    - {product: flower}
+    - {product: hashish}
+  activity: [sale]
+  setting: [shop]
+  charges: [jointly selling controlled cannabis flowers while the licence was suspended, jointly selling alcohol during prohibited hours, selling cannabis-infused food products without a food registration number or legal labelling]
+  case_stage: charged
+  region: Phuket
+data_sources:
+  details.activity: [1]
+  details.agencies: [4]
+  details.agency_types: [4]
+  details.case_stage: [3]
+  details.charges: [3]
+  details.products: [4]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.charged: [3]
+  figures.sites: [2]
+  figures.value: [1]
+media:
+  - kind: photo
+    url: https://www.thairath.co.th/news/local/2973958
+    media_url: https://static.thairath.co.th/media/dFQROr7oWzulq5Fa7HTLrjVKr053tnldCeRwuySsqpViek5IY1xWMzdNB93upoKjtqn.webp
+    publisher: Thairath
+    caption: Officers and customers inside the cannabis shop in Cherng Talay, Phuket, in the lead photograph of the Thairath report on the 22 November 2026 raid.
+  - kind: photo
+    url: https://www.thairath.co.th/news/local/2973958
+    media_url: https://static.thairath.co.th/media/Dtbezn3nNUxytg04ay0HV51Os5mcsK06fM4YUY2DJ1vUo4.webp
+    publisher: Thairath
+    caption: An officer inside the cannabis shop in Cherng Talay, Phuket, published with the report of the raid.
+status: verified
+created_by_model: swancloud/deepseek-v4.1-flash#max
+submission: 92d4b9c468111a82cafe40858eb2d741
+tags: [phuket, cherng-talay, licence-suspension, cannabis-shops]
+sources:
+  - title: รองผู้ว่าฯ ภูเก็ต บุกจับร้านกัญชา ไม่สนกฎหมาย ฝ่าฝืนคำสั่งพัก 90 วัน ลักลอบขายต่อ
+    url: https://www.thairath.co.th/news/local/2973958
+    publisher: Thairath Online
+    date: 2026-11-22
+    language: th
+  - title: บุกตรวจร้านกัญชา ไม่สนกฎหมาย หลังฝ่าฝืนคำสั่งพัก 90 วัน ลักลอบขายต่อ ยึดของกลางกว่า 2 ล้านบาท จับพนักงาน 3ราย
+    url: https://mgronline.com/south/detail/9690000111438
+    publisher: MGR Online
+    date: 2026-11-22
+    language: th
+  - title: บุกจับร้านกัญชา รวบ3พนักงาน ฝ่าฝืนคำสั่งพักใช้ใบอนุญาต ยึดช่อดอกกัญชามูลค่า 2 ล้าน
+    url: https://www.khaosod.co.th/around-thailand/news_10480549
+    publisher: Khaosod
+    date: 2026-11-22
+    language: th
+  - title: Three arrested after suspended cannabis shop raided in Cherng Talay
+    url: https://www.rawai.com/three-arrested-after-suspended-cannabis-shop-raided-in-cherng-talay/
+    publisher: Rawai Phuket News
+    date: 2026-11-23
+open_questions:
+  - No weight in kilograms was published for the seized cannabis flowers or for the hash extract; the only figure given was the officials' value of more than 2 million baht.
+  - 'Accounts differ on the time of the raid: Thairath says 1.45am, MGR Online and Rawai Phuket News about 1.20am on 22 November 2026.'
+  - The shop, its licence holder and the three detained employees are not identified by name.
+  - No court outcome was reported; the three employees had only preliminary charges and the food-labelling case was still under examination.
+  - The hash extract's legal classification under narcotics law had not been determined.
+  - Most published accounts reproduce the same provincial statement, so the details rest largely on one official account.
+---
+
+Phuket provincial officials led by deputy governor Romdon Haji-Awae raided a
+cannabis shop in Cherng Talay, Thalang district, Phuket, in the early hours of
+22 November 2026. [@1] Officers from the Phuket provincial administrative
+special task force, the provincial public health office and Cherng Talay police
+took part. [@4] Officers detained three employees inside the shop and told them
+of preliminary charges. [@1] Many foreign tourists were eating and drinking
+inside the large venue, which had VIP rooms for customers. [@1]
+
+Officers seized high-quality cannabis flowers that officials valued at more than
+2 million baht. [@1] The shop's cannabis licence had been suspended for 90 days
+from 23 October 2026 because it had not met service conditions, including
+selling without a doctor's prescription. [@2] Officers also found hash cannabis
+extract, which the province said would be examined over whether it fell under
+narcotics law. [@1] The shop was also selling alcohol outside permitted hours
+and cannabis-infused food products without a food registration number or the
+required labelling. [@2]
+
+The three employees were accused of jointly selling controlled cannabis flowers
+while the licence was suspended under the Protection and Promotion of Thai
+Traditional Medical Wisdom Act. [@3] The food-products case was still being
+examined for the elements of the offence and the people responsible. [@3] Romdon
+said the raid followed the policy of Deputy Interior Minister Polphir
+Suwanchawee to regulate cannabis-selling businesses and maintain public order.
+[@2] The province said it would keep inspecting entertainment venues and
+cannabis shops in Phuket. [@2]
+
