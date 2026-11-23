@@ -42,28 +42,31 @@ sources:
     url: https://beninwebtv.com/en/malanville-a-piroguier-arrested-on-the-niger-river-with-two-balls-of-indian-hemp-after-an-attempted-escape
     publisher: Bénin Web TV
     date: 2026-09-23
+  - title: 'Bénin : à Malanville, un piroguier tente de fuir après une saisie de chanvre indien'
+    url: https://lanouvelletribune.info/2026/09/benin-a-malanville-un-piroguier-tente-de-fuir-apres-une-saisie-de-chanvre-indien/
+    publisher: La Nouvelle Tribune
+    date: 2026-09-23
+    language: fr
 open_questions:
-  - No weight was published for the two balls or packages, so no kilograms can be recorded.
-  - The suspect's name and age were not published.
-  - No charge or court outcome was reported; the flagrante delicto investigation was still under way.
-  - Only the French original and the same outlet's English version could be opened; no independent second outlet was found.
+    - No weight was published for the two balls or packages, so no kilograms can be recorded.
+    - The suspect's name and age were not published.
+    - No charge or court outcome was reported; the flagrante delicto investigation was still under way.
 ---
 
 On 22 September 2026 at about 2 p.m., officers of the Malanville border police
-station arrested a boatman in possession of narcotics. [@1] During a routine
+station arrested a boatman in possession of narcotics. [@1,3] The check took place near the Malanville bridge. [@3] During a routine
 check on the border waters, officers carried out a thorough inspection of the
 boat and the driver's luggage. [@2] Instead of the expected fish products, the
-search found two packages containing carefully hidden balls of Indian hemp. [@1]
+search found two packages containing carefully hidden balls of Indian hemp. [@1,3]
 
 Seeing his cargo discovered, the boatman immediately jumped into the river to
-try to escape from the police by swimming. [@1] Thanks to a quick alert and the
+try to escape from the police by swimming. [@1,3] Thanks to a quick alert and the
 active help of riverside residents, officers pulled the man from the water and
-ended his escape. [@1]
+ended his escape. [@1,3]
 
 When questioned about the origin of the drugs, the suspect said the parcel had
 been entrusted to him by a maize trader based across the border in the Nigerien
-city of Gaya. [@1] Taken to the police station, he was placed in custody. [@1] A
+city of Gaya. [@1,3] Taken to the police station, he was placed in custody. [@1,3] A
 flagrante delicto investigation was opened under the direction of the public
 prosecutor to verify those claims, identify the alleged sponsor and dismantle
-the branches of this river smuggling network. [@1]
-
+the branches of this river smuggling network. [@1,3]
