@@ -66,16 +66,22 @@ sources:
     publisher: Grupo A Hora
     date: 2026-11-21
     language: pt
+  - title: PRF apreende quase 40 kg de maconha após perseguição e manobras perigosas
+    url: https://folharegionalwebtv.com/seguranca/prf-apreende-quase-40-kg-de-maconha-apos-perseguicao-e-manobras-perigosas-198004
+    publisher: Folha Regional
+    date: 2026-11-21
+    language: pt
 open_questions:
   - G1 and Correio do Povo place the stop and crash in Lajeado, while Grupo A Hora reports that the pursuit ended in Arroio do Meio.
   - Correio do Povo's standfirst says the Uno overturned, while its text and the other accounts say it collided with a tree.
   - The suspects' names, ages, charges and custody status were not published.
   - No street value was reported for the 38 kg of marijuana.
   - G1 and Correio do Povo both relay the PRF account of the pursuit, so they are not independent reporting.
+  - Folha Regional says the pursuit began on the BR-386 near the ERS-130 access, while G1 places the stop order on the ERS-130 at about kilometre 105.
 ---
 
 Two men were arrested with 38 kg of marijuana in Lajeado, Rio Grande do Sul, on
-the morning of Saturday 21 November 2026. [@1]
+the morning of Saturday 21 November 2026. [@1,4]
 
 The Federal Highway Police pursued their Fiat Uno on the ERS-130 after the
 driver ignored a stop order at about kilometre 105. [@1] Camera data from the
@@ -85,6 +91,5 @@ Grupo A Hora reported that a home security camera filmed the end of the pursuit
 in Arroio do Meio. [@3]
 
 Officers found 49 marijuana tablets in three bags in the boot, weighing 38 kg in
-total. [@1] Both occupants were arrested and taken to the judicial police with
-the drugs. [@2] The PRF did not release the suspects' identities. [@1]
-
+total. [@1,4] Both occupants were arrested and taken to the judicial police with
+the drugs. [@2,4] The PRF did not release the suspects' identities. [@1]
