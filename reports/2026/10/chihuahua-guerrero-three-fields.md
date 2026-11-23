@@ -59,6 +59,11 @@ sources:
     publisher: La Voz de Chihuahua
     date: 2026-10-22
     language: es
+  - title: Destruye SSPE tres plantíos de marihuana en Guerrero
+    url: https://www.vozenred.com/2015/notas.php?i=413780
+    publisher: Voz en Red
+    date: 2026-10-23
+    language: es
 media:
   - kind: photo
     url: https://www.eldiariodechihuahua.mx/estado/2026/oct/22/localiza-y-destruye-sspe-3-plantios-de-marihuana-en-municipio-de-guerrero-850502.html
@@ -87,15 +92,15 @@ media:
 
 On 21 October 2026, officers of the Chihuahua state public-security
 secretariat, patrolling tracks in hard-to-reach country with drones, found a
-cannabis field in the municipality of Guerrero. [@1,2,3] They then found two
+cannabis field in the municipality of Guerrero. [@1,2,3,5] They then found two
 more fields and two drying areas. [@1,2,3]
 
 The state police estimated that the three fields together covered 6.05
 hectares and held about 242,000 plants, which they put at about 242 tonnes.
-[@1,2,4] On the two drying lines, plants hung on 16 wire frames: more than
-14,100 plants, estimated at 14.1 tonnes. [@1,2,3] El Diario de Chihuahua says
-the fields were destroyed where they were found. [@1] Net Noticias says the
+[@1,2,4,5] On the two drying lines, plants hung on 16 wire frames: more than
+14,100 plants, estimated at 14.1 tonnes. [@1,2,3,5] El Diario de Chihuahua says
+the fields were destroyed where they were found. [@1,5] Net Noticias says the
 operation ended with the destruction of the three fields and the two drying
 areas, and names Luis Aguirre as the head of the secretariat. [@2] The public-security secretariat said the crops and the material secured in the drying areas were destroyed and incinerated where they were found. [@4]
 
-After the first field, the officers widened the search looking for whoever was responsible. [@1] The reports name no one arrested. [@1,2]
+After the first field, the officers widened the search looking for whoever was responsible. [@1,5] The reports name no one arrested. [@1,2,5]
