@@ -37,6 +37,11 @@ media:
     media_url: https://dmpnews.org/wp-content/uploads/2026/11/50-1.jpg
     publisher: DMP News
     caption: 'Dhaka Metropolitan Police photo published with its statement on the arrest of two people and the seizure of 80 kg of ganja in Magbazar. Photo: DMP News'
+  - kind: photo
+    url: https://www.vodbangla.com/news/58967/MNrO8YPmKO/
+    media_url: https://www.vodbangla.com/media/article_images/Untitled-16_itS1O8E.jpg
+    publisher: VOD Bangla
+    caption: 'Two drug dealers arrested with 80 kg of ganja by the DMP Detective Branch in Magbazar. Photo: Collected via VOD Bangla'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: ea4024e9cb305dd534d699d6bf4b4863
@@ -47,25 +52,29 @@ sources:
     publisher: DMP News (Dhaka Metropolitan Police)
     date: 2026-11-22
     language: bn
+  - title: রাজধানীতে ৮০ কেজি গাঁজাসহ গ্রেপ্তার ২
+    url: https://www.vodbangla.com/news/58967/MNrO8YPmKO/
+    publisher: VOD Bangla
+    date: 2026-11-22
+    language: bn
 open_questions:
-  - The statement does not say where in Magbazar the two were stopped or how the ganja was being carried.
-  - No charge, court date or detention decision was reported; police said only that further legal action was being processed.
-  - No estimated market value was published for the 80 kilograms of ganja.
-  - The account comes only from the Dhaka Metropolitan Police news service; no independent outlet reporting was found.
+    - The statement does not say where in Magbazar the two were stopped or how the ganja was being carried.
+    - No charge, court date or detention decision was reported; police said only that further legal action was being processed.
+    - No estimated market value was published for the 80 kilograms of ganja.
+    - Both accounts derive from the same DMP press release rather than independent reporting; the VOD Bangla article gives no ages for the two named people.
 ---
 
 Dhaka Metropolitan Police's Detective Branch (DB) arrested two people on
 drug-trafficking allegations in the Magbazar area of Dhaka and seized 80
-kilograms of ganja, the local name for cannabis, from them. [@1] The force said
+kilograms of ganja, the local name for cannabis, from them. [@1,2] The force said
 the arrests were made by the DB's Wari division during a drive in the capital.
-[@1] Police named the two as Md Babu Mia, 40, and Beauty Begum, 30, and
-described both as drug traffickers. [@1]
+[@1,2] Police named the two as Md Babu Mia, 40, and Beauty Begum, 30, and
+described both as drug traffickers. [@1,2]
 
 The DB said its officers carried out the operation in Magbazar, inside the Ramna
-Model police station area, at about 11:15 am on Sunday 22 November 2026. [@1]
+Model police station area, at about 11:15 am on Sunday 22 November 2026. [@1,2]
 The ganja seized in the drive weighed 80 kilograms, according to the police
-account. [@1] Police said further legal action against the two was being
+account. [@1,2] Police said further legal action against the two was being
 processed, but did not say what charges they would face or when they would
-appear in court. [@1] The statement gave no estimate of the market value of the
+appear in court. [@1,2] The statement gave no estimate of the market value of the
 80 kilograms of ganja. [@1]
-
