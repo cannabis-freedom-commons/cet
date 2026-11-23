@@ -54,21 +54,26 @@ sources:
     publisher: actu.fr / Le Journal de Vitré
     date: 2026-11-20
     language: fr
+  - title: '« Des dizaines de ventes par jour » : un trafic de stupéfiants démantelé à Vitré, quatre interpellations et déferrements'
+    url: https://www.ouest-france.fr/societe/drogue/des-dizaines-de-ventes-par-jour-un-trafic-de-stupefiants-demantele-a-vitre-quatre-interpellations-et-deferrements-f425dade-e4e5-11f1-afa7-9a0bb82a33d1
+    publisher: Ouest-France
+    date: 2026-11-20
+    language: fr
 open_questions:
-  - No weight or value was published for the cannabis resin or the cocaine found at the suspects' homes.
-  - The suspects were described only as young adults ("jeunes majeurs"); their ages and names were not released.
-  - Only the range of sentences, 6 to 20 months fully suspended, was published; the term given to each of the four is not known.
-  - How many consumers were identified and how many are being prosecuted is not stated.
-  - The cocaine sold by the same network is excluded from the cannabis figures because no separate cannabis weight was given.
-  - No appeal or further hearing after the 19 November 2026 sentencing was reported.
+    - No weight or value was published for the cannabis resin or the cocaine found at the suspects' homes.
+    - The suspects' names were not released.
+    - Only the range of sentences, 6 to 20 months fully suspended, was published; the term given to each of the four is not known.
+    - How many consumers were identified and how many are being prosecuted is not stated.
+    - The cocaine sold by the same network is excluded from the cannabis figures because no separate cannabis weight was given.
+    - No appeal or further hearing after the 19 November 2026 sentencing was reported.
 ---
 
 Gendarmes in Vitré, in Ille-et-Vilaine, arrested four men on Tuesday 17 November
-2026 after two months of investigation into a local drug network. [@2] The
+2026 after two months of investigation into a local drug network. [@2,3] The
 investigation began in mid-September 2026. [@2] The Rennes prosecutor's office
 said the group had two organisers, a dedicated delivery man and an accomplice
 acting as a nourrice, a stash keeper. [@1] The men sold cannabis and cocaine in
-small quantities. [@1] The gendarmes estimated the activity at several dozen
+small quantities. [@1,3] The four arrested were aged 18 and 19. [@3] The gendarmes estimated the activity at several dozen
 sales a day. [@2] The four were arrested at their homes. [@2] The operation
 mobilised 60 people, including investigators, arrest units and municipal police.
 [@2] All four admitted the facts and were brought before the court under
@@ -86,4 +91,3 @@ avoid being caught with large amounts. [@2] The doses found at the suspects'
 homes were enough, the officer said, to materialise the trafficking. [@2]
 Investigators also identified many consumers; some were questioned and are being
 prosecuted by the prosecutor's office. [@2]
-
