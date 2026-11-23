@@ -100,6 +100,11 @@ sources:
     publisher: UKR.NET
     date: 2026-11-19
     language: uk
+  - title: 'Облаштував у будинку заборонену плантацію: киянину загрожує до восьми років'
+    url: https://kyivschina24.com/news/oblashtuvav-u-budynku-zaboronenu-plantacziyu-kyyanynu-zagrozhuye-do-vosmy-rokiv/
+    publisher: Київщина 24/7
+    date: 2026-11-20
+    language: uk
 open_questions:
   - No date is given for the search, the charge or the court's detention order; 19 November 2026 is the publication date of the Kyiv police statement and stands in for the incident date.
   - The seized plants and prepared cannabis are reported as a combined weight of more than 5 kg, so no separate weight for the dried cannabis was published.
@@ -111,22 +116,22 @@ open_questions:
 ---
 
 A 45-year-old Kyiv resident fitted out a special room in his own private house
-to grow cannabis illegally, Kyiv police said. [@2,3,4] Officers and investigators
+to grow cannabis illegally, Kyiv police said. [@2,3,4,6] Officers and investigators
 from the Shevchenkivskyi police department in Kyiv established that he grew
 cannabis and sold it. [@2] He equipped the room with lighting, ventilation and
-drip irrigation. [@1,3,5]
+drip irrigation. [@1,3,5,6]
 
 During a search of his home, officers found and seized about 70 cannabis plants,
-prepared cannabis, and equipment for weighing and packaging the drug. [@1,3,5] The
+prepared cannabis, and equipment for weighing and packaging the drug. [@1,3,5,6] The
 total weight of the seized drug was more than 5 kg, which police valued at more
-than 2.5 million hryvnias at black-market prices. [@2,3,5] He tended the plants
-himself, watering and fertilising them. [@1,4] He sold the finished cannabis to
-clients. [@1,3,4]
+than 2.5 million hryvnias at black-market prices. [@2,3,5,6] He tended the plants
+himself, watering and fertilising them. [@1,4,6] He sold the finished cannabis to
+clients. [@1,3,4,6]
 
 The Shevchenkivska district prosecutor's office supervised the investigation.
-[@2,5] Investigators notified him of suspicion under two articles of the Criminal
-Code. [@2,3,5] Part 2 of article 310 covers illegal sowing or growing of cannabis in
-quantities of 50 or more plants. [@2,3] Part 1 of article 307 covers illegal
-manufacture and storage of narcotics for sale. [@2,3] The maximum penalty for the
-charges is up to eight years in prison. [@1,3,4] At the investigators' request, a
-court ordered that he be held in custody. [@2,3,5]
+[@2,5,6] Investigators notified him of suspicion under two articles of the Criminal
+Code. [@2,3,5,6] Part 2 of article 310 covers illegal sowing or growing of cannabis in
+quantities of 50 or more plants. [@2,3,6] Part 1 of article 307 covers illegal
+manufacture and storage of narcotics for sale. [@2,3,6] The maximum penalty for the
+charges is up to eight years in prison. [@1,3,4,6] At the investigators' request, a
+court ordered that he be held in custody. [@2,3,5,6]
