@@ -49,6 +49,11 @@ sources:
     publisher: Radio América
     date: 2026-10-22
     language: es
+  - title: 'Duro golpe al narcotráfico: Incautan más de 1,4 toneladas de droga en Falcón (+Fotos)'
+    url: https://www.laiguana.tv/articulos/1616763-venezuela-incauta-drogas/
+    publisher: La Iguana TV
+    date: 2026-10-22
+    language: es
 media:
   - kind: photo
     url: https://radioamerica.com.ve/incautan-casi-una-tonelada-media-droga-costas-falcon/
@@ -57,21 +62,21 @@ media:
     caption: >-
       Three men stand with National Guard officers and rows of packages in a courtesy photo
       published with the Falcón seizure.
-open_questions:
-  - 22 October 2026 is the publication date; the reports do not give a separate day for the interception.
-  - The three people arrested are not named.
-  - The courtesy photo shows several kinds of package, and the articles do not say which are the marijuana cakes and which are the cocaine.
-  - No precise landing place or position along the Falcón coast is named.
+  - kind: photo
+    url: https://www.laiguana.tv/articulos/1616763-venezuela-incauta-drogas/
+    media_url: https://www.laiguana.tv/wp-content/uploads/2026/10/Venezuela-asesta-otro-golpe-al-narcotrafico-al-incautar-mas-de-14-toneladas-de-droga-en-Falcon-696x464.avif
+    publisher: La Iguana TV
+    caption: Photo published with the report of the more than 1.4 tonnes of drugs seized off Falcón.
 ---
 
 The Bolivarian National Guard arrested three people after stopping a go-fast boat off the coast of
-Falcón state. [@1,2] The interior ministry said the boarding was carried out by the National
+Falcón state. [@1,2,3] The interior ministry said the boarding was carried out by the National
 Anti-Drug Command, with naval aviation and the coastal surveillance command. [@1] Radio América
 named the units as the regional anti-drug intelligence unit URIA-13, Naval Aviation, GNB Zone
-Command 13 and Coastal Surveillance Detachment 13. [@2]
+Command 13 and Coastal Surveillance Detachment 13. [@2,3]
 
 The load weighed 1,494.362 kilograms in 1,735 cakes: nine cakes of cocaine at 8.856 kilograms and
-1,726 cakes of marijuana at 1,485.506 kilograms. [@1,2] The ministry said the result came from
-joint intelligence with the National Anti-Drug Superintendency and French customs. [@1,2] The
-three people and the drugs were handed to the public prosecutor. [@1,2] The reports do not name
+1,726 cakes of marijuana at 1,485.506 kilograms. [@1,2,3] The ministry said the result came from
+joint intelligence with the National Anti-Drug Superintendency and French customs. [@1,2,3] The
+three people and the drugs were handed to the public prosecutor. [@1,2,3] The reports do not name
 them. [@1,2]
