@@ -99,13 +99,18 @@ sources:
     url: https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico
     publisher: Al Jazeera
     date: 2026-11-21
+  - title: అంతర్జాతీయ డ్రగ్ కింగ్‌పిన్ పట్టివేత!
+    url: https://prabhanews.com/international-drug-kingpin-captured/
+    publisher: Andhra Prabha
+    date: 2026-11-21
+    language: te
 open_questions:
     - The Al Jazeera account describes three men arrested in the Guasave raid and gives no death toll, while other sources cited in the report put the total at eight arrested and eleven killed.
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
 Isidro and listed among the FBI's Ten Most Wanted fugitives, in Guasave,
-Sinaloa, on Friday 20 November 2026. [@2,10] He led the Beltran Leyva organisation,
+Sinaloa, on Friday 20 November 2026. [@2,10,11] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11] He led the Beltran Leyva organisation,
 allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10] The operation also
 detained his cousin German, alias Serafin, described as the group's
 second-in-command, and his brother-in-law Jose, its financial operator. [@6]
