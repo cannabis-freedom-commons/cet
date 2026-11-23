@@ -83,20 +83,27 @@ sources:
     publisher: Diario de Los Andes (Agencia EFE)
     date: 2022-09-05
     language: es
+  - title: FANB incautó cerca de 3 toneladas de marihuana en la Península de Paraguaná
+    url: https://www.laradiodelsur.com.ve/fanb-incauto-cerca-de-3-toneladas-de-marihuana-en-la-peninsula-de-paraguana/
+    publisher: La Radio del Sur
+    date: 2022-09-05
+    language: es
+open_questions:
+    - The source gives two figures for the number of drug bundles on the boat, 89 in its opening paragraph and 121 in the detailed account; the report uses 121.
 ---
 
 On 3 September 2022 Venezuela's armed forces intercepted an unmarked vessel off
 the Caribbean coast carrying more than 3.1 US tons (2.8 metric tons) of
 marijuana and almost 18 pounds (8 kg) of cocaine, along with seven spare
-outboard motors, 33 large fuel containers and a satellite phone. [@1,2] The boat was first sighted 4.5 nautical miles north of the Puerto Escondido sector, in Cabo San Román, Falcón municipality. [@4] The
+outboard motors, 33 large fuel containers and a satellite phone. [@1,2] The boat was first sighted 4.5 nautical miles north of the Puerto Escondido sector, in Cabo San Román, Falcón municipality. [@4,6] The
 boat had sailed from Colombia and was bound for the island of Martinique.
 [@1,5] Hernández said the crew had set out from Alta Guajira in Colombia and planned to pass Aruba, Curaçao and Bonaire before reaching Martinique. [@4]
 
-Twelve Venezuelans travelling on the boat were arrested. [@1,2,3,4] After FANB troops sighted the vessel, the crew were pursued and captured. [@5] General
+Twelve Venezuelans travelling on the boat were arrested. [@1,2,3,4,6] The case was placed before prosecutor Abidail Valbuena of the 13th prosecutor's office with drug jurisdiction at the Public Ministry. [@6] After FANB troops sighted the vessel, the crew were pursued and captured. [@5] The vessel was detected by the Bolivarian National Guard's Coastal Surveillance Command and Regional Anti-Drug Intelligence Unit No. 13 of the National Anti-Drug Command. [@6] General
 Domingo Hernández Lárez, head of the Operational Strategic Command of the
 armed forces, said they worked for the Colombia-based Cartel of the Guajira.
 [@1,2,4,5] The 2,857 kg of marijuana was displayed at a beachside camp in the
 village of Tiraya on the Paraguaná Peninsula, which the military called the
-most important marijuana stash found in the country since 2012. [@1,2,3,5] Hernández said the marijuana was packed in 121 bundles holding 5,063 blocks, known in Venezuela as panelas. [@4]
+most important marijuana stash found in the country since 2012. [@1,2,3,5] Hernández said the marijuana was packed in 121 bundles holding 5,063 blocks, known in Venezuela as panelas. [@4,6]
 
-The arrests and the seizure were part of special armed forces operations along Venezuela's border. [@3] Hernández said the military had disabled 305 aircraft since 2012, 27 of them in the current year. [@3,4] Hernández also said 40.2 tonnes of illegal drugs had been seized in Venezuela so far that year, 29.2% more than in the same period of the previous year. [@3]
+The arrests and the seizure were part of special armed forces operations along Venezuela's border. [@3] The operation was named "Cacique Manaure Sep 2022". [@6] Hernández said the military had disabled 305 aircraft since 2012, 27 of them in the current year. [@3,4] Hernández also said 40.2 tonnes of illegal drugs had been seized in Venezuela so far that year, 29.2% more than in the same period of the previous year. [@3]
