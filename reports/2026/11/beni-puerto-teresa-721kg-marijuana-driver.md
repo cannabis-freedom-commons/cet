@@ -71,23 +71,31 @@ sources:
     publisher: EL DEBER
     date: 2026-11-21
     language: es
+  - title: SE INCAUTAN DE MÁS DE 721 KILOS DE MARIHUANA EN EL BENI
+    url: https://www.elalteno.com.bo/seguridad/20261121/se-incautan-de-mas-de-721-kilos-de-marihuana-en-el-beni
+    publisher: El Alteño
+    date: 2026-11-21
+    language: es
+open_questions:
+    - No charge, detention measure or court outcome has been reported beyond the driver's apprehension and the opening of the investigation.
+    - The details of the seizure come from the Beni prosecutor's office account and have not been independently confirmed.
 ---
 
 Police in Bolivia's Beni department apprehended Romario D.T., a 26-year-old
 driver, during an anti-drug interdiction operation on the Riberalta–Rurrenabaque
-road. [@1,4] The operation took place in the early hours of 19 November 2026,
-while officers were patrolling near Puerto Teresa del Río Yata. [@1,4] The load
-was counted and weighed at 721 kilograms and 400 grams of wet marijuana. [@1,4]
+road. [@1,4,5] The operation took place in the early hours of 19 November 2026,
+while officers were patrolling near Puerto Teresa del Río Yata. [@1,4,5] The load
+was counted and weighed at 721 kilograms and 400 grams of wet marijuana. [@1,4,5] The case's assigned prosecutor, Luis Carlos Sanguino Valenzuela, established that weight after the load was weighed. [@5]
 
 During the vehicle search officers found a load under a blue tarp holding
-several jute sacks of brick-shaped packages wrapped in masking tape. [@1,4] A
-Narco Test field test on the substance was positive for marijuana. [@1,4] The
+several jute sacks of brick-shaped packages wrapped in masking tape. [@1,4,5] A
+Narco Test field test on the substance was positive for marijuana. [@1,4,5] The
 prosecutor's office said the wet marijuana was being transported in a pickup at
 that point on the Riberalta–Rurrenabaque road. [@2]
 
 Beni's departmental prosecutor Orlando Aramayo Chávez said the Public
 Prosecutor's Office is investigating the case as trafficking in controlled
-substances. [@1] Officers read the driver his constitutional rights before the
+substances. [@1,5] Officers read the driver his constitutional rights before the
 arrest, and prosecutors ordered the pickup and the drugs seized. [@3,4]
 Investigators collected the initial report, photographs, vehicle search and
-field-test records, the arrest record and the seizure documents. [@1]
+field-test records, the arrest record and the seizure documents. [@1,5]
