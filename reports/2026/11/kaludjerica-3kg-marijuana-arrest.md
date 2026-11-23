@@ -46,6 +46,11 @@ media:
     media_url: https://www.novosti.rs/data/images/2026-11-20/765891_droga_kfmob.jpg
     publisher: Novosti.rs
     caption: 'Police photo of the cocaine and marijuana seized in the Kaluđerica operation. Photo: MUP (Serbian Interior Ministry)'
+  - kind: photo
+    url: https://www.politika.rs/scc/clanak/804608/uhapsen-muskarac-u-kaluderici-zaplenjeno-vise-od-tri-kilograma-marihuane-i-kokain
+    media_url: https://www.politika.rs/thumbs//upload/Article/Image/2026_11///904z509_cb_904z509_cb_904z509_policimiiukrusevc.jpg
+    publisher: Politika Online
+    caption: 'Police handout photo of the drugs and packaging seized in the Kaluđerica operation. Photo: MUP (Serbian Ministry of Internal Affairs)'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 7819b8fb358ac8305d36c9cd746fb894
@@ -71,20 +76,25 @@ sources:
     publisher: Novosti.rs
     date: 2026-11-20
     language: sr
+  - title: 'Ухапшен мушкарац у Калуђерици: заплењено више од три килограма марихуане и кокаин'
+    url: https://www.politika.rs/scc/clanak/804608/uhapsen-muskarac-u-kaluderici-zaplenjeno-vise-od-tri-kilograma-marihuane-i-kokain
+    publisher: Politika Online
+    date: 2026-11-20
+    language: sr
 ---
 
 Police arrested A. M., a 33-year-old man, in Kaluđerica on suspicion of
-unauthorised production and trafficking of narcotic drugs. [@2,4] The arrest was
+unauthorised production and trafficking of narcotic drugs. [@2,4,5] The arrest was
 made by Novi Beograd police station officers together with the Higher Public
-Prosecution in Belgrade. [@3,4] Officers searched a flat and a car the suspect
-used in Kaluđerica. [@1,4]
+Prosecution in Belgrade. [@3,4,5] Officers searched a flat and a car the suspect
+used in Kaluđerica. [@1,4,5]
 
 Police said they found more than three kilograms of marijuana, packed in four
-vacuum bags and 262 smaller packets. [@1,4] They also found about 9.8 grams of
-cocaine in 11 packets and three precision scales, which were seized too. [@1,4]
+vacuum bags and 262 smaller packets. [@1,4,5] They also found about 9.8 grams of
+cocaine in 11 packets and three precision scales, which were seized too. [@1,4,5]
 
 The suspect was ordered held for up to 48 hours and was to be brought before the
-prosecution with a criminal complaint. [@1,4] The Ministry of Internal Affairs
+prosecution with a criminal complaint. [@1,4,5] The Ministry of Internal Affairs
 said the investigation was continuing and that all the evidence found would be
 examined. [@1] Information from the investigation indicated the substances were
 intended for further distribution. [@1] Police sources described the operation
