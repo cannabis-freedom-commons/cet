@@ -65,29 +65,33 @@ sources:
     publisher: МК в Воронеже
     date: 2026-11-20
     language: ru
+  - title: Под Воронежем двоим мужчинам грозит до 10 лет тюрьмы за сбор 350 граммов конопли
+    url: https://novostivoronezha.ru/2026/11/20/368952
+    publisher: Новости Воронежа
+    date: 2026-11-20
+    language: ru
 open_questions:
-  - No separate date is given for the detention or the collection; the prosecutor's statement of 20 November 2026 is used as the incident date, while the submitted article is dated 21 November 2026.
-  - The prosecutor's office and one outlet say more than 350 grams was seized, while the 21 November article gives exactly 350 grams.
-  - No court verdict or sentencing has been reported; the case had only been sent to Kalacheevsky District Court.
-  - The accounts reproduce the Kalacheevsky District Prosecutor's Office statement and are not independent reporting.
+    - No separate date is given for the detention or the collection; the 20 November 2026 prosecutors' statement is used as the incident date.
+    - The prosecutor's office and some outlets say more than 350 grams was seized, while one other account gives exactly 350 grams.
+    - No court verdict or sentencing has been reported; the case had only been sent to Kalacheevsky District Court.
+    - The accounts reproduce the Kalacheevsky District Prosecutor's Office statement and are not independent reporting.
 ---
 
 Kalacheevsky District prosecutors approved the indictment against two men, a
 25-year-old from Anninsky District and a 27-year-old previously convicted man
-from Stavropol Krai. [@2] The two men had come to work at a construction site in
-the district from August 2026. [@1] In September 2026 they found wild cannabis
+from Stavropol Krai. [@2,4] The two men had come to work at a construction site in
+the district from August 2026. [@1,4] In September 2026 they found wild cannabis
 growing, picked the flowering tops and put them in a prepared backpack for later
-use. [@2] Police detained the two men and seized more than 350 grams of the
-narcotic substance. [@2]
+use. [@2,4] Police detained the two men and seized more than 350 grams of the
+narcotic substance. [@2,4]
 
 They were charged under part 2 of article 228 of the Criminal Code for unlawful
 acquisition and storage of drugs in a large amount without intent to sell,
-committed by a group by prior agreement. [@2] The case was sent to Kalacheevsky
-District Court to be heard on the merits. [@2] The charge carries a statutory
-maximum of 10 years in prison. [@2]
+committed by a group by prior agreement. [@2,4] The case was sent to Kalacheevsky
+District Court to be heard on the merits. [@2,4] The charge carries a statutory
+maximum of 10 years in prison. [@2,4]
 
 The Kalacheevsky District Prosecutor's Office sent the case against the two men
 to court. [@3] Officers took more than 350 grams of the plant material out of
 circulation. [@3] The case was announced by the Voronezh Oblast prosecutor's
 press service on Friday 21 November. [@1]
-
