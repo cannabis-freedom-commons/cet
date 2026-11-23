@@ -55,6 +55,11 @@ sources:
     publisher: EWN24
     date: 2026-11-20
     language: hi
+  - title: 'हिमाचल : डैम के पास पुलिस ने दबोचा तस्कर, बैग से मिली लाखों की चरस- बड़े नेटवर्क से कनेक्शन...'
+    url: https://news4himachal.in/crime/himachal-chamba-churah-one-man-police-arrested-charas-news/24094
+    publisher: News4himachal
+    date: 2026-11-21
+    language: hi
 open_questions:
   - No date is given for the checkpoint or the arrest; 20 November 2026, the publication date, is used as the incident date.
   - The charas was described only as recovered from the man; no laboratory confirmation was reported.
@@ -66,20 +71,19 @@ open_questions:
 
 Chamba police's Special Investigation Unit arrested a man and recovered 1 kg 318
 g of charas, cannabis resin, at a checkpoint near Khakhdi dam on the
-Nakrod-Himagiri road in Churah, Chamba district, Himachal Pradesh. [@1] The man
+Nakrod-Himagiri road in Churah, Chamba district, Himachal Pradesh. [@1,4] The man
 was identified as Jai Singh, 44, of Dudra village, post office Ganer, tehsil
-Churah, Chamba district. [@1] He was walking past the checkpoint when officers,
+Churah, Chamba district. [@1,4] He was walking past the checkpoint when officers,
 who were checking vehicles and passers-by, stopped him because his movements
-seemed suspicious, and a search of his possession produced the charas. [@2]
+seemed suspicious, and a search of his possession produced the charas. [@2,4]
 
 Police registered a case under the Narcotic Drugs and Psychotropic Substances
 (NDPS) Act. [@3] The case was registered at Tissa police station. [@2] Police
 were preparing to bring him before a court to seek police remand. [@2]
 
 Chamba superintendent of police Vijay Kumar Saklani said officers were
-investigating where the charas came from and where it was to be delivered. [@1]
+investigating where the charas came from and where it was to be delivered. [@1,4]
 Police were also trying to trace the network behind the illegal drug trade, he
-said. [@1] The arrest came during a campaign against the illegal drug trade in
+said. [@1,4] The arrest came during a campaign against the illegal drug trade in
 Churah; the operation was carried out by a team led by Inspector Gagan with head
-constable Yograj. [@1]
-
+constable Yograj. [@1,4]
