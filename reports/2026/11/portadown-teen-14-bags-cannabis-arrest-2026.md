@@ -65,31 +65,35 @@ sources:
     url: https://www.newsletter.co.uk/news/crime/teen-arrested-and-14-bags-of-suspected-herbal-cannabis-seized-after-alert-psni-officer-followed-his-nose-9366247
     publisher: Belfast News Letter
     date: 2026-11-22
+  - title: Teenager arrested and 14 bags of suspected herbal cannabis seized after police detect 'strong smell' while on foot patrol in Portadown
+    url: https://www.northernirelandworld.com/news/crime/teenager-arrested-and-14-bags-of-suspected-herbal-cannabis-seized-after-police-detect-strong-smell-while-on-foot-patrol-in-portadown-9366300
+    publisher: NorthernIrelandWorld
+    date: 2026-11-22
 open_questions:
-  - No separate date for the patrol was given in the opened accounts; 22 November 2026 is their publication date and is used as the incident date.
-  - No weight, value or plant count was published for the 14 bags of suspected cannabis.
-  - It was not reported whether the teenager was charged or how the youth diversion decision was resolved.
-  - One account places the arrest in Craigavon while the police post locates the patrol on Market Street in Portadown; no further explanation was given.
-  - The opened accounts all draw on the same PSNI Facebook post and are not independent reporting.
+    - No calendar date was given for the patrol; police said it took place on a Friday evening, and 22 November 2026, the publication date, stands as the incident date.
+    - No weight, value or plant count was published for the 14 bags of suspected cannabis.
+    - It was not reported whether the teenager was charged or how the youth diversion decision was resolved.
+    - One account places the arrest in Craigavon while the police post locates the patrol on Market Street in Portadown; no further explanation was given.
+    - The opened accounts all draw on the same PSNI statement and are not independent reporting.
 ---
 
 A teenage boy was arrested after police on foot patrol detected the smell of
-cannabis on Market Street in Portadown, County Armagh. [@1,4] The officers
+cannabis on Market Street in Portadown, County Armagh. [@1,4] Police said the foot patrol on Market Street took place on a Friday evening. [@5] The officers
 belonged to the Brownlow Neighbourhood Police Team of the Police Service of
 Northern Ireland (PSNI). [@2,4] When officers approached and told him they could
-smell cannabis, the boy tried to run away. [@1,4] He was quickly apprehended and
-detained so that a search could be carried out. [@1,4]
+smell cannabis, the boy tried to run away. [@1,4,5] He was quickly apprehended and
+detained so that a search could be carried out. [@1,4,5]
 
-Officers found 14 bags of suspected herbal cannabis during the search. [@1,4] He
+Officers found 14 bags of suspected herbal cannabis during the search. [@1,4,5] He
 was arrested for possession of Class B controlled drugs and possession of Class
-B controlled drugs with intent to supply. [@1,4] Police took the teenager into
+B controlled drugs with intent to supply. [@1,4,5] Police took the teenager into
 custody on suspicion of possession of a Class B controlled drug and possession
 with intent to supply. [@3] The PSNI refused to give the boy’s age, saying only
 that he is in his teens. [@1,4] The substance was described only as suspected
 cannabis, with no confirmation of what the bags contained. [@2]
 
 A youth diversion officer will decide whether the boy is reported to the Public
-Prosecution Service (PPS) or an out-of-court diversion is used. [@1,4] The PSNI
+Prosecution Service (PPS) or an out-of-court diversion is used. [@1,4,5] The PSNI
 said it was committed to tackling the possession and supply of controlled drugs
-in communities. [@1,4] Police asked anyone with information to report it on 101 or
+in communities. [@1,4,5] Police asked anyone with information to report it on 101 or
 through the online reporting tool. [@1,4]
