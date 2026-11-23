@@ -42,6 +42,11 @@ media:
     media_url: https://www.eluniverso.com/resizer/v2/SRMBY3XBUJEGJD6Y4ZOOHKRQGA.jpeg?auth=315db8bbd22d64717f50d370b2c701351002c4ad6e55c64817335f49011dac03&width=1203&height=670&quality=75&smart=true
     publisher: El Universo
     caption: 'Police photo of the drug seizure in Carchi. Photo: Policía Nacional'
+  - kind: photo
+    url: https://www.vistazo.com/seguridad/2026-11-22-persecucion-carchi-decomiso-marihuana-valorada-usd-360-000-BA11331202
+    media_url: https://www.vistazo.com/binrepository/772x434/0c0/768d432/none/12727/MCEL/imagen-hxsgqwxwiaawe6x_2775692_20261122110241.jpg
+    publisher: Vistazo
+    caption: 'Marijuana found inside the pickup that crashed at the San Gabriel toll in Carchi after a police chase. Photo: Policía Nacional'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 86f61f96e78b8e218243fb3ff250afae
@@ -57,6 +62,11 @@ sources:
     publisher: Radio Centro
     date: 2026-11-22
     language: es
+  - title: Persecución en Carchi termina con el decomiso de marihuana valorada en USD 360.000
+    url: https://www.vistazo.com/seguridad/2026-11-22-persecucion-carchi-decomiso-marihuana-valorada-usd-360-000-BA11331202
+    publisher: Vistazo
+    date: 2026-11-22
+    language: es
 open_questions:
   - 'No one was arrested: the driver abandoned the pickup at the San Gabriel toll and was not located, and police said efforts to identify and find him continued.'
   - Both accounts reproduce the same National Police statement, so they are not independent reporting.
@@ -65,14 +75,14 @@ open_questions:
 
 National Police officers seized 464.709 kilograms (464,709 grams) of marijuana
 from a pickup truck whose driver fled after a chase in the Guagua Negro sector
-of Montúfar, Carchi province, on 21 November 2026. [@1] The operation was
+of Montúfar, Carchi province, on 21 November 2026. [@1,3] The operation was
 carried out by the National Directorate of Anti-Drug Investigation with support
 from the Mobile Anti-Narcotics Special Group (GEMA) and the National Canine Unit
 (CRAC). [@1]
 
 Police said the driver ignored their signals and a pursuit continued until the
 vehicle crashed at the San Gabriel toll, after which he ran off and was not
-found. [@1] A detector dog alerted to several bundles of plant material, which
+found. [@1,3] A detector dog alerted to several bundles of plant material, which
 tests identified as marijuana. [@1] The haul comprised 464.709 grams of
 marijuana, which police said was about 929,418 doses, along with the pickup.
 [@1] Police put the estimated national-market value of the marijuana at 360,149
@@ -80,11 +90,10 @@ dollars. [@1]
 
 Authorities had acted on a tip about a possible shipment of controlled
 substances from Carchi toward the country's central provinces and located a
-vehicle matching the report. [@1] Radio Centro reported the same quantity and
+vehicle matching the report. [@1,3] Radio Centro reported the same quantity and
 about 929,418 doses from the police account and said tests confirmed the plant
 matter was marijuana. [@2] Radio Centro also gave the police estimate of 360,149
 dollars and said the investigation continued to identify and locate the driver
 on suspicion of illicit trafficking of controlled substances. [@2] The presumed
 offence was illicit trafficking of controlled substances, and police said
 inquiries continued to identify and find the driver. [@1]
-
