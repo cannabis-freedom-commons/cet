@@ -57,6 +57,11 @@ sources:
     publisher: CM77 ล้านนา
     date: 2026-11-21
     language: th
+  - title: บุกจับร้านกัญชาเชียงใหม่ หลังนักท่องเที่ยวกินเยลลี่กัญชาแล้วใจสั่น ตื่นตระหนก พบไม่มีฉลากแสดงปริมาณสาร THC | อาชญากรรม
+    url: https://th.headtopics.com/news/36103640358535986871-90055477
+    publisher: Head Topics
+    date: 2026-11-21
+    language: th
 open_questions:
   - No weight, price or THC content was published for the six cannabis food products.
   - No arrests or charges were reported; the accounts say only that action under the Food Act 1979 was being considered.
@@ -67,19 +72,18 @@ open_questions:
 
 Tourist police officers and the Chiang Mai provincial public health office
 inspected a cannabis shop in Hai Ya subdistrict, Mueang Chiang Mai district, on
-20 November 2026. [@1] The inspection followed a complaint filed through the
+20 November 2026. [@1,4] The inspection followed a complaint filed through the
 Food and Drug Administration (อย.) by a foreign tourist who fell ill after
 eating cannabis jelly bought at the shop, with palpitations, anxiety and severe
-panic. [@1]
+panic. [@1,4]
 
 Officers found cannabis-containing foods on sale without labels giving the
 product details or the THC content. [@3] They found six unlabelled cannabis food
 products, among them jelly, brownies and cookies, and kept samples for testing.
-[@1]
+[@1,4]
 
 The operator was told to correct the related documents to meet public health
-requirements. [@2] Authorities were considering action under the Food Act 1979.
-[@1] The operation was carried out under tourist police chief Phongsayam
+requirements. [@2,4] Authorities were considering action under the Food Act 1979.
+[@1,4] The operation was carried out under tourist police chief Phongsayam
 Meekhanthong's "One Team One Strongest for Safety Tourism" policy for the high
-season. [@1]
-
+season. [@1,4]
