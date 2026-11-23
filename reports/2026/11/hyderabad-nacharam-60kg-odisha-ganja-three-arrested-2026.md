@@ -77,30 +77,34 @@ sources:
     url: https://hyderabadmail.com/malkajgiri-police-seize-60-380-kg-ganja-nacharam/
     publisher: Hyderabad Mail
     date: 2026-11-22
+  - title: Three arrested with 60 kg marijuana worth Rs 30 lakh in Hyderabad
+    url: https://www.newindianexpress.com/cities/hyderabad/2026/Nov/23/three-arrested-with-60-kg-marijuana-worth-rs-30-lakh-in-hyderabad
+    publisher: The New Indian Express
+    date: 2026-11-23
 open_questions:
-    - The accounts say only that the vehicle check was on Saturday; 21 November 2026 is inferred from the 22 November 2026 publication dates.
-    - One account places the interception during vehicle checks on the Nacharam-Chilkanagar road, while others say the car was stopped at IDA Nacharam.
+    - 'The accounts differ on the day of the interception: other reports said Saturday, while The New Indian Express reported it on Friday, which would be 20 November 2026, and said the men began their return from Berhampur on 19 November.'
+    - One account places the interception during vehicle checks on the Nacharam-Chilkanagar road, while others say the car was stopped at IDA Nacharam; The New Indian Express gives Road No. 5 in the IDA.
     - The ganja is described as suspected dried ganja, with no laboratory confirmation reported.
     - No NDPS Act sections or charges are stated, and no remand, charge sheet or court outcome is reported.
     - The ganja is described as 60 packets weighing 60.38 kilograms, with no separate weight for each packet.
     - Police did not say how many earlier trips the group had made, or whether this consignment is connected to the 60 kilograms of Odisha ganja seized near Ghatkesar on 7 November 2026.
-    - The Telugu and English accounts repeat the same police account given by Commissioner B. Sumathi and are not independent reporting.
+    - The Telugu and English accounts, including The New Indian Express, repeat the same police account and are not independent reporting.
     - The intended recipient at IDA Nacharam and the identity of the Odisha supplier were not reported.
 ---
 
 Uppal zone Special Operations Team officers and Nacharam police arrested three
 people in a joint operation and seized about 60.38 kilograms of ganja that
-police valued at about 3 million rupees. [@1,2] Police named the two absconding suspects as Rahul alias Krishna and Ajay Sagar. [@4] The arrested men were Sameer Hassan Ali Shaikh alias Ravi Kumar Chowdary, 42, a driver from Jogeshwari East in Mumbai; Mohammed Khan, 52, a cook from King Koti, Hyderabad; and Chandan Kumar Jena, 31, a driver from Kukatpally. [@4] Officers stopped a suspicious car
+police valued at about 3 million rupees. [@1,2,6] Police named the two absconding suspects as Rahul alias Krishna and Ajay Sagar. [@4,6] Police said Rahul alias Krishna, the main organiser, was from Berhampur in Ganjam district, Odisha, and that Ajay Sagar helped procure and load the ganja. [@6] The arrested men were Sameer Hassan Ali Shaikh alias Ravi Kumar Chowdary, 42, a driver from Jogeshwari East in Mumbai; Mohammed Khan, 52, a cook from King Koti, Hyderabad; and Chandan Kumar Jena, 31, a driver from Kukatpally. [@4] Officers stopped a suspicious car
 during vehicle checks on the Nacharam-Chilkanagar road and found 60 ganja
-packets packed in four gunny sacks in its boot. [@1,3] Police said the interception was made on Saturday following specific information. [@4] Police also seized the car
-used for the transport and four mobile phones. [@1,3]
+packets packed in four gunny sacks in its boot. [@1,3] Police said the accused tried to flee after noticing the officers. [@6] Police said the interception was made on Saturday following specific information. [@4] Police also seized the car
+used for the transport and four mobile phones. [@1,3,6]
 
 Police said the three had bought the ganja in Odisha for 2,000 rupees a kilogram
 and planned to sell it at high prices in Hyderabad and Mumbai. [@1,4] Police
 identified a man named Rahul as the main organiser behind the smuggling
 operation. [@1,4] Police said Rahul came into contact with Sameer through a person named Izaz. [@4] Investigators said the three agreed to carry the consignments
 after Rahul offered them a commission of 5,000 to 8,000 rupees for each
-delivery. [@1,4] The three had travelled to Odisha the week before and were caught at IDA Nacharam while delivering the consignment to another person. [@4] Rahul was still at large and special teams were searching for
+delivery. [@1,4,6] The three had travelled to Odisha the week before and were caught at IDA Nacharam while delivering the consignment to another person. [@4] The three travelled to Berhampur, where the 60 packets were loaded into the car, and began the return journey to Hyderabad on 19 November. [@6] Rahul was still at large and special teams were searching for
 him. [@1,2] Commissioner of Police B. Sumathi said police were trying to establish the roles of the two absconding suspects. [@5]
 
 Police said they were investigating where the network's supply came from, its
