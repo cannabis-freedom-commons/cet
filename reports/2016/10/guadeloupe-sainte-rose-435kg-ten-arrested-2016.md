@@ -66,18 +66,17 @@ sources:
     publisher: Le Dauphiné Libéré
     date: 2016-10-15
     language: fr
-open_questions:
-  - OCRTIS put the load at 435 kg and RCI later reported 438 kg; this report uses the 435 kg figure given by the anti-narcotics office and Le Parisien.
-  - RCI says the four vehicles carried nine men and two women, eleven people in all, while Le Parisien and France-Antilles report ten arrests.
-  - The sources give the night of 11 to 12 October 2016 or a seizure 'during the night of Tuesday and Wednesday'; 11 October is used as the incident date.
-  - The sources say the ten suspects were placed under formal investigation and jailed but do not report the charges they face or the outcome of the Fort-de-France JIRS trial beyond its opening on 28 January 2019.
-  - Le Parisien's page refers to 'les abords de la page de Deshaies', evidently meaning the approaches to Deshaies, but the precise stopping point is not stated.
+  - title: Près d'une demi-tonne de cannabis saisie en Guadeloupe
+    url: https://www.lexpress.fr/societe/justice/pres-d-une-demi-tonne-de-cannabis-saisie-en-guadeloupe_1841169.html
+    publisher: L'Express
+    date: 2016-10-15
+    language: fr
 ---
 
 Anti-narcotics officers of the OCRTIS, France's central office against illicit
 drug trafficking, and the GIPN police intervention group stopped a convoy of
 four vehicles between Sainte-Rose and the approaches to Deshaies in Guadeloupe.
-[@1,4] The vehicles had just taken their cargo from a boat from the island of
+[@1,4,5] The vehicles had just taken their cargo from a boat from the island of
 Saint Vincent. [@1,4]
 
 OCRTIS said the cannabis herb was packed in several bales totalling 435 kg. [@1,4]
