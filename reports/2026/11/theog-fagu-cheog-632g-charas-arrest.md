@@ -62,6 +62,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-21
     language: hi
+  - title: NDPS / फागू-चियोग रोड पर 632 ग्राम चरस बरामद, तीन युवक गिरफ्तार
+    url: https://www.himachalnownews.com/ndps-theog-fagu-cheog-charas-three-arrested.html
+    publisher: Himachal Now News
+    date: 2026-11-21
+    language: hi
 open_questions:
   - No laboratory confirmation that the seized substance was charas was reported; all three accounts describe it as charas.
   - No street value or estimate was published for the 632 grams of charas.
@@ -73,11 +78,11 @@ and Vikesh, after searching a car on the Fagu-Cheog link road near Talai. [@2,4]
 Police identified them as Rahul, son of Hira Singh, Arvind, son of Yogesh, and
 Vikesh, son of Inder Singh. [@3] Officers found about 632 grams of charas in a
 white carry bag hidden under the car's front seat. [@1,4] Police seized the car as
-well. [@1,4]
+well. [@1,4,5]
 
 The special cell team had stopped the car for a search late at night near Talai
 on the link road. [@3] The arrest was part of a campaign by Shimla police
-against the illegal drug trade. [@2] Himachal Samay reported the case as FIR No.
+against the illegal drug trade. [@2,5] Himachal Samay reported the case as FIR No.
 178/2026, dated 20 November 2026, at Theog police station. [@2] A case was
 registered against the three under sections 20 and 29 of the NDPS Act. [@1,4]
 Police said they were completing the process of producing the three before a
