@@ -71,6 +71,11 @@ sources:
     publisher: Periodismo Público
     date: 2026-11-20
     language: es
+  - title: Así descubrieron más de 27 kilos de marihuana en el aeropuerto El Dorado escondida en zapatos y productos de aseo
+    url: https://www.msn.com/es-co/noticias/otras/as%C3%AD-descubrieron-m%C3%A1s-de-27-kilos-de-marihuana-en-el-aeropuerto-el-dorado-escondida-en-zapatos-y-productos-de-aseo/ar-AA2hUQYY
+    publisher: El Tiempo (MSN)
+    date: 2026-11-21
+    language: es
 open_questions:
   - No date is given for either airport inspection; 20 November 2026 is the publication date of the police statement and of its coverage, and is used as the incident date.
   - The cargo shipment's weight is given only as more than 27 kilograms; the recorded 27.215 kilograms combines it with the 215 grams found in the woman's shoes, which police reported as a separate seizure.
@@ -85,20 +90,20 @@ open_questions:
 
 Police at El Dorado international airport in Bogotá reported two marijuana
 seizures, one at the Puente Aéreo and one in the cargo warehouses for domestic
-shipments. [@1,4] At the Puente Aéreo they arrested a woman on suspicion of
-manufacturing, trafficking and possessing narcotics. [@1,4] Officers followed her
+shipments. [@1,4,5] At the Puente Aéreo they arrested a woman on suspicion of
+manufacturing, trafficking and possessing narcotics. [@1,4,5] Officers followed her
 on security cameras to the access filters and, after stopping and searching her,
-found 215 grams of marijuana hidden in the insoles of her shoes. [@1,4]
+found 215 grams of marijuana hidden in the insoles of her shoes. [@1,4,5]
 
 The airport police station said the shipment was found in the warehouses for
 domestic cargo and that the sniffer dog Jeico alerted officers during an
 inspection there. [@2,4] Inside boxes said to contain cleaning products, officers
 found 20 packages holding more than 27 kilograms of marijuana addressed to
-Leticia. [@1,4] No one was reported arrested over the cargo shipment, and the
+Leticia. [@1,4,5] No one was reported arrested over the cargo shipment, and the
 investigation into it continued. [@3]
 
 The woman and the marijuana seized with her were left at the disposal of the
-competent authority. [@1,4] Publimetro reported that although both cases happened
+competent authority. [@1,4,5] Publimetro reported that although both cases happened
 in the same terminal, they were independent incidents. [@3] The Bogotá
 Metropolitan Police said it had seized more than 7 tonnes of marijuana in the
 city so far in 2026. [@1,4]
