@@ -71,26 +71,25 @@ sources:
     publisher: TV5MONDE (avec AFP)
     date: 2026-11-21
     language: fr
-open_questions:
-  - The communiqué used 'neutralized' without describing how the two men died; the tracker records them as killed.
-  - No exact figure, value estimate, laboratory confirmation or product breakdown was published for the kif traité beyond 'more than 50 kilograms'.
-  - The precise location within the Naâma military sector was not given, only 'near the western border strip'.
-  - No arrests, charges or court outcome were reported in connection with this operation.
-  - All the opened accounts reproduce the same Defence Ministry communiqué, so the event is not independently corroborated.
+  - title: الجزائر تعلن مقتل مغربيين خلال عملية أمنية على الحدود
+    url: https://roayahnews.com/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D9%8A%D9%86-%D8%AE%D9%84%D8%A7%D9%84-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A3/
+    publisher: شبكة رؤية الإخبارية
+    date: 2026-11-21
+    language: ar
 ---
 
 Algeria's Defence Ministry said a border-guard detachment killed two Moroccan
 drug traffickers near the western frontier on Friday 20 November 2026 after they
-refused to comply. [@2,4] The encounter happened in the military sector of Naâma,
+refused to comply. [@2,4,5] The encounter happened in the military sector of Naâma,
 part of Algeria's 2nd Military Region, close to the country's western border
-strip. [@1,4] According to the communiqué, the two men ignored an order to stop
-given by the border guards. [@2,4]
+strip. [@1,4,5] According to the communiqué, the two men ignored an order to stop
+given by the border guards. [@2,4,5]
 
 They were trying to bring more than 50 kilograms of kif traité, the local term
-for processed cannabis, into Algeria. [@1,4] The 50-kilogram estimate was
+for processed cannabis, into Algeria. [@1,4,5] The 50-kilogram estimate was
 attributed to the Defence Ministry's communiqué. [@3] The ministry said the
 identity of one of the dead men was established from an identity document found
-in his possession. [@2,4]
+in his possession. [@2,4,5] The ministry identified one of them as Khalifi El-Eid, born in the Ouled Sidi Abdel Hakim area of Jerada, Morocco. [@5]
 
 The army framed the operation as part of its continuing efforts to secure
 national borders and combat drug-trafficking networks and organised crime. [@2,4]
