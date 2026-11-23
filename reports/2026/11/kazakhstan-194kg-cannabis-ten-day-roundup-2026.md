@@ -53,31 +53,41 @@ sources:
     publisher: Kazinform
     date: 2026-11-23
     language: ru
+  - title: В Казахстане за 10 дней изъято более 200 кг наркотиков
+    url: https://almaty.tv/ru/news/zakon-i-poryadok/v-kazakhstane-za-10-dnej-iz-ato-bolee-200-kg-narkotikov
+    publisher: Almaty.tv
+    date: 2026-11-22
+    language: ru
 open_questions:
-  - The ministry did not break down how many of the 35 arrests, 56 offences or the more than 200 kg total involved cannabis rather than other drugs.
-  - No individual cannabis seizure, place or date within 1-10 November is given for the 190 kg of marijuana and 4 kg of hashish.
-  - The 194 kg cannabis total is the sum of the separately stated 190 kg of marijuana and 4 kg of hashish; no combined cannabis total was published.
-  - No cannabis plant count or area destroyed was reported for the period.
-  - The person held over cultivating drug-containing plants is not specified to have been growing cannabis.
-  - No charges, court dates or outcomes were reported for the 35 detainees.
-  - No monetary value was published for the cannabis.
-  - All three accounts reproduce the same Interior Ministry statement and are not independent reporting.
+    - The ministry did not break down how many of the 35 arrests, 56 offences or the more than 200 kg total involved cannabis rather than other drugs.
+    - No individual cannabis seizure, place or date within 1-10 November is given for the 190 kg of marijuana and 4 kg of hashish.
+    - The 194 kg cannabis total is the sum of the separately stated 190 kg of marijuana and 4 kg of hashish; no combined cannabis total was published.
+    - No cannabis plant count or area destroyed was reported for the period.
+    - The person held over cultivating drug-containing plants is not specified to have been growing cannabis.
+    - No charges, court dates or outcomes were reported for the 35 detainees.
+    - No monetary value was published for the cannabis.
+    - All the accounts reproduce the same Interior Ministry statement and are not independent reporting.
+media:
+  - kind: photo
+    url: https://almaty.tv/ru/news/zakon-i-poryadok/v-kazakhstane-za-10-dnej-iz-ato-bolee-200-kg-narkotikov
+    media_url: https://almaty.tv/cache/imagine/1200/uploads/news/2026/11/6590a835029c8cdc1de877acf39b06b5.jpg.webp
+    publisher: Almaty.tv
+    caption: 'Assorted tablets, blister packs, a syringe and bagged substances laid out on a table in the Interior Ministry handout credited to its Polisia.kz portal. Photo: Polisia.kz'
 ---
 
 Kazakhstan's Interior Ministry said police detained 35 drug suspects across the
-country in the ten days from 1 to 10 November. [@3] Nineteen were suspected of
-selling drugs and eight of smuggling. [@1] Three were held over storing drugs on
-an especially large scale. [@2] One of the 35 was held over cultivating
-drug-containing plants. [@2] Officers recorded 56 drug offences in the period,
-35 of them classified as crimes. [@3]
+country in the ten days from 1 to 10 November. [@3,4] Nineteen were suspected of
+selling drugs and eight of smuggling. [@1,4] Three were held over storing drugs on
+an especially large scale. [@2,4] Three of the suspects were also held over illegal circulation of poisonous substances and one over promoting and advertising drugs. [@4] One of the 35 was held over cultivating
+drug-containing plants. [@2,4] Officers recorded 56 drug offences in the period,
+35 of them classified as crimes. [@3,4]
 
 The figures cover Kazakhstan as a whole. [@3] Officers seized more than 200 kg
-of drugs in total. [@1] Of that, 190 kg was marijuana and 4 kg hashish. [@1]
-About 13 kg was synthetic drugs. [@1] Cannabis accounted for 194 kg of the more
+of drugs in total. [@1,4] Of that, 190 kg was marijuana and 4 kg hashish. [@1,4]
+About 13 kg was synthetic drugs. [@1,4] Cannabis accounted for 194 kg of the more
 than 200 kg seized. [@1] The ministry estimated the total at almost half a
-million single doses. [@2]
+million single doses. [@2,4]
 
 The ministry presented the results as part of its continuing anti-drug work.
-[@2] The announcement also described arrests in Almaty, Shymkent and Pavlodar
-involving ketamine, synthetic drugs, α-PVP and mephedrone. [@2]
-
+[@2,4] The announcement also described arrests in Almaty, Shymkent and Pavlodar
+involving ketamine, synthetic drugs, α-PVP and mephedrone. [@2,4]
