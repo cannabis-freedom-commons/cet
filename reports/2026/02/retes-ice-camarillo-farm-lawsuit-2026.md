@@ -61,31 +61,36 @@ sources:
     url: https://www.cbsnews.com/losangeles/news/immigration-agents-release-army-veteran-detained-during-camarillo-farm-raid/
     publisher: CBS News Los Angeles
     date: 2025-07-16
+  - title: Iraq war veteran sues federal government over detention during Ventura County ICE raid
+    url: https://www.foxla.com/news/veteran-george-retes-sues-over-camarillo-ice-raid
+    publisher: FOX 11 Los Angeles
+    date: 2026-02-19
+    language: en
 open_questions:
-  - 'Retes'' age differs between accounts: a Southern California News Group caption called him a 20-year-old from Ventura, while other reporting describes an Iraq veteran and father.'
-  - 'Whether any charge was ever filed is contested: Retes and his lawyers say none was, while Homeland Security says CBP arrested him for assault; no charging document was published in the opened sources.'
-  - The number of people detained differs between accounts, with Courthouse News reporting about 319 and Southern California News Group reporting about 200 immigrant arrests during the raid; the report uses Courthouse News' figure.
-  - The individual federal officers sued are unnamed, and no court had ruled on the claims when the lawsuit was reported.
-  - No date is given for the video the lawyers cite as refuting Homeland Security's version.
+    - 'Retes'' age differs between accounts: a Southern California News Group caption called him a 20-year-old from Ventura, CBS News reported 25 and FOX 11 reported 26, while other reporting describes an Iraq veteran and father.'
+    - 'Whether any charge was ever filed is contested: Retes and his lawyers say none was, while Homeland Security says CBP arrested him for assault; no charging document was published in the opened sources.'
+    - The number of people detained differs between accounts, with Courthouse News reporting about 319 and Southern California News Group reporting about 200 immigrant arrests during the raid; the report uses Courthouse News' figure.
+    - The individual federal officers sued are unnamed, and no court had ruled on the claims when the lawsuit was reported.
+    - No date is given for the video the lawyers cite as refuting Homeland Security's version.
 ---
 
 George Retes Jr., a U.S. citizen and Iraq combat veteran who worked as a
 security guard at a licensed cannabis farm near Camarillo, sued U.S. Immigration
 and Customs Enforcement and other federal agencies on 18 February 2026 over his
 arrest during the farm's July 2025 raid, and said he was held for three days
-without seeing a judge or being charged. [@1,6] Retes said in the complaint that
+without seeing a judge or being charged. [@1,6,7] Retes said in the complaint that
 on 10 July 2025 he drove to his shift at the farm and found the road blocked by
 U.S. agents. [@1] According to the lawsuit, some officers ordered him to leave
 while others ordered him out of his car, then officers engulfed his vehicle in
 tear gas, shattered his window, sprayed him with pepper spray, dragged him out
-and threw him to the ground. [@1] Retes says he was held at the farm for hours
+and threw him to the ground. [@1,7] Retes recorded the encounter on his own cellphone, and the recording captures him gagging and coughing from tear gas. [@7] Images from SkyFOX showed Retes exiting his vehicle and then getting back into it to follow agents' instructions. [@7] Retes says he was held at the farm for hours
 without being told what he was accused of, then taken to a nearby U.S. Navy
 base, fingerprinted, shackled and swabbed for DNA without a warrant or probable
 cause. [@1]
 
 He says he was then taken to the Metropolitan Detention Center in downtown Los
 Angeles, strip searched and held incommunicado for three days and three nights,
-and never brought before a judge or charged with any offence. [@1] About 319
+and never brought before a judge or charged with any offence. [@1,7] Retes said he asked why he was being held, was never given an answer, and was not allowed to shower after exposure to tear gas and pepper spray. [@7] About 319
 people were detained in the raid on the Camarillo farm, Courthouse News
 reported, one of the immigration operations in Southern California in which
 agents used tear gas, rubber bullets and smoke bombs on farm workers' families,
@@ -94,7 +99,7 @@ officials, journalists and protesters. [@1]
 Homeland Security said in an October 2025 statement that while CBP and ICE
 agents were executing criminal search warrants at the marijuana sites in
 Camarillo, Retes became violent, refused to comply and blocked their route with
-his vehicle, and that CBP arrested him for assault. [@4]
+his vehicle, and that CBP arrested him for assault. [@4,7]
 
 Retes' lawsuit, filed in California's Central District court, claims Fourth and
 Fifth Amendment violations, assault and battery, negligence, false imprisonment
@@ -102,11 +107,11 @@ and false arrest, and violations of the Tom Bane Civil Rights Act and Westfall
 Act, and seeks unspecified damages. [@2] The suit names the United States,
 Immigration and Customs Enforcement, the Navy, the Federal Bureau of
 Investigation and Customs and Border Protection, together with unnamed
-individual officers. [@3] KQED reported that federal law and court precedent
+individual officers. [@3] Institute for Justice attorney Marie Miller said the Fifth Amendment demands due process and that federal officers are not above the Constitution. [@7] KQED reported that federal law and court precedent
 limit such suits and that his lawyers had not yet been able to identify the
 individual officers involved. [@3] The Department of Justice declined to comment
 on the lawsuit, and Retes' lawyer said the video of his arrest refutes Homeland
-Security's account. [@1] Retes told reporters outside the federal courthouse in
+Security's account. [@1,7] Retes told reporters outside the federal courthouse in
 Los Angeles that he was pursuing the case out of principle rather than anger.
 [@5]
 
