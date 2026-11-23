@@ -38,6 +38,11 @@ media:
     media_url: https://bloximages.newyork1.vip.townnews.com/taftmidwaydriller.com/content/tncms/assets/v3/editorial/4/5a/45ab6e50-ecac-4320-944d-f56ab92a1593/6a9b2e794e484.image.jpg
     publisher: Taft Midway Driller
     caption: 'Marijuana grow at one of the sites raided Friday, captioned on the page as a Taft site. Photo: Kern County Sheriff.'
+  - kind: photo
+    url: https://kmph.com/news/local/three-arrested-after-kern-county-raids-uncover-marijuana-grow-operations-and-loaded-guns
+    media_url: https://kmph.com/resources/media/4d2ca456-6b0a-4668-b497-558c3df221f0-797178615_1621201309664276_7366602339413382832_n.jfif
+    publisher: KMPH
+    caption: 'Kern County Sheriff''s Office photo from the Maricopa and Taft marijuana raids, first of nine in KMPH''s gallery on the case. Photo: KCSO'
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: e7d8b03cf970161155815acd2b25f504
@@ -56,12 +61,17 @@ sources:
     url: https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/81370-kern-county-deputies-arrest-3-suspects-in-large-marijuana-cultivation-operation-in-taft
     publisher: Sierra Sun Times
     date: 2026-09-05
+  - title: Three arrested after Kern County raids uncover marijuana grow operations and loaded guns
+    url: https://kmph.com/news/local/three-arrested-after-kern-county-raids-uncover-marijuana-grow-operations-and-loaded-guns
+    publisher: KMPH
+    date: 2026-09-06
 open_questions:
-  - The Taft plant and processed-marijuana figures are cumulative results of a longer investigation, not quantities attributed only to the 4 September search at the E Street address.
-  - No plant count or cannabis weight is reported specifically for the 4 September Taft search.
-  - No charging decision or court outcome for the three men was reported.
-  - No cultivation area or cannabis valuation was published; the accounts relay the sheriff’s information rather than a separately opened agency statement or court record.
-  - 'Left out, as its quotation was not found in Taft Midway Driller: Jose Hernandez Ramirez and Victor de la Cruz Garcia, both 27, were arrested in connection with the Maricopa address on allegations including firearm possession, maintaining a place for sales, possessing marijuana for sale and cultivation.'
+    - The Taft plant and processed-marijuana figures are cumulative results of a longer investigation, not quantities attributed only to the 4 September search at the E Street address.
+    - No plant count or cannabis weight is reported specifically for the 4 September Taft search.
+    - No charging decision or court outcome for the three men was reported.
+    - No cultivation area or cannabis valuation was published; the accounts relay the sheriff’s information rather than a separately opened agency statement or court record.
+    - The specific charges against Jose Hernandez Ramirez and Victor de la Cruz Garcia were not published; the accounts describe only drug and gun allegations.
+    - One account datelines the raids to Kings County although both addresses are in Kern County.
 ---
 
 Three men were arrested after deputies served two search warrants in Maricopa
@@ -75,11 +85,10 @@ residence for sales. [@2] Ramirez, Garcia and Guitron were booked into the Kern
 County Sheriff’s Office Lerdo Justice Facility. [@2]
 
 At the Maricopa address, deputies found 959 marijuana plants, 52 pounds of
-processed marijuana and a loaded 9mm semi-automatic handgun. [@1] The Taft
+processed marijuana and a loaded 9mm semi-automatic handgun. [@1,4] Jose Hernandez Ramirez and Victor de la Cruz Garcia, both 27, were arrested on suspicion of drug and gun charges. [@4] The Taft
 address was part of a lengthy marijuana cultivation investigation involving
 several search warrants. [@2] For that Taft investigation, the sheriff’s office
 reported 2,112 indoor plants, 873 outdoor plants, 641.5 pounds of processed
-marijuana and two loaded firearms seized. [@3] Officials described the
+marijuana and two loaded firearms seized. [@3,4] Officials described the
 two-warrant result as involving more than 3,900 marijuana plants, processed
 marijuana and guns. [@2]
-
