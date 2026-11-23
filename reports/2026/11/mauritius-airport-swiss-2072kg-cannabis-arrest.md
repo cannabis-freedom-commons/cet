@@ -52,6 +52,11 @@ media:
     media_url: https://radio1.mu/wp-content/uploads/2026/11/2072-kilos-de-cannabis-1024x576.jpg
     publisher: Radio One
     caption: Photograph published with Radio One's report of the 20.72 kg cannabis seizure at Plaisance airport.
+  - kind: photo
+    url: https://www.lematin.ch/story/ile-maurice-arrete-avec-20-kilos-de-cannabis-un-suisse-risque-tres-gros-103671342
+    media_url: https://image.lematin.ch/2026/11/21/fd5c3b97-2876-4fd2-a00b-4c54ef6a17a2.png?auto=format%2Ccompress%2Cenhance&fit=max&w=1200&h=1200&rect=0%2C0%2C129%2C158&s=8bca33285db5ab803ae8ca4cac519202
+    publisher: lematin.ch
+    caption: 'Photograph of the arrested Swiss traveller published with the Le Matin article. Photo: lexpress.mu'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 1115f57802881cbbddd57ff670458466
@@ -91,6 +96,11 @@ sources:
     publisher: Defimedia
     date: 2026-11-20
     language: fr
+  - title: 'Suisse arrêté à l''île Maurice: 20 kilos de cannabis saisis à l''aéroport'
+    url: https://www.lematin.ch/story/ile-maurice-arrete-avec-20-kilos-de-cannabis-un-suisse-risque-tres-gros-103671342
+    publisher: lematin.ch
+    date: 2026-11-22
+    language: fr
 open_questions:
   - Defimedia gives the quantity as 20 kilos, while other accounts give 20.72 kg; the report uses 20.72 kg.
   - Defimedia dates the arrest only to the middle of the week; the exact date of 18 November comes from other accounts.
@@ -98,7 +108,7 @@ open_questions:
 
 Officers of the Anti-Drug and Smuggling Unit (ADSU) arrested a 21-year-old Swiss
 man at Sir Seewoosagur Ramgoolam International Airport on 18 November 2026 as he
-arrived from Zurich. [@1,5,6] The arrested man was named as Imhof Laurin. [@7] He had arrived on flight WK 070 from Zurich. [@2] He
+arrived from Zurich. [@1,5,6,8] The arrested man was named as Imhof Laurin. [@7] He had arrived on flight WK 070 from Zurich. [@2] Switzerland's Federal Department of Foreign Affairs told 20 Minutes it was not aware of the case. [@8] He
 was intercepted on arrival by the Customs Anti-Narcotics Section together with
 ADSU officers stationed at the airport. [@3,5,6,7] A search of his trolley bag found
 20 plastic bags containing 20.72 kg of cannabis. [@1,6] The market value of the
