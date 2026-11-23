@@ -60,36 +60,39 @@ sources:
     publisher: СП - Новости Бельцы Молдова
     date: 2026-04-09
     language: ru
+  - title: Более 10 кг наркотиков из Испании изъяты в Молдове
+    url: https://tvn.md/ru/bolee-10-kg-narkotikov-iz-ispanii-izyaty-v-moldove/
+    publisher: TV-Nord
+    date: 2026-04-09
+    language: ru
 open_questions:
-  - The sources give 9 April 2026 as the date of the police and prosecutor announcements, not a separate date for the seizure.
-  - 'No single laboratory weight was published: the cannabis figures are about 7 kg of hashish, more than 3 kg of marijuana and a further 400 g of hashish.'
-  - The 1,000 ecstasy tablets found in the same parcels are not counted as cannabis.
-  - Prosecutors said they would seek pre-trial detention; no court decision is reported.
-  - The pickup point and the bus route inside Moldova are not named.
-  - The text gives a weight ("7 kg") but the figures have no kg_seized; check whether it belongs there.
+    - The sources give 9 April 2026 as the date of the police and prosecutor announcements, not a separate date for the seizure.
+    - 'No single laboratory weight was published: the cannabis figures are about 7 kg of hashish, more than 3 kg of marijuana and a further 400 g of hashish.'
+    - The 1,000 ecstasy tablets found in the same parcels are not counted as cannabis.
+    - Prosecutors said they would seek pre-trial detention; no court decision is reported.
+    - The pickup point and the bus route inside Moldova are not named.
 ---
 
 Officers of the Anti-Drug Directorate and criminal investigators of the National
 Investigation Inspectorate (INI), with prosecutors from the Prosecutor's Office
 for Combating Organized Crime and Special Cases (PCCOCS), said they seized more
-than 10 kilograms of drugs brought into Moldova in parcels sent from Spain. [@1]
+than 10 kilograms of drugs brought into Moldova in parcels sent from Spain. [@1,4]
 The parcels were falsely declared as sweets, panettone and pasta. [@2] Two
 suspects were detained, the General Police Inspectorate said on 9 April. [@3]
 
 In the parcels officers found about 7 kilograms of hashish, more than 3
-kilograms of marijuana and 1,000 ecstasy tablets. [@1] In hiding places in
+kilograms of marijuana and 1,000 ecstasy tablets. [@1,4] In hiding places in
 Chișinău they also seized 400 grams of hashish, which investigators said
-couriers were to collect for sale. [@1] The authorities said the operation
-prevented the distribution of about 12,000 doses. [@1]
+couriers were to collect for sale. [@1,4] The authorities said the operation
+prevented the distribution of about 12,000 doses. [@1,4]
 
 A 36-year-old man was detained when he came to collect the parcels of food
 products from Spain, and investigators suspect he belongs to a criminal group
-that organised the smuggling and sale of the drugs through Telegram. [@1] A
+that organised the smuggling and sale of the drugs through Telegram. [@1,4] A
 23-year-old woman, a passenger on the bus linked to the scheme, was also
 detained; investigators say her role was to warn the group if the drugs were
-found during the journey. [@2]
+found during the journey. [@2,4]
 
 PCCOCS prosecutors said they would ask for both suspects to be held in custody
 while the investigation continues, and those involved are presumed innocent.
-[@1]
-
+[@1,4]
