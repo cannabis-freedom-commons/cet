@@ -53,6 +53,11 @@ sources:
     publisher: L'investigateur
     date: 2024-05-21
     language: fr
+  - title: 'Bénin: 10 individus interpellés à  Godomey pour trafic et usage de chanvre indien'
+    url: https://beninwebtv.bj/benin-10-individus-interpelles-a-godomey-pour-trafic-et-usage-de-chanvre-indien/
+    publisher: Bénin Web TV
+    date: 2024-05-21
+    language: fr
 open_questions:
   - No weight or plant count was published for the cannabis seized, which police described only as a large quantity.
   - The number of Tramadol tablets seized was not reported, and they are not counted as cannabis.
@@ -63,19 +68,18 @@ open_questions:
 
 Police from the Godomey arrondissement station raided a barber's home in the
 Fieyonhou quarter of Godomey, in Abomey-Calavi commune, on Tuesday 14 May 2024.
-[@2] Ten people were arrested: the owner of the house and nine others found
-there consuming chanvre indien, the French term for cannabis. [@2] The operation
+[@2,4] Ten people were arrested: the owner of the house and nine others found
+there consuming chanvre indien, the French term for cannabis. [@2,4] The operation
 followed information from a denunciation network, according to L'investigateur,
 which described the raid as taking place in a barber shop. [@3]
 
 The search seized a large quantity of cannabis, for which no weight was
-published, and Tramadol tablets. [@1] Officers also took four laptops with
+published, and Tramadol tablets. [@1,4] Officers also took four laptops with
 accessories, an LG television, two SBEE prepaid electricity meters, four
 wristwatches, 18 mobile phones of which 12 were Android, five USB keys, sound
-equipment and three motorcycles of doubtful origin. [@2] The police said those
-arrested would answer for their acts before the competent courts. [@2]
+equipment and three motorcycles of doubtful origin. [@2,4] The police said those
+arrested would answer for their acts before the competent courts. [@2,4]
 
 L'investigateur reported that they were to be brought before the prosecutor at
 CRIET, Benin's court for economic crimes and terrorism, in the following days.
 [@3]
-
