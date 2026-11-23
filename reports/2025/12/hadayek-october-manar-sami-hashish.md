@@ -67,20 +67,18 @@ sources:
     publisher: موقع المحروسة الاخباري
     date: 2026-10-27
     language: ar
+  - title: 21 كيس كوكايين و20 قطعة حشيش ومطواة ومشغولات ذهبية.. تفاصيل مثيرة في أقوال القائم بضبط البلوجر منار سامي وزوجها | قضية رأي عام
+    url: https://www.publicopinioncase.com/98861
+    publisher: قضية رأي عام
+    date: 2026-11-22
+    language: ar
 open_questions:
-  - The arrest record lists 45 hashish slabs, five further slabs and ten pieces, but no weight for the slabs; the 192.92 grams in figures is only the laboratory's net weight of one piece (104.84 g) and ten pieces (88.08 g).
-  - The referral order names a fentanyl derivative among the charges, while the laboratory article describes a phenethylamine derivative and tramadol, and the investigation articles describe ecstasy tablets.
-  - No sentence has been reported; the first criminal-court hearing is described only as the coming 12 December.
-  - Published photos are portraits of Manar Sami, not pictures of the seizure or the court.
-  - 'Left out, as its quotation was not found in اليوم السابع: The chemical laboratory reported that one seized brown piece weighed 104.84 grams net and contained hashish listed in the first schedule of the drugs law.'
-  - 'Left out, as its quotation was not found in اليوم السابع: The same examination found that ten other brown pieces, weighing 88.08 grams net, also contained hashish.'
-  - 'Left out, as its quotation was not found in اليوم السابع: The laboratory also reported cocaine in 20 clear packets weighing 22.23 grams with the bags, and in another bag of white powder weighing 55.22 grams, and said other tablets contained a phenethylamine derivative or tramadol.'
-  - Youm7 states none of the seizure details as official laboratory findings; the hashish, cocaine and ecstasy remain the incident record's suspected substances until a laboratory result is stated.
-  - The Youm7 article of 29 October 2026 does not say when in the arrest and investigation the events it recounts took place.
-  - Searches on 5 November 2026, before the scheduled hearing, found no report of a court ruling in the case.
-  - No Wayback copy of the 29 October 2026 Youm7 page could be opened during this research, so only the opened page's own text is cited.
-  - 'Left out, as its quotation was not found in اليوم السابع: The arrest record in the Manar Sami case lists 45 hashish slabs found in a black leather bag on the car''s rear seat, along with five further slabs and ten pieces of hashish on one suspect.'
-  - 'Left out, as its quotation was not found in موقع المحروسة الاخباري: In her statements to investigators, Manar Sami denied the charges and said she was at home with her husband when drug-enforcement officers entered, took their phones, gold and cash, blindfolded them and drove them to the administration building.'
+    - 'The accounts differ on who carried the hashish: the officer''s testimony places ten pieces on the third defendant and five further pieces in the car, while the earlier arrest record reported ten pieces on the first suspect.'
+    - No weight was published for the 45 hashish slabs or for the pieces seized from the third defendant and the car; the 192.92 grams in the figures is only the chemical laboratory's net weight of one piece (104.84 g) and ten pieces (88.08 g).
+    - Only part of the hashish has been confirmed by the chemical laboratory; no laboratory result is reported for the pieces seized from the third defendant and the car, and the cocaine and the pills are described only as they appear in the arrest and witness accounts.
+    - The referral order names a fentanyl derivative among the charges, while the laboratory account describes a phenethylamine derivative and tramadol and the investigation accounts describe ecstasy tablets.
+    - No sentence has been reported; the first criminal-court hearing was set for 12 December.
+    - No street value was published for the seized drugs.
 ---
 
 On 22 December 2025, in the Hadayek October police district of Giza governorate,
@@ -91,13 +89,13 @@ and Mohamed Sami, 26, a trader, all living in Hadayek October and held on the
 case. [@3] The order accuses the three of possessing and holding hashish for
 trafficking, along with cocaine, a fentanyl derivative and tramadol, and
 separately accuses Karim Alaa of holding an unlicensed folding knife described
-as a deer-horn clasp knife. [@3]
+as a deer-horn clasp knife. [@3,7]
 
 Investigators said officers arrested Manar Sami, her husband and another person
-in Hadayek October and found drugs on them and in their car. [@1] The arrest
+in Hadayek October and found drugs on them and in their car. [@1,7] The arresting officer's testimony says a search of the car found five pieces of hashish and a bag holding five more, along with a bag of cocaine. [@7] The arrest
 record says the first suspect had five hashish slabs, ten further pieces of the
 same drug, cash and a mobile phone. [@1] The second suspect had a bag with 20
-packets of cocaine, 22 grams of ecstasy tablets and a folding knife. [@1] Manar
+packets of cocaine, 22 grams of ecstasy tablets and a folding knife. [@1,7] The officer added that when confronted with the seizures the three admitted holding the drugs for trafficking and said the cash and gold jewellery came from sales, the phones were for contacting customers, the car for moving and promoting the drugs, and the knife for defending the trade. [@7] Manar
 Sami's bag held bags of ecstasy tablets weighing 327 grams, a velvet box with
 gold jewellery, cash and phones. [@1,4] A leather bag on the rear seat held 45
 hashish slabs, and another bag in the dashboard held cocaine powder. [@1]
@@ -112,3 +110,5 @@ blogger, her husband and their associate before the competent criminal court was
 set for 12 December. [@1]
 
 The criminal court set 12 December for the first hearing in the case against Manar Sami, her husband and a third defendant, who are accused of possessing drugs for trafficking in Hadayek October, Giza. [@5] Manar Sami said the search took two gold chains, a small gold bar and a ring, about 26,000 Egyptian pounds she said belonged to her husband, and a car belonging to her husband's sister. [@6] Asked about the charges, Manar Sami replied: "It didn't happen." [@6]
+
+The officer's testimony places ten pieces of hashish on the third defendant, while the arrest record reported ten pieces on the first suspect. [@7]
