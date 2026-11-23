@@ -95,29 +95,38 @@ sources:
     publisher: Punto de Encuentro Navalmoral
     date: 2026-11-20
     language: es
+  - title: Detenido en Cáceres tras huir a más de 200 km/h, circular en sentido contrario y llevar un kilo de hachís
+    url: https://www.msn.com/es-es/noticias/otras/detenido-en-c%C3%A1ceres-tras-huir-a-m%C3%A1s-de-200-kmh-circular-en-sentido-contrario-y-llevar-un-kilo-de-hach%C3%ADs/ar-AA2hQRyv
+    publisher: MSN (Europa Press)
+    date: 2026-11-20
+    language: es
+open_questions:
+    - No court outcome beyond the referral of the file, the drugs and the detainee to the competent court in Cáceres was reported.
+    - The saliva analysis for driving under the influence of drugs was still pending, so that allegation was not confirmed.
+    - The exact point on the A-66 where the chase began was not named; the place is given as near Cáceres.
 ---
 
 A 29-year-old man was detained in Cáceres, Spain, after a high-speed chase on
 the A-66 motorway in which he drove the wrong way and carried just over a kilo
 of hashish. [@1,3,4,5,6] The incident took place on 15 November 2026, when a Guardia
-Civil traffic patrol detected his car travelling at 157 km/h near Cáceres. [@1,3,4,5,6]
+Civil traffic patrol detected his car travelling at 157 km/h near Cáceres. [@1,3,4,5,6,7]
 When officers signalled him to stop he ignored them and fled, reaching speeds
-above 200 km/h. [@1,3,4,6] During the pursuit he crossed temporary separators in a
+above 200 km/h. [@1,3,4,6,7] During the pursuit he crossed temporary separators in a
 roadworks zone with a 40 km/h limit and drove for about 1.5 kilometres against
-the traffic flow. [@1,3,4,5,6] He passed at least three vehicles whose drivers had to
-make evasive manoeuvres to avoid head-on collisions. [@1,4,5,6]
+the traffic flow. [@1,3,4,5,6,7] He passed at least three vehicles whose drivers had to
+make evasive manoeuvres to avoid head-on collisions. [@1,4,5,6,7]
 
 Inside the car officers found ten pressed packages holding 1,041 grams of
 hashish, along with 445 euros in cash and other effects. [@1,3,4,5,6] A wide deployment
 of Guardia Civil patrols, directed and coordinated from the 062 control centre,
-was set up because of the seriousness of the incident. [@1,3,4,5] With help from the
+was set up because of the seriousness of the incident. [@1,3,4,5,7] With help from the
 Policía Nacional and the Cáceres local police, a Policía Nacional patrol
 intercepted the car at an entrance to the city and detained the driver. [@1,3,4,5,6] The
 stop was in the Aldea Moret district of Cáceres, according to Hoy. [@2]
 
 The man was detained on suspicion of reckless driving, serious disobedience,
 resisting officers, driving under the influence of drugs and a public-health
-offence of drug trafficking. [@1,3,4,5,6] A saliva test to identify drug influence was
+offence of drug trafficking. [@1,3,4,5,6,7] A saliva test to identify drug influence was
 still pending. [@1,3,4,5,6] The case file, the drugs and the detainee were placed before
 the competent judicial authority in Cáceres. [@1,3,4,5,6] Hoy reports he was driving
 northbound on the A-66 having come from Andalusia, where he lived in a province
