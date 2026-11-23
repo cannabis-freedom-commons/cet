@@ -51,26 +51,35 @@ sources:
     publisher: القاهرة 24
     date: 2026-11-21
     language: ar
+  - title: السجن 3 سنوات لعاطل بتهمة الإتجار في الحشيش بسوهاج
+    url: https://www.iqraa.news/245259/%D8%A7%D9%84%D8%B3%D8%AC%D9%86-3-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84%D8%B9%D8%A7%D8%B7%D9%84-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%AA%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD/
+    publisher: إقرأ نيوز
+    date: 2026-11-21
+    language: ar
+  - title: السجن 3 سنوات لمتهم بالاتجار في الحشيش بمركز العسيرات
+    url: https://asaletwatan.com/archives/400280
+    publisher: أصالة وطن
+    date: 2026-11-21
+    language: ar
 open_questions:
-  - No weight, estimated value or fine was reported for the hashish.
-  - The defendant is identified only by the initials K.H.; his age, plea and any appeal were not reported.
-  - No case number was published, so the verdict cannot be traced in court records.
-  - The article also carries a separate headline about a five-year sentence for threatening someone online in Sohag, which is a different case left out here.
-  - The account rests on a single source, Cairo24.
+    - No weight, estimated value or fine was reported for the hashish.
+    - The defendant is identified only by the initials K.H.; his age, plea and any appeal were not reported.
+    - No case number was published, so the verdict cannot be traced in court records.
+    - The accounts of the verdict reproduce the same court statement and are not independent reporting.
+    - The Cairo24 article also reported a separate five-year sentence for threatening someone online in Sohag, a different case left out here.
 ---
 
 Sohag Criminal Court sentenced an unemployed man to three years in prison on
 Saturday 21 November 2026 after convicting him of trafficking hashish and other
 narcotic substances in El-Usayrat markaz, a district of Sohag Governorate in
-Upper Egypt. [@1] The accused was identified only by the initials K.H. [@1]
+Upper Egypt. [@1,2] The accused was identified only by the initials K.H. [@1]
 
 The case dates to 2026, when the security agencies received information that
-K.H. was trafficking narcotic substances within El-Usayrat markaz. [@1] Officers
+K.H. was trafficking narcotic substances within El-Usayrat markaz. [@1,2] Officers
 immediately carried out the investigations needed to verify the information.
 [@1] After the procedures were legalised, the security agencies apprehended the
-accused. [@1]
+accused. [@1,2]
 
-When he was confronted, K.H. confessed to trafficking hashish. [@1] Legal
+When he was confronted, K.H. confessed to trafficking hashish. [@1,3] Legal
 measures were taken against him and he was referred to the criminal court, which
-issued the three-year sentence. [@1]
-
+issued the three-year sentence. [@1,3]
