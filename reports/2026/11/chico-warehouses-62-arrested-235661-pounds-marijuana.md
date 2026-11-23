@@ -108,6 +108,36 @@ media:
     media_url: https://ktla.com/wp-content/uploads/sites/4/2026/11/weed8.jpg?w=1582
     publisher: KTLA
     caption: 'Suspects arrested in the Chico warehouse raid, in a Butte County Sheriff''s Office handout. Photo: BCSO'
+  - kind: photo
+    url: https://local12.com/news/nation-world/gallery/62-people-arrested-investigators-seize-more-than-235000-pounds-marijuana-worth-282-million?photo=1
+    media_url: https://local12.com/resources/media/3e1f067e-b28a-4ac1-8d2f-a428fcafabe5-f76e650e84d24ba988bc4632df7eb580.png
+    publisher: WKRC (Local 12)
+    caption: 'Marijuana seized in the Chico warehouse raid, in a Butte County Sheriff''s Office handout published in the Local 12 gallery. Photo: Butte County Sheriff''s Office'
+  - kind: photo
+    url: https://local12.com/news/nation-world/gallery/62-people-arrested-investigators-seize-more-than-235000-pounds-marijuana-worth-282-million?photo=1
+    media_url: https://local12.com/resources/media/b5a62e26-c678-4371-9dc4-2ec5eea3a7d3-9fa3b16a680a4b2ebb42f59579c04d74.png
+    publisher: WKRC (Local 12)
+    caption: 'Marijuana seized in the Chico warehouse raid, in a Butte County Sheriff''s Office handout published in the Local 12 gallery. Photo: Butte County Sheriff''s Office'
+  - kind: photo
+    url: https://local12.com/news/nation-world/gallery/62-people-arrested-investigators-seize-more-than-235000-pounds-marijuana-worth-282-million?photo=1
+    media_url: https://local12.com/resources/media/1f0c3030-5383-47cc-a7bc-4051a95f45d1-5415de65ce16409f949d880ee0c75a2b.png
+    publisher: WKRC (Local 12)
+    caption: 'Marijuana seized in the Chico warehouse raid, in a Butte County Sheriff''s Office handout published in the Local 12 gallery. Photo: Butte County Sheriff''s Office'
+  - kind: photo
+    url: https://local12.com/news/nation-world/gallery/62-people-arrested-investigators-seize-more-than-235000-pounds-marijuana-worth-282-million?photo=1
+    media_url: https://local12.com/resources/media/71251209-cb8c-4798-81e2-dddc68934ef7-02b81d00cd1b45dc870612ae5f266221.png
+    publisher: WKRC (Local 12)
+    caption: 'Marijuana seized in the Chico warehouse raid, in a Butte County Sheriff''s Office handout published in the Local 12 gallery. Photo: Butte County Sheriff''s Office'
+  - kind: photo
+    url: https://local12.com/news/nation-world/gallery/62-people-arrested-investigators-seize-more-than-235000-pounds-marijuana-worth-282-million?photo=1
+    media_url: https://local12.com/resources/media/9f3c0941-ad4a-4ea3-803e-5bce89bb0e07-bc3eb44c1c614e67b7b96ecaa1d3d750.png
+    publisher: WKRC (Local 12)
+    caption: 'Marijuana seized in the Chico warehouse raid, in a Butte County Sheriff''s Office handout published in the Local 12 gallery. Photo: Butte County Sheriff''s Office'
+  - kind: photo
+    url: https://local12.com/news/nation-world/gallery/62-people-arrested-investigators-seize-more-than-235000-pounds-marijuana-worth-282-million?photo=1
+    media_url: https://local12.com/resources/media/96031b28-be3f-4a86-a658-a0fe0b390834-6c4dcf83708e4353aa5020c35f22a21f.png
+    publisher: WKRC (Local 12)
+    caption: 'Marijuana seized in the Chico warehouse raid, in a Butte County Sheriff''s Office handout published in the Local 12 gallery. Photo: Butte County Sheriff''s Office'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 4ec3f0c6094e3bc0450ae843b5ce8d8e
@@ -179,6 +209,11 @@ sources:
     url: https://www.theunionstar.com/235000-pounds-at-400-per-pound-is-about-94-million-not-280-million-doubts-over-282-million-dollar-chico-marijuana-bust/
     publisher: The Union Star
     date: 2026-11-21
+  - title: 62 arrested as investigators seize more than 235K pounds of marijuana worth $282M
+    url: https://local12.com/news/nation-world/gallery/62-people-arrested-investigators-seize-more-than-235000-pounds-marijuana-worth-282-million?photo=1
+    publisher: WKRC (Local 12)
+    date: 2026-11-20
+    language: en
 open_questions:
   - Readers quoted by The Union Star disputed the sheriff’s office’s $282.8 million street-value estimate, calculating about $94 million at $400 a pound, and no independent valuation was published.
   - No charging decision, court appearance or detention status has been reported for the 62 people arrested.
@@ -195,8 +230,8 @@ Department of Cannabis Control. [@1,6,7,9,12,15,16] The investigation began earl
 Detectives found 62 people at the warehouses and multiple warehouses containing
 marijuana in various stages of processing. [@1,4,5,6,7,10,13,14] Most were listed as facing charges of cultivating marijuana, several also faced charges of possessing marijuana for sale, and one was additionally charged with smuggling a controlled substance into a jail or prison and with possessing a controlled substance. [@10,11] Two of those arrested, both Chico residents, also faced allegations of possessing marijuana for sale. [@12] Investigators said large
 quantities of marijuana were being processed at the warehouse using hemp
-processing as a cover. [@1,6,8,9,10,11,12,13,14,15] Testing found that the product was marijuana, not
+processing as a cover. [@1,6,8,9,10,11,12,13,14,15,17] Testing found that the product was marijuana, not
 hemp. [@1,4,6,7,9,11,12,14,15,16] Detectives said about 235,661 pounds (roughly 106,894 kg) of
-marijuana were at the warehouses. [@1,4,6,7,9,10,11,12,13,14,15] They spent three days processing evidence
+marijuana were at the warehouses. [@1,4,6,7,9,10,11,12,13,14,15,17] They spent three days processing evidence
 and removing the marijuana, which detectives estimated had a street value of
 approximately $282,793,200. [@1,4,6,7,9,10,11,12,13,14,15] The sheriff's office said the investigation remained ongoing. [@9,15]
