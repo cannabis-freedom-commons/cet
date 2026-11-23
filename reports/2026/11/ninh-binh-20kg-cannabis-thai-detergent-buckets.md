@@ -51,6 +51,16 @@ media:
     media_url: https://cdn.cand.vn/images/OkTuA0HaJV0Smg6L-kXgfSp2x7w-CLRoP5hwxrCgiNCty2TDNUACRsCjJTVS7qx8/4-1302.jpg.avif
     publisher: Công an Nhân dân
     caption: 'The equipment used to divide and package the cannabis. Photo: Ninh Bình Provincial Police'
+  - kind: photo
+    url: https://tuoitre.vn/pha-duong-day-ma-tuy-xuyen-quoc-gia-thu-giu-20kg-can-sa-giau-trong-xo-bot-giat-100261121202900618.htm
+    media_url: https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/21/matuy-17952696511981353326503.jpg
+    publisher: Tuổi Trẻ Online
+    caption: 'The transnational drug ring bust and the 20 kg of cannabis seized in Ninh Bình. Photo: Ninh Bình Provincial Police'
+  - kind: photo
+    url: https://tuoitre.vn/pha-duong-day-ma-tuy-xuyen-quoc-gia-thu-giu-20kg-can-sa-giau-trong-xo-bot-giat-100261121202900618.htm
+    media_url: https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/21/242-17952673881271201341502.jpg
+    publisher: Tuổi Trẻ Online
+    caption: 'The cannabis hidden inside Thai-brand laundry detergent buckets. Photo: Ninh Bình Provincial Police'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 3ded1197a2e106d28eeafcd17a29787d
@@ -66,6 +76,11 @@ sources:
     publisher: VTV
     date: 2026-11-22
     language: vi
+  - title: Phá đường dây ma túy xuyên quốc gia, thu giữ 20kg cần sa giấu trong xô bột giặt
+    url: https://tuoitre.vn/pha-duong-day-ma-tuy-xuyen-quoc-gia-thu-giu-20kg-can-sa-giau-trong-xo-bot-giat-100261121202900618.htm
+    publisher: Tuổi Trẻ Online
+    date: 2026-11-21
+    language: vi
 open_questions:
   - The accounts do not say where in Ninh Bình province the cannabis was found or where Hưng was arrested; they state only that he was renting accommodation in Ý Yên commune.
   - No street value or price was published for the 20 kg of cannabis.
@@ -76,21 +91,20 @@ open_questions:
 
 Police in Ninh Bình province arrested Lê Xuân Hưng, born in 1999, who comes from
 Tân Phú commune in Nghệ An province and was renting accommodation in Ý Yên
-commune, Ninh Bình province. [@1] Hưng had one previous conviction for illegally
+commune, Ninh Bình province. [@1,3] Hưng had one previous conviction for illegally
 trading narcotic substances and had completed that prison sentence on 29 April
-2024. [@1] At about 02:00 on 21 November 2026 the provincial drug crime
+2024. [@1,3] At about 02:00 on 21 November 2026 the provincial drug crime
 investigation office, with the Ministry of Public Security's drug crime
 department, customs officers and provincial forensic officers, broke up a ring
-that took cannabis from Thailand to Ninh Bình for sale. [@1] Officers seized 20
+that took cannabis from Thailand to Ninh Bình for sale. [@1,3] Officers seized 20
 kg of cannabis that had been hidden inside buckets of imported Thai laundry
-detergent. [@1]
+detergent. [@1,3]
 
 Investigators said the cannabis was supplied by a person living in Thailand, and
 that Hưng received shipments from Thailand, stored them, divided them up and
-delivered them to buyers on that person's instructions. [@1] The cannabis was
+delivered them to buyers on that person's instructions. [@1,3] The cannabis was
 disguised inside imported laundry detergent buckets so that checks by the
-authorities would not find it. [@1]
+authorities would not find it. [@1,3]
 
 The provincial drug crime investigation office said it was continuing to
 investigate the case and would deal with those involved under the law. [@2]
-
