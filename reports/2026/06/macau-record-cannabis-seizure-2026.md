@@ -51,11 +51,28 @@ sources:
     url: https://www.macaupostdaily.com/news/28470
     publisher: The Macau Post Daily
     date: 2026-06-10
+  - title: PJ apreende 35 quilos de canábis no maior caso de tráfico de sempre em Macau (com vídeo)
+    url: https://www.plataformamedia.com/2026/06/09/pj-apreende-35-quilos-de-canabis-no-maior-caso-de-trafico-de-sempre-em-macau/
+    publisher: Plataforma Media
+    date: 2026-06-09
+    language: pt
 open_questions:
-  - Plataforma says the man had already been presented to the Public Prosecutions Office, while The Standard says the case was being transferred, so the timing of that referral is not settled.
-  - The same article also describes a separate case of a 26-year-old man caught with 5.8 kilogrammes of marijuana on his way from Macau to Hong Kong at the Sheung Wan ferry terminal, a different event left out of this match.
+    - Plataforma says the man had already been presented to the Public Prosecutions Office, while The Standard says the case was being transferred, so the timing of that referral is not settled.
+    - The same article also describes a separate case of a 26-year-old man caught with 5.8 kilogrammes of marijuana on his way from Macau to Hong Kong at the Sheung Wan ferry terminal, a different event left out of this match.
+    - The day of the arrest is given as Sunday night in Plataforma Media's Portuguese account and as Monday night in its English version and other reports; the report dates it 8 June.
+media:
+  - kind: photo
+    url: https://www.plataformamedia.com/2026/06/09/pj-apreende-35-quilos-de-canabis-no-maior-caso-de-trafico-de-sempre-em-macau/
+    media_url: https://cdn.plataformamedia.com/2026/06/cannabis-bust-by-macau-daily-news.webp
+    publisher: Plataforma Media
+    caption: 'Featured image from Macau Daily News on the record 35 kg cannabis seizure at Macau International Airport. Photo: Macau Daily News'
+  - kind: video
+    url: https://www.plataformamedia.com/2026/06/09/pj-apreende-35-quilos-de-canabis-no-maior-caso-de-trafico-de-sempre-em-macau/
+    media_url: https://cdn.plataformamedia.com/2026/06/cannabis-bust-by-macau-daily-news.mp4?_=1
+    publisher: Plataforma Media
+    caption: 'Video from Macau Daily News on the record 35 kg cannabis seizure at Macau airport. Video: Macau Daily News'
 ---
 
 A 25-year-old Hong Kong man was arrested at Macau International Airport with about 35 kg of cannabis flower in two suitcases, packed in 60 packets, after arriving from Southeast Asia. Police valued the haul at about MOP35 million and called it the largest cannabis case in Macau's history, eight months after the previous record. The man was reportedly paid at least HKD60,000 to carry the drugs, which police believed were bound for another market. The case went to the Public Prosecutions Office. [@1,2,6]
 
-The suspect said he was a stage technician. [@3,5,6] He was intercepted in a joint operation by Macau's Judiciary Police, Customs and the Public Security Police Force. [@3] A Judiciary Police spokesperson said the 60 packages weighed 34,951 grams in all. [@4] Asked by journalists where the cannabis was shipped from, Judiciary Police declined to make the country of origin public. [@4]
+The suspect said he was a stage technician. [@3,5,6] He was intercepted in a joint operation by Macau's Judiciary Police, Customs and the Public Security Police Force. [@3,7] A Judiciary Police spokesperson said the 60 packages weighed 34,951 grams in all. [@4] Asked by journalists where the cannabis was shipped from, Judiciary Police declined to make the country of origin public. [@4] The authorities said investigators were still working to identify and find other people involved in the scheme. [@7] The Judiciary Police said the operation had dismantled a route used by a criminal organisation to send large quantities of drugs through Macau to neighbouring regions. [@7] He was designated a suspect for illicit trafficking of narcotic and psychotropic substances. [@7]
