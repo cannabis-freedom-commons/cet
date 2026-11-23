@@ -66,6 +66,16 @@ sources:
     publisher: Fakti.bg
     date: 2026-11-21
     language: bg
+  - title: Полицията във Варна задържа мъж със 7 килограма марихуана
+    url: https://www.bta.bg/bg/news/bulgaria/1251604-politsiyata-vav-varna-zadarzha-mazh-sas-7-kilograma-marihuana
+    publisher: БТА (Bulgarian News Agency)
+    date: 2026-11-21
+    language: bg
+  - title: 50-годишен мъж е задържан в село Юнак със 7 килограма
+    url: https://novini247.com/novini/50-godishen-maj-e-zadarjan-v-selo-yunak-sas-7-kilograma_11415748.html
+    publisher: Новини 24/7
+    date: 2026-11-21
+    language: bg
 open_questions:
     - The operation as a whole detained 24 people, described by police as suspected of various ordinary crimes; the reports do not say how many of those detentions, besides the Yunak man, are drug-related.
     - The 7 kilograms is the police's approximate figure; no exact weight and no laboratory confirmation of the drug were published.
@@ -75,18 +85,18 @@ open_questions:
 ---
 
 Police in Bulgaria's Varna province detained a 50-year-old man in the village of
-Yunak on suspicion of growing and distributing marijuana. [@1,3,4] The detention
+Yunak on suspicion of growing and distributing marijuana. [@1,3,4,5] The detention
 came during a specialised one-day police operation against property crime and
-traffic offences across Varna province on 20 November 2026. [@1,3,4] The operation
+traffic offences across Varna province on 20 November 2026. [@1,3,4,6] The operation
 was run by the Varna regional police directorate. [@2]
 
 Searches of the man's home and his car turned up about 7 kilograms of marijuana,
-which criminal investigators seized. [@2,3,4] In the same operation officers checked
-207 people and 203 vehicles. [@1,3,4] Officers recorded 107 traffic violations, 47
-of them spotted by unmarked police cars, and issued 103 electronic fines. [@1,3,4]
+which criminal investigators seized. [@2,3,4,5] In the same operation officers checked
+207 people and 203 vehicles. [@1,3,4,6] Officers recorded 107 traffic violations, 47
+of them spotted by unmarked police cars, and issued 103 electronic fines. [@1,3,4,5]
 
 The case was one of two drug-distribution cases that the operation uncovered,
-and pre-trial proceedings were opened in both. [@1,3,4] The second, on the
+and pre-trial proceedings were opened in both. [@1,3,4,6] The second, on the
 Dalgopol–Sava road near the Asparuhovo turn-off, followed an investigation into
 methamphetamine distribution in the municipalities of Dalgopol and Dolni Chiflik
-and concerns a different substance. [@1] Officers found drugs and an electronic scale with traces of prohibited substances in his car. [@4] The other man, held during the same operation, had tried to flee a police check. [@4]
+and concerns a different substance. [@1] Officers found drugs and an electronic scale with traces of prohibited substances in his car. [@4,5] The other man, held during the same operation, had tried to flee a police check. [@4,6]
