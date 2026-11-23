@@ -62,6 +62,10 @@ sources:
     publisher: Asomiya Pratidin
     date: 2026-11-21
     language: as
+  - title: 'Assam: Ganja, heroin seized, 2 arrested'
+    url: https://www.msn.com/en-in/news/other/assam-ganja-heroin-seized-2-arrested/ar-AA2hUk8F
+    publisher: MSN
+    date: 2026-11-21
 open_questions:
     - The suspect held at Borbori village in the heroin operation was not named, and no charges beyond the registration of NDPS Act cases were reported.
     - No court appearance, remand decision or outcome was reported; both cases remained under investigation.
@@ -71,24 +75,24 @@ open_questions:
 ---
 
 Morigaon Police arrested two people during two separate anti-narcotics
-operations across Morigaon district, Assam, on 20 November 2026. [@1,4] The first
+operations across Morigaon district, Assam, on 20 November 2026. [@1,4,6] The first
 search took place at a residence in Pachatia Ward No. 2 under Morigaon Police
 Station at around 9 pm, acting on specific intelligence. [@1,3] The operation was
 led by the DySP (HQ), Morigaon, along with other police officials. [@1] Police
 apprehended one person and recovered approximately 14.50 kg of suspected ganja,
-₹3,350 in cash and a Vivo mobile phone. [@1,3,4] Asomiya Pratidin, an Assamese daily, identified the man held at Pachatia as Lalit Nath, also known as Lachit. [@5] The seized items were taken into
+₹3,350 in cash and a Vivo mobile phone. [@1,3,4,6] Asomiya Pratidin, an Assamese daily, identified the man held at Pachatia as Lalit Nath, also known as Lachit. [@5] The seized items were taken into
 custody under the prescribed legal procedures of the NDPS Act. [@1]
 
 In a separate operation at Borbori village under Lahorighat Police Station,
 police apprehended another person and recovered 10 plastic vials containing
-suspected heroin. [@1,3] The substance weighed approximately 10.60 grams,
+suspected heroin. [@1,3,6] The substance weighed approximately 10.60 grams,
 excluding the containers. [@1,3] The second operation was conducted by a team from
 Lahorighat Police Station led by the CDSP Lahorighat, along with the
 Officer-in-Charge and other personnel. [@1] A case has been registered under the
 NDPS Act, and further legal proceedings are underway. [@1,3]
 
 PTI reported that Assam Police seized 14.5 kg of ganja and 10.6 gm of heroin and
-apprehended two people in the two Morigaon operations. [@2,3] Police said they
+apprehended two people in the two Morigaon operations. [@2,3,6] Police said they
 would continue intensifying their efforts against drug trafficking and substance
 abuse and urged citizens to share credible information to help curb the drug
 menace. [@1]
