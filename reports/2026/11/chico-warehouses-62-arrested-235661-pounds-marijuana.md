@@ -233,12 +233,16 @@ sources:
     url: https://www.latimes.com/california/story/2026-11-21/raid-of-chico-warehouses-nets-118-tons-of-marijuana-62-arrests-officials-say
     publisher: Los Angeles Times
     date: 2026-11-21
+  - title: 118 tons of marijuana seized, 62 arrested in sprawling Northern California bust
+    url: https://www.sacbee.com/news/local/crime/article318177881.html
+    publisher: The Sacramento Bee
+    date: 2026-11-20
 ---
 
 Sixty-two people were arrested and booked into the Butte County Jail on 17
 November 2026. [@1,4,9,10,11,12,13,14,15,16,18,19] Several of the arrested people were from the Sacramento area. [@13] Those arrested ranged in age from 19 to 83. [@10,11,12,15,19] Several of those arrested were from the Sacramento area. [@5] Of the 62 people, 34 were from Yuba City, 14 from Sacramento, six from Chico, three from Live Oak, and one each from Woodland, Hamilton City, Elk Grove, Colusa and Olivehurst. [@10] The raid targeted multiple industrial warehouses on
 Contractors Lane in Chico, California, under a search warrant obtained by the
-Butte County Sheriff's Office. [@2,3,7,12,13,14,18] The warrant was served on Tuesday, 17
+Butte County Sheriff's Office. [@2,3,7,12,13,14,18] Testing confirmed the material found in the warehouses was marijuana rather than hemp. [@20] Two Chico residents also faced allegations of possessing marijuana for sale, and a Yuba City resident faced additional controlled substance allegations. [@20] The 62 suspects ranged in age from 19 to 83 and were mostly residents of Yuba City and Sacramento, with others from Chico, Colusa, Elk Grove, Hamilton City, Live Oak, Olivehurst and Woodland. [@20] The warrant was served on Tuesday, 17
 November 2026, by BCSO detectives from the Butte Interagency Narcotics Task
 Force, two Bureau of Land Management agents and a detective from the California
 Department of Cannabis Control. [@1,6,7,9,12,15,16,19] The investigation began earlier in 2026, when the sheriff’s office’s Special Enforcement Unit started assisting the Bureau of Land Management. [@6,7,16]
