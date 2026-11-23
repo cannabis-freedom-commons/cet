@@ -67,26 +67,31 @@ sources:
     publisher: Sumut24.co
     date: 2026-11-20
     language: id
+  - title: Kejari Tapsel Musnahkan 8,1 Kg Ganja dan 76,45 Gram Sabu, Polres Tegaskan Komitmen Berantas Narkoba
+    url: https://www.waspada.id/berita/kejari-tapsel-musnahkan-8-1-kg-ganja-dan-76-45-gram-sabu-polres-tegaskan-komitmen-berantas-narkoba
+    publisher: Waspada
+    date: 2026-11-21
+    language: id
 ---
 
 The Tapanuli Selatan district prosecutor's office destroyed 8.1 kilograms of
 ganja and 76.45 grams of sabu held as evidence in 55 cases that had become
-final. [@1,2,3,4] The destruction was carried out on Thursday 19 November 2026 and was
+final. [@1,2,3,4,5] Police destroyed the sabu evidence by mixing it with kerosene. [@5] The destruction was carried out on Thursday 19 November 2026 and was
 witnessed by related agencies, including the Tapanuli Selatan district police.
-[@1,2,3,4] The 76.45 grams of sabu destroyed in the same exercise is a separate
+[@1,2,3,4,5] The 76.45 grams of sabu destroyed in the same exercise is a separate
 substance and is not counted in the cannabis figure. [@1]
 
 Tapanuli Selatan police chief Anton Santoso, speaking through narcotics unit
 head Philip Antonio Purba, said the police presence showed support for
-enforcement through to the destruction of evidence. [@1,3,4] Purba said drug
-enforcement does not stop at uncovering a case and holding a trial. [@1,2,4] He said
+enforcement through to the destruction of evidence. [@1,3,4,5] Purba said drug
+enforcement does not stop at uncovering a case and holding a trial. [@1,2,4,5] He said
 destroying the evidence ensured the legal process was completed and prevented
-the evidence from being misused. [@1,4] He said the police, prosecution and courts
-must keep their coordination at every stage of a case. [@1,4] Purba also called on
+the evidence from being misused. [@1,4,5] He said the police, prosecution and courts
+must keep their coordination at every stage of a case. [@1,4,5] Purba also called on
 residents to help prevent drug trafficking and to report suspicious activity in
-their neighbourhoods. [@1,4]
+their neighbourhoods. [@1,4,5]
 
 The prosecutor's office also destroyed evidence from other cases: seven assault
 cases (scissors and a hoe), four child-protection cases (clothing), three
 gambling cases (dream-interpretation books and playing cards) and 11 theft cases
-(wood, a screwdriver and pliers). [@1,2,3,4]
+(wood, a screwdriver and pliers). [@1,2,3,4,5]
