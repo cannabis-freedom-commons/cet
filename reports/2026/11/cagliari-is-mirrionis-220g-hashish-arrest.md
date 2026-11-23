@@ -58,6 +58,11 @@ sources:
     publisher: La Nuova Sardegna
     date: 2026-11-21
     language: it
+  - title: 卡利亚里：在地下室发现近一公斤毒品：一名男子在伊斯米里奥尼斯被捕
+    url: https://www.unionesarda.it/zh/%E6%92%92%E4%B8%81%E5%B2%9B/%E5%8D%A1%E5%88%A9%E4%BA%9A%E9%87%8C%E5%9C%A8%E5%9C%B0%E4%B8%8B%E5%AE%A4%E5%8F%91%E7%8E%B0%E8%BF%91%E4%B8%80%E5%85%AC%E6%96%A4%E6%AF%92%E5%93%81%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E4%BC%8A%E6%96%AF%E7%B1%B3%E9%87%8C%E5%A5%A5%E5%B0%BC%E6%96%AF%E8%A2%AB%E6%8D%95-cjdlia5w
+    publisher: L'Unione Sarda
+    date: 2026-11-21
+    language: zh
 open_questions:
   - 'The hashish weight differs between accounts: L''Unione Sarda reports 220 grams, La Nuova Sardegna more than 240 grams in its text and 270 grams in its headline; the report uses 220 grams.'
   - The suspect's age is given as 54 by L'Unione Sarda and by La Nuova Sardegna's headline, but as 56 in La Nuova Sardegna's text.
@@ -67,24 +72,23 @@ open_questions:
 
 A routine check by the Flying Falcons unit of Cagliari's state police mobile
 team led officers to one of the largest drug finds in the city in recent months.
-[@1] Diego Fiorillo, 54, was arrested. [@1] Officers stopped Fiorillo during an
+[@1,3] Diego Fiorillo, 54, was arrested. [@1,3] Officers stopped Fiorillo during an
 evening check in Is Mirrionis and said he appeared agitated and nervous. [@2] He
 admitted hiding a dose of cocaine in his underwear and handed over the packet
 voluntarily. [@1]
 
 Officers seized 720 grams of cocaine and 220 grams of hashish from the garage in
-Is Mirrionis. [@1] His van held keys and a remote control for a cellar in Via
-Buggerru, documents for its use and 870 euros in cash. [@1] Inside the cellar
+Is Mirrionis. [@1,3] His van held keys and a remote control for a cellar in Via
+Buggerru, documents for its use and 870 euros in cash. [@1,3] Inside the cellar
 officers found numerous vacuum-packed cocaine portions, already sorted and
-individually labelled. [@1] The cellar also held precision scales, a
+individually labelled. [@1,3] The vacuum-packed cocaine was found in a safe, in cardboard boxes and on shelves. [@3] The cellar also held precision scales, a
 vacuum-packing machine, bags, plastic offcuts and knives considered useful for
 drug dealing. [@2] La Nuova Sardegna reported more than 240 grams of hashish,
 divided into several blocks and fragments, some labelled by product quality.
 [@2]
 
 Investigators said the quantity and the organisation of the store pointed to a
-structured activity aimed at supplying a large network of consumers. [@1] They
+structured activity aimed at supplying a large network of consumers. [@1,3] They
 said the drugs could have generated profits of tens of thousands of euros if
 sold on the market. [@1] He was taken to Uta prison, defended by lawyer Gianluca
 Aste, and was awaiting a validation hearing expected on Monday or Tuesday. [@2]
-
