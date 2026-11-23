@@ -101,20 +101,25 @@ sources:
     publisher: Miejski Reporter
     date: 2026-11-19
     language: pl
+  - title: Ponad pół kilograma narkotyków w mieszkaniu w Płocku. 22-latek został tymczasowo aresztowany
+    url: https://wirtualnynowydwor.pl/ponad-pol-kilograma-narkotykow-w-mieszkaniu-w-plocku-22-latek-zostal-tymczasowo-aresztowany/
+    publisher: Wirtualny Nowy Dwór
+    date: 2026-11-20
+    language: pl
 ---
 
 Płock city police arrested a 22-year-old man linked to the football hooligan
-scene, known in Poland as pseudokibice. [@3,4,5,6,7] He was wanted to serve a sentence
-imposed for not paying a fine for damage to property. [@3,4,5,6,7] Officers of the Płock
+scene, known in Poland as pseudokibice. [@3,4,5,6,7,8] He was wanted to serve a sentence
+imposed for not paying a fine for damage to property. [@3,4,5,6,7,8] Officers of the Płock
 command's football-hooligan unit and its department for crimes against life and
-health carried out the arrest. [@2,4,5,7] Officers went to his flat on 16 November
-2026 and searched it. [@3,4,5,6,7]
+health carried out the arrest. [@2,4,5,7,8] Officers went to his flat on 16 November
+2026 and searched it. [@3,4,5,6,7,8]
 
-The search turned up more than half a kilogram of marijuana and hashish. [@3,4,5,6,7]
+The search turned up more than half a kilogram of marijuana and hashish. [@3,4,5,6,7,8]
 Police estimated the black-market value of the drugs at nearly 27,000 złoty.
-[@3,4,5,6,7] The discovery widened the case to a suspected drug offence. [@1]
+[@3,4,5,6,7,8] The discovery widened the case to a suspected drug offence. [@1]
 
 He was charged with possession of a significant amount of intoxicating
-substances. [@1,4,5,6,7] Płock police spokeswoman Monika Jakubowska gave the account of the charge and the detention order. [@4,5] At the prosecutor's request a court ordered him held in
-pre-trial detention for three months. [@3,4,5,6,7] Possession of a significant amount of
-drugs carries up to 10 years in prison. [@1,4,5,6,7]
+substances. [@1,4,5,6,7,8] Płock police spokeswoman Monika Jakubowska gave the account of the charge and the detention order. [@4,5] At the prosecutor's request a court ordered him held in
+pre-trial detention for three months. [@3,4,5,6,7,8] Possession of a significant amount of
+drugs carries up to 10 years in prison. [@1,4,5,6,7,8]
