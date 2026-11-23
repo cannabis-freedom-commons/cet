@@ -53,6 +53,10 @@ sources:
     url: https://www.rollingstone.com/culture/culture-news/alki-david-coca-cola-cannabis-marijuana-arrest-835880/
     publisher: Rolling Stone
     date: 2019-05-15
+  - title: Coca-Cola billionaire arrested after private jet search turns up $1.3M in cannabis
+    url: https://nypost.com/2019/05/14/coca-cola-billionaire-arrested-after-private-jet-search-turns-up-1-3m-in-cannabis/
+    publisher: New York Post
+    date: 2019-05-14
 open_questions:
   - The widely repeated 5,000-plant and about $1.3 million figures differ from the DPP official 550-plant account; this report uses the official plant count and records no value because currency and attribution are unclear.
   - No weight was published for the 550 plants, so no kilograms are recorded.
@@ -70,8 +74,8 @@ officers investigated. [@2] The plant material he had brought was taken into
 custody for analysis. [@2] On the advice of the Director of Public Prosecutions,
 David was arrested on 9 May 2019. [@2] He was charged with possession of
 cannabis, possession with intent to supply, importation of cannabis and
-importation of a restricted item. [@2] He had landed with business partner Chase
-Ergen and actor Jonathan Rhys Meyers. [@1,4] Meyers' wife and his mother-in-law were also reportedly on the plane. [@4] Meyers was released without
+importation of a restricted item. [@2,5] He had landed with business partner Chase
+Ergen and actor Jonathan Rhys Meyers. [@1,4,5] Meyers' wife and his mother-in-law were also reportedly on the plane. [@4] Meyers was released without
 sustaining any charges. [@1] Police said David was arrested on May 9 and
 appeared in court the following day. [@3]
 
@@ -84,7 +88,7 @@ Swissx business selling legal cannabis products abroad. [@3,4] Through his legal
 the mere possession of the marijuana plant is illegal and THC content does not
 matter. [@3] He was first released on $30,000 cash bail with $50,000 in
 sureties, ordered to surrender travel documents and report daily to Frigate Bay
-police. [@3] On 14 May the court varied bail to EC$300,000 cash with EC$300,000
+police. [@3,5] On 14 May the court varied bail to EC$300,000 cash with EC$300,000
 in sureties and returned his travel documents. [@2] He was ordered to return to
 court on 23 September 2019. [@2,4] He then posted $300,000 bail before leaving the
 island on Tuesday. [@1,4]
