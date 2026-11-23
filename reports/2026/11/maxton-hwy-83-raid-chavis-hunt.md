@@ -64,6 +64,14 @@ sources:
     url: https://abcnews4.com/news/state/3-arrested-fourth-suspect-wanted-following-drug-investigations-in-robeson-co
     publisher: ABC News 4 (WCIV)
     date: 2026-11-20
+  - title: 3 arrested, fourth suspect wanted following drug investigations in Robeson Co.
+    url: https://wpde.com/news/local/3-arrested-fourth-suspect-wanted-following-drug-investigations-in-robeson-co
+    publisher: WPDE
+    date: 2026-11-20
+  - title: 3 arrested, 1 wanted in Robeson County narcotics investigations
+    url: https://www.wmbfnews.com/2026/11/20/3-arrested-1-wanted-robeson-county-narcotics-investigations/
+    publisher: WMBF News
+    date: 2026-11-20
 open_questions:
     - No weight or quantity was published for the marijuana, the cocaine, the pills, the firearms or the U.S. currency seized.
     - 'No calendar date is given: 19 November 2026 is the Thursday named in the accounts, which were published on Friday 20 November 2026.'
@@ -75,18 +83,18 @@ open_questions:
 ---
 
 The Border Belt Drug Task Force said the arrests came in two separate narcotics
-investigations. [@1,2] Robeson County Sheriff’s Office narcotics investigators and
+investigations. [@1,2,3] Robeson County Sheriff’s Office narcotics investigators and
 SWAT operators searched a property in the 70 block of Hwy 83, south of Maxton,
-on Thursday 19 November 2026. [@1,2] Mitchell Kelly Chavis, 47, and Toria Lynn
-Hunt, 37, both of Maxton, were arrested and charged. [@1,2]
+on Thursday 19 November 2026. [@1,2,4] Mitchell Kelly Chavis, 47, and Toria Lynn
+Hunt, 37, both of Maxton, were arrested and charged. [@1,2,3]
 
 Investigators seized cocaine, marijuana, pills, firearms, U.S. currency and drug
-paraphernalia in the search. [@1,2] The charges include two counts of trafficking
-cocaine and possession with intent to sell or deliver marijuana. [@1,2] Both were
-also charged with two counts of exposing a child to a controlled substance. [@1,2] Both also face possession with intent to sell or deliver cocaine. [@2]
+paraphernalia in the search. [@1,2,3] The charges include two counts of trafficking
+cocaine and possession with intent to sell or deliver marijuana. [@1,2,3] Both are also charged with conspiracy to traffic cocaine. [@3] Both were
+also charged with two counts of exposing a child to a controlled substance. [@1,2,3] Both also face possession with intent to sell or deliver cocaine. [@2]
 
 Chavis is being held at the Robeson County Detention Center on a $1,300,000
-secured bond. [@1,2] Hunt is held in the same jail on a $1,050,000 secured bond.
-[@1,2] The sheriff’s office said bond amounts are set by a judicial official, such
+secured bond. [@1,2,3] Hunt is held in the same jail on a $1,050,000 secured bond.
+[@1,2,4] The sheriff’s office said bond amounts are set by a judicial official, such
 as a judge or magistrate, not by the office. [@1] The release also said every
 person is presumed to be innocent unless proven guilty in a court of law. [@1]
