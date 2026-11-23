@@ -48,6 +48,16 @@ media:
     media_url: https://pozirk.online/wp-content/uploads/2026/11/narkotiki_mvd.png
     publisher: Pozirk
     caption: 'Still frame from the Interior Ministry video released with the announcement of the Kamenets district marijuana case. Caption: Video: MVD / frame: Pozirk.'
+  - kind: photo
+    url: https://news.zerkalo.io/accidents/141022.html
+    media_url: https://img.zerkalo.io/720x720s/novosti/00/d/konoplyanapole1126.jpg
+    publisher: Зеркало
+    caption: 'A cannabis bush standing in a field in Kamenets district, November 2026. Photo: УВД Брестского облисполкома'
+  - kind: photo
+    url: https://news.zerkalo.io/accidents/141022.html
+    media_url: https://img.zerkalo.io/720x720s/novosti/08/e/0marikhuanakamenec1126.jpg
+    publisher: Зеркало
+    caption: 'Marijuana found at the home of a Kamenets district resident, November 2026. Photo: УВД Брестского облисполкома'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: fcc378f1f431e885db865f903f28c59f
@@ -78,22 +88,34 @@ sources:
     publisher: Pozirk
     date: 2026-11-22
     language: ru
+  - title: «Попробовал посадить — они взошли». Жителя Брестчины задержали из-за 24 кг марихуаны
+    url: https://news.zerkalo.io/accidents/141022.html
+    publisher: Зеркало
+    date: 2026-11-22
+    language: ru
+open_questions:
+    - No date is given for the detention; 22 November 2026 is the date the police announced the case.
+    - No figure was published for the number of plants in the field or their weight.
+    - No charge beyond the criminal case for illegal drug circulation has been announced, and no court date is reported.
+    - The man's statement that the marijuana was for his own use has not been tested in court.
+    - No value estimate was given for the 24 kilograms of marijuana.
+    - All accounts reproduce the same Brest regional internal affairs directorate announcement.
 ---
 
 Drug-control officers of the Brest regional internal affairs directorate
 detained a 41-year-old man who lives in one of the villages of Kamenets
-district. [@1,3] The Brest regional police department said he was suspected of
-growing cannabis in a field next to his house. [@2,3] BelTA reported that the
+district. [@1,3,6] The Brest regional police department said he was suspected of
+growing cannabis in a field next to his house. [@2,3,6] BelTA reported that the
 cannabis grew in a field not far from his own plot of land. [@1]
 
-A search at the man's home found more than 24 kilograms of marijuana. [@1,4,5] ONT
+A search at the man's home found more than 24 kilograms of marijuana. [@1,4,5,6] ONT
 reported that officers discovered the marijuana during a search at the suspect's
 place of residence. [@2]
 
 The villager admitted that he had first sprouted the cannabis from seed at his
-home and then transplanted the plants beyond his own property. [@1,4,5] The plants
+home and then transplanted the plants beyond his own property. [@1,4,5] Police filmed the detained man in custody, and in the published fragment he said that seeds left over from when he smoked before sprouted once he planted them. [@6] The plants
 had been cultivated in open ground in a field. [@1]
 
-He said the marijuana was intended for personal use. [@1,4,5] Investigators opened a
-criminal case for illegal drug trafficking. [@1,3,5] The Brest regional internal
+He said the marijuana was intended for personal use. [@1,4,5,6] Investigators opened a
+criminal case for illegal drug trafficking. [@1,3,5,6] The Brest regional internal
 affairs directorate announced the arrest through its press service. [@1]
