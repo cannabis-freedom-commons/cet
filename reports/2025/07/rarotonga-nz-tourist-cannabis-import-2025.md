@@ -40,15 +40,19 @@ sources:
     url: https://www.cookislandsnews.com/internal/national/crime/nz-tourist-arrested-for-importing-cannabis/
     publisher: Cook Islands News
     date: 2025-07-24
+  - title: High Court for NZ tourist on drug charges
+    url: https://www.cookislandsnews.com/internal/national/crime/high-court-for-nz-tourist-on-drug-charges/
+    publisher: Cook Islands News
+    date: 2025-07-25
 open_questions:
-  - The article gives no weight for the cannabis and no charge wording or court outcome beyond the expected appearance on 24 July 2025.
-  - The two bags of white powder were still subject to analysis; their contents are not stated and no quantity is attributed to cannabis.
-  - The article says only that the flight from New Zealand arrived on Tuesday; 22 July 2025 is read from the publication date of 24 July.
-  - Only one account of this event was found; no other outlet or police statement could be opened.
+    - No weight was published for the cannabis and no quantity is given for it.
+    - The two bags of white powder were still subject to analysis; their contents are not stated and no quantity is attributed to cannabis.
+    - The tourist's first court appearance was expected on 24 July 2025 in the police-based account and was listed before Chief Justice Patrick Keane on 25 July 2025 in the court report.
+    - The outcome of the case after the first High Court appearance is not reported.
 ---
 
 A 50-year-old New Zealand tourist was detained at Rarotonga Airport for
-importing cannabis and was expected to appear in court on 24 July 2025. [@1]
+importing cannabis and was expected to appear in court on 24 July 2025. [@1] The New Zealand tourist charged with importation of cannabis was expected to appear before Chief Justice Patrick Keane in the Cook Islands High Court on 25 July 2025. [@2]
 Cook Islands Police media and strategic advisor Trevor Pitt said the tourist had
 arrived on a flight from New Zealand on Tuesday and had been remanded in prison.
 [@1] Customs officers detained him after finding a concealed bag of cannabis and
@@ -60,4 +64,3 @@ Headquarters, where he was processed. [@1] The same police roundup also reported
 a motorcyclist breaking a leg in a crash by the Punanga Nui Market, a
 drunk-driving arrest and a car driven into a hedge at Takuvaine, separate
 incidents left out of this report. [@1]
-
