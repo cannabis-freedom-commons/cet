@@ -171,24 +171,21 @@ sources:
     publisher: KoSSev
     date: 2026-11-21
     language: fr
-open_questions:
-    - The police statement gives 14 kg 815 g of suspected marijuana, while Interior Minister Xhelal Sveçla's announcement rounded it to about 15 kilograms.
-    - The substance was described only as suspected marijuana, with no laboratory confirmation or net weight reported.
-    - The court had not ruled on the prosecution's detention request, and the final outcome of the case was not reported.
-    - The police statement lists only marijuana for the Pristina–Gjakova–Mutivoda operation; 51.2 g of suspected cocaine was seized in a separate South Mitrovica operation the same day, which also led to one more arrest and no cannabis seizure.
-    - Reporteri.net described the two weapons seized as pistols, while other accounts of the police statement listed two revolvers.
-    - The Pristina prosecution put the marijuana at 15.443 kg, a third figure differing from the police count of 14 kg 815 g and the minister's rounded 15 kg; the prosecution did not explain the 628 g difference.
-    - 'The suspects'' initials differ: the prosecution announcement gives SM, FB, NI and Gj.S., while police accounts give SB, FB, NI and Gj.Z.'
+  - title: După confiscarea a aproape 15,5 kilograme de marijuana, procuratura a solicitat reținerea celor patru suspecți
+    url: https://kossev.info/ro/nakon-zaplene-gotovo-155-kilograma-marihuane-tuzilastvo-zatrazilo-pritvor-za-cetvoricu-osumnjicenih/
+    publisher: KoSSev
+    date: 2026-11-21
+    language: ro
 ---
 
 Kosovo police arrested four people suspected of drug trafficking in an operation
-codenamed Taslixhe. [@1,5,6,7,8,9,10,11,20,26] The four suspects, identified only as SB, FB, NI and Gj.Z., were held for 48 hours on a prosecutor's order. [@11,17,21] The state prosecutor asked the court to order detention of the four defendants to ensure their presence in the criminal proceedings. [@21,24,25] The Pristina prosecution's department for serious crimes said the arrests followed special investigative measures and searches of several locations. [@25] Prosecutors described the suspected offences as unauthorized purchase, possession, distribution and sale of narcotics, unauthorized possession of weapons, and assisting an offender after a crime. [@24,25] The four people arrested were citizens of Kosovo. [@13,14,16,19,23] The operation was carried out at different locations in
-Pristina and Gjakova, in coordination with the prosecutor's office. [@3,6,7,8,9,10,11,20,21,24] The operation took place at noon in Pristina, Gjakova and at the Mutivoda border crossing. [@13,14,16,19,23,26] The police report dated the operation to 20 November 2026. [@14,19,22,23] The police bulletin recorded the case under the category of drug possession. [@22,26] The police report located the Pristina search on Isa Kastrati street. [@14,19,23] The first operation was carried out by investigators from the Pristina and Gjakova units of the Drug Trafficking Investigation Directorate, with the Rapid Response Unit and the Mutivoda Border Police. [@11,18]
+codenamed Taslixhe. [@1,5,6,7,8,9,10,11,20,26] The four suspects, identified only as SB, FB, NI and Gj.Z., were held for 48 hours on a prosecutor's order. [@11,17,21] The state prosecutor asked the court to order detention of the four defendants to ensure their presence in the criminal proceedings. [@21,24,25,27] The Pristina prosecution's department for serious crimes said the arrests followed special investigative measures and searches of several locations. [@25,27] Prosecutors described the suspected offences as unauthorized purchase, possession, distribution and sale of narcotics, unauthorized possession of weapons, and assisting an offender after a crime. [@24,25,27] The four people arrested were citizens of Kosovo. [@13,14,16,19,23] The operation was carried out at different locations in
+Pristina and Gjakova, in coordination with the prosecutor's office. [@3,6,7,8,9,10,11,20,21,24] The operation took place at noon in Pristina, Gjakova and at the Mutivoda border crossing. [@13,14,16,19,23,26] The police report dated the operation to 20 November 2026. [@14,19,22,23,27] The police bulletin recorded the case under the category of drug possession. [@22,26] The police report located the Pristina search on Isa Kastrati street. [@14,19,23] The first operation was carried out by investigators from the Pristina and Gjakova units of the Drug Trafficking Investigation Directorate, with the Rapid Response Unit and the Mutivoda Border Police. [@11,18]
 Interior Minister Xhelal Sveçla announced the arrests in a Facebook post. [@2,5,8,9]
 
-Officers seized about 15 kilograms of marijuana during the searches. [@4,5,6,7,8,9,10,11,12,20,21,22,26] Four bags of suspected hashish, described as chocolate, were also seized. [@21,24] Police put the amount of marijuana seized at 14 kilograms and 815 grams. [@13,15,16,18,19,22,23,24,25,26] The prosecution later put the seized marijuana at 15.443 kilograms. [@25] They
+Officers seized about 15 kilograms of marijuana during the searches. [@4,5,6,7,8,9,10,11,12,20,21,22,26] Four bags of suspected hashish, described as chocolate, were also seized. [@21,24,27] Police put the amount of marijuana seized at 14 kilograms and 815 grams. [@13,15,16,18,19,22,23,24,25,26] The prosecution later put the seized marijuana at 15.443 kilograms. [@25,27] They
 also seized an unspecified quantity of cocaine, cash, weapons and ammunition,
-mobile phones and two vehicles. [@2,5,6,7,8,9,10,20] The prosecution put the seized cocaine at 1.7 grams. [@21,24,25] The police statement also listed two revolvers, 62 cartridges, 9,120 euros, 350 Swiss francs, two cars, four mobile phones and a digital scale. [@11,17,21] The minister gave no quantity for the
+mobile phones and two vehicles. [@2,5,6,7,8,9,10,20] The prosecution put the seized cocaine at 1.7 grams. [@21,24,25,27] The police statement also listed two revolvers, 62 cartridges, 9,120 euros, 350 Swiss francs, two cars, four mobile phones and a digital scale. [@11,17,21] The minister gave no quantity for the
 cocaine, no cash amount and no type or number of weapons. [@1,8,9] The places
 searched and the identities of the four arrested were not published. [@1,9]
 
