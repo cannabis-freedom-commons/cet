@@ -29,6 +29,10 @@ sources:
     url: https://kymkemp.com/2026/11/12/sheriffs-convoy-in-southern-humboldt/
     publisher: Redheaded Blackbelt
     date: 2026-11-12
+  - title: 'Miss World to Wiretaps: Sacramento County''s Reach into Humboldt''s Cannabis Trade'
+    url: https://kymkemp.com/2026/11/22/miss-world-to-wiretaps-sacramento-countys-reach-into-humboldts-cannabis-trade/
+    publisher: Redheaded Blackbelt
+    date: 2026-11-22
 open_questions:
   - No number of warrants, cultivation sites, plants, seized cannabis, arrests or charges was published; the sheriff's office said additional details would follow.
   - No destination properties, suspects, seizures, plant disposal or court outcomes were reported.
@@ -39,7 +43,7 @@ open_questions:
 Humboldt County Sheriff's Office public information officer Summer Hansen
 confirmed that the office's Marijuana Eradication Team was in the Southern
 Humboldt area on 12 November 2026 serving warrants on suspected illicit cannabis
-cultivation sites. [@1] Hansen said the sheriff's office would release
+cultivation sites. [@1,2] That operation took place in the Salmon Creek area and the sheriff's office released no further details, citing an ongoing investigation. [@2] Hansen said the sheriff's office would release
 additional details. [@1]
 
 On the morning of 12 November 2026, readers reported multiple sheriff's vehicles
@@ -58,4 +62,3 @@ involve environmental damage, unsafe working conditions and labour exploitation.
 residents have questioned using law-enforcement resources on marijuana
 cultivation and argued deputies should instead prioritise fentanyl,
 methamphetamine and other serious crimes. [@1]
-

@@ -65,23 +65,27 @@ sources:
     url: https://folsomtimes.com/multi-agency-trafficking-operation-netw-arrests-30k-illegal-weed-pesticides-firearms/
     publisher: Folsom Times
     date: 2026-11-18
+  - title: 'Miss World to Wiretaps: Sacramento County''s Reach into Humboldt''s Cannabis Trade'
+    url: https://kymkemp.com/2026/11/22/miss-world-to-wiretaps-sacramento-countys-reach-into-humboldts-cannabis-trade/
+    publisher: Redheaded Blackbelt
+    date: 2026-11-22
 ---
 
 The Sacramento County Sheriff's Office led a multi-agency operation that
 targeted a suspected large-scale drug trafficking organization, officials said.
 [@1,3,4] On 9 November 2026, law enforcement officers raided 19 locations across
-California and Oregon, the sheriff's office said. [@1,3,4] Eight people were
-arrested in the raids. [@1,3,4]
+California and Oregon, the sheriff's office said. [@1,3,4,5] Eight people were
+arrested in the raids. [@1,3,4,5]
 
 Officers seized or destroyed 30,000 pounds of illegal marijuana, about 13.6
-tonnes. [@1,3,4] They also recovered 3,675 pounds of illegal pesticides from the
-raided sites. [@1,3,4] Firearms, cash and other assets were seized as well, the
+tonnes. [@1,3,4,5] They also recovered 3,675 pounds of illegal pesticides from the
+raided sites. [@1,3,4,5] Firearms, cash and other assets were seized as well, the
 sheriff's office said. [@1,3,4] The arrest and seizure figures are totals for all 19
 locations in both states. [@1]
 
 The sheriff's office's Regional Enforcement of All Crimes Team (REACT) led the
 operation, with support from the El Dorado and Siskiyou County sheriff's offices
-and the Jackson County Sheriff's Department in Oregon. [@2,4] Federal partners included the FBI, Homeland Security Investigations, the Drug Enforcement Administration, the U.S. Attorney's Office and agencies in the High Intensity Drug Trafficking Areas program. [@4] State agencies involved included the California Highway Patrol, the California Department of Fish and Wildlife and the California National Guard Counterdrug Task Force. [@4] Municipal agencies assisting included the Folsom, Rancho Cordova, Rocklin, Arcadia and Baldwin Park police departments. [@4] Regional partners also included the Sacramento Area Intelligence and Narcotics Team (SAINT) and the Tri-County Drug Enforcement Team (TRIDENT). [@4] The sheriff's office
-said the investigation remains ongoing. [@1,3,4] Authorities did not disclose the
+and the Jackson County Sheriff's Department in Oregon. [@2,4] Federal partners included the FBI, Homeland Security Investigations, the Drug Enforcement Administration, the U.S. Attorney's Office and agencies in the High Intensity Drug Trafficking Areas program. [@4] State agencies involved included the California Highway Patrol, the California Department of Fish and Wildlife and the California National Guard Counterdrug Task Force. [@4] Municipal agencies assisting included the Folsom, Rancho Cordova, Rocklin, Arcadia and Baldwin Park police departments. [@4] Regional partners also included the Sacramento Area Intelligence and Narcotics Team (SAINT) and the Tri-County Drug Enforcement Team (TRIDENT). [@4,5] The sheriff's office
+said the investigation remains ongoing. [@1,3,4,5] Authorities did not disclose the
 charges against the eight and said further arrests and charges were possible.
 [@2,4]
