@@ -54,6 +54,11 @@ media:
     media_url: https://www.rte.ie/images/002561a1-614.jpg?ratio=1.78
     publisher: RTÉ News
     caption: 'The Glock 19 semi-automatic pistol and five rounds of ammunition seized by gardaí in Inchicore, Dublin. Photo: An Garda Síochána'
+  - kind: photo
+    url: https://www.thejournal.ie/glock-pistol-around-e1-8m-worth-drugs-seized-searches-dublin-8-7234108-Nov2026/
+    media_url: https://img2.thejournal.ie/inline/7234109/original/?width=650&version=7234109
+    publisher: The Journal
+    caption: 'Drugs seized in the Inchicore searches, including the 122.5kg of cannabis herb. Photo: Garda Press Office'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: eaf06e0031abcd776f52e9de03e28ed6
@@ -63,23 +68,34 @@ sources:
     url: https://www.rte.ie/news/ireland/2026/1121/1600156-firearms-drugs-dublin/
     publisher: RTÉ News
     date: 2026-11-21
+  - title: Glock pistol and around €1.8m worth of drugs seized during searches in Dublin 8
+    url: https://www.msn.com/en-ie/news/other/glock-pistol-and-around-18m-worth-of-drugs-seized-during-searches-in-dublin-8/ar-AA2hX8uO
+    publisher: The Journal on MSN
+    date: 2026-11-22
+  - title: Glock pistol and around €1.8m worth of drugs seized during searches in Dublin 8
+    url: https://www.thejournal.ie/glock-pistol-around-e1-8m-worth-drugs-seized-searches-dublin-8-7234108-Nov2026/
+    publisher: The Journal
+    date: 2026-11-22
+open_questions:
+    - An account published on 22 November says both men were still detained at garda stations in the Dublin metropolitan region, while reporting published the same weekend says they had already been charged.
+    - No court outcome, plea or detention decision has been reported for the two charged men.
+    - The headline value of "around €1.8m" is higher than the €1,765,000 given in the article and by the Garda statement.
 ---
 
 Gardaí attached to the Dublin Crime Response Team carried out an
 intelligence-led operation on Bulfin Road, Inchicore, Dublin 8 at 6.45pm as part
-of Operation Tara. [@1] They seized 110kgs of vacuum-packed cannabis herb from
-two parked vans. [@1] The two men, aged in their 20s and 40s, who were the
-drivers of the vans, were arrested at the scene. [@1]
+of Operation Tara. [@1,2] They seized 110kgs of vacuum-packed cannabis herb from
+two parked vans. [@1,2] The two men, aged in their 20s and 40s, who were the
+drivers of the vans, were arrested at the scene. [@1,2]
 
 In a follow-up search under warrant at a property in Dublin 8, gardaí also
 seized a further 12.5kgs of cannabis herb, .5 kg of cocaine, €4,550 in cash, a
 Glock 19 semi-automatic pistol, five rounds of ammunition and an assortment of
-documents. [@1] The combined total of 122.5kgs of cannabis herb and .5kg of
-cocaine was valued at €1,765,000. [@1]
+documents. [@1,3] The combined total of 122.5kgs of cannabis herb and .5kg of
+cocaine was valued at €1,765,000. [@1,2]
 
 Both men were charged after the seizure. [@1] They were due to appear before
 Dublin District Court at Court No 4 of the Criminal Courts of Justice. [@1] The
-seized drugs were subject to analysis by Forensic Science Ireland. [@1] The
+seized drugs were subject to analysis by Forensic Science Ireland. [@1,2] The
 firearm was to be examined by the Garda Ballistics Section and investigations
 were ongoing. [@1]
-
