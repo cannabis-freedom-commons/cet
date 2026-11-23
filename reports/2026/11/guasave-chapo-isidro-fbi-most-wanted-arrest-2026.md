@@ -50,6 +50,11 @@ media:
     media_url: https://www.fbi.gov/wanted/topten/fausto-isidro-meza-flores/@@images/image/large
     publisher: Federal Bureau of Investigation
     caption: 'FBI wanted photograph of Fausto Isidro Meza Flores, marked captured. Photo: FBI'
+  - kind: photo
+    url: https://www.nst.com.my/world/world/2026/11/1583017/mexico-captures-fbi-most-wanted-drug-kingpin-11-killed-raid
+    media_url: https://storage.googleapis.com/origin-awsassets.nst.com.my/images/articles/82402E9838BB833D03A090F1E9580608_low.jpg
+    publisher: New Straits Times
+    caption: 'Fausto Isidro Meza, alias Chapo Isidro (centre), and other associates under guard on arrival at a military hangar at Benito Juarez International Airport in Mexico City after the Guasave operation. Photo: AFP'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 655a98a5c557372ad39c4be5473894d1
@@ -104,28 +109,32 @@ sources:
     publisher: Andhra Prabha
     date: 2026-11-21
     language: te
+  - title: Mexico captures FBI most-wanted drug kingpin as 11 killed in raid
+    url: https://www.nst.com.my/world/world/2026/11/1583017/mexico-captures-fbi-most-wanted-drug-kingpin-11-killed-raid
+    publisher: New Straits Times
+    date: 2026-11-22
 open_questions:
     - The Al Jazeera account describes three men arrested in the Guasave raid and gives no death toll, while other sources cited in the report put the total at eight arrested and eleven killed.
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
 Isidro and listed among the FBI's Ten Most Wanted fugitives, in Guasave,
-Sinaloa, on Friday 20 November 2026. [@2,10,11] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11] He led the Beltran Leyva organisation,
-allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10] The operation also
+Sinaloa, on Friday 20 November 2026. [@2,10,11,12] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11] He led the Beltran Leyva organisation,
+allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12] The operation also
 detained his cousin German, alias Serafin, described as the group's
 second-in-command, and his brother-in-law Jose, its financial operator. [@6]
 Army and National Guard special forces carried out the arrest with US
-intelligence support. [@5,9,10]
+intelligence support. [@5,9,10,12]
 
-Eight people were arrested and seven suspected attackers were killed. [@6] Four
+Eight people were arrested and seven suspected attackers were killed. [@6,12] Four
 soldiers travelling to reinforce security in Guasave were also killed, an
-overall toll of eleven deaths. [@2] The troops came under gunfire and explosives
+overall toll of eleven deaths. [@2,12] The defence ministry said it had no reports of civilian casualties. [@12] The troops came under gunfire and explosives
 before entering the house where the arrests were made. [@2,10] Three detainees were
 flown to Mexico City and handed to the federal organised-crime prosecutor's
 office, while five were handed to the federal prosecutor's office in Culiacan.
 [@6] Forces seized a Barrett .50-calibre rifle, ten other firearms, a grenade
 launcher, two hand grenades, ammunition, tactical equipment, drugs and cash.
-[@6]
+[@6,12]
 
 US prosecutors charged Meza Flores with leading a continuing criminal
 enterprise, narcoterrorism, money laundering and firearms offences, and with
@@ -134,13 +143,13 @@ marijuana and fentanyl for importation into the United States. [@3,10] The FBI's
 wanted notice for him charges conspiracy to distribute one thousand kilograms or
 more of marijuana for importation into the United States. [@4] The FBI said his
 organisation moved large quantities of heroin, methamphetamine, cocaine,
-fentanyl and marijuana into the United States. [@1] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
+fentanyl and marijuana into the United States. [@1,12] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
 arrest warrant for organised crime and offences against health. [@5,10] He was also subject to an extradition order to the United States. [@10] The FBI
 added him to its Ten Most Wanted list on 4 February 2025 and the US State
 Department offered a reward of up to five million dollars for information
-leading to his capture. [@7,10]
+leading to his capture. [@7,10,12]
 
 After the arrest, Sinaloa reported gunfire, burning vehicles and road blockades,
-and a Pacific League baseball game in Guasave was suspended. [@6,9,10] Harfuch wrote on X that the detentions were an important step toward restoring peace in Sinaloa. [@10] Security secretary Omar Garcia Harfuch said on Saturday that troops would remain in Sinaloa to protect residents. [@10] Sinaloa's public security agency urged residents to stay indoors, avoid the area and stay off the roads because federal personnel had been attacked in Guasave. [@10] The defence ministry said roadblocks were reported in four areas of Sinaloa after the arrests and security forces were sent to reopen roads. [@10] Meza Flores,
+and a Pacific League baseball game in Guasave was suspended. [@6,9,10,12] An unverified video circulating overnight appeared to show the detained Meza Flores urging his associates to stand down, warning that children, women and innocent people could be put in harm's way. [@12] Harfuch wrote on X that the detentions were an important step toward restoring peace in Sinaloa. [@10] Security secretary Omar Garcia Harfuch said on Saturday that troops would remain in Sinaloa to protect residents. [@10] Sinaloa's public security agency urged residents to stay indoors, avoid the area and stay off the roads because federal personnel had been attacked in Guasave. [@10] The defence ministry said roadblocks were reported in four areas of Sinaloa after the arrests and security forces were sent to reopen roads. [@10] Meza Flores,
 first indicted in the United States in 2012 and sanctioned under the US Kingpin
 Act in 2013, had evaded capture for more than a decade. [@8,10]
