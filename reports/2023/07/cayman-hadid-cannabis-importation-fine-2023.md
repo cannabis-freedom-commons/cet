@@ -138,6 +138,10 @@ sources:
     url: https://www.glamour.com/story/gigi-hadid-was-arrested-for-weed-possession-in-the-cayman-islands
     publisher: Glamour
     date: 2023-07-18
+  - title: The news that Gigi Hadid was arrested for weed in the Cayman Islands should not be newsworthy in 2023
+    url: https://www.laineygossip.com/news-that-gigi-hadid-arrested-for-weed-in-cayman-islands-should-not-be-newsworthy-in-2023/
+    publisher: LaineyGossip
+    date: 2023-07-18
 open_questions:
     - The fine is recorded once at 1,000 Cayman Islands dollars; KTLA reports that each woman was fined 1,000 dollars, which would make 2,000 dollars in total.
     - No weight or amount of the cannabis found in the luggage has been published.
@@ -159,4 +163,4 @@ conviction was recorded. [@1,2,3,4,6,7,8,9,12,15,16,17,18,20]
 
 Hadid's representative said the marijuana was purchased legally in New York
 "with a medical license", and that medical use has also been legal in Grand
-Cayman since 2017. [@1,2,4,5,7,8,9,11,12,13,15,16,17,18,19,21]
+Cayman since 2017. [@1,2,4,5,7,8,9,11,12,13,15,16,17,18,19,21,22]
