@@ -139,25 +139,26 @@ sources:
     publisher: أخبار الغد
     date: 2026-11-22
     language: ar
-open_questions:
-    - The directorate did not say which earlier operations or dates the destroyed hashish and cannabis plant came from.
-    - No figure was published for how many plants the 2.3 tonnes of cannabis plant represents.
-    - No arrests, charges or suspects were reported in connection with the destroyed batches.
+  - title: 'دمشق : إتلاف 400 مليون حبة كبتاغون و12 طناً من الحشيش - أخبار السعودية | صحيفة عكاظ'
+    url: https://www.okaz.com.sa/politics/na/2276784
+    publisher: عكاظ
+    date: 2026-11-22
+    language: ar
 ---
 
 Syria's Anti-Narcotics Directorate announced on Sunday 22 November 2026 that a
 joint committee of the interior, justice and health ministries had destroyed
-large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15,16] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15] The quantities
+large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15,16,17] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15,17] The quantities
 were destroyed in batches under approved legal and environmental procedures.
 [@4,16] The directorate described the destruction as reflecting integrated national
 efforts against drugs. [@2]
 
 The destroyed material included 12.2 tonnes of hashish and 2.3 tonnes of
-cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16] The same batches included
+cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16,17] The same batches included
 400 million Captagon pills, 6 kilograms of heroin and 5.4 million other narcotic
-pills, none of which is counted as cannabis. [@3,5,6,8,9,11,12,13,14,15,16] The directorate also destroyed
+pills, none of which is counted as cannabis. [@3,5,6,8,9,11,12,13,14,15,16,17] The directorate also destroyed
 equipment and chemicals used to smuggle, conceal, transport and manufacture the
-drugs. [@1,6,8,9,11,12,13,14,15,16]
+drugs. [@1,6,8,9,11,12,13,14,15,16,17]
 
 Interior Minister Anas Khattab said the quantities were among the largest
 destroyed since Bashar al-Assad's government fell in December 2024. [@4,7]
