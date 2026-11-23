@@ -71,6 +71,16 @@ sources:
     publisher: Algérie Presse Service
     date: 2026-11-21
     language: zh
+  - title: Incautan una importante cantidad de resina de cannabis procedente de Marruecos y detienen a 17 narcotraficantes | Agencia de Noticias Argelina
+    url: https://www.aps.dz/es/argelia/actualidad-nacional/mwqojc63-incautan-una-importante-cantidad-de-resina-de-cannabis-procedente-de-marruecos-y-detienen-a-17-narcotraficantes
+    publisher: Algérie Presse Service
+    date: 2026-11-21
+    language: es
+  - title: 'Un nouveau coup dur pour les barons de la drogue : 19 quintaux de kif en provenance du Maroc saisis'
+    url: https://www.jeune-independant.net/un-nouveau-coup-dur-pour-les-barons-de-la-drogue-19-quintaux-de-kif-en-provenance-du-maroc-saisis/
+    publisher: Le Jeune Indépendant
+    date: 2026-11-21
+    language: fr
 open_questions:
   - The standfirst of the TSA account puts the seizure at 1.7 tonnes while its headline and the defence ministry statement say 19 quintals (about 1.9 tonnes); the ministry figure is used.
   - The ministry names only the 2nd Military Region and gives no wilaya, town or border crossing for the operation.
@@ -84,14 +94,14 @@ open_questions:
 
 Algeria's defence ministry said army security services in the 2nd Military
 Region dismantled a network of 17 drug traffickers that was trying to bring kif
-traité into the country from Morocco. [@2,4,5] The ministry said the consignment was
+traité into the country from Morocco. [@2,4,5,7] The ministry said the consignment was
 estimated at 19 quintals, about 1.9 tonnes, of kif traité, processed cannabis
-from Morocco. [@1,4,5] The statement was issued on Saturday 21 November 2026 and
-said the network was broken up during the week. [@1]
+from Morocco. [@1,4,5,7] The statement was issued on Saturday 21 November 2026 and
+said the network was broken up during the week. [@1,7]
 
 Seventeen people were arrested and the services seized 50 utility vehicles, five
-motorcycles, a jet-ski and mobile phones. [@1,4,6] Officers also seized about 273
-million centimes, which is 2.73 million dinars. [@1,4,6] Algerian outlets describe
+motorcycles, a jet-ski and mobile phones. [@1,4,6,7,8] Officers also seized about 273
+million centimes, which is 2.73 million dinars. [@1,4,6,7] Algerian outlets describe
 the networks as operating on the country's western borders, the route for
 Moroccan kif. [@3] The ministry described the operation as part of efforts to
 tighten the net around drug traffickers. [@1,4,6]
