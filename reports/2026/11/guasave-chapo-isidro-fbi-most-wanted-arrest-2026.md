@@ -113,6 +113,11 @@ sources:
     url: https://www.nst.com.my/world/world/2026/11/1583017/mexico-captures-fbi-most-wanted-drug-kingpin-11-killed-raid
     publisher: New Straits Times
     date: 2026-11-22
+  - title: '"เม็กซิโก" เปิดปฏิบัติการจับกุม "เอล ชาโป อิซิโดร" เจ้าพ่อค้ายาเสพติดรายใหญ่'
+    url: https://www.thaipbs.or.th/news/content/573108
+    publisher: Thai PBS
+    date: 2026-11-22
+    language: th
 open_questions:
     - The Al Jazeera account describes three men arrested in the Guasave raid and gives no death toll, while other sources cited in the report put the total at eight arrested and eleven killed.
 ---
@@ -124,11 +129,11 @@ allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12] The operation al
 detained his cousin German, alias Serafin, described as the group's
 second-in-command, and his brother-in-law Jose, its financial operator. [@6]
 Army and National Guard special forces carried out the arrest with US
-intelligence support. [@5,9,10,12]
+intelligence support. [@5,9,10,12,13]
 
-Eight people were arrested and seven suspected attackers were killed. [@6,12] Four
+Eight people were arrested and seven suspected attackers were killed. [@6,12,13] Four
 soldiers travelling to reinforce security in Guasave were also killed, an
-overall toll of eleven deaths. [@2,12] The defence ministry said it had no reports of civilian casualties. [@12] The troops came under gunfire and explosives
+overall toll of eleven deaths. [@2,12,13] The defence ministry said it had no reports of civilian casualties. [@12,13] The troops came under gunfire and explosives
 before entering the house where the arrests were made. [@2,10] Three detainees were
 flown to Mexico City and handed to the federal organised-crime prosecutor's
 office, while five were handed to the federal prosecutor's office in Culiacan.
@@ -143,7 +148,7 @@ marijuana and fentanyl for importation into the United States. [@3,10] The FBI's
 wanted notice for him charges conspiracy to distribute one thousand kilograms or
 more of marijuana for importation into the United States. [@4] The FBI said his
 organisation moved large quantities of heroin, methamphetamine, cocaine,
-fentanyl and marijuana into the United States. [@1,12] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
+fentanyl and marijuana into the United States. [@1,12] The US Drug Enforcement Administration called the arrest a major success against one of Mexico's violent criminal networks, which it said had trafficked heroin, methamphetamine, cocaine, fentanyl and large quantities of cannabis into the United States for decades. [@13] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
 arrest warrant for organised crime and offences against health. [@5,10] He was also subject to an extradition order to the United States. [@10] The FBI
 added him to its Ten Most Wanted list on 4 February 2025 and the US State
 Department offered a reward of up to five million dollars for information
@@ -152,4 +157,4 @@ leading to his capture. [@7,10,12]
 After the arrest, Sinaloa reported gunfire, burning vehicles and road blockades,
 and a Pacific League baseball game in Guasave was suspended. [@6,9,10,12] An unverified video circulating overnight appeared to show the detained Meza Flores urging his associates to stand down, warning that children, women and innocent people could be put in harm's way. [@12] Harfuch wrote on X that the detentions were an important step toward restoring peace in Sinaloa. [@10] Security secretary Omar Garcia Harfuch said on Saturday that troops would remain in Sinaloa to protect residents. [@10] Sinaloa's public security agency urged residents to stay indoors, avoid the area and stay off the roads because federal personnel had been attacked in Guasave. [@10] The defence ministry said roadblocks were reported in four areas of Sinaloa after the arrests and security forces were sent to reopen roads. [@10] Meza Flores,
 first indicted in the United States in 2012 and sanctioned under the US Kingpin
-Act in 2013, had evaded capture for more than a decade. [@8,10]
+Act in 2013, had evaded capture for more than a decade. [@8,10] The capture came days after President Claudia Sheinbaum met Donald Trump at an Asian summit, where Trump said the two discussed trade and security and that the United States was working with Mexico against drug cartels. [@13]
