@@ -48,6 +48,11 @@ media:
     media_url: https://jalisco.quadratin.com.mx/www/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-5.20.33-PM-1160x700.jpeg
     publisher: Quadratín Jalisco
     caption: 'Photograph published with the Jalisco state police account of the 400-kilogram marijuana seizure at the Guadalajara courier company. Photo: Policía de Jalisco'
+  - kind: photo
+    url: https://www.informador.mx/jalisco/guadalajara-aseguran-media-tonelada-de-aparente-marihuana-20261120-0152.html
+    media_url: https://www.informador.mx/__export/1795226820515/sites/elinformador/img/2026/11/20/marihuana_1.jpg_278507994.jpg
+    publisher: El Informador
+    caption: 'The 31 boxes of suspected marijuana found at the Guadalajara courier company, in the photograph that carries the caption ''Fueron localizaron 31 cajas con presuntamente marihuana''. Credit: CORTESÍA'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 256a951911465ab7f57ce8bde3d15977
@@ -93,11 +98,24 @@ sources:
     publisher: Notisistema
     date: 2026-11-20
     language: es
+  - title: Aseguran media tonelada de aparente marihuana en Guadalajara
+    url: https://www.informador.mx/jalisco/guadalajara-aseguran-media-tonelada-de-aparente-marihuana-20261120-0152.html
+    publisher: El Informador
+    date: 2026-11-20
+    language: es
+  - title: Aseguran media tonelada de aparente marihuana en una paquetería de Guadalajara
+    url: https://proyectodiez.mx/aseguran-media-tonelada-de-aparente-marihuana-en-una-paqueteria-de-guadalajara/
+    publisher: Proyecto 10
+    date: 2026-11-21
+    language: es
+open_questions:
+    - El Informador and Proyecto 10 place the courier company in colonia San Carlos, while other accounts of the same seizure name colonia Ferrocarril.
+    - El Informador describes an anonymous citizen tip, while the existing account says employees of the courier firm reported the shipment to the 911 line.
 ---
 
 Jalisco state police seized about 400 kilograms of marijuana at a courier
-company in colonia Ferrocarril, Guadalajara. [@1,7,8] The company is at the
-crossroads of avenida Doctor R. Michel and Privada Gabino Barrera. [@2,8]
+company in colonia Ferrocarril, Guadalajara. [@1,7,8,9] Officers found about 558 blocks of suspected marijuana hidden inside the 31 boxes. [@10] The company is at the
+crossroads of avenida Doctor R. Michel and Privada Gabino Barrera. [@2,8,9] A specialised K9 canine unit went to the site to carry out a protocol inspection of the packages. [@9]
 Employees of the courier firm called the 911 emergency line to report the
 packages. [@4,8] Officers of the vehicle recovery and identification squadron
 found 31 cardboard boxes matching the description in the tip. [@2,7] Inside the
