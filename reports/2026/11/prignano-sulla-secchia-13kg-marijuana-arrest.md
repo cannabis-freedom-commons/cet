@@ -90,18 +90,23 @@ sources:
     publisher: Il Sole 24 ORE
     date: 2026-11-22
     language: it
+  - title: 'Modena, scoperta una serra di marijuana: sequestrati 13 chili'
+    url: https://www.ilmattino.it/video/primopiano/modena_scoperta_una_serra_di_marijuana_sequestrati_13_chili-9906279.html
+    publisher: Il Mattino
+    date: 2026-11-22
+    language: it
 ---
 
 Italian financial police arrested a man in Prignano sulla Secchia, near Modena,
 on suspicion of cultivating, producing and possessing drugs for sale, and
-reported him for unlawful possession of ammunition. [@1,5,6] Officers from the
+reported him for unlawful possession of ammunition. [@1,5,6,7] Officers from the
 Modena group of the Guardia di Finanza stopped the man's car in Prignano sulla
 Secchia and found two 30-06 calibre bullets, which he possessed without a gun
-licence. [@1,5] The Guardia di Finanza's drug dog and a canine unit from Sassuolo
-local police took part in the search of the suspect's home. [@2,5]
+licence. [@1,5,7] The Guardia di Finanza's drug dog and a canine unit from Sassuolo
+local police took part in the search of the suspect's home. [@2,5,7]
 
 Police seized about 13 kilograms of marijuana, 22 hunting cartridges, two 30-06
-bullets and 2,380 euros in cash. [@1,5,6] At the home officers found potted plants,
+bullets and 2,380 euros in cash. [@1,5,6,7] At the home officers found potted plants,
 lamps and ventilators used for cultivation, packaging material and sealed bags
 containing the drug, along with undeclared ammunition. [@3,5]
 
