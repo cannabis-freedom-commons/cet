@@ -132,6 +132,11 @@ sources:
     publisher: Maariv Online
     date: 2019-04-18
     language: he
+  - title: Israel Police Cracks Down on Telegram Marijuana Operation
+    url: https://www.israeldefense.co.il/en/node/37808
+    publisher: Israel Defense
+    date: 2019-03-15
+    language: en
 open_questions:
   - >-
     Channel 13 listed Amos Silver among the 27 defendants, while Ynet said he was not included and CTech
@@ -154,9 +159,9 @@ open_questions:
     accounts.
 ---
 
-On 18 April 2019 the State Attorney’s Office filed indictments against 27 defendants at the Central District Court in Lod over Telegrass, a Telegram network police said mainly sold cannabis. [@1,5,6,7] The charges varied by defendant and included drug sales, brokering sales, inducing minors to use drugs, possession for non-personal use, obstruction of justice, money laundering, tax evasion and criminal organisation offences. [@5,7] Prosecutors asked the court to keep 22 defendants in custody through the proceedings. [@5,6]
+On 18 April 2019 the State Attorney’s Office filed indictments against 27 defendants at the Central District Court in Lod over Telegrass, a Telegram network police said mainly sold cannabis. [@1,5,6,7] The charges varied by defendant and included drug sales, brokering sales, inducing minors to use drugs, possession for non-personal use, obstruction of justice, money laundering, tax evasion and criminal organisation offences. [@5,7,8] Prosecutors asked the court to keep 22 defendants in custody through the proceedings. [@5,6]
 
-On 12 March, Israel Police said officers had arrested 42 people in Israel, the United States, Ukraine and Germany after an undercover investigation. [@1,2,3,4] Investigators from the Lahav 433 unit worked with police and prosecutors in Israel and with foreign enforcement agencies. [@2] Police said raids on dozens of homes and offices turned up drugs, cash and equipment. [@1,2,3] The police sought extensions of detention at magistrates’ courts in Nazareth and Rishon Lezion, and lawyers said their clients denied involvement. [@2] CTech reported that senior members Ran Buganim and Ofer Rehima began cooperating with investigators a week after the arrests. [@4]
+On 12 March, Israel Police said officers had arrested 42 people in Israel, the United States, Ukraine and Germany after an undercover investigation. [@1,2,3,4,8] Investigators from the Lahav 433 unit worked with police and prosecutors in Israel and with foreign enforcement agencies. [@2] Police said raids on dozens of homes and offices turned up drugs, cash and equipment. [@1,2,3,8] The police sought extensions of detention at magistrates’ courts in Nazareth and Rishon Lezion, and lawyers said their clients denied involvement. [@2] Police said through a Ynet News follow-up that they had no intention of pursuing Telegrass users, only the network's management. [@8] CTech reported that senior members Ran Buganim and Ofer Rehima began cooperating with investigators a week after the arrests. [@4]
 
 Police said founder Amos Dov Silver was arrested in Ukraine. [@2,3,4] Channel 13 listed him among the April defendants, while Ynet reported that he was excluded from those indictments and CTech reported in July that he would be charged after extradition. [@4,5,6] CTech named Bar-El Levi as defendant number one and head of Israeli operations and identified Yossi “Gal” Meshi as the finance chief. [@4]
 
