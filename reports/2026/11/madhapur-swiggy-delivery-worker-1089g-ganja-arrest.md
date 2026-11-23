@@ -64,6 +64,11 @@ sources:
     url: https://pjnewslive.com/en/swiggy-delivery-worker-arrested-in-madhapur-ganja-case
     publisher: PJ News
     date: 2026-11-20
+  - title: మాదాపూర్‌లో గంజాయి కలకలం... స్విగ్గీ డెలివరీబాయ్ అరెస్ట్
+    url: https://www.suryaa.com/telugu-news/telangana/maadaapoorlo-gmjaayi-kalakalm-sviggee-delivareebaay-arest
+    publisher: Suryaa News
+    date: 2026-11-20
+    language: te
 open_questions:
   - The two accounts spell the suspect's surname differently, Balaram Mohanta and Balaram Mehanta, and no police statement giving his name was published.
   - No laboratory confirmation that the 1,089 grams was cannabis was reported.
@@ -75,15 +80,15 @@ open_questions:
 ---
 
 Madhapur police in Hyderabad arrested Balaram Mohanta, a 28-year-old Swiggy
-delivery worker, on Friday 20 November 2026 on suspicion of selling ganja. [@1,3] The police account was attributed to Inspector Subbarao. [@3]
+delivery worker, on Friday 20 November 2026 on suspicion of selling ganja. [@1,3,5] The police account was attributed to Inspector Subbarao. [@3]
 He is from Odisha and lived in Siddiq Nagar, Madhapur, where he worked as a food
 delivery boy for Swiggy. [@2,3] Officers seized 1,089 grams of ganja and a
-weighing machine from him and his quarters. [@2,3,4] Police registered a case under
-the NDPS Act and began an investigation. [@2,4]
+weighing machine from him and his quarters. [@2,3,4,5] Police registered a case under
+the NDPS Act and began an investigation. [@2,4,5]
 
 Police said Mohanta told them he had bought a kilogram of ganja for Rs 15,000
 from a man named Babu in Odisha and brought it to Hyderabad to earn extra
-income. [@1,3,4] He packed it into small packets and sold each for Rs 400 to Rs 500,
+income. [@1,3,4,5] He packed it into small packets and sold each for Rs 400 to Rs 500,
 the police said. [@1,3]
 
 Madhapur police and the division's Close Team checked Road No. 4 in Siddiq Nagar
