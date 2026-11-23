@@ -1280,6 +1280,10 @@ sources:
     url: https://wchstv.com/news/nation-world/nigeria-ndlea-arrests-american-pro-basketball-player-greene-damonte-khiree-in-lagos-cannabis-the-national-drug-law-enforcement-agency-savannah-georgia-market-networking
     publisher: WCHS
     date: 2026-11-16
+  - title: US basketball player arrested after cannabis seizure at Nigeria airport
+    url: https://www.modernghana.com/news/1545183/us-basketball-player-arrested-after-cannabis-seizu.html
+    publisher: Modern Ghana
+    date: 2026-11-17
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cj93rggenq4xo
@@ -1451,3 +1455,5 @@ build networks for his basketball career. [@1,4,6,7,11,12,13,17,18,19,20,22,23,2
 mobile phone revealed information pointing to his knowledge of and involvement
 in the drug trafficking activity. [@1,3,4,5,7,8,11,12,13,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,33,36,37,38,39,40,41,43,44,45,46,47,49,50,51,52,53,54,55,56,57,58,61,62,64,65,66,69,70,73,74,75,76,77,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,106,107,108,110,111,112,113,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,138,139,141,142,145,146,147,148,149,150,151,153,154,155,156,157,159,160,161,164,174,177,182,204,205,206,207,208,209,210,211,214,215,216,217,219,222,223,224,225,226,227,229,230,231,232,235,236,237,238,239,240,241,243,244,245,246,247,248,249,250,251,252,254,257,259,260,261,262,263,264,265,266,267,268,269,270,271,272,274,275,276,277,278,280,281] The NDLEA announced the arrest on November 15 and said the investigation was ongoing. [@174,218,228,238,278] If convicted, the Savannah, Georgia, native could face life in prison. [@139,205,217,225,239,242,243,248,260,265,267,268,271,272,274,280,281] The account was disclosed in a Sunday
 statement by NDLEA Director of Media and Advocacy Femi Babafemi. [@1,3,7,12,22,50,275] Importing marijuana into Nigeria is punishable by a prison term of no less than 21 years. [@143]
+
+Greene Da’monte Khiree, 28, of Savannah, Georgia, arrived at Murtala Muhammed International Airport on 11 November 2026 on an Emirates flight from Thailand via Dubai. [@283] The bags he left behind held a tracking device as well as the 32 parcels of cannabis. [@283] He told officers he had lived and played professional basketball in Thailand since October 2025 and had come to Nigeria on holiday. [@283]
