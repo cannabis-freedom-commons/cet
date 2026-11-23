@@ -113,10 +113,17 @@ sources:
     publisher: REDTNJalisco
     date: 2026-11-21
     language: es
+  - title: Aseguran cerca de media tonelada marihuana en paquetería de Guadalajara
+    url: https://tabasco.quadratin.com.mx/nacionales/aseguran-cerca-de-media-tonelada-marihuana-en-paqueteria-de-guadalajara/
+    publisher: Quadratín Tabasco
+    date: 2026-11-20
+    language: es
+open_questions:
+  - The new accounts place the courier company in colonia San Carlos, while the report's sources place it in colonia Ferrocarril, Guadalajara.
 ---
 
 Jalisco state police seized about 400 kilograms of marijuana at a courier
-company in colonia Ferrocarril, Guadalajara. [@1,7,8,9] Officers found about 558 blocks of suspected marijuana hidden inside the 31 boxes. [@10] The company is at the
+company in colonia Ferrocarril, Guadalajara. [@1,7,8,9,12] The state police's Vehicle Recovery and Identification Squadron found the 31 boxes at the crossing of avenida Dr. R. Michel and privada Gabino Barrera after an anonymous citizen report, and a canine unit inspected them. [@11] About 558 blocks of green plant material with the characteristics of marijuana were hidden inside the 31 cardboard boxes, weighing close to half a tonne. [@10] Officers found about 558 blocks of suspected marijuana hidden inside the 31 boxes. [@10] The company is at the
 crossroads of avenida Doctor R. Michel and Privada Gabino Barrera. [@2,8,9,11] A specialised K9 canine unit went to the site to carry out a protocol inspection of the packages. [@9,11]
 Employees of the courier firm called the 911 emergency line to report the
 packages. [@4,8] Officers of the vehicle recovery and identification squadron
