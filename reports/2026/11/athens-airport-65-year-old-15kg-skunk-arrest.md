@@ -65,26 +65,32 @@ sources:
     publisher: Enikos.gr
     date: 2026-11-21
     language: el
+  - title: Man arrested at Athens airport with over 15 kg of cannabis
+    url: https://www.ekathimerini.com/news/1322123/man-arrested-at-athens-airport-with-15-2-kg-of-cannabis/
+    publisher: eKathimerini.com
+    date: 2026-11-21
+    language: en
 open_questions:
   - No charge, court appearance or detention decision was reported; the case was at the investigation stage.
   - No estimated value was published for the cannabis.
   - The 15.2 kilograms is the total gross weight of the two packages, not a stated net weight of cannabis.
   - The accounts reproduce the same Hellenic Police statement and are not independent reporting.
+  - The English account attributes the inspection and seizure to customs officials, while the Greek police accounts already used by the report describe narcotics officers finding the packages in the man's luggage; both trace to the same Hellenic Police statement.
+  - Neither account explains why the man was carrying 4,200 Albanian lek.
 ---
 
 A 65-year-old Greek man was arrested in the early hours of Saturday 21 November
-2026 at Athens International Airport 'Eleftherios Venizelos'. [@1] He had
-travelled from Barcelona. [@2] Police described him as a member of an
-international criminal group that imported cannabis into Greece by air. [@1] The
+2026 at Athens International Airport 'Eleftherios Venizelos'. [@1,4] He had
+travelled from Barcelona. [@2,4] Police described him as a member of an
+international criminal group that imported cannabis into Greece by air. [@1,4] The
 arrest was made by officers of the Narcotics Subdirectorate of the Directorate
 for Organized Crime. [@1] The man was identified during targeted checks and
 profiling at the airport's narcotics department. [@1]
 
 In his luggage officers found two packages of raw hydroponic cannabis, known in
-Greece as skunk, with a total gross weight of 15 kilograms and 200 grams. [@1]
+Greece as skunk, with a total gross weight of 15 kilograms and 200 grams. [@1,4] Customs officials carried out the inspection that found the two packages, police said. [@4]
 Police said he intended to distribute the drug further. [@1] Officers also
-seized 100 euros, 4,200 Albanian lek and a mobile phone. [@1]
+seized 100 euros, 4,200 Albanian lek and a mobile phone. [@1,4] The 4,200 Albanian lek seized was worth about 47 euros. [@4]
 
 The man had previously been in trouble with police over violations of
-foreigners' legislation. [@1] He was taken to the competent prosecutor. [@3]
-
+foreigners' legislation. [@1,4] He was taken to the competent prosecutor. [@3,4]
