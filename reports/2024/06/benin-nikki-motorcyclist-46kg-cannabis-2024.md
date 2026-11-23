@@ -57,28 +57,28 @@ sources:
     publisher: Xinhua
     date: 2024-06-19
     language: fr
+  - title: 'Bénin : impressionnante saisie de cannabis dans le septentrion'
+    url: https://beninwebtv.com/benin-impressionnante-saisie-de-cannabis-dans-le-septentrion/
+    publisher: Bénin Web TV
+    date: 2024-06-18
+    language: fr
 open_questions:
-  - No charge, hearing or court outcome was reported after the suspect was handed to OCERTID.
-  - No weight more precise than about 46 kilograms was published, and the accounts do not say whether the 55 plaquettes are resin or compressed plant material.
-  - The accounts do not identify the driver who is said to have given the motorcyclist the parcel, and no other arrest was reported.
-  - The outlets, including Xinhua's French service, reproduce the same police communiqué and are not independent reporting.
-  - 'Left out, as its quotation was not found in Africaho: Opening the parcel revealed 55 slabs, or plaquettes, of cannabis weighing about 46 kilograms.'
-  - Left out activity, as its quotation was not found in Africaho.
-  - Left out products, as its quotation was not found in Africaho.
-  - Left out kg seized, as its quotation was not found in Africaho.
+    - No charge, hearing or court outcome was reported after the suspect was handed to OCERTID.
+    - No weight more precise than about 46 kilograms was published, and the accounts do not say whether the 55 plaquettes are resin or compressed plant material.
+    - The accounts do not identify the driver who is said to have given the motorcyclist the parcel, and no other arrest was reported.
+    - The outlets, including Xinhua's French service, reproduce the same police communiqué and are not independent reporting.
 ---
 
 Police in Nikki, in Benin's Borgou department, arrested a motorcyclist carrying
-cannabis on Sunday 9 June 2024. [@3] Officers located and stopped him in the
+cannabis on Sunday 9 June 2024. [@3,5] Officers located and stopped him in the
 town centre on precise intelligence and with the help of customs officials
-posted at Nikki. [@1]
+posted at Nikki. [@1,5] Opening the parcel revealed 55 slabs of cannabis weighing about 46 kilograms. [@5]
 
 Questioned, the man said a driver had entrusted him with the parcel for Kalalé
-and that he did not know what it contained. [@1] He was handed to the Central
+and that he did not know what it contained. [@1,5] He was handed to the Central
 Office for the Repression of Illicit Drug Trafficking and Precursors (OCERTID)
-for the investigation to continue. [@2]
+for the investigation to continue. [@2,5]
 
 The police directorate announced the seizure in a statement published on 18 June
-2024. [@4] Police said the operation formed part of their fight against the
-proliferation of ghettos, the term used in Benin for drug-use spots. [@1]
-
+2024. [@4,5] Police said the operation formed part of their fight against the
+proliferation of ghettos, the term used in Benin for drug-use spots. [@1,5]
