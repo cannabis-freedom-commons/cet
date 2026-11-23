@@ -81,6 +81,11 @@ sources:
     publisher: Tuổi Trẻ Online
     date: 2026-11-21
     language: vi
+  - title: Ninh Bình triệt phá đường dây ma túy xuyên quốc gia, thu giữ 20 kg cần sa
+    url: https://thuonghieucongluan.com.vn/ninh-binh-triet-pha-duong-day-ma-tuy-xuyen-quoc-gia-thu-giu-20-kg-can-sa-a342909.html
+    publisher: Tạp chí điện tử Thương hiệu và Công luận
+    date: 2026-11-23
+    language: vi
 open_questions:
   - The accounts do not say where in Ninh Bình province the cannabis was found or where Hưng was arrested; they state only that he was renting accommodation in Ý Yên commune.
   - No street value or price was published for the 20 kg of cannabis.
@@ -91,18 +96,18 @@ open_questions:
 
 Police in Ninh Bình province arrested Lê Xuân Hưng, born in 1999, who comes from
 Tân Phú commune in Nghệ An province and was renting accommodation in Ý Yên
-commune, Ninh Bình province. [@1,3] Hưng had one previous conviction for illegally
+commune, Ninh Bình province. [@1,3,4] Hưng had one previous conviction for illegally
 trading narcotic substances and had completed that prison sentence on 29 April
-2024. [@1,3] At about 02:00 on 21 November 2026 the provincial drug crime
+2024. [@1,3,4] At about 02:00 on 21 November 2026 the provincial drug crime
 investigation office, with the Ministry of Public Security's drug crime
 department, customs officers and provincial forensic officers, broke up a ring
-that took cannabis from Thailand to Ninh Bình for sale. [@1,3] Officers seized 20
+that took cannabis from Thailand to Ninh Bình for sale. [@1,3] The operation on 21 November 2026 was carried out with Nam Định Customs and the customs control team of the regional customs branch IV, alongside the Ministry of Public Security's drug crime department and provincial forensic officers. [@4] Officers seized 20
 kg of cannabis that had been hidden inside buckets of imported Thai laundry
-detergent. [@1,3]
+detergent. [@1,3,4]
 
 Investigators said the cannabis was supplied by a person living in Thailand, and
 that Hưng received shipments from Thailand, stored them, divided them up and
-delivered them to buyers on that person's instructions. [@1,3] The cannabis was
+delivered them to buyers on that person's instructions. [@1,3,4] The cannabis was
 disguised inside imported laundry detergent buckets so that checks by the
 authorities would not find it. [@1,3]
 
