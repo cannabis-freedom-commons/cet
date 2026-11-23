@@ -65,6 +65,11 @@ sources:
     publisher: Waterkant
     date: 2026-11-20
     language: nl
+  - title: Twee verdachten aangehouden bij drugsinvallen op adressen in Sophia’s Lust
+    url: https://www.culturu.com/nieuws/suriname/twee-verdachten-aangehouden-bij-drugsinvallen-op-adressen-in-sophias-lust/
+    publisher: Culturu.com
+    date: 2026-11-20
+    language: nl
 open_questions:
     - All cannabis weights were reported as gross weights of material described as suspected hashish and suspected marijuana, with no laboratory confirmation reported.
     - The illegal cigarettes found with both suspects are not cannabis and are excluded from the cannabis figures.
@@ -73,20 +78,20 @@ open_questions:
 
 The Narcotica Brigade, supported by the Narcotic Intelligence Unit and
 intervention units, raided two separate addresses in Sophia's Lust on 18
-November 2026. [@1,3] Officers arrested suspects J.R. and J.A. with narcotics
-during the raids. [@2,3,4] Both suspects were taken to the police station for
+November 2026. [@1,3,5] Officers arrested suspects J.R. and J.A. with narcotics
+during the raids. [@2,3,4,5] Both suspects were taken to the police station for
 arraignment and, after consultation with the Public Prosecution Service, were
-held in custody pending the investigation. [@1,3,4]
+held in custody pending the investigation. [@1,3,4,5]
 
 In J.R.'s home, officers found on the living-room table a bag holding five small
 bags of wrappers with suspected hashish with a total gross weight of 38 grams.
-[@1,3] On the sofa where J.R. sat officers found a precision scale, and on him a
-green Redmi phone, an amount in SRD and a VCB bank card. [@1,3] In a grey cool bag
+[@1,3,5] On the sofa where J.R. sat officers found a precision scale, and on him a
+green Redmi phone, an amount in SRD and a VCB bank card. [@1,3,5] In a grey cool bag
 under a table officers found various packages and bags holding wrappers and bags
 with suspected marijuana with a total gross weight of 225 grams, plus eight
-packs of illegal Tradition cigarettes and an amount in SRD. [@1,3]
+packs of illegal Tradition cigarettes and an amount in SRD. [@1,3,5]
 
 In J.A.'s bedroom officers found a ziplock bag with suspected hashish with a
 gross weight of 5.77 grams, and in a hallway fourteen cartons of illegal
-cigarettes, plus a light-brown Samsung phone on him. [@1,3] Police seized all the
-goods and cash found on both suspects in the interest of the investigation. [@1,3] In the home on the Ulrich Perotiestraat officers found SRD 4,000 in cash. [@4]
+cigarettes, plus a light-brown Samsung phone on him. [@1,3,5] Police seized all the
+goods and cash found on both suspects in the interest of the investigation. [@1,3,5] In the home on the Ulrich Perotiestraat officers found SRD 4,000 in cash. [@4]
