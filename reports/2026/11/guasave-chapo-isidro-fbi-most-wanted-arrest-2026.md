@@ -95,21 +95,27 @@ sources:
     publisher: Mosaique FM
     date: 2026-11-21
     language: ar
+  - title: Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?
+    url: https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico
+    publisher: Al Jazeera
+    date: 2026-11-21
+open_questions:
+    - The Al Jazeera account describes three men arrested in the Guasave raid and gives no death toll, while other sources cited in the report put the total at eight arrested and eleven killed.
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
 Isidro and listed among the FBI's Ten Most Wanted fugitives, in Guasave,
-Sinaloa, on Friday 20 November 2026. [@2] He led the Beltran Leyva organisation,
-allied to the Mayos faction of the Sinaloa Cartel. [@5,9] The operation also
+Sinaloa, on Friday 20 November 2026. [@2,10] He led the Beltran Leyva organisation,
+allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10] The operation also
 detained his cousin German, alias Serafin, described as the group's
 second-in-command, and his brother-in-law Jose, its financial operator. [@6]
 Army and National Guard special forces carried out the arrest with US
-intelligence support. [@5,9]
+intelligence support. [@5,9,10]
 
 Eight people were arrested and seven suspected attackers were killed. [@6] Four
 soldiers travelling to reinforce security in Guasave were also killed, an
 overall toll of eleven deaths. [@2] The troops came under gunfire and explosives
-before entering the house where the arrests were made. [@2] Three detainees were
+before entering the house where the arrests were made. [@2,10] Three detainees were
 flown to Mexico City and handed to the federal organised-crime prosecutor's
 office, while five were handed to the federal prosecutor's office in Culiacan.
 [@6] Forces seized a Barrett .50-calibre rifle, ten other firearms, a grenade
@@ -119,17 +125,17 @@ launcher, two hand grenades, ammunition, tactical equipment, drugs and cash.
 US prosecutors charged Meza Flores with leading a continuing criminal
 enterprise, narcoterrorism, money laundering and firearms offences, and with
 conspiracy to manufacture and distribute cocaine, methamphetamine, heroin,
-marijuana and fentanyl for importation into the United States. [@3] The FBI's
+marijuana and fentanyl for importation into the United States. [@3,10] The FBI's
 wanted notice for him charges conspiracy to distribute one thousand kilograms or
 more of marijuana for importation into the United States. [@4] The FBI said his
 organisation moved large quantities of heroin, methamphetamine, cocaine,
-fentanyl and marijuana into the United States. [@1] He also faced a Mexican
-arrest warrant for organised crime and offences against health. [@5] The FBI
+fentanyl and marijuana into the United States. [@1] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
+arrest warrant for organised crime and offences against health. [@5,10] He was also subject to an extradition order to the United States. [@10] The FBI
 added him to its Ten Most Wanted list on 4 February 2025 and the US State
 Department offered a reward of up to five million dollars for information
-leading to his capture. [@7]
+leading to his capture. [@7,10]
 
 After the arrest, Sinaloa reported gunfire, burning vehicles and road blockades,
-and a Pacific League baseball game in Guasave was suspended. [@6,9] Meza Flores,
+and a Pacific League baseball game in Guasave was suspended. [@6,9,10] Harfuch wrote on X that the detentions were an important step toward restoring peace in Sinaloa. [@10] Security secretary Omar Garcia Harfuch said on Saturday that troops would remain in Sinaloa to protect residents. [@10] Sinaloa's public security agency urged residents to stay indoors, avoid the area and stay off the roads because federal personnel had been attacked in Guasave. [@10] The defence ministry said roadblocks were reported in four areas of Sinaloa after the arrests and security forces were sent to reopen roads. [@10] Meza Flores,
 first indicted in the United States in 2012 and sanctioned under the US Kingpin
-Act in 2013, had evaded capture for more than a decade. [@8]
+Act in 2013, had evaded capture for more than a decade. [@8,10]
