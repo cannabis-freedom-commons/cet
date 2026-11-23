@@ -81,6 +81,14 @@ sources:
     publisher: Le Jeune Indépendant
     date: 2026-11-21
     language: fr
+  - title: Cannabis resin from Morocco seized, 17 drug traffickers arrested
+    url: https://www.aps.dz/en/algeria/national-news/mwqh6ymc-cannabis-resin-from-morocco-seized-17-drug-traffickers-arrested
+    publisher: Algérie Presse Service
+    date: 2026-11-21
+  - title: Algeria Seizes 1.9 Tonnes of Cannabis Resin
+    url: https://www.riotimesonline.com/algeria-army-seizes-1-9-tonnes-cannabis-17-arrested/
+    publisher: The Rio Times
+    date: 2026-11-21
 open_questions:
   - The standfirst of the TSA account puts the seizure at 1.7 tonnes while its headline and the defence ministry statement say 19 quintals (about 1.9 tonnes); the ministry figure is used.
   - The ministry names only the 2nd Military Region and gives no wilaya, town or border crossing for the operation.
@@ -94,10 +102,10 @@ open_questions:
 
 Algeria's defence ministry said army security services in the 2nd Military
 Region dismantled a network of 17 drug traffickers that was trying to bring kif
-traité into the country from Morocco. [@2,4,5,7] The ministry said the consignment was
+traité into the country from Morocco. [@2,4,5,7,9] The ministry said the consignment was
 estimated at 19 quintals, about 1.9 tonnes, of kif traité, processed cannabis
-from Morocco. [@1,4,5,7] The statement was issued on Saturday 21 November 2026 and
-said the network was broken up during the week. [@1,7]
+from Morocco. [@1,4,5,7,10] The statement was issued on Saturday 21 November 2026 and
+said the network was broken up during the week. [@1,7,10]
 
 Seventeen people were arrested and the services seized 50 utility vehicles, five
 motorcycles, a jet-ski and mobile phones. [@1,4,6,7,8] Officers also seized about 273
