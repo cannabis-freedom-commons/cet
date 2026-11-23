@@ -43,6 +43,11 @@ media:
     media_url: https://kmph.com/resources/media/4d2ca456-6b0a-4668-b497-558c3df221f0-797178615_1621201309664276_7366602339413382832_n.jfif
     publisher: KMPH
     caption: 'Kern County Sheriff''s Office photo from the Maricopa and Taft marijuana raids, first of nine in KMPH''s gallery on the case. Photo: KCSO'
+  - kind: photo
+    url: https://www.bakersfield.com/news/3-men-arrested-after-kcso-seizes-marijuana-firearms/article_ea944233-b550-4500-8caf-1b14cc7ae69e.html
+    media_url: https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/4/93/4939d0fe-6017-4042-b1df-d90df80dcd6a/6aa0580e0eb55.image.png
+    publisher: The Bakersfield Californian
+    caption: 'A marijuana grow found while deputies served search warrants in Maricopa and Taft. Photo: Courtesy KCSO'
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: e7d8b03cf970161155815acd2b25f504
@@ -65,17 +70,15 @@ sources:
     url: https://kmph.com/news/local/three-arrested-after-kern-county-raids-uncover-marijuana-grow-operations-and-loaded-guns
     publisher: KMPH
     date: 2026-09-06
-open_questions:
-    - The Taft plant and processed-marijuana figures are cumulative results of a longer investigation, not quantities attributed only to the 4 September search at the E Street address.
-    - No plant count or cannabis weight is reported specifically for the 4 September Taft search.
-    - No charging decision or court outcome for the three men was reported.
-    - No cultivation area or cannabis valuation was published; the accounts relay the sheriff’s information rather than a separately opened agency statement or court record.
-    - The specific charges against Jose Hernandez Ramirez and Victor de la Cruz Garcia were not published; the accounts describe only drug and gun allegations.
-    - One account datelines the raids to Kings County although both addresses are in Kern County.
+  - title: 3 men arrested after KCSO seizes marijuana, firearms
+    url: https://www.bakersfield.com/news/3-men-arrested-after-kcso-seizes-marijuana-firearms/article_ea944233-b550-4500-8caf-1b14cc7ae69e.html
+    publisher: The Bakersfield Californian
+    date: 2026-09-08
+    archived: https://web.archive.org/web/20260909073515id_/https://www.bakersfield.com/news/3-men-arrested-after-kcso-seizes-marijuana-firearms/article_ea944233-b550-4500-8caf-1b14cc7ae69e.html
 ---
 
 Three men were arrested after deputies served two search warrants in Maricopa
-and Taft. [@2] On 4 September 2026, deputies from the Taft Substation, the Kern
+and Taft. [@2,5] On 4 September 2026, deputies from the Taft Substation, the Kern
 County Sheriff’s Office High Intensity Drug Trafficking Area Task Force and
 California Department of Fish and Wildlife wardens executed warrants at the 500
 block of Klipstein Street in Maricopa and the 400 block of E Street in Taft.
@@ -85,7 +88,7 @@ residence for sales. [@2] Ramirez, Garcia and Guitron were booked into the Kern
 County Sheriff’s Office Lerdo Justice Facility. [@2]
 
 At the Maricopa address, deputies found 959 marijuana plants, 52 pounds of
-processed marijuana and a loaded 9mm semi-automatic handgun. [@1,4] Jose Hernandez Ramirez and Victor de la Cruz Garcia, both 27, were arrested on suspicion of drug and gun charges. [@4] The Taft
+processed marijuana and a loaded 9mm semi-automatic handgun. [@1,4,5] Jose Hernandez Ramirez and Victor de la Cruz Garcia, both 27, were arrested on suspicion of drug and gun charges. [@4] The Taft
 address was part of a lengthy marijuana cultivation investigation involving
 several search warrants. [@2] For that Taft investigation, the sheriff’s office
 reported 2,112 indoor plants, 873 outdoor plants, 641.5 pounds of processed
