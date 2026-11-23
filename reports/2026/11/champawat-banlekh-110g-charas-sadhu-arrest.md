@@ -63,25 +63,29 @@ sources:
     publisher: Champawat Khabar
     date: 2026-11-21
     language: hi
+  - title: चंपावत:110 ग्राम चरस के साथ बाबा गिरफ्तार, जेल भेजा - Baba Arrested With Hashish In Champawat - Amar Ujala Hindi News Live
+    url: https://www.amarujala.com/uttarakhand/champawat/baba-arrested-with-hashish-in-champawat-2026-11-21
+    publisher: Amar Ujala
+    date: 2026-11-21
+    language: hi
 open_questions:
-  - No court outcome, plea or detention decision was reported beyond the registration of the case and the statement that legal proceedings continued.
-  - No value was given for the 110 grams of charas or for the seized motorcycle.
-  - All three accounts rest on the same police description of the operation; no independent account, police release or court record of this arrest was published.
+    - No plea, trial date or final court outcome was reported after the accused was sent to judicial custody in jail.
+    - No value was given for the 110 grams of charas or for the seized motorcycle.
+    - All four accounts rest on the same police description of the operation; no independent account, police release or court record of this arrest was published.
 ---
 
 Champawat police arrested Sagar Giri alias Prince Dashrath, a sadhu from the
-Lohaghat area of Champawat district. [@1] The arrest was made at the Banlekh
+Lohaghat area of Champawat district. [@1,4] The arrest was made at the Banlekh
 barrier on 20 November 2026. [@3] A joint team of Kotwali Champawat police and
 the Special Operations Group, or SOG, was checking vehicles at the barrier. [@1]
 The team stopped a Yamaha motorcycle with registration number UK06-8392 and
 searched it. [@1] Officers found 110 grams of charas, a cannabis resin, in the
-motorcycle's storage compartment, known locally as a diggi. [@1] Police seized
+motorcycle's storage compartment, known locally as a diggi. [@1,4] Police seized
 the bike, which they said had been used in trafficking. [@1]
 
 Police registered a case against the accused at Kotwali Champawat under sections
-8, 20 and 60 of the NDPS Act. [@2] Police said further legal proceedings were
-under way. [@2] The operation was ordered by Champawat Superintendent of Police
+8, 20 and 60 of the NDPS Act. [@2,4] Police said further legal proceedings were
+under way. [@2] He was presented in court and, on the court's order, sent to judicial custody in jail. [@4] The operation was ordered by Champawat Superintendent of Police
 Rekha Yadav as part of a continuing campaign to curb drug trafficking and
 illegal trade across the district. [@1] The campaign was supervised by the
 Champawat area officer, Devendra Singh Kapravan. [@3]
-
