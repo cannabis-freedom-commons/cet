@@ -45,6 +45,11 @@ media:
     media_url: https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5361078A-s-o.webp
     publisher: Pulzo
     caption: 'Motorcycle accessories and 32 kilograms of marijuana seized in La Favorita, Bogotá. Photo: Policía Metropolitana de Bogotá'
+  - kind: photo
+    url: https://www.noticiasrcn.com/colombia/operativo-en-la-favorita-dejo-32-kilos-de-marihuana-incautados-y-accesorios-para-motos-decomisados-1084059
+    media_url: https://imagenes.noticiasrcn.com/cms/2026/11/21104751/elementos-incautados-la-favorita.webp?w=960
+    publisher: Noticias RCN
+    caption: Motorcycle accessories and marijuana seized in the La Favorita operation in Bogotá laid out for display.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 4ba0f82f78111d14480b33ceafd2c908
@@ -75,6 +80,11 @@ sources:
     publisher: Agencia Periodismo Investigativo
     date: 2026-11-21
     language: es
+  - title: Más de 30 kilos de marihuana incautados durante operativo en La Favorita, Bogotá
+    url: https://www.noticiasrcn.com/colombia/operativo-en-la-favorita-dejo-32-kilos-de-marihuana-incautados-y-accesorios-para-motos-decomisados-1084059
+    publisher: Noticias RCN
+    date: 2026-11-21
+    language: es
 open_questions:
   - No separate date is given for the operation; 21 November 2026 is the publication date of the sources and is used as the incident date.
   - The marijuana weight is reported only as 'more than 32 kilograms'; no exact figure was published.
@@ -85,7 +95,7 @@ open_questions:
 ---
 
 One person was arrested for receptación, handling goods from unlawful
-activities, during a Bogotá metropolitan police operation in La Favorita. [@1,5]
+activities, during a Bogotá metropolitan police operation in La Favorita. [@1,5,6]
 The police did not present that person as responsible for the marijuana found in
 the building. [@4] More than 500 officers of the Metropolitan Police of Bogotá
 took part in the intervention, carried out under an acción popular, a
@@ -95,17 +105,17 @@ Bogotá. [@3]
 
 During a check of a property used as a pagadiario, a lodging house rented by the
 day, officers found more than 32 kilograms of marijuana together with equipment
-for its production and distribution. [@1,5] The property was a pagadiario where
+for its production and distribution. [@1,5,6] The property was a pagadiario where
 the drug was kept along with materials for its preparation and dosing, the city
 portal reported. [@2] According to the Metropolitan Police of Bogotá, the
 quantity was equivalent to 15,000 doses and had a value close to 25 million
-pesos on the illegal market. [@1,5] Officers also seized 2,500 motorcycle
+pesos on the illegal market. [@1,5,6] Officers also seized 2,500 motorcycle
 accessories valued at more than 400 million pesos, which appeared to lack import
-permits. [@1,5] Five commercial premises had their activity suspended because they
-lacked the documentation required to operate legally. [@1,5]
+permits. [@1,5,6] Five commercial premises had their activity suspended because they
+lacked the documentation required to operate legally. [@1,5,6]
 
 Police reported recovering two vehicles, a chassis and five motorcycles whose
-identification systems had been altered. [@1,5] Colonel Jovanni Cepeda, the
+identification systems had been altered. [@1,5,6] Colonel Jovanni Cepeda, the
 operational commander of the metropolitan police, said the deployment brought
 together officers from different specialities to inspect premises across the
 sector. [@3] The force said on X that the results formed part of a strategic
