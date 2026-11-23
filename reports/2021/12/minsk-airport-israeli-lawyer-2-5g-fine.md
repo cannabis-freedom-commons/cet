@@ -62,33 +62,38 @@ sources:
     url: https://algemeiner.com/2021/12/30/israeli-lawyer-jailed-in-belarus-for-having-medical-marijuana-released-after-diplomatic-effort
     publisher: The Algemeiner
     date: 2021-12-30
+  - title: СМИ опубликовали письмо адвоката из Израиля, которую задержали в Беларуси с медицинским каннабисом
+    url: https://news.zerkalo.io/life/6920.html
+    publisher: Зеркало
+    date: 2021-12-08
+    language: ru
 open_questions:
-  - 'The exact arrest day is uncertain: RFE/RL gives 11 November while later Israeli accounts point to early November, including 4 November.'
-  - The 2.5 grams was described as medical marijuana or prescription cannabis, with no laboratory confirmation reported.
-  - Accounts spell her name Rayten-Stol, Reiten-Stoll, Reiten and Raiten.
-  - The Jerusalem Post headline calls her convicted while its body describes only a fine and release, so the formal conviction record is unclear.
-  - No case number, court document or value estimate for the cannabis was published.
+    - 'The exact arrest day is uncertain: RFE/RL gives 11 November while later Israeli accounts point to early November, including 4 November.'
+    - The 2.5 grams was described as medical marijuana or prescription cannabis, with no laboratory confirmation reported.
+    - Accounts spell her name Rayten-Stol, Reiten-Stoll, Reiten and Raiten.
+    - The Jerusalem Post headline calls her convicted while its body describes only a fine and release, so the formal conviction record is unclear.
+    - No case number, court document or value estimate for the cannabis was published.
+    - The Israeli ambassador who visited her in detention is named Alex Goldman-Sheinman in the Belarusian account and Alon Shoham in an Israeli account.
 ---
 
-Israeli lawyer Maya Rayten-Stol was detained at Minsk airport. [@1] She had come
-to Minsk to provide legal assistance to an Israeli businessman. [@4] Airport
-officials found two-and-a-half grams of cannabis in her bag. [@3] She holds an
+Israeli lawyer Maya Rayten-Stol was detained at Minsk airport. [@1,6] She had come
+to Minsk to provide legal assistance to an Israeli businessman. [@4,6] Airport
+officials found two-and-a-half grams of cannabis in her bag. [@3,6] She holds an
 Israeli Health Ministry medical marijuana license. [@1] She stressed to
 Belarusian authorities that the cannabis was licensed and tried to show
 documents, but was ignored. [@1] Belarusian authorities said her medical note
 had no legal standing in the country and that possessing marijuana is a serious
-crime. [@4]
+crime. [@4,6]
 
 She was held in Pishchalauski Castle prison and was granted only one phone call
-in three weeks. [@1] Under Belarusian law, she could face up to five years in
+in three weeks. [@1] She asked Israeli officials to act "with all their energy to put an end to this hell". [@6] She said she received a daily injection, but that Belarusian medicines did not help her chronic conditions and Israeli ones were unavailable. [@6] In the letter she wrote that she was cut off from any contact with the outside world. [@6] She shared a cell with three women, none of whom spoke English. [@6] Israeli media published a letter she sent from the pre-trial detention centre. [@6] Under Belarusian law, she could face up to five years in
 prison for the offense. [@1] A court in Minsk ordered her to pay a fine and
 allowed her to return to Israel on Thursday. [@2] She was fined $2,500 and
 permitted to return to Israel after high-level intervention. [@2] She had been
 detained for almost two months when she was freed on Thursday. [@5]
 
-Israel's ambassador to Belarus, Alon Shoham, visited her in prison. [@1] Her
+Israel's ambassador to Belarus, Alon Shoham, visited her in prison. [@1] Israel's Foreign Ministry said its ambassador in Minsk had visited her in prison and that it remained in contact with her family and lawyers in Israel and Belarus. [@6] Her
 release came after President Isaac Herzog, Finance Minister Avigdor Liberman and
 Foreign Minister Yair Lapid worked with Belarusian authorities. [@3] The
 chairman of the Israel Bar Association had written to Lapid calling on Israel to
 intervene and clarify the situation. [@1]
-
