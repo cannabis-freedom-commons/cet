@@ -41,6 +41,11 @@ media:
     media_url: https://www.lanacion.com.py/resizer/v2/H5RP3XSWCREMXNGWHCV475F5TI.jpg?auth=bbcc49d40413dd0c5458e249d1e8ebc8bab5f186bacf4e1fb7bd3b81ebea4d75&width=1200&smart=true
     publisher: Diario HOY
     caption: Marijuana found on the bank of the Paraguay River; photo credited to Paraguay's Ministry of Defense.
+  - kind: photo
+    url: https://www.latribuna.com.py/sucesos/policiales/2026/08/24/en-pilar-hallan-14-bultos-de-marihuana-que-iban-a-argentina-en-la-zona-de-gaboto/
+    media_url: https://www.latribuna.com.py/resizer/v2/JU2JMU2ERVENFFXBR5F4KILRRQ.jpeg?smart=true&width=800&height=450&quality=75&auth=0edf330714195c0b498e0696a42265ab20c5bcc9d7b5dfb94479a58220a07c9d
+    publisher: La Tribuna
+    caption: Marijuana bundles found hidden in riverside vegetation during the joint Prefectura–FTC operation at Gaboto, km 1438 of the Paraguay River, bound for Argentina.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dc480af75d986d4ac7ee965fd98525a7
@@ -51,29 +56,35 @@ sources:
     publisher: Diario HOY
     date: 2026-08-24
     language: es
+  - title: 'En Pilar: hallan 14 bultos de marihuana que iban a Argentina en la zona de Gaboto'
+    url: https://www.latribuna.com.py/sucesos/policiales/2026/08/24/en-pilar-hallan-14-bultos-de-marihuana-que-iban-a-argentina-en-la-zona-de-gaboto/
+    publisher: La Tribuna
+    date: 2026-08-24
+    language: es
 open_questions:
-  - No market or seizure value for the load was published.
-  - The cargo's owners and intended recipient were not identified, and no later investigative or court outcome was reported.
-  - The proposed boat route to Argentina was described as presumed, not confirmed.
-  - Only one accessible account of this seizure was found; no separate report or Defense Ministry statement was opened.
+    - No market or seizure value for the load was published.
+    - The cargo's owners and intended recipient were not identified, and no later investigative or court outcome was reported.
+    - The proposed boat route to Argentina was described as presumed, not confirmed.
+    - 'Accounts differ on the number of bundles: Diario HOY reported 15 while La Tribuna reported 14.'
+    - Diario HOY described the drug as “Moroccan-type” while La Tribuna called it vacuum-packed flower marijuana; the descriptions were not reconciled.
+    - The two accounts give different coordinates for the find, near Pilar and near Villa Franca, and the sources do not explain the difference.
 ---
 
 Paraguay's Naval Prefecture, supported by the Joint Task Force (FTC), seized a
-marijuana load hidden on the bank of the Paraguay River at Pilar, Ñeembucú. [@1]
+marijuana load hidden on the bank of the Paraguay River at Pilar, Ñeembucú. [@1,2]
 The operation took place before dawn on 24 August 2026 in the area known as
 Gaboto, at kilometre 1,438 of the river. [@1] Agents of the Pilar Naval
 Prefecture led the operation with personnel from the FTC's Southern force,
-acting on information from the Military Intelligence Battalion (BIMI). [@1]
+acting on information from the Military Intelligence Battalion (BIMI). [@1,2]
 
 A river-and-land search found 15 bundles containing marijuana concealed among
 vegetation along the bank. [@1] The National Anti-Drug Secretariat (SENAD)
 joined to analyze and weigh the drugs, which totaled 354 kilograms and were
-described as “Moroccan-type” marijuana. [@1] Authorities presumed the cargo was
+described as “Moroccan-type” marijuana. [@1] Anti-narcotics prosecutor Milciades Ramos ordered the seized substance taken to the Pilar Naval Prefecture's port for weighing. [@2] Authorities presumed the cargo was
 meant to be transported by boat to Argentina and said the intervention prevented
-its transport. [@1]
+its transport. [@1,2]
 
 The operation ended without clashes or arrests, according to the Ministry of
-Defense's Communications Office. [@1] Security forces have intensified checks
+Defense's Communications Office. [@1,2] Security forces have intensified checks
 along Pilar's riverbanks, which authorities consider possible locations for
 clandestine ports used to traffic drugs. [@1]
-
