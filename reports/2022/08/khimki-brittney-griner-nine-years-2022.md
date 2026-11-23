@@ -67,23 +67,23 @@ sources:
     url: https://www.nbcnews.com/politics/politics-news/wnba-star-brittney-griner-released-russian-custody-high-profile-prison-rcna60683
     publisher: NBC News
     date: 2022-12-08
-open_questions:
-  - No exact weight for the cannabis oil was published in the opened sources; Wikipedia says only 'less than a gram', so no kg figure is recorded.
-  - The sources do not establish whether the prosecution was politically motivated, although US officials called Griner wrongfully detained.
-  - The charged offence was smuggling; the sources do not say what the original customs or police arrest charge was before the trial.
+  - title: US discourages Dennis Rodman from going to Russia to help Griner; he clarifies that he's not going
+    url: https://abcnews.com/Politics/us-discourages-dennis-rodman-traveling-russia-detained-wnba/story?id=88705431
+    publisher: ABC News
+    date: 2022-08-23
 ---
 
 American basketball player Brittney Griner was detained by Russian customs at an
 airport on 17 February 2022 after officials said her luggage held vape
-cartridges containing cannabis oil. [@1,4] Customs officers at Sheremetyevo
+cartridges containing cannabis oil. [@1,4,5] Customs officers at Sheremetyevo
 International Airport outside Moscow found less than a gram of hash oil in the
 cartridges. [@3] Her lawyers said she used cannabis for medical reasons, and she
 said she had been prescribed medicinal cannabis in Arizona. [@3] Her trial began
 in July 2022 and she pleaded guilty while saying she had packed the cannabis oil
-by accident. [@2]
+by accident. [@2,5]
 
 On 4 August 2022 the Khimki Court outside Moscow found Griner guilty of drug
-charges and sentenced her to nine years in prison. [@2] The court also fined her
+charges and sentenced her to nine years in prison. [@2,5] The court also fined her
 1 million roubles, about $16,301. [@2] The charge carried a penalty of up to 10
 years, and prosecutors had asked for nine and a half years. [@2] Griner asked
 the court for leniency and said she had never meant to hurt anybody or to break
@@ -92,6 +92,6 @@ any laws here. [@2]
 In October 2022 a Russian court rejected her appeal. [@1] On 8 December 2022 she
 was released in a prisoner exchange for the Russian arms dealer Viktor Bout, who
 was serving a 25-year sentence in a US federal prison. [@1,4] Before the sentence,
-the US State Department said Griner was being wrongfully detained. [@3]
+the US State Department said Griner was being wrongfully detained. [@3,5]
 
 The prisoner trade took place in the United Arab Emirates. [@4]
