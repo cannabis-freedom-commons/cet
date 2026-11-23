@@ -49,6 +49,11 @@ sources:
     publisher: Semanario La Prensa
     date: 2026-05-26
     language: es
+  - title: Más de 3 300 armas de fuego ilegales y 56 toneladas de droga incautadas en una operación llevada a cabo en las Américas
+    url: https://www.interpol.int/es/Noticias-y-acontecimientos/Noticias/2026/Mas-de-3-300-armas-de-fuego-ilegales-y-56-toneladas-de-droga-incautadas-en-una-operacion-llevada-a-cabo-en-las-Americas
+    publisher: INTERPOL
+    date: 2026-05-26
+    language: es
 open_questions:
     - The incident date uses the operation's end date of 30 November 2025; the results were published on 26 May 2026.
     - The report is filed under Panama as a central participating-country reference; the operation spanned 19 listed countries with no single hub, and the coordinates are a regional reference.
@@ -69,7 +74,7 @@ media:
 ---
 
 More than 8,700 people were detained in the coordinated Operation Orca XI across
-19 Latin American and Caribbean countries. [@1,2,3] Colombia reported the detention
+19 Latin American and Caribbean countries. [@1,2,3,4] Colombia reported the detention
 of 22 people investigated for terrorism financing and arms trafficking. [@1] In
 Panama, two suspects were arrested for smuggling arms through messaging and mail
 systems. [@1] In Brazil, authorities dismantled a criminal network dedicated to
@@ -77,26 +82,26 @@ drug trafficking and illegal possession of arms. [@1] In Chile, an investigation
 led to the arrest of three people. [@1]
 
 The operation seized 3,308 illegal firearms and 56 tonnes of drugs overall,
-according to Interpol. [@1,2,3] Ten participating countries seized 6.9 tonnes of
+according to Interpol. [@1,2,3,4] Ten participating countries seized 6.9 tonnes of
 cocaine, 9.3 tonnes of coca paste, 38.5 tonnes of marijuana, 2 tonnes of
 methamphetamine, 11 kilograms of ketamine and more than 659,000 coca plants.
-[@1,2,3] Security forces also seized about 200,000 rounds of ammunition, 256,025
-dollars in cash and 210 vehicles, Interpol said. [@1,3] In Chile, officers seized
+[@1,2,3,4] Security forces also seized about 200,000 rounds of ammunition, 256,025
+dollars in cash and 210 vehicles, Interpol said. [@1,3,4] In Chile, officers seized
 580 kilograms of drugs valued at about 5.6 million dollars plus nine pistols and
-froze 11 bank accounts linked to money laundering. [@1]
+froze 11 bank accounts linked to money laundering. [@1] Interpol said the Chile investigation targeted a criminal network transporting drugs from northern Chile to central markets. [@4]
 
 Operation Orca XI ran for six weeks between 15 October and 30 November 2025 in
 Central America, South America and the Caribbean with support from the
 Organization of American States, according to the International Criminal Police
-Organization based in Lyon, France. [@1,2,3] Interpol said illicit arms trafficking
+Organization based in Lyon, France. [@1,2,3,4] Interpol said illicit arms trafficking
 in the region is closely linked to drug trafficking, human trafficking, migrant
-smuggling and cybercrime. [@1,3] The operation involved Argentina, Belize,
+smuggling and cybercrime. [@1,3,4] The operation involved Argentina, Belize,
 Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guyana,
 Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, the Dominican Republic,
-Suriname and Uruguay. [@1,3] Interpol Secretary General Valdecy Urquiza said the
+Suriname and Uruguay. [@1,3,4] Interpol Secretary General Valdecy Urquiza said the
 arms taken out of circulation and the drugs seized represent real progress in
 the fight against organized crime. [@1] OAS Secretary General Albert R. Ramdin
 said the operation shows that international cooperation and information sharing
 deliver results. [@1]
 
-In one Chile case under the operation, officers seized over a tonne of cannabis along with seven firearms, cash and six vehicles. [@2]
+In one Chile case under the operation, officers seized over a tonne of cannabis along with seven firearms, cash and six vehicles. [@2,4]
