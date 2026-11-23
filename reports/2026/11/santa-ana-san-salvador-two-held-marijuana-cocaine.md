@@ -69,6 +69,11 @@ sources:
     publisher: Infobae
     date: 2026-11-21
     language: es
+  - title: PNC capturó a dos hombres con marihuana y cocaína en El Salvador
+    url: https://www.identidadcorrentina.com.ar/noticia/46828_pnc-captur-a-dos-hombres-con-marihuana-y-cocana-en-el-salvador.htm
+    publisher: Identidad Correntina
+    date: 2026-11-21
+    language: es
 open_questions:
     - No weight, number of portions beyond 'two large portions', or value was published for the marijuana or the cocaine.
     - The public report does not say which drug was seized in which of the two operations.
@@ -77,21 +82,22 @@ open_questions:
     - The ages of the two detainees and the exact time of each detention were not published.
     - One detention was on the Santa Ana–Sonsonate highway and the other only in the department of San Salvador; the coordinates are for the department centre, not for either site.
     - The accounts reproduce Gustavo Villatoro's posts on X, which were not opened directly, so they are not independent reporting.
+    - It was not reported whether the two detainees have criminal records or prior arrest warrants, or whether they are being investigated for links to drug-dealing or larger distribution networks.
 ---
 
 The National Civil Police arrested two men suspected of selling drugs in two
 separate procedures in Santa Ana and San Salvador, Security Minister Gustavo
 Villatoro reported. [@1] Villatoro identified the detainees as Diego Alejandro
-Vanegas Castillo and José Alfredo Hernández Viana. [@1,4,5] Villatoro announced the
+Vanegas Castillo and José Alfredo Hernández Viana. [@1,4,5,6] Villatoro announced the
 detentions on the morning of Friday 20 November. [@3]
 
 The two operations took place between the night of Thursday 19 and the early
 hours of Friday 20 November. [@2] One operation was carried out on the highway
 connecting Santa Ana with Sonsonate, and the other in the department of San
-Salvador. [@2,4,5] During the procedures two large portions of marijuana and cocaine
+Salvador. [@2,4,5,6] During the procedures two large portions of marijuana and cocaine
 were seized from the two men, according to Villatoro. [@3,4] Police dog units (K9)
 took part in both procedures and found the large marijuana and cocaine portions
-in the two men's possession. [@1]
+in the two men's possession. [@1,6] The official release included images of one of the detainees with police officers, a K9 dog, a vehicle and a box that authorities said held part of the seized drug, and a second photograph of the other detainee in police custody. [@6]
 
 Both men remained in custody and were to be handed to the corresponding
-authorities to answer for the offences they are accused of. [@1]
+authorities to answer for the offences they are accused of. [@1] Security Minister Gustavo Villatoro said the two men would be sent before the judicial authorities to face proceedings for the alleged possession and transport of drugs. [@6]
