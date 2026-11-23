@@ -55,6 +55,11 @@ sources:
     publisher: Divya Himachal
     date: 2026-11-22
     language: hi
+  - title: सिरमौर में पुलिस की बड़ी कार्रवाई, बाइक सवार दो युवक 1.125 किलो चरस के साथ गिरफ्तार
+    url: https://newsviewspost.com/%E0%A4%B8%E0%A4%BF%E0%A4%B0%E0%A4%AE%E0%A5%8C%E0%A4%B0-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AA%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%B8-%E0%A4%95%E0%A5%80-%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A5%80-%E0%A4%95/
+    publisher: NewsViewsPost
+    date: 2026-11-21
+    language: hi
 open_questions:
   - No value or estimated street price was published for the 1.125 kg of charas.
   - No charge sheet, court appearance or outcome was reported; the case was still under investigation.
@@ -66,16 +71,15 @@ Sirmaur police's Special Investigation Unit (SIU) in Nahan was patrolling near
 the Sataun bus stand on 21 November 2026 when it acted on information about two
 men selling charas. [@1] Police stopped a motorcycle arriving from Kamrau
 towards Sataun after a tip that Tikaram and Mayaram had for a long time been
-selling charas around Shillai, Sataun and nearby areas. [@1] Officers arrested
+selling charas around Shillai, Sataun and nearby areas. [@1,4] Officers arrested
 the two motorcycle riders. [@2]
 
 A search of the two men produced 1 kg 125 g (1.125 kg) of charas, a cannabis
-resin. [@1] Both were identified as residents of village Bohal, post office and
-tehsil Kamrau, Sirmour district. [@2] Police registered a case against the two
+resin. [@1,4] Both were identified as residents of village Bohal, post office and
+tehsil Kamrau, Sirmour district. [@2,4] Police registered a case against the two
 at Puruwala police station under the Narcotic Drugs and Psychotropic Substances
-(NDPS) Act. [@1] The motorcycle, numbered HP85AA-0305, was also brought within
-the investigation. [@3]
+(NDPS) Act. [@1,4] The motorcycle, numbered HP85AA-0305, was also brought within
+the investigation. [@3,4]
 
 Police said they were trying to find where the consignment had come from and who
-it was to be supplied to, and that the investigation was continuing. [@1]
-
+it was to be supplied to, and that the investigation was continuing. [@1,4]
