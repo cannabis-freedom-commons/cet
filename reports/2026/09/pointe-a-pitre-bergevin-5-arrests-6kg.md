@@ -49,30 +49,35 @@ sources:
     publisher: Guadeloupe La 1ère
     date: 2026-09-23
     language: fr
+  - title: 'Pointe-à-Pitre : cinq interpellations à Bergevin lors d''une opération de police'
+    url: https://rci.fm/guadeloupe/infos/Societe/Pointe-Pitre-cinq-interpellations-Bergevin-lors-dune-operation-de-police
+    publisher: RCI
+    date: 2026-09-23
+    language: fr
 open_questions:
-  - The exact cannabis weight was still being weighed when the police statement was written, so 6 kilograms is the minimum reported amount.
-  - No charges, custody decisions or court outcomes were reported.
-  - No names, ages or other identifying details of those arrested were published.
-  - Both opened accounts reproduce the National Police statement, with no independent account of the operation.
+    - The exact cannabis weight was still being weighed when the police statement was written, so 6 kilograms is the minimum reported amount.
+    - No charges, custody decisions or court outcomes were reported.
+    - No names, ages or other identifying details of those arrested were published.
+    - All three opened accounts reproduce the National Police statement, with no independent account of the operation.
+    - Accounts agree on five arrests but the RCI wording lists four drug-trafficking arrests plus a wanted individual and an OQTF case, which totals six; the report follows those accounts that place the warrant and OQTF cases among the five.
 ---
 
 Five people were arrested during a police operation on 21 September 2026 in
-Bergevin, in Pointe-à-Pitre. [@1] Four of the five arrests were linked to
-suspected drug trafficking. [@1] One arrested person was wanted under an arrest
+Bergevin, in Pointe-à-Pitre. [@1,3] Four of the five arrests were linked to
+suspected drug trafficking. [@1,3] One arrested person was wanted under an arrest
 warrant, while another was subject to an obligation to leave French territory
-(OQTF), an order requiring a foreign national to leave France. [@1]
+(OQTF), an order requiring a foreign national to leave France. [@1,3]
 
 Officers discovered more than 6 kilograms of cannabis herb in a residential room
-and in the common areas. [@1] The exact weight was still being established when
+and in the common areas. [@1,3] The exact weight was still being established when
 the police statement was written. [@1] Twenty-eight officers from several
 National Police public-security units, including the Anti-Crime Brigade (BAC),
 the Departmental Intervention Company (CDI) and the local dog unit, took part in
-the operation between 4 p.m. and 6 p.m. [@1] Officers checked ten people during
-the operation. [@1]
+the operation between 4 p.m. and 6 p.m. [@1,3] Officers checked ten people during
+the operation. [@1,3]
 
 The operation was carried out under the authority of the prefect of Guadeloupe
-and on the requisitions of the public prosecutor. [@1] It formed part of the
-Departmental Action Plan for Restoring Everyday Security (PADRSQ). [@2] Checks
+and on the requisitions of the public prosecutor. [@1,3] It formed part of the
+Departmental Action Plan for Restoring Everyday Security (PADRSQ). [@2,3] Checks
 were aimed at drug trafficking, theft, receiving stolen goods and firearms
-offences. [@1]
-
+offences. [@1,3]
