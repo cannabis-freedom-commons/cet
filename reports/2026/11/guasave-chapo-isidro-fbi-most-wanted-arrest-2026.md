@@ -90,25 +90,21 @@ sources:
     url: https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested
     publisher: The Guardian
     date: 2026-11-21
-open_questions:
-  - No cannabis weight, plant count or field area was reported from the operation; the seized drugs were described only as "various drugs", so no cannabis quantity is recorded.
-  - The one thousand kilograms in the FBI charge is a trafficking threshold alleged against the organisation, not a quantity seized in this operation.
-  - The indictment concerns trafficking that long predates the arrest and no specific marijuana consignment is described.
-  - No sentence has been imposed; US prosecutors say a conviction could carry the death penalty or life in prison, and Mexico also holds an arrest warrant against him.
-  - The five detainees handed to the federal prosecutor's office in Culiacan have not had their charges specified.
-  - The cash seized in the operation, described as numerario, was not given a value.
-  - Whether the United States will obtain Meza Flores's extradition, and when, has not been stated.
-  - Some accounts date the raid only as happening overnight; the report uses the defence ministry's Friday 20 November 2026.
+  - title: المكسيك تعتقل زعيم المخدرات إل تشابو إيسيدرو | Mosaique FM
+    url: https://www.mosaiquefm.net/amp/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/1537673/%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83-%D8%AA%D8%B9%D8%AA%D9%82%D9%84-%D8%B2%D8%B9%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A5%D9%84-%D8%AA%D8%B4%D8%A7%D8%A8%D9%88-%D8%A5%D9%8A%D8%B3%D9%8A%D8%AF%D8%B1%D9%88
+    publisher: Mosaique FM
+    date: 2026-11-21
+    language: ar
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
 Isidro and listed among the FBI's Ten Most Wanted fugitives, in Guasave,
 Sinaloa, on Friday 20 November 2026. [@2] He led the Beltran Leyva organisation,
-allied to the Mayos faction of the Sinaloa Cartel. [@5] The operation also
+allied to the Mayos faction of the Sinaloa Cartel. [@5,9] The operation also
 detained his cousin German, alias Serafin, described as the group's
 second-in-command, and his brother-in-law Jose, its financial operator. [@6]
 Army and National Guard special forces carried out the arrest with US
-intelligence support. [@5]
+intelligence support. [@5,9]
 
 Eight people were arrested and seven suspected attackers were killed. [@6] Four
 soldiers travelling to reinforce security in Guasave were also killed, an
@@ -134,7 +130,6 @@ Department offered a reward of up to five million dollars for information
 leading to his capture. [@7]
 
 After the arrest, Sinaloa reported gunfire, burning vehicles and road blockades,
-and a Pacific League baseball game in Guasave was suspended. [@6] Meza Flores,
+and a Pacific League baseball game in Guasave was suspended. [@6,9] Meza Flores,
 first indicted in the United States in 2012 and sanctioned under the US Kingpin
 Act in 2013, had evaded capture for more than a decade. [@8]
-
