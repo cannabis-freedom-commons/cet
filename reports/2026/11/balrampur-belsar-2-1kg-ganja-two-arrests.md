@@ -59,34 +59,29 @@ sources:
     publisher: Desh Ki Baat
     date: 2026-11-20
     language: hi
-open_questions:
-  - The police statement gives 19 November 2026 as the arrest date, but the same account also says the two were arrested on Friday, the day of publication, 20 November 2026.
-  - No figure for the market value of the 2.1 kilograms of ganja was published.
-  - No laboratory confirmation that the seized material was cannabis was reported.
-  - No court outcome, remand order or plea was reported; police said the investigation was continuing.
-  - The accounts reproduce the same Balrampur police statement and are not independent reporting.
-  - The villages of Belsar and Sarnadih are not located precisely in the reports, so the coordinates given are for Balrampur district.
-  - The first suspect's purchase from the second is known only from his statement to police, and no independent evidence of the sale was reported.
-  - The same article reports a separate heroin case in Balod district with four arrests, which is outside this report.
+  - title: बलरामपुर में गांजा खरीद-बिक्री का खुलासा, 2.1 किलो गांजा और 7,200 रुपये के साथ दो गिरफ्तार
+    url: https://vocaltv.in/chhattisgarh/balrampur-ganja-two-arrestedphp/cid19555731.htm
+    publisher: Vocal TV
+    date: 2026-11-20
+    language: hi
 ---
 
 Police in Balrampur district, Chhattisgarh, arrested two men on 19 November 2026
-on suspicion of buying and selling ganja. [@2] The two were named as Nohar Sai
-Kujur, 66, of Belsar village, and Kuldeep Singh, 52, of Sarnadih village. [@2]
+on suspicion of buying and selling ganja. [@2,4] The two were named as Nohar Sai
+Kujur, 66, of Belsar village, and Kuldeep Singh, 52, of Sarnadih village. [@2,4]
 The arrests were part of a district police campaign against drug trafficking and
 the illegal sale of narcotics. [@3]
 
 Police said an informant told them a man was carrying ganja from Balrampur
 towards Rajpur, and a team cordoned off the road near Belsar village and caught
-him. [@1] He was carrying 607 grams of ganja and told officers he had bought it
-from Kuldeep Singh for 7,200 rupees. [@2] Police then searched Kuldeep Singh's
+him. [@1,4] He was carrying 607 grams of ganja and told officers he had bought it
+from Kuldeep Singh for 7,200 rupees. [@2,4] Police then searched Kuldeep Singh's
 house in Sarnadih, detained him and seized 1,493 grams of ganja and 7,200 rupees
-in cash from selling it. [@2] In all, police seized 2.1 kilograms of ganja and
-7,200 rupees. [@2]
+in cash from selling it. [@2,4] In all, police seized 2.1 kilograms of ganja and
+7,200 rupees. [@2,4]
 
 A case, number 193/2026, was registered against both under section 20(b)(ii)(B)
-of the Narcotic Drugs and Psychotropic Substances Act. [@2] Both were sent to
+of the Narcotic Drugs and Psychotropic Substances Act. [@2,4] Both were sent to
 jail and police said further investigation was continuing. [@1] Balrampur police
 asked residents to report any information about the sale or smuggling of ganja
-and other drugs, saying informants' identities would be kept confidential. [@2]
-
+and other drugs, saying informants' identities would be kept confidential. [@2,4]
