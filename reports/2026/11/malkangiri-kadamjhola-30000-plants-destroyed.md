@@ -52,24 +52,27 @@ sources:
     url: https://www.orissapost.com/30000-cannabis-plants-worth-rs-3cr-destroyed/
     publisher: OrissaPOST
     date: 2026-11-21
+  - title: Cannabis Plants Destroyed Across 20 Acres of Forest Land; Estimated Market Cost worth Rs.3 Crore
+    url: https://odishabarta.com/cannabis-plants-destroyed-across-20-acres-of-forest-land-estimated-market-cost-worth-rs-3-crore/
+    publisher: Odishabarta
+    date: 2026-11-22
+    language: en
 open_questions:
-  - The source gives no calendar date for the raid, only "Friday"; 20 November 2026 is inferred from the 21 November publication date.
-  - The count of around 30,000 plants, the 20-acre area and the Rs 3 crore value are officials' estimates, with no independent verification.
-  - No suspect was named, arrested or charged, and no case number or court action was reported.
-  - The 20-acre area was converted to about 3.2 hectares; the source did not state a figure in hectares.
-  - It is not stated whether the plants were burned where they stood or cut and removed, and the crop was not independently identified.
+    - The count of around 30,000 plants, the 20-acre area and the Rs 3 crore value are officials' estimates, with no independent verification.
+    - No suspect was named, arrested or charged, and no case number or court action was reported.
+    - The 20-acre area was converted to about 3.2 hectares; the source did not state a figure in hectares.
+    - It is not stated whether the plants were burned where they stood or cut and removed, and the crop was not independently identified.
 ---
 
 Excise officials destroyed around 30,000 illegally cultivated cannabis plants
 spread across 20 acres (about 3.2 hectares) of forest land near Kadamjhola
-village under Chitrakonda police limits in Malkangiri district, Odisha. [@1]
-Officials valued the destroyed plants at Rs 3 crore (30 million rupees). [@1]
+village under Chitrakonda police limits in Malkangiri district, Odisha. [@1,2]
+Officials valued the destroyed plants at Rs 3 crore (30 million rupees). [@1,2]
 The operation was conducted on Friday, 20 November 2026, on the instructions of
 Malkangiri Excise Superintendent Bimbadhar Panda and under the direct
-supervision of Deputy Excise Superintendent Tankadhar Bhoi. [@1]
+supervision of Deputy Excise Superintendent Tankadhar Bhoi. [@1,2]
 
 A team comprising Malkangiri Range Excise Inspector Santosh Kumar Bal, District
 Mobile Unit Excise Inspector Bingaraj Dami and several Excise sub-inspectors and
-assistant sub-inspectors carried out the raid. [@1] Excise constables also
-participated in the operation. [@1]
-
+assistant sub-inspectors carried out the raid. [@1,2] Excise constables also
+participated in the operation. [@1,2]
