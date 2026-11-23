@@ -52,6 +52,21 @@ media:
     media_url: https://img.mdzol.com/bcay3BQdAXSYoHxZoFIAfJAQmJVqmjct24so7gtJe7s/rs:fit:1080:0:0/aHR0cHM6Ly9hc3NldHMubWR6b2wuY29tL2ltZy8xNzk1Mjc3NjI1MTgzLTF2Mjh0NS5qcGc
     publisher: MDZ Online
     caption: 'Scanner-truck image used to locate the packages hidden in the car. Photo: Aduana'
+  - kind: photo
+    url: https://www.rionegro.com.ar/policiales/intento-cruzar-a-la-argentina-con-una-camioneta-repleta-de-ladrillos-de-marihuana-y-fue-detenido-secuestraron-mas-de-212-kilos-4807745/
+    media_url: https://www.rionegro.com.ar/wp-content/uploads/2026/11/IMG-20261121-WA0005123_11zon.jpg?w=920&h=520&crop=1
+    publisher: Diario Río Negro
+    caption: 'The customs operation at the border crossing between Posadas and Encarnación. Photo: Aduana'
+  - kind: photo
+    url: https://www.rionegro.com.ar/policiales/intento-cruzar-a-la-argentina-con-una-camioneta-repleta-de-ladrillos-de-marihuana-y-fue-detenido-secuestraron-mas-de-212-kilos-4807745/
+    media_url: https://www.rionegro.com.ar/wp-content/uploads/2026/11/IMG-20261121-WA0015123_11zon_607b67.jpg?resize=960,720
+    publisher: Diario Río Negro
+    caption: 'The brick-packed marijuana seized by Argentine customs, valued at nearly 832 million pesos. Photo: Aduana'
+  - kind: photo
+    url: https://www.rionegro.com.ar/policiales/intento-cruzar-a-la-argentina-con-una-camioneta-repleta-de-ladrillos-de-marihuana-y-fue-detenido-secuestraron-mas-de-212-kilos-4807745/
+    media_url: https://www.rionegro.com.ar/wp-content/uploads/2026/11/IMG-20261121-WA0001123_11zon.jpg?resize=1081,720
+    publisher: Diario Río Negro
+    caption: 'The dashboard, bonnet and floor of the car, where the 212 kg of marijuana was hidden. Photo: Aduana'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 7c913afa32222d733e6e156dbc810436
@@ -77,29 +92,33 @@ sources:
     publisher: Última Hora
     date: 2026-11-22
     language: es
+  - title: 'Intentó cruzar a la Argentina con una camioneta repleta de ladrillos de marihuana y fue detenido: secuestraron más de 212 kilos'
+    url: https://www.rionegro.com.ar/policiales/intento-cruzar-a-la-argentina-con-una-camioneta-repleta-de-ladrillos-de-marihuana-y-fue-detenido-secuestraron-mas-de-212-kilos-4807745/
+    publisher: Diario Río Negro
+    date: 2026-11-21
+    language: es
 open_questions:
-  - 'Outlets differ on the day of the inspection: La Voz de Misiones says Friday afternoon, while LU17 and Última Hora place it at 17:00 on Saturday 21 November; 20 November is used because the earliest report was published at 14:31 on Saturday, before a Saturday inspection.'
-  - The weight is given only as more than 212 kilograms; no exact figure was published.
-  - No laboratory test result confirming the substance as cannabis was reported.
-  - The driver was not named and no charge, hearing or detention decision was reported beyond the smuggling case.
+    - 'Outlets differ on the day of the inspection: La Voz de Misiones and Diario Río Negro say Friday afternoon (Río Negro specifies around 17:00), while LU17 and Última Hora place it at 17:00 on Saturday 21 November; 20 November is used because the earliest report was published at 14:31 on Saturday, before a Saturday inspection.'
+    - The weight is given only as more than 212 kilograms; no exact figure was published.
+    - No laboratory test result confirming the substance as cannabis was reported.
+    - The driver was not named and no charge, hearing or detention decision was reported beyond the smuggling case.
 ---
 
 Argentine customs officers seized 212 kilograms of marijuana from a car at the
-international bridge in Posadas, Misiones. [@1] The car was detained on the
+international bridge in Posadas, Misiones. [@1,5] The car was detained on the
 afternoon of Friday 20 November 2026 at the Argentine end of the
-Posadas-Encarnación bridge. [@3] Its driver, a 35-year-old Argentine, was
+Posadas-Encarnación bridge. [@3,5] Its driver, a 35-year-old Argentine, was
 arrested and placed at the disposal of the Unidad Fiscal Posadas, the federal
-prosecutor's office. [@3] He was bringing the load into Argentina from
-Encarnación, Paraguay. [@4]
+prosecutor's office. [@3,5] He was bringing the load into Argentina from
+Encarnación, Paraguay. [@4,5]
 
 The procedure began around 17:00 when a Chevrolet reached the migration control
-on the San Roque González de Santa Cruz bridge. [@3] Officers diverted the car
+on the San Roque González de Santa Cruz bridge. [@3] The vehicle was a Chevrolet Spin. [@5] Officers diverted the car
 with Argentine plates to the inspection bays for a more thorough check. [@2]
 They found brick-shaped packages hidden under the bonnet, behind the dashboard
-and in the floor of the vehicle. [@1] Images from a scanner truck confirmed the
-presence of the packages in those compartments. [@1]
+and in the floor of the vehicle. [@1] Some packages were hidden in the sides of the bodywork and under the seats. [@5] Images from a scanner truck confirmed the
+presence of the packages in those compartments. [@1,5]
 
 Officers opened the hidden compartments with tools. [@3] Customs valued the load
-at nearly 832 million pesos. [@1] The case was opened as aggravated smuggling of
-narcotics. [@1]
-
+at nearly 832 million pesos. [@1,5] The case was opened as aggravated smuggling of
+narcotics. [@1,5]
