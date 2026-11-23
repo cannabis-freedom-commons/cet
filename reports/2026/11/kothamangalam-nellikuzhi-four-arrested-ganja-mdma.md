@@ -59,26 +59,24 @@ sources:
     publisher: Deshabhimani
     date: 2026-11-22
     language: ml
-open_questions:
-  - No date is given for the arrests; 21 November 2026, the first publication date, is used as the incident date.
-  - The reports name no charges and do not say whether the men were produced before a court or remanded.
-  - No value or estimate was published for the 22.4 grams of ganja.
-  - The 2.08 grams of MDMA is a synthetic drug and is not counted in the cannabis figures.
-  - The three accounts reproduce the same police statement and are not independent reporting.
+  - title: രാസ ലഹരിയും കഞ്ചാവുമായി യുവാക്കൾ അറസ്റ്റിൽ
+    url: https://janmabhumi.in/3687540/youths-arrested-chemical-drugs-cannabis/
+    publisher: ജന്മഭൂമി
+    date: 2026-11-21
+    language: ml
 ---
 
 Kothamangalam police arrested four young men and seized ganja and chemical drugs
-from them. [@1] Police identified the four as Sajid, 32, and Saheer, 23, both of
+from them. [@1,4] Police identified the four as Sajid, 32, and Saheer, 23, both of
 Iramalloor Pallippadi, Musammin, 20, of Kadakkal in Kollam district, and Jafar,
-28, of Malayidamthuruthu. [@1] Officers took them into custody from a vehicle
-parked in the Nellikuzhi area after police received a tip-off. [@1] The case was
+28, of Malayidamthuruthu. [@1,4] Officers took them into custody from a vehicle
+parked in the Nellikuzhi area after police received a tip-off. [@1,4] The case was
 reported as drug sales carried out from the vehicle parked at Nellikuzhi. [@1]
 
 Police seized 22.4 grams of ganja and 2.08 grams of MDMA from the four; the MDMA
-is a synthetic drug and is not counted in the cannabis figures. [@1]
+is a synthetic drug and is not counted in the cannabis figures. [@1,4]
 
 The arrests were made by a team led by sub-inspector K.H. Hashim. [@3] The team
 also included assistant sub-inspector Sijo and civil police officers Faisal,
-Reneesh, Subhash Chandran, Abhilash, Dayesh, Abhilash Sivan and Fareed. [@1]
-Police said a detailed investigation had begun. [@2]
-
+Reneesh, Subhash Chandran, Abhilash, Dayesh, Abhilash Sivan and Fareed. [@1,4]
+Police said a detailed investigation had begun. [@2,4]
