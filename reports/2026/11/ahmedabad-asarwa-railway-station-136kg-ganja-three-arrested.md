@@ -78,6 +78,11 @@ sources:
     publisher: Gujarat Samachar
     date: 2026-11-20
     language: gu
+  - title: Ahmedabadના અસારવા રેલવે સ્ટેશન પાસેથી રૂ.6.81 લાખના ગાંજાના જથ્થા સાથે ત્રણ આરોપીઓની ધરપકડ
+    url: https://sandesh.com/gujarat/news/crime/ahmedabad/asarwa-railway-station-ganja-seized-three-arrested
+    publisher: Sandesh
+    date: 2026-11-20
+    language: gu
 open_questions:
     - No date is given for the interception or the arrests; 20 November 2026 is the publication date and stands in for the incident date.
     - NavGujarat Samay and Gujarat Samachar give the ganja as 13 kg 622 g, while the Times of India gives 13.6 kg; the report uses 13.622 kg.
@@ -95,15 +100,15 @@ open_questions:
 
 Shaherkotda police in Ahmedabad arrested three men from Kadi and seized 13.6 kg
 of ganja from the auto-rickshaw they were travelling in near Asarwa railway
-station on Naroda Road. [@2,3] Police identified them as Munafkhan alias Bhayo
+station on Naroda Road. [@2,3,7] Police identified them as Munafkhan alias Bhayo
 Qureshi, 30, Husenkhan Pathan, 27, and the rickshaw driver Sarfaraz alias
 Shahrukh Sheikh, 36, all residents of Kadi in Mehsana district. [@2] Police said
 officers set up a watch near Alka Bakery just past Asarwa railway station and
 stopped the auto-rickshaw there. [@1,4,5]
 
 Officers found 13 kg 622 g of ganja, packed in seven packets in a bag, in the
-rickshaw. [@1,4] Police valued the ganja at ₹6.81 lakh and put the total value of
-the ganja, auto-rickshaw, mobile phones and cash seized at ₹7.96 lakh. [@1] The
+rickshaw. [@1,4,7] Police valued the ganja at ₹6.81 lakh and put the total value of
+the ganja, auto-rickshaw, mobile phones and cash seized at ₹7.96 lakh. [@1,7] The
 Times of India put the haul at 13.6 kg of ganja worth about ₹6.8 lakh, with
 three mobile phones, ₹740 in cash and an auto-rickshaw worth ₹60,000, a total of
 about ₹8 lakh. [@2] Gujarat Samachar said the ganja was hidden in seven packets
