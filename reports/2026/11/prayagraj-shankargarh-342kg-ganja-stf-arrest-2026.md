@@ -92,19 +92,24 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-21
     language: hi
+  - title: 342 किलो गांजे के साथ तस्कर गिरफ्तार:छत्तीसगढ़ से प्रयागराज ला रहा था खेप; कीमत 85.50 लाख रुपए
+    url: https://www.bhaskar.com/local/uttar-pradesh/prayagraj/bara/news/prayagraj-stf-arrest-ganja-smuggler-chhattisgarh-seizure-139755721.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-21
+    language: hi
 ---
 
 The Uttar Pradesh STF's Prayagraj field unit seized 342 kg of ganja from a
-Mahindra Bolero pickup in the Shankargarh police station area of Prayagraj. [@1,4,6,7]
+Mahindra Bolero pickup in the Shankargarh police station area of Prayagraj. [@1,4,6,7,8]
 Officers arrested the driver, Ramesh Kumar Yadav, a Prayagraj resident. [@1,3,4,6,7] The
 arrest was made at about 9:45 pm on 20 November 2026. [@1,5] The pickup was stopped on the road towards Chitrakoot. [@4] The operation was led by STF circle officer Shailesh Pratap Singh. [@3] The STF acted on
 information that a Bolero pickup was bringing a large load of ganja from Raipur
-in Chhattisgarh to Prayagraj. [@1,4,6,7] The load was hidden under empty plastic
+in Chhattisgarh to Prayagraj. [@1,4,6,7,8] The load was hidden under empty plastic
 crates so that the pickup looked like an ordinary goods vehicle. [@1,3,4,6] Haribhoomi
 reported that the pickup, a Mahindra Bolero, carried the registration UP70QT8721
 and that a mobile phone was seized with it. [@2]
 
-Police put the value of the consignment at about 85.50 lakh rupees. [@1,3,4,6,7]
+Police put the value of the consignment at about 85.50 lakh rupees. [@1,3,4,6,7,8]
 Haribhoomi described the 85.50 lakh figure as the estimated international market
 price. [@2] Police seized the pickup used for the smuggling and a mobile phone.
 [@1,3,6,7] Initial questioning indicated the ganja had been brought from Raipur in
