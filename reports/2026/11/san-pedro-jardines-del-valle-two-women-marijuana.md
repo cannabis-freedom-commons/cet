@@ -64,35 +64,33 @@ sources:
     publisher: Consulta Monterrey
     date: 2026-11-20
     language: es
-open_questions:
-  - No separate date is given for the detention; 20 November 2026 is the publication date of the reports and is used as the incident date.
-  - Police did not disclose the weight of the suspected marijuana or the amount of cash seized.
-  - The reports do not say whether the wrappers were tested to confirm the herb was marijuana.
-  - The Telediario account says the women assaulted the arriving officers, while the other reports describe insults and aggressive behaviour; no injuries or additional charges were reported.
-  - No formal charges or court outcome were reported; the legal situation of both women remained with the Ministerio Público.
+  - title: Arrestan a dos mujeres con marihuana en San Pedro
+    url: https://elporvenir.mx/justicia/arrestan-a-dos-mujeres-con-marihuana-en-san-pedro/1046511
+    publisher: El Porvenir
+    date: 2026-11-21
+    language: es
 ---
 
 San Pedro police detained Alondra 'N', 31, and Ángela 'N', 27, on suspicion of
-delitos contra la salud, offences against public health. [@4] Officers said the
+delitos contra la salud, offences against public health. [@4,5] Officers said the
 four wrappers they found contained a dry herb with characteristics similar to
-marijuana. [@1] The women were detained during a prevention and surveillance
-patrol in the Jardines del Valle neighbourhood. [@2] The incident took place in
+marijuana. [@1,5] The women were detained during a prevention and surveillance
+patrol in the Jardines del Valle neighbourhood. [@2,5] The incident took place in
 the car park of a commercial establishment on Calzada del Valle at its junction
-with Humberto Lobo. [@1] An officer on patrol approached after seeing the two
+with Humberto Lobo. [@1,5] An officer on patrol approached after seeing the two
 women arguing, and police said they insulted him and adopted an aggressive
-attitude. [@2] He told them they would be detained for a municipal civic-justice
-infraction. [@2]
+attitude. [@2,5] He told them they would be detained for a municipal civic-justice
+infraction. [@2,5]
 
 During the preventive inspection officers found three transparent plastic bags
-of dry herb resembling marijuana in one woman's handbag. [@2] They also seized
-two mobile phones, a digital scale and cash. [@1] The second woman carried one
-more wrapper, bringing the total to four bags. [@2] Police did not give the
+of dry herb resembling marijuana in one woman's handbag. [@2,5] They also seized
+two mobile phones, a digital scale and cash. [@1,5] The second woman carried one
+more wrapper, bringing the total to four bags. [@2,5] Police did not give the
 weight of the substance or the amount of cash. [@2] No forensic test confirming
 the herb was marijuana was reported. [@2]
 
-Both women were taken to San Pedro's C2 facilities with the seized items. [@3]
+Both women were taken to San Pedro's C2 facilities with the seized items. [@3,5]
 They were placed at the disposal of the Ministerio Público, the public
-prosecutor's office, which will decide their legal situation. [@2] The municipal
+prosecutor's office, which will decide their legal situation. [@2,5] The municipal
 Public Security Secretariat said it maintains permanent prevention and
 surveillance patrols in the municipality. [@2]
-
