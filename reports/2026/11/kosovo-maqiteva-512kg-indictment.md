@@ -102,31 +102,28 @@ sources:
     publisher: KoSSev
     date: 2026-11-20
     language: ro
-open_questions:
-    - No separate date is given for the indictment; 20 November 2026 is the publication date of these reports and is used as the incident date.
-    - The reports give no figure for the area under cultivation; the only areas stated are the two plots of 1,963 and 1,438 square metres that prosecutors want confiscated.
-    - The German-language account describes the charge as aiding cultivation, while the Albanian reports say the three acted jointly as co-perpetrators.
-    - The indictment covers cultivation from an unspecified start date until 16 September 2025; the reports do not say when the growing began.
-    - No trial date, plea or possible sentence is reported.
-    - One suspect surrendered on 28 March 2026 and detention was sought for the other two at the end of October 2026, but no arrest dates are given for those two.
-    - The accounts reproduce the same Prizren prosecution announcement and are not independent reporting.
+  - title: Anklage gegen drei Personen in Suhareka, Prizren – Staatsanwaltschaft liefert Details
+    url: https://reporteri.net/de/Botschaft/Anklage-gegen-drei-Personen-in-Suhareka--Staatsanwaltschaft-Prizren-gibt-Details-bekannt/
+    publisher: Reporteri.net
+    date: 2026-11-20
+    language: de
 ---
 
 Kosovo's Basic Prosecution in Prizren has filed an indictment against three
 people over cannabis cultivation and sale in Maqitevë, a village in Suhareka
-municipality. [@3,5,6,7,8,9] All three were in pre-trial detention when the indictment was
-filed. [@1,7,8] Prosecutors requested pre-trial detention for the other two suspects, MA and BA, at the end of October 2026. [@6,8] FN surrendered to Kosovo police on 28 March 2026, after which the Prizren prosecution sought his detention on suspicion of producing and distributing narcotics and illegal weapons possession. [@6,8] One of the three, identified as FN, was not available to law enforcement during the investigation. [@6,8] They are charged with cultivating cannabis and with the unauthorised
+municipality. [@3,5,6,7,8,9,10] All three were in pre-trial detention when the indictment was
+filed. [@1,7,8,10] Prosecutors requested pre-trial detention for the other two suspects, MA and BA, at the end of October 2026. [@6,8] FN surrendered to Kosovo police on 28 March 2026, after which the Prizren prosecution sought his detention on suspicion of producing and distributing narcotics and illegal weapons possession. [@6,8] One of the three, identified as FN, was not available to law enforcement during the investigation. [@6,8] They are charged with cultivating cannabis and with the unauthorised
 purchase, possession, distribution and sale of narcotics. [@2,7,8] Each of the three
 is also charged separately with unauthorised possession of weapons. [@2,7,8]
 
 According to the indictment, from an unspecified date until 16 September 2025
 they cultivated cannabis on two plots in a mountainous area of Maqitevë, using a
 reservoir and drip irrigation. [@2,7,8] Officers found 512 kilograms of marijuana in
-a stable during checks on 16 September 2025. [@1,5,6,7,8,9] Kosovo police estimated the market value of the marijuana at about 750,000 euros at the time of the seizure. [@5,6,8,9] Prosecutors said the marijuana
-was being dried and prepared for distribution and sale. [@3,7,8] Samples examined by
+a stable during checks on 16 September 2025. [@1,5,6,7,8,9,10] Kosovo police estimated the market value of the marijuana at about 750,000 euros at the time of the seizure. [@5,6,8,9] Prosecutors said the marijuana
+was being dried and prepared for distribution and sale. [@3,7,8,10] Samples examined by
 the Kosovo Agency for Forensics tested positive for cannabis containing THC.
 [@4,8,9]
 
 During the searches, an anti-tank rocket, a hand mortar, a hunting rifle, a
-semi-automatic rifle and ammunition were also seized. [@1,5,7,8,9] The prosecutor asked
-the court to find the three guilty and sentence them under the law. [@2,7,8] They also sought confiscation of the house and stable used to grow and prepare the drugs, the seized marijuana, production equipment, weapons and ammunition, mobile phones and a tractor with a trailer. [@8] Prosecutors also sought permanent confiscation of the two plots of 1,963 and 1,438 square metres, a total of 3,401 square metres. [@8,9]
+semi-automatic rifle and ammunition were also seized. [@1,5,7,8,9,10] The prosecutor asked
+the court to find the three guilty and sentence them under the law. [@2,7,8] They also sought confiscation of the house and stable used to grow and prepare the drugs, the seized marijuana, production equipment, weapons and ammunition, mobile phones and a tractor with a trailer. [@8] Prosecutors also sought permanent confiscation of the two plots of 1,963 and 1,438 square metres, a total of 3,401 square metres. [@8,9,10]
