@@ -62,21 +62,26 @@ sources:
     publisher: ABC
     date: 2026-11-21
     language: es
+  - title: La Guardia Civil desmantela un clan que surtía de marihuana Covibar desde la Cañada Real con siete detenidos
+    url: https://www.msn.com/es-es/noticias/otras/la-guardia-civil-desmantela-un-clan-que-surt%C3%ADa-de-marihuana-covibar-desde-la-ca%C3%B1ada-real-con-siete-detenidos/ar-AA2hVMyo
+    publisher: Moncloa.com (via MSN)
+    date: 2026-11-21
+    language: es
 ---
 
 Guardia Civil officers arrested seven people on Monday 16 November 2026 in
 sector V of the Cañada Real, Madrid, as members of a criminal group selling
 drugs. [@2] The detainees are aged between 30 and 40 and were brought before a
-court. [@1] ABC described the seven detainees as members of one family. [@3] The
+court. [@1,4] ABC described the seven detainees as members of one family. [@3] The
 Guardia Civil said some of them were jailed and others released with charges.
-[@1] ABC reported that five of the seven entered provisional prison. [@3]
+[@1] ABC reported that five of the seven entered provisional prison. [@3,4]
 
 Officers searched two plots in the sector that were used as drug sales and
 consumption points run by a family clan. [@2] ABC described the two sites as
-warehouses (naves) in sector V of the Cañada Real. [@3] ABC said the area
-adjoins the Covibar neighbourhood in Rivas Vaciamadrid. [@3] Inside, officers
+warehouses (naves) in sector V of the Cañada Real. [@3,4] ABC said the area
+adjoins the Covibar neighbourhood in Rivas Vaciamadrid. [@3,4] Inside, officers
 found various narcotics and a marijuana plantation with buds in the drying
-phase. [@2] They also seized three shotguns, 113 lottery tickets, fighting cocks
+phase. [@2,4] They also seized three shotguns, 113 lottery tickets, fighting cocks
 and a high-end vehicle. [@2] Buyers came to the two plots to buy the drug and
 consume it in a Rivas Vaciamadrid neighbourhood. [@1]
 
@@ -90,4 +95,3 @@ searches and the buildings were then demolished. [@1] The plots were sealed on a
 court's instruction and stolen material including copper cable was found there.
 [@1] The council said it would join the case as a prosecutor to defend Rivas
 residents. [@1]
-
