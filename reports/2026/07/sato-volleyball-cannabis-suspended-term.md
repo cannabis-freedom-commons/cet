@@ -60,13 +60,20 @@ sources:
     publisher: 山陽新聞デジタル｜さんデジ
     date: 2026-05-28
     language: ja
+  - title: Japan national volleyball player arrested over suspected cannabis possession
+    url: https://www.japantimes.co.jp/news/2026/05/29/japan/crime-legal/volleyball-player-cannabis-arrest/
+    publisher: The Japan Times
+    date: 2026-05-29
+    archived: https://web.archive.org/web/20260706185742id_/https://www.japantimes.co.jp/news/2026/05/29/japan/crime-legal/volleyball-player-cannabis-arrest/
+open_questions:
+  - The Japan Times places the alleged possession in the afternoon of 27 May, while the existing account gives the evening of that day; the time of day is not reconciled.
 ---
 
 Shunichiro Sato, a 26-year-old former Japan men's national volleyball team middle blocker, admitted possessing dried cannabis under the Narcotics Control Act. [@1] On 31 July 2026 the Tokyo District Court sentenced him to one year of imprisonment, suspended for three years; prosecutors had sought one year. [@1,2,3]
 
 ## Arrest and sentence
 
-The indictment said Sato possessed 0.831 grams of dried cannabis at a pachinko parlor in Itabashi, Tokyo, on the evening of 27 May. [@1,2,4] The national team was then camped in Kita, Tokyo; Sato visited the parlor with teammates in his free time, left his bag there, and the cannabis was found inside. [@1,2] Metropolitan Police arrested him the next day. [@1,2,4]
+The indictment said Sato possessed 0.831 grams of dried cannabis at a pachinko parlor in Itabashi, Tokyo, on the evening of 27 May. [@1,2,4] The national team was then camped in Kita, Tokyo; Sato visited the parlor with teammates in his free time, left his bag there, and the cannabis was found inside. [@1,2] Police said the fragments found in the bag were later identified as cannabis through forensic testing and that they would test Sato’s urine to determine whether he had used the drug. [@5] Metropolitan Police arrested him the next day. [@1,2,4,5]
 
 Prosecutors said he began using cannabis around his first or second university year, kept using it, and bought frequently from an online dealer before his May arrest. [@1,2] At his first hearing he apologized for acting lightly as a national representative. [@1]
 
