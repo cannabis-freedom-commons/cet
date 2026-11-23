@@ -78,19 +78,19 @@ media:
 ---
 
 State police in Cimitile, in the province of Naples, arrested a 28-year-old man
-on suspicion of illegal possession of drugs for dealing. [@1,2,5] The intervention
+on suspicion of illegal possession of drugs for dealing. [@1,2,3,5] The intervention
 took place on Tuesday on Via Nazionale delle Puglie in Cimitile. [@1,3,5] Officers
 from the Nola police station, on routine patrol, saw the driver hand something
-to another person in exchange for a banknote. [@1,2,5] They immediately moved in and
-stopped the man. [@1,5]
+to another person in exchange for a banknote. [@1,2,3,5] They immediately moved in and
+stopped the man. [@1,3,5]
 
 A search of the man found 40 wrappers of cocaine weighing about 14 grams and 375
-euros in cash in notes of different denominations. [@1,4,5] A further wrapper
-containing cocaine was found in the car he was using. [@1,2,5] Officers then
+euros in cash in notes of different denominations. [@1,3,4,5] A further wrapper
+containing cocaine was found in the car he was using. [@1,2,3,5] Officers then
 searched his home. [@1,5] There they found other quantities of drugs, in
-particular about 10 grams of hashish. [@1,4,5]
+particular about 10 grams of hashish. [@1,3,4,5]
 
 He was arrested by officers of the Nola police station for illegal possession of
-drugs for dealing. [@1,5] Police said the operation was part of patrol and
-prevention work against drug dealing in the area around Nola. [@1] They said the
+drugs for dealing. [@1,3,5] Police said the operation was part of patrol and
+prevention work against drug dealing in the area around Nola. [@1,3] They said the
 checks covered Cimitile and the other towns of the Nola area. [@1]
