@@ -1,0 +1,85 @@
+---
+code: HACJW3
+added_at: "2026-11-23T12:28:13.627159Z"
+date: 2026-11-20
+country: ie
+place: Bulfin Road, Inchicore, Dublin 8, Ireland
+coordinates: [53.3369, -6.3261]
+precision: locality
+type: arrest
+also: [seizure, raid]
+title: Two charged after 122.5kg cannabis and Glock seized in Inchicore
+summary: >-
+  Gardaí seized 110kg of vacuum-packed cannabis herb from two vans on Bulfin Road, Inchicore, and a further 12.5kg at a property, arresting two men in their 20s and 40s. A Glock pistol, €4,550 cash and 0.5kg of cocaine were also taken; the drugs had a combined value of €1,765,000 and both men were charged.
+figures:
+  arrested: 2
+  charged: 2
+  kg_seized: 122.5
+  value:
+    amount: 1765000
+    currency: EUR
+  cash:
+    amount: 4550
+    currency: EUR
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+  products:
+    - {product: flower, kg: 122.5}
+  activity: [trafficking]
+  setting: [vehicle]
+  case_stage: charged
+  date_precision: approximate
+  region: Dublin
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.cash: [1]
+  figures.charged: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
+media:
+  - kind: photo
+    url: https://www.rte.ie/news/ireland/2026/1121/1600156-firearms-drugs-dublin/
+    media_url: https://www.rte.ie/images/002561a0-800.jpg
+    publisher: RTÉ News
+    caption: 'Drugs seized in the Inchicore operation, with a combined value of €1,765,000. Photo: An Garda Síochána'
+  - kind: photo
+    url: https://www.rte.ie/news/ireland/2026/1121/1600156-firearms-drugs-dublin/
+    media_url: https://www.rte.ie/images/002561a1-614.jpg?ratio=1.78
+    publisher: RTÉ News
+    caption: 'The Glock 19 semi-automatic pistol and five rounds of ammunition seized by gardaí in Inchicore, Dublin. Photo: An Garda Síochána'
+status: verified
+created_by_model: opencode-go/hy4-flash-free#high
+submission: eaf06e0031abcd776f52e9de03e28ed6
+tags: [inchicore, dublin, cannabis-herb, operation-tara, garda]
+sources:
+  - title: Two charged after gun, €1.75m of drugs seized in Dublin
+    url: https://www.rte.ie/news/ireland/2026/1121/1600156-firearms-drugs-dublin/
+    publisher: RTÉ News
+    date: 2026-11-21
+---
+
+Gardaí attached to the Dublin Crime Response Team carried out an
+intelligence-led operation on Bulfin Road, Inchicore, Dublin 8 at 6.45pm as part
+of Operation Tara. [@1] They seized 110kgs of vacuum-packed cannabis herb from
+two parked vans. [@1] The two men, aged in their 20s and 40s, who were the
+drivers of the vans, were arrested at the scene. [@1]
+
+In a follow-up search under warrant at a property in Dublin 8, gardaí also
+seized a further 12.5kgs of cannabis herb, .5 kg of cocaine, €4,550 in cash, a
+Glock 19 semi-automatic pistol, five rounds of ammunition and an assortment of
+documents. [@1] The combined total of 122.5kgs of cannabis herb and .5kg of
+cocaine was valued at €1,765,000. [@1]
+
+Both men were charged after the seizure. [@1] They were due to appear before
+Dublin District Court at Court No 4 of the Criminal Courts of Justice. [@1] The
+seized drugs were subject to analysis by Forensic Science Ireland. [@1] The
+firearm was to be examined by the Garda Ballistics Section and investigations
+were ongoing. [@1]
+
