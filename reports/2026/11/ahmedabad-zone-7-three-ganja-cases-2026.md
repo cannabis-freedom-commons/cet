@@ -54,12 +54,18 @@ sources:
     publisher: Sandesh
     date: 2026-11-21
     language: gu
+  - title: 'Drug crackdown: 9 held in city in a day'
+    url: https://www.ahmedabadmirror.com/drug-crackdown-9-held-in-city-in-a-day/81926458.html
+    publisher: Ahmedabad Mirror
+    date: 2026-11-22
+    language: en
 open_questions:
-  - The reports give no date for the overnight drive; 21 November 2026 is the publication date of both accounts and stands in for the incident date.
-  - ABP Asmita names a fourth person, Ravi Makwana, caught in Vasantnagar with 474 g of ganja, which the Sandesh account omits and which is not part of the three-case total of Rs 40,524.
-  - The reports give the ganja only case by case (69 g, 45 g and 31.28 g) and publish no combined weight.
-  - The reports do not say whether formal charges followed the registration of the three NDPS cases, or give any court date.
-  - 'The accounts describe the drive areas differently: ABP Asmita says Satellite, Vasna and Sola High Court, while Sandesh says Satellite and Vasna.'
+    - The reports give no date for the overnight drive; 21 November 2026 is the publication date of both accounts and stands in for the incident date.
+    - ABP Asmita and the Ahmedabad Mirror name a fourth person, Ravi Makwana, caught in Vasantnagar in Gota with 474 g of ganja, which the Sandesh account omits and which is not part of the three-case total of Rs 40,524.
+    - The reports give the ganja only case by case (69 g, 45 g and 31.28 g) and publish no combined weight.
+    - The reports do not say whether formal charges followed the registration of the three NDPS cases, or give any court date.
+    - 'The accounts describe the drive areas differently: ABP Asmita says Satellite, Vasna and Sola High Court, while Sandesh says Satellite and Vasna.'
+    - The Ahmedabad Mirror puts the Vasna seizure at 31 grams against 31.28 grams in the other accounts, and places the supplier Urmila Parmar in Bhatha village rather than Ranip.
 ---
 
 Ahmedabad City Police's Zone-7 teams ran a mega search operation under the 'No
@@ -71,13 +77,12 @@ Valjibhai Makwana, Bhavin Shaileshbhai Vaghela and Doliben Hareshbhai Parmar.
 [@2]
 
 In Ramdevnagar, police seized 69 grams of ganja and a weighing scale, material
-worth about Rs 3,950. [@2] In Jodhpur village, police seized 45 grams of ganja,
-a mobile phone, an Activa scooter and cash, material worth about Rs 32,450. [@2]
-Vasna police arrested Doliben Parmar with 31.28 grams of ganja. [@1] Police
+worth about Rs 3,950. [@2,3] In Jodhpur village, police seized 45 grams of ganja,
+a mobile phone, an Activa scooter and cash, material worth about Rs 32,450. [@2,3]
+Vasna police arrested Doliben Parmar with 31.28 grams of ganja. [@1,3] Police
 valued the seized material at Rs 40,524 and registered three cases under the
 Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@1]
 
 Two accused from Ranip, Chhamiyabhai and Urmilaben Parmar, absconded during the
 operation and police are searching for them. [@1] Police said they were
 investigating the supply network behind the seizures. [@1]
-
