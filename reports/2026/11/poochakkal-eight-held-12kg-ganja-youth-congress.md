@@ -73,8 +73,13 @@ sources:
     url: https://www.deccanchronicle.com/amp/southern-states/kerala/youth-congress-worker-among-5-arrested-with-116-kg-ganja-in-alappuzha-2006840
     publisher: Deccan Chronicle
     date: 2026-11-22
+  - title: 11 കിലോ കഞ്ചാവ്! ആലപ്പുഴയിൽ യൂത്ത് കോൺഗ്രസ് പ്രവർത്തകനടക്കം അഞ്ചുപേർ പിടിയിൽ
+    url: https://www.asianetnews.com/local-news/police-arrest-five-including-youth-congress-worker-with-ganja-in-alappuzha-articleshow-d4ggdqr
+    publisher: Asianet News
+    date: 2026-11-22
+    language: ml
 open_questions:
-    - English-language wire reports counted five arrests and 11.6 kg from the car, while the Malayalam accounts counted eight arrests and put the total at 12 to 13 kg once the earlier Palliveli check is included; this report uses eight arrests and the 12 kg total given by Mathrubhumi.
+    - English-language wire reports counted five arrests and 11.6 kg from the car, Asianet News Malayalam put the car's load at 11 kg, and the Malayalam accounts that included the earlier Palliveli check counted eight arrests with a total of 12 to 13 kg; this report uses eight arrests and the 12 kg total given by Mathrubhumi.
     - 'Sources differ on Shameer''s standing in the party: IANS described him as an office-bearer of the Congress mandalam committee, while district Youth Congress leaders said he held no post and had been inactive for months.'
     - The IANS account dates the arrests to Sunday while describing a check late on Saturday night; its own detail and other reports place the interception at 10.50 pm on Saturday 21 November 2026.
     - No value or street price was published for the ganja.
@@ -84,14 +89,14 @@ open_questions:
 
 Eight men were arrested in the case, among them a local Youth Congress leader.
 [@4] The five occupants of a car stopped at Makkekadavu junction in Poochakkal
-were found with 11.6 kg of ganja packed in bags. [@3,6,7,8] The four other men in the car were Ali Jauhar, 24, and Krishnakumar, 23, both from Manappuram, and Salahudeen Ayoob, 24, and Mohammed Aslam, 23, both from Poochakkal. [@6] The car was intercepted at
+were found with 11.6 kg of ganja packed in bags. [@3,6,7,8,9] The four other men in the car were Ali Jauhar, 24, and Krishnakumar, 23, both from Manappuram, and Salahudeen Ayoob, 24, and Mohammed Aslam, 23, both from Poochakkal. [@6,9] The car was intercepted at
 about 10.50 pm on Saturday while it travelled from Cherthala to Arookutty. [@2,5,7,8] Police said they acted on a tip-off when they stopped the car. [@8] The check was carried out jointly by the Alappuzha district DANSAF team and Poochakkal police. [@5,6]
 Earlier that evening, at about 4 pm, three other men were arrested with 1.270 kg
 of ganja near Palliveli junction, and questioning them led police to the car.
 [@3] One of them, Shemeer, 38, is a Youth Congress worker from Manappuram whose
-social media accounts show photographs with party leaders. [@2,5,7] District Youth
+social media accounts show photographs with party leaders. [@2,5,7,9] District Youth
 Congress leaders said he had been inactive for months and held no post in the
-organisation. [@2,7] Shameer was reportedly involved in the election campaign of
+organisation. [@2,7] Shameer had left the CPI(M) some years earlier and joined the Youth Congress, district Youth Congress leaders said. [@9] Shameer was reportedly involved in the election campaign of
 Kerala Assembly Deputy Speaker Shanimol Usman. [@1,5,6]
 
 Police said the men had bought a large quantity of ganja in Palakkad and were
