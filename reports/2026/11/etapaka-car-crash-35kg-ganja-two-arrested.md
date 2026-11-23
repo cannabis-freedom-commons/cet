@@ -48,23 +48,27 @@ sources:
     publisher: Andhrajyothy
     date: 2026-11-20
     language: te
+  - title: ఒడిశా టు తెలంగాణ వయా ఏపీ.. వేగంగా దూసుకొచ్చిన కారు.. 2 బస్తాల్లో ఏముందో చూసి పోలీసుల షాక్!
+    url: https://tv9telugu.com/andhra-pradesh/35-kg-cannabis-seized-in-andhra-pradesh-while-being-transported-from-odisha-to-telangana-karimnagar-1963827.html
+    publisher: TV9 Telugu
+    date: 2026-11-21
+    language: te
 open_questions:
-  - The article gives no separate date or time for the crash; 20 November 2026, the publication date of both reports, is used as the incident date.
-  - 'The destination is reported differently: Sakshi says the ganja was bound for Telangana, while the Andhrajyothy flash names Karimnagar; both name Odisha as the origin.'
-  - No names, value estimate or court outcome were reported for the two arrested or the two absconding suspects.
-  - Both accounts appear to draw on the same police information; the Andhrajyothy item is a brief flash update with no additional operational detail.
+    - No report gives a separate date or time for the crash; 20 November 2026, the date of the first reports, is used as the incident date.
+    - The figure of about Rs 5 lakh is a police estimate, and no report says how it was calculated.
+    - No names or charges were reported for the two arrested or the two absconding suspects, and no court outcome is known.
+    - The Telugu accounts appear to draw on the same police information rather than independent reporting.
 ---
 
-Police arrested two suspected ganja smugglers in connection with the crash. [@1]
-The incident happened in Etapaka, in Polavaram district, Andhra Pradesh. [@2]
+Police arrested two suspected ganja smugglers in connection with the crash. [@1,3]
+The incident happened in Etapaka, in Polavaram district, Andhra Pradesh. [@2,3]
 The car carrying ganja had lost control and hit a brick wall by the roadside and
 two other vehicles. [@1] Officers alerted by the crash searched the car and
-seized 35 kilograms of ganja from it. [@1] Two other accused remained absconding
-and police began a search for them. [@1]
+seized 35 kilograms of ganja from it. [@1,3] Police estimated the value of the seized ganja at about 500,000 rupees. [@3] Two other accused remained absconding
+and police began a search for them. [@1,3] Police seized the Kia car along with the ganja and registered a case. [@3]
 
 Police said the ganja was being moved from Odisha to Telangana at the time of
-the crash. [@1] A separate news account identified the destination as Karimnagar
-in Telangana. [@2] That account independently reported the same 35 kg figure
+the crash. [@1,3] The car had set out from Malkangiri district in Odisha, carrying the ganja to Karimnagar. [@3] A separate news account identified the destination as Karimnagar
+in Telangana. [@2,3] That account independently reported the same 35 kg figure
 from the police check. [@2] Investigators said they were examining where the
 ganja originated and where it was being delivered. [@1]
-
