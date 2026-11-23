@@ -82,18 +82,16 @@ sources:
     url: https://www.rediff.com/news/commentary/2026/nov/22/youth-congress-worker-among-5-held-with-11.6-kg-ganja-in-keralam/c5e0d6a7f65b48b7e87e7a05713bbc28
     publisher: Rediff.com
     date: 2026-11-22
-open_questions:
-    - English-language wire reports counted five arrests and 11.6 kg from the car, Asianet News Malayalam put the car's load at 11 kg, and the Malayalam accounts that included the earlier Palliveli check counted eight arrests with a total of 12 to 13 kg; this report uses eight arrests and the 12 kg total given by Mathrubhumi.
-    - 'Sources differ on Shameer''s standing in the party: IANS described him as an office-bearer of the Congress mandalam committee, while district Youth Congress leaders said he held no post and had been inactive for months.'
-    - The IANS account dates the arrests to Sunday while describing a check late on Saturday night; its own detail and other reports place the interception at 10.50 pm on Saturday 21 November 2026.
-    - No value or street price was published for the ganja.
-    - Police did not name the Palakkad supplier or report further arrests, and no charge sheet, bail hearing or trial date has been reported.
-    - The Rediff/PTI account describes all five car occupants as natives of Thaikkattussery, while the Malayalam accounts place them in Manappuram and Poochakkal.
+  - title: কেরলে ১১.৬ কেজি গাঁজা উদ্ধার, গ্রেফতার যুব কংগ্রেস নেতা-সহ পাঁচ
+    url: https://jagarantripura.com/2026/11/22/11-6-kg-of-ganja-seized-in-kerala-five-arrested-including-a-youth-congress-leader/
+    publisher: Jagarantripura.com
+    date: 2026-11-22
+    language: bn
 ---
 
 Eight men were arrested in the case, among them a local Youth Congress leader.
 [@4] The five occupants of a car stopped at Makkekadavu junction in Poochakkal
-were found with 11.6 kg of ganja packed in bags. [@3,6,7,8,9,10] The four other men in the car were Ali Jauhar, 24, and Krishnakumar, 23, both from Manappuram, and Salahudeen Ayoob, 24, and Mohammed Aslam, 23, both from Poochakkal. [@6,9] The car was intercepted at
+were found with 11.6 kg of ganja packed in bags. [@3,6,7,8,9,10,11] The four other men in the car were Ali Jauhar, 24, and Krishnakumar, 23, both from Manappuram, and Salahudeen Ayoob, 24, and Mohammed Aslam, 23, both from Poochakkal. [@6,9,11] The car was intercepted at
 about 10.50 pm on Saturday while it travelled from Cherthala to Arookutty. [@2,5,7,8,10] Police said they acted on a tip-off when they stopped the car. [@8,10] The check was carried out jointly by the Alappuzha district DANSAF team and Poochakkal police. [@5,6]
 Earlier that evening, at about 4 pm, three other men were arrested with 1.270 kg
 of ganja near Palliveli junction, and questioning them led police to the car.
@@ -101,17 +99,17 @@ of ganja near Palliveli junction, and questioning them led police to the car.
 social media accounts show photographs with party leaders. [@2,5,7,9,10] District Youth
 Congress leaders said he had been inactive for months and held no post in the
 organisation. [@2,7,10] Shameer had left the CPI(M) some years earlier and joined the Youth Congress, district Youth Congress leaders said. [@9] Shameer was reportedly involved in the election campaign of
-Kerala Assembly Deputy Speaker Shanimol Usman. [@1,5,6]
+Kerala Assembly Deputy Speaker Shanimol Usman. [@1,5,6,11]
 
 Police said the men had bought a large quantity of ganja in Palakkad and were
 selling it in smaller quantities to users in Kochi. [@2,7,10] All eight were produced
 before a magistrate and remanded in judicial custody. [@3,8] Shemeer complained of
 chest discomfort and was taken to Ernakulam General Hospital. [@2] Poochakkal
 police registered a case under the Narcotic Drugs and Psychotropic Substances
-Act. [@1,5,6] Investigations were continuing to establish each man's role in the
-alleged transport. [@1,6]
+Act. [@1,5,6,11] Investigations were continuing to establish each man's role in the
+alleged transport. [@1,6,11]
 
 The arrests came during Operation Toofan, Kerala's statewide anti-drug campaign.
-[@1,6] By 13 November, Kerala Police said they had arrested 16,203 people and
+[@1,6,11] By 13 November, Kerala Police said they had arrested 16,203 people and
 registered nearly 15,000 cases under the campaign, seizing over two tonnes of
-ganja statewide. [@1,6]
+ganja statewide. [@1,6,11]
