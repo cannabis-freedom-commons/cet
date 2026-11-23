@@ -49,29 +49,34 @@ sources:
     publisher: ডিএমপি নিউজ (DMP News)
     date: 2026-11-20
     language: bn
+  - title: DMP arrests 474 in 24 hours, files 48 cases
+    url: https://unb.com.bd/category/Bangladesh/dmp-arrests-474-in-24-hours-files-48-cases/200839
+    publisher: United News of Bangladesh
+    date: 2026-11-20
 open_questions:
-  - The 474 arrests and 48 cases cover the whole 24-hour sweep across all alleged offences; how many were linked to cannabis was not stated.
-  - The 33 kg 2 g ganja total appears to include the 33 kg that the DMP's Special Response Unit seized from four men in Demra and Banshal the same day, so it is not an additional quantity to that separate report.
-  - The 5,720 yaba tablets and five bottles of country liquor from the same drives are excluded from the cannabis figures.
-  - No arrested person was named and no charges or court outcomes were reported beyond the statement that legal proceedings were under way.
-  - The DMP statement was issued on 20 November about raids the day before; no time is given for the raids.
-  - No street value or laboratory confirmation was published for the ganja.
-  - Both opened accounts reproduce the same DMP statement, so they are not independent reporting.
+    - The 474 arrests and 48 cases cover the whole 24-hour sweep across all alleged offences; how many were linked to cannabis was not stated.
+    - The 33 kg 2 g ganja total appears to include the 33 kg that the DMP's Special Response Unit seized from four men in Demra and Banshal the same day, so it is not an additional quantity to that separate report.
+    - The 5,720 yaba tablets and five bottles of country liquor from the same drives are excluded from the cannabis figures.
+    - No arrested person was named and no charges or court outcomes were reported beyond the statement that legal proceedings were under way.
+    - The DMP statement was issued on 20 November about raids the day before; no time is given for the raids.
+    - No street value or laboratory confirmation was published for the ganja.
+    - Both opened accounts reproduce the same DMP statement, so they are not independent reporting.
+    - The English account gives the ganja total as 33 kg, while the DMP statement figure used in the report is 33 kg 2 g.
 ---
 
 Dhaka Metropolitan Police arrested 474 people in 24 hours of regular drives
-across the capital and filed 48 cases. [@1,3] The raids took place on Thursday 19
+across the capital and filed 48 cases. [@1,3,4] The raids took place on Thursday 19
 November 2026 in different police station areas of Dhaka. [@1,3] Additional Deputy
 Commissioner Niaz Mehdi of the DMP's Media and Public Relations Division gave
 the figures on Friday 20 November. [@2]
 
-Officers seized 33 kg 2 g of ganja during the drives. [@1,3] The same drives
+Officers seized 33 kg 2 g of ganja during the drives. [@1,3,4] The same drives
 recovered 5,720 yaba tablets and five bottles of country liquor, which are
-excluded from the cannabis figures. [@1,3] Police also seized two hand bombs,
+excluded from the cannabis figures. [@1,3,4] Police also seized two hand bombs,
 eight knives, two cleavers, a ramda and an auto-rickshaw, plus 111 mobile
-phones. [@1,3] One victim was rescued during the drives. [@1,3]
+phones. [@1,3,4] One victim was rescued during the drives. [@1,3,4]
 
 Mirpur division recorded the most arrests, with 103, followed by Tejgaon with
 63, Uttara with 53, Wari with 52, Lalbagh with 50, Gulshan with 48, Motijheel
-with 47, Ramna with 40 and the Detective Branch with 18. [@1,3] Police said legal
-proceedings against those arrested were under way. [@1,3]
+with 47, Ramna with 40 and the Detective Branch with 18. [@1,3,4] Police said legal
+proceedings against those arrested were under way. [@1,3,4]
