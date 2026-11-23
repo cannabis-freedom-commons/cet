@@ -74,6 +74,11 @@ sources:
     publisher: Janta Se Rishta
     date: 2026-11-20
     language: hi
+  - title: कुम्हारी में गांजा बिक्री का आरोप 1.516 किलोग्राम गांजा जब्त किया
+    url: https://www.bhaskar.com/local/chhattisgarh/durg-bhilai/news/accused-of-selling-marijuana-in-kumhari-1516-kg-marijuana-seized-dbp-139749434.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-21
+    language: hi
 open_questions:
   - No plea, charge sheet or court outcome was reported; the accused was produced in court after his arrest.
   - The 6.315 kilograms of ganja in crime number 293/2026 come from an earlier case and are not counted in this report's figures.
@@ -84,10 +89,10 @@ open_questions:
 
 Kumhari police in Durg district stopped a man near a banyan tree by the DMC
 ruins on 20 November 2026 after a tip-off that he was looking for customers to
-sell ganja to. [@1] Officers surrounded him in front of witnesses and arrested
+sell ganja to. [@1,3] Officers surrounded him in front of witnesses and arrested
 him; he was identified as Lakshman Jagt, 34, a resident of Rup Nagar in Kumhari.
 [@1] They found 1.516 kilograms of ganja on him, which police valued at about
-75,000 rupees. [@1] Police also seized 26,340 rupees in cash they said came from
+75,000 rupees. [@1,3] Police also seized 26,340 rupees in cash they said came from
 selling ganja, putting the total value of the ganja and cash seized at 101,340
 rupees. [@1]
 
@@ -101,4 +106,3 @@ after the legal formalities. [@1]
 
 Janta Se Rishta reported the same seizure: 1 kilogram 516 grams of ganja and
 26,340 rupees in cash recovered from the accused in Kumhari. [@2]
-
