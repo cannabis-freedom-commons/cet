@@ -155,10 +155,12 @@ sources:
     language: es
 open_questions:
     - Endesa's tally of 60 illegal connections covers both streets and does not say how many supplied the cannabis plantations.
+    - The approximately 200 kilograms is a police estimate of the drug seized that includes plants still growing, so it is not a net weight separate from the 3,400 plants.
+    - No charges, court appearance or detention order for the nine detainees has been reported.
 ---
 
 Spain's Policía Nacional arrested nine people on the morning of 18 November 2026
-in Los Almendros, a neighbourhood of Almería. [@1,4] The nine detainees remained in police custody on 19 November while investigators completed the proceedings, before they were to be handed to the judicial authority. [@11] All nine detainees were
+in Los Almendros, a neighbourhood of Almería. [@1,4] About 60 officers took part in the raid, Ideal reported. [@4] The nine detainees remained in police custody on 19 November while investigators completed the proceedings, before they were to be handed to the judicial authority. [@11] All nine detainees were
 Spanish nationals. [@1,4,9] Officers entered and searched six homes in the
 neighbourhood that were being used to grow cannabis. [@1,4,5,6,7,8,9,11,12] The operation, named
 Especia, was directed by Grupo 2 of the UDYCO Alborán, the drug and
@@ -168,7 +170,7 @@ for high-tension neighbourhoods. [@2,5,6,7,10,11]
 
 Police seized 3,400 marijuana plants. [@1,4,5,6,7,8,9,10,11,12] The Provincial Police Station put the
 weight of the plants seized at about 200 kilograms. [@1,5,7,8,12] The haul included
-marijuana being dried, buds and hashish. [@1,5,6,7,8,9,11,12] The weight was a first estimate
+marijuana being dried, buds and hashish. [@1,2,5,6,7,8,9,11,12] The weight was a first estimate
 calculated by the operation itself. [@3,5,6,11] Officers also seized a short firearm, 9
 mm Parabellum ammunition and 4,000 euros in cash. [@1,4,5,9,11,12] They took away equipment
 used to grow the drug. [@1,5,8,11]
