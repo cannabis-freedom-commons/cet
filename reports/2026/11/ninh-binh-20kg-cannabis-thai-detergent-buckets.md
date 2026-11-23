@@ -136,18 +136,23 @@ sources:
     publisher: Đời sống và Pháp luật
     date: 2026-11-22
     language: vi
+  - title: Bắt giữ đối tượng giấu m.a t.u.ý trong bột giặt nhập ngoại
+    url: https://nghean24h.vn/bat-giu-doi-tuong-giau-ma-tuy-trong-bot-giat-nhap-ngoai-a787943.html
+    publisher: Nghệ An 24h
+    date: 2026-11-22
+    language: vi
 ---
 
 Police in Ninh Bình province arrested Lê Xuân Hưng, born in 1999, who comes from
 Tân Phú commune in Nghệ An province and was renting accommodation in Ý Yên
-commune, Ninh Bình province. [@1,3,4,5,6,7,9,10,11] Hưng had one previous conviction for illegally
+commune, Ninh Bình province. [@1,3,4,5,6,7,9,10,11,12] Hưng had one previous conviction for illegally
 trading narcotic substances and had completed that prison sentence on 29 April
-2024. [@1,3,4,5,6,7,9,11] The cannabis was supplied by a person living in Thailand, and Hưng received the shipments, hid and divided the drug and delivered it to buyers on the supplier's instructions, taking an agreed share of the money after each deal. [@6,11] At about 02:00 on 21 November 2026 the provincial drug crime
+2024. [@1,3,4,5,6,7,9,11,12] The cannabis was supplied by a person living in Thailand, and Hưng received the shipments, hid and divided the drug and delivered it to buyers on the supplier's instructions, taking an agreed share of the money after each deal. [@6,11,12] At about 02:00 on 21 November 2026 the provincial drug crime
 investigation office, with the Ministry of Public Security's drug crime
 department, customs officers and provincial forensic officers, broke up a ring
 that took cannabis from Thailand to Ninh Bình for sale. [@1,3,5,7,8,9,11] The operation on 21 November 2026 was carried out with Nam Định Customs and the customs control team of the regional customs branch IV, alongside the Ministry of Public Security's drug crime department and provincial forensic officers. [@4] Officers seized 20
 kg of cannabis that had been hidden inside buckets of imported Thai laundry
-detergent. [@1,3,4,5,7,9,10,11]
+detergent. [@1,3,4,5,7,9,10,11,12]
 
 Investigators said the cannabis was supplied by a person living in Thailand, and
 that Hưng received shipments from Thailand, stored them, divided them up and
