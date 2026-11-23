@@ -48,11 +48,16 @@ sources:
     url: https://wlos.com/news/local/fentanyl-meth-mdma-seized-search-rutherford-county-western-north-carolina
     publisher: WLOS
     date: 2026-11-15
+  - title: 'COURT REPORT: Third drug case filed against Forest City man in 23 days'
+    url: https://anniedance.substack.com/p/court-report-third-drug-case-filed-in-23-days
+    publisher: Cops & Congress
+    date: 2026-11-22
 open_questions:
   - No separate weight, plant count or value for the seized marijuana was published.
   - No house number for the Piney Ridge Road apartment was published; the location is given only as an apartment on that road.
   - No court date, plea or trial outcome was reported; the sheriff's office described the investigation as ongoing with further charges and arrests anticipated.
   - The account rests on a single WLOS report of the sheriff's office statement; no independent second account with additional detail was opened.
+  - A later account citing court records says a $50,000 secured bond was posted in this case on 16 November 2026, while the sheriff's office said Porter was held without bond after his 12 November arrest.
 ---
 
 The Rutherford County Sheriff's Office said deputies from its Road Patrol
@@ -72,7 +77,6 @@ The sheriff's office said Porter was charged with possession with intent to
 manufacture, sell or deliver marijuana. [@1] Porter was also charged with
 maintaining a dwelling for the purpose of keeping or selling controlled
 substances. [@1] Porter was also charged with possession of drug paraphernalia.
-[@1] Porter was held in custody without bond after his arrest. [@1] The
+[@1] Porter was held in custody without bond after his arrest. [@1] Court records show a $50,000 secured bond was posted for Porter on 16 November 2026 in this case. [@2] The
 sheriff's office said the investigation was ongoing and additional charges and
-arrests were anticipated. [@1]
-
+arrests were anticipated. [@1] The Piney Ridge Road case was one of three Rutherford County drug cases pending against Porter by 22 November 2026. [@2]
