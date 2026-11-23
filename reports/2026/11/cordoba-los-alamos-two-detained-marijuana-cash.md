@@ -57,25 +57,36 @@ sources:
     publisher: El Diario de Carlos Paz
     date: 2026-11-21
     language: es
+  - title: Fueron detenidos en un control policial con marihuana y dinero
+    url: https://www.cba24n.com.ar/cordoba/fueron-detenidos-en-un-control-policial-con-marihuana-y-dinero_a6b01a5ba881d8f08e2d08eb4
+    publisher: Cba24n
+    date: 2026-11-21
+    language: es
 open_questions:
   - No weight was published for the 14 envelopes of marijuana, so no cannabis weight is recorded.
   - The cash is given only as 'more than 139,000 pesos'; the exact sum is not stated.
   - Both accounts date the operation to 'Friday' and were published on Saturday 21 November 2026, so 20 November is inferred.
   - No charges or court outcome were reported; the men were placed at the disposal of the magistrate.
   - The two outlets reproduce the same police account and are not independent reporting.
+media:
+  - kind: photo
+    url: https://www.cba24n.com.ar/cordoba/fueron-detenidos-en-un-control-policial-con-marihuana-y-dinero_a6b01a5ba881d8f08e2d08eb4
+    media_url: https://srt-assets.tadevel-cdn.com/6b01a5eb881d8f08e2d09027/540.avif
+    publisher: Cba24n
+    caption: 'Córdoba police handout photo published with the report of the Los Álamos vehicle check. Photo: Policía de Córdoba'
 ---
 
 Two adult men were detained on Friday in barrio Los Álamos, in the city of
 Córdoba, during a police check that ended with the seizure of drugs, cash and a
-vehicle. [@1,3] The operation took place on Friday afternoon on avenida Florencio
-Parravicini at number 3700. [@2] Officers carrying out a preventive patrol
-intercepted the Ford Focus in which the suspects were travelling. [@1] Police
+vehicle. [@1,3,4] The operation took place on Friday afternoon on avenida Florencio
+Parravicini at number 3700. [@2,4] Officers carrying out a preventive patrol
+intercepted the Ford Focus in which the suspects were travelling. [@1,4] Police
 said the car had left barrio General Savio before uniformed officers decided to
 check it. [@2]
 
 Inspecting the vehicle, officers found a jar holding 14 envelopes of picadura de
 marihuana, shredded marijuana for smoking, two metal grinders and more than
-139,000 pesos in cash. [@1,3] They also seized a mobile phone and the Ford Focus
+139,000 pesos in cash. [@1,3,4] They also seized a mobile phone and the Ford Focus
 itself. [@1] Police called on the Fuerza Policial Antinarcotráfico, the FPA
 anti-drug force, to help with the procedure. [@1,3]
 
