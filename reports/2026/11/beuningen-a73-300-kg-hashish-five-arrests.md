@@ -129,6 +129,11 @@ sources:
     publisher: Brabants Dagblad
     date: 2026-11-20
     language: nl
+  - title: Vijf mannen aangehouden na politieactie op A73 bij Beuningen, ruim 300 kilo hasj gevonden
+    url: https://drimble.nl/regio/gelderland/nijmegen/108662243/vijf-mannen-aangehouden-na-politieactie-op-a73-bij-beuningen-ruim-300-kilo-hasj-gevonden.html
+    publisher: Drimble.nl
+    date: 2026-11-20
+    language: nl
 open_questions:
     - The police described the find as 'ruim 300 kilo' (just over 300 kilograms); no exact measured weight was published.
     - 'The accounts place the search differently: the police said the hidden compartment was found in a vehicle in Oosterhout, while NOS reported the lorry was searched at the police station in Nijmegen.'
@@ -138,7 +143,7 @@ open_questions:
 ---
 
 Dutch police arrested five men on suspicion of money laundering and drug
-possession. [@1,2,5,7,8,9,10,11,13] The five arrests were made on Thursday 19 November 2026. [@2,5,6,7,8]
+possession. [@1,2,5,7,8,9,10,11,13,14] The five arrests were made on Thursday 19 November 2026. [@2,5,6,7,8,14]
 The operation began around 20:00 when an automatic number-plate recognition
 alert flagged a vehicle, and after the driver ignored a stop sign a short chase
 ended on the A73 at Beuningen where the driver and passenger were arrested. [@2,5,9,12,13]
