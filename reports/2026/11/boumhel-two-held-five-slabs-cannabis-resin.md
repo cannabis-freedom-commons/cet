@@ -53,28 +53,33 @@ sources:
     publisher: JawharaFM
     date: 2026-11-21
     language: ar
+  - title: 'Ben Arous : arrestation de deux dealers et saisie de cinq plaquettes de cannabis'
+    url: https://www.nessma.tv/fr/nationale/actu/ben-arous-arrestation-de-deux-dealers-et-saisie-de-cinq-plaquettes-de-cannabis/602804
+    publisher: Nessma
+    date: 2026-11-21
+    language: fr
 open_questions:
-  - No weight was published for the five slabs of cannabis resin, so no kilogram figure is recorded.
-  - No separate calendar date was given for the raid; 21 November 2026 is the publication date and the day the security source spoke to Tunisia Afrique Presse, described in the agency account as Saturday.
-  - It was not reported whether the two detainees were formally charged, nor what court outcome followed.
-  - All three accounts reproduce the same Tunisia Afrique Presse statement and are not independent reporting.
+    - No weight was published for the five slabs of cannabis resin, so no kilogram figure is recorded.
+    - No separate calendar date was given for the raid; 21 November 2026 is the publication date and the day the security source spoke to Tunisia Afrique Presse, described in the agency account as Saturday.
+    - It was not reported whether the two detainees were formally charged, nor what court outcome followed.
+    - The French-language account names the resin zitouna while the Arabic accounts call it zatla; both describe five slabs of cannabis.
+    - All the accounts reproduce the same Tunisia Afrique Presse statement and are not independent reporting.
 ---
 
 Officers from the research and inspection unit of Tunisia's National Guard in
 Ben Arous arrested two men in Boumhel after receiving information that they were
 dealing drugs and frequenting a residential neighbourhood there, catching them
-in an ambush after they tried to flee. [@1] The account was given by an informed
+in an ambush after they tried to flee. [@1,4] The account was given by an informed
 source to the Tunisia Afrique Presse news agency on the Saturday of publication.
 [@2]
 
 A search of the two men turned up five slabs of Indian hemp, a cannabis resin
-known locally as zatla. [@1] Officers also seized a car they suspected had been
-used to transport narcotics. [@1] During questioning the two men confessed to
-the acts attributed to them. [@1] Jawhara FM published the same account of five
+known locally as zatla. [@1,4] Officers also seized a car they suspected had been
+used to transport narcotics. [@1,4] During questioning the two men confessed to
+the acts attributed to them. [@1,4] Jawhara FM published the same account of five
 slabs of Indian hemp and the detention of two dealers. [@3]
 
 The public prosecutor at Ben Arous Court of First Instance authorised their
-continued detention on suspicion of drug trafficking. [@1] The operation was
+continued detention on suspicion of drug trafficking. [@1,4] The operation was
 part of continuing security efforts against drug trafficking and distribution.
-[@1]
-
+[@1,4]
