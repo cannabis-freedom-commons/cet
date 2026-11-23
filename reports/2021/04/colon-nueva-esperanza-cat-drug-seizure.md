@@ -26,6 +26,16 @@ media:
     media_url: https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2021/04/c2d9a68a834e97f98e59cb764ff3f97d-image_doc-98942q-data.jpg?ver=f6012aca
     publisher: SWI swissinfo.ch
     caption: 'The cat intercepted with a bag of drugs near a prison in Colón. Photo: AFP'
+  - kind: photo
+    url: https://www.tunota.com/mundo/narcogato-es-detenido-en-panama-caminaba-con-droga-hacia-una-carcel
+    media_url: https://www.tunota.com/wp-content/uploads/2021/04/narcogato-es-detenido.png
+    publisher: TuNota
+    caption: 'Photo of the ''narcogato'' intercepted carrying suspected drugs toward Nueva Esperanza prison in Colón. Photo: Milenio, via TuNota'
+  - kind: photo
+    url: https://www.tunota.com/mundo/narcogato-es-detenido-en-panama-caminaba-con-droga-hacia-una-carcel
+    media_url: https://www.tunota.com/wp-content/uploads/2021/04/detienen-narcogato-panama-caminaba-droga-1024x637.jpg
+    publisher: TuNota
+    caption: 'Photo of the packages of suspected drugs, including white powder, found on the cat intercepted near Nueva Esperanza prison. Photo: Milenio, via TuNota'
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 1e695f53e5886700aaa8b4362ac0fa88
@@ -51,29 +61,28 @@ sources:
     publisher: SWI swissinfo.ch
     date: 2021-04-18
     language: es
-open_questions:
-  - The sources differ on the number and description of the packages, and the suspected substances were not reported as laboratory-confirmed.
-  - No amount or weight for the suspected cannabis was published.
-  - No human suspect was identified or reported arrested, and the investigation's outcome was not reported.
-  - 'Left out, as its quotation was not found in Cáñamo: Rodríguez told Telemetro that the six packets might comprise four bags of cocaine, one of crack and one of marijuana.'
+  - title: '"Narcogato" es detenido en Panamá; caminaba con droga hacia una cárcel'
+    url: https://www.tunota.com/mundo/narcogato-es-detenido-en-panama-caminaba-con-droga-hacia-una-carcel
+    publisher: TuNota
+    date: 2021-04-17
+    language: es
 ---
 
 A cat carrying a bag of suspected drugs was intercepted outside a prison in
 Colón on 16 April 2021. [@4] Prison guards and police caught it near the
-perimeter of Nueva Esperanza prison as it headed toward the fence. [@1] The cat
+perimeter of Nueva Esperanza prison as it headed toward the fence. [@1,5] The cat
 was caught at a section of perimeter fence bordering Cuerpo de Bomberos
-facilities. [@2] The prison held more than 1,700 prisoners. [@1]
+facilities. [@2] The prison held more than 1,700 prisoners. [@1,5]
 
 Panama's prison-system director Andrés Gutiérrez said a cloth tied around the
-cat's neck held packages containing plant material and white powder. [@1] Colón
+cat's neck held packages containing plant material and white powder. [@1,5] Colón
 and Guna Yala drug prosecutor Eduardo Rodríguez said the substances might
-include marijuana alongside cocaine and crack. [@1]
+include marijuana alongside cocaine and crack. [@1,5]
 
 After evidence was collected, authorities handed the cat to an animal-protection
-foundation. [@3] The Fiscalía de Drogas de Colón y Guna Yala opened an
+foundation. [@3,5] The Fiscalía de Drogas de Colón y Guna Yala opened an
 investigation into the use of animals to carry illicit substances into Nueva
-Esperanza. [@1] Authorities suspected that people inside prisons might use food
-to lure animals back carrying drugs. [@1] Experts warned that drugs could be
+Esperanza. [@1,5] Authorities suspected that people inside prisons might use food
+to lure animals back carrying drugs. [@1,5] Experts warned that drugs could be
 attached to animals outside a prison or placed on them inside prison blocks.
-[@1]
-
+[@1,5]
