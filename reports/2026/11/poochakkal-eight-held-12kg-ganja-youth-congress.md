@@ -1,0 +1,93 @@
+---
+code: J01BW9
+added_at: "2026-11-23T16:26:31.816539Z"
+date: 2026-11-21
+country: in
+place: Makkekadavu junction, Poochakkal, near Cherthala, Alappuzha district, Kerala
+coordinates: [9.7952, 76.3545]
+precision: locality
+type: arrest
+also: [seizure]
+title: Eight held with 12 kg of ganja in Poochakkal; Youth Congress worker among them
+summary: >-
+  Police in Poochakkal, Alappuzha district, arrested eight men after a car check at Makkekadavu junction on the night of 21 November 2026 and an earlier check nearby, seizing about 12 kg of ganja in all. One of the arrested, Shemeer, 38, is a Youth Congress worker; all eight were remanded in judicial custody and police were investigating the gang's Palakkad supply line.
+figures:
+  arrested: 8
+  kg_seized: 12
+details:
+  products:
+    - {product: flower, kg: 12}
+  activity: [trafficking, sale]
+  setting: [vehicle]
+  charges: [offences under the Narcotic Drugs and Psychotropic Substances Act]
+  case_stage: investigation
+  date_precision: exact
+  region: Alappuzha
+  part_of: kerala-operation-toofan-five-month-totals-2026
+data_sources:
+  details.activity: [2]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.products: [4]
+  details.setting: [2]
+  figures.arrested: [4]
+  figures.kg_seized: [4]
+status: verified
+created_by_model: swancloud/deepseek-v4.1-flash#max
+submission: 044ce0bbc09256b46439d9caf2d9e93b
+tags: [alappuzha, kerala, poochakkal, ganja, operation-toofan]
+sources:
+  - title: Youth Congress Leader Among Five Arrested in Alappuzha Ganja Seizure
+    url: https://www.lokmattimes.com/national/youth-congress-leader-among-five-arrested-in-alappuzha-ganja-seizure-a001-w02/
+    publisher: Lokmat Times
+    date: 2026-11-22
+  - title: Youth Congress worker among 5 held with 11.6 kg of ganja in Alappuzha
+    url: https://onmanorama.com/kerala/top-news/2026/11/22/five-including-youth-cong-worker-held-with-11-6-kg-ganja-in-alappuzha.html
+    publisher: Onmanorama
+    date: 2026-11-22
+  - title: ഓപ്പറേഷൻ തൂഫാനിൽ കുടുങ്ങി യൂത്ത് കോൺഗ്രസ് നേതാവ്; എട്ടംഗ സംഘം പൂച്ചാക്കലിൽ പിടിയിൽ, വൻ കഞ്ചാവ് വേട്ടയുമായി പൊലീസ്
+    url: https://asianetnews.com/local-news/youth-congress-leader-caught-in-operation-toofan-eight-member-gang-arrested-in-poochakkal-articleshow-p2agi4c
+    publisher: Asianet News
+    date: 2026-11-22
+    language: ml
+  - title: 'ആലപ്പുഴ പൂച്ചാക്കലിൽ വൻ കഞ്ചാവ് വേട്ട: 12 കിലോ കഞ്ചാവുമായി യൂത്ത് കോൺഗ്രസ് നേതാവടക്കം എട്ട് പേർ അറസ്റ്റിലായി'
+    url: https://mathrubhumi.com/news/kerala/alappuzha-poochakkal-cannabis-bust-youth-congress-leader-arrested-v063g9tr
+    publisher: Mathrubhumi
+    date: 2026-11-22
+    language: ml
+open_questions:
+  - English-language wire reports counted five arrests and 11.6 kg from the car, while the Malayalam accounts counted eight arrests and put the total at 12 to 13 kg once the earlier Palliveli check is included; this report uses eight arrests and the 12 kg total given by Mathrubhumi.
+  - 'Sources differ on Shameer''s standing in the party: IANS described him as an office-bearer of the Congress mandalam committee, while district Youth Congress leaders said he held no post and had been inactive for months.'
+  - The IANS account dates the arrests to Sunday while describing a check late on Saturday night; its own detail and other reports place the interception at 10.50 pm on Saturday 21 November 2026.
+  - No value or street price was published for the ganja.
+  - Police did not name the Palakkad supplier or report further arrests, and no charge sheet, bail hearing or trial date has been reported.
+  - 'Left out, as its quotation was not found in Asianet News: The checks were carried out by the Alappuzha district anti-narcotics squad, DANSAF, and Poochakkal police under the Cherthala deputy superintendent of police.'
+  - Left out agencies, as its quotation was not found in Asianet News.
+  - Left out agency types, as its quotation was not found in Asianet News.
+---
+
+Eight men were arrested in the case, among them a local Youth Congress leader.
+[@4] The five occupants of a car stopped at Makkekadavu junction in Poochakkal
+were found with 11.6 kg of ganja packed in bags. [@3] The car was intercepted at
+about 10.50 pm on Saturday while it travelled from Cherthala to Arookutty. [@2]
+Earlier that evening, at about 4 pm, three other men were arrested with 1.270 kg
+of ganja near Palliveli junction, and questioning them led police to the car.
+[@3] One of them, Shemeer, 38, is a Youth Congress worker from Manappuram whose
+social media accounts show photographs with party leaders. [@2] District Youth
+Congress leaders said he had been inactive for months and held no post in the
+organisation. [@2] Shameer was reportedly involved in the election campaign of
+Kerala Assembly Deputy Speaker Shanimol Usman. [@1]
+
+Police said the men had bought a large quantity of ganja in Palakkad and were
+selling it in smaller quantities to users in Kochi. [@2] All eight were produced
+before a magistrate and remanded in judicial custody. [@3] Shemeer complained of
+chest discomfort and was taken to Ernakulam General Hospital. [@2] Poochakkal
+police registered a case under the Narcotic Drugs and Psychotropic Substances
+Act. [@1] Investigations were continuing to establish each man's role in the
+alleged transport. [@1]
+
+The arrests came during Operation Toofan, Kerala's statewide anti-drug campaign.
+[@1] By 13 November, Kerala Police said they had arrested 16,203 people and
+registered nearly 15,000 cases under the campaign, seizing over two tonnes of
+ganja statewide. [@1]
+
