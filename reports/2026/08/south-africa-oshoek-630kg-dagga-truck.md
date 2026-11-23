@@ -28,6 +28,11 @@ media:
     media_url: https://eswatinipositivenews.online/wp-content/uploads/2026/08/00-161.png
     publisher: Eswatini Positive News
     caption: 'A truck loaded with tyres and yellow-wrapped packages from the Oshoek dagga seizure, published with the article. Photo: Eswatini Positive News'
+  - kind: photo
+    url: https://www.citizen.co.za/news/south-africa/crime/mpumalanga-police-seize-dagga-haul-oshoek-border/
+    media_url: https://media.citizen.co.za/wp-content/uploads/2026/08/Eswatini-Daga.jpg
+    publisher: The Citizen
+    caption: 'A Volvo truck and trailer loaded with 49 bags of dagga seized at the Oshoek Port of Entry, in a police handout picture. Photo: Saps via The Citizen'
 details:
   activity: [possession]
   agencies: [za-saps]
@@ -70,19 +75,26 @@ sources:
     publisher: Eswatini Positive News
     date: 2026-08-17
     language: en
+  - title: Mpumalanga police seize R4m dagga haul coming into SA from Eswatini
+    url: https://www.citizen.co.za/news/south-africa/crime/mpumalanga-police-seize-dagga-haul-oshoek-border/
+    publisher: The Citizen
+    date: 2026-08-18
+    archived: https://web.archive.org/web/20260819144624id_/https://www.citizen.co.za/news/south-africa/crime/mpumalanga-police-seize-dagga-haul-oshoek-border/
+open_questions:
+    - Whether the suspect appeared in court, and what became of the case, is not reported.
 ---
 
 Mpumalanga police arrested a truck driver for possession of dagga, the South
 African term for cannabis, at the Oshoek Port of Entry on the border with the
 Kingdom of Eswatini. [@1,3] The arrest took place at about 1:30am on Monday, 17
 August 2026, on the South African arrival side from the Kingdom of Eswatini.
-[@2,4] The suspect was subsequently arrested and detained at Hartebeeskop SAPS.
+[@2,4,5] The suspect was subsequently arrested and detained at Hartebeeskop SAPS.
 [@1,4] The suspect is expected to appear in court on a charge of dealing in dagga.
-[@2,4]
+[@2,4,5]
 
 During the search, police discovered 49 bags containing suspected dagga with a
-combined weight of approximately 630 kg. [@1,3,4] Police estimated the consignment's street value at more than R4 million. [@4] The seized truck, a Volvo horse
+combined weight of approximately 630 kg. [@1,3,4,5] Police estimated the consignment's street value at more than R4 million. [@4,5] The seized truck, a Volvo horse
 and trailer with Kingdom of Eswatini registration and reportedly belonging to a
-logistics company based in the Kingdom of Eswatini was also seized. [@1,4]
+logistics company based in the Kingdom of Eswatini was also seized. [@1,4,5]
 
-Mpumalanga police spokesperson Mpho Nonyane-Mpe said the search was carried out by officials on search duties, and that police were still establishing the consignment's origin and intended destination and whether other people were linked to the drug trade. [@3]
+Mpumalanga police spokesperson Mpho Nonyane-Mpe said the search was carried out by officials on search duties, and that police were still establishing the consignment's origin and intended destination and whether other people were linked to the drug trade. [@3,5] Lieutenant General Apaphia Modise, the provincial commissioner of police in Mpumalanga, welcomed the arrest and seizure. [@5] Modise said traffickers often tried their luck at the province's borders to carry out their criminal activities. [@5]
