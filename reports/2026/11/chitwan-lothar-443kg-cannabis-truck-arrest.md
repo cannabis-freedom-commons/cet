@@ -61,6 +61,10 @@ sources:
     publisher: Ratopati Hindi
     date: 2026-11-20
     language: hi
+  - title: Police seize 443kg of marijuana hidden in Indian truck, arrest two
+    url: https://thehimalayantimes.com/ampArticle/1040962
+    publisher: The Himalayan Times
+    date: 2026-11-20
 media:
   - kind: photo
     url: https://hindi.ratopati.com/story/41312/443-kg-of-marijuana-smuggled-into-indian-container-through-false-bottom-seized-in-chitwan
@@ -72,17 +76,17 @@ open_questions:
 ---
 
 Police arrested two Indian nationals in Chitwan after recovering 443 kilograms
-of cannabis concealed in a false compartment of an Indian container truck. [@1,2,3,4,5]
+of cannabis concealed in a false compartment of an Indian container truck. [@1,2,3,4,5,6]
 The arrests were made during a vehicle inspection at a police checkpoint in
-Lothar, Rapti Municipality-1, Chitwan. [@1,2,3,4,5] The vehicle inspection took place on a Friday. [@2,3] The driver was 24-year-old Satyam
-Kumar, a resident of Charkhaje in India's Vaishali district. [@1,2,5] The co-driver
+Lothar, Rapti Municipality-1, Chitwan. [@1,2,3,4,5] The vehicle inspection took place on a Friday. [@2,3] The inspection took place at about 9 a.m. [@6] The driver was 24-year-old Satyam
+Kumar, a resident of Charkhaje in India's Vaishali district. [@1,2,5,6] The co-driver
 was 20-year-old Raunak Kumar, from Baban Ghat in the same district. [@1,2,5]
 
 A joint police team from the Bhandara Area Police Office and the Lothar
 Temporary Police Post stopped the truck, which bore Indian registration number
-NL 0107792 and was travelling from Hetauda towards Chitwan. [@1,5] During the
+NL 0107792 and was travelling from Hetauda towards Chitwan. [@1,5,6] During the
 inspection officers found the 443 kilograms of cannabis hidden in a false
-compartment built into the cabin behind the driver's seat. [@1,2,3,4,5]
+compartment built into the cabin behind the driver's seat. [@1,2,3,4,5,6]
 
 Police said further investigation was under way into the alleged trafficking and
 trade of cannabis. [@1,5] Police said both suspects faced further investigation and legal proceedings under the Narcotic Drugs (Control) Act, 2033. [@3] The officer said an FIR was registered in the case and the necessary legal action was under way. [@2] Chitwan police DSP and information officer Chandra Bhushan Yadav said the two arrested Indian nationals were planning to take a ganja consignment into India. [@2]
