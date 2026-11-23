@@ -48,31 +48,30 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-21
     language: hi
-open_questions:
-  - The check is dated only as Friday evening around 8 pm in the Hindustan account, which was published on Saturday 21 November 2026, so 20 November is used as the approximate incident date.
-  - Hindustan describes the 1 kg 535 g as the weight of the packets in the yellow bag including their foil wrapping and separately mentions two more transparent packets of ganja from the trouser pocket without a separate weight; Dainik Bhaskar reports a single total of 1.535 kg.
-  - No value or estimate for the seized ganja was published.
-  - No charge sheet, court appearance or outcome beyond the case registration and jail custody was reported.
+  - title: 'Balrampur News: 1.535 किलो गांजे के साथ युवक गिरफ्तार, दो मोबाइल बरामद'
+    url: https://www.livehindustan.com/uttar-pradesh/balrampur/story-balrampur-police-arrest-youth-with-1-535-kg-of-cannabis-201795258239549.html
+    publisher: Live Hindustan
+    date: 2026-11-21
+    language: hi
 ---
 
 Kotwali Nagar police in Balrampur, Uttar Pradesh, arrested a youth with ganja
 near Murlipur-Mewalal Bandh and seized 1.535 kg of ganja and two mobile phones.
-[@1] Hindustan identified him as Manoj Kumar, 22, a resident of Dhandhara
-Shivpura village in the Lalia police station area. [@2] A police team was
-checking the area around 8 pm on Friday evening. [@2] An informer at Masjid
+[@1,3] Hindustan identified him as Manoj Kumar, 22, a resident of Dhandhara
+Shivpura village in the Lalia police station area. [@2,3] A police team was
+checking the area around 8 pm on Friday evening. [@2,3] An informer at Masjid
 crossing said a youth was selling ganja near a bridge on the embankment leading
-from Murlipur to Mewalal. [@2] The informer pointed out a youth standing with a
-yellow bag, and officers encircled and caught him. [@2]
+from Murlipur to Mewalal. [@2,3] The informer pointed out a youth standing with a
+yellow bag, and officers encircled and caught him. [@2,3]
 
 Officers seized 1 kilogram 535 grams of ganja, meaning cannabis flower, along
-with two Android mobile phones and an Aadhaar card. [@2] The yellow bag held
+with two Android mobile phones and an Aadhaar card. [@2,3] The yellow bag held
 five bundles wrapped in black foil, four small sealed transparent packets and
-one open packet, weighing 1 kg 535 g including the wrapping. [@2] Two mobile
+one open packet, weighing 1 kg 535 g including the wrapping. [@2,3] Two mobile
 phones and two further transparent packets of ganja were recovered from his
-trouser pocket. [@2] Police sealed the recovered items. [@2]
+trouser pocket. [@2,3] Police sealed the recovered items. [@2,3]
 
-The accused could not show a valid licence or documents for selling ganja. [@2]
+The accused could not show a valid licence or documents for selling ganja. [@2,3]
 Police said they told him the NDPS Act provisions and his rights before the
 search and acted on the orders of the station in-charge and the area officer.
-[@2] Police registered a case under the NDPS Act and sent him to jail. [@2]
-
+[@2,3] Police registered a case under the NDPS Act and sent him to jail. [@2,3]
