@@ -43,6 +43,11 @@ media:
     media_url: https://img.belta.by/images/storage/news/with_archive/2026/000023_1795337493_812040_big.png
     publisher: BelTA
     caption: 'Blurred frame from a video by the Brest regional internal affairs directorate, published with its announcement of the case. Source: УВД Брестского облисполкома'
+  - kind: photo
+    url: https://pozirk.online/ru/news/212828/
+    media_url: https://pozirk.online/wp-content/uploads/2026/11/narkotiki_mvd.png
+    publisher: Pozirk
+    caption: 'Still frame from the Interior Ministry video released with the announcement of the Kamenets district marijuana case. Caption: Video: MVD / frame: Pozirk.'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: fcc378f1f431e885db865f903f28c59f
@@ -68,13 +73,11 @@ sources:
     publisher: СБ. Беларусь сегодня
     date: 2026-11-22
     language: ru
-open_questions:
-  - The accounts do not give the date of the detention or the search; 22 November 2026 is their publication date and is used as the incident date.
-  - No figure was published for the number of cannabis plants in the field or for the area cultivated.
-  - The reports do not say whether the field was destroyed or the plants were taken away.
-  - No charge beyond the opening of the criminal case, and no detention measure or court date, was reported.
-  - The weight is given only as 'more than 24 kg'; an exact figure was not published.
-  - Both accounts repeat one statement from the Brest regional police department's press service and are not independent reporting.
+  - title: Житель Каменецкого района задержан за выращивание марихуаны "в промышленных масштабах" — МВД
+    url: https://pozirk.online/ru/news/212828/
+    publisher: Pozirk
+    date: 2026-11-22
+    language: ru
 ---
 
 Drug-control officers of the Brest regional internal affairs directorate
@@ -83,14 +86,14 @@ district. [@1,3] The Brest regional police department said he was suspected of
 growing cannabis in a field next to his house. [@2,3] BelTA reported that the
 cannabis grew in a field not far from his own plot of land. [@1]
 
-A search at the man's home found more than 24 kilograms of marijuana. [@1,4] ONT
+A search at the man's home found more than 24 kilograms of marijuana. [@1,4,5] ONT
 reported that officers discovered the marijuana during a search at the suspect's
 place of residence. [@2]
 
 The villager admitted that he had first sprouted the cannabis from seed at his
-home and then transplanted the plants beyond his own property. [@1,4] The plants
+home and then transplanted the plants beyond his own property. [@1,4,5] The plants
 had been cultivated in open ground in a field. [@1]
 
-He said the marijuana was intended for personal use. [@1,4] Investigators opened a
-criminal case for illegal drug trafficking. [@1,3] The Brest regional internal
+He said the marijuana was intended for personal use. [@1,4,5] Investigators opened a
+criminal case for illegal drug trafficking. [@1,3,5] The Brest regional internal
 affairs directorate announced the arrest through its press service. [@1]
