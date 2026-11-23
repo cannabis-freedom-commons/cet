@@ -63,6 +63,11 @@ sources:
     publisher: BanglarAloNews
     date: 2026-11-20
     language: bn
+  - title: রাজশাহীতে মাদকবিরোধী অভিযানে নারীসহ গ্রেপ্তার ৭
+    url: https://padmatimes24.com/711734/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80-%E0%A6%85%E0%A6%AD-5/
+    publisher: Padmatimes24
+    date: 2026-11-20
+    language: bn
 ---
 
 Rajshahi Metropolitan Police arrested seven people, including a woman, in
@@ -72,9 +77,9 @@ Thursday 19 November 2026, and Boalia thana police on the night before,
 according to a statement issued from RMP headquarters on 20 November. [@1]
 Rajpara thana police arrested four men at Dingadoba Mozammel's Mor at about 6:45
 pm on 19 November. [@1] Officers seized 355 grams of ganja, two yaba tablets and
-two tapentadol tablets from the four. [@1,3] Police described one of the four,
+two tapentadol tablets from the four. [@1,3,4] Police described one of the four,
 Ismail Hossain alias Sabuj, 32, as a professional drug trader with four
-narcotics cases and one penal code case at Rajpara thana. [@1]
+narcotics cases and one penal code case at Rajpara thana. [@1,4]
 
 Shahmakhdum thana police arrested Liton, 35, at the Kuchpara four-road junction
 at about 4:30 pm the same day and seized 70 tapentadol tablets kept for sale.
@@ -82,7 +87,7 @@ at about 4:30 pm the same day and seized 70 tapentadol tablets kept for sale.
 at about 8:30 pm the same night and seized 35 tapentadol tablets from her. [@1]
 Boalia thana police arrested Maniur Rahman, 35, near the Dhaka bus stand at
 Shiroil at about 11:30 pm on 18 November and seized three yaba tablets from him.
-[@1]
+[@1,4]
 
 Separate cases were filed under the Narcotics Control Act at the relevant thanas
-and all seven were sent to jail through the courts. [@1,3]
+and all seven were sent to jail through the courts. [@1,3,4]
