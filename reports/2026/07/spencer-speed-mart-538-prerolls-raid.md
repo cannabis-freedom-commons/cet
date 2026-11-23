@@ -32,6 +32,16 @@ media:
     media_url: https://gray-wsmv-prod.gtv-cdn.com/resizer/v2/OWQFWDECFJEZLPUISVRXBH6AJM.jpg?auth=0fdc995fd1318d89c1fef26e5b43c45864a34fcbc46712749cc23e5cc29f9b6d&width=1300&height=630&smart=true
     publisher: WSMV
     caption: 'Seized marijuana products laid out after the raid. Photo: Van Buren County Sheriff''s Office (VBSO)'
+  - kind: photo
+    url: https://fox17.com/news/local/van-buren-county-sheriffs-office-shuts-down-alleged-drug-operation-at-local-liquor-store-thc-vapes-synthetic-kratom-illegal-cannabis-speed-mart-liquors-illegal-thc-products
+    media_url: https://fox17.com/resources/media2/16x9/2240/800/center/80/a56e55a1-3b58-484f-b9de-1184fcf1af81-BRISWEBSITEBANNER45.png
+    publisher: FOX 17 News (WZTV)
+    caption: 'Sheriff''s office photo published with the account of the 16 July 2026 search warrant at Speed Mart Liquors. Photo: Van Buren County Sheriff''s Office'
+  - kind: photo
+    url: https://fox17.com/news/local/van-buren-county-sheriffs-office-shuts-down-alleged-drug-operation-at-local-liquor-store-thc-vapes-synthetic-kratom-illegal-cannabis-speed-mart-liquors-illegal-thc-products
+    media_url: https://fox17.com/resources/media2/16x9/2240/800/center/80/15eb17e2-829e-4e4e-bbe4-0b210a32fd64-BRISWEBSITEBANNER46.png
+    publisher: FOX 17 News (WZTV)
+    caption: 'Second sheriff''s office photo published with the account of the 16 July 2026 search warrant at Speed Mart Liquors. Photo: Van Buren County Sheriff''s Office'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 44c06a4e1b9f6c64afadb320ac7ee69b
@@ -45,6 +55,10 @@ sources:
     url: https://spartalive.com/stories/van-buren-county-investigation-makes-bust,207965
     publisher: Sparta Live
     date: 2026-07-21
+  - title: Illegal synthetic kratom, THC vapes seized from Tennessee liquor store
+    url: https://fox17.com/news/local/van-buren-county-sheriffs-office-shuts-down-alleged-drug-operation-at-local-liquor-store-thc-vapes-synthetic-kratom-illegal-cannabis-speed-mart-liquors-illegal-thc-products
+    publisher: WZTV
+    date: 2026-07-17
 open_questions:
   - No weight was published for the 538 pre-rolls or 26 THC vapes, so no kilogram figure can be recorded.
   - Cash is reported as approximately $20,300 in one account and $20,307 in the other; the report uses $20,307.
@@ -55,21 +69,20 @@ open_questions:
 
 On 16 July 2026 just after 2 p.m., the Van Buren County Sheriff's Office with
 support from the District Attorney's Office executed a search warrant at Speed
-Mart Liquors at 16972 State Route 111 in Van Buren County. [@2] The joint
+Mart Liquors at 16972 State Route 111 in Van Buren County. [@2,3] The joint
 operation by the sheriff's office and the District Attorney's Office ended with
 charges for the store owner in Spencer. [@1] The store's owners now face drug
 possession with intent to sell or deliver charges, described as possession with
-intent to manufacture, sell or deliver. [@1]
+intent to manufacture, sell or deliver. [@1,3]
 
 During the raid deputies found 538 cannabis/THC pre-rolls and 26 THC vapes
-containing up to 50% THC. [@2] Officers also found 120 units of the synthetic
+containing up to 50% THC. [@2,3] Officers also found 120 units of the synthetic
 kratom substance known as 7-hydroxymitragynine, which is not counted as
-cannabis. [@2] Deputies also seized $20,307 in U.S. currency believed to be
+cannabis. [@2,3] Deputies also seized $20,307 in U.S. currency believed to be
 suspected proceeds and a 2021 BMW X3 used as the conveyance to further the
-illegal activity. [@2]
+illegal activity. [@2,3] The sheriff's office said the cash and the vehicle are subject to seizure as alleged proceeds and instruments of the crime. [@3]
 
 An extensive investigation into the marketing of illegal cannabis/THC products
-led to the warrant and seizures. [@2] The sheriff's office said the effort took
+led to the warrant and seizures. [@2,3] The sheriff's office said the effort took
 thousands of dollars of illegal substances out of the community and helped make
 the community safer. [@2]
-
