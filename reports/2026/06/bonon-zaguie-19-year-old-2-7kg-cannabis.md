@@ -52,6 +52,11 @@ sources:
     publisher: Ivoirematin.com
     date: 2026-06-15
     language: fr
+  - title: Côte d’Ivoire-AIP/ Un présumé trafiquant de drogue interpellé avec du cannabis et du tramadol à Bonon
+    url: https://www.aip.ci/cote-divoire-aip-un-presume-trafiquant-de-drogue-interpelle-avec-du-cannabis-et-du-tramadol-a-bonon/
+    publisher: Agence Ivoirienne de Presse
+    date: 2026-06-21
+    language: fr
 open_questions:
   - No charge was specified; the only court step reported is the Bouaflé prosecutor's committal order, and no trial date or outcome was published.
   - The cannabis was identified only as cannabis; no laboratory confirmation or separate packaging weight was reported.
@@ -64,7 +69,7 @@ open_questions:
 ---
 
 Police in Bonon arrested a 19-year-old man on Sunday 14 June 2026 in possession
-of 2.7 kilograms of cannabis in the town's Zaguié quarter. [@1] The operation
+of 2.7 kilograms of cannabis in the town's Zaguié quarter. [@1,3] The operation
 was led by first-class police commissioner Zuli Bi Boua, head of the Bonon
 police station, under Operation Épervier XI and national police headquarters
 instructions to intensify the fight against drug trafficking, diverted medicines
@@ -76,4 +81,3 @@ Officers surprised a group selling and consuming drugs in the quarter at about
 The suspect, identified only as G. B S.L, unemployed and living in Zaguié,
 admitted in questioning that the cannabis was his and meant for sale, and said
 his supplier lived in a village in the department. [@1]
-
