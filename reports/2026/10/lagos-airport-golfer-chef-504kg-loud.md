@@ -49,6 +49,11 @@ media:
     media_url: https://cdn.punchng.com/wp-content/uploads/2026/11/22110717/HXuExjzWAAA1YHo_1795342037.webp
     publisher: Punch Newspapers
     caption: 'Kenyan chef Abubakar Njambi, in an NDLEA handout photo published with the report. Photo: NDLEA'
+  - kind: photo
+    url: https://berita.rtm.gov.my/global/senarai-berita-global/senarai-artikel/nigeria-tahan-pemain-golf-afrika-selatan-seludup-ganja/
+    media_url: https://berita.rtm.gov.my/wp-content/uploads/2026-NEW/04-Global/11NOV/2211-NIGERIA-GOLFER-BAWA-DADAH.png
+    publisher: Berita RTM
+    caption: 'South African golfer Henlo Grobler (left) and Kenyan chef Faiza Njambi Abubakar, the two suspects in the Lagos airport cannabis seizure. Photo: AFP'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: a78de2054bbaca9959a15f8f19d38a07
@@ -79,29 +84,39 @@ sources:
     url: https://newscentraltv.com/ndlea-arrests-south-african-golfer-kenyan-accomplice/
     publisher: News Central TV
     date: 2026-11-22
+  - title: South African Golfer, Kenyan Chef Arrested By NDLEA For Smuggling 50.4kg Cannabis Into Lagos
+    url: https://saharareporters.com/2026/11/22/south-african-golfer-kenyan-chef-arrested-ndlea-smuggling-504kg-cannabis-lagos
+    publisher: Sahara Reporters
+    date: 2026-11-22
+  - title: Nigeria tahan pemain golf Afrika Selatan seludup ganja
+    url: https://berita.rtm.gov.my/global/senarai-berita-global/senarai-artikel/nigeria-tahan-pemain-golf-afrika-selatan-seludup-ganja/
+    publisher: Berita RTM
+    date: 2026-11-22
+    language: ms
 open_questions:
-  - The two arrests took place on different dates, 11 and 15 October 2026; 11 October, the date of the main seizure, is used as the incident date.
-  - No charges, court date or outcome had been reported for either suspect.
-  - The 50.40kg was reported as a gross weight for the 46 parcels; no separate net weight was given.
-  - The suspect is named both Abubakar Njambi and Abubakar Faiza Njambi across the accounts.
-  - The separate arrest of an American basketballer at the same airport a month later, referenced by NDLEA, is a different event and is not covered here.
+    - The two arrests took place on different dates, 11 and 15 October 2026; 11 October, the date of the main seizure, is used as the incident date.
+    - No charges, court date or outcome had been reported for either suspect.
+    - The 50.40kg was reported as a gross weight for the 46 parcels; no separate net weight was given.
+    - The suspect is named both Abubakar Njambi and Abubakar Faiza Njambi across the accounts.
+    - The separate arrest of an American basketballer at the same airport a month later, referenced by NDLEA, is a different event and is not covered here.
+    - The AFP account carried by Berita RTM gives the payment promised to Henlo as US$280 while Nigerian reports say 5,000 rand; the sources do not reconcile the two figures.
 ---
 
 The National Drug Law Enforcement Agency arrested a 25-year-old Kenyan chef,
 Abubakar Njambi, and a 37-year-old South African professional golfer, Grobler
 Henlo, at Murtala Muhammed International Airport in Ikeja, Lagos, in October
-2026. [@1,4,5,6] A statement issued on Sunday by NDLEA spokesperson Femi Babafemi said
+2026. [@1,4,5,6,7] A statement issued on Sunday by NDLEA spokesperson Femi Babafemi said
 the suspects were arrested at the airport in October. [@3] Henlo arrived from
 South Africa aboard a South African Airways flight on 11 October and was
-intercepted at the Terminal 2 arrival hall. [@1,5] Njambi was arrested at the
+intercepted at the Terminal 2 arrival hall. [@1,5,7] Njambi was arrested at the
 airport's departure boarding gate on Thursday 15 October 2026 as she tried to
-board a flight back to Kenya. [@1,5,6] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5]
+board a flight back to Kenya. [@1,5,6,8] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5]
 
 A search of two travelling boxes in Henlo's possession recovered 46 parcels of
 Loud, described as a potent cannabis strain, with a total weight of 50.40kg.
-[@1,4,5,6] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
+[@1,4,5,6,7] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
 had collected two other boxes bearing his tags from the conveyor belt and left.
-[@1,5,6] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
+[@1,5,6,8] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
 identification of ownership so each courier could deny the boxes if intercepted.
 [@2,5]
 
@@ -115,7 +130,7 @@ Kenya for South Africa on 4 October, met Henlo at the airport there on 11
 October, and after arriving in Lagos collected the boxes bearing his tags. [@1,5] She said a driver then took her to a hotel in the Lekki area of Lagos. [@4]
 Tracking devices had been fitted to the travelling boxes and to Henlo's mobile
 phone, a feature also found in the bags abandoned by an American basketballer a
-month later. [@1,5,6] The claim tag for the boxes bearing Njambi's name was
+month later. [@1,5,6,8] The claim tag for the boxes bearing Njambi's name was
 recovered from her hand luggage, and both suspects identified each other during
 an identification parade. [@1,5,6] NDLEA chairman Mohamed Buba Marwa said the
 arrests, coming in the same period as that of an American basketballer, showed
