@@ -108,19 +108,21 @@ sources:
     publisher: Proyecto 10
     date: 2026-11-21
     language: es
-open_questions:
-    - El Informador and Proyecto 10 place the courier company in colonia San Carlos, while other accounts of the same seizure name colonia Ferrocarril.
-    - El Informador describes an anonymous citizen tip, while the existing account says employees of the courier firm reported the shipment to the 911 line.
+  - title: Aseguran cerca de 400 kilos de aparente marihuana en paquetería de Guadalajara
+    url: https://talajalisconoticias.com/aseguran-cerca-de-400-kilos-de-aparente-marihuana-en-paqueteria-de-guadalajara/
+    publisher: REDTNJalisco
+    date: 2026-11-21
+    language: es
 ---
 
 Jalisco state police seized about 400 kilograms of marijuana at a courier
 company in colonia Ferrocarril, Guadalajara. [@1,7,8,9] Officers found about 558 blocks of suspected marijuana hidden inside the 31 boxes. [@10] The company is at the
-crossroads of avenida Doctor R. Michel and Privada Gabino Barrera. [@2,8,9] A specialised K9 canine unit went to the site to carry out a protocol inspection of the packages. [@9]
+crossroads of avenida Doctor R. Michel and Privada Gabino Barrera. [@2,8,9,11] A specialised K9 canine unit went to the site to carry out a protocol inspection of the packages. [@9,11]
 Employees of the courier firm called the 911 emergency line to report the
 packages. [@4,8] Officers of the vehicle recovery and identification squadron
-found 31 cardboard boxes matching the description in the tip. [@2,7] Inside the
+found 31 cardboard boxes matching the description in the tip. [@2,7,11] Inside the
 parcels were 558 blocks of plant material with the characteristics of marijuana.
-[@2,7] The load weighed about 400 kilograms in total. [@2]
+[@2,7,11] The load weighed about 400 kilograms in total. [@2,11]
 
 The inspection was carried out with canine teams from the K9 unit. [@2,7,8] Shipping
 labels on the boxes said the shipment came from Tlaquepaque and was addressed to
@@ -130,4 +132,4 @@ characteristics of marijuana, weighing 400 kilograms in total. [@5,8]
 
 No detentions had been reported in the case. [@3] The cargo was handed to the
 federal prosecutor's office, which is to establish its origin, destination and
-those responsible. [@2,7,8]
+those responsible. [@2,7,8,11]
