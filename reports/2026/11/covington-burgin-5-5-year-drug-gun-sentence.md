@@ -78,28 +78,36 @@ sources:
     url: https://theshaderoom.com/deondre-burgin-ex-boyfriend-of-former-disney-star-sentenced-to-more-than-five-years-in-prison/
     publisher: The Shade Room
     date: 2026-11-20
+  - title: Skai Jackson’s Baby Daddy Sentenced For 5.5 Years Over Drugs and Glock
+    url: https://www.mandatory.com/celebrities/1897971-skai-jackson-baby-daddy-federal-prison-sentence
+    publisher: Mandatory
+    date: 2026-11-20
+  - title: Skai Jackson’s Baby Daddy Deondre Burgin Gets 5 Years, 6 Months for Drug Trafficking, Gun and Stolen Car
+    url: https://balleralert.com/deondre-burgin-sentenced-gun-drug-crimes
+    publisher: Baller Alert
+    date: 2026-11-20
 open_questions:
     - No weight for the seized marijuana was published, so no cannabis quantity is recorded.
-    - 13 November 2026 is used as the sentencing date because reports published 16 November 2026 say Burgin was sentenced on the preceding Friday.
     - The plea-agreement account dates the stolen-vehicle tracing to July 2024 while the local report says the Hellcat was tracked to Latonia Lakes in April 2025; the report treats these as stages of one investigation.
     - No breakdown of the 5.5-year term by count was reported.
     - The account of Burgin buying the car for $5,000 and running from police rests on the single local report's reading of court papers.
     - A TMZ-derived account puts the recovery of the Glock and marijuana from Burgin's bedroom in July 2025, while the report uses 8 May 2025 for the residence search.
     - 'Accounts differ on the pending Ohio charges: The Shade Room, citing TMZ, calls them separate state charges while other reports describe them as federal charges.'
+    - No outcome in the pending Ohio federal case has been reported.
 ---
 
 Deondre Burgin, 22, of Covington, Kentucky, was sentenced to 5.5 years in
-federal prison on drug, firearm and stolen-vehicle charges. [@3,4,5,6] Burgin was also set to be transferred to the Southern District of Ohio to face separate federal charges. [@4,5,6] Chief U.S.
+federal prison on drug, firearm and stolen-vehicle charges. [@3,4,5,6,7] Burgin was also set to be transferred to the Southern District of Ohio to face separate federal charges. [@4,5,6,8] Chief U.S.
 District Judge David Bunning imposed the sentence on Friday for possession with
 intent to distribute marijuana, possession of a firearm in furtherance of drug
-trafficking and receipt of a stolen motor vehicle. [@2,4,5] He was also ordered to pay a $300 special assessment and $20,000 in restitution and to forfeit a Glock handgun and its ammunition. [@4,5,6] After his release he will serve 5 years of supervised release with drug testing and must take part in a substance abuse or mental health treatment program. [@4,5,6]
+trafficking and receipt of a stolen motor vehicle. [@2,4,5] He was also ordered to pay a $300 special assessment and $20,000 in restitution and to forfeit a Glock handgun and its ammunition. [@4,5,6,7] After his release he will serve 5 years of supervised release with drug testing and must take part in a substance abuse or mental health treatment program. [@4,5,6,8]
 
 According to his plea agreement, law enforcement determined in July 2024 that a
 vehicle reported stolen in Cleveland, Ohio had been sold to a person in Kentucky
 and was later found at Burgin's residence. [@2,6] Authorities tracked a Hellcat
 stolen out of Cleveland in April 2025 to a home in Latonia Lakes. [@1] According
 to court papers, the stolen car had been involved in police pursuits in
-Covington and Cincinnati. [@1] The investigation followed an alleged attack in Cincinnati in June 2025, where two masked people confronted a man near his Mercedes and one struck him with a firearm, leading to an arrest warrant for Burgin. [@5] On 8 May 2025 officers searched Burgin's
+Covington and Cincinnati. [@1] The investigation followed an alleged attack in Cincinnati in June 2025, where two masked people confronted a man near his Mercedes and one struck him with a firearm, leading to an arrest warrant for Burgin. [@5] Federal prosecutors charged Burgin and a co-defendant, Trevor J. Lancaster, in October 2025 over the theft of a Mercedes-Benz in Cincinnati, alleging the men used force and a firearm and caused serious bodily injury to the victim. [@8] On 8 May 2025 officers searched Burgin's
 residence and recovered the stolen vehicle along with large bags of marijuana, a
 loaded handgun fitted with an extended magazine and a drum magazine. [@2,6]
 
