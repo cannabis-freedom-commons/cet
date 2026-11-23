@@ -134,6 +134,10 @@ sources:
     url: https://reporteri.net/en/NEWS/aksion-policor-ne-tri-lokacione-arrestohen-kater-persona-dhe-konfiskohen-afro-15-kilograme-marihuane/
     publisher: Reporteri.net
     date: 2026-11-21
+  - title: Police seize 15 kilograms of marijuana and cocaine, four arrested in Pristina and Gjakova
+    url: https://www.dukagjini.com/en/2026/11/police-seize-15-kilograms-marijuana-cocaine-arrested-pristina-gjakova/
+    publisher: Dukagjini
+    date: 2026-11-20
 open_questions:
     - The police statement gives 14 kg 815 g of suspected marijuana, while Interior Minister Xhelal Sveçla's announcement rounded it to about 15 kilograms.
     - The substance was described only as suspected marijuana, with no laboratory confirmation or net weight reported.
@@ -143,18 +147,18 @@ open_questions:
 ---
 
 Kosovo police arrested four people suspected of drug trafficking in an operation
-codenamed Taslixhe. [@1,5,6,7,8,9,10,11] The four suspects, identified only as SB, FB, NI and Gj.Z., were held for 48 hours on a prosecutor's order. [@11,17] The four people arrested were citizens of Kosovo. [@13,14,16,19] The operation was carried out at different locations in
-Pristina and Gjakova, in coordination with the prosecutor's office. [@3,6,7,8,9,10,11] The operation took place at noon in Pristina, Gjakova and at the Mutivoda border crossing. [@13,14,16,19] The police report dated the operation to 20 November 2026. [@14,19] The police report located the Pristina search on Isa Kastrati street. [@14,19] The first operation was carried out by investigators from the Pristina and Gjakova units of the Drug Trafficking Investigation Directorate, with the Rapid Response Unit and the Mutivoda Border Police. [@11,18]
+codenamed Taslixhe. [@1,5,6,7,8,9,10,11,20] The four suspects, identified only as SB, FB, NI and Gj.Z., were held for 48 hours on a prosecutor's order. [@11,17] The four people arrested were citizens of Kosovo. [@13,14,16,19] The operation was carried out at different locations in
+Pristina and Gjakova, in coordination with the prosecutor's office. [@3,6,7,8,9,10,11,20] The operation took place at noon in Pristina, Gjakova and at the Mutivoda border crossing. [@13,14,16,19] The police report dated the operation to 20 November 2026. [@14,19] The police report located the Pristina search on Isa Kastrati street. [@14,19] The first operation was carried out by investigators from the Pristina and Gjakova units of the Drug Trafficking Investigation Directorate, with the Rapid Response Unit and the Mutivoda Border Police. [@11,18]
 Interior Minister Xhelal Sveçla announced the arrests in a Facebook post. [@2,5,8,9]
 
-Officers seized about 15 kilograms of marijuana during the searches. [@4,5,6,7,8,9,10,11,12] Police put the amount of marijuana seized at 14 kilograms and 815 grams. [@13,15,16,18,19] They
+Officers seized about 15 kilograms of marijuana during the searches. [@4,5,6,7,8,9,10,11,12,20] Police put the amount of marijuana seized at 14 kilograms and 815 grams. [@13,15,16,18,19] They
 also seized an unspecified quantity of cocaine, cash, weapons and ammunition,
-mobile phones and two vehicles. [@2,5,6,7,8,9,10] The police statement also listed two revolvers, 62 cartridges, 9,120 euros, 350 Swiss francs, two cars, four mobile phones and a digital scale. [@11,17] The minister gave no quantity for the
+mobile phones and two vehicles. [@2,5,6,7,8,9,10,20] The police statement also listed two revolvers, 62 cartridges, 9,120 euros, 350 Swiss francs, two cars, four mobile phones and a digital scale. [@11,17] The minister gave no quantity for the
 cocaine, no cash amount and no type or number of weapons. [@1,8,9] The places
 searched and the identities of the four arrested were not published. [@1,9]
 
 No charges had been announced and the prosecutor's office had said nothing
 further about the suspected offences or the next steps in the case. [@1,8,9] Sveçla
 described the operation as part of the institutions' continuing fight against
-organised crime and drug trafficking. [@1,8,9,10] He said the security institutions
+organised crime and drug trafficking. [@1,8,9,10,20] He said the security institutions
 would keep acting to guarantee the rule of law throughout Kosovo. [@2,9]
