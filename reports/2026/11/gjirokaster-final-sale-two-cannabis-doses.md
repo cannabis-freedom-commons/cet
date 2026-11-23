@@ -62,6 +62,11 @@ sources:
     publisher: Shqiptarja.com
     date: 2026-11-21
     language: sq
+  - title: Caught selling cannabis near two schools in Gjirokastra, 29-year-old arrested
+    url: https://www.balkanweb.com/en/A-29-year-old-man-was-arrested-after-being-caught-selling-cannabis-near-two-schools-in-Gjirokaster./
+    publisher: Balkanweb.com
+    date: 2026-11-21
+    language: en
 open_questions:
   - No weight or number of doses was published for the cannabis seized.
   - No separate date was given for the operation; 21 November 2026 is the publication date of the police statement and is used as the incident date.
@@ -73,20 +78,19 @@ open_questions:
 
 Police in Gjirokastër closed an operation they coded Final Sale against the
 criminal activity of selling cannabis in doses near the security perimeter of
-schools. [@1] Officers caught the two near two schools in the city, each
-carrying a small amount of cannabis divided into doses. [@1] They arrested the
+schools. [@1,4] Officers caught the two near two schools in the city, each
+carrying a small amount of cannabis divided into doses. [@1,4] They arrested the
 29-year-old in the act and began a criminal prosecution of the 22-year-old, both
-residents of Gjirokastër. [@2] Shqiptarja.com names the arrested man as Kejvin
+residents of Gjirokastër. [@2,4] Shqiptarja.com names the arrested man as Kejvin
 Kardhashi and the other as Orgito Çako. [@3]
 
 Police seized the cannabis divided into doses, one vehicle and two mobile phones
-as material evidence. [@1]
+as material evidence. [@1,4]
 
 The operation was organized by the Narcotics Investigation Section with the
-Gjirokastër Police Commissariat under the operational plan Clean Schools. [@1]
+Gjirokastër Police Commissariat under the operational plan Clean Schools. [@1,4]
 Police said the operation aimed at preventing and cracking down on drug sales
 near schools. [@1] Police said officers acted on information gathered through
 operational channels. [@1] The procedural materials went to the Prosecutor's
 Office at the Court of General Jurisdiction in Gjirokastër for further action.
 [@1]
-
