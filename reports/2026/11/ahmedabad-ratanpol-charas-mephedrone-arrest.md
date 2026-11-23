@@ -61,6 +61,10 @@ sources:
     publisher: Navjivan
     date: 2026-11-21
     language: gu
+  - title: 'Drug crackdown: 9 held in city in a day'
+    url: https://ahmedabadmirror.com/drug-crackdown-9-held-in-city-in-a-day/81926458.html
+    publisher: Ahmedabad Mirror
+    date: 2026-11-22
 open_questions:
     - No separate date is given for the arrest itself; 21 November 2026 is the publication date of the English account and the Mantavya account and is used as the incident date.
     - The English account values the mephedrone at ₹12,900, while both Gujarati accounts round it to ₹13,000; the ₹680 value for the charas is consistent across all three.
@@ -68,11 +72,12 @@ open_questions:
     - Navjivan puts the combined value of the charas and mephedrone at ₹18,680, which matches neither of those totals.
     - No case number, charge, remand or court outcome was reported; the case remained under investigation.
     - No account says whether the two alleged suppliers were detained or charged.
+    - The Ahmedabad Mirror describes the Rs 33,580 as the value of the charas alone and puts the MD drugs at Rs 13,000, unlike the other accounts, which give Rs 680 for the charas and Rs 33,580 as the total value of all seized property.
 ---
 
 Officers of the Ahmedabad Special Operations Group (SOG) Crime Branch arrested a
 47-year-old man near Ratanpol on Relief Road on suspicion of possessing and
-selling drugs. [@1] The accused was identified as Nasirkhan Khalilkhan Pathan, a
+selling drugs. [@1,5] The accused was identified as Nasirkhan Khalilkhan Pathan, a
 resident of Dariapur. [@1] The arrested man was Nasirkhan Pathan and two
 suppliers in Karanj and Fatewadi were being sought. [@3] Police had received
 information that Pathan was selling drugs near Murtimant Complex, opposite
@@ -91,5 +96,5 @@ including the drugs and two mobile phones, at ₹33,580. [@1]
 
 Police said he had brought the drugs to sell them in small quantities in the
 city. [@1] During questioning he allegedly said he had bought the drugs from
-Ibrahim Papa of Karanj and Mohammad of Fatewadi. [@1] Both suppliers were named
+Ibrahim Papa of Karanj and Mohammad of Fatewadi. [@1,5] Both suppliers were named
 as wanted accused as police traced the supply network. [@1]
