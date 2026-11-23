@@ -1,0 +1,81 @@
+---
+code: 45YXJ6
+added_at: "2026-11-23T19:09:08.822956Z"
+date: 2026-11-22
+country: tr
+place: Gürbulak border crossing, Doğubayazıt, Ağrı
+coordinates: [39.4183, 44.3528]
+precision: locality
+type: seizure
+title: 150 kg of cannabis resin seized in tanker at Gürbulak border gate
+summary: >-
+  Customs officers at the Gürbulak border crossing in Doğubayazıt, Ağrı, found 150 kg 350 g of esrar, a cannabis resin, hidden in a tanker arriving from Iran on 22 November 2026. The same search found 121 kg 400 g of methamphetamine, which is outside the tracker's scope, and authorities said judicial proceedings were continuing.
+figures:
+  kg_seized: 150.35
+details:
+  agencies: [Gümrükler Muhafaza Kaçakçılık ve İstihbarat Müdürlüğü, Gürbulak Gümrük Müdürlüğü]
+  agency_types: [customs]
+  products:
+    - {product: hashish, kg: 150.35}
+  activity: [smuggling]
+  setting: [vehicle, border]
+  case_stage: investigation
+  date_precision: publication
+  region: Ağrı
+  route: {from: [ir], to: [tr], crossing: Gürbulak}
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.route: [1]
+  details.setting: [1]
+  figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://www.aksam.com.tr/guncel/gurbulakta-271-kilo-750-gram-uyusturucu-ele-gecirildi/haber-1716490
+    media_url: https://img3.aksam.com.tr/imgsdisk/2026/11/22/t25_gurbulakta-271-kilo-750-g-761.jpg
+    publisher: Akşam
+    caption: 'Photograph published with the report on the drugs found at the Gürbulak customs gate in Doğubayazıt, captioned ''uyuşturucu Gürbulak doğubayazıt fotoğrafları resimleri''. Photo: Akşam'
+status: verified
+created_by_model: opencode-go/hy4-flash-free#high
+submission: ee491c569be8a34bed37ad2349c0afe7
+tags: [agri, dogubayazit, gurbulak, esrar, border]
+sources:
+  - title: Gürbulak'ta 271 kilo 750 gram uyuşturucu ele geçirildi
+    url: https://www.aksam.com.tr/guncel/gurbulakta-271-kilo-750-gram-uyusturucu-ele-gecirildi/haber-1716490
+    publisher: Akşam
+    date: 2026-11-22
+    language: tr
+  - title: 'Gürbulak''ta şüpheli tankerde yakalandı: Dorseye iple sarkıtılmış 271 kilo uyuşturucu'
+    url: http://mobil.hurriyet.com.tr/gundem/gurbulakta-supheli-tankerde-yakalandi-dorseye-iple-sarkitilmis-271-kilo-uyusturucu-43387184
+    publisher: Hürriyet
+    date: 2026-11-22
+    language: tr
+open_questions:
+  - No separate date is given for the tanker inspection; 22 November 2026 is the publication date of both accounts and is used as the incident date.
+  - The accounts call the cannabis 'esrar' without saying whether it was dried herbal cannabis or pressed resin, and no laboratory result was reported.
+  - No arrests, detentions, suspect names or charges were reported; the statements say only that judicial proceedings continue.
+  - The Aksam account calls the 121 kg 400 g portion synthetic drugs while Hürriyet and the Ağrı governorate call it methamphetamine; either way it is excluded from the cannabis figures.
+  - No value estimate was published for the esrar or the other drugs.
+  - Both accounts reproduce official statements and are not independent confirmation of the weight.
+---
+
+The seizure was reported on 22 November 2026. [@1] The Gürbulak customs gate is
+in Doğubayazıt district, Ağrı province. [@1] A statement from the Ağrı
+governorate said customs teams inspected a tanker entering Turkey from Iran.
+[@1] Hürriyet, citing DHA, reported that officers stopped the tanker after
+assessing it as suspicious. [@2] A narcotic detection dog was used and the drugs
+were hung from the trailer's cargo section with rope and bags. [@2]
+
+Officers from the customs protection, smuggling and intelligence directorate
+found 150 kg 350 g of esrar, the Turkish term for cannabis, in the search. [@1]
+The Aksam account described a further 121 kg 400 g as synthetic drugs. [@1]
+Hürriyet, citing DHA, identified the other 121 kg 400 g as methamphetamine. [@2]
+Authorities said the combined weight of all the drugs seized was 271 kg 750 g.
+[@2]
+
+The Ağrı governorate said judicial proceedings over the incident were
+continuing. [@1]
+
