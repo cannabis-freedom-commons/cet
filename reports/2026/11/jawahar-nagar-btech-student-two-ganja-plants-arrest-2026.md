@@ -98,11 +98,11 @@ open_questions:
 Malkajgiri zone Special Operations Team officers and Jawahar Nagar police
 searched the house on Saturday 21 November 2026. [@1] The student, aged 22 and
 studying for a B.Tech, lived in Balaji Nagar, Santhoshinagar, within Jawahar
-Nagar police station limits. [@1] Telangana Today named the suspect as Ch Sai Dinesh, of Balaji Nagar in Jawaharnagar. [@6] Police arrested him after the search. [@1]
+Nagar police station limits. [@1,3] Telangana Today named the suspect as Ch Sai Dinesh, of Balaji Nagar in Jawaharnagar. [@6] Police arrested him after the search. [@1]
 Officers seized two ganja plants and four grams of dried ganja. [@3,6] The two seized plants were each about two feet tall. [@6] Eenadu
 reported that the plants were being grown in a flower pot inside his home. [@2]
 
-Police put the value of the plants and ganja at about 5,000 rupees. [@5,6] Disha
+Police put the value of the plants and ganja at about 5,000 rupees. [@3,5,6] Disha
 Daily said he told police he had become addicted to ganja and, short of money to
 buy it, began buying from unknown suppliers and reselling it. [@1]
 
