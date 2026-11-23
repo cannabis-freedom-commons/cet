@@ -43,23 +43,27 @@ sources:
     archived: https://web.archive.org/web/20260831220142id_/https://1tv.ge/lang/ru/news/pravookhraniteli-izjali-narkotiki-v-osobo-krupnom-razmere-odin-chelovek-zaderzhan/
     date: 2026-07-10
     language: ru
+  - title: Правоохранители изъяли наркотики в особо крупном размере, один человек задержан
+    url: https://jnews.ge/160156/
+    publisher: JNEWS.ge
+    date: 2026-07-10
+    language: ru
 open_questions:
-  - The article gives no date, time or place for the detention; 10 July 2026 is its own publication date and stands in for the incident date.
-  - The report does not say where the personal search took place, so only the country is recorded, not a town or district.
-  - Police describe about one kilogram of narcotic drugs prepared for sale and separately 89 packaged wraps of marijuana; the statement does not say how much of the kilogram is marijuana and how much is another drug, so the cannabis weight cannot be separated.
-  - The man's age, nationality and where he is held were not published; the report only says he was previously convicted.
-  - No court outcome, custody decision or plea was reported; the case was at the investigation stage.
-  - No street value was estimated, and only the 1TV account could be opened, so the figures rest on one outlet's repetition of the Interior Ministry statement.
+    - The article gives no date, time or place for the detention; 10 July 2026 is its own publication date and stands in for the incident date.
+    - The report does not say where the personal search took place, so only the country is recorded, not a town or district.
+    - Police describe about one kilogram of narcotic drugs prepared for sale and separately 89 packaged wraps of marijuana; the statement does not say how much of the kilogram is marijuana and how much is another drug, so the cannabis weight cannot be separated.
+    - The man's age, nationality and where he is held were not published; the report only says he was previously convicted.
+    - No court outcome, custody decision or plea was reported; the case was at the investigation stage.
+    - No street value was estimated, and both opened accounts repeat the same Interior Ministry statement, so the figures do not rest on independent reporting.
 ---
 
 Officers of Georgia's Interior Ministry Central Criminal Police Department
 detained a previously convicted man on charges of illegally acquiring and
-storing a large quantity of drugs and of facilitating their sale. [@1] A
+storing a large quantity of drugs and of facilitating their sale. [@1,2] A
 personal search found drugs prepared for sale, about one kilogram of them, and
-89 packaged wraps of the drug marijuana, which police seized as evidence. [@1]
+89 packaged wraps of the drug marijuana, which police seized as evidence. [@1,2]
 
 The Interior Ministry said police also seized materials intended for packaging
-drugs. [@1] The investigation is running under articles 260 and 260-1 of
+drugs. [@1,2] The investigation is running under articles 260 and 260-1 of
 Georgia's Criminal Code, which carry up to 20 years in prison or life
-imprisonment. [@1]
-
+imprisonment. [@1,2]
