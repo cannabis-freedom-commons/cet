@@ -58,6 +58,16 @@ sources:
     publisher: ОНТ
     date: 2026-11-22
     language: ru
+  - title: В Каменецком районе у мужчины изъяли более 24 кг марихуаны
+    url: https://varjag.net/v-kameneckom-rajone-u-muzhchiny-izyali-bolee-24-kg-marihuany/?print=print
+    publisher: Варяг Пинск
+    date: 2026-11-22
+    language: ru
+  - title: У жителя Каменецкого района обнаружили более 24 кг марихуаны
+    url: https://www.sb.by/articles/u-zhitelya-kamenetskogo-rayona-obnaruzhili-bolee-24-kg-marikhuany-.html
+    publisher: СБ. Беларусь сегодня
+    date: 2026-11-22
+    language: ru
 open_questions:
   - The accounts do not give the date of the detention or the search; 22 November 2026 is their publication date and is used as the incident date.
   - No figure was published for the number of cannabis plants in the field or for the area cultivated.
@@ -69,19 +79,18 @@ open_questions:
 
 Drug-control officers of the Brest regional internal affairs directorate
 detained a 41-year-old man who lives in one of the villages of Kamenets
-district. [@1] The Brest regional police department said he was suspected of
-growing cannabis in a field next to his house. [@2] BelTA reported that the
+district. [@1,3] The Brest regional police department said he was suspected of
+growing cannabis in a field next to his house. [@2,3] BelTA reported that the
 cannabis grew in a field not far from his own plot of land. [@1]
 
-A search at the man's home found more than 24 kilograms of marijuana. [@1] ONT
+A search at the man's home found more than 24 kilograms of marijuana. [@1,4] ONT
 reported that officers discovered the marijuana during a search at the suspect's
 place of residence. [@2]
 
 The villager admitted that he had first sprouted the cannabis from seed at his
-home and then transplanted the plants beyond his own property. [@1] The plants
+home and then transplanted the plants beyond his own property. [@1,4] The plants
 had been cultivated in open ground in a field. [@1]
 
-He said the marijuana was intended for personal use. [@1] Investigators opened a
-criminal case for illegal drug trafficking. [@1] The Brest regional internal
+He said the marijuana was intended for personal use. [@1,4] Investigators opened a
+criminal case for illegal drug trafficking. [@1,3] The Brest regional internal
 affairs directorate announced the arrest through its press service. [@1]
-
