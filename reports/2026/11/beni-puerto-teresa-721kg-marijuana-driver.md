@@ -41,6 +41,11 @@ media:
     media_url: https://eju.tv/wp-content/uploads/2026/11/3b46d16e-5042-417c-9a7d-25c80ce695a9.jpeg
     publisher: eju.tv
     caption: 'Marijuana seized in the Beni road operation, captioned ''Marihuana incautada''. Photo: El País.bo'
+  - kind: photo
+    url: https://eldeber.com.bo/pais/joven-sorprendido-721-kilogramos-marihuana-humeda-beni_1795299785
+    media_url: https://pxcdn.eldeber.com.bo/eldeber/112026/1795299731141.webp?cw=1200&ch=675&extw=jpeg
+    publisher: EL DEBER
+    caption: Lead image for the report on the young man found with more than 721 kg of wet marijuana in Beni.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 7879693e9125bd18a2f46674c5eaf4af
@@ -61,29 +66,28 @@ sources:
     publisher: Bolivisión
     date: 2026-11-21
     language: es
-open_questions:
-  - Only a field Narco Test was reported; no laboratory confirmation of the substance was mentioned.
-  - No court outcome or formal charge was reported after the driver's apprehension.
-  - No monetary value or destination was published for the 721.4 kg of marijuana.
-  - The driver was identified only by his initials and age.
+  - title: Un joven es sorprendido con más de 721 kilogramos de marihuana húmeda en Beni
+    url: https://eldeber.com.bo/pais/joven-sorprendido-721-kilogramos-marihuana-humeda-beni_1795299785
+    publisher: EL DEBER
+    date: 2026-11-21
+    language: es
 ---
 
 Police in Bolivia's Beni department apprehended Romario D.T., a 26-year-old
 driver, during an anti-drug interdiction operation on the Riberalta–Rurrenabaque
-road. [@1] The operation took place in the early hours of 19 November 2026,
-while officers were patrolling near Puerto Teresa del Río Yata. [@1] The load
-was counted and weighed at 721 kilograms and 400 grams of wet marijuana. [@1]
+road. [@1,4] The operation took place in the early hours of 19 November 2026,
+while officers were patrolling near Puerto Teresa del Río Yata. [@1,4] The load
+was counted and weighed at 721 kilograms and 400 grams of wet marijuana. [@1,4]
 
 During the vehicle search officers found a load under a blue tarp holding
-several jute sacks of brick-shaped packages wrapped in masking tape. [@1] A
-Narco Test field test on the substance was positive for marijuana. [@1] The
+several jute sacks of brick-shaped packages wrapped in masking tape. [@1,4] A
+Narco Test field test on the substance was positive for marijuana. [@1,4] The
 prosecutor's office said the wet marijuana was being transported in a pickup at
 that point on the Riberalta–Rurrenabaque road. [@2]
 
 Beni's departmental prosecutor Orlando Aramayo Chávez said the Public
 Prosecutor's Office is investigating the case as trafficking in controlled
 substances. [@1] Officers read the driver his constitutional rights before the
-arrest, and prosecutors ordered the pickup and the drugs seized. [@3]
+arrest, and prosecutors ordered the pickup and the drugs seized. [@3,4]
 Investigators collected the initial report, photographs, vehicle search and
 field-test records, the arrest record and the seizure documents. [@1]
-
