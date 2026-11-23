@@ -46,6 +46,21 @@ media:
     media_url: https://i0.wp.com/insightcrime.org/wp-content/uploads/2025/12/2025-12-11-Paraguay-Marijuana-Seizure-Corruption.jpeg?fit=350%2C250&quality=100&ssl=1
     publisher: InSight Crime
     caption: Part of the record marijuana shipment seized in Operation Umbral (Senad handout)
+  - kind: photo
+    url: https://www.lanacion.com.ar/seguridad/que-se-sabe-del-decomiso-de-las-88-toneladas-de-marihuana-y-que-vinculo-tiene-esa-droga-con-la-nid07122025/
+    media_url: https://www.lanacion.com.ar/resizer/v2/la-secretaria-nacional-antidrogas-senad-de-2GYZFHTJQNGUXJQMROY4FYO43Q.jpg?auth=863b8167809f8cff6bbece6b89b24a67842881b368b1e6f3fa6facd7dd42dc96&width=1200&height=800&quality=70&smart=true
+    publisher: LA NACION
+    caption: 'Bales of pressed cannabis from the record 88,991 kg Operation Umbral seizure confirmed by Paraguay''s Senad. Photo: Senad'
+  - kind: photo
+    url: https://www.lanacion.com.ar/seguridad/que-se-sabe-del-decomiso-de-las-88-toneladas-de-marihuana-y-que-vinculo-tiene-esa-droga-con-la-nid07122025/
+    media_url: https://www.lanacion.com.ar/resizer/v2/un-impactante-operativo-desbarato-un-convoy-de-19-MZDPNE6U3NGEPOGGY2UQO2QFNI.jpg?auth=66e704c3419d35934f8c4c277fe4f6e62cf4eb319c4c7b4855abe92041ebb040&width=780&height=434&quality=70&smart=true
+    publisher: LA NACION
+    caption: The convoy of 19 vehicles that carried the marijuana, intercepted in Operation Umbral near Salto del Guairá.
+  - kind: photo
+    url: https://www.lanacion.com.ar/seguridad/que-se-sabe-del-decomiso-de-las-88-toneladas-de-marihuana-y-que-vinculo-tiene-esa-droga-con-la-nid07122025/
+    media_url: https://www.lanacion.com.ar/resizer/v2/el-convoy-de-19-vehiculos-incluia-camionetas-NOICCSXJTBA27O2ZKOMLJ3KXVI.jpg?auth=f4d8ed670bfc0a3c5f26cf6dbb02c4b24993f699199c0b75121aebc3e6517132&width=780&height=483&quality=70&smart=true
+    publisher: LA NACION
+    caption: Pickup trucks in the 19-vehicle convoy loaded with marijuana up to the cabin.
 open_questions:
   - Some outlets date the interception to 4 December; Senad describes an overnight operation starting on Wednesday 3 December.
   - Whether the five detained were charged, and the outcome of the investigation into 40 police officers, was not reported in the available accounts.
@@ -84,6 +99,11 @@ sources:
     publisher: Última Hora
     date: 2025-12-09
     language: es
+  - title: Qué se sabe del decomiso de las 88 toneladas de marihuana y qué vínculo tiene esa droga con la Argentina
+    url: https://www.lanacion.com.ar/seguridad/que-se-sabe-del-decomiso-de-las-88-toneladas-de-marihuana-y-que-vinculo-tiene-esa-droga-con-la-nid07122025/
+    publisher: LA NACION
+    date: 2025-12-07
+    language: es
 ---
 
 Senad special intelligence agents, with the army's Internal Defense Operations
@@ -91,7 +111,7 @@ Command (CODI), intercepted a criminal convoy moving from the Curuguaty area
 toward Salto del Guairá in the early hours of Wednesday and seized 88.991
 tonnes of pressed marijuana, the largest marijuana transit seizure in
 Paraguayan history. [@1,3] The convoy comprised 19 vehicles of small, medium and
-large size used to move the shipment toward the Brazilian border. [@1,3]
+large size used to move the shipment toward the Brazilian border. [@1,3,7]
 
 ## Shootout, detentions and a record weighing
 
@@ -99,15 +119,15 @@ When anti-drug officers closed in near kilometre 2 of Salto del Guairá, the
 convoy tried to escape and opened fire, damaging official vehicles; five
 suspects were detained, one of them wounded and treated under protocol, and one
 member of the criminal group was killed, with no casualties among Senad or CODI
-personnel. [@1,3] All 19 vehicles and the drugs were taken to Senad's regional
+personnel. [@1,3,7] All 19 vehicles and the drugs were taken to Senad's regional
 base in Salto del Guairá on prosecutor Abel Bareiro's orders, where the final
 weighing confirmed the record volume. [@1,2,4]
 
 Senad valued the load at over 13.3 million dollars on the Brazilian market,
 a blow to the logistics of groups using Paraguayan territory as a transit
-route. [@1,5] The seizure far exceeded the 57,000 kilograms taken in 2024's
+route. [@1,5,7] The seizure far exceeded the 57,000 kilograms taken in 2024's
 Operation Marangatu, and forty police officers stationed along the route were
 placed under investigation after the convoy passed eleven posts without being
-stopped. [@2,3]
+stopped. [@2,3] Documents belonging to Osvaldo Andino, the National Police's director of investigations, were found in an area used by the suspects to flee; he said he lost them while giving help, a version Rachid rejected by saying no police officer took part in the operation. [@7] Senad minister Jalil Rachid said the drug convoy travelled more than 120 kilometres in a caravan through a route served by eleven police stations, with none intervening. [@7]
 
 On 5 December 2025 the Organized Crime judge Osmar Legal Troche granted the prosecutors' request and ordered pre-trial detention for all five detainees, who were charged with international drug trafficking and, for some, criminal association and unlawful firearms possession. [@4] Senad named retired police officer Benicio Silva, 41, alias Silva Hu, and Carlos Miguel González Aguilera, 29, alias Carlitos, as the suspected owners of the load, and both had arrest warrants. [@6]
