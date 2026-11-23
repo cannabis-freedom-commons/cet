@@ -67,30 +67,31 @@ sources:
     publisher: La Libre.be
     date: 2026-07-08
     language: fr
-open_questions:
-  - No court outcome beyond the reported charges and handover to Sakhu investigators was published in the opened sources.
-  - No separate cannabis-only value was published in the opened sources; only a possible fine of up to four times the seized goods' value was mentioned.
-  - The sources give the detainee's name as Salma E.K. and as Salma El Khnati, and the full form is not resolved.
+  - title: Une touriste belge arrêtée en Thaïlande avec plus de 30kg de cannabis dans sa valise
+    url: https://www.bruxellestoday.be/faits-divers/touriste-belge-arretee-cannabis-valise.html
+    publisher: BruxellesToday
+    date: 2026-07-08
+    language: fr
 ---
 
 On 7 July, 21-year-old Belgian tourist Salma E.K. went to Phuket airport to
 board a flight to Paris. [@1,4,6] She was arrested at Phuket airport during a check
-as she returned from holiday. [@1] Customs officers checked her two suitcases
-after flagging them as suspicious. [@1,4,5,6] She admitted that both suitcases and
-everything inside them belonged to her. [@1,4,5,6] Officers handcuffed her and handed
+as she returned from holiday. [@1,7] Customs officers checked her two suitcases
+after flagging them as suspicious. [@1,4,5,6,7] She admitted that both suitcases and
+everything inside them belonged to her. [@1,4,5,6,7] Officers handcuffed her and handed
 her to Sakhu police with the seizure. [@1,4,6]
 
 Officers at the international departures terminal identified one green-and-white
 suitcase and one black suitcase during baggage screening. [@2] A search found 12
 vacuum-sealed packages with 28.3 kilograms of cannabis flower and eight packages
 of processed cannabis weighing 3.4 kilograms, about 31.7 kilograms in total.
-[@2,5,6] The Phuket News identifies the woman as 21-year-old Belgian national Salma
+[@2,5,6,7] The Phuket News identifies the woman as 21-year-old Belgian national Salma
 El Khnati. [@3]
 
 She was charged with attempting to export goods without customs clearance under
 the Customs Act 2017 and with offences under Thailand's narcotics,
 traditional-medicine and controlled-herb cannabis laws. [@2] She faces up to 10
 years in prison for attempted drug trafficking and a possible fine of up to four
-times the value of the seized goods. [@1,4,6] Sakhu police said the arrest came from
+times the value of the seized goods. [@1,4,6,7] Sakhu police said the arrest came from
 coordinated customs and security screening to block cannabis exports and warned
 that smuggling would be strictly prosecuted. [@2]
