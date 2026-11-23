@@ -61,6 +61,16 @@ sources:
     publisher: Horizons
     date: 2026-11-21
     language: fr
+  - title: توقيف 17 مهربا وحجز قرابة 19 قنطار كيف قادم من المغرب
+    url: https://www.ennaharonline.com/%d8%aa%d9%88%d9%82%d9%8a%d9%81-17-%d9%85%d9%87%d8%b1%d8%a8%d8%a7-%d9%88%d8%ad%d8%ac%d8%b2-%d9%82%d8%b1%d8%a7%d8%a8%d8%a9-19-%d9%82%d9%86%d8%b7%d8%a7%d8%b1-%d9%83%d9%8a%d9%81-%d9%82%d8%a7%d8%af%d9%85/
+    publisher: Ennahar Online
+    date: 2026-11-21
+    language: ar
+  - title: 查获一大批来自摩洛哥的加工大麻，并逮捕17名毒品走私人员
+    url: https://www.aps.dz/cn/algerie/actualite-nationale/mwqh0xvn-%E6%9F%A5%E8%8E%B7%E4%B8%80%E5%A4%A7%E6%89%B9%E6%9D%A5%E8%87%AA%E6%91%A9%E6%B4%9B%E5%93%A5%E7%9A%84%E5%8A%A0%E5%B7%A5%E5%A4%A7%E9%BA%BB-%E5%B9%B6%E9%80%AE%E6%8D%9517%E5%90%8D%E6%AF%92%E5%93%81%E8%B5%B0%E7%A7%81%E4%BA%BA%E5%91%98
+    publisher: Algérie Presse Service
+    date: 2026-11-21
+    language: zh
 open_questions:
   - The standfirst of the TSA account puts the seizure at 1.7 tonnes while its headline and the defence ministry statement say 19 quintals (about 1.9 tonnes); the ministry figure is used.
   - The ministry names only the 2nd Military Region and gives no wilaya, town or border crossing for the operation.
@@ -74,18 +84,18 @@ open_questions:
 
 Algeria's defence ministry said army security services in the 2nd Military
 Region dismantled a network of 17 drug traffickers that was trying to bring kif
-traité into the country from Morocco. [@2,4] The ministry said the consignment was
+traité into the country from Morocco. [@2,4,5] The ministry said the consignment was
 estimated at 19 quintals, about 1.9 tonnes, of kif traité, processed cannabis
-from Morocco. [@1,4] The statement was issued on Saturday 21 November 2026 and
+from Morocco. [@1,4,5] The statement was issued on Saturday 21 November 2026 and
 said the network was broken up during the week. [@1]
 
 Seventeen people were arrested and the services seized 50 utility vehicles, five
-motorcycles, a jet-ski and mobile phones. [@1,4] Officers also seized about 273
-million centimes, which is 2.73 million dinars. [@1,4] Algerian outlets describe
+motorcycles, a jet-ski and mobile phones. [@1,4,6] Officers also seized about 273
+million centimes, which is 2.73 million dinars. [@1,4,6] Algerian outlets describe
 the networks as operating on the country's western borders, the route for
 Moroccan kif. [@3] The ministry described the operation as part of efforts to
-tighten the net around drug traffickers. [@1,4]
+tighten the net around drug traffickers. [@1,4,6]
 
 The ministry said the operation rested on rigorous security coordination between
-the services involved. [@1,4] The ministry said the results reaffirmed the army's
-determination to keep fighting all forms of smuggling and organised crime. [@1,4]
+the services involved. [@1,4,6] The ministry said the results reaffirmed the army's
+determination to keep fighting all forms of smuggling and organised crime. [@1,4,6]
