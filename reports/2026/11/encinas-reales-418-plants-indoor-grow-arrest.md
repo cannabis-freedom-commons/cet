@@ -45,6 +45,11 @@ media:
     media_url: https://estaticos-cdn.prensaiberica.es/clip/9b29e039-edf8-4442-9c6d-bea9c138d68b_16-9-discover-aspect-ratio_default_0_x1000y500.webp
     publisher: Diario Córdoba
     caption: 'Marijuana plants inside the indoor plantation dismantled in a house in Encinas Reales. Photo: Guardia Civil'
+  - kind: photo
+    url: https://www.cordobahoy.es/provincia/detenido-encinas-reales-cultivo-elaboracion-drogas/20261121181702206127.html
+    media_url: https://www.cordobahoy.es/media/cordobahoy/images/2026/11/21/2026112118164889708.jpg
+    publisher: Córdoba Hoy
+    caption: 'The seized marijuana plants of the two indoor plantations dismantled in a house in Encinas Reales. Photo: Guardia Civil'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 82ad122dfb284f0b724d03b09d627d86
@@ -60,6 +65,21 @@ sources:
     publisher: Cordópolis
     date: 2026-11-21
     language: es
+  - title: La Guardia Civil detiene a un hombre en Encinas Reales por cultivo y elaboración de drogas
+    url: https://www.cordobahoy.es/provincia/detenido-encinas-reales-cultivo-elaboracion-drogas/20261121181702206127.html
+    publisher: Córdoba Hoy
+    date: 2026-11-21
+    language: es
+  - title: Detenido en Encinas Reales (Córdoba) por cultivo y elaboración de drogas
+    url: https://www.europapress.es/andalucia/noticia-detenido-encinas-reales-cordoba-cultivo-elaboracion-drogas-20261121102920.html
+    publisher: Europa Press
+    date: 2026-11-21
+    language: es
+  - title: La Guardia Civil desmantela dos plantaciones de marihuana en Encinas Reales
+    url: https://www.eldiadecordoba.es/provincia/guardia-civil-desmantela-plantaciones-marihuana_0_2008555237.html
+    publisher: El Día de Córdoba
+    date: 2026-11-21
+    language: es
 open_questions:
   - No date is given for the search itself; 21 November 2026 is the publication date of the accounts and that date stands in for the incident date.
   - No weight or street value was published for the 418 plants.
@@ -69,20 +89,19 @@ open_questions:
 ---
 
 The Guardia Civil arrested one person in Encinas Reales, a town in the Subbética
-of Córdoba province, on suspicion of cultivating and processing drugs. [@1] The
+of Córdoba province, on suspicion of cultivating and processing drugs. [@1,3] The
 investigation began in mid-September 2026, when officers learned that a strong
 smell of marijuana could be noticed near several houses in a neighbourhood of
-the town. [@2]
+the town. [@2,4]
 
 Officers searched the house the smell came from and found two indoor marijuana
-plantations in two rooms fitted out for growing and drying the plants. [@1] The
+plantations in two rooms fitted out for growing and drying the plants. [@1,3] The
 rooms had all the equipment needed to grow and dry the plants, the force said.
 [@1] In total officers seized 418 marijuana plants and dismantled both
-installations. [@2]
+installations. [@2,3]
 
 The arrested person was accused of a crime against public health for cultivating
 and processing drugs and of electricity fraud, because the property had an
-illegal connection to the power grid. [@1] The case papers were sent to the
+illegal connection to the power grid. [@1,5] The case papers were sent to the
 competent judicial authority, and the seized plants were kept under judicial
-custody for analysis and later destruction. [@1]
-
+custody for analysis and later destruction. [@1,3]
