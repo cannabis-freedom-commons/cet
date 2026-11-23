@@ -46,6 +46,11 @@ media:
     media_url: https://pxcdn.eldeber.com.bo/eldeber/112026/1795299731141.webp?cw=1200&ch=675&extw=jpeg
     publisher: EL DEBER
     caption: Lead image for the report on the young man found with more than 721 kg of wet marijuana in Beni.
+  - kind: photo
+    url: https://larazon.bo/ciudades/2026/11/22/felcn-halla-mas-de-700-kilos-de-marihuana-en-operativo-en-beni/
+    media_url: https://larazon.bo/wp-content/uploads/2026/11/916449690_4478985185703637_5229765019658270976_n.webp
+    publisher: La Razón
+    caption: 'Jute sacks holding brick-shaped packages of marijuana found in the pickup stopped on the Riberalta–Rurrenabaque road. Photo: FELCN'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 7879693e9125bd18a2f46674c5eaf4af
@@ -76,6 +81,11 @@ sources:
     publisher: El Alteño
     date: 2026-11-21
     language: es
+  - title: FELCN halla más de 700 kilos de marihuana en operativo en Beni
+    url: https://larazon.bo/ciudades/2026/11/22/felcn-halla-mas-de-700-kilos-de-marihuana-en-operativo-en-beni/
+    publisher: La Razón
+    date: 2026-11-22
+    language: es
 open_questions:
     - No charge, detention measure or court outcome has been reported beyond the driver's apprehension and the opening of the investigation.
     - The details of the seizure come from the Beni prosecutor's office account and have not been independently confirmed.
@@ -83,19 +93,19 @@ open_questions:
 
 Police in Bolivia's Beni department apprehended Romario D.T., a 26-year-old
 driver, during an anti-drug interdiction operation on the Riberalta–Rurrenabaque
-road. [@1,4,5] The operation took place in the early hours of 19 November 2026,
+road. [@1,4,5] The interdiction operation was carried out by the Special Force to Fight Drug Trafficking (FELCN). [@6] The operation took place in the early hours of 19 November 2026,
 while officers were patrolling near Puerto Teresa del Río Yata. [@1,4,5] The load
-was counted and weighed at 721 kilograms and 400 grams of wet marijuana. [@1,4,5] The case's assigned prosecutor, Luis Carlos Sanguino Valenzuela, established that weight after the load was weighed. [@5]
+was counted and weighed at 721 kilograms and 400 grams of wet marijuana. [@1,4,5,6] The case's assigned prosecutor, Luis Carlos Sanguino Valenzuela, established that weight after the load was weighed. [@5]
 
 During the vehicle search officers found a load under a blue tarp holding
-several jute sacks of brick-shaped packages wrapped in masking tape. [@1,4,5] A
-Narco Test field test on the substance was positive for marijuana. [@1,4,5] The
+several jute sacks of brick-shaped packages wrapped in masking tape. [@1,4,5,6] A
+Narco Test field test on the substance was positive for marijuana. [@1,4,5,6] The
 prosecutor's office said the wet marijuana was being transported in a pickup at
 that point on the Riberalta–Rurrenabaque road. [@2]
 
 Beni's departmental prosecutor Orlando Aramayo Chávez said the Public
 Prosecutor's Office is investigating the case as trafficking in controlled
-substances. [@1,5] Officers read the driver his constitutional rights before the
-arrest, and prosecutors ordered the pickup and the drugs seized. [@3,4]
+substances. [@1,5,6] Officers read the driver his constitutional rights before the
+arrest, and prosecutors ordered the pickup and the drugs seized. [@3,4,6]
 Investigators collected the initial report, photographs, vehicle search and
 field-test records, the arrest record and the seizure documents. [@1,5]
