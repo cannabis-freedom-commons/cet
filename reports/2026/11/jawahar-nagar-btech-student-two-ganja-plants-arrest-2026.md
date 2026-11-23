@@ -48,6 +48,11 @@ media:
     media_url: https://www.dishadaily.com/h-upload/2026/11/21/616567-untitled-1.webp
     publisher: Disha Daily
     caption: 'A man crouching on a tiled floor beside a ganja plant growing in a pot, his face blurred, in the photograph published with the Disha Daily report on the arrest. Photo: Disha Daily'
+  - kind: photo
+    url: https://telanganatoday.com/student-held-for-cannabis-cultivation-sale-f317aa4c
+    media_url: https://media.telanganatoday.com/wp-content/uploads/2026/11/student-held-for-cannabis-cultivation-sale-f317aa4c-6a5bac8f-768x450.jpg
+    publisher: Telangana Today
+    caption: 'A composite image showing the suspect seated on a tiled floor beside a potted cannabis plant, his face blurred, and a hand holding a plastic packet of dried cannabis, published with the Telangana Today report. Photo: Telangana Today'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: f61b8397afc3507ac7f4f9ba9b0d78e5
@@ -78,6 +83,11 @@ sources:
     publisher: Kalam Daily
     date: 2026-11-21
     language: te
+  - title: Engineering student held for cultivating cannabis, selling drugs in Hyderabad
+    url: https://telanganatoday.com/student-held-for-cannabis-cultivation-sale-f317aa4c
+    publisher: Telangana Today
+    date: 2026-11-21
+    language: en
 open_questions:
   - Disha Daily says the house was searched on Saturday 21 November 2026, while BigTV Live dates the raid to 20 November.
   - ClickTelugu and Kalam Daily call the Rs 5,000 an estimate of the plants and ganja, while BigTV Live describes Rs 5,000 in cash as seized; only the value is recorded here.
@@ -88,16 +98,15 @@ open_questions:
 Malkajgiri zone Special Operations Team officers and Jawahar Nagar police
 searched the house on Saturday 21 November 2026. [@1] The student, aged 22 and
 studying for a B.Tech, lived in Balaji Nagar, Santhoshinagar, within Jawahar
-Nagar police station limits. [@1] Police arrested him after the search. [@1]
-Officers seized two ganja plants and four grams of dried ganja. [@3] Eenadu
+Nagar police station limits. [@1] Telangana Today named the suspect as Ch Sai Dinesh, of Balaji Nagar in Jawaharnagar. [@6] Police arrested him after the search. [@1]
+Officers seized two ganja plants and four grams of dried ganja. [@3,6] The two seized plants were each about two feet tall. [@6] Eenadu
 reported that the plants were being grown in a flower pot inside his home. [@2]
 
-Police put the value of the plants and ganja at about 5,000 rupees. [@5] Disha
+Police put the value of the plants and ganja at about 5,000 rupees. [@5,6] Disha
 Daily said he told police he had become addicted to ganja and, short of money to
 buy it, began buying from unknown suppliers and reselling it. [@1]
 
 Police registered a case at Jawahar Nagar police station. [@4] Officers said
 they were investigating who had supplied him and who was buying ganja from him.
-[@1] Police warned that growing, selling and using ganja are legal offences and
+[@1,6] Police warned that growing, selling and using ganja are legal offences and
 asked the public to give them information about cultivation and sales. [@4]
-
