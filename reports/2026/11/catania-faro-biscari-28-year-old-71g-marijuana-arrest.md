@@ -56,6 +56,15 @@ sources:
     publisher: NewSicilia
     date: 2026-11-21
     language: it
+  - title: 'Catania, marijuana in un club sportivo: un arresto'
+    url: https://www.msn.com/it-it/notizie/other/catania-marijuana-in-un-club-sportivo-un-arresto/ar-AA2hXnCs
+    publisher: MSN
+    date: 2026-11-22
+  - title: 'Catania, marijuana in un club sportivo: un arresto'
+    url: https://qds.it/catania-marijuana-club-sportivo-faro-biscari-arrestato-pregiudicato/
+    publisher: Quotidiano di Sicilia
+    date: 2026-11-22
+    language: it
 open_questions:
   - No separate date is given for the search and arrest; 21 November 2026 is the publication date and is used as the incident date.
   - CataniaToday attributes the 71 grams to the 14 wraps found under the shelves, while NewSicilia says the 16 wraps in total (the 14 under the shelves plus two bags on the man) weighed 71 grams, so it is unclear whether that figure includes the two bags on the man.
@@ -65,17 +74,16 @@ open_questions:
 
 Police in Catania's Faro Biscari neighbourhood arrested a 28-year-old man
 already known to the authorities on suspicion of possessing drugs for the
-purpose of trafficking. [@1] During a patrol, a police dog signalled the smell
-of drugs near the entrance of a sports club. [@1] The 28-year-old opened the
+purpose of trafficking. [@1,3] During a patrol, a police dog signalled the smell
+of drugs near the entrance of a sports club. [@1,4] The 28-year-old opened the
 door with two small bags of marijuana on him, prompting officers to search
-inside. [@1]
+inside. [@1,3]
 
-The marijuana was hidden under shelves in 14 wraps. [@1] The wraps found on the
-shelves weighed 71 grams in total. [@1] A second account reported 16 wraps of
+The marijuana was hidden under shelves in 14 wraps. [@1,3] The wraps found on the
+shelves weighed 71 grams in total. [@1,3] A second account reported 16 wraps of
 marijuana seized, weighing 71 grams altogether. [@2] The man admitted
 responsibility and said he was the sole owner of the marijuana, which was
-seized. [@1]
+seized. [@1,4]
 
 The check was made by patrol cars and the police headquarters' dog unit as part
 of anti-drug services in the city's neighbourhoods. [@1]
-
