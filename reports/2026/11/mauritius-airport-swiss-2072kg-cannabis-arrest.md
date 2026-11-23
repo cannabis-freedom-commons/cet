@@ -86,25 +86,33 @@ sources:
     publisher: Le Mauricien
     date: 2026-11-21
     language: fr
+  - title: 'Plaisance : un ressortissant suisse arrêté avec 20 kilos de cannabis'
+    url: https://defimedia.info/plaisance-un-ressortissant-suisse-arrete-avec-20-kilos-de-cannabis
+    publisher: Defimedia
+    date: 2026-11-20
+    language: fr
+open_questions:
+  - Defimedia gives the quantity as 20 kilos, while other accounts give 20.72 kg; the report uses 20.72 kg.
+  - Defimedia dates the arrest only to the middle of the week; the exact date of 18 November comes from other accounts.
 ---
 
 Officers of the Anti-Drug and Smuggling Unit (ADSU) arrested a 21-year-old Swiss
 man at Sir Seewoosagur Ramgoolam International Airport on 18 November 2026 as he
-arrived from Zurich. [@1,5,6] He had arrived on flight WK 070 from Zurich. [@2] He
+arrived from Zurich. [@1,5,6] The arrested man was named as Imhof Laurin. [@7] He had arrived on flight WK 070 from Zurich. [@2] He
 was intercepted on arrival by the Customs Anti-Narcotics Section together with
-ADSU officers stationed at the airport. [@3,5,6] A search of his trolley bag found
+ADSU officers stationed at the airport. [@3,5,6,7] A search of his trolley bag found
 20 plastic bags containing 20.72 kg of cannabis. [@1,6] The market value of the
 consignment was estimated at about 36 million rupees. [@3,5,6]
 
 ADSU investigators then staged a controlled delivery to identify the presumed
 local recipient, but the person expected to collect the drugs did not appear at
-the rendezvous. [@3,5,6] The controlled delivery was abandoned the following day. [@6] The man was placed in detention at the Line Barracks
+the rendezvous. [@3,5,6,7] The controlled delivery was abandoned the following day. [@6] The man was placed in detention at the Line Barracks
 centre. [@2]
 
 He was arrested for importing cannabis with presumption of trafficking, an
 offence carrying aggravating circumstances. [@2] He remained in police custody on 21 November under a provisional charge of importing cannabis. [@6] Switzerland's Federal Department of Foreign Affairs said it had no knowledge of the case when asked by 20 Minuten. [@5] The investigation was led by
 the airport ADSU under Superintendent Ghoora and Assistant Superintendent
-Goinden. [@3] Investigators continued to establish the circumstances of the
+Goinden. [@3,7] Investigators continued to establish the circumstances of the
 importation and to identify possible accomplices in Mauritius. [@3,5] Plaisance,
 in the southeast of the island near Mahebourg, is Mauritius's only international
 airport and a focus of customs anti-narcotics work. [@4]
