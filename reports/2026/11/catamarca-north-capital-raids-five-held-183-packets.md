@@ -43,6 +43,11 @@ sources:
     publisher: Inforama
     date: 2026-11-19
     language: es
+  - title: Tras allanamientos, secuestraron droga, otros elementos y pusieron a disposición de la Justicia a cinco personas
+    url: https://www.elesquiu.com/policiales/2026/11/19/tras-allanamientos-secuestraron-droga-otros-elementos-y-pusieron-a-disposicion-de-la-justicia-a-cinco-personas-604089.html
+    publisher: El Esquiú
+    date: 2026-11-19
+    language: es
 open_questions:
   - No separate weight or count was published for marijuana versus cocaine, so the combined total of 183 packets cannot be counted as a cannabis weight.
   - The substances were described only as believed to be cocaine and marijuana based on field tests, with no laboratory confirmation reported.
@@ -53,33 +58,32 @@ open_questions:
 ---
 
 Officers detained two men aged 18 and 33 and two women aged 31 and 36 during the
-judicial measures. [@1] The four detained people remained at the disposal of the
-Federal Court in the corresponding proceedings. [@1] A 54-year-old man was also
+judicial measures. [@1,3] The four detained people remained at the disposal of the
+Federal Court in the corresponding proceedings. [@1,3] A 54-year-old man was also
 apprehended during the operation after allegedly trying to physically assault
-the police personnel involved. [@1] The man was taken to a police facility to
-await further judicial directives. [@1] Police carried out a series of raids at
+the police personnel involved. [@1,3] The man was taken to a police facility to
+await further judicial directives. [@1,3] Police carried out a series of raids at
 homes in the northern zone of the capital city, seizing substances believed to
-be cocaine and marijuana. [@1] A second account describes the operation as more
+be cocaine and marijuana. [@1,3] A second account describes the operation as more
 than six simultaneous raids in the north of the capital, in which four people
 were detained and drugs, money and vehicles were seized. [@2] The raids
 concentrated mainly in barrio La Esperanza and areas near Negro Herrera street
 and Combatientes de Malvinas avenue. [@2]
 
 Investigators seized a total of 183 plastic packets containing suspected
-substances. [@1] Field tests indicated the substances were cocaine and
+substances. [@1,3] Field tests indicated the substances were cocaine and
 marijuana, which were held under seizure at the disposal of the intervening
-judicial authorities. [@1] Officers also seized two precision scales and three
-mobile phones of different brands and models. [@1] The second account says
+judicial authorities. [@1,3] Officers also seized two precision scales and three
+mobile phones of different brands and models. [@1,3] The second account says
 officers found drugs apparently prepared for sale and seized money, motorcycles
 and cars that could be linked to the investigation. [@2]
 
 The procedures followed a criminal complaint filed at Judicial Unit No. 7 and
 were carried out by the Judicial Investigations Division jointly with the
-Dangerous Drugs Directorate of the provincial police. [@1] The measures were
+Dangerous Drugs Directorate of the provincial police. [@1,3] The measures were
 carried out under the directives of the Second Nomination Guarantees Control
 Court and the Federal Court, at the request of the Eighth Nomination Instruction
 Prosecutor's Office, with support from Rapid Intervention Groups South and
-North. [@1] The investigation continued to determine the detainees' degree of
+North. [@1,3] The investigation continued to determine the detainees' degree of
 participation and the possible connection between the raided properties and
 criminal acts. [@2]
-
