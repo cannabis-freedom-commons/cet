@@ -69,6 +69,10 @@ sources:
     publisher: Rediff.com
     date: 2026-11-22
     language: en
+  - title: Youth Congress Worker Among 5 Arrested With 11.6 Kg Ganja in Alappuzha
+    url: https://www.deccanchronicle.com/amp/southern-states/kerala/youth-congress-worker-among-5-arrested-with-116-kg-ganja-in-alappuzha-2006840
+    publisher: Deccan Chronicle
+    date: 2026-11-22
 open_questions:
     - English-language wire reports counted five arrests and 11.6 kg from the car, while the Malayalam accounts counted eight arrests and put the total at 12 to 13 kg once the earlier Palliveli check is included; this report uses eight arrests and the 12 kg total given by Mathrubhumi.
     - 'Sources differ on Shameer''s standing in the party: IANS described him as an office-bearer of the Congress mandalam committee, while district Youth Congress leaders said he held no post and had been inactive for months.'
@@ -80,8 +84,8 @@ open_questions:
 
 Eight men were arrested in the case, among them a local Youth Congress leader.
 [@4] The five occupants of a car stopped at Makkekadavu junction in Poochakkal
-were found with 11.6 kg of ganja packed in bags. [@3,6,7] The four other men in the car were Ali Jauhar, 24, and Krishnakumar, 23, both from Manappuram, and Salahudeen Ayoob, 24, and Mohammed Aslam, 23, both from Poochakkal. [@6] The car was intercepted at
-about 10.50 pm on Saturday while it travelled from Cherthala to Arookutty. [@2,5,7] The check was carried out jointly by the Alappuzha district DANSAF team and Poochakkal police. [@5,6]
+were found with 11.6 kg of ganja packed in bags. [@3,6,7,8] The four other men in the car were Ali Jauhar, 24, and Krishnakumar, 23, both from Manappuram, and Salahudeen Ayoob, 24, and Mohammed Aslam, 23, both from Poochakkal. [@6] The car was intercepted at
+about 10.50 pm on Saturday while it travelled from Cherthala to Arookutty. [@2,5,7,8] Police said they acted on a tip-off when they stopped the car. [@8] The check was carried out jointly by the Alappuzha district DANSAF team and Poochakkal police. [@5,6]
 Earlier that evening, at about 4 pm, three other men were arrested with 1.270 kg
 of ganja near Palliveli junction, and questioning them led police to the car.
 [@3] One of them, Shemeer, 38, is a Youth Congress worker from Manappuram whose
@@ -92,7 +96,7 @@ Kerala Assembly Deputy Speaker Shanimol Usman. [@1,5,6]
 
 Police said the men had bought a large quantity of ganja in Palakkad and were
 selling it in smaller quantities to users in Kochi. [@2,7] All eight were produced
-before a magistrate and remanded in judicial custody. [@3] Shemeer complained of
+before a magistrate and remanded in judicial custody. [@3,8] Shemeer complained of
 chest discomfort and was taken to Ernakulam General Hospital. [@2] Poochakkal
 police registered a case under the Narcotic Drugs and Psychotropic Substances
 Act. [@1,5,6] Investigations were continuing to establish each man's role in the
