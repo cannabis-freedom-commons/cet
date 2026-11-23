@@ -74,6 +74,11 @@ sources:
     publisher: Metrópoles
     date: 2026-11-20
     language: pt
+  - title: Após perseguição policial, casal é preso com mais de 40 kg de maconha
+    url: https://delioandrade.com.br/apos-perseguicao-policial-casal-e-preso-com-mais-de-40-kg-de-maconha/
+    publisher: DELIO ANDRADE
+    date: 2026-11-20
+    language: pt
 open_questions:
   - 'The number of large marijuana tablets differs between accounts: the PMDF says 30, while Metrópoles says six, both totalling about 38 kg.'
   - The total is given as more than 40 kg (PMDF) and 40 kg (Correio), but the PMDF's component weights add to about 42.3 kg.
@@ -88,27 +93,26 @@ open_questions:
 ---
 
 ROTAM military police arrested a man and a woman in flagrante for drug
-trafficking on the night of Thursday 19 November 2026. [@2] The operation began
-in Estrutural, in the Federal District, and ended in Águas Lindas de Goiás. [@2]
+trafficking on the night of Thursday 19 November 2026. [@2,4] The operation began
+in Estrutural, in the Federal District, and ended in Águas Lindas de Goiás. [@2,4]
 It followed an anonymous tip and information sharing between ROTAM intelligence
-and the ARI of the 17th Regional Command of the Goiás Military Police. [@2]
+and the ARI of the 17th Regional Command of the Goiás Military Police. [@2,4]
 Officers located a white Fiat Argo occupied by the couple; the driver ignored a
 stop order and fled, throwing part of the drugs out of the window in the Goiás
 municipality, where the car was intercepted. [@2] The pursuit covered more than
-30 kilometres. [@3]
+30 kilometres. [@3,4]
 
 Police said they seized more than 40 kg of cannabis: 30 large marijuana tablets
 weighing about 38 kg, six smaller tablets weighing about 1.62 kg, 500 g of
 skunk, three plates of ice hashish (780 g), seven plates of dry (700 g) and 700
 g of hashish. [@2] The car, four cellphones and three precision scales were also
 seized. [@2] The PMDF estimated the operation caused about R$ 200,000 in losses
-to organised crime. [@2]
+to organised crime. [@2,4]
 
 The couple and the material were taken to the 1st Police Station of Águas Lindas
-de Goiás, where the flagrante arrest for drug trafficking was registered. [@2]
+de Goiás, where the flagrante arrest for drug trafficking was registered. [@2,4]
 The drugs were stored in a residence in Estrutural, and part of them would be
 distributed to other regions of the Federal District and to Águas Lindas. [@1]
 Police found more drugs at the house in Estrutural. [@1] The Civil Police are
 investigating a possible link between the couple and a criminal organisation.
 [@1]
-
