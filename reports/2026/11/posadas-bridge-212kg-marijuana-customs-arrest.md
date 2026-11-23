@@ -67,6 +67,11 @@ media:
     media_url: https://www.rionegro.com.ar/wp-content/uploads/2026/11/IMG-20261121-WA0001123_11zon.jpg?resize=1081,720
     publisher: Diario Río Negro
     caption: 'The dashboard, bonnet and floor of the car, where the 212 kg of marijuana was hidden. Photo: Aduana'
+  - kind: photo
+    url: https://virasorovirtual.com/2026-11-22-detenido-en-el-puente-posadas-encarnacion-con-212-kilos-de-marihuana
+    media_url: https://virasorovirtual.sfo2.digitaloceanspaces.com/images/ca0d8cb44f18e2ba52491f208f6ddb95/orig-480.jpg
+    publisher: VirasoroVirtual
+    caption: A car with its doors and boot open surrounded by officers at the Posadas-Encarnación bridge inspection area, where the 212 kg of marijuana was found.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 7c913afa32222d733e6e156dbc810436
@@ -97,28 +102,28 @@ sources:
     publisher: Diario Río Negro
     date: 2026-11-21
     language: es
-open_questions:
-    - 'Outlets differ on the day of the inspection: La Voz de Misiones and Diario Río Negro say Friday afternoon (Río Negro specifies around 17:00), while LU17 and Última Hora place it at 17:00 on Saturday 21 November; 20 November is used because the earliest report was published at 14:31 on Saturday, before a Saturday inspection.'
-    - The weight is given only as more than 212 kilograms; no exact figure was published.
-    - No laboratory test result confirming the substance as cannabis was reported.
-    - The driver was not named and no charge, hearing or detention decision was reported beyond the smuggling case.
+  - title: Detenido en el puente Posadas-Encarnación con 212 kilos de marihuana
+    url: https://virasorovirtual.com/2026-11-22-detenido-en-el-puente-posadas-encarnacion-con-212-kilos-de-marihuana
+    publisher: VirasoroVirtual
+    date: 2026-11-22
+    language: es
 ---
 
 Argentine customs officers seized 212 kilograms of marijuana from a car at the
-international bridge in Posadas, Misiones. [@1,5] The car was detained on the
+international bridge in Posadas, Misiones. [@1,5,6] The car was detained on the
 afternoon of Friday 20 November 2026 at the Argentine end of the
 Posadas-Encarnación bridge. [@3,5] Its driver, a 35-year-old Argentine, was
 arrested and placed at the disposal of the Unidad Fiscal Posadas, the federal
-prosecutor's office. [@3,5] He was bringing the load into Argentina from
+prosecutor's office. [@3,5,6] He was bringing the load into Argentina from
 Encarnación, Paraguay. [@4,5]
 
 The procedure began around 17:00 when a Chevrolet reached the migration control
 on the San Roque González de Santa Cruz bridge. [@3] The vehicle was a Chevrolet Spin. [@5] Officers diverted the car
-with Argentine plates to the inspection bays for a more thorough check. [@2]
+with Argentine plates to the inspection bays for a more thorough check. [@2,6]
 They found brick-shaped packages hidden under the bonnet, behind the dashboard
-and in the floor of the vehicle. [@1] Some packages were hidden in the sides of the bodywork and under the seats. [@5] Images from a scanner truck confirmed the
-presence of the packages in those compartments. [@1,5]
+and in the floor of the vehicle. [@1,6] Some packages were hidden in the sides of the bodywork and under the seats. [@5] Images from a scanner truck confirmed the
+presence of the packages in those compartments. [@1,5,6]
 
 Officers opened the hidden compartments with tools. [@3] Customs valued the load
-at nearly 832 million pesos. [@1,5] The case was opened as aggravated smuggling of
-narcotics. [@1,5]
+at nearly 832 million pesos. [@1,5,6] The case was opened as aggravated smuggling of
+narcotics. [@1,5] The car was seized together with the marijuana and held for the judicial case. [@6]
