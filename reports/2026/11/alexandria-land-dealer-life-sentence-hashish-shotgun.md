@@ -47,17 +47,30 @@ sources:
     publisher: القاهرة 24
     date: 2026-11-21
     language: ar
+  - title: المؤبد لسمسار أراضي سقط بـ 1000 طربة حشيش في الإسكندرية
+    url: https://www.masrawy.com/news/news_regions/details/2026/11/21/3082191/%D8%A7%D9%84%D9%85%D8%A4%D8%A8%D8%AF-%D9%84%D8%B3%D9%85%D8%B3%D8%A7%D8%B1-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%B3%D9%82%D8%B7-%D8%A8%D9%80-1000-%D8%B7%D8%B1%D8%A8%D8%A9-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9
+    publisher: مصراوي
+    date: 2026-11-21
+    language: ar
+  - title: المؤبد وغرامة نصف مليون جنيه لتاجر أراضٍ ضُبط بـ 1000 طربة حشيش بالإسكندرية
+    url: https://www.masrawy.com/news/news_regions/details/2026/9/14/3048181/%D8%A7%D9%84%D9%85%D8%A4%D8%A8%D8%AF-%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-%D9%86%D8%B5%D9%81-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AC%D9%86%D9%8A%D9%87-%D9%84%D8%AA%D8%A7%D8%AC%D8%B1-%D8%A3%D8%B1%D8%A7%D8%B6-%D8%B6-%D8%A8%D8%B7-%D8%A8%D9%80-1000-%D8%B7%D8%B1%D8%A8%D8%A9-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A8%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-
+    publisher: مصراوي
+    date: 2026-09-14
+    language: ar
 open_questions:
-  - No date is given for the ruling; 21 November 2026, the publication date, stands in for it.
-  - No weight, number of pieces or value was reported for the hashish.
-  - The amount of money found on the defendant was not stated.
-  - The account does not say when the arrest took place or how long the case took to reach court.
-  - The defendant is identified only by initials, and no plea, defence case or appeal was reported.
-  - The whole account rests on one Cairo 24 report of the court's ruling.
+    - No date is given for the appeals ruling; 21 November 2026, the publication date of the Masrawy report, stands in for it.
+    - No weight or value was given for the 1,000 hashish slabs, which Egyptian reports count in slabs rather than kilograms.
+    - The amount of money found on the defendant was not stated.
+    - The reports do not say when the seizure took place or how long the case took to reach court.
+    - The date of the earlier life sentence and 500,000-pound fine is not stated; its report was published on 14 September 2026.
+    - The appeals ruling does not say whether it upheld or replaced the earlier life sentence and 500,000-pound fine; it mentions criminal costs and confiscation but no fine.
+    - Masrawy listed two mobile phones among the seized items, while Cairo 24 listed one.
+    - The defendant is identified only by his initials, and no plea, defence case or cassation appeal was reported.
+    - Masrawy and Cairo 24 appear to reproduce the same court statement, so they are not independent reporting.
 ---
 
 The Alexandria Criminal Appeals Court sentenced the defendant to life
-imprisonment. [@1] The court also ordered him to pay the criminal costs and
+imprisonment. [@1,2] An Alexandria criminal court had earlier sentenced him to life imprisonment and a 500,000-pound fine in the same case. [@3] The court also ordered him to pay the criminal costs and
 confiscated the seized drugs, weapon and ammunition. [@1]
 
 The case was registered as No. 3914 of 2026 at First Ameriya police station in
@@ -69,8 +82,7 @@ defendant was trafficking drugs in the district. [@1] Investigations found that
 the defendant, a land dealer, trafficked narcotic drugs, especially hashish, and
 a warrant was issued for his arrest. [@1] After the warrant was executed,
 officers seized a quantity of hashish, a shotgun, ammunition, a mobile phone and
-money. [@1]
+money. [@1] The shotgun was under the driver's seat and held three cartridges. [@2] Police found two plastic bags holding 240 hashish slabs each on the back seat and a third bag with 520 slabs in the rear compartment, 1,000 slabs in all. [@2]
 
 Police drew up a report and the case passed to investigators, who referred it to
 the court that issued the sentence. [@1]
-
