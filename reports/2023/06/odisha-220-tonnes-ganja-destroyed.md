@@ -33,8 +33,10 @@ status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [odisha, stf, disposal]
 open_questions:
-  - No district-level breakdown of the 1,434 ganja cases was published.
-  - Whether further disposal drives followed in the same districts was not reported here.
+    - No district-level breakdown of the 1,434 ganja cases was published.
+    - Whether further disposal drives followed, and in which districts, is not known.
+    - The Times of India gives Rs 220 crore as the ganja's value without saying whether it is a street value or an official valuation, while the 78 kg of brown sugar was described as having a street value of Rs 78 crore.
+    - Whether all 220 tonnes passed through the Khurda incinerator named, or other facilities were also used, is not stated.
 sources:
   - title: Odisha Police destroys 2.2 lakh kg of marijuana, 78 kg of brown sugar
     url: https://www.indianeconomicobserver.com/news/odisha-police-destroys-22-lakh-kg-of-marijuana-78-kg-of-brown-sugar20230611044051/
@@ -46,11 +48,19 @@ sources:
     publisher: Tathya
     date: 2023-06-10
     language: en
+  - title: Odisha Police destroys massive 2.2 lakh kg of marijuana, 78 kg of brown sugar
+    url: https://www.thehindu.com/news/national/other-states/odisha-police-destroys-massive-22-lakh-kg-of-marijuana-78-kg-of-brown-sugar/article66954054.ece
+    publisher: The Hindu
+    date: 2023-06-11
+  - title: 'Ganja, brown sugar worth ₹300cr destroyed: Police'
+    url: https://timesofindia.indiatimes.com/city/bhubaneswar/ganja-brown-sugar-worth-300cr-destroyed-police/articleshow/100909015.cms
+    publisher: The Times of India
+    date: 2023-06-11
 ---
 
 The Special Task Force (STF) of Odisha police said it had destroyed a record
 220 tonnes (220,000 kg) of seized ganja in 1,434 cases over the previous year,
-along with more than 78 kg of brown sugar and heroin in 129 cases. [@1,2]
+along with more than 78 kg of brown sugar and heroin in 129 cases. [@1,2,3] Over 450 tonnes of ganja and 104 kg of brown sugar seized between 2020 and 2022 had piled up in the malkhanas, the storerooms of various courts and police stations, according to sources. [@4] Police valued the 220 tonnes of ganja at around Rs 220 crore and gave the 78 kg of brown sugar a street value of Rs 78 crore. [@4]
 
 ## A year of certified disposal
 
@@ -59,13 +69,13 @@ of the pre-trial seizure destruction drive, carried out under strict rules with
 the judiciary, forensic laboratory, pollution, excise and revenue
 authorities. [@1] The drive began after a 31 January 2022 Orissa High Court
 judgement on an STF petition, which directed subordinate courts to certify
-seized narcotics early under a standard procedure. [@1,2]
+seized narcotics early under a standard procedure. [@1,2,3]
 
 ## How the seizures were cleared
 
 After the state forensic laboratory reports on a seizure, the investigating
 officer moves the court to certify the inventory, and a judicial magistrate
 confirms it before a district drug-disposal committee destroys the drugs under
-section 52A of the Narcotic Drugs and Psychotropic Substances Act. [@1] The
+section 52A of the Narcotic Drugs and Psychotropic Substances Act. [@1,4] The ganja and brown sugar were destroyed at a designated incinerator in Khurda in the presence of state forensic science laboratory and state pollution control board officials. [@4] The
 first such disposal took place on 10 June 2022, and the 220 tonnes announced on
-10 June 2023 covered the year since then. [@1,2]
+10 June 2023 covered the year since then. [@1,2,3]
