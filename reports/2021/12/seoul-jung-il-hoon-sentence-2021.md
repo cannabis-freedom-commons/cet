@@ -76,6 +76,10 @@ sources:
     publisher: YTN
     date: 2021-12-16
     language: ko
+  - title: Ex-BTOB member gets 2-year prison term for marijuana use
+    url: https://www.koreaherald.com/article/2632048
+    publisher: The Korea Herald
+    date: 2021-06-10
 open_questions:
     - The opened accounts give Jung's age as 27 and 26 respectively, so no age is recorded in the report.
     - The Korea Times reports seven accomplices received 1 1/2 to two years while the Straits Times adds a possible suspended sentence; the report uses the shared 18-month to two-year range.
@@ -83,21 +87,22 @@ open_questions:
     - The 826g figure is the total the defendants were tried for buying and smoking, not a separately weighed seizure.
     - Yonhap gives the appeal forfeiture as 120 million won, while The Korea Times reports 126 million won and YTN 126.63 million won; the report uses 126.63 million won.
     - Whether prosecutors appealed the High Court ruling, and whether the suspended sentence became final, is not reported.
+    - The June 2021 sentence accounts all reproduce the same Yonhap report, so they are not independent reporting.
 ---
 
 Jung Il-hoon, former member of K-pop boy band BTOB, was sentenced by a local
-court Thursday to two years in prison for habitually smoking marijuana. [@1,3] The
+court Thursday to two years in prison for habitually smoking marijuana. [@1,3,7] The
 Seoul Central District Court ordered Jung to be taken into custody immediately
-after sentencing. [@1,3,4] On 16 December 2021 the Seoul High Court overturned the June ruling, sentencing Jung, 27, to two years in prison suspended for three years, and he was released. [@5] The judge deemed it necessary to arrest him in court
+after sentencing. [@1,3,4,7] On 16 December 2021 the Seoul High Court overturned the June ruling, sentencing Jung, 27, to two years in prison suspended for three years, and he was released. [@5] The judge deemed it necessary to arrest him in court
 because he was considered a flight risk. [@2] Jung had spent six months in jail after the first ruling and promised there not to use the drug again. [@5] Seven accomplices indicted for
 drug offences together with Jung were also sentenced to prison terms ranging
-from 18 months to two years. [@1,3] Jung admitted the charges and appealed for
+from 18 months to two years. [@1,3,7] Jung admitted the charges and appealed for
 mercy after prosecutors demanded a four-year prison sentence and forfeiture of
-133 million won. [@1,3] Jung lodged an appeal against the June ruling and submitted more than 80 letters of apology. [@5]
+133 million won. [@1,3,7] The court said the defendants used dark-web communications and cryptocurrency payments to conceal their offences, and named Jung and an accomplice surnamed Park as the leading figures who committed the most offences. [@7] Jung lodged an appeal against the June ruling and submitted more than 80 letters of apology. [@5]
 
 He was indicted without detention in April on charges of smoking marijuana worth
 133 million won bought from an acquaintance on 161 occasions between July 2016
-and January 2019. [@1] He and seven other defendants were on trial for buying
+and January 2019. [@1,7] He and seven other defendants were on trial for buying
 826g of marijuana valued at 133 million won and smoking it 161 times between 5
 July 2016 and 9 January 2019. [@2,6] The court ordered Jung to forfeit 133 million
 won for violating the Narcotics Control Act. [@1,5] The High Court ordered him to forfeit 126.63 million won and complete 40 hours of drug treatment sessions. [@6] The sentence was separately
