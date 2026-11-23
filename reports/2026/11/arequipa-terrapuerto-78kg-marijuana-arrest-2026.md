@@ -60,25 +60,28 @@ sources:
     publisher: Entre Líneas
     date: 2026-11-21
     language: es
+  - title: 'Arequipa: incautan casi 79 kilos de marihuana en el Terrapuerto'
+    url: https://diarioviral.pe/sur/arequipa-incautan-casi-79-kilos-de-marihuana-en-el-terrapuerto-62898
+    publisher: Diario Viral
+    date: 2026-11-21
+    language: es
 open_questions:
-  - No date is given for the police operation; 20 November 2026 is the publication date of the Diario Correo account and is used here.
-  - No charge, detention order or court outcome was reported; the case was at the investigation stage.
-  - Both accounts reproduce the same police statement and are not independent reporting.
-  - The substance was identified as marijuana by police, with no laboratory confirmation reported.
-  - No separate weight was published for each of the 36 packages.
+    - No charge, detention order or court outcome was reported; the case was at the investigation stage.
+    - All three accounts reproduce the same police statement and are not independent reporting.
+    - The substance was identified as marijuana by police, with no laboratory confirmation reported.
+    - No separate weight was published for each of the 36 packages.
 ---
 
 Agents of the Área Antidrogas of the Divincri, the anti-drug unit of Arequipa's
 criminal investigation police, arrested Juan Arrelucea Arroyo, 43, at the
-Terrapuerto, the city's long-distance bus terminal. [@1] Officers found 78.8
+Terrapuerto, the city's long-distance bus terminal. [@1,3] The intervention took place on Friday 20 November at the terminal. [@3] Officers found 78.8
 kilograms of marijuana in 36 rectangular packages wrapped in plastic film,
-packed inside three regular-sized boxes he had brought as luggage. [@1]
+packed inside three regular-sized boxes he had brought as luggage. [@1,3]
 According to police, he had arrived overland from Lima before being intercepted
-at the terminal. [@2]
+at the terminal. [@2,3]
 
 Besides the drug, officers seized a mobile phone, an electronic ticket receipt
-and a receipt for payment for excess baggage. [@1] The anti-drug area valued the
+and a receipt for payment for excess baggage. [@1,3] The procedure was led by PNP colonel Percy Torres Romero. [@3] The anti-drug area valued the
 marijuana at 118,200 soles and said it was destined for different illegal sales
-points in Arequipa province. [@1] The detainee was placed at the disposal of the
-authorities over his alleged involvement in illicit drug trafficking. [@1]
-
+points in Arequipa province. [@1,3] The detainee was placed at the disposal of the
+authorities over his alleged involvement in illicit drug trafficking. [@1,3]
