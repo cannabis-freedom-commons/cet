@@ -68,35 +68,32 @@ sources:
     publisher: Primera Edición
     date: 2024-10-20
     language: es
-open_questions:
-  - The sources do not say why one of the car's tyres burst.
-  - No charge, prosecution decision or court outcome was reported; the man was held at the police station at the disposal of the Oberá federal court.
-  - The 354,889,200 pesos is the authorities' valuation, not an independently established market price.
-  - The two accounts carry the same police version of the operation and are not independent reporting.
-  - No name or nationality was published for the detained man.
-  - The sources do not say where the load came from or where it was being taken.
-  - The marijuana was identified as cannabis sativa by a field narcotest; no laboratory result was reported.
+  - title: Un detenido y una millonaria incautación de marihuana tras una persecución en Puerto Rico - MisionesOnline
+    url: https://misionesonline.net/2024/10/20/millonaria-incautacion-de-marihuana/
+    publisher: MisionesOnline
+    date: 2024-10-20
+    language: es
+    archived: https://web.archive.org/web/20250318143020id_/https://misionesonline.net/2024/10/20/millonaria-incautacion-de-marihuana/
 ---
 
 A 38-year-old man was arrested in Puerto Rico, Misiones, after he fled on foot
-from a car stopped by police and was caught by officers. [@1] The chase began at
+from a car stopped by police and was caught by officers. [@1,3] The chase began at
 about 20:00 on Saturday 19 October 2024 on Avenida Alejo Rauber, when the driver
 of a Citroën C4 Lounge saw officers of the Unidad Regional V and turned around
-to avoid a police check. [@2] Officers followed the car along Presidente Raúl
+to avoid a police check. [@2,3] Officers followed the car along Presidente Raúl
 Alfonsín street, where the driver lost control after one of its tyres burst and
-stopped off the shoulder. [@1]
+stopped off the shoulder. [@1,3]
 
 In the car officers found nine black bundles holding a total of 356 bricks of
-marijuana. [@1] A narcotest carried out by personnel of the División Drogas
+marijuana. [@1,3] A narcotest carried out by personnel of the División Drogas
 Peligrosas confirmed the substance was cannabis sativa and gave a total weight
-of 296.741 kilograms. [@1] Police valued the load at 354,889,200 pesos, more
-than 350 million pesos. [@1] After consulting the Federal Court in Oberá,
+of 296.741 kilograms. [@1,3] Police valued the load at 354,889,200 pesos, more
+than 350 million pesos. [@1,3] After consulting the Federal Court in Oberá,
 officers seized the whole load and the car and deposited both at a police
-station. [@1] The detained man was held at the police station at the disposal of
-the court. [@1]
+station. [@1,3] The detained man was held at the police station at the disposal of
+the court. [@1,3]
 
 The Posadas daily Primera Edición reported the same detention, 356 bricks and
 296.741 kilograms, and the same valuation of more than 350 million pesos. [@2]
 Primera Edición also said the load was seized on the order of the Oberá federal
 court and the driver left at the disposal of the justice system. [@2]
-
