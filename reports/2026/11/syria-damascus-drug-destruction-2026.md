@@ -134,6 +134,11 @@ sources:
     publisher: اخبار الغد
     date: 2026-11-22
     language: ar
+  - title: سوريا تتلف 400 مليون حبة كبتاغون وكميات ضخمة من المخدرات
+    url: https://www.ghadnews.net/2026/11/22/400-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AD%D8%A8%D8%A9-%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D8%A7%D8%AA%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA/
+    publisher: أخبار الغد
+    date: 2026-11-22
+    language: ar
 open_questions:
     - The directorate did not say which earlier operations or dates the destroyed hashish and cannabis plant came from.
     - No figure was published for how many plants the 2.3 tonnes of cannabis plant represents.
@@ -142,22 +147,22 @@ open_questions:
 
 Syria's Anti-Narcotics Directorate announced on Sunday 22 November 2026 that a
 joint committee of the interior, justice and health ministries had destroyed
-large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15] The quantities
+large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15,16] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15] The quantities
 were destroyed in batches under approved legal and environmental procedures.
-[@4] The directorate described the destruction as reflecting integrated national
+[@4,16] The directorate described the destruction as reflecting integrated national
 efforts against drugs. [@2]
 
 The destroyed material included 12.2 tonnes of hashish and 2.3 tonnes of
-cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15] The same batches included
+cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16] The same batches included
 400 million Captagon pills, 6 kilograms of heroin and 5.4 million other narcotic
-pills, none of which is counted as cannabis. [@3,5,6,8,9,11,12,13,14,15] The directorate also destroyed
+pills, none of which is counted as cannabis. [@3,5,6,8,9,11,12,13,14,15,16] The directorate also destroyed
 equipment and chemicals used to smuggle, conceal, transport and manufacture the
-drugs. [@1,6,8,9,11,12,13,14,15]
+drugs. [@1,6,8,9,11,12,13,14,15,16]
 
 Interior Minister Anas Khattab said the quantities were among the largest
 destroyed since Bashar al-Assad's government fell in December 2024. [@4,7]
 Captagon production and trafficking grew during Syria's conflict, and under
 Assad the country became a main manufacturing and export centre for the pills,
-sent to the Gulf through Jordan and Lebanon. [@3,9,11,13,14,15] Since Assad's overthrow the
+sent to the Gulf through Jordan and Lebanon. [@3,9,11,13,14,15,16] Since Assad's overthrow the
 new authorities have repeatedly announced seizures and foiled smuggling of
 hashish and Captagon on the Lebanese and Jordanian borders. [@3,6,9,11,13,14,15]
