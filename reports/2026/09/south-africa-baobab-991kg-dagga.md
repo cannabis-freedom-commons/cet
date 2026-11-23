@@ -24,6 +24,11 @@ media:
     media_url: https://bnknews.co.za/assets/cache/images/6aae472d4c185-dagga-seizure-beitbridge_1200_977799bb114eacf20b5817237e92a830.webp
     publisher: BNK News
     caption: "Wrapped dagga bundles stacked outside a SARS Customs post after the Baobab Tollgate interception (BNK News)."
+  - kind: photo
+    url: https://www.sabcnews.com/sabcnews/police-seize-r1-5m-dagga-haul-two-arrested/
+    media_url: https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/09/sabc-news-DAGGA-SAPolice.jpeg
+    publisher: SABC News
+    caption: 'Photo credited to the South African Police Service''s X account showing the dagga from the Baobab Tollgate seizure. Photo: @SAPoliceServices via X.'
 details:
   activity: [sale]
   agencies: [za-saps]
@@ -60,18 +65,23 @@ sources:
     url: https://bnknews.co.za/story/two-tanzanian-nationals-arrested-after-r15-million-dagga-haul-at-baobab-tollgate-in-limpopo
     publisher: BNK News
     date: 2026-09-19
+  - title: Police seize R1.5m dagga haul, two arrested
+    url: https://www.sabcnews.com/sabcnews/police-seize-r1-5m-dagga-haul-two-arrested/
+    publisher: SABC News
+    date: 2026-09-19
+    language: en
 ---
 
 During a roadblock at the Baobab Toll Plaza in the Vhembe District at about 11:00
 on Friday 18 September, members of the Beitbridge Port of Entry Task Team stopped
-a white Toyota Hilux with a canopy travelling toward Beitbridge. [@1,2] The two
+a white Toyota Hilux with a canopy travelling toward Beitbridge. [@1,2,3] The two
 occupants, men aged 32 and 41 who identified themselves as Tanzanian nationals,
-said they had no keys to the padlock on the canopy. [@1,2]
+said they had no keys to the padlock on the canopy. [@1,2,3]
 
 The vehicle was escorted 51 kilometres to the Beitbridge Port of Entry, where BMA
 and SAPS officers opened the canopy in the suspects' presence and found 33 bags
 of suspected dagga weighing about 991.5 kilograms, with an estimated street value
-of R1.5 million. [@1,2] Both men were arrested and were due before the Musina
+of R1.5 million. [@1,2,3] Both men were arrested and were due before the Musina
 Magistrate's Court on Monday 21 September on charges of dealing in dagga; a
-criminal docket was opened at Musina SAPS. [@1,2] Limpopo Provincial Commissioner
-Lieutenant General Jan Scheepers praised the team's vigilance. [@2]
+criminal docket was opened at Musina SAPS. [@1,2,3] Limpopo Provincial Commissioner
+Lieutenant General Jan Scheepers praised the team's vigilance. [@2,3]
