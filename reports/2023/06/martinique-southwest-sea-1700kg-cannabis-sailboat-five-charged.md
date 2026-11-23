@@ -96,20 +96,34 @@ sources:
     publisher: France-Antilles Martinique
     date: 2023-07-05
     language: fr
+  - title: 1 700 kg de cannabis saisis au large de la Martinique par les forces armées aux Antilles
+    url: https://www.zayactu.org/actu/1-700-kg-de-cannabis-saisis-au-large-de-la-martinique-par-les-forces-armees-aux-antilles
+    publisher: ZayActu
+    date: 2023-07-05
+    language: fr
+  - title: FAA – Saisie de 1,7 tonnes de cannabis
+    url: https://www.defense.gouv.fr/marine/actualites/faa-saisie-17-tonnes-cannabis
+    publisher: Ministère des Armées
+    date: 2023-07-07
+    language: fr
+  - title: La Combattante seized drugs off Martinique
+    url: https://maritimescrimes.com/2023/07/06/drug-seizure-by-la-combattante-off-martinique/
+    publisher: Maritimes Crimes
+    date: 2023-07-06
 ---
 
 In the night of 29 June 2023, French forces boarded a suspect sailboat about 200
-km southwest of Martinique. [@2,3,4] The patrol vessel La Combattante and a customs
+km southwest of Martinique. [@2,3,4,5] The patrol vessel La Combattante and a customs
 coast-guard maritime patrol aircraft were deployed to board the sailboat
 suspected of drug trafficking. [@2] Five crew members were aboard the sailboat
-when it was boarded. [@2] On 1 July 2023 the drugs, the sailboat and the five
+when it was boarded. [@2,6] On 1 July 2023 the drugs, the sailboat and the five
 suspects were handed to the OFAST Caraibe office on the instruction of the
-Fort-de-France JIRS prosecutor. [@1,4] After initial inquiries they were brought
+Fort-de-France JIRS prosecutor. [@1,4,5] After initial inquiries they were brought
 before an investigating judge, charged with organised-gang drug and weapons
 offences and criminal association, and remanded in pre-trial detention. [@1,4]
 
 Officers found many suspect bales aboard that tested positive for cannabis,
-totalling 1,700 kg of cannabis alongside 2 kg of cocaine. [@2,3,4] The interception
+totalling 1,700 kg of cannabis alongside 2 kg of cocaine. [@2,3,4,5,7] The interception
 followed a tip from the United States Joint InterAgency Task Force-South and
 support from a customs coast-guard maritime patrol aircraft. [@1] The operation was led by the admiral commanding the Antilles maritime zone, delegated by the prefect of Martinique, with support from the customs coast-guard service and the Ministry of Europe and Foreign Affairs, under the Jirs prosecutor. [@4]
 
