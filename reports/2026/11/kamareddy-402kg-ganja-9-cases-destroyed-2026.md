@@ -55,18 +55,16 @@ sources:
     publisher: Akshara Today
     date: 2026-11-21
     language: te
-open_questions:
-  - No breakdown of the 402.184 kg or the 83 plants among the nine cases was published.
-  - The reports do not say what stage the nine NDPS cases have reached or whether anyone has been tried.
-  - No value or street estimate was published for the destroyed ganja.
-  - The 286 grams of alprazolam and 40 grams of chloral hydrate destroyed at the same time are not counted in the cannabis figures.
-  - The disposal site is in Nizamabad district while the cases were registered in Kamareddy district; the reports do not explain the choice of site.
-  - The three accounts appear to reproduce the same district police statement and are not independent reporting.
+  - title: డ్రగ్స్ పై ఉక్కుపాదం.. మత్తు పదార్థాల నియంత్రణకు ఎస్పీ రాజేష్ చంద్ర ప్రత్యేక కార్యాచరణ.
+    url: https://aimamedia.org/newsdetails.aspx?nid=858560
+    publisher: AIMA Media
+    date: 2026-11-21
+    language: te
 ---
 
 Kamareddy district police destroyed 402.184 kg of ganja seized in nine NDPS Act
 cases, along with 83 ganja plants, 286 grams of alprazolam and 40 grams of
-chloral hydrate. [@1] The disposal was carried out on Saturday under the
+chloral hydrate. [@1,4] The disposal was carried out on Saturday under the
 district drug disposal committee, whose chairman is district superintendent of
 police M. Rajesh Chandra. [@2]
 
@@ -83,7 +81,6 @@ notification and government rules. [@1]
 Rajesh Chandra said ganja and drug use destroy young people's futures and push
 families into hardship. [@1] He said police surveillance of drug transport, sale
 and use would continue and asked people to report information to the police or
-on dial 112. [@1] Additional superintendent of police (administration) K.
+on dial 112. [@1,4] Additional superintendent of police (administration) K.
 Narasimha Reddy, Kamareddy DSP S. Madhusudhan, DCRB officers and police staff
 attended the disposal. [@3]
-
