@@ -50,34 +50,42 @@ sources:
     publisher: Martinique La 1ère
     date: 2026-06-01
     language: fr
+  - title: Deux trafics de stupéfiants démantelés dans le Sud
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/deux-trafics-de-stupefiants-demanteles-dans-le-sud-1080869.php
+    publisher: France-Antilles Martinique
+    date: 2026-06-01
+    language: fr
+  - title: Les gendarmes démantèlent deux trafics de stupéfiants, à Rivière-Salée et à Sainte-Luce
+    url: https://rci.fm/martinique/infos/Faits-divers/Les-gendarmes-demantelent-deux-trafics-de-stupefiants-Riviere-Salee-et-Sainte
+    publisher: RCI
+    date: 2026-06-01
+    language: fr
 open_questions:
-  - The raid is dated Tuesday 27 May, with the year 2026 inferred from the 1 June 2026 publication, but 27 May 2026 was a Wednesday, so the exact raid date remains uncertain.
-  - The dried-herb amount was reported as more than 2.2 kg, so the recorded 2.614 kg total is a minimum.
-  - The 500 euros in seized cash is not recorded as a market value or fine because no cannabis valuation was published.
-  - The 22 seeds and 31 sachets were reported without weights and are not included in the kilogram total.
-  - No outcome of the father's guilty-plea hearing or the son's simplified proceedings was reported.
-  - The same article reports a separate Sainte-Luce seizure and sentence involving cannabis resin, contraband cigarettes and cash, which is left out here as a different event.
-  - Only one accessible source for this event was opened after searches returned no openable second account.
+    - The raid is dated Tuesday 27 May, but 27 May 2026 was a Wednesday, so the exact raid date remains uncertain.
+    - The dried herb was reported as 2.235 kg by France-Antilles, more than 2.2 kg by Martinique La 1ère and more than 2 kg by RCI, so the recorded 2.614 kg total is a minimum.
+    - The 500 euros in seized cash is not recorded as a market value or fine because no cannabis valuation was published.
+    - The 22 seeds and 31 sachets were reported without weights and are not included in the kilogram total.
+    - No outcome of the father's guilty-plea hearing or the son's simplified proceedings was reported.
+    - The same article reports a separate Sainte-Luce seizure and sentence involving cannabis resin, contraband cigarettes and cash, which is left out here as a different event.
 ---
 
 Gendarmes of the Marin company dismantled a cannabis cultivation at a home in
 Rivière-Salée. [@1] The Rivière-Salée brigade had watched a resident for a month
 on suspicion that he was growing drugs at his home. [@1] The homeowner and his
-son were both taken into custody. [@1] After questioning, the son was released
+son were both taken into custody. [@1,3] After questioning, the son was released
 and will face proceedings for drug use through an ordonnance pénale délictuelle,
 France's simplified written criminal-order procedure. [@1] His father is being
 prosecuted for acquiring, transferring and transporting drugs and was brought
 before the Fort-de-France judicial court under a reconnaissance préalable de
-culpabilité, France's guilty-plea procedure. [@1]
+culpabilité, France's guilty-plea procedure. [@1,3]
 
 Gendarmes entered the property on Tuesday 27 May and found cannabis growing
 outdoors and in two bedrooms converted for cultivation. [@1] Officers seized 579
-cannabis plants in the operation. [@1] They also seized more than 2.2 kg of
-dried herb, 380 grams of cannabis heads and 34 grams of pollen. [@1] They also
+cannabis plants in the operation. [@1,3] They also seized more than 2.2 kg of
+dried herb, 380 grams of cannabis heads and 34 grams of pollen. [@1,2] They also
 seized 22 seeds, 31 sachets ready for sale and 500 euros in cash. [@1]
 
 The investigation had been guided by cannabis smells near the property and by
 regular visits from users. [@1] The case followed several weeks of investigation
 by the Rivière-Salée gendarmes, part of the gendarmerie, France's rural police
 force. [@1]
-
