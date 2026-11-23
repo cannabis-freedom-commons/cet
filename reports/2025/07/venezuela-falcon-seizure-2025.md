@@ -46,6 +46,12 @@ sources:
     publisher: teleSUR
     date: 2025-07-30
     language: es
+  - title: Autoridades venezolanas incautan más de 3 mil kilos de marihuana
+    url: https://www.laradiodelsur.com.ve/autoridades-venezolanas-incautan-mas-de-3-mil-kilos-de-marihuana/
+    publisher: La Radio del Sur
+    date: 2025-07-30
+    language: es
+    archived: https://web.archive.org/web/20250731054904id_/https://www.laradiodelsur.com.ve/autoridades-venezolanas-incautan-mas-de-3-mil-kilos-de-marihuana/
 ---
 
-Diosdado Cabello, the vice-president for security, announced the seizure of 3,077 kg of marijuana at Pico de Zamuro in Falcón state. [@1,2] Eight Venezuelans travelling in a boat with five high-powered engines were arrested by the investigative police’s anti-drug division. [@1,2] The action was executed by the CICPC Anti-Drug Division and the Strategic Operations Group (GOES), in coordination with the Territorial Defensive System after intelligence and investigation work. [@2] The boat was carrying 114 bales of the drug. [@2]
+Diosdado Cabello, the vice-president for security, announced the seizure of 3,077 kg of marijuana at Pico de Zamuro in Falcón state. [@1,2,3] Eight Venezuelans travelling in a boat with five high-powered engines were arrested by the investigative police’s anti-drug division. [@1,2,3] The ministry statement described the boat as an 'embarcación tipo peñero', a peñero-type vessel. [@3] The action was executed by the CICPC Anti-Drug Division and the Strategic Operations Group (GOES), in coordination with the Territorial Defensive System after intelligence and investigation work. [@2,3] The boat was carrying 114 bales of the drug. [@2]
