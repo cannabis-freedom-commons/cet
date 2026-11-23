@@ -72,6 +72,10 @@ sources:
     url: https://www.mysaline.com/asp-112026/
     publisher: MySaline
     date: 2026-11-20
+  - title: Arkansas State Police seize multiple ‘major drug shipments,’ THC products in three I-40 traffic stops
+    url: https://www.fox16.com/crime/arkansas-state-police-seize-multiple-major-drug-shipments-thc-products-in-three-i-40-traffic-stops/
+    publisher: KLRT - FOX16.com
+    date: 2026-11-20
 open_questions:
   - The 2,588 pounds of THC-infused products were commercial drinks, edibles and gummies, with no published breakdown of cannabis-derived content; they are excluded from the cannabis weight.
   - The $2 million was the police estimate of the combined street value of all the drugs found in the box truck, with no separate value given for the marijuana.
@@ -80,25 +84,24 @@ open_questions:
 ---
 
 Troopers stopped a white box truck travelling eastbound on Interstate 40 near
-London in Pope County on the afternoon of 18 November 2026. [@2] A search found
+London in Pope County on the afternoon of 18 November 2026. [@2,4] A search found
 hidden compartments holding cardboard boxes with 86 pounds of illegal marijuana,
-alongside cocaine, fentanyl pills and methamphetamine. [@2] The driver, Justin
+alongside cocaine, fentanyl pills and methamphetamine. [@2,4] Investigators put the other drugs in the same truck at 46.5 pounds of fentanyl pills, 115 pounds of cocaine and 7 pounds of methamphetamine. [@4] The driver, Justin
 Borba, 33, of Grants Pass, Oregon, was arrested and booked on a felony charge of
-possession with intent to deliver. [@2] Borba told investigators he had been
-driving from Compton, California, to Charlotte, North Carolina. [@2]
+possession with intent to deliver. [@2,4] Borba told investigators he had been
+driving from Compton, California, to Charlotte, North Carolina. [@2,4]
 
 State police estimated the combined street value of the narcotics at more than
-$2 million. [@3] Across the three stops, two drivers, aged 33 and 47, were
+$2 million. [@3,4] Across the three stops, two drivers, aged 33 and 47, were
 arrested on felony drug charges. [@1] Earlier on 18 November, troopers stopped a
 box truck near mile marker 73 and reported more than 2,588 pounds of THC-infused
 products, including marijuana pre-rolls, edibles and Sherpa THC Seltzer
-beverages. [@2] That driver had been hired to carry the shipment from Oklahoma
+beverages. [@2,4] That driver had been hired to carry the shipment from Oklahoma
 to Florida and was not charged after investigators concluded he was not
-knowingly involved. [@2]
+knowingly involved. [@2,4]
 
 The first stop was on 10 November near mile marker 172, where troopers pulled
 over an eastbound Chevrolet Silverado. [@2] Officers found about 66 pounds of
-methamphetamine and one kilogram of fentanyl. [@2] The driver, Misty Bizzle, 47,
+methamphetamine and one kilogram of fentanyl. [@2,4] The driver, Misty Bizzle, 47,
 of Otway, Ohio, told investigators she was travelling from California to Ohio.
-[@2]
-
+[@2,4]
