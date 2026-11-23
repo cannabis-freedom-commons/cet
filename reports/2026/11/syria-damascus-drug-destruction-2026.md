@@ -46,6 +46,11 @@ media:
     media_url: https://static.srpcdigital.com/2026-11/1888006.jpeg?VersionId=olj6nN3_2dg7lQTtrCKDBtN95xUkkc62
     publisher: الشرق الأوسط
     caption: 'Some of the narcotics destroyed by Syria''s Anti-Narcotics Directorate on 22 November 2026. Photo: Anti-Narcotics Directorate via Asharq Al-Awsat'
+  - kind: photo
+    url: https://www.albawaba.com/news/syrian-authorities-destroy-400-million-1641903
+    media_url: https://www.albawaba.com/sites/default/files/styles/d08_standard/public/2026-11/AFP__20261122__D8AF4CQ__v1__MidRes__SyriaConflictDrugs.jpg.webp?itok=VTku-KoP
+    publisher: Al Bawaba
+    caption: 'Sacks of seized drugs being prepared for destruction in Syria, a SANA handout dated 22 November 2026. Photo: SANA via Al Bawaba'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 58eedc046fa120c14fd1e1dffaf83932
@@ -85,6 +90,11 @@ sources:
     url: https://www.syrianow.net/en/posts/2026/11/22/captagon-destruction-400-million-pills/
     publisher: Syria Now
     date: 2026-11-22
+  - title: Syrian authorities destroy 400 million Captagon pills in drug haul
+    url: https://www.albawaba.com/news/syrian-authorities-destroy-400-million-1641903
+    publisher: Al Bawaba
+    date: 2026-11-22
+    language: en
 open_questions:
   - The statements do not name the site of the destruction; the photographs published with them are captioned Damascus on 22 November 2026.
   - No count of cannabis plants was given; the 2.3 tonnes of cannabis plant is reported by weight only.
@@ -96,17 +106,17 @@ open_questions:
 
 Syria's Anti-Narcotics Directorate announced on Sunday 22 November 2026 that a
 joint committee of the interior, justice and health ministries had destroyed
-large quantities of narcotics and psychotropic substances. [@1,5,6] The drugs had been seized by security forces in successive operations. [@5,6] The quantities
+large quantities of narcotics and psychotropic substances. [@1,5,6] The drugs had been seized by security forces in successive operations. [@5,6,8] The quantities
 were destroyed in batches under approved legal and environmental procedures.
 [@4] The directorate described the destruction as reflecting integrated national
 efforts against drugs. [@2]
 
 The destroyed material included 12.2 tonnes of hashish and 2.3 tonnes of
-cannabis plant, 14.5 tonnes of cannabis in all. [@1,6] The same batches included
+cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8] The same batches included
 400 million Captagon pills, 6 kilograms of heroin and 5.4 million other narcotic
-pills, none of which is counted as cannabis. [@3,5,6] The directorate also destroyed
+pills, none of which is counted as cannabis. [@3,5,6,8] The directorate also destroyed
 equipment and chemicals used to smuggle, conceal, transport and manufacture the
-drugs. [@1,6]
+drugs. [@1,6,8]
 
 Interior Minister Anas Khattab said the quantities were among the largest
 destroyed since Bashar al-Assad's government fell in December 2024. [@4,7]
