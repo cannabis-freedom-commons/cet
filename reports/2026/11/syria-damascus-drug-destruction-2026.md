@@ -110,6 +110,10 @@ sources:
     publisher: مونت كارلو الدولية / MCD
     date: 2026-11-22
     language: ar
+  - title: Syria destroys 400 mn captagon pills in major drug haul
+    url: https://www.arabnews.com/middle-east/syria-destroys-400-mn-captagon-pills-in-major-drug-haul-3013499
+    publisher: Arab News
+    date: 2026-11-22
 open_questions:
     - No figure was published for the value of the destroyed hashish or cannabis plant.
     - The destroyed batches were said to have been seized in recent separate operations, and no breakdown by date or place was given.
@@ -123,11 +127,11 @@ were destroyed in batches under approved legal and environmental procedures.
 efforts against drugs. [@2]
 
 The destroyed material included 12.2 tonnes of hashish and 2.3 tonnes of
-cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10] The same batches included
+cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12] The same batches included
 400 million Captagon pills, 6 kilograms of heroin and 5.4 million other narcotic
-pills, none of which is counted as cannabis. [@3,5,6,8,9,11] The directorate also destroyed
+pills, none of which is counted as cannabis. [@3,5,6,8,9,11,12] The directorate also destroyed
 equipment and chemicals used to smuggle, conceal, transport and manufacture the
-drugs. [@1,6,8,9,11]
+drugs. [@1,6,8,9,11,12]
 
 Interior Minister Anas Khattab said the quantities were among the largest
 destroyed since Bashar al-Assad's government fell in December 2024. [@4,7]
