@@ -62,6 +62,11 @@ sources:
     url: https://inews.ma/news/8807072
     publisher: أخبار المغرب العاجلة
     language: ar
+  - title: الدرك الملكي يُحبط محاولة لتهريب الحشيش نحو سبتة باستعمال "محرك دفع مائي" ومعدات غوص متطورة - العرائش نيوز - Larachenews
+    url: https://larachenews.com/220912.html
+    publisher: العرائش نيوز - Larachenews
+    date: 2026-11-20
+    language: ar
 open_questions:
     - No weight was published for the hashish seized in Fnideq, described only as a shipment or a quantity.
     - No arrests or detention measures were reported; the suspects escaped and investigations to identify them are ongoing.
@@ -71,19 +76,19 @@ open_questions:
 ---
 
 Officers of the Fnideq judicial centre of the Royal Gendarmerie seized a
-professional underwater self-propulsion device and a quantity of hashish. [@1,3,4]
+professional underwater self-propulsion device and a quantity of hashish. [@1,3,4,6]
 The operation was conducted under the Tetouan regional and Mdiq-Fnideq
 provincial gendarmerie commands as part of surveillance of the kingdom's
-northern coasts against criminal exploitation of sea routes. [@2,3,4] The gendarmerie stopped the attempt on Thursday 19 November 2026 as the hashish was being taken by sea toward the Spanish enclave of Ceuta. [@3,5] Investigations
+northern coasts against criminal exploitation of sea routes. [@2,3,4,6] The gendarmerie stopped the attempt on Thursday 19 November 2026 as the hashish was being taken by sea toward the Spanish enclave of Ceuta. [@3,5,6] Investigations
 under the competent public prosecution are expected to establish the equipment's
 source, the identity of its users and any link to the network known as
-Al-Ghassasa. [@2] The gendarmerie said its inquiries were continuing to identify the suspects, arrest them and uncover the criminal network's other branches and the parties that provide its logistics for smuggling along the northern coasts. [@3,4] The suspects escaped and none was arrested. [@3,4]
+Al-Ghassasa. [@2] The gendarmerie said its inquiries were continuing to identify the suspects, arrest them and uncover the criminal network's other branches and the parties that provide its logistics for smuggling along the northern coasts. [@3,4,6] The suspects escaped and none was arrested. [@3,4,6]
 
 The device is a specialized professional diving apparatus that lets users travel
 underwater by electric propulsion and cover sea distances without traditional
 swimming. [@2] Such specialized devices are costly, with market prices ranging
 between 40,000 and 75,000 euros depending on type, specifications and
-operational capabilities. [@2] Investigators are examining whether the device
+operational capabilities. [@2,6] Investigators are examining whether the device
 was intended for maritime drug smuggling using diving equipment along routes
 that are difficult to monitor. [@1]
 
