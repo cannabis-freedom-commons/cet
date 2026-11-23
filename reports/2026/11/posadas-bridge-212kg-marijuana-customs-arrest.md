@@ -87,6 +87,16 @@ media:
     media_url: https://www.misionesopina.com.ar/wp-content/uploads/2026/11/IMG-20261121-WA0011.jpg.webp
     publisher: MisionesOpina
     caption: Customs officers opening the hidden compartments of the car and the brick-shaped packages of marijuana seized at the Posadas-Encarnación bridge.
+  - kind: photo
+    url: https://noticiasdel6.com/la-aduana-secuestro-mas-de-212-kilos-de-marihuana-en-el-puente-internacional-de-posadas/
+    media_url: https://noticiasdel6.com/wp-content/uploads/2026/11/IMG-20261121-WA0010.jpg.webp
+    publisher: Noticiasdel6.com
+    caption: 'Frame from the Aduana handout published with the account of the 212 kg of marijuana found in a car at the Posadas international bridge. Photo: Aduana'
+  - kind: photo
+    url: https://noticiasdel6.com/la-aduana-secuestro-mas-de-212-kilos-de-marihuana-en-el-puente-internacional-de-posadas/
+    media_url: https://noticiasdel6.com/wp-content/uploads/2026/11/IMG-20261121-WA0007.jpg.webp
+    publisher: Noticiasdel6.com
+    caption: 'Frame from the Aduana handout published with the account of the 212 kg of marijuana found in a car at the Posadas international bridge. Photo: Aduana'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 7c913afa32222d733e6e156dbc810436
@@ -132,25 +142,34 @@ sources:
     publisher: MisionesOpina
     date: 2026-11-21
     language: es
+  - title: La Aduana secuestró más de 212 kilos de marihuana en el puente internacional de Posadas
+    url: https://noticiasdel6.com/la-aduana-secuestro-mas-de-212-kilos-de-marihuana-en-el-puente-internacional-de-posadas/
+    publisher: Noticiasdel6.com
+    date: 2026-11-21
+    language: es
+open_questions:
+    - No charges, detention hearing or court outcome beyond the referral to the Posadas federal prosecutor's office have been reported.
+    - Última Hora headlined the load as 200 kilos while the other accounts give more than 212; this report uses the higher figure.
+    - No figure was published for the number of packages or for the street value in a currency other than pesos.
 ---
 
 Argentine customs officers seized 212 kilograms of marijuana from a car at the
-international bridge in Posadas, Misiones. [@1,5,6,7,8] The car was detained on the
+international bridge in Posadas, Misiones. [@1,5,6,7,8,9] The car was detained on the
 afternoon of Friday 20 November 2026 at the Argentine end of the
 Posadas-Encarnación bridge. [@3,5,8] Its driver, a 35-year-old Argentine, was
 arrested and placed at the disposal of the Unidad Fiscal Posadas, the federal
-prosecutor's office. [@3,5,6,7,8] He was bringing the load into Argentina from
+prosecutor's office. [@3,5,6,7,8,9] He was bringing the load into Argentina from
 Encarnación, Paraguay. [@4,5]
 
 The procedure began around 17:00 when a Chevrolet reached the migration control
 on the San Roque González de Santa Cruz bridge. [@3] The vehicle was a Chevrolet Spin. [@5] Officers diverted the car
-with Argentine plates to the inspection bays for a more thorough check. [@2,6]
+with Argentine plates to the inspection bays for a more thorough check. [@2,6,9]
 They found brick-shaped packages hidden under the bonnet, behind the dashboard
-and in the floor of the vehicle. [@1,6] Some packages were hidden in the sides of the bodywork and under the seats. [@5] Images from a scanner truck confirmed the
-presence of the packages in those compartments. [@1,5,6]
+and in the floor of the vehicle. [@1,6,9] Some packages were hidden in the sides of the bodywork and under the seats. [@5] Images from a scanner truck confirmed the
+presence of the packages in those compartments. [@1,5,6,9]
 
 Officers opened the hidden compartments with tools. [@3] Customs valued the load
-at nearly 832 million pesos. [@1,5,6,8] The case was opened as aggravated smuggling of
-narcotics. [@1,5] The car was seized together with the marijuana and held for the judicial case. [@6]
+at nearly 832 million pesos. [@1,5,6,8,9] The case was opened as aggravated smuggling of
+narcotics. [@1,5,9] The car was seized together with the marijuana and held for the judicial case. [@6]
 
 The operation began at around 17:00 when División Aduana Posadas staff diverted the car to the inspection bays. [@7] Officers found brick-type packages under the bonnet, behind the dashboard and on the floor of the car, and scanner-truck images confirmed their presence there. [@7]
