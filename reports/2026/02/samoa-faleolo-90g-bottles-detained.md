@@ -54,12 +54,25 @@ sources:
     url: https://fijisun.com.fj/news/nation/fiji-airways-passenger-caught-with-drugs-in-samoa
     publisher: Fiji Sun
     date: 2026-02-12
+  - title: Inbound passenger from Fiji arrested for drugs
+    url: https://www.samoaobserver.ws/category/samoa/118373
+    publisher: Samoa Observer
+    date: 2026-02-11
+    language: en
 media:
   - kind: photo
     url: https://www.rnz.co.nz/news/pacific/586643/samoa-authorities-detain-nz-passport-holder-following-marijuana-seizure-at-faleolo-international-airport
     media_url: https://media.rnztools.nz/rnz/image/upload/s--mt1yIJsk--/t_tohu-badge-facebook/f_auto/q_auto/4JTBWQE_633409865_1313277480835399_4945870416908190837_n_jpg
     publisher: RNZ
     caption: "Seized marijuana tubs and Duquenois-Levine test kits after the Faleolo interception (Samoa Government via RNZ)."
+  - kind: photo
+    url: https://www.samoaobserver.ws/category/samoa/118373
+    media_url: https://samoa-observer-prd.s3.ap-southeast-2.amazonaws.com/store/f3b690c6f9d6f9b5fa48083518e9c848.webp
+    publisher: Samoa Observer
+    caption: 'A passenger of Samoan background detained after alleged possession of cannabis following a Fiji Airways flight to Apia. Photo: Junior S. Ami'
+open_questions:
+    - Police did not confirm whether the passenger was travelling straight from Nadi or transiting.
+    - One account said the man was held in custody for further investigation, while the Samoa Observer reported that he was released after being charged with possession of marijuana.
 ---
 
 A 43-year-old Samoan national holding a New Zealand passport was detained in
@@ -69,10 +82,10 @@ Faleolo International Airport on February 12, 2026. [@1,3,4][@2]
 The man, who resides in Australia, arrived on a Fiji Airways flight and was
 intercepted during routine border clearance; officers found six bottles
 containing marijuana along with a cannabis grinder and rolling papers in his
-possession. [@1,3,4][@2]
+possession. [@1,3,4,5][@2]
 
 The Ministry of Customs and Samoa Police said in a joint statement that the
 items were detected during standard screening by frontline officers and seized
 under the Customs Act and Narcotics Act. [@1,4] The man was held in custody for
 further investigation and questioning as authorities warned travellers that
-importing illicit drugs carries severe penalties under local law. [@1,3,4][@2]
+importing illicit drugs carries severe penalties under local law. [@1,3,4,5] The passenger was released after being questioned and charged with possession of marijuana. [@5][@2]
