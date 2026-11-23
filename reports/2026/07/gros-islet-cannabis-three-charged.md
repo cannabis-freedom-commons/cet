@@ -79,11 +79,10 @@ Charles was charged with possession of a controlled drug and possession with
 intent to supply. [@4] Thomas was charged with possession of controlled drugs
 and possession with intent to supply. [@4] Thomas appeared before the First
 District Court on 30 July and was granted bail of $1,500.00 for each charge,
-with the case adjourned to 7 October 2026. [@1] Charles was granted bail of
+with the case adjourned to 7 October 2026. [@1,2] Charles was granted bail of
 $2,000.00 on the first charge and $1,000.00 on the second at his 31 July court
-appearance. [@1] Charles's case was adjourned to 9 September 2026. [@1] Clovis
+appearance. [@1] As part of his bail conditions, Charles must surrender his travel documents, remain in Saint Lucia unless the court grants permission to travel, and report to the Gros Islet Divisional Headquarters every Wednesday between 6 a.m. and 6 p.m. [@2] Charles's case was adjourned to 9 September 2026. [@1] Clovis
 was charged with possession of a component part of a firearm and granted
-$20,000.00 bail at a 31 July hearing. [@1] Police described the operation as an
+$20,000.00 bail at a 31 July hearing. [@1,2] As part of his bail conditions, Clovis must surrender all travel documents, remain in Saint Lucia unless the court grants permission to travel, and report to the Gros Islet Divisional Headquarters every Saturday between 6 a.m. and 6 p.m. [@2] Police described the operation as an
 ongoing strategy to strengthen public safety and disrupt crime ahead of one of
 the island's largest annual celebrations. [@4]
-
