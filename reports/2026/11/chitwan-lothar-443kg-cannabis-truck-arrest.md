@@ -65,6 +65,10 @@ sources:
     url: https://thehimalayantimes.com/ampArticle/1040962
     publisher: The Himalayan Times
     date: 2026-11-20
+  - title: Two Indian nationals arrested with 443 kg of cannabis in Chitwan
+    url: https://www.hamropatro.com/en/news/detail/1795237791120921675-two-indian-nationals-arrested-with-443-kg-of-cannabis-in
+    publisher: Hamro Patro
+    date: 2026-11-20
 media:
   - kind: photo
     url: https://hindi.ratopati.com/story/41312/443-kg-of-marijuana-smuggled-into-indian-container-through-false-bottom-seized-in-chitwan
@@ -76,7 +80,7 @@ open_questions:
 ---
 
 Police arrested two Indian nationals in Chitwan after recovering 443 kilograms
-of cannabis concealed in a false compartment of an Indian container truck. [@1,2,3,4,5,6]
+of cannabis concealed in a false compartment of an Indian container truck. [@1,2,3,4,5,6,7]
 The arrests were made during a vehicle inspection at a police checkpoint in
 Lothar, Rapti Municipality-1, Chitwan. [@1,2,3,4,5] The vehicle inspection took place on a Friday. [@2,3] The inspection took place at about 9 a.m. [@6] The driver was 24-year-old Satyam
 Kumar, a resident of Charkhaje in India's Vaishali district. [@1,2,5,6] The co-driver
