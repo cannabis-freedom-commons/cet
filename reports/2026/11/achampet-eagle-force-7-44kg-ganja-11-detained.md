@@ -71,35 +71,37 @@ sources:
     publisher: Andhra Prabha
     date: 2026-11-21
     language: te
-open_questions:
-  - The Disha Daily account places the press conference on Friday while the other reports place both the operation and the press conference on Saturday; 21 November is used as the incident date.
-  - The cash seized is given as 21,640 rupees by the local reports and about 21,000 rupees in the ANI release; the report uses 21,640.
-  - The second suspect is named Puttasaga Rajesh in the Telugu reports and Midjil Mandal in the ANI release.
-  - A separate 2025 case in which the main suspect was caught with 16 kg in Chhattisgarh is background and is not counted in this event's figures.
-  - No court outcome beyond remand and the proposed de-addiction placement for the users was reported.
+  - title: 'ओडिशा से अचापेटा तक: तेलंगाना की ईगल फोर्स ने गांजा सप्लाई नेटवर्क का भंडाफोड़ किया, दो गिरफ्तार'
+    url: https://www.lokmatnews.in/india/odisha-to-achampet-telanganas-eagle-force-busts-interstate-ganja-supply-network-two-arrested-a001-w01/
+    publisher: Lokmat News Hindi
+    date: 2026-11-21
+    language: hi
+  - title: 'From Odisha to Achampet: Eagle Force uncovers Ganja supply network targeting local youth'
+    url: https://www.aninews.in/news/national/general-news/from-odisha-to-achampet-eagle-force-uncovers-ganja-supply-network-targeting-local-youth20261121191818/
+    publisher: ANI
+    date: 2026-11-21
 ---
 
 Police in Achampet, Nagarkurnool district, Telangana, detained two suspected
 cannabis sellers and nine young men found consuming cannabis, the deputy
 superintendent of police said at a press conference on Saturday. [@4] The
 operation was carried out by EAGLE Force, Telangana's dedicated
-drug-law-enforcement unit, together with Achampet Town Police. [@2] The team had
+drug-law-enforcement unit, together with Achampet Town Police. [@2,5] The team had
 monitored the town for several months because of increasing ganja consumption
-among young people in Achampet and neighbouring villages. [@2] The two sellers
+among young people in Achampet and neighbouring villages. [@2] The surveillance was led by N. Buchaiah, a deputy superintendent of police with EAGLE Force's Regional Narcotics Control Cell in Mahabubnagar. [@6] The two sellers
 were identified as Md Rasool Basha, 26, and Puttasaga Rajesh, 26, taken into
 custody near the new bus stand. [@1]
 
 Officers seized 7.440 kg of ganja, 21,640 rupees in cash, a Pulsar motorcycle,
 three mobile phones, a packing machine and a weighing machine, police said. [@1]
-Police valued the ganja at about 372,000 rupees. [@1] The nine consumers were
+Police valued the ganja at about 372,000 rupees. [@1,5] The nine consumers were
 caught behind a petrol station near Y Junction in the town. [@1] All nine tested
 positive for THC in drug tests, the deputy superintendent said. [@1] The supply
 case was registered as Crime No. 305/2026. [@1] The consumers' case was
 registered as Crime No. 304/2026. [@1]
 
 Police said the men bought the ganja from a man named Hari in Kalimela village,
-Malkangiri district, Odisha, at 5,000 rupees a kilogram. [@1] They packed it
+Malkangiri district, Odisha, at 5,000 rupees a kilogram. [@1,6] They packed it
 into 5-gram packets and sold each for 500 rupees in Achampet. [@1] The two
 sellers were booked under the Narcotic Drugs and Psychotropic Substances Act and
 sent to judicial remand. [@3]
-
