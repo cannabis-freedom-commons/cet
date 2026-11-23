@@ -47,11 +47,15 @@ sources:
     url: https://macaubusiness.com/macau-busts-largest-cannabis-smuggling-case-in-history/
     publisher: Macau Business
     date: 2026-06-09
+  - title: Police bust Macau’s largest-ever cannabis smuggling case
+    url: https://www.macaupostdaily.com/news/28470
+    publisher: The Macau Post Daily
+    date: 2026-06-10
 open_questions:
   - Plataforma says the man had already been presented to the Public Prosecutions Office, while The Standard says the case was being transferred, so the timing of that referral is not settled.
   - The same article also describes a separate case of a 26-year-old man caught with 5.8 kilogrammes of marijuana on his way from Macau to Hong Kong at the Sheung Wan ferry terminal, a different event left out of this match.
 ---
 
-A 25-year-old Hong Kong man was arrested at Macau International Airport with about 35 kg of cannabis flower in two suitcases, packed in 60 packets, after arriving from Southeast Asia. Police valued the haul at about MOP35 million and called it the largest cannabis case in Macau's history, eight months after the previous record. The man was reportedly paid at least HKD60,000 to carry the drugs, which police believed were bound for another market. The case went to the Public Prosecutions Office. [@1,2]
+A 25-year-old Hong Kong man was arrested at Macau International Airport with about 35 kg of cannabis flower in two suitcases, packed in 60 packets, after arriving from Southeast Asia. Police valued the haul at about MOP35 million and called it the largest cannabis case in Macau's history, eight months after the previous record. The man was reportedly paid at least HKD60,000 to carry the drugs, which police believed were bound for another market. The case went to the Public Prosecutions Office. [@1,2,6]
 
-The suspect said he was a stage technician. [@3,5] He was intercepted in a joint operation by Macau's Judiciary Police, Customs and the Public Security Police Force. [@3] A Judiciary Police spokesperson said the 60 packages weighed 34,951 grams in all. [@4] Asked by journalists where the cannabis was shipped from, Judiciary Police declined to make the country of origin public. [@4]
+The suspect said he was a stage technician. [@3,5,6] He was intercepted in a joint operation by Macau's Judiciary Police, Customs and the Public Security Police Force. [@3] A Judiciary Police spokesperson said the 60 packages weighed 34,951 grams in all. [@4] Asked by journalists where the cannabis was shipped from, Judiciary Police declined to make the country of origin public. [@4]
