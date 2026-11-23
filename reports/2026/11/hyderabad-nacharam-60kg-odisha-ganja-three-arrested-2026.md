@@ -45,6 +45,11 @@ media:
     media_url: https://www.dishadaily.com/h-upload/2026/11/22/616893-ganza-smuggling.webp
     publisher: Disha Daily
     caption: 'The stopped car with the sack of ganja in its boot, beside the 60 packets and four mobile phones laid out on a table, in the photograph published with the Disha Daily report. Photo: Disha Daily'
+  - kind: photo
+    url: https://hyderabadmail.com/malkajgiri-police-seize-60-380-kg-ganja-nacharam/
+    media_url: https://hyderabadmail.com/wp-content/uploads/2026/11/Police-operation-following-the-seizure-of-60.380-kg-of-suspected-dried-ganja-.jpg
+    publisher: Hyderabad Mail
+    caption: Police operation after the seizure of 60.380 kg of suspected dried ganja in Nacharam; no photo credit is given.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 0ec809c0a12cd9d4c70864776b427ae5
@@ -55,30 +60,48 @@ sources:
     publisher: Disha Daily
     date: 2026-11-22
     language: te
+  - title: మల్కాజిగిరిలో 60 కిలోల గంజాయి పట్టివేత.. ముగ్గురి అరెస్ట్‌!
+    url: https://prabhanews.com/60-kg-of-ganja-seized-in-malkajgiri-three-arrested/
+    publisher: Andhra Prabha
+    date: 2026-11-22
+    language: te
+  - title: 'Hyderabad Ganja Seized: 60 Kg From Odisha, Three Held'
+    url: https://indtoday.com/hyderabad-ganja-seized-60-kg-from-odis/
+    publisher: IND Today
+    date: 2026-11-22
+  - title: Three arrested for alleged ganja smuggling in Malkajgiri; 60 kg seized
+    url: https://telanganatoday.com/ganja-seized-f7ce1464
+    publisher: Telangana Today
+    date: 2026-11-22
+  - title: Three Arrested as Malkajgiri Police Seize 60.38 Kg of Ganja in Nacharam
+    url: https://hyderabadmail.com/malkajgiri-police-seize-60-380-kg-ganja-nacharam/
+    publisher: Hyderabad Mail
+    date: 2026-11-22
 open_questions:
-  - No date is given for the vehicle check; 22 November 2026, the publication date of the only account, stands in for the incident date.
-  - The account does not name the three arrested people or give their ages or home areas.
-  - No NDPS Act sections or charges are stated, and no remand, charge sheet or court outcome is reported.
-  - The ganja is described as 60 packets weighing 60.38 kilograms, with no separate weight for each packet.
-  - Police did not say how many earlier trips the group had made, or whether this consignment is connected to the 60 kilograms of Odisha ganja seized near Ghatkesar on 7 November 2026.
-  - The whole account rests on one Disha Daily report; no police statement or second outlet reporting this same check was found.
+    - The accounts say only that the vehicle check was on Saturday; 21 November 2026 is inferred from the 22 November 2026 publication dates.
+    - One account places the interception during vehicle checks on the Nacharam-Chilkanagar road, while others say the car was stopped at IDA Nacharam.
+    - The ganja is described as suspected dried ganja, with no laboratory confirmation reported.
+    - No NDPS Act sections or charges are stated, and no remand, charge sheet or court outcome is reported.
+    - The ganja is described as 60 packets weighing 60.38 kilograms, with no separate weight for each packet.
+    - Police did not say how many earlier trips the group had made, or whether this consignment is connected to the 60 kilograms of Odisha ganja seized near Ghatkesar on 7 November 2026.
+    - The Telugu and English accounts repeat the same police account given by Commissioner B. Sumathi and are not independent reporting.
+    - The intended recipient at IDA Nacharam and the identity of the Odisha supplier were not reported.
 ---
 
 Uppal zone Special Operations Team officers and Nacharam police arrested three
 people in a joint operation and seized about 60.38 kilograms of ganja that
-police valued at about 3 million rupees. [@1] Officers stopped a suspicious car
+police valued at about 3 million rupees. [@1,2] Police named the two absconding suspects as Rahul alias Krishna and Ajay Sagar. [@4] The arrested men were Sameer Hassan Ali Shaikh alias Ravi Kumar Chowdary, 42, a driver from Jogeshwari East in Mumbai; Mohammed Khan, 52, a cook from King Koti, Hyderabad; and Chandan Kumar Jena, 31, a driver from Kukatpally. [@4] Officers stopped a suspicious car
 during vehicle checks on the Nacharam-Chilkanagar road and found 60 ganja
-packets packed in four gunny sacks in its boot. [@1] Police also seized the car
-used for the transport and four mobile phones. [@1]
+packets packed in four gunny sacks in its boot. [@1,3] Police said the interception was made on Saturday following specific information. [@4] Police also seized the car
+used for the transport and four mobile phones. [@1,3]
 
 Police said the three had bought the ganja in Odisha for 2,000 rupees a kilogram
-and planned to sell it at high prices in Hyderabad and Mumbai. [@1] Police
+and planned to sell it at high prices in Hyderabad and Mumbai. [@1,4] Police
 identified a man named Rahul as the main organiser behind the smuggling
-operation. [@1] Investigators said the three agreed to carry the consignments
+operation. [@1,4] Police said Rahul came into contact with Sameer through a person named Izaz. [@4] Investigators said the three agreed to carry the consignments
 after Rahul offered them a commission of 5,000 to 8,000 rupees for each
-delivery. [@1] Rahul was still at large and special teams were searching for
-him. [@1]
+delivery. [@1,4] The three had travelled to Odisha the week before and were caught at IDA Nacharam while delivering the consignment to another person. [@4] Rahul was still at large and special teams were searching for
+him. [@1,2] Commissioner of Police B. Sumathi said police were trying to establish the roles of the two absconding suspects. [@5]
 
 Police said they were investigating where the network's supply came from, its
 financial dealings and who the consignments were supplied to. [@1]
-
