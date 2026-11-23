@@ -76,34 +76,33 @@ sources:
     publisher: தினமணி
     date: 2026-11-20
     language: ta
-open_questions:
-  - 'The sources differ on the sentencing date: ETV Bharat places the final hearing on 20 November 2026, the day it was published, while Dinamalar published its account of the verdict on 16 November 2026.'
-  - Dinamalar dates the tip and arrest to 20 March 2023; the other accounts say only March 2023.
-  - 'Accounts differ on the policing unit: most name Pattinapakkam police, while the Greater Chennai Police post names Foreshore Estate Police Station.'
-  - No street value for the 40 kg of ganja was reported.
-  - No appeal or later court outcome was reported.
+  - title: 'சென்னை: 40 கிலோ கஞ்சா கடத்திய ஆட்டோ ஓட்டுநருக்கு 10 ஆண்டுகள் சிறை தண்டனை'
+    url: https://www.hindutamil.in/news/tamilnadu/chennai-auto-driver-gets-10-years-jail-for-smuggling-40-kg-ganja
+    publisher: Hindu Tamil Thisai
+    date: 2026-11-21
+    language: ta
 ---
 
 A special court in Chennai sentenced an auto-rickshaw driver to 10 years'
 imprisonment and a fine of 1 lakh rupees after convicting him of smuggling 40 kg
-of ganja. [@1,6] The Greater Chennai Police said the man was convicted of
+of ganja. [@1,6,7] The Greater Chennai Police said the man was convicted of
 smuggling ganja in an auto-rickshaw in 2023 and sentenced to 10 years' rigorous
 imprisonment and a 1 lakh rupee fine. [@5] The driver was identified as Selvam,
-55, from the Kavangarai area of Sengundram in Chennai. [@1,6]
+55, from the Kavangarai area of Sengundram in Chennai. [@1,6,7]
 
 Police received a secret tip in March 2023 that Selvam was illegally carrying
-about 40 kg of ganja near the Santhome sports ground in Chennai. [@1,6] Officers
+about 40 kg of ganja near the Santhome sports ground in Chennai. [@1,6,7] Officers
 searched the area, intercepted his auto-rickshaw, seized the 40 kg of ganja
-hidden inside and arrested him. [@1] Two other accounts say the ganja was hidden
+hidden inside and arrested him. [@1,7] The ganja was being carried for sale to school and college students in different parts of Chennai. [@7] Two other accounts say the ganja was hidden
 in two bags in the auto. [@3] Police registered a case against him under the
 Narcotic Drugs and Psychotropic Substances Act. [@4]
 
 The case was heard at the First Additional Special Court for NDPS cases on the
-Madras High Court campus, before Judge S. Govindarajan. [@3,6] At the final
+Madras High Court campus, before Judge S. Govindarajan. [@3,6,7] At the final
 hearing, government special prosecutor K. Udayakumar argued that the two bags
 held 40 kg of ganja, that witnesses and evidence pointed to Selvam and that he
 should receive the maximum punishment. [@1,6] Selvam's lawyer argued he had no
 connection to the incident, was innocent and should be acquitted. [@4,6] Finding
 the charges proved beyond doubt, the judge gave Selvam 10 years' rigorous
-imprisonment and a 1 lakh rupee fine. [@2,6] The court ordered three months'
+imprisonment and a 1 lakh rupee fine. [@2,6,7] The judge said everyone had a duty to build a drug-free society and a safe future for the younger generation of school and college students. [@7] The court ordered three months'
 additional imprisonment if the fine was not paid. [@2]
