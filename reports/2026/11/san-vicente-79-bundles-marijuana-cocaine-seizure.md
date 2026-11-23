@@ -41,6 +41,11 @@ sources:
     publisher: John Reimberg
     date: 2026-11-19
     language: es
+  - title: ATENCIÓN | Policía encuentra 79 bultos de marihuana y cocaína durante allanamiento en Manabí
+    url: https://manabinoticias.com/atencion-policia-encuentra-79-bultos-de-marihuana-y-cocaina-durante-allanamiento-en-manabi/
+    publisher: Manabí Noticias
+    date: 2026-11-20
+    language: es
 open_questions:
   - No weight was published for the 47 marijuana bundles or the 32 cocaine bundles, so no cannabis weight can be recorded.
   - The 32 cocaine bundles from the same raid are excluded from the cannabis account and no combined weight is recorded.
@@ -51,20 +56,19 @@ open_questions:
 
 Ecuador's National Police carried out a raid on a property in San Vicente
 canton, Manabi province, seizing a total of 79 bundles of illicit substances.
-[@1] Inside the intervened property, officers found 47 bundles of marijuana and
-another 32 bundles of cocaine, accounting for the full 79 bundles seized. [@1]
+[@1,3] Inside the intervened property, officers found 47 bundles of marijuana and
+another 32 bundles of cocaine, accounting for the full 79 bundles seized. [@1,3]
 Interior Minister John Reimberg announced the National Police operation in San
 Vicente canton, where officers raided the property and immediately seized the
 drugs and communications equipment. [@2]
 
 Alongside the drugs, officers located and seized four satellite telephones,
-which were retained as part of the police procedure. [@1] The operation took
+which were retained as part of the police procedure. [@1,3] The operation took
 place in a property in San Vicente canton, and the seized satellite telephones
 will form part of the investigations. [@1] All of the bundles and telephones
 found during the intervention in the property were placed under the
-corresponding procedure. [@1] After the discovery, specialist Criminalistics
+corresponding procedure. [@1,3] After the discovery, specialist Criminalistics
 personnel carried out the fixation of the evidence found at the scene so it
-could enter the corresponding legal procedures. [@1] The information released
+could enter the corresponding legal procedures. [@1,3] The information released
 about the operation gave no detail on whether any person was detained during the
-raid. [@1]
-
+raid. [@1,3]
