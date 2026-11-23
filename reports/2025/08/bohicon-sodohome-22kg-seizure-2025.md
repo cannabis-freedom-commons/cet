@@ -40,28 +40,43 @@ sources:
     publisher: La Nouvelle Tribune
     date: 2025-09-01
     language: fr
+  - title: 'Commune de Bohicon : Deux (02) individus Interpellés pour détention de 22 kilogrammes de chanvre indien.'
+    url: https://www.dgpr.bj/commune-de-bohicon-deux-02-individus-interpelles-pour-detention-de-22-kilogrammes-de-chanvre-indien/
+    publisher: Direction générale de la Police républicaine (DGPR)
+    date: 2025-09-01
+    language: fr
+  - title: 'Trafic de drogue: 22 kilogrammes de chanvre indien saisis à Sodohomè'
+    url: https://beninwebtv.bj/trafic-de-drogue-22-kilogrammes-de-chanvre-indien-saisis-a-sodohome/
+    publisher: Bénin Web TV
+    date: 2025-09-02
+    language: fr
 open_questions:
-  - The two suspects were not named, so their identities and ages remain unknown.
-  - No charges or court outcome were reported; the suspects had been handed to OCERTID and investigations were continuing.
-  - No value for the seized cannabis was published.
-  - Only one accessible account of this 22 kg seizure was found; searches for a second openable report did not return a usable source.
+    - The two suspects were not named, so their identities and ages remain unknown.
+    - No charges or court outcome were reported; the suspects had been handed to OCERTID and investigations were continuing.
+    - No value for the seized cannabis was published.
+    - Bénin Web TV dates the operation to Tuesday 26 August 2025, while the Republican Police and La Nouvelle Tribune give Sunday 31 August 2025.
+media:
+  - kind: photo
+    url: https://www.dgpr.bj/commune-de-bohicon-deux-02-individus-interpelles-pour-detention-de-22-kilogrammes-de-chanvre-indien/
+    media_url: https://www.dgpr.bj/wp-content/uploads/2025/09/image-2025-07-31T150003.071-1-1.jpg
+    publisher: Direction générale de la Police républicaine
+    caption: 'Photo published with the Republican Police statement on the 22 kg chanvre indien seizure at the Sodohomè crossroads in Bohicon. Photo: Direction générale de la Police républicaine'
 ---
 
 Officers of the 1st district police station in Bohicon arrested two men carrying
-a large quantity of cannabis on Sunday 31 August 2025. [@1] Acting on a tip-off,
+a large quantity of cannabis on Sunday 31 August 2025. [@1,2] Acting on a tip-off,
 officers checked two men on a motorcycle heading toward Illara at about 4 a.m.
-at the Sodohomè crossroads. [@1] The Republican Police reported the operation on
-its digital platforms. [@1]
+at the Sodohomè crossroads. [@1,2] The Republican Police reported the operation on
+its digital platforms. [@1,3]
 
 A search of their luggage found three sacks containing 40 slabs of cannabis,
 called chanvre indien, the local French term for cannabis, weighing 22 kilograms
-in total. [@1] One of the three sacks was being carried on the back of one of
-the suspects. [@1]
+in total. [@1,3] One of the three sacks was being carried on the back of one of
+the suspects. [@1,3]
 
 During their hearing, the two suspects said they had left Azovè to reach Illara,
-a locality situated in the commune of Kétou. [@1] They could not explain the
-origin of the cannabis or its final destination. [@1] Police handed the suspects
+a locality situated in the commune of Kétou. [@1,3] They could not explain the
+origin of the cannabis or its final destination. [@1,3] Police handed the suspects
 to the Central Office for the Repression of Illicit Drug Trafficking and
 Precursors (OCERTID), the national anti-drug office, which will continue the
-investigation to trace the network. [@1]
-
+investigation to trace the network. [@1,3]
