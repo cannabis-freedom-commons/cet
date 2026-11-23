@@ -66,6 +66,11 @@ sources:
     publisher: Algérie Presse Service
     date: 2026-11-21
     language: fr
+  - title: 'Algérie: l''armée affirme avoir abattu deux Marocains trafiquants de drogue présumés à Naâma'
+    url: https://information.tv5monde.com/afrique/algerie-larmee-affirme-avoir-abattu-deux-marocains-trafiquants-de-drogue-presumes-naama-2846622?amp=
+    publisher: TV5MONDE (avec AFP)
+    date: 2026-11-21
+    language: fr
 open_questions:
   - The communiqué used 'neutralized' without describing how the two men died; the tracker records them as killed.
   - No exact figure, value estimate, laboratory confirmation or product breakdown was published for the kif traité beyond 'more than 50 kilograms'.
@@ -76,20 +81,19 @@ open_questions:
 
 Algeria's Defence Ministry said a border-guard detachment killed two Moroccan
 drug traffickers near the western frontier on Friday 20 November 2026 after they
-refused to comply. [@2] The encounter happened in the military sector of Naâma,
+refused to comply. [@2,4] The encounter happened in the military sector of Naâma,
 part of Algeria's 2nd Military Region, close to the country's western border
-strip. [@1] According to the communiqué, the two men ignored an order to stop
-given by the border guards. [@2]
+strip. [@1,4] According to the communiqué, the two men ignored an order to stop
+given by the border guards. [@2,4]
 
 They were trying to bring more than 50 kilograms of kif traité, the local term
-for processed cannabis, into Algeria. [@1] The 50-kilogram estimate was
+for processed cannabis, into Algeria. [@1,4] The 50-kilogram estimate was
 attributed to the Defence Ministry's communiqué. [@3] The ministry said the
 identity of one of the dead men was established from an identity document found
-in his possession. [@2]
+in his possession. [@2,4]
 
 The army framed the operation as part of its continuing efforts to secure
-national borders and combat drug-trafficking networks and organised crime. [@2]
+national borders and combat drug-trafficking networks and organised crime. [@2,4]
 The ministry added that army units deployed across Algeria were reaffirming
 their vigilance and determination to confront attempts against national security
 and territorial integrity. [@2]
-
