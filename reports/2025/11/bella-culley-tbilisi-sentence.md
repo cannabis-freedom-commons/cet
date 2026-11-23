@@ -129,15 +129,25 @@ sources:
     archived: https://web.archive.org/web/20260111014149/https://www.bbc.com/news/articles/cwypqwn4epyo
     publisher: BBC News
     date: 2025-10-28
+  - title: 'Дело о контрабанде наркотиков в Грузию: семья британки заплатила 500 тысяч лари'
+    url: https://ekhokavkaza.rferl.org/a/delo-o-kontrabande-narkotikov-v-gruziyu-semjya-britanki-zaplatila-500-tysyach-lari/33573154.html
+    publisher: Эхо Кавказа (RFE/RL)
+    date: 2025-10-28
+    language: ru
 open_questions:
-  - >-
-    Front News Georgia reports 2 kg of hashish, while Civil Georgia gives a more precise figure of 2.07
-    kg.
-  - Her lawyer said he planned to seek a presidential pardon after the plea deal was finalised; no pardon outcome is recorded in the opened sources.
+    - Front News Georgia reports 2 kg of hashish, while Civil Georgia gives a more precise figure of 2.07 kg.
+    - Her lawyer said he planned to seek a presidential pardon after the plea deal was finalised; no pardon outcome is recorded in the opened sources.
+    - 'The accounts describe the 500,000 lari differently: a payment the family made into a state account under the plea agreement, and the fine the court imposed at sentencing.'
+media:
+  - kind: photo
+    url: https://ekhokavkaza.rferl.org/a/delo-o-kontrabande-narkotikov-v-gruziyu-semjya-britanki-zaplatila-500-tysyach-lari/33573154.html
+    media_url: https://gdb.rferl.org/77acbc2d-e22b-4618-ad32-197e570498e2_w650_r1_s.jpg
+    publisher: Эхо Кавказа (RFE/RL)
+    caption: 'Bella Culley''s mother (right) and grandmother in Tbilisi during the plea-deal proceedings. Photo: RFE/RL'
 ---
 
-Bella May Culley was 18 when she was arrested in May 2025 at Tbilisi International Airport with about 12 kilograms of herbal cannabis and 2 kilograms of hashish in her luggage. [@1,3,4] Culley was from County Durham in England, and her family had reported her missing in Thailand before she was found in Georgia. [@2,3] She faced a possible life sentence, and a criminologist writing about her case noted reports that she could receive up to 20 years or life. [@1,2,3]
+Bella May Culley was 18 when she was arrested in May 2025 at Tbilisi International Airport with about 12 kilograms of herbal cannabis and 2 kilograms of hashish in her luggage. [@1,3,4,6] Culley was from County Durham in England, and her family had reported her missing in Thailand before she was found in Georgia. [@2,3] She faced a possible life sentence, and a criminologist writing about her case noted reports that she could receive up to 20 years or life. [@1,2,3,6]
 
-Culley told the court she had been tortured and forced to carry the drugs. [@2,4] In July the court kept her in pre-trial detention after her lawyer offered 50,000 lari in an early plea proposal. [@2]
+Culley told the court she had been tortured and forced to carry the drugs. [@2,4,6] In July the court kept her in pre-trial detention after her lawyer offered 50,000 lari in an early plea proposal. [@2] Her lawyer, Malkhaz Salakaia, said the deal was close to completion and that a further court hearing would be held the following week. [@6] According to the BBC, the family transferred the money to a state account under the plea agreement and was awaiting the prosecutor's confirmation of receipt. [@6] Culley's family paid 500,000 lari, about 187,000 dollars, to reduce her sentence in the drug-smuggling case. [@6]
 
-On 3 November 2025, Judge Giorgi Gelashvili of Tbilisi City Court found Culley guilty under a plea agreement. [@1,4] The court fined her 500,000 lari, about £137,000, and sentenced her to five months and 24 days in prison, which she had already served at the Rustavi women's prison. [@1,4,5] Culley, who was 19 and pregnant at the time, was released. [@1,4] More than 90 percent of drug cases in Georgia end in plea bargains. [@5]
+On 3 November 2025, Judge Giorgi Gelashvili of Tbilisi City Court found Culley guilty under a plea agreement. [@1,4] The court fined her 500,000 lari, about £137,000, and sentenced her to five months and 24 days in prison, which she had already served at the Rustavi women's prison. [@1,4,5] Culley, who was 19 and pregnant at the time, was released. [@1,4] According to the BBC, Culley was 35 weeks pregnant, and the Daily Mail reported that she might serve the final month of her pregnancy under house arrest. [@6] More than 90 percent of drug cases in Georgia end in plea bargains. [@5,6]
