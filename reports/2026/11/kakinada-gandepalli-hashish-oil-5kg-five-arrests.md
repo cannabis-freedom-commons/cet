@@ -73,25 +73,32 @@ sources:
     url: https://www.uniindia.com/south-india/crime-ap-ganja-seized-20ms44/252291
     publisher: UNI India
     date: 2026-11-20
+  - title: 'Liquid Ganja: చదువులు చూస్తే ఆశ్చర్యపోతారు.. కానీ వారు చేస్తున్న పని తెలిస్తే షాకవుతారు.. పోలీసుల అదుపులో ఐదుగురు.. ఏం చేశారంటే..?'
+    url: https://telugu.news18.com/news/andhra-pradesh/east-godavari-five-educated-youths-arrested-with-five-kgs-of-liquid-ganja-in-kakinada-district-spr-gvj-local18-3270606.html
+    publisher: News18 Telugu
+    date: 2026-11-21
+    language: te
 open_questions:
-  - Prajasakti dates the vehicle check to Thursday morning, while Sakshi, UNI, Punnami and The News Trust place it on Friday 20 November 2026; the report uses Friday.
-  - No NDPS Act sections or specific charges were reported; police said only that a case was registered.
-  - No remand hearing, plea or court outcome was reported for the five.
-  - The five kilograms were described as liquid cannabis or hashish oil; no laboratory confirmation was reported.
-  - The ₹62.5 lakh valuation is the police estimate at ₹12.5 lakh a kilogram, and the ₹67.8 lakh total includes two cars valued at ₹2.5 lakh each and six phones at ₹5,000 each.
-  - Raviteja's home is given as Visakhapatnam by Prajasakti but as Vanthadapalli village in Alluri Sitarama Raju district by The News Trust.
-  - The Chitrakonda supplier named in the Sakshi account was not reported arrested.
-  - 'Left out, as its quotation was not found in Sakshi: Raviteja, a pharmacy graduate who works at a pharmaceutical company in Visakhapatnam, and driver Rajasekhar had transported cannabis before, Sakshi reported.'
+    - Prajasakti dates the vehicle check to Thursday morning, while Sakshi, UNI, Punnami and The News Trust place it on Friday 20 November 2026; the report uses Friday.
+    - No NDPS Act sections or specific charges were reported; police said only that a case was registered.
+    - No remand hearing, plea or court outcome was reported for the five.
+    - The five kilograms were described as liquid cannabis or hashish oil; no laboratory confirmation was reported.
+    - The ₹62.5 lakh valuation is the police estimate at ₹12.5 lakh a kilogram, and the ₹67.8 lakh total includes two cars valued at ₹2.5 lakh each and six phones at ₹5,000 each.
+    - Raviteja's home is given as Visakhapatnam by Prajasakti but as Vanthadapalli village in Alluri Sitarama Raju district by The News Trust.
+    - The Chitrakonda supplier named in the Sakshi account was not reported arrested.
+    - Whether Raviteja or Rajasekhar had transported cannabis before is not established.
+    - 'Accounts differ on the mandal: News18 places Z. Ragampeta in Jaggampeta mandal, while the police accounts place the check in Gandepalli mandal.'
+    - 'Accounts differ on the vehicles: News18 describes two cars on separate routes, while the police account describes five men exchanging packets between two cars in front of a tea shop.'
 ---
 
 Kakinada district police arrested five people on National Highway 16 near Z.
 Ragampeta in Gandepalli mandal and seized five kilograms of liquid cannabis,
-which they called hashish oil. [@1] The Peddapuram subdivision police caught the
+which they called hashish oil. [@1,6] The Peddapuram subdivision police caught the
 group near the village on the national highway on the morning of Friday 20
 November 2026. [@5] Police said the five were exchanging cannabis packets
 between two cars in front of a tea shop at about 8 am. [@4] Police identified
 them as Korupalli Raviteja (34), Nayina Rajasekhar (32), Malireddi Sayi Raghava
-(32), Viveka Vadakekumminmel (32) and Akash Cheriyan (31). [@2] District
+(32), Viveka Vadakekumminmel (32) and Akash Cheriyan (31). [@2,6] Raviteja had studied B.Pharmacy, Sayi had completed aeronautical engineering, and Vivek and Akash, from Kerala, held MBAs, while Rajasekhar drove the vehicle. [@6] District
 Superintendent of Police Garikipati Bindu Madhav said the arrests were made in a
 vehicle check by a team led by Gandepalli Sub-Inspector U.V. Siva Nagababu. [@2]
 
@@ -99,12 +106,11 @@ Police valued the oil at ₹12.5 lakh a kilogram, about ₹62.5 lakh in all. [@4
 They also seized two cars and six mobile phones, and put the total value of the
 seized property at ₹67.80 lakh. [@1] Police said the group had bought the oil in
 Chitrakonda, Odisha, for ₹5 lakh and were taking it through Rajahmundry to sell
-to people from Kerala for ₹10 lakh. [@1]
+to people from Kerala for ₹10 lakh. [@1] Raviteja and Rajasekhar hired a car in Chitrakonda after buying the load, while Sai, Vivek and Akash followed in a second car to receive it, and the two vehicles took separate routes. [@6]
 
-Police registered a case and said the investigation was continuing. [@3] The
+Police registered a case and said the investigation was continuing. [@3] Police said they were investigating the role of the supplier Simhachalam and whether anyone else was behind the transport. [@6] The
 operation was supervised by Peddapuram DSP A.B.G. Tilak and Jaggampeta Circle
 Inspector B. Tirupatirao, and the superintendent congratulated EAGLE Inspector
 G. Venkateswara Rao and the police team. [@2] The superintendent asked the
 public to pass information on cannabis transport and sale to the EAGLE team on
 its toll-free number 1972. [@2]
-
