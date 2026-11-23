@@ -48,24 +48,30 @@ sources:
     publisher: La Iguana TV
     date: 2026-08-25
     language: es
+  - title: Incautan 147 panelas de droga entre Guárico y Falcón
+    url: https://ultimasnoticias.com.ve/sucesos/incautan-147-panelas-de-droga-entre-guarico-y-falcon/
+    publisher: Últimas Noticias
+    date: 2026-08-24
+    language: es
 open_questions:
-  - The articles give no separate date for the inspection; 23 August 2026 is the publication date of the La Radio del Sur report and is used as the incident date.
-  - The marijuana is described only as suspected, with no laboratory confirmation reported.
-  - No name, age, charge or court outcome for the detained man was published.
-  - The lead of the Radio del Sur report calls the unit Desprendimiento D-342, while the body says Destacamento D-342; the body wording is used.
-  - A linked item on the same page about a FANB seizure of more than half a tonne of drugs in Táchira is a different event and is left out.
-  - Both outlets appear to follow the same press note, and no original agency statement was opened.
+    - The articles give no separate date for the inspection; 23 August 2026 is the publication date of the La Radio del Sur report and is used as the incident date.
+    - The marijuana is described only as suspected, with no laboratory confirmation reported.
+    - No name, age, charge or court outcome for the detained man was published.
+    - The lead of the Radio del Sur report calls the unit Desprendimiento D-342, while the body says Destacamento D-342; the body wording is used.
+    - A linked item on the same page about a FANB seizure of more than half a tonne of drugs in Táchira is a different event and is left out.
+    - Both outlets appear to follow the same press note, and no original agency statement was opened.
+    - It is unclear whether the 27 packages were concealed in a suitcase at the rear of the vehicle or inside a 70-litre plastic drum.
 ---
 
 Members of the Bolivarian National Armed Forces (FANB), attached to Regional
 Anti-Drug Intelligence Unit No. 34 (URIA-34) and Bolivarian National Guard Zone
 Command No. 34 (CZGNB-34) in Guárico state, seized 20.020 kilograms of suspected
 marijuana. [@1] The seizure came during inspections of people and vehicles at
-the Corozopando citizen-service point. [@1] Personnel of the First Company of
-Detachment D-342 carried out the procedure and arrested one man. [@1] He was
+the Corozopando citizen-service point. [@1,3] Personnel of the First Company of
+Detachment D-342 carried out the procedure and arrested one man. [@1] The military also impounded the vehicle after tests confirmed the substance was a narcotic. [@3] He was
 travelling on a public-transport vehicle belonging to the Asociación Mensajeros
 del Llano del Sur. [@1] Officers searched a bus of the Asociación Mensajeros del
-Llano del Sur on the route from Guasdualito to Valle de la Pascua. [@2]
+Llano del Sur on the route from Guasdualito to Valle de la Pascua. [@2] At the checkpoint a military dog named Valkiria detected the drugs in a bag at the rear of the vehicle. [@3]
 
 They arrested the man responsible for the load and placed him and the evidence
 at the disposal of the Public Ministry. [@2]
@@ -78,4 +84,3 @@ substance were hidden. [@1]
 
 The detained man and the seized evidence were placed at the disposal of the
 Public Ministry for the corresponding legal steps. [@1]
-
