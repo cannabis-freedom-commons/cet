@@ -57,6 +57,11 @@ sources:
     publisher: France-Antilles Martinique
     date: 2022-12-12
     language: fr
+  - title: Detienen embarcación venezolana con más de mil kilos de marihuana
+    url: https://www.globovision.com/suceso/539/detienen-embarcacion-venezolana-con-mas-de-mil-kilos-de-marihuana
+    publisher: Globovisión
+    date: 2022-12-11
+    language: es
 media:
   - kind: photo
     url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/une-tonne-et-demie-de-cannabis-saisie-en-mer-des-caraibes-914727.php
@@ -86,16 +91,16 @@ media:
 ---
 
 The French Navy vessel Ventôse crew seized 1.5 tons of cannabis from a
-suspicious vessel in the Caribbean sea. [@1,4,5] The Forces Armées Aux Antilles
+suspicious vessel in the Caribbean sea. [@1,4,5,6] The Forces Armées Aux Antilles
 Facebook page said the seizure occurred on December 7, 2022. [@1] The French
 authorities handed the 11-member crew, the vessel, and the drugs over to
-Venezuelan law enforcement officials. [@1,5] The Venezuelan-flagged fishing boat
+Venezuelan law enforcement officials. [@1,5,6] The Venezuelan-flagged fishing boat
 El Lirico, registration ARSH-PE-0357, was intercepted 100 nautical miles inside
 the exclusive economic zone. [@3,4]
 
 According Monday’s Facebook post, 27 bundles tested positive for cannabis. [@1,5]
 The inspection found 27 sacks of suspected marijuana weighing about 1,500 kg,
-and 11 Venezuelan nationals aboard were apprehended. [@3,4] The transfer to a
+and 11 Venezuelan nationals aboard were apprehended. [@3,4,6] The transfer to a
 Venezuelan coast-guard patrol boat was made at sea on Saturday 10 December 50
 nautical miles north of the Venezuelan coast. [@2] The next day the 27 bales of
 cannabis, equivalent to 1.5 tonnes, were destroyed in the presence of a French
