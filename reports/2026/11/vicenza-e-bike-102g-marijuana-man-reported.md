@@ -65,6 +65,11 @@ sources:
     publisher: Tviweb
     date: 2026-11-16
     language: it
+  - title: 'Vicenza, lascia una bici elettrica con oltre un etto di marijuana: denunciato dalla Polizia'
+    url: https://lamilano.it/vicenza/vicenza-lascia-una-bici-elettrica-con-oltre-un-etto-di-marijuana-denunciato-dalla-polizia/
+    publisher: La Milano
+    date: 2026-11-21
+    language: it
 open_questions:
   - The 102.68 grams is stated as a gross weight including packaging, not a net drug weight.
   - No value estimate for the marijuana was published; the 210 euros is seized cash, not a valuation.
@@ -74,25 +79,24 @@ open_questions:
 
 On the afternoon of Sunday 15 November 2026, a Volanti patrol in Vicenza noticed
 a black-and-white electric bicycle leaning against a tree near the monument to
-Antonio Fogazzaro, apparently abandoned. [@1] City surveillance footage showed a
+Antonio Fogazzaro, apparently abandoned. [@1] The patrol noticed the bicycle at about 14:25 during a territorial control service. [@4] City surveillance footage showed a
 man arriving on that bicycle at about 14:01, leaving it by the tree and walking
 away toward Piazzale Bologna, with no one else touching it before the patrol
 arrived. [@1] Officers traced the man to about 150 metres away, at the junction
 of Corso San Felice e San Fortunato and Viale Roma, where he wore the same
-clothes seen on the cameras. [@3] He was a Nigerian citizen born in 1990. [@1]
+clothes seen on the cameras. [@3,4] He was a Nigerian citizen born in 1990. [@1]
 Without identity documents, he was taken to police headquarters for
 identification. [@1]
 
 In a container fixed to the bicycle frame, officers found 32 cellophane wraps
-containing marijuana, with a total gross weight of 102.68 grams. [@2] The
-marijuana tested positive for cannabis in a narcotest and was seized. [@1]
+containing marijuana, with a total gross weight of 102.68 grams. [@2,4] The
+marijuana tested positive for cannabis in a narcotest and was seized. [@1,4]
 Officers also seized 210 euros in cash found in the man's wallet, which
-investigators considered linked to drug dealing. [@2] The e-bike, whose
+investigators considered linked to drug dealing. [@2,4] The e-bike, whose
 ownership the man denied, was also seized and taken to police headquarters for
 further checks. [@1]
 
 Checks showed the man had prior drug offences and had been under a court-ordered
-duty to report to the judicial police since 29 October. [@2] He was reported at
+duty to report to the judicial police since 29 October. [@2,4] He was reported at
 liberty for possession of narcotics for sale under Article 73 of Presidential
-Decree 309/1990. [@2]
-
+Decree 309/1990. [@2,4] Police said the investigation would continue to establish where the marijuana came from and where the seized material was destined. [@4]
