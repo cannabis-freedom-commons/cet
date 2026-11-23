@@ -110,23 +110,31 @@ sources:
     url: https://maritimescrimes.com/2023/07/06/drug-seizure-by-la-combattante-off-martinique/
     publisher: Maritimes Crimes
     date: 2023-07-06
+  - title: Saisie de 1,7 tonne de cannabis
+    url: https://www.journaldesaintbarth.com/fr/actualites/justice/saisie-de-17-tonne-de-cannabis-202307061731.html
+    publisher: Le Journal de Saint-Barth
+    date: 2023-07-06
+    language: fr
+open_questions:
+    - The Journal de Saint-Barth places the boarding in the evening of 29 June 2023, while the report describes it as happening in the night; no precise time was given.
+    - The 2 kg of cocaine seized in the same boarding is excluded from the cannabis figures.
 ---
 
 In the night of 29 June 2023, French forces boarded a suspect sailboat about 200
-km southwest of Martinique. [@2,3,4,5] The patrol vessel La Combattante and a customs
+km southwest of Martinique. [@2,3,4,5,8] The patrol vessel La Combattante and a customs
 coast-guard maritime patrol aircraft were deployed to board the sailboat
-suspected of drug trafficking. [@2] Five crew members were aboard the sailboat
-when it was boarded. [@2,6] On 1 July 2023 the drugs, the sailboat and the five
+suspected of drug trafficking. [@2,8] Five crew members were aboard the sailboat
+when it was boarded. [@2,6,8] On 1 July 2023 the drugs, the sailboat and the five
 suspects were handed to the OFAST Caraibe office on the instruction of the
-Fort-de-France JIRS prosecutor. [@1,4,5] After initial inquiries they were brought
+Fort-de-France JIRS prosecutor. [@1,4,5,8] After initial inquiries they were brought
 before an investigating judge, charged with organised-gang drug and weapons
-offences and criminal association, and remanded in pre-trial detention. [@1,4]
+offences and criminal association, and remanded in pre-trial detention. [@1,4,8]
 
 Officers found many suspect bales aboard that tested positive for cannabis,
-totalling 1,700 kg of cannabis alongside 2 kg of cocaine. [@2,3,4,5,7] The interception
+totalling 1,700 kg of cannabis alongside 2 kg of cocaine. [@2,3,4,5,7,8] The interception
 followed a tip from the United States Joint InterAgency Task Force-South and
-support from a customs coast-guard maritime patrol aircraft. [@1] The operation was led by the admiral commanding the Antilles maritime zone, delegated by the prefect of Martinique, with support from the customs coast-guard service and the Ministry of Europe and Foreign Affairs, under the Jirs prosecutor. [@4]
+support from a customs coast-guard maritime patrol aircraft. [@1] The operation was led by the admiral commanding the Antilles maritime zone, delegated by the prefect of Martinique, with support from the customs coast-guard service and the Ministry of Europe and Foreign Affairs, under the Jirs prosecutor. [@4,8]
 
 The Armed Forces in the Antilles described it as their fourth seizure of 2023,
 bringing their total to nearly 4.7 tonnes of narcotics removed from distribution
-networks. [@1,4]
+networks. [@1,4,8]
