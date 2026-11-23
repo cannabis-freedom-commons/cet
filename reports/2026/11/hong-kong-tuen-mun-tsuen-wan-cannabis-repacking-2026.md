@@ -94,6 +94,11 @@ media:
     media_url: https://fs.mingpao.com/ins/20261120/s00001/bdcc5471c129ded0a825b018643a1bac.jpg
     publisher: 明報新聞網 Ming Pao
     caption: 'Cannabis and related products seized in the two raids, published with the Ming Pao article. Photo: Ming Pao'
+  - kind: photo
+    url: https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20261122-1122_00176_223/%E7%A0%B4%E6%AF%92%E5%B7%A5%E5%A0%B4%E5%88%86%E9%8A%B7%E4%B8%AD%E5%BF%83--%E8%B5%B7160%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E8%A3%BD%E5%93%81
+    media_url: https://orientaldaily.on.cc/asset/news/20261122/photo/1122-00176-223s1.jpg
+    publisher: 東方日報
+    caption: Various suspected cannabis drugs seized in the Tuen Mun and Tsuen Wan raids.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 5622c457874abe4b457690dfe92b1981
@@ -167,27 +172,30 @@ sources:
     publisher: 澳門日報 Macao Daily News
     date: 2026-11-21
     language: zh
-open_questions:
-    - What happened at the Shatin Magistrates' Courts hearing on 21 November 2026 is not reported in these accounts.
+  - title: 破毒工場分銷中心 起160萬元大麻製品
+    url: https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20261122-1122_00176_223/%E7%A0%B4%E6%AF%92%E5%B7%A5%E5%A0%B4%E5%88%86%E9%8A%B7%E4%B8%AD%E5%BF%83--%E8%B5%B7160%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E8%A3%BD%E5%93%81
+    publisher: 東方日報
+    date: 2026-11-22
+    language: zh
 ---
 
 Hong Kong Customs shut down a suspected drug repacking distribution centre in
 Tuen Mun and a suspected drug manufacturing centre in Tsuen Wan on 19 November
-2026. [@2,4,6,7,9,10,11,12,13,14] Officers seized about 3.7 kilograms of suspected cannabis buds, 3.6
+2026. [@2,4,6,7,9,10,11,12,13,14,15] Officers seized about 3.7 kilograms of suspected cannabis buds, 3.6
 kilograms of suspected cannabis oil, about 24 kilograms of cannabis-infused
-candies and 1,148 suspected cannabis oil vape capsules. [@1,4,5,6,8,9,10,11,12,13,14] Customs put the
-total estimated market value of the haul at about HK$1.6 million. [@2,4,5,6,8,9,10,11,12,13,14] Three
-people were arrested. [@2,4,5,6,9,10,11,12,13,14]
+candies and 1,148 suspected cannabis oil vape capsules. [@1,4,5,6,8,9,10,11,12,13,14,15] Customs put the
+total estimated market value of the haul at about HK$1.6 million. [@2,4,5,6,8,9,10,11,12,13,14,15] Three
+people were arrested. [@2,4,5,6,9,10,11,12,13,14,15]
 
 In a residential flat in Tuen Mun, officers found the 3.7 kilograms of buds, 332
 of the vape capsules, about 180 grams of cannabis-infused candies and drug
-packaging paraphernalia. [@1,5,6,8,9,10,11,12,13] Customs said it identified two target men through intelligence analysis, and that the 28-year-old woman was accompanying the 23-year-old man when officers took him to the Tuen Mun flat for the search. [@4,9,12] The 23-year-old man and the 28-year-old woman arrested in Tuen Mun were a couple. [@8,9] In a hotel room in Tsuen Wan they found the 3.6
+packaging paraphernalia. [@1,5,6,8,9,10,11,12,13,15] Customs said it identified two target men through intelligence analysis, and that the 28-year-old woman was accompanying the 23-year-old man when officers took him to the Tuen Mun flat for the search. [@4,9,12] The 23-year-old man and the 28-year-old woman arrested in Tuen Mun were a couple. [@8,9] In a hotel room in Tsuen Wan they found the 3.6
 kilograms of cannabis oil, the remaining 816 vape capsules, about 24 kilograms
-of candies and packaging and manufacturing equipment. [@1,3,5,6,8,9,10,11,12,13] The manufacturing and packaging equipment seized included syringes and induction cookers, alongside oils in different flavours. [@7] Customs said the gang mixed in differently flavoured oils to lower young people's guard, and that the candies looked like ordinary sweets and could easily be eaten by young children by mistake. [@3] Customs said the gang chose a hotel room with inconvenient transport and little foot traffic, did part of the work there, then moved the semi-finished products to the flat for packing, storage and distribution. [@3,6,12]
+of candies and packaging and manufacturing equipment. [@1,3,5,6,8,9,10,11,12,13,15] The manufacturing and packaging equipment seized included syringes and induction cookers, alongside oils in different flavours. [@7] Customs said the gang mixed in differently flavoured oils to lower young people's guard, and that the candies looked like ordinary sweets and could easily be eaten by young children by mistake. [@3] Customs said the gang chose a hotel room with inconvenient transport and little foot traffic, did part of the work there, then moved the semi-finished products to the flat for packing, storage and distribution. [@3,6,12]
 
 A 23-year-old man and a 28-year-old woman were charged with two counts each of
-trafficking in a dangerous drug. [@2,4,5,6,8,9,10,11,12,13,14] Customs said the 23-year-old man arrested in the Tuen Mun flat was unemployed and the 28-year-old woman a cleaner. [@3,9,12] A 33-year-old man was charged with two
+trafficking in a dangerous drug. [@2,4,5,6,8,9,10,11,12,13,14,15] Customs said the 23-year-old man arrested in the Tuen Mun flat was unemployed and the 28-year-old woman a cleaner. [@3,9,12] A 33-year-old man was charged with two
 counts of trafficking in a dangerous drug and one count of manufacture of a
-dangerous drug. [@2,4,5,6,7,9,10,11,12,13,14] The two arrested men admitted receiving HK$20,000 a month as payment for trafficking, Customs said. [@3,6,9,12] The 33-year-old man, who rented the hotel room, said he was a construction worker. [@3] The case was listed for Shatin Magistrates' Courts on 21
-November 2026. [@1,4,5,6,8,9,10,11,12,13,14] Trafficking in a dangerous drug carries a maximum penalty of
-a HK$5 million fine and life imprisonment. [@1,5,9,10]
+dangerous drug. [@2,4,5,6,7,9,10,11,12,13,14,15] The two arrested men admitted receiving HK$20,000 a month as payment for trafficking, Customs said. [@3,6,9,12] The 33-year-old man, who rented the hotel room, said he was a construction worker. [@3] The case was listed for Shatin Magistrates' Courts on 21
+November 2026. [@1,4,5,6,8,9,10,11,12,13,14] The case was brought before Sha Tin Magistrates' Court on 21 November 2026. [@15] Trafficking in a dangerous drug carries a maximum penalty of
+a HK$5 million fine and life imprisonment. [@1,5,9,10,15]
