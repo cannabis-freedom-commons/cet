@@ -62,11 +62,16 @@ sources:
     publisher: Guinee360
     date: 2026-10-12
     language: fr
+  - title: 'Lola : 120 kg de cannabis saisis, trois personnes interpellées'
+    url: https://ledjely.com/2026/10/12/lola-120-kg-de-cannabis-saisis-trois-personnes-interpellees/
+    publisher: Ledjely.com
+    date: 2026-10-12
+    language: fr
 open_questions:
-  - The names of the three detained people were not published.
-  - No charges, custody decision or court outcome were reported; they were only said to have been presented to the competent authorities.
-  - No laboratory breakdown of the 120 kg was published; it is the police-reported total.
-  - Only one accessible source for this event was found after searching in French, with no agency statement or second outlet opened.
+    - The names of the three detained people were not published.
+    - No charges, custody decision or court outcome were reported; they were only said to have been presented to the competent authorities.
+    - No laboratory breakdown of the 120 kg was published; it is the police-reported total.
+    - The French-language accounts all reproduce the same National Police statement rather than independent reporting.
 ---
 
 Guinea's National Police carried out a major narcotics seizure in Lola, in the
@@ -74,16 +79,16 @@ N'Zérékoré administrative region. [@1] The operation took place on Friday 9
 October 2026 in the Woroyapo quarter, which falls under the urban commune, and
 led to three people being detained on suspicion of involvement in an alleged
 Indian hemp trafficking network. [@1,2] Those detained included a 20-year-old
-woman. [@1,2] The intervention was conducted by a patrol of the Special
+woman. [@1,2,3] The intervention was conducted by a patrol of the Special
 Intervention Brigade of the police, the BSIP, of Lola's central commissariat as
-part of operations against narcotics and psychotropic substances. [@1,2] The three
+part of operations against narcotics and psychotropic substances. [@1,2,3] The three
 detainees were presented to the competent authorities to answer for the acts
-attributed to them. [@1,2]
+attributed to them. [@1,2,3]
 
-The operation seized 120 kilograms of cannabis. [@1,2] Officers also seized a
-Peugeot 306 car and a TVS motorcycle. [@1,2] They also found a locally made
+The operation seized 120 kilograms of cannabis. [@1,2,3] Officers also seized a
+Peugeot 306 car and a TVS motorcycle. [@1,2,3] They also found a locally made
 12-gauge shotgun and gris-gris, traditional amulets, adorned with cowrie shells
-and animal tails. [@1,2]
+and animal tails. [@1,2,3]
 
 Through the operation, the National Police said it was reaffirming its
 determination to strengthen the fight against drug trafficking and related
