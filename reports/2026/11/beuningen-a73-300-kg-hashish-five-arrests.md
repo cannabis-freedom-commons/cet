@@ -124,6 +124,11 @@ sources:
     publisher: Omroep Gelderland
     date: 2026-11-20
     language: nl
+  - title: 'Bakwagen negeert stopteken op A73, na achtervolging blijkt wat er in verborgen ruimte zit: vier Tilburgers en één andere verdachte opgepakt'
+    url: https://www.bd.nl/binnenland/bakwagen-negeert-stopteken-op-a73-na-achtervolging-blijkt-wat-er-in-verborgen-ruimte-zit-vier-tilburgers-en-een-andere-verdachte-opgepakt~a2747329/
+    publisher: Brabants Dagblad
+    date: 2026-11-20
+    language: nl
 open_questions:
     - The police described the find as 'ruim 300 kilo' (just over 300 kilograms); no exact measured weight was published.
     - 'The accounts place the search differently: the police said the hidden compartment was found in a vehicle in Oosterhout, while NOS reported the lorry was searched at the police station in Nijmegen.'
@@ -133,18 +138,18 @@ open_questions:
 ---
 
 Dutch police arrested five men on suspicion of money laundering and drug
-possession. [@1,2,5,7,8,9,10,11] The five arrests were made on Thursday 19 November 2026. [@2,5,6,7,8]
+possession. [@1,2,5,7,8,9,10,11,13] The five arrests were made on Thursday 19 November 2026. [@2,5,6,7,8]
 The operation began around 20:00 when an automatic number-plate recognition
 alert flagged a vehicle, and after the driver ignored a stop sign a short chase
-ended on the A73 at Beuningen where the driver and passenger were arrested. [@2,5,9,12]
+ended on the A73 at Beuningen where the driver and passenger were arrested. [@2,5,9,12,13]
 The first two, a 20-year-old and a 22-year-old from Tilburg, were followed by
 three more arrests in Oosterhout: a 22-year-old with no fixed residence and two
-men aged 18 and 19 from Tilburg. [@2,5,9] Omroep Brabant reported that four of those
+men aged 18 and 19 from Tilburg. [@2,5,9,13] Omroep Brabant reported that four of those
 held were from Tilburg and one had no fixed residence. [@4,6,8]
 
 Searching the vehicles in Oosterhout, officers found a hidden compartment in one
-of them holding over 300 kilograms of hashish, the police said. [@2,5,6,7,8,9,10] According
+of them holding over 300 kilograms of hashish, the police said. [@2,5,6,7,8,9,10,13] According
 to NOS, the lorry was taken under police escort to the station in Nijmegen,
 where officers opened parts of the roof and found a concealed space behind the
 cab from which dozens of bags were removed. [@3] The police said all five
-suspects remained in custody and were being questioned. [@2,4,5,6,9,12] Police also seized the vehicles and the drugs found during the searches. [@9]
+suspects remained in custody and were being questioned. [@2,4,5,6,9,12,13] Police also seized the vehicles and the drugs found during the searches. [@9,13]
