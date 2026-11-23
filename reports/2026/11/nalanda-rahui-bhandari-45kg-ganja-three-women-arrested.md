@@ -45,6 +45,11 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/11/20/31e1a883-434c-4463-a282-058c955c6e50_1795172664748/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: Dainik Bhaskar video report on the Bhandari village ganja raid, the 45 kg seizure and the arrest of three women.
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/bihar/biharsharif/bhandari-village-cannabis-cash-seized
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/20/1795179696724/sizes/prabhat-khabar-2026-11-20t183055629-f1e2a8-hero.webp
+    publisher: Prabhat Khabar
+    caption: 'Photo published with Prabhat Khabar''s report on the Bhandari village seizure and captioned in the page metadata as recovered ganja. Photo: Prabhat Khabar Network'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: f25698e956e4808e3a807928bd8201e7
@@ -65,6 +70,11 @@ sources:
     publisher: DNB Bharat
     date: 2026-11-20
     language: hi
+  - title: नालंदा में तीन घरों से 45 किलो गांजा और 1.49 लाख रुपये बरामद, तीन महिलाएं गिरफ्तार
+    url: https://www.prabhatkhabar.com/state/bihar/biharsharif/bhandari-village-cannabis-cash-seized
+    publisher: Prabhat Khabar
+    date: 2026-11-20
+    language: hi
 open_questions:
   - No names were published for the three arrested women, and no bail, charge-sheet or court outcome was reported.
   - The substance was described as ganja in the police statement; no laboratory test result was reported.
@@ -73,18 +83,17 @@ open_questions:
 
 Police raided three homes in Bhandari village in the Rahui police station area
 of Nalanda district, Bihar, seizing 45 kilograms of ganja and 149,900 rupees in
-cash and arresting three women. [@1] Acting on a tip-off, police searched three
+cash and arresting three women. [@1,4] Acting on a tip-off, police searched three
 separate houses in the village and recovered the ganja and cash. [@3] Rahui
 police station chief Lalit Vijay said the operation took place on 19 November
 2026 on the instructions of the district superintendent of police as part of a
-continuing campaign against the illegal narcotics trade. [@2]
+continuing campaign against the illegal narcotics trade. [@2,4]
 
 Officers seized 12.5 kg of ganja from Ramesh Yadav's house, 29.5 kg from Rajesh
-Kumar's house and 3 kg from Ravi Kumar's house, a total of 45 kg. [@2] The
+Kumar's house and 3 kg from Ravi Kumar's house, a total of 45 kg. [@2,4] The
 149,900 rupees in cash was found at Ravi Kumar's house along with the 3 kg of
-ganja. [@3]
+ganja. [@3,4]
 
 A case was registered at Rahui police station as number 568/26 under section
-8/20(b)(ii)(C) of the NDPS Act. [@2] Police said other accused in the case were
-absconding and raids were continuing to arrest them. [@2]
-
+8/20(b)(ii)(C) of the NDPS Act. [@2,4] Police said other accused in the case were
+absconding and raids were continuing to arrest them. [@2,4]
