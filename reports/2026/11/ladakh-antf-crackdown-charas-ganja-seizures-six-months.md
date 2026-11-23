@@ -43,6 +43,14 @@ sources:
     url: https://ladakhtimes.com/antf-ladakh-detects-drug-trafficking-network-using-air-travellers-as-carriers-heroin-like-substance-seized-at-leh-airport/
     publisher: Ladakh Times
     date: 2026-10-27
+  - title: Israeli man held with 'narcotics' in Ladakh's Zanskar
+    url: https://timesofindia.indiatimes.com/india/israeli-man-held-with-narcotics-in-ladakhs-zanskar/articleshow/132546643.cms
+    publisher: The Times of India
+    date: 2026-07-22
+  - title: Israeli National Arrested with Suspected Narcotics in Zanskar
+    url: https://kashmirlife.net/israeli-national-arrested-with-suspected-narcotics-in-zanskar-444149/
+    publisher: Kashmir Life
+    date: 2026-07-21
 open_questions:
   - 'No structured cannabis weight is recorded: Rising Kashmir''s opened capture, the DGP''s post and the outlet accounts give the seizures in grams but could not be verified for the kg_seized field, so the weights appear in the text only.'
   - Rising Kashmir says three persons were identified after the 3 November Kargil stop but does not say how many were detained, so no arrest count is recorded.
@@ -51,6 +59,7 @@ open_questions:
   - The Drass 81 g, Kargil 30 g, Drass night-patrol 91 g and Israeli national seizures are separate cases; the report does not add them into one haul and gives no combined weight.
   - The 6,146 Spasmo and Alprazolam tablets seized at Choglamsar contain no cannabis and are not counted as a cannabis quantity.
   - No charges, court outcomes or further court steps are reported for the stops described here.
+  - The charas and ganja taken from the Israeli national were described only as suspected substances pending forensic examination, and no confirmation of their nature or quantity has been published.
 ---
 
 Ladakh Police and the Anti-Narcotics Task Force, Ladakh’s dedicated anti-drug
@@ -86,8 +95,7 @@ late-night search at a residential premises in Choglamsar, registering FIR No.
 17/2026 under section 8/22 of the NDPS Act. [@4] In a separate operation,
 Zanskar police arrested a 24-year-old Israeli national at the Kargyak checkpoint
 on 21 July 2026 and recovered 104 grams of a charas-like substance and 16 grams
-of a ganja-like substance, registering FIR No. 23/2026. [@5] Ladakh Police urged
+of a ganja-like substance, registering FIR No. 23/2026. [@5,8] Police said the investigation would establish the source of the suspected contraband and whether the accused had links to a wider narcotics network, and officials said the seized substances would be sent for forensic examination to establish their exact nature and quantity. [@9] Police identified the suspect as Adir Yemini, 24, who was travelling in a private vehicle from Manali towards Zanskar when he was stopped, and said the recovery included a negligible quantity of a heroin-like substance. [@8] Ladakh Police urged
 residents, particularly young people, to stay away from drugs and to share
 credible information about narcotics-related activity with law enforcement
 agencies. [@1]
-
