@@ -38,6 +38,11 @@ media:
     media_url: https://diariodelosandes.com/wp-content/uploads/2022/09/e41da4871a437ab266a370731cf4f32c4ca77503w-750x422.jpg
     publisher: Diario de Los Andes
     caption: 'Venezuelan soldiers with the seized marijuana, described as the largest haul in a decade, in Falcón state. Image: EFE (video capture).'
+  - kind: photo
+    url: https://www.articulo66.com/2022/09/13/venezolanos-dos-millones-kilos-marihuana-detenidos/
+    media_url: https://www.articulo66.com/wp-content/uploads/2022/09/983d92e0056d80219f7b6ba7dce8444876cb71d0w-1024x576.jpg
+    publisher: Artículo 66
+    caption: 'Venezuelan soldiers with the seized marijuana bales in Falcón state, described by the military as the biggest haul in a decade. Photo: EFE.'
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [smuggling, trafficking]
@@ -88,8 +93,12 @@ sources:
     publisher: La Radio del Sur
     date: 2022-09-05
     language: es
-open_questions:
-    - The source gives two figures for the number of drug bundles on the boat, 89 in its opening paragraph and 121 in the detailed account; the report uses 121.
+  - title: Capturan a 12 venezolanos con casi tres millones de kilos de marihuana
+    url: https://www.articulo66.com/2022/09/13/venezolanos-dos-millones-kilos-marihuana-detenidos/
+    publisher: Artículo 66
+    date: 2022-09-13
+    language: es
+    archived: https://web.archive.org/web/20250813110424id_/https://www.articulo66.com/2022/09/13/venezolanos-dos-millones-kilos-marihuana-detenidos/
 ---
 
 On 3 September 2022 Venezuela's armed forces intercepted an unmarked vessel off
@@ -99,11 +108,11 @@ outboard motors, 33 large fuel containers and a satellite phone. [@1,2] The boat
 boat had sailed from Colombia and was bound for the island of Martinique.
 [@1,5] Hernández said the crew had set out from Alta Guajira in Colombia and planned to pass Aruba, Curaçao and Bonaire before reaching Martinique. [@4]
 
-Twelve Venezuelans travelling on the boat were arrested. [@1,2,3,4,6] The case was placed before prosecutor Abidail Valbuena of the 13th prosecutor's office with drug jurisdiction at the Public Ministry. [@6] After FANB troops sighted the vessel, the crew were pursued and captured. [@5] The vessel was detected by the Bolivarian National Guard's Coastal Surveillance Command and Regional Anti-Drug Intelligence Unit No. 13 of the National Anti-Drug Command. [@6] General
+Twelve Venezuelans travelling on the boat were arrested. [@1,2,3,4,6,7] The case was placed before prosecutor Abidail Valbuena of the 13th prosecutor's office with drug jurisdiction at the Public Ministry. [@6] At a presentation hearing, the Public Ministry charged the 12 men with aggravated trafficking of narcotic and psychotropic substances, a count that also covered 7.7 kg of cocaine, and with association to commit crimes. [@7] A Falcón tribunal then ordered the 12 men held in preventive detention, temporarily confined in a prison in the coastal region. [@7] After FANB troops sighted the vessel, the crew were pursued and captured. [@5] The vessel was detected by the Bolivarian National Guard's Coastal Surveillance Command and Regional Anti-Drug Intelligence Unit No. 13 of the National Anti-Drug Command. [@6] General
 Domingo Hernández Lárez, head of the Operational Strategic Command of the
 armed forces, said they worked for the Colombia-based Cartel of the Guajira.
-[@1,2,4,5] The 2,857 kg of marijuana was displayed at a beachside camp in the
+[@1,2,4,5,7] The 2,857 kg of marijuana was displayed at a beachside camp in the
 village of Tiraya on the Paraguaná Peninsula, which the military called the
-most important marijuana stash found in the country since 2012. [@1,2,3,5] Hernández said the marijuana was packed in 121 bundles holding 5,063 blocks, known in Venezuela as panelas. [@4,6]
+most important marijuana stash found in the country since 2012. [@1,2,3,5,7] Hernández said the marijuana was packed in 121 bundles holding 5,063 blocks, known in Venezuela as panelas. [@4,6]
 
 The arrests and the seizure were part of special armed forces operations along Venezuela's border. [@3] The operation was named "Cacique Manaure Sep 2022". [@6] Hernández said the military had disabled 305 aircraft since 2012, 27 of them in the current year. [@3,4] Hernández also said 40.2 tonnes of illegal drugs had been seized in Venezuela so far that year, 29.2% more than in the same period of the previous year. [@3]
