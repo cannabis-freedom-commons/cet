@@ -7,22 +7,29 @@ place: Satapuala and Faleatiu, Upolu
 coordinates: [-13.8572, -171.9936]
 precision: district
 type: raid
-also: [arrest, seizure, eradication]
+also: [arrest, seizure, eradication, prosecution]
 title: Three arrested as Samoa police raid four plantations and find 4,000 plants
 summary: >-
   Armed police led by Commissioner Fuiavaili'ili Egon Keil raided four marijuana farms in the mountains of Satapuala and Faleatiu on Upolu, arresting three men and taking 4,000 plants. Samoa Global News put the plants' street value at more than 4 million tala; the commissioner said the haul was smaller than the 10,000-plus plants found in the same hills a year earlier.
 figures:
-  arrested: 3
-  plants_destroyed: 4000
-  sites: 4
-  value:
-    amount: 4000000
-    currency: WST
+    arrested: 3
+    plants_destroyed: 4000
+    sites: 4
+    value:
+        amount: 4000000
+        currency: WST
+    charged: 3
 data_sources:
-  figures.arrested: [2]
-  figures.plants_destroyed: [2]
-  figures.sites: [1]
-  figures.value: [3]
+    figures.arrested: [4]
+    figures.plants_destroyed: [4]
+    figures.sites: [1]
+    figures.value: [4]
+    details.activity: [4]
+    details.agency_types: [4]
+    details.case_stage: [4]
+    details.charges: [4]
+    details.products: [4]
+    figures.charged: [4]
 media:
   - kind: photo
     url: https://www.samoaobserver.ws/category/samoa/75463
@@ -44,6 +51,16 @@ media:
     media_url: https://samoaglobalnews.com/wp-content/uploads/2020/12/Screenshot_20201201-195737_Facebook-1024x534.jpg
     publisher: Samoa Global News
     caption: 'Marijuana growing at the Faleatiu and Satapuala plantations, captioned by Samoa Global News as the crop found in the raid. Photo: Samoa Police Service handout'
+  - kind: photo
+    url: https://samoaglobalnews.com/three-appear-in-court-drug-raid-1dec2020/
+    media_url: https://samoaglobalnews.com/wp-content/uploads/2020/12/Screenshot_20201222-084438_Messenger-696x367.jpg
+    publisher: Samoa Global News
+    caption: 'Police returning to headquarters after the drug raid of 01 Dec 2020. Photo: Maina Vai'
+  - kind: photo
+    url: https://samoaglobalnews.com/three-appear-in-court-drug-raid-1dec2020/
+    media_url: https://samoaglobalnews.com/wp-content/uploads/2020/12/Screenshot_20201221-223602_Messenger-1-696x409.jpg
+    publisher: Samoa Global News
+    caption: 'Police returning to headquarters after the drug raid of 01 Dec 2020. Photo: Maina Vai'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9ba63f57c101dbaf798ea1ff52ae9671
@@ -61,19 +78,34 @@ sources:
     url: https://samoaglobalnews.com/samoa-police-latest-drug-bust-over-4-million-worth-of-plants-confiscated111/
     publisher: Samoa Global News
     date: 2020-12-01
+  - title: Three Arrested in Drug Raid at Faleatiu and Satapuala Appear in Court
+    url: https://samoaglobalnews.com/three-appear-in-court-drug-raid-1dec2020/
+    publisher: Samoa Global News
+    date: 2020-12-21
 open_questions:
-  - 'The police statement and the Samoa Observer differ on the start: police say the warrant was executed at about 4am, while the commissioner describes police spending the morning searching the four farms; 1 December 2020 is the day both name.'
-  - The 4,000 figure is given as approximate by the police service, and the plants are counted after being carried down to headquarters rather than weighed.
-  - No weight, area or price per plant confirmed by police was published; the more than 4 million tala value is the street estimate published by Samoa Global News, not a police valuation.
-  - The three arrested men were not named and no charges, court dates or outcomes were reported at this stage.
-  - The Samoa Observer describes the farms as being in the mountains of Satapuala and Faleatiu without splitting the totals between the villages, so the four farms cannot be assigned to either village.
-  - The operation was armed because of past shootings in the area, and no shots were fired and no weapons were seized, but the sources do not say how many officers carried firearms.
-  - A November 2019 raid in the same hills, described as Samoa's largest drug bust, is context only and is covered by a separate tracker report.
-  - The Samoa Global News account reproduces a police press statement and a screenshot of a Facebook post, so its plant figure is not independent of the police count.
+    - 'The police statement and the Samoa Observer differ on the start: police say the warrant was executed at about 4am, while the commissioner describes police spending the morning searching the four farms.'
+    - The 4,000 figure is given as approximate by the police service, and the plants are counted after being carried down to headquarters rather than weighed.
+    - No weight, area or price per plant confirmed by police was published; the more than 4 million tala value is the street estimate published by Samoa Global News, not a police valuation.
+    - No date is given for the first court appearance; 21 December 2020 is the publication date of the account.
+    - No sentences for the two men who pleaded guilty, and no outcome for the third man's case, are reported.
+    - The Samoa Observer describes the farms as being in the mountains of Satapuala and Faleatiu without splitting the totals between the villages, so the four farms cannot be assigned to either village.
+    - The operation was armed because of past shootings in the area, and no shots were fired and no weapons were seized, but the sources do not say how many officers carried firearms.
+    - The November 2019 raid in the same hills, described as Samoa's largest drug bust, is a separate event.
+    - The Samoa Global News accounts reproduce a police press statement and a screenshot of a Facebook post, so their plant figure is not independent of the police count.
+    - The man's surname appears both as Seupule and Seulupe in the court report.
+details:
+    agency_types: [police, court]
+    products:
+        - {product: plants, plants: 4000}
+    activity: [cultivation, possession]
+    charges: [growing marijuana plants, possession of marijuana leaves]
+    case_stage: charged
+    date_precision: exact
+    region: Upolu
 ---
 
 Three men were arrested when Samoan police raided marijuana plantations in the
-mountains of Satapuala and Faleatiu on Tuesday 1 December 2020. [@1] Police
+mountains of Satapuala and Faleatiu on Tuesday 1 December 2020. [@1,4] Police
 Commissioner Fuiavaili'ili Egon Keil led the operation, which followed a search
 warrant and complaints that narcotics were being sold in the area. [@1] Officers
 spent the morning searching four marijuana farms, and by about 2pm seven cars
@@ -84,12 +116,12 @@ armed because of past shootings in the area, though no shot was fired. [@1]
 Police said they found nobody at the makeshift shacks on the mountain, which
 drones filmed during the raid. [@1] Samoa Police Service later said officers
 located approximately 4,000 marijuana plants and made three arrests after
-entering Satapuala and Faleatiu at about 4am. [@2] Samoa Global News put the
-plants' street value at more than 4 million tala, about ST$1,000 a plant. [@3]
+entering Satapuala and Faleatiu at about 4am. [@2,4] Samoa Global News put the
+plants' street value at more than 4 million tala, about ST$1,000 a plant. [@3,4]
 The commissioner said the haul was smaller than the more than 10,000 plants
 taken in the previous November's raid in the same hills. [@1] No weapons were
 confiscated and no one was injured in the raid. [@1] Police did not release the
-names of the three arrested men. [@1]
+names of the three arrested men. [@1] Vili was to appear again in late January to set dates for a hearing. [@4] The two who pleaded guilty were remanded in custody to await sentencing in late January 2021. [@4] Neemia and Fuifui pleaded guilty to the charges, while Vili pleaded not guilty to cultivating marijuana plants but admitted possessing them. [@4] They were charged with growing marijuana plants and possession of marijuana leaves. [@4] They were named as Lua Seupule Vili, Leo Taupauna Neemia and Misipele Fuifui and were all unrepresented. [@4] The three men appeared in court by video link from Tanumalala Prison. [@4]
 
 Keil thanked the village councils, the Alii ma Faipule, of Satapuala and
 Faleatiu for allowing the operation and helping police throughout the year. [@1]
@@ -99,4 +131,3 @@ from members of the public about marijuana being cultivated in the Satapuala and
 Faleatiu areas of Upolu. [@2] The previous November's raid, described as Samoa's
 largest drug bust, had also netted firearms, methamphetamine, ammunition and
 cash. [@1]
-
