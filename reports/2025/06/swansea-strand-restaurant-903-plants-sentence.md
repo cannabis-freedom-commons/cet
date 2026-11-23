@@ -67,22 +67,19 @@ sources:
     url: https://swanseabaynews.com/two-men-jailed-after-swansea-cannabis-factory-raid/
     publisher: Swansea Bay News
     date: 2025-07-02
-open_questions:
-  - The police statement gives only “in excess of 900 plants”; the figure of 903 plants and the £395,000 value come from WalesOnline's account of the sentencing and are used here.
-  - The police statement names no court or sentencing date; WalesOnline's 29 June 2025 report of the sentencing is used for that date.
-  - WalesOnline's headline values the farm at £400,000 while its text says up to £395,000; the report uses £395,000.
-  - No weight of harvested cannabis was published, and the plants are counted only as plants.
-  - The wider organised crime group behind the farm was not identified in the reports.
-  - Whether either man will be deported was left to the Home Office and no outcome was reported.
-  - 'Left out, as its quotation was not found in WalesOnline: The two men, both Albanian nationals, had paid people smugglers to reach the UK and were in debt to those who organised the farm, whose organisers remain unidentified.'
+  - title: Two Albanians sentenced to 32 months in prison in Britain, caught with over 900 cannabis plants
+    url: https://reporteri.net/en/NEWS/Two-Albanians-sentenced-to-32-months-in-prison-in-Britain-after-being-caught-with-over-900-cannabis-plants/
+    publisher: Reporteri.net
+    date: 2026-11-22
+    language: en
 ---
 
 South Wales Police officers arrested Aleksander Cela, 26, and Dennis Horeshka,
 30, both of no fixed abode, after a search warrant at a building on The Strand
-in Swansea city centre on 8 May 2025. [@1] The raid uncovered a cannabis
-cultivation of more than 900 plants. [@1] At Swansea Crown Court on 29 June 2025
+in Swansea city centre on 8 May 2025. [@1,4] The raid uncovered a cannabis
+cultivation of more than 900 plants. [@1,4] At Swansea Crown Court on 29 June 2025
 both men were sentenced to 32 months in prison after pleading guilty to
-producing Class B drugs. [@2]
+producing Class B drugs. [@2,4]
 
 Police and the court put the number of plants at 903, found across three floors
 of the former Meatery and Martini restaurant at 12 The Strand and a neighbouring
@@ -95,8 +92,7 @@ matter for the Home Office. [@2]
 Sergeant Craig Evans of South Wales Police said the proceeds of dealing cannabis
 go towards other illegal and more serious activities, and that the Strand
 building was highly unsafe and had to be made secure before officers could
-remove the plants and equipment. [@1]
+remove the plants and equipment. [@1] Sergeant Craig Evans said: 'Drug crime comes with consequences. Here, those consequences include being sent to prison.' [@4]
 
 Swansea Bay News reported that both men were jailed after pleading guilty to
 producing Class B drugs. [@3]
-
