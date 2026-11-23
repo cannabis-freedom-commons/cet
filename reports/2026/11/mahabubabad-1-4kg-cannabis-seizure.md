@@ -45,19 +45,26 @@ sources:
     publisher: Disha Daily
     date: 2026-11-03
     language: te
+  - title: Police Bust Illicit Liquor, Ganja Trade In Mahabubabad, Warangal Districts
+    url: https://www.deccanchronicle.com/southern-states/telangana/police-bust-illicit-liquor-ganja-trade-in-mahabubabad-warangal-districts-2006667
+    publisher: Deccan Chronicle
+    date: 2026-11-21
+  - title: ప్రయాణికుల్లా స్మగ్లర్లు.. సంచుల్లో మూటలు | general
+    url: https://www.eenadu.net/telugu-news/districts/warangal-news/697/126213149
+    publisher: Eenadu
+    date: 2026-11-23
+    language: te
 open_questions:
-  - The article gives no separate date for the checks and raids, so 3 November 2026, its publication date, is used as the incident date.
-  - No suspect or arrest was reported for the cannabis seizure; the three recorded arrests were in the natusara liquor cases.
-  - It is unclear whether the two women reported as caught with natusara are included in the three persons reported as arrested, so only the explicit arrested total of three is recorded.
-  - Liquor, black jaggery and alum quantities are mentioned only to explain the mixed operation and are excluded from cannabis figures.
-  - Only one accessible source for this 1.4 kg seizure was opened and no corroborating second report was found.
+    - No suspect or arrest was reported for the cannabis seizure; the three recorded arrests were in the natusara liquor cases.
+    - It is unclear whether the two women reported as caught with natusara are included in the three persons reported as arrested, so only the explicit arrested total of three is recorded.
+    - Liquor, black jaggery and alum quantities are mentioned only to explain the mixed operation and are excluded from cannabis figures.
 ---
 
 District excise officials carried out special checks against cannabis transport
 and country-made liquor in Mahabubabad district under District Prohibition and
 Excise Officer Karanchand. [@1,2] Around Mahabubabad railway station and near
 Kuravi Gate, officers found 1.4 kg of dried cannabis hidden in bushes beside the
-railway track on Anantharam road and seized it. [@1,2] No one was reported as
+railway track on Anantharam road and seized it. [@1,2,3] The cannabis hidden beside the track was found on 4 November 2026. [@4] No one was reported as
 arrested with the cannabis. [@1]
 
 Separately in the same operation, officers raided Bhangya Thanda, Rayini Patnam
