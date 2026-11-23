@@ -142,10 +142,11 @@ sources:
     url: https://www.laineygossip.com/news-that-gigi-hadid-arrested-for-weed-in-cayman-islands-should-not-be-newsworthy-in-2023/
     publisher: LaineyGossip
     date: 2023-07-18
-open_questions:
-    - The fine is recorded once at 1,000 Cayman Islands dollars; KTLA reports that each woman was fined 1,000 dollars, which would make 2,000 dollars in total.
-    - No weight or amount of the cannabis found in the luggage has been published.
-    - It is unclear whether any charges remain on record, as one account says the pair were not facing any charges after their court appearance.
+  - title: Gigi Hadid arrested after cannabis found in luggage on holiday to Cayman Islands
+    url: https://news.sky.com/story/gigi-hadid-arrested-after-cannabis-found-in-luggage-on-holiday-to-cayman-islands-12923068
+    publisher: Sky News
+    date: 2023-07-18
+    archived: https://web.archive.org/web/20250723142947id_/https://news.sky.com/story/gigi-hadid-arrested-after-cannabis-found-in-luggage-on-holiday-to-cayman-islands-12923068
 ---
 
 American model Gigi Hadid, 28, and her friend Leah McCarthy were detained in the
@@ -159,8 +160,8 @@ They were taken to a detention centre and released on bail, the local newspaper
 Cayman Marl Road reported. [@1,4,5,6,7,9,11,12,13,17,19,20,21] They were taken to the Prisoner Detention Center. [@6,7,10,13,15] The pair appeared in the Cayman Islands summary
 court two days later, where they were fined 1,000 Cayman Islands dollars
 ($1,200; £920). [@1,4,9,12,16,17,18,19,21] The courts confirmed the two were arraigned in George Town, but did not specify the charges. [@4] They pleaded guilty in court and paid the fine, but no
-conviction was recorded. [@1,2,3,4,6,7,8,9,12,15,16,17,18,20]
+conviction was recorded. [@1,2,3,4,6,7,8,9,12,15,16,17,18,20,23]
 
 Hadid's representative said the marijuana was purchased legally in New York
 "with a medical license", and that medical use has also been legal in Grand
-Cayman since 2017. [@1,2,4,5,7,8,9,11,12,13,15,16,17,18,19,21,22]
+Cayman since 2017. [@1,2,4,5,7,8,9,11,12,13,15,16,17,18,19,21,22,23] After news of the arrest broke, Hadid shared pictures from the holiday on Instagram, including one of her sunbathing on the beach with friends captioned "All's well that ends well". [@23]
