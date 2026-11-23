@@ -52,6 +52,11 @@ media:
     media_url: https://www.rosario3.com/__export/1795191623365/sites/rosario3/img/2026/11/20/marihuana_encomienda.jpg_815021172.jpg
     publisher: Rosario3
     caption: The seized marijuana from the parcel case, published with the Rosario3 report and captioned ''La droga secuestrada''.
+  - kind: photo
+    url: https://primerapagina.info/policiales/enviaban-marihuana-por-encomienda-de-misiones-a-casilda--cuatro-detenidos-y-12-kilos_a6b007acafde8ae76f890ff58
+    media_url: https://flex-assets.tadevel-cdn.com/6b007895fde8ae76f890857c/720.jpeg
+    publisher: Primera Página
+    caption: 'The marijuana parcels intercepted in the Casilda operation. Photo: Ministerio Público Fiscal / Red Boing'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 177560ae2a2661b2e9b1e4b5b12818f9
@@ -82,6 +87,11 @@ sources:
     publisher: El Informante
     date: 2026-11-20
     language: es
+  - title: 'Enviaban marihuana por encomienda de Misiones a Casilda: cuatro detenidos y 12 kilos - Primera Página'
+    url: https://primerapagina.info/policiales/enviaban-marihuana-por-encomienda-de-misiones-a-casilda--cuatro-detenidos-y-12-kilos_a6b007acafde8ae76f890ff58
+    publisher: Primera Página
+    date: 2026-11-20
+    language: es
 open_questions:
   - Only initials and ages of the four were released, and no plea or trial date was reported.
   - The 12.140 kg is the weight of the two parcels opened in Casilda; the accounts do not say whether the third parcel seized in Puerto Libertad contained drugs.
@@ -95,23 +105,23 @@ Four men were charged on Thursday 19 November 2026 in Rosario's federal courts
 over two parcels of marijuana sent from Puerto Libertad, Misiones, to the Correo
 Argentino branch in Casilda, Santa Fe. [@1,5] Judge of Garantías Eduardo Rodrígues
 Da Cruz ordered 90 days of preventive detention for the two Paraguayan nationals
-and house arrest with restrictions for the other two. [@1,5] In Puerto Libertad
+and house arrest with restrictions for the other two. [@1,5,6] In Puerto Libertad
 officers arrested a 22-year-old Argentine and a 31-year-old Paraguayan who had
-returned to the parcel dispatch point with another package. [@2] In Casilda they
+returned to the parcel dispatch point with another package. [@2,6] In Casilda they
 arrested a 25-year-old Paraguayan and a 54-year-old Argentine at the housing
-complex where the parcels were taken. [@2]
+complex where the parcels were taken. [@2,6]
 
 On 16 November 2026 Prefectura Naval officers opened the parcels at the Casilda
 post office with judicial authorisation and found 12.140 kg of marijuana that
-tested positive in a narcotest. [@1,5] The drug was replaced with inert material
-and the parcels were tracked as part of a controlled delivery. [@1] In the
+tested positive in a narcotest. [@1,5,6] The drug was replaced with inert material
+and the parcels were tracked as part of a controlled delivery. [@1,6] In the
 afternoon three men collected the parcels in Casilda and drove them to a housing
-complex, where officers searched two homes. [@1] Officers seized 278,000 pesos
+complex, where officers searched two homes. [@1,6] One of the intercepted parcels was seized inside one of the two searched homes. [@6] Officers seized 278,000 pesos
 in cash, a precision scale, a vacuum sealing machine and five phones in one
-home, and three marijuana seedlings and a phone in the other. [@1,5]
+home, and three marijuana seedlings and a phone in the other. [@1,5,6]
 
 The federal prosecutor's office charged the four with transporting narcotics,
-aggravated by the involvement of three or more people. [@4] The case is handled
+aggravated by the involvement of three or more people. [@4,6] The case is handled
 by the decentralised federal prosecutor's office in San Lorenzo, with federal
 prosecutor Claudio Kishimoto. [@1] The parcels were addressed to a resident of
 Casilda. [@3]
