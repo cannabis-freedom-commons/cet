@@ -55,39 +55,40 @@ sources:
     publisher: Mathrubhumi
     date: 2026-11-22
     language: ml
+  - title: ചേർത്തല പൂച്ചാക്കലിൽ വൻ കഞ്ചാവ് വേട്ട; കാറിൽ കടത്തുകയായിരുന്ന 11.6 കിലോ കഞ്ചാവുമായി യൂത്ത് കോൺഗ്രസ് നേതാവടക്കം അഞ്ചുപേർ അറസ്റ്റിൽ | Cherthala Poochakkal Ganja Seizure Youth Congress Leader Arrested | Samakalika Malayalam
+    url: https://www.samakalikamalayalam.com/local-news/alappuzha/cherthala-poochakkal-ganja-seizure-five-arrested-including-youth-congress-leader
+    publisher: Samakalika Malayalam
+    date: 2026-11-22
+    language: ml
 open_questions:
-  - English-language wire reports counted five arrests and 11.6 kg from the car, while the Malayalam accounts counted eight arrests and put the total at 12 to 13 kg once the earlier Palliveli check is included; this report uses eight arrests and the 12 kg total given by Mathrubhumi.
-  - 'Sources differ on Shameer''s standing in the party: IANS described him as an office-bearer of the Congress mandalam committee, while district Youth Congress leaders said he held no post and had been inactive for months.'
-  - The IANS account dates the arrests to Sunday while describing a check late on Saturday night; its own detail and other reports place the interception at 10.50 pm on Saturday 21 November 2026.
-  - No value or street price was published for the ganja.
-  - Police did not name the Palakkad supplier or report further arrests, and no charge sheet, bail hearing or trial date has been reported.
-  - 'Left out, as its quotation was not found in Asianet News: The checks were carried out by the Alappuzha district anti-narcotics squad, DANSAF, and Poochakkal police under the Cherthala deputy superintendent of police.'
-  - Left out agencies, as its quotation was not found in Asianet News.
-  - Left out agency types, as its quotation was not found in Asianet News.
+    - English-language wire reports counted five arrests and 11.6 kg from the car, while the Malayalam accounts counted eight arrests and put the total at 12 to 13 kg once the earlier Palliveli check is included; this report uses eight arrests and the 12 kg total given by Mathrubhumi.
+    - 'Sources differ on Shameer''s standing in the party: IANS described him as an office-bearer of the Congress mandalam committee, while district Youth Congress leaders said he held no post and had been inactive for months.'
+    - The IANS account dates the arrests to Sunday while describing a check late on Saturday night; its own detail and other reports place the interception at 10.50 pm on Saturday 21 November 2026.
+    - No value or street price was published for the ganja.
+    - Police did not name the Palakkad supplier or report further arrests, and no charge sheet, bail hearing or trial date has been reported.
 ---
 
 Eight men were arrested in the case, among them a local Youth Congress leader.
 [@4] The five occupants of a car stopped at Makkekadavu junction in Poochakkal
 were found with 11.6 kg of ganja packed in bags. [@3] The car was intercepted at
-about 10.50 pm on Saturday while it travelled from Cherthala to Arookutty. [@2]
+about 10.50 pm on Saturday while it travelled from Cherthala to Arookutty. [@2,5] The check was carried out jointly by the Alappuzha district DANSAF team and Poochakkal police. [@5]
 Earlier that evening, at about 4 pm, three other men were arrested with 1.270 kg
 of ganja near Palliveli junction, and questioning them led police to the car.
 [@3] One of them, Shemeer, 38, is a Youth Congress worker from Manappuram whose
-social media accounts show photographs with party leaders. [@2] District Youth
+social media accounts show photographs with party leaders. [@2,5] District Youth
 Congress leaders said he had been inactive for months and held no post in the
 organisation. [@2] Shameer was reportedly involved in the election campaign of
-Kerala Assembly Deputy Speaker Shanimol Usman. [@1]
+Kerala Assembly Deputy Speaker Shanimol Usman. [@1,5]
 
 Police said the men had bought a large quantity of ganja in Palakkad and were
 selling it in smaller quantities to users in Kochi. [@2] All eight were produced
 before a magistrate and remanded in judicial custody. [@3] Shemeer complained of
 chest discomfort and was taken to Ernakulam General Hospital. [@2] Poochakkal
 police registered a case under the Narcotic Drugs and Psychotropic Substances
-Act. [@1] Investigations were continuing to establish each man's role in the
+Act. [@1,5] Investigations were continuing to establish each man's role in the
 alleged transport. [@1]
 
 The arrests came during Operation Toofan, Kerala's statewide anti-drug campaign.
 [@1] By 13 November, Kerala Police said they had arrested 16,203 people and
 registered nearly 15,000 cases under the campaign, seizing over two tonnes of
 ganja statewide. [@1]
-
