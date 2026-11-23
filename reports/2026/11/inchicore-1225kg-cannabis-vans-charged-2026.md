@@ -76,6 +76,10 @@ sources:
     url: https://www.thejournal.ie/glock-pistol-around-e1-8m-worth-drugs-seized-searches-dublin-8-7234108-Nov2026/
     publisher: The Journal
     date: 2026-11-22
+  - title: '€1.76m drug haul: cannabis, cocaine and firearm seized in capital'
+    url: https://www.irishsun.com/news/279448755/1-76m-drug-haul-cannabis-cocaine-and-firearm-seized-in-capital
+    publisher: Irish Sun
+    date: 2026-11-22
 open_questions:
     - An account published on 22 November says both men were still detained at garda stations in the Dublin metropolitan region, while reporting published the same weekend says they had already been charged.
     - No court outcome, plea or detention decision has been reported for the two charged men.
@@ -84,18 +88,18 @@ open_questions:
 
 Gardaí attached to the Dublin Crime Response Team carried out an
 intelligence-led operation on Bulfin Road, Inchicore, Dublin 8 at 6.45pm as part
-of Operation Tara. [@1,2] They seized 110kgs of vacuum-packed cannabis herb from
-two parked vans. [@1,2] The two men, aged in their 20s and 40s, who were the
-drivers of the vans, were arrested at the scene. [@1,2]
+of Operation Tara. [@1,2,4] They seized 110kgs of vacuum-packed cannabis herb from
+two parked vans. [@1,2,4] The two men, aged in their 20s and 40s, who were the
+drivers of the vans, were arrested at the scene. [@1,2,4] Gardaí said the two drivers were held at garda stations in the Dublin Metropolitan Region under Section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@4]
 
 In a follow-up search under warrant at a property in Dublin 8, gardaí also
 seized a further 12.5kgs of cannabis herb, .5 kg of cocaine, €4,550 in cash, a
 Glock 19 semi-automatic pistol, five rounds of ammunition and an assortment of
-documents. [@1,3] The combined total of 122.5kgs of cannabis herb and .5kg of
-cocaine was valued at €1,765,000. [@1,2]
+documents. [@1,3,4] The combined total of 122.5kgs of cannabis herb and .5kg of
+cocaine was valued at €1,765,000. [@1,2,4]
 
-Both men were charged after the seizure. [@1] They were due to appear before
-Dublin District Court at Court No 4 of the Criminal Courts of Justice. [@1] The
-seized drugs were subject to analysis by Forensic Science Ireland. [@1,2] The
+Both men were charged after the seizure. [@1,4] They were due to appear before
+Dublin District Court at Court No 4 of the Criminal Courts of Justice. [@1,4] The
+seized drugs were subject to analysis by Forensic Science Ireland. [@1,2,4] The
 firearm was to be examined by the Garda Ballistics Section and investigations
 were ongoing. [@1]
