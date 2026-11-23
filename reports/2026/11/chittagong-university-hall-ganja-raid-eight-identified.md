@@ -86,15 +86,10 @@ sources:
     publisher: Campus Times
     date: 2026-11-20
     language: bn
-open_questions:
-    - No weight or value for the ganja recovered from the room was published.
-    - The hall administration described the eight as identified while consuming drugs and handled the matter as a university disciplinary issue; no formal charge or court outcome was reported.
-    - The ganja, electronic cigarettes and beer were recovered together from one room, so no quantity can be attributed to cannabis alone and it is unclear how many of the eight had used ganja specifically.
-    - Academic punishment was left to the university administration and no final decision was reported.
-    - The students accused of pushing the tutors say they did not recognise the teachers, while the house tutor says they acted aggressively after the tutors identified themselves.
-    - 'Accounts differ on how the raid began: one says it followed student complaints, another says the proctor''s office passed on a report of drug use in room 612, and the assistant proctor told NewsNow24 it followed a tip-off.'
-    - The time of the raid is given as about 7pm in one account and around 7:30pm in NewsNow24.
-    - NewsNow24 lists raw ganja, foreign electronic cigarettes and cigarette butts among the items recovered but does not mention beer, which other accounts list.
+  - title: 8 identified in anti-drug raid at Chittagong University hall; students accused of shoving two house tutors
+    url: https://www.tbsnews.net/bangladesh/8-identified-anti-drug-raid-chittagong-university-hall-students-accused-shoving-two-house
+    publisher: The Business Standard
+    date: 2026-11-21
 media:
   - kind: photo
     url: https://newsnow24.com/prio-chattogram/G5wuh917I2
@@ -121,23 +116,28 @@ media:
     media_url: https://ticktock.campustimes.press/storage/images/2026/11/20/img_1795193987_6b007c83ed006.jpg
     publisher: Campus Times
     caption: Raw ganja, electronic cigarettes, cigarette packets and other items recovered from room 612 of Shaheed Farhad Hossain Hall, laid out on a table in the photo published with the report on the raid.
+  - kind: photo
+    url: https://www.tbsnews.net/bangladesh/8-identified-anti-drug-raid-chittagong-university-hall-students-accused-shoving-two-house
+    media_url: https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/21/920278431_29301276176193323_7083196380098774315_n.jpg
+    publisher: The Business Standard
+    caption: 'Cannabis, beer bottles and other items used for drug consumption recovered from a room during the raid on 20 November 2026. Photo: TBS'
 ---
 
 Members of the hall administration and proctorial body at Chittagong University
 raided room 612 of C block in Shaheed Farhad Hossain Hall, acting on student
 complaints. [@1,3,8,9] Assistant proctor Nurul Hamid Kanan said the students had told the raiding team the gathering was for music. [@9] The raid took place at about 7pm on Friday 20 November 2026. [@4,5] The operation took place on the evening of Friday 20 November
-2026 across rooms 612 and 104 of the hall's C block. [@2,3,8] The hall
+2026 across rooms 612 and 104 of the hall's C block. [@2,3,8,11] The hall
 administration said the raid identified eight people, seven students and one
-guest, as consuming drugs in the room. [@2,3,4,5,6,7,8,9,10] Kanan said only one of the four students allotted seats in room 612 was present during the raid, that the other three were at home and that the present student called the others in. [@4] The eight were five students of Shaheed Farhad Hossain Hall, two students of Atish Dipankar Hall and a guest from Dhaka. [@4] Six of the eight identified were students of the 2023-24 academic year. [@6,7,10] The seventh student was in the 2022-23 academic year and the eighth was a guest who is not a student of the university. [@6,7,10]
+guest, as consuming drugs in the room. [@2,3,4,5,6,7,8,9,10,11] The seven students identified were Smit Rema of pharmacy, Shafius Zaman Ayon of international relations, Minhazul Islam of criminology and police science, Shawon Khan of modern languages, Iznur Saymun of physical education and sports science, and Fahim Ahmed Shahid and Md Mahabub Rahman of sociology, while the guest Kamrul Islam had travelled from Dhaka. [@11] Kanan said only one of the four students allotted seats in room 612 was present during the raid, that the other three were at home and that the present student called the others in. [@4] The eight were five students of Shaheed Farhad Hossain Hall, two students of Atish Dipankar Hall and a guest from Dhaka. [@4] Six of the eight identified were students of the 2023-24 academic year. [@6,7,10] The seventh student was in the 2022-23 academic year and the eighth was a guest who is not a student of the university. [@6,7,10]
 
 Officers recovered ganja, electronic cigarettes, drug-use equipment and bottles
-of beer from one of the rooms, the hall administration said. [@1,3,4,5,8,9] Assistant
+of beer from one of the rooms, the hall administration said. [@1,3,4,5,8,9,11] Assistant
 proctor Nurul Hamid Kanan said raw ganja and electronic cigarettes were
 recovered and beer bottles were also found. [@2,3,5] Assistant proctor Nurul Hamid Kanan said the room had four tables but no books. [@4,6,7,10] Kanan said drug use was going on in the room behind the cover of music. [@7,8,10] The room was sealed and the
 hall administration said it would cancel the residential seats of those
-involved. [@1,3,5,6,7,10] Kanan said a detailed report would go to the university's senior authorities and disciplinary committee, which would decide academic punishment and other measures. [@4,5,7,10] He said a notice on the cancelled seats would be issued on the next working day, Sunday, that other halls would be told about their students and that a full investigation committee of resident teachers would be formed. [@4] Proctor Faruk Alam said the hall had a zero-tolerance policy on drugs and that no place could be kept for drug users while ordinary students lacked seats. [@4] The identity cards of those present were seized after the room was sealed. [@4]
+involved. [@1,3,5,6,7,10,11] Kanan said a detailed report would go to the university's senior authorities and disciplinary committee, which would decide academic punishment and other measures. [@4,5,7,10] He said a notice on the cancelled seats would be issued on the next working day, Sunday, that other halls would be told about their students and that a full investigation committee of resident teachers would be formed. [@4] Proctor Faruk Alam said the hall had a zero-tolerance policy on drugs and that no place could be kept for drug users while ordinary students lacked seats. [@4] The identity cards of those present were seized after the room was sealed. [@4]
 
 During a search of another room in the same hall, two students were accused of
-pushing two house tutors. [@1,3,8,9] The two students accused of pushing the tutors were from the history department and the criminology and police science department. [@3] House tutor Bapparaj Hawlader said the two
+pushing two house tutors. [@1,3,8,9,11] The two students accused of pushing the tutors were from the history department and the criminology and police science department. [@3] The two students accused of shoving the tutors were Nazmul Hasan of the history department, in the 2024-25 session, and Ibraj Hasan Mahmud Samir of criminology and police science, in the 2023-24 session. [@11] House tutor Bapparaj Hawlader said the two
 students pushed him and a fellow tutor and acted aggressively even after the
-tutors identified themselves as teachers. [@1,3] Proctor Faruk Alam said one of the two students who blocked the tutors later apologised. [@4] The accused students said they had not recognised the teachers and had blocked them from entering their room. [@3] Kanan said the university would continue regular anti-drug operations. [@4]
+tutors identified themselves as teachers. [@1,3,11] Proctor Faruk Alam said one of the two students who blocked the tutors later apologised. [@4] The accused students said they had not recognised the teachers and had blocked them from entering their room. [@3,11] Kanan said the university would continue regular anti-drug operations. [@4]
