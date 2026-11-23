@@ -60,6 +60,10 @@ sources:
     publisher: Marunadan Malayali (via Dailyhunt)
     date: 2026-11-04
     language: ml
+  - title: Youth Congress leader among five arrested after Kerala Police seize 11.6 kg ganja in Alappuzha
+    url: https://www.thehansindia.com/news/national/youth-congress-leader-among-five-arrested-after-kerala-police-seize-116-kg-ganja-in-alappuzha-1144655
+    publisher: The Hans India
+    date: 2026-11-22
 open_questions:
   - The sources give the totals for the first five months of Operation Toofan but not a separate date for the press conference beyond the 4 November 2026 publication date.
   - No area of cannabis fields destroyed, street value of the cannabis, or number of people still in custody beyond the 1,173 remanded was published.
@@ -77,7 +81,7 @@ open_questions:
 ---
 
 Kerala police say they arrested 15,515 people in the first five months of
-Operation Toofan, the state's anti-drug campaign. [@1,4] The same period produced
+Operation Toofan, the state's anti-drug campaign. [@1,4] In a November 13 update, Kerala Police said officers had arrested 16,203 people and registered 14,995 cases since Operation Toofan began. [@5] The same period produced
 14,369 registered drug cases. [@1,2,4] Of those arrested, 1,173 have been remanded
 in judicial custody. [@1,4] Inspector General Putta Vimaladitya, the campaign's
 state nodal officer, gave the figures at a press conference in
