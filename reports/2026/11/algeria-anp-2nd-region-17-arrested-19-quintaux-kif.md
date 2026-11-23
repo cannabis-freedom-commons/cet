@@ -89,6 +89,11 @@ sources:
     url: https://www.riotimesonline.com/algeria-army-seizes-1-9-tonnes-cannabis-17-arrested/
     publisher: The Rio Times
     date: 2026-11-21
+  - title: Selundupkan Narkoba, 2 Warga Maroko Ditembak Mati di Aljazair
+    url: https://news.detik.com/internasional/d-8763925/selundupkan-narkoba-2-warga-maroko-ditembak-mati-di-aljazair
+    publisher: detikNews
+    date: 2026-11-22
+    language: id
 open_questions:
   - The standfirst of the TSA account puts the seizure at 1.7 tonnes while its headline and the defence ministry statement say 19 quintals (about 1.9 tonnes); the ministry figure is used.
   - The ministry names only the 2nd Military Region and gives no wilaya, town or border crossing for the operation.
@@ -108,7 +113,7 @@ from Morocco. [@1,4,5,7,10] The statement was issued on Saturday 21 November 202
 said the network was broken up during the week. [@1,7,10]
 
 Seventeen people were arrested and the services seized 50 utility vehicles, five
-motorcycles, a jet-ski and mobile phones. [@1,4,6,7,8] Officers also seized about 273
+motorcycles, a jet-ski and mobile phones. [@1,4,6,7,8,11] Officers also seized about 273
 million centimes, which is 2.73 million dinars. [@1,4,6,7] Algerian outlets describe
 the networks as operating on the country's western borders, the route for
 Moroccan kif. [@3] The ministry described the operation as part of efforts to
