@@ -57,6 +57,16 @@ media:
     media_url: https://portalumuaramanews.com.br/wp-content/uploads/2026/11/MACONHA.mp4?_=1
     publisher: Umuarama News
     caption: Video published with the Umuarama News report on the 652.6 kg marijuana seizure on the PR-323 in Perobal.
+  - kind: photo
+    url: https://obemdito.com.br/noticia/475982/apreensao-de-652-kg-de-maconha-na-pr-323-causa-prejuizo-de-r-19-milhao-ao-crime
+    media_url: https://obemdito.com.br/wp-content/uploads/2026/11/apreensao-de-652-kg-de-maconha-causa-prejuizo-de-r-1-9-milhao-ao-crime-na-pr-323.webp
+    publisher: OBemdito
+    caption: 'BPFron and PRF with the truck and the 652.6 kg of marijuana seized on the PR-323 in Perobal. Photo: BPFron'
+  - kind: video
+    url: https://obemdito.com.br/noticia/475982/apreensao-de-652-kg-de-maconha-na-pr-323-causa-prejuizo-de-r-19-milhao-ao-crime
+    media_url: https://obemdito.com.br/wp-content/uploads/2026/11/WhatsApp-Video-2026-11-20-at-15.04.51.mp4
+    publisher: OBemdito
+    caption: Video published with the OBemdito report on the 652.6 kg marijuana seizure and driver's arrest on the PR-323 in Perobal.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: e52918156e1317bad870e94f4bdda62d
@@ -82,31 +92,36 @@ sources:
     publisher: Umuarama News
     date: 2026-11-21
     language: pt
+  - title: Apreensão de 652 kg de maconha na PR-323 causa prejuízo de R$ 1,9 milhão ao crime
+    url: https://obemdito.com.br/noticia/475982/apreensao-de-652-kg-de-maconha-na-pr-323-causa-prejuizo-de-r-19-milhao-ao-crime
+    publisher: OBemdito
+    date: 2026-11-20
+    language: pt
 open_questions:
     - No custody decision, charge sheet or court outcome was reported after the driver was taken to the Civil Police station in Umuarama.
 ---
 
 Federal Highway Police officers and Paraná's Border Police Battalion (BPFRON)
 arrested a truck driver on the PR-323 in Perobal, in northwestern Paraná, on the
-morning of Friday 20 November 2026. [@1,3] The driver was 27 years old. [@2,3,4]
+morning of Friday 20 November 2026. [@1,3] The driver was 27 years old. [@2,3,4,5]
 Officers tried to stop a bitrem, a tractor unit with two semitrailers, near the
 turn-off for the Cedro district. [@1] The driver disobeyed, sped away, overtook
 where overtaking was forbidden and forced other drivers off the road to avoid
 head-on crashes. [@1,3] After about five kilometres he stopped the truck on the
-shoulder and ran into a pasture beside the highway. [@1,3,4] The PRF called BPFRON
+shoulder and ran into a pasture beside the highway. [@1,3,4,5] The PRF called BPFRON
 teams from Umuarama to help with the approach. [@1] Officers followed him and
-caught him about 500 metres from the truck. [@2,3,4]
+caught him about 500 metres from the truck. [@2,3,4,5]
 
 In the cab of the truck-tractor officers found dozens of bales of marijuana.
-[@1] The drug weighed 652.6 kilograms. [@1,3,4] Police seized a Volvo FH 460 tractor
-unit and two Noma semitrailers. [@2,4] The two semitrailers were loaded with
-sesame seeds. [@2,3,4] The operation began after PRF intelligence reported that a
+[@1] The drug weighed 652.6 kilograms. [@1,3,4,5] Police seized a Volvo FH 460 tractor
+unit and two Noma semitrailers. [@2,4,5] The two semitrailers were loaded with
+sesame seeds. [@2,3,4,5] The operation began after PRF intelligence reported that a
 Volvo truck had left Guaíra for the Umuarama region with a suspected illicit
-load. [@2,3,4] The BPFRON put the loss to organised crime at R$ 1,955,200. [@2,4]
+load. [@2,3,4] The BPFRON put the loss to organised crime at R$ 1,955,200. [@2,4,5]
 
 The driver told officers the drug had been loaded between Guaíra and Mundo Novo,
 in Mato Grosso do Sul, and was bound for Curitiba. [@2,3,4] He said he would receive
-R$ 30,000 for the transport. [@2,3,4] Mundo Novo lies in the border region with
+R$ 30,000 for the transport. [@2,3,4,5] Mundo Novo lies in the border region with
 Paraguay. [@1]
 
 He was arrested in flagrante for drug trafficking and dangerous driving. [@1]
