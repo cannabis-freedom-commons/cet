@@ -60,6 +60,11 @@ media:
     media_url: https://stiridetimisoara.ro/wp-content/uploads/2026/11/droguri1.jpeg
     publisher: Stiri de Timisoara
     caption: 'Second photo of the drugs found during the Timișoara searches. Photo: Stiri de Timisoara'
+  - kind: video
+    url: https://stirileprotv.ro/justitie/un-tanar-din-timisoara-ar-fi-facut-aproape-2-8-milioane-de-lei-din-traficul-de-droguri-ce-au-descoperit-procurorii-diicot.html
+    media_url: https://mn1.protv.ro/stirileprotvvideo/2026/11/20/054211/06_arestat_droguri.mp4
+    publisher: Știrile ProTV
+    caption: Video published with the Știrile ProTV report on the arrest of the Timișoara cocaine and cannabis dealer.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0d16bb386f58bb96525f06b403993211
@@ -99,6 +104,11 @@ sources:
     publisher: Stiri de Timisoara
     date: 2026-11-20
     language: ro
+  - title: Un tânăr din Timișoara ar fi făcut aproape 2,8 milioane de lei din traficul de droguri. Ce au descoperit procurorii DIICOT
+    url: https://stirileprotv.ro/justitie/un-tanar-din-timisoara-ar-fi-facut-aproape-2-8-milioane-de-lei-din-traficul-de-droguri-ce-au-descoperit-procurorii-diicot.html
+    publisher: Știrile ProTV
+    date: 2026-11-20
+    language: ro
 ---
 
 Officers of the Timișoara Organised Crime Combat Brigade with prosecutors of the
@@ -106,20 +116,20 @@ DIICOT Timișoara Territorial Service investigated two people aged 28 and 31 for
 risk and high-risk drug trafficking, with money laundering in one case. [@2] About a decade earlier he had been caught with a small quantity of drugs for personal use, and he came under investigation in 2025. [@6] The 28-year-old suspect was from Ghiroda. [@6]
 DIICOT prosecutors ordered the detention of both suspects on 18 November 2026.
 [@2] On 19 November the Timiș Tribunal ordered 30-day preventive arrest for the
-28-year-old and 30-day house arrest for the 31-year-old. [@1,4,5,6,7]
+28-year-old and 30-day house arrest for the 31-year-old. [@1,4,5,6,7,8]
 
 The two men allegedly sold cocaine and cannabis in Timișoara between 2023 and
-June 2026. [@1,4,5,6] The 28-year-old allegedly repeatedly procured, held and sold
-cocaine and cannabis for 400 to 1,000 lei. [@1,4] Deals took place at his home or
-at buyers' addresses and payment was made mainly by online transfer. [@1,4,7] He allegedly ran the sales from the home where he grew up, coordinating others through cameras he watched on his phone. [@6] In the
+June 2026. [@1,4,5,6,8] The 28-year-old allegedly repeatedly procured, held and sold
+cocaine and cannabis for 400 to 1,000 lei. [@1,4,8] Deals took place at his home or
+at buyers' addresses and payment was made mainly by online transfer. [@1,4,7,8] He allegedly ran the sales from the home where he grew up, coordinating others through cameras he watched on his phone. [@6] In the
 period under investigation he allegedly received about 2,745,000 lei. [@1] When
 he temporarily left the country in March 2026 the 31-year-old allegedly took
-over selling cannabis and cocaine. [@2,4,7] Four home searches on 18 November found
+over selling cannabis and cocaine. [@2,4,7,8] Four home searches on 18 November found
 about 1 kg of cannabis and 800 g of cocaine ready for sale, plus grinders, items
 with substance traces, 77,000 lei, 1,000 euro, jewellery, a luxury watch and
-other evidence. [@1,4,5,6,7] Investigators seized two apartments and a bank account of
+other evidence. [@1,4,5,6,7,8] Investigators seized two apartments and a bank account of
 the 28-year-old and a luxury car valued at about 170,000 euro suspected to have
-been bought with drug money. [@3,4,5,6,7] Police also said more than 55,000 euros in bank accounts and jewellery worth over 10,000 euros were frozen. [@6]
+been bought with drug money. [@3,4,5,6,7,8] Police also said more than 55,000 euros in bank accounts and jewellery worth over 10,000 euros were frozen. [@6]
 
 The operation was supported by gendarmes of the Timișoara Mobile Gendarmerie
 Group. [@2]
