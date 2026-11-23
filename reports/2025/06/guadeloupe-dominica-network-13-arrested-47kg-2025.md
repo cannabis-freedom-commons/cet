@@ -44,6 +44,16 @@ sources:
     publisher: France-Antilles Guadeloupe
     date: 2025-06-13
     language: fr
+  - title: Capesterre-Belle-Eau. Nouvelle saisie de drogue d'une valeur de 25M€ ; trois hommes sous les verrous
+    url: https://la1ere.franceinfo.fr/guadeloupe/basse-terre/capesterre-belle-eau/capesterre-belle-eau-nouvelle-saisie-de-drogue-d-une-valeur-de-25m-trois-hommes-sous-les-verrous-1507121.html
+    publisher: Guadeloupe La 1ère
+    date: 2024-07-19
+    language: fr
+  - title: 'Guadeloupe: 780 kilos de cocaïne saisis, trois individus mis en examen'
+    url: https://bfmtv.com/police-justice/guadeloupe-780-kilos-de-cocaine-saisis-trois-individus-mis-en-examen_AN-202407190538.html
+    publisher: BFMTV
+    date: 2024-07-19
+    language: fr
 open_questions:
   - The cannabis total of 47 kg sums the separately stated 27 kg and 20 kg seizures reported by the Gendarmerie; cocaine seizures of nearly 800 kg and a 900-gram brick are excluded from cannabis figures.
   - The at-least-15-tonnes estimate covers mainly cocaine and to a lesser extent cannabis and cannot be separated, so it is excluded from cannabis figures.
@@ -55,6 +65,12 @@ open_questions:
   - The incident date uses the end of the 30 May-2 June 2025 arrest operation; 14 June 2025 is the Gendarmerie article publication date.
   - France-Antilles mentions a separate February 2024 interception of about 300 kg of cocaine and 170 kg of cannabis with four arrests, a different event left out here.
   - 'Left out, as its quotation was not found in Gendinfo, Gendarmerie nationale: Gendarmes of the Pointe-à-Pitre Research Section arrested ten people and disrupted a drug-trafficking network operating in the Caribbean between Dominica, Venezuela and Guadeloupe.'
+media:
+  - kind: photo
+    url: https://la1ere.franceinfo.fr/guadeloupe/basse-terre/capesterre-belle-eau/capesterre-belle-eau-nouvelle-saisie-de-drogue-d-une-valeur-de-25m-trois-hommes-sous-les-verrous-1507121.html
+    media_url: https://la1ere.franceinfo.fr/image/0joxLVXC9g-DeNz_xUfsGyj8Ks4/0x36:1122x668/900x506/filters:format(webp):quality(80)/outremer%2F2024%2F07%2F19%2Fsaisie-669a74fd9a633340759557.jpg
+    publisher: Guadeloupe La 1ère
+    caption: 'The cocaine and cannabis herb seized at Capesterre-Belle-Eau on the night of 14-15 July 2024, laid out after the seizure. Photo: JIRS de Fort-de-France'
 ---
 
 Between 30 May and 2 June 2025, the ten suspects were arrested in Guadeloupe
@@ -71,9 +87,9 @@ Guadeloupe GIGN branch, investigators arrested three people landing on the beach
 and seized nearly 800 kg of cocaine and 27 kg of cannabis herb that had come
 from Dominica. [@1] France-Antilles dates the joint Research Section and GIGN
 operation to the night of 14 to 15 July 2024, when three people were arrested on
-a beach at Capesterre-Belle-Eau. [@2] It identified the three as two
+a beach at Capesterre-Belle-Eau. [@2] Presented at the Fort-de-France tribunal judiciaire on 18 July 2024, the three were placed under formal investigation for organised drug trafficking and criminal association and held in provisional detention. [@3] It identified the three as two
 Guadeloupeans and one Dominican national caught recovering a cargo of 780 kg of
-cocaine and 26 kg of cannabis herb from Dominica. [@2] The May-June 2025
+cocaine and 26 kg of cannabis herb from Dominica. [@2,4] The Fort-de-France interregional specialised jurisdiction said the seized drugs had a market value of more than 25 million euros and that vehicles used by the suspects were also seized. [@3] The May-June 2025
 operation also seized 20 kg of cannabis herb, a 900-gram cocaine brick, a
 category-B handgun, a double-barrel shotgun, ammunition, luxury clothing and
 leather goods, cash, jewellery and six vehicles. [@1] France-Antilles lists the
@@ -91,4 +107,3 @@ travelled to Guadeloupe with prosecutors, an investigating judge and a
 liberty-and-detention judge. [@1] The investigation also found money-laundering
 through fund transfers to Dominica and Venezuela estimated at more than 450,000
 euros. [@1]
-
