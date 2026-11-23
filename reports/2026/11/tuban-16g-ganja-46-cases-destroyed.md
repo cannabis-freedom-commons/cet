@@ -43,6 +43,11 @@ media:
     media_url: https://portaltuban.id/wp-content/uploads/2026/11/1003587263.jpg
     publisher: PORTALTUBAN.id
     caption: 'Officials and seized items laid out in the Kejari Tuban courtyard under a banner for the evidence destruction. Photo: PORTALTUBAN.id'
+  - kind: photo
+    url: https://radartuban.jawapos.com/hukum-kriminal/2611220024/kejari-tuban-musnahkan-9448-pil-double-l-dan-30-gram-sabu
+    media_url: https://cdn-jpr.jawapos.com/images/20/2026/11/22/pemusnahan-barang-bukti-tindak-perkara-narkotika-dan-penyalahgunaan-obat-obatan-di-halaman-kejari-tuban-kamis-2011-andreyanradar-tuban-i5CQh.webp
+    publisher: Radar Tuban
+    caption: 'Evidence from the 46 final cases laid out in the Kejari Tuban courtyard for destruction. Photo: Andreyan/Radar Tuban'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c086a88c8726400e739358f82af23829
@@ -73,27 +78,35 @@ sources:
     publisher: PORTALTUBAN.id
     date: 2026-11-20
     language: id
+  - title: Kejari Tuban Musnahkan 9.448 Pil Double L dan 30 Gram Sabu
+    url: https://radartuban.jawapos.com/hukum-kriminal/2611220024/kejari-tuban-musnahkan-9448-pil-double-l-dan-30-gram-sabu
+    publisher: Radar Tuban
+    date: 2026-11-22
+    language: id
+open_questions:
+    - One account's photo caption dates the destruction to 20 November, while the article text and other reports give Thursday 19 November 2026.
+    - The accounts do not say how many of the nine narcotics cases involved ganja rather than sabu.
 ---
 
 On 19 November 2026 the Tuban district prosecutor's office destroyed evidence
-from 46 general criminal cases whose court judgments had become final. [@2,4,5] The
+from 46 general criminal cases whose court judgments had become final. [@2,4,5,6] The
 destruction took place in the courtyard of the prosecutor's office in Tuban on
 Thursday 19 November 2026. [@1,5] District chief Ujang Sutisna led the exercise,
 witnessed by the regional leadership forum, Tuban police, the district court,
-the Tuban narcotics board and the health office. [@1,4,5] The Tuban police criminal investigation chief, AKP Arya Widjaya, said the destroyed evidence had final legal force and that police supported the step. [@5]
+the Tuban narcotics board and the health office. [@1,4,5] Prison service officials were also among those attending the destruction. [@6] The Tuban police criminal investigation chief, AKP Arya Widjaya, said the destroyed evidence had final legal force and that police supported the step. [@5]
 
 The 46 cases covered April to October 2026 and comprised nine narcotics cases,
-seven health cases, one forestry case and 29 other general crimes. [@1,4] The
+seven health cases, one forestry case and 29 other general crimes. [@1,4,6] The
 narcotics evidence included 30.743 grams of sabu and 16.355 grams of ganja, plus
-9,488 double-L pills and 1,688 pregabalin capsules. [@1,4,5] Only the 16.355 grams
+9,488 double-L pills and 1,688 pregabalin capsules. [@1,4,5,6] Only the 16.355 grams
 of ganja is counted as cannabis here; the sabu, double-L pills and pregabalin
 are excluded. [@1] The office also destroyed 20 mobile phones, saws, sharp
 weapons and other evidence linked to theft, assault, sexual violence and other
-cases. [@1,4,5] Beritajatim specified the other evidence as 20 phones, 11 sharp
+cases. [@1,4,5,6] Beritajatim specified the other evidence as 20 phones, 11 sharp
 weapons and three forestry saws. [@3]
 
 Prosecutors said the destruction carried out final court judgments as part of
 the prosecutor's duty as the prosecuting authority. [@1] Different items were
 crushed with tools, cut, burned or dissolved in water and mixed with a mixer.
-[@1,5] Evidence confiscated for the state instead was auctioned, with the proceeds
-paid into the treasury as state revenue. [@1]
+[@1,5,6] Evidence confiscated for the state instead was auctioned, with the proceeds
+paid into the treasury as state revenue. [@1,6]
