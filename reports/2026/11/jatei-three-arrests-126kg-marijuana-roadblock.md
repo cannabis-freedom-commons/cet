@@ -63,28 +63,32 @@ sources:
     publisher: Fátima News
     date: 2026-11-21
     language: pt
+  - title: Trio é preso com mais de 120 kg de maconha durante bloqueio
+    url: https://www.caaraponews.com.br/noticia/175190/trio-e-preso-com-mais-de-120-kg-de-maconha-durante-bloqueio
+    publisher: Caarapó News
+    date: 2026-11-21
+    language: pt
 ---
 
 Three men were arrested in flagrante on the morning of 20 November 2026 in
 Jateí, in southern Mato Grosso do Sul, after Environmental Military Police
-seized 126.44 kg of marijuana from a white VW Gol. [@1] The roadblock was part
+seized 126.44 kg of marijuana from a white VW Gol. [@1,4] The roadblock was part
 of Operação Bocaiúva and was manned by the 2nd Company of the 2nd Environmental
-Military Police Battalion, based in Naviraí. [@3]
+Military Police Battalion, based in Naviraí. [@3,4]
 
 Officers first stopped a blue VW Santana with Apucarana plates whose driver gave
 contradictory answers about his journey and had no luggage matching the time
-away that he claimed. [@1] Minutes later, at the same roadblock, they stopped
+away that he claimed. [@1,4] Minutes later, at the same roadblock, they stopped
 the white VW Gol with Camboriú plates carrying two men and found 67 tablets and
-seven bales of marijuana. [@2] The load, hidden in the boot, over the back seat
+seven bales of marijuana. [@2,4] The load, hidden in the boot, over the back seat
 and on the floor, was disguised under black plastic sheets and buckets of
-building rubble. [@3]
+building rubble. [@3,4]
 
 The Gol driver said he had loaded the drugs in Paranhos, Mato Grosso do Sul, for
 delivery in Apucarana, Paraná, and that the Santana driver, a childhood friend,
-went ahead to watch for police checkpoints. [@1] Confronted with this, the
+went ahead to watch for police checkpoints. [@1,4] Confronted with this, the
 Santana driver admitted his role in the transport, and the Gol passenger was
-also identified as involved. [@2] The three were arrested in flagrante on
+also identified as involved. [@2,4] The three were arrested in flagrante on
 suspicion of interstate drug trafficking and association for trafficking. [@3]
 After a body examination, they were taken to the Jateí Civil Police station with
-the drugs, the two vehicles and the seized mobile phones. [@1]
-
+the drugs, the two vehicles and the seized mobile phones. [@1,4]
