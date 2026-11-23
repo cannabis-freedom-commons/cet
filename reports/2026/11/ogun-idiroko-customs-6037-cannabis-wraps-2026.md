@@ -53,6 +53,11 @@ sources:
     url: https://dailypost.ng/2026/11/21/ogun-customs-seizes-6037-cannabis-wraps-20500-codeine-bottles/
     publisher: Daily Post Nigeria
     date: 2026-11-21
+  - title: 'Ogun: Customs impounds 5,173 bags of rice, 6,037 wraps of cannabis, others'
+    url: https://tribuneonlineng.com/ogun-customs-impounds-5173-bags-of-rice-6037-wraps-of-cannabis-others/amp/
+    publisher: Tribune Online
+    date: 2026-11-22
+    language: en
 open_questions:
   - The seizures were made during operations across Ogun State in October 2026; 21 November is the date of the news conference and the reports, not of the individual seizures.
   - No weight or plant count for the 6,037 wraps was published, so no kilogram figure can be given.
@@ -65,23 +70,22 @@ open_questions:
 
 Nigeria Customs Service officers at the Ogun 1 Area Command in Idiroko seized
 6,037 wraps of cannabis sativa during anti-smuggling operations across Ogun
-State in October 2026. [@1] Acting Area Comptroller Abdulhamid Ahmed announced
+State in October 2026. [@1,5] Acting Area Comptroller Abdulhamid Ahmed announced
 the seizures at a news conference in Idiroko on Saturday 21 November 2026. [@3]
 The command said the seizures came from coordinated, intelligence-driven
 operations at identified smuggling flashpoints across the state. [@1]
 
 The command's statement was issued on Saturday by its Public Relations Officer,
-Assistant Superintendent of Customs Paul Gimba. [@4] It valued the 6,037
+Assistant Superintendent of Customs Paul Gimba. [@4,5] It valued the 6,037
 cannabis wraps at N1.268 billion. [@4] Ahmed put the total duty-paid value of
-all seized consignments with available valuations at N3.52 billion. [@1] The
+all seized consignments with available valuations at N3.52 billion. [@1,5] The
 goods spanned pharmaceutical products, food items, petroleum products and
-vehicles. [@2] The command listed 20,500 bottles of cough syrup, 828,920 tablets
+vehicles. [@2] Among the other consignments were 125 live cartridges, 2,850 ampoules of Enox 4000 injection, 1,067 used tyres and nine vehicles. [@5] The command also listed 1,037 kegs of 25 litres of petrol, 1,008 kegs of 25 litres of diesel, 185 packages of sanitary pads and diapers and two trucks. [@5] The command listed 20,500 bottles of cough syrup, 828,920 tablets
 and 627,320 capsules among the items. [@3] It also reported 5,173 bags of
-foreign parboiled rice, each weighing 50 kilograms. [@1] Officers recovered two
+foreign parboiled rice, each weighing 50 kilograms. [@1,5] Officers recovered two
 trucks and several vehicles suspected of links to smuggling. [@1]
 
 Some smugglers abandoned their goods and fled into nearby bushes when they saw
 customs patrol teams approaching. [@1] Comptroller-General of Customs Bashir
 Adeniyi urged officers to sustain the campaign and asked border residents to
 share credible intelligence. [@1]
-
