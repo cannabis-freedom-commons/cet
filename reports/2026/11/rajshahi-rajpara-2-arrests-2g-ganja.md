@@ -58,6 +58,11 @@ sources:
     publisher: BanglarAloNews
     date: 2026-11-20
     language: bn
+  - title: রাজশাহী নগরীতে মাদক কারবারী সহ বিভিন্ন অপরাধে গ্রেফতার ৩২
+    url: https://www.ajkerbangladesh.com.bd/crime/2026/11/20/220438
+    publisher: Ajker Bangladesh
+    date: 2026-11-20
+    language: bn
 open_questions:
   - No laboratory confirmation of the ganja or estimate of its value was published.
   - The 2,000 taka was described as cash from drug sales generally and cannot be attributed specifically to the cannabis.
@@ -69,12 +74,12 @@ open_questions:
 
 Rajshahi Metropolitan Police's special team helped Rajpara thana police arrest
 two drug dealers, Mohammad Bishal, 20, and Mohammad Shakib, 21, in an operation
-at Lakshmipur ID Baghanpara on the night of 19 November 2026. [@1,2]
+at Lakshmipur ID Baghanpara on the night of 19 November 2026. [@1,2,3]
 
 From Bishal, officers recovered 2 grams of ganja, the local term for cannabis,
 that police said was kept for sale, along with 32 tapentadol tablets. [@1] They
 also seized 2,000 taka in cash that police described as proceeds of drug sales.
-[@1] From Shakib, officers recovered 12 tapentadol tablets that police said were
+[@1,3] From Shakib, officers recovered 12 tapentadol tablets that police said were
 kept for sale. [@1]
 
 Police said Bishal already had one drug case at Rajpara thana, while Shakib had

@@ -68,13 +68,24 @@ sources:
     publisher: Padmatimes24
     date: 2026-11-20
     language: bn
+  - title: রাজশাহী নগরীতে মাদক কারবারী সহ বিভিন্ন অপরাধে গ্রেফতার ৩২
+    url: https://www.ajkerbangladesh.com.bd/crime/2026/11/20/220438
+    publisher: Ajker Bangladesh
+    date: 2026-11-20
+    language: bn
+open_questions:
+    - A citywide roundup of the same raids gives 105 tapentadol tablets for the four thanas, while the individual seizures described in the police statement add up to 107.
+    - No estimate of the value of the 355 grams of ganja was published.
+    - The roundup describes the raids as taking place in the 24 hours before 20 November, while the police statement dates the Boalia thana arrest to the night of 18 November.
+    - No plea, trial date or verdict beyond the initial jail remand was reported.
+    - The account rests on the Rajshahi Metropolitan Police statement as reproduced by several outlets, not on independent reporting.
 ---
 
 Rajshahi Metropolitan Police arrested seven people, including a woman, in
-separate anti-drug operations, the force said in its own statement. [@2,3]
+separate anti-drug operations, the force said in its own statement. [@2,3,5]
 Shahmakhdum, Chandrima and Rajpara thana police carried out the operations on
 Thursday 19 November 2026, and Boalia thana police on the night before,
-according to a statement issued from RMP headquarters on 20 November. [@1]
+according to a statement issued from RMP headquarters on 20 November. [@1] Police described the four thana raids as part of a 24-hour citywide sweep in which 22 people were arrested in all. [@5]
 Rajpara thana police arrested four men at Dingadoba Mozammel's Mor at about 6:45
 pm on 19 November. [@1] Officers seized 355 grams of ganja, two yaba tablets and
 two tapentadol tablets from the four. [@1,3,4] Police described one of the four,
@@ -90,4 +101,4 @@ Shiroil at about 11:30 pm on 18 November and seized three yaba tablets from him.
 [@1,4]
 
 Separate cases were filed under the Narcotics Control Act at the relevant thanas
-and all seven were sent to jail through the courts. [@1,3,4]
+and all seven were sent to jail through the courts. [@1,3,4,5]
