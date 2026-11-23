@@ -56,12 +56,18 @@ sources:
     publisher: Mantavya News
     date: 2026-11-21
     language: gu
+  - title: ‘શેઠની શીખામણ ઝાંપા સુધી’ અમદાવાદ SOGની સર્વિસના થોડા જ દિવસમાં ચરસ સાથે શખ્સ ઝડપાયો
+    url: https://www.navajivan.in/ahmedabad-sog-arrests-man-with-charas-mephedrone-relief-road/
+    publisher: Navjivan
+    date: 2026-11-21
+    language: gu
 open_questions:
-  - No separate date is given for the arrest itself; 21 November 2026 is the publication date of the English account and the Mantavya account and is used as the incident date.
-  - The English account values the mephedrone at ₹12,900, while both Gujarati accounts round it to ₹13,000; the ₹680 value for the charas is consistent across all three.
-  - The English page's AI-written summary gives the drug value as ₹13,580, whereas the body and both Gujarati accounts give ₹33,580 as the total value of all property seized, including two mobile phones.
-  - No case number, charge, remand or court outcome was reported; the case remained under investigation.
-  - No account says whether the two alleged suppliers were detained or charged.
+    - No separate date is given for the arrest itself; 21 November 2026 is the publication date of the English account and the Mantavya account and is used as the incident date.
+    - The English account values the mephedrone at ₹12,900, while both Gujarati accounts round it to ₹13,000; the ₹680 value for the charas is consistent across all three.
+    - The English page's AI-written summary gives the drug value as ₹13,580, whereas the body and both Gujarati accounts give ₹33,580 as the total value of all property seized, including two mobile phones.
+    - Navjivan puts the combined value of the charas and mephedrone at ₹18,680, which matches neither of those totals.
+    - No case number, charge, remand or court outcome was reported; the case remained under investigation.
+    - No account says whether the two alleged suppliers were detained or charged.
 ---
 
 Officers of the Ahmedabad Special Operations Group (SOG) Crime Branch arrested a
@@ -70,12 +76,12 @@ selling drugs. [@1] The accused was identified as Nasirkhan Khalilkhan Pathan, a
 resident of Dariapur. [@1] The arrested man was Nasirkhan Pathan and two
 suppliers in Karanj and Fatewadi were being sought. [@3] Police had received
 information that Pathan was selling drugs near Murtimant Complex, opposite
-Ratanpol, and kept watch before stopping him. [@1] A search of his shirt pocket
+Ratanpol, and kept watch before stopping him. [@1,4] The tip-off reached SOG police inspector C. B. Chauhan and police sub-inspector J. B. Desai, who carried out the operation. [@4] A search of his shirt pocket
 produced four transparent zip-lock bags. [@1] Three bags contained mephedrone
 and one contained charas; two Android mobile phones were also seized from his
 trousers. [@1]
 
-Police seized 2.720 grams of charas alongside 4.300 grams of mephedrone. [@1]
+Police seized 2.720 grams of charas alongside 4.300 grams of mephedrone. [@1,4]
 Police put the charas value at ₹680. [@1] Officers recovered 4.30 grams of
 mephedrone and 2.720 grams of charas in the Relief Road arrest. [@2] The Gujarat
 accounts put the charas at ₹680 and the total property seized at ₹33,580. [@2] A
@@ -87,4 +93,3 @@ Police said he had brought the drugs to sell them in small quantities in the
 city. [@1] During questioning he allegedly said he had bought the drugs from
 Ibrahim Papa of Karanj and Mohammad of Fatewadi. [@1] Both suppliers were named
 as wanted accused as police traced the supply network. [@1]
-
