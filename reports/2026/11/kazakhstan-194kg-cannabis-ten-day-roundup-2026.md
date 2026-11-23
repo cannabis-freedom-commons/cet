@@ -58,15 +58,11 @@ sources:
     publisher: Almaty.tv
     date: 2026-11-22
     language: ru
-open_questions:
-    - The ministry did not break down how many of the 35 arrests, 56 offences or the more than 200 kg total involved cannabis rather than other drugs.
-    - No individual cannabis seizure, place or date within 1-10 November is given for the 190 kg of marijuana and 4 kg of hashish.
-    - The 194 kg cannabis total is the sum of the separately stated 190 kg of marijuana and 4 kg of hashish; no combined cannabis total was published.
-    - No cannabis plant count or area destroyed was reported for the period.
-    - The person held over cultivating drug-containing plants is not specified to have been growing cannabis.
-    - No charges, court dates or outcomes were reported for the 35 detainees.
-    - No monetary value was published for the cannabis.
-    - All the accounts reproduce the same Interior Ministry statement and are not independent reporting.
+  - title: Полицейские Казахстана изъяли свыше 200 кг наркотиков за десять дней ноября
+    url: https://ustinka.kz/kazakhstan/128765.html
+    publisher: Устинка Live
+    date: 2026-11-22
+    language: ru
 media:
   - kind: photo
     url: https://almaty.tv/ru/news/zakon-i-poryadok/v-kazakhstane-za-10-dnej-iz-ato-bolee-200-kg-narkotikov
@@ -76,17 +72,17 @@ media:
 ---
 
 Kazakhstan's Interior Ministry said police detained 35 drug suspects across the
-country in the ten days from 1 to 10 November. [@3,4] Nineteen were suspected of
-selling drugs and eight of smuggling. [@1,4] Three were held over storing drugs on
-an especially large scale. [@2,4] Three of the suspects were also held over illegal circulation of poisonous substances and one over promoting and advertising drugs. [@4] One of the 35 was held over cultivating
-drug-containing plants. [@2,4] Officers recorded 56 drug offences in the period,
-35 of them classified as crimes. [@3,4]
+country in the ten days from 1 to 10 November. [@3,4,5] Nineteen were suspected of
+selling drugs and eight of smuggling. [@1,4,5] Three were held over storing drugs on
+an especially large scale. [@2,4,5] Three of the suspects were also held over illegal circulation of poisonous substances and one over promoting and advertising drugs. [@4] One of the 35 was held over cultivating
+drug-containing plants. [@2,4,5] Officers recorded 56 drug offences in the period,
+35 of them classified as crimes. [@3,4,5]
 
 The figures cover Kazakhstan as a whole. [@3] Officers seized more than 200 kg
-of drugs in total. [@1,4] Of that, 190 kg was marijuana and 4 kg hashish. [@1,4]
-About 13 kg was synthetic drugs. [@1,4] Cannabis accounted for 194 kg of the more
+of drugs in total. [@1,4] Of that, 190 kg was marijuana and 4 kg hashish. [@1,4,5]
+About 13 kg was synthetic drugs. [@1,4,5] Cannabis accounted for 194 kg of the more
 than 200 kg seized. [@1] The ministry estimated the total at almost half a
-million single doses. [@2,4]
+million single doses. [@2,4,5]
 
 The ministry presented the results as part of its continuing anti-drug work.
 [@2,4] The announcement also described arrests in Almaty, Shymkent and Pavlodar
