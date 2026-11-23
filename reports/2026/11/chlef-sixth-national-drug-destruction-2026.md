@@ -45,6 +45,11 @@ sources:
     publisher: البلاد
     date: 2026-11-12
     language: ar
+  - title: المخدّرات.. حرب إرهاب ثانية
+    url: https://www.echoroukonline.com/%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D9%91%D8%B1%D8%A7%D8%AA-%D8%AD%D8%B1%D8%A8-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D8%AB%D8%A7%D9%86%D9%8A%D8%A9/amp
+    publisher: الشروق أونلاين
+    date: 2026-11-21
+    language: ar
 open_questions:
   - The reports give no breakdown of the destroyed kif by seizure, origin or date; the stocks were accumulated from separate earlier operations.
   - The cocaine, heroin, hallucinogenic tablets and psychotropic powder are other substances and are excluded from the cannabis figure.
@@ -64,11 +69,11 @@ Chlef court. [@2] Judicial-police services weighed and inventoried the stocks
 held at collection centres and escorted them to the factory designated for
 burning and destruction. [@2]
 
-The burn destroyed 9 tonnes, 802 kilograms and 861 grams of treated kif. [@2]
+The burn destroyed 9 tonnes, 802 kilograms and 861 grams of treated kif. [@2,3]
 Treated kif is processed cannabis resin, described as Indian hemp or kif
 hashish. [@1] The same operation also destroyed 1 tonne, 135 kilograms and 712
-grams of hard drugs in the form of cocaine and heroin. [@2] It also covered more
-than 33.5 million hallucinogenic tablets. [@1] It also covered 27 kilograms and
+grams of hard drugs in the form of cocaine and heroin. [@2,3] It also covered more
+than 33.5 million hallucinogenic tablets. [@1,3] It also covered 27 kilograms and
 579 grams of psychotropic powder. [@2] The authorities valued all of the
 destroyed consignments together at 52,979,400,320 Algerian dinars. [@2]
 
@@ -80,4 +85,3 @@ psychotropics. [@2] At a related forum on drug use, National Gendarmerie
 commander Maj. Gen. Ali Seydan described drug flows as a cross-border strategic
 security challenge linked to organised crime, public health, road safety and
 economic and social security. [@1]
-
