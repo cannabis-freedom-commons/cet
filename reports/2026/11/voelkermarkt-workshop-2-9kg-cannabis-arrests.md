@@ -62,34 +62,31 @@ sources:
     publisher: 5min.at
     date: 2026-11-21
     language: de
-open_questions:
-  - Police gave only an approximate weight of about 2.9 kg for the cannabis herb.
-  - No weight was reported for the package the workshop employee saw in the car, which was gone when the car returned.
-  - Whether the 26-year-old man has been formally charged is not stated; police announced a report filed while he remained at liberty.
-  - No value estimate for the seized cannabis was published.
-  - The statement does not say which offence under the Suchtmittelgesetz is alleged, whether possession, trafficking or another.
-  - All accounts trace to the Carinthia police statement of 21 November 2026 and are not independent reporting.
+  - title: Mechaniker entdeckte Cannabispackerl in Kunden-Pkw
+    url: https://www.noen.at/niederoesterreich/oesterreich-und-welt/drogen-mechaniker-entdeckte-cannabispackerl-in-kunden-pkw-a8563361
+    publisher: NÖN
+    date: 2026-11-22
+    language: de
 ---
 
 A workshop employee in Völkermarkt noticed a larger package of cannabis herb in
-the boot of a car that was in the workshop for inspection. [@4] He reported the
-find to police at about 10:20 on 20 November 2026. [@1] By the time officers
+the boot of a car that was in the workshop for inspection. [@4,5] He reported the
+find to police at about 10:20 on 20 November 2026. [@1,5] By the time officers
 reached the workshop the car had been driven away, and an initial search was
 unsuccessful. [@2] Police got the driver to come back by saying that a tool had
 been left in the car. [@3] Officers stopped and provisionally arrested the two
 occupants, a 26-year-old man from Klagenfurt and a 25-year-old woman from the
-Völkermarkt district. [@3]
+Völkermarkt district. [@3,5]
 
 The package seen earlier was no longer in the car when it returned. [@3] The
 woman said she knew nothing about the cannabis, while the man initially refused
 to cooperate. [@3] The Klagenfurt public prosecutor's office ordered a
 court-approved search of the man's home. [@3] During the search investigators
 seized items typical of the drug scene and about 2.9 kg of cannabis herb found
-in a second vehicle. [@3]
+in a second vehicle. [@3,5]
 
 The woman was released from custody after suspicion against her was not
 substantiated. [@3] The man cooperated during the search, and police filed a
 report on him while he remained at liberty rather than holding him in custody.
-[@3] Police announced the case as a report under the Suchtmittelgesetz, the
+[@3,5] Police announced the case as a report under the Suchtmittelgesetz, the
 national narcotics law. [@3]
-
