@@ -1,46 +1,51 @@
 ---
 code: TE479Y
 added_at: "2026-11-21T08:02:05.902872Z"
-date: 2026-06-30
+date: 2026-07-15
 country: sv
 place: Calle 15 de Septiembre, San Jacinto, San Salvador
 coordinates: [13.6879, -89.1901]
 precision: locality
-type: arrest
-also: [seizure]
-title: Man, 21, held with 2 kg of marijuana on a motorcycle in San Salvador
-summary: >-
-  El Salvador's National Civil Police arrested 21-year-old Andy Steven López Ortiz in the San Jacinto area of San Salvador and said he was carrying two kilograms of marijuana on a motorcycle. Officers also seized 210 dollars in cash, a mobile phone and the motorcycle, and the PNC said he would be handed to the courts for illicit drug trafficking.
+type: prosecution
+also: [seizure, arrest]
+title: Court orders provisional detention for motorcyclist with 872 g of marijuana
+summary: A San Salvador court ordered formal instruction with provisional detention for a 21-year-old man accused of illicit drug trafficking after police stopped him on a motorcycle in Barrio San Jacinto on 29 June 2026. A controlled-substance analysis put the marijuana at 872.1 grams net, valued at $3,078, and officers also seized $210 in cash and a phone.
 figures:
-  arrested: 1
-  vehicles: 1
-  kg_seized: 2
-  cash:
-    amount: 210
-    currency: USD
+    arrested: 1
+    vehicles: 1
+    kg_seized: 0.8721
+    cash:
+        amount: 210
+        currency: USD
+    charged: 1
+    value:
+        amount: 3078
+        currency: USD
 details:
-  agencies: [Policía Nacional Civil (PNC)]
-  agency_types: [police]
-  products:
-    - {product: flower, kg: 2}
-  activity: [trafficking]
-  setting: [street]
-  charges: [tráfico ilícito de drogas]
-  case_stage: investigation
-  date_precision: publication
-  region: San Salvador
+    agencies: [Policía Nacional Civil (PNC), Juzgado Segundo de Paz de San Salvador]
+    agency_types: [police, court]
+    products:
+        - {product: flower, kg: 0.8721}
+    activity: [trafficking]
+    setting: [street]
+    charges: [tráfico ilícito]
+    case_stage: charged
+    date_precision: publication
+    region: San Salvador
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [3]
-  details.charges: [1]
-  details.products: [2]
-  details.setting: [1]
-  figures.arrested: [2]
-  figures.cash: [1]
-  figures.kg_seized: [1]
-  figures.vehicles: [1]
+    details.activity: [4]
+    details.agencies: [4]
+    details.agency_types: [4]
+    details.case_stage: [4]
+    details.charges: [4]
+    details.products: [4]
+    details.setting: [4]
+    figures.arrested: [4]
+    figures.cash: [4]
+    figures.kg_seized: [4]
+    figures.vehicles: [4]
+    figures.charged: [4]
+    figures.value: [4]
 media:
   - kind: photo
     url: https://www.infobae.com/el-salvador/2026/06/30/policia-salvadorena-intercepto-un-sujeto-con-dos-kilos-de-marihuana-en-san-salvador/
@@ -67,22 +72,28 @@ sources:
     publisher: Radio Cadena YSKL
     date: 2026-06-30
     language: es
+  - title: Motociclista seguirá detenido provisionalmente acusado de traficar marihuana
+    url: https://diariolahuella.com/motociclista-seguira-detenido-provisionalmente-acusado-de-traficar-marihuana/
+    publisher: Diario La Huella
+    date: 2026-07-15
+    language: es
 open_questions:
-  - No date is given for the arrest; 30 June 2026 is the publication date of all three accounts and stands in for the incident date.
-  - No plea, measure of restraint, formal charge or court outcome had been reported.
-  - No street value for the two kilograms of marijuana was published.
-  - The three accounts reproduce the PNC's statement and are not independent reporting.
+    - No separate date is given for the initial hearing; 15 July 2026 is the publication date of the court account.
+    - The PNC's initial account put the marijuana at two kilograms, while the court's analysis gives a net weight of 872.1 grams; the report uses the court figure.
+    - The court account names the accused Andy Styveen L. O., while the police account gave Andy Steven López Ortiz; the sources do not reconcile the spelling.
+    - No plea or trial outcome has been reported; the case was sent to formal instruction with provisional detention.
+    - The police accounts reproduce the PNC statement and are not independent; the court account adds the analysis and hearing.
 ---
 
 El Salvador's National Civil Police (PNC) arrested Andy Steven López Ortiz, 21,
 in the San Jacinto area of San Salvador and accused him of transporting
 marijuana. [@1] Officers stopped him on calle 15 de Septiembre, the force said.
-[@1] The PNC said he was carrying two large packages of marijuana on a
+[@1,4] The arrest took place on 29 June 2026. [@4] The PNC said he was carrying two large packages of marijuana on a
 motorcycle. [@1] Officers seized two kilograms of marijuana, 210 dollars in
 cash, a mobile phone and the motorcycle he was riding. [@1]
 
 He was to be handed to the judicial authorities on a charge of illicit drug
-trafficking, tráfico ilícito de drogas. [@1] Under Salvadoran law that offence
+trafficking, tráfico ilícito de drogas. [@1,4] The judge found sufficient indicia for the case to continue to the instruction stage with provisional detention. [@4] A controlled-substance analysis found the material was marijuana with a net weight of 872.1 grams and an economic value of $3,078. [@4] The Juzgado Segundo de Paz de San Salvador ordered formal instruction with provisional detention for the 21-year-old, charged with illicit drug trafficking. [@4] Under Salvadoran law that offence
 carries 10 to 15 years in prison for people convicted of selling, transporting
 or distributing prohibited substances. [@1] The motorcycle, the money and the
 phone stayed in police custody while investigators looked for possible links to
@@ -94,4 +105,3 @@ Salvadoran territory. [@1]
 Diario1 reported the arrest in the San Jacinto sector of San Salvador Centro and
 listed the same seizures. [@2] Radio Cadena YSKL reported that he would be
 handed over for illicit drug trafficking while inquiries continued. [@3]
-
