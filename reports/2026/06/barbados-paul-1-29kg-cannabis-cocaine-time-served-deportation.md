@@ -65,8 +65,7 @@ his interview, Paul admitted the drugs were his and said his purpose was to
 deliver them to a friend in Trinidad named "Snoopy." [@1]
 
 Weighing his guilty plea, the mitigating factors and the more than five years he
-spent on remand at HMP Dodds, the judge imposed a sentence of time served. [@1]
+spent on remand at HMP Dodds, the judge imposed a sentence of time served. [@1] A two-year deduction was made from the starting point for each offence for Paul's guilty plea, his cooperation with police and the delay in the case reaching trial, before the one-third discount and credit for time on remand were applied. [@1]
 Paul had already spent 1,911 days in custody for these offences, and the judge
 ordered his release to the custody of the Immigration Department for
-deportation. [@1]
-
+deportation. [@1] Citing the 2009 appeal Keith Harold-Mills v The Queen (Criminal Appeal No. 2A of 2009), Justice Beckles said foreign prisoners often lack family support and may face discrimination or language barriers, but that stiff penalties for drug trafficking were still needed to deter the offences. [@1]
