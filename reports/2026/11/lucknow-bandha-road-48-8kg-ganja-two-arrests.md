@@ -116,20 +116,22 @@ sources:
     publisher: The Times of India
     date: 2026-11-20
     language: en
-open_questions:
-  - 'Estimates of the seized ganja''s value differ between accounts: about 25 lakh rupees in the Bhaskar Digital report and Rs 35 lakh in the Times of India, so no value is recorded.'
-  - No charge sheet, plea or court outcome has been reported; the case remained at the investigation stage.
+  - title: ओडिशा से गांजा लाकर लखनऊ में खपा रहे थे तस्कर, 25 लाख का माल बरामद
+    url: https://www.tarunmitra.in/state/uttar-pradesh/smugglers-were-bringing-ganja-from-odisha-and-consuming-it-in/article-172941
+    publisher: Tarun Mitra
+    date: 2026-11-20
+    language: hi
 ---
 
 Police arrested two men on 19 November 2026 near the municipal corporation
 office on Bandha Road. [@3,7] Police said they acted on a tip-off that two men who had brought ganja from Odisha were waiting in a red car near the municipal corporation office on Bandha Road. [@8,9] The arrests were made by the Crime Branch of Lucknow
-Police. [@2,6,7,9,10] The operation was directed by the Aliganj ACP and the Aliganj station house officer, with the Lucknow crime branch in-charge and the Hazratganj station house officer also involved. [@5] Officers seized 48.80 kg of ganja from the men. [@1,6,7,8,9,10]
+Police. [@2,6,7,9,10,11] The operation was directed by the Aliganj ACP and the Aliganj station house officer, with the Lucknow crime branch in-charge and the Hazratganj station house officer also involved. [@5] Officers seized 48.80 kg of ganja from the men. [@1,6,7,8,9,10,11]
 
-The cannabis was packed in 43 packets. [@1,6,7,8,9,10] The two men were aged 49 and 45,
-police said. [@2,7,8,9] Police identified the two as Prakash Dubey, a Prayagraj resident, and Jay Anand Mishra, who lives in the Awadh Vihar Yojana in Lucknow. [@6,7,9] Police said the men brought ganja from Odisha for supply in
-Lucknow and adjoining districts. [@2,6,7,8,9,10] Officers also found two mobile phones and
+The cannabis was packed in 43 packets. [@1,6,7,8,9,10,11] The two men were aged 49 and 45,
+police said. [@2,7,8,9] Police identified the two as Prakash Dubey, a Prayagraj resident, and Jay Anand Mishra, who lives in the Awadh Vihar Yojana in Lucknow. [@6,7,9,11] Police said the men brought ganja from Odisha for supply in
+Lucknow and adjoining districts. [@2,6,7,8,9,10,11] Officers also found two mobile phones and
 540 rupees in cash. [@3,7,8,9] Police seized the red car used to transport the
-consignment. [@2,7,8,9,10] The car they were using carried a Jharkhand registration number. [@6] The car's registration number was JH01CC9687. [@8,9] Police recovered the ganja from a Brezza car and took the vehicle into custody. [@4]
+consignment. [@2,7,8,9,10] The car they were using carried a Jharkhand registration number. [@6,11] The car's registration number was JH01CC9687. [@8,9] Police recovered the ganja from a Brezza car and took the vehicle into custody. [@4]
 
 An FIR was registered at Aliganj police station under Case No. 227/2026,
 invoking Sections 8 and 20 of the NDPS Act. [@2,7,8,9,10] The arrests are part of
