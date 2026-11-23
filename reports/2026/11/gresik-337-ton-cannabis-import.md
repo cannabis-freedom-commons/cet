@@ -199,6 +199,10 @@ sources:
     publisher: Pemerintah Kabupaten Gresik
     date: '2026-07-02'
     language: id
+  - title: Indonesia seizes 3.37 tonnes of cannabis buds intended for vapes
+    url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/02/indonesia-seizes-337-tonnes-of-cannabis-buds-intended-for-vapes
+    publisher: The Star
+    date: 2026-07-02
 media:
   - kind: photo
     url: https://bnn.go.id/bnn-ri-gagalkan-penyelundupan-337-ton-kuncup-bunga-cannabinoid-berkedok-impor-barang/
@@ -216,16 +220,21 @@ media:
     media_url: https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/pusat-pemberitaan/thumbs/xl_1783021659389324_a0171aafa6_berita_pusat-pemberitaan.webp
     publisher: RRI (BNN)
     caption: 'Officials display seized packages during the Gresik press conference. Photo: BNN.'
+  - kind: photo
+    url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/02/indonesia-seizes-337-tonnes-of-cannabis-buds-intended-for-vapes
+    media_url: https://apicms.thestar.com.my/uploads/images/2026/07/02/thumbs/700/3989251.webp
+    publisher: The Star
+    caption: 'Packages of seized cannabis buds displayed at a press conference in Gresik, East Java, on 2 July 2026, with Customs officers and the National Narcotics Agency. Photo: AFP'
 ---
 
-Indonesia's BNN seized about 3.37 tonnes of cannabis buds in Gresik in July 2026, in a case subsequently sent to court. [@1,2,3,4,5,6]
+Indonesia's BNN seized about 3.37 tonnes of cannabis buds in Gresik in July 2026, in a case subsequently sent to court. [@1,2,3,4,5,6,12]
 
 ## The seizure
 
 Indonesia's National Narcotics Agency, with Customs and the East Java Regional Police,
 dismantled an international network smuggling cannabis buds from Thailand and seized
 3.37 tonnes in simultaneous enforcement across Jakarta, Banten, West Java and East
-Java. [@3,4] The case was announced at the Prambanan Bizland warehouse complex in
+Java. [@3,4,12] The case was announced at the Prambanan Bizland warehouse complex in
 Gresik on 2 July 2026, after operations that began with intelligence on a container
 shipment from Tanjung Priok port bound for a Gresik warehouse. [@3,4]
 
@@ -233,7 +242,7 @@ The Gresik regency government dated the joint operation to 29 June through 1 Jul
 and in 80 cartons among cargo labelled as latex products, amounting to 3,371,400 grams gross. [@3,4,5,6,11] Agency head Suyudi Ariyo Seto said it was Indonesia's first seizure of cannabis
 buds smuggled through official international trade channels using containers, and that
 investigation had run through customs document analysis, network mapping and
-surveillance. [@3,4] Twelve people suspected of involvement in the importation were
+surveillance. [@3,4] Officers found the buds hidden inside 500 suitcases and among cargo labelled as latex products in four containers. [@3] Twelve people suspected of involvement in the importation were
 arrested. [@3,4,10]
 
 BNN said the buds were intended to be processed into tetrahydrocannabinol extract as raw material for
