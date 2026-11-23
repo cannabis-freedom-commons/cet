@@ -83,16 +83,39 @@ sources:
     publisher: Fuego 24
     date: 2026-11-20
     language: es
+  - title: 'Allanamientos en Senillosa: cuatro detenidos y un arma secuestrada'
+    url: https://www.minutoneuquen.com/neuquen/2026/11/20/allanamientos-en-senillosa-cuatro-detenidos-y-un-arma-secuestrada-414348.html
+    publisher: Minuto Neuquén
+    date: 2026-11-20
+    language: es
 media:
   - kind: photo
     url: https://fuego24.com/provinciales/detuvieron-a-cuatro-personas-y-secuestraron-drogas-tras-multiples-allanamientos-en-senillosa/
     media_url: https://fuego24.com/wp-content/uploads/2026/11/md-VvuiP2-768x511.webp
     publisher: Fuego 24
     caption: 'Police officers lead a handcuffed detainee past police vehicles during the Senillosa raids. Photo: Fuego 24'
+  - kind: photo
+    url: https://www.minutoneuquen.com/neuquen/2026/11/20/allanamientos-en-senillosa-cuatro-detenidos-y-un-arma-secuestrada-414348.html
+    media_url: https://img.minutoneuquen.com/ZPETtlE8uwsRob5TSrxgxiJjq4-N6c_9EVf_j-ulGN8/rs:fill:1024:576:0/g:fp:0.5:0.5/q:65/aHR0cHM6Ly9hc3NldHMubWludXRvbmV1cXVlbi5jb20vaW1nLzE3OTUyMDU0NzE4NzgtNnM5ZWM5LndlYnA
+    publisher: Minuto Neuquén
+    caption: 'Cocaine, marijuana and precision scales seized in the Senillosa raids, laid out for police photographs. Photo: Policía del Neuquén'
+  - kind: photo
+    url: https://www.minutoneuquen.com/neuquen/2026/11/20/allanamientos-en-senillosa-cuatro-detenidos-y-un-arma-secuestrada-414348.html
+    media_url: https://img.minutoneuquen.com/QxLIheNu8AaiOhyLma0h6UPQY2fzvciLTJqtCbOcIRk/rs:fill:1024:576:0/g:fp:0.5:0.5/q:65/aHR0cHM6Ly9hc3NldHMubWludXRvbmV1cXVlbi5jb20vaW1nLzE3OTUyMDU0NzU3MDUtdmdkMHJxLndlYnA
+    publisher: Minuto Neuquén
+    caption: 'The deployment of 44 officers from the Antinarcóticos Department and the Cutral Co and Comarca Petrolera divisions during the Senillosa raids. Photo: Policía del Neuquén'
+open_questions:
+    - No separate calendar date was published for the raids; the accounts, published on 20 November 2026, say only that they took place on the Wednesday, taken here as 18 November.
+    - It is not reported whether the 11 cannabis plants were seized as evidence or destroyed.
+    - No laboratory confirmation that the seized substances were marijuana and cocaine hydrochloride was reported.
+    - No estimate was published for the value of the 23.4 grams of marijuana, the 11 plants or the 298.7 grams of cocaine.
+    - No plea or court outcome has been reported; the six imputed await the result of the four-month investigation.
+    - The reports do not say what happened to the two imputed people who were not detained.
+    - No statement from the defence or from any of the accused was reported.
 ---
 
 Four people were arrested and two others were named as suspects in an
-investigation into drug sales in Senillosa. [@1,6] The raids were carried out on
+investigation into drug sales in Senillosa. [@1,6,7] The raids were carried out on
 Wednesday 18 November 2026. [@1] Six people in all were imputed, four of them
 detained, and two homes were ordered closed. [@1] Prosecutors charged four
 people with selling drugs from homes in the town. [@4] The charge is aggravated
@@ -102,11 +125,11 @@ addresses with electronic monitoring. [@3] The judge granted the requests and
 closed two properties, on Fulverto Alvial and Laprida streets, for four months.
 [@3]
 
-Officers seized 23.4 grams of marijuana and 11 cannabis plants. [@1,6] The same
+Officers seized 23.4 grams of marijuana and 11 cannabis plants. [@1,6,7] The same
 raids seized 298.7 grams of cocaine hydrochloride, which is not counted in the
 cannabis figures. [@1] Officers also seized 799,300 pesos in cash, eight mobile
-phones, a card terminal, a car and five motorcycles. [@1,6] Police found four
-precision scales, a homemade firearm and 26 cartridges. [@1,6]
+phones, a card terminal, a car and five motorcycles. [@1,6,7] Police found four
+precision scales, a homemade firearm and 26 cartridges. [@1,6,7]
 
 The sales points identified by investigators were on Laprida, Corrientes and
 Federico Cartés streets. [@3] The four were accused of selling from their homes
@@ -117,6 +140,6 @@ was used to store drugs, money and vehicles, according to the investigation.
 prosecutor's QR code and the Neuquén Te Cuida app. [@3] The prosecution's case
 covers conduct from 20 May to 18 November 2026. [@3] 44 officers from the
 Antinarcóticos Department and the Cutral Co and Comarca divisions took part.
-[@5,6] The judge gave the prosecution four months to complete the investigation.
+[@5,6,7] Two minibuses from the Security Directorate and the Logistics Department supported the operation. [@7] The judge gave the prosecution four months to complete the investigation.
 [@3] The operation was run by the Dirección Antinarcóticos of the Neuquén police
-after a request from the Unidad Fiscal de Narcocriminalidad. [@1]
+after a request from the Unidad Fiscal de Narcocriminalidad. [@1] The provincial government said the operation answered to governor Rolando Figueroa's security policy of combating micro-trafficking. [@7]
