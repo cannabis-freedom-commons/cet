@@ -93,13 +93,10 @@ sources:
     publisher: Berita RTM
     date: 2026-11-22
     language: ms
-open_questions:
-    - The two arrests took place on different dates, 11 and 15 October 2026; 11 October, the date of the main seizure, is used as the incident date.
-    - No charges, court date or outcome had been reported for either suspect.
-    - The 50.40kg was reported as a gross weight for the 46 parcels; no separate net weight was given.
-    - The suspect is named both Abubakar Njambi and Abubakar Faiza Njambi across the accounts.
-    - The separate arrest of an American basketballer at the same airport a month later, referenced by NDLEA, is a different event and is not covered here.
-    - The AFP account carried by Berita RTM gives the payment promised to Henlo as US$280 while Nigerian reports say 5,000 rand; the sources do not reconcile the two figures.
+  - title: South African golfer arrested in Nigeria over cannabis smuggling
+    url: https://www.thesouthafrican.com/news/south-african-golfer-arrested-in-nigeria-over-cannabis-smuggling/
+    publisher: The South African
+    date: 2026-11-22
 ---
 
 The National Drug Law Enforcement Agency arrested a 25-year-old Kenyan chef,
@@ -114,9 +111,9 @@ board a flight back to Kenya. [@1,5,6,8] NDLEA recovered Njambi's passport detai
 
 A search of two travelling boxes in Henlo's possession recovered 46 parcels of
 Loud, described as a potent cannabis strain, with a total weight of 50.40kg.
-[@1,4,5,6,7] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
+[@1,4,5,6,7,9] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
 had collected two other boxes bearing his tags from the conveyor belt and left.
-[@1,5,6,8] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
+[@1,5,6,8,9] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
 identification of ownership so each courier could deny the boxes if intercepted.
 [@2,5]
 
@@ -130,8 +127,8 @@ Kenya for South Africa on 4 October, met Henlo at the airport there on 11
 October, and after arriving in Lagos collected the boxes bearing his tags. [@1,5] She said a driver then took her to a hotel in the Lekki area of Lagos. [@4]
 Tracking devices had been fitted to the travelling boxes and to Henlo's mobile
 phone, a feature also found in the bags abandoned by an American basketballer a
-month later. [@1,5,6,8] The claim tag for the boxes bearing Njambi's name was
+month later. [@1,5,6,8,9] The claim tag for the boxes bearing Njambi's name was
 recovered from her hand luggage, and both suspects identified each other during
-an identification parade. [@1,5,6] NDLEA chairman Mohamed Buba Marwa said the
+an identification parade. [@1,5,6,9] NDLEA chairman Mohamed Buba Marwa said the
 arrests, coming in the same period as that of an American basketballer, showed
 cartels changing faces but not tactics. [@2,4]
