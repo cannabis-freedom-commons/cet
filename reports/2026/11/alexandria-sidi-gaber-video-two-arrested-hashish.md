@@ -50,6 +50,16 @@ media:
     media_url: https://media.youlyou.com/2026/11/Landscape-1/3070249143280202611220335363536.jpg
     publisher: يوليو
     caption: Picture captioned المتهمين (the defendants) on the Youlyou report of the Alexandria hashish case.
+  - kind: photo
+    url: https://www.mobtada.com/crime/1671985/%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D9%8A%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D8%B4%D8%A7%D8%A8-%D9%8A%D8%AF%D8%AE%D9%86-%D8%B3%D9%8A%D8%AC%D8%A7%D8%B1%D8%A9-%D8%AD%D8%B4%D9%8A%D8%B4
+    media_url: https://www.mobtada.com/resize?src=uploads/images/2026/11/20261122_152926811_0_jUcj9N.jpg&w=750&h=450&zc=0&q=70
+    publisher: مبتدا
+    caption: 'Photo captioned المتهمين (the accused), showing the two men arrested by Alexandria security in the hashish case. Photo: Mobtada'
+  - kind: photo
+    url: https://www.mobtada.com/crime/1671985/%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D9%8A%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D8%B4%D8%A7%D8%A8-%D9%8A%D8%AF%D8%AE%D9%86-%D8%B3%D9%8A%D8%AC%D8%A7%D8%B1%D8%A9-%D8%AD%D8%B4%D9%8A%D8%B4
+    media_url: https://www.mobtada.com/uploads/images/2026/11/20261122_152926847_1_wsf9tx.jpg
+    publisher: مبتدا
+    caption: 'Second photo captioned المتهمين (the accused), published with Mobtada''s report on the two Alexandria arrests. Photo: Mobtada'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: bebaea3b81493bdf2c003a0de68495ae
@@ -85,18 +95,23 @@ sources:
     publisher: يوليو
     date: 2026-11-22
     language: ar
+  - title: أمن الإسكندرية يضبط شخصين بعد تداول فيديو لشاب يدخن سيجارة حشيش | مبتدا
+    url: https://www.mobtada.com/crime/1671985/%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D9%8A%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D8%B4%D8%A7%D8%A8-%D9%8A%D8%AF%D8%AE%D9%86-%D8%B3%D9%8A%D8%AC%D8%A7%D8%B1%D8%A9-%D8%AD%D8%B4%D9%8A%D8%B4
+    publisher: مبتدا
+    date: 2026-11-22
+    language: ar
 ---
 
 Egypt's Interior Ministry said its security services identified and arrested a
 man filmed in a video circulated on social media smoking a cigarette suspected
-of containing a drug in Alexandria. [@1,6] The video had circulated on social
-media before the security services traced and arrested the man shown in it. [@2]
+of containing a drug in Alexandria. [@1,6,7] The video had circulated on social
+media before the security services traced and arrested the man shown in it. [@2,7]
 Officers identified him as a worker at a shop who lives in the Second El-Raml
-police district in Alexandria. [@1,5,6] Questioned, he admitted smoking a cigarette
+police district in Alexandria. [@1,5,6,7] Questioned, he admitted smoking a cigarette
 containing hashish on 19 November while he was in the Sidi Gaber police
-district, and named the man he had obtained the drugs from. [@1,5,6] That man is
+district, and named the man he had obtained the drugs from. [@1,5,6,7] That man is
 unemployed with a criminal record and lives in the same district, and the
-security services arrested him and found a quantity of hashish with him. [@3,6]
+security services arrested him and found a quantity of hashish with him. [@3,6,7]
 
 The seller admitted holding the hashish with intent to sell it, the Akhbar
 El-Yom account of the ministry statement said. [@2,5,6] Veto reported the same
