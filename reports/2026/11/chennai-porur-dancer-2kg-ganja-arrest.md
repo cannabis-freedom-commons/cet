@@ -41,28 +41,31 @@ sources:
     publisher: Daily Thanthi
     date: 2026-11-22
     language: ta
+  - title: கோடம்பாக்கத்தில் கஞ்சா விற்பனை... சினிமா நடனக் கலைஞர் கைது!
+    url: https://m.dailyhunt.in/news/india/tamil/dinamaalai-epaper-dnmlatm/kodambakkathil+kanjcha+virbanai+sinima+nadanak+kalainjar+kaithu-newsid-n734637554
+    publisher: Dinamaalai / Dailyhunt
+    date: 2026-11-22
+    language: ta
 open_questions:
-  - The article gives no date for the vehicle check; 22 November 2026 is its publication date and is used as the incident date.
-  - The article does not say how much ganja was in the car; the 2 kg is what police reported seizing from his house.
-  - No police station or unit is named as handling the case.
-  - No charges, court appearance or detention order is reported; police said only that the investigation continues.
-  - The methamphetamine seized in the same case is not cannabis and is excluded from the cannabis figures.
-  - The newspaper does not say what happened to the 60 liquor bottles after they were seized.
-  - The account rests on a single newspaper report; no second outlet or police statement on the arrest was found.
+    - The reports give no date for the vehicle check; 22 November 2026 is the publication date used as the incident date.
+    - The reports do not say how much ganja was in the car; the 2 kg is what police reported seizing from his house.
+    - No police station or unit is named as handling the case.
+    - No charges, court appearance or detention order is reported; police said only that the investigation continues.
+    - The methamphetamine seized in the same case is not cannabis and is excluded from the cannabis figures.
+    - The newspapers do not say what happened to the 60 liquor bottles after they were seized.
 ---
 
 Police in the Porur area of Chennai arrested a cinema group dancer after finding
-ganja and 60 liquor bottles in the car he was driving. [@1] Officers taking part
+ganja and 60 liquor bottles in the car he was driving. [@1,2] Officers taking part
 in a vehicle check in the Porur area stopped a car that looked suspicious and
-searched it. [@1] Ganja and 60 bottles of liquor were found in the car. [@1] The
-driver was arrested and questioned after the search. [@1] He was identified as
+searched it. [@1,2] Ganja and 60 bottles of liquor were found in the car. [@1,2] The
+driver was arrested and questioned after the search. [@1,2] He was identified as
 Saikiran, 28, of Kodambakkam, who worked as a group dancer in the film industry.
-[@1]
+[@1,2]
 
 Police said he had turned to selling ganja because he did not earn enough money.
-[@1] Investigators found that he had dropped a friend in Bengaluru and bought
+[@1,2] Investigators found that he had dropped a friend in Bengaluru and bought
 the liquor bottles from outside Tamil Nadu on the way back. [@1] Police then
-searched his house. [@1] After the house search police seized 2 kg of ganja, a
-stock of liquor bottles, methamphetamine and the car. [@1] Police said they were
-continuing to investigate the case. [@1]
-
+searched his house. [@1,2] After the house search police seized 2 kg of ganja, a
+stock of liquor bottles, methamphetamine and the car. [@1,2] Police said they were
+continuing to investigate the case. [@1,2] Police said they had registered a case and were investigating the drug distribution chain. [@2]
