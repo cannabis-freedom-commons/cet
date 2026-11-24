@@ -72,33 +72,30 @@ sources:
     publisher: 星島加拿大 星島日報
     date: 2026-11-22
     language: zh
-open_questions:
-  - The release covers two separate cases; the 37.3 kg total splits into about 35 kg in the transit passenger's suitcases and about 2.3 kg in the unclaimed bag, and the HK$8 million is Customs' combined estimate for both.
-  - The drugs are described throughout as suspected cannabis buds, with no laboratory confirmation reported.
-  - The second case's 2.3 kg was found on 10 August 2026 but the suspect was arrested on 21 November 2026; the sources do not explain the delay or where he was in between.
-  - Customs did not say what happened to the abandoned bag after the August discovery, or the route by which the suspect left Hong Kong.
-  - Neither man is named, and no plea, bail decision or outcome of their 23 November court appearance is reported.
-  - The 35 kg, 2.3 kg, HK$7.5 million and HK$500,000 figures are Customs' approximations.
-  - The three news accounts all report the same Customs press briefing and are not independent of one another.
+  - title: 海關機場偵破兩宗行李藏毒案　檢逾37公斤懷疑大麻花
+    url: https://news.rthk.hk/rthk/ch/component/k2/1878795-20261122.htm
+    publisher: RTHK
+    date: 2026-11-22
+    language: zh
 ---
 
 Hong Kong Customs arrested two men in two drug trafficking cases detected at
 Hong Kong International Airport on 20 and 21 November 2026. [@1] In the first
 case, a 46-year-old British national who said he worked as a bodyguard was
 transiting from Bangkok to London when officers found about 35 kilograms of
-suspected cannabis buds in his two checked suitcases. [@1] Customs officers said
+suspected cannabis buds in his two checked suitcases. [@1,5] Customs officers said
 X-ray images of his suitcases showed items of similar shape and unusually even
 density, prompting the search. [@2] In the second case, officers found about 2.3
 kilograms of suspected cannabis buds on 10 August in an unclaimed checked bag
 that had arrived from Bangkok, and on 21 November arrested a 39-year-old
-mainland Chinese man when he flew in from Bangkok via Taipei. [@1]
+mainland Chinese man when he flew in from Bangkok via Taipei. [@1,5]
 
 The two cases together yielded about 37.3 kilograms of suspected cannabis buds,
-which Customs valued at about HK$8 million. [@1] Customs put the first case's 35
+which Customs valued at about HK$8 million. [@1,5] Customs put the first case's 35
 kilograms at about HK$7.5 million. [@2] The 2.3 kilograms found in the unclaimed
 bag were valued at about HK$500,000. [@3] Each of the two men was charged with
 one count of trafficking in a dangerous drug, and both cases were listed for
-West Kowloon Magistrates' Courts on 23 November. [@1]
+West Kowloon Magistrates' Courts on 23 November. [@1,5]
 
 Customs said the first case showed trafficking syndicates using Hong Kong as a
 transit hub to move drugs through transit passengers, and the second showed them
@@ -107,4 +104,3 @@ it was still investigating whether the first man was paid and how the second man
 left Hong Kong after abandoning the bag in August. [@2] Trafficking in a
 dangerous drug carries a maximum fine of HK$5 million and life imprisonment
 under the Dangerous Drugs Ordinance. [@1]
-
