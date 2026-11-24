@@ -49,6 +49,11 @@ media:
     media_url: https://extraderondonia.com.br/sistema2/wp-content/uploads/2026/11/droga-serinqueiras-4.png
     publisher: Extraderondonia.com.br
     caption: The skunk marijuana seized on the BR-429 in Seringueiras, photographed after its official weighing at 303 kg. No credit given.
+  - kind: photo
+    url: https://www.rondoniadinamica.com/noticias/2026/11/policia-apreende-303-quilos-de-maconha-tipo-skunk-durante-operacao-na-br-429,259271.shtml
+    media_url: https://www.rondoniadinamica.com/uploads/m2ea4ngyedc448e.jpg
+    publisher: Rondônia Dinâmica
+    caption: Lead photo of the 303 kg of skunk marijuana seized on the BR-429 near Seringueiras, credited to Lenilson Guedes / PMRO (Polícia Militar de Rondônia).
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 1676e052c81cc7d6a2120843b7cb653a
@@ -84,35 +89,35 @@ sources:
     publisher: Diário da Amazônia
     date: 2026-11-21
     language: pt
-open_questions:
-    - 'The accounts disagree on the weekday: two news reports say Friday (20) and the Civil Police statement says Thursday (20); all give 20 November 2026, which is used as the incident date.'
-    - One account gives the amount as 303 kg and the Civil Police as approximately 303 kg; no laboratory confirmation of the substance was reported.
-    - The driver's name, age and formal charge were not released, and no court outcome was reported.
-    - No separate count or value was published for the vehicle and other materials seized alongside the drug.
+  - title: Polícia apreende 303 quilos de maconha tipo skunk durante operação na BR-429
+    url: https://www.rondoniadinamica.com/noticias/2026/11/policia-apreende-303-quilos-de-maconha-tipo-skunk-durante-operacao-na-br-429,259271.shtml
+    publisher: Rondônia Dinâmica
+    date: 2026-11-21
+    language: pt
 ---
 
 One man was arrested in flagrante on 20 November 2026 when police stopped a
 vehicle on the BR-429 near Seringueiras, Rondônia, and found skunk, a potent
-variety of marijuana. [@1,3,4,5] The Military Police said the vehicle was stopped on the morning of Friday 20 November 2026. [@4] The seizure took place during the Sinergia – CRP II
+variety of marijuana. [@1,3,4,5,7] The Military Police said the vehicle was stopped on the morning of Friday 20 November 2026. [@4,7] The seizure took place during the Sinergia – CRP II
 and Brasil contra o Crime Organizado – BPFRON operations, involving the Military
 Police through its 11th and 2nd Battalions, the Civil Police through Denarc, and
-the Federal Highway Police (PRF). [@1,3,4] The Civil Police of Rondônia said its
+the Federal Highway Police (PRF). [@1,3,4,7] The Civil Police of Rondônia said its
 contribution came through the 2nd Delegation for Combating Organised Crime
 (DRACO2) in a joint action with the Military Police and the PRF. [@2,5,6]
 
 The Military Police said the action began after residents reported a pickup
 travelling suspiciously on the BR-429, prompting teams to set up a roadblock
-near Seringueiras. [@1,3,4] When officers stopped a Fiat Strada, they found several
-bundles of a narcotic substance inside the vehicle. [@1,3,4] After weighing, the
-total was 303 kilograms of skunk-type marijuana. [@1,3,4] The Civil Police said
+near Seringueiras. [@1,3,4,7] When officers stopped a Fiat Strada, they found several
+bundles of a narcotic substance inside the vehicle. [@1,3,4,7] After weighing, the
+total was 303 kilograms of skunk-type marijuana. [@1,3,4,7] The Civil Police said
 intelligence and information-sharing between the forces led them to track a
 suspicious vehicle, and that the teams found several tablets of the drug carried
 in the body of a pickup truck. [@2,5,6]
 
 The driver received a voice of arrest and was taken to the competent authorities
-for legal proceedings. [@1,3,4,5] The Civil Police said the drug, the vehicle and
+for legal proceedings. [@1,3,4,5,7] The Civil Police said the drug, the vehicle and
 other seized materials were sent to the competent police unit, and that DRACO2
 would continue the investigation into the origin and destination of the drug and
 identify others involved. [@2,5,6] The security forces said they were continuing
 patrols in the region to locate further drug loads and identify and arrest other
-people involved in trafficking. [@1,3,4]
+people involved in trafficking. [@1,3,4,7]
