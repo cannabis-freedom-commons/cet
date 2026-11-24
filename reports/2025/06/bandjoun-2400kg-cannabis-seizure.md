@@ -31,12 +31,6 @@ data_sources:
   figures.kg_seized: [1, 3]
 status: verified
 tags: [customs, bandjoun, west-region]
-open_questions:
-  - Only the driver's assistant was present; he escaped on foot and no arrests were reported in the accounts opened.
-  - Cameroon customs later burned the sacks on 7 August 2025; the seizure report covers the June interception only.
-  - The intended destination of the load was not stated.
-  - The article was published on 30 June 2025 and dates the interception only to Saturday, implying 28 June 2025 with no separate time of day given.
-  - The same article mentions a 47 kg cannabis seizure at Ekok as context; that is a separate event already covered elsewhere and is left out here.
 sources:
   - title: Customs officers seize a significant amount of Cannabis in Bandjoun
     url: https://www.lebledparle.com/en/customs-officers-seize-a-significant-amount-of-cannabis-in-bandjoun/
@@ -52,6 +46,11 @@ sources:
     publisher: 237online.com
     date: 2025-06-30
     language: fr
+  - title: 'Région de l’Ouest: Saisie d’une cargaison de 2,4 tonnes de chanvre indien'
+    url: https://actucameroun.com/2025/07/01/region-de-louest-saisie-dune-cargaison-de-24-tonnes-de-chanvre-indien/
+    publisher: Actu Cameroun
+    date: 2025-07-01
+    language: fr
 media:
   - kind: photo
     url: https://www.lebledparle.com/en/customs-officers-seize-a-significant-amount-of-cannabis-in-bandjoun/
@@ -61,10 +60,10 @@ media:
 ---
 
 Cameroon customs intercepted 2,400 kg of cannabis during an early-morning patrol on 28 June 2025
-near the Bandjoun Museum of Arts on the Bafoussam–Bandjoun road. [@1,3] Twenty-four sacks of 100 kg
-each were hidden under planks and fresh produce in a Mercedes 814 truck. [@1,3]
+near the Bandjoun Museum of Arts on the Bafoussam–Bandjoun road. [@1,3,4] Twenty-four sacks of 100 kg
+each were hidden under planks and fresh produce in a Mercedes 814 truck. [@1,3,4]
 
-Only the driver's assistant was in the cab; he ran away when the patrol stopped the vehicle. [@1,3]
+Only the driver's assistant was in the cab; he ran away when the patrol stopped the vehicle. [@1,3,4]
 Officers secured the truck and its cargo while investigations continued to trace those behind the
 shipment. [@1]
 
@@ -73,4 +72,4 @@ in a formal burning ceremony on 7 August 2025. [@2]
 
 ---
 
-The mixed patrol acted on intelligence, according to customs services. [@3]
+The mixed patrol acted on intelligence, according to customs services. [@3,4]
