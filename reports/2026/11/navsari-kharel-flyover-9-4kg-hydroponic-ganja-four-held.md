@@ -85,6 +85,11 @@ sources:
     publisher: GSTV
     date: 2026-11-22
     language: gu
+  - title: गुजरात के नवसारी में चार लोग गिरफ्तार, 3.28 करोड़ रुपये का हाइब्रिड गांजा बरामद
+    url: https://hindi.theprint.in/india/four-people-arrested-in-navsari-gujarat-hybrid-marijuana-worth-rs-3-28-crore-recovered/1062655/
+    publisher: ThePrint Hindi
+    date: 2026-11-22
+    language: hi
 open_questions:
     - The report dates the operation only to 'Sunday', the day before its 23 November 2026 publication; 22 November 2026 is used as the incident date.
     - The reports do not say what charges were filed against the four.
@@ -95,11 +100,11 @@ open_questions:
 ---
 
 Navsari police arrested four people after intercepting two SUVs near the Kharel
-flyover on National Highway 48 on Sunday. [@1,2,6] Officers seized 9.4 kg of
-hydroponic ganja, which police valued at Rs 3.3 crore. [@1,5,6] Police also seized
+flyover on National Highway 48 on Sunday. [@1,2,6,7] Officers seized 9.4 kg of
+hydroponic ganja, which police valued at Rs 3.3 crore. [@1,5,6,7] Police also seized
 seven mobile phones and Rs 33,779 in cash from the four. [@1] The arrested were
 identified as Pramod Pathak, Vishnu Singh, Premchand alias Rahul Yadav and Miket
-Patel. [@1,5,6]
+Patel. [@1,5,6,7]
 
 Police said the group had travelled to Vadodara to sell the consignment and was
 returning with the remaining stock when their vehicles were stopped. [@1,2] In Vadodara the group gave part of the consignment to a man named Jayanti, one of the nine suspects declared wanted, before returning to Vapi with the rest, police said. [@3]
@@ -108,7 +113,7 @@ and supplied it to select buyers willing to pay high prices. [@1] Officials said
 a preliminary examination suggested the ganja may have been imported from
 abroad. [@1]
 
-Police suspect at least nine more people were involved in the network. [@1,4] Police said one of the wanted suspects was Ronnie, whom they believed to be in Bangkok. [@2]
+Police suspect at least nine more people were involved in the network. [@1,4,7] Police said one of the wanted suspects was Ronnie, whom they believed to be in Bangkok. [@2]
 Efforts were under way to trace and arrest them. [@1] Police suspect the network
 was run from Vapi and Daman and had links with multiple suppliers and high-end
 buyers. [@1] Pramod Pathak, the alleged mastermind, had worked as a bouncer in Mumbai, and police say he ran an interstate drug network under the cover of his Tiger security agency in Vapi. [@3]
