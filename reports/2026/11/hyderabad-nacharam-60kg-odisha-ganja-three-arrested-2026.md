@@ -91,31 +91,27 @@ sources:
     publisher: V6 Velugu
     date: 2026-11-22
     language: te
-open_questions:
-    - 'The accounts differ on the day of the interception: V6 Velugu placed the joint operation on Sunday 22 November, other reports said Saturday, while The New Indian Express reported it on Friday, which would be 20 November 2026, and said the men began their return from Berhampur on 19 November.'
-    - One account places the interception during vehicle checks on the Nacharam-Chilkanagar road, while others say the car was stopped at IDA Nacharam; The New Indian Express gives Road No. 5 in the IDA.
-    - The ganja is described as suspected dried ganja, with no laboratory confirmation reported.
-    - No NDPS Act sections or charges are stated, and no remand, charge sheet or court outcome is reported.
-    - The ganja is described as 60 packets weighing 60.38 kilograms, with no separate weight for each packet.
-    - Police did not say how many earlier trips the group had made, or whether this consignment is connected to the 60 kilograms of Odisha ganja seized near Ghatkesar on 7 November 2026.
-    - The Telugu and English accounts, including The New Indian Express, repeat the same police account and are not independent reporting.
-    - The intended recipient at IDA Nacharam and the identity of the Odisha supplier were not reported.
+  - title: హైదరాబాద్‌లో గంజాయి మాఫియాపై పోలీసుల ఉక్కుపాదం
+    url: https://www.andhrajyothy.com/2026/telangana/hyderabad/malkajgiri-police-bust-cannabis-smuggling-gang-from-odisha-to-hyderabad-vk-1578786.html
+    publisher: Andhrajyothy (ABN)
+    date: 2026-11-22
+    language: te
 ---
 
 Uppal zone Special Operations Team officers and Nacharam police arrested three
 people in a joint operation and seized about 60.38 kilograms of ganja that
-police valued at about 3 million rupees. [@1,2,6,7,8] Police named the two absconding suspects as Rahul alias Krishna and Ajay Sagar. [@4,6,7] Police said Rahul alias Krishna, the main organiser, was from Berhampur in Ganjam district, Odisha, and that Ajay Sagar helped procure and load the ganja. [@6] The arrested men were Sameer Hassan Ali Shaikh alias Ravi Kumar Chowdary, 42, a driver from Jogeshwari East in Mumbai; Mohammed Khan, 52, a cook from King Koti, Hyderabad; and Chandan Kumar Jena, 31, a driver from Kukatpally. [@4,7] Officers stopped a suspicious car
+police valued at about 3 million rupees. [@1,2,6,7,8,9] Police named the two absconding suspects as Rahul alias Krishna and Ajay Sagar. [@4,6,7] Police said Rahul alias Krishna, the main organiser, was from Berhampur in Ganjam district, Odisha, and that Ajay Sagar helped procure and load the ganja. [@6] The arrested men were Sameer Hassan Ali Shaikh alias Ravi Kumar Chowdary, 42, a driver from Jogeshwari East in Mumbai; Mohammed Khan, 52, a cook from King Koti, Hyderabad; and Chandan Kumar Jena, 31, a driver from Kukatpally. [@4,7] Officers stopped a suspicious car
 during vehicle checks on the Nacharam-Chilkanagar road and found 60 ganja
-packets packed in four gunny sacks in its boot. [@1,3,8] The blue Fiat Linea, registered MH01BK9751, was intercepted at about 6:23 pm on 20 November. [@7] Police said the accused tried to flee after noticing the officers. [@6,7] Police said the interception was made on Saturday following specific information. [@4] Police also seized the car
-used for the transport and four mobile phones. [@1,3,6,7]
+packets packed in four gunny sacks in its boot. [@1,3,8,9] The blue Fiat Linea, registered MH01BK9751, was intercepted at about 6:23 pm on 20 November. [@7] Police said the accused tried to flee after noticing the officers. [@6,7] Police said the interception was made on Saturday following specific information. [@4] Police also seized the car
+used for the transport and four mobile phones. [@1,3,6,7,9]
 
 Police said the three had bought the ganja in Odisha for 2,000 rupees a kilogram
-and planned to sell it at high prices in Hyderabad and Mumbai. [@1,4,7] Police
+and planned to sell it at high prices in Hyderabad and Mumbai. [@1,4,7,9] Police
 identified a man named Rahul as the main organiser behind the smuggling
 operation. [@1,4] Police said Rahul came into contact with Sameer through a person named Izaz. [@4] Investigators said the three agreed to carry the consignments
 after Rahul offered them a commission of 5,000 to 8,000 rupees for each
-delivery. [@1,4,6,7] The three had travelled to Odisha the week before and were caught at IDA Nacharam while delivering the consignment to another person. [@4] The three set out towards Odisha on 16 November. [@7] The three travelled to Berhampur, where the 60 packets were loaded into the car, and began the return journey to Hyderabad on 19 November. [@6,7] They returned through Visakhapatnam, Anakapalle, Tuni, Annavaram, Khammam and Suryapet before approaching Hyderabad on NH-65. [@7] Police said they changed drivers frequently and avoided toll plazas to escape police checks. [@7] They took turns driving and stayed in touch with Rahul through WhatsApp calls during the journey. [@7] Rahul was still at large and special teams were searching for
-him. [@1,2] Commissioner of Police B. Sumathi said police were trying to establish the roles of the two absconding suspects. [@5]
+delivery. [@1,4,6,7,9] The three had travelled to Odisha the week before and were caught at IDA Nacharam while delivering the consignment to another person. [@4] The three set out towards Odisha on 16 November. [@7] The three travelled to Berhampur, where the 60 packets were loaded into the car, and began the return journey to Hyderabad on 19 November. [@6,7] They returned through Visakhapatnam, Anakapalle, Tuni, Annavaram, Khammam and Suryapet before approaching Hyderabad on NH-65. [@7] Police said they changed drivers frequently and avoided toll plazas to escape police checks. [@7] They took turns driving and stayed in touch with Rahul through WhatsApp calls during the journey. [@7] Rahul was still at large and special teams were searching for
+him. [@1,2,9] Commissioner of Police B. Sumathi said police were trying to establish the roles of the two absconding suspects. [@5]
 
 Police said they were investigating where the network's supply came from, its
-financial dealings and who the consignments were supplied to. [@1,7]
+financial dealings and who the consignments were supplied to. [@1,7,9]
