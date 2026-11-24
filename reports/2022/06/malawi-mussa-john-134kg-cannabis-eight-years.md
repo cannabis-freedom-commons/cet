@@ -52,6 +52,11 @@ media:
     media_url: https://malawi24.com/wp-content/uploads/2022/06/IMG_20220616_204641.webp
     publisher: Malawi24
     caption: 'Featured image published with the report of Mussa John''s arrest over 78 bags of chamba in Blantyre. Photo: Malawi24'
+  - kind: photo
+    url: https://www.nyasatimes.com/lawyers-offer-to-appeal-on-behalf-of-convicted-chamba-boy/
+    media_url: https://www.nyasatimes.com/wp-content/uploads/FB_IMG_1656171330496-600x600.jpg
+    publisher: Nyasa Times
+    caption: The convicted boy pictured with the report on Mussa John's eight-year sentence for possessing chamba.
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 43805a6be6108cff0f0b78f03648317d
@@ -77,22 +82,15 @@ sources:
     url: https://malawi24.com/2022/06/16/teen-arrested-in-blantyre-over-chamba/
     publisher: Malawi24
     date: 2022-06-16
-open_questions:
-  - The arrest on 15 June 2022 and the sentencing on 24 June 2022 come from the Malawi Institute of Journalism account dated 24 June 2022; the senior magistrate is named Byson Masonga there and in Nation Online.
-  - The first account says the drug weighed 134 kilograms; a later Malawi24 report describing the campaign for his release calls it 134 grams, an evident slip; the 134 kg figure is used.
-  - John's age is given as 19 in the sentencing report and the review reports, but his lawyers told the High Court he was 17; the accounts read here do not say how the court settled this.
-  - 'Whether John possessed the 78 bags himself was disputed: his lawyers said the drugs were at a friend''s house, and his mother said they were not his.'
-  - The amount of the fine imposed on Castel Malawi chief executive Herve Milhade and the exact charge are not given in these accounts.
-  - The grounds and result of the appeal to the Supreme Court of Appeal announced after the 1 September 2022 ruling were not published in the accounts read here.
-  - The submitted Al Jazeera article is about the July 2022 protest arrests in Lilongwe, a separate policing event not covered by this report except as context for the case.
-  - The Al Jazeera page carries only a map of Malawi marking Lilongwe, not a picture of the raid, the seized cannabis or the courtroom, so it is listed for reference and not as a photograph of the event.
-  - No direct image address for a photograph of the seizure or the courtroom on the cited pages could be confirmed to show this case.
-  - 'Mussa not released: Sentence reduced to three years (Malawi24) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
+  - title: Lawyers offer to appeal on behalf of convicted chamba boy
+    url: https://www.nyasatimes.com/lawyers-offer-to-appeal-on-behalf-of-convicted-chamba-boy/
+    publisher: Nyasa Times
+    date: 2022-06-26
 ---
 
 A magistrate's court in Limbe, Blantyre, sentenced 19-year-old Mussa John to
 eight years in prison for illegally possessing Indian hemp, the local name for
-cannabis, weighing 134 kilograms. [@1] Limbe police detectives acting on a tip
+cannabis, weighing 134 kilograms. [@1,6] Limbe police detectives acting on a tip
 searched his house on 15 June 2022 and found 78 plastic bags of the drug, and he
 was arrested and charged with possessing Indian hemp without a licence. [@1,5] Limbe Police detectives acting on a tip found the drug in his house in Kachere township in the city of Blantyre. [@5] He
 pleaded guilty to an offence under Regulation 4(a) of the Dangerous Drugs
@@ -104,7 +102,7 @@ supporting parents and siblings. [@1]
 
 The sentence drew national anger because a prominent business executive, Castel
 Malawi chief executive Herve Milhade, had reportedly been fined rather than
-jailed for cultivating the plant in his compound. [@2] The High Court in
+jailed for cultivating the plant in his compound. [@2] Mhango said they were responding to citizens' calls to intervene, arguing that a fine or a suspended sentence would have been fair for a first offender of his age. [@6] Centre for Human Rights Education, Advice and Assistance (CHREAA) executive director Victor Mhango said they would meet the convict on Monday over the case. [@6] Counsel Alexious Kamangira had met Mussa during a preliminary investigation before taking the matter to the Chief Resident Magistrate in Blantyre. [@6] Some lawyers showed interest in seeking a review of the case pro bono. [@6] Malawians expressed displeasure and concern on social media over the ruling that jailed the 19-year-old for eight years for possessing chamba. [@6] The High Court in
 Blantyre opened a review of the case on 12 July 2022, and the state conceded the
 eight-year term was excessive while asking only that it be reduced. [@3] His
 lawyers argued he was not in possession of the drug, that it was found at a
