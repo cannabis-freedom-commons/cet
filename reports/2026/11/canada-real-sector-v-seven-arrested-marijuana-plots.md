@@ -47,6 +47,11 @@ media:
     media_url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hVJXL.img?w=768&h=512&m=4&q=100
     publisher: Moncloa.com (via MSN)
     caption: The two warehouses in sector V of the Cañada Real, in the area adjoining the Covibar neighbourhood of Rivas Vaciamadrid, as captioned by Moncloa.com.
+  - kind: photo
+    url: https://www.diarioderivas.es/rivas-siete-detenidos-venta-droga-canada-real/
+    media_url: https://www.diarioderivas.es/wp-content/uploads/2026/11/Sin-titulo-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-4.jpg.webp
+    publisher: Diario de Rivas
+    caption: 'Guardia Civil operation against drug sales in the Cañada Real of Madrid. Photo: Guardia Civil'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 24bc745e80a4cdbe2b220bc8fd5eaac2
@@ -77,14 +82,16 @@ sources:
     publisher: Moncloa.com (via MSN)
     date: 2026-11-21
     language: es
-open_questions:
-    - The Guardia Civil gave no figure for the weight of the drugs seized or the number of plants found.
-    - No outcome of the proceedings against the seven detainees has been reported beyond the provisional prison order for five of them.
+  - title: 'Operación contra la venta de droga en la Cañada Real: siete detenidos que traficaban en el entorno de Rivas'
+    url: https://www.diarioderivas.es/rivas-siete-detenidos-venta-droga-canada-real/
+    publisher: Diario de Rivas
+    date: 2026-11-21
+    language: es
 ---
 
 Guardia Civil officers arrested seven people on Monday 16 November 2026 in
 sector V of the Cañada Real, Madrid, as members of a criminal group selling
-drugs. [@2,5] The detainees are aged between 30 and 40 and were brought before a
+drugs. [@2,5,6] The detainees are aged between 30 and 40 and were brought before a
 court. [@1,4] ABC described the seven detainees as members of one family. [@3] The
 Guardia Civil said some of them were jailed and others released with charges.
 [@1] ABC reported that five of the seven entered provisional prison. [@3,4,5]
@@ -94,17 +101,17 @@ consumption points run by a family clan. [@2] ABC described the two sites as
 warehouses (naves) in sector V of the Cañada Real. [@3,4,5] ABC said the area
 adjoins the Covibar neighbourhood in Rivas Vaciamadrid. [@3,4] Inside, officers
 found various narcotics and a marijuana plantation with buds in the drying
-phase. [@2,4,5] They also seized three shotguns, 113 lottery tickets, fighting cocks
-and a high-end vehicle. [@2] Buyers came to the two plots to buy the drug and
-consume it in a Rivas Vaciamadrid neighbourhood. [@1]
+phase. [@2,4,5,6] They also seized three shotguns, 113 lottery tickets, fighting cocks
+and a high-end vehicle. [@2,6] Buyers came to the two plots to buy the drug and
+consume it in a Rivas Vaciamadrid neighbourhood. [@1,6]
 
 The seven were detained on suspicion of crimes against public health, unlawful
 possession of weapons, electricity fraud, money laundering and membership of a
-criminal group. [@2] Investigators said drug seizures in the area had risen
+criminal group. [@2,6] Investigators said drug seizures in the area had risen
 significantly in recent months. [@1] They also reported a notable concentration
 of drug users near parks and doorways, which caused neighbourhood unease. [@1]
 Rivas Vaciamadrid council said judicial police officers took part in the
-searches and the buildings were then demolished. [@1] The plots were sealed on a
+searches and the buildings were then demolished. [@1,6] The plots were sealed on a
 court's instruction and stolen material including copper cable was found there.
-[@1] The council said it would join the case as a prosecutor to defend Rivas
-residents. [@1]
+[@1,6] The council said it would join the case as a prosecutor to defend Rivas
+residents. [@1,6] Councillor José Luis Alfaro, the municipal government spokesman, said the town hall would keep working with the Guardia Civil against drug trafficking with every legal means available. [@6]
