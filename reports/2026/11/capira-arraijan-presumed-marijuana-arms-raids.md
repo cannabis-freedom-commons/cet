@@ -63,6 +63,11 @@ sources:
     publisher: Policía Nacional de Panamá
     date: 2026-11-21
     language: es
+  - title: Policía decomisa pistola calibre .45 y presunta droga tras reporte de sujetos armados
+    url: https://eldigitalpanama.com/policia-decomisa-pistola-calibre-45-y-presunta-droga-tras-reporte-de-sujetos-armados/
+    publisher: El Digital Panamá
+    date: 2026-11-21
+    language: es
 ---
 
 Three operations in Capira and Arraiján seized firearms, ammunition, presumed
@@ -74,16 +79,15 @@ was apprehended inside a residence, where police seized a firearm, a magazine,
 
 During Operación Brisas in the Brisas sector of Lídice, Capira, a grey fanny
 pack held a pistol, two magazines, .45-calibre ammunition, a plastic bag of
-dried herb presumed to be marijuana and a digital scale. [@3] On a street in
+dried herb presumed to be marijuana and a digital scale. [@3,5] On a street in
 Arraiján Cabecera, police seized two firearms, five rounds and an illegal
 substance from a 27-year-old man. [@1] The same action turned up a digital
 scale, five small transparent bags of supposed marijuana and 23 transparent
 straws of presumed cocaine. [@1]
 
 The Lídice find followed a citizen alert about several armed strangers moving
-through the area. [@3] The Nuevo Emperador search was a joint
+through the area. [@3,5] The Nuevo Emperador search was a joint
 search-and-registration with the Public Ministry. [@1] Police said the seized
 items were sent to the relevant authorities for investigation and identification
-of those responsible. [@3] In Nuevo Emperador, the detainee and the evidence
+of those responsible. [@3,5] In Nuevo Emperador, the detainee and the evidence
 were placed at the disposal of the competent authorities. [@4]
-
