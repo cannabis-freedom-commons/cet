@@ -57,29 +57,44 @@ sources:
     publisher: Pronews.gr
     date: 2026-11-20
     language: el
+  - title: Τρεις συλλήψεις για διακίνηση μεθαμφεταμίνης, κοκαΐνης και κάνναβης – Είχαν ορμητήριο δωμάτια ξενοδοχείου στην Ομόνοια
+    url: https://www.policenet.gr/article/treis-syllipseis-gia-diakinisi-methamfetaminis-kokainis-kai-kannabis-eihan-ormitirio
+    publisher: PoliceNET of Greece
+    date: 2026-11-21
+    language: el
 open_questions:
   - No weight was published for the cannabis; the sources describe it only as small amounts.
   - No laboratory confirmation of the substances was reported.
   - No charges beyond referral to the prosecutor, or court outcome, were reported.
   - All three accounts derive from the same police announcement and are not independent reporting.
+media:
+  - kind: photo
+    url: https://www.policenet.gr/article/treis-syllipseis-gia-diakinisi-methamfetaminis-kokainis-kai-kannabis-eihan-ormitirio
+    media_url: https://www.astynomia.gr/file/2026/11/%CE%A6%CE%A9%CE%A4%CE%9F1-4.jpg
+    publisher: PoliceNET of Greece
+    caption: 'Hellenic Police handout photograph of electronic devices and other items seized in the Omonia hotel rooms, laid out on a table. Photo: Hellenic Police'
+  - kind: photo
+    url: https://www.policenet.gr/article/treis-syllipseis-gia-diakinisi-methamfetaminis-kokainis-kai-kannabis-eihan-ormitirio
+    media_url: https://www.astynomia.gr/file/2026/11/%CE%A6%CE%A9%CE%A4%CE%9F2-4.jpg
+    publisher: PoliceNET of Greece
+    caption: 'Hellenic Police handout photograph of packaged items, mobile phones and banknotes seized in the case. Photo: Hellenic Police'
 ---
 
 Three foreign nationals, aged 25, 36 and 50, were arrested in the early hours of
 16 November 2026 on suspicion of drug trafficking, having used hotel rooms in
-the Omonia area of central Athens as a base. [@1] The case came to light when
+the Omonia area of central Athens as a base. [@1,4] The case came to light when
 officers patrolling Omonia stopped the 36-year-old in the Agios Panteleimonas
-area and searched him. [@2] In his possession officers found small amounts of
-cannabis and cocaine along with 59 grams of crystalline methamphetamine. [@3]
+area and searched him. [@2,4] In his possession officers found small amounts of
+cannabis and cocaine along with 59 grams of crystalline methamphetamine. [@3,4]
 
 Officers from the two units then went to the hotel where the 36-year-old was
-staying and arrested the other two men, aged 25 and 50. [@1] In the rooms they
+staying and arrested the other two men, aged 25 and 50. [@1] Police said quantities of narcotic substances were found on the two men when they were arrested at the hotel. [@4] In the rooms they
 seized a further 16.5 grams of methamphetamine, seven drug tablets, nylon
-packaging and an electronic precision scale. [@3] In total police seized 76.5
+packaging and an electronic precision scale. [@3,4] In total police seized 76.5
 grams of methamphetamine, small amounts of cannabis and cocaine, drug tablets,
 precision scales and 575 euros. [@1] They also found 17 electronic watches,
 mobile phones, tablets, two cameras and a drone, whose origin is under
 investigation. [@1]
 
 The three were taken to the competent prosecutor after a case file was compiled
-by the Agios Panteleimonas crime prosecution unit. [@1]
-
+by the Agios Panteleimonas crime prosecution unit. [@1,4]
