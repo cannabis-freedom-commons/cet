@@ -66,32 +66,30 @@ sources:
     publisher: Italien News
     date: 2026-11-21
     language: de
-open_questions:
-    - The date of the flat search is not stated; the reports place it after the 19 November car stop.
-    - No court confirmation of the arrest or of any detention order was reported.
-    - Police valued the whole haul, cocaine included, at least €100,000; no separate value for the cannabis was published.
-    - The 940 grams of cocaine seized are excluded from the cannabis figures.
-    - The man's name, age and any response by him or his lawyer were not published.
-    - One German account dates the arrest to 20 November 2026 while also calling it a Thursday; the Italian report places the car stop on Thursday 19 November.
+  - title: Drogen im Wert von rund 100.000 Euro beschlagnahmt – Mann festgenommen
+    url: https://www.stol.it/artikel/chronik/drogen-im-wert-von-rund-100000-euro-beschlagnahmt-mann-festgenommen
+    publisher: stol.it
+    date: 2026-11-21
+    language: de
 ---
 
 Police began the investigation in the late afternoon of Thursday 19 November
 2026, when officers saw the man moving suspiciously in via Verona in Bolzano and
 stopped his car. [@2] A search of the car found 20 grams of cocaine, already
 divided into doses, hidden under the plastic trim near the driver's seat, and
-€315 in his wallet that investigators treated as possible dealing proceeds. [@2,3]
+€315 in his wallet that investigators treated as possible dealing proceeds. [@2,3,4]
 He told officers he was in Bolzano as a tourist with his wife and daughter, but
-checks showed both had already left Italy. [@2,3] He had no residence permit, only an entry stamp in his passport. [@3]
+checks showed both had already left Italy. [@2,3,4] He then said he was in South Tyrol for work reasons but could produce no evidence. [@4] He had no residence permit, only an entry stamp in his passport. [@3]
 
 Officers then searched his flat in Appiano sulla Strada del Vino, where they
 found another 920 grams of cocaine, 946 grams of marijuana and 57 grams of
 hashish hidden in furniture. [@2,3] They also seized precision scales, material
 for cutting and packaging drugs, and about €13,000 in small and medium banknotes
-divided into bundles. [@2,3] Rai's German-language account of the case rounded the
+divided into bundles. [@2,3,4] Rai's German-language account of the case rounded the
 apartment haul to almost a kilo of cocaine, a kilo of marijuana and a good 50
 grams of hashish. [@1]
 
 Tests confirmed the substances were drugs, and the man was arrested in flagrante
 for possession for the purpose of dealing and taken to prison. [@2,3] Police
 estimated that the seized drugs, cocaine included, could have brought in at
-least €100,000 at retail. [@2,3]
+least €100,000 at retail. [@2,3,4]
