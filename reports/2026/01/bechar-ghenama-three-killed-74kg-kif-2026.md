@@ -59,6 +59,11 @@ sources:
     publisher: TSA Algérie
     date: 2026-01-29
     language: fr
+  - title: Trois Marocains tués par l’armée algérienne
+    url: https://www.bladi.net/trois-marocains-tues-armee-algerienne,119194.html
+    publisher: Bladi.net
+    date: 2026-01-29
+    language: fr
 open_questions:
   - The ministry statement gives no detail of how the ambush unfolded, what the group was carrying it in, or where the 74 kg was found.
   - No charge, prosecutor's referral or court outcome was reported for the man arrested, named in the ministry statement.
@@ -70,19 +75,18 @@ open_questions:
 Algeria's defence ministry said security forces killed three armed Moroccan
 traffickers and arrested a fourth in an ambush in the Ghenama area of Béchar
 wilaya, near the Moroccan border, on the night of Wednesday 28 January 2026.
-[@1] The ambush was laid by joint detachments of the People's National Army, the
+[@1,4] The ambush was laid by joint detachments of the People's National Army, the
 border guard and Algerian customs, the ministry said. [@2] The ministry said the
 group had tried to take advantage of the bad weather across the country to carry
-out its crimes. [@1]
+out its crimes. [@1,4]
 
 Officers seized 74 kg of cannabis resin, a hunting rifle, binoculars, four
-mobile phones and other items, according to the ministry. [@1] The ministry
+mobile phones and other items, according to the ministry. [@1,4] The ministry
 published the names of the three dead and of the man arrested, all said to be
 Moroccan nationals; it gave no other details of the interception. [@3]
 
 In a separate statement the army said it had seized 174 kg of Moroccan cannabis
 resin in the week of 21 to 27 January. [@1] The incident happened amid acute
 tension between the two North African neighbours, whose border has been closed
-since 1994. [@1] TSA Algérie reported that the operation was presented by the
+since 1994. [@1,4] Diplomatic relations between Algeria and Morocco have been severed since 2021. [@4] TSA Algérie reported that the operation was presented by the
 army as a warning to anyone seeking to enter Algerian territory. [@3]
-
