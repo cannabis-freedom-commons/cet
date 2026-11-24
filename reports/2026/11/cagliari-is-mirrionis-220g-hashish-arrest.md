@@ -43,6 +43,11 @@ media:
     media_url: https://immagini.unionesarda.it/version/c:MWY1NGRhM2YtN2IzNi00:ODU1M2QxOGUtOGQ5NC00/image.webp?q=0.75&f=16%3A9&w=768
     publisher: L'Unione Sarda
     caption: The drugs seized from the cellar in Via Buggerru, captioned 'Die beschlagnahmten Drogen' on the L'Unione Sarda page.
+  - kind: photo
+    url: https://www.cagliaritoday.it/cronaca/arresto-cocaina-hashish-cantina-via-buggerru.html
+    media_url: https://www.cagliaritoday.it/~media/horizontal-hi/61629773097892/deposito-di-cocaina-e-hashish-nella-cantina-di-via-buggerru-arrestato-56enne.jpg
+    publisher: CagliariToday
+    caption: Drugs and cash seized from the Via Buggerru cellar, captioned 'Droga e contanti sequestrati' on CagliariToday.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: cc0d9ad59662095333048294b8b20128
@@ -72,6 +77,11 @@ sources:
     url: https://www.unionesarda.it/en/sardinia/cagliari-nearly-a-kilo-of-drugs-found-in-the-cellar-man-arrested-at-is-mirrionis-eff6fwz2
     publisher: L'Unione Sarda
     date: 2026-11-21
+  - title: 'Deposito di cocaina e hashish nella cantina di via Buggerru: arrestato 56enne a Cagliari'
+    url: https://www.cagliaritoday.it/cronaca/arresto-cocaina-hashish-cantina-via-buggerru.html
+    publisher: CagliariToday
+    date: 2026-11-21
+    language: it
 open_questions:
     - 'The hashish weight differs between accounts: L''Unione Sarda reports 220 grams, La Nuova Sardegna more than 240 grams in its text and 270 grams in its headline, and ANSA more than 200 grams; the report uses 220 grams.'
     - The suspect's age is given as 54 by L'Unione Sarda and by La Nuova Sardegna's headline, but as 56 in La Nuova Sardegna's text and by ANSA.
@@ -82,23 +92,23 @@ open_questions:
 
 A routine check by the Flying Falcons unit of Cagliari's state police mobile
 team led officers to one of the largest drug finds in the city in recent months.
-[@1,3,4,5] Diego Fiorillo, 54, was arrested. [@1,3,5] He was arrested on suspicion of possessing drugs for dealing. [@4] Officers stopped Fiorillo during an
+[@1,3,4,5,6] Diego Fiorillo, 54, was arrested. [@1,3,5] He was arrested on suspicion of possessing drugs for dealing. [@4,6] Officers stopped Fiorillo during an
 evening check in Is Mirrionis and said he appeared agitated and nervous. [@2] He
 admitted hiding a dose of cocaine in his underwear and handed over the packet
-voluntarily. [@1,5] The man told officers that a large quantity of drugs was kept inside the cellar. [@4,5] Officers also searched his home, where they found no significant evidence. [@5]
+voluntarily. [@1,5,6] The man told officers that a large quantity of drugs was kept inside the cellar. [@4,5,6] Officers also searched his home, where they found no significant evidence. [@5,6]
 
 Officers seized 720 grams of cocaine and 220 grams of hashish from the garage in
 Is Mirrionis. [@1,3,4,5] His van held keys and a remote control for a cellar in Via
-Buggerru, documents for its use and 870 euros in cash. [@1,3,4,5] Inside the cellar
+Buggerru, documents for its use and 870 euros in cash. [@1,3,4,5,6] Inside the cellar
 officers found numerous vacuum-packed cocaine portions, already sorted and
-individually labelled. [@1,3,5] Some of the cocaine packages weighed more than 100 grams each. [@4] The vacuum-packed cocaine was found in a safe, in cardboard boxes and on shelves. [@3] The cellar also held precision scales, a
+individually labelled. [@1,3,5,6] Some of the cocaine packages weighed more than 100 grams each. [@4,6] The vacuum-packed cocaine was found in a safe, in cardboard boxes and on shelves. [@3,6] The cellar also held precision scales, a
 vacuum-packing machine, bags, plastic offcuts and knives considered useful for
-drug dealing. [@2,4,5] La Nuova Sardegna reported more than 240 grams of hashish,
+drug dealing. [@2,4,5,6] La Nuova Sardegna reported more than 240 grams of hashish,
 divided into several blocks and fragments, some labelled by product quality.
 [@2]
 
 Investigators said the quantity and the organisation of the store pointed to a
-structured activity aimed at supplying a large network of consumers. [@1,3,5] They
+structured activity aimed at supplying a large network of consumers. [@1,3,5,6] They
 said the drugs could have generated profits of tens of thousands of euros if
-sold on the market. [@1,5] He was taken to Uta prison, defended by lawyer Gianluca
+sold on the market. [@1,5,6] He was taken to Uta prison, defended by lawyer Gianluca
 Aste, and was awaiting a validation hearing expected on Monday or Tuesday. [@2]
