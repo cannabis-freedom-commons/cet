@@ -169,6 +169,11 @@ sources:
     publisher: Harianradar.com
     date: 2026-11-20
     language: id
+  - title: 'Foto : Terima Paket Ganja 3 Kilogram dari Ekspedisi, Karyawan Pabrik di Sidoarjo Ditangkap Halaman 1'
+    url: https://regional.kompas.com/image/2026/11/20/190945278/terima-paket-ganja-3-kilogram-dari-ekspedisi-karyawan-pabrik-di-sidoarjo?page=1
+    publisher: KOMPAS.com
+    date: 2026-11-20
+    language: id
 media:
   - kind: photo
     url: https://jatim.viva.co.id/kabar/29097-polresta-sidoarjo-tangkap-kurir-pabrik-saat-ambil-paket-ekspedisi-isi-3-kg-ganja
@@ -213,10 +218,11 @@ media:
 open_questions:
     - 'The accounts place the arrest at different spots in Gedangan: a roadside in Keboansikep village, a roadside in Keboan Anom village and a food stall in the Keboananom area.'
     - The alleged network controller is identified as BENDOT in the RRI account, as BEN in other accounts, and only by the initial B in the police's own account.
+    - The Kompas photo caption dates the arrest to Friday 20 November 2026, while the reporting places it on Monday 16 November 2026.
 ---
 
 Police in Sidoarjo, East Java, arrested AT alias Acle, a 29-year-old factory
-worker from Waru district, on suspicion of distributing cannabis. [@1,7,8,10,11,13,15,16,17,18,20,21,23,25] Kapolresta Sidoarjo AKBP Bobby A. Condroputra announced the case at a press conference on 20 November 2026. [@15,18,24,25] Police said the dried cannabis was intended for distribution among workers and students. [@8] He was
+worker from Waru district, on suspicion of distributing cannabis. [@1,7,8,10,11,13,15,16,17,18,20,21,23,25,26] Kapolresta Sidoarjo AKBP Bobby A. Condroputra announced the case at a press conference on 20 November 2026. [@15,18,24,25] Police said the dried cannabis was intended for distribution among workers and students. [@8] He was
 detained around 10:00 WIB on Monday 16 November 2026 at the roadside in
 Keboansikep village, Gedangan district, after receiving a courier parcel. [@3,10,11,15,17,18,21,23] Police said the fourth parcel had not yet been placed at a drop point when they arrested him. [@2,7,18,19,25] Police said AT placed the parcels at drop points chosen by the controller, using what they described as a tempel or ranjau system. [@6,7,25]
 The operation began with a public tip-off about a suspected drug transaction in
