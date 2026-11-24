@@ -41,6 +41,11 @@ media:
     media_url: https://prodamdtlmdtv.akamaized.net/NBCU_TLM_WSCV/487/775/41635696928-1080pnbcnews6m.mp4
     publisher: Telemundo Miami (51)
     caption: Telemundo video on the Coast Guard offload of more than 76,000 pounds of drugs at Port Everglades, including more than 15,000 pounds of marijuana.
+  - kind: photo
+    url: https://timesofindia.indiatimes.com/world/us/massive-drug-haul-us-coast-guard-seizes-record-76000-pounds-of-cocaine-marijuana-off-florida-coast-contraband-worth-half-a-million/articleshow/123540836.cms
+    media_url: https://static.toiimg.com/thumb/msid-123542201,imgsize-141468,width-400,resizemode-4/123542201.jpg
+    publisher: Times of India
+    caption: 'Photograph of the record Coast Guard drug offload off the Florida coast. Photo: AP'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 227c3fd537473b91cab340a2270ebe29
@@ -82,22 +87,26 @@ sources:
     url: https://www.local10.com/news/national/2025/08/25/venezuela-was-source-of-about-22-billion-in-drugs-seized-at-sea-so-far-this-year-feds-say/
     publisher: Local 10 News (WPLG)
     date: 2025-08-25
+  - title: 'Massive drug haul: US Coast Guard seizes record 76,000 pounds of cocaine, marijuana off Florida coast; contraband worth half a million'
+    url: https://timesofindia.indiatimes.com/world/us/massive-drug-haul-us-coast-guard-seizes-record-76000-pounds-of-cocaine-marijuana-off-florida-coast-contraband-worth-half-a-million/articleshow/123540836.cms
+    publisher: Times of India
+    date: 2025-08-27
 ---
 
 The crew of the U.S. Coast Guard Cutter Hamilton offloaded seized narcotics at
-Port Everglades, Florida, on Monday 25 August 2025. [@2,4,5] CBS Miami reported the
+Port Everglades, Florida, on Monday 25 August 2025. [@2,4,5,9] CBS Miami reported the
 drugs were brought to port by the Coast Guard Cutter Hamilton after 19
-interdictions in the Eastern Pacific Ocean and the Caribbean Sea. [@3,7] The
+interdictions in the Eastern Pacific Ocean and the Caribbean Sea. [@3,7,9] The
 interdicted vessels were stopped off Ecuador's Galapagos Islands and off the
-coasts of Venezuela, Mexico, the Dominican Republic, Jamaica and Aruba. [@1,4,5] U.S. Attorney Gregory W. Kehoe said many of the interdicted vessels had left Venezuela. [@8]
+coasts of Venezuela, Mexico, the Dominican Republic, Jamaica and Aruba. [@1,4,5,9] U.S. Attorney Gregory W. Kehoe said many of the interdicted vessels had left Venezuela. [@8]
 
 Capt. John B. McWhite said his crew interdicted 11 go-fast vessels and detained
-34 suspected drug traffickers. [@2,7] Telemundo reported that 34 suspected
+34 suspected drug traffickers. [@2,7,9] Telemundo reported that 34 suspected
 traffickers were held but that the authorities did not state how many suspects
 were detained in all the interdictions together. [@1,5] Hamilton's crew offloaded
 about 14,400 pounds of bulk marijuana, roughly 6,532 kg, alongside 61,740 pounds
-of cocaine. [@3,4,5,6,7] The Coast Guard valued the cocaine and marijuana together at
-$473 million, a combined figure that is not a marijuana-only estimate. [@2,4,5,6,7,8]
+of cocaine. [@3,4,5,6,7,9] The Coast Guard valued the cocaine and marijuana together at
+$473 million, a combined figure that is not a marijuana-only estimate. [@2,4,5,6,7,8,9]
 
 Rear Adm. Adam Chamie said the cocaine alone amounted to 23 million potentially
 lethal doses, enough to give the entire population of Florida a fatal overdose.
