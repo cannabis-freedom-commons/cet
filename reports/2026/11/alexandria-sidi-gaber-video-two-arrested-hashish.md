@@ -40,6 +40,11 @@ media:
     media_url: https://darelhilal.com/Media/News/2026/11/22/2026-639309586582926246-292.jpg
     publisher: دار الهلال
     caption: 'Page picture captioned المتهمين (the defendants) on the Dar El-Hilal report of the Alexandria case. Photo: دار الهلال'
+  - kind: video
+    url: https://akhbarelyom.com/news/newdetails/4910973/1/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B3%D9%8A%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%8A%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%84%D8%B6%D8%A8%D8%B7-%D9%85%D8%B1%D9%88%D8%AC
+    media_url: https://www.youtube.com/watch?v=PqCxpwO8_fI
+    publisher: أخبار اليوم
+    caption: The circulated video embedded in the Akhbar El-Yom report, showing a man smoking a cigarette the ministry said contained hashish, which led police to the two accused in Alexandria.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: bebaea3b81493bdf2c003a0de68495ae
@@ -65,11 +70,11 @@ sources:
     publisher: فيتو
     date: 2026-11-22
     language: ar
-open_questions:
-  - No date was published for the two arrests; the smoking is dated 19 November and the ministry's account was published on 22 November, which is used as the incident date.
-  - No amount was published for the hashish found with the seller, so no weight is recorded.
-  - All four accounts reproduce the same Interior Ministry statement and are not independent reporting of the case.
-  - No charge sheet, detention order or court outcome were reported; the sources say only that the necessary legal measures were taken.
+  - title: فيديو سيجارة الحشيش يقود الأمن لضبط مروج المخدرات بالإسكندرية
+    url: https://akhbarelyom.com/news/newdetails/4910973/1/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B3%D9%8A%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%8A%D9%82%D9%88%D8%AF-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%84%D8%B6%D8%A8%D8%B7-%D9%85%D8%B1%D9%88%D8%AC
+    publisher: أخبار اليوم
+    date: 2026-11-22
+    language: ar
 ---
 
 Egypt's Interior Ministry said its security services identified and arrested a
@@ -77,14 +82,13 @@ man filmed in a video circulated on social media smoking a cigarette suspected
 of containing a drug in Alexandria. [@1] The video had circulated on social
 media before the security services traced and arrested the man shown in it. [@2]
 Officers identified him as a worker at a shop who lives in the Second El-Raml
-police district in Alexandria. [@1] Questioned, he admitted smoking a cigarette
+police district in Alexandria. [@1,5] Questioned, he admitted smoking a cigarette
 containing hashish on 19 November while he was in the Sidi Gaber police
-district, and named the man he had obtained the drugs from. [@1] That man is
+district, and named the man he had obtained the drugs from. [@1,5] That man is
 unemployed with a criminal record and lives in the same district, and the
 security services arrested him and found a quantity of hashish with him. [@3]
 
 The seller admitted holding the hashish with intent to sell it, the Akhbar
-El-Yom account of the ministry statement said. [@2] Veto reported the same
+El-Yom account of the ministry statement said. [@2,5] Veto reported the same
 ministry account and said the necessary legal measures had been taken against
 the two accused. [@4]
-
