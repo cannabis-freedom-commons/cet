@@ -86,8 +86,13 @@ sources:
     publisher: NewsMeter
     date: 2026-11-23
     language: en
+  - title: హైదరాబాద్ లో భారీగా గంజాయి స్వాధీనం... కారులో 60 కిలోలు తరలిస్తుండగా...
+    url: https://www.v6velugu.com/hyderabad-police-caught-60-kilos-ganja-at-uppal-zone
+    publisher: V6 Velugu
+    date: 2026-11-22
+    language: te
 open_questions:
-    - 'The accounts differ on the day of the interception: other reports said Saturday, while The New Indian Express reported it on Friday, which would be 20 November 2026, and said the men began their return from Berhampur on 19 November.'
+    - 'The accounts differ on the day of the interception: V6 Velugu placed the joint operation on Sunday 22 November, other reports said Saturday, while The New Indian Express reported it on Friday, which would be 20 November 2026, and said the men began their return from Berhampur on 19 November.'
     - One account places the interception during vehicle checks on the Nacharam-Chilkanagar road, while others say the car was stopped at IDA Nacharam; The New Indian Express gives Road No. 5 in the IDA.
     - The ganja is described as suspected dried ganja, with no laboratory confirmation reported.
     - No NDPS Act sections or charges are stated, and no remand, charge sheet or court outcome is reported.
@@ -99,9 +104,9 @@ open_questions:
 
 Uppal zone Special Operations Team officers and Nacharam police arrested three
 people in a joint operation and seized about 60.38 kilograms of ganja that
-police valued at about 3 million rupees. [@1,2,6,7] Police named the two absconding suspects as Rahul alias Krishna and Ajay Sagar. [@4,6,7] Police said Rahul alias Krishna, the main organiser, was from Berhampur in Ganjam district, Odisha, and that Ajay Sagar helped procure and load the ganja. [@6] The arrested men were Sameer Hassan Ali Shaikh alias Ravi Kumar Chowdary, 42, a driver from Jogeshwari East in Mumbai; Mohammed Khan, 52, a cook from King Koti, Hyderabad; and Chandan Kumar Jena, 31, a driver from Kukatpally. [@4,7] Officers stopped a suspicious car
+police valued at about 3 million rupees. [@1,2,6,7,8] Police named the two absconding suspects as Rahul alias Krishna and Ajay Sagar. [@4,6,7] Police said Rahul alias Krishna, the main organiser, was from Berhampur in Ganjam district, Odisha, and that Ajay Sagar helped procure and load the ganja. [@6] The arrested men were Sameer Hassan Ali Shaikh alias Ravi Kumar Chowdary, 42, a driver from Jogeshwari East in Mumbai; Mohammed Khan, 52, a cook from King Koti, Hyderabad; and Chandan Kumar Jena, 31, a driver from Kukatpally. [@4,7] Officers stopped a suspicious car
 during vehicle checks on the Nacharam-Chilkanagar road and found 60 ganja
-packets packed in four gunny sacks in its boot. [@1,3] The blue Fiat Linea, registered MH01BK9751, was intercepted at about 6:23 pm on 20 November. [@7] Police said the accused tried to flee after noticing the officers. [@6,7] Police said the interception was made on Saturday following specific information. [@4] Police also seized the car
+packets packed in four gunny sacks in its boot. [@1,3,8] The blue Fiat Linea, registered MH01BK9751, was intercepted at about 6:23 pm on 20 November. [@7] Police said the accused tried to flee after noticing the officers. [@6,7] Police said the interception was made on Saturday following specific information. [@4] Police also seized the car
 used for the transport and four mobile phones. [@1,3,6,7]
 
 Police said the three had bought the ganja in Odisha for 2,000 rupees a kilogram
