@@ -1,20 +1,20 @@
 ---
 code: 04NJYH
 added_at: "2026-11-05T14:56:52.485736Z"
-date: 2025-09-14
+date: 2026-11-22
 country: mx
 place: Cuauhtémoc, Benito Juárez and Iztacalco, Mexico City
 coordinates: [19.4326, -99.1332]
 precision: district
-type: arrest
-also: [raid, seizure]
-title: 4 held as 1,153-plant cannabis network dismantled in Mexico City
-summary: >-
-  Federal and Mexico City officers raided properties in Cuauhtémoc, Benito Juárez and Iztacalco, detaining alleged Familia Michoacana cell leader Sergio Cano Correa, alias D3, with three others. Officers seized a greenhouse with 1,153 cannabis plants and a warehouse holding 139 packages and 35 kilos of marijuana.
+type: sentence
+also: [raid, seizure, arrest]
+title: Four held in 1,153-plant Mexico City network; one jailed eight years
+summary: Four people were arrested in September 2025 searches across Cuauhtémoc, Benito Juárez and Iztacalco in Mexico City, including the operator of a greenhouse with 1,153 cannabis plants. In November 2026 one of them, Paulo Josué Zavala Zavala, was sentenced to eight years and four months in prison for producing marihuana.
 figures:
-  arrested: 4
-  plants_destroyed: 1153
-  kg_seized: 35
+    arrested: 4
+    plants_destroyed: 1153
+    kg_seized: 35
+    prison: 8 years 4 months
 media:
   - kind: photo
     url: https://www.infobae.com/mexico/2025/09/14/desmantelan-presunta-red-de-marihuana-de-la-familia-michoacana-cuatro-detenidos-y-mas-de-mil-plantas-aseguradas-en-cdmx/
@@ -32,24 +32,27 @@ media:
     publisher: Infobae
     caption: 'Video report on the criminal marijuana network operating in Mexico City and the four detentions. Video: SSC via Infobae'
 details:
-  activity: [cultivation]
-  agencies: [mx-gn]
-  agency_types: [gendarmerie]
-  case_stage: investigation
-  environment: [greenhouse]
-  products: [{product: flower, kg: 35}, {product: plants, plants: 1153}]
-  setting: [home, building]
+    activity: [cultivation]
+    agencies: [mx-gn]
+    agency_types: [gendarmerie]
+    case_stage: sentenced
+    environment: [greenhouse]
+    products: [{product: flower, kg: 35}, {product: plants, plants: 1153}]
+    setting: [home, building]
+    sentence_types: [prison]
 data_sources:
-  details.activity: [1, 2, 3]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1, 2]
-  details.environment: [1]
-  details.products: [1, 2, 3]
-  details.setting: [1, 2, 3]
-  figures.arrested: [1]
-  figures.kg_seized: [2, 1]
-  figures.plants_destroyed: [1, 2]
+    details.activity: [1, 2, 3]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [5]
+    details.environment: [1]
+    details.products: [1, 2, 3]
+    details.setting: [1, 2, 3]
+    figures.arrested: [1]
+    figures.kg_seized: [2, 1]
+    figures.plants_destroyed: [1, 2]
+    details.sentence_types: [4]
+    figures.prison: [4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2c5663e5ddf19ff567d68573156e24ae
@@ -70,13 +73,25 @@ sources:
     publisher: El Universal
     date: 2025-09-15
     language: es
+  - title: Dan ocho años de cárcel a sujeto por producción de marihuana; le aseguraron mil 192 plantas en 2025
+    url: https://www.msn.com/es-mx/noticias/otras/dan-ocho-a%C3%B1os-de-c%C3%A1rcel-a-sujeto-por-producci%C3%B3n-de-marihuana-le-aseguraron-mil-192-plantas-en-2025/ar-AA2hYYzh
+    publisher: El Universal
+    date: 2026-11-22
+    language: es
+  - title: Aseguran armas y obtienen sentencia
+    url: https://www.eleconomista.com.mx/politica/aseguran-armas-obtienen-sentencia-20261122-845276.html
+    publisher: El Economista
+    date: 2026-11-22
+    language: es
 open_questions:
-  - The articles give no separate date for the searches; 14 September 2025 is the publication date and is used as the incident date.
-  - The bag of yellow powder and the two bags of marijuana in Iztacalco were not weighed or identified, so only the 1,153 plants and the quantified 35 kilos are recorded as cannabis figures.
-  - The wording does not establish whether the 35 kilos is the weight of the sack alone or of the 139 packages plus the sack, so only the stated 35 kilos is counted.
-  - Doses, cartridges and a vehicle mentioned in the second account are not quantified or shown to be cannabis and are excluded from figures.
-  - No charges, custody ruling or court outcome were reported; the detainees had been placed at the disposal of the Ministerio Público.
-  - All three accounts repeat the authorities' version via police and joint-agency statements; no separate agency communiqué was opened directly.
+    - The articles give no separate date for the searches; 14 September 2025 is the publication date and is used as the incident date.
+    - The seizure reporting describes a bag of yellow powder and two bags of marijuana in Iztacalco that were not weighed or identified, while the sentencing account describes a bag of green powder and two black bags of dried green plant material.
+    - The wording does not establish whether the 35 kilos is the weight of the sack alone or of the 139 packages plus the sack, so only the stated 35 kilos is counted.
+    - Doses, cartridges and a vehicle mentioned in the second account are not quantified or shown to be cannabis and are excluded from figures.
+    - All three accounts repeat the authorities' version via police and joint-agency statements; the sentencing reports likewise reproduce the FGR communiqué.
+    - The FGR's sentencing account counts 1,192 fresh marihuana plants in the Iztacalco greenhouse, against the 1,153 counted in the seizure reporting.
+    - The condemned man is called Paulo Josué Zavala Zavala in the sentencing reporting and Paolo Josué Zavala Zavala in the arrest reporting.
+    - No separate date is given for the sentencing hearing; 22 November 2026 is the date of the FGR communiqué and the published reports.
 ---
 
 Officers detained four people in simultaneous searches in the boroughs of
@@ -84,7 +99,7 @@ Cuauhtémoc, Benito Juárez and Iztacalco in Mexico City. [@1] Sergio Cano Corre
 33, known as D3, was detained in Colonia Centro in Cuauhtémoc and was described
 as the leader of the criminal cell. [@1] The three others detained with him were
 Patricio Daniel Hernández Ruiz, 41, known as Smog, Paolo Josué Zavala Zavala,
-27, and Francisco Javier Valencia Ordoñez, 34. [@1] The detainees were informed
+27, and Francisco Javier Valencia Ordoñez, 34. [@1] The FGR announced the conviction in a communiqué issued on 22 November 2026. [@5] In November 2026 a judge sentenced Zavala to eight years and four months in prison for producing marihuana, a term he will serve at the Reclusorio Preventivo Varonil Oriente. [@4] The detainees were informed
 of their rights and placed at the disposal of the Public Prosecutor, while the
 premises were sealed under police custody. [@2]
 
@@ -104,4 +119,3 @@ have transnational reach, with cultivation operations detected in Costa Rica and
 Guatemala. [@1] Investigators said the cell's main activity centred on
 developing production greenhouses and selling designer marijuana
 transnationally. [@3]
-
