@@ -56,6 +56,11 @@ media:
     media_url: https://www.alghad.tv/image/716/493/media-library/4978f0f3-17b2-4edd-b138-9f4d345a725e.webp?q=82&fm=webp
     publisher: اخبار الغد
     caption: 'Photograph of the destruction of a shipment of seized drugs, published by the Syrian Arab News Agency on X. Photo: SANA via X'
+  - kind: photo
+    url: https://www.alanba.com.kw/1386173
+    media_url: https://media.alanba.com.kw/articlefiles/2026/11/1386173-1.jpg?crop=(5,0,417,253)&cropxunits=450&cropyunits=253&w=770
+    publisher: جريدة الأنباء الكويتية
+    caption: A view of the destruction of seized drugs announced by Syria's Anti-Narcotics Directorate on 22 November 2026.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 58eedc046fa120c14fd1e1dffaf83932
@@ -193,11 +198,16 @@ sources:
     publisher: الراي
     date: 2026-11-22
     language: ar
+  - title: 'سورية: إتلاف 400 مليون حبة كبتاغون و12 طن حشيش'
+    url: https://www.alanba.com.kw/1386173
+    publisher: جريدة الأنباء الكويتية
+    date: 2026-11-23
+    language: ar
 ---
 
 Syria's Anti-Narcotics Directorate announced on Sunday 22 November 2026 that a
 joint committee of the interior, justice and health ministries had destroyed
-large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25,26,27] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15,17,20,21,22,23,24,25,26,27] The quantities
+large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15,17,20,21,22,23,24,25,26,27,28] The quantities
 were destroyed in batches under approved legal and environmental procedures.
 [@4,16] The directorate described the destruction as reflecting integrated national
 efforts against drugs. [@2,25]
@@ -210,7 +220,7 @@ equipment and chemicals used to smuggle, conceal, transport and manufacture the
 drugs. [@1,6,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27]
 
 Interior Minister Anas Khattab said the quantities were among the largest
-destroyed since Bashar al-Assad's government fell in December 2024. [@4,7]
+destroyed since Bashar al-Assad's government fell in December 2024. [@4,7,28]
 Captagon production and trafficking grew during Syria's conflict, and under
 Assad the country became a main manufacturing and export centre for the pills,
 sent to the Gulf through Jordan and Lebanon. [@3,9,11,13,14,15,16,19,20,21,23,26] Since Assad's overthrow the
