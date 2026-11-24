@@ -60,26 +60,23 @@ sources:
     publisher: Manab Zamin
     date: 2026-11-20
     language: bn
-open_questions:
-  - Manab Zamin places the raid at 2:00-3:00 am in the night after Thursday, which would fall in the early hours of 20 November, while the other reports give only Friday 20 November.
-  - One report names the partner force as RAB-11 rather than the Special Response Battalion (SRB)-11; the accounts do not settle which unit took part.
-  - No value was published for the ganja or the liquor.
-  - The ganja was not described as weighed or tested, and the reports do not say where it came from or where it was being taken.
-  - The 48 bottles of Indian whisky are not cannabis and are not counted in the cannabis figures.
-  - No plea, detention decision or court outcome was reported after the case was filed.
-  - Both accounts reproduce the same Department of Narcotics Control statement and are not independent reporting.
+  - title: 'সেনবাগে ডিএনসি-এসআরবির যৌথ অভিযান: বিদেশি মদ ও ২ কেজি গাঁজাসহ গ্রেপ্তার ২'
+    url: https://www.dhakatoday.com/news/94776/%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A7%87-%E0%A6%A1%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF-%E0%A6%8F%E0%A6%B8%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8:-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%AE%E0%A6%A6-%E0%A6%93-%E0%A7%A8-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%A8
+    publisher: dhakaToday.com
+    date: 2026-11-21
+    language: bn
 ---
 
 The Department of Narcotics Control and a joint force arrested two men in Senbag
 upazila, Noakhali, and seized 48 bottles of Indian foreign liquor and 2
-kilograms of ganja. [@1] The raid took place on Friday 20 November 2026 at
-Gazirhat Bazar on the Feni-Sonaimuri road in Senbag upazila. [@1] Those arrested
+kilograms of ganja. [@1,3] The raid took place on Friday 20 November 2026 at
+Gazirhat Bazar on the Feni-Sonaimuri road in Senbag upazila. [@1,3] Those arrested
 were Habibur Rahman, 26, son of Mir Hossain Milon of Madanpur village in
 Nangalkot upazila, Comilla, and Taizul Islam, 25, son of Siraj Mia of Maishai
 village in Dumuria union, Senbag upazila. [@1]
 
 Officers seized the 48 bottles, the 2 kilograms of ganja, an unregistered CNG
-auto-rickshaw used to carry the drugs and two mobile phones. [@1] Manab Zamin
+auto-rickshaw used to carry the drugs and two mobile phones. [@1,3] Manab Zamin
 reported that the raid ran from 2:00 to 3:00 am in the night after Thursday, so
 it fell in the early hours of 20 November. [@2] The seized liquor was 12 bottles
 of Royal Stag Deluxe whisky, 12 bottles of Black Pure Grain Deluxe whisky and 24
@@ -87,6 +84,5 @@ bottles of Royal Green Deluxe blended whisky, Manab Zamin reported. [@2]
 
 Department inspector Bapon Sen filed a regular case against the two at Senbag
 Model police station under the relevant sections of the Narcotics Control Act
-2018. [@1] Subrata Sarkar, deputy director of the department's Noakhali district
-office, confirmed the operation. [@1]
-
+2018. [@1,3] Subrata Sarkar, deputy director of the department's Noakhali district
+office, confirmed the operation. [@1,3]
