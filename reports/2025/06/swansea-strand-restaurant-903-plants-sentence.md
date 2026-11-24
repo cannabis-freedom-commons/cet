@@ -72,14 +72,19 @@ sources:
     publisher: Reporteri.net
     date: 2026-11-22
     language: en
+  - title: Deux Albanais ont été condamnés à 32 mois de prison en Grande-Bretagne, arrêtés en possession de plus de 900 plants de cannabis.
+    url: https://reporteri.net/fr/nouvelles/Deux-Albanais-ont-%C3%A9t%C3%A9-condamn%C3%A9s-%C3%A0-32-mois-de-prison-en-Grande-Bretagne-apr%C3%A8s-avoir-%C3%A9t%C3%A9-arr%C3%AAt%C3%A9s-en-possession-de-plus-de-900-plants-de-cannabis./
+    publisher: Reporteri.net
+    date: 2026-11-22
+    language: fr
 ---
 
 South Wales Police officers arrested Aleksander Cela, 26, and Dennis Horeshka,
 30, both of no fixed abode, after a search warrant at a building on The Strand
-in Swansea city centre on 8 May 2025. [@1,4] The raid uncovered a cannabis
-cultivation of more than 900 plants. [@1,4] At Swansea Crown Court on 29 June 2025
+in Swansea city centre on 8 May 2025. [@1,4,5] The raid uncovered a cannabis
+cultivation of more than 900 plants. [@1,4,5] At Swansea Crown Court on 29 June 2025
 both men were sentenced to 32 months in prison after pleading guilty to
-producing Class B drugs. [@2,4]
+producing Class B drugs. [@2,4,5]
 
 Police and the court put the number of plants at 903, found across three floors
 of the former Meatery and Martini restaurant at 12 The Strand and a neighbouring
@@ -92,7 +97,7 @@ matter for the Home Office. [@2]
 Sergeant Craig Evans of South Wales Police said the proceeds of dealing cannabis
 go towards other illegal and more serious activities, and that the Strand
 building was highly unsafe and had to be made secure before officers could
-remove the plants and equipment. [@1] Sergeant Craig Evans said: 'Drug crime comes with consequences. Here, those consequences include being sent to prison.' [@4]
+remove the plants and equipment. [@1] Sergeant Craig Evans said: 'Drug crime comes with consequences. Here, those consequences include being sent to prison.' [@4,5]
 
 Swansea Bay News reported that both men were jailed after pleading guilty to
 producing Class B drugs. [@3]
