@@ -50,25 +50,23 @@ sources:
     publisher: Oldenburger Online Zeitung
     date: 2026-11-22
     language: de
-open_questions:
-  - The weight was given only as about 440 grams, with no more precise figure, product form or laboratory result published.
-  - No one was reported arrested; criminal proceedings were opened against the passenger and no outcome or court date was given.
-  - No proceedings or outcome were reported for the 23-year-old driver.
-  - No value or estimate was published for the cannabis.
-  - All opened accounts reproduce the same police statement, so they are not independent reporting.
+  - title: 'Polizei-News Delmenhorst, 22.11.26: Stadt Delmenhorst - größere Menge Cannabis bei Verkehrskontrolle sichergestellt'
+    url: https://www.msn.com/de-de/nachrichten/other/polizei-news-delmenhorst-221126-stadt-delmenhorst-gr%C3%B6%C3%9Fere-menge-cannabis-bei-verkehrskontrolle-sichergestellt/ar-AA2hZqtB
+    publisher: news.de
+    date: 2026-11-22
+    language: de
 ---
 
 Police in Delmenhorst, Lower Saxony, stopped a BMW carrying two people on the
 Dwoberger Straße at about 23:00 on Saturday 21 November 2026, as it drove
-towards Oldenburger Straße. [@1] The driver was a 23-year-old woman and her
-passenger a 24-year-old man, both residents of Delmenhorst. [@3] During the
+towards Oldenburger Straße. [@1,4] The driver was a 23-year-old woman and her
+passenger a 24-year-old man, both residents of Delmenhorst. [@3,4] During the
 general traffic check the officers noticed a clear smell of cannabis from inside
-the vehicle. [@1] That raised suspicion that narcotics were in the car, so the
-officers searched the 24-year-old passenger and the BMW. [@1]
+the vehicle. [@1,4] That raised suspicion that narcotics were in the car, so the
+officers searched the 24-year-old passenger and the BMW. [@1,4]
 
-The search found about 440 grams of cannabis in the car. [@2] The 24-year-old
+The search found about 440 grams of cannabis in the car. [@2,4] The 24-year-old
 also had a readily accessible irritant spray device, and police seized both it
-and the cannabis. [@1] The police inspectorate for Delmenhorst, Oldenburg-Land
+and the cannabis. [@1,4] The police inspectorate for Delmenhorst, Oldenburg-Land
 and Wesermarsch announced the stop. [@1] Criminal proceedings were initiated
-against the 24-year-old passenger. [@3]
-
+against the 24-year-old passenger. [@3,4]
