@@ -61,27 +61,24 @@ sources:
     publisher: Riviera Time
     date: 2026-11-21
     language: it
-open_questions:
-  - The police statement dates the check and arrest to the late afternoon of 5 November 2026, but the statement and all reports were published on 21 November; the gap is unexplained.
-  - The quantity is given as about 300 kg (three quintali) from the police account and repeated by the outlets; no independent weighing figure was published.
-  - No street value was published for the 300 kg of hashish.
-  - No charges have been reported; the case is at the investigation stage before the judicial authority of Savona.
-  - The statement does not say where in Spain the truck loaded, who organised the transport, or where the load was going.
-  - The driver's nationality is not stated, only that he came from Spain.
+  - title: Tre quintali di hashish nel semirimorchio, arrestato camionista a Imperia
+    url: https://www.ansa.it/liguria/notizie/2026/11/21/tre-quintali-di-hashish-nel-semirimorchio-arrestato-camionista-a-imperia_247fc823-c247-497b-b5f9-79fa20324aa9.html
+    publisher: Agenzia ANSA
+    date: 2026-11-21
+    language: it
 ---
 
 Police in Imperia stopped a 58-year-old truck driver coming from Spain at a
-motorway service area on the A10 for a routine check. [@1] Officers of the
+motorway service area on the A10 for a routine check. [@1,4] Officers of the
 Imperia traffic police noticed plastic sacks among the otherwise ordinary food
-cargo. [@1] The driver's nervousness led them to search the semi-trailer
-further. [@1] The police statement dates the arrest to the late afternoon of 5
+cargo. [@1,4] The driver's nervousness led them to search the semi-trailer
+further. [@1,4] The police statement dates the arrest to the late afternoon of 5
 November 2026, when the man was driving an articulated lorry from Spain towards
 Italy. [@2]
 
-Inside the sacks were blocks of hashish wrapped in multicoloured paper. [@1] The
+Inside the sacks were blocks of hashish wrapped in multicoloured paper. [@1,4] The
 traffic police put the haul at about 300 kilograms of hashish, three quintali.
-[@2] Riviera Time reported that the hashish travelled alongside a regular cargo
+[@2,4] Riviera Time reported that the hashish travelled alongside a regular cargo
 of food products and gave the same total of about 300 kilograms. [@3] The driver
 was taken to the Marassi prison in Genoa and placed at the disposal of the
 judicial authority in Savona. [@2]
-
