@@ -74,6 +74,11 @@ sources:
     publisher: Dainik Navajyoti
     date: 2026-11-18
     language: hi
+  - title: 'बाल सुधार गृह में मोबाइल-गांजा मिलने से मचा हड़कंप: गैंगस्टरों के नेटवर्क की आशंका पर जांच'
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/21/JUVENILE-DETENTION-CENTER-.php
+    publisher: Hindusthan Samachar
+    date: 2026-11-21
+    language: hi
 open_questions:
   - Dainik Navajyoti gives the ganja recovered as 21 grams 94 milligrams, while the accounts already cited reported 20 grams; the report keeps the earlier figure.
   - Dainik Navajyoti records the case under section 42 of the Rajasthan Prisons (Amendment) Act 2015, while the accounts already cited said a Juvenile Justice Act case; which provisions were applied is unresolved.
@@ -81,10 +86,10 @@ open_questions:
 ---
 
 Jaipur police's Commissionerate Special Team searched the juvenile correction
-home in Sethi Colony in the Transport Nagar police station area. [@2,4,5] The raid was carried out on the instructions of Jaipur Police Commissioner Sachin Mittal. [@4] The action
+home in Sethi Colony in the Transport Nagar police station area. [@2,4,5,6] The raid was carried out on the instructions of Jaipur Police Commissioner Sachin Mittal. [@4] The action
 followed complaints about juveniles using mobile phones inside the home. [@1]
 Police said they had input that some juveniles in the home were in contact with
-major gangsters who were drawing minors into gangs. [@2,3]
+major gangsters who were drawing minors into gangs. [@2,3,6] Police said they were seriously considering whether networks of gangsters such as Lawrence Bishnoi and Rohit Godara were drawing minors into crime, but no link between the phones and drugs found in the home and any particular gangster network had been proved. [@6] Special Police Commissioner Omprakash Paswan said a special team of about 50 police officers was formed to examine the juveniles' contacts and identify whom the children had been speaking with. [@6]
 
 Officers searching two rooms of the home found 20 grams of ganja along with four
 mobile phones and four charging adapters. [@2,3,4] Officers also seized a ganja-smoking chilam pipe, two empty rolling-paper covers, a lighter, a cigarette packet holding one cigarette and a broken earphone lead. [@5] About 50 CST personnel in teams
@@ -93,6 +98,6 @@ registering a case at Transport Nagar police station under provisions of the
 NDPS Act and the Juvenile Justice Act. [@1,3,4] Police registered the case at Transport Nagar police station as number 282/2026, under section 8/20 of the NDPS Act and section 42 of the Rajasthan Prisons (Amendment) Act 2015. [@5]
 
 Police said they are investigating how the banned phones and drugs reached
-inside despite tight security and who is part of the network. [@1,4] The home
+inside despite tight security and who is part of the network. [@1,4,6] The inquiry was also examining whether anyone inside the home had a role or had been negligent. [@6] Officers were examining the call detail records, contacts and other digital activity on the recovered mobile phones to find out how the banned handsets reached the juveniles. [@6] The home
 houses juveniles accused in serious offences. [@1] Earlier escapes over the wall
-and fights among inmates at the home have been reported. [@1]
+and fights among inmates at the home have been reported. [@1] More than 100 juveniles were said to have absconded from the home over time, including 22 who fled together in February 2024. [@6]
