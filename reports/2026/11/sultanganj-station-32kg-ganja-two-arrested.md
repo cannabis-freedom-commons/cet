@@ -80,6 +80,11 @@ sources:
     publisher: ETV Bharat
     date: 2026-11-21
     language: hi
+  - title: 16 लाख के गांजे के साथ पकड़े गए भाई-बहन, पहले भी 5 साल की सजा काट चुकी है आरोपी महिला
+    url: https://news4nation.com/bihar/bhagalpur/bhagalpur-sultanganj-station-brother-sister-arrested-32kg-ganja-smuggling-delhi-143802
+    publisher: News4Nation
+    date: 2026-11-21
+    language: hi
 media:
   - kind: photo
     url: https://www.prabhatkhabar.com/state/bihar/bhagalpur/sultanganj-railway-station-two-arrested-including-woman-with-32-kg-ganja-worth-16-lakh
@@ -100,20 +105,20 @@ media:
 
 The Crime Intelligence Branch (CIB) unit at Jamalpur raided platform two of
 Sultanganj railway station on Friday 20 November 2026. [@1,5,6,7,8] GRP station in-charge Naseem Ahmed said the operation followed a secret tip, that a woman and a man had been arrested, and that the remaining details would be given at a press conference. [@8] The operation followed a special drive ordered by Eastern Railway general manager Geetika Pandey and supervised by Principal Chief Security Commissioner Amiya Nandan Sinha, and CIB Jamalpur received the tip at about 8 am on 20 November. [@6] Officers seized
-32.19 kg of ganja and arrested a woman and her brother. [@1,3,4,6,7,8] At about 11:55 on 20 November officers saw two men and two women crossing the tracks from platform one towards platform two with handbags and rucksacks, and caught a man and a woman with the eight bags under the footover bridge after the other two broke away into the crowd. [@6] The two who escaped were identified as Manisha Devi, Ranjit Kumar's wife, and Judge Kumar, Renu Devi's son. [@3,6] The four bags with Renu Devi held 17 kg 200 g and the four with Ranjit Kumar held 14 kg 990 g. [@3,6] The bags were searched under the NDPS Act in the presence of a gazetted officer, and the packets were hidden among old clothes. [@6] CIB Jamalpur
+32.19 kg of ganja and arrested a woman and her brother. [@1,3,4,6,7,8,9] At about 11:55 on 20 November officers saw two men and two women crossing the tracks from platform one towards platform two with handbags and rucksacks, and caught a man and a woman with the eight bags under the footover bridge after the other two broke away into the crowd. [@6] The two who escaped were identified as Manisha Devi, Ranjit Kumar's wife, and Judge Kumar, Renu Devi's son. [@3,6] The four bags with Renu Devi held 17 kg 200 g and the four with Ranjit Kumar held 14 kg 990 g. [@3,6] The bags were searched under the NDPS Act in the presence of a gazetted officer, and the packets were hidden among old clothes. [@6] CIB Jamalpur
 inspector SK Sudha said the team acted on a tip that a ganja consignment was
 being taken from Sultanganj to Delhi on the Vikramshila Express. [@1] The pair said they had carried the consignment by road from Cooch Behar in West Bengal and planned to take it to Anand Vihar in Delhi. [@3,6]
 
 Police put the value of the ganja at about 16 lakh rupees (1.6 million) on the
-international market. [@1,3,5,6,7,8] Hindustan names the woman as Renu Devi and her
+international market. [@1,3,5,6,7,8,9] Hindustan names the woman as Renu Devi and her
 brother as Ranjit Kumar, giving her home as Gopalpur in Navgachhia and his as
 the Tikapatti police station area of Purnia district. [@1,5] The CIB team said
 Renu Devi had already served a five-year sentence in a ganja smuggling case.
-[@1,4,7,8]
+[@1,4,7,8,9]
 
 The seizure was made under the supervision of RPF assistant security
 commissioner Ajay Kumar, and after the paperwork the ganja and both accused were
-handed to the GRP in Bhagalpur. [@1,3,6,7,8] GRP registered case number 257/2026 under section 20(B)(ii)(C) of the NDPS Act and began raids to arrest the two who fled. [@3] Prabhat Khabar reports that constables
+handed to the GRP in Bhagalpur. [@1,3,6,7,8,9] GRP registered case number 257/2026 under section 20(B)(ii)(C) of the NDPS Act and began raids to arrest the two who fled. [@3] Prabhat Khabar reports that constables
 Kanhaiya Kumar and Laxmi Singh were among the railway police personnel present
 during the operation. [@2] CIB officers were questioning the two about where the
 ganja came from and who else is in the trafficking network. [@1,5,7]
