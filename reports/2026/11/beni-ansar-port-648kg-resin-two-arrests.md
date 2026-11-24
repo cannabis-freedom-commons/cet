@@ -71,24 +71,29 @@ sources:
     publisher: Kech24 (كشـ24)
     date: 2026-11-21
     language: ar
+  - title: محاولة تهريب 648 كيلو ديال لحشيش فميناء بني انصار.. ها فين كانت مخبعة (صورة)
+    url: https://www.goud.ma/%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-648-%D9%83%D9%8A%D9%84%D9%88-%D8%AF%D9%8A%D8%A7%D9%84-%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%81%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%A8-1055617/
+    publisher: كود (Goud.ma)
+    date: 2026-11-21
+    language: ar
 ---
 
 Police and customs officers at Beni Ansar port in Nador foiled two separate
 attempts to move 648 kilograms of cannabis resin on Friday 20 November 2026.
-[@1,3,4] Officers arrested two Moroccan drivers after searching their two
-foreign-registered cars during joint border controls that afternoon. [@1,4] The
+[@1,3,4,5] Officers arrested two Moroccan drivers after searching their two
+foreign-registered cars during joint border controls that afternoon. [@1,4,5] The
 competent prosecutor placed both drivers in police custody under a judicial
-investigation. [@2,4] Police said the investigation was meant to establish all the
+investigation. [@2,4,5] Police said the investigation was meant to establish all the
 circumstances of the two cases and uncover their national and international
-ramifications. [@1,4]
+ramifications. [@1,4,5]
 
 The first search found 178 kilograms of resin hidden carefully inside a load of
-food. [@1,3,4] Officers arrested the driver of that car on suspicion of involvement
-in an attempted international drug trafficking operation. [@1,4] The second search
+food. [@1,3,4,5] Officers arrested the driver of that car on suspicion of involvement
+in an attempted international drug trafficking operation. [@1,4,5] The second search
 uncovered 470 kilograms of the same substance in another car and officers
-arrested its 43-year-old driver. [@1,4] The two seizures came to 648 kilograms of
-cannabis resin in total. [@1]
+arrested its 43-year-old driver. [@1,4,5] The two seizures came to 648 kilograms of
+cannabis resin in total. [@1,5]
 
 The police statement said security services at border posts had redoubled their
 efforts to defeat international trafficking networks for drugs and psychotropic
-substances. [@1,4]
+substances. [@1,4,5]
