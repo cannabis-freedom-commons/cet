@@ -50,6 +50,11 @@ media:
     media_url: https://www.cordobahoy.es/media/cordobahoy/images/2026/11/21/2026112118164889708.jpg
     publisher: Córdoba Hoy
     caption: 'The seized marijuana plants of the two indoor plantations dismantled in a house in Encinas Reales. Photo: Guardia Civil'
+  - kind: photo
+    url: https://www.abc.es/espana/andalucia/cordoba/guardia-civil-desmantela-dos-plantaciones-marihuana-interior-20261121101616-nts.html
+    media_url: https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/21/IMG_6906-RILWcr47I3klwAavWDaO9fO-1200x840@diario_abc.JPG
+    publisher: Diario ABC
+    caption: 'Marijuana plants inside a home in Encinas Reales where the two indoor plantations were found. Photo: ABC'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 82ad122dfb284f0b724d03b09d627d86
@@ -80,6 +85,11 @@ sources:
     publisher: El Día de Córdoba
     date: 2026-11-21
     language: es
+  - title: La Guardia Civil desmantela dos plantaciones de marihuana en el interior de una vivienda de Encinas Reales
+    url: https://www.abc.es/espana/andalucia/cordoba/guardia-civil-desmantela-dos-plantaciones-marihuana-interior-20261121101616-nts.html
+    publisher: Diario ABC
+    date: 2026-11-21
+    language: es
 open_questions:
   - No date is given for the search itself; 21 November 2026 is the publication date of the accounts and that date stands in for the incident date.
   - No weight or street value was published for the 418 plants.
@@ -89,19 +99,19 @@ open_questions:
 ---
 
 The Guardia Civil arrested one person in Encinas Reales, a town in the Subbética
-of Córdoba province, on suspicion of cultivating and processing drugs. [@1,3] The
+of Córdoba province, on suspicion of cultivating and processing drugs. [@1,3,6] The
 investigation began in mid-September 2026, when officers learned that a strong
 smell of marijuana could be noticed near several houses in a neighbourhood of
-the town. [@2,4]
+the town. [@2,4,6]
 
 Officers searched the house the smell came from and found two indoor marijuana
-plantations in two rooms fitted out for growing and drying the plants. [@1,3] The
+plantations in two rooms fitted out for growing and drying the plants. [@1,3,6] The
 rooms had all the equipment needed to grow and dry the plants, the force said.
 [@1] In total officers seized 418 marijuana plants and dismantled both
-installations. [@2,3]
+installations. [@2,3,6]
 
 The arrested person was accused of a crime against public health for cultivating
 and processing drugs and of electricity fraud, because the property had an
-illegal connection to the power grid. [@1,5] The case papers were sent to the
+illegal connection to the power grid. [@1,5,6] The case papers were sent to the
 competent judicial authority, and the seized plants were kept under judicial
 custody for analysis and later destruction. [@1,3]
