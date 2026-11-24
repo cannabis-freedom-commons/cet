@@ -73,6 +73,16 @@ sources:
     publisher: 8world
     date: 2026-11-22
     language: zh
+  - title: กรมแพทย์แผนไทย เพิกถอนใบอนุญาต ร้านกัญชา 24 ราย ลุยจัดระเบียบทั่วประเทศ
+    url: https://www.khaosod.co.th/around-thailand/news_10479827
+    publisher: Khaosod
+    date: 2026-11-21
+    language: th
+  - title: กรมแพทย์แผนไทย เพิกถอนใบอนุญาต ร้านกัญชา 24 ราย ลุยจัดระเบียบทั่วประเทศ
+    url: https://www.msn.com/th-th/news/other/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%96%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8D%E0%B8%B2%E0%B8%95-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2-24-%E0%B8%A3%E0%B8%B2%E0%B8%A2-%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8/ar-AA2hU3Be
+    publisher: MSN Thailand
+    date: 2026-11-21
+    language: th
 media:
   - kind: photo
     url: https://thethaiger.com/news/national/thailand-revokes-cannabis-licences-shops-near-schools
@@ -85,19 +95,19 @@ open_questions:
 
 Thailand's Department of Thai Traditional and Alternative Medicine revoked 24
 cannabis shop licences and suspended 105 in the 2026 fiscal year, which ran from
-October 2025 to September 2026. [@1,3,4,5,6,7] The department said its officers arrested
-and prosecuted 70 people over the year. [@2,3,5,6,7]
+October 2025 to September 2026. [@1,3,4,5,6,7,8,9] The department said its officers arrested
+and prosecuted 70 people over the year. [@2,3,5,6,7,8]
 
 Across 95 enforcement operations, officials seized or impounded 10,584.9 kg of
-cannabis and related material. [@2,3,4,5,6,7] The Medical Cannabis Division estimated the
+cannabis and related material. [@2,3,4,5,6,7,8] The Medical Cannabis Division estimated the
 economic damage from the cases at 223.5 million baht. [@2,3,4,5,6,7] Bangkok has 1,710
-licensed cannabis premises, the most in the country. [@2,3,5,6,7] Officers had inspected
-1,437 of them, or 84.04%, and planned to check the remaining 273. [@1,3,5,6] On 16 September, the division checked six premises in Bangkok's Watthana district after residents raised concerns through the city's Traffy Fondue reporting platform, and said it would refer its findings to the licensing authority. [@3]
+licensed cannabis premises, the most in the country. [@2,3,5,6,7,8] Officers had inspected
+1,437 of them, or 84.04%, and planned to check the remaining 273. [@1,3,5,6,8] On 16 September, the division checked six premises in Bangkok's Watthana district after residents raised concerns through the city's Traffy Fondue reporting platform, and said it would refer its findings to the licensing authority. [@3]
 
 The department said inspections would expand nationwide in fiscal 2027, checking
 whether businesses meet the conditions of their licences to sell or process
-cannabis. [@2,5,6,7] It said premises near schools and other educational institutions
+cannabis. [@2,5,6,7,8] It said premises near schools and other educational institutions
 would get particular attention, along with public complaints needing follow-up.
-[@2,4,5,6,7] The Public Health Ministry says it aims to keep cannabis use within the
+[@2,4,5,6,7,8] The Public Health Ministry says it aims to keep cannabis use within the
 legal framework for medical purposes, prevent misuse and protect public health.
 [@2,5,6,7]
