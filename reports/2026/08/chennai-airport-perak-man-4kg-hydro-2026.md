@@ -52,20 +52,26 @@ sources:
     publisher: Astro Awani
     date: 2026-08-11
     language: ms
+  - title: 马来西亚毒品走私案，安瓦尔：空军军官涉案 | AsiaNews
+    url: https://www.asianews.it/zh/south-east-asia/malaysia/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%AF%92%E5%93%81%E8%B5%B0%E7%A7%81%E6%A1%88%E5%AE%89%E7%93%A6%E5%B0%94%E7%A9%BA%E5%86%9B%E5%86%9B%E5%AE%98%E6%B6%89%E6%A1%88
+    publisher: AsiaNews
+    date: 2026-11-21
+    language: zh
 open_questions:
-  - The article gives the detention as 'last Saturday' and is dated 11 August 2026, so 8 August 2026 is used for the incident date.
-  - No value for the 4 kg haul was published.
-  - The man is not named in the article.
-  - No court hearing or outcome has been reported; he was in Indian Customs remand.
-  - Malaysian police did not say whether he was a mule or a syndicate member; that question remained open.
-  - The article repeats the Narcotics Crime Investigation Department director's media briefing in Shah Alam on 11 August 2026 and reproduces the same account as the English-language report already cited, so it is not an independent investigation.
-  - The distance from Bangkok and the flight are given for the suspect; the article does not say where in Thailand the cannabis was bought or by whom.
-  - The 4 kg is described as hydroponic cannabis ('ganja hidroponik'); the article gives no laboratory confirmation of the substance or of the cultivation method.
+    - The article gives the detention as 'last Saturday' and is dated 11 August 2026, so 8 August 2026 is used for the incident date.
+    - The AsiaNews roundup dates the same arrest to 7 August 2026, one day earlier than the 8 August date used here.
+    - No value for the 4 kg haul was published.
+    - The man is not named in the article.
+    - No court hearing or outcome has been reported; he was in Indian Customs remand.
+    - Malaysian police did not say whether he was a mule or a syndicate member; that question remained open.
+    - The article repeats the Narcotics Crime Investigation Department director's media briefing in Shah Alam on 11 August 2026 and reproduces the same account as the English-language report already cited, so it is not an independent investigation.
+    - The distance from Bangkok and the flight are given for the suspect; the article does not say where in Thailand the cannabis was bought or by whom.
+    - The 4 kg is described as hydroponic cannabis ('ganja hidroponik'); the article gives no laboratory confirmation of the substance or of the cultivation method.
 ---
 
 Chennai Customs officers detained a 54-year-old Malaysian man from Perak at
 Chennai International Airport on Saturday 8 August 2026, after finding 4 kg of
-hydroponic cannabis in his luggage. [@1,2] He had arrived from Bangkok on Thai
+hydroponic cannabis in his luggage. [@1,2,3] He had arrived from Bangkok on Thai
 Airways flight TG 337, and Chennai Customs officers found the cannabis concealed
 inside his baggage in a thorough inspection. [@1,2]
 
@@ -84,4 +90,4 @@ as a drug mule in Thailand or Malaysia. [@1] Initial checks showed the man had
 no previous criminal record, and Malaysian police received official information
 on the arrest from India's Narcotics Control Bureau. [@1,2]
 
-The suspect was believed to have tried to leave through the Green Channel without declaring anything to customs. [@2] An X-ray scan showed a suspicious image in his checked baggage, which was then examined in detail. [@2] The inspection found four packages of greenish lumpy material with a strong, pungent smell. [@2]
+The suspect was believed to have tried to leave through the Green Channel without declaring anything to customs. [@2] An X-ray scan showed a suspicious image in his checked baggage, which was then examined in detail. [@2,3] The inspection found four packages of greenish lumpy material with a strong, pungent smell. [@2]
