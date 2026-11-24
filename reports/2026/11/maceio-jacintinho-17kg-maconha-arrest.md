@@ -39,6 +39,11 @@ media:
     media_url: https://img.cadaminuto.com.br/cadaminuto/imagens/adf293cc-dc97-4c6f-a723-ca26049c96a7.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true
     publisher: Cada Minuto
     caption: Tablets of seized marijuana laid out on the bonnet of a police car beside a 13º BPM (Polícia Militar de Alagoas) banner, showing the Jacintinho seizure. Police handout published by Cada Minuto.
+  - kind: photo
+    url: https://tribunahoje.com/noticias/policia/2026/11/22/199432-homem-e-preso-e-17-quilos-de-maconha-sao-apreendidos-no-jacintinho
+    media_url: https://img.tribunahoje.com/Qbo9eczNIZCyDb19HDgPvttu4fw=/840x520/smart/s3.tribunahoje.com/uploads/imagens/whatsapp-image-2026-11-22-at-163513.jpeg
+    publisher: Tribuna Hoje
+    caption: Tablets of seized marijuana, a police handout from the Military Police of Alagoas press office (Ascom SSP/AL), published by Tribuna Hoje.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 4a96988fb0f178d9a6661948276474d6
@@ -54,26 +59,25 @@ sources:
     publisher: Alagoas 24 Horas
     date: 2026-11-23
     language: pt
-open_questions:
-  - Both accounts give only an approximate weight of about 17 kg; no exact figure was published.
-  - No name, formal charge or court outcome was reported; the suspect was taken for legal procedures.
-  - The second suspect who escaped over the wall was not identified, and no later arrest was reported.
-  - Both accounts reproduce the Military Police of Alagoas statement and are not independent reporting.
+  - title: Homem é preso e 17 quilos de maconha são apreendidos no Jacintinho
+    url: https://tribunahoje.com/noticias/policia/2026/11/22/199432-homem-e-preso-e-17-quilos-de-maconha-sao-apreendidos-no-jacintinho
+    publisher: Tribuna Hoje
+    date: 2026-11-22
+    language: pt
 ---
 
 Military police in Maceió arrested a 33-year-old man on the morning of Sunday 22
-November 2026 and seized about 17 kilograms of marijuana. [@1] The arrest took
+November 2026 and seized about 17 kilograms of marijuana. [@1,3] The arrest took
 place at the Conjunto Claudionor Sampaio in the Jacintinho neighbourhood and was
-carried out by soldiers of the 13th Military Police Battalion (13º BPM). [@1]
+carried out by soldiers of the 13th Military Police Battalion (13º BPM). [@1,3]
 
 The officers were on an ostensible patrol when they saw two men in front of a
-residence. [@1] When the men noticed the patrol car approaching, they ran inside
-the house, dropping tablets of marijuana. [@1] The soldiers followed and
+residence. [@1,3] When the men noticed the patrol car approaching, they ran inside
+the house, dropping tablets of marijuana. [@1,3] The soldiers followed and
 detained one of the suspects, while the second escaped after climbing over the
-wall. [@2]
+wall. [@2,3]
 
 A search of the property found more marijuana tablets and a precision scale.
-[@1] The drugs found outside and inside the house amounted to about 17
-kilograms, according to the military police. [@1] The detainee was taken to the
-Central de Flagrantes with the seized material for legal procedures. [@2]
-
+[@1,3] The drugs found outside and inside the house amounted to about 17
+kilograms, according to the military police. [@1,3] The detainee was taken to the
+Central de Flagrantes with the seized material for legal procedures. [@2,3]
