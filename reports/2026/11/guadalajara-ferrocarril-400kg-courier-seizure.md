@@ -53,6 +53,11 @@ media:
     media_url: https://www.informador.mx/__export/1795226820515/sites/elinformador/img/2026/11/20/marihuana_1.jpg_278507994.jpg
     publisher: El Informador
     caption: 'The 31 boxes of suspected marijuana found at the Guadalajara courier company, in the photograph that carries the caption ''Fueron localizaron 31 cajas con presuntamente marihuana''. Credit: CORTESÍA'
+  - kind: photo
+    url: https://www.imagentv.com/estados/guadalajara/aseguran-30-cajas-mas-de-200-kilos-de-cannabis-empresa-de-mensajeria
+    media_url: https://imagenes.imagentv.com/files/main_image_767_432/uploads/2026/11/20/6b01237420c02.jpeg
+    publisher: Imagen Televisión
+    caption: About 30 large boxes of suspected marijuana secured by Jalisco police, forensic experts and K9 teams inside a Guadalajara courier company after workers reported a strong smell of marijuana.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 256a951911465ab7f57ce8bde3d15977
@@ -118,8 +123,14 @@ sources:
     publisher: Quadratín Tabasco
     date: 2026-11-20
     language: es
+  - title: Aseguran 30 cajas con más de 200 kilos de cannabis en empresa de mensajería
+    url: https://www.imagentv.com/estados/guadalajara/aseguran-30-cajas-mas-de-200-kilos-de-cannabis-empresa-de-mensajeria
+    publisher: Imagen Televisión
+    date: 2026-11-20
+    language: es
 open_questions:
-  - The new accounts place the courier company in colonia San Carlos, while the report's sources place it in colonia Ferrocarril, Guadalajara.
+    - The new accounts place the courier company in colonia San Carlos, while the report's sources place it in colonia Ferrocarril, Guadalajara.
+    - Imagen Televisión reports a preliminary weight of over 200 kilograms in about 30 boxes, while the other sources put the load at 400 kilograms in 31 boxes.
 ---
 
 Jalisco state police seized about 400 kilograms of marijuana at a courier
@@ -131,7 +142,7 @@ found 31 cardboard boxes matching the description in the tip. [@2,7,11] Inside t
 parcels were 558 blocks of plant material with the characteristics of marijuana.
 [@2,7,11] The load weighed about 400 kilograms in total. [@2,11]
 
-The inspection was carried out with canine teams from the K9 unit. [@2,7,8] Shipping
+The inspection was carried out with canine teams from the K9 unit. [@2,7,8,13] Shipping
 labels on the boxes said the shipment came from Tlaquepaque and was addressed to
 Monterrey, Nuevo León. [@3] The marijuana was already packaged and ready to be
 sent to another state. [@6] The parcels contained green plant material with the
