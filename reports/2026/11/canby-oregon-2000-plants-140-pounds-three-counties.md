@@ -146,22 +146,27 @@ sources:
     url: https://kcby.com/news/local/gallery/multi-county-illegal-grow-raid-nets-2000-marijuana-plants-guns-191k-cash-luxury-watches-gold-canby-clackamas-yamhill-multnomah-oregon?photo=2
     publisher: KCBY
     date: 2026-11-19
+  - title: Multi-county illegal grow raid nets 2,000 marijuana plants, guns, $191K cash & more
+    url: https://kpic.com/news/local/multi-county-illegal-grow-raid-nets-2000-marijuana-plants-guns-191k-cash-luxury-watches-gold-canby-clackamas-yamhill-multnomah-oregon
+    publisher: KPIC
+    date: 2026-11-19
+    language: en
 ---
 
 Canby police interviewed five suspects in connection with an illegal marijuana
 grow operation and the case was to be sent to the Clackamas County District
-Attorney's Office for prosecution. [@2,3,4,5,6,14,17] Canby police told KOIN 6 News they
+Attorney's Office for prosecution. [@2,3,4,5,6,14,17,19] Canby police told KOIN 6 News they
 opened the investigation after a complaint about a grow operation outside the
 city and executed two search warrants. [@1,3,5] Canby Police said the warrants
 covered the original complaint site, two other locations in Clackamas County,
-two in Multnomah County and one in Yamhill County. [@2,4,5,6,9,14,16]
+two in Multnomah County and one in Yamhill County. [@2,4,5,6,9,14,16,19]
 
 Investigators seized approximately 2,000 marijuana plants, approximately 140
 pounds (about 63.5 kilograms) of processed marijuana, eight firearms, two
 firearm suppressors, $191,384 in cash, two luxury watches and approximately
-$20,000 in gold. [@2,4,5,7,8,9,10,11,12,14,15,17] Canby Police released three search-warrant photographs with the account of the multi-county raid. [@13,18]
+$20,000 in gold. [@2,4,5,7,8,9,10,11,12,14,15,17,19] Canby Police released three search-warrant photographs with the account of the multi-county raid. [@13,18]
 
 The Canby Police Department was assisted by the Clackamas County Interagency
 Task Force, the Clackamas County SWAT team and the Yamhill County Street Crimes
-and Narcotics team. [@2,4,7,17] Police said workers at illegal grow operations are
-often victims of human trafficking and live in squalid conditions. [@2,7] Canby Police said the operations often involve dangerous wiring that is a fire hazard, dumping of trash and chemicals that leach into waterways, and dogs kept for security that are often neglected and mistreated. [@17]
+and Narcotics team. [@2,4,7,17,19] Police said workers at illegal grow operations are
+often victims of human trafficking and live in squalid conditions. [@2,7,19] Canby Police said the operations often involve dangerous wiring that is a fire hazard, dumping of trash and chemicals that leach into waterways, and dogs kept for security that are often neglected and mistreated. [@17,19]
