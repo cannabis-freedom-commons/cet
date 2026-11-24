@@ -44,27 +44,32 @@ sources:
     url: https://antilliaansdagblad.com/article/aruba/20260814/grote-drugsvangst-op-zee-bij-aruba
     publisher: Antilliaans Dagblad
     date: 2026-08-14
+  - title: Police seize large quantity of drugs and cash; two men arrested
+    url: https://www.noticiacla.com/news/39398
+    publisher: NoticiaCla
+    date: 2026-08-13
+    language: en
 open_questions:
-  - No quantity or weight was published for the seized marijuana, so no cannabis weight is recorded.
-  - No separate cannabis-only quantity was published because the seizure involved both marijuana and cocaine, so the cocaine component is excluded from the figures.
-  - No amount was published for the large sum of money reported seized.
-  - No charges, pleas or court outcomes were reported.
-  - Only initials were published for the arrested Colombian national, and no identities were published for the three people arrested in Seroe Blanco.
+    - No quantity or weight was published for the seized marijuana, so no cannabis weight is recorded.
+    - No separate cannabis-only quantity was published because the seizure involved both marijuana and cocaine, so the cocaine component is excluded from the figures.
+    - No amount was published for the large sum of money reported seized.
+    - No charges, pleas or court outcomes were reported.
+    - Only initials were published for the arrested Colombian national, and no identities were published for the three people arrested in Seroe Blanco.
+    - The NoticiaCla headline says two men were arrested, while the report counts four and the named arrest of R.R.A.M. brings the total picked up in the case to five; the accounts do not say which people are counted as arrested rather than detained.
 ---
 
-On the evening of 5 August, police arrested Colombian national E.R.G. [@1]
+On the evening of 5 August, police arrested Colombian national E.R.G. [@1,2]
 During a court-authorized raid on a property in Seroe Blanco, police arrested
-three people without valid residence documents. [@1] The three people arrested
-in Seroe Blanco were handed over to the coast guard. [@1]
+three people without valid residence documents. [@1,2] The three people arrested
+in Seroe Blanco were handed over to the coast guard. [@1,2]
 
-The authorities seized a large quantity of drugs at sea off Aruba. [@1] The
-authorities seized marijuana and cocaine at sea off Aruba. [@1] Police also
-seized a large amount of money in connection with the case. [@1] A large amount
-of money was found during an arrest at a property on Johan de Wittstraat. [@1]
+The authorities seized a large quantity of drugs at sea off Aruba. [@1,2] The
+authorities seized marijuana and cocaine at sea off Aruba. [@1,2] Police also
+seized a large amount of money in connection with the case. [@1,2] A large amount
+of money was found during an arrest at a property on Johan de Wittstraat. [@1] On 13 August 2026, the Arrest Team detained R.R.A.M., a man born in Aruba, at a property on Johan de Wittstraat. [@2]
 
 The operation involved the Narcotics Unit, the Organized Crime Unit, the coast
-guard, the Arrest Team and the K9 unit. [@1] The operation took place on 5
+guard, the Arrest Team and the K9 unit. [@1,2] The operation took place on 5
 August and was announced by police the following week. [@1] Police said the sea
 seizure and the follow-up operations were part of the same drug investigation.
 [@1] Police said they are continuing to investigate the case. [@1]
-
