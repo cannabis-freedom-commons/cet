@@ -107,11 +107,18 @@ sources:
     publisher: Express Kerala
     date: 2026-11-22
     language: ml
+  - title: ചേർത്തലയിൽ 13 കിലോയോളം കഞ്ചാവുമായി യൂത്ത് കോൺഗ്രസ് നേതാവടക്കം എട്ടംഗ സംഘം പിടിയിൽ
+    url: https://thekarmanews.com/eight-member-gang-including-youth-congress-leader-arrested-with-13-kg-of-ganja-in-cherthala/
+    publisher: Karma News
+    date: 2026-11-22
+    language: ml
+open_questions:
+    - 'Accounts differ on which check Shameer was caught in: this account places him among the five in the car at Makkekadavu, while some earlier reporting put him with the three stopped near Palliveli junction.'
 ---
 
 Eight men were arrested in the case, among them a local Youth Congress leader.
-[@4,13] The five occupants of a car stopped at Makkekadavu junction in Poochakkal
-were found with 11.6 kg of ganja packed in bags. [@3,6,7,8,9,10,11,12,14,15] The four other men in the car were Ali Jauhar, 24, and Krishnakumar, 23, both from Manappuram, and Salahudeen Ayoob, 24, and Mohammed Aslam, 23, both from Poochakkal. [@6,9,11,12,15] The car was intercepted at
+[@4,13,16] The five occupants of a car stopped at Makkekadavu junction in Poochakkal
+were found with 11.6 kg of ganja packed in bags. [@3,6,7,8,9,10,11,12,14,15,16] The four other men in the car were Ali Jauhar, 24, and Krishnakumar, 23, both from Manappuram, and Salahudeen Ayoob, 24, and Mohammed Aslam, 23, both from Poochakkal. [@6,9,11,12,15,16] The car was intercepted at
 about 10.50 pm on Saturday while it travelled from Cherthala to Arookutty. [@2,5,7,8,10,14] Police said they acted on a tip-off when they stopped the car. [@8,10] The check was carried out jointly by the Alappuzha district DANSAF team and Poochakkal police. [@5,6,12]
 Earlier that evening, at about 4 pm, three other men were arrested with 1.270 kg
 of ganja near Palliveli junction, and questioning them led police to the car.
