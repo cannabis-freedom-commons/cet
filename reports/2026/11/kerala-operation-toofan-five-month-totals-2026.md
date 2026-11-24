@@ -64,6 +64,11 @@ sources:
     url: https://www.thehansindia.com/news/national/youth-congress-leader-among-five-arrested-after-kerala-police-seize-116-kg-ganja-in-alappuzha-1144655
     publisher: The Hans India
     date: 2026-11-22
+  - title: Youth Congress leader among five arrested after Kerala Police seize 11.6 kg ganja in Alappuzha
+    url: https://www.thehawk.in/news/states-and-uts/kerala/youth-congress-leader-among-five-arrested-after-kerala-police-seize-116-kg-ganja-in-alappuzha
+    publisher: The Hawk
+    date: 2026-11-22
+    language: en
 open_questions:
   - The sources give the totals for the first five months of Operation Toofan but not a separate date for the press conference beyond the 4 November 2026 publication date.
   - No area of cannabis fields destroyed, street value of the cannabis, or number of people still in custody beyond the 1,173 remanded was published.
@@ -109,7 +114,7 @@ through drug trafficking. [@1,4] The police said they acted on information from
 8,125 phone calls and 5,668 WhatsApp messages from the public. [@1,4] The
 operation combines enforcement with prevention and rehabilitation, including a
 Toofan Local Government 2.0 programme to find drug users and offer counselling,
-treatment and rehabilitation. [@1,4] Police said surveillance cameras linked to
+treatment and rehabilitation. [@1,4] Police reported 12,192 drug awareness classes, 1,180 counselling sessions and 8,461 awareness programmes by school and college protection groups during the campaign. [@6] Police said surveillance cameras linked to
 police stations would be installed in government schools under a Toofan ICE
 project. [@1] Inspector General Putta Vimaladitya said the drive was launched on
 2 June. [@3]
