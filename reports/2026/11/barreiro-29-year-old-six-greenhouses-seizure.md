@@ -35,6 +35,11 @@ sources:
     publisher: SAPO
     date: 2026-11-20
     language: pt
+  - title: Barreiro – Prisão preventiva – Por agressão a agente de autoridade – . Tráfico droga e maus tratos a animais - Rostos
+    url: https://www.rostos.pt/quotidianos/10000170-barreiro-prisao-preventiva-por-agressao-a-agente-de
+    publisher: Jornal Rostos
+    date: 2026-11-21
+    language: pt
 open_questions:
     - 'Accounts differ on the announcement date: one brief says the PSP announced the detention on 20 November, while another dates the detention itself to 19 November 2026.'
     - No count of cannabis plants was published, only six greenhouses and 32 seeds.
@@ -47,14 +52,14 @@ open_questions:
 ---
 
 PSP officers detained a 29-year-old man in Barreiro on suspicion of drug
-trafficking and the manufacture and cultivation of narcotics. [@1,2] The PSP dated the detention to 19 November. [@3] The suspect
+trafficking and the manufacture and cultivation of narcotics. [@1,2] The detention was carried out by the PSP's Setúbal District Command through the Barreiro police station, with the man caught in flagrante delicto. [@4] The PSP dated the detention to 19 November. [@3,4] The suspect
 was also accused of mistreatment of companion animals and crimes against public
-authority. [@1,2] The animal found at the premises was sent to the Barreiro municipal kennel for assessment and treatment. [@2,3] Officers had gone to a warehouse in Barreiro after a complaint about noise and the suspect attacked one of them with a wooden stick, the PSP said. [@2,3]
+authority. [@1,2] The animal found at the premises was sent to the Barreiro municipal kennel for assessment and treatment. [@2,3,4] Officers had gone to a warehouse in Barreiro after a complaint about noise and the suspect attacked one of them with a wooden stick, the PSP said. [@2,3,4]
 
 The police intervention seized six greenhouses together with fans, LED lamps and
 controllers, as well as thermometers, fertilisers and other material intended
-for cultivation. [@1,2] Officers also seized liamba, amphetamines and cannabis of
-different varieties during the same operation. [@1,2] Officers weighed the liamba at 454.67 grams and also seized 32 cannabis seeds, 7.70 grams of amphetamines and 7.70 grams of MDMA/ecstasy. [@2,3] The seizure list also
+for cultivation. [@1,2,4] Officers also seized liamba, amphetamines and cannabis of
+different varieties during the same operation. [@1,2] Officers weighed the liamba at 454.67 grams and also seized 32 cannabis seeds, 7.70 grams of amphetamines and 7.70 grams of MDMA/ecstasy. [@2,3,4] The seizure list also
 included a precision scale, a vacuum-sealing machine, four mobile phones, two
 knives and a cleaver bearing residues of narcotics. [@1]
 
@@ -62,5 +67,5 @@ Alongside cultivation equipment and drugs, officers seized money and luxury
 articles including two luxury watches, a Rolex and a Breitling described as
 valued in the thousands of euros. [@1] The police inventory also listed cash,
 the two Rolex and Breitling watches, a ring and a necklace among the seized
-items. [@1] The PSP put the cash seized at 405 euros. [@3] The investigation was continuing after the detention and seizures.
-[@1] The man was held in pre-trial detention (prisão preventiva). [@2,3]
+items. [@1] The PSP put the cash seized at 405 euros. [@3,4] The investigation was continuing after the detention and seizures.
+[@1] The man was held in pre-trial detention (prisão preventiva). [@2,3,4]
