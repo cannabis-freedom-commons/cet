@@ -58,25 +58,37 @@ sources:
     publisher: بوابة الدولة
     date: 2026-11-22
     language: ar
+  - title: «ديلر تحت السن».. ضبط طالب بالجيزة أنشأ صفحة على مواقع التواصل لبيع الحشيش - يوليو
+    url: https://www.youlyou.com/100322
+    publisher: يوليو
+    date: 2026-11-22
+    language: ar
 open_questions:
-  - No weight, value or laboratory confirmation was given for the hashish found with the student.
-  - The article gives no separate date for the arrest; 22 November 2026 is the date of the Interior Ministry statement and of publication.
-  - The sources do not say whether the student was charged or referred to prosecutors, only that legal measures were taken.
-  - The three accounts reproduce the same Interior Ministry statement and are not independent reporting.
-  - Youm7 describes the case as drug trafficking while the ministry statement speaks of promoting sales, and no charge is specified.
+    - No weight, value or laboratory confirmation was given for the hashish found with the student.
+    - The article gives no separate date for the arrest; 22 November 2026 is the date of the Interior Ministry statement and of publication.
+    - The sources do not say whether the student was charged or referred to prosecutors, only that legal measures were taken.
+    - The four accounts reproduce the same Interior Ministry statement and are not independent reporting.
+    - Youm7 describes the case as drug trafficking while the ministry statement speaks of promoting sales, and no charge is specified.
+    - The Youlyou headline calls the suspect an 'underage dealer' (ديلر تحت السن), but the article body gives no age and describes him only as a student.
+media:
+  - kind: photo
+    url: https://www.youlyou.com/100322
+    media_url: https://media.youlyou.com/2026/11/Landscape-1/3070249143280202611220428582858.jpg
+    publisher: يوليو
+    caption: Photograph captioned 'the accused' (المتهم), published with the report of the Boulak El-Dakrour student's arrest.
 ---
 
 Security services arrested a student in the Boulak El-Dakrour police station
 district of Giza governorate, accusing him of running a social media page that
-promoted the sale of drugs for money. [@1,4] The Interior Ministry said in a
+promoted the sale of drugs for money. [@1,4,5] The Interior Ministry said in a
 statement on Sunday that security services had spotted a person running a page
 on social media to promote the sale of drugs in exchange for money. [@1]
 Detectives identified the person running the page and arrested him after
-spotting the page being used to advertise drugs for sale. [@3,4]
+spotting the page being used to advertise drugs for sale. [@3,4,5]
 
 The man arrested was a student living in the Boulak El-Dakrour police station
 district of Giza. [@2] A mobile phone was found in his possession, and a check
 showed it contained evidence confirming his criminal activity, along with a
-quantity of hashish. [@1,4] Confronted with the findings, the suspect admitted
+quantity of hashish. [@1,4,5] Confronted with the findings, the suspect admitted
 creating and running the page to promote the sale of the drugs seized from him.
-[@1,4] The ministry said the necessary legal measures had been taken. [@1,4]
+[@1,4,5] The ministry said the necessary legal measures had been taken. [@1,4]
