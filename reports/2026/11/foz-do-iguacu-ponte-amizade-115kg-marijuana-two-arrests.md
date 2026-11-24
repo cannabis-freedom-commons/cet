@@ -56,27 +56,25 @@ sources:
     publisher: Toledo News
     date: 2026-11-20
     language: pt
-open_questions:
-  - The material was described as marijuana and as a marijuana-like pressed substance, with no laboratory confirmation reported.
-  - The weight is given as approximately 115 kilograms, not an exact measured figure.
-  - The driver and the passenger were identified only as Paraguayan nationals, with no names or ages published.
-  - No charge, detention measure or court outcome beyond the arrests and referral to the Federal Police was reported.
-  - Both accounts reproduce the same Receita Federal statement, so the event rests on one official account.
+  - title: Analistas-Tributários atuam na apreensão de 115 kg de maconha no Paraná
+    url: https://sindireceita.org.br/noticias/2026/11/21/analistas-tributarios-atuam-na-apreensao-de-115-kg-de-maconha-em-fundos-falsos-de-veiculo-na-ponte-da-amizade
+    publisher: Sindireceita
+    date: 2026-11-21
+    language: pt
 ---
 
 Two Paraguayans were arrested in the act at the Friendship Bridge in Foz do
 Iguaçu on the morning of Friday 20 November 2026 while carrying about 115
-kilograms of marijuana in a car with Paraguayan plates. [@1] The driver and the
-passenger, both Paraguayan nationals, were arrested in the act. [@1] Federal
+kilograms of marijuana in a car with Paraguayan plates. [@1,3] The driver and the
+passenger, both Paraguayan nationals, were arrested in the act. [@1,3] Federal
 revenue officers stopped the car at about 7 a.m. during a routine inspection at
-the Brazilian customs post. [@1]
+the Brazilian customs post. [@1,3]
 
-Officers noticed signs that the structure of the vehicle had been altered. [@1]
+Officers noticed signs that the structure of the vehicle had been altered. [@1,3]
 A detailed search found hidden compartments in false floors beneath the front
-seats, where the drug load was concealed. [@1] The federal revenue service said
+seats, where the drug load was concealed. [@1,3] The federal revenue service said
 the officers seized approximately 115 kilograms of pressed marijuana-like
-substance. [@2]
+substance. [@2,3]
 
-The two were taken with the seized drug to the Federal Police station. [@1] The
-car was to be sent for forensic examination as part of the investigation. [@1]
-
+The two were taken with the seized drug to the Federal Police station. [@1,3] The
+car was to be sent for forensic examination as part of the investigation. [@1,3]
