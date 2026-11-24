@@ -57,27 +57,26 @@ sources:
     publisher: Buxar Khabar
     date: 2026-11-20
     language: hi
+  - title: Smuggler arrested with 410 grams of ganja
+    url: https://www.bhaskar.com/local/bihar/buxar/news/smuggler-arrested-with-410-grams-of-ganja-dbp-139750545.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-21
+    language: hi
 open_questions:
-  - The 410 grams was described as ganja; no laboratory confirmation was reported.
-  - No value estimate for the seized ganja was published.
-  - Buxar Khabar gives the suspect's name as Kamlesh Kumar Singh, while Prabhat Khabar and Dainik Bhaskar give it as Kamlesh Kumar.
-  - The reports do not say which section of the NDPS Act was applied.
-  - Whether the suspect remained in custody or was granted bail after being sent to jail was not reported.
-  - The three accounts draw on the same Mufassil police statement and the same sub-inspector's account, so they are not independent reporting.
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: Police said they acted after verifying a tip received on the Manas portal.'
-  - 'Left out, as its quotation was not found in Dainik Bhaskar: Sub-inspector Awadhesh Kumar said a case was registered against him under the Narcotic Drugs and Psychotropic Substances Act and that he was produced in court.'
-  - Left out case stage, as its quotation was not found in Dainik Bhaskar.
-  - Left out charges, as its quotation was not found in Dainik Bhaskar.
-  - Left out setting, as its quotation was not found in Dainik Bhaskar.
-  - Left out arrested, as its only supporting source is not cited by the report's text.
+    - The 410 grams was described as ganja; no laboratory confirmation was reported.
+    - No value estimate for the seized ganja was published.
+    - Buxar Khabar gives the suspect's name as Kamlesh Kumar Singh, while Prabhat Khabar and Dainik Bhaskar give it as Kamlesh Kumar.
+    - The reports do not say which section of the NDPS Act was applied.
+    - Whether the suspect remained in custody or was granted bail after being sent to jail was not reported.
+    - These accounts draw on the same Mufassil police statement and the same sub-inspector's account, so they are not independent reporting.
 ---
 
 Police from the Mufassil police station in Buxar district arrested Kamlesh
-Kumar, also known as Shailesh Kumar, at a house in Jaso village. [@1] The raid
+Kumar, also known as Shailesh Kumar, at a house in Jaso village. [@1,3] The raid
 took place on the evening of Thursday 19 November 2026, at a house in front of
 the Krishna Amrit marriage hall. [@2] Officers seized 410 grams of ganja, 2,935
 rupees in cash and a plastic bag used to make the small packets in which the
-drug was sold. [@1] The arrested man is the son of Santosh Ram, also known as
+drug was sold. [@1,3] The arrested man is the son of Santosh Ram, also known as
 Munna Ram, a resident of Jaso. [@1]
 
 According to the police account, the man had long been selling ganja in small
@@ -88,4 +87,3 @@ suspected to be money earned from ganja sales. [@1]
 The suspect was sent to jail on Friday 20 November after the paperwork was
 completed. [@2] Police said they were investigating other people linked to the
 trade and where the ganja came from. [@2]
-
