@@ -54,6 +54,26 @@ media:
     media_url: https://images.vrt.be/vrtnws_web/2026/09/21/204b1bdc-3ce4-47fc-955f-5fc44456148a.webp?width=800&height=450
     publisher: VRT NWS
     caption: 'Third photo released by the Belgian Federal Police of the international operation against drug trafficking. Photo: Belgian Federal Police, via VRT NWS'
+  - kind: photo
+    url: https://semanariouniversidad.com/pais/costa-rica-concentra-375-de-las-490-detenciones-en-35-paises-participantes-de-la-operacion-atlas-nexus/
+    media_url: https://semanariouniversidad.com/wp-content/uploads/2026/09/Extradicion-Pecho-de-Rata-y-Celso-Gamboa-1024x576.jpg
+    publisher: Semanario Universidad
+    caption: 'Image illustrating the Atlas Nexus operation''s OIJ action against drug-trafficking networks with links to Europe; file named for the extradition of Pecho de Rata and Celso Gamboa. Photo: Ministerio Público / Embajada de la Unión Europea'
+  - kind: photo
+    url: https://semanariouniversidad.com/pais/costa-rica-concentra-375-de-las-490-detenciones-en-35-paises-participantes-de-la-operacion-atlas-nexus/
+    media_url: https://semanariouniversidad.com/wp-content/uploads/2026/09/Detencion-Diablo-3-225x300.jpg
+    publisher: Semanario Universidad
+    caption: 'An OIJ police vest among the goods seized during the Atlas Nexus operations. Photo: Ministerio Público / Embajada de la Unión Europea'
+  - kind: photo
+    url: https://semanariouniversidad.com/pais/costa-rica-concentra-375-de-las-490-detenciones-en-35-paises-participantes-de-la-operacion-atlas-nexus/
+    media_url: https://semanariouniversidad.com/wp-content/uploads/2026/09/Decomiso-225x300.jpg
+    publisher: Semanario Universidad
+    caption: 'Packages of drugs seized during the Atlas Nexus operation. Photo: Ministerio Público / Embajada de la Unión Europea'
+  - kind: photo
+    url: https://semanariouniversidad.com/pais/costa-rica-concentra-375-de-las-490-detenciones-en-35-paises-participantes-de-la-operacion-atlas-nexus/
+    media_url: https://semanariouniversidad.com/wp-content/uploads/2026/09/Decomiso-8-300x169.jpg
+    publisher: Semanario Universidad
+    caption: 'A firearm found beside a bed during one of the Atlas Nexus raids. Photo: Ministerio Público / Embajada de la Unión Europea'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2c2660a08415045920e62cbf67d07296
@@ -73,6 +93,11 @@ sources:
     publisher: VRT NWS
     date: 2026-09-22
     language: fr
+  - title: Costa Rica concentra 375 de las 490 detenciones en 35 países participantes de la Operación Atlas Nexus
+    url: https://semanariouniversidad.com/pais/costa-rica-concentra-375-de-las-490-detenciones-en-35-paises-participantes-de-la-operacion-atlas-nexus/
+    publisher: Semanario Universidad
+    date: 2026-09-22
+    language: es
 open_questions:
   - The sources give no single date for the operation. The incident date is the Belgian Federal Police's announcement of 21 September 2026 reported by CNNBS; Frontex published its release on 23 September 2026.
   - The more than 490 arrests cover the whole multi-crime operation, not cannabis offences alone; no cannabis-specific arrest count was published.
@@ -83,16 +108,17 @@ open_questions:
   - The article reports 157 tonnes of drugs in total, while the Frontex release already cited puts the figure at 156.9 tonnes; the report keeps the original figure.
   - The text says the 157 tonnes was cocaine in one passage and lists 118.6 tonnes of cannabis in another; the cannabis weight is taken from the itemised seizure list.
   - The article mentions the first cocaine-processing laboratory detected in Ireland and two illegal gold-mining sites in French Guiana, neither cannabis-related.
+  - The Costa Rican account counts 35 participating countries, whereas the Frontex-based report counts 34.
 ---
 
 Operation ATLAS NEXUS, a joint police operation across Europe, Latin America and
 the Caribbean, resulted in more than 490 arrests and the dismantling of dozens
-of criminal networks. [@1,3] Officers from 34 countries took part with more than
+of criminal networks. [@1,3,4] Officers from 34 countries took part with more than
 8,680 police and judicial officers. [@1,3] The operation was led by Belgium's
 Federal Police and co-coordinated by EMPACT Operational Action 6.1, Frontex and
-CARICOM IMPACS, an agency of the Caribbean Community. [@1] The operation
+CARICOM IMPACS, an agency of the Caribbean Community. [@1,4] The operation
 targeted drug trafficking, trafficking in human beings, document fraud, firearms
-trafficking and environmental crime. [@1]
+trafficking and environmental crime. [@1,4] A preparatory coordination meeting was held in Panama in April 2026, where participating agencies set the operational plan and identified high-value targets and criminal methods. [@4]
 
 Participating authorities seized 118.6 tonnes of cannabis as part of 156.9
 tonnes of drugs, alongside 37.6 tonnes of cocaine. [@1,3] The Dutch cannabis news
@@ -106,9 +132,9 @@ Property, jewellery and other criminal proceeds were seized from the networks,
 including 17 Red Notices. [@1]
 
 In Costa Rica authorities seized more than 27 tonnes of drugs and arrested 375
-people. [@1,3] The Costa Rican judicial investigation agency OIJ took 24,500 kilos
+people. [@1,3,4] The operation also detained six people facing extradition proceedings and carried out six transfers of detainees requested by other countries. [@4] The Costa Rican judicial investigation agency OIJ took 24,500 kilos
 of cocaine and 3,200 kilos of cannabis from the network, which was smuggling
-cocaine from Colombia toward Europe. [@2] In Paraguay authorities seized a
+cocaine from Colombia toward Europe. [@2,4] The Costa Rican investigation revealed links between the trafficking structure and business and police sectors. [@4] Reports on the Riverside case identified the network's alleged legal representative as former magistrate and former security minister Celso Gamboa, who was extradited to the United States with Edwin López Vega, alias Pecho de Rata, in March 2026. [@4] In Paraguay authorities seized a
 record 104.96 tonnes of cannabis. [@1,3] Portuguese authorities seized more than 3
 tonnes of cocaine on the coast after a speedboat transferred bales to smaller
 boats, and recovered 2 tonnes more from bales found adrift at sea. [@1] In
@@ -118,4 +144,4 @@ detected in the country. [@1]
 Frontex deployed its officers at air, land and sea borders and provided vessel
 tracking and Copernicus surveillance support to the coordination centre. [@1]
 
-In Costa Rica, 14 victims were rescued alongside the 375 arrests. [@3] Three federal judicial police officers from Liège led the operation, two of them working from the international command centre in Trinidad and Tobago. [@3] No police operation or arrest took place in Belgium itself, and no Belgian national was arrested elsewhere in the operation. [@3]
+In Costa Rica, 14 victims were rescued alongside the 375 arrests. [@3,4] Another person detained in Costa Rica was described as one of the country's most wanted fugitives, Alejandro Arias Monge, alias Diablo, who had been free for a decade with arrest warrants in Costa Rica and from the DEA. [@4] Three federal judicial police officers from Liège led the operation, two of them working from the international command centre in Trinidad and Tobago. [@3] No police operation or arrest took place in Belgium itself, and no Belgian national was arrested elsewhere in the operation. [@3]
