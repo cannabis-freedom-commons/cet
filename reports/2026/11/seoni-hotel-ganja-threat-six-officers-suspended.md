@@ -124,6 +124,9 @@ sources:
     publisher: TV9 Telugu
     date: 2026-11-18
     language: te
+  - title: '"Plant Marijuana On Boy": Madhya Pradesh Police Accused Of Threatening Couple During Hotel Raid'
+    url: https://www.ndtv.com/shorts/plant-marijuana-on-boy-madhya-pradesh-police-accused-of-threatening-couple-during-hotel-raid-1193285
+    publisher: NDTV
 open_questions:
     - The traffic inspector accused of demanding monthly payments is named Vijay Tiwari in the IANS account and Vijay Baghel in other reports.
     - Accounts differ on whether the Additional SP told hotel staff or his own police team to arrange the cannabis.
@@ -137,7 +140,7 @@ open_questions:
 Six Madhya Pradesh police officers, including an Additional Superintendent of
 Police, a sub-divisional police officer and an inspector, were suspended on 18
 November 2026 over threats to plant marijuana on a young couple during a search
-at a private hotel in Seoni. [@1,5,8,10,14,15,16,17] Chief Minister Mohan Yadav ordered the
+at a private hotel in Seoni. [@1,5,8,10,14,15,16,17,20] Chief Minister Mohan Yadav ordered the
 suspensions after CCTV footage from the hotel lobby circulated widely that day.
 [@1,8] The clip was dated 13 November 2026 and, according to India Today, was
 recorded during the confrontation at the hotel. [@2,7,10,11] The six were Additional SP
