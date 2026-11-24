@@ -178,21 +178,26 @@ sources:
     url: https://gulfnews.com/world/mena/syria-destroys-400-million-captagon-pills-seized-in-raids-1.500756941
     publisher: Gulf News
     date: 2026-11-22
+  - title: إتلاف 400 مليون حبة كبتاغون وكميات كبيرة من المخدرات في سوريا
+    url: https://alwatan.sy/%D8%A5%D8%AA%D9%84%D8%A7%D9%81-400-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AD%D8%A8%D8%A9-%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%88%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9/
+    publisher: صحيفة الوطن السورية
+    date: 2026-11-22
+    language: ar
 ---
 
 Syria's Anti-Narcotics Directorate announced on Sunday 22 November 2026 that a
 joint committee of the interior, justice and health ministries had destroyed
-large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15,16,17,18,19,20,21,22,23] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15,17,20,21,22,23,24] The quantities
+large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15,17,20,21,22,23,24,25] The quantities
 were destroyed in batches under approved legal and environmental procedures.
 [@4,16] The directorate described the destruction as reflecting integrated national
-efforts against drugs. [@2]
+efforts against drugs. [@2,25]
 
 The destroyed material included 12.2 tonnes of hashish and 2.3 tonnes of
-cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24] The same batches included
+cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25] The same batches included
 400 million Captagon pills, 6 kilograms of heroin and 5.4 million other narcotic
-pills, none of which is counted as cannabis. [@3,5,6,8,9,11,12,13,14,15,16,17,18,20,21,22,23,24] The directorate also destroyed
+pills, none of which is counted as cannabis. [@3,5,6,8,9,11,12,13,14,15,16,17,18,20,21,22,23,24,25] The directorate also destroyed
 equipment and chemicals used to smuggle, conceal, transport and manufacture the
-drugs. [@1,6,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24]
+drugs. [@1,6,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25]
 
 Interior Minister Anas Khattab said the quantities were among the largest
 destroyed since Bashar al-Assad's government fell in December 2024. [@4,7]
