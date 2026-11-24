@@ -50,29 +50,39 @@ sources:
     publisher: Daily Janmobhumi
     date: 2026-11-21
     language: bn
+  - title: নাভারণ হাইওয়ে পুলিশের চেকপোস্টে ১ কেজি ২৫০ গ্রাম গাঁজাসহ যুবক আটক
+    url: https://www.gramerkagoj.com/country-news/317926
+    publisher: Gramerkagoj
+    date: 2026-11-21
+    language: bn
 open_questions:
-  - No value or street estimate was published for the 1.25 kg of ganja.
-  - No charge section, case number or court date was published; the case was at the investigation stage.
-  - Whether Ikramul Islam was produced before a court or remanded, and which station is investigating, is not reported.
-  - The 1.25 kg was described as ganja, with no laboratory confirmation reported.
-  - Both accounts draw on the same highway police statement and are not independent reporting.
+    - No value or street estimate was published for the 1.25 kg of ganja.
+    - No charge section, case number or court date was published; the case was at the investigation stage.
+    - Whether Ikramul Islam was produced before a court or remanded, and which station is investigating, is not reported.
+    - The 1.25 kg was described as ganja, with no laboratory confirmation reported.
+    - The accounts draw on the same highway police statement and are not independent reporting.
+media:
+  - kind: photo
+    url: https://www.gramerkagoj.com/country-news/317926
+    media_url: https://www.gramerkagoj.com/assets/news_photos/2026/11/21/image-317926-1795267285.webp
+    publisher: Gramerkagoj
+    caption: 'A young man arrested during the Nabaron highway police operation in the Baganchara area. Photo: correspondent'
 ---
 
 Navaron Highway Police arrested Ikramul Islam, a young man from the Benapole
-area, in Bagachra, Jashore, with 1.25 kg of ganja. [@1] The arrest took place at
+area, in Bagachra, Jashore, with 1.25 kg of ganja. [@1,3] The arrest took place at
 about noon on Saturday 21 November 2026 at a temporary checkpoint in front of
 Dr. Mashiar Rahman Degree Women's College at Baguri, on the Jashore-Satkhira
-highway. [@1] He is the son of Shirajul Islam of Raghunathpur Eastpara village
-in the Benapole port area. [@1]
+highway. [@1,3] He is the son of Shirajul Islam of Raghunathpur Eastpara village
+in the Benapole port area. [@1,3]
 
 Highway police said they had set up the checkpoint at Baguri Beltala under
 Sergeant Miraj Hossain to control illegal vehicle movement and keep order on the
-highway. [@1] When officers signalled a motorcycle to stop, the rider tried to
-flee and police detained him with the motorcycle. [@1] A search of a bag hanging
-from the motorcycle found 1.25 kg of ganja. [@1] Police seized the 100cc Walton
-motorcycle used to carry the ganja. [@2]
+highway. [@1,3] When officers signalled a motorcycle to stop, the rider tried to
+flee and police detained him with the motorcycle. [@1,3] A search of a bag hanging
+from the motorcycle found 1.25 kg of ganja. [@1,3] Police seized the 100cc Walton
+motorcycle used to carry the ganja. [@2,3]
 
 Officer-in-charge Keramat Ali of Navaron Highway Thana said Ikramul was handed
-to Sharsha Thana after legal process. [@1] Sergeant Miraj Hossain filed the case
+to Sharsha Thana after legal process. [@1,3] Sergeant Miraj Hossain filed the case
 as complainant, the officer-in-charge said. [@2]
-
