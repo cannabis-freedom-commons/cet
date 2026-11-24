@@ -46,6 +46,11 @@ sources:
     url: https://www.osun.life/2026/11/18/osun-ndlea-nabs-43-year-old-with-4-6-tonnes-of-cannabis/
     publisher: osun.life
     date: 2026-11-18
+  - title: NDLEA Recovers 4.6 tons of Skunk, Cannabis in Osun, Ondo | Real Broadcasting Network
+    url: https://therealmediang.com/news/ndlea-recovers-4-6-tons-of-skunk-cannabis-in-osun-ondo
+    publisher: Real Broadcasting Network
+    date: 2026-11-22
+    language: en
 open_questions:
   - No separate date was given for the arrest; 18 November 2026 is the publication date of both reports and stands in for the incident date.
   - No charge, plea or court outcome was reported; the suspect was described only as in custody pending further investigation.
@@ -53,14 +58,14 @@ open_questions:
 ---
 
 Operatives of the National Drug Law Enforcement Agency Osun State Command
-arrested 43-year-old Francis Oduke over possession of an illicit substance. [@1]
+arrested 43-year-old Francis Oduke over possession of an illicit substance. [@1,3]
 Oduke was arrested along the Ikire–Ibadan Expressway at Ikire in Osun State
-while conveying the illicit substance, which was packaged in 359 bags. [@2] The
+while conveying the illicit substance, which was packaged in 359 bags. [@2,3] The
 arrest and seizure were announced in a statement signed by the NDLEA Public
 Relations Officer in Osun, Esther Fadare. [@2]
 
 Officers said Oduke was carrying 4,627.7 kilogrammes of Cannabis Sativa
-concealed in a truckload of granite. [@1] A second account gives the same weight
+concealed in a truckload of granite. [@1,3] A second account gives the same weight
 as 4,627.7 kilograms of Cannabis Sativa allegedly concealed in a truckload of
 granite. [@2] Preliminary findings indicated the cannabis was cleverly concealed
 in a truck loaded with granite in an apparent attempt to evade detection by law
@@ -70,4 +75,3 @@ The suspect is currently in the custody of the Agency, while further
 investigation is ongoing. [@2] The Command said it remains committed to
 intensifying efforts against illicit drug trafficking and to ensuring that Osun
 State remains hostile to drug-related activities. [@1]
-
