@@ -60,6 +60,11 @@ media:
     media_url: https://www.mobtada.com/uploads/images/2026/11/20261122_152926847_1_wsf9tx.jpg
     publisher: مبتدا
     caption: 'Second photo captioned المتهمين (the accused), published with Mobtada''s report on the two Alexandria arrests. Photo: Mobtada'
+  - kind: photo
+    url: https://www.dostor.org/5786844
+    media_url: https://cdn.dostor.org/media/img/large/2026/11/22/2026_11_22_15_28_24_532_4148.png
+    publisher: جريدة الدستور
+    caption: Photo captioned المتهمين (the accused) in the Dostor report, showing the two men arrested by Alexandria security in the hashish case.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: bebaea3b81493bdf2c003a0de68495ae
@@ -100,18 +105,23 @@ sources:
     publisher: مبتدا
     date: 2026-11-22
     language: ar
+  - title: ضبط شخص ظهر في فيديو أثناء تدخين سيجارة حشيش بالإسكندرية
+    url: https://www.dostor.org/5786844
+    publisher: جريدة الدستور
+    date: 2026-11-22
+    language: ar
 ---
 
 Egypt's Interior Ministry said its security services identified and arrested a
 man filmed in a video circulated on social media smoking a cigarette suspected
-of containing a drug in Alexandria. [@1,6,7] The video had circulated on social
+of containing a drug in Alexandria. [@1,6,7,8] The video had circulated on social
 media before the security services traced and arrested the man shown in it. [@2,7]
 Officers identified him as a worker at a shop who lives in the Second El-Raml
-police district in Alexandria. [@1,5,6,7] Questioned, he admitted smoking a cigarette
+police district in Alexandria. [@1,5,6,7,8] Questioned, he admitted smoking a cigarette
 containing hashish on 19 November while he was in the Sidi Gaber police
-district, and named the man he had obtained the drugs from. [@1,5,6,7] That man is
+district, and named the man he had obtained the drugs from. [@1,5,6,7,8] That man is
 unemployed with a criminal record and lives in the same district, and the
-security services arrested him and found a quantity of hashish with him. [@3,6,7]
+security services arrested him and found a quantity of hashish with him. [@3,6,7,8]
 
 The seller admitted holding the hashish with intent to sell it, the Akhbar
 El-Yom account of the ministry statement said. [@2,5,6] Veto reported the same
