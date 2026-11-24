@@ -61,33 +61,38 @@ sources:
     publisher: Sud Ouest
     date: 2026-11-23
     language: fr
+  - title: 'Trafic de drogue démantelé en Béarn : 8 interpellations, un évadé, près de 40 kg de cannabis et de cocaïne saisis'
+    url: https://www.larepubliquedespyrenees.fr/societe/drogue/trafic-de-drogue-demantele-en-bearn-8-interpellations-un-evade-pres-de-40-kg-de-cannabis-et-de-cocaine-saisis-31615889.php
+    publisher: La République des Pyrénées
+    date: 2026-11-22
+    language: fr
 open_questions:
-  - One later account calls the escapee a ninth suspect, while the other accounts count him among the eight people arrested.
-  - No verdict was reported; the trial was adjourned to 25 January and the year was not stated.
-  - It was not reported whether the escaped man was recaptured.
-  - No separate resale value for the cannabis was published; the 400,000-euro estimate covers the cannabis and the cocaine together.
-  - The precise locations of the simultaneous searches around Pau were not published.
+    - One later account calls the escapee a ninth suspect, while the other accounts count him among the eight people arrested.
+    - No verdict was reported; the trial was adjourned to 25 January and the year was not stated.
+    - It was not reported whether the escaped man was recaptured.
+    - No separate resale value for the cannabis was published; the 400,000-euro estimate covers the cannabis and the cocaine together.
+    - The precise locations of the simultaneous searches around Pau were not published.
+    - The 22 November account says three of the four men were placed in pre-trial detention, while the later account says two were kept in detention and the others were released under judicial supervision.
 ---
 
 Gendarmes arrested eight suspects, five men and three women aged 26 to 54, in
-the Pau area. [@2] One of those held, a 28-year-old man, escaped from Pau
-hospital where he had been taken for health reasons during his custody. [@1] He
+the Pau area. [@2,3] One of those held, a 28-year-old man, escaped from Pau
+hospital where he had been taken for health reasons during his custody. [@1,3] He
 had not been recaptured and a separate criminal investigation continued. [@1] At
 the end of their custody, four men were presented to the Pau prosecutor's
 magistrate in an immediate-appearance procedure on 22 November. [@1]
 
 The operation yielded 37 kg of cannabis in total. [@1] Searches found 28 kg of
-cannabis resin and 9 kg of cannabis herb. [@1] Officers also seized 1.2 kg of
-cocaine and more than 26,000 euros in cash. [@1] A later account put the cash at
+cannabis resin and 9 kg of cannabis herb. [@1,3] Officers also seized 1.2 kg of
+cocaine and more than 26,000 euros in cash. [@1,3] A later account put the cash at
 26,653 euros. [@2] The drugs were seized on 18 November 2026 during the
-gendarmerie operation in the Pau area. [@2] Prosecutors put the combined resale
+gendarmerie operation in the Pau area. [@2,3] Prosecutors put the combined resale
 value of the drugs, including the cocaine, at more than 400,000 euros. [@2] The
 investigation, opened in early September by the Lescar research brigade,
-mobilised about a hundred gendarmes at its conclusion. [@2]
+mobilised about a hundred gendarmes at its conclusion. [@2,3] The investigations were conducted under the authority of the Pau prosecutor's office. [@3]
 
 Prosecutors said the network was supplied from Spain and distributed drugs in
 the Béarn area. [@2] At a hearing on 23 November the four men asked to delay
 their trial to prepare a defence, and it was set for 25 January. [@2] Two of the
 men were kept in pre-trial detention while the others were released under
 judicial supervision. [@2]
-
