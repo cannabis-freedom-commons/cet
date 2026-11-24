@@ -112,17 +112,22 @@ sources:
     publisher: شبكة شام الإخبارية
     date: 2026-11-10
     language: ar
+  - title: 'سوريا: إحباط تهريب 261 ألف حبة كبتاغون على الحدود مع لبنان'
+    url: https://www.grandlb.com/foryou/164585/
+    publisher: لبنان الكبير
+    date: 2026-11-16
+    language: ar
 ---
 
 Syria's anti-narcotics directorate carried out two security operations in Rif
 Dimashq against drug smuggling from Lebanon into Syria. [@1,2,3,4,5,6,7,8,9,10,11] Officers arrested
-three people after intensive field surveillance and monitoring. [@1,3,7,8,10,11] The
+three people after intensive field surveillance and monitoring. [@1,3,7,8,10,11,13] The
 directorate announced the suspects on Telegram only by their initials. [@1,4,7] The directorate identified the three detainees by the Arabic initials أ.ب, ب.ع and ع.د. [@5,9,10,11] The directorate did not give the nationalities of those arrested. [@11]
 Those arrested were referred to the competent authorities for further
 investigation and legal proceedings. [@1,3,4,5,7,8,9,10,11,12]
 
-The operations seized 61 kilograms of hashish. [@1,2,3,4,5,7,8,9,10,11,12] Officers also confiscated 2
-kilograms of marijuana. [@1,2,4,5,7,8,9,10,11,12] Authorities also confiscated 200,000 narcotic
-pills, which are excluded from the cannabis figures. [@1,2,4,5,7,8,12] The directorate said
+The operations seized 61 kilograms of hashish. [@1,2,3,4,5,7,8,9,10,11,12,13] Officers also confiscated 2
+kilograms of marijuana. [@1,2,4,5,7,8,9,10,11,12,13] Authorities also confiscated 200,000 narcotic
+pills, which are excluded from the cannabis figures. [@1,2,4,5,7,8,12,13] The directorate said
 the operations aimed to dismantle trafficking networks and cut drug smuggling
 routes from Lebanon into Syria. [@1,2,4,5,7,9,10,11]
