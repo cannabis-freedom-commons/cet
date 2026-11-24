@@ -51,30 +51,28 @@ sources:
     publisher: L'Express DZ
     date: 2026-10-17
     language: fr
-open_questions:
-  - The reports say only that the operations took place during the week before 17 October 2026; no exact date is given, and 17 October is the publication date.
-  - No breakdown of the 113 kg, the 21 arrests or the six networks by wilaya or operation was published.
-  - The reports give no amount for the cash seized and no charges or court dates for the 21 suspects.
-  - Both opened accounts reproduce the same DGSN communiqué; no separate DGSN statement page could be opened.
-  - The reports do not say whether the roundup includes operations that Oran police reported separately earlier that week.
+  - title: 'Opération d''envergure de la DGSN : six réseaux de narcotrafic démantelés et plus d''un quintal de cannabis saisi'
+    url: https://algeriepatriotique.com/2026/10/17/operation-denvergure-de-la-dgsn-six-reseaux-de-narcotrafic-demanteles-plus-dun-quintal-de-cannabis-saisi/
+    publisher: algeriepatriotique
+    date: 2026-10-17
+    language: fr
 ---
 
 Algeria's national police dismantled six organised criminal networks trafficking
 treated kif and other drugs in the west, centre and south of the country, the
-Directorate General of National Security (DGSN) said. [@1] During the past week,
+Directorate General of National Security (DGSN) said. [@1,3] During the past week,
 officers seized 1 quintal and 13 kg of treated kif — processed cannabis resin —
-from Morocco, or 113 kg. [@2]
+from Morocco, or 113 kg. [@2,3]
 
 The operations targeted several localities in the wilayas of Oran, Tlemcen, El
-Oued and Tipasa. [@1] They were carried out in the national police's areas of
+Oued and Tipasa. [@1,3] They were carried out in the national police's areas of
 jurisdiction under the supervision of the competent prosecutors as part of the
 fight against organised crime. [@1] Twenty-one people belonging to the
-dismantled networks were arrested. [@1] Police also seized sums of national
+dismantled networks were arrested. [@1,3] Police also seized sums of national
 currency from the criminal activity, a truck, eight vehicles of different
-categories and two motorcycles used to move people and transport the loads. [@1]
+categories and two motorcycles used to move people and transport the loads. [@1,3]
 
 They recovered a fifth-category firearm, prohibited bladed weapons and
-psychotropic tablets. [@1] The suspects were presented successively to the
+psychotropic tablets. [@1,3] The suspects were presented successively to the
 public prosecutors at the courts of Oued Athmania, Fellaoucène in Oran, El Oued,
-Bab El Assa in Tlemcen and Koléa in Tipasa. [@1]
-
+Bab El Assa in Tlemcen and Koléa in Tipasa. [@1,3]
