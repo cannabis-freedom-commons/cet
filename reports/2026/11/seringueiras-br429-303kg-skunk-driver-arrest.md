@@ -79,6 +79,11 @@ sources:
     publisher: O Observador
     date: 2026-11-21
     language: pt
+  - title: Ação conjunta apreende mais de 300 quilos de Skunk no Vale do Guaporé
+    url: https://diariodaamazonia.com.br/noticia/5/455530/acao-conjunta-apreende-mais-de-300-quilos-de-skunk-no-vale-do-guapore
+    publisher: Diário da Amazônia
+    date: 2026-11-21
+    language: pt
 open_questions:
     - 'The accounts disagree on the weekday: two news reports say Friday (20) and the Civil Police statement says Thursday (20); all give 20 November 2026, which is used as the incident date.'
     - One account gives the amount as 303 kg and the Civil Police as approximately 303 kg; no laboratory confirmation of the substance was reported.
@@ -93,7 +98,7 @@ and Brasil contra o Crime Organizado – BPFRON operations, involving the Milita
 Police through its 11th and 2nd Battalions, the Civil Police through Denarc, and
 the Federal Highway Police (PRF). [@1,3,4] The Civil Police of Rondônia said its
 contribution came through the 2nd Delegation for Combating Organised Crime
-(DRACO2) in a joint action with the Military Police and the PRF. [@2,5]
+(DRACO2) in a joint action with the Military Police and the PRF. [@2,5,6]
 
 The Military Police said the action began after residents reported a pickup
 travelling suspiciously on the BR-429, prompting teams to set up a roadblock
@@ -102,12 +107,12 @@ bundles of a narcotic substance inside the vehicle. [@1,3,4] After weighing, the
 total was 303 kilograms of skunk-type marijuana. [@1,3,4] The Civil Police said
 intelligence and information-sharing between the forces led them to track a
 suspicious vehicle, and that the teams found several tablets of the drug carried
-in the body of a pickup truck. [@2,5]
+in the body of a pickup truck. [@2,5,6]
 
 The driver received a voice of arrest and was taken to the competent authorities
 for legal proceedings. [@1,3,4,5] The Civil Police said the drug, the vehicle and
 other seized materials were sent to the competent police unit, and that DRACO2
 would continue the investigation into the origin and destination of the drug and
-identify others involved. [@2,5] The security forces said they were continuing
+identify others involved. [@2,5,6] The security forces said they were continuing
 patrols in the region to locate further drug loads and identify and arrest other
 people involved in trafficking. [@1,3,4]
