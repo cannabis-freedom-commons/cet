@@ -80,6 +80,11 @@ sources:
     url: https://www.rediff.com/news/report/four-held-with-hybrid-ganja-in-gujarats-navsari/20261122.htm
     publisher: Rediff.com
     date: 2026-11-22
+  - title: 'Video: નવસારીમાં ડ્રગ્સ રેકેટનો પર્દાફાશ: કરોડોના હાઈબ્રિડ ગાંજા સાથે ૪ ઝડપાયા, મુંબઈથી વડોદરા સુધી ફેલાયેલા હતા તાર'
+    url: https://www.gstv.in/news/gujarat/navsari/drug-racket-exposed-in-navsari-4-arrested-with-hybrid-cannabis-worth-crores-the-network-extended-from-mumbai-to-vadodara
+    publisher: GSTV
+    date: 2026-11-22
+    language: gu
 open_questions:
     - The report dates the operation only to 'Sunday', the day before its 23 November 2026 publication; 22 November 2026 is used as the incident date.
     - The reports do not say what charges were filed against the four.
@@ -90,11 +95,11 @@ open_questions:
 ---
 
 Navsari police arrested four people after intercepting two SUVs near the Kharel
-flyover on National Highway 48 on Sunday. [@1,2] Officers seized 9.4 kg of
-hydroponic ganja, which police valued at Rs 3.3 crore. [@1,5] Police also seized
+flyover on National Highway 48 on Sunday. [@1,2,6] Officers seized 9.4 kg of
+hydroponic ganja, which police valued at Rs 3.3 crore. [@1,5,6] Police also seized
 seven mobile phones and Rs 33,779 in cash from the four. [@1] The arrested were
 identified as Pramod Pathak, Vishnu Singh, Premchand alias Rahul Yadav and Miket
-Patel. [@1,5]
+Patel. [@1,5,6]
 
 Police said the group had travelled to Vadodara to sell the consignment and was
 returning with the remaining stock when their vehicles were stopped. [@1,2] In Vadodara the group gave part of the consignment to a man named Jayanti, one of the nine suspects declared wanted, before returning to Vapi with the rest, police said. [@3]
