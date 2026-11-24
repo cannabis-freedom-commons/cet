@@ -63,6 +63,11 @@ sources:
     publisher: يوليو
     date: 2026-11-22
     language: ar
+  - title: ضبط طالب بالجيزة أدار صفحة إلكترونية لترويج الحشيش
+    url: https://akhbarelyom.com/news/newdetails/4910957/1/%D8%B6%D8%A8%D8%B7-%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9-%D8%A3%D8%AF%D8%A7%D8%B1-%D8%B5%D9%81%D8%AD%D8%A9-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%84%D8%AA%D8%B1
+    publisher: بوابة أخبار اليوم
+    date: 2026-11-22
+    language: ar
 open_questions:
     - No weight, value or laboratory confirmation was given for the hashish found with the student.
     - The article gives no separate date for the arrest; 22 November 2026 is the date of the Interior Ministry statement and of publication.
@@ -76,19 +81,24 @@ media:
     media_url: https://media.youlyou.com/2026/11/Landscape-1/3070249143280202611220428582858.jpg
     publisher: يوليو
     caption: Photograph captioned 'the accused' (المتهم), published with the report of the Boulak El-Dakrour student's arrest.
+  - kind: photo
+    url: https://akhbarelyom.com/news/newdetails/4910957/1/%D8%B6%D8%A8%D8%B7-%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9-%D8%A3%D8%AF%D8%A7%D8%B1-%D8%B5%D9%81%D8%AD%D8%A9-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%84%D8%AA%D8%B1
+    media_url: https://images.akhbarelyom.com/images/images/large/20261122150840363.jpg
+    publisher: بوابة أخبار اليوم
+    caption: Photograph captioned 'the accused' (المتهم), published with the report of the Boulak El-Dakrour student's arrest.
 ---
 
 Security services arrested a student in the Boulak El-Dakrour police station
 district of Giza governorate, accusing him of running a social media page that
-promoted the sale of drugs for money. [@1,4,5] The Interior Ministry said in a
+promoted the sale of drugs for money. [@1,4,5,6] The Interior Ministry said in a
 statement on Sunday that security services had spotted a person running a page
 on social media to promote the sale of drugs in exchange for money. [@1]
 Detectives identified the person running the page and arrested him after
-spotting the page being used to advertise drugs for sale. [@3,4,5]
+spotting the page being used to advertise drugs for sale. [@3,4,5,6]
 
 The man arrested was a student living in the Boulak El-Dakrour police station
 district of Giza. [@2] A mobile phone was found in his possession, and a check
 showed it contained evidence confirming his criminal activity, along with a
-quantity of hashish. [@1,4,5] Confronted with the findings, the suspect admitted
+quantity of hashish. [@1,4,5,6] Confronted with the findings, the suspect admitted
 creating and running the page to promote the sale of the drugs seized from him.
-[@1,4,5] The ministry said the necessary legal measures had been taken. [@1,4]
+[@1,4,5,6] The ministry said the necessary legal measures had been taken. [@1,4]
