@@ -71,24 +71,22 @@ sources:
     publisher: inAktau.kz
     date: 2026-11-21
     language: ru
-open_questions:
-  - The prosecution statement gives only October for the operation; the 21 October date comes from the police account published on 30 October.
-  - The police weighing record put the combined mass of the seized marijuana and the 44 plants at 14 kg 20 g, so no separate weight for dried cannabis was published.
-  - Neither account names the detained person or says whether the 40-year-old driver stopped in the car is the suspected organiser.
-  - KazTAG attributes the announcement to the general prosecutor's office, while the statement was published by the Mangistau regional prosecutor's office.
-  - No charge, detention measure or court date has been reported; the case was at pre-trial investigation.
-  - No value or street-price estimate for the plants was published.
+  - title: '44 куста марихуаны: нарколабораторию накрыли в Мангистау'
+    url: https://www.zakon.kz/proisshestviia/6539473-44-kusta-marikhuany-narkolaboratoriyu-nakryli-v-mangistau.html
+    publisher: Zakon.kz
+    date: 2026-11-21
+    language: ru
 ---
 
 Kazinform reported that an underground laboratory growing marijuana had been
 shut down in Kazakhstan's Mangistau Region, citing the regional prosecutor's
 office. [@3] The prosecutor's office said the laboratory was shut down in
-October 2026 on its initiative. [@2] One person was detained on suspicion of
-organising the cultivation. [@2] The police account dates the operation to 21
+October 2026 on its initiative. [@2,6] One person was detained on suspicion of
+organising the cultivation. [@2,6] The police account dates the operation to 21
 October, within the Karasora and Pravoporyadok campaigns. [@4] Officers found 44
 hemp plants, ultraviolet lamps and timers in Munaylinsky district. [@4]
 
-During the search they seized the 44 marijuana plants. [@1] The police counted
+During the search they seized the 44 marijuana plants. [@1,6] The police counted
 13 ultraviolet lamps and 15 timers used to grow the plants. [@4] The premises
 stood in the district's industrial zone. [@4] Police reached it after stopping a
 Renault Sandero at about 21:10 and finding a packet of marijuana in the car.
@@ -97,9 +95,8 @@ Renault Sandero at about 21:10 and finding a packet of marijuana in the car.
 The regional police anti-narcotics unit, the National Security Committee's
 Mangistau department and the Arlan special unit took part, coordinated by the
 regional prosecutor's office. [@4] Prosecutors said the growing was intended for
-further sale of the drugs. [@1] A pre-trial investigation was opened under part
-1 of Article 300 of the Criminal Code. [@2] Article 300 covers the illegal
+further sale of the drugs. [@1,6] A pre-trial investigation was opened under part
+1 of Article 300 of the Criminal Code. [@2,6] Article 300 covers the illegal
 cultivation of plants containing narcotic substances. [@5] Police opened a
 separate case under Article 296 on drug possession over the marijuana found in
 the car. [@4]
-
