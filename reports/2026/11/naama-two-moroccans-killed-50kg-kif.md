@@ -81,23 +81,29 @@ sources:
     publisher: detikNews
     date: 2026-11-22
     language: id
+  - title: 'Naâma : deux narcotrafiquants marocains éliminés par les gardes-frontières algériens'
+    url: https://twala.info/fr/fil-actualite/naama-narcotrafiquants-marocains-elimines-kif/
+    publisher: Twala
+    date: 2026-11-21
+    language: fr
 open_questions:
     - The Defence Ministry did not say whether the two dead men were armed.
     - Moroccan authorities had made no public comment on the killing when the accounts were published.
+    - 'The French romanisation of the identified man''s name and birthplace differs between accounts: Khelifi Laïd and Ouled Sidi Abdelhakem versus Khalifi El-Eid and Ouled Sidi Abdel Hakim.'
 ---
 
 Algeria's Defence Ministry said a border-guard detachment killed two Moroccan
 drug traffickers near the western frontier on Friday 20 November 2026 after they
-refused to comply. [@2,4,5,6] The encounter happened in the military sector of Naâma,
+refused to comply. [@2,4,5,6,7] The encounter happened in the military sector of Naâma,
 part of Algeria's 2nd Military Region, close to the country's western border
 strip. [@1,4,5] According to the communiqué, the two men ignored an order to stop
 given by the border guards. [@2,4,5,6]
 
 They were trying to bring more than 50 kilograms of kif traité, the local term
-for processed cannabis, into Algeria. [@1,4,5] The 50-kilogram estimate was
+for processed cannabis, into Algeria. [@1,4,5,7] The 50-kilogram estimate was
 attributed to the Defence Ministry's communiqué. [@3] The ministry said the
 identity of one of the dead men was established from an identity document found
-in his possession. [@2,4,5] The ministry identified one of them as Khalifi El-Eid, born in the Ouled Sidi Abdel Hakim area of Jerada, Morocco. [@5]
+in his possession. [@2,4,5,7] The ministry identified one of them as Khalifi El-Eid, born in the Ouled Sidi Abdel Hakim area of Jerada, Morocco. [@5] The ministry did not disclose the identity of the second man. [@7]
 
 The army framed the operation as part of its continuing efforts to secure
 national borders and combat drug-trafficking networks and organised crime. [@2,4] The killing came days after President Abdelmadjid Tebboune said Algeria could go as far as the source of drug production, in legitimate self-defence. [@6]
