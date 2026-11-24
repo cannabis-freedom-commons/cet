@@ -83,6 +83,11 @@ media:
     media_url: https://wolomin.policja.gov.pl/dokumenty/zalaczniki/177/177-311958.jpg
     publisher: KPP w Wołominie
     caption: 'Police photograph in the gallery published with the Wołomin county police report on the stolen Toyota Camry recovery and the marijuana find in Niestępowo Włościańskie. Photo: KPP w Wołominie.'
+  - kind: photo
+    url: https://informacje.wp.pl/wiadomosci/skradziona-toyota-juz-bez-kol-i-zderzaka-kryminalni-weszli-do-garazu-i-zatrzymali-dwoch-mezczyzn-7353719445690368a
+    media_url: https://v.wpimg.pl/Njg2MjgxYQsGUDtZSANsHkUIbwMOWmJIEhB3SEhBfVIfB39SSB4nBgJAKBoIVikYEkIsHRdWPgZIUz0DSA5_RQNbPhoLGTdFAl8vDwNXel1UVyhTVRpjWwNXekdTQHlaSlAvCwFVLVNfAntSUUp2W1MBbxc
+    publisher: WP Info
+    caption: 'A police officer in a vest marked POLICJA stands beside two seated men in the garage where the stolen Toyota was dismantled, with car parts on the floor. Photo: Licencjodawca.'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: a2ebd944b1d4e5f046c67467f125e52b
@@ -98,6 +103,11 @@ sources:
     publisher: KPP w Wołominie
     date: 2026-11-20
     language: pl
+  - title: Skradziona Toyota już bez kół i zderzaka. Kryminalni weszli do garażu i zatrzymali dwóch mężczyzn
+    url: https://informacje.wp.pl/wiadomosci/skradziona-toyota-juz-bez-kol-i-zderzaka-kryminalni-weszli-do-garazu-i-zatrzymali-dwoch-mezczyzn-7353719445690368a
+    publisher: WP Info
+    date: 2026-11-22
+    language: pl
 open_questions:
   - The police said the marijuana weighed more than 39 grams, so the recorded 0.039 kg is a lower bound rather than an exact weight.
   - No plea, court date or outcome was reported beyond the prosecutor's decision to place both suspects under police supervision.
@@ -108,23 +118,22 @@ open_questions:
 
 Wołomin police detained two men, aged 41 and 45, at a property in Niestępowo
 Włościańskie, Pułtusk County, on 17 November 2026 after finding them dismantling
-a stolen Toyota Camry in a garage. [@1] A search of the 45-year-old's flat found
+a stolen Toyota Camry in a garage. [@1,3] A search of the 45-year-old's flat found
 dried plant matter in a ziplock bag that tested as marijuana weighing more than
-39 grams. [@1] The 45-year-old was additionally charged with possessing a
+39 grams. [@1,3] The 45-year-old was additionally charged with possessing a
 significant quantity of a narcotic substance in the form of non-fibre cannabis.
-[@2]
+[@2,3]
 
 Both men were taken to the Wołomin District Prosecutor's Office and charged with
-intentional receiving of stolen goods in conditions of recidivism. [@1] The
+intentional receiving of stolen goods in conditions of recidivism. [@1,3] The
 prosecutor placed both suspects under police supervision, and the criminal
-investigation department of the Wołomin county police is handling the case. [@1]
+investigation department of the Wołomin county police is handling the case. [@1,3]
 
 The Camry had been stolen in Warsaw on 16 November 2026, the day before it was
-found. [@1] Both men had previously been convicted of car offences and had
-served prison sentences. [@1] Police said the 45-year-old had also been
-convicted before of a similar offence. [@1] The property owner told police he
+found. [@1,3] Both men had previously been convicted of car offences and had
+served prison sentences. [@1,3] Police said the 45-year-old had also been
+convicted before of a similar offence. [@1,3] The property owner told police he
 had rented the garage to a Ukrainian citizen and knew nothing about the activity
-there. [@1] Police also found in the garage an engine whose number field had
-been partly removed. [@1] Officers secured the car, its dismantled parts and the
-engine and took them to a deposit parking area. [@1]
-
+there. [@1,3] Police also found in the garage an engine whose number field had
+been partly removed. [@1,3] Officers secured the car, its dismantled parts and the
+engine and took them to a deposit parking area. [@1,3]
