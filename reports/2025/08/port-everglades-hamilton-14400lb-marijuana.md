@@ -78,6 +78,10 @@ sources:
     publisher: RTVI
     date: 2025-08-27
     language: ru
+  - title: ‘Largest drug offload’ in U.S. Coast Guard history includes cocaine found in ‘many’ vessels from Venezuela, feds say
+    url: https://www.local10.com/news/national/2025/08/25/venezuela-was-source-of-about-22-billion-in-drugs-seized-at-sea-so-far-this-year-feds-say/
+    publisher: Local 10 News (WPLG)
+    date: 2025-08-25
 ---
 
 The crew of the U.S. Coast Guard Cutter Hamilton offloaded seized narcotics at
@@ -85,7 +89,7 @@ Port Everglades, Florida, on Monday 25 August 2025. [@2,4,5] CBS Miami reported 
 drugs were brought to port by the Coast Guard Cutter Hamilton after 19
 interdictions in the Eastern Pacific Ocean and the Caribbean Sea. [@3,7] The
 interdicted vessels were stopped off Ecuador's Galapagos Islands and off the
-coasts of Venezuela, Mexico, the Dominican Republic, Jamaica and Aruba. [@1,4,5]
+coasts of Venezuela, Mexico, the Dominican Republic, Jamaica and Aruba. [@1,4,5] U.S. Attorney Gregory W. Kehoe said many of the interdicted vessels had left Venezuela. [@8]
 
 Capt. John B. McWhite said his crew interdicted 11 go-fast vessels and detained
 34 suspected drug traffickers. [@2,7] Telemundo reported that 34 suspected
@@ -93,7 +97,7 @@ traffickers were held but that the authorities did not state how many suspects
 were detained in all the interdictions together. [@1,5] Hamilton's crew offloaded
 about 14,400 pounds of bulk marijuana, roughly 6,532 kg, alongside 61,740 pounds
 of cocaine. [@3,4,5,6,7] The Coast Guard valued the cocaine and marijuana together at
-$473 million, a combined figure that is not a marijuana-only estimate. [@2,4,5,6,7]
+$473 million, a combined figure that is not a marijuana-only estimate. [@2,4,5,6,7,8]
 
 Rear Adm. Adam Chamie said the cocaine alone amounted to 23 million potentially
 lethal doses, enough to give the entire population of Florida a fatal overdose.
