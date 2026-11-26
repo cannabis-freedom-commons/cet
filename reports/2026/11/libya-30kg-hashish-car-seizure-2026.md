@@ -58,11 +58,11 @@ sources:
     publisher: عين ليبيا / نبض
     date: 2026-11-23
     language: ar
-open_questions:
-  - No city or district was named for the seizure; the ministry statement identifies only Libya.
-  - No charge, trial or verdict was reported; the case had only been referred to the Anti-Narcotics Prosecution.
-  - The Ein Libya account calls the weight 'about 30 kilograms' while Alwasat gives 30 kilograms exactly.
-  - The suspect's identity, the hashish's origin and any estimated value were not published.
+  - title: الداخلية تكشف شبكة ضخمة لـ«تهريب المخدرات» بين المدن
+    url: https://www.eanlibya.com/%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%B4%D8%A8%D9%83%D8%A9-%D8%B6%D8%AE%D9%85%D8%A9-%D9%84%D9%80%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D8%AE/
+    publisher: عين ليبيا
+    date: 2026-11-22
+    language: ar
 ---
 
 Libya's Interior Ministry said a man suspected of belonging to an organised gang
@@ -73,9 +73,8 @@ compartments inside a car. [@1]
 The seizure was made by the committee for countering the spread of drugs and
 psychotropic substances, part of the Anti-Narcotics and Psychotropic Substances
 Apparatus. [@1] The ministry said the suspect was active in transporting and
-distributing drugs between cities. [@1] It said the necessary legal steps were
-taken and he was referred to the Anti-Narcotics Prosecution. [@1]
+distributing drugs between cities. [@1,3] It said the necessary legal steps were
+taken and he was referred to the Anti-Narcotics Prosecution. [@1,3]
 
 The ministry said about 30 kilograms were found in fitted compartments in the
-suspect's car and hidden there for transport. [@2]
-
+suspect's car and hidden there for transport. [@2,3]
