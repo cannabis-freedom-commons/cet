@@ -53,6 +53,11 @@ sources:
     publisher: İz Gazete
     date: 2026-11-21
     language: tr
+  - title: 'İzmir''de Jandarmadan zehir baskını: 70 kök skunk bulundu - Gündeme Bakış'
+    url: https://www.gundemebakis.com/izmirde-jandarmadan-zehir-baskini-70-kok-skunk-bulundu
+    publisher: Gündeme Bakış
+    date: 2026-11-21
+    language: tr
 open_questions:
   - The reports give no separate date for the raid or the detention; 21 November 2026 is the publication date of both accounts and is used as the incident date.
   - The suspect is identified only by the initials F.U.; no age, full name or occupation was published.
@@ -64,15 +69,14 @@ open_questions:
 One man was detained when gendarmerie teams raided a house in Kemalpaşa, a
 district of İzmir province. [@1] The suspect was identified only by the initials
 F.U., and he lived in Yukarıkızılca Mahallesi, a neighbourhood in the district.
-[@1] The İzmir provincial gendarmerie command and the Kemalpaşa district
+[@1,3] The İzmir provincial gendarmerie command and the Kemalpaşa district
 gendarmerie command acted on information that cannabis was being grown illegally
 at the house. [@2] The operation was carried out at a residential address after
 the gendarmerie received information about illegal cultivation. [@2]
 
 The search found 70 rooted skunk plants, kök skunk bitkisi, grown with a
-climate-control system, iklimlendirme yöntemi. [@1] Officers also seized 10
-kilograms 300 grams of skunk, a cannabis strain, at the same address. [@2] The
+climate-control system, iklimlendirme yöntemi. [@1,3] Officers also seized 10
+kilograms 300 grams of skunk, a cannabis strain, at the same address. [@2,3] The
 70 plants and the 10 kg 300 g of skunk were listed together as the haul from the
-raid. [@1] F.U. was taken into custody after the search. [@1] Both the plants
+raid. [@1] F.U. was taken into custody after the search. [@1,3] Both the plants
 and the skunk came from the house in Yukarıkızılca Mahallesi. [@2]
-
