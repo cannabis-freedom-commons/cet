@@ -43,6 +43,11 @@ media:
     media_url: https://www.5min.at/wp-content/uploads/2026/11/1795434566-p22311-Bild-1200x675.webp
     publisher: 5 Minuten
     caption: 'Seized cannabis, other drugs and cash laid out for a police photograph after the Ottakring arrest. Photo: Landespolizeidirektion Wien (LPD Wien)'
+  - kind: photo
+    url: https://polizeiticker.at/artikel/wien-35-jaehriger-nach-drogenverkauf-festgenommen-295837
+    media_url: https://img.polizeiticker.ch/hnwlmxxdz/image/upload/c_limit,w_768/f_webp/q_auto:eco/v1/uploads/si1sotsknimwalfcbwd1
+    publisher: Polizeiticker
+    caption: 'Drugs and cash found during the flat search after the Ottakring arrest. Photo: LPD Wien'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash-1017#max
 submission: 8886a9718b793f2538c4bb4616bbd37d
@@ -72,17 +77,16 @@ sources:
     publisher: VIENNA.AT
     date: 2026-11-23
     language: de
-open_questions:
-    - No charge against the 35-year-old or court date was reported; he was still in police custody.
-    - Police did not say whether the seized cannabis was intended for resale.
-    - The accounts do not say what the other drugs found in the flat were, or whether they are part of the 960 grams.
-    - No street value was published for the cannabis.
-    - The 48 containers found in the backpack are not described by weight or content.
+  - title: Wien – 35-Jähriger nach Drogenverkauf festgenommen
+    url: https://polizeiticker.at/artikel/wien-35-jaehriger-nach-drogenverkauf-festgenommen-295837
+    publisher: Polizeiticker
+    date: 2026-11-23
+    language: de
 ---
 
 Officers of the Vienna street-crime unit (EGS) watched a suspected drug sale in
-the Degengasse area of Ottakring at about 18:45 on Sunday 22 November 2026. [@1]
-They detained the suspected seller, a 35-year-old Algerian citizen. [@1,3] The
+the Degengasse area of Ottakring at about 18:45 on Sunday 22 November 2026. [@1,6]
+They detained the suspected seller, a 35-year-old Algerian citizen. [@1,3,6] The
 25-year-old buyer, an Afghan citizen, was reported to the authorities. [@1,3]
 
 A search of the suspect's backpack found 48 containers of cannabis and a
@@ -91,7 +95,7 @@ the 35-year-old had used and found more drugs, cash and a forged identity
 document. [@1,5]
 
 In total Vienna police seized about 960 grams of cannabis and about 6,000 euros
-in cash. [@1,3,5] The cannabis and the cash came from the man himself and from the
+in cash. [@1,3,5,6] The cannabis and the cash came from the man himself and from the
 flat he used, according to the police account. [@2]
 
 The 35-year-old remained in police custody while investigators continued to work
