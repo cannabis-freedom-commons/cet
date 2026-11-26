@@ -53,26 +53,27 @@ sources:
     publisher: Jornal Notícias
     date: 2024-06-26
     language: pt
-open_questions:
-  - The opened sources name only the city of Pemba, not a neighbourhood or street, so the report uses the city centre with locality precision.
-  - 22 June 2024 is used as the incident date from Carta and Club of Mozambique; Radio Mocambique describes the detention only as the previous week.
-  - Radio Mocambique spells the spokesperson's surname Sabina while Carta and Club of Mozambique spell it Sabila; the report uses Sabila.
-  - Vehicle makes, models and registration details were not given in the opened sources and are omitted.
-  - The origin, destination and owner of the hashish were reported as unknown, with investigation continuing.
-  - No court outcome beyond referral of the case file to the Attorney General's Office was reported.
-  - Jornal Notícias uses the spelling Sabile for the SERNIC spokesman, while the report uses Sabila; the report keeps its own spelling.
-  - Jornal Notícias gives no date for the detention, saying only that the suspects were presented to the press on a Wednesday; the report's 22 June 2024 date comes from its other sources.
-  - The page's only image is titled or captioned only detidos, with no caption or credit stating that it shows this seizure, so it is not listed as media.
+  - title: 'A “Bolada” de tráfico de drogas em Cabo Delgado: Apreendida cocaína e haxixe na cidade de Pemba'
+    url: https://integritymagazine.co.mz/arquivos/28499
+    publisher: Integrity Magazine
+    date: 2024-06-27
+    language: pt
+media:
+  - kind: photo
+    url: https://integritymagazine.co.mz/arquivos/28499
+    media_url: https://integritymagazine.co.mz/wp-content/uploads/2024/06/IMG-20240624-WA0036.jpg
+    publisher: Integrity Magazine
+    caption: 'A detained young man described as a university student with his alleged accomplices from Cabo Delgado. Photo: Integrity Magazine'
 ---
 
 Mozambique's National Criminal Investigation Service (SERNIC) detained four
 people in Pemba, Cabo Delgado, in possession of 14 kilograms of haxixe, or
 hashish. [@1,4] The four, all nationals, were caught red-handed. [@2] The
-detention took place on 22 June 2024. [@2] The accused deny involvement and say
+detention took place on 22 June 2024. [@2] The drugs were seized on the outskirts of Pemba while they were being taken to a supposed owner for onward distribution. [@5] The accused deny involvement and say
 they were detained unjustly. [@2] One said he had only accepted a lift from the
 car's owner to be dropped at his garage. [@2] Another, who described himself as
 a mechanic, said he had lent the car, gave investigators the owner's number and
-had never opened the car. [@2]
+had never opened the car. [@2] Photographs circulating from the morning of Monday 24 June showed the seized drugs and four young men, some of them known as natives of Pemba's Paquitequete neighbourhood. [@5]
 
 Officers intercepted the accused while they were travelling in two vehicles
 carrying the drug. [@1,4] Both vehicles have been seized. [@1,4] SERNIC spokesperson
