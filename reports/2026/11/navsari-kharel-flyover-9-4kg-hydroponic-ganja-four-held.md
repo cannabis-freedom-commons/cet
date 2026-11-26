@@ -57,6 +57,11 @@ media:
     media_url: https://imgs.etvbharat.com/etvbharat/prod-images/22-11-2026/1200-675-28171672-thumbnail-16x9-aa-aspera.jpg
     publisher: ETV Bharat
     caption: 'Police seized 9.375 kg of ganja from two cars on the express highway in Navsari. Photo: ETV Bharat Gujarat'
+  - kind: photo
+    url: https://www.indiatv.in/gujarat/four-man-arrested-after-drug-network-busted-and-nine-kg-cannabis-seized-in-navsari-2026-11-22-1255808
+    media_url: https://resize.indiatv.in/resize/newbucket/1200_675/2026/11/pm-modi-benguru-metro-8-1795370834.webp
+    publisher: India TV Hindi
+    caption: 'Police present the four arrested men to the media after the Navsari hybrid ganja seizure. Photo: India TV reporter'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 60cf7b9193c6b8f388ac2bf4ad90eb39
@@ -114,6 +119,15 @@ sources:
     publisher: ETV Bharat
     date: 2026-11-22
     language: gu
+  - title: नवसारी में अंतर्राज्यीय ड्रग्स नेटवर्क का पर्दाफ़ाश, करोड़ों की कीमत का 9 किलो हाइब्रिड गांजा ज़ब्त; 4 आरोपी अरेस्ट
+    url: https://www.indiatv.in/gujarat/four-man-arrested-after-drug-network-busted-and-nine-kg-cannabis-seized-in-navsari-2026-11-22-1255808
+    publisher: India TV Hindi
+    date: 2026-11-22
+    language: hi
+open_questions:
+    - The network's wanted accused in Bangkok, known as Roni, had not been arrested when these accounts were published.
+    - Sources put the ganja's weight at 9.375 kg and its value between Rs 3.28 crore and Rs 3.56 crore.
+    - No charges, remand order or court outcome were reported at the time of these accounts.
 ---
 
 Navsari police arrested four people after intercepting two SUVs near the Kharel
@@ -134,3 +148,5 @@ Police suspect at least nine more people were involved in the network. [@1,4,7,8
 Efforts were under way to trace and arrest them. [@1] Police suspect the network
 was run from Vapi and Daman and had links with multiple suppliers and high-end
 buyers. [@1] Pramod Pathak, the alleged mastermind, had worked as a bouncer in Mumbai, and police say he ran an interstate drug network under the cover of his Tiger security agency in Vapi. [@3,10] Police said Pathak was in contact with foreign suppliers to bring hybrid ganja into India for sale in Mumbai, Vapi, Vadodara and other cities. [@8] A case was registered at Ganadevi police station under the NDPS Act against the four arrested men and the others declared wanted. [@9]
+
+Officers seized a Mahindra Thar, a Hyundai Creta and seven mobile phones along with the ganja. [@12] The men had carried the ganja from Vapi to Vadodara, handed some of it to a man named Jayanti there, and were returning to Vapi with the rest when police stopped them. [@12] Police put the market price of the ganja at about Rs 35 lakh per kilogram. [@12] Police said the network was linked to Bangkok, and named a wanted accused known as Roni, who lives there and is originally from Andheri in Mumbai, as its supplier of hybrid ganja. [@12] Police said they would take the four arrested men on remand for further questioning. [@12]
