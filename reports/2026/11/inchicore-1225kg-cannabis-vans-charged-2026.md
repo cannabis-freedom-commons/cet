@@ -92,6 +92,10 @@ sources:
     url: https://dublinpeople.com/news/southside/articles/2026/11/23/two-arrested-after-e1-76m-drugs-seizure-in-inchicore/
     publisher: Dublin People
     date: 2026-11-23
+  - title: €1.76m drug seizure and two arrests in Inchicore
+    url: https://www.echo.ie/e1-76m-drug-seizure-and-two-arrests-in-inchicore/
+    publisher: Echo.ie
+    date: 2026-11-23
 open_questions:
     - An account published on 22 November says both men were still detained at garda stations in the Dublin metropolitan region, while reporting published the same weekend says they had already been charged.
     - No court outcome, plea or detention decision has been reported for the two charged men.
@@ -101,17 +105,17 @@ open_questions:
 Gardaí attached to the Dublin Crime Response Team carried out an
 intelligence-led operation on Bulfin Road, Inchicore, Dublin 8 at 6.45pm as part
 of Operation Tara. [@1,2,4,5,6] They seized 110kgs of vacuum-packed cannabis herb from
-two parked vans. [@1,2,4,5,6,7] The two men, aged in their 20s and 40s, who were the
-drivers of the vans, were arrested at the scene. [@1,2,4,5,7] Gardaí said the two drivers were held at garda stations in the Dublin Metropolitan Region under Section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@4,5]
+two parked vans. [@1,2,4,5,6,7,8] The two men, aged in their 20s and 40s, who were the
+drivers of the vans, were arrested at the scene. [@1,2,4,5,7,8] Gardaí said the two drivers were held at garda stations in the Dublin Metropolitan Region under Section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@4,5]
 
 In a follow-up search under warrant at a property in Dublin 8, gardaí also
 seized a further 12.5kgs of cannabis herb, .5 kg of cocaine, €4,550 in cash, a
 Glock 19 semi-automatic pistol, five rounds of ammunition and an assortment of
-documents. [@1,3,4,5,6,7] The combined total of 122.5kgs of cannabis herb and .5kg of
-cocaine was valued at €1,765,000. [@1,2,4,5,6,7]
+documents. [@1,3,4,5,6,7,8] The combined total of 122.5kgs of cannabis herb and .5kg of
+cocaine was valued at €1,765,000. [@1,2,4,5,6,7,8]
 
-Both men were charged after the seizure. [@1,4,5] They were due to appear before
-Dublin District Court at Court No 4 of the Criminal Courts of Justice. [@1,4] Both men are due to appear before Dublin District Court on Monday 23 November 2026. [@6] The
-seized drugs were subject to analysis by Forensic Science Ireland. [@1,2,4,5,6] The
+Both men were charged after the seizure. [@1,4,5,8] They were due to appear before
+Dublin District Court at Court No 4 of the Criminal Courts of Justice. [@1,4,8] Both men are due to appear before Dublin District Court on Monday 23 November 2026. [@6] The
+seized drugs were subject to analysis by Forensic Science Ireland. [@1,2,4,5,6,8] The
 firearm was to be examined by the Garda Ballistics Section and investigations
-were ongoing. [@1,5]
+were ongoing. [@1,5,8]
