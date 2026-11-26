@@ -50,6 +50,11 @@ media:
     media_url: https://cidadeverde.com/assets/uploads/colecoes/2/2026/11/prisao-droga-onibus.jpg
     publisher: CidadeVerde.com
     caption: 'Police handout photo of the 52 marijuana tablets seized from the bus near the Teresina bus station. Photo: Divulgação/PMPI'
+  - kind: video
+    url: https://portalodia.com/videos/dois-homens-sao-presos-com-52-tabletes-de-maconha-em-onibus-em-teresina/53933
+    media_url: https://www.youtube.com/watch?v=TqNibYONO3o
+    publisher: Portal O Dia
+    caption: 'Video report on the two men arrested with 52 tablets of marijuana on a bus in Teresina. Video: Portal O Dia on YouTube'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 44363a9cfec161dd10ac89913e228aed
@@ -80,11 +85,16 @@ sources:
     publisher: CidadeVerde.com
     date: 2026-11-23
     language: pt
+  - title: Dois homens são presos com 52 tabletes de maconha em ônibus em Teresina
+    url: https://portalodia.com/videos/dois-homens-sao-presos-com-52-tabletes-de-maconha-em-onibus-em-teresina/53933
+    publisher: Portal O Dia
+    date: 2026-11-23
+    language: pt
 ---
 
 Military police in Teresina arrested two passengers on the night of Sunday 22
 November 2026 during a stop of an interstate bus travelling from São Paulo to
-Teresina, near the city's bus station. [@1,4,5] The Piauí Military Police said the
+Teresina, near the city's bus station. [@1,4,5,6] The Piauí Military Police said the
 two passengers acted suspiciously and tried to get rid of a box when a patrol
 car approached. [@1,5] The stop was carried out by teams of the Batalhão de Rondas
 Ostensivas de Natureza Especial (BPRONE), a special ostensive patrol battalion.
@@ -92,7 +102,7 @@ Ostensivas de Natureza Especial (BPRONE), a special ostensive patrol battalion.
 but were caught by the officers. [@1,4]
 
 When they checked the box, officers found 52 tablets (tabletes) of marijuana.
-[@1,5] One of the tablets contained skunk, and all the drugs were handed to the Civil Police with further investigation by DENARC. [@4] A follow-up report identified one of the detainees as José Wesley Monteiro
+[@1,5,6] One of the tablets contained skunk, and all the drugs were handed to the Civil Police with further investigation by DENARC. [@4] A follow-up report identified one of the detainees as José Wesley Monteiro
 Santos, 26, whom his family had reported missing since the Sunday night. [@2]
 The commander said a second man, whose identity was not released, was also
 arrested in the operation. [@2] The other suspect was Gregório Pereira Alves. [@4] His family had circulated a poster on social
