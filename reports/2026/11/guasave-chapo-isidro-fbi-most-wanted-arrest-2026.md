@@ -264,10 +264,11 @@ sources:
     publisher: AD.nl
     date: 2026-11-22
     language: nl
-open_questions:
-    - The defence minister's Monday figure of four soldiers and 16 organised-crime members killed in the firefight is higher than the eleven deaths reported earlier.
-    - Whether the United States extradition request will proceed after any Mexican trial was not yet decided.
-    - The next court dates and detention status in the Mexican prosecution on weapons and methamphetamine charges were not reported.
+  - title: المكسيك تلقي القبض على تاجر مخدرات سيئ السمعة.
+    url: https://www.vietnam.vn/ar/mexico-bat-giu-trum-ma-tuy-khet-tieng
+    publisher: vietnam.vn
+    date: 2026-11-22
+    language: ar
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
@@ -277,7 +278,7 @@ allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12,18,23,25,28,31] T
 detained his cousin German, alias Serafin, described as the group's
 second-in-command, and his brother-in-law Jose, its financial operator. [@6,21,26,27,31]
 Army and National Guard special forces carried out the arrest with US
-intelligence support. [@5,9,10,12,13,14,17,20,21,22,23,24,26,27,29,31] The troops used stealth and surprise to reach the area, establishing a perimeter around the dealer's location and moving in from multiple directions, according to Mexico's US embassy. [@28,29]
+intelligence support. [@5,9,10,12,13,14,17,20,21,22,23,24,26,27,29,31,33] The troops used stealth and surprise to reach the area, establishing a perimeter around the dealer's location and moving in from multiple directions, according to Mexico's US embassy. [@28,29]
 
 Eight people were arrested and seven suspected attackers were killed. [@6,12,13,17,21,24] Four
 soldiers travelling to reinforce security in Guasave were also killed, an
@@ -285,7 +286,7 @@ overall toll of eleven deaths. [@2,12,13,21,23,24,28,31] The defence minister sa
 before entering the house where the arrests were made. [@2,10,19,21,22,26] Three detainees were
 flown to Mexico City and handed to the federal organised-crime prosecutor's
 office, while five were handed to the federal prosecutor's office in Culiacan.
-[@6,21,26] Forces seized a Barrett .50-calibre rifle, ten other firearms, a grenade
+[@6,21,26,33] Forces seized a Barrett .50-calibre rifle, ten other firearms, a grenade
 launcher, two hand grenades, ammunition, tactical equipment, drugs and cash.
 [@6,12,21,23] Special forces seized six vehicles during the operation, two of them fitted with bullet-proof armour and gun turrets. [@29]
 
@@ -296,11 +297,11 @@ marijuana and fentanyl for importation into the United States. [@3,10,14,30] Mex
 wanted notice for him charges conspiracy to distribute one thousand kilograms or
 more of marijuana for importation into the United States. [@4] The FBI said his
 organisation moved large quantities of heroin, methamphetamine, cocaine,
-fentanyl and marijuana into the United States. [@1,12,16,18,19,20,22,26,27,28,30] The US Drug Enforcement Administration called the arrest a major success against one of Mexico's violent criminal networks, which it said had trafficked heroin, methamphetamine, cocaine, fentanyl and large quantities of cannabis into the United States for decades. [@13] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
+fentanyl and marijuana into the United States. [@1,12,16,18,19,20,22,26,27,28,30,33] The US Drug Enforcement Administration called the arrest a major success against one of Mexico's violent criminal networks, which it said had trafficked heroin, methamphetamine, cocaine, fentanyl and large quantities of cannabis into the United States for decades. [@13] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
 arrest warrant for organised crime and offences against health. [@5,10,21] He was also subject to an extradition order to the United States. [@10,21] Attorney General Ernestina Godoy said Mexico is going to put Meza on trial in this country when asked whether he would be sent to the United States. [@30] Security Minister Omar Garcia Harfuch said on Monday that Washington had requested Meza's extradition after his capture on Friday in Sinaloa. [@30] The FBI
 added him to its Ten Most Wanted list on 4 February 2025 and the US State
 Department offered a reward of up to five million dollars for information
-leading to his capture. [@7,10,12,14,16,19,20,21,25,26,28]
+leading to his capture. [@7,10,12,14,16,19,20,21,25,26,28,33]
 
 After the arrest, Sinaloa reported gunfire, burning vehicles and road blockades,
 and a Pacific League baseball game in Guasave was suspended. [@6,9,10,12,16,22,29,32] At least six commercial establishments and dozens of vehicles were burned on the routes in and out of the city. [@31,32] One of the detainees was under age. [@29] Soldiers detained eight alleged members of the cartel. [@29] Soldiers on patrol in Sinaloa de Leyva were shot at by suspects on Sunday while trying to restore order after Meza Flores's arrest. [@29] The US Consulate General in Hermosillo said it was monitoring armed clashes, road blockades and vehicle fires overnight in Ahome, Guamúchil, Guasave and Navolato after the arrest. [@21,23] The United States warned its citizens against Federal Highway 15 between Los Mochis and Culiacán and to check flight and transport schedules. [@31] An unverified video circulating overnight appeared to show the detained Meza Flores urging his associates to stand down, warning that children, women and innocent people could be put in harm's way. [@12] Video footage circulating after the operation appeared to show security-force helicopters circling over Guasave and firing at ground targets, while gunmen returned fire from pickup trucks. [@17,22,25,27] Harfuch wrote on X that the detentions were an important step toward restoring peace in Sinaloa. [@10] US Ambassador to Mexico Ronald Johnson said on X that results like the arrest were the product of sustained cooperation and trust between the two countries. [@28] Security secretary Omar Garcia Harfuch said on Saturday that troops would remain in Sinaloa to protect residents. [@10] Sinaloa's public security agency urged residents to stay indoors, avoid the area and stay off the roads because federal personnel had been attacked in Guasave. [@10,16,19,20,25] The defence ministry said roadblocks were reported in four areas of Sinaloa after the arrests and security forces were sent to reopen roads. [@10,28] By the morning of 21 November the security situation was basically controlled with no major clashes recorded, while about 90% of the blocked roads in central and northern Sinaloa had been reopened. [@31] The Sinaloa state government said on 21 November that the situation was largely under control. [@17] Meza Flores,
