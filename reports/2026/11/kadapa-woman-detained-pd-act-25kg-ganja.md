@@ -48,33 +48,31 @@ sources:
     url: https://deccanchronicle.com/amp/southern-states/andhra-pradesh/ntr-district-police-seize-1341-liquor-bottles-from-ysrcp-leaders-house-2007014
     publisher: Deccan Chronicle
     date: 2026-11-23
-open_questions:
-  - 'The accounts name different laws: The Hindu says the Preventive Detention Act, while The New Indian Express and Deccan Chronicle say the PIT-NDPS Act, 1988.'
-  - No date is given for the detention itself; 23 November 2026 is taken from the publication date of The Hindu's account.
-  - The 25.75 kg is the total seized in six cases registered between 2021 and 2025, not a single seizure at the time of detention.
-  - No court outcome or challenge to the detention order was reported.
-  - All three accounts reproduce information supplied by the police and are not independent reporting.
+  - title: పూల లక్ష్మీదేవి.. నడిచే దారంతా గంజాయి | general
+    url: https://www.eenadu.net/telugu-news/districts/ysr-kadapa-news/5/126213997
+    publisher: EENADU
+    date: 2026-11-24
+    language: te
 ---
 
 Kadapa district police detained a 27-year-old woman under the Preventive
 Detention Act for alleged illegal transport, possession and sale of ganja in
 Kadapa district. [@1] They identified her as Poola Lakshmi Devi, a daily wage
 labourer, accused in six cases across Kadapa Taluka, Chinnachowk, Atluru and
-Two-Town police stations. [@1] The New Indian Express named her Poola
+Two-Town police stations. [@1,4] She had been arrested and sent to jail several times before. [@4] Of the six cases, two were in Kadapa Second Town station, one under Chinnachowk, two in Taluka station and one in Atluru. [@4] The New Indian Express named her Poola
 Lakshmidevi alias Lakshmi and said the proceedings were under the Prevention of
 Illicit Traffic in Narcotic Drugs and Psychotropic Substances (PIT-NDPS) Act,
-1988. [@2] Deccan Chronicle said she lived in Masapeta in Kadapa and had been
-named an accused in six narcotics cases at different police stations. [@3]
+1988. [@2,4] Deccan Chronicle said she lived in Masapeta in Kadapa and had been
+named an accused in six narcotics cases at different police stations. [@3,4]
 
-Police said a total of 25.75 kg of ganja had been seized from her. [@1] The
+Police said a total of 25.75 kg of ganja had been seized from her. [@1,4] The
 seizures included 1.2 kg in a 2021 Kadapa II Town case, 250 grams in a 2022 case
 and 22 kg in a 2023 Chinnachowk case. [@3] Two cases at Kadapa Taluk in 2024 and
 2025 accounted for 600 grams each, and a 2025 Atlur case for 1.1 kg. [@3]
 
 Two-Town Inspector V. Srihari and his team prepared the detention proposal under
-SP Shelke Nachiket Vishwanath and DSP T. Bhavani. [@1] The New Indian Express
+SP Shelke Nachiket Vishwanath and DSP T. Bhavani. [@1,4] DSP Bhavani with CI Srihari disclosed the details at her office on Monday. [@4] The New Indian Express
 said the detention was initiated under G.O. Ms. No. 131 issued by the General
 Administration (SC-I) Department on 8 October 2018. [@2] The SP said the
 district police followed a zero-tolerance policy on illegal transportation,
 storage and sale of marijuana and other drugs. [@1]
-
