@@ -52,6 +52,11 @@ media:
     media_url: https://periodicocorreo.com.mx/core/correo/assets/images/2026/11/22/detiene-fspe-a-dos-personas-en-san-francisco-del-rincon-y-leon-02-1-CJRoujuKX.jpg
     publisher: Periódico Correo
     caption: A second FSPE photo from the San Francisco del Rincón and León detentions, published by Periódico Correo.
+  - kind: photo
+    url: https://noticiasnpi.com/detienen-a-dos-personas-y-aseguran-mil-566-dosis-de-droga-en-leon-y-san-francisco-del-rincon/
+    media_url: https://noticiasnpi.com/wp-content/uploads/2026/11/detenidos_droga-1-1140x570.webp
+    publisher: Noticias Por Internet
+    caption: Photograph published with the Noticias Por Internet report on the two FSPE patrols in León and San Francisco del Rincón. No caption or photo credit given.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 90289da69def59d7e744153517f41c11
@@ -72,23 +77,29 @@ sources:
     publisher: Periódico Correo
     date: 2026-11-22
     language: es
+  - title: Detienen a dos personas y aseguran mil 566 dosis de droga en León y San Francisco del Rincón
+    url: https://noticiasnpi.com/detienen-a-dos-personas-y-aseguran-mil-566-dosis-de-droga-en-leon-y-san-francisco-del-rincon/
+    publisher: Noticias Por Internet
+    date: 2026-11-22
+    language: es
 open_questions:
     - The San Francisco del Rincón marihuana was reported as 363 grams, but no weight or value was published for the marihuana seized in León or for the crystal.
     - The 189 doses of suspected crystal are a separate non-cannabis substance and the 1,566-dose figure is a combined total for all suspected drugs, so neither is counted as a cannabis quantity.
     - No charges, detention ruling or court outcome were reported for either detainee.
     - The accounts all draw on the Guanajuato security authorities' statement and are not independent reporting.
+    - The two operations took place on 25 and 30 October 2026, but the accounts were published on 22 November and do not explain the delay.
 ---
 
 Guanajuato state police detained a woman and a man in two operations in León and
-San Francisco del Rincón, seizing more than 1,500 doses of suspected drugs. [@2,3]
+San Francisco del Rincón, seizing more than 1,500 doses of suspected drugs. [@2,3,4]
 In the Granja Las Amalias neighbourhood of León, the 40-year-old woman was
-detained after allegedly trying to escape when she saw the police. [@2,3] The woman was identified as Alma Reyna "N", 40, and was placed at the disposal of the state prosecutor's office in León. [@3] That detention took place on 25 October on Dolores Contreras street. [@3] A search
-found 50 bags of suspected marihuana, equivalent to 1,014 doses. [@2,3] In the
+detained after allegedly trying to escape when she saw the police. [@2,3,4] The woman was identified as Alma Reyna "N", 40, and was placed at the disposal of the state prosecutor's office in León. [@3,4] That detention took place on 25 October on Dolores Contreras street. [@3] A search
+found 50 bags of suspected marihuana, equivalent to 1,014 doses. [@2,3,4] In the
 Niños Héroes neighbourhood of San Francisco del Rincón, a 23-year-old was
-detained with 189 doses of suspected crystal and 363 of marihuana. [@2,3] The man was identified as Diego "N", 23, and was placed at the disposal of the FGR. [@3] The marihuana was one bag of 363 grams, described as equivalent to 363 doses. [@3] That detention took place on 30 October on Fausto León street. [@3]
+detained with 189 doses of suspected crystal and 363 of marihuana. [@2,3,4] Officers found the suspected crystal in 192 bags and the 363 grams of marihuana in a black backpack. [@4] The man was identified as Diego "N", 23, and was placed at the disposal of the FGR. [@3,4] The marihuana was one bag of 363 grams, described as equivalent to 363 doses. [@3] That detention took place on 30 October on Fausto León street. [@3,4]
 
 The 1,566 doses of suspected drugs secured in both municipalities were placed at
-the disposal of the authority with the two detainees. [@1] Both detainees were
+the disposal of the authority with the two detainees. [@1,4] Both detainees were
 handed to the corresponding authorities to determine their legal situation. [@2]
 The operations were carried out by the Fuerzas de Seguridad Pública del Estado,
-Guanajuato's state public security force. [@2] The National Guard and the Mexican Army also took part in the two patrols. [@3]
+Guanajuato's state public security force. [@2] The National Guard and the Mexican Army also took part in the two patrols. [@3,4]
