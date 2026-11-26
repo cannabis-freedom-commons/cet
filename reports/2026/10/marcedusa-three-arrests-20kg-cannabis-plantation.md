@@ -121,6 +121,11 @@ sources:
     publisher: Calabria Diretta News
     date: 2026-11-17
     language: it
+  - title: 'Marcedusa, scoperta una piantagione di cannabis: tre arresti e 20 chili di marijuana sequestrati'
+    url: https://lamilano.it/catanzaro/marcedusa/marcedusa-scoperta-una-piantagione-di-cannabis-tre-arresti-e-20-chili-di-marijuana-sequestrati/
+    publisher: La Milano
+    date: 2026-11-22
+    language: it
 open_questions:
     - The marijuana amount is given as about 20 kilograms, not an exact measured weight.
     - The nature and function of the pen-like device found in the lorry were not established, and the results of the ballistic tests were not reported.
@@ -129,26 +134,26 @@ open_questions:
 
 Carabinieri of the Sellia Marina company, supported by the Cacciatori 'Calabria'
 helicopter squadron, discovered a cannabis plantation hidden in dense vegetation
-in an impervious agricultural area of Marcedusa, in Catanzaro province. [@1,6,7,8,9,12] The
+in an impervious agricultural area of Marcedusa, in Catanzaro province. [@1,6,7,8,9,12,13] The
 operation was launched on 9 October 2026 during a territory patrol. [@4,8,9] Inside
-the plot officers surprised three people cutting and processing the plants. [@1,7,8,10,12]
+the plot officers surprised three people cutting and processing the plants. [@1,7,8,10,12,13]
 The three suspects were arrested in flagrante and taken to Catanzaro prison.
-[@1,6,8,10,12] The investigation and the operation were carried out by the Carabinieri together with the public prosecutor's office at the court of Catanzaro. [@6] The investigating judge validated the arrests on 12 October 2026 and
+[@1,6,8,10,12,13] The investigation and the operation were carried out by the Carabinieri together with the public prosecutor's office at the court of Catanzaro. [@6] The investigating judge validated the arrests on 12 October 2026 and
 ordered pre-trial detention in prison. [@2,8,9,12] A 21-year-old was reported at
 liberty to the Catanzaro prosecutor for possession of narcotics for trafficking
 after about 21 grams of marijuana and a precision scale were found in his car.
-[@1,7,8,10,12]
+[@1,7,8,10,12,13]
 
-The cultivated area had an autonomous irrigation system. [@1,7,9] Officers found 27
+The cultivated area had an autonomous irrigation system. [@1,7,9,13] Officers found 27
 cannabis stalks about 2.5 metres tall and a drying area where the substance was
-already ready for packaging. [@1,7,8,10,12] Police seized about 20 kilograms of marijuana
-that had already been harvested. [@1,7,8,11,12]
+already ready for packaging. [@1,7,8,10,12,13] Police seized about 20 kilograms of marijuana
+that had already been harvested. [@1,7,8,11,12,13]
 
 Follow-up searches involving the Botricello and Mesoraca carabinieri stations
 covered people, vehicles and homes in the provinces of Catanzaro and Crotone.
-[@5,7,8,10,12] In a lorry used by one of the suspects officers found a snap device
-resembling a 'pen pistol', which was to undergo ballistic tests. [@1,7,8,10,12] More than
-15,700 euros in cash was seized from the homes searched. [@1,7,8,10,12] The plantation was
+[@5,7,8,10,12,13] In a lorry used by one of the suspects officers found a snap device
+resembling a 'pen pistol', which was to undergo ballistic tests. [@1,7,8,10,12,13] More than
+15,700 euros in cash was seized from the homes searched. [@1,7,8,10,12,13] The plantation was
 dismantled and the plants, the drug material and the cultivation and drying
 equipment were seized. [@1,7,8,10,12] The case remained at the preliminary investigation
 stage. [@3,10]
