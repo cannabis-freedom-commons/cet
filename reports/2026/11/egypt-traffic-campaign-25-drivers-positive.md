@@ -45,27 +45,25 @@ sources:
     publisher: فيتو
     date: 2026-11-21
     language: ar
-open_questions:
-  - None of the accounts names the substance in the 25 nationwide or the two Regional Ring Road positive tests, so it is not established that any of them involved cannabis.
-  - No separate date for the campaign round is given; 21 November 2026 is the publication date and is used as the incident date.
-  - No driver names, governorate breakdown, charges or prosecution decisions were reported for the drivers who tested positive.
-  - The accounts do not say what the nine court rulings against the five detained people concerned.
-  - The three accounts reproduce the same Interior Ministry statement and are not independent reporting.
+  - title: ضبط 116 ألف مخالفة مرورية خلال 24 ساعة.. وفحص 733 سائقًا للكشف عن تعاطي المخدرات
+    url: https://darelhilal.com/News/3348378.aspx
+    publisher: دار الهلال
+    date: 2026-11-21
+    language: ar
 ---
 
 Egypt's Interior Ministry continued traffic campaigns on roads and main axes
 across the country. [@1] Officers tested 733 drivers and 25 were positive for
-drug use. [@1] The campaigns recorded more than 116,000 varied traffic
-violations in 24 hours. [@1] The main offences were driving without licences,
+drug use. [@1,4] The campaigns recorded more than 116,000 varied traffic
+violations in 24 hours. [@1,4] The main offences were driving without licences,
 exceeding the set speed, random parking, using a mobile phone at the wheel and
-breaching licence conditions. [@1] El Watan put the nationwide total at 116,268
+breaching licence conditions. [@1,4] El Watan put the nationwide total at 116,268
 violations. [@2]
 
 A parallel campaign in work zones along the Regional Ring Road recorded 445
-traffic violations in 24 hours. [@1] Those violations included carrying
+traffic violations in 24 hours. [@1,4] Those violations included carrying
 passengers against the law, breaching licence conditions and vehicles without
 the required security and durability standards. [@1] Officers tested 87 drivers
-on the Regional Ring Road and two were positive for drug use. [@1] The campaign
-detained five people wanted under nine court rulings. [@1] Vetogate said the
+on the Regional Ring Road and two were positive for drug use. [@1,4] The campaign
+detained five people wanted under nine court rulings. [@1,4] Vetogate said the
 drivers who tested positive faced legal measures. [@3]
-
