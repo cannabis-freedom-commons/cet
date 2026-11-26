@@ -56,6 +56,11 @@ sources:
     publisher: Quintana Roo Hoy
     date: 2026-11-22
     language: es
+  - title: Tres hombres detenidos en Cancún con dosis de marihuana
+    url: https://galucomunicacion.com/tres-hombres-detenidos-cancun-marihuana/
+    publisher: Galu Noticias
+    date: 2026-11-22
+    language: es
 open_questions:
   - No separate date is given for the detention; 22 November 2026 is the article's publication date and is used as the incident date.
   - No weight, plant count or monetary value was published for the 113 bags, so no kilograms or value are recorded.
@@ -69,23 +74,22 @@ Three men were detained in Cancún after state citizen security officers detecte
 an apparent drug exchange. [@1] The detention took place during surveillance
 patrols on calle Diagonal Tulum in the municipality of Benito Juárez, where
 officers of the Dirección de Investigación, the secretariat's investigation
-directorate, saw the three men near a vehicle. [@1] According to the police
+directorate, saw the three men near a vehicle. [@1,2] According to the police
 report, the men were exchanging small plastic bags containing a herb with
 characteristics similar to marijuana. [@1] Officers stopped the men, explained
 the reason for the intervention and carried out a preventive search. [@1]
 Authorities identified the detainees as Jorge Andrés 'N', Fabián 'N' and Wilmer
 'N', and all three remained under investigation for suspected involvement in
-health crimes. [@1]
+health crimes. [@1,2]
 
 Officers found 113 small plastic bags (113 bolsitas) of green plant material
-that appeared to be marijuana. [@1] They also seized a white Kia Sportage with
-Jalisco registration plates. [@1] Other seized items were two shoulder bags, a
-tactical-style bag and four mobile phones. [@1]
+that appeared to be marijuana. [@1,2] They also seized a white Kia Sportage with
+Jalisco registration plates. [@1,2] Other seized items were two shoulder bags, a
+tactical-style bag and four mobile phones. [@1,2]
 
 After the intervention, police took the three men to the Fiscalía Especializada
 en Combate al Delito de Narcomenudeo, the state prosecutor's specialised
-street-drug unit. [@1] The vehicle and all the seized objects were handed over
+street-drug unit. [@1,2] The vehicle and all the seized objects were handed over
 with them, and the prosecutor's office will determine their legal situation and
 continue the investigation. [@1] The arrest was part of surveillance and
 street-drug enforcement actions in Benito Juárez. [@1]
-
