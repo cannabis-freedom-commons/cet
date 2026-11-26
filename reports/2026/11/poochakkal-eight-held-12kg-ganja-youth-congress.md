@@ -121,17 +121,17 @@ sources:
     publisher: Karma News
     date: 2026-11-22
     language: ml
-open_questions:
-    - 'Accounts differ on which check Shameer was caught in: this account places him among the five in the car at Makkekadavu, while some earlier reporting put him with the three stopped near Palliveli junction.'
-    - The submitted account rounds the car seizure to 11 kg while the PTI and existing accounts give 11.6 kg; the existing 11.6 kg figure is retained.
-    - The submitted account names only the five car occupants and does not mention the earlier three arrests near Palliveli junction that bring the recorded case total to eight.
-    - Name spellings vary by transliteration between outlets (for example Ali Jauhar/Juwahar and Salahudeen Ayoob/Salahudheen Ayoobi).
+  - title: केरल में युवा कांग्रेस कार्यकर्ता समेत 5 लोग गिरफ्तार, 11.6 किलोग्राम गांजा बरामद
+    url: https://inshorts.com/hi/news/%E0%A4%95-%E0%A4%B0%E0%A4%B2-%E0%A4%AE---%E0%A4%AF-%E0%A4%B5--%E0%A4%95--%E0%A4%97-%E0%A4%B0-%E0%A4%B8-%E0%A4%95-%E0%A4%B0-%E0%A4%AF%E0%A4%95%E0%A4%B0-%E0%A4%A4--%E0%A4%B8%E0%A4%AE-%E0%A4%A4-5-%E0%A4%97-%E0%A4%B0%E0%A4%AB-%E0%A4%A4-%E0%A4%B0--11-6-%E0%A4%95-%E0%A4%97-%E0%A4%B0--%E0%A4%97--%E0%A4%9C--%E0%A4%AC%E0%A4%B0-%E0%A4%AE%E0%A4%A6-1795342740405
+    publisher: Inshorts
+    date: 2026-11-22
+    language: hi
 ---
 
 Eight men were arrested in the case, among them a local Youth Congress leader.
 [@4,13,16] The five occupants of a car stopped at Makkekadavu junction in Poochakkal
-were found with 11.6 kg of ganja packed in bags. [@3,6,7,8,9,10,11,12,14,15,16,17] The four other men in the car were Ali Jauhar, 24, and Krishnakumar, 23, both from Manappuram, and Salahudeen Ayoob, 24, and Mohammed Aslam, 23, both from Poochakkal. [@6,9,11,12,15,16,17] The car was intercepted at
-about 10.50 pm on Saturday while it travelled from Cherthala to Arookutty. [@2,5,7,8,10,14] Police said they acted on a tip-off when they stopped the car. [@8,10] The check was carried out jointly by the Alappuzha district DANSAF team and Poochakkal police. [@5,6,12]
+were found with 11.6 kg of ganja packed in bags. [@3,6,7,8,9,10,11,12,14,15,16,17,19] The four other men in the car were Ali Jauhar, 24, and Krishnakumar, 23, both from Manappuram, and Salahudeen Ayoob, 24, and Mohammed Aslam, 23, both from Poochakkal. [@6,9,11,12,15,16,17] The car was intercepted at
+about 10.50 pm on Saturday while it travelled from Cherthala to Arookutty. [@2,5,7,8,10,14,19] Police said they acted on a tip-off when they stopped the car. [@8,10] The check was carried out jointly by the Alappuzha district DANSAF team and Poochakkal police. [@5,6,12]
 Earlier that evening, at about 4 pm, three other men were arrested with 1.270 kg
 of ganja near Palliveli junction, and questioning them led police to the car.
 [@3] One of them, Shemeer, 38, is a Youth Congress worker from Manappuram whose
@@ -141,8 +141,8 @@ organisation. [@2,7,10] Shameer had left the CPI(M) some years earlier and joine
 Kerala Assembly Deputy Speaker Shanimol Usman. [@1,5,6,11,12]
 
 Police said the men had bought a large quantity of ganja in Palakkad and were
-selling it in smaller quantities to users in Kochi. [@2,7,10] All eight were produced
-before a magistrate and remanded in judicial custody. [@3,8] Shemeer complained of
+selling it in smaller quantities to users in Kochi. [@2,7,10,19] All eight were produced
+before a magistrate and remanded in judicial custody. [@3,8,19] Shemeer complained of
 chest discomfort and was taken to Ernakulam General Hospital. [@2] Poochakkal
 police registered a case under the Narcotic Drugs and Psychotropic Substances
 Act. [@1,5,6,11,12] Investigations were continuing to establish each man's role in the
