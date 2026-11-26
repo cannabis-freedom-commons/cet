@@ -52,6 +52,11 @@ media:
     media_url: http://www.vakiodaily.com/upload_images/news/20261123/big_6b03069459ddc.jpg
     publisher: 華僑報 (Vakio Daily)
     caption: 'Suspected cannabis buds seized in the first of the two airport cases. Photo: 香港中通社 (Hong Kong China News Agency)'
+  - kind: photo
+    url: https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20261124-1124_00176_264/%E6%A9%9F%E5%A0%B4%E6%AA%A2800%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E8%8A%B1--%E8%8B%B1%E7%B1%8D%E4%BF%9D%E9%8F%A2%E5%85%A7%E5%9C%B0%E6%BC%A2%E5%B0%B1%E9%80%AE
+    media_url: https://orientaldaily.on.cc/asset/news/20261124/photo/1124-00176-264s1.jpg
+    publisher: 東方日報
+    caption: 'Suspected cannabis flowers seized in the first airport case. Photo: Oriental Daily'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 39b6f8b0421e1a2ef557a1b100e6cb32
@@ -111,25 +116,30 @@ sources:
     url: https://www.bastillepost.com/global/article/6386672-hong-kong-customs-seizes-about-37-3-kg-of-suspected-cannabis-buds-in-two-airport-drug-trafficking-cases
     publisher: Bastillepost
     date: 2026-11-22
+  - title: 機場檢800萬元大麻花 英籍保鏢內地漢就逮 - 東方日報
+    url: https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20261124-1124_00176_264/%E6%A9%9F%E5%A0%B4%E6%AA%A2800%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E8%8A%B1--%E8%8B%B1%E7%B1%8D%E4%BF%9D%E9%8F%A2%E5%85%A7%E5%9C%B0%E6%BC%A2%E5%B0%B1%E9%80%AE
+    publisher: 東方日報
+    date: 2026-11-24
+    language: zh
 ---
 
 Hong Kong Customs arrested two men in two drug trafficking cases detected at
-Hong Kong International Airport on 20 and 21 November 2026. [@1,6,7,8,9,10] In the first
+Hong Kong International Airport on 20 and 21 November 2026. [@1,6,7,8,9,10,12] In the first
 case, a 46-year-old British national who said he worked as a bodyguard was
 transiting from Bangkok to London when officers found about 35 kilograms of
-suspected cannabis buds in his two checked suitcases. [@1,5,6,8,9] Customs officers said
+suspected cannabis buds in his two checked suitcases. [@1,5,6,8,9,12] Customs officers said
 X-ray images of his suitcases showed items of similar shape and unusually even
 density, prompting the search. [@2] In the second case, officers found about 2.3
 kilograms of suspected cannabis buds on 10 August in an unclaimed checked bag
 that had arrived from Bangkok, and on 21 November arrested a 39-year-old
-mainland Chinese man when he flew in from Bangkok via Taipei. [@1,5,6,7,9,11]
+mainland Chinese man when he flew in from Bangkok via Taipei. [@1,5,6,7,9,11,12] The 39-year-old mainland man was described as unemployed. [@12]
 
 The two cases together yielded about 37.3 kilograms of suspected cannabis buds,
-which Customs valued at about HK$8 million. [@1,5,6,7,8,9,10,11] Customs put the first case's 35
+which Customs valued at about HK$8 million. [@1,5,6,7,8,9,10,11,12] Customs put the first case's 35
 kilograms at about HK$7.5 million. [@2] The 2.3 kilograms found in the unclaimed
 bag were valued at about HK$500,000. [@3] Each of the two men was charged with
 one count of trafficking in a dangerous drug, and both cases were listed for
-West Kowloon Magistrates' Courts on 23 November. [@1,5,6,7,8,9,11]
+West Kowloon Magistrates' Courts on 23 November. [@1,5,6,7,8,9,11,12]
 
 Customs said the first case showed trafficking syndicates using Hong Kong as a
 transit hub to move drugs through transit passengers, and the second showed them
