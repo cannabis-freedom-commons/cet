@@ -197,20 +197,25 @@ sources:
     publisher: 星島日報
     date: 2026-11-22
     language: zh
+  - title: Мексиканські військові затримали наркобарона зі списку десяти найбільш розшукуваних ФБР
+    url: https://www.bagnet.org/news/world/1406087/meksikanski-viyskovi-zatrimali-narkobarona-zi-spisku-desyati-naybilsh-rozshukuvanih-fbr
+    publisher: Bagnet.org
+    date: 2026-11-22
+    language: uk
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
 Isidro and listed among the FBI's Ten Most Wanted fugitives, in Guasave,
-Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18,20,22,23] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15,19] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16,20] He led the Beltran Leyva organisation,
+Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18,20,22,23,24] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15,19] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16,20] He led the Beltran Leyva organisation,
 allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12,18,23] The Meza Flores organisation he led was also known as Los Mazatlecos. [@16,19] The operation also
 detained his cousin German, alias Serafin, described as the group's
 second-in-command, and his brother-in-law Jose, its financial operator. [@6,21]
 Army and National Guard special forces carried out the arrest with US
-intelligence support. [@5,9,10,12,13,14,17,20,21,22,23]
+intelligence support. [@5,9,10,12,13,14,17,20,21,22,23,24]
 
-Eight people were arrested and seven suspected attackers were killed. [@6,12,13,17,21] Four
+Eight people were arrested and seven suspected attackers were killed. [@6,12,13,17,21,24] Four
 soldiers travelling to reinforce security in Guasave were also killed, an
-overall toll of eleven deaths. [@2,12,13,21,23] The defence ministry said it had no reports of civilian casualties. [@12,13] The troops came under gunfire and explosives
+overall toll of eleven deaths. [@2,12,13,21,23,24] The defence ministry said it had no reports of civilian casualties. [@12,13] The troops came under gunfire and explosives
 before entering the house where the arrests were made. [@2,10,19,21,22] Three detainees were
 flown to Mexico City and handed to the federal organised-crime prosecutor's
 office, while five were handed to the federal prosecutor's office in Culiacan.
