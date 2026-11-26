@@ -58,29 +58,34 @@ sources:
     publisher: Xinhua
     date: 2025-06-23
     language: fr
+  - title: 'Narcotrafic : la Douane saisit 47 kg de cannabis saisis à Ekok'
+    url: https://actucameroun.com/2025/06/21/narcotrafic-la-douane-saisit-47-kg-de-cannabis-saisis-a-ekok/
+    publisher: Actu Cameroun
+    date: 2025-06-21
+    language: fr
 open_questions:
   - Early wire and local reports described the same Ekok interception as 47 kg in 47 one-kilogram packets, while the later customs newsletter account gives 45 kg; the report uses the later official 45 kg figure.
   - The arrested owner's name, age and sex were not published beyond Nigerian nationality.
   - No custody decision, charge or court outcome for the arrested owner was reported.
   - All accounts trace to the customs directorate's newsletter; no independent account of the inspection was available.
+  - It is unclear whether the load weighed 47 kg in 47 one-kilogram packets or 45 kg as later given.
 ---
 
 Customs officers of the mobile brigade at Ekok in the South-West Region seized a
-cannabis consignment during a check on 20 June 2025. [@1] Officers arrested the
-Nigerian national responsible for the cargo and took him into custody. [@2] The
+cannabis consignment during a check on 20 June 2025. [@1,4] Officers arrested the
+Nigerian national responsible for the cargo and took him into custody. [@2,4] The
 owner told investigators the cannabis was meant for several drug traffickers
-based in Douala, the economic capital. [@1] The suspected courier acknowledged
+based in Douala, the economic capital. [@1,4] The suspected courier acknowledged
 the load was intended for drug-trafficking networks operating in Douala in the
 Littoral Region. [@3]
 
 The load weighed 45 kilograms of cannabis. [@1] The cannabis was hidden inside
 bundles of slippers carried on a public bus that had crossed into Cameroon from
-Nigeria. [@2] The customs directorate described the haul as the largest cannabis
-load seized by customs since the start of 2025. [@1]
+Nigeria. [@2,4] The customs directorate described the haul as the largest cannabis
+load seized by customs since the start of 2025. [@1,4]
 
 Cameroon and Nigeria share a 1,500-kilometre border stretching from the
 country's northern tip to its southern end. [@2] Cameroon customs presented the
 seizure as part of its Halte au commerce illicite operation against illegal
 goods. [@2] The Directorate General of Customs under the Finance Ministry
 disclosed the interception in its newsletter. [@1]
-
