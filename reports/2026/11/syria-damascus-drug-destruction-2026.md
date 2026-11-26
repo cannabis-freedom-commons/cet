@@ -228,6 +228,10 @@ sources:
     publisher: أخبار الخليج
     date: 2026-11-23
     language: ar
+  - title: Syrian Authorities Destroy Large Quantities of Narcotics Including 400 Million Captagon Pills
+    url: https://english.ratopati.com/story/87812/syria-destroys-400-million-captagon-pills
+    publisher: Ratopati
+    date: 2026-11-23
 ---
 
 Syria's Anti-Narcotics Directorate announced on Sunday 22 November 2026 that a
@@ -238,11 +242,11 @@ were destroyed in batches under approved legal and environmental procedures.
 efforts against drugs. [@2,25]
 
 The destroyed material included 12.2 tonnes of hashish and 2.3 tonnes of
-cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33] The same batches included
+cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34] The same batches included
 400 million Captagon pills, 6 kilograms of heroin and 5.4 million other narcotic
 pills, none of which is counted as cannabis. [@3,5,6,8,9,11,12,13,14,15,16,17,18,20,21,22,23,24,25,26,27,29,30,31,33] The directorate also destroyed
 equipment and chemicals used to smuggle, conceal, transport and manufacture the
-drugs. [@1,6,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31]
+drugs. [@1,6,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,34]
 
 Interior Minister Anas Khattab said the quantities were among the largest
 destroyed since Bashar al-Assad's government fell in December 2024. [@4,7,28]
