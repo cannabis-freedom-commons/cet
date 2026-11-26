@@ -56,12 +56,11 @@ sources:
     url: https://burgasmedia.com/news/policiyata-izze-okolo-700-g-marihuana-ot-frizer-v-imot-kray-carevo?lang=en
     publisher: BurgasMedia
     date: 2026-11-23
-open_questions:
-  - The sources give only an approximate weight of about 700 grams, with no precise measurement reported.
-  - The seized plant matter was described only as marijuana and dry grass mass, with no laboratory confirmation reported.
-  - One account describes the man as the owner of the property and another as the person using it.
-  - No charge, further detention measure or court outcome beyond the initial 24-hour detention was reported.
-  - Two March seizures in Burgas mentioned in one account are separate events left out of this report.
+  - title: Откриха 700 грама марихуана във фризер край Царево! - Днес България
+    url: https://dnesbulgaria.com/%D0%BE%D1%82%D0%BA%D1%80%D0%B8%D1%85%D0%B0-700-%D0%B3%D1%80%D0%B0%D0%BC%D0%B0-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-%D0%B2%D1%8A%D0%B2-%D1%84%D1%80%D0%B8%D0%B7%D0%B5%D1%80-%D0%BD/
+    publisher: Днес България
+    date: 2026-11-23
+    language: bg
 ---
 
 Officers of the district police administration in the seaside town of Tsarevo
@@ -69,13 +68,12 @@ carried out a check of a property in the Lozata locality on the outskirts of the
 town. [@1] The property was linked to a 42-year-old man from Sofia, with one
 account describing him as its owner and another as the person using it. [@1]
 Officers detained the man for a period of up to 24 hours following the check.
-[@2]
+[@2,3]
 
 During the inspection they found about 700 grams of marijuana at the property,
-which police then seized. [@1] Police described the seized material as dry plant
+which police then seized. [@1,3] Police described the seized material as dry plant
 matter that had been divided between two nylon bags. [@1] Officers found those
-bags stored inside a freezer at the property on the day of the check. [@2]
+bags stored inside a freezer at the property on the day of the check. [@2,3]
 
 The Burgas regional police directorate, ODMVR-Burgas, reported the seizure and
 said that fast-track proceedings had been opened in the case. [@1]
-
