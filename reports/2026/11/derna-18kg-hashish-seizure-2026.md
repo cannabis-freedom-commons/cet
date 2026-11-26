@@ -72,6 +72,11 @@ media:
     media_url: https://cdn.eremnews.com/media/3d2e7f88-60a0-4d8a-b156-66b1aaa22bb3_v3.webp
     publisher: إرم نيوز
     caption: Seized drugs displayed after the Derna operation, in the lead photo accompanying the Erem News report.
+  - kind: photo
+    url: https://www.nessma.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/actu/%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%B4%D8%B1%D9%82-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7/601634
+    media_url: https://www.nessma.tv/uploads/news/23/2026-11/443e0b0e9f8033d89264ff9c7577cb1b.jpg
+    publisher: Nessma
+    caption: The drugs seized in the Derna operation, in the lead image published with the Arabic Nessma report.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7026da21e7b3b5604517fdb70f6f7a84
@@ -220,28 +225,33 @@ sources:
     url: https://africa-eye.com/en/2026/11/18/libya-seizes-over-four-million-drug-pills-in-derna-as-trafficking-concerns-mount/
     publisher: Africa Eye
     date: 2026-11-18
+  - title: ضبط كمية كبيرة من الأقراص المخدرة والكوكايين في شرق ليبيا
+    url: https://www.nessma.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/actu/%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%82%D8%B1%D8%A7%D8%B5-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%B4%D8%B1%D9%82-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7/601634
+    publisher: Nessma
+    date: 2026-11-18
+    language: ar
 open_questions:
     - No figure was published for the number of network members detained.
 ---
 
 The Derna branch of Libya's General Administration for Combating Drugs and
 Psychotropic Substances carried out a security operation south of Gate 200 in
-the city of Derna. [@1,4,13,18,22,25,26,27] The seized drugs were pictured and dated to Tuesday 17
+the city of Derna. [@1,4,13,18,22,25,26,27,30] The seized drugs were pictured and dated to Tuesday 17
 November 2026 in Derna, in material credited to the anti-drugs administration.
-[@1,11,29] Officers seized 18 kilograms of hashish in the operation. [@1,4,13,18,21,22,26,27] Photos published by the administration with its statement showed quantities of hashish alongside boxes and clear bags holding white pills. [@3,5,7,8,9,10,11,12,15,16,17,19,20,23,24,28]
+[@1,11,29] Officers seized 18 kilograms of hashish in the operation. [@1,4,13,18,21,22,26,27,30] Photos published by the administration with its statement showed quantities of hashish alongside boxes and clear bags holding white pills. [@3,5,7,8,9,10,11,12,15,16,17,19,20,23,24,28]
 
 The same haul also included 4,162,682 narcotic pills described as Captagon,
-ecstasy, tramadol and Tamol. [@1,4,13,18,21,22,25,26,27] Officers also seized 11 kilograms of cocaine
+ecstasy, tramadol and Tamol. [@1,4,13,18,21,22,25,26,27,30] Officers also seized 11 kilograms of cocaine
 alongside the hashish and pills, which is not counted in the cannabis figures.
-[@1,4,13,22,26,27] A Reuters account of the seizure put the haul at more than four million narcotic pills and 29 kilograms of cocaine and hashish together. [@3,5,9,10,11,12,14,15,16,20,23,24,29] The head of the anti-drugs administration, Maj. Gen. Ahmed Al-Shamikh, gave
+[@1,4,13,22,26,27,30] A Reuters account of the seizure put the haul at more than four million narcotic pills and 29 kilograms of cocaine and hashish together. [@3,5,9,10,11,12,14,15,16,20,23,24,29] The head of the anti-drugs administration, Maj. Gen. Ahmed Al-Shamikh, gave
 the same breakdown of 4,162,682 pills plus 18 kilograms of hashish and 11
 kilograms of cocaine in the second account. [@2] The same account quoted the administration's director, Maj. Gen. Ahmed Al-Shamikh, saying in a video statement released late on 17 November that the authorities would not be lenient with anyone who sought to tamper with the security of young Libyans or the country's future. [@3,5,6,7,8,10,12,14,15,19,20,23,24,26,28] The first account said the
 operation implemented instructions from the administration's director to
 intensify anti-drug efforts and pursue dealers and promoters. [@1,13] The second
 account instead described the operation as implementing instructions from the
 deputy commander-in-chief of the armed forces and the interior minister to
-redouble efforts against drugs and pursue their traders and promoters. [@2] The statement named the officials whose instructions it cited: Lt Gen Saddam Haftar, the deputy commander-in-chief, interior minister Maj Gen Essam Abu Zariba and administration director Maj Gen Ahmed Al-Shamikh. [@22]
+redouble efforts against drugs and pursue their traders and promoters. [@2,30] The statement named the officials whose instructions it cited: Lt Gen Saddam Haftar, the deputy commander-in-chief, interior minister Maj Gen Essam Abu Zariba and administration director Maj Gen Ahmed Al-Shamikh. [@22]
 
 The seized materials were sealed as evidence and the necessary legal measures
-were taken. [@1,4,13,22] Inquiries were continuing under Public Prosecution supervision
-to identify the members of the gang involved. [@1,4,13,21,22,27] The authorities were questioning the detained network members to establish its foreign links and who was behind its financing. [@6] The administration's statement also said members of the criminal network had been detained in the city. [@3,5,6,7,8,9,10,11,12,14,15,16,17,19,20,23,24,25,26,28] The statement said the detainees were involved in possessing and trading the seized substances. [@26]
+were taken. [@1,4,13,22,30] Inquiries were continuing under Public Prosecution supervision
+to identify the members of the gang involved. [@1,4,13,21,22,27,30] The authorities were questioning the detained network members to establish its foreign links and who was behind its financing. [@6] The administration's statement also said members of the criminal network had been detained in the city. [@3,5,6,7,8,9,10,11,12,14,15,16,17,19,20,23,24,25,26,28] The statement said the detainees were involved in possessing and trading the seized substances. [@26]
