@@ -56,26 +56,27 @@ sources:
     publisher: Polícia Federal
     date: 2026-11-22
     language: pt
-open_questions:
-  - No estimate of the hashish's street value was published.
-  - No formal charge, trial date or court outcome beyond the arrest in flagrante was reported.
+  - title: Homem é preso com 4,6 kg de haxixe no Aeroporto do Galeão
+    url: https://www.atribunarj.com.br/materia/homem-e-preso-com-46-kg-de-haxixe-no-aeroporto-do-galeao
+    publisher: A Tribuna
+    date: 2026-11-22
+    language: pt
 ---
 
 A 21-year-old Brazilian was arrested in flagrante as he landed at Rio's Galeão
 International Airport on Saturday evening with about 4.6 kg of hashish in his
-luggage. [@1] The Federal Police dated the arrest to Saturday 21 November 2026
-and said it acted jointly with the Federal Revenue. [@2]
+luggage. [@1,3] The Federal Police dated the arrest to Saturday 21 November 2026
+and said it acted jointly with the Federal Revenue. [@2,3]
 
 According to the Federal Police, the drugs were hidden in the false bottom of a
-suitcase he had checked in. [@1] Officers and Federal Revenue staff found 83
-tablets of the drug in the false bottom during a routine inspection. [@2] The
+suitcase he had checked in. [@1,3] Officers and Federal Revenue staff found 83
+tablets of the drug in the false bottom during a routine inspection. [@2,3] The
 tablets were discovered during a routine check on arrival, in a joint operation
 by the Federal Police and the Federal Revenue. [@1]
 
 The passenger, a native of Uberlândia in Minas Gerais, had flown from Bangkok,
 Thailand, connecting in Dubai, the United Arab Emirates, before reaching Rio.
-[@1] He was taken to the Federal Police regional headquarters in Rio, where an
-arrest report was drawn up for international drug trafficking. [@2] Police said
+[@1,3] He was taken to the Federal Police regional headquarters in Rio, where an
+arrest report was drawn up for international drug trafficking. [@2,3] Police said
 he would then be sent to the state prison system and remain at the disposal of
-the courts. [@2]
-
+the courts. [@2,3]
