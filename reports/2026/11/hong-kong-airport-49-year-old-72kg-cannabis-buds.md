@@ -57,26 +57,25 @@ sources:
     url: https://www.info.gov.hk/gia/general/202611/23/P2026112300685.htm
     publisher: Government of the Hong Kong Special Administrative Region
     date: 2026-11-23
-open_questions:
-  - The material is described only as suspected cannabis buds, with no laboratory confirmation reported.
-  - No flight origin or route was reported for the 49-year-old man's arrival.
-  - The about HK$4.1 million estimated value covers the cocaine, ecstasy powder and cannabis together; no cannabis-only value was published.
-  - The man was identified only by age, sex and mainland residence; no name was reported.
-  - No outcome of the 24 November court mention or later proceedings was reported.
+  - title: 海關兩日偵破3宗航空旅客販毒案 拘3男女檢值410萬貨
+    url: https://www.wenweipo.com/s/202611/23/AP6b042f87e4b028ec01954dbd.html
+    publisher: 香港文匯報
+    date: 2026-11-23
+    language: zh
 ---
 
 Hong Kong Customs stopped a 49-year-old mainland male passenger for clearance at
 Hong Kong International Airport on 23 November 2026. [@2] Officers found about
-7.2 kg of suspected cannabis buds in his hand luggage. [@1] The man was arrested
+7.2 kg of suspected cannabis buds in his hand luggage. [@1,3] The man was arrested
 at the airport. [@2] He has been charged with one count of trafficking in a
 dangerous drug, and his case was listed for West Kowloon Magistrates' Courts on
-24 November. [@2]
+24 November. [@2,3]
 
 The cannabis seizure was the third of three baggage-concealment drug cases
-detected at the airport on 22 and 23 November. [@2] Together the three cases
+detected at the airport on 22 and 23 November. [@2,3] Together the three cases
 yielded about 3.5 kg of suspected cocaine, about 1 kg of suspected ecstasy
 powder and about 7.2 kg of suspected cannabis buds, with an estimated total
-market value of about HK$4.1 million. [@2] In the first case, a 23-year-old
+market value of about HK$4.1 million. [@2,3] In the first case, a 23-year-old
 Spanish woman and a 22-year-old Colombian man arriving from Paris were arrested
 after about 3.5 kg of suspected cocaine was found in false compartments of their
 checked suitcases. [@2] In the second case, a 24-year-old local man arriving
@@ -86,4 +85,3 @@ in coffee-powder packages was found in his hand luggage. [@2]
 The first two cases were still under investigation when the third-case detainee
 was charged. [@1] Trafficking in a dangerous drug carries a maximum penalty of a
 HK$5 million fine and life imprisonment. [@1]
-
