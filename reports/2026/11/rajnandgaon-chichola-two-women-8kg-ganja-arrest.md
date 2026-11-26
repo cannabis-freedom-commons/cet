@@ -80,6 +80,11 @@ sources:
     publisher: The Bharat Now
     date: 2026-11-20
     language: hi
+  - title: छत्तीसगढ़ में गांजा तस्करी का भंडाफोड़, महाराष्ट्र की दो महिलाएं गिरफ्तार; 8.224 किलो नशीला पदार्थ बरामद
+    url: https://cgsandesh.com/Home/NewsDetails/117586
+    publisher: CG SANDESH
+    date: 2026-11-20
+    language: hi
 open_questions:
     - The arrest happened on the night of 18 November 2026 and was published on 19 November 2026; 18 November is used as the incident date.
     - The material was described by police as ganja; no laboratory confirmation was reported.
@@ -89,20 +94,20 @@ open_questions:
 ---
 
 Rajnandgaon police arrested two women from Maharashtra at Chichola bus stand on
-suspicion of ganja trafficking. [@1,3,5] The women were identified as 28-year-old
+suspicion of ganja trafficking. [@1,3,5,7] The women were identified as 28-year-old
 Asha Sunil Kade of Borgaon in Beed district and 45-year-old Gauri Bhagwan Kale
 of Shirdi in Ahmednagar district. [@2,3,4,5] Police registered a case under Section
 20(b) of the NDPS Act and a court sent both women to jail on judicial remand.
-[@2,4,5,6]
+[@2,4,5,6,7]
 
 Police said an informant reported on the night of 18 November that two women had
 arrived by bus from the Raipur side with ganja and were seeking buyers at the
-bus stand. [@2,3,4] Acting under the superintendent's direction, the Chichola
+bus stand. [@2,3,4,7] Acting under the superintendent's direction, the Chichola
 outpost team cordoned off the area around the bus stand and detained two women
 matching the description. [@1] A search of their joint possession found two
 backpacks holding plastic packets wrapped in khaki tape, with four packets
-totalling 8.224 kilograms of ganja. [@1] Police seized 4.110 kilograms from Asha Kade and 4.114 kilograms from Gauri Kale. [@5,6] Police said Asha Kade's bag held 4.110 kilograms and Gauri Kale's bag 4.114 kilograms of the ganja. [@4] Police put the value of the 8 kilograms
-and 224 grams at about 400,500 rupees. [@1,4,5,6]
+totalling 8.224 kilograms of ganja. [@1] Police seized 4.110 kilograms from Asha Kade and 4.114 kilograms from Gauri Kale. [@5,6,7] Police said Asha Kade's bag held 4.110 kilograms and Gauri Kale's bag 4.114 kilograms of the ganja. [@4] Police put the value of the 8 kilograms
+and 224 grams at about 400,500 rupees. [@1,4,5,6,7]
 
 The case was recorded as crime number 223/2025 at Chichola outpost under
 Chhuriya police station. [@1] Police said the action was part of the district's
