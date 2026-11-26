@@ -81,6 +81,11 @@ sources:
     publisher: Europa Press
     date: 2026-11-23
     language: es
+  - title: Detenidas dos personas en Manilva con 24 kilos de hachís en un vehículo por la AP-7
+    url: https://manilva.ws/detenidas-dos-personas-en-manilva-con-24-kilos-de-hachis-en-un-vehiculo-por-la-ap-7/
+    publisher: Manilva WebSite
+    date: 2026-11-23
+    language: es
 media:
   - kind: photo
     url: https://cadenaser.com/andalucia/2026/11/24/detenidos-en-manilva-tras-ser-sorprendidos-con-24-kilos-de-hachis-en-un-control-de-trafico-ser-malaga/
@@ -95,20 +100,20 @@ media:
 ---
 
 The intervention took place on Saturday 21 November at about 10:30 at kilometre
-point 142.800 of the AP-7 in Manilva. [@2,4,5,8,9] Officers from the Manilva post
+point 142.800 of the AP-7 in Manilva. [@2,4,5,8,9,10] Officers from the Manilva post
 stopped a vehicle occupied by two people and inspected the boot, where there
-were two suitcases. [@1,4,5,8] Just as the officers were about to open one of the
+were two suitcases. [@1,4,5,8,10] Just as the officers were about to open one of the
 suitcases, the driver ran off, crossed all the motorway lanes and fled into the
-countryside. [@1,4,5,7,8,9] Several officers chased the driver on foot for five minutes
+countryside. [@1,4,5,7,8,9,10] Several officers chased the driver on foot for five minutes
 through dense vegetation, brambles and over a two-metre fence, after he fell
-down a ravine several metres deep, and then caught him. [@1,6,7]
+down a ravine several metres deep, and then caught him. [@1,6,7,10]
 
 Back at the checkpoint, officers found that the suitcases held a total of 24
 kilos of hashish packed in brown plastic in different formats. [@1,4,5,7,9] Both the
 driver and his companion were arrested for an alleged offence against public
 health and, after police custody, were put before the judicial authority, which
 ordered provisional prison for the driver and release with charges for the
-passenger. [@1,4,7]
+passenger. [@1,4,7,10]
 
 The arrests were made during a routine vehicle and person control carried out by
 officers from the Manilva station. [@3] The operation formed part of the Civil
