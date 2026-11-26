@@ -47,22 +47,27 @@ sources:
     publisher: Masrawy
     date: 2026-11-23
     language: ar
+  - title: ضبط تشكيل عصابي بمطروح بحوزته مخدرات وسجائر مهربة بـ6.75 مليار جنيه - قناة صدى البلد
+    url: https://elbaladtv.net/%d8%b6%d8%a8%d8%b7-%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%b9%d8%b5%d8%a7%d8%a8%d9%8a-%d8%a8%d9%85%d8%b7%d8%b1%d9%88%d8%ad-%d8%a8%d8%ad%d9%88%d8%b2%d8%aa%d9%87-%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d9%88
+    publisher: Sada El Balad
+    date: 2026-11-23
+    language: ar
 ---
 
 Security forces ambushed and detained members of a gang described as highly
 dangerous criminals while they were in Matrouh Governorate, with the Central
 Security Sector taking part. [@1,2,3] Legal procedures were taken after the
-detentions. [@1]
+detentions. [@1,4]
 
 Officers seized about one million Tramadol pills, 250 kg of hashish and one
 million smuggled cigarette packs, which police valued together at about 250
-million pounds. [@1,2,3] They also seized five million Captagon pills, which police
+million pounds. [@1,2,3,4] They also seized five million Captagon pills, which police
 valued at 6.5 billion pounds in the destination countries, for a combined total
-of about 6.75 billion pounds. [@1,2,3]
+of about 6.75 billion pounds. [@1,2,3,4]
 
 The operation followed information and investigations by the Sector for
 Combating Drugs, Unlicensed Arms and Ammunition, Egypt's anti-narcotics body, in
-coordination with other Interior Ministry agencies. [@1] Investigators said the
+coordination with other Interior Ministry agencies. [@1,4] Investigators said the
 gang brought large quantities of drugs, pills and smuggled cigarettes through
 desert tracks in Matrouh Governorate for sale inside Egypt and in other
-countries. [@1,2,3]
+countries. [@1,2,3,4]
