@@ -47,24 +47,28 @@ sources:
     publisher: Dinamani
     date: 2026-11-24
     language: ta
+  - title: சிறை பறவைகளை மீண்டும் சிறைக்குள் தள்ளிய கஞ்சா
+    url: https://www.dinamalar.com/news/tamil-nadu-district-news-erode/cannabis-throws-prison-birds-back-into-prison/4384732
+    publisher: Dinamalar
+    date: 2026-11-24
+    language: ta
 open_questions:
-  - 22 November 2026 is inferred from a Sunday-night patrol and jailing on Monday, with the report published on 24 November 2026.
-  - The whole account rests on a single Dinamani report.
-  - No value estimate, source of the ganja, or criminal charge was reported.
+    - 22 November 2026 is inferred from a Sunday-night patrol and jailing on Monday, with the reports published on 24 November 2026.
+    - Dinamalar describes the 11 kg as small packets the men were hiding, while Dinamani places it hidden in bushes near the parcel office.
+    - No value estimate or criminal charge was reported.
 ---
 
 Erode prohibition police were on patrol in the railway station area on Sunday
 night. [@1] Officers questioned two men who were standing there in a way that
-aroused suspicion. [@1] The two were identified as 29-year-old Surya of
-Karikadu, Pattukottai in Thanjavur district. [@1] The second man was 38-year-old
+aroused suspicion. [@1,2] The two were identified as 29-year-old Surya of
+Karikadu, Pattukottai in Thanjavur district. [@1,2] The second man was 38-year-old
 Ramesh of Thinnappatti near Mettur in Salem district, who runs a scrap-iron shop
-in Perundurai. [@1]
+in Perundurai. [@1,2]
 
 Police said the pair had become acquainted while lodged in Visakhapatnam jail in
-Andhra Pradesh after arrests in an earlier criminal case. [@1] The men had come
-to Erode to attempt selling ganja. [@1] Officers seized 11 kg of ganja that the
-men had hidden in bushes near the parcel office of Erode railway station. [@1]
+Andhra Pradesh after arrests in an earlier criminal case. [@1,2] The men had come
+to Erode to attempt selling ganja. [@1] Surya brought the ganja from Andhra Pradesh to Erode by train after Ramesh asked for ganja to sell. [@2] Officers seized 11 kg of ganja that the
+men had hidden in bushes near the parcel office of Erode railway station. [@1,2] Police said they are investigating the contacts of both men. [@2]
 
 Police produced both men before a court. [@1] They were lodged in Erode branch
 jail on Monday. [@1]
-
