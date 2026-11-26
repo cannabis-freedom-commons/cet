@@ -99,20 +99,25 @@ sources:
     url: https://www.bignewsnetwork.com/news/279447257/from-odisha-to-achampet-eagle-force-uncovers-ganja-supply-network-targeting-local-youth
     publisher: Big News Network
     date: 2026-11-22
+  - title: నల్లమలలో గంజాయి గుట్టు రట్టు | general
+    url: https://www.eenadu.net/telugu-news/districts/mahbubnagar-news/532/126212155
+    publisher: Eenadu
+    date: 2026-11-21
+    language: te
 ---
 
 Police in Achampet, Nagarkurnool district, Telangana, detained two suspected
 cannabis sellers and nine young men found consuming cannabis, the deputy
-superintendent of police said at a press conference on Saturday. [@4] The
+superintendent of police said at a press conference on Saturday. [@4,10] The
 operation was carried out by EAGLE Force, Telangana's dedicated
 drug-law-enforcement unit, together with Achampet Town Police. [@2,3,5,9] The team had
 monitored the town for several months because of increasing ganja consumption
 among young people in Achampet and neighbouring villages. [@2] Police said they had increased surveillance of ganja sales and supply and set up teams to identify and raid sale points. [@8] The two men had planned the sales together and aimed them at students and young people under 25. [@8] The surveillance was led by N. Buchaiah, a deputy superintendent of police with EAGLE Force's Regional Narcotics Control Cell in Mahabubnagar. [@6,9] The two sellers
 were identified as Md Rasool Basha, 26, and Puttasaga Rajesh, 26, taken into
-custody near the new bus stand. [@1,7,8] Rasool Basha had come out of jail about five months before this arrest and had gone back to selling ganja. [@8]
+custody near the new bus stand. [@1,7,8,10] Rasool Baba, from Velugommula in Midjil mandal, was living temporarily in Mahindra Nagar Colony in Achampet. [@10] Rasool Basha had come out of jail about five months before this arrest and had gone back to selling ganja. [@8]
 
 Officers seized 7.440 kg of ganja, 21,640 rupees in cash, a Pulsar motorcycle,
-three mobile phones, a packing machine and a weighing machine, police said. [@1,7]
+three mobile phones, a packing machine and a weighing machine, police said. [@1,7,10]
 Police valued the ganja at about 372,000 rupees. [@1,5,7,9] The nine consumers were
 caught behind a petrol station near Y Junction in the town. [@1] All nine tested
 positive for THC in drug tests, the deputy superintendent said. [@1] The supply
@@ -120,7 +125,7 @@ case was registered as Crime No. 305/2026. [@1] The consumers' case was
 registered as Crime No. 304/2026. [@1]
 
 Police said the men bought the ganja from a man named Hari in Kalimela village,
-Malkangiri district, Odisha, at 5,000 rupees a kilogram. [@1,3,6] On 17 November Rajesh rode a motorcycle to Bhadrachalam and paid Hari 28,000 rupees for the 7.44 kg seized on Saturday, police said. [@4] After his release on bail he returned to Kalimela, bought 1 kg for 5,000 rupees and sold it in 5-gram packets at 500 rupees each to more than 50 young men in and around Achampet, making about 30,000 rupees, police said. [@3,9] He was caught there by police in Chhattisgarh and held in judicial custody in Dantewada jail for about five months and 20 days, police said. [@7,9] In November 2025 he travelled to Odisha and bought 16 kg of ganja for 25,000 rupees, police said. [@7,9] Police said Rasool Basha had worked as a Zepto delivery executive in Hyderabad, where he built contacts with cannabis users. [@7] They packed it
+Malkangiri district, Odisha, at 5,000 rupees a kilogram. [@1,3,6] On 17 November Rajesh rode a motorcycle to Bhadrachalam and paid Hari 28,000 rupees for the 7.44 kg seized on Saturday, police said. [@4] After his release on bail he returned to Kalimela, bought 1 kg for 5,000 rupees and sold it in 5-gram packets at 500 rupees each to more than 50 young men in and around Achampet, making about 30,000 rupees, police said. [@3,9] He was caught there by police in Chhattisgarh and held in judicial custody in Dantewada jail for about five months and 20 days, police said. [@7,9,10] In November 2025 he travelled to Odisha and bought 16 kg of ganja for 25,000 rupees, police said. [@7,9] Police said Rasool Basha had worked as a Zepto delivery executive in Hyderabad, where he built contacts with cannabis users. [@7] They packed it
 into 5-gram packets and sold each for 500 rupees in Achampet. [@1] The two
 sellers were booked under the Narcotic Drugs and Psychotropic Substances Act and
-sent to judicial remand. [@3]
+sent to judicial remand. [@3] All 11 were produced in court and sent to remand. [@10]
