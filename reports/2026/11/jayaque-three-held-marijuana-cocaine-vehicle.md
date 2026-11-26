@@ -53,6 +53,11 @@ sources:
     publisher: Diario1
     date: 2026-11-23
     language: es
+  - title: Policía salvadoreña incautó 16 paquetes de marihuana y cocaína durante un control vehicular
+    url: https://www.infobae.com/el-salvador/2026/11/23/policia-salvadorena-incauto-16-paquetes-de-marihuana-y-cocaina-durante-un-control-vehicular/
+    publisher: Infobae
+    date: 2026-11-23
+    language: es
 open_questions:
     - No weight or value was published for the marijuana or cocaine, and no cocaine portion count was given; the new account reports at least eight marijuana portions of various sizes.
     - The suspects were only reported as due to be referred; no charge filing or court outcome was given.
@@ -70,19 +75,24 @@ media:
     media_url: https://cdnwine.diario1.com/wp-content/uploads/2026/11/image-23.png
     publisher: Diario1
     caption: 'Seized drug portions from the Jayaque vehicle in a second police handout photo. Photo: vía Policía Nacional Civil'
+  - kind: photo
+    url: https://www.infobae.com/el-salvador/2026/11/23/policia-salvadorena-incauto-16-paquetes-de-marihuana-y-cocaina-durante-un-control-vehicular/
+    media_url: https://www.infobae.com/resizer/v2/L5SHNFHA4REG7B2KT6IHOGXXZU.jpg?auth=25ee884799e5abdd7fcb971e7c4a1f2479d3395c9c67968a8ca81ecab9208233&smart=true&width=992&height=1323&quality=85
+    publisher: Infobae
+    caption: 'The three people intercepted in Jayaque with marijuana and cocaine in a vehicle, in a police handout photo. Photo: courtesy Policía Nacional Civil'
 ---
 
 Three people were arrested for illicit drug trafficking during a police patrol
 in the district of Jayaque, La Libertad Oeste, the National Civil Police (PNC)
-said. [@2,3] They were identified as Albin Ernesto Ramos Vásquez, 26, David
-Ernesto Santos Núñez, 27, and Paola Virginia Alvarado Alfaro, 25. [@2,3] The PNC
+said. [@2,3,4] They were identified as Albin Ernesto Ramos Vásquez, 26, David
+Ernesto Santos Núñez, 27, and Paola Virginia Alvarado Alfaro, 25. [@2,3,4] The PNC
 announced the arrests on Sunday, 22 November 2026. [@1]
 
 During the procedure in Jayaque police found several portions of marijuana and
-cocaine that the three were carrying in a vehicle. [@1,3] Police found at least eight portions of marijuana of various sizes, along with other packages of illicit material. [@3] All three were
+cocaine that the three were carrying in a vehicle. [@1,3,4] The packages were colourfully wrapped to look like other products. [@4] Police found at least eight portions of marijuana of various sizes, along with other packages of illicit material. [@3] The police publication pictures show 14 packages about 10 centimetres across and two large packages, with additional bags of illicit substances. [@4] All three were
 travelling in a vehicle which held portions of cocaine and marijuana that were
 located during the police procedure. [@2]
 
-The three were to be referred for the offence of illicit trafficking. [@1,3] The
+The three were to be referred for the offence of illicit trafficking. [@1,3,4] Article 33 of that law provides 10 to 15 years in prison for transporting, storing, distributing, supplying or selling drugs without legal authorisation. [@4] The
 PNC said the suspects would be referred to the relevant authorities to answer
 for illicit drug trafficking. [@2]
