@@ -153,6 +153,19 @@ sources:
     url: https://www.socialnews.xyz/2026/11/22/youth-congress-leader-among-five-arrested-after-kerala-police-seize-11-6-kg-ganja-in-alappuzha/
     publisher: Social News XYZ
     date: 2026-11-22
+  - title: ചേർത്തലയിൽ കഞ്ചാവുമായി യൂത്ത് കോൺഗ്രസ് പ്രവർത്തകൻ അടക്കം അഞ്ച് പേർ പിടിയിൽ
+    url: https://www.newsmalayalam.com/amp/story/newsroom/kerala/five-people-including-a-youth-congress-worker-arrested-in-cherthala-with-cannabis
+    publisher: News Malayalam 24x7
+    date: 2026-11-22
+    language: ml
+open_questions:
+    - English-language wire reports counted five arrests and 11.6 kg from the car, while the Malayalam accounts counted eight arrests and put the total at 12 to 13 kg once the earlier Palliveli check is included; this report uses eight arrests and the 12 kg total given by Mathrubhumi.
+    - 'Sources differ on Shameer''s standing in the party: IANS described him as an office-bearer of the Congress mandalam committee, while district Youth Congress leaders said he held no post and had been inactive for months.'
+    - The IANS account dates the arrests to Sunday while describing a check late on Saturday night; its own detail and other reports place the interception at 10.50 pm on Saturday 21 November 2026.
+    - No value or street price was published for the ganja.
+    - Police did not name the Palakkad supplier or report further arrests, and no charge sheet, bail hearing or trial date has been reported.
+    - One Malayalam account places the Makkekadavu arrests at about 1 am, while other reports put the car interception at about 10.50 pm on Saturday 21 November 2026.
+    - One account said the arrested men were still in police custody, while others reported that all eight had been produced before a magistrate and remanded in judicial custody.
 ---
 
 Eight men were arrested in the case, among them a local Youth Congress leader.
@@ -165,7 +178,7 @@ of ganja near Palliveli junction, and questioning them led police to the car.
 social media accounts show photographs with party leaders. [@2,5,7,9,10,13,14,15,22] The pictures show him with Chief Minister V D Satheesan, Excise Minister M Liju and Deputy Speaker Shanimol Usman, among others. [@23] District Youth
 Congress leaders said he had been inactive for months and held no post in the
 organisation. [@2,7,10,22] Shameer had left the CPI(M) some years earlier and joined the Youth Congress, district Youth Congress leaders said. [@9,14,15,18,21] The leaders said Shameer had joined the Youth Congress three years ago and had earlier been a DYFI worker. [@13] Shameer was reportedly involved in the election campaign of
-Kerala Assembly Deputy Speaker Shanimol Usman. [@1,5,6,11,12,25]
+Kerala Assembly Deputy Speaker Shanimol Usman. [@1,5,6,11,12,25,26] He was reported to be close to Chief Minister V.D. Satheesan, Deputy Speaker Shanimol Usman and Rahul Mankoottathil, an accused in rape cases. [@26]
 
 Police said the men had bought a large quantity of ganja in Palakkad and were
 selling it in smaller quantities to users in Kochi. [@2,7,10,19,20,21,22] All eight were produced
