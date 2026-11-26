@@ -115,18 +115,23 @@ sources:
     publisher: مصر تايمز
     date: 2026-11-22
     language: ar
+  - title: ضبط شخص ظهر في فيديو أثناء تدخين «الحشيش» بالإسكندرية – الأسبوع
+    url: https://www.elaosboa.com/3030294/
+    publisher: الأسبوع
+    date: 2026-11-22
+    language: ar
 ---
 
 Egypt's Interior Ministry said its security services identified and arrested a
 man filmed in a video circulated on social media smoking a cigarette suspected
-of containing a drug in Alexandria. [@1,6,7,8,9] The video had circulated on social
+of containing a drug in Alexandria. [@1,6,7,8,9,10] The video had circulated on social
 media before the security services traced and arrested the man shown in it. [@2,7]
 Officers identified him as a worker at a shop who lives in the Second El-Raml
-police district in Alexandria. [@1,5,6,7,8,9] Questioned, he admitted smoking a cigarette
+police district in Alexandria. [@1,5,6,7,8,9,10] Questioned, he admitted smoking a cigarette
 containing hashish on 19 November while he was in the Sidi Gaber police
-district, and named the man he had obtained the drugs from. [@1,5,6,7,8,9] That man is
+district, and named the man he had obtained the drugs from. [@1,5,6,7,8,9,10] That man is
 unemployed with a criminal record and lives in the same district, and the
-security services arrested him and found a quantity of hashish with him. [@3,6,7,8,9]
+security services arrested him and found a quantity of hashish with him. [@3,6,7,8,9,10]
 
 The seller admitted holding the hashish with intent to sell it, the Akhbar
 El-Yom account of the ministry statement said. [@2,5,6] Veto reported the same
