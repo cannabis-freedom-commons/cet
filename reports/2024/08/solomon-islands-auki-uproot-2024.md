@@ -27,6 +27,11 @@ sources:
     publisher: Royal Solomon Islands Police Force
     url: https://www.rsipf.gov.sb/?q=node/3063
     locator: 22 August 2024; event on 20 August; nearly 200 plants
+  - title: 200 marijuana plants uprooted in Malaita
+    url: https://www.solomonstarnews.com/200-marijuana-plants-uprooted-in-malaita/
+    publisher: Solomon Star News
+    date: 2024-08-22
+    archived: https://web.archive.org/web/20240925104724id_/https://www.solomonstarnews.com/200-marijuana-plants-uprooted-in-malaita/
 ---
 
-On 20 August 2024 police in Auki uprooted nearly 200 marijuana plants near Ngadefiu village in Central Kwara'ae, Malaita. Community leaders had helped the police, and the alleged owner ran off before officers arrived; no arrest was reported. The provincial commander praised the village for acting against cultivation. [@1]
+On 20 August 2024 police in Auki uprooted nearly 200 marijuana plants near Ngadefiu village in Central Kwara'ae, Malaita. Community leaders had helped the police, and the alleged owner ran off before officers arrived; no arrest was reported. The provincial commander praised the village for acting against cultivation. [@1,2] The provincial commander was Chief Superintendent Tex Tafoa. [@2]
