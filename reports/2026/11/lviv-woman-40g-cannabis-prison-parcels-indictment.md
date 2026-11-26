@@ -76,22 +76,27 @@ sources:
     publisher: UA.NEWS
     date: 2026-11-23
     language: ar
+  - title: У Львові перед судом постане 61-річна жінка, яка передавала канабіс до колонії у посилках
+    url: https://varta1.com.ua/amp/news/u-lvovi-pered-sudom-postane-61-richna-zinka-iaka-peredavala-kanabis-do-koloniyi-u-posylkakh_415371.html
+    publisher: Варта 1
+    date: 2026-11-23
+    language: uk
 ---
 
 Prosecutors of the Halytska district prosecutor's office in Lviv sent an
 indictment to court against a 61-year-old woman accused of supplying cannabis to
-a prison. [@2,5] She is charged with repeated illegal acquisition, storage for
+a prison. [@2,5,6] She is charged with repeated illegal acquisition, storage for
 sale and sale of narcotics into a place of deprivation of liberty under part 2
 of article 307 of Ukraine's Criminal Code. [@3] The charge carries six to ten
-years in prison with confiscation of property. [@3,5]
+years in prison with confiscation of property. [@3,5,6]
 
 According to the investigation, in December 2025 and April 2026 she sent two
-parcels of clothes and food to a correctional institution. [@3,5] The two parcels
+parcels of clothes and food to a correctional institution. [@3,5,6] The two parcels
 sent to Lviv Correctional Institution No. 19 held more than 40 grams of cannabis
 in total. [@4,5] In one parcel the cannabis was packed in cloth pouches sewn into
 the seams of a blanket and the lining of a winter jacket. [@1] In the other, the
 wraps were hidden in a bucket of lard sent with other items. [@1] She used a
-logistics company and gave invented sender names to hide her involvement. [@3]
+logistics company and gave invented sender names to hide her involvement. [@3,6]
 
 Prison staff found the hidden drugs when they inspected the parcels, and the
 recipients never received them. [@3] Criminal police officers and investigators
