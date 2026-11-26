@@ -76,6 +76,11 @@ media:
     media_url: https://media.thuonghieucongluan.vn/uploads/2026/11/22/1789349259151-284565118740408356-4257131642079573698-2b40109fea37f1ca5fb76e78b2ccf881-1795319966.jpg
     publisher: Tạp chí điện tử Thương hiệu và Công luận
     caption: The evidence seized in the case, including the 20 kg of cannabis hidden in Thai laundry-detergent buckets.
+  - kind: photo
+    url: https://laodong.vn/phap-luat/phat-hien-20kg-can-sa-giau-trong-cac-xo-bot-giat-tu-thai-lan-ve-ninh-binh-1804429.ldo
+    media_url: https://media-cdn-v2.laodong.vn/storage/newsportal/2026/11/21/1804429/Can-Sa.jpg?w=660
+    publisher: Báo Lao Động
+    caption: 'The cannabis concealed inside Thai laundry-detergent buckets. Photo: Công an tỉnh Ninh Bình (Ninh Bình provincial police)'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 3ded1197a2e106d28eeafcd17a29787d
@@ -164,18 +169,28 @@ sources:
     publisher: Công Lý
     date: 2026-11-21
     language: vi
+  - title: Phát hiện 20kg cần sa giấu trong các xô bột giặt từ Thái Lan về Ninh Bình
+    url: https://laodong.vn/phap-luat/phat-hien-20kg-can-sa-giau-trong-cac-xo-bot-giat-tu-thai-lan-ve-ninh-binh-1804429.ldo
+    publisher: Báo Lao Động
+    date: 2026-11-21
+    language: vi
+open_questions:
+    - No figure for the value of the 20 kg of cannabis was published.
+    - The reports do not say how the cannabis crossed the border from Thailand or whether the supplier there has been identified.
+    - Only Hưng was named; the reports do not say whether other members of the ring were identified or arrested.
+    - No detention decision or court date was reported; the case was at the investigation stage.
 ---
 
 Police in Ninh Bình province arrested Lê Xuân Hưng, born in 1999, who comes from
 Tân Phú commune in Nghệ An province and was renting accommodation in Ý Yên
-commune, Ninh Bình province. [@1,3,4,5,6,7,9,10,11,12,13,16,17] Hưng had one previous conviction for illegally
+commune, Ninh Bình province. [@1,3,4,5,6,7,9,10,11,12,13,16,17,18] Hưng had one previous conviction for illegally
 trading narcotic substances and had completed that prison sentence on 29 April
-2024. [@1,3,4,5,6,7,9,11,12,16] The cannabis was supplied by a person living in Thailand, and Hưng received the shipments, hid and divided the drug and delivered it to buyers on the supplier's instructions, taking an agreed share of the money after each deal. [@6,11,12] At about 02:00 on 21 November 2026 the provincial drug crime
+2024. [@1,3,4,5,6,7,9,11,12,16,18] The cannabis was supplied by a person living in Thailand, and Hưng received the shipments, hid and divided the drug and delivered it to buyers on the supplier's instructions, taking an agreed share of the money after each deal. [@6,11,12,18] At about 02:00 on 21 November 2026 the provincial drug crime
 investigation office, with the Ministry of Public Security's drug crime
 department, customs officers and provincial forensic officers, broke up a ring
 that took cannabis from Thailand to Ninh Bình for sale. [@1,3,5,7,8,9,11,15,16] The operation on 21 November 2026 was carried out with Nam Định Customs and the customs control team of the regional customs branch IV, alongside the Ministry of Public Security's drug crime department and provincial forensic officers. [@4] Officers seized 20
 kg of cannabis that had been hidden inside buckets of imported Thai laundry
-detergent. [@1,3,4,5,7,9,10,11,12,14,16,17] Tools used to divide and package the drugs were also seized. [@13]
+detergent. [@1,3,4,5,7,9,10,11,12,14,16,17,18] Tools used to divide and package the drugs were also seized. [@13]
 
 Investigators said the cannabis was supplied by a person living in Thailand, and
 that Hưng received shipments from Thailand, stored them, divided them up and
@@ -184,4 +199,4 @@ disguised inside imported laundry detergent buckets so that checks by the
 authorities would not find it. [@1,3,5]
 
 The provincial drug crime investigation office said it was continuing to
-investigate the case and would deal with those involved under the law. [@2,5,7,10,11,16,17]
+investigate the case and would deal with those involved under the law. [@2,5,7,10,11,16,17,18]
