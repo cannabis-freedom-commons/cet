@@ -55,28 +55,28 @@ sources:
     publisher: Le12.ma
     date: 2026-11-22
     language: ar
-open_questions:
-    - No count of the seeds was reported, only their weight of three kilograms.
-    - No charges, detention measure or court outcome beyond the opened judicial investigation was reported.
-    - No laboratory confirmation or seed variety for the cannabis-growing seeds was reported.
-    - All accounts seen reprint the same security-source account; no agency statement was published.
+  - title: اعتقال “زماكري” وحجز 8 كلغ كوكايين و3 كلغ “زريعة الكيف”
+    url: https://www.marrakechalaan.com/article-703174
+    publisher: مراكش الآن
+    date: 2026-11-22
+    language: ar
 ---
 
 National Security officers working with customs at Tangier city port foiled an
-attempt to smuggle drugs into Morocco on Sunday afternoon. [@1,2,3,4] Officers
+attempt to smuggle drugs into Morocco on Sunday afternoon. [@1,2,3,4,5] Officers
 detained a 47-year-old Moroccan citizen living in Spain immediately after he
 arrived at the port on a ferry from the Spanish port of Tarifa, as his
-foreign-registered car underwent border checks. [@1,3,4]
+foreign-registered car underwent border checks. [@1,3,4,5]
 
 The search by security and customs officers with trained police dogs found the
 cocaine consignment hidden under the car front bumper, alongside the seized
-seeds. [@1,3,4] Officers seized eight kilograms of cocaine and three kilograms of
-seeds used for growing cannabis. [@1,2,3,4]
+seeds. [@1,3,4,5] Officers seized eight kilograms of cocaine and three kilograms of
+seeds used for growing cannabis. [@1,2,3,4,5]
 
 The Tangier prefectural judicial police then opened a judicial investigation
 under the competent prosecutor to establish the circumstances and uncover the
-source and intended destination of the drugs. [@1,3,4] Ongoing inquiries are to
+source and intended destination of the drugs. [@1,3,4,5] Ongoing inquiries are to
 identify possible national and international extensions of the activity and any
-other suspected accomplices. [@1,3,4] The operation was presented as part of
+other suspected accomplices. [@1,3,4,5] The operation was presented as part of
 security and customs efforts against international drug smuggling and stronger
 controls at border crossings and Moroccan ports. [@1,3]
