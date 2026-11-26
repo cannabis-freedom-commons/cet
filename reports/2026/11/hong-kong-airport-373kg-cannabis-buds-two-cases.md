@@ -107,6 +107,10 @@ sources:
     publisher: 華僑報 (Vakio Daily)
     date: 2026-11-23
     language: zh
+  - title: Hong Kong Customs Seizes About 37.3 kg of Suspected Cannabis Buds in Two Airport Drug Trafficking Cases
+    url: https://www.bastillepost.com/global/article/6386672-hong-kong-customs-seizes-about-37-3-kg-of-suspected-cannabis-buds-in-two-airport-drug-trafficking-cases
+    publisher: Bastillepost
+    date: 2026-11-22
 ---
 
 Hong Kong Customs arrested two men in two drug trafficking cases detected at
@@ -118,14 +122,14 @@ X-ray images of his suitcases showed items of similar shape and unusually even
 density, prompting the search. [@2] In the second case, officers found about 2.3
 kilograms of suspected cannabis buds on 10 August in an unclaimed checked bag
 that had arrived from Bangkok, and on 21 November arrested a 39-year-old
-mainland Chinese man when he flew in from Bangkok via Taipei. [@1,5,6,7,9]
+mainland Chinese man when he flew in from Bangkok via Taipei. [@1,5,6,7,9,11]
 
 The two cases together yielded about 37.3 kilograms of suspected cannabis buds,
-which Customs valued at about HK$8 million. [@1,5,6,7,8,9,10] Customs put the first case's 35
+which Customs valued at about HK$8 million. [@1,5,6,7,8,9,10,11] Customs put the first case's 35
 kilograms at about HK$7.5 million. [@2] The 2.3 kilograms found in the unclaimed
 bag were valued at about HK$500,000. [@3] Each of the two men was charged with
 one count of trafficking in a dangerous drug, and both cases were listed for
-West Kowloon Magistrates' Courts on 23 November. [@1,5,6,7,8,9]
+West Kowloon Magistrates' Courts on 23 November. [@1,5,6,7,8,9,11]
 
 Customs said the first case showed trafficking syndicates using Hong Kong as a
 transit hub to move drugs through transit passengers, and the second showed them
