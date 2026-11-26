@@ -69,19 +69,24 @@ sources:
     publisher: Metro Vaartha
     date: 2026-11-21
     language: ml
+  - title: 'കോതമംഗലത്ത് വൻ ലഹരിവേട്ട: രാസലഹരിയും കഞ്ചാവുമായി യുവാക്കൾ പിടിയിൽ | Metro Journal'
+    url: https://metrojournalonline.com/amp/kerala/massive-drug-bust-in-kothamangalam/cid30069208.htm
+    publisher: Metro Journal
+    date: 2026-11-21
+    language: ml
 ---
 
 Kothamangalam police arrested four young men and seized ganja and chemical drugs
-from them. [@1,4,5] Police identified the four as Sajid, 32, and Saheer, 23, both of
+from them. [@1,4,5,6] Police identified the four as Sajid, 32, and Saheer, 23, both of
 Iramalloor Pallippadi, Musammin, 20, of Kadakkal in Kollam district, and Jafar,
-28, of Malayidamthuruthu. [@1,4,5] Officers took them into custody from a vehicle
-parked in the Nellikuzhi area after police received a tip-off. [@1,4,5] The case was
+28, of Malayidamthuruthu. [@1,4,5,6] Officers took them into custody from a vehicle
+parked in the Nellikuzhi area after police received a tip-off. [@1,4,5,6] The case was
 reported as drug sales carried out from the vehicle parked at Nellikuzhi. [@1]
 
 Police seized 22.4 grams of ganja and 2.08 grams of MDMA from the four; the MDMA
-is a synthetic drug and is not counted in the cannabis figures. [@1,4,5]
+is a synthetic drug and is not counted in the cannabis figures. [@1,4,5,6]
 
 The arrests were made by a team led by sub-inspector K.H. Hashim. [@3] The team
 also included assistant sub-inspector Sijo and civil police officers Faisal,
 Reneesh, Subhash Chandran, Abhilash, Dayesh, Abhilash Sivan and Fareed. [@1,4,5]
-Police said a detailed investigation had begun. [@2,4,5]
+Police said a detailed investigation had begun. [@2,4,5,6]
