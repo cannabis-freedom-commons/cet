@@ -53,43 +53,80 @@ sources:
     publisher: Navbharat Live
     date: 2026-11-23
     language: hi
+  - title: 'पेटी और दीवान में छिपाकर रखा 70 लाख का गांजा: ओडिशा से लाकर छत्तीसगढ़ में खपाते थे, किसान से तस्कर बने सगे भाई'
+    url: https://www.bhaskar.com/amp/local/chhattisgarh/balod/news/balod-police-ganja-seizure-odisha-smuggling-arrest-raids-139776929.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-23
+    language: hi
+  - title: 'बालोद: फल-सब्जी की आड़ में गांजा तस्करी, दो भाइयों समेत चार गिरफ्तार'
+    url: https://www.amarujala.com/chhattisgarh/balod/interstate-cannabis-smuggling-network-busted-in-balod-assets-worth-rs8572-lakh-including-13855-kg-of-cannabis-and-vehicles-seized-four-arrested-balod-news-c-1-1-noi1492-4962486-2026-11-23
+    publisher: Amar Ujala
+    date: 2026-11-23
+    language: hi
+  - title: बालोद में अंतरराज्यीय गांजा तस्करी का खुलासा, ओडिशा से फल-सब्जी की आड़ में ला रहे थे खेप, 69 लाख से ज्यादा का गांजा बरामद
+    url: https://www.etvbharat.com/hi/state/interstate-ganja-smuggling-busted-balod-police-seized-ganja-worth-69-lakhs-cts26112304285
+    publisher: ETV Bharat
+    date: 2026-11-23
+    language: hi
 open_questions:
-  - The report dates only the first Arkar raid to 21 November 2026; the date of the Khapparwada arrests and house search is not stated separately.
-  - The two component weights of 1.995 kg and 136.56 kg sum to 138.555 kg, 0.004 kg more than the reported total of 138.551 kg used in this report.
-  - The ganja valuation of 6,927,550 rupees and the total seized-property valuation of 8,572,550 rupees are police estimates and were not independently verified.
-  - No laboratory confirmation of the seized plant material is reported.
-  - No court outcome or trial date is reported; the case stood at the investigation stage with legal action said to be under way.
-  - The whole account rests on a single Navbharat Live report; no second independent account of this Balod seizure was found.
+    - The report dates only the first Arkar raid to 21 November 2026; the date of the Khapparwada arrests and house search is not stated separately.
+    - The two component weights of 1.995 kg and 136.56 kg sum to 138.555 kg, 0.004 kg more than the reported total of 138.551 kg used in this report.
+    - The ganja valuation of 6,927,550 rupees and the total seized-property valuation of 8,572,550 rupees are police estimates and were not independently verified.
+    - No laboratory confirmation of the seized plant material is reported.
+    - No court outcome or trial date is reported; the case stood at the investigation stage with legal action said to be under way.
+    - Dainik Bhaskar gives the total seized ganja as 139 kg, while this report uses the 138.551 kg given in the Navbharat Live and Amar Ujala accounts.
+    - Dainik Bhaskar says police had Kosre telephone the brothers to a meeting and detained them on the road as they arrived by motorcycle, while the other accounts say police cordoned the area outside Khapparwada village and caught both brothers.
+    - The accounts reproduce the same Balod police statement and are not independent reporting.
+media:
+  - kind: photo
+    url: https://www.bhaskar.com/amp/local/chhattisgarh/balod/news/balod-police-ganja-seizure-odisha-smuggling-arrest-raids-139776929.html
+    media_url: https://images.bhaskarassets.com/webp/thumb/360x0/web2images/521/2026/11/23/dbgifmagic_-_2026-11-23t175712_015_1795436912225.gif
+    publisher: Dainik Bhaskar
+    caption: 'Ganja packets hidden inside a diwan at the accused brothers'' house in Khapparwada. Photo: Dainik Bhaskar'
+  - kind: photo
+    url: https://www.bhaskar.com/amp/local/chhattisgarh/balod/news/balod-police-ganja-seizure-odisha-smuggling-arrest-raids-139776929.html
+    media_url: https://images.bhaskarassets.com/webp/thumb/360x0/web2images/521/2026/11/23/dbgifmagic_-_2026-11-23t175824_518_1795436976598.gif
+    publisher: Dainik Bhaskar
+    caption: 'Ganja packets hidden in iron trunks at the brothers'' house. Photo: Dainik Bhaskar'
+  - kind: photo
+    url: https://www.bhaskar.com/amp/local/chhattisgarh/balod/news/balod-police-ganja-seizure-odisha-smuggling-arrest-raids-139776929.html
+    media_url: https://images.bhaskarassets.com/thumb/360x0/web2images/521/2026/11/23/ec6836fa-63b2-4e9a-b5f0-31bce240cfce_1795429047821.jpg
+    publisher: Dainik Bhaskar
+    caption: 'The 134 packets of ganja that police recovered from the brothers'' house. Photo: Dainik Bhaskar'
+  - kind: photo
+    url: https://www.bhaskar.com/amp/local/chhattisgarh/balod/news/balod-police-ganja-seizure-odisha-smuggling-arrest-raids-139776929.html
+    media_url: https://images.bhaskarassets.com/thumb/360x0/web2images/521/2026/11/23/befunky-collage__11___1_1795443391380.jpg
+    publisher: Dainik Bhaskar
+    caption: 'The four men arrested over the Balod ganja smuggling case. Photo: Dainik Bhaskar'
 ---
 
 Balod police arrested four men, including two brothers, over an
-Odisha-to-Chhattisgarh ganja smuggling network. [@1] Officers seized a total of
+Odisha-to-Chhattisgarh ganja smuggling network. [@1,2] Officers seized a total of
 138.551 kilograms of ganja in Sanaud police station area, which police valued at
-6,927,550 rupees. [@1] Acting on an informant tip on 21 November 2026, Sanaud
+6,927,550 rupees. [@1,3] Acting on an informant tip on 21 November 2026, Sanaud
 police raided the house of Bhisham Satnami of Arkar village, who was allegedly
-storing and selling ganja at home. [@1] Officers recovered 1.995 kilograms of
-ganja in two packets from the 28-year-old Satnami. [@1] Satnami told police he
-had bought the ganja from Kamta Prasad Kosre of Arkar village. [@1] Police
+storing and selling ganja at home. [@1,2] Officers recovered 1.995 kilograms of
+ganja in two packets from the 28-year-old Satnami. [@1,2] Satnami told police he
+had bought the ganja from Kamta Prasad Kosre of Arkar village. [@1,2] Police
 arrested Satnami and sent him to judicial custody. [@1] Kosre told police he had
 bought ganja from two brothers of Khapparwada village, Omprakash Patel (28) and
-Kuleshwar Patel (24). [@1] Police said the two brothers had been supplying ganja
-for about a year. [@1] A police team cordoned Khapparwada village and detained
+Kuleshwar Patel (24). [@1,2] Police said the two brothers had been supplying ganja
+for about a year. [@1,2] A police team cordoned Khapparwada village and detained
 both brothers. [@1]
 
 The brothers told police they bought ganja from the Baliguda area of Odisha for
-local sale in Chhattisgarh. [@1] A search of their house found 136.56 kilograms
-of ganja in 134 packets hidden in an iron box and a diwan. [@1] Police valued
+local sale in Chhattisgarh. [@1,2] The brothers told police they carried 10 to 20 kg of ganja per trip from Odisha and hid it at home for local supply. [@4] A search of their house found 136.56 kilograms
+of ganja in 134 packets hidden in an iron box and a diwan. [@1,2] Police valued
 the Khapparwada consignment at 6,827,800 rupees. [@1] Police said the brothers
-bought a Mahindra pickup in 2023 after quitting farming. [@1] Police said the
+bought a Mahindra pickup in 2023 after quitting farming. [@1,2] Police said the brothers first ran the pickup on hire to Kolkata and Varanasi, then parked it at the Bhilai fruit market when the instalments became difficult. [@2] Police said the
 brothers turned to ganja smuggling during fruit-and-vegetable trips to Odisha to
-earn higher profit. [@1] Along with the ganja, police seized a Mahindra pickup
+earn higher profit. [@1,2] Along with the ganja, police seized a Mahindra pickup
 (CG 07 CQ 1575), a motorcycle (CG 08 BF 9607), four mobile phones and 13,000
-rupees in cash. [@1]
+rupees in cash. [@1,2] Police also found 3,000 rupees from ganja sales and a mobile phone with Kosre when they detained him. [@2]
 
-Police put the total value of the seized property at 8,572,550 rupees. [@1]
+Police put the total value of the seized property at 8,572,550 rupees. [@1,2]
 Sanaud police registered the case as Crime No. 143/2026 under NDPS Act section
 20(b). [@1] Police later added NDPS Act section 29 based on investigation
-findings. [@1] The joint operation was conducted by ANTF Balod with Sanaud
+findings. [@1,2] The joint operation was conducted by ANTF Balod with Sanaud
 police and the cyber cell under the Balod police superintendent's direction.
-[@1]
-
+[@1,3]
