@@ -43,30 +43,28 @@ sources:
     publisher: يوليو
     date: 2026-11-23
     language: ar
-open_questions:
-  - No weight, packaging, or value was published for the seized hashish.
-  - No separate date was given for the arrests; the complaint was received on 21 November and the arrests were reported on 23 November, which is used as the incident date.
-  - The three suspects, the complainant, and her father were not named.
-  - No charges, detention measure, or court outcome were reported.
-  - The account rests on a single outlet's report of the Interior Ministry statement.
+  - title: ضبط 3 أشخاص اعتدوا على سيدة ووالدها بالفيوم.. وأحدهم بحوزته حشيش وخرطوش
+    url: https://elbaladtv.net/%d8%b6%d8%a8%d8%b7-3-%d8%a3%d8%b4%d8%ae%d8%a7%d8%b5-%d8%a7%d8%b9%d8%aa%d8%af%d9%88%d8%a7-%d8%b9%d9%84%d9%89-%d8%b3%d9%8a%d8%af%d8%a9-%d9%88%d9%88%d8%a7%d9%84%d8%af%d9%87%d8%a7-%d8%a8%d8%a7%d9%84%d9%81
+    publisher: قناة صدى البلد
+    date: 2026-11-23
+    language: ar
 ---
 
 Egypt's Interior Ministry security units said they examined a video circulating
 on social media in which a woman complained that several people were trafficking
-drugs and insulting and beating her father in Faiyum governorate. [@1]
+drugs and insulting and beating her father in Faiyum governorate. [@1,2]
 Investigators found that on 21 November the First Faiyum police station received
 a complaint from a housewife living in its district, who accused three people of
-insulting and beating her and her father over neighbourhood disputes. [@1] After
+insulting and beating her and her father over neighbourhood disputes. [@1,2] After
 completing legal formalities, security forces identified and arrested the three
-people named in the complaint. [@1]
+people named in the complaint. [@1,2]
 
 At the time of the arrests, officers found one of the three holding a quantity
 of hashish and a firearm described as a fard khartoush, a single-barrel shotgun.
-[@1] When confronted, the three admitted assaulting the complainant and her
+[@1,2] When confronted, the three admitted assaulting the complainant and her
 father as alleged, and one of them admitted possessing the seized drugs for
-trafficking. [@1]
+trafficking. [@1,2]
 
 The authorities said the required legal procedures were taken against the three.
-[@1] Police presented the case as part of work to clarify incidents circulated
+[@1,2] Police presented the case as part of work to clarify incidents circulated
 on social media and to combat violent crime and drug trafficking. [@1]
-
