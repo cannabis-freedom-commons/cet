@@ -60,6 +60,10 @@ sources:
     url: https://www.risingnepaldaily.com/news/88896
     publisher: The Rising Nepal
     date: 2026-11-22
+  - title: Police seize five quintals of marijuana
+    url: https://www.hamropatro.com/en/news/detail/1795334143261809561-police-seize-five-quintals-of-marijuana
+    publisher: Hamro Patro
+    date: 2026-11-22
 open_questions:
     - One account gives the load as nearly five quintals and another as 499 kilograms; the report uses 499 kilograms.
     - No value estimate for the marijuana was published.
@@ -71,7 +75,7 @@ open_questions:
 ---
 
 The District Police Office in Sunsari, eastern Nepal, arrested Ajay Kumar Sah
-with nearly five quintals of marijuana. [@1,3,4,5] Kantipur put the load at 499
+with nearly five quintals of marijuana. [@1,3,4,5,6] Kantipur put the load at 499
 kilograms of marijuana, seized from an Indian-registered Scorpio in Dharan,
 Sunsari; a quintal is 100 kilograms. [@2]
 
