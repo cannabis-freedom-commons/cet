@@ -62,12 +62,11 @@ sources:
     url: https://open.kg/en/news/in-the-world/84663-v-uzbekistane-presekli-tranzit-gashisha-iz-afganistana-v-rf-pod-vidom-kartoshki.html
     publisher: Open.kg
     date: 2026-03-25
-open_questions:
-  - The accounts give no separate date for the interception itself; 24 March 2026 is the date of the State Security Service announcement and of publication.
-  - The reports do not say whether the driver was formally detained or charged after the truck was inspected, and no court outcome has been reported.
-  - No street value estimate for the hashish was published.
-  - All three March accounts reproduce the State Security Service announcement, so they are not independent reporting of the seizure.
-  - The reported intention to send the load onward to Russia is preliminary information, and no recipients or organisers were identified.
+  - title: В Узбекистане пресекли контрабанду гашиша в Россию под видом картофеля
+    url: https://versia.ru/v-uzbekistane-presekli-kontrabandu-gashisha-v-rossiyu-pod-vidom-kartofelya
+    publisher: Versia.ru
+    date: 2026-03-24
+    language: ru
 ---
 
 The seizure took place at the Tashkent-Termez highway border crossing in
@@ -75,14 +74,14 @@ southern Uzbekistan, reported as the Termez-Auto international checkpoint. [@1]
 Border officers and customs officers stopped and inspected a MAN truck driven by
 a 25-year-old man from Termez district. [@1] The inspection was carried out
 jointly by Border Troops of the State Security Service and customs authorities.
-[@3]
+[@3,6]
 
-A detailed search found 72.3 kg of hashish concealed in the cargo. [@1,5] The
+A detailed search found 72.3 kg of hashish concealed in the cargo. [@1,5,6] The
 hashish had been shaped into 222 briquettes resembling potatoes in an apparent
-attempt to avoid detection. [@1,5] Border guards and customs officers in
+attempt to avoid detection. [@1,5,6] Border guards and customs officers in
 Uzbekistan stopped an attempted transit of hashish from Afghanistan toward
 Russia disguised as potatoes, as reported by the State Security Service press
-centre. [@2,5]
+centre. [@2,5,6]
 
 The truck had arrived from Afghanistan and the drugs were believed to be
 intended for onward trafficking to Russia. [@1,5] Officers documented the seized
