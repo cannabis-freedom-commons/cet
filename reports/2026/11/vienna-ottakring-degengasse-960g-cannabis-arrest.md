@@ -82,20 +82,25 @@ sources:
     publisher: Polizeiticker
     date: 2026-11-23
     language: de
+  - title: Algerier (35) nach Cannabisdeal in Wien festgenommen – Afghane (25) angezeigt – Polizei.news
+    url: https://polizei.news/2026/11/23/algerier-35-nach-cannabisdeal-in-wien-festgenommen-afghane-25-angezeigt/
+    publisher: Polizei.news
+    date: 2026-11-23
+    language: de
 ---
 
 Officers of the Vienna street-crime unit (EGS) watched a suspected drug sale in
 the Degengasse area of Ottakring at about 18:45 on Sunday 22 November 2026. [@1,6]
-They detained the suspected seller, a 35-year-old Algerian citizen. [@1,3,6] The
-25-year-old buyer, an Afghan citizen, was reported to the authorities. [@1,3]
+They detained the suspected seller, a 35-year-old Algerian citizen. [@1,3,6,7] The
+25-year-old buyer, an Afghan citizen, was reported to the authorities. [@1,3,7]
 
 A search of the suspect's backpack found 48 containers of cannabis and a
-three-figure sum of euros in cash. [@1,4,5] Investigators then searched an apartment
+three-figure sum of euros in cash. [@1,4,5,7] Investigators then searched an apartment
 the 35-year-old had used and found more drugs, cash and a forged identity
 document. [@1,5]
 
 In total Vienna police seized about 960 grams of cannabis and about 6,000 euros
-in cash. [@1,3,5,6] The cannabis and the cash came from the man himself and from the
+in cash. [@1,3,5,6,7] The cannabis and the cash came from the man himself and from the
 flat he used, according to the police account. [@2]
 
 The 35-year-old remained in police custody while investigators continued to work
