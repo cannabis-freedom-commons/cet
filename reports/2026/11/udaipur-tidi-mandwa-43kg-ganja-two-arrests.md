@@ -57,6 +57,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-21
     language: hi
+  - title: उदयपुर पुलिस की 4 ठिकानों पर दबिश, 43 किलो गांजा जब्त; 2 तस्कर गिरफ्तार
+    url: https://bhilwarahalchal.com/rajasthan/udaipur/udaipur-police-conduct-raids-at-4-locations-seize-43-kg-of-cannabis-2-smugglers-arrested-724652
+    publisher: Bhilwara Halchal
+    date: 2026-11-21
+    language: hi
 open_questions:
   - No count of cannabis plants was published; the green and wet plants were reported only by weight.
   - No estimated value for the 43.3 kg of cannabis and plants was published.
@@ -71,23 +76,22 @@ Udaipur police arrested two smugglers during the operation. [@2] He had tried to
 flee when he saw the police vehicle on the road towards the forests of Saru Fala
 Daban village, but the team chased and caught him. [@1] A search of the sacks
 recovered 6 kg 100 g of dried cannabis, and police arrested Kuba, 61, of Saru
-Fala Daban at the spot. [@1] During a morning patrol, officers chased and
+Fala Daban at the spot. [@1,3] During a morning patrol, officers chased and
 stopped Bhagwan, 58, coming from the hilly area towards Saru Daban Phala with a
 plastic sack. [@1] The sack held about six kilograms of dried ganja, and police
-arrested Bhagwan, 58, son of Gala Meena. [@1]
+arrested Bhagwan, 58, son of Gala Meena. [@1,3]
 
 The two Tidi police operations yielded 12 kilograms of dried ganja, with
 separate cases registered under the NDPS Act and the investigation handed to the
-Kurabad station house officer. [@1] A joint team of Mandwa and Kotda police and
+Kurabad station house officer. [@1,3] A joint team of Mandwa and Kotda police and
 DST station house officer Mugla Ram raided two locations in the Mandwa area.
 [@1] There police seized 25 kg 640 g of wet ganja plants and 5 kg 660 g of dried
-ganja, a total of 31 kg 300 g of material. [@1] Two separate cases were
+ganja, a total of 31 kg 300 g of material. [@1,3] Two separate cases were
 registered under the NDPS Act at Mandwa police station, and further
 investigation began. [@1] Across the four locations police seized 43 kg 300 g of
-dried cannabis and green plants. [@1]
+dried cannabis and green plants. [@1,3]
 
 The raids took place on Saturday as part of the 'Ganja-free Bhomat' campaign.
-[@1] The raids were jointly conducted by the Tidi police station, Mandwa police
+[@1,3] The raids were jointly conducted by the Tidi police station, Mandwa police
 station and the District Special Team under ASP Mukul Sharma, on the
-instructions of SP Dr Amrita Duhan. [@1]
-
+instructions of SP Dr Amrita Duhan. [@1,3]
