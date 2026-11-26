@@ -218,19 +218,22 @@ sources:
     publisher: المشهد العربي
     date: 2026-11-22
     language: ar
-open_questions:
-    - The statement gave no dates or places for the security operations in which the destroyed drugs were seized.
+  - title: دمشق تُتلف أكبر كمية من المخدرات منذ سقوط نظام الأسد
+    url: https://www.alestad.com/165144/%D8%AF%D9%85%D8%B4%D9%82-%D8%AA%D9%8F%D8%AA%D9%84%D9%81-%D8%A3%D9%83%D8%A8%D8%B1-%D9%83%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D9%86%D8%B0-%D8%B3%D9%82/
+    publisher: الاستاد الاخباري
+    date: 2026-11-22
+    language: ar
 ---
 
 Syria's Anti-Narcotics Directorate announced on Sunday 22 November 2026 that a
 joint committee of the interior, justice and health ministries had destroyed
-large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,31] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15,17,20,21,22,23,24,25,26,27,28,29,30,31] The quantities
+large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,31,32] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15,17,20,21,22,23,24,25,26,27,28,29,30,31] The quantities
 were destroyed in batches under approved legal and environmental procedures.
 [@4,16] The directorate described the destruction as reflecting integrated national
 efforts against drugs. [@2,25]
 
 The destroyed material included 12.2 tonnes of hashish and 2.3 tonnes of
-cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31] The same batches included
+cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32] The same batches included
 400 million Captagon pills, 6 kilograms of heroin and 5.4 million other narcotic
 pills, none of which is counted as cannabis. [@3,5,6,8,9,11,12,13,14,15,16,17,18,20,21,22,23,24,25,26,27,29,30,31] The directorate also destroyed
 equipment and chemicals used to smuggle, conceal, transport and manufacture the
