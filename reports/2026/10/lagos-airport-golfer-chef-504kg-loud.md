@@ -157,6 +157,10 @@ sources:
     url: https://thetrumpet.ng/ndlea-arrests-south-african-golfer-kenyan-chef-over-50kg-cannabis-smuggling-in-lagos/
     publisher: The Trumpet Newspaper
     date: 2026-11-22
+  - title: SA Golfer Arrested Over Alleged 50.4kg Cannabis Shipment In Nigeria
+    url: https://www.2oceansvibe.com/world/south-africa/henlo-grobler-nigeria-cannabis-arrest-november-2026/
+    publisher: 2oceansvibe News
+    date: 2026-11-23
 open_questions:
   - AFP reports that both suspects were arrested on 11 October on arrival from South Africa, while its own account and the NDLEA statement give 15 October for the Kenyan chef's arrest.
 ---
@@ -164,7 +168,7 @@ open_questions:
 The National Drug Law Enforcement Agency arrested a 25-year-old Kenyan chef,
 Abubakar Njambi, and a 37-year-old South African professional golfer, Grobler
 Henlo, at Murtala Muhammed International Airport in Ikeja, Lagos, in October
-2026. [@1,4,5,6,7,10,12,13,14,15,16,17,18,20,21] A statement issued on Sunday by NDLEA spokesperson Femi Babafemi said
+2026. [@1,4,5,6,7,10,12,13,14,15,16,17,18,20,21,22] A statement issued on Sunday by NDLEA spokesperson Femi Babafemi said
 the suspects were arrested at the airport in October. [@3,15] Henlo arrived from
 South Africa aboard a South African Airways flight on 11 October and was
 intercepted at the Terminal 2 arrival hall. [@1,5,7,10,11,14,15,16,18,19,21] Njambi was arrested at the
@@ -173,7 +177,7 @@ board a flight back to Kenya. [@1,5,6,8,10,11,13,14,16,17,18,19,21] NDLEA recove
 
 A search of two travelling boxes in Henlo's possession recovered 46 parcels of
 Loud, described as a potent cannabis strain, with a total weight of 50.40kg.
-[@1,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
+[@1,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,22] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
 had collected two other boxes bearing his tags from the conveyor belt and left.
 [@1,5,6,8,9,10,12,14,18,20] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
 identification of ownership so each courier could deny the boxes if intercepted.
