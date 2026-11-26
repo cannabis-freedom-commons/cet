@@ -55,6 +55,10 @@ sources:
     url: https://www.stuff.co.nz/nz-news/361062691/young-soldier-admits-giving-cannabis-all-boys-burn
     publisher: Stuff
     date: 2026-11-23
+  - title: 'Raniera Vercoe court martial: Army private dismissed from defence force after admitting cannabis sales and MDMA use'
+    url: https://www.nzherald.co.nz/nz/raniera-vercoe-court-martial-army-private-admits-cannabis-sales-and-mdma-use/4C2USZJU3RCDJI4YTW2PBCQEQ4/
+    publisher: NZ Herald
+    date: 2026-11-23
 open_questions:
   - No weight was reported for the cannabis found in Vercoe's room; the 28 grams is the quantity the summary of facts says he supplied over the period.
   - The reports do not say whether the MDMA admission was one of the six charges or an additional charge.
@@ -74,19 +78,19 @@ media:
 ---
 
 Private Raniera Vercoe, 21, pleaded guilty to six charges at a court martial on
-Monday 23 November 2026. [@1,3] The charges covered selling and supplying cannabis
+Monday 23 November 2026. [@1,3] Vercoe was 19 when he brought cannabis to Burnham Military Camp. [@4] The charges covered selling and supplying cannabis
 to a soldier in November and December 2024, smoking it at Burnham Military Camp
 and in Rotorua between September 2024 and June 2025, supplying other soldiers,
 and possessing cannabis and a grinder in June 2025. [@1] He also admitted
-consuming the class B drug MDMA at an unknown location in February 2025. [@1]
+consuming the class B drug MDMA at an unknown location in February 2025. [@1] Vercoe had been convicted of drink-driving in October 2024 and lost his licence for three months. [@4] His breath reading was more than 300 micrograms per litre, and he was put on 12 months' notice. [@4] A commanding officer of his battalion said the drug offending was serious given Vercoe had been afforded a warning over a previous matter. [@4]
 The court martial heard cannabis was smelt coming from his room in June 2025,
 and a military police search found cannabis, ziplock bags and scales and seized
-his phone. [@1]
+his phone. [@1,4]
 
 The summary of facts said messages showed Vercoe supplied at least one ounce, or
-28 grams, of cannabis between September 2024 and June 2025. [@1] The messages
+28 grams, of cannabis between September 2024 and June 2025. [@1,4] The messages
 outlined selling small amounts of cannabis on three occasions and discussed
-smoking cannabis. [@1] In a statement to military police, Vercoe said he did not
+smoking cannabis. [@1,4] In a statement to military police, Vercoe said he did not
 sell cannabis but "would give it to all the boys", and that people put money in
 his bank account without his knowledge. [@1,3] He said people would sometimes buy
 him dinner in exchange for cannabis or "cones" he had shared. [@1]
@@ -96,8 +100,8 @@ that he was a father of two, the main breadwinner, had counselling and was
 drug-free. [@1] Judge Jonathan Moses said using and dealing drugs in a military
 environment was dangerous and an extremely serious breach of standards,
 especially given the use of weapons and vehicles. [@1] Judge Moses said there
-was premeditation and that the offending occurred over 10 months. [@2] Judge
-Moses applied a 25% discount for guilty pleas and 15% for other factors. [@2]
+was premeditation and that the offending occurred over 10 months. [@2] Judge Moses told Vercoe his offending was so contrary to the ethos of the defence force that it would be intolerable for him to remain in the service. [@4] Judge
+Moses applied a 25% discount for guilty pleas and 15% for other factors. [@2,4]
 Vercoe was ordered to serve three months in detention at the Services
 Correctional Establishment at Burnham and will then be dismissed from the New
 Zealand Defence Force. [@1,3]
