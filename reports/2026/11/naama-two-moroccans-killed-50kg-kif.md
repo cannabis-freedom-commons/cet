@@ -114,23 +114,28 @@ sources:
     url: https://www.voiceofafricans.com/article/algerian-army-says-border-guards-killed-two-moroccan-suspected-drug--8dc252e83f
     publisher: Voice of Africans
     date: 2026-11-21
+  - title: بعد أيام من تصريحات تبون.. الجيش الجزائري يعلن قتل مهرّبَي مخدرات "من الجنسية المغربية" | يورونيوز
+    url: https://arabic.euronews.com/2026/11/21/algeria-morocco-border-tensions-drug-trafficking-shooting-diplomacy
+    publisher: Euronews Arabic
+    date: 2026-11-21
+    language: ar
 ---
 
 Algeria's Defence Ministry said a border-guard detachment killed two Moroccan
 drug traffickers near the western frontier on Friday 20 November 2026 after they
-refused to comply. [@2,4,5,6,7,8,9,11,12] The encounter happened in the military sector of Naâma,
+refused to comply. [@2,4,5,6,7,8,9,11,12,14] The encounter happened in the military sector of Naâma,
 part of Algeria's 2nd Military Region, close to the country's western border
 strip. [@1,4,5,10,11,13] According to the communiqué, the two men ignored an order to stop
-given by the border guards. [@2,4,5,6,8,9,13]
+given by the border guards. [@2,4,5,6,8,9,13,14]
 
 They were trying to bring more than 50 kilograms of kif traité, the local term
-for processed cannabis, into Algeria. [@1,4,5,7,8,9,11,12] The 50-kilogram estimate was
+for processed cannabis, into Algeria. [@1,4,5,7,8,9,11,12,14] The 50-kilogram estimate was
 attributed to the Defence Ministry's communiqué. [@3] The ministry said the
 identity of one of the dead men was established from an identity document found
-in his possession. [@2,4,5,7,8,12] The ministry identified one of them as Khalifi El-Eid, born in the Ouled Sidi Abdel Hakim area of Jerada, Morocco. [@5,8,11] The ministry did not disclose the identity of the second man. [@7]
+in his possession. [@2,4,5,7,8,12,14] The ministry identified one of them as Khalifi El-Eid, born in the Ouled Sidi Abdel Hakim area of Jerada, Morocco. [@5,8,11,14] The ministry did not disclose the identity of the second man. [@7]
 
 The army framed the operation as part of its continuing efforts to secure
-national borders and combat drug-trafficking networks and organised crime. [@2,4,8] The Moroccan outlet Assahifa questioned the justification for using live ammunition in the operation. [@9] The killing came days after President Abdelmadjid Tebboune said Algeria could go as far as the source of drug production, in legitimate self-defence. [@6]
+national borders and combat drug-trafficking networks and organised crime. [@2,4,8] The Moroccan outlet Assahifa questioned the justification for using live ammunition in the operation. [@9,14] The killing came days after President Abdelmadjid Tebboune said Algeria could go as far as the source of drug production, in legitimate self-defence. [@6,14] Speaking at the opening of the judicial year, Tebboune said flooding Algeria with drugs had become a real war on its people and youth. [@14]
 The ministry added that army units deployed across Algeria were reaffirming
 their vigilance and determination to confront attempts against national security
 and territorial integrity. [@2,8]

@@ -99,22 +99,18 @@ sources:
     publisher: مصراوي.كوم
     date: 2026-11-21
     language: ar
-open_questions:
-  - The standfirst of the TSA account puts the seizure at 1.7 tonnes while its headline and the defence ministry statement say 19 quintals (about 1.9 tonnes); the ministry figure is used.
-  - The ministry names only the 2nd Military Region and gives no wilaya, town or border crossing for the operation.
-  - The operation is dated only to 'during the week' before the 21 November 2026 statement; no exact day is given.
-  - No charges, detention measures or court dates were reported for the 17 detainees.
-  - No value estimate for the kif was published.
-  - The material is described as kif traité with no laboratory confirmation or breakdown between resin and other cannabis products.
-  - The same statement reports a separate incident in which border guards shot dead two Moroccan traffickers in Naâma on Friday with more than 50 kg of kif; that event is left out of this report.
-  - The accounts in TSA, APS and Algérie 360° all reproduce the same defence ministry statement, so the event rests on one official announcement.
+  - title: بعد أيام من تصريحات تبون.. الجيش الجزائري يعلن قتل مهرّبَي مخدرات "من الجنسية المغربية" | يورونيوز
+    url: https://arabic.euronews.com/2026/11/21/algeria-morocco-border-tensions-drug-trafficking-shooting-diplomacy
+    publisher: Euronews Arabic
+    date: 2026-11-21
+    language: ar
 ---
 
 Algeria's defence ministry said army security services in the 2nd Military
 Region dismantled a network of 17 drug traffickers that was trying to bring kif
-traité into the country from Morocco. [@2,4,5,7,9,12] The ministry said the consignment was
+traité into the country from Morocco. [@2,4,5,7,9,12,13] The ministry said the consignment was
 estimated at 19 quintals, about 1.9 tonnes, of kif traité, processed cannabis
-from Morocco. [@1,4,5,7,10,12] The statement was issued on Saturday 21 November 2026 and
+from Morocco. [@1,4,5,7,10,12,13] The statement was issued on Saturday 21 November 2026 and
 said the network was broken up during the week. [@1,7,10]
 
 Seventeen people were arrested and the services seized 50 utility vehicles, five
