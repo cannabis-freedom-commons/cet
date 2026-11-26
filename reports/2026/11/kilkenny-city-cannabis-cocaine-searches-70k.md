@@ -36,31 +36,33 @@ sources:
     url: https://kclr96fm.com/major-drug-seizure-in-kilkenny-over-the-weekend/
     publisher: KCLR 96FM
     date: 2026-11-23
+  - title: Two arrests made in connection with drugs seizure in Kilkenny
+    url: https://www.kilkennypeople.ie/news/crime-courts/two-arrests-made-in-connection-with-drugs-seizure-in-kilkenny-9369041
+    publisher: Kilkenny Live
+    date: 2026-11-23
 open_questions:
-  - No weight was published for the cannabis or the cocaine; Gardaí gave only a combined €70,000 value for both.
-  - The number of people arrested was not given; KCLR reported only that several arrests were made.
-  - Kilkenny Live described the searches as taking place over the weekend, while KCLR placed the operation on Saturday 21 November; the report uses 21 November.
-  - The form of the cannabis seized, such as herbal cannabis or resin, was not stated.
-  - The specific locations searched in Kilkenny City were not named.
-  - No charges, court appearances or detention decisions were reported.
-  - Both accounts appear to draw on the same Garda statement and neither names its source.
+    - No weight was published for the cannabis or the cocaine; Gardaí gave only a combined €70,000 value for both.
+    - Kilkenny Live described the searches as taking place over the weekend, while KCLR placed the operation on Saturday 21 November; the report uses 21 November.
+    - The form of the cannabis seized, such as herbal cannabis or resin, was not stated.
+    - The specific locations searched in Kilkenny City were not named.
+    - The outcome of the ordered Kilkenny District Court appearance was not reported.
+    - The accounts appear to draw on Garda information and none names a further source beyond the drugs-unit operation.
 ---
 
 Gardaí in Kilkenny carried out several searches across Kilkenny City over the
-weekend. [@1] The searches were carried out by Gardaí attached to the drugs unit
+weekend. [@1,3] The searches were carried out by Gardaí attached to the drugs unit
 at various locations in the city. [@1] KCLR reported that the operation took
 place on Saturday 21 November 2026. [@2] Several arrests were made during the
-operation. [@2]
+operation. [@2] Two males were arrested in connection with the seizure. [@3]
 
 Cannabis and cocaine with a combined value of approximately €70,000 were seized
-in the searches. [@1] KCLR put the value of the suspected illegal drugs seized
+in the searches. [@1,3] KCLR put the value of the suspected illegal drugs seized
 at around €70,000. [@2] Gardaí described the quantity of drugs seized as large.
 [@1]
 
 The searches were part of Operation Tara, which aims to disrupt the sale and
-supply of illegal drugs and the networks involved. [@1] The day of action
+supply of illegal drugs and the networks involved. [@1,3] The day of action
 involved the Garda Drugs Unit, supported by members of Kilkenny Community
 Engagement. [@2] The operation targeted criminal networks involved in drug
 trafficking, distribution and related intimidation. [@2] Gardaí said
-investigations were ongoing. [@1]
-
+investigations were ongoing. [@1] The two men were charged to appear before Kilkenny District Court later that month. [@3]
