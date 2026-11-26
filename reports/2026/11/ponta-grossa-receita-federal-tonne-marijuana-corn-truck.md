@@ -51,6 +51,16 @@ media:
     media_url: https://imagens.bandab.com.br/file/bandab/2026/11/video-carreta-maconha-milho-ponta-grossa.mp4
     publisher: Banda B
     caption: 'Federal Revenue video of the inspection that found marijuana bales under the corn in the truck. Video: Receita Federal'
+  - kind: photo
+    url: https://sindireceita.org.br/noticias/2026/11/21/analsitas-tributarios-atuam-na-apreensao-de-uma-tonelada-de-maconha-no-parana
+    media_url: https://sindireceita.org.br/api/site/media/ym-2UXviDLej0W7zrJc5N
+    publisher: Sindireceita
+    caption: Tablets of marijuana seized from the truck, stacked on a trolley and weighed during counting.
+  - kind: photo
+    url: https://sindireceita.org.br/noticias/2026/11/21/analsitas-tributarios-atuam-na-apreensao-de-uma-tonelada-de-maconha-no-parana
+    media_url: https://sindireceita.org.br/api/site/media/QG7uwoHfLbplMXk3_X9fI
+    publisher: Sindireceita
+    caption: A plastic-wrapped tablet of marijuana lying among the corn in the truck's load.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 599d9b00fdb5706ecd7d034aa0af28cc
@@ -91,14 +101,19 @@ sources:
     publisher: Folha de Curitiba
     date: 2026-11-20
     language: pt
+  - title: Analistas-Tributários atuam na apreensão de uma tonelada de maconha no Paraná
+    url: https://sindireceita.org.br/noticias/2026/11/21/analsitas-tributarios-atuam-na-apreensao-de-uma-tonelada-de-maconha-no-parana
+    publisher: Sindireceita
+    date: 2026-11-21
+    language: pt
 ---
 
 Federal Revenue officers from the Ponta Grossa tax office stopped a truck
 carrying corn in the city's urban area on the afternoon of 19 November 2026.
-[@2,6,7] The truck had left south-west Paraná and was driven by a 46-year-old man
+[@2,6,7,8] Federal Revenue said no other agency took part in the operation. [@8] The truck had left south-west Paraná and was driven by a 46-year-old man
 from Laguna in Santa Catarina. [@2,6,7] Officers became suspicious when the driver
 gave contradictory answers about the route and the length of the trip. [@4,6,7] The
-driver was arrested in the act for drug trafficking. [@3,6,7]
+driver was arrested in the act for drug trafficking. [@3,6,7,8]
 
 Under the corn, officers found dozens of bales of marijuana hidden in the load.
 [@2,6,7] The marijuana weighed about one tonne. [@1,6,7] The officers' initial
