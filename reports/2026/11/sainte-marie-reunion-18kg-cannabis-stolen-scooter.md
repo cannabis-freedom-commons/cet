@@ -38,6 +38,11 @@ media:
     media_url: https://la1ere.franceinfo.fr/image/gunTdhJ4k6MhQRdh4AfbXXZBRxI/420x0:1500x1080/320x320/filters:quality(80)/outremer%2F2026%2F11%2F22%2F6b0290fe3862e436838072.jpg
     publisher: Outre-mer La 1ère
     caption: 'The 18 kg of cannabis and the stolen scooter seized in Sainte-Marie on 16 November 2026. Photo: Gendarmerie de La Réunion'
+  - kind: photo
+    url: https://www.lequotidien.re/article/faits-divers/2026/11/22/sainte-marie-18-kg-de-cannabis-decouverts-par-hasard-lors-dune-intervention-des-gendarmes
+    media_url: https://www.lequotidien.re/assets/images/cache/thumbnail_une_1/assets/images/articles/2026/11/22/capture-d-ecran-2026-11-22-155142-6b02d76de6002806576957.webp
+    publisher: Le Quotidien de La Réunion
+    caption: 'The 18 kg of cannabis seized during the gendarmerie intervention in Sainte-Marie. Photo: DR'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 97101139d8f2cfdf23483ea3b06dfb56
@@ -63,20 +68,18 @@ sources:
     publisher: Imaz Press Réunion
     date: 2026-11-22
     language: fr
-open_questions:
-  - No arrests were reported, and the gendarmerie did not say whether anyone was detained or charged.
-  - The gendarmerie did not detail the nature of the three judicial procedures opened after the discovery.
-  - The gendarmerie did not say what the original operation in Sainte-Marie concerned.
-  - No value was published for the 18 kg of cannabis, and the accounts do not say where it was found.
-  - One account gives the amount as nearly 18 kg while others give 18 kg; the report uses 18 kg.
-  - The same account mentions a separate early-November discovery of 193 cannabis plants in Saint-Benoît, a different event left out here.
+  - title: 'Sainte-Marie : 18 kg de cannabis découverts par hasard lors d''une intervention des gendarmes'
+    url: https://www.lequotidien.re/article/faits-divers/2026/11/22/sainte-marie-18-kg-de-cannabis-decouverts-par-hasard-lors-dune-intervention-des-gendarmes
+    publisher: Le Quotidien de La Réunion
+    date: 2026-11-22
+    language: fr
 ---
 
 Gendarmes in Sainte-Marie, on the French island of Réunion, found 18 kg of
 cannabis and a scooter reported stolen during a judicial operation in the town
-on Monday 16 November 2026. [@1] The discoveries were not part of the
+on Monday 16 November 2026. [@1,5] The discoveries were not part of the
 operation's initial objective, and they led to three separate judicial
-procedures being opened, the gendarmerie said. [@1] A Réunion news outlet
+procedures being opened, the gendarmerie said. [@1,5] A Réunion news outlet
 reported that the gendarmes had come to Sainte-Marie for another case, and that
 their intervention went beyond its initial scope when they found the cannabis
 and the stolen scooter. [@3]
@@ -90,4 +93,3 @@ stolen scooter. [@2]
 The gendarmerie described the operation as a work of investigation that showed
 every discovery counted, both in the fight against drugs and in the fight
 against crime against property. [@4]
-
