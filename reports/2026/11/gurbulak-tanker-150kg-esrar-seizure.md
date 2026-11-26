@@ -43,6 +43,16 @@ media:
     media_url: https://www.mersinhaber.com/cropp/1200x675/Depo/haber/857231/org/857231.webp
     publisher: Mersin Haber
     caption: 'Drugs found during the search of the tanker at the Gürbulak customs gate in Doğubayazıt, Ağrı. Photo: Mersin Haber / IHA'
+  - kind: photo
+    url: https://www.iha.com.tr/agri-haberleri/gurbulakta-tankerde-271-kilo-uyusturucu-ele-gecirildi-520279365
+    media_url: https://cdn.iha.com.tr/Contents/images/2026/11/23/20261122aw837800-0.jpg
+    publisher: İhlas Haber Ajansı
+    caption: 'Photograph published with IHA''s report on the drugs found in the tanker at the Gürbulak customs gate in Doğubayazıt, Ağrı. Photo: İhlas Haber Ajansı'
+  - kind: photo
+    url: https://www.iha.com.tr/agri-haberleri/gurbulakta-tankerde-271-kilo-uyusturucu-ele-gecirildi-520279365
+    media_url: https://cdn.iha.com.tr/Contents/images/2026/11/23/20261122aw837800-1.jpg
+    publisher: İhlas Haber Ajansı
+    caption: 'Second photograph published with IHA''s report on the drugs found in the tanker at the Gürbulak customs gate in Doğubayazıt, Ağrı. Photo: İhlas Haber Ajansı'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: ee491c569be8a34bed37ad2349c0afe7
@@ -63,6 +73,11 @@ sources:
     publisher: Mersin Haber
     date: 2026-11-22
     language: tr
+  - title: Gürbulak’ta tankerde 271 kilo uyuşturucu ele geçirildi
+    url: https://www.iha.com.tr/agri-haberleri/gurbulakta-tankerde-271-kilo-uyusturucu-ele-gecirildi-520279365
+    publisher: İhlas Haber Ajansı (IHA)
+    date: 2026-11-22
+    language: tr
 open_questions:
   - No separate date is given for the tanker inspection; 22 November 2026 is the publication date of both accounts and is used as the incident date.
   - The accounts call the cannabis 'esrar' without saying whether it was dried herbal cannabis or pressed resin, and no laboratory result was reported.
@@ -73,18 +88,18 @@ open_questions:
 ---
 
 The seizure was reported on 22 November 2026. [@1] The Gürbulak customs gate is
-in Doğubayazıt district, Ağrı province. [@1,3] A statement from the Ağrı
+in Doğubayazıt district, Ağrı province. [@1,3,4] A statement from the Ağrı
 governorate said customs teams inspected a tanker entering Turkey from Iran.
-[@1,3] Hürriyet, citing DHA, reported that officers stopped the tanker after
+[@1,3,4] Hürriyet, citing DHA, reported that officers stopped the tanker after
 assessing it as suspicious. [@2] A narcotic detection dog was used and the drugs
 were hung from the trailer's cargo section with rope and bags. [@2]
 
 Officers from the customs protection, smuggling and intelligence directorate
-found 150 kg 350 g of esrar, the Turkish term for cannabis, in the search. [@1,3]
+found 150 kg 350 g of esrar, the Turkish term for cannabis, in the search. [@1,3,4]
 The Aksam account described a further 121 kg 400 g as synthetic drugs. [@1]
-Hürriyet, citing DHA, identified the other 121 kg 400 g as methamphetamine. [@2,3]
+Hürriyet, citing DHA, identified the other 121 kg 400 g as methamphetamine. [@2,3,4]
 Authorities said the combined weight of all the drugs seized was 271 kg 750 g.
-[@2,3]
+[@2,3,4]
 
 The Ağrı governorate said judicial proceedings over the incident were
-continuing. [@1,3]
+continuing. [@1,3,4]
