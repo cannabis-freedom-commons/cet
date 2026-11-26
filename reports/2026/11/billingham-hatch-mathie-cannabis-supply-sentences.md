@@ -79,6 +79,15 @@ sources:
     publisher: HLN
     date: 2026-11-18
     language: nl
+  - title: Toddler dies after drinking cocaine-laced milk; mother and dealer jailed
+    url: https://britbrief.co.uk/crime/sentencing/toddler-dies-after-cocaine-laced-milk-mother-and-dealer-jailed.html
+    publisher: Brit Brief
+    date: 2026-11-17
+  - title: Po konopí byla sedmnáct hodin v bezvědomí. O pár dní později dvouletou holčičku zabil kokain
+    url: https://www.forum24.cz/po-konopi-byla-sedmnact-hodin-v-bezvedomi-o-par-dni-pozdeji-dvouletou-holcicku-zabil-kokain
+    publisher: FORUM 24
+    date: 2026-11-23
+    language: cs
 open_questions:
     - No weight, value or quantity was published for the cannabis found at the Billingham home; it was described only as a substantial amount.
     - Laylah Hatch's death was attributed to cocaine in her milk, not to cannabis, so no cannabis-related death figure is recorded.
@@ -90,26 +99,26 @@ open_questions:
 ---
 
 Jodie Hatch, 23, and Dale Mathie, 30, were charged with child cruelty and drug
-offences after two-year-old Laylah Hatch died in hospital. [@1] Laylah was found
+offences after two-year-old Laylah Hatch died in hospital. [@1] The child-cruelty counts related to Laylah and another child. [@6] Laylah was found
 unresponsive after emergency services were called to an address in Billingham,
 County Durham, in April 2024. [@1] Laylah died on 10 April 2024, the date Cleveland Police gave for the emergency call about her. [@4] Police arrested the couple after treating Laylah's death as suspicious. [@5] She was rushed to hospital and pronounced
-dead despite the efforts of medics. [@1] Detectives found traces of cocaine in Laylah's milk bottle, stomach, blood and hair. [@5] Cleveland Police officers searching the
+dead despite the efforts of medics. [@1] Detectives found traces of cocaine in Laylah's milk bottle, stomach, blood and hair. [@5,6] Cleveland Police officers searching the
 home after Laylah's death uncovered a substantial amount of cannabis and cocaine
-that was within reaching distance of a toddler. [@2,4,5] Det Ch Insp Chris Pringle said the cocaine levels found in Laylah's body could have been fatal to an adult, let alone a small child. [@5] A separate search of
+that was within reaching distance of a toddler. [@2,4,5,6] Det Ch Insp Chris Pringle said the cocaine levels found in Laylah's body could have been fatal to an adult, let alone a small child. [@5] A separate search of
 another address linked to Mathie found other illicit drugs. [@1]
 
 At Teesside Crown Court, prosecutor Richard Wright KC said Mathie was at all
 times a drug dealer who sold cannabis sweets, cannabis bush and amphetamine.
 [@3] The court heard there was an unmistakable stench of cannabis throughout the
 flat. [@3] Days before Laylah's death she ate a cannabis sweet that knocked her
-out for 17 hours. [@3] Both pleaded guilty to possession with intent to supply a
+out for 17 hours. [@3,7] Investigators recovered phone footage showing Laylah under the influence of drugs. [@7] Tests indicated Laylah had been exposed to cocaine, cannabis and ecstasy on multiple occasions. [@6] Both pleaded guilty to possession with intent to supply a
 Class A drug and Hatch also admitted being concerned in the supply of a Class B
-drug. [@1] The pair changed their pleas to guilty on the third day of their trial. [@4,5] Hatch admitted a charge of being concerned in the supply of cannabis.
+drug. [@1] The pair changed their pleas to guilty on the third day of their trial. [@4,5,7] Hatch admitted a charge of being concerned in the supply of cannabis.
 [@3] Mathie admitted possessing cocaine, amphetamine and cannabis with intent to
 supply. [@3]
 
 The pair appeared at Teesside Crown Court on 16 November for sentencing. [@1]
 Judge Francis Laird KC, the Recorder of Middlesbrough, jailed Hatch for five
-years and four months and Mathie for 13 years and nine months. [@3] Mathie was
+years and four months and Mathie for 13 years and nine months. [@3] Neither Hatch nor Mathie was convicted of causing Laylah's death. [@7] Mathie was
 also sentenced for a separate charge of violent disorder following an assault in
 Billingham in September 2025. [@1]
