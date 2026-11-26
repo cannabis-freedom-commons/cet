@@ -54,6 +54,11 @@ sources:
     url: https://www.deccanherald.com/india/tamil-nadu/208-kg-of-drugs-seized-in-tamil-nadu-in-a-month-were-bound-for-sri-lanka-investigators-say-4228610
     publisher: Deccan Herald
     date: 2026-11-23
+  - title: பாம்பன் அருகே 77 கிலோ கஞ்சா பறிமுதல் - இருவர் கைது - 77 kg of cannabis seized near Pamban - two arrested
+    url: https://www.dailythanthi.com/news/tamilnadu/pamban-77kg-cannabis-seized-two-arrested
+    publisher: Daily Thanthi
+    date: 2026-11-23
+    language: ta
 open_questions:
     - The second account describes the interception as on Monday morning without giving a calendar date, while the first account dates it to 22 November 2026, which is used as the incident date; a third account places the seizure on Sunday night.
     - The first account says the men and seizure were brought to Mandapam, while the second account says they were brought to the Ramanathapuram Customs office.
@@ -71,11 +76,11 @@ and identified as Aeronius, 33, and Gunasekaran, 42, both residents of Saveriyar
 Nagar in Thangachimadam. [@2]
 
 A search of the vessel recovered about 77 kg of ganja packed into parcels and
-concealed in three gunny sacks. [@2,3] The interception took place near Pamban in
+concealed in three gunny sacks. [@2,3,4] The interception took place near Pamban in
 Ramanathapuram on 22 November 2026. [@1,3] Officials estimated the international
 market value of the seized ganja at around Rs 25 lakh. [@2]
 
 The Indian Coast Guard Station, Mandapam, conducted the operation in
-coordination with the Customs Central Intelligence Unit, Tiruchy. [@1] The
+coordination with the Customs Central Intelligence Unit, Tiruchy. [@1,4] The
 seized contraband, boat and two crew members were brought to Mandapam and handed
-over to the Customs Central Intelligence Unit for further legal action. [@1]
+over to the Customs Central Intelligence Unit for further legal action. [@1,4]
