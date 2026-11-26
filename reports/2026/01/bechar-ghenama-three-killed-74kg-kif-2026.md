@@ -64,29 +64,28 @@ sources:
     publisher: Bladi.net
     date: 2026-01-29
     language: fr
-open_questions:
-  - The ministry statement gives no detail of how the ambush unfolded, what the group was carrying it in, or where the 74 kg was found.
-  - No charge, prosecutor's referral or court outcome was reported for the man arrested, named in the ministry statement.
-  - Moroccan authorities did not comment; El Khabar later cited a second ministry statement reporting 447 kg recovered in the same Ghenama area after the ambush, a separate follow-up seizure not counted in these figures.
-  - The photo on the Le Monde page is an archive picture of a border guard from November 2021, not of this ambush.
-  - The route field records Morocco as the origin because the ministry described the men as Moroccan nationals and the seizure as coming from Morocco; the sources do not state where the group crossed.
+  - title: L'Algérie dit avoir tué trois trafiquants de drogue marocains près de la frontière
+    url: https://telquel.ma/instant-t/2026/01/29/lalgerie-dit-avoir-tue-trois-trafiquants-de-drogue-marocains-pres-de-la-frontiere_1973033/
+    publisher: Telquel.ma
+    date: 2026-01-29
+    language: fr
 ---
 
 Algeria's defence ministry said security forces killed three armed Moroccan
 traffickers and arrested a fourth in an ambush in the Ghenama area of Béchar
 wilaya, near the Moroccan border, on the night of Wednesday 28 January 2026.
-[@1,4] The ambush was laid by joint detachments of the People's National Army, the
+[@1,4,5] The ambush was laid by joint detachments of the People's National Army, the
 border guard and Algerian customs, the ministry said. [@2] The ministry said the
 group had tried to take advantage of the bad weather across the country to carry
-out its crimes. [@1,4]
+out its crimes. [@1,4,5]
 
 Officers seized 74 kg of cannabis resin, a hunting rifle, binoculars, four
-mobile phones and other items, according to the ministry. [@1,4] The ministry
+mobile phones and other items, according to the ministry. [@1,4,5] The ministry
 published the names of the three dead and of the man arrested, all said to be
-Moroccan nationals; it gave no other details of the interception. [@3]
+Moroccan nationals; it gave no other details of the interception. [@3] The interception took place in an area described as 1,600 km southwest of Algiers. [@5]
 
 In a separate statement the army said it had seized 174 kg of Moroccan cannabis
-resin in the week of 21 to 27 January. [@1] The incident happened amid acute
+resin in the week of 21 to 27 January. [@1,5] The incident happened amid acute
 tension between the two North African neighbours, whose border has been closed
-since 1994. [@1,4] Diplomatic relations between Algeria and Morocco have been severed since 2021. [@4] TSA Algérie reported that the operation was presented by the
+since 1994. [@1,4,5] Diplomatic relations between Algeria and Morocco have been severed since 2021. [@4] TSA Algérie reported that the operation was presented by the
 army as a warning to anyone seeking to enter Algerian territory. [@3]
