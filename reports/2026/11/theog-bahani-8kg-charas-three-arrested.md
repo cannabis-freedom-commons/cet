@@ -55,6 +55,11 @@ sources:
     publisher: Current Crime
     date: 2026-11-23
     language: hi
+  - title: ठियोग में तीन घरों से 8 किलो चरस बरामद:तीन गिरफ्तार; पुलिस ने तड़के बाहनी में दबिश दी, एक घर से 5.5 KG चरस पकड़ी - Theog Drug Raid | Himachal Police Seize Charas Arrest Three in Shimla
+    url: https://www.bhaskar.com/local/himachal/shimla/news/theog-shimla-police-raid-charas-seizure-arrest-drug-trafficking-139774986.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-23
+    language: hi
 open_questions:
     - The article says three people were arrested but names four people in connection with the raids; Hari Vallabh's role and any recovery attributed to him are not specified.
     - The three stated recoveries of 1.7 kg, 900 grams and approximately 5.5 kg do not add exactly to the police's round total of 'around 8 kg'.
@@ -63,11 +68,17 @@ open_questions:
     - No laboratory confirmation that the seized substance was charas was reported.
     - No value or estimate was published for the seized charas.
     - It is unclear which resident's house yielded the 5.5 kg of charas, Rs 1,05,690 in cash and weighing machine, with Hari Vallabh and Dila Ram named for the third recovery.
+media:
+  - kind: photo
+    url: https://www.bhaskar.com/local/himachal/shimla/news/theog-shimla-police-raid-charas-seizure-arrest-drug-trafficking-139774986.html
+    media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/11/23/dbgifmagic_-_2026-11-23t150137_445_1795426257708.gif
+    publisher: Dainik Bhaskar
+    caption: 'Accused arrested with the seized charas in the Theog raid. Photo: Dainik Bhaskar'
 ---
 
 Shimla Police arrested three people and recovered around 8 kg of charas during
 simultaneous raids at three residential premises in Bahani village under Theog
-police station. [@1,2] The raids followed specific intelligence inputs and formed
+police station. [@1,2,3] The raids followed specific intelligence inputs and formed
 part of an intensified campaign against drug trafficking. [@1,2]
 
 Officers recovered 1.7 kg of charas from the residence of Shyam Singh and 900
