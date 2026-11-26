@@ -52,6 +52,9 @@ sources:
     url: https://www.lancashiretelegraph.co.uk/news/26754579.man-charged-police-investigate-discovery-16-cannabis-plants/?ref=rss
     publisher: Lancashire Telegraph
     date: 2026-11-23
+  - title: Man charged after discovery of cannabis grow on Burholme Road in Preston | News - Hits Radio (Lancashire)
+    url: https://www.hellorayo.co.uk/hits-radio/lancashire/news/man-charged-after-discovery-of-cannabis-grow-on-burholme-road-in-preston
+    publisher: Hits Radio (Lancashire)
 open_questions:
   - 'The plant count is approximate: the detailed accounts say around 16 plants.'
   - No weight, value estimate or laboratory confirmation for the plants was published.
@@ -65,10 +68,10 @@ an active cannabis grow in an upstairs bedroom during checks relating to the
 suspected tampering. [@1] There was also evidence that the electricity supply
 had been bypassed. [@1] A 38-year-old man was arrested on Saturday, and police
 named him as Kyle Deehan of Burholme Road. [@2] Deehan, 38, has been charged
-with producing a Class B drug, cannabis, and with abstracting electricity. [@1]
-He was due to appear at Preston Magistrates Court on Monday, November 23. [@2]
+with producing a Class B drug, cannabis, and with abstracting electricity. [@1,3]
+He was due to appear at Preston Magistrates Court on Monday, November 23. [@2,3]
 
-Officers found around 16 cannabis plants growing in the upstairs bedroom. [@2]
+Officers found around 16 cannabis plants growing in the upstairs bedroom. [@2,3]
 The plants were discovered after a utility company carried out a warrant to
 inspect the suspected meter tampering. [@2]
 
@@ -76,4 +79,3 @@ Police said the initial call-out to the Burholme Road address came from
 Electricity North West on Tuesday, November 17. [@2] The case pairs a
 cannabis-production charge with an electricity-abstraction charge over the
 bypassed supply. [@2]
-
