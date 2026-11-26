@@ -46,6 +46,10 @@ sources:
     url: https://english.pardafas.com/police-seize-72-kg-cannabis-in-siraha-and-arrest-driver/
     publisher: epardafas
     date: 2026-11-22
+  - title: Police seize 72kg of marijuana hidden in tractor toolbox in Siraha, 1 arrested
+    url: https://www.hamropatro.com/en/news/detail/1795347898935485464-police-seize-72kg-of-marijuana-hidden-in-tractor-toolbox-in
+    publisher: Hamro Patro
+    date: 2026-11-22
 open_questions:
   - The 72 kg figure includes the plastic packaging, so no net weight for the marijuana was reported.
   - No street value, laboratory confirmation or separate figure for the packaging alone was reported.
@@ -53,7 +57,7 @@ open_questions:
 ---
 
 Police in Siraha arrested a 33-year-old man and seized 72 kg of marijuana hidden
-in a tractor's toolbox. [@1] The arrested man was identified as Anil Kumar
+in a tractor's toolbox. [@1,3] The arrested man was identified as Anil Kumar
 Mahato, 33, of Saraswar Tole in Siraha Municipality-12. [@1] Officers of the
 District Police Office, Siraha, stopped and searched the tractor travelling from
 Shiv Chowk towards Siraha Bazar along an inner road in Siraha Municipality-1 at
@@ -70,4 +74,3 @@ The District Police Office said the tractor's driver had been taken into custody
 on suspicion of involvement in the incident and that further investigation was
 underway. [@1] Police said the arrested man and the confiscated substance were
 kept at the district police office. [@2]
-
