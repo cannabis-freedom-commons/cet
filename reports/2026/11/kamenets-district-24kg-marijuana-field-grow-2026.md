@@ -58,6 +58,16 @@ media:
     media_url: https://img.zerkalo.io/720x720s/novosti/08/e/0marikhuanakamenec1126.jpg
     publisher: Зеркало
     caption: 'Marijuana found at the home of a Kamenets district resident, November 2026. Photo: УВД Брестского облисполкома'
+  - kind: photo
+    url: https://ctv.by/news/obshestvo/bolee-24-kg-marihuany-izuyali-operativniki-u-zhitelya-kameneckogo-rajona
+    media_url: https://api.ctv.by/uploads/images/vlcsnap-2026-11-23-16h41m47s595.jpg?width=1200/height=675
+    publisher: СТВ
+    caption: 'Video still from СТВ''s «Служба 112» report on the Kamenets district case, published in the article beside the account of the cannabis field and the 24 kg seizure. Video: СТВ'
+  - kind: photo
+    url: https://ctv.by/news/obshestvo/bolee-24-kg-marihuany-izuyali-operativniki-u-zhitelya-kameneckogo-rajona
+    media_url: https://api.ctv.by/uploads/images/vlcsnap-2026-11-23-16h46m51s936.jpg?width=1200/height=675
+    publisher: СТВ
+    caption: 'Video still from СТВ''s «Служба 112» report on the Kamenets district case, published in the article before the paragraph on the criminal case. Video: СТВ'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: fcc378f1f431e885db865f903f28c59f
@@ -93,6 +103,11 @@ sources:
     publisher: Зеркало
     date: 2026-11-22
     language: ru
+  - title: Более 24 кг марихуаны изъяли оперативники у жителя Каменецкого района
+    url: https://ctv.by/news/obshestvo/bolee-24-kg-marihuany-izuyali-operativniki-u-zhitelya-kameneckogo-rajona
+    publisher: СТВ
+    date: 2026-11-23
+    language: ru
 open_questions:
     - No date is given for the detention; 22 November 2026 is the date the police announced the case.
     - No figure was published for the number of plants in the field or their weight.
@@ -104,9 +119,9 @@ open_questions:
 
 Drug-control officers of the Brest regional internal affairs directorate
 detained a 41-year-old man who lives in one of the villages of Kamenets
-district. [@1,3,6] The Brest regional police department said he was suspected of
+district. [@1,3,6,7] The Brest regional police department said he was suspected of
 growing cannabis in a field next to his house. [@2,3,6] BelTA reported that the
-cannabis grew in a field not far from his own plot of land. [@1]
+cannabis grew in a field not far from his own plot of land. [@1,7]
 
 A search at the man's home found more than 24 kilograms of marijuana. [@1,4,5,6] ONT
 reported that officers discovered the marijuana during a search at the suspect's
