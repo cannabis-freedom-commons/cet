@@ -50,6 +50,11 @@ sources:
     publisher: أشطاري 24
     date: 2026-11-23
     language: ar
+  - title: ميناء طنجة المدينة.. إحباط تهـ.ريب 8 كيلوغرامات من الكوكايين قادمة من إسبانيا - Le12.ma
+    url: https://le12.ma/%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%B7%D9%86%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D8%AA%D9%87%D9%80-%D8%B1%D9%8A%D8%A8-8-%D9%83%D9%8A%D9%84%D9%88/
+    publisher: Le12.ma
+    date: 2026-11-22
+    language: ar
 open_questions:
     - No count of the seeds was reported, only their weight of three kilograms.
     - No charges, detention measure or court outcome beyond the opened judicial investigation was reported.
@@ -58,20 +63,20 @@ open_questions:
 ---
 
 National Security officers working with customs at Tangier city port foiled an
-attempt to smuggle drugs into Morocco on Sunday afternoon. [@1,2,3] Officers
+attempt to smuggle drugs into Morocco on Sunday afternoon. [@1,2,3,4] Officers
 detained a 47-year-old Moroccan citizen living in Spain immediately after he
 arrived at the port on a ferry from the Spanish port of Tarifa, as his
-foreign-registered car underwent border checks. [@1,3]
+foreign-registered car underwent border checks. [@1,3,4]
 
 The search by security and customs officers with trained police dogs found the
 cocaine consignment hidden under the car front bumper, alongside the seized
-seeds. [@1,3] Officers seized eight kilograms of cocaine and three kilograms of
-seeds used for growing cannabis. [@1,2,3]
+seeds. [@1,3,4] Officers seized eight kilograms of cocaine and three kilograms of
+seeds used for growing cannabis. [@1,2,3,4]
 
 The Tangier prefectural judicial police then opened a judicial investigation
 under the competent prosecutor to establish the circumstances and uncover the
-source and intended destination of the drugs. [@1,3] Ongoing inquiries are to
+source and intended destination of the drugs. [@1,3,4] Ongoing inquiries are to
 identify possible national and international extensions of the activity and any
-other suspected accomplices. [@1,3] The operation was presented as part of
+other suspected accomplices. [@1,3,4] The operation was presented as part of
 security and customs efforts against international drug smuggling and stronger
 controls at border crossings and Moroccan ports. [@1,3]
