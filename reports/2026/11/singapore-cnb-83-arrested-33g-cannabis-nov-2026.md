@@ -1,0 +1,99 @@
+---
+code: 3FKT5M
+added_at: "2026-11-26T17:43:50.591013Z"
+date: 2026-11-20
+country: sg
+place: Singapore (island-wide operation)
+coordinates: [1.3571, 103.8195]
+precision: region
+type: arrest
+also: [seizure, raid]
+title: 83 arrested in CNB island-wide raids; 33g cannabis seized
+summary: >-
+  Singapore's Central Narcotics Bureau arrested 83 suspected drug offenders in island-wide raids from November 16 to 20, 2026. Officers seized 33 grams of cannabis alongside heroin, Ice, ketamine and Ecstasy worth over $21,500, with children found in two raided homes.
+figures:
+  arrested: 83
+  kg_seized: 0.033
+  value:
+    amount: 21500
+    currency: SGD
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower, kg: 0.033}
+  setting: [home, street]
+  charges: [suspected drug trafficking offences, suspected drug offences]
+  case_stage: investigation
+  force: [physical]
+  period: {start: 2026-11-16, end: 2026-11-20}
+  date_precision: exact
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [2]
+  details.charges: [2]
+  details.force: [1]
+  details.period: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
+media:
+  - kind: photo
+    url: https://www.straitstimes.com/singapore/83-suspected-drug-offenders-arrested-in-4-day-cnb-operation
+    media_url: https://cassette.sphdigital.com.sg/image/straitstimes/3fef4d6587dd748f9b63c96f20520179eae04347125a1f16438fcdee8b7026d8
+    publisher: The Straits Times
+    caption: 'Children found in a home in Ang Mo Kio Avenue 3, with drug utensils left in the open. Photo: Central Narcotics Bureau'
+status: verified
+created_by_model: muse/muse-spark-1.3#xhigh
+submission: a33b232ee3f8cf923a4601d6bfd5ab72
+tags: [singapore, cnb, island-wide]
+sources:
+  - title: 83 suspected drug offenders arrested in 4-day CNB operation
+    url: https://www.straitstimes.com/singapore/83-suspected-drug-offenders-arrested-in-4-day-cnb-operation
+    publisher: The Straits Times
+    date: 2026-11-23
+  - title: 83 arrested in island-wide anti-drug operation; children found in homes of drug suspects
+    url: https://www.cnb.gov.sg/mediaroom/news/83-arrested-in-island-wide-anti-drug-operation--children-found-in-homes-of-drug-suspects/
+    publisher: Central Narcotics Bureau
+    date: 2026-11-23
+open_questions:
+  - The 33g cannabis total was not broken down by raid beyond a small amount recovered at Jalan Bukit Merah.
+  - The $21,500 estimate covers all seized drugs together and cannot be split to cannabis alone.
+  - The 83 arrests cover the whole operation including heroin and methamphetamine cases, not cannabis cases alone.
+  - No charges, court outcomes or detention decisions were reported; investigations were ongoing.
+---
+
+Singapore's Central Narcotics Bureau arrested 83 suspected drug offenders in
+island-wide raids from November 16 to 20, 2026. [@1] The operation covered Ang
+Mo Kio, Bedok, Bukit Merah, Hougang, Woodlands and Yishun. [@2] Investigations
+into the drug activities of all arrested suspects are ongoing. [@2]
+
+Officers seized about 30 grams of heroin, 126 grams of Ice, 33 grams of
+cannabis, 15 grams of ketamine and 11 Ecstasy tablets. [@1] The bureau estimated
+the seized drugs were worth more than $21,500. [@1] In a separate raid on
+November 17, officers forced their way into a home near Jalan Bukit Merah and
+arrested a 46-year-old man and his 39-year-old fiancee after they refused to
+open the door. [@1] Officers used necessary force to restrain the man after he
+put up a violent struggle on entry. [@1] A search found two packets containing
+Ice and cannabis respectively, while a third packet with a small amount of
+heroin had been thrown out of the kitchen window before the arrests. [@1] Three
+others, two men aged 40 and 64 and a 70-year-old woman, were arrested in the
+same estate after meeting the 46-year-old man earlier as suspected clients. [@1]
+
+On the morning of November 17, officers arrested a 43-year-old woman and a
+38-year-old man in a residential unit in Ang Mo Kio Avenue 3. [@1] The woman's
+14-year-old daughter and the man's 11-month-old baby were found there with drug
+paraphernalia left in an exposed area, and the children were placed in the care
+of next of kin. [@1] On November 19, officers arrested a 44-year-old man and a
+26-year-old woman at a home in Corporation Drive in Lakeside, seizing about 27
+grams of Ice and drug paraphernalia. [@1] The couple's five-month-old daughter
+was found there and arrangements were made to ensure the child's welfare. [@1]
+On the evening of November 17, officers arrested three men aged 23, 25 and 31 at
+a bus stop in Penjuru Close. [@1] The 23-year-old man put up a violent struggle
+and was restrained with necessary force. [@1] On the morning of November 19,
+officers arrested a 37-year-old man in a residential unit near Ho Ching Road for
+suspected drug offences. [@2]
+
