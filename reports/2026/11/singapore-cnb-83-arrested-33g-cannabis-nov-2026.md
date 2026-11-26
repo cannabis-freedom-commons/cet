@@ -64,16 +64,21 @@ sources:
     publisher: The Straits Times
     date: 2026-11-23
     language: zh
+  - title: 肃毒局全岛扫毒捕83人 涉毒住家发现五个月大女婴
+    url: https://www.8world.com/singapore/cnb-islandwide-drug-operation-83-arrested-children-infants-3348961
+    publisher: 8world
+    date: 2026-11-23
+    language: zh
 ---
 
 Singapore's Central Narcotics Bureau arrested 83 suspected drug offenders in
-island-wide raids from November 16 to 20, 2026. [@1,3] The operation covered Ang
-Mo Kio, Bedok, Bukit Merah, Hougang, Woodlands and Yishun. [@2] Investigations
-into the drug activities of all arrested suspects are ongoing. [@2]
+island-wide raids from November 16 to 20, 2026. [@1,3,4] The operation covered Ang
+Mo Kio, Bedok, Bukit Merah, Hougang, Woodlands and Yishun. [@2,4] Investigations
+into the drug activities of all arrested suspects are ongoing. [@2,4]
 
 Officers seized about 30 grams of heroin, 126 grams of Ice, 33 grams of
-cannabis, 15 grams of ketamine and 11 Ecstasy tablets. [@1,3] The bureau estimated
-the seized drugs were worth more than $21,500. [@1] In a separate raid on
+cannabis, 15 grams of ketamine and 11 Ecstasy tablets. [@1,3,4] The bureau estimated
+the seized drugs were worth more than $21,500. [@1,4] In a separate raid on
 November 17, officers forced their way into a home near Jalan Bukit Merah and
 arrested a 46-year-old man and his 39-year-old fiancee after they refused to
 open the door. [@1] Officers used necessary force to restrain the man after he
@@ -87,12 +92,12 @@ On the morning of November 17, officers arrested a 43-year-old woman and a
 38-year-old man in a residential unit in Ang Mo Kio Avenue 3. [@1,3] The woman's
 14-year-old daughter and the man's 11-month-old baby were found there with drug
 paraphernalia left in an exposed area, and the children were placed in the care
-of next of kin. [@1] On November 19, officers arrested a 44-year-old man and a
+of next of kin. [@1,4] On November 19, officers arrested a 44-year-old man and a
 26-year-old woman at a home in Corporation Drive in Lakeside, seizing about 27
 grams of Ice and drug paraphernalia. [@1] The couple's five-month-old daughter
-was found there and arrangements were made to ensure the child's welfare. [@1]
+was found there and arrangements were made to ensure the child's welfare. [@1,4]
 On the evening of November 17, officers arrested three men aged 23, 25 and 31 at
-a bus stop in Penjuru Close. [@1] The 23-year-old man put up a violent struggle
-and was restrained with necessary force. [@1] On the morning of November 19,
+a bus stop in Penjuru Close. [@1,4] All three were Bangladeshi nationals. [@4] The 23-year-old man put up a violent struggle
+and was restrained with necessary force. [@1] Officers also found drug utensils at the dormitory beds of the 23-year-old and 25-year-old men. [@4] On the morning of November 19,
 officers arrested a 37-year-old man in a residential unit near Ho Ching Road for
 suspected drug offences. [@2]
