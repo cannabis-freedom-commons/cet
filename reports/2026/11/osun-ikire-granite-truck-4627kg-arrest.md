@@ -59,16 +59,22 @@ sources:
     url: https://platformtimes.com.ng/ndlea-intercepts-160-explosives-bound-for-zamfara-seizes-4-6-tonnes-of-cannabis/
     publisher: Platform Times
     date: 2026-11-22
+  - title: NDLEA Seizes 4.6 Tonnes Of Cannabis In Osun And Ondo, Arrests Several Suspects
+    url: https://www.tori.ng/amp/327979/ndlea-seizes-46-tonnes-of-cannabis-in-osun-and-ond.html
+    publisher: Tori.ng
+    date: 2026-11-23
 open_questions:
   - No separate date was given for the arrest; 18 November 2026 is the publication date of both reports and stands in for the incident date.
   - No charge, plea or court outcome was reported; the suspect was described only as in custody pending further investigation.
   - The weight and identification as Cannabis Sativa are the NDLEA's figures; no laboratory confirmation or weighing method was reported.
+  - The Tori.ng headline says 4.6 tonnes in Osun and Ondo, while its body gives 4,627.7 kg in Osun plus 1,045 kg in Ondo, together over 5.6 tonnes as other accounts of the same NDLEA statement report.
+  - This account does not name the 43-year-old man held in Osun, who other accounts of the same seizure identify as Francis Oduke.
 ---
 
 Operatives of the National Drug Law Enforcement Agency Osun State Command
 arrested 43-year-old Francis Oduke over possession of an illicit substance. [@1,3]
 Oduke was arrested along the Ikire–Ibadan Expressway at Ikire in Osun State
-while conveying the illicit substance, which was packaged in 359 bags. [@2,3,4] The
+while conveying the illicit substance, which was packaged in 359 bags. [@2,3,4,6] The
 arrest and seizure were announced in a statement signed by the NDLEA Public
 Relations Officer in Osun, Esther Fadare. [@2]
 
@@ -77,7 +83,7 @@ concealed in a truckload of granite. [@1,3,4,5] A second account gives the same 
 as 4,627.7 kilograms of Cannabis Sativa allegedly concealed in a truckload of
 granite. [@2] Preliminary findings indicated the cannabis was cleverly concealed
 in a truck loaded with granite in an apparent attempt to evade detection by law
-enforcement operatives. [@1]
+enforcement operatives. [@1,6]
 
 The suspect is currently in the custody of the Agency, while further
 investigation is ongoing. [@2] The Command said it remains committed to

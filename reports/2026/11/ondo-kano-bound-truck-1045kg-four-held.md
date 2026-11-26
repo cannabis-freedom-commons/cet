@@ -27,6 +27,10 @@ sources:
     url: https://platformtimes.com.ng/ndlea-intercepts-160-explosives-bound-for-zamfara-seizes-4-6-tonnes-of-cannabis/
     publisher: Platform Times
     date: 2026-11-22
+  - title: NDLEA Seizes 4.6 Tonnes Of Cannabis In Osun And Ondo, Arrests Several Suspects
+    url: https://www.tori.ng/amp/327979/ndlea-seizes-46-tonnes-of-cannabis-in-osun-and-ond.html
+    publisher: Tori.ng
+    date: 2026-11-23
 open_questions:
     - No charges, pleas or court outcome were reported for the four suspects.
     - The cannabis identification and weight are the NDLEA's figures; no laboratory confirmation or weighing method were reported.
@@ -38,12 +42,12 @@ open_questions:
 Operatives of the National Drug Law Enforcement Agency intercepted a Kano-bound
 truck in neighbouring Ondo State after intelligence gathering and surveillance
 of the vehicle. [@1] Four suspects were arrested in connection with the seizure.
-[@1,2] The four were named as Adamu Yerima, 19, Mohammed Mohammed, 19, Nura Mohammed, 25, and Usman Mohammed. [@2] The announcement was issued in a statement by NDLEA spokesman Femi
+[@1,2,3] The four were named as Adamu Yerima, 19, Mohammed Mohammed, 19, Nura Mohammed, 25, and Usman Mohammed. [@2] The announcement was issued in a statement by NDLEA spokesman Femi
 Babafemi. [@1,2] The agency described the interception as part of separate
 intelligence-led operations across the country. [@1]
 
-The truck was loaded with 93 bags of cannabis. [@1,2] Those bags weighed 1,045
-kilograms. [@1,2] The truck was stopped on the Zango-Ado Expressway in Akure on 16 November 2026, and the agency said its load had been taken on in Ogbase town. [@2] The agency said the separate operations together yielded more
+The truck was loaded with 93 bags of cannabis. [@1,2,3] Those bags weighed 1,045
+kilograms. [@1,2,3] The truck was stopped on the Zango-Ado Expressway in Akure on 16 November 2026, and the agency said its load had been taken on in Ogbase town. [@2,3] The agency said the separate operations together yielded more
 than 5.6 tonnes of cannabis. [@1]
 
 The same operations included 160 explosives being transported to Zamfara State,
