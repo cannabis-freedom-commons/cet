@@ -44,6 +44,11 @@ media:
     media_url: https://media.assettype.com/bdnews24/2026-11-23/0vd33xli/manikganj-gaza-231126-01.jpg?w=1024
     publisher: bdnews24.com
     caption: 'The four women detained with 38 kg of cannabis in Singair, Manikganj, photographed for the bdnews24 report on the case. Photo: bdnews24.com'
+  - kind: photo
+    url: https://pkagoj.com/articles/638765
+    media_url: https://pkagoj.com/uploads/11_1795437592.jpg
+    publisher: প্রতিদিনের কাগজ
+    caption: 'The four detained women standing behind the 38 kg of cannabis laid out in packages in front of the Singair Thana station. Photo: প্রতিদিনের কাগজ'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 8360382892d9061206eee1c6dee8bdcd
@@ -73,22 +78,28 @@ sources:
     publisher: Daily Jaijaidin
     date: 2026-11-23
     language: bn
+  - title: সিংগাইরে ৩৮ কেজি গাঁজাসহ একই পরিবারের ৪ নারী আটক
+    url: https://pkagoj.com/articles/638765
+    publisher: প্রতিদিনের কাগজ
+    date: 2026-11-23
+    language: bn
 open_questions:
-  - Accounts differ on the detention time on 22 November 2026, giving about 7:30 p.m. or about 8:15 p.m.
+    - Accounts differ on the detention time on 22 November 2026, giving about 7:30 p.m. or about 8:15 p.m.
+    - Accounts differ on whether the 38 kg was recovered from the women themselves or from the family's house, where residents say a consignment was found behind the kitchen.
 ---
 
 Local residents in Paschim Basta village, Singair upazila, Manikganj, detained
-four women with 38 kg of cannabis and handed them to police. [@1,3,4,5] The four women
+four women with 38 kg of cannabis and handed them to police. [@1,3,4,5,6] The four women
 were detained at about 8:15 pm on Sunday 22 November 2026 in Paschim Basta
 village in Dhalla union. [@1] The detained women, all from Paschim Basta, were
-Taslima Begum, 32, Rujina Begum, 35, Tanha, 19, and Hazera Begum, 60. [@2,4,5] The four women were from the same family, including Hazera Begum's daughter Rujina Begum and her son's wife Tanha. [@5]
+Taslima Begum, 32, Rujina Begum, 35, Tanha, 19, and Hazera Begum, 60. [@2,4,5] The four women were from the same family, including Hazera Begum's daughter Rujina Begum and her son's wife Tanha. [@5,6]
 
 Residents searched the women after seeing them moving suspiciously and recovered
 the 38 kg of cannabis from them before handing them to Singair Thana police with
 the drug. [@1] Residents said the four women had long been involved in their
-family's drug business in the Basta area. [@1] Residents then went together to
+family's drug business in the Basta area. [@1] Residents said they had been harassed in various ways when they protested against the family's drug dealing. [@6] Residents then went together to
 the family's house and found a large consignment of cannabis behind the kitchen.
-[@1] Resident Ramzan Ali said the household head, Akkas, and his family members
+[@1] Residents learned from a tip that a large consignment of cannabis had been brought to the house and that preparations were under way to supply drugs from there to other areas. [@6] Resident Ramzan Ali said the household head, Akkas, and his family members
 had run a drug business in the area for a long time and that several family
 members had earlier been arrested with drugs. [@1] He alleged that the family
 members returned to drug dealing after being released on bail. [@1,3] He said
@@ -97,4 +108,4 @@ Jhorna Akter, accused of being the main organiser of the operation, had fled.
 
 The four detained women were being held in police custody. [@1,3] Singair Thana
 officer-in-charge Mazharul Islam said a case against the four women over the
-recovery of the 38 kg was being prepared. [@2,3,4] A case had been filed against the detained women. [@5]
+recovery of the 38 kg was being prepared. [@2,3,4] A case had been filed against the detained women. [@5,6]
