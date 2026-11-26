@@ -110,24 +110,29 @@ sources:
     publisher: สถานีวิทยุโทรทัศน์กองทัพบก TV5HD
     date: 2026-11-23
     language: th
+  - title: 泰国普吉大麻店停牌期间违规售货被查 3名员工被控
+    url: https://news.qq.com/rain/a/20261122A07ZHP00
+    publisher: 泰国中文社
+    date: 2026-11-22
+    language: zh
 ---
 
 Phuket provincial officials led by deputy governor Romdon Haji-Awae raided a
 cannabis shop in Cherng Talay, Thalang district, Phuket, in the early hours of
-22 November 2026. [@1,8] The raided shop was the LV Cannabis Boutique in Boat Avenue. [@7] Officers from the Phuket provincial administrative
+22 November 2026. [@1,8,10] The raided shop was the LV Cannabis Boutique in Boat Avenue. [@7] Officers from the Phuket provincial administrative
 special task force, the provincial public health office and Cherng Talay police
 took part. [@4,8] Officers detained three employees inside the shop and told them
-of preliminary charges. [@1,7] Many foreign tourists were eating and drinking
+of preliminary charges. [@1,7,10] Many foreign tourists were eating and drinking
 inside the large venue, which had VIP rooms for customers. [@1]
 
 Officers seized high-quality cannabis flowers that officials valued at more than
-2 million baht. [@1,5,6,7,8,9] The shop's cannabis licence had been suspended for 90 days
+2 million baht. [@1,5,6,7,8,9,10] The shop's cannabis licence had been suspended for 90 days
 from 23 October 2026 because it had not met service conditions, including
-selling without a doctor's prescription. [@2,5,6,7,8] Officers also found hash cannabis
+selling without a doctor's prescription. [@2,5,6,7,8,10] Officers also found hash cannabis
 extract, which the province said would be examined over whether it fell under
-narcotics law. [@1,7,9] The shop was also selling alcohol outside permitted hours
+narcotics law. [@1,7,9,10] The shop was also selling alcohol outside permitted hours
 and cannabis-infused food products without a food registration number or the
-required labelling. [@2,5,6,7,8,9]
+required labelling. [@2,5,6,7,8,9,10]
 
 The three employees were accused of jointly selling controlled cannabis flowers
 while the licence was suspended under the Protection and Promotion of Thai
