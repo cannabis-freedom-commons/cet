@@ -42,27 +42,32 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-22
     language: ar
+  - title: السجن المشدد 3 سنوات وغرامة 50 ألف جنيه لعامل بتهمة الاتجار في الحشيش بسوهاج
+    url: https://www.algomhor.com/516238
+    publisher: الجمهور الإخباري
+    date: 2026-11-22
+    language: ar
 open_questions:
     - No date is given for the verdict; 22 November 2026 is the article's publication date and is used as the incident date.
     - No weight, value or separate quantity of hashish or other narcotics was published.
     - The defendant's age and full name were not published; the reports give only the initials A. S. A.
     - The report does not explain whether the Sohag Criminal Appeal Court was hearing an appeal or a first-instance case.
-    - Both newspaper accounts use near-identical wording, suggesting a shared source, and no court or police statement was found.
+    - The newspaper accounts use near-identical wording, suggesting a shared source, and no court or police statement was found.
 ---
 
 The Sohag Criminal Appeal Court sentenced a worker to three years of aggravated
 imprisonment and fined him 50,000 Egyptian pounds for trafficking hashish and
-other narcotics in Juhayna markaz. [@1,2] The defendant was identified in the
-report only by the initials A. S. A. [@1,2] Juhayna is a markaz, an administrative
+other narcotics in Juhayna markaz. [@1,2,3] The defendant was identified in the
+report only by the initials A. S. A. [@1,2,3] Juhayna is a markaz, an administrative
 district, in Sohag Governorate. [@1]
 
 The case dates to 2026, when detectives received information that the worker was
-dealing hashish and narcotic substances in Juhayna markaz. [@1,2] After carrying
+dealing hashish and narcotic substances in Juhayna markaz. [@1,2,3] After carrying
 out the required legal procedures and investigations, security officers
-confirmed the information and arrested him. [@1,2] When confronted, he admitted
-trafficking in narcotic substances. [@1,2] Officers then completed the legal
+confirmed the information and arrested him. [@1,2,3] When confronted, he admitted
+trafficking in narcotic substances. [@1,2,3] Officers then completed the legal
 procedures and referred him to the criminal court, which issued the sentence.
-[@1,2]
+[@1,2,3]
 
 The court imposed the three-year prison term and the fine together in the same
 verdict. [@1,2]
