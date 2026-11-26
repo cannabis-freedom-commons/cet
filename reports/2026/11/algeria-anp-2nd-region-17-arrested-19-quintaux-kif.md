@@ -94,6 +94,11 @@ sources:
     publisher: detikNews
     date: 2026-11-22
     language: id
+  - title: مقتل مغربيين اثنين برصاص الجيش الجزائري قرب الحدود المشتركة | مصراوي
+    url: https://www.masrawy.com/news/news_publicaffairs/details/2026/11/21/3082382/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D9%8A%D9%86-%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%82%D8%B1%D8%A8-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9
+    publisher: مصراوي.كوم
+    date: 2026-11-21
+    language: ar
 open_questions:
   - The standfirst of the TSA account puts the seizure at 1.7 tonnes while its headline and the defence ministry statement say 19 quintals (about 1.9 tonnes); the ministry figure is used.
   - The ministry names only the 2nd Military Region and gives no wilaya, town or border crossing for the operation.
@@ -107,9 +112,9 @@ open_questions:
 
 Algeria's defence ministry said army security services in the 2nd Military
 Region dismantled a network of 17 drug traffickers that was trying to bring kif
-traité into the country from Morocco. [@2,4,5,7,9] The ministry said the consignment was
+traité into the country from Morocco. [@2,4,5,7,9,12] The ministry said the consignment was
 estimated at 19 quintals, about 1.9 tonnes, of kif traité, processed cannabis
-from Morocco. [@1,4,5,7,10] The statement was issued on Saturday 21 November 2026 and
+from Morocco. [@1,4,5,7,10,12] The statement was issued on Saturday 21 November 2026 and
 said the network was broken up during the week. [@1,7,10]
 
 Seventeen people were arrested and the services seized 50 utility vehicles, five
