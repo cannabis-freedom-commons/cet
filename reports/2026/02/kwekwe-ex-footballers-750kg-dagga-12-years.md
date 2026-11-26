@@ -51,6 +51,11 @@ media:
     media_url: https://iol-prod.appspot.com/image/00765e56be12df022102047f962d2801b3919971=w700
     publisher: IOL
     caption: 'Police handout photo of Brian Abbas Amidu and Kudzai Mhlanga, sentenced after being arrested with the dagga haul. Photo: Zimbabwe Republic Police via IOL'
+  - kind: photo
+    url: https://farpost.co.za/2025/10/07/ex-kaizer-chiefs-star-arrested-in-r1-3m-drug-bust/
+    media_url: https://farpost.co.za/wp-content/uploads/2025/10/Brian-Abbas-Amidu-scaled-1-768x466.jpg
+    publisher: FARPost
+    caption: 'Police handout photo of Reuben Mhlanga (left) and Brian Abbas Amidu (right), the two former footballers arrested with the dagga haul. Photo: Zimbabwe Republic Police via FARPost'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: df668ce36f99313473b56d67b9c01ad7
@@ -97,14 +102,10 @@ sources:
     publisher: Central News
     date: 2025-10-08
     archived: https://web.archive.org/web/20251008134234id_/https://centralnews.co.za/ex-kaizer-chiefs-striker-brian-abbas-amidu-and-kudzai-reuben-mhlanga-arrested-in-zimbabwes-massive-dagga-bust/
-open_questions:
-    - Later court reporting described the haul as 780 kg worth about US$78,000, while the police statement gives 750 kg worth USD 75,000; the report uses the police figure.
-    - One later court account dates the interception to 4 October 2025 while the police statement gives 3 October 2025; the report uses the police date.
-    - The sources give differing names and spellings for the two men (Tumai/Tumirai Matsika, Abbas/Abas/Brian Abbas Amidu; Kudzai/Reuben Mhlanga); the report uses the sentencing-report forms.
-    - The sentencing court is not named in the sources; only the 24 February 2026 sentencing date is reported.
-    - No account says when the bail hearing took place or whether the court gave reasons for refusing bail, other than that the pair remained in custody pending trial.
-    - Valuations of about R1,3 million and about USD 75,000 (about R1.2 million) were reported for the same haul.
-    - Police gave Amidu's age as 29, while his reported age of 21 when he signed in 2012 would imply about 35 now.
+  - title: Ex-Kaizer Chiefs star arrested in R1.3m drug bust
+    url: https://farpost.co.za/2025/10/07/ex-kaizer-chiefs-star-arrested-in-r1-3m-drug-bust/
+    publisher: FARPost
+    date: 2025-10-07
 ---
 
 Former Kaizer Chiefs and Black Leopards forward Abbas Amidu was sentenced to 12
@@ -117,9 +118,9 @@ State opposed release, calling him a flight risk while investigations continued.
 [@1,5,6,7,8] The two appeared in the Kwekwe Magistrates' Court on the Monday after the arrest and were remanded in custody pending a bail application. [@7,9]
 
 Police apprehended the pair, aged 29 and 41, on 3 October 2025 along the
-Kwekwe-Kadoma Highway in a silver Honda Shuttle, registration AGP 6776. [@3,8]
+Kwekwe-Kadoma Highway in a silver Honda Shuttle, registration AGP 6776. [@3,8,11]
 Police said the two were found in possession of 750 kg of dagga in the vehicle,
-which police valued at USD 75,000. [@3,8,10] Detectives found the dagga in 75 packets wrapped in black plastic inside the silver Honda Shuttle. [@7]
+which police valued at USD 75,000. [@3,8,10,11] Detectives found the dagga in 75 packets wrapped in black plastic inside the silver Honda Shuttle. [@7]
 
 Amidu and his co-accused Kudzai (Reuben) Mhlanga were each sentenced to 12
 years' imprisonment after appearing in court for possession of the dagga haul,
@@ -127,6 +128,6 @@ reported as worth about US$75,000 (about R1.2 million). [@1] Police announced
 the arrest, conviction and sentencing together, saying the two appeared in court
 on 24 February 2026 and were each sentenced to 12 years' imprisonment. [@1] Prosecutors described the seizure as one of the largest in the Midlands province that year, according to The Herald. [@7,10]
 
-The arrests followed a tip-off, after which detectives intercepted Amidu and Mhlanga just outside Kwekwe. [@4,6,10] Police said the car was stopped on the Kwekwe–Kadoma Highway near the Gokwe turn-off. [@9] The two are suspected of being part of a larger drug trafficking syndicate operating across several provinces in Zimbabwe. [@4] Investigations continued to trace the source and intended destination of the consignment. [@10]
+The arrests followed a tip-off, after which detectives intercepted Amidu and Mhlanga just outside Kwekwe. [@4,6,10,11] Police said the car was stopped on the Kwekwe–Kadoma Highway near the Gokwe turn-off. [@9] The two are suspected of being part of a larger drug trafficking syndicate operating across several provinces in Zimbabwe. [@4,11] Investigations continued to trace the source and intended destination of the consignment. [@10] The authority said prosecution would be pursued vigorously to ensure deterrent sentences for offenders involved in narcotics. [@11] The National Prosecuting Authority of Zimbabwe commended law enforcement efforts in dismantling drug supply chains threatening community wellbeing. [@11]
 
 The bail hearing was held in the Kwekwe Magistrates' Court, the same court where they later faced the dagga charge. [@5,6] Police alleged that Amidu used multiple aliases and had pending cases in Epworth and Harare under different identities to evade detection. [@5,9]
