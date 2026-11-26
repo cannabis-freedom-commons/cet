@@ -62,6 +62,11 @@ sources:
     url: https://costaspainnews.es/guardia-civil-uncovers-20000-cannabis-plants-in-raids/
     publisher: Costa News Spain
     date: 2026-11-23
+  - title: 'Gran golpe al narcotráfico de la Guardia Civil en cinco pueblos de Granada: 15 detenidos, 20.000 plantas de maría y 54 registros'
+    url: https://www.ideal.es/granada/provincia-granada/gran-golpe-narcotrafico-guardia-civil-cinco-pueblos-20261123105123-nt.html
+    publisher: Ideal
+    date: 2026-11-23
+    language: es
 open_questions:
   - The recorded 6.84 kg combines exact figures of 650 grams and 2.69 kilos with approximate figures of about one kilo and about 2.5 kilos of chopped marijuana.
   - The about 1,200 pots with roots and remains of freshly cut plants were not counted as seized plants.
@@ -72,12 +77,12 @@ open_questions:
 ---
 
 In the whole set of operations officers detained 15 people and investigated 36
-others for alleged public-health offences and electricity fraud. [@1] The
+others for alleged public-health offences and electricity fraud. [@1,3] The
 actions took place on Wednesday 18, Thursday 19 and Friday 20 November in Pinos
-Puente, Moraleda de Zafayona, Santa Fe, Cogollos Vega and Peligros. [@1] The
+Puente, Moraleda de Zafayona, Santa Fe, Cogollos Vega and Peligros. [@1,3] The
 Guardia Civil said the seizure of 20,098 cannabis sativa plants in eight
 operations targeted intensive cultivation under its Alto Impacto service in the
-province. [@1] The force described the raids as an operation against large-scale
+province. [@1,3] The force described the raids as an operation against large-scale
 indoor growing. [@2]
 
 The force carried out 54 entries and searches across five municipalities and
@@ -101,4 +106,3 @@ searches officers also seized two handguns and a shotgun, pending technical
 expert analysis. [@1] Proceedings were opened for alleged offences against
 public health for cultivation and trafficking of narcotics and for electricity
 fraud. [@1]
-
