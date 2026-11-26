@@ -35,6 +35,11 @@ sources:
     publisher: CentralAsia.media
     date: 2020-12-04
     language: ru
+  - title: Бердымухамедов принял участие в уничтожении более 122 килограммов наркотиков
+    url: https://turkmenportal.com/ru/news/32611-berdymuhamedov-prinyal-uchastie-v-unichtozhenii-bolee-122-kilogrammov-narkotikov
+    publisher: Turkmenportal
+    date: 2020-12-02
+    language: ru
 media:
   - kind: video
     url: https://centralasia.media/news:1665959
@@ -43,4 +48,4 @@ media:
     caption: Embedded footage of President Berdimuhamedov at the opening of the drug-disposal complex and the burning of seized narcotics.
 ---
 
-President Gurbanguly Berdimuhamedow opened a drug-disposal complex 100 km north of Ashgabat on 2 December 2020. More than 122.5 kg of narcotics seized by the Interior Ministry were burned in its furnaces. The Turkmen television information programme 'Vatan' attributed the figure of more than 122.5 kg destroyed by burning. [@2] The government presented the facility as a sign of its commitment to drug control; it did not say which drugs made up the total. [@1]
+President Gurbanguly Berdimuhamedow opened a drug-disposal complex 100 km north of Ashgabat on 2 December 2020. More than 122.5 kg of narcotics seized by the Interior Ministry were burned in its furnaces. The Turkmen television information programme 'Vatan' attributed the figure of more than 122.5 kg destroyed by burning. [@2,3] The government presented the facility as a sign of its commitment to drug control; it did not say which drugs made up the total. [@1]
