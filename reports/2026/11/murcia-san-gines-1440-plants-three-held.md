@@ -53,6 +53,11 @@ media:
     media_url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2i1Sm6.img?w=640&h=476&m=4&q=84
     publisher: Europa Press / MSN
     caption: 'Marijuana plants seized in the San Ginés warehouse operation. Photo: Policía Nacional'
+  - kind: photo
+    url: https://www.la7tv.es/sucesos/desmantelada-plantacion-1440-plantas-marihuana-murcia-tres-detenidos/20261123101157076111.html
+    media_url: https://www.la7tv.es/asset/thumbnail,1280,720,center,center/media/la7tv/images/2026/11/23/2026112310161827313.jpg
+    publisher: La 7
+    caption: 'Marijuana plants seized in the San Ginés warehouse operation. Photo: Policía Nacional'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 13a02a121690009d27e1514224e7ab75
@@ -83,6 +88,11 @@ sources:
     publisher: MSN / La Razón
     date: 2026-11-23
     language: es
+  - title: 'Desmantelada una plantación de 1.440 plantas de marihuana en Murcia: hay tres detenidos'
+    url: https://www.la7tv.es/sucesos/desmantelada-plantacion-1440-plantas-marihuana-murcia-tres-detenidos/20261123101157076111.html
+    publisher: La 7
+    date: 2026-11-23
+    language: es
 open_questions:
     - No separate date is given for the raid; 23 November 2026 is the publication date and stands in for the incident date.
     - The buds weighed almost 113 kilograms; the exact weight was not stated, so 113 kg is recorded as reported.
@@ -92,20 +102,20 @@ open_questions:
 ---
 
 The National Police dismantled an intensive marijuana plantation inside an
-industrial warehouse in the Polígono Industrial Oeste in San Ginés, Murcia. [@1,2,5]
+industrial warehouse in the Polígono Industrial Oeste in San Ginés, Murcia. [@1,2,5,6]
 Officers arrested three men as alleged perpetrators of offences against public
 health and electricity fraud. [@1,3] The three detainees were placed at judicial
-disposition after being accused of drug trafficking and electricity fraud. [@1,4,5]
+disposition after being accused of drug trafficking and electricity fraud. [@1,4,5,6]
 
 Officers seized 1,440 marijuana plants at different growth stages during the
 entry and search. [@1,3] Officers also seized 99 high-intensity lamps, 15 air
-filters, 45 fans, 12 extractors and five industrial air-conditioning units. [@1,4,5]
+filters, 45 fans, 12 extractors and five industrial air-conditioning units. [@1,4,5,6]
 Officers seized almost 113 kilograms of marijuana buds ready for distribution
 and 9,000 euros in cash allegedly linked to the criminal activity. [@1,3]
 
 The investigation located the warehouse through operations against
 drug-trafficking organisations operating in the Region of Murcia. [@1,4] Officers
 from the UDYCO drug and organised-crime unit, the UPR prevention and reaction
-unit, the GAC citizen-attention group and the Scientific Police took part. [@1,4]
+unit, the GAC citizen-attention group and the Scientific Police took part. [@1,4,6]
 The operation forms part of the National Police strategy against illegal
 marijuana cultivation and distribution networks in the Region of Murcia. [@1]
