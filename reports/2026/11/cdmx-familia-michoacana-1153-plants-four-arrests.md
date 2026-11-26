@@ -83,15 +83,11 @@ sources:
     publisher: El Economista
     date: 2026-11-22
     language: es
-open_questions:
-    - The articles give no separate date for the searches; 14 September 2025 is the publication date and is used as the incident date.
-    - The seizure reporting describes a bag of yellow powder and two bags of marijuana in Iztacalco that were not weighed or identified, while the sentencing account describes a bag of green powder and two black bags of dried green plant material.
-    - The wording does not establish whether the 35 kilos is the weight of the sack alone or of the 139 packages plus the sack, so only the stated 35 kilos is counted.
-    - Doses, cartridges and a vehicle mentioned in the second account are not quantified or shown to be cannabis and are excluded from figures.
-    - All three accounts repeat the authorities' version via police and joint-agency statements; the sentencing reports likewise reproduce the FGR communiqué.
-    - The FGR's sentencing account counts 1,192 fresh marihuana plants in the Iztacalco greenhouse, against the 1,153 counted in the seizure reporting.
-    - The condemned man is called Paulo Josué Zavala Zavala in the sentencing reporting and Paolo Josué Zavala Zavala in the arrest reporting.
-    - No separate date is given for the sentencing hearing; 22 November 2026 is the date of the FGR communiqué and the published reports.
+  - title: Condenan a más de ocho años de prisión a hombre por operar invernadero de mariguana en CdMx
+    url: https://www.milenio.com/policia/dan-8-anos-carcel-hombre-invernadero-marihuana-cdmx
+    publisher: Milenio
+    date: 2026-11-22
+    language: es
 ---
 
 Officers detained four people in simultaneous searches in the boroughs of
@@ -99,12 +95,12 @@ Cuauhtémoc, Benito Juárez and Iztacalco in Mexico City. [@1] Sergio Cano Corre
 33, known as D3, was detained in Colonia Centro in Cuauhtémoc and was described
 as the leader of the criminal cell. [@1] The three others detained with him were
 Patricio Daniel Hernández Ruiz, 41, known as Smog, Paolo Josué Zavala Zavala,
-27, and Francisco Javier Valencia Ordoñez, 34. [@1] The FGR announced the conviction in a communiqué issued on 22 November 2026. [@5] In November 2026 a judge sentenced Zavala to eight years and four months in prison for producing marihuana, a term he will serve at the Reclusorio Preventivo Varonil Oriente. [@4] The detainees were informed
+27, and Francisco Javier Valencia Ordoñez, 34. [@1,6] The FGR announced the conviction in a communiqué issued on 22 November 2026. [@5] In November 2026 a judge sentenced Zavala to eight years and four months in prison for producing marihuana, a term he will serve at the Reclusorio Preventivo Varonil Oriente. [@4,6] The detainees were informed
 of their rights and placed at the disposal of the Public Prosecutor, while the
 premises were sealed under police custody. [@2]
 
 In Iztacalco officers seized a greenhouse with 1,153 cannabis plants, along with
-two bags of marijuana, a bag of yellow powder and a digital scale. [@1] In
+two bags of marijuana, a bag of yellow powder and a digital scale. [@1] Authorities seized more than 56 kilos of fresh plants and 23 kilos of processed drug. [@6] In
 Benito Juárez officers found a drug warehouse holding 139 packages and a sack
 with 35 kilos of marijuana. [@1] The operation was run jointly by federal
 security, defence, navy, prosecution and National Guard authorities with the
