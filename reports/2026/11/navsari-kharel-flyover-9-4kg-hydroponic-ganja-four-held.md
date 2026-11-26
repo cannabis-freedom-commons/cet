@@ -62,6 +62,11 @@ media:
     media_url: https://resize.indiatv.in/resize/newbucket/1200_675/2026/11/pm-modi-benguru-metro-8-1795370834.webp
     publisher: India TV Hindi
     caption: 'Police present the four arrested men to the media after the Navsari hybrid ganja seizure. Photo: India TV reporter'
+  - kind: photo
+    url: https://gujarati.news18.com/news/navsari/navsari-lcb-seizes-hybrid-marijuana-worth-328-crore-and-arrests-four-az-ws-bl-2669834.html
+    media_url: https://images.news18.com/static-guju/uploads/2026/11/news-2026-11-23T124808.418-2026-11-78abfe8c07503d4e5315b86f37814d07-1200x675.jpg?impolicy=website&width=415&height=270
+    publisher: News18 Gujarati
+    caption: 'Seized hybrid ganja and related items from the Navsari interception totalling Rs 3,56,06,270. Photo: News18 Gujarati'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 60cf7b9193c6b8f388ac2bf4ad90eb39
@@ -129,18 +134,19 @@ sources:
     publisher: Divya Bhaskar
     date: 2026-11-23
     language: gu
-open_questions:
-    - The network's wanted accused in Bangkok, known as Roni, had not been arrested when these accounts were published.
-    - Sources put the ganja's weight at 9.375 kg and its value between Rs 3.28 crore and Rs 3.56 crore.
-    - No charge-sheet or final court outcome in the case has been reported.
+  - title: નવસારી LCBની મોટી કાર્યવાહી, 3.28 કરોડના હાઇબ્રિડ ગાંજા સાથે ચાર આરોપીઓ ઝડપાયા | નવસારી - News18 Gujarati
+    url: https://gujarati.news18.com/news/navsari/navsari-lcb-seizes-hybrid-marijuana-worth-328-crore-and-arrests-four-az-ws-bl-2669834.html
+    publisher: News18 Gujarati
+    date: 2026-11-23
+    language: gu
 ---
 
 Navsari police arrested four people after intercepting two SUVs near the Kharel
-flyover on National Highway 48 on Sunday. [@1,2,6,7,9,10,11,13] Officers seized 9.4 kg of
-hydroponic ganja, which police valued at Rs 3.3 crore. [@1,5,6,7,8,11] Police also seized
-seven mobile phones and Rs 33,779 in cash from the four. [@1] The two seized cars were a Mahindra Thar and a Hyundai Creta. [@10] The arrested were
+flyover on National Highway 48 on Sunday. [@1,2,6,7,9,10,11,13,14] Officers seized 9.4 kg of
+hydroponic ganja, which police valued at Rs 3.3 crore. [@1,5,6,7,8,11,14] Police also seized
+seven mobile phones and Rs 33,779 in cash from the four. [@1] Police put the total value of the seized muddamal at Rs 3,56,06,270. [@14] The two seized cars were a Mahindra Thar and a Hyundai Creta. [@10] The two cars were a black Mahindra Thar and a white Hyundai Creta. [@14] The arrested were
 identified as Pramod Pathak, Vishnu Singh, Premchand alias Rahul Yadav and Miket
-Patel. [@1,5,6,7,8,9,11]
+Patel. [@1,5,6,7,8,9,11,14]
 
 Police said the group had travelled to Vadodara to sell the consignment and was
 returning with the remaining stock when their vehicles were stopped. [@1,2,9,11] In Vadodara the group gave part of the consignment to a man named Jayanti, one of the nine suspects declared wanted, before returning to Vapi with the rest, police said. [@3]
