@@ -64,24 +64,20 @@ sources:
     url: https://www.fox5ny.com/news/bronx-marijuana-grow-house-marion-ave-eviction
     publisher: FOX 5 NY
     date: 2026-10-20
-open_questions:
-  - Neither source gives the date of the eviction in words beyond 'Monday'; 19 October 2026, the Monday before the 20 October publication, is used as the incident date.
-  - No weight for the marijuana in the bags removed from the flat was published, so kg_seized is not recorded.
-  - The Sheriff's Office did not say whether anyone was living in the apartment or who ran the grow operation, and no one had been arrested or charged.
-  - ABC7 calls the operation a suspected illegal grow house; the sources do not say whether anyone was licensed or applied for a licence.
-  - FOX 5 NY cites only a Sheriff's Office statement for the seizure, and ABC7's account relies on the same office, so the two accounts are not fully independent.
-  - ABC7's page also carries a video report; no direct video file or video-host address was recovered from the opened page, so it is not listed as media.
-  - The third image on the ABC7 page is a station live-stream banner, not a picture of this event, and is omitted.
+  - title: Cannabis grow house with more than 2 dozen adult plants discovered in the Bronx, NYC Sheriff's Office says - CBS New York
+    url: https://www.cbsnews.com/newyork/news/cannabis-grow-house-fordham-bronx-nyc-sheriffs-office/
+    publisher: CBS News New York
+    date: 2026-10-19
 ---
 
 A New York City marshal arrived at 2701 Marion Avenue in the Fordham section of
 the Bronx at about 10 a.m. on Monday, 19 October 2026, to evict tenants and
-found an apartment holding a large cannabis grow operation. [@2] The NYPD called
+found an apartment holding a large cannabis grow operation. [@2] The grow was in apartment 6A on the first floor, where investigators in hazmat suits lined the floor. [@3] The NYPD called
 the New York City Sheriff's Office to assess the apartment, which Sheriff Edwin
 Raymond said held an illegal marijuana grow house. [@2]
 
 Officers confiscated 30 adult cannabis plants and numerous bags of marijuana
-from the flat. [@2] No figure was published for the weight of the marijuana in
+from the flat. [@2,3] No figure was published for the weight of the marijuana in
 the bags, and there was no count of how many people had been living in or
 running the flat. [@1] By Monday night workers were carrying the plants and
 growing equipment out of the building. [@1]
@@ -89,15 +85,14 @@ growing equipment out of the building. [@1]
 Neighbours had complained for months about the smell; the woman next door,
 Evelyn Arredondo, said she called the Fire Department of New York about four
 months earlier because she feared a gas leak, and firefighters found nothing.
-[@2] FDNY crews returned with hazardous materials trucks once the grow was
+[@2] Arredondo described a toxic smell that irritated her throat, eyes and nose and said she feared for her child, who has asthma. [@3] FDNY crews returned with hazardous materials trucks once the grow was
 found, and residents said they feared fire or an explosion in a building where
-families live. [@1] The discovery revived memories of a 2016 explosion at an
+families live. [@1] The Sheriff's Office said Con Edison, the FDNY and the Department of Buildings were also on site for any additional violations. [@3] The discovery revived memories of a 2016 explosion at an
 illegal grow house in the Bronx that killed FDNY Battalion Chief Michael Fahy.
 [@1]
 
 Sheriff Raymond said his office would keep disrupting operations that threaten
 public safety and health. [@1] The investigation was continuing and no arrests
-had been made. [@2] The building superintendent said the tenants were behind on
+had been made. [@2,3] The building superintendent said the tenants were behind on
 rent; neighbours said they saw several men coming and going from the flat but
-could not identify them. [@1]
-
+could not identify them. [@1] The building superintendent said the tenant in apartment 6A had not paid rent in six months, and a vacate order could be seen on the apartment door. [@3]
