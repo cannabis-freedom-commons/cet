@@ -75,6 +75,11 @@ sources:
     publisher: Ecopress
     date: 2026-11-21
     language: ar
+  - title: معلومات للديستي تقود إلى حجز أكثر من طن من "الحشيش" بضواحي طنجة - مباشر
+    url: https://mobachir.ma/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%84%D9%84%D8%AF%D9%8A%D8%B3%D8%AA%D9%8A-%D8%AA%D9%82%D9%88%D8%AF-%D8%A5%D9%84%D9%89-%D8%AD%D8%AC%D8%B2-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%B7%D9%86/
+    publisher: مباشر
+    date: 2026-11-21
+    language: ar
 open_questions:
     - No street value was given for the 1,830 kg of hashish.
     - The 107 kg found at the warehouse is described only as drugs, though it is counted in the 1,830 kg total of chira.
@@ -86,6 +91,7 @@ open_questions:
     - All the accounts reproduce the same Moroccan police statement and are not independent reporting.
     - Ecopress gave a preliminary estimate of about 1.5 tonnes from a single seizure, against the later official total of 1,830 kg across two operations.
     - Ecopress described the hashish as a shipment aboard a truck trailer in Hjariyin, while the fuller accounts describe resin hidden in refrigerated chambers at a house; the two descriptions are not fully reconciled.
+    - 'Accounts of the total differ: one puts it at about 1,100 kg (roughly 1,000 kg in Hjariyin and 100 kg in Boukdour), while the police statement followed by the other outlets gives 1,830 kg.'
 media:
   - kind: photo
     url: https://lobservateur.info/ampArticle/120468
@@ -102,12 +108,12 @@ cannabis resin. [@1,5] Officers arrested two people, both caught during the firs
 operation as they prepared an international smuggling run. [@1,4,5]
 
 The first operation was in the mountainous Hjariyin area on the outskirts of
-Tangier. [@1,3,5,7] The operation was based on information from the General Directorate for Territorial Surveillance, which located the shipment and directed the intervention toward the trailer carrying it. [@7] The raid was at a house in the village of Al Hachriyin, in the Gueznaia district outside Tangier, where the resin was hidden inside five refrigerated chambers. [@4] There police seized 1,723 kg of chira wrapped inside cooling
+Tangier. [@1,3,5,7,8] Preliminary information indicated the shipment might be linked to a smuggling plan through maritime routes. [@8] The operation was based on information from the General Directorate for Territorial Surveillance, which located the shipment and directed the intervention toward the trailer carrying it. [@7,8] The raid was at a house in the village of Al Hachriyin, in the Gueznaia district outside Tangier, where the resin was hidden inside five refrigerated chambers. [@4] There police seized 1,723 kg of chira wrapped inside cooling
 equipment and hidden among quantities of agricultural produce, and took away a
 light vehicle, six coolers and packaging and wrapping material. [@1,3,6] The suspects chilled the resin and moulded it to resemble fruit and vegetables, above all pumpkins and watermelons, to get the consignment past police checks. [@4]
 
 The second operation targeted a storage warehouse in the Boukdour area, also
-outside Tangier. [@1,3,5] Officers found 107 kg of drugs stored there while awaiting
+outside Tangier. [@1,3,5,8] Officers found 107 kg of drugs stored there while awaiting
 smuggling, along with three light vehicles, six refrigerated trailers, five
 trailers registered in Morocco, three forged foreign number plates and keys and
 equipment for grinding and forging the serial numbers of vehicle chassis. [@1,5]
