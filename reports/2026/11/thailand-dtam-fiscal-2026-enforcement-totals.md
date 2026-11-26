@@ -102,6 +102,11 @@ sources:
     url: https://www.thephuketnews.com/nationwide-inspections-see-105-cannabis-licences-suspended-24-revoked-102287.php
     publisher: The Phuket News
     date: 2026-11-22
+  - title: 24个被吊销、105个暂停！泰国大麻执照大整顿！
+    url: https://www.sohu.com/a/1105221060_121124400
+    publisher: 搜狐网（一颗旅行的心）
+    date: 2026-11-23
+    language: zh
 media:
   - kind: photo
     url: https://thethaiger.com/news/national/thailand-revokes-cannabis-licences-shops-near-schools
@@ -114,12 +119,12 @@ open_questions:
 
 Thailand's Department of Thai Traditional and Alternative Medicine revoked 24
 cannabis shop licences and suspended 105 in the 2026 fiscal year, which ran from
-October 2025 to September 2026. [@1,3,4,5,6,7,8,9,10,11] The department said its officers arrested
-and prosecuted 70 people over the year. [@2,3,5,6,7,8,10,11,12]
+October 2025 to September 2026. [@1,3,4,5,6,7,8,9,10,11,14] The department said its officers arrested
+and prosecuted 70 people over the year. [@2,3,5,6,7,8,10,11,12,14]
 
 Across 95 enforcement operations, officials seized or impounded 10,584.9 kg of
-cannabis and related material. [@2,3,4,5,6,7,8,10,11,12,13] The department said it would intensify inspections in fiscal year 2027, particularly at cannabis shops near schools and other educational institutions. [@13] Authorities inspected 1,437 of the Bangkok businesses, or 84.04%, and planned to complete inspections of the rest. [@13] Bangkok has the most licensed cannabis businesses in Thailand, with 1,710 establishments. [@13] The Medical Cannabis Division estimated the
-economic damage from the cases at 223.5 million baht. [@2,3,4,5,6,7,10,11,12] Bangkok has 1,710
+cannabis and related material. [@2,3,4,5,6,7,8,10,11,12,13,14] The department said it would intensify inspections in fiscal year 2027, particularly at cannabis shops near schools and other educational institutions. [@13,14] Authorities inspected 1,437 of the Bangkok businesses, or 84.04%, and planned to complete inspections of the rest. [@13,14] Bangkok has the most licensed cannabis businesses in Thailand, with 1,710 establishments. [@13,14] The Medical Cannabis Division estimated the
+economic damage from the cases at 223.5 million baht. [@2,3,4,5,6,7,10,11,12,14] Bangkok has 1,710
 licensed cannabis premises, the most in the country. [@2,3,5,6,7,8,12] Officers had inspected
 1,437 of them, or 84.04%, and planned to check the remaining 273. [@1,3,5,6,8] On 16 September, the division checked six premises in Bangkok's Watthana district after residents raised concerns through the city's Traffy Fondue reporting platform, and said it would refer its findings to the licensing authority. [@3]
 
@@ -129,4 +134,4 @@ cannabis. [@2,5,6,7,8,10] It said premises near schools and other educational in
 would get particular attention, along with public complaints needing follow-up.
 [@2,4,5,6,7,8,10] The Public Health Ministry says it aims to keep cannabis use within the
 legal framework for medical purposes, prevent misuse and protect public health.
-[@2,5,6,7]
+[@2,5,6,7,14]
