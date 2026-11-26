@@ -96,23 +96,23 @@ sources:
     url: https://www.echo.ie/e1-76m-drug-seizure-and-two-arrests-in-inchicore/
     publisher: Echo.ie
     date: 2026-11-23
-open_questions:
-    - An account published on 22 November says both men were still detained at garda stations in the Dublin metropolitan region, while reporting published the same weekend says they had already been charged.
-    - No court outcome, plea or detention decision has been reported for the two charged men.
-    - The headline value of "around €1.8m" is higher than the €1,765,000 given in the article and by the Garda statement.
+  - title: Huge drugs and gun haul seized by Gardaí from house and vans in Inchicore
+    url: https://www.msn.com/en-ie/news/other/huge-drugs-and-gun-haul-seized-by-garda%C3%AD-from-house-and-vans-in-inchicore/ar-AA2hY1zA
+    publisher: Dublin Live on MSN
+    date: 2026-11-22
 ---
 
 Gardaí attached to the Dublin Crime Response Team carried out an
 intelligence-led operation on Bulfin Road, Inchicore, Dublin 8 at 6.45pm as part
-of Operation Tara. [@1,2,4,5,6] They seized 110kgs of vacuum-packed cannabis herb from
-two parked vans. [@1,2,4,5,6,7,8] The two men, aged in their 20s and 40s, who were the
+of Operation Tara. [@1,2,4,5,6,9] They seized 110kgs of vacuum-packed cannabis herb from
+two parked vans. [@1,2,4,5,6,7,8,9] The two men, aged in their 20s and 40s, who were the
 drivers of the vans, were arrested at the scene. [@1,2,4,5,7,8] Gardaí said the two drivers were held at garda stations in the Dublin Metropolitan Region under Section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@4,5]
 
 In a follow-up search under warrant at a property in Dublin 8, gardaí also
 seized a further 12.5kgs of cannabis herb, .5 kg of cocaine, €4,550 in cash, a
 Glock 19 semi-automatic pistol, five rounds of ammunition and an assortment of
 documents. [@1,3,4,5,6,7,8] The combined total of 122.5kgs of cannabis herb and .5kg of
-cocaine was valued at €1,765,000. [@1,2,4,5,6,7,8]
+cocaine was valued at €1,765,000. [@1,2,4,5,6,7,8,9]
 
 Both men were charged after the seizure. [@1,4,5,8] They were due to appear before
 Dublin District Court at Court No 4 of the Criminal Courts of Justice. [@1,4,8] Both men are due to appear before Dublin District Court on Monday 23 November 2026. [@6] The
