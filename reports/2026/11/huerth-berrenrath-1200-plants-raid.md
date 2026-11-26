@@ -62,24 +62,24 @@ sources:
     publisher: LokalKlick.eu
     date: 2026-11-23
     language: de
-open_questions:
-  - The police gave the plant count only as 'more than 1,200', so 1,200 is a lower bound.
-  - It was not reported whether any of the five suspects was arrested or detained.
-  - No charges or court outcome had been reported at the time of the announcement.
-  - The roles of the individual suspects in running the plantation, and whether others were involved, were not reported.
+  - title: 'POL-REK: 261123-6: Über 1.200 Cannabispflanzen sichergestellt'
+    url: https://www.presseportal.de/blaulicht/pm/10374/6396379
+    publisher: Polizei Rhein-Erft-Kreis
+    date: 2026-11-23
+    language: de
 ---
 
 Four suspects aged 19, 22, 24 and 49 were found in the house during the search.
-[@1] A fifth suspect, aged 28, was found at his registered address in Hürth.
-[@1] The four men in the house were suspected, among other things, of living in
+[@1,5] A fifth suspect, aged 28, was found at his registered address in Hürth.
+[@1,5] The four men in the house were suspected, among other things, of living in
 Germany without legal status. [@1] All five now face criminal investigation
 proceedings, and the inquiry by Kriminalkommissariat 13 continues. [@1]
 
 Officers of the Rhein-Erft-Kreis police seized more than 1,200 cannabis plants
 of different sizes and cultivation equipment from a plantation in a residential
-house in Hürth-Berrenrath on Friday 20 November 2026. [@1] Extensive inquiries
+house in Hürth-Berrenrath on Friday 20 November 2026. [@1,5] Extensive inquiries
 by Kriminalkommissariat 13 led police to the site, after which they sought
-search warrants from the Cologne public prosecutor's office. [@1] Two houses
+search warrants from the Cologne public prosecutor's office. [@1,5] Two houses
 were searched that Friday and the plantation was found in one of them. [@2]
 Police and the Cologne public prosecutor announced on Monday that officers had
 found the plants and extensive growing accessories in a residential building the
@@ -87,4 +87,3 @@ previous Friday. [@3]
 
 The authorities gave no figure for the size of the cultivation area or the
 potential street value of the plants. [@4]
-
