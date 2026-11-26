@@ -51,28 +51,33 @@ sources:
     publisher: El Litoral
     date: 2026-11-21
     language: es
+  - title: 'CORRIENTES: Vieron A La Policía, Huyeron Y Abandonaron 43 Dosis De Marihuana En Itatí – Noticias del paraná'
+    url: https://www.noticiasdelparana.com.ar/NuevaEdicion/2026/11/22/corrientes-vieron-a-la-policia-huyeron-y-abandonaron-43-dosis-de-marihuana-en-itati/
+    publisher: Noticias del parana
+    date: 2026-11-22
+    language: es
 open_questions:
   - The article gives no separate date or time for the night operation; 21 November 2026 is its publication date and stands in for the incident date.
   - The headline counts 43 doses while the text counts 43 polyethylene wrappers inside the glass container; no weight or value for them was published.
   - The substance was described only as chopped plant material that field-tested positive for marijuana, with no laboratory confirmation reported.
   - 'No one was arrested: the suspects escaped and investigators were still working to identify those responsible.'
   - The account rests on a single El Litoral report; no independent second account of the event was found.
+  - Neither account gives a separate calendar date for the night operation; 21 November 2026 and 22 November 2026 are the respective publication dates of the existing and new accounts.
 ---
 
 Corrientes provincial police seized 43 marijuana doses that suspects abandoned
-in the street in the town of Itatí after they fled on seeing a patrol car. [@1]
+in the street in the town of Itatí after they fled on seeing a patrol car. [@1,2]
 The suspects had been standing in front of a well-known five-a-side football
-pitch when the patrol arrived. [@1] The suspects escaped when they saw the
+pitch when the patrol arrived. [@1,2] The suspects escaped when they saw the
 police, and no arrests were reported. [@1] The judicial authorities on duty
 ordered the drug formally seized and directed investigators to try to identify
-those responsible. [@1]
+those responsible. [@1,2]
 
 Officers of the División de Drogas Peligrosas y Crimen Organizado, the
 provincial dangerous drugs and organised crime division based in Ensenada
 Grande, intervened after an alert about groups of young people gathered at the
 corner of Benigno Garay and an unnamed street near the El Potrero sports
-complex. [@1] A sweep of the area found a large glass container, a botellón,
+complex. [@1,2] A sweep of the area found a large glass container, a botellón,
 holding 43 polyethylene wrappers of chopped plant material that field-tested
-positive for marijuana. [@1] Police described the contents as narcotics ready
-for sale or consumption. [@1]
-
+positive for marijuana. [@1,2] Police described the contents as narcotics ready
+for sale or consumption. [@1,2]
