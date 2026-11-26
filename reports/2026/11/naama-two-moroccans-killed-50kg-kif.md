@@ -86,27 +86,28 @@ sources:
     publisher: Twala
     date: 2026-11-21
     language: fr
-open_questions:
-    - The Defence Ministry did not say whether the two dead men were armed.
-    - Moroccan authorities had made no public comment on the killing when the accounts were published.
-    - 'The French romanisation of the identified man''s name and birthplace differs between accounts: Khelifi Laïd and Ouled Sidi Abdelhakem versus Khalifi El-Eid and Ouled Sidi Abdel Hakim.'
+  - title: الجيش الجزائري يعلن “مقتل اثنين من مهربي المخدرات المغاربة”
+    url: https://www.alquds.co.uk/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D8%A7%D8%AB%D9%86%D9%8A%D9%86-%D9%85%D9%86-%D9%85%D9%87%D8%B1%D8%A8/
+    publisher: القدس العربي
+    date: 2026-11-21
+    language: ar
 ---
 
 Algeria's Defence Ministry said a border-guard detachment killed two Moroccan
 drug traffickers near the western frontier on Friday 20 November 2026 after they
-refused to comply. [@2,4,5,6,7] The encounter happened in the military sector of Naâma,
+refused to comply. [@2,4,5,6,7,8] The encounter happened in the military sector of Naâma,
 part of Algeria's 2nd Military Region, close to the country's western border
 strip. [@1,4,5] According to the communiqué, the two men ignored an order to stop
-given by the border guards. [@2,4,5,6]
+given by the border guards. [@2,4,5,6,8]
 
 They were trying to bring more than 50 kilograms of kif traité, the local term
-for processed cannabis, into Algeria. [@1,4,5,7] The 50-kilogram estimate was
+for processed cannabis, into Algeria. [@1,4,5,7,8] The 50-kilogram estimate was
 attributed to the Defence Ministry's communiqué. [@3] The ministry said the
 identity of one of the dead men was established from an identity document found
-in his possession. [@2,4,5,7] The ministry identified one of them as Khalifi El-Eid, born in the Ouled Sidi Abdel Hakim area of Jerada, Morocco. [@5] The ministry did not disclose the identity of the second man. [@7]
+in his possession. [@2,4,5,7,8] The ministry identified one of them as Khalifi El-Eid, born in the Ouled Sidi Abdel Hakim area of Jerada, Morocco. [@5,8] The ministry did not disclose the identity of the second man. [@7]
 
 The army framed the operation as part of its continuing efforts to secure
-national borders and combat drug-trafficking networks and organised crime. [@2,4] The killing came days after President Abdelmadjid Tebboune said Algeria could go as far as the source of drug production, in legitimate self-defence. [@6]
+national borders and combat drug-trafficking networks and organised crime. [@2,4,8] The killing came days after President Abdelmadjid Tebboune said Algeria could go as far as the source of drug production, in legitimate self-defence. [@6]
 The ministry added that army units deployed across Algeria were reaffirming
 their vigilance and determination to confront attempts against national security
-and territorial integrity. [@2]
+and territorial integrity. [@2,8]
