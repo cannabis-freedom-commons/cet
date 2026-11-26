@@ -123,6 +123,11 @@ sources:
     publisher: Elordainfo.kz
     date: 2026-11-22
     language: ru
+  - title: Более 200 кг наркотиков изъяли в Казахстане за первую декаду ноября
+    url: https://rus.baq.kz/amp/news/bolee-200-kg-narkotikov-izyali-v-kazahstane-za-pervuyu-dekadu-noyabrya-320055379/
+    publisher: Baq.kz
+    date: 2026-11-22
+    language: ru
 media:
   - kind: photo
     url: https://almaty.tv/ru/news/zakon-i-poryadok/v-kazakhstane-za-10-dnej-iz-ato-bolee-200-kg-narkotikov
@@ -142,18 +147,18 @@ media:
 ---
 
 Kazakhstan's Interior Ministry said police detained 35 drug suspects across the
-country in the ten days from 1 to 10 November. [@3,4,5,6,7,8,11,13,14,16,17] Nineteen were suspected of
-selling drugs and eight of smuggling. [@1,4,5,6,9,17] Three were held over storing drugs on
+country in the ten days from 1 to 10 November. [@3,4,5,6,7,8,11,13,14,16,17,18] Nineteen were suspected of
+selling drugs and eight of smuggling. [@1,4,5,6,9,17,18] Three were held over storing drugs on
 an especially large scale. [@2,4,5,6,17] Three of the suspects were also held over illegal circulation of poisonous substances and one over promoting and advertising drugs. [@4,6,17] One of the 35 was held over cultivating
 drug-containing plants. [@2,4,5,6,8,17] Officers recorded 56 drug offences in the period,
-35 of them classified as crimes. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
+35 of them classified as crimes. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
 
 The figures cover Kazakhstan as a whole. [@3,6] Officers seized more than 200 kg
-of drugs in total. [@1,4,6,7,8,9,10,12,14,15,16,17] Of that, 190 kg was marijuana and 4 kg hashish. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
-About 13 kg was synthetic drugs. [@1,4,5,6,7,8,10,11,12,16,17] Cannabis accounted for 194 kg of the more
+of drugs in total. [@1,4,6,7,8,9,10,12,14,15,16,17,18] Of that, 190 kg was marijuana and 4 kg hashish. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
+About 13 kg was synthetic drugs. [@1,4,5,6,7,8,10,11,12,16,17,18] Cannabis accounted for 194 kg of the more
 than 200 kg seized. [@1] The ministry estimated the total at almost half a
-million single doses. [@2,4,5,7,8,10,15,16,17]
+million single doses. [@2,4,5,7,8,10,15,16,17,18]
 
 The ministry presented the results as part of its continuing anti-drug work.
 [@2,4] The announcement also described arrests in Almaty, Shymkent and Pavlodar
-involving ketamine, synthetic drugs, α-PVP and mephedrone. [@2,4,16,17]
+involving ketamine, synthetic drugs, α-PVP and mephedrone. [@2,4,16,17,18]
