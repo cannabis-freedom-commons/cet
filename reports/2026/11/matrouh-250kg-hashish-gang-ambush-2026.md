@@ -77,6 +77,11 @@ sources:
     publisher: Sada El Balad
     date: 2026-11-23
     language: ar
+  - title: ضبط قرابة 6 مليون قرص مخدر و 250 كيلو جرام حشيش ومليون علبة سجائر مهربة بنطاق محافظة مطروح تقدر قيمتها المالية بحوالي 6.750 مليار جنيه
+    url: http://www.soutalomma.com/Article/1261209/%D8%B6%D8%A8%D8%B7-%D9%82%D8%B1%D8%A7%D8%A8%D8%A9-6-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%82%D8%B1%D8%B5-%D9%85%D8%AE%D8%AF%D8%B1-%D9%88-250-%D9%83%D9%8A%D9%84%D9%88-%D8%AC%D8%B1%D8%A7%D9%85
+    publisher: صوت الأمة
+    date: 2026-11-23
+    language: ar
 media:
   - kind: photo
     url: https://www.elaosboa.com/3031709/
@@ -108,22 +113,27 @@ media:
     media_url: https://www.aswaqinformation.com/img/26/11/23/259927.webp
     publisher: أسواق للمعلومات
     caption: Interior Ministry handout showing part of the seized items, captioned 'جانب من المضبوطات' (part of the seizures), in the aswaqinformation report on the Matrouh operation.
+  - kind: photo
+    url: http://www.soutalomma.com/Article/1261209/%D8%B6%D8%A8%D8%B7-%D9%82%D8%B1%D8%A7%D8%A8%D8%A9-6-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%82%D8%B1%D8%B5-%D9%85%D8%AE%D8%AF%D8%B1-%D9%88-250-%D9%83%D9%8A%D9%84%D9%88-%D8%AC%D8%B1%D8%A7%D9%85
+    media_url: https://img.soutalomma.com/Large/202611230947504750.jpg
+    publisher: صوت الأمة
+    caption: Photo published with the Sout Al Omma account showing the seized drugs, hashish and smuggled cigarettes from the Matrouh operation.
 ---
 
 Security forces ambushed and detained members of a gang described as highly
 dangerous criminals while they were in Matrouh Governorate, with the Central
-Security Sector taking part. [@1,2,3,7,8,9] Legal procedures were taken after the
-detentions. [@1,4,5,6,8]
+Security Sector taking part. [@1,2,3,7,8,9,10] Legal procedures were taken after the
+detentions. [@1,4,5,6,8,10]
 
 Officers seized about one million Tramadol pills, 250 kg of hashish and one
 million smuggled cigarette packs, which police valued together at about 250
-million pounds. [@1,2,3,4,5,6,7,8,9] They also seized five million Captagon pills, which police
+million pounds. [@1,2,3,4,5,6,7,8,9,10] They also seized five million Captagon pills, which police
 valued at 6.5 billion pounds in the destination countries, for a combined total
-of about 6.75 billion pounds. [@1,2,3,4,5,6,7,8,9]
+of about 6.75 billion pounds. [@1,2,3,4,5,6,7,8,9,10]
 
 The operation followed information and investigations by the Sector for
 Combating Drugs, Unlicensed Arms and Ammunition, Egypt's anti-narcotics body, in
-coordination with other Interior Ministry agencies. [@1,4,5,7,8] Investigators said the
+coordination with other Interior Ministry agencies. [@1,4,5,7,8,10] Investigators said the
 gang brought large quantities of drugs, pills and smuggled cigarettes through
 desert tracks in Matrouh Governorate for sale inside Egypt and in other
-countries. [@1,2,3,4,5,6,8]
+countries. [@1,2,3,4,5,6,8,10]
