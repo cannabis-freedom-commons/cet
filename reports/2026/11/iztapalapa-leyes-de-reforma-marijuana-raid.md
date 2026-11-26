@@ -46,28 +46,26 @@ sources:
     publisher: Reforma
     date: 2026-11-22
     language: es
-open_questions:
-  - No weight was published for the 50 bags of possible marijuana, so no kilogram figure is given.
-  - The 50 bags were described only as possible or apparent marijuana, with no laboratory confirmation reported.
-  - No separate date was given for the raid; 22 November 2026 is the publication date of both accounts and is used as the incident date.
-  - No charges or court outcome were reported; the man was handed to a prosecutor who will determine his legal status.
-  - Both accounts stem from the same SSC statement and are not independent reporting.
+  - title: Cateo en Iztapalapa deja un detenido; aseguran arma, 258 cartuchos y presunta marihuana
+    url: https://sociedad-noticias.com/2026/11/23/cateo-en-iztapalapa-deja-un-detenido-aseguran-arma-258-cartuchos-y-presunta-marihuana/
+    publisher: Sociedad Noticias
+    date: 2026-11-23
+    language: es
 ---
 
 Officers of the Mexico City Citizen Security Secretariat (SSC) detained a
 28-year-old man when they executed a search warrant at a home in the Leyes de
-Reforma neighbourhood of Iztapalapa on 22 November 2026. [@1] The SSC said the
-address had apparently been used to store and distribute drugs. [@1]
+Reforma neighbourhood of Iztapalapa on 22 November 2026. [@1,3] The SSC said the
+address had apparently been used to store and distribute drugs. [@1,3]
 
 During the search officers seized 50 plastic bags containing possible marijuana,
 a long firearm, a magazine loaded with eight rounds, 250 rounds in five boxes
-and a mobile phone. [@1] Reforma reported the same haul, listing 50 plastic bags
+and a mobile phone. [@1,3] Reforma reported the same haul, listing 50 plastic bags
 of possible marijuana, the long gun, eight rounds in a magazine, 250 rounds and
 a phone. [@2]
 
 A prosecutor obtained the search warrant from a control judge, and it was
 carried out with the city's Attorney General's Office (FGJ), the Navy (Semar)
-and the National Guard. [@1] The detainee and the seized items were handed to
+and the National Guard. [@1,3] The detainee and the seized items were handed to
 the prosecutor, who will decide his legal status. [@1] The home was sealed and
 left under police guard while the investigation continues. [@1]
-
