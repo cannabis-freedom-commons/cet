@@ -50,6 +50,11 @@ sources:
     publisher: Cedar News
     date: 2026-11-16
     language: ar
+  - title: مطلوبان للقضاء في قبضة الأمن... سيارة مسروقة تقود إليهما
+    url: https://www.vdlnews.com/news/643022
+    publisher: VDLnews
+    date: 2026-11-16
+    language: ar
 open_questions:
     - No weight was published for the seized hashish, so no cannabis quantity is recorded.
     - The other seized substances were described only as suspected narcotics, with no identification or laboratory confirmation reported.
@@ -59,8 +64,8 @@ open_questions:
 
 A Bekaa Investigation Detachment patrol identified and arrested two suspects in
 Ablah on 15 November 2026, less than 48 hours after a blue Rapid car was stolen
-from Baalbek. [@1,3] Officers found the stolen car in the suspects' possession.
-[@1,3] The Internal Security Forces said the arrests followed investigations by
+from Baalbek. [@1,3,4] Officers found the stolen car in the suspects' possession.
+[@1,3,4] The Internal Security Forces said the arrests followed investigations by
 its Bekaa Investigation Detachment of the Regional Gendarmerie Unit. [@2,3]
 
 The detainees are Syrian nationals H. A., born in 1971, and B. H., born in 1996.
@@ -69,6 +74,6 @@ the second under a notice for car theft, and both had entered Lebanon
 clandestinely. [@1,3]
 
 A search of the men and the vehicle seized a quantity of hashish, other
-suspected narcotic substances and a mobile phone from the first suspect. [@1,3]
+suspected narcotic substances and a mobile phone from the first suspect. [@1,3,4]
 The two men, the seized items and the recovered car were handed to the competent
 unit for legal proceedings on the judiciary's instruction. [@1,3]
