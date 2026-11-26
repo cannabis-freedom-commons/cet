@@ -57,6 +57,10 @@ sources:
     url: https://www.fijivillage.com/news-fe/police-yet-to-locate-owner-of-bua-farm-aa87f8/
     publisher: Fijivillage
     date: 2026-10-08
+  - title: Massive marijuana haul uprooted
+    url: https://www.fbcnews.com.fj/news/massive-marijuana-haul-uprooted/
+    publisher: FBC News
+    date: 2026-10-03
 open_questions:
   - The first report placed the farm in Bua; on 8 October the same outlet reported it in the Nasuva area of Cakaudrove, and the other reports name only the Nasuva farming area. The map marks the Nasavusavu locality in Cakaudrove, not the exact farm.
   - The plants were described as 'believed to be marijuana' and sent for analysis; the count is 'more than 11,000', not a final figure.
@@ -65,19 +69,18 @@ open_questions:
 ---
 
 More than 11,000 plants believed to be marijuana were uprooted from a farming
-area in Nasuva. [@2] Police said the raid took place on Friday 2 October 2026.
+area in Nasuva. [@2,5] Police said the raid took place on Friday 2 October 2026.
 [@3] The farm lies in the Nasuva area of Cakaudrove. [@4] Officers from
 Savusavu, the Northern Division Taskforce and the North Police Rugby team
-carried out the operation. [@1]
+carried out the operation. [@1,5]
 
-The owner of the farm has not been identified. [@3] A week after the raid,
+The owner of the farm has not been identified. [@3,5] A week after the raid,
 police were still trying to locate the owner. [@4] The plants were seized and
-will undergo analysis, so they have not yet been confirmed as cannabis. [@2]
+will undergo analysis, so they have not yet been confirmed as cannabis. [@2,5]
 
 Police said drug raids were continuing across the Northern Division. [@4] They
 thanked members of the public for information that led to successful raids and
 arrests. [@4] People were urged to report suspicious activity or pass on
-information by calling the 1681 hotline. [@1] Police said information, including
+information by calling the 1681 hotline. [@1,5] Police said information, including
 photographs and videos, could also be provided by WhatsApp, Viber or Signal on
 9905 922. [@2]
-
