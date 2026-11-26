@@ -87,6 +87,11 @@ sources:
     publisher: El Faro Motril
     date: 2026-11-23
     language: es
+  - title: 'La Guardia Civil interviene más de 20.000 plantas de marihuana en tres días en Granada: 15 detenidos y 36 investigados | Onda Cero Radio'
+    url: https://amp.ondacero.es/emisoras/andalucia/granada/noticias/guardia-civil-interviene-mas-20000-plantas-marihuana-tres-dias-granada-15-detenidos-36-investigados_202611236b0439d45cb1082f89b2e302.html
+    publisher: Onda Cero
+    date: 2026-11-23
+    language: es
 open_questions:
     - No charges or court decisions in the cannabis cases were reported; the investigations remained open.
     - No value was published for the 20,098 plants or the 6.84 kg of cannabis products.
@@ -95,7 +100,7 @@ open_questions:
 In the whole set of operations officers detained 15 people and investigated 36
 others for alleged public-health offences and electricity fraud. [@1,3,4,5] The
 actions took place on Wednesday 18, Thursday 19 and Friday 20 November in Pinos
-Puente, Moraleda de Zafayona, Santa Fe, Cogollos Vega and Peligros. [@1,3,4,5] The
+Puente, Moraleda de Zafayona, Santa Fe, Cogollos Vega and Peligros. [@1,3,4,5,6] The
 Guardia Civil said the seizure of 20,098 cannabis sativa plants in eight
 operations targeted intensive cultivation under its Alto Impacto service in the
 province. [@1,3,5] The force described the raids as an operation against large-scale
@@ -106,16 +111,16 @@ seized 20,098 cannabis sativa plants in eight intensive-cultivation operations.
 [@2,5] With 14,409 plants seized in Pinos Puente, 18 November was the day with the
 most plants seized since the Alto Impacto service began in Granada province.
 [@1,4,5] In the first Pinos Puente action officers carried out seven entries and
-searches and seized 1,042 plants. [@1,4] In the second operation officers carried
+searches and seized 1,042 plants. [@1,4,6] In the second operation officers carried
 out 25 more searches and seized 13,367 plants, the largest amount in a single
-operation over the three days. [@1,5] The second Pinos Puente operation was supported by the Grupo de Reserva y Seguridad (GRS) and the command's citizen-security unit (USECIC). [@5] In those same searches officers found about
+operation over the three days. [@1,5,6] The second Pinos Puente operation was supported by the Grupo de Reserva y Seguridad (GRS) and the command's citizen-security unit (USECIC). [@5] In those same searches officers found about
 a kilo of chopped marijuana, two army flak vests, two bladed weapons and a
 balaclava. [@1,5] In Moraleda de Zafayona officers carried out three searches and
 seized 650 grams of marijuana. [@1,5] Officers also found about 1,200 pots still
 holding roots and remains of freshly cut plants. [@1,5]
 
 Officers carried out eleven house entries and searches between the two towns and
-seized 3,352 marijuana plants. [@1,5] On the final day officers carried out
+seized 3,352 marijuana plants. [@1,5,6] On the final day officers carried out
 further searches in Pinos Puente and Peligros, seizing 2,337 plants, 2.69 kilos
 of cannabis buds and about 2.5 kilos of chopped marijuana. [@2,5] In those
 searches officers also seized two handguns and a shotgun, pending technical
