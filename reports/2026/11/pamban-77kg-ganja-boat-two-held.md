@@ -73,26 +73,33 @@ sources:
     url: https://www.socialnews.xyz/2026/11/23/tn-77-kg-cannabis-seized-from-boat-two-held/
     publisher: Social News XYZ
     date: 2026-11-23
+  - title: 77 kg of ganja bound for Sri Lanka seized off Pamban; two held
+    url: https://www.thehindu.com/news/cities/Madurai/77-kg-of-ganja-bound-for-sri-lanka-seized-off-pamban-two-held/article71735556.ece
+    publisher: The Hindu
+    date: 2026-11-23
 media:
   - kind: photo
     url: https://tamil.news18.com/tamil-nadu/77-kg-ganja-seized-near-pamban-nw-kpk-ws-l-2260254.html
     media_url: https://images.news18.com/tamil/uploads/2026/11/arrest-2026-11-f0133b0276f2e620c23a9096f848ee73-1200x675.jpg?impolicy=website&width=415&height=270
     publisher: News18 Tamil
     caption: Arrested persons in the Pamban 77 kg ganja case.
+open_questions:
+  - Accounts differ on whether the interception occurred on 22 November 2026 or on the morning of 23 November 2026.
+  - Accounts differ on whether the seized boat, men and ganja were taken to the Ramanathapuram Customs office or to Mandapam for handover to the Customs Central Intelligence Unit.
 ---
 
 A joint team from the Indian Coast Guard station in Mandapam and the Tiruchi
 Customs intelligence wing intercepted a country boat moving suspiciously off the
 Pamban Kundukal coast near Rameswaram. [@2,5] The operation was launched on
 specific intelligence that narcotics were being transported to Sri Lanka by
-country boat from the Kundukal area. [@2] The two men on board were apprehended
+country boat from the Kundukal area. [@2,8] The two men on board were apprehended
 and identified as Aeronius, 33, and Gunasekaran, 42, both residents of Saveriyar
-Nagar in Thangachimadam. [@2,6]
+Nagar in Thangachimadam. [@2,6,8]
 
 A search of the vessel recovered about 77 kg of ganja packed into parcels and
-concealed in three gunny sacks. [@2,3,4,6] The interception took place near Pamban in
+concealed in three gunny sacks. [@2,3,4,6,8] The interception took place near Pamban in
 Ramanathapuram on 22 November 2026. [@1,3] Officials estimated the international
-market value of the seized ganja at around Rs 25 lakh. [@2]
+market value of the seized ganja at around Rs 25 lakh. [@2,8]
 
 The Indian Coast Guard Station, Mandapam, conducted the operation in
 coordination with the Customs Central Intelligence Unit, Tiruchy. [@1,4,5,6,7] The
