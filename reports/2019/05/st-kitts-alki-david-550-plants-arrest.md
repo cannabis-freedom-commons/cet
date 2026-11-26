@@ -57,14 +57,10 @@ sources:
     url: https://nypost.com/2019/05/14/coca-cola-billionaire-arrested-after-private-jet-search-turns-up-1-3m-in-cannabis/
     publisher: New York Post
     date: 2019-05-14
-open_questions:
-  - The widely repeated 5,000-plant and about $1.3 million figures differ from the DPP official 550-plant account; this report uses the official plant count and records no value because currency and attribution are unclear.
-  - No weight was published for the 550 plants, so no kilograms are recorded.
-  - The incident spans 7 May arrival and detention, 9 May arrest and 10 May first appearance; the 14 May bail variation is used as the report date as the latest step.
-  - No court outcome after the ordered 23 September 2019 appearance was reported in the opened sources.
-  - Chase Ergen travelled with David but the cannabis charges named only David; any later custody of Ergen on non-cannabis allegations is not counted here.
-  - The Vanity Fair page is paywalled beyond its update paragraph; fuller enforcement details come from the DPP statement via SKNVibes and the St Kitts Nevis Observer.
-  - Rolling Stone places the plane's landing in St Kitts on Saturday 11 May and David's arrest on a Monday, and says passengers were held for eight hours after landing, differing from the report's account of arrival on 7 May and arrest on 9 May.
+  - title: Why Was a Private Jet Carrying Two Billionaires, Jonathan Rhys Meyers, and $1.3 Million in Cannabis Grounded in St. Kitts?
+    url: https://robbreport.com/lifestyle/news/jonathan-rhys-meyers-cannabis-jet-2850878/
+    publisher: Robb Report
+    date: 2019-05-15
 ---
 
 On 7 May 2019 a private jet carrying Alkiviades Alki David arrived at the Robert
@@ -75,7 +71,7 @@ custody for analysis. [@2] On the advice of the Director of Public Prosecutions,
 David was arrested on 9 May 2019. [@2] He was charged with possession of
 cannabis, possession with intent to supply, importation of cannabis and
 importation of a restricted item. [@2,5] He had landed with business partner Chase
-Ergen and actor Jonathan Rhys Meyers. [@1,4,5] Meyers' wife and his mother-in-law were also reportedly on the plane. [@4] Meyers was released without
+Ergen and actor Jonathan Rhys Meyers. [@1,4,5,6] Meyers' wife and his mother-in-law were also reportedly on the plane. [@4,6] Meyers was released without
 sustaining any charges. [@1] Police said David was arrested on May 9 and
 appeared in court the following day. [@3]
 
@@ -91,4 +87,4 @@ sureties, ordered to surrender travel documents and report daily to Frigate Bay
 police. [@3,5] On 14 May the court varied bail to EC$300,000 cash with EC$300,000
 in sureties and returned his travel documents. [@2] He was ordered to return to
 court on 23 September 2019. [@2,4] He then posted $300,000 bail before leaving the
-island on Tuesday. [@1,4]
+island on Tuesday. [@1,4,6]
