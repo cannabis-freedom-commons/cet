@@ -42,6 +42,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/20/85580a5e-08fb-4318-970f-02e98b34f37c_1795165390907.jpg
     publisher: Dainik Bhaskar
     caption: 'The ganja seized in the Mufassil police raid in Jaso village, in the photo published with the Dainik Bhaskar report and captioned ''पुलिस ने छापेमारी कर गांजा जब्त की''. Photo: Dainik Bhaskar'
+  - kind: video
+    url: https://www.bhaskar.com/local/bihar/buxar/chausa/video/buxar-mufassil-police-raid-ganja-seizure-kamlesh-kumar-arrest-139745588.html?type=video
+    media_url: https://videos.bhaskarassets.com/2026/11/20/a8abe3dd-cd81-46b6-a728-edc520f33200_1795165388858/mp4/v360.mp4
+    publisher: Dainik Bhaskar
+    caption: Video published with Dainik Bhaskar's report on the Mufassil police raid in Jaso village that recovered 410 grams of ganja and cash.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: ad69a8238d22be8c1fa8a292b5207986
@@ -67,6 +72,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-20
     language: hi
+  - title: मानस पोर्टल पर गांजा तस्करी की शिकायत पर छापेमारी:मुफस्सिल पुलिस ने 410 ग्राम गांजा, नगद जब्त किए
+    url: https://www.bhaskar.com/local/bihar/buxar/chausa/video/buxar-mufassil-police-raid-ganja-seizure-kamlesh-kumar-arrest-139745588.html?type=video
+    publisher: Dainik Bhaskar
+    date: 2026-11-20
+    language: hi
 open_questions:
     - The 410 grams was described as ganja; no laboratory confirmation was reported.
     - No value estimate for the seized ganja was published.
@@ -81,7 +91,7 @@ Kumar, also known as Shailesh Kumar, at a house in Jaso village. [@1,3,4] The ra
 took place on the evening of Thursday 19 November 2026, at a house in front of
 the Krishna Amrit marriage hall. [@2] Officers seized 410 grams of ganja, 2,935
 rupees in cash and a plastic bag used to make the small packets in which the
-drug was sold. [@1,3,4] The arrested man is the son of Santosh Ram, also known as
+drug was sold. [@1,3,4,5] The arrested man is the son of Santosh Ram, also known as
 Munna Ram, a resident of Jaso. [@1,4]
 
 According to the police account, the man had long been selling ganja in small
