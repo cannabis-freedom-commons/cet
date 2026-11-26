@@ -57,13 +57,11 @@ sources:
     publisher: Cremaoggi
     date: 2026-11-23
     language: it
-open_questions:
-  - The village in the Cremasco area where the house stands was not named.
-  - The 10.6-gram, 51-gram and 5.5-gram amounts found on buyers are described as found in their possession, so only the 6.7 kg from the house and cellar is counted as seized cannabis.
-  - The cash is described only as just under 32,000 euros, so 32,000 euros is an approximate figure.
-  - The 5 grams of cocaine from the same search is excluded from the cannabis figures.
-  - No court outcome beyond validation of the arrest and precautionary custody in prison was reported.
-  - The whole account rests on a single local outlet article.
+  - title: 'Spaccio a domicilio nel Cremasco: quasi 7 chili di hashish e 32mila euro sequestrati dai Carabinieri di Crema'
+    url: https://www.simcarabinieri.it/spaccio-a-domicilio-nel-cremasco-quasi-7-chili-di-hashish-e-32mila-euro-sequestrati-dai-carabinieri-di-crema/
+    publisher: SIM Carabinieri
+    date: 2026-11-23
+    language: it
 ---
 
 A 22-year-old man ended up in jail accused of possession of drugs for dealing,
@@ -84,14 +82,13 @@ the Prefecture and had his licence withdrawn. [@1] Posing as couriers, the
 officers had the 22-year-old open the door and blocked him after identifying
 themselves. [@1] Inside the house and the cellar the officers found and seized a
 total of 6 kilograms and 700 grams of hashish, some of it kept in the freezer
-drawer, plus 5 grams of cocaine. [@1] The search also recovered two precision
+drawer, plus 5 grams of cocaine. [@1,2] The search also recovered two precision
 scales, packaging material, cash just under 32,000 euros and ten cartridges of
-various calibres for long arms. [@1]
+various calibres for long arms. [@1,2]
 
 The 22-year-old was arrested for possession of a large quantity of drugs for
-dealing and reported for unlawful possession of ammunition. [@1] The 55-year-old
+dealing and reported for unlawful possession of ammunition. [@1,2] The 55-year-old
 woman, his relative, was instead reported for complicity in possession for
 dealing. [@1] The young man was taken to Cremona prison. [@1] On 21 November the
 judge validated the arrest and ordered precautionary custody in prison against
 him. [@1]
-
