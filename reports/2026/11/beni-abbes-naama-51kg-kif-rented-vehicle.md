@@ -47,31 +47,28 @@ sources:
     url: https://www.aps.dz/en/algeria/society/mwumnn2r-51-kg-of-cannabis-resin-coming-from-morocco-seized
     publisher: Algérie Presse Service
     date: 2026-11-24
-open_questions:
-  - The operation was carried out late last week and over the weekend with no separate calendar day stated, so 23 November 2026 is the publication date used as the incident date.
-  - The municipality in Naama Province where the rented vehicle was intercepted was not named.
-  - The identities, ages and nationalities of the two suspects and their custodial status were not reported.
-  - No charges, prosecution step or court outcome beyond investigation under the competent prosecution were reported.
-  - No value estimate, weapon, additional seizure or laboratory confirmation was reported for this 51 kg seizure.
-  - The same article also describes a separate Defence Ministry announcement of about 19 quintals with arrests and a Belgian cocaine case, which are different events left out here.
+  - title: 'Béni Abbès: saisie de 51 kg de kif traité en provenance du Maroc'
+    url: https://www.aps.dz/fr/algerie/actualite-nationale/mwtlf9nc-beni-abbes-saisie-de-51-kg-de-kif-traite-en-provenance-du-maroc
+    publisher: Algérie Presse Service
+    date: 2026-11-23
+    language: fr
 ---
 
 Judicial police in Beni Abbes arrested two people suspected of belonging to an
 organized criminal network with international links that smuggles and traffics
-drugs. [@1] The anti-drug-trafficking unit carried out the operation late last
+drugs. [@1,3] The anti-drug-trafficking unit carried out the operation late last
 week under the supervision of the competent prosecution after investigators
 detected a plan using rented vehicles. [@1] Investigators identified the two
 suspects and the vehicle used then intercepted it in a municipality in Naama
 Province. [@1] Algerie Presse Service confirmed that Beni Abbes judicial police
 arrested the two network members over the weekend and seized 51 kg of cannabis
-resin coming from Morocco in a police statement issued Monday. [@2]
+resin coming from Morocco in a police statement issued Monday. [@2,3]
 
 Officers seized 51 kilograms of processed kif, which the police statement
-described as originating in Morocco. [@1] Officers found the shipment concealed
+described as originating in Morocco. [@1,3] Officers found the shipment concealed
 inside cavities in the internal structure of the intercepted vehicle. [@1]
 Investigators said the criminal plan relied on exploiting vehicles rented from
 accredited agencies to transport and pass drug consignments. [@1]
 
 Police presented the operation as part of a continuing flow of processed kif
 shipments from Morocco into Algeria. [@1]
-
