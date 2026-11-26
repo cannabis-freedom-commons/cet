@@ -264,6 +264,9 @@ sources:
     url: https://5050markets.com/us/news/kenyan-chef-lagos-cannabis-haul
     publisher: 5050 Markets
     date: 2026-11-23
+  - title: Kenyan Chef, South African Golfer Arrested in Nigeria Over 50kg Cannabis Shipment
+    url: https://mwakilishi.com/news/2026-11-23/kenyan-chef-south-african-golfer-arrested-in-nigeria-over-50kg-cannabis-shipment
+    publisher: Mwakilishi.com
 ---
 
 The National Drug Law Enforcement Agency arrested a 25-year-old Kenyan chef,
@@ -274,15 +277,15 @@ the suspects were arrested at the airport in October. [@3,15] Henlo arrived from
 South Africa aboard a South African Airways flight on 11 October and was
 intercepted at the Terminal 2 arrival hall. [@1,5,7,10,11,14,15,16,18,19,21,23,24,31,33,34,35,37,43,44] Njambi was arrested at the
 airport's departure boarding gate on Thursday 15 October 2026 as she tried to
-board a flight back to Kenya. [@1,5,6,8,10,11,13,14,16,17,18,19,21,23,24,25,26,29,30,31,33,34,35,36,37,39,41,42,43] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5,11,18,40]
+board a flight back to Kenya. [@1,5,6,8,10,11,13,14,16,17,18,19,21,23,24,25,26,29,30,31,33,34,35,36,37,39,41,42,43,45] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5,11,18,40,45]
 
 A search of two travelling boxes in Henlo's possession recovered 46 parcels of
 Loud, described as a potent cannabis strain, with a total weight of 50.40kg.
-[@1,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,40,41,42,43,44] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
+[@1,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,40,41,42,43,44,45] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
 had collected two other boxes bearing his tags from the conveyor belt and left.
-[@1,5,6,8,9,10,12,14,18,20,25,26,27,28,30,31,33,36,38,39,40,41,42,43] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
+[@1,5,6,8,9,10,12,14,18,20,25,26,27,28,30,31,33,36,38,39,40,41,42,43,45] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
 identification of ownership so each courier could deny the boxes if intercepted.
-[@2,5,11,13,14,15,17,18,23,25,29,34,42,44]
+[@2,5,11,13,14,15,17,18,23,25,29,34,42,44,45]
 
 Henlo, who flew business class while Njambi flew economy, said a South African
 associate named Shanel recruited him and linked him with syndicate members he
@@ -296,6 +299,6 @@ Tracking devices had been fitted to the travelling boxes and to Henlo's mobile
 phone, a feature also found in the bags abandoned by an American basketballer a
 month later. [@1,5,6,8,9,10,11,12,14,18,20,24,29,30,33,34,36,38,41,43] The claim tag for the boxes bearing Njambi's name was
 recovered from her hand luggage, and both suspects identified each other during
-an identification parade. [@1,5,6,9,10,11,12,18,27,33,38,40,41] NDLEA chairman Mohamed Buba Marwa said the
+an identification parade. [@1,5,6,9,10,11,12,18,27,33,38,40,41,45] NDLEA chairman Mohamed Buba Marwa said the
 arrests, coming in the same period as that of an American basketballer, showed
 cartels changing faces but not tactics. [@2,4,13,14]
