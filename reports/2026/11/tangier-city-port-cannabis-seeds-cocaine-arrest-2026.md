@@ -41,18 +41,21 @@ sources:
     publisher: Attasiaa
     date: 2026-11-23
     language: ar
+  - title: توقيف أربعيني قادم من طريفة بميناء طنجة المدينة بعد حجز 8 كلغ من الكوكايين وبذور حشيش
+    url: https://inews.ma/news/8814067
+    publisher: inews.ma
+    language: ar
 open_questions:
-  - 22 November 2026 is inferred as the Sunday before the 23 November 2026 publication; no separate calendar date for the operation was stated.
-  - No count of the seeds was reported, only their weight of three kilograms.
-  - The eight kilograms of cocaine from the same search is excluded from cannabis figures as a non-cannabis substance.
-  - No charges, detention measure or court outcome beyond the opened judicial investigation was reported.
-  - No laboratory confirmation or seed variety for the cannabis-growing seeds was reported.
-  - The whole account rests on a single outlet with no agency statement seen.
-  - The text gives a weight ("8 kg") but the figures have no kg_seized; check whether it belongs there.
+    - No count of the seeds was reported, only their weight of three kilograms.
+    - The eight kilograms of cocaine from the same search is excluded from cannabis figures as a non-cannabis substance.
+    - No charges, detention measure or court outcome beyond the opened judicial investigation was reported.
+    - No laboratory confirmation or seed variety for the cannabis-growing seeds was reported.
+    - The account now rests on two outlets with no agency statement seen.
+    - The text gives a weight ("8 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 
 National Security officers working with customs at Tangier city port foiled an
-attempt to smuggle drugs into Morocco on Sunday afternoon. [@1] Officers
+attempt to smuggle drugs into Morocco on Sunday afternoon. [@1,2] Officers
 detained a 47-year-old Moroccan citizen living in Spain immediately after he
 arrived at the port on a ferry from the Spanish port of Tarifa, as his
 foreign-registered car underwent border checks. [@1]
@@ -60,7 +63,7 @@ foreign-registered car underwent border checks. [@1]
 The search by security and customs officers with trained police dogs found the
 cocaine consignment hidden under the car front bumper, alongside the seized
 seeds. [@1] Officers seized eight kilograms of cocaine and three kilograms of
-seeds used for growing cannabis. [@1]
+seeds used for growing cannabis. [@1,2]
 
 The Tangier prefectural judicial police then opened a judicial investigation
 under the competent prosecutor to establish the circumstances and uncover the
@@ -69,4 +72,3 @@ identify possible national and international extensions of the activity and any
 other suspected accomplices. [@1] The operation was presented as part of
 security and customs efforts against international drug smuggling and stronger
 controls at border crossings and Moroccan ports. [@1]
-
