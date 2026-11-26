@@ -57,6 +57,11 @@ media:
     media_url: https://www.tarunmitra.in/media-webp/1200/2026-11/21nov31.jpg
     publisher: Tarun Mitra
     caption: 'The truck in which 342 kg of ganja was hidden under plastic crates before the STF stopped it in Shankargarh. Photo: Tarun Mitra'
+  - kind: photo
+    url: https://hindi.dynamitenews.com/uttar-pradesh/prayagraj-stf-342-kg-ganja-smuggling-seized-mahindra-pickup-accused-arrested/amp
+    media_url: https://s3.ap-south-1.amazonaws.com/static.dynamitenews.com/wp-content/uploads/sites/2/2026/11/Prayagraj-5.jpg
+    publisher: Dynamite News Hindi
+    caption: 'Photograph published with Dynamite News Hindi''s account of the Prayagraj STF ganja-smuggling bust. Photo: Dynamite News'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 7004e4f16d38839ae09543091381fb8c
@@ -117,31 +122,39 @@ sources:
     publisher: Tarun Mitra
     date: 2026-11-21
     language: hi
+  - title: प्रयागराज में गांजा तस्करी का भंडाफोड़, छत्तीसगढ़ से यूपी लाई जा रही थी खेप; STF ने रास्ते में दबोचा
+    url: https://hindi.dynamitenews.com/uttar-pradesh/prayagraj-stf-342-kg-ganja-smuggling-seized-mahindra-pickup-accused-arrested/amp
+    publisher: Dynamite News Hindi
+    date: 2026-11-21
+    language: hi
+open_questions:
+    - 'Accounts differ on Yadav''s earlier cases at Jhunsi police station: Dynamite News Hindi says they involved assault and the Arms Act, while Patrika describes them as cases of keeping stolen property.'
+    - Dynamite News Hindi names Muneeraj Yadav of Dhanjaya as a second suspect and places vehicle owner Shyam Bahadur in Holagarh; Patrika names Mukesh Yadav and places Shyam Bahadur in Holapur.
 ---
 
 The Uttar Pradesh STF's Prayagraj field unit seized 342 kg of ganja from a
-Mahindra Bolero pickup in the Shankargarh police station area of Prayagraj. [@1,4,6,7,8,10]
-Officers arrested the driver, Ramesh Kumar Yadav, a Prayagraj resident. [@1,3,4,6,7,9,10,11] The
+Mahindra Bolero pickup in the Shankargarh police station area of Prayagraj. [@1,4,6,7,8,10,12]
+Officers arrested the driver, Ramesh Kumar Yadav, a Prayagraj resident. [@1,3,4,6,7,9,10,11,12] The
 arrest was made at about 9:45 pm on 20 November 2026. [@1,5,9,11] The pickup was stopped on the road towards Chitrakoot. [@4,9,11] The team stopped and searched the suspicious pickup in the presence of ACP Ved Vyas Mishra of Bara. [@10] The operation was led by STF circle officer Shailesh Pratap Singh. [@3,11] The STF acted on
 information that a Bolero pickup was bringing a large load of ganja from Raipur
-in Chhattisgarh to Prayagraj. [@1,4,6,7,8,10,11] The load was hidden under empty plastic
+in Chhattisgarh to Prayagraj. [@1,4,6,7,8,10,11,12] The load was hidden under empty plastic
 crates so that the pickup looked like an ordinary goods vehicle. [@1,3,4,6,9,10,11] Haribhoomi
 reported that the pickup, a Mahindra Bolero, carried the registration UP70QT8721
 and that a mobile phone was seized with it. [@2]
 
-Police put the value of the consignment at about 85.50 lakh rupees. [@1,3,4,6,7,8,9,10,11]
+Police put the value of the consignment at about 85.50 lakh rupees. [@1,3,4,6,7,8,9,10,11,12]
 Haribhoomi described the 85.50 lakh figure as the estimated international market
 price. [@2] Police seized the pickup used for the smuggling and a mobile phone.
-[@1,3,6,7,9,10,11] Initial questioning indicated the ganja had been brought from Raipur in
+[@1,3,6,7,9,10,11,12] Initial questioning indicated the ganja had been brought from Raipur in
 Chhattisgarh to Prayagraj. [@1,3,9] Yadav told the STF he belonged to a gang that
 brought ganja from Chhattisgarh and sold it in Prayagraj and nearby districts.
-[@1,4,6,7,9,10] Yadav said the consignment was divided into small portions and sold locally. [@9,11] He said he had been promised 20,000 rupees for delivering the consignment
+[@1,4,6,7,9,10,12] Yadav said the consignment was divided into small portions and sold locally. [@9,11] He said he had been promised 20,000 rupees for delivering the consignment
 to its destination. [@1,4,7,10] He said he drove the pickup to Raipur on the owner's
 instructions. [@1,7] Yadav said the pickup was handed to a man in Raipur, who returned it loaded with ganja hidden under empty crates before it was driven to Prayagraj. [@4] Haribhoomi gave his address as Pure Kanta village under
 Handia police station in Prayagraj. [@2]
 
 The STF registered case number 266/2026 at Shankargarh police station against
-Yadav. [@1,4,6,9,10,11] He was booked under sections 8, 20 and 27 of the NDPS Act. [@1,4,6,9,11]
+Yadav. [@1,4,6,9,10,11,12] He was booked under sections 8, 20 and 27 of the NDPS Act. [@1,4,6,9,11,12]
 Further legal proceedings were left to the local police. [@1,4,7,11] Police said Yadav
 had two cases registered at Jhunsi police station in Prayagraj in 2021 over
 keeping stolen property. [@1,10] Police said the pickup's owner was Shyam Bahadur,
