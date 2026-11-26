@@ -47,31 +47,46 @@ sources:
     publisher: LatinUS
     date: 2026-11-22
     language: es
+  - title: Aseguran metanfetamina, ketamina y derivados de cannabis en aduana del AICM; estaban ocultos en envíos postales
+    url: https://www.eluniversal.com.mx/nacion/aseguran-metanfetamina-ketamina-y-derivados-de-cannabis-en-aduana-del-aicm-estaban-ocultos-en-envios-postales/
+    publisher: El Universal
+    date: 2026-11-22
+    language: es
 media:
   - kind: photo
     url: https://latinus.us/mexico/2026/11/22/aseguran-cargamentos-de-metanfetamina-ketamina-y-cannabis-en-la-aduana-del-aicm-183159.html
     media_url: https://img.latinus.us/aRwofUjuQ7YIlQ3xByzWmKYQVLM7vXXrfzrtknknfyU/rs:fit:1024:0:0/q:50/f:avif/aHR0cHM6Ly9hc3NldHMubGF0aW51cy51cy9pbWcvMTc5NTM5ODczMDc5OC1uODZ5a2YuanBn
     publisher: LatinUS
     caption: 'Seized postal shipments from the AICM customs operation. Photo: X: @GabSeguridadMX via LatinUS'
+  - kind: photo
+    url: https://www.eluniversal.com.mx/nacion/aseguran-metanfetamina-ketamina-y-derivados-de-cannabis-en-aduana-del-aicm-estaban-ocultos-en-envios-postales/
+    media_url: https://www.eluniversal.com.mx/resizer/v2/FSID37PNUJBQVMVWEMXRJ7DWL4.jpg?auth=37e3846033450422a87c19f5f1ec8e67a3033780cc03a1240b5f27467005c94c&smart=true&height=666
+    publisher: El Universal
+    caption: 'Illicit substances seized at AICM customs in postal shipments. Photo: Marina'
+  - kind: photo
+    url: https://www.eluniversal.com.mx/nacion/aseguran-metanfetamina-ketamina-y-derivados-de-cannabis-en-aduana-del-aicm-estaban-ocultos-en-envios-postales/
+    media_url: https://www.eluniversal.com.mx/resizer/v2/FCEUNH2SF5ARJPCU4BYJYHLMRY.jpg?auth=1d4680829ad201e73ed9ba14ae2db53d4adb93eb7e9f08395c3d48f2c2991693&smart=true&height=620
+    publisher: El Universal
+    caption: 'Illicit substances seized at AICM customs in postal shipments. Photo: Marina'
 ---
 
 Officers from Mexico's National Customs Agency, the Attorney General's Office,
 the Navy, the Security Ministry and Correos de México seized illicit substances
 at the mechanized postal customs section of Mexico City International Airport.
-[@1] The detections followed non-intrusive X-ray screening and selective
+[@1,3] The detections followed non-intrusive X-ray screening and selective
 physical inspections aimed at increasingly sophisticated concealment methods in
 postal shipments. [@1] All of the substances were confirmed by laboratory
 analysis. [@1] The seized goods were formally handed to Attorney General's
 Office staff to continue the corresponding investigations. [@1,2]
 
 Officers found 1.86 kilos of cannabis derivatives held in 24 glass jars in an
-import shipment from California, United States. [@1,2] In the same postal
+import shipment from California, United States. [@1,2,3] In the same postal
 operation officers found 3.06 kilos of methamphetamine hydrochloride hidden
 inside a parcel containing air pumps in an export shipment bound for Cyprus.
-[@1] Officers also found 1.090 kilos of methamphetamine hydrochloride hidden in
+[@1,3] Officers also found 1.090 kilos of methamphetamine hydrochloride hidden in
 a box with an inflatable mattress and a steel-plate-covered container bound for
 Santiago, Chile, and 0.525 kilos hidden among board games in a shipment bound
-for Buenos Aires, Argentina. [@1] Officers also seized 1.260 kilos of ketamine
+for Buenos Aires, Argentina. [@1,3] Officers also seized 1.260 kilos of ketamine
 hydrochloride inside a box containing a wrist splint arriving from Palma, Spain.
 [@1]
 
