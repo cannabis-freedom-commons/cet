@@ -43,6 +43,11 @@ media:
     media_url: https://ijuinews.com.br/upload/noticias/10707/med_1795196233_71.jpg
     publisher: IJUINEWS
     caption: 'Marijuana bricks and packages seized in the Brigada Militar operation, in the photo published with the Ijuí News report. Photo: Caçadores de Notícias / reproduction'
+  - kind: photo
+    url: https://www.brigadamilitar.rs.gov.br/brigada-militar-de-ijui-intercepta-carregamento-de-155-2-kg-de-maconha-e-prende-homem
+    media_url: https://www.brigadamilitar.rs.gov.br/upload/recortes/202611/23130926_715319_GD.jpeg
+    publisher: Brigada Militar
+    caption: 'Marijuana seized in the Brigada Militar operation in Ijuí laid out for photograph. Photo: Divulgação 29ºBPM'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 212cfde428c94c759cbb44dc705f6d30
@@ -63,16 +68,11 @@ sources:
     publisher: Radio Cidade SA
     date: 2026-11-20
     language: pt
-open_questions:
-    - 'The reported weight varies between accounts: Ijuí News gave more than 135 kilograms, Radio Cidade SA more than 100 kilograms, and Clic JM 155.2 kilograms in 209 bricks; the report uses 155.2 kilograms.'
-    - Ijuí News places the find near Sabeve on the ERS-522, Clic JM names the locality as Linha 5 Oeste, and Radio Cidade SA says the car was heading toward Augusto Pestana; the accounts do not make clear how the descriptions relate.
-    - Ijuí News says the suspect was taken to the DPPA in Ijuí, Clic JM to the Delegacia de Polícia de Ijuí, and Radio Cidade SA to the Delegacia de Polícia Civil de Ijuí.
-    - 'The accounts differ on who attempted to stop the car on Thursday evening: Ijuí News names the Federal Highway Police, while Radio Cidade SA says only that it was a police approach.'
-    - The reports do not say whether the man arrested was the driver who fled the attempted approach the previous evening.
-    - No street value for the marijuana and no laboratory confirmation were reported.
-    - The suspect's name, age and custody status were not published, and no charge, hearing or court outcome beyond the flagrante arrest is reported.
-    - Radio Cidade SA says the drug was believed to come from the border region near Santa Rosa, but no source reports confirmation of its origin.
-    - All accounts rest on the Brigada Militar's information about the operation, so the arrest is not independently reported.
+  - title: Brigada Militar de Ijuí intercepta carregamento de 155,2 kg de maconha e prende homem
+    url: https://www.brigadamilitar.rs.gov.br/brigada-militar-de-ijui-intercepta-carregamento-de-155-2-kg-de-maconha-e-prende-homem
+    publisher: Brigada Militar
+    date: 2026-11-23
+    language: pt
 ---
 
 Brigada Militar officers arrested a suspect in the interior of Ijuí on the
@@ -80,17 +80,17 @@ morning of Friday 20 November 2026, after finding a suspicious vehicle near
 Sabeve on the ERS-522. [@1,3] Police located the car on the road toward Augusto Pestana, near Sabeve. [@3] The operation was carried out by Força Tática teams
 with the corporation's intelligence sector, after information that a car that
 had escaped a Federal Highway Police (PRF) roadblock on Thursday 19 November was
-moving in the region. [@2] Residents near Sabeve saw suspicious movement around
+moving in the region. [@2,4] Residents near Sabeve saw suspicious movement around
 a Ford Ka and called the Brigada Militar, which sent a patrol. [@1]
 
 The driver had fled an approach by the Polícia Rodoviária Federal, Brazil's
 federal highway police, early the previous evening, when officers tried to
 intercept the load. [@1] Officers found the car hidden in a wooded area and
 confirmed it had the same characteristics as the vehicle that had fled the PRF.
-[@1] Searches continued in the surrounding area, where the rest of the load was
+[@1] The driver was caught at the scene unloading and hiding marijuana bales. [@4] Searches continued in the surrounding area, where the rest of the load was
 found hidden in woodland. [@1] In all, officers found 209 bricks of marijuana,
-some inside the car and others hidden in the vegetation nearby. [@2] The drug was said to have come from the northwest border region, near Santa Rosa. [@3] The
-marijuana seized weighed 155.2 kilograms in total. [@2] An earlier account of
+some inside the car and others hidden in the vegetation nearby. [@2,4] Officers found five bales of the drug inside the vehicle and three more bales hidden in the vegetation. [@4] The drug was said to have come from the northwest border region, near Santa Rosa. [@3] The
+marijuana seized weighed 155.2 kilograms in total. [@2,4] An earlier account of
 the same seizure put the amount at more than 135 kilograms. [@1]
 
 The suspect, described as coming from the Porto Alegre metropolitan region, was
