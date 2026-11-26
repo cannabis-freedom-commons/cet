@@ -73,6 +73,11 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-22
     language: ar
+  - title: من السوشيال ميديا إلى قبضة الأمن.. ضبط مروج حشيش ببولاق الدكرور
+    url: https://www.algomhor.com/516269
+    publisher: الجمهور الإخباري
+    date: 2026-11-22
+    language: ar
 media:
   - kind: photo
     url: https://www.youlyou.com/100322
@@ -89,19 +94,24 @@ media:
     media_url: https://cdn.dostor.org/media/img/large/2026/11/22/2026_11_22_17_23_25_814_7082.png
     publisher: جريدة الدستور
     caption: Photograph captioned 'the accused' (المتهم), published with the Dostor report of the Boulak El-Dakrour student's arrest.
+  - kind: photo
+    url: https://www.algomhor.com/516269
+    media_url: https://cdn.algomhor.com/UploadCache/libfiles/69/8/800x450o/735.webp
+    publisher: الجمهور الإخباري
+    caption: Photograph captioned 'the accused' (المتهم), published with the Algomhor report of the Boulak El-Dakrour student's arrest.
 ---
 
 Security services arrested a student in the Boulak El-Dakrour police station
 district of Giza governorate, accusing him of running a social media page that
-promoted the sale of drugs for money. [@1,4,5,6,7] The Interior Ministry said in a
+promoted the sale of drugs for money. [@1,4,5,6,7,8] The Interior Ministry said in a
 statement on Sunday that security services had spotted a person running a page
 on social media to promote the sale of drugs in exchange for money. [@1]
 Detectives identified the person running the page and arrested him after
 spotting the page being used to advertise drugs for sale. [@3,4,5,6]
 
 The man arrested was a student living in the Boulak El-Dakrour police station
-district of Giza. [@2,7] A mobile phone was found in his possession, and a check
+district of Giza. [@2,7,8] A mobile phone was found in his possession, and a check
 showed it contained evidence confirming his criminal activity, along with a
-quantity of hashish. [@1,4,5,6,7] Confronted with the findings, the suspect admitted
+quantity of hashish. [@1,4,5,6,7,8] Confronted with the findings, the suspect admitted
 creating and running the page to promote the sale of the drugs seized from him.
-[@1,4,5,6,7] The ministry said the necessary legal measures had been taken. [@1,4,7]
+[@1,4,5,6,7,8] The ministry said the necessary legal measures had been taken. [@1,4,7]
