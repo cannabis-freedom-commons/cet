@@ -39,6 +39,11 @@ media:
     media_url: https://asset.tribunnews.com/UjTDFnumiuI5OmuoCM2AaJtt-VY=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/papua/foto/bank/originals/GANJA-Polsek-Arso-Timur-mengamankan-terduga-pelaku-yang-membawa-Ganja-di-Kampung-Suskun.jpg
     publisher: Tribun-Papua.com
     caption: 'Three suspects and cannabis packages after Arso Timur police stopped their car in Kampung Suskun. Photo: Tribun Papua/Istimewa'
+  - kind: photo
+    url: https://papua.antaranews.com/berita/771615/polisi-tangkap-tiga-pelaku-penyelundupan-ganja-di-perbatasan-ri-png
+    media_url: https://cdn.antaranews.com/cache/1200x800/2026/11/23/1003118104.jpg.webp
+    publisher: Antara News Papua
+    caption: 'Three detained cannabis-smuggling suspects with seized packages after the Keerom arrest. Photo: Polres Keerom via ANTARA'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash-1017#max
 submission: 58bd23ecf776ecad8b64e8117bb9aecd
@@ -59,6 +64,11 @@ sources:
     publisher: Realita Papua
     date: 2026-11-23
     language: id
+  - title: Polisi tangkap tiga pelaku penyelundupan ganja di perbatasan RI-PNG
+    url: https://papua.antaranews.com/berita/771615/polisi-tangkap-tiga-pelaku-penyelundupan-ganja-di-perbatasan-ri-png
+    publisher: Antara News Papua
+    date: 2026-11-24
+    language: id
 open_questions:
   - No total weight was published for the 12 packets and 18 bags; police said laboratory tests would establish it.
   - Whether the three detainees have been formally named suspects or charged is not reported.
@@ -69,17 +79,17 @@ open_questions:
 
 Police in Keerom Regency, Papua, detained three people travelling with two
 backpacks of dried cannabis after stopping a black Daihatsu Terios on the road
-from Kampung Suskun towards Kampung Wambes on Sunday 22 November 2026. [@1] The
+from Kampung Suskun towards Kampung Wambes on Sunday 22 November 2026. [@1,4] The
 three were F, 20, from Sentani in Jayapura Regency, and AS, 25, and JL, 17, who
-were initially identified as Papua New Guinea nationals. [@1] Four other
+were initially identified as Papua New Guinea nationals. [@1,4] Four other
 occupants ran into the bush and escaped, and police said they were still looking
 for them. [@1] The three and the car were taken to the Arso Timur police
 station, and the Keerom narcotics unit took over the case. [@1]
 
 Officers seized 12 medium-sized packets of cannabis, 18 plastic bags of dried
-cannabis leaf and two 10-kilogram rice sacks used to store the drug. [@1] No
+cannabis leaf and two 10-kilogram rice sacks used to store the drug. [@1,4] No
 weight was published for the cannabis; investigators said laboratory tests would
-establish the total and trace where it came from. [@1]
+establish the total and trace where it came from. [@1,4]
 
 The operation began after residents told the Arso Timur police at about 10.50
 WIT that a black minibus heading for Jayapura was carrying narcotics. [@1]
@@ -89,4 +99,3 @@ Timur police chief, Iptu Jimmy Y. Saumen, confirmed the arrests and said his
 officers had handed the case to the Keerom narcotics unit while the four escaped
 occupants remained at large. [@3] Police said they were investigating a possible
 cross-border trafficking network behind the cannabis. [@3]
-
