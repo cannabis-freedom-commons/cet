@@ -65,11 +65,20 @@ sources:
     publisher: Jeevan Utsah News
     date: 2026-11-23
     language: hi
+  - title: सिरमौर में नशे के खिलाफ SIU की बड़ी कार्रवाई, 11.54 ग्राम चिट्टा और 1.125 किलो चरस के साथ चार गिरफ्तार
+    url: https://www.dainiktribuneonline.com/news/himachal/siu-takes-major-action-against-drug-menace-in-sirmaur-four-arrested-with-11-54-grams-of-chitta-and-1-125-kg-of-charas/
+    publisher: Dainik Tribune Online
+    date: 2026-11-21
+    language: hi
+  - title: 4 held with chitta, charas in two cases in Sirmaur, Himachal Pradesh
+    url: https://www.tribuneindia.com/news/himachal/4-held-with-chitta-charas-in-two-cases-in-sirmaur-himachal-pradesh
+    publisher: The Tribune
+    date: 2026-11-23
 open_questions:
-  - No value or estimated street price was published for the 1.125 kg of charas.
-  - No charge sheet, court appearance or outcome was reported; the case was still under investigation.
-  - The same police briefing also covered a separate arrest of two men with 11.54 grams of synthetic chitta in Moginand, which is outside this report's scope.
-  - The exact spot of the stop near Sataun bus stand is not given; the coordinates are for Sataun town.
+    - No value or estimated street price was published for the 1.125 kg of charas.
+    - No charge sheet, court appearance or outcome has been reported; the case is still under investigation.
+    - The same police briefing also covered a separate arrest of two men with 11.54 grams of heroin (chitta) in Moginand, a different event left out of this report.
+    - The exact spot of the stop near Sataun bus stand is not given; the coordinates are for Sataun town.
 ---
 
 Sirmaur police's Special Investigation Unit (SIU) in Nahan was patrolling near
@@ -77,14 +86,14 @@ the Sataun bus stand on 21 November 2026 when it acted on information about two
 men selling charas. [@1] Police stopped a motorcycle arriving from Kamrau
 towards Sataun after a tip that Tikaram and Mayaram had for a long time been
 selling charas around Shillai, Sataun and nearby areas. [@1,4,5] Officers arrested
-the two motorcycle riders. [@2,5]
+the two motorcycle riders. [@2,5,6]
 
 A search of the two men produced 1 kg 125 g (1.125 kg) of charas, a cannabis
-resin. [@1,4,5] Both were identified as residents of village Bohal, post office and
-tehsil Kamrau, Sirmour district. [@2,4] Police registered a case against the two
+resin. [@1,4,5,6] Both were identified as residents of village Bohal, post office and
+tehsil Kamrau, Sirmour district. [@2,4,7] Police registered a case against the two
 at Puruwala police station under the Narcotic Drugs and Psychotropic Substances
-(NDPS) Act. [@1,4,5] The motorcycle, numbered HP85AA-0305, was also brought within
+(NDPS) Act. [@1,4,5,6] The motorcycle, numbered HP85AA-0305, was also brought within
 the investigation. [@3,4,5]
 
 Police said they were trying to find where the consignment had come from and who
-it was to be supplied to, and that the investigation was continuing. [@1,4]
+it was to be supplied to, and that the investigation was continuing. [@1,4] Sirmaur superintendent of police N.S. Negi confirmed the arrests and said the district police were acting continuously against the illegal drug trade. [@6]
