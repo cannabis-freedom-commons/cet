@@ -51,15 +51,30 @@ sources:
     url: https://www.nzherald.co.nz/nz/raniera-vercoe-court-martial-army-private-admits-cannabis-sales-and-mdma-use/4C2USZJU3RCDJI4YTW2PBCQEQ4
     publisher: NZ Herald
     date: 2026-11-23
+  - title: Young soldier admits giving cannabis to 'all the boys' at Burnham Military Camp | Stuff
+    url: https://www.stuff.co.nz/nz-news/361062691/young-soldier-admits-giving-cannabis-all-boys-burn
+    publisher: Stuff
+    date: 2026-11-23
 open_questions:
   - No weight was reported for the cannabis found in Vercoe's room; the 28 grams is the quantity the summary of facts says he supplied over the period.
   - The reports do not say whether the MDMA admission was one of the six charges or an additional charge.
   - Vercoe told military police he did not sell cannabis and gave it to other soldiers, while the prosecutor said he sold three 2.5g bags; the court accepted his guilty pleas to selling.
   - Neither report says whether the dismissal from the defence force takes effect at the end of the three-month detention or separately.
+media:
+  - kind: photo
+    url: https://www.stuff.co.nz/nz-news/361062691/young-soldier-admits-giving-cannabis-all-boys-burn
+    media_url: https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYc4P2wfeCgZl+F4bsYrlPaVH+CHenPQWytAhFN9t+pkFjcakJrgi63Pzb9YREyV+lYf8X5roMOAk8P8icIbci829iS9CeYsmwqKB4w+sAitMxAmNyE1N3KdNUVjC3lo6dCFe7B3ASkB83M7ICogVGJ8EEcOebT9R4xF7NJrbTSB5kbQ0S5EewQPXmZKMJUcrz+QbHRS3OJF1JhWB+Ffwl7o=
+    publisher: Stuff
+    caption: 'Private Raniera Vercoe, who will serve three months in detention and then be dismissed. Photo: Nathan McKinnon/RNZ'
+  - kind: photo
+    url: https://www.stuff.co.nz/nz-news/361062691/young-soldier-admits-giving-cannabis-all-boys-burn
+    media_url: https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYbMBGrDQinjwV+8TePw2qA3jjtNtpu6GliN6RFZMRsTfsLQSrAbLj+Oiw6RaSWdFsV1KfCgPsXKGV0BJ%2FNcO4kS+4ei9w1yCLqil+Y356LfkZV088PtLlpCYyd7vM2cCIIbeMplczbID8lDejUm6Zs5tGLKYBawwvlykyJSPfmM68jHDxAfVX7yWLJDKMGNEz8jnz852wPJ9JCk0zSTz40o=
+    publisher: Stuff
+    caption: 'Burnham Military Camp, where Vercoe was charged with smoking cannabis. Photo: Anna Sargent/RNZ'
 ---
 
 Private Raniera Vercoe, 21, pleaded guilty to six charges at a court martial on
-Monday 23 November 2026. [@1] The charges covered selling and supplying cannabis
+Monday 23 November 2026. [@1,3] The charges covered selling and supplying cannabis
 to a soldier in November and December 2024, smoking it at Burnham Military Camp
 and in Rotorua between September 2024 and June 2025, supplying other soldiers,
 and possessing cannabis and a grinder in June 2025. [@1] He also admitted
@@ -73,7 +88,7 @@ The summary of facts said messages showed Vercoe supplied at least one ounce, or
 outlined selling small amounts of cannabis on three occasions and discussed
 smoking cannabis. [@1] In a statement to military police, Vercoe said he did not
 sell cannabis but "would give it to all the boys", and that people put money in
-his bank account without his knowledge. [@1] He said people would sometimes buy
+his bank account without his knowledge. [@1,3] He said people would sometimes buy
 him dinner in exchange for cannabis or "cones" he had shared. [@1]
 
 Defence lawyer Josh Lucas said the sentence should reflect Vercoe's youth, and
@@ -85,5 +100,4 @@ was premeditation and that the offending occurred over 10 months. [@2] Judge
 Moses applied a 25% discount for guilty pleas and 15% for other factors. [@2]
 Vercoe was ordered to serve three months in detention at the Services
 Correctional Establishment at Burnham and will then be dismissed from the New
-Zealand Defence Force. [@1]
-
+Zealand Defence Force. [@1,3]
