@@ -38,17 +38,13 @@ sources:
   - title: Drugs, fireworks seized in Schoolies road blitz
     url: https://www.adelaidenow.com.au/news/south-australia/police-blitz-greets-thousands-of-schoolies-arriving-at-victor-harbor/news-story/0d22126f4f6e7f8358b148261509d628
     publisher: The Advertiser
-open_questions:
-  - No weight or quantity was published for the cannabis seized, either from the car or during the operation.
-  - It is not stated whether the four drivers who tested positive for cannabis were among the five drivers police reported for offences.
-  - Police listed the seized drugs together as cocaine, cannabis, MDMA, ketamine and fireworks, so no cannabis weight can be separated from a combined total.
-  - No court outcome was reported for the 47-year-old Mannum man beyond the fine for drug offences, the report for possessing a prohibited weapon and the three-month licence loss.
-  - The Advertiser account is paywalled; only its headline and opening sentence could be read, and it gives no cannabis figure.
-  - Whether the drug-driving detections led to charges or only to immediate loss-of-licence notices was not stated.
+  - title: Drugs, fireworks seized in Schoolies road blitz
+    url: https://www.adelaidenow.com.au/news/south-australia/cocaine-and-ketamine-seized-on-fleurieu-peninsula-as-victor-harbor-schoolies-begins/news-story/3809cac2c88cd77fbccd8fb55e4c6467
+    publisher: The Advertiser
 ---
 
 Police have seized a stash of illicit drugs during a crackdown on Fleurieu roads
-as Schoolies celebrations kicked off on Friday. [@2] South Australia Police said
+as Schoolies celebrations kicked off on Friday. [@2,3] South Australia Police said
 the operation was on Victor Harbor Road at Mount Compass on Friday 20 November,
 screening drivers for alcohol and conducting roadside drug tests. [@1] Eight
 drivers returned positive drug tests, including four for cannabis, three for
@@ -67,4 +63,3 @@ and seized cocaine, cannabis, MDMA, ketamine and fireworks during the operation.
 [@1] Police said they would keep a visible presence on Fleurieu roads throughout
 the Schoolies period, with motorists liable to be stopped for alcohol and drug
 testing at any time. [@1]
-
