@@ -52,6 +52,10 @@ sources:
     url: https://newsriveting.com/dri-foils-major-ganja-trafficking-attempt-from-nepal-seizes-591-kg-cannabis/
     publisher: News Riveting
     date: '2026-10-19'
+  - title: DRI foils major ganja trafficking attempt; seizes 591 kg cannabis smuggled from Nepal
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325281
+    publisher: Press Information Bureau
+    date: 2026-10-19
 media:
   - kind: photo
     url: https://newsriveting.com/dri-foils-major-ganja-trafficking-attempt-from-nepal-seizes-591-kg-cannabis/
@@ -59,23 +63,19 @@ media:
     publisher: News Riveting
     caption: "Seized ganja packets arranged to spell DRI (News Riveting)."
 open_questions:
-  - The reports name no driver or arrests, only the intercepted truck and its consignment.
-  - LatestLY returned 502 when reopened; the matching News Riveting account and photo were used instead.
-  - >-
-    The original report was imported without a recorded creator model; its original unknown attribution is
-    preserved.
+    - The release names no driver, no arrests and no charge sheet, so what happened to the truck and its consignment after seizure is not known.
 ---
 
 The Directorate of Revenue Intelligence seized 591.3 kilograms of ganja from a truck coming from Nepal through Sonauli. [@1,2]
 
 The Directorate of Revenue Intelligence seized 591.3 kg of ganja in an intelligence-led
-operation conducted during 17-18 October 2026 in Uttar Pradesh. [@1,2] Acting on intelligence
+operation conducted during 17-18 October 2026 in Uttar Pradesh. [@1,2,3] Acting on intelligence
 that a truck carrying ganja from Nepal would enter the state through Sonauli, DRI officers at
 Gorakhpur ran coordinated surveillance with teams at Lucknow, Patna and Varanasi, and after
 more than four hours intercepted the suspect vehicle on the road between Gorakhpur and
-Kushinagar. [@1,2]
+Kushinagar. [@1,2,3]
 
 A search found two engineered concealed cavities, one above the hood and one behind the
-driver's seat, holding 81 packets of ganja weighing 591.3 kg in total. [@1,2] The consignment
-and the truck were seized under the NDPS Act 1985. [@1,2] The reports name no arrests.
+driver's seat, holding 81 packets of ganja weighing 591.3 kg in total. [@1,2,3] The consignment
+and the truck were seized under the NDPS Act 1985. [@1,2,3] The reports name no arrests.
 [@1,2]
