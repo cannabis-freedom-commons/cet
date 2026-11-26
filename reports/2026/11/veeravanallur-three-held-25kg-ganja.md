@@ -40,28 +40,38 @@ sources:
     url: https://www.thehindu.com/news/cities/Madurai/three-held-with-25-kg-ganja/article71735308.ece
     publisher: The Hindu
     date: 2026-11-23
+  - title: திருநெல்வேலியில் 25 கிலோ கஞ்சா பறிமுதல்; 3 பேர் கைது | 25 kg of ganja seized in Tirunelveli; 3 arrested
+    url: https://www.dailythanthi.com/news/tamilnadu/25-kg-of-ganja-seized-in-tirunelveli-3-arrested
+    publisher: Daily Thanthi
+    date: 2026-11-23
+    language: ta
 open_questions:
-  - The article gives no separate date for the search and arrests; 23 November 2026 is its publication date and is used as the incident date.
-  - No value estimate for the 25 kg of ganja was published.
-  - No charges, court production or remand outcome were reported; further investigations are on.
-  - The whole account rests on a single opened source, The Hindu report of the police action.
+    - The article gives no separate date for the search and arrests; 23 November 2026 is its publication date and is used as the incident date.
+    - No value estimate for the 25 kg of ganja was published.
+    - No charges, court production or remand outcome were reported; further investigations are on.
+    - Both accounts reproduce the police account of the search and arrests.
+media:
+  - kind: photo
+    url: https://www.dailythanthi.com/news/tamilnadu/25-kg-of-ganja-seized-in-tirunelveli-3-arrested
+    media_url: https://media.assettype.com/dailythanthi%2F2026-11-23%2F49znpo14%2FUntitled-1.jpg?w=768&auto=format%2Ccompress&fit=max
+    publisher: Daily Thanthi
+    caption: Seized ganja reported as 25 kg in Tirunelveli with 3 arrested, in the lead photo of the DailyThanthi report.
 ---
 
 Veeravanallur police arrested three men, including two history-sheeters, for
-allegedly possessing 25 kg of ganja. [@1] Deputy Superintendent of Police of
+allegedly possessing 25 kg of ganja. [@1,2] Deputy Superintendent of Police of
 Cheranmahadevi, Aswath Anto Arockiyaraj, received information that a huge
-quantity of ganja was stocked in the forest near Veeravanallur. [@1] When the
+quantity of ganja was stocked in the forest near Veeravanallur. [@1,2] The operation was part of intensive district monitoring ordered by Tirunelveli Superintendent of Police Vishvesh B. Sasthri to stop drug trafficking and sale. [@2] When the
 DSP and his team searched the area, they spotted Shankar Ganesh, 36, Maharajan,
 37, and Rahul, 25, all from Veeravanallur, roaming around in the secluded area
-in a suspicious manner. [@1] All three men are from Veeravanallur. [@1]
+in a suspicious manner. [@1] The stash was in the forest behind the South Veeravanallur bus stop. [@2] All three men are from Veeravanallur. [@1]
 
 When they were grilled, they reportedly confessed to the police that they had 25
 kg of ganja in the forest. [@1] The ganja was seized by the police team. [@1]
 The seizure totalled 25 kg of ganja allegedly held by the three men in the
-forest. [@1]
+forest. [@1,2]
 
-Police said Shankar Ganesh and Maharajan are both history-sheeters. [@1] Police
+Police said Shankar Ganesh and Maharajan are both history-sheeters. [@1,2] Police
 said the two men were facing several cases in the Veeravanallur area and went
-underground after registration of the cases. [@1] Further investigations are on.
+underground after registration of the cases. [@1] The two history-sheeters had gone underground in a Veeravanallur station case over violence and damage to public property. [@2] Further investigations are on.
 [@1]
-
