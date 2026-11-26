@@ -71,19 +71,28 @@ sources:
     publisher: la Repubblica
     date: 2026-11-21
     language: it
+  - title: A10, scoperti 300 chili di hashish nascosti in un tir carico di alimentari
+    url: https://www.primocanale.it/attualit%C3%A0/73880-tir-carico-droga-nascosta-alimentari.html
+    publisher: Primocanale
+    date: 2026-11-21
+    language: it
+open_questions:
+    - The weight was reported as about 300 kilograms rather than an exact figure.
+    - No street value was published for the hashish.
+    - No charge decision or court outcome was reported; the driver was left at the disposal of prosecutors in Savona.
 ---
 
 Police in Imperia stopped a 58-year-old truck driver coming from Spain at a
-motorway service area on the A10 for a routine check. [@1,4,5] Officers of the
+motorway service area on the A10 for a routine check. [@1,4,5,6] Officers of the
 Imperia traffic police noticed plastic sacks among the otherwise ordinary food
-cargo. [@1,4,5] The driver's nervousness led them to search the semi-trailer
-further. [@1,4] The police statement dates the arrest to the late afternoon of 5
+cargo. [@1,4,5,6] The driver's nervousness led them to search the semi-trailer
+further. [@1,4,6] The police statement dates the arrest to the late afternoon of 5
 November 2026, when the man was driving an articulated lorry from Spain towards
-Italy. [@2]
+Italy. [@2,6]
 
-Inside the sacks were blocks of hashish wrapped in multicoloured paper. [@1,4,5] The
+Inside the sacks were blocks of hashish wrapped in multicoloured paper. [@1,4,5,6] The
 traffic police put the haul at about 300 kilograms of hashish, three quintali.
 [@2,4] Riviera Time reported that the hashish travelled alongside a regular cargo
 of food products and gave the same total of about 300 kilograms. [@3] The driver
 was taken to the Marassi prison in Genoa and placed at the disposal of the
-judicial authority in Savona. [@2,5]
+judicial authority in Savona. [@2,5,6]
