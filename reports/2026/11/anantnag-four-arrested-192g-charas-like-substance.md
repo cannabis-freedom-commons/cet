@@ -46,24 +46,24 @@ sources:
     url: https://thekashmirhorizon.com/2026/11/23/police-hold-security-review-meet-in-srinagar-arrest-four-drug-peddlers-in-anantnag/
     publisher: The Kashmir Horizon
     date: 2026-11-23
-open_questions:
-  - No separate date was given for the four naka checks; 23 November 2026 is the publication date and is used as the incident date.
-  - All weights are police field figures described as around or approximately, with no laboratory confirmation reported.
-  - No custody decisions, charges beyond registered cases, or court outcomes were reported.
+  - title: Four Drug Peddlers Arrested, Contraband Seized in Anantnag
+    url: https://kashmirlife.net/four-drug-peddlers-arrested-contraband-seized-in-anantnag-462359/
+    publisher: Kashmir Life
+    date: 2026-11-23
 ---
 
 Police arrested four alleged drug peddlers in separate operations in Anantnag
 district and recovered around 192 grams of charas-like substance from their
-possession. [@1] The arrests were made during separate naka checking operations
+possession. [@1,3] The arrests were made during separate naka checking operations
 by police teams from Bijbehara, Sangam and Anantnag police stations. [@1]
 Anantnag Police arrested two more persons in separate incidents in addition to
 the Bijbehara and Sangam interceptions. [@1]
 
 A Bijbehara police team apprehended Rafiq Ahmad Bhat of Krandigam during naka
 checking on the Bijbehara-Opzan road near Kirkadal and recovered around 170
-grams of charas from his possession. [@1] A Police Post Sangam team apprehended
+grams of charas from his possession. [@1,3] A Police Post Sangam team apprehended
 Bashir Ahmad Mir of Kawni in Pulwama district at Naina GB Khalil and recovered
-around eight grams of charas. [@1] Ajaz Ahmad Malik of Mattan Chowk was
+around eight grams of charas. [@1,3] Ajaz Ahmad Malik of Mattan Chowk was
 apprehended with around eight grams of charas-like substance, while Zohaib
 Quyoom of Nazuk Mohalla, Achabal Adda, was arrested with around six grams of
 charas. [@1]
@@ -71,5 +71,4 @@ charas. [@1]
 The second account likewise reported Ajaz Ahmad Malik of Mattan Chowk with
 around 8 grams and Zohaib Quyoom of Nazuk Mohalla, Achabal Adda, with
 approximately 6 grams. [@2] Police said cases have been registered in all four
-incidents and further investigation has been initiated. [@2]
-
+incidents and further investigation has been initiated. [@2,3]
