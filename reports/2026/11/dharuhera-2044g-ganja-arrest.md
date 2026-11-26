@@ -2,19 +2,18 @@
 added_at_source: git
 added_at: "2026-10-31T17:21:21.000Z"
 code: ZBYQ9C
-date: 2026-10-21
+date: 2026-11-22
 country: in
 place: Dharuhera, Rewari district, Haryana
 coordinates: [28.22, 76.78]
 precision: locality
 type: arrest
 also: [seizure, raid]
-title: Rewari police arrest man with 2.044 kg of ganja in Dharuhera
-summary: >-
-  Rewari police arrested Amit Sharma, a Himachal Pradesh native living in Dharuhera, on the night of 21–22 October 2026 after finding 2 kg 44 g of ganja hidden under empty liquor boxes in his rented room. Police registered an FIR under the NDPS Act and said they were questioning him about the source of the drug and others in the trafficking network.
+title: Second arrest over 2.044 kg ganja seizure in Dharuhera
+summary: Dharuhera police arrested Harinagar resident Prince alias Kukadia as the alleged supplier in the 21 October ganja case involving 2.044 kg. Prince, named by earlier accused Amit Sharma, was taken on a production warrant and placed on one-day police remand.
 figures:
-  arrested: 1
-  kg_seized: 2.044
+    arrested: 2
+    kg_seized: 2.044
 media:
   - kind: photo
     url: https://www.bhaskar.com/local/haryana/rewari/bawal/news/rewari-dharuhera-police-arrest-ganja-smuggler-drugs-seized-139453327.html
@@ -28,10 +27,12 @@ details:
   products:
     - {product: flower}
 data_sources:
-  details.activity: [2, 1]
-  details.agency_types: [1, 3, 2]
-  details.case_stage: [2, 1]
-  details.products: [1, 2, 3]
+    details.activity: [2, 1]
+    details.agency_types: [1, 3, 2]
+    details.case_stage: [2, 1]
+    details.products: [1, 2, 3]
+    figures.arrested: [4]
+    figures.kg_seized: [4]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0fda333da4afaa7c1c9b9f2be499b395
@@ -52,6 +53,11 @@ sources:
     publisher: Punjab Kesari Haryana
     date: 2026-10-22
     language: hi
+  - title: Rewari News:गांजा उपलब्ध कराने के मामले में एक और आरोपी गिरफ्तार - Another Accused Arrested In Connection With The Supply Of Cannabis - Rewari News
+    url: https://www.amarujala.com/haryana/rewari/another-accused-arrested-in-connection-with-the-supply-of-cannabis-rewari-news-c-198-1-rew1001-249100-2026-11-22
+    publisher: Amar Ujala
+    date: 2026-11-22
+    language: hi
 open_questions:
   - The reports place the raid on the night of 21–22 October 2026 and give no exact time; the incident date used is 21 October, the start of that night.
   - Amar Ujala's headline gives the haul as 2.44 kg, while its text and the other reports say 2 kg 44 g (2.044 kg); the report uses 2.044 kg.
@@ -59,6 +65,8 @@ open_questions:
   - The reports do not say whether Sharma was produced in court, remanded or formally charged; they record only that an FIR was registered under the NDPS Act.
   - Dainik Bhaskar's visible text stopped after its opening paragraph without an app login; the fuller account was read in Hindusthan Samachar, Amar Ujala and Punjab Kesari Haryana.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Rewari police arrested a man with 2 kg 44 g of ganja in Dharuhera.'
+  - No separate date is given for Prince's arrest; 22 November 2026 is the publication date of the Amar Ujala account and is used as the incident date.
+  - No court outcome beyond Prince's one-day police remand was reported.
 ---
 
 He was identified as Amit Sharma, a native of Ranital village in Kangra
@@ -69,12 +77,11 @@ Inspector Yogesh Hooda led the team that caught him at the spot, according to a
 police statement. [@2]
 
 Officers searched his rented room in the presence of a duty magistrate and found
-two bundles of ganja hidden under empty liquor boxes. [@2] The bundles weighed 2
-kg 44 g in total. [@2] Police also seized a digital scale, polythene and a
+two bundles of ganja hidden under empty liquor boxes. [@2,4] The bundles weighed 2
+kg 44 g in total. [@2,4] Police also seized a digital scale, polythene and a
 stapler. [@1]
 
 The arrest came during a district campaign against drug smugglers. [@2] A case
 was registered against him at Dharuhera police station under the Narcotic Drugs
 and Psychotropic Substances (NDPS) Act. [@2] Police said they were questioning
-him about where the ganja came from and who else was involved in the trade. [@1]
-
+him about where the ganja came from and who else was involved in the trade. [@1] During the remand police will question him about the ganja supply and others in the network. [@4] Prince was produced in court and taken on one-day police remand. [@4] Dharuhera police arrested Harinagar resident Prince alias Kukadia on a production warrant from the court. [@4] Amit Sharma told police that Prince alias Kukadia had supplied the ganja. [@4]
