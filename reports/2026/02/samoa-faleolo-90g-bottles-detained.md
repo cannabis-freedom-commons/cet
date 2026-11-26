@@ -59,6 +59,10 @@ sources:
     publisher: Samoa Observer
     date: 2026-02-11
     language: en
+  - title: Drugs seized from passenger arriving in Samoa on Fiji Airways flight
+    url: https://www.fijitimes.com.fj/drugs-seized-from-passenger-arriving-in-samoa-on-fiji-airways-flight/
+    publisher: The Fiji Times
+    date: 2026-02-11
 media:
   - kind: photo
     url: https://www.rnz.co.nz/news/pacific/586643/samoa-authorities-detain-nz-passport-holder-following-marijuana-seizure-at-faleolo-international-airport
@@ -73,6 +77,7 @@ media:
 open_questions:
     - Police did not confirm whether the passenger was travelling straight from Nadi or transiting.
     - One account said the man was held in custody for further investigation, while the Samoa Observer reported that he was released after being charged with possession of marijuana.
+    - Accounts differ on whether the interception happened on 11 or 12 February 2026.
 ---
 
 A 43-year-old Samoan national holding a New Zealand passport was detained in
@@ -82,10 +87,10 @@ Faleolo International Airport on February 12, 2026. [@1,3,4][@2]
 The man, who resides in Australia, arrived on a Fiji Airways flight and was
 intercepted during routine border clearance; officers found six bottles
 containing marijuana along with a cannabis grinder and rolling papers in his
-possession. [@1,3,4,5][@2]
+possession. [@1,3,4,5,6][@2]
 
 The Ministry of Customs and Samoa Police said in a joint statement that the
 items were detected during standard screening by frontline officers and seized
-under the Customs Act and Narcotics Act. [@1,4] The man was held in custody for
+under the Customs Act and Narcotics Act. [@1,4,6] Samoa Customs commended its officers for their vigilance, saying the seizure highlighted efforts to strengthen border security and stop illicit drugs moving through international travel routes. [@6] The man was held in custody for
 further investigation and questioning as authorities warned travellers that
 importing illicit drugs carries severe penalties under local law. [@1,3,4,5] The passenger was released after being questioned and charged with possession of marijuana. [@5][@2]
