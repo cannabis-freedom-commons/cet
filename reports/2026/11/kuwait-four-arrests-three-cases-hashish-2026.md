@@ -38,6 +38,11 @@ media:
     media_url: https://alseyassah.com/alseyassah/uploads/images/2026/11/22/151360.webp
     publisher: السياسة
     caption: Interior Ministry handout photo collage of detained suspects, faces blurred, with rows of seized drug packages laid out on a table, published with the report on the three cases. No photo credit given.
+  - kind: photo
+    url: https://www.alanba.com.kw/1386342
+    media_url: https://media.alanba.com.kw/articlefiles/2026/11/1386342-1.jpg?crop=(34,0,310,450)&cropxunits=377&cropyunits=450&w=770
+    publisher: جريدة الأنباء الكويتية
+    caption: One of the detained suspects with seized drugs and chemical-soaked papers laid out in front of him.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: adde5e0ed8dc372dfb9c0fa89e1831b3
@@ -53,6 +58,11 @@ sources:
     publisher: جريدة الأنباء الكويتية
     date: 2026-11-22
     language: ar
+  - title: ضبط 3 كيلو شبو و 109 أوراق مشبعة
+    url: https://www.alanba.com.kw/1386342
+    publisher: جريدة الأنباء الكويتية
+    date: 2026-11-24
+    language: ar
 open_questions:
   - No date is given for the arrests; 22 November 2026 is the publication date of the ministry statement and is used as the incident date.
   - The ministry gives the 250 grams of hashish as a total for the three cases and does not say which case or suspect it belonged to.
@@ -65,7 +75,7 @@ open_questions:
 
 Kuwait's Interior Ministry said its Criminal Security Sector, through the
 General Administration for Drug Control, arrested four suspects of Asian
-nationalities in three separate cases. [@1] The ministry said the men held
+nationalities in three separate cases. [@1,3] The ministry said the men held
 narcotic and psychotropic substances with intent to traffic and use them. [@1]
 In one case, information indicated that a Nepali suspect was trafficking drugs,
 and officers set an ambush and agreed to buy a quantity of shabu from him. [@2]
@@ -74,11 +84,10 @@ running sale and promotion operations, and his partner was arrested at his home.
 [@1]
 
 The ministry put the total seized in the three cases at 250 grams of hashish.
-[@1] The same total included 3 kilograms of shabu, a form of methamphetamine,
+[@1,3] The same total included 3 kilograms of shabu, a form of methamphetamine,
 109 sheets soaked in a synthetic drug known locally as 'chemical', and three
-sensitive scales. [@1]
+sensitive scales. [@1,3]
 
 The ministry described the arrests as part of continuing security efforts
 against drugs. [@1] It said the four suspects and the seized items were referred
 to the competent authority for the necessary legal measures. [@1]
-
