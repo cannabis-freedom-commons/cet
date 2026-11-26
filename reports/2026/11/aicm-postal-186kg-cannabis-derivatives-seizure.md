@@ -42,11 +42,17 @@ sources:
     publisher: Secretaría de Seguridad y Protección Ciudadana
     date: 2026-11-22
     language: es
-open_questions:
-  - No separate operation date is given; 22 November 2026 is the communiqué's publication date and is used as the incident date.
-  - The communiqué does not state the specific type of cannabis derivative beyond 24 glass jars, so no product subtype beyond cannabis derivatives is recorded.
-  - No arrests, charges, suspects, value or court outcome are reported.
-  - The methamphetamine and ketamine weights from the same operation are excluded from cannabis figures as combined totals cannot be attributed to cannabis.
+  - title: Aseguran cargamentos de metanfetamina, ketamina y cannabis en la aduana del AICM
+    url: https://latinus.us/mexico/2026/11/22/aseguran-cargamentos-de-metanfetamina-ketamina-y-cannabis-en-la-aduana-del-aicm-183159.html
+    publisher: LatinUS
+    date: 2026-11-22
+    language: es
+media:
+  - kind: photo
+    url: https://latinus.us/mexico/2026/11/22/aseguran-cargamentos-de-metanfetamina-ketamina-y-cannabis-en-la-aduana-del-aicm-183159.html
+    media_url: https://img.latinus.us/aRwofUjuQ7YIlQ3xByzWmKYQVLM7vXXrfzrtknknfyU/rs:fit:1024:0:0/q:50/f:avif/aHR0cHM6Ly9hc3NldHMubGF0aW51cy51cy9pbWcvMTc5NTM5ODczMDc5OC1uODZ5a2YuanBn
+    publisher: LatinUS
+    caption: 'Seized postal shipments from the AICM customs operation. Photo: X: @GabSeguridadMX via LatinUS'
 ---
 
 Officers from Mexico's National Customs Agency, the Attorney General's Office,
@@ -56,10 +62,10 @@ at the mechanized postal customs section of Mexico City International Airport.
 physical inspections aimed at increasingly sophisticated concealment methods in
 postal shipments. [@1] All of the substances were confirmed by laboratory
 analysis. [@1] The seized goods were formally handed to Attorney General's
-Office staff to continue the corresponding investigations. [@1]
+Office staff to continue the corresponding investigations. [@1,2]
 
 Officers found 1.86 kilos of cannabis derivatives held in 24 glass jars in an
-import shipment from California, United States. [@1] In the same postal
+import shipment from California, United States. [@1,2] In the same postal
 operation officers found 3.06 kilos of methamphetamine hydrochloride hidden
 inside a parcel containing air pumps in an export shipment bound for Cyprus.
 [@1] Officers also found 1.090 kilos of methamphetamine hydrochloride hidden in
@@ -73,4 +79,3 @@ The customs agency said the seizures confirm the effectiveness of
 interinstitutional collaboration and the use of customs technology and
 intelligence against drug trafficking, and reiterated its commitment to the
 security of the international logistics chain. [@1]
-
