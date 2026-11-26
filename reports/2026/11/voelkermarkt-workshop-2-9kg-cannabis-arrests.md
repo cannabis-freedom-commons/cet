@@ -77,9 +77,11 @@ sources:
     publisher: Kleine Zeitung
     date: 2026-11-21
     language: de
-open_questions:
-    - No figure was published for the value of the 2.9 kg of cannabis herb.
-    - The accounts do not say whether the 26-year-old was charged under the Suchtmittelgesetz after the police report, or what happened to the cannabis herb seized in the car.
+  - title: Mitarbeiter entdeckte Cannabiskraut in Auto
+    url: https://www.krone.at/4385043
+    publisher: Kronen Zeitung
+    date: 2026-11-21
+    language: de
 ---
 
 A workshop employee in Völkermarkt noticed a larger package of cannabis herb in
@@ -87,19 +89,19 @@ the boot of a car that was in the workshop for inspection. [@4,5,7] He reported 
 find to police at about 10:20 on 20 November 2026. [@1,5] By the time officers
 reached the workshop the car had been driven away, and an initial search was
 unsuccessful. [@2] Police got the driver to come back by saying that a tool had
-been left in the car. [@3,6] Officers stopped and provisionally arrested the two
+been left in the car. [@3,6,8] Officers stopped and provisionally arrested the two
 occupants, a 26-year-old man from Klagenfurt and a 25-year-old woman from the
-Völkermarkt district. [@3,5]
+Völkermarkt district. [@3,5,8]
 
-The package seen earlier was no longer in the car when it returned. [@3,6] The
+The package seen earlier was no longer in the car when it returned. [@3,6,8] The
 woman said she knew nothing about the cannabis, while the man initially refused
-to cooperate. [@3] The Klagenfurt public prosecutor's office ordered a
+to cooperate. [@3,8] The Klagenfurt public prosecutor's office ordered a
 court-approved search of the man's home. [@3] During the search investigators
 seized items typical of the drug scene and about 2.9 kg of cannabis herb found
-in a second vehicle. [@3,5,6,7]
+in a second vehicle. [@3,5,6,7,8]
 
 The woman was released from custody after suspicion against her was not
-substantiated. [@3,6] The man cooperated during the search, and police filed a
+substantiated. [@3,6,8] The man cooperated during the search, and police filed a
 report on him while he remained at liberty rather than holding him in custody.
-[@3,5,6] Police announced the case as a report under the Suchtmittelgesetz, the
+[@3,5,6,8] Police announced the case as a report under the Suchtmittelgesetz, the
 national narcotics law. [@3]
