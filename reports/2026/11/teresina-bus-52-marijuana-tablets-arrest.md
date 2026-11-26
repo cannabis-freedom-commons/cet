@@ -40,6 +40,11 @@ media:
     media_url: https://s03.video.glbimg.com/x240/15271846.jpg
     publisher: G1
     caption: Video still published with the report on the two men arrested with 52 tablets of marijuana during a stop of an interstate bus.
+  - kind: photo
+    url: https://www.meionews.com/piaui/presos-com-52-tabletes-de-maconha-em-caixas-alegam-que-nao-sabiam-o-que-carregavam-diz-pm-581832
+    media_url: https://www.meionews.com/uploads/imagens/2026/11/23/presos-com-52-tabletes-de-maconha-em-caixas-alegam-que-nao-sabiam-o-que-carregavam-diz-pm--3fef97f33403151e.jpg
+    publisher: meionews.com
+    caption: 'Seized drugs from the Teresina bus operation laid out for display. Photo: PMPI'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 44363a9cfec161dd10ac89913e228aed
@@ -60,32 +65,36 @@ sources:
     publisher: 180graus
     date: 2026-11-23
     language: pt
+  - title: Presos com 52 tabletes de maconha em caixas alegam que não sabiam o que carregavam, diz PM | Piauí
+    url: https://www.meionews.com/piaui/presos-com-52-tabletes-de-maconha-em-caixas-alegam-que-nao-sabiam-o-que-carregavam-diz-pm-581832
+    publisher: Portal meionews.com
+    date: 2026-11-23
+    language: pt
 open_questions:
-  - No weight or value was published for the 52 marijuana tablets, so no kilogram figure is recorded.
-  - The second detainee's identity was not disclosed; a follow-up named only José Wesley Monteiro Santos, 26.
-  - No charge, custody decision or court outcome was reported beyond procedures at the Central de Flagrantes.
-  - All three opened accounts reproduce the same military police statement and are not independent reporting.
+    - No weight or value was published for the 52 marijuana tablets, so no kilogram figure is recorded.
+    - The full identities and roles of all those taken to the Central de Flagrantes remain unclear, with Gregório Pereira Alves and bus driver Fabrício Anderson Santos named alongside José Wesley Monteiro Santos and differing totals of two arrests and three people taken for flagrante procedures.
+    - No charge, custody decision or court outcome was reported beyond the flagrante procedures at the Central de Flagrantes.
+    - All available accounts reproduce the same military police statement and are not independent reporting.
 ---
 
 Military police in Teresina arrested two passengers on the night of Sunday 22
 November 2026 during a stop of an interstate bus travelling from São Paulo to
-Teresina, near the city's bus station. [@1] The Piauí Military Police said the
+Teresina, near the city's bus station. [@1,4] The Piauí Military Police said the
 two passengers acted suspiciously and tried to get rid of a box when a patrol
 car approached. [@1] The stop was carried out by teams of the Batalhão de Rondas
 Ostensivas de Natureza Especial (BPRONE), a special ostensive patrol battalion.
-[@1] Its commander, Lieutenant Colonel Audivan Nunes, said the men tried to flee
-but were caught by the officers. [@1]
+[@1] The operation followed intelligence from the State Department for the Repression of Narcotics (DENARC) passed to BPRONE. [@4] Its commander, Lieutenant Colonel Audivan Nunes, said the men tried to flee
+but were caught by the officers. [@1,4]
 
 When they checked the box, officers found 52 tablets (tabletes) of marijuana.
-[@1] A follow-up report identified one of the detainees as José Wesley Monteiro
+[@1] One of the tablets contained skunk, and all the drugs were handed to the Civil Police with further investigation by DENARC. [@4] A follow-up report identified one of the detainees as José Wesley Monteiro
 Santos, 26, whom his family had reported missing since the Sunday night. [@2]
 The commander said a second man, whose identity was not released, was also
-arrested in the operation. [@2] His family had circulated a poster on social
+arrested in the operation. [@2] The other suspect was Gregório Pereira Alves. [@4] His family had circulated a poster on social
 media asking for help finding him, while he was already at the Central de
 Flagrantes. [@2]
 
 Both suspects were taken to the Central de Flagrantes in Teresina, where legal
-procedures were carried out. [@1] The Piauí public-security secretariat, through
+procedures were carried out. [@1,4] The bus driver was booked in flagrante together with the two men accused of receiving the drugs from São Paulo. [@4] Fabrício Anderson Santos, a bus company driver, was the third suspect. [@4] The Piauí public-security secretariat, through
 the military police, described the operation as the arrest of two men and the
 seizure of 52 marijuana tablets from a bus that had come from São Paulo. [@3]
-
