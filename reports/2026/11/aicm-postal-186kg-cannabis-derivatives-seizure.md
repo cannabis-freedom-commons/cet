@@ -57,6 +57,11 @@ sources:
     publisher: Infobae
     date: 2026-11-22
     language: es
+  - title: Aseguran metanfetamina, ketamina y derivados de cannabis en aduana del AICM
+    url: https://elheraldoslp.com.mx/new/2026/11/22/aseguran-metanfetamina-ketamina-y-derivados-de-cannabis-en-aduana-del-aicm/
+    publisher: El Heraldo de San Luis Potosí
+    date: 2026-11-22
+    language: es
 media:
   - kind: photo
     url: https://latinus.us/mexico/2026/11/22/aseguran-cargamentos-de-metanfetamina-ketamina-y-cannabis-en-la-aduana-del-aicm-183159.html
@@ -89,11 +94,11 @@ at the mechanized postal customs section of Mexico City International Airport.
 [@1,3,4] The detections followed non-intrusive X-ray screening and selective
 physical inspections aimed at increasingly sophisticated concealment methods in
 postal shipments. [@1,4] All of the substances were confirmed by laboratory
-analysis. [@1] The seized goods were formally handed to Attorney General's
-Office staff to continue the corresponding investigations. [@1,2,4]
+analysis. [@1,5] The seized goods were formally handed to Attorney General's
+Office staff to continue the corresponding investigations. [@1,2,4,5]
 
 Officers found 1.86 kilos of cannabis derivatives held in 24 glass jars in an
-import shipment from California, United States. [@1,2,3,4] In the same postal
+import shipment from California, United States. [@1,2,3,4,5] In the same postal
 operation officers found 3.06 kilos of methamphetamine hydrochloride hidden
 inside a parcel containing air pumps in an export shipment bound for Cyprus.
 [@1,3] Officers also found 1.090 kilos of methamphetamine hydrochloride hidden in
