@@ -62,6 +62,11 @@ sources:
     publisher: Swara Bhayangkara
     date: 2026-11-20
     language: id
+  - title: Napi Lapas Cilegon Kendalikan Peredaran 1 Kg Ganja, Kirim Paket "Shinchan" ke Kekasih di Kemayoran
+    url: https://megapolitan.kompas.com/read/2026/11/23/13353731/napi-lapas-cilegon-kendalikan-peredaran-1-kg-ganja-kirim-paket-shinchan
+    publisher: Kompas.com
+    date: 2026-11-23
+    language: id
 open_questions:
   - The quantity was reported as about one kilogram by two accounts, but the police press release gives a net weight of 940 grams; 940 grams is used in the figures.
   - The arrest was placed at about 00:30 on 3 November 2026 by the police and Kompas, while the primary account gives only its 20 November publication date.
@@ -69,6 +74,12 @@ open_questions:
   - P was described both as an inmate whom officers went to question at Cilegon prison and, in the police statement, as a man on a wanted list, leaving his status unclear.
   - No trial date or court outcome was reported, and police said the investigation was continuing.
   - No value was published for the seized cannabis.
+media:
+  - kind: photo
+    url: https://megapolitan.kompas.com/read/2026/11/23/13353731/napi-lapas-cilegon-kendalikan-peredaran-1-kg-ganja-kirim-paket-shinchan
+    media_url: https://asset.kompas.com/crops/eYJlklPocvpIKXTd7b-FywIx3PY=/0x0:0x0/1200x800/data/photo/2026/11/23/6b03c89666b91.jpg
+    publisher: Kompas.com
+    caption: 'Kemayoran police officers with the 31-year-old woman accused of acting as the intermediary for a one-kilogram cannabis parcel sent from Cilegon prison. Photo: Ridho Danu Prasetyo/Kompas.com'
 ---
 
 Police in Kemayoran, Central Jakarta, arrested a 31-year-old woman identified
@@ -85,13 +96,12 @@ conference at the Kemayoran station on Friday 20 November 2026. [@4] Police put
 the total net weight of the cannabis at 940 grams. [@3] The package was hidden
 in a box printed with the Crayon Shinchan cartoon, and officers also seized a
 used cannabis cigarette end, a packet of rolling papers and two mobile phones.
-[@3]
+[@3] Police said the inmate P sent the cannabis parcel from Cilegon prison to IAP through a parcel delivery service. [@5]
 
 She told police the cannabis was not hers but had been left with her by her
 boyfriend P, an inmate at Cilegon prison serving a sentence in a similar case.
 [@2] Police said P controlled the drug trade from behind bars and used IAP to
-pass the package on to a buyer. [@2] A police statement said P had been placed
+pass the package on to a buyer. [@2,5] A police statement said P had been placed
 on a wanted list and investigators were still hunting the supplier. [@3] IAP was
 charged under Article 114 of Indonesia's Narcotics Law, which carries a maximum
-12-year prison term. [@2]
-
+12-year prison term. [@2,5]
