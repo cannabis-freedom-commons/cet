@@ -82,6 +82,11 @@ sources:
     publisher: صوت الأمة
     date: 2026-11-23
     language: ar
+  - title: ضبط مخدرات وأقراص مخدرة وسجائر مهربة قيمتها 6.75 مليار جنيه بمطروح
+    url: https://mena.org.eg/ar/news/%D8%B6%D8%A8%D8%B7-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%82%D8%B1%D8%A7%D8%B5-%D9%85%D8%AE%D8%AF%D8%B1%D9%87-%D9%88%D8%B3%D8%AC%D8%A7%D9%8A%D8%B1-f5057d4d-7c85-4d60-b9f0-399544520d57
+    publisher: Middle East News Agency
+    date: 2026-11-23
+    language: ar
 media:
   - kind: photo
     url: https://www.elaosboa.com/3031709/
@@ -122,18 +127,18 @@ media:
 
 Security forces ambushed and detained members of a gang described as highly
 dangerous criminals while they were in Matrouh Governorate, with the Central
-Security Sector taking part. [@1,2,3,7,8,9,10] Legal procedures were taken after the
+Security Sector taking part. [@1,2,3,7,8,9,10,11] Legal procedures were taken after the
 detentions. [@1,4,5,6,8,10]
 
 Officers seized about one million Tramadol pills, 250 kg of hashish and one
 million smuggled cigarette packs, which police valued together at about 250
-million pounds. [@1,2,3,4,5,6,7,8,9,10] They also seized five million Captagon pills, which police
+million pounds. [@1,2,3,4,5,6,7,8,9,10,11] They also seized five million Captagon pills, which police
 valued at 6.5 billion pounds in the destination countries, for a combined total
-of about 6.75 billion pounds. [@1,2,3,4,5,6,7,8,9,10]
+of about 6.75 billion pounds. [@1,2,3,4,5,6,7,8,9,10,11]
 
 The operation followed information and investigations by the Sector for
 Combating Drugs, Unlicensed Arms and Ammunition, Egypt's anti-narcotics body, in
-coordination with other Interior Ministry agencies. [@1,4,5,7,8,10] Investigators said the
+coordination with other Interior Ministry agencies. [@1,4,5,7,8,10,11] Investigators said the
 gang brought large quantities of drugs, pills and smuggled cigarettes through
 desert tracks in Matrouh Governorate for sale inside Egypt and in other
-countries. [@1,2,3,4,5,6,8,10]
+countries. [@1,2,3,4,5,6,8,10,11]
