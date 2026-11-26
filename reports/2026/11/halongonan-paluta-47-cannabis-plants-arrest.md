@@ -59,6 +59,16 @@ media:
     media_url: https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2026/11/24/14ade1e00886461a905ac97d2d665c2c.smil/playlist.m3u8
     publisher: 20Detik
     caption: 20Detik news video on the cannabis field found at Tapus Jae and the plants, dried cannabis and seeds seized.
+  - kind: photo
+    url: https://www.liputan6.com/regional/read/8341190/terbongkarnya-ladang-ganja-milik-petani-di-pedalaman-sumut
+    media_url: https://cdn1-production-images-kly.akamaized.net/I_TbXTIax7Gw62JYD89Ef1jYt80=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9404274/original/050619300_1795490709-IMG_6614.jpg
+    publisher: Liputan6.com
+    caption: 'Cannabis field belonging to the farmer in Padang Lawas Utara. Photo: Liputan6.com/ Dok Ist'
+  - kind: photo
+    url: https://www.liputan6.com/regional/read/8341190/terbongkarnya-ladang-ganja-milik-petani-di-pedalaman-sumut
+    media_url: https://cdn1-production-images-kly.akamaized.net/E9L1Ffzql-AgqLnnZRQ9FxCACQU=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9404275/original/056651900_1795490709-IMG_6610.jpg
+    publisher: Liputan6.com
+    caption: 'Police found a sack of dried cannabis ready for use. Photo: Liputan6.com/ Dok Ist'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 1152c9e46eedd8d438408ea53d68972d
@@ -94,6 +104,11 @@ sources:
     publisher: 20Detik
     date: 2026-11-24
     language: id
+  - title: Terbongkarnya Ladang Ganja Milik Petani di Pedalaman Sumut
+    url: https://www.liputan6.com/regional/read/8341190/terbongkarnya-ladang-ganja-milik-petani-di-pedalaman-sumut
+    publisher: Liputan6.com
+    date: 2026-11-24
+    language: id
 open_questions:
   - No precise weight was published for the dried cannabis in the sacks and ampoules; one account described it only as dozens of kilograms.
   - The five-hectare area was reported by Tribun Medan and is not repeated in the other accounts of the police statement.
@@ -104,16 +119,16 @@ open_questions:
 
 North Padang Lawas narcotics officers arrested a 29-year-old man identified as
 TMS at his home in Japinulik, Tapus Jae village, Halongonan district, at about
-06:30 WIB on 23 November 2026. [@1] An account quoting the police chief gives
-his full name as Toga Muslim Siregar, 29. [@3] The operation developed from the
+06:30 WIB on 23 November 2026. [@1,7] An account quoting the police chief gives
+his full name as Toga Muslim Siregar, 29. [@3,7] The operation developed from the
 arrest of Hanif Armadi Siregar in Batang Baruar the day before, on Sunday 22
-November 2026. [@1]
+November 2026. [@1,7]
 
 At the house officers found cannabis packets hidden in several places, including
-under a bed, and a brown cloth parcel of cannabis seeds in the kitchen. [@1] He
+under a bed, and a brown cloth parcel of cannabis seeds in the kitchen. [@1,7] He
 confessed and showed officers the plot he said was his. [@1] At the plot
 officers found 28 rooted cannabis plants still in the ground and 19 rooted
-stalks from a previous harvest, 47 plants in total. [@1] Police seized three
+stalks from a previous harvest, 47 plants in total. [@1,7] Police seized three
 sacks of cannabis from the house and plot. [@1] They also took one large and
 three small ampoules of cannabis, the seed parcel and an OPPO mobile phone
 believed to be linked to transactions. [@1] Officers also seized dried cannabis
@@ -129,4 +144,3 @@ laboratory for testing. [@2] Police said he could face charges under Articles
 111(2) and 114(2) of the 2009 Narcotics Law, which carry a maximum of death or
 life imprisonment. [@4] Police said the disclosure was part of their effort to
 uncover sources of production and planting sites in the regency. [@5]
-
