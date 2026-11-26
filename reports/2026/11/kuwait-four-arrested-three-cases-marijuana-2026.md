@@ -90,6 +90,11 @@ sources:
     publisher: صحيفة صدى الإلكترونية
     date: 2026-11-18
     language: ar
+  - title: ضبط 4 آسيويين بحوزتهم مخدرات متنوعة في 3 قضايا بالكويت
+    url: https://egkw.com/%D8%B6%D8%A8%D8%B7-4-%D8%A2%D8%B3%D9%8A%D9%88%D9%8A%D9%8A%D9%86-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D8%AA%D9%86%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-3/
+    publisher: مصريون في الكويت
+    date: 2026-11-17
+    language: ar
 media:
   - kind: photo
     url: https://kuwaitnews.com/138939/
@@ -118,18 +123,18 @@ open_questions:
 
 Kuwait's Criminal Security Sector, acting through the General Administration for
 Drug Control, arrested four suspects of Asian nationalities in three separate
-cases, the Interior Ministry said. [@1,3,4,6,7,8,9,10,11] The ministry said the men held narcotic
+cases, the Interior Ministry said. [@1,3,4,6,7,8,9,10,11,12] The ministry said the men held narcotic
 and psychotropic substances with intent to traffic and use them, as part of
 continuing security campaigns against drugs. [@2,3,5,7,8,9,10,11] In one of the cases, officers
 arrested a Bangladeshi national in the Farwaniya area and established that a
-person living outside Kuwait was supplying him with the material. [@1,3,5,7,8,9,10,11]
+person living outside Kuwait was supplying him with the material. [@1,3,5,7,8,9,10,11,12]
 
 The ministry put the combined seizures in the three cases at 1.5 kilograms of
-marijuana and 150 grams of hashish, 1.65 kilograms of cannabis in total. [@1,3,4,6,7,8,9,10]
+marijuana and 150 grams of hashish, 1.65 kilograms of cannabis in total. [@1,3,4,6,7,8,9,10,12]
 Alongside these, officers seized 510 grams of shabu (crystal methamphetamine),
 250 sheets soaked in a synthetic substance known locally as 'chemical', and 250
 capsules of the prescription drug Lyrica, together with three sensitive scales
-and empty packaging bags. [@1,3,5,7,8,10]
+and empty packaging bags. [@1,3,5,7,8,10,12]
 
 The four suspects and all seized items were referred to the competent authority
-for the necessary legal action, the ministry said. [@2,3,4,6,7,8,9,10,11]
+for the necessary legal action, the ministry said. [@2,3,4,6,7,8,9,10,11,12]
