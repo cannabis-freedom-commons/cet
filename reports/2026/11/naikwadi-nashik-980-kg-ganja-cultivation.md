@@ -68,6 +68,11 @@ sources:
     publisher: Deshdoot
     date: 2026-11-23
     language: mr
+  - title: Nashik | नाशिकच्या गिरणारेत गांजाची शेती उद्ध्वस्त, संशयित ताब्यात; पोलिसांची प्रतिक्रिया
+    url: https://marathi.ndtv.com/videos/nashik-girnare-marijuana-cultivation-destroyed-suspect-detained-police-response-1196444
+    publisher: NDTV Marathi
+    date: 2026-11-23
+    language: mr
 open_questions:
   - No count of the individual plants was published; the haul was reported only by its 980 kg weight.
   - The material was described as fresh green plants resembling ganja, with no laboratory confirmation reported.
@@ -77,10 +82,10 @@ open_questions:
 ---
 
 Nashik taluka police took Vaman Santu Gumbade into custody as the suspect after
-the raid. [@4] The raid was carried out at midnight on Saturday 21 November
+the raid. [@4,5] The raid was carried out at midnight on Saturday 21 November
 2026, when officers seized 980 kg of green plants, leaves and branches
 resembling ganja. [@1] The crop was being grown in a remote hilly spot in the
-Naikwadi area near Girnare, concealed behind ambadi and tomato crops. [@1] It
+Naikwadi area near Girnare, concealed behind ambadi and tomato crops. [@1,5] It
 was planted on a hill field at Gat No. 145 within the Naikwadi village boundary.
 [@1] The field was far from the main road and could only be reached on foot
 because vehicles could not get to it. [@1] Naikwadi is surrounded by hills,
@@ -103,4 +108,3 @@ Police said checking the illegal drug trade before the approaching Sinhastha
 Kumbh Mela was a major challenge. [@1] Cultivation of this kind is rare in
 Nashik district, and the seizure of close to a tonne of ganja-like material was
 treated as serious. [@2]
-
