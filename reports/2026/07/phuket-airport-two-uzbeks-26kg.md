@@ -62,16 +62,22 @@ sources:
     publisher: Novosti Phuketa
     date: 2026-07-02
     language: ru
+  - title: Таможня Пхукета задержала двух граждан Узбекистана с крупной партией каннабиса
+    url: https://podrobno.uz/cat/proisshestviya/tamozhnya-pkhuketa-zaderzhala-dvukh-grazhdan-uzbekistana-s-krupnoy-partiey-kannabisa/
+    publisher: Podrobno.uz
+    date: 2026-07-02
+    language: ru
 open_questions:
     - The Phuket News reports more than 31 kilogrammes, about 31.53 kg, including 4.8 kg of resin for the second suspect, while Kun.uz details just over 26 kg; this report uses the shared 26.73 kg breakdown and notes the difference.
     - The Phuket News reports weights as including packaging, so the net cannabis weight is not known.
     - No court outcome was reported; the men were handed to Sakhu investigators and the case was still under way.
     - The intended destination of the two men's flights was not disclosed.
+    - The article closes with a separate Bukhara-region case involving over 600 cannabis and opium-poppy plants, a different event left out here.
 ---
 
 Thai customs officers detained two Uzbek citizens at Phuket International
 Airport after cannabis products were found in their luggage as they prepared to
-leave Thailand. [@1,3] Both detainees were 26 years old. [@1,3] The Phuket News
+leave Thailand. [@1,3,4] Both detainees were 26 years old. [@1,3,4] The Phuket News
 identified the first man as 26-year-old Uzbek national Nursayid Mukhiddinovich
 Mukhiddinov, found with dried flowers, resin and processed cannabis totalling
 about 15.9 kg including packaging. [@2] It identified the second man as
@@ -80,18 +86,18 @@ flowers, resin and processed cannabis totalling about 15.63 kg including
 packaging. [@2] Both men admitted owning the suitcases and voluntarily opened
 them after X-ray screening flagged suspicious contents. [@2,3] Both men were
 charged with attempting to export goods without customs clearance under the 2017
-Customs Act plus narcotics and controlled-herb offences. [@2,3] The detainees and
+Customs Act plus narcotics and controlled-herb offences. [@2,3,4] The detainees and
 seized evidence were handed to investigators at Sakhu Police Station for further
-legal action. [@1]
+legal action. [@1,4]
 
-Kun.uz reported more than 26 kilograms of cannabis products in total. [@1] Two
+Kun.uz reported more than 26 kilograms of cannabis products in total. [@1,4] Two
 of the first suspect's four bags held 30 packs of dried cannabis weighing 9.8 kg
 plus 14 processed items weighing 1.03 kg. [@1] The second suspect's luggage held
 9.8 kg of dried cannabis, 4.1 kg of cannabis resin and 2 kg of processed
 products. [@1] The arrests happened at about 11am on 1 July during departure
-baggage inspections after X-ray scans revealed suspicious contents. [@2]
+baggage inspections after X-ray scans revealed suspicious contents. [@2,4]
 
 Thai Customs said unlawful export of cannabis is a crime punishable by a fine of
-up to 30,000 baht per kilogram or imprisonment by court decision. [@1] Phuket
+up to 30,000 baht per kilogram or imprisonment by court decision. [@1,4] Phuket
 authorities intend to tighten cannabis controls amid a rise in cases involving
 foreign tourists. [@1]
