@@ -62,12 +62,17 @@ sources:
     publisher: Politika
     date: 2026-11-22
     language: sr
+  - title: 'ПРОНАЂЕНО ВИШЕ ОД 100 КИЛОГРАМА ДРОГЕ: Ухапшени мушкарац и жена'
+    url: https://www.novosti.rs/c/planeta/region/1673674/pronadjeno-vise-100-kilograma-droge-uhapseni-muskarac-zena
+    publisher: Novosti
+    date: 2026-11-22
+    language: sr
 ---
 
 Zagreb police arrested a 43-year-old man and a 39-year-old woman on suspicion of
 procuring drugs for further resale. [@1,3,5] The suspects hid the drugs in houses in
 Graberje Ivanicko, where they mixed them with additives and repackaged them.
-[@1,3]
+[@1,3,6]
 
 Officers searched the first house on the afternoon of 21 November and found 562
 grams of cocaine in five vacuum-sealed bags, 1,012 grams of filler, a digital
@@ -76,10 +81,10 @@ house officers found a 12-millimetre semi-automatic shotgun with four
 cartridges, a semi-automatic Ruger pistol with 14 rounds of 9x19-millimetre
 ammunition, and 44 more rounds of the same calibre. [@2] In the second house
 officers found two cardboard boxes holding a total of 101.4 kilograms of
-marijuana. [@1,3]
+marijuana. [@1,3,6]
 
 After criminal processing, the suspects were handed over to detention and a
 criminal complaint was filed against them on suspicion of unauthorised
-production and trafficking of drugs. [@1,3,4,5] The 43-year-old man was also reported
+production and trafficking of drugs. [@1,3,4,5,6] The 43-year-old man was also reported
 for an offence under the law on civilian acquisition and possession of weapons,
 with a proposal to be filed to the municipal court in Velika Gorica. [@2]
