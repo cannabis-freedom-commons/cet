@@ -1,0 +1,132 @@
+---
+code: DA0DW3
+added_at: "2026-11-26T22:30:13.863239Z"
+date: 2026-11-23
+country: id
+place: Japinulik, Desa Tapus Jae, Kecamatan Halongonan, Padang Lawas Utara, North Sumatra
+coordinates: [1.5756, 99.7232]
+precision: district
+type: arrest
+also: [seizure]
+title: 47 cannabis plants seized and one man arrested in Halongonan field raid
+summary: >-
+  North Padang Lawas narcotics police arrested a 29-year-old man, Toga Muslim Siregar, at his home in Halongonan on 23 November 2026 and seized 47 cannabis plants from his plot. Police reported a five-hectare field, three sacks of dried cannabis, ampoules, seeds and a phone; no court outcome was reported.
+figures:
+  arrested: 1
+  plants_destroyed: 47
+  hectares: 5
+details:
+  agencies: [Satresnarkoba Polres Padang Lawas Utara]
+  agency_types: [police, anti-narcotics]
+  products:
+    - {product: plants, plants: 47}
+    - {product: flower}
+    - {product: seeds}
+  activity: [cultivation, possession, sale]
+  setting: [home, field]
+  environment: [outdoor]
+  charges: [cultivating and trafficking cannabis under Articles 111(2) and 114(2) of Law No. 35 of 2009]
+  case_stage: investigation
+  force: [none-reported]
+  date_precision: exact
+  region: North Sumatra
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [2]
+  details.charges: [4]
+  details.environment: [4]
+  details.force: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.hectares: [4]
+  figures.plants_destroyed: [1]
+media:
+  - kind: photo
+    url: https://sumutpos.jawapos.com/hukum-kriminal/2611240006/kembangkan-kasus-narkoba-polres-paluta-bongkar-ladang-ganja-di-halongonan
+    media_url: https://cdn-jjmn.jawapos.com/images/15/2026/11/24/tersangka-yang-diamankan-karena-menanam-ganja-mitrasumut-pos-e7fa6.webp
+    publisher: Sumut Pos
+    caption: 'The man detained for growing cannabis. Photo: Mitra/Sumut Pos'
+  - kind: photo
+    url: https://sumut.antaranews.com/berita/678651/polres-paluta-ungkap-ladang-ganja-di-halongonan-28-batang-tanaman-disita
+    media_url: https://cdn.antaranews.com/cache/1200x800/2026/11/24/1001913051.jpg
+    publisher: ANTARA News Sumatera Utara
+    caption: 'The suspect detained by the North Padang Lawas narcotics unit. Photo: Hms Polres Paluta/ANTARA'
+  - kind: video
+    url: https://20.detik.com/detikupdate/20261124-261124084/video-polisi-temukan-ladang-ganja-milik-warga-di-padang-lawas-utara
+    media_url: https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2026/11/24/14ade1e00886461a905ac97d2d665c2c.smil/playlist.m3u8
+    publisher: 20Detik
+    caption: 20Detik news video on the cannabis field found at Tapus Jae and the plants, dried cannabis and seeds seized.
+status: verified
+created_by_model: opencode-go/hy4-flash-free#high
+submission: 1152c9e46eedd8d438408ea53d68972d
+tags: [halongonan, padang-lawas-utara, ganja, north-sumatra, ladang-ganja]
+sources:
+  - title: Kembangkan Kasus Narkoba, Polres Paluta Bongkar Ladang Ganja di Halongonan
+    url: https://sumutpos.jawapos.com/hukum-kriminal/2611240006/kembangkan-kasus-narkoba-polres-paluta-bongkar-ladang-ganja-di-halongonan
+    publisher: Sumut Pos
+    date: 2026-11-24
+    language: id
+  - title: Polres Paluta ungkap ladang ganja di Halongonan, 28 batang tanaman disita
+    url: https://sumut.antaranews.com/berita/678651/polres-paluta-ungkap-ladang-ganja-di-halongonan-28-batang-tanaman-disita
+    publisher: ANTARA News Sumatera Utara
+    date: 2026-11-24
+    language: id
+  - title: Polisi Temukan Ladang Ganja di Paluta, 47 Batang Tanaman Diamankan
+    url: https://www.detik.com/sumut/hukum-dan-kriminal/d-8767602/polisi-temukan-ladang-ganja-di-paluta-47-batang-tanaman-diamankan
+    publisher: detikSumut
+    date: 2026-11-24
+    language: id
+  - title: Tembus Hutan 3 Jam Naik Motor Trail, Kapolres Paluta Gerebek Ladang Ganja 5 Hektare di Halongonan
+    url: https://medan.tribunnews.com/news/1821303/tembus-hutan-3-jam-naik-motor-trail-kapolres-paluta-gerebek-ladang-ganja-5-hektare-di-halongonan
+    publisher: Tribun Medan
+    date: 2026-11-24
+    language: id
+  - title: Polres Paluta Ungkap Ladang Ganja di Halongonan, Seorang Pria Diamankan
+    url: https://www.gosumut.com/berita/baca/2026/11/24/polres-paluta-ungkap-ladang-ganja-di-halongonan-seorang-pria-diamankan
+    publisher: GoSumut.com
+    date: 2026-11-24
+    language: id
+  - title: 'Video: Polisi Temukan Ladang Ganja Milik Warga di Padang Lawas Utara'
+    url: https://20.detik.com/detikupdate/20261124-261124084/video-polisi-temukan-ladang-ganja-milik-warga-di-padang-lawas-utara
+    publisher: 20Detik
+    date: 2026-11-24
+    language: id
+open_questions:
+  - No precise weight was published for the dried cannabis in the sacks and ampoules; one account described it only as dozens of kilograms.
+  - The five-hectare area was reported by Tribun Medan and is not repeated in the other accounts of the police statement.
+  - No formal charge, court date or verdict was reported; the articles describe only the maximum penalty the suspect could face.
+  - Laboratory results for the seized plants and dried cannabis were still pending.
+  - Most accounts identify the suspect only by the initials TMS; detikSumut and 20Detik give his name as Toga Muslim Siregar.
+---
+
+North Padang Lawas narcotics officers arrested a 29-year-old man identified as
+TMS at his home in Japinulik, Tapus Jae village, Halongonan district, at about
+06:30 WIB on 23 November 2026. [@1] An account quoting the police chief gives
+his full name as Toga Muslim Siregar, 29. [@3] The operation developed from the
+arrest of Hanif Armadi Siregar in Batang Baruar the day before, on Sunday 22
+November 2026. [@1]
+
+At the house officers found cannabis packets hidden in several places, including
+under a bed, and a brown cloth parcel of cannabis seeds in the kitchen. [@1] He
+confessed and showed officers the plot he said was his. [@1] At the plot
+officers found 28 rooted cannabis plants still in the ground and 19 rooted
+stalks from a previous harvest, 47 plants in total. [@1] Police seized three
+sacks of cannabis from the house and plot. [@1] They also took one large and
+three small ampoules of cannabis, the seed parcel and an OPPO mobile phone
+believed to be linked to transactions. [@1] Officers also seized dried cannabis
+and cannabis seeds from the house. [@6]
+
+Tribun Medan reported the field covered five hectares on hillsides in
+Halongonan, with some plants just harvested. [@4] The police chief said the raid
+team rode trail motorcycles for three hours through dense forest on steep,
+damaged roads. [@4] TMS and the evidence were taken to the Paluta police station
+for further examination and investigation. [@2] Investigators said they were
+questioning witnesses and had sent evidence to the North Sumatra police forensic
+laboratory for testing. [@2] Police said he could face charges under Articles
+111(2) and 114(2) of the 2009 Narcotics Law, which carry a maximum of death or
+life imprisonment. [@4] Police said the disclosure was part of their effort to
+uncover sources of production and planting sites in the regency. [@5]
+
