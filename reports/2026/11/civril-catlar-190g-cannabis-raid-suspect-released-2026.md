@@ -61,17 +61,22 @@ sources:
     publisher: Mersin Haber
     date: 2026-11-22
     language: tr
+  - title: 'Çivril''de uyuşturucu operasyonunda önemli yakalama: hassas terzi ve haplar ele geçirildi | Haber365'
+    url: https://www.haber365.com/haber/civrilde-uyusturucu-operasyonunda-onemli-yakalama-hassas-terzi-ve-haplar-ele-gecirildi-490273
+    publisher: Haber365
+    date: 2026-11-22
+    language: tr
 ---
 
 Denizli İl Emniyet Müdürlüğü's Çivril Narkotik Suçlarla Mücadele teams raided an
 address in Çatlar Mahallesi as part of their work against drug trafficking and
-use. [@1] The address had been identified in advance. [@1] The operation was a
+use. [@1,5] The address had been identified in advance. [@1] The operation was a
 narcotics raid on a house in the neighbourhood. [@3] Officers searching it
-seized 190 grams of esrar, the everyday Turkish term for cannabis. [@1,4] They
-also seized 35 synthetic pharmaceutical pills and one precision scale. [@2,4] The
+seized 190 grams of esrar, the everyday Turkish term for cannabis. [@1,4,5] They
+also seized 35 synthetic pharmaceutical pills and one precision scale. [@2,4,5] The
 quantities were entered into the police record. [@1]
 
 One suspect, identified in the reports only as İ.K., was detained in the
-operation. [@1,4] After his processing at the police station finished, he was sent
+operation. [@1,4,5] After his processing at the police station finished, he was sent
 to the judicial authorities on an accusation of drug trafficking. [@1,4] He was
-released after those proceedings. [@1,4]
+released after those proceedings. [@1,4,5]
