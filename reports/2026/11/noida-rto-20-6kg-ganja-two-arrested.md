@@ -60,32 +60,36 @@ sources:
     publisher: Now Noida
     date: 2026-11-23
     language: hi
+  - title: 'Noida News: दिल्ली-एनसीआर में गांजा सप्लाई करने वाले दो तस्कर गिरफ्तार, Noida Hindi News - Hindustan'
+    url: https://www.livehindustan.com/ncr/noida/story-noida-police-arrest-two-in-20-6-kg-cannabis-smuggling-case-201795444055559.html
+    publisher: Hindustan
+    date: 2026-11-23
+    language: hi
 open_questions:
-  - The exact spot of the blockade is described only as near the RTO office by a drainage area.
-  - No laboratory confirmation for the seized bundles was reported.
-  - No criminal backgrounds for the two men had been published.
-  - No court outcome or next hearing date was reported.
+    - The exact spot of the blockade is described only as near the RTO office by a drainage area.
+    - No laboratory confirmation for the seized bundles was reported.
+    - No court outcome or next hearing date was reported.
 ---
 
 Noida Sector-24 police and the Anti-Narcotics Cell arrested two men for
-smuggling ganja. [@1,3] The arrests took place on 22 November 2026 after the
+smuggling ganja. [@1,3,4] The arrests took place on 22 November 2026 after the
 police team received intelligence about two suspicious people involved in the
 drug trade. [@2] Officers set up a blockade near the RTO office by a drainage
-area and arrested both suspects. [@2] The arrested men were identified as
+area and arrested both suspects. [@2,4] The arrested men were identified as
 30-year-old Ajay Kumar from Daurpur village in Aligarh and 50-year-old Rajesh
-Sah from Khagaria district in Bihar. [@2,3] A case was registered against both men
-at the Sector 24 police station. [@2] Police registered the case against both men under sections 8/20 of the Narcotic Drugs and Psychotropic Substances Act. [@3]
+Sah from Khagaria district in Bihar. [@2,3,4] A case was registered against both men
+at the Sector 24 police station. [@2,4] Police registered the case against both men under sections 8/20 of the Narcotic Drugs and Psychotropic Substances Act. [@3]
 
 Officers searching the suitcase found bundles of marijuana with a total weight
-of 20.6 kilograms. [@2,3] The Hindi account records the recovery as 20 kg 600
+of 20.6 kilograms. [@2,3,4] The Hindi account records the recovery as 20 kg 600
 grams of ganja from the accused. [@1] Police estimated the seized ganja to be
-worth about Rs 10 lakh. [@1] The men had carried the bundles in a suitcase by
-train from other states to Noida. [@2] Once in the city, they repacked the drug
+worth about Rs 10 lakh. [@1,4] The men had carried the bundles in a suitcase by
+train from other states to Noida. [@2] The men brought the ganja from Odisha by Rajdhani Express in a trolley bag to sell in Delhi-NCR. [@4] Once in the city, they repacked the drug
 into smaller packets for sale at inflated prices across Noida and the National
 Capital Region. [@2]
 
 The suspects told interrogators they bought marijuana cheaply in other states to
 sell for a profit in Noida and the NCR. [@2] Authorities also recovered copies
-of travel tickets from their possession that may provide further leads. [@2] Police said they were also examining the accused's travel documents and mobile records. [@3]
+of travel tickets from their possession that may provide further leads. [@2] Police said they were also examining the accused's travel documents and mobile records. [@3] Police said no criminal history had been found for either of the two men. [@4]
 Police are investigating the origins of the marijuana and identifying associates
-in Noida and the NCR involved in the network. [@2] Preliminary questioning indicated the ganja had been brought from Odisha and hilly areas, though the exact source of the seized consignment was still being investigated. [@3]
+in Noida and the NCR involved in the network. [@2] Police were working to reach the gang through the accused's mobile call details. [@4] Preliminary questioning indicated the ganja had been brought from Odisha and hilly areas, though the exact source of the seized consignment was still being investigated. [@3]
