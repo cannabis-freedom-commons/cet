@@ -58,6 +58,11 @@ media:
     media_url: https://www.tntvnews.pf/tntv/wp-content/uploads/2026/06/716410379_1341718448059034_1040871386081196144_n.jpg
     publisher: TNTV News
     caption: 'Handout photo credited to the gendarmerie command in French Polynesia (ComgendPF), published with the TNTV article on the Hiva Oa seizures. Photo: ComgendPF'
+  - kind: photo
+    url: https://la1ere.franceinfo.fr/polynesie/tahiti/polynesie-francaise/le-controle-routier-debouche-sur-la-saisie-de-pieds-de-paka-et-plus-8-5-millions-cfp-en-cash-1707439.html
+    media_url: https://la1ere.franceinfo.fr/image/ALOVjjMsNWZuIYo9jhCRz4gLbps/0x0:740x687/720x668/filters:format(webp):quality(80)/outremer%2F2026%2F06%2F04%2F6a21cd9414eb9409943029.png
+    publisher: Polynésie La 1ère
+    caption: 'Three seized paka plants and a seized motorbike. Photo: Gendarmerie'
 status: reported
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 4ba682b530c0819c449deba036df25ba
@@ -78,29 +83,24 @@ sources:
     publisher: Radio1 Tahiti
     date: 2026-07-20
     language: fr
-open_questions:
-  - The roadside check that began the case took place in May 2026; no exact date was published.
-  - The three defendants were not named, aged or otherwise identified in the reports, which describe them only as men living and working in the Marquesas.
-  - The June statements spoke of several cannabis plants and the trial report of 14 plants grown by the supplier; no total weight of plants or number uprooted or destroyed was published.
-  - The seized cash is given as 8.51 million francs in total, about 8.3 million at the supplier's home by Tahiti Infos and exactly 8,262,500 francs by TNTV; the published components sum to 8,517,500 francs.
-  - Only the two resellers are reported to have been fined; no fine on the supplier is mentioned.
-  - The court is called only the tribunal; the reports do not say whether it was the tribunal de première instance in Papeete.
-  - No appeal or later step in the case was reported.
-  - The 74 g and 507 g were described as cannabis or paka; no laboratory confirmation of the substance was reported.
-  - 'À Hiva oa, le paka pour arrondir les fins de mois (Radio1 Tahiti) could not be opened again to check its quotations (access challenge: Cloudflare blocked access to the article; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
+  - title: 'Hiva Oa : le contrôle routier débouche sur la saisie de pieds de paka et plus 8,5 millions cfp en cash - Outre-mer La 1ère'
+    url: https://la1ere.franceinfo.fr/polynesie/tahiti/polynesie-francaise/le-controle-routier-debouche-sur-la-saisie-de-pieds-de-paka-et-plus-8-5-millions-cfp-en-cash-1707439.html
+    publisher: Polynésie La 1ère
+    date: 2026-06-04
+    language: fr
 ---
 
 Gendarmes of the Hiva Oa brigade dismantled what appeared to be a cannabis
 resale network in the Marquesas Islands, seizing 8.51 million francs and
-arresting three suspects. [@1] The case began with a roadside check on Hiva Oa
+arresting three suspects. [@1,4] The case began with a roadside check on Hiva Oa
 in May 2026. [@3] The driver tested positive for drugs in a saliva test, and a
 search of his vehicle found 74 grams of cannabis and 195,000 francs in cash.
-[@2] A search of his home found 507 grams of cannabis and another 60,000 francs,
-and he was taken into custody. [@2] Investigators identified his supplier, at
+[@2,4] A search of his home found 507 grams of cannabis and another 60,000 francs,
+and he was taken into custody. [@2,4] Investigators identified his supplier, at
 whose home they found 8,262,500 francs in cash, cannabis plants, cultivation and
 packaging equipment, a camera watching the plantation and a motorbike already
-involved in an earlier drug case. [@2] A third man involved in the network was
-also identified in the same investigation. [@1]
+involved in an earlier drug case. [@2,4] The June gendarmerie account put the number of cannabis plants seized at three, with all of the grower's equipment. [@4] A third man involved in the network was
+also identified in the same investigation. [@1,4]
 
 The three men went on trial before the tribunal on Monday 20 July 2026 for drug
 trafficking, in this case cannabis. [@3] The court sentenced the two resellers
@@ -117,4 +117,3 @@ cannabis plants grown by the supplier were shown in court. [@3] The supplier
 told the court the cash was savings accumulated over several years and belonged
 to his partner and his mother. [@3] The prosecutor said such cases were rare in
 Hiva Oa. [@3]
-
