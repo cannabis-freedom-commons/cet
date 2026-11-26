@@ -56,24 +56,22 @@ sources:
     publisher: DENİZLİ24HABER
     date: 2026-11-22
     language: tr
-open_questions:
-  - No separate date for the raid was published; 22 November 2026 is the publication date of all three accounts and stands in for the incident date.
-  - No laboratory confirmation of the cannabis or of the 35 synthetic pharmaceutical pills was reported, and the pills are excluded from the cannabis figures.
-  - No street value or estimate was published for the 190 grams of cannabis.
-  - Haberport, Haberler.com and Denizli24haber repeat the same İhlas Haber Ajansı account and are not independent reports.
-  - Whether any charge was filed against İ.K. after his release, and what happened to the case next, was not reported.
+  - title: Denizli Çivril'de Düzenlenen Uyuşturucu Operasyonunda Esrar ve Ecza Hapı Ele Geçirildi | Mersin Haber - Mersin'den Haberiniz Olsun!
+    url: https://www.mersinhaber.com/haber-denizli-civrilde-duzenlenen-uyusturucu-operasyonunda-esrar-ve-ecza-hapi-ele-gecirildi/856937
+    publisher: Mersin Haber
+    date: 2026-11-22
+    language: tr
 ---
 
 Denizli İl Emniyet Müdürlüğü's Çivril Narkotik Suçlarla Mücadele teams raided an
 address in Çatlar Mahallesi as part of their work against drug trafficking and
 use. [@1] The address had been identified in advance. [@1] The operation was a
 narcotics raid on a house in the neighbourhood. [@3] Officers searching it
-seized 190 grams of esrar, the everyday Turkish term for cannabis. [@1] They
-also seized 35 synthetic pharmaceutical pills and one precision scale. [@2] The
+seized 190 grams of esrar, the everyday Turkish term for cannabis. [@1,4] They
+also seized 35 synthetic pharmaceutical pills and one precision scale. [@2,4] The
 quantities were entered into the police record. [@1]
 
 One suspect, identified in the reports only as İ.K., was detained in the
-operation. [@1] After his processing at the police station finished, he was sent
-to the judicial authorities on an accusation of drug trafficking. [@1] He was
-released after those proceedings. [@1]
-
+operation. [@1,4] After his processing at the police station finished, he was sent
+to the judicial authorities on an accusation of drug trafficking. [@1,4] He was
+released after those proceedings. [@1,4]
