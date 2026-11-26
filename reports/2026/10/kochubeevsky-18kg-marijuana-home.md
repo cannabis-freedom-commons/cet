@@ -51,6 +51,11 @@ sources:
     publisher: Вечерний Ставрополь
     date: 2026-10-29
     language: ru
+  - title: 'Почти 2 кг марихуаны изъяли у жителя Ставрополья :: 1777.Ru'
+    url: https://news.1777.ru/130185-pochti-2-kg-marihuany-izyali-u-zhitelya-stavropolya
+    publisher: 1777.ru
+    date: 2026-10-29
+    language: ru
 open_questions:
   - The reports are dated 29 October 2026 and do not give a separate date for the search.
   - Neither outlet says whether the man was detained, and no court outcome is reported.
@@ -59,19 +64,18 @@ open_questions:
 ---
 
 Drug-control police in Stavropol Krai suspect a 37-year-old resident of
-Kochubeyevsky District of growing marijuana for his own use. [@1] The Main
+Kochubeyevsky District of growing marijuana for his own use. [@1,3] The Main
 Directorate of the Ministry of Internal Affairs for Stavropol said officers had
 information linking him to a crime. [@1] They checked a workshop on the grounds
 of his house and found grey-green plant parts that looked like hemp, kept in a
 plastic jar and on a wooden shelf. [@1] The owner said he had grown the drug in
-his yard and stored it for personal use. [@1] An examination identified the
-seized drug as marijuana weighing 1.8 kilograms. [@1]
+his yard and stored it for personal use. [@1,3] An examination identified the
+seized drug as marijuana weighing 1.8 kilograms. [@1,3]
 
 Investigators opened a criminal case against him for illegal storage of
-narcotics in a large amount. [@1] Stavropol police told Vecherny Stavropol the
+narcotics in a large amount. [@1,3] Stavropol police told Vecherny Stavropol the
 case was brought under part 2 of article 228 of the Criminal Code, which covers
 unlawful acquisition and storage of narcotics on a large scale. [@2] He gave a
 confession, saying he had grown the drug-containing plants on his property and
 kept them for personal use. [@2] The police examination put the seized narcotic
 at 1.8 kilograms in total. [@2]
-
