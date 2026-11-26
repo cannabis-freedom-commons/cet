@@ -48,6 +48,10 @@ sources:
     publisher: السعودية الإخبارية
     date: 2026-11-18
     language: ar
+  - title: Pakistani Arrested in Saudi Arabia on Drug-Selling Charges - UrduPoint
+    url: https://www.urdupoint.com/en/world/pakistani-arrested-drug-selling-charges-saudi-arabia-2296327.html
+    publisher: UrduPoint
+    date: 2026-11-23
 open_questions:
     - No date is given for the arrest; 18 November 2026 is the publication date of the accounts and is used as the incident date.
     - No weight, quantity or value was published for the hashish, the stimulant or the regulated tablets, so no cannabis quantity is recorded.
@@ -56,13 +60,17 @@ open_questions:
     - No charges, court date or outcome were reported beyond referral to the competent authority.
     - The men were identified only as Ethiopian nationals in breach of the border-security system; no names, ages or residency details were released.
     - All three accounts reproduce the same brief Mujahideen announcement on X, so the account rests on a single official statement.
+    - It remains unresolved whether the stimulant was amphetamine or methamphetamine; the hashish allegation is shared.
+    - The two detainees were described only as foreign nationals in breach of border-security rules, without names, ages or further residency details.
+    - No weight, quantity or value was published for the hashish, stimulant or medicines, so no cannabis quantity is recorded.
+    - No separate arrest date was published; 18 November 2026 is the publication date used as the incident date, while a 23 November 2026 publication places the arrest earlier that week.
 ---
 
 Patrols of the General Directorate of Mujahideen in the Mecca region arrested
-two Ethiopian nationals who were in breach of the border-security system. [@1,3]
+two Ethiopian nationals who were in breach of the border-security system. [@1,3,4]
 The directorate accused the two of promoting hashish and methamphetamine, which
 it described as narcotic substances, and tablets subject to regulation of
-medical circulation. [@1,3] The hashish named in the announcement is the cannabis
+medical circulation. [@1,3,4] The hashish named in the announcement is the cannabis
 element of this mixed case, while the stimulant and the regulated tablets are
 not counted in the cannabis figures. [@1]
 
@@ -71,7 +79,7 @@ that the statutory procedures were taken against them and that they were
 referred to the competent authority. [@1,3] The Saudi outlet Sada, reporting the
 same arrests, named the second substance as amphetamine rather than
 methamphetamine and said the men were referred to the competent authority to
-complete the procedures. [@2]
+complete the procedures. [@2,4]
 
 Security authorities asked the public to report information about drug smuggling
 or promotion on the 911 line in the Mecca, Medina, Riyadh and Eastern Province
