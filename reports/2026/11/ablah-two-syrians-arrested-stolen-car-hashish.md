@@ -55,25 +55,30 @@ sources:
     publisher: VDLnews
     date: 2026-11-16
     language: ar
+  - title: توقيف شخصين واستعادة سيّارة مسروقة بأقلّ من 48 ساعة
+    url: https://almarkazia.com/ar/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D9%88%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D8%B3%D9%8A%D9%91%D8%A7%D8%B1%D8%A9-%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9-%D8%A8%D8%A3%D9%82%D9%84%D9%91-%D9%85%D9%86-1
+    publisher: المركزية
+    date: 2026-11-16
+    language: ar
 open_questions:
     - No weight was published for the seized hashish, so no cannabis quantity is recorded.
     - The other seized substances were described only as suspected narcotics, with no identification or laboratory confirmation reported.
     - No charges, pleas or court outcome for the cannabis seizure were reported.
-    - The Elnashra and Cedar News accounts both reproduce the Internal Security Forces statement, so the sources are not independent reporting.
+    - All accounts of the arrest reproduce the Internal Security Forces statement, so the sources are not independent reporting.
 ---
 
 A Bekaa Investigation Detachment patrol identified and arrested two suspects in
 Ablah on 15 November 2026, less than 48 hours after a blue Rapid car was stolen
-from Baalbek. [@1,3,4] Officers found the stolen car in the suspects' possession.
-[@1,3,4] The Internal Security Forces said the arrests followed investigations by
-its Bekaa Investigation Detachment of the Regional Gendarmerie Unit. [@2,3]
+from Baalbek. [@1,3,4,5] Officers found the stolen car in the suspects' possession.
+[@1,3,4,5] The Internal Security Forces said the arrests followed investigations by
+its Bekaa Investigation Detachment of the Regional Gendarmerie Unit. [@2,3,5]
 
 The detainees are Syrian nationals H. A., born in 1971, and B. H., born in 1996.
-[@1,3] The first man was wanted under two search notices for motorcycle theft and
+[@1,3,5] The first man was wanted under two search notices for motorcycle theft and
 the second under a notice for car theft, and both had entered Lebanon
-clandestinely. [@1,3]
+clandestinely. [@1,3,5]
 
 A search of the men and the vehicle seized a quantity of hashish, other
-suspected narcotic substances and a mobile phone from the first suspect. [@1,3,4]
+suspected narcotic substances and a mobile phone from the first suspect. [@1,3,4,5]
 The two men, the seized items and the recovered car were handed to the competent
-unit for legal proceedings on the judiciary's instruction. [@1,3]
+unit for legal proceedings on the judiciary's instruction. [@1,3,5]
