@@ -56,6 +56,10 @@ sources:
     publisher: Prime TV Bangla
     date: 2026-11-23
     language: bn
+  - title: জামালপুরে ডিবি পুলিশের অভিযানে সাড়ে ৫ কেজি গাঁজাসহ গ্রেপ্তার ১
+    url: https://cniasia.news/post-details/204124
+    publisher: CNI Asia
+    language: bn
 open_questions:
   - No estimated value was published for the 5.5 kg of ganja.
   - The reports do not say whether the accused admitted or denied the allegation.
@@ -66,19 +70,18 @@ open_questions:
 ---
 
 Jamalpur district police arrested Md. Abdur Rahim, 46, after finding 5 kg 500 g
-of ganja stored in his house in Melandah upazila. [@1] A court sent him to jail
+of ganja stored in his house in Melandah upazila. [@1,3] A court sent him to jail
 on Monday 23 November 2026, the day after the raid. [@1]
 
 The district Detective Branch (DB-1) raided the house in the Paragali Tonki area
-at about 12:20 pm on Sunday 22 November 2026. [@1] Officers recovered the ganja,
-packed in white plastic sacks, from inside the room. [@1] The DB team was led by
+at about 12:20 pm on Sunday 22 November 2026. [@1] The DB team acted on secret information. [@3] Officers recovered the ganja,
+packed in white plastic sacks, from inside the room. [@1,3] The DB team was led by
 Sub-Inspector (unarmed) Md. Ehsanul Haque and acted on the instruction of
 Superintendent of Police Mosammat Farhana Yasmin. [@1]
 
 Police said a regular case under the Narcotics Control Act was filed against him
 at Melandah police station. [@1] The district police announced the arrest in a
-press release on the afternoon of Monday 23 November. [@2] Superintendent
+press release on the afternoon of Monday 23 November. [@2,3] Superintendent
 Farhana Yasmin said drug use was a social disease and that her force had a
 zero-tolerance stance, with regular and special drives continuing to make
-Jamalpur drug-free. [@1]
-
+Jamalpur drug-free. [@1,3]
