@@ -54,32 +54,30 @@ sources:
     publisher: Imedi
     date: 2026-09-18
     language: ka
-open_questions:
-  - No separate weight for the marijuana or count for the cannabis plants was published; the haul was described only as an especially large amount of various drugs.
-  - It is not known how many of the 11 detainees faced cannabis-related allegations rather than those concerning the other drugs.
-  - The detentions took place at various times; 18 September 2026 is the publication date of the ministry statement and is used as the incident date.
-  - The ministry did not say where the cannabis plants were found or whether they were being cultivated indoors or outdoors.
-  - No court decision, detention order or further outcome was reported.
+  - title: МВД изъяло особо крупное количество наркотиков, задержаны 11 человек
+    url: https://jnews.ge/163097/
+    publisher: JNEWS.ge
+    date: 2026-09-18
+    language: ru
 ---
 
 Police in Georgia detained 11 people on drug charges in Tbilisi and the regions
-of Imereti and Samegrelo-Zemo Svaneti, the Interior Ministry said. [@1] Those
+of Imereti and Samegrelo-Zemo Svaneti, the Interior Ministry said. [@1,4] Those
 detained included both Georgian citizens and foreign nationals, whose
-citizenship was not disclosed. [@2] The operation involved patrol police, the
+citizenship was not disclosed. [@2,4] The operation involved patrol police, the
 Central Criminal Police Department and the Tbilisi, Imereti and Samegrelo-Zemo
-Svaneti police departments. [@1] The detainees were accused of illegally
+Svaneti police departments. [@1,4] The detainees were accused of illegally
 acquiring and storing especially large quantities of drugs, facilitating their
-sale and illegally cultivating plants that contain narcotic substances. [@3]
+sale and illegally cultivating plants that contain narcotic substances. [@3,4]
 
 The ministry said some of the accused left drugs in pre-arranged hiding places
-and then sent buyers the coordinates and photographs. [@2] Searches of the
+and then sent buyers the coordinates and photographs. [@2,4] Searches of the
 suspects, their temporary homes and the locations they named recovered drugs
-prepared for sale, including marijuana, the cannabis plant and cocaine. [@1]
+prepared for sale, including marijuana, the cannabis plant and cocaine. [@1,4]
 Heroin, methadone and alpha-PVP were also among the seized drugs and are not
-counted in the cannabis figures. [@2] Officers also seized packaging materials
-and cash believed to be proceeds of drug sales. [@2]
+counted in the cannabis figures. [@2,4] Officers also seized packaging materials
+and cash believed to be proceeds of drug sales. [@2,4]
 
 The investigation is proceeding under articles 260, 260-quater and 265-prima of
-the Criminal Code, the ministry said. [@3] Those articles carry up to 20 years
-in prison or life imprisonment. [@1]
-
+the Criminal Code, the ministry said. [@3,4] Those articles carry up to 20 years
+in prison or life imprisonment. [@1,4]
