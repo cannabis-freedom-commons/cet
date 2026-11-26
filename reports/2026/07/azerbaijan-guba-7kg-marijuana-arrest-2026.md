@@ -46,6 +46,11 @@ sources:
     publisher: Teleqraf.az
     date: 2026-07-20
     language: az
+  - title: В Губе задержан подозреваемый в незаконном обороте марихуаны
+    url: https://media.az/society/v-gube-zaderzhan-podozrevaemyj-v-nezakonnom-oborote-marihuany
+    publisher: Media.az
+    date: 2026-07-20
+    language: ru
 open_questions:
   - No date is given for the detention; 20 July 2026 is the publication date of both accounts and is used as the incident date.
   - No charge has been specified and no court outcome beyond pre-trial detention is reported.
@@ -60,14 +65,13 @@ previously convicted and suspected of involvement in the illegal circulation of
 narcotic drugs, seizing 7 kilograms of marijuana from him during a personal
 search. [@1] The accounts name the suspect as Shemshir Amiraslanov and say the
 operation was carried out by officers of the Guba district police department.
-[@1]
+[@1,3]
 
 The Interior Ministry's press service announced the detention and described the
 operation as another in a series of measures against illegal drug trafficking.
 [@2] The ministry put the amount found on the suspect at 7 kilograms of
-marijuana. [@2]
+marijuana. [@2,3]
 
 A court ordered that Amiraslanov be held in pre-trial detention after the
-search. [@1] A criminal case was opened over the incident and the investigation
-is continuing. [@1] No other suspects were named in the accounts. [@1]
-
+search. [@1,3] A criminal case was opened over the incident and the investigation
+is continuing. [@1,3] No other suspects were named in the accounts. [@1]
