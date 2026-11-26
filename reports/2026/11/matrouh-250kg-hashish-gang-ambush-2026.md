@@ -62,6 +62,11 @@ sources:
     publisher: الأسبوع (Al-Osboa)
     date: 2026-11-23
     language: ar
+  - title: بقيمة 6.750 مليار جنيه.. ضبط تشكيل عصابي بحوزته 6 ملايين قرص مخدر ومليون علبة سجائر مهربة بمطروح - إقرأ نيوز
+    url: https://www.iqraa.news/252957/%D8%A8%D9%82%D9%8A%D9%85%D8%A9-6-750-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AC%D9%86%D9%8A%D9%87-%D8%B6%D8%A8%D8%B7-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%B9%D8%B5%D8%A7%D8%A8%D9%8A-%D8%A8%D8%AD%D9%88%D8%B2/
+    publisher: Iqraa News
+    date: 2026-11-23
+    language: ar
 media:
   - kind: photo
     url: https://www.elaosboa.com/3031709/
@@ -78,22 +83,32 @@ media:
     media_url: https://www.elaosboa.com/wp-content/uploads/2026/11/elaosboa08321.jpg
     publisher: الأسبوع (Al-Osboa)
     caption: 'Interior Ministry handout showing rows of seized cigarette packs and packages. Photo: Egyptian Interior Ministry, published by Al-Osboa.'
+  - kind: photo
+    url: https://www.iqraa.news/252957/%D8%A8%D9%82%D9%8A%D9%85%D8%A9-6-750-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AC%D9%86%D9%8A%D9%87-%D8%B6%D8%A8%D8%B7-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%B9%D8%B5%D8%A7%D8%A8%D9%8A-%D8%A8%D8%AD%D9%88%D8%B2/
+    media_url: https://www.iqraa.news/media/2026/11/d8a8d982d98ad985d8a9-6-750-d985d984d98ad8a7d8b1-d8acd986d98ad987-d8b6d8a8d8b7-d8aad8b4d983d98ad984-d8b9d8b5d8a7d8a8d98a-d8a8d8add988d8b2-1.webp
+    publisher: Iqraa News
+    caption: Seized pills, hashish and smuggled cigarettes displayed after the Matrouh ambush.
+  - kind: photo
+    url: https://www.iqraa.news/252957/%D8%A8%D9%82%D9%8A%D9%85%D8%A9-6-750-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AC%D9%86%D9%8A%D9%87-%D8%B6%D8%A8%D8%B7-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%B9%D8%B5%D8%A7%D8%A8%D9%8A-%D8%A8%D8%AD%D9%88%D8%B2/
+    media_url: https://www.iqraa.news/media/2026/11/%D8%A8%D9%82%D9%8A%D9%85%D8%A9-6750-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AC%D9%86%D9%8A%D9%87-%D8%B6%D8%A8%D8%B7-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%B9%D8%B5%D8%A7%D8%A8%D9%8A-%D8%A8%D8%AD-gSh7.webp
+    publisher: Iqraa News
+    caption: Seized items displayed after the Matrouh ambush.
 ---
 
 Security forces ambushed and detained members of a gang described as highly
 dangerous criminals while they were in Matrouh Governorate, with the Central
-Security Sector taking part. [@1,2,3] Legal procedures were taken after the
+Security Sector taking part. [@1,2,3,7] Legal procedures were taken after the
 detentions. [@1,4,5,6]
 
 Officers seized about one million Tramadol pills, 250 kg of hashish and one
 million smuggled cigarette packs, which police valued together at about 250
-million pounds. [@1,2,3,4,5,6] They also seized five million Captagon pills, which police
+million pounds. [@1,2,3,4,5,6,7] They also seized five million Captagon pills, which police
 valued at 6.5 billion pounds in the destination countries, for a combined total
-of about 6.75 billion pounds. [@1,2,3,4,5,6]
+of about 6.75 billion pounds. [@1,2,3,4,5,6,7]
 
 The operation followed information and investigations by the Sector for
 Combating Drugs, Unlicensed Arms and Ammunition, Egypt's anti-narcotics body, in
-coordination with other Interior Ministry agencies. [@1,4,5] Investigators said the
+coordination with other Interior Ministry agencies. [@1,4,5,7] Investigators said the
 gang brought large quantities of drugs, pills and smuggled cigarettes through
 desert tracks in Matrouh Governorate for sale inside Egypt and in other
 countries. [@1,2,3,4,5,6]
