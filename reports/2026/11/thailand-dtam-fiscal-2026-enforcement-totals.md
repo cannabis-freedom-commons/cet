@@ -107,6 +107,11 @@ sources:
     publisher: 搜狐网（一颗旅行的心）
     date: 2026-11-23
     language: zh
+  - title: รัฐบาลคุมเข้มร้านกัญชา พักใบอนุญาต 105 ราย เพิกถอน 24 ราย
+    url: https://thaitv5hd.com/content/204274/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2-%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8D%E0%B8%B2%E0%B8%95-105-%E0%B8%A3%E0%B8%B2%E0%B8%A2-%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%96%E0%B8%AD%E0%B8%99-24-%E0%B8%A3%E0%B8%B2%E0%B8%A2
+    publisher: สถานีวิทยุโทรทัศน์กองทัพบก TV5HD
+    date: 2026-11-23
+    language: th
 media:
   - kind: photo
     url: https://thethaiger.com/news/national/thailand-revokes-cannabis-licences-shops-near-schools
@@ -119,12 +124,12 @@ open_questions:
 
 Thailand's Department of Thai Traditional and Alternative Medicine revoked 24
 cannabis shop licences and suspended 105 in the 2026 fiscal year, which ran from
-October 2025 to September 2026. [@1,3,4,5,6,7,8,9,10,11,14] The department said its officers arrested
-and prosecuted 70 people over the year. [@2,3,5,6,7,8,10,11,12,14]
+October 2025 to September 2026. [@1,3,4,5,6,7,8,9,10,11,14,15] The department said its officers arrested
+and prosecuted 70 people over the year. [@2,3,5,6,7,8,10,11,12,14,15]
 
 Across 95 enforcement operations, officials seized or impounded 10,584.9 kg of
 cannabis and related material. [@2,3,4,5,6,7,8,10,11,12,13,14] The department said it would intensify inspections in fiscal year 2027, particularly at cannabis shops near schools and other educational institutions. [@13,14] Authorities inspected 1,437 of the Bangkok businesses, or 84.04%, and planned to complete inspections of the rest. [@13,14] Bangkok has the most licensed cannabis businesses in Thailand, with 1,710 establishments. [@13,14] The Medical Cannabis Division estimated the
-economic damage from the cases at 223.5 million baht. [@2,3,4,5,6,7,10,11,12,14] Bangkok has 1,710
+economic damage from the cases at 223.5 million baht. [@2,3,4,5,6,7,10,11,12,14,15] Bangkok has 1,710
 licensed cannabis premises, the most in the country. [@2,3,5,6,7,8,12] Officers had inspected
 1,437 of them, or 84.04%, and planned to check the remaining 273. [@1,3,5,6,8] On 16 September, the division checked six premises in Bangkok's Watthana district after residents raised concerns through the city's Traffy Fondue reporting platform, and said it would refer its findings to the licensing authority. [@3]
 

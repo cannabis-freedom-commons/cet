@@ -105,13 +105,11 @@ sources:
     url: https://www.thephuketnews.com/cannabis-shop-caught-trading-despite-licence-suspension-102284.php
     publisher: The Phuket News
     date: 2026-11-23
-open_questions:
-    - No weight in kilograms was published for the seized cannabis flowers or for the hash extract; the only figure given was the officials' value of more than 2 million baht.
-    - 'Accounts differ on the time of the raid: Thairath says 1.45am, MGR Online and Rawai Phuket News about 1.20am on 22 November 2026.'
-    - The shop has been identified as LV Cannabis Boutique in Boat Avenue; its licence holder and the three detained employees are still not identified by name.
-    - No court outcome was reported; the three employees had only preliminary charges and the food-labelling case was still under examination.
-    - The hash extract's legal classification under narcotics law had not been determined.
-    - Most published accounts reproduce the same provincial statement, so the details rest largely on one official account.
+  - title: รัฐบาลคุมเข้มร้านกัญชา พักใบอนุญาต 105 ราย เพิกถอน 24 ราย
+    url: https://thaitv5hd.com/content/204274/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2-%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8D%E0%B8%B2%E0%B8%95-105-%E0%B8%A3%E0%B8%B2%E0%B8%A2-%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%96%E0%B8%AD%E0%B8%99-24-%E0%B8%A3%E0%B8%B2%E0%B8%A2
+    publisher: สถานีวิทยุโทรทัศน์กองทัพบก TV5HD
+    date: 2026-11-23
+    language: th
 ---
 
 Phuket provincial officials led by deputy governor Romdon Haji-Awae raided a
@@ -123,13 +121,13 @@ of preliminary charges. [@1,7] Many foreign tourists were eating and drinking
 inside the large venue, which had VIP rooms for customers. [@1]
 
 Officers seized high-quality cannabis flowers that officials valued at more than
-2 million baht. [@1,5,6,7,8] The shop's cannabis licence had been suspended for 90 days
+2 million baht. [@1,5,6,7,8,9] The shop's cannabis licence had been suspended for 90 days
 from 23 October 2026 because it had not met service conditions, including
 selling without a doctor's prescription. [@2,5,6,7,8] Officers also found hash cannabis
 extract, which the province said would be examined over whether it fell under
-narcotics law. [@1,7] The shop was also selling alcohol outside permitted hours
+narcotics law. [@1,7,9] The shop was also selling alcohol outside permitted hours
 and cannabis-infused food products without a food registration number or the
-required labelling. [@2,5,6,7,8]
+required labelling. [@2,5,6,7,8,9]
 
 The three employees were accused of jointly selling controlled cannabis flowers
 while the licence was suspended under the Protection and Promotion of Thai
