@@ -62,6 +62,11 @@ sources:
     publisher: Nabire.Net
     date: 2026-11-23
     language: id
+  - title: Ungkap Peredaran Narkotika di Nabire, Polisi Amankan 65 Paket Ganja
+    url: https://matapapua.com/ungkap-peredaran-narkotika-di-nabire-polisi-amankan-65-paket-ganja
+    publisher: MataPapua
+    date: 2026-11-23
+    language: id
 open_questions:
     - No laboratory confirmation that the seized packets contained cannabis was reported.
     - The reported Jayapura origin was a preliminary finding, and investigators were still tracing the source, distribution route and possible accomplices.
@@ -76,7 +81,7 @@ Police said AA was suspected of involvement in cannabis distribution in Nabire
 Regency. [@1]
 
 Officers seized 65 cannabis packets in various sizes believed ready for
-distribution, plus one mobile phone. [@1,3] The 65 packets comprised six large
+distribution, plus one mobile phone. [@1,3,4] The 65 packets comprised six large
 clear plastic packs, eight medium packs and 51 small packs. [@1,2,3] Police said the 65 packets weighed about 300 grams in total, or three ons. [@2] Police said the
 number and packaging indicated the packets had been prepared for distribution.
 [@1] Officers detained AA at his rented room. [@1]
@@ -84,6 +89,6 @@ number and packaging indicated the packets had been prepared for distribution.
 The case began with residents reporting suspicious activity in Karang Mulia.
 [@1,2,3] Preliminary questioning suggested the cannabis came from Jayapura City,
 while investigators were still tracing its origin, distribution route and
-possible accomplices. [@1,3] AA was accused under Article 114(1) and/or Article
+possible accomplices. [@1,3,4] AA was accused under Article 114(1) and/or Article
 111(1) of Law Number 35 of 2009 on Narcotics. [@1,2,3] Police said Article 114(1)
 carries a maximum of 20 years in prison or life imprisonment. [@1] Investigators said they were still examining the case to uncover more about the suspected drug distribution. [@2]
