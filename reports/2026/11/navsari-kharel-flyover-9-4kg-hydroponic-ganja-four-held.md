@@ -124,14 +124,19 @@ sources:
     publisher: India TV Hindi
     date: 2026-11-22
     language: hi
+  - title: નવસારીમાં 9.375 કિલો હાઇબ્રિડ ગાંજો ઝડપાયો:ચાર આરોપી 30 નવેમ્બર સુધી રિમાન્ડ પર; થાઈલેન્ડના બેંગકોકના ‘રોની’ મારફત ગાંજો મંગાવ્યાની પોલીસને શંકા
+    url: https://www.divyabhaskar.co.in/local/gujarat/navsari/news/navsari-hybrid-ganja-seized-bangkok-drug-racket-arrest-139776039.html
+    publisher: Divya Bhaskar
+    date: 2026-11-23
+    language: gu
 open_questions:
     - The network's wanted accused in Bangkok, known as Roni, had not been arrested when these accounts were published.
     - Sources put the ganja's weight at 9.375 kg and its value between Rs 3.28 crore and Rs 3.56 crore.
-    - No charges, remand order or court outcome were reported at the time of these accounts.
+    - No charge-sheet or final court outcome in the case has been reported.
 ---
 
 Navsari police arrested four people after intercepting two SUVs near the Kharel
-flyover on National Highway 48 on Sunday. [@1,2,6,7,9,10,11] Officers seized 9.4 kg of
+flyover on National Highway 48 on Sunday. [@1,2,6,7,9,10,11,13] Officers seized 9.4 kg of
 hydroponic ganja, which police valued at Rs 3.3 crore. [@1,5,6,7,8,11] Police also seized
 seven mobile phones and Rs 33,779 in cash from the four. [@1] The two seized cars were a Mahindra Thar and a Hyundai Creta. [@10] The arrested were
 identified as Pramod Pathak, Vishnu Singh, Premchand alias Rahul Yadav and Miket
@@ -149,4 +154,4 @@ Efforts were under way to trace and arrest them. [@1] Police suspect the network
 was run from Vapi and Daman and had links with multiple suppliers and high-end
 buyers. [@1] Pramod Pathak, the alleged mastermind, had worked as a bouncer in Mumbai, and police say he ran an interstate drug network under the cover of his Tiger security agency in Vapi. [@3,10] Police said Pathak was in contact with foreign suppliers to bring hybrid ganja into India for sale in Mumbai, Vapi, Vadodara and other cities. [@8] A case was registered at Ganadevi police station under the NDPS Act against the four arrested men and the others declared wanted. [@9]
 
-Officers seized a Mahindra Thar, a Hyundai Creta and seven mobile phones along with the ganja. [@12] The men had carried the ganja from Vapi to Vadodara, handed some of it to a man named Jayanti there, and were returning to Vapi with the rest when police stopped them. [@12] Police put the market price of the ganja at about Rs 35 lakh per kilogram. [@12] Police said the network was linked to Bangkok, and named a wanted accused known as Roni, who lives there and is originally from Andheri in Mumbai, as its supplier of hybrid ganja. [@12] Police said they would take the four arrested men on remand for further questioning. [@12]
+Officers seized a Mahindra Thar, a Hyundai Creta and seven mobile phones along with the ganja. [@12] The men had carried the ganja from Vapi to Vadodara, handed some of it to a man named Jayanti there, and were returning to Vapi with the rest when police stopped them. [@12] Police put the market price of the ganja at about Rs 35 lakh per kilogram. [@12] Police said the network was linked to Bangkok, and named a wanted accused known as Roni, who lives there and is originally from Andheri in Mumbai, as its supplier of hybrid ganja. [@12,13] Police said they would take the four arrested men on remand for further questioning. [@12] Ganadevi police produced the four arrested men in court and obtained eight days of remand until 30 November 2026. [@13]
