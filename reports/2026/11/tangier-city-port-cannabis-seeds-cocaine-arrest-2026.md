@@ -45,30 +45,33 @@ sources:
     url: https://inews.ma/news/8814067
     publisher: inews.ma
     language: ar
+  - title: توقيف أربعيني قادم من طريفة بميناء طنجة المدينة بعد حجز 8 كلغ من الكوكايين وبذور حشيش
+    url: https://achtari24.com/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%A3%D8%B1%D8%A8%D8%B9%D9%8A%D9%86%D9%8A-%D9%82%D8%A7%D8%AF%D9%85-%D9%85%D9%86-%D8%B7%D8%B1%D9%8A%D9%81%D8%A9-%D8%A8%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%B7%D9%86%D8%AC.html
+    publisher: أشطاري 24
+    date: 2026-11-23
+    language: ar
 open_questions:
     - No count of the seeds was reported, only their weight of three kilograms.
-    - The eight kilograms of cocaine from the same search is excluded from cannabis figures as a non-cannabis substance.
     - No charges, detention measure or court outcome beyond the opened judicial investigation was reported.
     - No laboratory confirmation or seed variety for the cannabis-growing seeds was reported.
-    - The account now rests on two outlets with no agency statement seen.
-    - The text gives a weight ("8 kg") but the figures have no kg_seized; check whether it belongs there.
+    - All accounts seen reprint the same security-source account; no agency statement was published.
 ---
 
 National Security officers working with customs at Tangier city port foiled an
-attempt to smuggle drugs into Morocco on Sunday afternoon. [@1,2] Officers
+attempt to smuggle drugs into Morocco on Sunday afternoon. [@1,2,3] Officers
 detained a 47-year-old Moroccan citizen living in Spain immediately after he
 arrived at the port on a ferry from the Spanish port of Tarifa, as his
-foreign-registered car underwent border checks. [@1]
+foreign-registered car underwent border checks. [@1,3]
 
 The search by security and customs officers with trained police dogs found the
 cocaine consignment hidden under the car front bumper, alongside the seized
-seeds. [@1] Officers seized eight kilograms of cocaine and three kilograms of
-seeds used for growing cannabis. [@1,2]
+seeds. [@1,3] Officers seized eight kilograms of cocaine and three kilograms of
+seeds used for growing cannabis. [@1,2,3]
 
 The Tangier prefectural judicial police then opened a judicial investigation
 under the competent prosecutor to establish the circumstances and uncover the
-source and intended destination of the drugs. [@1] Ongoing inquiries are to
+source and intended destination of the drugs. [@1,3] Ongoing inquiries are to
 identify possible national and international extensions of the activity and any
-other suspected accomplices. [@1] The operation was presented as part of
+other suspected accomplices. [@1,3] The operation was presented as part of
 security and customs efforts against international drug smuggling and stronger
-controls at border crossings and Moroccan ports. [@1]
+controls at border crossings and Moroccan ports. [@1,3]
