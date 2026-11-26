@@ -74,8 +74,10 @@ sources:
     url: https://cannabisnow.com/billionaire-arrested-over-5000-cannabis-plants-in-st-kitts-spurs-fight-over-local-control/
     publisher: Cannabis Now
     date: 2019-05-14
-open_questions:
-  - Cannabis Now describes roughly 5,000 plants, cuttings, seeds and other products from the jet search, while the Director of Public Prosecutions account records 550 plants in 11 crates; which count is complete is unresolved.
+  - title: Greek Coca-Cola Heir Caught on St. Kitts with $1.3 Million in Marijuana
+    url: https://www.thenationalherald.com/greek-coca-cola-heir-caught-on-st-kitts-with-1-3-million-in-marijuana/
+    publisher: The National Herald
+    date: 2019-05-16
 ---
 
 On 7 May 2019 a private jet carrying Alkiviades Alki David arrived at the Robert
@@ -85,8 +87,8 @@ officers investigated. [@2] The plant material he had brought was taken into
 custody for analysis. [@2] On the advice of the Director of Public Prosecutions,
 David was arrested on 9 May 2019. [@2] He was charged with possession of
 cannabis, possession with intent to supply, importation of cannabis and
-importation of a restricted item. [@2,5,7,8,9] He had landed with business partner Chase
-Ergen and actor Jonathan Rhys Meyers. [@1,4,5,6,8] Ergen was subsequently released without charge. [@8] Meyers' wife and his mother-in-law were also reportedly on the plane. [@4,6,7] David said Lane and Meyers' mother-in-law were 'cavity searched' after landing in St Kitts, but the group were eventually allowed to leave. [@7] Meyers was released without
+importation of a restricted item. [@2,5,7,8,9,10] He had landed with business partner Chase
+Ergen and actor Jonathan Rhys Meyers. [@1,4,5,6,8,10] Ergen was subsequently released without charge. [@8] Meyers' wife and his mother-in-law were also reportedly on the plane. [@4,6,7] David said Lane and Meyers' mother-in-law were 'cavity searched' after landing in St Kitts, but the group were eventually allowed to leave. [@7] Meyers was released without
 sustaining any charges. [@1] Police said David was arrested on May 9 and
 appeared in court the following day. [@3,9]
 
@@ -95,7 +97,7 @@ On arrival David had declared 550 plants as hemp in 11 crates of 50 plants each.
 Nevis drug law. [@2]
 
 David said he had come to build relationships with farmers to grow hemp for his
-Swissx business selling legal cannabis products abroad. [@3,4,7] Through his legal team he said he had cleared up the situation with the authorities in St Kitts-Nevis and looked forward to continuing plans to develop the medicinal cannabis industry on the island. [@4] Harris denied any conversation with foreigners about setting up cannabis businesses, saying it would be irresponsible while the bill was unfinished. [@7] Swissx said the pair had done nothing wrong and that talks with Prime Minister Timothy Harris broke down and led to the arrests of David and Ergen. [@7,9] A local lawyer said
+Swissx business selling legal cannabis products abroad. [@3,4,7,10] Through his legal team he said he had cleared up the situation with the authorities in St Kitts-Nevis and looked forward to continuing plans to develop the medicinal cannabis industry on the island. [@4] Harris denied any conversation with foreigners about setting up cannabis businesses, saying it would be irresponsible while the bill was unfinished. [@7] Swissx said the pair had done nothing wrong and that talks with Prime Minister Timothy Harris broke down and led to the arrests of David and Ergen. [@7,9] A local lawyer said
 the mere possession of the marijuana plant is illegal and THC content does not
 matter. [@3] He was first released on $30,000 cash bail with $50,000 in
 sureties, ordered to surrender travel documents and report daily to Frigate Bay
