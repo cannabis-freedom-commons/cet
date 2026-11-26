@@ -26,6 +26,11 @@ sources:
     publisher: SWR Aktuell
     date: 2026-11-22
     language: de
+  - title: Mit 500 Gramm Haschisch - Mann flieht vor Polizei - mit Crash Stromausfall verursacht
+    url: https://www.sueddeutsche.de/wirtschaft/mit-500-gramm-haschisch-mann-flieht-vor-polizei-mit-crash-stromausfall-verursacht-dpa.urn-newsml-dpa-com-20090101-261122-930-33858
+    publisher: Süddeutsche Zeitung
+    date: 2026-11-22
+    language: de
 open_questions:
   - No calendar date for the flight was published; Saturday afternoon points to 21 November 2026, while 22 November 2026 is the publication date.
   - It is not established that the hashish in the nearby bin belonged to the driver; it was found near the abandoned car and is under investigation.
@@ -34,17 +39,16 @@ open_questions:
 ---
 
 A 24-year-old driver fled from a police patrol in Mannheim on Saturday afternoon
-after ignoring officers signals to stop. [@1] While fleeing, he drove into a
+after ignoring officers signals to stop. [@1,2] While fleeing, he drove into a
 power distribution box. [@1] The crash cut power to 30 homes. [@1] He drove on
-after the crash and officers lost sight of him. [@1] Minutes later officers
+after the crash and officers lost sight of him. [@1,2] Minutes later officers
 found his car abandoned. [@1] During the following night he reported to police
-as the driver. [@1] A rapid drug test indicated THC, a psychoactive cannabis
+as the driver. [@1,2] A rapid drug test indicated THC, a psychoactive cannabis
 substance. [@1] He had no valid driving licence. [@1]
 
 Officers found a package with about 500 grams of hashish in a rubbish bin near
-the abandoned car. [@1] The car was towed and secured. [@1]
+the abandoned car. [@1,2] The car was towed and secured. [@1]
 
 Police are investigating him for taking part in a prohibited motor-vehicle race,
-endangering road traffic, leaving the scene and driving without a licence. [@1]
+endangering road traffic, leaving the scene and driving without a licence. [@1,2]
 The half kilo of hashish is also part of the investigations. [@1]
-
