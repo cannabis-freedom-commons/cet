@@ -168,6 +168,11 @@ sources:
     url: https://21stcenturychronicle.com/south-african-golfer-kenyan-chef-arrested-in-lagos-over-drug-trafficking/
     publisher: 21st CENTURY CHRONICLE
     date: 2026-11-22
+  - title: Kenyan Chef Arrested in Nigeria Over Alleged 50.4kg Cannabis Smuggling Syndicate
+    url: https://kenyainsights.com/kenyan-chef-arrested-in-nigeria-over-alleged-504kg-cannabis-smuggling-syndicate
+    publisher: Kenya Insights
+    date: 2026-11-23
+    language: en
 ---
 
 The National Drug Law Enforcement Agency arrested a 25-year-old Kenyan chef,
@@ -178,24 +183,24 @@ the suspects were arrested at the airport in October. [@3,15] Henlo arrived from
 South Africa aboard a South African Airways flight on 11 October and was
 intercepted at the Terminal 2 arrival hall. [@1,5,7,10,11,14,15,16,18,19,21,23,24] Njambi was arrested at the
 airport's departure boarding gate on Thursday 15 October 2026 as she tried to
-board a flight back to Kenya. [@1,5,6,8,10,11,13,14,16,17,18,19,21,23,24] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5,11,18]
+board a flight back to Kenya. [@1,5,6,8,10,11,13,14,16,17,18,19,21,23,24,25] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5,11,18]
 
 A search of two travelling boxes in Henlo's possession recovered 46 parcels of
 Loud, described as a potent cannabis strain, with a total weight of 50.40kg.
-[@1,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,22,24] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
+[@1,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,22,24,25] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
 had collected two other boxes bearing his tags from the conveyor belt and left.
-[@1,5,6,8,9,10,12,14,18,20] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
+[@1,5,6,8,9,10,12,14,18,20,25] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
 identification of ownership so each courier could deny the boxes if intercepted.
-[@2,5,11,13,14,15,17,18,23]
+[@2,5,11,13,14,15,17,18,23,25]
 
 Henlo, who flew business class while Njambi flew economy, said a South African
 associate named Shanel recruited him and linked him with syndicate members he
 never met. [@1,4,14,17] He said a driver handed him four travelling boxes and took him
 to the airport, where he was told to swap luggage tags with Njambi, and he was
 promised 5,000 South African rand on delivery. [@1,5,11,14,18,20] Njambi said a friend in
-Kenya persuaded her to accept US$8,000 for the delivery. [@1,4,5,6,10,12,13,14,15,17,18,20] She said she left
+Kenya persuaded her to accept US$8,000 for the delivery. [@1,4,5,6,10,12,13,14,15,17,18,20,25] She said she left
 Kenya for South Africa on 4 October, met Henlo at the airport there on 11
-October, and after arriving in Lagos collected the boxes bearing his tags. [@1,5] She said a driver then took her to a hotel in the Lekki area of Lagos. [@4,18]
+October, and after arriving in Lagos collected the boxes bearing his tags. [@1,5,25] She said a driver then took her to a hotel in the Lekki area of Lagos. [@4,18,25]
 Tracking devices had been fitted to the travelling boxes and to Henlo's mobile
 phone, a feature also found in the bags abandoned by an American basketballer a
 month later. [@1,5,6,8,9,10,11,12,14,18,20,24] The claim tag for the boxes bearing Njambi's name was
