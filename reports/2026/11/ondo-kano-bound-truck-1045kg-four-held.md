@@ -31,23 +31,21 @@ sources:
     url: https://www.tori.ng/amp/327979/ndlea-seizes-46-tonnes-of-cannabis-in-osun-and-ond.html
     publisher: Tori.ng
     date: 2026-11-23
-open_questions:
-    - No charges, pleas or court outcome were reported for the four suspects.
-    - The cannabis identification and weight are the NDLEA's figures; no laboratory confirmation or weighing method were reported.
-    - Both accounts reproduce the same NDLEA statement and are not independent reporting.
-    - The same roundup reported a separate 4,627.7 kg cannabis seizure in Osun State and operations in Ogun and Kaduna states, recorded elsewhere or excluded here.
-    - The agency did not say where in Ogbase town the load was collected or who supplied it.
+  - title: NDLEA recovers 4.6 tons of skunk, cannabis in Osun, Ondo - Peoples Gazette Nigeria
+    url: https://gazettengr.com/ndlea-recovers-4-6-tons-of-skunk-cannabis-in-osun-ondo/
+    publisher: Peoples Gazette Nigeria
+    date: 2026-11-22
 ---
 
 Operatives of the National Drug Law Enforcement Agency intercepted a Kano-bound
 truck in neighbouring Ondo State after intelligence gathering and surveillance
-of the vehicle. [@1] Four suspects were arrested in connection with the seizure.
-[@1,2,3] The four were named as Adamu Yerima, 19, Mohammed Mohammed, 19, Nura Mohammed, 25, and Usman Mohammed. [@2] The announcement was issued in a statement by NDLEA spokesman Femi
+of the vehicle. [@1,4] Four suspects were arrested in connection with the seizure.
+[@1,2,3,4] The four were named as Adamu Yerima, 19, Mohammed Mohammed, 19, Nura Mohammed, 25, and Usman Mohammed. [@2] The announcement was issued in a statement by NDLEA spokesman Femi
 Babafemi. [@1,2] The agency described the interception as part of separate
 intelligence-led operations across the country. [@1]
 
-The truck was loaded with 93 bags of cannabis. [@1,2,3] Those bags weighed 1,045
-kilograms. [@1,2,3] The truck was stopped on the Zango-Ado Expressway in Akure on 16 November 2026, and the agency said its load had been taken on in Ogbase town. [@2,3] The agency said the separate operations together yielded more
+The truck was loaded with 93 bags of cannabis. [@1,2,3,4] Those bags weighed 1,045
+kilograms. [@1,2,3,4] The truck was stopped on the Zango-Ado Expressway in Akure on 16 November 2026, and the agency said its load had been taken on in Ogbase town. [@2,3] The agency said the separate operations together yielded more
 than 5.6 tonnes of cannabis. [@1]
 
 The same operations included 160 explosives being transported to Zamfara State,

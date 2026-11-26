@@ -63,6 +63,10 @@ sources:
     url: https://www.tori.ng/amp/327979/ndlea-seizes-46-tonnes-of-cannabis-in-osun-and-ond.html
     publisher: Tori.ng
     date: 2026-11-23
+  - title: NDLEA recovers 4.6 tons of skunk, cannabis in Osun, Ondo - Peoples Gazette Nigeria
+    url: https://gazettengr.com/ndlea-recovers-4-6-tons-of-skunk-cannabis-in-osun-ondo/
+    publisher: Peoples Gazette Nigeria
+    date: 2026-11-22
 open_questions:
   - No separate date was given for the arrest; 18 November 2026 is the publication date of both reports and stands in for the incident date.
   - No charge, plea or court outcome was reported; the suspect was described only as in custody pending further investigation.
@@ -83,7 +87,7 @@ concealed in a truckload of granite. [@1,3,4,5] A second account gives the same 
 as 4,627.7 kilograms of Cannabis Sativa allegedly concealed in a truckload of
 granite. [@2] Preliminary findings indicated the cannabis was cleverly concealed
 in a truck loaded with granite in an apparent attempt to evade detection by law
-enforcement operatives. [@1,6]
+enforcement operatives. [@1,6,7]
 
 The suspect is currently in the custody of the Agency, while further
 investigation is ongoing. [@2] The Command said it remains committed to
