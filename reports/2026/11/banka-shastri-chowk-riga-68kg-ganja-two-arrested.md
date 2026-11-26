@@ -62,6 +62,25 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-20
     language: hi
+  - title: 'बांका में पुलिस की बड़ी कार्रवाई: बेटों के जेल जाने के बाद मां कर रही थी गांजा तस्करी, 6.8 किलो गांजे और 1.75 लाख कैश के साथ गिरफ्तार'
+    url: https://www.prabhatkhabar.com/state/bihar/banka/banka-ganja-smuggling-woman-arrested-cash-seized-viral-news
+    publisher: Prabhat Khabar
+    date: 2026-11-20
+    language: hi
+media:
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/bihar/banka/banka-ganja-smuggling-woman-arrested-cash-seized-viral-news
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/19/1795078214219/sizes/19ban_m_9_19112026_38-3f92d5-hero.webp
+    publisher: Prabhat Khabar
+    caption: 'Photo of the arrested accused in the Banka ganja case. Photo: Prabhat Khabar Network'
+open_questions:
+    - The article gives no separate calendar date for the raids beyond Thursday; 19 November 2026, the publication date, is used as the incident date.
+    - A second outlet, Prabhat Khabar, now carries the account, but it relays the same police statement as the other reports rather than independent reporting.
+    - No NDPS sections were stated, and no plea or court outcome beyond judicial custody was reported.
+    - No value estimate for the seized ganja was published.
+    - The reported June recovery of 32 kg of ganja from the same house is background to this case and is not counted in this event's figures.
+    - The tip was dated 18 November 2026 and publication was on 19 November 2026, leaving the exact day of the searches unclear.
+    - The location of Chhotu Kumar's house and shop was described both as Shastri Chowk and as Riga village.
 ---
 
 Police raided premises at Shastri Chowk and Riga village in Banka's Town
@@ -69,13 +88,13 @@ police-station area on Thursday in an operation against the ganja trade. [@1,4]
 Police said they acted on a tip that ganja was being sold from a house and shop
 at Shastri Chowk, forming a special team on SP Amitesh Kumar's orders under
 Banka circle officer Pratyush. [@2,3] The arrested pair were identified as Rita
-Devi and Dharmendra Mandal, son of Sikandar Mandal of Riga village. [@2,3,4] Rita
+Devi and Dharmendra Mandal, son of Sikandar Mandal of Riga village. [@2,3,4,5] Rita
 Devi and Dharmendra Mandal were arrested and sent to jail, while Chhotu Kumar
 fled the scene and police registered a first information report against all
-three for further legal action. [@2] Police prepared a seizure list for the recovered ganja and cash and were taking legal action under the relevant sections of the NDPS Act. [@3]
+three for further legal action. [@2] The case was registered as Banka police case number 713/26 under the NDPS Act. [@5] Police prepared a seizure list for the recovered ganja and cash and were taking legal action under the relevant sections of the NDPS Act. [@3]
 
 The two searches together yielded 6 kg 800 g of ganja, Rs 175,010 in cash and
-two Android mobile phones, and police arrested one woman and one man. [@2,3] At
+two Android mobile phones, and police arrested one woman and one man. [@2,3,5] At
 Shastri Chowk, officers searched the house of resident Rita Devi, wife of late
 Vijay Sah, and recovered 1 kg 500 g of ganja and Rs 5,150 in cash. [@2,3,4] Acting
 on Rita Devi's information, police searched Chhotu Kumar's house and shop in
@@ -84,4 +103,4 @@ plus another 3 kg 200 g of ganja and Rs 78,500 in cash from sacks in a second
 room. [@2,3]
 
 Police said the same house had been raided in June, when 32 kg of ganja was
-recovered. [@2]
+recovered. [@2,5]
