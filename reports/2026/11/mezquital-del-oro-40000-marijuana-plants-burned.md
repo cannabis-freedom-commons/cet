@@ -74,29 +74,28 @@ sources:
     publisher: Zacatecasonline
     date: 2026-11-22
     language: es
-open_questions:
-  - No separate date was given for the operation; 22 November 2026 is the publication date and is used as the incident date.
-  - The authorities gave the count as more than 40,000 plants and the weight as approximately five tonnes, so exact figures were not published.
-  - No one was reported detained, the owner was not identified, and no charges or court outcome were reported.
-  - Both opened accounts reproduce the same official account from the security forces, so they are not independent reporting.
+  - title: Destruyen cinco toneladas de marihuana en Mezquital del Oro
+    url: https://www.periodicomirador.com/2026/11/22/destruyen-cinco-toneladas-de-marihuana-en-mezquital-del-oro/
+    publisher: Periódico Mirador
+    date: 2026-11-22
+    language: es
 ---
 
 More than 40,000 marijuana plants with an estimated weight of five tonnes were
 found at three points used to store and dry the drug in El Ocote, Mezquital del
-Oro, Zacatecas. [@2] Security forces from all three levels of government located
-the sites and destroyed the marijuana. [@1] All the plants found at the three
-sites were destroyed by incineration where they were found. [@1] No one was
+Oro, Zacatecas. [@2,3] Security forces from all three levels of government located
+the sites and destroyed the marijuana. [@1,3] All the plants found at the three
+sites were destroyed by incineration where they were found. [@1,3] No one was
 reported detained and the authorities did not say who owned the marijuana. [@1]
 
 The intervention involved the Fuerza de Reacción Inmediata Zacatecas (FRIZ), the
 Mexican Army, the National Guard, the Grupo de Operaciones Rurales de Zacatecas
 (GORUZ) and the investigative police of the state prosecutor's office (FGJEZ).
-[@1] The authorities attributed the find to intelligence work, information
-analysis and field work during reconnaissance patrols in the area. [@2] Before
+[@1,3] The authorities attributed the find to intelligence work, information
+analysis and field work during reconnaissance patrols in the area. [@2,3] Before
 the destruction, personnel collected representative samples for a criminal
-complaint and to continue the legal proceedings. [@1]
+complaint and to continue the legal proceedings. [@1,3]
 
 The operation was part of coordination by the Mesa Estatal de Construcción de
 Paz y Seguridad, the state body for peace and security, and involved federal and
 state forces. [@1]
-
