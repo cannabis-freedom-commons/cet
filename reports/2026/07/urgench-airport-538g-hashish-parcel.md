@@ -46,32 +46,34 @@ sources:
     publisher: Zamon.uz
     date: 2026-07-17
     language: ru
-open_questions:
-  - No separate operation date was published; 17 July 2026, the date of the Zamon.uz account, is used, with nuz.uz following a day later.
-  - The second weight is given as about 700 grams, and the combined figure is stated only as more than 1.2 kg by nuz.uz, so 1.2 kg is recorded rather than a false total of 1.238 kg.
-  - Zamon.uz describes the Khorezm haul as about 1.3 kg in its headline, while nuz.uz says more than 1.2 kg; both appear to describe the same two seizures.
-  - The sender in Russia, the couriers who left the Yukorichirchik stash and any accomplices were not identified.
-  - No charge, detention order or court outcome was reported for either suspect.
-  - The airport suspect is identified only by birth year, 1997, and place of residence.
-  - The article also refers to an earlier, separate Tashkent case in which more than 20 kg of opium and hashish was seized from three suspects; that case is not part of this report.
+  - title: В Узбекистан пытались ввезти гашиш под видом шоколада — UzDaily.uz
+    url: https://www.uzdaily.uz/ru/v-uzbekistan-pytalis-vvezti-gashish-pod-vidom-shokolada/
+    publisher: UzDaily.uz
+    date: 2026-07-19
+    language: ru
+media:
+  - kind: photo
+    url: https://www.uzdaily.uz/ru/v-uzbekistan-pytalis-vvezti-gashish-pod-vidom-shokolada/
+    media_url: https://www.uzdaily.uz/media/filer_public_thumbnails/filer_public/49/5c/495c8299-6c4d-4f17-94da-2ba43c579555/1193_20260613100055.webp__760x507_crop_subsampling-2.webp
+    publisher: UzDaily.uz
+    caption: 'Hashish disguised as chocolate from the seized parcel. Photo: Customs Committee'
 ---
 
 Officers in Khorezm and Tashkent regions stopped two separate attempts to move
 hashish. [@1] The State Security Service, the Interior Ministry and customs
 officers ran the operations under the "Safe and Healthy Country" preventive
-campaign. [@2]
+campaign. [@2,3]
 
 At Urgench international airport officers detained a local man born in 1997 who
 had earlier been convicted of a drug offence, as he collected a parcel sent from
-Russia. [@2] Officers found 538 grams of hashish among sweets in the parcel,
-disguised as chocolate. [@2]
+Russia. [@2,3] Officers found 538 grams of hashish among sweets in the parcel,
+disguised as chocolate. [@2,3]
 
 In Yukorichirchik district of Tashkent region, officers detained a 45-year-old
 Tashkent resident as he collected about 700 grams of hashish from a hiding
-place. [@2] Investigators said the drugs had been smuggled into Uzbekistan and
+place. [@2,3] Investigators said the drugs had been smuggled into Uzbekistan and
 left in a pre-arranged place. [@1] In total more than 1.2 kilograms of hashish
 was seized in the two cases. [@1]
 
 Criminal cases were opened over both finds, and officers were working to
-identify possible accomplices. [@1]
-
+identify possible accomplices. [@1,3]
