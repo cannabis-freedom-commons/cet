@@ -57,6 +57,11 @@ media:
     media_url: https://www.novostiphuketa.asia/photo/listing/2026/1795385598_1.jpg
     publisher: Новости Пхукета
     caption: 'Officials during the repeat inspection of the cannabis shop in Boat Avenue in the early hours of 22 November 2026. Photo: PR Phuket'
+  - kind: photo
+    url: https://www.thephuketnews.com/cannabis-shop-caught-trading-despite-licence-suspension-102284.php
+    media_url: https://www.thephuketnews.com/photo/listing/2026/1795325592_1-org.jpg
+    publisher: The Phuket News
+    caption: 'The raid on the cannabis shop in Cherng Talay. Photo: PR Phuket'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 92d4b9c468111a82cafe40858eb2d741
@@ -96,6 +101,10 @@ sources:
     publisher: Новости Пхукета
     date: 2026-11-23
     language: ru
+  - title: Cannabis shop caught trading despite licence suspension
+    url: https://www.thephuketnews.com/cannabis-shop-caught-trading-despite-licence-suspension-102284.php
+    publisher: The Phuket News
+    date: 2026-11-23
 open_questions:
     - No weight in kilograms was published for the seized cannabis flowers or for the hash extract; the only figure given was the officials' value of more than 2 million baht.
     - 'Accounts differ on the time of the raid: Thairath says 1.45am, MGR Online and Rawai Phuket News about 1.20am on 22 November 2026.'
@@ -107,24 +116,24 @@ open_questions:
 
 Phuket provincial officials led by deputy governor Romdon Haji-Awae raided a
 cannabis shop in Cherng Talay, Thalang district, Phuket, in the early hours of
-22 November 2026. [@1] The raided shop was the LV Cannabis Boutique in Boat Avenue. [@7] Officers from the Phuket provincial administrative
+22 November 2026. [@1,8] The raided shop was the LV Cannabis Boutique in Boat Avenue. [@7] Officers from the Phuket provincial administrative
 special task force, the provincial public health office and Cherng Talay police
-took part. [@4] Officers detained three employees inside the shop and told them
+took part. [@4,8] Officers detained three employees inside the shop and told them
 of preliminary charges. [@1,7] Many foreign tourists were eating and drinking
 inside the large venue, which had VIP rooms for customers. [@1]
 
 Officers seized high-quality cannabis flowers that officials valued at more than
-2 million baht. [@1,5,6,7] The shop's cannabis licence had been suspended for 90 days
+2 million baht. [@1,5,6,7,8] The shop's cannabis licence had been suspended for 90 days
 from 23 October 2026 because it had not met service conditions, including
-selling without a doctor's prescription. [@2,5,6,7] Officers also found hash cannabis
+selling without a doctor's prescription. [@2,5,6,7,8] Officers also found hash cannabis
 extract, which the province said would be examined over whether it fell under
 narcotics law. [@1,7] The shop was also selling alcohol outside permitted hours
 and cannabis-infused food products without a food registration number or the
-required labelling. [@2,5,6,7]
+required labelling. [@2,5,6,7,8]
 
 The three employees were accused of jointly selling controlled cannabis flowers
 while the licence was suspended under the Protection and Promotion of Thai
-Traditional Medical Wisdom Act. [@3] The food-products case was still being
+Traditional Medical Wisdom Act. [@3,8] The food-products case was still being
 examined for the elements of the offence and the people responsible. [@3] Romdon
 said the raid followed the policy of Deputy Interior Minister Polphir
 Suwanchawee to regulate cannabis-selling businesses and maintain public order.
