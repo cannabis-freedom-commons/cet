@@ -55,6 +55,11 @@ sources:
     publisher: Gramerkagoj
     date: 2026-11-21
     language: bn
+  - title: শার্শায় গাঁজাসহ যুবক আটক
+    url: https://www.ekusheysangbad.com/country/news/529531
+    publisher: Ekusheysangbad
+    date: 2026-11-21
+    language: bn
 open_questions:
     - No value or street estimate was published for the 1.25 kg of ganja.
     - No charge section, case number or court date was published; the case was at the investigation stage.
@@ -70,19 +75,19 @@ media:
 ---
 
 Navaron Highway Police arrested Ikramul Islam, a young man from the Benapole
-area, in Bagachra, Jashore, with 1.25 kg of ganja. [@1,3] The arrest took place at
+area, in Bagachra, Jashore, with 1.25 kg of ganja. [@1,3,4] The arrest took place at
 about noon on Saturday 21 November 2026 at a temporary checkpoint in front of
 Dr. Mashiar Rahman Degree Women's College at Baguri, on the Jashore-Satkhira
-highway. [@1,3] He is the son of Shirajul Islam of Raghunathpur Eastpara village
-in the Benapole port area. [@1,3]
+highway. [@1,3,4] He is the son of Shirajul Islam of Raghunathpur Eastpara village
+in the Benapole port area. [@1,3,4]
 
 Highway police said they had set up the checkpoint at Baguri Beltala under
 Sergeant Miraj Hossain to control illegal vehicle movement and keep order on the
-highway. [@1,3] When officers signalled a motorcycle to stop, the rider tried to
+highway. [@1,3,4] When officers signalled a motorcycle to stop, the rider tried to
 flee and police detained him with the motorcycle. [@1,3] A search of a bag hanging
-from the motorcycle found 1.25 kg of ganja. [@1,3] Police seized the 100cc Walton
+from the motorcycle found 1.25 kg of ganja. [@1,3,4] Police seized the 100cc Walton
 motorcycle used to carry the ganja. [@2,3]
 
 Officer-in-charge Keramat Ali of Navaron Highway Thana said Ikramul was handed
-to Sharsha Thana after legal process. [@1,3] Sergeant Miraj Hossain filed the case
+to Sharsha Thana after legal process. [@1,3,4] Sergeant Miraj Hossain filed the case
 as complainant, the officer-in-charge said. [@2]
