@@ -71,25 +71,24 @@ sources:
     publisher: Blik.ua
     date: 2026-11-24
     language: uk
-open_questions:
-  - The sources give no date for sending the indictment beyond the prosecutor's statement of 23 November 2026, which is used as the incident date.
-  - The cannabis is described only as more than 40 grams in total; no exact weight or split between the two parcels was published.
-  - The woman's name is withheld and no custody measure, plea or hearing date is reported.
-  - The sources do not say whether the June 2026 six-year sentence has become final or is under appeal.
-  - The account rests on the Lviv prosecutor's and police announcements; the outlets that published it are not independent reporting.
+  - title: ستُحاكم امرأة تبلغ من العمر 61 عامًا في مقاطعة لفيف بتهمة تهريب المخدرات إلى سجن
+    url: https://ua.news/ar/ukraine/na-lvivshchini-suditimut-61-richnu-zhinku-za-postachannia-narkotikiv-do-koloniyi
+    publisher: UA.NEWS
+    date: 2026-11-23
+    language: ar
 ---
 
 Prosecutors of the Halytska district prosecutor's office in Lviv sent an
 indictment to court against a 61-year-old woman accused of supplying cannabis to
-a prison. [@2] She is charged with repeated illegal acquisition, storage for
+a prison. [@2,5] She is charged with repeated illegal acquisition, storage for
 sale and sale of narcotics into a place of deprivation of liberty under part 2
 of article 307 of Ukraine's Criminal Code. [@3] The charge carries six to ten
-years in prison with confiscation of property. [@3]
+years in prison with confiscation of property. [@3,5]
 
 According to the investigation, in December 2025 and April 2026 she sent two
-parcels of clothes and food to a correctional institution. [@3] The two parcels
+parcels of clothes and food to a correctional institution. [@3,5] The two parcels
 sent to Lviv Correctional Institution No. 19 held more than 40 grams of cannabis
-in total. [@4] In one parcel the cannabis was packed in cloth pouches sewn into
+in total. [@4,5] In one parcel the cannabis was packed in cloth pouches sewn into
 the seams of a blanket and the lining of a winter jacket. [@1] In the other, the
 wraps were hidden in a bucket of lard sent with other items. [@1] She used a
 logistics company and gave invented sender names to hide her involvement. [@3]
@@ -102,4 +101,3 @@ the investigation. [@3] In June 2026 a court had already sentenced her to six
 years in prison with confiscation of property for keeping drugs at home and
 systematically mailing them to the prison, including for her son, who was
 serving a sentence there. [@1]
-
