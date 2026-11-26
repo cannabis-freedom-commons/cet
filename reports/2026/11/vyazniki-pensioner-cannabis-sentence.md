@@ -62,12 +62,11 @@ sources:
     publisher: Царьград
     date: 2026-11-19
     language: ru
-open_questions:
-  - The article gives no date for the sentencing; 19 November 2026 is its publication date and is used as the incident date.
-  - The seized cannabis is described only as 'more than 4 kilograms', with no exact weight, plant count, area or value published.
-  - The verdict had not entered into legal force, so any appeal or final outcome is unknown.
-  - 'Left out, as its quotation was not found in МК во Владимире: A pensioner in Vyazniki was sentenced by the Vyaznikovsky City Court to one year and three months in a general-regime colony.'
-  - 'Left out, as its quotation was not found in Царьград: A pensioner in Vyazniki was sentenced by the Vyaznikovsky City Court to one year and three months in a general-regime colony.'
+  - title: Бабушка посадила на грядках «лечебную» коноплю, но ее версия в суде не устояла - новости Владимирской области
+    url: https://zebra-tv.ru/novosti/ekstcessi/babushka-posadila-na-gryadkakh-lechebnuyu-konoplyu-no-ee-versiya-v-sude-ne-ustoyala/
+    publisher: Зебра ТВ
+    date: 2026-11-21
+    language: ru
 media:
   - kind: photo
     url: https://vedom.ru/news/2026/11/19/82556-pensionerka-vo-vladimirskoy-oblasti-osuzhdena-za-vyrashchivanie
@@ -77,11 +76,11 @@ media:
 ---
 
 A pensioner in Vyazniki was sentenced by the Vyaznikovsky City Court to one year
-and three months in a general-regime colony. [@1,2] The court found that she
+and three months in a general-regime colony. [@1,2,5] The woman was 63 years old and was found guilty of large-scale unlawful storage of parts of drug-containing plants without intent to sell under part 2 of article 228 of the Russian Criminal Code. [@5] The court found that she
 planted cannabis seeds in May 2026 and tended the plants through the summer.
-[@1,2] After harvesting, she moved the dried plant parts into a garage. [@1,2]
+[@1,2,5] After harvesting, she moved the dried plant parts into a garage. [@1,2]
 
-On 13 August police found and seized more than four kilograms of cannabis. [@1,2,3,4]
+On 13 August police found and seized more than four kilograms of cannabis. [@1,2,3,4,5]
 At trial she said she grew and stored the plant for treatment rather than sale,
 but this did not exempt her from responsibility. [@1,2] The verdict had not yet
-entered into legal force. [@1,2]
+entered into legal force. [@1,2,5]
