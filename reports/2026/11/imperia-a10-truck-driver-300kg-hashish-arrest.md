@@ -66,19 +66,24 @@ sources:
     publisher: Agenzia ANSA
     date: 2026-11-21
     language: it
+  - title: Tre quintali di hashish nel semirimorchio, arrestato camionista a Imperia - la Repubblica
+    url: https://genova.repubblica.it/cronaca/2026/11/21/news/tre_quintali_di_hashish_nel_semirimorchio_arrestato_camionista_a_imperia-425740034/amp/
+    publisher: la Repubblica
+    date: 2026-11-21
+    language: it
 ---
 
 Police in Imperia stopped a 58-year-old truck driver coming from Spain at a
-motorway service area on the A10 for a routine check. [@1,4] Officers of the
+motorway service area on the A10 for a routine check. [@1,4,5] Officers of the
 Imperia traffic police noticed plastic sacks among the otherwise ordinary food
-cargo. [@1,4] The driver's nervousness led them to search the semi-trailer
+cargo. [@1,4,5] The driver's nervousness led them to search the semi-trailer
 further. [@1,4] The police statement dates the arrest to the late afternoon of 5
 November 2026, when the man was driving an articulated lorry from Spain towards
 Italy. [@2]
 
-Inside the sacks were blocks of hashish wrapped in multicoloured paper. [@1,4] The
+Inside the sacks were blocks of hashish wrapped in multicoloured paper. [@1,4,5] The
 traffic police put the haul at about 300 kilograms of hashish, three quintali.
 [@2,4] Riviera Time reported that the hashish travelled alongside a regular cargo
 of food products and gave the same total of about 300 kilograms. [@3] The driver
 was taken to the Marassi prison in Genoa and placed at the disposal of the
-judicial authority in Savona. [@2]
+judicial authority in Savona. [@2,5]
