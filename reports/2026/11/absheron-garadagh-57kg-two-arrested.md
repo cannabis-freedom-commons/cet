@@ -1,18 +1,19 @@
 ---
 code: WKN2TG
 added_at: "2026-11-05T05:24:44.240234Z"
-date: 2026-07-30
+date: 2026-11-23
 country: az
 place: Absheron and Garadagh districts, Azerbaijan
 coordinates: [40.4892, 49.2671]
 precision: district
-type: arrest
-also: [seizure]
-title: Two held in Absheron and Garadagh with 57 kg of drugs and hashish resin
-summary: >-
-  Azerbaijan's Interior Ministry said officers detained Ramil Aliyev and Nihat Abdurrahmanov in Absheron and Garadagh districts and found hashish resin, marijuana, heroin, methamphetamine and opium among 57 kg of drugs and 1,981 methadone tablets. A court ordered both men held in pre-trial detention over a smuggling case.
+type: sentence
+also: [seizure, arrest]
+title: Absheron-Garadagh 57 kg drug case ends in 10-year sentence
+summary: Azerbaijan's drug police detained Nihat Abdurrahmanov and Ramil Aliyev in Absheron and Garadagh districts with 57 kg of mixed drugs including hashish resin and marijuana plus 1,981 methadone tablets. The Baku Court for Serious Crimes later sentenced Abdurrahmanov to 10 years' imprisonment for especially large-scale trafficking.
 figures:
-  arrested: 2
+    arrested: 2
+    prison: 10 years
+    sentenced: 1
 media:
   - kind: photo
     url: https://br.az/society/116776/v-azerbaydzhane-izyali-57-kg-narkotikov/
@@ -20,17 +21,24 @@ media:
     publisher: Бакинский рабочий
     caption: Picture published with the report of the 30 July 2026 seizure in Absheron and Garadagh districts, captioned only with the headline "В Азербайджане изъяли 57 кг наркотиков".
 details:
-  activity: [smuggling, trafficking]
-  agency_types: [police]
-  case_stage: investigation
-  products:
-    - {product: hashish}
+    activity: [smuggling, trafficking]
+    agency_types: [police]
+    case_stage: sentenced
+    products:
+        - {product: hashish}
+    charges: [illegal trafficking of narcotic drugs and psychotropic substances on an especially large scale (Article 234.4.1)]
+    sentence_types: [prison]
+    date_precision: publication
 data_sources:
-  details.activity: [1, 3, 4]
-  details.agency_types: [2, 1, 3]
-  details.case_stage: [2, 3, 4, 1]
-  details.products: [1]
-  figures.arrested: [2, 1, 3, 4]
+    details.activity: [1, 3, 4]
+    details.agency_types: [2, 1, 3]
+    details.case_stage: [5]
+    details.products: [1]
+    figures.arrested: [2, 1, 3, 4]
+    details.charges: [5]
+    details.sentence_types: [5]
+    figures.prison: [5]
+    figures.sentenced: [5]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 241b5b94962b3b1575c7f4a372515cc3
@@ -56,14 +64,19 @@ sources:
     publisher: Report.az
     date: 2026-07-30
     language: az
+  - title: Задержанному с более чем 50 кг наркотиков вынесен суровый приговор
+    url: https://oxu.az/ru/kriminal/zaderzhannomu-s-bolee-chem-50-kg-narkotikov-vynesen-surovyj-prigovor
+    publisher: Oxu.az
+    date: 2026-11-23
+    language: ru
 open_questions:
-  - The 57 kg is one combined figure for heroin, methamphetamine, opium, hashish resin and marijuana, so no cannabis weight is recorded and the hashish and marijuana weights are unknown.
-  - The reports give no separate date for the operations or the arrests; 30 July 2026, when the ministry statements were published, is used as the incident date.
-  - The reports name only the two districts, not a village, street or address where the operations took place.
-  - The charges faced by the two men, the value of the seizure and any later court outcome were not reported.
-  - The br.az picture is captioned only with the article headline and carries no credit, so what it shows cannot be established.
-  - The 1,981 methadone tablets are a synthetic opioid and are not counted as a cannabis quantity.
-  - The text gives a weight ("57 kg") but the figures have no kg_seized; check whether it belongs there.
+    - The 57 kg is one combined figure for heroin, methamphetamine, opium, hashish resin and marijuana, so no cannabis weight is recorded and the hashish and marijuana weights are unknown.
+    - The reports name only the two districts, not a village, street or address where the operations took place.
+    - The value of the seizure was not reported.
+    - The outcome for co-detainee Ramil Aliyev after pre-trial detention was not reported.
+    - The 1,981 methadone tablets are a synthetic opioid and are not counted as a cannabis quantity.
+    - No separate date for the judgment was given; 23 November 2026 is the publication date of the sentence report.
+    - The br.az picture is captioned only with the article headline and carries no credit, so what it shows cannot be established.
 ---
 
 Officers of the Main Directorate for Combating Drugs of Azerbaijan's Interior
@@ -75,10 +88,9 @@ news agency AZƏRTAC. [@2]
 Officers found heroin, methamphetamine, opium, hashish resin and marijuana mixed
 with harmful substances on the two men, the ministry said. [@1] The ministry put
 the seizure at 57 kilograms in total, together with 1,981 methadone tablets.
-[@3]
+[@3,5]
 
 Investigators said the two men ran the illegal circulation of drugs smuggled
 into the country on the orders of foreign traffickers. [@4] A criminal case was
-opened over the findings. [@1] A court ordered both detained men held in
-pre-trial detention. [@1]
-
+opened over the findings. [@1] He was charged with illegal trafficking of narcotic drugs and psychotropic substances on an especially large scale under Article 234.4.1 of the Criminal Code of Azerbaijan. [@5] A court ordered both detained men held in
+pre-trial detention. [@1] The Baku Court for Serious Crimes, chaired by Judge Hafiz Kamranov, sentenced Nihat Abdurrahmanov to 10 years' imprisonment. [@5]
