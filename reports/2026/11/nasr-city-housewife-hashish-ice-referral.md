@@ -84,26 +84,29 @@ sources:
     publisher: إخباري 24
     date: 2026-11-20
     language: ar
+  - title: تأجيل محاكمة ربة منزل بتهمة الاتجار في الحشيش والآيس
+    url: https://ekhbary24.com/article/68117
+    publisher: إخباري 24
+    date: 2026-11-23
+    language: ar
 media:
   - kind: photo
     url: https://www.dostor.org/5774461
     media_url: https://cdn.dostor.org/media/img/large/2026/11/12/2026_11_12_14_45_8_712_2911.png
     publisher: جريدة الدستور
     caption: 'The entrance of the Nasr City prosecution office, where the referral order was issued. Photo: جريدة الدستور'
-open_questions:
-    - A 20 November republication of the trial announcement still describes the first session as being held 'tomorrow Sunday', although the report records that the 15 November session was postponed to 10 December.
 ---
 
 The Nasr City prosecution ordered a housewife referred to criminal trial for
 trafficking in the narcotics hashish and ice within the Second Nasr City police
-district. [@1,3,4,5,6,7,9] The Cairo Criminal Court set 15 November to hear the first trial session in her case. [@5,6] On 16 November 2026 the Cairo Criminal Court postponed the housewife's trial to the 10 December session. [@7,8] The referral order said the accused, identified as Maha A.,
+district. [@1,3,4,5,6,7,9] The Cairo Criminal Court set 15 November to hear the first trial session in her case. [@5,6] On 16 November 2026 the Cairo Criminal Court postponed the housewife's trial to the 10 December session. [@7,8,10] The referral order said the accused, identified as Maha A.,
 possessed hashish and ice, both listed in the schedules attached to the
 drug-control law, with intent to traffic outside legally authorized
-circumstances. [@1,3,4,5,6,8,9]
+circumstances. [@1,3,4,5,6,8,9,10]
 
 Prosecutors said she held 5,000 Egyptian pounds said to be proceeds of the
 activity, alongside a mobile phone she used to contact customers and facilitate
-sales and promotion. [@1,3,4,5,6,8,9] The referral added that she made the criminal activity
+sales and promotion. [@1,3,4,5,6,8,9,10] The referral added that she made the criminal activity
 a means of unlawful profit by holding the drugs to promote and distribute them
 to users, using her residential area and the police-district area as the scene
 of the activity. [@1,3,6,9] The case began when Second Nasr City detectives received
@@ -115,4 +118,4 @@ referral. [@2]
 
 After procedures were regularized and prosecution permission was obtained, a
 security force from the district detectives arrested the accused, recorded the
-incident, and the prosecution took over the investigation. [@1,3,4,6,8,9]
+incident, and the prosecution took over the investigation. [@1,3,4,6,8,9,10]
