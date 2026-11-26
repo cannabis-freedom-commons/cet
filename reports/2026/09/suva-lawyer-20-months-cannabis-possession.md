@@ -54,6 +54,10 @@ sources:
     url: https://www.fijivillage.com/p/lateef-sentenced-to-20-months-for-meth-and-marijuana-possession-0e50f7/
     publisher: Fijivillage
     date: 2026-09-28
+  - title: Lateef sentenced to 20 months for meth and marijuana possession
+    url: https://www.fijivillage.com/news-featur/lateef-sentenced-to-20-months-for-meth-and-marijuana-possession-0e50f7/
+    publisher: Fijivillage
+    date: 2026-09-28
 open_questions:
     - The 1.81 grams of methamphetamine is mentioned only to explain the mixed case and is excluded from cannabis figures.
     - A prior three-year, eight-month sentence for a 2019 possession case is context for concurrency and is excluded from this event's figures as a separate event.
@@ -64,17 +68,17 @@ open_questions:
 
 The Suva Magistrates Court sentenced former Suva lawyer Shazran Abdul Lateef to
 20 months imprisonment for two counts of unlawful possession of illicit drugs.
-[@1,4,5] Resident Magistrate Joseph Daurewa imposed the sentence after Lateef
+[@1,4,5,6] Resident Magistrate Joseph Daurewa imposed the sentence after Lateef
 pleaded guilty to both counts. [@2] The court ordered the 20-month term to run
 concurrently with the prison term Lateef is already serving for a separate
-conviction. [@1,4,5] Police found the drugs during a vehicle search, leading to
+conviction. [@1,4,5,6] Police found the drugs during a vehicle search, leading to
 Lateef's arrest and prosecution. [@2]
 
 The cannabis component in the case was 1.0 gram, alongside 1.81 grams of
-methamphetamine. [@1,5] On 13 August 2021, Lateef was travelling in a vehicle with
+methamphetamine. [@1,5,6] On 13 August 2021, Lateef was travelling in a vehicle with
 another person when police stopped and searched them. [@1] Magistrate Daurewa
 ordered the seized drugs to be destroyed within 28 days under court supervision.
-[@2,4,5] Lateef has 28 days to appeal the decision. [@3,5]
+[@2,4,5,6] Lateef has 28 days to appeal the decision. [@3,5,6]
 
 In mitigation, the court heard Lateef is 65, recently suffered a stroke, is
 remorseful and cooperated with police. [@1] The court also heard Lateef is a
