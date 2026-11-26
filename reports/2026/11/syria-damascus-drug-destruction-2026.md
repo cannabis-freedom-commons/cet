@@ -71,6 +71,11 @@ media:
     media_url: https://english.ahram.org.eg/Media/News/2026/11/22/41_2026-639309535169764549-976.jpg
     publisher: Ahram Online
     caption: 'Sacks of drugs being prepared for destruction, a SANA handout released on 22 November 2026. Photo: SANA via AFP'
+  - kind: photo
+    url: https://www.aljazeera.net/news/2026/11/23/%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D9%82%D9%8A%D9%85%D8%AA%D9%87%D8%A7-10-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7
+    media_url: https://www.aljazeera.net/wp-content/uploads/2026/11/mkhdrat1-1795423150.jpg?resize=770%2C513&quality=80
+    publisher: الجزيرة نت
+    caption: 'Seized narcotics and psychotropic substances being destroyed by a joint committee of Syria''s interior, justice and health ministries. Photo: Al Jazeera Net'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 58eedc046fa120c14fd1e1dffaf83932
@@ -263,21 +268,28 @@ sources:
     url: https://sana.sy/en/syria/2360696/
     publisher: Syrian Arab News Agency (SANA)
     date: 2026-11-22
+  - title: '"تتجاوز قيمتها 10 مليارات دولار".. سوريا تتلف كميات ضخمة من المخدرات المضبوطة'
+    url: https://www.aljazeera.net/news/2026/11/23/%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D9%82%D9%8A%D9%85%D8%AA%D9%87%D8%A7-10-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7
+    publisher: الجزيرة نت
+    date: 2026-11-23
+    language: ar
+open_questions:
+  - The $10 billion valuation is a security analyst's estimate for the whole batch of destroyed drugs, most of it Captagon, not a figure published by the Anti-Narcotics Directorate for the cannabis alone.
 ---
 
 Syria's Anti-Narcotics Directorate announced on Sunday 22 November 2026 that a
 joint committee of the interior, justice and health ministries had destroyed
-large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,31,32,33,35] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15,17,20,21,22,23,24,25,26,27,28,29,30,31,33,35,36,37] The quantities
+large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,31,32,33,35,40] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15,17,20,21,22,23,24,25,26,27,28,29,30,31,33,35,36,37] The quantities
 were destroyed in batches under approved legal and environmental procedures.
 [@4,16,35,39] The directorate described the destruction as reflecting integrated national
 efforts against drugs. [@2,25,35]
 
 The destroyed material included 12.2 tonnes of hashish and 2.3 tonnes of
-cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37,39] The same batches included
+cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37,39,40] Security expert Ismat al-Abssi estimated the value of the destroyed drugs at more than $10 billion. [@40] The same batches included
 400 million Captagon pills, 6 kilograms of heroin and 5.4 million other narcotic
 pills, none of which is counted as cannabis. [@3,5,6,8,9,11,12,13,14,15,16,17,18,20,21,22,23,24,25,26,27,29,30,31,33,35,36,37,39] The directorate also destroyed
 equipment and chemicals used to smuggle, conceal, transport and manufacture the
-drugs. [@1,6,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,34,35,36,37,39]
+drugs. [@1,6,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,34,35,36,37,39,40]
 
 Interior Minister Anas Khattab said the quantities were among the largest
 destroyed since Bashar al-Assad's government fell in December 2024. [@4,7,28]
