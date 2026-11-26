@@ -78,6 +78,11 @@ sources:
     publisher: الجمهور الإخباري
     date: 2026-11-22
     language: ar
+  - title: ضبط طالب يروج لبيع الحشيش عبر السوشيال ميديا - بوابة مولانا
+    url: https://mwlana.com/details/353180/
+    publisher: بوابة مولانا
+    date: 2026-11-22
+    language: ar
 media:
   - kind: photo
     url: https://www.youlyou.com/100322
@@ -103,15 +108,15 @@ media:
 
 Security services arrested a student in the Boulak El-Dakrour police station
 district of Giza governorate, accusing him of running a social media page that
-promoted the sale of drugs for money. [@1,4,5,6,7,8] The Interior Ministry said in a
+promoted the sale of drugs for money. [@1,4,5,6,7,8,9] The Interior Ministry said in a
 statement on Sunday that security services had spotted a person running a page
 on social media to promote the sale of drugs in exchange for money. [@1]
 Detectives identified the person running the page and arrested him after
-spotting the page being used to advertise drugs for sale. [@3,4,5,6]
+spotting the page being used to advertise drugs for sale. [@3,4,5,6,9]
 
 The man arrested was a student living in the Boulak El-Dakrour police station
-district of Giza. [@2,7,8] A mobile phone was found in his possession, and a check
+district of Giza. [@2,7,8,9] A mobile phone was found in his possession, and a check
 showed it contained evidence confirming his criminal activity, along with a
-quantity of hashish. [@1,4,5,6,7,8] Confronted with the findings, the suspect admitted
+quantity of hashish. [@1,4,5,6,7,8,9] Confronted with the findings, the suspect admitted
 creating and running the page to promote the sale of the drugs seized from him.
-[@1,4,5,6,7,8] The ministry said the necessary legal measures had been taken. [@1,4,7]
+[@1,4,5,6,7,8,9] The ministry said the necessary legal measures had been taken. [@1,4,7,9]
