@@ -103,6 +103,11 @@ sources:
     publisher: COPE
     date: 2026-11-23
     language: es
+  - title: Desmantelada una plantación con 1.440 plantas de marihuana y 113 kilos de cogollos en una nave de Murcia
+    url: https://www.msn.com/es-es/noticias/otras/desmantelada-una-plantaci%C3%B3n-con-1440-plantas-de-marihuana-y-113-kilos-de-cogollos-en-una-nave-de-murcia/ar-AA2i2e6A
+    publisher: La Razón / MSN
+    date: 2026-11-23
+    language: es
 open_questions:
     - No separate date is given for the raid; 23 November 2026 is the publication date and stands in for the incident date.
     - The buds weighed almost 113 kilograms; the exact weight was not stated, so 113 kg is recorded as reported.
@@ -129,3 +134,5 @@ from the UDYCO drug and organised-crime unit, the UPR prevention and reaction
 unit, the GAC citizen-attention group and the Scientific Police took part. [@1,4,6]
 The operation forms part of the National Police strategy against illegal
 marijuana cultivation and distribution networks in the Region of Murcia. [@1]
+
+Officers also seized the equipment used to run the grow: 99 high-intensity lights, 15 air filters, 45 fans, a dozen extractors and five industrial air-conditioning units. [@8] The raid was carried out by the National Police's drugs and organised crime unit (UDYCO), the prevention and reaction unit (UPR), the citizen support group (GAC) and the scientific police. [@8] The National Police said the operation formed part of investigations into criminal organisations trafficking drugs nationally and internationally from the Murcia region. [@8]
