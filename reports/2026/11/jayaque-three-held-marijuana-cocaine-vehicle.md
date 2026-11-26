@@ -48,26 +48,41 @@ sources:
     publisher: Diario La Página
     date: 2026-11-22
     language: es
+  - title: Capturan a tres personas por movilizar droga en Jayaque
+    url: https://diario1.com/nacionales/2026/11/capturan-a-tres-personas-por-movilizar-droga-en-jayaque/
+    publisher: Diario1
+    date: 2026-11-23
+    language: es
 open_questions:
-  - No weight, number of portions or value was published for the marijuana or cocaine.
-  - The suspects were only reported as due to be referred; no charge filing or court outcome was given.
-  - Both accounts reproduce the same National Civil Police statement and are not independent reporting.
-  - The article also mentions separate arrests in La Unión and San Rafael Cedros, which are different events left out here.
-  - Coordinates are for the centre of Jayaque district, not the exact point of the patrol.
+    - No weight or value was published for the marijuana or cocaine, and no cocaine portion count was given; the new account reports at least eight marijuana portions of various sizes.
+    - The suspects were only reported as due to be referred; no charge filing or court outcome was given.
+    - All three accounts reproduce the same National Civil Police statement and are not independent reporting.
+    - The earlier accounts also mention separate arrests in La Unión and San Rafael Cedros, which are different events left out here.
+    - Coordinates are for the centre of Jayaque district, not the exact point of the patrol.
+media:
+  - kind: photo
+    url: https://diario1.com/nacionales/2026/11/capturan-a-tres-personas-por-movilizar-droga-en-jayaque/
+    media_url: https://cdnwine.diario1.com/wp-content/uploads/2026/11/927478603_1573759454785735_171013323313908742_n-1.jpg
+    publisher: Diario1
+    caption: 'Seized marijuana portions and packages from the Jayaque vehicle laid out for the police report. Photo: vía Policía Nacional Civil'
+  - kind: photo
+    url: https://diario1.com/nacionales/2026/11/capturan-a-tres-personas-por-movilizar-droga-en-jayaque/
+    media_url: https://cdnwine.diario1.com/wp-content/uploads/2026/11/image-23.png
+    publisher: Diario1
+    caption: 'Seized drug portions from the Jayaque vehicle in a second police handout photo. Photo: vía Policía Nacional Civil'
 ---
 
 Three people were arrested for illicit drug trafficking during a police patrol
 in the district of Jayaque, La Libertad Oeste, the National Civil Police (PNC)
-said. [@2] They were identified as Albin Ernesto Ramos Vásquez, 26, David
-Ernesto Santos Núñez, 27, and Paola Virginia Alvarado Alfaro, 25. [@2] The PNC
+said. [@2,3] They were identified as Albin Ernesto Ramos Vásquez, 26, David
+Ernesto Santos Núñez, 27, and Paola Virginia Alvarado Alfaro, 25. [@2,3] The PNC
 announced the arrests on Sunday, 22 November 2026. [@1]
 
 During the procedure in Jayaque police found several portions of marijuana and
-cocaine that the three were carrying in a vehicle. [@1] All three were
+cocaine that the three were carrying in a vehicle. [@1,3] Police found at least eight portions of marijuana of various sizes, along with other packages of illicit material. [@3] All three were
 travelling in a vehicle which held portions of cocaine and marijuana that were
 located during the police procedure. [@2]
 
-The three were to be referred for the offence of illicit trafficking. [@1] The
+The three were to be referred for the offence of illicit trafficking. [@1,3] The
 PNC said the suspects would be referred to the relevant authorities to answer
 for illicit drug trafficking. [@2]
-
