@@ -52,22 +52,26 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-22
     language: hi
+  - title: 'ओडिशा से गांजा ला रहे दो तस्कर गिरफ्तार: एटा में 145 किलो 610 ग्राम गांजा और कैंटर जब्त; 75 लाख कीमत बताई - Etah Ganja Smuggling Case | Police Arrest Two With 145kg Cannabis'
+    url: https://www.bhaskar.com/local/uttar-pradesh/etah/news/etah-police-arrest-smugglers-seize-ganja-truck-139765496.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-22
+    language: hi
 open_questions:
     - No separate date or time for the interception was reported, so 22 November 2026 is the publication date used as the incident date.
     - No charge, case number, court production or remand outcome was reported.
     - The 75-lakh-rupee figure is the authorities' estimated international-market value, not an independently verified price.
-    - Whether the canter itself was impounded was not stated beyond its being stopped and searched.
-    - Both accounts relay the same ANTF and police statement, with no independent investigation reported.
+    - All three accounts relay the same ANTF and police statement, with no independent investigation reported.
 ---
 
 A joint team of the ANTF operational unit Meerut and Raja ka Rampur police
-arrested two smugglers. [@1] The arrested men were Premnarayan alias Bunty, son
+arrested two smugglers. [@1,3] The arrested men were Premnarayan alias Bunty, son
 of Satyaprakash, and Ankit, son of Dharampal, both of Toli village in the
 Sikandra Rao area of Hathras district. [@1] Police arrested the two canter
 riders on the spot. [@1,2]
 
-A search of the canter yielded 145 kg 610 g of ganja. [@1,2] Police put the
-estimated international-market value of the ganja at about 75 lakh rupees. [@1,2]
+A search of the canter yielded 145 kg 610 g of ganja. [@1,2,3] Police also seized the canter used for smuggling, a mobile phone and 5,000 rupees in cash. [@3] Police put the
+estimated international-market value of the ganja at about 75 lakh rupees. [@1,2,3]
 The accused told questioning officers that the consignment belonged to Golu
 alias Golak of Delhi. [@1] Golu had loaded the ganja in Odisha for delivery at
 his stated hideout in Delhi-NCR. [@1] The pair were promised 50,000 rupees in
