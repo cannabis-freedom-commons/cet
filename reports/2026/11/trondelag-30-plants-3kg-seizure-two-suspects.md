@@ -48,6 +48,11 @@ media:
     media_url: https://g.acdn.no/api/lumina/backend/ami-large/cue/nettav/2026/11/23/12/beslag%20cannabisplantasje%202.jpg
     publisher: Nettavisen
     caption: 'Cannabis plants and seized material from the plantation found in the man''s home in Trøndelag. Photo: Audun Hoem Musinoi Hagen / Politiet'
+  - kind: photo
+    url: https://www.nrk.no/trondelag/politiet-og-tolletaten-fant-cannabisplantasje-i-trondelag-1.18087106
+    media_url: https://gfx.nrk.no/pcvW4JvuJK0WCIKMmhrRdAZspo2RBeVdQ-bkpEWdVABA.jpg
+    publisher: NRK
+    caption: 'Seized cannabis material laid out after the Trøndelag home search. Photo: TRØNDELAG POLITIDISTRIKT / NRK'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 45410ac2ec68452fd7f1960283dd3790
@@ -58,29 +63,33 @@ sources:
     publisher: Nettavisen
     date: 2026-11-23
     language: nb
+  - title: Politiet og Tolletaten fant cannabisplantasje i Trøndelag – NRK Trøndelag – Lokale nyheter, TV og radio
+    url: https://www.nrk.no/trondelag/politiet-og-tolletaten-fant-cannabisplantasje-i-trondelag-1.18087106
+    publisher: NRK
+    date: 2026-11-23
+    language: nb
 open_questions:
-  - The exact dates of the roadside stop and the home search were not given; early November was stated for the stop, and 23 November 2026 is the publication date used as the incident date.
-  - The figures are approximate, reported as around 30 plants and around three kilos.
-  - The three kilos were only presumed to be marijuana and hashish, with laboratory analysis by Kripos still pending.
-  - No figure for the number of cannabis seeds seized from the car was published.
-  - The home locality within Trøndelag was not named, and no arrests or court outcome were reported beyond questioning and suspicion.
-  - The whole account rests on a single Nettavisen report of the police investigation.
+    - The exact dates of the roadside stop and the home search were not given; early November was stated for the stop, and 23 November 2026 is the publication date used as the incident date.
+    - The figures are approximate, reported as around 30 plants and around three kilos.
+    - The three kilos were only presumed to be marijuana and hashish, with laboratory analysis by Kripos still pending.
+    - No figure for the number of cannabis seeds seized from the car was published.
+    - The home locality within Trøndelag was not named, and no arrests or court outcome were reported beyond questioning and suspicion.
+    - Both accounts report the same police investigation, with no independent account beyond the police statement.
 ---
 
 At the start of November, customs officers stopped a man in his 40s on the E14
-in Trøndelag. [@1] Tolletaten seized several cannabis seeds from his car and
+in Trøndelag. [@1,2] Tolletaten seized several cannabis seeds from his car and
 notified the police, who decided to search the man's home. [@1] The driver was a
 man in his 40s travelling by car. [@1] The man has since been questioned by
 police about the findings. [@1] He is suspected of a serious drug offence, while
 his cohabiting partner is suspected of complicity. [@1]
 
-During the search of his home, police found around 30 cannabis plants. [@1] In
+During the search of his home, police found around 30 cannabis plants. [@1,2] In
 addition to the plants, officers seized around three kilos of material they
-believe is marijuana and hashish. [@1] Both the plants and the three kilos were
+believe is marijuana and hashish. [@1,2] Both the plants and the three kilos were
 taken during the same home search. [@1] The seized material has been sent to
-Kripos for analysis. [@1]
+Kripos for analysis. [@1,2]
 
 Police prosecutor Maria Alvilde Dahlen of Trondelag Police District said the
-investigation is still at an early stage. [@1] Police still have further
+investigation is still at an early stage. [@1,2] Police still have further
 interviews and examinations to carry out. [@1]
-
