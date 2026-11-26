@@ -68,13 +68,20 @@ sources:
     publisher: Ekhon TV
     date: 2026-11-23
     language: bn
+  - title: সিংগাইরে ৩৮ কেজি গাঁজাসহ একই পরিবারের ৪ নারী মাদক কারবারি আটক
+    url: https://www.jaijaidin.news/news/368478
+    publisher: Daily Jaijaidin
+    date: 2026-11-23
+    language: bn
+open_questions:
+  - Accounts differ on the detention time on 22 November 2026, giving about 7:30 p.m. or about 8:15 p.m.
 ---
 
 Local residents in Paschim Basta village, Singair upazila, Manikganj, detained
-four women with 38 kg of cannabis and handed them to police. [@1,3,4] The four women
+four women with 38 kg of cannabis and handed them to police. [@1,3,4,5] The four women
 were detained at about 8:15 pm on Sunday 22 November 2026 in Paschim Basta
 village in Dhalla union. [@1] The detained women, all from Paschim Basta, were
-Taslima Begum, 32, Rujina Begum, 35, Tanha, 19, and Hazera Begum, 60. [@2,4]
+Taslima Begum, 32, Rujina Begum, 35, Tanha, 19, and Hazera Begum, 60. [@2,4,5] The four women were from the same family, including Hazera Begum's daughter Rujina Begum and her son's wife Tanha. [@5]
 
 Residents searched the women after seeing them moving suspiciously and recovered
 the 38 kg of cannabis from them before handing them to Singair Thana police with
@@ -90,4 +97,4 @@ Jhorna Akter, accused of being the main organiser of the operation, had fled.
 
 The four detained women were being held in police custody. [@1,3] Singair Thana
 officer-in-charge Mazharul Islam said a case against the four women over the
-recovery of the 38 kg was being prepared. [@2,3,4]
+recovery of the 38 kg was being prepared. [@2,3,4] A case had been filed against the detained women. [@5]
