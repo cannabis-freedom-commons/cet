@@ -114,13 +114,20 @@ sources:
     publisher: V6 Velugu
     date: 2026-11-23
     language: te
+  - title: 'Hyderabad: మాదకద్రవ్యాల అక్రమ రవాణాపై మల్కాజిగిరి పోలీసుల దాడులు!'
+    url: https://www.hmtvlive.com/telugu-news/hyderabad/malkajgiri-sot-police-bust-interstate-ganja-smuggling-network-seize-215982
+    publisher: HMTV
+    date: 2026-11-23
+    language: te
+open_questions:
+  - HMTV names the arresting unit as the Malkajgiri SOT, while other accounts of the same seizure call it the Uppal zone SOT.
 ---
 
 Uppal zone Special Operations Team officers and Nacharam police arrested three
 people in a joint operation and seized about 60.38 kilograms of ganja that
-police valued at about 3 million rupees. [@1,2,6,7,8,9,10,11] Police named the two absconding suspects as Rahul alias Krishna and Ajay Sagar. [@4,6,7] Police said Rahul alias Krishna, the main organiser, was from Berhampur in Ganjam district, Odisha, and that Ajay Sagar helped procure and load the ganja. [@6] The arrested men were Sameer Hassan Ali Shaikh alias Ravi Kumar Chowdary, 42, a driver from Jogeshwari East in Mumbai; Mohammed Khan, 52, a cook from King Koti, Hyderabad; and Chandan Kumar Jena, 31, a driver from Kukatpally. [@4,7,12] Officers stopped a suspicious car
+police valued at about 3 million rupees. [@1,2,6,7,8,9,10,11,14] Police named the two absconding suspects as Rahul alias Krishna and Ajay Sagar. [@4,6,7] Police said Rahul alias Krishna, the main organiser, was from Berhampur in Ganjam district, Odisha, and that Ajay Sagar helped procure and load the ganja. [@6] The arrested men were Sameer Hassan Ali Shaikh alias Ravi Kumar Chowdary, 42, a driver from Jogeshwari East in Mumbai; Mohammed Khan, 52, a cook from King Koti, Hyderabad; and Chandan Kumar Jena, 31, a driver from Kukatpally. [@4,7,12] Officers stopped a suspicious car
 during vehicle checks on the Nacharam-Chilkanagar road and found 60 ganja
-packets packed in four gunny sacks in its boot. [@1,3,8,9,10,12] Police kept watch at IDA Nacharam Road No. 5 on the 20th of the month before detaining the car. [@13] The check took place near the Sterling Shoes Company in IDA Nacharam. [@11] The blue Fiat Linea, registered MH01BK9751, was intercepted at about 6:23 pm on 20 November. [@7] Police said the accused tried to flee after noticing the officers. [@6,7] Police said the interception was made on Saturday following specific information. [@4] Police also seized the car
+packets packed in four gunny sacks in its boot. [@1,3,8,9,10,12] Police kept watch at IDA Nacharam Road No. 5 on the 20th of the month before detaining the car. [@13] The check took place near the Sterling Shoes Company in IDA Nacharam. [@11,14] The blue Fiat Linea, registered MH01BK9751, was intercepted at about 6:23 pm on 20 November. [@7] Police said the accused tried to flee after noticing the officers. [@6,7] Police said the interception was made on Saturday following specific information. [@4] Police also seized the car
 used for the transport and four mobile phones. [@1,3,6,7,9]
 
 Police said the three had bought the ganja in Odisha for 2,000 rupees a kilogram
@@ -129,7 +136,7 @@ identified a man named Rahul as the main organiser behind the smuggling
 operation. [@1,4] Police said Rahul came into contact with Sameer through a person named Izaz. [@4] Investigators said the three agreed to carry the consignments
 after Rahul offered them a commission of 5,000 to 8,000 rupees for each
 delivery. [@1,4,6,7,9,12] The three had travelled to Odisha the week before and were caught at IDA Nacharam while delivering the consignment to another person. [@4,12] The three set out towards Odisha on 16 November. [@7] The three travelled to Berhampur, where the 60 packets were loaded into the car, and began the return journey to Hyderabad on 19 November. [@6,7] They returned through Visakhapatnam, Anakapalle, Tuni, Annavaram, Khammam and Suryapet before approaching Hyderabad on NH-65. [@7] Police said they changed drivers frequently and avoided toll plazas to escape police checks. [@7] They took turns driving and stayed in touch with Rahul through WhatsApp calls during the journey. [@7] Rahul was still at large and special teams were searching for
-him. [@1,2,9] Commissioner of Police B. Sumathi said police were trying to establish the roles of the two absconding suspects. [@5]
+him. [@1,2,9,14] Commissioner of Police B. Sumathi said police were trying to establish the roles of the two absconding suspects. [@5]
 
 Police said they were investigating where the network's supply came from, its
 financial dealings and who the consignments were supplied to. [@1,7,9]
