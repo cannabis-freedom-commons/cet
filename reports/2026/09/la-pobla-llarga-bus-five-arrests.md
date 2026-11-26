@@ -82,15 +82,20 @@ sources:
     publisher: Noticias Comunitat Valenciana
     date: 2026-11-23
     language: es
+  - title: Una llamada anónima en una carretera valenciana lleva a interceptar un autobús hacia Francia con cinco pasajeros que transportaban droga
+    url: https://www.elperiodic.com/pvalencia/llamada-anonima-carretera-valenciana-lleva-interceptar-autobus-hacia-francia-cinco-pasajeros-transportaban-droga_1103916
+    publisher: elperiodic.com
+    date: 2026-11-23
+    language: es
 ---
 
 Guardia Civil officers detained five men on suspicion of drug trafficking after
 finding marijuana, hashish and cocaine among their belongings. [@1,6] They were
 travelling on a bus bound for France that was intercepted on the CV-41 road at
 La Pobla Llarga, in an operation also involving the municipality's local police.
-[@1,6] The case goes back to 5 September, when the Guardia Civil received an
+[@1,6,7] The case goes back to 5 September, when the Guardia Civil received an
 anonymous call warning that a group of men had boarded a bus to France from a
-municipality in the Ribera Alta. [@1,5,6] The bus was intercepted on 5 September on
+municipality in the Ribera Alta. [@1,5,6,7] The bus was intercepted on 5 September on
 the CV-41 near La Pobla Llarga after the anonymous tip-off. [@3] A surveillance
 operation was mounted involving officers from the Guardia Civil posts at
 Castelló, Carcaixent and Carlet alongside local police from La Pobla Llarga.
@@ -99,11 +104,11 @@ description in the call. [@1,5,6] The officers halted the vehicle and waited for
 rest of the patrols before beginning the inspection. [@1]
 
 During the intervention officers searched about 40 passengers and their luggage.
-[@1,5,6] Five of the passengers, all adult Spanish nationals, were carrying
-different quantities of drugs. [@1,5] After the discovery, the five men were
+[@1,5,6,7] Five of the passengers, all adult Spanish nationals, were carrying
+different quantities of drugs. [@1,5,7] After the discovery, the five men were
 detained as suspected perpetrators of a crime against public health through drug
-trafficking. [@1,5] Officers seized 314 grams of marijuana. [@1,5,6] They also seized
-135 grams of hashish. [@1,5,6] They found a further 24 grams of cocaine. [@1,6] The
+trafficking. [@1,5,7] Officers seized 314 grams of marijuana. [@1,5,6,7] They also seized
+135 grams of hashish. [@1,5,6,7] They found a further 24 grams of cocaine. [@1,6] The
 combined quantity was approximately 473 grams of drugs. [@1] The Guardia Civil
 stopped the vehicle on the CV-41 at La Pobla Llarga after an anonymous report
 and seized more than 470 grams of drugs in the search. [@2]
@@ -112,4 +117,4 @@ The bus had departed from a municipality in the Ribera Alta, according to the
 Guardia Civil. [@4] The operation was carried out jointly by the Guardia Civil
 posts of Castelló, Carcaixent and Carlet and La Pobla Llarga's local police.
 [@1] The case papers were sent to the Civil and Instruction Section of the Court
-of First Instance in Alzira, plaza number four. [@1,5,6]
+of First Instance in Alzira, plaza number four. [@1,5,6,7]
