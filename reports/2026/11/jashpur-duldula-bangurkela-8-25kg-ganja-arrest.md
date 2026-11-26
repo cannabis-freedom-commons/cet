@@ -54,6 +54,11 @@ sources:
     publisher: Navin Kadam News
     date: 2026-11-21
     language: hi
+  - title: 'घर में छिपाकर रखा था 8 किलो गांजा, आरोपी गिरफ्तार: जशपुर के दुलदुला में पुलिस की दबिश, कीमत करीब 4 लाख रुपए'
+    url: https://www.bhaskar.com/local/chhattisgarh/jashpur/news/jashpur-police-arrest-man-drug-seizure-operation-aaghat-139765030.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-22
+    language: hi
 open_questions:
   - The sources date the informer's tip to 20 November 2026 and say police acted immediately, but give no separate date for the search itself.
   - No figure is given for the number of plants or the area involved; the ganja was already processed and packed.
@@ -64,11 +69,11 @@ open_questions:
 ---
 
 Duldula police searched a house in Bangurkela Akhradipa village in Jashpur
-district, Chhattisgarh, and found 8.25 kg of ganja. [@1] The ganja was packed in
+district, Chhattisgarh, and found 8.25 kg of ganja. [@1,3] The ganja was packed in
 eight packets tied in plastic wrappers inside a plastic sack kept in a room of
 the house. [@1] Police arrested the householder, 32-year-old Rajkumar Dani, and
 sent him to judicial remand. [@1] Police put the estimated market value of the
-seized ganja at about 4 lakh rupees. [@1]
+seized ganja at about 4 lakh rupees. [@1,3]
 
 The raid followed a tip received on 20 November 2026 that Dani kept a large
 quantity of ganja at his home and was looking for customers to sell it to. [@1]
@@ -80,7 +85,6 @@ sent to judicial remand, and police said further investigation was continuing.
 [@1]
 
 The raid was part of Operation Aaghat, the Jashpur district police campaign
-against illegal drug trafficking. [@1] Jashpur's deputy inspector general and
+against illegal drug trafficking. [@1,3] Jashpur's deputy inspector general and
 superintendent of police, Dr Lal Umed Singh, said more than 8 kg of ganja had
 been seized with one arrest in the Duldula police station area. [@1]
-
