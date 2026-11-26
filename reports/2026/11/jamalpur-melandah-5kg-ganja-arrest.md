@@ -60,28 +60,26 @@ sources:
     url: https://cniasia.news/post-details/204124
     publisher: CNI Asia
     language: bn
-open_questions:
-  - No estimated value was published for the 5.5 kg of ganja.
-  - The reports do not say whether the accused admitted or denied the allegation.
-  - No charge sheet, trial date or court outcome beyond the remand to jail is reported.
-  - The reports name the Paragali Tonki area of Melandah upazila but give no more precise address.
-  - The accounts rest on the same district police press release and are not independent reporting.
-  - 'Left out, as its quotation was not found in Jamalpur News 24: The raid was carried out on secret information, and officers seized 5 kg 500 g of ganja and arrested him there.'
+  - title: জামালপুরে ডিবির অভিযানে গাঁজাসহ গ্রেপ্তার ১
+    url: https://www.ntvbd.com/bangladesh/news-1841481?amp=
+    publisher: NTV Online
+    date: 2026-11-24
+    language: bn
 ---
 
 Jamalpur district police arrested Md. Abdur Rahim, 46, after finding 5 kg 500 g
-of ganja stored in his house in Melandah upazila. [@1,3] A court sent him to jail
+of ganja stored in his house in Melandah upazila. [@1,3,4] A court sent him to jail
 on Monday 23 November 2026, the day after the raid. [@1]
 
 The district Detective Branch (DB-1) raided the house in the Paragali Tonki area
-at about 12:20 pm on Sunday 22 November 2026. [@1] The DB team acted on secret information. [@3] Officers recovered the ganja,
+at about 12:20 pm on Sunday 22 November 2026. [@1,4] The DB team acted on secret information. [@3] Officers recovered the ganja,
 packed in white plastic sacks, from inside the room. [@1,3] The DB team was led by
 Sub-Inspector (unarmed) Md. Ehsanul Haque and acted on the instruction of
-Superintendent of Police Mosammat Farhana Yasmin. [@1]
+Superintendent of Police Mosammat Farhana Yasmin. [@1,4]
 
 Police said a regular case under the Narcotics Control Act was filed against him
 at Melandah police station. [@1] The district police announced the arrest in a
-press release on the afternoon of Monday 23 November. [@2,3] Superintendent
+press release on the afternoon of Monday 23 November. [@2,3,4] Superintendent
 Farhana Yasmin said drug use was a social disease and that her force had a
 zero-tolerance stance, with regular and special drives continuing to make
-Jamalpur drug-free. [@1,3]
+Jamalpur drug-free. [@1,3,4]
