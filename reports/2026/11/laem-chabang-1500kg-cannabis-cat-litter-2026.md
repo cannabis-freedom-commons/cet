@@ -54,6 +54,11 @@ sources:
     publisher: ข่าวสดออนไลน์
     date: 2026-11-24
     language: th
+  - title: ‘ศุลกากร’ จับลอบส่งออกกัญชา 1,500 กก. สำแดงเป็นทรายแมว มูลค่า 15 ลบ.
+    url: https://www.bangkokbiznews.com/economics/1262094
+    publisher: Bangkokbiznews
+    date: 2026-11-24
+    language: th
 open_questions:
   - Left out products, as its quotation was not found in สยามรัฐ.
   - Left out kg seized, as its quotation was not found in สยามรัฐ.
@@ -61,15 +66,15 @@ open_questions:
 
 Thai Customs officers seized 1,500 kilograms of dried cannabis flower at Laem
 Chabang Port in Chon Buri province on 18 November 2026, after inspecting an
-outbound consignment declared as paper-based cat litter. [@1] The flowers were
-packed in vacuum-sealed bags. [@3] Customs valued the shipment at more than 15
-million baht. [@1] The same shipment was reported as 1,500 kilogrammes of dried
+outbound consignment declared as paper-based cat litter. [@1,4] The flowers were
+packed in vacuum-sealed bags. [@3,4] Customs valued the shipment at more than 15
+million baht. [@1,4] The same shipment was reported as 1,500 kilogrammes of dried
 cannabis flowers worth approximately 15 million baht. [@2]
 
 The seizure was carried out jointly by the Customs Department's Enforcement
 Division and the Laem Chabang Port Customs Office, its director Eakvut Naeak
-said. [@2] The exporter failed to produce the required export licence during
-customs clearance. [@2] The cannabis flower was a controlled herb under a Public
+said. [@2,4] The exporter failed to produce the required export licence during
+customs clearance. [@2,4] The cannabis flower was a controlled herb under a Public
 Health Ministry notification published on 23 June 2025, requiring export
 authorisation from the Department of Thai Traditional and Alternative Medicine
 under section 46 of the Protection and Promotion of Thai Traditional Medicine
@@ -86,4 +91,3 @@ Nitithanprapas for Customs to work with law-enforcement agencies in preventing
 and suppressing lawbreaking. [@1] Prime Minister Anutin Charnvirakul had set an
 accelerated policy to prevent and suppress all forms of lawbreaking, with an
 emphasis on smuggling. [@3]
-
