@@ -61,22 +61,29 @@ sources:
     publisher: A Tribuna
     date: 2026-11-22
     language: pt
+  - title: Mineiro é preso por transportar 4 kg de haxixe vindo da Tailândia
+    url: https://odia.ig.com.br/rio-de-janeiro/2026/11/7324703-mineiro-e-preso-por-transportar-4-kg-de-haxixe-vindo-da-tailandia.html
+    publisher: O Dia
+    date: 2026-11-22
+    language: pt
+open_questions:
+  - No charge, detention ruling or court step after the arrest in flagrante has been reported.
 ---
 
 A 21-year-old Brazilian was arrested in flagrante as he landed at Rio's Galeão
 International Airport on Saturday evening with about 4.6 kg of hashish in his
-luggage. [@1,3] The Federal Police dated the arrest to Saturday 21 November 2026
+luggage. [@1,3,4] The Federal Police dated the arrest to Saturday 21 November 2026
 and said it acted jointly with the Federal Revenue. [@2,3]
 
 According to the Federal Police, the drugs were hidden in the false bottom of a
 suitcase he had checked in. [@1,3] Officers and Federal Revenue staff found 83
-tablets of the drug in the false bottom during a routine inspection. [@2,3] The
+tablets of the drug in the false bottom during a routine inspection. [@2,3,4] The
 tablets were discovered during a routine check on arrival, in a joint operation
 by the Federal Police and the Federal Revenue. [@1]
 
 The passenger, a native of Uberlândia in Minas Gerais, had flown from Bangkok,
 Thailand, connecting in Dubai, the United Arab Emirates, before reaching Rio.
-[@1,3] He was taken to the Federal Police regional headquarters in Rio, where an
-arrest report was drawn up for international drug trafficking. [@2,3] Police said
+[@1,3,4] He was taken to the Federal Police regional headquarters in Rio, where an
+arrest report was drawn up for international drug trafficking. [@2,3,4] Police said
 he would then be sent to the state prison system and remain at the disposal of
-the courts. [@2,3]
+the courts. [@2,3,4]
