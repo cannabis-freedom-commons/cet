@@ -157,25 +157,30 @@ sources:
     publisher: MisionesOnline
     date: 2026-11-21
     language: es
+  - title: 'Golpe al narcotráfico en la frontera: la Aduana secuestró más de 212 kilos de marihuana en Posadas'
+    url: https://sinfiltro.ar/golpe-al-narcotrafico-en-la-frontera-la-aduana-secuestro-mas-de-212-kilos-de-marihuana-en-posadas/
+    publisher: Sinfiltro
+    date: 2026-11-21
+    language: es
 ---
 
 Argentine customs officers seized 212 kilograms of marijuana from a car at the
-international bridge in Posadas, Misiones. [@1,5,6,7,8,9,10,11] The car was detained on the
+international bridge in Posadas, Misiones. [@1,5,6,7,8,9,10,11,12] The car was detained on the
 afternoon of Friday 20 November 2026 at the Argentine end of the
 Posadas-Encarnación bridge. [@3,5,8] Its driver, a 35-year-old Argentine, was
 arrested and placed at the disposal of the Unidad Fiscal Posadas, the federal
-prosecutor's office. [@3,5,6,7,8,9,10,11] He was bringing the load into Argentina from
-Encarnación, Paraguay. [@4,5]
+prosecutor's office. [@3,5,6,7,8,9,10,11,12] The driver was held incommunicado. [@12] He was bringing the load into Argentina from
+Encarnación, Paraguay. [@4,5,12]
 
 The procedure began around 17:00 when a Chevrolet reached the migration control
-on the San Roque González de Santa Cruz bridge. [@3] The vehicle was a Chevrolet Spin. [@5] Officers diverted the car
+on the San Roque González de Santa Cruz bridge. [@3] The vehicle was a Chevrolet Spin. [@5,12] Officers diverted the car
 with Argentine plates to the inspection bays for a more thorough check. [@2,6,9,10]
 They found brick-shaped packages hidden under the bonnet, behind the dashboard
-and in the floor of the vehicle. [@1,6,9,10] Some packages were hidden in the sides of the bodywork and under the seats. [@5] Images from a scanner truck confirmed the
-presence of the packages in those compartments. [@1,5,6,9,10,11]
+and in the floor of the vehicle. [@1,6,9,10,12] Some packages were hidden in the sides of the bodywork and under the seats. [@5] Images from a scanner truck confirmed the
+presence of the packages in those compartments. [@1,5,6,9,10,11,12]
 
 Officers opened the hidden compartments with tools. [@3] Customs valued the load
-at nearly 832 million pesos. [@1,5,6,8,9,10,11] The case was opened as aggravated smuggling of
-narcotics. [@1,5,9,10,11] The car was seized together with the marijuana and held for the judicial case. [@6]
+at nearly 832 million pesos. [@1,5,6,8,9,10,11,12] The case was opened as aggravated smuggling of
+narcotics. [@1,5,9,10,11,12] The car was seized together with the marijuana and held for the judicial case. [@6]
 
 The operation began at around 17:00 when División Aduana Posadas staff diverted the car to the inspection bays. [@7,10] Officers found brick-type packages under the bonnet, behind the dashboard and on the floor of the car, and scanner-truck images confirmed their presence there. [@7]
