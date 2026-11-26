@@ -58,10 +58,10 @@ sources:
     url: https://thegranite.co.zw/articles/two-men-arrested-with-67kg-of-dagga-on-harare-bound-bus-in-gweru
     publisher: The Granite Post Zimbabwe
     date: 2026-11-20
-open_questions:
-  - No weight was published for the six 20-litre buckets of dagga found in the Toyota Aqua.
-  - The two incidents occurred at different places and times and were reported together by the police and the press; no operational link between them was stated.
-  - No court date or outcome was reported for any of the five suspects.
+  - title: Police recover 67kg dagga from Harare-bound bus
+    url: https://newsday.co.zw/article/police-recover-67kg-dagga-from-harare-bound-bus
+    publisher: NewsDay Zimbabwe
+    date: 2026-11-20
 ---
 
 Police in Zimbabwe arrested five people in two separate incidents after finding
@@ -70,15 +70,14 @@ in Gweru. [@1] Support Unit members intercepted a Toyota Aqua at Christon Bank
 Turnoff at about 21:20 on 16 November 2026 and arrested Shelton Tom, 19,
 Jonathan Nyandoro, 39, and George Mujere, 42, for unlawful possession of dagga.
 [@2] In Midlands Province, officers on patrol arrested Nevermind Gomo, 32, and
-Obey Katsatsa, 29, at AMTEC in Gweru at about 01:40 on 17 November 2026. [@3]
-The two were passengers on a Harare-bound Inter Africa bus. [@3]
+Obey Katsatsa, 29, at AMTEC in Gweru at about 01:40 on 17 November 2026. [@3,5]
+The two were passengers on a Harare-bound Inter Africa bus. [@3,5]
 
 A search of the Toyota Aqua found six 20-litre buckets containing dagga. [@2]
 Police recovered 67 kilogrammes of dagga concealed in four bags in the bus's
-luggage compartment. [@3] The arrests resulted in the seizure of six 20-litre
+luggage compartment. [@3,5] The arrests resulted in the seizure of six 20-litre
 buckets of dagga and 67 kilogrammes of the illicit substance. [@1]
 
 The suspects were accused of unlawful possession of dagga, and the police said
 the arrest did not amount to a conviction. [@4] Police said the arrests form
 part of efforts to combat the possession and movement of dangerous drugs. [@4]
-
