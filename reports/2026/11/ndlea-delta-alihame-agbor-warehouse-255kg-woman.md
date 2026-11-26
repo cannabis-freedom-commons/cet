@@ -56,23 +56,19 @@ sources:
     url: https://www.msn.com/en-xl/news/other/ndlea-arrests-woman-with-255-67kg-of-cannabis-in-delta/ar-AA2hVwRT
     publisher: MSN
     date: 2026-11-21
-open_questions:
-  - No charge, detention order or court outcome for the woman was reported.
-  - The 255.67 kg is described as the combined weight of the bags and blocks of cannabis including its seeds; no separate weight for the seeds was published.
-  - No value estimate for the seizure was published.
-  - The account rests on the NDLEA Delta State commander's statement as published by Daily Trust, with no independent reporting or agency release opened.
-  - The statement does not say whether the warehouse or the cannabis belonged to the woman.
-  - Coordinates mark Agbor in Ika South; Alihame-Agbor itself was not separately mapped.
+  - title: NDLEA arrests woman with 255.67kg of cannabis in Delta
+    url: https://www.msn.com/en-xl/africa/nigeria/ndlea-arrests-woman-with-25567kg-of-cannabis-in-delta/ar-AA2hYZQI
+    publisher: MSN
 ---
 
 The National Drug Law Enforcement Agency arrested a 43-year-old woman with
-255.67 kilogrammes of cannabis in Delta State. [@1,2,3,4] The woman was named as Esther Igba. [@2,3,4] The arrest took place on 12
+255.67 kilogrammes of cannabis in Delta State. [@1,2,3,4,5] The woman was named as Esther Igba. [@2,3,4] The arrest took place on 12
 November 2026 during a raid on a drug warehouse at Alihame-Agbor, in Ika South
-Local Government Area. [@1,2,3,4]
+Local Government Area. [@1,2,3,4,5]
 
 Halilu Hamidu, the agency's Delta State commander, said operatives recovered 20
 bags and 57 blocks of Cannabis Sativa, including its seeds, weighing a total of
-255.67 kilogrammes. [@1,2,3,4] Hamidu said the operation demonstrated the agency's
+255.67 kilogrammes. [@1,2,3,4,5] Hamidu said the operation demonstrated the agency's
 commitment to dismantling drug trafficking networks, disrupting supply chains
 and curbing the distribution of illicit substances. [@1,2]
 
