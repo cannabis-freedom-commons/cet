@@ -115,6 +115,11 @@ sources:
     publisher: 泰国中文社
     date: 2026-11-22
     language: zh
+  - title: “รัฐ” ยึดกัญชา 10 ตัน มูลค่า 223.5 ล้าน ปิดร้านเถื่อน 129 แห่ง » อีจัน
+    url: https://www.ejan.co/economics/4oxt16rttpu5
+    publisher: อีจัน
+    date: 2026-11-24
+    language: th
 ---
 
 Phuket provincial officials led by deputy governor Romdon Haji-Awae raided a
@@ -126,13 +131,13 @@ of preliminary charges. [@1,7,10] Many foreign tourists were eating and drinking
 inside the large venue, which had VIP rooms for customers. [@1]
 
 Officers seized high-quality cannabis flowers that officials valued at more than
-2 million baht. [@1,5,6,7,8,9,10] The shop's cannabis licence had been suspended for 90 days
+2 million baht. [@1,5,6,7,8,9,10,11] The shop's cannabis licence had been suspended for 90 days
 from 23 October 2026 because it had not met service conditions, including
-selling without a doctor's prescription. [@2,5,6,7,8,10] Officers also found hash cannabis
+selling without a doctor's prescription. [@2,5,6,7,8,10,11] Officers also found hash cannabis
 extract, which the province said would be examined over whether it fell under
 narcotics law. [@1,7,9,10] The shop was also selling alcohol outside permitted hours
 and cannabis-infused food products without a food registration number or the
-required labelling. [@2,5,6,7,8,9,10]
+required labelling. [@2,5,6,7,8,9,10,11]
 
 The three employees were accused of jointly selling controlled cannabis flowers
 while the licence was suspended under the Protection and Promotion of Thai
@@ -140,5 +145,5 @@ Traditional Medical Wisdom Act. [@3,8] The food-products case was still being
 examined for the elements of the offence and the people responsible. [@3] Romdon
 said the raid followed the policy of Deputy Interior Minister Polphir
 Suwanchawee to regulate cannabis-selling businesses and maintain public order.
-[@2] The province said it would keep inspecting entertainment venues and
+[@2,11] The province said it would keep inspecting entertainment venues and
 cannabis shops in Phuket. [@2]
