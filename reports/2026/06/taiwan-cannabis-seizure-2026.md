@@ -109,23 +109,39 @@ sources:
     publisher: 蕃新聞
     date: 2026-11-10
     language: zh
+  - title: 16億大麻走私主嫌60萬交保、沒戴電子腳鐐？運毒重罪為何能不羈押
+    url: https://www.peopo.org/news/864867
+    publisher: PeoPo
+    date: 2026-11-24
+    language: zh
+  - title: 815公斤毒品案主嫌60萬交保 黃國昌轟：司法雙重標準
+    url: https://taipeipost.org/415032/
+    publisher: The Taipei Post
+    date: 2026-11-24
+    language: zh
+  - title: 自由日日Shoot》檢警逮走私16億毒品首腦 法官竟60萬交保無科技監控 引爭議 - 社會 - 自由時報電子報
+    url: https://news.ltn.com.tw/news/society/paper/1779509
+    publisher: 自由時報電子報
+    date: 2026-11-23
+    language: zh
 open_questions:
-  - The 5 November speech gives a year-to-date drug total of 12,901.6 kg without separating cannabis, so it is not recorded as a cannabis figure.
-  - The 3-tonne figure covers two drug cases found during a 50-day maritime lockdown roundup and is not attributed to the Rueifang case.
-  - The Chinatimes article gives no separate date or place for the 766.09 kg cannabis seizure beyond presenting it as this year's joint seizure with police.
-  - The page gives no separate date or place for the 766-kg seizure beyond presenting it as this year's joint coast-guard and police inland seizure.
-  - This account confirms only the 3 June date, the 766.09 kg weight and the ten-year record; it gives no place, package count, arrests, charges, pieces of evidence or court outcome for the Rueifang case.
-  - The page presents the cannabis case under the coast guard's overall security results, alongside a combined year-to-date drug total that is not broken down by substance.
-  - The cabinet's version of the report rounds the haul to 766 kg while the council version and earlier reporting give 766.09 kg; the report keeps 766.09 kg.
-  - The written premier speech text renders the operation's name as 隆炁專案, while spoken coverage has called it 隆氣專案; the report keeps the written form.
-  - The 12,901.6 kg drug total on the page covers all drugs for the year and is not separated by substance, so it is not recorded as a cannabis figure.
-  - The page describes the ten-year case as an inland record and gives no place, arrest count or court stage beyond the 3 June date and the 766.09 kg weight.
-  - The page calls the ten-year case a smuggling case and gives no date, place, weight, arrest count or court stage for it beyond the minister's speech line.
-  - The page gives no separate place, arrest count or court stage for the 3 June seizure.
-  - The year-to-date drug total of 12,901.6 kg covers all substances and cannot be separated into cannabis.
+    - The reported year-to-date coast-guard drug total of 12,901.6 kg covers all substances without separating cannabis, so it is not recorded as a cannabis figure.
+    - The 3-tonne figure covers two drug cases found during a 50-day maritime lockdown roundup and is not attributed to the Rueifang case.
+    - Some accounts present the 766.09 kg seizure only as this year's joint coast-guard and police seizure, giving no separate date, place, arrest count or court stage for it.
+    - Published figures for the haul vary between 766 kg, 766.09 kg and 766.9 kg of dried cannabis flower; the report keeps 766.09 kg.
+    - The operation's name is rendered 隆炁專案 in the written premier speech text while spoken coverage has called it 隆氣專案; the report keeps the written form.
+    - Some accounts of the minister's speeches give only the 3 June date and the 766.09 kg weight, or no case details at all.
+    - 'The number of people arrested and the indictment date differ between accounts: seven arrests with indictment on 24 August against four people transferred on 3 September.'
+    - No trial outcome after the September 2026 bail decision has been reported.
+media:
+  - kind: photo
+    url: https://news.ltn.com.tw/news/society/paper/1779509
+    media_url: https://img.ltn.com.tw/Upload/news/600/2026/11/23/49.jpg
+    publisher: 自由時報電子報
+    caption: 'Drugs seized in the Keelung 815 kg drug-smuggling case laid out for display. Photo: Wu Sheng-ru / Liberty Times'
 ---
 
-Coast guard and police officers stopped a truck in New Taipei's Rueifang district early on 3 June 2026 and found 1,309 packages holding 766.09 kg of dried cannabis flower, along with amphetamine and mixed drugs. The coast guard valued the haul at about NT$1.62 billion and said it was its largest cannabis seizure in ten years; seven people were arrested and prosecutors indicted them on 24 August. The announcement was made on 5 October. [@1,2,13]
+Coast guard and police officers stopped a truck in New Taipei's Rueifang district early on 3 June 2026 and found 1,309 packages holding 766.09 kg of dried cannabis flower, along with amphetamine and mixed drugs. The coast guard valued the haul at about NT$1.62 billion and said it was its largest cannabis seizure in ten years; seven people were arrested and prosecutors indicted them on 24 August. The announcement was made on 5 October. [@1,2,13,17] The court said Li was strongly suspected of transporting drugs and smuggling controlled articles but granted bail considering the case circumstances and his fixed residence. [@19] The court released the three accomplices on NT$200,000 bail each and Li on NT$600,000 bail, restricting their residence, exit and sea departure without electronic monitoring. [@19] The three accomplices admitted helping transport the drugs, while Li denied the offence. [@19] On 3 September prosecutors indicted Li and three accomplices and transferred the four detained suspects to the Keelung District Court. [@18]
 
 At the award ceremony on 5 November 2026 the minister again described the case as the largest cannabis seizure in Taiwan in the past ten years. [@2,3,4,5,6,7,8,14] She put the coast guard's year-to-date drug seizures at 12,901.6 kg, a total not separated by substance. [@2,3,7,9,14] She said that during a maritime lockdown the service had broken two drug cases and seized more than 3 tonnes of drugs, alongside two illegal border-crossing cases and more than 20 wanted fugitives. [@2]
 
