@@ -47,27 +47,33 @@ sources:
     url: https://themaghrebtimes.com/tangier-thwarting-an-international-trafficking-attempt-of-more-than-31-tons-of-drugs/
     publisher: The Maghreb Times
     date: 2022-04-28
+  - title: 'Maroc: saisie record de plus de 31 tonnes de cannabis'
+    url: https://cridem.org/imprimable.php?article=756097
+    publisher: Cridem
+    date: 2022-04-28
+    language: fr
 open_questions:
   - "Date: the operation ran on the Wednesday before the 28-29 April reports; this report uses 27 April 2022."
   - No charges or court outcome beyond police custody were reported.
+  - The account attributes the Wednesday operation to 28 April, but 28 April 2022 was a Thursday and the preceding Wednesday was 27 April.
 ---
 
 Moroccan police foiled an international drug-trafficking operation on
 Wednesday 27 April 2022 and seized a record 31,197 kg of chira (cannabis
 resin) in a warehouse in Badriouyene on the Rabat road at the exit of
-Tangier. [@1,2] The Beni Makada judicial-police brigade carried out the raid
+Tangier. [@1,2,3] The Beni Makada judicial-police brigade carried out the raid
 in coordination with the Tangier prefectural judicial police, citing a
 Directorate General of National Security (DGSN) statement. [@2]
 
 The resin had been packaged and stuffed inside fruit-and-vegetable figurines
 whose colours and sizes were meant to let it leave Morocco disguised as
-agricultural produce for export. [@1,2] Officers also seized a large
-refrigerated trailer holding dozens of bags and bales of hashish. [@1,2]
+agricultural produce for export. [@1,2,3] Officers also seized a large
+refrigerated trailer holding dozens of bags and bales of hashish. [@1,2,3]
 
 A 61-year-old man with a criminal record was arrested on suspicion of links
 to the trafficking network and placed in custody while investigations into
-its regional and international ramifications continued. [@1,2] The Tangier
+its regional and international ramifications continued. [@1,2,3] The Tangier
 police prefecture described the raid as part of the DGSN strategy against
 cross-border crime. [@2] More than 191 tonnes of cannabis resin had been
 seized in 2021, down 12 percent from 2020, according to official figures
-cited in the report. [@1]
+cited in the report. [@1,3]
