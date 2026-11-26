@@ -76,25 +76,35 @@ sources:
     publisher: AZ Costa del Sol
     date: 2026-11-23
     language: es
+  - title: Detenidas dos personas en Manilva (Málaga) que transportaban 24 kilos de hachís en un vehículo por la AP-7
+    url: https://www.europapress.es/andalucia/malaga-00356/noticia-detenidas-dos-personas-manilva-malaga-transportaban-24-kilos-hachis-vehiculo-ap-20261123173320.html
+    publisher: Europa Press
+    date: 2026-11-23
+    language: es
 media:
   - kind: photo
     url: https://cadenaser.com/andalucia/2026/11/24/detenidos-en-manilva-tras-ser-sorprendidos-con-24-kilos-de-hachis-en-un-control-de-trafico-ser-malaga/
     media_url: https://cadenaser.com/resizer/v2/AXTQK47JGNH47BNECXYCGD7ZUI.jpg?auth=35b7fc318e0dd423c7d7ac3974c9fc760ce512fa936f5365b679d913e89aa3e0&quality=70&width=650&height=487&smart=true
     publisher: Cadena SER
     caption: 'Hashish seized in the Manilva operation, photographed after the AP-7 checkpoint stop. Photo: Guardia Civil.'
+  - kind: photo
+    url: https://www.europapress.es/andalucia/malaga-00356/noticia-detenidas-dos-personas-manilva-malaga-transportaban-24-kilos-hachis-vehiculo-ap-20261123173320.html
+    media_url: https://img.europapress.es/fotoweb/fotonoticia_20261123173320_690.avif
+    publisher: Europa Press
+    caption: 'The 24 kilos of hashish seized at the Manilva post laid out for photograph. Photo: AUGC via Europa Press.'
 ---
 
 The intervention took place on Saturday 21 November at about 10:30 at kilometre
-point 142.800 of the AP-7 in Manilva. [@2,4,5,8] Officers from the Manilva post
+point 142.800 of the AP-7 in Manilva. [@2,4,5,8,9] Officers from the Manilva post
 stopped a vehicle occupied by two people and inspected the boot, where there
 were two suitcases. [@1,4,5,8] Just as the officers were about to open one of the
 suitcases, the driver ran off, crossed all the motorway lanes and fled into the
-countryside. [@1,4,5,7,8] Several officers chased the driver on foot for five minutes
+countryside. [@1,4,5,7,8,9] Several officers chased the driver on foot for five minutes
 through dense vegetation, brambles and over a two-metre fence, after he fell
 down a ravine several metres deep, and then caught him. [@1,6,7]
 
 Back at the checkpoint, officers found that the suitcases held a total of 24
-kilos of hashish packed in brown plastic in different formats. [@1,4,5,7] Both the
+kilos of hashish packed in brown plastic in different formats. [@1,4,5,7,9] Both the
 driver and his companion were arrested for an alleged offence against public
 health and, after police custody, were put before the judicial authority, which
 ordered provisional prison for the driver and release with charges for the
@@ -102,4 +112,4 @@ passenger. [@1,4,7]
 
 The arrests were made during a routine vehicle and person control carried out by
 officers from the Manilva station. [@3] The operation formed part of the Civil
-Guard's prevention and anti-drug-trafficking checks in the Manilva area. [@2,7]
+Guard's prevention and anti-drug-trafficking checks in the Manilva area. [@2,7,9]
