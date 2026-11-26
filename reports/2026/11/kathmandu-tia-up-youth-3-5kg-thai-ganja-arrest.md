@@ -64,13 +64,17 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-15
     language: hi
+  - title: Thai cannabis trail runs through Nepal to India
+    url: https://risingnepaldaily.com/news/88911
+    publisher: The Rising Nepal
+    date: 2026-11-23
 ---
 
 Nepal's Narcotics Control Bureau arrested 22-year-old Uttar Pradesh resident
 Salman at Tribhuvan International Airport in Kathmandu with 3.5 kg of Thai
-ganja. [@1,4,5] Amar Ujala places Salman's arrest on Friday at the same airport with
+ganja. [@1,4,5,6] Amar Ujala places Salman's arrest on Friday at the same airport with
 3.5 kg of Thai ganja, corresponding to 13 November 2026. [@2] Salman had reached
-Kathmandu from Delhi by air. [@1,5] Nepal's Narcotics Control Bureau disclosed
+Kathmandu from Delhi by air. [@1,5] He had arrived in Nepal from Delhi to receive luggage sent from Thailand. [@6] Nepal's Narcotics Control Bureau disclosed
 both airport cases at a press briefing on Sunday. [@2]
 
 Officers found the ganja concealed in plastic packets in his bag while

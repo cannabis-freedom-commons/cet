@@ -21,6 +21,10 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-14
     language: hi
+  - title: Thai cannabis trail runs through Nepal to India
+    url: https://risingnepaldaily.com/news/88911
+    publisher: The Rising Nepal
+    date: 2026-11-23
 open_questions:
   - The article was published on 14 November 2026 and says the man arrived on Friday; 13 November 2026 is used as the incident date.
   - The 3 kg was described as Thailand-made ganja, with no laboratory confirmation or net-versus-gross weight stated.
@@ -28,15 +32,17 @@ open_questions:
   - Only one accessible source for this event was found after searching in Hindi and English.
   - Left out arrested, as no supporting quotation was given.
   - Left out kg seized, as no supporting quotation was given.
+  - Sources differ on whether Subodh Kumar was arrested on 12 or 13 November 2026.
+  - Sources differ on whether Salman was arrested on 13 or 14 November 2026.
+  - No charges, detention measure or court outcome were reported for either man.
 ---
 
 Nepal police arrested an Indian citizen at Kathmandu's Tribhuvan International
-Airport with three kilograms of a prohibited narcotic substance. [@1] Police
+Airport with three kilograms of a prohibited narcotic substance. [@1,2] Police
 identified the arrested man as 25-year-old Subodh Kumar. [@1] Kumar had arrived
-in Kathmandu from Bangkok on Friday. [@1]
+in Kathmandu from Bangkok on Friday. [@1] Investigators found that traffickers had invited him to Thailand, where he spent four to five days. [@2]
 
 During screening at the airport, officers recovered three kilograms of ganja
-described as made in Thailand from his possession. [@1] Police also seized his
+described as made in Thailand from his possession. [@1] Before his return, they allegedly asked him to carry the cannabis to Nepal and hand it over to a designated recipient under the guise of delivering a parcel. [@2] Police also seized his
 mobile phone and passport alongside the drugs. [@1] Police said further
 investigation into the case was under way. [@1]
-
