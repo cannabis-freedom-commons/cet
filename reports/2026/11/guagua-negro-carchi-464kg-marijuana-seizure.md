@@ -67,26 +67,27 @@ sources:
     publisher: Vistazo
     date: 2026-11-22
     language: es
-open_questions:
-  - 'No one was arrested: the driver abandoned the pickup at the San Gabriel toll and was not located, and police said efforts to identify and find him continued.'
-  - Both accounts reproduce the same National Police statement, so they are not independent reporting.
-  - No charge, court step or further outcome was reported beyond the investigation described by police.
+  - title: Persecución policial en Carchi termina con el decomiso de 464 kilos de marihuana
+    url: https://www.teleamazonas.com/actualidad/noticias/seguridad/persecucion-policial-carchi-termina-decomiso-464-kilos-marihuana-133790/
+    publisher: Teleamazonas
+    date: 2026-11-23
+    language: es
 ---
 
 National Police officers seized 464.709 kilograms (464,709 grams) of marijuana
 from a pickup truck whose driver fled after a chase in the Guagua Negro sector
-of Montúfar, Carchi province, on 21 November 2026. [@1,3] The operation was
+of Montúfar, Carchi province, on 21 November 2026. [@1,3,4] The operation was
 carried out by the National Directorate of Anti-Drug Investigation with support
 from the Mobile Anti-Narcotics Special Group (GEMA) and the National Canine Unit
-(CRAC). [@1]
+(CRAC). [@1,4]
 
 Police said the driver ignored their signals and a pursuit continued until the
 vehicle crashed at the San Gabriel toll, after which he ran off and was not
-found. [@1,3] A detector dog alerted to several bundles of plant material, which
-tests identified as marijuana. [@1] The haul comprised 464.709 grams of
+found. [@1,3,4] A detector dog alerted to several bundles of plant material, which
+tests identified as marijuana. [@1,4] The haul comprised 464.709 grams of
 marijuana, which police said was about 929,418 doses, along with the pickup.
 [@1] Police put the estimated national-market value of the marijuana at 360,149
-dollars. [@1]
+dollars. [@1,4]
 
 Authorities had acted on a tip about a possible shipment of controlled
 substances from Carchi toward the country's central provinces and located a
