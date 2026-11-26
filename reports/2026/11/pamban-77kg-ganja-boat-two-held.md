@@ -82,6 +82,11 @@ sources:
     publisher: Dinamalar
     date: 2026-11-23
     language: ta
+  - title: இலங்கைக்குக் கடத்தப்படவிருந்த 77 கிலோ கஞ்சா மீட்பு! படகுடன் இருவர் கைது - தமிழ்வின்
+    url: https://tamilwin.com/article/77-kg-cannabis-intended-smuggled-to-sri-lanka-1795453302
+    publisher: Tamilwin
+    date: 2026-11-23
+    language: ta
 media:
   - kind: photo
     url: https://tamil.news18.com/tamil-nadu/77-kg-ganja-seized-near-pamban-nw-kpk-ws-l-2260254.html
@@ -96,18 +101,18 @@ open_questions:
 
 A joint team from the Indian Coast Guard station in Mandapam and the Tiruchi
 Customs intelligence wing intercepted a country boat moving suspiciously off the
-Pamban Kundukal coast near Rameswaram. [@2,5,9] The operation was launched on
+Pamban Kundukal coast near Rameswaram. [@2,5,9,10] The operation was launched on
 specific intelligence that narcotics were being transported to Sri Lanka by
 country boat from the Kundukal area. [@2,8,9] The two men on board were apprehended
 and identified as Aeronius, 33, and Gunasekaran, 42, both residents of Saveriyar
-Nagar in Thangachimadam. [@2,6,8,9]
+Nagar in Thangachimadam. [@2,6,8,9,10]
 
 A search of the vessel recovered about 77 kg of ganja packed into parcels and
-concealed in three gunny sacks. [@2,3,4,6,8,9] The interception took place near Pamban in
+concealed in three gunny sacks. [@2,3,4,6,8,9,10] The interception took place near Pamban in
 Ramanathapuram on 22 November 2026. [@1,3] Officials estimated the international
 market value of the seized ganja at around Rs 25 lakh. [@2,8]
 
 The Indian Coast Guard Station, Mandapam, conducted the operation in
 coordination with the Customs Central Intelligence Unit, Tiruchy. [@1,4,5,6,7] The
 seized contraband, boat and two crew members were brought to Mandapam and handed
-over to the Customs Central Intelligence Unit for further legal action. [@1,4,5,6,7]
+over to the Customs Central Intelligence Unit for further legal action. [@1,4,5,6,7,10]
