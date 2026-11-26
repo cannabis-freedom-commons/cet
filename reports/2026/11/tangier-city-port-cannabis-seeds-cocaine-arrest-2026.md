@@ -60,22 +60,33 @@ sources:
     publisher: مراكش الآن
     date: 2026-11-22
     language: ar
+  - title: توقيف أربعيني قادم من طريفة بميناء طنجة المدينة بعد حجز 8 كلغ من الكوكايين وبذور حشيش - إيكوبريس - Ecopress
+    url: https://ecopress.ma/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%A3%D8%B1%D8%A8%D8%B9%D9%8A%D9%86%D9%8A-%D9%82%D8%A7%D8%AF%D9%85-%D9%85%D9%86-%D8%B7%D8%B1%D9%8A%D9%81%D8%A9-%D8%A8%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%B7%D9%86%D8%AC/
+    publisher: Ecopress
+    date: 2026-11-22
+    language: ar
+media:
+  - kind: photo
+    url: https://ecopress.ma/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%A3%D8%B1%D8%A8%D8%B9%D9%8A%D9%86%D9%8A-%D9%82%D8%A7%D8%AF%D9%85-%D9%85%D9%86-%D8%B7%D8%B1%D9%8A%D9%81%D8%A9-%D8%A8%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%B7%D9%86%D8%AC/
+    media_url: https://media.ecopress.ma/04aea589cf4f48b4b675c4ae53dc35ff:ecopress/media/2026/11/cocaine-tanger-1200x630.jpg
+    publisher: Ecopress
+    caption: Cocaine from the Tangier city port seizure
 ---
 
 National Security officers working with customs at Tangier city port foiled an
 attempt to smuggle drugs into Morocco on Sunday afternoon. [@1,2,3,4,5] Officers
 detained a 47-year-old Moroccan citizen living in Spain immediately after he
 arrived at the port on a ferry from the Spanish port of Tarifa, as his
-foreign-registered car underwent border checks. [@1,3,4,5]
+foreign-registered car underwent border checks. [@1,3,4,5,6]
 
 The search by security and customs officers with trained police dogs found the
 cocaine consignment hidden under the car front bumper, alongside the seized
-seeds. [@1,3,4,5] Officers seized eight kilograms of cocaine and three kilograms of
-seeds used for growing cannabis. [@1,2,3,4,5]
+seeds. [@1,3,4,5,6] Officers seized eight kilograms of cocaine and three kilograms of
+seeds used for growing cannabis. [@1,2,3,4,5,6]
 
 The Tangier prefectural judicial police then opened a judicial investigation
 under the competent prosecutor to establish the circumstances and uncover the
-source and intended destination of the drugs. [@1,3,4,5] Ongoing inquiries are to
+source and intended destination of the drugs. [@1,3,4,5,6] Ongoing inquiries are to
 identify possible national and international extensions of the activity and any
 other suspected accomplices. [@1,3,4,5] The operation was presented as part of
 security and customs efforts against international drug smuggling and stronger
