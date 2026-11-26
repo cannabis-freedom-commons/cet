@@ -95,17 +95,10 @@ sources:
     url: https://www.thehawk.in/news/states-and-uts/gujarat/gujarat-two-houses-demolished-in-ahmedabad-after-rs-5351-lakh-seizure-in-ganja-case
     publisher: The Hawk
     date: 2026-11-23
-open_questions:
-    - No separate date was given for the raids; 19 November 2026 is the publication date and stands in for the incident date, described only as a single night.
-    - 'Sources differ on how many remain wanted: one says the husband alone is wanted, another says two accused including a man and a woman are yet to be caught, naming Sunitaben Chhara separately.'
-    - The first arrest is placed in Bodakdev police limits by two sources but described as near Malav Lake in Thaltej by the third; Thaltej and Bodakdev are treated as the same initial lead.
-    - The ganja was described as seized material without reported laboratory confirmation, and police values put on it, including Rs 6,561 for the first seizure and Rs 1.08 lakh for the Sarkhej haul, are official estimates.
-    - No court outcome, plea or detention order beyond arrest was reported.
-    - The Gujarati account gives the haul as about 2.25 kg of ganja and about Rs 54 lakh in cash, against the police figures of 2.174 kg and Rs 53.51 lakh used in this report.
-    - 'The Gujarati accounts disagree on the couple''s past record: one says 45 cases against Sunita Rathod and about 20 against her husband since 2014, another says 48 against her and 24 against him.'
-    - One Gujarati account values the Sarkhej ganja at Rs 1 lakh in its lead and Rs 1.08 lakh in its body.
-    - The number of earlier prohibition cases against Sunita Rathod and her husband remains unclear, with figures ranging from 45 to 48 for her and from 20 to 25 for him.
-    - The exact scope of the earlier clearance at the same Sarkhej site remains unclear, with one figure giving six houses and nine commercial structures and another giving six houses including the two rebuilt structures.
+  - title: AMC Demolishes Illegal House of Woman Accused in ₹54 Lakh Cash, 2 Kg Ganja Seizure Case
+    url: https://english.gujaratsamachar.com/news/ahmedabad/amc-demolishes-illegal-house-of-woman-accused-in-indian-rupee54-lakh-cash-2-kg-ganja-seizure-case-23993259435
+    publisher: Gujarat Samachar
+    date: 2026-11-23
 media:
   - kind: photo
     url: https://navgujaratsamay.com/woman-drug-peddler-arrested-in-sarkhej-2-kg-of-ganja-and-5351-lakh-cash-seized/312850.html
@@ -125,14 +118,14 @@ wanted. [@1] The joint operation was carried out by the Zone-7 Local Crime
 Branch alongside local police teams against peddling networks in western
 Ahmedabad. [@1] In the Bodakdev operation police apprehended 23-year-old Raju
 Mangaji Bhil, a Rajasthan native living near Sanand Chokdi in Sarkhej, with 131
-grams and 220 milligrams of ganja. [@1] Raju told investigators he had obtained
+grams and 220 milligrams of ganja. [@1,12] Raju told investigators he had obtained
 the consignment from Sunita Rathod, who lives near Kailash Lake close to Sanyas
 Ashram in Sarkhej, leading to the follow-up raid. [@3,9] The woman told police that the two of them supplied ganja to small drug suppliers in Ahmedabad, and officers began examining the roles of others in the network. [@7] At the Sarkhej premises
 near Kailash Talav close to Sanyas Ashram, police arrested 42-year-old Sunita
 Deepak Rathod, while her husband Deepak Rathod was declared wanted. [@1,7,8,11] The two demolished houses were linked to Sunita Rathod, her husband Deepak Rathod and their neighbour Shantaben Rathod, all booked in narcotics-related offences. [@9] Police said 45 cases had been registered against Sunita Rathod and about 20 against her husband since 2014, for assault and for selling liquor and drugs. [@7] Investigators said the ganja had been brought from Rajasthan. [@8]
 
 Officers searching the Sarkhej residence recovered 2 kilograms and 174 grams of
-ganja alongside Rs 53.51 lakh in cash kept in a safe. [@1,8,10] Sunita Rathod gave no proper explanation for where the Rs 53.51 lakh in cash had come from, police said. [@8] Officers also
+ganja alongside Rs 53.51 lakh in cash kept in a safe. [@1,8,10,12] Sunita Rathod gave no proper explanation for where the Rs 53.51 lakh in cash had come from, police said. [@8] Officers also
 recovered 28 plastic and zip bags and Rs 53,51,100 in cash from the premises.
 [@2,4,5,6,11] Police put the total value of the Sarkhej seizure at Rs 54,59,800,
 including the cash. [@2,4,5,6]
@@ -142,4 +135,4 @@ Act during the single-night Zone-7 special drive. [@2,4,5,6,9] Officials said th
 Tax Department and the Enforcement Directorate may be approached to trace the
 source of the cash. [@2,4,5,6,8] Police said they will examine the accused’s assets,
 with possible property seizure and demolition of illegal structures linked to
-the trade. [@2,5] The same Sarkhej site had been cleared in an earlier demolition drive when six houses were razed, but illegal construction resumed before the latest demolition. [@10] According to the police, the house occupied by the Rathods had been demolished by the AMC in 2023-24 for being an unauthorised construction. [@11] The Ahmedabad Municipal Corporation demolished two illegally built houses on government land near Sannyas Ashram and Kailash Ashram in Sarkhej under heavy police security. [@9,11] Zone 7 Deputy Commissioner of Police Shivam Verma said a special team had been deployed on Sindhu Bhavan Road. [@8]
+the trade. [@2,5] The same Sarkhej site had been cleared in an earlier demolition drive when six houses were razed, but illegal construction resumed before the latest demolition. [@10] According to the police, the house occupied by the Rathods had been demolished by the AMC in 2023-24 for being an unauthorised construction. [@11,12] The Ahmedabad Municipal Corporation demolished two illegally built houses on government land near Sannyas Ashram and Kailash Ashram in Sarkhej under heavy police security. [@9,11,12] Zone 7 Deputy Commissioner of Police Shivam Verma said a special team had been deployed on Sindhu Bhavan Road. [@8]
