@@ -114,16 +114,21 @@ sources:
     publisher: Primera Edición COL
     date: 2026-10-17
     language: es
+  - title: Incautaron más de 2,9 toneladas de droga en La Guaira
+    url: https://noticiasdeaqui.co/2026/10/17/incautaron-mas-de-29-toneladas-de-droga-en-la-guaira/
+    publisher: Noticias de Aquí
+    date: 2026-10-17
+    language: es
 ---
 
 Venezuela’s Ministry of Interior, Justice and Peace said four people were arrested in a maritime
 interdiction in the Caribbean. [@1,2,5,6,8,9,12,13] The Bolivarian National Guard’s special anti-drug unit UEA-45
-La Guaira, coastguard units of the Bolivarian Navy and the French navy took part. [@2,5,8,10,12,13] Radio
+La Guaira, coastguard units of the Bolivarian Navy and the French navy took part. [@2,5,8,10,12,13,14] The fishing vessel intercepted in the operation was named Libertad. [@14] Radio
 Nacional de Venezuela published the ministry’s account on 16 October 2026. [@1] The interior ministry released the statement on its Instagram account on the night of Friday 16 October 2026. [@9]
 
 Officers seized 166 bales holding 4,152 cakes of drugs: 1,173.50 kilograms of cocaine and 1,727.40
-kilograms of marijuana, 2,900.90 kilograms in all. [@1,2,5,8,9,12,13] The people arrested and the drugs were
-placed at the disposal of the public prosecutor. [@1,2,5,8,9,12,13] The government thanked France for the naval
+kilograms of marijuana, 2,900.90 kilograms in all. [@1,2,5,8,9,12,13,14] Of the 166 bales, 126 held 3,149 cakes of suspected marijuana and 40 held 1,003 cakes of suspected cocaine. [@14] The people arrested and the drugs were
+placed at the disposal of the public prosecutor. [@1,2,5,8,9,12,13,14] The government thanked France for the naval
 help. [@2,5,8,11,12,13] The reports do not name the four people or say where in the Caribbean the boat was
 stopped. [@1,2,13]
 
