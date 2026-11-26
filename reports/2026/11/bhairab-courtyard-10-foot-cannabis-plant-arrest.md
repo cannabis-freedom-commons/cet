@@ -59,15 +59,16 @@ sources:
     publisher: The Dhaka Diary
     date: 2026-11-23
     language: bn
-open_questions:
-    - No weight, street value or laboratory confirmation for the plant was published.
-    - It was not stated whether the plant was uprooted and destroyed or kept as evidence.
-    - No case had been filed and no court outcome was reported; the inspector was still preparing to file one.
+  - title: শখের বশে গাঁজার গাছ লাগিয়ে অবশেষে আটক
+    url: https://www.jaijaidin.news/news/368615
+    publisher: Daily Jaijaidin
+    date: 2026-11-23
+    language: bn
 ---
 
 An anti-drug task force of the Department of Narcotics Control recovered a
 cannabis plant being cultivated in the courtyard of a home in Bhairab,
-Kishoreganj, and detained the 47-year-old house owner, Helal Mia. [@1] The plant
+Kishoreganj, and detained the 47-year-old house owner, Helal Mia. [@1,3] The plant
 had branches, stood about 10 feet tall and was being grown in the open
 courtyard. [@1]
 
@@ -78,6 +79,6 @@ local auxiliary force, and the 'Kha' circle of the department's Kishoreganj
 district office. [@1] The Assistant Commissioner (Land) who carried out the detention was A H M Azimul Haque, acting on secret information. [@2]
 
 The department said the detained man was the son of the late Layes Mia of the
-same area. [@1,2] During questioning, he said he had planted the cannabis plant in his home yard out of hobby. [@2] Chandan Gopal Sur, an inspector of the department's Bhairab
+same area. [@1,2,3] During questioning, he said he had planted the cannabis plant in his home yard out of hobby. [@2,3] During questioning, Helal Uddin said he himself uses drugs. [@3] Chandan Gopal Sur, an inspector of the department's Bhairab
 circle, acted as complainant and was preparing to file a regular case against
-him under the Narcotics Control Act at Bhairab police station. [@1] After the detention, the accused was handed over along with the cannabis plant to the office of the Department of Narcotics Control. [@2]
+him under the Narcotics Control Act at Bhairab police station. [@1] After the detention, the accused was handed over along with the cannabis plant to the office of the Department of Narcotics Control. [@2,3]
