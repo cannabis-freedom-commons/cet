@@ -66,6 +66,11 @@ sources:
     publisher: Cadena SER
     date: 2026-11-24
     language: es
+  - title: Un conductor se da a la fuga a pie en Málaga por la AP-7 después de que la Guardia Civil encuentre en su coche 24 kilos de hachís
+    url: https://www.diariosur.es/sucesos/conductor-fuga-pie-malaga-ap7-despues-guardia-20261123185254-nt.html
+    publisher: Diario Sur
+    date: 2026-11-23
+    language: es
 media:
   - kind: photo
     url: https://cadenaser.com/andalucia/2026/11/24/detenidos-en-manilva-tras-ser-sorprendidos-con-24-kilos-de-hachis-en-un-control-de-trafico-ser-malaga/
@@ -79,17 +84,17 @@ point 142.800 of the AP-7 in Manilva. [@2,4,5] Officers from the Manilva post
 stopped a vehicle occupied by two people and inspected the boot, where there
 were two suitcases. [@1,4,5] Just as the officers were about to open one of the
 suitcases, the driver ran off, crossed all the motorway lanes and fled into the
-countryside. [@1,4,5] Several officers chased the driver on foot for five minutes
+countryside. [@1,4,5,7] Several officers chased the driver on foot for five minutes
 through dense vegetation, brambles and over a two-metre fence, after he fell
-down a ravine several metres deep, and then caught him. [@1,6]
+down a ravine several metres deep, and then caught him. [@1,6,7]
 
 Back at the checkpoint, officers found that the suitcases held a total of 24
-kilos of hashish packed in brown plastic in different formats. [@1,4,5] Both the
+kilos of hashish packed in brown plastic in different formats. [@1,4,5,7] Both the
 driver and his companion were arrested for an alleged offence against public
 health and, after police custody, were put before the judicial authority, which
 ordered provisional prison for the driver and release with charges for the
-passenger. [@1,4]
+passenger. [@1,4,7]
 
 The arrests were made during a routine vehicle and person control carried out by
 officers from the Manilva station. [@3] The operation formed part of the Civil
-Guard's prevention and anti-drug-trafficking checks in the Manilva area. [@2]
+Guard's prevention and anti-drug-trafficking checks in the Manilva area. [@2,7]
