@@ -124,20 +124,25 @@ sources:
     publisher: Vietnam.vn / VietnamPlus
     date: 2026-11-09
     language: th
+  - title: 'قائد الدرك الوطني: ظاهرة المخدرات والمؤثرات العقلية أضحت تحديا أمنيا متعدد الأبعاد'
+    url: https://www.horizons.dz/language/ar/2026/11/%D9%82%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%AF%D8%B1%D9%83-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%B8%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85/
+    publisher: Horizons
+    date: 2026-11-07
+    language: ar
 ---
 
 National Gendarmerie commander Maj. Gen. Ali Seydan said in Algiers that drugs
 and psychotropic substances had become a multidimensional security challenge
-affecting public health, road safety and economic and social security. [@1,3,11]
+affecting public health, road safety and economic and social security. [@1,3,11,18]
 Seydan spoke alongside Justice Minister Lotfi Boujemaa at the opening of a
 national forum on the dimensions of drug use under traffic law 26-09, held at
-the National Army Club in Beni Messous. [@1,3,5] Gendarmerie units arrested 25,218
+the National Army Club in Beni Messous. [@1,3,5,18] Gendarmerie units arrested 25,218
 people in the same effort, with 5,264 placed in detention, and dismantled 186
-networks specialising in drug trafficking. [@1,2,3,4,5,7,8,10,11,12,13,14,15,16]
+networks specialising in drug trafficking. [@1,2,3,4,5,7,8,10,11,12,13,14,15,16,18]
 
 During the first 10 months of 2026 the units seized about 11 tonnes of processed
-kif. [@1,2,3,4,5,7,9,10,12,14,15,16,17] In the same period they seized 16,270 kilograms of cannabis herb and
-4,162 cannabis shrubs. [@1,2,3,4,5,7,9,10,12,14,15,16,17] The same haul included 837 kilograms of cocaine,
+kif. [@1,2,3,4,5,7,9,10,12,14,15,16,17,18] In the same period they seized 16,270 kilograms of cannabis herb and
+4,162 cannabis shrubs. [@1,2,3,4,5,7,9,10,12,14,15,16,17,18] The same haul included 837 kilograms of cocaine,
 more than 13.6 million pregabalin tablets, 59,937 ecstasy tablets and 1,021,879
 other psychotropic tablets, which are not counted as cannabis. [@1,7]
 
