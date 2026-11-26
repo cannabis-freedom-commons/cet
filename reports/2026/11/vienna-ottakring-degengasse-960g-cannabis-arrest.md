@@ -58,28 +58,30 @@ sources:
     publisher: Heute.at
     date: 2026-11-23
     language: de
-open_questions:
-  - No charge against the 35-year-old or court date was reported; he was still in police custody.
-  - Police did not say whether the seized cannabis was intended for resale.
-  - The accounts do not say what the other drugs found in the flat were, or whether they are part of the 960 grams.
-  - No street value was published for the cannabis.
-  - The 48 containers found in the backpack are not described by weight or content.
+  - title: 'Drogendeal in Wien aufgeflogen: Polizei stellt fast ein Kilo Cannabis sicher'
+    url: https://www.msn.com/de-at/nachrichten/other/drogendeal-in-wien-aufgeflogen-polizei-stellt-fast-ein-kilo-cannabis-sicher/ar-AA2i2n70
+    publisher: MSN
+    date: 2026-11-23
+    language: de
+  - title: 'Vienna: 35-year-old Algerian arrested for drug dealing in Ottakring – 960 grams of cannabis and 6,000 euros seized'
+    url: https://austrianownews.com/en/60235/vienna-35-year-old-algerian-arrested-for-drug-dealing-in-ottakring-960-grams-of-cannabis-a/
+    publisher: Austria Now News
+    date: 2026-11-23
 ---
 
 Officers of the Vienna street-crime unit (EGS) watched a suspected drug sale in
 the Degengasse area of Ottakring at about 18:45 on Sunday 22 November 2026. [@1]
-They detained the suspected seller, a 35-year-old Algerian citizen. [@1] The
-25-year-old buyer, an Afghan citizen, was reported to the authorities. [@1]
+They detained the suspected seller, a 35-year-old Algerian citizen. [@1,3] The
+25-year-old buyer, an Afghan citizen, was reported to the authorities. [@1,3]
 
 A search of the suspect's backpack found 48 containers of cannabis and a
-three-figure sum of euros in cash. [@1] Investigators then searched an apartment
+three-figure sum of euros in cash. [@1,4] Investigators then searched an apartment
 the 35-year-old had used and found more drugs, cash and a forged identity
 document. [@1]
 
 In total Vienna police seized about 960 grams of cannabis and about 6,000 euros
-in cash. [@1] The cannabis and the cash came from the man himself and from the
+in cash. [@1,3] The cannabis and the cash came from the man himself and from the
 flat he used, according to the police account. [@2]
 
 The 35-year-old remained in police custody while investigators continued to work
 on the suspected drug dealing case. [@1]
-
