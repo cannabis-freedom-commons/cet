@@ -90,6 +90,16 @@ media:
     media_url: https://static.dw.com/image/80010608_1004.webp
     publisher: DW
     caption: '''Chapo Isidro'' detained alongside his second-in-command and a financial operator, in a military handout. Image: Mexican Secretariat of National Defense/AFP'
+  - kind: photo
+    url: https://www.bbc.com/news/articles/c5rmgkv2lk73o
+    media_url: https://ichef.bbci.co.uk/news/800/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg.webp
+    publisher: BBC News
+    caption: 'Extra forces deployed to guard the facility where Fausto Isidro Meza Flores (''Chapo Isidro'') is held after his arrest. Photo: Daniel Cardenas/Anadolu via Getty Images'
+  - kind: video
+    url: https://www.bbc.com/news/articles/c5rmgkv2lk73o
+    media_url: https://www.bbc.com/news/videos/cm62p9y3y04qo
+    publisher: BBC News
+    caption: BBC video showing the moment troops raided the home and captured Fausto Isidro Meza Flores ('Chapo Isidro').
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 655a98a5c557372ad39c4be5473894d1
@@ -227,26 +237,32 @@ sources:
     publisher: DW
     date: 2026-11-21
     language: en
+  - title: '''Chapo Isidro'': Mexican soldiers attacked in wake of drug lord''s arrest'
+    url: https://www.bbc.com/news/articles/c5rmgkv2lk73o
+    publisher: BBC News
+    date: 2026-11-23
+open_questions:
+    - The defence minister's Monday figure of four soldiers and 16 organised-crime members killed in the firefight is higher than the eleven deaths reported earlier.
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
 Isidro and listed among the FBI's Ten Most Wanted fugitives, in Guasave,
-Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18,20,22,23,24,25,26,27,28] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15,19] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16,20,25,26,27] He led the Beltran Leyva organisation,
+Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18,20,22,23,24,25,26,27,28,29] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15,19] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16,20,25,26,27] He led the Beltran Leyva organisation,
 allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12,18,23,25,28] The Meza Flores organisation he led was also known as Los Mazatlecos. [@16,19,26,27] The operation also
 detained his cousin German, alias Serafin, described as the group's
 second-in-command, and his brother-in-law Jose, its financial operator. [@6,21,26,27]
 Army and National Guard special forces carried out the arrest with US
-intelligence support. [@5,9,10,12,13,14,17,20,21,22,23,24,26,27] The troops used stealth and surprise to reach the area, establishing a perimeter around the dealer's location and moving in from multiple directions, according to Mexico's US embassy. [@28]
+intelligence support. [@5,9,10,12,13,14,17,20,21,22,23,24,26,27,29] The troops used stealth and surprise to reach the area, establishing a perimeter around the dealer's location and moving in from multiple directions, according to Mexico's US embassy. [@28,29]
 
 Eight people were arrested and seven suspected attackers were killed. [@6,12,13,17,21,24] Four
 soldiers travelling to reinforce security in Guasave were also killed, an
-overall toll of eleven deaths. [@2,12,13,21,23,24,28] The defence ministry said it had no reports of civilian casualties. [@12,13] The troops came under gunfire and explosives
+overall toll of eleven deaths. [@2,12,13,21,23,24,28] The defence minister said on Monday that four soldiers and 16 members of organised crime had been killed in the firefight during the arrest. [@29] The defence ministry said it had no reports of civilian casualties. [@12,13] The troops came under gunfire and explosives
 before entering the house where the arrests were made. [@2,10,19,21,22,26] Three detainees were
 flown to Mexico City and handed to the federal organised-crime prosecutor's
 office, while five were handed to the federal prosecutor's office in Culiacan.
 [@6,21,26] Forces seized a Barrett .50-calibre rifle, ten other firearms, a grenade
 launcher, two hand grenades, ammunition, tactical equipment, drugs and cash.
-[@6,12,21,23]
+[@6,12,21,23] Special forces seized six vehicles during the operation, two of them fitted with bullet-proof armour and gun turrets. [@29]
 
 US prosecutors charged Meza Flores with leading a continuing criminal
 enterprise, narcoterrorism, money laundering and firearms offences, and with
@@ -262,6 +278,6 @@ Department offered a reward of up to five million dollars for information
 leading to his capture. [@7,10,12,14,16,19,20,21,25,26,28]
 
 After the arrest, Sinaloa reported gunfire, burning vehicles and road blockades,
-and a Pacific League baseball game in Guasave was suspended. [@6,9,10,12,16,22] The US Consulate General in Hermosillo said it was monitoring armed clashes, road blockades and vehicle fires overnight in Ahome, Guamúchil, Guasave and Navolato after the arrest. [@21,23] An unverified video circulating overnight appeared to show the detained Meza Flores urging his associates to stand down, warning that children, women and innocent people could be put in harm's way. [@12] Video footage circulating after the operation appeared to show security-force helicopters circling over Guasave and firing at ground targets, while gunmen returned fire from pickup trucks. [@17,22,25,27] Harfuch wrote on X that the detentions were an important step toward restoring peace in Sinaloa. [@10] US Ambassador to Mexico Ronald Johnson said on X that results like the arrest were the product of sustained cooperation and trust between the two countries. [@28] Security secretary Omar Garcia Harfuch said on Saturday that troops would remain in Sinaloa to protect residents. [@10] Sinaloa's public security agency urged residents to stay indoors, avoid the area and stay off the roads because federal personnel had been attacked in Guasave. [@10,16,19,20,25] The defence ministry said roadblocks were reported in four areas of Sinaloa after the arrests and security forces were sent to reopen roads. [@10,28] The Sinaloa state government said on 21 November that the situation was largely under control. [@17] Meza Flores,
+and a Pacific League baseball game in Guasave was suspended. [@6,9,10,12,16,22,29] One of the detainees was under age. [@29] Soldiers detained eight alleged members of the cartel. [@29] Soldiers on patrol in Sinaloa de Leyva were shot at by suspects on Sunday while trying to restore order after Meza Flores's arrest. [@29] The US Consulate General in Hermosillo said it was monitoring armed clashes, road blockades and vehicle fires overnight in Ahome, Guamúchil, Guasave and Navolato after the arrest. [@21,23] An unverified video circulating overnight appeared to show the detained Meza Flores urging his associates to stand down, warning that children, women and innocent people could be put in harm's way. [@12] Video footage circulating after the operation appeared to show security-force helicopters circling over Guasave and firing at ground targets, while gunmen returned fire from pickup trucks. [@17,22,25,27] Harfuch wrote on X that the detentions were an important step toward restoring peace in Sinaloa. [@10] US Ambassador to Mexico Ronald Johnson said on X that results like the arrest were the product of sustained cooperation and trust between the two countries. [@28] Security secretary Omar Garcia Harfuch said on Saturday that troops would remain in Sinaloa to protect residents. [@10] Sinaloa's public security agency urged residents to stay indoors, avoid the area and stay off the roads because federal personnel had been attacked in Guasave. [@10,16,19,20,25] The defence ministry said roadblocks were reported in four areas of Sinaloa after the arrests and security forces were sent to reopen roads. [@10,28] The Sinaloa state government said on 21 November that the situation was largely under control. [@17] Meza Flores,
 first indicted in the United States in 2012 and sanctioned under the US Kingpin
 Act in 2013, had evaded capture for more than a decade. [@8,10,21] He was prosecuted in 2019 on drug-trafficking and weapons-possession charges. [@19,26] The capture came days after President Claudia Sheinbaum met Donald Trump at an Asian summit, where Trump said the two discussed trade and security and that the United States was working with Mexico against drug cartels. [@13,27]
