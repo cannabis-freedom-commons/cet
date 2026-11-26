@@ -51,42 +51,42 @@ sources:
     publisher: TVMnews.mt
     date: 2026-11-20
     language: mt
+  - title: Man cleared of drug trafficking after 26 years
+    url: https://timesofmalta.com/article/man-cleared-drug-trafficking-26-years.1137527
+    publisher: Times of Malta
+    date: 2026-11-23
 open_questions:
-  - No separate date is given for the judgment; 20 November 2026 is the publication date of both accounts and is used as the incident date.
-  - The raid was on 23 July 2000 and the verdict came in 2026; the sources do not explain the delay.
-  - No value or estimate was published for the 33 grams of cannabis or the other drugs.
-  - The English account says 'several capsules' while the Maltese account specifies 17; the Maltese figure is not repeated in the English text.
-  - The English account calls the earlier conviction only traffic-related and dating to 1998; the Maltese account specifies careless driving without a seat belt on 14 August 1998.
-  - Both accounts are published by the same broadcaster, TVM, in English and Maltese, so they are not independent reports.
+    - No separate date is given for the judgment; the accounts were published on 20 and 23 November 2026 and 20 November is used as the incident date.
+    - The raid was on 23 July 2000 and the verdict came in 2026; the sources do not explain the delay.
+    - No value or estimate was published for the 33 grams of cannabis or the other drugs.
 ---
 
 Joseph Camilleri, a 54-year-old man from Żurrieq, was placed under a two-year
 probation order after a Court found him guilty of simple possession of heroin,
-cocaine, and cannabis. [@1] The Court found that the 33 grams of cannabis
-discovered justified a conviction for simple possession. [@1]
+cocaine, and cannabis. [@1,3] The Court found that the 33 grams of cannabis
+discovered justified a conviction for simple possession. [@1,3]
 
 The case stems from a police raid carried out on 23 July 2000 at the residence
 of Joseph Camilleri, where officers discovered 81 grams of heroin alongside
-cash, drug-related paraphernalia, traces of cannabis, and several capsules. [@1]
+cash, drug-related paraphernalia, traces of cannabis, and several capsules. [@1,3]
 Officers also found a wooden box carved with a cannabis-leaf symbol, a spoon
-with burn marks and 17 capsules in a bag in a room with children's toys. [@2]
+with burn marks and 17 capsules in a bag in a room with children's toys. [@2,3]
 The accused was subsequently charged with aggravated possession of heroin,
 cocaine, and cannabis, as well as associating with others for the purpose of
-drug trafficking. [@1]
+drug trafficking. [@1,3]
 
 In her judgment, Magistrate Dr Caroline Farrugia Frendo described the amount of
 heroin involved as significant and acknowledged that such quantities would not
-ordinarily be associated with exclusive personal use. [@1] She stressed that
+ordinarily be associated with exclusive personal use. [@1,3] She stressed that
 criminal convictions must be based on evidence rather than suspicion and
 concluded that the prosecution had not presented sufficient proof of
-trafficking. [@1] The allegation that Camilleri had associated with others to
+trafficking. [@1,3] The allegation that Camilleri had associated with others to
 traffic drugs was dismissed after the Court found no evidence to support it.
-[@1] The Court also found Camilleri guilty of recidivism due to a previous
-traffic-related conviction dating back to 1998. [@1] The recidivism finding
-arose from careless driving without a seat belt on 14 August 1998. [@2] The
+[@1,3] The Court also found Camilleri guilty of recidivism due to a previous
+traffic-related conviction dating back to 1998. [@1,3] The recidivism finding
+arose from careless driving without a seat belt on 14 August 1998. [@2,3] The
 Court noted that Camilleri had successfully engaged in rehabilitation, rebuilt
 relationships with his children, and become involved in supporting others
-through rehabilitation-related services. [@1] The Court ruled that imprisonment
+through rehabilitation-related services. [@1,3] The Court ruled that imprisonment
 would not be appropriate and instead imposed a probation order for a period of
-two years. [@1]
-
+two years. [@1] Assistant Commissioner Johan Fenech led the prosecution, while lawyers Franco Debono, Marion Camilleri and Adreana Zammit appeared for Camilleri. [@3]
