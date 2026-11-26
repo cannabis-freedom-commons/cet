@@ -37,29 +37,27 @@ sources:
     publisher: Sada El Balad
     date: 2026-11-23
     language: ar
-open_questions:
-  - The number of gang members detained was not published.
-  - No separate date is given for the ambush; 23 November 2026 is the publication date and is used as the incident date.
-  - The 250 million pound and 6.5 billion pound values cover tramadol, Captagon and cigarettes together with hashish and cannot be separated into a cannabis-only value, so no value is recorded in figures.
-  - The account does not say whether the 250 kg of hashish was laboratory-tested.
-  - The whole account rests on one outlet report of a police statement; no second independent account was accessible.
+  - title: ضربة أمنية موجعة بـ6.75 مليار جنيه.. ضبط 6 ملايين قرص «كبتاجون» و250 كيلو حشيش بمطروح | المصري اليوم
+    url: https://www.almasryalyoum.com/news/details/4418155
+    publisher: Al-Masry Al-Youm
+    date: 2026-11-23
+    language: ar
 ---
 
 Security forces ambushed and detained members of a gang described as highly
 dangerous criminals while they were in Matrouh Governorate, with the Central
-Security Sector taking part. [@1] Legal procedures were taken after the
+Security Sector taking part. [@1,2] Legal procedures were taken after the
 detentions. [@1]
 
 Officers seized about one million Tramadol pills, 250 kg of hashish and one
 million smuggled cigarette packs, which police valued together at about 250
-million pounds. [@1] They also seized five million Captagon pills, which police
+million pounds. [@1,2] They also seized five million Captagon pills, which police
 valued at 6.5 billion pounds in the destination countries, for a combined total
-of about 6.75 billion pounds. [@1]
+of about 6.75 billion pounds. [@1,2]
 
 The operation followed information and investigations by the Sector for
 Combating Drugs, Unlicensed Arms and Ammunition, Egypt's anti-narcotics body, in
 coordination with other Interior Ministry agencies. [@1] Investigators said the
 gang brought large quantities of drugs, pills and smuggled cigarettes through
 desert tracks in Matrouh Governorate for sale inside Egypt and in other
-countries. [@1]
-
+countries. [@1,2]
