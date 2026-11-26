@@ -65,6 +65,11 @@ sources:
     publisher: Hindusthan Samachar
     date: 2026-11-23
     language: hi
+  - title: शिमला:ठियोग के बहानी गांव में तीन घरों पर एक साथ दबिश, करीब आठ किलो चरस बरामद - Theog Bahani Village Charas Recovery Three Arrested Shimla Police - Amar Ujala Hindi News Live
+    url: https://www.amarujala.com/shimla/theog-bahani-village-charas-recovery-three-arrested-shimla-police-2026-11-23
+    publisher: Amar Ujala
+    date: 2026-11-23
+    language: hi
 open_questions:
     - The three stated recoveries of 1.7 kg, 900 grams and approximately 5.5 kg do not add exactly to the police's round total of 'around 8 kg'.
     - The raids are described as an early-morning operation at the start of the week with differing weekday accounts; the FIRs are dated 22 November 2026 and the articles were published on 23 November.
@@ -82,27 +87,32 @@ media:
     media_url: https://www.hindusthansamachar.in/Encyc/2026/11/23/9924d2741dd34b86f493fed021896522_2118225311_H@@IGHT_0_W@@IDTH_600.jpg
     publisher: Hindusthan Samachar
     caption: 'Smuggler arrested on charas charges in the Theog raid. Photo: Hindusthan Samachar'
+  - kind: photo
+    url: https://www.amarujala.com/shimla/theog-bahani-village-charas-recovery-three-arrested-shimla-police-2026-11-23
+    media_url: https://staticimg.amarujala.com/assets/images/2026/11/23/palsa-ka-garafata-ma-aarapa_9318da2f9db72219093e423cd91edd1d.jpeg?w=674&dpr=2.0&q=80
+    publisher: Amar Ujala
+    caption: 'The accused in police custody after the Bahani village raids. Photo: Amar Ujala Network'
 ---
 
 Shimla Police arrested three people and recovered around 8 kg of charas during
 simultaneous raids at three residential premises in Bahani village under Theog
-police station. [@1,2,3,4] The raids followed specific intelligence inputs and formed
+police station. [@1,2,3,4,5] Police teams searched the three premises at the same time so that the accused could not alert each other. [@5] The raids followed specific intelligence inputs and formed
 part of an intensified campaign against drug trafficking. [@1,2]
 
 Officers recovered 1.7 kg of charas from the residence of Shyam Singh and 900
-grams from the house of Laxmi Nand. [@1,2,4] The biggest recovery was about 5.5 kg
+grams from the house of Laxmi Nand. [@1,2,4,5] The biggest recovery was about 5.5 kg
 of charas from the residence of Dila Ram, along with Rs 1,05,690 in cash and a
 weighing machine. [@1,4] Hari Vallabh was also named among the accused, though his
 parentage and the recovery attributed to him were not detailed. [@1] The Hindi account names the third householder as Hari Vallabh, son of late Dila Ram, indicating Dila Ram is the father's name. [@4] Three FIRs,
 numbered 179/26, 180/26 and 181/26, were registered at Theog police station on
 November 22 under Section 20 of the NDPS Act. [@1,4] All three accused were
 arrested and investigators were examining the source of the contraband and
-possible links in the supply network. [@1]
+possible links in the supply network. [@1,5]
 
 Shimla Police said it had registered 27 cases involving commercial quantities of
-narcotics so far in 2026, against six in 2025, 14 in 2024 and six in 2023. [@1,2,4]
+narcotics so far in 2026, against six in 2025, 14 in 2024 and six in 2023. [@1,2,4,5]
 Police attributed the rise to a shift in enforcement strategy towards major
 suppliers, their hideouts and organised trafficking networks rather than
 street-level peddlers. [@1] Police said the crackdown would continue with
 sustained surveillance and intelligence-based operations to curb the drug supply
-chain. [@1] SSP Gaurav Singh said the drive against drug traffickers and their network would continue. [@2]
+chain. [@1] SSP Gaurav Singh said the drive against drug traffickers and their network would continue. [@2,5]
