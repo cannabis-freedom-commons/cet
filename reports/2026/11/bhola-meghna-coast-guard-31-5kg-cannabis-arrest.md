@@ -50,27 +50,33 @@ sources:
     url: https://barlekhatoday.com/en/news/bn-20261123-13742
     publisher: Barlekha Today
     date: 2026-11-23
-open_questions:
-  - The Tk 12.85 lakh valuation is reported for the cannabis and whisky together and cannot be separated into a cannabis-only value.
-  - The 10 bottles of Royal Stag whisky are excluded from the cannabis weight and figures.
-  - No charges, court step or case outcome were reported beyond legal proceedings being under way.
+  - title: ভোলায় ৩১ কেজি গাঁজা ও হুইস্কিসহ আটক ১
+    url: https://www.dhakatimes24.com/2026/11/23/417709
+    publisher: Dhaka Times 24
+    date: 2026-11-23
+    language: bn
+media:
+  - kind: photo
+    url: https://www.dhakatimes24.com/2026/11/23/417709
+    media_url: https://img.dhakatimes24.com/assets/news_photos/2026/11/23/image-417709.jpg
+    publisher: Dhaka Times 24
+    caption: 'Coast Guard personnel with wrapped bundles marked as 31 kg 500 g of ganja and ten bottles of Royal Stag whisky from the Meghna River seizure at Bhola. Photo: Bangladesh Coast Guard Southern Zone, via Dhaka Times 24'
 ---
 
 Bangladesh Coast Guard arrested a suspected drug peddler during an
-anti-narcotics drive in the Meghna River in Bhola on Monday morning. [@1] A team
+anti-narcotics drive in the Meghna River in Bhola on Monday morning. [@1,3] A team
 from Coast Guard Base Bhola conducted a special drive in the area at 11:00am on
-Monday, searching a suspicious speedboat and detaining the suspect. [@1] The
+Monday, searching a suspicious speedboat and detaining the suspect. [@1,3] The
 detained youth was named as Md Selim (28). [@2] Selim is the son of Romez Ali of
 Kalikapor village in Chauddagram upazila of Cumilla. [@2]
 
 Officers seized 31.5 kilograms of cannabis and 10 bottles of Royal Stag whisky
 from a suspicious speedboat in the Meghna River near Majher Char, Ilisha, Bhola.
-[@1] The seized cannabis and whisky were valued at around Tk 12.85 lakh. [@1]
+[@1,3] The seized cannabis and whisky were valued at around Tk 12.85 lakh. [@1,3]
 
 Surveillance and patrols were stepped up after a tip-off that a large
 consignment of drugs would enter Bhola via the Meghna River near Majher Char of
-Ilisha under Sadar thana. [@1] Coast Guard media officer Lieutenant Commander
+Ilisha under Sadar thana. [@1,3] Coast Guard media officer Lieutenant Commander
 Sumon Al Mukit gave the details in a press release issued on Monday afternoon.
-[@1] The process of taking legal action over the seized drugs and the detained
-youth was under way. [@2]
-
+[@1,3] The process of taking legal action over the seized drugs and the detained
+youth was under way. [@2,3]
