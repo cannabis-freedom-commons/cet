@@ -43,26 +43,31 @@ sources:
     publisher: 112hoogezand.nl
     date: 2026-11-24
     language: nl
-open_questions:
-  - The source says just over 50 kilograms of cannabis was found, so 50 kg is used as the stated minimum.
-  - The whole account rests on a single local report of the police operation; no second independent account was found.
-  - No charges, court outcome or further detentions had been reported; the arrested man remained a suspect with the investigation ongoing.
+  - title: Hennepkwekerij opgerold in Froombosch met ruim 1.120 planten
+    url: https://drimble.nl/regio/groningen/groningen-stad/108695103/hennepkwekerij-opgerold-in-froombosch-met-ruim-1120-planten.html
+    publisher: Drimble
+    date: 2026-11-24
+    language: nl
+  - title: Hennepkwekerij opgerold in Froombosch met ruim 1.120 planten - Menterwolde.info
+    url: https://www.menterwolde.info/politie/midden-groningen/hennepkwekerij-opgerold-in-froombosch-met-ruim-1.120-planten/
+    publisher: Menterwolde.info
+    date: 2026-11-24
+    language: nl
 ---
 
 A man who lives in the municipality of Midden-Groningen was arrested in
-connection with the Froombosch nursery. [@1] After questioning by the police,
+connection with the Froombosch nursery. [@1,3] After questioning by the police,
 the arrested man was sent home, although the police account says that he remains
-a suspect in the ongoing case. [@1] Police said they do not rule out that more
+a suspect in the ongoing case. [@1,3] Police said they do not rule out that more
 than one person was involved in setting up and running the nursery. [@1]
 
 During a police operation in Froombosch on Thursday 19 November 2026, officers
 discovered a professionally constructed cannabis nursery that included a
 separate drying facility. [@1] During the operation in Froombosch, officers
-found a total of 1,120 cannabis plants at the nursery site. [@1] At the same
+found a total of 1,120 cannabis plants at the nursery site. [@1,2] At the same
 nursery site, officers also found just over 50 kilograms of cannabis alongside
-the growing plants. [@1] At the site, officers also established that electricity
-was being tapped illegally to supply the nursery. [@1]
+the growing plants. [@1,3] At the site, officers also established that electricity
+was being tapped illegally to supply the nursery. [@1,3]
 
 Police said the investigation into the nursery, the arrested suspect and any
 other people involved was still running. [@1]
-
