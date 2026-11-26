@@ -81,6 +81,11 @@ sources:
     publisher: БНТ Новини
     date: 2026-11-21
     language: bg
+  - title: 7 кг марихуана откриха във Варненско, 24 души са задържани
+    url: https://www.flagman.bg/article/394661
+    publisher: Флагман.Бг
+    date: 2026-11-21
+    language: bg
 open_questions:
     - The operation as a whole detained 24 people, described by police as suspected of various ordinary crimes; the reports do not say how many of those detentions, besides the Yunak man, are drug-related.
     - The 7 kilograms is the police's approximate figure; no exact weight and no laboratory confirmation of the drug were published.
@@ -90,18 +95,18 @@ open_questions:
 ---
 
 Police in Bulgaria's Varna province detained a 50-year-old man in the village of
-Yunak on suspicion of growing and distributing marijuana. [@1,3,4,5,7] The detention
+Yunak on suspicion of growing and distributing marijuana. [@1,3,4,5,7,8] The detention
 came during a specialised one-day police operation against property crime and
-traffic offences across Varna province on 20 November 2026. [@1,3,4,6,7] The operation
+traffic offences across Varna province on 20 November 2026. [@1,3,4,6,7,8] The operation
 was run by the Varna regional police directorate. [@2]
 
 Searches of the man's home and his car turned up about 7 kilograms of marijuana,
-which criminal investigators seized. [@2,3,4,5,7] In the same operation officers checked
-207 people and 203 vehicles. [@1,3,4,6,7] Officers recorded 107 traffic violations, 47
+which criminal investigators seized. [@2,3,4,5,7,8] In the same operation officers checked
+207 people and 203 vehicles. [@1,3,4,6,7,8] Officers recorded 107 traffic violations, 47
 of them spotted by unmarked police cars, and issued 103 electronic fines. [@1,3,4,5,7]
 
 The case was one of two drug-distribution cases that the operation uncovered,
 and pre-trial proceedings were opened in both. [@1,3,4,6,7] The second, on the
 Dalgopol–Sava road near the Asparuhovo turn-off, followed an investigation into
 methamphetamine distribution in the municipalities of Dalgopol and Dolni Chiflik
-and concerns a different substance. [@1] Officers found drugs and an electronic scale with traces of prohibited substances in his car. [@4,5,7] The other man, held during the same operation, had tried to flee a police check. [@4,6,7]
+and concerns a different substance. [@1,8] Officers found drugs and an electronic scale with traces of prohibited substances in his car. [@4,5,7] The other man, held during the same operation, had tried to flee a police check. [@4,6,7]
