@@ -72,36 +72,43 @@ sources:
     publisher: merdeka.com
     date: 2026-11-21
     language: id
-open_questions:
-  - The 346 suspects and 247 cases cover all drug types in the operation; how many related specifically to cannabis is not stated.
-  - The source says the 110 cannabis plants are included within the 7,338.26 grams of ganja; how that weight was calculated is not explained.
-  - The Rp656.3 billion estimate covers all seized drugs and alcohol, not cannabis alone.
-  - No charges, detention measures or court outcomes for the suspects were reported; the case was at the investigation stage.
-  - All four opened accounts reproduce the same Central Java police press-conference data and are not independent reporting.
-  - No laboratory confirmation of the seized plant material was reported.
+  - title: Operasi Sarang Narkoba di Jawa Tengah Ungkap 247 Kasus dan Sita Barang Bukti Rp656,3 Miliar
+    url: https://barometerindonesianews.com/operasi-sarang-narkoba-di-jawa-tengah-ungkap-247-kasus-dan-sita-barang-bukti-rp6563-miliar/
+    publisher: Barometer Indonesian News
+    date: 2026-11-21
+    language: id
+  - title: Polda Jateng Ungkap 247 Kasus Narkoba, 346 Tersangka Diamankan
+    url: https://rri.co.id/semarang/hukum/kriminalitas/2912141/polda-jateng-ungkap-247-kasus-narkoba-346-tersangka-diamankan
+    publisher: RRI
+    date: 2026-11-20
+    language: id
+  - title: Peredaran Narkoba Senilai Rp 656 Miliar Digagalkan di Jateng, 346 Orang Ditangkap
+    url: https://jateng.tribunnews.com/jawa-tengah/1273279/peredaran-narkoba-senilai-rp-656-miliar-digagalkan-di-jateng-346-orang-ditangkap
+    publisher: Tribun Jateng
+    date: 2026-11-20
+    language: id
 ---
 
 Central Java regional police and its district narcotics units secured 346
-suspects across 247 drug cases during Operasi Sarang Narkoba. [@3] The operation
+suspects across 247 drug cases during Operasi Sarang Narkoba. [@3,5] The operation
 ran from 9 October to 18 November 2026 across the Central Java police
-jurisdiction. [@1] Police described it as a simultaneous operation targeting
-points indicated as vulnerable to drug distribution. [@1]
+jurisdiction. [@1,5] Police described it as a simultaneous operation targeting
+points indicated as vulnerable to drug distribution. [@1,6]
 
 The cannabis in the seized haul was 7,338.26 grams (7.34 kg) of ganja, including
-110 cannabis plants. [@1] The ANTARA news agency also reported 110 cannabis
+110 cannabis plants. [@1,5] The ANTARA news agency also reported 110 cannabis
 plants and 4.59 kg of synthetic tobacco among the seized items. [@2] The same
 haul included 6,250.62 grams of sabu, 4,591 grams of synthetic tobacco, 214
 ecstasy pills and 355,603 dangerous-drug pills, none of which is counted in the
-cannabis figures. [@3] Police also seized 9,887.17 litres of alcohol in the same
-operation. [@1] Police valued the entire haul at an estimated Rp656.3 billion.
-[@1] Officers carried out 1,095 sweeps of prisons, nightclubs, boarding houses
-and terminals across the province. [@3]
+cannabis figures. [@3,7] Police also seized 9,887.17 litres of alcohol in the same
+operation. [@1,6] Police valued the entire haul at an estimated Rp656.3 billion.
+[@1,5] Officers carried out 1,095 sweeps of prisons, nightclubs, boarding houses
+and terminals across the province. [@3,6]
 
 At the press conference police displayed one whole cannabis plant from a
-cannabis cultivation case in Salatiga. [@4] Polrestabes Semarang recorded the
+cannabis cultivation case in Salatiga. [@4,5] Polrestabes Semarang recorded the
 most cases with 24, while the provincial narcotics directorate and the Surakarta
 and Pati police each recorded 15. [@3] Police estimated the operation saved
-about 84,653 Central Java residents from the risk of drug abuse. [@1] The police
+about 84,653 Central Java residents from the risk of drug abuse. [@1,5] The police
 chief said any officer involved in drug networks would be dismissed and
 prosecuted. [@3]
-
