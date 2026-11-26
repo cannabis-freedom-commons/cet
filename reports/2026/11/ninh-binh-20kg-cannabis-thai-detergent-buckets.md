@@ -86,6 +86,11 @@ media:
     media_url: https://filesdata.cadn.com.vn/filedatacadn/media/1200/2026/11/23/16-6.jpg
     publisher: Báo Công an TP Đà Nẵng
     caption: Lê Xuân Hưng detained with the cannabis seized in the Ninh Bình bust.
+  - kind: video
+    url: https://baotayninh.vn/ninh-binh-pha-duong-day-ma-tuy-xuyen-quoc-gia-thu-giu-20kg-can-sa-353936.html
+    media_url: https://media.baotayninh.vn/upload/video/202611/1405925_ninh_binh_pha_duong_day_ma_tuy_xuyen_quoc_gia_thu_giu_20kg_can_sa_19152122.mp4
+    publisher: Báo và phát thanh, truyền hình Tây Ninh
+    caption: 'Video report on the Ninh Bình police bust of a transnational drug ring and the 20 kg of cannabis seized. Video: Báo Tây Ninh'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 3ded1197a2e106d28eeafcd17a29787d
@@ -193,6 +198,11 @@ sources:
     publisher: Thuế & Hải quan Online - Tạp chí Kinh tế - Tài chính
     date: 2026-11-22
     language: vi
+  - title: 'Ninh Bình: Phá đường dây ma túy xuyên quốc gia, thu giữ 20kg cần sa'
+    url: https://baotayninh.vn/ninh-binh-pha-duong-day-ma-tuy-xuyen-quoc-gia-thu-giu-20kg-can-sa-353936.html
+    publisher: Báo và phát thanh, truyền hình Tây Ninh
+    date: 2026-11-22
+    language: vi
 open_questions:
     - No figure for the value of the 20 kg of cannabis was published.
     - The reports do not say how the cannabis crossed the border from Thailand or whether the supplier there has been identified.
@@ -208,9 +218,9 @@ trading narcotic substances and had completed that prison sentence on 29 April
 2024. [@1,3,4,5,6,7,9,11,12,16,18,20,21] The cannabis was supplied by a person living in Thailand, and Hưng received the shipments, hid and divided the drug and delivered it to buyers on the supplier's instructions, taking an agreed share of the money after each deal. [@6,11,12,18,20] At about 02:00 on 21 November 2026 the provincial drug crime
 investigation office, with the Ministry of Public Security's drug crime
 department, customs officers and provincial forensic officers, broke up a ring
-that took cannabis from Thailand to Ninh Bình for sale. [@1,3,5,7,8,9,11,15,16] The operation on 21 November 2026 was carried out with Nam Định Customs and the customs control team of the regional customs branch IV, alongside the Ministry of Public Security's drug crime department and provincial forensic officers. [@4,21] Officers seized 20
+that took cannabis from Thailand to Ninh Bình for sale. [@1,3,5,7,8,9,11,15,16,22] The operation on 21 November 2026 was carried out with Nam Định Customs and the customs control team of the regional customs branch IV, alongside the Ministry of Public Security's drug crime department and provincial forensic officers. [@4,21] Officers seized 20
 kg of cannabis that had been hidden inside buckets of imported Thai laundry
-detergent. [@1,3,4,5,7,9,10,11,12,14,16,17,18,19,20,21] Tools used to divide and package the drugs were also seized. [@13,19]
+detergent. [@1,3,4,5,7,9,10,11,12,14,16,17,18,19,20,21,22] Tools used to divide and package the drugs were also seized. [@13,19]
 
 Investigators said the cannabis was supplied by a person living in Thailand, and
 that Hưng received shipments from Thailand, stored them, divided them up and
