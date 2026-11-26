@@ -48,22 +48,27 @@ sources:
     publisher: قناة صدى البلد
     date: 2026-11-23
     language: ar
+  - title: ضبط 3 بالفيوم بتهمة الاعتداء على سيدة ووالدها.. والعثور على حشيش وسلاح خرطوش
+    url: https://www.dostor.org/5788595
+    publisher: جريدة الدستور
+    date: 2026-11-23
+    language: ar
 ---
 
 Egypt's Interior Ministry security units said they examined a video circulating
 on social media in which a woman complained that several people were trafficking
-drugs and insulting and beating her father in Faiyum governorate. [@1,2]
+drugs and insulting and beating her father in Faiyum governorate. [@1,2,3]
 Investigators found that on 21 November the First Faiyum police station received
 a complaint from a housewife living in its district, who accused three people of
-insulting and beating her and her father over neighbourhood disputes. [@1,2] After
+insulting and beating her and her father over neighbourhood disputes. [@1,2,3] After
 completing legal formalities, security forces identified and arrested the three
-people named in the complaint. [@1,2]
+people named in the complaint. [@1,2,3]
 
 At the time of the arrests, officers found one of the three holding a quantity
 of hashish and a firearm described as a fard khartoush, a single-barrel shotgun.
-[@1,2] When confronted, the three admitted assaulting the complainant and her
+[@1,2,3] When confronted, the three admitted assaulting the complainant and her
 father as alleged, and one of them admitted possessing the seized drugs for
-trafficking. [@1,2]
+trafficking. [@1,2,3]
 
 The authorities said the required legal procedures were taken against the three.
 [@1,2] Police presented the case as part of work to clarify incidents circulated
