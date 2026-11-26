@@ -59,6 +59,11 @@ media:
     media_url: https://lubuska.policja.gov.pl/dokumenty/zalaczniki/135/135-277348.mp4
     publisher: Policja Lubuska
     caption: 'Police video published with the Krosno Odrzańskie command''s announcement of the 44-year-old''s arrest and the drug seizure. Video: KPP Krosno Odrzańskie'
+  - kind: photo
+    url: https://informacje.wp.pl/wiadomosci/ponad-trzy-kilogramy-narkotykow-w-rekach-policji-44-latek-trafil-do-aresztu-7354161815607328a
+    media_url: https://v.wpimg.pl/ZWE5ZGVidTYkVyx0eRJ4I2cPeC4_S3Z1MBdgZXlQaW89AGh_eQ8zOyBHPzc5Rz0lMEU7MCZHKjtqVCoueR9reCFcKTc6CCN4IFg4IjJGb2cgB2t0bgt3ZnUEPGpiCjllaAxtcGFEbjZ0AT8mbw0_NXAFeDo
+    publisher: WP Info
+    caption: Drugs secured by police and the criminal-police operation in Krosno Odrzańskie.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash-1017#max
 submission: eb76c57ee8d094c8b4ffe51bfa00cc9a
@@ -74,26 +79,22 @@ sources:
     publisher: Gazeta Lubuska
     date: 2026-11-23
     language: pl
-open_questions:
-  - The release gives no date for the arrest or search; 23 November 2026 is its publication date and is used as the incident date.
-  - The statements say only "over 3 kilograms" of dried cannabis herb, so the exact weight is unknown.
-  - No weight was published for the hashish, and the statements do not say whether it is included in the 3-kilogram figure.
-  - The town or village of the man's residence is not named; the case is reported only through the Krosno Odrzańskie county command.
-  - The weights of the psychotropic substances are not reported and are not counted as cannabis.
-  - No plea, trial date or further court decision beyond the pre-trial detention order was reported.
-  - Gazeta Lubuska's account rewrites the police statement and adds no independent reporting.
+  - title: Ponad trzy kilogramy narkotyków w rękach policji. 44-latek trafił do aresztu
+    url: https://informacje.wp.pl/wiadomosci/ponad-trzy-kilogramy-narkotykow-w-rekach-policji-44-latek-trafil-do-aresztu-7354161815607328a
+    publisher: WP Info
+    date: 2026-11-23
+    language: pl
 ---
 
 Officers from the criminal division of the Krosno Odrzańskie county police
-command arrested a 44-year-old man on suspicion of drug possession. [@1] At his
+command arrested a 44-year-old man on suspicion of drug possession. [@1,3] At his
 place of residence they seized over 3 kilograms of dried cannabis herb other
-than fibre hemp, plus hashish and various psychotropic substances. [@2] The
+than fibre hemp, plus hashish and various psychotropic substances. [@2,3] The
 seized substances were to be sent for further testing to establish their exact
-composition. [@1]
+composition. [@1,3]
 
 The man was taken to the District Prosecutor's Office in Krosno Odrzańskie,
 where he heard charges of cultivating and producing significant quantities of
-drugs and of possessing narcotic drugs and psychotropic substances. [@1] At the
-prosecutor's request the court ordered pre-trial detention. [@1] He now faces up
-to 20 years in prison. [@1]
-
+drugs and of possessing narcotic drugs and psychotropic substances. [@1,3] At the
+prosecutor's request the court ordered pre-trial detention. [@1,3] He now faces up
+to 20 years in prison. [@1,3]
