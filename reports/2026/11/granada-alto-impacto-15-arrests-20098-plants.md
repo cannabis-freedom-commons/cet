@@ -67,19 +67,17 @@ sources:
     publisher: Ideal
     date: 2026-11-23
     language: es
-open_questions:
-  - The recorded 6.84 kg combines exact figures of 650 grams and 2.69 kilos with approximate figures of about one kilo and about 2.5 kilos of chopped marijuana.
-  - The about 1,200 pots with roots and remains of freshly cut plants were not counted as seized plants.
-  - No names, charges filed or court outcomes beyond detention and investigation were reported.
-  - The two handguns and shotgun were pending technical expert analysis, with no further finding reported.
-  - No amount was published for the alleged electricity fraud.
-  - The article also describes unrelated arrests for a stabbing death, attempted homicide and arson fires, which are separate events left out here.
+  - title: Sucesos.- Intervenidas más de 20.000 plantas de marihuana en tres días de operaciones de alto impacto en Granada
+    url: https://www.msn.com/es-es/noticias/otras/sucesos-intervenidas-m%C3%A1s-de-20000-plantas-de-marihuana-en-tres-d%C3%ADas-de-operaciones-de-alto-impacto-en-granada/ar-AA2i2MLc
+    publisher: Europa Press (via MSN)
+    date: 2026-11-23
+    language: es
 ---
 
 In the whole set of operations officers detained 15 people and investigated 36
-others for alleged public-health offences and electricity fraud. [@1,3] The
+others for alleged public-health offences and electricity fraud. [@1,3,4] The
 actions took place on Wednesday 18, Thursday 19 and Friday 20 November in Pinos
-Puente, Moraleda de Zafayona, Santa Fe, Cogollos Vega and Peligros. [@1,3] The
+Puente, Moraleda de Zafayona, Santa Fe, Cogollos Vega and Peligros. [@1,3,4] The
 Guardia Civil said the seizure of 20,098 cannabis sativa plants in eight
 operations targeted intensive cultivation under its Alto Impacto service in the
 province. [@1,3] The force described the raids as an operation against large-scale
@@ -89,8 +87,8 @@ The force carried out 54 entries and searches across five municipalities and
 seized 20,098 cannabis sativa plants in eight intensive-cultivation operations.
 [@2] With 14,409 plants seized in Pinos Puente, 18 November was the day with the
 most plants seized since the Alto Impacto service began in Granada province.
-[@1] In the first Pinos Puente action officers carried out seven entries and
-searches and seized 1,042 plants. [@1] In the second operation officers carried
+[@1,4] In the first Pinos Puente action officers carried out seven entries and
+searches and seized 1,042 plants. [@1,4] In the second operation officers carried
 out 25 more searches and seized 13,367 plants, the largest amount in a single
 operation over the three days. [@1] In those same searches officers found about
 a kilo of chopped marijuana, two army flak vests, two bladed weapons and a
