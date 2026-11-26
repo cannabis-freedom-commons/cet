@@ -48,30 +48,45 @@ sources:
     url: https://open.kg/en/news/incidents/140409-v-uzgene-zaderzhan-muzhchina-podozrevaemyj-v-hranenii-narkotikov-u-sebja-doma.html
     publisher: Open.kg
     date: 2026-11-23
+  - title: В Узгене у мужчины дома обнаружили почти 1,9 кг марихуаны
+    url: https://kaktus.media/doc/557361_v_yzgene_y_myjchiny_doma_obnaryjili_pochti_19_kg_marihyany.html
+    publisher: Kaktus.media
+    date: 2026-11-23
+    language: ru
 open_questions:
   - No separate date for the detention or search was published; 23 November 2026 is the publication date of both accounts and is used as the incident date.
   - No street value or other valuation for the 1 kg 885 g of marijuana was published.
   - No court outcome, detention term, plea or charge beyond the opened Article 283 case was reported.
   - Both accounts reproduce the Osh police statement as carried by Open.kg, so there is no independent reporting of the seizure.
+media:
+  - kind: photo
+    url: https://kaktus.media/doc/557361_v_yzgene_y_myjchiny_doma_obnaryjili_pochti_19_kg_marihyany.html
+    media_url: https://data.kaktus.media/image/big/2026-11-23_19-47-14_255862.jpg
+    publisher: Kaktus.media
+    caption: Image accompanying Kaktus.media's report on the 1 kg 885 g of marijuana found and seized at a 51-year-old man's home in Uzgen, Osh Region.
+  - kind: photo
+    url: https://kaktus.media/doc/557361_v_yzgene_y_myjchiny_doma_obnaryjili_pochti_19_kg_marihyany.html
+    media_url: https://data.kaktus.media/image/big/2026-11-23_19-47-13_999802.jpg
+    publisher: Kaktus.media
+    caption: Second image accompanying the same Kaktus.media report on the Uzgen marijuana seizure and the suspect's detention.
 ---
 
 In Uzgen, located in the Osh region, a 51-year-old man was detained after almost
-1.9 kg of marijuana was discovered in his home. [@1] The detained man was
-identified as T. K., born in 1975. [@1] He was placed in a temporary detention
-facility. [@2] Criminal proceedings were opened against him under Article 283 of
+1.9 kg of marijuana was discovered in his home. [@1,3] The detained man was
+identified as T. K., born in 1975. [@1,3] He was placed in a temporary detention
+facility. [@2,3] Criminal proceedings were opened against him under Article 283 of
 the Criminal Code of the Kyrgyz Republic, which concerns illegal production of
-drugs and psychotropic substances without intent to sell. [@1]
+drugs and psychotropic substances without intent to sell. [@1,3]
 
 During a search of his home, officers found a substance with a characteristic
-smell weighing a total of 1 kg 885 g. [@1] An examination confirmed that the
-substance was marijuana. [@1] The 1 kilogram and 885 grams of marijuana were
-seized from T.K.'s house. [@2]
+smell weighing a total of 1 kg 885 g. [@1,3] An examination confirmed that the
+substance was marijuana. [@1,3] The 1 kilogram and 885 grams of marijuana were
+seized from T.K.'s house. [@2,3]
 
 The detention and seizure were reported by the press service of the Osh region
-police. [@1] According to the Interior Ministry of the Osh region, prohibited
+police. [@1,3] According to the Interior Ministry of the Osh region, prohibited
 substances were found in his home. [@2] A criminal case was initiated under the
 article on illegal production of narcotic drugs, psychotropic substances and
 their analogues without intent to sell. [@2] Police said investigative
 activities are continuing to establish other possible participants in the crime.
-[@1]
-
+[@1,3]
