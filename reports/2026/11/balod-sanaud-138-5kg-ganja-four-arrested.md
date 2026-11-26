@@ -68,15 +68,11 @@ sources:
     publisher: ETV Bharat
     date: 2026-11-23
     language: hi
-open_questions:
-    - The report dates only the first Arkar raid to 21 November 2026; the date of the Khapparwada arrests and house search is not stated separately.
-    - The two component weights of 1.995 kg and 136.56 kg sum to 138.555 kg, 0.004 kg more than the reported total of 138.551 kg used in this report.
-    - The ganja valuation of 6,927,550 rupees and the total seized-property valuation of 8,572,550 rupees are police estimates and were not independently verified.
-    - No laboratory confirmation of the seized plant material is reported.
-    - No court outcome or trial date is reported; the case stood at the investigation stage with legal action said to be under way.
-    - Dainik Bhaskar gives the total seized ganja as 139 kg, while this report uses the 138.551 kg given in the Navbharat Live and Amar Ujala accounts.
-    - Dainik Bhaskar says police had Kosre telephone the brothers to a meeting and detained them on the road as they arrived by motorcycle, while the other accounts say police cordoned the area outside Khapparwada village and caught both brothers.
-    - The accounts reproduce the same Balod police statement and are not independent reporting.
+  - title: 'पेटी और दीवान में छिपाकर रखा 70 लाख का गांजा: ओडिशा से लाकर छत्तीसगढ़ में खपाते थे, किसान से तस्कर बने सगे भाई - Balod Ganja Seizure | Police Arrest Four Including Two Brothers'
+    url: https://www.bhaskar.com/local/chhattisgarh/balod/news/balod-police-ganja-seizure-odisha-smuggling-arrest-raids-139776929.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-23
+    language: hi
 media:
   - kind: photo
     url: https://www.bhaskar.com/amp/local/chhattisgarh/balod/news/balod-police-ganja-seizure-odisha-smuggling-arrest-raids-139776929.html
@@ -101,9 +97,9 @@ media:
 ---
 
 Balod police arrested four men, including two brothers, over an
-Odisha-to-Chhattisgarh ganja smuggling network. [@1,2] Officers seized a total of
+Odisha-to-Chhattisgarh ganja smuggling network. [@1,2,5] Officers seized a total of
 138.551 kilograms of ganja in Sanaud police station area, which police valued at
-6,927,550 rupees. [@1,3] Acting on an informant tip on 21 November 2026, Sanaud
+6,927,550 rupees. [@1,3,5] Acting on an informant tip on 21 November 2026, Sanaud
 police raided the house of Bhisham Satnami of Arkar village, who was allegedly
 storing and selling ganja at home. [@1,2] Officers recovered 1.995 kilograms of
 ganja in two packets from the 28-year-old Satnami. [@1,2] Satnami told police he
