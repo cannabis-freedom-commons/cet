@@ -50,11 +50,16 @@ sources:
     url: https://www.realviewnews.com/article/coast-guard-customs-seize-ganja-pamban-two-held-55342b49
     publisher: Real View News
     date: 2026-11-23
+  - title: 208 kg of drugs seized in Tamil Nadu in a month were bound for Sri Lanka, investigators say
+    url: https://www.deccanherald.com/india/tamil-nadu/208-kg-of-drugs-seized-in-tamil-nadu-in-a-month-were-bound-for-sri-lanka-investigators-say-4228610
+    publisher: Deccan Herald
+    date: 2026-11-23
 open_questions:
-  - The second account describes the interception as on Monday morning without giving a calendar date, while the first account dates it to 22 November 2026, which is used as the incident date.
-  - The first account says the men and seizure were brought to Mandapam, while the second account says they were brought to the Ramanathapuram Customs office.
-  - No charges, laboratory confirmation or court outcome were reported; the case was at the investigation stage.
-  - Both accounts reproduce official statements and are not independent reporting.
+    - The second account describes the interception as on Monday morning without giving a calendar date, while the first account dates it to 22 November 2026, which is used as the incident date; a third account places the seizure on Sunday night.
+    - The first account says the men and seizure were brought to Mandapam, while the second account says they were brought to the Ramanathapuram Customs office.
+    - No charges, laboratory confirmation or court outcome were reported; the case was at the investigation stage.
+    - The first two accounts reproduce official statements and are not independent reporting.
+    - Deccan Herald reported no clarity on whether the 77 kg Pamban consignment was also being smuggled to Sri Lanka.
 ---
 
 A joint team from the Indian Coast Guard station in Mandapam and the Tiruchi
@@ -66,12 +71,11 @@ and identified as Aeronius, 33, and Gunasekaran, 42, both residents of Saveriyar
 Nagar in Thangachimadam. [@2]
 
 A search of the vessel recovered about 77 kg of ganja packed into parcels and
-concealed in three gunny sacks. [@2] The interception took place near Pamban in
-Ramanathapuram on 22 November 2026. [@1] Officials estimated the international
+concealed in three gunny sacks. [@2,3] The interception took place near Pamban in
+Ramanathapuram on 22 November 2026. [@1,3] Officials estimated the international
 market value of the seized ganja at around Rs 25 lakh. [@2]
 
 The Indian Coast Guard Station, Mandapam, conducted the operation in
 coordination with the Customs Central Intelligence Unit, Tiruchy. [@1] The
 seized contraband, boat and two crew members were brought to Mandapam and handed
 over to the Customs Central Intelligence Unit for further legal action. [@1]
-
