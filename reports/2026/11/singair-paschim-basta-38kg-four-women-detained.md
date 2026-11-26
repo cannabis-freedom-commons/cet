@@ -54,6 +54,11 @@ media:
     media_url: https://www.bhorerkagoj.net/uploads/2026/11/online/photos/bk-4-6b04281596e94.jpg
     publisher: Bhorer Kagoj
     caption: 'The four women detained over the 38 kg cannabis seizure in Paschim Basta, Singair, photographed for the Bhorer Kagoj report after their arrest. Photo: Bhorer Kagoj'
+  - kind: photo
+    url: https://www.ajkerpatrika.com/bangladesh/manikganj/ajpiossh6h0nk
+    media_url: https://images.ajkerpatrika.com/original_images/%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%97%E0%A6%BE%E0%A6%87%E0%A6%B0-4ead50-720x405.webp
+    publisher: Ajker Patrika
+    caption: 'The four detained women and the seized cannabis from the Singair case. Photo: Ajker Patrika'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 8360382892d9061206eee1c6dee8bdcd
@@ -98,6 +103,11 @@ sources:
     publisher: NAGORIK TV
     date: 2026-11-23
     language: bn
+  - title: মানিকগঞ্জে ১৫ লাখ টাকার গাঁজাসহ চার নারী আটক
+    url: https://www.ajkerpatrika.com/bangladesh/manikganj/ajpiossh6h0nk
+    publisher: Ajker Patrika
+    date: 2026-11-23
+    language: bn
 open_questions:
     - 'Accounts differ on when and how the four women were detained on 22 November 2026: police describe an anti-drug operation at about 6:30 pm, while residents'' accounts give about 7:30 or 8:15 pm and describe a citizen detention.'
     - Accounts differ on whether the 38 kg was recovered from the women themselves or from the family's house, where residents say a consignment was found behind the kitchen.
@@ -108,15 +118,15 @@ open_questions:
 ---
 
 Local residents in Paschim Basta village, Singair upazila, Manikganj, detained
-four women with 38 kg of cannabis and handed them to police. [@1,3,4,5,6,8] The four women
+four women with 38 kg of cannabis and handed them to police. [@1,3,4,5,6,8,9] The four women
 were detained at about 8:15 pm on Sunday 22 November 2026 in Paschim Basta
 village in Dhalla union. [@1,8] Singair Thana police said they carried out an anti-drug operation on a tip-off, with residents' help, at about 6:30 pm on 22 November in Paschim Basta village, arresting the four and recovering the 38 kg from their possession. [@7] The detained women, all from Paschim Basta, were
-Taslima Begum, 32, Rujina Begum, 35, Tanha, 19, and Hazera Begum, 60. [@2,4,5,8] The four women were from the same family, including Hazera Begum's daughter Rujina Begum and her son's wife Tanha. [@5,6]
+Taslima Begum, 32, Rujina Begum, 35, Tanha, 19, and Hazera Begum, 60. [@2,4,5,8,9] The four women were from the same family, including Hazera Begum's daughter Rujina Begum and her son's wife Tanha. [@5,6]
 
 Residents searched the women after seeing them moving suspiciously and recovered
 the 38 kg of cannabis from them before handing them to Singair Thana police with
-the drug. [@1,8] Residents said the four women had long been involved in their
-family's drug business in the Basta area. [@1,8] Residents said they had been harassed in various ways when they protested against the family's drug dealing. [@6] Residents then went together to
+the drug. [@1,8,9] Residents said the four women had long been involved in their
+family's drug business in the Basta area. [@1,8,9] Residents said they had been harassed in various ways when they protested against the family's drug dealing. [@6] Residents then went together to
 the family's house and found a large consignment of cannabis behind the kitchen.
 [@1] Residents learned from a tip that a large consignment of cannabis had been brought to the house and that preparations were under way to supply drugs from there to other areas. [@6] Resident Ramzan Ali said the household head, Akkas, and his family members
 had run a drug business in the area for a long time and that several family
@@ -127,4 +137,4 @@ Jhorna Akter, accused of being the main organiser of the operation, had fled.
 
 The four detained women were being held in police custody. [@1,3] Singair Thana
 officer-in-charge Mazharul Islam said a case against the four women over the
-recovery of the 38 kg was being prepared. [@2,3,4] A case had been filed against the detained women. [@5,6,7,8] Sub-inspector Rezaul Karim filed the case under the Narcotics Control Act against six people. [@7] The four arrested women were sent to court through the legal process, and police said efforts to arrest the other two were continuing. [@7] Officer-in-charge Mazharul Islam said the arrested people's family members are identified drug traffickers with several drug cases against them. [@7]
+recovery of the 38 kg was being prepared. [@2,3,4] A case had been filed against the detained women. [@5,6,7,8,9] Sub-inspector Rezaul Karim filed the case under the Narcotics Control Act against six people. [@7] The four arrested women were sent to court through the legal process, and police said efforts to arrest the other two were continuing. [@7] The four women were sent to court on Monday noon. [@9] Officer-in-charge Mazharul Islam said the arrested people's family members are identified drug traffickers with several drug cases against them. [@7,9]
