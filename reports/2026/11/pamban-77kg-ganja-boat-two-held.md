@@ -69,6 +69,10 @@ sources:
     publisher: Lokmat News Hindi
     date: 2026-11-23
     language: hi
+  - title: 'TN: 77 kg cannabis seized from boat, two held - Social News XYZ'
+    url: https://www.socialnews.xyz/2026/11/23/tn-77-kg-cannabis-seized-from-boat-two-held/
+    publisher: Social News XYZ
+    date: 2026-11-23
 media:
   - kind: photo
     url: https://tamil.news18.com/tamil-nadu/77-kg-ganja-seized-near-pamban-nw-kpk-ws-l-2260254.html
@@ -91,6 +95,6 @@ Ramanathapuram on 22 November 2026. [@1,3] Officials estimated the international
 market value of the seized ganja at around Rs 25 lakh. [@2]
 
 The Indian Coast Guard Station, Mandapam, conducted the operation in
-coordination with the Customs Central Intelligence Unit, Tiruchy. [@1,4,5,6] The
+coordination with the Customs Central Intelligence Unit, Tiruchy. [@1,4,5,6,7] The
 seized contraband, boat and two crew members were brought to Mandapam and handed
-over to the Customs Central Intelligence Unit for further legal action. [@1,4,5,6]
+over to the Customs Central Intelligence Unit for further legal action. [@1,4,5,6,7]
